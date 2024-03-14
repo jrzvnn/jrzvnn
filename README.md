@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Meta plans to shut down CrowdTangle in August 2024 and replace it with Meta Content Library, available to academic and nonprofit researchers, not news outlets &lpar;Jeff Horwitz/Wall Street Journal&rpar;](http://www.techmeme.com/240314/p14#a240314p14)
- - [Regulators Need AI Expertise. They Can&#39;t Afford It](https://www.wired.com/story/regulators-need-ai-expertise-cant-afford-it/)
- - [Amazon says &quot;a tiny fraction&quot; of sellers paid for ads for products users couldn&#39;t buy and pledges a fix; Amazon offered a $15K refund to a seller seeking $300K &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/240314/p13#a240314p13)
- - [TikTok-funded Oxford Economics study of 1K US SMBs and 7.5K users: in 2023, TikTok drove $14.7B in SMB revenue, added $24.2B to US GDP, and supported 224K+ jobs &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/240314/p12#a240314p12)
- - [Can Reddit—the Internet’s Greatest Authenticity Machine—Survive Its Own IPO?](https://www.wired.com/story/inside-reddit-protest-ipo/)<!-- TECH:END -->
+ - [Spotify Music Videos Are Launching -- With One Big Catch     - CNET](https://www.cnet.com/tech/services-and-software/spotify-music-videos-are-launching-with-one-big-catch/#ftag=CAD590a51e)
+ - [IRS Free File: Everything to Know About the Program     - CNET](https://www.cnet.com/personal-finance/taxes/irs-free-file-everything-to-know-about-the-program/#ftag=CAD590a51e)
+ - [Xbox Game Pass Ultimate: Play SpongeBob Now, MLB 24 and More Soon     - CNET](https://www.cnet.com/tech/gaming/xbox-game-pass-ultimate-play-spongebob-mlb-24-and-more-soon/#ftag=CAD590a51e)
+ - [Regulators Need AI Expertise. They Can&#39;t Afford It](https://www.wired.com/story/regulators-need-ai-expertise-cant-afford-it/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

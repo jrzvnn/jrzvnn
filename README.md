@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I am always watching you](http://9gag.com/gag/aqevwwv)
- - 😝 [The original Spaghetti Carbonara](http://9gag.com/gag/a04mqmv)
- - 💣 [In a better, parallel universe...](http://9gag.com/gag/a6qWgDe)
- - 😝 [I miss fun ads](http://9gag.com/gag/aEqe4zo)
- - 👉 [A recent photo of Jackie Chan, who is about to turn 70.](http://9gag.com/gag/a3Zor05)<!-- MEMES:END -->
+ - 😝 [Is this kid trying to go to jail](http://9gag.com/gag/avQbwXn)
+ - 😝 [Men of culture](http://9gag.com/gag/aA0n7vp)
+ - 💣 [Whoever thought colonialism was bad: here are 2 western women feeding children...](http://9gag.com/gag/aPgO2oG)
+ - 😝 [Blind lady&#39;s birthday](http://9gag.com/gag/aoKBGp3)
+ - 👉 [Life is just a lottery, sometimes you win sometimes you dont](http://9gag.com/gag/aDYBLZZ)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft launches Copilot Pro worldwide with a one-month free trial; Pro subscribers can use the AI assistant in Office web apps without a Microsoft 365 sub &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240314/p32#a240314p32)
+ - [Netflix is bringing back Black Mirror in 2025](https://www.theverge.com/2024/3/14/24101013/black-mirror-season-7-netflix-date-trailer)
  - [Netherlands-based TheyDo, which helps companies map customer journeys, raised a $34M Series B led by Blossom Capital, bringing its total funding to about $50M &lpar;Kimberly Chin/Axios&rpar;](http://www.techmeme.com/240314/p31#a240314p31)
  - [Super Soaker spiritual successor Spyra just shrank its USB-C water blaster](https://www.theverge.com/2024/3/14/24100940/spyra-go-electric-water-gun-blaster)
- - [Microsoft launches Copilot Pro worldwide with a one-month free trial](https://www.theverge.com/2024/3/14/24100993/microsoft-copilot-pro-launch-free-trial)
- - [Apple acquires another AI startup focused on deep neural network generation](https://appleinsider.com/articles/24/03/14/apple-acquires-another-ai-startup-focused-on-deep-neural-network-generation?utm_medium=rss)
- - [Watch Europa Conference League Soccer: Livestream Aston Villa vs. Ajax From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/watch-europa-conference-league-soccer-livestream-aston-villa-vs-ajax-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft launches Copilot Pro worldwide with a one-month free trial](https://www.theverge.com/2024/3/14/24100993/microsoft-copilot-pro-launch-free-trial)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

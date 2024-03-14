@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Thunderbolt 5 vs Thunderbolt 4 -- compared](https://appleinsider.com/inside/mac/vs/thunderbolt-5-vs-thunderbolt-4----compared?utm_medium=rss)
+ - [Intel launches the $689 Core i9-14900KS Special Edition processor with clock speeds up to 6.2GHz, making it Intel&#39;s fastest mainstream chip &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240314/p25#a240314p25)
  - [15 Best Soundbars for Every Budget &lpar;2024&rpar;: Vizio, Sonos, Samsung, Yamaha, Sony](https://www.wired.com/gallery/best-soundbars/)
  - [Intel’s new Core i9-14900KS arrives today for $699 with boosts up to 6.2GHz](https://www.theverge.com/2024/3/14/24099713/intel-core-i9-14900ks-release-date-price-features)
- - [X takes down a graphic video shared by Elon Musk purporting to show cannibalism in Haiti, for violating the company&#39;s rules &lpar;Craig Trudell/Bloomberg&rpar;](http://www.techmeme.com/240314/p24#a240314p24)
- - [Watch Europa League Soccer: Livestream West Ham United vs. Freiburg From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/watch-europa-league-soccer-livestream-west-ham-united-vs-freiburg-from-anywhere/#ftag=CAD590a51e)
- - [US cybersecurity company Zscaler acquires Israeli cybersecurity startup Avalor for $350M; Avalor was founded two years ago and has raised just $30M to date &lpar;Assaf Gilead/Globes Online&rpar;](http://www.techmeme.com/240314/p23#a240314p23)<!-- TECH:END -->
+ - [X takes down a graphic video shared by Elon Musk purporting to show cannibalism in Haiti, for violating the company&#39;s rules &lpar;Craig Trudell/Bloomberg&rpar;](http://www.techmeme.com/240314/p24#a240314p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

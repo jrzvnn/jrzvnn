@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US Treasury is investigating ~$165M in crypto-linked transactions that may have helped finance Hamas before the group&#39;s October 7 attack against Israel &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240313/p37#a240313p37)
+ - [Amazon rolls out a generative AI feature that creates a product page, including a description and images, using information from a seller&#39;s external website &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240313/p36#a240313p36)
  - [Apple Vision Pro keyboard language code could hint at imminent global launch](https://appleinsider.com/articles/24/03/14/apple-vision-pro-keyboard-language-code-could-hint-at-imminent-global-launch?utm_medium=rss)
  - [Lenovo plans to release the Legion Tab, an 8.8&quot; Android gaming tablet currently available in China, in EMEA and other Asian markets this month, starting at &amp;euro;599 &lpar;Dashiell Wood/TechRadar&rpar;](http://www.techmeme.com/240313/p35#a240313p35)
- - [Turtle Beach is buying gamepad maker PDP](https://www.theverge.com/24100046/turtle-beach-pdp-acquisition)
- - [Anthropic releases Claude 3 Haiku, tailored for high-volume, latency-sensitive applications, saying it&#39;s &quot;the fastest and most affordable model&quot; in its class &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240313/p34#a240313p34)
- - [Block starts shipping Bitkey, its $150 bitcoin wallet debuted in 2022, with a hardware device, mobile app, recovery tools, and Cash App and Coinbase integration &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240313/p33#a240313p33)<!-- TECH:END -->
+ - [Best Solar Panel Installation Companies in Utah     - CNET](https://www.cnet.com/home/energy-and-utilities/utah-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

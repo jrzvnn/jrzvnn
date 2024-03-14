@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The original Spaghetti Carbonara](http://9gag.com/gag/a04mqmv)
- - 😝 [In a better, parallel universe...](http://9gag.com/gag/a6qWgDe)
- - 💣 [Your english teachers are full of shit](http://9gag.com/gag/aWGV5VA)
- - 😝 [I am always watching you](http://9gag.com/gag/aqevwwv)
- - 👉 [Dafuq are they feeding youngsters now?](http://9gag.com/gag/aXn8Obv)<!-- MEMES:END -->
+ - 😝 [The Paria Diving Incident](http://9gag.com/gag/awZqD9y)
+ - 😝 [Is this kid trying to go to jail](http://9gag.com/gag/avQbwXn)
+ - 💣 [Someone is troubled to see a place with no crime, no fighting, no shouting, clean and peaceful.](http://9gag.com/gag/aXn83Nb)
+ - 😝 [A recent photo of Jackie Chan, who is about to turn 70.](http://9gag.com/gag/a3Zor05)
+ - 👉 [Men of culture](http://9gag.com/gag/aA0n7vp)<!-- MEMES:END -->
 
 ---
 

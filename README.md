@@ -167,7 +167,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Damage to the West Africa Cable System, MainOne, and ACE sea cables disrupts internet services across Africa; the cause of the faults has not been determined &lpar;Bloomberg&rpar;](http://www.techmeme.com/240314/p29#a240314p29)
- - [Google rolls out real-time URL protection to Standard Safe Browsing on desktop and iOS, says the feature protects users&#39; privacy; Android gets the feature soon &lpar;Sheena Vasani/The Verge&rpar;](http://www.techmeme.com/240314/p28#a240314p28)
+ - [Google adds real-time URL protection to Chrome&#39;s Safe Browsing Standard on desktop and iOS, claiming to guard users&#39; privacy; Android will get the feature soon &lpar;Sheena Vasani/The Verge&rpar;](http://www.techmeme.com/240314/p28#a240314p28)
  - [Amazon&#39;s Big Spring Sale starts March 20, but you can grab official Apple products from $7.99 right now](https://appleinsider.com/articles/24/03/14/amazons-big-spring-sale-starts-march-20-but-you-can-grab-official-apple-products-from-799-right-now?utm_medium=rss)
  - [Apple speaks out against Epic&#39;s contempt of court accusation](https://appleinsider.com/articles/24/03/14/apple-speaks-out-against-epics-contempt-of-court-accusation?utm_medium=rss)
  - [Reddit launches free-form ads, an ad format that looks similar to posts made by users, but with a &quot;Promoted&quot; label, to help advertisers get maximum engagement &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240314/p27#a240314p27)<!-- TECH:END -->

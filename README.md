@@ -175,9 +175,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Addams Family &lpar;1991&rpar; then and now 2023](http://9gag.com/gag/az26zPb)
- - 😝 [Boning her right!](http://9gag.com/gag/ap9eX3D)
- - 💣 [Call security](http://9gag.com/gag/aXn860P)
+ - 😝 [Laugh](http://9gag.com/gag/aDYBKr9)
+ - 😝 [A great Comedian](http://9gag.com/gag/aDYBKQZ)
+ - 💣 [A recent photo of Jackie Chan, who is about to turn 70.](http://9gag.com/gag/a3Zor05)
  - 😝 [The Paria Diving Incident](http://9gag.com/gag/awZqD9y)
  - 👉 [Be careful what you wish for](http://9gag.com/gag/a2KQ3yD)<!-- MEMES:END -->
 

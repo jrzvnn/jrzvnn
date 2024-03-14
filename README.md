@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Unstructured, which helps companies prepare &quot;really messy, sloppy data&quot; for AI training, raised a $40M Series B led by Menlo Ventures at a $230M valuation &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/240314/p17#a240314p17)
- - [SpaceX’s third Starship flight test is now scheduled for 9:25AM ET](https://www.theverge.com/2024/3/13/24100031/spacex-starship-flight-test-license-launch-window)
- - [How a TikTok Ban Would Play Out](https://www.wired.com/story/gadget-lab-podcast-636/)
- - [Asus Zenfone 11 Ultra review: just another big phone](https://www.theverge.com/24099978/asus-zenfone-11-ultra-review-screen-battery-camera)
- - [The Asus Zenfone 11 Ultra is more screen, less zen](https://www.theverge.com/2024/3/14/24099665/asus-zenfone-11-ultra-screen-size-camera-specs-price)<!-- TECH:END -->
+ - [Proton releases its mail app for macOS and Windows out of beta, available via its $4/month Mail Plus or $10/month Unlimited tiers, and launches a beta Linux app &lpar;Nathan Ingraham/Engadget&rpar;](http://www.techmeme.com/240314/p18#a240314p18)
+ - [Blink Mini 2 Review: Small Size, Big Value](https://www.wired.com/review/blink-mini-2/)
+ - [Mini but mighty: Blink’s tiny, inexpensive camera can now go outdoors](https://www.theverge.com/24100149/blink-mini-2-review)
+ - [SpaceX Starship launch: third time’s the charm?](https://www.theverge.com/24100089/spacex-starship-launch-date-time-flight-test-three)
+ - [Unstructured, which helps companies prepare &quot;really messy, sloppy data&quot; for AI training, raised a $40M Series B led by Menlo Ventures at a $230M valuation &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/240314/p17#a240314p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

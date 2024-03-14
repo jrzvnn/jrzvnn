@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The original Spaghetti Carbonara](http://9gag.com/gag/a04mqmv)
- - 😝 [I am always watching you](http://9gag.com/gag/aqevwwv)
- - 💣 [In a better, parallel universe...](http://9gag.com/gag/a6qWgDe)
- - 😝 [Your english teachers are full of shit](http://9gag.com/gag/aWGV5VA)
- - 👉 [I miss fun ads](http://9gag.com/gag/aEqe4zo)<!-- MEMES:END -->
+ - 😝 [This scumbag, Eylem Tok, is now the headline in Turkey. Her scumbag teenage son killed a family father while racing another sports car in traffic. She grabbed the injured victim&#39;s phone so that he cannot call for help and helped her son first escape into Egypt, then USA](http://9gag.com/gag/a2KQgXd)
+ - 😝 [Hidden knowledge](http://9gag.com/gag/aNwyG33)
+ - 💣 [Is this kid trying to go to jail](http://9gag.com/gag/avQbwXn)
+ - 😝 [Call security](http://9gag.com/gag/aXn860P)
+ - 👉 [Men of culture](http://9gag.com/gag/aA0n7vp)<!-- MEMES:END -->
 
 ---
 

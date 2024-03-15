@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [M3 MacBook Air, TikTok, and a gem of a gift from Apple, on the AppleInsider Podcast](https://appleinsider.com/articles/24/03/15/m3-macbook-air-tiktok-and-a-gem-of-a-gift-from-apple-on-the-appleinsider-podcast?utm_medium=rss)
  - [The Competition Commission of India orders an antitrust probe into Google for charging Play Store app developers an &quot;excessive and unfair&quot; fee of 10% to 30% &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240315/p9#a240315p9)
  - [No One Knows What TikTok Is](https://www.wired.com/story/no-one-knows-what-tiktok-is/)
  - [Supreme Court to hear case on how the government talks to social media companies](https://www.theverge.com/2024/3/15/24101298/supreme-court-murthy-missouri-speech-social-media)
- - [Folding iPhone &amp; under-screen Face ID rumored arrival date pushed back -- again](https://appleinsider.com/articles/24/03/15/folding-iphone-under-screen-face-id-rumored-arrival-date-pushed-back----again?utm_medium=rss)
- - [In an open letter to Nick Clegg, 36 MEPs urge Meta to scrap the &quot;pay or okay&quot; choice given to EU users and &quot;align your business with the principles of the GDPR&quot; &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240315/p8#a240315p8)<!-- TECH:END -->
+ - [Folding iPhone &amp; under-screen Face ID rumored arrival date pushed back -- again](https://appleinsider.com/articles/24/03/15/folding-iphone-under-screen-face-id-rumored-arrival-date-pushed-back----again?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

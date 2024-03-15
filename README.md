@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How lucky are you?](http://9gag.com/gag/aA0nj39)
- - 😝 [I need a number two philips.](http://9gag.com/gag/a04mBPZ)
- - 💣 [Bread](http://9gag.com/gag/ay2yGWV)
- - 😝 [French, British, Swedish and German assemble](http://9gag.com/gag/ap9e4An)
- - 👉 [Cute Red Pandas](http://9gag.com/gag/a2KQe2E)<!-- MEMES:END -->
+ - 😝 [He is a gentleman and a scholar](http://9gag.com/gag/agoRzGg)
+ - 😝 [`It&#39;s not even a fair fight` -Coworker](http://9gag.com/gag/aEqemwM)
+ - 💣 [Smile](http://9gag.com/gag/armPQ57)
+ - 😝 [Call security](http://9gag.com/gag/aXn860P)
+ - 👉 [Destroyed the Hard Drives boss!](http://9gag.com/gag/a1P4jjP)<!-- MEMES:END -->
 
 ---
 

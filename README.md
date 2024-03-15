@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I don&#39;t know what means &#39;populism&#39; these days.](http://9gag.com/gag/aMEp3QP)
- - 😝 [Remember when mike tyson didn\u2019t know that hasbulla is a grown man](http://9gag.com/gag/aOx6g33)
- - 💣 [That would hurt so bad](http://9gag.com/gag/ay2yGvX)
- - 😝 [Laugh](http://9gag.com/gag/aDYBKr9)
- - 👉 [Fake violinist at Walmart](http://9gag.com/gag/aKEbRQb)<!-- MEMES:END -->
+ - 😝 [That would hurt so bad](http://9gag.com/gag/ay2yGvX)
+ - 😝 [If anyone tries this lmk if it works](http://9gag.com/gag/ap9eyRD)
+ - 💣 [Remember when mike tyson didn\u2019t know that hasbulla is a grown man](http://9gag.com/gag/aOx6g33)
+ - 😝 [Suffering from success](http://9gag.com/gag/aKEbobQ)
+ - 👉 [G. O. A. T. Teacher](http://9gag.com/gag/aBdDqQZ)<!-- MEMES:END -->
 
 ---
 

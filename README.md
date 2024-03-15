@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/anzA67E)
- - 😝 [A translation is needed](http://9gag.com/gag/aGEP5en)
- - 💣 [Everyone needs a friend like her](http://9gag.com/gag/aZD9OKp)
+ - 😝 [I miss fun ads](http://9gag.com/gag/aEqe4zo)
+ - 😝 [He is a gentleman and a scholar](http://9gag.com/gag/agoRzGg)
+ - 💣 [Fake violinist at Walmart](http://9gag.com/gag/aKEbRQb)
  - 😝 [Wiener get wife&#39;s weight in beer](http://9gag.com/gag/aA0nogg)
- - 👉 [Call security](http://9gag.com/gag/aXn860P)<!-- MEMES:END -->
+ - 👉 [Whoever thought colonialism was bad: here are 2 western women feeding children...](http://9gag.com/gag/aPgO2oG)<!-- MEMES:END -->
 
 ---
 

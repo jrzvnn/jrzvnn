@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dafuq are they feeding youngsters now?](http://9gag.com/gag/aXn8Obv)
- - 😝 [A recent photo of Jackie Chan, who is about to turn 70.](http://9gag.com/gag/a3Zor05)
- - 💣 [Title](http://9gag.com/gag/anzA67E)
- - 😝 [Say what?](http://9gag.com/gag/amADZnX)
- - 👉 [How lucky are you?](http://9gag.com/gag/aA0nj39)<!-- MEMES:END -->
+ - 😝 [Title](http://9gag.com/gag/anzA67E)
+ - 😝 [How lucky are you?](http://9gag.com/gag/aA0nj39)
+ - 💣 [A recent photo of Jackie Chan, who is about to turn 70.](http://9gag.com/gag/a3Zor05)
+ - 😝 [He is a gentleman and a scholar](http://9gag.com/gag/agoRzGg)
+ - 👉 [Call security](http://9gag.com/gag/aXn860P)<!-- MEMES:END -->
 
 ---
 

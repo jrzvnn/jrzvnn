@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Helldivers 2 based](http://9gag.com/gag/a4oMvYZ)
- - 😝 [Life as a man is simple...](http://9gag.com/gag/aZD96Gp)
- - 💣 [In Ireland people touch the breast on the statue of Molly Malone because it&#39;s said to bring good luck. A feminist now campaign to stop what she calls a \u201cmisogynistic tradition\u201d. This made me think of when C. Proudman also complained and people then answered with these pictures.](http://9gag.com/gag/aeQXn0W)
- - 😝 [I need a number two philips.](http://9gag.com/gag/a04mBPZ)
- - 👉 [French, British, Swedish and German assemble](http://9gag.com/gag/ap9e4An)<!-- MEMES:END -->
+ - 😝 [Be careful what you wish for](http://9gag.com/gag/a2KQ3yD)
+ - 😝 [This scumbag, Eylem Tok, is now the headline in Turkey. Her scumbag teenage son killed a family father while racing another sports car in traffic. She grabbed the injured victim&#39;s phone so that he cannot call for help and helped her son first escape into Egypt, then USA](http://9gag.com/gag/a2KQgXd)
+ - 💣 [Febrio De-Zoysa - He killed a family of 5 &lpar;mother and 4 children, youngest being 2.5 months old girl&rpar; and one of their relatives, total 6 murders and badly injured the father. Happened in Ottawa! He lived with the family as a student.](http://9gag.com/gag/aGEP4A6)
+ - 😝 [He is a gentleman and a scholar](http://9gag.com/gag/agoRzGg)
+ - 👉 [How lucky are you?](http://9gag.com/gag/aA0nj39)<!-- MEMES:END -->
 
 ---
 

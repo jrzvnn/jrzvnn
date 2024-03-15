@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Call security](http://9gag.com/gag/aXn860P)
- - 😝 [Wiener get wife&#39;s weight in beer](http://9gag.com/gag/aA0nogg)
- - 💣 [He is a gentleman and a scholar](http://9gag.com/gag/agoRzGg)
  - 😝 [Everyone needs a friend like her](http://9gag.com/gag/aZD9OKp)
- - 👉 [Fake violinist at Walmart](http://9gag.com/gag/aKEbRQb)<!-- MEMES:END -->
+ - 😝 [Call security](http://9gag.com/gag/aXn860P)
+ - 💣 [Title](http://9gag.com/gag/aA0nzWL)
+ - 😝 [I don&#39;t know what means &#39;populism&#39; these days.](http://9gag.com/gag/aMEp3QP)
+ - 👉 [Doctor and scientist combo](http://9gag.com/gag/a7qjzye)<!-- MEMES:END -->
 
 ---
 

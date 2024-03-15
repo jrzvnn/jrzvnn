@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Zoomers are turning on the TikTok famous congressman who voted to ban the app](https://www.theverge.com/2024/3/15/24101851/tiktok-ban-vote-jeff-jackson-sell-bytedance)
  - [Sinking Section 702 Wiretap Program Offered One Last Lifeboat](https://www.wired.com/story/section-702-safe-act-compromise/)
  - [Banning TikTok is a performative, unconstitutional, authoritarian move that won&#39;t stop China from spreading propaganda or getting Americans&#39; data &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/240315/p18#a240315p18)
  - [A look at Murthy v. Missouri, a case SCOTUS will hear Monday, which may upend how government communicates with social media platforms on topics like misinfo &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240315/p17#a240315p17)
- - [Best Memory Foam Mattresses for 2024     - CNET](https://www.cnet.com/health/sleep/best-memory-foam-mattress/#ftag=CAD590a51e)
- - [Apple&#39;s USB-C AirPods Pro 2 Are Back Down to Their Lowest-Ever Price     - CNET](https://www.cnet.com/deals/apples-usb-c-airpods-pro-2-are-back-down-to-their-lowest-ever-price/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Memory Foam Mattresses for 2024     - CNET](https://www.cnet.com/health/sleep/best-memory-foam-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

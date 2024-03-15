@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rock Paper Pencil review: the iPad upgrade every artist needs](https://appleinsider.com/articles/24/03/15/rock-paper-pencil-review-the-ipad-upgrade-every-artist-needs?utm_medium=rss)
+ - [How to make the most of the iOS Calculator](https://appleinsider.com/inside/iphone/tips/how-to-make-the-most-of-the-ios-calculator?utm_medium=rss)
+ - [In one of the most notable developments under its new CEO Richard Teng, Binance spun out Binance Labs, its $10B venture capital arm, earlier this year &lpar;Ryan Weeks/Bloomberg&rpar;](http://www.techmeme.com/240315/p6#a240315p6)
  - [Andre Holland is Black Panther leader Huey P. Newton in new Apple TV+ drama](https://appleinsider.com/articles/24/03/15/andre-holland-is-black-panther-leader-huey-p-newton-in-new-apple-tv-drama?utm_medium=rss)
- - [A Startup Will Try to Mine Helium-3 on the Moon](https://www.wired.com/story/interlune-helium-3-moon-mining/)
- - [Sources: China quietly asks EV makers like BYD and Geely to sharply increase their purchases from local chipmakers, to reduce reliance on Western imports &lpar;Bloomberg&rpar;](http://www.techmeme.com/240315/p5#a240315p5)
- - [Here&#39;s How to Disable NameDrop     - CNET](https://www.cnet.com/tech/mobile/heres-how-to-disable-name-drop/#ftag=CAD590a51e)
- - [A deep dive into Reddit&#39;s history and the power of its 60K+ unpaid moderators, based on interviews with 60+ current and former mods, employees, and contractors &lpar;Wired&rpar;](http://www.techmeme.com/240315/p4#a240315p4)<!-- TECH:END -->
+ - [iOS 17 Cheat Sheet: All Your Questions About the iPhone Update Answered     - CNET](https://www.cnet.com/tech/mobile/ios-17-cheat-sheet-all-your-questions-about-the-iphone-update-answered/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

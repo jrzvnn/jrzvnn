@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Social Capital fired two of its partners after they tried to raise ~$2M from outside the firm for AI chipmaker Groq, which rankled Chamath Palihapitiya &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/240315/p29#a240315p29)
+ - [Leaked PS5 Pro docs mention rendering 45% faster than the PS5, 2x to 3x the ray tracing performance, and more; sources say it&#39;s set for a holiday 2024 release &lpar;Tom Henderson/Insider Gaming&rpar;](http://www.techmeme.com/240315/p28#a240315p28)
  - [Smash hit Balatro is coming to iPhone and Android](https://www.theverge.com/2024/3/15/24102437/balatro-iphone-android-mobile)
- - [Reddit’s Sale of User Data for AI Training Draws FTC Investigation](https://www.wired.com/story/reddits-sale-user-data-ai-training-draws-ftc-investigation/)
- - [Microsoft is again injecting pop-ups into Chrome on Windows in a bid to get users to switch to Bing, after previously pausing them citing &quot;unintended behavior&quot; &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240315/p27#a240315p27)
- - [Don’t Let the Boeing Headlines Fool You. Air Travel Is Really Very Safe](https://www.wired.com/story/dont-let-the-boeing-headlines-fool-you-air-travel-is-really-very-safe/)
- - [Spotify is letting authors market like musicians](https://www.theverge.com/2024/3/15/24102398/spotify-countdown-pages-audiobooks)<!-- TECH:END -->
+ - [Reddit’s Sale of User Data for AI Training Draws FTC Inquiry](https://www.wired.com/story/reddits-sale-user-data-ai-training-draws-ftc-investigation/)
+ - [Microsoft is again injecting pop-ups into Chrome on Windows in a bid to get users to switch to Bing, after previously pausing them citing &quot;unintended behavior&quot; &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240315/p27#a240315p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

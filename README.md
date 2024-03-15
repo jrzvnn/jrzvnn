@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A great Comedian](http://9gag.com/gag/aDYBKQZ)
- - 😝 [Title](http://9gag.com/gag/anzA67E)
+ - 😝 [Epic Games CEO might be mad now](http://9gag.com/gag/abvj7z9)
+ - 😝 [Smile](http://9gag.com/gag/armPQ57)
  - 💣 [Save it and forget.](http://9gag.com/gag/a4oMXjp)
- - 😝 [He is a gentleman and a scholar](http://9gag.com/gag/agoRzGg)
- - 👉 [Two massive updates for Haiti, U.S. pledged $130 million in aid for security forces and humanitarian aid for Haiti.](http://9gag.com/gag/az26wvb)<!-- MEMES:END -->
+ - 😝 [Beautiful smile](http://9gag.com/gag/aWGVyL3)
+ - 👉 [How lucky are you?](http://9gag.com/gag/aA0nj39)<!-- MEMES:END -->
 
 ---
 

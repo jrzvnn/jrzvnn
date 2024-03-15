@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Set Medication Reminders on Your Phone &lpar;2024&rpar;: Best Apps, iPhone, Android, Samsung](https://www.wired.com/story/how-to-set-medication-reminders-on-phones/)
+ - [After criticism, India&#39;s Ministry of Electronics and IT revises its AI advisory to drop plans to require government approval before new AI models are launched &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240315/p24#a240315p24)
  - [Some Democrats warn that a ban of TikTok, used by nearly two-thirds of Americans under 30, could imperil Biden&#39;s reelection by depressing young voter turnout &lpar;Elena Schneider/Politico&rpar;](http://www.techmeme.com/240315/p23#a240315p23)
  - [SCOTUS rules that public officials may block people on social media in certain circumstances, tossing aside challenges against Michigan and California officials &lpar;CNN&rpar;](http://www.techmeme.com/240315/p22#a240315p22)
- - [Filing: prosecutors ask a judge to sentence SBF to up to 50 years in prison when he is sentenced on March 28; SBF&#39;s lawyers had suggested five to six years &lpar;Bob Van Voris/Bloomberg&rpar;](http://www.techmeme.com/240315/p21#a240315p21)
- - [ShiftCam LensUltra Deluxe Kit review: Upgrade your iPhone photo shooting game](https://appleinsider.com/articles/24/03/15/shiftcam-lensultra-deluxe-kit-review-upgrade-your-iphone-photo-shooting-game?utm_medium=rss)
- - [Best Office Chairs of 2024     - CNET](https://www.cnet.com/news/best-office-chairs/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Filing: prosecutors ask a judge to sentence SBF to up to 50 years in prison when he is sentenced on March 28; SBF&#39;s lawyers had suggested five to six years &lpar;Bob Van Voris/Bloomberg&rpar;](http://www.techmeme.com/240315/p21#a240315p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Definitely less &#39;happy&#39; but..](http://9gag.com/gag/aZD9A20)
+ - 😝 [Doctor and scientist combo](http://9gag.com/gag/a7qjzye)
+ - 😝 [Gimme chocolate](http://9gag.com/gag/aZD9AYV)
+ - 💣 [If anyone tries this lmk if it works](http://9gag.com/gag/ap9eyRD)
  - 😝 [Laugh](http://9gag.com/gag/aDYBKr9)
- - 💣 [Gimme chocolate](http://9gag.com/gag/aZD9AYV)
- - 😝 [1984 or 2021/2024?](http://9gag.com/gag/aGEP3WX)
  - 👉 [That would hurt so bad](http://9gag.com/gag/ay2yGvX)<!-- MEMES:END -->
 
 ---

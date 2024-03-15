@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Andre Holland is Black Panther leader Huey P. Newton in new Apple TV+ drama](https://appleinsider.com/articles/24/03/15/andre-holland-is-black-panther-leader-huey-p-newton-in-new-apple-tv-drama?utm_medium=rss)
+ - [A Startup Will Try to Mine Helium-3 on the Moon](https://www.wired.com/story/interlune-helium-3-moon-mining/)
  - [Sources: China quietly asks EV makers like BYD and Geely to sharply increase their purchases from local chipmakers, to reduce reliance on Western imports &lpar;Bloomberg&rpar;](http://www.techmeme.com/240315/p5#a240315p5)
  - [Here&#39;s How to Disable NameDrop     - CNET](https://www.cnet.com/tech/mobile/heres-how-to-disable-name-drop/#ftag=CAD590a51e)
- - [A deep dive into Reddit&#39;s history and the power of its 60K+ unpaid moderators, based on interviews with 60+ current and former mods, employees, and contractors &lpar;Wired&rpar;](http://www.techmeme.com/240315/p4#a240315p4)
- - [Here&#39;s How to Get Started With ChatGPT     - CNET](https://www.cnet.com/tech/services-and-software/heres-how-to-get-started-with-chatgpt/#ftag=CAD590a51e)
- - [Oil companies are increasingly using AI and remote operations to drill faster, suggest better ways to frack, and predict when active well pumps will fail &lpar;David Wethe/Bloomberg&rpar;](http://www.techmeme.com/240315/p3#a240315p3)<!-- TECH:END -->
+ - [A deep dive into Reddit&#39;s history and the power of its 60K+ unpaid moderators, based on interviews with 60+ current and former mods, employees, and contractors &lpar;Wired&rpar;](http://www.techmeme.com/240315/p4#a240315p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

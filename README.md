@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Smile](http://9gag.com/gag/armPQ57)
- - 😝 [Title](http://9gag.com/gag/aA0nzWL)
- - 💣 [Doctor and scientist combo](http://9gag.com/gag/a7qjzye)
- - 😝 [I don&#39;t know what means &#39;populism&#39; these days.](http://9gag.com/gag/aMEp3QP)
- - 👉 [Everyone needs a friend like her](http://9gag.com/gag/aZD9OKp)<!-- MEMES:END -->
+ - 😝 [Call security](http://9gag.com/gag/aXn860P)
+ - 😝 [Everyone needs a friend like her](http://9gag.com/gag/aZD9OKp)
+ - 💣 [Gym bros are the best bros. Kudos to her](http://9gag.com/gag/aMEp3vR)
+ - 😝 [Suffering from success](http://9gag.com/gag/aKEbobQ)
+ - 👉 [I don&#39;t know what means &#39;populism&#39; these days.](http://9gag.com/gag/aMEp3QP)<!-- MEMES:END -->
 
 ---
 

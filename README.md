@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Uber and Lyft to leave Minneapolis over ‘deeply flawed’ pay rules](https://www.theverge.com/2024/3/15/24101774/uber-lyft-leave-minneapolis-minimum-pay)
  - [Lawyers warn that the bill banning TikTok unless it&#39;s sold gives POTUS unchecked power to ban any app or site the President deems a &quot;national security threat&quot; &lpar;Maxwell Zeff/Gizmodo&rpar;](http://www.techmeme.com/240315/p15#a240315p15)
+ - [Slow iPhone? Try Clearing &#39;Other&#39; Storage for a Quick Fix     - CNET](https://www.cnet.com/tech/mobile/slow-iphone-try-clearing-other-storage-for-a-quick-fix/#ftag=CAD590a51e)
  - [7 Best External Hard Drives &lpar;2024&rpar;: SSDs, Hard Drives, Rugged](https://www.wired.com/story/best-portable-external-storage-drives/)
- - [Apple will surrender less than a day of earnings to satisfy class action suit](https://appleinsider.com/articles/24/03/15/apple-will-surrender-less-than-a-day-of-earnings-to-satisfy-class-action-suit?utm_medium=rss)
- - [Walmart starts selling Macs directly for the first time, partnering with Apple to offer M1 MacBook Air for $699; Apple stopped selling M1 MacBook Air itself &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240315/p14#a240315p14)
- - [Sources: Binance tightened the requirements for listing new tokens, including extending partial coin supply lockups from up to six months to at least a year &lpar;Bloomberg&rpar;](http://www.techmeme.com/240315/p13#a240315p13)<!-- TECH:END -->
+ - [March Madness 2024: Selection Sunday, Schedule, Bracket and How to Watch Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/march-madness-2024-selection-sunday-schedule-bracket-and-how-to-watch-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

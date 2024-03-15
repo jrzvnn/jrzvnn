@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vodafone sells its Italian business to Switzerland&#39;s Swisscom for &amp;euro;8B in cash and plans a &amp;euro;4B stock buyback; Swisscom will merge Vodafone Italia with Fastweb &lpar;Bloomberg&rpar;](http://www.techmeme.com/240315/p7#a240315p7)
- - [Rock Paper Pencil review: the iPad upgrade every artist needs](https://appleinsider.com/articles/24/03/15/rock-paper-pencil-review-the-ipad-upgrade-every-artist-needs?utm_medium=rss)
- - [How to make the most of the iOS Calculator](https://appleinsider.com/inside/iphone/tips/how-to-make-the-most-of-the-ios-calculator?utm_medium=rss)
- - [In one of the most notable developments under its new CEO Richard Teng, Binance spun out Binance Labs, its $10B venture capital arm, earlier this year &lpar;Ryan Weeks/Bloomberg&rpar;](http://www.techmeme.com/240315/p6#a240315p6)
- - [Andre Holland is Black Panther leader Huey P. Newton in new Apple TV+ drama](https://appleinsider.com/articles/24/03/15/andre-holland-is-black-panther-leader-huey-p-newton-in-new-apple-tv-drama?utm_medium=rss)<!-- TECH:END -->
+ - [iPad Air rumored to get OLED, but it might be a long wait](https://appleinsider.com/articles/24/03/15/ipad-air-rumored-to-get-oled-but-it-might-be-a-long-wait?utm_medium=rss)
+ - [Watching TV Can Strain Your Eyes: Some Tips to Avoid Discomfort     - CNET](https://www.cnet.com/tech/watching-tv-can-strain-your-eyes-too-here-are-some-tips-for-avoiding-discomfort/#ftag=CAD590a51e)
+ - [NameDrop: Everything to Know     - CNET](https://www.cnet.com/tech/mobile/namedrop-everything-to-know/#ftag=CAD590a51e)
+ - [How to Take Creatine To Help You Achieve Your Fitness Goals     - CNET](https://www.cnet.com/health/how-to-take-creatine-to-help-you-achieve-your-fitness-goals/#ftag=CAD590a51e)
+ - [Vodafone sells its Italian business to Switzerland&#39;s Swisscom for &amp;euro;8B in cash and plans a &amp;euro;4B stock buyback; Swisscom will merge Vodafone Italia with Fastweb &lpar;Bloomberg&rpar;](http://www.techmeme.com/240315/p7#a240315p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

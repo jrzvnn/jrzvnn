@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Reddit’s Sale of User Data for AI Training Draws FTC Investigation](https://www.wired.com/story/reddits-sale-user-data-ai-training-draws-ftc-investigation/)
  - [Microsoft is again injecting pop-ups into Chrome on Windows in a bid to get users to switch to Bing, after previously pausing them citing &quot;unintended behavior&quot; &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240315/p27#a240315p27)
  - [Don’t Let the Boeing Headlines Fool You. Air Travel Is Really Very Safe](https://www.wired.com/story/dont-let-the-boeing-headlines-fool-you-air-travel-is-really-very-safe/)
  - [Spotify is letting authors market like musicians](https://www.theverge.com/2024/3/15/24102398/spotify-countdown-pages-audiobooks)
- - [Sony’s PS5 Pro is up to three times faster, may arrive holiday 2024](https://www.theverge.com/2024/3/15/24102378/sony-ps5-pro-leak-specs-release-date-rumor)
- - [Layoffs.fyi: 50,000+ workers have been laid off from over 200 tech companies since the start of 2024; some recently laid-off employees recall their experiences &lpar;Alex Koller/CNBC&rpar;](http://www.techmeme.com/240315/p26#a240315p26)<!-- TECH:END -->
+ - [Sony’s PS5 Pro is up to three times faster, may arrive holiday 2024](https://www.theverge.com/2024/3/15/24102378/sony-ps5-pro-leak-specs-release-date-rumor)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

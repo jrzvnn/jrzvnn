@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Call security](http://9gag.com/gag/aXn860P)
- - 😝 [A great Comedian](http://9gag.com/gag/aDYBKQZ)
- - 💣 [Smile](http://9gag.com/gag/armPQ57)
- - 😝 [Two massive updates for Haiti, U.S. pledged $130 million in aid for security forces and humanitarian aid for Haiti.](http://9gag.com/gag/az26wvb)
- - 👉 [Whoever thought colonialism was bad: here are 2 western women feeding children...](http://9gag.com/gag/aPgO2oG)<!-- MEMES:END -->
+ - 😝 [Whoever thought colonialism was bad: here are 2 western women feeding children...](http://9gag.com/gag/aPgO2oG)
+ - 😝 [How lucky are you?](http://9gag.com/gag/aA0nj39)
+ - 💣 [Does whatever a spider can](http://9gag.com/gag/a6qW6Nq)
+ - 😝 [Save it and forget.](http://9gag.com/gag/a4oMXjp)
+ - 👉 [We\u2019re living in a clown world.](http://9gag.com/gag/a3ZoO7v)<!-- MEMES:END -->
 
 ---
 

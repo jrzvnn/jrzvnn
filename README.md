@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Are we really going to ban TikTok?](https://www.theverge.com/24101704/tiktok-ban-kate-middleton-photoshop-vergecast-podcast)
  - [Apple reaches a $490M settlement to resolve a class-action lawsuit that alleged Tim Cook defrauded shareholders in 2019 by hiding falling iPhone demand in China &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/240315/p10#a240315p10)
+ - [Best Savings Rates Today – Score up to 5.35% APY With One of These Savings Accounts, March 15, 2024     - CNET](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-march-15-2024/#ftag=CAD590a51e)
  - [The wedge-shaped M1 MacBook Air lives on — at Walmart, for $699](https://www.theverge.com/2024/3/15/24101727/apple-m1-macbook-air-laptop-walmart)
- - [Former Apple software engineer faces up to five years in prison after threatening FBI agents](https://appleinsider.com/articles/24/03/15/former-apple-software-engineer-faces-up-to-five-years-in-prison-after-threatening-fbi-agents?utm_medium=rss)
- - [M3 MacBook Air, TikTok, and a gem of a gift from Apple, on the AppleInsider Podcast](https://appleinsider.com/articles/24/03/15/m3-macbook-air-tiktok-and-a-gem-of-a-gift-from-apple-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [Rare Deals on New Sonos Smart Speakers and Soundbars Are Up for Grabs     - CNET](https://www.cnet.com/deals/rare-deals-on-new-sonos-smart-speakers-and-soundbars-are-up-for-grabs/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

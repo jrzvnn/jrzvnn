@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple will surrender less than a day of earnings to satisfy class action suit](https://appleinsider.com/articles/24/03/15/apple-will-surrender-less-than-a-day-of-earnings-to-satisfy-class-action-suit?utm_medium=rss)
+ - [Walmart starts selling Macs directly for the first time, partnering with Apple to offer M1 MacBook Air for $699; Apple stopped selling M1 MacBook Air itself &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240315/p14#a240315p14)
  - [Sources: Binance tightened the listing process for new tokens, including extending partial coin supply lockups from up to six months to at least a year &lpar;Bloomberg&rpar;](http://www.techmeme.com/240315/p13#a240315p13)
  - [Doctor Who’s new season streams in May](https://www.theverge.com/2024/3/15/24101820/doctor-who-season-14-ncuti-gatwa-millie-gibson-premiere-date)
- - [How to make an Apple Vision Pro Persona](https://www.theverge.com/24100674/apple-vision-pro-persona-how-to)
- - [Lenovo ThinkPad X1 Fold 16 review: setting the bar for foldables](https://www.theverge.com/24099045/lenovo-thinkpad-x1-fold-16-2024-laptop-review)
- - [A former Apple engineer is learning the hard way that you shouldn&#39;t threaten the FBI](https://appleinsider.com/articles/24/03/15/former-apple-software-engineer-faces-up-to-five-years-in-prison-after-threatening-fbi-agents?utm_medium=rss)<!-- TECH:END -->
+ - [How to make an Apple Vision Pro Persona](https://www.theverge.com/24100674/apple-vision-pro-persona-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

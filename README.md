@@ -176,9 +176,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Wiener get wife&#39;s weight in beer](http://9gag.com/gag/aA0nogg)
- - 😝 [French, British, Swedish and German assemble](http://9gag.com/gag/ap9e4An)
+ - 😝 [Uncle Xi not happy](http://9gag.com/gag/aL1qyjv)
  - 💣 [Bread](http://9gag.com/gag/ay2yGWV)
- - 😝 [Lighters](http://9gag.com/gag/agoRPn6)
+ - 😝 [Laugh](http://9gag.com/gag/aDYBKr9)
  - 👉 [Cute Red Pandas](http://9gag.com/gag/a2KQe2E)<!-- MEMES:END -->
 
 ---

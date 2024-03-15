@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: HashiCorp, which helps companies manage their cloud infrastructure, has been considering options including a sale; HCP jumps 11%+ after hours &lpar;Bloomberg&rpar;](http://www.techmeme.com/240315/p30#a240315p30)
+ - [How the House quietly revived the TikTok ban before most of us noticed](https://www.theverge.com/2024/3/15/24102472/house-tiktok-ban-bill-staffers-calls-congress)
  - [Sources: Social Capital fired two of its partners after they tried to raise ~$2M from outside the firm for AI chipmaker Groq, which rankled Chamath Palihapitiya &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/240315/p29#a240315p29)
  - [Leaked PS5 Pro docs mention rendering 45% faster than the PS5, 2x to 3x the ray tracing performance, and more; sources say it&#39;s set for a holiday 2024 release &lpar;Tom Henderson/Insider Gaming&rpar;](http://www.techmeme.com/240315/p28#a240315p28)
- - [Smash hit Balatro is coming to iPhone and Android](https://www.theverge.com/2024/3/15/24102437/balatro-iphone-android-mobile)
- - [Reddit’s Sale of User Data for AI Training Draws FTC Inquiry](https://www.wired.com/story/reddits-sale-user-data-ai-training-draws-ftc-investigation/)
- - [Microsoft is again injecting pop-ups into Chrome on Windows in a bid to get users to switch to Bing, after previously pausing them citing &quot;unintended behavior&quot; &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240315/p27#a240315p27)<!-- TECH:END -->
+ - [Smash hit Balatro is coming to iPhone and Android](https://www.theverge.com/2024/3/15/24102437/balatro-iphone-android-mobile)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

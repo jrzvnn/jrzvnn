@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A former Apple engineer is learning the hard way that you shouldn&#39;t threaten the FBI](https://appleinsider.com/articles/24/03/15/former-apple-software-engineer-faces-up-to-five-years-in-prison-after-threatening-fbi-agents?utm_medium=rss)
  - [Thunderbolt 5 vs Thunderbolt 4 -- everything you need to know](https://appleinsider.com/inside/mac/vs/thunderbolt-5-vs-thunderbolt-4----compared?utm_medium=rss)
  - [How to add unsupported cards to Apple Wallet](https://appleinsider.com/inside/iphone/tips/how-to-add-unsupported-cards-to-apple-wallet?utm_medium=rss)
- - [Sources: TikTok&#39;s US revenue hit a record $16B in 2023; ByteDance revenue grew 40% YoY to $120B in 2023, with a net profit of $28B &lpar;Financial Times&rpar;](http://www.techmeme.com/240315/p12#a240315p12)
- - [New Far-Right Conspiracy Claims Boeing&#39;s Accidents Are Intentional](https://www.wired.com/story/boeing-accidents-far-right-dei-conspiracy/)
- - [Mercedes is trialing humanoid robots for ‘low skill, repetitive’ tasks](https://www.theverge.com/2024/3/15/24101791/mercedes-robot-humanoid-apptronik-apollo-manufacturing)<!-- TECH:END -->
+ - [The 58 Best Movies on Disney+ Right Now](https://www.wired.com/story/best-movies-disney-plus/)
+ - [Sources: TikTok&#39;s US revenue hit a record $16B in 2023; ByteDance revenue grew 40% YoY to $120B in 2023, with a net profit of $28B &lpar;Financial Times&rpar;](http://www.techmeme.com/240315/p12#a240315p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

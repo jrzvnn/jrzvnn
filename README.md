@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: BeReal is weighing raising a Series C or being acquired, as what is left of its $90M in funding is set to run out this year and DAUs stagnate at 25M &lpar;Business Insider&rpar;](http://www.techmeme.com/240315/p20#a240315p20)
- - [PC games start at just $1 in Steam’s spring sale](https://www.theverge.com/2024/3/15/24101003/steam-spring-sale-m1-macbook-air-breville-barista-express-espresso-machine-deal-sale)
- - [Michael Seibel steps down as YC&#39;s managing director, says he did not feel disappointed when he was not tapped as CEO but would have accepted the job if offered &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/240315/p19#a240315p19)
- - [Zoomers are turning on the TikTok famous congressman who voted to ban the app](https://www.theverge.com/2024/3/15/24101851/tiktok-ban-vote-jeff-jackson-sell-bytedance)
- - [Best Internet Providers in Stockton, California     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-stockton-ca/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [ShiftCam LensUltra Deluxe Kit review: Upgrade your iPhone photo shooting game](https://appleinsider.com/articles/24/03/15/shiftcam-lensultra-deluxe-kit-review-upgrade-your-iphone-photo-shooting-game?utm_medium=rss)
+ - [Best Office Chairs of 2024     - CNET](https://www.cnet.com/news/best-office-chairs/#ftag=CAD590a51e)
+ - [Coffee Lovers: This Nespresso Deal Saves You Up to $89 on a Vertuo Next Machine and Pods     - CNET](https://www.cnet.com/deals/his-nespresso-deal-saves-you-up-to-89-on-a-vertuo-next-machine-and-pods/#ftag=CAD590a51e)
+ - [Keurig&#39;s New Coffee Pods Are 100% Plant-Based and Compostable. There&#39;s Just One Catch     - CNET](https://www.cnet.com/home/kitchen-and-household/keurigs-new-coffee-pods-are-100-plant-based-and-compostable/#ftag=CAD590a51e)
+ - [Supreme Court defines when it’s illegal for public officials to block social media critics](https://www.theverge.com/2024/3/15/24101983/supreme-court-public-officials-block-critics-social-media-lindke-v-freed)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

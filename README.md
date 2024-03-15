@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He is a gentleman and a scholar](http://9gag.com/gag/agoRzGg)
- - 😝 [Call security](http://9gag.com/gag/aXn860P)
- - 💣 [Smile](http://9gag.com/gag/armPQ57)
  - 😝 [A recent photo of Jackie Chan, who is about to turn 70.](http://9gag.com/gag/a3Zor05)
+ - 😝 [How lucky are you?](http://9gag.com/gag/aA0nj39)
+ - 💣 [Febrio De-Zoysa - He killed a family of 5 &lpar;mother and 4 children, youngest being 2.5 months old girl&rpar; and one of their relatives, total 6 murders and badly injured the father. Happened in Ottawa! He lived with the family as a student.](http://9gag.com/gag/aGEP4A6)
+ - 😝 [Does whatever a spider can](http://9gag.com/gag/a6qW6Nq)
  - 👉 [Whoever thought colonialism was bad: here are 2 western women feeding children...](http://9gag.com/gag/aPgO2oG)<!-- MEMES:END -->
 
 ---

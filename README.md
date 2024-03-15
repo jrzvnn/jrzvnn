@@ -169,8 +169,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Former Apple software engineer faces up to five years in prison after threatening FBI agents](https://appleinsider.com/articles/24/03/15/former-apple-software-engineer-faces-up-to-five-years-in-prison-after-threatening-fbi-agents?utm_medium=rss)
  - [M3 MacBook Air, TikTok, and a gem of a gift from Apple, on the AppleInsider Podcast](https://appleinsider.com/articles/24/03/15/m3-macbook-air-tiktok-and-a-gem-of-a-gift-from-apple-on-the-appleinsider-podcast?utm_medium=rss)
  - [The Competition Commission of India orders an antitrust probe into Google for charging Play Store app developers an &quot;excessive and unfair&quot; fee of 10% to 30% &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240315/p9#a240315p9)
- - [No One Knows What TikTok Is](https://www.wired.com/story/no-one-knows-what-tiktok-is/)
- - [Supreme Court to hear case on how the government talks to social media companies](https://www.theverge.com/2024/3/15/24101298/supreme-court-murthy-missouri-speech-social-media)<!-- TECH:END -->
+ - [A Surface Duo 3 Seems Unlikely. But the Idea Behind It Should Live On     - CNET](https://www.cnet.com/tech/mobile/a-surface-duo-3-seems-unlikely-but-the-idea-behind-it-should-live-on/#ftag=CAD590a51e)
+ - [Walmart Debuts $699 Price Point for MacBook Air with Apple M1 Chip     - CNET](https://www.cnet.com/culture/walmart-macbook-air-with-m1/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

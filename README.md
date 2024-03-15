@@ -179,7 +179,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - 😝 [Life as a man is simple...](http://9gag.com/gag/aZD96Gp)
  - 💣 [In Ireland people touch the breast on the statue of Molly Malone because it&#39;s said to bring good luck. A feminist now campaign to stop what she calls a \u201cmisogynistic tradition\u201d. This made me think of when C. Proudman also complained and people then answered with these pictures.](http://9gag.com/gag/aeQXn0W)
  - 😝 [I need a number two philips.](http://9gag.com/gag/a04mBPZ)
- - 👉 [Laugh](http://9gag.com/gag/aDYBKr9)<!-- MEMES:END -->
+ - 👉 [French, British, Swedish and German assemble](http://9gag.com/gag/ap9e4An)<!-- MEMES:END -->
 
 ---
 

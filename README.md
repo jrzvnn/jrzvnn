@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Whoever thought colonialism was bad: here are 2 western women feeding children...](http://9gag.com/gag/aPgO2oG)
  - 😝 [How lucky are you?](http://9gag.com/gag/aA0nj39)
- - 💣 [Does whatever a spider can](http://9gag.com/gag/a6qW6Nq)
- - 😝 [Save it and forget.](http://9gag.com/gag/a4oMXjp)
- - 👉 [We\u2019re living in a clown world.](http://9gag.com/gag/a3ZoO7v)<!-- MEMES:END -->
+ - 😝 [Say what?](http://9gag.com/gag/amADZnX)
+ - 💣 [Epic Games CEO might be mad now](http://9gag.com/gag/abvj7z9)
+ - 😝 [A translation is needed](http://9gag.com/gag/aGEP5en)
+ - 👉 [Whoever thought colonialism was bad: here are 2 western women feeding children...](http://9gag.com/gag/aPgO2oG)<!-- MEMES:END -->
 
 ---
 

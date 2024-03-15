@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Smile](http://9gag.com/gag/armPQ57)
- - 😝 [Title](http://9gag.com/gag/anzA67E)
- - 💣 [Call security](http://9gag.com/gag/aXn860P)
- - 😝 [Two massive updates for Haiti, U.S. pledged $130 million in aid for security forces and humanitarian aid for Haiti.](http://9gag.com/gag/az26wvb)
- - 👉 [He is a gentleman and a scholar](http://9gag.com/gag/agoRzGg)<!-- MEMES:END -->
+ - 😝 [Wiener get wife&#39;s weight in beer](http://9gag.com/gag/aA0nogg)
+ - 😝 [French, British, Swedish and German assemble](http://9gag.com/gag/ap9e4An)
+ - 💣 [Bread](http://9gag.com/gag/ay2yGWV)
+ - 😝 [Lighters](http://9gag.com/gag/agoRPn6)
+ - 👉 [Cute Red Pandas](http://9gag.com/gag/a2KQe2E)<!-- MEMES:END -->
 
 ---
 

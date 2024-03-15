@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Epic Games CEO might be mad now](http://9gag.com/gag/abvj7z9)
+ - 😝 [How lucky are you?](http://9gag.com/gag/aA0nj39)
  - 😝 [Smile](http://9gag.com/gag/armPQ57)
- - 💣 [Save it and forget.](http://9gag.com/gag/a4oMXjp)
- - 😝 [Beautiful smile](http://9gag.com/gag/aWGVyL3)
- - 👉 [How lucky are you?](http://9gag.com/gag/aA0nj39)<!-- MEMES:END -->
+ - 💣 [You&#39;re bold with no beard?](http://9gag.com/gag/aNwyNjv)
+ - 😝 [Title](http://9gag.com/gag/anzA67E)
+ - 👉 [A translation is needed](http://9gag.com/gag/aGEP5en)<!-- MEMES:END -->
 
 ---
 

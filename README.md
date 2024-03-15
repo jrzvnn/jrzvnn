@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Facebook Marketplace keeps Gen Z users coming back to the Facebook app, which they see not as a place to socialize but as a place to score some deals &lpar;Melissa Rohman/New York Times&rpar;](http://www.techmeme.com/240315/p2#a240315p2)
  - [How Amazon refund fraud gangs, which promote their schemes on Reddit, TikTok, and Telegram, are exploiting lenient refund policies at the company &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/240315/p1#a240315p1)
  - [Researchers detail a side channel that can be used to read encrypted responses from AI assistants, except Google Gemini; OpenAI and Cloudflare implemented fixes &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240314/p49#a240314p49)
  - [El Salvador moved ~$400M worth, or &quot;a big chunk&quot;, of its bitcoin into a cold wallet this week; public trackers had estimated El Salvador&#39;s trove at under $205M &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/240314/p48#a240314p48)
- - [Bethesda, Maryland-based HiLabs, whose AI-powered tools provide clean data for health care organizations, raised a $39M Series B led by Eight Roads and Denali &lpar;The Economic Times&rpar;](http://www.techmeme.com/240314/p47#a240314p47)
- - [How to make the most of the iOS Calculator](https://appleinsider.com/inside/iphone/tips/how-to-make-the-most-of-the-ios-calculator?utm_medium=rss)<!-- TECH:END -->
+ - [Bethesda, Maryland-based HiLabs, whose AI-powered tools provide clean data for health care organizations, raised a $39M Series B led by Eight Roads and Denali &lpar;The Economic Times&rpar;](http://www.techmeme.com/240314/p47#a240314p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

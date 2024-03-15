@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony’s PS5 Pro is up to three times faster, may arrive holiday 2024](https://www.theverge.com/2024/3/15/24102378/sony-ps5-pro-leak-specs-release-date-rumor)
  - [Layoffs.fyi: 50,000+ workers have been laid off from over 200 tech companies since the start of 2024; some recently laid-off employees recall their experiences &lpar;Alex Koller/CNBC&rpar;](http://www.techmeme.com/240315/p26#a240315p26)
  - [Google Meet’s face touch-up filters come to desktop](https://www.theverge.com/2024/3/15/24102264/google-meet-face-touch-up-filters-desktop)
  - [Reddit says FTC launched an inquiry into Reddit&#39;s licensing of user data to AI companies; an ex-FTC official says other companies also got such &quot;hold letters&quot; &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/240315/p25#a240315p25)
- - [Best Cooling Mattress Toppers of 2024     - CNET](https://www.cnet.com/health/sleep/best-cooling-mattress-toppers/#ftag=CAD590a51e)
- - [Is the $699 M1 MacBook Air a Good Deal? What You Need to Know     - CNET](https://www.cnet.com/tech/computing/is-the-699-m1-macbook-air-a-good-deal-what-you-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Cooling Mattress Toppers of 2024     - CNET](https://www.cnet.com/health/sleep/best-cooling-mattress-toppers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

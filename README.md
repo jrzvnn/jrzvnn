@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I miss fun ads](http://9gag.com/gag/aEqe4zo)
- - 😝 [He is a gentleman and a scholar](http://9gag.com/gag/agoRzGg)
- - 💣 [Fake violinist at Walmart](http://9gag.com/gag/aKEbRQb)
+ - 😝 [Everyone needs a friend like her](http://9gag.com/gag/aZD9OKp)
  - 😝 [Wiener get wife&#39;s weight in beer](http://9gag.com/gag/aA0nogg)
- - 👉 [Whoever thought colonialism was bad: here are 2 western women feeding children...](http://9gag.com/gag/aPgO2oG)<!-- MEMES:END -->
+ - 💣 [Fake violinist at Walmart](http://9gag.com/gag/aKEbRQb)
+ - 😝 [Two massive updates for Haiti, U.S. pledged $130 million in aid for security forces and humanitarian aid for Haiti.](http://9gag.com/gag/az26wvb)
+ - 👉 [I don&#39;t know what means &#39;populism&#39; these days.](http://9gag.com/gag/aMEp3QP)<!-- MEMES:END -->
 
 ---
 

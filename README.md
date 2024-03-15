@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/aA0nzWL)
- - 😝 [Smile](http://9gag.com/gag/armPQ57)
- - 💣 [I don&#39;t know what means &#39;populism&#39; these days.](http://9gag.com/gag/aMEp3QP)
- - 😝 [What the hell is in this murky water ?](http://9gag.com/gag/a1P49dY)
- - 👉 [NGL that&#39;s genius](http://9gag.com/gag/aBdD7p2)<!-- MEMES:END -->
+ - 😝 [Wiener get wife&#39;s weight in beer](http://9gag.com/gag/aA0nogg)
+ - 😝 [What was the plan here](http://9gag.com/gag/aWGVwDx)
+ - 💣 [UNEXPECTED! In Russia, some polling stations are delivered pens with special ink that can disappear.](http://9gag.com/gag/aVbGNZw)
+ - 😝 [Remember when mike tyson didn\u2019t know that hasbulla is a grown man](http://9gag.com/gag/aOx6g33)
+ - 👉 [Be careful what you wish for](http://9gag.com/gag/a2KQ3yD)<!-- MEMES:END -->
 
 ---
 

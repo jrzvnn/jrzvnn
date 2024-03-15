@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber and Lyft plan to leave Minneapolis on May 1, after the city council passed an ordinance to guarantee drivers a minimum rate of $1.40/mile and $0.5/minute &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240315/p16#a240315p16)
- - [Microsoft is stuffing pop-up ads into Google Chrome on Windows again](https://www.theverge.com/2024/3/15/24101887/microsoft-bing-popups-windows-11-google-chrome)
- - [Uber and Lyft to leave Minneapolis over ‘deeply flawed’ pay rules](https://www.theverge.com/2024/3/15/24101774/uber-lyft-leave-minneapolis-minimum-pay)
- - [Lawyers warn that the bill banning TikTok unless it&#39;s sold gives POTUS unchecked power to ban any app or site the President deems a &quot;national security threat&quot; &lpar;Maxwell Zeff/Gizmodo&rpar;](http://www.techmeme.com/240315/p15#a240315p15)
- - [Slow iPhone? Try Clearing &#39;Other&#39; Storage for a Quick Fix     - CNET](https://www.cnet.com/tech/mobile/slow-iphone-try-clearing-other-storage-for-a-quick-fix/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Banning TikTok is a performative, unconstitutional, authoritarian move that won&#39;t stop China from spreading propaganda or getting Americans&#39; data &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/240315/p18#a240315p18)
+ - [A look at Murthy v. Missouri, a case SCOTUS will hear Monday, which may upend how government communicates with social media platforms on topics like misinfo &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240315/p17#a240315p17)
+ - [Best Memory Foam Mattresses for 2024     - CNET](https://www.cnet.com/health/sleep/best-memory-foam-mattress/#ftag=CAD590a51e)
+ - [Apple&#39;s USB-C AirPods Pro 2 Are Back Down to Their Lowest-Ever Price     - CNET](https://www.cnet.com/deals/apples-usb-c-airpods-pro-2-are-back-down-to-their-lowest-ever-price/#ftag=CAD590a51e)
+ - [Savings on Glasses at Lensabl You Have to See to Believe     - CNET](https://www.cnet.com/deals/savings-on-glasses-at-lensabl-you-have-to-see-to-believe/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

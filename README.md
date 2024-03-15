@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Be careful what you wish for](http://9gag.com/gag/a2KQ3yD)
- - 😝 [This scumbag, Eylem Tok, is now the headline in Turkey. Her scumbag teenage son killed a family father while racing another sports car in traffic. She grabbed the injured victim&#39;s phone so that he cannot call for help and helped her son first escape into Egypt, then USA](http://9gag.com/gag/a2KQgXd)
- - 💣 [Febrio De-Zoysa - He killed a family of 5 &lpar;mother and 4 children, youngest being 2.5 months old girl&rpar; and one of their relatives, total 6 murders and badly injured the father. Happened in Ottawa! He lived with the family as a student.](http://9gag.com/gag/aGEP4A6)
+ - 😝 [A great Comedian](http://9gag.com/gag/aDYBKQZ)
+ - 😝 [Title](http://9gag.com/gag/anzA67E)
+ - 💣 [Save it and forget.](http://9gag.com/gag/a4oMXjp)
  - 😝 [He is a gentleman and a scholar](http://9gag.com/gag/agoRzGg)
- - 👉 [How lucky are you?](http://9gag.com/gag/aA0nj39)<!-- MEMES:END -->
+ - 👉 [Two massive updates for Haiti, U.S. pledged $130 million in aid for security forces and humanitarian aid for Haiti.](http://9gag.com/gag/az26wvb)<!-- MEMES:END -->
 
 ---
 

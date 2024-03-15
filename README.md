@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Smile](http://9gag.com/gag/armPQ57)
  - 😝 [Title](http://9gag.com/gag/anzA67E)
- - 😝 [How lucky are you?](http://9gag.com/gag/aA0nj39)
- - 💣 [A recent photo of Jackie Chan, who is about to turn 70.](http://9gag.com/gag/a3Zor05)
- - 😝 [He is a gentleman and a scholar](http://9gag.com/gag/agoRzGg)
- - 👉 [Call security](http://9gag.com/gag/aXn860P)<!-- MEMES:END -->
+ - 💣 [Call security](http://9gag.com/gag/aXn860P)
+ - 😝 [Two massive updates for Haiti, U.S. pledged $130 million in aid for security forces and humanitarian aid for Haiti.](http://9gag.com/gag/az26wvb)
+ - 👉 [He is a gentleman and a scholar](http://9gag.com/gag/agoRzGg)<!-- MEMES:END -->
 
 ---
 

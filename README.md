@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPad Air rumored to get OLED, but it might be a long wait](https://appleinsider.com/articles/24/03/15/ipad-air-rumored-to-get-oled-but-it-might-be-a-long-wait?utm_medium=rss)
- - [Watching TV Can Strain Your Eyes: Some Tips to Avoid Discomfort     - CNET](https://www.cnet.com/tech/watching-tv-can-strain-your-eyes-too-here-are-some-tips-for-avoiding-discomfort/#ftag=CAD590a51e)
- - [NameDrop: Everything to Know     - CNET](https://www.cnet.com/tech/mobile/namedrop-everything-to-know/#ftag=CAD590a51e)
- - [How to Take Creatine To Help You Achieve Your Fitness Goals     - CNET](https://www.cnet.com/health/how-to-take-creatine-to-help-you-achieve-your-fitness-goals/#ftag=CAD590a51e)
- - [Vodafone sells its Italian business to Switzerland&#39;s Swisscom for &amp;euro;8B in cash and plans a &amp;euro;4B stock buyback; Swisscom will merge Vodafone Italia with Fastweb &lpar;Bloomberg&rpar;](http://www.techmeme.com/240315/p7#a240315p7)<!-- TECH:END -->
+ - [Anker’s latest sleep buds promise to block out snoring partners for longer](https://www.theverge.com/2024/3/15/24101667/anker-soundcore-sleep-a20-true-wireless-earbuds-white-noise)
+ - [Folding iPhone &amp; under-screen Face ID rumored arrival date pushed back -- again](https://appleinsider.com/articles/24/03/15/folding-iphone-under-screen-face-id-rumored-arrival-date-pushed-back----again?utm_medium=rss)
+ - [A Pill That Kills Ticks Is a Promising New Weapon Against Lyme Disease](https://www.wired.com/story/pill-kills-ticks-lyme-disease-babesiosis-anaplasmosis/)
+ - [Ampler introduces an all-road electric bike alongside series refresh](https://www.theverge.com/2024/3/15/24101652/ampler-anyroad-lightweight-electric-bike-price-date)
+ - [iPad Air rumored to get OLED, but it might be a long wait](https://appleinsider.com/articles/24/03/15/ipad-air-rumored-to-get-oled-but-it-might-be-a-long-wait?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

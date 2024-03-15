@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He is a gentleman and a scholar](http://9gag.com/gag/agoRzGg)
- - 😝 [`It&#39;s not even a fair fight` -Coworker](http://9gag.com/gag/aEqemwM)
- - 💣 [Smile](http://9gag.com/gag/armPQ57)
- - 😝 [Call security](http://9gag.com/gag/aXn860P)
- - 👉 [Destroyed the Hard Drives boss!](http://9gag.com/gag/a1P4jjP)<!-- MEMES:END -->
+ - 😝 [I miss fun ads](http://9gag.com/gag/aEqe4zo)
+ - 😝 [A recent photo of Jackie Chan, who is about to turn 70.](http://9gag.com/gag/a3Zor05)
+ - 💣 [How lucky are you?](http://9gag.com/gag/aA0nj39)
+ - 😝 [Doctor and scientist combo](http://9gag.com/gag/a7qjzye)
+ - 👉 [He is a gentleman and a scholar](http://9gag.com/gag/agoRzGg)<!-- MEMES:END -->
 
 ---
 

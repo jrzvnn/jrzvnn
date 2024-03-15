@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [How lucky are you?](http://9gag.com/gag/aA0nj39)
- - 😝 [Bread](http://9gag.com/gag/ay2yGWV)
- - 💣 [I need a number two philips.](http://9gag.com/gag/a04mBPZ)
- - 😝 [Cute Red Pandas](http://9gag.com/gag/a2KQe2E)
- - 👉 [French, British, Swedish and German assemble](http://9gag.com/gag/ap9e4An)<!-- MEMES:END -->
+ - 😝 [I need a number two philips.](http://9gag.com/gag/a04mBPZ)
+ - 💣 [Bread](http://9gag.com/gag/ay2yGWV)
+ - 😝 [French, British, Swedish and German assemble](http://9gag.com/gag/ap9e4An)
+ - 👉 [Cute Red Pandas](http://9gag.com/gag/a2KQe2E)<!-- MEMES:END -->
 
 ---
 

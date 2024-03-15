@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Smash hit Balatro is coming to iPhone and Android](https://www.theverge.com/2024/3/15/24102437/balatro-iphone-android-mobile)
  - [Reddit’s Sale of User Data for AI Training Draws FTC Investigation](https://www.wired.com/story/reddits-sale-user-data-ai-training-draws-ftc-investigation/)
  - [Microsoft is again injecting pop-ups into Chrome on Windows in a bid to get users to switch to Bing, after previously pausing them citing &quot;unintended behavior&quot; &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240315/p27#a240315p27)
  - [Don’t Let the Boeing Headlines Fool You. Air Travel Is Really Very Safe](https://www.wired.com/story/dont-let-the-boeing-headlines-fool-you-air-travel-is-really-very-safe/)
- - [Spotify is letting authors market like musicians](https://www.theverge.com/2024/3/15/24102398/spotify-countdown-pages-audiobooks)
- - [Samsung Galaxy S24 Ultra vs. Apple iPhone 15 Pro Max, Google Pixel 8 Pro, OnePlus 12: High-End Flagships Compared     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-s24-ultra-vs-apple-iphone-15-pro-max-google-pixel-8-pro-oneplus-12-high-end-flagships-compared/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Spotify is letting authors market like musicians](https://www.theverge.com/2024/3/15/24102398/spotify-countdown-pages-audiobooks)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

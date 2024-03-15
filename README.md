@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anker’s latest sleep buds promise to block out snoring partners for longer](https://www.theverge.com/2024/3/15/24101667/anker-soundcore-sleep-a20-true-wireless-earbuds-white-noise)
  - [Folding iPhone &amp; under-screen Face ID rumored arrival date pushed back -- again](https://appleinsider.com/articles/24/03/15/folding-iphone-under-screen-face-id-rumored-arrival-date-pushed-back----again?utm_medium=rss)
+ - [In an open letter to Nick Clegg, 36 MEPs urge Meta to scrap the &quot;pay or okay&quot; choice given to EU users and &quot;align your business with the principles of the GDPR&quot; &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240315/p8#a240315p8)
+ - [Anker’s latest sleep buds promise to block out snoring partners for longer](https://www.theverge.com/2024/3/15/24101667/anker-soundcore-sleep-a20-true-wireless-earbuds-white-noise)
  - [A Pill That Kills Ticks Is a Promising New Weapon Against Lyme Disease](https://www.wired.com/story/pill-kills-ticks-lyme-disease-babesiosis-anaplasmosis/)
- - [Ampler introduces an all-road electric bike alongside series refresh](https://www.theverge.com/2024/3/15/24101652/ampler-anyroad-lightweight-electric-bike-price-date)
- - [iPad Air rumored to get OLED, but it might be a long wait](https://appleinsider.com/articles/24/03/15/ipad-air-rumored-to-get-oled-but-it-might-be-a-long-wait?utm_medium=rss)<!-- TECH:END -->
+ - [Ampler introduces an all-road electric bike alongside series refresh](https://www.theverge.com/2024/3/15/24101652/ampler-anyroad-lightweight-electric-bike-price-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

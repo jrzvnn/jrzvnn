@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Everyone needs a friend like her](http://9gag.com/gag/aZD9OKp)
+ - 😝 [He is a gentleman and a scholar](http://9gag.com/gag/agoRzGg)
  - 😝 [Wiener get wife&#39;s weight in beer](http://9gag.com/gag/aA0nogg)
- - 💣 [He is a gentleman and a scholar](http://9gag.com/gag/agoRzGg)
- - 😝 [A recent photo of Jackie Chan, who is about to turn 70.](http://9gag.com/gag/a3Zor05)
- - 👉 [Fake violinist at Walmart](http://9gag.com/gag/aKEbRQb)<!-- MEMES:END -->
+ - 💣 [Everyone needs a friend like her](http://9gag.com/gag/aZD9OKp)
+ - 😝 [Whoever thought colonialism was bad: here are 2 western women feeding children...](http://9gag.com/gag/aPgO2oG)
+ - 👉 [Doctor and scientist combo](http://9gag.com/gag/a7qjzye)<!-- MEMES:END -->
 
 ---
 

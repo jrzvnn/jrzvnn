@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: X declined requests by UK&#39;s Labour party to take down a deepfake audio clip of leader Keir Starmer, raising concerns ahead of a general election &lpar;Ailbhe Rea/Bloomberg&rpar;](http://www.techmeme.com/240315/p11#a240315p11)
- - [Are we really going to ban TikTok?](https://www.theverge.com/24101704/tiktok-ban-kate-middleton-photoshop-vergecast-podcast)
- - [Apple reaches a $490M settlement to resolve a class-action lawsuit that alleged Tim Cook defrauded shareholders in 2019 by hiding falling iPhone demand in China &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/240315/p10#a240315p10)
- - [The wedge-shaped M1 MacBook Air lives on — at Walmart, for $699](https://www.theverge.com/2024/3/15/24101727/apple-m1-macbook-air-laptop-walmart)
- - [Former Apple software engineer faces up to five years in prison after threatening FBI agents](https://appleinsider.com/articles/24/03/15/former-apple-software-engineer-faces-up-to-five-years-in-prison-after-threatening-fbi-agents?utm_medium=rss)<!-- TECH:END -->
+ - [Thunderbolt 5 vs Thunderbolt 4 -- everything you need to know](https://appleinsider.com/inside/mac/vs/thunderbolt-5-vs-thunderbolt-4----compared?utm_medium=rss)
+ - [How to add unsupported cards to Apple Wallet](https://appleinsider.com/inside/iphone/tips/how-to-add-unsupported-cards-to-apple-wallet?utm_medium=rss)
+ - [Sources: TikTok&#39;s US revenue hit a record $16B in 2023; ByteDance revenue grew 40% YoY to $120B in 2023, with a net profit of $28B &lpar;Financial Times&rpar;](http://www.techmeme.com/240315/p12#a240315p12)
+ - [New Far-Right Conspiracy Claims Boeing&#39;s Accidents Are Intentional](https://www.wired.com/story/boeing-accidents-far-right-dei-conspiracy/)
+ - [Mercedes is trialing humanoid robots for ‘low skill, repetitive’ tasks](https://www.theverge.com/2024/3/15/24101791/mercedes-robot-humanoid-apptronik-apollo-manufacturing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

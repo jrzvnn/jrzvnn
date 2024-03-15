@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the US plans to award over $6B to Samsung to help the company expand beyond its $17B chip fab in Taylor, Texas, under the 2022 Chips and Science Act &lpar;Bloomberg&rpar;](http://www.techmeme.com/240314/p45#a240314p45)
+ - [Acer Predator Triton 14 Review: Fast Gaming and a Bright HDR Screen     - CNET](https://www.cnet.com/tech/computing/acer-predator-triton-14-review-fast-gaming-and-a-bright-hdr-screen/#ftag=CAD590a51e)
  - [Zephyr AI, which uses AI to generate insights into improving patient care and research in oncology and cardiometabolic diseases, raised a $111M Series A &lpar;Robert Barrie/Pharmaceutical Technology&rpar;](http://www.techmeme.com/240314/p44#a240314p44)
  - [An investigation into Onerep.com, which helps people remove their personal data from people-search sites, suggests its CEO founded dozens of people-search sites &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/240314/p43#a240314p43)
- - [Save up to $236 on Sonos speakers, soundbars &amp; subs ahead of March Madness 2024](https://appleinsider.com/articles/24/03/15/save-up-to-236-on-sonos-speakers-soundbars-subs-ahead-of-march-madness-2024?utm_medium=rss)
- - [Best Internet Providers in Clarksville, Tennessee     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-clarksville-tn/#ftag=CAD590a51e)
- - [The FCC has finally decreed that 25Mbps and 3Mbps are not ‘broadband’ speed](https://www.theverge.com/2024/3/14/24101313/fcc-new-broadband-definition-100mbps-20mbps)<!-- TECH:END -->
+ - [Apple Bought an AI Startup: What to Know About Its AI Plans     - CNET](https://www.cnet.com/tech/services-and-software/apple-bought-an-ai-startup-what-to-know-about-its-ai-plans/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

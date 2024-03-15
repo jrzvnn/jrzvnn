@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Taiwan is building its own satellite internet network, as China&#39;s threats, Ukraine war, and Elon Musk&#39;s total control over Starlink make Taiwan&#39;s leaders wary &lpar;New York Times&rpar;](http://www.techmeme.com/240314/p46#a240314p46)
  - [Sources: the US plans to award over $6B to Samsung to help the company expand beyond its $17B chip fab in Taylor, Texas, under the 2022 Chips and Science Act &lpar;Bloomberg&rpar;](http://www.techmeme.com/240314/p45#a240314p45)
  - [Acer Predator Triton 14 Review: Fast Gaming and a Bright HDR Screen     - CNET](https://www.cnet.com/tech/computing/acer-predator-triton-14-review-fast-gaming-and-a-bright-hdr-screen/#ftag=CAD590a51e)
  - [Zephyr AI, which uses AI to generate insights into improving patient care and research in oncology and cardiometabolic diseases, raised a $111M Series A &lpar;Robert Barrie/Pharmaceutical Technology&rpar;](http://www.techmeme.com/240314/p44#a240314p44)
- - [An investigation into Onerep.com, which helps people remove their personal data from people-search sites, suggests its CEO founded dozens of people-search sites &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/240314/p43#a240314p43)
- - [Apple Bought an AI Startup: What to Know About Its AI Plans     - CNET](https://www.cnet.com/tech/services-and-software/apple-bought-an-ai-startup-what-to-know-about-its-ai-plans/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An investigation into Onerep.com, which helps people remove their personal data from people-search sites, suggests its CEO founded dozens of people-search sites &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/240314/p43#a240314p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

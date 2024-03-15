@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How lucky are you?](http://9gag.com/gag/aA0nj39)
- - 😝 [Say what?](http://9gag.com/gag/amADZnX)
- - 💣 [Epic Games CEO might be mad now](http://9gag.com/gag/abvj7z9)
- - 😝 [A translation is needed](http://9gag.com/gag/aGEP5en)
+ - 😝 [He is a gentleman and a scholar](http://9gag.com/gag/agoRzGg)
+ - 😝 [Call security](http://9gag.com/gag/aXn860P)
+ - 💣 [Smile](http://9gag.com/gag/armPQ57)
+ - 😝 [A recent photo of Jackie Chan, who is about to turn 70.](http://9gag.com/gag/a3Zor05)
  - 👉 [Whoever thought colonialism was bad: here are 2 western women feeding children...](http://9gag.com/gag/aPgO2oG)<!-- MEMES:END -->
 
 ---

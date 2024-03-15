@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: BeReal is weighing raising a Series C or being acquired, as what is left of its $90M in funding is set to run out this year and DAUs stagnate at 25M &lpar;Business Insider&rpar;](http://www.techmeme.com/240315/p20#a240315p20)
  - [PC games start at just $1 in Steam’s spring sale](https://www.theverge.com/2024/3/15/24101003/steam-spring-sale-m1-macbook-air-breville-barista-express-espresso-machine-deal-sale)
  - [Michael Seibel steps down as YC&#39;s managing director, says he did not feel disappointed when he was not tapped as CEO but would have accepted the job if offered &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/240315/p19#a240315p19)
  - [Zoomers are turning on the TikTok famous congressman who voted to ban the app](https://www.theverge.com/2024/3/15/24101851/tiktok-ban-vote-jeff-jackson-sell-bytedance)
- - [Best Internet Providers in Stockton, California     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-stockton-ca/#ftag=CAD590a51e)
- - [Best King-Size Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-king-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Stockton, California     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-stockton-ca/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

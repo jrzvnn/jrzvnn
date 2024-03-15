@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Supreme court to hear case on how the government talks to social media companies](https://www.theverge.com/2024/3/15/24101298/supreme-court-murthy-missouri-speech-social-media)
  - [Folding iPhone &amp; under-screen Face ID rumored arrival date pushed back -- again](https://appleinsider.com/articles/24/03/15/folding-iphone-under-screen-face-id-rumored-arrival-date-pushed-back----again?utm_medium=rss)
  - [In an open letter to Nick Clegg, 36 MEPs urge Meta to scrap the &quot;pay or okay&quot; choice given to EU users and &quot;align your business with the principles of the GDPR&quot; &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240315/p8#a240315p8)
  - [Anker’s latest sleep buds promise to block out snoring partners for longer](https://www.theverge.com/2024/3/15/24101667/anker-soundcore-sleep-a20-true-wireless-earbuds-white-noise)
- - [Step Up Your Shoe Game and Save With Deals From DSW, Dr. Martens and More     - CNET](https://www.cnet.com/deals/step-up-your-shoe-game-and-save-with-deals-from-dsw-dr-martens-and-more/#ftag=CAD590a51e)
- - [Blizzard Bound: A Photojournalist Takes the Galaxy S24 Ultra to Tahoe     - CNET](https://www.cnet.com/tech/mobile/blizzard-bound-a-photojournalist-takes-the-galaxy-s24-ultra-to-tahoe/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Step Up Your Shoe Game and Save With Deals From DSW, Dr. Martens and More     - CNET](https://www.cnet.com/deals/step-up-your-shoe-game-and-save-with-deals-from-dsw-dr-martens-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

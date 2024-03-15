@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Michael Seibel steps down as YC&#39;s managing director, says he did not feel disappointed when he was not tapped as CEO but would have accepted the job if offered &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/240315/p19#a240315p19)
  - [Zoomers are turning on the TikTok famous congressman who voted to ban the app](https://www.theverge.com/2024/3/15/24101851/tiktok-ban-vote-jeff-jackson-sell-bytedance)
- - [Sinking Section 702 Wiretap Program Offered One Last Lifeboat](https://www.wired.com/story/section-702-safe-act-compromise/)
- - [Banning TikTok is a performative, unconstitutional, authoritarian move that won&#39;t stop China from spreading propaganda or getting Americans&#39; data &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/240315/p18#a240315p18)
- - [A look at Murthy v. Missouri, a case SCOTUS will hear Monday, which may upend how government communicates with social media platforms on topics like misinfo &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240315/p17#a240315p17)
- - [Best Memory Foam Mattresses for 2024     - CNET](https://www.cnet.com/health/sleep/best-memory-foam-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Stockton, California     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-stockton-ca/#ftag=CAD590a51e)
+ - [Best King-Size Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-king-mattress/#ftag=CAD590a51e)
+ - [Sinking Section 702 Wiretap Program Offered One Last Lifeboat](https://www.wired.com/story/section-702-safe-act-compromise/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

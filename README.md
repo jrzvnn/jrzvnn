@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That would hurt so bad](http://9gag.com/gag/ay2yGvX)
- - 😝 [If anyone tries this lmk if it works](http://9gag.com/gag/ap9eyRD)
- - 💣 [Remember when mike tyson didn\u2019t know that hasbulla is a grown man](http://9gag.com/gag/aOx6g33)
- - 😝 [Suffering from success](http://9gag.com/gag/aKEbobQ)
- - 👉 [G. O. A. T. Teacher](http://9gag.com/gag/aBdDqQZ)<!-- MEMES:END -->
+ - 😝 [Definitely less &#39;happy&#39; but..](http://9gag.com/gag/aZD9A20)
+ - 😝 [Laugh](http://9gag.com/gag/aDYBKr9)
+ - 💣 [Gimme chocolate](http://9gag.com/gag/aZD9AYV)
+ - 😝 [1984 or 2021/2024?](http://9gag.com/gag/aGEP3WX)
+ - 👉 [That would hurt so bad](http://9gag.com/gag/ay2yGvX)<!-- MEMES:END -->
 
 ---
 

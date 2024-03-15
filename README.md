@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How lucky are you?](http://9gag.com/gag/aA0nj39)
- - 😝 [Smile](http://9gag.com/gag/armPQ57)
- - 💣 [You&#39;re bold with no beard?](http://9gag.com/gag/aNwyNjv)
- - 😝 [Title](http://9gag.com/gag/anzA67E)
- - 👉 [A translation is needed](http://9gag.com/gag/aGEP5en)<!-- MEMES:END -->
+ - 😝 [Call security](http://9gag.com/gag/aXn860P)
+ - 😝 [A great Comedian](http://9gag.com/gag/aDYBKQZ)
+ - 💣 [Smile](http://9gag.com/gag/armPQ57)
+ - 😝 [Two massive updates for Haiti, U.S. pledged $130 million in aid for security forces and humanitarian aid for Haiti.](http://9gag.com/gag/az26wvb)
+ - 👉 [Whoever thought colonialism was bad: here are 2 western women feeding children...](http://9gag.com/gag/aPgO2oG)<!-- MEMES:END -->
 
 ---
 

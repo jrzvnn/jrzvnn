@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Buy drops Apple&#39;s M1 MacBook Air to $649, lowest price ever](https://appleinsider.com/articles/24/03/16/best-buy-drops-apples-m1-macbook-air-to-649-lowest-price-ever?utm_medium=rss)
+ - [Starbucks is ending Odyssey, which launched in December 2022 in closed beta offering NFT-based rewards minted on the Polygon blockchain, on March 31, 2024 &lpar;Andrew Hayward/Decrypt&rpar;](http://www.techmeme.com/240315/p31#a240315p31)
+ - [Best WordPress Hosting of 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-wordpress-hosting/#ftag=CAD590a51e)
  - [Sources: HashiCorp, which helps companies manage their cloud infrastructure, has been considering options including a sale; HCP jumps 11%+ after hours &lpar;Bloomberg&rpar;](http://www.techmeme.com/240315/p30#a240315p30)
- - [How the House revived the TikTok ban before most of us noticed](https://www.theverge.com/2024/3/15/24102472/house-tiktok-ban-bill-staffers-calls-congress)
- - [Sources: Social Capital fired two of its partners after they tried to raise ~$2M from outside the firm for AI chipmaker Groq, which rankled Chamath Palihapitiya &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/240315/p29#a240315p29)
- - [Leaked PS5 Pro docs mention rendering 45% faster than the PS5, 2x to 3x the ray tracing performance, and more; sources say it&#39;s set for a holiday 2024 release &lpar;Tom Henderson/Insider Gaming&rpar;](http://www.techmeme.com/240315/p28#a240315p28)
- - [Dust Busting Made Easy: Simple Tips to Combat Dust Build-Up     - CNET](https://www.cnet.com/how-to/how-to-stop-dust-build-up-in-the-home/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How the House revived the TikTok ban before most of us noticed](https://www.theverge.com/2024/3/15/24102472/house-tiktok-ban-bill-staffers-calls-congress)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

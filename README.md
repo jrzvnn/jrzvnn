@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [NGL that&#39;s genius](http://9gag.com/gag/aBdD7p2)
- - 😝 [Laugh](http://9gag.com/gag/aDYBKr9)
- - 💣 [Did you know that in Australia, you need to give a reason to withdraw your own money from a bank](http://9gag.com/gag/aEqeezn)
+ - 😝 [Lighters](http://9gag.com/gag/agoRPn6)
+ - 😝 [Shhh... be quite still...](http://9gag.com/gag/a3Zo9YN)
+ - 💣 [Dating diplomacy after your thirty years](http://9gag.com/gag/a4Ppp3Q)
  - 😝 [I&#39;m on my way to discover the nature!](http://9gag.com/gag/aoymm1w)
- - 👉 [G. O. A. T. Teacher](http://9gag.com/gag/aBdDqQZ)<!-- MEMES:END -->
+ - 👉 [You can stay friend](http://9gag.com/gag/awZqqw8)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Sources: HashiCorp, which helps companies manage their cloud infrastructure, has been considering options including a sale; HCP jumps 11%+ after hours &lpar;Bloomberg&rpar;](http://www.techmeme.com/240315/p30#a240315p30)
- - [How the House quietly revived the TikTok ban before most of us noticed](https://www.theverge.com/2024/3/15/24102472/house-tiktok-ban-bill-staffers-calls-congress)
+ - [How the House revived the TikTok ban before most of us noticed](https://www.theverge.com/2024/3/15/24102472/house-tiktok-ban-bill-staffers-calls-congress)
  - [Sources: Social Capital fired two of its partners after they tried to raise ~$2M from outside the firm for AI chipmaker Groq, which rankled Chamath Palihapitiya &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/240315/p29#a240315p29)
  - [Leaked PS5 Pro docs mention rendering 45% faster than the PS5, 2x to 3x the ray tracing performance, and more; sources say it&#39;s set for a holiday 2024 release &lpar;Tom Henderson/Insider Gaming&rpar;](http://www.techmeme.com/240315/p28#a240315p28)
- - [Smash hit Balatro is coming to iPhone and Android](https://www.theverge.com/2024/3/15/24102437/balatro-iphone-android-mobile)<!-- TECH:END -->
+ - [Dust Busting Made Easy: Simple Tips to Combat Dust Build-Up     - CNET](https://www.cnet.com/how-to/how-to-stop-dust-build-up-in-the-home/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

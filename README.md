@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [1984 or 2021/2024?](http://9gag.com/gag/aGEP3WX)
- - 😝 [G. O. A. T. Teacher](http://9gag.com/gag/aBdDqQZ)
- - 💣 [Chilling at the lake](http://9gag.com/gag/aBdDDKO)
- - 😝 [Suffering from success](http://9gag.com/gag/aKEbobQ)
- - 👉 [Have you seen the High Elves?](http://9gag.com/gag/aKEbQjj)<!-- MEMES:END -->
+ - 😝 [Gimme chocolate](http://9gag.com/gag/aZD9AYV)
+ - 😝 [Remember when mike tyson didn\u2019t know that hasbulla is a grown man](http://9gag.com/gag/aOx6g33)
+ - 💣 [1984 or 2021/2024?](http://9gag.com/gag/aGEP3WX)
+ - 😝 [I don&#39;t know what means &#39;populism&#39; these days.](http://9gag.com/gag/aMEp3QP)
+ - 👉 [Suffering from success](http://9gag.com/gag/aKEbobQ)<!-- MEMES:END -->
 
 ---
 

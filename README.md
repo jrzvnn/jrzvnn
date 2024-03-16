@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Remember when mike tyson didn\u2019t know that hasbulla is a grown man](http://9gag.com/gag/aOx6g33)
- - 😝 [1963 car owner tips.](http://9gag.com/gag/amADjn6)
- - 💣 [1984 or 2021/2024?](http://9gag.com/gag/aGEP3WX)
- - 😝 [Gimme chocolate](http://9gag.com/gag/aZD9AYV)
- - 👉 [Laugh](http://9gag.com/gag/aDYBKr9)<!-- MEMES:END -->
+ - 😝 [1984 or 2021/2024?](http://9gag.com/gag/aGEP3WX)
+ - 😝 [Title](http://9gag.com/gag/aA0nzWL)
+ - 💣 [That would hurt so bad](http://9gag.com/gag/ay2yGvX)
+ - 😝 [Have you seen the High Elves?](http://9gag.com/gag/aKEbQjj)
+ - 👉 [Gimme chocolate](http://9gag.com/gag/aZD9AYV)<!-- MEMES:END -->
 
 ---
 

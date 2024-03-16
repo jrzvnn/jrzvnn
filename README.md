@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Did you know that in Australia, you need to give a reason to withdraw your own money from a bank](http://9gag.com/gag/aEqeezn)
- - 😝 [El Salvador president Bukele celebrating his country becoming the safest in the western hemisphern](http://9gag.com/gag/awyNNQB)
- - 💣 [Just marry her already!](http://9gag.com/gag/ajV2o28)
+ - 😝 [This is how guys make friends](http://9gag.com/gag/a6qWW9N)
+ - 😝 [Medieval problems require medieval solutions](http://9gag.com/gag/aEqeeeK)
+ - 💣 [You now what i love about muslims? They hate the cold/snow. A whole week in France, and not a single one](http://9gag.com/gag/awyNNNQ)
  - 😝 [I&#39;m on my way to discover the nature!](http://9gag.com/gag/aoymm1w)
- - 👉 [Carp&#39;s sudden change in behaviour](http://9gag.com/gag/ajPQQZp)<!-- MEMES:END -->
+ - 👉 [No postal-voting tho](http://9gag.com/gag/avy22wb)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US prosecutors are investigating how Meta platforms played a part in illegal drug sales](https://www.theverge.com/2024/3/16/24103027/us-investigation-meta-drug-sales-profits)
  - [The Best Dyson Vacuums &lpar;2024&rpar;: V15, V12, and More](https://www.wired.com/gallery/best-dyson-vacuums/)
  - [A look at a potential TikTok US sale, with an estimated valuation of $100B, or $40B without the algorithm, as Steven Mnuchin and others form investor groups &lpar;Axios&rpar;](http://www.techmeme.com/240316/p11#a240316p11)
  - [Apple&#39;s Butterfly keyboard repair program winds down this year](https://appleinsider.com/articles/24/03/16/apples-butterfly-keyboard-repair-program-winds-down-this-year?utm_medium=rss)
- - [Save Up to $599 During X-Chair&#39;s Latest Sale     - CNET](https://www.cnet.com/deals/save-up-to-599-during-x-chairs-latest-sale/#ftag=CAD590a51e)
- - [Amazon Big Spring Sale: Get Prime Perks Without Paying for a Subscription     - CNET](https://www.cnet.com/tech/mobile/amazon-big-spring-sale-get-prime-perks-without-paying-for-a-subscription/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save Up to $599 During X-Chair&#39;s Latest Sale     - CNET](https://www.cnet.com/deals/save-up-to-599-during-x-chairs-latest-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

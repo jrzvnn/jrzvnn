@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [1984 or 2021/2024?](http://9gag.com/gag/aGEP3WX)
- - 😝 [Title](http://9gag.com/gag/aA0nzWL)
- - 💣 [That would hurt so bad](http://9gag.com/gag/ay2yGvX)
- - 😝 [Have you seen the High Elves?](http://9gag.com/gag/aKEbQjj)
- - 👉 [Gimme chocolate](http://9gag.com/gag/aZD9AYV)<!-- MEMES:END -->
+ - 😝 [I don&#39;t know what means &#39;populism&#39; these days.](http://9gag.com/gag/aMEp3QP)
+ - 😝 [This is why dash cams are important\u2026](http://9gag.com/gag/aEqeLOx)
+ - 💣 [Gimme chocolate](http://9gag.com/gag/aZD9AYV)
+ - 😝 [Everyone needs a friend like her](http://9gag.com/gag/aZD9OKp)
+ - 👉 [Suffering from success](http://9gag.com/gag/aKEbobQ)<!-- MEMES:END -->
 
 ---
 

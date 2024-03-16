@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lighters](http://9gag.com/gag/agoRPn6)
- - 😝 [Shhh... be quite still...](http://9gag.com/gag/a3Zo9YN)
- - 💣 [Dating diplomacy after your thirty years](http://9gag.com/gag/a4Ppp3Q)
+ - 😝 [1984 or 2021/2024?](http://9gag.com/gag/aGEP3WX)
+ - 😝 [That would hurt so bad](http://9gag.com/gag/ay2yGvX)
+ - 💣 [El Salvador president Bukele celebrating his country becoming the safest in the western hemisphern](http://9gag.com/gag/awyNNQB)
  - 😝 [I&#39;m on my way to discover the nature!](http://9gag.com/gag/aoymm1w)
- - 👉 [You can stay friend](http://9gag.com/gag/awZqqw8)<!-- MEMES:END -->
+ - 👉 [Chilling at the lake](http://9gag.com/gag/aBdDDKO)<!-- MEMES:END -->
 
 ---
 

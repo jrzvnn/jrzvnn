@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [11 Best Organic Mattresses, Toppers, Bedding &lpar;2024&rpar;: Nontoxic and Natural](https://www.wired.com/story/best-organic-mattresses/)
- - [Review of Lenovo ThinkPad X1 Fold 16: sets the bar for foldables with a large 4:3 display and seamless centerfold, but the trackpad is prone to missed inputs &lpar;Joanna Nelius/The Verge&rpar;](http://www.techmeme.com/240316/p7#a240316p7)
- - [&#39;Dune 2&#39; Has Arrived, and You Can Stream the First Film From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/dune-2-has-arrived-you-can-stream-first-film-from-anywhere/#ftag=CAD590a51e)
- - [Microsoft Copilot Is Offering GPT-4 Turbo for Free: What to Know     - CNET](https://www.cnet.com/tech/computing/microsoft-copilot-is-offering-gpt-4-turbo-for-free-what-to-know/#ftag=CAD590a51e)
- - [Traveling Abroad? Here&#39;s How to Avoid Mobile Roaming Charges     - CNET](https://www.cnet.com/tech/mobile/traveling-abroad-heres-how-to-avoid-mobile-roaming-charges/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Grill, Bye. Make Your Next Burger in an Air Fryer and Thank Me Later     - CNET](https://www.cnet.com/how-to/make-your-next-burger-in-the-air-fryer-and-thank-me-later/#ftag=CAD590a51e)
+ - [&#39;Oppenheimer&#39;: How to Watch the Oscar Winner From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/oppenheimer-how-to-watch-the-oscar-winner-from-anywhere/#ftag=CAD590a51e)
+ - [Why the Scandinavian Sleep Method Might Be the Key to Saving Your Relationship     - CNET](https://www.cnet.com/health/sleep/why-the-scandinavian-sleep-method-might-be-the-key-to-saving-your-relationship/#ftag=CAD590a51e)
+ - [Child Tax Credit 2024: Is It OK to File Your Tax Return Now?     - CNET](https://www.cnet.com/personal-finance/taxes/child-tax-credit-2024-is-it-ok-to-file-your-tax-return-now/#ftag=CAD590a51e)
+ - [Why I Need Apple to Make a Foldable iPhone     - CNET](https://www.cnet.com/tech/mobile/why-i-need-apple-to-make-a-foldable-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

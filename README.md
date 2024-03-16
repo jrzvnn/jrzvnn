@@ -170,7 +170,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Sources: US prosecutors in Virginia, with FDA&#39;s help, are investigating whether Meta&#39;s platforms are facilitating and profiting from the illegal sale of drugs &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240316/p12#a240316p12)
  - [US prosecutors are investigating how Meta platforms played a part in illegal drug sales](https://www.theverge.com/2024/3/16/24103027/us-investigation-meta-drug-sales-profits)
  - [The Best Dyson Vacuums &lpar;2024&rpar;: V15, V12, and More](https://www.wired.com/gallery/best-dyson-vacuums/)
- - [France vs. England: How to Watch 2024 Six Nations Rugby Live From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/france-vs-england-how-to-watch-2024-six-nations-rugby-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at a potential TikTok US sale, with an estimated valuation of $100B, or $40B without the algorithm, as Steven Mnuchin and others form investor groups &lpar;Axios&rpar;](http://www.techmeme.com/240316/p11#a240316p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

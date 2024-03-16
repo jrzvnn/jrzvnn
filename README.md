@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at a potential TikTok US sale, with an estimated valuation of $100B, or $40B without the algorithm, as Steven Mnuchin and others form investor groups &lpar;Axios&rpar;](http://www.techmeme.com/240316/p11#a240316p11)
  - [Apple&#39;s Butterfly keyboard repair program winds down this year](https://appleinsider.com/articles/24/03/16/apples-butterfly-keyboard-repair-program-winds-down-this-year?utm_medium=rss)
- - [9 Best Meal Kit Delivery Services &lpar;2024&rpar;: Blue Apron, Dinnerly, and More](https://www.wired.com/gallery/best-meal-kit-delivery-services/)
- - [Sources: SpaceX&#39;s Starshield is building a network of spy satellites under a classified, $1.8B contract with the US spy agency National Reconnaissance Office &lpar;Reuters&rpar;](http://www.techmeme.com/240316/p10#a240316p10)
- - [Filing: SBF wrote a Google doc in which he floated &quot;bad ideas&quot; to improve his image, including going on Tucker Carlson and coming out &quot;against the woke agenda&quot; &lpar;Matt Novak/Gizmodo&rpar;](http://www.techmeme.com/240316/p9#a240316p9)
- - [Amazfit Balance Review: Most Improved, Still Exasperating](https://www.wired.com/review/amazfit-balance/)<!-- TECH:END -->
+ - [Save Up to $599 During X-Chair&#39;s Latest Sale     - CNET](https://www.cnet.com/deals/save-up-to-599-during-x-chairs-latest-sale/#ftag=CAD590a51e)
+ - [Amazon Big Spring Sale: Get Prime Perks Without Paying for a Subscription     - CNET](https://www.cnet.com/tech/mobile/amazon-big-spring-sale-get-prime-perks-without-paying-for-a-subscription/#ftag=CAD590a51e)
+ - [Trouble Falling Asleep? Use These 6 Simple Tips to Drift Off Easier     - CNET](https://www.cnet.com/health/sleep/trouble-falling-asleep-use-these-6-simple-tips-to-drift-off-easier/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

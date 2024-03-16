@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gimme chocolate](http://9gag.com/gag/aZD9AYV)
- - 😝 [NGL that&#39;s genius](http://9gag.com/gag/aBdD7p2)
- - 💣 [Be careful what you wish for](http://9gag.com/gag/a2KQ3yD)
- - 😝 [If anyone tries this lmk if it works](http://9gag.com/gag/ap9eyRD)
- - 👉 [It&#39;s Saru-ma&#39;am!](http://9gag.com/gag/avQbYEX)<!-- MEMES:END -->
+ - 😝 [1984 or 2021/2024?](http://9gag.com/gag/aGEP3WX)
+ - 😝 [Remember when mike tyson didn\u2019t know that hasbulla is a grown man](http://9gag.com/gag/aOx6g33)
+ - 💣 [Gimme chocolate](http://9gag.com/gag/aZD9AYV)
+ - 😝 [What the hell is in this murky water ?](http://9gag.com/gag/a1P49dY)
+ - 👉 [That would hurt so bad](http://9gag.com/gag/ay2yGvX)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chilling at the lake](http://9gag.com/gag/aBdDDKO)
- - 😝 [Ladies this is how you factory reset your man if he starts behaving](http://9gag.com/gag/amADjW9)
- - 💣 [She&#39;s perfect](http://9gag.com/gag/a6ZrrgL)
- - 😝 [I&#39;m on my way to discover the nature!](http://9gag.com/gag/aoymm1w)
- - 👉 [El Salvador president Bukele celebrating his country becoming the safest in the western hemisphern](http://9gag.com/gag/awyNNQB)<!-- MEMES:END -->
+ - 😝 [G. O. A. T. Teacher](http://9gag.com/gag/aBdDqQZ)
+ - 😝 [El Salvador president Bukele celebrating his country becoming the safest in the western hemisphern](http://9gag.com/gag/awyNNQB)
+ - 💣 [I&#39;m on my way to discover the nature!](http://9gag.com/gag/aoymm1w)
+ - 😝 [Mining... Where did the guy go?!](http://9gag.com/gag/aKG4w2O)
+ - 👉 [Carp&#39;s sudden change in behaviour](http://9gag.com/gag/ajPQQZp)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [G. O. A. T. Teacher](http://9gag.com/gag/aBdDqQZ)
- - 😝 [El Salvador president Bukele celebrating his country becoming the safest in the western hemisphern](http://9gag.com/gag/awyNNQB)
- - 💣 [I&#39;m on my way to discover the nature!](http://9gag.com/gag/aoymm1w)
- - 😝 [Mining... Where did the guy go?!](http://9gag.com/gag/aKG4w2O)
- - 👉 [Carp&#39;s sudden change in behaviour](http://9gag.com/gag/ajPQQZp)<!-- MEMES:END -->
+ - 😝 [Window installation](http://9gag.com/gag/aQEYYDd)
+ - 😝 [Dating diplomacy after your thirty years](http://9gag.com/gag/a4Ppp3Q)
+ - 💣 [No postal-voting tho](http://9gag.com/gag/avy22wb)
+ - 😝 [I&#39;m on my way to discover the nature!](http://9gag.com/gag/aoymm1w)
+ - 👉 [Man wanted more space in his balcony, so he decided to remove the columns](http://9gag.com/gag/aXPZ0ND)<!-- MEMES:END -->
 
 ---
 

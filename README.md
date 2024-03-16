@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New streaming deals knock up to 75% off Max, Paramount Plus, Hulu, Peacock &amp; Apple TV Plus](https://appleinsider.com/articles/24/03/16/new-streaming-deals-knock-up-to-75-off-max-paramount-plus-hulu-peacock-apple-tv-plus?utm_medium=rss)
+ - [Stock Up On Lavazza Coffee During This St. Patrick&#39;s Day Sale     - CNET](https://www.cnet.com/deals/stock-up-on-lavazza-coffee-during-this-st-patricks-day-sale/#ftag=CAD590a51e)
+ - [Best Amazon Deals: Big Savings on Smart Scales, Sony Headphones, Coffee Capsules and More     - CNET](https://www.cnet.com/deals/best-amazon-deals-big-savings-on-smart-scales-sony-headphones-coffee-capsules-and-more/#ftag=CAD590a51e)
  - [Apple Vision Pro App Store now viewable from web browsers](https://appleinsider.com/articles/24/03/16/apple-vision-pro-app-store-now-viewable-from-web-browsers?utm_medium=rss)
- - [Sources: US prosecutors in Virginia, with FDA&#39;s help, are investigating whether Meta&#39;s platforms are facilitating and profiting from the illegal sale of drugs &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240316/p12#a240316p12)
- - [US prosecutors are investigating how Meta platforms played a part in illegal drug sales](https://www.theverge.com/2024/3/16/24103027/us-investigation-meta-drug-sales-profits)
- - [The Best Dyson Vacuums &lpar;2024&rpar;: V15, V12, and More](https://www.wired.com/gallery/best-dyson-vacuums/)
- - [France vs. England: How to Watch 2024 Six Nations Rugby Live From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/france-vs-england-how-to-watch-2024-six-nations-rugby-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: US prosecutors in Virginia, with FDA&#39;s help, are investigating whether Meta&#39;s platforms are facilitating and profiting from the illegal sale of drugs &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240316/p12#a240316p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

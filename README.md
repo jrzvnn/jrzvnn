@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: SpaceX&#39;s Starshield is building a network of spy satellites under a classified, $1.8B contract with the US spy agency National Reconnaissance Office &lpar;Reuters&rpar;](http://www.techmeme.com/240316/p10#a240316p10)
  - [Filing: SBF wrote a Google doc in which he floated &quot;bad ideas&quot; to improve his image, including going on Tucker Carlson and coming out &quot;against the woke agenda&quot; &lpar;Matt Novak/Gizmodo&rpar;](http://www.techmeme.com/240316/p9#a240316p9)
  - [Amazfit Balance Review: Most Improved, Still Exasperating](https://www.wired.com/review/amazfit-balance/)
  - [This Coupon Will Get You $110 Off the Ninja Foodi Double Oven for Today Only     - CNET](https://www.cnet.com/deals/this-coupon-will-get-you-110-off-the-ninja-foodi-double-oven-for-today-only/#ftag=CAD590a51e)
- - [Watch FA Cup Soccer: Livestream Man City vs. Newcastle From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/watch-fa-cup-soccer-livestream-man-city-vs-newcastle-from-anywhere/#ftag=CAD590a51e)
- - [Two of the UK&#39;s biggest supermarket chains, Tesco and Sainsbury&#39;s, were hit with technical issues on Saturday; Sainsbury&#39;s blames a software update &lpar;Bloomberg.com&rpar;](http://www.techmeme.com/240316/p8#a240316p8)<!-- TECH:END -->
+ - [Watch FA Cup Soccer: Livestream Man City vs. Newcastle From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/watch-fa-cup-soccer-livestream-man-city-vs-newcastle-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

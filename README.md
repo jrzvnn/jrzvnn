@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Review of Lenovo ThinkPad X1 Fold 16: sets the bar for foldables with a large 4:3 display and seamless centerfold, but the trackpad is prone to missed inputs &lpar;Joanna Nelius/The Verge&rpar;](http://www.techmeme.com/240316/p7#a240316p7)
  - [&#39;Dune 2&#39; Has Arrived, and You Can Stream the First Film From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/dune-2-has-arrived-you-can-stream-first-film-from-anywhere/#ftag=CAD590a51e)
  - [Microsoft Copilot Is Offering GPT-4 Turbo for Free: What to Know     - CNET](https://www.cnet.com/tech/computing/microsoft-copilot-is-offering-gpt-4-turbo-for-free-what-to-know/#ftag=CAD590a51e)
  - [Traveling Abroad? Here&#39;s How to Avoid Mobile Roaming Charges     - CNET](https://www.cnet.com/tech/mobile/traveling-abroad-heres-how-to-avoid-mobile-roaming-charges/#ftag=CAD590a51e)
- - [48 Best Mother&#39;s Day Gifts for 2024     - CNET](https://www.cnet.com/news/best-mothers-day-gifts/#ftag=CAD590a51e)
- - [Automakers Are Telling Your Insurance Company How You Really Drive](https://www.wired.com/story/automakers-sharing-driver-data-security-roundup/)<!-- TECH:END -->
+ - [48 Best Mother&#39;s Day Gifts for 2024     - CNET](https://www.cnet.com/news/best-mothers-day-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

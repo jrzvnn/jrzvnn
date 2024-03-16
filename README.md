@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FCC Now Says Broadband Speed Should Be at Least 100 Mbps](https://www.wired.com/story/fcc-broadband-speed-100mbps/)
- - [Ready to Retire? Here&#39;s How to Apply for Social Security Benefits     - CNET](https://www.cnet.com/personal-finance/ready-to-retire-heres-how-to-apply-for-social-security-benefits/#ftag=CAD590a51e)
- - [Samsung Galaxy Watch 4 Has Everything I Need. Grab It During Amazon&#39;s Big Spring Sale     - CNET](https://www.cnet.com/deals/samsung-galaxy-watch-4-has-everything-i-need-grab-it-during-amazons-big-spring-sale/#ftag=CAD590a51e)
- - [Apple Arcade Added These Games in March and You Can Play Them Now     - CNET](https://www.cnet.com/tech/gaming/apple-arcade-added-these-games-in-march-and-you-can-play-them-now/#ftag=CAD590a51e)
- - [20 Best Deals: Air Purifiers, Vacuums, and Bluetooth Speakers](https://www.wired.com/story/weekend-deals-march-16-2024/)<!-- TECH:END -->
+ - [Bain: Indian startups raised $9.6B in 2023, down from $25.7B in 2022; over 35K Indian startups shut down in 2023 and leading startups laid off 20,000+ employees &lpar;The Economic Times&rpar;](http://www.techmeme.com/240316/p6#a240316p6)
+ - [Walmart Is Selling the Apple MacBook Air With M1 for Just $699](https://www.wired.com/story/walmart-apple-macbook-air-with-m1-deal/)
+ - [I Replaced My iPhone With a Nokia Flip Phone. It Made Me Anxious     - CNET](https://www.cnet.com/tech/mobile/i-replaced-my-iphone-with-a-nokia-flip-phone-and-it-made-me-anxious/#ftag=CAD590a51e)
+ - [You&#39;re Making Bacon Wrong. Here&#39;s How to Nail the Crown Jewel of Breakfast     - CNET](https://www.cnet.com/how-to/youre-making-bacon-wrong/#ftag=CAD590a51e)
+ - [Best Solar Panel Installation Companies in Dallas     - CNET](https://www.cnet.com/home/energy-and-utilities/best-solar-panel-installation-companies-in-dallas/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

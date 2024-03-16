@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lotte Rub&amp;aelig;k, a psychologist who advises Meta on suicide prevention and self-harm, quits, accusing Meta of &quot;turning a blind eye&quot; to harmful content on Instagram &lpar;Miranda Bryant/The Guardian&rpar;](http://www.techmeme.com/240316/p15#a240316p15)
  - [Oracle advises users delay Sonoma update due to Java issue](https://appleinsider.com/articles/24/03/16/oracle-advises-users-delay-sonoma-update-due-to-java-issue?utm_medium=rss)
  - [5 Best Tea Clubs and Subscriptions for 2024, Tested and Reviewed     - CNET](https://www.cnet.com/news/best-tea-clubs-and-tea-subscriptions/#ftag=CAD590a51e)
  - [Starship Home for the Quest 3 is an attempt to give meaning to mixed reality](https://www.theverge.com/2024/3/16/24103308/starship-home-meta-quest-3-mixed-reality-sim-game)
- - [How to use Apple&#39;s services on enterprise networks](https://appleinsider.com/articles/24/03/16/how-to-use-apples-services-on-enterprise-networks?utm_medium=rss)
- - [Best Mattress Deals: Celebrate Sleep Awareness Month – Save Hundreds on Bedding and a New Mattress     - CNET](https://www.cnet.com/deals/best-mattress-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to use Apple&#39;s services on enterprise networks](https://appleinsider.com/articles/24/03/16/how-to-use-apples-services-on-enterprise-networks?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

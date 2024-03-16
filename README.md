@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Oracle advises users delay Sonoma update due to Java issue](https://appleinsider.com/articles/24/03/16/oracle-advises-users-delay-sonoma-update-due-to-java-issue?utm_medium=rss)
  - [Starship Home for the Quest 3 is an attempt to give meaning to mixed reality](https://www.theverge.com/2024/3/16/24103308/starship-home-meta-quest-3-mixed-reality-sim-game)
  - [How to use Apple&#39;s services on enterprise networks](https://appleinsider.com/articles/24/03/16/how-to-use-apples-services-on-enterprise-networks?utm_medium=rss)
  - [How Elon Musk courted Don Lemon to show that X isn&#39;t a right-wing tool, as the breakup highlights Linda Yaccarino&#39;s thankless task of trying to assure brands &lpar;Tim Higgins/Wall Street Journal&rpar;](http://www.techmeme.com/240316/p14#a240316p14)
- - [Best Deals on Smart Thermostats: Save Over $62 on Emerson, Honeywell, Google Nest and More     - CNET](https://www.cnet.com/deals/best-smart-thermostat-deals/#ftag=CAD590a51e)
- - [Google Fiber Review: Great for Gigabit Internet     - CNET](https://www.cnet.com/home/internet/google-fiber-internet-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Deals on Smart Thermostats: Save Over $62 on Emerson, Honeywell, Google Nest and More     - CNET](https://www.cnet.com/deals/best-smart-thermostat-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

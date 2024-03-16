@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [NGL that&#39;s genius](http://9gag.com/gag/aBdD7p2)
- - 😝 [Ladies this is how you factory reset your man if he starts behaving](http://9gag.com/gag/amADjW9)
- - 💣 [Laugh](http://9gag.com/gag/aDYBKr9)
+ - 😝 [That would hurt so bad](http://9gag.com/gag/ay2yGvX)
+ - 😝 [Have you seen the High Elves?](http://9gag.com/gag/aKEbQjj)
+ - 💣 [Gimme chocolate](http://9gag.com/gag/aZD9AYV)
  - 😝 [I&#39;m on my way to discover the nature!](http://9gag.com/gag/aoymm1w)
- - 👉 [Did you know that in Australia, you need to give a reason to withdraw your own money from a bank](http://9gag.com/gag/aEqeezn)<!-- MEMES:END -->
+ - 👉 [G. O. A. T. Teacher](http://9gag.com/gag/aBdDqQZ)<!-- MEMES:END -->
 
 ---
 

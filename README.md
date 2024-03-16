@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [How evangelicals proselytize using Bless Every Home, an app that lets users create neighborhood maps and data tables based on people&#39;s religion and ethnicity &lpar;Elle Hardy/New Republic&rpar;](http://www.techmeme.com/240316/p5#a240316p5)
- - [Insurance Rates Are Soaring for US Homeowners in Climate Danger Zones](https://www.wired.com/story/insurance-rates-soaring-us-homeowners-climate-danger-zones-florida-louisiana-california-hurricane-flood/)
- - [Twitch plans to remove Prime Video Watch Party from April 2, 2024; Watch Party launched in 2020, allowing streamers to broadcast Prime Video content to viewers &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/240316/p4#a240316p4)
- - [Reddit&#39;s down round IPO is a signal that rationality is slowly returning to VC and could encourage other tech companies looking to go public do the same &lpar;Tabby Kinder/Financial Times&rpar;](http://www.techmeme.com/240316/p3#a240316p3)
- - [Milan-San Remo 2024: How to Watch a UCI World Tour Cycling Livestream for Free     - CNET](https://www.cnet.com/tech/services-and-software/milan-san-remo-2024-how-to-watch-a-uci-world-tour-cycling-livestream-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iOS 17.4: Siri Can Now Read Texts to You in More Languages. Here&#39;s How     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-4-siri-can-now-read-texts-to-you-in-more-languages-heres-how/#ftag=CAD590a51e)
+ - [Best Phone Under $200: New Top Pick Checks All the Boxes     - CNET](https://www.cnet.com/tech/mobile/best-phone-under-200/#ftag=CAD590a51e)
+ - [Watch FA Cup Soccer: Livestream Wolves vs. Coventry From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/watch-fa-cup-soccer-livestream-wolves-vs-coventry-from-anywhere/#ftag=CAD590a51e)
+ - [Insurance Rates Are Soaring for US Homeowners in Climate Danger Zones](https://www.wired.com/story/insurance-rates-soaring-us-homeowners-climate-danger-zones-florida-louisiana-california-hurricane-flood/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

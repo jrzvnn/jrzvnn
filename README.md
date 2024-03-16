@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That would hurt so bad](http://9gag.com/gag/ay2yGvX)
- - 😝 [Chilling at the lake](http://9gag.com/gag/aBdDDKO)
- - 💣 [Fake violinist at Walmart](http://9gag.com/gag/aKEbRQb)
+ - 😝 [1984 or 2021/2024?](http://9gag.com/gag/aGEP3WX)
  - 😝 [G. O. A. T. Teacher](http://9gag.com/gag/aBdDqQZ)
- - 👉 [What the hell is in this murky water ?](http://9gag.com/gag/a1P49dY)<!-- MEMES:END -->
+ - 💣 [Chilling at the lake](http://9gag.com/gag/aBdDDKO)
+ - 😝 [Suffering from success](http://9gag.com/gag/aKEbobQ)
+ - 👉 [Have you seen the High Elves?](http://9gag.com/gag/aKEbQjj)<!-- MEMES:END -->
 
 ---
 

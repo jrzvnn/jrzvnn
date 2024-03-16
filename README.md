@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s Saru-ma&#39;am!](http://9gag.com/gag/avQbYEX)
- - 😝 [If anyone tries this lmk if it works](http://9gag.com/gag/ap9eyRD)
- - 💣 [This is how guys make friends](http://9gag.com/gag/a6qWW9N)
- - 😝 [NYC in 2020: `DEFUND THE POLICE!!!` , NYC in 2024: `WHERE&#39;S THE NYPD???`](http://9gag.com/gag/amADD7y)
- - 👉 [Be careful what you wish for](http://9gag.com/gag/a2KQ3yD)<!-- MEMES:END -->
+ - 😝 [That would hurt so bad](http://9gag.com/gag/ay2yGvX)
+ - 😝 [Chilling at the lake](http://9gag.com/gag/aBdDDKO)
+ - 💣 [Fake violinist at Walmart](http://9gag.com/gag/aKEbRQb)
+ - 😝 [G. O. A. T. Teacher](http://9gag.com/gag/aBdDqQZ)
+ - 👉 [What the hell is in this murky water ?](http://9gag.com/gag/a1P49dY)<!-- MEMES:END -->
 
 ---
 

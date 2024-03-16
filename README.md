@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The FCC Now Says Broadband Speed Should Be at Least 100 Mbps](https://www.wired.com/story/fcc-broadband-speed-100mbps/)
  - [Ready to Retire? Here&#39;s How to Apply for Social Security Benefits     - CNET](https://www.cnet.com/personal-finance/ready-to-retire-heres-how-to-apply-for-social-security-benefits/#ftag=CAD590a51e)
  - [Samsung Galaxy Watch 4 Has Everything I Need. Grab It During Amazon&#39;s Big Spring Sale     - CNET](https://www.cnet.com/deals/samsung-galaxy-watch-4-has-everything-i-need-grab-it-during-amazons-big-spring-sale/#ftag=CAD590a51e)
  - [Apple Arcade Added These Games in March and You Can Play Them Now     - CNET](https://www.cnet.com/tech/gaming/apple-arcade-added-these-games-in-march-and-you-can-play-them-now/#ftag=CAD590a51e)
- - [20 Best Deals: Air Purifiers, Vacuums, and Bluetooth Speakers](https://www.wired.com/story/weekend-deals-march-16-2024/)
- - [Don&#39;t Panic: You May Get a Letter From the IRS if You Use This Tax Filing Option     - CNET](https://www.cnet.com/personal-finance/taxes/dont-panic-you-may-get-a-letter-from-the-irs-if-you-use-this-tax-filing-option/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [20 Best Deals: Air Purifiers, Vacuums, and Bluetooth Speakers](https://www.wired.com/story/weekend-deals-march-16-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

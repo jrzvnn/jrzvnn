@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gimme chocolate](http://9gag.com/gag/aZD9AYV)
+ - 😝 [1984 or 2021/2024?](http://9gag.com/gag/aGEP3WX)
  - 😝 [Remember when mike tyson didn\u2019t know that hasbulla is a grown man](http://9gag.com/gag/aOx6g33)
- - 💣 [1984 or 2021/2024?](http://9gag.com/gag/aGEP3WX)
- - 😝 [I don&#39;t know what means &#39;populism&#39; these days.](http://9gag.com/gag/aMEp3QP)
- - 👉 [Suffering from success](http://9gag.com/gag/aKEbobQ)<!-- MEMES:END -->
+ - 💣 [Laugh](http://9gag.com/gag/aDYBKr9)
+ - 😝 [What the hell is in this murky water ?](http://9gag.com/gag/a1P49dY)
+ - 👉 [G. O. A. T. Teacher](http://9gag.com/gag/aBdDqQZ)<!-- MEMES:END -->
 
 ---
 

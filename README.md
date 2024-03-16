@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [20 Best Deals: Air Purifiers, Vacuums, and Bluetooth Speakers](https://www.wired.com/story/weekend-deals-march-16-2024/)
  - [How evangelicals proselytize using Bless Every Home, an app that lets users create neighborhood maps and data tables based on people&#39;s religion and ethnicity &lpar;Elle Hardy/New Republic&rpar;](http://www.techmeme.com/240316/p5#a240316p5)
  - [iOS 17.4: Siri Can Now Read Texts to You in More Languages. Here&#39;s How     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-4-siri-can-now-read-texts-to-you-in-more-languages-heres-how/#ftag=CAD590a51e)
  - [Best Phone Under $200: New Top Pick Checks All the Boxes     - CNET](https://www.cnet.com/tech/mobile/best-phone-under-200/#ftag=CAD590a51e)
- - [Watch FA Cup Soccer: Livestream Wolves vs. Coventry From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/watch-fa-cup-soccer-livestream-wolves-vs-coventry-from-anywhere/#ftag=CAD590a51e)
- - [Insurance Rates Are Soaring for US Homeowners in Climate Danger Zones](https://www.wired.com/story/insurance-rates-soaring-us-homeowners-climate-danger-zones-florida-louisiana-california-hurricane-flood/)<!-- TECH:END -->
+ - [Watch FA Cup Soccer: Livestream Wolves vs. Coventry From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/watch-fa-cup-soccer-livestream-wolves-vs-coventry-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

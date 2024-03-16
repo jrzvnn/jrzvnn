@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Self-driving startup Waabi unveils Copilot4D, a generative AI model trained on troves of lidar data to help predict traffic flow 5-10 seconds into the future &lpar;James O&#39;Donnell/MIT Technology Review&rpar;](http://www.techmeme.com/240316/p1#a240316p1)
  - [Gumroad, an e-commerce company for creators, updates its rules to more strictly limit NSFW content, citing policies of payment processors like Stripe and PayPal &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/240315/p34#a240315p34)
+ - [Is &#39;Bad&#39; Credit Holding You Back? 9 Side Effects of a Low Score and How to Fix It     - CNET](https://www.cnet.com/personal-finance/credit-cards/side-effects-of-bad-credit-score/#ftag=CAD590a51e)
  - [The TikTok divestment bill&#39;s progress slows down in the Senate, as Majority Leader Chuck Schumer has not decided whether to bring the bill to the floor &lpar;New York Times&rpar;](http://www.techmeme.com/240315/p33#a240315p33)
- - [Game developer Scopely says Monopoly Go crossed $2B in revenue in February 2024, just 10 months after launching and three months after hitting $1B in revenue &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240315/p32#a240315p32)
- - [Best Buy drops Apple&#39;s M1 MacBook Air to $649, lowest price ever](https://appleinsider.com/articles/24/03/16/best-buy-drops-apples-m1-macbook-air-to-649-lowest-price-ever?utm_medium=rss)
- - [Starbucks is ending Odyssey, which launched in December 2022 in closed beta offering NFT-based rewards minted on the Polygon blockchain, on March 31, 2024 &lpar;Andrew Hayward/Decrypt&rpar;](http://www.techmeme.com/240315/p31#a240315p31)<!-- TECH:END -->
+ - [Game developer Scopely says Monopoly Go crossed $2B in revenue in February 2024, just 10 months after launching and three months after hitting $1B in revenue &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240315/p32#a240315p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [G. O. A. T. Teacher](http://9gag.com/gag/aBdDqQZ)
- - 😝 [Have you seen the High Elves?](http://9gag.com/gag/aKEbQjj)
- - 💣 [What the hell is in this murky water ?](http://9gag.com/gag/a1P49dY)
- - 😝 [Suffering from success](http://9gag.com/gag/aKEbobQ)
- - 👉 [NGL that&#39;s genius](http://9gag.com/gag/aBdD7p2)<!-- MEMES:END -->
+ - 😝 [If anyone tries this lmk if it works](http://9gag.com/gag/ap9eyRD)
+ - 😝 [Be careful what you wish for](http://9gag.com/gag/a2KQ3yD)
+ - 💣 [Nuked by community note](http://9gag.com/gag/anzApX5)
+ - 😝 [NYC in 2020: `DEFUND THE POLICE!!!` , NYC in 2024: `WHERE&#39;S THE NYPD???`](http://9gag.com/gag/amADD7y)
+ - 👉 [When you Life like a NPC](http://9gag.com/gag/az266wB)<!-- MEMES:END -->
 
 ---
 

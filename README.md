@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is how guys make friends](http://9gag.com/gag/a6qWW9N)
- - 😝 [Medieval problems require medieval solutions](http://9gag.com/gag/aEqeeeK)
- - 💣 [You now what i love about muslims? They hate the cold/snow. A whole week in France, and not a single one](http://9gag.com/gag/awyNNNQ)
+ - 😝 [El Salvador president Bukele celebrating his country becoming the safest in the western hemisphern](http://9gag.com/gag/awyNNQB)
+ - 😝 [The boss of Palworld developer Pocketpair said the hit game cost less than $6.7 million to make and has generated massive profits that the small studio &lpar;currently 55 people&rpar; can&#39;t handle.](http://9gag.com/gag/az266Gb)
+ - 💣 [G. O. A. T. Teacher](http://9gag.com/gag/aBdDqQZ)
  - 😝 [I&#39;m on my way to discover the nature!](http://9gag.com/gag/aoymm1w)
- - 👉 [No postal-voting tho](http://9gag.com/gag/avy22wb)<!-- MEMES:END -->
+ - 👉 [Carp&#39;s sudden change in behaviour](http://9gag.com/gag/ajPQQZp)<!-- MEMES:END -->
 
 ---
 

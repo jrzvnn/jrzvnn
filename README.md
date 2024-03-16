@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If anyone tries this lmk if it works](http://9gag.com/gag/ap9eyRD)
- - 😝 [Be careful what you wish for](http://9gag.com/gag/a2KQ3yD)
- - 💣 [Nuked by community note](http://9gag.com/gag/anzApX5)
- - 😝 [NYC in 2020: `DEFUND THE POLICE!!!` , NYC in 2024: `WHERE&#39;S THE NYPD???`](http://9gag.com/gag/amADD7y)
- - 👉 [When you Life like a NPC](http://9gag.com/gag/az266wB)<!-- MEMES:END -->
+ - 😝 [Fake violinist at Walmart](http://9gag.com/gag/aKEbRQb)
+ - 😝 [I don&#39;t know what means &#39;populism&#39; these days.](http://9gag.com/gag/aMEp3QP)
+ - 💣 [Ladies this is how you factory reset your man if he starts behaving](http://9gag.com/gag/amADjW9)
+ - 😝 [I&#39;m on my way to discover the nature!](http://9gag.com/gag/aoymm1w)
+ - 👉 [G. O. A. T. Teacher](http://9gag.com/gag/aBdDqQZ)<!-- MEMES:END -->
 
 ---
 

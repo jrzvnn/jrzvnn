@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gimme chocolate](http://9gag.com/gag/aZD9AYV)
- - 😝 [G. O. A. T. Teacher](http://9gag.com/gag/aBdDqQZ)
- - 💣 [Laugh](http://9gag.com/gag/aDYBKr9)
+ - 😝 [NGL that&#39;s genius](http://9gag.com/gag/aBdD7p2)
+ - 😝 [Laugh](http://9gag.com/gag/aDYBKr9)
+ - 💣 [Did you know that in Australia, you need to give a reason to withdraw your own money from a bank](http://9gag.com/gag/aEqeezn)
  - 😝 [I&#39;m on my way to discover the nature!](http://9gag.com/gag/aoymm1w)
- - 👉 [Did you know that in Australia, you need to give a reason to withdraw your own money from a bank](http://9gag.com/gag/aEqeezn)<!-- MEMES:END -->
+ - 👉 [G. O. A. T. Teacher](http://9gag.com/gag/aBdDqQZ)<!-- MEMES:END -->
 
 ---
 

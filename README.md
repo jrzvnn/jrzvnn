@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Elon Musk courted Don Lemon to show that X isn&#39;t a right-wing tool, as the breakup highlights Linda Yaccarino&#39;s thankless task of trying to assure brands &lpar;Tim Higgins/Wall Street Journal&rpar;](http://www.techmeme.com/240316/p14#a240316p14)
  - [Best Deals on Smart Thermostats: Save Over $62 on Emerson, Honeywell, Google Nest and More     - CNET](https://www.cnet.com/deals/best-smart-thermostat-deals/#ftag=CAD590a51e)
  - [Google Fiber Review: Great for Gigabit Internet     - CNET](https://www.cnet.com/home/internet/google-fiber-internet-review/#ftag=CAD590a51e)
  - [Expert Tips to Transform Your Bedroom Into an Allergy-Free Sleep Haven     - CNET](https://www.cnet.com/health/sleep/expert-tips-to-get-rid-of-allergens/#ftag=CAD590a51e)
- - [SpaceX is reportedly building a network of spy satellites for US intelligence](https://www.theverge.com/2024/3/16/24103172/spacex-starshield-spy-satellite-network-us-intelligence-classified-contract)
- - [LinkedIn confirms it is working on adding puzzle-based games; a researcher says it is testing ranking companies in the games based on the scores of employees &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240316/p13#a240316p13)<!-- TECH:END -->
+ - [SpaceX is reportedly building a network of spy satellites for US intelligence](https://www.theverge.com/2024/3/16/24103172/spacex-starshield-spy-satellite-network-us-intelligence-classified-contract)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

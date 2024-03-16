@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ready to Retire? Here&#39;s How to Apply for Social Security Benefits     - CNET](https://www.cnet.com/personal-finance/ready-to-retire-heres-how-to-apply-for-social-security-benefits/#ftag=CAD590a51e)
+ - [Samsung Galaxy Watch 4 Has Everything I Need. Grab It During Amazon&#39;s Big Spring Sale     - CNET](https://www.cnet.com/deals/samsung-galaxy-watch-4-has-everything-i-need-grab-it-during-amazons-big-spring-sale/#ftag=CAD590a51e)
+ - [Apple Arcade Added These Games in March and You Can Play Them Now     - CNET](https://www.cnet.com/tech/gaming/apple-arcade-added-these-games-in-march-and-you-can-play-them-now/#ftag=CAD590a51e)
  - [20 Best Deals: Air Purifiers, Vacuums, and Bluetooth Speakers](https://www.wired.com/story/weekend-deals-march-16-2024/)
- - [How evangelicals proselytize using Bless Every Home, an app that lets users create neighborhood maps and data tables based on people&#39;s religion and ethnicity &lpar;Elle Hardy/New Republic&rpar;](http://www.techmeme.com/240316/p5#a240316p5)
- - [iOS 17.4: Siri Can Now Read Texts to You in More Languages. Here&#39;s How     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-4-siri-can-now-read-texts-to-you-in-more-languages-heres-how/#ftag=CAD590a51e)
- - [Best Phone Under $200: New Top Pick Checks All the Boxes     - CNET](https://www.cnet.com/tech/mobile/best-phone-under-200/#ftag=CAD590a51e)
- - [Watch FA Cup Soccer: Livestream Wolves vs. Coventry From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/watch-fa-cup-soccer-livestream-wolves-vs-coventry-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Don&#39;t Panic: You May Get a Letter From the IRS if You Use This Tax Filing Option     - CNET](https://www.cnet.com/personal-finance/taxes/dont-panic-you-may-get-a-letter-from-the-irs-if-you-use-this-tax-filing-option/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

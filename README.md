@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [She&#39;s everywhere.](http://9gag.com/gag/aDYBBLd)
- - 😝 [The boss of Palworld developer Pocketpair said the hit game cost less than $6.7 million to make and has generated massive profits that the small studio &lpar;currently 55 people&rpar; can&#39;t handle.](http://9gag.com/gag/az266Gb)
- - 💣 [This proves speed save lives](http://9gag.com/gag/a34vPde)
+ - 😝 [I don&#39;t know what means &#39;populism&#39; these days.](http://9gag.com/gag/aMEp3QP)
+ - 💣 [Chilling at the lake](http://9gag.com/gag/aBdDDKO)
  - 😝 [I&#39;m on my way to discover the nature!](http://9gag.com/gag/aoymm1w)
- - 👉 [Chilling at the lake](http://9gag.com/gag/aBdDDKO)<!-- MEMES:END -->
+ - 👉 [El Salvador president Bukele celebrating his country becoming the safest in the western hemisphern](http://9gag.com/gag/awyNNQB)<!-- MEMES:END -->
 
 ---
 

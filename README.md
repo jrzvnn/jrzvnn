@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Doctor and scientist combo](http://9gag.com/gag/a7qjzye)
- - 😝 [Gimme chocolate](http://9gag.com/gag/aZD9AYV)
- - 💣 [If anyone tries this lmk if it works](http://9gag.com/gag/ap9eyRD)
- - 😝 [Laugh](http://9gag.com/gag/aDYBKr9)
- - 👉 [That would hurt so bad](http://9gag.com/gag/ay2yGvX)<!-- MEMES:END -->
+ - 😝 [1984 or 2021/2024?](http://9gag.com/gag/aGEP3WX)
+ - 😝 [That would hurt so bad](http://9gag.com/gag/ay2yGvX)
+ - 💣 [A ticket straight to hell.](http://9gag.com/gag/adP3ZWM)
+ - 😝 [G. O. A. T. Teacher](http://9gag.com/gag/aBdDqQZ)
+ - 👉 [Fake violinist at Walmart](http://9gag.com/gag/aKEbRQb)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [She&#39;s everywhere.](http://9gag.com/gag/aDYBBLd)
  - 😝 [That would hurt so bad](http://9gag.com/gag/ay2yGvX)
- - 😝 [Remember when mike tyson didn\u2019t know that hasbulla is a grown man](http://9gag.com/gag/aOx6g33)
  - 💣 [Chilling at the lake](http://9gag.com/gag/aBdDDKO)
  - 😝 [I&#39;m on my way to discover the nature!](http://9gag.com/gag/aoymm1w)
- - 👉 [Did you know that in Australia, you need to give a reason to withdraw your own money from a bank](http://9gag.com/gag/aEqeezn)<!-- MEMES:END -->
+ - 👉 [Ladies this is how you factory reset your man if he starts behaving](http://9gag.com/gag/amADjW9)<!-- MEMES:END -->
 
 ---
 

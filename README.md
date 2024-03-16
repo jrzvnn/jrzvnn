@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [That would hurt so bad](http://9gag.com/gag/ay2yGvX)
- - 😝 [Have you seen the High Elves?](http://9gag.com/gag/aKEbQjj)
- - 💣 [Gimme chocolate](http://9gag.com/gag/aZD9AYV)
+ - 😝 [Remember when mike tyson didn\u2019t know that hasbulla is a grown man](http://9gag.com/gag/aOx6g33)
+ - 💣 [Chilling at the lake](http://9gag.com/gag/aBdDDKO)
  - 😝 [I&#39;m on my way to discover the nature!](http://9gag.com/gag/aoymm1w)
- - 👉 [G. O. A. T. Teacher](http://9gag.com/gag/aBdDqQZ)<!-- MEMES:END -->
+ - 👉 [Did you know that in Australia, you need to give a reason to withdraw your own money from a bank](http://9gag.com/gag/aEqeezn)<!-- MEMES:END -->
 
 ---
 

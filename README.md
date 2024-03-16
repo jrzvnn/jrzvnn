@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [El Salvador president Bukele celebrating his country becoming the safest in the western hemisphern](http://9gag.com/gag/awyNNQB)
- - 😝 [If anyone tries this lmk if it works](http://9gag.com/gag/ap9eyRD)
- - 💣 [That would hurt so bad](http://9gag.com/gag/ay2yGvX)
+ - 😝 [Chilling at the lake](http://9gag.com/gag/aBdDDKO)
+ - 😝 [Ladies this is how you factory reset your man if he starts behaving](http://9gag.com/gag/amADjW9)
+ - 💣 [She&#39;s perfect](http://9gag.com/gag/a6ZrrgL)
  - 😝 [I&#39;m on my way to discover the nature!](http://9gag.com/gag/aoymm1w)
- - 👉 [Cutoff](http://9gag.com/gag/a1mpvMR)<!-- MEMES:END -->
+ - 👉 [El Salvador president Bukele celebrating his country becoming the safest in the western hemisphern](http://9gag.com/gag/awyNNQB)<!-- MEMES:END -->
 
 ---
 

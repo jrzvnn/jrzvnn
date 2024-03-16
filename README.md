@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s Butterfly keyboard repair program winds down this year](https://appleinsider.com/articles/24/03/16/apples-butterfly-keyboard-repair-program-winds-down-this-year?utm_medium=rss)
+ - [9 Best Meal Kit Delivery Services &lpar;2024&rpar;: Blue Apron, Dinnerly, and More](https://www.wired.com/gallery/best-meal-kit-delivery-services/)
  - [Sources: SpaceX&#39;s Starshield is building a network of spy satellites under a classified, $1.8B contract with the US spy agency National Reconnaissance Office &lpar;Reuters&rpar;](http://www.techmeme.com/240316/p10#a240316p10)
  - [Filing: SBF wrote a Google doc in which he floated &quot;bad ideas&quot; to improve his image, including going on Tucker Carlson and coming out &quot;against the woke agenda&quot; &lpar;Matt Novak/Gizmodo&rpar;](http://www.techmeme.com/240316/p9#a240316p9)
- - [Amazfit Balance Review: Most Improved, Still Exasperating](https://www.wired.com/review/amazfit-balance/)
- - [This Coupon Will Get You $110 Off the Ninja Foodi Double Oven for Today Only     - CNET](https://www.cnet.com/deals/this-coupon-will-get-you-110-off-the-ninja-foodi-double-oven-for-today-only/#ftag=CAD590a51e)
- - [Watch FA Cup Soccer: Livestream Man City vs. Newcastle From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/watch-fa-cup-soccer-livestream-man-city-vs-newcastle-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazfit Balance Review: Most Improved, Still Exasperating](https://www.wired.com/review/amazfit-balance/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

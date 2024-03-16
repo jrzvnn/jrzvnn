@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I don&#39;t know what means &#39;populism&#39; these days.](http://9gag.com/gag/aMEp3QP)
- - 😝 [This is why dash cams are important\u2026](http://9gag.com/gag/aEqeLOx)
- - 💣 [Gimme chocolate](http://9gag.com/gag/aZD9AYV)
- - 😝 [Everyone needs a friend like her](http://9gag.com/gag/aZD9OKp)
- - 👉 [Suffering from success](http://9gag.com/gag/aKEbobQ)<!-- MEMES:END -->
+ - 😝 [Gimme chocolate](http://9gag.com/gag/aZD9AYV)
+ - 😝 [NGL that&#39;s genius](http://9gag.com/gag/aBdD7p2)
+ - 💣 [NYC in 2020: `DEFUND THE POLICE!!!` , NYC in 2024: `WHERE&#39;S THE NYPD???`](http://9gag.com/gag/amADD7y)
+ - 😝 [It&#39;s Saru-ma&#39;am!](http://9gag.com/gag/avQbYEX)
+ - 👉 [If anyone tries this lmk if it works](http://9gag.com/gag/ap9eyRD)<!-- MEMES:END -->
 
 ---
 

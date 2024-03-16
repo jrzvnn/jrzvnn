@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The TikTok divestment bill&#39;s progress slows down in the Senate, as Majority Leader Chuck Schumer has not decided whether to bring the bill to the floor &lpar;New York Times&rpar;](http://www.techmeme.com/240315/p33#a240315p33)
+ - [Game developer Scopely says Monopoly Go crossed $2B in revenue in February 2024, just 10 months after launching and three months after hitting $1B in revenue &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240315/p32#a240315p32)
  - [Best Buy drops Apple&#39;s M1 MacBook Air to $649, lowest price ever](https://appleinsider.com/articles/24/03/16/best-buy-drops-apples-m1-macbook-air-to-649-lowest-price-ever?utm_medium=rss)
  - [Starbucks is ending Odyssey, which launched in December 2022 in closed beta offering NFT-based rewards minted on the Polygon blockchain, on March 31, 2024 &lpar;Andrew Hayward/Decrypt&rpar;](http://www.techmeme.com/240315/p31#a240315p31)
- - [Best WordPress Hosting of 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-wordpress-hosting/#ftag=CAD590a51e)
- - [Sources: HashiCorp, which helps companies manage their cloud infrastructure, has been considering options including a sale; HCP jumps 11%+ after hours &lpar;Bloomberg&rpar;](http://www.techmeme.com/240315/p30#a240315p30)
- - [How the House revived the TikTok ban before most of us noticed](https://www.theverge.com/2024/3/15/24102472/house-tiktok-ban-bill-staffers-calls-congress)<!-- TECH:END -->
+ - [Best WordPress Hosting of 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-wordpress-hosting/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

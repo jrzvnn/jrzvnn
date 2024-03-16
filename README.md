@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Global Danger of Boring Buildings](https://www.wired.com/story/thomas-heatherwick-q-and-a-wired-health/)
  - [Researchers detail ArtPrompt, a jailbreak that uses ASCII art to elicit harmful responses from aligned LLMs such as GPT-3.5, GPT-4, Gemini, Claude, and Llama2 &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240316/p2#a240316p2)
  - [Self-driving startup Waabi unveils Copilot4D, a generative AI model trained on lidar data to predict traffic flow around a vehicle 5-10 seconds into the future &lpar;James O&#39;Donnell/MIT Technology Review&rpar;](http://www.techmeme.com/240316/p1#a240316p1)
  - [Gumroad, an e-commerce company for creators, updates its rules to more strictly limit NSFW content, citing policies of payment processors like Stripe and PayPal &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/240315/p34#a240315p34)
- - [Is &#39;Bad&#39; Credit Holding You Back? 9 Side Effects of a Low Score and How to Fix It     - CNET](https://www.cnet.com/personal-finance/credit-cards/side-effects-of-bad-credit-score/#ftag=CAD590a51e)
- - [The TikTok divestment bill&#39;s progress slows down in the Senate, as Majority Leader Chuck Schumer has not decided whether to bring the bill to the floor &lpar;New York Times&rpar;](http://www.techmeme.com/240315/p33#a240315p33)<!-- TECH:END -->
+ - [Is &#39;Bad&#39; Credit Holding You Back? 9 Side Effects of a Low Score and How to Fix It     - CNET](https://www.cnet.com/personal-finance/credit-cards/side-effects-of-bad-credit-score/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

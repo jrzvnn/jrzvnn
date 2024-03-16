@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LinkedIn confirms it is working on adding puzzle-based games; a researcher says it is testing ranking companies in the games based on the scores of employees &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240316/p13#a240316p13)
  - [New streaming deals knock up to 75% off Max, Paramount Plus, Hulu, Peacock &amp; Apple TV Plus](https://appleinsider.com/articles/24/03/16/new-streaming-deals-knock-up-to-75-off-max-paramount-plus-hulu-peacock-apple-tv-plus?utm_medium=rss)
  - [Stock Up On Lavazza Coffee During This St. Patrick&#39;s Day Sale     - CNET](https://www.cnet.com/deals/stock-up-on-lavazza-coffee-during-this-st-patricks-day-sale/#ftag=CAD590a51e)
  - [Best Amazon Deals: Big Savings on Smart Scales, Sony Headphones, Coffee Capsules and More     - CNET](https://www.cnet.com/deals/best-amazon-deals-big-savings-on-smart-scales-sony-headphones-coffee-capsules-and-more/#ftag=CAD590a51e)
- - [Apple Vision Pro App Store now viewable from web browsers](https://appleinsider.com/articles/24/03/16/apple-vision-pro-app-store-now-viewable-from-web-browsers?utm_medium=rss)
- - [Sources: US prosecutors in Virginia, with FDA&#39;s help, are investigating whether Meta&#39;s platforms are facilitating and profiting from the illegal sale of drugs &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240316/p12#a240316p12)<!-- TECH:END -->
+ - [Apple Vision Pro App Store now viewable from web browsers](https://appleinsider.com/articles/24/03/16/apple-vision-pro-app-store-now-viewable-from-web-browsers?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

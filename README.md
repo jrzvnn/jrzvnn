@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If anyone tries this lmk if it works](http://9gag.com/gag/ap9eyRD)
- - 😝 [Fake violinist at Walmart](http://9gag.com/gag/aKEbRQb)
- - 💣 [1984 or 2021/2024?](http://9gag.com/gag/aGEP3WX)
- - 😝 [I don&#39;t know what means &#39;populism&#39; these days.](http://9gag.com/gag/aMEp3QP)
- - 👉 [G. O. A. T. Teacher](http://9gag.com/gag/aBdDqQZ)<!-- MEMES:END -->
+ - 😝 [Gimme chocolate](http://9gag.com/gag/aZD9AYV)
+ - 😝 [NGL that&#39;s genius](http://9gag.com/gag/aBdD7p2)
+ - 💣 [Be careful what you wish for](http://9gag.com/gag/a2KQ3yD)
+ - 😝 [It&#39;s Saru-ma&#39;am!](http://9gag.com/gag/avQbYEX)
+ - 👉 [If anyone tries this lmk if it works](http://9gag.com/gag/ap9eyRD)<!-- MEMES:END -->
 
 ---
 

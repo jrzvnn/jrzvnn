@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: SBF wrote a Google doc in which he floated &quot;bad ideas&quot; to improve his image, including going on Tucker Carlson and coming out &quot;against the woke agenda&quot; &lpar;Matt Novak/Gizmodo&rpar;](http://www.techmeme.com/240316/p9#a240316p9)
  - [Amazfit Balance Review: Most Improved, Still Exasperating](https://www.wired.com/review/amazfit-balance/)
  - [Two of the UK&#39;s biggest supermarket chains, Tesco and Sainsbury&#39;s, were hit with technical issues on Saturday; Sainsbury&#39;s blames a software update &lpar;Bloomberg.com&rpar;](http://www.techmeme.com/240316/p8#a240316p8)
  - [Grill, Bye. Make Your Next Burger in an Air Fryer and Thank Me Later     - CNET](https://www.cnet.com/how-to/make-your-next-burger-in-the-air-fryer-and-thank-me-later/#ftag=CAD590a51e)
- - [&#39;Oppenheimer&#39;: How to Watch the Oscar Winner From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/oppenheimer-how-to-watch-the-oscar-winner-from-anywhere/#ftag=CAD590a51e)
- - [Why the Scandinavian Sleep Method Might Be the Key to Saving Your Relationship     - CNET](https://www.cnet.com/health/sleep/why-the-scandinavian-sleep-method-might-be-the-key-to-saving-your-relationship/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Oppenheimer&#39;: How to Watch the Oscar Winner From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/oppenheimer-how-to-watch-the-oscar-winner-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

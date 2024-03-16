@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chilling at the lake](http://9gag.com/gag/aBdDDKO)
- - 😝 [A typical day on the New York subway.](http://9gag.com/gag/a04m2zL)
- - 💣 [I don&#39;t know what means &#39;populism&#39; these days.](http://9gag.com/gag/aMEp3QP)
- - 😝 [G. O. A. T. Teacher](http://9gag.com/gag/aBdDqQZ)
- - 👉 [Suffering from success](http://9gag.com/gag/aKEbobQ)<!-- MEMES:END -->
+ - 😝 [It&#39;s Saru-ma&#39;am!](http://9gag.com/gag/avQbYEX)
+ - 😝 [If anyone tries this lmk if it works](http://9gag.com/gag/ap9eyRD)
+ - 💣 [This is how guys make friends](http://9gag.com/gag/a6qWW9N)
+ - 😝 [NYC in 2020: `DEFUND THE POLICE!!!` , NYC in 2024: `WHERE&#39;S THE NYPD???`](http://9gag.com/gag/amADD7y)
+ - 👉 [Be careful what you wish for](http://9gag.com/gag/a2KQ3yD)<!-- MEMES:END -->
 
 ---
 

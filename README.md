@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Deals on Smart Thermostats: Save Over $62 on Emerson, Honeywell, Google Nest and More     - CNET](https://www.cnet.com/deals/best-smart-thermostat-deals/#ftag=CAD590a51e)
+ - [Google Fiber Review: Great for Gigabit Internet     - CNET](https://www.cnet.com/home/internet/google-fiber-internet-review/#ftag=CAD590a51e)
+ - [Expert Tips to Transform Your Bedroom Into an Allergy-Free Sleep Haven     - CNET](https://www.cnet.com/health/sleep/expert-tips-to-get-rid-of-allergens/#ftag=CAD590a51e)
  - [SpaceX is reportedly building a network of spy satellites for US intelligence](https://www.theverge.com/2024/3/16/24103172/spacex-starshield-spy-satellite-network-us-intelligence-classified-contract)
- - [LinkedIn confirms it is working on adding puzzle-based games; a researcher says it is testing ranking companies in the games based on the scores of employees &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240316/p13#a240316p13)
- - [New streaming deals knock up to 75% off Max, Paramount Plus, Hulu, Peacock &amp; Apple TV Plus](https://appleinsider.com/articles/24/03/16/new-streaming-deals-knock-up-to-75-off-max-paramount-plus-hulu-peacock-apple-tv-plus?utm_medium=rss)
- - [Stock Up On Lavazza Coffee During This St. Patrick&#39;s Day Sale     - CNET](https://www.cnet.com/deals/stock-up-on-lavazza-coffee-during-this-st-patricks-day-sale/#ftag=CAD590a51e)
- - [Best Amazon Deals: Big Savings on Smart Scales, Sony Headphones, Coffee Capsules and More     - CNET](https://www.cnet.com/deals/best-amazon-deals-big-savings-on-smart-scales-sony-headphones-coffee-capsules-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [LinkedIn confirms it is working on adding puzzle-based games; a researcher says it is testing ranking companies in the games based on the scores of employees &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240316/p13#a240316p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

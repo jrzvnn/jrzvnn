@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Do you agree?](http://9gag.com/gag/aMVe2xM)
- - 😝 [Medieval problems require medieval solutions](http://9gag.com/gag/aEqeeeK)
- - 💣 [You now what i love about muslims? They hate the cold/snow. A whole week in France, and not a single one](http://9gag.com/gag/awyNNNQ)
+ - 😝 [Gimme chocolate](http://9gag.com/gag/aZD9AYV)
+ - 😝 [El Salvador president Bukele celebrating his country becoming the safest in the western hemisphern](http://9gag.com/gag/awyNNQB)
+ - 💣 [The boss of Palworld developer Pocketpair said the hit game cost less than $6.7 million to make and has generated massive profits that the small studio &lpar;currently 55 people&rpar; can&#39;t handle.](http://9gag.com/gag/az266Gb)
  - 😝 [I&#39;m on my way to discover the nature!](http://9gag.com/gag/aoymm1w)
- - 👉 [Window installation](http://9gag.com/gag/aQEYYDd)<!-- MEMES:END -->
+ - 👉 [Did you know that in Australia, you need to give a reason to withdraw your own money from a bank](http://9gag.com/gag/aEqeezn)<!-- MEMES:END -->
 
 ---
 

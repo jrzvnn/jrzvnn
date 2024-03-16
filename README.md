@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [1984 or 2021/2024?](http://9gag.com/gag/aGEP3WX)
- - 😝 [Remember when mike tyson didn\u2019t know that hasbulla is a grown man](http://9gag.com/gag/aOx6g33)
- - 💣 [Laugh](http://9gag.com/gag/aDYBKr9)
- - 😝 [What the hell is in this murky water ?](http://9gag.com/gag/a1P49dY)
- - 👉 [G. O. A. T. Teacher](http://9gag.com/gag/aBdDqQZ)<!-- MEMES:END -->
+ - 😝 [G. O. A. T. Teacher](http://9gag.com/gag/aBdDqQZ)
+ - 😝 [Have you seen the High Elves?](http://9gag.com/gag/aKEbQjj)
+ - 💣 [What the hell is in this murky water ?](http://9gag.com/gag/a1P49dY)
+ - 😝 [Suffering from success](http://9gag.com/gag/aKEbobQ)
+ - 👉 [NGL that&#39;s genius](http://9gag.com/gag/aBdD7p2)<!-- MEMES:END -->
 
 ---
 

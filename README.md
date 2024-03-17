@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The eyes](http://9gag.com/gag/a0evPjz)
+ - 😝 [I&#39;ve just told Putin my little `F**k you!`](http://9gag.com/gag/aMVe10A)
  - 😝 [Dad of the year guys](http://9gag.com/gag/a34vPb5)
- - 💣 [I&#39;ve just told Putin my little `F**k you!`](http://9gag.com/gag/aMVe10A)
- - 😝 [Do you agree?](http://9gag.com/gag/aMVe2xM)
+ - 💣 [Do you agree?](http://9gag.com/gag/aMVe2xM)
+ - 😝 [The eyes](http://9gag.com/gag/a0evPjz)
  - 👉 [`Confuse them with their own bullsheet` - Sun Tzu, maybe](http://9gag.com/gag/ajPQr4p)<!-- MEMES:END -->
 
 ---

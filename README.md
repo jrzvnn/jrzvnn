@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She&#39;s everywhere.](http://9gag.com/gag/aDYBBLd)
- - 😝 [Ladies this is how you factory reset your man if he starts behaving](http://9gag.com/gag/amADjW9)
- - 💣 [Did you know that in Australia, you need to give a reason to withdraw your own money from a bank](http://9gag.com/gag/aEqeezn)
+ - 😝 [Chad Gina](http://9gag.com/gag/axyEEx2)
  - 😝 [Cargo ship passes dangerously close to aquanaut](http://9gag.com/gag/aL1qq3V)
- - 👉 [Absolute ham cannons](http://9gag.com/gag/a34vPNe)<!-- MEMES:END -->
+ - 💣 [Ladies this is how you factory reset your man if he starts behaving](http://9gag.com/gag/amADjW9)
+ - 😝 [Carp&#39;s sudden change in behaviour](http://9gag.com/gag/ajPQQZp)
+ - 👉 [Cutoff](http://9gag.com/gag/a1mpvMR)<!-- MEMES:END -->
 
 ---
 

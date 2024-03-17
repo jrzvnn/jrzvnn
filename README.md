@@ -169,8 +169,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Crime blotter: Influencer who filmed Philadelphia Apple Store looting headed to trial](https://appleinsider.com/articles/24/03/17/crime-blotter-influencer-who-filmed-philadelphia-apple-store-looting-headed-to-trial?utm_medium=rss)
  - [AirTag anti-stalking class-action lawsuit given the green light](https://appleinsider.com/articles/24/03/17/airtag-anti-stalking-class-action-lawsuit-given-the-green-light?utm_medium=rss)
  - [How China&#39;s spending may swamp India&#39;s chip ambitions; TrendForce: China&#39;s share of global mature-node production will grow from 31% in 2023 to 39% in 2027 &lpar;Megha Mandavia/Wall Street Journal&rpar;](http://www.techmeme.com/240317/p6#a240317p6)
- - [A better way to find stuff to watch](https://www.theverge.com/24102242/likewise-movie-recommendations-apple-car-proton-mail-evernote-installer)
- - [West Ham vs. Aston Villa Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/west-ham-vs-aston-villa-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [HP Spectre x360 16 Review: Beautiful 2-in-1 Laptop Needs a Performance Boost     - CNET](https://www.cnet.com/tech/computing/hp-spectre-x360-16-review-beautiful-2-in-1-laptop-needs-a-performance-boost/#ftag=CAD590a51e)
+ - [I Made Yogurt in My Slow Cooker and You Should Too     - CNET](https://www.cnet.com/how-to/i-made-yogurt-in-my-slow-cooker-should-you-probably/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

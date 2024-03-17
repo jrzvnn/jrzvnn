@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In a company blog post, Broadcom CEO Hock Tan acknowledged &quot;unease&quot; among VMware customers and partners after making sweeping post-acquisition changes &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/240317/p3#a240317p3)
  - [FTX&#39;s collapse exposed problems with crypto that are just as relevant today, including a lack of decentralization and companies&#39; persistent regulatory battles &lpar;Joshua Oliver/Financial Times&rpar;](http://www.techmeme.com/240317/p2#a240317p2)
  - [A profile of former Autonomy CEO Mike Lynch, whose trial begins on March 18 in SF, where federal prosecutors have accused him of defrauding HP of billions &lpar;Michael J. de la Merced/New York Times&rpar;](http://www.techmeme.com/240317/p1#a240317p1)
  - [Apple researchers detail MM1, a series of multimodal LLMs with up to 30B parameters they say achieve state-of-the-art performance across multiple AI benchmarks &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240316/p18#a240316p18)
- - [Epic&#39;s antitrust cases against Apple and Google in Australia, which were paused in April 2021, are set to be heard at the same time over the next five months &lpar;Josh Taylor/The Guardian&rpar;](http://www.techmeme.com/240316/p17#a240316p17)
- - [Best Prescription Sunglasses for 2024     - CNET](https://www.cnet.com/health/personal-care/best-prescription-sunglasses/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Epic&#39;s antitrust cases against Apple and Google in Australia, which were paused in April 2021, are set to be heard at the same time over the next five months &lpar;Josh Taylor/The Guardian&rpar;](http://www.techmeme.com/240316/p17#a240316p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

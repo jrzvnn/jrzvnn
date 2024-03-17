@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A24’s Problemista is a surreal fairy tale about finding the people who truly see you](https://www.theverge.com/24099517/a24-problemista-review)
+ - [A look at issues and monetization options for Apple CarPlay; sources: Apple plans to produce 20M-25M units of the entry and mid-tier AirPods launching this fall &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240317/p7#a240317p7)
  - [Next-gen CarPlay battles Android Automotive for carmakers, drivers](https://appleinsider.com/articles/24/03/17/next-gen-carplay-battles-android-automotive-for-carmakers-drivers?utm_medium=rss)
  - [Nidus turns a beautiful ecosystem into a frantic shooter](https://www.theverge.com/2024/3/17/24099667/nidus-steam-shooter-caleb-wood-scavengers-reign)
- - [Apple prepares massive AirPods production for fall launch](https://appleinsider.com/articles/24/03/17/apple-prepares-massive-airpods-production-for-fall-launch?utm_medium=rss)
- - [Final Fantasy VII Rebirth Sets the Curve for Revisiting Old Games     - CNET](https://www.cnet.com/tech/gaming/final-fantasy-vii-rebirth-sets-the-curve-for-revisiting-old-games/#ftag=CAD590a51e)
- - [19 Best Mother&#39;s Day Gifts for New Moms     - CNET](https://www.cnet.com/news/mothers-day-gifts-for-new-moms/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple prepares massive AirPods production for fall launch](https://appleinsider.com/articles/24/03/17/apple-prepares-massive-airpods-production-for-fall-launch?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

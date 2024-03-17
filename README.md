@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mining... Where did the guy go?!](http://9gag.com/gag/aKG4w2O)
- - 😝 [A 23-year-old woman was arrested one hour after she uploaded a video to social media where she talked about her preparation for a school shooting in Vaasa, Finland.](http://9gag.com/gag/a34vPM8)
- - 💣 [His life flashed before his eyes?](http://9gag.com/gag/aKG4zBW)
+ - 😝 [Chad Gina](http://9gag.com/gag/axyEEx2)
  - 😝 [The guy wants more space in his balcony, so he decided to remove the column.](http://9gag.com/gag/aVvjOxn)
- - 👉 [` Think I got a stone bladder. `The stone:](http://9gag.com/gag/a5QpdNr)<!-- MEMES:END -->
+ - 💣 [Cargo ship passes dangerously close to aquanaut](http://9gag.com/gag/aL1qq3V)
+ - 😝 [A 23-year-old woman was arrested one hour after she uploaded a video to social media where she talked about her preparation for a school shooting in Vaasa, Finland.](http://9gag.com/gag/a34vPM8)
+ - 👉 [His life flashed before his eyes?](http://9gag.com/gag/aKG4zBW)<!-- MEMES:END -->
 
 ---
 

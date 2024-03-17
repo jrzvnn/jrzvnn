@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best AirPods &lpar;2024&rpar;: Which Apple Headphones Should You Buy?](https://www.wired.com/gallery/best-airpods/)
+ - [iOS 17.4: How to Improve Your iPhone&#39;s Stolen Device Protection     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-4-how-to-improve-your-iphones-stolen-device-protection/#ftag=CAD590a51e)
  - [How to Free Up Space in Gmail, Google Photos, and Google Drive](https://www.wired.com/story/how-to-free-up-storage-space-in-gmail/)
- - [How an Uber Eats worker created UberCheats, a web app that computed the actual distance a courier traveled, after suspecting algorithmic error and underpayment &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/240317/p5#a240317p5)
- - [Apple&#39;s iMac 24-inch plunges to $849.99 at Best Buy today only](https://appleinsider.com/articles/24/03/17/apples-imac-24-inch-plunges-to-84999-at-best-buy-today-only?utm_medium=rss)
- - [A look at the collapse of dating apps&#39; usability, which can be blamed on the paid subscription model and the near monopoly the apps have over the dating world &lpar;Magdalene J. Taylor/New York Times&rpar;](http://www.techmeme.com/240317/p4#a240317p4)
- - [In a company blog post, Broadcom CEO Hock Tan acknowledged &quot;unease&quot; among VMware customers and partners after making sweeping post-acquisition changes &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/240317/p3#a240317p3)<!-- TECH:END -->
+ - [Best Samsung Phone of 2024     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-phone/#ftag=CAD590a51e)
+ - [Watch FA Cup Soccer: Livestream Chelsea vs. Leicester City From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/watch-fa-cup-soccer-livestream-chelsea-vs-leicester-city-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

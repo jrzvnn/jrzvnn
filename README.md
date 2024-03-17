@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just marry her already!](http://9gag.com/gag/ajV2o28)
- - 😝 [Did you know that in Australia, you need to give a reason to withdraw your own money from a bank](http://9gag.com/gag/aEqeezn)
- - 💣 [Cutoff](http://9gag.com/gag/a1mpvMR)
+ - 😝 [His life flashed before his eyes?](http://9gag.com/gag/aKG4zBW)
+ - 😝 [Ladies this is how you factory reset your man if he starts behaving](http://9gag.com/gag/amADjW9)
+ - 💣 [She&#39;s perfect](http://9gag.com/gag/a6ZrrgL)
  - 😝 [I&#39;m on my way to discover the nature!](http://9gag.com/gag/aoymm1w)
- - 👉 [She&#39;s perfect](http://9gag.com/gag/a6ZrrgL)<!-- MEMES:END -->
+ - 👉 [El Salvador president Bukele celebrating his country becoming the safest in the western hemisphern](http://9gag.com/gag/awyNNQB)<!-- MEMES:END -->
 
 ---
 

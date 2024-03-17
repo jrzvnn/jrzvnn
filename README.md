@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Next-gen CarPlay battles Android Automotive for carmakers, drivers](https://appleinsider.com/articles/24/03/17/next-gen-carplay-battles-android-automotive-for-carmakers-drivers?utm_medium=rss)
  - [Nidus turns a beautiful ecosystem into a frantic shooter](https://www.theverge.com/2024/3/17/24099667/nidus-steam-shooter-caleb-wood-scavengers-reign)
  - [Apple prepares massive AirPods production for fall launch](https://appleinsider.com/articles/24/03/17/apple-prepares-massive-airpods-production-for-fall-launch?utm_medium=rss)
  - [Final Fantasy VII Rebirth Sets the Curve for Revisiting Old Games     - CNET](https://www.cnet.com/tech/gaming/final-fantasy-vii-rebirth-sets-the-curve-for-revisiting-old-games/#ftag=CAD590a51e)
- - [19 Best Mother&#39;s Day Gifts for New Moms     - CNET](https://www.cnet.com/news/mothers-day-gifts-for-new-moms/#ftag=CAD590a51e)
- - [Never-Repeating Patterns of Tiles Can Safeguard Quantum Information](https://www.wired.com/story/never-repeating-patterns-of-tiles-can-safeguard-quantum-information/)<!-- TECH:END -->
+ - [19 Best Mother&#39;s Day Gifts for New Moms     - CNET](https://www.cnet.com/news/mothers-day-gifts-for-new-moms/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [If you&#39;re reliant on Java, you shouldn&#39;t update to macOS Sonoma 14.4 yet](https://appleinsider.com/articles/24/03/16/oracle-advises-users-delay-sonoma-update-due-to-java-issue?utm_medium=rss)
+ - [Apple gearing up for fall launch of new two new AirPods models](https://appleinsider.com/articles/24/03/17/apple-prepares-massive-airpods-production-for-fall-launch?utm_medium=rss)
+ - [Apple&#39;s Butterfly keyboard repair program winds down soon](https://appleinsider.com/articles/24/03/16/apples-butterfly-keyboard-repair-program-winds-down-this-year?utm_medium=rss)
  - [Apple ID rebrand to &#39;Apple Account&#39; expected in iOS 18 &amp; macOS 15](https://appleinsider.com/articles/24/03/17/apple-id-rebrand-to-apple-account-expected-in-fall-launches?utm_medium=rss)
- - [New Apple AI training method retains privacy, and could make a future Siri more flexible](https://appleinsider.com/articles/24/03/17/apples-ai-training-breakthroughs-retain-privacy-while-making-llms-more-flexible?utm_medium=rss)
- - [Apple Watch Series 10 rumored to offer limited blood pressure monitoring](https://appleinsider.com/articles/24/03/17/the-next-apple-watch-may-offer-limited-blood-pressure-monitoring?utm_medium=rss)
- - [An interview with Aaron Levie about Box&#39;s acquisition of Crooze, as Box embraces the content management industry&#39;s shift toward AI and workflow automation &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/240317/p8#a240317p8)
- - [Seasonal Allergies Ruining Your Sleep? 8 Tips to Try for Relief     - CNET](https://www.cnet.com/health/sleep/8-tips-to-stop-allergies-from-ruining-your-sleep/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [New Apple AI training method retains privacy, and could make a future Siri more flexible](https://appleinsider.com/articles/24/03/17/apples-ai-training-breakthroughs-retain-privacy-while-making-llms-more-flexible?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

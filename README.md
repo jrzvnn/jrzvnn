@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [xAI open sources the base model weights and network architecture of Grok-1, a 314B parameter Mixture-of-Experts model, under the Apache 2.0 license &lpar;x.ai&rpar;](http://www.techmeme.com/240317/p11#a240317p11)
  - [Sources: Reddit&#39;s IPO is currently between four and five times oversubscribed, making it more likely the company will reach its targeted $6.5B valuation &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/240317/p10#a240317p10)
  - [A US judge rules Apple must face a class-action suit over AirTag stalking, as three plaintiffs made sufficient negligence and liability claims under CA law &lpar;Rachel Graf/Bloomberg&rpar;](http://www.techmeme.com/240317/p9#a240317p9)
  - [Women&#39;s March Madness 2024: How to Watch Selection Sunday, Caitlin Clark and More Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/womens-march-madness-2024-how-to-watch-selection-sunday-caitlin-clark-and-more-without-cable/#ftag=CAD590a51e)
- - [March Madness 2024: How to Watch Selection Sunday Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/march-madness-2024-how-to-watch-selection-sunday-without-cable/#ftag=CAD590a51e)
- - [Next-gen CarPlay battles Android Automotive for carmakers, drivers](https://appleinsider.com/articles/24/03/17/next-gen-carplay-battles-android-automotive-for-carmakers-drivers?utm_medium=rss)<!-- TECH:END -->
+ - [March Madness 2024: How to Watch Selection Sunday Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/march-madness-2024-how-to-watch-selection-sunday-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

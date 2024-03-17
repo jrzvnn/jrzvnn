@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dad of the year guys](http://9gag.com/gag/a34vPb5)
- - 😝 [Do you agree?](http://9gag.com/gag/aMVe2xM)
- - 💣 [The eyes](http://9gag.com/gag/a0evPjz)
- - 😝 [Fastinating genetic mutation](http://9gag.com/gag/a5QpNWy)
- - 👉 [Yogi, is it them again?](http://9gag.com/gag/apRKqx5)<!-- MEMES:END -->
+ - 😝 [Chilling at the lake](http://9gag.com/gag/aBdDDKO)
+ - 😝 [Absolute ham cannons](http://9gag.com/gag/a34vPNe)
+ - 💣 [His life flashed before his eyes?](http://9gag.com/gag/aKG4zBW)
+ - 😝 [Mining... Where did the guy go?!](http://9gag.com/gag/aKG4w2O)
+ - 👉 [Cargo ship passes dangerously close to aquanaut](http://9gag.com/gag/aL1qq3V)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Next-gen CarPlay battles Android Automotive for carmakers, drivers](https://appleinsider.com/articles/24/03/17/next-gen-carplay-battles-android-automotive-for-carmakers-drivers?utm_medium=rss)
  - [If you&#39;re reliant on Java, you shouldn&#39;t update to macOS Sonoma 14.4 yet](https://appleinsider.com/articles/24/03/16/oracle-advises-users-delay-sonoma-update-due-to-java-issue?utm_medium=rss)
  - [Apple gearing up for fall launch of new two new AirPods models](https://appleinsider.com/articles/24/03/17/apple-prepares-massive-airpods-production-for-fall-launch?utm_medium=rss)
  - [Apple&#39;s Butterfly keyboard repair program winds down soon](https://appleinsider.com/articles/24/03/16/apples-butterfly-keyboard-repair-program-winds-down-this-year?utm_medium=rss)
- - [Apple ID rebrand to &#39;Apple Account&#39; expected in iOS 18 &amp; macOS 15](https://appleinsider.com/articles/24/03/17/apple-id-rebrand-to-apple-account-expected-in-fall-launches?utm_medium=rss)
- - [New Apple AI training method retains privacy, and could make a future Siri more flexible](https://appleinsider.com/articles/24/03/17/apples-ai-training-breakthroughs-retain-privacy-while-making-llms-more-flexible?utm_medium=rss)<!-- TECH:END -->
+ - [Apple ID rebrand to &#39;Apple Account&#39; expected in iOS 18 &amp; macOS 15](https://appleinsider.com/articles/24/03/17/apple-id-rebrand-to-apple-account-expected-in-fall-launches?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

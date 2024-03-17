@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Women&#39;s March Madness 2024: How to Watch Selection Sunday, Caitlin Clark and More Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/womens-march-madness-2024-how-to-watch-selection-sunday-caitlin-clark-and-more-without-cable/#ftag=CAD590a51e)
+ - [March Madness 2024: How to Watch Selection Sunday Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/march-madness-2024-how-to-watch-selection-sunday-without-cable/#ftag=CAD590a51e)
  - [Next-gen CarPlay battles Android Automotive for carmakers, drivers](https://appleinsider.com/articles/24/03/17/next-gen-carplay-battles-android-automotive-for-carmakers-drivers?utm_medium=rss)
  - [If you&#39;re reliant on Java, you shouldn&#39;t update to macOS Sonoma 14.4 yet](https://appleinsider.com/articles/24/03/16/oracle-advises-users-delay-sonoma-update-due-to-java-issue?utm_medium=rss)
- - [Apple gearing up for fall launch of new two new AirPods models](https://appleinsider.com/articles/24/03/17/apple-prepares-massive-airpods-production-for-fall-launch?utm_medium=rss)
- - [Apple&#39;s Butterfly keyboard repair program winds down soon](https://appleinsider.com/articles/24/03/16/apples-butterfly-keyboard-repair-program-winds-down-this-year?utm_medium=rss)
- - [Apple ID rebrand to &#39;Apple Account&#39; expected in iOS 18 &amp; macOS 15](https://appleinsider.com/articles/24/03/17/apple-id-rebrand-to-apple-account-expected-in-fall-launches?utm_medium=rss)<!-- TECH:END -->
+ - [Apple gearing up for fall launch of new two new AirPods models](https://appleinsider.com/articles/24/03/17/apple-prepares-massive-airpods-production-for-fall-launch?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

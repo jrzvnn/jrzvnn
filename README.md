@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Did you know that in Australia, you need to give a reason to withdraw your own money from a bank](http://9gag.com/gag/aEqeezn)
- - 😝 [Carp&#39;s sudden change in behaviour](http://9gag.com/gag/ajPQQZp)
- - 💣 [I&#39;m on my way to discover the nature!](http://9gag.com/gag/aoymm1w)
- - 😝 [El Salvador president Bukele celebrating his country becoming the safest in the western hemisphern](http://9gag.com/gag/awyNNQB)
- - 👉 [Cutoff](http://9gag.com/gag/a1mpvMR)<!-- MEMES:END -->
+ - 😝 [Chilling at the lake](http://9gag.com/gag/aBdDDKO)
+ - 😝 [No postal-voting tho](http://9gag.com/gag/avy22wb)
+ - 💣 [A typical day on the New York subway.](http://9gag.com/gag/a04m2zL)
+ - 😝 [Chad Gina](http://9gag.com/gag/axyEEx2)
+ - 👉 [Cargo ship passes dangerously close to aquanaut](http://9gag.com/gag/aL1qq3V)<!-- MEMES:END -->
 
 ---
 

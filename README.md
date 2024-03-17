@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The next Apple Watch may offer limited blood pressure monitoring](https://appleinsider.com/articles/24/03/17/the-next-apple-watch-may-offer-limited-blood-pressure-monitoring?utm_medium=rss)
+ - [Apple ID rebrand to &#39;Apple Account&#39; expected in iOS 18 &amp; macOS 15](https://appleinsider.com/articles/24/03/17/apple-id-rebrand-to-apple-account-expected-in-fall-launches?utm_medium=rss)
+ - [New Apple AI training method retains privacy, and could make a future Siri more flexible](https://appleinsider.com/articles/24/03/17/apples-ai-training-breakthroughs-retain-privacy-while-making-llms-more-flexible?utm_medium=rss)
+ - [Apple Watch Series 10 rumored to offer limited blood pressure monitoring](https://appleinsider.com/articles/24/03/17/the-next-apple-watch-may-offer-limited-blood-pressure-monitoring?utm_medium=rss)
  - [An interview with Aaron Levie about Box&#39;s acquisition of Crooze, as Box embraces the content management industry&#39;s shift toward AI and workflow automation &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/240317/p8#a240317p8)
- - [Apple&#39;s AI training &#39;breakthroughs&#39; retain privacy while making LLMs more flexible](https://appleinsider.com/articles/24/03/17/apples-ai-training-breakthroughs-retain-privacy-while-making-llms-more-flexible?utm_medium=rss)
- - [Seasonal Allergies Ruining Your Sleep? 8 Tips to Try for Relief     - CNET](https://www.cnet.com/health/sleep/8-tips-to-stop-allergies-from-ruining-your-sleep/#ftag=CAD590a51e)
- - [What Is Google One? A Breakdown of Plans, Pricing, and Included Services](https://www.wired.com/story/what-is-google-one/)<!-- TECH:END -->
+ - [Seasonal Allergies Ruining Your Sleep? 8 Tips to Try for Relief     - CNET](https://www.cnet.com/health/sleep/8-tips-to-stop-allergies-from-ruining-your-sleep/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

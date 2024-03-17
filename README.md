@@ -175,9 +175,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ladies this is how you factory reset your man if he starts behaving](http://9gag.com/gag/amADjW9)
  - 😝 [Mining... Where did the guy go?!](http://9gag.com/gag/aKG4w2O)
- - 💣 [Chilling at the lake](http://9gag.com/gag/aBdDDKO)
+ - 😝 [A typical day on the New York subway.](http://9gag.com/gag/a04m2zL)
+ - 💣 [Just marry her already!](http://9gag.com/gag/ajV2o28)
  - 😝 [I&#39;m on my way to discover the nature!](http://9gag.com/gag/aoymm1w)
  - 👉 [Absolute ham cannons](http://9gag.com/gag/a34vPNe)<!-- MEMES:END -->
 

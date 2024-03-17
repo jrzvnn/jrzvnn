@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple ID rebrand to &#39;Apple Account&#39; expected in fall launches](https://appleinsider.com/articles/24/03/17/apple-id-rebrand-to-apple-account-expected-in-fall-launches?utm_medium=rss)
  - [A24’s Problemista is a surreal fairy tale about finding the people who truly see you](https://www.theverge.com/24099517/a24-problemista-review)
  - [A look at issues and monetization options for Apple CarPlay; sources: Apple plans to produce 20M-25M units of the entry and mid-tier AirPods launching this fall &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240317/p7#a240317p7)
  - [Next-gen CarPlay battles Android Automotive for carmakers, drivers](https://appleinsider.com/articles/24/03/17/next-gen-carplay-battles-android-automotive-for-carmakers-drivers?utm_medium=rss)
- - [Nidus turns a beautiful ecosystem into a frantic shooter](https://www.theverge.com/2024/3/17/24099667/nidus-steam-shooter-caleb-wood-scavengers-reign)
- - [Apple prepares massive AirPods production for fall launch](https://appleinsider.com/articles/24/03/17/apple-prepares-massive-airpods-production-for-fall-launch?utm_medium=rss)<!-- TECH:END -->
+ - [Nidus turns a beautiful ecosystem into a frantic shooter](https://www.theverge.com/2024/3/17/24099667/nidus-steam-shooter-caleb-wood-scavengers-reign)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

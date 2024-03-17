@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chilling at the lake](http://9gag.com/gag/aBdDDKO)
+ - 😝 [Absolute ham cannons](http://9gag.com/gag/a34vPNe)
+ - 😝 [Chad Gina](http://9gag.com/gag/axyEEx2)
+ - 💣 [The guy wants more space in his balcony, so he decided to remove the column.](http://9gag.com/gag/aVvjOxn)
  - 😝 [Ladies this is how you factory reset your man if he starts behaving](http://9gag.com/gag/amADjW9)
- - 💣 [Absolute ham cannons](http://9gag.com/gag/a34vPNe)
- - 😝 [Did you know that in Australia, you need to give a reason to withdraw your own money from a bank](http://9gag.com/gag/aEqeezn)
- - 👉 [The guy wants more space in his balcony, so he decided to remove the column.](http://9gag.com/gag/aVvjOxn)<!-- MEMES:END -->
+ - 👉 [Carp&#39;s sudden change in behaviour](http://9gag.com/gag/ajPQQZp)<!-- MEMES:END -->
 
 ---
 

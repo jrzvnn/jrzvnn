@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chilling at the lake](http://9gag.com/gag/aBdDDKO)
+ - 😝 [A 23-year-old woman was arrested one hour after she uploaded a video to social media where she talked about her preparation for a school shooting in Vaasa, Finland.](http://9gag.com/gag/a34vPM8)
  - 😝 [Absolute ham cannons](http://9gag.com/gag/a34vPNe)
- - 💣 [His life flashed before his eyes?](http://9gag.com/gag/aKG4zBW)
- - 😝 [Mining... Where did the guy go?!](http://9gag.com/gag/aKG4w2O)
- - 👉 [Cargo ship passes dangerously close to aquanaut](http://9gag.com/gag/aL1qq3V)<!-- MEMES:END -->
+ - 💣 [Chad Gina](http://9gag.com/gag/axyEEx2)
+ - 😝 [Cargo ship passes dangerously close to aquanaut](http://9gag.com/gag/aL1qq3V)
+ - 👉 [The guy wants more space in his balcony, so he decided to remove the column.](http://9gag.com/gag/aVvjOxn)<!-- MEMES:END -->
 
 ---
 

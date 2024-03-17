@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [His life flashed before his eyes?](http://9gag.com/gag/aKG4zBW)
- - 😝 [Mining... Where did the guy go?!](http://9gag.com/gag/aKG4w2O)
- - 💣 [Chilling at the lake](http://9gag.com/gag/aBdDDKO)
- - 😝 [A 23-year-old woman was arrested one hour after she uploaded a video to social media where she talked about her preparation for a school shooting in Vaasa, Finland.](http://9gag.com/gag/a34vPM8)
- - 👉 [The guy wants more space in his balcony, so he decided to remove the column.](http://9gag.com/gag/aVvjOxn)<!-- MEMES:END -->
+ - 😝 [What an impersonation](http://9gag.com/gag/a6ZrwPN)
+ - 😝 [The eyes](http://9gag.com/gag/a0evPjz)
+ - 💣 [Yogi, is it them again?](http://9gag.com/gag/apRKqx5)
+ - 😝 [`Confuse them with their own bullsheet` - Sun Tzu, maybe](http://9gag.com/gag/ajPQr4p)
+ - 👉 [Helldivers 2 bans external politics from the game - F**kYeah!](http://9gag.com/gag/aNDmoO0)<!-- MEMES:END -->
 
 ---
 

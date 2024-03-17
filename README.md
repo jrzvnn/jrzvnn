@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [West Ham vs. Aston Villa Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/west-ham-vs-aston-villa-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
  - [Best AirPods &lpar;2024&rpar;: Which Apple Headphones Should You Buy?](https://www.wired.com/gallery/best-airpods/)
+ - [Prevent Tax Refund Delays by Dodging These 7 Mistakes in 2024     - CNET](https://www.cnet.com/personal-finance/taxes/prevent-tax-refund-delays-by-dodging-these-7-mistakes-in-2024/#ftag=CAD590a51e)
  - [iOS 17.4: How to Improve Your iPhone&#39;s Stolen Device Protection     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-4-how-to-improve-your-iphones-stolen-device-protection/#ftag=CAD590a51e)
- - [How to Free Up Space in Gmail, Google Photos, and Google Drive](https://www.wired.com/story/how-to-free-up-storage-space-in-gmail/)
- - [Best Samsung Phone of 2024     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-phone/#ftag=CAD590a51e)
- - [Watch FA Cup Soccer: Livestream Chelsea vs. Leicester City From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/watch-fa-cup-soccer-livestream-chelsea-vs-leicester-city-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Free Up Space in Gmail, Google Photos, and Google Drive](https://www.wired.com/story/how-to-free-up-storage-space-in-gmail/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

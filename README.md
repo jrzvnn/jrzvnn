@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This information is important. You&#39;re welcome](http://9gag.com/gag/avy2pGM)
- - 😝 [They always go to insults when they lose the argument.](http://9gag.com/gag/aKEbbRZ)
- - 💣 [Remember](http://9gag.com/gag/a9yjbnD)
+ - 😝 [Carp&#39;s sudden change in behaviour](http://9gag.com/gag/ajPQQZp)
+ - 😝 [Chad Gina](http://9gag.com/gag/axyEEx2)
+ - 💣 [Cutoff](http://9gag.com/gag/a1mpvMR)
  - 😝 [I&#39;m on my way to discover the nature!](http://9gag.com/gag/aoymm1w)
- - 👉 [El Salvador president Bukele celebrating his country becoming the safest in the western hemisphern](http://9gag.com/gag/awyNNQB)<!-- MEMES:END -->
+ - 👉 [Absolute ham cannons](http://9gag.com/gag/a34vPNe)<!-- MEMES:END -->
 
 ---
 

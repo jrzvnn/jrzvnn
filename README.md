@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The guy wants more space in his balcony, so he decided to remove the column.](http://9gag.com/gag/aVvjOxn)
- - 😝 [She&#39;s perfect](http://9gag.com/gag/a6ZrrgL)
- - 💣 [Absolute ham cannons](http://9gag.com/gag/a34vPNe)
- - 😝 [His life flashed before his eyes?](http://9gag.com/gag/aKG4zBW)
- - 👉 [Cargo ship passes dangerously close to aquanaut](http://9gag.com/gag/aL1qq3V)<!-- MEMES:END -->
+ - 😝 [She&#39;s everywhere.](http://9gag.com/gag/aDYBBLd)
+ - 😝 [Ladies this is how you factory reset your man if he starts behaving](http://9gag.com/gag/amADjW9)
+ - 💣 [Did you know that in Australia, you need to give a reason to withdraw your own money from a bank](http://9gag.com/gag/aEqeezn)
+ - 😝 [Cargo ship passes dangerously close to aquanaut](http://9gag.com/gag/aL1qq3V)
+ - 👉 [Absolute ham cannons](http://9gag.com/gag/a34vPNe)<!-- MEMES:END -->
 
 ---
 

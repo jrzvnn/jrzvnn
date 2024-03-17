@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The M1 MacBook Air is not only still around, it’s cheaper than ever](https://www.theverge.com/2024/3/15/24101727/apple-m1-macbook-air-laptop-walmart)
+ - [FluffCo Is Celebrating Sleep Week With Its Bedding Sale     - CNET](https://www.cnet.com/deals/fluffco-is-celebrating-sleep-week-with-its-bedding-sale/#ftag=CAD590a51e)
  - [A profile of server maker Supermicro, whose flexibility in offering custom servers has been an advantage in the AI boom, as the company joins S&amp;P 500 on Monday &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240317/p12#a240317p12)
  - [Best Google Pixel Deals: Big Savings on Pixel Fold, Pixel 8, Pixel 7 and More     - CNET](https://www.cnet.com/deals/best-google-pixel-deals/#ftag=CAD590a51e)
- - [xAI open sources the base model weights and network architecture of Grok-1, a 314B parameter Mixture-of-Experts model, under the Apache 2.0 license &lpar;xAI&rpar;](http://www.techmeme.com/240317/p11#a240317p11)
- - [Sources: Reddit&#39;s IPO is currently between four and five times oversubscribed, making it more likely the company will reach its targeted $6.5B valuation &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/240317/p10#a240317p10)<!-- TECH:END -->
+ - [xAI open sources the base model weights and network architecture of Grok-1, a 314B parameter Mixture-of-Experts model, under the Apache 2.0 license &lpar;xAI&rpar;](http://www.techmeme.com/240317/p11#a240317p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

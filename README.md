@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chad Gina](http://9gag.com/gag/axyEEx2)
  - 😝 [Cargo ship passes dangerously close to aquanaut](http://9gag.com/gag/aL1qq3V)
+ - 😝 [Chilling at the lake](http://9gag.com/gag/aBdDDKO)
  - 💣 [Absolute ham cannons](http://9gag.com/gag/a34vPNe)
  - 😝 [The guy wants more space in his balcony, so he decided to remove the column.](http://9gag.com/gag/aVvjOxn)
- - 👉 [Ladies this is how you factory reset your man if he starts behaving](http://9gag.com/gag/amADjW9)<!-- MEMES:END -->
+ - 👉 [His life flashed before his eyes?](http://9gag.com/gag/aKG4zBW)<!-- MEMES:END -->
 
 ---
 

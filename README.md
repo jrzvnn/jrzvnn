@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Xbox Cloud Gaming Controllers and Accessories in 2024     - CNET](https://www.cnet.com/tech/mobile/best-controllers-and-accessories-for-xbox-cloud-gaming/#ftag=CAD590a51e)
  - [An excerpt from the book Behind the Startup details how an unnamed Silicon Valley-based unicorn&#39;s push for rapid growth left little time for actual engineering &lpar;Benjamin Shestakofsky/IEEE Spectrum&rpar;](http://www.techmeme.com/240316/p16#a240316p16)
  - [Epic Games vs Apple set to restart in Australia with Google in tow](https://appleinsider.com/articles/24/03/16/epic-games-vs-apple-set-to-restart-in-australia-with-google-in-tow?utm_medium=rss)
  - [Lotte Rub&amp;aelig;k, a psychologist who advises Meta on suicide prevention and self-harm, quits, accusing Meta of &quot;turning a blind eye&quot; to harmful content on Instagram &lpar;Miranda Bryant/The Guardian&rpar;](http://www.techmeme.com/240316/p15#a240316p15)
- - [Wordle Celebrates 1,000 Games. Here Are the Best Starter Words to Use     - CNET](https://www.cnet.com/culture/internet/today-is-wordles-1000th-game-here-are-the-best-starter-words-to-use/#ftag=CAD590a51e)
- - [Best Bluetooth Speaker for 2024     - CNET](https://www.cnet.com/tech/home-entertainment/best-bluetooth-speaker/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Wordle Celebrates 1,000 Games. Here Are the Best Starter Words to Use     - CNET](https://www.cnet.com/culture/internet/today-is-wordles-1000th-game-here-are-the-best-starter-words-to-use/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

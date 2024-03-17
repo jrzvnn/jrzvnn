@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Apple&#39;s AI training &#39;breakthroughs&#39; retain privacy while making LLMs more flexible](https://appleinsider.com/articles/24/03/17/apples-ai-training-breakthroughs-retain-privacy-while-making-llms-more-flexible?utm_medium=rss)
+ - [Seasonal Allergies Ruining Your Sleep? 8 Tips to Try for Relief     - CNET](https://www.cnet.com/health/sleep/8-tips-to-stop-allergies-from-ruining-your-sleep/#ftag=CAD590a51e)
  - [What Is Google One? A Breakdown of Plans, Pricing, and Included Services](https://www.wired.com/story/what-is-google-one/)
- - [Apple ID rebrand to &#39;Apple Account&#39; expected in fall launches](https://appleinsider.com/articles/24/03/17/apple-id-rebrand-to-apple-account-expected-in-fall-launches?utm_medium=rss)
- - [The PlayStation Portal Built-In Volume Is too Loud: Here&#39;s How to Keep It Low video     - CNET](https://www.cnet.com/videos/the-playstation-portal-built-in-volume-is-too-loud-heres-how-to-keep-it-low/#ftag=CAD590a51e)
- - [I Tried All the PlayStation Portal Audio Options for My Wife&#39;s Sake     - CNET](https://www.cnet.com/tech/home-entertainment/i-tried-all-the-playstation-portal-audio-options-for-my-wifes-sake/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best DNA Test for 2024     - CNET](https://www.cnet.com/health/medical/best-dna-test/#ftag=CAD590a51e)
+ - [Apple ID rebrand to &#39;Apple Account&#39; expected in fall launches](https://appleinsider.com/articles/24/03/17/apple-id-rebrand-to-apple-account-expected-in-fall-launches?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

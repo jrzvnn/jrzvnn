@@ -175,9 +175,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She&#39;s perfect](http://9gag.com/gag/a6ZrrgL)
- - 😝 [Man wanted more space in his balcony, so he decided to remove the columns](http://9gag.com/gag/aXPZ0ND)
- - 💣 [A typical day on the New York subway.](http://9gag.com/gag/a04m2zL)
+ - 😝 [G. O. A. T. Teacher](http://9gag.com/gag/aBdDqQZ)
+ - 😝 [El Salvador president Bukele celebrating his country becoming the safest in the western hemisphern](http://9gag.com/gag/awyNNQB)
+ - 💣 [Ladies this is how you factory reset your man if he starts behaving](http://9gag.com/gag/amADjW9)
  - 😝 [I&#39;m on my way to discover the nature!](http://9gag.com/gag/aoymm1w)
  - 👉 [Mining... Where did the guy go?!](http://9gag.com/gag/aKG4w2O)<!-- MEMES:END -->
 

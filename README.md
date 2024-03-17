@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What Is Google One? A Breakdown of Plans, Pricing, and Included Services](https://www.wired.com/story/what-is-google-one/)
  - [Apple ID rebrand to &#39;Apple Account&#39; expected in fall launches](https://appleinsider.com/articles/24/03/17/apple-id-rebrand-to-apple-account-expected-in-fall-launches?utm_medium=rss)
  - [The PlayStation Portal Built-In Volume Is too Loud: Here&#39;s How to Keep It Low video     - CNET](https://www.cnet.com/videos/the-playstation-portal-built-in-volume-is-too-loud-heres-how-to-keep-it-low/#ftag=CAD590a51e)
  - [I Tried All the PlayStation Portal Audio Options for My Wife&#39;s Sake     - CNET](https://www.cnet.com/tech/home-entertainment/i-tried-all-the-playstation-portal-audio-options-for-my-wifes-sake/#ftag=CAD590a51e)
- - [Best Internet Providers in Lexington, South Carolina     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-lexington-sc/#ftag=CAD590a51e)
- - [5 Quick Ways to Set Up a VPN for Your Smart TV     - CNET](https://www.cnet.com/tech/services-and-software/5-quick-ways-to-set-up-a-vpn-for-your-smart-tv/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Lexington, South Carolina     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-lexington-sc/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

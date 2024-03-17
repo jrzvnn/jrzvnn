@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Carp&#39;s sudden change in behaviour](http://9gag.com/gag/ajPQQZp)
- - 😝 [Absolute ham cannons](http://9gag.com/gag/a34vPNe)
- - 💣 [Cargo ship passes dangerously close to aquanaut](http://9gag.com/gag/aL1qq3V)
- - 😝 [Chad Gina](http://9gag.com/gag/axyEEx2)
- - 👉 [The guy wants more space in his balcony, so he decided to remove the column.](http://9gag.com/gag/aVvjOxn)<!-- MEMES:END -->
+ - 😝 [The guy wants more space in his balcony, so he decided to remove the column.](http://9gag.com/gag/aVvjOxn)
+ - 😝 [She&#39;s perfect](http://9gag.com/gag/a6ZrrgL)
+ - 💣 [Absolute ham cannons](http://9gag.com/gag/a34vPNe)
+ - 😝 [His life flashed before his eyes?](http://9gag.com/gag/aKG4zBW)
+ - 👉 [Cargo ship passes dangerously close to aquanaut](http://9gag.com/gag/aL1qq3V)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chad Gina](http://9gag.com/gag/axyEEx2)
- - 😝 [The guy wants more space in his balcony, so he decided to remove the column.](http://9gag.com/gag/aVvjOxn)
- - 💣 [Cargo ship passes dangerously close to aquanaut](http://9gag.com/gag/aL1qq3V)
- - 😝 [A 23-year-old woman was arrested one hour after she uploaded a video to social media where she talked about her preparation for a school shooting in Vaasa, Finland.](http://9gag.com/gag/a34vPM8)
- - 👉 [His life flashed before his eyes?](http://9gag.com/gag/aKG4zBW)<!-- MEMES:END -->
+ - 😝 [El Salvador president Bukele celebrating his country becoming the safest in the western hemisphern](http://9gag.com/gag/awyNNQB)
+ - 😝 [German police take out the trash](http://9gag.com/gag/aoym0Ze)
+ - 💣 [Chad Gina](http://9gag.com/gag/axyEEx2)
+ - 😝 [Cutoff](http://9gag.com/gag/a1mpvMR)
+ - 👉 [A 23-year-old woman was arrested one hour after she uploaded a video to social media where she talked about her preparation for a school shooting in Vaasa, Finland.](http://9gag.com/gag/a34vPM8)<!-- MEMES:END -->
 
 ---
 

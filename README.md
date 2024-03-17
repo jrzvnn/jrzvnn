@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chad Gina](http://9gag.com/gag/axyEEx2)
- - 😝 [Cargo ship passes dangerously close to aquanaut](http://9gag.com/gag/aL1qq3V)
- - 💣 [Ladies this is how you factory reset your man if he starts behaving](http://9gag.com/gag/amADjW9)
- - 😝 [Carp&#39;s sudden change in behaviour](http://9gag.com/gag/ajPQQZp)
- - 👉 [Cutoff](http://9gag.com/gag/a1mpvMR)<!-- MEMES:END -->
+ - 😝 [The eyes](http://9gag.com/gag/a0evPjz)
+ - 😝 [Dad of the year guys](http://9gag.com/gag/a34vPb5)
+ - 💣 [I&#39;ve just told Putin my little `F**k you!`](http://9gag.com/gag/aMVe10A)
+ - 😝 [Do you agree?](http://9gag.com/gag/aMVe2xM)
+ - 👉 [`Confuse them with their own bullsheet` - Sun Tzu, maybe](http://9gag.com/gag/ajPQr4p)<!-- MEMES:END -->
 
 ---
 

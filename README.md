@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Aaron Paulsen](http://9gag.com/gag/aZZqbB9)
- - 😝 [This information is important. You&#39;re welcome](http://9gag.com/gag/avy2pGM)
- - 💣 [I guess there is a difference](http://9gag.com/gag/aO8oKBR)
- - 😝 [I&#39;m on my way to discover the nature!](http://9gag.com/gag/aoymm1w)
- - 👉 [They always go to insults when they lose the argument.](http://9gag.com/gag/aKEbbRZ)<!-- MEMES:END -->
+ - 😝 [She&#39;s perfect](http://9gag.com/gag/a6ZrrgL)
+ - 😝 [Carp&#39;s sudden change in behaviour](http://9gag.com/gag/ajPQQZp)
+ - 💣 [I&#39;m on my way to discover the nature!](http://9gag.com/gag/aoymm1w)
+ - 😝 [Absolute ham cannons](http://9gag.com/gag/a34vPNe)
+ - 👉 [Cutoff](http://9gag.com/gag/a1mpvMR)<!-- MEMES:END -->
 
 ---
 

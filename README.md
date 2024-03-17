@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Never-Repeating Patterns of Tiles Can Safeguard Quantum Information](https://www.wired.com/story/never-repeating-patterns-of-tiles-can-safeguard-quantum-information/)
+ - [Soundpeats Air4 Pro Review: Premium Features for Less](https://www.wired.com/review/soundpeats-air4-pro/)
  - [Crime blotter: Influencer who filmed Philadelphia Apple Store looting headed to trial](https://appleinsider.com/articles/24/03/17/crime-blotter-influencer-who-filmed-philadelphia-apple-store-looting-headed-to-trial?utm_medium=rss)
  - [AirTag anti-stalking class-action lawsuit given the green light](https://appleinsider.com/articles/24/03/17/airtag-anti-stalking-class-action-lawsuit-given-the-green-light?utm_medium=rss)
- - [How China&#39;s spending may swamp India&#39;s chip ambitions; TrendForce: China&#39;s share of global mature-node production will grow from 31% in 2023 to 39% in 2027 &lpar;Megha Mandavia/Wall Street Journal&rpar;](http://www.techmeme.com/240317/p6#a240317p6)
- - [HP Spectre x360 16 Review: Beautiful 2-in-1 Laptop Needs a Performance Boost     - CNET](https://www.cnet.com/tech/computing/hp-spectre-x360-16-review-beautiful-2-in-1-laptop-needs-a-performance-boost/#ftag=CAD590a51e)
- - [I Made Yogurt in My Slow Cooker and You Should Too     - CNET](https://www.cnet.com/how-to/i-made-yogurt-in-my-slow-cooker-should-you-probably/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How China&#39;s spending may swamp India&#39;s chip ambitions; TrendForce: China&#39;s share of global mature-node production will grow from 31% in 2023 to 39% in 2027 &lpar;Megha Mandavia/Wall Street Journal&rpar;](http://www.techmeme.com/240317/p6#a240317p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

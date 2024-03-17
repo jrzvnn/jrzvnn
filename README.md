@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No postal-voting tho](http://9gag.com/gag/avy22wb)
  - 😝 [Mining... Where did the guy go?!](http://9gag.com/gag/aKG4w2O)
- - 💣 [Ladies this is how you factory reset your man if he starts behaving](http://9gag.com/gag/amADjW9)
- - 😝 [Cutoff](http://9gag.com/gag/a1mpvMR)
- - 👉 [The guy wants more space in his balcony, so he decided to remove the column.](http://9gag.com/gag/aVvjOxn)<!-- MEMES:END -->
+ - 😝 [Cargo ship passes dangerously close to aquanaut](http://9gag.com/gag/aL1qq3V)
+ - 💣 [Absolute ham cannons](http://9gag.com/gag/a34vPNe)
+ - 😝 [Ladies this is how you factory reset your man if he starts behaving](http://9gag.com/gag/amADjW9)
+ - 👉 [His life flashed before his eyes?](http://9gag.com/gag/aKG4zBW)<!-- MEMES:END -->
 
 ---
 

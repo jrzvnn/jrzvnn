@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [G. O. A. T. Teacher](http://9gag.com/gag/aBdDqQZ)
- - 😝 [El Salvador president Bukele celebrating his country becoming the safest in the western hemisphern](http://9gag.com/gag/awyNNQB)
- - 💣 [Ladies this is how you factory reset your man if he starts behaving](http://9gag.com/gag/amADjW9)
+ - 😝 [Dating diplomacy after your thirty years](http://9gag.com/gag/a4Ppp3Q)
+ - 😝 [This information is important. You&#39;re welcome](http://9gag.com/gag/avy2pGM)
+ - 💣 [I guess there is a difference](http://9gag.com/gag/aO8oKBR)
  - 😝 [I&#39;m on my way to discover the nature!](http://9gag.com/gag/aoymm1w)
- - 👉 [Mining... Where did the guy go?!](http://9gag.com/gag/aKG4w2O)<!-- MEMES:END -->
+ - 👉 [They always go to insults when they lose the argument.](http://9gag.com/gag/aKEbbRZ)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She&#39;s perfect](http://9gag.com/gag/a6ZrrgL)
- - 😝 [Carp&#39;s sudden change in behaviour](http://9gag.com/gag/ajPQQZp)
- - 💣 [I&#39;m on my way to discover the nature!](http://9gag.com/gag/aoymm1w)
- - 😝 [Absolute ham cannons](http://9gag.com/gag/a34vPNe)
- - 👉 [Cutoff](http://9gag.com/gag/a1mpvMR)<!-- MEMES:END -->
+ - 😝 [Ladies this is how you factory reset your man if he starts behaving](http://9gag.com/gag/amADjW9)
+ - 😝 [Mining... Where did the guy go?!](http://9gag.com/gag/aKG4w2O)
+ - 💣 [Chilling at the lake](http://9gag.com/gag/aBdDDKO)
+ - 😝 [I&#39;m on my way to discover the nature!](http://9gag.com/gag/aoymm1w)
+ - 👉 [Absolute ham cannons](http://9gag.com/gag/a34vPNe)<!-- MEMES:END -->
 
 ---
 

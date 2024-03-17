@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Window installation](http://9gag.com/gag/aQEYYDd)
- - 😝 [Dating diplomacy after your thirty years](http://9gag.com/gag/a4Ppp3Q)
- - 💣 [No postal-voting tho](http://9gag.com/gag/avy22wb)
+ - 😝 [She&#39;s perfect](http://9gag.com/gag/a6ZrrgL)
+ - 😝 [Man wanted more space in his balcony, so he decided to remove the columns](http://9gag.com/gag/aXPZ0ND)
+ - 💣 [A typical day on the New York subway.](http://9gag.com/gag/a04m2zL)
  - 😝 [I&#39;m on my way to discover the nature!](http://9gag.com/gag/aoymm1w)
- - 👉 [Man wanted more space in his balcony, so he decided to remove the columns](http://9gag.com/gag/aXPZ0ND)<!-- MEMES:END -->
+ - 👉 [Mining... Where did the guy go?!](http://9gag.com/gag/aKG4w2O)<!-- MEMES:END -->
 
 ---
 

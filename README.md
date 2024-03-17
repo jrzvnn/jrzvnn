@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Apple prepares massive AirPods production for fall launch](https://appleinsider.com/articles/24/03/17/apple-prepares-massive-airpods-production-for-fall-launch?utm_medium=rss)
+ - [Final Fantasy VII Rebirth Sets the Curve for Revisiting Old Games     - CNET](https://www.cnet.com/tech/gaming/final-fantasy-vii-rebirth-sets-the-curve-for-revisiting-old-games/#ftag=CAD590a51e)
+ - [19 Best Mother&#39;s Day Gifts for New Moms     - CNET](https://www.cnet.com/news/mothers-day-gifts-for-new-moms/#ftag=CAD590a51e)
  - [Never-Repeating Patterns of Tiles Can Safeguard Quantum Information](https://www.wired.com/story/never-repeating-patterns-of-tiles-can-safeguard-quantum-information/)
- - [Soundpeats Air4 Pro Review: Premium Features for Less](https://www.wired.com/review/soundpeats-air4-pro/)
- - [Crime blotter: Influencer who filmed Philadelphia Apple Store looting headed to trial](https://appleinsider.com/articles/24/03/17/crime-blotter-influencer-who-filmed-philadelphia-apple-store-looting-headed-to-trial?utm_medium=rss)
- - [AirTag anti-stalking class-action lawsuit given the green light](https://appleinsider.com/articles/24/03/17/airtag-anti-stalking-class-action-lawsuit-given-the-green-light?utm_medium=rss)<!-- TECH:END -->
+ - [Soundpeats Air4 Pro Review: Premium Features for Less](https://www.wired.com/review/soundpeats-air4-pro/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

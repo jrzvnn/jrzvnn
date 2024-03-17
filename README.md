@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [His life flashed before his eyes?](http://9gag.com/gag/aKG4zBW)
  - 😝 [The guy wants more space in his balcony, so he decided to remove the column.](http://9gag.com/gag/aVvjOxn)
- - 😝 [Chad Gina](http://9gag.com/gag/axyEEx2)
- - 💣 [Cargo ship passes dangerously close to aquanaut](http://9gag.com/gag/aL1qq3V)
- - 😝 [Cutoff](http://9gag.com/gag/a1mpvMR)
- - 👉 [Carp&#39;s sudden change in behaviour](http://9gag.com/gag/ajPQQZp)<!-- MEMES:END -->
+ - 💣 [Chilling at the lake](http://9gag.com/gag/aBdDDKO)
+ - 😝 [Mining... Where did the guy go?!](http://9gag.com/gag/aKG4w2O)
+ - 👉 [Cutoff](http://9gag.com/gag/a1mpvMR)<!-- MEMES:END -->
 
 ---
 

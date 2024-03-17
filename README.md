@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A24’s Problemista is a surreal fairy tale about finding the people who truly see you](https://www.theverge.com/24099517/a24-problemista-review)
- - [A look at issues and monetization options for Apple CarPlay; sources: Apple plans to produce 20M-25M units of the entry and mid-tier AirPods launching this fall &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240317/p7#a240317p7)
- - [Next-gen CarPlay battles Android Automotive for carmakers, drivers](https://appleinsider.com/articles/24/03/17/next-gen-carplay-battles-android-automotive-for-carmakers-drivers?utm_medium=rss)
- - [Nidus turns a beautiful ecosystem into a frantic shooter](https://www.theverge.com/2024/3/17/24099667/nidus-steam-shooter-caleb-wood-scavengers-reign)
- - [Apple prepares massive AirPods production for fall launch](https://appleinsider.com/articles/24/03/17/apple-prepares-massive-airpods-production-for-fall-launch?utm_medium=rss)<!-- TECH:END -->
+ - [The PlayStation Portal Built-In Volume Is too Loud: Here&#39;s How to Keep It Low video     - CNET](https://www.cnet.com/videos/the-playstation-portal-built-in-volume-is-too-loud-heres-how-to-keep-it-low/#ftag=CAD590a51e)
+ - [I Tried All the PlayStation Portal Audio Options for My Wife&#39;s Sake     - CNET](https://www.cnet.com/tech/home-entertainment/i-tried-all-the-playstation-portal-audio-options-for-my-wifes-sake/#ftag=CAD590a51e)
+ - [Best Internet Providers in Lexington, South Carolina     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-lexington-sc/#ftag=CAD590a51e)
+ - [5 Quick Ways to Set Up a VPN for Your Smart TV     - CNET](https://www.cnet.com/tech/services-and-software/5-quick-ways-to-set-up-a-vpn-for-your-smart-tv/#ftag=CAD590a51e)
+ - [A24’s Problemista is a surreal fairy tale about finding the people who truly see you](https://www.theverge.com/24099517/a24-problemista-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

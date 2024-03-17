@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Google Pixel Deals: Big Savings on Pixel Fold, Pixel 8, Pixel 7 and More     - CNET](https://www.cnet.com/deals/best-google-pixel-deals/#ftag=CAD590a51e)
  - [xAI open sources the base model weights and network architecture of Grok-1, a 314B parameter Mixture-of-Experts model, under the Apache 2.0 license &lpar;x.ai&rpar;](http://www.techmeme.com/240317/p11#a240317p11)
  - [Sources: Reddit&#39;s IPO is currently between four and five times oversubscribed, making it more likely the company will reach its targeted $6.5B valuation &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/240317/p10#a240317p10)
  - [Siri Could Become More Like Chat-GPT This Year: Here&#39;s How     - CNET](https://www.cnet.com/tech/mobile/siri-could-become-more-like-chat-gpt-this-year-heres-how/#ftag=CAD590a51e)
- - [3 Clever Ways to Tackle Seasonal Allergies This Spring     - CNET](https://www.cnet.com/health/medical/tips-to-beat-seasonal-allergies/#ftag=CAD590a51e)
- - [A US judge rules Apple must face a class-action suit over AirTag stalking, as three plaintiffs made sufficient negligence and liability claims under CA law &lpar;Rachel Graf/Bloomberg&rpar;](http://www.techmeme.com/240317/p9#a240317p9)<!-- TECH:END -->
+ - [3 Clever Ways to Tackle Seasonal Allergies This Spring     - CNET](https://www.cnet.com/health/medical/tips-to-beat-seasonal-allergies/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

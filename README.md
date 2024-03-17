@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dating diplomacy after your thirty years](http://9gag.com/gag/a4Ppp3Q)
- - 😝 [This information is important. You&#39;re welcome](http://9gag.com/gag/avy2pGM)
- - 💣 [I guess there is a difference](http://9gag.com/gag/aO8oKBR)
+ - 😝 [El Salvador president Bukele celebrating his country becoming the safest in the western hemisphern](http://9gag.com/gag/awyNNQB)
+ - 😝 [Cutoff](http://9gag.com/gag/a1mpvMR)
+ - 💣 [Mining... Where did the guy go?!](http://9gag.com/gag/aKG4w2O)
  - 😝 [I&#39;m on my way to discover the nature!](http://9gag.com/gag/aoymm1w)
- - 👉 [They always go to insults when they lose the argument.](http://9gag.com/gag/aKEbbRZ)<!-- MEMES:END -->
+ - 👉 [She&#39;s perfect](http://9gag.com/gag/a6ZrrgL)<!-- MEMES:END -->
 
 ---
 

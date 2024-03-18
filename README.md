@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [El Salvador president Bukele celebrating his country becoming the safest in the western hemisphern](http://9gag.com/gag/awyNNQB)
- - 😝 [German police take out the trash](http://9gag.com/gag/aoym0Ze)
- - 💣 [Chad Gina](http://9gag.com/gag/axyEEx2)
- - 😝 [Cutoff](http://9gag.com/gag/a1mpvMR)
+ - 😝 [Chad Gina](http://9gag.com/gag/axyEEx2)
+ - 😝 [The boss of Palworld developer Pocketpair said the hit game cost less than $6.7 million to make and has generated massive profits that the small studio &lpar;currently 55 people&rpar; can&#39;t handle.](http://9gag.com/gag/az266Gb)
+ - 💣 [A husband doing his best](http://9gag.com/gag/aQz6p5W)
+ - 😝 [His life flashed before his eyes?](http://9gag.com/gag/aKG4zBW)
  - 👉 [A 23-year-old woman was arrested one hour after she uploaded a video to social media where she talked about her preparation for a school shooting in Vaasa, Finland.](http://9gag.com/gag/a34vPM8)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia unveils the Earth-2 platform, letting users create AI-powered climate simulations ranging from global atmospheric conditions to local weather phenomena &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240318/p34#a240318p34)
+ - [Apple calls 128GB &#39;lots of storage&#39; in new iPhone 15 ad](https://appleinsider.com/articles/24/03/18/apple-calls-128gb-lots-of-storage-in-new-iphone-15-ad?utm_medium=rss)
  - [Crypto trading platform Bakkt names Andy Main as its CEO and president, as it faces being dropped from the NYSE for failing to maintain listing requirements &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/240318/p33#a240318p33)
  - [Cricut Explore 3     - CNET](https://www.cnet.com/culture/cricut-explore-3-dpnl/#ftag=CAD590a51e)
- - [Best Apple TV Deals: Save on Streaming Devices and Accessories     - CNET](https://www.cnet.com/deals/best-apple-tv-deals/#ftag=CAD590a51e)
- - [Best Samsung Galaxy S23, S23 Plus and S23 Ultra Cases for 2024     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-s23-s23-plus-and-s23-ultra-cases/#ftag=CAD590a51e)
- - [DeWalt Drill &amp; Driver Combo     - CNET](https://www.cnet.com/news/dewalt-drill-driver-combo-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Apple TV Deals: Save on Streaming Devices and Accessories     - CNET](https://www.cnet.com/deals/best-apple-tv-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

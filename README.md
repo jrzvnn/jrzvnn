@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Research details VLOGGER, an AI model that can generate lifelike videos of people speaking, gesturing, and moving from a single still photo &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240318/p16#a240318p16)
  - [CSA&#39;s Chris LaPre joins HomeKit Insider to talk about Matter](https://appleinsider.com/articles/24/03/18/csas-chris-lapre-joins-homekit-insider-to-talk-about-matter?utm_medium=rss)
  - [Apple&#39;s iPad Air &amp; iPad Pro refresh rumored to arrive on March 26](https://appleinsider.com/articles/24/03/18/apples-ipad-refresh-rumored-to-arrive-on-march-26?utm_medium=rss)
  - [A profile of Indian startup Yotta Data Services, which plans to buy ~20K Nvidia H100 chips by June 2024 to offer computing power to Indian companies to build AI &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240318/p15#a240318p15)
- - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
- - [Apex Legends postpones competition amid hacking concerns](https://www.theverge.com/2024/3/18/24104666/apex-legends-postpones-algs-competition-hack-concerns)<!-- TECH:END -->
+ - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

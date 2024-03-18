@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Android phones for everyone](https://www.theverge.com/23674658/best-android-phone)
+ - [Nvidia announces NIM, a set of microservices designed to streamline the deployment of custom and pre-trained AI models into production environments &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240318/p35#a240318p35)
  - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
  - [Nvidia unveils the Earth-2 platform, letting users create AI-powered climate simulations ranging from global atmospheric conditions to local weather phenomena &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240318/p34#a240318p34)
- - [Apple calls 128GB &#39;lots of storage&#39; in new iPhone 15 ad](https://appleinsider.com/articles/24/03/18/apple-calls-128gb-lots-of-storage-in-new-iphone-15-ad?utm_medium=rss)
- - [Crypto trading platform Bakkt names Andy Main as its CEO and president, as it faces being dropped from the NYSE for failing to maintain listing requirements &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/240318/p33#a240318p33)
- - [Cricut Explore 3     - CNET](https://www.cnet.com/culture/cricut-explore-3-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple calls 128GB &#39;lots of storage&#39; in new iPhone 15 ad](https://appleinsider.com/articles/24/03/18/apple-calls-128gb-lots-of-storage-in-new-iphone-15-ad?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

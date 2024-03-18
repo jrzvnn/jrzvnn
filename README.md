@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony is reportedly pausing PSVR2 production to clear excess inventory](https://www.theverge.com/2024/3/18/24104649/sony-pausing-playstation-vr2-production)
+ - [‘Photographer’ Isn’t About Photography at All](https://www.wired.com/story/national-geographic-photographer-docuseries/)
  - [Reviewing Reddit&#39;s IPO filings: signs of slowing user growth, struggles to grow overseas, a dependence on Google, enticing brands, a new Class C stock, and more &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/240318/p9#a240318p9)
  - [Google quietly refreshes its Fitbit branding, changing from &quot;Fitbit by Google&quot; to &quot;Google Fitbit&quot;, similar to Google Pixel and Google Nest &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240318/p8#a240318p8)
- - [Apple in talks to license Google Gemini AI for iPhones](https://appleinsider.com/articles/24/03/18/apple-in-talks-to-licence-google-gemini-ai-for-iphones?utm_medium=rss)
- - [A profile of Reddit co-founder Steve Huffman, who blends the personal and professional as CEO and must navigate a tepid IPO market for the unprofitable company &lpar;Sarah E. Needleman/Wall Street Journal&rpar;](http://www.techmeme.com/240318/p7#a240318p7)
- - [Why Is the Slack Hold Music So Haunted and So Good?](https://www.wired.com/story/slack-huddle-hold-music-secret-history/)<!-- TECH:END -->
+ - [Apple in talks to license Google Gemini AI for iPhones](https://appleinsider.com/articles/24/03/18/apple-in-talks-to-licence-google-gemini-ai-for-iphones?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

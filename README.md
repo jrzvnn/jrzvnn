@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Crypto trading platform Bakkt names Andy Main as its CEO and president, as it faces being dropped from the NYSE for failing to maintain listing requirements &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/240318/p33#a240318p33)
  - [Nvidia announces a new generation of AI chips named Blackwell, starting with the GB200 Grace Blackwell Superchip, expected to ship later this year &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240318/p32#a240318p32)
  - [Nvidia reveals Blackwell B200 GPU, the ‘world’s most powerful chip’ for AI](https://www.theverge.com/2024/3/18/24105157/nvidia-blackwell-gpu-b200-ai)
  - [Feeling Euphoric? What &#39;Spring Fever&#39; Can Do to Our Mood     - CNET](https://www.cnet.com/health/mental/feeling-euphoric-what-spring-fever-can-do-to-our-mood/#ftag=CAD590a51e)
- - [Carlsmed, which is developing an AI-powered personalized surgery tool, raised a $52.5M Series C co-led by B Capital and US Venture Partners &lpar;Abhinaya Prabhu/Tech Funding News&rpar;](http://www.techmeme.com/240318/p31#a240318p31)
- - [Best PC Gaming Headset for 2024     - CNET](https://www.cnet.com/tech/gaming/best-pc-gaming-headset/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Carlsmed, which is developing an AI-powered personalized surgery tool, raised a $52.5M Series C co-led by B Capital and US Venture Partners &lpar;Abhinaya Prabhu/Tech Funding News&rpar;](http://www.techmeme.com/240318/p31#a240318p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [German police take out the trash](http://9gag.com/gag/aoym0Ze)
+ - 😝 [Carp&#39;s sudden change in behaviour](http://9gag.com/gag/ajPQQZp)
  - 😝 [Lord of the sign of Labyrinth](http://9gag.com/gag/axyE2Ep)
- - 💣 [The guy wants more space in his balcony, so he decided to remove the column.](http://9gag.com/gag/aVvjOxn)
- - 😝 [Cargo ship passes dangerously close to aquanaut](http://9gag.com/gag/aL1qq3V)
- - 👉 [A husband doing his best](http://9gag.com/gag/aQz6p5W)<!-- MEMES:END -->
+ - 💣 [Yogi, is it them again?](http://9gag.com/gag/apRKqx5)
+ - 😝 [Mining... Where did the guy go?!](http://9gag.com/gag/aKG4w2O)
+ - 👉 [German police take out the trash](http://9gag.com/gag/aoym0Ze)<!-- MEMES:END -->
 
 ---
 

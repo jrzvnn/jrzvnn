@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Live Forever](https://www.wired.com/story/why-we-die-venki-ramakrishnan/)
  - [Qualcomm&#39;s Next Chip Brings Generative AI to More Affordable Phones     - CNET](https://www.cnet.com/tech/mobile/qualcomms-next-chip-brings-generative-ai-to-more-affordable-phones/#ftag=CAD590a51e)
  - [Qualcomm’s new 8S Gen 3 targets not-quite flagship phones](https://www.theverge.com/2024/3/18/24101903/qualcomm-snapdragon-8s-gen-3-chipset-on-device-ai)
  - [A look at the proliferation of gimmicky online crypto-certification programs, as the lack of a well recognized professional crypto accreditation leaves a vacuum &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/240318/p3#a240318p3)
- - [EVs With Built-In Camera Drones Have Already Landed in China](https://www.wired.com/story/evs-with-built-in-camera-drones-have-already-landed-in-china/)
- - [Sources: Apple and Google are in active talks to let Gemini power some new features coming to iPhone in 2024; Apple also held talks with OpenAI to use its model &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240318/p2#a240318p2)<!-- TECH:END -->
+ - [EVs With Built-In Camera Drones Have Already Landed in China](https://www.wired.com/story/evs-with-built-in-camera-drones-have-already-landed-in-china/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

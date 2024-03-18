@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you lie on your resume](http://9gag.com/gag/aLn6PRP)
- - 😝 [Pleasant dreams](http://9gag.com/gag/ae9K03p)
- - 💣 [Get the f*ck up, Swede!](http://9gag.com/gag/aqy4mvp)
- - 😝 [You will be missed.](http://9gag.com/gag/ary1pBB)
- - 👉 [Fastinating genetic mutation](http://9gag.com/gag/a5QpNWy)<!-- MEMES:END -->
+ - 😝 [His life flashed before his eyes?](http://9gag.com/gag/aKG4zBW)
+ - 😝 [Cutoff](http://9gag.com/gag/a1mpvMR)
+ - 💣 [Yogi, is it them again?](http://9gag.com/gag/apRKqx5)
+ - 😝 [Chad Gina](http://9gag.com/gag/axyEEx2)
+ - 👉 [The guy wants more space in his balcony, so he decided to remove the column.](http://9gag.com/gag/aVvjOxn)<!-- MEMES:END -->
 
 ---
 

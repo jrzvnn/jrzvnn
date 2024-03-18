@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe Substance 3D’s AI features can turn text into backgrounds and textures](https://www.theverge.com/2024/3/18/24104718/adobe-firefly-substance-sampler-stager-3d-tools-beta)
- - [Figure Markets, a crypto trading platform developed by Figure Technologies, raised a $60M Series A led by Jump Crypto, Pantera Capital, and Lightspeed Faction &lpar;Danny Park/The Block&rpar;](http://www.techmeme.com/240318/p13#a240318p13)
- - [Discounts on Roku Streaming Devices Drop Select Models as Low as $20 Today     - CNET](https://www.cnet.com/deals/discounts-on-roku-streaming-devices-drop-select-models-as-low-as-20-today/#ftag=CAD590a51e)
- - [Mortgage Rates Take Dips Down: Current Mortgage Rates for March 18, 2024     - CNET](https://www.cnet.com/personal-finance/mortgage-rates-take-dips-down-current-mortgage-rates-for-march-18-2024/#ftag=CAD590a51e)
- - [Bonavita 5-Cup One-Touch Thermal Carafe Review: Simple and Excellent](https://www.wired.com/review/bonavita-5-cup-one-touch-thermal-carafe/)<!-- TECH:END -->
+ - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
+ - [Apex Legends postpones competition amid hacking concerns](https://www.theverge.com/2024/3/18/24104666/apex-legends-postpones-algs-competition-hack-concerns)
+ - [Today’s Supreme Court Hearing Addresses a Far-Right Boogeyman](https://www.wired.com/story/scotus-social-media-murthy-missouri-conspiracies/)
+ - [YouTube now requires creators to label when using AI to create realistic-looking videos via an upload checklist; clearly unrealistic videos do not need a label &lpar;Clare Duffy/CNN&rpar;](http://www.techmeme.com/240318/p14#a240318p14)
+ - [Review: Orange Box Bluetooth Speaker](https://www.wired.com/review/orange-box/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

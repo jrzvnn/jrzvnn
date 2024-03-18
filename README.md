@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cutoff](http://9gag.com/gag/a1mpvMR)
- - 😝 [` Think I got a stone bladder. `The stone:](http://9gag.com/gag/a5QpdNr)
- - 💣 [His life flashed before his eyes?](http://9gag.com/gag/aKG4zBW)
- - 😝 [Cargo ship passes dangerously close to aquanaut](http://9gag.com/gag/aL1qq3V)
- - 👉 [German police take out the trash](http://9gag.com/gag/aoym0Ze)<!-- MEMES:END -->
+ - 😝 [`Confuse them with their own bullsheet` - Sun Tzu, maybe](http://9gag.com/gag/ajPQr4p)
+ - 😝 [Pleasant dreams](http://9gag.com/gag/ae9K03p)
+ - 💣 [Get the f*ck up, Swede!](http://9gag.com/gag/aqy4mvp)
+ - 😝 [You will be missed.](http://9gag.com/gag/ary1pBB)
+ - 👉 [Fastinating genetic mutation](http://9gag.com/gag/a5QpNWy)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X&#39;s pivot to video mirrors past social media trends, but its reliance on user-generated videos from TikTok and other platforms may not ensure long-term success &lpar;John Herrman/New York Magazine&rpar;](http://www.techmeme.com/240318/p28#a240318p28)
+ - [OLED iPad Pros still expected in March, with April availability](https://appleinsider.com/articles/24/03/18/oled-ipad-pros-still-expected-in-march-with-april-availability?utm_medium=rss)
  - [Telegram CEO Pavel Durov says, on his channel, that the company raised $330M through bond sales last week, and that the offering was oversubscribed &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240318/p27#a240318p27)
- - [The return of Gamergate is smaller and sadder](https://www.theverge.com/2024/3/18/24104799/gamergate-2024-sweet-baby-inc-diversity)
- - [Pixel 8 drops below $500 for the first time](https://www.theverge.com/2024/3/18/24104732/google-pixel-8-tp-link-kasa-smart-bulbs-apple-tv-4k-tcl-qm8-deal-sale)
- - [Microsoft is holding a Windows and Surface AI event on May 20; sources: the event will include the consumer versions of Surface Pro 10 and Surface Laptop 6 &lpar;The Verge&rpar;](http://www.techmeme.com/240318/p26#a240318p26)
- - [After hearing oral arguments, SCOTUS appeared wary of curbing US government contacts with social media platforms to remove posts deemed misinformation &lpar;Reuters&rpar;](http://www.techmeme.com/240318/p25#a240318p25)<!-- TECH:END -->
+ - [Best Budget Earbuds for 2024: Cheap Wireless Picks     - CNET](https://www.cnet.com/tech/mobile/best-cheap-wireless-earbuds/#ftag=CAD590a51e)
+ - [Yes, You Can Cash a Check Without a Bank Account. Here&#39;s How     - CNET](https://www.cnet.com/personal-finance/how-to-cash-a-check-without-a-bank-account/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Carp&#39;s sudden change in behaviour](http://9gag.com/gag/ajPQQZp)
- - 😝 [Lord of the sign of Labyrinth](http://9gag.com/gag/axyE2Ep)
- - 💣 [Yogi, is it them again?](http://9gag.com/gag/apRKqx5)
- - 😝 [Mining... Where did the guy go?!](http://9gag.com/gag/aKG4w2O)
+ - 😝 [Cutoff](http://9gag.com/gag/a1mpvMR)
+ - 😝 [` Think I got a stone bladder. `The stone:](http://9gag.com/gag/a5QpdNr)
+ - 💣 [His life flashed before his eyes?](http://9gag.com/gag/aKG4zBW)
+ - 😝 [Cargo ship passes dangerously close to aquanaut](http://9gag.com/gag/aL1qq3V)
  - 👉 [German police take out the trash](http://9gag.com/gag/aoym0Ze)<!-- MEMES:END -->
 
 ---

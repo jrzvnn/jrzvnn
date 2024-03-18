@@ -175,7 +175,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Confuse them with their own bullsheet` - Sun Tzu, maybe](http://9gag.com/gag/ajPQr4p)
+ - 😝 [When you lie on your resume](http://9gag.com/gag/aLn6PRP)
  - 😝 [Pleasant dreams](http://9gag.com/gag/ae9K03p)
  - 💣 [Get the f*ck up, Swede!](http://9gag.com/gag/aqy4mvp)
  - 😝 [You will be missed.](http://9gag.com/gag/ary1pBB)

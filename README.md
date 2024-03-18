@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Come back](http://9gag.com/gag/a4PpL3m)
- - 😝 [You can&#39;t drink water because they feel threatened.](http://9gag.com/gag/a1mpe8P)
- - 💣 [Fastinating genetic mutation](http://9gag.com/gag/a5QpNWy)
- - 😝 [Watcha gonna do when we come for you](http://9gag.com/gag/aZZqWGn)
- - 👉 [Before and after starting her diet](http://9gag.com/gag/a34vdov)<!-- MEMES:END -->
+ - 😝 [It would&#39;ve made sense](http://9gag.com/gag/avy2gDn)
+ - 😝 [They answer everything but the question](http://9gag.com/gag/a1mpe6G)
+ - 💣 [You can&#39;t drink water because they feel threatened.](http://9gag.com/gag/a1mpe8P)
+ - 😝 [German police take out the trash](http://9gag.com/gag/aoym0Ze)
+ - 👉 [If anyone ever wonders why every mechanic everywhere hates engineers\u2026.I submit exibit A:](http://9gag.com/gag/ae9K0AO)<!-- MEMES:END -->
 
 ---
 

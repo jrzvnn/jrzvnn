@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Telegram CEO Pavel Durov says, on his channel, that the company raised $330M through bond sales last week, and that the offering was oversubscribed &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240318/p27#a240318p27)
  - [The return of Gamergate is smaller and sadder](https://www.theverge.com/2024/3/18/24104799/gamergate-2024-sweet-baby-inc-diversity)
  - [Pixel 8 drops below $500 for the first time](https://www.theverge.com/2024/3/18/24104732/google-pixel-8-tp-link-kasa-smart-bulbs-apple-tv-4k-tcl-qm8-deal-sale)
  - [Microsoft is holding a Windows and Surface AI event on May 20; sources: the event will include the consumer versions of Surface Pro 10 and Surface Laptop 6 &lpar;The Verge&rpar;](http://www.techmeme.com/240318/p26#a240318p26)
- - [After hearing oral arguments, SCOTUS appeared wary of curbing US government contacts with social media platforms to remove posts deemed misinformation &lpar;Reuters&rpar;](http://www.techmeme.com/240318/p25#a240318p25)
- - [Jabra Enhance Select 300 Hearing Aids Review: Some of the Best We&#39;ve Tested](https://www.wired.com/review/jabra-enhance-select-300-hearing-aids/)<!-- TECH:END -->
+ - [After hearing oral arguments, SCOTUS appeared wary of curbing US government contacts with social media platforms to remove posts deemed misinformation &lpar;Reuters&rpar;](http://www.techmeme.com/240318/p25#a240318p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

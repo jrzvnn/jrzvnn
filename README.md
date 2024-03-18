@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It would&#39;ve made sense](http://9gag.com/gag/avy2gDn)
- - 😝 [They answer everything but the question](http://9gag.com/gag/a1mpe6G)
- - 💣 [You can&#39;t drink water because they feel threatened.](http://9gag.com/gag/a1mpe8P)
- - 😝 [German police take out the trash](http://9gag.com/gag/aoym0Ze)
- - 👉 [If anyone ever wonders why every mechanic everywhere hates engineers\u2026.I submit exibit A:](http://9gag.com/gag/ae9K0AO)<!-- MEMES:END -->
+ - 😝 [Yogi, is it them again?](http://9gag.com/gag/apRKqx5)
+ - 😝 [If anyone ever wonders why every mechanic everywhere hates engineers\u2026.I submit exibit A:](http://9gag.com/gag/ae9K0AO)
+ - 💣 [` Think I got a stone bladder. `The stone:](http://9gag.com/gag/a5QpdNr)
+ - 😝 [The guy wants more space in his balcony, so he decided to remove the column.](http://9gag.com/gag/aVvjOxn)
+ - 👉 [Thank the founding fathers for the 1st amendment](http://9gag.com/gag/aW4BWD6)<!-- MEMES:END -->
 
 ---
 

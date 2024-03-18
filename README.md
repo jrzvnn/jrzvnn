@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pixel 8 drops below $500 for the first time](https://www.theverge.com/2024/3/18/24104732/google-pixel-8-tp-link-kasa-smart-bulbs-apple-tv-4k-tcl-qm8-deal-sale)
+ - [Microsoft is holding a Windows and Surface AI event on May 20; sources: the event will include the consumer versions of Surface Pro 10 and Surface Laptop 6 &lpar;The Verge&rpar;](http://www.techmeme.com/240318/p26#a240318p26)
  - [After hearing oral arguments, SCOTUS appeared wary of curbing US government contacts with social media platforms to remove posts deemed misinformation &lpar;Reuters&rpar;](http://www.techmeme.com/240318/p25#a240318p25)
  - [Jabra Enhance Select 300 Hearing Aids Review: Some of the Best We&#39;ve Tested](https://www.wired.com/review/jabra-enhance-select-300-hearing-aids/)
- - [Microsoft to hold a special Windows and Surface AI event in May](https://www.theverge.com/2024/3/18/24104982/microsoft-ai-event-build-2024-satya-nadella)
- - [Searches for &quot;As of my last knowledge update&quot;, a phrase used by ChatGPT, return 115 results on Google Scholar, suggesting the use of AI-generated text in papers &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/240318/p24#a240318p24)
- - [21 Best Mother&#39;s Day Gifts for Expectant Mamas     - CNET](https://www.cnet.com/news/best-mothers-day-gifts-for-moms-to-be/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft to hold a special Windows and Surface AI event in May](https://www.theverge.com/2024/3/18/24104982/microsoft-ai-event-build-2024-satya-nadella)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

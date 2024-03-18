@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They answer everything but the question](http://9gag.com/gag/a1mpe6G)
- - 😝 [Its necessary to clap before the game](http://9gag.com/gag/a4PpLqd)
- - 💣 [Choose your platform wisely](http://9gag.com/gag/ajPQ6n8)
- - 😝 [True Art](http://9gag.com/gag/apRKBBW)
+ - 😝 [It would&#39;ve made sense](http://9gag.com/gag/avy2gDn)
+ - 😝 [Thank the founding fathers for the 1st amendment](http://9gag.com/gag/aW4BWD6)
+ - 💣 [Share some of the best paused moments in movies.](http://9gag.com/gag/a2vEYed)
+ - 😝 [The guy wants more space in his balcony, so he decided to remove the column.](http://9gag.com/gag/aVvjOxn)
  - 👉 [\ud83c\udf81Gaming Monitor Giveaway\ud83c\udf81 AORUS Infinity, an epic realm where AI meets play, awaits your exploration. Can you tell where it is located? Follow the rules below to make your guess for a chance to take home the AORUS CO49DQ Gaming Monitor!](http://9gag.com/gag/aQz6nj7)<!-- MEMES:END -->
 
 ---

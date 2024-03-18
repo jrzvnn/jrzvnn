@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Grab Apple&#39;s M3 Pro MacBook Pro 14-inch for $1,749, now $250 off](https://appleinsider.com/articles/24/03/18/grab-apples-m3-pro-macbook-pro-14-inch-for-1749-now-250-off?utm_medium=rss)
+ - [How to get more battery life out of your Wear OS smartwatch](https://www.theverge.com/24101912/wearos-watch-pixel-battery-how-to)
  - [App analytics company Sensor Tower acquires Data.ai for an undisclosed amount; Crunchbase: Data.ai raised $157M+ while Sensor Tower raised just $46M &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240318/p19#a240318p19)
  - [Here’s the Elon Musk interview that got Don Lemon’s show canceled](https://www.theverge.com/2024/3/18/24104708/elon-musk-interview-don-lemon-show-canceled)
- - [Creative Labs Pebble X Review: Arguably the Best PC Speakers Under $100     - CNET](https://www.cnet.com/tech/computing/creative-labs-pebble-x-review-arguably-the-best-pc-speakers-under-100/#ftag=CAD590a51e)
- - [Some GPT Store developers express disappointment over a lack of users and support from OpenAI on user analytics; OpenAI does not yet let developers charge a fee &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/240318/p18#a240318p18)
- - [Best Wireless Mouse Deals: Big Savings on HP, Logitech, Microsoft and More     - CNET](https://www.cnet.com/deals/best-wireless-mouse-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Creative Labs Pebble X Review: Arguably the Best PC Speakers Under $100     - CNET](https://www.cnet.com/tech/computing/creative-labs-pebble-x-review-arguably-the-best-pc-speakers-under-100/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

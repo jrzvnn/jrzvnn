@@ -175,8 +175,8 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Its necessary to clap before the game](http://9gag.com/gag/a4PpLqd)
  - 😝 [They answer everything but the question](http://9gag.com/gag/a1mpe6G)
+ - 😝 [Its necessary to clap before the game](http://9gag.com/gag/a4PpLqd)
  - 💣 [Choose your platform wisely](http://9gag.com/gag/ajPQ6n8)
  - 😝 [True Art](http://9gag.com/gag/apRKBBW)
  - 👉 [I see what you did there.](http://9gag.com/gag/a6Zry82)<!-- MEMES:END -->

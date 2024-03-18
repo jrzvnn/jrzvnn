@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Crypto trading platform Bakkt names Andy Main as its CEO and president, as it faces being dropped from the NYSE for failing to maintain listing requirements &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/240318/p33#a240318p33)
- - [Nvidia announces a new generation of AI chips named Blackwell, starting with the GB200 Grace Blackwell Superchip, expected to ship later this year &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240318/p32#a240318p32)
- - [Nvidia reveals Blackwell B200 GPU, the ‘world’s most powerful chip’ for AI](https://www.theverge.com/2024/3/18/24105157/nvidia-blackwell-gpu-b200-ai)
- - [Feeling Euphoric? What &#39;Spring Fever&#39; Can Do to Our Mood     - CNET](https://www.cnet.com/health/mental/feeling-euphoric-what-spring-fever-can-do-to-our-mood/#ftag=CAD590a51e)
- - [Carlsmed, which is developing an AI-powered personalized surgery tool, raised a $52.5M Series C co-led by B Capital and US Venture Partners &lpar;Abhinaya Prabhu/Tech Funding News&rpar;](http://www.techmeme.com/240318/p31#a240318p31)<!-- TECH:END -->
+ - [Cricut Explore 3     - CNET](https://www.cnet.com/culture/cricut-explore-3-dpnl/#ftag=CAD590a51e)
+ - [Best Apple TV Deals: Save on Streaming Devices and Accessories     - CNET](https://www.cnet.com/deals/best-apple-tv-deals/#ftag=CAD590a51e)
+ - [Best Samsung Galaxy S23, S23 Plus and S23 Ultra Cases for 2024     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-s23-s23-plus-and-s23-ultra-cases/#ftag=CAD590a51e)
+ - [DeWalt Drill &amp; Driver Combo     - CNET](https://www.cnet.com/news/dewalt-drill-driver-combo-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [App analytics company Sensor Tower acquires Data.ai for an undisclosed amount; Crunchbase: Data.ai raised $157M+ while Sensor Tower raised just $46M &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240318/p19#a240318p19)
  - [Here’s the Elon Musk interview that got Don Lemon’s show canceled](https://www.theverge.com/2024/3/18/24104708/elon-musk-interview-don-lemon-show-canceled)
+ - [Creative Labs Pebble X Review: Arguably the Best PC Speakers Under $100     - CNET](https://www.cnet.com/tech/computing/creative-labs-pebble-x-review-arguably-the-best-pc-speakers-under-100/#ftag=CAD590a51e)
  - [Some GPT Store developers express disappointment over a lack of users and support from OpenAI on user analytics; OpenAI does not yet let developers charge a fee &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/240318/p18#a240318p18)
- - [9 Best Baby Monitors &lpar;2024&rpar;: Wi-Fi, Radio &lpar;No Internet&rpar;, and More](https://www.wired.com/gallery/best-baby-monitors/)
- - [Playtron: the startup hoping to Steam Deck-ify the world](https://www.theverge.com/24090470/playtron-gaming-os-linux-handhelds-exclusive)
- - [Leaker casts doubt on 12.9-inch iPad Air 6 rumors as launch looms](https://appleinsider.com/articles/24/03/18/leaker-casts-doubt-on-129-inch-ipad-air-6-rumors-as-launch-looms?utm_medium=rss)<!-- TECH:END -->
+ - [Best Wireless Mouse Deals: Big Savings on HP, Logitech, Microsoft and More     - CNET](https://www.cnet.com/deals/best-wireless-mouse-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

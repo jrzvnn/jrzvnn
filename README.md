@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lord of the sign of Labyrinth](http://9gag.com/gag/axyE2Ep)
- - 😝 [Cargo ship passes dangerously close to aquanaut](http://9gag.com/gag/aL1qq3V)
+ - 😝 [Cutoff](http://9gag.com/gag/a1mpvMR)
+ - 😝 [El Salvador president Bukele celebrating his country becoming the safest in the western hemisphern](http://9gag.com/gag/awyNNQB)
  - 💣 [You promise not to cry?](http://9gag.com/gag/aXPZEXP)
- - 😝 [Yogi, is it them again?](http://9gag.com/gag/apRKqx5)
- - 👉 [The guy wants more space in his balcony, so he decided to remove the column.](http://9gag.com/gag/aVvjOxn)<!-- MEMES:END -->
+ - 😝 [A 23-year-old woman was arrested one hour after she uploaded a video to social media where she talked about her preparation for a school shooting in Vaasa, Finland.](http://9gag.com/gag/a34vPM8)
+ - 👉 [A husband doing his best](http://9gag.com/gag/aQz6p5W)<!-- MEMES:END -->
 
 ---
 

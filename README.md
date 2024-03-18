@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who the Hell is JEFF?](http://9gag.com/gag/aqy4NXj)
- - 😝 [Yogi, is it them again?](http://9gag.com/gag/apRKqx5)
- - 💣 [You can&#39;t drink water because they feel threatened.](http://9gag.com/gag/a1mpe8P)
+ - 😝 [Hey you can&#39;t park here !](http://9gag.com/gag/agmrvBv)
  - 😝 [If anyone ever wonders why every mechanic everywhere hates engineers\u2026.I submit exibit A:](http://9gag.com/gag/ae9K0AO)
+ - 💣 [Thank the founding fathers for the 1st amendment](http://9gag.com/gag/aW4BWD6)
+ - 😝 [A 23-year-old woman was arrested one hour after she uploaded a video to social media where she talked about her preparation for a school shooting in Vaasa, Finland.](http://9gag.com/gag/a34vPM8)
  - 👉 [` Think I got a stone bladder. `The stone:](http://9gag.com/gag/a5QpdNr)<!-- MEMES:END -->
 
 ---

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They answer everything but the question](http://9gag.com/gag/a1mpe6G)
- - 😝 [You can&#39;t drink water because they feel threatened.](http://9gag.com/gag/a1mpe8P)
- - 💣 [Thank the founding fathers for the 1st amendment](http://9gag.com/gag/aW4BWD6)
- - 😝 [` Think I got a stone bladder. `The stone:](http://9gag.com/gag/a5QpdNr)
- - 👉 [If anyone ever wonders why every mechanic everywhere hates engineers\u2026.I submit exibit A:](http://9gag.com/gag/ae9K0AO)<!-- MEMES:END -->
+ - 😝 [You will be missed.](http://9gag.com/gag/ary1pBB)
+ - 😝 [The perfect earrings don\u2019t exist](http://9gag.com/gag/aXPZXZV)
+ - 💣 [Fastinating genetic mutation](http://9gag.com/gag/a5QpNWy)
+ - 😝 [Watcha gonna do when we come for you](http://9gag.com/gag/aZZqWGn)
+ - 👉 [Before and after starting her diet](http://9gag.com/gag/a34vdov)<!-- MEMES:END -->
 
 ---
 

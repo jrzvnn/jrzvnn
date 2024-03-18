@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CSA&#39;s Chris LaPre joins HomeKit Insider to talk about Matter](https://appleinsider.com/articles/24/03/18/csas-chris-lapre-joins-homekit-insider-to-talk-about-matter?utm_medium=rss)
+ - [Apple&#39;s iPad Air &amp; iPad Pro refresh rumored to arrive on March 26](https://appleinsider.com/articles/24/03/18/apples-ipad-refresh-rumored-to-arrive-on-march-26?utm_medium=rss)
+ - [A profile of Indian startup Yotta Data Services, which plans to buy ~20K Nvidia H100 chips by June 2024 to offer computing power to Indian companies to build AI &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240318/p15#a240318p15)
  - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
- - [Apex Legends postpones competition amid hacking concerns](https://www.theverge.com/2024/3/18/24104666/apex-legends-postpones-algs-competition-hack-concerns)
- - [Today’s Supreme Court Hearing Addresses a Far-Right Boogeyman](https://www.wired.com/story/scotus-social-media-murthy-missouri-conspiracies/)
- - [YouTube now requires creators to label when using AI to create realistic-looking videos via an upload checklist; clearly unrealistic videos do not need a label &lpar;Clare Duffy/CNN&rpar;](http://www.techmeme.com/240318/p14#a240318p14)
- - [Review: Orange Box Bluetooth Speaker](https://www.wired.com/review/orange-box/)<!-- TECH:END -->
+ - [Apex Legends postpones competition amid hacking concerns](https://www.theverge.com/2024/3/18/24104666/apex-legends-postpones-algs-competition-hack-concerns)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

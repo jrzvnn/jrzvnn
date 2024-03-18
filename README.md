@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US says Poland, Ireland, Finland, Germany, Japan, and South Korea joined the US-led anti-spyware pact; Five Eyes and six countries signed the pledge in 2023 &lpar;Sean Lyngaas/CNN&rpar;](http://www.techmeme.com/240318/p12#a240318p12)
  - [Apple previews new Shanghai store ahead of Thursday&#39;s opening](https://appleinsider.com/articles/24/03/18/apple-previews-new-shanghai-store-ahead-of-thursdays-opening?utm_medium=rss)
+ - [Apple&#39;s iPad refresh rumored to arrive on March 26](https://appleinsider.com/articles/24/03/18/apples-ipad-refresh-rumored-to-arrive-on-march-26?utm_medium=rss)
  - [MacBook Air, MacBook Pro ultimate buyer&#39;s guide: Spring 2024](https://appleinsider.com/articles/24/03/18/macbook-air-macbook-pro-ultimate-buyers-guide-spring-2024?utm_medium=rss)
- - [Respawn and EA postpone the North American Finals of Apex Legends, after an unknown user hacked the game and gave pros hacks like aimbots during the event &lpar;Paul Tassi/Forbes&rpar;](http://www.techmeme.com/240318/p11#a240318p11)
- - [At an EU DMA hearing, an Apple lawyer fended off criticism over DMA compliance; Meta, Amazon, Alphabet, ByteDance, and Microsoft will now have similar hearings &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240318/p10#a240318p10)
- - [Sony is reportedly pausing PSVR2 production to clear excess inventory](https://www.theverge.com/2024/3/18/24104649/sony-pausing-playstation-vr2-production)<!-- TECH:END -->
+ - [Respawn and EA postpone the North American Finals of Apex Legends, after an unknown user hacked the game and gave pros hacks like aimbots during the event &lpar;Paul Tassi/Forbes&rpar;](http://www.techmeme.com/240318/p11#a240318p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

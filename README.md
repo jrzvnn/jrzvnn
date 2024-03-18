@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EVs With Built-In Camera Drones Have Already Landed in China](https://www.wired.com/story/evs-with-built-in-camera-drones-have-already-landed-in-china/)
  - [Sources: Apple and Google are in active talks to let Gemini power some new features coming to iPhone in 2024; Apple also held talks with OpenAI to use its model &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240318/p2#a240318p2)
  - [Best Keto Meal Delivery Services of 2024     - CNET](https://www.cnet.com/health/nutrition/best-keto-meal-delivery/#ftag=CAD590a51e)
  - [Inside generative AI music startup Suno, whose model can compose songs, including human vocals, using a text prompt, as it aims to democratize music making &lpar;Brian Hiatt/Rolling Stone&rpar;](http://www.techmeme.com/240318/p1#a240318p1)
- - [Sources: Sony made 2M+ PSVR2 units since the Feb. 2023 launch but paused production amid dropping sales; recently Sony said it was testing PSVR2 PC game support &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/240317/p16#a240317p16)
- - [In the years since Trump was booted from Facebook and Twitter after Jan. 6&#39;s Capitol attack, he and his allies have beaten down efforts to filter election lies &lpar;New York Times&rpar;](http://www.techmeme.com/240317/p15#a240317p15)<!-- TECH:END -->
+ - [Sources: Sony made 2M+ PSVR2 units since the February 2023 launch but paused production as sales dropped; Sony recently confirmed testing PSVR2 PC game support &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/240317/p16#a240317p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

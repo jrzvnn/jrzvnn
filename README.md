@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In the years since Trump was booted from Facebook and Twitter after Jan. 6&#39;s Capitol attack, he and his allies have beaten down efforts to filter election lies &lpar;New York Times&rpar;](http://www.techmeme.com/240317/p15#a240317p15)
  - [xAI open sources Grok](https://www.theverge.com/2024/3/17/24097810/xai-open-source-grok-musk-generative-ai-llm)
  - [To settle a class action suit, Uber agreed to pay ~$178M to compensate taxi drivers in Australia who claimed they lost income when Uber entered the local market &lpar;Angus Whitley/Bloomberg&rpar;](http://www.techmeme.com/240317/p14#a240317p14)
  - [Experts say forcing a TikTok US sale within 180 days, as the bill requires, would be too complicated and costly, and likely mean the app would be banned &lpar;Washington Post&rpar;](http://www.techmeme.com/240317/p13#a240317p13)
- - [The M1 MacBook Air is not only still around, it’s cheaper than ever](https://www.theverge.com/2024/3/15/24101727/apple-m1-macbook-air-laptop-walmart)
- - [FluffCo Is Celebrating Sleep Week With Its Bedding Sale     - CNET](https://www.cnet.com/deals/fluffco-is-celebrating-sleep-week-with-its-bedding-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The M1 MacBook Air is not only still around, it’s cheaper than ever](https://www.theverge.com/2024/3/15/24101727/apple-m1-macbook-air-laptop-walmart)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t ask why I know](http://9gag.com/gag/aKG4grg)
- - 😝 [What ?](http://9gag.com/gag/aLn6Q9z)
- - 💣 [Chad Gina](http://9gag.com/gag/axyEEx2)
- - 😝 [The guy wants more space in his balcony, so he decided to remove the column.](http://9gag.com/gag/aVvjOxn)
- - 👉 [His life flashed before his eyes?](http://9gag.com/gag/aKG4zBW)<!-- MEMES:END -->
+ - 😝 [Lord of the sign of Labyrinth](http://9gag.com/gag/axyE2Ep)
+ - 😝 [Cargo ship passes dangerously close to aquanaut](http://9gag.com/gag/aL1qq3V)
+ - 💣 [You promise not to cry?](http://9gag.com/gag/aXPZEXP)
+ - 😝 [Yogi, is it them again?](http://9gag.com/gag/apRKqx5)
+ - 👉 [The guy wants more space in his balcony, so he decided to remove the column.](http://9gag.com/gag/aVvjOxn)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple and Google partnering for an AI deal is beneficial for both, giving Apple a compelling AI story for investors and Google access to affluent users &lpar;Dave Lee/Bloomberg&rpar;](http://www.techmeme.com/240318/p20#a240318p20)
+ - [YouTube adds new AI-generated content labeling tool](https://www.theverge.com/2024/3/18/24104743/youtube-ai-generated-content-disclosure-label)
  - [Rivian owners now have access to Tesla Superchargers](https://www.theverge.com/2024/3/18/24104786/rivian-tesla-supercharger-access-adapter-free-r1t-r1s)
  - [Grab Apple&#39;s M3 Pro MacBook Pro 14-inch for $1,749, now $250 off](https://appleinsider.com/articles/24/03/18/grab-apples-m3-pro-macbook-pro-14-inch-for-1749-now-250-off?utm_medium=rss)
- - [How to get more battery life out of your Wear OS smartwatch](https://www.theverge.com/24101912/wearos-watch-pixel-battery-how-to)
- - [App analytics company Sensor Tower acquires Data.ai for an undisclosed amount; Crunchbase: Data.ai raised $157M+ while Sensor Tower raised just $46M &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240318/p19#a240318p19)
- - [Here’s the Elon Musk interview that got Don Lemon’s show canceled](https://www.theverge.com/2024/3/18/24104708/elon-musk-interview-don-lemon-show-canceled)<!-- TECH:END -->
+ - [How to get more battery life out of your Wear OS smartwatch](https://www.theverge.com/24101912/wearos-watch-pixel-battery-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

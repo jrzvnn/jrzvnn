@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Apple protests criticism that it&#39;s not complying with EU laws](https://appleinsider.com/articles/24/03/18/apple-protests-criticism-that-its-not-complying-with-eu-laws?utm_medium=rss)
+ - [Q&amp;A with Figma CEO Dylan Field on the failed Adobe deal, competing with Adobe, the new multi-edit tool, building tools, AI, AGI, Dev Mode, the web, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240318/p17#a240318p17)
  - [Four years after launch, Apple Arcade is here to stay and will only get more powerful](https://appleinsider.com/articles/24/03/18/four-years-after-launch-apple-arcade-is-here-to-stay-and-will-only-get-more-powerful?utm_medium=rss)
  - [Google Research details VLOGGER, an AI model that can generate lifelike videos of people speaking, gesturing, and moving from a single still photo &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240318/p16#a240318p16)
- - [CSA&#39;s Chris LaPre joins HomeKit Insider to talk about Matter](https://appleinsider.com/articles/24/03/18/csas-chris-lapre-joins-homekit-insider-to-talk-about-matter?utm_medium=rss)
- - [Apple&#39;s iPad Air &amp; iPad Pro refresh rumored to arrive on March 26](https://appleinsider.com/articles/24/03/18/apples-ipad-refresh-rumored-to-arrive-on-march-26?utm_medium=rss)<!-- TECH:END -->
+ - [CSA&#39;s Chris LaPre joins HomeKit Insider to talk about Matter](https://appleinsider.com/articles/24/03/18/csas-chris-lapre-joins-homekit-insider-to-talk-about-matter?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

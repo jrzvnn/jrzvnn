@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A husband doing his best](http://9gag.com/gag/aQz6p5W)
- - 😝 [Lord of the sign of Labyrinth](http://9gag.com/gag/axyE2Ep)
- - 💣 [The guy wants more space in his balcony, so he decided to remove the column.](http://9gag.com/gag/aVvjOxn)
- - 😝 [You promise not to cry?](http://9gag.com/gag/aXPZEXP)
- - 👉 [A 23-year-old woman was arrested one hour after she uploaded a video to social media where she talked about her preparation for a school shooting in Vaasa, Finland.](http://9gag.com/gag/a34vPM8)<!-- MEMES:END -->
+ - 😝 [`Confuse them with their own bullsheet` - Sun Tzu, maybe](http://9gag.com/gag/ajPQr4p)
+ - 😝 [Helldivers 2 bans external politics from the game - F**kYeah!](http://9gag.com/gag/aNDmoO0)
+ - 💣 [You will be missed.](http://9gag.com/gag/ary1pBB)
+ - 😝 [Get the f*ck up, Swede!](http://9gag.com/gag/aqy4mvp)
+ - 👉 [Fastinating genetic mutation](http://9gag.com/gag/a5QpNWy)<!-- MEMES:END -->
 
 ---
 

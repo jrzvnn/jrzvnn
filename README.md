@@ -175,8 +175,8 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You will be missed.](http://9gag.com/gag/ary1pBB)
- - 😝 [The perfect earrings don\u2019t exist](http://9gag.com/gag/aXPZXZV)
+ - 😝 [Come back](http://9gag.com/gag/a4PpL3m)
+ - 😝 [You can&#39;t drink water because they feel threatened.](http://9gag.com/gag/a1mpe8P)
  - 💣 [Fastinating genetic mutation](http://9gag.com/gag/a5QpNWy)
  - 😝 [Watcha gonna do when we come for you](http://9gag.com/gag/aZZqWGn)
  - 👉 [Before and after starting her diet](http://9gag.com/gag/a34vdov)<!-- MEMES:END -->

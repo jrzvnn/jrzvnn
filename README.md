@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Figure Markets, a crypto trading platform developed by Figure Technologies, raised a $60M Series A led by Jump Crypto, Pantera Capital, and Lightspeed Faction &lpar;Danny Park/The Block&rpar;](http://www.techmeme.com/240318/p13#a240318p13)
  - [Bonavita 5-Cup One-Touch Thermal Carafe Review: Simple and Excellent](https://www.wired.com/review/bonavita-5-cup-one-touch-thermal-carafe/)
  - [MacBook Air, MacBook Pro ultimate buyer&#39;s guide: Spring 2024](https://appleinsider.com/articles/24/03/18/macbook-air-macbook-pro-ultimate-buyers-guide-spring-2024?utm_medium=rss)
  - [The US says Poland, Ireland, Finland, Germany, Japan, and South Korea joined the US-led anti-spyware pact; Five Eyes and six countries signed the pledge in 2023 &lpar;Sean Lyngaas/CNN&rpar;](http://www.techmeme.com/240318/p12#a240318p12)
- - [Apple previews new Shanghai store ahead of Thursday&#39;s opening](https://appleinsider.com/articles/24/03/18/apple-previews-new-shanghai-store-ahead-of-thursdays-opening?utm_medium=rss)
- - [Apple&#39;s iPad refresh rumored to arrive on March 26](https://appleinsider.com/articles/24/03/18/apples-ipad-refresh-rumored-to-arrive-on-march-26?utm_medium=rss)<!-- TECH:END -->
+ - [Apple previews new Shanghai store ahead of Thursday&#39;s opening](https://appleinsider.com/articles/24/03/18/apple-previews-new-shanghai-store-ahead-of-thursdays-opening?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

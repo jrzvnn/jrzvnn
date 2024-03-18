@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Behind the rise of AI ambient clinical documentation tools, which let doctors record and automatically turn conversations with patients into clinical notes &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240318/p4#a240318p4)
  - [How to Live Forever](https://www.wired.com/story/why-we-die-venki-ramakrishnan/)
  - [Qualcomm&#39;s Next Chip Brings Generative AI to More Affordable Phones     - CNET](https://www.cnet.com/tech/mobile/qualcomms-next-chip-brings-generative-ai-to-more-affordable-phones/#ftag=CAD590a51e)
  - [Qualcomm’s new 8S Gen 3 targets not-quite flagship phones](https://www.theverge.com/2024/3/18/24101903/qualcomm-snapdragon-8s-gen-3-chipset-on-device-ai)
- - [A look at the proliferation of gimmicky online crypto-certification programs, as the lack of a well recognized professional crypto accreditation leaves a vacuum &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/240318/p3#a240318p3)
- - [EVs With Built-In Camera Drones Have Already Landed in China](https://www.wired.com/story/evs-with-built-in-camera-drones-have-already-landed-in-china/)<!-- TECH:END -->
+ - [A look at the proliferation of gimmicky online crypto-certification programs, as the lack of a well recognized professional crypto accreditation leaves a vacuum &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/240318/p3#a240318p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

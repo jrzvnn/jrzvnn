@@ -179,7 +179,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - 😝 [Its necessary to clap before the game](http://9gag.com/gag/a4PpLqd)
  - 💣 [Choose your platform wisely](http://9gag.com/gag/ajPQ6n8)
  - 😝 [True Art](http://9gag.com/gag/apRKBBW)
- - 👉 [I see what you did there.](http://9gag.com/gag/a6Zry82)<!-- MEMES:END -->
+ - 👉 [\ud83c\udf81Gaming Monitor Giveaway\ud83c\udf81 AORUS Infinity, an epic realm where AI meets play, awaits your exploration. Can you tell where it is located? Follow the rules below to make your guess for a chance to take home the AORUS CO49DQ Gaming Monitor!](http://9gag.com/gag/aQz6nj7)<!-- MEMES:END -->
 
 ---
 

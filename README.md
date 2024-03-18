@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia launches Quantum Cloud, a service that simulates a quantum computer and allows researchers to test out their quantum computing software &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/240318/p36#a240318p36)
  - [The best Android phones for everyone](https://www.theverge.com/23674658/best-android-phone)
  - [Nvidia announces NIM, a set of microservices designed to streamline the deployment of custom and pre-trained AI models into production environments &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240318/p35#a240318p35)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [Nvidia unveils the Earth-2 platform, letting users create AI-powered climate simulations ranging from global atmospheric conditions to local weather phenomena &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240318/p34#a240318p34)
- - [Apple calls 128GB &#39;lots of storage&#39; in new iPhone 15 ad](https://appleinsider.com/articles/24/03/18/apple-calls-128gb-lots-of-storage-in-new-iphone-15-ad?utm_medium=rss)<!-- TECH:END -->
+ - [Surge Protector w/ USB     - CNET](https://www.cnet.com/news/surge-protector-w-usb-dpnl/#ftag=CAD590a51e)
+ - [Save Up to 40% Now on a Bunch of Honeywell Thermostats     - CNET](https://www.cnet.com/deals/save-up-to-40-now-on-a-bunch-of-honeywell-thermostats/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In partnerships with OpenAI, Anthropic, and Meta, US DHS rolls out pilot programs to test AI tech to help combat drug and human trafficking crimes, and more &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/240318/p23#a240318p23)
  - [The US SEC fines Delphia and Global Predictions a combined $400K for making &quot;false and misleading statements&quot; about their use of AI &lpar;Austin Weinstein/Bloomberg&rpar;](http://www.techmeme.com/240318/p22#a240318p22)
- - [TikTok launches a new creator monetization program called Creator Rewards, which will use four core metrics to determine payout, including &quot;search value&quot; &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/240318/p21#a240318p21)
+ - [TikTok launches Creator Rewards, a creator monetization program that has payouts based on &quot;search value&quot;, originality, play duration, and audience engagement &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/240318/p21#a240318p21)
  - [Homeland Security is testing AI to help with immigration, trafficking investigations, and disaster relief](https://www.theverge.com/2024/3/18/24104843/dhs-ai-pilot-programs-chatgpt-openai-anthropic-meta)
- - [Apple is already being wierdly criticized for an AI effort that hasn&#39;t launched yet](https://appleinsider.com/articles/24/03/18/apple-is-already-being-wierdly-criticized-for-an-ai-effort-that-hasnt-launched-yet?utm_medium=rss)
- - [8 Best TV Streaming Devices for 4K, HD &lpar;2024&rpar;: Roku, Chromecast, Fire TV](https://www.wired.com/gallery/best-4k-streaming-devices/)<!-- TECH:END -->
+ - [Apple is already being wierdly criticized for an AI effort that hasn&#39;t launched yet](https://appleinsider.com/articles/24/03/18/apple-is-already-being-wierdly-criticized-for-an-ai-effort-that-hasnt-launched-yet?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

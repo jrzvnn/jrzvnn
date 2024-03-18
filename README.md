@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [His life flashed before his eyes?](http://9gag.com/gag/aKG4zBW)
- - 😝 [Cutoff](http://9gag.com/gag/a1mpvMR)
- - 💣 [Yogi, is it them again?](http://9gag.com/gag/apRKqx5)
- - 😝 [Chad Gina](http://9gag.com/gag/axyEEx2)
- - 👉 [The guy wants more space in his balcony, so he decided to remove the column.](http://9gag.com/gag/aVvjOxn)<!-- MEMES:END -->
+ - 😝 [Yogi, is it them again?](http://9gag.com/gag/apRKqx5)
+ - 😝 [The guy wants more space in his balcony, so he decided to remove the column.](http://9gag.com/gag/aVvjOxn)
+ - 💣 [Hey you can&#39;t park here !](http://9gag.com/gag/agmrvBv)
+ - 😝 [` Think I got a stone bladder. `The stone:](http://9gag.com/gag/a5QpdNr)
+ - 👉 [Thank the founding fathers for the 1st amendment](http://9gag.com/gag/aW4BWD6)<!-- MEMES:END -->
 
 ---
 

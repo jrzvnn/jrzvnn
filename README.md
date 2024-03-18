@@ -175,9 +175,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Share some of the best paused moments in movies.](http://9gag.com/gag/a2vEYed)
- - 😝 [His life flashed before his eyes?](http://9gag.com/gag/aKG4zBW)
- - 💣 [If anyone ever wonders why every mechanic everywhere hates engineers\u2026.I submit exibit A:](http://9gag.com/gag/ae9K0AO)
+ - 😝 [If anyone ever wonders why every mechanic everywhere hates engineers\u2026.I submit exibit A:](http://9gag.com/gag/ae9K0AO)
+ - 😝 [` Think I got a stone bladder. `The stone:](http://9gag.com/gag/a5QpdNr)
+ - 💣 [German police take out the trash](http://9gag.com/gag/aoym0Ze)
  - 😝 [Yogi, is it them again?](http://9gag.com/gag/apRKqx5)
  - 👉 [\ud83c\udf81Gaming Monitor Giveaway\ud83c\udf81 AORUS Infinity, an epic realm where AI meets play, awaits your exploration. Can you tell where it is located? Follow the rules below to make your guess for a chance to take home the AORUS CO49DQ Gaming Monitor!](http://9gag.com/gag/aQz6nj7)<!-- MEMES:END -->
 

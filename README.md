@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Feeling Euphoric? What &#39;Spring Fever&#39; Can Do to Our Mood     - CNET](https://www.cnet.com/health/mental/feeling-euphoric-what-spring-fever-can-do-to-our-mood/#ftag=CAD590a51e)
  - [Carlsmed, which is developing an AI-powered personalized surgery tool, raised a $52.5M Series C co-led by B Capital and US Venture Partners &lpar;Abhinaya Prabhu/Tech Funding News&rpar;](http://www.techmeme.com/240318/p31#a240318p31)
- - [Cyberpunk is out and solarpunk is in, according to Figma’s CEO](https://www.theverge.com/2024/3/18/24104890/figma-ceo-dylan-field-cyberpunk-solarpunk-trends-sxsw-2024)
- - [A livestream of the Nvidia GTC 2024 keynote at the SAP Center in San Jose, California &lpar;NVIDIA on YouTube&rpar;](http://www.techmeme.com/240318/p30#a240318p30)
- - [The Supreme Court is skeptical of restricting the White House from talking to social media platforms](https://www.theverge.com/2024/3/18/24104892/justices-limiting-government-social-media-communication-murthy-v-missouri)
- - [Fisker Suspends Its EV Production](https://www.wired.com/story/fisker-suspends-electric-vehicle-production/)<!-- TECH:END -->
+ - [Best PC Gaming Headset for 2024     - CNET](https://www.cnet.com/tech/gaming/best-pc-gaming-headset/#ftag=CAD590a51e)
+ - [Best E-Reader for 2024     - CNET](https://www.cnet.com/tech/computing/best-e-reader/#ftag=CAD590a51e)
+ - [Best AirPods Pro Accessories for 2024     - CNET](https://www.cnet.com/tech/mobile/best-airpods-pro-accessories/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple says &#39;stay tuned&#39; to free app developers in the EU worried about fees](https://appleinsider.com/articles/24/03/18/apple-says-stay-tuned-to-free-app-developers-in-the-eu-worried-about-fees?utm_medium=rss)
- - [Q&amp;A with Sam Altman on the OpenAI board saga, Ilya Sutskever, Elon Musk&#39;s lawsuit, Sora, Q*, GPT-5, raising $7T, Google and Gemini, AGI, aliens, and more &lpar;Lex Fridman&rpar;](http://www.techmeme.com/240318/p29#a240318p29)
- - [MrBeast’s $5 million game show for Prime Video could one-up Netflix’s Squid Game](https://www.theverge.com/2024/3/18/24104976/amazon-mrbeast-prime-video-beast-games)
- - [Best Home Exercise Equipment for 2024     - CNET](https://www.cnet.com/health/fitness/best-home-exercise-equipment/#ftag=CAD590a51e)
- - [X&#39;s pivot to video mirrors past social media trends, but its reliance on user-generated videos from TikTok and other platforms may not ensure long-term success &lpar;John Herrman/New York Magazine&rpar;](http://www.techmeme.com/240318/p28#a240318p28)<!-- TECH:END -->
+ - [Cyberpunk is out and solarpunk is in, according to Figma’s CEO](https://www.theverge.com/2024/3/18/24104890/figma-ceo-dylan-field-cyberpunk-solarpunk-trends-sxsw-2024)
+ - [A livestream of the Nvidia GTC 2024 keynote at the SAP Center in San Jose, California &lpar;NVIDIA on YouTube&rpar;](http://www.techmeme.com/240318/p30#a240318p30)
+ - [Justices sound skeptical of imposing broad limits on how the government can speak with social media platforms](https://www.theverge.com/2024/3/18/24104892/justices-limiting-government-social-media-communication-murthy-v-missouri)
+ - [Fisker Suspends Its EV Production](https://www.wired.com/story/fisker-suspends-electric-vehicle-production/)
+ - [Apple says &#39;stay tuned&#39; to free app developers in the EU worried about fees](https://appleinsider.com/articles/24/03/18/apple-says-stay-tuned-to-free-app-developers-in-the-eu-worried-about-fees?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

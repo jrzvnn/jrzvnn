@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lgbtq+ people are going crazy already about this movie.](http://9gag.com/gag/apRKBDM)
- - 😝 [I see what you did there.](http://9gag.com/gag/a6Zry82)
- - 💣 [Cooking with a best view](http://9gag.com/gag/a6ZrLQN)
- - 😝 [When I try to look cool in front of people](http://9gag.com/gag/azx7VPx)
+ - 😝 [Share some of the best paused moments in movies.](http://9gag.com/gag/a2vEYed)
+ - 😝 [Yogi, is it them again?](http://9gag.com/gag/apRKqx5)
+ - 💣 [But what if they gain weig... Nevermind](http://9gag.com/gag/aVvjX4d)
+ - 😝 [German police take out the trash](http://9gag.com/gag/aoym0Ze)
  - 👉 [\ud83c\udf81Gaming Monitor Giveaway\ud83c\udf81 AORUS Infinity, an epic realm where AI meets play, awaits your exploration. Can you tell where it is located? Follow the rules below to make your guess for a chance to take home the AORUS CO49DQ Gaming Monitor!](http://9gag.com/gag/aQz6nj7)<!-- MEMES:END -->
 
 ---

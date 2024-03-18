@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US SEC fines Delphia and Global Predictions a combined $400K for making &quot;false and misleading statements&quot; about their use of AI &lpar;Austin Weinstein/Bloomberg&rpar;](http://www.techmeme.com/240318/p22#a240318p22)
+ - [TikTok launches a new creator monetization program called Creator Rewards, which will use four core metrics to determine payout, including &quot;search value&quot; &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/240318/p21#a240318p21)
  - [Homeland Security is testing AI to help with immigration, trafficking investigations, and disaster relief](https://www.theverge.com/2024/3/18/24104843/dhs-ai-pilot-programs-chatgpt-openai-anthropic-meta)
  - [Apple is already being wierdly criticized for an AI effort that hasn&#39;t launched yet](https://appleinsider.com/articles/24/03/18/apple-is-already-being-wierdly-criticized-for-an-ai-effort-that-hasnt-launched-yet?utm_medium=rss)
- - [8 Best TV Streaming Devices for 4K, HD &lpar;2024&rpar;: Roku, Chromecast, Fire TV](https://www.wired.com/gallery/best-4k-streaming-devices/)
- - [TikTok is paying creators to up its search game](https://www.theverge.com/2024/3/18/24101695/tiktok-creator-rewards-program-monetization-search-value-seo)
- - [Apple and Google partnering for an AI deal is beneficial for both, giving Apple a compelling AI story for investors and Google access to affluent users &lpar;Dave Lee/Bloomberg&rpar;](http://www.techmeme.com/240318/p20#a240318p20)<!-- TECH:END -->
+ - [8 Best TV Streaming Devices for 4K, HD &lpar;2024&rpar;: Roku, Chromecast, Fire TV](https://www.wired.com/gallery/best-4k-streaming-devices/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

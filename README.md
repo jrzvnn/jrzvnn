@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple and Google partnering for an AI deal is beneficial for both, giving Apple a compelling AI story for investors and Google access to affluent users &lpar;Dave Lee/Bloomberg&rpar;](http://www.techmeme.com/240318/p20#a240318p20)
- - [YouTube adds new AI-generated content labeling tool](https://www.theverge.com/2024/3/18/24104743/youtube-ai-generated-content-disclosure-label)
- - [Rivian owners now have access to Tesla Superchargers](https://www.theverge.com/2024/3/18/24104786/rivian-tesla-supercharger-access-adapter-free-r1t-r1s)
- - [Grab Apple&#39;s M3 Pro MacBook Pro 14-inch for $1,749, now $250 off](https://appleinsider.com/articles/24/03/18/grab-apples-m3-pro-macbook-pro-14-inch-for-1749-now-250-off?utm_medium=rss)
- - [How to get more battery life out of your Wear OS smartwatch](https://www.theverge.com/24101912/wearos-watch-pixel-battery-how-to)<!-- TECH:END -->
+ - [Homeland Security is testing AI to help with immigration, trafficking investigations, and disaster relief](https://www.theverge.com/2024/3/18/24104843/dhs-ai-pilot-programs-chatgpt-openai-anthropic-meta)
+ - [Apple is already being wierdly criticized for an AI effort that hasn&#39;t launched yet](https://appleinsider.com/articles/24/03/18/apple-is-already-being-wierdly-criticized-for-an-ai-effort-that-hasnt-launched-yet?utm_medium=rss)
+ - [8 Best TV Streaming Devices for 4K, HD &lpar;2024&rpar;: Roku, Chromecast, Fire TV](https://www.wired.com/gallery/best-4k-streaming-devices/)
+ - [TikTok is paying creators to up its search game](https://www.theverge.com/2024/3/18/24101695/tiktok-creator-rewards-program-monetization-search-value-seo)
+ - [Apple and Google partnering for an AI deal is beneficial for both, giving Apple a compelling AI story for investors and Google access to affluent users &lpar;Dave Lee/Bloomberg&rpar;](http://www.techmeme.com/240318/p20#a240318p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

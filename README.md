@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple says &#39;stay tuned&#39; to free app developers in the EU worried about fees](https://appleinsider.com/articles/24/03/18/apple-says-stay-tuned-to-free-app-developers-in-the-eu-worried-about-fees?utm_medium=rss)
  - [Q&amp;A with Sam Altman on the OpenAI board saga, Ilya Sutskever, Elon Musk&#39;s lawsuit, Sora, Q*, GPT-5, raising $7T, Google and Gemini, AGI, aliens, and more &lpar;Lex Fridman&rpar;](http://www.techmeme.com/240318/p29#a240318p29)
  - [MrBeast’s $5 million game show for Prime Video could one-up Netflix’s Squid Game](https://www.theverge.com/2024/3/18/24104976/amazon-mrbeast-prime-video-beast-games)
  - [Best Home Exercise Equipment for 2024     - CNET](https://www.cnet.com/health/fitness/best-home-exercise-equipment/#ftag=CAD590a51e)
- - [X&#39;s pivot to video mirrors past social media trends, but its reliance on user-generated videos from TikTok and other platforms may not ensure long-term success &lpar;John Herrman/New York Magazine&rpar;](http://www.techmeme.com/240318/p28#a240318p28)
- - [OLED iPad Pros still expected in March, with April availability](https://appleinsider.com/articles/24/03/18/oled-ipad-pros-still-expected-in-march-with-april-availability?utm_medium=rss)<!-- TECH:END -->
+ - [X&#39;s pivot to video mirrors past social media trends, but its reliance on user-generated videos from TikTok and other platforms may not ensure long-term success &lpar;John Herrman/New York Magazine&rpar;](http://www.techmeme.com/240318/p28#a240318p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

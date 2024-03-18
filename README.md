@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NVIDIA gives enterprise developers more tools for Apple Vision Pro](https://appleinsider.com/articles/24/03/18/nvidia-gives-enterprise-developers-more-tools-for-apple-vision-pro?utm_medium=rss)
  - [Hippocratic AI, which is building an LLM for health care, raised a $53M Series A co-led by Premji Invest and General Catalyst at a $500M valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/240318/p38#a240318p38)
  - [Steam streamlines its family sharing features](https://www.theverge.com/2024/3/18/24105220/steam-families-shared-library-parental-controls)
  - [Nvidia unveils Project GR00T, a general-purpose foundation model for humanoid robots, and Jetson Thor, a new computer designed specifically for humanoid robots &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240318/p37#a240318p37)
- - [Nvidia launches Quantum Cloud, a service that simulates a quantum computer and allows researchers to test out their quantum computing software &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/240318/p36#a240318p36)
- - [The best Android phones for everyone](https://www.theverge.com/23674658/best-android-phone)<!-- TECH:END -->
+ - [Nvidia launches Quantum Cloud, a service that simulates a quantum computer and allows researchers to test out their quantum computing software &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/240318/p36#a240318p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

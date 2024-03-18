@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple’s AI ambitions could include Google or OpenAI](https://www.theverge.com/2024/3/18/24104626/apple-license-google-gemini-generative-ai-openai-chatgpt)
  - [Qualcomm unveils the Snapdragon 8S Gen 3, aiming to bring most 8 Gen 3 features, including on-device AI models, to mid-range smartphones in the &quot;coming months&quot; &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240318/p5#a240318p5)
  - [Apple gearing up for fall launch of new two new AirPods models](https://appleinsider.com/articles/24/03/17/apple-prepares-massive-airpods-production-for-fall-launch?utm_medium=rss)
  - [Reddit IPO Filings Reveal the Company’s Hopes—and Fears](https://www.wired.com/story/reddit-ipo-filings-reveal-the-companys-hopes-and-fears/)
- - [Behind the rise of AI ambient clinical documentation tools, which let doctors record and automatically turn conversations with patients into clinical notes &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240318/p4#a240318p4)
- - [How to Live Forever](https://www.wired.com/story/why-we-die-venki-ramakrishnan/)<!-- TECH:END -->
+ - [Behind the rise of AI ambient clinical documentation tools, which let doctors record and automatically turn conversations with patients into clinical notes &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240318/p4#a240318p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

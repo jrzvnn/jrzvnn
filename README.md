@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MrBeast’s $5 million game show for Prime Video could one-up Netflix’s Squid Game](https://www.theverge.com/2024/3/18/24104976/amazon-mrbeast-prime-video-beast-games)
+ - [Best Home Exercise Equipment for 2024     - CNET](https://www.cnet.com/health/fitness/best-home-exercise-equipment/#ftag=CAD590a51e)
  - [X&#39;s pivot to video mirrors past social media trends, but its reliance on user-generated videos from TikTok and other platforms may not ensure long-term success &lpar;John Herrman/New York Magazine&rpar;](http://www.techmeme.com/240318/p28#a240318p28)
  - [OLED iPad Pros still expected in March, with April availability](https://appleinsider.com/articles/24/03/18/oled-ipad-pros-still-expected-in-march-with-april-availability?utm_medium=rss)
- - [Telegram CEO Pavel Durov says, on his channel, that the company raised $330M through bond sales last week, and that the offering was oversubscribed &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240318/p27#a240318p27)
- - [Best Budget Earbuds for 2024: Cheap Wireless Picks     - CNET](https://www.cnet.com/tech/mobile/best-cheap-wireless-earbuds/#ftag=CAD590a51e)
- - [Yes, You Can Cash a Check Without a Bank Account. Here&#39;s How     - CNET](https://www.cnet.com/personal-finance/how-to-cash-a-check-without-a-bank-account/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Report: Apple Gearing Up to Launch Two New AirPods 4 Models This Fall     - CNET](https://www.cnet.com/tech/mobile/report-apple-gearing-up-to-launch-two-new-airpods-4-models-this-fall/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

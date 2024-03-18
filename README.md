@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [German police take out the trash](http://9gag.com/gag/aoym0Ze)
+ - 😝 [Its necessary to clap before the game](http://9gag.com/gag/a4PpLqd)
  - 😝 [They answer everything but the question](http://9gag.com/gag/a1mpe6G)
- - 💣 [Please learn!](http://9gag.com/gag/aE0dz0M)
- - 😝 [Choose your platform wisely](http://9gag.com/gag/ajPQ6n8)
- - 👉 [True Art](http://9gag.com/gag/apRKBBW)<!-- MEMES:END -->
+ - 💣 [Choose your platform wisely](http://9gag.com/gag/ajPQ6n8)
+ - 😝 [True Art](http://9gag.com/gag/apRKBBW)
+ - 👉 [I see what you did there.](http://9gag.com/gag/a6Zry82)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Carlsmed, which is developing an AI-powered personalized surgery tool, raised a $52.5M Series C co-led by B Capital and US Venture Partners &lpar;Abhinaya Prabhu/Tech Funding News&rpar;](http://www.techmeme.com/240318/p31#a240318p31)
  - [Cyberpunk is out and solarpunk is in, according to Figma’s CEO](https://www.theverge.com/2024/3/18/24104890/figma-ceo-dylan-field-cyberpunk-solarpunk-trends-sxsw-2024)
  - [A livestream of the Nvidia GTC 2024 keynote at the SAP Center in San Jose, California &lpar;NVIDIA on YouTube&rpar;](http://www.techmeme.com/240318/p30#a240318p30)
- - [Justices sound skeptical of imposing broad limits on how the government can speak with social media platforms](https://www.theverge.com/2024/3/18/24104892/justices-limiting-government-social-media-communication-murthy-v-missouri)
- - [Fisker Suspends Its EV Production](https://www.wired.com/story/fisker-suspends-electric-vehicle-production/)
- - [Apple says &#39;stay tuned&#39; to free app developers in the EU worried about fees](https://appleinsider.com/articles/24/03/18/apple-says-stay-tuned-to-free-app-developers-in-the-eu-worried-about-fees?utm_medium=rss)<!-- TECH:END -->
+ - [The Supreme Court is skeptical of restricting the White House from talking to social media platforms](https://www.theverge.com/2024/3/18/24104892/justices-limiting-government-social-media-communication-murthy-v-missouri)
+ - [Fisker Suspends Its EV Production](https://www.wired.com/story/fisker-suspends-electric-vehicle-production/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Searches for &quot;As of my last knowledge update&quot;, a phrase often used by ChatGPT, return 115 results on Google Scholar, suggesting the use of AI tools in papers &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/240318/p24#a240318p24)
+ - [Jabra Enhance Select 300 Hearing Aids Review: Some of the Best We&#39;ve Tested](https://www.wired.com/review/jabra-enhance-select-300-hearing-aids/)
+ - [Microsoft to hold a special Windows and Surface AI event in May](https://www.theverge.com/2024/3/18/24104982/microsoft-ai-event-build-2024-satya-nadella)
+ - [Searches for &quot;As of my last knowledge update&quot;, a phrase used by ChatGPT, return 115 results on Google Scholar, suggesting the use of AI-generated text in papers &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/240318/p24#a240318p24)
  - [Apple gearing up for fall launch of new two new AirPods models](https://appleinsider.com/articles/24/03/17/apple-prepares-massive-airpods-production-for-fall-launch?utm_medium=rss)
- - [In partnerships with OpenAI, Anthropic, and Meta, the US DHS rolls out pilot programs to test AI tech to help combat drug and human trafficking crimes, and more &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/240318/p23#a240318p23)
- - [The US SEC fines Delphia and Global Predictions a combined $400K for making &quot;false and misleading statements&quot; about their use of AI &lpar;Austin Weinstein/Bloomberg&rpar;](http://www.techmeme.com/240318/p22#a240318p22)
- - [TikTok launches Creator Rewards, a creator monetization program that has payouts based on &quot;search value&quot;, originality, play duration, and audience engagement &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/240318/p21#a240318p21)<!-- TECH:END -->
+ - [In partnerships with OpenAI, Anthropic, and Meta, the US DHS rolls out pilot programs to test AI tech to help combat drug and human trafficking crimes, and more &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/240318/p23#a240318p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

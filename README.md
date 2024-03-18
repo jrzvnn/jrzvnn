@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple protests criticism that it&#39;s not complying with EU laws](https://appleinsider.com/articles/24/03/18/apple-protests-criticism-that-its-not-complying-with-eu-laws?utm_medium=rss)
- - [Q&amp;A with Figma CEO Dylan Field on the failed Adobe deal, competing with Adobe, the new multi-edit tool, building tools, AI, AGI, Dev Mode, the web, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240318/p17#a240318p17)
- - [Four years after launch, Apple Arcade is here to stay and will only get more powerful](https://appleinsider.com/articles/24/03/18/four-years-after-launch-apple-arcade-is-here-to-stay-and-will-only-get-more-powerful?utm_medium=rss)
- - [Google Research details VLOGGER, an AI model that can generate lifelike videos of people speaking, gesturing, and moving from a single still photo &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240318/p16#a240318p16)
- - [CSA&#39;s Chris LaPre joins HomeKit Insider to talk about Matter](https://appleinsider.com/articles/24/03/18/csas-chris-lapre-joins-homekit-insider-to-talk-about-matter?utm_medium=rss)<!-- TECH:END -->
+ - [Here’s the Elon Musk interview that got Don Lemon’s show canceled](https://www.theverge.com/2024/3/18/24104708/elon-musk-interview-don-lemon-show-canceled)
+ - [Some GPT Store developers express disappointment over a lack of users and support from OpenAI on user analytics; OpenAI does not yet let developers charge a fee &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/240318/p18#a240318p18)
+ - [9 Best Baby Monitors &lpar;2024&rpar;: Wi-Fi, Radio &lpar;No Internet&rpar;, and More](https://www.wired.com/gallery/best-baby-monitors/)
+ - [Playtron: the startup hoping to Steam Deck-ify the world](https://www.theverge.com/24090470/playtron-gaming-os-linux-handhelds-exclusive)
+ - [Leaker casts doubt on 12.9-inch iPad Air 6 rumors as launch looms](https://appleinsider.com/articles/24/03/18/leaker-casts-doubt-on-129-inch-ipad-air-6-rumors-as-launch-looms?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

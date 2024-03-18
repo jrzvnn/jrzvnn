@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Share some of the best paused moments in movies.](http://9gag.com/gag/a2vEYed)
- - 😝 [` Think I got a stone bladder. `The stone:](http://9gag.com/gag/a5QpdNr)
- - 💣 [Happy birthday](http://9gag.com/gag/a9yjP70)
- - 😝 [It would&#39;ve made sense](http://9gag.com/gag/avy2gDn)
- - 👉 [If anyone ever wonders why every mechanic everywhere hates engineers\u2026.I submit exibit A:](http://9gag.com/gag/ae9K0AO)<!-- MEMES:END -->
+ - 😝 [If anyone ever wonders why every mechanic everywhere hates engineers\u2026.I submit exibit A:](http://9gag.com/gag/ae9K0AO)
+ - 💣 [It would&#39;ve made sense](http://9gag.com/gag/avy2gDn)
+ - 😝 [German police take out the trash](http://9gag.com/gag/aoym0Ze)
+ - 👉 [Thank the founding fathers for the 1st amendment](http://9gag.com/gag/aW4BWD6)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Steam streamlines its family sharing features](https://www.theverge.com/2024/3/18/24105220/steam-families-shared-library-parental-controls)
+ - [Nvidia unveils Project GR00T, a general-purpose foundation model for humanoid robots, and Jetson Thor, a new computer designed specifically for humanoid robots &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240318/p37#a240318p37)
  - [Nvidia launches Quantum Cloud, a service that simulates a quantum computer and allows researchers to test out their quantum computing software &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/240318/p36#a240318p36)
  - [The best Android phones for everyone](https://www.theverge.com/23674658/best-android-phone)
- - [Nvidia announces NIM, a set of microservices designed to streamline the deployment of custom and pre-trained AI models into production environments &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240318/p35#a240318p35)
- - [Surge Protector w/ USB     - CNET](https://www.cnet.com/news/surge-protector-w-usb-dpnl/#ftag=CAD590a51e)
- - [Save Up to 40% Now on a Bunch of Honeywell Thermostats     - CNET](https://www.cnet.com/deals/save-up-to-40-now-on-a-bunch-of-honeywell-thermostats/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nvidia announces NIM, a set of microservices designed to streamline the deployment of custom and pre-trained AI models into production environments &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240318/p35#a240318p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

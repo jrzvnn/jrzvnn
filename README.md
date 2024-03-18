@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Confuse them with their own bullsheet` - Sun Tzu, maybe](http://9gag.com/gag/ajPQr4p)
- - 😝 [Helldivers 2 bans external politics from the game - F**kYeah!](http://9gag.com/gag/aNDmoO0)
- - 💣 [You will be missed.](http://9gag.com/gag/ary1pBB)
- - 😝 [Get the f*ck up, Swede!](http://9gag.com/gag/aqy4mvp)
- - 👉 [Fastinating genetic mutation](http://9gag.com/gag/a5QpNWy)<!-- MEMES:END -->
+ - 😝 [Don&#39;t ask why I know](http://9gag.com/gag/aKG4grg)
+ - 😝 [What ?](http://9gag.com/gag/aLn6Q9z)
+ - 💣 [Chad Gina](http://9gag.com/gag/axyEEx2)
+ - 😝 [The guy wants more space in his balcony, so he decided to remove the column.](http://9gag.com/gag/aVvjOxn)
+ - 👉 [His life flashed before his eyes?](http://9gag.com/gag/aKG4zBW)<!-- MEMES:END -->
 
 ---
 

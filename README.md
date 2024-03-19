@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And the best parent award goes to](http://9gag.com/gag/adBypVB)
- - 😝 [That&#39;s talent](http://9gag.com/gag/apRKvQW)
- - 💣 [Thank the founding fathers for the 1st amendment](http://9gag.com/gag/aW4BWD6)
+ - 😝 [Entire Dodgers dugout watch ceremonial 1st pitch](http://9gag.com/gag/amoq0Z2)
+ - 😝 [Sci-fi timeline](http://9gag.com/gag/agmrGoq)
+ - 💣 [If anyone ever wonders why every mechanic everywhere hates engineers\u2026.I submit exibit A:](http://9gag.com/gag/ae9K0AO)
  - 😝 [\ud83c\udf81Gaming Monitor Giveaway\ud83c\udf81 AORUS Infinity, an epic realm where AI meets play, awaits your exploration. Can you tell where it is located? Follow the rules below to make your guess for a chance to take home the AORUS CO49DQ Gaming Monitor!](http://9gag.com/gag/aQz6nj7)
- - 👉 [Lgbtq+ people are going crazy already about this movie.](http://9gag.com/gag/apRKBDM)<!-- MEMES:END -->
+ - 👉 [On Muscovy you can&#39;t put a mark in another cell!&rpar;&rpar;&rpar;](http://9gag.com/gag/a6Zr7Lb)<!-- MEMES:END -->
 
 ---
 

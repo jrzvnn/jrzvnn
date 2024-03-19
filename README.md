@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [After losing two complaints before the US ITC, Apple steps up lobbying to help rewrite ITC rules, asking for public interest to be considered before import bans &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/240319/p26#a240319p26)
- - [Sources: the US accounted for 60% of Temu&#39;s GMV in 2023, but the company hopes to reduce the share to as low as 30% by 2025, as US anti-China hostility grows &lpar;Jing Yang/The Information&rpar;](http://www.techmeme.com/240319/p25#a240319p25)
- - [iPhone 16 Pro: what to expect from Apple&#39;s fall 2024 flagship phone](https://appleinsider.com/articles/24/03/19/iphone-16-pro-what-to-expect-from-apples-fall-2024-flagship-phone?utm_medium=rss)
- - [Six-Word Sci-Fi: Stories Written by You](https://www.wired.com/story/six-word-sci-fi/)
- - [Google DeepMind co-founder joins Microsoft as CEO of its new AI division](https://www.theverge.com/2024/3/19/24105900/google-deepmind-microsoft-mustafa-suleyman-ai-ceo)<!-- TECH:END -->
+ - [Ninja Thirsti Drink System     - CNET](https://www.cnet.com/home/kitchen-and-household/ninja-thirsti-drink-system-dpnl/#ftag=CAD590a51e)
+ - [Best Headsets for Working From Home in 2024     - CNET](https://www.cnet.com/tech/mobile/best-headphones-for-work-at-home/#ftag=CAD590a51e)
+ - [Ninja Electric Smoker &amp; AirFry Grill     - CNET](https://www.cnet.com/home/kitchen-and-household/ninja-electric-smoker-airfry-grill-dpnl/#ftag=CAD590a51e)
+ - [Best Apple Watch Deals: Save Up to $90 on the Series 9, Ultra, SE and More     - CNET](https://www.cnet.com/deals/best-apple-watch-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

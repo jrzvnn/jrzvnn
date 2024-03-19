@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It would&#39;ve made sense](http://9gag.com/gag/avy2gDn)
- - 😝 [And the best parent award goes to](http://9gag.com/gag/adBypVB)
- - 💣 [Entire Dodgers dugout watch ceremonial 1st pitch](http://9gag.com/gag/amoq0Z2)
- - 😝 [Don&#39;t rob stores, especially ones owned by asians.](http://9gag.com/gag/ajPQn1w)
+ - 😝 [Entire Dodgers dugout watch ceremonial 1st pitch](http://9gag.com/gag/amoq0Z2)
+ - 😝 [Thank the founding fathers for the 1st amendment](http://9gag.com/gag/aW4BWD6)
+ - 💣 [That&#39;s talent](http://9gag.com/gag/apRKvQW)
+ - 😝 [Share some of the best paused moments in movies.](http://9gag.com/gag/a2vEYed)
  - 👉 [\ud83c\udf81Gaming Monitor Giveaway\ud83c\udf81 AORUS Infinity, an epic realm where AI meets play, awaits your exploration. Can you tell where it is located? Follow the rules below to make your guess for a chance to take home the AORUS CO49DQ Gaming Monitor!](http://9gag.com/gag/aQz6nj7)<!-- MEMES:END -->
 
 ---

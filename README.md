@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Get the f*ck up, Swede!](http://9gag.com/gag/aqy4mvp)
- - 😝 [On Muscovy you can&#39;t put a mark in another cell!&rpar;&rpar;&rpar;](http://9gag.com/gag/a6Zr7Lb)
- - 💣 [Share some of the best paused moments in movies.](http://9gag.com/gag/a2vEYed)
- - 😝 [Entire Dodgers dugout watch ceremonial 1st pitch](http://9gag.com/gag/amoq0Z2)
+ - 😝 [If anyone ever wonders why every mechanic everywhere hates engineers\u2026.I submit exibit A:](http://9gag.com/gag/ae9K0AO)
+ - 😝 [Share some of the best paused moments in movies.](http://9gag.com/gag/a2vEYed)
+ - 💣 [That&#39;s talent](http://9gag.com/gag/apRKvQW)
+ - 😝 [And the best parent award goes to](http://9gag.com/gag/adBypVB)
  - 👉 [\ud83c\udf81Gaming Monitor Giveaway\ud83c\udf81 AORUS Infinity, an epic realm where AI meets play, awaits your exploration. Can you tell where it is located? Follow the rules below to make your guess for a chance to take home the AORUS CO49DQ Gaming Monitor!](http://9gag.com/gag/aQz6nj7)<!-- MEMES:END -->
 
 ---

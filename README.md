@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Two iPad Air sizes are being shipped to the US right now](https://appleinsider.com/articles/24/03/19/two-ipad-air-sizes-are-being-shipped-to-the-us-right-now?utm_medium=rss)
  - [Asus Zenbook Duo review: sleek design, two great displays, and solid battery life, but pricier than a clamshell and Windows 11 isn&#39;t optimized for two screens &lpar;Sam Rutherford/Engadget&rpar;](http://www.techmeme.com/240319/p14#a240319p14)
  - [Indie, rocked](https://www.theverge.com/24070565/pitchfork-gq-conde-nast-music-industry-change)
  - [DoorDash, Uber Eats — and Tony](https://www.theverge.com/24105686/doordash-uber-eats-delivery-apps-issues-rivian-history-vergecast)
- - [Anker’s speedy Qi2 MagSafe chargers have dropped to new all-time low prices](https://www.theverge.com/2024/3/19/24104781/anker-maggo-power-bank-google-pixel-tablet-amazon-echo-buds-deal-sale)
- - [Trek&#39;s FX+ 2 Electric Bike Is $500 off Right Now](https://www.wired.com/story/trekfest-electric-bike-deals-2024/)<!-- TECH:END -->
+ - [Anker’s speedy Qi2 MagSafe chargers have dropped to new all-time low prices](https://www.theverge.com/2024/3/19/24104781/anker-maggo-power-bank-google-pixel-tablet-amazon-echo-buds-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

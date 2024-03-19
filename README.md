@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lgbtq+ people are going crazy already about this movie.](http://9gag.com/gag/apRKBDM)
- - 😝 [That&#39;s talent](http://9gag.com/gag/apRKvQW)
- - 💣 [The guy wants more space in his balcony, so he decided to remove the column.](http://9gag.com/gag/aVvjOxn)
- - 😝 [And the best parent award goes to](http://9gag.com/gag/adBypVB)
+ - 😝 [Entire Dodgers dugout watch ceremonial 1st pitch](http://9gag.com/gag/amoq0Z2)
+ - 😝 [But what if they gain weig... Nevermind](http://9gag.com/gag/aVvjX4d)
+ - 💣 [Share some of the best paused moments in movies.](http://9gag.com/gag/a2vEYed)
+ - 😝 [Transposition](http://9gag.com/gag/a87dWMV)
  - 👉 [\ud83c\udf81Gaming Monitor Giveaway\ud83c\udf81 AORUS Infinity, an epic realm where AI meets play, awaits your exploration. Can you tell where it is located? Follow the rules below to make your guess for a chance to take home the AORUS CO49DQ Gaming Monitor!](http://9gag.com/gag/aQz6nj7)<!-- MEMES:END -->
 
 ---

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He said WHAT???](http://9gag.com/gag/an7e13E)
- - 😝 [And the best parent award goes to](http://9gag.com/gag/adBypVB)
- - 💣 [Share some of the best paused moments in movies.](http://9gag.com/gag/a2vEYed)
  - 😝 [Entire Dodgers dugout watch ceremonial 1st pitch](http://9gag.com/gag/amoq0Z2)
- - 👉 [That&#39;s not a knife](http://9gag.com/gag/azx7rLb)<!-- MEMES:END -->
+ - 😝 [He said WHAT???](http://9gag.com/gag/an7e13E)
+ - 💣 [NO REFUNDS](http://9gag.com/gag/an7eNyB)
+ - 😝 [At long last\u2026](http://9gag.com/gag/a1mpXR8)
+ - 👉 [Share your oldest crush here with all... This is mine](http://9gag.com/gag/a5Qp73o)<!-- MEMES:END -->
 
 ---
 

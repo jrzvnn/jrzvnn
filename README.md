@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fitbit is working with Google Research to create an LLM based on Gemini to provide Fitbit mobile app users with personalized data and health recommendations &lpar;Kate Irwin/PCMag&rpar;](http://www.techmeme.com/240319/p30#a240319p30)
+ - [Best PlayStation Deals: Big Savings in Console Bundles, Games, Accessories and More     - CNET](https://www.cnet.com/deals/best-playstation-deals/#ftag=CAD590a51e)
+ - [Best VPN Deals: Nab a VPN Subscription for as Low as $2 a Month     - CNET](https://www.cnet.com/deals/best-vpn-sales-and-deals-right-now/#ftag=CAD590a51e)
  - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Netflix&#39;s &#39;3 Body Problem&#39; Series: Release Time, Trailer, What to Know     - CNET](https://www.cnet.com/tech/services-and-software/netflixs-3-body-problem-series-release-time-trailer-what-to-know/#ftag=CAD590a51e)
- - [Best Sonos Deals: Save on Move, Roam and Others     - CNET](https://www.cnet.com/deals/best-sonos-deals/#ftag=CAD590a51e)
- - [Best Wireless Earbuds and Headphones for Samsung Phones     - CNET](https://www.cnet.com/tech/mobile/best-wireless-earbuds-and-headphones-for-samsung-phones/#ftag=CAD590a51e)
- - [Best Earbuds and Headphones for Working Out for 2024     - CNET](https://www.cnet.com/tech/mobile/best-workout-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Robot Vacuums for 2024     - CNET](https://www.cnet.com/home/kitchen-and-household/best-robot-vacuum/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

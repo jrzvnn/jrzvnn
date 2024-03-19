@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Reddit says Nokia accused the company of infringing some of its patents, and is evaluating Nokia&#39;s claims, ahead of its planned IPO this week &lpar;Lynn Doan/Bloomberg&rpar;](http://www.techmeme.com/240319/p11#a240319p11)
- - [Singapore-based online shopping rewards app ShopBack cuts 195 jobs, or 24% of its staff, to become self-sustainable; ShopBack raised a $200M Series E in 2022 &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/240319/p10#a240319p10)
- - [At an EU DMA hearing, a Meta lawyer says the company has offered to cut its EU subscription fee from &amp;euro;9.99 to &amp;euro;5.99 per month after discussions with regulators &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240319/p9#a240319p9)
- - [iPhone 17 display rumored to be anti-reflective and more scratch-resistant](https://appleinsider.com/articles/24/03/19/iphone-17s-display-will-be-anti-reflective-and-more-scratch-resistant?utm_medium=rss)
- - [Xiaomi reports Q4 revenue up 11% YoY to ~$10.2B, above ~$10.1B est., net income up 50% YoY to ~$653M, and plans to diversify its business by launching EVs &lpar;Bloomberg&rpar;](http://www.techmeme.com/240319/p8#a240319p8)<!-- TECH:END -->
+ - [iPhone 16 Pro: what to expect from Apple&#39;s fall 2024 flagship phone](https://appleinsider.com/articles/24/03/19/iphone-16-pro-what-to-expect-from-apples-fall-2024-flagship-phone?utm_medium=rss)
+ - [Source: Ant CEO and Chair Eric Jing says Han Xinyi will become Ant Group president and some units plan to set up their own boards to operate more independently &lpar;Casey Hall/Reuters&rpar;](http://www.techmeme.com/240319/p12#a240319p12)
+ - [The Best Instax Cameras and Printers &lpar;2024&rpar;: Film Types, Tips, and More](https://www.wired.com/story/best-instax-cameras-and-printers/)
+ - [Nuclear weapons in space are bad news for the entire planet](https://www.theverge.com/2024/3/19/24104979/nuclear-weapons-space-russia-putin-satellite-debris-orbit)
+ - [Filing: Reddit says Nokia accused the company of infringing some of its patents, and is evaluating Nokia&#39;s claims, ahead of its planned IPO this week &lpar;Lynn Doan/Bloomberg&rpar;](http://www.techmeme.com/240319/p11#a240319p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

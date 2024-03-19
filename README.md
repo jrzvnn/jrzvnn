@@ -166,7 +166,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Court-Side Streaming: Don&#39;t Miss Out on Roku&#39;s March Madness Deal     - CNET](https://www.cnet.com/deals/court-side-streaming-dont-miss-out-on-rokus-march-madness-deal/#ftag=CAD590a51e)
+ - [Lagos-based Moove, which offers car financing to ride-hailing drivers, raised a $100M Series B led by Uber at a $750M valuation, up from $550M in August 2023 &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/240319/p3#a240319p3)
  - [Q&amp;A with Lila Tretikov, who just joined NEA as a partner and head of AI strategy; Tretikov was previously Microsoft&#39;s deputy CTO and Wikimedia Foundation CEO &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/240319/p2#a240319p2)
  - [SSDI Payment for March 2024: When Will You Get Your Money?     - CNET](https://www.cnet.com/personal-finance/ssdi-payment-for-march-2024-when-will-you-get-your-money/#ftag=CAD590a51e)
  - [Hollywood actors like Megan Fox, Idris Elba, and Keanu Reeves are leaping into video games, a once stigmatized medium now seen as a unique platform for stories &lpar;Just Lunning/New York Times&rpar;](http://www.techmeme.com/240319/p1#a240319p1)

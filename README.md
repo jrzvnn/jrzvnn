@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with Nvidia CEO Jensen Huang on how the company&#39;s early decisions led to its AI boom, why Nvidia&#39;s ubiquity will not be easy to replicate, and more &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/240319/p16#a240319p16)
+ - [Apple Vision Pro is reigniting the whole AR/VR headset market](https://appleinsider.com/articles/24/03/19/apple-vision-pro-is-reigniting-the-whole-arvr-headset-market?utm_medium=rss)
  - [Airbus ends talks with Atos on a deal worth ~&amp;euro;1.8B for its big data and security unit, imperiling efforts by Atos to avoid going into debt restructuring &lpar;Financial Times&rpar;](http://www.techmeme.com/240319/p15#a240319p15)
  - [Two iPad Air sizes are being shipped to the US right now](https://appleinsider.com/articles/24/03/19/two-ipad-air-sizes-are-being-shipped-to-the-us-right-now?utm_medium=rss)
- - [Asus Zenbook Duo review: a sleek design, gorgeous displays, and solid battery life, but pricier than a clamshell and Windows 11 isn&#39;t optimized for two screens &lpar;Sam Rutherford/Engadget&rpar;](http://www.techmeme.com/240319/p14#a240319p14)
- - [Google Messages Now Lets You Turn Blue Chat Bubbles Green &lpar;or Orange or Purple&rpar;     - CNET](https://www.cnet.com/tech/mobile/google-messages-now-lets-you-turn-blue-chat-bubbles-green-or-orange-or-purple/#ftag=CAD590a51e)
- - [Casper Wave Hybrid Review 2024: Testing the Best Mattress for Back Pain     - CNET](https://www.cnet.com/health/sleep/casper-wave-hybrid-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Asus Zenbook Duo review: a sleek design, gorgeous displays, and solid battery life, but pricier than a clamshell and Windows 11 isn&#39;t optimized for two screens &lpar;Sam Rutherford/Engadget&rpar;](http://www.techmeme.com/240319/p14#a240319p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

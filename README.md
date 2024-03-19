@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Asus Zenbook Duo review: sleek design, two great displays, and solid battery life, but pricier than a clamshell and Windows 11 isn&#39;t optimized for two screens &lpar;Sam Rutherford/Engadget&rpar;](http://www.techmeme.com/240319/p14#a240319p14)
+ - [Indie, rocked](https://www.theverge.com/24070565/pitchfork-gq-conde-nast-music-industry-change)
+ - [DoorDash, Uber Eats — and Tony](https://www.theverge.com/24105686/doordash-uber-eats-delivery-apps-issues-rivian-history-vergecast)
  - [Anker’s speedy Qi2 MagSafe chargers have dropped to new all-time low prices](https://www.theverge.com/2024/3/19/24104781/anker-maggo-power-bank-google-pixel-tablet-amazon-echo-buds-deal-sale)
- - [Trek&#39;s FX+ 2 Electric Bike Is $500 off Right Now](https://www.wired.com/story/trekfest-electric-bike-deals-2024/)
- - [Meet the Arizona Election Official Combating Misinformation One Tweet at a Time](https://www.wired.com/story/stephen-richer-arizona-primary-election-fraud/)
- - [Ad-free Facebook might get way cheaper to appease EU regulators](https://www.theverge.com/2024/3/19/24105660/meta-ad-free-subscription-facebook-instagram-gdpr-dma-eu-privacy-regulation)
- - [Best Seafood Delivery Services for 2024     - CNET](https://www.cnet.com/health/nutrition/best-seafood-delivery/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Trek&#39;s FX+ 2 Electric Bike Is $500 off Right Now](https://www.wired.com/story/trekfest-electric-bike-deals-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

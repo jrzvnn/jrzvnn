@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Google DeepMind co-founder joins Microsoft as CEO of its new AI division](https://www.theverge.com/2024/3/19/24105900/google-deepmind-microsoft-mustafa-suleyman-ai-ceo)
- - [Universal Remotes Up to 20% Off Before Amazon&#39;s Big Spring Sale     - CNET](https://www.cnet.com/tech/home-entertainment/universal-remotes-up-to-20-off-before-amazons-big-spring-sale/#ftag=CAD590a51e)
- - [Casper Snow Max Hybrid Mattress Review 2024: A Premium Bed Tested by Experts     - CNET](https://www.cnet.com/health/sleep/casper-snow-max-hybrid-mattress-review/#ftag=CAD590a51e)
- - [Hades 2 Is Coming, but You Can Play the Original on Netflix Games Now     - CNET](https://www.cnet.com/tech/gaming/hades-2-is-coming-but-you-can-play-the-original-on-netflix-games-now/#ftag=CAD590a51e)
- - [13 Best Amazon Echo and Alexa Speakers &lpar;2024&rpar;: Earbuds, Soundbars, Displays](https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers/)<!-- TECH:END -->
+ - [13 Best Amazon Echo and Alexa Speakers &lpar;2024&rpar;: Earbuds, Soundbars, Displays](https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers/)
+ - [How AI companies are reckoning with elections](https://www.theverge.com/2024/3/19/24098381/ai-chatbots-election-misinformation-chatgpt-gemini-copilot-bing-claude)
+ - [Mark Zuckerberg says Threads is rolling out a &quot;Trending now&quot; page for users in the US, under the search bar in the mobile app &lpar;Maxwell Zeff/Gizmodo&rpar;](http://www.techmeme.com/240319/p24#a240319p24)
+ - [Flash deals: Apple Watch Series 9 drops to $299 at Best Buy](https://appleinsider.com/articles/24/03/19/flash-deals-apple-watch-series-9-drops-to-299-at-best-buy?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

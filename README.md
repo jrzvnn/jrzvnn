@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Entire Dodgers dugout watch ceremonial 1st pitch](http://9gag.com/gag/amoq0Z2)
- - 😝 [He said WHAT???](http://9gag.com/gag/an7e13E)
- - 💣 [NO REFUNDS](http://9gag.com/gag/an7eNyB)
- - 😝 [At long last\u2026](http://9gag.com/gag/a1mpXR8)
- - 👉 [Share your oldest crush here with all... This is mine](http://9gag.com/gag/a5Qp73o)<!-- MEMES:END -->
+ - 😝 [NO REFUNDS](http://9gag.com/gag/an7eNyB)
+ - 😝 [German police take out the trash](http://9gag.com/gag/aoym0Ze)
+ - 💣 [One destroys me in seconds. The other one does too](http://9gag.com/gag/a34vjLN)
+ - 😝 [Ooof...That was more shocking than she thought.](http://9gag.com/gag/aMVewAG)
+ - 👉 [That&#39;s talent](http://9gag.com/gag/apRKvQW)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [At an EU DMA hearing, a Meta lawyer says the company has offered to cut its EU subscription fee from &amp;euro;9.99 to &amp;euro;5.99 per month after discussions with regulators &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240319/p9#a240319p9)
  - [iPhone 17&#39;s display will be anti-reflective and more scratch-resistant](https://appleinsider.com/articles/24/03/19/iphone-17s-display-will-be-anti-reflective-and-more-scratch-resistant?utm_medium=rss)
  - [Xiaomi reports Q4 revenue up 11% YoY to ~$10.2B, above ~$10.1B est., net income up 50% YoY to ~$653M, and plans to diversify its business by launching EVs &lpar;Bloomberg&rpar;](http://www.techmeme.com/240319/p8#a240319p8)
  - [What Happens When a Guy and His AI Girlfriend Go to Therapy](https://www.wired.com/story/annie-bot-sierra-greer-book-excerpt/)
- - [iVANKY FusionDock Max 1 review: Twice the Thunderbolt bandwidth, twice the price](https://appleinsider.com/articles/24/03/19/ivanky-fusiondock-max-1-review-twice-the-thunderbolt-bandwidth-twice-the-price?utm_medium=rss)
- - [Sources: senior DOJ officials plan to hold closed-door Senate briefings on March 19 and 20 to advance a TikTok divestiture, as opposed to an outright US ban &lpar;Bloomberg&rpar;](http://www.techmeme.com/240319/p7#a240319p7)<!-- TECH:END -->
+ - [iVANKY FusionDock Max 1 review: Twice the Thunderbolt bandwidth, twice the price](https://appleinsider.com/articles/24/03/19/ivanky-fusiondock-max-1-review-twice-the-thunderbolt-bandwidth-twice-the-price?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

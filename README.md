@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [On the first day of his trial, US prosecutors portray Mike Lynch as &quot;a controlling, dominating, intimidating boss&quot; and &quot;driving force behind [a] massive fraud&quot; &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/240319/p6#a240319p6)
  - [A look at Playtron, which raised a $10M seed to build a Linux-based, platform-agnostic gaming OS to replace Windows or SteamOS, starting with handheld consoles &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240319/p5#a240319p5)
- - [Kids’ Cartoons Get a Free Pass From YouTube’s Deepfake Disclosure Rules](https://www.wired.com/story/kids-cartoons-free-pass-youtube-deepfake-disclosure-rules/)
- - [Solana meme coin SLERF raised $10M in a presale, hitting $1.7B in trading volume, but the developer claims to have &quot;burned&quot; tokens set aside for an airdrop &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/240319/p4#a240319p4)
- - [Lagos-based Moove, which offers car financing to ride-hailing drivers, raised a $100M Series B led by Uber at a $750M valuation, up from $550M in August 2023 &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/240319/p3#a240319p3)
- - [Court-Side Streaming: Don&#39;t Miss Out on Roku&#39;s March Madness Deal     - CNET](https://www.cnet.com/deals/court-side-streaming-dont-miss-out-on-rokus-march-madness-deal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Solar Panel Installation Companies in Dallas     - CNET](https://www.cnet.com/home/energy-and-utilities/best-solar-panel-installation-companies-in-dallas/#ftag=CAD590a51e)
+ - [iOS 17 Cheat Sheet: All Your Questions About the iPhone Update Answered     - CNET](https://www.cnet.com/tech/mobile/ios-17-cheat-sheet-all-your-questions-about-the-iphone-update-answered/#ftag=CAD590a51e)
+ - [Kids’ Cartoons Get a Free Pass From YouTube’s Deepfake Disclosure Rules](https://www.wired.com/story/kids-cartoons-free-pass-youtube-deepfake-disclosure-rules/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

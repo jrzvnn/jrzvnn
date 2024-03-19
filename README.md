@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cultured](http://9gag.com/gag/amoqr6V)
- - 😝 [Woke French woman tries to argue with an Irish dude](http://9gag.com/gag/aD2RGLd)
- - 💣 [A man only seeks one thing.](http://9gag.com/gag/a9yjWqZ)
- - 😝 [Justice Served!!](http://9gag.com/gag/a87dp4e)
- - 👉 [He was generous with that number...](http://9gag.com/gag/aE0dnjN)<!-- MEMES:END -->
+ - 😝 [He said WHAT???](http://9gag.com/gag/an7e13E)
+ - 😝 [On Muscovy you can&#39;t put a mark in another cell!&rpar;&rpar;&rpar;](http://9gag.com/gag/a6Zr7Lb)
+ - 💣 [NO REFUNDS](http://9gag.com/gag/an7eNyB)
+ - 😝 [At long last\u2026](http://9gag.com/gag/a1mpXR8)
+ - 👉 [Entire Dodgers dugout watch ceremonial 1st pitch](http://9gag.com/gag/amoq0Z2)<!-- MEMES:END -->
 
 ---
 

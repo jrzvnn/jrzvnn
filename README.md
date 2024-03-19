@@ -175,9 +175,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A man only seeks one thing.](http://9gag.com/gag/a9yjWqZ)
  - 😝 [Women in the United Kingdom, 1997. Before the Islamic Revolution.](http://9gag.com/gag/aZZqBpX)
- - 💣 [Task failed successfully](http://9gag.com/gag/a87d4XY)
+ - 😝 [Task failed successfully](http://9gag.com/gag/a87d4XY)
+ - 💣 [A man only seeks one thing.](http://9gag.com/gag/a9yjWqZ)
  - 😝 [South african diversity](http://9gag.com/gag/adByjOB)
  - 👉 [Woke French woman tries to argue with an Irish dude](http://9gag.com/gag/aD2RGLd)<!-- MEMES:END -->
 

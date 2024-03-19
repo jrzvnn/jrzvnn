@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cowboy’s first all-road electric bike is a gentle beast](https://www.theverge.com/24105614/cowboy-cross-all-road-electric-bike-price-specs)
+ - [Users complain after Glassdoor started adding real names to profiles without explicit user consent; Glassdoor says it cross-populates data between its services &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/240319/p32#a240319p32)
  - [Meta just showed off Threads’ fediverse integration for the very first time](https://www.theverge.com/24106231/threads-fediverse-demo-meta-fediforum)
  - [The Google Pixel 8A may get a brighter, 120Hz display](https://www.theverge.com/2024/3/19/24106211/google-pixel-8a-120-hz-brighter-display-displayport)
- - [Solaris, which lets companies offer their own financial services via APIs, raised a &amp;euro;96M Series F led by SBI Group, bringing its total funding to &amp;euro;450M+ &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/240319/p31#a240319p31)
- - [Fitbit is working with Google Research to create an LLM based on Gemini to provide Fitbit mobile app users with personalized data and health recommendations &lpar;Kate Irwin/PCMag&rpar;](http://www.techmeme.com/240319/p30#a240319p30)
- - [Best PlayStation Deals: Big Savings in Console Bundles, Games, Accessories and More     - CNET](https://www.cnet.com/deals/best-playstation-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Solaris, which lets companies offer their own financial services via APIs, raised a &amp;euro;96M Series F led by SBI Group, bringing its total funding to &amp;euro;450M+ &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/240319/p31#a240319p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

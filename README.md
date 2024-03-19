@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Two iPad Air sizes are being shipped to the US right now](https://appleinsider.com/articles/24/03/19/two-ipad-air-sizes-are-being-shipped-to-the-us-right-now?utm_medium=rss)
- - [Asus Zenbook Duo review: sleek design, two great displays, and solid battery life, but pricier than a clamshell and Windows 11 isn&#39;t optimized for two screens &lpar;Sam Rutherford/Engadget&rpar;](http://www.techmeme.com/240319/p14#a240319p14)
- - [Indie, rocked](https://www.theverge.com/24070565/pitchfork-gq-conde-nast-music-industry-change)
- - [DoorDash, Uber Eats — and Tony](https://www.theverge.com/24105686/doordash-uber-eats-delivery-apps-issues-rivian-history-vergecast)
- - [Anker’s speedy Qi2 MagSafe chargers have dropped to new all-time low prices](https://www.theverge.com/2024/3/19/24104781/anker-maggo-power-bank-google-pixel-tablet-amazon-echo-buds-deal-sale)<!-- TECH:END -->
+ - [Asus Zenbook Duo review: a sleek design, gorgeous displays, and solid battery life, but pricier than a clamshell and Windows 11 isn&#39;t optimized for two screens &lpar;Sam Rutherford/Engadget&rpar;](http://www.techmeme.com/240319/p14#a240319p14)
+ - [Google Messages Now Lets You Turn Blue Chat Bubbles Green &lpar;or Orange or Purple&rpar;     - CNET](https://www.cnet.com/tech/mobile/google-messages-now-lets-you-turn-blue-chat-bubbles-green-or-orange-or-purple/#ftag=CAD590a51e)
+ - [Casper Wave Hybrid Review 2024: Testing the Best Mattress for Back Pain     - CNET](https://www.cnet.com/health/sleep/casper-wave-hybrid-review/#ftag=CAD590a51e)
+ - [Indie, rocked](https://www.theverge.com/24070565/pitchfork-gq-conde-nast-music-industry-change)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

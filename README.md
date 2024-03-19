@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
  - [TikTok’s podcast boom might be a bust](https://www.theverge.com/2024/3/19/24106175/tiktok-ban-podcast-planet-money-everything-everywhere-instagram)
  - [Overwatch 2 unlocks all of its heroes](https://www.theverge.com/2024/3/19/24106082/overwatch-2-unlocks-all-of-its-heroes)
  - [Source: Google&#39;s Pixel 8a will have a 6.1&quot; 120Hz OLED display, Tensor G3 chip, DisplayPort output support, and the same camera sensor as the Pixel 7a &lpar;Kamila Wojciechowska/Android Authority&rpar;](http://www.techmeme.com/240319/p29#a240319p29)
- - [Segway brings a sub-$1,000 smart robot mower to the US](https://www.theverge.com/2024/3/19/24105936/segway-navimow-i-robot-mower-price-release-date-specs)
- - [Apple’s MM1 AI Model Shows a Sleeping Giant Is Waking Up](https://www.wired.com/story/apples-mm1-ai-model-sleeping-giant-waking-up/)<!-- TECH:END -->
+ - [Segway brings a sub-$1,000 smart robot mower to the US](https://www.theverge.com/2024/3/19/24105936/segway-navimow-i-robot-mower-price-release-date-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

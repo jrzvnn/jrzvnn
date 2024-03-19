@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What Happens When a Guy and His AI Girlfriend Go to Therapy](https://www.wired.com/story/annie-bot-sierra-greer-book-excerpt/)
+ - [iVANKY FusionDock Max 1 review: Twice the Thunderbolt bandwidth, twice the price](https://appleinsider.com/articles/24/03/19/ivanky-fusiondock-max-1-review-twice-the-thunderbolt-bandwidth-twice-the-price?utm_medium=rss)
+ - [Sources: senior DOJ officials plan to hold closed-door Senate briefings on March 19 and 20 to advance a TikTok divestiture, as opposed to an outright US ban &lpar;Bloomberg&rpar;](http://www.techmeme.com/240319/p7#a240319p7)
  - [On the first day of his trial, US prosecutors portray Mike Lynch as &quot;a controlling, dominating, intimidating boss&quot; and &quot;driving force behind [a] massive fraud&quot; &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/240319/p6#a240319p6)
- - [A look at Playtron, which raised a $10M seed to build a Linux-based, platform-agnostic gaming OS to replace Windows or SteamOS, starting with handheld consoles &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240319/p5#a240319p5)
- - [Best Solar Panel Installation Companies in Dallas     - CNET](https://www.cnet.com/home/energy-and-utilities/best-solar-panel-installation-companies-in-dallas/#ftag=CAD590a51e)
- - [iOS 17 Cheat Sheet: All Your Questions About the iPhone Update Answered     - CNET](https://www.cnet.com/tech/mobile/ios-17-cheat-sheet-all-your-questions-about-the-iphone-update-answered/#ftag=CAD590a51e)
- - [Kids’ Cartoons Get a Free Pass From YouTube’s Deepfake Disclosure Rules](https://www.wired.com/story/kids-cartoons-free-pass-youtube-deepfake-disclosure-rules/)<!-- TECH:END -->
+ - [A look at Playtron, which raised a $10M seed to build a Linux-based, platform-agnostic gaming OS to replace Windows or SteamOS, starting with handheld consoles &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240319/p5#a240319p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

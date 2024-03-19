@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Q&amp;A with Lila Tretikov, who just joined NEA as a partner and head of AI strategy; Tretikov was previously Microsoft&#39;s deputy CTO and Wikimedia Foundation CEO &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/240319/p2#a240319p2)
- - [SSDI Payment for March 2024: When Will You Get Your Money?     - CNET](https://www.cnet.com/personal-finance/ssdi-payment-for-march-2024-when-will-you-get-your-money/#ftag=CAD590a51e)
  - [Hollywood actors like Megan Fox, Idris Elba, and Keanu Reeves are leaping into video games, a once stigmatized medium now seen as a unique platform for stories &lpar;Just Lunning/New York Times&rpar;](http://www.techmeme.com/240319/p1#a240319p1)
  - [2025 Audi Q6 e-tron Is a Tiny Tech Powerhouse: Electric SUV First Drive     - CNET](https://www.cnet.com/roadshow/news/2025-audi-q6-e-tron-is-a-tiny-tech-powerhouse-electric-suv-first-drive/#ftag=CAD590a51e)
- - [Unity&#39;s 2024 Gaming Report: the number of multiplatform games rose 40% since 2021, in-app ad revenue rose 26.7% YoY, 62% of studios are using AI, and more &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240318/p45#a240318p45)<!-- TECH:END -->
+ - [Unity&#39;s 2024 Gaming Report: the number of multiplatform games rose 40% since 2021, in-app ad revenue rose 26.7% YoY, 62% of studios are using AI, and more &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240318/p45#a240318p45)
+ - [Save on Weatherstripping Today and Save on Energy All Year     - CNET](https://www.cnet.com/deals/save-on-weatherstripping-today-and-save-on-energy-all-year/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

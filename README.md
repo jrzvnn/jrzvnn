@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iVANKY FusionDock Max 1 review: Twice the Thunderbolt bandwidth, twice the price](https://appleinsider.com/articles/24/03/19/ivanky-fusiondock-max-1-review-twice-the-thunderbolt-bandwidth-twice-the-price?utm_medium=rss)
  - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
  - [Nvidia is using AI to turn game characters into chatbots](https://www.theverge.com/2024/3/19/24105681/nvidia-ai-ace-video-game-character-npc-covert-protocol)
  - [Google has a new head of Search — and she’s all in on AI](https://www.theverge.com/2024/3/19/24105705/google-liz-reid-search-ai-sge-gemini)
- - [An interview with Nvidia CEO Jensen Huang on how the company&#39;s early decisions led to its AI boom, why Nvidia&#39;s ubiquity will not be easy to replicate, and more &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/240319/p16#a240319p16)
- - [Apple Vision Pro is reigniting the whole AR/VR headset market](https://appleinsider.com/articles/24/03/19/apple-vision-pro-is-reigniting-the-whole-arvr-headset-market?utm_medium=rss)<!-- TECH:END -->
+ - [An interview with Nvidia CEO Jensen Huang on how the company&#39;s early decisions led to its AI boom, why Nvidia&#39;s ubiquity will not be easy to replicate, and more &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/240319/p16#a240319p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

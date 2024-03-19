@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mark Zuckerberg says Threads is rolling out a &quot;trending now&quot; page for users in the US, visible under the search bar &lpar;Maxwell Zeff/Gizmodo&rpar;](http://www.techmeme.com/240319/p24#a240319p24)
  - [Flash deals: Apple Watch Series 9 drops to $299 at Best Buy](https://appleinsider.com/articles/24/03/19/flash-deals-apple-watch-series-9-drops-to-299-at-best-buy?utm_medium=rss)
  - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
  - [The SEC says Genesis Global Capital agreed to pay a $21M civil penalty as part of a settlement over charges of offering unregistered securities via Gemini Earn &lpar;Adam James/The Block&rpar;](http://www.techmeme.com/240319/p23#a240319p23)
- - [Lego’s 3,745-piece D&amp;D set comes with its own playable adventure](https://www.theverge.com/2024/3/19/24105862/lego-dungeons-and-dragons-pictures-price-release-date)
- - [Microsoft says Mustafa Suleyman and Kar&amp;eacute;n Simonyan are joining to form Microsoft AI, focused on Copilot and other consumer AI products; Suleyman will be CEO &lpar;Satya Nadella/The Official Microsoft Blog&rpar;](http://www.techmeme.com/240319/p22#a240319p22)<!-- TECH:END -->
+ - [Lego’s 3,745-piece D&amp;D set comes with its own playable adventure](https://www.theverge.com/2024/3/19/24105862/lego-dungeons-and-dragons-pictures-price-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

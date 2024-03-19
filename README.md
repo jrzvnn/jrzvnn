@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [NO REFUNDS](http://9gag.com/gag/an7eNyB)
- - 😝 [Share some of the best paused moments in movies.](http://9gag.com/gag/a2vEYed)
- - 💣 [TheNewTypeofSqlInjection](http://9gag.com/gag/azx7AAj)
- - 😝 [At long last\u2026](http://9gag.com/gag/a1mpXR8)
- - 👉 [Who the Hell is JEFF?](http://9gag.com/gag/aqy4NXj)<!-- MEMES:END -->
+ - 😝 [Cultured](http://9gag.com/gag/amoqr6V)
+ - 😝 [Woke French woman tries to argue with an Irish dude](http://9gag.com/gag/aD2RGLd)
+ - 💣 [A man only seeks one thing.](http://9gag.com/gag/a9yjWqZ)
+ - 😝 [Justice Served!!](http://9gag.com/gag/a87dp4e)
+ - 👉 [He was generous with that number...](http://9gag.com/gag/aE0dnjN)<!-- MEMES:END -->
 
 ---
 

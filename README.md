@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NVIDIA&#39;s shared VR environment technology is coming to Apple Vision Pro](https://appleinsider.com/articles/24/03/18/nvidia-gives-enterprise-developers-more-tools-for-apple-vision-pro?utm_medium=rss)
- - [Valve debuts Steam Families in beta, allowing a group of up to six Steam users to share their games, manage parental controls, and more &lpar;Samuel Tolbert/Windows Central&rpar;](http://www.techmeme.com/240318/p39#a240318p39)
- - [Microsoft Copilot Now Has GPT-4 Turbo for Free: What to Know     - CNET](https://www.cnet.com/tech/computing/microsoft-copilot-now-has-gpt-4-turbo-for-free-what-to-know/#ftag=CAD590a51e)
- - [Best Noise-Canceling Headphones for 2024     - CNET](https://www.cnet.com/tech/mobile/best-noise-canceling-headphones/#ftag=CAD590a51e)
- - [Hippocratic AI, which is building an LLM for health care, raised a $53M Series A co-led by Premji Invest and General Catalyst at a $500M valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/240318/p38#a240318p38)<!-- TECH:END -->
+ - [The Connectivity Standards Alliance launches a cybersecurity standard that aims to provide a globally recognized security certification for consumer IoT devices &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/240318/p41#a240318p41)
+ - [Nvidia announces a software framework built with its Omniverse Cloud APIs to let enterprise developers stream interactive 3D experiences into Apple Vision Pro &lpar;Wesley Hilliard/AppleInsider&rpar;](http://www.techmeme.com/240318/p40#a240318p40)
+ - [Best Power Bank for iPhone for 2024     - CNET](https://www.cnet.com/tech/mobile/best-power-bank-for-iphone/#ftag=CAD590a51e)
+ - [Best Wi-Fi 6 Router of 2024     - CNET](https://www.cnet.com/home/internet/best-wi-fi-6-routers/#ftag=CAD590a51e)
+ - [We’re one step closer to a global cybersecurity standard for smart home devices](https://www.theverge.com/2024/3/18/24104906/csa-iot-device-security-specification-product-security-verification-mark)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

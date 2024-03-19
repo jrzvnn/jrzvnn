@@ -170,7 +170,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Trek&#39;s FX+ 2 Electric Bike Is $500 off Right Now](https://www.wired.com/story/trekfest-electric-bike-deals-2024/)
  - [Meet the Arizona Election Official Combating Misinformation One Tweet at a Time](https://www.wired.com/story/stephen-richer-arizona-primary-election-fraud/)
  - [Ad-free Facebook might get way cheaper to appease EU regulators](https://www.theverge.com/2024/3/19/24105660/meta-ad-free-subscription-facebook-instagram-gdpr-dma-eu-privacy-regulation)
- - [Ethiopia&#39;s central bank says &quot;a glitch&quot; let Commercial Bank customers withdraw more cash than was in the account for hours; local media says $40M+ was withdrawn &lpar;Kalkidan Yibeltal/BBC&rpar;](http://www.techmeme.com/240319/p13#a240319p13)<!-- TECH:END -->
+ - [Best Seafood Delivery Services for 2024     - CNET](https://www.cnet.com/health/nutrition/best-seafood-delivery/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

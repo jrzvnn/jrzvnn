@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [At long last\u2026](http://9gag.com/gag/a1mpXR8)
- - 😝 [He said WHAT???](http://9gag.com/gag/an7e13E)
- - 💣 [If anyone ever wonders why every mechanic everywhere hates engineers\u2026.I submit exibit A:](http://9gag.com/gag/ae9K0AO)
- - 😝 [Entire Dodgers dugout watch ceremonial 1st pitch](http://9gag.com/gag/amoq0Z2)
- - 👉 [That&#39;s talent](http://9gag.com/gag/apRKvQW)<!-- MEMES:END -->
+ - 😝 [Billions must game](http://9gag.com/gag/a34vjX5)
+ - 😝 [Dogs as medieval character](http://9gag.com/gag/ae9K69B)
+ - 💣 [At long last\u2026](http://9gag.com/gag/a1mpXR8)
+ - 😝 [South african diversity](http://9gag.com/gag/adByjOB)
+ - 👉 [Task failed successfully](http://9gag.com/gag/a87d4XY)<!-- MEMES:END -->
 
 ---
 

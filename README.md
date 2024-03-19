@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [In a brief demo, Meta shows how Threads could handle fediverse sharing, including waiting five minutes before sending a Threads post to the fediverse &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240319/p33#a240319p33)
  - [Cowboy’s first all-road electric bike is a gentle beast](https://www.theverge.com/24105614/cowboy-cross-all-road-electric-bike-price-specs)
+ - [Best Solar Panel Installation Companies in Missouri     - CNET](https://www.cnet.com/home/energy-and-utilities/missouri-solar-panels/#ftag=CAD590a51e)
  - [Users complain after Glassdoor started adding real names to profiles without explicit user consent; Glassdoor says it cross-populates data between its services &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/240319/p32#a240319p32)
- - [Meta just showed off Threads’ fediverse integration for the very first time](https://www.theverge.com/24106231/threads-fediverse-demo-meta-fediforum)
- - [The Google Pixel 8A may get a brighter, 120Hz display](https://www.theverge.com/2024/3/19/24106211/google-pixel-8a-120-hz-brighter-display-displayport)<!-- TECH:END -->
+ - [Meta just showed off Threads’ fediverse integration for the very first time](https://www.theverge.com/24106231/threads-fediverse-demo-meta-fediforum)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

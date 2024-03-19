@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Inflection won&#39;t shut down Pi but will no longer focus on its consumer business, instead working with commercial customers to create, test, and tune AI systems &lpar;New York Times&rpar;](http://www.techmeme.com/240319/p27#a240319p27)
  - [Apple gradually releases new firmware for the AirTag](https://appleinsider.com/articles/24/03/19/apple-gradually-releases-new-firmware-for-the-airtag?utm_medium=rss)
+ - [Best Fitbit Deals: Save Up to $50 on the Sense 2, Luxe, Charge 5 and More     - CNET](https://www.cnet.com/deals/best-fitbit-deals/#ftag=CAD590a51e)
  - [The 35 Best Shows on Hulu Right Now](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
- - [After losing two complaints before the US ITC, Apple steps up lobbying to help rewrite ITC rules, asking for public interest to be considered before import bans &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/240319/p26#a240319p26)
- - [Ninja Thirsti Drink System     - CNET](https://www.cnet.com/home/kitchen-and-household/ninja-thirsti-drink-system-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Smart Ovens of 2024     - CNET](https://www.cnet.com/home/kitchen-and-household/best-smart-ovens/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

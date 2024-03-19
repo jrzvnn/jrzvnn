@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to use Collaborative Playlists for Apple Music](https://appleinsider.com/inside/apple-music/tips/how-to-use-collaborative-playlists-for-apple-music?utm_medium=rss)
  - [Google promotes Liz Reid to Head of Search and names Cheenu Venkatachary as the lead of Search quality and ranking, among other changes to its Search team &lpar;Barry Schwartz/Search Engine Land&rpar;](http://www.techmeme.com/240318/p44#a240318p44)
  - [Stability AI debuts Stable Video 3D, a generative AI tool built on its Stable Video Diffusion model, letting users create 3D video from a text or image prompt &lpar;Sean Michael Kerner/VentureBeat&rpar;](http://www.techmeme.com/240318/p43#a240318p43)
  - [Sources: TSMC and Intel suppliers have delayed construction of facilities in Arizona, citing surging construction costs, a labor shortage, and weak local demand &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240318/p42#a240318p42)
- - [Amazon&#39;s First-Ever &#39;Big Spring Sale&#39; Event Is Coming. Here&#39;s What You Need to Know     - CNET](https://www.cnet.com/deals/amazon-announces-first-ever-big-spring-sale-event-is-coming-heres-what-you-need-to-know/#ftag=CAD590a51e)
- - [Sell Your Old TV: 7 Easy Steps to Maximize Your Profit     - CNET](https://www.cnet.com/tech/home-entertainment/sell-your-old-tv-7-easy-steps-that-maximize-your-profit/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon&#39;s First-Ever &#39;Big Spring Sale&#39; Event Is Coming. Here&#39;s What You Need to Know     - CNET](https://www.cnet.com/deals/amazon-announces-first-ever-big-spring-sale-event-is-coming-heres-what-you-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

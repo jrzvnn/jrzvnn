@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Vacuum goes brrr](http://9gag.com/gag/azx7Ebz)
- - 😝 [Who the Hell is JEFF?](http://9gag.com/gag/aqy4NXj)
- - 💣 [Thank you for flying with DEI Airlines](http://9gag.com/gag/ary1Od0)
- - 😝 [Nice family business you got here](http://9gag.com/gag/awyN5VB)
- - 👉 [How is this even allowed?](http://9gag.com/gag/a87dpwQ)<!-- MEMES:END -->
+ - 😝 [South african diversity](http://9gag.com/gag/adByjOB)
+ - 😝 [Woke French woman tries to argue with an Irish dude](http://9gag.com/gag/aD2RGLd)
+ - 💣 [How is this even allowed?](http://9gag.com/gag/a87dpwQ)
+ - 😝 [A man only seeks one thing.](http://9gag.com/gag/a9yjWqZ)
+ - 👉 [There\u2019s hope for some](http://9gag.com/gag/a5QpZyN)<!-- MEMES:END -->
 
 ---
 

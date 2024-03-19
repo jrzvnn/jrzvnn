@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Google Pixel 8A may get a brighter, 120Hz display](https://www.theverge.com/2024/3/19/24106211/google-pixel-8a-120-hz-brighter-display-displayport)
+ - [Solaris, which lets companies offer their own financial services via APIs, raised a &amp;euro;96M Series F led by SBI Group, bringing its total funding to &amp;euro;450M+ &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/240319/p31#a240319p31)
  - [Fitbit is working with Google Research to create an LLM based on Gemini to provide Fitbit mobile app users with personalized data and health recommendations &lpar;Kate Irwin/PCMag&rpar;](http://www.techmeme.com/240319/p30#a240319p30)
  - [Best PlayStation Deals: Big Savings in Console Bundles, Games, Accessories and More     - CNET](https://www.cnet.com/deals/best-playstation-deals/#ftag=CAD590a51e)
- - [Best VPN Deals: Nab a VPN Subscription for as Low as $2 a Month     - CNET](https://www.cnet.com/deals/best-vpn-sales-and-deals-right-now/#ftag=CAD590a51e)
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Best Robot Vacuums for 2024     - CNET](https://www.cnet.com/home/kitchen-and-household/best-robot-vacuum/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best VPN Deals: Nab a VPN Subscription for as Low as $2 a Month     - CNET](https://www.cnet.com/deals/best-vpn-sales-and-deals-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

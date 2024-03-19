@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Singapore-based online shopping rewards app ShopBack cuts 195 jobs, or 24% of its staff, to become self-sustainable; ShopBack raised a $200M Series E in 2022 &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/240319/p10#a240319p10)
  - [At an EU DMA hearing, a Meta lawyer says the company has offered to cut its EU subscription fee from &amp;euro;9.99 to &amp;euro;5.99 per month after discussions with regulators &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240319/p9#a240319p9)
  - [iPhone 17&#39;s display will be anti-reflective and more scratch-resistant](https://appleinsider.com/articles/24/03/19/iphone-17s-display-will-be-anti-reflective-and-more-scratch-resistant?utm_medium=rss)
  - [Xiaomi reports Q4 revenue up 11% YoY to ~$10.2B, above ~$10.1B est., net income up 50% YoY to ~$653M, and plans to diversify its business by launching EVs &lpar;Bloomberg&rpar;](http://www.techmeme.com/240319/p8#a240319p8)
- - [What Happens When a Guy and His AI Girlfriend Go to Therapy](https://www.wired.com/story/annie-bot-sierra-greer-book-excerpt/)
- - [iVANKY FusionDock Max 1 review: Twice the Thunderbolt bandwidth, twice the price](https://appleinsider.com/articles/24/03/19/ivanky-fusiondock-max-1-review-twice-the-thunderbolt-bandwidth-twice-the-price?utm_medium=rss)<!-- TECH:END -->
+ - [How You Can Use Wi-Fi Calling When There&#39;s Not Enough Cellular Signal     - CNET](https://www.cnet.com/tech/mobile/how-you-can-use-wi-fi-calling-when-theres-not-enough-cellular-signal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

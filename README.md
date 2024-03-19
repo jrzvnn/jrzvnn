@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hollywood actors like Megan Fox, Idris Elba, and Keanu Reeves are leaping into video games, a once stigmatized medium now seen as a unique platform for stories &lpar;Just Lunning/New York Times&rpar;](http://www.techmeme.com/240319/p1#a240319p1)
  - [2025 Audi Q6 e-tron Is a Tiny Tech Powerhouse: Electric SUV First Drive     - CNET](https://www.cnet.com/roadshow/news/2025-audi-q6-e-tron-is-a-tiny-tech-powerhouse-electric-suv-first-drive/#ftag=CAD590a51e)
  - [Unity&#39;s 2024 Gaming Report: the number of multiplatform games up 40% since 2021, in-app advertising revenue up 26.7% YoY, 62% of studios are using AI, and more &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240318/p45#a240318p45)
  - [Save on Weatherstripping Today and Save on Energy All Year     - CNET](https://www.cnet.com/deals/save-on-weatherstripping-today-and-save-on-energy-all-year/#ftag=CAD590a51e)
- - [How to use Collaborative Playlists for Apple Music](https://appleinsider.com/inside/apple-music/tips/how-to-use-collaborative-playlists-for-apple-music?utm_medium=rss)
- - [Google promotes Liz Reid to Head of Search and names Cheenu Venkatachary as the lead of Search quality and ranking, among other changes to its Search team &lpar;Barry Schwartz/Search Engine Land&rpar;](http://www.techmeme.com/240318/p44#a240318p44)<!-- TECH:END -->
+ - [How to use Collaborative Playlists for Apple Music](https://appleinsider.com/inside/apple-music/tips/how-to-use-collaborative-playlists-for-apple-music?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

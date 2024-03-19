@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 17&#39;s display will be anti-reflective and more scratch-resistant](https://appleinsider.com/articles/24/03/19/iphone-17s-display-will-be-anti-reflective-and-more-scratch-resistant?utm_medium=rss)
+ - [Xiaomi reports Q4 revenue up 11% YoY to ~$10.2B, above ~$10.1B est., net income up 50% YoY to ~$653M, and plans to diversify its business by launching EVs &lpar;Bloomberg&rpar;](http://www.techmeme.com/240319/p8#a240319p8)
  - [What Happens When a Guy and His AI Girlfriend Go to Therapy](https://www.wired.com/story/annie-bot-sierra-greer-book-excerpt/)
  - [iVANKY FusionDock Max 1 review: Twice the Thunderbolt bandwidth, twice the price](https://appleinsider.com/articles/24/03/19/ivanky-fusiondock-max-1-review-twice-the-thunderbolt-bandwidth-twice-the-price?utm_medium=rss)
- - [Sources: senior DOJ officials plan to hold closed-door Senate briefings on March 19 and 20 to advance a TikTok divestiture, as opposed to an outright US ban &lpar;Bloomberg&rpar;](http://www.techmeme.com/240319/p7#a240319p7)
- - [On the first day of his trial, US prosecutors portray Mike Lynch as &quot;a controlling, dominating, intimidating boss&quot; and &quot;driving force behind [a] massive fraud&quot; &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/240319/p6#a240319p6)
- - [A look at Playtron, which raised a $10M seed to build a Linux-based, platform-agnostic gaming OS to replace Windows or SteamOS, starting with handheld consoles &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240319/p5#a240319p5)<!-- TECH:END -->
+ - [Sources: senior DOJ officials plan to hold closed-door Senate briefings on March 19 and 20 to advance a TikTok divestiture, as opposed to an outright US ban &lpar;Bloomberg&rpar;](http://www.techmeme.com/240319/p7#a240319p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

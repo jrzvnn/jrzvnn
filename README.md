@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Transposition](http://9gag.com/gag/a87dWMV)
  - 😝 [It would&#39;ve made sense](http://9gag.com/gag/avy2gDn)
- - 💣 [Entire Dodgers dugout watch ceremonial 1st pitch](http://9gag.com/gag/amoq0Z2)
- - 😝 [Get the f*ck up, Swede!](http://9gag.com/gag/aqy4mvp)
+ - 😝 [And the best parent award goes to](http://9gag.com/gag/adBypVB)
+ - 💣 [Who the Hell is JEFF?](http://9gag.com/gag/aqy4NXj)
+ - 😝 [Share your oldest crush here with all... This is mine](http://9gag.com/gag/a5Qp73o)
  - 👉 [\ud83c\udf81Gaming Monitor Giveaway\ud83c\udf81 AORUS Infinity, an epic realm where AI meets play, awaits your exploration. Can you tell where it is located? Follow the rules below to make your guess for a chance to take home the AORUS CO49DQ Gaming Monitor!](http://9gag.com/gag/aQz6nj7)<!-- MEMES:END -->
 
 ---

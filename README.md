@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [` Think I got a stone bladder. `The stone:](http://9gag.com/gag/a5QpdNr)
- - 😝 [And the best parent award goes to](http://9gag.com/gag/adBypVB)
- - 💣 [Don&#39;t rob stores, especially ones owned by asians.](http://9gag.com/gag/ajPQn1w)
- - 😝 [Lgbtq+ people are going crazy already about this movie.](http://9gag.com/gag/apRKBDM)
+ - 😝 [Transposition](http://9gag.com/gag/a87dWMV)
+ - 😝 [Don&#39;t rob stores, especially ones owned by asians.](http://9gag.com/gag/ajPQn1w)
+ - 💣 [On Muscovy you can&#39;t put a mark in another cell!&rpar;&rpar;&rpar;](http://9gag.com/gag/a6Zr7Lb)
+ - 😝 [German police take out the trash](http://9gag.com/gag/aoym0Ze)
  - 👉 [\ud83c\udf81Gaming Monitor Giveaway\ud83c\udf81 AORUS Infinity, an epic realm where AI meets play, awaits your exploration. Can you tell where it is located? Follow the rules below to make your guess for a chance to take home the AORUS CO49DQ Gaming Monitor!](http://9gag.com/gag/aQz6nj7)<!-- MEMES:END -->
 
 ---

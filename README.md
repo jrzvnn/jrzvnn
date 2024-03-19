@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple gradually releases new firmware for the AirTag](https://appleinsider.com/articles/24/03/19/apple-gradually-releases-new-firmware-for-the-airtag?utm_medium=rss)
+ - [The 35 Best Shows on Hulu Right Now](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
  - [After losing two complaints before the US ITC, Apple steps up lobbying to help rewrite ITC rules, asking for public interest to be considered before import bans &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/240319/p26#a240319p26)
  - [Ninja Thirsti Drink System     - CNET](https://www.cnet.com/home/kitchen-and-household/ninja-thirsti-drink-system-dpnl/#ftag=CAD590a51e)
- - [Best Headsets for Working From Home in 2024     - CNET](https://www.cnet.com/tech/mobile/best-headphones-for-work-at-home/#ftag=CAD590a51e)
- - [Ninja Electric Smoker &amp; AirFry Grill     - CNET](https://www.cnet.com/home/kitchen-and-household/ninja-electric-smoker-airfry-grill-dpnl/#ftag=CAD590a51e)
- - [Best Apple Watch Deals: Save Up to $90 on the Series 9, Ultra, SE and More     - CNET](https://www.cnet.com/deals/best-apple-watch-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Headsets for Working From Home in 2024     - CNET](https://www.cnet.com/tech/mobile/best-headphones-for-work-at-home/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

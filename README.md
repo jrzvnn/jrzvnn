@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He said WHAT???](http://9gag.com/gag/an7e13E)
+ - 😝 [Pretty fly for a white guy](http://9gag.com/gag/aMVe82P)
  - 😝 [On Muscovy you can&#39;t put a mark in another cell!&rpar;&rpar;&rpar;](http://9gag.com/gag/a6Zr7Lb)
  - 💣 [NO REFUNDS](http://9gag.com/gag/an7eNyB)
- - 😝 [At long last\u2026](http://9gag.com/gag/a1mpXR8)
- - 👉 [Entire Dodgers dugout watch ceremonial 1st pitch](http://9gag.com/gag/amoq0Z2)<!-- MEMES:END -->
+ - 😝 [One destroys me in seconds. The other one does too](http://9gag.com/gag/a34vjLN)
+ - 👉 [Rorschach](http://9gag.com/gag/a34vqPe)<!-- MEMES:END -->
 
 ---
 

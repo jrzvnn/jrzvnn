@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [For once, a useful video from other social platform](http://9gag.com/gag/a87dMYV)
- - 😝 [And I love it](http://9gag.com/gag/aLn629g)
- - 💣 [Dad of the year..](http://9gag.com/gag/an7eBQ0)
+ - 😝 [That&#39;s talent](http://9gag.com/gag/apRKvQW)
+ - 😝 [Entire Dodgers dugout watch ceremonial 1st pitch](http://9gag.com/gag/amoq0Z2)
+ - 💣 [Goddamn, how&#39;s 100k usd is not enough](http://9gag.com/gag/avy2PV5)
  - 😝 [\ud83c\udf81Gaming Monitor Giveaway\ud83c\udf81 AORUS Infinity, an epic realm where AI meets play, awaits your exploration. Can you tell where it is located? Follow the rules below to make your guess for a chance to take home the AORUS CO49DQ Gaming Monitor!](http://9gag.com/gag/aQz6nj7)
- - 👉 [Please learn!](http://9gag.com/gag/aE0dz0M)<!-- MEMES:END -->
+ - 👉 [On Muscovy you can&#39;t put a mark in another cell!&rpar;&rpar;&rpar;](http://9gag.com/gag/a6Zr7Lb)<!-- MEMES:END -->
 
 ---
 

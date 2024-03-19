@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft says Mustafa Suleyman and Kar&amp;eacute;n Simonyan are joining to form Microsoft AI, focused on Copilot and other consumer AI products; Suleyman will be CEO &lpar;The Official Microsoft Blog&rpar;](http://www.techmeme.com/240319/p22#a240319p22)
- - [In an interview, Jensen Huang estimates Nvidia&#39;s GB200 Blackwell chip could cost $30,000 to $40,000, and R&amp;D budget for the processor totaled around $10B &lpar;Alex Koller/CNBC&rpar;](http://www.techmeme.com/240319/p21#a240319p21)
- - [Inflection AI says co-founder Kar&amp;eacute;n Simonyan will join Mustafa Suleyman at Microsoft AI, names Sean White as CEO, and plans to host Inflection-2.5 on Azure &lpar;Inflection&rpar;](http://www.techmeme.com/240319/p20#a240319p20)
- - [Hackintosh enthusiasts worry that the end is near](https://www.theverge.com/2024/3/19/24105829/hackintosh-almost-dead-macos-sonoma-drivers)
- - [Google DeepMind debuts TacticAI, a prototype AI soccer tactician built alongside Premier League club Liverpool, using geometric deep learning on 7K corner kicks &lpar;Michael Peel/Financial Times&rpar;](http://www.techmeme.com/240319/p19#a240319p19)<!-- TECH:END -->
+ - [Flash deals: Apple Watch Series 9 drops to $299 at Best Buy](https://appleinsider.com/articles/24/03/19/flash-deals-apple-watch-series-9-drops-to-299-at-best-buy?utm_medium=rss)
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+ - [The SEC says Genesis Global Capital agreed to pay a $21M civil penalty as part of a settlement over charges of offering unregistered securities via Gemini Earn &lpar;Adam James/The Block&rpar;](http://www.techmeme.com/240319/p23#a240319p23)
+ - [Lego’s 3,745-piece D&amp;D set comes with its own playable adventure](https://www.theverge.com/2024/3/19/24105862/lego-dungeons-and-dragons-pictures-price-release-date)
+ - [Microsoft says Mustafa Suleyman and Kar&amp;eacute;n Simonyan are joining to form Microsoft AI, focused on Copilot and other consumer AI products; Suleyman will be CEO &lpar;Satya Nadella/The Official Microsoft Blog&rpar;](http://www.techmeme.com/240319/p22#a240319p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

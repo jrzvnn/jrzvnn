@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [NO REFUNDS](http://9gag.com/gag/an7eNyB)
- - 😝 [German police take out the trash](http://9gag.com/gag/aoym0Ze)
- - 💣 [One destroys me in seconds. The other one does too](http://9gag.com/gag/a34vjLN)
- - 😝 [Ooof...That was more shocking than she thought.](http://9gag.com/gag/aMVewAG)
+ - 😝 [At long last\u2026](http://9gag.com/gag/a1mpXR8)
+ - 😝 [He said WHAT???](http://9gag.com/gag/an7e13E)
+ - 💣 [If anyone ever wonders why every mechanic everywhere hates engineers\u2026.I submit exibit A:](http://9gag.com/gag/ae9K0AO)
+ - 😝 [Entire Dodgers dugout watch ceremonial 1st pitch](http://9gag.com/gag/amoq0Z2)
  - 👉 [That&#39;s talent](http://9gag.com/gag/apRKvQW)<!-- MEMES:END -->
 
 ---

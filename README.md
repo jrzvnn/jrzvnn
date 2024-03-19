@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ethiopia&#39;s central bank says &quot;a glitch&quot; let Commercial Bank customers withdraw more cash than was in the account for hours; local media says $40M+ was withdrawn &lpar;Kalkidan Yibeltal/BBC&rpar;](http://www.techmeme.com/240319/p13#a240319p13)
+ - [New macOS Sonoma 14.4 bug kills file versions in iCloud Drive](https://appleinsider.com/articles/24/03/19/new-macos-sonoma-144-bug-kills-file-versions-in-icloud-drive?utm_medium=rss)
+ - [Amazon&#39;s First &#39;Big Spring Sale&#39; Kicks Off Tomorrow, but These Deals Are Already Live     - CNET](https://www.cnet.com/deals/amazons-first-big-spring-sale-kicks-off-tomorrow-but-these-deals-are-already-live/#ftag=CAD590a51e)
  - [iPhone 16 Pro: what to expect from Apple&#39;s fall 2024 flagship phone](https://appleinsider.com/articles/24/03/19/iphone-16-pro-what-to-expect-from-apples-fall-2024-flagship-phone?utm_medium=rss)
- - [Source: Ant CEO and Chair Eric Jing says Han Xinyi will become Ant Group president and some units plan to set up their own boards to operate more independently &lpar;Casey Hall/Reuters&rpar;](http://www.techmeme.com/240319/p12#a240319p12)
- - [The Best Instax Cameras and Printers &lpar;2024&rpar;: Film Types, Tips, and More](https://www.wired.com/story/best-instax-cameras-and-printers/)
- - [Nuclear weapons in space are bad news for the entire planet](https://www.theverge.com/2024/3/19/24104979/nuclear-weapons-space-russia-putin-satellite-debris-orbit)
- - [Filing: Reddit says Nokia accused the company of infringing some of its patents, and is evaluating Nokia&#39;s claims, ahead of its planned IPO this week &lpar;Lynn Doan/Bloomberg&rpar;](http://www.techmeme.com/240319/p11#a240319p11)<!-- TECH:END -->
+ - [Source: Ant CEO and Chair Eric Jing says Han Xinyi will become Ant Group president and some units plan to set up their own boards to operate more independently &lpar;Casey Hall/Reuters&rpar;](http://www.techmeme.com/240319/p12#a240319p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

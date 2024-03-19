@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft says Mustafa Suleyman and Kar&amp;eacute;n Simonyan are joining to form Microsoft AI, focused on Copilot and other consumer AI products; Suleyman will be CEO &lpar;The Official Microsoft Blog&rpar;](http://www.techmeme.com/240319/p22#a240319p22)
+ - [In an interview, Jensen Huang estimates Nvidia&#39;s GB200 Blackwell chip could cost $30,000 to $40,000, and R&amp;D budget for the processor totaled around $10B &lpar;Alex Koller/CNBC&rpar;](http://www.techmeme.com/240319/p21#a240319p21)
  - [Inflection AI says co-founder Kar&amp;eacute;n Simonyan will join Mustafa Suleyman at Microsoft AI, names Sean White as CEO, and plans to host Inflection-2.5 on Azure &lpar;Inflection&rpar;](http://www.techmeme.com/240319/p20#a240319p20)
  - [Hackintosh enthusiasts worry that the end is near](https://www.theverge.com/2024/3/19/24105829/hackintosh-almost-dead-macos-sonoma-drivers)
- - [Google DeepMind debuts TacticAI, a prototype AI soccer tactician built alongside Premier League club Liverpool, using geometric deep learning on 7K corner kicks &lpar;Michael Peel/Financial Times&rpar;](http://www.techmeme.com/240319/p19#a240319p19)
- - [Microsoft hires DeepMind co-founder Mustafa Suleyman to run consumer AI, reporting to Satya Nadella, and brings on many staff from his Inflection AI startup &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/240319/p18#a240319p18)
- - [The UK sentences a man to 66 weeks in prison for cyberflashing, under the Online Safety Act, the first such conviction since the OSA took effect on January 31 &lpar;Jamie Grierson/The Guardian&rpar;](http://www.techmeme.com/240319/p17#a240319p17)<!-- TECH:END -->
+ - [Google DeepMind debuts TacticAI, a prototype AI soccer tactician built alongside Premier League club Liverpool, using geometric deep learning on 7K corner kicks &lpar;Michael Peel/Financial Times&rpar;](http://www.techmeme.com/240319/p19#a240319p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

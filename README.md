@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft hires DeepMind co-founder Mustafa Suleyman to run its consumer AI business, reporting to Satya Nadella, and hires most of the staff from Inflection AI &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/240319/p18#a240319p18)
- - [The UK sentences a man to 66 weeks in prison over cyberflashing under the Online Safety Act; he was the first conviction after the OSA took effect on January 31 &lpar;Jamie Grierson/The Guardian&rpar;](http://www.techmeme.com/240319/p17#a240319p17)
- - [Ubisoft let me actually speak with its new AI-powered video game NPCs](https://www.theverge.com/2024/3/19/24105748/nvidia-neo-npc-prototypes-gdc-2024)
- - [Google DeepMind&#39;s New AI Model Can Help Soccer Teams Take the Perfect Corner](https://www.wired.com/story/deepmind-is-helping-soccer-teams-take-the-perfect-corner/)
- - [9 Best Electric Toothbrushes &lpar;2024&rpar;: Cheap, Smart, Kids, and Alternatives](https://www.wired.com/gallery/best-electric-toothbrushes/)<!-- TECH:END -->
+ - [Inflection AI says co-founder Kar&amp;eacute;n Simonyan will join Mustafa Suleyman at Microsoft AI, names Sean White as CEO, and plans to host Inflection-2.5 on Azure &lpar;Inflection&rpar;](http://www.techmeme.com/240319/p20#a240319p20)
+ - [Hackintosh enthusiasts worry that the end is near](https://www.theverge.com/2024/3/19/24105829/hackintosh-almost-dead-macos-sonoma-drivers)
+ - [Google DeepMind debuts TacticAI, a prototype AI soccer tactician built alongside Premier League club Liverpool, using geometric deep learning on 7K corner kicks &lpar;Michael Peel/Financial Times&rpar;](http://www.techmeme.com/240319/p19#a240319p19)
+ - [Microsoft hires DeepMind co-founder Mustafa Suleyman to run consumer AI, reporting to Satya Nadella, and brings on many staff from his Inflection AI startup &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/240319/p18#a240319p18)
+ - [The UK sentences a man to 66 weeks in prison for cyberflashing, under the Online Safety Act, the first such conviction since the OSA took effect on January 31 &lpar;Jamie Grierson/The Guardian&rpar;](http://www.techmeme.com/240319/p17#a240319p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -169,8 +169,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Segway brings a sub-$1,000 smart robot mower to the US](https://www.theverge.com/2024/3/19/24105936/segway-navimow-i-robot-mower-price-release-date-specs)
  - [Apple&#39;s MM1 AI Model Shows a Sleeping Giant Is Waking Up](https://www.wired.com/story/apples-mm1-ai-model-sleeping-giant-waking-up/)
  - [EU antitrust chief ready to get on Apple&#39;s case about fees and safety warnings](https://appleinsider.com/articles/24/03/19/eu-antitrust-chief-ready-to-get-on-apples-case-about-fees-and-safety-warnings?utm_medium=rss)
- - [IPhone 13 Deals: Save With Trade-In Value or Get It for Free With a New Line     - CNET](https://www.cnet.com/deals/best-iphone-13-deals/#ftag=CAD590a51e)
- - [Tech Experts Share Surprising Feelings About Home Internet Options     - CNET](https://www.cnet.com/home/internet/tech-experts-share-surprising-feelings-about-home-internet-options/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Saudi Arabia&#39;s Public Investment Fund discussed a potential partnership with a16z and others to create a fund of about $40B to invest in AI in H2 2024 &lpar;New York Times&rpar;](http://www.techmeme.com/240319/p28#a240319p28)
+ - [Inflection won&#39;t shut down Pi but will no longer focus on its consumer business, instead working with commercial customers to create, test, and tune AI systems &lpar;New York Times&rpar;](http://www.techmeme.com/240319/p27#a240319p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

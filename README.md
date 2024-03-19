@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who the Hell is JEFF?](http://9gag.com/gag/aqy4NXj)
- - 😝 [A man only seeks one thing.](http://9gag.com/gag/a9yjWqZ)
- - 💣 [Vacuum goes brrr](http://9gag.com/gag/azx7Ebz)
- - 😝 [Nice family business you got here](http://9gag.com/gag/awyN5VB)
- - 👉 [NO REFUNDS](http://9gag.com/gag/an7eNyB)<!-- MEMES:END -->
+ - 😝 [At long last\u2026](http://9gag.com/gag/a1mpXR8)
+ - 😝 [Entire Dodgers dugout watch ceremonial 1st pitch](http://9gag.com/gag/amoq0Z2)
+ - 💣 [Who the Hell is JEFF?](http://9gag.com/gag/aqy4NXj)
+ - 😝 [Vacuum goes brrr](http://9gag.com/gag/azx7Ebz)
+ - 👉 [One destroys me in seconds. The other one does too](http://9gag.com/gag/a34vjLN)<!-- MEMES:END -->
 
 ---
 

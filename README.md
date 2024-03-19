@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s talent](http://9gag.com/gag/apRKvQW)
+ - 😝 [Who the Hell is JEFF?](http://9gag.com/gag/aqy4NXj)
  - 😝 [Entire Dodgers dugout watch ceremonial 1st pitch](http://9gag.com/gag/amoq0Z2)
- - 💣 [Goddamn, how&#39;s 100k usd is not enough](http://9gag.com/gag/avy2PV5)
+ - 💣 [It would&#39;ve made sense](http://9gag.com/gag/avy2gDn)
  - 😝 [\ud83c\udf81Gaming Monitor Giveaway\ud83c\udf81 AORUS Infinity, an epic realm where AI meets play, awaits your exploration. Can you tell where it is located? Follow the rules below to make your guess for a chance to take home the AORUS CO49DQ Gaming Monitor!](http://9gag.com/gag/aQz6nj7)
- - 👉 [On Muscovy you can&#39;t put a mark in another cell!&rpar;&rpar;&rpar;](http://9gag.com/gag/a6Zr7Lb)<!-- MEMES:END -->
+ - 👉 [That&#39;s talent](http://9gag.com/gag/apRKvQW)<!-- MEMES:END -->
 
 ---
 

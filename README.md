@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the US accounted for 60% of Temu&#39;s GMV in 2023, but the company hopes to reduce the share to as low as 30% by 2025, as US anti-China hostility grows &lpar;Jing Yang/The Information&rpar;](http://www.techmeme.com/240319/p25#a240319p25)
+ - [iPhone 16 Pro: what to expect from Apple&#39;s fall 2024 flagship phone](https://appleinsider.com/articles/24/03/19/iphone-16-pro-what-to-expect-from-apples-fall-2024-flagship-phone?utm_medium=rss)
  - [Six-Word Sci-Fi: Stories Written by You](https://www.wired.com/story/six-word-sci-fi/)
  - [Google DeepMind co-founder joins Microsoft as CEO of its new AI division](https://www.theverge.com/2024/3/19/24105900/google-deepmind-microsoft-mustafa-suleyman-ai-ceo)
- - [Universal Remotes Up to 20% Off Before Amazon&#39;s Big Spring Sale     - CNET](https://www.cnet.com/tech/home-entertainment/universal-remotes-up-to-20-off-before-amazons-big-spring-sale/#ftag=CAD590a51e)
- - [Casper Snow Max Hybrid Mattress Review 2024: A Premium Bed Tested by Experts     - CNET](https://www.cnet.com/health/sleep/casper-snow-max-hybrid-mattress-review/#ftag=CAD590a51e)
- - [Hades 2 Is Coming, but You Can Play the Original on Netflix Games Now     - CNET](https://www.cnet.com/tech/gaming/hades-2-is-coming-but-you-can-play-the-original-on-netflix-games-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Universal Remotes Up to 20% Off Before Amazon&#39;s Big Spring Sale     - CNET](https://www.cnet.com/tech/home-entertainment/universal-remotes-up-to-20-off-before-amazons-big-spring-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Billions must game](http://9gag.com/gag/a34vjX5)
- - 😝 [Dogs as medieval character](http://9gag.com/gag/ae9K69B)
- - 💣 [At long last\u2026](http://9gag.com/gag/a1mpXR8)
- - 😝 [South african diversity](http://9gag.com/gag/adByjOB)
- - 👉 [Task failed successfully](http://9gag.com/gag/a87d4XY)<!-- MEMES:END -->
+ - 😝 [Who the Hell is JEFF?](http://9gag.com/gag/aqy4NXj)
+ - 😝 [A man only seeks one thing.](http://9gag.com/gag/a9yjWqZ)
+ - 💣 [Vacuum goes brrr](http://9gag.com/gag/azx7Ebz)
+ - 😝 [Nice family business you got here](http://9gag.com/gag/awyN5VB)
+ - 👉 [NO REFUNDS](http://9gag.com/gag/an7eNyB)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sell Your Old TV: 7 Easy Steps to Maximize Your Profit     - CNET](https://www.cnet.com/tech/home-entertainment/sell-your-old-tv-7-easy-steps-that-maximize-your-profit/#ftag=CAD590a51e)
  - [The Connectivity Standards Alliance launches a cybersecurity standard that aims to provide a globally recognized security certification for consumer IoT devices &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/240318/p41#a240318p41)
+ - [Best Peloton Alternatives for 2024     - CNET](https://www.cnet.com/health/fitness/best-peloton-alternative/#ftag=CAD590a51e)
  - [Nvidia announces a software framework built with its Omniverse Cloud APIs to let enterprise developers stream interactive 3D experiences into Apple Vision Pro &lpar;Wesley Hilliard/AppleInsider&rpar;](http://www.techmeme.com/240318/p40#a240318p40)
- - [Best Power Bank for iPhone for 2024     - CNET](https://www.cnet.com/tech/mobile/best-power-bank-for-iphone/#ftag=CAD590a51e)
- - [Best Wi-Fi 6 Router of 2024     - CNET](https://www.cnet.com/home/internet/best-wi-fi-6-routers/#ftag=CAD590a51e)
- - [We’re one step closer to a global cybersecurity standard for smart home devices](https://www.theverge.com/2024/3/18/24104906/csa-iot-device-security-specification-product-security-verification-mark)<!-- TECH:END -->
+ - [Best Power Bank for iPhone for 2024     - CNET](https://www.cnet.com/tech/mobile/best-power-bank-for-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

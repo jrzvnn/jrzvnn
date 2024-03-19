@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What ?](http://9gag.com/gag/aLn6Q9z)
- - 😝 [Lgbtq+ people are going crazy already about this movie.](http://9gag.com/gag/apRKBDM)
- - 💣 [German police take out the trash](http://9gag.com/gag/aoym0Ze)
+ - 😝 [Stranger shows up at a woman\u2019s house with her daughter&#39;s missing wallet.](http://9gag.com/gag/azx7LWN)
+ - 😝 [Thank the founding fathers for the 1st amendment](http://9gag.com/gag/aW4BWD6)
+ - 💣 [And the best parent award goes to](http://9gag.com/gag/adBypVB)
  - 😝 [\ud83c\udf81Gaming Monitor Giveaway\ud83c\udf81 AORUS Infinity, an epic realm where AI meets play, awaits your exploration. Can you tell where it is located? Follow the rules below to make your guess for a chance to take home the AORUS CO49DQ Gaming Monitor!](http://9gag.com/gag/aQz6nj7)
- - 👉 [And the best parent award goes to](http://9gag.com/gag/adBypVB)<!-- MEMES:END -->
+ - 👉 [Here they are](http://9gag.com/gag/aD2RG2N)<!-- MEMES:END -->
 
 ---
 

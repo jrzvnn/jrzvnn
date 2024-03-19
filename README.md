@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Overwatch 2 unlocks all of its heroes](https://www.theverge.com/2024/3/19/24106082/overwatch-2-unlocks-all-of-its-heroes)
+ - [Source: Google&#39;s Pixel 8a will have a 6.1&quot; 120Hz OLED display, Tensor G3 chip, DisplayPort output support, and the same camera sensor as the Pixel 7a &lpar;Kamila Wojciechowska/Android Authority&rpar;](http://www.techmeme.com/240319/p29#a240319p29)
  - [Segway brings a sub-$1,000 smart robot mower to the US](https://www.theverge.com/2024/3/19/24105936/segway-navimow-i-robot-mower-price-release-date-specs)
  - [Apple&#39;s MM1 AI Model Shows a Sleeping Giant Is Waking Up](https://www.wired.com/story/apples-mm1-ai-model-sleeping-giant-waking-up/)
- - [EU antitrust chief ready to get on Apple&#39;s case about fees and safety warnings](https://appleinsider.com/articles/24/03/19/eu-antitrust-chief-ready-to-get-on-apples-case-about-fees-and-safety-warnings?utm_medium=rss)
- - [Sources: Saudi Arabia&#39;s Public Investment Fund discussed a potential partnership with a16z and others to create a fund of about $40B to invest in AI in H2 2024 &lpar;New York Times&rpar;](http://www.techmeme.com/240319/p28#a240319p28)
- - [Inflection won&#39;t shut down Pi but will no longer focus on its consumer business, instead working with commercial customers to create, test, and tune AI systems &lpar;New York Times&rpar;](http://www.techmeme.com/240319/p27#a240319p27)<!-- TECH:END -->
+ - [EU antitrust chief ready to get on Apple&#39;s case about fees and safety warnings](https://appleinsider.com/articles/24/03/19/eu-antitrust-chief-ready-to-get-on-apples-case-about-fees-and-safety-warnings?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

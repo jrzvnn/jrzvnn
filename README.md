@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The moment you realize that what you did was not a good idea](http://9gag.com/gag/aBy9xwZ)
- - 😝 [Showing a scammer his real face](http://9gag.com/gag/abA3znb)
- - 💣 [Always the victim](http://9gag.com/gag/aGyKe30)
  - 😝 [Salvador Dali creates amazing foil sculpture in seconds &lpar; 1967&rpar;](http://9gag.com/gag/awyNXA8)
- - 👉 [No title](http://9gag.com/gag/ayNExgr)<!-- MEMES:END -->
+ - 😝 [NYC homeowner is arrested and forced to hand over her home to a squatter.](http://9gag.com/gag/aAyBdg2)
+ - 💣 [The moment you realize that what you did was not a good idea](http://9gag.com/gag/aBy9xwZ)
+ - 😝 [Share your oldest crush here with all... This is mine](http://9gag.com/gag/a5Qp73o)
+ - 👉 [Classic 2011](http://9gag.com/gag/ae9K6Bj)<!-- MEMES:END -->
 
 ---
 

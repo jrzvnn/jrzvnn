@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s talent](http://9gag.com/gag/apRKvQW)
+ - 😝 [&lpar; . &rpar;&lpar; . &rpar;](http://9gag.com/gag/amoq29X)
  - 😝 [One destroys me in seconds. The other one does too](http://9gag.com/gag/a34vjLN)
- - 💣 [Share your oldest crush here with all... This is mine](http://9gag.com/gag/a5Qp73o)
+ - 💣 [He said WHAT???](http://9gag.com/gag/an7e13E)
  - 😝 [His gf is on the couch](http://9gag.com/gag/awyNxgr)
- - 👉 [Classic 2011](http://9gag.com/gag/ae9K6Bj)<!-- MEMES:END -->
+ - 👉 [Now it&#39;s their Rules](http://9gag.com/gag/aKG4VyQ)<!-- MEMES:END -->
 
 ---
 

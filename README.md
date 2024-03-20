@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [India appoints the government-run Press Information Bureau&#39;s fact checking unit to undertake fact checking for government-related social media content &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240320/p25#a240320p25)
+ - [Sources: EU Commission rules, set to be adopted as soon as next week, will fine X, TikTok, and other big platforms over lax election AI content moderation &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240320/p24#a240320p24)
  - [New iPad Pro may have matte &amp; glossy screen options](https://appleinsider.com/articles/24/03/20/new-ipad-pro-may-have-matte-glossy-screen-options?utm_medium=rss)
- - [The World&#39;s E-Waste Has Reached a Crisis Point](https://www.wired.com/story/e-waste-recycling-cant-keep-up-precious-metals/)
- - [US-listed PDD, which runs Temu and Pinduoduo, reports Q4 revenue up 123% YoY to ~$12.5B and operating profit up 146% YoY to ~$3.2B, boosted by merchant fees &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/240320/p23#a240320p23)
- - [A review of OpenAI&#39;s GPT Store finds many GPTs that offer bizarre services, potentially infringe on copyright, impersonate people, jailbreak ChatGPT, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240320/p22#a240320p22)
- - [50 Years Later, Dungeons &amp; Dragons Is Undeniably Cool     - CNET](https://www.cnet.com/tech/gaming/50-years-later-dungeons-dragons-is-undeniably-cool/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon&#39;s Blink Outdoor 4 Cam Is One of the Easiest Setups We&#39;ve Found     - CNET](https://www.cnet.com/deals/amazons-blink-outdoor-4-cam-is-one-of-the-easiest-setups-weve-found/#ftag=CAD590a51e)
+ - [The World&#39;s E-Waste Has Reached a Crisis Point](https://www.wired.com/story/e-waste-recycling-cant-keep-up-precious-metals/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

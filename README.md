@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice family business you got here](http://9gag.com/gag/awyN5VB)
- - 😝 [&lpar; . &rpar;&lpar; . &rpar;](http://9gag.com/gag/amoq29X)
- - 💣 [Now it&#39;s their Rules](http://9gag.com/gag/aKG4VyQ)
- - 😝 [Source \ud83d\ude00](http://9gag.com/gag/a87d4WO)
- - 👉 [NYC homeowner is arrested and forced to hand over her home to a squatter.](http://9gag.com/gag/aAyBdg2)<!-- MEMES:END -->
+ - 😝 [The moment you realize that what you did was not a good idea](http://9gag.com/gag/aBy9xwZ)
+ - 😝 [Always the victim](http://9gag.com/gag/aGyKe30)
+ - 💣 [Showing a scammer his real face](http://9gag.com/gag/abA3znb)
+ - 😝 [You&#39;re gonna make me play it again.](http://9gag.com/gag/aPA690n)
+ - 👉 [No title](http://9gag.com/gag/ayNExgr)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Showing a scammer his real face](http://9gag.com/gag/abA3znb)
- - 😝 [Source \ud83d\ude00](http://9gag.com/gag/a87d4WO)
- - 💣 [His gf is on the couch](http://9gag.com/gag/awyNxgr)
+ - 😝 [Nice family business you got here](http://9gag.com/gag/awyN5VB)
  - 😝 [&lpar; . &rpar;&lpar; . &rpar;](http://9gag.com/gag/amoq29X)
- - 👉 [Classic 2011](http://9gag.com/gag/ae9K6Bj)<!-- MEMES:END -->
+ - 💣 [His gf is on the couch](http://9gag.com/gag/awyNxgr)
+ - 😝 [NYC homeowner is arrested and forced to hand over her home to a squatter.](http://9gag.com/gag/aAyBdg2)
+ - 👉 [Share your oldest crush here with all... This is mine](http://9gag.com/gag/a5Qp73o)<!-- MEMES:END -->
 
 ---
 

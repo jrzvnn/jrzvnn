@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [NO REFUNDS](http://9gag.com/gag/an7eNyB)
- - 😝 [And the best parent award goes to](http://9gag.com/gag/adBypVB)
- - 💣 [He said WHAT???](http://9gag.com/gag/an7e13E)
+ - 😝 [How they managed](http://9gag.com/gag/a0evdKz)
+ - 😝 [Thank you for flying with DEI Airlines](http://9gag.com/gag/ary1Od0)
+ - 💣 [A man only seeks one thing.](http://9gag.com/gag/a9yjWqZ)
  - 😝 [Share your oldest crush here with all... This is mine](http://9gag.com/gag/a5Qp73o)
- - 👉 [At long last\u2026](http://9gag.com/gag/a1mpXR8)<!-- MEMES:END -->
+ - 👉 [He said WHAT???](http://9gag.com/gag/an7e13E)<!-- MEMES:END -->
 
 ---
 

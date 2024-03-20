@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woke French woman tries to argue with an Irish dude](http://9gag.com/gag/aD2RGLd)
- - 😝 [South african diversity](http://9gag.com/gag/adByjOB)
- - 💣 [Cultured](http://9gag.com/gag/amoqr6V)
- - 😝 [Justice Served!!](http://9gag.com/gag/a87dp4e)
- - 👉 [A man only seeks one thing.](http://9gag.com/gag/a9yjWqZ)<!-- MEMES:END -->
+ - 😝 [He said WHAT???](http://9gag.com/gag/an7e13E)
+ - 😝 [That&#39;s talent](http://9gag.com/gag/apRKvQW)
+ - 💣 [Nice family business you got here](http://9gag.com/gag/awyN5VB)
+ - 😝 [At long last\u2026](http://9gag.com/gag/a1mpXR8)
+ - 👉 [One destroys me in seconds. The other one does too](http://9gag.com/gag/a34vjLN)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A commit in Ethereum Foundation&#39;s GitHub repository shows the foundation has received a voluntary and confidential enquiry from an unspecified state authority &lpar;Tim Copeland/The Block&rpar;](http://www.techmeme.com/240320/p30#a240320p30)
  - [Captain America and Black Panther face off in the first trailer for 1943: Rise of Hydra](https://www.theverge.com/24106470/1943-rise-of-hydra-marvel-game-trailer-amy-hennig)
  - [The Filmmaker Who Says AI Is Reparations](https://www.wired.com/story/willonius-hatcher-the-filmmaker-who-says-ai-is-reparations/)
  - [Amazon Big Spring Sale 2024: live coverage of the best deals on Apple, accessories &amp; more](https://appleinsider.com/articles/24/03/20/amazon-big-spring-sale-2024-live-coverage-of-the-best-deals-on-apple-accessories-more?utm_medium=rss)
- - [Here&#39;s Proof You Can Train an AI Model Without Slurping Copyrighted Content](https://www.wired.com/story/proof-you-can-train-ai-without-slurping-copyrighted-content/)
- - [State of Unreal 2024: all the news from Epic’s GDC showcase](https://www.theverge.com/2024/3/20/24106665/state-of-unreal-2024-epic-fortnite-ue5-gdc)<!-- TECH:END -->
+ - [Here&#39;s Proof You Can Train an AI Model Without Slurping Copyrighted Content](https://www.wired.com/story/proof-you-can-train-ai-without-slurping-copyrighted-content/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

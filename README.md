@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers say misconfigured Firebase instances exposed 125M+ users&#39; records, including plaintext passwords, email addresses, and messages, across 900 websites &lpar;Ionut Arghire/SecurityWeek&rpar;](http://www.techmeme.com/240319/p36#a240319p36)
  - [Inflection AI plans to license its technology to Microsoft; a source says investors in Inflection AI, which has raised more than $1.5B, will be made whole &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/240319/p35#a240319p35)
  - [Sources: Israeli cybersecurity company Cato Networks has hired underwriters for a US IPO as soon as early 2025; source: Cato is looking to raise more than $500M &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/240319/p34#a240319p34)
  - [Best Internet Providers in Rochester, Minnesota     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-rochester-mn/#ftag=CAD590a51e)
- - [In a brief demo, Meta shows how Threads could handle fediverse sharing, including waiting five minutes before sending a Threads post to the fediverse &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240319/p33#a240319p33)
- - [Cowboy’s first all-road electric bike is a gentle beast](https://www.theverge.com/24105614/cowboy-cross-all-road-electric-bike-price-specs)<!-- TECH:END -->
+ - [In a brief demo, Meta shows how Threads could handle fediverse sharing, including waiting five minutes before sending a Threads post to the fediverse &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240319/p33#a240319p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

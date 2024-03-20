@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Apple now has a good landing page to find manuals, specs, and downloads](https://appleinsider.com/articles/24/03/20/apple-now-has-a-good-landing-page-to-find-manuals-specs-and-downloads?utm_medium=rss)
- - [Apple isn’t living up to the letter or spirit of court order in Epic suit, Meta and Microsoft say](https://www.theverge.com/2024/3/20/24106838/apple-epic-anti-steering-developers-in-app-payments-meta-microsoft-match)
- - [Morph, an Ethereum Layer 2 network that uses a combination of optimistic and zero-knowledge rollup technologies, raised a $19M seed led by DragonFly Capital &lpar;Niamh Rowe/Fortune&rpar;](http://www.techmeme.com/240320/p31#a240320p31)
- - [Here are all the best tech deals from Amazon’s spring sale](https://www.theverge.com/2024/3/20/24105325/amazon-spring-sale-best-deals-prices)
- - [Fortnite players can now build their own Lego games](https://www.theverge.com/2024/3/20/24106477/lego-fortnite-user-created-games-epic)<!-- TECH:END -->
+ - [Parler&#39;s New Owners Swear This Time Will Be Different](https://www.wired.com/story/parler-app-store-free-speech-censorship/)
+ - [Microsoft and Meta accuse Apple of playing games with App Store rules](https://www.theverge.com/2024/3/20/24106838/apple-epic-anti-steering-developers-in-app-payments-meta-microsoft-match)
+ - [The Fed Isn&#39;t in a Rush to Help Mortgage Rates Fall     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-rate-predictions-march-fed-meeting/#ftag=CAD590a51e)
+ - [Morph, an Ethereum Layer 2 network that uses a combination of optimistic and zero-knowledge rollup technologies, raised a $19M seed led by DragonFly Capital &lpar;Niamh Rowe/Fortune&rpar;](http://www.techmeme.com/240320/p31#a240320p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

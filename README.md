@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fortnite players can now build their own Lego games](https://www.theverge.com/2024/3/20/24106477/lego-fortnite-user-created-games-epic)
+ - [YouTube TV’s multiview comes to iPhones and iPads in time for March Madness](https://www.theverge.com/2024/3/20/24106859/youtube-tv-multiview-now-available-ios-ipados)
  - [Epic is adding its hyperrealistic MetaHumans to Unreal Editor for Fortnite](https://www.theverge.com/2024/3/20/24106494/fortnite-unreal-editor-uefn-metahumans-fps)
  - [Best Mobile VPN of 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-mobile-vpn/#ftag=CAD590a51e)
- - [21 Best Deals From the Amazon Big Spring Sale: Phones, Chargers, and More](https://www.wired.com/story/amazon-big-spring-sale-2024/)
- - [Honeywell Thermostats Are Up to 40% Off for Amazon&#39;s Spring Sale     - CNET](https://www.cnet.com/deals/save-up-to-40-now-on-a-bunch-of-honeywell-thermostats/#ftag=CAD590a51e)
- - [&#39;3 Body Problem&#39; on Netflix: Release Time, Trailer and What to Know     - CNET](https://www.cnet.com/tech/services-and-software/3-body-problem-on-netflix-release-time-trailer-and-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [21 Best Deals From the Amazon Big Spring Sale: Phones, Chargers, and More](https://www.wired.com/story/amazon-big-spring-sale-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

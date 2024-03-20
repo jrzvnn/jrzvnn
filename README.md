@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Grab Apple&#39;s 16-inch MacBook Pro M2 for $1,999 &lpar;$500 off&rpar; while supplies last](https://appleinsider.com/articles/24/03/20/grab-apples-16-inch-macbook-pro-m2-for-1999-500-off-while-supplies-last?utm_medium=rss)
+ - [TapeACall is about to get a lot more expensive](https://www.theverge.com/2024/3/20/24106785/tapeacall-price-increase-bending-spoons-acquisition)
  - [House passes bill banning data brokers from selling personal data to foreign adversaries](https://www.theverge.com/2024/3/20/24106991/house-data-broker-foreign-adversaries-bill-passes)
  - [Micron reports Q2 revenue up 58% YoY to $5.82B, vs. $5.53B est., and forecasts Q3 revenue above estimates, buoyed by demand for AI hardware; MU jumps 11%+ &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/240320/p35#a240320p35)
- - [Why—and How—WIRED Is Covering Politics](https://www.wired.com/story/why-and-how-wired-is-covering-politics/)
- - [Epic and allies are complaining about Apple&#39;s US App Store fees, while they charge about the same](https://appleinsider.com/articles/24/03/20/epic-and-allies-are-complaining-about-apples-us-app-store-fees-while-they-charge-about-the-same?utm_medium=rss)
- - [Amazon&#39;s Big Spring Sale on Earbuds and Headphones: Save on Sony, Bose, Beats and More     - CNET](https://www.cnet.com/deals/best-headphone-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Why—and How—WIRED Is Covering Politics](https://www.wired.com/story/why-and-how-wired-is-covering-politics/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And the best parent award goes to](http://9gag.com/gag/adBypVB)
  - 😝 [NO REFUNDS](http://9gag.com/gag/an7eNyB)
- - 💣 [Share your oldest crush here with all... This is mine](http://9gag.com/gag/a5Qp73o)
+ - 😝 [Nice family business you got here](http://9gag.com/gag/awyN5VB)
+ - 💣 [That&#39;s talent](http://9gag.com/gag/apRKvQW)
  - 😝 [One destroys me in seconds. The other one does too](http://9gag.com/gag/a34vjLN)
- - 👉 [Nice family business you got here](http://9gag.com/gag/awyN5VB)<!-- MEMES:END -->
+ - 👉 [Share your oldest crush here with all... This is mine](http://9gag.com/gag/a5Qp73o)<!-- MEMES:END -->
 
 ---
 

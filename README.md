@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LG TV Lineup 2024: What to Look for This Year](https://www.wired.com/story/lg-tv-lineup-news-2024/)
+ - [Amazon Big Spring Sale 2024: live coverage of the best deals on Apple, accessories &amp; more](https://appleinsider.com/articles/24/03/20/amazon-big-spring-sale-2024-live-coverage-of-the-best-deals-on-apple-accessories-more?utm_medium=rss)
  - [An in-depth look at the 2017 &quot;Attention Is All You Need&quot; paper, now fundamental to LLMs, and profiles of the eight Google researchers who co-authored the paper &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/240320/p21#a240320p21)
  - [3 Best Smart Displays &lpar;2024&rpar;: Google Assistant and Amazon Alexa](https://www.wired.com/gallery/best-smart-displays/)
- - [The Evie Ring is cleverly designed but has some first-gen quirks](https://www.theverge.com/24105920/evie-ring-review-smart-ring-wearables)
- - [Toronto-based PocketHealth, which helps 775 health care providers exchange images covering 1.5M patients to cut costs, raised a $33M Series B led by Round13 &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240320/p20#a240320p20)
- - [SteamDB: after releasing its massive 1.6 update, Stardew Valley hit 146,159 concurrent players on Steam, a new record and above Palworld&#39;s stats this week &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240320/p19#a240320p19)<!-- TECH:END -->
+ - [Toronto-based PocketHealth, which helps 775 health care providers exchange images covering 1.5M patients to cut costs, raised a $33M Series B led by Round13 &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240320/p20#a240320p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

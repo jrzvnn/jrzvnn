@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US awards Intel $8.5B in CHIPS Act funding and $11B in loans to expand in Arizona, Ohio, New Mexico, and Oregon; Intel plans to spend $100B over five years &lpar;Financial Times&rpar;](http://www.techmeme.com/240320/p11#a240320p11)
+ - [France fines Google &amp;euro;250M for failing to broker deals with media outlets over content linking and using press content to train AI, after a &amp;euro;500M fine in 2021 &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/240320/p10#a240320p10)
  - [Amazon Big Spring Sale 2024: live coverage of the best deals on Apple, accessories &amp; more](https://appleinsider.com/articles/24/03/20/amazon-big-spring-sale-2024-live-coverage-of-the-best-deals-on-apple-accessories-more?utm_medium=rss)
  - [Glassdoor Wants to Know Your Real Name](https://www.wired.com/story/glassdoor-wants-to-know-your-real-name/)
- - [How Sweet Baby, a small video game narrative development company, became the focus of Gamergate 2.0, a harassment campaign against &quot;forced&quot; diversity in gaming &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/240320/p9#a240320p9)
- - [You Should Turn Off Journal Suggestions on Your iPhone. Here&#39;s Why     - CNET](https://www.cnet.com/tech/mobile/you-should-turn-off-journal-suggestions-on-your-iphone-heres-why/#ftag=CAD590a51e)
- - [20 Mother&#39;s Day Cards That Aren&#39;t Lame     - CNET](https://www.cnet.com/news/best-mothers-day-cards-to-buy-online/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How Sweet Baby, a small video game narrative development company, became the focus of Gamergate 2.0, a harassment campaign against &quot;forced&quot; diversity in gaming &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/240320/p9#a240320p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

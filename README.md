@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon Big Spring Sale 2024: live coverage of the best deals on Apple, accessories &amp; more](https://appleinsider.com/articles/24/03/20/amazon-big-spring-sale-2024-live-coverage-of-the-best-deals-on-apple-accessories-more?utm_medium=rss)
+ - [Glassdoor Wants to Know Your Real Name](https://www.wired.com/story/glassdoor-wants-to-know-your-real-name/)
  - [How Sweet Baby, a small video game narrative development company, became the focus of Gamergate 2.0, a harassment campaign against &quot;forced&quot; diversity in gaming &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/240320/p9#a240320p9)
  - [You Should Turn Off Journal Suggestions on Your iPhone. Here&#39;s Why     - CNET](https://www.cnet.com/tech/mobile/you-should-turn-off-journal-suggestions-on-your-iphone-heres-why/#ftag=CAD590a51e)
- - [20 Mother&#39;s Day Cards That Aren&#39;t Lame     - CNET](https://www.cnet.com/news/best-mothers-day-cards-to-buy-online/#ftag=CAD590a51e)
- - [Analysts warn that welcoming TikTok, Temu, and Shein to Ireland&#39;s low-tax jurisdiction could backfire, as the country tries to reduce reliance on US tech giants &lpar;Clothilde Goujard/Politico&rpar;](http://www.techmeme.com/240320/p8#a240320p8)
- - [Trend Micro researchers detail Earth Krahang, a China-linked APT campaign that is potentially linked to I-Soon and has breached 70 organizations in 23 countries &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240320/p7#a240320p7)<!-- TECH:END -->
+ - [20 Mother&#39;s Day Cards That Aren&#39;t Lame     - CNET](https://www.cnet.com/news/best-mothers-day-cards-to-buy-online/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

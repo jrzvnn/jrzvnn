@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s focus on local AI models and licensing LLMs could be a winning combo, says analyst](https://appleinsider.com/articles/24/03/20/apples-focus-on-local-ai-models-and-licensing-llms-could-be-a-winning-combo-says-analyst?utm_medium=rss)
  - [Sources: OpenAI plans to release GPT-5 in mid-2024, likely during summer, and some enterprise customers have recently received demos of the latest model &lpar;Business Insider&rpar;](http://www.techmeme.com/240319/p37#a240319p37)
  - [Researchers say misconfigured Firebase instances exposed 125M+ users&#39; records, including plaintext passwords, email addresses, and messages, across 900 websites &lpar;Ionut Arghire/SecurityWeek&rpar;](http://www.techmeme.com/240319/p36#a240319p36)
  - [Compare Business and Commercial Electricity Rates in Texas     - CNET](https://www.cnet.com/news/compare-business-and-commercial-electricity-rates-in-texas/#ftag=CAD590a51e)
- - [Inflection AI plans to license its technology to Microsoft; a source says investors in Inflection AI, which has raised more than $1.5B, will be made whole &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/240319/p35#a240319p35)
- - [Sources: Israeli cybersecurity company Cato Networks has hired underwriters for a US IPO as soon as early 2025; source: Cato is looking to raise more than $500M &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/240319/p34#a240319p34)<!-- TECH:END -->
+ - [Inflection AI plans to license its technology to Microsoft; a source says investors in Inflection AI, which has raised more than $1.5B, will be made whole &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/240319/p35#a240319p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

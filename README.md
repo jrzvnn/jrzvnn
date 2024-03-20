@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Crypto Company Thinks It Can Help Fight Climate Change](https://www.wired.com/story/toucon-crypto-carbon-credits/)
- - [Scientists Are Tinkering With Clouds to Save the Great Barrier Reef](https://www.wired.com/story/coral-reef-cloud-brightnening-australia/)
- - [How to Stay Cool Without Warming the Planet](https://www.wired.com/story/aircon-climate-co2-emissions/)
- - [Citizen Zoo Is Rewilding the UK, One Grasshopper at a Time](https://www.wired.com/story/citizen-zoo-rewilding-uk/)
- - [The World Needs to Crack Battery Recycling, Fast](https://www.wired.com/story/ev-battery-recycling-cobalt/)<!-- TECH:END -->
+ - [Illegal Trawlers Are No Match for Undersea Sculptures](https://www.wired.com/story/underwater-sculptures-stopping-trawling/)
+ - [Flooding Wetlands Could Be the Next Big Carbon Capture Hack](https://www.wired.com/story/australia-wetlands-restoration/)
+ - [People Hate the Idea of Car-Free Cities—Until They Live in One](https://www.wired.com/story/car-free-cities-opposition/)
+ - [The Future of EV Charging is Bidirectional, If You Can Afford It](https://www.wired.com/story/the-future-of-electric-vehicle-charging-is-bidirectional-if-you-can-afford-it/)
+ - [Brace Yourself For the Comeback of Citizen Scientists](https://www.wired.com/story/citizen-science-water-safecast/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

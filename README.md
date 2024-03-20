@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [There Are Already More Measles Cases in the US This Year Than All of 2023](https://www.wired.com/story/measles-us-cases-vaccinations-2024/)
  - [US DOJ to finally sue Apple after years of antitrust investigation](https://appleinsider.com/articles/24/03/20/us-doj-to-finally-sue-apple-after-years-of-antitrust-investigation?utm_medium=rss)
  - [Surveillance has a body count](https://www.theverge.com/2024/3/20/24106098/cbp-migrant-deaths-border-surveillance)
- - [Watch Neuralink’s First Human Subject Demonstrate His Brain-Computer Interface](https://www.wired.com/story/neuralink-implant-first-human-patient-demonstration/)
- - [Sources: the US DOJ is poised to sue Apple as soon as Thursday, accusing it of violating antitrust laws by blocking rivals from accessing iPhone features &lpar;Bloomberg&rpar;](http://www.techmeme.com/240320/p39#a240320p39)
- - [Reddit priced its IPO at $34 a share, the top of its expected range, bringing in $519M and valuing the company at about $6.5B &lpar;CNBC&rpar;](http://www.techmeme.com/240320/p38#a240320p38)<!-- TECH:END -->
+ - [Best Google Pixel Deals: Save on Pixel Fold, Pixel 8, Pixel 7 and More via Amazon&#39;s Big Spring Sale     - CNET](https://www.cnet.com/deals/best-google-pixel-deals/#ftag=CAD590a51e)
+ - [7 Easy Ways to Add Protein to Your Diet     - CNET](https://www.cnet.com/health/nutrition/7-easy-ways-to-add-protein-to-your-diet/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

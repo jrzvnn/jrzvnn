@@ -175,8 +175,8 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happy birthday](http://9gag.com/gag/a9yjP70)
- - 😝 [He said WHAT???](http://9gag.com/gag/an7e13E)
+ - 😝 [The tallest girl in the world and her husband](http://9gag.com/gag/aZZqm7X)
+ - 😝 [How they managed](http://9gag.com/gag/a0evdKz)
  - 💣 [Share some of the best paused moments in movies.](http://9gag.com/gag/a2vEYed)
  - 😝 [At long last\u2026](http://9gag.com/gag/a1mpXR8)
  - 👉 [One destroys me in seconds. The other one does too](http://9gag.com/gag/a34vjLN)<!-- MEMES:END -->

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The moment you realize that what you did was not a good idea](http://9gag.com/gag/aBy9xwZ)
+ - 😝 [Nice family business you got here](http://9gag.com/gag/awyN5VB)
  - 😝 [&lpar; . &rpar;&lpar; . &rpar;](http://9gag.com/gag/amoq29X)
- - 💣 [Share your oldest crush here with all... This is mine](http://9gag.com/gag/a5Qp73o)
+ - 💣 [Now it&#39;s their Rules](http://9gag.com/gag/aKG4VyQ)
  - 😝 [Source \ud83d\ude00](http://9gag.com/gag/a87d4WO)
- - 👉 [His gf is on the couch](http://9gag.com/gag/awyNxgr)<!-- MEMES:END -->
+ - 👉 [NYC homeowner is arrested and forced to hand over her home to a squatter.](http://9gag.com/gag/aAyBdg2)<!-- MEMES:END -->
 
 ---
 

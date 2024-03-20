@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s talent](http://9gag.com/gag/apRKvQW)
+ - 😝 [It&#39;s not what it looks like!](http://9gag.com/gag/aVvjeLM)
  - 😝 [Nice family business you got here](http://9gag.com/gag/awyN5VB)
  - 💣 [One destroys me in seconds. The other one does too](http://9gag.com/gag/a34vjLN)
- - 😝 [Share your oldest crush here with all... This is mine](http://9gag.com/gag/a5Qp73o)
- - 👉 [His gf is on the couch](http://9gag.com/gag/awyNxgr)<!-- MEMES:END -->
+ - 😝 [His gf is on the couch](http://9gag.com/gag/awyNxgr)
+ - 👉 [Share your oldest crush here with all... This is mine](http://9gag.com/gag/a5Qp73o)<!-- MEMES:END -->
 
 ---
 

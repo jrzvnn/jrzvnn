@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sad but true at the same time](http://9gag.com/gag/ae9KbXb)
- - 😝 [How is this even allowed?](http://9gag.com/gag/a87dpwQ)
- - 💣 [I was just follwing orders](http://9gag.com/gag/agmrLer)
- - 😝 [This is scary](http://9gag.com/gag/ary153p)
- - 👉 [Oh Wait ..... What !!](http://9gag.com/gag/a6ZrMBm)<!-- MEMES:END -->
+ - 😝 [One destroys me in seconds. The other one does too](http://9gag.com/gag/a34vjLN)
+ - 😝 [That&#39;s talent](http://9gag.com/gag/apRKvQW)
+ - 💣 [Share your oldest crush here with all... This is mine](http://9gag.com/gag/a5Qp73o)
+ - 😝 [&lpar; . &rpar;&lpar; . &rpar;](http://9gag.com/gag/amoq29X)
+ - 👉 [Now it&#39;s their Rules](http://9gag.com/gag/aKG4VyQ)<!-- MEMES:END -->
 
 ---
 

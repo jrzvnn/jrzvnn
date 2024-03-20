@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Epic plans to release the Epic Games Store on iOS and Android later this year, with the same terms as the ones for PC, including a 12% commission on sales &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240320/p33#a240320p33)
  - [Amazon Big Spring Sale 2024: live coverage of the best deals on Apple, accessories &amp; more](https://appleinsider.com/articles/24/03/20/amazon-big-spring-sale-2024-live-coverage-of-the-best-deals-on-apple-accessories-more?utm_medium=rss)
  - [Meta, Microsoft, X, and Match Group file an amicus brief in Epic v. Apple protesting Apple&#39;s plan to charge a commission for payments made outside the App Store &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240320/p32#a240320p32)
  - [The best note-taking apps for collecting your thoughts and data](https://www.theverge.com/23942597/notes-text-evernote-onenote-keep-apps)
- - [Apple now has a good landing page to find manuals, specs, and downloads](https://appleinsider.com/articles/24/03/20/apple-now-has-a-good-landing-page-to-find-manuals-specs-and-downloads?utm_medium=rss)
- - [Some of the Most Popular Websites Share Your Data With Over 1,500 Companies](https://www.wired.com/story/cookie-pop-up-ad-tech-partner-top-websites/)<!-- TECH:END -->
+ - [Apple now has a good landing page to find manuals, specs, and downloads](https://appleinsider.com/articles/24/03/20/apple-now-has-a-good-landing-page-to-find-manuals-specs-and-downloads?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

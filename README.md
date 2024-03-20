@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Canada and the UAE have lobbied leading European and UK AI startups, including Aleph Alpha, Synthesia, and Stability AI, to move their headquarters &lpar;Financial Times&rpar;](http://www.techmeme.com/240320/p6#a240320p6)
+ - [Sources: the Biden admin is considering blacklisting a number of Chinese chip firms linked to Huawei, after the company used an advanced 7nm chip in Mate 60 Pro &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/240320/p5#a240320p5)
  - [Samsung expects revenue of $100M or more in 2024 from an advanced chip packaging unit that the company set up as a separate business in 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/240320/p4#a240320p4)
  - [You Thought Your Phone Was Cool. Check Out These Design Concepts video     - CNET](https://www.cnet.com/videos/you-thought-your-phone-was-cool-check-out-these-design-concepts/#ftag=CAD590a51e)
- - [Enterprise data security startup BigID raised $60M led by Riverwood Capital at a $1B+ valuation, bringing its total funding to $320M, and reports ~$100M in ARR &lpar;Eduard Kovacs/SecurityWeek&rpar;](http://www.techmeme.com/240320/p3#a240320p3)
- - [GoTo reports $5.76B net loss for 2023, up 2x+ YoY, due to a write-down on TikTok&#39;s acquisition of a ~75% stake in GoTo&#39;s Tokopedia, on a net revenue of ~$933.6M &lpar;Nana Shibata/Nikkei Asia&rpar;](http://www.techmeme.com/240320/p2#a240320p2)
- - [Apex Legends devs confirm esports hacking incident, respond with ‘layered’ updates](https://www.theverge.com/2024/3/18/24104666/apex-legends-postpones-algs-competition-hack-concerns)<!-- TECH:END -->
+ - [Enterprise data security startup BigID raised $60M led by Riverwood Capital at a $1B+ valuation, bringing its total funding to $320M, and reports ~$100M in ARR &lpar;Eduard Kovacs/SecurityWeek&rpar;](http://www.techmeme.com/240320/p3#a240320p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

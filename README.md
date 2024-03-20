@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: MicroStrategy bought 9,245 bitcoin for $623M between March 11 and 18, taking its total holding to 214,246 bitcoin, worth ~$14B, or 1%+ of all bitcoin &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/240320/p16#a240320p16)
  - [Bengaluru-based audio platform Pocket FM, which offers series with short episodes, raised a $103M Series D led by Lightspeed, a source says at a $750M valuation &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240320/p15#a240320p15)
  - [Tim Cook visits Shanghai, says China remains critical to Apple](https://appleinsider.com/articles/24/03/20/tim-cook-visits-shanghai-says-china-remains-critical-to-apple?utm_medium=rss)
  - [Lenovo updates its $1,239+ ThinkPad X13, available as a laptop or 2-in-1, and $1,199+ ThinkPad L-series, adding a 16&quot; model, available with Intel or AMD chips &lpar;Brian Westover/PCMag&rpar;](http://www.techmeme.com/240320/p14#a240320p14)
- - [Amazon Big Spring Sale 2024: live coverage of the best deals on Apple, accessories &amp; more](https://appleinsider.com/articles/24/03/20/amazon-big-spring-sale-2024-live-coverage-of-the-best-deals-on-apple-accessories-more?utm_medium=rss)
- - [8 Google Employees Invented Modern AI. Here’s the Inside Story](https://www.wired.com/story/eight-google-employees-invented-modern-ai-transformers-paper/)<!-- TECH:END -->
+ - [Amazon Big Spring Sale 2024: live coverage of the best deals on Apple, accessories &amp; more](https://appleinsider.com/articles/24/03/20/amazon-big-spring-sale-2024-live-coverage-of-the-best-deals-on-apple-accessories-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

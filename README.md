@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He said WHAT???](http://9gag.com/gag/an7e13E)
  - 😝 [At long last\u2026](http://9gag.com/gag/a1mpXR8)
- - 💣 [Nice family business you got here](http://9gag.com/gag/awyN5VB)
- - 😝 [Share your oldest crush here with all... This is mine](http://9gag.com/gag/a5Qp73o)
- - 👉 [One destroys me in seconds. The other one does too](http://9gag.com/gag/a34vjLN)<!-- MEMES:END -->
+ - 😝 [That&#39;s talent](http://9gag.com/gag/apRKvQW)
+ - 💣 [On Muscovy you can&#39;t put a mark in another cell!&rpar;&rpar;&rpar;](http://9gag.com/gag/a6Zr7Lb)
+ - 😝 [One destroys me in seconds. The other one does too](http://9gag.com/gag/a34vjLN)
+ - 👉 [Share your oldest crush here with all... This is mine](http://9gag.com/gag/a5Qp73o)<!-- MEMES:END -->
 
 ---
 

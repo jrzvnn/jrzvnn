@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How they managed](http://9gag.com/gag/a0evdKz)
- - 😝 [Thank you for flying with DEI Airlines](http://9gag.com/gag/ary1Od0)
- - 💣 [A man only seeks one thing.](http://9gag.com/gag/a9yjWqZ)
- - 😝 [Share your oldest crush here with all... This is mine](http://9gag.com/gag/a5Qp73o)
- - 👉 [He said WHAT???](http://9gag.com/gag/an7e13E)<!-- MEMES:END -->
+ - 😝 [Happy birthday](http://9gag.com/gag/a9yjP70)
+ - 😝 [He said WHAT???](http://9gag.com/gag/an7e13E)
+ - 💣 [Share some of the best paused moments in movies.](http://9gag.com/gag/a2vEYed)
+ - 😝 [At long last\u2026](http://9gag.com/gag/a1mpXR8)
+ - 👉 [One destroys me in seconds. The other one does too](http://9gag.com/gag/a34vjLN)<!-- MEMES:END -->
 
 ---
 

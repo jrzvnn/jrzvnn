@@ -176,8 +176,8 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [NO REFUNDS](http://9gag.com/gag/an7eNyB)
- - 😝 [Nice family business you got here](http://9gag.com/gag/awyN5VB)
- - 💣 [That&#39;s talent](http://9gag.com/gag/apRKvQW)
+ - 😝 [At long last\u2026](http://9gag.com/gag/a1mpXR8)
+ - 💣 [Nice family business you got here](http://9gag.com/gag/awyN5VB)
  - 😝 [One destroys me in seconds. The other one does too](http://9gag.com/gag/a34vjLN)
  - 👉 [Share your oldest crush here with all... This is mine](http://9gag.com/gag/a5Qp73o)<!-- MEMES:END -->
 

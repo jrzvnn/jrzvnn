@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New iPad Pro may have matte &amp; glossy screen options](https://appleinsider.com/articles/24/03/20/new-ipad-pro-may-have-matte-glossy-screen-options?utm_medium=rss)
+ - [The World&#39;s E-Waste Has Reached a Crisis Point](https://www.wired.com/story/e-waste-recycling-cant-keep-up-precious-metals/)
  - [US-listed PDD, which runs Temu and Pinduoduo, reports Q4 revenue up 123% YoY to ~$12.5B and operating profit up 146% YoY to ~$3.2B, boosted by merchant fees &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/240320/p23#a240320p23)
  - [A review of OpenAI&#39;s GPT Store finds many GPTs that offer bizarre services, potentially infringe on copyright, impersonate people, jailbreak ChatGPT, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240320/p22#a240320p22)
- - [50 Years Later, Dungeons &amp; Dragons Is Undeniably Cool     - CNET](https://www.cnet.com/tech/gaming/50-years-later-dungeons-dragons-is-undeniably-cool/#ftag=CAD590a51e)
- - [Best Internet Providers in Bridgeport, Connecticut     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-bridgeport-ct/#ftag=CAD590a51e)
- - [How Today&#39;s Fed Decision Will Impact Mortgage Rates     - CNET](https://www.cnet.com/personal-finance/how-the-federal-reserve-affects-mortgage-rates/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [50 Years Later, Dungeons &amp; Dragons Is Undeniably Cool     - CNET](https://www.cnet.com/tech/gaming/50-years-later-dungeons-dragons-is-undeniably-cool/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

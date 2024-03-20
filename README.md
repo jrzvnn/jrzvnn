@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Here they are](http://9gag.com/gag/aD2RG2N)
  - 😝 [He said WHAT???](http://9gag.com/gag/an7e13E)
- - 💣 [One destroys me in seconds. The other one does too](http://9gag.com/gag/a34vjLN)
  - 😝 [Nice family business you got here](http://9gag.com/gag/awyN5VB)
- - 👉 [Share your oldest crush here with all... This is mine](http://9gag.com/gag/a5Qp73o)<!-- MEMES:END -->
+ - 💣 [Share your oldest crush here with all... This is mine](http://9gag.com/gag/a5Qp73o)
+ - 😝 [One destroys me in seconds. The other one does too](http://9gag.com/gag/a34vjLN)
+ - 👉 [The tallest girl in the world and her husband](http://9gag.com/gag/aZZqm7X)<!-- MEMES:END -->
 
 ---
 

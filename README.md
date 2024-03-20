@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Stability AI CEO Emad Mostaque told staff last week that Robin Rombach and other researchers, the key creators of Stable Diffusion, have resigned &lpar;Forbes&rpar;](http://www.techmeme.com/240320/p29#a240320p29)
  - [Marc Lore&#39;s food delivery startup Wonder raised $700M from NEA, GV, and others, taking its total funding to $1.5B, and aims to open nearly 100 NYC locations &lpar;Sarah Nassauer/Wall Street Journal&rpar;](http://www.techmeme.com/240320/p28#a240320p28)
  - [Robinhood rolls out its Robinhood Wallet app on Android, after launching the iOS app and a beta Android app in March 2023 &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/240320/p27#a240320p27)
  - [Amazon Big Spring Sale 2024: live coverage of the best deals on Apple, accessories &amp; more](https://appleinsider.com/articles/24/03/20/amazon-big-spring-sale-2024-live-coverage-of-the-best-deals-on-apple-accessories-more?utm_medium=rss)
- - [Biden adopts new vehicle emissions rules preferred by automakers and labor unions](https://www.theverge.com/2024/3/20/24106638/biden-epa-vehicle-emissions-final-standards-electric-hybrid)
- - [Apple execs talk future of the iPhone in ride-along Apple Park tour](https://appleinsider.com/articles/24/03/20/apple-execs-talk-future-of-the-iphone-in-ride-along-apple-park-tour?utm_medium=rss)<!-- TECH:END -->
+ - [Biden adopts new vehicle emissions rules preferred by automakers and labor unions](https://www.theverge.com/2024/3/20/24106638/biden-epa-vehicle-emissions-final-standards-electric-hybrid)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

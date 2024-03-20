@@ -166,7 +166,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apex Legends devs confirm esports hacking incident, respond with ‘layered’ updates](https://www.theverge.com/2024/3/18/24104666/apex-legends-postpones-algs-competition-hack-concerns)
+ - [GoTo reports $5.76B net loss for 2023, up 2x+ YoY, due to a write-down on TikTok&#39;s acquisition of a ~75% stake in GoTo&#39;s Tokopedia, on a net revenue of ~$933.6M &lpar;Nana Shibata/Nikkei Asia&rpar;](http://www.techmeme.com/240320/p2#a240320p2)
  - [Chipmaker Astera Labs prices its IPO at $36 per share, above its previous target range of $32-$34 per share, and seeks to raise ~$713M at a $5.5B valuation &lpar;Rishabh Jaiswal/Reuters&rpar;](http://www.techmeme.com/240320/p1#a240320p1)
  - [Best Workout Mirrors for 2024     - CNET](https://www.cnet.com/health/fitness/best-mirror-workout/#ftag=CAD590a51e)
  - [Illegal Trawlers Are No Match for Undersea Sculptures](https://www.wired.com/story/underwater-sculptures-stopping-trawling/)

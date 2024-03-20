@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The World Needs to Crack Battery Recycling, Fast](https://www.wired.com/story/ev-battery-recycling-cobalt/)
- - [This concrete can eat carbon emissions](https://www.wired.com/story/concrete-carbon-capture-co2/)
- - [A hidden Arctic cave holds secrets about our past and future](https://www.wired.com/story/arctic-caves-greenland/)
- - [How to transfer files when AirDrop isn&#39;t working](https://appleinsider.com/inside/ios/tips/how-to-transfer-files-when-airdrop-isnt-working?utm_medium=rss)
- - [Best Food Processors of 2024: KitchenAid, Cuisinart and More     - CNET](https://www.cnet.com/home/kitchen-and-household/best-food-processor/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A Crypto Company Thinks It Can Help Fight Climate Change](https://www.wired.com/story/toucon-crypto-carbon-credits/)
+ - [Scientists Are Tinkering With Clouds to Save the Great Barrier Reef](https://www.wired.com/story/coral-reef-cloud-brightnening-australia/)
+ - [How to Stay Cool Without Warming the Planet](https://www.wired.com/story/aircon-climate-co2-emissions/)
+ - [Citizen Zoo Is Rewilding the UK, One Grasshopper at a Time](https://www.wired.com/story/citizen-zoo-rewilding-uk/)
+ - [The World Needs to Crack Battery Recycling, Fast](https://www.wired.com/story/ev-battery-recycling-cobalt/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

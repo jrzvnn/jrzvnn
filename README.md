@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chipmaker Astera Labs prices its IPO at $36 per share, above its previous target range of $32-$34 per share, and seeks to raise ~$713M at a $5.5B valuation &lpar;Rishabh Jaiswal/Reuters&rpar;](http://www.techmeme.com/240320/p1#a240320p1)
  - [Illegal Trawlers Are No Match for Undersea Sculptures](https://www.wired.com/story/underwater-sculptures-stopping-trawling/)
  - [Flooding Wetlands Could Be the Next Big Carbon Capture Hack](https://www.wired.com/story/australia-wetlands-restoration/)
  - [People Hate the Idea of Car-Free Cities—Until They Live in One](https://www.wired.com/story/car-free-cities-opposition/)
- - [The Future of EV Charging is Bidirectional, If You Can Afford It](https://www.wired.com/story/the-future-of-electric-vehicle-charging-is-bidirectional-if-you-can-afford-it/)
- - [Brace Yourself For the Comeback of Citizen Scientists](https://www.wired.com/story/citizen-science-water-safecast/)<!-- TECH:END -->
+ - [The Future of EV Charging is Bidirectional, If You Can Afford It](https://www.wired.com/story/the-future-of-electric-vehicle-charging-is-bidirectional-if-you-can-afford-it/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

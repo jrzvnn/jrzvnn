@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Epic and allies are complaining about Apple&#39;s US App Store fees, while they charge about the same](https://appleinsider.com/articles/24/03/20/epic-and-allies-are-complaining-about-apples-us-app-store-fees-while-they-charge-about-the-same?utm_medium=rss)
+ - [Amazon&#39;s Big Spring Sale on Earbuds and Headphones: Save on Sony, Bose, Beats and More     - CNET](https://www.cnet.com/deals/best-headphone-deals/#ftag=CAD590a51e)
  - [GitHub releases code scanning autofix, powered by Copilot and CodeQL, in public beta for GitHub Advanced Security customers, to help them fix vulnerabilities &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240320/p34#a240320p34)
- - [These toddler games for iPad are actually good — and that’s all too rare](https://www.theverge.com/2024/3/20/24106892/sago-mini-ipad-app-game-toddler-subscription)
- - [LK-99 superconductor physicist accused of ‘research misconduct’](https://www.theverge.com/2024/3/20/24106779/lk-99-superconductor-researcher-ranga-dias-misconduct)
- - [Epic plans to release the Epic Games Store on iOS and Android later this year, with the same terms as the ones for PC, including a 12% commission on sales &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240320/p33#a240320p33)<!-- TECH:END -->
+ - [Save Money on Jackery&#39;s Portable Power Stations for a Limited Time     - CNET](https://www.cnet.com/deals/get-great-deals-on-jackerys-portable-power-stations-for-a-limited-time/#ftag=CAD590a51e)
+ - [Optimum Internet Plans: Pricing, Speeds, Availability and the Fine Print     - CNET](https://www.cnet.com/home/internet/optimum-internet-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

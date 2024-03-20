@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One destroys me in seconds. The other one does too](http://9gag.com/gag/a34vjLN)
- - 😝 [That&#39;s talent](http://9gag.com/gag/apRKvQW)
- - 💣 [Share your oldest crush here with all... This is mine](http://9gag.com/gag/a5Qp73o)
- - 😝 [&lpar; . &rpar;&lpar; . &rpar;](http://9gag.com/gag/amoq29X)
+ - 😝 [I was just follwing orders](http://9gag.com/gag/agmrLer)
+ - 😝 [Oh Wait ..... What !!](http://9gag.com/gag/a6ZrMBm)
+ - 💣 [Anyone else agree this is one of the best character Introductions in recent years?](http://9gag.com/gag/azx78QK)
+ - 😝 [Nice design](http://9gag.com/gag/aNDmzbv)
  - 👉 [Now it&#39;s their Rules](http://9gag.com/gag/aKG4VyQ)<!-- MEMES:END -->
 
 ---

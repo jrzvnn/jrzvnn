@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Epic is adding its hyperrealistic MetaHumans to Unreal Editor for Fortnite](https://www.theverge.com/2024/3/20/24106494/fortnite-unreal-editor-uefn-metahumans-fps)
  - [Best Mobile VPN of 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-mobile-vpn/#ftag=CAD590a51e)
  - [21 Best Deals From the Amazon Big Spring Sale: Phones, Chargers, and More](https://www.wired.com/story/amazon-big-spring-sale-2024/)
  - [Honeywell Thermostats Are Up to 40% Off for Amazon&#39;s Spring Sale     - CNET](https://www.cnet.com/deals/save-up-to-40-now-on-a-bunch-of-honeywell-thermostats/#ftag=CAD590a51e)
- - [&#39;3 Body Problem&#39; on Netflix: Release Time, Trailer and What to Know     - CNET](https://www.cnet.com/tech/services-and-software/3-body-problem-on-netflix-release-time-trailer-and-what-to-know/#ftag=CAD590a51e)
- - [A commit in Ethereum Foundation&#39;s GitHub repository shows the foundation has received a voluntary and confidential enquiry from an unspecified state authority &lpar;Tim Copeland/The Block&rpar;](http://www.techmeme.com/240320/p30#a240320p30)<!-- TECH:END -->
+ - [&#39;3 Body Problem&#39; on Netflix: Release Time, Trailer and What to Know     - CNET](https://www.cnet.com/tech/services-and-software/3-body-problem-on-netflix-release-time-trailer-and-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

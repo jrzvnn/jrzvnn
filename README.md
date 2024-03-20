@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [All iPhone 16 models will have thinnest bezels yet](https://appleinsider.com/articles/24/03/20/all-iphone-16-models-will-have-thinnest-bezels-yet?utm_medium=rss)
- - [Stardew Valley’s 1.6 update smashes its Steam player record](https://www.theverge.com/2024/3/20/24106601/stardew-valley-steam-player-record-number)
- - [After its early OpenAI bet, Microsoft hiring Mustafa Suleyman and Inflection&#39;s staff continues a strategy of developing close ties with leading AI practitioners &lpar;Camilla Hodgson/Financial Times&rpar;](http://www.techmeme.com/240320/p17#a240320p17)
- - [Filing: MicroStrategy bought 9,245 bitcoin for $623M between March 11 and 18, taking its total holding to 214,246 bitcoin, worth ~$14B, or 1%+ of all bitcoin &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/240320/p16#a240320p16)
- - [Bengaluru-based audio platform Pocket FM, which offers series with short episodes, raised a $103M Series D led by Lightspeed, a source says at a $750M valuation &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240320/p15#a240320p15)<!-- TECH:END -->
+ - [Amazon Big Spring Sale 2024: live coverage of the best deals on Apple, accessories &amp; more](https://appleinsider.com/articles/24/03/20/amazon-big-spring-sale-2024-live-coverage-of-the-best-deals-on-apple-accessories-more?utm_medium=rss)
+ - [Apple Vision Pro Review: A Little Too Far Out](https://www.wired.com/review/apple-vision-pro/)
+ - [15 Best Deals From the Amazon Big Spring Sale: Phones, Chargers, and More](https://www.wired.com/story/amazon-big-spring-sale-2024/)
+ - [After damage to four major African subsea internet cables, some telecoms are rerouting traffic via Brazil or overland cables; repairs may take over three weeks &lpar;Bloomberg&rpar;](http://www.techmeme.com/240320/p18#a240320p18)
+ - [All iPhone 16 models will have thinnest bezels yet](https://appleinsider.com/articles/24/03/20/all-iphone-16-models-will-have-thinnest-bezels-yet?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

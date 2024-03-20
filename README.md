@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fortnite players can now build their own Lego games](https://www.theverge.com/2024/3/20/24106477/lego-fortnite-user-created-games-epic)
- - [YouTube TV’s multiview comes to iPhones and iPads in time for March Madness](https://www.theverge.com/2024/3/20/24106859/youtube-tv-multiview-now-available-ios-ipados)
- - [Epic is adding its hyperrealistic MetaHumans to Unreal Editor for Fortnite](https://www.theverge.com/2024/3/20/24106494/fortnite-unreal-editor-uefn-metahumans-fps)
- - [Best Mobile VPN of 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-mobile-vpn/#ftag=CAD590a51e)
- - [21 Best Deals From the Amazon Big Spring Sale: Phones, Chargers, and More](https://www.wired.com/story/amazon-big-spring-sale-2024/)<!-- TECH:END -->
+ - [Apple now has a good landing page to find manuals, specs, and downloads](https://appleinsider.com/articles/24/03/20/apple-now-has-a-good-landing-page-to-find-manuals-specs-and-downloads?utm_medium=rss)
+ - [Apple isn’t living up to the letter or spirit of court order in Epic suit, Meta and Microsoft say](https://www.theverge.com/2024/3/20/24106838/apple-epic-anti-steering-developers-in-app-payments-meta-microsoft-match)
+ - [Morph, an Ethereum Layer 2 network that uses a combination of optimistic and zero-knowledge rollup technologies, raised a $19M seed led by DragonFly Capital &lpar;Niamh Rowe/Fortune&rpar;](http://www.techmeme.com/240320/p31#a240320p31)
+ - [Here are all the best tech deals from Amazon’s spring sale](https://www.theverge.com/2024/3/20/24105325/amazon-spring-sale-best-deals-prices)
+ - [Fortnite players can now build their own Lego games](https://www.theverge.com/2024/3/20/24106477/lego-fortnite-user-created-games-epic)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

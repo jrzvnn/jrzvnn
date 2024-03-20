@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Source \ud83d\ude00](http://9gag.com/gag/a87d4WO)
  - 😝 [Salvador Dali creates amazing foil sculpture in seconds &lpar; 1967&rpar;](http://9gag.com/gag/awyNXA8)
- - 💣 [How the... captain? Which api/library?](http://9gag.com/gag/amoq796)
- - 😝 [Classic 2011](http://9gag.com/gag/ae9K6Bj)
- - 👉 [NYC homeowner is arrested and forced to hand over her home to a squatter.](http://9gag.com/gag/aAyBdg2)<!-- MEMES:END -->
+ - 😝 [Source \ud83d\ude00](http://9gag.com/gag/a87d4WO)
+ - 💣 [NYC homeowner is arrested and forced to hand over her home to a squatter.](http://9gag.com/gag/aAyBdg2)
+ - 😝 [How the... captain? Which api/library?](http://9gag.com/gag/amoq796)
+ - 👉 [The moment you realize that what you did was not a good idea](http://9gag.com/gag/aBy9xwZ)<!-- MEMES:END -->
 
 ---
 

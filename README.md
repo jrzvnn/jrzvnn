@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Robinhood rolls out its Robinhood Wallet app on Android, after launching the iOS app and a beta Android app in March 2023 &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/240320/p27#a240320p27)
+ - [Amazon Big Spring Sale 2024: live coverage of the best deals on Apple, accessories &amp; more](https://appleinsider.com/articles/24/03/20/amazon-big-spring-sale-2024-live-coverage-of-the-best-deals-on-apple-accessories-more?utm_medium=rss)
+ - [Biden adopts new vehicle emissions rules preferred by automakers and labor unions](https://www.theverge.com/2024/3/20/24106638/biden-epa-vehicle-emissions-final-standards-electric-hybrid)
  - [Apple execs talk future of the iPhone in ride-along Apple Park tour](https://appleinsider.com/articles/24/03/20/apple-execs-talk-future-of-the-iphone-in-ride-along-apple-park-tour?utm_medium=rss)
- - [Cyberattacks are targeting US water systems, warns EPA and White House](https://www.theverge.com/2024/3/20/24106749/us-water-systems-cyberattacks-threat-white-house-epa-letter)
- - [Amazon Echo Speakers Are Deeply Discounted in Its Big Spring Sale, Obviously     - CNET](https://www.cnet.com/deals/amazon-echo-speakers-are-deeply-discounted-in-its-big-spring-sale-obviously/#ftag=CAD590a51e)
- - [Shark NV360 Navigator     - CNET](https://www.cnet.com/home/kitchen-and-household/shark-nv360-navigator-dpnl/#ftag=CAD590a51e)
- - [Best Gifts Available on Amazon: 27 Gifts From $10 to $250     - CNET](https://www.cnet.com/tech/best-gifts-available-from-amazon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Cyberattacks are targeting US water systems, warns EPA and White House](https://www.theverge.com/2024/3/20/24106749/us-water-systems-cyberattacks-threat-white-house-epa-letter)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

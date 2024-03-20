@@ -179,7 +179,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - 😝 [Nice family business you got here](http://9gag.com/gag/awyN5VB)
  - 💣 [Share your oldest crush here with all... This is mine](http://9gag.com/gag/a5Qp73o)
  - 😝 [One destroys me in seconds. The other one does too](http://9gag.com/gag/a34vjLN)
- - 👉 [The tallest girl in the world and her husband](http://9gag.com/gag/aZZqm7X)<!-- MEMES:END -->
+ - 👉 [His gf is on the couch](http://9gag.com/gag/awyNxgr)<!-- MEMES:END -->
 
 ---
 

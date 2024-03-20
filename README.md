@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US-listed PDD, which runs Temu and Pinduoduo, reports Q4 revenue up 123% YoY to ~$12.5B and operating profit up 146% YoY to ~$3.2B, boosted by merchant fees &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/240320/p23#a240320p23)
  - [A review of OpenAI&#39;s GPT Store finds many GPTs that offer bizarre services, potentially infringe on copyright, impersonate people, jailbreak ChatGPT, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240320/p22#a240320p22)
- - [Elon Musk&#39;s X Is Suspending Accounts That Reveal a Neo-Nazi Cartoonist&#39;s Alleged Identity](https://www.wired.com/story/elon-musk-x-blocked-journalists-researchers-neo-nazi-cartoonist/)
- - [Epic Hackintosh project gets 3D printed Mac Plus body](https://appleinsider.com/articles/24/03/20/epic-hackintosh-project-gets-3d-printed-mac-plus-body?utm_medium=rss)
- - [LG TV Lineup 2024: What to Look for This Year](https://www.wired.com/story/lg-tv-lineup-news-2024/)
- - [Amazon Big Spring Sale 2024: live coverage of the best deals on Apple, accessories &amp; more](https://appleinsider.com/articles/24/03/20/amazon-big-spring-sale-2024-live-coverage-of-the-best-deals-on-apple-accessories-more?utm_medium=rss)<!-- TECH:END -->
+ - [50 Years Later, Dungeons &amp; Dragons Is Undeniably Cool     - CNET](https://www.cnet.com/tech/gaming/50-years-later-dungeons-dragons-is-undeniably-cool/#ftag=CAD590a51e)
+ - [Best Internet Providers in Bridgeport, Connecticut     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-bridgeport-ct/#ftag=CAD590a51e)
+ - [How Today&#39;s Fed Decision Will Impact Mortgage Rates     - CNET](https://www.cnet.com/personal-finance/how-the-federal-reserve-affects-mortgage-rates/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You Thought Your Phone Was Cool. Check Out These Design Concepts video     - CNET](https://www.cnet.com/videos/you-thought-your-phone-was-cool-check-out-these-design-concepts/#ftag=CAD590a51e)
  - [Enterprise data security startup BigID raised $60M led by Riverwood Capital at a $1B+ valuation, bringing its total funding to $320M, and reports ~$100M in ARR &lpar;Eduard Kovacs/SecurityWeek&rpar;](http://www.techmeme.com/240320/p3#a240320p3)
  - [GoTo reports $5.76B net loss for 2023, up 2x+ YoY, due to a write-down on TikTok&#39;s acquisition of a ~75% stake in GoTo&#39;s Tokopedia, on a net revenue of ~$933.6M &lpar;Nana Shibata/Nikkei Asia&rpar;](http://www.techmeme.com/240320/p2#a240320p2)
  - [Apex Legends devs confirm esports hacking incident, respond with ‘layered’ updates](https://www.theverge.com/2024/3/18/24104666/apex-legends-postpones-algs-competition-hack-concerns)
- - [Chipmaker Astera Labs prices its IPO at $36 per share, above its previous target range of $32-$34 per share, and seeks to raise ~$713M at a $5.5B valuation &lpar;Rishabh Jaiswal/Reuters&rpar;](http://www.techmeme.com/240320/p1#a240320p1)<!-- TECH:END -->
+ - [Chipmaker Astera Labs prices its IPO at $36 per share, above its previous target range of $32-$34 per share, and seeks to raise ~$713M at a $5.5B valuation &lpar;Rishabh Jaiswal/Reuters&rpar;](http://www.techmeme.com/240320/p1#a240320p1)
+ - [Best Workout Mirrors for 2024     - CNET](https://www.cnet.com/health/fitness/best-mirror-workout/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

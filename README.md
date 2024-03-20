@@ -175,8 +175,8 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [South african diversity](http://9gag.com/gag/adByjOB)
  - 😝 [Woke French woman tries to argue with an Irish dude](http://9gag.com/gag/aD2RGLd)
+ - 😝 [South african diversity](http://9gag.com/gag/adByjOB)
  - 💣 [Cultured](http://9gag.com/gag/amoqr6V)
  - 😝 [Justice Served!!](http://9gag.com/gag/a87dp4e)
  - 👉 [A man only seeks one thing.](http://9gag.com/gag/a9yjWqZ)<!-- MEMES:END -->

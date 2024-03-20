@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X Blocked Journalists and Researchers Who Identified a Neo-Nazi Cartoonist](https://www.wired.com/story/elon-musk-x-blocked-journalists-researchers-neo-nazi-cartoonist/)
+ - [Epic Hackintosh project gets 3D printed Mac Plus body](https://appleinsider.com/articles/24/03/20/epic-hackintosh-project-gets-3d-printed-mac-plus-body?utm_medium=rss)
  - [LG TV Lineup 2024: What to Look for This Year](https://www.wired.com/story/lg-tv-lineup-news-2024/)
  - [Amazon Big Spring Sale 2024: live coverage of the best deals on Apple, accessories &amp; more](https://appleinsider.com/articles/24/03/20/amazon-big-spring-sale-2024-live-coverage-of-the-best-deals-on-apple-accessories-more?utm_medium=rss)
- - [An in-depth look at the 2017 &quot;Attention Is All You Need&quot; paper, now fundamental to LLMs, and profiles of the eight Google researchers who co-authored the paper &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/240320/p21#a240320p21)
- - [3 Best Smart Displays &lpar;2024&rpar;: Google Assistant and Amazon Alexa](https://www.wired.com/gallery/best-smart-displays/)
- - [Toronto-based PocketHealth, which helps 775 health care providers exchange images covering 1.5M patients to cut costs, raised a $33M Series B led by Round13 &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240320/p20#a240320p20)<!-- TECH:END -->
+ - [Android Tablets From Google, Samsung and More See Monster Savings in Amazon&#39;s Spring Sale     - CNET](https://www.cnet.com/deals/android-tablets-from-google-samsung-and-more-see-monster-savings-in-amazons-spring-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

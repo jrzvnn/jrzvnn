@@ -166,7 +166,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [X Blocked Journalists and Researchers Who Identified a Neo-Nazi Cartoonist](https://www.wired.com/story/elon-musk-x-blocked-journalists-researchers-neo-nazi-cartoonist/)
+ - [Elon Musk&#39;s X Is Suspending Accounts That Reveal a Neo-Nazi Cartoonist&#39;s Alleged Identity](https://www.wired.com/story/elon-musk-x-blocked-journalists-researchers-neo-nazi-cartoonist/)
  - [Epic Hackintosh project gets 3D printed Mac Plus body](https://appleinsider.com/articles/24/03/20/epic-hackintosh-project-gets-3d-printed-mac-plus-body?utm_medium=rss)
  - [LG TV Lineup 2024: What to Look for This Year](https://www.wired.com/story/lg-tv-lineup-news-2024/)
  - [Amazon Big Spring Sale 2024: live coverage of the best deals on Apple, accessories &amp; more](https://appleinsider.com/articles/24/03/20/amazon-big-spring-sale-2024-live-coverage-of-the-best-deals-on-apple-accessories-more?utm_medium=rss)

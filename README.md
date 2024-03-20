@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bengaluru-based audio platform Pocket FM, which offers series with short episodes, raised a $103M Series D led by Lightspeed, a source says at a $750M valuation &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240320/p15#a240320p15)
+ - [Tim Cook visits Shanghai, says China remains critical to Apple](https://appleinsider.com/articles/24/03/20/tim-cook-visits-shanghai-says-china-remains-critical-to-apple?utm_medium=rss)
  - [Lenovo updates its $1,239+ ThinkPad X13, available as a laptop or 2-in-1, and $1,199+ ThinkPad L-series, adding a 16&quot; model, available with Intel or AMD chips &lpar;Brian Westover/PCMag&rpar;](http://www.techmeme.com/240320/p14#a240320p14)
  - [Amazon Big Spring Sale 2024: live coverage of the best deals on Apple, accessories &amp; more](https://appleinsider.com/articles/24/03/20/amazon-big-spring-sale-2024-live-coverage-of-the-best-deals-on-apple-accessories-more?utm_medium=rss)
- - [8 Google Employees Invented Modern AI. Here’s the Inside Story](https://www.wired.com/story/eight-google-employees-invented-modern-ai-transformers-paper/)
- - [France begins work on &quot;a national solution&quot; to protect IT giant Atos, which manages nuclear data and cybersecurity, after Airbus talks failed; ATO.PA drops 20%+ &lpar;Liz Alderman/New York Times&rpar;](http://www.techmeme.com/240320/p13#a240320p13)
- - [Tencent reports Q4 revenue up 7% YoY to ~$21.6B, vs. ~$21.8B est., a ~$3.8B net income, vs. ~$4.6B est., and plans a $12.8B+ stock buyback, as gaming sales slow &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/240320/p12#a240320p12)<!-- TECH:END -->
+ - [8 Google Employees Invented Modern AI. Here’s the Inside Story](https://www.wired.com/story/eight-google-employees-invented-modern-ai-transformers-paper/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

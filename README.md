@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [How to transfer files when AirDrop isn&#39;t working](https://appleinsider.com/inside/ios/tips/how-to-transfer-files-when-airdrop-isnt-working?utm_medium=rss)
+ - [Best Food Processors of 2024: KitchenAid, Cuisinart and More     - CNET](https://www.cnet.com/home/kitchen-and-household/best-food-processor/#ftag=CAD590a51e)
+ - [Solar Inverters: Essential to Any Solar Panel System     - CNET](https://www.cnet.com/home/energy-and-utilities/what-you-need-to-know-about-solar-inverters-essential-solar-equipment/#ftag=CAD590a51e)
  - [PE firm Francisco Partners agrees to acquire Portland, Oregon-based Jama Software, which helps companies develop complex tech products, for $1.2B &lpar;Mike Rogoway/Oregonian&rpar;](http://www.techmeme.com/240319/p38#a240319p38)
- - [Apple&#39;s focus on local AI models and licensing LLMs could be a winning combo, says analyst](https://appleinsider.com/articles/24/03/20/apples-focus-on-local-ai-models-and-licensing-llms-could-be-a-winning-combo-says-analyst?utm_medium=rss)
- - [Sources: OpenAI plans to release GPT-5 in mid-2024, likely during summer, and some enterprise customers have recently received demos of the latest model &lpar;Business Insider&rpar;](http://www.techmeme.com/240319/p37#a240319p37)
- - [Researchers say misconfigured Firebase instances exposed 125M+ users&#39; records, including plaintext passwords, email addresses, and messages, across 900 websites &lpar;Ionut Arghire/SecurityWeek&rpar;](http://www.techmeme.com/240319/p36#a240319p36)<!-- TECH:END -->
+ - [Apple&#39;s focus on local AI models and licensing LLMs could be a winning combo, says analyst](https://appleinsider.com/articles/24/03/20/apples-focus-on-local-ai-models-and-licensing-llms-could-be-a-winning-combo-says-analyst?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

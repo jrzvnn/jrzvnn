@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Toronto-based PocketHealth, which helps 775 health care providers exchange images covering 1.5M patients to cut costs, raised a $33M Series B led by Round13 &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240320/p20#a240320p20)
  - [SteamDB: after releasing its massive 1.6 update, Stardew Valley hit 146,159 concurrent players on Steam, a new record and above Palworld&#39;s stats this week &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240320/p19#a240320p19)
- - [Watch These 11 Kid-Friendly Family Movies on Max Right Now     - CNET](https://www.cnet.com/tech/services-and-software/best-kid-friendly-family-movies-streaming-now-on-max/#ftag=CAD590a51e)
  - [Amazon Big Spring Sale 2024: live coverage of the best deals on Apple, accessories &amp; more](https://appleinsider.com/articles/24/03/20/amazon-big-spring-sale-2024-live-coverage-of-the-best-deals-on-apple-accessories-more?utm_medium=rss)
- - [How to Watch Marvel&#39;s &#39;X-Men &#39;97&#39; From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-marvel-x-men-97-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Vision Pro Review: A Little Too Far Out](https://www.wired.com/review/apple-vision-pro/)
+ - [15 Best Deals From the Amazon Big Spring Sale: Phones, Chargers, and More](https://www.wired.com/story/amazon-big-spring-sale-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

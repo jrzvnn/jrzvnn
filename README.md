@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [House passes bill banning data brokers from selling personal data to foreign adversaries](https://www.theverge.com/2024/3/20/24106991/house-data-broker-foreign-adversaries-bill-passes)
  - [Micron reports Q2 revenue up 58% YoY to $5.82B, vs. $5.53B est., and forecasts Q3 revenue above estimates, buoyed by demand for AI hardware; MU jumps 11%+ &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/240320/p35#a240320p35)
  - [Why—and How—WIRED Is Covering Politics](https://www.wired.com/story/why-and-how-wired-is-covering-politics/)
  - [Epic and allies are complaining about Apple&#39;s US App Store fees, while they charge about the same](https://appleinsider.com/articles/24/03/20/epic-and-allies-are-complaining-about-apples-us-app-store-fees-while-they-charge-about-the-same?utm_medium=rss)
- - [Amazon&#39;s Big Spring Sale on Earbuds and Headphones: Save on Sony, Bose, Beats and More     - CNET](https://www.cnet.com/deals/best-headphone-deals/#ftag=CAD590a51e)
- - [GitHub releases code scanning autofix, powered by Copilot and CodeQL, in public beta for GitHub Advanced Security customers, to help them fix vulnerabilities &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240320/p34#a240320p34)<!-- TECH:END -->
+ - [Amazon&#39;s Big Spring Sale on Earbuds and Headphones: Save on Sony, Bose, Beats and More     - CNET](https://www.cnet.com/deals/best-headphone-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

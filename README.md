@@ -170,7 +170,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [The US awards Intel $8.5B in CHIPS Act funding and $11B in loans to expand in Arizona, Ohio, New Mexico, and Oregon; Intel plans to spend $100B over five years &lpar;Financial Times&rpar;](http://www.techmeme.com/240320/p11#a240320p11)
  - [France fines Google &amp;euro;250M for failing to broker deals with media outlets over content linking and using press content to train AI, after a &amp;euro;500M fine in 2021 &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/240320/p10#a240320p10)
  - [Amazon Big Spring Sale 2024: live coverage of the best deals on Apple, accessories &amp; more](https://appleinsider.com/articles/24/03/20/amazon-big-spring-sale-2024-live-coverage-of-the-best-deals-on-apple-accessories-more?utm_medium=rss)
- - [Glassdoor Wants to Know Your Real Name](https://www.wired.com/story/glassdoor-wants-to-know-your-real-name/)<!-- TECH:END -->
+ - [OnePlus 12 Deals: Save Up to $800 Off with Trade-In Plus Instant Savings Directly Through OnePlus     - CNET](https://www.cnet.com/deals/oneplus-12-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,9 +175,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Showing a scammer his real face](http://9gag.com/gag/abA3znb)
  - 😝 [Source \ud83d\ude00](http://9gag.com/gag/a87d4WO)
- - 😝 [One destroys me in seconds. The other one does too](http://9gag.com/gag/a34vjLN)
- - 💣 [Share your oldest crush here with all... This is mine](http://9gag.com/gag/a5Qp73o)
+ - 💣 [His gf is on the couch](http://9gag.com/gag/awyNxgr)
  - 😝 [&lpar; . &rpar;&lpar; . &rpar;](http://9gag.com/gag/amoq29X)
  - 👉 [Classic 2011](http://9gag.com/gag/ae9K6Bj)<!-- MEMES:END -->
 

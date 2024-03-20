@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the US DOJ is poised to sue Apple as soon as Thursday, accusing it of violating antitrust laws by blocking rivals from accessing iPhone features &lpar;Bloomberg&rpar;](http://www.techmeme.com/240320/p39#a240320p39)
  - [Sources: Reddit priced its IPO at $34 a share, the top of its expected range, valuing the company at about $6.5B &lpar;CNBC&rpar;](http://www.techmeme.com/240320/p38#a240320p38)
  - [The US House passes a bill to prevent data brokers from selling personal data to China, Russia or other &quot;foreign adversaries&quot;; the bill now heads to the Senate &lpar;Alfred Ng/Politico&rpar;](http://www.techmeme.com/240320/p37#a240320p37)
  - [Chipmaker Astera Labs jumped 72% in its trading debut after its IPO topped expectations to raise $713M, giving the company a market value of $9.46B &lpar;Bloomberg&rpar;](http://www.techmeme.com/240320/p36#a240320p36)
- - [Kate Middleton&#39;s Photo Drama Has Turned Us All Into Metadata Detectives. Here&#39;s What to Know     - CNET](https://www.cnet.com/tech/kate-middletons-photo-drama-has-turned-us-all-into-metadata-detectives-heres-what-to-know/#ftag=CAD590a51e)
- - [Best iPad Deals: Save Big on iPad Air, iPad Pro and More This Amazon Big Spring Sale     - CNET](https://www.cnet.com/deals/best-ipad-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Kate Middleton&#39;s Photo Drama Has Turned Us All Into Metadata Detectives. Here&#39;s What to Know     - CNET](https://www.cnet.com/tech/kate-middletons-photo-drama-has-turned-us-all-into-metadata-detectives-heres-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

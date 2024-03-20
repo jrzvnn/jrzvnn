@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s talent](http://9gag.com/gag/apRKvQW)
- - 😝 [Entire Dodgers dugout watch ceremonial 1st pitch](http://9gag.com/gag/amoq0Z2)
- - 💣 [Share your oldest crush here with all... This is mine](http://9gag.com/gag/a5Qp73o)
- - 😝 [One destroys me in seconds. The other one does too](http://9gag.com/gag/a34vjLN)
- - 👉 [He said WHAT???](http://9gag.com/gag/an7e13E)<!-- MEMES:END -->
+ - 😝 [South african diversity](http://9gag.com/gag/adByjOB)
+ - 😝 [Woke French woman tries to argue with an Irish dude](http://9gag.com/gag/aD2RGLd)
+ - 💣 [Cultured](http://9gag.com/gag/amoqr6V)
+ - 😝 [Justice Served!!](http://9gag.com/gag/a87dp4e)
+ - 👉 [A man only seeks one thing.](http://9gag.com/gag/a9yjWqZ)<!-- MEMES:END -->
 
 ---
 

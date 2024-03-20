@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This has got to be a coincidence right?](http://9gag.com/gag/a9yjrbj)
- - 😝 [Woke French woman tries to argue with an Irish dude](http://9gag.com/gag/aD2RGLd)
- - 💣 [Cultured](http://9gag.com/gag/amoqr6V)
- - 😝 [Justice Served!!](http://9gag.com/gag/a87dp4e)
- - 👉 [A man only seeks one thing.](http://9gag.com/gag/a9yjWqZ)<!-- MEMES:END -->
+ - 😝 [He said WHAT???](http://9gag.com/gag/an7e13E)
+ - 😝 [How they managed](http://9gag.com/gag/a0evdKz)
+ - 💣 [One destroys me in seconds. The other one does too](http://9gag.com/gag/a34vjLN)
+ - 😝 [Wtf Japan](http://9gag.com/gag/adByqqB)
+ - 👉 [His gf is on the couch](http://9gag.com/gag/awyNxgr)<!-- MEMES:END -->
 
 ---
 

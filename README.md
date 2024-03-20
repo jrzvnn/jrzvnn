@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Mobile VPN of 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-mobile-vpn/#ftag=CAD590a51e)
  - [21 Best Deals From the Amazon Big Spring Sale: Phones, Chargers, and More](https://www.wired.com/story/amazon-big-spring-sale-2024/)
- - [A commit in Ethereum Foundation&#39;s GitHub repository shows the foundation has received a voluntary and confidential enquiry from an unspecified state authority &lpar;Tim Copeland/The Block&rpar;](http://www.techmeme.com/240320/p30#a240320p30)
- - [Captain America and Black Panther face off in the first trailer for 1943: Rise of Hydra](https://www.theverge.com/24106470/1943-rise-of-hydra-marvel-game-trailer-amy-hennig)
- - [The Filmmaker Who Says AI Is Reparations](https://www.wired.com/story/willonius-hatcher-the-filmmaker-who-says-ai-is-reparations/)
- - [Amazon Big Spring Sale 2024: live coverage of the best deals on Apple, accessories &amp; more](https://appleinsider.com/articles/24/03/20/amazon-big-spring-sale-2024-live-coverage-of-the-best-deals-on-apple-accessories-more?utm_medium=rss)<!-- TECH:END -->
+ - [Honeywell Thermostats Are Up to 40% Off for Amazon&#39;s Spring Sale     - CNET](https://www.cnet.com/deals/save-up-to-40-now-on-a-bunch-of-honeywell-thermostats/#ftag=CAD590a51e)
+ - [&#39;3 Body Problem&#39; on Netflix: Release Time, Trailer and What to Know     - CNET](https://www.cnet.com/tech/services-and-software/3-body-problem-on-netflix-release-time-trailer-and-what-to-know/#ftag=CAD590a51e)
+ - [A commit in Ethereum Foundation&#39;s GitHub repository shows the foundation has received a voluntary and confidential enquiry from an unspecified state authority &lpar;Tim Copeland/The Block&rpar;](http://www.techmeme.com/240320/p30#a240320p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

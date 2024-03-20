@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice family business you got here](http://9gag.com/gag/awyN5VB)
+ - 😝 [Here they are](http://9gag.com/gag/aD2RG2N)
  - 😝 [He said WHAT???](http://9gag.com/gag/an7e13E)
- - 💣 [That&#39;s talent](http://9gag.com/gag/apRKvQW)
- - 😝 [One destroys me in seconds. The other one does too](http://9gag.com/gag/a34vjLN)
+ - 💣 [One destroys me in seconds. The other one does too](http://9gag.com/gag/a34vjLN)
+ - 😝 [Nice family business you got here](http://9gag.com/gag/awyN5VB)
  - 👉 [Share your oldest crush here with all... This is mine](http://9gag.com/gag/a5Qp73o)<!-- MEMES:END -->
 
 ---

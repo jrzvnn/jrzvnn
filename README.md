@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [All iPhone 16 models rumored to have thinnest bezels yet](https://appleinsider.com/articles/24/03/20/all-iphone-16-models-will-have-thinnest-bezels-yet?utm_medium=rss)
  - [Sources: Cohere, which has raised $445M and was seeking new funding at a $6B valuation last year, generated just ~$13M in annualized revenue at the end of 2023 &lpar;The Information&rpar;](http://www.techmeme.com/240320/p40#a240320p40)
  - [There Are Already More Measles Cases in the US This Year Than All of 2023](https://www.wired.com/story/measles-us-cases-vaccinations-2024/)
  - [US DOJ to finally sue Apple after years of antitrust investigation](https://appleinsider.com/articles/24/03/20/us-doj-to-finally-sue-apple-after-years-of-antitrust-investigation?utm_medium=rss)
- - [Surveillance has a body count](https://www.theverge.com/2024/3/20/24106098/cbp-migrant-deaths-border-surveillance)
- - [Best Google Pixel Deals: Save on Pixel Fold, Pixel 8, Pixel 7 and More via Amazon&#39;s Big Spring Sale     - CNET](https://www.cnet.com/deals/best-google-pixel-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Surveillance has a body count](https://www.theverge.com/2024/3/20/24106098/cbp-migrant-deaths-border-surveillance)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

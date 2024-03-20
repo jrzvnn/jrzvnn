@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He said WHAT???](http://9gag.com/gag/an7e13E)
  - 😝 [That&#39;s talent](http://9gag.com/gag/apRKvQW)
- - 💣 [Nice family business you got here](http://9gag.com/gag/awyN5VB)
- - 😝 [At long last\u2026](http://9gag.com/gag/a1mpXR8)
- - 👉 [One destroys me in seconds. The other one does too](http://9gag.com/gag/a34vjLN)<!-- MEMES:END -->
+ - 😝 [He said WHAT???](http://9gag.com/gag/an7e13E)
+ - 💣 [One destroys me in seconds. The other one does too](http://9gag.com/gag/a34vjLN)
+ - 😝 [His gf is on the couch](http://9gag.com/gag/awyNxgr)
+ - 👉 [Nice family business you got here](http://9gag.com/gag/awyN5VB)<!-- MEMES:END -->
 
 ---
 

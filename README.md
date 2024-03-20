@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US House passes a bill to prevent data brokers from selling personal data to China, Russia or other &quot;foreign adversaries&quot;; the bill now heads to the Senate &lpar;Alfred Ng/Politico&rpar;](http://www.techmeme.com/240320/p37#a240320p37)
  - [Chipmaker Astera Labs jumped 72% in its trading debut after its IPO topped expectations to raise $713M, giving the company a market value of $9.46B &lpar;Bloomberg&rpar;](http://www.techmeme.com/240320/p36#a240320p36)
- - [Grab Apple&#39;s 16-inch MacBook Pro M2 for $1,999 &lpar;$500 off&rpar; while supplies last](https://appleinsider.com/articles/24/03/20/grab-apples-16-inch-macbook-pro-m2-for-1999-500-off-while-supplies-last?utm_medium=rss)
- - [TapeACall is about to get a lot more expensive](https://www.theverge.com/2024/3/20/24106785/tapeacall-price-increase-bending-spoons-acquisition)
- - [House passes bill banning data brokers from selling personal data to foreign adversaries](https://www.theverge.com/2024/3/20/24106991/house-data-broker-foreign-adversaries-bill-passes)
- - [Micron reports Q2 revenue up 58% YoY to $5.82B, vs. $5.53B est., and forecasts Q3 revenue above estimates, buoyed by demand for AI hardware; MU jumps 11%+ &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/240320/p35#a240320p35)<!-- TECH:END -->
+ - [Kate Middleton&#39;s Photo Drama Has Turned Us All Into Metadata Detectives. Here&#39;s What to Know     - CNET](https://www.cnet.com/tech/kate-middletons-photo-drama-has-turned-us-all-into-metadata-detectives-heres-what-to-know/#ftag=CAD590a51e)
+ - [Best iPad Deals: Save Big on iPad Air, iPad Pro and More This Amazon Big Spring Sale     - CNET](https://www.cnet.com/deals/best-ipad-deals/#ftag=CAD590a51e)
+ - [Best TV Deals: Amazon&#39;s Big Spring Sale Nets You Big Savings on Everything From Fire TVs to Samsung     - CNET](https://www.cnet.com/deals/best-tv-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The moment you realize that what you did was not a good idea](http://9gag.com/gag/aBy9xwZ)
- - 😝 [Always the victim](http://9gag.com/gag/aGyKe30)
- - 💣 [Showing a scammer his real face](http://9gag.com/gag/abA3znb)
- - 😝 [You&#39;re gonna make me play it again.](http://9gag.com/gag/aPA690n)
- - 👉 [No title](http://9gag.com/gag/ayNExgr)<!-- MEMES:END -->
+ - 😝 [Share your oldest crush here with all... This is mine](http://9gag.com/gag/a5Qp73o)
+ - 😝 [NYC homeowner is arrested and forced to hand over her home to a squatter.](http://9gag.com/gag/aAyBdg2)
+ - 💣 [Classic 2011](http://9gag.com/gag/ae9K6Bj)
+ - 😝 [Source \ud83d\ude00](http://9gag.com/gag/a87d4WO)
+ - 👉 [Now it&#39;s their Rules](http://9gag.com/gag/aKG4VyQ)<!-- MEMES:END -->
 
 ---
 

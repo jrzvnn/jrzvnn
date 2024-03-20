@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AirPods, AirPods Pro, AirPods Max: What to expect from Apple in 2024](https://appleinsider.com/articles/24/03/20/airpods-airpods-pro-airpods-max-what-to-expect-from-apple-in-2024?utm_medium=rss)
+ - [Beeper couldn’t bring iMessage to Android — but it can still make a great chat app](https://www.theverge.com/2024/3/20/24106219/beeper-beta-android-app-chat-messaging)
+ - [iPhone fuels Mac switchers as the gateway to Apple&#39;s ecosystem](https://appleinsider.com/articles/24/03/20/iphone-fuels-mac-switchers-as-the-gateway-to-apples-ecosystem?utm_medium=rss)
  - [EU antitrust chief Margrethe Vestager warns Apple over its Core Technology Fee, saying the EU plans to investigate, and Meta over its planned subscription fees &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240320/p26#a240320p26)
- - [India appoints the government-run Press Information Bureau&#39;s fact checking unit to undertake fact checking for government-related social media content &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240320/p25#a240320p25)
- - [Sources: EU Commission rules, set to be adopted as soon as next week, will fine X, TikTok, and other big platforms over lax election AI content moderation &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240320/p24#a240320p24)
- - [New iPad Pro may have matte &amp; glossy screen options](https://appleinsider.com/articles/24/03/20/new-ipad-pro-may-have-matte-glossy-screen-options?utm_medium=rss)
- - [Amazon&#39;s Blink Outdoor 4 Cam Is One of the Easiest Setups We&#39;ve Found     - CNET](https://www.cnet.com/deals/amazons-blink-outdoor-4-cam-is-one-of-the-easiest-setups-weve-found/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [India appoints the government-run Press Information Bureau&#39;s fact checking unit to undertake fact checking for government-related social media content &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240320/p25#a240320p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

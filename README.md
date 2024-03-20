@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thank you for flying with DEI Airlines](http://9gag.com/gag/ary1Od0)
  - 😝 [NO REFUNDS](http://9gag.com/gag/an7eNyB)
- - 💣 [Pretty fly for a white guy](http://9gag.com/gag/aMVe82P)
- - 😝 [Entire Dodgers dugout watch ceremonial 1st pitch](http://9gag.com/gag/amoq0Z2)
+ - 😝 [And the best parent award goes to](http://9gag.com/gag/adBypVB)
+ - 💣 [He said WHAT???](http://9gag.com/gag/an7e13E)
+ - 😝 [Share your oldest crush here with all... This is mine](http://9gag.com/gag/a5Qp73o)
  - 👉 [At long last\u2026](http://9gag.com/gag/a1mpXR8)<!-- MEMES:END -->
 
 ---

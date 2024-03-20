@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He said WHAT???](http://9gag.com/gag/an7e13E)
- - 😝 [How they managed](http://9gag.com/gag/a0evdKz)
- - 💣 [One destroys me in seconds. The other one does too](http://9gag.com/gag/a34vjLN)
- - 😝 [Wtf Japan](http://9gag.com/gag/adByqqB)
- - 👉 [His gf is on the couch](http://9gag.com/gag/awyNxgr)<!-- MEMES:END -->
+ - 😝 [That&#39;s talent](http://9gag.com/gag/apRKvQW)
+ - 😝 [Entire Dodgers dugout watch ceremonial 1st pitch](http://9gag.com/gag/amoq0Z2)
+ - 💣 [Share your oldest crush here with all... This is mine](http://9gag.com/gag/a5Qp73o)
+ - 😝 [One destroys me in seconds. The other one does too](http://9gag.com/gag/a34vjLN)
+ - 👉 [He said WHAT???](http://9gag.com/gag/an7e13E)<!-- MEMES:END -->
 
 ---
 

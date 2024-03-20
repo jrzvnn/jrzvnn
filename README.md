@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The tallest girl in the world and her husband](http://9gag.com/gag/aZZqm7X)
- - 😝 [How they managed](http://9gag.com/gag/a0evdKz)
- - 💣 [Share some of the best paused moments in movies.](http://9gag.com/gag/a2vEYed)
- - 😝 [At long last\u2026](http://9gag.com/gag/a1mpXR8)
- - 👉 [One destroys me in seconds. The other one does too](http://9gag.com/gag/a34vjLN)<!-- MEMES:END -->
+ - 😝 [This has got to be a coincidence right?](http://9gag.com/gag/a9yjrbj)
+ - 😝 [Woke French woman tries to argue with an Irish dude](http://9gag.com/gag/aD2RGLd)
+ - 💣 [Cultured](http://9gag.com/gag/amoqr6V)
+ - 😝 [Justice Served!!](http://9gag.com/gag/a87dp4e)
+ - 👉 [A man only seeks one thing.](http://9gag.com/gag/a9yjWqZ)<!-- MEMES:END -->
 
 ---
 

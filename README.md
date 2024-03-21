@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice family business you got here](http://9gag.com/gag/awyN5VB)
- - 😝 [You won&#39;t believe who is this, wait untill 1998](http://9gag.com/gag/a87d8DY)
- - 💣 [The moment you realize that what you did was not a good idea](http://9gag.com/gag/aBy9xwZ)
  - 😝 [&lpar; . &rpar;&lpar; . &rpar;](http://9gag.com/gag/amoq29X)
- - 👉 [Now it&#39;s their Rules](http://9gag.com/gag/aKG4VyQ)<!-- MEMES:END -->
+ - 😝 [Showing a scammer his real face](http://9gag.com/gag/abA3znb)
+ - 💣 [Celebrities are too weird and yes this actually happened](http://9gag.com/gag/aGyKD45)
+ - 😝 [Now it&#39;s their Rules](http://9gag.com/gag/aKG4VyQ)
+ - 👉 [How the... captain? Which api/library?](http://9gag.com/gag/amoq796)<!-- MEMES:END -->
 
 ---
 

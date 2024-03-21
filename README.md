@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Very beautiful Czech police girl](http://9gag.com/gag/aoym2wg)
- - 😝 [This is what happens after they normalize obesity...](http://9gag.com/gag/a5QpMoO)
- - 💣 [The tallest girl in the world and her husband](http://9gag.com/gag/aZZqm7X)
- - 😝 [&lpar; . &rpar;&lpar; . &rpar;](http://9gag.com/gag/amoq29X)
- - 👉 [Got you.](http://9gag.com/gag/agmrLV1)<!-- MEMES:END -->
+ - 😝 [Someone attempted suicide by injecting 10 ml &lpar;135 g&rpar; of elemental mercury &lpar;quicksilver&rpar; intravenously ended up mercury distributed in the lungs and also survived.](http://9gag.com/gag/a5QpoYy)
+ - 😝 [So many to choose from](http://9gag.com/gag/aMVejmx)
+ - 💣 [To true to be funny.](http://9gag.com/gag/apRKm7b)
+ - 😝 [The tallest girl in the world and her husband](http://9gag.com/gag/aZZqm7X)
+ - 👉 [Very beautiful Czech police girl](http://9gag.com/gag/aoym2wg)<!-- MEMES:END -->
 
 ---
 

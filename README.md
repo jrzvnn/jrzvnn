@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Foundry, a cloud computing service provider focused on AI workloads, comes out of stealth after raising $80M across a seed and a Series A at a $350M valuation &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/240321/p38#a240321p38)
  - [WBD plans to launch Max in Europe starting on May 21 in the Nordics, Iberia, and Central and Eastern Europe, in time for the Olympics, included in all plans &lpar;Adam Chitwood/The Wrap&rpar;](http://www.techmeme.com/240321/p37#a240321p37)
  - [Rates Move Higher Following Fed Decision: Mortgage Interest Rates Today for March 21, 2024     - CNET](https://www.cnet.com/personal-finance/key-rates-move-higher-for-homebuyers-mortgage-interest-rates-today-for-march-21-2024/#ftag=CAD590a51e)
  - [The lock-in problem at the heart of the Apple monopoly lawsuit](https://www.theverge.com/2024/3/21/24107669/doj-v-apple-apple-watch-messaging-digital-wallets-lock-in)
- - [You can get $50 in Samsung credit when you preorder the Music Frame](https://www.theverge.com/2024/3/21/24107851/samsung-music-frame-deal-sale)
- - [iOS 17.4.1: Why You Should Download the Update Right Now     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-4-1-why-you-should-download-the-update-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [You can get $50 in Samsung credit when you preorder the Music Frame](https://www.theverge.com/2024/3/21/24107851/samsung-music-frame-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

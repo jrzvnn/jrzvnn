@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Salvador Dali creates amazing foil sculpture in seconds &lpar; 1967&rpar;](http://9gag.com/gag/awyNXA8)
- - 😝 [&lpar; . &rpar;&lpar; . &rpar;](http://9gag.com/gag/amoq29X)
- - 💣 [Def Wallace](http://9gag.com/gag/a9yjpq0)
- - 😝 [Someone attempted suicide by injecting 10 ml &lpar;135 g&rpar; of elemental mercury &lpar;quicksilver&rpar; intravenously ended up mercury distributed in the lungs and also survived.](http://9gag.com/gag/a5QpoYy)
- - 👉 [The tallest girl in the world and her husband](http://9gag.com/gag/aZZqm7X)<!-- MEMES:END -->
+ - 😝 [Showing a scammer his real face](http://9gag.com/gag/abA3znb)
+ - 😝 [How the... captain? Which api/library?](http://9gag.com/gag/amoq796)
+ - 💣 [Salvador Dali creates amazing foil sculpture in seconds &lpar; 1967&rpar;](http://9gag.com/gag/awyNXA8)
+ - 😝 [Get your tickets to hell right here\u2026](http://9gag.com/gag/a4PpbBZ)
+ - 👉 [A group of newly graduated REAL doctors from Finland](http://9gag.com/gag/a0evK1d)<!-- MEMES:END -->
 
 ---
 

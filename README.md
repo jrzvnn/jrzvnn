@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [You won&#39;t believe who is this, wait untill 1998](http://9gag.com/gag/a87d8DY)
- - 😝 [&lpar; . &rpar;&lpar; . &rpar;](http://9gag.com/gag/amoq29X)
- - 💣 [Salvador Dali creates amazing foil sculpture in seconds &lpar; 1967&rpar;](http://9gag.com/gag/awyNXA8)
- - 😝 [The moment you realize that what you did was not a good idea](http://9gag.com/gag/aBy9xwZ)
- - 👉 [Now it&#39;s their Rules](http://9gag.com/gag/aKG4VyQ)<!-- MEMES:END -->
+ - 😝 [Salvador Dali creates amazing foil sculpture in seconds &lpar; 1967&rpar;](http://9gag.com/gag/awyNXA8)
+ - 💣 [The tallest girl in the world and her husband](http://9gag.com/gag/aZZqm7X)
+ - 😝 [Now it&#39;s their Rules](http://9gag.com/gag/aKG4VyQ)
+ - 👉 [&lpar; . &rpar;&lpar; . &rpar;](http://9gag.com/gag/amoq29X)<!-- MEMES:END -->
 
 ---
 

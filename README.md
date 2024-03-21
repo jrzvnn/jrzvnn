@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Very beautiful Czech police girl](http://9gag.com/gag/aoym2wg)
- - 😝 [How the... captain? Which api/library?](http://9gag.com/gag/amoq796)
- - 💣 [His soul is no longer with us](http://9gag.com/gag/amoqrR9)
- - 😝 [&lpar; . &rpar;&lpar; . &rpar;](http://9gag.com/gag/amoq29X)
- - 👉 [Got you.](http://9gag.com/gag/agmrLV1)<!-- MEMES:END -->
+ - 😝 [Showing a scammer his real face](http://9gag.com/gag/abA3znb)
+ - 😝 [Salvador Dali creates amazing foil sculpture in seconds &lpar; 1967&rpar;](http://9gag.com/gag/awyNXA8)
+ - 💣 [Pretty fly for a white guy](http://9gag.com/gag/aMVe82P)
+ - 😝 [Get your tickets to hell right here\u2026](http://9gag.com/gag/a4PpbBZ)
+ - 👉 [The moment you realize that what you did was not a good idea](http://9gag.com/gag/aBy9xwZ)<!-- MEMES:END -->
 
 ---
 

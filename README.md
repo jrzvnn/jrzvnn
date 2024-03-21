@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A new Hollywood movie just flopped big time. It even had a `white tears` clock next to white people in the movie. Hope they lost a lot of money on this film.](http://9gag.com/gag/aQz631z)
- - 😝 [A group of newly graduated REAL doctors from Finland](http://9gag.com/gag/a0evK1d)
- - 💣 [UK U OK?](http://9gag.com/gag/avy2O2X)
- - 😝 [Salvador Dali creates amazing foil sculpture in seconds &lpar; 1967&rpar;](http://9gag.com/gag/awyNXA8)
- - 👉 [Get your tickets to hell right here\u2026](http://9gag.com/gag/a4PpbBZ)<!-- MEMES:END -->
+ - 😝 [Celebrities are too weird and yes this actually happened](http://9gag.com/gag/aGyKD45)
+ - 😝 [The tallest girl in the world and her husband](http://9gag.com/gag/aZZqm7X)
+ - 💣 [&lpar; . &rpar;&lpar; . &rpar;](http://9gag.com/gag/amoq29X)
+ - 😝 [How the... captain? Which api/library?](http://9gag.com/gag/amoq796)
+ - 👉 [The moment you realize that what you did was not a good idea](http://9gag.com/gag/aBy9xwZ)<!-- MEMES:END -->
 
 ---
 

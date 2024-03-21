@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Mozilla Foundation and 90+ research and advocacy groups urge Meta to support CrowdTangle through January 2025 to track election misinformation globally &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/240321/p41#a240321p41)
  - [Beetlejuice Beetlejuice brings the dead man home in its first trailer](https://www.theverge.com/24108114/beetlejuice-beetlejuice-trailer-tim-burton-jenna-ortega)
  - [Apple&#39;s iMessage Encryption Puts Its Security Practices in the DOJ&#39;s Crosshairs](https://www.wired.com/story/apple-doj-antitrust-imessage-encryption/)
  - [The Antitrust Case Against Apple Argues It Has a Stranglehold on the Future](https://www.wired.com/story/antitrust-case-apple-stranglehold-on-the-future/)
- - [The UN unanimously adopts the first global resolution on AI to encourage protecting personal data, monitoring AI for risks, and safeguarding human rights &lpar;Alexandra Alper/Reuters&rpar;](http://www.techmeme.com/240321/p40#a240321p40)
- - [DoorDash partners with Alphabet&#39;s Wing to test drone delivery in the US, starting in Christiansburg, VA, after launching a pilot program in Australia in 2022 &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240321/p39#a240321p39)<!-- TECH:END -->
+ - [The UN unanimously adopts the first global resolution on AI to encourage protecting personal data, monitoring AI for risks, and safeguarding human rights &lpar;Alexandra Alper/Reuters&rpar;](http://www.techmeme.com/240321/p40#a240321p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

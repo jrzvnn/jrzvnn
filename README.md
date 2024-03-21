@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Browser Company, which makes the Arc browser, raised $50M led by Pace Capital at a $550M valuation, bringing its total funding to $128M &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240321/p24#a240321p24)
+ - [Call of Duty: Warzone Mobile deploys onto iPhone and iPad](https://appleinsider.com/articles/24/03/21/call-of-duty-warzone-mobile-deploys-onto-iphone-and-ipad?utm_medium=rss)
+ - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
  - [Hackers Found a Way to Open Any of 3 Million Hotel Keycard Locks in Seconds](https://www.wired.com/story/saflok-hotel-lock-unsaflok-hack-technique/)
- - [Europe’s Biggest Salt Mine Is Now in &#39;Minecraft,&#39; and It’s Helping Ukraine Rebuild](https://www.wired.com/story/ukraine-soledar-salt-mine-minecraft-rebuilding-fundraiser/)
- - [Apple working on technology to make a futuristic all-glass MacBook Pro](https://appleinsider.com/articles/24/03/21/apple-working-on-technology-to-make-a-futuristic-all-glass-macbook-pro?utm_medium=rss)
- - [Netflix’s 3 Body Problem adaptation channels the book’s spirit but not its brilliance](https://www.theverge.com/2024/3/21/24102256/netflix-3-body-problem-review)
- - [Mortgage Rates Inch Up Since Last Week: Today&#39;s Mortgage Rates for March 21, 2024     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-rates-inch-up-since-last-week-todays-mortgage-rates-for-march-21-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Europe’s Biggest Salt Mine Is Now in &#39;Minecraft,&#39; and It’s Helping Ukraine Rebuild](https://www.wired.com/story/ukraine-soledar-salt-mine-minecraft-rebuilding-fundraiser/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

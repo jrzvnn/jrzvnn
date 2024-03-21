@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US DOJ takes on Apple in massive antitrust suit, after years of investigations](https://appleinsider.com/articles/24/03/21/us-doj-takes-on-apple-in-massive-antitrust-suit-after-years-of-investigations?utm_medium=rss)
  - [DOJ v. Apple: everything you need to know](https://www.theverge.com/24107581/doj-v-apple-antitrust-monoply-news-updates)
  - [IQ Air Atem X Review: High-End Air Purifier](https://www.wired.com/review/iq-air-atem-x-air-purifier/)
  - [UNITED STATES SUES APPLE](https://www.theverge.com/2024/3/21/24105363/apple-doj-monopoly-lawsuit)
- - [The Browser Company, which makes the Arc browser, raised $50M led by Pace Capital at a $550M valuation, bringing its total funding to $128M &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240321/p24#a240321p24)
- - [Call of Duty: Warzone Mobile deploys onto iPhone and iPad](https://appleinsider.com/articles/24/03/21/call-of-duty-warzone-mobile-deploys-onto-iphone-and-ipad?utm_medium=rss)<!-- TECH:END -->
+ - [The Browser Company, which makes the Arc browser, raised $50M led by Pace Capital at a $550M valuation, bringing its total funding to $128M &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240321/p24#a240321p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

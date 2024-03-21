@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple CarPlay is anticompetitive, too, US lawsuit alleges](https://www.theverge.com/2024/3/21/24107976/apple-carplay-doj-lawsuit-anticompetitive-digital-key)
  - [One Man’s Army of Streaming Bots Reveals a Whole Industry’s Problem](https://www.wired.com/story/streaming-bots-spotify/)
  - [GameScent Wants You to Smell the Gunfire While You Play Video Games](https://www.wired.com/story/gamescent-wants-you-to-smell-the-gunfire-while-you-play/)
  - [Apple TV+ teams up with Lionel Messi for one-month free trial of MLS Season Pass](https://appleinsider.com/articles/24/03/21/apple-tv-teams-up-with-lionel-messi-for-one-month-free-trial-of-mls-season-pass?utm_medium=rss)
- - [Can brightening clouds buy us time to fight climate change?](https://www.theverge.com/2024/3/21/24107762/marine-cloud-brightening-climate-change-science-advances)
- - [Best Noise-Canceling Headphones for 2024     - CNET](https://www.cnet.com/tech/mobile/best-noise-canceling-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Can brightening clouds buy us time to fight climate change?](https://www.theverge.com/2024/3/21/24107762/marine-cloud-brightening-climate-change-science-advances)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

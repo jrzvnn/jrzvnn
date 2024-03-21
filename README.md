@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple will crush the DoJ in court if Garland sticks with outdated arguments](https://appleinsider.com/articles/24/03/21/apple-will-crush-the-doj-in-court-if-garland-sticks-with-outdated-arguments?utm_medium=rss)
- - [How Apple’s war on super apps became the center of its antitrust fight](https://www.theverge.com/2024/3/21/24107633/apple-streaming-super-apps-doj-lawsuit)
- - [Reddit opens up 38%, at $47 per share, in its New York Stock Exchange debut, valuing the company at about $9B on a fully diluted basis &lpar;Bloomberg&rpar;](http://www.techmeme.com/240321/p32#a240321p32)
- - [Five takeaways from the huge US antitrust lawsuit against Apple](https://www.theverge.com/2024/3/21/24107651/apple-us-antitrust-lawsuit-doj-five-takeaways)
- - [Apple releases updates for iOS 17.4.1, iPadOS 17.4.1, visionOS 1.1.1](https://appleinsider.com/articles/24/03/21/apple-releases-updates-for-ios-1741-ipados-1741-visionos-111?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon Big Spring Sale 2024: live coverage of the best deals on Apple, accessories &amp; more](https://appleinsider.com/articles/24/03/20/amazon-big-spring-sale-2024-live-coverage-of-the-best-deals-on-apple-accessories-more?utm_medium=rss)
+ - [A look at DOJ&#39;s case against Apple, which has some strong points but also includes some silly arguments like Apple affecting &quot;the flow of speech&quot; via Apple TV+ &lpar;Jason Snell/Six Colors&rpar;](http://www.techmeme.com/240321/p33#a240321p33)
+ - [The Feds Are Trying to Get Plants to Mine Metal Through Their Roots](https://www.wired.com/story/the-feds-are-trying-to-get-plants-to-mine-metal-through-their-roots/)
+ - [Google is bringing satellite messaging to Android 15](https://www.theverge.com/2024/3/21/24107532/android-15-developer-preview-screen-recording-detection-nfc-improvements)
+ - [Notepad in Windows 11 is finally getting a spellcheck feature](https://www.theverge.com/2024/3/21/24107882/notepad-spellcheck-windows-11-feature)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

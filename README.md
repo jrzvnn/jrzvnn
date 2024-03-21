@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [One Man’s Army of Streaming Bots Reveals a Whole Industry’s Problem](https://www.wired.com/story/streaming-bots-spotify/)
+ - [GameScent Wants You to Smell the Gunfire While You Play Video Games](https://www.wired.com/story/gamescent-wants-you-to-smell-the-gunfire-while-you-play/)
+ - [Apple TV+ teams up with Lionel Messi for one-month free trial of MLS Season Pass](https://appleinsider.com/articles/24/03/21/apple-tv-teams-up-with-lionel-messi-for-one-month-free-trial-of-mls-season-pass?utm_medium=rss)
  - [Can brightening clouds buy us time to fight climate change?](https://www.theverge.com/2024/3/21/24107762/marine-cloud-brightening-climate-change-science-advances)
- - [Foundry, a cloud computing service provider focused on AI workloads, comes out of stealth after raising $80M across a seed and a Series A at a $350M valuation &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/240321/p38#a240321p38)
- - [WBD plans to launch Max in Europe starting on May 21 in the Nordics, Iberia, and Central and Eastern Europe, in time for the Olympics, included in all plans &lpar;Adam Chitwood/The Wrap&rpar;](http://www.techmeme.com/240321/p37#a240321p37)
- - [The 27 Best Movies on Hulu This Week](https://www.wired.com/story/best-movies-hulu-right-now/)
- - [Rates Move Higher Following Fed Decision: Mortgage Interest Rates Today for March 21, 2024     - CNET](https://www.cnet.com/personal-finance/key-rates-move-higher-for-homebuyers-mortgage-interest-rates-today-for-march-21-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Noise-Canceling Headphones for 2024     - CNET](https://www.cnet.com/tech/mobile/best-noise-canceling-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

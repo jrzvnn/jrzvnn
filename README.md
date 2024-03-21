@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Showing a scammer his real face](http://9gag.com/gag/abA3znb)
  - 😝 [How the... captain? Which api/library?](http://9gag.com/gag/amoq796)
- - 💣 [Salvador Dali creates amazing foil sculpture in seconds &lpar; 1967&rpar;](http://9gag.com/gag/awyNXA8)
- - 😝 [Get your tickets to hell right here\u2026](http://9gag.com/gag/a4PpbBZ)
- - 👉 [A group of newly graduated REAL doctors from Finland](http://9gag.com/gag/a0evK1d)<!-- MEMES:END -->
+ - 😝 [Everyone who stands against her will be punished](http://9gag.com/gag/axyE0wD)
+ - 💣 [The tallest girl in the world and her husband](http://9gag.com/gag/aZZqm7X)
+ - 😝 [Damn bringing the whole energy of the room to zero](http://9gag.com/gag/aXPZjRb)
+ - 👉 [Def Wallace](http://9gag.com/gag/a9yjpq0)<!-- MEMES:END -->
 
 ---
 

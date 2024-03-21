@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Court docs: Sachin Dev Duggal, the CEO of London-based Builder.ai that raised a $250M Series D in 2023, is a suspect in a money laundering probe in India &lpar;Financial Times&rpar;](http://www.techmeme.com/240321/p7#a240321p7)
+ - [In a research paper, Google Research details how AI enabled the company to provide accurate flood forecasting in over 80 countries up to seven days in advance &lpar;Yossi Matias/The Keyword&rpar;](http://www.techmeme.com/240321/p6#a240321p6)
  - [Canadian regulatory agency ISED clarifies its stance on banning Flipper Zero, saying the aim is to restrict the use of such devices &quot;to legitimate actors only&quot; &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/240321/p5#a240321p5)
  - [Europe Is Struggling to Coexist With Wild Bears](https://www.wired.com/story/bear-attacks-europe-slovakia/)
- - [Fairly Trained certifies KL3M, an LLM claimed to be built without the permissionless use of copyrighted materials by legal tech consultancy startup 273 Ventures &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/240321/p4#a240321p4)
- - [OpenAI says it hasn&#39;t yet set a timeline for the release of Sora, as the company tries to catch up to other text-to-video AI startups like Runway AI &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/240321/p3#a240321p3)
- - [Boston-based CyberSaint, which helps enterprises assess, measure, remediate, and communicate their cyber risk posture, raised a $21M Series A led by Riverside &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/240321/p2#a240321p2)<!-- TECH:END -->
+ - [Fairly Trained certifies KL3M, an LLM claimed to be built without the permissionless use of copyrighted materials by legal tech consultancy startup 273 Ventures &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/240321/p4#a240321p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

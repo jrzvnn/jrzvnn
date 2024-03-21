@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Someone attempted suicide by injecting 10 ml &lpar;135 g&rpar; of elemental mercury &lpar;quicksilver&rpar; intravenously ended up mercury distributed in the lungs and also survived.](http://9gag.com/gag/a5QpoYy)
- - 😝 [Now it&#39;s their Rules](http://9gag.com/gag/aKG4VyQ)
- - 💣 [This is what happens after they normalize obesity...](http://9gag.com/gag/a5QpMoO)
- - 😝 [The tallest girl in the world and her husband](http://9gag.com/gag/aZZqm7X)
- - 👉 [How the... captain? Which api/library?](http://9gag.com/gag/amoq796)<!-- MEMES:END -->
+ - 😝 [The moment you realize that what you did was not a good idea](http://9gag.com/gag/aBy9xwZ)
+ - 😝 [This is what happens after they normalize obesity...](http://9gag.com/gag/a5QpMoO)
+ - 💣 [Someone attempted suicide by injecting 10 ml &lpar;135 g&rpar; of elemental mercury &lpar;quicksilver&rpar; intravenously ended up mercury distributed in the lungs and also survived.](http://9gag.com/gag/a5QpoYy)
+ - 😝 [Got you.](http://9gag.com/gag/agmrLV1)
+ - 👉 [These are a no thanks from me.](http://9gag.com/gag/aW4BYOK)<!-- MEMES:END -->
 
 ---
 

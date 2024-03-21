@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Reddit, one of the last online places where real people gather to talk, is a content moderation success story, after evolving from a dark corner of the internet &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/240321/p18#a240321p18)
+ - [Listening on Apple Vision Pro: Audio Pods vs AirPods Pro vs AirPods Max](https://appleinsider.com/articles/24/03/21/listening-on-apple-vision-pro-audio-pods-vs-airpods-pro-vs-airpods-max?utm_medium=rss)
+ - [Netflix’s &#39;3 Body Problem&#39; Adapts the Unadaptable](https://www.wired.com/story/netflix-3-body-problem-benioff-weiss-woo-interview/)
  - [In a letter to Judge Kaplan, FTX CEO John Ray says SBF&#39;s claims of &quot;zero&quot; harm to users are &quot;demonstrably false&quot; and FTX had only 105 bitcoin when Ray took over &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/240321/p17#a240321p17)
- - [No iPad Air or iPad Pro announcement on March 26, says Gurman](https://appleinsider.com/articles/24/03/21/no-ipad-announcement-on-march-26-says-gurman?utm_medium=rss)
- - [As &quot;censorship free&quot; social network Parler returns to the iOS App Store, CEO Ryan Rhodes talks new features, moderation, and building &quot;a true open platform&quot; &lpar;Wired&rpar;](http://www.techmeme.com/240321/p16#a240321p16)
- - [Neuralink video shows patient using brain implant to play chess on laptop](https://www.theverge.com/2024/3/21/24107499/neuralink-human-trial-chess-video-brain-computer-interface)
- - [Everything to Know About the IRS&#39;s Free File Program     - CNET](https://www.cnet.com/personal-finance/taxes/everything-to-know-about-the-irss-free-file-program/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [No iPad Air or iPad Pro announcement on March 26, says Gurman](https://appleinsider.com/articles/24/03/21/no-ipad-announcement-on-march-26-says-gurman?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

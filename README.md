@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple AirPods Pro USB-C fall to $179 during Amazon Spring Sale 2024](https://appleinsider.com/articles/24/03/21/apple-airpods-pro-usb-c-fall-to-179-during-amazon-spring-sale-2024?utm_medium=rss)
- - [Future Apple Vision Pro brainwave sensors could improve mental and physical health](https://appleinsider.com/articles/24/03/21/future-apple-vision-pro-brainwave-sensors-could-improve-mental-and-physical-health?utm_medium=rss)
- - [US v. Apple: everything you need to know](https://www.theverge.com/24107581/doj-v-apple-antitrust-monoply-news-updates)
- - [Sources: the EU plans to announce investigations into Apple&#39;s and Google&#39;s DMA compliance in the coming days; Meta&#39;s subscriptions could also face scrutiny &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/240321/p27#a240321p27)
- - [US DOJ attacks nearly every aspect of Apple&#39;s business in massive antitrust suit](https://appleinsider.com/articles/24/03/21/us-doj-takes-on-apple-in-massive-antitrust-suit-after-years-of-investigations?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft updates the Surface Laptop 6 and Surface Pro 10 for enterprise, adding a Copilot key, a Neural Processing Unit for Windows 11 AI features, and more &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240321/p28#a240321p28)
+ - [The NSA Warns That US Adversaries Free to Mine Private Data May Have an AI Edge](https://www.wired.com/story/fast-forward-nsa-warns-us-adversaries-private-data-ai-edge/)
+ - [Microsoft’s new Surface devices are easier to repair than ever before](https://www.theverge.com/2024/3/21/24107592/microsoft-surface-pro-10-laptop-6-repairability-servicing-qr-codes-screw-features)
+ - [Microsoft’s first AI PCs are the Surface Pro 10 and Surface Laptop 6 for businesses](https://www.theverge.com/2024/3/21/24107513/microsoft-ai-pc-surface-pro-10-laptop-6-specs-release-date-price)
+ - [Apple AirPods Pro USB-C fall to $179 during Amazon Spring Sale 2024](https://appleinsider.com/articles/24/03/21/apple-airpods-pro-usb-c-fall-to-179-during-amazon-spring-sale-2024?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

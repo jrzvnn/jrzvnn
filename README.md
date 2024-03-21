@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers detail an unpatchable vulnerability in Apple&#39;s M-series of chips that lets attackers extract secret keys from Macs during cryptographic operations &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240321/p42#a240321p42)
+ - [Qualcomm says most Windows games should ‘just work’ on its unannounced Arm laptops](https://www.theverge.com/24107331/qualcomm-gdc-2024-snapdragon-on-windows-games)
  - [The Mozilla Foundation and 90+ research and advocacy groups urge Meta to support CrowdTangle through January 2025 to track election misinformation globally &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/240321/p41#a240321p41)
  - [Light Face Sculpting Tool     - CNET](https://www.cnet.com/health/personal-care/light-face-sculpting-tool-dpnl/#ftag=CAD590a51e)
- - [Beetlejuice Beetlejuice brings the dead man home in its first trailer](https://www.theverge.com/24108114/beetlejuice-beetlejuice-trailer-tim-burton-jenna-ortega)
- - [Panama vs. Mexico Livestream: How to Watch CONCACAF Nations League Semifinal Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/panama-vs-mexico-livestream-how-to-watch-concacaf-nations-league-semifinal-soccer-from-anywhere/#ftag=CAD590a51e)
- - [Pro Pet Grooming Kit     - CNET](https://www.cnet.com/home/kitchen-and-household/pro-pet-grooming-kit-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Beetlejuice Beetlejuice brings the dead man home in its first trailer](https://www.theverge.com/24108114/beetlejuice-beetlejuice-trailer-tim-burton-jenna-ortega)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

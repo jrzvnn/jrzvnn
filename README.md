@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tim Cook meets with developers before opening Apple Jing&#39;an](https://appleinsider.com/articles/24/03/21/tim-cook-meets-with-developers-before-opening-apple-jingan?utm_medium=rss)
  - [US DOJ takes on Apple in massive antitrust suit, after years of investigations](https://appleinsider.com/articles/24/03/21/us-doj-takes-on-apple-in-massive-antitrust-suit-after-years-of-investigations?utm_medium=rss)
  - [The US DOJ sues Apple, alleging the company blocked rivals from accessing iPhone features, made it difficult for users to switch to non-Apple devices, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240321/p25#a240321p25)
  - [DOJ v. Apple: everything you need to know](https://www.theverge.com/24107581/doj-v-apple-antitrust-monoply-news-updates)
- - [IQ Air Atem X Review: High-End Air Purifier](https://www.wired.com/review/iq-air-atem-x-air-purifier/)
- - [UNITED STATES SUES APPLE](https://www.theverge.com/2024/3/21/24105363/apple-doj-monopoly-lawsuit)<!-- TECH:END -->
+ - [IQ Air Atem X Review: High-End Air Purifier](https://www.wired.com/review/iq-air-atem-x-air-purifier/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

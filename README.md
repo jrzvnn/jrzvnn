@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix’s 3 Body Problem adaptation channels the book’s spirit but not its brilliance](https://www.theverge.com/2024/3/21/24102256/netflix-3-body-problem-review)
  - [Mortgage Rates Inch Up Since Last Week: Today&#39;s Mortgage Rates for March 21, 2024     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-rates-inch-up-since-last-week-todays-mortgage-rates-for-march-21-2024/#ftag=CAD590a51e)
  - [Refi Rates Increase for Homeowners: Today&#39;s Refinance Rates, March 21, 2024     - CNET](https://www.cnet.com/personal-finance/mortgages/refi-rates-increase-for-homeowners-todays-refinance-rates-march-21-2024/#ftag=CAD590a51e)
  - [Key Rates Move Higher for Homebuyers: Mortgage Interest Rates Today for March 21, 2024     - CNET](https://www.cnet.com/personal-finance/mortgages/key-rates-move-higher-for-homebuyers-mortgage-interest-rates-today-for-march-21-2024/#ftag=CAD590a51e)
- - [Moto G 5G &lpar;2024&rpar; Review: Close to Being a Great $200 Phone     - CNET](https://www.cnet.com/tech/mobile/moto-g-5g-2024-review-close-to-being-a-great-200-phone/#ftag=CAD590a51e)
- - [Moto G Power 5G &lpar;2024&rpar; Review: A $300 Motorola Gem With Enhanced Upgrades     - CNET](https://www.cnet.com/tech/mobile/moto-g-power-5g-2024-review-a-300-motorola-gem-with-enhanced-upgrades/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Moto G 5G &lpar;2024&rpar; Review: Close to Being a Great $200 Phone     - CNET](https://www.cnet.com/tech/mobile/moto-g-5g-2024-review-close-to-being-a-great-200-phone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

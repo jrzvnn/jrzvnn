@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UPS worker charged after $1.3M Apple product theft spree](https://appleinsider.com/articles/24/03/21/ups-worker-charged-after-13m-apple-product-theft-spree?utm_medium=rss)
  - [Ikea releases a pair of affordable USB-C chargers](https://www.theverge.com/2024/3/21/24107515/ikea-sjoss-chargers-30w-45w-usb-c-price-specs-features)
  - [Tokyo-based Sakana AI, founded by two Google researchers, releases three Japanese language models using &quot;model merging&quot;, which combines existing models &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/240321/p20#a240321p20)
  - [Fake AirPods Pro with on-case OLED display bring an Apple patent to life](https://appleinsider.com/articles/24/03/21/fake-airpods-pro-with-on-case-oled-display-bring-an-apple-patent-to-life?utm_medium=rss)
- - [Qualcomm announces the Snapdragon 7+ Gen 3, a 4nm chip aimed at high-end smartphones that adds on-device generative AI and Wi-Fi 7; OnePlus is the first partner &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240321/p19#a240321p19)
- - [Reddit, one of the last online places where real people gather to talk, is a content moderation success story, after evolving from a dark corner of the internet &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/240321/p18#a240321p18)<!-- TECH:END -->
+ - [Qualcomm announces the Snapdragon 7+ Gen 3, a 4nm chip aimed at high-end smartphones that adds on-device generative AI and Wi-Fi 7; OnePlus is the first partner &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240321/p19#a240321p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

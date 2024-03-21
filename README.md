@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Borderless AI, whose AI agent automates HR tasks like onboarding and payments, emerges from stealth with a $27M seed led by Susquehanna and Agla&amp;eacute; Ventures &lpar;Jena McGregor/Forbes&rpar;](http://www.techmeme.com/240321/p23#a240321p23)
  - [Sources: the BBC plans to build its own AI models, and is holding talks with tech companies, including Amazon, about selling its content for AI training &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/240321/p22#a240321p22)
  - [Used car marketplace Carvana, whose stock fell from $360 to $4, has now rallied to $86, avoiding a financial abyss after restructuring its $9B debt in 2023 &lpar;Sujeet Indap/Financial Times&rpar;](http://www.techmeme.com/240321/p21#a240321p21)
  - [Amazon Spring Sale Takes $100 Off Sony&#39;s Noise-Canceling WH-1000XM4 Headphones     - CNET](https://www.cnet.com/deals/amazon-spring-sale-takes-100-off-sonys-noise-canceling-wh-1000xm4-headphones/#ftag=CAD590a51e)
- - [Better Night Mode Photos: A Pro Photographer&#39;s Tips for Any Phone     - CNET](https://www.cnet.com/tech/mobile/better-night-mode-photos-pro-photographers-tips-for-any-phone/#ftag=CAD590a51e)
- - [How We Test Home Security Cameras and Video Doorbells     - CNET](https://www.cnet.com/home/security/how-we-test-home-security-cameras-and-video-doorbell-cameras/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Better Night Mode Photos: A Pro Photographer&#39;s Tips for Any Phone     - CNET](https://www.cnet.com/tech/mobile/better-night-mode-photos-pro-photographers-tips-for-any-phone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

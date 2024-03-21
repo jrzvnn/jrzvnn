@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube TV rolls out Multiview support on iOS and iPadOS, letting users watch four TV channels at once; Android support will roll out &quot;in the coming months&quot; &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240321/p14#a240321p14)
  - [X launches API top-up packs, letting developers fetch roughly 10,000 more posts for $100 after exceeding their tier&#39;s limits midway through a month &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240321/p13#a240321p13)
  - [Investor letter: Shein announces its &quot;supply chain as a service&quot; initiative to offer its supply chain infrastructure and tech to outside brands and designers &lpar;Shen Lu/Wall Street Journal&rpar;](http://www.techmeme.com/240321/p12#a240321p12)
  - [Perplexity&#39;s Founder Was Inspired by Sundar Pichai. Now They’re Competing to Reinvent Search](https://www.wired.com/story/founder-perplexity-ai-sundar-pichai-competing-to-reinvent-search/)
- - [US government emails show India rolled back its policy to impose restrictions on laptop imports in 2023 after behind-the-scenes lobbying by US officials &lpar;Reuters&rpar;](http://www.techmeme.com/240321/p11#a240321p11)
- - [Child Tax Credit 2024: When Will the IRS Send My Refund?     - CNET](https://www.cnet.com/personal-finance/taxes/child-tax-credit-2024-when-will-the-irs-send-my-refund/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [US government emails show India rolled back its policy to impose restrictions on laptop imports in 2023 after behind-the-scenes lobbying by US officials &lpar;Reuters&rpar;](http://www.techmeme.com/240321/p11#a240321p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

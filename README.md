@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [You won&#39;t believe who is this, wait untill 1998](http://9gag.com/gag/a87d8DY)
+ - 😝 [How the... captain? Which api/library?](http://9gag.com/gag/amoq796)
+ - 💣 [Salvador Dali creates amazing foil sculpture in seconds &lpar; 1967&rpar;](http://9gag.com/gag/awyNXA8)
  - 😝 [&lpar; . &rpar;&lpar; . &rpar;](http://9gag.com/gag/amoq29X)
- - 😝 [Showing a scammer his real face](http://9gag.com/gag/abA3znb)
- - 💣 [Celebrities are too weird and yes this actually happened](http://9gag.com/gag/aGyKD45)
- - 😝 [Now it&#39;s their Rules](http://9gag.com/gag/aKG4VyQ)
- - 👉 [How the... captain? Which api/library?](http://9gag.com/gag/amoq796)<!-- MEMES:END -->
+ - 👉 [Very beautiful Czech police girl](http://9gag.com/gag/aoym2wg)<!-- MEMES:END -->
 
 ---
 

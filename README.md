@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DOJ v. Apple: everything you need to know](https://www.theverge.com/24107581/doj-v-apple-antitrust-monoply-news-updates)
+ - [Apple AirPods Pro USB-C fall to $179 during Amazon Spring Sale 2024](https://appleinsider.com/articles/24/03/21/apple-airpods-pro-usb-c-fall-to-179-during-amazon-spring-sale-2024?utm_medium=rss)
+ - [Future Apple Vision Pro brainwave sensors could improve mental and physical health](https://appleinsider.com/articles/24/03/21/future-apple-vision-pro-brainwave-sensors-could-improve-mental-and-physical-health?utm_medium=rss)
+ - [US v. Apple: everything you need to know](https://www.theverge.com/24107581/doj-v-apple-antitrust-monoply-news-updates)
  - [Sources: the EU plans to announce investigations into Apple&#39;s and Google&#39;s DMA compliance in the coming days; Meta&#39;s subscriptions could also face scrutiny &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/240321/p27#a240321p27)
- - [US DOJ attacks nearly every aspect of Apple&#39;s business in massive antitrust suit](https://appleinsider.com/articles/24/03/21/us-doj-takes-on-apple-in-massive-antitrust-suit-after-years-of-investigations?utm_medium=rss)
- - [Dive into the world of Netflix’s 3 Body Problem](https://www.theverge.com/24083744/netflix-3-body-problem-trailers-review-interview)
- - [Read the lawsuit: United States v. Apple](https://www.theverge.com/2024/3/21/24107659/apple-doj-lawsuit-antitrust-documents-suing)<!-- TECH:END -->
+ - [US DOJ attacks nearly every aspect of Apple&#39;s business in massive antitrust suit](https://appleinsider.com/articles/24/03/21/us-doj-takes-on-apple-in-massive-antitrust-suit-after-years-of-investigations?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

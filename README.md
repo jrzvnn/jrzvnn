@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Everyone who stands against her will be punished](http://9gag.com/gag/axyE0wD)
- - 😝 [A group of newly graduated REAL doctors from Finland](http://9gag.com/gag/a0evK1d)
- - 💣 [Oh..](http://9gag.com/gag/agmrXgq)
- - 😝 [These are a no thanks from me.](http://9gag.com/gag/aW4BYOK)
- - 👉 [Salvador Dali creates amazing foil sculpture in seconds &lpar; 1967&rpar;](http://9gag.com/gag/awyNXA8)<!-- MEMES:END -->
+ - 😝 [Showing a scammer his real face](http://9gag.com/gag/abA3znb)
+ - 😝 [How the... captain? Which api/library?](http://9gag.com/gag/amoq796)
+ - 💣 [Salvador Dali creates amazing foil sculpture in seconds &lpar; 1967&rpar;](http://9gag.com/gag/awyNXA8)
+ - 😝 [Get your tickets to hell right here\u2026](http://9gag.com/gag/a4PpbBZ)
+ - 👉 [A group of newly graduated REAL doctors from Finland](http://9gag.com/gag/a0evK1d)<!-- MEMES:END -->
 
 ---
 

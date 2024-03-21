@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Salvador Dali creates amazing foil sculpture in seconds &lpar; 1967&rpar;](http://9gag.com/gag/awyNXA8)
+ - 😝 [&lpar; . &rpar;&lpar; . &rpar;](http://9gag.com/gag/amoq29X)
+ - 💣 [The moment you realize that what you did was not a good idea](http://9gag.com/gag/aBy9xwZ)
  - 😝 [You won&#39;t believe who is this, wait untill 1998](http://9gag.com/gag/a87d8DY)
- - 😝 [Classic 2011](http://9gag.com/gag/ae9K6Bj)
- - 💣 [Salvador Dali creates amazing foil sculpture in seconds &lpar; 1967&rpar;](http://9gag.com/gag/awyNXA8)
- - 😝 [Now it&#39;s their Rules](http://9gag.com/gag/aKG4VyQ)
- - 👉 [How the... captain? Which api/library?](http://9gag.com/gag/amoq796)<!-- MEMES:END -->
+ - 👉 [The tallest girl in the world and her husband](http://9gag.com/gag/aZZqm7X)<!-- MEMES:END -->
 
 ---
 

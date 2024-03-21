@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A man only seeks one thing.](http://9gag.com/gag/a9yjWqZ)
- - 😝 [Oh Wait ..... What !!](http://9gag.com/gag/a6ZrMBm)
- - 💣 [Get your tickets to hell right here\u2026](http://9gag.com/gag/a4PpbBZ)
- - 😝 [How is this even allowed?](http://9gag.com/gag/a87dpwQ)
- - 👉 [The moment you realize that what you did was not a good idea](http://9gag.com/gag/aBy9xwZ)<!-- MEMES:END -->
+ - 😝 [Everyone who stands against her will be punished](http://9gag.com/gag/axyE0wD)
+ - 😝 [Def Wallace](http://9gag.com/gag/a9yjpq0)
+ - 💣 [How the... captain? Which api/library?](http://9gag.com/gag/amoq796)
+ - 😝 [Got you.](http://9gag.com/gag/agmrLV1)
+ - 👉 [&lpar; . &rpar;&lpar; . &rpar;](http://9gag.com/gag/amoq29X)<!-- MEMES:END -->
 
 ---
 

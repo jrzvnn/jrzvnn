@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The moment you realize that what you did was not a good idea](http://9gag.com/gag/aBy9xwZ)
- - 😝 [Good guy Amish](http://9gag.com/gag/aBy9xXA)
- - 💣 [This is what happens after they normalize obesity...](http://9gag.com/gag/a5QpMoO)
- - 😝 [How the... captain? Which api/library?](http://9gag.com/gag/amoq796)
- - 👉 [About to get a brain tumor removed &lpar;LGG&rpar; &lpar;4x4x4cm&rpar;. A bit scared of chance of getting paralyzed or personality changes but let&#39;s hope for the best. Enjoy your health, it can happen to anyone as I&#39;m only 24. Fu*ck you and see you tomorrow.](http://9gag.com/gag/a0evQ6L)<!-- MEMES:END -->
+ - 😝 [The boss of all couriers has been found in Brazil.](http://9gag.com/gag/aAyBgAg)
+ - 😝 [I&#39;m not drunk... I can drive... Gimme my keys back](http://9gag.com/gag/axyE7Kp)
+ - 💣 [Def Wallace](http://9gag.com/gag/a9yjpq0)
+ - 😝 [Pharaoh&#39;s curse](http://9gag.com/gag/aZZqyMn)
+ - 👉 [Someone attempted suicide by injecting 10 ml &lpar;135 g&rpar; of elemental mercury &lpar;quicksilver&rpar; intravenously ended up mercury distributed in the lungs and also survived.](http://9gag.com/gag/a5QpoYy)<!-- MEMES:END -->
 
 ---
 

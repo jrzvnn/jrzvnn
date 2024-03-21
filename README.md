@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You won&#39;t believe who is this, wait untill 1998](http://9gag.com/gag/a87d8DY)
- - 😝 [How the... captain? Which api/library?](http://9gag.com/gag/amoq796)
- - 💣 [Salvador Dali creates amazing foil sculpture in seconds &lpar; 1967&rpar;](http://9gag.com/gag/awyNXA8)
- - 😝 [&lpar; . &rpar;&lpar; . &rpar;](http://9gag.com/gag/amoq29X)
- - 👉 [Very beautiful Czech police girl](http://9gag.com/gag/aoym2wg)<!-- MEMES:END -->
+ - 😝 [A new Hollywood movie just flopped big time. It even had a `white tears` clock next to white people in the movie. Hope they lost a lot of money on this film.](http://9gag.com/gag/aQz631z)
+ - 😝 [A group of newly graduated REAL doctors from Finland](http://9gag.com/gag/a0evK1d)
+ - 💣 [UK U OK?](http://9gag.com/gag/avy2O2X)
+ - 😝 [Salvador Dali creates amazing foil sculpture in seconds &lpar; 1967&rpar;](http://9gag.com/gag/awyNXA8)
+ - 👉 [Get your tickets to hell right here\u2026](http://9gag.com/gag/a4PpbBZ)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You can get $50 in Samsung credit when you preorder the Music Frame](https://www.theverge.com/2024/3/21/24107851/samsung-music-frame-deal-sale)
  - [A Gene-Edited Pig Kidney Was Just Transplanted Into a Person for the First Time](https://www.wired.com/story/genetically-edited-pig-kidney-human-transplant-xenotransplantation-massachusetts-general-hospital/)
  - [Meta rolls out Threads fediverse integration beta in the US, Canada, and Japan, letting users cross-post and view likes from federated platforms like Mastodon &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240321/p36#a240321p36)
  - [Threads’ fediverse beta opens to share your posts on Mastodon, too](https://www.theverge.com/2024/3/21/24107881/threads-fediverse-beta-launch-mastodon)
- - [Spotify&#39;s TikTok-like redesign reveals the follower numbers for top podcasters: The Joe Rogan Experience has 14.5M, followed by TED Talks Daily with 5M &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/240321/p35#a240321p35)
- - [26 Best Deals From the Amazon Big Spring Sale &lpar;2024&rpar;](https://www.wired.com/story/amazon-big-spring-sale-2024/)<!-- TECH:END -->
+ - [Spotify&#39;s TikTok-like redesign reveals the follower numbers for top podcasters: The Joe Rogan Experience has 14.5M, followed by TED Talks Daily with 5M &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/240321/p35#a240321p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

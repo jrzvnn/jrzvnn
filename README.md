@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook meets with developers before opening Apple Jing&#39;an](https://appleinsider.com/articles/24/03/21/tim-cook-meets-with-developers-before-opening-apple-jingan?utm_medium=rss)
+ - [Read the lawsuit: United States v. Apple](https://www.theverge.com/2024/3/21/24107659/apple-doj-lawsuit-antitrust-documents-suing)
  - [US DOJ takes on Apple in massive antitrust suit, after years of investigations](https://appleinsider.com/articles/24/03/21/us-doj-takes-on-apple-in-massive-antitrust-suit-after-years-of-investigations?utm_medium=rss)
- - [The US DOJ sues Apple, alleging the company blocked rivals from accessing iPhone features, made it difficult for users to switch to non-Apple devices, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240321/p25#a240321p25)
- - [DOJ v. Apple: everything you need to know](https://www.theverge.com/24107581/doj-v-apple-antitrust-monoply-news-updates)
- - [IQ Air Atem X Review: High-End Air Purifier](https://www.wired.com/review/iq-air-atem-x-air-purifier/)<!-- TECH:END -->
+ - [The US Is Suing Apple in an iPhone Antitrust Blockbuster](https://www.wired.com/story/doj-sues-apple-antitrust/)
+ - [Apple says the US DOJ&#39;s lawsuit sets a dangerous precedent and empowers the &quot;government to take a heavy hand in designing people&#39;s technology&quot; &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/240321/p26#a240321p26)
+ - [14 Best Subscription Boxes for Kids &lpar;2024&rpar;: All Ages, STEM, Books, and Snacks](https://www.wired.com/gallery/best-subscription-boxes-for-kids/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

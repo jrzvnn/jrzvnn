@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [This is what happens after they normalize obesity...](http://9gag.com/gag/a5QpMoO)
+ - 😝 [The boss of all couriers has been found in Brazil.](http://9gag.com/gag/aAyBgAg)
+ - 💣 [How the... captain? Which api/library?](http://9gag.com/gag/amoq796)
  - 😝 [Someone attempted suicide by injecting 10 ml &lpar;135 g&rpar; of elemental mercury &lpar;quicksilver&rpar; intravenously ended up mercury distributed in the lungs and also survived.](http://9gag.com/gag/a5QpoYy)
- - 😝 [The moment you realize that what you did was not a good idea](http://9gag.com/gag/aBy9xwZ)
- - 💣 [A group of newly graduated REAL doctors from Finland](http://9gag.com/gag/a0evK1d)
- - 😝 [Why MEN should pay on first date !!! ROFLMFAO...](http://9gag.com/gag/ajPQ5jG)
- - 👉 [How the... captain? Which api/library?](http://9gag.com/gag/amoq796)<!-- MEMES:END -->
+ - 👉 [Def Wallace](http://9gag.com/gag/a9yjpq0)<!-- MEMES:END -->
 
 ---
 

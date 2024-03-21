@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Celebrities are too weird and yes this actually happened](http://9gag.com/gag/aGyKD45)
- - 😝 [The tallest girl in the world and her husband](http://9gag.com/gag/aZZqm7X)
- - 💣 [&lpar; . &rpar;&lpar; . &rpar;](http://9gag.com/gag/amoq29X)
+ - 😝 [Very beautiful Czech police girl](http://9gag.com/gag/aoym2wg)
  - 😝 [How the... captain? Which api/library?](http://9gag.com/gag/amoq796)
- - 👉 [The moment you realize that what you did was not a good idea](http://9gag.com/gag/aBy9xwZ)<!-- MEMES:END -->
+ - 💣 [Now it&#39;s their Rules](http://9gag.com/gag/aKG4VyQ)
+ - 😝 [Def Wallace](http://9gag.com/gag/a9yjpq0)
+ - 👉 [&lpar; . &rpar;&lpar; . &rpar;](http://9gag.com/gag/amoq29X)<!-- MEMES:END -->
 
 ---
 

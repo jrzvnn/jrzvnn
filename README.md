@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The true cause for the food shortage in Gaza. Gotta love the H group, right?](http://9gag.com/gag/aRB607M)
- - 😝 [You won&#39;t believe who is this, wait untill 1998](http://9gag.com/gag/a87d8DY)
- - 💣 [Listen to her Ronda](http://9gag.com/gag/ae9KryW)
- - 😝 [Good guy Amish](http://9gag.com/gag/aBy9xXA)
- - 👉 [Fact](http://9gag.com/gag/axyE7dL)<!-- MEMES:END -->
+ - 😝 [Everyone who stands against her will be punished](http://9gag.com/gag/axyE0wD)
+ - 😝 [A group of newly graduated REAL doctors from Finland](http://9gag.com/gag/a0evK1d)
+ - 💣 [Oh..](http://9gag.com/gag/agmrXgq)
+ - 😝 [These are a no thanks from me.](http://9gag.com/gag/aW4BYOK)
+ - 👉 [Salvador Dali creates amazing foil sculpture in seconds &lpar; 1967&rpar;](http://9gag.com/gag/awyNXA8)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How the... captain? Which api/library?](http://9gag.com/gag/amoq796)
  - 😝 [Everyone who stands against her will be punished](http://9gag.com/gag/axyE0wD)
- - 💣 [The tallest girl in the world and her husband](http://9gag.com/gag/aZZqm7X)
- - 😝 [Damn bringing the whole energy of the room to zero](http://9gag.com/gag/aXPZjRb)
- - 👉 [Def Wallace](http://9gag.com/gag/a9yjpq0)<!-- MEMES:END -->
+ - 😝 [Def Wallace](http://9gag.com/gag/a9yjpq0)
+ - 💣 [Damn bringing the whole energy of the room to zero](http://9gag.com/gag/aXPZjRb)
+ - 😝 [Someone attempted suicide by injecting 10 ml &lpar;135 g&rpar; of elemental mercury &lpar;quicksilver&rpar; intravenously ended up mercury distributed in the lungs and also survived.](http://9gag.com/gag/a5QpoYy)
+ - 👉 [The tallest girl in the world and her husband](http://9gag.com/gag/aZZqm7X)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: after more than six months, the FBI has resumed limited outreach to some US tech companies about foreign propagandists using their platforms &lpar;NBC News&rpar;](http://www.techmeme.com/240320/p44#a240320p44)
  - [Bengaluru-based smart ring maker Ultrahuman raised a $35M Series B, with $25M in equity and the rest in debt, from Blume, Steadview Capital, Nexus, and others &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240320/p43#a240320p43)
  - [Apple Vision Pro expansion will hit Australia &amp; Japan probably in April or May](https://appleinsider.com/articles/24/03/21/apple-vision-pro-expansion-will-hit-australia-japan-probably-in-april-or-may?utm_medium=rss)
  - [A UK jury finds Jian Wen guilty of laundering bitcoin for a Chinese fugitive allegedly behind a ~$6B fraud in China; police had seized BTC worth $2.2B+ in 2018 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240320/p42#a240320p42)
- - [Best Flower Delivery Deals: Shop Now for Fantastic Mother&#39;s Day Bouquet Deals     - CNET](https://www.cnet.com/deals/best-flower-delivery-deals/#ftag=CAD590a51e)
- - [The Swatch x Omega Snoopy MoonSwatch Has Landed](https://www.wired.com/story/the-swatch-x-omega-snoopy-moonswatch-has-landed/)<!-- TECH:END -->
+ - [Best Flower Delivery Deals: Shop Now for Fantastic Mother&#39;s Day Bouquet Deals     - CNET](https://www.cnet.com/deals/best-flower-delivery-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

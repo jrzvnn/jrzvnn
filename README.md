@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [All iPhone 16 models rumored to have thinnest bezels yet](https://appleinsider.com/articles/24/03/20/all-iphone-16-models-will-have-thinnest-bezels-yet?utm_medium=rss)
- - [MLB 2024: How to Watch, Stream Baseball This Season Without Cable     - CNET](https://www.cnet.com/deals/mlb-2024-how-to-watch-stream-baseball-this-season-without-cable/#ftag=CAD590a51e)
- - [Sources: Cohere, which has raised $445M and was seeking new funding at a $6B valuation last year, generated just ~$13M in annualized revenue at the end of 2023 &lpar;The Information&rpar;](http://www.techmeme.com/240320/p40#a240320p40)
- - [There Are Already More Measles Cases in the US This Year Than All of 2023](https://www.wired.com/story/measles-us-cases-vaccinations-2024/)
- - [Thoughtful Mother&#39;s Day Gifts for When You Can&#39;t Be There in Person     - CNET](https://www.cnet.com/news/best-mothers-day-gifts-when-you-cant-be-there-in-person/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A UK jury finds Jian Wen guilty of laundering bitcoin for a Chinese fugitive allegedly behind a ~$6B fraud in China; police had seized BTC worth $2.2B+ in 2018 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240320/p42#a240320p42)
+ - [The Swatch x Omega Snoopy MoonSwatch Has Landed](https://www.wired.com/story/the-swatch-x-omega-snoopy-moonswatch-has-landed/)
+ - [‘The Legend of Zelda: Tears of the Kingdom’ Initial Prototypes Were ‘Chaos’](https://www.wired.com/story/the-legend-of-zelda-tears-of-the-kingdom-initial-prototypes-were-chaos/)
+ - [Best Solar Panel Installation Companies in Orlando     - CNET](https://www.cnet.com/home/energy-and-utilities/orlando-solar-panels/#ftag=CAD590a51e)
+ - [Neuralink shows its first brain implant patient, a 29-year-old man paralyzed from the shoulders down, play online chess using the Neuralink device &lpar;Emily Mullin/Wired&rpar;](http://www.techmeme.com/240320/p41#a240320p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

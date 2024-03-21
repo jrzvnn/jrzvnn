@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple releases updates for iOS 17.4.1, iPadOS 17.4.1, visionOS 1.1.1](https://appleinsider.com/articles/24/03/21/apple-releases-updates-for-ios-1741-ipados-1741-visionos-111?utm_medium=rss)
  - [Apple Silicon vulnerability leaks encryption keys, and can&#39;t be patched easily](https://appleinsider.com/articles/24/03/21/apple-silicon-vulnerability-leaks-encryption-keys-and-cant-be-patched-easily?utm_medium=rss)
  - [The BMW Vision Neue Klasse X has round battery cells, four super-brains, and a 3D grille](https://www.theverge.com/2024/3/21/24107631/bmw-vision-neue-klasse-x-concept-ev-super-brain-grille)
  - [12 Best Headphones for Working Out &lpar;2024&rpar;](https://www.wired.com/gallery/best-workout-headphones/)
- - [The second-gen AirPods Pro with USB-C are down to $180, a new all-time low](https://www.theverge.com/2024/3/21/24107557/apple-airpods-pro-usb-c-meta-quest-2-nomad-amazon-spring-sale-deal)
- - [Source: Microsoft agreed to pay Inflection ~$650M when hiring its staff, mostly via a licensing deal that makes Inflection&#39;s models available for sale on Azure &lpar;The Information&rpar;](http://www.techmeme.com/240321/p31#a240321p31)<!-- TECH:END -->
+ - [Best Pillow-Top Mattresses for 2024     - CNET](https://www.cnet.com/health/sleep/best-pillow-top-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

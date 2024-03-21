@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Salvador Dali creates amazing foil sculpture in seconds &lpar; 1967&rpar;](http://9gag.com/gag/awyNXA8)
- - 😝 [Posting memes I found on my smartphone until I get bored or die #139](http://9gag.com/gag/a34vKem)
- - 💣 [Get your tickets to hell right here\u2026](http://9gag.com/gag/a4PpbBZ)
- - 😝 [Unnecessary but i want one](http://9gag.com/gag/aD2R1r9)
- - 👉 [A group of newly graduated REAL doctors from Finland](http://9gag.com/gag/a0evK1d)<!-- MEMES:END -->
+ - 😝 [Very beautiful Czech police girl](http://9gag.com/gag/aoym2wg)
+ - 😝 [So many to choose from](http://9gag.com/gag/aMVejmx)
+ - 💣 [The moment you realize that what you did was not a good idea](http://9gag.com/gag/aBy9xwZ)
+ - 😝 [Someone attempted suicide by injecting 10 ml &lpar;135 g&rpar; of elemental mercury &lpar;quicksilver&rpar; intravenously ended up mercury distributed in the lungs and also survived.](http://9gag.com/gag/a5QpoYy)
+ - 👉 [Classic 2011](http://9gag.com/gag/ae9K6Bj)<!-- MEMES:END -->
 
 ---
 

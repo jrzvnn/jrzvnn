@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Posting memes I found on my smartphone until I get bored or die #139](http://9gag.com/gag/a34vKem)
- - 😝 [UK U OK?](http://9gag.com/gag/avy2O2X)
- - 💣 [A group of newly graduated REAL doctors from Finland](http://9gag.com/gag/a0evK1d)
- - 😝 [Salvador Dali creates amazing foil sculpture in seconds &lpar; 1967&rpar;](http://9gag.com/gag/awyNXA8)
- - 👉 [Get your tickets to hell right here\u2026](http://9gag.com/gag/a4PpbBZ)<!-- MEMES:END -->
+ - 😝 [Very beautiful Czech police girl](http://9gag.com/gag/aoym2wg)
+ - 😝 [The moment you realize that what you did was not a good idea](http://9gag.com/gag/aBy9xwZ)
+ - 💣 [How the... captain? Which api/library?](http://9gag.com/gag/amoq796)
+ - 😝 [&lpar; . &rpar;&lpar; . &rpar;](http://9gag.com/gag/amoq29X)
+ - 👉 [The tallest girl in the world and her husband](http://9gag.com/gag/aZZqm7X)<!-- MEMES:END -->
 
 ---
 

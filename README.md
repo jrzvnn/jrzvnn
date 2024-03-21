@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta rolls out Threads fediverse integration beta in the US, Canada, and Japan, letting users cross-post and view likes from federated platforms like Mastodon &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240321/p36#a240321p36)
  - [Threads’ fediverse beta opens to share your posts on Mastodon, too](https://www.theverge.com/2024/3/21/24107881/threads-fediverse-beta-launch-mastodon)
- - [Spotify&#39;s TikTok-like redesign reveals the follower numbers for top podcasters: The Joe Rogan Experience has 14.5M, followed by TED Talks Daily&#39;s 5M followers &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/240321/p35#a240321p35)
+ - [Spotify&#39;s TikTok-like redesign reveals the follower numbers for top podcasters: The Joe Rogan Experience has 14.5M, followed by TED Talks Daily with 5M &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/240321/p35#a240321p35)
  - [26 Best Deals From the Amazon Big Spring Sale &lpar;2024&rpar;](https://www.wired.com/story/amazon-big-spring-sale-2024/)
- - [Apple will crush the DoJ in court if Garland sticks with outdated arguments](https://appleinsider.com/articles/24/03/21/apple-will-crush-the-doj-in-court-if-garland-sticks-with-outdated-arguments?utm_medium=rss)
- - [The DOJ&#39;s Apple suit has a lot of parallels to its Microsoft suit in the 1990s, but Apple&#39;s monopoly position is not nearly as clear-cut as Microsoft&#39;s was &lpar;Matt Rosoff/TechCrunch&rpar;](http://www.techmeme.com/240321/p34#a240321p34)<!-- TECH:END -->
+ - [Apple will crush the DoJ in court if Garland sticks with outdated arguments](https://appleinsider.com/articles/24/03/21/apple-will-crush-the-doj-in-court-if-garland-sticks-with-outdated-arguments?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

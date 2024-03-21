@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Someone attempted suicide by injecting 10 ml &lpar;135 g&rpar; of elemental mercury &lpar;quicksilver&rpar; intravenously ended up mercury distributed in the lungs and also survived.](http://9gag.com/gag/a5QpoYy)
- - 😝 [This is what happens after they normalize obesity...](http://9gag.com/gag/a5QpMoO)
- - 💣 [The tallest girl in the world and her husband](http://9gag.com/gag/aZZqm7X)
- - 😝 [His soul is no longer with us](http://9gag.com/gag/amoqrR9)
- - 👉 [So many to choose from](http://9gag.com/gag/aMVejmx)<!-- MEMES:END -->
+ - 😝 [Oh Wait ..... What !!](http://9gag.com/gag/a6ZrMBm)
+ - 😝 [Ooof...That was more shocking than she thought.](http://9gag.com/gag/aMVewAG)
+ - 💣 [How is this even allowed?](http://9gag.com/gag/a87dpwQ)
+ - 😝 [You won&#39;t believe who is this, wait untill 1998](http://9gag.com/gag/a87d8DY)
+ - 👉 [The moment you realize that what you did was not a good idea](http://9gag.com/gag/aBy9xwZ)<!-- MEMES:END -->
 
 ---
 

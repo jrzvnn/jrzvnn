@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The Mozilla Foundation and 90+ research and advocacy groups urge Meta to support CrowdTangle through January 2025 to track election misinformation globally &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/240321/p41#a240321p41)
+ - [Light Face Sculpting Tool     - CNET](https://www.cnet.com/health/personal-care/light-face-sculpting-tool-dpnl/#ftag=CAD590a51e)
  - [Beetlejuice Beetlejuice brings the dead man home in its first trailer](https://www.theverge.com/24108114/beetlejuice-beetlejuice-trailer-tim-burton-jenna-ortega)
- - [Apple&#39;s iMessage Encryption Puts Its Security Practices in the DOJ&#39;s Crosshairs](https://www.wired.com/story/apple-doj-antitrust-imessage-encryption/)
- - [The Antitrust Case Against Apple Argues It Has a Stranglehold on the Future](https://www.wired.com/story/antitrust-case-apple-stranglehold-on-the-future/)
- - [The UN unanimously adopts the first global resolution on AI to encourage protecting personal data, monitoring AI for risks, and safeguarding human rights &lpar;Alexandra Alper/Reuters&rpar;](http://www.techmeme.com/240321/p40#a240321p40)<!-- TECH:END -->
+ - [Panama vs. Mexico Livestream: How to Watch CONCACAF Nations League Semifinal Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/panama-vs-mexico-livestream-how-to-watch-concacaf-nations-league-semifinal-soccer-from-anywhere/#ftag=CAD590a51e)
+ - [Pro Pet Grooming Kit     - CNET](https://www.cnet.com/home/kitchen-and-household/pro-pet-grooming-kit-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

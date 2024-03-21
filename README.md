@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh Wait ..... What !!](http://9gag.com/gag/a6ZrMBm)
- - 😝 [Ooof...That was more shocking than she thought.](http://9gag.com/gag/aMVewAG)
- - 💣 [How is this even allowed?](http://9gag.com/gag/a87dpwQ)
- - 😝 [You won&#39;t believe who is this, wait untill 1998](http://9gag.com/gag/a87d8DY)
- - 👉 [The moment you realize that what you did was not a good idea](http://9gag.com/gag/aBy9xwZ)<!-- MEMES:END -->
+ - 😝 [Very beautiful Czech police girl](http://9gag.com/gag/aoym2wg)
+ - 😝 [This is what happens after they normalize obesity...](http://9gag.com/gag/a5QpMoO)
+ - 💣 [The tallest girl in the world and her husband](http://9gag.com/gag/aZZqm7X)
+ - 😝 [&lpar; . &rpar;&lpar; . &rpar;](http://9gag.com/gag/amoq29X)
+ - 👉 [Got you.](http://9gag.com/gag/agmrLV1)<!-- MEMES:END -->
 
 ---
 

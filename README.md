@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Succinct, which is building zero-knowledge proof tech for blockchain apps, raised $55M led by Paradigm across a seed and a Series A &lpar;Brady Dale/Axios&rpar;](http://www.techmeme.com/240321/p29#a240321p29)
+ - [UNITED STATES SUES APPLE](https://www.theverge.com/2024/3/21/24105363/apple-doj-monopoly-lawsuit)
  - [Microsoft updates the Surface Laptop 6 and Surface Pro 10 for enterprise, adding a Copilot key, a Neural Processing Unit for Windows 11 AI features, and more &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240321/p28#a240321p28)
  - [The NSA Warns That US Adversaries Free to Mine Private Data May Have an AI Edge](https://www.wired.com/story/fast-forward-nsa-warns-us-adversaries-private-data-ai-edge/)
- - [Microsoft’s new Surface devices are easier to repair than ever before](https://www.theverge.com/2024/3/21/24107592/microsoft-surface-pro-10-laptop-6-repairability-servicing-qr-codes-screw-features)
- - [Microsoft’s first AI PCs are the Surface Pro 10 and Surface Laptop 6 for businesses](https://www.theverge.com/2024/3/21/24107513/microsoft-ai-pc-surface-pro-10-laptop-6-specs-release-date-price)
- - [Apple AirPods Pro USB-C fall to $179 during Amazon Spring Sale 2024](https://appleinsider.com/articles/24/03/21/apple-airpods-pro-usb-c-fall-to-179-during-amazon-spring-sale-2024?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft’s new Surface devices are easier to repair than ever before](https://www.theverge.com/2024/3/21/24107592/microsoft-surface-pro-10-laptop-6-repairability-servicing-qr-codes-screw-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

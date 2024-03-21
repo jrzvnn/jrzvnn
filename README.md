@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [BlackRock unveils its first tokenized asset fund, BUIDL, built on the Ethereum network and fully backed by cash, US Treasury bills, and repurchase agreements &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/240320/p45#a240320p45)
  - [Sources: after more than six months, the FBI has resumed limited outreach to some US tech companies about foreign propagandists using their platforms &lpar;NBC News&rpar;](http://www.techmeme.com/240320/p44#a240320p44)
+ - [Nuro R3 EV Is an Adorable Self-Driving Snack Bar     - CNET](https://www.cnet.com/roadshow/news/nuro-r3-ev-is-an-adorable-self-driving-snack-bar/#ftag=CAD590a51e)
  - [Bengaluru-based smart ring maker Ultrahuman raised a $35M Series B, with $25M in equity and the rest in debt, from Blume, Steadview Capital, Nexus, and others &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240320/p43#a240320p43)
- - [Apple Vision Pro expansion will hit Australia &amp; Japan probably in April or May](https://appleinsider.com/articles/24/03/21/apple-vision-pro-expansion-will-hit-australia-japan-probably-in-april-or-may?utm_medium=rss)
- - [A UK jury finds Jian Wen guilty of laundering bitcoin for a Chinese fugitive allegedly behind a ~$6B fraud in China; police had seized BTC worth $2.2B+ in 2018 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240320/p42#a240320p42)
- - [Best Flower Delivery Deals: Shop Now for Fantastic Mother&#39;s Day Bouquet Deals     - CNET](https://www.cnet.com/deals/best-flower-delivery-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Vision Pro expansion will hit Australia &amp; Japan probably in April or May](https://appleinsider.com/articles/24/03/21/apple-vision-pro-expansion-will-hit-australia-japan-probably-in-april-or-may?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

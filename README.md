@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DoorDash partners with Alphabet&#39;s Wing to test drone delivery in the US, starting in Christiansburg, VA, after launching a pilot program in Australia in 2022 &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240321/p39#a240321p39)
  - [Apple CarPlay is anticompetitive, too, US lawsuit alleges](https://www.theverge.com/2024/3/21/24107976/apple-carplay-doj-lawsuit-anticompetitive-digital-key)
  - [One Man’s Army of Streaming Bots Reveals a Whole Industry’s Problem](https://www.wired.com/story/streaming-bots-spotify/)
  - [GameScent Wants You to Smell the Gunfire While You Play Video Games](https://www.wired.com/story/gamescent-wants-you-to-smell-the-gunfire-while-you-play/)
- - [Apple TV+ teams up with Lionel Messi for one-month free trial of MLS Season Pass](https://appleinsider.com/articles/24/03/21/apple-tv-teams-up-with-lionel-messi-for-one-month-free-trial-of-mls-season-pass?utm_medium=rss)
- - [Can brightening clouds buy us time to fight climate change?](https://www.theverge.com/2024/3/21/24107762/marine-cloud-brightening-climate-change-science-advances)<!-- TECH:END -->
+ - [Apple TV+ teams up with Lionel Messi for one-month free trial of MLS Season Pass](https://appleinsider.com/articles/24/03/21/apple-tv-teams-up-with-lionel-messi-for-one-month-free-trial-of-mls-season-pass?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

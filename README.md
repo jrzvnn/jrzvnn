@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The TikTok divestment bill fits into a long and important US tradition of forbidding a hostile foreign power from controlling a major communication platform &lpar;Zephyr Teachout/The Atlantic&rpar;](http://www.techmeme.com/240321/p9#a240321p9)
  - [Paris-based Greenly, whose carbon accounting software helps SMBs track their carbon emissions, raised a $52M Series B, and reports $10M+ in ARR in 2023 &lpar;Tim De Chant/TechCrunch&rpar;](http://www.techmeme.com/240321/p8#a240321p8)
  - [Court docs: Sachin Dev Duggal, the CEO of London-based Builder.ai that raised a $250M Series D in 2023, is a suspect in a money laundering probe in India &lpar;Financial Times&rpar;](http://www.techmeme.com/240321/p7#a240321p7)
  - [In a research paper, Google Research details how AI enabled the company to provide accurate flood forecasting in over 80 countries up to seven days in advance &lpar;Yossi Matias/The Keyword&rpar;](http://www.techmeme.com/240321/p6#a240321p6)
- - [Canadian regulatory agency ISED clarifies its stance on banning Flipper Zero, saying the aim is to restrict the use of such devices &quot;to legitimate actors only&quot; &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/240321/p5#a240321p5)
- - [Europe Is Struggling to Coexist With Wild Bears](https://www.wired.com/story/bear-attacks-europe-slovakia/)<!-- TECH:END -->
+ - [Canadian regulatory agency ISED clarifies its stance on banning Flipper Zero, saying the aim is to restrict the use of such devices &quot;to legitimate actors only&quot; &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/240321/p5#a240321p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

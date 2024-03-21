@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DoorDash begins Baconator deliveries by drone](https://www.theverge.com/2024/3/21/24107181/doordash-drone-delivery-wing-wendys-christianburg-virginia)
+ - [Motorola spoiled a good budget phone with bloatware](https://www.theverge.com/24105894/motorola-moto-g-power-2024-review-specs-features-apps-bloatware)
  - [A Topsy-Turvy Online Election](https://www.wired.com/story/a-topsy-turvy-online-election/)
  - [Borderless AI, whose AI agent automates HR tasks like onboarding and payments, emerges from stealth with a $27M seed led by Susquehanna and Agla&amp;eacute; Ventures &lpar;Jena McGregor/Forbes&rpar;](http://www.techmeme.com/240321/p23#a240321p23)
- - [Sources: the BBC plans to build its own AI models, and is holding talks with tech companies, including Amazon, about selling its content for AI training &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/240321/p22#a240321p22)
- - [Used car marketplace Carvana, whose stock fell from $360 to $4, has now rallied to $86, avoiding a financial abyss after restructuring its $9B debt in 2023 &lpar;Sujeet Indap/Financial Times&rpar;](http://www.techmeme.com/240321/p21#a240321p21)
- - [Amazon Spring Sale Takes $100 Off Sony&#39;s Noise-Canceling WH-1000XM4 Headphones     - CNET](https://www.cnet.com/deals/amazon-spring-sale-takes-100-off-sonys-noise-canceling-wh-1000xm4-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: the BBC plans to build its own AI models, and is holding talks with tech companies, including Amazon, about selling its content for AI training &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/240321/p22#a240321p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

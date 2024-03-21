@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Showing a scammer his real face](http://9gag.com/gag/abA3znb)
- - 😝 [Salvador Dali creates amazing foil sculpture in seconds &lpar; 1967&rpar;](http://9gag.com/gag/awyNXA8)
- - 💣 [Pretty fly for a white guy](http://9gag.com/gag/aMVe82P)
- - 😝 [Get your tickets to hell right here\u2026](http://9gag.com/gag/a4PpbBZ)
- - 👉 [The moment you realize that what you did was not a good idea](http://9gag.com/gag/aBy9xwZ)<!-- MEMES:END -->
+ - 😝 [A group of newly graduated REAL doctors from Finland](http://9gag.com/gag/a0evK1d)
+ - 😝 [Very beautiful Czech police girl](http://9gag.com/gag/aoym2wg)
+ - 💣 [Now it&#39;s their Rules](http://9gag.com/gag/aKG4VyQ)
+ - 😝 [The tallest girl in the world and her husband](http://9gag.com/gag/aZZqm7X)
+ - 👉 [Everyone who stands against her will be punished](http://9gag.com/gag/axyE0wD)<!-- MEMES:END -->
 
 ---
 

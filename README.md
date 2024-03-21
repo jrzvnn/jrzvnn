@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The second-gen AirPods Pro with USB-C are down to $180, a new all-time low](https://www.theverge.com/2024/3/21/24107557/apple-airpods-pro-usb-c-meta-quest-2-nomad-amazon-spring-sale-deal)
  - [Source: Microsoft agreed to pay Inflection ~$650M when hiring its staff, mostly via a licensing deal that makes Inflection&#39;s models available for sale on Azure &lpar;The Information&rpar;](http://www.techmeme.com/240321/p31#a240321p31)
  - [US v. Apple: everything you need to know](https://www.theverge.com/24107581/doj-v-apple-antitrust-monoply-news-updates)
  - [Reflecting on Reddit&#39;s history: Steve Huffman and Alexis Ohanian pitching a food app, wanting to use snoo.com, and seeing traffic explode after Reddit launched &lpar;Paul Graham/Y Combinator&rpar;](http://www.techmeme.com/240321/p30#a240321p30)
- - [Converse’s upcoming D&amp;D collection rolls with retro roleplayers](https://www.theverge.com/2024/3/21/24107668/dungeons-and-dragons-converse-anniversary-collection-chuck-taylor)
- - [State legislator makes deepfake of colleague to prove deepfakes are bad](https://www.theverge.com/2024/3/21/24107787/deepfake-bill-georgia-colton-moore)<!-- TECH:END -->
+ - [Converse’s upcoming D&amp;D collection rolls with retro roleplayers](https://www.theverge.com/2024/3/21/24107668/dungeons-and-dragons-converse-anniversary-collection-chuck-taylor)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

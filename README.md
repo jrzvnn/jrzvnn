@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Very beautiful Czech police girl](http://9gag.com/gag/aoym2wg)
+ - 😝 [How the... captain? Which api/library?](http://9gag.com/gag/amoq796)
  - 😝 [The moment you realize that what you did was not a good idea](http://9gag.com/gag/aBy9xwZ)
- - 💣 [How the... captain? Which api/library?](http://9gag.com/gag/amoq796)
- - 😝 [&lpar; . &rpar;&lpar; . &rpar;](http://9gag.com/gag/amoq29X)
- - 👉 [The tallest girl in the world and her husband](http://9gag.com/gag/aZZqm7X)<!-- MEMES:END -->
+ - 💣 [Very beautiful Czech police girl](http://9gag.com/gag/aoym2wg)
+ - 😝 [Now it&#39;s their Rules](http://9gag.com/gag/aKG4VyQ)
+ - 👉 [Classic 2011](http://9gag.com/gag/ae9K6Bj)<!-- MEMES:END -->
 
 ---
 

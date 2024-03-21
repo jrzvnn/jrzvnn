@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DoorDash begins Baconator deliveries by drone](https://www.theverge.com/2024/3/21/24107181/doordash-drone-delivery-wing-wendys-christianburg-virginia)
- - [Motorola spoiled a good budget phone with bloatware](https://www.theverge.com/24105894/motorola-moto-g-power-2024-review-specs-features-apps-bloatware)
- - [A Topsy-Turvy Online Election](https://www.wired.com/story/a-topsy-turvy-online-election/)
- - [Borderless AI, whose AI agent automates HR tasks like onboarding and payments, emerges from stealth with a $27M seed led by Susquehanna and Agla&amp;eacute; Ventures &lpar;Jena McGregor/Forbes&rpar;](http://www.techmeme.com/240321/p23#a240321p23)
- - [Sources: the BBC plans to build its own AI models, and is holding talks with tech companies, including Amazon, about selling its content for AI training &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/240321/p22#a240321p22)<!-- TECH:END -->
+ - [Mortgage Rates Inch Up Since Last Week: Today&#39;s Mortgage Rates for March 21, 2024     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-rates-inch-up-since-last-week-todays-mortgage-rates-for-march-21-2024/#ftag=CAD590a51e)
+ - [Refi Rates Increase for Homeowners: Today&#39;s Refinance Rates, March 21, 2024     - CNET](https://www.cnet.com/personal-finance/mortgages/refi-rates-increase-for-homeowners-todays-refinance-rates-march-21-2024/#ftag=CAD590a51e)
+ - [Key Rates Move Higher for Homebuyers: Mortgage Interest Rates Today for March 21, 2024     - CNET](https://www.cnet.com/personal-finance/mortgages/key-rates-move-higher-for-homebuyers-mortgage-interest-rates-today-for-march-21-2024/#ftag=CAD590a51e)
+ - [Moto G 5G &lpar;2024&rpar; Review: Close to Being a Great $200 Phone     - CNET](https://www.cnet.com/tech/mobile/moto-g-5g-2024-review-close-to-being-a-great-200-phone/#ftag=CAD590a51e)
+ - [Moto G Power 5G &lpar;2024&rpar; Review: A $300 Motorola Gem With Enhanced Upgrades     - CNET](https://www.cnet.com/tech/mobile/moto-g-power-5g-2024-review-a-300-motorola-gem-with-enhanced-upgrades/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

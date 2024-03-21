@@ -169,8 +169,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Reddit, one of the last online places where real people gather to talk, is a content moderation success story, after evolving from a dark corner of the internet &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/240321/p18#a240321p18)
  - [Listening on Apple Vision Pro: Audio Pods vs AirPods Pro vs AirPods Max](https://appleinsider.com/articles/24/03/21/listening-on-apple-vision-pro-audio-pods-vs-airpods-pro-vs-airpods-max?utm_medium=rss)
  - [Netflix’s &#39;3 Body Problem&#39; Adapts the Unadaptable](https://www.wired.com/story/netflix-3-body-problem-benioff-weiss-woo-interview/)
- - [In a letter to Judge Kaplan, FTX CEO John Ray says SBF&#39;s claims of &quot;zero&quot; harm to users are &quot;demonstrably false&quot; and FTX had only 105 bitcoin when Ray took over &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/240321/p17#a240321p17)
- - [No iPad Air or iPad Pro announcement on March 26, says Gurman](https://appleinsider.com/articles/24/03/21/no-ipad-announcement-on-march-26-says-gurman?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon Big Spring Sale: 70 Best Deals From Day Two of the Huge Shopping Event     - CNET](https://www.cnet.com/deals/amazon-big-spring-sale-70-best-deals-day-two-huge-shopping-event/#ftag=CAD590a51e)
+ - [42 Home and Kitchen Deals to Get You Ready for Spring     - CNET](https://www.cnet.com/deals/42-home-and-kitchen-deals-to-get-you-ready-for-spring/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Got you.](http://9gag.com/gag/agmrLV1)
+ - 😝 [So many to choose from](http://9gag.com/gag/aMVejmx)
  - 😝 [Very beautiful Czech police girl](http://9gag.com/gag/aoym2wg)
- - 💣 [So many to choose from](http://9gag.com/gag/aMVejmx)
- - 😝 [The moment you realize that what you did was not a good idea](http://9gag.com/gag/aBy9xwZ)
- - 👉 [These are a no thanks from me.](http://9gag.com/gag/aW4BYOK)<!-- MEMES:END -->
+ - 💣 [How the... captain? Which api/library?](http://9gag.com/gag/amoq796)
+ - 😝 [Now it&#39;s their Rules](http://9gag.com/gag/aKG4VyQ)
+ - 👉 [The tallest girl in the world and her husband](http://9gag.com/gag/aZZqm7X)<!-- MEMES:END -->
 
 ---
 

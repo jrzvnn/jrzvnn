@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X suspended accounts of some journalists and researchers who posted the alleged real name of neo-Nazi cartoonist Stonetoss after Stonetoss appealed to Elon Musk &lpar;David Gilbert/Wired&rpar;](http://www.techmeme.com/240320/p46#a240320p46)
  - [How to use Check In for home, different locations, and with timers](https://appleinsider.com/inside/ios/tips/how-to-use-check-in-for-home-different-locations-and-with-timers?utm_medium=rss)
  - [BlackRock unveils its first tokenized asset fund, BUIDL, built on the Ethereum network and fully backed by cash, US Treasury bills, and repurchase agreements &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/240320/p45#a240320p45)
  - [Sources: after more than six months, the FBI has resumed limited outreach to some US tech companies about foreign propagandists using their platforms &lpar;NBC News&rpar;](http://www.techmeme.com/240320/p44#a240320p44)
- - [Nuro R3 EV Is an Adorable Self-Driving Snack Bar     - CNET](https://www.cnet.com/roadshow/news/nuro-r3-ev-is-an-adorable-self-driving-snack-bar/#ftag=CAD590a51e)
- - [Bengaluru-based smart ring maker Ultrahuman raised a $35M Series B, with $25M in equity and the rest in debt, from Blume, Steadview Capital, Nexus, and others &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240320/p43#a240320p43)<!-- TECH:END -->
+ - [Nuro R3 EV Is an Adorable Self-Driving Snack Bar     - CNET](https://www.cnet.com/roadshow/news/nuro-r3-ev-is-an-adorable-self-driving-snack-bar/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

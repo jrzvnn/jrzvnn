@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Beetlejuice Beetlejuice brings the dead man home in its first trailer](https://www.theverge.com/24108114/beetlejuice-beetlejuice-trailer-tim-burton-jenna-ortega)
+ - [Apple&#39;s iMessage Encryption Puts Its Security Practices in the DOJ&#39;s Crosshairs](https://www.wired.com/story/apple-doj-antitrust-imessage-encryption/)
+ - [The Antitrust Case Against Apple Argues It Has a Stranglehold on the Future](https://www.wired.com/story/antitrust-case-apple-stranglehold-on-the-future/)
  - [The UN unanimously adopts the first global resolution on AI to encourage protecting personal data, monitoring AI for risks, and safeguarding human rights &lpar;Alexandra Alper/Reuters&rpar;](http://www.techmeme.com/240321/p40#a240321p40)
- - [DoorDash partners with Alphabet&#39;s Wing to test drone delivery in the US, starting in Christiansburg, VA, after launching a pilot program in Australia in 2022 &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240321/p39#a240321p39)
- - [Apple CarPlay is anticompetitive, too, US lawsuit alleges](https://www.theverge.com/2024/3/21/24107976/apple-carplay-doj-lawsuit-anticompetitive-digital-key)
- - [One Man’s Army of Streaming Bots Reveals a Whole Industry’s Problem](https://www.wired.com/story/streaming-bots-spotify/)
- - [GameScent Wants You to Smell the Gunfire While You Play Video Games](https://www.wired.com/story/gamescent-wants-you-to-smell-the-gunfire-while-you-play/)<!-- TECH:END -->
+ - [DoorDash partners with Alphabet&#39;s Wing to test drone delivery in the US, starting in Christiansburg, VA, after launching a pilot program in Australia in 2022 &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240321/p39#a240321p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

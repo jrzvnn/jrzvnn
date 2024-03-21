@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the EU plans to announce investigations into Apple&#39;s and Google&#39;s DMA compliance in the coming days; Meta&#39;s subscriptions could also face scrutiny &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/240321/p27#a240321p27)
  - [US DOJ attacks nearly every aspect of Apple&#39;s business in massive antitrust suit](https://appleinsider.com/articles/24/03/21/us-doj-takes-on-apple-in-massive-antitrust-suit-after-years-of-investigations?utm_medium=rss)
  - [Dive into the world of Netflix’s 3 Body Problem](https://www.theverge.com/24083744/netflix-3-body-problem-trailers-review-interview)
  - [Read the lawsuit: United States v. Apple](https://www.theverge.com/2024/3/21/24107659/apple-doj-lawsuit-antitrust-documents-suing)
- - [The US Is Suing Apple in an iPhone Antitrust Blockbuster](https://www.wired.com/story/doj-sues-apple-antitrust/)
- - [Apple says the US DOJ&#39;s lawsuit sets a dangerous precedent and empowers the &quot;government to take a heavy hand in designing people&#39;s technology&quot; &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/240321/p26#a240321p26)<!-- TECH:END -->
+ - [The US Sues Apple in an iPhone Antitrust Blockbuster](https://www.wired.com/story/doj-sues-apple-antitrust/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

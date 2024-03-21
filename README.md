@@ -170,7 +170,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Investor letter: Shein announces its &quot;supply chain as a service&quot; initiative to offer its supply chain infrastructure and tech to outside brands and designers &lpar;Shen Lu/Wall Street Journal&rpar;](http://www.techmeme.com/240321/p12#a240321p12)
  - [Perplexity&#39;s Founder Was Inspired by Sundar Pichai. Now They’re Competing to Reinvent Search](https://www.wired.com/story/founder-perplexity-ai-sundar-pichai-competing-to-reinvent-search/)
  - [US government emails show India rolled back its policy to impose restrictions on laptop imports in 2023 after behind-the-scenes lobbying by US officials &lpar;Reuters&rpar;](http://www.techmeme.com/240321/p11#a240321p11)
- - [An analysis of cookie pop-ups on the top 10,000 most popular websites: dozens share date with 1,000+ companies, and thousands share data with 100+ companies &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/240321/p10#a240321p10)<!-- TECH:END -->
+ - [Child Tax Credit 2024: When Will the IRS Send My Refund?     - CNET](https://www.cnet.com/personal-finance/taxes/child-tax-credit-2024-when-will-the-irs-send-my-refund/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

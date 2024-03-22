@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Last time i checked it was a crime.](http://9gag.com/gag/a34vQdr)
- - 😝 [Spectators realize how sticky the track is](http://9gag.com/gag/avy2zvE)
- - 💣 [Pharaoh&#39;s curse](http://9gag.com/gag/aZZqyMn)
- - 😝 [A Mother&#39;s Joy, Seeing Son Pass The Bar Exam](http://9gag.com/gag/aKG4dK6)
- - 👉 [Painting over graffiti with a paint roller](http://9gag.com/gag/a7ovwPw)<!-- MEMES:END -->
+ - 😝 [Louis Armstrong](http://9gag.com/gag/azx7Mmq)
+ - 😝 [Why MEN should pay on first date !!! ROFLMFAO...](http://9gag.com/gag/ajPQ5jG)
+ - 💣 [Because it bloody well is. The devs knows what&#39;s up.](http://9gag.com/gag/aW4BxA3)
+ - 😝 [Posting memes I found on my smartphone until I get bored or die #182](http://9gag.com/gag/aE0dpmo)
+ - 👉 [14 yo exposes $400,000 salary of failing districts superintendent.](http://9gag.com/gag/apRKgon)<!-- MEMES:END -->
 
 ---
 

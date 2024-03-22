@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Baldur’s Gate 3 developer is moving on from Dungeons and Dragons](https://www.theverge.com/2024/3/22/24108773/baldurs-gate-3-larian-dungeons-and-dragons)
  - [Here are all the best tech deals from Amazon’s spring sales event](https://www.theverge.com/2024/3/20/24105325/amazon-spring-sale-best-deals-prices)
  - [Sources: OpenAI is meeting with Hollywood studios, media executives, and others to form partnerships to encourage filmmakers to integrate Sora into their work &lpar;Bloomberg&rpar;](http://www.techmeme.com/240322/p14#a240322p14)
  - [Senators push to declassify TikTok briefings](https://www.theverge.com/2024/3/22/24108674/tiktok-ban-classified-intelligence-briefing-china-national-security)
- - [Google plans to remove the ability to download third-party apps and watch faces for all Fitbit smartwatches in the EU in June, citing &quot;regulatory requirements&quot; &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240322/p13#a240322p13)
- - [&#39;The Idea of You&#39;: When the Romantic Drama Hits Prime Video     - CNET](https://www.cnet.com/tech/services-and-software/the-idea-of-you-when-the-romantic-drama-hits-prime-video/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google plans to remove the ability to download third-party apps and watch faces for all Fitbit smartwatches in the EU in June, citing &quot;regulatory requirements&quot; &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240322/p13#a240322p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

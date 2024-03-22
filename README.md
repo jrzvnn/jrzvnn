@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pharaoh&#39;s curse](http://9gag.com/gag/aZZqyMn)
- - 😝 [The boss of all couriers has been found in Brazil.](http://9gag.com/gag/aAyBgAg)
- - 💣 [At the Paterson Mosque in New Jersey a woman enters to complain about the call to prayer.](http://9gag.com/gag/an7e4jV)
+ - 😝 [Tea Simulator](http://9gag.com/gag/aqy4nZZ)
+ - 😝 [Painting over graffiti with a paint roller](http://9gag.com/gag/a7ovwPw)
+ - 💣 [When the comments are funnier than the post itself](http://9gag.com/gag/aKG47gW)
  - 😝 [A Mother&#39;s Joy, Seeing Son Pass The Bar Exam](http://9gag.com/gag/aKG4dK6)
- - 👉 [When the comments are funnier than the post itself](http://9gag.com/gag/aKG47gW)<!-- MEMES:END -->
+ - 👉 [This is what happens after they normalize obesity...](http://9gag.com/gag/a5QpMoO)<!-- MEMES:END -->
 
 ---
 

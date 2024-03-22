@@ -170,7 +170,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Mozilla ends a partnership with Onerep, which lets users remove data from people-search sites, after a report showed Onerep&#39;s CEO founded dozens of such sites &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/240322/p26#a240322p26)
  - [Worldcoin announces Personal Custody, which saves biometric data captured by the Orb on users&#39; personal devices, and plans to open source the Orb&#39;s software &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/240322/p25#a240322p25)
  - [Samsung launches 2024 TV line, get a free 65-inch TV with $999 model](https://appleinsider.com/articles/24/03/22/samsung-launches-2024-tv-line-get-a-free-65-inch-tv-with-preorder-deal?utm_medium=rss)
- - [Some users on Instagram and Threads complain that a new setting to limit political content, which Meta announced in February, is enabled by default &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/240322/p24#a240322p24)<!-- TECH:END -->
+ - [I Swam Twice a Week for Three Weeks. Here’s What It Meant for My Sleep     - CNET](https://www.cnet.com/health/sleep/i-swam-twice-a-week-for-three-weeks-heres-what-it-meant-for-my-sleep/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

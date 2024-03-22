@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pharaoh&#39;s curse](http://9gag.com/gag/aZZqyMn)
- - 😝 [When the comments are funnier than the post itself](http://9gag.com/gag/aKG47gW)
- - 💣 [A Mother&#39;s Joy, Seeing Son Pass The Bar Exam](http://9gag.com/gag/aKG4dK6)
- - 😝 [Painting over graffiti with a paint roller](http://9gag.com/gag/a7ovwPw)
- - 👉 [Last time i checked it was a crime.](http://9gag.com/gag/a34vQdr)<!-- MEMES:END -->
+ - 😝 [Last time i checked it was a crime.](http://9gag.com/gag/a34vQdr)
+ - 😝 [Spectators realize how sticky the track is](http://9gag.com/gag/avy2zvE)
+ - 💣 [Tea Simulator](http://9gag.com/gag/aqy4nZZ)
+ - 😝 [These are a no thanks from me.](http://9gag.com/gag/aW4BYOK)
+ - 👉 [A group of newly graduated REAL doctors from Finland](http://9gag.com/gag/a0evK1d)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Showing a scammer his real face](http://9gag.com/gag/abA3znb)
- - 😝 [Def Wallace](http://9gag.com/gag/a9yjpq0)
- - 💣 [About to get a brain tumor removed &lpar;LGG&rpar; &lpar;4x4x4cm&rpar;. A bit scared of chance of getting paralyzed or personality changes but let&#39;s hope for the best. Enjoy your health, it can happen to anyone as I&#39;m only 24. Fu*ck you and see you tomorrow.](http://9gag.com/gag/a0evQ6L)
- - 😝 [How the... captain? Which api/library?](http://9gag.com/gag/amoq796)
- - 👉 [Salvador Dali creates amazing foil sculpture in seconds &lpar; 1967&rpar;](http://9gag.com/gag/awyNXA8)<!-- MEMES:END -->
+ - 😝 [About to get a brain tumor removed &lpar;LGG&rpar; &lpar;4x4x4cm&rpar;. A bit scared of chance of getting paralyzed or personality changes but let&#39;s hope for the best. Enjoy your health, it can happen to anyone as I&#39;m only 24. Fu*ck you and see you tomorrow.](http://9gag.com/gag/a0evQ6L)
+ - 😝 [What a plot twist](http://9gag.com/gag/aGyKjbK)
+ - 💣 [Elon has joined the fight](http://9gag.com/gag/adBy5ZZ)
+ - 😝 [Large group of illegals storming the border in El Paso, Texas. This is what an invasion looks like.](http://9gag.com/gag/axyE9VD)
+ - 👉 [Def Wallace](http://9gag.com/gag/a9yjpq0)<!-- MEMES:END -->
 
 ---
 

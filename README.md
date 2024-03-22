@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 15 Pro Max review six months later: Still an exciting upgrade](https://appleinsider.com/articles/24/03/22/iphone-15-pro-max-review-six-months-later-still-an-exciting-upgrade?utm_medium=rss)
- - [Boom’s first test flight could signal the return of supersonic air travel](https://www.theverge.com/2024/3/22/24108850/boom-supersonic-first-test-flight-xb1-demonstrator)
- - [Sources: Apple is winding down an in-house effort to create microLED displays and is eliminating several dozen display engineering roles in the US and Asia &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240322/p16#a240322p16)
- - [Dozens of countries pledge support for nuclear power, despite lingering concerns](https://www.theverge.com/2024/3/22/24108679/nuclear-energy-summit-pledge-30-countries)
- - [Our Fave Budget Stick Vac Is Even Cheaper Now, but Only During Amazon&#39;s Spring Sale     - CNET](https://www.cnet.com/deals/our-fave-budget-stick-vac-even-cheaper-only-during-amazons-spring-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mark Zuckerberg says Threads is adding live scores for NBA games, and plans to add support for additional leagues in the future &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240322/p17#a240322p17)
+ - [Apple has decided against making its own microLED Apple Watch displays](https://appleinsider.com/articles/24/03/22/apple-has-decided-against-making-its-own-microled-apple-watch-displays?utm_medium=rss)
+ - [If You Aren&#39;t Sleeping, Your Brain Might Be Aging Prematurely     - CNET](https://www.cnet.com/health/sleep/if-you-arent-sleeping-your-brain-might-be-aging-prematurely/#ftag=CAD590a51e)
+ - [Upgrade to a New Wi-Fi System During Amazon&#39;s Big Spring Sale     - CNET](https://www.cnet.com/deals/upgrade-to-a-new-wi-fi-system-during-amazons-big-spring-sale/#ftag=CAD590a51e)
+ - [iPhone 15 Pro Max review six months later: Still an exciting upgrade](https://appleinsider.com/articles/24/03/22/iphone-15-pro-max-review-six-months-later-still-an-exciting-upgrade?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

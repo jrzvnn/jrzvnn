@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Changing policy, X bans the posting of real names of people behind anonymous accounts, after it suspended accounts that unmasked a suspected neo-Nazi cartoonist &lpar;David Ingram/NBC News&rpar;](http://www.techmeme.com/240321/p45#a240321p45)
  - [Robinhood co-founder and Chief Creative Officer Baiju Bhatt plans to step down to pursue other entrepreneurial interests, but will remain on the company&#39;s board &lpar;Ben Glickman/Wall Street Journal&rpar;](http://www.techmeme.com/240321/p44#a240321p44)
  - [OWC 14-port Thunderbolt Dock is back down to $99, the lowest price ever](https://appleinsider.com/articles/24/03/22/owc-14-port-thunderbolt-dock-is-back-down-to-99-the-lowest-price-ever?utm_medium=rss)
- - [In its lawsuit, the US DOJ alleges CarPlay lets Apple exert too much control over the auto industry; some analysts say the DOJ may be misunderstanding CarPlay &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/240321/p43#a240321p43)
- - [GitLab confirms it’s removed Suyu, a fork of Nintendo Switch emulator Yuzu](https://www.theverge.com/2024/3/21/24108191/gitlab-suyu-nintendo-switch-emulator-takedown)
- - [DOJ Sues Apple: Everything to Know About the Antitrust Suit video     - CNET](https://www.cnet.com/videos/doj-sues-apple-everything-to-know-about-the-antitrust-suit/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best 4K TV Deals: Save Up to $500 on Samsung, LG, Sony, TCL and More     - CNET](https://www.cnet.com/deals/best-4k-tv-deals/#ftag=CAD590a51e)
+ - [In its lawsuit, the US DOJ alleges CarPlay lets Apple exert too much control over the auto industry; some analysts say the DOJ may be misunderstanding CarPlay &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/240321/p43#a240321p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

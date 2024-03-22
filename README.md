@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [At the Paterson Mosque in New Jersey a woman enters to complain about the call to prayer.](http://9gag.com/gag/an7e4jV)
- - 😝 [Tea Simulator](http://9gag.com/gag/aqy4nZZ)
- - 💣 [When the comments are funnier than the post itself](http://9gag.com/gag/aKG47gW)
- - 😝 [You can tell she used to be a ballet instructor. Name is Kanna Fuji, yes she does.](http://9gag.com/gag/a4Pp74p)
- - 👉 [A Mother&#39;s Joy, Seeing Son Pass The Bar Exam](http://9gag.com/gag/aKG4dK6)<!-- MEMES:END -->
+ - 😝 [Showing a scammer his real face](http://9gag.com/gag/abA3znb)
+ - 😝 [Def Wallace](http://9gag.com/gag/a9yjpq0)
+ - 💣 [About to get a brain tumor removed &lpar;LGG&rpar; &lpar;4x4x4cm&rpar;. A bit scared of chance of getting paralyzed or personality changes but let&#39;s hope for the best. Enjoy your health, it can happen to anyone as I&#39;m only 24. Fu*ck you and see you tomorrow.](http://9gag.com/gag/a0evQ6L)
+ - 😝 [How the... captain? Which api/library?](http://9gag.com/gag/amoq796)
+ - 👉 [Salvador Dali creates amazing foil sculpture in seconds &lpar; 1967&rpar;](http://9gag.com/gag/awyNXA8)<!-- MEMES:END -->
 
 ---
 

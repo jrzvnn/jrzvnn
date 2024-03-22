@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [MediaTek introduced Dimensity Auto Cockpit, its automotive-focused SoCs, this week, becoming the first third-party company to use Nvidia&#39;s GPU IP in its chips &lpar;Anton Shilov/AnandTech&rpar;](http://www.techmeme.com/240322/p1#a240322p1)
  - [Some senators who received a classified briefing about TikTok say China&#39;s government can use the app to spy on US users and push propaganda at alarming levels &lpar;Axios&rpar;](http://www.techmeme.com/240321/p48#a240321p48)
+ - [Best Solar Panel Installation Companies in Fresno     - CNET](https://www.cnet.com/home/energy-and-utilities/fresno-solar-panels/#ftag=CAD590a51e)
  - [How to change the volume on a Mac in small increments](https://appleinsider.com/inside/macos/tips/how-to-change-the-volume-on-a-mac-in-small-increments?utm_medium=rss)
- - [Medium says it will revoke Partner Program enrollment from writers who publish AI-generated stories, even with disclosure, and other low-quality content &lpar;Buster Benson/The Medium Blog&rpar;](http://www.techmeme.com/240321/p47#a240321p47)
- - [Samsung launches 2024 TV line, get a free 65-inch TV with preorder deal](https://appleinsider.com/articles/24/03/22/samsung-launches-2024-tv-line-get-a-free-65-inch-tv-with-preorder-deal?utm_medium=rss)<!-- TECH:END -->
+ - [Medium says it will revoke Partner Program enrollment from writers who publish AI-generated stories, even with disclosure, and other low-quality content &lpar;Buster Benson/The Medium Blog&rpar;](http://www.techmeme.com/240321/p47#a240321p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

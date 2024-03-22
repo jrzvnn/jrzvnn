@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Basketball game](http://9gag.com/gag/a6ZrELA)
- - 😝 [Dog does dog things](http://9gag.com/gag/avy2zZq)
- - 💣 [Best dunk I have ever see](http://9gag.com/gag/avy2o8X)
- - 😝 [Not a day goes by without thinking about the glory of rome](http://9gag.com/gag/aQz6dX7)
- - 👉 [Elon has joined the fight](http://9gag.com/gag/adBy5ZZ)<!-- MEMES:END -->
+ - 😝 [About to get a brain tumor removed &lpar;LGG&rpar; &lpar;4x4x4cm&rpar;. A bit scared of chance of getting paralyzed or personality changes but let&#39;s hope for the best. Enjoy your health, it can happen to anyone as I&#39;m only 24. Fu*ck you and see you tomorrow.](http://9gag.com/gag/a0evQ6L)
+ - 😝 [Showing a scammer his real face](http://9gag.com/gag/abA3znb)
+ - 💣 [How the... captain? Which api/library?](http://9gag.com/gag/amoq796)
+ - 😝 [Salvador Dali creates amazing foil sculpture in seconds &lpar; 1967&rpar;](http://9gag.com/gag/awyNXA8)
+ - 👉 [These are a no thanks from me.](http://9gag.com/gag/aW4BYOK)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You can tell she used to be a ballet instructor. Name is Kanna Fuji, yes she does.](http://9gag.com/gag/a4Pp74p)
- - 😝 [Lol](http://9gag.com/gag/ajPQ8wx)
- - 💣 [Dog does dog things](http://9gag.com/gag/avy2zZq)
- - 😝 [Best dunk I have ever see](http://9gag.com/gag/avy2o8X)
- - 👉 [Uh huh](http://9gag.com/gag/aKG4dp6)<!-- MEMES:END -->
+ - 😝 [New York is now a parallel universe](http://9gag.com/gag/axyE9mM)
+ - 😝 [These are a no thanks from me.](http://9gag.com/gag/aW4BYOK)
+ - 💣 [Title](http://9gag.com/gag/ayNExP8)
+ - 😝 [Everyone who stands against her will be punished](http://9gag.com/gag/axyE0wD)
+ - 👉 [You can tell she used to be a ballet instructor. Name is Kanna Fuji, yes she does.](http://9gag.com/gag/a4Pp74p)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Love is for idiots.](http://9gag.com/gag/a87d3NY)
- - 😝 [I&#39;m not drunk... I can drive... Gimme my keys back](http://9gag.com/gag/axyE7Kp)
- - 💣 [Def Wallace](http://9gag.com/gag/a9yjpq0)
- - 😝 [Approved.](http://9gag.com/gag/a9yjnE1)
- - 👉 [These are a no thanks from me.](http://9gag.com/gag/aW4BYOK)<!-- MEMES:END -->
+ - 😝 [Why MEN should pay on first date !!! ROFLMFAO...](http://9gag.com/gag/ajPQ5jG)
+ - 😝 [A group of newly graduated REAL doctors from Finland](http://9gag.com/gag/a0evK1d)
+ - 💣 [These are a no thanks from me.](http://9gag.com/gag/aW4BYOK)
+ - 😝 [Title](http://9gag.com/gag/ayNExP8)
+ - 👉 [About to get a brain tumor removed &lpar;LGG&rpar; &lpar;4x4x4cm&rpar;. A bit scared of chance of getting paralyzed or personality changes but let&#39;s hope for the best. Enjoy your health, it can happen to anyone as I&#39;m only 24. Fu*ck you and see you tomorrow.](http://9gag.com/gag/a0evQ6L)<!-- MEMES:END -->
 
 ---
 

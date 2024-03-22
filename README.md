@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple’s antitrust fight begins](https://www.theverge.com/2024/3/22/24108557/us-v-apple-antitrust-case-vergecast-podcast)
+ - [Smartwatches shouldn’t make you choose between Apple and Android](https://www.theverge.com/2024/3/22/24107984/apple-watch-smartwatch-ecosystems)
  - [Photography Is No Longer Evidence of Anything](https://www.wired.com/story/the-end-of-photography-as-evidence-of-anything/)
  - [Apple looking inside China for AI providers to sidestep regulatory issues](https://appleinsider.com/articles/24/03/22/apple-looking-inside-china-for-ai-providers-to-sidestep-regulatory-issues?utm_medium=rss)
- - [Sources: Apple held preliminary talks with Baidu to use the latter&#39;s artificial intelligence technology in Apple devices in China &lpar;Raffaele Huang/Wall Street Journal&rpar;](http://www.techmeme.com/240322/p8#a240322p8)
- - [Sources: YC plans to raise at least $2B across three new funds that include exposure to its next four startup batches and follow-on investments as they grow &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/240322/p7#a240322p7)
- - [US sues Apple, Epic complaints, and no iPads just yet on the AppleInsider Podcast](https://appleinsider.com/articles/24/03/22/us-sues-apple-epic-complaints-and-no-ipads-just-yet-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Apple held talks to use Baidu&#39;s AI tech in its devices in China, as it looks for a local provider to comply with China&#39;s requirements about AI models &lpar;Raffaele Huang/Wall Street Journal&rpar;](http://www.techmeme.com/240322/p8#a240322p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

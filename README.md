@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Delicious vanilla ice cream](http://9gag.com/gag/aRB635A)
- - 😝 [To them, cheating is cultural](http://9gag.com/gag/aAyB39p)
- - 💣 [I&#39;m going to Hell and your coming with me!](http://9gag.com/gag/aGyKjpz)
- - 😝 [Painting over graffiti with a paint roller](http://9gag.com/gag/a7ovwPw)
- - 👉 [Title](http://9gag.com/gag/ayNExP8)<!-- MEMES:END -->
+ - 😝 [At the Paterson Mosque in New Jersey a woman enters to complain about the call to prayer.](http://9gag.com/gag/an7e4jV)
+ - 😝 [Tea Simulator](http://9gag.com/gag/aqy4nZZ)
+ - 💣 [When the comments are funnier than the post itself](http://9gag.com/gag/aKG47gW)
+ - 😝 [You can tell she used to be a ballet instructor. Name is Kanna Fuji, yes she does.](http://9gag.com/gag/a4Pp74p)
+ - 👉 [A Mother&#39;s Joy, Seeing Son Pass The Bar Exam](http://9gag.com/gag/aKG4dK6)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [These are a no thanks from me.](http://9gag.com/gag/aW4BYOK)
- - 😝 [This is what happens after they normalize obesity...](http://9gag.com/gag/a5QpMoO)
- - 💣 [Can&#39;t Touch This](http://9gag.com/gag/ayNEXnY)
- - 😝 [Pharaoh&#39;s curse](http://9gag.com/gag/aZZqyMn)
- - 👉 [At the Paterson Mosque in New Jersey a woman enters to complain about the call to prayer.](http://9gag.com/gag/an7e4jV)<!-- MEMES:END -->
+ - 😝 [Basketball game](http://9gag.com/gag/a6ZrELA)
+ - 😝 [Dog does dog things](http://9gag.com/gag/avy2zZq)
+ - 💣 [Best dunk I have ever see](http://9gag.com/gag/avy2o8X)
+ - 😝 [Not a day goes by without thinking about the glory of rome](http://9gag.com/gag/aQz6dX7)
+ - 👉 [Elon has joined the fight](http://9gag.com/gag/adBy5ZZ)<!-- MEMES:END -->
 
 ---
 

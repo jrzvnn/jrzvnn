@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [‘Even stronger’ than imagined: DOJ’s sweeping Apple lawsuit draws expert praise](https://www.theverge.com/2024/3/22/24109033/doj-apple-antitrust-lawsuit-legal-expert-praise)
  - [Sources: Anthropic has ruled out taking any Saudi money over national security concerns, as investors jostle to buy into FTX&#39;s 8% stake that is now worth ~$1B &lpar;Kate Rooney/CNBC&rpar;](http://www.techmeme.com/240322/p20#a240322p20)
  - [How to turn off Apple&#39;s Journal &#39;Discoverable by Others&#39; setting that&#39;s enabled by default](https://appleinsider.com/inside/ios-17/tips/how-to-turn-off-apples-journal-discoverable-by-others-setting-thats-enabled-by-default?utm_medium=rss)
  - [As regulators constantly and unreasonably block acquisitions, Microsoft is pioneering the non-acquisition acquisition with its OpenAI and Inflection deals &lpar;Newcomer&rpar;](http://www.techmeme.com/240322/p19#a240322p19)
- - [Apple reportedly gives up on its MicroLED dream for now](https://www.theverge.com/2024/3/22/24108967/apple-watch-microled-canceled)
- - [March Madness TV Deals: Follow the Games With Discounts on Samsung, LG, Hisense and More     - CNET](https://www.cnet.com/deals/march-madness-tv-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple reportedly gives up on its MicroLED dream for now](https://www.theverge.com/2024/3/22/24108967/apple-watch-microled-canceled)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Researchers reveal a hotel keycard hacking technique that lets a hacker almost instantly open RFID-based Saflok locks used in ~3M doors across 13K properties &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/240322/p3#a240322p3)
+ - [These 6 Common Tax Mistakes Could Get You Audited by the IRS. Here&#39;s What to Avoid.     - CNET](https://www.cnet.com/personal-finance/taxes/these-6-common-tax-mistakes-could-get-you-audited-by-the-irs-heres-what-to-avoid/#ftag=CAD590a51e)
+ - [How to Apply for Social Security Benefits: Everything You Need     - CNET](https://www.cnet.com/personal-finance/how-to-apply-for-social-security-benefits-everything-you-need/#ftag=CAD590a51e)
  - [On the first day of Pwn2Own Vancouver 2024, contestants earned $732,500 and a Tesla Model 3 for demoing 19 zero-day flaws across Windows 11, Tesla, and others &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240322/p2#a240322p2)
- - [MediaTek introduced Dimensity Auto Cockpit, its automotive-focused SoCs, this week, becoming the first third-party company to use Nvidia&#39;s GPU IP in its chips &lpar;Anton Shilov/AnandTech&rpar;](http://www.techmeme.com/240322/p1#a240322p1)
- - [Some senators who received a classified briefing about TikTok say China&#39;s government can use the app to spy on US users and push propaganda at alarming levels &lpar;Axios&rpar;](http://www.techmeme.com/240321/p48#a240321p48)
- - [Best Solar Panel Installation Companies in Fresno     - CNET](https://www.cnet.com/home/energy-and-utilities/fresno-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [MediaTek introduced Dimensity Auto Cockpit, its automotive-focused SoCs, this week, becoming the first third-party company to use Nvidia&#39;s GPU IP in its chips &lpar;Anton Shilov/AnandTech&rpar;](http://www.techmeme.com/240322/p1#a240322p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

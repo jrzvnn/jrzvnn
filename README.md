@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [New York is now a parallel universe](http://9gag.com/gag/axyE9mM)
- - 😝 [These are a no thanks from me.](http://9gag.com/gag/aW4BYOK)
- - 💣 [Title](http://9gag.com/gag/ayNExP8)
- - 😝 [Everyone who stands against her will be punished](http://9gag.com/gag/axyE0wD)
- - 👉 [You can tell she used to be a ballet instructor. Name is Kanna Fuji, yes she does.](http://9gag.com/gag/a4Pp74p)<!-- MEMES:END -->
+ - 😝 [Can&#39;t Touch This](http://9gag.com/gag/ayNEXnY)
+ - 😝 [Why MEN should pay on first date !!! ROFLMFAO...](http://9gag.com/gag/ajPQ5jG)
+ - 💣 [About to get a brain tumor removed &lpar;LGG&rpar; &lpar;4x4x4cm&rpar;. A bit scared of chance of getting paralyzed or personality changes but let&#39;s hope for the best. Enjoy your health, it can happen to anyone as I&#39;m only 24. Fu*ck you and see you tomorrow.](http://9gag.com/gag/a0evQ6L)
+ - 😝 [At the Paterson Mosque in New Jersey a woman enters to complain about the call to prayer.](http://9gag.com/gag/an7e4jV)
+ - 👉 [These are a no thanks from me.](http://9gag.com/gag/aW4BYOK)<!-- MEMES:END -->
 
 ---
 

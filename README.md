@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tea Simulator](http://9gag.com/gag/aqy4nZZ)
- - 😝 [Everyone who stands against her will be punished](http://9gag.com/gag/axyE0wD)
- - 💣 [At the Paterson Mosque in New Jersey a woman enters to complain about the call to prayer.](http://9gag.com/gag/an7e4jV)
- - 😝 [Spectators realize how sticky the track is](http://9gag.com/gag/avy2zvE)
- - 👉 [Painting over graffiti with a paint roller](http://9gag.com/gag/a7ovwPw)<!-- MEMES:END -->
+ - 😝 [Delicious vanilla ice cream](http://9gag.com/gag/aRB635A)
+ - 😝 [To them, cheating is cultural](http://9gag.com/gag/aAyB39p)
+ - 💣 [I&#39;m going to Hell and your coming with me!](http://9gag.com/gag/aGyKjpz)
+ - 😝 [Painting over graffiti with a paint roller](http://9gag.com/gag/a7ovwPw)
+ - 👉 [Title](http://9gag.com/gag/ayNExP8)<!-- MEMES:END -->
 
 ---
 

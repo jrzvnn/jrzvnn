@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers reveal a hotel keycard hacking technique that lets a hacker almost instantly open RFID-based Saflok locks used in ~3M doors across 13K properties &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/240322/p3#a240322p3)
  - [On the first day of Pwn2Own Vancouver 2024, contestants earned $732,500 and a Tesla Model 3 for demoing 19 zero-day flaws across Windows 11, Tesla, and others &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240322/p2#a240322p2)
  - [MediaTek introduced Dimensity Auto Cockpit, its automotive-focused SoCs, this week, becoming the first third-party company to use Nvidia&#39;s GPU IP in its chips &lpar;Anton Shilov/AnandTech&rpar;](http://www.techmeme.com/240322/p1#a240322p1)
  - [Some senators who received a classified briefing about TikTok say China&#39;s government can use the app to spy on US users and push propaganda at alarming levels &lpar;Axios&rpar;](http://www.techmeme.com/240321/p48#a240321p48)
- - [Best Solar Panel Installation Companies in Fresno     - CNET](https://www.cnet.com/home/energy-and-utilities/fresno-solar-panels/#ftag=CAD590a51e)
- - [How to change the volume on a Mac in small increments](https://appleinsider.com/inside/macos/tips/how-to-change-the-volume-on-a-mac-in-small-increments?utm_medium=rss)<!-- TECH:END -->
+ - [Best Solar Panel Installation Companies in Fresno     - CNET](https://www.cnet.com/home/energy-and-utilities/fresno-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

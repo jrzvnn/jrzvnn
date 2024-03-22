@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [About to get a brain tumor removed &lpar;LGG&rpar; &lpar;4x4x4cm&rpar;. A bit scared of chance of getting paralyzed or personality changes but let&#39;s hope for the best. Enjoy your health, it can happen to anyone as I&#39;m only 24. Fu*ck you and see you tomorrow.](http://9gag.com/gag/a0evQ6L)
- - 😝 [Showing a scammer his real face](http://9gag.com/gag/abA3znb)
- - 💣 [How the... captain? Which api/library?](http://9gag.com/gag/amoq796)
- - 😝 [Salvador Dali creates amazing foil sculpture in seconds &lpar; 1967&rpar;](http://9gag.com/gag/awyNXA8)
- - 👉 [These are a no thanks from me.](http://9gag.com/gag/aW4BYOK)<!-- MEMES:END -->
+ - 😝 [Dog does dog things](http://9gag.com/gag/avy2zZq)
+ - 😝 [What a time to be alive](http://9gag.com/gag/a87dEWO)
+ - 💣 [Best dunk I have ever see](http://9gag.com/gag/avy2o8X)
+ - 😝 [Elon has joined the fight](http://9gag.com/gag/adBy5ZZ)
+ - 👉 [The boss of all couriers has been found in Brazil.](http://9gag.com/gag/aAyBgAg)<!-- MEMES:END -->
 
 ---
 

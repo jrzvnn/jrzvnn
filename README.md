@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [At the Paterson Mosque in New Jersey a woman enters to complain about the call to prayer.](http://9gag.com/gag/an7e4jV)
  - 😝 [A Mother&#39;s Joy, Seeing Son Pass The Bar Exam](http://9gag.com/gag/aKG4dK6)
- - 😝 [Tea Simulator](http://9gag.com/gag/aqy4nZZ)
  - 💣 [Delicious vanilla ice cream](http://9gag.com/gag/aRB635A)
- - 😝 [When the comments are funnier than the post itself](http://9gag.com/gag/aKG47gW)
- - 👉 [London Business trip](http://9gag.com/gag/aAyBe69)<!-- MEMES:END -->
+ - 😝 [Pharaoh&#39;s curse](http://9gag.com/gag/aZZqyMn)
+ - 👉 [Why MEN should pay on first date !!! ROFLMFAO...](http://9gag.com/gag/ajPQ5jG)<!-- MEMES:END -->
 
 ---
 

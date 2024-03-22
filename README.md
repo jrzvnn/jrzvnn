@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [New York is now a parallel universe](http://9gag.com/gag/axyE9mM)
+ - 😝 [These are a no thanks from me.](http://9gag.com/gag/aW4BYOK)
+ - 😝 [How the... captain? Which api/library?](http://9gag.com/gag/amoq796)
+ - 💣 [Can&#39;t Touch This](http://9gag.com/gag/ayNEXnY)
  - 😝 [Everyone who stands against her will be punished](http://9gag.com/gag/axyE0wD)
- - 💣 [These are a no thanks from me.](http://9gag.com/gag/aW4BYOK)
- - 😝 [Can&#39;t Touch This](http://9gag.com/gag/ayNEXnY)
- - 👉 [Pharaoh&#39;s curse](http://9gag.com/gag/aZZqyMn)<!-- MEMES:END -->
+ - 👉 [Title](http://9gag.com/gag/ayNExP8)<!-- MEMES:END -->
 
 ---
 

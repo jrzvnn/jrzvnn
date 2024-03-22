@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Asus’ tiny 2.5-liter gaming NUC tentatively starts at $1,629 in the US](https://www.theverge.com/2024/3/22/24109140/asus-rog-nuc-pricing-availability)
  - [Mozilla ends a partnership with Onerep, which lets users remove data from people-search sites, after a report showed Onerep&#39;s CEO founded dozens of such sites &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/240322/p26#a240322p26)
  - [Worldcoin announces Personal Custody, which saves biometric data captured by the Orb on users&#39; personal devices, and plans to open source the Orb&#39;s software &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/240322/p25#a240322p25)
  - [Samsung launches 2024 TV line, get a free 65-inch TV with $999 model](https://appleinsider.com/articles/24/03/22/samsung-launches-2024-tv-line-get-a-free-65-inch-tv-with-preorder-deal?utm_medium=rss)
- - [Some users on Instagram and Threads complain that a new setting to limit political content, which Meta announced in February, is enabled by default &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/240322/p24#a240322p24)
- - [March Madness 2024: How to Watch, Stream the Men&#39;s Basketball Tournament Tonight Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/march-madness-2024-how-to-watch-stream-the-mens-basketball-tournament-friday-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Some users on Instagram and Threads complain that a new setting to limit political content, which Meta announced in February, is enabled by default &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/240322/p24#a240322p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

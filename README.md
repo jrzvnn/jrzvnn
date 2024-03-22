@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hasselblad 907X 100C Review: Digital Smarts With a Film Soul](https://www.wired.com/review/hasselblad-907x-100c/)
  - [In its lawsuit, the US DOJ says Apple deploys &quot;privacy and security justifications as an elastic shield that can stretch or contract&quot; to serve its interests &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240322/p9#a240322p9)
  - [TP-Link Tapo Indoor cameras review: affordable HomeKit options with in-app AI tools](https://appleinsider.com/articles/24/03/22/tp-link-tapo-indoor-cameras-review-affordable-homekit-options-with-in-app-ai-tools?utm_medium=rss)
  - [Analysts mostly non-plussed by DoJ suit, and believe Apple will win](https://appleinsider.com/articles/24/03/22/analysts-mostly-non-plussed-by-doj-suit-and-believe-apple-will-win?utm_medium=rss)
- - [Apple’s antitrust fight begins](https://www.theverge.com/2024/3/22/24108557/us-v-apple-antitrust-case-vergecast-podcast)
- - [Smartwatches shouldn’t make you choose either Apple or Android](https://www.theverge.com/2024/3/22/24107984/apple-watch-smartwatch-ecosystems)<!-- TECH:END -->
+ - [Apple’s antitrust fight begins](https://www.theverge.com/2024/3/22/24108557/us-v-apple-antitrust-case-vergecast-podcast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

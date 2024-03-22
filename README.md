@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TP-Link Tapo Indoor cameras review: affordable HomeKit options with in-app AI tools](https://appleinsider.com/articles/24/03/22/tp-link-tapo-indoor-cameras-review-affordable-homekit-options-with-in-app-ai-tools?utm_medium=rss)
+ - [Analysts mostly non-plussed by DoJ suit, and believe Apple will win](https://appleinsider.com/articles/24/03/22/analysts-mostly-non-plussed-by-doj-suit-and-believe-apple-will-win?utm_medium=rss)
  - [Apple’s antitrust fight begins](https://www.theverge.com/2024/3/22/24108557/us-v-apple-antitrust-case-vergecast-podcast)
  - [Smartwatches shouldn’t make you choose between Apple and Android](https://www.theverge.com/2024/3/22/24107984/apple-watch-smartwatch-ecosystems)
- - [Photography Is No Longer Evidence of Anything](https://www.wired.com/story/the-end-of-photography-as-evidence-of-anything/)
- - [Apple looking inside China for AI providers to sidestep regulatory issues](https://appleinsider.com/articles/24/03/22/apple-looking-inside-china-for-ai-providers-to-sidestep-regulatory-issues?utm_medium=rss)
- - [Sources: Apple held talks to use Baidu&#39;s AI tech in its devices in China, as it looks for a local provider to comply with China&#39;s requirements about AI models &lpar;Raffaele Huang/Wall Street Journal&rpar;](http://www.techmeme.com/240322/p8#a240322p8)<!-- TECH:END -->
+ - [Photography Is No Longer Evidence of Anything](https://www.wired.com/story/the-end-of-photography-as-evidence-of-anything/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

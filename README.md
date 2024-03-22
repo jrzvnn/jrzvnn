@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Very important information.](http://9gag.com/gag/an7e5Zb)
- - 😝 [Lol](http://9gag.com/gag/ajPQ8wx)
- - 💣 [Dog does dog things](http://9gag.com/gag/avy2zZq)
- - 😝 [Best dunk I have ever see](http://9gag.com/gag/avy2o8X)
- - 👉 [Uh huh](http://9gag.com/gag/aKG4dp6)<!-- MEMES:END -->
+ - 😝 [Other movies: \u201cThat still counts as one!\u201d](http://9gag.com/gag/a1mpWQ2)
+ - 😝 [Everyone who stands against her will be punished](http://9gag.com/gag/axyE0wD)
+ - 💣 [Not surprised.](http://9gag.com/gag/aD2R4W7)
+ - 😝 [Can&#39;t Touch This](http://9gag.com/gag/ayNEXnY)
+ - 👉 [Pharaoh&#39;s curse](http://9gag.com/gag/aZZqyMn)<!-- MEMES:END -->
 
 ---
 

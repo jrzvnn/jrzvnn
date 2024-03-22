@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple stuff including a business card signed by Steve Jobs sold at auction for big money](https://appleinsider.com/articles/24/03/22/apple-stuff-including-a-business-card-signed-by-steve-jobs-sold-at-auction-for-big-money?utm_medium=rss)
+ - [Our Favorite Laptop Tote Bags and Purses &lpar;2024&rpar;: Sustainable, Weather-Proof, Durable](https://www.wired.com/gallery/best-laptop-totes-and-purses/)
  - [Some analysts say the DOJ lawsuit may favor Apple, as a judge already ruled that Apple doesn&#39;t violate antitrust laws when Epic made similar claims in court &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240322/p12#a240322p12)
  - [7 Ways the Apple Antitrust Case Could Change Your iPhone](https://www.wired.com/story/us-lawsuit-apple-iphone-changes/)
- - [Stardew Valley’s 1.6 Update Is Out—Here’s Some of the Biggest Changes &lpar;2024&rpar;](https://www.wired.com/story/stardew-valley-march-2024-update-biggest-changes/)
- - [Trump&#39;s Truth Social is going public via SPAC after DWAC shareholders approve the merger; TMTG will be listed on Nasdaq as early as next week &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/240322/p11#a240322p11)
- - [Hardtop Gazebo     - CNET](https://www.cnet.com/news/hardtop-gazebo-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Stardew Valley’s 1.6 Update Is Out—Here’s Some of the Biggest Changes &lpar;2024&rpar;](https://www.wired.com/story/stardew-valley-march-2024-update-biggest-changes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

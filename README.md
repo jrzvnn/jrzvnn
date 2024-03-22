@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US v. Apple: everything you need to know](https://www.theverge.com/24107581/doj-v-apple-antitrust-monoply-news-updates)
  - [33 Best Deals From the Amazon Big Spring Sale &lpar;2024&rpar;](https://www.wired.com/story/amazon-big-spring-sale-2024/)
  - [Digital marketing software company Ibotta files for a US IPO, reportedly seeking a $2B valuation, and says it had a profit of $38M on revenue of $320M in 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240322/p23#a240322p23)
  - [United States v. Apple is pure nerd rage](https://www.theverge.com/2024/3/22/24109168/us-doj-apple-antitrust-complaint-nerd-rage)
- - [Mozilla just ditched its privacy partner because its CEO is tied to data brokers](https://www.theverge.com/2024/3/22/24109116/mozilla-ends-onerep-data-removal-partnership)
- - [Mint is going away, but these easy budgeting apps can take its place](https://www.theverge.com/23943479/mint-intuit-quicken-budget-apps)<!-- TECH:END -->
+ - [Mozilla just ditched its privacy partner because its CEO is tied to data brokers](https://www.theverge.com/2024/3/22/24109116/mozilla-ends-onerep-data-removal-partnership)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

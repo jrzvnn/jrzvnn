@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When the comments are funnier than the post itself](http://9gag.com/gag/aKG47gW)
- - 😝 [A Mother&#39;s Joy, Seeing Son Pass The Bar Exam](http://9gag.com/gag/aKG4dK6)
- - 💣 [These are a no thanks from me.](http://9gag.com/gag/aW4BYOK)
- - 😝 [Tea Simulator](http://9gag.com/gag/aqy4nZZ)
- - 👉 [Painting over graffiti with a paint roller](http://9gag.com/gag/a7ovwPw)<!-- MEMES:END -->
+ - 😝 [Shooting at the largest concert hall in Moscow](http://9gag.com/gag/aGyKzz5)
+ - 😝 [Delicious vanilla ice cream](http://9gag.com/gag/aRB635A)
+ - 💣 [Jim Carrey&#39;s Oscar speech will forever be legendary](http://9gag.com/gag/aXPZjrd)
+ - 😝 [Pharaoh&#39;s curse](http://9gag.com/gag/aZZqyMn)
+ - 👉 [When the comments are funnier than the post itself](http://9gag.com/gag/aKG47gW)<!-- MEMES:END -->
 
 ---
 

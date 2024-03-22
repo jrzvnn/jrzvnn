@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dog does dog things](http://9gag.com/gag/avy2zZq)
- - 😝 [What a time to be alive](http://9gag.com/gag/a87dEWO)
- - 💣 [Best dunk I have ever see](http://9gag.com/gag/avy2o8X)
- - 😝 [Elon has joined the fight](http://9gag.com/gag/adBy5ZZ)
- - 👉 [The boss of all couriers has been found in Brazil.](http://9gag.com/gag/aAyBgAg)<!-- MEMES:END -->
+ - 😝 [Tea Simulator](http://9gag.com/gag/aqy4nZZ)
+ - 😝 [Everyone who stands against her will be punished](http://9gag.com/gag/axyE0wD)
+ - 💣 [At the Paterson Mosque in New Jersey a woman enters to complain about the call to prayer.](http://9gag.com/gag/an7e4jV)
+ - 😝 [Spectators realize how sticky the track is](http://9gag.com/gag/avy2zvE)
+ - 👉 [Painting over graffiti with a paint roller](http://9gag.com/gag/a7ovwPw)<!-- MEMES:END -->
 
 ---
 

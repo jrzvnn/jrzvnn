@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple held preliminary talks with Baidu to use the latter&#39;s artificial intelligence technology in Apple devices in China &lpar;Raffaele Huang/Wall Street Journal&rpar;](http://www.techmeme.com/240322/p8#a240322p8)
  - [Sources: YC plans to raise at least $2B across three new funds that include exposure to its next four startup batches and follow-on investments as they grow &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/240322/p7#a240322p7)
  - [US sues Apple, Epic complaints, and no iPads just yet on the AppleInsider Podcast](https://appleinsider.com/articles/24/03/22/us-sues-apple-epic-complaints-and-no-ipads-just-yet-on-the-appleinsider-podcast?utm_medium=rss)
  - [Apple has a wide array of research to command the future AR and VR market](https://appleinsider.com/articles/24/03/22/apple-has-a-wide-array-of-research-to-command-the-future-ar-and-vr-market?utm_medium=rss)
- - [Sony Needs to Figure Out PlayStation VR 2     - CNET](https://www.cnet.com/tech/gaming/sony-needs-to-figure-out-playstation-vr-2/#ftag=CAD590a51e)
- - [Google Gemini on the iPhone Would Be AI&#39;s Mainstream Moment     - CNET](https://www.cnet.com/tech/mobile/google-gemini-on-the-iphone-would-be-ais-mainstream-moment/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Why You Hear Voices in Your White Noise Machine](https://www.wired.com/story/why-you-hear-voices-white-noise/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

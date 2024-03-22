@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple is winding down an in-house effort to create microLED displays and is eliminating several dozen display engineering roles in the US and Asia &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240322/p16#a240322p16)
  - [Dozens of countries pledge support for nuclear power, despite lingering concerns](https://www.theverge.com/2024/3/22/24108679/nuclear-energy-summit-pledge-30-countries)
- - [Truth Social is going public](https://www.theverge.com/2024/3/22/24108811/donald-trump-truth-social-dwac-spac-stock-merger)
- - [A profile of DOJ&#39;s Jonathan Kanter, as he takes the biggest swing in his decades-long effort to fight the concentration of power in corporate America &lpar;David McCabe/New York Times&rpar;](http://www.techmeme.com/240322/p15#a240322p15)
- - [Best Cheap Electric Bikes Under $2,000 &lpar;2024&rpar;: Commuter, Folding, Cargo](https://www.wired.com/gallery/best-cheap-electric-bikes/)
- - [Baldur’s Gate 3 developer is moving on from Dungeons and Dragons](https://www.theverge.com/2024/3/22/24108773/baldurs-gate-3-larian-dungeons-and-dragons)<!-- TECH:END -->
+ - [Our Fave Budget Stick Vac Is Even Cheaper Now, but Only During Amazon&#39;s Spring Sale     - CNET](https://www.cnet.com/deals/our-fave-budget-stick-vac-even-cheaper-only-during-amazons-spring-sale/#ftag=CAD590a51e)
+ - [Rotating Curling Iron     - CNET](https://www.cnet.com/health/personal-care/rotating-curling-iron-dpnl/#ftag=CAD590a51e)
+ - [Truth Social is going public](https://www.theverge.com/2024/3/22/24108811/donald-trump-truth-social-dwac-spac-stock-merger)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

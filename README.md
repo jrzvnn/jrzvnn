@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Last time i checked it was a crime.](http://9gag.com/gag/a34vQdr)
- - 😝 [Spectators realize how sticky the track is](http://9gag.com/gag/avy2zvE)
- - 💣 [Tea Simulator](http://9gag.com/gag/aqy4nZZ)
- - 😝 [These are a no thanks from me.](http://9gag.com/gag/aW4BYOK)
- - 👉 [A group of newly graduated REAL doctors from Finland](http://9gag.com/gag/a0evK1d)<!-- MEMES:END -->
+ - 😝 [About to get a brain tumor removed &lpar;LGG&rpar; &lpar;4x4x4cm&rpar;. A bit scared of chance of getting paralyzed or personality changes but let&#39;s hope for the best. Enjoy your health, it can happen to anyone as I&#39;m only 24. Fu*ck you and see you tomorrow.](http://9gag.com/gag/a0evQ6L)
+ - 😝 [Back to the kitchen you go](http://9gag.com/gag/aD2Rdnx)
+ - 💣 [When the comments are funnier than the post itself](http://9gag.com/gag/aKG47gW)
+ - 😝 [A Mother&#39;s Joy, Seeing Son Pass The Bar Exam](http://9gag.com/gag/aKG4dK6)
+ - 👉 [Last time i checked it was a crime.](http://9gag.com/gag/a34vQdr)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mint is going away, but these easy budgeting apps can take its place](https://www.theverge.com/23943479/mint-intuit-quicken-budget-apps)
+ - [Sources: CoreWeave, which offers Nvidia GPUs in the cloud, is in talks to raise funding at a $16B valuation, after being valued at a reported $7B in December &lpar;Gillian Tan/Bloomberg&rpar;](http://www.techmeme.com/240322/p22#a240322p22)
  - [Joni Mitchell is back on Spotify just like Neil Young — because Joe Rogan isn’t going anywhere](https://www.theverge.com/2024/3/22/24109073/joni-mitchell-spotify-music-available-again)
  - [Some experts say the DOJ&#39;s Apple lawsuit makes a strong case for harm to consumers and developers, but proving Apple&#39;s market power could be challenging &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240322/p21#a240322p21)
- - [How an artificial tooth monopoly put the DOJ’s blockbuster Apple antitrust suit in New Jersey](https://www.theverge.com/2024/3/22/24108111/apple-antitrust-doj-artificial-tooth-monopoly-dentsply)
- - [Amazon Big Spring Sale 2024: live coverage of the best deals on Apple, accessories &amp; more](https://appleinsider.com/articles/24/03/20/amazon-big-spring-sale-2024-live-coverage-of-the-best-deals-on-apple-accessories-more?utm_medium=rss)
- - [‘Even stronger’ than imagined: DOJ’s sweeping Apple lawsuit draws expert praise](https://www.theverge.com/2024/3/22/24109033/doj-apple-antitrust-lawsuit-legal-expert-praise)<!-- TECH:END -->
+ - [How an artificial tooth monopoly put the DOJ’s blockbuster Apple antitrust suit in New Jersey](https://www.theverge.com/2024/3/22/24108111/apple-antitrust-doj-artificial-tooth-monopoly-dentsply)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

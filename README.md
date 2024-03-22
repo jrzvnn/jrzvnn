@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dragon Ball s](http://9gag.com/gag/aZZqyX9)
  - 😝 [Everyone who stands against her will be punished](http://9gag.com/gag/axyE0wD)
- - 💣 [So many to choose from](http://9gag.com/gag/aMVejmx)
- - 😝 [Sweating from the heat](http://9gag.com/gag/an7ejMV)
- - 👉 [At the Paterson Mosque in New Jersey a woman enters to complain about the call to prayer.](http://9gag.com/gag/an7e4jV)<!-- MEMES:END -->
+ - 😝 [At the Paterson Mosque in New Jersey a woman enters to complain about the call to prayer.](http://9gag.com/gag/an7e4jV)
+ - 💣 [Last time i checked it was a crime.](http://9gag.com/gag/a34vQdr)
+ - 😝 [Spectators realize how sticky the track is](http://9gag.com/gag/avy2zvE)
+ - 👉 [Painting over graffiti with a paint roller](http://9gag.com/gag/a7ovwPw)<!-- MEMES:END -->
 
 ---
 

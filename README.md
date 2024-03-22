@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kickstart Your Fitness Journey With Amazon Spring Savings on Peloton Bikes and Accessories     - CNET](https://www.cnet.com/deals/kickstart-your-fitness-journey-amazon-spring-savings-peloton-bikes-accessories/#ftag=CAD590a51e)
- - [Researchers detail an unpatchable vulnerability in Apple&#39;s M-series of chips that lets attackers extract secret keys from Macs during cryptographic operations &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240321/p42#a240321p42)
- - [Qualcomm says most Windows games should ‘just work’ on its unannounced Arm laptops](https://www.theverge.com/24107331/qualcomm-gdc-2024-snapdragon-on-windows-games)
- - [March Madness 2024: How to Watch, Stream the Men&#39;s Basketball Tournament Tonight Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/march-madness-2024-how-to-watch-stream-the-mens-basketball-tournament-tonight-without-cable/#ftag=CAD590a51e)
- - [The Mozilla Foundation and 90+ research and advocacy groups urge Meta to support CrowdTangle through January 2025 to track election misinformation globally &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/240321/p41#a240321p41)<!-- TECH:END -->
+ - [Robinhood co-founder and Chief Creative Officer Baiju Bhatt plans to step down to pursue other entrepreneurial interests, but will remain on the company&#39;s board &lpar;Ben Glickman/Wall Street Journal&rpar;](http://www.techmeme.com/240321/p44#a240321p44)
+ - [OWC 14-port Thunderbolt Dock is back down to $99, the lowest price ever](https://appleinsider.com/articles/24/03/22/owc-14-port-thunderbolt-dock-is-back-down-to-99-the-lowest-price-ever?utm_medium=rss)
+ - [In its lawsuit, the US DOJ alleges CarPlay lets Apple exert too much control over the auto industry; some analysts say the DOJ may be misunderstanding CarPlay &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/240321/p43#a240321p43)
+ - [GitLab confirms it’s removed Suyu, a fork of Nintendo Switch emulator Yuzu](https://www.theverge.com/2024/3/21/24108191/gitlab-suyu-nintendo-switch-emulator-takedown)
+ - [DOJ Sues Apple: Everything to Know About the Antitrust Suit video     - CNET](https://www.cnet.com/videos/doj-sues-apple-everything-to-know-about-the-antitrust-suit/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

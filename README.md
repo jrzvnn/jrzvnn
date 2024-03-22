@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why MEN should pay on first date !!! ROFLMFAO...](http://9gag.com/gag/ajPQ5jG)
+ - 😝 [Pharaoh&#39;s curse](http://9gag.com/gag/aZZqyMn)
+ - 😝 [When the comments are funnier than the post itself](http://9gag.com/gag/aKG47gW)
+ - 💣 [A Mother&#39;s Joy, Seeing Son Pass The Bar Exam](http://9gag.com/gag/aKG4dK6)
  - 😝 [Painting over graffiti with a paint roller](http://9gag.com/gag/a7ovwPw)
- - 💣 [I&#39;m always right.](http://9gag.com/gag/a4PpRWw)
- - 😝 [Posting memes I found on my smartphone until I get bored or die #182](http://9gag.com/gag/aE0dpmo)
- - 👉 [These are a no thanks from me.](http://9gag.com/gag/aW4BYOK)<!-- MEMES:END -->
+ - 👉 [Last time i checked it was a crime.](http://9gag.com/gag/a34vQdr)<!-- MEMES:END -->
 
 ---
 

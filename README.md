@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The boss of all couriers has been found in Brazil.](http://9gag.com/gag/aAyBgAg)
- - 😝 [I&#39;m not drunk... I can drive... Gimme my keys back](http://9gag.com/gag/axyE7Kp)
- - 💣 [Def Wallace](http://9gag.com/gag/a9yjpq0)
- - 😝 [Pharaoh&#39;s curse](http://9gag.com/gag/aZZqyMn)
- - 👉 [Someone attempted suicide by injecting 10 ml &lpar;135 g&rpar; of elemental mercury &lpar;quicksilver&rpar; intravenously ended up mercury distributed in the lungs and also survived.](http://9gag.com/gag/a5QpoYy)<!-- MEMES:END -->
+ - 😝 [Showing a scammer his real face](http://9gag.com/gag/abA3znb)
+ - 😝 [Good guy Amish](http://9gag.com/gag/aBy9xXA)
+ - 💣 [How the... captain? Which api/library?](http://9gag.com/gag/amoq796)
+ - 😝 [Salvador Dali creates amazing foil sculpture in seconds &lpar; 1967&rpar;](http://9gag.com/gag/awyNXA8)
+ - 👉 [A group of newly graduated REAL doctors from Finland](http://9gag.com/gag/a0evK1d)<!-- MEMES:END -->
 
 ---
 

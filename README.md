@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some experts say the DOJ&#39;s Apple lawsuit makes a strong case for harm to consumers and developers, but proving Apple&#39;s market power could be challenging &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240322/p21#a240322p21)
+ - [How an artificial tooth monopoly put the DOJ’s blockbuster Apple antitrust suit in New Jersey](https://www.theverge.com/2024/3/22/24108111/apple-antitrust-doj-artificial-tooth-monopoly-dentsply)
+ - [Amazon Big Spring Sale 2024: live coverage of the best deals on Apple, accessories &amp; more](https://appleinsider.com/articles/24/03/20/amazon-big-spring-sale-2024-live-coverage-of-the-best-deals-on-apple-accessories-more?utm_medium=rss)
  - [‘Even stronger’ than imagined: DOJ’s sweeping Apple lawsuit draws expert praise](https://www.theverge.com/2024/3/22/24109033/doj-apple-antitrust-lawsuit-legal-expert-praise)
- - [Sources: Anthropic has ruled out taking any Saudi money over national security concerns, as investors jostle to buy into FTX&#39;s 8% stake that is now worth ~$1B &lpar;Kate Rooney/CNBC&rpar;](http://www.techmeme.com/240322/p20#a240322p20)
- - [How to turn off Apple&#39;s Journal &#39;Discoverable by Others&#39; setting that&#39;s enabled by default](https://appleinsider.com/inside/ios-17/tips/how-to-turn-off-apples-journal-discoverable-by-others-setting-thats-enabled-by-default?utm_medium=rss)
- - [As regulators constantly and unreasonably block acquisitions, Microsoft is pioneering the non-acquisition acquisition with its OpenAI and Inflection deals &lpar;Newcomer&rpar;](http://www.techmeme.com/240322/p19#a240322p19)
- - [Apple reportedly gives up on its MicroLED dream for now](https://www.theverge.com/2024/3/22/24108967/apple-watch-microled-canceled)<!-- TECH:END -->
+ - [Find Big Savings on Honeywell Thermostats During Amazon&#39;s Spring Sale     - CNET](https://www.cnet.com/deals/find-big-savings-on-honeywell-thermostats-during-amazons-spring-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

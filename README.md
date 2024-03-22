@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [These are a no thanks from me.](http://9gag.com/gag/aW4BYOK)
+ - 😝 [This is what happens after they normalize obesity...](http://9gag.com/gag/a5QpMoO)
+ - 💣 [Can&#39;t Touch This](http://9gag.com/gag/ayNEXnY)
  - 😝 [Pharaoh&#39;s curse](http://9gag.com/gag/aZZqyMn)
- - 😝 [About to get a brain tumor removed &lpar;LGG&rpar; &lpar;4x4x4cm&rpar;. A bit scared of chance of getting paralyzed or personality changes but let&#39;s hope for the best. Enjoy your health, it can happen to anyone as I&#39;m only 24. Fu*ck you and see you tomorrow.](http://9gag.com/gag/a0evQ6L)
- - 💣 [These are a no thanks from me.](http://9gag.com/gag/aW4BYOK)
- - 😝 [At the Paterson Mosque in New Jersey a woman enters to complain about the call to prayer.](http://9gag.com/gag/an7e4jV)
- - 👉 [Why MEN should pay on first date !!! ROFLMFAO...](http://9gag.com/gag/ajPQ5jG)<!-- MEMES:END -->
+ - 👉 [At the Paterson Mosque in New Jersey a woman enters to complain about the call to prayer.](http://9gag.com/gag/an7e4jV)<!-- MEMES:END -->
 
 ---
 

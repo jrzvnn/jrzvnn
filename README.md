@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What’s on your desk, Joanna Nelius?](https://www.theverge.com/24106808/desk-tech-lenovo-typewriter)
  - [How to stop Google’s Smart Compose text suggestions](https://www.theverge.com/24108630/google-docs-gmail-smart-compose-how-to)
  - [Trump&#39;s Truth Social Is Going Public](https://www.wired.com/story/trump-truth-social-publicly-traded-company/)
  - [Elegoo Saturn 3 Ultra 12K Review: Resin Printing Made Easy &lpar;and Big&rpar;](https://www.wired.com/review/elegoo-saturn-3-ultra-12k/)
- - [China relaxes security review rules for some data exports, exempting data used in activities such as international trade from declaration &lpar;Reuters&rpar;](http://www.techmeme.com/240322/p10#a240322p10)
- - [What does the goo in Super Mario Bros. Wonder taste like? An investigation](https://www.theverge.com/2024/3/22/24108593/super-mario-bros-wonder-goo-taste-flavor)<!-- TECH:END -->
+ - [China relaxes security review rules for some data exports, exempting data used in activities such as international trade from declaration &lpar;Reuters&rpar;](http://www.techmeme.com/240322/p10#a240322p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

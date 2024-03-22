@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Showing a scammer his real face](http://9gag.com/gag/abA3znb)
- - 😝 [Good guy Amish](http://9gag.com/gag/aBy9xXA)
- - 💣 [How the... captain? Which api/library?](http://9gag.com/gag/amoq796)
- - 😝 [Salvador Dali creates amazing foil sculpture in seconds &lpar; 1967&rpar;](http://9gag.com/gag/awyNXA8)
- - 👉 [A group of newly graduated REAL doctors from Finland](http://9gag.com/gag/a0evK1d)<!-- MEMES:END -->
+ - 😝 [The boss of all couriers has been found in Brazil.](http://9gag.com/gag/aAyBgAg)
+ - 😝 [A group of newly graduated REAL doctors from Finland](http://9gag.com/gag/a0evK1d)
+ - 💣 [These are a no thanks from me.](http://9gag.com/gag/aW4BYOK)
+ - 😝 [Pharaoh&#39;s curse](http://9gag.com/gag/aZZqyMn)
+ - 👉 [About to get a brain tumor removed &lpar;LGG&rpar; &lpar;4x4x4cm&rpar;. A bit scared of chance of getting paralyzed or personality changes but let&#39;s hope for the best. Enjoy your health, it can happen to anyone as I&#39;m only 24. Fu*ck you and see you tomorrow.](http://9gag.com/gag/a0evQ6L)<!-- MEMES:END -->
 
 ---
 

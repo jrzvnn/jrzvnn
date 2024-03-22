@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pharaoh&#39;s curse](http://9gag.com/gag/aZZqyMn)
- - 😝 [Painting over graffiti with a paint roller](http://9gag.com/gag/a7ovwPw)
+ - 😝 [A Mother&#39;s Joy, Seeing Son Pass The Bar Exam](http://9gag.com/gag/aKG4dK6)
+ - 😝 [Tea Simulator](http://9gag.com/gag/aqy4nZZ)
  - 💣 [Delicious vanilla ice cream](http://9gag.com/gag/aRB635A)
- - 😝 [At the Paterson Mosque in New Jersey a woman enters to complain about the call to prayer.](http://9gag.com/gag/an7e4jV)
- - 👉 [These are a no thanks from me.](http://9gag.com/gag/aW4BYOK)<!-- MEMES:END -->
+ - 😝 [When the comments are funnier than the post itself](http://9gag.com/gag/aKG47gW)
+ - 👉 [London Business trip](http://9gag.com/gag/aAyBe69)<!-- MEMES:END -->
 
 ---
 

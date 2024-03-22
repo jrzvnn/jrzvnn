@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google is testing AI overviews in the main Google Search results with some users, even if they do not opt in to the Search Generative Experience labs feature &lpar;Barry Schwartz/Search Engine Land&rpar;](http://www.techmeme.com/240322/p18#a240322p18)
  - [X-Men ‘97 is Marvel’s omega-level nostalgia play](https://www.theverge.com/24106799/x-men-97-review-marvel-disney-plus)
  - [Confirmed: the S Pen smells kind of bad](https://www.theverge.com/2024/3/22/24108848/samsung-galaxy-s24-ultra-s-pen-stylus-smell)
  - [Victrola’s cheapest Sonos-ready turntable has fallen to yet another low](https://www.theverge.com/2024/3/22/24108705/victrola-stream-onyx-sonos-turntable-kindle-paperwhite-signature-edition-deal-sale)
- - [Mark Zuckerberg says Threads is adding live scores for NBA games, and plans to add support for additional leagues in the future &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240322/p17#a240322p17)
- - [Apple has decided against making its own microLED Apple Watch displays](https://appleinsider.com/articles/24/03/22/apple-has-decided-against-making-its-own-microled-apple-watch-displays?utm_medium=rss)<!-- TECH:END -->
+ - [Mark Zuckerberg says Threads is adding live scores for NBA games, and plans to add support for additional leagues in the future &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240322/p17#a240322p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK CMA launches a formal &quot;Phase 2&quot; of its review of the Vodafone and Three UK&#39;s $19B merger, says it identified competition and pricing concerns in Phase 1 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240322/p4#a240322p4)
+ - [Meituan reports Q4 revenue up 23% YoY to ~$10.2B and a net income of ~$308.4M, both above estimates, as the food delivery giant plans international expansion &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/240322/p5#a240322p5)
+ - [The UK CMA launches a formal Phase 2 of its review of the Vodafone and Three UK&#39;s $19B merger, after finding competition and pricing concerns in Phase 1 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240322/p4#a240322p4)
+ - [Best iPhone Deals 2024: Trade-In Offers, Discounts and More for iPhone 15, 14, 13 and SE     - CNET](https://www.cnet.com/deals/best-iphone-deals/#ftag=CAD590a51e)
  - [Researchers reveal a hotel keycard hacking technique that lets a hacker almost instantly open RFID-based Saflok locks used in ~3M doors across 13K properties &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/240322/p3#a240322p3)
- - [These 6 Common Tax Mistakes Could Get You Audited by the IRS. Here&#39;s What to Avoid.     - CNET](https://www.cnet.com/personal-finance/taxes/these-6-common-tax-mistakes-could-get-you-audited-by-the-irs-heres-what-to-avoid/#ftag=CAD590a51e)
- - [How to Apply for Social Security Benefits: Everything You Need     - CNET](https://www.cnet.com/personal-finance/how-to-apply-for-social-security-benefits-everything-you-need/#ftag=CAD590a51e)
- - [On the first day of Pwn2Own Vancouver 2024, contestants earned $732,500 and a Tesla Model 3 for demoing 19 zero-day flaws across Windows 11, Tesla, and others &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240322/p2#a240322p2)<!-- TECH:END -->
+ - [These 6 Common Tax Mistakes Could Get You Audited by the IRS. Here&#39;s What to Avoid.     - CNET](https://www.cnet.com/personal-finance/taxes/these-6-common-tax-mistakes-could-get-you-audited-by-the-irs-heres-what-to-avoid/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

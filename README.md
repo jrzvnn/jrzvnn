@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [About to get a brain tumor removed &lpar;LGG&rpar; &lpar;4x4x4cm&rpar;. A bit scared of chance of getting paralyzed or personality changes but let&#39;s hope for the best. Enjoy your health, it can happen to anyone as I&#39;m only 24. Fu*ck you and see you tomorrow.](http://9gag.com/gag/a0evQ6L)
- - 😝 [Showing a scammer his real face](http://9gag.com/gag/abA3znb)
- - 💣 [How the... captain? Which api/library?](http://9gag.com/gag/amoq796)
- - 😝 [Salvador Dali creates amazing foil sculpture in seconds &lpar; 1967&rpar;](http://9gag.com/gag/awyNXA8)
- - 👉 [These are a no thanks from me.](http://9gag.com/gag/aW4BYOK)<!-- MEMES:END -->
+ - 😝 [Dragon Ball s](http://9gag.com/gag/aZZqyX9)
+ - 😝 [Everyone who stands against her will be punished](http://9gag.com/gag/axyE0wD)
+ - 💣 [So many to choose from](http://9gag.com/gag/aMVejmx)
+ - 😝 [Sweating from the heat](http://9gag.com/gag/an7ejMV)
+ - 👉 [At the Paterson Mosque in New Jersey a woman enters to complain about the call to prayer.](http://9gag.com/gag/an7e4jV)<!-- MEMES:END -->
 
 ---
 

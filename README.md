@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [When the comments are funnier than the post itself](http://9gag.com/gag/aKG47gW)
+ - 😝 [A Mother&#39;s Joy, Seeing Son Pass The Bar Exam](http://9gag.com/gag/aKG4dK6)
+ - 💣 [These are a no thanks from me.](http://9gag.com/gag/aW4BYOK)
  - 😝 [Tea Simulator](http://9gag.com/gag/aqy4nZZ)
- - 😝 [Love is for idiots.](http://9gag.com/gag/a87d3NY)
- - 💣 [London Business trip](http://9gag.com/gag/aAyBe69)
- - 😝 [At the Paterson Mosque in New Jersey a woman enters to complain about the call to prayer.](http://9gag.com/gag/an7e4jV)
- - 👉 [A Mother&#39;s Joy, Seeing Son Pass The Bar Exam](http://9gag.com/gag/aKG4dK6)<!-- MEMES:END -->
+ - 👉 [Painting over graffiti with a paint roller](http://9gag.com/gag/a7ovwPw)<!-- MEMES:END -->
 
 ---
 

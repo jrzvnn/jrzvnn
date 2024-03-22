@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Photography Is No Longer Evidence of Anything](https://www.wired.com/story/the-end-of-photography-as-evidence-of-anything/)
  - [Apple looking inside China for AI providers to sidestep regulatory issues](https://appleinsider.com/articles/24/03/22/apple-looking-inside-china-for-ai-providers-to-sidestep-regulatory-issues?utm_medium=rss)
  - [Sources: Apple held preliminary talks with Baidu to use the latter&#39;s artificial intelligence technology in Apple devices in China &lpar;Raffaele Huang/Wall Street Journal&rpar;](http://www.techmeme.com/240322/p8#a240322p8)
  - [Sources: YC plans to raise at least $2B across three new funds that include exposure to its next four startup batches and follow-on investments as they grow &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/240322/p7#a240322p7)
- - [US sues Apple, Epic complaints, and no iPads just yet on the AppleInsider Podcast](https://appleinsider.com/articles/24/03/22/us-sues-apple-epic-complaints-and-no-ipads-just-yet-on-the-appleinsider-podcast?utm_medium=rss)
- - [Apple has a wide array of research to command the future AR and VR market](https://appleinsider.com/articles/24/03/22/apple-has-a-wide-array-of-research-to-command-the-future-ar-and-vr-market?utm_medium=rss)<!-- TECH:END -->
+ - [US sues Apple, Epic complaints, and no iPads just yet on the AppleInsider Podcast](https://appleinsider.com/articles/24/03/22/us-sues-apple-epic-complaints-and-no-ipads-just-yet-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

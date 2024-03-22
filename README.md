@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tea Simulator](http://9gag.com/gag/aqy4nZZ)
+ - 😝 [Why MEN should pay on first date !!! ROFLMFAO...](http://9gag.com/gag/ajPQ5jG)
  - 😝 [Painting over graffiti with a paint roller](http://9gag.com/gag/a7ovwPw)
- - 💣 [When the comments are funnier than the post itself](http://9gag.com/gag/aKG47gW)
- - 😝 [A Mother&#39;s Joy, Seeing Son Pass The Bar Exam](http://9gag.com/gag/aKG4dK6)
- - 👉 [This is what happens after they normalize obesity...](http://9gag.com/gag/a5QpMoO)<!-- MEMES:END -->
+ - 💣 [I&#39;m always right.](http://9gag.com/gag/a4PpRWw)
+ - 😝 [Posting memes I found on my smartphone until I get bored or die #182](http://9gag.com/gag/aE0dpmo)
+ - 👉 [These are a no thanks from me.](http://9gag.com/gag/aW4BYOK)<!-- MEMES:END -->
 
 ---
 

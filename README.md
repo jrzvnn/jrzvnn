@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Last time i checked it was a crime.](http://9gag.com/gag/a34vQdr)
+ - 😝 [Spectators realize how sticky the track is](http://9gag.com/gag/avy2zvE)
+ - 💣 [Pharaoh&#39;s curse](http://9gag.com/gag/aZZqyMn)
  - 😝 [A Mother&#39;s Joy, Seeing Son Pass The Bar Exam](http://9gag.com/gag/aKG4dK6)
- - 😝 [Pharaoh&#39;s curse](http://9gag.com/gag/aZZqyMn)
- - 💣 [Spectators realize how sticky the track is](http://9gag.com/gag/avy2zvE)
- - 😝 [Delicious vanilla ice cream](http://9gag.com/gag/aRB635A)
  - 👉 [Painting over graffiti with a paint roller](http://9gag.com/gag/a7ovwPw)<!-- MEMES:END -->
 
 ---

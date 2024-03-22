@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why MEN should pay on first date !!! ROFLMFAO...](http://9gag.com/gag/ajPQ5jG)
- - 😝 [A group of newly graduated REAL doctors from Finland](http://9gag.com/gag/a0evK1d)
- - 💣 [These are a no thanks from me.](http://9gag.com/gag/aW4BYOK)
- - 😝 [Title](http://9gag.com/gag/ayNExP8)
- - 👉 [About to get a brain tumor removed &lpar;LGG&rpar; &lpar;4x4x4cm&rpar;. A bit scared of chance of getting paralyzed or personality changes but let&#39;s hope for the best. Enjoy your health, it can happen to anyone as I&#39;m only 24. Fu*ck you and see you tomorrow.](http://9gag.com/gag/a0evQ6L)<!-- MEMES:END -->
+ - 😝 [Very important information.](http://9gag.com/gag/an7e5Zb)
+ - 😝 [Lol](http://9gag.com/gag/ajPQ8wx)
+ - 💣 [Dog does dog things](http://9gag.com/gag/avy2zZq)
+ - 😝 [Best dunk I have ever see](http://9gag.com/gag/avy2o8X)
+ - 👉 [Uh huh](http://9gag.com/gag/aKG4dp6)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mozilla just ditched its privacy partner because its CEO is tied to data brokers](https://www.theverge.com/2024/3/22/24109116/mozilla-ends-onerep-data-removal-partnership)
  - [Mint is going away, but these easy budgeting apps can take its place](https://www.theverge.com/23943479/mint-intuit-quicken-budget-apps)
  - [Sources: CoreWeave, which offers Nvidia GPUs in the cloud, is in talks to raise funding at a $16B valuation, after being valued at a reported $7B in December &lpar;Gillian Tan/Bloomberg&rpar;](http://www.techmeme.com/240322/p22#a240322p22)
- - [Joni Mitchell is back on Spotify just like Neil Young — because Joe Rogan isn’t going anywhere](https://www.theverge.com/2024/3/22/24109073/joni-mitchell-spotify-music-available-again)
- - [Some experts say the DOJ&#39;s Apple lawsuit makes a strong case for harm to consumers and developers, but proving Apple&#39;s market power could be challenging &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240322/p21#a240322p21)
- - [How an artificial tooth monopoly put the DOJ’s blockbuster Apple antitrust suit in New Jersey](https://www.theverge.com/2024/3/22/24108111/apple-antitrust-doj-artificial-tooth-monopoly-dentsply)<!-- TECH:END -->
+ - [How the Federal Reserve Impacts Mortgage Rates     - CNET](https://www.cnet.com/personal-finance/how-the-federal-reserve-affects-mortgage-rates/#ftag=CAD590a51e)
+ - [Stream on a Budget: Tips To Save Money on Netflix, Hulu, and Other Subscriptions     - CNET](https://www.cnet.com/tech/services-and-software/stream-on-budget-tips-save-money-netflix-hulu-other-streaming-subscriptions/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

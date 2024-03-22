@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Truth Social is going public](https://www.theverge.com/2024/3/22/24108811/donald-trump-truth-social-dwac-spac-stock-merger)
+ - [A profile of DOJ&#39;s Jonathan Kanter, as he takes the biggest swing in his decades-long effort to fight the concentration of power in corporate America &lpar;David McCabe/New York Times&rpar;](http://www.techmeme.com/240322/p15#a240322p15)
+ - [Best Cheap Electric Bikes Under $2,000 &lpar;2024&rpar;: Commuter, Folding, Cargo](https://www.wired.com/gallery/best-cheap-electric-bikes/)
  - [Baldur’s Gate 3 developer is moving on from Dungeons and Dragons](https://www.theverge.com/2024/3/22/24108773/baldurs-gate-3-larian-dungeons-and-dragons)
- - [Here are all the best tech deals from Amazon’s spring sales event](https://www.theverge.com/2024/3/20/24105325/amazon-spring-sale-best-deals-prices)
- - [Sources: OpenAI is meeting with Hollywood studios, media executives, and others to form partnerships to encourage filmmakers to integrate Sora into their work &lpar;Bloomberg&rpar;](http://www.techmeme.com/240322/p14#a240322p14)
- - [Senators push to declassify TikTok briefings](https://www.theverge.com/2024/3/22/24108674/tiktok-ban-classified-intelligence-briefing-china-national-security)
- - [Google plans to remove the ability to download third-party apps and watch faces for all Fitbit smartwatches in the EU in June, citing &quot;regulatory requirements&quot; &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240322/p13#a240322p13)<!-- TECH:END -->
+ - [Here are all the best tech deals from Amazon’s spring sales event](https://www.theverge.com/2024/3/20/24105325/amazon-spring-sale-best-deals-prices)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

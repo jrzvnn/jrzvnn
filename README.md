@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple reportedly gives up on its MicroLED dream for now](https://www.theverge.com/2024/3/22/24108967/apple-watch-microled-canceled)
+ - [March Madness TV Deals: Follow the Games With Discounts on Samsung, LG, Hisense and More     - CNET](https://www.cnet.com/deals/march-madness-tv-deals/#ftag=CAD590a51e)
  - [Google is testing AI overviews in the main Google Search results with some users, even if they do not opt in to the Search Generative Experience labs feature &lpar;Barry Schwartz/Search Engine Land&rpar;](http://www.techmeme.com/240322/p18#a240322p18)
- - [X-Men ‘97 is Marvel’s omega-level nostalgia play](https://www.theverge.com/24106799/x-men-97-review-marvel-disney-plus)
- - [Confirmed: the S Pen smells kind of bad](https://www.theverge.com/2024/3/22/24108848/samsung-galaxy-s24-ultra-s-pen-stylus-smell)
- - [Victrola’s cheapest Sonos-ready turntable has fallen to yet another low](https://www.theverge.com/2024/3/22/24108705/victrola-stream-onyx-sonos-turntable-kindle-paperwhite-signature-edition-deal-sale)
- - [Mark Zuckerberg says Threads is adding live scores for NBA games, and plans to add support for additional leagues in the future &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240322/p17#a240322p17)<!-- TECH:END -->
+ - [The Best Book Adaptations to Stream Right Now     - CNET](https://www.cnet.com/tech/services-and-software/the-best-book-adaptations-to-stream-right-now/#ftag=CAD590a51e)
+ - [Nvidia&#39;s Project GR00T vs. Tesla Optimus: Competing Robot Strategies video     - CNET](https://www.cnet.com/videos/nvidias-project-gr00t-vs-tesla-optimus-competing-robot-strategies/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

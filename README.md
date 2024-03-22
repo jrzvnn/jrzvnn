@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As regulators constantly and unreasonably block acquisitions, Microsoft is pioneering the non-acquisition acquisition with its OpenAI and Inflection deals &lpar;Newcomer&rpar;](http://www.techmeme.com/240322/p19#a240322p19)
  - [Apple reportedly gives up on its MicroLED dream for now](https://www.theverge.com/2024/3/22/24108967/apple-watch-microled-canceled)
  - [Google is testing AI overviews in the main Google Search results with some users, even if they do not opt in to the Search Generative Experience labs feature &lpar;Barry Schwartz/Search Engine Land&rpar;](http://www.techmeme.com/240322/p18#a240322p18)
  - [X-Men ‘97 is Marvel’s omega-level nostalgia play](https://www.theverge.com/24106799/x-men-97-review-marvel-disney-plus)
- - [Confirmed: the S Pen smells kind of bad](https://www.theverge.com/2024/3/22/24108848/samsung-galaxy-s24-ultra-s-pen-stylus-smell)
- - [Victrola’s cheapest Sonos-ready turntable has fallen to yet another low](https://www.theverge.com/2024/3/22/24108705/victrola-stream-onyx-sonos-turntable-kindle-paperwhite-signature-edition-deal-sale)<!-- TECH:END -->
+ - [Confirmed: the S Pen smells kind of bad](https://www.theverge.com/2024/3/22/24108848/samsung-galaxy-s24-ultra-s-pen-stylus-smell)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

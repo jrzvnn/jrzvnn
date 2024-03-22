@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Free Netflix Sharing is Over, but Here&#39;s How to Save Your Profile     - CNET](https://www.cnet.com/tech/home-entertainment/free-netflix-sharing-is-over-but-heres-how-to-save-your-profile/#ftag=CAD590a51e)
  - [Kate Middleton Conspiracists Are Recreating the Streisand Effect](https://www.wired.com/story/kate-middleton-conspiracists-recreating-streisand-effect-irl/)
- - [Up Your Photo and Video Game and Save While Improving Your Craft     - CNET](https://www.cnet.com/deals/up-your-photo-and-video-game-and-save-while-improving-your-craft/#ftag=CAD590a51e)
  - [&#39;Super Mario Bros. Wonder&#39; Almost Had a Live-Action Mario](https://www.wired.com/story/super-mario-bros-wonder-almost-had-a-live-action-mario/)
- - [Italy opens a probe into Booking.com, says the website&#39;s handling of hotels in its Preferred Partner Programme &quot;seems likely to hinder effective competition&quot; &lpar;Giulia Segreti/Reuters&rpar;](http://www.techmeme.com/240322/p6#a240322p6)<!-- TECH:END -->
+ - [Italy opens a probe into Booking.com, says the website&#39;s handling of hotels in its Preferred Partner Programme &quot;seems likely to hinder effective competition&quot; &lpar;Giulia Segreti/Reuters&rpar;](http://www.techmeme.com/240322/p6#a240322p6)
+ - [Nab This Rugged Portable Cooler at 50% Off With Our Exclusive Promo Code     - CNET](https://www.cnet.com/deals/nab-this-rugged-portable-cooler-at-50-off-with-our-exclusive-promo-code/#ftag=CAD590a51e)
+ - [iOS 17: Give Your iPhone More Security With Stolen Device Protection     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-give-your-iphone-more-security-with-stolen-device-protection/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

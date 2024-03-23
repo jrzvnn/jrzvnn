@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [14 yo exposes $400,000 salary of failing districts superintendent.](http://9gag.com/gag/apRKgon)
- - 😝 [Posting memes I found on my smartphone until I get bored or die #182](http://9gag.com/gag/aE0dpmo)
- - 💣 [Because it bloody well is. The devs knows what&#39;s up.](http://9gag.com/gag/aW4BxA3)
- - 😝 [Why MEN should pay on first date !!! ROFLMFAO...](http://9gag.com/gag/ajPQ5jG)
- - 👉 [Bro tf just let your daughter win](http://9gag.com/gag/aW4BGO6)<!-- MEMES:END -->
+ - 😝 [We all have been there with buffets](http://9gag.com/gag/aVvj0GO)
+ - 😝 [\u2803\u280a\u281b \u280d\u2815\u280d\u280d\u283d \u280d\u280a\u2807\u2805](http://9gag.com/gag/ary1VPp)
+ - 💣 [Painting over graffiti with a paint roller](http://9gag.com/gag/a7ovwPw)
+ - 😝 [Against the traffic + speeding = F around and find out.](http://9gag.com/gag/aYQjVgx)
+ - 👉 [Do you know where gender equality exists? In a third world country where you have to do any job in order to not f**king starve](http://9gag.com/gag/amoqg1v)<!-- MEMES:END -->
 
 ---
 

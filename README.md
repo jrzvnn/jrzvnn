@@ -177,9 +177,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Soooo..](http://9gag.com/gag/a5Qp1xE)
  - 😝 [Tea Simulator](http://9gag.com/gag/aqy4nZZ)
- - 💣 [A Mother&#39;s Joy, Seeing Son Pass The Bar Exam](http://9gag.com/gag/aKG4dK6)
- - 😝 [The Acolyte Trailer Dislikes](http://9gag.com/gag/a0ev78X)
- - 👉 [Why MEN should pay on first date !!! ROFLMFAO...](http://9gag.com/gag/ajPQ5jG)<!-- MEMES:END -->
+ - 💣 [Pharaoh&#39;s curse](http://9gag.com/gag/aZZqyMn)
+ - 😝 [Painting over graffiti with a paint roller](http://9gag.com/gag/a7ovwPw)
+ - 👉 [Comic book royal rumble](http://9gag.com/gag/a9yjE4Z)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Source: HeyGen, which uses AI to generate avatars and voices for videos, is raising $60M at a $440M pre-investment valuation, amid concerns about its China ties &lpar;The Information&rpar;](http://www.techmeme.com/240323/p9#a240323p9)
- - [Best Fitbit Deals: Amazon&#39;s Spring Sale Can Save You Up to $54 on the Sense 2     - CNET](https://www.cnet.com/deals/best-fitbit-deals/#ftag=CAD590a51e)
- - [Get Started With 3D Printing for Less With This AnkerMake M5 Deal     - CNET](https://www.cnet.com/deals/get-started-with-3d-printing-for-less-with-this-ankermake-m5-deal/#ftag=CAD590a51e)
- - [Age With Grace: Prioritize These 3 Exercises for Wellness in Older Adults     - CNET](https://www.cnet.com/health/fitness/3-exercises-to-prioritize-as-you-age/#ftag=CAD590a51e)
- - [Best Mattress for Combination Sleepers for 2024     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-combination-sleepers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [16 Best Vacuum Deals From Amazon&#39;s and Walmart&#39;s Spring Sales Events     - CNET](https://www.cnet.com/deals/best-vacuum-deals-right-now-dyson-bissell-roomba-and-more/#ftag=CAD590a51e)
+ - [Best Galaxy S24 Deals: Amazon&#39;s Big Spring Sales Event Brings Prices Down Across the Board     - CNET](https://www.cnet.com/deals/best-galaxy-s24-deals/#ftag=CAD590a51e)
+ - [How Long Does a Solar Panel Installation Take?     - CNET](https://www.cnet.com/home/energy-and-utilities/what-is-the-solar-panel-installation-timeline-from-purchase-to-power/#ftag=CAD590a51e)
+ - [Grab a New Backbone One iPhone Gaming Controller Today and Pay Just $60     - CNET](https://www.cnet.com/deals/grab-a-new-backbone-one-iphone-gaming-controller-today-and-pay-just-60/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

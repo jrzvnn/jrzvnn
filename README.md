@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Soooo..](http://9gag.com/gag/a5Qp1xE)
- - 😝 [Comic book royal rumble](http://9gag.com/gag/a9yjE4Z)
- - 💣 [His reaction](http://9gag.com/gag/a7ovoKr)
- - 😝 [At the Paterson Mosque in New Jersey a woman enters to complain about the call to prayer.](http://9gag.com/gag/an7e4jV)
- - 👉 [Milk](http://9gag.com/gag/aRB6EM2)<!-- MEMES:END -->
+ - 😝 [CAPCOM! WTF is this Bullshit!?](http://9gag.com/gag/aYQjy3m)
+ - 😝 [London Business trip](http://9gag.com/gag/aAyBe69)
+ - 💣 [Shooting at the largest concert hall in Moscow](http://9gag.com/gag/aGyKzz5)
+ - 😝 [Gushing over Peak Fiction](http://9gag.com/gag/aRB6EK5)
+ - 👉 [Wtf kinda match is that](http://9gag.com/gag/a9yjEZZ)<!-- MEMES:END -->
 
 ---
 

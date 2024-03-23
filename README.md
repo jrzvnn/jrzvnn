@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Comic book royal rumble](http://9gag.com/gag/a9yjE4Z)
- - 😝 [LA Fitness is no different than Planet Fitness](http://9gag.com/gag/apRK9Nb)
- - 💣 [Whoever convinced her she needed plastic surgery should go to prison](http://9gag.com/gag/aO8oQmv)
- - 😝 [London Business trip](http://9gag.com/gag/aAyBe69)
- - 👉 [Wtf kinda match is that](http://9gag.com/gag/a9yjEZZ)<!-- MEMES:END -->
+ - 😝 [Peak male performance](http://9gag.com/gag/aVvjbKy)
+ - 😝 [Shooting at the largest concert hall in Moscow](http://9gag.com/gag/aGyKzz5)
+ - 💣 [Milk](http://9gag.com/gag/aRB6EM2)
+ - 😝 [His reaction](http://9gag.com/gag/a7ovoKr)
+ - 👉 [Wat the dog doing?](http://9gag.com/gag/aAyBydE)<!-- MEMES:END -->
 
 ---
 

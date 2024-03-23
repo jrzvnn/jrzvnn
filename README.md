@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Back to the kitchen you go](http://9gag.com/gag/aD2Rdnx)
- - 😝 [Tea Simulator](http://9gag.com/gag/aqy4nZZ)
- - 💣 [At the Paterson Mosque in New Jersey a woman enters to complain about the call to prayer.](http://9gag.com/gag/an7e4jV)
- - 😝 [Soooo..](http://9gag.com/gag/a5Qp1xE)
- - 👉 [Whoever convinced her she needed plastic surgery should go to prison](http://9gag.com/gag/aO8oQmv)<!-- MEMES:END -->
+ - 😝 [Whoever convinced her she needed plastic surgery should go to prison](http://9gag.com/gag/aO8oQmv)
+ - 😝 [Shooting at the largest concert hall in Moscow](http://9gag.com/gag/aGyKzz5)
+ - 💣 [Life gave up on that dude already](http://9gag.com/gag/aBy92vZ)
+ - 😝 [Scary from the outside and KIND from the inside.](http://9gag.com/gag/aD2R1ed)
+ - 👉 [Painting over graffiti with a paint roller](http://9gag.com/gag/a7ovwPw)<!-- MEMES:END -->
 
 ---
 

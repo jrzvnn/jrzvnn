@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Peak male performance](http://9gag.com/gag/aVvjbKy)
- - 😝 [Shooting at the largest concert hall in Moscow](http://9gag.com/gag/aGyKzz5)
- - 💣 [Milk](http://9gag.com/gag/aRB6EM2)
- - 😝 [His reaction](http://9gag.com/gag/a7ovoKr)
- - 👉 [Wat the dog doing?](http://9gag.com/gag/aAyBydE)<!-- MEMES:END -->
+ - 😝 [What say ye](http://9gag.com/gag/a7ov13A)
+ - 😝 [Soooo..](http://9gag.com/gag/a5Qp1xE)
+ - 💣 [Fastest crack in the west](http://9gag.com/gag/a2vEMzO)
+ - 😝 [The way this gas spreads before disaster](http://9gag.com/gag/abA3VbL)
+ - 👉 [His reaction](http://9gag.com/gag/a7ovoKr)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [His reaction](http://9gag.com/gag/a7ovoKr)
- - 😝 [Milk](http://9gag.com/gag/aRB6EM2)
- - 💣 [Comic book royal rumble](http://9gag.com/gag/a9yjE4Z)
- - 😝 [When the comments are funnier than the post itself](http://9gag.com/gag/aKG47gW)
- - 👉 [Shooting at the largest concert hall in Moscow](http://9gag.com/gag/aGyKzz5)<!-- MEMES:END -->
+ - 😝 [Pharaoh&#39;s curse](http://9gag.com/gag/aZZqyMn)
+ - 😝 [London Business trip](http://9gag.com/gag/aAyBe69)
+ - 💣 [Gushing over Peak Fiction](http://9gag.com/gag/aRB6EK5)
+ - 😝 [Whoever convinced her she needed plastic surgery should go to prison](http://9gag.com/gag/aO8oQmv)
+ - 👉 [Lil update](http://9gag.com/gag/adBygyD)<!-- MEMES:END -->
 
 ---
 

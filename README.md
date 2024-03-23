@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with ex-CEO of CrowdTangle Brandon Silverman about the founding principle of the research tool, Meta&#39;s decision to close it in an election year, and more &lpar;Chris Stokel-Walker/Fast Company&rpar;](http://www.techmeme.com/240323/p8#a240323p8)
- - [Here are all the best tech deals from Amazon’s spring sales event](https://www.theverge.com/2024/3/20/24105325/amazon-spring-sale-best-deals-prices)
- - [I Almost Made a $14,000 Homebuying Mistake. What I Learned About Mortgage Points and the Fine Print     - CNET](https://www.cnet.com/personal-finance/mortgages/i-almost-made-a-14000-homebuying-mistake-what-i-learned-about-mortgage-points-and-the-fine-print/#ftag=CAD590a51e)
- - [Make This $9 Surge Protector Your Amazon Big Spring Sale Treat Before It&#39;s Gone     - CNET](https://www.cnet.com/deals/make-this-9-surge-protector-your-amazon-big-spring-sale-treat-before-its-gone/#ftag=CAD590a51e)
- - [Schwab High-Yield Investor Checking: Earn Interest and Get Valuable ATM Perks     - CNET](https://www.cnet.com/personal-finance/charles-schwab-2024-high-yield-investor-checking-account-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Fitbit Deals: Amazon&#39;s Spring Sale Can Save You Up to $54 on the Sense 2     - CNET](https://www.cnet.com/deals/best-fitbit-deals/#ftag=CAD590a51e)
+ - [Get Started With 3D Printing for Less With This AnkerMake M5 Deal     - CNET](https://www.cnet.com/deals/get-started-with-3d-printing-for-less-with-this-ankermake-m5-deal/#ftag=CAD590a51e)
+ - [Age With Grace: Prioritize These 3 Exercises for Wellness in Older Adults     - CNET](https://www.cnet.com/health/fitness/3-exercises-to-prioritize-as-you-age/#ftag=CAD590a51e)
+ - [Best Mattress for Combination Sleepers for 2024     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-combination-sleepers/#ftag=CAD590a51e)
+ - [Q&amp;A with ex-CEO of CrowdTangle Brandon Silverman about the founding principle of the research tool, Meta&#39;s decision to close it in an election year, and more &lpar;Chris Stokel-Walker/Fast Company&rpar;](http://www.techmeme.com/240323/p8#a240323p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

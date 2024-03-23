@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m always right.](http://9gag.com/gag/a4PpRWw)
- - 😝 [Love is for idiots.](http://9gag.com/gag/a87d3NY)
- - 💣 [Why MEN should pay on first date !!! ROFLMFAO...](http://9gag.com/gag/ajPQ5jG)
- - 😝 [Do not the cat](http://9gag.com/gag/aqy4eAL)
- - 👉 [Celebrity gossip makes you less intelligent \u00af\\_&lpar;\u30c4&rpar;_/\u00af](http://9gag.com/gag/aMVeY3V)<!-- MEMES:END -->
+ - 😝 [Best restaurant in town](http://9gag.com/gag/an7ezXV)
+ - 😝 [Why MEN should pay on first date !!! ROFLMFAO...](http://9gag.com/gag/ajPQ5jG)
+ - 💣 [The perfect earrings don\u2019t exist](http://9gag.com/gag/a2vEKLZ)
+ - 😝 [State of Europe right now !](http://9gag.com/gag/aGyKp1G)
+ - 👉 [Bro tf just let your daughter win](http://9gag.com/gag/aW4BGO6)<!-- MEMES:END -->
 
 ---
 

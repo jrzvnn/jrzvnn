@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Family trapped on Mt. Hood rescued via Emergency SOS via Satellite](https://appleinsider.com/articles/24/03/23/family-trapped-on-mt-hood-rescued-via-emergency-sos-via-satellite?utm_medium=rss)
- - [A look at the US DOJ&#39;s lawsuit against Apple, comparisons to Microsoft suit in the 90&#39;s, basic factual errors, why it is clearly a political case, and more &lpar;Steven Sinofsky/Hardcore Software&rpar;](http://www.techmeme.com/240323/p5#a240323p5)
- - [March Madness 2024: How to Watch, Live Stream the NCAA Basketball Tournament Today     - CNET](https://www.cnet.com/tech/services-and-software/march-madness-2024-how-to-watch-live-stream-the-ncaa-basketball-tournament-today/#ftag=CAD590a51e)
- - [This Tech Accessory Is an Essential Big Spring Sale Buy Ahead of Your Next Flight     - CNET](https://www.cnet.com/deals/this-tech-accessory-is-essential-big-spring-sale-buy-ahead-your-next-flight/#ftag=CAD590a51e)
- - [10 Best MagSafe Wireless Chargers &lpar;2024&rpar;: Power Banks, Stands, Pads, and Travel Chargers](https://www.wired.com/gallery/best-magsafe-wireless-chargers/)<!-- TECH:END -->
+ - [Improve Your Home Wi-Fi With Our Favorite Budget Extender, Now Just $15 in Amazon&#39;s Spring Sale     - CNET](https://www.cnet.com/deals/improve-home-wifi-our-favorite-budget-extender-now-just-15-amazons-spring-sale/#ftag=CAD590a51e)
+ - [Keurig Is Making 100% Plant-Based Coffee Pods     - CNET](https://www.cnet.com/home/kitchen-and-household/keurigs-new-coffee-pods-are-100-plant-based-and-compostable/#ftag=CAD590a51e)
+ - [Mutant Mania: Marvel&#39;s &#39;X-Men &#39;97&#39; Revival Series Explained     - CNET](https://www.cnet.com/tech/services-and-software/mutant-mania-marvels-x-men-97-revival-series-explained/#ftag=CAD590a51e)
+ - [France vs. Germany Livestream: How to Watch International Friendly Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/france-vs-germany-livestream-how-to-watch-international-friendly-soccer-from-anywhere/#ftag=CAD590a51e)
+ - [England vs. Brazil Livestream: How to Watch International Friendly Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/england-vs-brazil-livestream-how-to-watch-international-friendly-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

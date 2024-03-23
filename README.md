@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the US DOJ&#39;s lawsuit against Apple, comparisons to Microsoft suit in the 90&#39;s, basic factual errors, why it is clearly a political case, and more &lpar;Steven Sinofsky/Hardcore Software&rpar;](http://www.techmeme.com/240323/p5#a240323p5)
  - [March Madness 2024: How to Watch, Live Stream the NCAA Basketball Tournament Today     - CNET](https://www.cnet.com/tech/services-and-software/march-madness-2024-how-to-watch-live-stream-the-ncaa-basketball-tournament-today/#ftag=CAD590a51e)
  - [This Tech Accessory Is an Essential Big Spring Sale Buy Ahead of Your Next Flight     - CNET](https://www.cnet.com/deals/this-tech-accessory-is-essential-big-spring-sale-buy-ahead-your-next-flight/#ftag=CAD590a51e)
  - [10 Best MagSafe Wireless Chargers &lpar;2024&rpar;: Power Banks, Stands, Pads, and Travel Chargers](https://www.wired.com/gallery/best-magsafe-wireless-chargers/)
- - [3 Body Problem VR headset review: magical tech in need of more apps](https://www.theverge.com/24108802/3-body-problem-vr-headset-review)
- - [Shop Tech and Home Deals In Walmart&#39;s Rival Spring Sale     - CNET](https://www.cnet.com/deals/shop-tech-and-home-deals-in-walmarts-rival-spring-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [3 Body Problem VR headset review: magical tech in need of more apps](https://www.theverge.com/24108802/3-body-problem-vr-headset-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

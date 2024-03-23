@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best iPad Deals: Amazon Big Spring Sale Brings Epic Savings on iPad Mini and iPad Air     - CNET](https://www.cnet.com/deals/best-ipad-deals/#ftag=CAD590a51e)
- - [Here&#39;s How to Tell If Your Solar Eclipse Glasses Are Legit     - CNET](https://www.cnet.com/health/personal-care/how-to-tell-if-your-solar-eclipse-glasses-are-safe-or-fake/#ftag=CAD590a51e)
- - [These Luxury Cooling Pillows Are 20% Off Today     - CNET](https://www.cnet.com/deals/these-luxury-cooling-pillows-are-20-off-today/#ftag=CAD590a51e)
- - [Study finds that China produced almost 50% of the world&#39;s top AI researchers, compared to ~18% from the US, thanks to China&#39;s heavy investment in AI education &lpar;New York Times&rpar;](http://www.techmeme.com/240323/p1#a240323p1)
- - [Get Microsoft Office for Mac for just $24.99](https://appleinsider.com/articles/24/03/23/get-microsoft-office-for-mac-for-just-2499?utm_medium=rss)<!-- TECH:END -->
+ - [Last Total Solar Eclipse for 20 Years Is Coming: How to See and Photograph It     - CNET](https://www.cnet.com/science/last-total-solar-eclipse-for-20-years-is-coming-how-to-see-and-photograph-it/#ftag=CAD590a51e)
+ - [Here&#39;s How to Sign Up for Amazon Prime and Take Advantage of Big Spring Sale Deals     - CNET](https://www.cnet.com/tech/heres-how-to-sign-up-for-amazon-prime-and-take-advantage-of-big-spring-sale-deals/#ftag=CAD590a51e)
+ - [iOS 17: Your iPhone&#39;s Photos App Recognizes Your Pets Now     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-your-iphones-photos-app-recognizes-your-pets-now/#ftag=CAD590a51e)
+ - [Apple Chip Flaw Leaks Secret Encryption Keys](https://www.wired.com/story/apple-m-chip-flaw-leak-encryption-keys/)
+ - [Best Phone to Buy for 2024     - CNET](https://www.cnet.com/tech/mobile/best-phone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

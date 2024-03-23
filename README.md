@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A breach seller dumped a dataset of 73M AT&amp;T customers online, three years after a hacker teased such a leak; AT&amp;T won&#39;t say how its users&#39; data was leaked &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240322/p31#a240322p31)
  - [Qualcomm ends its bid to buy Israeli car chip maker Autotalks, citing a lack of timely regulatory approvals; the UK CMA opened a probe into the deal in February &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/240322/p30#a240322p30)
  - [Sources: Stability AI founder Emad Mostaque plans to step down as CEO, following the departure of a group of researchers who helped develop Stable Diffusion &lpar;Forbes&rpar;](http://www.techmeme.com/240322/p29#a240322p29)
  - [Sensor Tower: in February 2024, X had 27M US DAUs of its mobile app, down 18% YoY, and the US user base has been flat or down every month since November 2022 &lpar;David Ingram/NBC News&rpar;](http://www.techmeme.com/240322/p28#a240322p28)
- - [GM says it has stopped sharing driving data with two data brokers, after a report showed GM and others collecting and sharing data without clear consent &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/240322/p27#a240322p27)
- - [Asus’ tiny 2.5-liter gaming NUC tentatively starts at $1,629 in the US](https://www.theverge.com/2024/3/22/24109140/asus-rog-nuc-pricing-availability)<!-- TECH:END -->
+ - [NordicTrack T Series 5 Treadmill, Adjustable Dumbbells on Sale for Big Amazon Sale     - CNET](https://www.cnet.com/deals/nordictrack-t-series-5-treadmill-adjustable-dumbbells-on-sale-for-big-amazon-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

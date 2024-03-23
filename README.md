@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Electronic technology is beautiful.!](http://9gag.com/gag/ae9KgLq)
- - 😝 [Comic book royal rumble](http://9gag.com/gag/a9yjE4Z)
- - 💣 [Painting over graffiti with a paint roller](http://9gag.com/gag/a7ovwPw)
- - 😝 [Head first to the jackpot](http://9gag.com/gag/aE0d8Lx)
+ - 😝 [I&#39;m ok with that](http://9gag.com/gag/a0evRbB)
+ - 😝 [Because it bloody well is. The devs knows what&#39;s up.](http://9gag.com/gag/aW4BxA3)
+ - 💣 [14 yo exposes $400,000 salary of failing districts superintendent.](http://9gag.com/gag/apRKgon)
+ - 😝 [Posting memes I found on my smartphone until I get bored or die #182](http://9gag.com/gag/aE0dpmo)
  - 👉 [Why MEN should pay on first date !!! ROFLMFAO...](http://9gag.com/gag/ajPQ5jG)<!-- MEMES:END -->
 
 ---

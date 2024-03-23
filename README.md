@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A Mother&#39;s Joy, Seeing Son Pass The Bar Exam](http://9gag.com/gag/aKG4dK6)
- - 😝 [Painting over graffiti with a paint roller](http://9gag.com/gag/a7ovwPw)
- - 💣 [Any Captains here?](http://9gag.com/gag/aRB6rR5)
- - 😝 [Pharaoh&#39;s curse](http://9gag.com/gag/aZZqyMn)
- - 👉 [Comic book royal rumble](http://9gag.com/gag/a9yjE4Z)<!-- MEMES:END -->
+ - 😝 [Shooting at the largest concert hall in Moscow](http://9gag.com/gag/aGyKzz5)
+ - 😝 [London Business trip](http://9gag.com/gag/aAyBe69)
+ - 💣 [Milk](http://9gag.com/gag/aRB6EM2)
+ - 😝 [Any Captains here?](http://9gag.com/gag/aRB6rR5)
+ - 👉 [Lil update](http://9gag.com/gag/adBygyD)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I Almost Made a $14,000 Homebuying Mistake. What I Learned About Mortgage Points and the Fine Print     - CNET](https://www.cnet.com/personal-finance/mortgages/i-almost-made-a-14000-homebuying-mistake-what-i-learned-about-mortgage-points-and-the-fine-print/#ftag=CAD590a51e)
+ - [Make This $9 Surge Protector Your Amazon Big Spring Sale Treat Before It&#39;s Gone     - CNET](https://www.cnet.com/deals/make-this-9-surge-protector-your-amazon-big-spring-sale-treat-before-its-gone/#ftag=CAD590a51e)
+ - [Schwab High-Yield Investor Checking: Earn Interest and Get Valuable ATM Perks     - CNET](https://www.cnet.com/personal-finance/charles-schwab-2024-high-yield-investor-checking-account-review/#ftag=CAD590a51e)
  - [Didi Q4: revenue up 55.4% YoY to ~$6.83B, a ~$113.15M net income, up from a ~$131.8M loss YoY, as the company continues its recovery after regulatory challenges &lpar;Reuters&rpar;](http://www.techmeme.com/240323/p7#a240323p7)
- - [Belkin’s fast-charging Apple Watch power bank is down to its best price yet](https://www.theverge.com/2024/3/23/24109003/belkin-boostcharge-pro-power-bank-garmin-forerunner-255s-running-watch-deal-sale)
- - [Apple&#39;s Latest iPad Air Is $150 Off in Amazon&#39;s Big Spring Sale Event     - CNET](https://www.cnet.com/deals/apples-latest-ipad-air-is-150-off-in-amazons-big-spring-sale-event/#ftag=CAD590a51e)
- - [Smart ceiling light showdown: Aqara T1M versus Nanoleaf Skylight](https://www.theverge.com/24108832/aqara-ceiling-light-t1m-versus-nanoleaf-skylight-smart-ceiling-light-showdown)
- - [Redis, the popular in-memory data store, switches from the open source 3-clause BSD license to a controversial dual-license model &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240323/p6#a240323p6)<!-- TECH:END -->
+ - [RIP Mint. I Found My New Favorite Budgeting App     - CNET](https://www.cnet.com/personal-finance/rip-mint-i-found-my-new-favorite-budgeting-app/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

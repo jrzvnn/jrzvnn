@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why MEN should pay on first date !!! ROFLMFAO...](http://9gag.com/gag/ajPQ5jG)
- - 😝 [At the Paterson Mosque in New Jersey a woman enters to complain about the call to prayer.](http://9gag.com/gag/an7e4jV)
- - 💣 [Painting over graffiti with a paint roller](http://9gag.com/gag/a7ovwPw)
+ - 😝 [Soooo..](http://9gag.com/gag/a5Qp1xE)
  - 😝 [Tea Simulator](http://9gag.com/gag/aqy4nZZ)
- - 👉 [London Business trip](http://9gag.com/gag/aAyBe69)<!-- MEMES:END -->
+ - 💣 [A Mother&#39;s Joy, Seeing Son Pass The Bar Exam](http://9gag.com/gag/aKG4dK6)
+ - 😝 [The Acolyte Trailer Dislikes](http://9gag.com/gag/a0ev78X)
+ - 👉 [Why MEN should pay on first date !!! ROFLMFAO...](http://9gag.com/gag/ajPQ5jG)<!-- MEMES:END -->
 
 ---
 

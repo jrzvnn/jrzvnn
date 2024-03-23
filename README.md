@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Peak male performance](http://9gag.com/gag/aVvjbKy)
- - 😝 [Because it bloody well is. The devs knows what&#39;s up.](http://9gag.com/gag/aW4BxA3)
- - 💣 [I&#39;m ok with that](http://9gag.com/gag/a0evRbB)
- - 😝 [Why MEN should pay on first date !!! ROFLMFAO...](http://9gag.com/gag/ajPQ5jG)
- - 👉 [State of Europe right now !](http://9gag.com/gag/aGyKp1G)<!-- MEMES:END -->
+ - 😝 [When the comments are funnier than the post itself](http://9gag.com/gag/aKG47gW)
+ - 😝 [At the Paterson Mosque in New Jersey a woman enters to complain about the call to prayer.](http://9gag.com/gag/an7e4jV)
+ - 💣 [Pharaoh&#39;s curse](http://9gag.com/gag/aZZqyMn)
+ - 😝 [Comic book royal rumble](http://9gag.com/gag/a9yjE4Z)
+ - 👉 [Painting over graffiti with a paint roller](http://9gag.com/gag/a7ovwPw)<!-- MEMES:END -->
 
 ---
 

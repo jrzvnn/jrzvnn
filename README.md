@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best iPad Deals: Amazon Big Spring Sale Brings Epic Savings on iPad Mini and iPad Air     - CNET](https://www.cnet.com/deals/best-ipad-deals/#ftag=CAD590a51e)
  - [Here&#39;s How to Tell If Your Solar Eclipse Glasses Are Legit     - CNET](https://www.cnet.com/health/personal-care/how-to-tell-if-your-solar-eclipse-glasses-are-safe-or-fake/#ftag=CAD590a51e)
  - [These Luxury Cooling Pillows Are 20% Off Today     - CNET](https://www.cnet.com/deals/these-luxury-cooling-pillows-are-20-off-today/#ftag=CAD590a51e)
  - [Study finds that China produced almost 50% of the world&#39;s top AI researchers, compared to ~18% from the US, thanks to China&#39;s heavy investment in AI education &lpar;New York Times&rpar;](http://www.techmeme.com/240323/p1#a240323p1)
- - [Get Microsoft Office for Mac for just $24.99](https://appleinsider.com/articles/24/03/23/get-microsoft-office-for-mac-for-just-2499?utm_medium=rss)
- - [Microsoft&#39;s deal with Inflection is a further sign that the emerging AI economy will probably be dominated by the US tech giants, as the AI talent war heats up &lpar;John Thornhill/Financial Times&rpar;](http://www.techmeme.com/240322/p32#a240322p32)<!-- TECH:END -->
+ - [Get Microsoft Office for Mac for just $24.99](https://appleinsider.com/articles/24/03/23/get-microsoft-office-for-mac-for-just-2499?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

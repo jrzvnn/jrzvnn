@@ -170,7 +170,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Microsoft&#39;s deal with Inflection is a further sign that the emerging AI economy will probably be dominated by the US tech giants, as the AI talent war heats up &lpar;John Thornhill/Financial Times&rpar;](http://www.techmeme.com/240322/p32#a240322p32)
  - [A breach seller dumped a dataset of 73M AT&amp;T customers online, three years after a hacker teased such a leak; AT&amp;T won&#39;t say how its users&#39; data was leaked &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240322/p31#a240322p31)
  - [Qualcomm ends its bid to buy Israeli car chip maker Autotalks, citing a lack of timely regulatory approvals; the UK CMA opened a probe into the deal in February &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/240322/p30#a240322p30)
- - [Stability AI announces the resignation of Emad Mostaque as CEO and from the board, and names COO Shan Shan Wong and CTO Christian Laforte as interim co-CEOs &lpar;Forbes&rpar;](http://www.techmeme.com/240322/p29#a240322p29)<!-- TECH:END -->
+ - [Stability AI says Emad Mostaque resigned as CEO and from the board &quot;to pursue decentralized AI&quot;; COO Shan Shan Wong and CTO Christian Laforte named interim CEOs &lpar;Forbes&rpar;](http://www.techmeme.com/240322/p29#a240322p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

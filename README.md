@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [When the comments are funnier than the post itself](http://9gag.com/gag/aKG47gW)
  - 😝 [We all have been there with buffets](http://9gag.com/gag/aVvj0GO)
- - 😝 [\u2803\u280a\u281b \u280d\u2815\u280d\u280d\u283d \u280d\u280a\u2807\u2805](http://9gag.com/gag/ary1VPp)
  - 💣 [Painting over graffiti with a paint roller](http://9gag.com/gag/a7ovwPw)
- - 😝 [Against the traffic + speeding = F around and find out.](http://9gag.com/gag/aYQjVgx)
- - 👉 [Do you know where gender equality exists? In a third world country where you have to do any job in order to not f**king starve](http://9gag.com/gag/amoqg1v)<!-- MEMES:END -->
+ - 😝 [Whoever convinced her she needed plastic surgery should go to prison](http://9gag.com/gag/aO8oQmv)
+ - 👉 [Why she crying though...](http://9gag.com/gag/apRK9K8)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Women&#39;s March Madness 2024: How to Watch, Stream Caitlin Clark Today and Every Tournament Game     - CNET](https://www.cnet.com/tech/services-and-software/womens-march-madness-2024-how-to-watch-stream-caitlin-clark-and-every-tournament-game/#ftag=CAD590a51e)
- - [Need Free Solar Eclipse Glasses? Stop by Warby Parker in April     - CNET](https://www.cnet.com/health/personal-care/need-free-solar-eclipse-glasses-stop-by-warby-parker-in-april/#ftag=CAD590a51e)
- - [Nab a Fire TV Stick for as Low as $20 During Amazon&#39;s Big Spring Sale     - CNET](https://www.cnet.com/deals/snag-a-fire-tv-stick-in-amazons-big-spring-sale-from-as-little-as-20/#ftag=CAD590a51e)
- - [Which States Have Community Solar: Find Out Here     - CNET](https://www.cnet.com/home/energy-and-utilities/which-states-have-community-solar-find-out-here/#ftag=CAD590a51e)
- - [My Favorite Espresso Machine Is 40% Off for Amazon&#39;s Big Spring Sale     - CNET](https://www.cnet.com/deals/my-favorite-espresso-machine-is-40-off-for-amazons-big-spring-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Keychron Q5 Pro and Q6 Pro Review: Well-Built Full-Size Keyboards](https://www.wired.com/review/keychron-q5-pro-keychron-q6-pro/)
+ - [AI-generated blues misses a human touch — and a metronome](https://www.theverge.com/24103840/generative-ai-artwork-suno-music-industry-musicians-copyright)
+ - [DJI Mini 4 Pro Drone Review: The Best Small Drone Available](https://www.wired.com/review/dji-mini-4-drone/)
+ - [The US Is About to Drown in a Sea of Kittens](https://www.wired.com/story/kitten-season-global-warming-cat-breeding/)
+ - [32°N’s liquid lens sunglasses double as reading glasses for GenXers](https://www.theverge.com/24106587/liquid-lens-glasses-review-reading-sun-price-experience)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

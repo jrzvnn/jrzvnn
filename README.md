@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon Big Spring Sale 2024: live coverage of the best deals on Apple, accessories &amp; more](https://appleinsider.com/articles/24/03/20/amazon-big-spring-sale-2024-live-coverage-of-the-best-deals-on-apple-accessories-more?utm_medium=rss)
  - [Filmmakers, critics, and users detail why Prime Video failed in Africa; Amazon laid off staff and scaled back operations on the continent in January 2024 &lpar;Jesusegun Alagbe/Rest of World&rpar;](http://www.techmeme.com/240323/p10#a240323p10)
  - [March Madness 2024: How to Watch, Live Stream the NCAA Basketball Tournament Today     - CNET](https://www.cnet.com/tech/services-and-software/march-madness-2024-how-to-watch-live-stream-the-ncaa-basketball-tournament-today/#ftag=CAD590a51e)
  - [Grab Our Favorite New Anker Mini Bluetooth Speaker for 20% Off During Amazon&#39;s Big Spring Sale     - CNET](https://www.cnet.com/deals/our-favorite-new-anker-mini-bluetooth-speaker-is-20-off-for-amazon-big-spring-sale/#ftag=CAD590a51e)
- - [Amazon Knocks Up to $60 Off Some of Our Favorite Jabra Earbuds     - CNET](https://www.cnet.com/deals/amazon-knocks-up-to-60-off-some-of-our-favorite-jabra-earbuds/#ftag=CAD590a51e)
- - [Grab a New Backbone One iPhone Gaming Controller Today and Pay Just $60     - CNET](https://www.cnet.com/deals/grab-a-new-backbone-one-iphone-gaming-controller-today-and-pay-just-60/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon Knocks Up to $60 Off Some of Our Favorite Jabra Earbuds     - CNET](https://www.cnet.com/deals/amazon-knocks-up-to-60-off-some-of-our-favorite-jabra-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

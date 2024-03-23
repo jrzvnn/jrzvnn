@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [At the Paterson Mosque in New Jersey a woman enters to complain about the call to prayer.](http://9gag.com/gag/an7e4jV)
- - 😝 [A Mother&#39;s Joy, Seeing Son Pass The Bar Exam](http://9gag.com/gag/aKG4dK6)
- - 💣 [Calm down satan.](http://9gag.com/gag/aqy4KO7)
- - 😝 [Love is for idiots.](http://9gag.com/gag/a87d3NY)
- - 👉 [Dog does dog things](http://9gag.com/gag/avy2zZq)<!-- MEMES:END -->
+ - 😝 [Electronic technology is beautiful.!](http://9gag.com/gag/ae9KgLq)
+ - 😝 [Comic book royal rumble](http://9gag.com/gag/a9yjE4Z)
+ - 💣 [Painting over graffiti with a paint roller](http://9gag.com/gag/a7ovwPw)
+ - 😝 [Head first to the jackpot](http://9gag.com/gag/aE0d8Lx)
+ - 👉 [Why MEN should pay on first date !!! ROFLMFAO...](http://9gag.com/gag/ajPQ5jG)<!-- MEMES:END -->
 
 ---
 

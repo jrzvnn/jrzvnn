@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m ok with that](http://9gag.com/gag/a0evRbB)
- - 😝 [Because it bloody well is. The devs knows what&#39;s up.](http://9gag.com/gag/aW4BxA3)
- - 💣 [Why MEN should pay on first date !!! ROFLMFAO...](http://9gag.com/gag/ajPQ5jG)
- - 😝 [The perfect earrings don\u2019t exist](http://9gag.com/gag/a2vEKLZ)
- - 👉 [Bro tf just let your daughter win](http://9gag.com/gag/aW4BGO6)<!-- MEMES:END -->
+ - 😝 [Pharaoh&#39;s curse](http://9gag.com/gag/aZZqyMn)
+ - 😝 [London Business trip](http://9gag.com/gag/aAyBe69)
+ - 💣 [I&#39;m always right.](http://9gag.com/gag/a4PpRWw)
+ - 😝 [At the Paterson Mosque in New Jersey a woman enters to complain about the call to prayer.](http://9gag.com/gag/an7e4jV)
+ - 👉 [A Mother&#39;s Joy, Seeing Son Pass The Bar Exam](http://9gag.com/gag/aKG4dK6)<!-- MEMES:END -->
 
 ---
 

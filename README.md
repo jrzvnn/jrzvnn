@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Soooo..](http://9gag.com/gag/a5Qp1xE)
- - 😝 [Tea Simulator](http://9gag.com/gag/aqy4nZZ)
- - 💣 [Pharaoh&#39;s curse](http://9gag.com/gag/aZZqyMn)
- - 😝 [Painting over graffiti with a paint roller](http://9gag.com/gag/a7ovwPw)
- - 👉 [Comic book royal rumble](http://9gag.com/gag/a9yjE4Z)<!-- MEMES:END -->
+ - 😝 [Peak male performance](http://9gag.com/gag/aVvjbKy)
+ - 😝 [Because it bloody well is. The devs knows what&#39;s up.](http://9gag.com/gag/aW4BxA3)
+ - 💣 [I&#39;m ok with that](http://9gag.com/gag/a0evRbB)
+ - 😝 [Why MEN should pay on first date !!! ROFLMFAO...](http://9gag.com/gag/ajPQ5jG)
+ - 👉 [State of Europe right now !](http://9gag.com/gag/aGyKp1G)<!-- MEMES:END -->
 
 ---
 

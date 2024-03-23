@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Don&#39;t Miss Roku Streaming Device Deals Starting at Just $20 During Amazon&#39;s Big Spring Sale     - CNET](https://www.cnet.com/deals/dont-miss-roku-streaming-devices-deals-starting-20-during-amazons-big-spring-sale/#ftag=CAD590a51e)
+ - [Best Soft Mattress of 2024     - CNET](https://www.cnet.com/health/sleep/best-soft-mattresses/#ftag=CAD590a51e)
  - [How to find any file on Windows](https://www.theverge.com/24108104/windows-microsoft-search-files-how-to)
  - [Financial Times tests an AI chatbot trained on decades of its own articles](https://www.theverge.com/2024/3/23/24106296/ask-ft-generative-ai-chatbot-answers-tool)
- - [BeReal&#39;s challenges show the difficulty for new consumer apps to break out absent a big platform shift, as users lack the time to try additional consumer apps &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/240323/p3#a240323p3)
- - [Women&#39;s March Madness 2024: How to Watch, Stream Caitlin Clark Today and Every Tournament Game     - CNET](https://www.cnet.com/tech/services-and-software/womens-march-madness-2024-how-to-watch-stream-caitlin-clark-and-every-tournament-game/#ftag=CAD590a51e)
- - [Need Free Solar Eclipse Glasses? Stop by Warby Parker in April     - CNET](https://www.cnet.com/health/personal-care/need-free-solar-eclipse-glasses-stop-by-warby-parker-in-april/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [BeReal&#39;s challenges show the difficulty for new consumer apps to break out absent a big platform shift, as users lack the time to try additional consumer apps &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/240323/p3#a240323p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

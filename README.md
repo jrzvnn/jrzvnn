@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Comic book royal rumble](http://9gag.com/gag/a9yjE4Z)
- - 😝 [Spectators realize how sticky the track is](http://9gag.com/gag/avy2zvE)
- - 💣 [NASA&#39;s coffee cup designed specifically to not spill in zero gravity](http://9gag.com/gag/aZZqymV)
- - 😝 [His reaction](http://9gag.com/gag/a7ovoKr)
- - 👉 [London Business trip](http://9gag.com/gag/aAyBe69)<!-- MEMES:END -->
+ - 😝 [Lil update](http://9gag.com/gag/adBygyD)
+ - 💣 [\u2803\u280a\u281b \u280d\u2815\u280d\u280d\u283d \u280d\u280a\u2807\u2805](http://9gag.com/gag/ary1VPp)
+ - 😝 [Wtf kinda match is that](http://9gag.com/gag/a9yjEZZ)
+ - 👉 [Corporations using AI to see which workers are not working](http://9gag.com/gag/aGyKEyZ)<!-- MEMES:END -->
 
 ---
 

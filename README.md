@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Keychron Q5 Pro and Q6 Pro Review: Well-Built Full-Size Keyboards](https://www.wired.com/review/keychron-q5-pro-keychron-q6-pro/)
+ - [AI-generated blues misses a human touch — and a metronome](https://www.theverge.com/24103840/generative-ai-artwork-suno-music-industry-musicians-copyright)
  - [DJI Mini 4 Pro Drone Review: The Best Small Drone Available](https://www.wired.com/review/dji-mini-4-drone/)
  - [The US Is About to Drown in a Sea of Kittens](https://www.wired.com/story/kitten-season-global-warming-cat-breeding/)
- - [32°N’s liquid lens sunglasses double as reading glasses for GenXers](https://www.theverge.com/24106587/liquid-lens-glasses-review-reading-sun-price-experience)
- - [Stability AI CEO resigns to ‘pursue decentralized AI’](https://www.theverge.com/2024/3/23/24109511/stability-ai-ceo-emad-mostaque-resignation-decentralized-ai)
- - [How to Watch and Stream the 2024 Australian GP     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-and-stream-the-2024-australian-gp/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [32°N’s liquid lens sunglasses double as reading glasses for GenXers](https://www.theverge.com/24106587/liquid-lens-glasses-review-reading-sun-price-experience)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

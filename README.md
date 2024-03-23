@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Soooo..](http://9gag.com/gag/a5Qp1xE)
- - 😝 [Comic book royal rumble](http://9gag.com/gag/a9yjE4Z)
- - 💣 [London Business trip](http://9gag.com/gag/aAyBe69)
- - 😝 [Shooting at the largest concert hall in Moscow](http://9gag.com/gag/aGyKzz5)
- - 👉 [Gushing over Peak Fiction](http://9gag.com/gag/aRB6EK5)<!-- MEMES:END -->
+ - 😝 [Why MEN should pay on first date !!! ROFLMFAO...](http://9gag.com/gag/ajPQ5jG)
+ - 😝 [State of Europe right now !](http://9gag.com/gag/aGyKp1G)
+ - 💣 [Peak male performance](http://9gag.com/gag/aVvjbKy)
+ - 😝 [My favorite 3D vision t-shirt](http://9gag.com/gag/aW4B4q6)
+ - 👉 [Bro tf just let your daughter win](http://9gag.com/gag/aW4BGO6)<!-- MEMES:END -->
 
 ---
 

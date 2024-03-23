@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Last Total Solar Eclipse for 20 Years Is Coming: How to See and Photograph It     - CNET](https://www.cnet.com/science/last-total-solar-eclipse-for-20-years-is-coming-how-to-see-and-photograph-it/#ftag=CAD590a51e)
- - [Here&#39;s How to Sign Up for Amazon Prime and Take Advantage of Big Spring Sale Deals     - CNET](https://www.cnet.com/tech/heres-how-to-sign-up-for-amazon-prime-and-take-advantage-of-big-spring-sale-deals/#ftag=CAD590a51e)
- - [iOS 17: Your iPhone&#39;s Photos App Recognizes Your Pets Now     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-your-iphones-photos-app-recognizes-your-pets-now/#ftag=CAD590a51e)
+ - [The Philippines&#39; new undersea internet cable network is expected to bring jobs to remote islands, boosting the country&#39;s BPO sector, which employed 1.7M in 2023 &lpar;Yuichi Shiga/Nikkei Asia&rpar;](http://www.techmeme.com/240323/p2#a240323p2)
  - [Apple Chip Flaw Leaks Secret Encryption Keys](https://www.wired.com/story/apple-m-chip-flaw-leak-encryption-keys/)
- - [Best Phone to Buy for 2024     - CNET](https://www.cnet.com/tech/mobile/best-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [43 Home and Kitchen Deals Still Live on Amazon     - CNET](https://www.cnet.com/deals/43-home-and-kitchen-deals-still-live-on-amazon/#ftag=CAD590a51e)
+ - [Why You Should Turn Off Journal Suggestions on Your iPhone     - CNET](https://www.cnet.com/tech/mobile/why-you-should-turn-off-journal-suggestions-on-your-iphone/#ftag=CAD590a51e)
+ - [Give Your Old iPhone or Android a Second Life as a Home Security Camera for Free     - CNET](https://www.cnet.com/home/security/give-your-old-iphone-or-android-a-second-life-as-a-home-security-camera-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

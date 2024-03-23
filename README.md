@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m ok with that](http://9gag.com/gag/a0evRbB)
- - 😝 [Because it bloody well is. The devs knows what&#39;s up.](http://9gag.com/gag/aW4BxA3)
- - 💣 [14 yo exposes $400,000 salary of failing districts superintendent.](http://9gag.com/gag/apRKgon)
- - 😝 [Posting memes I found on my smartphone until I get bored or die #182](http://9gag.com/gag/aE0dpmo)
- - 👉 [Why MEN should pay on first date !!! ROFLMFAO...](http://9gag.com/gag/ajPQ5jG)<!-- MEMES:END -->
+ - 😝 [Back to the kitchen you go](http://9gag.com/gag/aD2Rdnx)
+ - 😝 [Tea Simulator](http://9gag.com/gag/aqy4nZZ)
+ - 💣 [At the Paterson Mosque in New Jersey a woman enters to complain about the call to prayer.](http://9gag.com/gag/an7e4jV)
+ - 😝 [Soooo..](http://9gag.com/gag/a5Qp1xE)
+ - 👉 [Whoever convinced her she needed plastic surgery should go to prison](http://9gag.com/gag/aO8oQmv)<!-- MEMES:END -->
 
 ---
 

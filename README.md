@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pharaoh&#39;s curse](http://9gag.com/gag/aZZqyMn)
- - 😝 [London Business trip](http://9gag.com/gag/aAyBe69)
- - 💣 [I&#39;m always right.](http://9gag.com/gag/a4PpRWw)
- - 😝 [At the Paterson Mosque in New Jersey a woman enters to complain about the call to prayer.](http://9gag.com/gag/an7e4jV)
- - 👉 [A Mother&#39;s Joy, Seeing Son Pass The Bar Exam](http://9gag.com/gag/aKG4dK6)<!-- MEMES:END -->
+ - 😝 [I&#39;m always right.](http://9gag.com/gag/a4PpRWw)
+ - 😝 [Love is for idiots.](http://9gag.com/gag/a87d3NY)
+ - 💣 [Why MEN should pay on first date !!! ROFLMFAO...](http://9gag.com/gag/ajPQ5jG)
+ - 😝 [Do not the cat](http://9gag.com/gag/aqy4eAL)
+ - 👉 [Celebrity gossip makes you less intelligent \u00af\\_&lpar;\u30c4&rpar;_/\u00af](http://9gag.com/gag/aMVeY3V)<!-- MEMES:END -->
 
 ---
 

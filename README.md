@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Stability AI CEO resigns to ‘pursue decentralized AI’](https://www.theverge.com/2024/3/23/24109511/stability-ai-ceo-emad-mostaque-resignation-decentralized-ai)
  - [The Philippines&#39; new undersea internet cable network is expected to bring jobs to remote islands, boosting the country&#39;s BPO sector, which employed 1.7M in 2023 &lpar;Yuichi Shiga/Nikkei Asia&rpar;](http://www.techmeme.com/240323/p2#a240323p2)
  - [Last Total Solar Eclipse for 20 Years Is Coming: How to See and Photograph It     - CNET](https://www.cnet.com/science/last-total-solar-eclipse-for-20-years-is-coming-how-to-see-and-photograph-it/#ftag=CAD590a51e)
  - [Here&#39;s How to Sign Up for Amazon Prime and Take Advantage of Big Spring Sale Deals     - CNET](https://www.cnet.com/tech/heres-how-to-sign-up-for-amazon-prime-and-take-advantage-of-big-spring-sale-deals/#ftag=CAD590a51e)
- - [iOS 17: Your iPhone&#39;s Photos App Recognizes Your Pets Now     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-your-iphones-photos-app-recognizes-your-pets-now/#ftag=CAD590a51e)
- - [Apple Chip Flaw Leaks Secret Encryption Keys](https://www.wired.com/story/apple-m-chip-flaw-leak-encryption-keys/)<!-- TECH:END -->
+ - [iOS 17: Your iPhone&#39;s Photos App Recognizes Your Pets Now     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-your-iphones-photos-app-recognizes-your-pets-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

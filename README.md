@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When the comments are funnier than the post itself](http://9gag.com/gag/aKG47gW)
- - 😝 [We all have been there with buffets](http://9gag.com/gag/aVvj0GO)
- - 💣 [Painting over graffiti with a paint roller](http://9gag.com/gag/a7ovwPw)
+ - 😝 [Cute dress](http://9gag.com/gag/a4Pp3gv)
  - 😝 [Whoever convinced her she needed plastic surgery should go to prison](http://9gag.com/gag/aO8oQmv)
- - 👉 [Why she crying though...](http://9gag.com/gag/apRK9K8)<!-- MEMES:END -->
+ - 💣 [Why she crying though...](http://9gag.com/gag/apRK9K8)
+ - 😝 [Celebrity gossip makes you less intelligent \u00af\\_&lpar;\u30c4&rpar;_/\u00af](http://9gag.com/gag/aMVeY3V)
+ - 👉 [When the comments are funnier than the post itself](http://9gag.com/gag/aKG47gW)<!-- MEMES:END -->
 
 ---
 

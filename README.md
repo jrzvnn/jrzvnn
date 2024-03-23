@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [BeReal&#39;s challenges show the difficulty for new consumer apps to break out absent a big platform shift, as users lack the time to try additional consumer apps &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/240323/p3#a240323p3)
  - [Keychron Q5 Pro and Q6 Pro Review: Well-Built Full-Size Keyboards](https://www.wired.com/review/keychron-q5-pro-keychron-q6-pro/)
  - [AI-generated blues misses a human touch — and a metronome](https://www.theverge.com/24103840/generative-ai-artwork-suno-music-industry-musicians-copyright)
  - [DJI Mini 4 Pro Drone Review: The Best Small Drone Available](https://www.wired.com/review/dji-mini-4-drone/)
- - [The US Is About to Drown in a Sea of Kittens](https://www.wired.com/story/kitten-season-global-warming-cat-breeding/)
- - [32°N’s liquid lens sunglasses double as reading glasses for GenXers](https://www.theverge.com/24106587/liquid-lens-glasses-review-reading-sun-price-experience)<!-- TECH:END -->
+ - [The US Is About to Drown in a Sea of Kittens](https://www.wired.com/story/kitten-season-global-warming-cat-breeding/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

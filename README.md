@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cute dress](http://9gag.com/gag/a4Pp3gv)
- - 😝 [Whoever convinced her she needed plastic surgery should go to prison](http://9gag.com/gag/aO8oQmv)
- - 💣 [Why she crying though...](http://9gag.com/gag/apRK9K8)
- - 😝 [Celebrity gossip makes you less intelligent \u00af\\_&lpar;\u30c4&rpar;_/\u00af](http://9gag.com/gag/aMVeY3V)
- - 👉 [When the comments are funnier than the post itself](http://9gag.com/gag/aKG47gW)<!-- MEMES:END -->
+ - 😝 [I&#39;m ok with that](http://9gag.com/gag/a0evRbB)
+ - 😝 [Because it bloody well is. The devs knows what&#39;s up.](http://9gag.com/gag/aW4BxA3)
+ - 💣 [Why MEN should pay on first date !!! ROFLMFAO...](http://9gag.com/gag/ajPQ5jG)
+ - 😝 [The perfect earrings don\u2019t exist](http://9gag.com/gag/a2vEKLZ)
+ - 👉 [Bro tf just let your daughter win](http://9gag.com/gag/aW4BGO6)<!-- MEMES:END -->
 
 ---
 

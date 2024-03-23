@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [His reaction](http://9gag.com/gag/a7ovoKr)
+ - 😝 [Milk](http://9gag.com/gag/aRB6EM2)
+ - 💣 [Comic book royal rumble](http://9gag.com/gag/a9yjE4Z)
  - 😝 [When the comments are funnier than the post itself](http://9gag.com/gag/aKG47gW)
- - 😝 [Pharaoh&#39;s curse](http://9gag.com/gag/aZZqyMn)
- - 💣 [At the Paterson Mosque in New Jersey a woman enters to complain about the call to prayer.](http://9gag.com/gag/an7e4jV)
- - 😝 [Any Captains here?](http://9gag.com/gag/aRB6rR5)
- - 👉 [A Mother&#39;s Joy, Seeing Son Pass The Bar Exam](http://9gag.com/gag/aKG4dK6)<!-- MEMES:END -->
+ - 👉 [Shooting at the largest concert hall in Moscow](http://9gag.com/gag/aGyKzz5)<!-- MEMES:END -->
 
 ---
 

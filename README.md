@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Comic book royal rumble](http://9gag.com/gag/a9yjE4Z)
- - 😝 [Lil update](http://9gag.com/gag/adBygyD)
- - 💣 [\u2803\u280a\u281b \u280d\u2815\u280d\u280d\u283d \u280d\u280a\u2807\u2805](http://9gag.com/gag/ary1VPp)
- - 😝 [Wtf kinda match is that](http://9gag.com/gag/a9yjEZZ)
- - 👉 [Corporations using AI to see which workers are not working](http://9gag.com/gag/aGyKEyZ)<!-- MEMES:END -->
+ - 😝 [LA Fitness is no different than Planet Fitness](http://9gag.com/gag/apRK9Nb)
+ - 💣 [Whoever convinced her she needed plastic surgery should go to prison](http://9gag.com/gag/aO8oQmv)
+ - 😝 [London Business trip](http://9gag.com/gag/aAyBe69)
+ - 👉 [Wtf kinda match is that](http://9gag.com/gag/a9yjEZZ)<!-- MEMES:END -->
 
 ---
 

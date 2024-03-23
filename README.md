@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to find any file on Windows](https://www.theverge.com/24108104/windows-microsoft-search-files-how-to)
+ - [Financial Times tests an AI chatbot trained on decades of its own articles](https://www.theverge.com/2024/3/23/24106296/ask-ft-generative-ai-chatbot-answers-tool)
  - [BeReal&#39;s challenges show the difficulty for new consumer apps to break out absent a big platform shift, as users lack the time to try additional consumer apps &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/240323/p3#a240323p3)
- - [Keychron Q5 Pro and Q6 Pro Review: Well-Built Full-Size Keyboards](https://www.wired.com/review/keychron-q5-pro-keychron-q6-pro/)
- - [AI-generated blues misses a human touch — and a metronome](https://www.theverge.com/24103840/generative-ai-artwork-suno-music-industry-musicians-copyright)
- - [DJI Mini 4 Pro Drone Review: The Best Small Drone Available](https://www.wired.com/review/dji-mini-4-drone/)
- - [The US Is About to Drown in a Sea of Kittens](https://www.wired.com/story/kitten-season-global-warming-cat-breeding/)<!-- TECH:END -->
+ - [Women&#39;s March Madness 2024: How to Watch, Stream Caitlin Clark Today and Every Tournament Game     - CNET](https://www.cnet.com/tech/services-and-software/womens-march-madness-2024-how-to-watch-stream-caitlin-clark-and-every-tournament-game/#ftag=CAD590a51e)
+ - [Need Free Solar Eclipse Glasses? Stop by Warby Parker in April     - CNET](https://www.cnet.com/health/personal-care/need-free-solar-eclipse-glasses-stop-by-warby-parker-in-april/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

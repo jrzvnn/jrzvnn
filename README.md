@@ -178,8 +178,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - 😝 [14 yo exposes $400,000 salary of failing districts superintendent.](http://9gag.com/gag/apRKgon)
  - 😝 [Posting memes I found on my smartphone until I get bored or die #182](http://9gag.com/gag/aE0dpmo)
  - 💣 [Because it bloody well is. The devs knows what&#39;s up.](http://9gag.com/gag/aW4BxA3)
- - 😝 [Bro tf just let your daughter win](http://9gag.com/gag/aW4BGO6)
- - 👉 [Why MEN should pay on first date !!! ROFLMFAO...](http://9gag.com/gag/ajPQ5jG)<!-- MEMES:END -->
+ - 😝 [Why MEN should pay on first date !!! ROFLMFAO...](http://9gag.com/gag/ajPQ5jG)
+ - 👉 [Bro tf just let your daughter win](http://9gag.com/gag/aW4BGO6)<!-- MEMES:END -->
 
 ---
 

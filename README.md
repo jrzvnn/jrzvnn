@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Didi Q4: revenue up 55.4% YoY to ~$6.83B, a ~$113.15M net income, up from a ~$131.8M loss YoY, as the company continues its recovery after regulatory challenges &lpar;Reuters&rpar;](http://www.techmeme.com/240323/p7#a240323p7)
  - [Belkin’s fast-charging Apple Watch power bank is down to its best price yet](https://www.theverge.com/2024/3/23/24109003/belkin-boostcharge-pro-power-bank-garmin-forerunner-255s-running-watch-deal-sale)
  - [Apple&#39;s Latest iPad Air Is $150 Off in Amazon&#39;s Big Spring Sale Event     - CNET](https://www.cnet.com/deals/apples-latest-ipad-air-is-150-off-in-amazons-big-spring-sale-event/#ftag=CAD590a51e)
  - [Smart ceiling light showdown: Aqara T1M versus Nanoleaf Skylight](https://www.theverge.com/24108832/aqara-ceiling-light-t1m-versus-nanoleaf-skylight-smart-ceiling-light-showdown)
- - [Redis, the popular in-memory data store, switches from the open source 3-clause BSD license to a controversial dual-license model &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240323/p6#a240323p6)
- - [Get Your Hands on a $60 Lifetime Subscription to Headway Premium     - CNET](https://www.cnet.com/deals/get-your-hands-on-a-60-lifetime-subscription-to-headway-premium/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Redis, the popular in-memory data store, switches from the open source 3-clause BSD license to a controversial dual-license model &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240323/p6#a240323p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

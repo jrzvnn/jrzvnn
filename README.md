@@ -166,7 +166,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: HeyGen, which uses AI to generate avatars and voices for videos, is raising $60M at a $440M pre-investment valuation, amid concerns about its China ties &lpar;The Information&rpar;](http://www.techmeme.com/240323/p9#a240323p9)
+ - [Source: HeyGen, which uses AI to generate avatars and voices for videos, is raising $60M led by Benchmark at a $440M valuation, amid concerns about China ties &lpar;The Information&rpar;](http://www.techmeme.com/240323/p9#a240323p9)
  - [16 Best Vacuum Deals From Amazon&#39;s and Walmart&#39;s Spring Sales Events     - CNET](https://www.cnet.com/deals/best-vacuum-deals-right-now-dyson-bissell-roomba-and-more/#ftag=CAD590a51e)
  - [Best Galaxy S24 Deals: Amazon&#39;s Big Spring Sales Event Brings Prices Down Across the Board     - CNET](https://www.cnet.com/deals/best-galaxy-s24-deals/#ftag=CAD590a51e)
  - [How Long Does a Solar Panel Installation Take?     - CNET](https://www.cnet.com/home/energy-and-utilities/what-is-the-solar-panel-installation-timeline-from-purchase-to-power/#ftag=CAD590a51e)

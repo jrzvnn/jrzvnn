@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Stability AI CEO resigns to ‘pursue decentralized AI’](https://www.theverge.com/2024/3/23/24109511/stability-ai-ceo-emad-mostaque-resignation-decentralized-ai)
- - [The Philippines&#39; new undersea internet cable network is expected to bring jobs to remote islands, boosting the country&#39;s BPO sector, which employed 1.7M in 2023 &lpar;Yuichi Shiga/Nikkei Asia&rpar;](http://www.techmeme.com/240323/p2#a240323p2)
- - [Last Total Solar Eclipse for 20 Years Is Coming: How to See and Photograph It     - CNET](https://www.cnet.com/science/last-total-solar-eclipse-for-20-years-is-coming-how-to-see-and-photograph-it/#ftag=CAD590a51e)
- - [Here&#39;s How to Sign Up for Amazon Prime and Take Advantage of Big Spring Sale Deals     - CNET](https://www.cnet.com/tech/heres-how-to-sign-up-for-amazon-prime-and-take-advantage-of-big-spring-sale-deals/#ftag=CAD590a51e)
- - [iOS 17: Your iPhone&#39;s Photos App Recognizes Your Pets Now     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-your-iphones-photos-app-recognizes-your-pets-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Watch and Stream the 2024 Australian GP     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-and-stream-the-2024-australian-gp/#ftag=CAD590a51e)
+ - [Grab Discounted Charging Gear for All Your Devices During Amazon&#39;s Big Spring Sale     - CNET](https://www.cnet.com/deals/grab-discounted-charging-gear-for-all-your-devices-during-amazins-big-spring-sale/#ftag=CAD590a51e)
+ - [Child Tax Credit 2024: What to Know About Filing Your Taxes     - CNET](https://www.cnet.com/personal-finance/taxes/child-tax-credit-2024-what-to-know-about-filing-your-taxes/#ftag=CAD590a51e)
+ - [The Philippines&#39; new undersea internet cable network is expected to bring jobs to remote islands, boosting the country&#39;s BPO sector, which employed 1.7M in 2023 &lpar;Yuichi Shiga/Nikkei Asia&rpar;](http://www.techmeme.com/240323/p2#a240323p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Belkin’s fast-charging Apple Watch power bank is down to its best price yet](https://www.theverge.com/2024/3/23/24109003/belkin-boostcharge-pro-power-bank-garmin-forerunner-255s-running-watch-deal-sale)
+ - [Apple&#39;s Latest iPad Air Is $150 Off in Amazon&#39;s Big Spring Sale Event     - CNET](https://www.cnet.com/deals/apples-latest-ipad-air-is-150-off-in-amazons-big-spring-sale-event/#ftag=CAD590a51e)
  - [Smart ceiling light showdown: Aqara T1M versus Nanoleaf Skylight](https://www.theverge.com/24108832/aqara-ceiling-light-t1m-versus-nanoleaf-skylight-smart-ceiling-light-showdown)
  - [Redis, the popular in-memory data store, switches from the open source 3-clause BSD license to a controversial dual-license model &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240323/p6#a240323p6)
- - [Final Fantasy XVI’s next DLC gets a trailer and a release date](https://www.theverge.com/2024/3/23/24109641/final-fantasy-xvi-the-rising-tide-dlc-trailer-release-date)
- - [Improve Your Home Wi-Fi With Our Favorite Budget Extender, Now Just $15 in Amazon&#39;s Spring Sale     - CNET](https://www.cnet.com/deals/improve-home-wifi-our-favorite-budget-extender-now-just-15-amazons-spring-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Get Your Hands on a $60 Lifetime Subscription to Headway Premium     - CNET](https://www.cnet.com/deals/get-your-hands-on-a-60-lifetime-subscription-to-headway-premium/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

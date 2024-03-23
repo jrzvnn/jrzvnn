@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Spain&#39;s High Court orders the suspension of Telegram after media companies complained it was allowing users to upload their content without permission &lpar;Reuters&rpar;](http://www.techmeme.com/240323/p4#a240323p4)
- - [How to find any file on Windows](https://www.theverge.com/24108104/windows-microsoft-search-files-how-to)
- - [Financial Times tests an AI chatbot trained on decades of its own articles](https://www.theverge.com/2024/3/23/24106296/ask-ft-generative-ai-chatbot-answers-tool)
- - [BeReal&#39;s challenges show the difficulty for new consumer apps to break out absent a big platform shift, as users lack the time to try additional consumer apps &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/240323/p3#a240323p3)
- - [Women&#39;s March Madness 2024: How to Watch, Stream Caitlin Clark Today and Every Tournament Game     - CNET](https://www.cnet.com/tech/services-and-software/womens-march-madness-2024-how-to-watch-stream-caitlin-clark-and-every-tournament-game/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [March Madness 2024: How to Watch, Live Stream the NCAA Basketball Tournament Today     - CNET](https://www.cnet.com/tech/services-and-software/march-madness-2024-how-to-watch-live-stream-the-ncaa-basketball-tournament-today/#ftag=CAD590a51e)
+ - [This Tech Accessory Is an Essential Big Spring Sale Buy Ahead of Your Next Flight     - CNET](https://www.cnet.com/deals/this-tech-accessory-is-essential-big-spring-sale-buy-ahead-your-next-flight/#ftag=CAD590a51e)
+ - [10 Best MagSafe Wireless Chargers &lpar;2024&rpar;: Power Banks, Stands, Pads, and Travel Chargers](https://www.wired.com/gallery/best-magsafe-wireless-chargers/)
+ - [3 Body Problem VR headset review: magical tech in need of more apps](https://www.theverge.com/24108802/3-body-problem-vr-headset-review)
+ - [Shop Tech and Home Deals In Walmart&#39;s Rival Spring Sale     - CNET](https://www.cnet.com/deals/shop-tech-and-home-deals-in-walmarts-rival-spring-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

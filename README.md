@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What say ye](http://9gag.com/gag/a7ov13A)
+ - 😝 [Wat the dog doing?](http://9gag.com/gag/aAyBydE)
  - 😝 [Soooo..](http://9gag.com/gag/a5Qp1xE)
- - 💣 [Fastest crack in the west](http://9gag.com/gag/a2vEMzO)
- - 😝 [The way this gas spreads before disaster](http://9gag.com/gag/abA3VbL)
- - 👉 [His reaction](http://9gag.com/gag/a7ovoKr)<!-- MEMES:END -->
+ - 💣 [I thought he was the same actor...](http://9gag.com/gag/aRB6L6M)
+ - 😝 [Spectators realize how sticky the track is](http://9gag.com/gag/avy2zvE)
+ - 👉 [23rd March France, wait you can&#39;t take your ambulance can&#39;t you see we are praying on the road because you haven&#39;t built a million more mosque yet!!](http://9gag.com/gag/aZZqZxp)<!-- MEMES:END -->
 
 ---
 

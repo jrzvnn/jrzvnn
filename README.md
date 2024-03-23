@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are all the best tech deals from Amazon’s spring sales event](https://www.theverge.com/2024/3/20/24105325/amazon-spring-sale-best-deals-prices)
  - [I Almost Made a $14,000 Homebuying Mistake. What I Learned About Mortgage Points and the Fine Print     - CNET](https://www.cnet.com/personal-finance/mortgages/i-almost-made-a-14000-homebuying-mistake-what-i-learned-about-mortgage-points-and-the-fine-print/#ftag=CAD590a51e)
  - [Make This $9 Surge Protector Your Amazon Big Spring Sale Treat Before It&#39;s Gone     - CNET](https://www.cnet.com/deals/make-this-9-surge-protector-your-amazon-big-spring-sale-treat-before-its-gone/#ftag=CAD590a51e)
  - [Schwab High-Yield Investor Checking: Earn Interest and Get Valuable ATM Perks     - CNET](https://www.cnet.com/personal-finance/charles-schwab-2024-high-yield-investor-checking-account-review/#ftag=CAD590a51e)
- - [Didi Q4: revenue up 55.4% YoY to ~$6.83B, a ~$113.15M net income, up from a ~$131.8M loss YoY, as the company continues its recovery after regulatory challenges &lpar;Reuters&rpar;](http://www.techmeme.com/240323/p7#a240323p7)
- - [RIP Mint. I Found My New Favorite Budgeting App     - CNET](https://www.cnet.com/personal-finance/rip-mint-i-found-my-new-favorite-budgeting-app/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Didi Q4: revenue up 55.4% YoY to ~$6.83B, a ~$113.15M net income, up from a ~$131.8M loss YoY, as the company continues its recovery after regulatory challenges &lpar;Reuters&rpar;](http://www.techmeme.com/240323/p7#a240323p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

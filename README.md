@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Belkin’s fast-charging Apple Watch power bank is down to its best price yet](https://www.theverge.com/2024/3/23/24109003/belkin-boostcharge-pro-power-bank-garmin-forerunner-255s-running-watch-deal-sale)
+ - [Smart ceiling light showdown: Aqara T1M versus Nanoleaf Skylight](https://www.theverge.com/24108832/aqara-ceiling-light-t1m-versus-nanoleaf-skylight-smart-ceiling-light-showdown)
  - [Redis, the popular in-memory data store, switches from the open source 3-clause BSD license to a controversial dual-license model &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240323/p6#a240323p6)
  - [Final Fantasy XVI’s next DLC gets a trailer and a release date](https://www.theverge.com/2024/3/23/24109641/final-fantasy-xvi-the-rising-tide-dlc-trailer-release-date)
- - [Improve Your Home Wi-Fi With Our Favorite Budget Extender, Now Just $15 in Amazon&#39;s Spring Sale     - CNET](https://www.cnet.com/deals/improve-home-wifi-our-favorite-budget-extender-now-just-15-amazons-spring-sale/#ftag=CAD590a51e)
- - [Keurig Is Making 100% Plant-Based Coffee Pods     - CNET](https://www.cnet.com/home/kitchen-and-household/keurigs-new-coffee-pods-are-100-plant-based-and-compostable/#ftag=CAD590a51e)
- - [Mutant Mania: Marvel&#39;s &#39;X-Men &#39;97&#39; Revival Series Explained     - CNET](https://www.cnet.com/tech/services-and-software/mutant-mania-marvels-x-men-97-revival-series-explained/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Improve Your Home Wi-Fi With Our Favorite Budget Extender, Now Just $15 in Amazon&#39;s Spring Sale     - CNET](https://www.cnet.com/deals/improve-home-wifi-our-favorite-budget-extender-now-just-15-amazons-spring-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

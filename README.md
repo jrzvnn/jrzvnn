@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Study finds that China produced almost 50% of the world&#39;s top AI researchers, compared to ~18% from the US, thanks to China&#39;s heavy investment in AI education &lpar;New York Times&rpar;](http://www.techmeme.com/240323/p1#a240323p1)
  - [Get Microsoft Office for Mac for just $24.99](https://appleinsider.com/articles/24/03/23/get-microsoft-office-for-mac-for-just-2499?utm_medium=rss)
  - [Microsoft&#39;s deal with Inflection is a further sign that the emerging AI economy will probably be dominated by the US tech giants, as the AI talent war heats up &lpar;John Thornhill/Financial Times&rpar;](http://www.techmeme.com/240322/p32#a240322p32)
  - [A breach seller dumped a dataset of 73M AT&amp;T customers online, three years after a hacker teased such a leak; AT&amp;T won&#39;t say how its users&#39; data was leaked &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240322/p31#a240322p31)
- - [Qualcomm ends its bid to buy Israeli car chip maker Autotalks, citing a lack of timely regulatory approvals; the UK CMA opened a probe into the deal in February &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/240322/p30#a240322p30)
- - [Stability AI says Emad Mostaque resigned as CEO and from the board &quot;to pursue decentralized AI&quot;; COO Shan Shan Wong and CTO Christian Laforte named interim CEOs &lpar;Forbes&rpar;](http://www.techmeme.com/240322/p29#a240322p29)<!-- TECH:END -->
+ - [Qualcomm ends its bid to buy Israeli car chip maker Autotalks, citing a lack of timely regulatory approvals; the UK CMA opened a probe into the deal in February &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/240322/p30#a240322p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

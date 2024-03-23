@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shooting at the largest concert hall in Moscow](http://9gag.com/gag/aGyKzz5)
- - 😝 [London Business trip](http://9gag.com/gag/aAyBe69)
- - 💣 [Milk](http://9gag.com/gag/aRB6EM2)
- - 😝 [Any Captains here?](http://9gag.com/gag/aRB6rR5)
- - 👉 [Lil update](http://9gag.com/gag/adBygyD)<!-- MEMES:END -->
+ - 😝 [Squat dozer](http://9gag.com/gag/axyEyvK)
+ - 😝 [Soooo..](http://9gag.com/gag/a5Qp1xE)
+ - 💣 [Whoever convinced her she needed plastic surgery should go to prison](http://9gag.com/gag/aO8oQmv)
+ - 😝 [Milk](http://9gag.com/gag/aRB6EM2)
+ - 👉 [Shooting at the largest concert hall in Moscow](http://9gag.com/gag/aGyKzz5)<!-- MEMES:END -->
 
 ---
 

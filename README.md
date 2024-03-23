@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Peak male performance](http://9gag.com/gag/aVvjbKy)
- - 😝 [Bro tf just let your daughter win](http://9gag.com/gag/aW4BGO6)
- - 💣 [Squat dozer](http://9gag.com/gag/axyEyvK)
- - 😝 [Do you know where gender equality exists? In a third world country where you have to do any job in order to not f**king starve](http://9gag.com/gag/amoqg1v)
- - 👉 [23rd March France, wait you can&#39;t take your ambulance can&#39;t you see we are praying on the road because you haven&#39;t built a million more mosque yet!!](http://9gag.com/gag/aZZqZxp)<!-- MEMES:END -->
+ - 😝 [London Business trip](http://9gag.com/gag/aAyBe69)
+ - 😝 [Shooting at the largest concert hall in Moscow](http://9gag.com/gag/aGyKzz5)
+ - 💣 [At the Paterson Mosque in New Jersey a woman enters to complain about the call to prayer.](http://9gag.com/gag/an7e4jV)
+ - 😝 [Wat the dog doing?](http://9gag.com/gag/aAyBydE)
+ - 👉 [His reaction](http://9gag.com/gag/a7ovoKr)<!-- MEMES:END -->
 
 ---
 

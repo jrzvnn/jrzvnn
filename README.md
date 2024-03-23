@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why MEN should pay on first date !!! ROFLMFAO...](http://9gag.com/gag/ajPQ5jG)
- - 😝 [State of Europe right now !](http://9gag.com/gag/aGyKp1G)
- - 💣 [Peak male performance](http://9gag.com/gag/aVvjbKy)
- - 😝 [My favorite 3D vision t-shirt](http://9gag.com/gag/aW4B4q6)
- - 👉 [Bro tf just let your daughter win](http://9gag.com/gag/aW4BGO6)<!-- MEMES:END -->
+ - 😝 [Soooo..](http://9gag.com/gag/a5Qp1xE)
+ - 😝 [At the Paterson Mosque in New Jersey a woman enters to complain about the call to prayer.](http://9gag.com/gag/an7e4jV)
+ - 💣 [Painting over graffiti with a paint roller](http://9gag.com/gag/a7ovwPw)
+ - 😝 [Pharaoh&#39;s curse](http://9gag.com/gag/aZZqyMn)
+ - 👉 [Any Captains here?](http://9gag.com/gag/aRB6rR5)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft&#39;s deal with Inflection is a further sign that the emerging AI economy will probably be dominated by the US tech giants, as the AI talent war heats up &lpar;John Thornhill/Financial Times&rpar;](http://www.techmeme.com/240322/p32#a240322p32)
  - [A breach seller dumped a dataset of 73M AT&amp;T customers online, three years after a hacker teased such a leak; AT&amp;T won&#39;t say how its users&#39; data was leaked &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240322/p31#a240322p31)
  - [Qualcomm ends its bid to buy Israeli car chip maker Autotalks, citing a lack of timely regulatory approvals; the UK CMA opened a probe into the deal in February &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/240322/p30#a240322p30)
  - [Sources: Stability AI founder Emad Mostaque plans to step down as CEO, following the departure of a group of researchers who helped develop Stable Diffusion &lpar;Forbes&rpar;](http://www.techmeme.com/240322/p29#a240322p29)
- - [Sensor Tower: in February 2024, X had 27M US DAUs of its mobile app, down 18% YoY, and the US user base has been flat or down every month since November 2022 &lpar;David Ingram/NBC News&rpar;](http://www.techmeme.com/240322/p28#a240322p28)
- - [NordicTrack T Series 5 Treadmill, Adjustable Dumbbells on Sale for Big Amazon Sale     - CNET](https://www.cnet.com/deals/nordictrack-t-series-5-treadmill-adjustable-dumbbells-on-sale-for-big-amazon-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sensor Tower: in February 2024, X had 27M US DAUs of its mobile app, down 18% YoY, and the US user base has been flat or down every month since November 2022 &lpar;David Ingram/NBC News&rpar;](http://www.techmeme.com/240322/p28#a240322p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

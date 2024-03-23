@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [NASA&#39;s coffee cup designed specifically to not spill in zero gravity](http://9gag.com/gag/aZZqymV)
- - 😝 [Shooting at the largest concert hall in Moscow](http://9gag.com/gag/aGyKzz5)
- - 💣 [Milk](http://9gag.com/gag/aRB6EM2)
- - 😝 [23rd March France, wait you can&#39;t take your ambulance can&#39;t you see we are praying on the road because you haven&#39;t built a million more mosque yet!!](http://9gag.com/gag/aZZqZxp)
- - 👉 [Squat dozer](http://9gag.com/gag/axyEyvK)<!-- MEMES:END -->
+ - 😝 [Peak male performance](http://9gag.com/gag/aVvjbKy)
+ - 😝 [Bro tf just let your daughter win](http://9gag.com/gag/aW4BGO6)
+ - 💣 [Squat dozer](http://9gag.com/gag/axyEyvK)
+ - 😝 [Do you know where gender equality exists? In a third world country where you have to do any job in order to not f**king starve](http://9gag.com/gag/amoqg1v)
+ - 👉 [23rd March France, wait you can&#39;t take your ambulance can&#39;t you see we are praying on the road because you haven&#39;t built a million more mosque yet!!](http://9gag.com/gag/aZZqZxp)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How stupid can you be? Caran - Yesss](http://9gag.com/gag/a87d7dV)
- - 😝 [Nice moves!](http://9gag.com/gag/axyEyVD)
- - 💣 [Listen to Michael Jackson&#39;s real voice with no autotune](http://9gag.com/gag/aoym390)
+ - 😝 [Hell no](http://9gag.com/gag/aRB6LK7)
+ - 😝 [Parents will sacrifice everything for their children](http://9gag.com/gag/aRB64w5)
+ - 💣 [Monorail](http://9gag.com/gag/ae9K1ZB)
  - 😝 [Peacemaker is now available in MK1.](http://9gag.com/gag/a4Pp6o1)
- - 👉 [Insta](http://9gag.com/gag/aAyB60d)<!-- MEMES:END -->
+ - 👉 [This is why the UK military is shrinking, no one wants to fight for a government that can&#39;t be asked to help it&#39;s citizens](http://9gag.com/gag/an7eOW5)<!-- MEMES:END -->
 
 ---
 

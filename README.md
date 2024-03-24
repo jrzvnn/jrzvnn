@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This proves only one thing](http://9gag.com/gag/avy2W6W)
- - 😝 [Wtf kinda match is that](http://9gag.com/gag/a9yjEZZ)
- - 💣 [Milk](http://9gag.com/gag/aRB6EM2)
+ - 😝 [Woops](http://9gag.com/gag/a0eveoX)
  - 😝 [Chad Nintendo Wii](http://9gag.com/gag/abA3Vzr)
- - 👉 [Woops](http://9gag.com/gag/a0eveoX)<!-- MEMES:END -->
+ - 💣 [Soooo..](http://9gag.com/gag/a5Qp1xE)
+ - 😝 [Do you know where gender equality exists? In a third world country where you have to do any job in order to not f**king starve](http://9gag.com/gag/amoqg1v)
+ - 👉 [What\u2019s under there?](http://9gag.com/gag/axyEWoW)<!-- MEMES:END -->
 
 ---
 

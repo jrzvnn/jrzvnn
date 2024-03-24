@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dayummmm](http://9gag.com/gag/avy25j5)
- - 😝 [His reaction](http://9gag.com/gag/a7ovoKr)
- - 💣 [Interesting narrative](http://9gag.com/gag/aW4B4nn)
- - 😝 [Epic proposal.](http://9gag.com/gag/a2vEvv1)
- - 👉 [A worthy repost](http://9gag.com/gag/apRK11D)<!-- MEMES:END -->
+ - 😝 [23rd March France, wait you can&#39;t take your ambulance can&#39;t you see we are praying on the road because you haven&#39;t built a million more mosque yet!!](http://9gag.com/gag/aZZqZxp)
+ - 😝 [Lil update](http://9gag.com/gag/adBygyD)
+ - 💣 [Woops](http://9gag.com/gag/a0eveoX)
+ - 😝 [What\u2019s under there?](http://9gag.com/gag/axyEWoW)
+ - 👉 [His reaction](http://9gag.com/gag/a7ovoKr)<!-- MEMES:END -->
 
 ---
 

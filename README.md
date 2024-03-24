@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [They have deposited $30 every month since I was 2 year old](http://9gag.com/gag/aAyB6Vg)
  - 😝 [Milk](http://9gag.com/gag/aRB6EM2)
- - 😝 [What\u2019s under there?](http://9gag.com/gag/axyEWoW)
- - 💣 [His reaction](http://9gag.com/gag/a7ovoKr)
+ - 💣 [Insta](http://9gag.com/gag/aAyB60d)
  - 😝 [Peacemaker is now available in MK1.](http://9gag.com/gag/a4Pp6o1)
- - 👉 [Level of satisfaction!](http://9gag.com/gag/aW4Bp33)<!-- MEMES:END -->
+ - 👉 [Lil update](http://9gag.com/gag/adBygyD)<!-- MEMES:END -->
 
 ---
 

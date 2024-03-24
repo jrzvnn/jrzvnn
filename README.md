@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro won](http://9gag.com/gag/a87d67p)
- - 😝 [I know a guy who sell cheap tyres.](http://9gag.com/gag/azx7dEZ)
+ - 😝 [Woops](http://9gag.com/gag/a0eveoX)
+ - 😝 [Corporations using AI to see which workers are not working](http://9gag.com/gag/aGyKEyZ)
  - 💣 [What\u2019s under there?](http://9gag.com/gag/axyEWoW)
  - 😝 [Peacemaker is now available in MK1.](http://9gag.com/gag/a4Pp6o1)
- - 👉 [Any Captains here?](http://9gag.com/gag/aRB6rR5)<!-- MEMES:END -->
+ - 👉 [Nice moves!](http://9gag.com/gag/axyEyVD)<!-- MEMES:END -->
 
 ---
 

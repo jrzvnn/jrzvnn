@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An analysis of the DOJ&#39;s case against Apple; sources: Apple will start rolling out its system to update packaged iPhones&#39; software to its US stores in April &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240324/p5#a240324p5)
  - [The Sonos Roam 2 may launch in June](https://www.theverge.com/2024/3/24/24110376/sonos-roam-2-june-launch-portable-speaker-app-bluetooth-airplay-2)
  - [Upcoming iOS 18 to offer more customizable home screen](https://appleinsider.com/articles/24/03/24/upcoming-ios-18-to-offer-more-customizable-home-screen?utm_medium=rss)
  - [Florida Solar Panel Incentives: Rebates, Tax Credits, Financing and More     - CNET](https://www.cnet.com/home/energy-and-utilities/florida-solar-panel-incentives-rebates-tax-credits-financing-and-more/#ftag=CAD590a51e)
- - [Last Chance to Get Amazon Echo Speakers Deeply Discounted in Its Big Spring Sale     - CNET](https://www.cnet.com/deals/amazon-echo-speakers-are-deeply-discounted-in-its-big-spring-sale-obviously/#ftag=CAD590a51e)
- - [DJI Air 3 Drone Review: Serious Video Chops](https://www.wired.com/review/dji-air-3/)<!-- TECH:END -->
+ - [Last Chance to Get Amazon Echo Speakers Deeply Discounted in Its Big Spring Sale     - CNET](https://www.cnet.com/deals/amazon-echo-speakers-are-deeply-discounted-in-its-big-spring-sale-obviously/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

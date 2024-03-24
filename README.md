@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Get a lifetime Babbel subscription for just $139.97 - $460 off retail](https://appleinsider.com/articles/24/03/24/get-a-lifetime-babbel-subscription-for-just-13997---460-off-retail?utm_medium=rss)
  - [Amazon Big Spring Sale 2024: live coverage of the best deals on Apple, accessories &amp; more](https://appleinsider.com/articles/24/03/20/amazon-big-spring-sale-2024-live-coverage-of-the-best-deals-on-apple-accessories-more?utm_medium=rss)
  - [This Wi-Fi 6 Router Is One of Our Favorites, and You Can Get It Today for Just $75     - CNET](https://www.cnet.com/deals/this-wi-fi-6-router-is-one-of-our-favorites-and-you-can-get-it-today-for-just-75/#ftag=CAD590a51e)
  - [Amazon Big Spring Sale: Get the Renpho R4 Pro Massage Gun for $30 Off     - CNET](https://www.cnet.com/deals/amazon-big-spring-sale-get-the-renpho-r4-pro-massage-gun-for-30-off/#ftag=CAD590a51e)
- - [Filmmakers, critics, and users detail why Prime Video failed in Africa; Amazon laid off staff and scaled back operations on the continent in January 2024 &lpar;Jesusegun Alagbe/Rest of World&rpar;](http://www.techmeme.com/240323/p10#a240323p10)
- - [March Madness 2024: How to Watch, Live Stream the NCAA Basketball Tournament Today     - CNET](https://www.cnet.com/tech/services-and-software/march-madness-2024-how-to-watch-live-stream-the-ncaa-basketball-tournament-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Filmmakers, critics, and users detail why Prime Video failed in Africa; Amazon laid off staff and scaled back operations on the continent in January 2024 &lpar;Jesusegun Alagbe/Rest of World&rpar;](http://www.techmeme.com/240323/p10#a240323p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

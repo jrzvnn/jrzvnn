@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [More love and sandwiches and less prejudices](http://9gag.com/gag/amoq1Q6)
  - 😝 [Parents will sacrifice everything for their children](http://9gag.com/gag/aRB64w5)
- - 💣 [Monorail](http://9gag.com/gag/ae9K1ZB)
+ - 😝 [Level of satisfaction!](http://9gag.com/gag/aW4Bp33)
+ - 💣 [This is why the UK military is shrinking, no one wants to fight for a government that can&#39;t be asked to help it&#39;s citizens](http://9gag.com/gag/an7eOW5)
  - 😝 [Peacemaker is now available in MK1.](http://9gag.com/gag/a4Pp6o1)
- - 👉 [This is why the UK military is shrinking, no one wants to fight for a government that can&#39;t be asked to help it&#39;s citizens](http://9gag.com/gag/an7eOW5)<!-- MEMES:END -->
+ - 👉 [Listen to Michael Jackson&#39;s real voice with no autotune](http://9gag.com/gag/aoym390)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What\u2019s under there?](http://9gag.com/gag/axyEWoW)
- - 😝 [His reaction](http://9gag.com/gag/a7ovoKr)
- - 💣 [Corporations using AI to see which workers are not working](http://9gag.com/gag/aGyKEyZ)
+ - 😝 [How stupid can you be? Caran - Yesss](http://9gag.com/gag/a87d7dV)
+ - 😝 [Nice moves!](http://9gag.com/gag/axyEyVD)
+ - 💣 [Listen to Michael Jackson&#39;s real voice with no autotune](http://9gag.com/gag/aoym390)
  - 😝 [Peacemaker is now available in MK1.](http://9gag.com/gag/a4Pp6o1)
- - 👉 [Level of satisfaction!](http://9gag.com/gag/aW4Bp33)<!-- MEMES:END -->
+ - 👉 [Insta](http://9gag.com/gag/aAyB60d)<!-- MEMES:END -->
 
 ---
 

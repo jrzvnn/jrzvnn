@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Parents will sacrifice everything for their children](http://9gag.com/gag/aRB64w5)
- - 😝 [Level of satisfaction!](http://9gag.com/gag/aW4Bp33)
- - 💣 [This is why the UK military is shrinking, no one wants to fight for a government that can&#39;t be asked to help it&#39;s citizens](http://9gag.com/gag/an7eOW5)
+ - 😝 [Listen to Michael Jackson&#39;s real voice with no autotune](http://9gag.com/gag/aoym390)
+ - 😝 [France, Please surrender](http://9gag.com/gag/a34v588)
+ - 💣 [This is a 20-Year-Old Game](http://9gag.com/gag/apRK37M)
  - 😝 [Peacemaker is now available in MK1.](http://9gag.com/gag/a4Pp6o1)
- - 👉 [Listen to Michael Jackson&#39;s real voice with no autotune](http://9gag.com/gag/aoym390)<!-- MEMES:END -->
+ - 👉 [Expensive case](http://9gag.com/gag/ajPQVM1)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 17: How to Turn On Contact Key Verification in 4 Easy Steps     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-how-to-turn-contact-key-verification-on-in-4-easy-steps/#ftag=CAD590a51e)
  - [How to View April’s Total Solar Eclipse, Online and In Person](https://www.wired.com/story/solar-eclipse-2024-how-to-watch/)
- - [Best Android Phone of 2024     - CNET](https://www.cnet.com/tech/mobile/best-android-phone/#ftag=CAD590a51e)
  - [Some TikTok fans in India still question the country&#39;s 2020 decision to ban the app, saying alternatives like YouTube Shorts and Instagram Reels lack its allure &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240324/p3#a240324p3)
- - [Stores Closed On Easter Sunday 2024: Target, Costco, and More     - CNET](https://www.cnet.com/culture/stores-closed-on-easter-sunday-2024-target-costco-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Stores Closed On Easter Sunday 2024: Target, Costco, and More     - CNET](https://www.cnet.com/culture/stores-closed-on-easter-sunday-2024-target-costco-and-more/#ftag=CAD590a51e)
+ - [Best Apple Watch Series 9 Deals: Save $70 Thanks to Amazon&#39;s Spring Sale     - CNET](https://www.cnet.com/deals/best-apple-watch-series-9-deals/#ftag=CAD590a51e)
+ - [The Case Against Apple Weaponizes the Cult of Cupertino](https://www.wired.com/story/antitrust-case-against-apple-weaponizes-the-cult-of-cupertino/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wat the dog doing?](http://9gag.com/gag/aAyBydE)
  - 😝 [Milk](http://9gag.com/gag/aRB6EM2)
- - 💣 [Soooo..](http://9gag.com/gag/a5Qp1xE)
- - 😝 [Alien really exist](http://9gag.com/gag/agmrmjK)
+ - 😝 [I thought he was the same actor...](http://9gag.com/gag/aRB6L6M)
+ - 💣 [Wat the dog doing?](http://9gag.com/gag/aAyBydE)
+ - 😝 [Chad Nintendo Wii](http://9gag.com/gag/abA3Vzr)
  - 👉 [Any Captains here?](http://9gag.com/gag/aRB6rR5)<!-- MEMES:END -->
 
 ---

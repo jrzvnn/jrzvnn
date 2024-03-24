@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Insta](http://9gag.com/gag/aAyB60d)
- - 😝 [Listen to Michael Jackson&#39;s real voice with no autotune](http://9gag.com/gag/aoym390)
- - 💣 [France, Please surrender](http://9gag.com/gag/a34v588)
+ - 😝 [Parents will sacrifice everything for their children](http://9gag.com/gag/aRB64w5)
+ - 😝 [France, Please surrender](http://9gag.com/gag/a34v588)
+ - 💣 [More love and sandwiches and less prejudices](http://9gag.com/gag/amoq1Q6)
  - 😝 [Peacemaker is now available in MK1.](http://9gag.com/gag/a4Pp6o1)
- - 👉 [27-year-old California man Resendo Tellez arrested for allegedly EATING a severed leg that he took from a pedestrian who was struck by a train. Tellez was seen eating the leg according to a witness and was later booked into jail for removing or mutilating human remains.](http://9gag.com/gag/aPA6mmn)<!-- MEMES:END -->
+ - 👉 [Monorail](http://9gag.com/gag/ae9K1ZB)<!-- MEMES:END -->
 
 ---
 

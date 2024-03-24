@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis: Jeff Bezos, Peter Thiel, and Mark Zuckerberg lead a group of insiders selling their company stocks in Q1, a sign that the tech bull run may be peaking &lpar;Financial Times&rpar;](http://www.techmeme.com/240324/p8#a240324p8)
  - [Amazon Big Spring Sale 2024: live coverage of the best deals on Apple, accessories &amp; more](https://appleinsider.com/articles/24/03/20/amazon-big-spring-sale-2024-live-coverage-of-the-best-deals-on-apple-accessories-more?utm_medium=rss)
- - [Get a $40 Discount on This Anker Power Station     - CNET](https://www.cnet.com/deals/get-a-40-discount-on-this-anker-power-station/#ftag=CAD590a51e)
- - [I Love My Govee Floor Lamp and It&#39;s 40% Off on Amazon&#39;s Big Spring Sale     - CNET](https://www.cnet.com/deals/i-love-my-govee-floor-lamp-and-its-40-off-on-amazons-big-spring-sale/#ftag=CAD590a51e)
- - [Best Continuous Glucose Monitors of 2024     - CNET](https://www.cnet.com/health/medical/best-continuous-glucose-monitors/#ftag=CAD590a51e)
- - [Get Up to $500 Off Top Rowing Machines During Amazon&#39;s Big Spring Sale     - CNET](https://www.cnet.com/deals/get-up-to-500-off-top-rowing-machines-from-hydrow/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Mesh Router Deals: Big savings in Amazon&#39;s Big Spring Sale     - CNET](https://www.cnet.com/deals/best-mesh-router-deals/#ftag=CAD590a51e)
+ - [The 9 Best Dutch Ovens for 2024     - CNET](https://www.cnet.com/home/kitchen-and-household/best-dutch-oven/#ftag=CAD590a51e)
+ - [Get a $40 Discount on This Anker Power Station     - CNET](https://www.cnet.com/deals/get-a-40-discount-on-this-anker-power-station/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

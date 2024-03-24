@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Squat dozer](http://9gag.com/gag/axyEyvK)
- - 😝 [Fastest crack in the west](http://9gag.com/gag/a2vEMzO)
- - 💣 [Lil update](http://9gag.com/gag/adBygyD)
- - 😝 [Explains why it&#39;s the best then](http://9gag.com/gag/aKG4G26)
+ - 😝 [Woops](http://9gag.com/gag/a0eveoX)
+ - 😝 [Our Lord and Savior](http://9gag.com/gag/aVvjxy2)
+ - 💣 [What\u2019s under there?](http://9gag.com/gag/axyEWoW)
+ - 😝 [Corporations using AI to see which workers are not working](http://9gag.com/gag/aGyKEyZ)
  - 👉 [Milk](http://9gag.com/gag/aRB6EM2)<!-- MEMES:END -->
 
 ---

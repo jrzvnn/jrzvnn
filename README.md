@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Ukraine recreated the Soledar Salt Mine in Minecraft to let players compete for prizes and donate to restore a school hit by a Russian missile &lpar;Justin Ling/Wired&rpar;](http://www.techmeme.com/240324/p2#a240324p2)
  - [April&#39;s Bitcoin halving will slash revenue for miners, who will likely move from the US to lower-cost countries like Ethiopia, Tanzania, Paraguay, and Uruguay &lpar;David Pan/Bloomberg&rpar;](http://www.techmeme.com/240324/p1#a240324p1)
  - [The Best Keurig Deals: Up to $51 Off at Amazon&#39;s Spring Sale     - CNET](https://www.cnet.com/deals/best-keurig-deals/#ftag=CAD590a51e)
  - [Leaders from 20 EU countries sign the Quantum Pact, recognizing the importance of quantum tech in enhancing Europe&#39;s scientific and industrial competitiveness &lpar;Vish Gain/Silicon Republic&rpar;](http://www.techmeme.com/240323/p12#a240323p12)
- - [Best AirPods Pro 2 Deals: Up to $50 Off Apple&#39;s Best Wireless Earbuds at Amazon and More     - CNET](https://www.cnet.com/deals/best-airpods-pro-2nd-generation-deals/#ftag=CAD590a51e)
- - [Best Sonos Deals: Save Up to $156 with Amazon&#39;s Big Spring Sale Event Plus Deals Through Sonos Direct     - CNET](https://www.cnet.com/deals/best-sonos-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best AirPods Pro 2 Deals: Up to $50 Off Apple&#39;s Best Wireless Earbuds at Amazon and More     - CNET](https://www.cnet.com/deals/best-airpods-pro-2nd-generation-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

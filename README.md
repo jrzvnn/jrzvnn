@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This proves only one thing](http://9gag.com/gag/avy2W6W)
- - 😝 [France, Please surrender](http://9gag.com/gag/a34v588)
- - 💣 [23rd March France, wait you can&#39;t take your ambulance can&#39;t you see we are praying on the road because you haven&#39;t built a million more mosque yet!!](http://9gag.com/gag/aZZqZxp)
+ - 😝 [This is why the UK military is shrinking, no one wants to fight for a government that can&#39;t be asked to help it&#39;s citizens](http://9gag.com/gag/an7eOW5)
+ - 😝 [Level of satisfaction!](http://9gag.com/gag/aW4Bp33)
+ - 💣 [Monorail](http://9gag.com/gag/ae9K1ZB)
  - 😝 [Peacemaker is now available in MK1.](http://9gag.com/gag/a4Pp6o1)
- - 👉 [I know a guy who sell cheap tyres.](http://9gag.com/gag/azx7dEZ)<!-- MEMES:END -->
+ - 👉 [More love and sandwiches and less prejudices](http://9gag.com/gag/amoq1Q6)<!-- MEMES:END -->
 
 ---
 

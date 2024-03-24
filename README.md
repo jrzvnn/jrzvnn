@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A worthy repost](http://9gag.com/gag/apRK11D)
- - 😝 [The guy is good.](http://9gag.com/gag/a1mp7xb)
- - 💣 [She has a point !](http://9gag.com/gag/axyE3gK)
+ - 😝 [Milk](http://9gag.com/gag/aRB6EM2)
+ - 😝 [What\u2019s under there?](http://9gag.com/gag/axyEWoW)
+ - 💣 [His reaction](http://9gag.com/gag/a7ovoKr)
  - 😝 [Peacemaker is now available in MK1.](http://9gag.com/gag/a4Pp6o1)
- - 👉 [Roasted](http://9gag.com/gag/avy2WYM)<!-- MEMES:END -->
+ - 👉 [Level of satisfaction!](http://9gag.com/gag/aW4Bp33)<!-- MEMES:END -->
 
 ---
 

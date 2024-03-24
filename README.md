@@ -175,7 +175,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hell no](http://9gag.com/gag/aRB6LK7)
+ - 😝 [More love and sandwiches and less prejudices](http://9gag.com/gag/amoq1Q6)
  - 😝 [Parents will sacrifice everything for their children](http://9gag.com/gag/aRB64w5)
  - 💣 [Monorail](http://9gag.com/gag/ae9K1ZB)
  - 😝 [Peacemaker is now available in MK1.](http://9gag.com/gag/a4Pp6o1)

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Leaders from 20 EU countries sign the Quantum Pact, recognizing the importance of quantum tech in enhancing Europe&#39;s scientific and industrial competitiveness &lpar;Vish Gain/Silicon Republic&rpar;](http://www.techmeme.com/240323/p12#a240323p12)
  - [Best Sonos Deals: Save Up to $156 with Amazon&#39;s Big Spring Sale Event Plus Deals Through Sonos Direct     - CNET](https://www.cnet.com/deals/best-sonos-deals/#ftag=CAD590a51e)
  - [More than 23M US households risk losing internet access by the end of April as Congress fails to fund the Affordable Connectivity Program due to GOP opposition &lpar;Brian Fung/CNN&rpar;](http://www.techmeme.com/240323/p11#a240323p11)
  - [Get a lifetime Babbel subscription for just $139.97 - $460 off retail](https://appleinsider.com/articles/24/03/24/get-a-lifetime-babbel-subscription-for-just-13997---460-off-retail?utm_medium=rss)
- - [You Can Save Up to 49% on Roborock Robot Vacuums During Amazon&#39;s Big Spring Sale     - CNET](https://www.cnet.com/deals/you-can-save-up-to-49-on-roborock-robot-vacuums-during-amazons-big-spring-sale/#ftag=CAD590a51e)
- - [Best Wireless Headphones for 2024     - CNET](https://www.cnet.com/tech/mobile/best-wireless-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [You Can Save Up to 49% on Roborock Robot Vacuums During Amazon&#39;s Big Spring Sale     - CNET](https://www.cnet.com/deals/you-can-save-up-to-49-on-roborock-robot-vacuums-during-amazons-big-spring-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

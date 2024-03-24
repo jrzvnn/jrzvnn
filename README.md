@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Even a haircut!?](http://9gag.com/gag/ae9K46q)
- - 😝 [Y&#39;all got any more of them...porsche cayene owners driving around](http://9gag.com/gag/aW4BxP2)
- - 💣 [Wtf kinda match is that](http://9gag.com/gag/a9yjEZZ)
- - 😝 [Corporations using AI to see which workers are not working](http://9gag.com/gag/aGyKEyZ)
- - 👉 [Wat the dog doing?](http://9gag.com/gag/aAyBydE)<!-- MEMES:END -->
+ - 😝 [Wat the dog doing?](http://9gag.com/gag/aAyBydE)
+ - 😝 [Milk](http://9gag.com/gag/aRB6EM2)
+ - 💣 [Soooo..](http://9gag.com/gag/a5Qp1xE)
+ - 😝 [Alien really exist](http://9gag.com/gag/agmrmjK)
+ - 👉 [Any Captains here?](http://9gag.com/gag/aRB6rR5)<!-- MEMES:END -->
 
 ---
 

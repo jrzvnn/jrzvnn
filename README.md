@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Analysis: Jeff Bezos, Peter Thiel, and Mark Zuckerberg lead a group of insiders selling their company stocks in Q1, a sign that the tech bull run may be peaking &lpar;Financial Times&rpar;](http://www.techmeme.com/240324/p8#a240324p8)
- - [Amazon Big Spring Sale 2024: live coverage of the best deals on Apple, accessories &amp; more](https://appleinsider.com/articles/24/03/20/amazon-big-spring-sale-2024-live-coverage-of-the-best-deals-on-apple-accessories-more?utm_medium=rss)
- - [Best Mesh Router Deals: Big savings in Amazon&#39;s Big Spring Sale     - CNET](https://www.cnet.com/deals/best-mesh-router-deals/#ftag=CAD590a51e)
- - [The 9 Best Dutch Ovens for 2024     - CNET](https://www.cnet.com/home/kitchen-and-household/best-dutch-oven/#ftag=CAD590a51e)
- - [Get a $40 Discount on This Anker Power Station     - CNET](https://www.cnet.com/deals/get-a-40-discount-on-this-anker-power-station/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Get a Stylish New Pair of Glasses During GlassesUSA&#39;s Spring Sale     - CNET](https://www.cnet.com/deals/get-a-stylish-new-pair-of-glasses-during-glassesusas-spring-sale/#ftag=CAD590a51e)
+ - [This Is Your Last Chance to Snag a Windows 11 Pro License for Just $30     - CNET](https://www.cnet.com/deals/this-is-your-last-chance-to-snag-a-windows-11-pro-license-for-just-30/#ftag=CAD590a51e)
+ - [Last Chance to Grab Our Favorite Smart Lock for a Massive $80 Discount During Amazon&#39;s Spring Sale     - CNET](https://www.cnet.com/deals/grab-our-favorite-smart-lock-for-a-massive-80-discount-while-amazon-sale-lasts/#ftag=CAD590a51e)
+ - [Amazon Big Spring Sale 2024: live coverage of the best deals on Apple, accessories &amp; more](https://appleinsider.com/articles/24/03/20/amazon-big-spring-sale-2024-live-coverage-of-the-best-deals-on-apple-accessories-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

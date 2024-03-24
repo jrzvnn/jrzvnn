@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Squat dozer](http://9gag.com/gag/axyEyvK)
- - 😝 [Wat the dog doing?](http://9gag.com/gag/aAyBydE)
- - 💣 [Milk](http://9gag.com/gag/aRB6EM2)
- - 😝 [This is why the UK military is shrinking, no one wants to fight for a government that can&#39;t be asked to help it&#39;s citizens](http://9gag.com/gag/an7eOW5)
- - 👉 [Lil update](http://9gag.com/gag/adBygyD)<!-- MEMES:END -->
+ - 😝 [Level of satisfaction!](http://9gag.com/gag/aW4Bp33)
+ - 😝 [Woops](http://9gag.com/gag/a0eveoX)
+ - 💣 [23rd March France, wait you can&#39;t take your ambulance can&#39;t you see we are praying on the road because you haven&#39;t built a million more mosque yet!!](http://9gag.com/gag/aZZqZxp)
+ - 😝 [Peak male performance](http://9gag.com/gag/aVvjbKy)
+ - 👉 [The truth is actually frightening. Why?](http://9gag.com/gag/a9yjzWZ)<!-- MEMES:END -->
 
 ---
 

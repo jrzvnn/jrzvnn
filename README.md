@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woops](http://9gag.com/gag/a0eveoX)
- - 😝 [Chad Nintendo Wii](http://9gag.com/gag/abA3Vzr)
- - 💣 [Soooo..](http://9gag.com/gag/a5Qp1xE)
- - 😝 [Do you know where gender equality exists? In a third world country where you have to do any job in order to not f**king starve](http://9gag.com/gag/amoqg1v)
- - 👉 [What\u2019s under there?](http://9gag.com/gag/axyEWoW)<!-- MEMES:END -->
+ - 😝 [Gushing over Peak Fiction](http://9gag.com/gag/aRB6EK5)
+ - 😝 [What\u2019s under there?](http://9gag.com/gag/axyEWoW)
+ - 💣 [Whoever convinced her she needed plastic surgery should go to prison](http://9gag.com/gag/aO8oQmv)
+ - 😝 [The truth is actually frightening. Why?](http://9gag.com/gag/a9yjzWZ)
+ - 👉 [Shooting at the largest concert hall in Moscow](http://9gag.com/gag/aGyKzz5)<!-- MEMES:END -->
 
 ---
 

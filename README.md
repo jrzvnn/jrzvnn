@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woops](http://9gag.com/gag/a0eveoX)
- - 😝 [Our Lord and Savior](http://9gag.com/gag/aVvjxy2)
- - 💣 [What\u2019s under there?](http://9gag.com/gag/axyEWoW)
  - 😝 [Corporations using AI to see which workers are not working](http://9gag.com/gag/aGyKEyZ)
- - 👉 [Milk](http://9gag.com/gag/aRB6EM2)<!-- MEMES:END -->
+ - 😝 [Wat the dog doing?](http://9gag.com/gag/aAyBydE)
+ - 💣 [23rd March France, wait you can&#39;t take your ambulance can&#39;t you see we are praying on the road because you haven&#39;t built a million more mosque yet!!](http://9gag.com/gag/aZZqZxp)
+ - 😝 [Gushing over Peak Fiction](http://9gag.com/gag/aRB6EK5)
+ - 👉 [Posting memes I found on my smartphone until I get bored or die #182](http://9gag.com/gag/aE0dpmo)<!-- MEMES:END -->
 
 ---
 

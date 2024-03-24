@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They have deposited $30 every month since I was 2 year old](http://9gag.com/gag/aAyB6Vg)
- - 😝 [Yes absolutely that is the way lol.](http://9gag.com/gag/aqy4ejQ)
- - 💣 [This proves only one thing](http://9gag.com/gag/avy2W6W)
+ - 😝 [Bro won](http://9gag.com/gag/a87d67p)
+ - 😝 [I know a guy who sell cheap tyres.](http://9gag.com/gag/azx7dEZ)
+ - 💣 [What\u2019s under there?](http://9gag.com/gag/axyEWoW)
  - 😝 [Peacemaker is now available in MK1.](http://9gag.com/gag/a4Pp6o1)
- - 👉 [Corporations using AI to see which workers are not working](http://9gag.com/gag/aGyKEyZ)<!-- MEMES:END -->
+ - 👉 [Any Captains here?](http://9gag.com/gag/aRB6rR5)<!-- MEMES:END -->
 
 ---
 

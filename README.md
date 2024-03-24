@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese officials have begun following the new PC, laptop, and server guidelines to phase out Intel/AMD processors and Windows from government PCs and servers &lpar;Financial Times&rpar;](http://www.techmeme.com/240324/p6#a240324p6)
  - [An analysis of the DOJ&#39;s case against Apple; sources: Apple will start rolling out its system to update packaged iPhones&#39; software to its US stores in April &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240324/p5#a240324p5)
  - [The Sonos Roam 2 may launch in June](https://www.theverge.com/2024/3/24/24110376/sonos-roam-2-june-launch-portable-speaker-app-bluetooth-airplay-2)
  - [Bag the Ninja Creami Ice Cream Maker for 25% Off Right Now     - CNET](https://www.cnet.com/deals/bag-the-ninja-creami-ice-cream-maker-for-25-off-right-now/#ftag=CAD590a51e)
- - [Upcoming iOS 18 to offer more customizable home screen](https://appleinsider.com/articles/24/03/24/upcoming-ios-18-to-offer-more-customizable-home-screen?utm_medium=rss)
- - [The 102 Best Amazon Big Spring Sale Deals to Shop on Day 5     - CNET](https://www.cnet.com/deals/the-102-best-amazon-big-spring-sale-deals-to-shop-on-day-5/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Upcoming iOS 18 to offer more customizable home screen](https://appleinsider.com/articles/24/03/24/upcoming-ios-18-to-offer-more-customizable-home-screen?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

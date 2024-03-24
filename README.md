@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Parents will sacrifice everything for their children](http://9gag.com/gag/aRB64w5)
+ - 😝 [This proves only one thing](http://9gag.com/gag/avy2W6W)
  - 😝 [France, Please surrender](http://9gag.com/gag/a34v588)
- - 💣 [More love and sandwiches and less prejudices](http://9gag.com/gag/amoq1Q6)
+ - 💣 [23rd March France, wait you can&#39;t take your ambulance can&#39;t you see we are praying on the road because you haven&#39;t built a million more mosque yet!!](http://9gag.com/gag/aZZqZxp)
  - 😝 [Peacemaker is now available in MK1.](http://9gag.com/gag/a4Pp6o1)
- - 👉 [Monorail](http://9gag.com/gag/ae9K1ZB)<!-- MEMES:END -->
+ - 👉 [I know a guy who sell cheap tyres.](http://9gag.com/gag/azx7dEZ)<!-- MEMES:END -->
 
 ---
 

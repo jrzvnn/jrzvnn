@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Corporations using AI to see which workers are not working](http://9gag.com/gag/aGyKEyZ)
- - 😝 [Wat the dog doing?](http://9gag.com/gag/aAyBydE)
- - 💣 [23rd March France, wait you can&#39;t take your ambulance can&#39;t you see we are praying on the road because you haven&#39;t built a million more mosque yet!!](http://9gag.com/gag/aZZqZxp)
- - 😝 [Gushing over Peak Fiction](http://9gag.com/gag/aRB6EK5)
- - 👉 [Posting memes I found on my smartphone until I get bored or die #182](http://9gag.com/gag/aE0dpmo)<!-- MEMES:END -->
+ - 😝 [A worthy repost](http://9gag.com/gag/apRK11D)
+ - 😝 [You may be cool, but you&#39;ll never be Horseback Mongolian archer holding his weight with his legs while shooting an arrow cool](http://9gag.com/gag/a6Zr1m2)
+ - 💣 [Dayummmm](http://9gag.com/gag/avy25j5)
+ - 😝 [Interesting narrative](http://9gag.com/gag/aW4B4nn)
+ - 👉 [Epic proposal.](http://9gag.com/gag/a2vEvv1)<!-- MEMES:END -->
 
 ---
 

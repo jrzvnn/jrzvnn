@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Any Captains here?](http://9gag.com/gag/aRB6rR5)
- - 😝 [Alien really exist](http://9gag.com/gag/agmrmjK)
- - 💣 [Wat the dog doing?](http://9gag.com/gag/aAyBydE)
- - 😝 [23rd March France, wait you can&#39;t take your ambulance can&#39;t you see we are praying on the road because you haven&#39;t built a million more mosque yet!!](http://9gag.com/gag/aZZqZxp)
- - 👉 [I thought he was the same actor...](http://9gag.com/gag/aRB6L6M)<!-- MEMES:END -->
+ - 😝 [Just for shits&#39;n&#39;giggles](http://9gag.com/gag/abA3V4E)
+ - 😝 [If nothing else he laid a foundation for the future.](http://9gag.com/gag/ayNEMD8)
+ - 💣 [Show me your kitties](http://9gag.com/gag/a1mpmZ8)
+ - 😝 [It has everything](http://9gag.com/gag/aQz6zxr)
+ - 👉 [Gushing over Peak Fiction](http://9gag.com/gag/aRB6EK5)<!-- MEMES:END -->
 
 ---
 

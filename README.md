@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Despite X&#39;s push to attract creators, its strategy remains unclear, as some creators cite concerns about the state of X&#39;s ad business and inconsistent payments &lpar;Alexa Corse/Wall Street Journal&rpar;](http://www.techmeme.com/240324/p7#a240324p7)
  - [Here are all the best tech deals from Amazon’s spring sales event](https://www.theverge.com/2024/3/20/24105325/amazon-spring-sale-best-deals-prices)
  - [‘Spirited Away’ returns to theaters in April for Studio Ghibli Fest 2024](https://www.theverge.com/2024/3/24/24110519/spirited-away-studio-ghibli-fest-2024-us-theaters)
  - [Where to preorder Elden Ring: Shadow of the Erdtree &lpar;and what’s included&rpar;](https://www.theverge.com/24086612/elden-ring-shadow-of-the-erdtree-preorder-guide-dlc-deluxe-collectors-edition-figurine-deal)
- - [How to Find Film for Your Old Polaroid Camera &lpar;2024&rpar;](https://www.wired.com/story/how-to-find-film-for-your-old-polaroid-camera/)
- - [Best Weighted Blankets for 2024     - CNET](https://www.cnet.com/health/sleep/best-weighted-blanket/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Find Film for Your Old Polaroid Camera &lpar;2024&rpar;](https://www.wired.com/story/how-to-find-film-for-your-old-polaroid-camera/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

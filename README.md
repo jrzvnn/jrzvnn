@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Big Spring Sale 2024: live coverage of the best deals on Apple, accessories &amp; more](https://appleinsider.com/articles/24/03/20/amazon-big-spring-sale-2024-live-coverage-of-the-best-deals-on-apple-accessories-more?utm_medium=rss)
- - [Best RV Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-rv-mattress/#ftag=CAD590a51e)
- - [Despite X&#39;s push to attract creators, its strategy remains unclear, as some creators cite concerns about the state of X&#39;s ad business and inconsistent payments &lpar;Alexa Corse/Wall Street Journal&rpar;](http://www.techmeme.com/240324/p7#a240324p7)
- - [Here are all the best tech deals from Amazon’s spring sales event](https://www.theverge.com/2024/3/20/24105325/amazon-spring-sale-best-deals-prices)
- - [‘Spirited Away’ returns to theaters in April for Studio Ghibli Fest 2024](https://www.theverge.com/2024/3/24/24110519/spirited-away-studio-ghibli-fest-2024-us-theaters)<!-- TECH:END -->
+ - [Get a $40 Discount on This Anker Power Station     - CNET](https://www.cnet.com/deals/get-a-40-discount-on-this-anker-power-station/#ftag=CAD590a51e)
+ - [I Love My Govee Floor Lamp and It&#39;s 40% Off on Amazon&#39;s Big Spring Sale     - CNET](https://www.cnet.com/deals/i-love-my-govee-floor-lamp-and-its-40-off-on-amazons-big-spring-sale/#ftag=CAD590a51e)
+ - [Best Continuous Glucose Monitors of 2024     - CNET](https://www.cnet.com/health/medical/best-continuous-glucose-monitors/#ftag=CAD590a51e)
+ - [Get Up to $500 Off Top Rowing Machines During Amazon&#39;s Big Spring Sale     - CNET](https://www.cnet.com/deals/get-up-to-500-off-top-rowing-machines-from-hydrow/#ftag=CAD590a51e)
+ - [Best Internet Providers in Davenport, Iowa     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-davenport-ia/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

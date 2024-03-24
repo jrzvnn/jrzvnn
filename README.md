@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Milk](http://9gag.com/gag/aRB6EM2)
- - 😝 [I thought he was the same actor...](http://9gag.com/gag/aRB6L6M)
+ - 😝 [Any Captains here?](http://9gag.com/gag/aRB6rR5)
+ - 😝 [Alien really exist](http://9gag.com/gag/agmrmjK)
  - 💣 [Wat the dog doing?](http://9gag.com/gag/aAyBydE)
- - 😝 [Chad Nintendo Wii](http://9gag.com/gag/abA3Vzr)
- - 👉 [Any Captains here?](http://9gag.com/gag/aRB6rR5)<!-- MEMES:END -->
+ - 😝 [23rd March France, wait you can&#39;t take your ambulance can&#39;t you see we are praying on the road because you haven&#39;t built a million more mosque yet!!](http://9gag.com/gag/aZZqZxp)
+ - 👉 [I thought he was the same actor...](http://9gag.com/gag/aRB6L6M)<!-- MEMES:END -->
 
 ---
 

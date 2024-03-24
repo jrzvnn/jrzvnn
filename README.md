@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woops](http://9gag.com/gag/a0eveoX)
- - 😝 [Corporations using AI to see which workers are not working](http://9gag.com/gag/aGyKEyZ)
- - 💣 [What\u2019s under there?](http://9gag.com/gag/axyEWoW)
+ - 😝 [What\u2019s under there?](http://9gag.com/gag/axyEWoW)
+ - 😝 [His reaction](http://9gag.com/gag/a7ovoKr)
+ - 💣 [Corporations using AI to see which workers are not working](http://9gag.com/gag/aGyKEyZ)
  - 😝 [Peacemaker is now available in MK1.](http://9gag.com/gag/a4Pp6o1)
- - 👉 [Nice moves!](http://9gag.com/gag/axyEyVD)<!-- MEMES:END -->
+ - 👉 [Level of satisfaction!](http://9gag.com/gag/aW4Bp33)<!-- MEMES:END -->
 
 ---
 

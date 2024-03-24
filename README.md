@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Posting memes I found on my smartphone until I get bored or die #182](http://9gag.com/gag/aE0dpmo)
  - 😝 [Level of satisfaction!](http://9gag.com/gag/aW4Bp33)
- - 💣 [Fastest crack in the west](http://9gag.com/gag/a2vEMzO)
+ - 😝 [His reaction](http://9gag.com/gag/a7ovoKr)
+ - 💣 [Milk](http://9gag.com/gag/aRB6EM2)
  - 😝 [Peacemaker is now available in MK1.](http://9gag.com/gag/a4Pp6o1)
- - 👉 [Woops](http://9gag.com/gag/a0eveoX)<!-- MEMES:END -->
+ - 👉 [Wat the dog doing?](http://9gag.com/gag/aAyBydE)<!-- MEMES:END -->
 
 ---
 

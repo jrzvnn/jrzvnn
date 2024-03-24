@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What\u2019s under there?](http://9gag.com/gag/axyEWoW)
- - 😝 [The truth is actually frightening. Why?](http://9gag.com/gag/a9yjzWZ)
- - 💣 [Wat the dog doing?](http://9gag.com/gag/aAyBydE)
- - 😝 [It looked so yummy!](http://9gag.com/gag/aKG4mK3)
- - 👉 [Milk](http://9gag.com/gag/aRB6EM2)<!-- MEMES:END -->
+ - 😝 [This proves only one thing](http://9gag.com/gag/avy2W6W)
+ - 😝 [Best restaurant in town](http://9gag.com/gag/an7ezXV)
+ - 💣 [Comic book royal rumble](http://9gag.com/gag/a9yjE4Z)
+ - 😝 [Level of satisfaction!](http://9gag.com/gag/aW4Bp33)
+ - 👉 [I thought he was the same actor...](http://9gag.com/gag/aRB6L6M)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dayummmm](http://9gag.com/gag/avy25j5)
  - 😝 [Roasted](http://9gag.com/gag/avy2WYM)
- - 💣 [Interesting narrative](http://9gag.com/gag/aW4B4nn)
  - 😝 [How on God&#39;s good earth did you accomplish that miracle!?](http://9gag.com/gag/aZZqZMn)
- - 👉 [A worthy repost](http://9gag.com/gag/apRK11D)<!-- MEMES:END -->
+ - 💣 [Dayummmm](http://9gag.com/gag/avy25j5)
+ - 😝 [Peacemaker is now available in MK1.](http://9gag.com/gag/a4Pp6o1)
+ - 👉 [Listen to Michael Jackson&#39;s real voice with no autotune](http://9gag.com/gag/aoym390)<!-- MEMES:END -->
 
 ---
 

@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [They have deposited $30 every month since I was 2 year old](http://9gag.com/gag/aAyB6Vg)
- - 😝 [Milk](http://9gag.com/gag/aRB6EM2)
- - 💣 [Insta](http://9gag.com/gag/aAyB60d)
+ - 😝 [Listen to Michael Jackson&#39;s real voice with no autotune](http://9gag.com/gag/aoym390)
+ - 💣 [23rd March France, wait you can&#39;t take your ambulance can&#39;t you see we are praying on the road because you haven&#39;t built a million more mosque yet!!](http://9gag.com/gag/aZZqZxp)
  - 😝 [Peacemaker is now available in MK1.](http://9gag.com/gag/a4Pp6o1)
- - 👉 [Lil update](http://9gag.com/gag/adBygyD)<!-- MEMES:END -->
+ - 👉 [Corporations using AI to see which workers are not working](http://9gag.com/gag/aGyKEyZ)<!-- MEMES:END -->
 
 ---
 

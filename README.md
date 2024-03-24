@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A worthy repost](http://9gag.com/gag/apRK11D)
- - 😝 [You may be cool, but you&#39;ll never be Horseback Mongolian archer holding his weight with his legs while shooting an arrow cool](http://9gag.com/gag/a6Zr1m2)
- - 💣 [Dayummmm](http://9gag.com/gag/avy25j5)
- - 😝 [Interesting narrative](http://9gag.com/gag/aW4B4nn)
- - 👉 [Epic proposal.](http://9gag.com/gag/a2vEvv1)<!-- MEMES:END -->
+ - 😝 [Milk](http://9gag.com/gag/aRB6EM2)
+ - 😝 [Squat dozer](http://9gag.com/gag/axyEyvK)
+ - 💣 [I thought he was the same actor...](http://9gag.com/gag/aRB6L6M)
+ - 😝 [His reaction](http://9gag.com/gag/a7ovoKr)
+ - 👉 [Wat the dog doing?](http://9gag.com/gag/aAyBydE)<!-- MEMES:END -->
 
 ---
 

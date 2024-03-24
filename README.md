@@ -169,8 +169,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Tim Cook says China will get Apple Vision Pro later in 2024](https://appleinsider.com/articles/24/03/24/cook-confirms-china-to-get-apple-vision-pro-later-this-year?utm_medium=rss)
  - [The next solar eclipse is on April 8 -- here&#39;s how to photograph it](https://appleinsider.com/inside/iphone/tips/the-next-solar-eclipse-is-on-april-8----heres-how-to-photograph-it?utm_medium=rss)
  - [How the restructuring of Diamond Sports, with a lifeline from Amazon, might offer a new model for airing local sports fixtures in the streaming era &lpar;Financial Times&rpar;](http://www.techmeme.com/240324/p4#a240324p4)
- - [Best Pixel Tablet Deals: Save $100 at Amazon&#39;s Spring Sale, Best Buy and More     - CNET](https://www.cnet.com/deals/best-pixel-tablet-deals/#ftag=CAD590a51e)
- - [There Are Some Serious Discounts on Peloton Gear During Amazon&#39;s Big Spring Sale     - CNET](https://www.cnet.com/deals/there-are-some-serious-discounts-on-peloton-gear-during-amazons-big-spring-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Large Language Models’ Emergent Abilities Are a Mirage](https://www.wired.com/story/how-quickly-do-large-language-models-learn-unexpected-skills/)
+ - [The biggest new battle royale is ready for your phone](https://www.theverge.com/2024/3/24/24109107/3-body-problem-stardew-valley-warzone-mobile-installer-newsletter)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

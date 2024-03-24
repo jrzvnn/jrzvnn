@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just for shits&#39;n&#39;giggles](http://9gag.com/gag/abA3V4E)
- - 😝 [If nothing else he laid a foundation for the future.](http://9gag.com/gag/ayNEMD8)
- - 💣 [Show me your kitties](http://9gag.com/gag/a1mpmZ8)
- - 😝 [It has everything](http://9gag.com/gag/aQz6zxr)
- - 👉 [Gushing over Peak Fiction](http://9gag.com/gag/aRB6EK5)<!-- MEMES:END -->
+ - 😝 [Squat dozer](http://9gag.com/gag/axyEyvK)
+ - 😝 [Fastest crack in the west](http://9gag.com/gag/a2vEMzO)
+ - 💣 [Lil update](http://9gag.com/gag/adBygyD)
+ - 😝 [Explains why it&#39;s the best then](http://9gag.com/gag/aKG4G26)
+ - 👉 [Milk](http://9gag.com/gag/aRB6EM2)<!-- MEMES:END -->
 
 ---
 

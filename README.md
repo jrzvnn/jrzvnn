@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Chinese officials have begun following the new PC, laptop, and server guidelines to phase out Intel/AMD processors and Windows from government PCs and servers &lpar;Financial Times&rpar;](http://www.techmeme.com/240324/p6#a240324p6)
- - [Women&#39;s March Madness 2024: How to Watch, Stream Caitlin Clark and Every Tournament Game     - CNET](https://www.cnet.com/tech/services-and-software/womens-march-madness-2024-how-to-watch-stream-caitlin-clark-and-every-tournament-game/#ftag=CAD590a51e)
- - [Got $25? Here Are the Best Things to Shop During Amazon&#39;s Spring Sale     - CNET](https://www.cnet.com/deals/got-25-here-are-the-best-things-to-shop-during-amazons-spring-sale/#ftag=CAD590a51e)
  - [An analysis of the DOJ&#39;s case against Apple; sources: Apple will start rolling out its system to update packaged iPhones&#39; software to its US stores in April &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240324/p5#a240324p5)
- - [The Sonos Roam 2 may launch in June](https://www.theverge.com/2024/3/24/24110376/sonos-roam-2-june-launch-portable-speaker-app-bluetooth-airplay-2)<!-- TECH:END -->
+ - [The Sonos Roam 2 may launch in June](https://www.theverge.com/2024/3/24/24110376/sonos-roam-2-june-launch-portable-speaker-app-bluetooth-airplay-2)
+ - [Bag the Ninja Creami Ice Cream Maker for 25% Off Right Now     - CNET](https://www.cnet.com/deals/bag-the-ninja-creami-ice-cream-maker-for-25-off-right-now/#ftag=CAD590a51e)
+ - [Upcoming iOS 18 to offer more customizable home screen](https://appleinsider.com/articles/24/03/24/upcoming-ios-18-to-offer-more-customizable-home-screen?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

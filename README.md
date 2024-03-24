@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Got promoted !](http://9gag.com/gag/ae9K40b)
- - 😝 [27-year-old California man Resendo Tellez arrested for allegedly EATING a severed leg that he took from a pedestrian who was struck by a train. Tellez was seen eating the leg according to a witness and was later booked into jail for removing or mutilating human remains.](http://9gag.com/gag/aPA6mmn)
- - 💣 [Nice moves!](http://9gag.com/gag/axyEyVD)
+ - 😝 [The 1950&#39;s The Lord of the Rings](http://9gag.com/gag/aD2Rn6O)
+ - 😝 [This proves only one thing](http://9gag.com/gag/avy2W6W)
+ - 💣 [France, Please surrender](http://9gag.com/gag/a34v588)
  - 😝 [Peacemaker is now available in MK1.](http://9gag.com/gag/a4Pp6o1)
- - 👉 [Are you faster than me? Are you winning fair and square? That makes you racist. Never relax around the usual suspects.](http://9gag.com/gag/axyE341)<!-- MEMES:END -->
+ - 👉 [I know a guy who sell cheap tyres.](http://9gag.com/gag/azx7dEZ)<!-- MEMES:END -->
 
 ---
 

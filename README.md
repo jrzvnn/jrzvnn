@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Where to preorder Elden Ring: Shadow of the Erdtree &lpar;and what’s included&rpar;](https://www.theverge.com/24086612/elden-ring-shadow-of-the-erdtree-preorder-guide-dlc-deluxe-collectors-edition-figurine-deal)
  - [How to Find Film for Your Old Polaroid Camera &lpar;2024&rpar;](https://www.wired.com/story/how-to-find-film-for-your-old-polaroid-camera/)
  - [Chinese officials have begun following the new PC, laptop, and server guidelines to phase out Intel/AMD processors and Windows from government PCs and servers &lpar;Financial Times&rpar;](http://www.techmeme.com/240324/p6#a240324p6)
  - [Women&#39;s March Madness 2024: How to Watch, Stream Caitlin Clark and Every Tournament Game     - CNET](https://www.cnet.com/tech/services-and-software/womens-march-madness-2024-how-to-watch-stream-caitlin-clark-and-every-tournament-game/#ftag=CAD590a51e)
- - [Got $25? Here Are the Best Things to Shop During Amazon&#39;s Spring Sale     - CNET](https://www.cnet.com/deals/got-25-here-are-the-best-things-to-shop-during-amazons-spring-sale/#ftag=CAD590a51e)
- - [An analysis of the DOJ&#39;s case against Apple; sources: Apple will start rolling out its system to update packaged iPhones&#39; software to its US stores in April &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240324/p5#a240324p5)<!-- TECH:END -->
+ - [Got $25? Here Are the Best Things to Shop During Amazon&#39;s Spring Sale     - CNET](https://www.cnet.com/deals/got-25-here-are-the-best-things-to-shop-during-amazons-spring-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

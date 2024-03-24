@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Milk](http://9gag.com/gag/aRB6EM2)
  - 😝 [Squat dozer](http://9gag.com/gag/axyEyvK)
- - 💣 [I thought he was the same actor...](http://9gag.com/gag/aRB6L6M)
- - 😝 [His reaction](http://9gag.com/gag/a7ovoKr)
- - 👉 [Wat the dog doing?](http://9gag.com/gag/aAyBydE)<!-- MEMES:END -->
+ - 😝 [Wat the dog doing?](http://9gag.com/gag/aAyBydE)
+ - 💣 [Milk](http://9gag.com/gag/aRB6EM2)
+ - 😝 [This is why the UK military is shrinking, no one wants to fight for a government that can&#39;t be asked to help it&#39;s citizens](http://9gag.com/gag/an7eOW5)
+ - 👉 [Lil update](http://9gag.com/gag/adBygyD)<!-- MEMES:END -->
 
 ---
 

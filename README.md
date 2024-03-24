@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Where to preorder Elden Ring: Shadow of the Erdtree &lpar;and what’s included&rpar;](https://www.theverge.com/24086612/elden-ring-shadow-of-the-erdtree-preorder-guide-dlc-deluxe-collectors-edition-figurine-deal)
  - [How to Find Film for Your Old Polaroid Camera &lpar;2024&rpar;](https://www.wired.com/story/how-to-find-film-for-your-old-polaroid-camera/)
- - [Best Weighted Blankets for 2024     - CNET](https://www.cnet.com/health/sleep/best-weighted-blanket/#ftag=CAD590a51e)
  - [Chinese officials have begun following the new PC, laptop, and server guidelines to phase out Intel/AMD processors and Windows from government PCs and servers &lpar;Financial Times&rpar;](http://www.techmeme.com/240324/p6#a240324p6)
- - [March Madness 2024: How to Watch, Live Stream the NCAA Basketball Tournament Sunday     - CNET](https://www.cnet.com/tech/services-and-software/march-madness-2024-how-to-watch-live-stream-the-ncaa-basketball-tournament-sunday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Women&#39;s March Madness 2024: How to Watch, Stream Caitlin Clark and Every Tournament Game     - CNET](https://www.cnet.com/tech/services-and-software/womens-march-madness-2024-how-to-watch-stream-caitlin-clark-and-every-tournament-game/#ftag=CAD590a51e)
+ - [Got $25? Here Are the Best Things to Shop During Amazon&#39;s Spring Sale     - CNET](https://www.cnet.com/deals/got-25-here-are-the-best-things-to-shop-during-amazons-spring-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gushing over Peak Fiction](http://9gag.com/gag/aRB6EK5)
  - 😝 [What\u2019s under there?](http://9gag.com/gag/axyEWoW)
- - 💣 [Whoever convinced her she needed plastic surgery should go to prison](http://9gag.com/gag/aO8oQmv)
  - 😝 [The truth is actually frightening. Why?](http://9gag.com/gag/a9yjzWZ)
- - 👉 [Shooting at the largest concert hall in Moscow](http://9gag.com/gag/aGyKzz5)<!-- MEMES:END -->
+ - 💣 [Wat the dog doing?](http://9gag.com/gag/aAyBydE)
+ - 😝 [It looked so yummy!](http://9gag.com/gag/aKG4mK3)
+ - 👉 [Milk](http://9gag.com/gag/aRB6EM2)<!-- MEMES:END -->
 
 ---
 

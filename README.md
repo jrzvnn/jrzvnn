@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This proves only one thing](http://9gag.com/gag/avy2W6W)
- - 😝 [His reaction](http://9gag.com/gag/a7ovoKr)
- - 💣 [Corporations using AI to see which workers are not working](http://9gag.com/gag/aGyKEyZ)
+ - 😝 [A worthy repost](http://9gag.com/gag/apRK11D)
+ - 😝 [The guy is good.](http://9gag.com/gag/a1mp7xb)
+ - 💣 [She has a point !](http://9gag.com/gag/axyE3gK)
  - 😝 [Peacemaker is now available in MK1.](http://9gag.com/gag/a4Pp6o1)
- - 👉 [They have deposited $30 every month since I was 2 year old](http://9gag.com/gag/aAyB6Vg)<!-- MEMES:END -->
+ - 👉 [Roasted](http://9gag.com/gag/avy2WYM)<!-- MEMES:END -->
 
 ---
 

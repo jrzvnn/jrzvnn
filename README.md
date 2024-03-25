@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro won](http://9gag.com/gag/a87d67p)
- - 😝 [Happy 50th birthday to a girl, who one time at band camp...](http://9gag.com/gag/aRB6ZVy)
- - 💣 [What\u2019s under there?](http://9gag.com/gag/axyEWoW)
+ - 😝 [Milk](http://9gag.com/gag/aRB6EM2)
+ - 😝 [Damn that some nice eggs](http://9gag.com/gag/aBy9ZzD)
+ - 💣 [The moment she realizes is priceless](http://9gag.com/gag/aE0d6me)
  - 😝 [Peacemaker is now available in MK1.](http://9gag.com/gag/a4Pp6o1)
- - 👉 [Expensive case](http://9gag.com/gag/ajPQVM1)<!-- MEMES:END -->
+ - 👉 [Nice moves!](http://9gag.com/gag/axyEyVD)<!-- MEMES:END -->
 
 ---
 

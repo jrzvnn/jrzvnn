@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The 1950&#39;s The Lord of the Rings](http://9gag.com/gag/aD2Rn6O)
- - 😝 [This proves only one thing](http://9gag.com/gag/avy2W6W)
- - 💣 [France, Please surrender](http://9gag.com/gag/a34v588)
+ - 😝 [His reaction](http://9gag.com/gag/a7ovoKr)
+ - 😝 [France, Please surrender](http://9gag.com/gag/a34v588)
+ - 💣 [Are you faster than me? Are you winning fair and square? That makes you racist. Never relax around the usual suspects.](http://9gag.com/gag/axyE341)
  - 😝 [Peacemaker is now available in MK1.](http://9gag.com/gag/a4Pp6o1)
- - 👉 [I know a guy who sell cheap tyres.](http://9gag.com/gag/azx7dEZ)<!-- MEMES:END -->
+ - 👉 [This proves only one thing](http://9gag.com/gag/avy2W6W)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Listen to Michael Jackson&#39;s real voice with no autotune](http://9gag.com/gag/aoym390)
- - 😝 [Level of satisfaction!](http://9gag.com/gag/aW4Bp33)
- - 💣 [More love and sandwiches and less prejudices](http://9gag.com/gag/amoq1Q6)
+ - 😝 [Hearing how Jerry Trainor, Spender from iCarly, used to protect his young co stars from their creepy and abusive boss Dan Schiender by doing crazy things in order to take his attention away from them, turning up on set on days he wasn\u2019t meant to be there to keep an eye on Dan and](http://9gag.com/gag/a2vE0op)
+ - 😝 [This is a 20-Year-Old Game](http://9gag.com/gag/apRK37M)
+ - 💣 [27-year-old California man Resendo Tellez arrested for allegedly EATING a severed leg that he took from a pedestrian who was struck by a train. Tellez was seen eating the leg according to a witness and was later booked into jail for removing or mutilating human remains.](http://9gag.com/gag/aPA6mmn)
  - 😝 [Scorpion vs. Sub-Zero. When honor and power collide, an ultimate battle between the legendary brothers may be inevitable.](http://9gag.com/gag/aYQjDGO)
- - 👉 [This is why the UK military is shrinking, no one wants to fight for a government that can&#39;t be asked to help it&#39;s citizens](http://9gag.com/gag/an7eOW5)<!-- MEMES:END -->
+ - 👉 [Choose one](http://9gag.com/gag/aXPZNMv)<!-- MEMES:END -->
 
 ---
 

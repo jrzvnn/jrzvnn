@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EU launches mass DMA violation probes against Apple, Google, and Meta](https://appleinsider.com/articles/24/03/25/eu-launches-mass-dma-violation-probes-against-apple-google-and-meta?utm_medium=rss)
+ - [Apple&#39;s big WWDC 2024 announcement may be an AI App Store](https://appleinsider.com/articles/24/03/25/apples-big-wwdc-2024-announcement-may-be-an-ai-app-store?utm_medium=rss)
  - [Yet another sealed 4GB original iPhone brings in over $100,000 at auction](https://appleinsider.com/articles/24/03/25/yet-another-sealed-4gb-original-iphone-brings-in-over-100000-at-auction?utm_medium=rss)
  - [Chinese Hackers Charged in Decade-Long Global Spying Rampage](https://www.wired.com/story/china-apt31-us-uk-hacking-espionage-charges-sanctions/)
- - [Meta’s new opt-out setting limits visibility of politics on Instagram and Threads](https://www.theverge.com/2024/3/25/24111604/meta-setting-downranks-politics-instagram-threads)
- - [Does Apple&#39;s platform need to be opened up?](https://appleinsider.com/articles/24/03/25/does-apples-platform-need-to-be-opened-up?utm_medium=rss)
- - [Tax Refund Status 2024: Find Out When Your Money Will Arrive     - CNET](https://www.cnet.com/personal-finance/taxes/tax-refund-status-2024-find-out-when-your-money-will-arrive/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta’s new opt-out setting limits visibility of politics on Instagram and Threads](https://www.theverge.com/2024/3/25/24111604/meta-setting-downranks-politics-instagram-threads)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

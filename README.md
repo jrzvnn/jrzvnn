@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ripple says the SEC plans to release a public brief on Tuesday seeking $2B in fines and penalties in its case against Ripple over sales of the XRP crypto token &lpar;Chris Dolmetsch/Bloomberg&rpar;](http://www.techmeme.com/240325/p24#a240325p24)
  - [Elon Musk has fully bought into the ‘great replacement’](https://www.theverge.com/2024/3/25/24111405/elon-musk-great-replacement-conspiracy-immigration-don-lemon)
+ - [Here Comes the Flood of Plug-In Hybrids](https://www.wired.com/story/here-comes-the-flood-of-plug-in-hybrids/)
  - [Consumers in the US filed at least three proposed class actions since March 22 accusing Apple of monopolizing the smartphone market, mirroring the DOJ&#39;s claims &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/240325/p23#a240325p23)
- - [Bolt&#39;s board removes CEO Maju Kuruvilla, who took over after co-founder Ryan Breslow stepped down in 2022; head of sales Justin Grooms will be interim CEO &lpar;The Information&rpar;](http://www.techmeme.com/240325/p22#a240325p22)
- - [Another Find My misfire led to a raid on a suburban family&#39;s home](https://appleinsider.com/articles/24/03/25/another-find-my-misfire-led-to-a-raid-on-a-suburban-familys-home?utm_medium=rss)
- - [Global Screening Services, which is developing a sanctions-screening service to help financial institutions comply with regulations, raised a $47M Series A2 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240325/p21#a240325p21)<!-- TECH:END -->
+ - [Bolt&#39;s board removes CEO Maju Kuruvilla, who took over after co-founder Ryan Breslow stepped down in 2022; head of sales Justin Grooms will be interim CEO &lpar;The Information&rpar;](http://www.techmeme.com/240325/p22#a240325p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

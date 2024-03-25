@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [His reaction](http://9gag.com/gag/a7ovoKr)
- - 😝 [France, Please surrender](http://9gag.com/gag/a34v588)
- - 💣 [Are you faster than me? Are you winning fair and square? That makes you racist. Never relax around the usual suspects.](http://9gag.com/gag/axyE341)
+ - 😝 [He didn&#39;t hug,he measured...](http://9gag.com/gag/aRB64GG)
+ - 😝 [I know a guy who sell cheap tyres.](http://9gag.com/gag/azx7dEZ)
+ - 💣 [Corporations using AI to see which workers are not working](http://9gag.com/gag/aGyKEyZ)
  - 😝 [Peacemaker is now available in MK1.](http://9gag.com/gag/a4Pp6o1)
- - 👉 [This proves only one thing](http://9gag.com/gag/avy2W6W)<!-- MEMES:END -->
+ - 👉 [Happy 50th birthday to a girl, who one time at band camp...](http://9gag.com/gag/aRB6ZVy)<!-- MEMES:END -->
 
 ---
 

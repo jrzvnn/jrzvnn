@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Palastinians are like children who don\u2019t understand the meaning of consequences #FAFO](http://9gag.com/gag/aBy9V61)
- - 😝 [Level of satisfaction!](http://9gag.com/gag/aW4Bp33)
- - 💣 [This is why the UK military is shrinking, no one wants to fight for a government that can&#39;t be asked to help it&#39;s citizens](http://9gag.com/gag/an7eOW5)
+ - 😝 [This is why the UK military is shrinking, no one wants to fight for a government that can&#39;t be asked to help it&#39;s citizens](http://9gag.com/gag/an7eOW5)
+ - 😝 [Listen to Michael Jackson&#39;s real voice with no autotune](http://9gag.com/gag/aoym390)
+ - 💣 [Man who posts videos of himself cleaning graffiti, Upsets activists who says he is `Erasing Black Culture`](http://9gag.com/gag/aBy9VL1)
  - 😝 [Scorpion vs. Sub-Zero. When honor and power collide, an ultimate battle between the legendary brothers may be inevitable.](http://9gag.com/gag/aYQjDGO)
- - 👉 [Listen to Michael Jackson&#39;s real voice with no autotune](http://9gag.com/gag/aoym390)<!-- MEMES:END -->
+ - 👉 [Mommy](http://9gag.com/gag/a87d0Mp)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Consumers pile on Apple with App Store monopoly class action suits](https://appleinsider.com/articles/24/03/25/consumers-pile-on-apple-with-app-store-monopoly-class-action-suits?utm_medium=rss)
  - [UXL Foundation, backed by Google, Intel, and others, plans to build tools to power multiple types of AI accelerator chips and break Nvidia&#39;s CUDA dominance &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/240325/p19#a240325p19)
  - [Original Macintosh inspires 3D-printed Mac Studio &amp; iPad mini dock](https://appleinsider.com/articles/24/03/25/original-macintosh-inspires-3d-printed-mac-studio-ipad-mini-dock?utm_medium=rss)
  - [The US and the UK sanction a Wuhan-based company linked to the Chinese state-backed hacking group APT31 for targeting critical infrastructure organizations &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240325/p18#a240325p18)
- - [Consumers pile on Apple with App Store monopoly class action suits](https://appleinsider.com/articles/24/03/25/consumers-pile-on-apple-with-app-store-monopoly-class-action-suits?utm_medium=rss)
  - [macOS Sonoma update fixes USB hubs, Java crashes, and more](https://appleinsider.com/articles/24/03/25/macos-sonoma-update-fixes-usb-hubs-java-crashes-and-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

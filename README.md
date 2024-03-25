@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is a 20-Year-Old Game](http://9gag.com/gag/apRK37M)
- - 😝 [France, Please surrender](http://9gag.com/gag/a34v588)
- - 💣 [Mommy](http://9gag.com/gag/a87d0Mp)
+ - 😝 [Happy 50th birthday to a girl, who one time at band camp...](http://9gag.com/gag/aRB6ZVy)
+ - 😝 [The moment she realizes is priceless](http://9gag.com/gag/aE0d6me)
+ - 💣 [They have deposited $30 every month since I was 2 year old](http://9gag.com/gag/aAyB6Vg)
  - 😝 [Scorpion vs. Sub-Zero. When honor and power collide, an ultimate battle between the legendary brothers may be inevitable.](http://9gag.com/gag/aYQjDGO)
- - 👉 [Nice moves!](http://9gag.com/gag/axyEyVD)<!-- MEMES:END -->
+ - 👉 [I was more shocked after she ate them](http://9gag.com/gag/ajPQVox)<!-- MEMES:END -->
 
 ---
 

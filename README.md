@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That should be obvious but to most people it&#39;s not](http://9gag.com/gag/aVvjmP2)
- - 😝 [It\u2019s so true](http://9gag.com/gag/aXPZV3g)
- - 💣 [Its show time](http://9gag.com/gag/aXPZ4RD)
+ - 😝 [Listen to Michael Jackson&#39;s real voice with no autotune](http://9gag.com/gag/aoym390)
+ - 😝 [Oops](http://9gag.com/gag/aBy9LA1)
+ - 💣 [This proves only one thing](http://9gag.com/gag/avy2W6W)
  - 😝 [Scorpion vs. Sub-Zero. When honor and power collide, an ultimate battle between the legendary brothers may be inevitable.](http://9gag.com/gag/aYQjDGO)
- - 👉 [Amber pls](http://9gag.com/gag/aVvjmKK)<!-- MEMES:END -->
+ - 👉 [What if we used 100% of our brain all the time](http://9gag.com/gag/aVvjg28)<!-- MEMES:END -->
 
 ---
 

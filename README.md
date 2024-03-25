@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Judge tosses Elon Musk’s X lawsuit against anti-hate group](https://www.theverge.com/2024/3/25/24091143/elon-musk-x-ccdh-lawsuit-dismissed)
+ - [OWC 14-port Thunderbolt Dock is back down to $99, the lowest price ever](https://appleinsider.com/articles/24/03/22/owc-14-port-thunderbolt-dock-is-back-down-to-99-the-lowest-price-ever?utm_medium=rss)
  - [Nvidia’s AI chip dominance is being targeted by Google, Intel, and Arm](https://www.theverge.com/2024/3/25/24111435/nvidia-ai-market-google-intel-arm-uxl-foundation-cuda)
  - [The UK says Chinese state-affiliated actors were responsible for a &quot;malicious cyber campaign&quot; on the country&#39;s Electoral Commission between 2021 and 2022 &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240325/p15#a240325p15)
- - [Florida Governor Ron DeSantis signs a bill requiring parental consent for kids under 16 to hold social media accounts and age verification for many websites &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240325/p14#a240325p14)
- - [The 3 Best Espresso Machines of 2024     - CNET](https://www.cnet.com/home/kitchen-and-household/best-espresso-machine/#ftag=CAD590a51e)
- - [Best Organic Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-organic-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Florida Governor Ron DeSantis signs a bill requiring parental consent for kids under 16 to hold social media accounts and age verification for many websites &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240325/p14#a240325p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

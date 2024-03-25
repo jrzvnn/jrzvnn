@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One for the military and veterans lol](http://9gag.com/gag/a87dm9e)
- - 😝 [I know a guy who sell cheap tyres.](http://9gag.com/gag/azx7dEZ)
- - 💣 [Man who posts videos of himself cleaning graffiti, Upsets activists who says he is `Erasing Black Culture`](http://9gag.com/gag/aBy9VL1)
+ - 😝 [What\u2019s under there?](http://9gag.com/gag/axyEWoW)
+ - 😝 [The moment she realizes is priceless](http://9gag.com/gag/aE0d6me)
+ - 💣 [Listen to Michael Jackson&#39;s real voice with no autotune](http://9gag.com/gag/aoym390)
  - 😝 [Scorpion vs. Sub-Zero. When honor and power collide, an ultimate battle between the legendary brothers may be inevitable.](http://9gag.com/gag/aYQjDGO)
- - 👉 [Cleaning hair out of hair clippers.](http://9gag.com/gag/ae9KV4Q)<!-- MEMES:END -->
+ - 👉 [The 1950&#39;s The Lord of the Rings](http://9gag.com/gag/aD2Rn6O)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Match Group adds Instacart CMO Laura Jones and Zillow co-founder Spencer Rascoff to its board and signs a deal with Elliott, reported to have a $1B Match stake &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/240325/p9#a240325p9)
+ - [The 9 Best Drones &lpar;2024&rpar;:  Budget, Toys, Professional Video](https://www.wired.com/gallery/best-drones/)
+ - [EU launches mass DMA violation probes against Apple, Google, and Meta](https://appleinsider.com/articles/24/03/25/eu-launches-mass-dma-violation-probes-against-apple-google-and-meta?utm_medium=rss)
  - [Microsoft is making Chrome’s text rendering better on Windows](https://www.theverge.com/2024/3/25/24111273/microsoft-google-chrome-text-rendering-improvements)
- - [FundGuard, which offers an AI accounting platform for asset managers, raised a $100M Series C led by Key1 Capital, taking its funding to $150M since 2018 &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/240325/p8#a240325p8)
- - [5-ish Things About AI: Apple Serious About AI, Pitting AI Against the Experts, the ELVIS Act Passes     - CNET](https://www.cnet.com/tech/computing/5-ish-things-about-ai-apple-serious-about-ai-pitting-ai-against-the-experts-the-elvis-act-passes/#ftag=CAD590a51e)
- - [My Meta Apple Memories: What Way Should I Record My Life?     - CNET](https://www.cnet.com/tech/computing/my-meta-apple-memories-what-way-should-i-record-my-life/#ftag=CAD590a51e)
- - [Apple and Meta Are Competing for Your Memories video     - CNET](https://www.cnet.com/videos/apple-and-meta-are-competing-for-your-memories/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [FundGuard, which offers an AI accounting platform for asset managers, raised a $100M Series C led by Key1 Capital, taking its funding to $150M since 2018 &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/240325/p8#a240325p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

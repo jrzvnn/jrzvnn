@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Pencil compatible with Apple Vision Pro rumored to be in testing](https://appleinsider.com/articles/24/03/25/apple-pencil-compatible-with-apple-vision-pro-rumored-to-be-in-testing?utm_medium=rss)
+ - [Does Apple&#39;s platform need to be opened up?](https://appleinsider.com/articles/24/03/25/does-apples-platform-need-to-be-opened-up?utm_medium=rss)
  - [Q&amp;A with tech expert Dan Wang on how China views the US&#39; TikTok crackdown, why Chinese state media is keeping its powder dry, possible retaliation, and more &lpar;Ravi Mattu/New York Times&rpar;](http://www.techmeme.com/240325/p12#a240325p12)
  - [Final Day of Amazon&#39;s Big Spring Sale Cuts Beams Indoor and Outdoor Lighting Pricing     - CNET](https://www.cnet.com/deals/final-day-of-amazons-big-spring-sale-cuts-beams-indoor-and-outdoor-lighting-pricing/#ftag=CAD590a51e)
- - [6 Female Finance Influencers Changing the Way We Think About Money     - CNET](https://www.cnet.com/personal-finance/banking/6-female-finance-influencers-changing-the-way-we-think-about-money/#ftag=CAD590a51e)
- - [Microsoft forgot to update this Windows feature for 30 years](https://www.theverge.com/2024/3/25/24111288/microsoft-format-drive-windows-ui-dialog)
- - [Federation is the future of social media, says Bluesky CEO Jay Graber](https://www.theverge.com/2024/3/25/24108872/bluesky-ceo-graber-federation-social-media-decoder-interview)<!-- TECH:END -->
+ - [6 Female Finance Influencers Changing the Way We Think About Money     - CNET](https://www.cnet.com/personal-finance/banking/6-female-finance-influencers-changing-the-way-we-think-about-money/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mommy](http://9gag.com/gag/a87d0Mp)
- - 😝 [Liberals: you&#39;re just an uneducated magat. Also liberals:](http://9gag.com/gag/a4Pp62Z)
- - 💣 [Future star achieving his dream](http://9gag.com/gag/a2vE0qE)
+ - 😝 [Not today. Keep walking clown](http://9gag.com/gag/aO8oZAy)
+ - 😝 [Bro won](http://9gag.com/gag/a87d67p)
+ - 💣 [Scrambled eggs](http://9gag.com/gag/aKG498g)
  - 😝 [Scorpion vs. Sub-Zero. When honor and power collide, an ultimate battle between the legendary brothers may be inevitable.](http://9gag.com/gag/aYQjDGO)
- - 👉 [Not today. Keep walking clown](http://9gag.com/gag/aO8oZAy)<!-- MEMES:END -->
+ - 👉 [Man who posts videos of himself cleaning graffiti, Upsets activists who says he is `Erasing Black Culture`](http://9gag.com/gag/aBy9VL1)<!-- MEMES:END -->
 
 ---
 

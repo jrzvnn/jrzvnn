@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Consumers pile on Apple with App Store monopoly class action suits](https://appleinsider.com/articles/24/03/25/consumers-pile-on-apple-with-app-store-monopoly-class-action-suits?utm_medium=rss)
  - [macOS Sonoma update fixes USB hubs, Java crashes, and more](https://appleinsider.com/articles/24/03/25/macos-sonoma-update-fixes-usb-hubs-java-crashes-and-more?utm_medium=rss)
  - [Sources detail Meta&#39;s unconventional moves to attract and keep AI researchers, including Zuckerberg personally writing to DeepMind researchers to recruit them &lpar;Kalley Huang/The Information&rpar;](http://www.techmeme.com/240325/p17#a240325p17)
  - [Filing: FTX strikes deals worth $884M with buyers, including $500M from a Mubadala affiliate, to sell most of its Anthropic stake; FTX invested $500M in 2021 &lpar;Becky Yerak/Wall Street Journal&rpar;](http://www.techmeme.com/240325/p16#a240325p16)
- - [Apple may have already struck a deal with Baidu for iPhone AI in China](https://appleinsider.com/articles/24/03/25/apple-may-have-already-struck-a-deal-with-baidu-for-iphone-ai-in-china?utm_medium=rss)
- - [Razer’s lightning-quick Huntsman V2 keyboard is down to its lowest price to date](https://www.theverge.com/2024/3/25/24111302/razer-huntsman-v2-mechanical-keyboard-kindle-scribe-xbox-wireless-controller-deal-sale)<!-- TECH:END -->
+ - [Apple may have already struck a deal with Baidu for iPhone AI in China](https://appleinsider.com/articles/24/03/25/apple-may-have-already-struck-a-deal-with-baidu-for-iphone-ai-in-china?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: iOS 18 will give iPhone users greater control over Home Screen app arrangement, including the ability to create blank spaces, rows, and columns &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/240325/p2#a240325p2)
  - [AliExpress and Temu were the fastest-growing ecommerce apps in South Korea in 2023; Nomura: Chinese websites account for only ~2% of South Korean ecommerce GMV &lpar;Financial Times&rpar;](http://www.techmeme.com/240325/p1#a240325p1)
  - [Best Keto Meal Delivery Services of 2024     - CNET](https://www.cnet.com/health/nutrition/best-keto-meal-delivery/#ftag=CAD590a51e)
  - [A look at The Financial Times&#39; Claude-powered AI chatbot Ask FT, which is trained on FT&#39;s articles and available to some subscribers in the FT Professional tier &lpar;The Verge&rpar;](http://www.techmeme.com/240324/p11#a240324p11)
- - [Samsung Galaxy S23 Deals: Save $150 at Amazon&#39;s Big Spring Sale Plus Big Trade-In Offers     - CNET](https://www.cnet.com/deals/best-galaxy-s23-deals/#ftag=CAD590a51e)
- - [Sources: Chinese social media startup Xiaohongshu reported its first profit with $500M in net profit on $3.7B revenue in 2023, and reached 312M MAUs, up 20% YoY &lpar;Financial Times&rpar;](http://www.techmeme.com/240324/p10#a240324p10)<!-- TECH:END -->
+ - [Samsung Galaxy S23 Deals: Save $150 at Amazon&#39;s Big Spring Sale Plus Big Trade-In Offers     - CNET](https://www.cnet.com/deals/best-galaxy-s23-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

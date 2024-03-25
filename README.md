@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not today. Keep walking clown](http://9gag.com/gag/aO8oZAy)
- - 😝 [The moment she realizes is priceless](http://9gag.com/gag/aE0d6me)
- - 💣 [27-year-old California man Resendo Tellez arrested for allegedly EATING a severed leg that he took from a pedestrian who was struck by a train. Tellez was seen eating the leg according to a witness and was later booked into jail for removing or mutilating human remains.](http://9gag.com/gag/aPA6mmn)
+ - 😝 [Mommy](http://9gag.com/gag/a87d0Mp)
+ - 😝 [Liberals: you&#39;re just an uneducated magat. Also liberals:](http://9gag.com/gag/a4Pp62Z)
+ - 💣 [Future star achieving his dream](http://9gag.com/gag/a2vE0qE)
  - 😝 [Scorpion vs. Sub-Zero. When honor and power collide, an ultimate battle between the legendary brothers may be inevitable.](http://9gag.com/gag/aYQjDGO)
- - 👉 [Mommy](http://9gag.com/gag/a87d0Mp)<!-- MEMES:END -->
+ - 👉 [Not today. Keep walking clown](http://9gag.com/gag/aO8oZAy)<!-- MEMES:END -->
 
 ---
 

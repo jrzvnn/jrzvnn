@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What\u2019s under there?](http://9gag.com/gag/axyEWoW)
- - 😝 [The moment she realizes is priceless](http://9gag.com/gag/aE0d6me)
- - 💣 [Listen to Michael Jackson&#39;s real voice with no autotune](http://9gag.com/gag/aoym390)
+ - 😝 [She can&#39;t be real with this](http://9gag.com/gag/aXPZVVD)
+ - 😝 [Dude! they stole the mountain](http://9gag.com/gag/a34vAp8)
+ - 💣 [But at whtt cost ?? Sacrificing her own self respect](http://9gag.com/gag/avy2EZO)
  - 😝 [Scorpion vs. Sub-Zero. When honor and power collide, an ultimate battle between the legendary brothers may be inevitable.](http://9gag.com/gag/aYQjDGO)
- - 👉 [The 1950&#39;s The Lord of the Rings](http://9gag.com/gag/aD2Rn6O)<!-- MEMES:END -->
+ - 👉 [What physics class?](http://9gag.com/gag/aGyKLgz)<!-- MEMES:END -->
 
 ---
 

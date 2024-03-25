@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happy 50th birthday to a girl, who one time at band camp...](http://9gag.com/gag/aRB6ZVy)
- - 😝 [The 1950&#39;s The Lord of the Rings](http://9gag.com/gag/aD2Rn6O)
- - 💣 [Nice moves!](http://9gag.com/gag/axyEyVD)
+ - 😝 [This is a 20-Year-Old Game](http://9gag.com/gag/apRK37M)
+ - 😝 [France, Please surrender](http://9gag.com/gag/a34v588)
+ - 💣 [Mommy](http://9gag.com/gag/a87d0Mp)
  - 😝 [Scorpion vs. Sub-Zero. When honor and power collide, an ultimate battle between the legendary brothers may be inevitable.](http://9gag.com/gag/aYQjDGO)
- - 👉 [They have deposited $30 every month since I was 2 year old](http://9gag.com/gag/aAyB6Vg)<!-- MEMES:END -->
+ - 👉 [Nice moves!](http://9gag.com/gag/axyEyVD)<!-- MEMES:END -->
 
 ---
 

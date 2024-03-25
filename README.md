@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit stock closes up 30% at $59.80, after the company went public at $34 last week, as the debut of options trading tied to Reddit appears to fuel the rise &lpar;Saqib Iqbal Ahmed/Reuters&rpar;](http://www.techmeme.com/240325/p25#a240325p25)
- - [The Best Reality TV Shows on Netflix     - CNET](https://www.cnet.com/tech/services-and-software/the-best-reality-tv-shows-on-netflix-march-2024/#ftag=CAD590a51e)
- - [Here are the best deals you can still grab from Amazon’s spring sales event](https://www.theverge.com/2024/3/20/24105325/amazon-spring-sale-best-deals-prices)
- - [New iPhone comparison page tells you why you need to upgrade](https://appleinsider.com/articles/24/03/25/new-iphone-comparison-page-tells-you-why-you-need-to-upgrade?utm_medium=rss)
- - [The creators of 3 Body Problem want to have ‘a back and forth’ with the book](https://www.theverge.com/24111515/3-body-problem-interview-david-benioff-alexander-woo-db-weiss-season-2)<!-- TECH:END -->
+ - [Apple Sued Over AirTags Privacy: Everything You Need to Know     - CNET](https://www.cnet.com/tech/mobile/apple-sued-over-airtags-privacy-everything-you-need-to-know/#ftag=CAD590a51e)
+ - [Best Samsung Galaxy Tab S9 Deals: Up to $800 in Trade-In and More     - CNET](https://www.cnet.com/deals/samsung-galaxy-tab-s9-deals/#ftag=CAD590a51e)
+ - [The 115 Best Amazon Big Spring Sale Deals to Shop During the Final Hours     - CNET](https://www.cnet.com/deals/the-115-best-amazon-big-spring-sale-deals-to-shop-during-the-final-hours/#ftag=CAD590a51e)
+ - [iOS 17.4.1: You Should Really Update Your iPhone Right Now     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-4-1-you-should-really-update-your-iphone-right-now/#ftag=CAD590a51e)
+ - [Get Ready for a Striking Aurora That Could Also Disrupt Radio Communications     - CNET](https://www.cnet.com/science/get-ready-for-a-striking-aurora-that-could-also-disrupt-radio-communications/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

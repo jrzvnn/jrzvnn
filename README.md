@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk has fully bought into the ‘great replacement’](https://www.theverge.com/2024/3/25/24111405/elon-musk-great-replacement-conspiracy-immigration-don-lemon)
  - [Consumers in the US filed at least three proposed class actions since March 22 accusing Apple of monopolizing the smartphone market, mirroring the DOJ&#39;s claims &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/240325/p23#a240325p23)
- - [Bolt&#39;s board removes Maju Kuruvilla, who took over as CEO after co-founder Ryan Breslow stepped down in 2022; head of sales Justin Grooms will be interim CEO &lpar;The Information&rpar;](http://www.techmeme.com/240325/p22#a240325p22)
+ - [Bolt&#39;s board removes CEO Maju Kuruvilla, who took over after co-founder Ryan Breslow stepped down in 2022; head of sales Justin Grooms will be interim CEO &lpar;The Information&rpar;](http://www.techmeme.com/240325/p22#a240325p22)
  - [Another Find My misfire led to a raid on a suburban family&#39;s home](https://appleinsider.com/articles/24/03/25/another-find-my-misfire-led-to-a-raid-on-a-suburban-familys-home?utm_medium=rss)
- - [Global Screening Services, which is developing a sanctions-screening service to help financial institutions comply with regulations, raised a $47M Series A2 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240325/p21#a240325p21)
- - [How to Take Advantage of the Samsung Free TV Promotion &lpar;2024&rpar;](https://www.wired.com/story/samsung-buy-one-get-one-tv-deal-2024/)<!-- TECH:END -->
+ - [Global Screening Services, which is developing a sanctions-screening service to help financial institutions comply with regulations, raised a $47M Series A2 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240325/p21#a240325p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

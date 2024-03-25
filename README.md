@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Sued Over AirTags Privacy: Everything You Need to Know     - CNET](https://www.cnet.com/tech/mobile/apple-sued-over-airtags-privacy-everything-you-need-to-know/#ftag=CAD590a51e)
- - [Best Samsung Galaxy Tab S9 Deals: Up to $800 in Trade-In and More     - CNET](https://www.cnet.com/deals/samsung-galaxy-tab-s9-deals/#ftag=CAD590a51e)
- - [The 115 Best Amazon Big Spring Sale Deals to Shop During the Final Hours     - CNET](https://www.cnet.com/deals/the-115-best-amazon-big-spring-sale-deals-to-shop-during-the-final-hours/#ftag=CAD590a51e)
- - [iOS 17.4.1: You Should Really Update Your iPhone Right Now     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-4-1-you-should-really-update-your-iphone-right-now/#ftag=CAD590a51e)
- - [Get Ready for a Striking Aurora That Could Also Disrupt Radio Communications     - CNET](https://www.cnet.com/science/get-ready-for-a-striking-aurora-that-could-also-disrupt-radio-communications/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Attention, Bargain Hunters: These Sub-$25 Amazon Big Spring Sale Deals End in Just a Few Hours     - CNET](https://www.cnet.com/deals/attention-bargain-hunters-these-sub-25-amazon-big-spring-sale-deals-end-in-just-a-few-hours/#ftag=CAD590a51e)
+ - [Women&#39;s March Madness 2024: How to Watch, Stream Caitlin Clark Tonight     - CNET](https://www.cnet.com/tech/services-and-software/womens-march-madness-2024-how-to-watch-stream-caitlin-clark-and-every-tournament-game/#ftag=CAD590a51e)
+ - [Report: Sonos Headphones and New Roam 2 Speaker May Arrive in June     - CNET](https://www.cnet.com/tech/mobile/new-sonos-headphones-to-launch-in-june/#ftag=CAD590a51e)
+ - [Best TV Deals: Grab Some Big Savings in Amazon&#39;s Big Spring Sale     - CNET](https://www.cnet.com/deals/best-tv-deals/#ftag=CAD590a51e)
+ - [Apple Sued Over AirTags Privacy: Everything You Need to Know     - CNET](https://www.cnet.com/tech/mobile/apple-sued-over-airtags-privacy-everything-you-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese Hackers Charged in Decade-Long Global Spying Rampage](https://www.wired.com/story/china-apt31-us-uk-hacking-espionage-charges-sanctions/)
+ - [Meta’s new opt-out setting limits visibility of politics on Instagram and Threads](https://www.theverge.com/2024/3/25/24111604/meta-setting-downranks-politics-instagram-threads)
  - [Does Apple&#39;s platform need to be opened up?](https://appleinsider.com/articles/24/03/25/does-apples-platform-need-to-be-opened-up?utm_medium=rss)
  - [Eliyan, which is developing chiplet interconnects to increase AI chips&#39; performance, raised a $60M Series B co-led by Samsung Catalyst Fund and Tiger Global &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240325/p20#a240325p20)
- - [Sci-Fi Author Vernor Vinge, Who First Wrote of the AI Singularity, Dead at 79](https://www.wired.com/story/vernor-vinge-obituary-singularity/)
- - [Killer deal: Belkin Thunderbolt 4 5-in-1 Core Hub just dropped to $99.99](https://appleinsider.com/articles/24/03/25/killer-deal-belkin-thunderbolt-4-5-in-1-core-hub-just-dropped-to-9999?utm_medium=rss)
- - [How to turn off Apple&#39;s Journal &#39;Discoverable by Others&#39; setting that&#39;s enabled by default](https://appleinsider.com/inside/ios-17/tips/how-to-turn-off-apples-journal-discoverable-by-others-setting-thats-enabled-by-default?utm_medium=rss)<!-- TECH:END -->
+ - [Sci-Fi Author Vernor Vinge, Who First Wrote of the AI Singularity, Dead at 79](https://www.wired.com/story/vernor-vinge-obituary-singularity/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

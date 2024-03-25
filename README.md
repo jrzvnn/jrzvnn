@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nigeria files tax evasion charges against Binance and executives Tigran Gambaryan and Nadeem Anjarwalla, detained since February; reports say Anjarwalla escaped &lpar;Nduka Orjinmo/Bloomberg&rpar;](http://www.techmeme.com/240325/p6#a240325p6)
+ - [Apple, Meta, and Google targeted by EU in DMA non-compliance investigations](https://www.theverge.com/2024/3/25/24111232/european-commission-digital-markets-act-investigation)
  - [The EU opens formal DMA investigations into Apple and Google over letting developers &quot;steer&quot; users from their app stores, and Meta over using user data for ads &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240325/p5#a240325p5)
  - [Tim Cook says Apple recycling already depends on AI](https://appleinsider.com/articles/24/03/25/tim-cook-says-apple-recycling-already-depends-on-ai?utm_medium=rss)
- - [The Next Big Battle Over Abortion Has Begun](https://www.wired.com/story/abortion-pill-mifepristone-scotus-roe-v-wade/)
- - [My Boyfriend Won’t Stop Meditating!](https://www.wired.com/story/cloud-support-boyfriend-meditating/)
- - [How Netflix co-CEOs Greg Peters, who is obsessed with data, and Ted Sarandos, who loves working with talent, overcame differences to make the partnership work &lpar;Jessica Toonkel/Wall Street Journal&rpar;](http://www.techmeme.com/240325/p4#a240325p4)<!-- TECH:END -->
+ - [The Next Big Battle Over Abortion Has Begun](https://www.wired.com/story/abortion-pill-mifepristone-scotus-roe-v-wade/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

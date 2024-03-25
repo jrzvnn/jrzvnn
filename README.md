@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [FundGuard, which offers an AI accounting platform for asset managers, raised a $100M Series C led by Key1 Capital, taking its funding to $150M since 2018 &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/240325/p8#a240325p8)
  - [Apple TV+ was announced five years ago on March 25, 2019](https://appleinsider.com/articles/24/03/25/apple-tv-was-announced-five-years-ago-on-march-25-2019?utm_medium=rss)
  - [The 116 Best Amazon Big Spring Sale Deals to Shop on the Final Day     - CNET](https://www.cnet.com/deals/the-116-best-amazon-big-spring-sale-deals-to-shop-on-final-day/#ftag=CAD590a51e)
  - [EU launches mass DMA violation probes against Apple, Google, and Meta](https://appleinsider.com/articles/24/03/25/eu-launches-mass-dma-violation-probes-against-apple-google-and-meta?utm_medium=rss)
- - [6 Best Apple Cider Vinegar Drinks to Improve Gut Health     - CNET](https://www.cnet.com/news/6-best-apple-cider-vinegar-drinks-to-improve-gut-health/#ftag=CAD590a51e)
- - [A Deepfake Nude Generator Reveals a Chilling Look at Its Victims](https://www.wired.com/story/deepfake-nude-generator-chilling-look-at-its-victims/)<!-- TECH:END -->
+ - [6 Best Apple Cider Vinegar Drinks to Improve Gut Health     - CNET](https://www.cnet.com/news/6-best-apple-cider-vinegar-drinks-to-improve-gut-health/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

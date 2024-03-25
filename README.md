@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Florida Governor Ron DeSantis signs a bill requiring parental consent for kids under 16 to hold social media accounts and age verification for many websites &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240325/p14#a240325p14)
  - [A US judge dismisses X&#39;s lawsuit against CCDH, saying the lawsuit had been brought as a means toward &quot;punishing the defendants for their speech&quot; &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/240325/p13#a240325p13)
  - [Deal of the day: Sonos Beam 2 soundbar drops to $399](https://appleinsider.com/articles/24/03/25/deal-of-the-day-sonos-beam-2-soundbar-drops-to-399?utm_medium=rss)
  - [Ron DeSantis signs bill requiring parental consent for kids under 16 to hold social media accounts](https://www.theverge.com/2024/3/25/24087979/florida-desantis-social-media-age-verification-parental-consent-law)
- - [Apple may have already struck a deal with Baidu for iPhone AI in China](https://appleinsider.com/articles/24/03/25/apple-may-have-already-struck-a-deal-with-baidu-for-iphone-ai-in-china?utm_medium=rss)
- - [Apple Pencil compatible with Apple Vision Pro rumored to be in testing](https://appleinsider.com/articles/24/03/25/apple-pencil-compatible-with-apple-vision-pro-rumored-to-be-in-testing?utm_medium=rss)<!-- TECH:END -->
+ - [Apple may have already struck a deal with Baidu for iPhone AI in China](https://appleinsider.com/articles/24/03/25/apple-may-have-already-struck-a-deal-with-baidu-for-iphone-ai-in-china?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The moment she realizes is priceless](http://9gag.com/gag/aE0d6me)
  - 😝 [She can&#39;t be real with this](http://9gag.com/gag/aXPZVVD)
- - 💣 [Mommy](http://9gag.com/gag/a87d0Mp)
+ - 😝 [27-year-old California man Resendo Tellez arrested for allegedly EATING a severed leg that he took from a pedestrian who was struck by a train. Tellez was seen eating the leg according to a witness and was later booked into jail for removing or mutilating human remains.](http://9gag.com/gag/aPA6mmn)
+ - 💣 [The truth is actually frightening. Why?](http://9gag.com/gag/a9yjzWZ)
  - 😝 [Scorpion vs. Sub-Zero. When honor and power collide, an ultimate battle between the legendary brothers may be inevitable.](http://9gag.com/gag/aYQjDGO)
- - 👉 [Insta](http://9gag.com/gag/aAyB60d)<!-- MEMES:END -->
+ - 👉 [The 1950&#39;s The Lord of the Rings](http://9gag.com/gag/aD2Rn6O)<!-- MEMES:END -->
 
 ---
 

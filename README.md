@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dude! they stole the mountain](http://9gag.com/gag/a34vAp8)
- - 😝 [He didn&#39;t hug,he measured...](http://9gag.com/gag/aRB64GG)
- - 💣 [The moment she realizes is priceless](http://9gag.com/gag/aE0d6me)
+ - 😝 [Well that&#39;s interesting so most people are normal](http://9gag.com/gag/a5QpG7V)
+ - 😝 [It&#39;s refreshing to see a Karen with a good sense of humor.](http://9gag.com/gag/a6Zr5j9)
+ - 💣 [Woof](http://9gag.com/gag/a6Zr5AL)
  - 😝 [Scorpion vs. Sub-Zero. When honor and power collide, an ultimate battle between the legendary brothers may be inevitable.](http://9gag.com/gag/aYQjDGO)
- - 👉 [27-year-old California man Resendo Tellez arrested for allegedly EATING a severed leg that he took from a pedestrian who was struck by a train. Tellez was seen eating the leg according to a witness and was later booked into jail for removing or mutilating human remains.](http://9gag.com/gag/aPA6mmn)<!-- MEMES:END -->
+ - 👉 [He was a a good boy.](http://9gag.com/gag/abA3WMB)<!-- MEMES:END -->
 
 ---
 

@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [I know a guy who sell cheap tyres.](http://9gag.com/gag/azx7dEZ)
- - 😝 [Wat the dog doing?](http://9gag.com/gag/aAyBydE)
- - 💣 [The 1950&#39;s The Lord of the Rings](http://9gag.com/gag/aD2Rn6O)
+ - 😝 [How stupid can you be? Caran - Yesss](http://9gag.com/gag/a87d7dV)
+ - 💣 [27-year-old California man Resendo Tellez arrested for allegedly EATING a severed leg that he took from a pedestrian who was struck by a train. Tellez was seen eating the leg according to a witness and was later booked into jail for removing or mutilating human remains.](http://9gag.com/gag/aPA6mmn)
  - 😝 [Peacemaker is now available in MK1.](http://9gag.com/gag/a4Pp6o1)
- - 👉 [How stupid can you be? Caran - Yesss](http://9gag.com/gag/a87d7dV)<!-- MEMES:END -->
+ - 👉 [The 1950&#39;s The Lord of the Rings](http://9gag.com/gag/aD2Rn6O)<!-- MEMES:END -->
 
 ---
 

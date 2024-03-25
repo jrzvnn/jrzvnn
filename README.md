@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Bluesky CEO Jay Graber on why federation is the future of social media, Threads&#39; fediverse integration, monetization, composable moderation, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240325/p26#a240325p26)
+ - [Telegram’s Peer-to-Peer Login system is a risky way to save $5 a month](https://www.theverge.com/2024/3/25/24111818/telegram-peer-to-peer-login-otp-two-factor-volunteer)
  - [Apple Sued Over AirTags Privacy: Everything You Need to Know     - CNET](https://www.cnet.com/tech/mobile/apple-sued-over-airtags-privacy-everything-you-need-to-know/#ftag=CAD590a51e)
  - [Best Samsung Galaxy Tab S9 Deals: Up to $800 in Trade-In and More     - CNET](https://www.cnet.com/deals/samsung-galaxy-tab-s9-deals/#ftag=CAD590a51e)
- - [The 115 Best Amazon Big Spring Sale Deals to Shop During the Final Hours     - CNET](https://www.cnet.com/deals/the-115-best-amazon-big-spring-sale-deals-to-shop-during-the-final-hours/#ftag=CAD590a51e)
- - [iOS 17.4.1: You Should Really Update Your iPhone Right Now     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-4-1-you-should-really-update-your-iphone-right-now/#ftag=CAD590a51e)
- - [Get Ready for a Striking Aurora That Could Also Disrupt Radio Communications     - CNET](https://www.cnet.com/science/get-ready-for-a-striking-aurora-that-could-also-disrupt-radio-communications/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 115 Best Amazon Big Spring Sale Deals to Shop During the Final Hours     - CNET](https://www.cnet.com/deals/the-115-best-amazon-big-spring-sale-deals-to-shop-during-the-final-hours/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

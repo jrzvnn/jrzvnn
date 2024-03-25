@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Apple TV+ was announced five years ago on March 25, 2019](https://appleinsider.com/articles/24/03/25/apple-tv-was-announced-five-years-ago-on-march-25-2019?utm_medium=rss)
+ - [The 116 Best Amazon Big Spring Sale Deals to Shop on the Final Day     - CNET](https://www.cnet.com/deals/the-116-best-amazon-big-spring-sale-deals-to-shop-on-final-day/#ftag=CAD590a51e)
  - [EU launches mass DMA violation probes against Apple, Google, and Meta](https://appleinsider.com/articles/24/03/25/eu-launches-mass-dma-violation-probes-against-apple-google-and-meta?utm_medium=rss)
- - [A Deepfake Nude Generator Reveals a Chilling Look at Its Victims](https://www.wired.com/story/deepfake-nude-generator-chilling-look-at-its-victims/)
- - [Spotify launches online courses from BBC Maestro, Skillshare, and others, covering music, business, and more, as an experiment in the UK on mobile and desktop &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/240325/p7#a240325p7)
- - [Nigeria files tax evasion charges against Binance and executives Tigran Gambaryan and Nadeem Anjarwalla, detained since February; reports say Anjarwalla escaped &lpar;Nduka Orjinmo/Bloomberg&rpar;](http://www.techmeme.com/240325/p6#a240325p6)<!-- TECH:END -->
+ - [6 Best Apple Cider Vinegar Drinks to Improve Gut Health     - CNET](https://www.cnet.com/news/6-best-apple-cider-vinegar-drinks-to-improve-gut-health/#ftag=CAD590a51e)
+ - [A Deepfake Nude Generator Reveals a Chilling Look at Its Victims](https://www.wired.com/story/deepfake-nude-generator-chilling-look-at-its-victims/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Consumers pile on Apple with App Store monopoly class action suits](https://appleinsider.com/articles/24/03/25/consumers-pile-on-apple-with-app-store-monopoly-class-action-suits?utm_medium=rss)
- - [UXL Foundation, backed by Google, Intel, and others, plans to build tools to power multiple types of AI accelerator chips and break Nvidia&#39;s CUDA dominance &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/240325/p19#a240325p19)
- - [Original Macintosh inspires 3D-printed Mac Studio &amp; iPad mini dock](https://appleinsider.com/articles/24/03/25/original-macintosh-inspires-3d-printed-mac-studio-ipad-mini-dock?utm_medium=rss)
- - [The US and the UK sanction a Wuhan-based company linked to the Chinese state-backed hacking group APT31 for targeting critical infrastructure organizations &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240325/p18#a240325p18)
- - [macOS Sonoma update fixes USB hubs, Java crashes, and more](https://appleinsider.com/articles/24/03/25/macos-sonoma-update-fixes-usb-hubs-java-crashes-and-more?utm_medium=rss)<!-- TECH:END -->
+ - [Does Apple&#39;s platform need to be opened up?](https://appleinsider.com/articles/24/03/25/does-apples-platform-need-to-be-opened-up?utm_medium=rss)
+ - [Eliyan, which is developing chiplet interconnects to increase AI chips&#39; performance, raised a $60M Series B co-led by Samsung Catalyst Fund and Tiger Global &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240325/p20#a240325p20)
+ - [Sci-Fi Author Vernor Vinge, Who First Wrote of the AI Singularity, Dead at 79](https://www.wired.com/story/vernor-vinge-obituary-singularity/)
+ - [Killer deal: Belkin Thunderbolt 4 5-in-1 Core Hub just dropped to $99.99](https://appleinsider.com/articles/24/03/25/killer-deal-belkin-thunderbolt-4-5-in-1-core-hub-just-dropped-to-9999?utm_medium=rss)
+ - [How to turn off Apple&#39;s Journal &#39;Discoverable by Others&#39; setting that&#39;s enabled by default](https://appleinsider.com/inside/ios-17/tips/how-to-turn-off-apples-journal-discoverable-by-others-setting-thats-enabled-by-default?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

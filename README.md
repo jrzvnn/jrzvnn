@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He didn&#39;t hug,he measured...](http://9gag.com/gag/aRB64GG)
- - 😝 [Corporations using AI to see which workers are not working](http://9gag.com/gag/aGyKEyZ)
- - 💣 [Expensive case](http://9gag.com/gag/ajPQVM1)
+ - 😝 [Bro won](http://9gag.com/gag/a87d67p)
+ - 😝 [Happy 50th birthday to a girl, who one time at band camp...](http://9gag.com/gag/aRB6ZVy)
+ - 💣 [What\u2019s under there?](http://9gag.com/gag/axyEWoW)
  - 😝 [Peacemaker is now available in MK1.](http://9gag.com/gag/a4Pp6o1)
- - 👉 [Happy 50th birthday to a girl, who one time at band camp...](http://9gag.com/gag/aRB6ZVy)<!-- MEMES:END -->
+ - 👉 [Expensive case](http://9gag.com/gag/ajPQVM1)<!-- MEMES:END -->
 
 ---
 

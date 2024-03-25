@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the best deals you can still grab from Amazon’s spring sales event](https://www.theverge.com/2024/3/20/24105325/amazon-spring-sale-best-deals-prices)
  - [New iPhone comparison page tells you why you need to upgrade](https://appleinsider.com/articles/24/03/25/new-iphone-comparison-page-tells-you-why-you-need-to-upgrade?utm_medium=rss)
  - [The creators of 3 Body Problem want to have ‘a back and forth’ with the book](https://www.theverge.com/24111515/3-body-problem-interview-david-benioff-alexander-woo-db-weiss-season-2)
  - [macOS Sonoma update fixes USB hubs, Java crashes, and more](https://appleinsider.com/articles/24/03/25/macos-sonoma-update-fixes-usb-hubs-java-crashes-and-more?utm_medium=rss)
- - [Ripple says the SEC plans to release a public brief on Tuesday seeking $2B in fines and penalties in its case against Ripple over sales of the XRP crypto token &lpar;Chris Dolmetsch/Bloomberg&rpar;](http://www.techmeme.com/240325/p24#a240325p24)
- - [Elon Musk has fully bought into the ‘great replacement’](https://www.theverge.com/2024/3/25/24111405/elon-musk-great-replacement-conspiracy-immigration-don-lemon)<!-- TECH:END -->
+ - [Ripple says the SEC plans to release a public brief on Tuesday seeking $2B in fines and penalties in its case against Ripple over sales of the XRP crypto token &lpar;Chris Dolmetsch/Bloomberg&rpar;](http://www.techmeme.com/240325/p24#a240325p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

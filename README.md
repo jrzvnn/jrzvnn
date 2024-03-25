@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft has a new Windows and Surface chief](https://www.theverge.com/2024/3/25/24111931/microsoft-windows-surface-pavan-davuluri)
  - [Q&amp;A with Bluesky CEO Jay Graber on why federation is the future of social media, Threads&#39; fediverse integration, monetization, composable moderation, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240325/p26#a240325p26)
  - [Telegram’s Peer-to-Peer Login system is a risky way to save $5 a month](https://www.theverge.com/2024/3/25/24111818/telegram-peer-to-peer-login-otp-two-factor-volunteer)
  - [Attention, Bargain Hunters: These Sub-$25 Amazon Big Spring Sale Deals End in Just a Few Hours     - CNET](https://www.cnet.com/deals/attention-bargain-hunters-these-sub-25-amazon-big-spring-sale-deals-end-in-just-a-few-hours/#ftag=CAD590a51e)
- - [Women&#39;s March Madness 2024: How to Watch, Stream Caitlin Clark Tonight     - CNET](https://www.cnet.com/tech/services-and-software/womens-march-madness-2024-how-to-watch-stream-caitlin-clark-and-every-tournament-game/#ftag=CAD590a51e)
- - [Report: Sonos Headphones and New Roam 2 Speaker May Arrive in June     - CNET](https://www.cnet.com/tech/mobile/new-sonos-headphones-to-launch-in-june/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Women&#39;s March Madness 2024: How to Watch, Stream Caitlin Clark Tonight     - CNET](https://www.cnet.com/tech/services-and-software/womens-march-madness-2024-how-to-watch-stream-caitlin-clark-and-every-tournament-game/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cleaning hair out of hair clippers.](http://9gag.com/gag/ae9KV4Q)
- - 😝 [Dude! they stole the mountain](http://9gag.com/gag/a34vAp8)
- - 💣 [I know a guy who sell cheap tyres.](http://9gag.com/gag/azx7dEZ)
+ - 😝 [One for the military and veterans lol](http://9gag.com/gag/a87dm9e)
+ - 😝 [I know a guy who sell cheap tyres.](http://9gag.com/gag/azx7dEZ)
+ - 💣 [Man who posts videos of himself cleaning graffiti, Upsets activists who says he is `Erasing Black Culture`](http://9gag.com/gag/aBy9VL1)
  - 😝 [Scorpion vs. Sub-Zero. When honor and power collide, an ultimate battle between the legendary brothers may be inevitable.](http://9gag.com/gag/aYQjDGO)
- - 👉 [But at whtt cost ?? Sacrificing her own self respect](http://9gag.com/gag/avy2EZO)<!-- MEMES:END -->
+ - 👉 [Cleaning hair out of hair clippers.](http://9gag.com/gag/ae9KV4Q)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft is making Chrome’s text rendering better on Windows](https://www.theverge.com/2024/3/25/24111273/microsoft-google-chrome-text-rendering-improvements)
  - [FundGuard, which offers an AI accounting platform for asset managers, raised a $100M Series C led by Key1 Capital, taking its funding to $150M since 2018 &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/240325/p8#a240325p8)
- - [Apple TV+ was announced five years ago on March 25, 2019](https://appleinsider.com/articles/24/03/25/apple-tv-was-announced-five-years-ago-on-march-25-2019?utm_medium=rss)
- - [The 116 Best Amazon Big Spring Sale Deals to Shop on the Final Day     - CNET](https://www.cnet.com/deals/the-116-best-amazon-big-spring-sale-deals-to-shop-on-final-day/#ftag=CAD590a51e)
- - [EU launches mass DMA violation probes against Apple, Google, and Meta](https://appleinsider.com/articles/24/03/25/eu-launches-mass-dma-violation-probes-against-apple-google-and-meta?utm_medium=rss)
- - [6 Best Apple Cider Vinegar Drinks to Improve Gut Health     - CNET](https://www.cnet.com/news/6-best-apple-cider-vinegar-drinks-to-improve-gut-health/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [5-ish Things About AI: Apple Serious About AI, Pitting AI Against the Experts, the ELVIS Act Passes     - CNET](https://www.cnet.com/tech/computing/5-ish-things-about-ai-apple-serious-about-ai-pitting-ai-against-the-experts-the-elvis-act-passes/#ftag=CAD590a51e)
+ - [My Meta Apple Memories: What Way Should I Record My Life?     - CNET](https://www.cnet.com/tech/computing/my-meta-apple-memories-what-way-should-i-record-my-life/#ftag=CAD590a51e)
+ - [Apple and Meta Are Competing for Your Memories video     - CNET](https://www.cnet.com/videos/apple-and-meta-are-competing-for-your-memories/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

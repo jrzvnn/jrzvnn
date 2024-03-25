@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia’s AI chip dominance is being targeted by Google, Intel, and Arm](https://www.theverge.com/2024/3/25/24111435/nvidia-ai-market-google-intel-arm-uxl-foundation-cuda)
+ - [The UK says Chinese state-affiliated actors were responsible for a &quot;malicious cyber campaign&quot; on the country&#39;s Electoral Commission between 2021 and 2022 &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240325/p15#a240325p15)
  - [Florida Governor Ron DeSantis signs a bill requiring parental consent for kids under 16 to hold social media accounts and age verification for many websites &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240325/p14#a240325p14)
- - [A US judge dismisses X&#39;s lawsuit against CCDH, saying the lawsuit had been brought as a means toward &quot;punishing the defendants for their speech&quot; &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/240325/p13#a240325p13)
- - [Deal of the day: Sonos Beam 2 soundbar drops to $399](https://appleinsider.com/articles/24/03/25/deal-of-the-day-sonos-beam-2-soundbar-drops-to-399?utm_medium=rss)
- - [Ron DeSantis signs bill requiring parental consent for kids under 16 to hold social media accounts](https://www.theverge.com/2024/3/25/24087979/florida-desantis-social-media-age-verification-parental-consent-law)
- - [Apple may have already struck a deal with Baidu for iPhone AI in China](https://appleinsider.com/articles/24/03/25/apple-may-have-already-struck-a-deal-with-baidu-for-iphone-ai-in-china?utm_medium=rss)<!-- TECH:END -->
+ - [The 3 Best Espresso Machines of 2024     - CNET](https://www.cnet.com/home/kitchen-and-household/best-espresso-machine/#ftag=CAD590a51e)
+ - [Best Organic Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-organic-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

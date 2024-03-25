@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Amber pls](http://9gag.com/gag/aVvjmKK)
- - 😝 [Adding `Smuggling large dildos to China` to my list of funny future crimes.](http://9gag.com/gag/axyEb0L)
- - 💣 [What to put as a title](http://9gag.com/gag/aD2RZmO)
+ - 😝 [27-year-old California man Resendo Tellez arrested for allegedly EATING a severed leg that he took from a pedestrian who was struck by a train. Tellez was seen eating the leg according to a witness and was later booked into jail for removing or mutilating human remains.](http://9gag.com/gag/aPA6mmn)
+ - 😝 [She can&#39;t be real with this](http://9gag.com/gag/aXPZVVD)
+ - 💣 [The moment she realizes is priceless](http://9gag.com/gag/aE0d6me)
  - 😝 [Scorpion vs. Sub-Zero. When honor and power collide, an ultimate battle between the legendary brothers may be inevitable.](http://9gag.com/gag/aYQjDGO)
- - 👉 [What would be the world wide effect of this if the rule was universial all over the world? Less conflict or more conflict? Why?](http://9gag.com/gag/a34vye7)<!-- MEMES:END -->
+ - 👉 [I know a guy who sell cheap tyres.](http://9gag.com/gag/azx7dEZ)<!-- MEMES:END -->
 
 ---
 

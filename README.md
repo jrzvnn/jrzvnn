@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well that&#39;s interesting so most people are normal](http://9gag.com/gag/a5QpG7V)
- - 😝 [It&#39;s refreshing to see a Karen with a good sense of humor.](http://9gag.com/gag/a6Zr5j9)
- - 💣 [Woof](http://9gag.com/gag/a6Zr5AL)
+ - 😝 [The 1950&#39;s The Lord of the Rings](http://9gag.com/gag/aD2Rn6O)
+ - 😝 [This proves only one thing](http://9gag.com/gag/avy2W6W)
+ - 💣 [Yes](http://9gag.com/gag/aAyBEGp)
  - 😝 [Scorpion vs. Sub-Zero. When honor and power collide, an ultimate battle between the legendary brothers may be inevitable.](http://9gag.com/gag/aYQjDGO)
- - 👉 [He was a a good boy.](http://9gag.com/gag/abA3WMB)<!-- MEMES:END -->
+ - 👉 [Mommy](http://9gag.com/gag/a87d0Mp)<!-- MEMES:END -->
 
 ---
 

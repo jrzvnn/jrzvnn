@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [His reaction](http://9gag.com/gag/a7ovoKr)
  - 😝 [I know a guy who sell cheap tyres.](http://9gag.com/gag/azx7dEZ)
- - 💣 [Happy 50th birthday to a girl, who one time at band camp...](http://9gag.com/gag/aRB6ZVy)
+ - 😝 [Wat the dog doing?](http://9gag.com/gag/aAyBydE)
+ - 💣 [The 1950&#39;s The Lord of the Rings](http://9gag.com/gag/aD2Rn6O)
  - 😝 [Peacemaker is now available in MK1.](http://9gag.com/gag/a4Pp6o1)
- - 👉 [What\u2019s under there?](http://9gag.com/gag/axyEWoW)<!-- MEMES:END -->
+ - 👉 [How stupid can you be? Caran - Yesss](http://9gag.com/gag/a87d7dV)<!-- MEMES:END -->
 
 ---
 

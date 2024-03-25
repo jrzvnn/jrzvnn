@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [macOS Sonoma update fixes USB hubs, Java crashes, and more](https://appleinsider.com/articles/24/03/25/macos-sonoma-update-fixes-usb-hubs-java-crashes-and-more?utm_medium=rss)
  - [Ripple says the SEC plans to release a public brief on Tuesday seeking $2B in fines and penalties in its case against Ripple over sales of the XRP crypto token &lpar;Chris Dolmetsch/Bloomberg&rpar;](http://www.techmeme.com/240325/p24#a240325p24)
  - [Elon Musk has fully bought into the ‘great replacement’](https://www.theverge.com/2024/3/25/24111405/elon-musk-great-replacement-conspiracy-immigration-don-lemon)
  - [Here Comes the Flood of Plug-In Hybrids](https://www.wired.com/story/here-comes-the-flood-of-plug-in-hybrids/)
- - [Consumers in the US filed at least three proposed class actions since March 22 accusing Apple of monopolizing the smartphone market, mirroring the DOJ&#39;s claims &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/240325/p23#a240325p23)
- - [Bolt&#39;s board removes CEO Maju Kuruvilla, who took over after co-founder Ryan Breslow stepped down in 2022; head of sales Justin Grooms will be interim CEO &lpar;The Information&rpar;](http://www.techmeme.com/240325/p22#a240325p22)<!-- TECH:END -->
+ - [Consumers in the US filed at least three proposed class actions since March 22 accusing Apple of monopolizing the smartphone market, mirroring the DOJ&#39;s claims &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/240325/p23#a240325p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

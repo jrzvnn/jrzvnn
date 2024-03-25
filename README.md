@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I know a guy who sell cheap tyres.](http://9gag.com/gag/azx7dEZ)
- - 😝 [How stupid can you be? Caran - Yesss](http://9gag.com/gag/a87d7dV)
- - 💣 [27-year-old California man Resendo Tellez arrested for allegedly EATING a severed leg that he took from a pedestrian who was struck by a train. Tellez was seen eating the leg according to a witness and was later booked into jail for removing or mutilating human remains.](http://9gag.com/gag/aPA6mmn)
- - 😝 [Peacemaker is now available in MK1.](http://9gag.com/gag/a4Pp6o1)
- - 👉 [The 1950&#39;s The Lord of the Rings](http://9gag.com/gag/aD2Rn6O)<!-- MEMES:END -->
+ - 😝 [Happy 50th birthday to a girl, who one time at band camp...](http://9gag.com/gag/aRB6ZVy)
+ - 😝 [The 1950&#39;s The Lord of the Rings](http://9gag.com/gag/aD2Rn6O)
+ - 💣 [Nice moves!](http://9gag.com/gag/axyEyVD)
+ - 😝 [Scorpion vs. Sub-Zero. When honor and power collide, an ultimate battle between the legendary brothers may be inevitable.](http://9gag.com/gag/aYQjDGO)
+ - 👉 [They have deposited $30 every month since I was 2 year old](http://9gag.com/gag/aAyB6Vg)<!-- MEMES:END -->
 
 ---
 

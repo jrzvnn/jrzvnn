@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: FTX strikes deals worth $884M with buyers, including $500M from a Mubadala affiliate, to sell most of its Anthropic stake; FTX invested $500M in 2021 &lpar;Becky Yerak/Wall Street Journal&rpar;](http://www.techmeme.com/240325/p16#a240325p16)
+ - [Apple may have already struck a deal with Baidu for iPhone AI in China](https://appleinsider.com/articles/24/03/25/apple-may-have-already-struck-a-deal-with-baidu-for-iphone-ai-in-china?utm_medium=rss)
+ - [Razer’s lightning-quick Huntsman V2 keyboard is down to its lowest price to date](https://www.theverge.com/2024/3/25/24111302/razer-huntsman-v2-mechanical-keyboard-kindle-scribe-xbox-wireless-controller-deal-sale)
  - [Judge tosses Elon Musk’s X lawsuit against anti-hate group](https://www.theverge.com/2024/3/25/24091143/elon-musk-x-ccdh-lawsuit-dismissed)
- - [OWC 14-port Thunderbolt Dock is back down to $99, the lowest price ever](https://appleinsider.com/articles/24/03/22/owc-14-port-thunderbolt-dock-is-back-down-to-99-the-lowest-price-ever?utm_medium=rss)
- - [Nvidia’s AI chip dominance is being targeted by Google, Intel, and Arm](https://www.theverge.com/2024/3/25/24111435/nvidia-ai-market-google-intel-arm-uxl-foundation-cuda)
- - [The UK says Chinese state-affiliated actors were responsible for a &quot;malicious cyber campaign&quot; on the country&#39;s Electoral Commission between 2021 and 2022 &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240325/p15#a240325p15)
- - [Florida Governor Ron DeSantis signs a bill requiring parental consent for kids under 16 to hold social media accounts and age verification for many websites &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240325/p14#a240325p14)<!-- TECH:END -->
+ - [OWC 14-port Thunderbolt Dock is back down to $99, the lowest price ever](https://appleinsider.com/articles/24/03/22/owc-14-port-thunderbolt-dock-is-back-down-to-99-the-lowest-price-ever?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

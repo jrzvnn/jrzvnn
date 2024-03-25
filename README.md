@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New robotic mower, smart garden watering, and more on the HomeKit Insider Podcast](https://appleinsider.com/articles/24/03/25/new-robotic-mower-smart-garden-watering-and-more-on-the-homekit-insider-podcast?utm_medium=rss)
- - [Crypto exchange CommEX, which bought Binance&#39;s former Russian operations in September 2023, plans to shut down its website on May 10, 2024 &lpar;Camomile Shumba/CoinDesk&rpar;](http://www.techmeme.com/240325/p11#a240325p11)
- - [Third-party Apple TV remotes no longer working for some after tvOS 17.4 update](https://appleinsider.com/articles/24/03/25/third-party-apple-tv-remotes-no-longer-working-for-some-after-tvos-174-update?utm_medium=rss)
- - [The EU Targets Apple, Meta, and Alphabet for Investigations Under New Tech Law](https://www.wired.com/story/apple-meta-alphabet-eu-digital-markets-act/)
- - [Apple Stores will soon start updating iPhones while still in the sealed retail box](https://appleinsider.com/articles/24/03/25/apple-stores-will-soon-start-updating-iphones-while-still-in-the-sealed-retail-box?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft forgot to update this Windows feature for 30 years](https://www.theverge.com/2024/3/25/24111288/microsoft-format-drive-windows-ui-dialog)
+ - [Federation is the future of social media, says Bluesky CEO Jay Graber](https://www.theverge.com/2024/3/25/24108872/bluesky-ceo-graber-federation-social-media-decoder-interview)
+ - [12 Best Couches You Can Buy Online &lpar;2024&rpar;: Sectionals, Sofas, Sleepers, and More](https://www.wired.com/gallery/best-couches/)
+ - [What our shopping haul taught us about the promise of AI](https://www.theverge.com/24087909/ai-shopping-tools-fashion-tech-finesse-pebblely-ecommerce)
+ - [New robotic mower, smart garden watering, and more on the HomeKit Insider Podcast](https://appleinsider.com/articles/24/03/25/new-robotic-mower-smart-garden-watering-and-more-on-the-homekit-insider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

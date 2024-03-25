@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bolt&#39;s board removes Maju Kuruvilla, who took over as CEO after co-founder Ryan Breslow stepped down in 2022; head of sales Justin Grooms will be interim CEO &lpar;The Information&rpar;](http://www.techmeme.com/240325/p22#a240325p22)
+ - [Another Find My misfire led to a raid on a suburban family&#39;s home](https://appleinsider.com/articles/24/03/25/another-find-my-misfire-led-to-a-raid-on-a-suburban-familys-home?utm_medium=rss)
  - [Global Screening Services, which is developing a sanctions-screening service to help financial institutions comply with regulations, raised a $47M Series A2 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240325/p21#a240325p21)
  - [How to Take Advantage of the Samsung Free TV Promotion &lpar;2024&rpar;](https://www.wired.com/story/samsung-buy-one-get-one-tv-deal-2024/)
- - [Meta Kills a Crucial Transparency Tool At the Worst Possible Time](https://www.wired.com/story/meta-kills-crucial-transparency-tool-worst-possible-time/)
- - [EU launches mass DMA violation probes against Apple, Google, and Meta](https://appleinsider.com/articles/24/03/25/eu-launches-mass-dma-violation-probes-against-apple-google-and-meta?utm_medium=rss)
- - [Casper Dream Hybrid Review 2024: Casper&#39;s New Most Accommodating Bed     - CNET](https://www.cnet.com/health/sleep/casper-dream-hybrid-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta Kills a Crucial Transparency Tool At the Worst Possible Time](https://www.wired.com/story/meta-kills-crucial-transparency-tool-worst-possible-time/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

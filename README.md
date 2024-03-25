@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Chinese social media startup Xiaohongshu reported its first profit with $500M in net profit on $3.7B revenue in 2023, and reached 312M MAUs, up 20% YoY &lpar;Financial Times&rpar;](http://www.techmeme.com/240324/p10#a240324p10)
  - [Chinese state media: at the China Development Forum, Tim Cook said Apple will launch Vision Pro in China this year, first official non-US launch confirmation &lpar;Reuters&rpar;](http://www.techmeme.com/240324/p9#a240324p9)
  - [You Can Snag 2 EcoFlow Delta Pro Power Stations During Amazon&#39;s Spring Sale for $4,699     - CNET](https://www.cnet.com/deals/you-can-snag-two-ecoflow-delta-pro-power-stations-during-amazons-spring-sale-for-4699/#ftag=CAD590a51e)
  - [Save on Satechi Accessories During Amazon&#39;s Big Spring Sale     - CNET](https://www.cnet.com/deals/save-on-satechi-accessories-during-amazons-big-spring-sale/#ftag=CAD590a51e)
- - [USA vs. Mexico Livestream: How to Watch CONCACAF Nations League Final Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/usa-vs-mexico-livestream-how-to-watch-concacaf-nations-league-final-soccer-from-anywhere/#ftag=CAD590a51e)
- - [Best Smart Home Deals: Save Up to $81 in Amazon&#39;s Big Spring Sale     - CNET](https://www.cnet.com/deals/best-smart-home-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [USA vs. Mexico Livestream: How to Watch CONCACAF Nations League Final Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/usa-vs-mexico-livestream-how-to-watch-concacaf-nations-league-final-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

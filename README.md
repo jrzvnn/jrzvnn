@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The 1950&#39;s The Lord of the Rings](http://9gag.com/gag/aD2Rn6O)
- - 😝 [Happy 50th birthday to a girl, who one time at band camp...](http://9gag.com/gag/aRB6ZVy)
- - 💣 [The moment she realizes is priceless](http://9gag.com/gag/aE0d6me)
+ - 😝 [Listen to Michael Jackson&#39;s real voice with no autotune](http://9gag.com/gag/aoym390)
+ - 😝 [More love and sandwiches and less prejudices](http://9gag.com/gag/amoq1Q6)
+ - 💣 [Level of satisfaction!](http://9gag.com/gag/aW4Bp33)
  - 😝 [Scorpion vs. Sub-Zero. When honor and power collide, an ultimate battle between the legendary brothers may be inevitable.](http://9gag.com/gag/aYQjDGO)
- - 👉 [They have deposited $30 every month since I was 2 year old](http://9gag.com/gag/aAyB6Vg)<!-- MEMES:END -->
+ - 👉 [This is why the UK military is shrinking, no one wants to fight for a government that can&#39;t be asked to help it&#39;s citizens](http://9gag.com/gag/an7eOW5)<!-- MEMES:END -->
 
 ---
 

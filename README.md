@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Smart Home Deals: Save Up to $81 in Amazon&#39;s Big Spring Sale     - CNET](https://www.cnet.com/deals/best-smart-home-deals/#ftag=CAD590a51e)
- - [Analysis: Jeff Bezos, Peter Thiel, and Mark Zuckerberg lead a group of insiders selling their company stocks in Q1, a sign that the tech bull run may be peaking &lpar;Financial Times&rpar;](http://www.techmeme.com/240324/p8#a240324p8)
- - [Get a Stylish New Pair of Glasses During GlassesUSA&#39;s Spring Sale     - CNET](https://www.cnet.com/deals/get-a-stylish-new-pair-of-glasses-during-glassesusas-spring-sale/#ftag=CAD590a51e)
- - [This Is Your Last Chance to Snag a Windows 11 Pro License for Just $30     - CNET](https://www.cnet.com/deals/this-is-your-last-chance-to-snag-a-windows-11-pro-license-for-just-30/#ftag=CAD590a51e)
- - [Last Chance to Grab Our Favorite Smart Lock for a Massive $80 Discount During Amazon&#39;s Spring Sale     - CNET](https://www.cnet.com/deals/grab-our-favorite-smart-lock-for-a-massive-80-discount-while-amazon-sale-lasts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Chinese state media: at the China Development Forum, Tim Cook said Apple will launch Vision Pro in China this year, first official non-US launch confirmation &lpar;Reuters&rpar;](http://www.techmeme.com/240324/p9#a240324p9)
+ - [You Can Snag 2 EcoFlow Delta Pro Power Stations During Amazon&#39;s Spring Sale for $4,699     - CNET](https://www.cnet.com/deals/you-can-snag-two-ecoflow-delta-pro-power-stations-during-amazons-spring-sale-for-4699/#ftag=CAD590a51e)
+ - [Save on Satechi Accessories During Amazon&#39;s Big Spring Sale     - CNET](https://www.cnet.com/deals/save-on-satechi-accessories-during-amazons-big-spring-sale/#ftag=CAD590a51e)
+ - [USA vs. Mexico Livestream: How to Watch CONCACAF Nations League Final Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/usa-vs-mexico-livestream-how-to-watch-concacaf-nations-league-final-soccer-from-anywhere/#ftag=CAD590a51e)
+ - [Best Smart Home Deals: Save Up to $81 in Amazon&#39;s Big Spring Sale     - CNET](https://www.cnet.com/deals/best-smart-home-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

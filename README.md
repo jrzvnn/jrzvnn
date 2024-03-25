@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Milk](http://9gag.com/gag/aRB6EM2)
- - 😝 [Damn that some nice eggs](http://9gag.com/gag/aBy9ZzD)
- - 💣 [The moment she realizes is priceless](http://9gag.com/gag/aE0d6me)
+ - 😝 [Bro didn&#39;t even blink `i&#39;m 40 I dont have time for this BS` absolute CHAD.](http://9gag.com/gag/a6Zr5Mm)
+ - 😝 [The moment she realizes is priceless](http://9gag.com/gag/aE0d6me)
+ - 💣 [Insta](http://9gag.com/gag/aAyB60d)
  - 😝 [Peacemaker is now available in MK1.](http://9gag.com/gag/a4Pp6o1)
- - 👉 [Nice moves!](http://9gag.com/gag/axyEyVD)<!-- MEMES:END -->
+ - 👉 [He didn&#39;t hug,he measured...](http://9gag.com/gag/aRB64GG)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Apple Stores will soon start updating iPhones while still in the sealed retail box](https://appleinsider.com/articles/24/03/25/apple-stores-will-soon-start-updating-iphones-while-still-in-the-sealed-retail-box?utm_medium=rss)
+ - [Grab a Lifetime License for Microsoft Office 2021 for Only $45     - CNET](https://www.cnet.com/deals/grab-a-lifetime-license-for-microsoft-office-2021-for-only-45/#ftag=CAD590a51e)
+ - [Best Solar Panel Installation Companies in Puerto Rico     - CNET](https://www.cnet.com/home/energy-and-utilities/puerto-rico-solar-panels/#ftag=CAD590a51e)
  - [Match Group adds Instacart CMO Laura Jones and Zillow co-founder Spencer Rascoff to its board and signs a deal with Elliott, reported to have a $1B Match stake &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/240325/p9#a240325p9)
- - [The 9 Best Drones &lpar;2024&rpar;:  Budget, Toys, Professional Video](https://www.wired.com/gallery/best-drones/)
- - [EU launches mass DMA violation probes against Apple, Google, and Meta](https://appleinsider.com/articles/24/03/25/eu-launches-mass-dma-violation-probes-against-apple-google-and-meta?utm_medium=rss)
- - [Microsoft is making Chrome’s text rendering better on Windows](https://www.theverge.com/2024/3/25/24111273/microsoft-google-chrome-text-rendering-improvements)<!-- TECH:END -->
+ - [How Exercise Helps Boost Your Memory-Brain Health as You Age     - CNET](https://www.cnet.com/health/fitness/how-exercise-helps-boost-your-memory-brain-health-as-you-age/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

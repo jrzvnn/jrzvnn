@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Yet another sealed 4GB original iPhone brings in over $100,000 at auction](https://appleinsider.com/articles/24/03/25/yet-another-sealed-4gb-original-iphone-brings-in-over-100000-at-auction?utm_medium=rss)
  - [Chinese Hackers Charged in Decade-Long Global Spying Rampage](https://www.wired.com/story/china-apt31-us-uk-hacking-espionage-charges-sanctions/)
  - [Meta’s new opt-out setting limits visibility of politics on Instagram and Threads](https://www.theverge.com/2024/3/25/24111604/meta-setting-downranks-politics-instagram-threads)
  - [Does Apple&#39;s platform need to be opened up?](https://appleinsider.com/articles/24/03/25/does-apples-platform-need-to-be-opened-up?utm_medium=rss)
- - [Eliyan, which is developing chiplet interconnects to increase AI chips&#39; performance, raised a $60M Series B co-led by Samsung Catalyst Fund and Tiger Global &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240325/p20#a240325p20)
- - [Sci-Fi Author Vernor Vinge, Who First Wrote of the AI Singularity, Dead at 79](https://www.wired.com/story/vernor-vinge-obituary-singularity/)<!-- TECH:END -->
+ - [Eliyan, which is developing chiplet interconnects to increase AI chips&#39; performance, raised a $60M Series B co-led by Samsung Catalyst Fund and Tiger Global &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240325/p20#a240325p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

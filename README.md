@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Listen to Michael Jackson&#39;s real voice with no autotune](http://9gag.com/gag/aoym390)
- - 😝 [She can&#39;t be real with this](http://9gag.com/gag/aXPZVVD)
- - 💣 [Bro won](http://9gag.com/gag/a87d67p)
+ - 😝 [Level of satisfaction!](http://9gag.com/gag/aW4Bp33)
+ - 😝 [The moment she realizes is priceless](http://9gag.com/gag/aE0d6me)
+ - 💣 [27-year-old California man Resendo Tellez arrested for allegedly EATING a severed leg that he took from a pedestrian who was struck by a train. Tellez was seen eating the leg according to a witness and was later booked into jail for removing or mutilating human remains.](http://9gag.com/gag/aPA6mmn)
  - 😝 [Scorpion vs. Sub-Zero. When honor and power collide, an ultimate battle between the legendary brothers may be inevitable.](http://9gag.com/gag/aYQjDGO)
- - 👉 [He didn&#39;t hug,he measured...](http://9gag.com/gag/aRB64GG)<!-- MEMES:END -->
+ - 👉 [Future star achieving his dream](http://9gag.com/gag/a2vE0qE)<!-- MEMES:END -->
 
 ---
 

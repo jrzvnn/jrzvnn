@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Take Advantage of the Samsung Free TV Promotion &lpar;2024&rpar;](https://www.wired.com/story/samsung-buy-one-get-one-tv-deal-2024/)
+ - [Meta Kills a Crucial Transparency Tool At the Worst Possible Time](https://www.wired.com/story/meta-kills-crucial-transparency-tool-worst-possible-time/)
  - [EU launches mass DMA violation probes against Apple, Google, and Meta](https://appleinsider.com/articles/24/03/25/eu-launches-mass-dma-violation-probes-against-apple-google-and-meta?utm_medium=rss)
  - [Apple&#39;s big WWDC 2024 announcement may be an AI App Store](https://appleinsider.com/articles/24/03/25/apples-big-wwdc-2024-announcement-may-be-an-ai-app-store?utm_medium=rss)
- - [Yet another sealed 4GB original iPhone brings in over $100,000 at auction](https://appleinsider.com/articles/24/03/25/yet-another-sealed-4gb-original-iphone-brings-in-over-100000-at-auction?utm_medium=rss)
- - [Chinese Hackers Charged in Decade-Long Global Spying Rampage](https://www.wired.com/story/china-apt31-us-uk-hacking-espionage-charges-sanctions/)
- - [Meta’s new opt-out setting limits visibility of politics on Instagram and Threads](https://www.theverge.com/2024/3/25/24111604/meta-setting-downranks-politics-instagram-threads)<!-- TECH:END -->
+ - [Yet another sealed 4GB original iPhone brings in over $100,000 at auction](https://appleinsider.com/articles/24/03/25/yet-another-sealed-4gb-original-iphone-brings-in-over-100000-at-auction?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

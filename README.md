@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Stores will soon start updating iPhones while still in the sealed retail box](https://appleinsider.com/articles/24/03/25/apple-stores-will-soon-start-updating-iphones-while-still-in-the-sealed-retail-box?utm_medium=rss)
  - [Match Group adds Instacart CMO Laura Jones and Zillow co-founder Spencer Rascoff to its board and signs a deal with Elliott, reported to have a $1B Match stake &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/240325/p9#a240325p9)
  - [The 9 Best Drones &lpar;2024&rpar;:  Budget, Toys, Professional Video](https://www.wired.com/gallery/best-drones/)
  - [EU launches mass DMA violation probes against Apple, Google, and Meta](https://appleinsider.com/articles/24/03/25/eu-launches-mass-dma-violation-probes-against-apple-google-and-meta?utm_medium=rss)
- - [Microsoft is making Chrome’s text rendering better on Windows](https://www.theverge.com/2024/3/25/24111273/microsoft-google-chrome-text-rendering-improvements)
- - [FundGuard, which offers an AI accounting platform for asset managers, raised a $100M Series C led by Key1 Capital, taking its funding to $150M since 2018 &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/240325/p8#a240325p8)<!-- TECH:END -->
+ - [Microsoft is making Chrome’s text rendering better on Windows](https://www.theverge.com/2024/3/25/24111273/microsoft-google-chrome-text-rendering-improvements)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

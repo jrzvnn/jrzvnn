@@ -170,7 +170,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [How to Take Advantage of the Samsung Free TV Promotion &lpar;2024&rpar;](https://www.wired.com/story/samsung-buy-one-get-one-tv-deal-2024/)
  - [Meta Kills a Crucial Transparency Tool At the Worst Possible Time](https://www.wired.com/story/meta-kills-crucial-transparency-tool-worst-possible-time/)
  - [EU launches mass DMA violation probes against Apple, Google, and Meta](https://appleinsider.com/articles/24/03/25/eu-launches-mass-dma-violation-probes-against-apple-google-and-meta?utm_medium=rss)
- - [Apple&#39;s big WWDC 2024 announcement may be an AI App Store](https://appleinsider.com/articles/24/03/25/apples-big-wwdc-2024-announcement-may-be-an-ai-app-store?utm_medium=rss)<!-- TECH:END -->
+ - [Casper Dream Hybrid Review 2024: Casper&#39;s New Most Accommodating Bed     - CNET](https://www.cnet.com/health/sleep/casper-dream-hybrid-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

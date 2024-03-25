@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not today. Keep walking clown](http://9gag.com/gag/aO8oZAy)
- - 😝 [Bro won](http://9gag.com/gag/a87d67p)
- - 💣 [Scrambled eggs](http://9gag.com/gag/aKG498g)
+ - 😝 [Listen to Michael Jackson&#39;s real voice with no autotune](http://9gag.com/gag/aoym390)
+ - 😝 [She can&#39;t be real with this](http://9gag.com/gag/aXPZVVD)
+ - 💣 [Bro won](http://9gag.com/gag/a87d67p)
  - 😝 [Scorpion vs. Sub-Zero. When honor and power collide, an ultimate battle between the legendary brothers may be inevitable.](http://9gag.com/gag/aYQjDGO)
- - 👉 [Man who posts videos of himself cleaning graffiti, Upsets activists who says he is `Erasing Black Culture`](http://9gag.com/gag/aBy9VL1)<!-- MEMES:END -->
+ - 👉 [He didn&#39;t hug,he measured...](http://9gag.com/gag/aRB64GG)<!-- MEMES:END -->
 
 ---
 

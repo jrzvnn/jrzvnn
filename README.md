@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spotify launches online courses from BBC Maestro, Skillshare, and others, covering music, business, and more, as an experiment in the UK on mobile and desktop &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/240325/p7#a240325p7)
  - [Nigeria files tax evasion charges against Binance and executives Tigran Gambaryan and Nadeem Anjarwalla, detained since February; reports say Anjarwalla escaped &lpar;Nduka Orjinmo/Bloomberg&rpar;](http://www.techmeme.com/240325/p6#a240325p6)
  - [Apple, Meta, and Google targeted by EU in DMA non-compliance investigations](https://www.theverge.com/2024/3/25/24111232/european-commission-digital-markets-act-investigation)
  - [The EU opens formal DMA investigations into Apple and Google over letting developers &quot;steer&quot; users from their app stores, and Meta over using user data for ads &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240325/p5#a240325p5)
- - [Best Internet Providers in Flagstaff, Arizona     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-flagstaff-az/#ftag=CAD590a51e)
- - [Home Loan Rates Increased Over the Last Week: Mortgage Interest Rates Today for March 25, 2024     - CNET](https://www.cnet.com/personal-finance/mortgages/home-loan-rates-increased-over-the-last-week-mortgage-interest-rates-today-for-march-25-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Flagstaff, Arizona     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-flagstaff-az/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

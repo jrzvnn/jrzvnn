@@ -175,9 +175,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happy 50th birthday to a girl, who one time at band camp...](http://9gag.com/gag/aRB6ZVy)
- - 😝 [The guy is good.](http://9gag.com/gag/a1mp7xb)
- - 💣 [Listen to Michael Jackson&#39;s real voice with no autotune](http://9gag.com/gag/aoym390)
+ - 😝 [His reaction](http://9gag.com/gag/a7ovoKr)
+ - 😝 [I know a guy who sell cheap tyres.](http://9gag.com/gag/azx7dEZ)
+ - 💣 [Happy 50th birthday to a girl, who one time at band camp...](http://9gag.com/gag/aRB6ZVy)
  - 😝 [Peacemaker is now available in MK1.](http://9gag.com/gag/a4Pp6o1)
  - 👉 [What\u2019s under there?](http://9gag.com/gag/axyEWoW)<!-- MEMES:END -->
 

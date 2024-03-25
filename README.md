@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [15 years?](http://9gag.com/gag/awyNLZD)
- - 😝 [Listen to Michael Jackson&#39;s real voice with no autotune](http://9gag.com/gag/aoym390)
- - 💣 [The 1950&#39;s The Lord of the Rings](http://9gag.com/gag/aD2Rn6O)
+ - 😝 [Cleaning hair out of hair clippers.](http://9gag.com/gag/ae9KV4Q)
+ - 😝 [Dude! they stole the mountain](http://9gag.com/gag/a34vAp8)
+ - 💣 [I know a guy who sell cheap tyres.](http://9gag.com/gag/azx7dEZ)
  - 😝 [Scorpion vs. Sub-Zero. When honor and power collide, an ultimate battle between the legendary brothers may be inevitable.](http://9gag.com/gag/aYQjDGO)
- - 👉 [Are you faster than me? Are you winning fair and square? That makes you racist. Never relax around the usual suspects.](http://9gag.com/gag/axyE341)<!-- MEMES:END -->
+ - 👉 [But at whtt cost ?? Sacrificing her own self respect](http://9gag.com/gag/avy2EZO)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [These guys can take a joke](http://9gag.com/gag/amoqxPX)
- - 😝 [Worst roommate ever](http://9gag.com/gag/amoqxoV)
- - 💣 [Awesome exhibition](http://9gag.com/gag/apRKxG9)
+ - 😝 [She can&#39;t be real with this](http://9gag.com/gag/aXPZVVD)
+ - 😝 [Choose!](http://9gag.com/gag/aKG48w3)
+ - 💣 [The moment she realizes is priceless](http://9gag.com/gag/aE0d6me)
  - 😝 [Bro didn&#39;t even blink `i&#39;m 40 I dont have time for this BS` absolute CHAD.](http://9gag.com/gag/a6Zr5Mm)
- - 👉 [Amber pls](http://9gag.com/gag/aVvjmKK)<!-- MEMES:END -->
+ - 👉 [Lol comment caught me off guard](http://9gag.com/gag/aNDmBOr)<!-- MEMES:END -->
 
 ---
 

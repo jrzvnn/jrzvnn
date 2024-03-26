@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Its show time](http://9gag.com/gag/aXPZ4RD)
- - 😝 [What would be the world wide effect of this if the rule was universial all over the world? Less conflict or more conflict? Why?](http://9gag.com/gag/a34vye7)
- - 💣 [He was a a good boy.](http://9gag.com/gag/abA3WMB)
+ - 😝 [Happy 50th birthday to a girl, who one time at band camp...](http://9gag.com/gag/aRB6ZVy)
+ - 😝 [Are you faster than me? Are you winning fair and square? That makes you racist. Never relax around the usual suspects.](http://9gag.com/gag/axyE341)
+ - 💣 [Cleaning hair out of hair clippers.](http://9gag.com/gag/ae9KV4Q)
  - 😝 [Scorpion vs. Sub-Zero. When honor and power collide, an ultimate battle between the legendary brothers may be inevitable.](http://9gag.com/gag/aYQjDGO)
- - 👉 [Hmmm](http://9gag.com/gag/ajPQL41)<!-- MEMES:END -->
+ - 👉 [On the run](http://9gag.com/gag/avy2xA5)<!-- MEMES:END -->
 
 ---
 

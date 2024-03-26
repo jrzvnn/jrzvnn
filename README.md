@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Adobe’s new GenStudio platform is an AI factory for advertisers](https://www.theverge.com/2024/3/26/24112533/adobe-summit-genstudio-ai-firefly-marketing-platform)
+ - [Wyze’s cheap and questionable security cam levels up with Wi-Fi 6, edge AI, and 2.5K video](https://www.theverge.com/24112530/wyze-cam-v4)
  - [Apple&#39;s removable battery standard could change device charging forever](https://appleinsider.com/articles/24/03/26/apples-removable-battery-standard-could-change-device-charging-forever?utm_medium=rss)
  - [Adobe adds a &quot;structure reference&quot; feature to Firefly AI, letting users upload an image to guide the model about the &quot;arrangement&quot; of the image &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240326/p30#a240326p30)
- - [‘Trump 2024 To the Moon’: MAGA Fans Go All In on Truth Social Stock](https://www.wired.com/story/truth-social-meme-stock-chat-group-nasdaq/)
- - [Adobe launches GenStudio to let brands create content and measure its performance using generative AI, underpinned by promises of brand safety &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240326/p29#a240326p29)
- - [T-Mobile&#39;s Free MLB.TV Offer Is Live, But Only For A Week     - CNET](https://www.cnet.com/tech/mobile/t-mobiles-free-mlb-tv-offer-is-live-but-only-for-a-week/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [‘Trump 2024 To the Moon’: MAGA Fans Go All In on Truth Social Stock](https://www.wired.com/story/truth-social-meme-stock-chat-group-nasdaq/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

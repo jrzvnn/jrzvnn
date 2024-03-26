@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The EU publishes draft election security guidelines aimed at platforms with 45M+ regional MAUs that are regulated under the DSA, ahead of elections in June &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240326/p42#a240326p42)
  - [Apple has brought its WWDC sessions to YouTube](https://appleinsider.com/articles/24/03/26/apple-has-brought-its-wwdc-sessions-to-youtube?utm_medium=rss)
  - [How the US is using wire fraud laws to prosecute crypto crimes, such as with SBF, while the debate over whether crypto tokens are securities plays out in court &lpar;Bloomberg&rpar;](http://www.techmeme.com/240326/p41#a240326p41)
  - [Sources: the US FTC is investigating TikTok over allegedly faulty privacy and data security practices, and could bring a lawsuit or settlement within weeks &lpar;Josh Sisco/Politico&rpar;](http://www.techmeme.com/240326/p40#a240326p40)
- - [Is AI the Future of NPCs?](https://www.wired.com/story/artificial-intelligence-ai-non-player-characters-npcs-future/)
- - [A timeline of EU&#39;s DMA investigations into Apple, Google, and Meta: each have 12 months to fix the issues, before risking fines of up to 10% of global revenue &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/240326/p39#a240326p39)<!-- TECH:END -->
+ - [Is AI the Future of NPCs?](https://www.wired.com/story/artificial-intelligence-ai-non-player-characters-npcs-future/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

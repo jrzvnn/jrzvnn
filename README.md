@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filings detail Meta&#39;s Project Ghostbusters to get data analytics about Snapchat, YouTube, and Amazon, using Onavo VPN on iOS and Android between 2016 and 2019 &lpar;Maxwell Zeff/Gizmodo&rpar;](http://www.techmeme.com/240326/p25#a240326p25)
+ - [Heat and drought are sucking US hydropower dry](https://www.theverge.com/2024/3/26/24112341/drought-heatwave-hydropower-western-us-low)
+ - [Apple&#39;s Smart Ring may be able to spot when you snap your fingers](https://appleinsider.com/articles/23/04/11/apples-smart-ring-may-be-able-to-spot-when-snap-your-fingers?utm_medium=rss)
  - [&#39;Severance&#39; season two is still in production, but release date is still unclear](https://appleinsider.com/articles/24/03/26/severance-season-two-is-still-in-production-but-release-date-is-still-unclear?utm_medium=rss)
- - [Apple pursuing idea of an all-screen iPhone with a wrap around display](https://appleinsider.com/articles/21/10/05/apple-pursuing-idea-of-an-iphone-with-a-wrap-around-display?utm_medium=rss)
- - [Filing: Sun Microsystems co-founder Andreas Bechtolsheim settles with the US SEC for alleged insider trading on Cisco&#39;s $2.6B offer to buy Acacia in 2019 &lpar;Austin Weinstein/Bloomberg&rpar;](http://www.techmeme.com/240326/p24#a240326p24)
- - [8 Best Lubes &lpar;2024&rpar;: Water-Based, Silicone, and Dispensers](https://www.wired.com/gallery/best-lubes/)
- - [AI search engines review: they are worse than Google at navigational queries, mixed on information queries, and offer helpful citations in exploration queries &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240326/p23#a240326p23)<!-- TECH:END -->
+ - [Apple pursuing idea of an all-screen iPhone with a wrap around display](https://appleinsider.com/articles/21/10/05/apple-pursuing-idea-of-an-iphone-with-a-wrap-around-display?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

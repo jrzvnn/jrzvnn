@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Listen to Michael Jackson&#39;s real voice with no autotune](http://9gag.com/gag/aoym390)
- - 😝 [Oops](http://9gag.com/gag/aBy9LA1)
- - 💣 [This proves only one thing](http://9gag.com/gag/avy2W6W)
+ - 😝 [Trolling Indian scammers](http://9gag.com/gag/aLn6ARW)
+ - 😝 [Cleaning hair out of hair clippers.](http://9gag.com/gag/ae9KV4Q)
+ - 💣 [He was a a good boy.](http://9gag.com/gag/abA3WMB)
  - 😝 [Scorpion vs. Sub-Zero. When honor and power collide, an ultimate battle between the legendary brothers may be inevitable.](http://9gag.com/gag/aYQjDGO)
- - 👉 [What if we used 100% of our brain all the time](http://9gag.com/gag/aVvjg28)<!-- MEMES:END -->
+ - 👉 [But at whtt cost ?? Sacrificing her own self respect](http://9gag.com/gag/avy2EZO)<!-- MEMES:END -->
 
 ---
 

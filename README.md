@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She can&#39;t be real with this](http://9gag.com/gag/aXPZVVD)
- - 😝 [Mondays got me like](http://9gag.com/gag/aNDmVEA)
- - 💣 [This Horse won the race without its rider.](http://9gag.com/gag/aGyKGO0)
- - 😝 [Real estate agents across the country right now](http://9gag.com/gag/a5Qpz6o)
- - 👉 [Choose!](http://9gag.com/gag/aKG48w3)<!-- MEMES:END -->
+ - 😝 [Its show time](http://9gag.com/gag/aXPZ4RD)
+ - 😝 [Hmmm](http://9gag.com/gag/ajPQL41)
+ - 💣 [Happened for the first time in my Life\u2026](http://9gag.com/gag/aoym4Yg)
+ - 😝 [Worst roommate ever](http://9gag.com/gag/amoqxoV)
+ - 👉 [Awesome exhibition](http://9gag.com/gag/apRKxG9)<!-- MEMES:END -->
 
 ---
 

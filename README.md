@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro Just found the Cheat Code](http://9gag.com/gag/a6Zr5ye)
- - 😝 [You just know that make the reporters day\u2764\ufe0f](http://9gag.com/gag/adByeBQ)
- - 💣 [Bad ending](http://9gag.com/gag/axyEOXL)
- - 😝 [For the first time, medical university students were shown a video of childbirth performed by C-section.Future Doctors](http://9gag.com/gag/aYQjqdm)
- - 👉 [In 2003, two men stole a parked Boeing 727 from Luanda International Airport and flew away into the sunset. They&#39;ve never been found.](http://9gag.com/gag/aBy9GLD)<!-- MEMES:END -->
+ - 😝 [Cleaning hair out of hair clippers.](http://9gag.com/gag/ae9KV4Q)
+ - 😝 [Mommy](http://9gag.com/gag/a87d0Mp)
+ - 💣 [My hometown](http://9gag.com/gag/avy2Rxd)
+ - 😝 [Tesla Model S Plaid does 328 km/h &lpar;204 mph&rpar; on Autobahn](http://9gag.com/gag/ae9Kx4m)
+ - 👉 [On the run](http://9gag.com/gag/avy2xA5)<!-- MEMES:END -->
 
 ---
 

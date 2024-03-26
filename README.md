@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony plans to add a new opt-in Community Game Help feature on the PS5 later in 2024 to automatically create clips that can help other players complete games &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240326/p17#a240326p17)
+ - [Apple forgot it&#39;s already released iPadOS 17.4.1](https://appleinsider.com/articles/24/03/26/apple-forgot-its-already-released-ipados-1741?utm_medium=rss)
  - [Disney Plus has a new Hulu-ified logo](https://www.theverge.com/2024/3/26/24112300/disney-plus-new-logo-hulu-green-teal)
  - [Run a quad monitor setup with iVANKY&#39;s FusionDock Max 1 for MacBook Pro, the first dock to support four displays](https://appleinsider.com/articles/24/03/26/run-a-quad-monitor-setup-with-ivankys-fusiondock-max-1-for-macbook-pro-the-first-dock-to-support-four-displays?utm_medium=rss)
- - [The BBC has &quot;no plans&quot; to use AI again to promote Doctor Who, after the marketing team used AI &quot;as part of a small trial&quot; to help draft emails and notifications &lpar;Max Goldbart/Deadline&rpar;](http://www.techmeme.com/240326/p16#a240326p16)
- - [The PS5 is getting an automatic game clip feature that helps other players](https://www.theverge.com/2024/3/26/24112309/sony-ps5-community-game-help)
- - [Internal Tesla memo: Elon Musk tells staff to perform a &quot;short test ride&quot; with customers to demonstrate Full Self-Driving, a &quot;hard requirement&quot; from now on &lpar;Edward Ludlow/Bloomberg&rpar;](http://www.techmeme.com/240326/p15#a240326p15)<!-- TECH:END -->
+ - [The BBC has &quot;no plans&quot; to use AI again to promote Doctor Who, after the marketing team used AI &quot;as part of a small trial&quot; to help draft emails and notifications &lpar;Max Goldbart/Deadline&rpar;](http://www.techmeme.com/240326/p16#a240326p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

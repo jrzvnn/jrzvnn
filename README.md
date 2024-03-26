@@ -169,8 +169,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Microsoft adds mouse and keyboard support to select Xbox Cloud Gaming titles for Xbox Insiders, nearly two years after it announced plans to add the feature &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240326/p44#a240326p44)
  - [Mattel’s Lego-like Xbox 360 building set just received its first discount](https://www.theverge.com/2024/3/26/24112854/microsoft-xbox-360-mega-building-set-replica-deal-sale-mattel)
  - [Sources: the SEC is asking tech and telecom companies how they handled the 2020 SolarWinds cyberattack, drawing industry complaints about alleged overreach &lpar;Bloomberg&rpar;](http://www.techmeme.com/240326/p43#a240326p43)
- - [Microsoft’s new era of AI PCs will need a Copilot key, says Intel](https://www.theverge.com/2024/3/26/24112500/microsoft-ai-pc-intel-windows-copilot-key-requirements)
- - [Airtable brings AI summarization to paying users](https://www.theverge.com/2024/3/26/24112632/airtable-generative-ai-productivity-summarization)<!-- TECH:END -->
+ - [&#39;Quiet on Set&#39; Episode 5 Is Coming: Here&#39;s How to Watch From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/quiet-on-set-episode-5-coming-here-where-when-to-watch/#ftag=CAD590a51e)
+ - [Best M3 MacBook Air Deals: Discounts and Trade-In Offers Now Available     - CNET](https://www.cnet.com/deals/best-m3-macbook-air-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

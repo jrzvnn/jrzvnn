@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What would be the world wide effect of this if the rule was universial all over the world? Less conflict or more conflict? Why?](http://9gag.com/gag/a34vye7)
- - 😝 [He was a a good boy.](http://9gag.com/gag/abA3WMB)
- - 💣 [Its show time](http://9gag.com/gag/aXPZ4RD)
- - 😝 [Awesome exhibition](http://9gag.com/gag/apRKxG9)
- - 👉 [Hmmm](http://9gag.com/gag/ajPQL41)<!-- MEMES:END -->
+ - 😝 [One for the military and veterans lol](http://9gag.com/gag/a87dm9e)
+ - 😝 [He didn&#39;t hug,he measured...](http://9gag.com/gag/aRB64GG)
+ - 💣 [The moment she realizes is priceless](http://9gag.com/gag/aE0d6me)
+ - 😝 [Are you faster than me? Are you winning fair and square? That makes you racist. Never relax around the usual suspects.](http://9gag.com/gag/axyE341)
+ - 👉 [27-year-old California man Resendo Tellez arrested for allegedly EATING a severed leg that he took from a pedestrian who was struck by a train. Tellez was seen eating the leg according to a witness and was later booked into jail for removing or mutilating human remains.](http://9gag.com/gag/aPA6mmn)<!-- MEMES:END -->
 
 ---
 

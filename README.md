@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tesla Model S Plaid does 328 km/h &lpar;204 mph&rpar; on Autobahn](http://9gag.com/gag/ae9Kx4m)
  - 😝 [Cleaning hair out of hair clippers.](http://9gag.com/gag/ae9KV4Q)
- - 💣 [For the first time, medical university students were shown a video of childbirth performed by C-section.Future Doctors](http://9gag.com/gag/aYQjqdm)
+ - 😝 [You just know that make the reporters day\u2764\ufe0f](http://9gag.com/gag/adByeBQ)
+ - 💣 [Choose!](http://9gag.com/gag/aKG48w3)
  - 😝 [Bro Just found the Cheat Code](http://9gag.com/gag/a6Zr5ye)
- - 👉 [Bro didn&#39;t even blink `i&#39;m 40 I dont have time for this BS` absolute CHAD.](http://9gag.com/gag/a6Zr5Mm)<!-- MEMES:END -->
+ - 👉 [Bad ending](http://9gag.com/gag/axyEOXL)<!-- MEMES:END -->
 
 ---
 

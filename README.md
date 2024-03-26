@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The moment she realizes is priceless](http://9gag.com/gag/aE0d6me)
- - 😝 [This Horse won the race without its rider.](http://9gag.com/gag/aGyKGO0)
- - 💣 [Real estate agents across the country right now](http://9gag.com/gag/a5Qpz6o)
- - 😝 [Mommy](http://9gag.com/gag/a87d0Mp)
+ - 😝 [Dude! they stole the mountain](http://9gag.com/gag/a34vAp8)
+ - 😝 [Yes](http://9gag.com/gag/aAyBEGp)
+ - 💣 [Are you faster than me? Are you winning fair and square? That makes you racist. Never relax around the usual suspects.](http://9gag.com/gag/axyE341)
+ - 😝 [Bro Just found the Cheat Code](http://9gag.com/gag/a6Zr5ye)
  - 👉 [Luton city council building&#39;s flag turns Palestinian, as the city&#39;s Muslim population growth reaches 40% and it&#39;s about to become Sharia . That&#39;s the first Canary bird to predict the future of Europe](http://9gag.com/gag/ayNE16X)<!-- MEMES:END -->
 
 ---

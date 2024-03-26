@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Robinhood launches Gold Card, a 3% cashback credit card for Robinhood Gold members, eight months after it acquired credit card startup X1 for $95M &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240326/p47#a240326p47)
  - [Intel shares Microsoft&#39;s &quot;AI PC&quot; requirements, such as including a Copilot key, and expands its AI PC acceleration program to help devs and hardware vendors &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240326/p46#a240326p46)
- - [Cheryl Hines’ husband chooses Sergey Brin’s ex-wife as running mate](https://www.theverge.com/2024/3/26/24112972/nicole-shanahan-rfk-jr-vice-president-pick)
- - [Despite a crypto rally, VC funds focused on crypto are struggling to raise money, as limited partners prioritize tangible gains after the 2022 wipeout &lpar;Ryan Weeks/Bloomberg&rpar;](http://www.techmeme.com/240326/p45#a240326p45)
- - [Code hints at custom Apple Maps routes coming in iOS 18](https://appleinsider.com/articles/24/03/26/code-hints-at-custom-apple-maps-routes-coming-in-ios-18?utm_medium=rss)<!-- TECH:END -->
+ - [Next Time You Buy a Tesla, You&#39;ll Be Required to Take a Self-Driving &#39;Test Ride&#39;     - CNET](https://www.cnet.com/roadshow/news/next-time-you-buy-a-tesla-youll-be-required-to-take-a-self-driving-test-ride/#ftag=CAD590a51e)
+ - [Samsung&#39;s Galaxy AI Update for the Galaxy S23, Z Flip 5 and Z Fold 5 Arrives Tomorrow     - CNET](https://www.cnet.com/tech/mobile/samsungs-galaxy-ai-update-for-the-galaxy-s23-z-flip-5-and-z-fold-5-arrives-tomorrow/#ftag=CAD590a51e)
+ - [Best Power Bank for iPhone for 2024     - CNET](https://www.cnet.com/tech/mobile/best-power-bank-for-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

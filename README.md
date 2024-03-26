@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thai ads are always so creat- Wait? Oh, this one is Korean?](http://9gag.com/gag/adByedD)
- - 😝 [Judgment day curiosities](http://9gag.com/gag/aPA6evV)
- - 💣 [Tailor did him dirty](http://9gag.com/gag/ayNER9b)
- - 😝 [For the first time, medical university students were shown a video of childbirth performed by C-section.Future Doctors](http://9gag.com/gag/aYQjqdm)
- - 👉 [Hide the pain Harold Memeland](http://9gag.com/gag/amoqxDV)<!-- MEMES:END -->
+ - 😝 [Tesla Model S Plaid does 328 km/h &lpar;204 mph&rpar; on Autobahn](http://9gag.com/gag/ae9Kx4m)
+ - 😝 [Cleaning hair out of hair clippers.](http://9gag.com/gag/ae9KV4Q)
+ - 💣 [For the first time, medical university students were shown a video of childbirth performed by C-section.Future Doctors](http://9gag.com/gag/aYQjqdm)
+ - 😝 [Bro Just found the Cheat Code](http://9gag.com/gag/a6Zr5ye)
+ - 👉 [Bro didn&#39;t even blink `i&#39;m 40 I dont have time for this BS` absolute CHAD.](http://9gag.com/gag/a6Zr5Mm)<!-- MEMES:END -->
 
 ---
 

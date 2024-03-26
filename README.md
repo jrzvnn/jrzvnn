@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Man who posts videos of himself cleaning graffiti, Upsets activists who says he is `Erasing Black Culture`](http://9gag.com/gag/aBy9VL1)
- - 😝 [Cleaning hair out of hair clippers.](http://9gag.com/gag/ae9KV4Q)
- - 💣 [Amber pls](http://9gag.com/gag/aVvjmKK)
- - 😝 [He was a a good boy.](http://9gag.com/gag/abA3WMB)
- - 👉 [She can&#39;t be real with this](http://9gag.com/gag/aXPZVVD)<!-- MEMES:END -->
+ - 😝 [Trolling Indian scammers](http://9gag.com/gag/aLn6ARW)
+ - 😝 [This Horse won the race without its rider.](http://9gag.com/gag/aGyKGO0)
+ - 💣 [Bro didn&#39;t even blink `i&#39;m 40 I dont have time for this BS` absolute CHAD.](http://9gag.com/gag/a6Zr5Mm)
+ - 😝 [Tesla Model S Plaid does 328 km/h &lpar;204 mph&rpar; on Autobahn](http://9gag.com/gag/ae9Kx4m)
+ - 👉 [Real estate agents across the country right now](http://9gag.com/gag/a5Qpz6o)<!-- MEMES:END -->
 
 ---
 

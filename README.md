@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kevin Systrom says AI news app Artifact will stay online for now due to taking &quot;a lot less to run it than we had imagined&quot;, reversing a February shut down date &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240326/p32#a240326p32)
  - [An interview with Adobe executives about training Firefly on content licensed specifically for AI training, the decision not to scrape the internet, and more &lpar;Melissa Heikkil&amp;auml;/MIT Technology Review&rpar;](http://www.techmeme.com/240326/p31#a240326p31)
  - [Adobe’s new GenStudio platform is an AI factory for advertisers](https://www.theverge.com/2024/3/26/24112533/adobe-summit-genstudio-ai-firefly-marketing-platform)
  - [Wyze’s cheap and questionable security cam levels up with Wi-Fi 6, edge AI, and 2.5K video](https://www.theverge.com/24112530/wyze-cam-v4)
- - [Apple&#39;s removable battery standard could change device charging forever](https://appleinsider.com/articles/24/03/26/apples-removable-battery-standard-could-change-device-charging-forever?utm_medium=rss)
- - [Adobe adds a &quot;structure reference&quot; feature to Firefly AI, letting users upload an image to guide the model about the &quot;arrangement&quot; of the image &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240326/p30#a240326p30)<!-- TECH:END -->
+ - [Apple&#39;s removable battery standard could change device charging forever](https://appleinsider.com/articles/24/03/26/apples-removable-battery-standard-could-change-device-charging-forever?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI releases seven Sora videos from select filmmakers, artists, ad agencies, and musicians; Fairly Trained CEO Ed Newton-Rex calls the move &quot;artistwashing&quot; &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240326/p5#a240326p5)
  - [Memo: Microsoft&#39;s Bing chief Mikhail Parakhin plans to exit his roles and look for a new position, after Microsoft hired Mustafa Suleyman to run Microsoft AI &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/240326/p4#a240326p4)
  - [A look at the underground bitcoin community in Austin, which attracts bitcoiners because of Texas&#39; pro-crypto policies and ecosystem of developers and miners &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/240326/p3#a240326p3)
  - [SSDI Payment for March 2024: You Might Get a Check This Week     - CNET](https://www.cnet.com/personal-finance/ssdi-payment-for-march-2024-you-might-get-a-check-this-week/#ftag=CAD590a51e)
- - [The Mayor of London Enters the Bullshit Cinematic Universe](https://www.wired.com/story/mayor-of-london-sadiq-khan-ulez-conspiracy/)
- - [Uzbek e-commerce, fintech, and food delivery service Uzum raised a $114M Series A in equity and debt at a $1.16B valuation, becoming the country&#39;s first unicorn &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/240326/p2#a240326p2)<!-- TECH:END -->
+ - [The Mayor of London Enters the Bullshit Cinematic Universe](https://www.wired.com/story/mayor-of-london-sadiq-khan-ulez-conspiracy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

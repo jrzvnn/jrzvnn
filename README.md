@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Disney Plus has a new Hulu-ified logo](https://www.theverge.com/2024/3/26/24112300/disney-plus-new-logo-hulu-green-teal)
+ - [Run a quad monitor setup with iVANKY&#39;s FusionDock Max 1 for MacBook Pro, the first dock to support four displays](https://appleinsider.com/articles/24/03/26/run-a-quad-monitor-setup-with-ivankys-fusiondock-max-1-for-macbook-pro-the-first-dock-to-support-four-displays?utm_medium=rss)
  - [The BBC has &quot;no plans&quot; to use AI again to promote Doctor Who, after the marketing team used AI &quot;as part of a small trial&quot; to help draft emails and notifications &lpar;Max Goldbart/Deadline&rpar;](http://www.techmeme.com/240326/p16#a240326p16)
  - [The PS5 is getting an automatic game clip feature that helps other players](https://www.theverge.com/2024/3/26/24112309/sony-ps5-community-game-help)
- - [Internal Tesla memo: Elon Musk tells staff to perform a &quot;short test ride&quot; with customers to demonstrate Full Self-Driving, a &quot;hard requirement&quot; from now on &lpar;Edward Ludlow/Bloomberg&rpar;](http://www.techmeme.com/240326/p15#a240326p15)
- - [Amazon launches same-day prescription medication deliveries in New York City and the greater Los Angeles area, and plans to add 12+ cities by the end of 2024 &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/240326/p14#a240326p14)
- - [Meta&#39;s Oversight Board calls on the company to end its blanket ban on the Arabic word &quot;shaheed&quot;, or &quot;martyr&quot;, after a review found Meta&#39;s approach &quot;overbroad&quot; &lpar;Katie Paul/Reuters&rpar;](http://www.techmeme.com/240326/p13#a240326p13)<!-- TECH:END -->
+ - [Internal Tesla memo: Elon Musk tells staff to perform a &quot;short test ride&quot; with customers to demonstrate Full Self-Driving, a &quot;hard requirement&quot; from now on &lpar;Edward Ludlow/Bloomberg&rpar;](http://www.techmeme.com/240326/p15#a240326p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

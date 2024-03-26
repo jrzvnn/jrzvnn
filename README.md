@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the US FTC is investigating TikTok over allegedly faulty privacy and data security practices, and could bring a lawsuit or settlement within weeks &lpar;Josh Sisco/Politico&rpar;](http://www.techmeme.com/240326/p40#a240326p40)
+ - [Is AI the Future of NPCs?](https://www.wired.com/story/artificial-intelligence-ai-non-player-characters-npcs-future/)
  - [A timeline of EU&#39;s DMA investigations into Apple, Google, and Meta: each have 12 months to fix the issues, before risking fines of up to 10% of global revenue &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/240326/p39#a240326p39)
  - [Ford’s Europe-only Explorer EV gets an estimated 375 miles of range](https://www.theverge.com/2024/3/26/24112744/ford-explorer-ev-all-electric-range-europe)
- - [Some Apple users report being targeted in an &quot;MFA bombing&quot; attack in which their devices are inundated with alerts to approve a password change or login &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/240326/p38#a240326p38)
- - [Best MacBook Deals: Save Up to $300 on MacBook Air and MacBook Pro     - CNET](https://www.cnet.com/deals/best-macbook-deals/#ftag=CAD590a51e)
- - [The Real Reason Why Some Abortion Pill Patients Go to the ER](https://www.wired.com/story/abortion-pill-supreme-court-er-visit-myth-debunk-mifepristone/)<!-- TECH:END -->
+ - [Some Apple users report being targeted in an &quot;MFA bombing&quot; attack in which their devices are inundated with alerts to approve a password change or login &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/240326/p38#a240326p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

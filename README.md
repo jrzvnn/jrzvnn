@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Trolling Indian scammers](http://9gag.com/gag/aLn6ARW)
- - 😝 [Cleaning hair out of hair clippers.](http://9gag.com/gag/ae9KV4Q)
- - 💣 [He was a a good boy.](http://9gag.com/gag/abA3WMB)
+ - 😝 [He didn&#39;t hug,he measured...](http://9gag.com/gag/aRB64GG)
+ - 💣 [Cleaning hair out of hair clippers.](http://9gag.com/gag/ae9KV4Q)
  - 😝 [Scorpion vs. Sub-Zero. When honor and power collide, an ultimate battle between the legendary brothers may be inevitable.](http://9gag.com/gag/aYQjDGO)
- - 👉 [But at whtt cost ?? Sacrificing her own self respect](http://9gag.com/gag/avy2EZO)<!-- MEMES:END -->
+ - 👉 [He was a a good boy.](http://9gag.com/gag/abA3WMB)<!-- MEMES:END -->
 
 ---
 

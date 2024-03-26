@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tesla Model S Plaid does 328 km/h &lpar;204 mph&rpar; on Autobahn](http://9gag.com/gag/ae9Kx4m)
  - 😝 [Luton city council building&#39;s flag turns Palestinian, as the city&#39;s Muslim population growth reaches 40% and it&#39;s about to become Sharia . That&#39;s the first Canary bird to predict the future of Europe](http://9gag.com/gag/ayNE16X)
- - 💣 [You just know that make the reporters day\u2764\ufe0f](http://9gag.com/gag/adByeBQ)
  - 😝 [Bad ending](http://9gag.com/gag/axyEOXL)
- - 👉 [Choose!](http://9gag.com/gag/aKG48w3)<!-- MEMES:END -->
+ - 💣 [Choose!](http://9gag.com/gag/aKG48w3)
+ - 😝 [Real estate agents across the country right now](http://9gag.com/gag/a5Qpz6o)
+ - 👉 [You just know that make the reporters day\u2764\ufe0f](http://9gag.com/gag/adByeBQ)<!-- MEMES:END -->
 
 ---
 

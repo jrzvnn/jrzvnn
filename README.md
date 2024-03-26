@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oops](http://9gag.com/gag/aBy9LA1)
- - 😝 [Trippy movie, has some backrooms feel](http://9gag.com/gag/aD2RnoB)
- - 💣 [I know a guy who sell cheap tyres.](http://9gag.com/gag/azx7dEZ)
- - 😝 [But at whtt cost ?? Sacrificing her own self respect](http://9gag.com/gag/avy2EZO)
- - 👉 [Happy 50th birthday to a girl, who one time at band camp...](http://9gag.com/gag/aRB6ZVy)<!-- MEMES:END -->
+ - 😝 [The moment she realizes is priceless](http://9gag.com/gag/aE0d6me)
+ - 😝 [Insta](http://9gag.com/gag/aAyB60d)
+ - 💣 [On the run](http://9gag.com/gag/avy2xA5)
+ - 😝 [Listen to Michael Jackson&#39;s real voice with no autotune](http://9gag.com/gag/aoym390)
+ - 👉 [She can&#39;t be real with this](http://9gag.com/gag/aXPZVVD)<!-- MEMES:END -->
 
 ---
 

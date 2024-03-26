@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese government data: iPhone shipments in China fell ~33% YoY to ~2.4M units in February 2024, after dropping 39% YoY to ~5.5M units in January 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240326/p18#a240326p18)
+ - [AI headphones and clicky phone keys](https://www.theverge.com/24111796/anc-headphones-noise-canceling-clicks-keyboard-iphone-vergecast-podcast)
+ - [Apple and China&#39;s Baidu have not agreed to an AI deal](https://appleinsider.com/articles/24/03/26/apple-and-chinas-baidu-have-not-agreed-to-an-ai-deal?utm_medium=rss)
  - [Sony plans to add a new opt-in Community Game Help feature on the PS5 later in 2024 to automatically create clips that can help other players complete games &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240326/p17#a240326p17)
- - [Apple forgot it&#39;s already released iPadOS 17.4.1](https://appleinsider.com/articles/24/03/26/apple-forgot-its-already-released-ipados-1741?utm_medium=rss)
- - [Disney Plus has a new Hulu-ified logo](https://www.theverge.com/2024/3/26/24112300/disney-plus-new-logo-hulu-green-teal)
- - [Run a quad monitor setup with iVANKY&#39;s FusionDock Max 1 for MacBook Pro, the first dock to support four displays](https://appleinsider.com/articles/24/03/26/run-a-quad-monitor-setup-with-ivankys-fusiondock-max-1-for-macbook-pro-the-first-dock-to-support-four-displays?utm_medium=rss)
- - [The BBC has &quot;no plans&quot; to use AI again to promote Doctor Who, after the marketing team used AI &quot;as part of a small trial&quot; to help draft emails and notifications &lpar;Max Goldbart/Deadline&rpar;](http://www.techmeme.com/240326/p16#a240326p16)<!-- TECH:END -->
+ - [Apple forgot it&#39;s already released iPadOS 17.4.1](https://appleinsider.com/articles/24/03/26/apple-forgot-its-already-released-ipados-1741?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

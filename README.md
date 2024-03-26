@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the underground bitcoin community in Austin, which attracts bitcoiners because of Texas&#39; pro-crypto policies and ecosystem of developers and miners &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/240326/p3#a240326p3)
  - [SSDI Payment for March 2024: You Might Get a Check This Week     - CNET](https://www.cnet.com/personal-finance/ssdi-payment-for-march-2024-you-might-get-a-check-this-week/#ftag=CAD590a51e)
  - [The Mayor of London Enters the Bullshit Cinematic Universe](https://www.wired.com/story/mayor-of-london-sadiq-khan-ulez-conspiracy/)
  - [Uzbek e-commerce, fintech, and food delivery service Uzum raised a $114M Series A in equity and debt at a $1.16B valuation, becoming the country&#39;s first unicorn &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/240326/p2#a240326p2)
- - [Best Buy slashes $400 off Apple&#39;s M2 MacBook Air](https://appleinsider.com/articles/24/02/26/best-buy-launches-record-breaking-400-macbook-air-discount?utm_medium=rss)
- - [Why Solar Panels Can Add Thousands to Your Home&#39;s Value     - CNET](https://www.cnet.com/home/energy-and-utilities/how-solar-panels-can-add-thousands-to-your-homes-value/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Buy slashes $400 off Apple&#39;s M2 MacBook Air](https://appleinsider.com/articles/24/02/26/best-buy-launches-record-breaking-400-macbook-air-discount?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

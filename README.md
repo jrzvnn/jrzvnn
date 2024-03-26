@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s iOS 18 Update Could Be More Exciting Than the iPhone 16     - CNET](https://www.cnet.com/tech/mobile/why-ios-18-could-be-a-bigger-deal-than-the-iphone-16/#ftag=CAD590a51e)
+ - [Most Airlines Still Don&#39;t Let Kids Sit With Their Parents for Free     - CNET](https://www.cnet.com/personal-finance/most-airlines-still-dont-let-kids-sit-with-their-parents-for-free/#ftag=CAD590a51e)
+ - [Amazon Layaway: Don&#39;t Forget About the Items You Reserved During the Big Spring Sale     - CNET](https://www.cnet.com/tech/mobile/amazon-layaway-dont-forget-about-the-items-you-reserved-during-the-big-spring-sale/#ftag=CAD590a51e)
  - [A look at MatX, which was founded by ex-Google engineers, has raised $25M, and hopes to design chips that are 10x faster than Nvidia&#39;s GPUs at training LLMs &lpar;Ashlee Vance/Bloomberg&rpar;](http://www.techmeme.com/240326/p36#a240326p36)
- - [Apple AI, visionOS 2.0, iOS 18: What to expect from Apple during WWDC 2024 on June 10](https://appleinsider.com/articles/24/03/11/mac-studio-visionos-20-ios-18-apple-ai-what-to-expect-from-apple-for-wwdc-2024?utm_medium=rss)
- - [The ad-free Kindle Kids is on sale for the first time since Black Friday](https://www.theverge.com/2024/3/26/24111659/kindle-kids-microsoft-xbox-series-x-princess-peach-showtime-deal-sale)
- - [Xbox Cloud Gaming now has mouse and keyboard support in select games](https://www.theverge.com/2024/3/26/24112659/xbox-cloud-gaming-mouse-and-keyboard-support-preview)
- - [Why the Baltimore Bridge Collapsed So Quickly](https://www.wired.com/story/baltimore-francis-scott-key-bridge-collapse-dali-boat-collision-emergency-mass-casualty-event/)<!-- TECH:END -->
+ - [Bose Headphone and Earbud Prices Slashed Up to 29%     - CNET](https://www.cnet.com/deals/bose-headphone-and-earbud-prices-slashed-up-to-29/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

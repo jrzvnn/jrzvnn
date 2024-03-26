@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump Media &amp; Technology Group shares jumped up to 58% to hit $78.80 on its trading debut before the Nasdaq briefly halted trading, following the DWAC merger &lpar;Bailey Lipschultz/Bloomberg&rpar;](http://www.techmeme.com/240326/p20#a240326p20)
+ - [Apple Vision Pro China expansion will get a giant boost from Tencent](https://appleinsider.com/articles/24/03/26/apple-vision-pro-china-expansion-will-get-a-giant-boost-from-tencent?utm_medium=rss)
  - [Source: Tencent agrees to release some of its most important apps on the Apple Vision Pro &lpar;Wayne Ma/The Information&rpar;](http://www.techmeme.com/240326/p19#a240326p19)
  - [As the Snoopy Omega Lands, Cartoon Luxury Goes Boom](https://www.wired.com/story/cartoon-watches-go-boom/)
- - [How Kate Middleton Conspiracies Consumed the Internet](https://www.wired.com/story/how-kate-middleton-conspiracies-spread-online/)
- - [Chinese government data: iPhone shipments in China fell ~33% YoY to ~2.4M units in February 2024, after dropping 39% YoY to ~5.5M units in January 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240326/p18#a240326p18)
- - [AI headphones and clicky phone keys](https://www.theverge.com/24111796/anc-headphones-noise-canceling-clicks-keyboard-iphone-vergecast-podcast)<!-- TECH:END -->
+ - [How Kate Middleton Conspiracies Consumed the Internet](https://www.wired.com/story/how-kate-middleton-conspiracies-spread-online/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This Horse won the race without its rider.](http://9gag.com/gag/aGyKGO0)
- - 😝 [But at whtt cost ?? Sacrificing her own self respect](http://9gag.com/gag/avy2EZO)
- - 💣 [The Girl From Work...](http://9gag.com/gag/aQz6mDd)
- - 😝 [Real estate agents across the country right now](http://9gag.com/gag/a5Qpz6o)
- - 👉 [Bad ending](http://9gag.com/gag/axyEOXL)<!-- MEMES:END -->
+ - 😝 [Tesla Model S Plaid does 328 km/h &lpar;204 mph&rpar; on Autobahn](http://9gag.com/gag/ae9Kx4m)
+ - 😝 [Luton city council building&#39;s flag turns Palestinian, as the city&#39;s Muslim population growth reaches 40% and it&#39;s about to become Sharia . That&#39;s the first Canary bird to predict the future of Europe](http://9gag.com/gag/ayNE16X)
+ - 💣 [You just know that make the reporters day\u2764\ufe0f](http://9gag.com/gag/adByeBQ)
+ - 😝 [Bad ending](http://9gag.com/gag/axyEOXL)
+ - 👉 [Choose!](http://9gag.com/gag/aKG48w3)<!-- MEMES:END -->
 
 ---
 

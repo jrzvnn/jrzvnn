@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Its show time](http://9gag.com/gag/aXPZ4RD)
- - 😝 [Hmmm](http://9gag.com/gag/ajPQL41)
- - 💣 [Happened for the first time in my Life\u2026](http://9gag.com/gag/aoym4Yg)
- - 😝 [Worst roommate ever](http://9gag.com/gag/amoqxoV)
- - 👉 [Awesome exhibition](http://9gag.com/gag/apRKxG9)<!-- MEMES:END -->
+ - 😝 [The moment she realizes is priceless](http://9gag.com/gag/aE0d6me)
+ - 😝 [This Horse won the race without its rider.](http://9gag.com/gag/aGyKGO0)
+ - 💣 [Real estate agents across the country right now](http://9gag.com/gag/a5Qpz6o)
+ - 😝 [Mommy](http://9gag.com/gag/a87d0Mp)
+ - 👉 [Luton city council building&#39;s flag turns Palestinian, as the city&#39;s Muslim population growth reaches 40% and it&#39;s about to become Sharia . That&#39;s the first Canary bird to predict the future of Europe](http://9gag.com/gag/ayNE16X)<!-- MEMES:END -->
 
 ---
 

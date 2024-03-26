@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The ad-free Kindle Kids is on sale for the first time since Black Friday](https://www.theverge.com/2024/3/26/24111659/kindle-kids-microsoft-xbox-series-x-princess-peach-showtime-deal-sale)
  - [Xbox Cloud Gaming now has mouse and keyboard support in select games](https://www.theverge.com/2024/3/26/24112659/xbox-cloud-gaming-mouse-and-keyboard-support-preview)
  - [Why the Baltimore Bridge Collapsed so Quickly](https://www.wired.com/story/baltimore-francis-scott-key-bridge-collapse-dali-boat-collision-emergency-mass-casualty-event/)
  - [Adobe announces Custom Models, to let businesses customize Firefly models, and Firefly Services, a set of 20+ generative and creative APIs, tools, and services &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240326/p35#a240326p35)
- - [Sources: Stability AI was in a &quot;death spiral&quot; prior to Mostaque&#39;s resignation, due to talent departures, mismanagement, legal troubles, and dwindling resources &lpar;Bloomberg&rpar;](http://www.techmeme.com/240326/p34#a240326p34)
- - [8 Amazon Prime Membership Perks You Don&#39;t Want to Forget About     - CNET](https://www.cnet.com/deals/8-amazon-prime-membership-perks-you-dont-want-to-forget-about/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Stability AI was in a &quot;death spiral&quot; prior to Mostaque&#39;s resignation, due to talent departures, mismanagement, legal troubles, and dwindling resources &lpar;Bloomberg&rpar;](http://www.techmeme.com/240326/p34#a240326p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

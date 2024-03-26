@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I know a guy who sell cheap tyres.](http://9gag.com/gag/azx7dEZ)
- - 😝 [Mommy](http://9gag.com/gag/a87d0Mp)
+ - 😝 [He didn&#39;t hug,he measured...](http://9gag.com/gag/aRB64GG)
+ - 😝 [Bro didn&#39;t even blink `i&#39;m 40 I dont have time for this BS` absolute CHAD.](http://9gag.com/gag/a6Zr5Mm)
  - 💣 [Scorpion vs. Sub-Zero. When honor and power collide, an ultimate battle between the legendary brothers may be inevitable.](http://9gag.com/gag/aYQjDGO)
- - 😝 [Cleaning hair out of hair clippers.](http://9gag.com/gag/ae9KV4Q)
- - 👉 [Insta](http://9gag.com/gag/aAyB60d)<!-- MEMES:END -->
+ - 😝 [Homes in Denmark](http://9gag.com/gag/aNDm9YK)
+ - 👉 [A squirrel storing nuts in a lamp post](http://9gag.com/gag/awyN3mQ)<!-- MEMES:END -->
 
 ---
 

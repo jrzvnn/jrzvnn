@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Ripple&#39;s Chris Larsen became a gravitational force in SF politics, donating millions to local causes, as he helps Mayor London Breed&#39;s reelection campaign &lpar;Josh Koehn/The San Francisco Standard&rpar;](http://www.techmeme.com/240325/p29#a240325p29)
+ - [Best Peloton Alternatives for 2024     - CNET](https://www.cnet.com/health/fitness/best-peloton-alternative/#ftag=CAD590a51e)
+ - [Best Dating Apps for 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-online-dating-apps/#ftag=CAD590a51e)
  - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [Nissan announces plans to make 16 new electrified vehicles by 2026](https://www.theverge.com/2024/3/25/24111963/nissan-ev-plan-2026-solid-state-batteries)
- - [What to Know About Common Allergy Symptoms and What to Do About Them     - CNET](https://www.cnet.com/health/what-to-know-about-common-allergy-symptoms-and-what-to-do-about-them/#ftag=CAD590a51e)
- - [Telegram rolls out its Peer-to-Peer Login Program, giving some Android users a Premium sub for volunteering their phone numbers to relay SMS OTPs to other users &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240325/p28#a240325p28)
- - [Wireless Color inkjet-printer     - CNET](https://www.cnet.com/tech/computing/wireless-color-inkjet-printer-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nissan announces plans to make 16 new electrified vehicles by 2026](https://www.theverge.com/2024/3/25/24111963/nissan-ev-plan-2026-solid-state-batteries)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

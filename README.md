@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Canva acquires Affinity to fill the Adobe-sized holes in its design suite](https://www.theverge.com/2024/3/26/24112277/canva-affinity-acquisition-design-software-suite-adobe-rival)
  - [The US OFAC sanctions 13 entities, including Netex24, and two individuals for aiding Russian nationals&#39; potential sanctions evasion by building crypto services &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/240326/p8#a240326p8)
  - [Meta started rolling out its new opt-out political content settings on Instagram and Threads last week to &quot;limit political content from people you don&#39;t follow&quot; &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240326/p7#a240326p7)
  - [Blackmagic Cinema Camera 6K Review: Finally Full Frame](https://www.wired.com/review/blackmagic-cinema-camera-6k/)
- - [An interview with Phil Spencer on bringing Xbox to handhelds via hardware or software, how Valve, Lenovo, and Asus &quot;innovated in a new form factor&quot;, and more &lpar;Chris Plante/Polygon&rpar;](http://www.techmeme.com/240326/p6#a240326p6)
- - [OpenAI releases seven Sora videos from select filmmakers, artists, ad agencies, and musicians; Fairly Trained CEO Ed Newton-Rex calls the move &quot;artistwashing&quot; &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240326/p5#a240326p5)<!-- TECH:END -->
+ - [An interview with Phil Spencer on bringing Xbox to handhelds via hardware or software, how Valve, Lenovo, and Asus &quot;innovated in a new form factor&quot;, and more &lpar;Chris Plante/Polygon&rpar;](http://www.techmeme.com/240326/p6#a240326p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

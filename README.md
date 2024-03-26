@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He didn&#39;t hug,he measured...](http://9gag.com/gag/aRB64GG)
- - 😝 [This Horse won the race without its rider.](http://9gag.com/gag/aGyKGO0)
- - 💣 [But at whtt cost ?? Sacrificing her own self respect](http://9gag.com/gag/avy2EZO)
- - 😝 [Cleaning hair out of hair clippers.](http://9gag.com/gag/ae9KV4Q)
- - 👉 [Lol comment caught me off guard](http://9gag.com/gag/aNDmBOr)<!-- MEMES:END -->
+ - 😝 [These guys can take a joke](http://9gag.com/gag/amoqxPX)
+ - 😝 [Worst roommate ever](http://9gag.com/gag/amoqxoV)
+ - 💣 [Awesome exhibition](http://9gag.com/gag/apRKxG9)
+ - 😝 [Bro didn&#39;t even blink `i&#39;m 40 I dont have time for this BS` absolute CHAD.](http://9gag.com/gag/a6Zr5Mm)
+ - 👉 [Amber pls](http://9gag.com/gag/aVvjmKK)<!-- MEMES:END -->
 
 ---
 

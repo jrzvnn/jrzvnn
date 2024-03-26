@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hmmm I know](http://9gag.com/gag/aoymLYm)
- - 😝 [Hide the pain Harold Memeland](http://9gag.com/gag/amoqxDV)
- - 💣 [A training ground in China&#39;s Inner Mongolia is a replica of the road network near Taiwan&#39;s Presidential Palace.](http://9gag.com/gag/aRB62eA)
- - 😝 [15 years?](http://9gag.com/gag/awyNLZD)
- - 👉 [A little costly mistake!](http://9gag.com/gag/a7ov2bw)<!-- MEMES:END -->
+ - 😝 [Bro Just found the Cheat Code](http://9gag.com/gag/a6Zr5ye)
+ - 😝 [Luton city council building&#39;s flag turns Palestinian, as the city&#39;s Muslim population growth reaches 40% and it&#39;s about to become Sharia . That&#39;s the first Canary bird to predict the future of Europe](http://9gag.com/gag/ayNE16X)
+ - 💣 [Real estate agents across the country right now](http://9gag.com/gag/a5Qpz6o)
+ - 😝 [Tesla Model S Plaid does 328 km/h &lpar;204 mph&rpar; on Autobahn](http://9gag.com/gag/ae9Kx4m)
+ - 👉 [You just know that make the reporters day\u2764\ufe0f](http://9gag.com/gag/adByeBQ)<!-- MEMES:END -->
 
 ---
 

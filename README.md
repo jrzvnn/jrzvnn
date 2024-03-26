@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cleaning hair out of hair clippers.](http://9gag.com/gag/ae9KV4Q)
- - 😝 [Mommy](http://9gag.com/gag/a87d0Mp)
- - 💣 [My hometown](http://9gag.com/gag/avy2Rxd)
- - 😝 [Tesla Model S Plaid does 328 km/h &lpar;204 mph&rpar; on Autobahn](http://9gag.com/gag/ae9Kx4m)
- - 👉 [On the run](http://9gag.com/gag/avy2xA5)<!-- MEMES:END -->
+ - 😝 [Difference between parenting a son and a daughter \ud83d\ude02](http://9gag.com/gag/aO8oPjR)
+ - 😝 [Hmmm I know](http://9gag.com/gag/aoymLYm)
+ - 💣 [15 years?](http://9gag.com/gag/awyNLZD)
+ - 😝 [A little costly mistake!](http://9gag.com/gag/a7ov2bw)
+ - 👉 [Thai ads are always so creat- Wait? Oh, this one is Korean?](http://9gag.com/gag/adByedD)<!-- MEMES:END -->
 
 ---
 

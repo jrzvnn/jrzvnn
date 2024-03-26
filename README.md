@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon launches same-day prescription medication deliveries in New York City and the greater Los Angeles area, and plans to add 12+ cities by the end of 2024 &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/240326/p14#a240326p14)
+ - [Meta&#39;s Oversight Board calls on the company to end its blanket ban on the Arabic word &quot;shaheed&quot;, or &quot;martyr&quot;, after a review found Meta&#39;s approach &quot;overbroad&quot; &lpar;Katie Paul/Reuters&rpar;](http://www.techmeme.com/240326/p13#a240326p13)
+ - [Here’s why AI search engines really can’t kill Google](https://www.theverge.com/24111326/ai-search-perplexity-copilot-you-google-review)
  - [iPhone 16 Pro Capture Button rumors boosted by accessory leak](https://appleinsider.com/articles/24/03/26/iphone-16-pro-capture-button-rumors-boosted-by-accessory-leak?utm_medium=rss)
- - [Filing: Alibaba calls off a Hong Kong IPO for its Cainiao logistics arm, and now plans to buy out all remaining stock held by investors and employees for $3.75B &lpar;Pei Li/Bloomberg&rpar;](http://www.techmeme.com/240326/p12#a240326p12)
- - [Canva acquires the Affinity creative suite, popular with Mac users; COO Cliff Obrecht says the cash-and-stock deal is valued at &quot;several hundred million pounds&quot; &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/240326/p11#a240326p11)
- - [Dive Into The World of K-Dramas With These 25 Shows on Netflix     - CNET](https://www.cnet.com/tech/services-and-software/best-k-dramas-on-netflix-now/#ftag=CAD590a51e)
- - [Dell Inspiron 14 Plus 7440 Review: Long-Running, All-Metal Mainstream Laptop     - CNET](https://www.cnet.com/tech/computing/dell-inspiron-14-plus-7440-review-long-running-all-metal-mainstream-laptop/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Filing: Alibaba calls off a Hong Kong IPO for its Cainiao logistics arm, and now plans to buy out all remaining stock held by investors and employees for $3.75B &lpar;Pei Li/Bloomberg&rpar;](http://www.techmeme.com/240326/p12#a240326p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

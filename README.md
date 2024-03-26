@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with Phil Spencer on bringing Xbox to handhelds via hardware or software, how Valve, Lenovo, and Asus &quot;innovated in a new form factor&quot;, and more &lpar;Chris Plante/Polygon&rpar;](http://www.techmeme.com/240326/p6#a240326p6)
  - [OpenAI releases seven Sora videos from select filmmakers, artists, ad agencies, and musicians; Fairly Trained CEO Ed Newton-Rex calls the move &quot;artistwashing&quot; &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240326/p5#a240326p5)
  - [Memo: Microsoft&#39;s Bing chief Mikhail Parakhin plans to exit his roles and look for a new position, after Microsoft hired Mustafa Suleyman to run Microsoft AI &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/240326/p4#a240326p4)
  - [A look at the underground bitcoin community in Austin, which attracts bitcoiners because of Texas&#39; pro-crypto policies and ecosystem of developers and miners &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/240326/p3#a240326p3)
- - [SSDI Payment for March 2024: You Might Get a Check This Week     - CNET](https://www.cnet.com/personal-finance/ssdi-payment-for-march-2024-you-might-get-a-check-this-week/#ftag=CAD590a51e)
- - [The Mayor of London Enters the Bullshit Cinematic Universe](https://www.wired.com/story/mayor-of-london-sadiq-khan-ulez-conspiracy/)<!-- TECH:END -->
+ - [SSDI Payment for March 2024: You Might Get a Check This Week     - CNET](https://www.cnet.com/personal-finance/ssdi-payment-for-march-2024-you-might-get-a-check-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

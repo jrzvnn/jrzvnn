@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft adds mouse and keyboard support to select Xbox Cloud Gaming titles for Xbox Insiders, nearly two years after it announced plans to add the feature &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240326/p44#a240326p44)
  - [Mattel’s Lego-like Xbox 360 building set just received its first discount](https://www.theverge.com/2024/3/26/24112854/microsoft-xbox-360-mega-building-set-replica-deal-sale-mattel)
  - [Sources: the SEC is asking tech and telecom companies how they handled the 2020 SolarWinds cyberattack, drawing industry complaints about alleged overreach &lpar;Bloomberg&rpar;](http://www.techmeme.com/240326/p43#a240326p43)
  - [Microsoft’s new era of AI PCs will need a Copilot key, says Intel](https://www.theverge.com/2024/3/26/24112500/microsoft-ai-pc-intel-windows-copilot-key-requirements)
- - [Airtable brings AI summarization to paying users](https://www.theverge.com/2024/3/26/24112632/airtable-generative-ai-productivity-summarization)
- - [The EU publishes draft election security guidelines aimed at platforms with 45M+ regional MAUs that are regulated under the DSA, ahead of elections in June &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240326/p42#a240326p42)<!-- TECH:END -->
+ - [Airtable brings AI summarization to paying users](https://www.theverge.com/2024/3/26/24112632/airtable-generative-ai-productivity-summarization)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

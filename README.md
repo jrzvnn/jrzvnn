@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Despite a crypto rally, VC funds focused on crypto are struggling to raise money, as limited partners prioritize tangible gains after the 2022 wipeout &lpar;Ryan Weeks/Bloomberg&rpar;](http://www.techmeme.com/240326/p45#a240326p45)
  - [Code hints at custom Apple Maps routes coming in iOS 18](https://appleinsider.com/articles/24/03/26/code-hints-at-custom-apple-maps-routes-coming-in-ios-18?utm_medium=rss)
  - [Microsoft adds mouse and keyboard support to select Xbox Cloud Gaming titles for Xbox Insiders, nearly two years after it announced plans to add the feature &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240326/p44#a240326p44)
  - [Mattel’s Lego-like Xbox 360 building set just received its first discount](https://www.theverge.com/2024/3/26/24112854/microsoft-xbox-360-mega-building-set-replica-deal-sale-mattel)
- - [Sources: the SEC is asking tech and telecom companies how they handled the 2020 SolarWinds cyberattack, drawing industry complaints about alleged overreach &lpar;Bloomberg&rpar;](http://www.techmeme.com/240326/p43#a240326p43)
- - [&#39;Quiet on Set&#39; Episode 5 Is Coming: Here&#39;s How to Watch From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/quiet-on-set-episode-5-coming-here-where-when-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: the SEC is asking tech and telecom companies how they handled the 2020 SolarWinds cyberattack, drawing industry complaints about alleged overreach &lpar;Bloomberg&rpar;](http://www.techmeme.com/240326/p43#a240326p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

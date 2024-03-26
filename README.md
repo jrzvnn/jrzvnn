@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft’s new era of AI PCs will need a Copilot key, says Intel](https://www.theverge.com/2024/3/26/24112500/microsoft-ai-pc-intel-windows-copilot-key-requirements)
+ - [Airtable brings AI summarization to paying users](https://www.theverge.com/2024/3/26/24112632/airtable-generative-ai-productivity-summarization)
  - [The EU publishes draft election security guidelines aimed at platforms with 45M+ regional MAUs that are regulated under the DSA, ahead of elections in June &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240326/p42#a240326p42)
  - [CNET&#39;s Exclusive Discount Will Save You 30% on Speck Cases     - CNET](https://www.cnet.com/deals/cnets-exclusive-discount-will-save-you-30-on-speck-cases/#ftag=CAD590a51e)
- - [Apple has brought its WWDC sessions to YouTube](https://appleinsider.com/articles/24/03/26/apple-has-brought-its-wwdc-sessions-to-youtube?utm_medium=rss)
- - [How the US is using wire fraud laws to prosecute crypto crimes, such as with SBF, while the debate over whether crypto tokens are securities plays out in court &lpar;Bloomberg&rpar;](http://www.techmeme.com/240326/p41#a240326p41)
- - [Why Our Gadgets Aren&#39;t Getting Recycled Enough, and How You Can Help     - CNET](https://www.cnet.com/tech/mobile/why-our-gadgets-arent-getting-recycled-enough-and-how-you-can-help/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple has brought its WWDC sessions to YouTube](https://appleinsider.com/articles/24/03/26/apple-has-brought-its-wwdc-sessions-to-youtube?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

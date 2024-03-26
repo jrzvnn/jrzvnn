@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some Apple users report being targeted in an &quot;MFA bombing&quot; attack in which their devices are inundated with alerts to approve a password change or login &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/240326/p38#a240326p38)
+ - [The Real Reason Why Some Abortion Pill Patients Go to the ER](https://www.wired.com/story/abortion-pill-supreme-court-er-visit-myth-debunk-mifepristone/)
  - [Audible and Amazon MGM partner to develop  more TV series based on podcasts](https://www.theverge.com/2024/3/26/24112672/audible-amazon-mgm-developing-podcast-tv-shows)
- - [RFK Jr. Announces VP Pick Is Tech Entrepreneur Who Has Given His Campaign a Lot of Money](https://www.wired.com/story/rfk-jr-vp-pick-nicole-shanahan/)
- - [Apple may not release its own generative chatbot in iOS 18](https://appleinsider.com/articles/24/03/26/apple-may-not-release-its-own-generative-chatbot-in-ios-18?utm_medium=rss)
- - [US investors, like General Atlantic and Sequoia, are facing increased pressure from state and federal lawmakers about their investments in Chinese companies &lpar;Lauren Hirsch/New York Times&rpar;](http://www.techmeme.com/240326/p37#a240326p37)
- - [Peacock’s next exclusive NFL stream is in September](https://www.theverge.com/2024/3/26/24112670/peacock-exclusive-nfl-stream-brazil-september)<!-- TECH:END -->
+ - [RFK Jr. Announces VP Pick Is Tech Entrepreneur Nicole Shanahan](https://www.wired.com/story/rfk-jr-vp-pick-nicole-shanahan/)
+ - [Apple may not release its own generative chatbot in iOS 18](https://appleinsider.com/articles/24/03/26/apple-may-not-release-its-own-generative-chatbot-in-ios-18?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

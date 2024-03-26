@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When astronauts return to Earth, they often faint or simply forget that gravity exists.](http://9gag.com/gag/azx7GWz)
- - 😝 [Dude! they stole the mountain](http://9gag.com/gag/a34vAp8)
- - 💣 [The moment she realizes is priceless](http://9gag.com/gag/aE0d6me)
- - 😝 [Lol comment caught me off guard](http://9gag.com/gag/aNDmBOr)
- - 👉 [Bro Just found the Cheat Code](http://9gag.com/gag/a6Zr5ye)<!-- MEMES:END -->
+ - 😝 [He didn&#39;t hug,he measured...](http://9gag.com/gag/aRB64GG)
+ - 😝 [This Horse won the race without its rider.](http://9gag.com/gag/aGyKGO0)
+ - 💣 [But at whtt cost ?? Sacrificing her own self respect](http://9gag.com/gag/avy2EZO)
+ - 😝 [Cleaning hair out of hair clippers.](http://9gag.com/gag/ae9KV4Q)
+ - 👉 [Lol comment caught me off guard](http://9gag.com/gag/aNDmBOr)<!-- MEMES:END -->
 
 ---
 

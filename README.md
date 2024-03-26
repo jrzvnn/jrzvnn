@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She can&#39;t be real with this](http://9gag.com/gag/aXPZVVD)
- - 😝 [Choose!](http://9gag.com/gag/aKG48w3)
- - 💣 [The moment she realizes is priceless](http://9gag.com/gag/aE0d6me)
- - 😝 [Bro didn&#39;t even blink `i&#39;m 40 I dont have time for this BS` absolute CHAD.](http://9gag.com/gag/a6Zr5Mm)
- - 👉 [Lol comment caught me off guard](http://9gag.com/gag/aNDmBOr)<!-- MEMES:END -->
+ - 😝 [Tesla Model S Plaid does 328 km/h &lpar;204 mph&rpar; on Autobahn](http://9gag.com/gag/ae9Kx4m)
+ - 😝 [Bro Just found the Cheat Code](http://9gag.com/gag/a6Zr5ye)
+ - 💣 [She can&#39;t be real with this](http://9gag.com/gag/aXPZVVD)
+ - 😝 [Lol comment caught me off guard](http://9gag.com/gag/aNDmBOr)
+ - 👉 [This Horse won the race without its rider.](http://9gag.com/gag/aGyKGO0)<!-- MEMES:END -->
 
 ---
 

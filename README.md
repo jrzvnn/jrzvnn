@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
  - [Nissan announces plans to make 16 new electrified vehicles by 2026](https://www.theverge.com/2024/3/25/24111963/nissan-ev-plan-2026-solid-state-batteries)
+ - [What to Know About Common Allergy Symptoms and What to Do About Them     - CNET](https://www.cnet.com/health/what-to-know-about-common-allergy-symptoms-and-what-to-do-about-them/#ftag=CAD590a51e)
  - [Telegram rolls out its Peer-to-Peer Login Program, giving some Android users a Premium sub for volunteering their phone numbers to relay SMS OTPs to other users &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240325/p28#a240325p28)
- - [Florida Governor Signs Bill Banning Kids Under 14 From Having Social Media Accounts     - CNET](https://www.cnet.com/tech/florida-governor-signs-bill-banning-kids-under-14-from-having-social-media-accounts/#ftag=CAD590a51e)
- - [Memo: Microsoft names Pavan Davuluri as its Windows and Surface chief; Microsoft had split the Windows and Surface groups after Panos Panay left in Sept. 2023 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240325/p27#a240325p27)
- - [Best Apple Watch Deals: Direct Discounts and Trade-In Value During Amazon&#39;s Big Spring Sale     - CNET](https://www.cnet.com/deals/best-apple-watch-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Wireless Color inkjet-printer     - CNET](https://www.cnet.com/tech/computing/wireless-color-inkjet-printer-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Man who posts videos of himself cleaning graffiti, Upsets activists who says he is `Erasing Black Culture`](http://9gag.com/gag/aBy9VL1)
- - 😝 [This Horse won the race without its rider.](http://9gag.com/gag/aGyKGO0)
- - 💣 [Mondays got me like](http://9gag.com/gag/aNDmVEA)
- - 😝 [Tom Cruise at 61 runs on the set of Mission Impossible 8](http://9gag.com/gag/aLn6A8V)
- - 👉 [Luton city council building&#39;s flag turns Palestinian, as the city&#39;s Muslim population growth reaches 40% and it&#39;s about to become Sharia . That&#39;s the first Canary bird to predict the future of Europe](http://9gag.com/gag/ayNE16X)<!-- MEMES:END -->
+ - 😝 [On the run](http://9gag.com/gag/avy2xA5)
+ - 😝 [Mondays got me like](http://9gag.com/gag/aNDmVEA)
+ - 💣 [Tesla Model S Plaid does 328 km/h &lpar;204 mph&rpar; on Autobahn](http://9gag.com/gag/ae9Kx4m)
+ - 😝 [Mommy](http://9gag.com/gag/a87d0Mp)
+ - 👉 [Her face when dude tells her to define it without saying the word Woman lmao.](http://9gag.com/gag/aW4Bb3n)<!-- MEMES:END -->
 
 ---
 

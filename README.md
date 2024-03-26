@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trolling Indian scammers](http://9gag.com/gag/aLn6ARW)
  - 😝 [This Horse won the race without its rider.](http://9gag.com/gag/aGyKGO0)
- - 💣 [Bro didn&#39;t even blink `i&#39;m 40 I dont have time for this BS` absolute CHAD.](http://9gag.com/gag/a6Zr5Mm)
- - 😝 [Tesla Model S Plaid does 328 km/h &lpar;204 mph&rpar; on Autobahn](http://9gag.com/gag/ae9Kx4m)
- - 👉 [Real estate agents across the country right now](http://9gag.com/gag/a5Qpz6o)<!-- MEMES:END -->
+ - 😝 [But at whtt cost ?? Sacrificing her own self respect](http://9gag.com/gag/avy2EZO)
+ - 💣 [The Girl From Work...](http://9gag.com/gag/aQz6mDd)
+ - 😝 [Real estate agents across the country right now](http://9gag.com/gag/a5Qpz6o)
+ - 👉 [Bad ending](http://9gag.com/gag/axyEOXL)<!-- MEMES:END -->
 
 ---
 

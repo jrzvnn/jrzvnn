@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Canva acquires the Affinity creative suite, popular with Mac users; COO Cliff Obrecht says the cash-and-stock deal is valued at &quot;several hundred million pounds&quot; &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/240326/p11#a240326p11)
+ - [16 Best PlayStation 5 Accessories &lpar;2024&rpar;: SSD Storage, Headsets, Controllers, 120-Hz TVs](https://www.wired.com/gallery/best-ps5-accessories/)
  - [Chinese iPhone demand is more stable than expected](https://appleinsider.com/articles/24/03/26/chinese-iphone-demand-is-more-stable-than-expected?utm_medium=rss)
  - [Fieldguide, which plans to use AI to alleviate an accountant shortage, raised a $30M Series B led by Bessemer, and counts 40 of the top 100 CPA firms as clients &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240326/p10#a240326p10)
- - [Julian Assange Won’t Be Extradited to the US Yet](https://www.wired.com/story/julian-assange-extradite-court-decision-wikileaks/)
- - [iPhone 16 Pro could see one new color, and the cancelation of another](https://appleinsider.com/articles/24/03/26/iphone-16-pro-could-see-one-new-color-and-the-cancelation-of-another?utm_medium=rss)
- - [Sources: SK Hynix plans to spend ~$4B to build an advanced chip packaging facility in West Lafayette, Indiana; a source says operations could begin in 2028 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240326/p9#a240326p9)<!-- TECH:END -->
+ - [Julian Assange Won’t Be Extradited to the US Yet](https://www.wired.com/story/julian-assange-extradite-court-decision-wikileaks/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

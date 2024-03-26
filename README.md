@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Tencent agrees to release some of its most important apps on the Apple Vision Pro &lpar;Wayne Ma/The Information&rpar;](http://www.techmeme.com/240326/p19#a240326p19)
+ - [As the Snoopy Omega Lands, Cartoon Luxury Goes Boom](https://www.wired.com/story/cartoon-watches-go-boom/)
+ - [How Kate Middleton Conspiracies Consumed the Internet](https://www.wired.com/story/how-kate-middleton-conspiracies-spread-online/)
  - [Chinese government data: iPhone shipments in China fell ~33% YoY to ~2.4M units in February 2024, after dropping 39% YoY to ~5.5M units in January 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240326/p18#a240326p18)
- - [AI headphones and clicky phone keys](https://www.theverge.com/24111796/anc-headphones-noise-canceling-clicks-keyboard-iphone-vergecast-podcast)
- - [Apple and China&#39;s Baidu have not agreed to an AI deal](https://appleinsider.com/articles/24/03/26/apple-and-chinas-baidu-have-not-agreed-to-an-ai-deal?utm_medium=rss)
- - [Sony plans to add a new opt-in Community Game Help feature on the PS5 later in 2024 to automatically create clips that can help other players complete games &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240326/p17#a240326p17)
- - [Apple forgot it&#39;s already released iPadOS 17.4.1](https://appleinsider.com/articles/24/03/26/apple-forgot-its-already-released-ipados-1741?utm_medium=rss)<!-- TECH:END -->
+ - [AI headphones and clicky phone keys](https://www.theverge.com/24111796/anc-headphones-noise-canceling-clicks-keyboard-iphone-vergecast-podcast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trolling Indian scammers](http://9gag.com/gag/aLn6ARW)
- - 😝 [He didn&#39;t hug,he measured...](http://9gag.com/gag/aRB64GG)
- - 💣 [Cleaning hair out of hair clippers.](http://9gag.com/gag/ae9KV4Q)
+ - 😝 [Listen to Michael Jackson&#39;s real voice with no autotune](http://9gag.com/gag/aoym390)
+ - 😝 [He was a a good boy.](http://9gag.com/gag/abA3WMB)
+ - 💣 [Dude! they stole the mountain](http://9gag.com/gag/a34vAp8)
  - 😝 [Scorpion vs. Sub-Zero. When honor and power collide, an ultimate battle between the legendary brothers may be inevitable.](http://9gag.com/gag/aYQjDGO)
- - 👉 [He was a a good boy.](http://9gag.com/gag/abA3WMB)<!-- MEMES:END -->
+ - 👉 [But at whtt cost ?? Sacrificing her own self respect](http://9gag.com/gag/avy2EZO)<!-- MEMES:END -->
 
 ---
 

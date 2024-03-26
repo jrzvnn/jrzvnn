@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He didn&#39;t hug,he measured...](http://9gag.com/gag/aRB64GG)
- - 😝 [Bro didn&#39;t even blink `i&#39;m 40 I dont have time for this BS` absolute CHAD.](http://9gag.com/gag/a6Zr5Mm)
- - 💣 [Scorpion vs. Sub-Zero. When honor and power collide, an ultimate battle between the legendary brothers may be inevitable.](http://9gag.com/gag/aYQjDGO)
- - 😝 [Homes in Denmark](http://9gag.com/gag/aNDm9YK)
- - 👉 [A squirrel storing nuts in a lamp post](http://9gag.com/gag/awyN3mQ)<!-- MEMES:END -->
+ - 😝 [Its show time](http://9gag.com/gag/aXPZ4RD)
+ - 😝 [What would be the world wide effect of this if the rule was universial all over the world? Less conflict or more conflict? Why?](http://9gag.com/gag/a34vye7)
+ - 💣 [He was a a good boy.](http://9gag.com/gag/abA3WMB)
+ - 😝 [Scorpion vs. Sub-Zero. When honor and power collide, an ultimate battle between the legendary brothers may be inevitable.](http://9gag.com/gag/aYQjDGO)
+ - 👉 [Hmmm](http://9gag.com/gag/ajPQL41)<!-- MEMES:END -->
 
 ---
 

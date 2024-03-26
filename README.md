@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Canada plans to toughen foreign investment rules for sectors like AI and quantum computing, as it takes steps to curb China&#39;s influence on key industries &lpar;Bloomberg&rpar;](http://www.techmeme.com/240326/p22#a240326p22)
  - [0G Labs, or Zero Gravity Labs, which is building a modular blockchain to let developers make decentralized AI apps, raised $35M in pre-seed funding &lpar;Jacquelyn Melinek/TechCrunch&rpar;](http://www.techmeme.com/240326/p21#a240326p21)
  - [Microsoft Teams is getting smarter Copilot AI features](https://www.theverge.com/2024/3/26/24112285/microsoft-teams-copilot-ai-features-improvements)
  - [Optavia Diet Review 2024: Does This Program Really Work for Weight Loss?     - CNET](https://www.cnet.com/health/nutrition/optavia-diet-review/#ftag=CAD590a51e)
- - [Apple Vision Pro China expansion will get a giant boost from Tencent](https://appleinsider.com/articles/24/03/26/apple-vision-pro-china-expansion-will-get-a-giant-boost-from-tencent?utm_medium=rss)
- - [Get Your Hands on a High-End Samsung Monitor With Up to 39% Off     - CNET](https://www.cnet.com/deals/get-your-hands-on-a-high-end-samsung-monitor-with-up-to-39-off/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Vision Pro China expansion will get a giant boost from Tencent](https://appleinsider.com/articles/24/03/26/apple-vision-pro-china-expansion-will-get-a-giant-boost-from-tencent?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

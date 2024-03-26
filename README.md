@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump Media &amp; Technology Group shares jumped up to 58% to hit $78.80 on its trading debut before the Nasdaq briefly halted trading, following the DWAC merger &lpar;Bailey Lipschultz/Bloomberg&rpar;](http://www.techmeme.com/240326/p20#a240326p20)
  - [Apple Vision Pro China expansion will get a giant boost from Tencent](https://appleinsider.com/articles/24/03/26/apple-vision-pro-china-expansion-will-get-a-giant-boost-from-tencent?utm_medium=rss)
- - [Source: Tencent agrees to release some of its most important apps on the Apple Vision Pro &lpar;Wayne Ma/The Information&rpar;](http://www.techmeme.com/240326/p19#a240326p19)
- - [As the Snoopy Omega Lands, Cartoon Luxury Goes Boom](https://www.wired.com/story/cartoon-watches-go-boom/)
- - [How Kate Middleton Conspiracies Consumed the Internet](https://www.wired.com/story/how-kate-middleton-conspiracies-spread-online/)<!-- TECH:END -->
+ - [Get Apple&#39;s M1 MacBook Air for $699 during month-end flash sale](https://appleinsider.com/articles/24/03/26/get-apples-m1-macbook-air-for-699-during-month-end-flash-sale?utm_medium=rss)
+ - [3D-printed iPhone 16 and iPhone 16 Pro models show off new Capture button](https://appleinsider.com/articles/24/03/26/3d-printed-iphone-16-and-iphone-16-pro-models-show-off-new-capture-button?utm_medium=rss)
+ - [Dragon’s Dogma 2’s lovable pawns make it an adventure worth fighting for](https://www.theverge.com/24111687/dragons-dogma-2-review-xbox-ps5-pc)
+ - [Trump Media &amp; Technology Group shares jumped up to 58% to hit $78.80 on its trading debut before the Nasdaq briefly halted trading, following the DWAC merger &lpar;Bailey Lipschultz/Bloomberg&rpar;](http://www.techmeme.com/240326/p20#a240326p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

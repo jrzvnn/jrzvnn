@@ -169,8 +169,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [A timeline of EU&#39;s DMA investigations into Apple, Google, and Meta: each have 12 months to fix the issues, before risking fines of up to 10% of global revenue &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/240326/p39#a240326p39)
  - [Ford’s Europe-only Explorer EV gets an estimated 375 miles of range](https://www.theverge.com/2024/3/26/24112744/ford-explorer-ev-all-electric-range-europe)
  - [Some Apple users report being targeted in an &quot;MFA bombing&quot; attack in which their devices are inundated with alerts to approve a password change or login &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/240326/p38#a240326p38)
- - [The Real Reason Why Some Abortion Pill Patients Go to the ER](https://www.wired.com/story/abortion-pill-supreme-court-er-visit-myth-debunk-mifepristone/)
- - [Audible and Amazon MGM partner to develop  more TV series based on podcasts](https://www.theverge.com/2024/3/26/24112672/audible-amazon-mgm-developing-podcast-tv-shows)<!-- TECH:END -->
+ - [Best MacBook Deals: Save Up to $300 on MacBook Air and MacBook Pro     - CNET](https://www.cnet.com/deals/best-macbook-deals/#ftag=CAD590a51e)
+ - [The Real Reason Why Some Abortion Pill Patients Go to the ER](https://www.wired.com/story/abortion-pill-supreme-court-er-visit-myth-debunk-mifepristone/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

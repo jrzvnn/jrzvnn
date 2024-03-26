@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple may not release its own generative chatbot in iOS 18](https://appleinsider.com/articles/24/03/26/apple-may-not-release-its-own-generative-chatbot-in-ios-18?utm_medium=rss)
  - [US investors, like General Atlantic and Sequoia, are facing increased pressure from state and federal lawmakers about their investments in Chinese companies &lpar;Lauren Hirsch/New York Times&rpar;](http://www.techmeme.com/240326/p37#a240326p37)
+ - [Grab One of Our Favorite Wi-Fi 6 Routers for Just $75 Today     - CNET](https://www.cnet.com/deals/grab-one-of-our-favorite-wi-fi-6-routers-for-just-75-today/#ftag=CAD590a51e)
  - [Peacock’s next exclusive NFL stream is in September](https://www.theverge.com/2024/3/26/24112670/peacock-exclusive-nfl-stream-brazil-september)
- - [The 25 Best Movies on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/best-movies-hbo-max-right-now/)
- - [Greg Joswiak has given a not-so subtle hint about what will be at WWDC](https://appleinsider.com/articles/24/03/26/greg-joswiak-has-given-a-not-so-subtle-hint-about-what-will-be-at-wwdc?utm_medium=rss)
- - [Apple&#39;s iOS 18 Update Could Be More Exciting Than the iPhone 16     - CNET](https://www.cnet.com/tech/mobile/why-ios-18-could-be-a-bigger-deal-than-the-iphone-16/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 25 Best Movies on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/best-movies-hbo-max-right-now/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

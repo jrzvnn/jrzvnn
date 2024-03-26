@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI search engines review: they are worse than Google at navigational queries, mixed on information queries, and offer helpful citations in exploration queries &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240326/p23#a240326p23)
- - [Canada plans to toughen foreign investment rules for sectors like AI and quantum computing, as it takes steps to curb China&#39;s influence on key industries &lpar;Bloomberg&rpar;](http://www.techmeme.com/240326/p22#a240326p22)
- - [0G Labs, or Zero Gravity Labs, which is building a modular blockchain to let developers make decentralized AI apps, raised $35M in pre-seed funding &lpar;Jacquelyn Melinek/TechCrunch&rpar;](http://www.techmeme.com/240326/p21#a240326p21)
- - [Microsoft Teams is getting smarter Copilot AI features](https://www.theverge.com/2024/3/26/24112285/microsoft-teams-copilot-ai-features-improvements)
- - [Optavia Diet Review 2024: Does This Program Really Work for Weight Loss?     - CNET](https://www.cnet.com/health/nutrition/optavia-diet-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Severance&#39; season two is still in production, but release date is still unclear](https://appleinsider.com/articles/24/03/26/severance-season-two-is-still-in-production-but-release-date-is-still-unclear?utm_medium=rss)
+ - [Apple pursuing idea of an all-screen iPhone with a wrap around display](https://appleinsider.com/articles/21/10/05/apple-pursuing-idea-of-an-iphone-with-a-wrap-around-display?utm_medium=rss)
+ - [Filing: Sun Microsystems co-founder Andreas Bechtolsheim settles with the US SEC for alleged insider trading on Cisco&#39;s $2.6B offer to buy Acacia in 2019 &lpar;Austin Weinstein/Bloomberg&rpar;](http://www.techmeme.com/240326/p24#a240326p24)
+ - [8 Best Lubes &lpar;2024&rpar;: Water-Based, Silicone, and Dispensers](https://www.wired.com/gallery/best-lubes/)
+ - [AI search engines review: they are worse than Google at navigational queries, mixed on information queries, and offer helpful citations in exploration queries &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240326/p23#a240326p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [When astronauts return to Earth, they often faint or simply forget that gravity exists.](http://9gag.com/gag/azx7GWz)
  - 😝 [Dude! they stole the mountain](http://9gag.com/gag/a34vAp8)
- - 😝 [Yes](http://9gag.com/gag/aAyBEGp)
- - 💣 [Are you faster than me? Are you winning fair and square? That makes you racist. Never relax around the usual suspects.](http://9gag.com/gag/axyE341)
- - 😝 [Bro Just found the Cheat Code](http://9gag.com/gag/a6Zr5ye)
- - 👉 [Luton city council building&#39;s flag turns Palestinian, as the city&#39;s Muslim population growth reaches 40% and it&#39;s about to become Sharia . That&#39;s the first Canary bird to predict the future of Europe](http://9gag.com/gag/ayNE16X)<!-- MEMES:END -->
+ - 💣 [The moment she realizes is priceless](http://9gag.com/gag/aE0d6me)
+ - 😝 [Lol comment caught me off guard](http://9gag.com/gag/aNDmBOr)
+ - 👉 [Bro Just found the Cheat Code](http://9gag.com/gag/a6Zr5ye)<!-- MEMES:END -->
 
 ---
 

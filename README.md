@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cleaning hair out of hair clippers.](http://9gag.com/gag/ae9KV4Q)
- - 😝 [You just know that make the reporters day\u2764\ufe0f](http://9gag.com/gag/adByeBQ)
- - 💣 [Choose!](http://9gag.com/gag/aKG48w3)
- - 😝 [Bro Just found the Cheat Code](http://9gag.com/gag/a6Zr5ye)
- - 👉 [Bad ending](http://9gag.com/gag/axyEOXL)<!-- MEMES:END -->
+ - 😝 [Hmmm I know](http://9gag.com/gag/aoymLYm)
+ - 😝 [Hide the pain Harold Memeland](http://9gag.com/gag/amoqxDV)
+ - 💣 [A training ground in China&#39;s Inner Mongolia is a replica of the road network near Taiwan&#39;s Presidential Palace.](http://9gag.com/gag/aRB62eA)
+ - 😝 [15 years?](http://9gag.com/gag/awyNLZD)
+ - 👉 [A little costly mistake!](http://9gag.com/gag/a7ov2bw)<!-- MEMES:END -->
 
 ---
 

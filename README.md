@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Adobe announces Custom Models, to let businesses customize Firefly models, and Firefly Services, a set of 20+ generative and creative APIs, tools, and services &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240326/p35#a240326p35)
  - [Sources: Stability AI was in a &quot;death spiral&quot; prior to Mostaque&#39;s resignation, due to talent departures, mismanagement, legal troubles, and dwindling resources &lpar;Bloomberg&rpar;](http://www.techmeme.com/240326/p34#a240326p34)
- - [Apple schedules WWDC 2024 for June 10 to June 14 as a virtual event with a June 10 keynote, where iOS 18, visionOS 2, watchOS 11, and macOS 15 are expected &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/240326/p33#a240326p33)
+ - [Apple schedules WWDC 2024 for June 10 to June 14 as a virtual event with a June 10 keynote, where Apple is expected to unveil its AI Strategy, iOS 18, and more &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/240326/p33#a240326p33)
  - [WWDC 2024 will show off Apple&#39;s AI efforts on June 10](https://appleinsider.com/articles/24/03/26/wwdc-2024-will-show-off-apples-ai-efforts-on-june-10?utm_medium=rss)
- - [Apple’s WWDC 2024 is set for June 10th](https://www.theverge.com/2024/3/26/24111331/apple-wwdc-2024-event-date-ai-artificial-intelligence-m4-ios-18)
- - [Kevin Systrom says AI news app Artifact will stay online for now due to taking &quot;a lot less to run it than we had imagined&quot;, reversing a February shutdown date &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240326/p32#a240326p32)<!-- TECH:END -->
+ - [Apple’s WWDC 2024 is set for June 10th](https://www.theverge.com/2024/3/26/24111331/apple-wwdc-2024-event-date-ai-artificial-intelligence-m4-ios-18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

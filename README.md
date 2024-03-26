@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US DOJ charges crypto exchange KuCoin and two of its founders with violating anti-money laundering laws, failing to register with US government, and more &lpar;CoinDesk&rpar;](http://www.techmeme.com/240326/p27#a240326p27)
  - [Filing: Dell cut 13,000 employees over the last fiscal year, a steeper reduction than initially announced, and had 120K staffers globally as of February 2, 2024 &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240326/p26#a240326p26)
  - [Vinyl records outsell CDs for the second year running](https://www.theverge.com/2024/3/26/24112369/riaa-2023-music-revenue-streaming-vinyl-cds-physical-media)
  - [Filings detail Meta&#39;s Project Ghostbusters to get data analytics about Snapchat, YouTube, and Amazon, using Onavo VPN on iOS and Android between 2016 and 2019 &lpar;Maxwell Zeff/Gizmodo&rpar;](http://www.techmeme.com/240326/p25#a240326p25)
- - [Heat and drought are sucking US hydropower dry](https://www.theverge.com/2024/3/26/24112341/drought-heatwave-hydropower-western-us-low)
- - [Apple&#39;s Smart Ring may be able to spot when you snap your fingers](https://appleinsider.com/articles/23/04/11/apples-smart-ring-may-be-able-to-spot-when-snap-your-fingers?utm_medium=rss)<!-- TECH:END -->
+ - [Heat and drought are sucking US hydropower dry](https://www.theverge.com/2024/3/26/24112341/drought-heatwave-hydropower-western-us-low)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

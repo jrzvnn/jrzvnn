@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Difference between parenting a son and a daughter \ud83d\ude02](http://9gag.com/gag/aO8oPjR)
- - 😝 [Hmmm I know](http://9gag.com/gag/aoymLYm)
- - 💣 [15 years?](http://9gag.com/gag/awyNLZD)
- - 😝 [A little costly mistake!](http://9gag.com/gag/a7ov2bw)
- - 👉 [Thai ads are always so creat- Wait? Oh, this one is Korean?](http://9gag.com/gag/adByedD)<!-- MEMES:END -->
+ - 😝 [Man who posts videos of himself cleaning graffiti, Upsets activists who says he is `Erasing Black Culture`](http://9gag.com/gag/aBy9VL1)
+ - 😝 [This Horse won the race without its rider.](http://9gag.com/gag/aGyKGO0)
+ - 💣 [Mondays got me like](http://9gag.com/gag/aNDmVEA)
+ - 😝 [Tom Cruise at 61 runs on the set of Mission Impossible 8](http://9gag.com/gag/aLn6A8V)
+ - 👉 [Luton city council building&#39;s flag turns Palestinian, as the city&#39;s Muslim population growth reaches 40% and it&#39;s about to become Sharia . That&#39;s the first Canary bird to predict the future of Europe](http://9gag.com/gag/ayNE16X)<!-- MEMES:END -->
 
 ---
 

@@ -178,8 +178,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - 😝 [Oops](http://9gag.com/gag/aBy9LA1)
  - 😝 [Trippy movie, has some backrooms feel](http://9gag.com/gag/aD2RnoB)
  - 💣 [I know a guy who sell cheap tyres.](http://9gag.com/gag/azx7dEZ)
- - 😝 [Scorpion vs. Sub-Zero. When honor and power collide, an ultimate battle between the legendary brothers may be inevitable.](http://9gag.com/gag/aYQjDGO)
- - 👉 [But at whtt cost ?? Sacrificing her own self respect](http://9gag.com/gag/avy2EZO)<!-- MEMES:END -->
+ - 😝 [But at whtt cost ?? Sacrificing her own self respect](http://9gag.com/gag/avy2EZO)
+ - 👉 [Happy 50th birthday to a girl, who one time at band camp...](http://9gag.com/gag/aRB6ZVy)<!-- MEMES:END -->
 
 ---
 

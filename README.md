@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Peacock’s next exclusive NFL stream is in September](https://www.theverge.com/2024/3/26/24112670/peacock-exclusive-nfl-stream-brazil-september)
+ - [The 25 Best Movies on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/best-movies-hbo-max-right-now/)
+ - [Greg Joswiak has given a not-so subtle hint about what will be at WWDC](https://appleinsider.com/articles/24/03/26/greg-joswiak-has-given-a-not-so-subtle-hint-about-what-will-be-at-wwdc?utm_medium=rss)
  - [Apple&#39;s iOS 18 Update Could Be More Exciting Than the iPhone 16     - CNET](https://www.cnet.com/tech/mobile/why-ios-18-could-be-a-bigger-deal-than-the-iphone-16/#ftag=CAD590a51e)
- - [Most Airlines Still Don&#39;t Let Kids Sit With Their Parents for Free     - CNET](https://www.cnet.com/personal-finance/most-airlines-still-dont-let-kids-sit-with-their-parents-for-free/#ftag=CAD590a51e)
- - [Amazon Layaway: Don&#39;t Forget About the Items You Reserved During the Big Spring Sale     - CNET](https://www.cnet.com/tech/mobile/amazon-layaway-dont-forget-about-the-items-you-reserved-during-the-big-spring-sale/#ftag=CAD590a51e)
- - [A look at MatX, which was founded by ex-Google engineers, has raised $25M, and hopes to design chips that are 10x faster than Nvidia&#39;s GPUs at training LLMs &lpar;Ashlee Vance/Bloomberg&rpar;](http://www.techmeme.com/240326/p36#a240326p36)
- - [Bose Headphone and Earbud Prices Slashed Up to 29%     - CNET](https://www.cnet.com/deals/bose-headphone-and-earbud-prices-slashed-up-to-29/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Most Airlines Still Don&#39;t Let Kids Sit With Their Parents for Free     - CNET](https://www.cnet.com/personal-finance/most-airlines-still-dont-let-kids-sit-with-their-parents-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

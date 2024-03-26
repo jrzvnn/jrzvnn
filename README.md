@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Uzbekistan-based e-commerce, fintech, and food delivery platform Uzum raised a $114M Series A at a $1.16B valuation, becoming country&#39;s first unicorn &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/240326/p2#a240326p2)
+ - [Best Buy slashes $400 off Apple&#39;s M2 MacBook Air](https://appleinsider.com/articles/24/02/26/best-buy-launches-record-breaking-400-macbook-air-discount?utm_medium=rss)
  - [Why Solar Panels Can Add Thousands to Your Home&#39;s Value     - CNET](https://www.cnet.com/home/energy-and-utilities/how-solar-panels-can-add-thousands-to-your-homes-value/#ftag=CAD590a51e)
  - [Cheapest Meal Delivery Services of 2024     - CNET](https://www.cnet.com/health/nutrition/cheapest-meal-delivery-service/#ftag=CAD590a51e)
- - [Best Car Phone Mount for 2024     - CNET](https://www.cnet.com/tech/mobile/best-car-phone-mount/#ftag=CAD590a51e)
- - [An investigation details the growing black market for Starlink kits being traded and activated illegally, including in regions subject to US sanctions &lpar;Bloomberg&rpar;](http://www.techmeme.com/240325/p30#a240325p30)
- - [How to Drag and Drop between apps on iPad](https://appleinsider.com/inside/ipad/tips/how-to-drag-and-drop-between-apps-on-ipad?utm_medium=rss)<!-- TECH:END -->
+ - [Best Car Phone Mount for 2024     - CNET](https://www.cnet.com/tech/mobile/best-car-phone-mount/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

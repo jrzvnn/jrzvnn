@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US DOJ charges crypto exchange KuCoin and two of its founders with violating anti-money laundering laws, failing to register with US government, and more &lpar;CoinDesk&rpar;](http://www.techmeme.com/240326/p27#a240326p27)
- - [Filing: Dell cut 13,000 employees over the last fiscal year, a steeper reduction than initially announced, and had 120K staffers globally as of February 2, 2024 &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240326/p26#a240326p26)
- - [Vinyl records outsell CDs for the second year running](https://www.theverge.com/2024/3/26/24112369/riaa-2023-music-revenue-streaming-vinyl-cds-physical-media)
- - [Filings detail Meta&#39;s Project Ghostbusters to get data analytics about Snapchat, YouTube, and Amazon, using Onavo VPN on iOS and Android between 2016 and 2019 &lpar;Maxwell Zeff/Gizmodo&rpar;](http://www.techmeme.com/240326/p25#a240326p25)
- - [Heat and drought are sucking US hydropower dry](https://www.theverge.com/2024/3/26/24112341/drought-heatwave-hydropower-western-us-low)<!-- TECH:END -->
+ - [Adobe launches GenStudio to let brands create content and measure its performance using generative AI, underpinned by promises of brand safety &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240326/p29#a240326p29)
+ - [T-Mobile&#39;s Free MLB.TV Offer Is Live, But Only For A Week     - CNET](https://www.cnet.com/tech/mobile/t-mobiles-free-mlb-tv-offer-is-live-but-only-for-a-week/#ftag=CAD590a51e)
+ - [Google plans to release a Chrome version optimized for Windows on Arm this week, two months after Canary testing; Arm PCs previously ran an emulated x64 version &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/240326/p28#a240326p28)
+ - [Get Amazon Prime Perks Without Paying for a Subscription. Find Out How     - CNET](https://www.cnet.com/tech/mobile/get-amazon-prime-perks-without-paying-for-a-subscription-find-out-how/#ftag=CAD590a51e)
+ - [Can&#39;t Think of the Perfect Gen AI Image Prompt? Adobe Says It Can Help     - CNET](https://www.cnet.com/tech/cant-think-of-the-perfect-gen-ai-image-prompt-adobe-says-it-can-help/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

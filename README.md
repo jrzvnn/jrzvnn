@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [These guys can take a joke](http://9gag.com/gag/amoqxPX)
- - 😝 [Bro didn&#39;t even blink `i&#39;m 40 I dont have time for this BS` absolute CHAD.](http://9gag.com/gag/a6Zr5Mm)
- - 💣 [Amber pls](http://9gag.com/gag/aVvjmKK)
- - 😝 [Judgment day curiosities](http://9gag.com/gag/aPA6evV)
- - 👉 [For the first time, medical university students were shown a video of childbirth performed by C-section.Future Doctors](http://9gag.com/gag/aYQjqdm)<!-- MEMES:END -->
+ - 😝 [Mining Chinesium](http://9gag.com/gag/aQz6Z2w)
+ - 😝 [Bro Just found the Cheat Code](http://9gag.com/gag/a6Zr5ye)
+ - 💣 [You just know that make the reporters day\u2764\ufe0f](http://9gag.com/gag/adByeBQ)
+ - 😝 [Tesla Model S Plaid does 328 km/h &lpar;204 mph&rpar; on Autobahn](http://9gag.com/gag/ae9Kx4m)
+ - 👉 [Choose!](http://9gag.com/gag/aKG48w3)<!-- MEMES:END -->
 
 ---
 

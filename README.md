@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tech industry group Boardwave, representing 1,300 founders, CEOs, and others, urges the UK to provide more support for the software industry in a white paper &lpar;Martin Coulter/Reuters&rpar;](http://www.techmeme.com/240327/p10#a240327p10)
  - [HSBC releases its HSBC Gold Token, minted on its Orion digital assets platform, via its online banking and app, after testing the service in November 2023 &lpar;Ian Allison/CoinDesk&rpar;](http://www.techmeme.com/240327/p9#a240327p9)
  - [Antiabortion Disinformation Ads Ran Rampant on Facebook and Instagram](https://www.wired.com/story/facebook-instagram-anti-abortion-ads-disinformation/)
  - [Best Wireless Bluetooth Boom Boxes for 2024     - CNET](https://www.cnet.com/tech/home-entertainment/best-wireless-bluetooth-boombox/#ftag=CAD590a51e)
- - [A profile of Swedish accounting software maker Fortnox, valued at $4.6B after its stock rose 5x since 2020, as some analysts question its growth prospects &lpar;Financial Times&rpar;](http://www.techmeme.com/240327/p8#a240327p8)
- - [These Bose Headphones Are a Noise-Cancelling Dream, and They&#39;re on Sale Right Now     - CNET](https://www.cnet.com/deals/these-bose-headphones-are-a-noise-cancelling-dream-and-theyre-on-sale-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A profile of Swedish accounting software maker Fortnox, valued at $4.6B after its stock rose 5x since 2020, as some analysts question its growth prospects &lpar;Financial Times&rpar;](http://www.techmeme.com/240327/p8#a240327p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

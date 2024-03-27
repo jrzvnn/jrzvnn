@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bad ending](http://9gag.com/gag/axyEOXL)
- - 😝 [Who wants the tape after me?](http://9gag.com/gag/a7ovNVz)
+ - 😝 [Tom Cruise at 61 runs on the set of Mission Impossible 8](http://9gag.com/gag/aLn6A8V)
+ - 😝 [Trolling Indian scammers](http://9gag.com/gag/aLn6ARW)
  - 💣 [For the first time, medical university students were shown a video of childbirth performed by C-section.Future Doctors](http://9gag.com/gag/aYQjqdm)
- - 😝 [Mondays got me like](http://9gag.com/gag/aNDmVEA)
- - 👉 [Her face when dude tells her to define it without saying the word Woman lmao.](http://9gag.com/gag/aW4Bb3n)<!-- MEMES:END -->
+ - 😝 [Amber pls](http://9gag.com/gag/aVvjmKK)
+ - 👉 [Mommy](http://9gag.com/gag/a87d0Mp)<!-- MEMES:END -->
 
 ---
 

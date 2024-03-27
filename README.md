@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Productivity platform Airtable launches Airtable AI, adding AI summaries, categorization, and translation via GPT-3.5, GPT-4, and Anthropic&#39;s Claude &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240327/p12#a240327p12)
  - [Google rolls out Gemini to some Google Messages beta users with RCS enabled on select Pixel and Galaxy devices, letting users chat to Gemini over RCS &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240327/p11#a240327p11)
- - [Elie Hassenfeld Q&amp;A: ‘$5,000 to Save a Life Is a Bargain’](https://www.wired.com/story/elie-hassenfeld-givewell-ea/)
- - [The Deaths of Effective Altruism](https://www.wired.com/story/deaths-of-effective-altruism/)
- - [Tech industry group Boardwave, representing 1,300 founders, CEOs, and others, urges the UK to provide more support for the software industry in a white paper &lpar;Martin Coulter/Reuters&rpar;](http://www.techmeme.com/240327/p10#a240327p10)
- - [HSBC releases its HSBC Gold Token, minted on its Orion digital assets platform, via its online banking and app, after testing the service in November 2023 &lpar;Ian Allison/CoinDesk&rpar;](http://www.techmeme.com/240327/p9#a240327p9)<!-- TECH:END -->
+ - [Best Gifts for Hikers, From Their Feet to Their Butts     - CNET](https://www.cnet.com/health/fitness/best-gifts-for-hikers/#ftag=CAD590a51e)
+ - [How iOS 17.4&#39;s Podcast Transcripts Work on Your iPhone     - CNET](https://www.cnet.com/tech/services-and-software/how-ios-17-4-s-podcast-transcripts-work-on-your-iphone/#ftag=CAD590a51e)
+ - [iOS 17.4: All the Latest Features on Your iPhone Explained     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-4-all-the-latest-features-on-your-iphone-explained/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

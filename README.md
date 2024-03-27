@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Glad to be old enough to appreciate the honest job](http://9gag.com/gag/ayNEYAV)
- - 😝 [Man\u2019s riffs could even make the devil shed a tear\u2026](http://9gag.com/gag/aPA6QKQ)
- - 💣 [OK this is the good type of prank, and a creative one at that. Actually made me chuckle](http://9gag.com/gag/aZZqRyp)
- - 😝 [Veteran 9gagger to newbie : welcome to the club](http://9gag.com/gag/aPA6r4w)
- - 👉 [What if you stop observing it tho](http://9gag.com/gag/azx7ZQq)<!-- MEMES:END -->
+ - 😝 [Tesla Model S Plaid does 328 km/h &lpar;204 mph&rpar; on Autobahn](http://9gag.com/gag/ae9Kx4m)
+ - 😝 [For the first time, medical university students were shown a video of childbirth performed by C-section.Future Doctors](http://9gag.com/gag/aYQjqdm)
+ - 💣 [In 2003, two men stole a parked Boeing 727 from Luanda International Airport and flew away into the sunset. They&#39;ve never been found.](http://9gag.com/gag/aBy9GLD)
+ - 😝 [That&#39;s awkward.](http://9gag.com/gag/aW4BDoq)
+ - 👉 [Guy lights a cigarette on plane](http://9gag.com/gag/aVvjZ5w)<!-- MEMES:END -->
 
 ---
 

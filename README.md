@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Choose!](http://9gag.com/gag/aKG48w3)
- - 😝 [Share your weirdest knowledge](http://9gag.com/gag/aE0dWKN)
- - 💣 [Stay safe, kings](http://9gag.com/gag/a2vEL01)
- - 😝 [Boomer life](http://9gag.com/gag/apRKbBD)
- - 👉 [One of the best moments in tv history](http://9gag.com/gag/aoymnyA)<!-- MEMES:END -->
+ - 😝 [Glad to be old enough to appreciate the honest job](http://9gag.com/gag/ayNEYAV)
+ - 😝 [Man\u2019s riffs could even make the devil shed a tear\u2026](http://9gag.com/gag/aPA6QKQ)
+ - 💣 [OK this is the good type of prank, and a creative one at that. Actually made me chuckle](http://9gag.com/gag/aZZqRyp)
+ - 😝 [Veteran 9gagger to newbie : welcome to the club](http://9gag.com/gag/aPA6r4w)
+ - 👉 [What if you stop observing it tho](http://9gag.com/gag/azx7ZQq)<!-- MEMES:END -->
 
 ---
 

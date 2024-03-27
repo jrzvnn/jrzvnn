@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google rolls out Gemini to some Google Messages beta users with RCS enabled on select Pixel and Galaxy devices, letting users chat to Gemini over RCS &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240327/p11#a240327p11)
+ - [Elie Hassenfeld Q&amp;A: ‘$5,000 to Save a Life Is a Bargain’](https://www.wired.com/story/elie-hassenfeld-givewell-ea/)
+ - [The Deaths of Effective Altruism](https://www.wired.com/story/deaths-of-effective-altruism/)
  - [Tech industry group Boardwave, representing 1,300 founders, CEOs, and others, urges the UK to provide more support for the software industry in a white paper &lpar;Martin Coulter/Reuters&rpar;](http://www.techmeme.com/240327/p10#a240327p10)
- - [HSBC releases its HSBC Gold Token, minted on its Orion digital assets platform, via its online banking and app, after testing the service in November 2023 &lpar;Ian Allison/CoinDesk&rpar;](http://www.techmeme.com/240327/p9#a240327p9)
- - [Antiabortion Disinformation Ads Ran Rampant on Facebook and Instagram](https://www.wired.com/story/facebook-instagram-anti-abortion-ads-disinformation/)
- - [Best Wireless Bluetooth Boom Boxes for 2024     - CNET](https://www.cnet.com/tech/home-entertainment/best-wireless-bluetooth-boombox/#ftag=CAD590a51e)
- - [A profile of Swedish accounting software maker Fortnox, valued at $4.6B after its stock rose 5x since 2020, as some analysts question its growth prospects &lpar;Financial Times&rpar;](http://www.techmeme.com/240327/p8#a240327p8)<!-- TECH:END -->
+ - [HSBC releases its HSBC Gold Token, minted on its Orion digital assets platform, via its online banking and app, after testing the service in November 2023 &lpar;Ian Allison/CoinDesk&rpar;](http://www.techmeme.com/240327/p9#a240327p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

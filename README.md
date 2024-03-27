@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk says X plans to make Grok available to all Premium subscribers &quot;later this week&quot;, expanding on Premium+ support; X Premium costs $8 per month &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240327/p15#a240327p15)
  - [Apple releases incredibly minor iOS &amp; iPadOS updates](https://appleinsider.com/articles/24/03/27/apple-releases-incredibly-minor-ios-ipados-updates?utm_medium=rss)
  - [Israeli officials detail an expansive and experimental facial recognition program in Gaza to catalog Palestinians without their knowledge, starting in 2023 &lpar;Sheera Frenkel/New York Times&rpar;](http://www.techmeme.com/240327/p14#a240327p14)
  - [iOS 18 Wish List: Everything We Want Apple to Add to the iPhone at WWDC     - CNET](https://www.cnet.com/tech/mobile/ios-18-wish-list-everything-we-want-apple-to-add-to-the-iphone-at-wwdc/#ftag=CAD590a51e)
- - [The Science of Crypto Forensics Survives a Court Battle—for Now](https://www.wired.com/story/the-science-of-crypto-forensics-court-battle/)
- - [Waiting for 6% Mortgage Rates? How Homebuyers Can Get That Now     - CNET](https://www.cnet.com/personal-finance/mortgages/waiting-for-6-mortgage-rates-how-homebuyers-can-get-that-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Science of Crypto Forensics Survives a Court Battle—for Now](https://www.wired.com/story/the-science-of-crypto-forensics-court-battle/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

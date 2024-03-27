@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AirPods &amp; Apple Watch market share insight opens debate on consumer choice](https://appleinsider.com/articles/24/03/27/airpods-apple-watch-market-share-insight-opens-debate-on-consumer-choice?utm_medium=rss)
  - [Google adds AI-generated trip itineraries to Search, translation to Circle to Search, and curated recommendations in Maps in 40+ cities across the US and Canada &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240327/p29#a240327p29)
  - [Our Favorite Garmin Smartwatches Are on Sale](https://www.wired.com/story/garmin-smartwatch-and-fitness-tracker-deals-march-2024/)
  - [Google adds more AI in shopping](https://www.theverge.com/2024/3/27/24113485/google-shopping-generative-ai-image-generation-rating-style)
- - [Updates to Google Maps and Search make it easier to plan your next outing](https://www.theverge.com/2024/3/27/24113348/google-maps-search-update-itineraries-lists-translation)
- - [The Polestar 4 is also getting a price cut ahead of its debut](https://www.theverge.com/2024/3/27/24113451/polestar-4-price-cut-production-delivery-ev-coupe)<!-- TECH:END -->
+ - [Updates to Google Maps and Search make it easier to plan your next outing](https://www.theverge.com/2024/3/27/24113348/google-maps-search-update-itineraries-lists-translation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

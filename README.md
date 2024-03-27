@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Cleaning hair out of hair clippers.](http://9gag.com/gag/ae9KV4Q)
  - 😝 [Real estate agents across the country right now](http://9gag.com/gag/a5Qpz6o)
- - 😝 [For the first time, medical university students were shown a video of childbirth performed by C-section.Future Doctors](http://9gag.com/gag/aYQjqdm)
- - 💣 [This Horse won the race without its rider.](http://9gag.com/gag/aGyKGO0)
- - 😝 [A training ground in China&#39;s Inner Mongolia is a replica of the road network near Taiwan&#39;s Presidential Palace.](http://9gag.com/gag/aRB62eA)
- - 👉 [You just know that make the reporters day\u2764\ufe0f](http://9gag.com/gag/adByeBQ)<!-- MEMES:END -->
+ - 💣 [For the first time, medical university students were shown a video of childbirth performed by C-section.Future Doctors](http://9gag.com/gag/aYQjqdm)
+ - 😝 [You just know that make the reporters day\u2764\ufe0f](http://9gag.com/gag/adByeBQ)
+ - 👉 [Choose!](http://9gag.com/gag/aKG48w3)<!-- MEMES:END -->
 
 ---
 

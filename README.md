@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [If you&#39;re getting dozens of password reset notifications, you&#39;re being attacked](https://appleinsider.com/articles/24/03/27/if-youre-getting-dozens-of-password-reset-notifications-youre-being-attacked?utm_medium=rss)
- - [No Man’s Sky is finally getting a ship editor in latest update](https://www.theverge.com/2024/3/27/24112772/no-mans-sky-orbital-update-ship-editor)
- - [&#39;World of Warships: Legends&#39; sails onto iPhone and iPad](https://appleinsider.com/articles/24/03/27/world-of-warships-legends-sails-onto-iphone-and-ipad?utm_medium=rss)
- - [Google researchers observed 97 zero-day exploits in the wild in 2023, up 50% from 62 in 2022; 48 were used by espionage actors and 10 were financially-motivated &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/240327/p22#a240327p22)
- - [Sources: blockchain AI companies SingularityNET, Fetch.ai, and Ocean Protocol are discussing merging their tokens, creating ASI with a ~$7.5B diluted value &lpar;Michelle F Davis/Bloomberg&rpar;](http://www.techmeme.com/240327/p21#a240327p21)<!-- TECH:END -->
+ - [Affinity users won’t be forced into paying subscriptions following Canva acquisition](https://www.theverge.com/2024/3/27/24113423/affinity-canva-acquisition-pledge-license-price-subscription)
+ - [Can Bitcoin mining really support renewable energy?](https://www.theverge.com/24112638/cryptocurrency-bitcoin-mining-renewable-energy-hydrogen-study)
+ - [Anxiety is a monster in Sony’s new Spider-Verse short film](https://www.theverge.com/24113428/the-spider-within-marvel-sony-short-film)
+ - [Source: Salesforce paid $20M+ to license Einstein&#39;s image in a 2016 deal, hoping to gain an edge in the AI market; proceeds go to Jerusalem&#39;s Hebrew University &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240327/p23#a240327p23)
+ - [If you&#39;re getting dozens of password reset notifications, you&#39;re being attacked](https://appleinsider.com/articles/24/03/27/if-youre-getting-dozens-of-password-reset-notifications-youre-being-attacked?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

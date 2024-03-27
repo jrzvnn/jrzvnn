@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Canva&#39;s Affinity deal will shake the Adobe status quo](https://appleinsider.com/articles/24/03/27/canvas-affinity-deal-will-shake-the-adobe-status-quo?utm_medium=rss)
+ - [Here’s our first look at Apple’s in-the-box iPhone updating machine](https://www.theverge.com/2024/3/27/24113561/apple-retail-presto-iphone-update-machine)
+ - [The principles of wearable etiquette](https://www.theverge.com/2024/3/27/24113500/wearables-smartwatches-smart-glasses-smart-rings-etiquette)
  - [Apple Ring rumors &amp; research - what you need to know about Apple&#39;s next wearable](https://appleinsider.com/articles/24/01/22/after-apple-vision-pro-an-apple-ring-may-be-next?utm_medium=rss)
- - [Online Conspiracies About the Baltimore Bridge Collapse Are Out of Control](https://www.wired.com/story/baltimore-bridge-collapse-conspiracy-theories/)
- - [Amazon plans to invest $2.75B in Anthropic, the second tranche of Amazon&#39;s planned $4B investment in the AI startup, after a $1.25B tranche in September 2023 &lpar;CNBC&rpar;](http://www.techmeme.com/240327/p31#a240327p31)
- - [‘Malicious Activity’ Hits the University of Cambridge’s Medical School](https://www.wired.com/story/university-of-cambridge-medical-school-malicious-activity/)
- - [Google adds a tool that lets US users swipe left or right to rate apparel and accessories to get style recommendations on mobile browsers and Google app &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240327/p30#a240327p30)<!-- TECH:END -->
+ - [Online Conspiracies About the Baltimore Bridge Collapse Are Out of Control](https://www.wired.com/story/baltimore-bridge-collapse-conspiracy-theories/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

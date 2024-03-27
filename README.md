@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Canva and Affinity publish a joint pledge promising to keep Affinity&#39;s software &quot;fair, transparent, and affordable&quot;, including keeping &quot;perpetual licenses&quot; &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240327/p25#a240327p25)
+ - [Amazon loses an EU legal bid to delay complying with DSA rules on making its online ad library publicly available, after a judge rejected Amazon&#39;s request &lpar;Clothilde Goujard/Politico&rpar;](http://www.techmeme.com/240327/p26#a240327p26)
  - [Flash deal: Apple&#39;s M3 Pro MacBook Pro 14-inch drops to $1,749](https://appleinsider.com/articles/24/03/27/flash-deal-apples-m3-pro-macbook-pro-14-inch-drops-to-1749?utm_medium=rss)
  - [Google’s Pixel 9 will reportedly come in three sizes this fall](https://www.theverge.com/2024/3/27/24113456/google-pixel-9-pro-xl-rumor-leak)
- - [A survey of 10,133 US adults: 43% of those aged 18-29 used ChatGPT in February 2024, up from 33% in July 2023, compared to 27% of 30-49 and 23% of all adults &lpar;Colleen McClain/Pew Research Center&rpar;](http://www.techmeme.com/240327/p24#a240327p24)
- - [The SEC’s crypto lawsuit against Coinbase can continue](https://www.theverge.com/2024/3/27/24113472/sec-coinbase-crypto-lawsuit-unregistered-securities)
- - [Affinity users won’t be forced into paying subscriptions following Canva acquisition](https://www.theverge.com/2024/3/27/24113423/affinity-canva-acquisition-pledge-license-price-subscription)<!-- TECH:END -->
+ - [A survey of 10,133 US adults: 43% of those aged 18-29 used ChatGPT in February 2024, up from 33% in July 2023, compared to 27% of 30-49 and 23% of all adults &lpar;Colleen McClain/Pew Research Center&rpar;](http://www.techmeme.com/240327/p24#a240327p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

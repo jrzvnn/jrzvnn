@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I want to play a game ....](http://9gag.com/gag/aMVeOZ6)
- - 😝 [You&#39;re being naughty!](http://9gag.com/gag/aBy9OxP)
- - 💣 [Diddy should be just the beginning](http://9gag.com/gag/ary1BA7)
- - 😝 [Day 12 losing hope send tell me a joke](http://9gag.com/gag/aGyKOpX)
- - 👉 [Guy was living the dream. They only found out after an auditor came by.](http://9gag.com/gag/awyNYw1)<!-- MEMES:END -->
+ - 😝 [Mondays got me like](http://9gag.com/gag/aNDmVEA)
+ - 😝 [A win-win situation, i guess..](http://9gag.com/gag/aVvjL2v)
+ - 💣 [Forbidden moves](http://9gag.com/gag/aYQjAx0)
+ - 😝 [Choose!](http://9gag.com/gag/aKG48w3)
+ - 👉 [Share your weirdest knowledge](http://9gag.com/gag/aE0dWKN)<!-- MEMES:END -->
 
 ---
 

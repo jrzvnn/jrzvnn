@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A little costly mistake!](http://9gag.com/gag/a7ov2bw)
- - 😝 [For the first time, medical university students were shown a video of childbirth performed by C-section.Future Doctors](http://9gag.com/gag/aYQjqdm)
- - 💣 [15 years?](http://9gag.com/gag/awyNLZD)
- - 😝 [Hmmm I know](http://9gag.com/gag/aoymLYm)
- - 👉 [Thai ads are always so creat- Wait? Oh, this one is Korean?](http://9gag.com/gag/adByedD)<!-- MEMES:END -->
+ - 😝 [Bad ending](http://9gag.com/gag/axyEOXL)
+ - 😝 [Who wants the tape after me?](http://9gag.com/gag/a7ovNVz)
+ - 💣 [For the first time, medical university students were shown a video of childbirth performed by C-section.Future Doctors](http://9gag.com/gag/aYQjqdm)
+ - 😝 [Mondays got me like](http://9gag.com/gag/aNDmVEA)
+ - 👉 [Her face when dude tells her to define it without saying the word Woman lmao.](http://9gag.com/gag/aW4Bb3n)<!-- MEMES:END -->
 
 ---
 

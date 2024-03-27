@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Online Conspiracies About the Baltimore Bridge Collapse Are Out of Control](https://www.wired.com/story/baltimore-bridge-collapse-conspiracy-theories/)
+ - [Amazon plans to invest $2.75B in Anthropic, the second tranche of Amazon&#39;s planned $4B investment in the AI startup, after a $1.25B tranche in September 2023 &lpar;CNBC&rpar;](http://www.techmeme.com/240327/p31#a240327p31)
  - [‘Malicious Activity’ Hits the University of Cambridge’s Medical School](https://www.wired.com/story/university-of-cambridge-medical-school-malicious-activity/)
  - [Google adds a tool that lets US users swipe left or right to rate apparel and accessories to get style recommendations on mobile browsers and Google app &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240327/p30#a240327p30)
- - [AirPods &amp; Apple Watch market share insight opens debate on consumer choice](https://appleinsider.com/articles/24/03/27/airpods-apple-watch-market-share-insight-opens-debate-on-consumer-choice?utm_medium=rss)
- - [Google adds AI-generated trip itineraries to Search, translation to Circle to Search, and curated recommendations in Maps in 40+ cities across the US and Canada &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240327/p29#a240327p29)
- - [Our Favorite Garmin Smartwatches Are on Sale](https://www.wired.com/story/garmin-smartwatch-and-fitness-tracker-deals-march-2024/)<!-- TECH:END -->
+ - [AirPods &amp; Apple Watch market share insight opens debate on consumer choice](https://appleinsider.com/articles/24/03/27/airpods-apple-watch-market-share-insight-opens-debate-on-consumer-choice?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

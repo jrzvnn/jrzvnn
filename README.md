@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google says it blocked or removed 5.5B ads and 12.7M advertiser accounts for violating its policies in 2023, up from 5.2B and 6.7M respectively in 2022 &lpar;Nicola Agius/Search Engine Land&rpar;](http://www.techmeme.com/240327/p34#a240327p34)
+ - [The new MacBook Air M3 is $100 off for the first time](https://www.theverge.com/2024/3/27/24113809/apple-macbook-air-m3-deal-sale)
  - [GLAAD report says Meta allows anti-trans hate to ‘flourish’ on its platforms](https://www.theverge.com/2024/3/27/24113755/meta-anti-trans-hate-speech-glaad-instagram-facebook-threads)
  - [Data observability service Observe raised a $115M Series B led by Sutter Hill Ventures with participation from Snowflake, sources say at a $400M-$500M valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240327/p33#a240327p33)
- - [Twitch bans turning butts and boobs into green screens](https://www.theverge.com/2024/3/27/24113838/twitch-community-update-body-part-screens-morgpie)
- - [The Best Reality TV Shows on Netflix     - CNET](https://www.cnet.com/tech/services-and-software/the-best-reality-tv-shows-on-netflix-march-2024/#ftag=CAD590a51e)
- - [Qualcomm quietly demos Baldur’s Gate 3 and Control on Snapdragon X Elite laptops](https://www.theverge.com/2024/3/27/24113730/qualcomm-snapdragon-x-elite-gaming-influencers)<!-- TECH:END -->
+ - [Twitch bans turning butts and boobs into green screens](https://www.theverge.com/2024/3/27/24113838/twitch-community-update-body-part-screens-morgpie)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

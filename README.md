@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women](http://9gag.com/gag/aNDmVPv)
- - 😝 [60 second explanation of Baltimore bridge collapse](http://9gag.com/gag/aAyBOV0)
- - 💣 [Back Crack!](http://9gag.com/gag/abA3QoB)
- - 😝 [Share a picture to use when you are late to work?](http://9gag.com/gag/a34v2r1)
- - 👉 [Real estate agents across the country right now](http://9gag.com/gag/a5Qpz6o)<!-- MEMES:END -->
+ - 😝 [Standing in a swamp during a lightning storm](http://9gag.com/gag/a87debe)
+ - 😝 [Forbidden moves](http://9gag.com/gag/aYQjAx0)
+ - 💣 [60 second explanation of Baltimore bridge collapse](http://9gag.com/gag/aAyBOV0)
+ - 😝 [Back Crack!](http://9gag.com/gag/abA3QoB)
+ - 👉 [Boomer life](http://9gag.com/gag/apRKbBD)<!-- MEMES:END -->
 
 ---
 

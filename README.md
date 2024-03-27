@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NewRetirement, which offers financial retirement planning tools for consumers and enterprise customers, raised a $20M Series A led by Allegis Capital &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240327/p38#a240327p38)
  - [Oregon&#39;s governor signs the first US right-to-repair law that bans manufacturers from using &quot;parts pairing&quot; to dictate what replacement components can be used &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240327/p37#a240327p37)
  - [Best Samsung Galaxy Z Fold 5 Deals: Score Up to $1,000 Off With Trade-In Credit, Plus $400 Direct Discounts     - CNET](https://www.cnet.com/deals/samsung-galaxy-z-fold-5-deals/#ftag=CAD590a51e)
  - [Best PlayStation VR 2 Deals: Save With the Excellent Horizon Call of the Mountain Bundle     - CNET](https://www.cnet.com/deals/playstation-vr-2-deals/#ftag=CAD590a51e)
- - [Best HomePod Deals: Save Outright or Bag Free Apple Streaming and Fitness Services     - CNET](https://www.cnet.com/deals/best-homepod-deals/#ftag=CAD590a51e)
- - [Best PC Speakers for 2024     - CNET](https://www.cnet.com/tech/computing/best-pc-speakers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best HomePod Deals: Save Outright or Bag Free Apple Streaming and Fitness Services     - CNET](https://www.cnet.com/deals/best-homepod-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

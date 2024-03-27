@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who thought it was a good idea to put sockets in diagonal? Half of them cannot be used](http://9gag.com/gag/aW4BbLx)
- - 😝 [Mondays got me like](http://9gag.com/gag/aNDmVEA)
+ - 😝 [In 2003, two men stole a parked Boeing 727 from Luanda International Airport and flew away into the sunset. They&#39;ve never been found.](http://9gag.com/gag/aBy9GLD)
+ - 😝 [Stay safe, kings](http://9gag.com/gag/a2vEL01)
  - 💣 [Boomer life](http://9gag.com/gag/apRKbBD)
  - 😝 [Share your weirdest knowledge](http://9gag.com/gag/aE0dWKN)
- - 👉 [Share a picture to use when you are late to work?](http://9gag.com/gag/a34v2r1)<!-- MEMES:END -->
+ - 👉 [Who thought it was a good idea to put sockets in diagonal? Half of them cannot be used](http://9gag.com/gag/aW4BbLx)<!-- MEMES:END -->
 
 ---
 

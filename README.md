@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In 2003, two men stole a parked Boeing 727 from Luanda International Airport and flew away into the sunset. They&#39;ve never been found.](http://9gag.com/gag/aBy9GLD)
- - 😝 [Nothing can stop me](http://9gag.com/gag/an7eD8V)
- - 💣 [On the run](http://9gag.com/gag/avy2xA5)
  - 😝 [Her face when dude tells her to define it without saying the word Woman lmao.](http://9gag.com/gag/aW4Bb3n)
- - 👉 [Mondays got me like](http://9gag.com/gag/aNDmVEA)<!-- MEMES:END -->
+ - 😝 [Hmmm I know](http://9gag.com/gag/aoymLYm)
+ - 💣 [Thai ads are always so creat- Wait? Oh, this one is Korean?](http://9gag.com/gag/adByedD)
+ - 😝 [15 years?](http://9gag.com/gag/awyNLZD)
+ - 👉 [A training ground in China&#39;s Inner Mongolia is a replica of the road network near Taiwan&#39;s Presidential Palace.](http://9gag.com/gag/aRB62eA)<!-- MEMES:END -->
 
 ---
 

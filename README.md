@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Real estate agents across the country right now](http://9gag.com/gag/a5Qpz6o)
- - 😝 [In 2003, two men stole a parked Boeing 727 from Luanda International Airport and flew away into the sunset. They&#39;ve never been found.](http://9gag.com/gag/aBy9GLD)
- - 💣 [One of the best moments in tv history](http://9gag.com/gag/aoymnyA)
  - 😝 [Share your weirdest knowledge](http://9gag.com/gag/aE0dWKN)
+ - 😝 [Tesla Model S Plaid does 328 km/h &lpar;204 mph&rpar; on Autobahn](http://9gag.com/gag/ae9Kx4m)
+ - 💣 [Found in the wild. I thought it was just a myth](http://9gag.com/gag/a7ovNye)
+ - 😝 [Guy lights a cigarette on plane](http://9gag.com/gag/aVvjZ5w)
  - 👉 [That&#39;s awkward.](http://9gag.com/gag/aW4BDoq)<!-- MEMES:END -->
 
 ---

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Knife does not the cat](http://9gag.com/gag/aqy4z5P)
- - 😝 [15 years?](http://9gag.com/gag/awyNLZD)
- - 💣 [Thai ads are always so creat- Wait? Oh, this one is Korean?](http://9gag.com/gag/adByedD)
- - 😝 [Hmmm I know](http://9gag.com/gag/aoymLYm)
- - 👉 [Man, that GOT to hurt...](http://9gag.com/gag/aoymLN0)<!-- MEMES:END -->
+ - 😝 [Real estate agents across the country right now](http://9gag.com/gag/a5Qpz6o)
+ - 😝 [For the first time, medical university students were shown a video of childbirth performed by C-section.Future Doctors](http://9gag.com/gag/aYQjqdm)
+ - 💣 [This Horse won the race without its rider.](http://9gag.com/gag/aGyKGO0)
+ - 😝 [A training ground in China&#39;s Inner Mongolia is a replica of the road network near Taiwan&#39;s Presidential Palace.](http://9gag.com/gag/aRB62eA)
+ - 👉 [You just know that make the reporters day\u2764\ufe0f](http://9gag.com/gag/adByeBQ)<!-- MEMES:END -->
 
 ---
 

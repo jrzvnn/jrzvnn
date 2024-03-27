@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Metro &amp; Airport in Africa? NAAAH It&#39;s Lisbon, Portugal](http://9gag.com/gag/aE0dW7n)
- - 😝 [Maybe she&#39;s into It.](http://9gag.com/gag/abA3xgB)
- - 💣 [Damn son !!](http://9gag.com/gag/a5QpzOy)
- - 😝 [You just know that make the reporters day\u2764\ufe0f](http://9gag.com/gag/adByeBQ)
- - 👉 [Found in the wild. I thought it was just a myth](http://9gag.com/gag/a7ovNye)<!-- MEMES:END -->
+ - 😝 [The Girl From Work...](http://9gag.com/gag/aQz6mDd)
+ - 😝 [Real estate agents across the country right now](http://9gag.com/gag/a5Qpz6o)
+ - 💣 [Tesla Model S Plaid does 328 km/h &lpar;204 mph&rpar; on Autobahn](http://9gag.com/gag/ae9Kx4m)
+ - 😝 [For the first time, medical university students were shown a video of childbirth performed by C-section.Future Doctors](http://9gag.com/gag/aYQjqdm)
+ - 👉 [Luton city council building&#39;s flag turns Palestinian, as the city&#39;s Muslim population growth reaches 40% and it&#39;s about to become Sharia . That&#39;s the first Canary bird to predict the future of Europe](http://9gag.com/gag/ayNE16X)<!-- MEMES:END -->
 
 ---
 

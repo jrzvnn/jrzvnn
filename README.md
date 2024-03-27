@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [GLAAD report says Meta allows anti-trans hate to ‘flourish’ on its platforms](https://www.theverge.com/2024/3/27/24113755/meta-anti-trans-hate-speech-glaad-instagram-facebook-threads)
+ - [Data observability service Observe raised a $115M Series B led by Sutter Hill Ventures with participation from Snowflake, sources say at a $400M-$500M valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240327/p33#a240327p33)
  - [Twitch bans turning butts and boobs into green screens](https://www.theverge.com/2024/3/27/24113838/twitch-community-update-body-part-screens-morgpie)
  - [The Best Reality TV Shows on Netflix     - CNET](https://www.cnet.com/tech/services-and-software/the-best-reality-tv-shows-on-netflix-march-2024/#ftag=CAD590a51e)
- - [Qualcomm quietly demos Baldur’s Gate 3 and Control on Snapdragon X Elite laptops](https://www.theverge.com/2024/3/27/24113730/qualcomm-snapdragon-x-elite-gaming-influencers)
- - [Scorched Cast-Iron Skillet? This One Kitchen Staple Can Fix That     - CNET](https://www.cnet.com/how-to/the-best-way-to-clean-cast-iron-cookware/#ftag=CAD590a51e)
- - [These Harry Potter Gifts Are Perfect for Any Aspiring Wizard     - CNET](https://www.cnet.com/culture/entertainment/best-harry-potter-gifts-perfect-for-any-aspiring-wizard/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Qualcomm quietly demos Baldur’s Gate 3 and Control on Snapdragon X Elite laptops](https://www.theverge.com/2024/3/27/24113730/qualcomm-snapdragon-x-elite-gaming-influencers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

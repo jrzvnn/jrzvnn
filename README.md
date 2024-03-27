@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mondays got me like](http://9gag.com/gag/aNDmVEA)
- - 😝 [A win-win situation, i guess..](http://9gag.com/gag/aVvjL2v)
- - 💣 [Forbidden moves](http://9gag.com/gag/aYQjAx0)
  - 😝 [Choose!](http://9gag.com/gag/aKG48w3)
+ - 😝 [Boomer life](http://9gag.com/gag/apRKbBD)
+ - 💣 [Who thought it was a good idea to put sockets in diagonal? Half of them cannot be used](http://9gag.com/gag/aW4BbLx)
+ - 😝 [Stay safe, kings](http://9gag.com/gag/a2vEL01)
  - 👉 [Share your weirdest knowledge](http://9gag.com/gag/aE0dWKN)<!-- MEMES:END -->
 
 ---

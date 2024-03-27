@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Frivolous cryptocurrency App Store payment lawsuit killed by judge](https://appleinsider.com/articles/24/03/27/frivolous-cryptocurrency-app-store-payment-lawsuit-killed-by-judge?utm_medium=rss)
  - [NY-based Hume, which is building a conversational AI that it claims can interpret emotions based on people&#39;s voices, raised a $50M Series B at a $219M valuation &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/240327/p32#a240327p32)
  - [The Baltimore Bridge Collapse Is About to Get Even Messier](https://www.wired.com/story/baltimore-bridge-collapse-shipping-supply-chain-disruption-francis-scott-key/)
  - [Bill Maher expands podcast operation with a controversial host](https://www.theverge.com/2024/3/27/24113735/bill-maher-podcast-sage-seele-andrew-huberman-lex-fridman-spotify-ambies)
- - [Big Deals Remain for Honeywell Home Thermostats After Amazon&#39;s Spring Sale     - CNET](https://www.cnet.com/deals/big-deals-remain-for-honeywell-home-thermostats/#ftag=CAD590a51e)
- - [Hulu on Disney Plus Launches in the US     - CNET](https://www.cnet.com/tech/services-and-software/hulu-on-disney-plus-launches-in-the-us/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Big Deals Remain for Honeywell Home Thermostats After Amazon&#39;s Spring Sale     - CNET](https://www.cnet.com/deals/big-deals-remain-for-honeywell-home-thermostats/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

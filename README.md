@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Israel quietly rolled out a mass facial recognition program in the Gaza Strip](https://www.theverge.com/2024/3/27/24114043/israel-facial-recognition-gaza-strip-corsight)
  - [Dbrand tried and failed to fix the Ghost Case — replacements will take longer](https://www.theverge.com/2024/3/27/24113943/dbrand-clear-ghost-case-no-yellow-iphone-galaxy-s-pixel)
  - [Leaked images reveal Microsoft’s white disc-less Xbox Series X console](https://www.theverge.com/2024/3/27/24114048/microsoft-xbox-series-x-white-digital-edition-leak-rumor)
  - [NewRetirement, which offers financial retirement planning tools for consumers and enterprise customers, raised a $20M Series A led by Allegis Capital &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240327/p38#a240327p38)
- - [Oregon&#39;s governor signs the first US right-to-repair law that bans manufacturers from using &quot;parts pairing&quot; to dictate what replacement components can be used &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240327/p37#a240327p37)
- - [Best Samsung Galaxy Z Fold 5 Deals: Score Up to $1,000 Off With Trade-In Credit, Plus $400 Direct Discounts     - CNET](https://www.cnet.com/deals/samsung-galaxy-z-fold-5-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Oregon&#39;s governor signs the first US right-to-repair law that bans manufacturers from using &quot;parts pairing&quot; to dictate what replacement components can be used &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240327/p37#a240327p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

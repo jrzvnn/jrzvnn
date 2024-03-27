@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Flash deal: Apple&#39;s M3 Pro MacBook Pro 14-inch drops to $1,749](https://appleinsider.com/articles/24/03/27/flash-deal-apples-m3-pro-macbook-pro-14-inch-drops-to-1749?utm_medium=rss)
+ - [Google’s Pixel 9 will reportedly come in three sizes this fall](https://www.theverge.com/2024/3/27/24113456/google-pixel-9-pro-xl-rumor-leak)
+ - [A survey of 10,133 US adults: 43% of those aged 18-29 used ChatGPT in February 2024, up from 33% in July 2023, compared to 27% of 30-49 and 23% of all adults &lpar;Colleen McClain/Pew Research Center&rpar;](http://www.techmeme.com/240327/p24#a240327p24)
  - [The SEC’s crypto lawsuit against Coinbase can continue](https://www.theverge.com/2024/3/27/24113472/sec-coinbase-crypto-lawsuit-unregistered-securities)
- - [Affinity users won’t be forced into paying subscriptions following Canva acquisition](https://www.theverge.com/2024/3/27/24113423/affinity-canva-acquisition-pledge-license-price-subscription)
- - [Can Bitcoin mining really support renewable energy?](https://www.theverge.com/24112638/cryptocurrency-bitcoin-mining-renewable-energy-hydrogen-study)
- - [Anxiety is a monster in Sony’s new Spider-Verse short film](https://www.theverge.com/24113428/the-spider-within-marvel-sony-short-film)
- - [Source: Salesforce paid $20M+ to license Einstein&#39;s image in a 2016 deal, hoping to gain an edge in the AI market; proceeds go to Jerusalem&#39;s Hebrew University &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240327/p23#a240327p23)<!-- TECH:END -->
+ - [Affinity users won’t be forced into paying subscriptions following Canva acquisition](https://www.theverge.com/2024/3/27/24113423/affinity-canva-acquisition-pledge-license-price-subscription)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

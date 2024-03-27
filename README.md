@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Leader of counterfeit Apple crime ring sentenced to more than four years](https://appleinsider.com/articles/24/03/27/leader-of-counterfeit-apple-crime-ring-sentenced-to-more-than-four-years?utm_medium=rss)
  - [How tech companies&#39; search for AI experts, hampered by a shortage of candidates, led to million-dollar-a-year pay packages, poaching entire teams, and more &lpar;Katherine Bindley/Wall Street Journal&rpar;](http://www.techmeme.com/240327/p18#a240327p18)
  - [Chinese state media: President Xi criticized &quot;technological barriers&quot; during Dutch Prime Minister Mark Rutte&#39;s visit to Beijing, as the US curbs ASML exports &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/240327/p17#a240327p17)
  - [BOE becomes favorite to supply 6.1-inch screens for iPhone SE 4](https://appleinsider.com/articles/24/03/27/boe-becomes-favorite-to-supply-61-inch-screens-for-iphone-se-4?utm_medium=rss)
- - [A look at Databricks&#39; new open source model DBRX, which cost ~$10M to develop over several months and, Databricks says, outshines Llama 2, Mixtral, and Grok &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/240327/p16#a240327p16)
- - [The Next Generation of Cancer Drugs Will Be Made in Space](https://www.wired.com/story/the-next-generation-of-cancer-drugs-will-be-made-in-space-bioorbit-katie-king/)<!-- TECH:END -->
+ - [A look at Databricks&#39; new open source model DBRX, which cost ~$10M to develop over several months and, Databricks says, outshines Llama 2, Mixtral, and Grok &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/240327/p16#a240327p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

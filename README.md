@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women](http://9gag.com/gag/aNDmVPv)
- - 😝 [Bad ending](http://9gag.com/gag/axyEOXL)
- - 💣 [In 2003, two men stole a parked Boeing 727 from Luanda International Airport and flew away into the sunset. They&#39;ve never been found.](http://9gag.com/gag/aBy9GLD)
- - 😝 [Cleaning hair out of hair clippers.](http://9gag.com/gag/ae9KV4Q)
- - 👉 [You just know that make the reporters day\u2764\ufe0f](http://9gag.com/gag/adByeBQ)<!-- MEMES:END -->
+ - 😝 [Kray Vs groom gangs](http://9gag.com/gag/a1mpLzw)
+ - 😝 [Mondays got me like](http://9gag.com/gag/aNDmVEA)
+ - 💣 [Bad ending](http://9gag.com/gag/axyEOXL)
+ - 😝 [Forbidden moves](http://9gag.com/gag/aYQjAx0)
+ - 👉 [FBI agent Robert Hanssen was tasked to find a mole within the FBI. Robert Hanssen was the mole and had been working with KGB since 1979. His espionage was described by the Department of Justice as `possibly the worst intelligence disaster in U.S. history.](http://9gag.com/gag/a0evM8z)<!-- MEMES:END -->
 
 ---
 

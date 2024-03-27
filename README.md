@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Share your weirdest knowledge](http://9gag.com/gag/aE0dWKN)
- - 😝 [Tesla Model S Plaid does 328 km/h &lpar;204 mph&rpar; on Autobahn](http://9gag.com/gag/ae9Kx4m)
- - 💣 [Found in the wild. I thought it was just a myth](http://9gag.com/gag/a7ovNye)
- - 😝 [Guy lights a cigarette on plane](http://9gag.com/gag/aVvjZ5w)
- - 👉 [That&#39;s awkward.](http://9gag.com/gag/aW4BDoq)<!-- MEMES:END -->
+ - 😝 [It\u2019s weird that common sense laws are coming from Florida](http://9gag.com/gag/ary18D7)
+ - 😝 [So desperate to be a victim](http://9gag.com/gag/abA3Rv8)
+ - 💣 [What if you stop observing it tho](http://9gag.com/gag/azx7ZQq)
+ - 😝 [Guy was living the dream. They only found out after an auditor came by.](http://9gag.com/gag/awyNYw1)
+ - 👉 [OK this is the good type of prank, and a creative one at that. Actually made me chuckle](http://9gag.com/gag/aZZqRyp)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Luton city council building&#39;s flag turns Palestinian, as the city&#39;s Muslim population growth reaches 40% and it&#39;s about to become Sharia . That&#39;s the first Canary bird to predict the future of Europe](http://9gag.com/gag/ayNE16X)
- - 😝 [You just know that make the reporters day\u2764\ufe0f](http://9gag.com/gag/adByeBQ)
- - 💣 [Ouch](http://9gag.com/gag/a87d2Q3)
- - 😝 [Tesla Model S Plaid does 328 km/h &lpar;204 mph&rpar; on Autobahn](http://9gag.com/gag/ae9Kx4m)
- - 👉 [Choose!](http://9gag.com/gag/aKG48w3)<!-- MEMES:END -->
+ - 😝 [A little costly mistake!](http://9gag.com/gag/a7ov2bw)
+ - 😝 [For the first time, medical university students were shown a video of childbirth performed by C-section.Future Doctors](http://9gag.com/gag/aYQjqdm)
+ - 💣 [15 years?](http://9gag.com/gag/awyNLZD)
+ - 😝 [Hmmm I know](http://9gag.com/gag/aoymLYm)
+ - 👉 [Thai ads are always so creat- Wait? Oh, this one is Korean?](http://9gag.com/gag/adByedD)<!-- MEMES:END -->
 
 ---
 

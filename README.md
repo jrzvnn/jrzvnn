@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Metro &amp; Airport in Africa? NAAAH It&#39;s Lisbon, Portugal](http://9gag.com/gag/aE0dW7n)
+ - 😝 [Maybe she&#39;s into It.](http://9gag.com/gag/abA3xgB)
+ - 💣 [Damn son !!](http://9gag.com/gag/a5QpzOy)
  - 😝 [You just know that make the reporters day\u2764\ufe0f](http://9gag.com/gag/adByeBQ)
- - 😝 [Lol comment caught me off guard](http://9gag.com/gag/aNDmBOr)
- - 💣 [Bad ending](http://9gag.com/gag/axyEOXL)
- - 😝 [He was a a good boy.](http://9gag.com/gag/abA3WMB)
- - 👉 [Mondays got me like](http://9gag.com/gag/aNDmVEA)<!-- MEMES:END -->
+ - 👉 [Found in the wild. I thought it was just a myth](http://9gag.com/gag/a7ovNye)<!-- MEMES:END -->
 
 ---
 

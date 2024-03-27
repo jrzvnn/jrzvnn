@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s Presto in-box iPhone updater looks like a pizza oven](https://appleinsider.com/articles/24/03/27/apples-presto-in-box-iphone-updater-looks-like-a-pizza-oven?utm_medium=rss)
  - [The SEC can sue Coinbase for offering unregistered securities, judge rules](https://www.theverge.com/2024/3/27/24113472/sec-coinbase-crypto-lawsuit-unregistered-securities)
  - [Alleged renders of the Google Pixel 9 show a camera module with two cameras, compared to three cameras on the 9 Pro and 9 Pro XL, a compact body, and more &lpar;Marcia Sekhose/91mobiles&rpar;](http://www.techmeme.com/240327/p28#a240327p28)
  - [Marvel Rivals is a mix of Overwatch and superhero battles](https://www.theverge.com/24113437/marvel-rivals-trailer-netease-pc-mcu-disney)
- - [A US judge rules an SEC lawsuit against Coinbase can proceed, but dismisses one claim over Coinbase Wallet, a partial win for Coinbase in a lengthy court battle &lpar;Reuters&rpar;](http://www.techmeme.com/240327/p27#a240327p27)
- - [Dune: Awakening is going to turn me into a blood drinking, spice addicted survivalist](https://www.theverge.com/24112467/dune-awakening-survival-game-preview-xbox-ps5-pc)<!-- TECH:END -->
+ - [A US judge rules an SEC lawsuit against Coinbase can proceed, but dismisses one claim over Coinbase Wallet, a partial win for Coinbase in a lengthy court battle &lpar;Reuters&rpar;](http://www.techmeme.com/240327/p27#a240327p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

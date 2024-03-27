@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It\u2019s weird that common sense laws are coming from Florida](http://9gag.com/gag/ary18D7)
- - 😝 [So desperate to be a victim](http://9gag.com/gag/abA3Rv8)
- - 💣 [What if you stop observing it tho](http://9gag.com/gag/azx7ZQq)
- - 😝 [Guy was living the dream. They only found out after an auditor came by.](http://9gag.com/gag/awyNYw1)
- - 👉 [OK this is the good type of prank, and a creative one at that. Actually made me chuckle](http://9gag.com/gag/aZZqRyp)<!-- MEMES:END -->
+ - 😝 [Idiot Impossible](http://9gag.com/gag/azx74Ob)
+ - 😝 [Man\u2019s riffs could even make the devil shed a tear\u2026](http://9gag.com/gag/aPA6QKQ)
+ - 💣 [OK this is the good type of prank, and a creative one at that. Actually made me chuckle](http://9gag.com/gag/aZZqRyp)
+ - 😝 [Veteran 9gagger to newbie : welcome to the club](http://9gag.com/gag/aPA6r4w)
+ - 👉 [What if you stop observing it tho](http://9gag.com/gag/azx7ZQq)<!-- MEMES:END -->
 
 ---
 

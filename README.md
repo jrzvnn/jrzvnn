@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kray Vs groom gangs](http://9gag.com/gag/a1mpLzw)
- - 😝 [Mondays got me like](http://9gag.com/gag/aNDmVEA)
- - 💣 [Bad ending](http://9gag.com/gag/axyEOXL)
- - 😝 [Forbidden moves](http://9gag.com/gag/aYQjAx0)
- - 👉 [FBI agent Robert Hanssen was tasked to find a mole within the FBI. Robert Hanssen was the mole and had been working with KGB since 1979. His espionage was described by the Department of Justice as `possibly the worst intelligence disaster in U.S. history.](http://9gag.com/gag/a0evM8z)<!-- MEMES:END -->
+ - 😝 [How radioactive if the plates of your granny?](http://9gag.com/gag/a6ZrpeN)
+ - 😝 [Metro &amp; Airport in Africa? NAAAH It&#39;s Lisbon, Portugal](http://9gag.com/gag/aE0dW7n)
+ - 💣 [For the first time, medical university students were shown a video of childbirth performed by C-section.Future Doctors](http://9gag.com/gag/aYQjqdm)
+ - 😝 [You just know that make the reporters day\u2764\ufe0f](http://9gag.com/gag/adByeBQ)
+ - 👉 [Choose!](http://9gag.com/gag/aKG48w3)<!-- MEMES:END -->
 
 ---
 

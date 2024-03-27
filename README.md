@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In 2003, two men stole a parked Boeing 727 from Luanda International Airport and flew away into the sunset. They&#39;ve never been found.](http://9gag.com/gag/aBy9GLD)
- - 😝 [Stay safe, kings](http://9gag.com/gag/a2vEL01)
- - 💣 [Boomer life](http://9gag.com/gag/apRKbBD)
+ - 😝 [Choose!](http://9gag.com/gag/aKG48w3)
  - 😝 [Share your weirdest knowledge](http://9gag.com/gag/aE0dWKN)
- - 👉 [Who thought it was a good idea to put sockets in diagonal? Half of them cannot be used](http://9gag.com/gag/aW4BbLx)<!-- MEMES:END -->
+ - 💣 [Stay safe, kings](http://9gag.com/gag/a2vEL01)
+ - 😝 [Boomer life](http://9gag.com/gag/apRKbBD)
+ - 👉 [One of the best moments in tv history](http://9gag.com/gag/aoymnyA)<!-- MEMES:END -->
 
 ---
 

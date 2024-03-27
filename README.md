@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Qualcomm quietly demos Baldur’s Gate 3 and Control on Snapdragon X Elite laptops](https://www.theverge.com/2024/3/27/24113730/qualcomm-snapdragon-x-elite-gaming-influencers)
  - [Logitech’s original G Pro X Superlight is on sale for nearly 40 percent off](https://www.theverge.com/2024/3/27/24112576/logitech-g-pro-x-superlight-gaming-mouse-backbone-one-controller-deal-sale)
  - [Frivolous cryptocurrency App Store payment lawsuit killed by judge](https://appleinsider.com/articles/24/03/27/frivolous-cryptocurrency-app-store-payment-lawsuit-killed-by-judge?utm_medium=rss)
  - [NY-based Hume, which is building a conversational AI that it claims can interpret emotions based on people&#39;s voices, raised a $50M Series B at a $219M valuation &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/240327/p32#a240327p32)
- - [The Baltimore Bridge Collapse Is About to Get Even Messier](https://www.wired.com/story/baltimore-bridge-collapse-shipping-supply-chain-disruption-francis-scott-key/)
- - [Bill Maher expands podcast operation with a controversial host](https://www.theverge.com/2024/3/27/24113735/bill-maher-podcast-sage-seele-andrew-huberman-lex-fridman-spotify-ambies)<!-- TECH:END -->
+ - [The Baltimore Bridge Collapse Is About to Get Even Messier](https://www.wired.com/story/baltimore-bridge-collapse-shipping-supply-chain-disruption-francis-scott-key/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

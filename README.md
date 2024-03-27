@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Found in the wild. I thought it was just a myth](http://9gag.com/gag/a7ovNye)
- - 😝 [Her face when dude tells her to define it without saying the word Woman lmao.](http://9gag.com/gag/aW4Bb3n)
- - 💣 [Luton city council building&#39;s flag turns Palestinian, as the city&#39;s Muslim population growth reaches 40% and it&#39;s about to become Sharia . That&#39;s the first Canary bird to predict the future of Europe](http://9gag.com/gag/ayNE16X)
- - 😝 [A training ground in China&#39;s Inner Mongolia is a replica of the road network near Taiwan&#39;s Presidential Palace.](http://9gag.com/gag/aRB62eA)
- - 👉 [Choose!](http://9gag.com/gag/aKG48w3)<!-- MEMES:END -->
+ - 😝 [How radioactive if the plates of your granny?](http://9gag.com/gag/a6ZrpeN)
+ - 😝 [Forbidden moves](http://9gag.com/gag/aYQjAx0)
+ - 💣 [For the first time, medical university students were shown a video of childbirth performed by C-section.Future Doctors](http://9gag.com/gag/aYQjqdm)
+ - 😝 [Choose!](http://9gag.com/gag/aKG48w3)
+ - 👉 [A win-win situation, i guess..](http://9gag.com/gag/aVvjL2v)<!-- MEMES:END -->
 
 ---
 

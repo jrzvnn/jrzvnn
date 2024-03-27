@@ -166,10 +166,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Polestar 4 is also getting a price cut ahead of its debut](https://www.theverge.com/2024/3/27/24113451/polestar-4-price-cut-production-delivery-ev-coupe)
  - [Lowest price ever: Apple&#39;s M2 MacBook Air falls to $849](https://appleinsider.com/articles/24/03/27/lowest-price-ever-apples-m2-macbook-air-falls-to-849?utm_medium=rss)
  - [Apple&#39;s Presto in-box iPhone updater looks like a pizza oven](https://appleinsider.com/articles/24/03/27/apples-presto-in-box-iphone-updater-looks-like-a-pizza-oven?utm_medium=rss)
  - [The SEC can sue Coinbase for offering unregistered securities, judge rules](https://www.theverge.com/2024/3/27/24113472/sec-coinbase-crypto-lawsuit-unregistered-securities)
- - [With M3 Models Now on the Market, You Can Save $250 on the M2 MacBook Air     - CNET](https://www.cnet.com/deals/with-m3-models-now-on-the-market-you-can-save-250-on-the-m2-macbook-air/#ftag=CAD590a51e)
  - [Alleged renders of the Google Pixel 9 show a camera module with two cameras, compared to three cameras on the 9 Pro and 9 Pro XL, a compact body, and more &lpar;Marcia Sekhose/91mobiles&rpar;](http://www.techmeme.com/240327/p28#a240327p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

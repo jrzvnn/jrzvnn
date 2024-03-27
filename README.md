@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That camel must be so happy to get that off his back](http://9gag.com/gag/an7eE90)
- - 😝 [This Horse won the race without its rider.](http://9gag.com/gag/aGyKGO0)
- - 💣 [Her face when dude tells her to define it without saying the word Woman lmao.](http://9gag.com/gag/aW4Bb3n)
- - 😝 [Baltimore Bridge Collapse HD](http://9gag.com/gag/awyN408)
- - 👉 [In 2003, two men stole a parked Boeing 727 from Luanda International Airport and flew away into the sunset. They&#39;ve never been found.](http://9gag.com/gag/aBy9GLD)<!-- MEMES:END -->
+ - 😝 [You just know that make the reporters day\u2764\ufe0f](http://9gag.com/gag/adByeBQ)
+ - 😝 [Lol comment caught me off guard](http://9gag.com/gag/aNDmBOr)
+ - 💣 [Bad ending](http://9gag.com/gag/axyEOXL)
+ - 😝 [He was a a good boy.](http://9gag.com/gag/abA3WMB)
+ - 👉 [Mondays got me like](http://9gag.com/gag/aNDmVEA)<!-- MEMES:END -->
 
 ---
 

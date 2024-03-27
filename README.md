@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tom Cruise at 61 runs on the set of Mission Impossible 8](http://9gag.com/gag/aLn6A8V)
- - 😝 [Trolling Indian scammers](http://9gag.com/gag/aLn6ARW)
- - 💣 [For the first time, medical university students were shown a video of childbirth performed by C-section.Future Doctors](http://9gag.com/gag/aYQjqdm)
- - 😝 [Amber pls](http://9gag.com/gag/aVvjmKK)
- - 👉 [Mommy](http://9gag.com/gag/a87d0Mp)<!-- MEMES:END -->
+ - 😝 [These guys can take a joke](http://9gag.com/gag/amoqxPX)
+ - 😝 [A training ground in China&#39;s Inner Mongolia is a replica of the road network near Taiwan&#39;s Presidential Palace.](http://9gag.com/gag/aRB62eA)
+ - 💣 [Lol comment caught me off guard](http://9gag.com/gag/aNDmBOr)
+ - 😝 [Mondays got me like](http://9gag.com/gag/aNDmVEA)
+ - 👉 [Share your weirdest knowledge](http://9gag.com/gag/aE0dWKN)<!-- MEMES:END -->
 
 ---
 

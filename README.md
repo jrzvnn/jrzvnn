@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Her face when dude tells her to define it without saying the word Woman lmao.](http://9gag.com/gag/aW4Bb3n)
- - 😝 [Hmmm I know](http://9gag.com/gag/aoymLYm)
- - 💣 [Thai ads are always so creat- Wait? Oh, this one is Korean?](http://9gag.com/gag/adByedD)
- - 😝 [15 years?](http://9gag.com/gag/awyNLZD)
- - 👉 [A training ground in China&#39;s Inner Mongolia is a replica of the road network near Taiwan&#39;s Presidential Palace.](http://9gag.com/gag/aRB62eA)<!-- MEMES:END -->
+ - 😝 [Bad ending](http://9gag.com/gag/axyEOXL)
+ - 😝 [You just know that make the reporters day\u2764\ufe0f](http://9gag.com/gag/adByeBQ)
+ - 💣 [American rapper and record producer Sean `Diddy` Combs.](http://9gag.com/gag/aNDmBWb)
+ - 😝 [Standing in a swamp during a lightning storm](http://9gag.com/gag/a87debe)
+ - 👉 [Cleaning hair out of hair clippers.](http://9gag.com/gag/ae9KV4Q)<!-- MEMES:END -->
 
 ---
 

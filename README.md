@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk says X plans to make Grok available to all Premium subscribers &quot;later this week&quot;, expanding on Premium+ support; X Premium costs $8 per month &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240327/p15#a240327p15)
- - [Apple releases incredibly minor iOS &amp; iPadOS updates](https://appleinsider.com/articles/24/03/27/apple-releases-incredibly-minor-ios-ipados-updates?utm_medium=rss)
- - [Israeli officials detail an expansive and experimental facial recognition program in Gaza to catalog Palestinians without their knowledge, starting in 2023 &lpar;Sheera Frenkel/New York Times&rpar;](http://www.techmeme.com/240327/p14#a240327p14)
- - [iOS 18 Wish List: Everything We Want Apple to Add to the iPhone at WWDC     - CNET](https://www.cnet.com/tech/mobile/ios-18-wish-list-everything-we-want-apple-to-add-to-the-iphone-at-wwdc/#ftag=CAD590a51e)
- - [The Science of Crypto Forensics Survives a Court Battle—for Now](https://www.wired.com/story/the-science-of-crypto-forensics-court-battle/)<!-- TECH:END -->
+ - [A look at Databricks&#39; new open source model DBRX, which cost ~$10M to develop over several months and, Databricks says, outshines Llama 2, Mixtral, and Grok &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/240327/p16#a240327p16)
+ - [The Next Generation of Cancer Drugs Will Be Made in Space](https://www.wired.com/story/the-next-generation-of-cancer-drugs-will-be-made-in-space-bioorbit-katie-king/)
+ - [Inside the Creation of DBRX, the World&#39;s Most Powerful Open Source AI Model](https://www.wired.com/story/dbrx-inside-the-creation-of-the-worlds-most-powerful-open-source-ai-model/)
+ - [Chinese iPhone sales may be decelerating at faster pace than expected](https://appleinsider.com/articles/24/03/27/china-iphone-sales-dropped-significantly-more-than-normal-in-february?utm_medium=rss)
+ - [Elon Musk says X plans to make Grok available to all Premium subscribers &quot;later this week&quot;, expanding on Premium+ support; X Premium costs $8 per month &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240327/p15#a240327p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

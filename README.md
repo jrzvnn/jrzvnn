@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anthropic&#39;s Claude 3 Opus surpassed OpenAI&#39;s GPT-4 for the first time on Chatbot Arena, a crowdsourced leaderboard used by AI researchers for LLM evaluations &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/240327/p36#a240327p36)
  - [MLCommons announces results from its MLPerf 4.0 inference benchmarks, which added Llama 2 70B and Stable Diffusion XL; systems with Nvidia GPUs came out on top &lpar;Samuel K. Moore/IEEE Spectrum&rpar;](http://www.techmeme.com/240327/p35#a240327p35)
  - [Apple Vision Pro is $200 off, but the deal is at risk of selling out](https://appleinsider.com/articles/24/03/27/apple-vision-pro-is-200-off-but-the-deal-is-at-risk-of-selling-out?utm_medium=rss)
  - [Phil Schiller will be Apple&#39;s ecosystem defender for quite some time](https://appleinsider.com/articles/24/03/27/phil-schiller-will-be-apples-ecosystem-defender-for-quite-some-time?utm_medium=rss)
- - [Meta Is Limiting the Political Content You See on Instagram. Here&#39;s How to Prevent It     - CNET](https://www.cnet.com/tech/services-and-software/meta-is-limiting-the-political-content-you-see-on-instagram-heres-how-to-prevent-it/#ftag=CAD590a51e)
- - [Google says it blocked or removed 5.5B ads and 12.7M advertiser accounts for violating its policies in 2023, up from 5.2B and 6.7M respectively in 2022 &lpar;Nicola Agius/Search Engine Land&rpar;](http://www.techmeme.com/240327/p34#a240327p34)<!-- TECH:END -->
+ - [Meta Is Limiting the Political Content You See on Instagram. Here&#39;s How to Prevent It     - CNET](https://www.cnet.com/tech/services-and-software/meta-is-limiting-the-political-content-you-see-on-instagram-heres-how-to-prevent-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

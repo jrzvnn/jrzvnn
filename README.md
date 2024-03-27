@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Polestar 4 is also getting a price cut ahead of its debut](https://www.theverge.com/2024/3/27/24113451/polestar-4-price-cut-production-delivery-ev-coupe)
- - [Lowest price ever: Apple&#39;s M2 MacBook Air falls to $849](https://appleinsider.com/articles/24/03/27/lowest-price-ever-apples-m2-macbook-air-falls-to-849?utm_medium=rss)
- - [Apple&#39;s Presto in-box iPhone updater looks like a pizza oven](https://appleinsider.com/articles/24/03/27/apples-presto-in-box-iphone-updater-looks-like-a-pizza-oven?utm_medium=rss)
- - [The SEC can sue Coinbase for offering unregistered securities, judge rules](https://www.theverge.com/2024/3/27/24113472/sec-coinbase-crypto-lawsuit-unregistered-securities)
- - [Alleged renders of the Google Pixel 9 show a camera module with two cameras, compared to three cameras on the 9 Pro and 9 Pro XL, a compact body, and more &lpar;Marcia Sekhose/91mobiles&rpar;](http://www.techmeme.com/240327/p28#a240327p28)<!-- TECH:END -->
+ - [Google adds AI-generated trip itineraries to Search, translation to Circle to Search, and curated recommendations in Maps in 40+ cities across the US and Canada &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240327/p29#a240327p29)
+ - [Our Favorite Garmin Smartwatches Are on Sale](https://www.wired.com/story/garmin-smartwatch-and-fitness-tracker-deals-march-2024/)
+ - [Google adds more AI in shopping](https://www.theverge.com/2024/3/27/24113485/google-shopping-generative-ai-image-generation-rating-style)
+ - [Updates to Google Maps and Search make it easier to plan your next outing](https://www.theverge.com/2024/3/27/24113348/google-maps-search-update-itineraries-lists-translation)
+ - [The Polestar 4 is also getting a price cut ahead of its debut](https://www.theverge.com/2024/3/27/24113451/polestar-4-price-cut-production-delivery-ev-coupe)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

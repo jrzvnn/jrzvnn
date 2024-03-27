@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Phil Schiller will be Apple&#39;s ecosystem defender for quite some time](https://appleinsider.com/articles/24/03/27/phil-schiller-will-be-apples-ecosystem-defender-for-quite-some-time?utm_medium=rss)
+ - [Meta Is Limiting the Political Content You See on Instagram. Here&#39;s How to Prevent It     - CNET](https://www.cnet.com/tech/services-and-software/meta-is-limiting-the-political-content-you-see-on-instagram-heres-how-to-prevent-it/#ftag=CAD590a51e)
  - [Google says it blocked or removed 5.5B ads and 12.7M advertiser accounts for violating its policies in 2023, up from 5.2B and 6.7M respectively in 2022 &lpar;Nicola Agius/Search Engine Land&rpar;](http://www.techmeme.com/240327/p34#a240327p34)
  - [The new MacBook Air M3 is $100 off for the first time](https://www.theverge.com/2024/3/27/24113809/apple-macbook-air-m3-deal-sale)
- - [GLAAD report says Meta allows anti-trans hate to ‘flourish’ on its platforms](https://www.theverge.com/2024/3/27/24113755/meta-anti-trans-hate-speech-glaad-instagram-facebook-threads)
- - [Data observability service Observe raised a $115M Series B led by Sutter Hill Ventures with participation from Snowflake, sources say at a $400M-$500M valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240327/p33#a240327p33)<!-- TECH:END -->
+ - [22 Great Gifts for $50 or Less     - CNET](https://www.cnet.com/tech/computing/best-gifts-for-50-or-less/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tesla Model S Plaid does 328 km/h &lpar;204 mph&rpar; on Autobahn](http://9gag.com/gag/ae9Kx4m)
- - 😝 [For the first time, medical university students were shown a video of childbirth performed by C-section.Future Doctors](http://9gag.com/gag/aYQjqdm)
- - 💣 [In 2003, two men stole a parked Boeing 727 from Luanda International Airport and flew away into the sunset. They&#39;ve never been found.](http://9gag.com/gag/aBy9GLD)
- - 😝 [That&#39;s awkward.](http://9gag.com/gag/aW4BDoq)
- - 👉 [Guy lights a cigarette on plane](http://9gag.com/gag/aVvjZ5w)<!-- MEMES:END -->
+ - 😝 [I wish the gate gets well soon.](http://9gag.com/gag/adByogD)
+ - 😝 [One of the best moments in tv history](http://9gag.com/gag/aoymnyA)
+ - 💣 [Luton city council building&#39;s flag turns Palestinian, as the city&#39;s Muslim population growth reaches 40% and it&#39;s about to become Sharia . That&#39;s the first Canary bird to predict the future of Europe](http://9gag.com/gag/ayNE16X)
+ - 😝 [Who thought it was a good idea to put sockets in diagonal? Half of them cannot be used](http://9gag.com/gag/aW4BbLx)
+ - 👉 [Share your weirdest knowledge](http://9gag.com/gag/aE0dWKN)<!-- MEMES:END -->
 
 ---
 

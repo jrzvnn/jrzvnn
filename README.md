@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MLCommons announces results from its MLPerf 4.0 inference benchmarks, which added Llama 2 70B and Stable Diffusion XL; systems with Nvidia GPUs came out on top &lpar;Samuel K. Moore/IEEE Spectrum&rpar;](http://www.techmeme.com/240327/p35#a240327p35)
+ - [Apple Vision Pro is $200 off, but the deal is at risk of selling out](https://appleinsider.com/articles/24/03/27/apple-vision-pro-is-200-off-but-the-deal-is-at-risk-of-selling-out?utm_medium=rss)
  - [Phil Schiller will be Apple&#39;s ecosystem defender for quite some time](https://appleinsider.com/articles/24/03/27/phil-schiller-will-be-apples-ecosystem-defender-for-quite-some-time?utm_medium=rss)
  - [Meta Is Limiting the Political Content You See on Instagram. Here&#39;s How to Prevent It     - CNET](https://www.cnet.com/tech/services-and-software/meta-is-limiting-the-political-content-you-see-on-instagram-heres-how-to-prevent-it/#ftag=CAD590a51e)
- - [Google says it blocked or removed 5.5B ads and 12.7M advertiser accounts for violating its policies in 2023, up from 5.2B and 6.7M respectively in 2022 &lpar;Nicola Agius/Search Engine Land&rpar;](http://www.techmeme.com/240327/p34#a240327p34)
- - [The new MacBook Air M3 is $100 off for the first time](https://www.theverge.com/2024/3/27/24113809/apple-macbook-air-m3-deal-sale)
- - [22 Great Gifts for $50 or Less     - CNET](https://www.cnet.com/tech/computing/best-gifts-for-50-or-less/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google says it blocked or removed 5.5B ads and 12.7M advertiser accounts for violating its policies in 2023, up from 5.2B and 6.7M respectively in 2022 &lpar;Nicola Agius/Search Engine Land&rpar;](http://www.techmeme.com/240327/p34#a240327p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

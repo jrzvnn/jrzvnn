@@ -170,7 +170,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Israel quietly rolled out a mass facial recognition program in the Gaza Strip](https://www.theverge.com/2024/3/27/24114043/israel-facial-recognition-gaza-strip-corsight)
  - [Dbrand tried and failed to fix the Ghost Case — replacements will take longer](https://www.theverge.com/2024/3/27/24113943/dbrand-clear-ghost-case-no-yellow-iphone-galaxy-s-pixel)
  - [Leaked images reveal Microsoft’s white disc-less Xbox Series X console](https://www.theverge.com/2024/3/27/24114048/microsoft-xbox-series-x-white-digital-edition-leak-rumor)
- - [NewRetirement, which offers financial retirement planning tools for consumers and enterprise customers, raised a $20M Series A led by Allegis Capital &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240327/p38#a240327p38)<!-- TECH:END -->
+ - [Best Flower Delivery Deals: Shop Now for Beautiful Mother&#39;s Day Bouquets     - CNET](https://www.cnet.com/deals/best-flower-delivery-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

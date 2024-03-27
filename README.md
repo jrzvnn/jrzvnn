@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to convert a Live Photo into a video clip](https://appleinsider.com/inside/ios/tips/how-to-convert-a-live-photo-into-a-video-clip?utm_medium=rss)
  - [NYC-based Viam, which offers an automation software platform for robotics, IoT, smart homes, and more, raised a $45M Series B, taking its total raised to $87M &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240326/p49#a240326p49)
  - [Apple responds to DOJ antitrust lawsuit by refuting every claim](https://appleinsider.com/articles/24/03/27/apple-responds-to-doj-antitrust-lawsuit-by-refuting-every-claim?utm_medium=rss)
  - [Portugal&#39;s data regulator orders Worldcoin to stop collecting biometric data for 90 days, after receiving complaints about unauthorized collection from minors &lpar;Elizabeth Howcroft/Reuters&rpar;](http://www.techmeme.com/240326/p48#a240326p48)
- - [Best Wireless Charger for 2024     - CNET](https://www.cnet.com/tech/mobile/best-wireless-charger/#ftag=CAD590a51e)
- - [Electric Rate Shopping for Your Business: Buy in Bulk and Pay Less     - CNET](https://www.cnet.com/how-to/electric-rate-shopping-for-your-business-buy-in-bulk-and-pay-less/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Wireless Charger for 2024     - CNET](https://www.cnet.com/tech/mobile/best-wireless-charger/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

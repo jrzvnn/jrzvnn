@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I wish the gate gets well soon.](http://9gag.com/gag/adByogD)
- - 😝 [One of the best moments in tv history](http://9gag.com/gag/aoymnyA)
- - 💣 [Luton city council building&#39;s flag turns Palestinian, as the city&#39;s Muslim population growth reaches 40% and it&#39;s about to become Sharia . That&#39;s the first Canary bird to predict the future of Europe](http://9gag.com/gag/ayNE16X)
- - 😝 [Who thought it was a good idea to put sockets in diagonal? Half of them cannot be used](http://9gag.com/gag/aW4BbLx)
- - 👉 [Share your weirdest knowledge](http://9gag.com/gag/aE0dWKN)<!-- MEMES:END -->
+ - 😝 [Real estate agents across the country right now](http://9gag.com/gag/a5Qpz6o)
+ - 😝 [In 2003, two men stole a parked Boeing 727 from Luanda International Airport and flew away into the sunset. They&#39;ve never been found.](http://9gag.com/gag/aBy9GLD)
+ - 💣 [One of the best moments in tv history](http://9gag.com/gag/aoymnyA)
+ - 😝 [Share your weirdest knowledge](http://9gag.com/gag/aE0dWKN)
+ - 👉 [That&#39;s awkward.](http://9gag.com/gag/aW4BDoq)<!-- MEMES:END -->
 
 ---
 

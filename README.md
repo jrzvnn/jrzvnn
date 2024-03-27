@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Forbidden moves](http://9gag.com/gag/aYQjAx0)
- - 😝 [For the first time, medical university students were shown a video of childbirth performed by C-section.Future Doctors](http://9gag.com/gag/aYQjqdm)
- - 💣 [Choose!](http://9gag.com/gag/aKG48w3)
+ - 😝 [FBI agent Robert Hanssen was tasked to find a mole within the FBI. Robert Hanssen was the mole and had been working with KGB since 1979. His espionage was described by the Department of Justice as `possibly the worst intelligence disaster in U.S. history.](http://9gag.com/gag/a0evM8z)
+ - 😝 [A win-win situation, i guess..](http://9gag.com/gag/aVvjL2v)
+ - 💣 [In 2003, two men stole a parked Boeing 727 from Luanda International Airport and flew away into the sunset. They&#39;ve never been found.](http://9gag.com/gag/aBy9GLD)
  - 😝 [Share your weirdest knowledge](http://9gag.com/gag/aE0dWKN)
- - 👉 [100% replica](http://9gag.com/gag/adByo5V)<!-- MEMES:END -->
+ - 👉 [For the first time, medical university students were shown a video of childbirth performed by C-section.Future Doctors](http://9gag.com/gag/aYQjqdm)<!-- MEMES:END -->
 
 ---
 

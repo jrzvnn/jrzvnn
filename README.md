@@ -170,7 +170,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [How Phil Schiller, now an Apple Fellow, emerged as Apple&#39;s most ardent public defender of its ecosystem, under threat from the US DOJ, the EU, rivals, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240327/p13#a240327p13)
  - [Productivity platform Airtable launches Airtable AI, adding AI summaries, categorization, and translation via GPT-3.5, GPT-4, and Anthropic&#39;s Claude &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240327/p12#a240327p12)
  - [Google rolls out Gemini to some Google Messages beta users with RCS enabled on select Pixel and Galaxy devices, letting users chat to Gemini over RCS &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240327/p11#a240327p11)
- - [Best Gifts for Hikers, From Their Feet to Their Butts     - CNET](https://www.cnet.com/health/fitness/best-gifts-for-hikers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Elie Hassenfeld Q&amp;A: ‘$5,000 to Save a Life Is a Bargain’](https://www.wired.com/story/elie-hassenfeld-givewell-ea/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

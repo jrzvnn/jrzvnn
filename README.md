@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China iPhone sales dropped significantly more than normal in February](https://appleinsider.com/articles/24/03/27/china-iphone-sales-dropped-significantly-more-than-normal-in-february?utm_medium=rss)
+ - [How Phil Schiller, now an Apple Fellow, emerged as Apple&#39;s most ardent public defender of its ecosystem, under threat from the US DOJ, the EU, rivals, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240327/p13#a240327p13)
  - [Productivity platform Airtable launches Airtable AI, adding AI summaries, categorization, and translation via GPT-3.5, GPT-4, and Anthropic&#39;s Claude &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240327/p12#a240327p12)
  - [Google rolls out Gemini to some Google Messages beta users with RCS enabled on select Pixel and Galaxy devices, letting users chat to Gemini over RCS &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240327/p11#a240327p11)
- - [Best Gifts for Hikers, From Their Feet to Their Butts     - CNET](https://www.cnet.com/health/fitness/best-gifts-for-hikers/#ftag=CAD590a51e)
- - [How iOS 17.4&#39;s Podcast Transcripts Work on Your iPhone     - CNET](https://www.cnet.com/tech/services-and-software/how-ios-17-4-s-podcast-transcripts-work-on-your-iphone/#ftag=CAD590a51e)
- - [iOS 17.4: All the Latest Features on Your iPhone Explained     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-4-all-the-latest-features-on-your-iphone-explained/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Gifts for Hikers, From Their Feet to Their Butts     - CNET](https://www.cnet.com/health/fitness/best-gifts-for-hikers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

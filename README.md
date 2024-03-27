@@ -166,10 +166,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google researchers observed 97 zero-day exploits in the wild in 2023, up 50% from 62 in 2022; 48 were used by espionage actors and 10 were financially-motivated &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/240327/p22#a240327p22)
  - [Sources: blockchain AI companies SingularityNET, Fetch.ai, and Ocean Protocol are discussing merging their tokens, creating ASI with a ~$7.5B diluted value &lpar;Michelle F Davis/Bloomberg&rpar;](http://www.techmeme.com/240327/p21#a240327p21)
  - [At Intel&#39;s AI Summit in Taipei, executives say Copilot will soon run locally on PCs and that there will be a 40 TOPS requirement for NPUs on next-gen AI PCs &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240327/p20#a240327p20)
  - [Disney launches Hulu on Disney+, after testing the integration in beta in 2023; Disney+ users that do not subscribe to Hulu can still search for Hulu shows &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/240327/p19#a240327p19)
- - [Watch Your Sleep Improve When You Use These 6 Tips     - CNET](https://www.cnet.com/health/sleep/watch-your-sleep-improve-when-you-use-these-6-tips/#ftag=CAD590a51e)
  - [22 Best Nintendo Switch Accessories &lpar;2024&rpar;: Docks, Cases, Headsets, and More](https://www.wired.com/gallery/best-nintendo-switch-accessories/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

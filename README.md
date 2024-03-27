@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How radioactive if the plates of your granny?](http://9gag.com/gag/a6ZrpeN)
+ - 😝 [FBI agent Robert Hanssen was tasked to find a mole within the FBI. Robert Hanssen was the mole and had been working with KGB since 1979. His espionage was described by the Department of Justice as `possibly the worst intelligence disaster in U.S. history.](http://9gag.com/gag/a0evM8z)
+ - 😝 [Tesla Model S Plaid does 328 km/h &lpar;204 mph&rpar; on Autobahn](http://9gag.com/gag/ae9Kx4m)
+ - 💣 [Who wants the tape after me?](http://9gag.com/gag/a7ovNVz)
  - 😝 [Forbidden moves](http://9gag.com/gag/aYQjAx0)
- - 💣 [For the first time, medical university students were shown a video of childbirth performed by C-section.Future Doctors](http://9gag.com/gag/aYQjqdm)
- - 😝 [Choose!](http://9gag.com/gag/aKG48w3)
- - 👉 [A win-win situation, i guess..](http://9gag.com/gag/aVvjL2v)<!-- MEMES:END -->
+ - 👉 [Mondays got me like](http://9gag.com/gag/aNDmVEA)<!-- MEMES:END -->
 
 ---
 

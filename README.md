@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Canva&#39;s Affinity deal will shake the Adobe status quo](https://appleinsider.com/articles/24/03/27/canvas-affinity-deal-will-shake-the-adobe-status-quo?utm_medium=rss)
- - [Here’s our first look at Apple’s in-the-box iPhone updating machine](https://www.theverge.com/2024/3/27/24113561/apple-retail-presto-iphone-update-machine)
- - [The principles of wearable etiquette](https://www.theverge.com/2024/3/27/24113500/wearables-smartwatches-smart-glasses-smart-rings-etiquette)
- - [Apple Ring rumors &amp; research - what you need to know about Apple&#39;s next wearable](https://appleinsider.com/articles/24/01/22/after-apple-vision-pro-an-apple-ring-may-be-next?utm_medium=rss)
- - [Online Conspiracies About the Baltimore Bridge Collapse Are Out of Control](https://www.wired.com/story/baltimore-bridge-collapse-conspiracy-theories/)<!-- TECH:END -->
+ - [NY-based Hume, which is building a conversational AI that it claims can interpret emotions based on people&#39;s voices, raised a $50M Series B at a $219M valuation &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/240327/p32#a240327p32)
+ - [The Baltimore Bridge Collapse Is About to Get Even Messier](https://www.wired.com/story/baltimore-bridge-collapse-shipping-supply-chain-disruption-francis-scott-key/)
+ - [Bill Maher expands podcast operation with a controversial host](https://www.theverge.com/2024/3/27/24113735/bill-maher-podcast-sage-seele-andrew-huberman-lex-fridman-spotify-ambies)
+ - [Big Deals Remain for Honeywell Home Thermostats After Amazon&#39;s Spring Sale     - CNET](https://www.cnet.com/deals/big-deals-remain-for-honeywell-home-thermostats/#ftag=CAD590a51e)
+ - [Hulu on Disney Plus Launches in the US     - CNET](https://www.cnet.com/tech/services-and-software/hulu-on-disney-plus-launches-in-the-us/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

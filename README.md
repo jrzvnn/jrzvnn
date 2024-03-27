@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How tech companies&#39; search for AI experts, hampered by a shortage of candidates, led to million-dollar-a-year pay packages, poaching entire teams, and more &lpar;Katherine Bindley/Wall Street Journal&rpar;](http://www.techmeme.com/240327/p18#a240327p18)
+ - [Chinese state media: President Xi criticized &quot;technological barriers&quot; during Dutch Prime Minister Mark Rutte&#39;s visit to Beijing, as the US curbs ASML exports &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/240327/p17#a240327p17)
+ - [BOE becomes favorite to supply 6.1-inch screens for iPhone SE 4](https://appleinsider.com/articles/24/03/27/boe-becomes-favorite-to-supply-61-inch-screens-for-iphone-se-4?utm_medium=rss)
  - [A look at Databricks&#39; new open source model DBRX, which cost ~$10M to develop over several months and, Databricks says, outshines Llama 2, Mixtral, and Grok &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/240327/p16#a240327p16)
- - [The Next Generation of Cancer Drugs Will Be Made in Space](https://www.wired.com/story/the-next-generation-of-cancer-drugs-will-be-made-in-space-bioorbit-katie-king/)
- - [Inside the Creation of DBRX, the World&#39;s Most Powerful Open Source AI Model](https://www.wired.com/story/dbrx-inside-the-creation-of-the-worlds-most-powerful-open-source-ai-model/)
- - [Chinese iPhone sales may be decelerating at faster pace than expected](https://appleinsider.com/articles/24/03/27/china-iphone-sales-dropped-significantly-more-than-normal-in-february?utm_medium=rss)
- - [Elon Musk says X plans to make Grok available to all Premium subscribers &quot;later this week&quot;, expanding on Premium+ support; X Premium costs $8 per month &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240327/p15#a240327p15)<!-- TECH:END -->
+ - [The Next Generation of Cancer Drugs Will Be Made in Space](https://www.wired.com/story/the-next-generation-of-cancer-drugs-will-be-made-in-space-bioorbit-katie-king/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

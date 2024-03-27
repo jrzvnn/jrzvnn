@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She can&#39;t be real with this](http://9gag.com/gag/aXPZVVD)
+ - 😝 [That camel must be so happy to get that off his back](http://9gag.com/gag/an7eE90)
  - 😝 [This Horse won the race without its rider.](http://9gag.com/gag/aGyKGO0)
- - 💣 [A training ground in China&#39;s Inner Mongolia is a replica of the road network near Taiwan&#39;s Presidential Palace.](http://9gag.com/gag/aRB62eA)
- - 😝 [Who wants the tape after me?](http://9gag.com/gag/a7ovNVz)
- - 👉 [For the first time, medical university students were shown a video of childbirth performed by C-section.Future Doctors](http://9gag.com/gag/aYQjqdm)<!-- MEMES:END -->
+ - 💣 [Her face when dude tells her to define it without saying the word Woman lmao.](http://9gag.com/gag/aW4Bb3n)
+ - 😝 [Baltimore Bridge Collapse HD](http://9gag.com/gag/awyN408)
+ - 👉 [In 2003, two men stole a parked Boeing 727 from Luanda International Airport and flew away into the sunset. They&#39;ve never been found.](http://9gag.com/gag/aBy9GLD)<!-- MEMES:END -->
 
 ---
 

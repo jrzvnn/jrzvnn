@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Women](http://9gag.com/gag/aNDmVPv)
  - 😝 [Bad ending](http://9gag.com/gag/axyEOXL)
- - 😝 [You just know that make the reporters day\u2764\ufe0f](http://9gag.com/gag/adByeBQ)
- - 💣 [American rapper and record producer Sean `Diddy` Combs.](http://9gag.com/gag/aNDmBWb)
- - 😝 [Standing in a swamp during a lightning storm](http://9gag.com/gag/a87debe)
- - 👉 [Cleaning hair out of hair clippers.](http://9gag.com/gag/ae9KV4Q)<!-- MEMES:END -->
+ - 💣 [In 2003, two men stole a parked Boeing 727 from Luanda International Airport and flew away into the sunset. They&#39;ve never been found.](http://9gag.com/gag/aBy9GLD)
+ - 😝 [Cleaning hair out of hair clippers.](http://9gag.com/gag/ae9KV4Q)
+ - 👉 [You just know that make the reporters day\u2764\ufe0f](http://9gag.com/gag/adByeBQ)<!-- MEMES:END -->
 
 ---
 

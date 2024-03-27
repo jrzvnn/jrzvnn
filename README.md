@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Standing in a swamp during a lightning storm](http://9gag.com/gag/a87debe)
- - 😝 [Forbidden moves](http://9gag.com/gag/aYQjAx0)
- - 💣 [60 second explanation of Baltimore bridge collapse](http://9gag.com/gag/aAyBOV0)
- - 😝 [Back Crack!](http://9gag.com/gag/abA3QoB)
- - 👉 [Boomer life](http://9gag.com/gag/apRKbBD)<!-- MEMES:END -->
+ - 😝 [I want to play a game ....](http://9gag.com/gag/aMVeOZ6)
+ - 😝 [You&#39;re being naughty!](http://9gag.com/gag/aBy9OxP)
+ - 💣 [Diddy should be just the beginning](http://9gag.com/gag/ary1BA7)
+ - 😝 [Day 12 losing hope send tell me a joke](http://9gag.com/gag/aGyKOpX)
+ - 👉 [Guy was living the dream. They only found out after an auditor came by.](http://9gag.com/gag/awyNYw1)<!-- MEMES:END -->
 
 ---
 

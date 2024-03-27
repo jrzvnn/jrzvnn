@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Oregon&#39;s governor signs the first US right-to-repair law that bans manufacturers from using &quot;parts pairing&quot; to dictate what replacement components can be used &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240327/p37#a240327p37)
  - [Oregon’s governor signs right-to-repair law that bans ‘parts pairing’](https://www.theverge.com/2024/3/27/24097042/right-to-repair-law-oregon-sb1596-parts-pairing-tina-kotek-signed)
  - [Despite Apple pushback, Oregon has passed its right-to-repair bill banning parts pairing](https://appleinsider.com/articles/24/03/27/despite-apple-pushback-oregon-has-passed-its-right-to-repair-bill-banning-parts-pairing?utm_medium=rss)
  - [No, the NAR Real Estate Settlement Probably Won&#39;t Drive Down Home Prices. Here&#39;s Why     - CNET](https://www.cnet.com/personal-finance/mortgages/no-the-nar-real-estate-settlement-probably-wont-drive-down-home-prices-heres-why/#ftag=CAD590a51e)
- - [Phone and Laptop Repair Is Going Mainstream, With a Big Push From iFixit     - CNET](https://www.cnet.com/tech/mobile/phone-and-laptop-repair-is-going-mainstream-with-a-big-push-from-ifixit/#ftag=CAD590a51e)
- - [Anthropic&#39;s Claude 3 Opus surpassed OpenAI&#39;s GPT-4 for the first time on Chatbot Arena, a crowdsourced leaderboard used by AI researchers for LLM evaluations &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/240327/p36#a240327p36)<!-- TECH:END -->
+ - [Phone and Laptop Repair Is Going Mainstream, With a Big Push From iFixit     - CNET](https://www.cnet.com/tech/mobile/phone-and-laptop-repair-is-going-mainstream-with-a-big-push-from-ifixit/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

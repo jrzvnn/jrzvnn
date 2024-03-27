@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DroneUp unveils an autonomous drone &quot;ecosystem&quot; for last-mile deliveries, with Walmart, 7-Eleven, and Chick-fil-A the first retailers to pilot the system &lpar;Joann Muller/Axios&rpar;](http://www.techmeme.com/240326/p50#a240326p50)
  - [How to convert a Live Photo into a video clip](https://appleinsider.com/inside/ios/tips/how-to-convert-a-live-photo-into-a-video-clip?utm_medium=rss)
  - [Best iPhone 15 and iPhone 15 Pro Cases for 2024     - CNET](https://www.cnet.com/tech/mobile/best-iphone-15-and-iphone-15-pro-cases/#ftag=CAD590a51e)
  - [Best Blue-Light-Blocking Glasses of 2024     - CNET](https://www.cnet.com/health/personal-care/best-blue-light-blocking-glasses/#ftag=CAD590a51e)
- - [NYC-based Viam, which offers an automation software platform for robotics, IoT, smart homes, and more, raised a $45M Series B, taking its total raised to $87M &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240326/p49#a240326p49)
- - [Best Internet Providers in Roseville, California     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-roseville-ca/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [NYC-based Viam, which offers an automation software platform for robotics, IoT, smart homes, and more, raised a $45M Series B, taking its total raised to $87M &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240326/p49#a240326p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

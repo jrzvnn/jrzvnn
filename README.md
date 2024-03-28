@@ -176,9 +176,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Stay safe, kings](http://9gag.com/gag/a2vEL01)
- - 😝 [Happiness Noise](http://9gag.com/gag/aqy4DWp)
- - 💣 [`Are they peaceful?` - Asked the woman](http://9gag.com/gag/apRKVyW)
- - 😝 [I still prefer the left one, what do you guys think?](http://9gag.com/gag/a5QpqAL)
+ - 😝 [I wish the gate gets well soon.](http://9gag.com/gag/adByogD)
+ - 💣 [&lpar;Jia lissa &rpar;..I&#39;m sure 9gag experts can fix her](http://9gag.com/gag/aBy9OYN)
+ - 😝 [Who thought it was a good idea to put sockets in diagonal? Half of them cannot be used](http://9gag.com/gag/aW4BbLx)
  - 👉 [That&#39;s awkward.](http://9gag.com/gag/aW4BDoq)<!-- MEMES:END -->
 
 ---

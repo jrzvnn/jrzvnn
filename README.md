@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Get a Mac Studio M1 Ultra for just $2,199, now $1,800 off during Prime Appreciation Sale](https://appleinsider.com/articles/24/03/28/get-a-mac-studio-m1-ultra-for-just-2199-now-1800-off-during-prime-appreciation-sale?utm_medium=rss)
  - [Amazon launches iOS and Android apps for Amazon One, which let users sign up for the palm-scanning service by using generative AI to analyze palm vein structure &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240328/p24#a240328p24)
  - [How a Windows shake-up could position Microsoft to capitalize on AI PCs](https://www.theverge.com/2024/3/28/24114362/microsoft-windows-surface-reorg-ai-pcs-report)
  - [New York’s first offshore wind hub to be built with union labor](https://www.theverge.com/2024/3/28/24114498/offshore-wind-farm-new-york-hub-labor-agreement-empire-wind)
- - [Amazon’s palm-scanning service now lets you sign up from your phone](https://www.theverge.com/2024/3/28/24114499/amazon-one-palm-scanning-mobile-app)
- - [Google updates Search to show crypto wallet balances across bitcoin and Ethereum Virtual Machine networks Arbitrum, Avalanche, Fantom, Optimism, and Polygon &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240328/p23#a240328p23)<!-- TECH:END -->
+ - [Amazon’s palm-scanning service now lets you sign up from your phone](https://www.theverge.com/2024/3/28/24114499/amazon-one-palm-scanning-mobile-app)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

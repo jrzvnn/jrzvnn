@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Back Crack!](http://9gag.com/gag/abA3QoB)
- - 😝 [Why model if goblin do job](http://9gag.com/gag/aqy4dxZ)
- - 💣 [Freedom!!!](http://9gag.com/gag/aoymD7g)
+ - 😝 [One of the best moments in tv history](http://9gag.com/gag/aoymnyA)
  - 😝 [Still no photos of the ship captain. Funny, that...](http://9gag.com/gag/ary1dpd)
- - 👉 [That&#39;s awkward.](http://9gag.com/gag/aW4BDoq)<!-- MEMES:END -->
+ - 💣 [Why model if goblin do job](http://9gag.com/gag/aqy4dxZ)
+ - 😝 [That&#39;s awkward.](http://9gag.com/gag/aW4BDoq)
+ - 👉 [I still prefer the left one, what do you guys think?](http://9gag.com/gag/a5QpqAL)<!-- MEMES:END -->
 
 ---
 

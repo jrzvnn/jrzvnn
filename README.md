@@ -176,9 +176,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Still no photos of the ship captain. Funny, that...](http://9gag.com/gag/ary1dpd)
- - 😝 [Freedom!!!](http://9gag.com/gag/aoymD7g)
- - 💣 [I still prefer the left one, what do you guys think?](http://9gag.com/gag/a5QpqAL)
  - 😝 [`Are they peaceful?` - Asked the woman](http://9gag.com/gag/apRKVyW)
+ - 💣 [Freedom!!!](http://9gag.com/gag/aoymD7g)
+ - 😝 [That&#39;s awkward.](http://9gag.com/gag/aW4BDoq)
  - 👉 [I wish the gate gets well soon.](http://9gag.com/gag/adByogD)<!-- MEMES:END -->
 
 ---

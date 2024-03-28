@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh snap](http://9gag.com/gag/aPA6nbR)
- - 😝 [Share a picture to use when you are late to work?](http://9gag.com/gag/a34v2r1)
- - 💣 [Happiness Noise](http://9gag.com/gag/aqy4DWp)
- - 😝 [I still prefer the left one, what do you guys think?](http://9gag.com/gag/a5QpqAL)
- - 👉 [One of the best moments in tv history](http://9gag.com/gag/aoymnyA)<!-- MEMES:END -->
+ - 😝 [Is he alive?! Need clarification!](http://9gag.com/gag/aVvjRrw)
+ - 😝 [One of the best moments in tv history](http://9gag.com/gag/aoymnyA)
+ - 💣 [Share a picture to use when you are late to work?](http://9gag.com/gag/a34v2r1)
+ - 😝 [Happiness Noise](http://9gag.com/gag/aqy4DWp)
+ - 👉 [I still prefer the left one, what do you guys think?](http://9gag.com/gag/a5QpqAL)<!-- MEMES:END -->
 
 ---
 

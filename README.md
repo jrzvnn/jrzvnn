@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Share your weirdest knowledge](http://9gag.com/gag/aE0dWKN)
- - 😝 [Gambling is fun!](http://9gag.com/gag/aQz6O3r)
- - 💣 [I wish the gate gets well soon.](http://9gag.com/gag/adByogD)
- - 😝 [Share a picture to use when you are late to work?](http://9gag.com/gag/a34v2r1)
- - 👉 [Blind Man gets arrested for carrying a white cane](http://9gag.com/gag/aBy94oA)<!-- MEMES:END -->
+ - 😝 [OK this is the good type of prank, and a creative one at that. Actually made me chuckle](http://9gag.com/gag/aZZqRyp)
+ - 😝 [Idiot Impossible](http://9gag.com/gag/azx74Ob)
+ - 💣 [Veteran 9gagger to newbie : welcome to the club](http://9gag.com/gag/aPA6r4w)
+ - 😝 [How to thicc all the boxes](http://9gag.com/gag/a1mpOgb)
+ - 👉 [What if you stop observing it tho](http://9gag.com/gag/azx7ZQq)<!-- MEMES:END -->
 
 ---
 

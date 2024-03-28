@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mandiant: Yevgeny Prigozhin-linked online influence operations are active months after his death in August 2023, and underwent subtle shifts in their targeting &lpar;Dustin Volz/Wall Street Journal&rpar;](http://www.techmeme.com/240328/p10#a240328p10)
  - [NYC-based Coro, which offers SMB cybersecurity tools, raised a $100M Series D led by One Peak, sources say at a $750M post-money valuation, to expand in Europe &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240328/p9#a240328p9)
  - [Trump Media &amp; Technology Group closed up 14% at $66.22 on March 27, for a $13.5B market cap, as small investors boost the stock; Trump&#39;s stake is worth ~$5.3B &lpar;Financial Times&rpar;](http://www.techmeme.com/240328/p8#a240328p8)
  - [The US OMB releases new guidance on AI, requiring all federal agencies to have a senior leader overseeing all AI systems they use and submit an annual AI report &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240328/p7#a240328p7)
- - [Houston Open 2024: How to Watch and Stream All the PGA Tour Golf From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/houston-open-2024-how-to-watch-stream-all-the-pga-tour-golf-from-anywhere/#ftag=CAD590a51e)
- - [Internet Bills Could Rise for Millions Soon. Here&#39;s What You Can Do to Save Money     - CNET](https://www.cnet.com/home/internet/internet-bills-could-rise-for-millions-soon-heres-what-you-can-do-to-save-money/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Houston Open 2024: How to Watch and Stream All the PGA Tour Golf From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/houston-open-2024-how-to-watch-stream-all-the-pga-tour-golf-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

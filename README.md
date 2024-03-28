@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Marriage in a nutshell](http://9gag.com/gag/axyEANL)
- - 😝 [Happiness Noise](http://9gag.com/gag/aqy4DWp)
- - 💣 [A training ground in China&#39;s Inner Mongolia is a replica of the road network near Taiwan&#39;s Presidential Palace.](http://9gag.com/gag/aRB62eA)
- - 😝 [One of the best moments in tv history](http://9gag.com/gag/aoymnyA)
- - 👉 [I still prefer the left one, what do you guys think?](http://9gag.com/gag/a5QpqAL)<!-- MEMES:END -->
+ - 😝 [The way he just lights up.](http://9gag.com/gag/aZZqvj9)
+ - 😝 [Back Crack!](http://9gag.com/gag/abA3QoB)
+ - 💣 [Those ruffians will cease to cause any more tomfoolery once and for all!](http://9gag.com/gag/aE0dEj9)
+ - 😝 [Who ?](http://9gag.com/gag/aqy4AAR)
+ - 👉 [Freedom!!!](http://9gag.com/gag/aoymD7g)<!-- MEMES:END -->
 
 ---
 

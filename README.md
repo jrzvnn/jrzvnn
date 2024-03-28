@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Questionable iPhone Fold rumor pushes release into early 2027](https://appleinsider.com/articles/24/03/28/questionable-iphone-fold-rumor-pushes-release-into-early-2027?utm_medium=rss)
  - [Why Apple Vision Pro could evolve similarly to the Apple Watch](https://appleinsider.com/articles/24/03/28/why-apple-vision-pro-could-evolve-similarly-to-the-apple-watch?utm_medium=rss)
  - [Ray-Ban Meta glasses hands-on: AI features coming in April, triggered by &quot;Hey, Meta&quot;, are sometimes impressive and helpful, but the AI often gets things wrong &lpar;New York Times&rpar;](http://www.techmeme.com/240328/p14#a240328p14)
  - [A look at an Indian court case over Byju Raveendran&#39;s control of Byju&#39;s, as investors, who voted to remove Raveendran last month, brace for a protracted battle &lpar;Financial Times&rpar;](http://www.techmeme.com/240328/p13#a240328p13)
- - [Embracer is selling Borderlands developer Gearbox to Take-Two](https://www.theverge.com/2024/3/28/24114402/embracer-selling-gearbox-borderlands-developer-take-two)
- - [Xbox Game Pass Ultimate: You Can Play Diablo 4 Now, and More Soon     - CNET](https://www.cnet.com/tech/gaming/xbox-game-pass-ultimate-you-can-play-diablo-4-now-more-soon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Embracer is selling Borderlands developer Gearbox to Take-Two](https://www.theverge.com/2024/3/28/24114402/embracer-selling-gearbox-borderlands-developer-take-two)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

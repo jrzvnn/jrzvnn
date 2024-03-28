@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Guy was living the dream. They only found out after an auditor came by.](http://9gag.com/gag/awyNYw1)
+ - 😝 [Blind Man gets arrested for carrying a white cane](http://9gag.com/gag/aBy94oA)
+ - 💣 [Back Crack!](http://9gag.com/gag/abA3QoB)
  - 😝 [Why does this feel true..](http://9gag.com/gag/a87dzbd)
- - 😝 [Stay safe, kings](http://9gag.com/gag/a2vEL01)
- - 💣 [Blind Man gets arrested for carrying a white cane](http://9gag.com/gag/aBy94oA)
- - 😝 [Share a picture to use when you are late to work?](http://9gag.com/gag/a34v2r1)
- - 👉 [That&#39;s awkward.](http://9gag.com/gag/aW4BDoq)<!-- MEMES:END -->
+ - 👉 [Share a picture to use when you are late to work?](http://9gag.com/gag/a34v2r1)<!-- MEMES:END -->
 
 ---
 

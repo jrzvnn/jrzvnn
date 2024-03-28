@@ -167,7 +167,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [How to open an Apple Maps URL from a screenshot in macOS](https://appleinsider.com/inside/apple-maps/tips/how-to-open-an-apple-maps-url-from-a-screenshot-in-macos?utm_medium=rss)
- - [GLAAD: Meta is failing to curb posts that call for violence against trans people and describe trans and gender nonconforming people as &quot;satanic&quot; and more &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/240327/p41#a240327p41)
+ - [GLAAD: Meta is failing to curb posts calling for violence against trans people, posts calling trans and gender nonconforming people &quot;satanic&quot;, and more &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/240327/p41#a240327p41)
  - [Deals: Apple&#39;s M3 MacBook Air &lpar;10-core GPU, 16GB RAM, 512GB SSD&rpar; drops to $1,329](https://appleinsider.com/articles/24/03/28/deals-apples-m3-macbook-air-10-core-gpu-16gb-ram-512gb-ssd-drops-to-1329?utm_medium=rss)
  - [Best E-Reader for 2024     - CNET](https://www.cnet.com/tech/computing/best-e-reader/#ftag=CAD590a51e)
  - [Best Weight Loss Programs for 2024     - CNET](https://www.cnet.com/health/nutrition/best-weight-loss-programs/#ftag=CAD590a51e)<!-- TECH:END -->

@@ -169,7 +169,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [How a Windows shake-up could position Microsoft to capitalize on AI PCs](https://www.theverge.com/2024/3/28/24114362/microsoft-windows-surface-reorg-ai-pcs-report)
  - [New York’s first offshore wind hub to be built with union labor](https://www.theverge.com/2024/3/28/24114498/offshore-wind-farm-new-york-hub-labor-agreement-empire-wind)
  - [Amazon’s palm-scanning service now lets you sign up from your phone](https://www.theverge.com/2024/3/28/24114499/amazon-one-palm-scanning-mobile-app)
- - [Google updates Search to start showing crypto wallet balances across bitcoin and the EVM networks Arbitrum, Avalanche, Fantom, Optimism, and Polygon &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240328/p23#a240328p23)
+ - [Google updates Search to show crypto wallet balances across bitcoin and Ethereum Virtual Machine networks Arbitrum, Avalanche, Fantom, Optimism, and Polygon &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240328/p23#a240328p23)
  - [Sam Bankman-Fried sentenced to 25 years for FTX fraud](https://www.theverge.com/2024/3/28/24112507/sam-bankman-fried-sentence-ftx-alameda)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

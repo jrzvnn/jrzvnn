@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One of the best moments in tv history](http://9gag.com/gag/aoymnyA)
- - 😝 [Stay safe, kings](http://9gag.com/gag/a2vEL01)
+ - 😝 [Her face when dude tells her to define it without saying the word Woman lmao.](http://9gag.com/gag/aW4Bb3n)
+ - 😝 [I wish the gate gets well soon.](http://9gag.com/gag/adByogD)
  - 💣 [Happiness Noise](http://9gag.com/gag/aqy4DWp)
- - 😝 [That&#39;s awkward.](http://9gag.com/gag/aW4BDoq)
- - 👉 [Share a picture to use when you are late to work?](http://9gag.com/gag/a34v2r1)<!-- MEMES:END -->
+ - 😝 [Share a picture to use when you are late to work?](http://9gag.com/gag/a34v2r1)
+ - 👉 [That&#39;s awkward.](http://9gag.com/gag/aW4BDoq)<!-- MEMES:END -->
 
 ---
 

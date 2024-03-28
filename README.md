@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guy was living the dream. They only found out after an auditor came by.](http://9gag.com/gag/awyNYw1)
- - 😝 [Blind Man gets arrested for carrying a white cane](http://9gag.com/gag/aBy94oA)
- - 💣 [Back Crack!](http://9gag.com/gag/abA3QoB)
- - 😝 [Why does this feel true..](http://9gag.com/gag/a87dzbd)
- - 👉 [Share a picture to use when you are late to work?](http://9gag.com/gag/a34v2r1)<!-- MEMES:END -->
+ - 😝 [In 2003, two men stole a parked Boeing 727 from Luanda International Airport and flew away into the sunset. They&#39;ve never been found.](http://9gag.com/gag/aBy9GLD)
+ - 😝 [That camel must be so happy to get that off his back](http://9gag.com/gag/an7eE90)
+ - 💣 [Stay safe, kings](http://9gag.com/gag/a2vEL01)
+ - 😝 [Share a picture to use when you are late to work?](http://9gag.com/gag/a34v2r1)
+ - 👉 [That&#39;s awkward.](http://9gag.com/gag/aW4BDoq)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Idiot Impossible](http://9gag.com/gag/azx74Ob)
- - 😝 [Guy was living the dream. They only found out after an auditor came by.](http://9gag.com/gag/awyNYw1)
- - 💣 [Why does this feel true..](http://9gag.com/gag/a87dzbd)
- - 😝 [What if you stop observing it tho](http://9gag.com/gag/azx7ZQq)
- - 👉 [How to thicc all the boxes](http://9gag.com/gag/a1mpOgb)<!-- MEMES:END -->
+ - 😝 [Boomer life](http://9gag.com/gag/apRKbBD)
+ - 😝 [Gambling is fun!](http://9gag.com/gag/aQz6O3r)
+ - 💣 [Share a picture to use when you are late to work?](http://9gag.com/gag/a34v2r1)
+ - 😝 [Who thought it was a good idea to put sockets in diagonal? Half of them cannot be used](http://9gag.com/gag/aW4BbLx)
+ - 👉 [I still prefer the left one, what do you guys think?](http://9gag.com/gag/a5QpqAL)<!-- MEMES:END -->
 
 ---
 

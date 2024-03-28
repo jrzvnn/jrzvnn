@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Blind Man gets arrested for carrying a white cane](http://9gag.com/gag/aBy94oA)
- - 😝 [Some people are so poor all they have is money](http://9gag.com/gag/a6ZrG38)
- - 💣 [Stay safe, kings](http://9gag.com/gag/a2vEL01)
- - 😝 [Who thought it was a good idea to put sockets in diagonal? Half of them cannot be used](http://9gag.com/gag/aW4BbLx)
- - 👉 [That&#39;s awkward.](http://9gag.com/gag/aW4BDoq)<!-- MEMES:END -->
+ - 😝 [Share your weirdest knowledge](http://9gag.com/gag/aE0dWKN)
+ - 😝 [Gambling is fun!](http://9gag.com/gag/aQz6O3r)
+ - 💣 [I wish the gate gets well soon.](http://9gag.com/gag/adByogD)
+ - 😝 [Share a picture to use when you are late to work?](http://9gag.com/gag/a34v2r1)
+ - 👉 [Blind Man gets arrested for carrying a white cane](http://9gag.com/gag/aBy94oA)<!-- MEMES:END -->
 
 ---
 

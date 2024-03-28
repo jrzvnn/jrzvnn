@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Celestial AI, which develops optical tech for linking together processors and memory modules, raised a $175M Series C led by US Innovative Technology Fund &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/240327/p39#a240327p39)
- - [Israel quietly rolled out a mass facial recognition program in the Gaza Strip](https://www.theverge.com/2024/3/27/24114043/israel-facial-recognition-gaza-strip-corsight)
- - [Dbrand tried and failed to fix the Ghost Case — replacements will take longer](https://www.theverge.com/2024/3/27/24113943/dbrand-clear-ghost-case-no-yellow-iphone-galaxy-s-pixel)
- - [Leaked images reveal Microsoft’s white disc-less Xbox Series X console](https://www.theverge.com/2024/3/27/24114048/microsoft-xbox-series-x-white-digital-edition-leak-rumor)
- - [Best Flower Delivery Deals: Shop Now for Beautiful Mother&#39;s Day Bouquets     - CNET](https://www.cnet.com/deals/best-flower-delivery-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Poland&#39;s consumer watchdog fines Amazon ~$8M for allegedly misleading consumers, including with dark pattern design tricks, ending a probe opened in Feb. 2023 &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240327/p40#a240327p40)
+ - [Best Noise-Canceling Headphones Under $100 for 2024     - CNET](https://www.cnet.com/tech/mobile/best-noise-canceling-headphones-under-100/#ftag=CAD590a51e)
+ - [Best Wi-Fi Extenders of 2024     - CNET](https://www.cnet.com/home/internet/best-wifi-extender/#ftag=CAD590a51e)
+ - [The 8 Best Grocery Delivery Services in 2024     - CNET](https://www.cnet.com/news/best-grocery-delivery-service/#ftag=CAD590a51e)
+ - [Best Latex Mattresses of 2024     - CNET](https://www.cnet.com/health/sleep/best-latex-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

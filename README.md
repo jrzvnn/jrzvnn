@@ -175,9 +175,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One of the best moments in tv history](http://9gag.com/gag/aoymnyA)
+ - 😝 [Stay safe, kings](http://9gag.com/gag/a2vEL01)
  - 😝 [Still no photos of the ship captain. Funny, that...](http://9gag.com/gag/ary1dpd)
- - 💣 [Why model if goblin do job](http://9gag.com/gag/aqy4dxZ)
+ - 💣 [One of the best moments in tv history](http://9gag.com/gag/aoymnyA)
  - 😝 [That&#39;s awkward.](http://9gag.com/gag/aW4BDoq)
  - 👉 [I still prefer the left one, what do you guys think?](http://9gag.com/gag/a5QpqAL)<!-- MEMES:END -->
 

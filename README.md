@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [A look at an Indian court case over Byju Raveendran&#39;s control of Byju&#39;s, as investors, who voted to remove Raveendran last month, brace for a protracted battle &lpar;Financial Times&rpar;](http://www.techmeme.com/240328/p13#a240328p13)
  - [Embracer is selling Borderlands developer Gearbox to Take-Two](https://www.theverge.com/2024/3/28/24114402/embracer-selling-gearbox-borderlands-developer-take-two)
- - [Marc Andreessen, Chris Dixon, Galaxy Digital, and others invest $75M in crypto fund 1kx, which has raised ~$200M since 2018 and invested in Rarible and more &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/240328/p12#a240328p12)
- - [At a DC event on May 1, over 100 tech CEOs and investors plan to lobby against AI regulation, ask to relax immigration rules, and drum up hawkishness on China &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/240328/p11#a240328p11)
- - [Mandiant: Yevgeny Prigozhin-linked online influence operations are active months after his death in August 2023, and underwent subtle shifts in their targeting &lpar;Dustin Volz/Wall Street Journal&rpar;](http://www.techmeme.com/240328/p10#a240328p10)<!-- TECH:END -->
+ - [19 Best PS5 Games &lpar;2024&rpar;: &#39;Alan Wake II,&#39; &#39;Spider-Man 2,&#39; &#39;Baldur&#39;s Gate 3,&#39; and &#39;Stray&#39;](https://www.wired.com/gallery/best-ps5-games/)
+ - [Jeffrey Epstein&#39;s Island Visitors Exposed by Data Broker](https://www.wired.com/story/jeffrey-epstein-island-visitors-data-broker-leak/)
+ - [Marc Andreessen, Chris Dixon, Galaxy Digital, and others invest $75M in crypto fund 1kx, which has raised ~$200M since 2018 and invested in Rarible and more &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/240328/p12#a240328p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

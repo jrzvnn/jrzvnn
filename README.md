@@ -168,7 +168,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Meet the Designer Behind Neuralink’s Surgical Robot](https://www.wired.com/story/designer-behind-neuralinks-surgical-robot-afshin-mehin/)
  - [Waiting on Your Child Tax Credit Refund? Find Out When It Could Arrive     - CNET](https://www.cnet.com/personal-finance/taxes/waiting-on-your-child-tax-credit-refund-find-out-when-it-could-arrive/#ftag=CAD590a51e)
- - [A look at the rise and fall of Emad Mostaque and Stability AI, including how Mostaque&#39;s relationship with Coatue and Lightspeed blossomed and fell apart &lpar;Fortune&rpar;](http://www.techmeme.com/240328/p5#a240328p5)
+ - [A look at the rise and fall of Emad Mostaque and Stability AI, including how Mostaque&#39;s relationship with Coatue and Lightspeed blossomed and then fell apart &lpar;Fortune&rpar;](http://www.techmeme.com/240328/p5#a240328p5)
  - [How in-app browsers silently subvert user choice, stifle innovation, trap users into apps, break websites, and enable apps to severely undermine user privacy &lpar;Open Web Advocacy&rpar;](http://www.techmeme.com/240328/p4#a240328p4)
  - [Similarweb: GPTs created by subscribers on OpenAI&#39;s GPT Store accounted for just 1.5% of desktop visits to ChatGPT&#39;s site in February, suggesting limited appeal &lpar;Clara Murray/Financial Times&rpar;](http://www.techmeme.com/240328/p3#a240328p3)<!-- TECH:END -->
 

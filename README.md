@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple sues ex employee over iOS Journal app leaks](https://appleinsider.com/articles/24/03/28/apple-sues-ex-employee-over-ios-journal-app-leaks?utm_medium=rss)
+ - [Algorithms can aid price collusion, even if no humans actually talk to each other, US enforcers say](https://www.theverge.com/2024/3/28/24114991/algorithms-can-aid-price-collusion-doj-ftc-caesars)
  - [AI21 Labs launches Jamba, an AI model that integrates two architectures: transformer and Mamba, which is based on the Structured State Space model &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240328/p32#a240328p32)
  - [NYC will test AI gun detectors on the subway](https://www.theverge.com/2024/3/28/24114956/nyc-subway-ai-gun-detectors-evolv-technologies)
- - [350 Swift Student Challenge winners awarded AirPods Max, chance to attend WWDC](https://appleinsider.com/articles/24/03/28/350-swift-student-challenge-winners-awarded-airpods-max-chance-to-attend-wwdc?utm_medium=rss)
- - [Scammers are using sample videos of influencers with modest social media presence to create AI deepfake ads that often push offensive products and ideas &lpar;Washington Post&rpar;](http://www.techmeme.com/240328/p31#a240328p31)
- - [Save Up to 30% on Top Designer Brands, Levi&#39;s, KitchenAid and More at Macy&#39;s VIP Sale     - CNET](https://www.cnet.com/deals/save-up-to-30-on-top-designer-brands-levis-kitchenaid-and-more-at-macys-vip-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [350 Swift Student Challenge winners awarded AirPods Max, chance to attend WWDC](https://appleinsider.com/articles/24/03/28/350-swift-student-challenge-winners-awarded-airpods-max-chance-to-attend-wwdc?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

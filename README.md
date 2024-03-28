@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Share a picture to use when you are late to work?](http://9gag.com/gag/a34v2r1)
- - 😝 [In 2003, two men stole a parked Boeing 727 from Luanda International Airport and flew away into the sunset. They&#39;ve never been found.](http://9gag.com/gag/aBy9GLD)
- - 💣 [Happiness Noise](http://9gag.com/gag/aqy4DWp)
- - 😝 [Who thought it was a good idea to put sockets in diagonal? Half of them cannot be used](http://9gag.com/gag/aW4BbLx)
- - 👉 [That&#39;s awkward.](http://9gag.com/gag/aW4BDoq)<!-- MEMES:END -->
+ - 😝 [Guy was living the dream. They only found out after an auditor came by.](http://9gag.com/gag/awyNYw1)
+ - 😝 [He has a point](http://9gag.com/gag/aVvjRd8)
+ - 💣 [Why does this feel true..](http://9gag.com/gag/a87dzbd)
+ - 😝 [I still prefer the left one, what do you guys think?](http://9gag.com/gag/a5QpqAL)
+ - 👉 [Idiot Impossible](http://9gag.com/gag/azx74Ob)<!-- MEMES:END -->
 
 ---
 

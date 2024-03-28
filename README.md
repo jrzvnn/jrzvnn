@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [How MowPod, which sells podcast advertising tools, uses mobile game ads to incentivize gamers to follow shows on Apple Podcasts in order to earn in-game tokens &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/240328/p34#a240328p34)
- - [Cybersecurity startup Zafran, which develops risk mitigation services, emerges from stealth with a $25M Series A co-led by Sequoia Capital and Cyberstarts &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/240328/p33#a240328p33)
- - [Apple sues ex employee over iOS Journal app leaks](https://appleinsider.com/articles/24/03/28/apple-sues-ex-employee-over-ios-journal-app-leaks?utm_medium=rss)
- - [Algorithms can aid price collusion, even if no humans actually talk to each other, US enforcers say](https://www.theverge.com/2024/3/28/24114991/algorithms-can-aid-price-collusion-doj-ftc-caesars)
- - [Solar Snap App Is Just One Way You Can Take Better Photos of April 8 Eclipse     - CNET](https://www.cnet.com/tech/services-and-software/solar-snap-app-could-help-you-take-better-eclipse-photos/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Apple Watch Ultra 2 and Ultra Deals: Save With Trade-Ins and More     - CNET](https://www.cnet.com/deals/best-apple-watch-ultra-deals/#ftag=CAD590a51e)
+ - [Solar Snap App Is Just One Way You Can Take Photos of April 8 Eclipse     - CNET](https://www.cnet.com/tech/services-and-software/solar-snap-app-is-just-one-way-you-can-take-photos-of-april-8-eclipse/#ftag=CAD590a51e)
+ - [AI Could Supercharge Election Disinformation, Hillary Clinton Says     - CNET](https://www.cnet.com/tech/services-and-software/ai-could-supercharge-election-disinformation-hillary-clinton-says/#ftag=CAD590a51e)
+ - [Cybersecurity startup Zafran, which develops risk mitigation services, emerges from stealth with a $25M Series A co-led by Sequoia Capital and Cyberstarts &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/240328/p33#a240328p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

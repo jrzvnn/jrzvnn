@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple’s OLED iPad Pro will reportedly arrive in May](https://www.theverge.com/2024/3/28/24114824/apple-ipad-pro-oled-m3-release-date)
  - [YouTube now lets creators share exclusive Shorts with paying viewers, says Shorts average 70B+ daily views and 25%+ of creator partners monetize via Shorts &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240328/p29#a240328p29)
  - [Bolt told investors that it had revenue of $19.4M for the nine months ending in October 2023, essentially flat YoY; Bolt&#39;s troubles grow with a Fanatics lawsuit &lpar;The Information&rpar;](http://www.techmeme.com/240328/p28#a240328p28)
  - [Bug Zappers Are Swarming on Amazon](https://www.wired.com/story/bug-zappers-are-swarming-on-amazon/)
- - [POP Keys Wireless Keyboard     - CNET](https://www.cnet.com/tech/computing/pop-keys-wireless-keyboard-dpnl/#ftag=CAD590a51e)
- - [Instax Mini 12 Camera     - CNET](https://www.cnet.com/tech/computing/instax-mini-12-camera-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [POP Keys Wireless Keyboard     - CNET](https://www.cnet.com/tech/computing/pop-keys-wireless-keyboard-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

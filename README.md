@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta is adding AI to its Ray-Ban smart glasses next month](https://www.theverge.com/2024/3/28/24114454/meta-ai-ray-ban-smart-glasses-launch)
  - [Microsoft rolls out Azure AI Studio tools to stop users from making AI chatbots behave in unintended ways, including &quot;prompt shields&quot; and warning alerts &lpar;Jackie Davalos/Bloomberg&rpar;](http://www.techmeme.com/240328/p17#a240328p17)
+ - [This $105 Anker Power Bank Will Keep Your Devices Powered Up Anywhere     - CNET](https://www.cnet.com/deals/this-105-anker-power-bank-will-keep-your-devices-powered-up-anywhere/#ftag=CAD590a51e)
  - [A quarter of YouTube’s paid creators are earning money with Shorts](https://www.theverge.com/2024/3/28/24114031/youtube-shorts-partner-program-ad-sharing-revenue)
- - [Investigation: data broker Near Intelligence left the coordinates of nearly 200 mobile devices of people who visited Jeffrey Epstein&#39;s island exposed online &lpar;Wired&rpar;](http://www.techmeme.com/240328/p16#a240328p16)
- - [AWOL LTV-3500 Pro Review: So Bright, So Expensive](https://www.wired.com/review/awol-ltv-3500-pro/)
- - [12 Best Umbrellas &lpar;2023&rpar;: Windproof, Cheap, Tiny, and Clear Bubble](https://www.wired.com/gallery/best-umbrellas/)<!-- TECH:END -->
+ - [Investigation: data broker Near Intelligence left the coordinates of nearly 200 mobile devices of people who visited Jeffrey Epstein&#39;s island exposed online &lpar;Wired&rpar;](http://www.techmeme.com/240328/p16#a240328p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

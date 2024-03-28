@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bolt told investors that it had revenue of $19.4M for the nine months ending in October 2023, essentially flat YoY; Bolt&#39;s troubles grow with a Fanatics lawsuit &lpar;The Information&rpar;](http://www.techmeme.com/240328/p28#a240328p28)
  - [Bug Zappers Are Swarming on Amazon](https://www.wired.com/story/bug-zappers-are-swarming-on-amazon/)
  - [A researcher finds that X is testing a feature that lets users create or join communities focused on &quot;adult content&quot; or other &quot;not safe for work&quot; material &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/240328/p27#a240328p27)
  - [The 30 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
- - [Apple sues ex employee over iOS Journal app leaks](https://appleinsider.com/articles/24/03/28/apple-sues-ex-employee-over-ios-journal-app-leaks?utm_medium=rss)
- - [You may need to wait a little longer than expected for a new iPad Pro &amp; iPad Air](https://appleinsider.com/articles/24/03/28/you-may-need-to-wait-a-little-longer-than-expected-for-a-new-ipad-pro-ipad-air?utm_medium=rss)<!-- TECH:END -->
+ - [Apple sues ex employee over iOS Journal app leaks](https://appleinsider.com/articles/24/03/28/apple-sues-ex-employee-over-ios-journal-app-leaks?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

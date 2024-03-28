@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [How to open an Apple Maps URL from a screenshot in macOS](https://appleinsider.com/inside/apple-maps/tips/how-to-open-an-apple-maps-url-from-a-screenshot-in-macos?utm_medium=rss)
+ - [Robinhood’s New Gold Card Goes Head-to-Head With Apple and PayPal     - CNET](https://www.cnet.com/personal-finance/robinhoods-new-gold-card-goes-head-to-head-with-apple-and-paypal/#ftag=CAD590a51e)
  - [GLAAD: Meta is failing to curb posts calling for violence against trans people, posts calling trans and gender nonconforming people &quot;satanic&quot;, and more &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/240327/p41#a240327p41)
  - [Deals: Apple&#39;s M3 MacBook Air &lpar;10-core GPU, 16GB RAM, 512GB SSD&rpar; drops to $1,329](https://appleinsider.com/articles/24/03/28/deals-apples-m3-macbook-air-10-core-gpu-16gb-ram-512gb-ssd-drops-to-1329?utm_medium=rss)
- - [Best E-Reader for 2024     - CNET](https://www.cnet.com/tech/computing/best-e-reader/#ftag=CAD590a51e)
- - [Best Weight Loss Programs for 2024     - CNET](https://www.cnet.com/health/nutrition/best-weight-loss-programs/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Multipoint Bluetooth Headphones and Earbuds for 2024     - CNET](https://www.cnet.com/tech/mobile/best-multipoint-bluetooth-headphones-and-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

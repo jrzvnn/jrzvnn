@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the US and UK are reviewing $20B+ in Tether transactions through Moscow-based crypto exchange Garantex, as part of a crackdown on sanctions evasions &lpar;Bloomberg&rpar;](http://www.techmeme.com/240328/p21#a240328p21)
+ - [8BitDo’s latest retro keyboard is an ode to the Commodore 64](https://www.theverge.com/2024/3/28/24113566/8bitdo-commodore-64-retro-mechanical-keyboard-specs-release-date-price-features)
  - [Google&#39;s charitable wing Google.org launches a generative AI accelerator, to be funded by $20M in grants and include 21 nonprofits to start, including Quill.org &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240328/p20#a240328p20)
  - [Google says Gemini Nano is coming to Pixel 8 with the next Pixel Feature Drop, after previously saying the device won&#39;t get Nano due to &quot;hardware limitations&quot; &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240328/p19#a240328p19)
- - [FTX founder Sam Bankman-Fried is about to be sentenced for committing fraud](https://www.theverge.com/23894366/ftx-sam-bankman-fried-trial-updates-news)
- - [Lock In This Deal on the Ultraloq Smart Lock for Only $119     - CNET](https://www.cnet.com/deals/lock-in-this-deal-on-the-ultraloq-smart-lock-for-only-119/#ftag=CAD590a51e)
- - [Pelago, formerly Quit Genius, which provides virtual therapy sessions for treating addictions, raised a $58M Series C, bringing its total funding to $151M &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/240328/p18#a240328p18)<!-- TECH:END -->
+ - [FTX founder Sam Bankman-Fried is about to be sentenced for committing fraud](https://www.theverge.com/23894366/ftx-sam-bankman-fried-trial-updates-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

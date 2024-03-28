@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Waiting on Your Child Tax Credit Refund? Find Out When It Could Arrive     - CNET](https://www.cnet.com/personal-finance/taxes/waiting-on-your-child-tax-credit-refund-find-out-when-it-could-arrive/#ftag=CAD590a51e)
  - [A look at the rise and fall of Emad Mostaque and Stability AI, including how Mostaque&#39;s relationship with Coatue and Lightspeed blossomed and fell apart &lpar;Fortune&rpar;](http://www.techmeme.com/240328/p5#a240328p5)
  - [How in-app browsers silently subvert user choice, stifle innovation, trap users into apps, break websites, and enable apps to severely undermine user privacy &lpar;Open Web Advocacy&rpar;](http://www.techmeme.com/240328/p4#a240328p4)
  - [Similarweb: GPTs created by subscribers on OpenAI&#39;s GPT Store accounted for just 1.5% of desktop visits to ChatGPT&#39;s site in February, suggesting limited appeal &lpar;Clara Murray/Financial Times&rpar;](http://www.techmeme.com/240328/p3#a240328p3)
- - [Leaked images show a white disc-less Xbox Series X console, which Microsoft plans to release in 2024, with the same design as the existing black Xbox Series X &lpar;&amp;Aacute;lvaro/eXputer&rpar;](http://www.techmeme.com/240328/p2#a240328p2)
- - [Take-Two acquires Borderlands developer Gearbox Entertainment from the Embracer Group for $460M in stock; the deal is expected to close by the end of June 2024 &lpar;Rebekah Valentine/IGN&rpar;](http://www.techmeme.com/240328/p1#a240328p1)<!-- TECH:END -->
+ - [Leaked images show a white disc-less Xbox Series X console, which Microsoft plans to release in 2024, with the same design as the existing black Xbox Series X &lpar;&amp;Aacute;lvaro/eXputer&rpar;](http://www.techmeme.com/240328/p2#a240328p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

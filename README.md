@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Make tea, Not war](http://9gag.com/gag/aAyBZ4E)
- - 😝 [What if you stop observing it tho](http://9gag.com/gag/azx7ZQq)
- - 💣 [Idiot Impossible](http://9gag.com/gag/azx74Ob)
- - 😝 [The way he just lights up.](http://9gag.com/gag/aZZqvj9)
- - 👉 [I still prefer the left one, what do you guys think?](http://9gag.com/gag/a5QpqAL)<!-- MEMES:END -->
+ - 😝 [One of the best moments in tv history](http://9gag.com/gag/aoymnyA)
+ - 😝 [Who thought it was a good idea to put sockets in diagonal? Half of them cannot be used](http://9gag.com/gag/aW4BbLx)
+ - 💣 [Happiness Noise](http://9gag.com/gag/aqy4DWp)
+ - 😝 [That&#39;s awkward.](http://9gag.com/gag/aW4BDoq)
+ - 👉 [Share a picture to use when you are late to work?](http://9gag.com/gag/a34v2r1)<!-- MEMES:END -->
 
 ---
 

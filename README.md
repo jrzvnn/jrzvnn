@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Questionable iPhone Fold rumor pushes release into early 2027](https://appleinsider.com/articles/24/03/28/questionable-iphone-fold-rumor-pushes-release-into-early-2027?utm_medium=rss)
- - [Why Apple Vision Pro could evolve similarly to the Apple Watch](https://appleinsider.com/articles/24/03/28/why-apple-vision-pro-could-evolve-similarly-to-the-apple-watch?utm_medium=rss)
- - [Ray-Ban Meta glasses hands-on: AI features coming in April, triggered by &quot;Hey, Meta&quot;, are sometimes impressive and helpful, but the AI often gets things wrong &lpar;New York Times&rpar;](http://www.techmeme.com/240328/p14#a240328p14)
- - [A look at an Indian court case over Byju Raveendran&#39;s control of Byju&#39;s, as investors, who voted to remove Raveendran last month, brace for a protracted battle &lpar;Financial Times&rpar;](http://www.techmeme.com/240328/p13#a240328p13)
- - [Embracer is selling Borderlands developer Gearbox to Take-Two](https://www.theverge.com/2024/3/28/24114402/embracer-selling-gearbox-borderlands-developer-take-two)<!-- TECH:END -->
+ - [Apple wants a Magic Mouse you can tilt for more controls](https://appleinsider.com/articles/24/03/28/apple-wants-a-magic-mouse-you-can-tilt-for-more-controls?utm_medium=rss)
+ - [Analysis: in the past two years, Amazon committed to spending $148B over 15 years on data centers, including in Mississippi, Saudi Arabia, and Malaysia &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/240328/p15#a240328p15)
+ - [The Earth Will Feast on Dead Cicadas](https://www.wired.com/story/periodical-cicada-emergence-illinois/)
+ - [What the Apple Antitrust Suit Means for the Future of Messaging](https://www.wired.com/story/gadget-lab-podcast-638/)
+ - [Questionable iPhone Fold rumor pushes release into early 2027](https://appleinsider.com/articles/24/03/28/questionable-iphone-fold-rumor-pushes-release-into-early-2027?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

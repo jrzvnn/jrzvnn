@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Similarweb: GPTs created by subscribers on OpenAI&#39;s GPT Store accounted for just 1.5% of desktop visits to ChatGPT&#39;s site in February, suggesting limited appeal &lpar;Clara Murray/Financial Times&rpar;](http://www.techmeme.com/240328/p3#a240328p3)
  - [Leaked images show a white disc-less Xbox Series X console, which Microsoft plans to release in 2024, with the same design as the existing black Xbox Series X &lpar;&amp;Aacute;lvaro/eXputer&rpar;](http://www.techmeme.com/240328/p2#a240328p2)
  - [Take-Two acquires Borderlands developer Gearbox Entertainment from the Embracer Group for $460M in stock; the deal is expected to close by the end of June 2024 &lpar;Rebekah Valentine/IGN&rpar;](http://www.techmeme.com/240328/p1#a240328p1)
  - [How to open an Apple Maps URL from a screenshot in macOS](https://appleinsider.com/inside/apple-maps/tips/how-to-open-an-apple-maps-url-from-a-screenshot-in-macos?utm_medium=rss)
- - [Robinhood’s New Gold Card Goes Head-to-Head With Apple and PayPal     - CNET](https://www.cnet.com/personal-finance/robinhoods-new-gold-card-goes-head-to-head-with-apple-and-paypal/#ftag=CAD590a51e)
- - [GLAAD: Meta is failing to curb posts calling for violence against trans people, posts calling trans and gender nonconforming people &quot;satanic&quot;, and more &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/240327/p41#a240327p41)<!-- TECH:END -->
+ - [Robinhood’s New Gold Card Goes Head-to-Head With Apple and PayPal     - CNET](https://www.cnet.com/personal-finance/robinhoods-new-gold-card-goes-head-to-head-with-apple-and-paypal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bug Zappers Are Swarming on Amazon](https://www.wired.com/story/bug-zappers-are-swarming-on-amazon/)
  - [A researcher finds that X is testing a feature that lets users create or join communities focused on &quot;adult content&quot; or other &quot;not safe for work&quot; material &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/240328/p27#a240328p27)
  - [The 30 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
  - [Apple sues ex employee over iOS Journal app leaks](https://appleinsider.com/articles/24/03/28/apple-sues-ex-employee-over-ios-journal-app-leaks?utm_medium=rss)
- - [You may need to wait a little longer than expected for a new iPad Pro &amp; iPad Air](https://appleinsider.com/articles/24/03/28/you-may-need-to-wait-a-little-longer-than-expected-for-a-new-ipad-pro-ipad-air?utm_medium=rss)
- - [Apple sues an ex-employee for allegedly leaking details about the Journal app and more to journalists, to &quot;kill&quot; products and features with which he took issue &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/240328/p26#a240328p26)<!-- TECH:END -->
+ - [You may need to wait a little longer than expected for a new iPad Pro &amp; iPad Air](https://appleinsider.com/articles/24/03/28/you-may-need-to-wait-a-little-longer-than-expected-for-a-new-ipad-pro-ipad-air?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

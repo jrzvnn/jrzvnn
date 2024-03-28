@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon’s palm-scanning service now lets you sign up from your phone](https://www.theverge.com/2024/3/28/24114499/amazon-one-palm-scanning-mobile-app)
+ - [Google updates Search to start showing crypto wallet balances across bitcoin and the EVM networks Arbitrum, Avalanche, Fantom, Optimism, and Polygon &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240328/p23#a240328p23)
  - [Sam Bankman-Fried sentenced to 25 years for FTX fraud](https://www.theverge.com/2024/3/28/24112507/sam-bankman-fried-sentence-ftx-alameda)
  - [Live updates from the trial and sentencing of FTX co-founder Sam Bankman-Fried](https://www.theverge.com/23894366/ftx-sam-bankman-fried-trial-updates-news)
- - [Future Apple Vision Pro may get Bob Ross-style virtual painting tools](https://appleinsider.com/articles/24/03/28/future-apple-vision-pro-may-get-bob-ross-style-virtual-painting-tools?utm_medium=rss)
- - [Godzilla x Kong: The New Empire overdoes it all](https://www.theverge.com/24113767/godzilla-x-kong-the-new-empire-review)
- - [FTX Founder Sam Bankman-Fried Sentenced to 25 Years in Prison](https://www.wired.com/story/sam-bankman-fried-sentenced-ftx-fraud/)<!-- TECH:END -->
+ - [Future Apple Vision Pro may get Bob Ross-style virtual painting tools](https://appleinsider.com/articles/24/03/28/future-apple-vision-pro-may-get-bob-ross-style-virtual-painting-tools?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

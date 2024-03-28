@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What if you stop observing it tho](http://9gag.com/gag/azx7ZQq)
- - 😝 [It\u2019s weird that common sense laws are coming from Florida](http://9gag.com/gag/ary18D7)
- - 💣 [Guy was living the dream. They only found out after an auditor came by.](http://9gag.com/gag/awyNYw1)
- - 😝 [OK this is the good type of prank, and a creative one at that. Actually made me chuckle](http://9gag.com/gag/aZZqRyp)
- - 👉 [One of the best moments in tv history](http://9gag.com/gag/aoymnyA)<!-- MEMES:END -->
+ - 😝 [Stay safe, kings](http://9gag.com/gag/a2vEL01)
+ - 😝 [Share a picture to use when you are late to work?](http://9gag.com/gag/a34v2r1)
+ - 💣 [That&#39;s awkward.](http://9gag.com/gag/aW4BDoq)
+ - 😝 [Who thought it was a good idea to put sockets in diagonal? Half of them cannot be used](http://9gag.com/gag/aW4BbLx)
+ - 👉 [Share your weirdest knowledge](http://9gag.com/gag/aE0dWKN)<!-- MEMES:END -->
 
 ---
 

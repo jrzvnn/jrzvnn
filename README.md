@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I wish the gate gets well soon.](http://9gag.com/gag/adByogD)
- - 😝 [Veteran 9gagger to newbie : welcome to the club](http://9gag.com/gag/aPA6r4w)
- - 💣 [That&#39;s awkward.](http://9gag.com/gag/aW4BDoq)
+ - 😝 [Oh snap](http://9gag.com/gag/aPA6nbR)
+ - 😝 [Share a picture to use when you are late to work?](http://9gag.com/gag/a34v2r1)
+ - 💣 [Happiness Noise](http://9gag.com/gag/aqy4DWp)
  - 😝 [I still prefer the left one, what do you guys think?](http://9gag.com/gag/a5QpqAL)
- - 👉 [Oh snap](http://9gag.com/gag/aPA6nbR)<!-- MEMES:END -->
+ - 👉 [One of the best moments in tv history](http://9gag.com/gag/aoymnyA)<!-- MEMES:END -->
 
 ---
 

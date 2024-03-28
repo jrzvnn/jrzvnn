@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Play stupid games, win stupid prizes.](http://9gag.com/gag/aE0dZop)
- - 😝 [I will froze if given choices](http://9gag.com/gag/ae9KWbv)
- - 💣 [Gambling is fun!](http://9gag.com/gag/aQz6O3r)
+ - 😝 [Still no photos of the ship captain. Funny, that...](http://9gag.com/gag/ary1dpd)
  - 😝 [Oh snap](http://9gag.com/gag/aPA6nbR)
- - 👉 [I wish the gate gets well soon.](http://9gag.com/gag/adByogD)<!-- MEMES:END -->
+ - 💣 [That&#39;s awkward.](http://9gag.com/gag/aW4BDoq)
+ - 😝 [One of us, one of us, one of us!](http://9gag.com/gag/a5QpxqL)
+ - 👉 [I still prefer the left one, what do you guys think?](http://9gag.com/gag/a5QpqAL)<!-- MEMES:END -->
 
 ---
 

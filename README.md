@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [FTX founder Sam Bankman-Fried is about to be sentenced for committing fraud](https://www.theverge.com/23894366/ftx-sam-bankman-fried-trial-updates-news)
  - [Pelago, formerly Quit Genius, which provides virtual therapy sessions for treating addictions, raised a $58M Series C, bringing its total funding to $151M &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/240328/p18#a240328p18)
  - [Future Apple Vision Pro may correct for vision problems without magnetic lenses](https://appleinsider.com/articles/24/03/28/future-apple-vision-pro-may-correct-for-vision-problems-without-magnetic-lenses?utm_medium=rss)
  - [Beware of fake CleanMyMac installers that will infect your Mac](https://appleinsider.com/articles/24/03/28/beware-of-fake-cleanmymac-installers-that-will-infect-your-mac?utm_medium=rss)
- - [Surprise! Google will let the Pixel 8 run on-device AI after all](https://www.theverge.com/2024/3/28/24114078/google-pixel-8-gemini-nano-on-device-ai)
- - [Meta is adding AI to its Ray-Ban smart glasses next month](https://www.theverge.com/2024/3/28/24114454/meta-ai-ray-ban-smart-glasses-launch)<!-- TECH:END -->
+ - [Surprise! Google will let the Pixel 8 run on-device AI after all](https://www.theverge.com/2024/3/28/24114078/google-pixel-8-gemini-nano-on-device-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

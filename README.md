@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Marc Andreessen, Chris Dixon, Galaxy Digital, and others invest $75M in crypto fund 1kx, which has raised ~$200M since 2018 and invested in Rarible and more &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/240328/p12#a240328p12)
  - [At a DC event on May 1, over 100 tech CEOs and investors plan to lobby against AI regulation, ask to relax immigration rules, and drum up hawkishness on China &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/240328/p11#a240328p11)
  - [Mandiant: Yevgeny Prigozhin-linked online influence operations are active months after his death in August 2023, and underwent subtle shifts in their targeting &lpar;Dustin Volz/Wall Street Journal&rpar;](http://www.techmeme.com/240328/p10#a240328p10)
  - [How to Apply for Social Security Benefits in 2024     - CNET](https://www.cnet.com/personal-finance/how-to-apply-for-social-security-benefits-in-2024/#ftag=CAD590a51e)
- - [NYC-based Coro, which offers SMB cybersecurity tools, raised a $100M Series D led by One Peak, sources say at a $750M post-money valuation, to expand in Europe &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240328/p9#a240328p9)
- - [Sign Documents on Your iPhone in Just 5 Easy Steps     - CNET](https://www.cnet.com/tech/services-and-software/sign-documents-on-your-iphone-in-just-5-easy-steps/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [NYC-based Coro, which offers SMB cybersecurity tools, raised a $100M Series D led by One Peak, sources say at a $750M post-money valuation, to expand in Europe &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240328/p9#a240328p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

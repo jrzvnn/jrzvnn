@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poland&#39;s consumer watchdog fines Amazon ~$8M for allegedly misleading consumers, including with dark pattern design tricks, ending a probe opened in Feb. 2023 &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240327/p40#a240327p40)
- - [Best Noise-Canceling Headphones Under $100 for 2024     - CNET](https://www.cnet.com/tech/mobile/best-noise-canceling-headphones-under-100/#ftag=CAD590a51e)
- - [Best Wi-Fi Extenders of 2024     - CNET](https://www.cnet.com/home/internet/best-wifi-extender/#ftag=CAD590a51e)
- - [The 8 Best Grocery Delivery Services in 2024     - CNET](https://www.cnet.com/news/best-grocery-delivery-service/#ftag=CAD590a51e)
- - [Best Latex Mattresses of 2024     - CNET](https://www.cnet.com/health/sleep/best-latex-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Deals: Apple&#39;s M3 MacBook Air &lpar;10-core GPU, 16GB RAM, 512GB SSD&rpar; drops to $1,329](https://appleinsider.com/articles/24/03/28/deals-apples-m3-macbook-air-10-core-gpu-16gb-ram-512gb-ssd-drops-to-1329?utm_medium=rss)
+ - [Best E-Reader for 2024     - CNET](https://www.cnet.com/tech/computing/best-e-reader/#ftag=CAD590a51e)
+ - [Best Weight Loss Programs for 2024     - CNET](https://www.cnet.com/health/nutrition/best-weight-loss-programs/#ftag=CAD590a51e)
+ - [Best Probiotic Supplements for Gut Health     - CNET](https://www.cnet.com/health/nutrition/best-probiotics/#ftag=CAD590a51e)
+ - [Poland&#39;s consumer watchdog fines Amazon ~$8M for allegedly misleading consumers, including with dark pattern design tricks, ending a probe opened in Feb. 2023 &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240327/p40#a240327p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

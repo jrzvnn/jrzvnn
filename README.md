@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US OMB releases new guidance on AI, requiring all federal agencies to have a senior leader overseeing all AI systems they use and submit an annual AI report &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240328/p7#a240328p7)
  - [Houston Open 2024: How to Watch and Stream All the PGA Tour Golf From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/houston-open-2024-how-to-watch-stream-all-the-pga-tour-golf-from-anywhere/#ftag=CAD590a51e)
  - [Internet Bills Could Rise for Millions Soon. Here&#39;s What You Can Do to Save Money     - CNET](https://www.cnet.com/home/internet/internet-bills-could-rise-for-millions-soon-heres-what-you-can-do-to-save-money/#ftag=CAD590a51e)
  - [Apple Vision Pro Deal Drops Price Even Further, Now $200 Off While Supplies Last     - CNET](https://www.cnet.com/deals/apple-vision-pro-deal-drops-price-even-further-now-200-off-while-supplies-last/#ftag=CAD590a51e)
- - [MLB 2024: How to Watch, Stream Baseball This Season Without Cable     - CNET](https://www.cnet.com/deals/mlb-2024-how-to-watch-stream-baseball-this-season-without-cable/#ftag=CAD590a51e)
- - [The White House Puts New Guardrails on Government Use of AI](https://www.wired.com/story/white-house-new-guardrails-government-use-of-ai/)<!-- TECH:END -->
+ - [MLB 2024: How to Watch, Stream Baseball This Season Without Cable     - CNET](https://www.cnet.com/deals/mlb-2024-how-to-watch-stream-baseball-this-season-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

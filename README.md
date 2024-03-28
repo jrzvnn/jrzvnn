@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sam Bankman-Fried sentenced to 25 years for FTX fraud](https://www.theverge.com/2024/3/28/24112507/sam-bankman-fried-sentence-ftx-alameda)
- - [FTX founder Sam Bankman-Fried is about to be sentenced for committing fraud](https://www.theverge.com/23894366/ftx-sam-bankman-fried-trial-updates-news)
- - [iOS 17.4 has an unexpected charging benefit for iPhone 12 owners](https://appleinsider.com/articles/24/03/28/ios-174-has-an-unexpected-charging-benefit-for-iphone-12-owners?utm_medium=rss)
- - [Sources: the US and UK are reviewing $20B+ in Tether transactions through Moscow-based crypto exchange Garantex, as part of a crackdown on sanctions evasions &lpar;Bloomberg&rpar;](http://www.techmeme.com/240328/p21#a240328p21)
- - [8BitDo’s latest retro keyboard is an ode to the Commodore 64](https://www.theverge.com/2024/3/28/24113566/8bitdo-commodore-64-retro-mechanical-keyboard-specs-release-date-price-features)<!-- TECH:END -->
+ - [Sam Bankman-Fried has been convicted of fraud and sentenced to 25 years in prison](https://www.theverge.com/23894366/ftx-sam-bankman-fried-trial-updates-news)
+ - [FTX Founder Sam Bankman-Fried Sentenced to 25 Years in Prison](https://www.wired.com/story/sam-bankman-fried-sentenced-ftx-fraud/)
+ - [Killer deal: Apple&#39;s M2 Mac mini plunges to $474.99](https://appleinsider.com/articles/24/03/28/killer-deal-apples-m2-mac-mini-plunges-to-47499?utm_medium=rss)
+ - [A US judge sentences Sam Bankman-Fried to 25 years in prison over his role in the multi-billion dollar FTX fraud and orders him to forfeit $11B &lpar;Reuters&rpar;](http://www.techmeme.com/240328/p22#a240328p22)
+ - [Sam Bankman-Fried sentenced to 25 years for FTX fraud](https://www.theverge.com/2024/3/28/24112507/sam-bankman-fried-sentence-ftx-alameda)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

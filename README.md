@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I wish the gate gets well soon.](http://9gag.com/gag/adByogD)
- - 😝 [In 2003, two men stole a parked Boeing 727 from Luanda International Airport and flew away into the sunset. They&#39;ve never been found.](http://9gag.com/gag/aBy9GLD)
- - 💣 [Share a picture to use when you are late to work?](http://9gag.com/gag/a34v2r1)
- - 😝 [Happiness Noise](http://9gag.com/gag/aqy4DWp)
- - 👉 [That&#39;s awkward.](http://9gag.com/gag/aW4BDoq)<!-- MEMES:END -->
+ - 😝 [Make tea, Not war](http://9gag.com/gag/aAyBZ4E)
+ - 😝 [What if you stop observing it tho](http://9gag.com/gag/azx7ZQq)
+ - 💣 [Idiot Impossible](http://9gag.com/gag/azx74Ob)
+ - 😝 [The way he just lights up.](http://9gag.com/gag/aZZqvj9)
+ - 👉 [I still prefer the left one, what do you guys think?](http://9gag.com/gag/a5QpqAL)<!-- MEMES:END -->
 
 ---
 

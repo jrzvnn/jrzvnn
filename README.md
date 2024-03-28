@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Still no photos of the ship captain. Funny, that...](http://9gag.com/gag/ary1dpd)
- - 😝 [`Are they peaceful?` - Asked the woman](http://9gag.com/gag/apRKVyW)
- - 💣 [Freedom!!!](http://9gag.com/gag/aoymD7g)
- - 😝 [That&#39;s awkward.](http://9gag.com/gag/aW4BDoq)
- - 👉 [I wish the gate gets well soon.](http://9gag.com/gag/adByogD)<!-- MEMES:END -->
+ - 😝 [We are just kids for her](http://9gag.com/gag/azx7BMZ)
+ - 😝 [Back Crack!](http://9gag.com/gag/abA3QoB)
+ - 💣 [Women](http://9gag.com/gag/aMVey5G)
+ - 😝 [Is there a massage?](http://9gag.com/gag/a2vExRY)
+ - 👉 [Oh snap](http://9gag.com/gag/aPA6nbR)<!-- MEMES:END -->
 
 ---
 

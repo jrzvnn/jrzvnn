@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ray-Ban Meta glasses hands-on: AI features coming in April, triggered by &quot;Hey, Meta&quot;, are sometimes impressive and helpful, but the AI often gets things wrong &lpar;New York Times&rpar;](http://www.techmeme.com/240328/p14#a240328p14)
  - [A look at an Indian court case over Byju Raveendran&#39;s control of Byju&#39;s, as investors, who voted to remove Raveendran last month, brace for a protracted battle &lpar;Financial Times&rpar;](http://www.techmeme.com/240328/p13#a240328p13)
  - [Embracer is selling Borderlands developer Gearbox to Take-Two](https://www.theverge.com/2024/3/28/24114402/embracer-selling-gearbox-borderlands-developer-take-two)
  - [19 Best PS5 Games &lpar;2024&rpar;: &#39;Alan Wake II,&#39; &#39;Spider-Man 2,&#39; &#39;Baldur&#39;s Gate 3,&#39; and &#39;Stray&#39;](https://www.wired.com/gallery/best-ps5-games/)
- - [Jeffrey Epstein&#39;s Island Visitors Exposed by Data Broker](https://www.wired.com/story/jeffrey-epstein-island-visitors-data-broker-leak/)
- - [Marc Andreessen, Chris Dixon, Galaxy Digital, and others invest $75M in crypto fund 1kx, which has raised ~$200M since 2018 and invested in Rarible and more &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/240328/p12#a240328p12)<!-- TECH:END -->
+ - [Jeffrey Epstein&#39;s Island Visitors Exposed by Data Broker](https://www.wired.com/story/jeffrey-epstein-island-visitors-data-broker-leak/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

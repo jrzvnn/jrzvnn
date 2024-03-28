@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Boomer life](http://9gag.com/gag/apRKbBD)
- - 😝 [Gambling is fun!](http://9gag.com/gag/aQz6O3r)
- - 💣 [Share a picture to use when you are late to work?](http://9gag.com/gag/a34v2r1)
- - 😝 [Who thought it was a good idea to put sockets in diagonal? Half of them cannot be used](http://9gag.com/gag/aW4BbLx)
- - 👉 [I still prefer the left one, what do you guys think?](http://9gag.com/gag/a5QpqAL)<!-- MEMES:END -->
+ - 😝 [It&#39;s wild](http://9gag.com/gag/axyE4g1)
+ - 😝 [Happiness Noise](http://9gag.com/gag/aqy4DWp)
+ - 💣 [Boomer life](http://9gag.com/gag/apRKbBD)
+ - 😝 [That&#39;s awkward.](http://9gag.com/gag/aW4BDoq)
+ - 👉 [Share a picture to use when you are late to work?](http://9gag.com/gag/a34v2r1)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sam Bankman-Fried has been convicted of fraud and sentenced to 25 years in prison](https://www.theverge.com/23894366/ftx-sam-bankman-fried-trial-updates-news)
- - [FTX Founder Sam Bankman-Fried Sentenced to 25 Years in Prison](https://www.wired.com/story/sam-bankman-fried-sentenced-ftx-fraud/)
- - [Killer deal: Apple&#39;s M2 Mac mini plunges to $474.99](https://appleinsider.com/articles/24/03/28/killer-deal-apples-m2-mac-mini-plunges-to-47499?utm_medium=rss)
- - [A US judge sentences Sam Bankman-Fried to 25 years in prison over his role in the multi-billion dollar FTX fraud and orders him to forfeit $11B &lpar;Reuters&rpar;](http://www.techmeme.com/240328/p22#a240328p22)
- - [Sam Bankman-Fried sentenced to 25 years for FTX fraud](https://www.theverge.com/2024/3/28/24112507/sam-bankman-fried-sentence-ftx-alameda)<!-- TECH:END -->
+ - [Sam Bankman-Fried sentenced to 25 years for FTX fraud](https://www.theverge.com/2024/3/28/24112507/sam-bankman-fried-sentence-ftx-alameda)
+ - [Live updates from the trial and sentencing of FTX co-founder Sam Bankman-Fried](https://www.theverge.com/23894366/ftx-sam-bankman-fried-trial-updates-news)
+ - [Future Apple Vision Pro may get Bob Ross-style virtual painting tools](https://appleinsider.com/articles/24/03/28/future-apple-vision-pro-may-get-bob-ross-style-virtual-painting-tools?utm_medium=rss)
+ - [Godzilla x Kong: The New Empire overdoes it all](https://www.theverge.com/24113767/godzilla-x-kong-the-new-empire-review)
+ - [FTX Founder Sam Bankman-Fried Sentenced to 25 Years in Prison](https://www.wired.com/story/sam-bankman-fried-sentenced-ftx-fraud/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

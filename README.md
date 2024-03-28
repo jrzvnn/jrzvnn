@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta is adding AI to its Ray-Ban smart glasses next month](https://www.theverge.com/2024/3/28/24114454/meta-ai-ray-ban-smart-glasses-launch)
- - [Microsoft rolls out Azure AI Studio tools to stop users from making AI chatbots behave in unintended ways, including &quot;prompt shields&quot; and warning alerts &lpar;Jackie Davalos/Bloomberg&rpar;](http://www.techmeme.com/240328/p17#a240328p17)
- - [This $105 Anker Power Bank Will Keep Your Devices Powered Up Anywhere     - CNET](https://www.cnet.com/deals/this-105-anker-power-bank-will-keep-your-devices-powered-up-anywhere/#ftag=CAD590a51e)
- - [A quarter of YouTube’s paid creators are earning money with Shorts](https://www.theverge.com/2024/3/28/24114031/youtube-shorts-partner-program-ad-sharing-revenue)
- - [Investigation: data broker Near Intelligence left the coordinates of nearly 200 mobile devices of people who visited Jeffrey Epstein&#39;s island exposed online &lpar;Wired&rpar;](http://www.techmeme.com/240328/p16#a240328p16)<!-- TECH:END -->
+ - [Pelago, formerly Quit Genius, which provides virtual therapy sessions for treating addictions, raised a $58M Series C, bringing its total funding to $151M &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/240328/p18#a240328p18)
+ - [Future Apple Vision Pro may correct for vision problems without magnetic lenses](https://appleinsider.com/articles/24/03/28/future-apple-vision-pro-may-correct-for-vision-problems-without-magnetic-lenses?utm_medium=rss)
+ - [Beware of fake CleanMyMac installers that will infect your Mac](https://appleinsider.com/articles/24/03/28/beware-of-fake-cleanmymac-installers-that-will-infect-your-mac?utm_medium=rss)
+ - [Surprise! Google will let the Pixel 8 run on-device AI after all](https://www.theverge.com/2024/3/28/24114078/google-pixel-8-gemini-nano-on-device-ai)
+ - [Meta is adding AI to its Ray-Ban smart glasses next month](https://www.theverge.com/2024/3/28/24114454/meta-ai-ray-ban-smart-glasses-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

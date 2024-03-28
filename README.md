@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft’s new safety system can catch hallucinations in its customers’ AI apps](https://www.theverge.com/2024/3/28/24114664/microsoft-safety-ai-prompt-injections-hallucinations-azure)
  - [Reddit shares plunge almost 25% in two days, after soaring 30% on Monday, and finish the week at $49.30, below the first trading day close of $50.44 &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/240328/p30#a240328p30)
  - [Apple’s OLED iPad Pro will reportedly arrive in May](https://www.theverge.com/2024/3/28/24114824/apple-ipad-pro-oled-m3-release-date)
  - [World Backup Day Deals: 40 Early Deals on SSDs, Flash Drives, SD Cards and More     - CNET](https://www.cnet.com/deals/world-backup-day-deals/#ftag=CAD590a51e)
- - [YouTube now lets creators share exclusive Shorts with paying viewers, says Shorts average 70B+ daily views and 25%+ of creator partners monetize via Shorts &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240328/p29#a240328p29)
- - [Best Luggage Deals: Save Hundreds on Luggage from Desley, Samsonite, Away and More     - CNET](https://www.cnet.com/deals/best-luggage-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [YouTube now lets creators share exclusive Shorts with paying viewers, says Shorts average 70B+ daily views and 25%+ of creator partners monetize via Shorts &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240328/p29#a240328p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

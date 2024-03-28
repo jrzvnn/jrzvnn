@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The White House Puts New Guardrails on Government Use of AI](https://www.wired.com/story/white-house-new-guardrails-government-use-of-ai/)
- - [Every US federal agency must hire a chief AI officer](https://www.theverge.com/2024/3/28/24114105/federal-agencies-ai-responsible-guidance-omb-caio)
- - [New York City welcomes robotaxis — but only with safety drivers](https://www.theverge.com/2024/3/28/24108894/nyc-autonomous-robotaxi-safety-driver-permit-eric-adams)
- - [A profile of Anduril founder Palmer Luckey, as the AI surveillance and defense tech startup, which sells drones to the US, expects $1B in annual revenue by 2026 &lpar;Tabby Kinder/Financial Times&rpar;](http://www.techmeme.com/240328/p6#a240328p6)
- - [Meet the Designer Behind Neuralink’s Surgical Robot](https://www.wired.com/story/designer-behind-neuralinks-surgical-robot-afshin-mehin/)<!-- TECH:END -->
+ - [Houston Open 2024: How to Watch and Stream All the PGA Tour Golf From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/houston-open-2024-how-to-watch-stream-all-the-pga-tour-golf-from-anywhere/#ftag=CAD590a51e)
+ - [Internet Bills Could Rise for Millions Soon. Here&#39;s What You Can Do to Save Money     - CNET](https://www.cnet.com/home/internet/internet-bills-could-rise-for-millions-soon-heres-what-you-can-do-to-save-money/#ftag=CAD590a51e)
+ - [Apple Vision Pro Deal Drops Price Even Further, Now $200 Off While Supplies Last     - CNET](https://www.cnet.com/deals/apple-vision-pro-deal-drops-price-even-further-now-200-off-while-supplies-last/#ftag=CAD590a51e)
+ - [MLB 2024: How to Watch, Stream Baseball This Season Without Cable     - CNET](https://www.cnet.com/deals/mlb-2024-how-to-watch-stream-baseball-this-season-without-cable/#ftag=CAD590a51e)
+ - [The White House Puts New Guardrails on Government Use of AI](https://www.wired.com/story/white-house-new-guardrails-government-use-of-ai/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

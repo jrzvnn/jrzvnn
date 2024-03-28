@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New York’s first offshore wind hub to be built with union labor](https://www.theverge.com/2024/3/28/24114498/offshore-wind-farm-new-york-hub-labor-agreement-empire-wind)
  - [Amazon’s palm-scanning service now lets you sign up from your phone](https://www.theverge.com/2024/3/28/24114499/amazon-one-palm-scanning-mobile-app)
  - [Google updates Search to start showing crypto wallet balances across bitcoin and the EVM networks Arbitrum, Avalanche, Fantom, Optimism, and Polygon &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240328/p23#a240328p23)
  - [Sam Bankman-Fried sentenced to 25 years for FTX fraud](https://www.theverge.com/2024/3/28/24112507/sam-bankman-fried-sentence-ftx-alameda)
- - [Live updates from the trial and sentencing of FTX co-founder Sam Bankman-Fried](https://www.theverge.com/23894366/ftx-sam-bankman-fried-trial-updates-news)
- - [Future Apple Vision Pro may get Bob Ross-style virtual painting tools](https://appleinsider.com/articles/24/03/28/future-apple-vision-pro-may-get-bob-ross-style-virtual-painting-tools?utm_medium=rss)<!-- TECH:END -->
+ - [Live updates from the trial and sentencing of FTX co-founder Sam Bankman-Fried](https://www.theverge.com/23894366/ftx-sam-bankman-fried-trial-updates-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

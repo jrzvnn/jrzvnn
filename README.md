@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happiness Noise](http://9gag.com/gag/aqy4DWp)
+ - 😝 [Marriage in a nutshell](http://9gag.com/gag/axyEANL)
  - 😝 [I wish the gate gets well soon.](http://9gag.com/gag/adByogD)
- - 💣 [Share a picture to use when you are late to work?](http://9gag.com/gag/a34v2r1)
- - 😝 [Still no photos of the ship captain. Funny, that...](http://9gag.com/gag/ary1dpd)
+ - 💣 [`Are they peaceful?` - Asked the woman](http://9gag.com/gag/apRKVyW)
+ - 😝 [Happiness Noise](http://9gag.com/gag/aqy4DWp)
  - 👉 [That&#39;s awkward.](http://9gag.com/gag/aW4BDoq)<!-- MEMES:END -->
 
 ---

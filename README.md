@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guy was living the dream. They only found out after an auditor came by.](http://9gag.com/gag/awyNYw1)
- - 😝 [He has a point](http://9gag.com/gag/aVvjRd8)
- - 💣 [Why does this feel true..](http://9gag.com/gag/a87dzbd)
+ - 😝 [Stay safe, kings](http://9gag.com/gag/a2vEL01)
+ - 😝 [Happiness Noise](http://9gag.com/gag/aqy4DWp)
+ - 💣 [`Are they peaceful?` - Asked the woman](http://9gag.com/gag/apRKVyW)
  - 😝 [I still prefer the left one, what do you guys think?](http://9gag.com/gag/a5QpqAL)
- - 👉 [Idiot Impossible](http://9gag.com/gag/azx74Ob)<!-- MEMES:END -->
+ - 👉 [That&#39;s awkward.](http://9gag.com/gag/aW4BDoq)<!-- MEMES:END -->
 
 ---
 

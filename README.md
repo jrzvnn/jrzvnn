@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The White House Puts New Guardrails on Government Use of AI](https://www.wired.com/story/white-house-new-guardrails-government-use-of-ai/)
+ - [Every US federal agency must hire a chief AI officer](https://www.theverge.com/2024/3/28/24114105/federal-agencies-ai-responsible-guidance-omb-caio)
+ - [New York City welcomes robotaxis — but only with safety drivers](https://www.theverge.com/2024/3/28/24108894/nyc-autonomous-robotaxi-safety-driver-permit-eric-adams)
  - [A profile of Anduril founder Palmer Luckey, as the AI surveillance and defense tech startup, which sells drones to the US, expects $1B in annual revenue by 2026 &lpar;Tabby Kinder/Financial Times&rpar;](http://www.techmeme.com/240328/p6#a240328p6)
- - [Meet the Designer Behind Neuralink’s Surgical Robot](https://www.wired.com/story/designer-behind-neuralinks-surgical-robot-afshin-mehin/)
- - [Waiting on Your Child Tax Credit Refund? Find Out When It Could Arrive     - CNET](https://www.cnet.com/personal-finance/taxes/waiting-on-your-child-tax-credit-refund-find-out-when-it-could-arrive/#ftag=CAD590a51e)
- - [A look at the rise and fall of Emad Mostaque and Stability AI, including how Mostaque&#39;s relationship with Coatue and Lightspeed blossomed and then fell apart &lpar;Fortune&rpar;](http://www.techmeme.com/240328/p5#a240328p5)
- - [How in-app browsers silently subvert user choice, stifle innovation, trap users into apps, break websites, and enable apps to severely undermine user privacy &lpar;Open Web Advocacy&rpar;](http://www.techmeme.com/240328/p4#a240328p4)<!-- TECH:END -->
+ - [Meet the Designer Behind Neuralink’s Surgical Robot](https://www.wired.com/story/designer-behind-neuralinks-surgical-robot-afshin-mehin/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

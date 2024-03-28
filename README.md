@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You may need to wait a little longer than expected for a new iPad Pro &amp; iPad Air](https://appleinsider.com/articles/24/03/28/you-may-need-to-wait-a-little-longer-than-expected-for-a-new-ipad-pro-ipad-air?utm_medium=rss)
  - [Apple sues an ex-employee for allegedly leaking details about the Journal app and more to journalists, to &quot;kill&quot; products and features with which he took issue &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/240328/p26#a240328p26)
  - [Sources: Apple plans to launch new iPad Pro and iPad Air models in early May; iPad Pros will get OLED displays, while iPad Air will get a 12.9&quot; screen option &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240328/p25#a240328p25)
  - [Hulu with Live TV adds MLB Network just as baseball season gets underway](https://www.theverge.com/2024/3/28/24114745/mlb-network-hulu-live-tv)
- - [SteelSeries’ multi-platform Arctis Nova Pro Wireless headset is nearly $70 off](https://www.theverge.com/2024/3/28/24114502/steelseries-arctis-nova-pro-wireless-apple-vision-pro-headset-deal-sale)
- - [iOS 18 is coming soon with AI, a new interface, and accessibility: what to expect at WWDC 2024](https://appleinsider.com/articles/24/03/28/ios-18-is-coming-soon-with-ai-a-new-interface-and-accessibility-what-to-expect-at-wwdc-2024?utm_medium=rss)<!-- TECH:END -->
+ - [SteelSeries’ multi-platform Arctis Nova Pro Wireless headset is nearly $70 off](https://www.theverge.com/2024/3/28/24114502/steelseries-arctis-nova-pro-wireless-apple-vision-pro-headset-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh snap](http://9gag.com/gag/aPA6nbR)
- - 😝 [I wish the gate gets well soon.](http://9gag.com/gag/adByogD)
- - 💣 [One of the best moments in tv history](http://9gag.com/gag/aoymnyA)
- - 😝 [I still prefer the left one, what do you guys think?](http://9gag.com/gag/a5QpqAL)
- - 👉 [That&#39;s awkward.](http://9gag.com/gag/aW4BDoq)<!-- MEMES:END -->
+ - 😝 [Marriage in a nutshell](http://9gag.com/gag/axyEANL)
+ - 😝 [Happiness Noise](http://9gag.com/gag/aqy4DWp)
+ - 💣 [A training ground in China&#39;s Inner Mongolia is a replica of the road network near Taiwan&#39;s Presidential Palace.](http://9gag.com/gag/aRB62eA)
+ - 😝 [One of the best moments in tv history](http://9gag.com/gag/aoymnyA)
+ - 👉 [I still prefer the left one, what do you guys think?](http://9gag.com/gag/a5QpqAL)<!-- MEMES:END -->
 
 ---
 

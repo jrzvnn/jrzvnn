@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That camel must be so happy to get that off his back](http://9gag.com/gag/an7eE90)
+ - 😝 [Boomer life](http://9gag.com/gag/apRKbBD)
+ - 😝 [I wish the gate gets well soon.](http://9gag.com/gag/adByogD)
+ - 💣 [Lol comment caught me off guard](http://9gag.com/gag/aNDmBOr)
  - 😝 [Critics criticise just because it won&#39;t fit in their woke ideology](http://9gag.com/gag/an7eE1b)
- - 💣 [Guy lights a cigarette on plane](http://9gag.com/gag/aVvjZ5w)
- - 😝 [Blind Man gets arrested for carrying a white cane](http://9gag.com/gag/aBy94oA)
  - 👉 [&lpar;Jia lissa &rpar;..I&#39;m sure 9gag experts can fix her](http://9gag.com/gag/aBy9OYN)<!-- MEMES:END -->
 
 ---

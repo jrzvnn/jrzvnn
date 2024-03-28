@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Scammers are using sample videos of influencers with modest social media presence to create AI deepfake ads that often push offensive products and ideas &lpar;Washington Post&rpar;](http://www.techmeme.com/240328/p31#a240328p31)
+ - [Save Up to 30% on Top Designer Brands, Levi&#39;s, KitchenAid and More at Macy&#39;s VIP Sale     - CNET](https://www.cnet.com/deals/save-up-to-30-on-top-designer-brands-levis-kitchenaid-and-more-at-macys-vip-sale/#ftag=CAD590a51e)
  - [Microsoft’s new safety system can catch hallucinations in its customers’ AI apps](https://www.theverge.com/2024/3/28/24114664/microsoft-safety-ai-prompt-injections-hallucinations-azure)
- - [Reddit shares plunge almost 25% in two days, after soaring 30% on Monday, and finish the week at $49.30, below the first trading day close of $50.44 &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/240328/p30#a240328p30)
- - [Apple’s OLED iPad Pro will reportedly arrive in May](https://www.theverge.com/2024/3/28/24114824/apple-ipad-pro-oled-m3-release-date)
- - [World Backup Day Deals: 40 Early Deals on SSDs, Flash Drives, SD Cards and More     - CNET](https://www.cnet.com/deals/world-backup-day-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Board Game Deals: 20 Hot Deals on Strategy Games, Card Games, RPGs and More     - CNET](https://www.cnet.com/deals/best-board-game-deals/#ftag=CAD590a51e)
+ - [Best BBQ Sauces for 2024     - CNET](https://www.cnet.com/news/best-bbq-sauces/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

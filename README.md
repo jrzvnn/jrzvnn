@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Still no photos of the ship captain. Funny, that...](http://9gag.com/gag/ary1dpd)
- - 😝 [Oh snap](http://9gag.com/gag/aPA6nbR)
+ - 😝 [I&#39;m sick of getting beaten up by this guy](http://9gag.com/gag/aLn6dAM)
+ - 😝 [Freedom!!!](http://9gag.com/gag/aoymD7g)
  - 💣 [That&#39;s awkward.](http://9gag.com/gag/aW4BDoq)
- - 😝 [One of us, one of us, one of us!](http://9gag.com/gag/a5QpxqL)
- - 👉 [I still prefer the left one, what do you guys think?](http://9gag.com/gag/a5QpqAL)<!-- MEMES:END -->
+ - 😝 [Still no photos of the ship captain. Funny, that...](http://9gag.com/gag/ary1dpd)
+ - 👉 [SHE TALKS !](http://9gag.com/gag/a87dVP6)<!-- MEMES:END -->
 
 ---
 

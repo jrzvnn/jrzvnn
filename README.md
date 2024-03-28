@@ -169,8 +169,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [RFK Jr. Has Assembled His Anti-Vax Conspiracy Squad](https://www.wired.com/story/rfk-jr-has-assembled-his-anti-vax-conspiracy-squad/)
  - [Is a Nintendo Switch Worth Buying Right Now? &lpar;2024&rpar;](https://www.wired.com/story/is-a-nintendo-switch-worth-buying-right-now/)
  - [How to download YouTube Videos with 4K Video Downloader](https://appleinsider.com/articles/24/03/28/how-to-download-youtube-videos-with-4k-video-downloader?utm_medium=rss)
- - [Best Internet Providers in Pennsylvania     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-pennsylvania/#ftag=CAD590a51e)
- - [Apple&#39;s AirTag Item Trackers Just Hit a New Record-Low $75 for 4     - CNET](https://www.cnet.com/deals/apples-airtag-item-trackers-just-hit-a-new-record-low-75-for-4/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple wants a Magic Mouse you can tilt for more controls](https://appleinsider.com/articles/24/03/28/apple-wants-a-magic-mouse-you-can-tilt-for-more-controls?utm_medium=rss)
+ - [Analysis: in the past two years, Amazon committed to spending $148B over 15 years on data centers, including in Mississippi, Saudi Arabia, and Malaysia &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/240328/p15#a240328p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

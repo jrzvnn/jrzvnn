@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Back Crack!](http://9gag.com/gag/abA3QoB)
  - 😝 [Oh snap](http://9gag.com/gag/aPA6nbR)
- - 💣 [Happiness Noise](http://9gag.com/gag/aqy4DWp)
- - 😝 [One of the best moments in tv history](http://9gag.com/gag/aoymnyA)
- - 👉 [I still prefer the left one, what do you guys think?](http://9gag.com/gag/a5QpqAL)<!-- MEMES:END -->
+ - 😝 [I wish the gate gets well soon.](http://9gag.com/gag/adByogD)
+ - 💣 [One of the best moments in tv history](http://9gag.com/gag/aoymnyA)
+ - 😝 [I still prefer the left one, what do you guys think?](http://9gag.com/gag/a5QpqAL)
+ - 👉 [That&#39;s awkward.](http://9gag.com/gag/aW4BDoq)<!-- MEMES:END -->
 
 ---
 

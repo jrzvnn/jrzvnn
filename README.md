@@ -170,7 +170,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [My Favorite Things an Amazon Echo Show Can Do &lpar;2024&rpar;](https://www.wired.com/story/amazon-echo-show-tips/)
  - [Beyoncé&#39;s &#39;Cowboy Carter&#39; Meets Online Fandom at the Crossroads](https://www.wired.com/story/welcome-back-to-beyonce-internet/)
  - [Best MacBooks &lpar;2024&rpar;: Which Model Should You Buy?](https://www.wired.com/story/which-macbook-should-you-buy/)
- - [How the semiconductor industry can reach 1T transistor GPUs, which will be needed within a decade if the AI revolution continues at its current pace &lpar;IEEE Spectrum&rpar;](http://www.techmeme.com/240329/p6#a240329p6)<!-- TECH:END -->
+ - [How the chip industry can build a multichiplet GPU with 1T+ transistors, which will be needed within a decade if the AI revolution continues at its current pace &lpar;IEEE Spectrum&rpar;](http://www.techmeme.com/240329/p6#a240329p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

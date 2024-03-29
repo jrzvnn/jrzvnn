@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google obviously says that Apple RCS support will come in the fall](https://appleinsider.com/articles/24/03/29/google-obviously-says-that-apple-rcs-support-will-come-in-the-fall?utm_medium=rss)
  - [The TikTok divestment bill will not offer any meaningful privacy protection from China, but it will further entrench the dominance of US-based social networks &lpar;Meredith Whittaker/LPE Project&rpar;](http://www.techmeme.com/240329/p4#a240329p4)
  - [Disney+ Has a New Look—Which Is No Look at All](https://www.wired.com/story/disney-plus-new-color-dull/)
  - [iPhone 16 Pro may gain a new polished, glossy titanium finish](https://appleinsider.com/articles/24/03/29/iphone-16-pro-may-gain-a-new-polished-glossy-titanium-finish?utm_medium=rss)
- - [Smartphones Do or Don’t Harm Kids! So Which Is It?](https://www.wired.com/story/pete-etchells-jonathan-haidt-smartphones/)
- - [Best iPhone in 2024: Which Apple Phone Should You Buy?     - CNET](https://www.cnet.com/tech/mobile/best-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Smartphones Do or Don’t Harm Kids! So Which Is It?](https://www.wired.com/story/pete-etchells-jonathan-haidt-smartphones/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

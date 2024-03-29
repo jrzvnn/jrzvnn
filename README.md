@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 16 Pro may gain a new polished, glossy titanium finish](https://appleinsider.com/articles/24/03/29/iphone-16-pro-may-gain-a-new-polished-glossy-titanium-finish?utm_medium=rss)
+ - [Smartphones Do or Don’t Harm Kids! So Which Is It?](https://www.wired.com/story/pete-etchells-jonathan-haidt-smartphones/)
  - [The Next Heat Pump Frontier? NYC Apartment Windows](https://www.wired.com/story/the-next-heat-pump-frontier-nyc-apartment-windows/)
  - [Huawei reports fastest growth in four years for 2023, as revenue up 9.63% to $97.48B, net profit up 144.5% to ~$12.04B, consumer revenue up 17.3% to ~$34.79B &lpar;David Kirton/Reuters&rpar;](http://www.techmeme.com/240329/p3#a240329p3)
- - [An inside look at Windows and Surface leadership changes that could help Microsoft capitalize on AI PCs and transition Surface devices to Arm chips &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240329/p2#a240329p2)
- - [Record low prices hit Apple&#39;s M3 MacBook Pro 14-inch, now on sale from $1,399](https://appleinsider.com/articles/24/03/29/record-low-prices-hit-apples-m3-macbook-pro-14-inch-now-on-sale-from-1399?utm_medium=rss)
- - [Experts and documents: the US is years from having a reliable alternative source for time and navigation services if GPS signals are interrupted by adversaries &lpar;New York Times&rpar;](http://www.techmeme.com/240329/p1#a240329p1)<!-- TECH:END -->
+ - [An inside look at Windows and Surface leadership changes that could help Microsoft capitalize on AI PCs and transition Surface devices to Arm chips &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240329/p2#a240329p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

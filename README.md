@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [20 years of Gmail](https://www.theverge.com/24113616/gmail-email-20-years-old-internet)
+ - [Beard Detail Trimmer     - CNET](https://www.cnet.com/health/personal-care/beard-detail-trimmer-dpnl/#ftag=CAD590a51e)
+ - [Apple&#39;s iOS 18 Rumors: A Significant Leap for AI on the iPhone     - CNET](https://www.cnet.com/tech/mobile/apples-ios-18-rumors-a-significant-leap-for-ai-on-the-iphone/#ftag=CAD590a51e)
  - [My Favorite Things an Amazon Echo Show Can Do &lpar;2024&rpar;](https://www.wired.com/story/amazon-echo-show-tips/)
- - [Beyoncé&#39;s &#39;Cowboy Carter&#39; Meets Online Fandom at the Crossroads](https://www.wired.com/story/welcome-back-to-beyonce-internet/)
- - [Best MacBooks &lpar;2024&rpar;: Which Model Should You Buy?](https://www.wired.com/story/which-macbook-should-you-buy/)
- - [How the chip industry can build a multichiplet GPU with 1T+ transistors, which will be needed within a decade if the AI revolution continues at its current pace &lpar;IEEE Spectrum&rpar;](http://www.techmeme.com/240329/p6#a240329p6)<!-- TECH:END -->
+ - [Save Big on Outdoor Tools, Furniture and Accessories With Woot&#39;s Limited-Time Sale     - CNET](https://www.cnet.com/deals/save-big-on-outdoor-tools-furniture-and-accessories-with-woots-limited-time-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

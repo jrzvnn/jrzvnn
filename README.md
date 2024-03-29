@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They can make it legal to arrest people for what they are posting on twitter, yet they still have no legal way to recover stolen vehicle?](http://9gag.com/gag/a87dXme)
- - 😝 [It makes the app unusable](http://9gag.com/gag/aW4BN9Z)
- - 💣 [It only takes 17 years.](http://9gag.com/gag/a1mpxB2)
- - 😝 [Who paved over the valve?](http://9gag.com/gag/aE0dNxK)
- - 👉 [Mariano&#39;s meme folder #011](http://9gag.com/gag/aKG4NWN)<!-- MEMES:END -->
+ - 😝 [We are just kids for her](http://9gag.com/gag/azx7BMZ)
+ - 😝 [Freedom!!!](http://9gag.com/gag/aoymD7g)
+ - 💣 [Oh snap](http://9gag.com/gag/aPA6nbR)
+ - 😝 [What is the name of this movie ?](http://9gag.com/gag/aqy4dyQ)
+ - 👉 [It only takes 17 years.](http://9gag.com/gag/a1mpxB2)<!-- MEMES:END -->
 
 ---
 

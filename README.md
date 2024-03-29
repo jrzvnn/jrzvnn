@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Shazam on Wear OS now works without your phone](https://www.theverge.com/2024/3/29/24115379/shazam-wearos-android-smartwatch-wearables)
  - [14 Best Coffee Subscriptions to Keep You Wired &lpar;2024&rpar;: Blends, Single-Origin, Small Batch, Decaf, Chains](https://www.wired.com/gallery/best-coffee-subscriptions/)
  - [How Nintendo made Super Mario Bros. Wonder so weird](https://www.theverge.com/24112724/super-mario-bros-wonder-interview-nintendo-switch)
  - [Get 55% Off a Lifetime Subscription to Curiosity Stream     - CNET](https://www.cnet.com/deals/get-55-off-a-lifetime-subscription-to-curiosity-stream/#ftag=CAD590a51e)
- - [The Best Horror Movies on Max Right Now     - CNET](https://www.cnet.com/culture/entertainment/the-best-horror-movies-on-max-right-now-march-2024/#ftag=CAD590a51e)
- - [The US tightens greenhouse gas emission standards for heavy-duty vehicles](https://www.theverge.com/2024/3/29/24114896/heavy-duty-vehicles-trucks-pollution-standards-climate-change-biden-epa)<!-- TECH:END -->
+ - [The Best Horror Movies on Max Right Now     - CNET](https://www.cnet.com/culture/entertainment/the-best-horror-movies-on-max-right-now-march-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The police only get 5 days suspension for this](http://9gag.com/gag/a2vEjqw)
- - 😝 [How to equip your cat](http://9gag.com/gag/a7ovG32)
- - 💣 [No title](http://9gag.com/gag/aLn6NKV)
- - 😝 [Classic &lpar;repost from archives&rpar;](http://9gag.com/gag/aRB6yVA)
- - 👉 [Only facts](http://9gag.com/gag/aoymq13)<!-- MEMES:END -->
+ - 😝 [Who paved over the valve?](http://9gag.com/gag/aE0dNxK)
+ - 😝 [Dude won but at what cost](http://9gag.com/gag/azx7DAN)
+ - 💣 [Why does this feel true..](http://9gag.com/gag/a87dzbd)
+ - 😝 [Happiness Noise](http://9gag.com/gag/aqy4DWp)
+ - 👉 [Muslin asks woman not to eat because he is fasting for Ramadan](http://9gag.com/gag/ae9KdXb)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [37](http://9gag.com/gag/aD2RrGw)
  - 😝 [Well... Need to improve.](http://9gag.com/gag/awyNGAQ)
- - 💣 [Actually funny... and true...](http://9gag.com/gag/a9yjN4j)
- - 😝 [Not all heroes wear capes](http://9gag.com/gag/amoqbWd)
- - 👉 [In their honour](http://9gag.com/gag/a87dXgQ)<!-- MEMES:END -->
+ - 😝 [Mariano&#39;s meme folder #011](http://9gag.com/gag/aKG4NWN)
+ - 💣 [In their honour](http://9gag.com/gag/a87dXgQ)
+ - 😝 [Muslin asks woman not to eat because he is fasting for Ramadan](http://9gag.com/gag/ae9KdXb)
+ - 👉 [It makes the app unusable](http://9gag.com/gag/aW4BN9Z)<!-- MEMES:END -->
 
 ---
 

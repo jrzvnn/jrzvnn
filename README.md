@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Accel is in talks to lead a round in Scale AI at a $13B valuation, up from $7.3B in 2021; Scale AI generated $675M+ in revenue in 2023, up ~150% YoY &lpar;The Information&rpar;](http://www.techmeme.com/240329/p5#a240329p5)
  - [You&#39;ve Clogged a Toilet With No Plunger. Don&#39;t Panic and Do This Instead     - CNET](https://www.cnet.com/how-to/youve-clogged-a-toilet-with-no-plunger-dont-panic-and-do-this-instead/#ftag=CAD590a51e)
  - [Police seize fake iPhones in $750,000 haul of counterfeit items](https://appleinsider.com/articles/24/03/29/police-seize-fake-iphones-in-750000-haul-of-counterfeit-items?utm_medium=rss)
  - [iPhone 16 case leak includes vertical camera bump at the back](https://appleinsider.com/articles/24/03/29/iphone-16-case-leak-includes-vertical-camera-bump-at-the-back?utm_medium=rss)
- - [Upgrading to the iPhone 15? Here&#39;s How It Compares to Older iPhones     - CNET](https://www.cnet.com/tech/mobile/should-you-upgrade-to-the-iphone-15-how-it-compares-to-older-iphones/#ftag=CAD590a51e)
- - [What Samsung&#39;s Galaxy Ring Needs to Woo Smartwatch Haters Like Me     - CNET](https://www.cnet.com/tech/mobile/what-samsungs-galaxy-ring-needs-to-woo-smartwatch-haters-like-me/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Upgrading to the iPhone 15? Here&#39;s How It Compares to Older iPhones     - CNET](https://www.cnet.com/tech/mobile/should-you-upgrade-to-the-iphone-15-how-it-compares-to-older-iphones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

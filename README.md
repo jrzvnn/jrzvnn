@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Still no photos of the ship captain. Funny, that...](http://9gag.com/gag/ary1dpd)
- - 😝 [That&#39;s awkward.](http://9gag.com/gag/aW4BDoq)
- - 💣 [What is the name of this movie ?](http://9gag.com/gag/aqy4dyQ)
+ - 😝 [I still prefer the left one, what do you guys think?](http://9gag.com/gag/a5QpqAL)
  - 😝 [Muslin asks woman not to eat because he is fasting for Ramadan](http://9gag.com/gag/ae9KdXb)
- - 👉 [It&#39;s wild](http://9gag.com/gag/axyE4g1)<!-- MEMES:END -->
+ - 💣 [Why does this feel true..](http://9gag.com/gag/a87dzbd)
+ - 😝 [Dude won but at what cost](http://9gag.com/gag/azx7DAN)
+ - 👉 [That&#39;s awkward.](http://9gag.com/gag/aW4BDoq)<!-- MEMES:END -->
 
 ---
 

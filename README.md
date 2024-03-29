@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s awkward.](http://9gag.com/gag/aW4BDoq)
- - 😝 [I still prefer the left one, what do you guys think?](http://9gag.com/gag/a5QpqAL)
- - 💣 [One of the best moments in tv history](http://9gag.com/gag/aoymnyA)
- - 😝 [Still no photos of the ship captain. Funny, that...](http://9gag.com/gag/ary1dpd)
- - 👉 [What is the name of this movie ?](http://9gag.com/gag/aqy4dyQ)<!-- MEMES:END -->
+ - 😝 [Women](http://9gag.com/gag/aMVey5G)
+ - 😝 [Theres no escape](http://9gag.com/gag/ayNEPbb)
+ - 💣 [Open border activist James Jackson everybody](http://9gag.com/gag/aZZqdwz)
+ - 😝 [Always there](http://9gag.com/gag/aqy4dnv)
+ - 👉 [Freedom!!!](http://9gag.com/gag/aoymD7g)<!-- MEMES:END -->
 
 ---
 

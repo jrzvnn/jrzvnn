@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well... Need to improve.](http://9gag.com/gag/awyNGAQ)
- - 😝 [Mariano&#39;s meme folder #011](http://9gag.com/gag/aKG4NWN)
- - 💣 [In their honour](http://9gag.com/gag/a87dXgQ)
- - 😝 [Muslin asks woman not to eat because he is fasting for Ramadan](http://9gag.com/gag/ae9KdXb)
- - 👉 [It makes the app unusable](http://9gag.com/gag/aW4BN9Z)<!-- MEMES:END -->
+ - 😝 [What is the name of this movie ?](http://9gag.com/gag/aqy4dyQ)
+ - 😝 [Oops ! Bad calculations !](http://9gag.com/gag/aKG4NQO)
+ - 💣 [Dude won but at what cost](http://9gag.com/gag/azx7DAN)
+ - 😝 [Very nice culture indeed. Inventor and founder of everything and every brand.](http://9gag.com/gag/a34vn97)
+ - 👉 [Coca-cola Magic](http://9gag.com/gag/avy2X5n)<!-- MEMES:END -->
 
 ---
 

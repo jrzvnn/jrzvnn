@@ -178,8 +178,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - 😝 [That&#39;s awkward.](http://9gag.com/gag/aW4BDoq)
  - 😝 [Dude won but at what cost](http://9gag.com/gag/azx7DAN)
  - 💣 [Muslin asks woman not to eat because he is fasting for Ramadan](http://9gag.com/gag/ae9KdXb)
- - 😝 [Just a routine racist traffic stop sir..](http://9gag.com/gag/aW4BdXd)
- - 👉 [Stay safe, kings](http://9gag.com/gag/a2vEL01)<!-- MEMES:END -->
+ - 😝 [Stay safe, kings](http://9gag.com/gag/a2vEL01)
+ - 👉 [Who paved over the valve?](http://9gag.com/gag/aE0dNxK)<!-- MEMES:END -->
 
 ---
 

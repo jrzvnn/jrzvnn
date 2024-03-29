@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Always there](http://9gag.com/gag/aqy4dnv)
- - 😝 [Gamer understand](http://9gag.com/gag/a4Ppxqd)
- - 💣 [Open border activist James Jackson everybody](http://9gag.com/gag/aZZqdwz)
- - 😝 [Is there a massage?](http://9gag.com/gag/a2vExRY)
- - 👉 [32 years old unmarried dude playing game for living. calling himself `working class`](http://9gag.com/gag/aoymdg0)<!-- MEMES:END -->
+ - 😝 [`Are they peaceful?` - Asked the woman](http://9gag.com/gag/apRKVyW)
+ - 😝 [Still no photos of the ship captain. Funny, that...](http://9gag.com/gag/ary1dpd)
+ - 💣 [Freedom!!!](http://9gag.com/gag/aoymD7g)
+ - 😝 [What\u2019s your strategy for managing downtime at work?](http://9gag.com/gag/axyEmDK)
+ - 👉 [Oh snap](http://9gag.com/gag/aPA6nbR)<!-- MEMES:END -->
 
 ---
 

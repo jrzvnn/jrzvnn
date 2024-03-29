@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US tightens greenhouse gas emission standards for heavy-duty vehicles](https://www.theverge.com/2024/3/29/24114896/heavy-duty-vehicles-trucks-pollution-standards-climate-change-biden-epa)
+ - [WWDC, Apple Ring, and five years of Apple TV+ on the AppleInsider Podcast](https://appleinsider.com/articles/24/03/29/wwdc-apple-ring-and-five-years-of-apple-tv-on-the-appleinsider-podcast?utm_medium=rss)
  - [Sources: Accel is in talks to lead a round in Scale AI at a $13B valuation, up from $7.3B in 2021; Scale AI generated $675M+ in revenue in 2023, up ~150% YoY &lpar;The Information&rpar;](http://www.techmeme.com/240329/p5#a240329p5)
  - [You&#39;ve Clogged a Toilet With No Plunger. Don&#39;t Panic and Do This Instead     - CNET](https://www.cnet.com/how-to/youve-clogged-a-toilet-with-no-plunger-dont-panic-and-do-this-instead/#ftag=CAD590a51e)
- - [Police seize fake iPhones in $750,000 haul of counterfeit items](https://appleinsider.com/articles/24/03/29/police-seize-fake-iphones-in-750000-haul-of-counterfeit-items?utm_medium=rss)
- - [iPhone 16 case leak includes vertical camera bump at the back](https://appleinsider.com/articles/24/03/29/iphone-16-case-leak-includes-vertical-camera-bump-at-the-back?utm_medium=rss)
- - [Upgrading to the iPhone 15? Here&#39;s How It Compares to Older iPhones     - CNET](https://www.cnet.com/tech/mobile/should-you-upgrade-to-the-iphone-15-how-it-compares-to-older-iphones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Police seize fake iPhones in $750,000 haul of counterfeit items](https://appleinsider.com/articles/24/03/29/police-seize-fake-iphones-in-750000-haul-of-counterfeit-items?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

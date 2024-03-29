@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the MGM hack, carried out by Star Fraud group, part of the Com online community of teenagers from English-speaking countries that also spawned Lapsus$ &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240329/p7#a240329p7)
+ - [26 Best Travel Accessories &lpar;2024&rpar;: Neck Pillows, Plug Adapters, and Headphones](https://www.wired.com/gallery/best-travel-accessories/)
+ - [Here’s Proof the AI Boom Is Real: More People Are Tapping ChatGPT at Work](https://www.wired.com/story/plaintext-proof-the-ai-boom-is-people-tapping-chatgpt-at-work/)
  - [20 years of Gmail](https://www.theverge.com/24113616/gmail-email-20-years-old-internet)
- - [Beard Detail Trimmer     - CNET](https://www.cnet.com/health/personal-care/beard-detail-trimmer-dpnl/#ftag=CAD590a51e)
- - [Apple&#39;s iOS 18 Rumors: A Significant Leap for AI on the iPhone     - CNET](https://www.cnet.com/tech/mobile/apples-ios-18-rumors-a-significant-leap-for-ai-on-the-iphone/#ftag=CAD590a51e)
- - [My Favorite Things an Amazon Echo Show Can Do &lpar;2024&rpar;](https://www.wired.com/story/amazon-echo-show-tips/)
- - [Save Big on Outdoor Tools, Furniture and Accessories With Woot&#39;s Limited-Time Sale     - CNET](https://www.cnet.com/deals/save-big-on-outdoor-tools-furniture-and-accessories-with-woots-limited-time-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Beard Detail Trimmer     - CNET](https://www.cnet.com/health/personal-care/beard-detail-trimmer-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

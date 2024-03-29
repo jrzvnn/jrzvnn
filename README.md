@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Car thieves in Canada are using AirTags to track victims&#39; vehicles](https://appleinsider.com/articles/24/03/29/car-thieves-in-canada-are-using-airtags-to-track-victims-vehicles?utm_medium=rss)
- - [X says all NSFW content will be soon filtered across Communities by default and admins can set an &quot;Adult Content&quot; label to avoid auto-filtering of their content &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240329/p8#a240329p8)
- - [A look at the MGM hack, carried out by Star Fraud group, part of the Com online community of teenagers from English-speaking countries that also spawned Lapsus$ &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240329/p7#a240329p7)
- - [26 Best Travel Accessories &lpar;2024&rpar;: Neck Pillows, Plug Adapters, and Headphones](https://www.wired.com/gallery/best-travel-accessories/)
- - [Here’s Proof the AI Boom Is Real: More People Are Tapping ChatGPT at Work](https://www.wired.com/story/plaintext-proof-the-ai-boom-is-people-tapping-chatgpt-at-work/)<!-- TECH:END -->
+ - [X says all NSFW content will soon be filtered across Communities by default and admins can set an &quot;Adult Content&quot; label to avoid auto-filtering of their content &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240329/p8#a240329p8)
+ - [Make the Switch to an E-Bike During This Huge Sale at Upway     - CNET](https://www.cnet.com/roadshow/news/make-the-switch-to-an-e-bike-during-this-huge-sale-at-upway/#ftag=CAD590a51e)
+ - [20 Best Easter Weekend Mattress Deals     - CNET](https://www.cnet.com/deals/20-best-easter-weekend-mattress-deals/#ftag=CAD590a51e)
+ - [A look at the MGM hack, carried out by Star Fraud group, part of the Com online community of teenagers from English-speaking countries that also spawned Lapsus$ &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240329/p7#a240329p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

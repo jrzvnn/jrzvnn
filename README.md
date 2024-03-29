@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Smart move](http://9gag.com/gag/aGyKonK)
- - 😝 [Magic Tricks](http://9gag.com/gag/a9yjVY0)
- - 💣 [Is there a massage?](http://9gag.com/gag/a2vExRY)
- - 😝 [Muslin asks woman not to eat because he is fasting for Ramadan](http://9gag.com/gag/ae9KdXb)
- - 👉 [Always there](http://9gag.com/gag/aqy4dnv)<!-- MEMES:END -->
+ - 😝 [Women](http://9gag.com/gag/aMVey5G)
+ - 💣 [Back Crack!](http://9gag.com/gag/abA3QoB)
+ - 😝 [Freedom!!!](http://9gag.com/gag/aoymD7g)
+ - 👉 [Is there a massage?](http://9gag.com/gag/a2vExRY)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Sources: the Biden administration is making a list of advanced Chinese chip factories barred from receiving key tools, which could be released in a few months &lpar;Reuters&rpar;](http://www.techmeme.com/240328/p38#a240328p38)
+ - [These Techy Reading Glasses Are Expensive, But May Hold the Key to Future Eyewear     - CNET](https://www.cnet.com/health/medical/these-techy-reading-glasses-are-expensive-but-may-hold-the-key-to-future-eyewear/#ftag=CAD590a51e)
  - [NYC is partnering with Evolv, a weapons detection company that has faced scrutiny over its machines&#39; accuracy, to test AI-based gun detectors on the subway &lpar;Gaby Del Valle/The Verge&rpar;](http://www.techmeme.com/240328/p37#a240328p37)
- - [In a lawsuit, four Canadian school boards seek damages of CA$4B+ from Meta, Snap, and TikTok for allegedly causing learning and mental health crises in students &lpar;Yuvraj Malik/Reuters&rpar;](http://www.techmeme.com/240328/p36#a240328p36)
- - [Apple Vision Pro&#39;s first new immersive video in months is 5 minutes of old soccer clips](https://appleinsider.com/articles/24/03/29/apple-vision-pros-first-new-immersive-video-in-months-is-5-minutes-of-old-soccer-clips?utm_medium=rss)
- - [Sources detail Grindr&#39;s push to monetize, including plans for an AI chatbot that can engage users in sexual conversations and may be trained on opt-in user data &lpar;Zo&amp;euml; Schiffer/Platformer&rpar;](http://www.techmeme.com/240328/p35#a240328p35)<!-- TECH:END -->
+ - [March Madness 2024: How to Watch, Livestream the Sweet 16 Tonight Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/march-madness-2024-how-to-watch-livestream-the-ncaa-basketball-tournament-sweet-16-without-cable/#ftag=CAD590a51e)
+ - [In a lawsuit, four Canadian school boards seek damages of CA$4B+ from Meta, Snap, and TikTok for allegedly causing learning and mental health crises in students &lpar;Yuvraj Malik/Reuters&rpar;](http://www.techmeme.com/240328/p36#a240328p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

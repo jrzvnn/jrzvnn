@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the Biden administration is making a list of advanced Chinese chip factories barred from receiving key tools, which could be released in a few months &lpar;Reuters&rpar;](http://www.techmeme.com/240328/p38#a240328p38)
  - [NYC is partnering with Evolv, a weapons detection company that has faced scrutiny over its machines&#39; accuracy, to test AI-based gun detectors on the subway &lpar;Gaby Del Valle/The Verge&rpar;](http://www.techmeme.com/240328/p37#a240328p37)
  - [In a lawsuit, four Canadian school boards seek damages of CA$4B+ from Meta, Snap, and TikTok for allegedly causing learning and mental health crises in students &lpar;Yuvraj Malik/Reuters&rpar;](http://www.techmeme.com/240328/p36#a240328p36)
  - [Apple Vision Pro&#39;s first new immersive video in months is 5 minutes of old soccer clips](https://appleinsider.com/articles/24/03/29/apple-vision-pros-first-new-immersive-video-in-months-is-5-minutes-of-old-soccer-clips?utm_medium=rss)
- - [Sources detail Grindr&#39;s push to monetize, including plans for an AI chatbot that can engage users in sexual conversations and may be trained on opt-in user data &lpar;Zo&amp;euml; Schiffer/Platformer&rpar;](http://www.techmeme.com/240328/p35#a240328p35)
- - [Apple sues former iOS engineer for allegedly leaking Vision Pro, Journal app details](https://www.theverge.com/2024/3/28/24115067/apple-leak-lawsuit-andrew-aude)<!-- TECH:END -->
+ - [Sources detail Grindr&#39;s push to monetize, including plans for an AI chatbot that can engage users in sexual conversations and may be trained on opt-in user data &lpar;Zo&amp;euml; Schiffer/Platformer&rpar;](http://www.techmeme.com/240328/p35#a240328p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

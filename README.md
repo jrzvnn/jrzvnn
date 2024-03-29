@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why does this feel true..](http://9gag.com/gag/a87dzbd)
- - 😝 [Mind bending puzzle](http://9gag.com/gag/aqy4dvQ)
- - 💣 [Coca-cola Magic](http://9gag.com/gag/avy2X5n)
- - 😝 [SHE TALKS !](http://9gag.com/gag/a87dVP6)
- - 👉 [What is the name of this movie ?](http://9gag.com/gag/aqy4dyQ)<!-- MEMES:END -->
+ - 😝 [It&#39;s wild](http://9gag.com/gag/axyE4g1)
+ - 😝 [Coca-cola Magic](http://9gag.com/gag/avy2X5n)
+ - 💣 [Why does this feel true..](http://9gag.com/gag/a87dzbd)
+ - 😝 [What is the name of this movie ?](http://9gag.com/gag/aqy4dyQ)
+ - 👉 [Mind bending puzzle](http://9gag.com/gag/aqy4dvQ)<!-- MEMES:END -->
 
 ---
 

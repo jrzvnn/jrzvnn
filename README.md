@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [OpenAI’s voice cloning AI model only needs a 15-second sample to work](https://www.theverge.com/2024/3/29/24115701/openai-voice-generation-ai-model)
- - [Researchers find malicious code in versions of the Linux compression tool XZ Utils that were incorporated into unstable distributions from Red Hat and Debian &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240329/p18#a240329p18)
+ - [7 Simple Happiness Hacks to Help You Control Your Mood     - CNET](https://www.cnet.com/health/mental/7-simple-happiness-hacks-to-help-you-control-your-mood/#ftag=CAD590a51e)
+ - [Researchers find malicious code in versions of the compression tool XZ Utils that were incorporated into Linux distributions from Red Hat, Debian, and others &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240329/p18#a240329p18)
  - [Beyoncé&#39;s Cowboy Carter Album: Easter Eggs, Guest Stars, How to Stream     - CNET](https://www.cnet.com/tech/beyonces-cowboy-carter-album-easter-eggs-guest-stars-how-to-stream/#ftag=CAD590a51e)
- - [March Madness 2024: How to Watch, Livestream the Sweet 16 Today Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/march-madness-2024-how-to-watch-livestream-the-sweet-16-friday-without-cable/#ftag=CAD590a51e)
- - [Google&#39;s Trying Out AI to Help You Make Custom Travel Itineraries     - CNET](https://www.cnet.com/tech/services-and-software/googles-trying-out-ai-to-help-you-make-custom-travel-itineraries/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [March Madness 2024: How to Watch, Livestream the Sweet 16 Today Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/march-madness-2024-how-to-watch-livestream-the-sweet-16-friday-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

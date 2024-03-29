@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One of the best moments in tv history](http://9gag.com/gag/aoymnyA)
- - 😝 [What is the name of this movie ?](http://9gag.com/gag/aqy4dyQ)
- - 💣 [Muslin asks woman not to eat because he is fasting for Ramadan](http://9gag.com/gag/ae9KdXb)
+ - 😝 [Still no photos of the ship captain. Funny, that...](http://9gag.com/gag/ary1dpd)
  - 😝 [That&#39;s awkward.](http://9gag.com/gag/aW4BDoq)
- - 👉 [SHE TALKS !](http://9gag.com/gag/a87dVP6)<!-- MEMES:END -->
+ - 💣 [What is the name of this movie ?](http://9gag.com/gag/aqy4dyQ)
+ - 😝 [Muslin asks woman not to eat because he is fasting for Ramadan](http://9gag.com/gag/ae9KdXb)
+ - 👉 [It&#39;s wild](http://9gag.com/gag/axyE4g1)<!-- MEMES:END -->
 
 ---
 

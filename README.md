@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google obviously says that Apple RCS support will come in the fall](https://appleinsider.com/articles/24/03/29/google-obviously-says-that-apple-rcs-support-will-come-in-the-fall?utm_medium=rss)
- - [The TikTok divestment bill will not offer any meaningful privacy protection from China, but it will further entrench the dominance of US-based social networks &lpar;Meredith Whittaker/LPE Project&rpar;](http://www.techmeme.com/240329/p4#a240329p4)
- - [Best Ever Night Mode Photos: A Pro Photographer&#39;s Tips for Any Phone     - CNET](https://www.cnet.com/tech/mobile/best-ever-night-mode-photos-pro-photographers-tips-for-any-phone/#ftag=CAD590a51e)
- - [8 Wild Ways to Use Peanut Butter to Tackle Common Tackle Household Chores     - CNET](https://www.cnet.com/how-to/8-wild-ways-to-use-peanut-butter-outside-the-kitchen/#ftag=CAD590a51e)
- - [This IRS Program Allows You to File Your Taxes for Free. Here&#39;s What to Know     - CNET](https://www.cnet.com/personal-finance/taxes/this-irs-program-allows-you-to-file-your-taxes-for-free-heres-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [You&#39;ve Clogged a Toilet With No Plunger. Don&#39;t Panic and Do This Instead     - CNET](https://www.cnet.com/how-to/youve-clogged-a-toilet-with-no-plunger-dont-panic-and-do-this-instead/#ftag=CAD590a51e)
+ - [Police seize fake iPhones in $750,000 haul of counterfeit items](https://appleinsider.com/articles/24/03/29/police-seize-fake-iphones-in-750000-haul-of-counterfeit-items?utm_medium=rss)
+ - [iPhone 16 case leak includes vertical camera bump at the back](https://appleinsider.com/articles/24/03/29/iphone-16-case-leak-includes-vertical-camera-bump-at-the-back?utm_medium=rss)
+ - [Upgrading to the iPhone 15? Here&#39;s How It Compares to Older iPhones     - CNET](https://www.cnet.com/tech/mobile/should-you-upgrade-to-the-iphone-15-how-it-compares-to-older-iphones/#ftag=CAD590a51e)
+ - [What Samsung&#39;s Galaxy Ring Needs to Woo Smartwatch Haters Like Me     - CNET](https://www.cnet.com/tech/mobile/what-samsungs-galaxy-ring-needs-to-woo-smartwatch-haters-like-me/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

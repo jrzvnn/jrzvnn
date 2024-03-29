@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filings from 2023 list Jacob Vespers as OpenAI Startup Fund&#39;s manager; OpenAI says &quot;Vespers does not exist&quot; and the docs are &quot;fabricated&quot;, without elaborating &lpar;Darius Rafieyan/Business Insider&rpar;](http://www.techmeme.com/240329/p15#a240329p15)
  - [Researcher: Instagram is testing Blend, which creates a feed of Reels for two friends to share based on shared interests and Reels they shared with each other &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240329/p14#a240329p14)
  - [The 32 Best Shows on Amazon Prime Right Now](https://www.wired.com/story/best-shows-amazon-prime/)
  - [The 16 Best Movies on Amazon Prime Right Now](https://www.wired.com/story/best-amazon-prime-movies/)
- - [Google informs users in the US that Google Podcasts is shutting down April 2 and recommends exporting podcast subscriptions to YouTube Music &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240329/p13#a240329p13)
- - [AI Will Boost the Threat Of Election Disinformation, Hillary Clinton Says     - CNET](https://www.cnet.com/tech/services-and-software/ai-could-supercharge-election-disinformation-hillary-clinton-says/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google informs users in the US that Google Podcasts is shutting down April 2 and recommends exporting podcast subscriptions to YouTube Music &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240329/p13#a240329p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

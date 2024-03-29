@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women](http://9gag.com/gag/aMVey5G)
- - 😝 [Theres no escape](http://9gag.com/gag/ayNEPbb)
- - 💣 [Open border activist James Jackson everybody](http://9gag.com/gag/aZZqdwz)
- - 😝 [Always there](http://9gag.com/gag/aqy4dnv)
- - 👉 [Freedom!!!](http://9gag.com/gag/aoymD7g)<!-- MEMES:END -->
+ - 😝 [Freedom!!!](http://9gag.com/gag/aoymD7g)
+ - 😝 [SHE TALKS !](http://9gag.com/gag/a87dVP6)
+ - 💣 [&lpar;Jia lissa &rpar;..I&#39;m sure 9gag experts can fix her](http://9gag.com/gag/aBy9OYN)
+ - 😝 [That&#39;s awkward.](http://9gag.com/gag/aW4BDoq)
+ - 👉 [Still no photos of the ship captain. Funny, that...](http://9gag.com/gag/ary1dpd)<!-- MEMES:END -->
 
 ---
 

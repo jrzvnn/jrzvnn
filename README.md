@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dude won but at what cost](http://9gag.com/gag/azx7DAN)
- - 😝 [Muslin asks woman not to eat because he is fasting for Ramadan](http://9gag.com/gag/ae9KdXb)
- - 💣 [I will froze if given choices](http://9gag.com/gag/ae9KWbv)
- - 😝 [Coca-cola Magic](http://9gag.com/gag/avy2X5n)
- - 👉 [Why does this feel true..](http://9gag.com/gag/a87dzbd)<!-- MEMES:END -->
+ - 😝 [Avoid these drivers because if you lower yourself to their levels? You&#39;ll pay a price.](http://9gag.com/gag/aAyBmdR)
+ - 😝 [Happiness Noise](http://9gag.com/gag/aqy4DWp)
+ - 💣 [What is the name of this movie ?](http://9gag.com/gag/aqy4dyQ)
+ - 😝 [Marriage in a nutshell](http://9gag.com/gag/axyEANL)
+ - 👉 [Still no photos of the ship captain. Funny, that...](http://9gag.com/gag/ary1dpd)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I wish the gate gets well soon.](http://9gag.com/gag/adByogD)
- - 😝 [I still prefer the left one, what do you guys think?](http://9gag.com/gag/a5QpqAL)
- - 💣 [Back Crack!](http://9gag.com/gag/abA3QoB)
- - 😝 [SHE TALKS !](http://9gag.com/gag/a87dVP6)
- - 👉 [Still no photos of the ship captain. Funny, that...](http://9gag.com/gag/ary1dpd)<!-- MEMES:END -->
+ - 😝 [Still no photos of the ship captain. Funny, that...](http://9gag.com/gag/ary1dpd)
+ - 😝 [What is the name of this movie ?](http://9gag.com/gag/aqy4dyQ)
+ - 💣 [That&#39;s awkward.](http://9gag.com/gag/aW4BDoq)
+ - 😝 [I will froze if given choices](http://9gag.com/gag/ae9KWbv)
+ - 👉 [Why does this feel true..](http://9gag.com/gag/a87dzbd)<!-- MEMES:END -->
 
 ---
 

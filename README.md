@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Care Plus adds unlimited battery repair — for a price](https://www.theverge.com/2024/3/29/24115503/samsung-care-plus-price-increase-battery-repair)
  - [Amazon is offering a rare deal on Philips Hue’s Festavia string lights](https://www.theverge.com/2024/3/29/24115040/philips-hue-festavia-smart-string-lights-hue-bridge-shokz-open-run-pro-headphones-deal-sale)
  - [A profile of DeepMind&#39;s Demis Hassabis, who was just knighted, as some wonder if he can navigate Google&#39;s bureaucracy and turn AI research into great products &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/240329/p12#a240329p12)
  - [Record low prices hit Apple&#39;s M3 MacBook Pro 14-inch, now on sale from $1,399](https://appleinsider.com/articles/24/03/29/record-low-prices-hit-apples-m3-macbook-pro-14-inch-now-on-sale-from-1399?utm_medium=rss)
- - [Sources: Microsoft and OpenAl are planing a $100B data center project with a US-based supercomputer dubbed &quot;Stargate&quot; to power OpenAl&#39;s products &lpar;The Information&rpar;](http://www.techmeme.com/240329/p11#a240329p11)
- - [OpenAI debuts Voice Engine, which lets users generate synthetic copy of a voice from a 15-second sample, available to around 100 partners, including HeyGen &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240329/p10#a240329p10)<!-- TECH:END -->
+ - [Sources: Microsoft and OpenAl are planing a $100B data center project with a US-based supercomputer dubbed &quot;Stargate&quot; to power OpenAl&#39;s products &lpar;The Information&rpar;](http://www.techmeme.com/240329/p11#a240329p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

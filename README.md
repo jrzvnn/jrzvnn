@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best MacBooks &lpar;2024&rpar;: Which Model Should You Buy?](https://www.wired.com/story/which-macbook-should-you-buy/)
  - [How the semiconductor industry can reach 1T transistor GPUs, which will be needed within a decade if the AI revolution continues at its current pace &lpar;IEEE Spectrum&rpar;](http://www.techmeme.com/240329/p6#a240329p6)
  - [Here’s Proof the AI Boom Is Real: More People Are Tapping ChatGPT at Work](https://www.wired.com/story/plaintext-proof-the-ai-boom-is-people-tapping-chatgpt-at-work/)
  - [Sony PlayStation Pulse Elite Review: The PS5’s Perfect Wireless Headset](https://www.wired.com/review/sony-playstation-pulse-elite/)
- - [Does Mario feel pain? It’s complicated](https://www.theverge.com/24114957/super-mario-developer-interview-pain-nintendo)
- - [Shazam on Wear OS now works without your phone](https://www.theverge.com/2024/3/29/24115379/shazam-wearos-android-smartwatch-wearables)<!-- TECH:END -->
+ - [Does Mario feel pain? It’s complicated](https://www.theverge.com/24114957/super-mario-developer-interview-pain-nintendo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Still no photos of the ship captain. Funny, that...](http://9gag.com/gag/ary1dpd)
- - 😝 [What is the name of this movie ?](http://9gag.com/gag/aqy4dyQ)
- - 💣 [That&#39;s awkward.](http://9gag.com/gag/aW4BDoq)
- - 😝 [I will froze if given choices](http://9gag.com/gag/ae9KWbv)
- - 👉 [Why does this feel true..](http://9gag.com/gag/a87dzbd)<!-- MEMES:END -->
+ - 😝 [Smart move](http://9gag.com/gag/aGyKonK)
+ - 😝 [Magic Tricks](http://9gag.com/gag/a9yjVY0)
+ - 💣 [Is there a massage?](http://9gag.com/gag/a2vExRY)
+ - 😝 [Muslin asks woman not to eat because he is fasting for Ramadan](http://9gag.com/gag/ae9KdXb)
+ - 👉 [Always there](http://9gag.com/gag/aqy4dnv)<!-- MEMES:END -->
 
 ---
 

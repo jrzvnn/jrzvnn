@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who paved over the valve?](http://9gag.com/gag/aE0dNxK)
- - 😝 [Dude won but at what cost](http://9gag.com/gag/azx7DAN)
- - 💣 [Why does this feel true..](http://9gag.com/gag/a87dzbd)
- - 😝 [Happiness Noise](http://9gag.com/gag/aqy4DWp)
- - 👉 [Muslin asks woman not to eat because he is fasting for Ramadan](http://9gag.com/gag/ae9KdXb)<!-- MEMES:END -->
+ - 😝 [Avoid these drivers because if you lower yourself to their levels? You&#39;ll pay a price.](http://9gag.com/gag/aAyBmdR)
+ - 😝 [Muslin asks woman not to eat because he is fasting for Ramadan](http://9gag.com/gag/ae9KdXb)
+ - 💣 [SHE TALKS !](http://9gag.com/gag/a87dVP6)
+ - 😝 [Coca-cola Magic](http://9gag.com/gag/avy2X5n)
+ - 👉 [Why does this feel true..](http://9gag.com/gag/a87dzbd)<!-- MEMES:END -->
 
 ---
 

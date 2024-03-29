@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Freedom!!!](http://9gag.com/gag/aoymD7g)
- - 😝 [SHE TALKS !](http://9gag.com/gag/a87dVP6)
- - 💣 [&lpar;Jia lissa &rpar;..I&#39;m sure 9gag experts can fix her](http://9gag.com/gag/aBy9OYN)
- - 😝 [That&#39;s awkward.](http://9gag.com/gag/aW4BDoq)
- - 👉 [Still no photos of the ship captain. Funny, that...](http://9gag.com/gag/ary1dpd)<!-- MEMES:END -->
+ - 😝 [&lpar;Jia lissa &rpar;..I&#39;m sure 9gag experts can fix her](http://9gag.com/gag/aBy9OYN)
+ - 😝 [What is the name of this movie ?](http://9gag.com/gag/aqy4dyQ)
+ - 💣 [SHE TALKS !](http://9gag.com/gag/a87dVP6)
+ - 😝 [Why does this feel true..](http://9gag.com/gag/a87dzbd)
+ - 👉 [It&#39;s wild](http://9gag.com/gag/axyE4g1)<!-- MEMES:END -->
 
 ---
 

@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Freedom!!!](http://9gag.com/gag/aoymD7g)
- - 😝 [Oh snap](http://9gag.com/gag/aPA6nbR)
- - 💣 [Still no photos of the ship captain. Funny, that...](http://9gag.com/gag/ary1dpd)
- - 😝 [That&#39;s awkward.](http://9gag.com/gag/aW4BDoq)
- - 👉 [SHE TALKS !](http://9gag.com/gag/a87dVP6)<!-- MEMES:END -->
+ - 😝 [`Are they peaceful?` - Asked the woman](http://9gag.com/gag/apRKVyW)
+ - 💣 [What is the name of this movie ?](http://9gag.com/gag/aqy4dyQ)
+ - 😝 [Still no photos of the ship captain. Funny, that...](http://9gag.com/gag/ary1dpd)
+ - 👉 [I will froze if given choices](http://9gag.com/gag/ae9KWbv)<!-- MEMES:END -->
 
 ---
 

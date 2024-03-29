@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Coca-cola Magic](http://9gag.com/gag/avy2X5n)
+ - 😝 [Mind bending puzzle](http://9gag.com/gag/aqy4dvQ)
+ - 😝 [Dude won but at what cost](http://9gag.com/gag/azx7DAN)
+ - 💣 [The police only get 5 days suspension for this](http://9gag.com/gag/a2vEjqw)
  - 😝 [Very nice culture indeed. Inventor and founder of everything and every brand.](http://9gag.com/gag/a34vn97)
- - 💣 [Dude won but at what cost](http://9gag.com/gag/azx7DAN)
- - 😝 [The police only get 5 days suspension for this](http://9gag.com/gag/a2vEjqw)
- - 👉 [Gypsies when you try to cut down the tree in Good Will &lpar;gypsy settlement&rpar;, Slovakia](http://9gag.com/gag/aKG4LrN)<!-- MEMES:END -->
+ - 👉 [It&#39;s wild](http://9gag.com/gag/axyE4g1)<!-- MEMES:END -->
 
 ---
 

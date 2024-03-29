@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Smart move](http://9gag.com/gag/aGyKonK)
- - 😝 [Women](http://9gag.com/gag/aMVey5G)
- - 💣 [Back Crack!](http://9gag.com/gag/abA3QoB)
- - 😝 [Freedom!!!](http://9gag.com/gag/aoymD7g)
- - 👉 [Is there a massage?](http://9gag.com/gag/a2vExRY)<!-- MEMES:END -->
+ - 😝 [One of the best moments in tv history](http://9gag.com/gag/aoymnyA)
+ - 😝 [What is the name of this movie ?](http://9gag.com/gag/aqy4dyQ)
+ - 💣 [Muslin asks woman not to eat because he is fasting for Ramadan](http://9gag.com/gag/ae9KdXb)
+ - 😝 [That&#39;s awkward.](http://9gag.com/gag/aW4BDoq)
+ - 👉 [SHE TALKS !](http://9gag.com/gag/a87dVP6)<!-- MEMES:END -->
 
 ---
 

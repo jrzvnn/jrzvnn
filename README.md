@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources detail Grindr&#39;s push to monetize, including plans for an AI chatbot that can engage users in sexual conversations and may be trained on opt-in user data &lpar;Zo&amp;euml; Schiffer/Platformer&rpar;](http://www.techmeme.com/240328/p35#a240328p35)
+ - [Apple sues former iOS engineer for allegedly leaking Vision Pro, Journal app details](https://www.theverge.com/2024/3/28/24115067/apple-leak-lawsuit-andrew-aude)
+ - [Oregon&#39;s Breakthrough Right-to-Repair Bill Is Now Law](https://www.wired.com/story/oregon-right-to-repair-law/)
  - [How MowPod, which sells podcast advertising tools, uses mobile game ads to incentivize gamers to follow shows on Apple Podcasts in order to earn in-game tokens &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/240328/p34#a240328p34)
- - [Best Apple Watch Ultra 2 and Ultra Deals: Save With Trade-Ins and More     - CNET](https://www.cnet.com/deals/best-apple-watch-ultra-deals/#ftag=CAD590a51e)
- - [Solar Snap App Is Just One Way You Can Take Photos of April 8 Eclipse     - CNET](https://www.cnet.com/tech/services-and-software/solar-snap-app-is-just-one-way-you-can-take-photos-of-april-8-eclipse/#ftag=CAD590a51e)
- - [AI Could Supercharge Election Disinformation, Hillary Clinton Says     - CNET](https://www.cnet.com/tech/services-and-software/ai-could-supercharge-election-disinformation-hillary-clinton-says/#ftag=CAD590a51e)
- - [Cybersecurity startup Zafran, which develops risk mitigation services, emerges from stealth with a $25M Series A co-led by Sequoia Capital and Cyberstarts &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/240328/p33#a240328p33)<!-- TECH:END -->
+ - [Best Full Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-full-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What is the name of this movie ?](http://9gag.com/gag/aqy4dyQ)
- - 😝 [Oops ! Bad calculations !](http://9gag.com/gag/aKG4NQO)
- - 💣 [Dude won but at what cost](http://9gag.com/gag/azx7DAN)
+ - 😝 [Muslin asks woman not to eat because he is fasting for Ramadan](http://9gag.com/gag/ae9KdXb)
  - 😝 [Very nice culture indeed. Inventor and founder of everything and every brand.](http://9gag.com/gag/a34vn97)
- - 👉 [Coca-cola Magic](http://9gag.com/gag/avy2X5n)<!-- MEMES:END -->
+ - 💣 [Mind bending puzzle](http://9gag.com/gag/aqy4dvQ)
+ - 😝 [The police only get 5 days suspension for this](http://9gag.com/gag/a2vEjqw)
+ - 👉 [Yearly reminder of the Value of a good nights sleep](http://9gag.com/gag/azx7oXN)<!-- MEMES:END -->
 
 ---
 

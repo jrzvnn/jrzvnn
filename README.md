@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An inside look at Windows and Surface leadership changes that could help Microsoft capitalize on AI PCs and transition Surface devices to Arm chips &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240329/p2#a240329p2)
  - [Record low prices hit Apple&#39;s M3 MacBook Pro 14-inch, now on sale from $1,399](https://appleinsider.com/articles/24/03/29/record-low-prices-hit-apples-m3-macbook-pro-14-inch-now-on-sale-from-1399?utm_medium=rss)
  - [Experts and documents: the US is years from having a reliable alternative source for time and navigation services if GPS signals are interrupted by adversaries &lpar;New York Times&rpar;](http://www.techmeme.com/240329/p1#a240329p1)
  - [South Korean national statistics data: chip output grew 65.3% YoY in February 2024, the most since late 2009, with demand for AI-related memory driving growth &lpar;Sam Kim/Bloomberg&rpar;](http://www.techmeme.com/240328/p40#a240328p40)
- - [How to grant third-party apps Apple Music access in macOS](https://appleinsider.com/inside/apple-music/tips/how-to-grant-third-party-apps-apple-music-access-in-macos?utm_medium=rss)
- - [New York-based The Brandtech Group, which provides generative AI-based tools for advertising and marketing campaigns, raised a $115M Series C at a $4B valuation &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/240328/p39#a240328p39)<!-- TECH:END -->
+ - [How to grant third-party apps Apple Music access in macOS](https://appleinsider.com/inside/apple-music/tips/how-to-grant-third-party-apps-apple-music-access-in-macos?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

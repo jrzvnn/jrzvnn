@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dude won but at what cost](http://9gag.com/gag/azx7DAN)
- - 😝 [Still no photos of the ship captain. Funny, that...](http://9gag.com/gag/ary1dpd)
- - 💣 [Avoid these drivers because if you lower yourself to their levels? You&#39;ll pay a price.](http://9gag.com/gag/aAyBmdR)
- - 😝 [What is the name of this movie ?](http://9gag.com/gag/aqy4dyQ)
- - 👉 [The police only get 5 days suspension for this](http://9gag.com/gag/a2vEjqw)<!-- MEMES:END -->
+ - 😝 [The police only get 5 days suspension for this](http://9gag.com/gag/a2vEjqw)
+ - 😝 [How to equip your cat](http://9gag.com/gag/a7ovG32)
+ - 💣 [No title](http://9gag.com/gag/aLn6NKV)
+ - 😝 [Classic &lpar;repost from archives&rpar;](http://9gag.com/gag/aRB6yVA)
+ - 👉 [Only facts](http://9gag.com/gag/aoymq13)<!-- MEMES:END -->
 
 ---
 

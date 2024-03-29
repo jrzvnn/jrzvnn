@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Avoid these drivers because if you lower yourself to their levels? You&#39;ll pay a price.](http://9gag.com/gag/aAyBmdR)
- - 😝 [Happiness Noise](http://9gag.com/gag/aqy4DWp)
+ - 😝 [Muslin asks woman not to eat because he is fasting for Ramadan](http://9gag.com/gag/ae9KdXb)
+ - 😝 [The police only get 5 days suspension for this](http://9gag.com/gag/a2vEjqw)
  - 💣 [What is the name of this movie ?](http://9gag.com/gag/aqy4dyQ)
- - 😝 [Marriage in a nutshell](http://9gag.com/gag/axyEANL)
- - 👉 [Still no photos of the ship captain. Funny, that...](http://9gag.com/gag/ary1dpd)<!-- MEMES:END -->
+ - 😝 [Why does this feel true..](http://9gag.com/gag/a87dzbd)
+ - 👉 [It&#39;s wild](http://9gag.com/gag/axyE4g1)<!-- MEMES:END -->
 
 ---
 

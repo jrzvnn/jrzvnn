@@ -169,8 +169,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [South Korean national statistics data: chip output grew 65.3% YoY in February 2024, the most since late 2009, with demand for AI-related memory driving growth &lpar;Sam Kim/Bloomberg&rpar;](http://www.techmeme.com/240328/p40#a240328p40)
  - [How to grant third-party apps Apple Music access in macOS](https://appleinsider.com/inside/apple-music/tips/how-to-grant-third-party-apps-apple-music-access-in-macos?utm_medium=rss)
  - [New York-based The Brandtech Group, which provides generative AI-based tools for advertising and marketing campaigns, raised a $115M Series C at a $4B valuation &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/240328/p39#a240328p39)
- - [Sources: the Biden administration is making a list of advanced Chinese chip factories barred from receiving key tools, which could be released in a few months &lpar;Reuters&rpar;](http://www.techmeme.com/240328/p38#a240328p38)
- - [These Techy Reading Glasses Are Expensive, But May Hold the Key to Future Eyewear     - CNET](https://www.cnet.com/health/medical/these-techy-reading-glasses-are-expensive-but-may-hold-the-key-to-future-eyewear/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPad 2024 Rumors: New iPad Pro and Air Models Arriving in Early May     - CNET](https://www.cnet.com/tech/computing/ipad-2024-rumors-new-ipad-pro-and-air-models-arriving-in-early-may/#ftag=CAD590a51e)
+ - [Sources: the Biden administration is making a list of advanced Chinese chip factories barred from receiving key tools, which could be released in a few months &lpar;Reuters&rpar;](http://www.techmeme.com/240328/p38#a240328p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

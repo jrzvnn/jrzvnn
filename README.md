@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here’s Proof the AI Boom Is Real: More People Are Tapping ChatGPT at Work](https://www.wired.com/story/plaintext-proof-the-ai-boom-is-people-tapping-chatgpt-at-work/)
+ - [Sony PlayStation Pulse Elite Review: The PS5’s Perfect Wireless Headset](https://www.wired.com/review/sony-playstation-pulse-elite/)
  - [Does Mario feel pain? It’s complicated](https://www.theverge.com/24114957/super-mario-developer-interview-pain-nintendo)
  - [Shazam on Wear OS now works without your phone](https://www.theverge.com/2024/3/29/24115379/shazam-wearos-android-smartwatch-wearables)
- - [14 Best Coffee Subscriptions to Keep You Wired &lpar;2024&rpar;: Blends, Single-Origin, Small Batch, Decaf, Chains](https://www.wired.com/gallery/best-coffee-subscriptions/)
- - [How Nintendo made Super Mario Bros. Wonder so weird](https://www.theverge.com/24112724/super-mario-bros-wonder-interview-nintendo-switch)
- - [Get 55% Off a Lifetime Subscription to Curiosity Stream     - CNET](https://www.cnet.com/deals/get-55-off-a-lifetime-subscription-to-curiosity-stream/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [14 Best Coffee Subscriptions to Keep You Wired &lpar;2024&rpar;: Blends, Single-Origin, Small Batch, Decaf, Chains](https://www.wired.com/gallery/best-coffee-subscriptions/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Alien animal caught in China](http://9gag.com/gag/aBy9oQQ)
- - 😝 [Freedom!!!](http://9gag.com/gag/aoymD7g)
- - 💣 [Oh snap](http://9gag.com/gag/aPA6nbR)
- - 😝 [What is the name of this movie ?](http://9gag.com/gag/aqy4dyQ)
- - 👉 [Still no photos of the ship captain. Funny, that...](http://9gag.com/gag/ary1dpd)<!-- MEMES:END -->
+ - 😝 [Why does this feel true..](http://9gag.com/gag/a87dzbd)
+ - 😝 [Muslin asks woman not to eat because he is fasting for Ramadan](http://9gag.com/gag/ae9KdXb)
+ - 💣 [SHE TALKS !](http://9gag.com/gag/a87dVP6)
+ - 😝 [Gypsies when you try to cut down the tree in Good Will &lpar;gypsy settlement&rpar;, Slovakia](http://9gag.com/gag/aKG4LrN)
+ - 👉 [Dude won but at what cost](http://9gag.com/gag/azx7DAN)<!-- MEMES:END -->
 
 ---
 

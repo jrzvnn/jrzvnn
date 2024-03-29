@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to grant third-party apps Apple Music access in macOS](https://appleinsider.com/inside/apple-music/tips/how-to-grant-third-party-apps-apple-music-access-in-macos?utm_medium=rss)
  - [New York-based The Brandtech Group, which provides generative AI-based tools for advertising and marketing campaigns, raised a $115M Series C at a $4B valuation &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/240328/p39#a240328p39)
  - [Sources: the Biden administration is making a list of advanced Chinese chip factories barred from receiving key tools, which could be released in a few months &lpar;Reuters&rpar;](http://www.techmeme.com/240328/p38#a240328p38)
  - [These Techy Reading Glasses Are Expensive, But May Hold the Key to Future Eyewear     - CNET](https://www.cnet.com/health/medical/these-techy-reading-glasses-are-expensive-but-may-hold-the-key-to-future-eyewear/#ftag=CAD590a51e)
- - [NYC is partnering with Evolv, a weapons detection company that has faced scrutiny over its machines&#39; accuracy, to test AI-based gun detectors on the subway &lpar;Gaby Del Valle/The Verge&rpar;](http://www.techmeme.com/240328/p37#a240328p37)
- - [March Madness 2024: How to Watch, Livestream the Sweet 16 Tonight Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/march-madness-2024-how-to-watch-livestream-the-ncaa-basketball-tournament-sweet-16-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [NYC is partnering with Evolv, a weapons detection company that has faced scrutiny over its machines&#39; accuracy, to test AI-based gun detectors on the subway &lpar;Gaby Del Valle/The Verge&rpar;](http://www.techmeme.com/240328/p37#a240328p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

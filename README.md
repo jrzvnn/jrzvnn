@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Why does this feel true..](http://9gag.com/gag/a87dzbd)
- - 😝 [Muslin asks woman not to eat because he is fasting for Ramadan](http://9gag.com/gag/ae9KdXb)
- - 💣 [SHE TALKS !](http://9gag.com/gag/a87dVP6)
- - 😝 [Gypsies when you try to cut down the tree in Good Will &lpar;gypsy settlement&rpar;, Slovakia](http://9gag.com/gag/aKG4LrN)
- - 👉 [Dude won but at what cost](http://9gag.com/gag/azx7DAN)<!-- MEMES:END -->
+ - 😝 [Coca-cola Magic](http://9gag.com/gag/avy2X5n)
+ - 💣 [Dude won but at what cost](http://9gag.com/gag/azx7DAN)
+ - 😝 [The police only get 5 days suspension for this](http://9gag.com/gag/a2vEjqw)
+ - 👉 [Gypsies when you try to cut down the tree in Good Will &lpar;gypsy settlement&rpar;, Slovakia](http://9gag.com/gag/aKG4LrN)<!-- MEMES:END -->
 
 ---
 

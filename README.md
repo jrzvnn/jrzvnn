@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Freedom!!!](http://9gag.com/gag/aoymD7g)
- - 😝 [Who paved over the valve?](http://9gag.com/gag/aE0dNxK)
- - 💣 [What is the name of this movie ?](http://9gag.com/gag/aqy4dyQ)
+ - 😝 [Dude won but at what cost](http://9gag.com/gag/azx7DAN)
  - 😝 [Muslin asks woman not to eat because he is fasting for Ramadan](http://9gag.com/gag/ae9KdXb)
- - 👉 [SHE TALKS !](http://9gag.com/gag/a87dVP6)<!-- MEMES:END -->
+ - 💣 [I will froze if given choices](http://9gag.com/gag/ae9KWbv)
+ - 😝 [Coca-cola Magic](http://9gag.com/gag/avy2X5n)
+ - 👉 [Why does this feel true..](http://9gag.com/gag/a87dzbd)<!-- MEMES:END -->
 
 ---
 

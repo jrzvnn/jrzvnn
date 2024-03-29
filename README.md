@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No title](http://9gag.com/gag/aLn6NKV)
- - 😝 [Coca-cola Magic](http://9gag.com/gag/avy2X5n)
- - 💣 [Lamborghini or something](http://9gag.com/gag/a5Qpy1g)
- - 😝 [Only facts](http://9gag.com/gag/aoymq13)
- - 👉 [Who paved over the valve?](http://9gag.com/gag/aE0dNxK)<!-- MEMES:END -->
+ - 😝 [Muslin asks woman not to eat because he is fasting for Ramadan](http://9gag.com/gag/ae9KdXb)
+ - 😝 [What is the name of this movie ?](http://9gag.com/gag/aqy4dyQ)
+ - 💣 [Dude won but at what cost](http://9gag.com/gag/azx7DAN)
+ - 😝 [The police only get 5 days suspension for this](http://9gag.com/gag/a2vEjqw)
+ - 👉 [SHE TALKS !](http://9gag.com/gag/a87dVP6)<!-- MEMES:END -->
 
 ---
 

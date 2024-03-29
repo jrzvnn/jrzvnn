@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Beyoncé&#39;s Cowboy Carter Album: Easter Eggs, Guest Stars, How to Stream     - CNET](https://www.cnet.com/tech/beyonces-cowboy-carter-album-easter-eggs-guest-stars-how-to-stream/#ftag=CAD590a51e)
- - [March Madness 2024: How to Watch, Livestream the Sweet 16 Today Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/march-madness-2024-how-to-watch-livestream-the-sweet-16-friday-without-cable/#ftag=CAD590a51e)
- - [Google&#39;s Trying Out AI to Help You Make Custom Travel Itineraries     - CNET](https://www.cnet.com/tech/services-and-software/googles-trying-out-ai-to-help-you-make-custom-travel-itineraries/#ftag=CAD590a51e)
- - [Oscar Valdez vs. Liam Wilson Livestream: When It Starts and How to Watch Junior Lightweight Boxing Fight     - CNET](https://www.cnet.com/tech/services-and-software/oscar-valdez-vs-liam-wilson-livestream-when-it-starts-and-how-to-watch-junior-lightweight-boxing-fight/#ftag=CAD590a51e)
- - [Best Headphones for 2024     - CNET](https://www.cnet.com/tech/mobile/best-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Researchers find malicious code in versions of the Linux compression tool XZ Utils that were incorporated into unstable distributions from Red Hat and Debian &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240329/p18#a240329p18)
+ - [Sony’s elusive PlayStation Portal is back in stock at Best Buy](https://www.theverge.com/2024/3/29/24086591/sony-playstation-portal-handheld-remote-player-ps5-best-buy-restock-availability)
+ - [Upgrade to the Nintendo Switch OLED and Save $30     - CNET](https://www.cnet.com/deals/upgrade-to-the-nintendo-switch-oled-and-save-30/#ftag=CAD590a51e)
+ - [LinkedIn confirms it is testing a new TikTok-like short-form video feed; a demo shows a Video tab in LinkedIn app&#39;s navigation bar &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240329/p17#a240329p17)
+ - [Best iPhone 15 Deals: Get the iPhone 15 for Free Plus Trade-In Credit Up to $1,200     - CNET](https://www.cnet.com/deals/best-iphone-15-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

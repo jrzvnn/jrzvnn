@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [I still prefer the left one, what do you guys think?](http://9gag.com/gag/a5QpqAL)
- - 😝 [Muslin asks woman not to eat because he is fasting for Ramadan](http://9gag.com/gag/ae9KdXb)
- - 💣 [Why does this feel true..](http://9gag.com/gag/a87dzbd)
+ - 😝 [I wish the gate gets well soon.](http://9gag.com/gag/adByogD)
+ - 💣 [Marriage in a nutshell](http://9gag.com/gag/axyEANL)
  - 😝 [Dude won but at what cost](http://9gag.com/gag/azx7DAN)
- - 👉 [That&#39;s awkward.](http://9gag.com/gag/aW4BDoq)<!-- MEMES:END -->
+ - 👉 [Muslin asks woman not to eat because he is fasting for Ramadan](http://9gag.com/gag/ae9KdXb)<!-- MEMES:END -->
 
 ---
 

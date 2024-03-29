@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The TikTok divestment bill will not offer any meaningful privacy protection from China, but it will further entrench the dominance of US-based social networks &lpar;Meredith Whittaker/LPE Project&rpar;](http://www.techmeme.com/240329/p4#a240329p4)
+ - [Disney+ Has a New Look—Which Is No Look at All](https://www.wired.com/story/disney-plus-new-color-dull/)
  - [iPhone 16 Pro may gain a new polished, glossy titanium finish](https://appleinsider.com/articles/24/03/29/iphone-16-pro-may-gain-a-new-polished-glossy-titanium-finish?utm_medium=rss)
  - [Smartphones Do or Don’t Harm Kids! So Which Is It?](https://www.wired.com/story/pete-etchells-jonathan-haidt-smartphones/)
- - [Best iPhone in 2024: Which Apple Phone Should You Buy?     - CNET](https://www.cnet.com/tech/mobile/best-iphone/#ftag=CAD590a51e)
- - [The Next Heat Pump Frontier? NYC Apartment Windows](https://www.wired.com/story/the-next-heat-pump-frontier-nyc-apartment-windows/)
- - [Huawei reports fastest growth in four years for 2023, as revenue up 9.63% to $97.48B, net profit up 144.5% to ~$12.04B, consumer revenue up 17.3% to ~$34.79B &lpar;David Kirton/Reuters&rpar;](http://www.techmeme.com/240329/p3#a240329p3)<!-- TECH:END -->
+ - [Best iPhone in 2024: Which Apple Phone Should You Buy?     - CNET](https://www.cnet.com/tech/mobile/best-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

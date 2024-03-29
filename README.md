@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 32 Best Shows on Amazon Prime Right Now](https://www.wired.com/story/best-shows-amazon-prime/)
+ - [The 16 Best Movies on Amazon Prime Right Now](https://www.wired.com/story/best-amazon-prime-movies/)
  - [Google informs users in the US that Google Podcasts is shutting down April 2 and recommends exporting podcast subscriptions to YouTube Music &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240329/p13#a240329p13)
- - [Samsung Care Plus adds unlimited battery repair — for a price](https://www.theverge.com/2024/3/29/24115503/samsung-care-plus-price-increase-battery-repair)
- - [Amazon is offering a rare deal on Philips Hue’s Festavia string lights](https://www.theverge.com/2024/3/29/24115040/philips-hue-festavia-smart-string-lights-hue-bridge-shokz-open-run-pro-headphones-deal-sale)
- - [A profile of DeepMind&#39;s Demis Hassabis, who was just knighted, as some wonder if he can navigate Google&#39;s bureaucracy and turn AI research into great products &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/240329/p12#a240329p12)
- - [Record low prices hit Apple&#39;s M3 MacBook Pro 14-inch, now on sale from $1,399](https://appleinsider.com/articles/24/03/29/record-low-prices-hit-apples-m3-macbook-pro-14-inch-now-on-sale-from-1399?utm_medium=rss)<!-- TECH:END -->
+ - [AI Will Boost the Threat Of Election Disinformation, Hillary Clinton Says     - CNET](https://www.cnet.com/tech/services-and-software/ai-could-supercharge-election-disinformation-hillary-clinton-says/#ftag=CAD590a51e)
+ - [Crafting Sewing Machine     - CNET](https://www.cnet.com/news/crafting-sewing-machine-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

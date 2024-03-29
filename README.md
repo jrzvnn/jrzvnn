@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Quite the smoking....](http://9gag.com/gag/awyNvr1)
- - 😝 [That&#39;s awkward.](http://9gag.com/gag/aW4BDoq)
- - 💣 [I still prefer the left one, what do you guys think?](http://9gag.com/gag/a5QpqAL)
+ - 😝 [I wish the gate gets well soon.](http://9gag.com/gag/adByogD)
+ - 😝 [I still prefer the left one, what do you guys think?](http://9gag.com/gag/a5QpqAL)
+ - 💣 [Back Crack!](http://9gag.com/gag/abA3QoB)
  - 😝 [SHE TALKS !](http://9gag.com/gag/a87dVP6)
- - 👉 [Muslin asks woman not to eat because he is fasting for Ramadan](http://9gag.com/gag/ae9KdXb)<!-- MEMES:END -->
+ - 👉 [Still no photos of the ship captain. Funny, that...](http://9gag.com/gag/ary1dpd)<!-- MEMES:END -->
 
 ---
 

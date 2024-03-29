@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I still prefer the left one, what do you guys think?](http://9gag.com/gag/a5QpqAL)
- - 😝 [I wish the gate gets well soon.](http://9gag.com/gag/adByogD)
- - 💣 [Marriage in a nutshell](http://9gag.com/gag/axyEANL)
- - 😝 [Dude won but at what cost](http://9gag.com/gag/azx7DAN)
- - 👉 [Muslin asks woman not to eat because he is fasting for Ramadan](http://9gag.com/gag/ae9KdXb)<!-- MEMES:END -->
+ - 😝 [Always there](http://9gag.com/gag/aqy4dnv)
+ - 😝 [Gamer understand](http://9gag.com/gag/a4Ppxqd)
+ - 💣 [Open border activist James Jackson everybody](http://9gag.com/gag/aZZqdwz)
+ - 😝 [Is there a massage?](http://9gag.com/gag/a2vExRY)
+ - 👉 [32 years old unmarried dude playing game for living. calling himself `working class`](http://9gag.com/gag/aoymdg0)<!-- MEMES:END -->
 
 ---
 

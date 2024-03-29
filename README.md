@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony’s elusive PlayStation Portal is back in stock at Best Buy](https://www.theverge.com/2024/3/29/24086591/sony-playstation-portal-handheld-remote-player-ps5-best-buy-restock-availability)
  - [LinkedIn confirms it is testing a new TikTok-like short-form video feed; a demo shows a Video tab in LinkedIn app&#39;s navigation bar &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240329/p17#a240329p17)
  - [Bridges aren’t ready for today’s huge ships](https://www.theverge.com/2024/3/29/24115805/bridge-ships-collapse-baltimore-key-collision-size)
  - [Fake crypto bot scammer allegedly told investors, ‘Poof, you’re a millionaire’](https://www.theverge.com/2024/3/29/24115677/crypto-scam-robert-robb-mev-bot)
- - [Source: the US House set a strict ban on congressional staffers&#39; use of Microsoft Copilot; Microsoft hopes its upcoming tools will address the House&#39;s concerns &lpar;Axios&rpar;](http://www.techmeme.com/240329/p16#a240329p16)
- - [KeyBank: 2024 Home Equity Review     - CNET](https://www.cnet.com/personal-finance/mortgages/keybank-2/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Source: the US House set a strict ban on congressional staffers&#39; use of Microsoft Copilot; Microsoft hopes its upcoming tools will address the House&#39;s concerns &lpar;Axios&rpar;](http://www.techmeme.com/240329/p16#a240329p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

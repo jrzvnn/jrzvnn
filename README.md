@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [My Favorite Things an Amazon Echo Show Can Do &lpar;2024&rpar;](https://www.wired.com/story/amazon-echo-show-tips/)
  - [Beyoncé&#39;s &#39;Cowboy Carter&#39; Meets Online Fandom at the Crossroads](https://www.wired.com/story/welcome-back-to-beyonce-internet/)
  - [Best MacBooks &lpar;2024&rpar;: Which Model Should You Buy?](https://www.wired.com/story/which-macbook-should-you-buy/)
  - [How the semiconductor industry can reach 1T transistor GPUs, which will be needed within a decade if the AI revolution continues at its current pace &lpar;IEEE Spectrum&rpar;](http://www.techmeme.com/240329/p6#a240329p6)
- - [Here’s Proof the AI Boom Is Real: More People Are Tapping ChatGPT at Work](https://www.wired.com/story/plaintext-proof-the-ai-boom-is-people-tapping-chatgpt-at-work/)
- - [Try These 8 Yoga Poses for the Ultimate Night&#39;s Sleep     - CNET](https://www.cnet.com/health/sleep/try-these-8-yoga-poses-for-the-ultimate-nights-sleep/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here’s Proof the AI Boom Is Real: More People Are Tapping ChatGPT at Work](https://www.wired.com/story/plaintext-proof-the-ai-boom-is-people-tapping-chatgpt-at-work/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gypsies when you try to cut down the tree in Good Will &lpar;gypsy settlement&rpar;, Slovakia](http://9gag.com/gag/aKG4LrN)
- - 😝 [Coca-cola Magic](http://9gag.com/gag/avy2X5n)
- - 💣 [Oops ! Bad calculations !](http://9gag.com/gag/aKG4NQO)
- - 😝 [Mind bending puzzle](http://9gag.com/gag/aqy4dvQ)
- - 👉 [What is the name of this movie ?](http://9gag.com/gag/aqy4dyQ)<!-- MEMES:END -->
+ - 😝 [The watch looks the same, wtf](http://9gag.com/gag/aGyK6g5)
+ - 😝 [Actually funny... and true...](http://9gag.com/gag/a9yjN4j)
+ - 💣 [This is the way](http://9gag.com/gag/aW4BP8A)
+ - 😝 [It makes the app unusable](http://9gag.com/gag/aW4BN9Z)
+ - 👉 [Not all heroes wear capes](http://9gag.com/gag/amoqbWd)<!-- MEMES:END -->
 
 ---
 

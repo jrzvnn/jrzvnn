@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mind bending puzzle](http://9gag.com/gag/aqy4dvQ)
- - 😝 [Oops ! Bad calculations !](http://9gag.com/gag/aKG4NQO)
- - 💣 [What is the name of this movie ?](http://9gag.com/gag/aqy4dyQ)
  - 😝 [Women](http://9gag.com/gag/a34vxKr)
- - 👉 [Muslin asks woman not to eat because he is fasting for Ramadan](http://9gag.com/gag/ae9KdXb)<!-- MEMES:END -->
+ - 😝 [So I got that going for me, which is nice](http://9gag.com/gag/ajPQML8)
+ - 💣 [Who paved over the valve?](http://9gag.com/gag/aE0dNxK)
+ - 😝 [Muslin asks woman not to eat because he is fasting for Ramadan](http://9gag.com/gag/ae9KdXb)
+ - 👉 [Mariano&#39;s meme folder #011](http://9gag.com/gag/aKG4NWN)<!-- MEMES:END -->
 
 ---
 

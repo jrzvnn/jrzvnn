@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI’s voice cloning AI model only needs a 15-second sample to work](https://www.theverge.com/2024/3/29/24115701/openai-voice-generation-ai-model)
- - [7 Simple Happiness Hacks to Help You Control Your Mood     - CNET](https://www.cnet.com/health/mental/7-simple-happiness-hacks-to-help-you-control-your-mood/#ftag=CAD590a51e)
- - [Researchers find malicious code in versions of the compression tool XZ Utils that were incorporated into Linux distributions from Red Hat, Debian, and others &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240329/p18#a240329p18)
- - [Beyoncé&#39;s Cowboy Carter Album: Easter Eggs, Guest Stars, How to Stream     - CNET](https://www.cnet.com/tech/beyonces-cowboy-carter-album-easter-eggs-guest-stars-how-to-stream/#ftag=CAD590a51e)
- - [March Madness 2024: How to Watch, Livestream the Sweet 16 Today Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/march-madness-2024-how-to-watch-livestream-the-sweet-16-friday-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Researchers say they achieved fiber-optic data transfer speeds of 301 Tbps by using the E-band, a spectral band that has never been used in commercial systems &lpar;Keumars Afifi-Sabet/LiveScience&rpar;](http://www.techmeme.com/240329/p19#a240329p19)
+ - [Best VPN Deals: Get a VPN Subscription for Under $3 per Month     - CNET](https://www.cnet.com/deals/best-vpn-sales-and-deals-right-now/#ftag=CAD590a51e)
+ - [There&#39;s a New Record for the Most Efficient Residential Solar Panel     - CNET](https://www.cnet.com/home/energy-and-utilities/theres-a-new-record-for-the-most-efficient-residential-solar-panel/#ftag=CAD590a51e)
+ - [Don&#39;t Be April Fooled on Monday: Spotting the Weirdest Current Pranks     - CNET](https://www.cnet.com/tech/dont-be-april-fooled-on-monday-spotting-the-weirdest-current-pranks/#ftag=CAD590a51e)
+ - [OpenAI’s voice cloning AI model only needs a 15-second sample to work](https://www.theverge.com/2024/3/29/24115701/openai-voice-generation-ai-model)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

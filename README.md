@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mariano&#39;s meme folder #011](http://9gag.com/gag/aKG4NWN)
- - 😝 [Sure, Rebecca](http://9gag.com/gag/a1mp8v2)
- - 💣 [Poor Peter Parker](http://9gag.com/gag/avy2BoO)
- - 😝 [Dude won but at what cost](http://9gag.com/gag/azx7DAN)
- - 👉 [F**k around and find out! Happened in Kuwait](http://9gag.com/gag/an7e0y0)<!-- MEMES:END -->
+ - 😝 [Angry cyclist got karma trying to hit delivery driver](http://9gag.com/gag/aBy9bdD)
+ - 😝 [Title](http://9gag.com/gag/agmrpAv)
+ - 💣 [Yearly reminder of the Value of a good nights sleep](http://9gag.com/gag/azx7oXN)
+ - 😝 [Best scene in naruto IMO](http://9gag.com/gag/an7e0zo)
+ - 👉 [The keyboard guy lol.](http://9gag.com/gag/agmrpGn)<!-- MEMES:END -->
 
 ---
 

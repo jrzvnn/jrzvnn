@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Do you too wonder what happens at sleepovers?](http://9gag.com/gag/a6ZrxQN)
- - 😝 [Goes both directions](http://9gag.com/gag/amoqbwV)
- - 💣 [Very nice culture indeed. Inventor and founder of everything and every brand.](http://9gag.com/gag/a34vn97)
- - 😝 [Make me laugh](http://9gag.com/gag/adBy469)
- - 👉 [Gypsies when you try to cut down the tree in Good Will &lpar;gypsy settlement&rpar;, Slovakia](http://9gag.com/gag/aKG4LrN)<!-- MEMES:END -->
+ - 😝 [What is the name of this movie ?](http://9gag.com/gag/aqy4dyQ)
+ - 😝 [Mind bending puzzle](http://9gag.com/gag/aqy4dvQ)
+ - 💣 [Muslin asks woman not to eat because he is fasting for Ramadan](http://9gag.com/gag/ae9KdXb)
+ - 😝 [Women](http://9gag.com/gag/a34vxKr)
+ - 👉 [Dude won but at what cost](http://9gag.com/gag/azx7DAN)<!-- MEMES:END -->
 
 ---
 

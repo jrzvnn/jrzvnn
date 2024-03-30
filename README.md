@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can&#39;t blame the horse](http://9gag.com/gag/aKG4nqb)
- - 😝 [The police only get 5 days suspension for this](http://9gag.com/gag/a2vEjqw)
- - 💣 [Gypsies when you try to cut down the tree in Good Will &lpar;gypsy settlement&rpar;, Slovakia](http://9gag.com/gag/aKG4LrN)
- - 😝 [Coca-cola Magic](http://9gag.com/gag/avy2X5n)
- - 👉 [Mariano&#39;s meme folder #011](http://9gag.com/gag/aKG4NWN)<!-- MEMES:END -->
+ - 😝 [Goes both directions](http://9gag.com/gag/amoqbwV)
+ - 😝 [The keyboard guy lol.](http://9gag.com/gag/agmrpGn)
+ - 💣 [Sure, Rebecca](http://9gag.com/gag/a1mp8v2)
+ - 😝 [Women](http://9gag.com/gag/a34vxKr)
+ - 👉 [It\u2019s a peaceful life](http://9gag.com/gag/agmrZKv)<!-- MEMES:END -->
 
 ---
 

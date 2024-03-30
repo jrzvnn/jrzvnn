@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AT&amp;T resets millions of account passcodes after it was told that data dumped online has encrypted passcodes that could be used to access its customer accounts &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240330/p9#a240330p9)
  - [Apple has a new Swift tutorials webpage for budding developers](https://appleinsider.com/articles/24/03/30/apple-has-a-new-swift-tutorials-webpage-for-budding-developers?utm_medium=rss)
  - [Apple’s AirTags have briefly returned to their best price to date](https://www.theverge.com/2024/3/30/24115667/apple-airtag-amazon-kindle-paperwhite-hbo-max-subscription-deal-sale)
  - [How to Pick the Best Roku Device &lpar;2024&rpar;: A Guide to Each Model](https://www.wired.com/gallery/how-to-pick-the-right-roku/)
- - [An interview with Morris Chang on starting TSMC at the age of 55, the company not designing or selling its own chips, returning to Taiwan from the US, and more &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/240330/p8#a240330p8)
- - [Watch Bundesliga Soccer: Livestream Bayern Munich vs. Borussia Dortmund From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/watch-bundesliga-soccer-livestream-bayern-munich-vs-borussia-dortmund-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An interview with Morris Chang on starting TSMC at the age of 55, the company not designing or selling its own chips, returning to Taiwan from the US, and more &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/240330/p8#a240330p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

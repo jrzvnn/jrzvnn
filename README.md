@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tech CEOs looking to &quot;go direct&quot; and avoid traditional media, which they view as unfairly critical, turn to friendly podcasters like Lex Fridman &lpar;Ellen Huet/Bloomberg&rpar;](http://www.techmeme.com/240330/p7#a240330p7)
- - [The Best Cookware and Tools for Small Kitchens &lpar;2024&rpar;: Storage, Cookware, and Other Tips](https://www.wired.com/story/best-gear-for-small-kitchens/)
- - [One Couple&#39;s Quest to Ditch Natural Gas](https://www.wired.com/story/home-decarbonization-solar-energy-electrification/)
- - [As Gmail turns 20 on April 1, a look at its impact on online communication and its future as other messaging apps have come to dominate how we communicate &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/240330/p6#a240330p6)
- - [Apple&#39;s WWDC 2024 Countdown Begins: iOS 18, AI and More     - CNET](https://www.cnet.com/tech/mobile/apples-wwdc-2024-countdown-begins-ios-18-ai-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What Is Apple One? A Breakdown of Plans, Pricing, and Included Services](https://www.wired.com/story/what-is-apple-one/)
+ - [Yogurt Heist Reveals a Rampant Form of Online Fraud](https://www.wired.com/story/yogurt-heist-security-roundup/)
+ - [How to Resist the Temptation of AI When Writing](https://www.wired.com/story/how-to-resist-ai-temptation-writing/)
+ - [The world needs more gadgets like LG’s briefcase TV](https://www.theverge.com/24109258/lg-stanbyme-go-portable-suitcase-briefcase-tv-review)
+ - [Tech CEOs looking to &quot;go direct&quot; and avoid traditional media, which they view as unfairly critical, turn to friendly podcasters like Lex Fridman &lpar;Ellen Huet/Bloomberg&rpar;](http://www.techmeme.com/240330/p7#a240330p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

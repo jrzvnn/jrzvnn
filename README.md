@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [If you have an iPhone with AT&amp;T, there&#39;s a good chance your info has been stolen](https://appleinsider.com/articles/24/03/30/if-you-have-an-iphone-with-att-your-info-has-probably-been-stolen?utm_medium=rss)
  - [The ‘PS5 Pro Enhanced’ label could mean constant 60fps and ray-tracing](https://www.theverge.com/2024/3/30/24116580/ps5-pro-enhanced-label-specs-ray-tracing-60fps-pssr-4k-upscaling)
  - [Score a Solo Stove Pizza Oven at a Discounted Price During This Special Promo     - CNET](https://www.cnet.com/deals/score-a-solo-stove-pizza-oven-at-a-discounted-price-during-this-special-promo/#ftag=CAD590a51e)
  - [IEEE stops accepting papers with the &quot;Lenna image&quot;, featuring a 1972 Playboy model, after complaints that it makes some women feel unwelcome in computer science &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/240330/p11#a240330p11)
- - [You Can Snag a Lifetime License to Microsoft Visual Studio Professional for Just $40     - CNET](https://www.cnet.com/deals/you-can-snag-a-lifetime-license-to-microsoft-visual-studio-professional-for-just-40/#ftag=CAD590a51e)
- - [OpenAI Can Re-Create Human Voices—but Won’t Release the Tech Yet](https://www.wired.com/story/openai-voice-engine-artificial-intelligence-release/)<!-- TECH:END -->
+ - [You Can Snag a Lifetime License to Microsoft Visual Studio Professional for Just $40     - CNET](https://www.cnet.com/deals/you-can-snag-a-lifetime-license-to-microsoft-visual-studio-professional-for-just-40/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

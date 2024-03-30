@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The police only get 5 days suspension for this](http://9gag.com/gag/a2vEjqw)
- - 😝 [Title](http://9gag.com/gag/azx7BYq)
- - 💣 [Why men are physically more stronger than women](http://9gag.com/gag/aGyK6G0)
- - 😝 [Dude won but at what cost](http://9gag.com/gag/azx7DAN)
- - 👉 [Gypsies when you try to cut down the tree in Good Will &lpar;gypsy settlement&rpar;, Slovakia](http://9gag.com/gag/aKG4LrN)<!-- MEMES:END -->
+ - 😝 [Muslin asks woman not to eat because he is fasting for Ramadan](http://9gag.com/gag/ae9KdXb)
+ - 😝 [Sure, Rebecca](http://9gag.com/gag/a1mp8v2)
+ - 💣 [F**k around and find out! Happened in Kuwait](http://9gag.com/gag/an7e0y0)
+ - 😝 [Can&#39;t blame the horse](http://9gag.com/gag/aKG4nqb)
+ - 👉 [Goes both directions](http://9gag.com/gag/amoqbwV)<!-- MEMES:END -->
 
 ---
 

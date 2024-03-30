@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women](http://9gag.com/gag/a34vxKr)
- - 😝 [Gypsies when you try to cut down the tree in Good Will &lpar;gypsy settlement&rpar;, Slovakia](http://9gag.com/gag/aKG4LrN)
+ - 😝 [Who paved over the valve?](http://9gag.com/gag/aE0dNxK)
+ - 😝 [It only takes 17 years.](http://9gag.com/gag/a1mpxB2)
  - 💣 [Dude won but at what cost](http://9gag.com/gag/azx7DAN)
- - 😝 [Oops ! Bad calculations !](http://9gag.com/gag/aKG4NQO)
- - 👉 [Very nice culture indeed. Inventor and founder of everything and every brand.](http://9gag.com/gag/a34vn97)<!-- MEMES:END -->
+ - 😝 [I will froze if given choices](http://9gag.com/gag/ae9KWbv)
+ - 👉 [Mind bending puzzle](http://9gag.com/gag/aqy4dvQ)<!-- MEMES:END -->
 
 ---
 

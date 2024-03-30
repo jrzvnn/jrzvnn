@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [If you have an iPhone with AT&amp;T, your info has probably been stolen](https://appleinsider.com/articles/24/03/30/if-you-have-an-iphone-with-att-your-info-has-probably-been-stolen?utm_medium=rss)
+ - [March Madness 2024: How to Watch, Livestream the Elite Eight Today Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/march-madness-2024-how-to-watch-livestream-the-ncaa-tournament-today-without-cable/#ftag=CAD590a51e)
  - [AT&amp;T confirms data breach and resets millions of customer passcodes](https://www.theverge.com/2024/3/30/24116515/att-data-leak-passcode-reset-cybersecurity-privacy)
- - [X says it is funding a lawsuit filed by Chloe Happe against her ex-employer Block, after being allegedly sacked for her X posts about refugees and trans people &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/240330/p10#a240330p10)
- - [World Backup Day Deals: 51 Deals You Can Grab Right Now on Hard Drives, Flash Drives, Cloud Storage and More     - CNET](https://www.cnet.com/deals/world-backup-day-deals/#ftag=CAD590a51e)
- - [How the Solar Eclipse Will Affect Solar Panels and the Grid     - CNET](https://www.cnet.com/home/energy-and-utilities/how-the-solar-eclipse-will-affect-solar-panels-and-the-grid/#ftag=CAD590a51e)
- - [Save $90 on the Ultenic D6S Robot Vacuum on Amazon     - CNET](https://www.cnet.com/deals/save-90-off-the-ultenic-d6s-robot-vacuum-on-amazon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Brentford vs. Man United Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/brentford-vs-man-united-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
+ - [Best Crib Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-crib-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

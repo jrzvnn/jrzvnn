@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who paved over the valve?](http://9gag.com/gag/aE0dNxK)
- - 😝 [Goes both directions](http://9gag.com/gag/amoqbwV)
- - 💣 [Dude won but at what cost](http://9gag.com/gag/azx7DAN)
- - 😝 [Women](http://9gag.com/gag/a34vxKr)
- - 👉 [Very nice culture indeed. Inventor and founder of everything and every brand.](http://9gag.com/gag/a34vn97)<!-- MEMES:END -->
+ - 😝 [Muslin asks woman not to eat because he is fasting for Ramadan](http://9gag.com/gag/ae9KdXb)
+ - 😝 [Mind bending puzzle](http://9gag.com/gag/aqy4dvQ)
+ - 💣 [Women](http://9gag.com/gag/a34vxKr)
+ - 😝 [Coca-cola Magic](http://9gag.com/gag/avy2X5n)
+ - 👉 [The police only get 5 days suspension for this](http://9gag.com/gag/a2vEjqw)<!-- MEMES:END -->
 
 ---
 

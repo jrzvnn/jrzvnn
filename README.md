@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Goes both directions](http://9gag.com/gag/amoqbwV)
- - 😝 [The keyboard guy lol.](http://9gag.com/gag/agmrpGn)
- - 💣 [Sure, Rebecca](http://9gag.com/gag/a1mp8v2)
- - 😝 [Women](http://9gag.com/gag/a34vxKr)
- - 👉 [It\u2019s a peaceful life](http://9gag.com/gag/agmrZKv)<!-- MEMES:END -->
+ - 😝 [Sure, Rebecca](http://9gag.com/gag/a1mp8v2)
+ - 😝 [`Casino Royale` cast before and now](http://9gag.com/gag/aVvj1Py)
+ - 💣 [Goes both directions](http://9gag.com/gag/amoqbwV)
+ - 😝 [Oops ! Bad calculations !](http://9gag.com/gag/aKG4NQO)
+ - 👉 [Coca-cola Magic](http://9gag.com/gag/avy2X5n)<!-- MEMES:END -->
 
 ---
 

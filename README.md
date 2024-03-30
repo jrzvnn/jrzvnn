@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [There is no evidence that using social media is driving an epidemic of mental illness and blaming it can distract from effectively responding to the real causes &lpar;Candice L. Odgers/Nature&rpar;](http://www.techmeme.com/240330/p4#a240330p4)
  - [EU&#39;s hostility towards Meta&#39;s &quot;Pay or Okay&quot; model is misguided as the model does not force users to use Meta&#39;s platforms and it has been deemed GDPR compliant &lpar;Eric Benjamin Seufert/Mobile Dev Memo&rpar;](http://www.techmeme.com/240330/p3#a240330p3)
  - [Several legal experts say Section 230 will not protect firms from lawsuits over the outputs of generative AI, echoing SCOTUS Justice Gorsuch&#39;s 2023 statement &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/240330/p2#a240330p2)
  - [Many of Amazon&#39;s Kindles are displaying ads for blatantly AI-generated books on the lock screen, with some appearing to be flagrant copies of existing works &lpar;Frank Landymore/Futurism&rpar;](http://www.techmeme.com/240330/p1#a240330p1)
- - [The DNC made a weird AI-generated parody of a Lara Trump song](https://www.theverge.com/2024/3/29/24116156/ai-generated-dnc-lara-trump-song-parody)
- - [Tour of Flanders 2024: How to Watch a UCI World Tour Cycling Livestream for Free     - CNET](https://www.cnet.com/tech/services-and-software/tour-of-flanders-2024-how-to-watch-a-uci-world-tour-cycling-livestream-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The DNC made a weird AI-generated parody of a Lara Trump song](https://www.theverge.com/2024/3/29/24116156/ai-generated-dnc-lara-trump-song-parody)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The DNC made a weird AI-generated parody of a Lara Trump song](https://www.theverge.com/2024/3/29/24116156/ai-generated-dnc-lara-trump-song-parody)
  - [Tour of Flanders 2024: How to Watch a UCI World Tour Cycling Livestream for Free     - CNET](https://www.cnet.com/tech/services-and-software/tour-of-flanders-2024-how-to-watch-a-uci-world-tour-cycling-livestream-for-free/#ftag=CAD590a51e)
  - [NYC&#39;s Microsoft-powered MyCity chatbot, launched as a pilot program last October, often gives inaccurate info, including telling businesses to break the law &lpar;Colin Lecher/The City&rpar;](http://www.techmeme.com/240329/p21#a240329p21)
  - [Sources: Amazon&#39;s AGI team is aiming to outperform Anthropic&#39;s latest Claude models by the middle of 2024 using the company&#39;s forthcoming LLM, codenamed Olympus &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240329/p20#a240329p20)
- - [Best 3D Printer Deals: Save Up to $420 on Top-Rated Models Including Creality3D, Elegoo and More     - CNET](https://www.cnet.com/deals/best-3d-printer-deals/#ftag=CAD590a51e)
- - [Researchers say they achieved fiber-optic data transfer speeds of 301 Tbps by using the E-band, a spectral band that has never been used in commercial systems &lpar;Keumars Afifi-Sabet/LiveScience&rpar;](http://www.techmeme.com/240329/p19#a240329p19)<!-- TECH:END -->
+ - [Best 3D Printer Deals: Save Up to $420 on Top-Rated Models Including Creality3D, Elegoo and More     - CNET](https://www.cnet.com/deals/best-3d-printer-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

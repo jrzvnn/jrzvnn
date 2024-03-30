@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That aged well!](http://9gag.com/gag/abA3mjE)
+ - 😝 [Do you too wonder what happens at sleepovers?](http://9gag.com/gag/a6ZrxQN)
+ - 😝 [Goes both directions](http://9gag.com/gag/amoqbwV)
+ - 💣 [Very nice culture indeed. Inventor and founder of everything and every brand.](http://9gag.com/gag/a34vn97)
  - 😝 [Make me laugh](http://9gag.com/gag/adBy469)
- - 💣 [Still no photos of the ship captain. Funny, that...](http://9gag.com/gag/ary1dpd)
- - 😝 [What is the name of this movie ?](http://9gag.com/gag/aqy4dyQ)
- - 👉 [Mariano&#39;s meme folder #011](http://9gag.com/gag/aKG4NWN)<!-- MEMES:END -->
+ - 👉 [Gypsies when you try to cut down the tree in Good Will &lpar;gypsy settlement&rpar;, Slovakia](http://9gag.com/gag/aKG4LrN)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [X says it is funding a lawsuit filed by Chloe Happe against her ex-employer Block, after being allegedly sacked for her X posts about refugees and trans people &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/240330/p10#a240330p10)
- - [AT&amp;T confirms that data dumped online appears to be from 2019 or earlier and contains personal details of 7.6M current and 65.4M former account holders &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240330/p9#a240330p9)
- - [Apple has a new Swift tutorials webpage for budding developers](https://appleinsider.com/articles/24/03/30/apple-has-a-new-swift-tutorials-webpage-for-budding-developers?utm_medium=rss)
- - [Apple’s AirTags have briefly returned to their best price to date](https://www.theverge.com/2024/3/30/24115667/apple-airtag-amazon-kindle-paperwhite-hbo-max-subscription-deal-sale)
- - [Best Internet Providers in Santa Clarita, California     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-santa-clarita-ca/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [World Backup Day Deals: 51 Deals You Can Grab Right Now on Hard Drives, Flash Drives, Cloud Storage and More     - CNET](https://www.cnet.com/deals/world-backup-day-deals/#ftag=CAD590a51e)
+ - [How the Solar Eclipse Will Affect Solar Panels and the Grid     - CNET](https://www.cnet.com/home/energy-and-utilities/how-the-solar-eclipse-will-affect-solar-panels-and-the-grid/#ftag=CAD590a51e)
+ - [Save $90 on the Ultenic D6S Robot Vacuum on Amazon     - CNET](https://www.cnet.com/deals/save-90-off-the-ultenic-d6s-robot-vacuum-on-amazon/#ftag=CAD590a51e)
+ - [What to Know About Common Allergy Symptoms and How to Treat Them     - CNET](https://www.cnet.com/health/what-to-know-about-common-allergy-symptoms-and-how-to-treat-them/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Unexpected wave!](http://9gag.com/gag/aE0dyPo)
- - 😝 [Now That IS Odd, Isn&#39;t It?!](http://9gag.com/gag/aAyBLrR)
- - 💣 [Always fun to watch BBC getting burned for the hypocrisy](http://9gag.com/gag/aXPZQ1v)
- - 😝 [Yearly reminder of the Value of a good nights sleep](http://9gag.com/gag/azx7oXN)
- - 👉 [If you want to be part of the Queer Fat Club, you really have to be fat. It\u2019s a requirement.](http://9gag.com/gag/a0evDNv)<!-- MEMES:END -->
+ - 😝 [The police only get 5 days suspension for this](http://9gag.com/gag/a2vEjqw)
+ - 😝 [Title](http://9gag.com/gag/azx7BYq)
+ - 💣 [Why men are physically more stronger than women](http://9gag.com/gag/aGyK6G0)
+ - 😝 [Dude won but at what cost](http://9gag.com/gag/azx7DAN)
+ - 👉 [Gypsies when you try to cut down the tree in Good Will &lpar;gypsy settlement&rpar;, Slovakia](http://9gag.com/gag/aKG4LrN)<!-- MEMES:END -->
 
 ---
 

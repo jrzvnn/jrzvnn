@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Make me laugh](http://9gag.com/gag/adBy469)
+ - 😝 [Mariano&#39;s meme folder #011](http://9gag.com/gag/aKG4NWN)
  - 😝 [Sure, Rebecca](http://9gag.com/gag/a1mp8v2)
- - 💣 [Mariano&#39;s meme folder #011](http://9gag.com/gag/aKG4NWN)
- - 😝 [Gypsies when you try to cut down the tree in Good Will &lpar;gypsy settlement&rpar;, Slovakia](http://9gag.com/gag/aKG4LrN)
- - 👉 [Today&#39;s generation is lost or I&#39;m toxic](http://9gag.com/gag/aXPZQRP)<!-- MEMES:END -->
+ - 💣 [Poor Peter Parker](http://9gag.com/gag/avy2BoO)
+ - 😝 [Dude won but at what cost](http://9gag.com/gag/azx7DAN)
+ - 👉 [F**k around and find out! Happened in Kuwait](http://9gag.com/gag/an7e0y0)<!-- MEMES:END -->
 
 ---
 

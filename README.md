@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bacon Perfection: Here&#39;s the Secret to Crispy Strips Without the Mess     - CNET](https://www.cnet.com/how-to/bacon-perfection-heres-the-secret-to-crispy-strips-without-the-mess/#ftag=CAD590a51e)
- - [Inside LAION-5B, an AI training dataset of 5B+ images that has been unavailable for download after researchers found 3,000+ instances of CSAM in December 2023 &lpar;Knowing Machines&rpar;](http://www.techmeme.com/240330/p5#a240330p5)
- - [Real or Fake: How to Avoid Sneaky SMS Phishing Bank Scams     - CNET](https://www.cnet.com/personal-finance/banking/real-or-fake-how-to-avoid-sneaky-sms-phishing-bank-scams/#ftag=CAD590a51e)
- - [There is no evidence that using social media is driving an epidemic of mental illness and blaming it can distract from effectively responding to the real causes &lpar;Candice L. Odgers/Nature&rpar;](http://www.techmeme.com/240330/p4#a240330p4)
- - [EU&#39;s hostility towards Meta&#39;s &quot;Pay or Okay&quot; model is misguided as the model does not force users to use Meta&#39;s platforms and it has been deemed GDPR compliant &lpar;Eric Benjamin Seufert/Mobile Dev Memo&rpar;](http://www.techmeme.com/240330/p3#a240330p3)<!-- TECH:END -->
+ - [iOS 17.4.1: The Update Should Address These Major Security Issues     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-4-1-the-update-should-address-these-major-security-issues/#ftag=CAD590a51e)
+ - [Total Solar Eclipse Is Almost Here: When and Where to See It     - CNET](https://www.cnet.com/science/total-solar-eclipse-is-almost-here-when-and-where-to-see-it/#ftag=CAD590a51e)
+ - [Can You Actually Get TikTok Burn-In on Your iPhone Screen? What to Know     - CNET](https://www.cnet.com/tech/mobile/can-you-actually-get-tiktok-burn-in-on-your-iphone-screen-what-to-know/#ftag=CAD590a51e)
+ - [Get Up to $450 Off Top Rowing Machines During Hydrow&#39;s Easter Sale     - CNET](https://www.cnet.com/deals/get-up-to-450-off-top-rowing-machines-from-hydrow/#ftag=CAD590a51e)
+ - [7 Fitness Hacks to Sneak in Exercise Painlessly Every Day     - CNET](https://www.cnet.com/health/fitness/7-fitness-hacks-to-sneak-in-exercise-painlessly-every-day/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

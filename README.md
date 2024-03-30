@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gypsies when you try to cut down the tree in Good Will &lpar;gypsy settlement&rpar;, Slovakia](http://9gag.com/gag/aKG4LrN)
- - 😝 [Very nice culture indeed. Inventor and founder of everything and every brand.](http://9gag.com/gag/a34vn97)
- - 💣 [Oops ! Bad calculations !](http://9gag.com/gag/aKG4NQO)
- - 😝 [Can&#39;t blame the horse](http://9gag.com/gag/aKG4nqb)
- - 👉 [Women](http://9gag.com/gag/a34vxKr)<!-- MEMES:END -->
+ - 😝 [The police only get 5 days suspension for this](http://9gag.com/gag/a2vEjqw)
+ - 😝 [Women](http://9gag.com/gag/a34vxKr)
+ - 💣 [Can&#39;t blame the horse](http://9gag.com/gag/aKG4nqb)
+ - 😝 [Oops ! Bad calculations !](http://9gag.com/gag/aKG4NQO)
+ - 👉 [Gypsies when you try to cut down the tree in Good Will &lpar;gypsy settlement&rpar;, Slovakia](http://9gag.com/gag/aKG4LrN)<!-- MEMES:END -->
 
 ---
 

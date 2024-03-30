@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is the way](http://9gag.com/gag/aW4BP8A)
- - 😝 [The watch looks the same, wtf](http://9gag.com/gag/aGyK6g5)
- - 💣 [Llama go to McDonald&#39;s](http://9gag.com/gag/aYQjZAx)
- - 😝 [Jumanji reminds me something..](http://9gag.com/gag/ae9KyEq)
- - 👉 [Not all heroes wear capes](http://9gag.com/gag/amoqbWd)<!-- MEMES:END -->
+ - 😝 [Goes both directions](http://9gag.com/gag/amoqbwV)
+ - 😝 [Oops ! Bad calculations !](http://9gag.com/gag/aKG4NQO)
+ - 💣 [Dude won but at what cost](http://9gag.com/gag/azx7DAN)
+ - 😝 [Yearly reminder of the Value of a good nights sleep](http://9gag.com/gag/azx7oXN)
+ - 👉 [Muslin asks woman not to eat because he is fasting for Ramadan](http://9gag.com/gag/ae9KdXb)<!-- MEMES:END -->
 
 ---
 

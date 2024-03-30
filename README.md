@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [IEEE stops accepting papers with the &quot;Lenna image&quot;, featuring a 1972 Playboy model, after complains that it makes some women feel unwelcome in computer science &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/240330/p11#a240330p11)
+ - [Score a Solo Stove Pizza Oven at a Discounted Price During This Special Promo     - CNET](https://www.cnet.com/deals/score-a-solo-stove-pizza-oven-at-a-discounted-price-during-this-special-promo/#ftag=CAD590a51e)
+ - [IEEE stops accepting papers with the &quot;Lenna image&quot;, featuring a 1972 Playboy model, after complaints that it makes some women feel unwelcome in computer science &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/240330/p11#a240330p11)
+ - [You Can Snag a Lifetime License to Microsoft Visual Studio Professional for Just $40     - CNET](https://www.cnet.com/deals/you-can-snag-a-lifetime-license-to-microsoft-visual-studio-professional-for-just-40/#ftag=CAD590a51e)
  - [OpenAI Can Re-Create Human Voices—but Won’t Release the Tech Yet](https://www.wired.com/story/openai-voice-engine-artificial-intelligence-release/)
- - [If you have an iPhone with AT&amp;T, your info has probably been stolen](https://appleinsider.com/articles/24/03/30/if-you-have-an-iphone-with-att-your-info-has-probably-been-stolen?utm_medium=rss)
- - [March Madness 2024: How to Watch, Livestream the Elite Eight Today Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/march-madness-2024-how-to-watch-livestream-the-ncaa-tournament-today-without-cable/#ftag=CAD590a51e)
- - [AT&amp;T confirms data breach and resets millions of customer passcodes](https://www.theverge.com/2024/3/30/24116515/att-data-leak-passcode-reset-cybersecurity-privacy)<!-- TECH:END -->
+ - [If you have an iPhone with AT&amp;T, your info has probably been stolen](https://appleinsider.com/articles/24/03/30/if-you-have-an-iphone-with-att-your-info-has-probably-been-stolen?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

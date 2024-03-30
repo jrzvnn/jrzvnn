@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No witness](http://9gag.com/gag/aD2Rqgw)
- - 😝 [Coca-cola Magic](http://9gag.com/gag/avy2X5n)
- - 💣 [The police only get 5 days suspension for this](http://9gag.com/gag/a2vEjqw)
- - 😝 [Mind bending puzzle](http://9gag.com/gag/aqy4dvQ)
- - 👉 [Dude won but at what cost](http://9gag.com/gag/azx7DAN)<!-- MEMES:END -->
+ - 😝 [Dude won but at what cost](http://9gag.com/gag/azx7DAN)
+ - 😝 [Muslin asks woman not to eat because he is fasting for Ramadan](http://9gag.com/gag/ae9KdXb)
+ - 💣 [Who paved over the valve?](http://9gag.com/gag/aE0dNxK)
+ - 😝 [Pirates are cool because they rrrrr](http://9gag.com/gag/adByWPQ)
+ - 👉 [No witness](http://9gag.com/gag/aD2Rqgw)<!-- MEMES:END -->
 
 ---
 

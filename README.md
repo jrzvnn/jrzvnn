@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oops ! Bad calculations !](http://9gag.com/gag/aKG4NQO)
- - 😝 [Muslin asks woman not to eat because he is fasting for Ramadan](http://9gag.com/gag/ae9KdXb)
- - 💣 [Mind bending puzzle](http://9gag.com/gag/aqy4dvQ)
+ - 😝 [Title](http://9gag.com/gag/agmrpAv)
+ - 😝 [Who paved over the valve?](http://9gag.com/gag/aE0dNxK)
+ - 💣 [Sure, Rebecca](http://9gag.com/gag/a1mp8v2)
  - 😝 [Mariano&#39;s meme folder #011](http://9gag.com/gag/aKG4NWN)
- - 👉 [The police only get 5 days suspension for this](http://9gag.com/gag/a2vEjqw)<!-- MEMES:END -->
+ - 👉 [Mind bending puzzle](http://9gag.com/gag/aqy4dvQ)<!-- MEMES:END -->
 
 ---
 

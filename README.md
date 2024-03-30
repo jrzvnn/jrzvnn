@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NYC&#39;s Microsoft-powered MyCity chatbot, launched as a pilot program last October, often gives inaccurate info, including telling businesses to break the law &lpar;Colin Lecher/The City&rpar;](http://www.techmeme.com/240329/p21#a240329p21)
  - [Sources: Amazon&#39;s AGI team is aiming to outperform Anthropic&#39;s latest Claude models by the middle of 2024 using the company&#39;s forthcoming LLM, codenamed Olympus &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240329/p20#a240329p20)
+ - [Best 3D Printer Deals: Save Up to $420 on Top-Rated Models Including Creality3D, Elegoo and More     - CNET](https://www.cnet.com/deals/best-3d-printer-deals/#ftag=CAD590a51e)
  - [Researchers say they achieved fiber-optic data transfer speeds of 301 Tbps by using the E-band, a spectral band that has never been used in commercial systems &lpar;Keumars Afifi-Sabet/LiveScience&rpar;](http://www.techmeme.com/240329/p19#a240329p19)
- - [Best VPN Deals: Get a VPN Subscription for Under $3 per Month     - CNET](https://www.cnet.com/deals/best-vpn-sales-and-deals-right-now/#ftag=CAD590a51e)
- - [There&#39;s a New Record for the Most Efficient Residential Solar Panel     - CNET](https://www.cnet.com/home/energy-and-utilities/theres-a-new-record-for-the-most-efficient-residential-solar-panel/#ftag=CAD590a51e)
- - [Don&#39;t Be April Fooled on Monday: Spotting the Weirdest Current Pranks     - CNET](https://www.cnet.com/tech/dont-be-april-fooled-on-monday-spotting-the-weirdest-current-pranks/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best VPN Deals: Get a VPN Subscription for Under $3 per Month     - CNET](https://www.cnet.com/deals/best-vpn-sales-and-deals-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

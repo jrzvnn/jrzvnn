@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Muslin asks woman not to eat because he is fasting for Ramadan](http://9gag.com/gag/ae9KdXb)
- - 😝 [Sure, Rebecca](http://9gag.com/gag/a1mp8v2)
+ - 😝 [Now That IS Odd, Isn&#39;t It?!](http://9gag.com/gag/aAyBLrR)
+ - 😝 [Yearly reminder of the Value of a good nights sleep](http://9gag.com/gag/azx7oXN)
  - 💣 [F**k around and find out! Happened in Kuwait](http://9gag.com/gag/an7e0y0)
- - 😝 [Can&#39;t blame the horse](http://9gag.com/gag/aKG4nqb)
- - 👉 [Goes both directions](http://9gag.com/gag/amoqbwV)<!-- MEMES:END -->
+ - 😝 [Best scene in naruto IMO](http://9gag.com/gag/an7e0zo)
+ - 👉 [The keyboard guy lol.](http://9gag.com/gag/agmrpGn)<!-- MEMES:END -->
 
 ---
 

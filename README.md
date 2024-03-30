@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Watch Bundesliga Soccer: Livestream Bayern Munich vs. Borussia Dortmund From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/watch-bundesliga-soccer-livestream-bayern-munich-vs-borussia-dortmund-from-anywhere/#ftag=CAD590a51e)
+ - [Get Up to 50% Off Brooklinen&#39;s Luxury Bedding During Its Last Call Sale     - CNET](https://www.cnet.com/deals/get-up-to-50-off-brooklinens-luxury-bedding-and-towels-during-last-call/#ftag=CAD590a51e)
  - [The Atari 400 Mini is a cute little slice of video game history](https://www.theverge.com/24113699/atari-400-mini-hands-on)
- - [How to keep your Mac&#39;s data safe using Time Machine](https://appleinsider.com/inside/macos/tips/how-to-keep-your-macs-data-safe-using-time-machine?utm_medium=rss)
- - [Many Homeowners Struggle to Know If They Can Trust a Solar Company     - CNET](https://www.cnet.com/home/energy-and-utilities/many-homeowners-struggle-to-know-if-they-can-trust-a-solar-company/#ftag=CAD590a51e)
- - [AI Showdown: How Samsung&#39;s Galaxy S24 AI Tools Compare to Google, Apple     - CNET](https://www.cnet.com/tech/mobile/ai-showdown-how-samsungs-galaxy-s24-ai-tools-stack-up-against-google-apple/#ftag=CAD590a51e)
- - [What Is Apple One? A Breakdown of Plans, Pricing, and Included Services](https://www.wired.com/story/what-is-apple-one/)<!-- TECH:END -->
+ - [Best Amazon Deals: Save on Smart Scales, Air Purifiers, Coffee Makers and More     - CNET](https://www.cnet.com/deals/best-amazon-deals-save-on-smart-scales-air-purifiers-coffee-makers-and-more/#ftag=CAD590a51e)
+ - [How to keep your Mac&#39;s data safe using Time Machine](https://appleinsider.com/inside/macos/tips/how-to-keep-your-macs-data-safe-using-time-machine?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

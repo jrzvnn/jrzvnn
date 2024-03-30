@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Goes both directions](http://9gag.com/gag/amoqbwV)
- - 😝 [Oops ! Bad calculations !](http://9gag.com/gag/aKG4NQO)
- - 💣 [Dude won but at what cost](http://9gag.com/gag/azx7DAN)
- - 😝 [Yearly reminder of the Value of a good nights sleep](http://9gag.com/gag/azx7oXN)
- - 👉 [Muslin asks woman not to eat because he is fasting for Ramadan](http://9gag.com/gag/ae9KdXb)<!-- MEMES:END -->
+ - 😝 [That aged well!](http://9gag.com/gag/abA3mjE)
+ - 😝 [Make me laugh](http://9gag.com/gag/adBy469)
+ - 💣 [Still no photos of the ship captain. Funny, that...](http://9gag.com/gag/ary1dpd)
+ - 😝 [What is the name of this movie ?](http://9gag.com/gag/aqy4dyQ)
+ - 👉 [Mariano&#39;s meme folder #011](http://9gag.com/gag/aKG4NWN)<!-- MEMES:END -->
 
 ---
 

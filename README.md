@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tech CEOs looking to &quot;go direct&quot; and avoid traditional media, which they view as unfairly critical, turn to friendly podcasters like Lex Fridman &lpar;Ellen Huet/Bloomberg&rpar;](http://www.techmeme.com/240330/p7#a240330p7)
  - [The Best Cookware and Tools for Small Kitchens &lpar;2024&rpar;: Storage, Cookware, and Other Tips](https://www.wired.com/story/best-gear-for-small-kitchens/)
  - [One Couple&#39;s Quest to Ditch Natural Gas](https://www.wired.com/story/home-decarbonization-solar-energy-electrification/)
  - [As Gmail turns 20 on April 1, a look at its impact on online communication and its future as other messaging apps have come to dominate how we communicate &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/240330/p6#a240330p6)
- - [Apple&#39;s WWDC 2024 Countdown Begins: iOS 18, AI and More     - CNET](https://www.cnet.com/tech/mobile/apples-wwdc-2024-countdown-begins-ios-18-ai-and-more/#ftag=CAD590a51e)
- - [iOS 17.4.1: The Update Should Address These Major Security Issues     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-4-1-the-update-should-address-these-major-security-issues/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s WWDC 2024 Countdown Begins: iOS 18, AI and More     - CNET](https://www.cnet.com/tech/mobile/apples-wwdc-2024-countdown-begins-ios-18-ai-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

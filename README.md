@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I will froze if given choices](http://9gag.com/gag/ae9KWbv)
- - 😝 [Title](http://9gag.com/gag/azx7BYq)
- - 💣 [Mind bending puzzle](http://9gag.com/gag/aqy4dvQ)
+ - 😝 [Very nice culture indeed. Inventor and founder of everything and every brand.](http://9gag.com/gag/a34vn97)
  - 😝 [Gypsies when you try to cut down the tree in Good Will &lpar;gypsy settlement&rpar;, Slovakia](http://9gag.com/gag/aKG4LrN)
- - 👉 [Still no photos of the ship captain. Funny, that...](http://9gag.com/gag/ary1dpd)<!-- MEMES:END -->
+ - 💣 [Dude won but at what cost](http://9gag.com/gag/azx7DAN)
+ - 😝 [Women](http://9gag.com/gag/a34vxKr)
+ - 👉 [The police only get 5 days suspension for this](http://9gag.com/gag/a2vEjqw)<!-- MEMES:END -->
 
 ---
 

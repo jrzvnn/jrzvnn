@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One touch volley](http://9gag.com/gag/aGyKN86)
- - 😝 [Muslin asks woman not to eat because he is fasting for Ramadan](http://9gag.com/gag/ae9KdXb)
- - 💣 [Oh snap](http://9gag.com/gag/aPA6nbR)
- - 😝 [Can&#39;t blame the horse](http://9gag.com/gag/aKG4nqb)
- - 👉 [Gypsies when you try to cut down the tree in Good Will &lpar;gypsy settlement&rpar;, Slovakia](http://9gag.com/gag/aKG4LrN)<!-- MEMES:END -->
+ - 😝 [The police only get 5 days suspension for this](http://9gag.com/gag/a2vEjqw)
+ - 😝 [Coca-cola Magic](http://9gag.com/gag/avy2X5n)
+ - 💣 [Very nice culture indeed. Inventor and founder of everything and every brand.](http://9gag.com/gag/a34vn97)
+ - 😝 [Gypsies when you try to cut down the tree in Good Will &lpar;gypsy settlement&rpar;, Slovakia](http://9gag.com/gag/aKG4LrN)
+ - 👉 [Goes both directions](http://9gag.com/gag/amoqbwV)<!-- MEMES:END -->
 
 ---
 

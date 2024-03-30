@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Coca-cola Magic](http://9gag.com/gag/avy2X5n)
- - 😝 [Women](http://9gag.com/gag/a34vxKr)
- - 💣 [The police only get 5 days suspension for this](http://9gag.com/gag/a2vEjqw)
- - 😝 [Dude won but at what cost](http://9gag.com/gag/azx7DAN)
- - 👉 [Yearly reminder of the Value of a good nights sleep](http://9gag.com/gag/azx7oXN)<!-- MEMES:END -->
+ - 😝 [Mind bending puzzle](http://9gag.com/gag/aqy4dvQ)
+ - 😝 [Title](http://9gag.com/gag/azx7BYq)
+ - 💣 [Who paved over the valve?](http://9gag.com/gag/aE0dNxK)
+ - 😝 [What is the name of this movie ?](http://9gag.com/gag/aqy4dyQ)
+ - 👉 [Mariano&#39;s meme folder #011](http://9gag.com/gag/aKG4NWN)<!-- MEMES:END -->
 
 ---
 

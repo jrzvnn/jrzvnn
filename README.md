@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mind bending puzzle](http://9gag.com/gag/aqy4dvQ)
+ - 😝 [Very nice culture indeed. Inventor and founder of everything and every brand.](http://9gag.com/gag/a34vn97)
  - 😝 [Title](http://9gag.com/gag/azx7BYq)
- - 💣 [Who paved over the valve?](http://9gag.com/gag/aE0dNxK)
- - 😝 [What is the name of this movie ?](http://9gag.com/gag/aqy4dyQ)
- - 👉 [Mariano&#39;s meme folder #011](http://9gag.com/gag/aKG4NWN)<!-- MEMES:END -->
+ - 💣 [Mariano&#39;s meme folder #011](http://9gag.com/gag/aKG4NWN)
+ - 😝 [Oops ! Bad calculations !](http://9gag.com/gag/aKG4NQO)
+ - 👉 [Coca-cola Magic](http://9gag.com/gag/avy2X5n)<!-- MEMES:END -->
 
 ---
 

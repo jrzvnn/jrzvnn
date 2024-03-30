@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The police only get 5 days suspension for this](http://9gag.com/gag/a2vEjqw)
- - 😝 [Coca-cola Magic](http://9gag.com/gag/avy2X5n)
- - 💣 [Very nice culture indeed. Inventor and founder of everything and every brand.](http://9gag.com/gag/a34vn97)
  - 😝 [Gypsies when you try to cut down the tree in Good Will &lpar;gypsy settlement&rpar;, Slovakia](http://9gag.com/gag/aKG4LrN)
- - 👉 [Goes both directions](http://9gag.com/gag/amoqbwV)<!-- MEMES:END -->
+ - 😝 [Coca-cola Magic](http://9gag.com/gag/avy2X5n)
+ - 💣 [Oops ! Bad calculations !](http://9gag.com/gag/aKG4NQO)
+ - 😝 [Mind bending puzzle](http://9gag.com/gag/aqy4dvQ)
+ - 👉 [What is the name of this movie ?](http://9gag.com/gag/aqy4dyQ)<!-- MEMES:END -->
 
 ---
 

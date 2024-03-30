@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Befoolant](http://9gag.com/gag/a34vxBv)
- - 😝 [Oops ! Bad calculations !](http://9gag.com/gag/aKG4NQO)
- - 💣 [Women](http://9gag.com/gag/a34vxKr)
- - 😝 [Muslin asks woman not to eat because he is fasting for Ramadan](http://9gag.com/gag/ae9KdXb)
- - 👉 [I&#39;m not your father](http://9gag.com/gag/abA3db8)<!-- MEMES:END -->
+ - 😝 [Yearly reminder of the Value of a good nights sleep](http://9gag.com/gag/azx7oXN)
+ - 😝 [Goes both directions](http://9gag.com/gag/amoqbwV)
+ - 💣 [Muslin asks woman not to eat because he is fasting for Ramadan](http://9gag.com/gag/ae9KdXb)
+ - 😝 [The police only get 5 days suspension for this](http://9gag.com/gag/a2vEjqw)
+ - 👉 [Oops ! Bad calculations !](http://9gag.com/gag/aKG4NQO)<!-- MEMES:END -->
 
 ---
 

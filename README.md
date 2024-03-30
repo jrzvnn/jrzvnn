@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dude won but at what cost](http://9gag.com/gag/azx7DAN)
- - 😝 [Sure, Rebecca](http://9gag.com/gag/a1mp8v2)
- - 💣 [Oops ! Bad calculations !](http://9gag.com/gag/aKG4NQO)
- - 😝 [What is the name of this movie ?](http://9gag.com/gag/aqy4dyQ)
- - 👉 [Mind bending puzzle](http://9gag.com/gag/aqy4dvQ)<!-- MEMES:END -->
+ - 😝 [Can&#39;t blame the horse](http://9gag.com/gag/aKG4nqb)
+ - 😝 [The police only get 5 days suspension for this](http://9gag.com/gag/a2vEjqw)
+ - 💣 [Gypsies when you try to cut down the tree in Good Will &lpar;gypsy settlement&rpar;, Slovakia](http://9gag.com/gag/aKG4LrN)
+ - 😝 [Coca-cola Magic](http://9gag.com/gag/avy2X5n)
+ - 👉 [Mariano&#39;s meme folder #011](http://9gag.com/gag/aKG4NWN)<!-- MEMES:END -->
 
 ---
 

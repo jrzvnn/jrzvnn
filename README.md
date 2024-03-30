@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Angry cyclist got karma trying to hit delivery driver](http://9gag.com/gag/aBy9bdD)
- - 😝 [Title](http://9gag.com/gag/agmrpAv)
- - 💣 [Yearly reminder of the Value of a good nights sleep](http://9gag.com/gag/azx7oXN)
- - 😝 [Best scene in naruto IMO](http://9gag.com/gag/an7e0zo)
- - 👉 [The keyboard guy lol.](http://9gag.com/gag/agmrpGn)<!-- MEMES:END -->
+ - 😝 [Muslin asks woman not to eat because he is fasting for Ramadan](http://9gag.com/gag/ae9KdXb)
+ - 😝 [Mind bending puzzle](http://9gag.com/gag/aqy4dvQ)
+ - 💣 [That aged well!](http://9gag.com/gag/abA3mjE)
+ - 😝 [Why men are physically more stronger than women](http://9gag.com/gag/aGyK6G0)
+ - 👉 [If you want to be part of the Queer Fat Club, you really have to be fat. It\u2019s a requirement.](http://9gag.com/gag/a0evDNv)<!-- MEMES:END -->
 
 ---
 

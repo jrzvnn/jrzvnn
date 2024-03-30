@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Oops ! Bad calculations !](http://9gag.com/gag/aKG4NQO)
  - 😝 [Muslin asks woman not to eat because he is fasting for Ramadan](http://9gag.com/gag/ae9KdXb)
- - 😝 [Mind bending puzzle](http://9gag.com/gag/aqy4dvQ)
- - 💣 [That aged well!](http://9gag.com/gag/abA3mjE)
- - 😝 [Why men are physically more stronger than women](http://9gag.com/gag/aGyK6G0)
- - 👉 [If you want to be part of the Queer Fat Club, you really have to be fat. It\u2019s a requirement.](http://9gag.com/gag/a0evDNv)<!-- MEMES:END -->
+ - 💣 [Mind bending puzzle](http://9gag.com/gag/aqy4dvQ)
+ - 😝 [Mariano&#39;s meme folder #011](http://9gag.com/gag/aKG4NWN)
+ - 👉 [The police only get 5 days suspension for this](http://9gag.com/gag/a2vEjqw)<!-- MEMES:END -->
 
 ---
 

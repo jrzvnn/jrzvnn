@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why men are physically more stronger than women](http://9gag.com/gag/aGyK6G0)
- - 😝 [American and European Firefighter Helmet Designs](http://9gag.com/gag/aW4BeB6)
- - 💣 [Mariano&#39;s meme folder #011](http://9gag.com/gag/aKG4NWN)
- - 😝 [Muslin asks woman not to eat because he is fasting for Ramadan](http://9gag.com/gag/ae9KdXb)
- - 👉 [Infinite food glitch](http://9gag.com/gag/amoqbq2)<!-- MEMES:END -->
+ - 😝 [Coca-cola Magic](http://9gag.com/gag/avy2X5n)
+ - 😝 [Sure, Rebecca](http://9gag.com/gag/a1mp8v2)
+ - 💣 [Who paved over the valve?](http://9gag.com/gag/aE0dNxK)
+ - 😝 [The police only get 5 days suspension for this](http://9gag.com/gag/a2vEjqw)
+ - 👉 [What is the name of this movie ?](http://9gag.com/gag/aqy4dyQ)<!-- MEMES:END -->
 
 ---
 

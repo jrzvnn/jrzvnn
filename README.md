@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Who paved over the valve?](http://9gag.com/gag/aE0dNxK)
+ - 😝 [Goes both directions](http://9gag.com/gag/amoqbwV)
+ - 💣 [Dude won but at what cost](http://9gag.com/gag/azx7DAN)
  - 😝 [Women](http://9gag.com/gag/a34vxKr)
- - 😝 [So I got that going for me, which is nice](http://9gag.com/gag/ajPQML8)
- - 💣 [Who paved over the valve?](http://9gag.com/gag/aE0dNxK)
- - 😝 [Muslin asks woman not to eat because he is fasting for Ramadan](http://9gag.com/gag/ae9KdXb)
- - 👉 [Mariano&#39;s meme folder #011](http://9gag.com/gag/aKG4NWN)<!-- MEMES:END -->
+ - 👉 [Very nice culture indeed. Inventor and founder of everything and every brand.](http://9gag.com/gag/a34vn97)<!-- MEMES:END -->
 
 ---
 

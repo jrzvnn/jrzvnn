@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [American and European Firefighter Helmet Designs](http://9gag.com/gag/aW4BeB6)
- - 😝 [Goes both directions](http://9gag.com/gag/amoqbwV)
- - 💣 [Mind bending puzzle](http://9gag.com/gag/aqy4dvQ)
  - 😝 [Dude won but at what cost](http://9gag.com/gag/azx7DAN)
- - 👉 [The police only get 5 days suspension for this](http://9gag.com/gag/a2vEjqw)<!-- MEMES:END -->
+ - 😝 [Sure, Rebecca](http://9gag.com/gag/a1mp8v2)
+ - 💣 [Oops ! Bad calculations !](http://9gag.com/gag/aKG4NQO)
+ - 😝 [What is the name of this movie ?](http://9gag.com/gag/aqy4dyQ)
+ - 👉 [Mind bending puzzle](http://9gag.com/gag/aqy4dvQ)<!-- MEMES:END -->
 
 ---
 

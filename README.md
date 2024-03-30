@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Atari 400 Mini is a cute little slice of video game history](https://www.theverge.com/24113699/atari-400-mini-hands-on)
  - [How to keep your Mac&#39;s data safe using Time Machine](https://appleinsider.com/inside/macos/tips/how-to-keep-your-macs-data-safe-using-time-machine?utm_medium=rss)
- - [What Is Apple One? A Breakdown of Plans, Pricing, and Included Services](https://www.wired.com/story/what-is-apple-one/)
- - [Yogurt Heist Reveals a Rampant Form of Online Fraud](https://www.wired.com/story/yogurt-heist-security-roundup/)
- - [How to Resist the Temptation of AI When Writing](https://www.wired.com/story/how-to-resist-ai-temptation-writing/)
- - [The world needs more gadgets like LG’s briefcase TV](https://www.theverge.com/24109258/lg-stanbyme-go-portable-suitcase-briefcase-tv-review)<!-- TECH:END -->
+ - [Many Homeowners Struggle to Know If They Can Trust a Solar Company     - CNET](https://www.cnet.com/home/energy-and-utilities/many-homeowners-struggle-to-know-if-they-can-trust-a-solar-company/#ftag=CAD590a51e)
+ - [AI Showdown: How Samsung&#39;s Galaxy S24 AI Tools Compare to Google, Apple     - CNET](https://www.cnet.com/tech/mobile/ai-showdown-how-samsungs-galaxy-s24-ai-tools-stack-up-against-google-apple/#ftag=CAD590a51e)
+ - [How to Resist the Temptation of AI When Writing](https://www.wired.com/story/how-to-resist-ai-temptation-writing/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

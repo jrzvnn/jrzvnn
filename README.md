@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with Morris Chang on starting TSMC at the age of 55, the company not designing or selling its own chips, returning to Taiwan from the US, and more &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/240330/p8#a240330p8)
  - [Watch Bundesliga Soccer: Livestream Bayern Munich vs. Borussia Dortmund From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/watch-bundesliga-soccer-livestream-bayern-munich-vs-borussia-dortmund-from-anywhere/#ftag=CAD590a51e)
  - [Get Up to 50% Off Brooklinen&#39;s Luxury Bedding During Its Last Call Sale     - CNET](https://www.cnet.com/deals/get-up-to-50-off-brooklinens-luxury-bedding-and-towels-during-last-call/#ftag=CAD590a51e)
  - [The Atari 400 Mini is a cute little slice of video game history](https://www.theverge.com/24113699/atari-400-mini-hands-on)
- - [Best Amazon Deals: Save on Smart Scales, Air Purifiers, Coffee Makers and More     - CNET](https://www.cnet.com/deals/best-amazon-deals-save-on-smart-scales-air-purifiers-coffee-makers-and-more/#ftag=CAD590a51e)
- - [How to keep your Mac&#39;s data safe using Time Machine](https://appleinsider.com/inside/macos/tips/how-to-keep-your-macs-data-safe-using-time-machine?utm_medium=rss)<!-- TECH:END -->
+ - [Best Amazon Deals: Save on Smart Scales, Air Purifiers, Coffee Makers and More     - CNET](https://www.cnet.com/deals/best-amazon-deals-save-on-smart-scales-air-purifiers-coffee-makers-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

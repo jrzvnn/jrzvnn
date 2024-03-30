@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AT&amp;T confirms that data dumped online appears to be from 2019 or earlier and contains personal data of 7.6M current and 65.4M former account holders &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240330/p9#a240330p9)
+ - [X says it is funding a lawsuit filed by Chloe Happe against her ex-employer Block, after being allegedly sacked for her X posts about refugees and trans people &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/240330/p10#a240330p10)
+ - [AT&amp;T confirms that data dumped online appears to be from 2019 or earlier and contains personal details of 7.6M current and 65.4M former account holders &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240330/p9#a240330p9)
  - [Apple has a new Swift tutorials webpage for budding developers](https://appleinsider.com/articles/24/03/30/apple-has-a-new-swift-tutorials-webpage-for-budding-developers?utm_medium=rss)
  - [Apple’s AirTags have briefly returned to their best price to date](https://www.theverge.com/2024/3/30/24115667/apple-airtag-amazon-kindle-paperwhite-hbo-max-subscription-deal-sale)
- - [Best Internet Providers in Santa Clarita, California     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-santa-clarita-ca/#ftag=CAD590a51e)
- - [Women&#39;s March Madness 2024: How to Watch, Stream Caitlin Clark Today and the Sweet 16     - CNET](https://www.cnet.com/tech/services-and-software/womens-march-madness-2024-how-to-watch-stream-caitlin-clark-and-every-tournament-game/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Santa Clarita, California     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-santa-clarita-ca/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sure, Rebecca](http://9gag.com/gag/a1mp8v2)
- - 😝 [`Casino Royale` cast before and now](http://9gag.com/gag/aVvj1Py)
- - 💣 [Goes both directions](http://9gag.com/gag/amoqbwV)
- - 😝 [Oops ! Bad calculations !](http://9gag.com/gag/aKG4NQO)
- - 👉 [Coca-cola Magic](http://9gag.com/gag/avy2X5n)<!-- MEMES:END -->
+ - 😝 [Why men are physically more stronger than women](http://9gag.com/gag/aGyK6G0)
+ - 😝 [American and European Firefighter Helmet Designs](http://9gag.com/gag/aW4BeB6)
+ - 💣 [Mariano&#39;s meme folder #011](http://9gag.com/gag/aKG4NWN)
+ - 😝 [Muslin asks woman not to eat because he is fasting for Ramadan](http://9gag.com/gag/ae9KdXb)
+ - 👉 [Infinite food glitch](http://9gag.com/gag/amoqbq2)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The watch looks the same, wtf](http://9gag.com/gag/aGyK6g5)
- - 😝 [Actually funny... and true...](http://9gag.com/gag/a9yjN4j)
- - 💣 [This is the way](http://9gag.com/gag/aW4BP8A)
- - 😝 [Not all heroes wear capes](http://9gag.com/gag/amoqbWd)
- - 👉 [It makes the app unusable](http://9gag.com/gag/aW4BN9Z)<!-- MEMES:END -->
+ - 😝 [One touch volley](http://9gag.com/gag/aGyKN86)
+ - 😝 [Muslin asks woman not to eat because he is fasting for Ramadan](http://9gag.com/gag/ae9KdXb)
+ - 💣 [Oh snap](http://9gag.com/gag/aPA6nbR)
+ - 😝 [Can&#39;t blame the horse](http://9gag.com/gag/aKG4nqb)
+ - 👉 [Gypsies when you try to cut down the tree in Good Will &lpar;gypsy settlement&rpar;, Slovakia](http://9gag.com/gag/aKG4LrN)<!-- MEMES:END -->
 
 ---
 

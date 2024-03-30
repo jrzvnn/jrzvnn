@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Goes both directions](http://9gag.com/gag/amoqbwV)
- - 😝 [Sure, Rebecca](http://9gag.com/gag/a1mp8v2)
+ - 😝 [No witness](http://9gag.com/gag/aD2Rqgw)
+ - 😝 [Coca-cola Magic](http://9gag.com/gag/avy2X5n)
  - 💣 [The police only get 5 days suspension for this](http://9gag.com/gag/a2vEjqw)
- - 😝 [Gypsies when you try to cut down the tree in Good Will &lpar;gypsy settlement&rpar;, Slovakia](http://9gag.com/gag/aKG4LrN)
- - 👉 [No witness](http://9gag.com/gag/aD2Rqgw)<!-- MEMES:END -->
+ - 😝 [Mind bending puzzle](http://9gag.com/gag/aqy4dvQ)
+ - 👉 [Dude won but at what cost](http://9gag.com/gag/azx7DAN)<!-- MEMES:END -->
 
 ---
 

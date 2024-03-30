@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best 3D Printer Filament Deals: Save Up $40 on Flexible PLA, PETG, Bulk Orders and More     - CNET](https://www.cnet.com/deals/the-best-3d-printer-filament-deals/#ftag=CAD590a51e)
+ - [March Madness 2024 Elite Eight: How to Watch, Livestream, TV Channel and Schedule     - CNET](https://www.cnet.com/tech/services-and-software/march-madness-2024-how-to-watch-livestream-the-ncaa-tournament-today-without-cable/#ftag=CAD590a51e)
  - [A look at Steven Mnuchin&#39;s TikTok plans; sources say his proposal to buy TikTok without its export-blocked algorithm and rebuild it from scratch is far-fetched &lpar;Washington Post&rpar;](http://www.techmeme.com/240330/p12#a240330p12)
  - [Best iPhone Deals 2024: Up to $1,000 in Trade-In Value on iPhone 15, 14, SE and More     - CNET](https://www.cnet.com/deals/best-iphone-deals/#ftag=CAD590a51e)
- - [If you have an iPhone with AT&amp;T, there&#39;s a good chance your info has been stolen](https://appleinsider.com/articles/24/03/30/if-you-have-an-iphone-with-att-your-info-has-probably-been-stolen?utm_medium=rss)
- - [Tuft &amp; Needle Nod Mattress Review: A Bed for Budget Shoppers     - CNET](https://www.cnet.com/health/sleep/tuft-and-needle-nod-mattress-review/#ftag=CAD590a51e)
- - [The ‘PS5 Pro Enhanced’ label could mean constant 60fps and ray-tracing](https://www.theverge.com/2024/3/30/24116580/ps5-pro-enhanced-label-specs-ray-tracing-60fps-pssr-4k-upscaling)<!-- TECH:END -->
+ - [If you have an iPhone with AT&amp;T, there&#39;s a good chance your info has been stolen](https://appleinsider.com/articles/24/03/30/if-you-have-an-iphone-with-att-your-info-has-probably-been-stolen?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

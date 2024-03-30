@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yearly reminder of the Value of a good nights sleep](http://9gag.com/gag/azx7oXN)
+ - 😝 [American and European Firefighter Helmet Designs](http://9gag.com/gag/aW4BeB6)
  - 😝 [Goes both directions](http://9gag.com/gag/amoqbwV)
- - 💣 [Muslin asks woman not to eat because he is fasting for Ramadan](http://9gag.com/gag/ae9KdXb)
- - 😝 [The police only get 5 days suspension for this](http://9gag.com/gag/a2vEjqw)
- - 👉 [Oops ! Bad calculations !](http://9gag.com/gag/aKG4NQO)<!-- MEMES:END -->
+ - 💣 [Mind bending puzzle](http://9gag.com/gag/aqy4dvQ)
+ - 😝 [Dude won but at what cost](http://9gag.com/gag/azx7DAN)
+ - 👉 [The police only get 5 days suspension for this](http://9gag.com/gag/a2vEjqw)<!-- MEMES:END -->
 
 ---
 

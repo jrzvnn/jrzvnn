@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/agmrpAv)
- - 😝 [Who paved over the valve?](http://9gag.com/gag/aE0dNxK)
- - 💣 [Sure, Rebecca](http://9gag.com/gag/a1mp8v2)
- - 😝 [Mariano&#39;s meme folder #011](http://9gag.com/gag/aKG4NWN)
- - 👉 [Mind bending puzzle](http://9gag.com/gag/aqy4dvQ)<!-- MEMES:END -->
+ - 😝 [Goes both directions](http://9gag.com/gag/amoqbwV)
+ - 😝 [Sure, Rebecca](http://9gag.com/gag/a1mp8v2)
+ - 💣 [The police only get 5 days suspension for this](http://9gag.com/gag/a2vEjqw)
+ - 😝 [Gypsies when you try to cut down the tree in Good Will &lpar;gypsy settlement&rpar;, Slovakia](http://9gag.com/gag/aKG4LrN)
+ - 👉 [No witness](http://9gag.com/gag/aD2Rqgw)<!-- MEMES:END -->
 
 ---
 

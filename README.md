@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Very nice culture indeed. Inventor and founder of everything and every brand.](http://9gag.com/gag/a34vn97)
- - 😝 [Title](http://9gag.com/gag/azx7BYq)
- - 💣 [Mariano&#39;s meme folder #011](http://9gag.com/gag/aKG4NWN)
- - 😝 [Oops ! Bad calculations !](http://9gag.com/gag/aKG4NQO)
- - 👉 [Coca-cola Magic](http://9gag.com/gag/avy2X5n)<!-- MEMES:END -->
+ - 😝 [This is the way](http://9gag.com/gag/aW4BP8A)
+ - 😝 [The watch looks the same, wtf](http://9gag.com/gag/aGyK6g5)
+ - 💣 [Llama go to McDonald&#39;s](http://9gag.com/gag/aYQjZAx)
+ - 😝 [Jumanji reminds me something..](http://9gag.com/gag/ae9KyEq)
+ - 👉 [Not all heroes wear capes](http://9gag.com/gag/amoqbWd)<!-- MEMES:END -->
 
 ---
 

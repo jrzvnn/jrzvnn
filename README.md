@@ -170,7 +170,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [How to keep your Mac&#39;s data safe using Time Machine](https://appleinsider.com/inside/macos/tips/how-to-keep-your-macs-data-safe-using-time-machine?utm_medium=rss)
  - [Many Homeowners Struggle to Know If They Can Trust a Solar Company     - CNET](https://www.cnet.com/home/energy-and-utilities/many-homeowners-struggle-to-know-if-they-can-trust-a-solar-company/#ftag=CAD590a51e)
  - [AI Showdown: How Samsung&#39;s Galaxy S24 AI Tools Compare to Google, Apple     - CNET](https://www.cnet.com/tech/mobile/ai-showdown-how-samsungs-galaxy-s24-ai-tools-stack-up-against-google-apple/#ftag=CAD590a51e)
- - [How to Resist the Temptation of AI When Writing](https://www.wired.com/story/how-to-resist-ai-temptation-writing/)<!-- TECH:END -->
+ - [What Is Apple One? A Breakdown of Plans, Pricing, and Included Services](https://www.wired.com/story/what-is-apple-one/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

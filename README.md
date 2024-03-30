@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What is the name of this movie ?](http://9gag.com/gag/aqy4dyQ)
- - 😝 [Mind bending puzzle](http://9gag.com/gag/aqy4dvQ)
- - 💣 [Muslin asks woman not to eat because he is fasting for Ramadan](http://9gag.com/gag/ae9KdXb)
- - 😝 [Women](http://9gag.com/gag/a34vxKr)
- - 👉 [Dude won but at what cost](http://9gag.com/gag/azx7DAN)<!-- MEMES:END -->
+ - 😝 [Befoolant](http://9gag.com/gag/a34vxBv)
+ - 😝 [Oops ! Bad calculations !](http://9gag.com/gag/aKG4NQO)
+ - 💣 [Women](http://9gag.com/gag/a34vxKr)
+ - 😝 [Muslin asks woman not to eat because he is fasting for Ramadan](http://9gag.com/gag/ae9KdXb)
+ - 👉 [I&#39;m not your father](http://9gag.com/gag/abA3db8)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dan Lynch, founder of Interop, a computer networking equipment exhibition that helped accelerate TCP/IP adoption and internet commercialization, dies at age 82 &lpar;Katie Hafner/New York Times&rpar;](http://www.techmeme.com/240331/p9#a240331p9)
  - [A profile of YC&#39;s Garry Tan, whose combative online persona has sparked controversies as he tries to shift SF politics from idealistic progressivism to centrism &lpar;Heather Knight/New York Times&rpar;](http://www.techmeme.com/240331/p8#a240331p8)
  - [Score Big Savings With This Woot Sale on Samsung TVs     - CNET](https://www.cnet.com/deals/score-big-savings-with-this-woot-sale-on-samsung-tvs/#ftag=CAD590a51e)
  - [GhostBed Classic Mattress Review: A Comfortable Foam Bed     - CNET](https://www.cnet.com/health/sleep/ghostbed-mattress-review/#ftag=CAD590a51e)
- - [Best Galaxy S24 Deals: Big Savings and Trade-Ins on All Models     - CNET](https://www.cnet.com/deals/best-galaxy-s24-deals/#ftag=CAD590a51e)
- - [Snag Yourself a 1-Month Subscription of Xbox Game Pass Ultimate for Just $8     - CNET](https://www.cnet.com/deals/snag-yourself-a-1-month-subscription-of-xbox-game-pass-ultimate-for-just-8/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Galaxy S24 Deals: Big Savings and Trade-Ins on All Models     - CNET](https://www.cnet.com/deals/best-galaxy-s24-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

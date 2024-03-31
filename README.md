@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If you want to be part of the Queer Fat Club, you really have to be fat. It\u2019s a requirement.](http://9gag.com/gag/a0evDNv)
- - 😝 [Why men are physically more stronger than women](http://9gag.com/gag/aGyK6G0)
- - 💣 [Coca-cola Magic](http://9gag.com/gag/avy2X5n)
- - 😝 [Sure, Rebecca](http://9gag.com/gag/a1mp8v2)
- - 👉 [Today&#39;s generation is lost or I&#39;m toxic](http://9gag.com/gag/aXPZQRP)<!-- MEMES:END -->
+ - 😝 [Coca-cola Magic](http://9gag.com/gag/avy2X5n)
+ - 😝 [Original `Makeba` from 2015. But I just remember Jameliz dancing half-naked](http://9gag.com/gag/avy2X9q)
+ - 💣 [Goes both directions](http://9gag.com/gag/amoqbwV)
+ - 😝 [American and European Firefighter Helmet Designs](http://9gag.com/gag/aW4BeB6)
+ - 👉 [No witness](http://9gag.com/gag/aD2Rqgw)<!-- MEMES:END -->
 
 ---
 

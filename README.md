@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why men are physically more stronger than women](http://9gag.com/gag/aGyK6G0)
+ - 😝 [Source unknown, but thanks for the laugh](http://9gag.com/gag/aRB68nQ)
+ - 😝 [No witness](http://9gag.com/gag/aD2Rqgw)
+ - 💣 [Thank you!](http://9gag.com/gag/a9yje9o)
  - 😝 [Sure, Rebecca](http://9gag.com/gag/a1mp8v2)
- - 💣 [American and European Firefighter Helmet Designs](http://9gag.com/gag/aW4BeB6)
- - 😝 [Title](http://9gag.com/gag/a7ovBrw)
- - 👉 [Poor things!](http://9gag.com/gag/adByWLZ)<!-- MEMES:END -->
+ - 👉 [Damn straight rob a bank with this shit](http://9gag.com/gag/azx7z2j)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A look at AI&#39;s impact on video game actors, as some fear their voices might be misused while others hope to collect extra payments on top of a base minimum &lpar;David Smith/The Guardian&rpar;](http://www.techmeme.com/240331/p4#a240331p4)
- - [Liverpool vs. Brighton Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/liverpool-vs-brighton-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [iOS 17: Easily Turn Off Inline Predictive Text in Just 4 Steps     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-easily-turn-off-inline-predictive-text-in-just-4-steps/#ftag=CAD590a51e)
  - [You Should Update Apple iOS and Google Chrome ASAP](https://www.wired.com/story/apple-ios-google-chrome-critical-update-march/)
- - [Best Samsung Phone of 2024     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Last Chance to Save Big on BowFlex Fitness Gear     - CNET](https://www.cnet.com/deals/build-better-habits-with-big-savings-on-bowflex-fitness-gear/#ftag=CAD590a51e)
+ - [Doing Your Taxes at the Last Minute? ChatGPT Isn&#39;t the Time-Saver You Need     - CNET](https://www.cnet.com/personal-finance/taxes/doing-your-taxes-at-the-last-minute-chatgpt-isnt-the-time-saver-you-need/#ftag=CAD590a51e)
+ - [Save up to 50% on external SSDs, hard drives &amp; NAS enclosures with World Backup Day deals](https://appleinsider.com/articles/24/03/31/save-up-to-50-on-external-ssds-hard-drives-nas-enclosures-with-world-backup-day-deals?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Drawing shadows](http://9gag.com/gag/a34vgPm)
- - 😝 [People aren&#39;t politically correct in 3rd world asian countries.](http://9gag.com/gag/an7e3Oq)
- - 💣 [The story of Boji the dog](http://9gag.com/gag/a2vEAd1)
- - 😝 [The cow was a vegan, Olivia](http://9gag.com/gag/aE0db6N)
- - 👉 [I can absolutely fix her](http://9gag.com/gag/aBy9Mz2)<!-- MEMES:END -->
+ - 😝 [Why men are physically more stronger than women](http://9gag.com/gag/aGyK6G0)
+ - 😝 [Sure, Rebecca](http://9gag.com/gag/a1mp8v2)
+ - 💣 [American and European Firefighter Helmet Designs](http://9gag.com/gag/aW4BeB6)
+ - 😝 [Title](http://9gag.com/gag/a7ovBrw)
+ - 👉 [Poor things!](http://9gag.com/gag/adByWLZ)<!-- MEMES:END -->
 
 ---
 

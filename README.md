@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft engineer Andres Freund accidentally found the malicious code in versions of the XZ Utils compression tool, likely preventing thousands of infections &lpar;Mike Larkin/Security Boulevard&rpar;](http://www.techmeme.com/240331/p1#a240331p1)
  - [Grab Apple&#39;s new M3 MacBook Air for $999](https://appleinsider.com/articles/24/03/31/grab-apples-new-m3-macbook-air-for-999?utm_medium=rss)
  - [March Madness 2024 Elite Eight: How to Watch, Livestream, TV Channel and Schedule     - CNET](https://www.cnet.com/tech/services-and-software/march-madness-2024-how-to-watch-livestream-the-ncaa-tournament-today-without-cable/#ftag=CAD590a51e)
  - [Survey of Americans aged 12+: 47% of have listened to a podcast in the last month, up 12% YoY, 76% listened to online audio in the past month, and more &lpar;Podnews&rpar;](http://www.techmeme.com/240330/p14#a240330p14)
- - [Best Internet Providers in Bloomington, Minnesota     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-bloomington-mn/#ftag=CAD590a51e)
- - [Discord plans to start showing gaming ads from next week, called Sponsored Quests and offering rewards for in-game tasks; users can turn them off in settings &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240330/p13#a240330p13)<!-- TECH:END -->
+ - [Best Internet Providers in Bloomington, Minnesota     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-bloomington-mn/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

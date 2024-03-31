@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Prank backfires in the most satisfying way](http://9gag.com/gag/avy2VRZ)
- - 😝 [The story of Boji the dog](http://9gag.com/gag/a2vEAd1)
- - 💣 [The cow was a vegan, Olivia](http://9gag.com/gag/aE0db6N)
- - 😝 [Descriptive title](http://9gag.com/gag/aRB6G7j)
- - 👉 [I found out last night I have cancer. I\u2019m waiting on a flight to get emergency surgery. It\u2019s on my spine and I might lose my ability to walk it\u2019s been a weird 15 hours wish me luck and keep me occupied my beloved people of 9GAG.](http://9gag.com/gag/aKG4X7j)<!-- MEMES:END -->
+ - 😝 [This took me a minute](http://9gag.com/gag/axyEezK)
+ - 😝 [Pirates are cool because they rrrrr](http://9gag.com/gag/adByWPQ)
+ - 💣 [She beat the Grim Reaper and took his Scythe](http://9gag.com/gag/aKG4nO1)
+ - 😝 [Thank you!](http://9gag.com/gag/a9yje9o)
+ - 👉 [Descriptive title](http://9gag.com/gag/aRB6G7j)<!-- MEMES:END -->
 
 ---
 

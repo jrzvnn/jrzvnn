@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This took me a minute](http://9gag.com/gag/axyEezK)
  - 😝 [Pirates are cool because they rrrrr](http://9gag.com/gag/adByWPQ)
- - 💣 [She beat the Grim Reaper and took his Scythe](http://9gag.com/gag/aKG4nO1)
- - 😝 [Thank you!](http://9gag.com/gag/a9yje9o)
- - 👉 [Descriptive title](http://9gag.com/gag/aRB6G7j)<!-- MEMES:END -->
+ - 😝 [Task failed successfully.](http://9gag.com/gag/ae9KE9b)
+ - 💣 [Thank you!](http://9gag.com/gag/a9yje9o)
+ - 😝 [Title](http://9gag.com/gag/agmrpAv)
+ - 👉 [Sure, Rebecca](http://9gag.com/gag/a1mp8v2)<!-- MEMES:END -->
 
 ---
 

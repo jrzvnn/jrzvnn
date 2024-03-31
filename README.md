@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Dell, HP, and other US tech firms have asked their Taiwanese suppliers to boost production of AI-related hardware in Mexico to reduce reliance on China &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240331/p6#a240331p6)
  - [16 Best Gaming Headsets &lpar;2024&rpar;: Wired, Wireless, for Switch, PC, Xbox, PS5, and PS4](https://www.wired.com/gallery/best-gaming-headsets/)
  - [Crime blotter: A year later, Alderwood Apple Store theft remains unsolved](https://appleinsider.com/articles/24/03/31/crime-blotter-a-year-later-alderwood-apple-store-theft-remains-unsolved?utm_medium=rss)
  - [Women&#39;s March Madness 2024: Elite Eight Schedule, TV Channel, How to Watch or Stream     - CNET](https://www.cnet.com/tech/services-and-software/womens-march-madness-2024-how-to-watch-stream-caitlin-clark-and-every-tournament-game/#ftag=CAD590a51e)
- - [7 Best Cloud Storage Services &lpar;2024&rpar;: Apple, Google, and More](https://www.wired.com/gallery/best-cloud-storage-services/)
- - [How the team behind Zelda made physics feel like magic](https://www.theverge.com/24115898/tears-of-the-kingdom-physics-gameplay-design-gdc-2024)<!-- TECH:END -->
+ - [7 Best Cloud Storage Services &lpar;2024&rpar;: Apple, Google, and More](https://www.wired.com/gallery/best-cloud-storage-services/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why men are physically more stronger than women](http://9gag.com/gag/aGyK6G0)
- - 😝 [Yearly reminder of the Value of a good nights sleep](http://9gag.com/gag/azx7oXN)
- - 💣 [Sure, Rebecca](http://9gag.com/gag/a1mp8v2)
- - 😝 [No witness](http://9gag.com/gag/aD2Rqgw)
- - 👉 [Police published photo of a woman who stole alcohol from local store and attacked a security guard](http://9gag.com/gag/aQz6DRd)<!-- MEMES:END -->
+ - 😝 [Come and liberate my malevelon creek](http://9gag.com/gag/aNDmXr6)
+ - 😝 [Best scene in naruto IMO](http://9gag.com/gag/an7e0zo)
+ - 💣 [If you want to be part of the Queer Fat Club, you really have to be fat. It\u2019s a requirement.](http://9gag.com/gag/a0evDNv)
+ - 😝 [We did it boys](http://9gag.com/gag/aE0dbBO)
+ - 👉 [Correct use of 3d pen...](http://9gag.com/gag/ae9KqyW)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Poor Peter Parker](http://9gag.com/gag/avy2BoO)
- - 😝 [Task failed successfully.](http://9gag.com/gag/ae9KE9b)
- - 💣 [Today&#39;s generation is lost or I&#39;m toxic](http://9gag.com/gag/aXPZQRP)
- - 😝 [No witness](http://9gag.com/gag/aD2Rqgw)
- - 👉 [Descriptive title](http://9gag.com/gag/aRB6G7j)<!-- MEMES:END -->
+ - 😝 [Damn straight rob a bank with this shit](http://9gag.com/gag/azx7z2j)
+ - 😝 [If you want to be part of the Queer Fat Club, you really have to be fat. It\u2019s a requirement.](http://9gag.com/gag/a0evDNv)
+ - 💣 [No witness](http://9gag.com/gag/aD2Rqgw)
+ - 😝 [Police published photo of a woman who stole alcohol from local store and attacked a security guard](http://9gag.com/gag/aQz6DRd)
+ - 👉 [Ah yes, the new stealthy, totally quiet lethal trains](http://9gag.com/gag/ayNEA0y)<!-- MEMES:END -->
 
 ---
 

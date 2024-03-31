@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My type of Ai](http://9gag.com/gag/aE0dyqK)
- - 😝 [Poor Peter Parker](http://9gag.com/gag/avy2BoO)
- - 💣 [Don\u2019t work hard, work smart](http://9gag.com/gag/aGyKNOZ)
+ - 😝 [How do you make easter easier? Replace the `t` with an `i`](http://9gag.com/gag/ae9KqqW)
+ - 😝 [Yearly reminder of the Value of a good nights sleep](http://9gag.com/gag/azx7oXN)
+ - 💣 [The keyboard guy lol.](http://9gag.com/gag/agmrpGn)
  - 😝 [Best scene in naruto IMO](http://9gag.com/gag/an7e0zo)
- - 👉 [I gave up for FokOf](http://9gag.com/gag/aKG4nrg)<!-- MEMES:END -->
+ - 👉 [If you want to be part of the Queer Fat Club, you really have to be fat. It\u2019s a requirement.](http://9gag.com/gag/a0evDNv)<!-- MEMES:END -->
 
 ---
 

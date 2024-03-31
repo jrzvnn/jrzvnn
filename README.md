@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best scene in naruto IMO](http://9gag.com/gag/an7e0zo)
- - 😝 [The keyboard guy lol.](http://9gag.com/gag/agmrpGn)
- - 💣 [If you want to be part of the Queer Fat Club, you really have to be fat. It\u2019s a requirement.](http://9gag.com/gag/a0evDNv)
- - 😝 [We did it boys](http://9gag.com/gag/aE0dbBO)
- - 👉 [Correct use of 3d pen...](http://9gag.com/gag/ae9KqyW)<!-- MEMES:END -->
+ - 😝 [Men can be very simple creatures.](http://9gag.com/gag/aD2RrEG)
+ - 😝 [Damn straight rob a bank with this shit](http://9gag.com/gag/azx7z2j)
+ - 💣 [Poor Peter Parker](http://9gag.com/gag/avy2BoO)
+ - 😝 [Today&#39;s generation is lost or I&#39;m toxic](http://9gag.com/gag/aXPZQRP)
+ - 👉 [Yearly reminder of the Value of a good nights sleep](http://9gag.com/gag/azx7oXN)<!-- MEMES:END -->
 
 ---
 

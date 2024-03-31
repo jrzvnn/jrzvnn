@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Correct use of 3d pen...](http://9gag.com/gag/ae9KqyW)
  - 😝 [Some filters are just perfect](http://9gag.com/gag/aGyK6P7)
- - 😝 [We did it boys](http://9gag.com/gag/aE0dbBO)
- - 💣 [Correct use of 3d pen...](http://9gag.com/gag/ae9KqyW)
- - 😝 [Your need a hug](http://9gag.com/gag/aGyKqe0)
+ - 💣 [We did it boys](http://9gag.com/gag/aE0dbBO)
+ - 😝 [Today,](http://9gag.com/gag/ae9KyXB)
  - 👉 [The story of Boji the dog](http://9gag.com/gag/a2vEAd1)<!-- MEMES:END -->
 
 ---

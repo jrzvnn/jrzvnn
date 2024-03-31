@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yearly reminder of the Value of a good nights sleep](http://9gag.com/gag/azx7oXN)
- - 😝 [Descriptive title](http://9gag.com/gag/aRB6G7j)
- - 💣 [This took me a minute](http://9gag.com/gag/axyEezK)
- - 😝 [Poor Peter Parker](http://9gag.com/gag/avy2BoO)
- - 👉 [Poor things!](http://9gag.com/gag/adByWLZ)<!-- MEMES:END -->
+ - 😝 [Some filters are just perfect](http://9gag.com/gag/aGyK6P7)
+ - 😝 [We did it boys](http://9gag.com/gag/aE0dbBO)
+ - 💣 [Today,](http://9gag.com/gag/ae9KyXB)
+ - 😝 [The story of Boji the dog](http://9gag.com/gag/a2vEAd1)
+ - 👉 [The cow was a vegan, Olivia](http://9gag.com/gag/aE0db6N)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Flash sale: Best Buy drops Apple Watch Series 9 to $269, iMac to $799 today only](https://appleinsider.com/articles/24/03/31/flash-sale-best-buy-drops-apple-watch-series-9-to-269-imac-to-799-today-only?utm_medium=rss)
  - [Sleep Apnea: What to Know About the Health Impacts     - CNET](https://www.cnet.com/health/sleep/sleep-apnea/#ftag=CAD590a51e)
  - [Data from 73 Million AT&amp;T Accounts Leaked: What You Can Do to Protect Yourself     - CNET](https://www.cnet.com/tech/mobile/data-from-73-million-at-t-accounts-leaked-what-you-can-do-to-protect-yourself/#ftag=CAD590a51e)
  - [Best Amazon Deals: Big Savings on Heating Pads, Coffee Capsules, Security Cameras and More     - CNET](https://www.cnet.com/deals/best-amazon-deals-big-savings-on-heating-pads-coffee-capsules-security-cameras-and-more/#ftag=CAD590a51e)
- - [Sources: Dell, HP, and other US tech firms have asked their Taiwanese suppliers to boost production of AI-related hardware in Mexico to reduce reliance on China &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240331/p6#a240331p6)
- - [Save on Apple, Samsung, LG and More with Best Buy&#39;s Flash Sale     - CNET](https://www.cnet.com/deals/save-on-apple-samsung-lg-and-more-with-best-buys-flash-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Dell, HP, and other US tech firms have asked their Taiwanese suppliers to boost production of AI-related hardware in Mexico to reduce reliance on China &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240331/p6#a240331p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Doing Your Taxes at the Last Minute? ChatGPT Isn&#39;t the Time-Saver You Need     - CNET](https://www.cnet.com/personal-finance/taxes/doing-your-taxes-at-the-last-minute-chatgpt-isnt-the-time-saver-you-need/#ftag=CAD590a51e)
  - [Save up to 50% on external SSDs, hard drives &amp; NAS enclosures with World Backup Day deals](https://appleinsider.com/articles/24/03/31/save-up-to-50-on-external-ssds-hard-drives-nas-enclosures-with-world-backup-day-deals?utm_medium=rss)
  - [How WhatsApp became the world&#39;s default communication app, including as a political propaganda tool, a business tool, and a private social network &lpar;Pranav Dixit/Engadget&rpar;](http://www.techmeme.com/240331/p3#a240331p3)
  - [Sources: Shein had $2B+ of profit and ~$45B of GMV in 2023, ahead of a planned NY or London IPO; documents: Shein had $700M of profit in 2022 and $1.1B in 2021 &lpar;Financial Times&rpar;](http://www.techmeme.com/240331/p2#a240331p2)
- - [Microsoft engineer Andres Freund accidentally found the malicious code in versions of the XZ Utils compression tool, likely preventing thousands of infections &lpar;Mike Larkin/Security Boulevard&rpar;](http://www.techmeme.com/240331/p1#a240331p1)
- - [Grab Apple&#39;s new M3 MacBook Air for $999](https://appleinsider.com/articles/24/03/31/grab-apples-new-m3-macbook-air-for-999?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft engineer Andres Freund accidentally found the malicious code in versions of the XZ Utils compression tool, likely preventing thousands of infections &lpar;Mike Larkin/Security Boulevard&rpar;](http://www.techmeme.com/240331/p1#a240331p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

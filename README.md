@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dude won but at what cost](http://9gag.com/gag/azx7DAN)
- - 😝 [Muslin asks woman not to eat because he is fasting for Ramadan](http://9gag.com/gag/ae9KdXb)
- - 💣 [Who paved over the valve?](http://9gag.com/gag/aE0dNxK)
- - 😝 [Pirates are cool because they rrrrr](http://9gag.com/gag/adByWPQ)
- - 👉 [No witness](http://9gag.com/gag/aD2Rqgw)<!-- MEMES:END -->
+ - 😝 [How do you make easter easier? Replace the `t` with an `i`](http://9gag.com/gag/ae9KqqW)
+ - 😝 [Yearly reminder of the Value of a good nights sleep](http://9gag.com/gag/azx7oXN)
+ - 💣 [The keyboard guy lol.](http://9gag.com/gag/agmrpGn)
+ - 😝 [Best scene in naruto IMO](http://9gag.com/gag/an7e0zo)
+ - 👉 [If you want to be part of the Queer Fat Club, you really have to be fat. It\u2019s a requirement.](http://9gag.com/gag/a0evDNv)<!-- MEMES:END -->
 
 ---
 

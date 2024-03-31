@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Damn straight rob a bank with this shit](http://9gag.com/gag/azx7z2j)
- - 😝 [If you want to be part of the Queer Fat Club, you really have to be fat. It\u2019s a requirement.](http://9gag.com/gag/a0evDNv)
- - 💣 [No witness](http://9gag.com/gag/aD2Rqgw)
- - 😝 [Police published photo of a woman who stole alcohol from local store and attacked a security guard](http://9gag.com/gag/aQz6DRd)
- - 👉 [Ah yes, the new stealthy, totally quiet lethal trains](http://9gag.com/gag/ayNEA0y)<!-- MEMES:END -->
+ - 😝 [Drawing shadows](http://9gag.com/gag/a34vgPm)
+ - 😝 [People aren&#39;t politically correct in 3rd world asian countries.](http://9gag.com/gag/an7e3Oq)
+ - 💣 [The story of Boji the dog](http://9gag.com/gag/a2vEAd1)
+ - 😝 [The cow was a vegan, Olivia](http://9gag.com/gag/aE0db6N)
+ - 👉 [I can absolutely fix her](http://9gag.com/gag/aBy9Mz2)<!-- MEMES:END -->
 
 ---
 

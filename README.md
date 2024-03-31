@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An AI voice notes app that really works](https://www.theverge.com/2024/3/31/24116047/cleft-notes-ai-voice-spider-verse-short-steve-believers-installer-newsletter)
- - [The T-Mobile Sidekick’s Jump button made mobile multitasking easy](https://www.theverge.com/24115039/danger-hiptop-t-mobile-sidekick-jump-button)
- - [The Brain Region That Controls Movement Also Guides Feelings](https://www.wired.com/story/cerebellum-brain-movement-feelings/)
- - [A look at AI&#39;s impact on video game actors, as some fear their voices might be misused while others hope to collect extra payments on top of a base minimum &lpar;David Smith/The Guardian&rpar;](http://www.techmeme.com/240331/p4#a240331p4)
- - [Liverpool vs. Brighton Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/liverpool-vs-brighton-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Back Up Your Digital Life &lpar;2024&rpar;: Hard Drives, Cloud-Based Tools, and Tips](https://www.wired.com/story/how-to-back-up-your-digital-life/)
+ - [&#39;All American&#39; Season 6: How to Watch the New Season Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/all-american-season-6-how-to-watch-the-new-season-without-cable/#ftag=CAD590a51e)
+ - [Kitchens Have Never Been Smarter, but Is Anyone Buying It?     - CNET](https://www.cnet.com/news/kitchens-have-never-been-smarter-but-is-anybody-buying-it/#ftag=CAD590a51e)
+ - [Lenovo ThinkPad X1 Carbon Gen 12 Review: Too Dang Expensive](https://www.wired.com/review/lenovo-thinkpad-x1-carbon-gen-12-2024/)
+ - [Best VPN for Streaming in 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-streaming/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

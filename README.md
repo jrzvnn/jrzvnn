@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jack black in 1992](http://9gag.com/gag/a34vz6m)
- - 😝 [Poor Peter Parker](http://9gag.com/gag/avy2BoO)
- - 💣 [Damn straight rob a bank with this shit](http://9gag.com/gag/azx7z2j)
- - 😝 [Task failed successfully.](http://9gag.com/gag/ae9KE9b)
- - 👉 [Sure, Rebecca](http://9gag.com/gag/a1mp8v2)<!-- MEMES:END -->
+ - 😝 [Sure, Rebecca](http://9gag.com/gag/a1mp8v2)
+ - 😝 [No witness](http://9gag.com/gag/aD2Rqgw)
+ - 💣 [Police published photo of a woman who stole alcohol from local store and attacked a security guard](http://9gag.com/gag/aQz6DRd)
+ - 😝 [Today&#39;s generation is lost or I&#39;m toxic](http://9gag.com/gag/aXPZQRP)
+ - 👉 [Task failed successfully.](http://9gag.com/gag/ae9KE9b)<!-- MEMES:END -->
 
 ---
 

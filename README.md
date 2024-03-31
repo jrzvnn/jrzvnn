@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We did it boys](http://9gag.com/gag/aE0dbBO)
- - 😝 [Funny coz](http://9gag.com/gag/ajPQj6p)
- - 💣 [How do you make easter easier? Replace the `t` with an `i`](http://9gag.com/gag/ae9KqqW)
- - 😝 [Descriptive title](http://9gag.com/gag/aRB6G7j)
- - 👉 [If you want to be part of the Queer Fat Club, you really have to be fat. It\u2019s a requirement.](http://9gag.com/gag/a0evDNv)<!-- MEMES:END -->
+ - 😝 [Mariano&#39;s meme folder #011](http://9gag.com/gag/aKG4NWN)
+ - 😝 [Title](http://9gag.com/gag/agmrpAv)
+ - 💣 [Police published photo of a woman who stole alcohol from local store and attacked a security guard](http://9gag.com/gag/aQz6DRd)
+ - 😝 [Goes both directions](http://9gag.com/gag/amoqbwV)
+ - 👉 [Yearly reminder of the Value of a good nights sleep](http://9gag.com/gag/azx7oXN)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Goes both directions](http://9gag.com/gag/amoqbwV)
- - 😝 [No witness](http://9gag.com/gag/aD2Rqgw)
- - 💣 [Best scene in naruto IMO](http://9gag.com/gag/an7e0zo)
+ - 😝 [Coca-cola Magic](http://9gag.com/gag/avy2X5n)
  - 😝 [Sure, Rebecca](http://9gag.com/gag/a1mp8v2)
- - 👉 [Coca-cola Magic](http://9gag.com/gag/avy2X5n)<!-- MEMES:END -->
+ - 💣 [The keyboard guy lol.](http://9gag.com/gag/agmrpGn)
+ - 😝 [Today&#39;s generation is lost or I&#39;m toxic](http://9gag.com/gag/aXPZQRP)
+ - 👉 [No witness](http://9gag.com/gag/aD2Rqgw)<!-- MEMES:END -->
 
 ---
 

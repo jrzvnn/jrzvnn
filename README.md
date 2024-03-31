@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Some filters are just perfect](http://9gag.com/gag/aGyK6P7)
- - 😝 [We did it boys](http://9gag.com/gag/aE0dbBO)
- - 💣 [Today,](http://9gag.com/gag/ae9KyXB)
- - 😝 [The story of Boji the dog](http://9gag.com/gag/a2vEAd1)
- - 👉 [The cow was a vegan, Olivia](http://9gag.com/gag/aE0db6N)<!-- MEMES:END -->
+ - 😝 [Poor Peter Parker](http://9gag.com/gag/avy2BoO)
+ - 😝 [Task failed successfully.](http://9gag.com/gag/ae9KE9b)
+ - 💣 [Today&#39;s generation is lost or I&#39;m toxic](http://9gag.com/gag/aXPZQRP)
+ - 😝 [No witness](http://9gag.com/gag/aD2Rqgw)
+ - 👉 [Descriptive title](http://9gag.com/gag/aRB6G7j)<!-- MEMES:END -->
 
 ---
 

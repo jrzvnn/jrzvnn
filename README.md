@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Coca-cola Magic](http://9gag.com/gag/avy2X5n)
- - 😝 [Original `Makeba` from 2015. But I just remember Jameliz dancing half-naked](http://9gag.com/gag/avy2X9q)
+ - 😝 [Sure, Rebecca](http://9gag.com/gag/a1mp8v2)
+ - 😝 [Police published photo of a woman who stole alcohol from local store and attacked a security guard](http://9gag.com/gag/aQz6DRd)
  - 💣 [Goes both directions](http://9gag.com/gag/amoqbwV)
- - 😝 [American and European Firefighter Helmet Designs](http://9gag.com/gag/aW4BeB6)
- - 👉 [No witness](http://9gag.com/gag/aD2Rqgw)<!-- MEMES:END -->
+ - 😝 [Original `Makeba` from 2015. But I just remember Jameliz dancing half-naked](http://9gag.com/gag/avy2X9q)
+ - 👉 [Oops ! Bad calculations !](http://9gag.com/gag/aKG4NQO)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [How to Back Up Your Digital Life &lpar;2024&rpar;: Hard Drives, Cloud-Based Tools, and Tips](https://www.wired.com/story/how-to-back-up-your-digital-life/)
- - [&#39;All American&#39; Season 6: How to Watch the New Season Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/all-american-season-6-how-to-watch-the-new-season-without-cable/#ftag=CAD590a51e)
- - [Kitchens Have Never Been Smarter, but Is Anyone Buying It?     - CNET](https://www.cnet.com/news/kitchens-have-never-been-smarter-but-is-anybody-buying-it/#ftag=CAD590a51e)
  - [Lenovo ThinkPad X1 Carbon Gen 12 Review: Too Dang Expensive](https://www.wired.com/review/lenovo-thinkpad-x1-carbon-gen-12-2024/)
- - [Best VPN for Streaming in 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-streaming/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An AI voice notes app that really works](https://www.theverge.com/2024/3/31/24116047/cleft-notes-ai-voice-spider-verse-short-steve-believers-installer-newsletter)
+ - [The T-Mobile Sidekick’s Jump button made mobile multitasking easy](https://www.theverge.com/24115039/danger-hiptop-t-mobile-sidekick-jump-button)
+ - [Scientists Are Unlocking the Secrets of Your ‘Little Brain’](https://www.wired.com/story/cerebellum-brain-movement-feelings/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

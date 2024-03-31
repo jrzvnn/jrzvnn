@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Crime blotter: A year later, Alderwood Apple Store theft remains unsolved](https://appleinsider.com/articles/24/03/31/crime-blotter-a-year-later-alderwood-apple-store-theft-remains-unsolved?utm_medium=rss)
+ - [7 Best Cloud Storage Services &lpar;2024&rpar;: Apple, Google, and More](https://www.wired.com/gallery/best-cloud-storage-services/)
+ - [How the team behind Zelda made physics feel like magic](https://www.theverge.com/24115898/tears-of-the-kingdom-physics-gameplay-design-gdc-2024)
  - [MrBeast&#39;s &quot;retention editing&quot;, which uses quick cuts and loud sounds, took over social media, but may fade away as the YouTuber shifts to slower, focused videos &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/240331/p5#a240331p5)
- - [How to Back Up Your Android Phone &lpar;2024&rpar;](https://www.wired.com/story/how-to-backup-your-android/)
- - [The 30 Best Family Board Games &lpar;2024&rpar;: Cascadia, Labyrinth, Catan](https://www.wired.com/gallery/best-family-board-games/)
- - [How to Back Up Your iPhone to iCloud, MacOS, or Windows &lpar;2024&rpar;](https://www.wired.com/story/how-to-backup-your-iphone/)
- - [The Forerunner 165 series is the budget training watch Garmin needed](https://www.theverge.com/24107020/garmin-forerunner-165-music-review-smartwatch-wearables)<!-- TECH:END -->
+ - [How to Back Up Your Android Phone &lpar;2024&rpar;](https://www.wired.com/story/how-to-backup-your-android/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

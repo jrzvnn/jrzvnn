@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Today&#39;s generation is lost or I&#39;m toxic](http://9gag.com/gag/aXPZQRP)
- - 😝 [Descriptive title](http://9gag.com/gag/aRB6G7j)
- - 💣 [If you want to be part of the Queer Fat Club, you really have to be fat. It\u2019s a requirement.](http://9gag.com/gag/a0evDNv)
- - 😝 [Oops ! Bad calculations !](http://9gag.com/gag/aKG4NQO)
- - 👉 [No witness](http://9gag.com/gag/aD2Rqgw)<!-- MEMES:END -->
+ - 😝 [Jack black in 1992](http://9gag.com/gag/a34vz6m)
+ - 😝 [Poor Peter Parker](http://9gag.com/gag/avy2BoO)
+ - 💣 [Damn straight rob a bank with this shit](http://9gag.com/gag/azx7z2j)
+ - 😝 [Task failed successfully.](http://9gag.com/gag/ae9KE9b)
+ - 👉 [Sure, Rebecca](http://9gag.com/gag/a1mp8v2)<!-- MEMES:END -->
 
 ---
 

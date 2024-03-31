@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Youtube pianist in a nutshell](http://9gag.com/gag/aBy9bwO)
- - 😝 [Pirates are cool because they rrrrr](http://9gag.com/gag/adByWPQ)
- - 💣 [Relatable](http://9gag.com/gag/apRKnQ5)
- - 😝 [Mariano&#39;s meme folder #011](http://9gag.com/gag/aKG4NWN)
- - 👉 [The keyboard guy lol.](http://9gag.com/gag/agmrpGn)<!-- MEMES:END -->
+ - 😝 [My type of Ai](http://9gag.com/gag/aE0dyqK)
+ - 😝 [Poor Peter Parker](http://9gag.com/gag/avy2BoO)
+ - 💣 [Don\u2019t work hard, work smart](http://9gag.com/gag/aGyKNOZ)
+ - 😝 [Best scene in naruto IMO](http://9gag.com/gag/an7e0zo)
+ - 👉 [I gave up for FokOf](http://9gag.com/gag/aKG4nrg)<!-- MEMES:END -->
 
 ---
 

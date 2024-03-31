@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sure, Rebecca](http://9gag.com/gag/a1mp8v2)
- - 😝 [Police published photo of a woman who stole alcohol from local store and attacked a security guard](http://9gag.com/gag/aQz6DRd)
+ - 😝 [Mariano&#39;s meme folder #011](http://9gag.com/gag/aKG4NWN)
+ - 😝 [No witness](http://9gag.com/gag/aD2Rqgw)
  - 💣 [Goes both directions](http://9gag.com/gag/amoqbwV)
- - 😝 [Original `Makeba` from 2015. But I just remember Jameliz dancing half-naked](http://9gag.com/gag/avy2X9q)
- - 👉 [Oops ! Bad calculations !](http://9gag.com/gag/aKG4NQO)<!-- MEMES:END -->
+ - 😝 [Yearly reminder of the Value of a good nights sleep](http://9gag.com/gag/azx7oXN)
+ - 👉 [We did it boys](http://9gag.com/gag/aE0dbBO)<!-- MEMES:END -->
 
 ---
 

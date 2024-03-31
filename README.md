@@ -175,8 +175,8 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Come and liberate my malevelon creek](http://9gag.com/gag/aNDmXr6)
  - 😝 [Best scene in naruto IMO](http://9gag.com/gag/an7e0zo)
+ - 😝 [The keyboard guy lol.](http://9gag.com/gag/agmrpGn)
  - 💣 [If you want to be part of the Queer Fat Club, you really have to be fat. It\u2019s a requirement.](http://9gag.com/gag/a0evDNv)
  - 😝 [We did it boys](http://9gag.com/gag/aE0dbBO)
  - 👉 [Correct use of 3d pen...](http://9gag.com/gag/ae9KqyW)<!-- MEMES:END -->

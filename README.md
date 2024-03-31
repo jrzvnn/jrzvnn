@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mariano&#39;s meme folder #011](http://9gag.com/gag/aKG4NWN)
- - 😝 [Title](http://9gag.com/gag/agmrpAv)
- - 💣 [Police published photo of a woman who stole alcohol from local store and attacked a security guard](http://9gag.com/gag/aQz6DRd)
- - 😝 [Goes both directions](http://9gag.com/gag/amoqbwV)
- - 👉 [Yearly reminder of the Value of a good nights sleep](http://9gag.com/gag/azx7oXN)<!-- MEMES:END -->
+ - 😝 [Why men are physically more stronger than women](http://9gag.com/gag/aGyK6G0)
+ - 😝 [Yearly reminder of the Value of a good nights sleep](http://9gag.com/gag/azx7oXN)
+ - 💣 [Sure, Rebecca](http://9gag.com/gag/a1mp8v2)
+ - 😝 [No witness](http://9gag.com/gag/aD2Rqgw)
+ - 👉 [Police published photo of a woman who stole alcohol from local store and attacked a security guard](http://9gag.com/gag/aQz6DRd)<!-- MEMES:END -->
 
 ---
 

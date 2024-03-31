@@ -170,7 +170,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [March Madness 2024 Elite Eight: How to Watch Today on CBS     - CNET](https://www.cnet.com/tech/services-and-software/march-madness-2024-how-to-watch-livestream-the-ncaa-tournament-today-without-cable/#ftag=CAD590a51e)
  - [Flash sale: Best Buy drops Apple Watch Series 9 to $269, iMac to $799 today only](https://appleinsider.com/articles/24/03/31/flash-sale-best-buy-drops-apple-watch-series-9-to-269-imac-to-799-today-only?utm_medium=rss)
  - [Sleep Apnea: What to Know About the Health Impacts     - CNET](https://www.cnet.com/health/sleep/sleep-apnea/#ftag=CAD590a51e)
- - [Data from 73 Million AT&amp;T Accounts Leaked: What You Can Do to Protect Yourself     - CNET](https://www.cnet.com/tech/mobile/data-from-73-million-at-t-accounts-leaked-what-you-can-do-to-protect-yourself/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Must-Have Winter Workout Gear: The Best Jackets, Leggings, Socks and More     - CNET](https://www.cnet.com/health/fitness/best-winter-workout-gear/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snag Yourself a 1-Month Subscription of Xbox Game Pass Ultimate for Just $8     - CNET](https://www.cnet.com/deals/snag-yourself-a-1-month-subscription-of-xbox-game-pass-ultimate-for-just-8/#ftag=CAD590a51e)
  - [Demis Hassabis says the AI hype caused by a surge of money is clouding research; CB Insights: VCs invested $42.5B in 2,500 AI startup equity rounds in 2023 &lpar;John Thornhill/Financial Times&rpar;](http://www.techmeme.com/240331/p7#a240331p7)
  - [March Madness 2024 Elite Eight: How to Watch Today on CBS     - CNET](https://www.cnet.com/tech/services-and-software/march-madness-2024-how-to-watch-livestream-the-ncaa-tournament-today-without-cable/#ftag=CAD590a51e)
  - [Flash sale: Best Buy drops Apple Watch Series 9 to $269, iMac to $799 today only](https://appleinsider.com/articles/24/03/31/flash-sale-best-buy-drops-apple-watch-series-9-to-269-imac-to-799-today-only?utm_medium=rss)
- - [Sleep Apnea: What to Know About the Health Impacts     - CNET](https://www.cnet.com/health/sleep/sleep-apnea/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sleep Apnea: What to Know About the Health Impacts     - CNET](https://www.cnet.com/health/sleep/sleep-apnea/#ftag=CAD590a51e)
+ - [Must-Have Winter Workout Gear: The Best Jackets, Leggings, Socks and More     - CNET](https://www.cnet.com/health/fitness/best-winter-workout-gear/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

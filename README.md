@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Demis Hassabis says the AI hype caused by a surge of money is clouding research; CB Insights: VCs invested $42.5B in 2,500 AI startup equity rounds in 2023 &lpar;John Thornhill/Financial Times&rpar;](http://www.techmeme.com/240331/p7#a240331p7)
  - [March Madness 2024 Elite Eight: How to Watch Today on CBS     - CNET](https://www.cnet.com/tech/services-and-software/march-madness-2024-how-to-watch-livestream-the-ncaa-tournament-today-without-cable/#ftag=CAD590a51e)
  - [Flash sale: Best Buy drops Apple Watch Series 9 to $269, iMac to $799 today only](https://appleinsider.com/articles/24/03/31/flash-sale-best-buy-drops-apple-watch-series-9-to-269-imac-to-799-today-only?utm_medium=rss)
  - [Sleep Apnea: What to Know About the Health Impacts     - CNET](https://www.cnet.com/health/sleep/sleep-apnea/#ftag=CAD590a51e)
- - [Data from 73 Million AT&amp;T Accounts Leaked: What You Can Do to Protect Yourself     - CNET](https://www.cnet.com/tech/mobile/data-from-73-million-at-t-accounts-leaked-what-you-can-do-to-protect-yourself/#ftag=CAD590a51e)
- - [Best Amazon Deals: Big Savings on Heating Pads, Coffee Capsules, Security Cameras and More     - CNET](https://www.cnet.com/deals/best-amazon-deals-big-savings-on-heating-pads-coffee-capsules-security-cameras-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Data from 73 Million AT&amp;T Accounts Leaked: What You Can Do to Protect Yourself     - CNET](https://www.cnet.com/tech/mobile/data-from-73-million-at-t-accounts-leaked-what-you-can-do-to-protect-yourself/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

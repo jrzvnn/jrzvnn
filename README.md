@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pirates are cool because they rrrrr](http://9gag.com/gag/adByWPQ)
- - 😝 [Task failed successfully.](http://9gag.com/gag/ae9KE9b)
- - 💣 [Thank you!](http://9gag.com/gag/a9yje9o)
- - 😝 [Title](http://9gag.com/gag/agmrpAv)
- - 👉 [Sure, Rebecca](http://9gag.com/gag/a1mp8v2)<!-- MEMES:END -->
+ - 😝 [Today,](http://9gag.com/gag/ae9KyXB)
+ - 😝 [The story of Boji the dog](http://9gag.com/gag/a2vEAd1)
+ - 💣 [The cow was a vegan, Olivia](http://9gag.com/gag/aE0db6N)
+ - 😝 [Descriptive title](http://9gag.com/gag/aRB6G7j)
+ - 👉 [Drawing shadows](http://9gag.com/gag/a34vgPm)<!-- MEMES:END -->
 
 ---
 

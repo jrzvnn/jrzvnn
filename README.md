@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sure, Rebecca](http://9gag.com/gag/a1mp8v2)
- - 😝 [No witness](http://9gag.com/gag/aD2Rqgw)
- - 💣 [Police published photo of a woman who stole alcohol from local store and attacked a security guard](http://9gag.com/gag/aQz6DRd)
- - 😝 [Today&#39;s generation is lost or I&#39;m toxic](http://9gag.com/gag/aXPZQRP)
- - 👉 [Task failed successfully.](http://9gag.com/gag/ae9KE9b)<!-- MEMES:END -->
+ - 😝 [Some filters are just perfect](http://9gag.com/gag/aGyK6P7)
+ - 😝 [We did it boys](http://9gag.com/gag/aE0dbBO)
+ - 💣 [Correct use of 3d pen...](http://9gag.com/gag/ae9KqyW)
+ - 😝 [Your need a hug](http://9gag.com/gag/aGyKqe0)
+ - 👉 [The story of Boji the dog](http://9gag.com/gag/a2vEAd1)<!-- MEMES:END -->
 
 ---
 

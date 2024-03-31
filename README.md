@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An AI voice notes app that really works](https://www.theverge.com/2024/3/31/24116047/cleft-notes-ai-voice-spider-verse-short-steve-believers-installer-newsletter)
+ - [The T-Mobile Sidekick’s Jump button made mobile multitasking easy](https://www.theverge.com/24115039/danger-hiptop-t-mobile-sidekick-jump-button)
  - [The Brain Region That Controls Movement Also Guides Feelings](https://www.wired.com/story/cerebellum-brain-movement-feelings/)
  - [A look at AI&#39;s impact on video game actors, as some fear their voices might be misused while others hope to collect extra payments on top of a base minimum &lpar;David Smith/The Guardian&rpar;](http://www.techmeme.com/240331/p4#a240331p4)
- - [Liverpool vs. Brighton Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/liverpool-vs-brighton-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [iOS 17: Easily Turn Off Inline Predictive Text in Just 4 Steps     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-easily-turn-off-inline-predictive-text-in-just-4-steps/#ftag=CAD590a51e)
- - [You Should Update Apple iOS and Google Chrome ASAP](https://www.wired.com/story/apple-ios-google-chrome-critical-update-march/)<!-- TECH:END -->
+ - [Liverpool vs. Brighton Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/liverpool-vs-brighton-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

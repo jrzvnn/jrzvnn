@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
  - [Apple Savings APY to decrease for first time on April 3](https://appleinsider.com/articles/24/04/01/apple-savings-apy-to-decrease-for-first-time-on-april-3?utm_medium=rss)
- - [After Lawsuit, Google Commits to Destroying Incognito Browsing Data     - CNET](https://www.cnet.com/tech/services-and-software/after-lawsuit-google-commits-to-destroying-incognito-browsing-data/#ftag=CAD590a51e)
- - [Best Home Security Cameras of 2024     - CNET](https://www.cnet.com/home/security/best-home-security-camera/#ftag=CAD590a51e)
- - [April Fools’ Day 2024: the best and cringiest pranks](https://www.theverge.com/2024/4/1/24118011/april-fools-day-2024-pranks-jokes-best-worst)<!-- TECH:END -->
+ - [April Fools’ Day 2024: the best and cringiest pranks](https://www.theverge.com/2024/4/1/24118011/april-fools-day-2024-pranks-jokes-best-worst)
+ - [Cloud data management startup Rubrik files for a NYSE IPO under the symbol RBRK, discloses a net loss of $354M on revenue of $628M for the year ended January 31 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240401/p19#a240401p19)
+ - [How to mix politics with your Threads](https://www.theverge.com/24117988/threads-instagram-politics-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

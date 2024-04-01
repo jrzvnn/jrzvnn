@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft splits Teams from Office as antitrust pressure ramps up](https://www.theverge.com/2024/4/1/24117785/microsoft-teams-office-split-eu-regulation-antitrust-investigation)
  - [Flash sale: Best Buy drops Apple Watch Series 9 to $269, iMac to $799 today only](https://appleinsider.com/articles/24/03/31/flash-sale-best-buy-drops-apple-watch-series-9-to-269-imac-to-799-today-only?utm_medium=rss)
  - [Q Acoustics M40 Review: A Superb Sounding Mini All-In-One Tower](https://www.wired.com/review/q-acoustics-m40/)
  - [Filing: Donald Trump&#39;s Truth Social lost $58M+ on $4.1M in revenue during 2023; Trump Media &amp; Technology Group is valued at $7B+ after going public on March 26 &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/240401/p7#a240401p7)
- - [Garmin Forerunner 165 Review: Better Sensors, Same Great Training](https://www.wired.com/review/garmin-forerunner-165/)
- - [Interviews and Telegram messages detail how Russian middlemen used Tether to avoid US sanctions and procure parts for drones and other high-tech equipment &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240401/p6#a240401p6)<!-- TECH:END -->
+ - [Amazon Slashed Google&#39;s Pixel Phone Prices by Up to 29% for a Limited Time Only     - CNET](https://www.cnet.com/deals/amazon-slashed-googles-pixel-phone-prices-by-up-to-29-for-a-limited-time-only/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

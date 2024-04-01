@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The keyboard guy lol.](http://9gag.com/gag/agmrpGn)
- - 😝 [I don&#39;t understand fashion](http://9gag.com/gag/apRK7xb)
- - 💣 [Title](http://9gag.com/gag/a7ovBrw)
- - 😝 [Police published photo of a woman who stole alcohol from local store and attacked a security guard](http://9gag.com/gag/aQz6DRd)
- - 👉 [Ah yes, the new stealthy, totally quiet lethal trains](http://9gag.com/gag/ayNEA0y)<!-- MEMES:END -->
+ - 😝 [Descriptive title](http://9gag.com/gag/aRB6G7j)
+ - 😝 [The story of Boji the dog](http://9gag.com/gag/a2vEAd1)
+ - 💣 [Drawing shadows](http://9gag.com/gag/a34vgPm)
+ - 😝 [Hey, is that a...?](http://9gag.com/gag/abA3o2B)
+ - 👉 [I can absolutely fix her](http://9gag.com/gag/aBy9Mz2)<!-- MEMES:END -->
 
 ---
 

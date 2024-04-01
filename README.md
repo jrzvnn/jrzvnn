@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just an average asian kid nothing special keep scrollin](http://9gag.com/gag/adByMPZ)
- - 😝 [In the last 36 hours, 7000 illegal Africans have reached Lampedusa, Italy \ud83c\uddee\ud83c\uddf9](http://9gag.com/gag/a34vrM7)
- - 💣 [This is the worst version of bungy jumping I can imagine...](http://9gag.com/gag/aKG4ZOj)
- - 😝 [Ah yes, the new stealthy, totally quiet lethal trains](http://9gag.com/gag/ayNEA0y)
- - 👉 [I don&#39;t understand fashion](http://9gag.com/gag/apRK7xb)<!-- MEMES:END -->
+ - 😝 [I don&#39;t understand fashion](http://9gag.com/gag/apRK7xb)
+ - 😝 [Programming does that to the mind?](http://9gag.com/gag/aKG4ZLZ)
+ - 💣 [Ah yes, the new stealthy, totally quiet lethal trains](http://9gag.com/gag/ayNEA0y)
+ - 😝 [Hey, is that a...?](http://9gag.com/gag/abA3o2B)
+ - 👉 [Is this an ok way to do it?](http://9gag.com/gag/ajPQ3GQ)<!-- MEMES:END -->
 
 ---
 

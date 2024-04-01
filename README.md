@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [April Fools’ Day 2024: the best and cringiest pranks](https://www.theverge.com/2024/4/1/24118011/april-fools-day-2024-pranks-jokes-best-worst)
  - [Telegram now lets Premium users turn their account into a business account, with options like a custom start page, greeting and away messages, and chatbots &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240401/p18#a240401p18)
- - [Your Taxes Are Due in Two Weeks: What You Need to Know Before April 15     - CNET](https://www.cnet.com/personal-finance/taxes/your-taxes-are-due-in-two-weeks-what-you-need-to-know-before-april-15/#ftag=CAD590a51e)
  - [Canadian payments company Nuvei has agreed to be purchased and taken private by PE firm Advent International in a $6.3B deal &lpar;Josh Scott/BetaKit&rpar;](http://www.techmeme.com/240401/p17#a240401p17)
- - [Best Air Purifiers for 2024     - CNET](https://www.cnet.com/home/kitchen-and-household/best-air-purifier/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The FTC is trying to help victims of impersonation scams get their money back](https://www.theverge.com/2024/4/1/24118030/ftc-impersonation-rule-businesses-government-artificial-intelligence)
+ - [Apple researchers detail an AI system that can resolve ambiguous references to on-screen entities, in some cases better than GPT-4 can, and can run &quot;on-device&quot; &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240401/p16#a240401p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

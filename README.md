@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok Shop’s Era of Super Subsidies Is Ending](https://www.wired.com/story/tiktok-shop-era-of-super-subsidies-is-ending/)
  - [Some teens say a Snapchat+ feature that lets users see their position in their friends&#39; digital orbits, rendered as a solar system, is adding to their anxieties &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/240401/p3#a240401p3)
  - [A Ghost Ship’s Doomed Journey Through the Gate of Tears](https://www.wired.com/story/houthi-internet-cables-ship-anchor-path/)
  - [SK Hynix tops $100B in valuation as its stock rose 2x+ over the past year amid high-bandwidth memory demand; analysts: SK Hynix has 90%+ share of the latest HBM &lpar;Youkyung Lee/Bloomberg&rpar;](http://www.techmeme.com/240401/p2#a240401p2)
- - [A look at the autonomous truck industry&#39;s challenges, including a lack of federal regulation, as Aurora and Kodiak plan a major expansion in Texas this year &lpar;Trisha Thadani/Washington Post&rpar;](http://www.techmeme.com/240401/p1#a240401p1)
- - [Wordle Answer Today: Don&#39;t Click Here if You Don&#39;t Want Spoilers     - CNET](https://www.cnet.com/tech/wordle-answer-today-dont-click-here-if-you-dont-want-spoilers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at the autonomous truck industry&#39;s challenges, including a lack of federal regulation, as Aurora and Kodiak plan a major expansion in Texas this year &lpar;Trisha Thadani/Washington Post&rpar;](http://www.techmeme.com/240401/p1#a240401p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

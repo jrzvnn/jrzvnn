@@ -170,7 +170,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Everything you need to know about the upcoming solar eclipse](https://www.theverge.com/2024/4/1/24117848/total-solar-eclipse-north-america-april-how-to-watch)
  - [Apple staff offered Milanese Loop Apple Watch bands at 40% off](https://appleinsider.com/articles/24/04/01/apple-staff-offered-milanese-loop-apple-watch-bands-at-40-off?utm_medium=rss)
  - [Binance names its first board of directors, which has seven members including CEO Richard Teng and three other Binance execs &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/240401/p13#a240401p13)
- - [NYT Connections Goes All-Emoji for April Fool&#39;s Day. Our Hints and Tips     - CNET](https://www.cnet.com/tech/gaming/nyt-connections-goes-all-emoji-for-april-fools-day-our-hints-and-tips/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google agrees to destroy browsing data collected in Incognito mode](https://www.theverge.com/2024/4/1/24117929/google-incognito-browsing-data-delete-class-action-settlement)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

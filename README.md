@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [This is the worst version of bungy jumping I can imagine...](http://9gag.com/gag/aKG4ZOj)
+ - 😝 [In the last 36 hours, 7000 illegal Africans have reached Lampedusa, Italy \ud83c\uddee\ud83c\uddf9](http://9gag.com/gag/a34vrM7)
+ - 💣 [Ah yes, the new stealthy, totally quiet lethal trains](http://9gag.com/gag/ayNEA0y)
  - 😝 [Take a wild guess what happened in Itally recently.](http://9gag.com/gag/amoqy16)
- - 😝 [Poor Peter Parker](http://9gag.com/gag/avy2BoO)
- - 💣 [Poor things!](http://9gag.com/gag/adByWLZ)
- - 😝 [It was a time when money seemed worthless.](http://9gag.com/gag/aoymoLn)
- - 👉 [This is the worst version of bungy jumping I can imagine...](http://9gag.com/gag/aKG4ZOj)<!-- MEMES:END -->
+ - 👉 [I don&#39;t understand fashion](http://9gag.com/gag/apRK7xb)<!-- MEMES:END -->
 
 ---
 

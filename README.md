@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Descriptive title](http://9gag.com/gag/aRB6G7j)
- - 😝 [The story of Boji the dog](http://9gag.com/gag/a2vEAd1)
- - 💣 [Drawing shadows](http://9gag.com/gag/a34vgPm)
- - 😝 [Hey, is that a...?](http://9gag.com/gag/abA3o2B)
- - 👉 [I can absolutely fix her](http://9gag.com/gag/aBy9Mz2)<!-- MEMES:END -->
+ - 😝 [Professional victim..](http://9gag.com/gag/ajPQvGR)
+ - 😝 [Poor Peter Parker](http://9gag.com/gag/avy2BoO)
+ - 💣 [Ah yes, the new stealthy, totally quiet lethal trains](http://9gag.com/gag/ayNEA0y)
+ - 😝 [Programming does that to the mind?](http://9gag.com/gag/aKG4ZLZ)
+ - 👉 [I don&#39;t understand fashion](http://9gag.com/gag/apRK7xb)<!-- MEMES:END -->
 
 ---
 

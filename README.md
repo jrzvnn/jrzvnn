@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/a7ovBrw)
- - 😝 [Ah yes, the new stealthy, totally quiet lethal trains](http://9gag.com/gag/ayNEA0y)
- - 💣 [Take a wild guess what happened in Itally recently.](http://9gag.com/gag/amoqy16)
+ - 😝 [This is the worst version of bungy jumping I can imagine...](http://9gag.com/gag/aKG4ZOj)
+ - 😝 [I don&#39;t understand fashion](http://9gag.com/gag/apRK7xb)
+ - 💣 [Ah yes, the new stealthy, totally quiet lethal trains](http://9gag.com/gag/ayNEA0y)
  - 😝 [I&#39;m powerful doktor](http://9gag.com/gag/ajPQvp1)
- - 👉 [Professional victim..](http://9gag.com/gag/ajPQvGR)<!-- MEMES:END -->
+ - 👉 [Take a wild guess what happened in Itally recently.](http://9gag.com/gag/amoqy16)<!-- MEMES:END -->
 
 ---
 

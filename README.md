@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Professional victim..](http://9gag.com/gag/ajPQvGR)
  - 😝 [Poor Peter Parker](http://9gag.com/gag/avy2BoO)
- - 💣 [Ah yes, the new stealthy, totally quiet lethal trains](http://9gag.com/gag/ayNEA0y)
- - 😝 [Programming does that to the mind?](http://9gag.com/gag/aKG4ZLZ)
- - 👉 [I don&#39;t understand fashion](http://9gag.com/gag/apRK7xb)<!-- MEMES:END -->
+ - 😝 [Take a wild guess what happened in Itally recently.](http://9gag.com/gag/amoqy16)
+ - 💣 [I&#39;m powerful doktor](http://9gag.com/gag/ajPQvp1)
+ - 😝 [Poor things!](http://9gag.com/gag/adByWLZ)
+ - 👉 [Police published photo of a woman who stole alcohol from local store and attacked a security guard](http://9gag.com/gag/aQz6DRd)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft plans to unbundle Teams from Office 365 globally starting April 1 amid antitrust scrutiny, after a similar unbundling in EU in August 2023 &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240401/p4#a240401p4)
+ - [Are Cicadas Safe for Dogs to Eat? What to Know     - CNET](https://www.cnet.com/home/kitchen-and-household/are-cicadas-safe-for-dogs-to-eat-what-to-know/#ftag=CAD590a51e)
  - [TikTok Shop’s Era of Super Subsidies Is Ending](https://www.wired.com/story/tiktok-shop-era-of-super-subsidies-is-ending/)
- - [Some teens say a Snapchat+ feature that lets users see their position in their friends&#39; digital orbits, rendered as a solar system, is adding to their anxieties &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/240401/p3#a240401p3)
- - [A Ghost Ship’s Doomed Journey Through the Gate of Tears](https://www.wired.com/story/houthi-internet-cables-ship-anchor-path/)
- - [SK Hynix tops $100B in valuation as its stock rose 2x+ over the past year amid high-bandwidth memory demand; analysts: SK Hynix has 90%+ share of the latest HBM &lpar;Youkyung Lee/Bloomberg&rpar;](http://www.techmeme.com/240401/p2#a240401p2)
- - [A look at the autonomous truck industry&#39;s challenges, including a lack of federal regulation, as Aurora and Kodiak plan a major expansion in Texas this year &lpar;Trisha Thadani/Washington Post&rpar;](http://www.techmeme.com/240401/p1#a240401p1)<!-- TECH:END -->
+ - [Is Your iPhone Stuck on Emergency SOS Mode? Here&#39;s How to Fix It     - CNET](https://www.cnet.com/tech/mobile/is-your-iphone-stuck-on-emergency-sos-mode-heres-how-to-fix-it/#ftag=CAD590a51e)
+ - [Some teens say a Snapchat+ feature that lets users see their position in their friends&#39; digital orbits, rendered as a solar system, is adding to their anxieties &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/240401/p3#a240401p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

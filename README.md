@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple won&#39;t unlock India Prime Minister&#39;s election opponent&#39;s iPhone](https://appleinsider.com/articles/24/04/01/apple-wont-unlock-india-prime-ministers-election-opponents-iphone?utm_medium=rss)
+ - [How an iPhone Powered by Google’s Gemini AI Might Work](https://www.wired.com/story/apple-google-gemini-iphone/)
  - [Computing would be totally different had Apple not been formed 48 years ago, today](https://appleinsider.com/articles/20/04/01/apple-was-founded-44-years-ago-on-april-1-1976?utm_medium=rss)
  - [iOS 17.4 Is Out, but Don&#39;t Miss These iOS 17.2 Features     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-4-is-out-but-dont-miss-these-ios-17-2-features/#ftag=CAD590a51e)
- - [A Haunted Discord Server Is the Last Good Place Online](https://www.wired.com/story/haunted-discord-server-last-good-place/)
- - [Best TV Antenna for 2024     - CNET](https://www.cnet.com/tech/home-entertainment/best-tv-antenna/#ftag=CAD590a51e)
- - [Refinance Rates Slide Down Again: Mortgage Refinance Rates on April 1, 2024     - CNET](https://www.cnet.com/personal-finance/mortgages/refinance-rates-slide-down-again-mortgage-refinance-rates-on-april-1-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A Haunted Discord Server Is the Last Good Place Online](https://www.wired.com/story/haunted-discord-server-last-good-place/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

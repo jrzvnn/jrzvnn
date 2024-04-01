@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Damn straight rob a bank with this shit](http://9gag.com/gag/azx7z2j)
- - 😝 [Task failed successfully.](http://9gag.com/gag/ae9KE9b)
- - 💣 [Poor Peter Parker](http://9gag.com/gag/avy2BoO)
  - 😝 [Police published photo of a woman who stole alcohol from local store and attacked a security guard](http://9gag.com/gag/aQz6DRd)
- - 👉 [Is this an ok way to do it?](http://9gag.com/gag/ajPQ3GQ)<!-- MEMES:END -->
+ - 😝 [Shedding Antler](http://9gag.com/gag/aD2RqpO)
+ - 💣 [Pirates are cool because they rrrrr](http://9gag.com/gag/adByWPQ)
+ - 😝 [Descriptive title](http://9gag.com/gag/aRB6G7j)
+ - 👉 [Me doing acid](http://9gag.com/gag/azx7v2B)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Today,](http://9gag.com/gag/ae9KyXB)
- - 😝 [The story of Boji the dog](http://9gag.com/gag/a2vEAd1)
- - 💣 [The cow was a vegan, Olivia](http://9gag.com/gag/aE0db6N)
- - 😝 [Descriptive title](http://9gag.com/gag/aRB6G7j)
- - 👉 [Drawing shadows](http://9gag.com/gag/a34vgPm)<!-- MEMES:END -->
+ - 😝 [Panel of low IQ](http://9gag.com/gag/aZZqKB3)
+ - 😝 [Just an average asian kid nothing special keep scrollin](http://9gag.com/gag/adByMPZ)
+ - 💣 [Title](http://9gag.com/gag/a7ovBrw)
+ - 😝 [Today&#39;s generation is lost or I&#39;m toxic](http://9gag.com/gag/aXPZQRP)
+ - 👉 [This took me a minute](http://9gag.com/gag/axyEezK)<!-- MEMES:END -->
 
 ---
 

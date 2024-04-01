@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Poor Peter Parker](http://9gag.com/gag/avy2BoO)
- - 😝 [No witness](http://9gag.com/gag/aD2Rqgw)
- - 💣 [Poor things!](http://9gag.com/gag/adByWLZ)
  - 😝 [Take a wild guess what happened in Itally recently.](http://9gag.com/gag/amoqy16)
- - 👉 [I don&#39;t understand fashion](http://9gag.com/gag/apRK7xb)<!-- MEMES:END -->
+ - 😝 [Poor Peter Parker](http://9gag.com/gag/avy2BoO)
+ - 💣 [Poor things!](http://9gag.com/gag/adByWLZ)
+ - 😝 [It was a time when money seemed worthless.](http://9gag.com/gag/aoymoLn)
+ - 👉 [This is the worst version of bungy jumping I can imagine...](http://9gag.com/gag/aKG4ZOj)<!-- MEMES:END -->
 
 ---
 

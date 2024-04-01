@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just why not wear normal things\u2026](http://9gag.com/gag/ajPQwEg)
- - 😝 [Valid Question TBF](http://9gag.com/gag/aW4B5Rq)
- - 💣 [Jammed toast](http://9gag.com/gag/avy2wLO)
- - 😝 [She was furious. I am planing on inviting the judge to my BBQ party.](http://9gag.com/gag/aVvjrjw)
- - 👉 [Gust of wind](http://9gag.com/gag/aZZq5Z9)<!-- MEMES:END -->
+ - 😝 [Ah yes, the new stealthy, totally quiet lethal trains](http://9gag.com/gag/ayNEA0y)
+ - 😝 [I don&#39;t understand fashion](http://9gag.com/gag/apRK7xb)
+ - 💣 [This is the worst version of bungy jumping I can imagine...](http://9gag.com/gag/aKG4ZOj)
+ - 😝 [Programming does that to the mind?](http://9gag.com/gag/aKG4ZLZ)
+ - 👉 [Take a wild guess what happened in Itally recently.](http://9gag.com/gag/amoqy16)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This took me a minute](http://9gag.com/gag/axyEezK)
- - 😝 [If you know, you know...](http://9gag.com/gag/aqy4O3Q)
- - 💣 [Thank you!](http://9gag.com/gag/a9yje9o)
- - 😝 [Good Knight guys](http://9gag.com/gag/a87dN21)
- - 👉 [Just an average asian kid nothing special keep scrollin](http://9gag.com/gag/adByMPZ)<!-- MEMES:END -->
+ - 😝 [Ban this 9gag](http://9gag.com/gag/a9yje3W)
+ - 😝 [Go green, go light weight.](http://9gag.com/gag/aLn6OeA)
+ - 💣 [Descriptive title](http://9gag.com/gag/aRB6G7j)
+ - 😝 [Source unknown, but thanks for the laugh](http://9gag.com/gag/aRB68nQ)
+ - 👉 [Police published photo of a woman who stole alcohol from local store and attacked a security guard](http://9gag.com/gag/aQz6DRd)<!-- MEMES:END -->
 
 ---
 

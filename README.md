@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The perfect keychain doesn&#39;t exist...](http://9gag.com/gag/aW4B5BK)
- - 😝 [No pain no gain](http://9gag.com/gag/aO8oEEy)
- - 💣 [Descriptive title](http://9gag.com/gag/aRB6G7j)
- - 😝 [The story of Boji the dog](http://9gag.com/gag/a2vEAd1)
- - 👉 [Hey, is that a...?](http://9gag.com/gag/abA3o2B)<!-- MEMES:END -->
+ - 😝 [In the last 36 hours, 7000 illegal Africans have reached Lampedusa, Italy \ud83c\uddee\ud83c\uddf9](http://9gag.com/gag/a34vrM7)
+ - 😝 [Poor Peter Parker](http://9gag.com/gag/avy2BoO)
+ - 💣 [Take a wild guess what happened in Itally recently.](http://9gag.com/gag/amoqy16)
+ - 😝 [Ah yes, the new stealthy, totally quiet lethal trains](http://9gag.com/gag/ayNEA0y)
+ - 👉 [I don&#39;t understand fashion](http://9gag.com/gag/apRK7xb)<!-- MEMES:END -->
 
 ---
 

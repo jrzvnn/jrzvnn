@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ampere: seven movie adaptations of video games were released broadly in 2023; Comscore: movies based on video games grossed $712.2M at the US box office in 2023 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240331/p11#a240331p11)
  - [Sources: Apple suggests podcasters join its subscription program to be on its Podcast &quot;browse&quot; carousel; 5 of the first 7 podcasts last week were participants &lpar;Max Tani/Semafor&rpar;](http://www.techmeme.com/240331/p10#a240331p10)
  - [Dan Lynch, founder of Interop, a computer networking equipment exhibition that helped accelerate TCP/IP adoption and internet commercialization, dies at age 82 &lpar;Katie Hafner/New York Times&rpar;](http://www.techmeme.com/240331/p9#a240331p9)
  - [AT&amp;T vs. Xfinity: Customer-Friendly Fiber and Low-Cost Cable     - CNET](https://www.cnet.com/home/internet/att-vs-xfinity/#ftag=CAD590a51e)
- - [Samsung Galaxy Z Fold 4 Deals: Up to $1,200 Off With Verizon, Trade-In Offers     - CNET](https://www.cnet.com/deals/best-galaxy-z-fold-4-deals/#ftag=CAD590a51e)
- - [A profile of YC&#39;s Garry Tan, whose combative online persona has sparked controversies as he tries to shift SF politics from idealistic progressivism to centrism &lpar;Heather Knight/New York Times&rpar;](http://www.techmeme.com/240331/p8#a240331p8)<!-- TECH:END -->
+ - [Samsung Galaxy Z Fold 4 Deals: Up to $1,200 Off With Verizon, Trade-In Offers     - CNET](https://www.cnet.com/deals/best-galaxy-z-fold-4-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

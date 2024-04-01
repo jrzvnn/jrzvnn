@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Now you can use ChatGPT without an account](https://www.theverge.com/2024/4/1/24118007/openai-chatgpt-free-no-account-login)
+ - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
+ - [How Vice became ‘a fucking clown show’](https://www.theverge.com/24094310/vice-media-layoffs-bankruptcy-shane-smith)
  - [The 41mm Apple Watch Series 9 is on sale starting at a rare $299](https://www.theverge.com/2024/4/1/24117804/apple-watch-series-9-sennheiser-momentum-true-wireless-3-earbuds-fujifilm-instax-mini-12-deal-sale)
- - [AI search engine Perplexity, which touts on its site that search should be &quot;free from the influence of advertising-driven models&quot;, says it will sell ads &lpar;Trishla Ostwal/Adweek&rpar;](http://www.techmeme.com/240401/p11#a240401p11)
- - [Tax Return Status 2024: Where Is Your Tax Refund?     - CNET](https://www.cnet.com/personal-finance/taxes/tax-return-status-2024-where-is-your-tax-refund/#ftag=CAD590a51e)
- - [Save Hundreds on This Bluetti Portable Power Station and Solar Panel Bundle     - CNET](https://www.cnet.com/deals/save-hundreds-on-this-bluetti-portable-power-station-and-solar-panel-bundle/#ftag=CAD590a51e)
- - [A New Most Efficient Residential Solar Panel Is On Its Way     - CNET](https://www.cnet.com/home/energy-and-utilities/a-new-most-efficient-residential-solar-panel-is-on-its-way/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AI search engine Perplexity, whose website says that search should be &quot;free from the influence of advertising-driven models&quot;, says the startup plans to sell ads &lpar;Trishla Ostwal/Adweek&rpar;](http://www.techmeme.com/240401/p11#a240401p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

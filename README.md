@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No witness](http://9gag.com/gag/aD2Rqgw)
- - 😝 [I can absolutely fix her](http://9gag.com/gag/aBy9Mz2)
- - 💣 [Prank backfires in the most satisfying way](http://9gag.com/gag/avy2VRZ)
- - 😝 [Thank you!](http://9gag.com/gag/a9yje9o)
- - 👉 [Police published photo of a woman who stole alcohol from local store and attacked a security guard](http://9gag.com/gag/aQz6DRd)<!-- MEMES:END -->
+ - 😝 [Descriptive title](http://9gag.com/gag/aRB6G7j)
+ - 😝 [Today,](http://9gag.com/gag/ae9KyXB)
+ - 💣 [Drawing shadows](http://9gag.com/gag/a34vgPm)
+ - 😝 [Hey, is that a...?](http://9gag.com/gag/abA3o2B)
+ - 👉 [The perfect keychain doesn&#39;t exist...](http://9gag.com/gag/aW4B5BK)<!-- MEMES:END -->
 
 ---
 

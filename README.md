@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US and UK sign an agreement on how to test and assess risks from emerging AI models, marking the first bilateral arrangement on AI safety in the world &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/240401/p22#a240401p22)
+ - [Samsung says Bixby’s still not dead](https://www.theverge.com/2024/4/1/24118253/samsung-galaxy-ai-bixby-voice-assistant)
+ - [Trump Media &amp; Technology Group closed down 21% on April 1, wiping out the gains from last week, after it disclosed a $58M+ loss on $4.1M in revenue in 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/240401/p21#a240401p21)
  - [Sources: Tiger raised ~$2.2B for its latest fund, well short of the $6B target and its smallest fundraising haul in about a decade, after raising a $12.7B fund &lpar;Hema Parmar/Bloomberg&rpar;](http://www.techmeme.com/240401/p20#a240401p20)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [Apple Savings APY to decrease for first time on April 3](https://appleinsider.com/articles/24/04/01/apple-savings-apy-to-decrease-for-first-time-on-april-3?utm_medium=rss)
- - [After Lawsuit, Google Commits to Destroying Incognito Browsing Data     - CNET](https://www.cnet.com/tech/services-and-software/after-lawsuit-google-commits-to-destroying-incognito-browsing-data/#ftag=CAD590a51e)
- - [Best Home Security Cameras of 2024     - CNET](https://www.cnet.com/home/security/best-home-security-camera/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

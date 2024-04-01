@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Computing would be totally different had Apple not been formed 48 years ago, today](https://appleinsider.com/articles/20/04/01/apple-was-founded-44-years-ago-on-april-1-1976?utm_medium=rss)
+ - [A Haunted Discord Server Is the Last Good Place Online](https://www.wired.com/story/haunted-discord-server-last-good-place/)
  - [Microsoft plans to unbundle Teams from Office 365 globally starting April 1 amid antitrust scrutiny, after a similar unbundling in EU in August 2023 &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240401/p4#a240401p4)
  - [Are Cicadas Safe for Dogs to Eat? What to Know     - CNET](https://www.cnet.com/home/kitchen-and-household/are-cicadas-safe-for-dogs-to-eat-what-to-know/#ftag=CAD590a51e)
- - [TikTok Shop’s Era of Super Subsidies Is Ending](https://www.wired.com/story/tiktok-shop-era-of-super-subsidies-is-ending/)
- - [Is Your iPhone Stuck on Emergency SOS Mode? Here&#39;s How to Fix It     - CNET](https://www.cnet.com/tech/mobile/is-your-iphone-stuck-on-emergency-sos-mode-heres-how-to-fix-it/#ftag=CAD590a51e)
- - [Some teens say a Snapchat+ feature that lets users see their position in their friends&#39; digital orbits, rendered as a solar system, is adding to their anxieties &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/240401/p3#a240401p3)<!-- TECH:END -->
+ - [TikTok Shop’s Era of Super Subsidies Is Ending](https://www.wired.com/story/tiktok-shop-era-of-super-subsidies-is-ending/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

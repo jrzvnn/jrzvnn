@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is one of the best movies I&#39;ve watched.](http://9gag.com/gag/aNDmGM4)
+ - 😝 [If you know, you know...](http://9gag.com/gag/aqy4O3Q)
+ - 😝 [Damn straight rob a bank with this shit](http://9gag.com/gag/azx7z2j)
+ - 💣 [Good Knight guys](http://9gag.com/gag/a87dN21)
  - 😝 [I can absolutely fix her](http://9gag.com/gag/aBy9Mz2)
- - 💣 [Descriptive title](http://9gag.com/gag/aRB6G7j)
- - 😝 [Hey, is that a...?](http://9gag.com/gag/abA3o2B)
  - 👉 [Just an average asian kid nothing special keep scrollin](http://9gag.com/gag/adByMPZ)<!-- MEMES:END -->
 
 ---

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I don&#39;t understand fashion](http://9gag.com/gag/apRK7xb)
- - 😝 [Thank you!](http://9gag.com/gag/a9yje9o)
- - 💣 [The keyboard guy lol.](http://9gag.com/gag/agmrpGn)
- - 😝 [Poor Peter Parker](http://9gag.com/gag/avy2BoO)
- - 👉 [No witness](http://9gag.com/gag/aD2Rqgw)<!-- MEMES:END -->
+ - 😝 [I can absolutely fix her](http://9gag.com/gag/aBy9Mz2)
+ - 😝 [Pirates are cool because they rrrrr](http://9gag.com/gag/adByWPQ)
+ - 💣 [Lots of childhood fights were solved this way](http://9gag.com/gag/awyN9OQ)
+ - 😝 [Ah yes, the new stealthy, totally quiet lethal trains](http://9gag.com/gag/ayNEA0y)
+ - 👉 [Poor Peter Parker](http://9gag.com/gag/avy2BoO)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/a7ovBrw)
- - 😝 [Pirates are cool because they rrrrr](http://9gag.com/gag/adByWPQ)
- - 💣 [This is the worst version of bungy jumping I can imagine...](http://9gag.com/gag/aKG4ZOj)
- - 😝 [Poor Peter Parker](http://9gag.com/gag/avy2BoO)
- - 👉 [Police published photo of a woman who stole alcohol from local store and attacked a security guard](http://9gag.com/gag/aQz6DRd)<!-- MEMES:END -->
+ - 😝 [The keyboard guy lol.](http://9gag.com/gag/agmrpGn)
+ - 😝 [Task failed successfully.](http://9gag.com/gag/ae9KE9b)
+ - 💣 [I don&#39;t understand fashion](http://9gag.com/gag/apRK7xb)
+ - 😝 [This is the worst version of bungy jumping I can imagine...](http://9gag.com/gag/aKG4ZOj)
+ - 👉 [Poor Peter Parker](http://9gag.com/gag/avy2BoO)<!-- MEMES:END -->
 
 ---
 

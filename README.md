@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple researchers detail an AI system that can resolve ambiguous references to on-screen entities, in some cases better than GPT-4 can, and can run &quot;on-device&quot; &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240401/p16#a240401p16)
+ - [Tekken fans pester developer to add a Waffle House stage](https://www.theverge.com/2024/4/1/24118093/tekken-waffle-house-stage-harada-fighting-games-anthony-bourdain)
  - [April Fools’ Day 2024: the best and cringiest pranks](https://www.theverge.com/2024/4/1/24118011/april-fools-day-2024-pranks-jokes-best-worst)
  - [AltStore, an alt iOS app store coming to EU thanks to DMA, plans to use a Patreon integration to let devs tie access to their apps to users&#39; Patreon pledges &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240401/p15#a240401p15)
- - [To highlight an attack vector, a researcher made a package with a name hallucinated by ChatGPT; it had 30K+ downloads in three months and appeared in many repos &lpar;Lasso Security&rpar;](http://www.techmeme.com/240401/p14#a240401p14)
- - [Everything you need to know about the upcoming solar eclipse](https://www.theverge.com/2024/4/1/24117848/total-solar-eclipse-north-america-april-how-to-watch)
- - [Apple staff offered Milanese Loop Apple Watch bands at 40% off](https://appleinsider.com/articles/24/04/01/apple-staff-offered-milanese-loop-apple-watch-bands-at-40-off?utm_medium=rss)<!-- TECH:END -->
+ - [To highlight an attack vector, a researcher made a package with a name hallucinated by ChatGPT; it had 30K+ downloads in three months and appeared in many repos &lpar;Lasso Security&rpar;](http://www.techmeme.com/240401/p14#a240401p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

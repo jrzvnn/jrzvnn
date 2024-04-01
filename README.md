@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I can absolutely fix her](http://9gag.com/gag/aBy9Mz2)
+ - 😝 [Title](http://9gag.com/gag/a7ovBrw)
  - 😝 [Pirates are cool because they rrrrr](http://9gag.com/gag/adByWPQ)
- - 💣 [Lots of childhood fights were solved this way](http://9gag.com/gag/awyN9OQ)
- - 😝 [Ah yes, the new stealthy, totally quiet lethal trains](http://9gag.com/gag/ayNEA0y)
- - 👉 [Poor Peter Parker](http://9gag.com/gag/avy2BoO)<!-- MEMES:END -->
+ - 💣 [This is the worst version of bungy jumping I can imagine...](http://9gag.com/gag/aKG4ZOj)
+ - 😝 [Poor Peter Parker](http://9gag.com/gag/avy2BoO)
+ - 👉 [Police published photo of a woman who stole alcohol from local store and attacked a security guard](http://9gag.com/gag/aQz6DRd)<!-- MEMES:END -->
 
 ---
 

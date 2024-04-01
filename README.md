@@ -166,10 +166,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [April Fools’ Day 2024: the best and cringiest pranks](https://www.theverge.com/2024/4/1/24118011/april-fools-day-2024-pranks-jokes-best-worst)
  - [Cloud data management startup Rubrik files for a NYSE IPO under the symbol RBRK, discloses a net loss of $354M on revenue of $628M for the year ended January 31 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240401/p19#a240401p19)
  - [How to mix politics with your Threads](https://www.theverge.com/24117988/threads-instagram-politics-how-to)
  - [The Incognito Mode Myth Has Fully Unraveled](https://www.wired.com/story/google-chrome-incognito-mode-data-deletion-settlement/)
- - [April Fools’ Day 2024: the best and cringiest pranks](https://www.theverge.com/2024/4/1/24118011/april-fools-day-2024-pranks-jokes-best-worst)
  - [Apple AI research: ReALM is smaller, faster than GPT-4 when parsing contextual data](https://appleinsider.com/articles/24/04/01/apple-ai-research-realm-is-smaller-faster-than-gpt-4-when-parsing-contextual-data?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

@@ -169,8 +169,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [The US and UK sign an agreement on how to test and assess risks from emerging AI models, marking the first bilateral arrangement on AI safety in the world &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/240401/p22#a240401p22)
  - [Samsung says Bixby’s still not dead](https://www.theverge.com/2024/4/1/24118253/samsung-galaxy-ai-bixby-voice-assistant)
  - [Trump Media &amp; Technology Group closed down 21% on April 1, wiping out the gains from last week, after it disclosed a $58M+ loss on $4.1M in revenue in 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/240401/p21#a240401p21)
- - [Sources: Tiger raised ~$2.2B for its latest fund, well short of the $6B target and its smallest fundraising haul in about a decade, after raising a $12.7B fund &lpar;Hema Parmar/Bloomberg&rpar;](http://www.techmeme.com/240401/p20#a240401p20)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)<!-- TECH:END -->
+ - [The Best Luxury Gifts for Those Who Appreciate the Finer Things     - CNET](https://www.cnet.com/news/best-luxury-gifts/#ftag=CAD590a51e)
+ - [Best Xbox Deals: Save Up to $110 on Controllers, Subscriptions and More     - CNET](https://www.cnet.com/deals/best-xbox-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

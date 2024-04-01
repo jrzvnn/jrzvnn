@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Ghost Ship’s Doomed Journey Through the Gate of Tears](https://www.wired.com/story/houthi-internet-cables-ship-anchor-path/)
  - [SK Hynix tops $100B in valuation as its stock rose 2x+ over the past year amid high-bandwidth memory demand; analysts: SK Hynix has 90%+ share of the latest HBM &lpar;Youkyung Lee/Bloomberg&rpar;](http://www.techmeme.com/240401/p2#a240401p2)
  - [A look at the autonomous truck industry&#39;s challenges, including a lack of federal regulation, as Aurora and Kodiak plan a major expansion in Texas this year &lpar;Trisha Thadani/Washington Post&rpar;](http://www.techmeme.com/240401/p1#a240401p1)
  - [Wordle Answer Today: Don&#39;t Click Here if You Don&#39;t Want Spoilers     - CNET](https://www.cnet.com/tech/wordle-answer-today-dont-click-here-if-you-dont-want-spoilers/#ftag=CAD590a51e)
- - [Ampere: seven movie adaptations of video games were released broadly in 2023; Comscore: movies based on video games grossed $712.2M at the US box office in 2023 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240331/p11#a240331p11)
- - [Sources: Apple suggests podcasters join its subscription program to be on its Podcast &quot;browse&quot; carousel; 5 of the first 7 podcasts last week were participants &lpar;Max Tani/Semafor&rpar;](http://www.techmeme.com/240331/p10#a240331p10)<!-- TECH:END -->
+ - [Ampere: seven movie adaptations of video games were released broadly in 2023; Comscore: movies based on video games grossed $712.2M at the US box office in 2023 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240331/p11#a240331p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

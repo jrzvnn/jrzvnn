@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Incognito Mode Myth Has Fully Unraveled](https://www.wired.com/story/google-chrome-incognito-mode-data-deletion-settlement/)
  - [April Fools’ Day 2024: the best and cringiest pranks](https://www.theverge.com/2024/4/1/24118011/april-fools-day-2024-pranks-jokes-best-worst)
  - [Apple AI research: ReALM is smaller, faster than GPT-4 when parsing contextual data](https://appleinsider.com/articles/24/04/01/apple-ai-research-realm-is-smaller-faster-than-gpt-4-when-parsing-contextual-data?utm_medium=rss)
- - [Telegram now lets Premium users turn their account into a business account, with options like a custom start page, greeting and away messages, and chatbots &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240401/p18#a240401p18)
- - [Your Taxes Are Due in Two Weeks: What You Need to Know Before April 15     - CNET](https://www.cnet.com/personal-finance/taxes/your-taxes-are-due-in-two-weeks-what-you-need-to-know-before-april-15/#ftag=CAD590a51e)
- - [Canadian payments company Nuvei has agreed to be purchased and taken private by PE firm Advent International in a $6.3B deal &lpar;Josh Scott/BetaKit&rpar;](http://www.techmeme.com/240401/p17#a240401p17)<!-- TECH:END -->
+ - [Best Mattress for Adjustable Beds in 2024     - CNET](https://www.cnet.com/health/sleep/best-adjustable-mattress/#ftag=CAD590a51e)
+ - [Best Smart Home Gyms for 2024     - CNET](https://www.cnet.com/health/fitness/best-smart-home-gym/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

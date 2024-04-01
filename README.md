@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Descriptive title](http://9gag.com/gag/aRB6G7j)
- - 😝 [Prank backfires in the most satisfying way](http://9gag.com/gag/avy2VRZ)
- - 💣 [This took me a minute](http://9gag.com/gag/axyEezK)
- - 😝 [Poor Peter Parker](http://9gag.com/gag/avy2BoO)
+ - 😝 [This is one of the best movies I&#39;ve watched.](http://9gag.com/gag/aNDmGM4)
+ - 😝 [I can absolutely fix her](http://9gag.com/gag/aBy9Mz2)
+ - 💣 [Descriptive title](http://9gag.com/gag/aRB6G7j)
+ - 😝 [Hey, is that a...?](http://9gag.com/gag/abA3o2B)
  - 👉 [Just an average asian kid nothing special keep scrollin](http://9gag.com/gag/adByMPZ)<!-- MEMES:END -->
 
 ---

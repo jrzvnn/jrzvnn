@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Garmin Forerunner 165 Review: Better Sensors, Same Great Training](https://www.wired.com/review/garmin-forerunner-165/)
  - [Interviews and Telegram messages detail how Russian middlemen used Tether to avoid US sanctions and procure parts for drones and other high-tech equipment &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240401/p6#a240401p6)
  - [Several senators overseeing anti-Apple regulations controversially hold shares](https://appleinsider.com/articles/24/04/01/several-senators-overseeing-anti-apple-regulations-controversially-hold-shares?utm_medium=rss)
  - [20 years of Gmail](https://www.theverge.com/24113616/gmail-email-20-years-old-internet)
- - [Spring Cleaning: Clear Your iPhone Cache     - CNET](https://www.cnet.com/tech/services-and-software/spring-cleaning-clear-your-iphone-cache/#ftag=CAD590a51e)
- - [Hallucinations: Why AI Makes Stuff Up, and What&#39;s Being Done About It     - CNET](https://www.cnet.com/tech/hallucinations-why-ai-makes-stuff-up-and-whats-being-done-about-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Spring Cleaning: Clear Your iPhone Cache     - CNET](https://www.cnet.com/tech/services-and-software/spring-cleaning-clear-your-iphone-cache/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

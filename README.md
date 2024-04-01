@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [I don&#39;t understand fashion](http://9gag.com/gag/apRK7xb)
- - 😝 [Pirates are cool because they rrrrr](http://9gag.com/gag/adByWPQ)
- - 💣 [Police published photo of a woman who stole alcohol from local store and attacked a security guard](http://9gag.com/gag/aQz6DRd)
- - 😝 [This is the worst version of bungy jumping I can imagine...](http://9gag.com/gag/aKG4ZOj)
- - 👉 [Task failed successfully.](http://9gag.com/gag/ae9KE9b)<!-- MEMES:END -->
+ - 😝 [Thank you!](http://9gag.com/gag/a9yje9o)
+ - 💣 [The keyboard guy lol.](http://9gag.com/gag/agmrpGn)
+ - 😝 [Poor Peter Parker](http://9gag.com/gag/avy2BoO)
+ - 👉 [No witness](http://9gag.com/gag/aD2Rqgw)<!-- MEMES:END -->
 
 ---
 

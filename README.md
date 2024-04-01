@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Matt Farley, who has released thousands of songs under various pseudonyms on streaming services with the goal of matching nearly any search query &lpar;Brett Martin/New York Times&rpar;](http://www.techmeme.com/240401/p8#a240401p8)
+ - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)
+ - [Best Grills &lpar;2024&rpar;: Charcoal, Gas, Pellet, Hybrid, and Grilling Accessories](https://www.wired.com/gallery/best-grills/)
  - [Microsoft splits Teams from Office as antitrust pressure ramps up](https://www.theverge.com/2024/4/1/24117785/microsoft-teams-office-split-eu-regulation-antitrust-investigation)
- - [Flash sale: Best Buy drops Apple Watch Series 9 to $269, iMac to $799 today only](https://appleinsider.com/articles/24/03/31/flash-sale-best-buy-drops-apple-watch-series-9-to-269-imac-to-799-today-only?utm_medium=rss)
- - [Q Acoustics M40 Review: A Superb Sounding Mini All-In-One Tower](https://www.wired.com/review/q-acoustics-m40/)
- - [Filing: Donald Trump&#39;s Truth Social lost $58M+ on $4.1M in revenue during 2023; Trump Media &amp; Technology Group is valued at $7B+ after going public on March 26 &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/240401/p7#a240401p7)
- - [Amazon Slashed Google&#39;s Pixel Phone Prices by Up to 29% for a Limited Time Only     - CNET](https://www.cnet.com/deals/amazon-slashed-googles-pixel-phone-prices-by-up-to-29-for-a-limited-time-only/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Flash sale: Best Buy drops Apple Watch Series 9 to $269, iMac to $799 today only](https://appleinsider.com/articles/24/03/31/flash-sale-best-buy-drops-apple-watch-series-9-to-269-imac-to-799-today-only?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

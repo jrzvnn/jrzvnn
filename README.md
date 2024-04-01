@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Apple won&#39;t unlock India Prime Minister&#39;s election opponent&#39;s iPhone](https://appleinsider.com/articles/24/04/01/apple-wont-unlock-india-prime-ministers-election-opponents-iphone?utm_medium=rss)
+ - [Xbox Game Pass Ultimate: You Can Play Diablo 4 Now, and More Soon     - CNET](https://www.cnet.com/tech/gaming/xbox-game-pass-ultimate-you-can-play-diablo-4-now-more-soon/#ftag=CAD590a51e)
+ - [Sorry, April Streaming Is Kinda Heavy. You Should Keep All These Services     - CNET](https://www.cnet.com/tech/services-and-software/sorry-april-streaming-is-kinda-heavy-you-should-keep-all-these-services/#ftag=CAD590a51e)
  - [How an iPhone Powered by Google’s Gemini AI Might Work](https://www.wired.com/story/apple-google-gemini-iphone/)
- - [Computing would be totally different had Apple not been formed 48 years ago, today](https://appleinsider.com/articles/20/04/01/apple-was-founded-44-years-ago-on-april-1-1976?utm_medium=rss)
- - [iOS 17.4 Is Out, but Don&#39;t Miss These iOS 17.2 Features     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-4-is-out-but-dont-miss-these-ios-17-2-features/#ftag=CAD590a51e)
- - [A Haunted Discord Server Is the Last Good Place Online](https://www.wired.com/story/haunted-discord-server-last-good-place/)<!-- TECH:END -->
+ - [Rates Fall for Prospective Buyers: Mortgage Rates on April 1, 2024     - CNET](https://www.cnet.com/personal-finance/mortgages/rates-fall-for-prospective-buyers-mortgage-rates-on-april-1-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

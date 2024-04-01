@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: OpenAI discussed training GPT-5 on public YouTube video transcripts; AI industry&#39;s need for high-quality text data may outstrip supply within two years &lpar;Deepa Seetharaman/Wall Street Journal&rpar;](http://www.techmeme.com/240401/p5#a240401p5)
  - [Apple won&#39;t unlock India Prime Minister&#39;s election opponent&#39;s iPhone](https://appleinsider.com/articles/24/04/01/apple-wont-unlock-india-prime-ministers-election-opponents-iphone?utm_medium=rss)
  - [Xbox Game Pass Ultimate: You Can Play Diablo 4 Now, and More Soon     - CNET](https://www.cnet.com/tech/gaming/xbox-game-pass-ultimate-you-can-play-diablo-4-now-more-soon/#ftag=CAD590a51e)
  - [Sorry, April Streaming Is Kinda Heavy. You Should Keep All These Services     - CNET](https://www.cnet.com/tech/services-and-software/sorry-april-streaming-is-kinda-heavy-you-should-keep-all-these-services/#ftag=CAD590a51e)
- - [How an iPhone Powered by Google’s Gemini AI Might Work](https://www.wired.com/story/apple-google-gemini-iphone/)
- - [Rates Fall for Prospective Buyers: Mortgage Rates on April 1, 2024     - CNET](https://www.cnet.com/personal-finance/mortgages/rates-fall-for-prospective-buyers-mortgage-rates-on-april-1-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How an iPhone Powered by Google’s Gemini AI Might Work](https://www.wired.com/story/apple-google-gemini-iphone/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Poor Peter Parker](http://9gag.com/gag/avy2BoO)
- - 😝 [Take a wild guess what happened in Itally recently.](http://9gag.com/gag/amoqy16)
- - 💣 [I&#39;m powerful doktor](http://9gag.com/gag/ajPQvp1)
- - 😝 [Poor things!](http://9gag.com/gag/adByWLZ)
- - 👉 [Police published photo of a woman who stole alcohol from local store and attacked a security guard](http://9gag.com/gag/aQz6DRd)<!-- MEMES:END -->
+ - 😝 [The perfect keychain doesn&#39;t exist...](http://9gag.com/gag/aW4B5BK)
+ - 😝 [No pain no gain](http://9gag.com/gag/aO8oEEy)
+ - 💣 [Descriptive title](http://9gag.com/gag/aRB6G7j)
+ - 😝 [The story of Boji the dog](http://9gag.com/gag/a2vEAd1)
+ - 👉 [Hey, is that a...?](http://9gag.com/gag/abA3o2B)<!-- MEMES:END -->
 
 ---
 

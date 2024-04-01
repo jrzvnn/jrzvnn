@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AltStore, an alt iOS app store coming to EU thanks to DMA, plans to use a Patreon integration to let devs tie access to their apps to users&#39; Patreon pledges &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240401/p15#a240401p15)
  - [To highlight an attack vector, a researcher made a package with a name hallucinated by ChatGPT; it had 30K+ downloads in three months and appeared in many repos &lpar;Lasso Security&rpar;](http://www.techmeme.com/240401/p14#a240401p14)
  - [Everything you need to know about the upcoming solar eclipse](https://www.theverge.com/2024/4/1/24117848/total-solar-eclipse-north-america-april-how-to-watch)
  - [Apple staff offered Milanese Loop Apple Watch bands at 40% off](https://appleinsider.com/articles/24/04/01/apple-staff-offered-milanese-loop-apple-watch-bands-at-40-off?utm_medium=rss)
- - [Binance names its first board of directors, which has seven members including CEO Richard Teng and three other Binance execs &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/240401/p13#a240401p13)
- - [NYT Connections Goes All-Emoji for April Fool&#39;s Day. Our Hints and Tips     - CNET](https://www.cnet.com/tech/gaming/nyt-connections-goes-all-emoji-for-april-fools-day-our-hints-and-tips/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Binance names its first board of directors, which has seven members including CEO Richard Teng and three other Binance execs &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/240401/p13#a240401p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

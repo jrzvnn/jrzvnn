@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [To bully a security guard](http://9gag.com/gag/aXPZ16z)
  - 😝 [Just why not wear normal things\u2026](http://9gag.com/gag/ajPQwEg)
- - 💣 [Valid Question TBF](http://9gag.com/gag/aW4B5Rq)
- - 😝 [Jammed toast](http://9gag.com/gag/avy2wLO)
- - 👉 [She was furious. I am planing on inviting the judge to my BBQ party.](http://9gag.com/gag/aVvjrjw)<!-- MEMES:END -->
+ - 😝 [Valid Question TBF](http://9gag.com/gag/aW4B5Rq)
+ - 💣 [Jammed toast](http://9gag.com/gag/avy2wLO)
+ - 😝 [She was furious. I am planing on inviting the judge to my BBQ party.](http://9gag.com/gag/aVvjrjw)
+ - 👉 [Gust of wind](http://9gag.com/gag/aZZq5Z9)<!-- MEMES:END -->
 
 ---
 

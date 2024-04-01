@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ban this 9gag](http://9gag.com/gag/a9yje3W)
- - 😝 [Go green, go light weight.](http://9gag.com/gag/aLn6OeA)
- - 💣 [Descriptive title](http://9gag.com/gag/aRB6G7j)
- - 😝 [Source unknown, but thanks for the laugh](http://9gag.com/gag/aRB68nQ)
- - 👉 [Police published photo of a woman who stole alcohol from local store and attacked a security guard](http://9gag.com/gag/aQz6DRd)<!-- MEMES:END -->
+ - 😝 [Damn straight rob a bank with this shit](http://9gag.com/gag/azx7z2j)
+ - 😝 [Task failed successfully.](http://9gag.com/gag/ae9KE9b)
+ - 💣 [Poor Peter Parker](http://9gag.com/gag/avy2BoO)
+ - 😝 [Police published photo of a woman who stole alcohol from local store and attacked a security guard](http://9gag.com/gag/aQz6DRd)
+ - 👉 [Is this an ok way to do it?](http://9gag.com/gag/ajPQ3GQ)<!-- MEMES:END -->
 
 ---
 

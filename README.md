@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Copsmart](http://9gag.com/gag/ajPQv8q)
- - 😝 [Good Knight guys](http://9gag.com/gag/a87dN21)
- - 💣 [I don&#39;t understand fashion](http://9gag.com/gag/apRK7xb)
- - 😝 [Take a wild guess what happened in Itally recently.](http://9gag.com/gag/amoqy16)
- - 👉 [I&#39;m powerful doktor](http://9gag.com/gag/ajPQvp1)<!-- MEMES:END -->
+ - 😝 [Valid Question TBF](http://9gag.com/gag/aW4B5Rq)
+ - 😝 [This is the worst version of bungy jumping I can imagine...](http://9gag.com/gag/aKG4ZOj)
+ - 💣 [Programming does that to the mind?](http://9gag.com/gag/aKG4ZLZ)
+ - 😝 [My kind of woman](http://9gag.com/gag/ary1wzB)
+ - 👉 [Mother daughter combo](http://9gag.com/gag/aD2Rv0B)<!-- MEMES:END -->
 
 ---
 

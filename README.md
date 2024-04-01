@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to cross-post your Threads posts to the fediverse](https://www.theverge.com/24107998/threads-fediverse-mastodon-how-to)
  - [Filing: Sam Altman no longer controls the OpenAI Startup Fund, which has a $325M+ gross asset value; Ian Hathaway, who has helped manage the fund, is in charge &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/240401/p9#a240401p9)
  - [The IRS Owes $1B in Refunds to 940,000 Taxpayers from 2021. How to Claim Your Money     - CNET](https://www.cnet.com/personal-finance/the-irs-owes-1b-in-refunds-to-940000-taxpayers-from-2021-how-to-claim-your-money/#ftag=CAD590a51e)
  - [Better Refinance Options for Homeowners: Mortgage Refinance Rates on April 1, 2024     - CNET](https://www.cnet.com/personal-finance/refinance-rates-slide-down-again-mortgage-refinance-rates-on-april-1-2024/#ftag=CAD590a51e)
- - [EU issues edict: April Fools must be observed daily](https://appleinsider.com/articles/24/04/01/eu-issues-edict-april-fools-must-be-observed-daily?utm_medium=rss)
- - [Mailchimp CEO Rania Succar explains why an email company makes sense for Intuit](https://www.theverge.com/24115515/intuit-mailchimp-ceo-rania-succar-acquisition-email-marketing-ai-small-business-decoder-interview)<!-- TECH:END -->
+ - [EU issues edict: April Fools must be observed daily](https://appleinsider.com/articles/24/04/01/eu-issues-edict-april-fools-must-be-observed-daily?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

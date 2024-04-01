@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Police published photo of a woman who stole alcohol from local store and attacked a security guard](http://9gag.com/gag/aQz6DRd)
- - 😝 [Shedding Antler](http://9gag.com/gag/aD2RqpO)
- - 💣 [Pirates are cool because they rrrrr](http://9gag.com/gag/adByWPQ)
+ - 😝 [From eating disorder to sex change - insanity in Canada](http://9gag.com/gag/aMVe7qR)
+ - 😝 [The story of Boji the dog](http://9gag.com/gag/a2vEAd1)
+ - 💣 [Today,](http://9gag.com/gag/ae9KyXB)
  - 😝 [Descriptive title](http://9gag.com/gag/aRB6G7j)
- - 👉 [Me doing acid](http://9gag.com/gag/azx7v2B)<!-- MEMES:END -->
+ - 👉 [Drawing shadows](http://9gag.com/gag/a34vgPm)<!-- MEMES:END -->
 
 ---
 

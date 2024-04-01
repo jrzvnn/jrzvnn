@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Brainless but woodable goth.](http://9gag.com/gag/aYQjBA0)
+ - 😝 [In the last 36 hours, 7000 illegal Africans have reached Lampedusa, Italy \ud83c\uddee\ud83c\uddf9](http://9gag.com/gag/a34vrM7)
  - 😝 [This is the worst version of bungy jumping I can imagine...](http://9gag.com/gag/aKG4ZOj)
  - 💣 [I don&#39;t understand fashion](http://9gag.com/gag/apRK7xb)
- - 😝 [I&#39;m powerful doktor](http://9gag.com/gag/ajPQvp1)
+ - 😝 [Take a wild guess what happened in Itally recently.](http://9gag.com/gag/amoqy16)
  - 👉 [Gust of wind](http://9gag.com/gag/aZZq5Z9)<!-- MEMES:END -->
 
 ---

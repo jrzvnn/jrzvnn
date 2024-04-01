@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 41mm Apple Watch Series 9 is on sale starting at a rare $299](https://www.theverge.com/2024/4/1/24117804/apple-watch-series-9-sennheiser-momentum-true-wireless-3-earbuds-fujifilm-instax-mini-12-deal-sale)
  - [AI search engine Perplexity, which touts on its site that search should be &quot;free from the influence of advertising-driven models&quot;, says it will sell ads &lpar;Trishla Ostwal/Adweek&rpar;](http://www.techmeme.com/240401/p11#a240401p11)
  - [Loop Capital cuts AAPL price target to $170 over weak iPhone demand](https://appleinsider.com/articles/24/04/01/loop-capital-cuts-aapl-price-target-to-170-over-weak-iphone-demand?utm_medium=rss)
  - [Filing: to settle a 2020 class action suit about Chrome&#39;s Incognito mode, Google has agreed to destroy billions of data points it allegedly improperly collected &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240401/p10#a240401p10)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [macOS 15 will get a big AI boost: what to expect at WWDC 2024](https://appleinsider.com/articles/24/04/01/macos-15-will-get-a-big-ai-boost-what-to-expect-at-wwdc-2024?utm_medium=rss)<!-- TECH:END -->
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

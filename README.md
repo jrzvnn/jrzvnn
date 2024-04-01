@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EU issues edict: April Fools must be observed daily](https://appleinsider.com/articles/24/04/01/eu-issues-edict-april-fools-must-be-observed-daily?utm_medium=rss)
+ - [Mailchimp CEO Rania Succar explains why an email company makes sense for Intuit](https://www.theverge.com/24115515/intuit-mailchimp-ceo-rania-succar-acquisition-email-marketing-ai-small-business-decoder-interview)
  - [A profile of Matt Farley, who has released thousands of songs under various pseudonyms on streaming services with the goal of matching nearly any search query &lpar;Brett Martin/New York Times&rpar;](http://www.techmeme.com/240401/p8#a240401p8)
  - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)
- - [Best Grills &lpar;2024&rpar;: Charcoal, Gas, Pellet, Hybrid, and Grilling Accessories](https://www.wired.com/gallery/best-grills/)
- - [Microsoft splits Teams from Office as antitrust pressure ramps up](https://www.theverge.com/2024/4/1/24117785/microsoft-teams-office-split-eu-regulation-antitrust-investigation)
- - [Flash sale: Best Buy drops Apple Watch Series 9 to $269, iMac to $799 today only](https://appleinsider.com/articles/24/03/31/flash-sale-best-buy-drops-apple-watch-series-9-to-269-imac-to-799-today-only?utm_medium=rss)<!-- TECH:END -->
+ - [Best Grills &lpar;2024&rpar;: Charcoal, Gas, Pellet, Hybrid, and Grilling Accessories](https://www.wired.com/gallery/best-grills/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m powerful doktor](http://9gag.com/gag/ajPQvp1)
- - 😝 [This is the worst version of bungy jumping I can imagine...](http://9gag.com/gag/aKG4ZOj)
- - 💣 [Police published photo of a woman who stole alcohol from local store and attacked a security guard](http://9gag.com/gag/aQz6DRd)
- - 😝 [Programming does that to the mind?](http://9gag.com/gag/aKG4ZLZ)
- - 👉 [Happy life](http://9gag.com/gag/a87dvMe)<!-- MEMES:END -->
+ - 😝 [The keyboard guy lol.](http://9gag.com/gag/agmrpGn)
+ - 😝 [I don&#39;t understand fashion](http://9gag.com/gag/apRK7xb)
+ - 💣 [Title](http://9gag.com/gag/a7ovBrw)
+ - 😝 [Police published photo of a woman who stole alcohol from local store and attacked a security guard](http://9gag.com/gag/aQz6DRd)
+ - 👉 [Ah yes, the new stealthy, totally quiet lethal trains](http://9gag.com/gag/ayNEA0y)<!-- MEMES:END -->
 
 ---
 

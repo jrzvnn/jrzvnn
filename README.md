@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google agrees to destroy browsing data collected in Incognito mode](https://www.theverge.com/2024/4/1/24117929/google-incognito-browsing-data-delete-class-action-settlement)
+ - [OpenAI no longer requires users to have an account to use ChatGPT, with some limitations like a different content policy, beginning today in a few markets &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/240401/p12#a240401p12)
  - [Migo Ascender stair-climbing vacuum, Qi2 gear, &amp; TP-Link camera reviews on HomeKit Insider](https://appleinsider.com/articles/24/04/01/migo-ascender-stair-climbing-vacuum-qi2-gear-tp-link-camera-reviews-on-homekit-insider?utm_medium=rss)
  - [Blowout deals: Apple&#39;s MacBook Air up to $400 off, MacBook Pro starts at $899](https://appleinsider.com/articles/24/04/01/blowout-deals-apples-macbook-air-up-to-400-off-macbook-pro-starts-at-899?utm_medium=rss)
- - [April Fools’ Day 2024: the best and cringiest pranks](https://www.theverge.com/2024/4/1/24118011/april-fools-day-2024-pranks-jokes-best-worst)
- - [Now you can use ChatGPT without an account](https://www.theverge.com/2024/4/1/24118007/openai-chatgpt-free-no-account-login)
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)<!-- TECH:END -->
+ - [April Fools’ Day 2024: the best and cringiest pranks](https://www.theverge.com/2024/4/1/24118011/april-fools-day-2024-pranks-jokes-best-worst)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

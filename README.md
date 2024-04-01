@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Panel of low IQ](http://9gag.com/gag/aZZqKB3)
- - 😝 [Just an average asian kid nothing special keep scrollin](http://9gag.com/gag/adByMPZ)
- - 💣 [Title](http://9gag.com/gag/a7ovBrw)
- - 😝 [Today&#39;s generation is lost or I&#39;m toxic](http://9gag.com/gag/aXPZQRP)
- - 👉 [This took me a minute](http://9gag.com/gag/axyEezK)<!-- MEMES:END -->
+ - 😝 [Descriptive title](http://9gag.com/gag/aRB6G7j)
+ - 😝 [Prank backfires in the most satisfying way](http://9gag.com/gag/avy2VRZ)
+ - 💣 [This took me a minute](http://9gag.com/gag/axyEezK)
+ - 😝 [Poor Peter Parker](http://9gag.com/gag/avy2BoO)
+ - 👉 [Just an average asian kid nothing special keep scrollin](http://9gag.com/gag/adByMPZ)<!-- MEMES:END -->
 
 ---
 

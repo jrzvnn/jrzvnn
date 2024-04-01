@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Descriptive title](http://9gag.com/gag/aRB6G7j)
- - 😝 [Today,](http://9gag.com/gag/ae9KyXB)
- - 💣 [Drawing shadows](http://9gag.com/gag/a34vgPm)
- - 😝 [Hey, is that a...?](http://9gag.com/gag/abA3o2B)
- - 👉 [The perfect keychain doesn&#39;t exist...](http://9gag.com/gag/aW4B5BK)<!-- MEMES:END -->
+ - 😝 [I&#39;m powerful doktor](http://9gag.com/gag/ajPQvp1)
+ - 😝 [This is the worst version of bungy jumping I can imagine...](http://9gag.com/gag/aKG4ZOj)
+ - 💣 [Police published photo of a woman who stole alcohol from local store and attacked a security guard](http://9gag.com/gag/aQz6DRd)
+ - 😝 [Programming does that to the mind?](http://9gag.com/gag/aKG4ZLZ)
+ - 👉 [Happy life](http://9gag.com/gag/a87dvMe)<!-- MEMES:END -->
 
 ---
 

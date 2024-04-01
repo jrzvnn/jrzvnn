@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just an average asian kid nothing special keep scrollin](http://9gag.com/gag/adByMPZ)
- - 😝 [Ah yes, the new stealthy, totally quiet lethal trains](http://9gag.com/gag/ayNEA0y)
- - 💣 [Damn girl chill](http://9gag.com/gag/a1mpjm2)
- - 😝 [I don&#39;t understand fashion](http://9gag.com/gag/apRK7xb)
- - 👉 [Take a wild guess what happened in Itally recently.](http://9gag.com/gag/amoqy16)<!-- MEMES:END -->
+ - 😝 [Brainless but woodable goth.](http://9gag.com/gag/aYQjBA0)
+ - 😝 [This is the worst version of bungy jumping I can imagine...](http://9gag.com/gag/aKG4ZOj)
+ - 💣 [I don&#39;t understand fashion](http://9gag.com/gag/apRK7xb)
+ - 😝 [I&#39;m powerful doktor](http://9gag.com/gag/ajPQvp1)
+ - 👉 [Gust of wind](http://9gag.com/gag/aZZq5Z9)<!-- MEMES:END -->
 
 ---
 

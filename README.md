@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Valid Question TBF](http://9gag.com/gag/aW4B5Rq)
- - 😝 [This is the worst version of bungy jumping I can imagine...](http://9gag.com/gag/aKG4ZOj)
- - 💣 [Programming does that to the mind?](http://9gag.com/gag/aKG4ZLZ)
- - 😝 [My kind of woman](http://9gag.com/gag/ary1wzB)
- - 👉 [Mother daughter combo](http://9gag.com/gag/aD2Rv0B)<!-- MEMES:END -->
+ - 😝 [Normal!](http://9gag.com/gag/aYQj50q)
+ - 😝 [She was furious. I am planing on inviting the judge to my BBQ party.](http://9gag.com/gag/aVvjrjw)
+ - 💣 [Valid Question TBF](http://9gag.com/gag/aW4B5Rq)
+ - 😝 [Bad ice cream = Rest in pepperoni](http://9gag.com/gag/ajPQwPq)
+ - 👉 [Gust of wind](http://9gag.com/gag/aZZq5Z9)<!-- MEMES:END -->
 
 ---
 

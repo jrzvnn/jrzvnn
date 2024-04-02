@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Jon Stewart opens up about Apple interference in his show](https://appleinsider.com/articles/24/04/02/jon-stewart-opens-up-about-apple-interference-in-his-show?utm_medium=rss)
+ - [He Emptied an Entire Crypto Exchange Onto a Thumb Drive. Then He Disappeared](https://www.wired.com/story/faruk-ozer-turkey-crypto-fraud/)
+ - [How Meta’s global head of safety approaches online age verification](https://www.theverge.com/2024/4/2/24118204/meta-age-verification-quest-store-antigone-davis)
  - [A profile of hiking app AllTrails, which exploded during the pandemic, has raised $225M+, and now focuses on helping users &quot;find your outdoors&quot;, not just trails &lpar;Nikita Richardson/New York Times&rpar;](http://www.techmeme.com/240402/p5#a240402p5)
- - [An interview with outgoing ASML CTO Martin van den Brink on the company&#39;s rise, Moore&#39;s Law, competition from Chinese companies, hyper-NA technology, and more &lpar;MIT Technology Review&rpar;](http://www.techmeme.com/240402/p4#a240402p4)
- - [Data From 73 Million AT&amp;T Accounts Stolen: How You Can Protect Yourself     - CNET](https://www.cnet.com/tech/mobile/data-from-73-million-at-t-accounts-stolen-how-you-can-protect-yourself/#ftag=CAD590a51e)
- - [An interview with Sony Music CEO Rob Stringer on AI&#39;s role in the industry, licensing concerns with TikTok, working with Sony for over two decades, and more &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/240402/p3#a240402p3)
- - [The XZ Backdoor: Everything You Need to Know](https://www.wired.com/story/xz-backdoor-everything-you-need-to-know/)<!-- TECH:END -->
+ - [An interview with outgoing ASML CTO Martin van den Brink on the company&#39;s rise, Moore&#39;s Law, competition from Chinese companies, hyper-NA technology, and more &lpar;MIT Technology Review&rpar;](http://www.techmeme.com/240402/p4#a240402p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

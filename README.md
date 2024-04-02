@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Final Fantasy VII Rebirth’s biggest twist is concealed in a tiny detail](https://www.theverge.com/2024/4/2/24119195/final-fantasy-vii-rebirth-plot-twist-buster-sword-animation)
  - [Source: the independent Cyber Safety Review Board&#39;s forthcoming report on China&#39;s hack of Microsoft will fault the company for a &quot;cascade of avoidable errors&quot; &lpar;Washington Post&rpar;](http://www.techmeme.com/240402/p19#a240402p19)
- - [AirPods Max firmware 6.0 now available](https://appleinsider.com/articles/24/04/02/airpods-max-firmware-60-now-available?utm_medium=rss)
- - [Amazon gives up on no-checkout shopping in its grocery stores](https://www.theverge.com/2024/4/2/24119199/amazon-just-walk-out-cashierless-checkout-ending-dash-carts)
- - [Beats Solo 4 release imminent with FCC regulator listing](https://appleinsider.com/articles/24/04/02/beats-solo-4-release-imminent-with-fcc-regulator-listing?utm_medium=rss)
- - [Google’s final warning: Dropcam, Dropcam Pro, and Nest Secure support ends on April 8th](https://www.theverge.com/2024/4/2/24119040/google-dropcam-nest-secure-support-ends-april-8th)<!-- TECH:END -->
+ - [You Don&#39;t Have to Pay Top Dollar on Expensive Airline Tickets: 3 Quick Tips to Save Money on Airfare     - CNET](https://www.cnet.com/personal-finance/credit-cards/you-dont-have-to-pay-top-dollar-on-expensive-airline-tickets-3-quick-tips-to-save-money-on-airfare/#ftag=CAD590a51e)
+ - [Best PC Speakers for 2024     - CNET](https://www.cnet.com/tech/computing/best-pc-speakers/#ftag=CAD590a51e)
+ - [AirPods Max firmware 6.0 now available](https://appleinsider.com/articles/24/04/02/airpods-max-firmware-60-now-available?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She was furious. I am planing on inviting the judge to my BBQ party.](http://9gag.com/gag/aVvjrjw)
- - 😝 [My kind of woman](http://9gag.com/gag/ary1wzB)
- - 💣 [I think 9gag is proof enough to verify that claim](http://9gag.com/gag/a9yj05L)
- - 😝 [Hard reset](http://9gag.com/gag/aVvj6xy)
- - 👉 [What his Parents found in his Room..](http://9gag.com/gag/aMVeLQM)<!-- MEMES:END -->
+ - 😝 [How does a smaller, petite female police officer arrest a large, rough man who is built like a linebacker, especially if he resists arrest?](http://9gag.com/gag/apRKwEE)
+ - 😝 [I don&#39;t understand fashion](http://9gag.com/gag/apRK7xb)
+ - 💣 [The dead body of Iraqi refugee and Islam critic Salwan Sabah Matti Momika has been found in Norway. Momika was known for arranging demonstrations in Sweden where he publicly burned the Quran.](http://9gag.com/gag/abA381B)
+ - 😝 [Gust of wind](http://9gag.com/gag/aZZq5Z9)
+ - 👉 [I&#39;m powerful doktor](http://9gag.com/gag/ajPQvp1)<!-- MEMES:END -->
 
 ---
 

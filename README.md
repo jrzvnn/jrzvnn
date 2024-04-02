@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gust of wind](http://9gag.com/gag/aZZq5Z9)
- - 😝 [What&#39;s their practice for?](http://9gag.com/gag/axyErZp)
- - 💣 [Mother daughter combo](http://9gag.com/gag/aD2Rv0B)
  - 😝 [Karma](http://9gag.com/gag/a0ev3Kz)
- - 👉 [Professional victim..](http://9gag.com/gag/ajPQvGR)<!-- MEMES:END -->
+ - 😝 [Asking people in Iran how much they have in their bank account](http://9gag.com/gag/aO8o5Qy)
+ - 💣 [Professional victim..](http://9gag.com/gag/ajPQvGR)
+ - 😝 [What&#39;s their practice for?](http://9gag.com/gag/axyErZp)
+ - 👉 [My kind of woman](http://9gag.com/gag/ary1wzB)<!-- MEMES:END -->
 
 ---
 

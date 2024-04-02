@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The new disney hit!](http://9gag.com/gag/aD2Rvj9)
+ - 😝 [What&#39;s their practice for?](http://9gag.com/gag/axyErZp)
+ - 😝 [How does a smaller, petite female police officer arrest a large, rough man who is built like a linebacker, especially if he resists arrest?](http://9gag.com/gag/apRKwEE)
+ - 💣 [I don&#39;t understand fashion](http://9gag.com/gag/apRK7xb)
  - 😝 [Professional victim..](http://9gag.com/gag/ajPQvGR)
- - 💣 [Damn straight rob a bank with this shit](http://9gag.com/gag/azx7z2j)
- - 😝 [Take a wild guess what happened in Itally recently.](http://9gag.com/gag/amoqy16)
- - 👉 [My kind of woman](http://9gag.com/gag/ary1wzB)<!-- MEMES:END -->
+ - 👉 [Gust of wind](http://9gag.com/gag/aZZq5Z9)<!-- MEMES:END -->
 
 ---
 

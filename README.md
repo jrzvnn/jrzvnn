@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It be like that](http://9gag.com/gag/avy2qG5)
- - 😝 [This is the worst version of bungy jumping I can imagine...](http://9gag.com/gag/aKG4ZOj)
- - 💣 [Gust of wind](http://9gag.com/gag/aZZq5Z9)
+ - 😝 [Scotland&#39;s new hate laws: So The Indian Council has reported the Pakistani origin Scottish PM to the police for racism against disadvantaged white men, made by the Scottish Police itself. Pretty sure the government didn&#39;t see that coming.](http://9gag.com/gag/a6ZrRYA)
+ - 😝 [Finally something we can all unite against. Unelected Pakistani will sentence Scots up to 7 years for stirring up hate such as making offensive posts you can find everywhere on social media.](http://9gag.com/gag/aGyKQ4Z)
+ - 💣 [Ismail Hanyieh &lpar;Hamas Leader&rpar;&#39;s sister was arrested in Israel. You know that aid money people send to the Palestinians? They found it in her home.](http://9gag.com/gag/a5QpY3O)
  - 😝 [\ud83d\udca59GAG x @AffynOfficial: Exclusive Sprays in @BuddyArenaGame ! \ud83e\udd1d](http://9gag.com/gag/a5XL8KL)
- - 👉 [How does a smaller, petite female police officer arrest a large, rough man who is built like a linebacker, especially if he resists arrest?](http://9gag.com/gag/apRKwEE)<!-- MEMES:END -->
+ - 👉 [Hard reset](http://9gag.com/gag/aVvj6xy)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Professional victim..](http://9gag.com/gag/ajPQvGR)
- - 😝 [Gust of wind](http://9gag.com/gag/aZZq5Z9)
- - 💣 [Valid Question TBF](http://9gag.com/gag/aW4B5Rq)
- - 😝 [The dead body of Iraqi refugee and Islam critic Salwan Sabah Matti Momika has been found in Norway. Momika was known for arranging demonstrations in Sweden where he publicly burned the Quran.](http://9gag.com/gag/abA381B)
- - 👉 [My kind of woman](http://9gag.com/gag/ary1wzB)<!-- MEMES:END -->
+ - 😝 [But at least they have sonar](http://9gag.com/gag/ae9KB9j)
+ - 😝 [Mother daughter combo](http://9gag.com/gag/aD2Rv0B)
+ - 💣 [Where\u2019s Batman when you need him?](http://9gag.com/gag/a1mp6V2)
+ - 😝 [Bunny tired after yesterday](http://9gag.com/gag/a4Pp0n1)
+ - 👉 [Hard reset](http://9gag.com/gag/aVvj6xy)<!-- MEMES:END -->
 
 ---
 

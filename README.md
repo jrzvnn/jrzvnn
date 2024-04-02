@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Valid Question TBF](http://9gag.com/gag/aW4B5Rq)
- - 😝 [Mother daughter combo](http://9gag.com/gag/aD2Rv0B)
- - 💣 [My kind of woman](http://9gag.com/gag/ary1wzB)
- - 😝 [I&#39;m powerful doktor](http://9gag.com/gag/ajPQvp1)
- - 👉 [Karma](http://9gag.com/gag/a0ev3Kz)<!-- MEMES:END -->
+ - 😝 [We all need a hug some times](http://9gag.com/gag/aVvj6zn)
+ - 😝 [Normal!](http://9gag.com/gag/aYQj50q)
+ - 💣 [Bad ice cream = Rest in pepperoni](http://9gag.com/gag/ajPQwPq)
+ - 😝 [Young , Cart](http://9gag.com/gag/apRKMKp)
+ - 👉 [My kind of woman](http://9gag.com/gag/ary1wzB)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Luminance, which offers generative AI tools for lawyers, raised a $40M Series B led by March Capital and says 600 organizations in 70 countries use its tools &lpar;Lucy Adams/Tech.eu&rpar;](http://www.techmeme.com/240402/p14#a240402p14)
+ - [A &#39;House of the Dragon&#39; Star Made a Video Game to Grieve His Father](https://www.wired.com/story/abubakar-salim-house-of-the-dragon-tales-of-kenzera-zau-game-grief/)
  - [Now Apple Vision Pro Personas can float freely across different apps](https://www.theverge.com/2024/4/2/24118863/apple-vision-pro-spatial-persona-shareplay)
  - [Apple debuts Spatial Personas in beta, letting up to five Vision Pro users participate together within compatible apps without being in the same physical space &lpar;Raymond Wong/Inverse&rpar;](http://www.techmeme.com/240402/p13#a240402p13)
- - [Future Apple devices may precisely track your gestures using radar](https://appleinsider.com/articles/24/04/02/future-apple-devices-may-precisely-track-your-gestures-using-radar?utm_medium=rss)
- - [As Amazon plans more grocery stores after an 18-month pause, it will use Dash Carts, where shoppers can scan items as they shop, instead of Just Walk Out tech &lpar;Theo Wayt/The Information&rpar;](http://www.techmeme.com/240402/p12#a240402p12)
- - [17 Great Gifts for Mom: Ideas for the Mother in Your Life &lpar;2024&rpar;](https://www.wired.com/gallery/gifts-for-mom/)<!-- TECH:END -->
+ - [Future Apple devices may precisely track your gestures using radar](https://appleinsider.com/articles/24/04/02/future-apple-devices-may-precisely-track-your-gestures-using-radar?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

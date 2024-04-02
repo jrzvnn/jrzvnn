@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AirPods Max firmware 6.0 now available](https://appleinsider.com/articles/24/04/02/airpods-max-firmware-60-now-available?utm_medium=rss)
+ - [Amazon gives up on no-checkout shopping in its grocery stores](https://www.theverge.com/2024/4/2/24119199/amazon-just-walk-out-cashierless-checkout-ending-dash-carts)
  - [Beats Solo 4 release imminent with FCC regulator listing](https://appleinsider.com/articles/24/04/02/beats-solo-4-release-imminent-with-fcc-regulator-listing?utm_medium=rss)
  - [Google’s final warning: Dropcam, Dropcam Pro, and Nest Secure support ends on April 8th](https://www.theverge.com/2024/4/2/24119040/google-dropcam-nest-secure-support-ends-april-8th)
- - [It’s time for a hard reset on notifications](https://www.theverge.com/24119076/ios-android-notifications-focus-modes-scheduled-summary)
- - [Sideloading apps from the web in EU possible with iOS 17.5](https://appleinsider.com/articles/24/04/02/sideloading-apps-from-the-web-in-eu-possible-with-ios-175?utm_medium=rss)
- - [The 25 Best Shows on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-shows/)<!-- TECH:END -->
+ - [It’s time for a hard reset on notifications](https://www.theverge.com/24119076/ios-android-notifications-focus-modes-scheduled-summary)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

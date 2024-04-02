@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This best-selling M3 MacBook Pro 14-inch with 16GB RAM is on sale for $1,599](https://appleinsider.com/articles/24/04/02/this-best-selling-m3-macbook-pro-14-inch-with-16gb-ram-is-on-sale-for-1599?utm_medium=rss)
- - [Apple’s second-gen AirPods are available at a rare discount](https://www.theverge.com/2024/4/2/24118244/apple-second-gen-airpods-hatch-restore-2-samsung-galaxy-z-flip-5-deal-sale)
- - [Apple employees urge management to act on Gaza conflict](https://appleinsider.com/articles/24/04/02/apple-employees-urge-management-to-act-on-gaza-conflict?utm_medium=rss)
- - [Leaked design resource hints at iOS 18&#39;s visionOS-inspired redesign](https://appleinsider.com/articles/24/04/02/leaked-design-resource-hints-at-ios-18s-visionos-inspired-redesign?utm_medium=rss)
- - [Tesla’s year-over-year sales dropped for the first time since 2020](https://www.theverge.com/2024/4/2/24118950/tesla-q1-2024-sales-decline-ev-competition-ford-gm)<!-- TECH:END -->
+ - [Beats Solo 4 release imminent with FCC regulator listing](https://appleinsider.com/articles/24/04/02/beats-solo-4-release-imminent-with-fcc-regulator-listing?utm_medium=rss)
+ - [Apple rolls out minor updates to iWork apps](https://appleinsider.com/articles/24/04/02/apple-rolls-out-minor-updates-to-iwork-apps?utm_medium=rss)
+ - [Apple restarts the developer beta cycle once again](https://appleinsider.com/articles/24/04/02/apple-restarts-the-developer-beta-cycle-once-again?utm_medium=rss)
+ - [Hello to you as well, Starbucks](https://www.theverge.com/2024/4/2/24119073/starbucks-app-hi-notification)
+ - [Apple starts testing the visionOS 1.2 developer beta](https://appleinsider.com/articles/24/04/02/apple-starts-testing-the-visionos-12-developer-beta?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

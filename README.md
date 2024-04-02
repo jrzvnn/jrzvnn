@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New AirPods, AirPods Max now expected in late 2024](https://appleinsider.com/articles/24/04/02/new-airpods-airpods-max-now-expected-in-late-2024?utm_medium=rss)
  - [MSI Prestige 13 AI Evo Review: A Lightweight and Powerful Laptop](https://www.wired.com/review/msi-prestige-13-ai-evo/)
  - [Future Apple Watch bands could automatically launch apps or change face](https://appleinsider.com/articles/23/03/21/future-apple-watch-bands-could-automatically-launch-apps-or-change-face?utm_medium=rss)
  - [Alaska is gonna try and use a robot to scare wildlife from around an airport](https://www.theverge.com/2024/4/2/24118846/boston-dynamics-robot-dog-alaska-fairbanks-airport-wildlife)
- - [A better keyboard than QWERTY](https://www.theverge.com/24118418/keyboard-layout-qwerty-microsoft-copilot-surface-netflix-thumbs)
- - [Yahoo plans to acquire Mike Krieger and Kevin Systrom&#39;s Artifact for an undisclosed sum; Yahoo is buying the news app&#39;s tech, not the team &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240402/p11#a240402p11)<!-- TECH:END -->
+ - [A better keyboard than QWERTY](https://www.theverge.com/24118418/keyboard-layout-qwerty-microsoft-copilot-surface-netflix-thumbs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

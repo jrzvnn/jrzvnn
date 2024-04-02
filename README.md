@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Beats launches new Beats Fit Pro edition in collaboration with Alo Yoga](https://appleinsider.com/articles/24/04/02/beats-launches-new-beats-fit-pro-edition-in-collaboration-with-alo-yoga?utm_medium=rss)
- - [Jon Stewart on AI, Lina Khan, and the other things Apple didn’t want him to say](https://www.theverge.com/2024/4/2/24118814/jon-stewart-apple-tv-plus-daily-show-lina-khan-interview)
- - [New AirPods, AirPods Max now expected in late 2024](https://appleinsider.com/articles/24/04/02/new-airpods-airpods-max-now-expected-in-late-2024?utm_medium=rss)
- - [We Love This 50-Inch Vizio 4K TV, and It&#39;s Now Yours for Just $223     - CNET](https://www.cnet.com/deals/we-love-this-50-inch-vizio-4k-tv-and-its-now-yours-for-just-223/#ftag=CAD590a51e)
- - [Otter AI Review: Useful Tools, Messy Transcripts     - CNET](https://www.cnet.com/tech/services-and-software/otter-ai-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Future Apple devices may precisely track your gestures using radar](https://appleinsider.com/articles/24/04/02/future-apple-devices-may-precisely-track-your-gestures-using-radar?utm_medium=rss)
+ - [As Amazon plans more grocery stores after an 18-month pause, it will use Dash Carts, where shoppers can scan items as they shop, instead of Just Walk Out tech &lpar;Theo Wayt/The Information&rpar;](http://www.techmeme.com/240402/p12#a240402p12)
+ - [17 Great Gifts for Mom: Ideas for the Mother in Your Life &lpar;2024&rpar;](https://www.wired.com/gallery/gifts-for-mom/)
+ - [Spatial Personas adds 3D calling to FaceTime on Apple Vision Pro](https://appleinsider.com/articles/24/04/02/spatial-personas-adds-3d-calling-to-facetime-on-apple-vision-pro?utm_medium=rss)
+ - [Beats launches new Beats Fit Pro edition in collaboration with Alo Yoga](https://appleinsider.com/articles/24/04/02/beats-launches-new-beats-fit-pro-edition-in-collaboration-with-alo-yoga?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

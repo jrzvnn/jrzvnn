@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [50/50 chance it\u2019s a dude](http://9gag.com/gag/a34vOXm)
- - 😝 [Men&#39;s playground](http://9gag.com/gag/aD2RvVB)
- - 💣 [Where\u2019s Batman when you need him?](http://9gag.com/gag/a1mp6V2)
+ - 😝 [I&#39;m powerful doktor](http://9gag.com/gag/ajPQvp1)
+ - 😝 [I don&#39;t understand fashion](http://9gag.com/gag/apRK7xb)
+ - 💣 [Karma](http://9gag.com/gag/a0ev3Kz)
  - 😝 [\ud83d\udca59GAG x @AffynOfficial: Exclusive Sprays in @BuddyArenaGame ! \ud83e\udd1d](http://9gag.com/gag/a5XL8KL)
- - 👉 [Scotland&#39;s new hate laws: So The Indian Council has reported the Pakistani origin Scottish PM to the police for racism against disadvantaged white men, made by the Scottish Police itself. Pretty sure the government didn&#39;t see that coming.](http://9gag.com/gag/a6ZrRYA)<!-- MEMES:END -->
+ - 👉 [My kind of woman](http://9gag.com/gag/ary1wzB)<!-- MEMES:END -->
 
 ---
 

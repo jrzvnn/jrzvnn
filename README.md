@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m powerful doktor](http://9gag.com/gag/ajPQvp1)
- - 😝 [I don&#39;t understand fashion](http://9gag.com/gag/apRK7xb)
- - 💣 [Karma](http://9gag.com/gag/a0ev3Kz)
+ - 😝 [Professional victim..](http://9gag.com/gag/ajPQvGR)
+ - 😝 [What&#39;s their practice for?](http://9gag.com/gag/axyErZp)
+ - 💣 [When manager presents your work to his boss and you realize dude doesn&#39;t understand the job](http://9gag.com/gag/a87dgKd)
  - 😝 [\ud83d\udca59GAG x @AffynOfficial: Exclusive Sprays in @BuddyArenaGame ! \ud83e\udd1d](http://9gag.com/gag/a5XL8KL)
- - 👉 [My kind of woman](http://9gag.com/gag/ary1wzB)<!-- MEMES:END -->
+ - 👉 [What his Parents found in his Room..](http://9gag.com/gag/aMVeLQM)<!-- MEMES:END -->
 
 ---
 

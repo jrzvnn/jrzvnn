@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Read AI, which uses generative AI to summarize meetings, emails, and other messages, raised a $21M Series A led by Goodwater Capital &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240402/p15#a240402p15)
+ - [Leaked design resource hints at iOS 18&#39;s visionOS-inspired redesign](https://appleinsider.com/articles/24/04/02/leaked-design-resource-hints-at-ios-18s-visionos-inspired-redesign?utm_medium=rss)
+ - [Google Podcasts is gone — and so is my faith in Google](https://www.theverge.com/2024/4/2/24118873/google-podcasts-shutdown-graveyard)
  - [Luminance, which offers generative AI tools for lawyers, raised a $40M Series B led by March Capital and says 600 organizations in 70 countries use its tools &lpar;Lucy Adams/Tech.eu&rpar;](http://www.techmeme.com/240402/p14#a240402p14)
- - [A &#39;House of the Dragon&#39; Star Made a Video Game to Grieve His Father](https://www.wired.com/story/abubakar-salim-house-of-the-dragon-tales-of-kenzera-zau-game-grief/)
- - [Now Apple Vision Pro Personas can float freely across different apps](https://www.theverge.com/2024/4/2/24118863/apple-vision-pro-spatial-persona-shareplay)
- - [Apple debuts Spatial Personas in beta, letting up to five Vision Pro users participate together within compatible apps without being in the same physical space &lpar;Raymond Wong/Inverse&rpar;](http://www.techmeme.com/240402/p13#a240402p13)
- - [Future Apple devices may precisely track your gestures using radar](https://appleinsider.com/articles/24/04/02/future-apple-devices-may-precisely-track-your-gestures-using-radar?utm_medium=rss)<!-- TECH:END -->
+ - [A &#39;House of the Dragon&#39; Star Made a Video Game to Grieve His Father](https://www.wired.com/story/abubakar-salim-house-of-the-dragon-tales-of-kenzera-zau-game-grief/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

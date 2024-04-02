@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [7 Best Garmin Watches &lpar;2024&rpar;: Which Is Best for Running, Cycling, and More](https://www.wired.com/gallery/best-garmin-watch/)
  - [iPhone SE 4 case leak shows Face ID notch](https://appleinsider.com/articles/24/04/02/iphone-se-4-case-leak-shows-face-id-notch?utm_medium=rss)
- - [Here&#39;s How Generative AI Depicts Queer People](https://www.wired.com/story/artificial-intelligence-lgbtq-representation-openai-sora/)
- - [Apple Store Employees Say Coworkers Were Disciplined for Supporting Palestinians](https://www.wired.com/story/apple-store-employees-disciplined-supporting-palestinians/)
- - [Will the Apple antitrust case affect your phone’s security?](https://www.theverge.com/2024/4/2/24107719/iphone-security-apple-doj-monopoly-antitrust-lawsuit)<!-- TECH:END -->
+ - [7 Best Garmin Watches &lpar;2024&rpar;: Which Is Best for Running, Cycling, and More](https://www.wired.com/gallery/best-garmin-watch/)
+ - [Best Cordless Vacuums for 2024     - CNET](https://www.cnet.com/home/kitchen-and-household/best-cordless-vacuum/#ftag=CAD590a51e)
+ - [30-Year Fixed Refinance Ticks Higher: Mortgage Refinance Rates on April 2, 2024     - CNET](https://www.cnet.com/personal-finance/mortgages/30-year-fixed-refinance-ticks-higher-mortgage-refinance-rates-on-april-2-2024/#ftag=CAD590a51e)
+ - [Xbox Game Pass Ultimate: You Can Play Diablo 4 and More Now     - CNET](https://www.cnet.com/tech/gaming/xbox-game-pass-ultimate-you-can-play-diablo-4-and-more-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

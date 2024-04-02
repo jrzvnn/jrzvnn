@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What&#39;s their practice for?](http://9gag.com/gag/axyErZp)
- - 😝 [I&#39;m powerful doktor](http://9gag.com/gag/ajPQvp1)
- - 💣 [My kind of woman](http://9gag.com/gag/ary1wzB)
- - 😝 [The dead body of Iraqi refugee and Islam critic Salwan Sabah Matti Momika has been found in Norway. Momika was known for arranging demonstrations in Sweden where he publicly burned the Quran.](http://9gag.com/gag/abA381B)
- - 👉 [Karma](http://9gag.com/gag/a0ev3Kz)<!-- MEMES:END -->
+ - 😝 [Scotland&#39;s new hate speech law came into force today. The law, championed by Hamza Yousaf, will carry prison sentences up to 7 years for statements deemed to stir up hate on the grounds of religion, sexuality, race &amp; gender identity. This speech by Yousaf sounds a bit hatefull.](http://9gag.com/gag/aMVe5DW)
+ - 😝 [I don&#39;t understand fashion](http://9gag.com/gag/apRK7xb)
+ - 💣 [Thank you!](http://9gag.com/gag/a9yje9o)
+ - 😝 [Professional victim..](http://9gag.com/gag/ajPQvGR)
+ - 👉 [I&#39;m powerful doktor](http://9gag.com/gag/ajPQvp1)<!-- MEMES:END -->
 
 ---
 

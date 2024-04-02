@@ -169,8 +169,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [TikTok brings its dedicated STEM content feed to Europe, starting in the UK and Ireland, and says 33% of users have enabled the feed since its US launch in 2023 &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240401/p24#a240401p24)
  - [Japan approves up to $3.9B in subsidies to chip venture Rapidus, as the company tries to close the gap with TSMC in cutting-edge fabrication technology &lpar;Yuki Hagiwara/Bloomberg&rpar;](http://www.techmeme.com/240401/p23#a240401p23)
  - [The Browser Company poaches Apple Safari design team member](https://appleinsider.com/articles/24/04/02/the-browser-company-poaches-apple-safari-design-team-member?utm_medium=rss)
- - [The US and UK sign an agreement on how to test and assess risks from emerging AI models, marking the first bilateral arrangement on AI safety in the world &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/240401/p22#a240401p22)
- - [Samsung says Bixby’s still not dead](https://www.theverge.com/2024/4/1/24118253/samsung-galaxy-ai-bixby-voice-assistant)<!-- TECH:END -->
+ - [Best Online Glasses and Contacts Deals: Save on Designer Brands, Transition Lenses and More     - CNET](https://www.cnet.com/deals/best-online-glasses-and-contacts-deals/#ftag=CAD590a51e)
+ - [25 Best Bar Gifts and Bottles of Booze for a Polished Drinker     - CNET](https://www.cnet.com/news/best-bar-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

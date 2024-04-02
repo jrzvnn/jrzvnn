@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Apologize for cancer subs](http://9gag.com/gag/ary1LbV)
- - 😝 [No pain no gain](http://9gag.com/gag/aO8oEEy)
- - 💣 [J K Rowling taking a stand against the new law](http://9gag.com/gag/amoqZ8d)
+ - 😝 [Someone has to get the job done.](http://9gag.com/gag/aE0dmqM)
+ - 😝 [It never gets old](http://9gag.com/gag/aD2RegZ)
+ - 💣 [Finally found the full video](http://9gag.com/gag/awyNpq8)
  - 😝 [\ud83d\udca59GAG x @AffynOfficial: Exclusive Sprays in @BuddyArenaGame ! \ud83e\udd1d](http://9gag.com/gag/a5XL8KL)
- - 👉 [Asking people in Iran how much they have in their bank account](http://9gag.com/gag/aO8o5Qy)<!-- MEMES:END -->
+ - 👉 [Always someone else&#39;s fault.](http://9gag.com/gag/a0evydO)<!-- MEMES:END -->
 
 ---
 

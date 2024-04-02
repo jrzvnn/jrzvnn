@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [7 Best Garmin Watches &lpar;2024&rpar;: Which Is Best for Running, Cycling, and More](https://www.wired.com/gallery/best-garmin-watch/)
+ - [iPhone SE 4 case leak shows Face ID notch](https://appleinsider.com/articles/24/04/02/iphone-se-4-case-leak-shows-face-id-notch?utm_medium=rss)
  - [Here&#39;s How Generative AI Depicts Queer People](https://www.wired.com/story/artificial-intelligence-lgbtq-representation-openai-sora/)
  - [Apple Store Employees Say Coworkers Were Disciplined for Supporting Palestinians](https://www.wired.com/story/apple-store-employees-disciplined-supporting-palestinians/)
- - [Will the Apple antitrust case affect your phone’s security?](https://www.theverge.com/2024/4/2/24107719/iphone-security-apple-doj-monopoly-antitrust-lawsuit)
- - [Twitch’s Hype Train record smashed again by Pirate Software](https://www.theverge.com/2024/4/2/24118755/twitch-hype-train-world-record-piratesoftware-bits-gifted-subs)
- - [I’m a New Homeowner. An App Called Thumbtack Has Become a Lifesaver for Me](https://www.wired.com/story/thumbtack-app-for-homeowners/)<!-- TECH:END -->
+ - [Will the Apple antitrust case affect your phone’s security?](https://www.theverge.com/2024/4/2/24107719/iphone-security-apple-doj-monopoly-antitrust-lawsuit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

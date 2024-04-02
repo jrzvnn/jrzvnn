@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Take a wild guess what happened in Itally recently.](http://9gag.com/gag/amoqy16)
+ - 😝 [She was furious. I am planing on inviting the judge to my BBQ party.](http://9gag.com/gag/aVvjrjw)
  - 😝 [My kind of woman](http://9gag.com/gag/ary1wzB)
- - 💣 [No pain no gain](http://9gag.com/gag/aO8oEEy)
- - 😝 [How does a smaller, petite female police officer arrest a large, rough man who is built like a linebacker, especially if he resists arrest?](http://9gag.com/gag/apRKwEE)
- - 👉 [Professional victim..](http://9gag.com/gag/ajPQvGR)<!-- MEMES:END -->
+ - 💣 [I think 9gag is proof enough to verify that claim](http://9gag.com/gag/a9yj05L)
+ - 😝 [Hard reset](http://9gag.com/gag/aVvj6xy)
+ - 👉 [What his Parents found in his Room..](http://9gag.com/gag/aMVeLQM)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Intel’s chipmaking business lost a boatload of billions last year](https://www.theverge.com/2024/4/2/24119454/intels-chipmaking-business-7-billion-loss)
+ - [How one volunteer stopped a backdoor from exposing Linux systems worldwide](https://www.theverge.com/2024/4/2/24119342/xz-utils-linux-backdoor-attempt)
  - [Now there’s an AI gas station with robot fry cooks](https://www.theverge.com/2024/4/2/24119413/robot-fry-cook-re-up-gas-station-florida-ai)
  - [Anthropic researchers detail &quot;many-shot jailbreaking&quot;, which can evade LLMs&#39; safety guardrails by including a large number of faux dialogues in a single prompt &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/240402/p25#a240402p25)
- - [Best Xbox Game Pass Deals: Save Over $60 on a 1-Year Subscription     - CNET](https://www.cnet.com/deals/best-game-pass-and-xbox-live-deals/#ftag=CAD590a51e)
- - [Best Solar Panel Installation Companies in Mississippi     - CNET](https://www.cnet.com/home/energy-and-utilities/mississippi-solar-panels/#ftag=CAD590a51e)
- - [Perplexity Will Begin Placing Ads via Brand-Sponsored Queries in AI Chat     - CNET](https://www.cnet.com/tech/services-and-software/perplexity-will-begin-placing-ads-via-brand-sponsored-queries-in-ai-chat/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Xbox Game Pass Deals: Save Over $60 on a 1-Year Subscription     - CNET](https://www.cnet.com/deals/best-game-pass-and-xbox-live-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

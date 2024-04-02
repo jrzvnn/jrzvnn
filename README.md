@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with Sony Music CEO Rob Stringer on AI&#39;s role in the industry, licensing concerns with TikTok, working with Sony for over two decades, and more &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/240402/p3#a240402p3)
+ - [The XZ Backdoor: Everything You Need to Know](https://www.wired.com/story/xz-backdoor-everything-you-need-to-know/)
  - [On the Daily Show, Jon Stewart says Apple asked him not to have FTC chair Lina Khan for his Apple podcast by saying &quot;please don&#39;t talk to her&quot; &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/240402/p2#a240402p2)
  - [Q&amp;A with Intuit Mailchimp CEO Rania Succar on the core business of email, acquiring Mailchimp in 2021, generative AI, shutting down TinyLetter, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240402/p1#a240402p1)
- - [Wordle Answer For Tuesday: Don&#39;t Click Here if You Don&#39;t Want Spoilers     - CNET](https://www.cnet.com/news/wordle-answer-for-tuesday-dont-click-here-if-you-dont-want-spoilers/#ftag=CAD590a51e)
- - [How to use Continuity Camera with Apple Music Sing on Apple TV 4K](https://appleinsider.com/inside/apple-tv-4k/tips/how-to-use-continuity-camera-with-apple-music-sing-on-apple-tv-4k?utm_medium=rss)
- - [NYC-based Web3 infrastructure company Xion raised $25M, reportedly a Series A, from Animoca Brands, Laser Digital, Multicoin, Arrington Capital, and others &lpar;MK Manoylov/The Block&rpar;](http://www.techmeme.com/240401/p25#a240401p25)<!-- TECH:END -->
+ - [Wordle Answer For Tuesday: Don&#39;t Click Here if You Don&#39;t Want Spoilers     - CNET](https://www.cnet.com/news/wordle-answer-for-tuesday-dont-click-here-if-you-dont-want-spoilers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

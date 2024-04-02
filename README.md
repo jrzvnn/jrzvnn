@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Leaked design resource hints at iOS 18&#39;s visionOS-inspired redesign](https://appleinsider.com/articles/24/04/02/leaked-design-resource-hints-at-ios-18s-visionos-inspired-redesign?utm_medium=rss)
  - [Tesla’s year-over-year sales dropped for the first time since 2020](https://www.theverge.com/2024/4/2/24118950/tesla-q1-2024-sales-decline-ev-competition-ford-gm)
  - [Billie Eilish, Katy Perry, and 200+ others sign a letter to AI developers and tech companies decrying &quot;predatory&quot; AI that steals voices, replaces artists, more &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/240402/p16#a240402p16)
  - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Read AI, which uses generative AI to summarize meetings, emails, and other messages, raised a $21M Series A led by Goodwater Capital &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240402/p15#a240402p15)
- - [Leaked design resource hints at iOS 18&#39;s visionOS-inspired redesign](https://appleinsider.com/articles/24/04/02/leaked-design-resource-hints-at-ios-18s-visionos-inspired-redesign?utm_medium=rss)<!-- TECH:END -->
+ - [Read AI, which uses generative AI to summarize meetings, emails, and other messages, raised a $21M Series A led by Goodwater Capital &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240402/p15#a240402p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mother daughter combo](http://9gag.com/gag/aD2Rv0B)
- - 😝 [I&#39;m powerful doktor](http://9gag.com/gag/ajPQvp1)
- - 💣 [What&#39;s their practice for?](http://9gag.com/gag/axyErZp)
+ - 😝 [Take a wild guess what happened in Itally recently.](http://9gag.com/gag/amoqy16)
  - 😝 [My kind of woman](http://9gag.com/gag/ary1wzB)
+ - 💣 [No pain no gain](http://9gag.com/gag/aO8oEEy)
+ - 😝 [How does a smaller, petite female police officer arrest a large, rough man who is built like a linebacker, especially if he resists arrest?](http://9gag.com/gag/apRKwEE)
  - 👉 [Professional victim..](http://9gag.com/gag/ajPQvGR)<!-- MEMES:END -->
 
 ---

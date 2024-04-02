@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the US asks South Korea to add China chip export restrictions similar to Commerce Department rules, including on chips beyond 14nm and DRAM beyond 18nm &lpar;Bloomberg&rpar;](http://www.techmeme.com/240402/p6#a240402p6)
  - [Jon Stewart opens up about Apple interference in his show](https://appleinsider.com/articles/24/04/02/jon-stewart-opens-up-about-apple-interference-in-his-show?utm_medium=rss)
  - [He Emptied an Entire Crypto Exchange Onto a Thumb Drive. Then He Disappeared](https://www.wired.com/story/faruk-ozer-turkey-crypto-fraud/)
  - [How Meta’s global head of safety approaches online age verification](https://www.theverge.com/2024/4/2/24118204/meta-age-verification-quest-store-antigone-davis)
- - [A profile of hiking app AllTrails, which exploded during the pandemic, has raised $225M+, and now focuses on helping users &quot;find your outdoors&quot;, not just trails &lpar;Nikita Richardson/New York Times&rpar;](http://www.techmeme.com/240402/p5#a240402p5)
- - [An interview with outgoing ASML CTO Martin van den Brink on the company&#39;s rise, Moore&#39;s Law, competition from Chinese companies, hyper-NA technology, and more &lpar;MIT Technology Review&rpar;](http://www.techmeme.com/240402/p4#a240402p4)<!-- TECH:END -->
+ - [A profile of hiking app AllTrails, which exploded during the pandemic, has raised $225M+, and now focuses on helping users &quot;find your outdoors&quot;, not just trails &lpar;Nikita Richardson/New York Times&rpar;](http://www.techmeme.com/240402/p5#a240402p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

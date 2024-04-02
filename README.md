@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How does a smaller, petite female police officer arrest a large, rough man who is built like a linebacker, especially if he resists arrest?](http://9gag.com/gag/apRKwEE)
- - 😝 [Obligatory Eastern post.](http://9gag.com/gag/aNDmMeK)
- - 💣 [Bork bork](http://9gag.com/gag/aD2RLrB)
  - 😝 [Mother daughter combo](http://9gag.com/gag/aD2Rv0B)
- - 👉 [Valid Question TBF](http://9gag.com/gag/aW4B5Rq)<!-- MEMES:END -->
+ - 😝 [I&#39;m powerful doktor](http://9gag.com/gag/ajPQvp1)
+ - 💣 [What&#39;s their practice for?](http://9gag.com/gag/axyErZp)
+ - 😝 [My kind of woman](http://9gag.com/gag/ary1wzB)
+ - 👉 [Professional victim..](http://9gag.com/gag/ajPQvGR)<!-- MEMES:END -->
 
 ---
 

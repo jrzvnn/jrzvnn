@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Someone has to get the job done.](http://9gag.com/gag/aE0dmqM)
- - 😝 [It never gets old](http://9gag.com/gag/aD2RegZ)
- - 💣 [Finally found the full video](http://9gag.com/gag/awyNpq8)
+ - 😝 [Don&#39;t put your dick in crazy](http://9gag.com/gag/a1mpj42)
+ - 😝 [What an odd thing to say...](http://9gag.com/gag/ary1EzK)
+ - 💣 [Karma](http://9gag.com/gag/a0ev3Kz)
  - 😝 [\ud83d\udca59GAG x @AffynOfficial: Exclusive Sprays in @BuddyArenaGame ! \ud83e\udd1d](http://9gag.com/gag/a5XL8KL)
- - 👉 [Always someone else&#39;s fault.](http://9gag.com/gag/a0evydO)<!-- MEMES:END -->
+ - 👉 [50/50 chance it\u2019s a dude](http://9gag.com/gag/a34vOXm)<!-- MEMES:END -->
 
 ---
 

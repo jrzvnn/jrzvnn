@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gust of wind](http://9gag.com/gag/aZZq5Z9)
- - 😝 [Professional victim..](http://9gag.com/gag/ajPQvGR)
- - 💣 [I think i download the wrong wonder woman](http://9gag.com/gag/axyEKBp)
- - 😝 [My kind of woman](http://9gag.com/gag/ary1wzB)
- - 👉 [Samurai Warrior don&#39;t need a Gun.](http://9gag.com/gag/aoym6pm)<!-- MEMES:END -->
+ - 😝 [What&#39;s their practice for?](http://9gag.com/gag/axyErZp)
+ - 😝 [Valid Question TBF](http://9gag.com/gag/aW4B5Rq)
+ - 💣 [Professional victim..](http://9gag.com/gag/ajPQvGR)
+ - 😝 [Programming does that to the mind?](http://9gag.com/gag/aKG4ZLZ)
+ - 👉 [Take a wild guess what happened in Itally recently.](http://9gag.com/gag/amoqy16)<!-- MEMES:END -->
 
 ---
 

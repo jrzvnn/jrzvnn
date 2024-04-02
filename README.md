@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Beats launches new Beats Fit Pro edition in collaboration with Alo Yoga](https://appleinsider.com/articles/24/04/02/beats-launches-new-beats-fit-pro-edition-in-collaboration-with-alo-yoga?utm_medium=rss)
  - [Jon Stewart on AI, Lina Khan, and the other things Apple didn’t want him to say](https://www.theverge.com/2024/4/2/24118814/jon-stewart-apple-tv-plus-daily-show-lina-khan-interview)
  - [New AirPods, AirPods Max now expected in late 2024](https://appleinsider.com/articles/24/04/02/new-airpods-airpods-max-now-expected-in-late-2024?utm_medium=rss)
- - [MSI Prestige 13 AI Evo Review: A Lightweight and Powerful Laptop](https://www.wired.com/review/msi-prestige-13-ai-evo/)
- - [Future Apple Watch bands could automatically launch apps or change face](https://appleinsider.com/articles/23/03/21/future-apple-watch-bands-could-automatically-launch-apps-or-change-face?utm_medium=rss)
- - [Alaska is gonna try and use a robot to scare wildlife from around an airport](https://www.theverge.com/2024/4/2/24118846/boston-dynamics-robot-dog-alaska-fairbanks-airport-wildlife)<!-- TECH:END -->
+ - [We Love This 50-Inch Vizio 4K TV, and It&#39;s Now Yours for Just $223     - CNET](https://www.cnet.com/deals/we-love-this-50-inch-vizio-4k-tv-and-its-now-yours-for-just-223/#ftag=CAD590a51e)
+ - [Otter AI Review: Useful Tools, Messy Transcripts     - CNET](https://www.cnet.com/tech/services-and-software/otter-ai-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

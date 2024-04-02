@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Young , Cart](http://9gag.com/gag/apRKMKp)
- - 😝 [Asking people in Iran how much they have in their bank account](http://9gag.com/gag/aO8o5Qy)
- - 💣 [How does a smaller, petite female police officer arrest a large, rough man who is built like a linebacker, especially if he resists arrest?](http://9gag.com/gag/apRKwEE)
+ - 😝 [What&#39;s their practice for?](http://9gag.com/gag/axyErZp)
+ - 😝 [Programming does that to the mind?](http://9gag.com/gag/aKG4ZLZ)
+ - 💣 [Gust of wind](http://9gag.com/gag/aZZq5Z9)
  - 😝 [\ud83d\udca59GAG x @AffynOfficial: Exclusive Sprays in @BuddyArenaGame ! \ud83e\udd1d](http://9gag.com/gag/a5XL8KL)
- - 👉 [Programming does that to the mind?](http://9gag.com/gag/aKG4ZLZ)<!-- MEMES:END -->
+ - 👉 [Asking people in Iran how much they have in their bank account](http://9gag.com/gag/aO8o5Qy)<!-- MEMES:END -->
 
 ---
 

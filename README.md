@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What&#39;s their practice for?](http://9gag.com/gag/axyErZp)
- - 😝 [How does a smaller, petite female police officer arrest a large, rough man who is built like a linebacker, especially if he resists arrest?](http://9gag.com/gag/apRKwEE)
- - 💣 [I don&#39;t understand fashion](http://9gag.com/gag/apRK7xb)
- - 😝 [Professional victim..](http://9gag.com/gag/ajPQvGR)
- - 👉 [Gust of wind](http://9gag.com/gag/aZZq5Z9)<!-- MEMES:END -->
+ - 😝 [Young , Cart](http://9gag.com/gag/apRKMKp)
+ - 😝 [Valid Question TBF](http://9gag.com/gag/aW4B5Rq)
+ - 💣 [What his Parents found in his Room..](http://9gag.com/gag/aMVeLQM)
+ - 😝 [My kind of woman](http://9gag.com/gag/ary1wzB)
+ - 👉 [She was furious. I am planing on inviting the judge to my BBQ party.](http://9gag.com/gag/aVvjrjw)<!-- MEMES:END -->
 
 ---
 

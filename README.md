@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Young , Cart](http://9gag.com/gag/apRKMKp)
  - 😝 [Valid Question TBF](http://9gag.com/gag/aW4B5Rq)
- - 💣 [What his Parents found in his Room..](http://9gag.com/gag/aMVeLQM)
- - 😝 [My kind of woman](http://9gag.com/gag/ary1wzB)
- - 👉 [She was furious. I am planing on inviting the judge to my BBQ party.](http://9gag.com/gag/aVvjrjw)<!-- MEMES:END -->
+ - 😝 [Mother daughter combo](http://9gag.com/gag/aD2Rv0B)
+ - 💣 [My kind of woman](http://9gag.com/gag/ary1wzB)
+ - 😝 [I&#39;m powerful doktor](http://9gag.com/gag/ajPQvp1)
+ - 👉 [Karma](http://9gag.com/gag/a0ev3Kz)<!-- MEMES:END -->
 
 ---
 

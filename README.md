@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X promotes Kylie McRoberts to Head of Safety, after Ella Irwin left in June 2023, when Musk overruled a decision that limited the spread of an anti-trans video &lpar;David Ingram/NBC News&rpar;](http://www.techmeme.com/240402/p17#a240402p17)
  - [Beats Solo 4 release imminent with FCC regulator listing](https://appleinsider.com/articles/24/04/02/beats-solo-4-release-imminent-with-fcc-regulator-listing?utm_medium=rss)
  - [Apple rolls out minor updates to iWork apps](https://appleinsider.com/articles/24/04/02/apple-rolls-out-minor-updates-to-iwork-apps?utm_medium=rss)
  - [Apple restarts the developer beta cycle once again](https://appleinsider.com/articles/24/04/02/apple-restarts-the-developer-beta-cycle-once-again?utm_medium=rss)
- - [Hello to you as well, Starbucks](https://www.theverge.com/2024/4/2/24119073/starbucks-app-hi-notification)
- - [Apple starts testing the visionOS 1.2 developer beta](https://appleinsider.com/articles/24/04/02/apple-starts-testing-the-visionos-12-developer-beta?utm_medium=rss)<!-- TECH:END -->
+ - [Hello to you as well, Starbucks](https://www.theverge.com/2024/4/2/24119073/starbucks-app-hi-notification)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

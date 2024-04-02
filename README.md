@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Scotland&#39;s new hate laws: So The Indian Council has reported the Pakistani origin Scottish PM to the police for racism against disadvantaged white men, made by the Scottish Police itself. Pretty sure the government didn&#39;t see that coming.](http://9gag.com/gag/a6ZrRYA)
- - 😝 [Finally something we can all unite against. Unelected Pakistani will sentence Scots up to 7 years for stirring up hate such as making offensive posts you can find everywhere on social media.](http://9gag.com/gag/aGyKQ4Z)
- - 💣 [Ismail Hanyieh &lpar;Hamas Leader&rpar;&#39;s sister was arrested in Israel. You know that aid money people send to the Palestinians? They found it in her home.](http://9gag.com/gag/a5QpY3O)
+ - 😝 [Newly arrived illegals in Spain](http://9gag.com/gag/a87dOp1)
+ - 😝 [Professional victim..](http://9gag.com/gag/ajPQvGR)
+ - 💣 [What&#39;s their practice for?](http://9gag.com/gag/axyErZp)
  - 😝 [\ud83d\udca59GAG x @AffynOfficial: Exclusive Sprays in @BuddyArenaGame ! \ud83e\udd1d](http://9gag.com/gag/a5XL8KL)
- - 👉 [Hard reset](http://9gag.com/gag/aVvj6xy)<!-- MEMES:END -->
+ - 👉 [Mother daughter combo](http://9gag.com/gag/aD2Rv0B)<!-- MEMES:END -->
 
 ---
 

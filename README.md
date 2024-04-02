@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Programming does that to the mind?](http://9gag.com/gag/aKG4ZLZ)
- - 😝 [Professional victim..](http://9gag.com/gag/ajPQvGR)
- - 💣 [Gust of wind](http://9gag.com/gag/aZZq5Z9)
- - 😝 [Instant karma. A woman verbally assaulted and threatened utility workers with a machete. She broke her arm.](http://9gag.com/gag/aXPZOLz)
- - 👉 [My kind of woman](http://9gag.com/gag/ary1wzB)<!-- MEMES:END -->
+ - 😝 [How does a smaller, petite female police officer arrest a large, rough man who is built like a linebacker, especially if he resists arrest?](http://9gag.com/gag/apRKwEE)
+ - 😝 [Obligatory Eastern post.](http://9gag.com/gag/aNDmMeK)
+ - 💣 [Bork bork](http://9gag.com/gag/aD2RLrB)
+ - 😝 [Mother daughter combo](http://9gag.com/gag/aD2Rv0B)
+ - 👉 [Valid Question TBF](http://9gag.com/gag/aW4B5Rq)<!-- MEMES:END -->
 
 ---
 

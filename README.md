@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Truth Social Can’t Meme Its Way Into Becoming the Next Gamestop](https://www.wired.com/story/truth-social-meme-gamestop/)
+ - [A timeline of the attack on open-source project XZ Utils, which began in late 2021 and led to a backdoor with RCE in Linux distros from Debian, Red Hat, others &lpar;research!rsc&rpar;](http://www.techmeme.com/240402/p18#a240402p18)
  - [X promotes Kylie McRoberts to Head of Safety, after Ella Irwin left in June 2023, when Musk overruled a decision that limited the spread of an anti-trans video &lpar;David Ingram/NBC News&rpar;](http://www.techmeme.com/240402/p17#a240402p17)
  - [Beats Solo 4 release imminent with FCC regulator listing](https://appleinsider.com/articles/24/04/02/beats-solo-4-release-imminent-with-fcc-regulator-listing?utm_medium=rss)
- - [Apple rolls out minor updates to iWork apps](https://appleinsider.com/articles/24/04/02/apple-rolls-out-minor-updates-to-iwork-apps?utm_medium=rss)
- - [Apple restarts the developer beta cycle once again](https://appleinsider.com/articles/24/04/02/apple-restarts-the-developer-beta-cycle-once-again?utm_medium=rss)
- - [Hello to you as well, Starbucks](https://www.theverge.com/2024/4/2/24119073/starbucks-app-hi-notification)<!-- TECH:END -->
+ - [Apple rolls out minor updates to iWork apps](https://appleinsider.com/articles/24/04/02/apple-rolls-out-minor-updates-to-iwork-apps?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

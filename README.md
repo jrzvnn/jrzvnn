@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ah yes, the new stealthy, totally quiet lethal trains](http://9gag.com/gag/ayNEA0y)
- - 😝 [Take a wild guess what happened in Itally recently.](http://9gag.com/gag/amoqy16)
- - 💣 [Valid Question TBF](http://9gag.com/gag/aW4B5Rq)
- - 😝 [I&#39;m powerful doktor](http://9gag.com/gag/ajPQvp1)
- - 👉 [Programming does that to the mind?](http://9gag.com/gag/aKG4ZLZ)<!-- MEMES:END -->
+ - 😝 [Gust of wind](http://9gag.com/gag/aZZq5Z9)
+ - 😝 [Professional victim..](http://9gag.com/gag/ajPQvGR)
+ - 💣 [I think i download the wrong wonder woman](http://9gag.com/gag/axyEKBp)
+ - 😝 [My kind of woman](http://9gag.com/gag/ary1wzB)
+ - 👉 [Samurai Warrior don&#39;t need a Gun.](http://9gag.com/gag/aoym6pm)<!-- MEMES:END -->
 
 ---
 

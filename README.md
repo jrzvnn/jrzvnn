@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gust of wind](http://9gag.com/gag/aZZq5Z9)
- - 😝 [My kind of woman](http://9gag.com/gag/ary1wzB)
- - 💣 [Programming does that to the mind?](http://9gag.com/gag/aKG4ZLZ)
- - 😝 [How does a smaller, petite female police officer arrest a large, rough man who is built like a linebacker, especially if he resists arrest?](http://9gag.com/gag/apRKwEE)
- - 👉 [No pain no gain](http://9gag.com/gag/aO8oEEy)<!-- MEMES:END -->
+ - 😝 [What&#39;s their practice for?](http://9gag.com/gag/axyErZp)
+ - 😝 [I&#39;m powerful doktor](http://9gag.com/gag/ajPQvp1)
+ - 💣 [My kind of woman](http://9gag.com/gag/ary1wzB)
+ - 😝 [The dead body of Iraqi refugee and Islam critic Salwan Sabah Matti Momika has been found in Norway. Momika was known for arranging demonstrations in Sweden where he publicly burned the Quran.](http://9gag.com/gag/abA381B)
+ - 👉 [Karma](http://9gag.com/gag/a0ev3Kz)<!-- MEMES:END -->
 
 ---
 

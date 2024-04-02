@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Neuron activation](http://9gag.com/gag/aLn6o2g)
- - 😝 [What&#39;s their practice for?](http://9gag.com/gag/axyErZp)
- - 💣 [I don&#39;t understand fashion](http://9gag.com/gag/apRK7xb)
- - 😝 [Professional victim..](http://9gag.com/gag/ajPQvGR)
- - 👉 [Egyptian Spinosaurus](http://9gag.com/gag/aRB6W1B)<!-- MEMES:END -->
+ - 😝 [Ah yes, the new stealthy, totally quiet lethal trains](http://9gag.com/gag/ayNEA0y)
+ - 😝 [Take a wild guess what happened in Itally recently.](http://9gag.com/gag/amoqy16)
+ - 💣 [Valid Question TBF](http://9gag.com/gag/aW4B5Rq)
+ - 😝 [I&#39;m powerful doktor](http://9gag.com/gag/ajPQvp1)
+ - 👉 [Programming does that to the mind?](http://9gag.com/gag/aKG4ZLZ)<!-- MEMES:END -->
 
 ---
 

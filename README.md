@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No pain no gain](http://9gag.com/gag/aO8oEEy)
- - 😝 [Newly arrived illegals in Spain](http://9gag.com/gag/a87dOp1)
- - 💣 [Dad of the year](http://9gag.com/gag/agmr93v)
- - 😝 [I&#39;m powerful doktor](http://9gag.com/gag/ajPQvp1)
- - 👉 [Karma](http://9gag.com/gag/a0ev3Kz)<!-- MEMES:END -->
+ - 😝 [Gust of wind](http://9gag.com/gag/aZZq5Z9)
+ - 😝 [What&#39;s their practice for?](http://9gag.com/gag/axyErZp)
+ - 💣 [Mother daughter combo](http://9gag.com/gag/aD2Rv0B)
+ - 😝 [Karma](http://9gag.com/gag/a0ev3Kz)
+ - 👉 [Professional victim..](http://9gag.com/gag/ajPQvGR)<!-- MEMES:END -->
 
 ---
 

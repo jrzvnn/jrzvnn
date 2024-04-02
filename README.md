@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Karma](http://9gag.com/gag/a0ev3Kz)
- - 😝 [This is the worst version of bungy jumping I can imagine...](http://9gag.com/gag/aKG4ZOj)
- - 💣 [Apologize for cancer subs](http://9gag.com/gag/ary1LbV)
+ - 😝 [Professional victim..](http://9gag.com/gag/ajPQvGR)
+ - 😝 [I&#39;m powerful doktor](http://9gag.com/gag/ajPQvp1)
+ - 💣 [Scotland&#39;s new hate speech law came into force today. The law, championed by Hamza Yousaf, will carry prison sentences up to 7 years for statements deemed to stir up hate on the grounds of religion, sexuality, race &amp; gender identity. This speech by Yousaf sounds a bit hatefull.](http://9gag.com/gag/aMVe5DW)
  - 😝 [\ud83d\udca59GAG x @AffynOfficial: Exclusive Sprays in @BuddyArenaGame ! \ud83e\udd1d](http://9gag.com/gag/a5XL8KL)
- - 👉 [How does a smaller, petite female police officer arrest a large, rough man who is built like a linebacker, especially if he resists arrest?](http://9gag.com/gag/apRKwEE)<!-- MEMES:END -->
+ - 👉 [Newly arrived illegals in Spain](http://9gag.com/gag/a87dOp1)<!-- MEMES:END -->
 
 ---
 

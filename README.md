@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Microsoft is testing a new AI-powered Xbox chatbot that can automate support tasks via an &quot;embodied AI character&quot;, as part of larger Xbox AI efforts &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240402/p9#a240402p9)
+ - [Apple, Google fail in legal challenge against patent review rule](https://appleinsider.com/articles/24/04/02/apple-google-fail-in-legal-challenge-against-patent-review-rule?utm_medium=rss)
+ - [Israel-based AI chipmaker Hailo raised a $120M Series C extension from Israeli firms and family offices at a $1.2B valuation, taking its total funding to $340M &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240402/p8#a240402p8)
  - [Google Podcasts Is Gone. Here’s How to Transfer Your Subscriptions](https://www.wired.com/story/google-podcasts-how-to-transfer-your-subscriptions/)
- - [Microsoft is working on an Xbox AI chatbot](https://www.theverge.com/2024/4/2/24118728/microsoft-xbox-ai-chatbot-testing)
- - [A profile of MIT labor economist David Autor, an unlikely AI optimist who says AI may help restore &quot;the middle-skill, middle-class heart of the US labor market&quot; &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/240402/p7#a240402p7)
- - [iPhone SE 4 case leak shows Face ID notch](https://appleinsider.com/articles/24/04/02/iphone-se-4-case-leak-shows-face-id-notch?utm_medium=rss)
- - [7 Best Garmin Watches &lpar;2024&rpar;: Which Is Best for Running, Cycling, and More](https://www.wired.com/gallery/best-garmin-watch/)<!-- TECH:END -->
+ - [Microsoft is working on an Xbox AI chatbot](https://www.theverge.com/2024/4/2/24118728/microsoft-xbox-ai-chatbot-testing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

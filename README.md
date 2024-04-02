@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is the worst version of bungy jumping I can imagine...](http://9gag.com/gag/aKG4ZOj)
- - 😝 [Karma](http://9gag.com/gag/a0ev3Kz)
- - 💣 [How does a smaller, petite female police officer arrest a large, rough man who is built like a linebacker, especially if he resists arrest?](http://9gag.com/gag/apRKwEE)
+ - 😝 [London taste](http://9gag.com/gag/avy2jjE)
+ - 😝 [How does a smaller, petite female police officer arrest a large, rough man who is built like a linebacker, especially if he resists arrest?](http://9gag.com/gag/apRKwEE)
+ - 💣 [This is the worst version of bungy jumping I can imagine...](http://9gag.com/gag/aKG4ZOj)
  - 😝 [\ud83d\udca59GAG x @AffynOfficial: Exclusive Sprays in @BuddyArenaGame ! \ud83e\udd1d](http://9gag.com/gag/a5XL8KL)
- - 👉 [Programming does that to the mind?](http://9gag.com/gag/aKG4ZLZ)<!-- MEMES:END -->
+ - 👉 [Good Knight guys](http://9gag.com/gag/a87dN21)<!-- MEMES:END -->
 
 ---
 

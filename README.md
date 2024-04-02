@@ -179,7 +179,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - 😝 [Newly arrived illegals in Spain](http://9gag.com/gag/a87dOp1)
  - 💣 [Dad of the year](http://9gag.com/gag/agmr93v)
  - 😝 [I&#39;m powerful doktor](http://9gag.com/gag/ajPQvp1)
- - 👉 [The dead body of Iraqi refugee and Islam critic Salwan Sabah Matti Momika has been found in Norway. Momika was known for arranging demonstrations in Sweden where he publicly burned the Quran.](http://9gag.com/gag/abA381B)<!-- MEMES:END -->
+ - 👉 [Karma](http://9gag.com/gag/a0ev3Kz)<!-- MEMES:END -->
 
 ---
 

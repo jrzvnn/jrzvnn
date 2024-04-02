@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Jon Stewart on AI, Lina Khan, and the other things Apple didn’t want him to say](https://www.theverge.com/2024/4/2/24118814/jon-stewart-apple-tv-plus-daily-show-lina-khan-interview)
  - [New AirPods, AirPods Max now expected in late 2024](https://appleinsider.com/articles/24/04/02/new-airpods-airpods-max-now-expected-in-late-2024?utm_medium=rss)
  - [MSI Prestige 13 AI Evo Review: A Lightweight and Powerful Laptop](https://www.wired.com/review/msi-prestige-13-ai-evo/)
  - [Future Apple Watch bands could automatically launch apps or change face](https://appleinsider.com/articles/23/03/21/future-apple-watch-bands-could-automatically-launch-apps-or-change-face?utm_medium=rss)
- - [Alaska is gonna try and use a robot to scare wildlife from around an airport](https://www.theverge.com/2024/4/2/24118846/boston-dynamics-robot-dog-alaska-fairbanks-airport-wildlife)
- - [A better keyboard than QWERTY](https://www.theverge.com/24118418/keyboard-layout-qwerty-microsoft-copilot-surface-netflix-thumbs)<!-- TECH:END -->
+ - [Alaska is gonna try and use a robot to scare wildlife from around an airport](https://www.theverge.com/2024/4/2/24118846/boston-dynamics-robot-dog-alaska-fairbanks-airport-wildlife)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

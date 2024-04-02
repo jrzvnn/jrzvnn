@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Scotland&#39;s new hate speech law came into force today. The law, championed by Hamza Yousaf, will carry prison sentences up to 7 years for statements deemed to stir up hate on the grounds of religion, sexuality, race &amp; gender identity. This speech by Yousaf sounds a bit hatefull.](http://9gag.com/gag/aMVe5DW)
- - 😝 [I don&#39;t understand fashion](http://9gag.com/gag/apRK7xb)
- - 💣 [Thank you!](http://9gag.com/gag/a9yje9o)
+ - 😝 [Mother daughter combo](http://9gag.com/gag/aD2Rv0B)
  - 😝 [Professional victim..](http://9gag.com/gag/ajPQvGR)
- - 👉 [I&#39;m powerful doktor](http://9gag.com/gag/ajPQvp1)<!-- MEMES:END -->
+ - 💣 [Valid Question TBF](http://9gag.com/gag/aW4B5Rq)
+ - 😝 [My kind of woman](http://9gag.com/gag/ary1wzB)
+ - 👉 [Karma](http://9gag.com/gag/a0ev3Kz)<!-- MEMES:END -->
 
 ---
 

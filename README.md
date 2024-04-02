@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to use Continuity Camera with Apple Music Sing on Apple TV 4K](https://appleinsider.com/inside/apple-tv-4k/tips/how-to-use-continuity-camera-with-apple-music-sing-on-apple-tv-4k?utm_medium=rss)
  - [NYC-based Web3 infrastructure company Xion raised $25M, reportedly a Series A, from Animoca Brands, Laser Digital, Multicoin, Arrington Capital, and others &lpar;MK Manoylov/The Block&rpar;](http://www.techmeme.com/240401/p25#a240401p25)
  - [TikTok brings its dedicated STEM content feed to Europe, starting in the UK and Ireland, and says 33% of users have enabled the feed since its US launch in 2023 &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240401/p24#a240401p24)
  - [Japan approves up to $3.9B in subsidies to chip venture Rapidus, as the company tries to close the gap with TSMC in cutting-edge fabrication technology &lpar;Yuki Hagiwara/Bloomberg&rpar;](http://www.techmeme.com/240401/p23#a240401p23)
- - [The Browser Company poaches Apple Safari design team member](https://appleinsider.com/articles/24/04/02/the-browser-company-poaches-apple-safari-design-team-member?utm_medium=rss)
- - [Best Online Glasses and Contacts Deals: Save on Designer Brands, Transition Lenses and More     - CNET](https://www.cnet.com/deals/best-online-glasses-and-contacts-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Browser Company poaches Apple Safari design team member](https://appleinsider.com/articles/24/04/02/the-browser-company-poaches-apple-safari-design-team-member?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

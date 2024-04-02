@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Now there’s an AI gas station with robot fry cooks](https://www.theverge.com/2024/4/2/24119413/robot-fry-cook-re-up-gas-station-florida-ai)
  - [Anthropic researchers detail &quot;many-shot jailbreaking&quot;, which can evade LLMs&#39; safety guardrails by including a large number of faux dialogues in a single prompt &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/240402/p25#a240402p25)
- - [Perplexity Will Begin Placing Ads via Brand-Sponsored Queries in AI Chat     - CNET](https://www.cnet.com/tech/services-and-software/perplexity-will-begin-placing-ads-via-brand-sponsored-queries-in-ai-chat/#ftag=CAD590a51e)
- - [POTUS&#39; official Threads account starts using Meta&#39;s ActivityPub integration to post on the decentralized networking protocol &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240402/p24#a240402p24)
- - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [Apple Pencil 3 could have new squeeze gesture](https://appleinsider.com/articles/24/04/02/apple-pencil-3-could-have-new-squeeze-gesture?utm_medium=rss)<!-- TECH:END -->
+ - [Best Xbox Game Pass Deals: Save Over $60 on a 1-Year Subscription     - CNET](https://www.cnet.com/deals/best-game-pass-and-xbox-live-deals/#ftag=CAD590a51e)
+ - [Best Solar Panel Installation Companies in Mississippi     - CNET](https://www.cnet.com/home/energy-and-utilities/mississippi-solar-panels/#ftag=CAD590a51e)
+ - [Perplexity Will Begin Placing Ads via Brand-Sponsored Queries in AI Chat     - CNET](https://www.cnet.com/tech/services-and-software/perplexity-will-begin-placing-ads-via-brand-sponsored-queries-in-ai-chat/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

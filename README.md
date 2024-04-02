@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mother daughter combo](http://9gag.com/gag/aD2Rv0B)
  - 😝 [Professional victim..](http://9gag.com/gag/ajPQvGR)
+ - 😝 [Gust of wind](http://9gag.com/gag/aZZq5Z9)
  - 💣 [Valid Question TBF](http://9gag.com/gag/aW4B5Rq)
- - 😝 [My kind of woman](http://9gag.com/gag/ary1wzB)
- - 👉 [Karma](http://9gag.com/gag/a0ev3Kz)<!-- MEMES:END -->
+ - 😝 [The dead body of Iraqi refugee and Islam critic Salwan Sabah Matti Momika has been found in Norway. Momika was known for arranging demonstrations in Sweden where he publicly burned the Quran.](http://9gag.com/gag/abA381B)
+ - 👉 [My kind of woman](http://9gag.com/gag/ary1wzB)<!-- MEMES:END -->
 
 ---
 

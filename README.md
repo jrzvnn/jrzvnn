@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Microsoft is testing a new AI-powered Xbox chatbot that can automate support tasks via an &quot;embodied AI character&quot;, as part of larger Xbox AI efforts &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240402/p9#a240402p9)
- - [Apple, Google fail in legal challenge against patent review rule](https://appleinsider.com/articles/24/04/02/apple-google-fail-in-legal-challenge-against-patent-review-rule?utm_medium=rss)
- - [Israel-based AI chipmaker Hailo raised a $120M Series C extension from Israeli firms and family offices at a $1.2B valuation, taking its total funding to $340M &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240402/p8#a240402p8)
- - [Google Podcasts Is Gone. Here’s How to Transfer Your Subscriptions](https://www.wired.com/story/google-podcasts-how-to-transfer-your-subscriptions/)
- - [Microsoft is working on an Xbox AI chatbot](https://www.theverge.com/2024/4/2/24118728/microsoft-xbox-ai-chatbot-testing)<!-- TECH:END -->
+ - [Flip, a marketplace with product review videos by shoppers, raised a $144M Series C led by Streamlined at a $1.05B valuation, including $50M from AppLovin &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/240402/p10#a240402p10)
+ - [A quarter of Apple&#39;s revenue will come from Services by 2025](https://appleinsider.com/articles/24/04/02/a-quarter-of-apples-revenue-will-come-from-services-by-2025?utm_medium=rss)
+ - [This Bag of Cells Could Grow New Livers Inside of People](https://www.wired.com/story/cells-grow-liver-inside-patient/)
+ - [Yahoo is buying Artifact, the AI news app from the Instagram co-founders](https://www.theverge.com/2024/4/2/24118436/yahoo-news-artifact-acquisition)
+ - [Best printer 2024, best printer for home use, office use, printing labels, printer for school, homework printer you are a printer we are all printers](https://www.theverge.com/2024/4/2/24117976/best-printer-2024-home-use-office-use-labels-school-homework)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

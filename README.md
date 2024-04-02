@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No pain no gain](http://9gag.com/gag/aO8oEEy)
- - 😝 [Newly arrived illegals in Spain](http://9gag.com/gag/a87dOp1)
- - 💣 [What&#39;s their practice for?](http://9gag.com/gag/axyErZp)
+ - 😝 [Young , Cart](http://9gag.com/gag/apRKMKp)
+ - 😝 [Asking people in Iran how much they have in their bank account](http://9gag.com/gag/aO8o5Qy)
+ - 💣 [How does a smaller, petite female police officer arrest a large, rough man who is built like a linebacker, especially if he resists arrest?](http://9gag.com/gag/apRKwEE)
  - 😝 [\ud83d\udca59GAG x @AffynOfficial: Exclusive Sprays in @BuddyArenaGame ! \ud83e\udd1d](http://9gag.com/gag/a5XL8KL)
- - 👉 [My kind of woman](http://9gag.com/gag/ary1wzB)<!-- MEMES:END -->
+ - 👉 [Programming does that to the mind?](http://9gag.com/gag/aKG4ZLZ)<!-- MEMES:END -->
 
 ---
 

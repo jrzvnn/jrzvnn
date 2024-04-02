@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here&#39;s How Generative AI Depicts Queer People](https://www.wired.com/story/artificial-intelligence-lgbtq-representation-openai-sora/)
+ - [Apple Store Employees Say Coworkers Were Disciplined for Supporting Palestinians](https://www.wired.com/story/apple-store-employees-disciplined-supporting-palestinians/)
+ - [Will the Apple antitrust case affect your phone’s security?](https://www.theverge.com/2024/4/2/24107719/iphone-security-apple-doj-monopoly-antitrust-lawsuit)
  - [Twitch’s Hype Train record smashed again by Pirate Software](https://www.theverge.com/2024/4/2/24118755/twitch-hype-train-world-record-piratesoftware-bits-gifted-subs)
- - [I’m a New Homeowner. An App Called Thumbtack Has Become a Lifesaver for Me](https://www.wired.com/story/thumbtack-app-for-homeowners/)
- - [Sources: the US asks South Korea to add China chip export restrictions similar to Commerce Department rules, including on chips beyond 14nm and DRAM beyond 18nm &lpar;Bloomberg&rpar;](http://www.techmeme.com/240402/p6#a240402p6)
- - [Final Hours on This Babbel Lifetime Subscription Deal That Saves You $459     - CNET](https://www.cnet.com/deals/final-hours-this-babbel-lifetime-subscription-deal-that-saves-you-459/#ftag=CAD590a51e)
- - [Jon Stewart opens up about Apple interference in his show](https://appleinsider.com/articles/24/04/02/jon-stewart-opens-up-about-apple-interference-in-his-show?utm_medium=rss)<!-- TECH:END -->
+ - [I’m a New Homeowner. An App Called Thumbtack Has Become a Lifesaver for Me](https://www.wired.com/story/thumbtack-app-for-homeowners/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

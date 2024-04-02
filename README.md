@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Karma](http://9gag.com/gag/a0ev3Kz)
- - 😝 [Asking people in Iran how much they have in their bank account](http://9gag.com/gag/aO8o5Qy)
- - 💣 [Professional victim..](http://9gag.com/gag/ajPQvGR)
- - 😝 [What&#39;s their practice for?](http://9gag.com/gag/axyErZp)
- - 👉 [My kind of woman](http://9gag.com/gag/ary1wzB)<!-- MEMES:END -->
+ - 😝 [50/50 chance it\u2019s a dude](http://9gag.com/gag/a34vOXm)
+ - 💣 [I don&#39;t understand fashion](http://9gag.com/gag/apRK7xb)
+ - 😝 [Apologize for cancer subs](http://9gag.com/gag/ary1LbV)
+ - 👉 [Programming does that to the mind?](http://9gag.com/gag/aKG4ZLZ)<!-- MEMES:END -->
 
 ---
 

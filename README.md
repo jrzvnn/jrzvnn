@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Professional victim..](http://9gag.com/gag/ajPQvGR)
- - 😝 [What&#39;s their practice for?](http://9gag.com/gag/axyErZp)
- - 💣 [When manager presents your work to his boss and you realize dude doesn&#39;t understand the job](http://9gag.com/gag/a87dgKd)
+ - 😝 [It be like that](http://9gag.com/gag/avy2qG5)
+ - 😝 [This is the worst version of bungy jumping I can imagine...](http://9gag.com/gag/aKG4ZOj)
+ - 💣 [Gust of wind](http://9gag.com/gag/aZZq5Z9)
  - 😝 [\ud83d\udca59GAG x @AffynOfficial: Exclusive Sprays in @BuddyArenaGame ! \ud83e\udd1d](http://9gag.com/gag/a5XL8KL)
- - 👉 [What his Parents found in his Room..](http://9gag.com/gag/aMVeLQM)<!-- MEMES:END -->
+ - 👉 [How does a smaller, petite female police officer arrest a large, rough man who is built like a linebacker, especially if he resists arrest?](http://9gag.com/gag/apRKwEE)<!-- MEMES:END -->
 
 ---
 

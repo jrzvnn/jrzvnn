@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sideloading apps from the web in EU possible with iOS 17.5](https://appleinsider.com/articles/24/04/02/sideloading-apps-from-the-web-in-eu-possible-with-ios-175?utm_medium=rss)
  - [The 25 Best Shows on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-shows/)
  - [Truth Social Can’t Meme Its Way Into Becoming the Next Gamestop](https://www.wired.com/story/truth-social-meme-gamestop/)
  - [A timeline of the attack on open-source project XZ Utils, which began in late 2021 and led to a backdoor with RCE in Linux distros from Debian, Red Hat, others &lpar;research!rsc&rpar;](http://www.techmeme.com/240402/p18#a240402p18)
- - [X promotes Kylie McRoberts to Head of Safety, after Ella Irwin left in June 2023, when Musk overruled a decision that limited the spread of an anti-trans video &lpar;David Ingram/NBC News&rpar;](http://www.techmeme.com/240402/p17#a240402p17)
- - [Beats Solo 4 release imminent with FCC regulator listing](https://appleinsider.com/articles/24/04/02/beats-solo-4-release-imminent-with-fcc-regulator-listing?utm_medium=rss)<!-- TECH:END -->
+ - [Most Efficient Solar Panels of April 2024     - CNET](https://www.cnet.com/home/energy-and-utilities/most-efficient-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

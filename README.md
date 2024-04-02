@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Normal!](http://9gag.com/gag/aYQj50q)
- - 😝 [She was furious. I am planing on inviting the judge to my BBQ party.](http://9gag.com/gag/aVvjrjw)
- - 💣 [Valid Question TBF](http://9gag.com/gag/aW4B5Rq)
- - 😝 [Bad ice cream = Rest in pepperoni](http://9gag.com/gag/ajPQwPq)
- - 👉 [Gust of wind](http://9gag.com/gag/aZZq5Z9)<!-- MEMES:END -->
+ - 😝 [Neuron activation](http://9gag.com/gag/aLn6o2g)
+ - 😝 [What&#39;s their practice for?](http://9gag.com/gag/axyErZp)
+ - 💣 [I don&#39;t understand fashion](http://9gag.com/gag/apRK7xb)
+ - 😝 [Professional victim..](http://9gag.com/gag/ajPQvGR)
+ - 👉 [Egyptian Spinosaurus](http://9gag.com/gag/aRB6W1B)<!-- MEMES:END -->
 
 ---
 

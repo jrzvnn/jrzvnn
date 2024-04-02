@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Replit launches Code Repair, an AI agent to automatically fix coding errors, and Teams, which allows developers to collaborate in real time on software projects &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/240402/p23#a240402p23)
  - [Google details Device Bound Session Credentials, a feature that aims to stop browser cookie theft and uses PCs&#39; TPM chip, testing it in beta versions of Chrome &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/240402/p22#a240402p22)
  - [President Biden is now posting into the fediverse](https://www.theverge.com/2024/4/2/24119353/joe-biden-threads-mastodon-activitypub-fediverse)
  - [Apple quietly added Qi2 charging to the iPhone 12](https://www.theverge.com/2024/4/2/24119203/apple-iphone-12-qi2-support-ios-update)
- - [Intel Foundry reports 2023 revenue down 31% YoY to $18.9B, operating loss of $7B, up from $5.2B in 2022, and expects 2024 to be the peak of its losses &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/240402/p21#a240402p21)
- - [US and UK will work together to test AI models for safety threats](https://www.theverge.com/2024/4/2/24119130/ai-us-uk-agreement-model-testing)<!-- TECH:END -->
+ - [Intel Foundry reports 2023 revenue down 31% YoY to $18.9B, operating loss of $7B, up from $5.2B in 2022, and expects 2024 to be the peak of its losses &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/240402/p21#a240402p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

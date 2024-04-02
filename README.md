@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Podcasts Is Gone. Here’s How to Transfer Your Subscriptions](https://www.wired.com/story/google-podcasts-how-to-transfer-your-subscriptions/)
+ - [Microsoft is working on an Xbox AI chatbot](https://www.theverge.com/2024/4/2/24118728/microsoft-xbox-ai-chatbot-testing)
  - [A profile of MIT labor economist David Autor, an unlikely AI optimist who says AI may help restore &quot;the middle-skill, middle-class heart of the US labor market&quot; &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/240402/p7#a240402p7)
  - [iPhone SE 4 case leak shows Face ID notch](https://appleinsider.com/articles/24/04/02/iphone-se-4-case-leak-shows-face-id-notch?utm_medium=rss)
- - [7 Best Garmin Watches &lpar;2024&rpar;: Which Is Best for Running, Cycling, and More](https://www.wired.com/gallery/best-garmin-watch/)
- - [Here&#39;s How Generative AI Depicts Queer People](https://www.wired.com/story/artificial-intelligence-lgbtq-representation-openai-sora/)
- - [Apple Store Employees Say Coworkers Were Disciplined for Supporting Palestinians](https://www.wired.com/story/apple-store-employees-disciplined-supporting-palestinians/)<!-- TECH:END -->
+ - [7 Best Garmin Watches &lpar;2024&rpar;: Which Is Best for Running, Cycling, and More](https://www.wired.com/gallery/best-garmin-watch/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

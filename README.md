@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How does a smaller, petite female police officer arrest a large, rough man who is built like a linebacker, especially if he resists arrest?](http://9gag.com/gag/apRKwEE)
- - 😝 [Gust of wind](http://9gag.com/gag/aZZq5Z9)
- - 💣 [I&#39;m powerful doktor](http://9gag.com/gag/ajPQvp1)
+ - 😝 [Programming does that to the mind?](http://9gag.com/gag/aKG4ZLZ)
  - 😝 [Professional victim..](http://9gag.com/gag/ajPQvGR)
- - 👉 [\u201cHush hush, Why is your hair standing kitty?\u201d](http://9gag.com/gag/aMVe6q6)<!-- MEMES:END -->
+ - 💣 [Gust of wind](http://9gag.com/gag/aZZq5Z9)
+ - 😝 [Instant karma. A woman verbally assaulted and threatened utility workers with a machete. She broke her arm.](http://9gag.com/gag/aXPZOLz)
+ - 👉 [My kind of woman](http://9gag.com/gag/ary1wzB)<!-- MEMES:END -->
 
 ---
 

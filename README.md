@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [No pain no gain](http://9gag.com/gag/aO8oEEy)
  - 😝 [Newly arrived illegals in Spain](http://9gag.com/gag/a87dOp1)
- - 😝 [Professional victim..](http://9gag.com/gag/ajPQvGR)
  - 💣 [What&#39;s their practice for?](http://9gag.com/gag/axyErZp)
  - 😝 [\ud83d\udca59GAG x @AffynOfficial: Exclusive Sprays in @BuddyArenaGame ! \ud83e\udd1d](http://9gag.com/gag/a5XL8KL)
- - 👉 [Mother daughter combo](http://9gag.com/gag/aD2Rv0B)<!-- MEMES:END -->
+ - 👉 [My kind of woman](http://9gag.com/gag/ary1wzB)<!-- MEMES:END -->
 
 ---
 

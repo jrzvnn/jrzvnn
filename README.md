@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [President Biden is now posting into the fediverse](https://www.theverge.com/2024/4/2/24119353/joe-biden-threads-mastodon-activitypub-fediverse)
+ - [Apple quietly added Qi2 charging to the iPhone 12](https://www.theverge.com/2024/4/2/24119203/apple-iphone-12-qi2-support-ios-update)
+ - [Intel Foundry reports 2023 revenue down 31% YoY to $18.9B, operating loss of $7B, up from $5.2B in 2022, and expects 2024 to be the peak of its losses &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/240402/p21#a240402p21)
  - [US and UK will work together to test AI models for safety threats](https://www.theverge.com/2024/4/2/24119130/ai-us-uk-agreement-model-testing)
- - [NYC’s AI gun detectors hardly work](https://www.theverge.com/2024/4/2/24119275/evolv-technologies-ai-gun-scanners-nyc-subway)
- - [The US NIST, which analyzed only 199 of the 3,370 CVEs the agency received in March, blames the backlog on a lack of &quot;interagency support&quot; &lpar;Simon Hendery/SC Media&rpar;](http://www.techmeme.com/240402/p20#a240402p20)
- - [Final Fantasy VII Rebirth’s biggest twist is concealed in a tiny detail](https://www.theverge.com/2024/4/2/24119195/final-fantasy-vii-rebirth-plot-twist-buster-sword-animation)
- - [Source: the independent Cyber Safety Review Board&#39;s forthcoming report on China&#39;s hack of Microsoft will fault the company for a &quot;cascade of avoidable errors&quot; &lpar;Washington Post&rpar;](http://www.techmeme.com/240402/p19#a240402p19)<!-- TECH:END -->
+ - [NYC’s AI gun detectors hardly work](https://www.theverge.com/2024/4/2/24119275/evolv-technologies-ai-gun-scanners-nyc-subway)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

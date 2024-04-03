@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [J K Rowling taking a stand against the new law](http://9gag.com/gag/amoqZ8d)
- - 😝 [50/50 chance it\u2019s a dude](http://9gag.com/gag/a34vOXm)
- - 💣 [Apologize for cancer subs](http://9gag.com/gag/ary1LbV)
+ - 😝 [What&#39;s their practice for?](http://9gag.com/gag/axyErZp)
+ - 😝 [Title](http://9gag.com/gag/ary1QVX)
+ - 💣 [Karma](http://9gag.com/gag/a0ev3Kz)
  - 😝 [\ud83d\udca59GAG x @AffynOfficial: Exclusive Sprays in @BuddyArenaGame ! \ud83e\udd1d](http://9gag.com/gag/a5XL8KL)
- - 👉 [My kind of woman](http://9gag.com/gag/ary1wzB)<!-- MEMES:END -->
+ - 👉 [If u know u know](http://9gag.com/gag/aKG4QxO)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You can save 20 percent on three months of Xbox Game Pass Ultimate](https://www.theverge.com/2024/4/3/24119876/xbox-game-pass-ultimate-samsug-galaxy-tab-s9-razer-basilisk-v3-deal-sale)
  - [Microsoft says Windows 10 security updates will cost $61 per device for the first year, doubling for the next two years, after ending support in October 2025 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240403/p20#a240403p20)
  - [The Matrix is coming back for a fifth movie](https://www.theverge.com/24120122/the-matrix-sequel-drew-goddard)
- - [Facebook updates its mobile video player with a TikTok-like vertical look and new controls for Reels, Live, and longform videos, starting with the US and Canada &lpar;Amrita Khalid/The Verge&rpar;](http://www.techmeme.com/240403/p19#a240403p19)
- - [Microsoft reveals how much you’ll have to pay to keep using Windows 10 securely](https://www.theverge.com/2024/4/3/24120093/microsoft-windows-10-extended-security-updates-price)
- - [US Navy Veteran Who Feds Say Rammed FBI Headquarters Had QAnon-Linked Online Presence](https://www.wired.com/story/navy-veteran-fbi-headquarters-qanon-conspiracies-online/)<!-- TECH:END -->
+ - [This Amazon Deal Knocks 20% Off Samsung&#39;s Galaxy Z Flip 5     - CNET](https://www.cnet.com/deals/this-amazon-deal-knocks-20-off-samsungs-galaxy-z-flip-5/#ftag=CAD590a51e)
+ - [Why Sleep Awareness Month Matters to Me and Why You Should Care, Too.     - CNET](https://www.cnet.com/health/sleep/why-sleep-awareness-month-matters-to-me-and-why-you-should-care-too/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

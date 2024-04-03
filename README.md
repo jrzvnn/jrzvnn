@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Modal, which offers employees personalized technical and AI skills training, raised a $25M Series A co-led by Left Lane Capital and Ensemble VC &lpar;Andrew Mendez/Silicon Valley ...&rpar;](http://www.techmeme.com/240402/p27#a240402p27)
+ - [&#39;Scoop&#39; on Netflix: The True Story Behind Prince Andrew&#39;s Explosive BBC Interview     - CNET](https://www.cnet.com/tech/services-and-software/scoop-on-netflix-the-true-story-behind-prince-andrews-explosive-bbc-interview/#ftag=CAD590a51e)
  - [George Carlin&#39;s estate settles with the makers of Dudesy, who agree to remove their YouTube video and podcast they originally claimed used an &quot;AI&quot; George Carlin &lpar;Christopher Kuo/New York Times&rpar;](http://www.techmeme.com/240402/p26#a240402p26)
  - [Intel’s chipmaking business lost a boatload of billions last year](https://www.theverge.com/2024/4/2/24119454/intels-chipmaking-business-7-billion-loss)
- - [How one volunteer stopped a backdoor from exposing Linux systems worldwide](https://www.theverge.com/2024/4/2/24119342/xz-utils-linux-backdoor-attempt)
- - [Now there’s an AI gas station with robot fry cooks](https://www.theverge.com/2024/4/2/24119413/robot-fry-cook-re-up-gas-station-florida-ai)
- - [Anthropic researchers detail &quot;many-shot jailbreaking&quot;, which can evade LLMs&#39; safety guardrails by including a large number of faux dialogues in a single prompt &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/240402/p25#a240402p25)<!-- TECH:END -->
+ - [How one volunteer stopped a backdoor from exposing Linux systems worldwide](https://www.theverge.com/2024/4/2/24119342/xz-utils-linux-backdoor-attempt)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp is down worldwide and stuck on connecting](https://www.theverge.com/2024/4/3/24120278/whatsapp-down-outage-connection-issues)
+ - [WhatsApp is down worldwide, while Instagram and Facebook have issues too](https://www.theverge.com/2024/4/3/24120278/whatsapp-down-outage-connection-issues)
+ - [WhatsApp appears to be experiencing a global outage, preventing users from exchanging messages; Facebook Messenger and Instagram are also experiencing issues &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240403/p22#a240403p22)
+ - [Huberman fans aren’t leaving the show behind](https://www.theverge.com/2024/4/3/24119336/andrew-huberman-spotify-audiobook-apple-nyt-audio)
  - [OpenAI says that paid users can now edit DALL-E images in ChatGPT across web, iOS, and Android, using a selection tool and additional text prompts &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/240403/p21#a240403p21)
- - [Apple Vision Pro gains Niantic tech to open up more AR experiences](https://appleinsider.com/articles/24/04/03/apple-vision-pro-gains-niantic-tech-to-open-up-more-ar-experiences?utm_medium=rss)
- - [Meta’s AI image generator can’t imagine an Asian man with a white woman](https://www.theverge.com/2024/4/3/24120029/instagram-meta-ai-sticker-generator-asian-people-racism)
- - [Best Laptop Deals: Save Up to $500 on Your Favorite Brands Like Dell, Asus and More     - CNET](https://www.cnet.com/deals/best-laptop-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Vision Pro gains Niantic tech to open up more AR experiences](https://appleinsider.com/articles/24/04/03/apple-vision-pro-gains-niantic-tech-to-open-up-more-ar-experiences?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

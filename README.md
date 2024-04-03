@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [External drive support in macOS Sonoma is partially broken, and it&#39;s probably Apple&#39;s fault](https://appleinsider.com/articles/24/04/03/external-drive-support-in-macos-sonoma-is-partially-broken-and-its-probably-apples-fault?utm_medium=rss)
  - [‘In 24 Hours, You’ll Have Your Pills:’ American Women Are Traveling to Mexico for Abortions](https://www.wired.com/story/american-women-abortions-mexico/)
  - [Apple MacBook Air M3 review: small upgrades](https://www.theverge.com/24114684/apple-macbook-air-m3-13-15-inch-2024-review)
  - [Microsoft could have prevented Chinese cloud email hack, US cyber report says](https://www.theverge.com/2024/4/3/24119787/microsoft-cloud-email-hack-china-us-cyber-report)
- - [Apple and Google&#39;s tracker misuse feature spotted in beta code](https://appleinsider.com/articles/24/04/03/apple-and-googles-tracker-misuse-feature-spotted-in-beta-code?utm_medium=rss)
- - [Apple Pencil 3 could have new squeeze gesture](https://appleinsider.com/articles/24/04/02/apple-pencil-3-could-have-new-squeeze-gesture?utm_medium=rss)<!-- TECH:END -->
+ - [Apple and Google&#39;s tracker misuse feature spotted in beta code](https://appleinsider.com/articles/24/04/03/apple-and-googles-tracker-misuse-feature-spotted-in-beta-code?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

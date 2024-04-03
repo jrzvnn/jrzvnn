@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Did you see it?](http://9gag.com/gag/axyErPn)
  - 😝 [London taste](http://9gag.com/gag/avy2jjE)
- - 💣 [Prepare before..](http://9gag.com/gag/ae9Kn4v)
+ - 😝 [Title](http://9gag.com/gag/ary1QVX)
+ - 💣 [Karma](http://9gag.com/gag/a0ev3Kz)
  - 😝 [Perfect casting amirite](http://9gag.com/gag/a4PpXyv)
- - 👉 [If it fits it shoots](http://9gag.com/gag/abA3Nj9)<!-- MEMES:END -->
+ - 👉 [Men only want one thing &lpar;translation in comments&rpar;](http://9gag.com/gag/ary1Y4B)<!-- MEMES:END -->
 
 ---
 

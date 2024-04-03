@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [50/50 chance it\u2019s a dude](http://9gag.com/gag/a34vOXm)
- - 😝 [I was Horny, now I&#39;m Sad](http://9gag.com/gag/aoymQWn)
+ - 😝 [Wait what?](http://9gag.com/gag/agmre1W)
+ - 😝 [What his Parents found in his Room..](http://9gag.com/gag/aMVeLQM)
  - 💣 [Karma](http://9gag.com/gag/a0ev3Kz)
  - 😝 [\ud83d\udca59GAG x @AffynOfficial: Exclusive Sprays in @BuddyArenaGame ! \ud83e\udd1d](http://9gag.com/gag/a5XL8KL)
- - 👉 [Don&#39;t put your dick in crazy](http://9gag.com/gag/a1mpj42)<!-- MEMES:END -->
+ - 👉 [Scotland&#39;s new hate speech law came into force today. The law, championed by Hamza Yousaf, will carry prison sentences up to 7 years for statements deemed to stir up hate on the grounds of religion, sexuality, race &amp; gender identity. This speech by Yousaf sounds a bit hatefull.](http://9gag.com/gag/aMVe5DW)<!-- MEMES:END -->
 
 ---
 

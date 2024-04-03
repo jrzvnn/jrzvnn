@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FCC will probably restore Net Neutrality on April 25](https://appleinsider.com/articles/24/04/03/fcc-will-probablly-restore-net-neutrality-on-april-25?utm_medium=rss)
- - [How third-party App Stores will look to users in the EU](https://appleinsider.com/articles/24/04/03/how-third-party-app-stores-will-look-to-users-in-the-eu?utm_medium=rss)
- - [Save a Whopping $600 and Upgrade to the Pixel 7 Pro at Woot Today     - CNET](https://www.cnet.com/deals/save-a-whopping-600-and-upgrade-to-the-pixel-7-pro-at-woot-today/#ftag=CAD590a51e)
- - [Stability AI releases Stable Audio 2.0, letting users create three minute sound clips from copyright-free audio samples, available for free via its website &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240403/p12#a240403p12)
- - [Mortgages Cool Off for Homeseekers: Today&#39;s Mortgage Rates for April 3, 2024     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgages-cool-off-for-homeseekers-todays-mortgage-rates-for-april-3-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Patreon rolls out a Reddit-like community moderation feature that lets podcasters, artists, writers, and other creators assign community members as moderators &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/240403/p13#a240403p13)
+ - [Celestron Trailseeker Review: High Quality Binoculars Without the High Price](https://www.wired.com/review/celestron-trailseeker-ed-8x32-binoculars/)
+ - [Oura’s experimenting with a feature to detect early changes in your health](https://www.theverge.com/2024/4/3/24119189/oura-ring-labs-symptom-radar-wearable-smart-ring)
+ - [Patreon is taking Reddit’s approach to content moderation](https://www.theverge.com/2024/4/3/24118984/patreon-community-chats-expansion-web-free-subscribers)
+ - [FCC will probably restore Net Neutrality on April 25](https://appleinsider.com/articles/24/04/03/fcc-will-probablly-restore-net-neutrality-on-april-25?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

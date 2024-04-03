@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mother daughter combo](http://9gag.com/gag/aD2Rv0B)
+ - 😝 [In the last 36 hours, 7000 illegal Africans have reached Lampedusa, Italy \ud83c\uddee\ud83c\uddf9](http://9gag.com/gag/a34vrM7)
  - 😝 [My kind of woman](http://9gag.com/gag/ary1wzB)
- - 💣 [Gust of wind](http://9gag.com/gag/aZZq5Z9)
+ - 💣 [Mother daughter combo](http://9gag.com/gag/aD2Rv0B)
  - 😝 [\ud83d\udca59GAG x @AffynOfficial: Exclusive Sprays in @BuddyArenaGame ! \ud83e\udd1d](http://9gag.com/gag/a5XL8KL)
- - 👉 [Newly arrived illegals in Spain](http://9gag.com/gag/a87dOp1)<!-- MEMES:END -->
+ - 👉 [Gust of wind](http://9gag.com/gag/aZZq5Z9)<!-- MEMES:END -->
 
 ---
 

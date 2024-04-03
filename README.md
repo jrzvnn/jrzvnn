@@ -175,9 +175,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hope they got severe trauma forever or maybe nuclear holocaust](http://9gag.com/gag/aPA6EjK)
- - 😝 [Karma](http://9gag.com/gag/a0ev3Kz)
- - 💣 [What his Parents found in his Room..](http://9gag.com/gag/aMVeLQM)
+ - 😝 [J K Rowling taking a stand against the new law](http://9gag.com/gag/amoqZ8d)
+ - 😝 [50/50 chance it\u2019s a dude](http://9gag.com/gag/a34vOXm)
+ - 💣 [Apologize for cancer subs](http://9gag.com/gag/ary1LbV)
  - 😝 [\ud83d\udca59GAG x @AffynOfficial: Exclusive Sprays in @BuddyArenaGame ! \ud83e\udd1d](http://9gag.com/gag/a5XL8KL)
  - 👉 [My kind of woman](http://9gag.com/gag/ary1wzB)<!-- MEMES:END -->
 

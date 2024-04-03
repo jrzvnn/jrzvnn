@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Help me out here](http://9gag.com/gag/apRKMOB)
- - 😝 [What&#39;s their practice for?](http://9gag.com/gag/axyErZp)
- - 💣 [Karma](http://9gag.com/gag/a0ev3Kz)
- - 😝 [Apologize for cancer subs](http://9gag.com/gag/ary1LbV)
- - 👉 [What his Parents found in his Room..](http://9gag.com/gag/aMVeLQM)<!-- MEMES:END -->
+ - 😝 [Wait what?](http://9gag.com/gag/agmre1W)
+ - 💣 [What&#39;s their practice for?](http://9gag.com/gag/axyErZp)
+ - 😝 [I was Horny, now I&#39;m Sad](http://9gag.com/gag/aoymQWn)
+ - 👉 [London taste](http://9gag.com/gag/avy2jjE)<!-- MEMES:END -->
 
 ---
 

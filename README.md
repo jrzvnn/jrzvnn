@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EU removes from draft rules a requirement that non-EU cloud providers must set up a joint venture with an EU company to qualify for an EU cybersecurity label &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240403/p23#a240403p23)
+ - [Europe’s space agency prepares to blot out the Sun](https://www.theverge.com/2024/4/3/24120149/european-space-agency-artificial-solar-eclipse-proba-3-spacecraft-corona-study)
  - [Indie adventure Open Roads thrives on curiosity](https://www.theverge.com/24119962/open-roads-annapurna-xbox-ps5-switch-steam)
  - [WhatsApp is down worldwide, while Instagram and Facebook have issues too](https://www.theverge.com/2024/4/3/24120278/whatsapp-down-outage-connection-issues)
- - [WhatsApp appears to be experiencing a global outage, preventing users from exchanging messages; Facebook Messenger and Instagram are also experiencing issues &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240403/p22#a240403p22)
- - [Huberman fans aren’t leaving the show behind](https://www.theverge.com/2024/4/3/24119336/andrew-huberman-spotify-audiobook-apple-nyt-audio)
- - [OpenAI says that paid users can now edit DALL-E images in ChatGPT across web, iOS, and Android, using a selection tool and additional text prompts &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/240403/p21#a240403p21)<!-- TECH:END -->
+ - [WhatsApp appears to be experiencing a global outage, preventing users from exchanging messages; Facebook Messenger and Instagram are also experiencing issues &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240403/p22#a240403p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

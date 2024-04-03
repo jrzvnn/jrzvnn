@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [DALL-E now lets you edit images in ChatGPT](https://www.theverge.com/2024/4/3/24120181/openai-dall-e-chat-gpt-image-edit)
  - [Sources: Google considers adding certain AI-powered search features to its premium subscription services, which already offer access to Gemini in Gmail and Docs &lpar;Financial Times&rpar;](http://www.techmeme.com/240403/p25#a240403p25)
+ - [Ionic Hair Straightener Brush     - CNET](https://www.cnet.com/health/personal-care/ionic-hair-straightener-brush-dpnl/#ftag=CAD590a51e)
  - [Judge allows Roblox illegal gambling suit to proceed](https://www.theverge.com/2024/4/3/24120358/roblox-robux-illegal-gambling-online-casinos-lawsuit-section-230)
- - [WhatsApp, Instagram, and Facebook are dealing with outages](https://www.theverge.com/2024/4/3/24120278/whatsapp-down-outage-connection-issues)
- - [Beyond TSMC, Apple&#39;s supply chain will be disrupted by the Taiwan earthquake](https://appleinsider.com/articles/24/04/03/beyond-tsmc-apples-supply-chain-will-be-disrupted-by-the-taiwan-earthquake?utm_medium=rss)<!-- TECH:END -->
+ - [WhatsApp, Instagram, and Facebook are dealing with outages](https://www.theverge.com/2024/4/3/24120278/whatsapp-down-outage-connection-issues)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

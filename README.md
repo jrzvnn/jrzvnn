@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hope they got severe trauma forever or maybe nuclear holocaust](http://9gag.com/gag/aPA6EjK)
- - 😝 [J K Rowling taking a stand against the new law](http://9gag.com/gag/amoqZ8d)
- - 💣 [London taste](http://9gag.com/gag/avy2jjE)
+ - 😝 [Now that must have been a looong conversation](http://9gag.com/gag/axyEwKM)
+ - 😝 [Did you see it?](http://9gag.com/gag/axyErPn)
+ - 💣 [My kind of woman](http://9gag.com/gag/ary1wzB)
  - 😝 [\ud83d\udca59GAG x @AffynOfficial: Exclusive Sprays in @BuddyArenaGame ! \ud83e\udd1d](http://9gag.com/gag/a5XL8KL)
- - 👉 [The heroes \u1559\u2060&lpar;\u2060\u21c0\u2060\u2038\u2060\u21bc\u2060\u2036\u2060&rpar;\u2060\u1557](http://9gag.com/gag/a9yjxAm)<!-- MEMES:END -->
+ - 👉 [Unforgiven](http://9gag.com/gag/amoqwVd)<!-- MEMES:END -->
 
 ---
 

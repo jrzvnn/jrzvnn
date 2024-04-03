@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Now that must have been a looong conversation](http://9gag.com/gag/axyEwKM)
- - 😝 [I was Horny, now I&#39;m Sad](http://9gag.com/gag/aoymQWn)
- - 💣 [When manager presents your work to his boss and you realize dude doesn&#39;t understand the job](http://9gag.com/gag/a87dgKd)
+ - 😝 [Apologize for cancer subs](http://9gag.com/gag/ary1LbV)
+ - 😝 [A Western comic convention would never](http://9gag.com/gag/apRKZ5E)
+ - 💣 [Good staff is hard to find, this Boss was lucky](http://9gag.com/gag/ayNEjEV)
  - 😝 [\ud83d\udca59GAG x @AffynOfficial: Exclusive Sprays in @BuddyArenaGame ! \ud83e\udd1d](http://9gag.com/gag/a5XL8KL)
- - 👉 [If u know u know](http://9gag.com/gag/aKG4QxO)<!-- MEMES:END -->
+ - 👉 [Where are the insects?](http://9gag.com/gag/aAyB9Wo)<!-- MEMES:END -->
 
 ---
 

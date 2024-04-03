@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Vision Pro is getting more wear time in the surgical theater](https://appleinsider.com/articles/24/04/03/apple-vision-pro-is-getting-more-wear-time-in-the-surgical-theater?utm_medium=rss)
- - [Sources: Spotify plans to raise prices by $1 to $2 per month in the UK, Australia, Pakistan, and two other markets by the end of April, and the US later in 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240403/p15#a240403p15)
- - [Microsoft and Quantinuum detail a breakthrough in quantum error correction, helping run 14,000+ experiments with no errors, an issue that has vexed the industry &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240403/p14#a240403p14)
- - [Apple Savings gets first ever interest rate cut](https://appleinsider.com/articles/24/04/03/apple-savings-gets-first-ever-interest-rate-cut?utm_medium=rss)
- - [Traveling to the Solar Eclipse? You Should Download Google Maps Offline Now. Here&#39;s Why     - CNET](https://www.cnet.com/tech/services-and-software/traveling-to-the-solar-eclipse-you-should-download-google-maps-offline-now-heres-why/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Spotify’s price is reportedly going up again](https://www.theverge.com/2024/4/3/24119884/spotify-2024-price-increase-rumor-audiobooks-supremium)
+ - [Memo: AWS plans to cut several hundred jobs in its Sales, Marketing, and Global Services organization, and a few hundred in its Physical Stores Technology team &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/240403/p16#a240403p16)
+ - [Google brings keyboard shortcuts and custom mouse buttons to ChromeOS](https://www.theverge.com/2024/4/3/24119858/google-chromeos-chromebook-april-update-pixel-watch-phone-custom-keyboard-shortcuts)
+ - [Fujifilm X100VI vs. Ricoh GR IIIx: battle for the best point-and-shoot](https://www.theverge.com/24118170/fujifilm-x100vi-ricoh-gr-iiix-point-shoot-camera-comparison)
+ - [The Mystery of ‘Jia Tan,’ the XZ Backdoor Mastermind](https://www.wired.com/story/jia-tan-xz-backdoor/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Pencil 3 could have new squeeze gesture](https://appleinsider.com/articles/24/04/02/apple-pencil-3-could-have-new-squeeze-gesture?utm_medium=rss)
  - [Apple supplier TSMC evacuates as earthquake hits Taiwan](https://appleinsider.com/articles/24/04/03/apple-supplier-tsmc-evacuates-as-earthquake-hits-taiwan?utm_medium=rss)
  - [Sources: crypto VC firm Paradigm is in talks to raise $750M to $850M for a new fund, which would be the largest since the crash; a16z raised $4.5B in May 2022 &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/240403/p10#a240403p10)
  - [Science Has Discovered How to Make Perfect Gin](https://www.wired.com/story/science-has-discovered-how-to-make-perfect-gin/)
- - [Microsoft 365’s Copilot gets a GPT-4 Turbo upgrade and improved image generation](https://www.theverge.com/2024/4/3/24119784/microsoft-365-copilot-gpt-4-turbo-microsoft-designer)
- - [AI George Carlin case settled as performers demand better protection](https://www.theverge.com/2024/4/3/24119785/ai-george-carlin-lawsuit-settled-artist-rights-alliance-protections)<!-- TECH:END -->
+ - [Microsoft 365’s Copilot gets a GPT-4 Turbo upgrade and improved image generation](https://www.theverge.com/2024/4/3/24119784/microsoft-365-copilot-gpt-4-turbo-microsoft-designer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What&#39;s their practice for?](http://9gag.com/gag/axyErZp)
- - 😝 [Title](http://9gag.com/gag/ary1QVX)
+ - 😝 [50/50 chance it\u2019s a dude](http://9gag.com/gag/a34vOXm)
+ - 😝 [I was Horny, now I&#39;m Sad](http://9gag.com/gag/aoymQWn)
  - 💣 [Karma](http://9gag.com/gag/a0ev3Kz)
  - 😝 [\ud83d\udca59GAG x @AffynOfficial: Exclusive Sprays in @BuddyArenaGame ! \ud83e\udd1d](http://9gag.com/gag/a5XL8KL)
- - 👉 [If u know u know](http://9gag.com/gag/aKG4QxO)<!-- MEMES:END -->
+ - 👉 [Don&#39;t put your dick in crazy](http://9gag.com/gag/a1mpj42)<!-- MEMES:END -->
 
 ---
 

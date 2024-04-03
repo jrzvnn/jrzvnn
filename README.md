@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Did you see it?](http://9gag.com/gag/axyErPn)
- - 😝 [What his Parents found in his Room..](http://9gag.com/gag/aMVeLQM)
- - 💣 [From my 2016 Archive](http://9gag.com/gag/azx7pXZ)
- - 😝 [I was Horny, now I&#39;m Sad](http://9gag.com/gag/aoymQWn)
- - 👉 [What is this !](http://9gag.com/gag/aE0dmPn)<!-- MEMES:END -->
+ - 😝 [Brave woman](http://9gag.com/gag/a7ovYBm)
+ - 😝 [Guys](http://9gag.com/gag/aVvjybO)
+ - 💣 [She&#39;s got a point](http://9gag.com/gag/aO8oWEN)
+ - 😝 [From my 2016 Archive](http://9gag.com/gag/azx7pXZ)
+ - 👉 [The heroes \u1559\u2060&lpar;\u2060\u21c0\u2060\u2038\u2060\u21bc\u2060\u2036\u2060&rpar;\u2060\u1557](http://9gag.com/gag/a9yjxAm)<!-- MEMES:END -->
 
 ---
 

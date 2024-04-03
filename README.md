@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Self-driving software startup Ghost Autonomy, formerly Ghost Locomotion, shuts down, after raising ~$220M and just five months after partnering with OpenAI &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/240403/p28#a240403p28)
  - [Sources: Israel&#39;s bombing campaign in Gaza used Lavender, an AI system that identified 37,000 potential human targets based on their apparent links to Hamas &lpar;The Guardian&rpar;](http://www.techmeme.com/240403/p27#a240403p27)
- - [NASA picks three companies to develop a Moon car for Artemis astronauts](https://www.theverge.com/2024/4/3/24120373/nasa-artemis-astronauts-moon-car)
- - [WhatsApp, Instagram, and Facebook are back up and running after outages](https://www.theverge.com/2024/4/3/24120278/whatsapp-down-outage-connection-issues)
- - [Google could charge Apple users for AI tools in iOS 18](https://appleinsider.com/articles/24/04/03/google-could-charge-apple-users-for-ai-tools-in-ios-18?utm_medium=rss)<!-- TECH:END -->
+ - [Best MacBook Deals: Save Up to $300 on MacBook Air and MacBook Pro Laptops     - CNET](https://www.cnet.com/deals/best-macbook-deals/#ftag=CAD590a51e)
+ - [Google to Drop Support for Dropcam and Nest Secure on April 8     - CNET](https://www.cnet.com/tech/google-to-drop-support-for-dropcam-and-nest-secure-on-april-8/#ftag=CAD590a51e)
+ - [Samsung Galaxy Z Fold 6 Rumored to Be Thinner and Lighter     - CNET](https://www.cnet.com/tech/samsung-galaxy-z-fold-6-rumored-to-be-thinner-and-lighter/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

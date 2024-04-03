@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What his Parents found in his Room..](http://9gag.com/gag/aMVeLQM)
- - 😝 [Wait what?](http://9gag.com/gag/agmre1W)
- - 💣 [What is this !](http://9gag.com/gag/aE0dmPn)
- - 😝 [Perfect casting amirite](http://9gag.com/gag/a4PpXyv)
- - 👉 [London taste](http://9gag.com/gag/avy2jjE)<!-- MEMES:END -->
+ - 😝 [Someone has to get the job done.](http://9gag.com/gag/aE0dmqM)
+ - 😝 [Useful memes](http://9gag.com/gag/adByDKj)
+ - 💣 [Always someone else&#39;s fault.](http://9gag.com/gag/a0evydO)
+ - 😝 [It never gets old](http://9gag.com/gag/aD2RegZ)
+ - 👉 [Guys](http://9gag.com/gag/aVvjybO)<!-- MEMES:END -->
 
 ---
 

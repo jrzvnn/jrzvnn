@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google could charge Apple users for AI tools in iOS 18](https://appleinsider.com/articles/24/04/03/google-could-charge-apple-users-for-ai-tools-in-ios-18?utm_medium=rss)
+ - [SK Hynix says it will invest ~$3.87B in an advanced packaging plant and R&amp;D facility in Indiana to mass-produce high-bandwidth memory chips starting in H2 2028 &lpar;Joyce Lee/Reuters&rpar;](http://www.techmeme.com/240403/p26#a240403p26)
  - [DALL-E now lets you edit images in ChatGPT](https://www.theverge.com/2024/4/3/24120181/openai-dall-e-chat-gpt-image-edit)
  - [Sources: Google considers adding certain AI-powered search features to its premium subscription services, which already offer access to Gemini in Gmail and Docs &lpar;Financial Times&rpar;](http://www.techmeme.com/240403/p25#a240403p25)
- - [Ionic Hair Straightener Brush     - CNET](https://www.cnet.com/health/personal-care/ionic-hair-straightener-brush-dpnl/#ftag=CAD590a51e)
- - [Judge allows Roblox illegal gambling suit to proceed](https://www.theverge.com/2024/4/3/24120358/roblox-robux-illegal-gambling-online-casinos-lawsuit-section-230)
- - [WhatsApp, Instagram, and Facebook are dealing with outages](https://www.theverge.com/2024/4/3/24120278/whatsapp-down-outage-connection-issues)<!-- TECH:END -->
+ - [Ionic Hair Straightener Brush     - CNET](https://www.cnet.com/health/personal-care/ionic-hair-straightener-brush-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

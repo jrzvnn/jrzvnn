@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Vision Pro gains Niantic tech to open up more AR experiences](https://appleinsider.com/articles/24/04/03/apple-vision-pro-gains-niantic-tech-to-open-up-more-ar-experiences?utm_medium=rss)
+ - [Meta’s AI image generator can’t imagine an Asian man with a white woman](https://www.theverge.com/2024/4/3/24120029/instagram-meta-ai-sticker-generator-asian-people-racism)
  - [The Witcher: everything you need to know about Netflix’s fantasy epic](https://www.theverge.com/24120079/the-witcher-netflix-new-reviews-trailer)
  - [AI-Generated Spoofs of &#39;RuPaul&#39;s Drag Race&#39; Are Flooding Instagram and TikTok](https://www.wired.com/story/generative-ai-drag-race-instagram-tiktok/)
- - [You can save 20 percent on three months of Xbox Game Pass Ultimate](https://www.theverge.com/2024/4/3/24119876/xbox-game-pass-ultimate-samsug-galaxy-tab-s9-razer-basilisk-v3-deal-sale)
- - [Microsoft says Windows 10 security updates will cost $61 per device for the first year, doubling for the next two years, after ending support in October 2025 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240403/p20#a240403p20)
- - [The Matrix is coming back for a fifth movie](https://www.theverge.com/24120122/the-matrix-sequel-drew-goddard)<!-- TECH:END -->
+ - [You can save 20 percent on three months of Xbox Game Pass Ultimate](https://www.theverge.com/2024/4/3/24119876/xbox-game-pass-ultimate-samsug-galaxy-tab-s9-razer-basilisk-v3-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

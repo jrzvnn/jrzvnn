@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Vision Pro is getting more wear time in the surgical theater](https://appleinsider.com/articles/24/04/03/apple-vision-pro-is-getting-more-wear-time-in-the-surgical-theater?utm_medium=rss)
  - [Sources: Spotify plans to raise prices by $1 to $2 per month in the UK, Australia, Pakistan, and two other markets by the end of April, and the US later in 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240403/p15#a240403p15)
  - [Microsoft and Quantinuum detail a breakthrough in quantum error correction, helping run 14,000+ experiments with no errors, an issue that has vexed the industry &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240403/p14#a240403p14)
  - [Apple Savings gets first ever interest rate cut](https://appleinsider.com/articles/24/04/03/apple-savings-gets-first-ever-interest-rate-cut?utm_medium=rss)
- - [Patreon rolls out a Reddit-like community moderation feature that lets podcasters, artists, writers, and other creators assign community members as moderators &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/240403/p13#a240403p13)
- - [Celestron Trailseeker Review: High Quality Binoculars Without the High Price](https://www.wired.com/review/celestron-trailseeker-ed-8x32-binoculars/)<!-- TECH:END -->
+ - [Traveling to the Solar Eclipse? You Should Download Google Maps Offline Now. Here&#39;s Why     - CNET](https://www.cnet.com/tech/services-and-software/traveling-to-the-solar-eclipse-you-should-download-google-maps-offline-now-heres-why/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

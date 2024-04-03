@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Asking people in Iran how much they have in their bank account](http://9gag.com/gag/aO8o5Qy)
- - 😝 [Newly arrived illegals in Spain](http://9gag.com/gag/a87dOp1)
- - 💣 [Valid Question TBF](http://9gag.com/gag/aW4B5Rq)
+ - 😝 [Hope they got severe trauma forever or maybe nuclear holocaust](http://9gag.com/gag/aPA6EjK)
+ - 😝 [J K Rowling taking a stand against the new law](http://9gag.com/gag/amoqZ8d)
+ - 💣 [London taste](http://9gag.com/gag/avy2jjE)
  - 😝 [\ud83d\udca59GAG x @AffynOfficial: Exclusive Sprays in @BuddyArenaGame ! \ud83e\udd1d](http://9gag.com/gag/a5XL8KL)
- - 👉 [Apologize for cancer subs](http://9gag.com/gag/ary1LbV)<!-- MEMES:END -->
+ - 👉 [The heroes \u1559\u2060&lpar;\u2060\u21c0\u2060\u2038\u2060\u21bc\u2060\u2036\u2060&rpar;\u2060\u1557](http://9gag.com/gag/a9yjxAm)<!-- MEMES:END -->
 
 ---
 

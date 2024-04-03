@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s next big thing could be a home robot](https://appleinsider.com/articles/24/04/03/apples-next-big-thing-could-be-a-home-robot?utm_medium=rss)
- - [Sources: Apple is exploring home robotic devices, including a mobile robot that can follow users and a table-top device that uses robotics to move a display &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240403/p24#a240403p24)
- - [Verizon&#39;s 5G Home Internet Now Comes With Freebies     - CNET](https://www.cnet.com/deals/verizons-5g-home-internet-now-comes-with-freebies/#ftag=CAD590a51e)
- - [EU removes from draft rules a requirement that non-EU cloud providers must set up a joint venture with an EU company to qualify for an EU cybersecurity label &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240403/p23#a240403p23)
- - [Europe’s space agency prepares to blot out the Sun](https://www.theverge.com/2024/4/3/24120149/european-space-agency-artificial-solar-eclipse-proba-3-spacecraft-corona-study)<!-- TECH:END -->
+ - [Sources: Google considers adding certain AI-powered search features to its premium subscription services, which already offer access to Gemini in Gmail and Docs &lpar;Financial Times&rpar;](http://www.techmeme.com/240403/p25#a240403p25)
+ - [Judge allows Roblox illegal gambling suit to proceed](https://www.theverge.com/2024/4/3/24120358/roblox-robux-illegal-gambling-online-casinos-lawsuit-section-230)
+ - [WhatsApp, Instagram, and Facebook are recovering after outages](https://www.theverge.com/2024/4/3/24120278/whatsapp-down-outage-connection-issues)
+ - [Beyond TSMC, Apple&#39;s supply chain will be disrupted by the Taiwan earthquake](https://appleinsider.com/articles/24/04/03/beyond-tsmc-apples-supply-chain-will-be-disrupted-by-the-taiwan-earthquake?utm_medium=rss)
+ - [Apple&#39;s next big thing could be a home robot](https://appleinsider.com/articles/24/04/03/apples-next-big-thing-could-be-a-home-robot?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

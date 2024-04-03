@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t put your dick in crazy](http://9gag.com/gag/a1mpj42)
- - 😝 [What an odd thing to say...](http://9gag.com/gag/ary1EzK)
- - 💣 [Karma](http://9gag.com/gag/a0ev3Kz)
+ - 😝 [This is the best magic](http://9gag.com/gag/a6ZrROA)
+ - 😝 [A Western comic convention would never](http://9gag.com/gag/apRKZ5E)
+ - 💣 [It never gets old](http://9gag.com/gag/aD2RegZ)
  - 😝 [\ud83d\udca59GAG x @AffynOfficial: Exclusive Sprays in @BuddyArenaGame ! \ud83e\udd1d](http://9gag.com/gag/a5XL8KL)
- - 👉 [50/50 chance it\u2019s a dude](http://9gag.com/gag/a34vOXm)<!-- MEMES:END -->
+ - 👉 [Always someone else&#39;s fault.](http://9gag.com/gag/a0evydO)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Matrix is coming back for a fifth movie](https://www.theverge.com/24120122/the-matrix-sequel-drew-goddard)
  - [Facebook updates its mobile video player with a TikTok-like vertical look and new controls for Reels, Live, and longform videos, starting with the US and Canada &lpar;Amrita Khalid/The Verge&rpar;](http://www.techmeme.com/240403/p19#a240403p19)
  - [Microsoft reveals how much you’ll have to pay to keep using Windows 10 securely](https://www.theverge.com/2024/4/3/24120093/microsoft-windows-10-extended-security-updates-price)
  - [US Navy Veteran Who Feds Say Rammed FBI Headquarters Had QAnon-Linked Online Presence](https://www.wired.com/story/navy-veteran-fbi-headquarters-qanon-conspiracies-online/)
- - [Facebook’s new full-screen video player looks a lot like TikTok](https://www.theverge.com/2024/4/3/24119721/facebook-updated-full-screen-video-player-vertical-view)
- - [Ford’s hybrids just posted their best sales quarter ever — but so did gas-guzzlers](https://www.theverge.com/2024/4/3/24119985/ford-q1-2024-sales-hybrid-gas-electric-mustang-f150)<!-- TECH:END -->
+ - [Facebook’s new full-screen video player looks a lot like TikTok](https://www.theverge.com/2024/4/3/24119721/facebook-updated-full-screen-video-player-vertical-view)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

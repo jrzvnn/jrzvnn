@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Apologize for cancer subs](http://9gag.com/gag/ary1LbV)
- - 😝 [A Western comic convention would never](http://9gag.com/gag/apRKZ5E)
- - 💣 [Good staff is hard to find, this Boss was lucky](http://9gag.com/gag/ayNEjEV)
- - 😝 [\ud83d\udca59GAG x @AffynOfficial: Exclusive Sprays in @BuddyArenaGame ! \ud83e\udd1d](http://9gag.com/gag/a5XL8KL)
- - 👉 [Where are the insects?](http://9gag.com/gag/aAyB9Wo)<!-- MEMES:END -->
+ - 😝 [Did you see it?](http://9gag.com/gag/axyErPn)
+ - 😝 [What his Parents found in his Room..](http://9gag.com/gag/aMVeLQM)
+ - 💣 [From my 2016 Archive](http://9gag.com/gag/azx7pXZ)
+ - 😝 [I was Horny, now I&#39;m Sad](http://9gag.com/gag/aoymQWn)
+ - 👉 [What is this !](http://9gag.com/gag/aE0dmPn)<!-- MEMES:END -->
 
 ---
 

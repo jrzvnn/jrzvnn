@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TSMC halts some chipmaking and evacuates plants after a 7.4 magnitude earthquake, Taiwan&#39;s biggest in 25 years, and plans to assess the impact; UMC did similar &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/240403/p8#a240403p8)
  - [Here&#39;s How to Get Started Using ChatGPT     - CNET](https://www.cnet.com/tech/services-and-software/heres-how-to-get-started-using-chatgpt/#ftag=CAD590a51e)
  - [A profile of Faruk Fatih &amp;Ouml;zer, the convicted CEO of defunct crypto exchange Thodex, as he starts a 11,196-year prison sentence in Turkey for laundering assets &lpar;Jenna Scatena/Wired&rpar;](http://www.techmeme.com/240403/p7#a240403p7)
  - [A first look at two third-party iOS app stores in the EU: the B2B-focused Mobivention and the upcoming AltStore, which takes ~12 screen interactions to install &lpar;Callum Booth/The Verge&rpar;](http://www.techmeme.com/240403/p6#a240403p6)
- - [Boosted by Taiwan&#39;s 2024 elections, Threads has revived its popularity in the country; Sensor Tower says Threads is Taiwan&#39;s most downloaded social app &lpar;Zeyi Yang/MIT Technology Review&rpar;](http://www.techmeme.com/240403/p5#a240403p5)
- - [An interview with Oren Etzioni, the former CEO of Allen Institute for AI, on his nonprofit TrueMedia.org, which offers free tools for identifying deepfakes &lpar;New York Times&rpar;](http://www.techmeme.com/240403/p4#a240403p4)<!-- TECH:END -->
+ - [Boosted by Taiwan&#39;s 2024 elections, Threads has revived its popularity in the country; Sensor Tower says Threads is Taiwan&#39;s most downloaded social app &lpar;Zeyi Yang/MIT Technology Review&rpar;](http://www.techmeme.com/240403/p5#a240403p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

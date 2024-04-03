@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I love Jack Black too...](http://9gag.com/gag/amoqw7X)
- - 😝 [Don&#39;t put your dick in crazy](http://9gag.com/gag/a1mpj42)
- - 💣 [How does a smaller, petite female police officer arrest a large, rough man who is built like a linebacker, especially if he resists arrest?](http://9gag.com/gag/apRKwEE)
+ - 😝 [From my 2016 Archive](http://9gag.com/gag/azx7pXZ)
+ - 😝 [Valid Question TBF](http://9gag.com/gag/aW4B5Rq)
+ - 💣 [I&#39;ll be damned.](http://9gag.com/gag/adBywwM)
  - 😝 [\ud83d\udca59GAG x @AffynOfficial: Exclusive Sprays in @BuddyArenaGame ! \ud83e\udd1d](http://9gag.com/gag/a5XL8KL)
- - 👉 [Asking people in Iran how much they have in their bank account](http://9gag.com/gag/aO8o5Qy)<!-- MEMES:END -->
+ - 👉 [Apologize for cancer subs](http://9gag.com/gag/ary1LbV)<!-- MEMES:END -->
 
 ---
 

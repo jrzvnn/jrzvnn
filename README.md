@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Someone has to get the job done.](http://9gag.com/gag/aE0dmqM)
- - 😝 [Always someone else&#39;s fault.](http://9gag.com/gag/a0evydO)
- - 💣 [Finally found the full video](http://9gag.com/gag/awyNpq8)
+ - 😝 [Hope they got severe trauma forever or maybe nuclear holocaust](http://9gag.com/gag/aPA6EjK)
+ - 😝 [Karma](http://9gag.com/gag/a0ev3Kz)
+ - 💣 [What his Parents found in his Room..](http://9gag.com/gag/aMVeLQM)
  - 😝 [\ud83d\udca59GAG x @AffynOfficial: Exclusive Sprays in @BuddyArenaGame ! \ud83e\udd1d](http://9gag.com/gag/a5XL8KL)
- - 👉 [It never gets old](http://9gag.com/gag/aD2RegZ)<!-- MEMES:END -->
+ - 👉 [My kind of woman](http://9gag.com/gag/ary1wzB)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hard reset](http://9gag.com/gag/aVvj6xy)
- - 😝 [She&#39;s got a point](http://9gag.com/gag/aO8oWEN)
- - 💣 [J.K. Rowling](http://9gag.com/gag/azx7pYq)
+ - 😝 [Now that must have been a looong conversation](http://9gag.com/gag/axyEwKM)
+ - 😝 [Mother daughter combo](http://9gag.com/gag/aD2Rv0B)
+ - 💣 [My kind of woman](http://9gag.com/gag/ary1wzB)
  - 😝 [\ud83d\udca59GAG x @AffynOfficial: Exclusive Sprays in @BuddyArenaGame ! \ud83e\udd1d](http://9gag.com/gag/a5XL8KL)
- - 👉 [London taste](http://9gag.com/gag/avy2jjE)<!-- MEMES:END -->
+ - 👉 [What his Parents found in his Room..](http://9gag.com/gag/aMVeLQM)<!-- MEMES:END -->
 
 ---
 

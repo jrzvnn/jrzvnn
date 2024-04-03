@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In the last 36 hours, 7000 illegal Africans have reached Lampedusa, Italy \ud83c\uddee\ud83c\uddf9](http://9gag.com/gag/a34vrM7)
- - 😝 [My kind of woman](http://9gag.com/gag/ary1wzB)
- - 💣 [Mother daughter combo](http://9gag.com/gag/aD2Rv0B)
+ - 😝 [Hard reset](http://9gag.com/gag/aVvj6xy)
+ - 😝 [She&#39;s got a point](http://9gag.com/gag/aO8oWEN)
+ - 💣 [J.K. Rowling](http://9gag.com/gag/azx7pYq)
  - 😝 [\ud83d\udca59GAG x @AffynOfficial: Exclusive Sprays in @BuddyArenaGame ! \ud83e\udd1d](http://9gag.com/gag/a5XL8KL)
- - 👉 [Gust of wind](http://9gag.com/gag/aZZq5Z9)<!-- MEMES:END -->
+ - 👉 [London taste](http://9gag.com/gag/avy2jjE)<!-- MEMES:END -->
 
 ---
 

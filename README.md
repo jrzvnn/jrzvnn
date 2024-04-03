@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What&#39;s their practice for?](http://9gag.com/gag/axyErZp)
+ - 😝 [Wait what?](http://9gag.com/gag/agmre1W)
  - 😝 [What his Parents found in his Room..](http://9gag.com/gag/aMVeLQM)
- - 💣 [Karma](http://9gag.com/gag/a0ev3Kz)
- - 😝 [London taste](http://9gag.com/gag/avy2jjE)
+ - 💣 [London taste](http://9gag.com/gag/avy2jjE)
+ - 😝 [Karma](http://9gag.com/gag/a0ev3Kz)
  - 👉 [From my 2016 Archive](http://9gag.com/gag/azx7pXZ)<!-- MEMES:END -->
 
 ---

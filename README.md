@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Sources: Apple is exploring home robotic devices, including a mobile robot that can follow users and a table-top device that uses robotics to move a display &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240403/p24#a240403p24)
+ - [Verizon&#39;s 5G Home Internet Now Comes With Freebies     - CNET](https://www.cnet.com/deals/verizons-5g-home-internet-now-comes-with-freebies/#ftag=CAD590a51e)
  - [EU removes from draft rules a requirement that non-EU cloud providers must set up a joint venture with an EU company to qualify for an EU cybersecurity label &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240403/p23#a240403p23)
  - [Europe’s space agency prepares to blot out the Sun](https://www.theverge.com/2024/4/3/24120149/european-space-agency-artificial-solar-eclipse-proba-3-spacecraft-corona-study)
- - [Indie adventure Open Roads thrives on curiosity](https://www.theverge.com/24119962/open-roads-annapurna-xbox-ps5-switch-steam)
- - [WhatsApp is down worldwide, while Instagram and Facebook have issues too](https://www.theverge.com/2024/4/3/24120278/whatsapp-down-outage-connection-issues)<!-- TECH:END -->
+ - [Best Chromebook Deals: Save Over $100 on Chromebooks From Your Favorite Brands     - CNET](https://www.cnet.com/deals/best-chromebook-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

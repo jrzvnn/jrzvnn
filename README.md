@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI George Carlin case settled as performers demand better protection](https://www.theverge.com/2024/4/3/24119785/ai-george-carlin-lawsuit-settled-artist-rights-alliance-protections)
- - [A rising number of Chinese tech workers face legal action from former employers, including Pinduoduo and Tencent, looking to enforce strict noncompete clauses &lpar;Cissy Zhou/Nikkei Asia&rpar;](http://www.techmeme.com/240403/p9#a240403p9)
- - [International Space Station Trash May Have Hit This Florida House](https://www.wired.com/story/house-hit-by-international-space-station-trash-iss/)
- - [TSMC halts some chipmaking and evacuates plants after a 7.4 magnitude earthquake, Taiwan&#39;s biggest in 25 years, and plans to assess the impact; UMC did similar &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/240403/p8#a240403p8)
- - [Here&#39;s How to Get Started Using ChatGPT     - CNET](https://www.cnet.com/tech/services-and-software/heres-how-to-get-started-using-chatgpt/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple supplier TSMC evacuates as earthquake hits Taiwan](https://appleinsider.com/articles/24/04/03/apple-supplier-tsmc-evacuates-as-earthquake-hits-taiwan?utm_medium=rss)
+ - [Sources: crypto VC firm Paradigm is in talks to raise $750M to $850M for a new fund, which would be the largest since the crash; a16z raised $4.5B in May 2022 &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/240403/p10#a240403p10)
+ - [Science Has Discovered How to Make Perfect Gin](https://www.wired.com/story/science-has-discovered-how-to-make-perfect-gin/)
+ - [Microsoft 365’s Copilot gets a GPT-4 Turbo upgrade and improved image generation](https://www.theverge.com/2024/4/3/24119784/microsoft-365-copilot-gpt-4-turbo-microsoft-designer)
+ - [AI George Carlin case settled as performers demand better protection](https://www.theverge.com/2024/4/3/24119785/ai-george-carlin-lawsuit-settled-artist-rights-alliance-protections)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

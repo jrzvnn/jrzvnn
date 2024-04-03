@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at XZ Utils attacker &quot;Jia Tan&quot;, a persona experts say was used by a nation state group and that left little trace after working on the project since 2021 &lpar;Wired&rpar;](http://www.techmeme.com/240403/p17#a240403p17)
  - [Spotify’s price is reportedly going up again](https://www.theverge.com/2024/4/3/24119884/spotify-2024-price-increase-rumor-audiobooks-supremium)
  - [Memo: AWS plans to cut several hundred jobs in its Sales, Marketing, and Global Services organization, and a few hundred in its Physical Stores Technology team &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/240403/p16#a240403p16)
  - [Google brings keyboard shortcuts and custom mouse buttons to ChromeOS](https://www.theverge.com/2024/4/3/24119858/google-chromeos-chromebook-april-update-pixel-watch-phone-custom-keyboard-shortcuts)
- - [Fujifilm X100VI vs. Ricoh GR IIIx: battle for the best point-and-shoot](https://www.theverge.com/24118170/fujifilm-x100vi-ricoh-gr-iiix-point-shoot-camera-comparison)
- - [The Mystery of ‘Jia Tan,’ the XZ Backdoor Mastermind](https://www.wired.com/story/jia-tan-xz-backdoor/)<!-- TECH:END -->
+ - [Save Hundreds on Apple Watches and Accessories in This Limited-Time Woot Sale     - CNET](https://www.cnet.com/deals/save-hundreds-on-apple-watches-and-accessories-in-this-limited-time-woot-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

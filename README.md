@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Someone has to get the job done.](http://9gag.com/gag/aE0dmqM)
- - 😝 [Always someone else&#39;s fault.](http://9gag.com/gag/a0evydO)
- - 💣 [Useful memes](http://9gag.com/gag/adByDKj)
- - 😝 [Passive income](http://9gag.com/gag/amoq3Nj)
- - 👉 [It never gets old](http://9gag.com/gag/aD2RegZ)<!-- MEMES:END -->
+ - 😝 [Did you see it?](http://9gag.com/gag/axyErPn)
+ - 😝 [London taste](http://9gag.com/gag/avy2jjE)
+ - 💣 [Prepare before..](http://9gag.com/gag/ae9Kn4v)
+ - 😝 [Perfect casting amirite](http://9gag.com/gag/a4PpXyv)
+ - 👉 [If it fits it shoots](http://9gag.com/gag/abA3Nj9)<!-- MEMES:END -->
 
 ---
 

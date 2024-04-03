@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [What his Parents found in his Room..](http://9gag.com/gag/aMVeLQM)
  - 😝 [Wait what?](http://9gag.com/gag/agmre1W)
+ - 💣 [What is this !](http://9gag.com/gag/aE0dmPn)
  - 😝 [Perfect casting amirite](http://9gag.com/gag/a4PpXyv)
- - 💣 [J K Rowling taking a stand against the new law](http://9gag.com/gag/amoqZ8d)
- - 😝 [Help me out here](http://9gag.com/gag/apRKMOB)
- - 👉 [From my 2016 Archive](http://9gag.com/gag/azx7pXZ)<!-- MEMES:END -->
+ - 👉 [London taste](http://9gag.com/gag/avy2jjE)<!-- MEMES:END -->
 
 ---
 

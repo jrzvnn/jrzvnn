@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI-generated songs are getting longer, not necessarily better](https://www.theverge.com/2024/4/3/24119438/stability-ai-audio-generation-whale-sounds)
+ - [Welcome to the AI gadget era](https://www.theverge.com/24117865/ai-gadget-era-humane-rabbit-brilliant-meta)
  - [Opera now lets Opera One users download and run 150 LLMs from 50+ families locally, including Llama and Google&#39;s Gemma, via the Ollama open source framework &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240403/p11#a240403p11)
  - [External drive support in macOS Sonoma is partially broken, and it&#39;s probably Apple&#39;s fault](https://appleinsider.com/articles/24/04/03/external-drive-support-in-macos-sonoma-is-partially-broken-and-its-probably-apples-fault?utm_medium=rss)
- - [‘In 24 Hours, You’ll Have Your Pills:’ American Women Are Traveling to Mexico for Abortions](https://www.wired.com/story/american-women-abortions-mexico/)
- - [Apple MacBook Air M3 review: small upgrades](https://www.theverge.com/24114684/apple-macbook-air-m3-13-15-inch-2024-review)
- - [Microsoft could have prevented Chinese cloud email hack, US cyber report says](https://www.theverge.com/2024/4/3/24119787/microsoft-cloud-email-hack-china-us-cyber-report)<!-- TECH:END -->
+ - [Here&#39;s How to Clean Your Keurig Coffee Maker     - CNET](https://www.cnet.com/how-to/heres-how-to-clean-your-keurig-coffee-maker/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

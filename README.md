@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Self-driving software startup Ghost Autonomy, formerly Ghost Locomotion, shuts down, after raising ~$220M and just five months after partnering with OpenAI &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/240403/p28#a240403p28)
  - [Sources: Israel&#39;s bombing campaign in Gaza used Lavender, an AI system that identified 37,000 potential human targets based on their apparent links to Hamas &lpar;The Guardian&rpar;](http://www.techmeme.com/240403/p27#a240403p27)
  - [NASA picks three companies to develop a Moon car for Artemis astronauts](https://www.theverge.com/2024/4/3/24120373/nasa-artemis-astronauts-moon-car)
  - [WhatsApp, Instagram, and Facebook are back up and running after outages](https://www.theverge.com/2024/4/3/24120278/whatsapp-down-outage-connection-issues)
- - [Google could charge Apple users for AI tools in iOS 18](https://appleinsider.com/articles/24/04/03/google-could-charge-apple-users-for-ai-tools-in-ios-18?utm_medium=rss)
- - [SK Hynix says it will invest ~$3.87B in an advanced packaging plant and R&amp;D facility in Indiana to mass-produce high bandwidth memory chips starting in H2 2028 &lpar;Joyce Lee/Reuters&rpar;](http://www.techmeme.com/240403/p26#a240403p26)<!-- TECH:END -->
+ - [Google could charge Apple users for AI tools in iOS 18](https://appleinsider.com/articles/24/04/03/google-could-charge-apple-users-for-ai-tools-in-ios-18?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

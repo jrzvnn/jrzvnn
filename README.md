@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Facebook’s new full-screen video player looks a lot like TikTok](https://www.theverge.com/2024/4/3/24119721/facebook-updated-full-screen-video-player-vertical-view)
  - [Ford’s hybrids just posted their best sales quarter ever — but so did gas-guzzlers](https://www.theverge.com/2024/4/3/24119985/ford-q1-2024-sales-hybrid-gas-electric-mustang-f150)
+ - [Man City vs. Aston Villa Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/man-city-vs-aston-villa-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
  - [Amazon&#39;s $89 AirPods deal delivers best price available](https://appleinsider.com/articles/24/04/03/amazons-89-airpods-deal-delivers-best-price-available?utm_medium=rss)
- - [iPhone 16 Pro may get new colors using iPhone 15 glass technology](https://appleinsider.com/articles/24/04/03/iphone-16-pro-may-get-new-colors-using-iphone-15-glass-technology?utm_medium=rss)
- - [A draft US-EU statement outlines plans to use AI to search for replacements for so-called forever chemicals that are prevalent in chip manufacturing &lpar;Alberto Nardelli/Bloomberg&rpar;](http://www.techmeme.com/240403/p18#a240403p18)<!-- TECH:END -->
+ - [Streaming on Max: The 22 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/streaming-on-max-the-22-absolute-best-movies-to-watch-april-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

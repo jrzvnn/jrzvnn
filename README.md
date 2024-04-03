@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Useful memes](http://9gag.com/gag/adByDKj)
- - 😝 [Someone has to get the job done.](http://9gag.com/gag/aE0dmqM)
- - 💣 [Always someone else&#39;s fault.](http://9gag.com/gag/a0evydO)
- - 😝 [It never gets old](http://9gag.com/gag/aD2RegZ)
- - 👉 [She&#39;s got a point](http://9gag.com/gag/aO8oWEN)<!-- MEMES:END -->
+ - 😝 [Father reveal](http://9gag.com/gag/aD2RK9N)
+ - 😝 [What his Parents found in his Room..](http://9gag.com/gag/aMVeLQM)
+ - 💣 [From my 2016 Archive](http://9gag.com/gag/azx7pXZ)
+ - 😝 [London taste](http://9gag.com/gag/avy2jjE)
+ - 👉 [Karma](http://9gag.com/gag/a0ev3Kz)<!-- MEMES:END -->
 
 ---
 

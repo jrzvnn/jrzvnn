@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Someone has to get the job done.](http://9gag.com/gag/aE0dmqM)
- - 😝 [Useful memes](http://9gag.com/gag/adByDKj)
- - 💣 [Always someone else&#39;s fault.](http://9gag.com/gag/a0evydO)
- - 😝 [It never gets old](http://9gag.com/gag/aD2RegZ)
- - 👉 [Guys](http://9gag.com/gag/aVvjybO)<!-- MEMES:END -->
+ - 😝 [Always someone else&#39;s fault.](http://9gag.com/gag/a0evydO)
+ - 💣 [Useful memes](http://9gag.com/gag/adByDKj)
+ - 😝 [Passive income](http://9gag.com/gag/amoq3Nj)
+ - 👉 [It never gets old](http://9gag.com/gag/aD2RegZ)<!-- MEMES:END -->
 
 ---
 

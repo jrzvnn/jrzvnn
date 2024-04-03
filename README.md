@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The App Store is down, along with Apple TV, Apple Podcasts, and Apple Music](https://www.theverge.com/2024/4/3/24120519/apple-app-store-apple-tv-apple-music-outage)
  - [Self-driving software startup Ghost Autonomy, formerly Ghost Locomotion, shuts down, after raising ~$220M and just five months after partnering with OpenAI &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/240403/p28#a240403p28)
  - [Sources: Israel&#39;s bombing campaign in Gaza used Lavender, an AI system that identified 37,000 potential human targets based on their apparent links to Hamas &lpar;The Guardian&rpar;](http://www.techmeme.com/240403/p27#a240403p27)
  - [Best MacBook Deals: Save Up to $300 on MacBook Air and MacBook Pro Laptops     - CNET](https://www.cnet.com/deals/best-macbook-deals/#ftag=CAD590a51e)
- - [Google to Drop Support for Dropcam and Nest Secure on April 8     - CNET](https://www.cnet.com/tech/google-to-drop-support-for-dropcam-and-nest-secure-on-april-8/#ftag=CAD590a51e)
- - [Samsung Galaxy Z Fold 6 Rumored to Be Thinner and Lighter     - CNET](https://www.cnet.com/tech/samsung-galaxy-z-fold-6-rumored-to-be-thinner-and-lighter/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google to Drop Support for Dropcam and Nest Secure on April 8     - CNET](https://www.cnet.com/tech/google-to-drop-support-for-dropcam-and-nest-secure-on-april-8/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

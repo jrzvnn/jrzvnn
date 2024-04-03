@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Now that must have been a looong conversation](http://9gag.com/gag/axyEwKM)
- - 😝 [Mother daughter combo](http://9gag.com/gag/aD2Rv0B)
- - 💣 [My kind of woman](http://9gag.com/gag/ary1wzB)
+ - 😝 [Asking people in Iran how much they have in their bank account](http://9gag.com/gag/aO8o5Qy)
+ - 😝 [Newly arrived illegals in Spain](http://9gag.com/gag/a87dOp1)
+ - 💣 [Valid Question TBF](http://9gag.com/gag/aW4B5Rq)
  - 😝 [\ud83d\udca59GAG x @AffynOfficial: Exclusive Sprays in @BuddyArenaGame ! \ud83e\udd1d](http://9gag.com/gag/a5XL8KL)
- - 👉 [What his Parents found in his Room..](http://9gag.com/gag/aMVeLQM)<!-- MEMES:END -->
+ - 👉 [Apologize for cancer subs](http://9gag.com/gag/ary1LbV)<!-- MEMES:END -->
 
 ---
 

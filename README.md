@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with Oren Etzioni, the former CEO of Allen Institute for AI, on his nonprofit TrueMedia.org, which offers free tools for identifying deepfakes &lpar;New York Times&rpar;](http://www.techmeme.com/240403/p4#a240403p4)
  - [PitchBook and NVCA report: US VC investments in Q1 2024 hit $36.6B, lowest since 2017, across 2,882 deals, down YoY from $51.6B across 4,026 deals &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240403/p3#a240403p3)
  - [A first look at Europe’s alternative iPhone app stores](https://www.theverge.com/24100979/altstore-europe-app-marketplace-price-games)
  - [Newzoo: PC and console game revenues grew 2.6% YoY to $93.5B in 2023, but average quarterly playtime hours fell 26% from Q1 2021 through Q4 2023 &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240403/p2#a240403p2)
- - [PitchBook: VCs raised $30.4B globally in Q1 2024, a marked slowdown from 2023, which itself was the worst year since 2016, suggesting the end of &quot;megafunds&quot; era &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/240403/p1#a240403p1)
- - [Wordle Answer for Wednesday: Don&#39;t Click Here if You Don&#39;t Want Spoilers     - CNET](https://www.cnet.com/tech/wordle-answer-for-wednesday-dont-click-here-if-you-dont-want-spoilers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [PitchBook: VCs raised $30.4B globally in Q1 2024, a marked slowdown from 2023, which itself was the worst year since 2016, suggesting the end of &quot;megafunds&quot; era &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/240403/p1#a240403p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

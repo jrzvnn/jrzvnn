@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Casting Zoltraak](http://9gag.com/gag/azx7pZq)
- - 😝 [Useful memes](http://9gag.com/gag/adByDKj)
- - 💣 [Someone has to get the job done.](http://9gag.com/gag/aE0dmqM)
- - 😝 [Always someone else&#39;s fault.](http://9gag.com/gag/a0evydO)
- - 👉 [It never gets old](http://9gag.com/gag/aD2RegZ)<!-- MEMES:END -->
+ - 😝 [Help me out here](http://9gag.com/gag/apRKMOB)
+ - 😝 [What&#39;s their practice for?](http://9gag.com/gag/axyErZp)
+ - 💣 [Karma](http://9gag.com/gag/a0ev3Kz)
+ - 😝 [Apologize for cancer subs](http://9gag.com/gag/ary1LbV)
+ - 👉 [What his Parents found in his Room..](http://9gag.com/gag/aMVeLQM)<!-- MEMES:END -->
 
 ---
 

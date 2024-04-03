@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A profile of Faruk Fatih &amp;Ouml;zer, the convicted CEO of defunct crypto exchange Thodex, as he starts a 11,196-year prison sentence in Turkey for laundering assets &lpar;Jenna Scatena/Wired&rpar;](http://www.techmeme.com/240403/p7#a240403p7)
- - [A first look at two third-party iOS app stores in the EU, the B2B focused Mobivention and the upcoming AltStore, which take ~12 screen interactions to install &lpar;Callum Booth/The Verge&rpar;](http://www.techmeme.com/240403/p6#a240403p6)
- - [Boosted by Taiwan&#39;s 2024 elections, Threads has revived its popularity in the country, where it&#39;s the most downloaded social app according to Sensor Tower &lpar;Zeyi Yang/MIT Technology Review&rpar;](http://www.techmeme.com/240403/p5#a240403p5)
+ - [A first look at two third-party iOS app stores in the EU: the B2B-focused Mobivention and the upcoming AltStore, which takes ~12 screen interactions to install &lpar;Callum Booth/The Verge&rpar;](http://www.techmeme.com/240403/p6#a240403p6)
+ - [Boosted by Taiwan&#39;s 2024 elections, Threads has revived its popularity in the country; Sensor Tower says Threads is Taiwan&#39;s most downloaded social app &lpar;Zeyi Yang/MIT Technology Review&rpar;](http://www.techmeme.com/240403/p5#a240403p5)
  - [An interview with Oren Etzioni, the former CEO of Allen Institute for AI, on his nonprofit TrueMedia.org, which offers free tools for identifying deepfakes &lpar;New York Times&rpar;](http://www.techmeme.com/240403/p4#a240403p4)
- - [PitchBook and NVCA report: US VC investments in Q1 2024 hit $36.6B, lowest since 2017, across 2,882 deals, down YoY from $51.6B across 4,026 deals &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240403/p3#a240403p3)<!-- TECH:END -->
+ - [PitchBook and NVCA: US VC investments in Q1 2024 hit $36.6B, the lowest since 2017, across 2,882 deals, down from $51.6B across 4,026 deals in Q1 2023 &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240403/p3#a240403p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

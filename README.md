@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wait what?](http://9gag.com/gag/agmre1W)
- - 😝 [Asking people in Iran how much they have in their bank account](http://9gag.com/gag/aO8o5Qy)
- - 💣 [My kind of woman](http://9gag.com/gag/ary1wzB)
+ - 😝 [What&#39;s their practice for?](http://9gag.com/gag/axyErZp)
+ - 😝 [What his Parents found in his Room..](http://9gag.com/gag/aMVeLQM)
+ - 💣 [What is this !](http://9gag.com/gag/aE0dmPn)
  - 😝 [\ud83d\udca59GAG x @AffynOfficial: Exclusive Sprays in @BuddyArenaGame ! \ud83e\udd1d](http://9gag.com/gag/a5XL8KL)
- - 👉 [What his Parents found in his Room..](http://9gag.com/gag/aMVeLQM)<!-- MEMES:END -->
+ - 👉 [Scotland&#39;s new hate speech law came into force today. The law, championed by Hamza Yousaf, will carry prison sentences up to 7 years for statements deemed to stir up hate on the grounds of religion, sexuality, race &amp; gender identity. This speech by Yousaf sounds a bit hatefull.](http://9gag.com/gag/aMVe5DW)<!-- MEMES:END -->
 
 ---
 

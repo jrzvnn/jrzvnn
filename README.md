@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI says that paid users can now edit DALL-E images in ChatGPT across web, iOS, and Android, using a selection tool and additional text prompts &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/240403/p21#a240403p21)
  - [Apple Vision Pro gains Niantic tech to open up more AR experiences](https://appleinsider.com/articles/24/04/03/apple-vision-pro-gains-niantic-tech-to-open-up-more-ar-experiences?utm_medium=rss)
  - [Meta’s AI image generator can’t imagine an Asian man with a white woman](https://www.theverge.com/2024/4/3/24120029/instagram-meta-ai-sticker-generator-asian-people-racism)
  - [The Witcher: everything you need to know about Netflix’s fantasy epic](https://www.theverge.com/24120079/the-witcher-netflix-new-reviews-trailer)
- - [AI-Generated Spoofs of &#39;RuPaul&#39;s Drag Race&#39; Are Flooding Instagram and TikTok](https://www.wired.com/story/generative-ai-drag-race-instagram-tiktok/)
- - [You can save 20 percent on three months of Xbox Game Pass Ultimate](https://www.theverge.com/2024/4/3/24119876/xbox-game-pass-ultimate-samsug-galaxy-tab-s9-razer-basilisk-v3-deal-sale)<!-- TECH:END -->
+ - [AI-Generated Spoofs of &#39;RuPaul&#39;s Drag Race&#39; Are Flooding Instagram and TikTok](https://www.wired.com/story/generative-ai-drag-race-instagram-tiktok/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

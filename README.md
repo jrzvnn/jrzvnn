@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI-generated songs are getting longer, not necessarily better](https://www.theverge.com/2024/4/3/24119438/stability-ai-audio-generation-whale-sounds)
- - [Welcome to the AI gadget era](https://www.theverge.com/24117865/ai-gadget-era-humane-rabbit-brilliant-meta)
- - [Opera now lets Opera One users download and run 150 LLMs from 50+ families locally, including Llama and Google&#39;s Gemma, via the Ollama open source framework &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240403/p11#a240403p11)
- - [External drive support in macOS Sonoma is partially broken, and it&#39;s probably Apple&#39;s fault](https://appleinsider.com/articles/24/04/03/external-drive-support-in-macos-sonoma-is-partially-broken-and-its-probably-apples-fault?utm_medium=rss)
- - [Here&#39;s How to Clean Your Keurig Coffee Maker     - CNET](https://www.cnet.com/how-to/heres-how-to-clean-your-keurig-coffee-maker/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [FCC will probably restore Net Neutrality on April 25](https://appleinsider.com/articles/24/04/03/fcc-will-probablly-restore-net-neutrality-on-april-25?utm_medium=rss)
+ - [How third-party App Stores will look to users in the EU](https://appleinsider.com/articles/24/04/03/how-third-party-app-stores-will-look-to-users-in-the-eu?utm_medium=rss)
+ - [Save a Whopping $600 and Upgrade to the Pixel 7 Pro at Woot Today     - CNET](https://www.cnet.com/deals/save-a-whopping-600-and-upgrade-to-the-pixel-7-pro-at-woot-today/#ftag=CAD590a51e)
+ - [Stability AI releases Stable Audio 2.0, letting users create three minute sound clips from copyright-free audio samples, available for free via its website &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240403/p12#a240403p12)
+ - [Mortgages Cool Off for Homeseekers: Today&#39;s Mortgage Rates for April 3, 2024     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgages-cool-off-for-homeseekers-todays-mortgage-rates-for-april-3-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

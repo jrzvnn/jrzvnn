@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I feel bad for him](http://9gag.com/gag/adByDDB)
- - 😝 [Apologize for cancer subs](http://9gag.com/gag/ary1LbV)
- - 💣 [Wait what?](http://9gag.com/gag/agmre1W)
+ - 😝 [Wait what?](http://9gag.com/gag/agmre1W)
+ - 😝 [Asking people in Iran how much they have in their bank account](http://9gag.com/gag/aO8o5Qy)
+ - 💣 [My kind of woman](http://9gag.com/gag/ary1wzB)
  - 😝 [\ud83d\udca59GAG x @AffynOfficial: Exclusive Sprays in @BuddyArenaGame ! \ud83e\udd1d](http://9gag.com/gag/a5XL8KL)
- - 👉 [Asking people in Iran how much they have in their bank account](http://9gag.com/gag/aO8o5Qy)<!-- MEMES:END -->
+ - 👉 [What his Parents found in his Room..](http://9gag.com/gag/aMVeLQM)<!-- MEMES:END -->
 
 ---
 

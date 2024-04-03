@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [The FCC plans to vote on April 25 to restore net neutrality rules and assume regulatory oversight of broadband internet that was rescinded under President Trump &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/240402/p29#a240402p29)
  - [Bluetti AC240 portable power station pushes the boundaries with IP65 waterproof rating](https://appleinsider.com/articles/24/04/03/bluetti-ac240-portable-power-station-pushes-the-boundaries-with-ip65-waterproof-rating?utm_medium=rss)
- - [PE firm EQT AB agrees to acquire compliance software provider Avetta from Welsh, Carson, Anderson, &amp; Stowe, sources say at a ~$3B valuation, including debt &lpar;Ryan Gould/Bloomberg&rpar;](http://www.techmeme.com/240402/p28#a240402p28)
- - [Best Exercise Bikes for 2024     - CNET](https://www.cnet.com/health/fitness/best-exercise-bike/#ftag=CAD590a51e)
- - [Best Wireless Headphones and Earbuds for iPhone 12     - CNET](https://www.cnet.com/tech/mobile/best-headphones-and-wireless-earbuds-for-iphone-12/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Murray, Utah     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-murray-ut/#ftag=CAD590a51e)
+ - [Best Ski Accessories for 2024: High-Tech Gear for the Winter     - CNET](https://www.cnet.com/tech/mobile/best-ski-gear-tech/#ftag=CAD590a51e)
+ - [PE firm EQT AB agrees to acquire compliance software provider Avetta from Welsh, Carson, Anderson, &amp; Stowe, sources say at a ~$3B valuation, including debt &lpar;Ryan Gould/Bloomberg&rpar;](http://www.techmeme.com/240402/p28#a240402p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

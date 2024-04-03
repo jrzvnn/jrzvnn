@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to use your Mac screen inside the Apple Vision Pro](https://www.theverge.com/24118997/apple-vision-pro-mac-screen-how-to)
+ - [Lifx launches two new 1,600-lumen bulbs that work with Matter](https://www.theverge.com/2024/4/3/24119965/lifx-a21-par38-1600-lumen-smart-home-lighting-matter)
  - [Elon Musk’s reputation is falling — and it’s taking Tesla with it](https://www.theverge.com/2024/4/3/24119918/elon-musk-reputation-impact-tesla-falling-sales)
  - [FCC will vote on restoring net neutrality rules](https://www.theverge.com/2024/4/3/24119889/net-neutrality-fcc-vote-rules-restore)
- - [A look at XZ Utils attacker &quot;Jia Tan&quot;, a persona experts say was used by a nation state group and that left little trace after working on the project since 2021 &lpar;Wired&rpar;](http://www.techmeme.com/240403/p17#a240403p17)
- - [Spotify’s price is reportedly going up again](https://www.theverge.com/2024/4/3/24119884/spotify-2024-price-increase-rumor-audiobooks-supremium)
- - [Memo: AWS plans to cut several hundred jobs in its Sales, Marketing, and Global Services organization, and a few hundred in its Physical Stores Technology team &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/240403/p16#a240403p16)<!-- TECH:END -->
+ - [A look at XZ Utils attacker &quot;Jia Tan&quot;, a persona experts say was used by a nation state group and that left little trace after working on the project since 2021 &lpar;Wired&rpar;](http://www.techmeme.com/240403/p17#a240403p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

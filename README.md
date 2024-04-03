@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why fren shaped?](http://9gag.com/gag/aqy4wAQ)
- - 😝 [A Western comic convention would never](http://9gag.com/gag/apRKZ5E)
- - 💣 [What his Parents found in his Room..](http://9gag.com/gag/aMVeLQM)
+ - 😝 [I love Jack Black too...](http://9gag.com/gag/amoqw7X)
+ - 😝 [Don&#39;t put your dick in crazy](http://9gag.com/gag/a1mpj42)
+ - 💣 [How does a smaller, petite female police officer arrest a large, rough man who is built like a linebacker, especially if he resists arrest?](http://9gag.com/gag/apRKwEE)
  - 😝 [\ud83d\udca59GAG x @AffynOfficial: Exclusive Sprays in @BuddyArenaGame ! \ud83e\udd1d](http://9gag.com/gag/a5XL8KL)
- - 👉 [Wait what?](http://9gag.com/gag/agmre1W)<!-- MEMES:END -->
+ - 👉 [Asking people in Iran how much they have in their bank account](http://9gag.com/gag/aO8o5Qy)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My kind of woman](http://9gag.com/gag/ary1wzB)
- - 😝 [Mother daughter combo](http://9gag.com/gag/aD2Rv0B)
- - 💣 [In the last 36 hours, 7000 illegal Africans have reached Lampedusa, Italy \ud83c\uddee\ud83c\uddf9](http://9gag.com/gag/a34vrM7)
+ - 😝 [I feel bad for him](http://9gag.com/gag/adByDDB)
+ - 😝 [Apologize for cancer subs](http://9gag.com/gag/ary1LbV)
+ - 💣 [Wait what?](http://9gag.com/gag/agmre1W)
  - 😝 [\ud83d\udca59GAG x @AffynOfficial: Exclusive Sprays in @BuddyArenaGame ! \ud83e\udd1d](http://9gag.com/gag/a5XL8KL)
- - 👉 [50/50 chance it\u2019s a dude](http://9gag.com/gag/a34vOXm)<!-- MEMES:END -->
+ - 👉 [Asking people in Iran how much they have in their bank account](http://9gag.com/gag/aO8o5Qy)<!-- MEMES:END -->
 
 ---
 

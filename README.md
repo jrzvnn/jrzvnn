@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [‘In 24 Hours, You’ll Have Your Pills:’ American Women Are Traveling to Mexico for Abortions](https://www.wired.com/story/american-women-abortions-mexico/)
+ - [Apple MacBook Air M3 review: small upgrades](https://www.theverge.com/24114684/apple-macbook-air-m3-13-15-inch-2024-review)
+ - [Microsoft could have prevented Chinese cloud email hack, US cyber report says](https://www.theverge.com/2024/4/3/24119787/microsoft-cloud-email-hack-china-us-cyber-report)
  - [Apple and Google&#39;s tracker misuse feature spotted in beta code](https://appleinsider.com/articles/24/04/03/apple-and-googles-tracker-misuse-feature-spotted-in-beta-code?utm_medium=rss)
- - [Apple Pencil 3 could have new squeeze gesture](https://appleinsider.com/articles/24/04/02/apple-pencil-3-could-have-new-squeeze-gesture?utm_medium=rss)
- - [Apple supplier TSMC evacuates as earthquake hits Taiwan](https://appleinsider.com/articles/24/04/03/apple-supplier-tsmc-evacuates-as-earthquake-hits-taiwan?utm_medium=rss)
- - [Sources: crypto VC firm Paradigm is in talks to raise $750M to $850M for a new fund, which would be the largest since the crash; a16z raised $4.5B in May 2022 &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/240403/p10#a240403p10)
- - [This Hidden iOS 17 Feature Could Help Protect Your Eyes     - CNET](https://www.cnet.com/tech/services-and-software/this-hidden-ios-17-feature-could-help-protect-your-eyes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Pencil 3 could have new squeeze gesture](https://appleinsider.com/articles/24/04/02/apple-pencil-3-could-have-new-squeeze-gesture?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

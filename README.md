@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Casting Zoltraak](http://9gag.com/gag/azx7pZq)
- - 😝 [Someone has to get the job done.](http://9gag.com/gag/aE0dmqM)
- - 💣 [Finally found the full video](http://9gag.com/gag/awyNpq8)
+ - 😝 [Mother daughter combo](http://9gag.com/gag/aD2Rv0B)
+ - 😝 [My kind of woman](http://9gag.com/gag/ary1wzB)
+ - 💣 [Gust of wind](http://9gag.com/gag/aZZq5Z9)
  - 😝 [\ud83d\udca59GAG x @AffynOfficial: Exclusive Sprays in @BuddyArenaGame ! \ud83e\udd1d](http://9gag.com/gag/a5XL8KL)
- - 👉 [It never gets old](http://9gag.com/gag/aD2RegZ)<!-- MEMES:END -->
+ - 👉 [Newly arrived illegals in Spain](http://9gag.com/gag/a87dOp1)<!-- MEMES:END -->
 
 ---
 

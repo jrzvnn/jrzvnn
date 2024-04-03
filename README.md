@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Always someone else&#39;s fault.](http://9gag.com/gag/a0evydO)
- - 😝 [This is the best magic](http://9gag.com/gag/a6ZrROA)
- - 💣 [Finally found the full video](http://9gag.com/gag/awyNpq8)
+ - 😝 [Why fren shaped?](http://9gag.com/gag/aqy4wAQ)
+ - 😝 [A Western comic convention would never](http://9gag.com/gag/apRKZ5E)
+ - 💣 [What his Parents found in his Room..](http://9gag.com/gag/aMVeLQM)
  - 😝 [\ud83d\udca59GAG x @AffynOfficial: Exclusive Sprays in @BuddyArenaGame ! \ud83e\udd1d](http://9gag.com/gag/a5XL8KL)
- - 👉 [It never gets old](http://9gag.com/gag/aD2RegZ)<!-- MEMES:END -->
+ - 👉 [Wait what?](http://9gag.com/gag/agmre1W)<!-- MEMES:END -->
 
 ---
 

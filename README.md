@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Influencers with as Much Presidential Access as the Press](https://www.wired.com/story/social-media-influencers-presidential-access/)
  - [An interview with Saber founder Matthew Karch on criticism of Embracer, joining Embracer&#39;s board in 2020, layoffs, and Embracer&#39;s $2B Savvy deal breaking down &lpar;James Batchelor/GamesIndustry.biz&rpar;](http://www.techmeme.com/240404/p18#a240404p18)
  - [OpenAI’s GPT Store Is Triggering Copyright Complaints](https://www.wired.com/story/openai-gpt-store-triggering-copyright-complaints/)
  - [Elon Musk says &quot;Tesla is increasing comp ... of our AI engineering team&quot;, after OpenAI has been &quot;aggressively recruiting Tesla engineers&quot; with &quot;massive&quot; offers &lpar;Bloomberg&rpar;](http://www.techmeme.com/240404/p17#a240404p17)
- - [These Women Came to Antarctica for Science. Then the Predators Emerged](https://www.wired.com/story/women-antarctica-science-predators-whistleblower/)
- - [Google sues two alleged crypto scammers, accusing them of using its Play Store to offer fraudulent crypto trading and investment apps to steal users&#39; money &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240404/p16#a240404p16)<!-- TECH:END -->
+ - [These Women Came to Antarctica for Science. Then the Predators Emerged](https://www.wired.com/story/women-antarctica-science-predators-whistleblower/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

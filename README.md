@@ -169,8 +169,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [TSMC swiftly recovers chip production one day after Taiwan earthquake](https://appleinsider.com/articles/24/04/04/tsmc-swiftly-recovers-chip-production-one-day-after-taiwan-earthquake?utm_medium=rss)
  - [Tesla is dragging Apple into its upcoming fatal Autopilot crash trial](https://www.theverge.com/2024/4/4/24121014/tesla-apple-huang-autopilot-wrongful-death-trial)
  - [Avatar’s Paul Sun-Hyung Lee wants to geek out with the fans of the future](https://www.theverge.com/24118292/paul-sun-hyung-lee-avatar-mandalorian-ahsoka-interview)
- - [This 128GB OnePlus Nord N30 5G Android Phone Is Just $250 for a Limited Time Only     - CNET](https://www.cnet.com/deals/this-128gb-oneplus-nord-n30-5g-android-phone-is-just-250-for-a-limited-time-only/#ftag=CAD590a51e)
- - [Chelsea vs. Man United Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/chelsea-vs-man-united-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What Is the True Cost of Buying a House in 2024?     - CNET](https://www.cnet.com/personal-finance/the-cost-of-buying-a-house-in-2023/#ftag=CAD590a51e)
+ - [Overcome Your Sleep Issues With These 5 Natural Sleep Aids     - CNET](https://www.cnet.com/health/nutrition/overcome-your-sleep-issues-with-these-5-natural-sleep-aids/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

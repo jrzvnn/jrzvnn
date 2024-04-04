@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Hope they got severe trauma forever or maybe nuclear holocaust](http://9gag.com/gag/aPA6EjK)
  - 😝 [Singapore airlines first class](http://9gag.com/gag/a7ov4r2)
- - 😝 [Perfect casting amirite](http://9gag.com/gag/a4PpXyv)
- - 💣 [Put Brion Bishop in YouTube](http://9gag.com/gag/aRB65pj)
- - 😝 [It was all a plan since the beginning... trust me](http://9gag.com/gag/a87dR21)
+ - 💣 [If u know u know](http://9gag.com/gag/aKG4QxO)
+ - 😝 [Title](http://9gag.com/gag/ary1QVX)
  - 👉 [Crushed hard](http://9gag.com/gag/aW4BzOA)<!-- MEMES:END -->
 
 ---

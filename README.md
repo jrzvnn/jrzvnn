@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [London taste](http://9gag.com/gag/avy2jjE)
  - 😝 [It was all a plan since the beginning... trust me](http://9gag.com/gag/a87dR21)
- - 💣 [If it fits it shoots](http://9gag.com/gag/abA3Nj9)
+ - 😝 [Title](http://9gag.com/gag/ary1QVX)
+ - 💣 [From my 2016 Archive](http://9gag.com/gag/azx7pXZ)
  - 😝 [Crushed hard](http://9gag.com/gag/aW4BzOA)
- - 👉 [Hope they got severe trauma forever or maybe nuclear holocaust](http://9gag.com/gag/aPA6EjK)<!-- MEMES:END -->
+ - 👉 [Perfect casting amirite](http://9gag.com/gag/a4PpXyv)<!-- MEMES:END -->
 
 ---
 

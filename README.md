@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mesmerizing](http://9gag.com/gag/ae9Knbm)
- - 😝 [Men only want one thing &lpar;translation in comments&rpar;](http://9gag.com/gag/ary1Y4B)
- - 💣 [Life is but a scam](http://9gag.com/gag/aRB6noj)
- - 😝 [It was all a plan since the beginning... trust me](http://9gag.com/gag/a87dR21)
- - 👉 [Father reveal](http://9gag.com/gag/aD2RK9N)<!-- MEMES:END -->
+ - 😝 [AI&#39;s depiction of hell](http://9gag.com/gag/a2vEnzp)
+ - 😝 [This is mine.](http://9gag.com/gag/aNDmNAw)
+ - 💣 [If it fits it shoots](http://9gag.com/gag/abA3Nj9)
+ - 😝 [Funny cat video?](http://9gag.com/gag/a0ev2Zn)
+ - 👉 [Crushed hard](http://9gag.com/gag/aW4BzOA)<!-- MEMES:END -->
 
 ---
 

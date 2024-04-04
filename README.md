@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Karma](http://9gag.com/gag/aZZqGRQ)
- - 😝 [Men only want one thing &lpar;translation in comments&rpar;](http://9gag.com/gag/ary1Y4B)
- - 💣 [Perfect casting amirite](http://9gag.com/gag/a4PpXyv)
- - 😝 [From my 2016 Archive](http://9gag.com/gag/azx7pXZ)
- - 👉 [This is mine.](http://9gag.com/gag/aNDmNAw)<!-- MEMES:END -->
+ - 😝 [Crushed hard](http://9gag.com/gag/aW4BzOA)
+ - 💣 [From my 2016 Archive](http://9gag.com/gag/azx7pXZ)
+ - 😝 [This is mine.](http://9gag.com/gag/aNDmNAw)
+ - 👉 [Perfect casting amirite](http://9gag.com/gag/a4PpXyv)<!-- MEMES:END -->
 
 ---
 

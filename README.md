@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Two new iPad models spotted in regulatory database](https://appleinsider.com/articles/24/04/04/two-new-ipad-models-spotted-in-regulatory-database?utm_medium=rss)
+ - [US rock band Kiss sells rights to its music, name, image, and likeness to Swedish entertainment company Pophouse to create a live show, a source says for ~$300M &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/240404/p19#a240404p19)
  - [The Influencers with as Much Presidential Access as the Press](https://www.wired.com/story/social-media-influencers-presidential-access/)
  - [An interview with Saber founder Matthew Karch on criticism of Embracer, joining Embracer&#39;s board in 2020, layoffs, and Embracer&#39;s $2B Savvy deal breaking down &lpar;James Batchelor/GamesIndustry.biz&rpar;](http://www.techmeme.com/240404/p18#a240404p18)
- - [OpenAI’s GPT Store Is Triggering Copyright Complaints](https://www.wired.com/story/openai-gpt-store-triggering-copyright-complaints/)
- - [Elon Musk says &quot;Tesla is increasing comp ... of our AI engineering team&quot;, after OpenAI has been &quot;aggressively recruiting Tesla engineers&quot; with &quot;massive&quot; offers &lpar;Bloomberg&rpar;](http://www.techmeme.com/240404/p17#a240404p17)
- - [These Women Came to Antarctica for Science. Then the Predators Emerged](https://www.wired.com/story/women-antarctica-science-predators-whistleblower/)<!-- TECH:END -->
+ - [OpenAI’s GPT Store Is Triggering Copyright Complaints](https://www.wired.com/story/openai-gpt-store-triggering-copyright-complaints/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

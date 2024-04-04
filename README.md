@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Perfect casting amirite](http://9gag.com/gag/a4PpXyv)
- - 😝 [Crushed hard](http://9gag.com/gag/aW4BzOA)
- - 💣 [From my 2016 Archive](http://9gag.com/gag/azx7pXZ)
+ - 😝 [Title](http://9gag.com/gag/ary1QVX)
  - 😝 [\u201cF**ck, time to relocate the store\u201d](http://9gag.com/gag/avy2NDO)
- - 👉 [Men only want one thing &lpar;translation in comments&rpar;](http://9gag.com/gag/ary1Y4B)<!-- MEMES:END -->
+ - 💣 [Crushed hard](http://9gag.com/gag/aW4BzOA)
+ - 😝 [From my 2016 Archive](http://9gag.com/gag/azx7pXZ)
+ - 👉 [London taste](http://9gag.com/gag/avy2jjE)<!-- MEMES:END -->
 
 ---
 

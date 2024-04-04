@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Is Unpasteurized or Raw Milk Safe to Drink?     - CNET](https://www.cnet.com/health/nutrition/is-unpasteurized-or-raw-milk-safe-to-drink/#ftag=CAD590a51e)
  - [Garmin’s new heart rate tracker pairs nearly perfectly with sports bras](https://www.theverge.com/24119970/garmin-hrm-fit-review-chest-strap-wearables-fitness)
  - [The Future of Video Games Is ... Reality TV?](https://www.wired.com/story/the-future-of-video-games-is-reality-tv/)
  - [Jeff VanderMeer is writing a fourth Southern Reach novel](https://www.theverge.com/2024/4/4/24120983/jeff-vandermeer-absolution-southern-reach-fourth-book)
- - [Craig Federighi is on a mission to let you move work across all of your devices, instantly and seamlessly](https://appleinsider.com/articles/24/04/04/craig-federighi-is-on-a-mission-to-let-you-move-work-across-all-of-your-devices-instantly-and-seamlessly?utm_medium=rss)
- - [Developers say open-source software culture, where users demand constant updates from volunteer coders, is a security issue, as shown by the XZ Utils backdoor &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240404/p27#a240404p27)<!-- TECH:END -->
+ - [Save $100 Off Your New Unlocked Samsung Galaxy A54 5G Phone Today     - CNET](https://www.cnet.com/deals/save-100-off-your-new-unlocked-samsung-galaxy-a54-5g-phone-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

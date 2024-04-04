@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Child Tax Credit Refund 2024: When Will It Arrive?     - CNET](https://www.cnet.com/personal-finance/taxes/child-tax-credit-refund-2024-when-will-it-arrive/#ftag=CAD590a51e)
+ - [&#39;Ripley&#39; Review: Andrew Scott Is Transcendent in Netflix&#39;s Mesmerizing Noir Series     - CNET](https://www.cnet.com/tech/services-and-software/ripley-review-andrew-scott-is-transcendent-in-netflixs-mesmerizing-noir-series/#ftag=CAD590a51e)
+ - [Stop Counting Calories; Track This Key Health Metric Instead     - CNET](https://www.cnet.com/health/nutrition/stop-counting-calories-you-should-track-this-key-health-metric-instead/#ftag=CAD590a51e)
  - [In-memory computing, which seeks to reduce power consumption by processing data where it&#39;s stored, is seeing a boost in interest fueled by the AI energy crisis &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/240404/p8#a240404p8)
- - [A Washington state judge barred the use of AI-enhanced video as trial evidence in a ruling that experts say may be the first-of-its-kind in a US criminal court &lpar;Tim Stelloh/NBC News&rpar;](http://www.techmeme.com/240404/p7#a240404p7)
- - [Oceana: Amazon created 208M lbs of US plastic packaging waste in 2022, up 9.6% YoY: Amazon says it reduced plastic packaging use by 11.6% YoY globally in 2022 &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/240404/p6#a240404p6)
- - [An interview with Andres Freund, a Microsoft database engineer working on PostgreSQL, on discovering the XZ Utils backdoor, doubting his own findings, and more &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/240404/p5#a240404p5)
- - [Google Cloud/Cloud Security Alliance survey of 2,486 IT and security professionals: 63% of security professionals believe AI could help in threat detection &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/240404/p4#a240404p4)<!-- TECH:END -->
+ - [A Washington state judge barred the use of AI-enhanced video as trial evidence in a ruling that experts say may be the first-of-its-kind in a US criminal court &lpar;Tim Stelloh/NBC News&rpar;](http://www.techmeme.com/240404/p7#a240404p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

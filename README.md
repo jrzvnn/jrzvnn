@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Social Media Turned Into a Shopping Mall](https://www.wired.com/story/gadget-lab-podcast-639/)
+ - [iRobot’s new Roomba vacuums start at just $250](https://www.theverge.com/2024/4/4/24120812/irobot-roomba-combo-essentials-robot-vacuum-price-release-date)
  - [AI chip startup SiMa.ai raised $70M led by Maverick Capital to develop chips for cameras, cars, and other consumer devices, taking its total funding to $270M &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/240404/p20#a240404p20)
  - [Two new iPad models spotted in regulatory database](https://appleinsider.com/articles/24/04/04/two-new-ipad-models-spotted-in-regulatory-database?utm_medium=rss)
- - [US rock band Kiss sells rights to its music, name, image, and likeness to Swedish entertainment company Pophouse to create a live show, a source says for ~$300M &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/240404/p19#a240404p19)
- - [The Influencers with as Much Presidential Access as the Press](https://www.wired.com/story/social-media-influencers-presidential-access/)
- - [An interview with Saber founder Matthew Karch on criticism of Embracer, joining Embracer&#39;s board in 2020, layoffs, and Embracer&#39;s $2B Savvy deal breaking down &lpar;James Batchelor/GamesIndustry.biz&rpar;](http://www.techmeme.com/240404/p18#a240404p18)<!-- TECH:END -->
+ - [US rock band Kiss sells rights to its music, name, image, and likeness to Swedish entertainment company Pophouse to create a live show, a source says for ~$300M &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/240404/p19#a240404p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

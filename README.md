@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Will the real juliet please stand up?](http://9gag.com/gag/aVvjAyP)
- - 😝 [If u know u know](http://9gag.com/gag/aKG4QxO)
- - 💣 [From my 2016 Archive](http://9gag.com/gag/azx7pXZ)
- - 😝 [Title](http://9gag.com/gag/ary1QVX)
- - 👉 [It was all a plan since the beginning... trust me](http://9gag.com/gag/a87dR21)<!-- MEMES:END -->
+ - 😝 [Karma](http://9gag.com/gag/aZZqGRQ)
+ - 😝 [Men only want one thing &lpar;translation in comments&rpar;](http://9gag.com/gag/ary1Y4B)
+ - 💣 [Perfect casting amirite](http://9gag.com/gag/a4PpXyv)
+ - 😝 [From my 2016 Archive](http://9gag.com/gag/azx7pXZ)
+ - 👉 [This is mine.](http://9gag.com/gag/aNDmNAw)<!-- MEMES:END -->
 
 ---
 

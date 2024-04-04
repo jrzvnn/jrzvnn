@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Karma](http://9gag.com/gag/aZZqGRQ)
- - 😝 [Crushed hard](http://9gag.com/gag/aW4BzOA)
- - 💣 [From my 2016 Archive](http://9gag.com/gag/azx7pXZ)
- - 😝 [This is mine.](http://9gag.com/gag/aNDmNAw)
- - 👉 [Perfect casting amirite](http://9gag.com/gag/a4PpXyv)<!-- MEMES:END -->
+ - 😝 [If Tom holland makes me believe that he has fallen head over heels for her, then he is the greatest actor ever.](http://9gag.com/gag/aBy9ApQ)
+ - 😝 [Men only want one thing &lpar;translation in comments&rpar;](http://9gag.com/gag/ary1Y4B)
+ - 💣 [If it fits it shoots](http://9gag.com/gag/abA3Nj9)
+ - 😝 [Perfectly balanced\u2026as all things should be](http://9gag.com/gag/aGyKmGZ)
+ - 👉 [From my 2016 Archive](http://9gag.com/gag/azx7pXZ)<!-- MEMES:END -->
 
 ---
 

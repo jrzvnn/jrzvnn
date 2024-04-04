@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Books is indexing low quality, AI-generated books, which may impact Google Ngram viewer, an important tool used by researchers to track language use &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/240404/p32#a240404p32)
  - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
  - [Star Wars’ next animated anthology explores the dark side](https://www.theverge.com/24121313/star-wars-tales-of-the-empire-trailer-release-date-disney-plus)
  - [The Disney Plus password-sharing crackdown starts in June](https://www.theverge.com/2024/4/4/24121189/disney-plus-paid-password-sharing-crackdown-june)
- - [Ray-Ban Sunglasses     - CNET](https://www.cnet.com/culture/fashion/ray-ban-sunglasses-dpnl/#ftag=CAD590a51e)
- - [How to Find Free Solar Eclipse Glasses     - CNET](https://www.cnet.com/health/personal-care/how-to-find-free-solar-eclipse-glasses/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ellipsis Labs, which operates Phoenix, a decentralized crypto exchange launched in February 2023, raised a $20M Series A led by Paradigm &lpar;Niamh Rowe/Fortune&rpar;](http://www.techmeme.com/240404/p31#a240404p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Developers say open-source software culture, where users demand constant updates from volunteer coders, is letting malicious actors introduce vulnerabilities &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240404/p27#a240404p27)
  - [33 Best Nintendo Switch Games for Every Player &lpar;2024&rpar;](https://www.wired.com/gallery/best-nintendo-switch-games/)
  - [Ford is delaying its next-gen electric three-row SUV and truck](https://www.theverge.com/2024/4/4/24120936/ford-electric-suv-truck-hyrbid-blue-oval-city-delay)
  - [Ripple plans to launch its own stablecoin later this year &quot;100% backed by US dollar deposits, short-term US government Treasuries, and other cash equivalents&quot; &lpar;Sam Kessler/CoinDesk&rpar;](http://www.techmeme.com/240404/p26#a240404p26)
- - [Thinnest iPhone 16 display bezels still a problem for OLED suppliers](https://appleinsider.com/articles/24/04/04/thinnest-iphone-16-display-bezels-still-a-problem-for-oled-suppliers?utm_medium=rss)
- - [Sources: Alphabet has been talking to its advisers about making an offer for HubSpot, an online marketing company with a $32B market value &lpar;Reuters&rpar;](http://www.techmeme.com/240404/p25#a240404p25)<!-- TECH:END -->
+ - [Thinnest iPhone 16 display bezels still a problem for OLED suppliers](https://appleinsider.com/articles/24/04/04/thinnest-iphone-16-display-bezels-still-a-problem-for-oled-suppliers?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

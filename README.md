@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Father reveal](http://9gag.com/gag/aD2RK9N)
  - 😝 [Perfect casting amirite](http://9gag.com/gag/a4PpXyv)
- - 💣 [It was all a plan since the beginning... trust me](http://9gag.com/gag/a87dR21)
- - 😝 [Crushed hard](http://9gag.com/gag/aW4BzOA)
- - 👉 [London taste](http://9gag.com/gag/avy2jjE)<!-- MEMES:END -->
+ - 😝 [London taste](http://9gag.com/gag/avy2jjE)
+ - 💣 [If u know u know](http://9gag.com/gag/aKG4QxO)
+ - 😝 [If Tom holland makes me believe that he has fallen head over heels for her, then he is the greatest actor ever.](http://9gag.com/gag/aBy9ApQ)
+ - 👉 [Men only want one thing &lpar;translation in comments&rpar;](http://9gag.com/gag/ary1Y4B)<!-- MEMES:END -->
 
 ---
 

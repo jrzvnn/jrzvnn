@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Substack&#39;s new emphasis on followers, not subscriptions, and its opaque steps to migrate paid subscriptions off the platform make leaving harder for writers &lpar;Andrea Grimes/Home With The Armadillo&rpar;](http://www.techmeme.com/240404/p14#a240404p14)
  - [iPhone 16 dummy units show off Capture button, new camera bump](https://appleinsider.com/articles/24/04/04/iphone-16-dummy-units-show-off-capture-button-new-camera-bump?utm_medium=rss)
  - [AT&amp;T plans to invest an additional $3B by 2030 to help close the US digital divide, after initially committing $2B by 2024, which helped nearly 5M Americans &lpar;Hope King/Axios&rpar;](http://www.techmeme.com/240404/p13#a240404p13)
  - [Google sues alleged crypto scammers for luring people into investments they’d never get back](https://www.theverge.com/2024/4/4/24114673/google-sues-alleged-crypto-scammers-play-store)
- - [Zhu Xingming, founder of Chinese robot maker Inovance, dubbed little Huawei, says protectionism won&#39;t stop its growth as automation is critical to supply chains &lpar;Financial Times&rpar;](http://www.techmeme.com/240404/p12#a240404p12)
- - [An interview with Andrew Bosworth on the 10th anniversary of Reality Labs, the past and future of VR/AR/AI, Meta&#39;s next AR glasses prototype, and more &lpar;Scott Stein/CNET&rpar;](http://www.techmeme.com/240404/p11#a240404p11)<!-- TECH:END -->
+ - [Zhu Xingming, founder of Chinese robot maker Inovance, dubbed little Huawei, says protectionism won&#39;t stop its growth as automation is critical to supply chains &lpar;Financial Times&rpar;](http://www.techmeme.com/240404/p12#a240404p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

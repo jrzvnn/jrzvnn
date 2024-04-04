@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube&#39;s CEO says OpenAI training Sora using its videos would be a violation of YouTube ToS, and Google adheres to YouTube&#39;s creator contracts to train Gemini &lpar;Bloomberg&rpar;](http://www.techmeme.com/240404/p33#a240404p33)
+ - [The 21 Best Movies on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-movies/)
  - [Google Books is indexing low quality, AI-generated books, which may impact Google Ngram viewer, an important tool used by researchers to track language use &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/240404/p32#a240404p32)
  - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
- - [Star Wars’ next animated anthology explores the dark side](https://www.theverge.com/24121313/star-wars-tales-of-the-empire-trailer-release-date-disney-plus)
- - [The Disney Plus password-sharing crackdown starts in June](https://www.theverge.com/2024/4/4/24121189/disney-plus-paid-password-sharing-crackdown-june)
- - [Ellipsis Labs, which operates Phoenix, a decentralized crypto exchange launched in February 2023, raised a $20M Series A led by Paradigm &lpar;Niamh Rowe/Fortune&rpar;](http://www.techmeme.com/240404/p31#a240404p31)<!-- TECH:END -->
+ - [Star Wars’ next animated anthology explores the dark side](https://www.theverge.com/24121313/star-wars-tales-of-the-empire-trailer-release-date-disney-plus)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

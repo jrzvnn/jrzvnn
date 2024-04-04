@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some of Apple&#39;s online services, including the App Store, Apple TV, Podcasts, and Music, appear to be down globally since at least 6:31pm ET &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/240403/p29#a240403p29)
- - [Apple Music, TV+, other services are down](https://appleinsider.com/articles/24/04/03/apple-music-tv-other-services-are-down?utm_medium=rss)
- - [The App Store is down, along with Apple TV, Apple Podcasts, and Apple Music](https://www.theverge.com/2024/4/3/24120519/apple-app-store-apple-tv-apple-music-outage)
- - [Self-driving software startup Ghost Autonomy, formerly Ghost Locomotion, shuts down, after raising ~$220M and just five months after partnering with OpenAI &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/240403/p28#a240403p28)
- - [Sources: Israel&#39;s bombing campaign in Gaza used Lavender, an AI system that identified 37,000 potential human targets based on their apparent links to Hamas &lpar;The Guardian&rpar;](http://www.techmeme.com/240403/p27#a240403p27)<!-- TECH:END -->
+ - [The App Store was down, along with Apple TV, Apple Podcasts, and Apple Music](https://www.theverge.com/2024/4/3/24120519/apple-app-store-apple-tv-apple-music-outage)
+ - [Apple Music, TV+, other services were down](https://appleinsider.com/articles/24/04/03/apple-music-tv-other-services-are-down?utm_medium=rss)
+ - [Apple resolves an outage impacting some of its online services, including the App Store, Apple TV, Podcasts, and Music, that lasted for over an hour on April 3 &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/240403/p29#a240403p29)
+ - [Discord Is Adding Ads, but With a Gamer Twist: What We Know So Far     - CNET](https://www.cnet.com/tech/discord-is-adding-ads-but-with-a-gamer-twist-what-we-know-so-far/#ftag=CAD590a51e)
+ - [Self-driving software startup Ghost Autonomy, formerly Ghost Locomotion, shuts down, after raising ~$220M and just five months after partnering with OpenAI &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/240403/p28#a240403p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

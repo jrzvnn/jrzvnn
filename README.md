@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The Disney Plus password-sharing crackdown starts in June](https://www.theverge.com/2024/4/4/24121189/disney-plus-paid-password-sharing-crackdown-june)
- - [Ellipsis Labs, which operates Phoenix, a decentralized crypto exchange launched in February 2023, raised a $20M Series A led by Paradigm &lpar;Niamh Rowe/Fortune&rpar;](http://www.techmeme.com/240404/p31#a240404p31)
- - [TSMC swiftly recovers chip production one day after Taiwan earthquake](https://appleinsider.com/articles/24/04/04/tsmc-swiftly-recovers-chip-production-one-day-after-taiwan-earthquake?utm_medium=rss)
- - [Tesla is dragging Apple into its upcoming fatal Autopilot crash trial](https://www.theverge.com/2024/4/4/24121014/tesla-apple-huang-autopilot-wrongful-death-trial)
- - [Avatar’s Paul Sun-Hyung Lee wants to geek out with the fans of the future](https://www.theverge.com/24118292/paul-sun-hyung-lee-avatar-mandalorian-ahsoka-interview)<!-- TECH:END -->
+ - [Ray-Ban Sunglasses     - CNET](https://www.cnet.com/culture/fashion/ray-ban-sunglasses-dpnl/#ftag=CAD590a51e)
+ - [How to Find Free Solar Eclipse Glasses     - CNET](https://www.cnet.com/health/personal-care/how-to-find-free-solar-eclipse-glasses/#ftag=CAD590a51e)
+ - [Score This 43-Inch TCL 4K TV for an All-Time Low Price     - CNET](https://www.cnet.com/deals/score-this-43-inch-tcl-4k-tv-for-an-all-time-low-price/#ftag=CAD590a51e)
+ - [Ellipsis Labs, which operates Phoenix, a decentralized crypto exchange launched in February 2023, raised a $20M Series A led by Paradigm &lpar;Niamh Rowe/Fortune&rpar;](http://www.techmeme.com/240404/p31#a240404p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

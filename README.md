@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Men get their first flower at their own funeral...](http://9gag.com/gag/aXPZ6eb)
- - 😝 [50/50 chance it\u2019s a dude](http://9gag.com/gag/a34vOXm)
- - 💣 [Perfect casting amirite](http://9gag.com/gag/a4PpXyv)
- - 😝 [Men only want one thing &lpar;translation in comments&rpar;](http://9gag.com/gag/ary1Y4B)
- - 👉 [London taste](http://9gag.com/gag/avy2jjE)<!-- MEMES:END -->
+ - 😝 [It was all a plan since the beginning... trust me](http://9gag.com/gag/a87dR21)
+ - 😝 [Crushed hard](http://9gag.com/gag/aW4BzOA)
+ - 💣 [This is mine.](http://9gag.com/gag/aNDmNAw)
+ - 😝 [If it fits it shoots](http://9gag.com/gag/abA3Nj9)
+ - 👉 [Title](http://9gag.com/gag/ary1QVX)<!-- MEMES:END -->
 
 ---
 

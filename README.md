@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Straight back to Pakistan.](http://9gag.com/gag/aGyKXE7)
- - 😝 [Useful memes](http://9gag.com/gag/adByDKj)
- - 💣 [Guys](http://9gag.com/gag/aVvjybO)
- - 😝 [Her X Account is pure gold since she&#39;s advocating against the new hate speech law in Scotland.](http://9gag.com/gag/aqy40yL)
- - 👉 [It never gets old](http://9gag.com/gag/aD2RegZ)<!-- MEMES:END -->
+ - 😝 [If it fits it shoots](http://9gag.com/gag/abA3Nj9)
+ - 😝 [It was all a plan since the beginning... trust me](http://9gag.com/gag/a87dR21)
+ - 💣 [Prepare before..](http://9gag.com/gag/ae9Kn4v)
+ - 😝 [Men only want one thing &lpar;translation in comments&rpar;](http://9gag.com/gag/ary1Y4B)
+ - 👉 [Crushed hard](http://9gag.com/gag/aW4BzOA)<!-- MEMES:END -->
 
 ---
 

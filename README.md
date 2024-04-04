@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Two new iPad models spotted in regulatory database](https://appleinsider.com/articles/24/04/04/two-new-ipad-models-spotted-in-regulatory-database?utm_medium=rss)
- - [Aerospike, which offers a highly scalable NoSQL database platform for processing data queries, raised $109M led by Sumeru, taking its total funding to $241M &lpar;Paul Gillin/SiliconANGLE&rpar;](http://www.techmeme.com/240404/p15#a240404p15)
- - [Substack&#39;s new emphasis on followers, not subscriptions, and its opaque steps to migrate paid subscriptions off the platform make leaving harder for writers &lpar;Andrea Grimes/Home With The Armadillo&rpar;](http://www.techmeme.com/240404/p14#a240404p14)
- - [iPhone 16 dummy units show off Capture button, new camera bump](https://appleinsider.com/articles/24/04/04/iphone-16-dummy-units-show-off-capture-button-new-camera-bump?utm_medium=rss)
- - [AT&amp;T plans to invest an additional $3B by 2030 to help close the US digital divide, after initially committing $2B by 2024, which helped nearly 5M Americans &lpar;Hope King/Axios&rpar;](http://www.techmeme.com/240404/p13#a240404p13)<!-- TECH:END -->
+ - [OpenAI’s GPT Store Is Triggering Copyright Complaints](https://www.wired.com/story/openai-gpt-store-triggering-copyright-complaints/)
+ - [Elon Musk says &quot;Tesla is increasing comp ... of our AI engineering team&quot;, after OpenAI has been &quot;aggressively recruiting Tesla engineers&quot; with &quot;massive&quot; offers &lpar;Bloomberg&rpar;](http://www.techmeme.com/240404/p17#a240404p17)
+ - [These Women Came to Antarctica for Science. Then the Predators Emerged](https://www.wired.com/story/women-antarctica-science-predators-whistleblower/)
+ - [Google sues two alleged crypto scammers, accusing them of using its Play Store to offer fraudulent crypto trading and investment apps to steal users&#39; money &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240404/p16#a240404p16)
+ - [Two new iPad models spotted in regulatory database](https://appleinsider.com/articles/24/04/04/two-new-ipad-models-spotted-in-regulatory-database?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

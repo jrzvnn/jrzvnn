@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hope they got severe trauma forever or maybe nuclear holocaust](http://9gag.com/gag/aPA6EjK)
- - 😝 [Singapore airlines first class](http://9gag.com/gag/a7ov4r2)
- - 💣 [If u know u know](http://9gag.com/gag/aKG4QxO)
- - 😝 [Title](http://9gag.com/gag/ary1QVX)
- - 👉 [Crushed hard](http://9gag.com/gag/aW4BzOA)<!-- MEMES:END -->
+ - 😝 [AI&#39;s depiction of hell](http://9gag.com/gag/a2vEnzp)
+ - 😝 [If u know u know](http://9gag.com/gag/aKG4QxO)
+ - 💣 [Hope they got severe trauma forever or maybe nuclear holocaust](http://9gag.com/gag/aPA6EjK)
+ - 😝 [It was all a plan since the beginning... trust me](http://9gag.com/gag/a87dR21)
+ - 👉 [Title](http://9gag.com/gag/ary1QVX)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla wants Apple&#39;s help to beat Autopilot death lawsuit](https://appleinsider.com/articles/24/04/04/tesla-wants-apples-help-to-beat-autopilot-death-lawsuit?utm_medium=rss)
- - [A TikTok Whistleblower Got DC’s Attention. Do His Claims Add Up?](https://www.wired.com/story/tiktok-whistleblower-got-dcs-attention-do-his-claims-add-up/)
- - [How to turn off Apple&#39;s Journal &#39;Discoverable by Others&#39; setting that&#39;s enabled by default](https://appleinsider.com/inside/ios-17/tips/how-to-turn-off-apples-journal-discoverable-by-others-setting-thats-enabled-by-default?utm_medium=rss)
- - [Report: Israel used AI to identify bombing targets in Gaza](https://www.theverge.com/2024/4/4/24120352/israel-lavender-artificial-intelligence-gaza-ai)
- - [The OnePlus Nord N30 5G, one of our favorite budget phones, is $50 off](https://www.theverge.com/2024/4/4/24121238/oneplus-nord-n30-5g-smartphone-deal-sale)<!-- TECH:END -->
+ - [Binance says it will stop support for Bitcoin NFTs on May 18 as it &quot;streamlines&quot; its offerings; Binance users won&#39;t be eligible for future Bitcoin NFT airdrops &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/240404/p34#a240404p34)
+ - [A quarter of Apple&#39;s revenue will come from Services by 2025](https://appleinsider.com/articles/24/04/02/a-quarter-of-apples-revenue-will-come-from-services-by-2025?utm_medium=rss)
+ - [Best PlayStation Plus Deals: Stick to Buying From Sony     - CNET](https://www.cnet.com/deals/best-playstation-plus-deals/#ftag=CAD590a51e)
+ - [Best NAS Deals: Save Up to $300 on Network Storage     - CNET](https://www.cnet.com/deals/best-nas-deals/#ftag=CAD590a51e)
+ - [Best OnePlus 11 Deals: Last Chance to Trade-In and Save Hundreds     - CNET](https://www.cnet.com/deals/oneplus-11-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

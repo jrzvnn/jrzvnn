@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X rolls out support for posting Community Notes in India ahead of the 2024 general elections and says the program now has contributors in 69 countries &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240404/p1#a240404p1)
  - [Amazon still has a serious plastic waste problem in the US](https://www.theverge.com/2024/4/4/24118295/amazon-plastic-waste-oceana-report-growth-us)
  - [Toronto-based Brim, which offers credit card and payment tech infrastructure to financial institutions, raised a $85M Series C led by Export Development Canada &lpar;Josh Scott/BetaKit&rpar;](http://www.techmeme.com/240403/p33#a240403p33)
  - [iPhone 16 dummy units show off Capture button, new camera bump](https://appleinsider.com/articles/24/04/04/iphone-16-dummy-units-show-off-capture-button-new-camera-bump?utm_medium=rss)
- - [Today&#39;s Wordle Hints and Answer: Help for April 4, #1020     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-4-1020/#ftag=CAD590a51e)
- - [Texas Open 2024: How to Watch and Stream All the PGA Tour Golf From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/texas-open-2024-how-to-watch-and-stream-all-the-pga-tour-golf-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints and Answer: Help for April 4, #1020     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-4-1020/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

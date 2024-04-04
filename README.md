@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Disney CEO Bob Iger says Disney+ will start cracking down on password sharing in June in some countries and more broadly in September &lpar;Samantha Murphy Kelly/CNN&rpar;](http://www.techmeme.com/240404/p35#a240404p35)
  - [OpenAI’s ‘year of the enterprise’ includes new tools for increasing AI accuracy](https://www.theverge.com/2024/4/4/24121355/openai-customize-finetune-gpt4-enterprise)
  - [YouTube is bringing NFL-style multiview to Coachella 2024’s livestream](https://www.theverge.com/2024/4/4/24121421/youtube-tv-coachella-2024-multiview-four-stages-livestream)
  - [Apple begins notifying WWDC invite lottery winners](https://appleinsider.com/articles/24/04/04/apple-begins-notifying-wwdc-invite-lottery-winners?utm_medium=rss)
- - [AI-generated Asians were briefly unavailable on Instagram](https://www.theverge.com/2024/4/4/24121419/meta-instagram-ai-image-generator-asian-race)
- - [Roblox executive says children making money on the platform is ‘a gift’](https://www.theverge.com/2024/4/4/24121420/roblox-child-exploitation-robux-child-labor)<!-- TECH:END -->
+ - [AI-generated Asians were briefly unavailable on Instagram](https://www.theverge.com/2024/4/4/24121419/meta-instagram-ai-image-generator-asian-race)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

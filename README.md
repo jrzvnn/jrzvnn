@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [AI&#39;s depiction of hell](http://9gag.com/gag/a2vEnzp)
- - 😝 [This is mine.](http://9gag.com/gag/aNDmNAw)
- - 💣 [If it fits it shoots](http://9gag.com/gag/abA3Nj9)
+ - 😝 [If it fits it shoots](http://9gag.com/gag/abA3Nj9)
  - 😝 [Funny cat video?](http://9gag.com/gag/a0ev2Zn)
- - 👉 [Crushed hard](http://9gag.com/gag/aW4BzOA)<!-- MEMES:END -->
+ - 💣 [It was all a plan since the beginning... trust me](http://9gag.com/gag/a87dR21)
+ - 😝 [Crushed hard](http://9gag.com/gag/aW4BzOA)
+ - 👉 [Perfect casting amirite](http://9gag.com/gag/a4PpXyv)<!-- MEMES:END -->
 
 ---
 

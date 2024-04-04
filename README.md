@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Paris-based Pigment, a subscription-based business planning and forecasting service, raised $145M, sources say at a $1B+ valuation, for $393M in total funding &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/240404/p10#a240404p10)
  - [A Vigilante Hacker Took Down North Korea’s Internet. Now He’s Taking Off His Mask](https://www.wired.com/story/p4x-north-korea-internet-hacker-identity-reveal/)
  - [How some MBA programs in the US are reorienting their courses around AI by adding AI-related classwork, encouraging using AI to solve lab assignments, and more &lpar;Lindsay Ellis/Wall Street Journal&rpar;](http://www.techmeme.com/240404/p9#a240404p9)
  - [Are Your Solar Eclipse Glasses Safe to Use or Fake? Here&#39;s How to Find Out     - CNET](https://www.cnet.com/health/personal-care/are-your-solar-eclipse-glasses-safe-to-use-or-fake-heres-how-to-find-out/#ftag=CAD590a51e)
- - [Child Tax Credit Refund 2024: When Will It Arrive?     - CNET](https://www.cnet.com/personal-finance/taxes/child-tax-credit-refund-2024-when-will-it-arrive/#ftag=CAD590a51e)
- - [&#39;Ripley&#39; Review: Andrew Scott Is Transcendent in Netflix&#39;s Mesmerizing Noir Series     - CNET](https://www.cnet.com/tech/services-and-software/ripley-review-andrew-scott-is-transcendent-in-netflixs-mesmerizing-noir-series/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Child Tax Credit Refund 2024: When Will It Arrive?     - CNET](https://www.cnet.com/personal-finance/taxes/child-tax-credit-refund-2024-when-will-it-arrive/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

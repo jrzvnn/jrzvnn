@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with Andres Freund, a Microsoft database engineer working on PostgreSQL, on discovering the XZ Utils backdoor, doubting his own findings, and more &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/240404/p5#a240404p5)
  - [Google Cloud/Cloud Security Alliance survey of 2,486 IT and security professionals: 63% of security professionals believe AI could help in threat detection &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/240404/p4#a240404p4)
  - [Singapore-based SingleInterface, which helps offline businesses manage and grow their online presence, raised $30M, its first external raise since 2015 founding &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/240404/p3#a240404p3)
  - [Meta is testing giving cash bonuses to creators who post engaging content on Threads, as part of an invite-only program &lpar;Business Insider&rpar;](http://www.techmeme.com/240404/p2#a240404p2)
- - [Chelsea vs. Man United Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/chelsea-vs-man-united-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [X rolls out support for posting Community Notes in India ahead of the 2024 general elections and says the program now has contributors in 69 countries &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240404/p1#a240404p1)<!-- TECH:END -->
+ - [Chelsea vs. Man United Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/chelsea-vs-man-united-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

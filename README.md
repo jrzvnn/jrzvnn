@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cohere releases Command R+, a new business-focused model the startup says performs competitively against OpenAI and others on &quot;business-critical&quot; tasks &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/240404/p24#a240404p24)
- - [A profile of hacker P4x, aka Alejandro Caceres, who took down North Korea&#39;s internet in 2022 and says the US needs to wield its hacking powers more aggressively &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/240404/p23#a240404p23)
- - [OpenAI’s GPT Store Is Triggering Copyright Complaints](https://www.wired.com/story/openai-gpt-store-triggering-copyright-complaints/)
- - [TCL QM8 Review: A TV That Scratches the Projector Itch](https://www.wired.com/review/tcl-qm8/)
- - [Cisco launches the AI-Enabled ICT Workforce Consortium, joined by Google, Microsoft, IBM, Intel, SAP and Accenture, to research AI&#39;s impact on 56 ICT job roles &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240404/p22#a240404p22)<!-- TECH:END -->
+ - [Thinnest iPhone 16 display bezels still a problem for OLED suppliers](https://appleinsider.com/articles/24/04/04/thinnest-iphone-16-display-bezels-still-a-problem-for-oled-suppliers?utm_medium=rss)
+ - [Sources: Alphabet has been talking to its advisers about making an offer for HubSpot, an online marketing company with a $32B market value &lpar;Reuters&rpar;](http://www.techmeme.com/240404/p25#a240404p25)
+ - [3 Body Problem stars on the show’s big question: would you push the button?](https://www.theverge.com/24120449/3-body-problem-netflix-rosalind-chao-zine-tseng-interview)
+ - [Texas man busted with over two dozen counterfeit Apple devices](https://appleinsider.com/articles/24/04/04/texas-man-busted-with-over-two-dozen-counterfeit-apple-devices?utm_medium=rss)
+ - [Cohere releases Command R+, a new business-focused model the startup says performs competitively against OpenAI and others on &quot;business-critical&quot; tasks &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/240404/p24#a240404p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

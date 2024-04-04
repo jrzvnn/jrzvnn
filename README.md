@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Father reveal](http://9gag.com/gag/aD2RK9N)
- - 😝 [If it fits it shoots](http://9gag.com/gag/abA3Nj9)
- - 💣 [London taste](http://9gag.com/gag/avy2jjE)
- - 😝 [It was all a plan since the beginning... trust me](http://9gag.com/gag/a87dR21)
- - 👉 [Crushed hard](http://9gag.com/gag/aW4BzOA)<!-- MEMES:END -->
+ - 😝 [\u201cF**ck, time to relocate the store\u201d](http://9gag.com/gag/avy2NDO)
+ - 😝 [Perfect casting amirite](http://9gag.com/gag/a4PpXyv)
+ - 💣 [Men only want one thing &lpar;translation in comments&rpar;](http://9gag.com/gag/ary1Y4B)
+ - 😝 [Crushed hard](http://9gag.com/gag/aW4BzOA)
+ - 👉 [From my 2016 Archive](http://9gag.com/gag/azx7pXZ)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I was Horny, now I&#39;m Sad](http://9gag.com/gag/aoymQWn)
- - 😝 [Title](http://9gag.com/gag/ary1QVX)
- - 💣 [Perfect casting amirite](http://9gag.com/gag/a4PpXyv)
- - 😝 [AI&#39;s depiction of hell](http://9gag.com/gag/a2vEnzp)
- - 👉 [This is mine.](http://9gag.com/gag/aNDmNAw)<!-- MEMES:END -->
+ - 😝 [Mesmerizing](http://9gag.com/gag/ae9Knbm)
+ - 😝 [Men only want one thing &lpar;translation in comments&rpar;](http://9gag.com/gag/ary1Y4B)
+ - 💣 [Life is but a scam](http://9gag.com/gag/aRB6noj)
+ - 😝 [It was all a plan since the beginning... trust me](http://9gag.com/gag/a87dR21)
+ - 👉 [Father reveal](http://9gag.com/gag/aD2RK9N)<!-- MEMES:END -->
 
 ---
 

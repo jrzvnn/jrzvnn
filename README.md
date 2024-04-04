@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [33 Best Nintendo Switch Games for Every Player &lpar;2024&rpar;](https://www.wired.com/gallery/best-nintendo-switch-games/)
+ - [Ford is delaying its next-gen electric three-row SUV and truck](https://www.theverge.com/2024/4/4/24120936/ford-electric-suv-truck-hyrbid-blue-oval-city-delay)
  - [Ripple plans to launch its own stablecoin later this year &quot;100% backed by US dollar deposits, short-term US government Treasuries, and other cash equivalents&quot; &lpar;Sam Kessler/CoinDesk&rpar;](http://www.techmeme.com/240404/p26#a240404p26)
  - [Thinnest iPhone 16 display bezels still a problem for OLED suppliers](https://appleinsider.com/articles/24/04/04/thinnest-iphone-16-display-bezels-still-a-problem-for-oled-suppliers?utm_medium=rss)
- - [Sources: Alphabet has been talking to its advisers about making an offer for HubSpot, an online marketing company with a $32B market value &lpar;Reuters&rpar;](http://www.techmeme.com/240404/p25#a240404p25)
- - [3 Body Problem stars on the show’s big question: would you push the button?](https://www.theverge.com/24120449/3-body-problem-netflix-rosalind-chao-zine-tseng-interview)
- - [Texas man busted with over two dozen counterfeit Apple devices](https://appleinsider.com/articles/24/04/04/texas-man-busted-with-over-two-dozen-counterfeit-apple-devices?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Alphabet has been talking to its advisers about making an offer for HubSpot, an online marketing company with a $32B market value &lpar;Reuters&rpar;](http://www.techmeme.com/240404/p25#a240404p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

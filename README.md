@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Her X Account is pure gold since she&#39;s advocating against the new hate speech law in Scotland.](http://9gag.com/gag/aqy40yL)
- - 😝 [Straight back to Pakistan.](http://9gag.com/gag/aGyKXE7)
- - 💣 [The heroes \u1559\u2060&lpar;\u2060\u21c0\u2060\u2038\u2060\u21bc\u2060\u2036\u2060&rpar;\u2060\u1557](http://9gag.com/gag/a9yjxAm)
  - 😝 [Father reveal](http://9gag.com/gag/aD2RK9N)
- - 👉 [Title](http://9gag.com/gag/ary1QVX)<!-- MEMES:END -->
+ - 😝 [If it fits it shoots](http://9gag.com/gag/abA3Nj9)
+ - 💣 [London taste](http://9gag.com/gag/avy2jjE)
+ - 😝 [It was all a plan since the beginning... trust me](http://9gag.com/gag/a87dR21)
+ - 👉 [Crushed hard](http://9gag.com/gag/aW4BzOA)<!-- MEMES:END -->
 
 ---
 

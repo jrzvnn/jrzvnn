@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Will the real juliet please stand up?](http://9gag.com/gag/aVvjAyP)
- - 😝 [Father reveal](http://9gag.com/gag/aD2RK9N)
- - 💣 [It was all a plan since the beginning... trust me](http://9gag.com/gag/a87dR21)
- - 😝 [Perfect casting amirite](http://9gag.com/gag/a4PpXyv)
- - 👉 [This is mine.](http://9gag.com/gag/aNDmNAw)<!-- MEMES:END -->
+ - 😝 [It was all a plan since the beginning... trust me](http://9gag.com/gag/a87dR21)
+ - 💣 [Crushed hard](http://9gag.com/gag/aW4BzOA)
+ - 😝 [Funny cat video?](http://9gag.com/gag/a0ev2Zn)
+ - 👉 [From my 2016 Archive](http://9gag.com/gag/azx7pXZ)<!-- MEMES:END -->
 
 ---
 

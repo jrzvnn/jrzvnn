@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The most dramatic plot twist in movie history](http://9gag.com/gag/aZZqGxX)
  - 😝 [Singapore airlines first class](http://9gag.com/gag/a7ov4r2)
- - 💣 [Life is but a scam](http://9gag.com/gag/aRB6noj)
+ - 😝 [Perfect casting amirite](http://9gag.com/gag/a4PpXyv)
+ - 💣 [Put Brion Bishop in YouTube](http://9gag.com/gag/aRB65pj)
  - 😝 [It was all a plan since the beginning... trust me](http://9gag.com/gag/a87dR21)
- - 👉 [Karma](http://9gag.com/gag/aZZqGRQ)<!-- MEMES:END -->
+ - 👉 [Crushed hard](http://9gag.com/gag/aW4BzOA)<!-- MEMES:END -->
 
 ---
 

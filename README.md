@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI-generated Asians were briefly unavailable on Instagram](https://www.theverge.com/2024/4/4/24121419/meta-instagram-ai-image-generator-asian-race)
  - [Roblox executive says children making money on the platform is ‘a gift’](https://www.theverge.com/2024/4/4/24121420/roblox-child-exploitation-robux-child-labor)
  - [Binance says it will stop support for Bitcoin NFTs on May 18 as it &quot;streamlines&quot; its offerings; Binance users won&#39;t be eligible for future Bitcoin NFT airdrops &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/240404/p34#a240404p34)
  - [A quarter of Apple&#39;s revenue will come from Services by 2025](https://appleinsider.com/articles/24/04/02/a-quarter-of-apples-revenue-will-come-from-services-by-2025?utm_medium=rss)
- - [Best PlayStation Plus Deals: Stick to Buying From Sony     - CNET](https://www.cnet.com/deals/best-playstation-plus-deals/#ftag=CAD590a51e)
- - [Best NAS Deals: Save Up to $300 on Network Storage     - CNET](https://www.cnet.com/deals/best-nas-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best PlayStation Plus Deals: Stick to Buying From Sony     - CNET](https://www.cnet.com/deals/best-playstation-plus-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

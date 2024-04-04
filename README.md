@@ -169,8 +169,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [What to expect from Apple&#39;s Q2 2024 earnings on May 2](https://appleinsider.com/articles/24/04/04/what-to-expect-from-apples-q2-2024-earnings-on-may-2?utm_medium=rss)
  - [Netflix’s live-action Avatar has lost its old showrunner and gained two new ones](https://www.theverge.com/2024/4/4/24121488/netflix-avatar-new-showrunners-jabbar-raisani-christine-boylan)
  - [Disney CEO Bob Iger says Disney+ will start cracking down on password sharing in June in some countries and more broadly in September &lpar;Samantha Murphy Kelly/CNN&rpar;](http://www.techmeme.com/240404/p35#a240404p35)
- - [OpenAI’s ‘year of the enterprise’ includes new tools for increasing AI accuracy](https://www.theverge.com/2024/4/4/24121355/openai-customize-finetune-gpt4-enterprise)
- - [YouTube is bringing NFL-style multiview to Coachella 2024’s livestream](https://www.theverge.com/2024/4/4/24121421/youtube-tv-coachella-2024-multiview-four-stages-livestream)<!-- TECH:END -->
+ - [Best Mac Mini Deals: Save on Apple&#39;s Latest Models     - CNET](https://www.cnet.com/deals/best-mac-mini-deals/#ftag=CAD590a51e)
+ - [OpenAI’s ‘year of the enterprise’ includes new tools for increasing AI accuracy](https://www.theverge.com/2024/4/4/24121355/openai-customize-finetune-gpt4-enterprise)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

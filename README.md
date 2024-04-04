@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/ary1QVX)
- - 😝 [Perfectly balanced\u2026as all things should be](http://9gag.com/gag/aGyKmGZ)
- - 💣 [Father reveal](http://9gag.com/gag/aD2RK9N)
- - 😝 [Not for me. I&#39;m going home.](http://9gag.com/gag/aVvjAYP)
- - 👉 [Perfect casting amirite](http://9gag.com/gag/a4PpXyv)<!-- MEMES:END -->
+ - 😝 [AI&#39;s depiction of hell](http://9gag.com/gag/a2vEnzp)
+ - 😝 [It was all a plan since the beginning... trust me](http://9gag.com/gag/a87dR21)
+ - 💣 [Singapore airlines first class](http://9gag.com/gag/a7ov4r2)
+ - 😝 [Perfect casting amirite](http://9gag.com/gag/a4PpXyv)
+ - 👉 [Hope they got severe trauma forever or maybe nuclear holocaust](http://9gag.com/gag/aPA6EjK)<!-- MEMES:END -->
 
 ---
 

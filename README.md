@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Father reveal](http://9gag.com/gag/aD2RK9N)
- - 😝 [Sweden YES!](http://9gag.com/gag/agmrMnn)
- - 💣 [Singapore airlines first class](http://9gag.com/gag/a7ov4r2)
- - 😝 [Hope they got severe trauma forever or maybe nuclear holocaust](http://9gag.com/gag/aPA6EjK)
- - 👉 [Men only want one thing &lpar;translation in comments&rpar;](http://9gag.com/gag/ary1Y4B)<!-- MEMES:END -->
+ - 😝 [If it fits it shoots](http://9gag.com/gag/abA3Nj9)
+ - 😝 [Title](http://9gag.com/gag/aO8ogdM)
+ - 💣 [Sweden YES!](http://9gag.com/gag/agmrMnn)
+ - 😝 [What else would you add?](http://9gag.com/gag/agmrMEq)
+ - 👉 [If u know u know](http://9gag.com/gag/aKG4QxO)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [An inkling of remorse?](http://9gag.com/gag/avy2NeW)
- - 😝 [She&#39;s got a point](http://9gag.com/gag/aO8oWEN)
- - 💣 [The heroes \u1559\u2060&lpar;\u2060\u21c0\u2060\u2038\u2060\u21bc\u2060\u2036\u2060&rpar;\u2060\u1557](http://9gag.com/gag/a9yjxAm)
- - 😝 [Father reveal](http://9gag.com/gag/aD2RK9N)
- - 👉 [Title](http://9gag.com/gag/ary1QVX)<!-- MEMES:END -->
+ - 😝 [If Tom holland makes me believe that he has fallen head over heels for her, then he is the greatest actor ever.](http://9gag.com/gag/aBy9ApQ)
+ - 😝 [Prepare before..](http://9gag.com/gag/ae9Kn4v)
+ - 💣 [From my 2016 Archive](http://9gag.com/gag/azx7pXZ)
+ - 😝 [Perfect casting amirite](http://9gag.com/gag/a4PpXyv)
+ - 👉 [Crushed hard](http://9gag.com/gag/aW4BzOA)<!-- MEMES:END -->
 
 ---
 

@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Singapore-based SingleInterface, which helps offline businesses manage and grow their online presence, raised $30M, its first external raise since 2015 founding &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/240404/p3#a240404p3)
  - [Meta is testing giving cash bonuses to creators who post engaging content on Threads, as part of an invite-only program &lpar;Business Insider&rpar;](http://www.techmeme.com/240404/p2#a240404p2)
+ - [Chelsea vs. Man United Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/chelsea-vs-man-united-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
  - [X rolls out support for posting Community Notes in India ahead of the 2024 general elections and says the program now has contributors in 69 countries &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240404/p1#a240404p1)
- - [Amazon still has a serious plastic waste problem in the US](https://www.theverge.com/2024/4/4/24118295/amazon-plastic-waste-oceana-report-growth-us)
- - [Toronto-based Brim, which offers credit card and payment tech infrastructure to financial institutions, raised a $85M Series C led by Export Development Canada &lpar;Josh Scott/BetaKit&rpar;](http://www.techmeme.com/240403/p33#a240403p33)<!-- TECH:END -->
+ - [Amazon still has a serious plastic waste problem in the US](https://www.theverge.com/2024/4/4/24118295/amazon-plastic-waste-oceana-report-growth-us)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

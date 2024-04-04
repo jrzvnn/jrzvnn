@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Father reveal](http://9gag.com/gag/aD2RK9N)
- - 😝 [What is this !](http://9gag.com/gag/aE0dmPn)
- - 💣 [If Tom holland makes me believe that he has fallen head over heels for her, then he is the greatest actor ever.](http://9gag.com/gag/aBy9ApQ)
+ - 😝 [Perfect casting amirite](http://9gag.com/gag/a4PpXyv)
+ - 💣 [It was all a plan since the beginning... trust me](http://9gag.com/gag/a87dR21)
  - 😝 [Crushed hard](http://9gag.com/gag/aW4BzOA)
- - 👉 [Perfect casting amirite](http://9gag.com/gag/a4PpXyv)<!-- MEMES:END -->
+ - 👉 [London taste](http://9gag.com/gag/avy2jjE)<!-- MEMES:END -->
 
 ---
 

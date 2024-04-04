@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is this true?](http://9gag.com/gag/a1mpG6b)
- - 😝 [Hey look at me! I\u2019m going to break check a truck!](http://9gag.com/gag/a7ovzLw)
- - 💣 [My 14 y o girl felt very tired yesterday and fell asleep in my hands forever. That&#39;s her last picture.](http://9gag.com/gag/avy238E)
- - 😝 [Ganked](http://9gag.com/gag/amoqjpV)
- - 👉 [This ad about Summer in the Philippines](http://9gag.com/gag/aVvjN72)<!-- MEMES:END -->
+ - 😝 [Title](http://9gag.com/gag/ary1QVX)
+ - 😝 [Perfectly balanced\u2026as all things should be](http://9gag.com/gag/aGyKmGZ)
+ - 💣 [Father reveal](http://9gag.com/gag/aD2RK9N)
+ - 😝 [Not for me. I&#39;m going home.](http://9gag.com/gag/aVvjAYP)
+ - 👉 [Perfect casting amirite](http://9gag.com/gag/a4PpXyv)<!-- MEMES:END -->
 
 ---
 

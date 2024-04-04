@@ -166,7 +166,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube&#39;s CEO says OpenAI training Sora using its videos would be a violation of YouTube ToS, and Google adheres to YouTube&#39;s creator contracts to train Gemini &lpar;Bloomberg&rpar;](http://www.techmeme.com/240404/p33#a240404p33)
+ - [YouTube&#39;s CEO says that OpenAI training Sora with YouTube videos would violate YouTube&#39;s ToS, and Google adheres to YouTube&#39;s creator contracts to train Gemini &lpar;Bloomberg&rpar;](http://www.techmeme.com/240404/p33#a240404p33)
  - [The 21 Best Movies on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-movies/)
  - [Google Books is indexing low quality, AI-generated books, which may impact Google Ngram viewer, an important tool used by researchers to track language use &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/240404/p32#a240404p32)
  - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)

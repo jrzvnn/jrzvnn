@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Denis Villeneuve is doing Dune 3](https://www.theverge.com/24121523/dune-3-denis-villeneuve-legendary-messiah)
- - [Vimeo names Philip Moyer, an ex-VP of applied AI engineering and business development at Google Cloud, as CEO and board member, replacing interim CEO Adam Gross &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240404/p36#a240404p36)
- - [What to expect from Apple&#39;s Q2 2024 earnings on May 2](https://appleinsider.com/articles/24/04/04/what-to-expect-from-apples-q2-2024-earnings-on-may-2?utm_medium=rss)
- - [Netflix’s live-action Avatar has lost its old showrunner and gained two new ones](https://www.theverge.com/2024/4/4/24121488/netflix-avatar-new-showrunners-jabbar-raisani-christine-boylan)
- - [Disney CEO Bob Iger says Disney+ will start cracking down on password sharing in June in some countries and more broadly in September &lpar;Samantha Murphy Kelly/CNN&rpar;](http://www.techmeme.com/240404/p35#a240404p35)<!-- TECH:END -->
+ - [Filing: Meta rejects the FTC&#39;s bid to amend its 2020 privacy settlement, saying it voluntarily disclosed two Messenger Kids bugs and had no parent complaints &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/240404/p37#a240404p37)
+ - [Apple Reportedly Developing Robots That&#39;ll Roam Your Home     - CNET](https://www.cnet.com/tech/mobile/apple-reportedly-developing-robots-thatll-roam-your-home/#ftag=CAD590a51e)
+ - [The Beatbot Aquasense Pro Is a 5-In-1 Robot That Enables Hands-Free Pool Cleaning     - CNET](https://www.cnet.com/news/the-beatbot-aquasense-pro-is-a-5-in-1-robot-that-enables-hands-free-pool-cleaning/#ftag=CAD590a51e)
+ - [Home Depot Just Kicked Off Its Spring Black Friday Extravaganza     - CNET](https://www.cnet.com/deals/home-depot-just-kicked-off-its-spring-black-friday-extravaganza/#ftag=CAD590a51e)
+ - [Denis Villeneuve is doing Dune 3](https://www.theverge.com/24121523/dune-3-denis-villeneuve-legendary-messiah)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

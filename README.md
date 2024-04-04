@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How some MBA programs in the US are reorienting their courses around AI by adding AI-related classwork, encouraging using AI to solve lab assignments, and more &lpar;Lindsay Ellis/Wall Street Journal&rpar;](http://www.techmeme.com/240404/p9#a240404p9)
  - [Child Tax Credit Refund 2024: When Will It Arrive?     - CNET](https://www.cnet.com/personal-finance/taxes/child-tax-credit-refund-2024-when-will-it-arrive/#ftag=CAD590a51e)
  - [&#39;Ripley&#39; Review: Andrew Scott Is Transcendent in Netflix&#39;s Mesmerizing Noir Series     - CNET](https://www.cnet.com/tech/services-and-software/ripley-review-andrew-scott-is-transcendent-in-netflixs-mesmerizing-noir-series/#ftag=CAD590a51e)
  - [Stop Counting Calories; Track This Key Health Metric Instead     - CNET](https://www.cnet.com/health/nutrition/stop-counting-calories-you-should-track-this-key-health-metric-instead/#ftag=CAD590a51e)
- - [In-memory computing, which seeks to reduce power consumption by processing data where it&#39;s stored, is seeing a boost in interest fueled by the AI energy crisis &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/240404/p8#a240404p8)
- - [A Washington state judge barred the use of AI-enhanced video as trial evidence in a ruling that experts say may be the first-of-its-kind in a US criminal court &lpar;Tim Stelloh/NBC News&rpar;](http://www.techmeme.com/240404/p7#a240404p7)<!-- TECH:END -->
+ - [In-memory computing, which seeks to reduce power consumption by processing data where it&#39;s stored, is seeing a boost in interest fueled by the AI energy crisis &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/240404/p8#a240404p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Help me out here](http://9gag.com/gag/apRKMOB)
  - 😝 [Title](http://9gag.com/gag/ary1QVX)
- - 😝 [\u201cF**ck, time to relocate the store\u201d](http://9gag.com/gag/avy2NDO)
- - 💣 [Crushed hard](http://9gag.com/gag/aW4BzOA)
- - 😝 [From my 2016 Archive](http://9gag.com/gag/azx7pXZ)
- - 👉 [London taste](http://9gag.com/gag/avy2jjE)<!-- MEMES:END -->
+ - 💣 [This is mine.](http://9gag.com/gag/aNDmNAw)
+ - 😝 [The heroes \u1559\u2060&lpar;\u2060\u21c0\u2060\u2038\u2060\u21bc\u2060\u2036\u2060&rpar;\u2060\u1557](http://9gag.com/gag/a9yjxAm)
+ - 👉 [Men only want one thing &lpar;translation in comments&rpar;](http://9gag.com/gag/ary1Y4B)<!-- MEMES:END -->
 
 ---
 

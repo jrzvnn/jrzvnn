@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/ary1QVX)
- - 😝 [What is this !](http://9gag.com/gag/aE0dmPn)
- - 💣 [Perfect casting amirite](http://9gag.com/gag/a4PpXyv)
- - 😝 [London taste](http://9gag.com/gag/avy2jjE)
- - 👉 [His team mate paid the pit crew to sabotage his car](http://9gag.com/gag/aKG4MGZ)<!-- MEMES:END -->
+ - 😝 [Guess the reason... Water in Great Britain is getting dirtier British authorities are sounding the alarm. The reason: record levels of pollution on British rivers and coasts. Twice as much unfiltered wastewater ended up in waterways as in the previous year](http://9gag.com/gag/aXPZyj2)
+ - 😝 [Crushed hard](http://9gag.com/gag/aW4BzOA)
+ - 💣 [If u know u know](http://9gag.com/gag/aKG4QxO)
+ - 😝 [Perfect casting amirite](http://9gag.com/gag/a4PpXyv)
+ - 👉 [Men only want one thing &lpar;translation in comments&rpar;](http://9gag.com/gag/ary1Y4B)<!-- MEMES:END -->
 
 ---
 

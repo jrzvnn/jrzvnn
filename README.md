@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If it fits it shoots](http://9gag.com/gag/abA3Nj9)
- - 😝 [Men only want one thing &lpar;translation in comments&rpar;](http://9gag.com/gag/ary1Y4B)
- - 💣 [This is mine.](http://9gag.com/gag/aNDmNAw)
- - 😝 [Crushed hard](http://9gag.com/gag/aW4BzOA)
- - 👉 [Father reveal](http://9gag.com/gag/aD2RK9N)<!-- MEMES:END -->
+ - 😝 [It was all a plan since the beginning... trust me](http://9gag.com/gag/a87dR21)
+ - 😝 [Father reveal](http://9gag.com/gag/aD2RK9N)
+ - 💣 [Crushed hard](http://9gag.com/gag/aW4BzOA)
+ - 😝 [This is mine.](http://9gag.com/gag/aNDmNAw)
+ - 👉 [Men only want one thing &lpar;translation in comments&rpar;](http://9gag.com/gag/ary1Y4B)<!-- MEMES:END -->
 
 ---
 

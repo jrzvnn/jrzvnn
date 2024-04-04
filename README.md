@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of hacker P4x, aka Alejandro Caceres, who took down North Korea&#39;s internet in 2022 and says the US needs to wield its hacking powers more aggressively &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/240404/p23#a240404p23)
  - [OpenAI’s GPT Store Is Triggering Copyright Complaints](https://www.wired.com/story/openai-gpt-store-triggering-copyright-complaints/)
  - [TCL QM8 Review: A TV That Scratches the Projector Itch](https://www.wired.com/review/tcl-qm8/)
  - [Cisco launches the AI-Enabled ICT Workforce Consortium, joined by Google, Microsoft, IBM, Intel, SAP and Accenture, to research AI&#39;s impact on 56 ICT job roles &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240404/p22#a240404p22)
- - [How to automate tasks in Windows](https://www.theverge.com/24120053/windows-microsoft-automate-macro-how-to)
- - [Microsoft Edge will let you control how much RAM it uses soon](https://www.theverge.com/2024/4/4/24120867/microsoft-edge-ram-control-settings)<!-- TECH:END -->
+ - [How to automate tasks in Windows](https://www.theverge.com/24120053/windows-microsoft-automate-macro-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

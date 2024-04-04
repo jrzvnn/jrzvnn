@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [YouTube&#39;s CEO says that OpenAI training Sora with YouTube videos would violate YouTube&#39;s ToS, and Google adheres to YouTube&#39;s creator contracts to train Gemini &lpar;Bloomberg&rpar;](http://www.techmeme.com/240404/p33#a240404p33)
+ - [Cooling Pillows     - CNET](https://www.cnet.com/health/sleep/cooling-pillows-dpnl/#ftag=CAD590a51e)
+ - [Can You Hear Me Now? How to Talk to Your Parents About Hearing Loss     - CNET](https://www.cnet.com/health/personal-care/can-you-hear-me-now-how-to-talk-to-your-parents-about-hearing-loss/#ftag=CAD590a51e)
  - [The 21 Best Movies on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-movies/)
- - [Google Books is indexing low quality, AI-generated books, which may impact Google Ngram viewer, an important tool used by researchers to track language use &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/240404/p32#a240404p32)
- - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
- - [Star Wars’ next animated anthology explores the dark side](https://www.theverge.com/24121313/star-wars-tales-of-the-empire-trailer-release-date-disney-plus)<!-- TECH:END -->
+ - [800 Thread Count Sheets     - CNET](https://www.cnet.com/health/sleep/800-thread-count-sheets-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

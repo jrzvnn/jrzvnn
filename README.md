@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon still has a serious plastic waste problem in the US](https://www.theverge.com/2024/4/4/24118295/amazon-plastic-waste-oceana-report-growth-us)
  - [Toronto-based Brim, which offers credit card and payment tech infrastructure to financial institutions, raised a $85M Series C led by Export Development Canada &lpar;Josh Scott/BetaKit&rpar;](http://www.techmeme.com/240403/p33#a240403p33)
  - [iPhone 16 dummy units show off Capture button, new camera bump](https://appleinsider.com/articles/24/04/04/iphone-16-dummy-units-show-off-capture-button-new-camera-bump?utm_medium=rss)
- - [X adds blue checks to some large accounts as part of its plan to give free Premium memberships to those with at least 2,500 &quot;verified subscriber followers&quot; &lpar;Amrita Khalid/The Verge&rpar;](http://www.techmeme.com/240403/p32#a240403p32)
- - [How to always have recently-opened items at your fingertips](https://appleinsider.com/inside/macos/tips/how-to-always-have-recently-opened-items-at-your-fingertips?utm_medium=rss)
- - [X’s ‘complimentary’ Premium push gives people blue checks they didn’t ask for](https://www.theverge.com/2024/4/3/24120602/x-free-premium-verified-blue-checkmark)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints and Answer: Help for April 4, #1020     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-4-1020/#ftag=CAD590a51e)
+ - [Texas Open 2024: How to Watch and Stream All the PGA Tour Golf From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/texas-open-2024-how-to-watch-and-stream-all-the-pga-tour-golf-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

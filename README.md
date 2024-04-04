@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 16 dummy units show off Capture button, new camera bump](https://appleinsider.com/articles/24/04/04/iphone-16-dummy-units-show-off-capture-button-new-camera-bump?utm_medium=rss)
+ - [AT&amp;T plans to invest an additional $3B by 2030 to help close the US digital divide, after initially committing $2B by 2024, which helped nearly 5M Americans &lpar;Hope King/Axios&rpar;](http://www.techmeme.com/240404/p13#a240404p13)
+ - [Google sues alleged crypto scammers for luring people into investments they’d never get back](https://www.theverge.com/2024/4/4/24114673/google-sues-alleged-crypto-scammers-play-store)
  - [Zhu Xingming, founder of Chinese robot maker Inovance, dubbed little Huawei, says protectionism won&#39;t stop its growth as automation is critical to supply chains &lpar;Financial Times&rpar;](http://www.techmeme.com/240404/p12#a240404p12)
- - [An interview with Andrew Bosworth on the 10th anniversary of Reality Labs, the past and future of VR/AR/AI, Meta&#39;s next AR glasses prototype, and more &lpar;Scott Stein/CNET&rpar;](http://www.techmeme.com/240404/p11#a240404p11)
- - [Paris-based Pigment, a subscription-based business planning and forecasting service, raised $145M, sources say at a $1B+ valuation, for $393M in total funding &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/240404/p10#a240404p10)
- - [A Vigilante Hacker Took Down North Korea’s Internet. Now He’s Taking Off His Mask](https://www.wired.com/story/p4x-north-korea-internet-hacker-identity-reveal/)
- - [How some MBA programs in the US are reorienting their courses around AI by adding AI-related classwork, encouraging using AI to solve lab assignments, and more &lpar;Lindsay Ellis/Wall Street Journal&rpar;](http://www.techmeme.com/240404/p9#a240404p9)<!-- TECH:END -->
+ - [An interview with Andrew Bosworth on the 10th anniversary of Reality Labs, the past and future of VR/AR/AI, Meta&#39;s next AR glasses prototype, and more &lpar;Scott Stein/CNET&rpar;](http://www.techmeme.com/240404/p11#a240404p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

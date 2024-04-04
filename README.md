@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Will the real juliet please stand up?](http://9gag.com/gag/aVvjAyP)
- - 😝 [It was all a plan since the beginning... trust me](http://9gag.com/gag/a87dR21)
- - 💣 [Crushed hard](http://9gag.com/gag/aW4BzOA)
- - 😝 [Funny cat video?](http://9gag.com/gag/a0ev2Zn)
- - 👉 [From my 2016 Archive](http://9gag.com/gag/azx7pXZ)<!-- MEMES:END -->
+ - 😝 [\u201cF**ck, time to relocate the store\u201d](http://9gag.com/gag/avy2NDO)
+ - 💣 [Straight back to Pakistan.](http://9gag.com/gag/aGyKXE7)
+ - 😝 [Wholesome award](http://9gag.com/gag/aPA658V)
+ - 👉 [MUST WATCH: Dr. Phil confronts two female Hamas supporters on the question of whether the October 7th Hamas massacre would be considered genocide and whether it was morally acceptable. They get WRECKED!](http://9gag.com/gag/aW4Bw42)<!-- MEMES:END -->
 
 ---
 

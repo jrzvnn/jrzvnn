@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Save $400 on Apple&#39;s 15-inch MacBook Air with 24GB RAM, 2TB SSD](https://appleinsider.com/articles/24/04/04/save-400-on-apples-15-inch-macbook-air-with-24gb-ram-2tb-ssd?utm_medium=rss)
+ - [To Build a Better AI Supercomputer, Let There Be Light](https://www.wired.com/story/build-a-better-ai-supercomputer-let-there-be-light/)
  - [OpenAI expands its Custom Model training program with &quot;assisted fine-tuning&quot;, letting organizations set up data training pipelines, evaluation systems, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240404/p29#a240404p29)
  - [Google’s expanded Find My Device network might arrive in a few days](https://www.theverge.com/2024/4/4/24120984/google-find-my-device-network-launch-date)
- - [Google expands Search Generative Experience to the UK, after launching it almost a year ago in the US, starting with some logged-in users &lpar;Chris Vallance/BBC&rpar;](http://www.techmeme.com/240404/p28#a240404p28)
- - [Is Unpasteurized or Raw Milk Safe to Drink?     - CNET](https://www.cnet.com/health/nutrition/is-unpasteurized-or-raw-milk-safe-to-drink/#ftag=CAD590a51e)
- - [Garmin’s new heart rate tracker pairs nearly perfectly with sports bras](https://www.theverge.com/24119970/garmin-hrm-fit-review-chest-strap-wearables-fitness)<!-- TECH:END -->
+ - [Google expands Search Generative Experience to the UK, after launching it almost a year ago in the US, starting with some logged-in users &lpar;Chris Vallance/BBC&rpar;](http://www.techmeme.com/240404/p28#a240404p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

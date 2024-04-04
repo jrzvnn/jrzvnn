@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The OnePlus Nord N30 5G, one of our favorite budget phones, is $50 off](https://www.theverge.com/2024/4/4/24121238/oneplus-nord-n30-5g-smartphone-deal-sale)
  - [YouTube&#39;s CEO says that OpenAI training Sora with YouTube videos would violate YouTube&#39;s ToS, and Google adheres to YouTube&#39;s creator contracts to train Gemini &lpar;Bloomberg&rpar;](http://www.techmeme.com/240404/p33#a240404p33)
  - [Cooling Pillows     - CNET](https://www.cnet.com/health/sleep/cooling-pillows-dpnl/#ftag=CAD590a51e)
  - [Can You Hear Me Now? How to Talk to Your Parents About Hearing Loss     - CNET](https://www.cnet.com/health/personal-care/can-you-hear-me-now-how-to-talk-to-your-parents-about-hearing-loss/#ftag=CAD590a51e)
- - [The 21 Best Movies on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-movies/)
- - [800 Thread Count Sheets     - CNET](https://www.cnet.com/health/sleep/800-thread-count-sheets-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 21 Best Movies on Apple TV+ Right Now](https://www.wired.com/story/best-apple-tv-plus-movies/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

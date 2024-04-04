@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If it fits it shoots](http://9gag.com/gag/abA3Nj9)
- - 😝 [Funny cat video?](http://9gag.com/gag/a0ev2Zn)
- - 💣 [It was all a plan since the beginning... trust me](http://9gag.com/gag/a87dR21)
- - 😝 [Crushed hard](http://9gag.com/gag/aW4BzOA)
- - 👉 [Perfect casting amirite](http://9gag.com/gag/a4PpXyv)<!-- MEMES:END -->
+ - 😝 [Granpa is cold as f**k](http://9gag.com/gag/aGyKW5K)
+ - 😝 [My 14 y o girl felt very tired yesterday and fell asleep in my hands forever. That&#39;s her last picture.](http://9gag.com/gag/avy238E)
+ - 💣 [Is this true?](http://9gag.com/gag/a1mpG6b)
+ - 😝 [Hey look at me! I\u2019m going to break check a truck!](http://9gag.com/gag/a7ovzLw)
+ - 👉 [This ad about Summer in the Philippines](http://9gag.com/gag/aVvjN72)<!-- MEMES:END -->
 
 ---
 

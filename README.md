@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It was all a plan since the beginning... trust me](http://9gag.com/gag/a87dR21)
- - 😝 [Father reveal](http://9gag.com/gag/aD2RK9N)
- - 💣 [Crushed hard](http://9gag.com/gag/aW4BzOA)
- - 😝 [This is mine.](http://9gag.com/gag/aNDmNAw)
- - 👉 [Men only want one thing &lpar;translation in comments&rpar;](http://9gag.com/gag/ary1Y4B)<!-- MEMES:END -->
+ - 😝 [A Muslim father casually explains sex slavery in Islam to his daughter.](http://9gag.com/gag/aPA653n)
+ - 😝 [A Western comic convention would never](http://9gag.com/gag/apRKZ5E)
+ - 💣 [Will the real juliet please stand up?](http://9gag.com/gag/aVvjAyP)
+ - 😝 [Perfect casting amirite](http://9gag.com/gag/a4PpXyv)
+ - 👉 [This is mine.](http://9gag.com/gag/aNDmNAw)<!-- MEMES:END -->
 
 ---
 

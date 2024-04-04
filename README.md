@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [AI&#39;s depiction of hell](http://9gag.com/gag/a2vEnzp)
- - 😝 [If u know u know](http://9gag.com/gag/aKG4QxO)
- - 💣 [Hope they got severe trauma forever or maybe nuclear holocaust](http://9gag.com/gag/aPA6EjK)
- - 😝 [It was all a plan since the beginning... trust me](http://9gag.com/gag/a87dR21)
- - 👉 [Title](http://9gag.com/gag/ary1QVX)<!-- MEMES:END -->
+ - 😝 [Put Brion Bishop in YouTube](http://9gag.com/gag/aRB65pj)
+ - 😝 [MUST WATCH: Dr. Phil confronts two female Hamas supporters on the question of whether the October 7th Hamas massacre would be considered genocide and whether it was morally acceptable. They get WRECKED!](http://9gag.com/gag/aW4Bw42)
+ - 💣 [AliEns BuilT thE pYraMidS](http://9gag.com/gag/aBy979Q)
+ - 😝 [Here&#39;s why it&#39;s so important to choose your significant other carefully](http://9gag.com/gag/avy2Nj5)
+ - 👉 [Deserved retirement](http://9gag.com/gag/a87dPpd)<!-- MEMES:END -->
 
 ---
 

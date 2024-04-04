@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Toronto-based Brim, which offers credit card and payment tech infrastructure to financial institutions, raised a $85M Series C led by Export Development Canada &lpar;Josh Scott/BetaKit&rpar;](http://www.techmeme.com/240403/p33#a240403p33)
  - [iPhone 16 dummy units show off Capture button, new camera bump](https://appleinsider.com/articles/24/04/04/iphone-16-dummy-units-show-off-capture-button-new-camera-bump?utm_medium=rss)
  - [X adds blue checks to some large accounts as part of its plan to give free Premium memberships to those with at least 2,500 &quot;verified subscriber followers&quot; &lpar;Amrita Khalid/The Verge&rpar;](http://www.techmeme.com/240403/p32#a240403p32)
  - [How to always have recently-opened items at your fingertips](https://appleinsider.com/inside/macos/tips/how-to-always-have-recently-opened-items-at-your-fingertips?utm_medium=rss)
- - [X’s ‘complimentary’ Premium push gives people blue checks they didn’t ask for](https://www.theverge.com/2024/4/3/24120602/x-free-premium-verified-blue-checkmark)
- - [A look at some exciting startups from day one of YC&#39;s Winter 2024 Demo Day, including those using AI for creating music and helping lawyers review documents &lpar;TechCrunch&rpar;](http://www.techmeme.com/240403/p31#a240403p31)<!-- TECH:END -->
+ - [X’s ‘complimentary’ Premium push gives people blue checks they didn’t ask for](https://www.theverge.com/2024/4/3/24120602/x-free-premium-verified-blue-checkmark)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

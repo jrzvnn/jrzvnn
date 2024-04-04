@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guess the reason... Water in Great Britain is getting dirtier British authorities are sounding the alarm. The reason: record levels of pollution on British rivers and coasts. Twice as much unfiltered wastewater ended up in waterways as in the previous year](http://9gag.com/gag/aXPZyj2)
- - 😝 [Crushed hard](http://9gag.com/gag/aW4BzOA)
- - 💣 [If u know u know](http://9gag.com/gag/aKG4QxO)
- - 😝 [Perfect casting amirite](http://9gag.com/gag/a4PpXyv)
- - 👉 [Men only want one thing &lpar;translation in comments&rpar;](http://9gag.com/gag/ary1Y4B)<!-- MEMES:END -->
+ - 😝 [From my 2016 Archive](http://9gag.com/gag/azx7pXZ)
+ - 😝 [She&#39;s got a point](http://9gag.com/gag/aO8oWEN)
+ - 💣 [The heroes \u1559\u2060&lpar;\u2060\u21c0\u2060\u2038\u2060\u21bc\u2060\u2036\u2060&rpar;\u2060\u1557](http://9gag.com/gag/a9yjxAm)
+ - 😝 [Father reveal](http://9gag.com/gag/aD2RK9N)
+ - 👉 [Title](http://9gag.com/gag/ary1QVX)<!-- MEMES:END -->
 
 ---
 

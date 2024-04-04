@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If it fits it shoots](http://9gag.com/gag/abA3Nj9)
- - 😝 [Title](http://9gag.com/gag/aO8ogdM)
- - 💣 [Sweden YES!](http://9gag.com/gag/agmrMnn)
- - 😝 [What else would you add?](http://9gag.com/gag/agmrMEq)
- - 👉 [If u know u know](http://9gag.com/gag/aKG4QxO)<!-- MEMES:END -->
+ - 😝 [The most dramatic plot twist in movie history](http://9gag.com/gag/aZZqGxX)
+ - 😝 [Singapore airlines first class](http://9gag.com/gag/a7ov4r2)
+ - 💣 [Life is but a scam](http://9gag.com/gag/aRB6noj)
+ - 😝 [It was all a plan since the beginning... trust me](http://9gag.com/gag/a87dR21)
+ - 👉 [Karma](http://9gag.com/gag/aZZqGRQ)<!-- MEMES:END -->
 
 ---
 

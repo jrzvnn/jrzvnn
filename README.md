@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The EU and the US issue a joint statement affirming a desire to increase cooperation over AI, including AI safety and governance, as well as broader tech issues &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240405/p5#a240405p5)
+ - [The Best Queer Batman Parody You Almost Never Saw](https://www.wired.com/story/vera-drew-the-peoples-joker-interview/)
  - [Samsung overtakes Apple to become world&#39;s leading smartphone vendor](https://appleinsider.com/articles/24/04/05/samsung-overtakes-apple-to-become-worlds-leading-smartphone-vendor?utm_medium=rss)
  - [Microsoft warns that China plans to disrupt elections in the US, South Korea, and India this year with AI-generated content after making a dry run in Taiwan &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/240405/p4#a240405p4)
- - [Two more new iPads spotted in regulatory database](https://appleinsider.com/articles/24/04/05/two-more-new-ipads-spotted-in-regulatory-database?utm_medium=rss)
- - [Women&#39;s Final Four 2024: How to Watch, Stream Iowa vs. UConn, South Carolina vs. NC State Today     - CNET](https://www.cnet.com/tech/services-and-software/womens-march-madness-2024-how-to-watch-stream-caitlin-clark-and-every-tournament-game/#ftag=CAD590a51e)
- - [Confused by iMessage Reactions on Your iPhone? Use Emoji Instead     - CNET](https://www.cnet.com/tech/services-and-software/confused-by-imessage-reactions-on-your-iphone-use-emoji-instead/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Two more new iPads spotted in regulatory database](https://appleinsider.com/articles/24/04/05/two-more-new-ipads-spotted-in-regulatory-database?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

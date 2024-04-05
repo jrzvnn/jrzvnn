@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Funny cat video?](http://9gag.com/gag/a0ev2Zn)
- - 😝 [That random gym fat dude is always surprisingly stronk](http://9gag.com/gag/awyNqK8)
- - 💣 [*grabs popcorn](http://9gag.com/gag/aMVepw6)
- - 😝 [AI&#39;s depiction of hell](http://9gag.com/gag/a2vEnzp)
- - 👉 [Even if they must hire diversity..there must be better options out there...](http://9gag.com/gag/aMVeReP)<!-- MEMES:END -->
+ - 😝 [*grabs popcorn](http://9gag.com/gag/aMVepw6)
+ - 😝 [Title](http://9gag.com/gag/aO8ogdM)
+ - 💣 [Crushed hard](http://9gag.com/gag/aW4BzOA)
+ - 😝 [Bro was ready to risk it all](http://9gag.com/gag/ajPQbXG)
+ - 👉 [Funny cat video?](http://9gag.com/gag/a0ev2Zn)<!-- MEMES:END -->
 
 ---
 

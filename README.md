@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;The Matrix&#39; Is Getting a Fifth Movie—Without a Wachowski Directing](https://www.wired.com/story/the-matrix-is-getting-a-fifth-movie-without-a-wachowski-directing/)
+ - [It’s Time for Nothing to Do Something](https://www.wired.com/story/nothing-ear-nothing-ear-a-news/)
+ - [How to redo the Apple Vision Pro’s hand and eye tracking](https://www.theverge.com/24121387/apple-vision-pro-hand-eye-tracking-how-to)
  - [CB Insights: global VC investment in fintech fell 16% QoQ to $7.3B over 904 deals in Q1 2024, the lowest amount of funding the sector has seen since 2017 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240405/p6#a240405p6)
- - [Spring Black Friday Savings Have Arrived at Home Depot. Here Are the Best Deals     - CNET](https://www.cnet.com/deals/spring-black-friday-savings-have-arrived-at-home-depot-here-are-the-best-deals/#ftag=CAD590a51e)
- - [Apple Robots, Apple anniversaries, plus Spatial Video pros &amp; cons, on the AppleInsider Podcast](https://appleinsider.com/articles/24/04/05/apple-robots-apple-anniversaries-plus-spatial-video-pros-cons-on-the-appleinsider-podcast?utm_medium=rss)
- - [Official Apple Watch Leather Link Band Is Just $40 at Woot While Supplies Last     - CNET](https://www.cnet.com/deals/official-apple-watch-leather-link-band-is-just-40-at-woot-while-supplies-last/#ftag=CAD590a51e)
- - [Save Up to 70% on Outdoor Furniture From Ashley, Wayfair and More     - CNET](https://www.cnet.com/deals/save-up-to-70-on-outdoor-furniture-from-ashley-wayfair-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Spring Black Friday Savings Have Arrived at Home Depot. Here Are the Best Deals     - CNET](https://www.cnet.com/deals/spring-black-friday-savings-have-arrived-at-home-depot-here-are-the-best-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filings: Apple laid off 600+ employees in California; some layoffs correspond to addresses where Apple&#39;s display and car research teams were reportedly based &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240404/p39#a240404p39)
+ - [Coinbase says it was granted a restricted dealer license in Canada, meeting the country&#39;s strict crypto demands as it pushes to expand abroad amid SEC crackdown &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240404/p38#a240404p38)
  - [Apple offers a sneak peek into new developer channel with YouTube trailer](https://appleinsider.com/articles/24/04/04/apple-offers-a-sneak-peek-into-new-developer-channel-with-youtube-trailer?utm_medium=rss)
  - [Tired of Waking Up Groggy? This Natural Supplement Could Enhance Your Sleep Routine     - CNET](https://www.cnet.com/health/sleep/melatonin-can-make-you-groggy-try-this-supplement-to-fall-asleep/#ftag=CAD590a51e)
- - [Filing: Meta rejects the FTC&#39;s bid to amend its 2020 privacy settlement, saying it voluntarily disclosed two Messenger Kids bugs and had no parent complaints &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/240404/p37#a240404p37)
- - [Apple Reportedly Developing Robots That&#39;ll Roam Your Home     - CNET](https://www.cnet.com/tech/mobile/apple-reportedly-developing-robots-thatll-roam-your-home/#ftag=CAD590a51e)
- - [The Beatbot Aquasense Pro Is a 5-In-1 Robot That Enables Hands-Free Pool Cleaning     - CNET](https://www.cnet.com/news/the-beatbot-aquasense-pro-is-a-5-in-1-robot-that-enables-hands-free-pool-cleaning/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Filing: Meta rejects the FTC&#39;s bid to amend its 2020 privacy settlement, saying it voluntarily disclosed two Messenger Kids bugs and had no parent complaints &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/240404/p37#a240404p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

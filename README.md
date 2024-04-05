@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [That random gym fat dude is always surprisingly stronk](http://9gag.com/gag/awyNqK8)
+ - 😝 [If you don&#39;t succeed the first time, then parachuting is not for you.](http://9gag.com/gag/aLn6qxW)
+ - 💣 [Title](http://9gag.com/gag/aO8ogdM)
  - 😝 [Singapore airlines first class](http://9gag.com/gag/a7ov4r2)
- - 😝 [Title](http://9gag.com/gag/aO8ogdM)
- - 💣 [If you don&#39;t succeed the first time, then parachuting is not for you.](http://9gag.com/gag/aLn6qxW)
- - 😝 [AI&#39;s depiction of hell](http://9gag.com/gag/a2vEnzp)
- - 👉 [Durex is taking it up a notch](http://9gag.com/gag/avyp2ZO)<!-- MEMES:END -->
+ - 👉 [Not for me. I&#39;m going home.](http://9gag.com/gag/aVvjAYP)<!-- MEMES:END -->
 
 ---
 

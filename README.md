@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [OpenAI COO says ChatGPT Enterprise has 600K+ paying customers, up from ~150K in January, and 2024 is going to be the &quot;year of adoption for AI in the enterprise&quot; &lpar;Jackie Davalos/Bloomberg&rpar;](http://www.techmeme.com/240405/p7#a240405p7)
- - [&#39;The Matrix&#39; Is Getting a Fifth Movie—Without a Wachowski Directing](https://www.wired.com/story/the-matrix-is-getting-a-fifth-movie-without-a-wachowski-directing/)
- - [It’s Time for Nothing to Do Something](https://www.wired.com/story/nothing-ear-nothing-ear-a-news/)
- - [How to redo the Apple Vision Pro’s hand and eye tracking](https://www.theverge.com/24121387/apple-vision-pro-hand-eye-tracking-how-to)
- - [CB Insights: global VC investment in fintech fell 16% QoQ to $7.3B over 904 deals in Q1 2024, the lowest amount of funding the sector has seen since 2017 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240405/p6#a240405p6)<!-- TECH:END -->
+ - [You Really Should Be Using a VPN and an Antivirus. Here’s Why     - CNET](https://www.cnet.com/tech/services-and-software/vpn-vs-antivirus/#ftag=CAD590a51e)
+ - [How Will the Solar Eclipse Affect Your Solar Panels&#39; Performance?     - CNET](https://www.cnet.com/home/energy-and-utilities/how-will-the-solar-eclipse-affect-your-solar-panels-performance/#ftag=CAD590a51e)
+ - [Best Solar Batteries of April 2024: New Winner     - CNET](https://www.cnet.com/home/energy-and-utilities/best-solar-batteries/#ftag=CAD590a51e)
+ - [Enphase IQ Battery Review: Less Power Than Competitors, but a Stronger Model Is Here     - CNET](https://www.cnet.com/home/energy-and-utilities/enphase-battery-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

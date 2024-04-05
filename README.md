@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That random gym fat dude is always surprisingly stronk](http://9gag.com/gag/awyNqK8)
- - 😝 [How Natural Selection works](http://9gag.com/gag/ayNEbzq)
- - 💣 [Title](http://9gag.com/gag/aO8ogdM)
- - 😝 [Perfect casting amirite](http://9gag.com/gag/a4PpXyv)
- - 👉 [Put Brion Bishop in YouTube](http://9gag.com/gag/aRB65pj)<!-- MEMES:END -->
+ - 😝 [Bro was ready to risk it all](http://9gag.com/gag/ajPQbXG)
+ - 😝 [It was all a plan since the beginning... trust me](http://9gag.com/gag/a87dR21)
+ - 💣 [Karma](http://9gag.com/gag/aZZqGRQ)
+ - 😝 [I have a koschen.](http://9gag.com/gag/apRKyx8)
+ - 👉 [Not for me. I&#39;m going home.](http://9gag.com/gag/aVvjAYP)<!-- MEMES:END -->
 
 ---
 

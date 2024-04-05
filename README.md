@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Perfect casting amirite](http://9gag.com/gag/a4PpXyv)
- - 😝 [AliEns BuilT thE pYraMidS](http://9gag.com/gag/aBy979Q)
- - 💣 [Funny cat video?](http://9gag.com/gag/a0ev2Zn)
- - 😝 [\u201cF**ck, time to relocate the store\u201d](http://9gag.com/gag/avy2NDO)
- - 👉 [I have a koschen.](http://9gag.com/gag/apRKyx8)<!-- MEMES:END -->
+ - 😝 [I have a koschen.](http://9gag.com/gag/apRKyx8)
+ - 😝 [Funny cat video?](http://9gag.com/gag/a0ev2Zn)
+ - 💣 [Crushed hard](http://9gag.com/gag/aW4BzOA)
+ - 😝 [Singapore airlines first class](http://9gag.com/gag/a7ov4r2)
+ - 👉 [Bro was ready to risk it all](http://9gag.com/gag/ajPQbXG)<!-- MEMES:END -->
 
 ---
 

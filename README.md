@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Put Brion Bishop in YouTube](http://9gag.com/gag/aRB65pj)
- - 😝 [Based Gorl](http://9gag.com/gag/aqy94ZQ)
- - 💣 [Lies and white lies only.](http://9gag.com/gag/a87dBNY)
- - 😝 [Durex is taking it up a notch](http://9gag.com/gag/avyp2ZO)
- - 👉 [Powerlifter trolling bodybuilders](http://9gag.com/gag/azx7NPB)<!-- MEMES:END -->
+ - 😝 [I have a koschen.](http://9gag.com/gag/apRKyx8)
+ - 😝 [Lies and white lies only.](http://9gag.com/gag/a87dBNY)
+ - 💣 [Put Brion Bishop in YouTube](http://9gag.com/gag/aRB65pj)
+ - 😝 [If you don&#39;t succeed the first time, then parachuting is not for you.](http://9gag.com/gag/aLn6qxW)
+ - 👉 [Oof](http://9gag.com/gag/abA39qE)<!-- MEMES:END -->
 
 ---
 

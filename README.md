@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tim Cook makes $16 million from selling Apple shares](https://appleinsider.com/articles/24/04/05/tim-cook-makes-16-million-from-selling-apple-shares?utm_medium=rss)
  - [Microsoft’s Surface Laptop 5 and Intel Pro 9 are down to their lowest price to date](https://www.theverge.com/2024/4/5/24120956/microsoft-surface-laptop-5-intel-pro-9-convertible-anker-321-power-strip-deal-sale)
  - [Some investors say YC&#39;s winter 2024 batch was stronger than previous years, noting consumer AI as a key trend; YC says ~50% of this batch is working with AI &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/240405/p11#a240405p11)
  - [The best laptops you can buy](https://www.theverge.com/21250695/best-laptops)
- - [Ugmonk Analog Starter Kit Review: Go Analog to Be Productive](https://www.wired.com/review/ugmonk-analog-starter-kit/)
- - [The Solar Eclipse Is the Super Bowl for Conspiracists](https://www.wired.com/story/solar-eclipse-conspiracies/)<!-- TECH:END -->
+ - [Ugmonk Analog Starter Kit Review: Go Analog to Be Productive](https://www.wired.com/review/ugmonk-analog-starter-kit/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [MUST WATCH: Dr. Phil confronts two female Hamas supporters on the question of whether the October 7th Hamas massacre would be considered genocide and whether it was morally acceptable. They get WRECKED!](http://9gag.com/gag/aW4Bw42)
- - 😝 [AliEns BuilT thE pYraMidS](http://9gag.com/gag/aBy979Q)
+ - 😝 [That random gym fat dude is always surprisingly stronk](http://9gag.com/gag/awyNqK8)
+ - 😝 [Men only want one thing &lpar;translation in comments&rpar;](http://9gag.com/gag/ary1Y4B)
  - 💣 [Put Brion Bishop in YouTube](http://9gag.com/gag/aRB65pj)
- - 😝 [Here&#39;s why it&#39;s so important to choose your significant other carefully](http://9gag.com/gag/avy2Nj5)
+ - 😝 [Crushed hard](http://9gag.com/gag/aW4BzOA)
  - 👉 [I have a koschen.](http://9gag.com/gag/apRKyx8)<!-- MEMES:END -->
 
 ---

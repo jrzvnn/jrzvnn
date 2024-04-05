@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ugmonk Analog Starter Kit Review: Go Analog to Be Productive](https://www.wired.com/review/ugmonk-analog-starter-kit/)
+ - [The Solar Eclipse Is the Super Bowl for Conspiracists](https://www.wired.com/story/solar-eclipse-conspiracies/)
  - [An earthquake just rocked NYC, New Jersey, and the surrounding areas](https://www.theverge.com/2024/4/5/24121989/earthquake-nyc-nj-ct-usgs-magnitude)
  - [Nuclear Throne studio Vlambeer is back from the dead](https://www.theverge.com/2024/4/5/24121948/nuclear-throne-vlambeer-studio-ownership)
- - [Meta plans to label a wider range of video, audio, and image content as &quot;Made with AI&quot; starting in May, following feedback from its independent Oversight Board &lpar;Ryan Heath/Axios&rpar;](http://www.techmeme.com/240405/p10#a240405p10)
- - [Streaming services really want you to buy stuff while you watch TV](https://www.theverge.com/2024/4/5/24121896/streaming-services-second-screen-ads-paramount-disney-peacock)
- - [Images of DJI’s newest drone keep getting leaked](https://www.theverge.com/2024/4/5/24121866/dji-avata-2-leaked-images-goggles-3)<!-- TECH:END -->
+ - [Meta plans to label a wider range of video, audio, and image content as &quot;Made with AI&quot; starting in May, following feedback from its independent Oversight Board &lpar;Ryan Heath/Axios&rpar;](http://www.techmeme.com/240405/p10#a240405p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

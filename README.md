@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [*grabs popcorn](http://9gag.com/gag/aMVepw6)
- - 😝 [What else would you add?](http://9gag.com/gag/agmrMEq)
- - 💣 [Perfectly balanced\u2026as all things should be](http://9gag.com/gag/aGyKmGZ)
- - 😝 [Not for me. I&#39;m going home.](http://9gag.com/gag/aVvjAYP)
- - 👉 [Title](http://9gag.com/gag/aO8ogdM)<!-- MEMES:END -->
+ - 😝 [Title](http://9gag.com/gag/aO8ogdM)
+ - 😝 [Hope they got severe trauma forever or maybe nuclear holocaust](http://9gag.com/gag/aPA6EjK)
+ - 💣 [That random gym fat dude is always surprisingly stronk](http://9gag.com/gag/awyNqK8)
+ - 😝 [I have a koschen.](http://9gag.com/gag/apRKyx8)
+ - 👉 [Perfect casting amirite](http://9gag.com/gag/a4PpXyv)<!-- MEMES:END -->
 
 ---
 

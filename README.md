@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tesla reportedly abandons plans to make a less expensive $25,000 electric vehicle](https://www.theverge.com/2024/4/5/24122064/tesla-cancel-affordable-electric-vehicle-model-2-china)
+ - [A look at tech giants&#39; AI training data deals; Defined.ai: some are ready to pay $1-$2 per image, $2-$4 per short video, and $100-$300 per hour of long video &lpar;Reuters&rpar;](http://www.techmeme.com/240405/p12#a240405p12)
+ - [The 14 Best Travel Bags We&#39;ve Tested &lpar;And Some to Avoid&rpar;](https://www.wired.com/gallery/best-travel-bags-carry-on-luggage/)
  - [Meta will require labels on more AI-generated content](https://www.theverge.com/2024/4/5/24121978/meta-ai-generated-content-label-requirements-deepfakes)
- - [Tim Cook makes $16 million from selling Apple shares](https://appleinsider.com/articles/24/04/05/tim-cook-makes-16-million-from-selling-apple-shares?utm_medium=rss)
- - [Microsoft’s Surface Laptop 5 and Intel Pro 9 are down to their lowest price to date](https://www.theverge.com/2024/4/5/24120956/microsoft-surface-laptop-5-intel-pro-9-convertible-anker-321-power-strip-deal-sale)
- - [Some investors say YC&#39;s winter 2024 batch was stronger than previous years, noting consumer AI as a key trend; YC says ~50% of this batch is working with AI &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/240405/p11#a240405p11)
- - [The best laptops you can buy](https://www.theverge.com/21250695/best-laptops)<!-- TECH:END -->
+ - [Tim Cook makes $16 million from selling Apple shares](https://appleinsider.com/articles/24/04/05/tim-cook-makes-16-million-from-selling-apple-shares?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

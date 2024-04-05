@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OnePlus Watch 2 Review: A 3-Day Battery Smartwatch](https://www.wired.com/review/oneplus-watch-2/)
+ - [This AI Startup Wants You to Talk to Houses, Cars, and Factories](https://www.wired.com/story/plaintext-ai-startup-archetype-talk-to-houses-cars-and-factories/)
+ - [We need a permanent solution for universal broadband access](https://www.theverge.com/2024/4/5/24121022/universal-broadband-access-fcc-usf-acp)
  - [The EU and the US issue a joint statement affirming a desire to increase cooperation over AI, including AI safety and governance, as well as broader tech issues &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240405/p5#a240405p5)
- - [Lenovo Slim 7i Review: A Compact, Sturdy Midpriced Laptop with An OLED Screen     - CNET](https://www.cnet.com/tech/computing/lenovo-slim-7i-review-a-compact-sturdy-midpriced-laptop-with-an-oled-screen/#ftag=CAD590a51e)
- - [Eclipse Photography: Solar Snap App and Tips for the Best Path of Totality Shots     - CNET](https://www.cnet.com/tech/services-and-software/eclipse-photography-solar-snap-app-and-tips-for-the-best-path-of-totality-shots/#ftag=CAD590a51e)
- - [The Best Queer Batman Parody You Almost Never Saw](https://www.wired.com/story/vera-drew-the-peoples-joker-interview/)
- - [Samsung overtakes Apple to become world&#39;s leading smartphone vendor](https://appleinsider.com/articles/24/04/05/samsung-overtakes-apple-to-become-worlds-leading-smartphone-vendor?utm_medium=rss)<!-- TECH:END -->
+ - [The Best Queer Batman Parody You Almost Never Saw](https://www.wired.com/story/vera-drew-the-peoples-joker-interview/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sephora&#39;s Spring Sale Brings Big Discounts on Top-Rated Hair Tools &lpar;2024&rpar;](https://www.wired.com/story/sephora-sale-april-2024/)
+ - [Filings in FTC lawsuit: Instagram had revenues of $22B in 2020, or 26% of Meta&#39;s total revenue, $32.4B in 2021, or 27% of Meta&#39;s revenue, and $16.5B in H1 2022 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240405/p17#a240405p17)
  - [Disney sets theatrical dates for The Mandalorian &amp; Grogu and Tron: Ares](https://www.theverge.com/2024/4/5/24122261/mandalorian-grogu-tron-ares-toy-story-5-disney-theater-dates)
- - [Sources say Sundar Pichai is now making day-to-day decisions about adding generative AI to Google products even as some worry about his low-key leadership style &lpar;Financial Times&rpar;](http://www.techmeme.com/240405/p16#a240405p16)
- - [Microsoft loses key Xbox executive amid continued gaming shake-up](https://www.theverge.com/2024/4/5/24122208/microsoft-xbox-kareem-choudhry-leaving-xbox-cloud-gaming)
- - [Q&amp;A with Marissa Mayer about her app development startup Sunshine, its new photo-sharing app Shine, the AI landscape, internet business models, and more &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/240405/p15#a240405p15)
- - [OnePlus Watch 2 review: runs Wear OS with a big, bright screen and three-day battery life but lacks some health features, the accuracy of results is a mixed bag &lpar;Julian Chokkattu/Wired&rpar;](http://www.techmeme.com/240405/p14#a240405p14)<!-- TECH:END -->
+ - [I Use My Stanley Tumblers Every Day. Here&#39;s the Size I Like the Most     - CNET](https://www.cnet.com/deals/i-use-my-stanley-tumblers-every-day-heres-the-size-i-like-the-most/#ftag=CAD590a51e)
+ - [Sources say Sundar Pichai is now making day-to-day decisions about adding generative AI to Google products even as some worry about his low-key leadership style &lpar;Financial Times&rpar;](http://www.techmeme.com/240405/p16#a240405p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

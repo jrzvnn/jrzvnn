@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft warns that China plans to disrupt elections in the US, South Korea, and India this year with AI-generated content after making a dry run in Taiwan &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/240405/p4#a240405p4)
  - [Two more new iPads spotted in regulatory database](https://appleinsider.com/articles/24/04/05/two-more-new-ipads-spotted-in-regulatory-database?utm_medium=rss)
- - [Women&#39;s Final Four 2024: How to Watch, Stream Iowa vs. UConn, South Carolina vs. NC State Today     - CNET](https://www.cnet.com/tech/services-and-software/womens-march-madness-2024-how-to-watch-stream-caitlin-clark-and-every-tournament-game/#ftag=CAD590a51e)
- - [Confused by iMessage Reactions on Your iPhone? Use Emoji Instead     - CNET](https://www.cnet.com/tech/services-and-software/confused-by-imessage-reactions-on-your-iphone-use-emoji-instead/#ftag=CAD590a51e)
- - [Here&#39;s How to Remove Your Information From OpenAI&#39;s Servers     - CNET](https://www.cnet.com/tech/services-and-software/heres-how-to-remove-your-information-from-openais-servers/#ftag=CAD590a51e)
- - [Eclipse Travelers Should Probably Use Their iPhone&#39;s Offline Maps Feature     - CNET](https://www.cnet.com/tech/mobile/eclipse-travelers-should-probably-use-their-iphones-offline-maps-feature/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Can You View a Round Solar Eclipse Through a Square Hole?](https://www.wired.com/story/a-round-eclipse-in-a-square-hole/)
+ - [Sources: Samsung plans to more than double its total chip investment in Taylor, Texas to ~$44B, a significant breakthrough for US&#39; chip manufacturing plans &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240405/p3#a240405p3)
+ - [Momentum Solar Review: More Strengths Than Weaknesses     - CNET](https://www.cnet.com/home/energy-and-utilities/momentum-solar-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

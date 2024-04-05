@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Jony Ive and Sam Altman&#39;s AI device startup is in funding talks with Emerson Collective and Thrive Capital; Ive wants to raise up to $1B in funding &lpar;The Information&rpar;](http://www.techmeme.com/240405/p21#a240405p21)
+ - [Anker’s folding Qi2 charger and other power banks are up to 30 percent off](https://www.theverge.com/2024/4/5/24122269/anker-maggo-power-bank-portable-qi2-charger-deal-sale)
  - [Apple opens the App Store to retro game emulators](https://www.theverge.com/2024/4/5/24122341/apple-app-store-game-emulators-super-apps)
  - [The rare NYC earthquake underscores concerns about infrastructure](https://www.theverge.com/2024/4/5/24122320/nyc-earthquake-bridges-infrastructure-concerns)
- - [He Got a Pig Kidney Transplant. Now Doctors Need to Keep It Working](https://www.wired.com/story/pig-kidney-transplant-discharge-ongoing-care/)
- - [Elon Musk says Tesla will reveal its robotaxi on August 8th](https://www.theverge.com/2024/4/5/24122384/tesla-robotaxi-reveal-date-elon-musk-august-8)
- - [Best Dash Cam Deals: Save Up to $105 on Rove, Garmin, Vantrue and More     - CNET](https://www.cnet.com/roadshow/news/best-dash-cam-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [He Got a Pig Kidney Transplant. Now Doctors Need to Keep It Working](https://www.wired.com/story/pig-kidney-transplant-discharge-ongoing-care/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

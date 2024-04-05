@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [CB Insights: global VC investment in fintech fell 16% QoQ to $7.3B over 904 deals in Q1 2024, the lowest amount of funding the sector has seen since 2017 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240405/p6#a240405p6)
+ - [Spring Black Friday Savings Have Arrived at Home Depot. Here Are the Best Deals     - CNET](https://www.cnet.com/deals/spring-black-friday-savings-have-arrived-at-home-depot-here-are-the-best-deals/#ftag=CAD590a51e)
  - [Apple Robots, Apple anniversaries, plus Spatial Video pros &amp; cons, on the AppleInsider Podcast](https://appleinsider.com/articles/24/04/05/apple-robots-apple-anniversaries-plus-spatial-video-pros-cons-on-the-appleinsider-podcast?utm_medium=rss)
- - [OnePlus Watch 2 Review: A 3-Day Battery Smartwatch](https://www.wired.com/review/oneplus-watch-2/)
- - [This AI Startup Wants You to Talk to Houses, Cars, and Factories](https://www.wired.com/story/plaintext-ai-startup-archetype-talk-to-houses-cars-and-factories/)
- - [We need a permanent solution for universal broadband access](https://www.theverge.com/2024/4/5/24121022/universal-broadband-access-fcc-usf-acp)<!-- TECH:END -->
+ - [Official Apple Watch Leather Link Band Is Just $40 at Woot While Supplies Last     - CNET](https://www.cnet.com/deals/official-apple-watch-leather-link-band-is-just-40-at-woot-while-supplies-last/#ftag=CAD590a51e)
+ - [Save Up to 70% on Outdoor Furniture From Ashley, Wayfair and More     - CNET](https://www.cnet.com/deals/save-up-to-70-on-outdoor-furniture-from-ashley-wayfair-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

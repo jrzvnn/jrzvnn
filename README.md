@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [He Got a Pig Kidney Transplant. Now Doctors Need to Keep It Working](https://www.wired.com/story/pig-kidney-transplant-discharge-ongoing-care/)
  - [Elon Musk says Tesla will reveal its robotaxi on August 8th](https://www.theverge.com/2024/4/5/24122384/tesla-robotaxi-reveal-date-elon-musk-august-8)
  - [Crypto Magnate Do Kwon Found Liable for Multi-Billion-Dollar Fraud](https://www.wired.com/story/do-kwon-terraform-terraform-labs-liable-civil-charges/)
  - [Apple updates App Store guidelines, allowing game emulators for the first time globally, and letting music streaming apps in the EU link to external websites &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/240405/p20#a240405p20)
- - [Why the East Coast Earthquake Covered So Much Ground](https://www.wired.com/story/why-the-east-coast-earthquake-covered-so-much-ground/)
- - [Monkey Man is a studied execution of the brutal revenge thriller](https://www.theverge.com/24121341/monkey-man-dev-patel-review)<!-- TECH:END -->
+ - [Why the East Coast Earthquake Covered So Much Ground](https://www.wired.com/story/why-the-east-coast-earthquake-covered-so-much-ground/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

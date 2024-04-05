@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That random gym fat dude is always surprisingly stronk](http://9gag.com/gag/awyNqK8)
- - 😝 [Men only want one thing &lpar;translation in comments&rpar;](http://9gag.com/gag/ary1Y4B)
- - 💣 [Put Brion Bishop in YouTube](http://9gag.com/gag/aRB65pj)
- - 😝 [Crushed hard](http://9gag.com/gag/aW4BzOA)
- - 👉 [I have a koschen.](http://9gag.com/gag/apRKyx8)<!-- MEMES:END -->
+ - 😝 [If it fits it shoots](http://9gag.com/gag/abA3Nj9)
+ - 😝 [The most dramatic plot twist in movie history](http://9gag.com/gag/aZZqGxX)
+ - 💣 [Karma](http://9gag.com/gag/aZZqGRQ)
+ - 😝 [Prepare before..](http://9gag.com/gag/ae9Kn4v)
+ - 👉 [That random gym fat dude is always surprisingly stronk](http://9gag.com/gag/awyNqK8)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hand carved](http://9gag.com/gag/aVvjGNM)
- - 😝 [She\u2019s a keeper](http://9gag.com/gag/agmrMOg)
- - 💣 [What else would you add?](http://9gag.com/gag/agmrMEq)
- - 😝 [I have a koschen.](http://9gag.com/gag/apRKyx8)
- - 👉 [Deserved retirement](http://9gag.com/gag/a87dPpd)<!-- MEMES:END -->
+ - 😝 [Lies and white lies only.](http://9gag.com/gag/a87dBNY)
+ - 😝 [Karma](http://9gag.com/gag/aZZqGRQ)
+ - 💣 [Based Gorl](http://9gag.com/gag/aqy94ZQ)
+ - 😝 [Title](http://9gag.com/gag/aO8ogdM)
+ - 👉 [Crushed hard](http://9gag.com/gag/aW4BzOA)<!-- MEMES:END -->
 
 ---
 

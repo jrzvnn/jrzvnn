@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [There is one thing that never dies; the fame of a man&#39;s deeds.](http://9gag.com/gag/azx7n0z)
  - 😝 [Perfect casting amirite](http://9gag.com/gag/a4PpXyv)
- - 😝 [Singapore airlines first class](http://9gag.com/gag/a7ov4r2)
- - 💣 [Guy harasses man with disability](http://9gag.com/gag/ajPQogg)
- - 😝 [It was all a plan since the beginning... trust me](http://9gag.com/gag/a87dR21)
- - 👉 [*grabs popcorn](http://9gag.com/gag/aMVepw6)<!-- MEMES:END -->
+ - 💣 [Lies and white lies only.](http://9gag.com/gag/a87dBNY)
+ - 😝 [*grabs popcorn](http://9gag.com/gag/aMVepw6)
+ - 👉 [Sweden YES!](http://9gag.com/gag/agmrMnn)<!-- MEMES:END -->
 
 ---
 

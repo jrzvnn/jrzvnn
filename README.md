@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guy harasses man with disability](http://9gag.com/gag/ajPQogg)
- - 😝 [That random gym fat dude is always surprisingly stronk](http://9gag.com/gag/awyNqK8)
- - 💣 [Lies and white lies only.](http://9gag.com/gag/a87dBNY)
- - 😝 [Legit](http://9gag.com/gag/aE0dLQ9)
- - 👉 [If you don&#39;t succeed the first time, then parachuting is not for you.](http://9gag.com/gag/aLn6qxW)<!-- MEMES:END -->
+ - 😝 [Put Brion Bishop in YouTube](http://9gag.com/gag/aRB65pj)
+ - 😝 [Oof](http://9gag.com/gag/abA39qE)
+ - 💣 [Title](http://9gag.com/gag/aO8ogdM)
+ - 😝 [First, Look How Fast and Skillfully this Car is Repossessed. Done? Ok Now You Can Racism](http://9gag.com/gag/ayN7EPb)
+ - 👉 [Durex is taking it up a notch](http://9gag.com/gag/avyp2ZO)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An earthquake just rocked NYC, New Jersey, and the surrounding areas](https://www.theverge.com/2024/4/5/24121989/earthquake-nyc-nj-ct-usgs-magnitude)
  - [Nuclear Throne studio Vlambeer is back from the dead](https://www.theverge.com/2024/4/5/24121948/nuclear-throne-vlambeer-studio-ownership)
  - [Meta plans to label a wider range of video, audio, and image content as &quot;Made with AI&quot; starting in May, following feedback from its independent Oversight Board &lpar;Ryan Heath/Axios&rpar;](http://www.techmeme.com/240405/p10#a240405p10)
  - [Streaming services really want you to buy stuff while you watch TV](https://www.theverge.com/2024/4/5/24121896/streaming-services-second-screen-ads-paramount-disney-peacock)
- - [Images of DJI’s newest drone keep getting leaked](https://www.theverge.com/2024/4/5/24121866/dji-avata-2-leaked-images-goggles-3)
- - [Sources: FTX estate sold 25M to 30M locked-up SOL coins for $64 apiece, a deeply discounted price, to Galaxy Trading, Pantera, and others, raising up to $1.9B &lpar;Bloomberg&rpar;](http://www.techmeme.com/240405/p9#a240405p9)<!-- TECH:END -->
+ - [Images of DJI’s newest drone keep getting leaked](https://www.theverge.com/2024/4/5/24121866/dji-avata-2-leaked-images-goggles-3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

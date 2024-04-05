@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So this is the step... Of dance](http://9gag.com/gag/aYQj9x7)
- - 😝 [AI&#39;s depiction of hell](http://9gag.com/gag/a2vEnzp)
- - 💣 [It was all a plan since the beginning... trust me](http://9gag.com/gag/a87dR21)
- - 😝 [Perfect casting amirite](http://9gag.com/gag/a4PpXyv)
- - 👉 [Bro was ready to risk it all](http://9gag.com/gag/ajPQbXG)<!-- MEMES:END -->
+ - 😝 [Sweden YES!](http://9gag.com/gag/agmrMnn)
+ - 😝 [If it fits it shoots](http://9gag.com/gag/abA3Nj9)
+ - 💣 [*grabs popcorn](http://9gag.com/gag/aMVepw6)
+ - 😝 [Title](http://9gag.com/gag/aO8ogdM)
+ - 👉 [Phone dead, about to explode](http://9gag.com/gag/aNDmy0G)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/aO8ogdM)
- - 😝 [Hope they got severe trauma forever or maybe nuclear holocaust](http://9gag.com/gag/aPA6EjK)
- - 💣 [That random gym fat dude is always surprisingly stronk](http://9gag.com/gag/awyNqK8)
- - 😝 [I have a koschen.](http://9gag.com/gag/apRKyx8)
- - 👉 [Perfect casting amirite](http://9gag.com/gag/a4PpXyv)<!-- MEMES:END -->
+ - 😝 [Even if they must hire diversity..there must be better options out there...](http://9gag.com/gag/aMVeReP)
+ - 😝 [Mesmerizing](http://9gag.com/gag/ae9Knbm)
+ - 💣 [Title](http://9gag.com/gag/ary1QVX)
+ - 😝 [Father reveal](http://9gag.com/gag/aD2RK9N)
+ - 👉 [*grabs popcorn](http://9gag.com/gag/aMVepw6)<!-- MEMES:END -->
 
 ---
 

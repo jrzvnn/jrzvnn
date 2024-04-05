@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro was ready to risk it all](http://9gag.com/gag/ajPQbXG)
- - 😝 [It was all a plan since the beginning... trust me](http://9gag.com/gag/a87dR21)
- - 💣 [Karma](http://9gag.com/gag/aZZqGRQ)
- - 😝 [I have a koschen.](http://9gag.com/gag/apRKyx8)
- - 👉 [Not for me. I&#39;m going home.](http://9gag.com/gag/aVvjAYP)<!-- MEMES:END -->
+ - 😝 [That random gym fat dude is always surprisingly stronk](http://9gag.com/gag/awyNqK8)
+ - 😝 [Shocked dazed and confused](http://9gag.com/gag/aE0d39K)
+ - 💣 [Crushed hard](http://9gag.com/gag/aW4BzOA)
+ - 😝 [Karma](http://9gag.com/gag/aZZqGRQ)
+ - 👉 [It was all a plan since the beginning... trust me](http://9gag.com/gag/a87dR21)<!-- MEMES:END -->
 
 ---
 

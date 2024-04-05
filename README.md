@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nuclear Throne studio Vlambeer is back from the dead](https://www.theverge.com/2024/4/5/24121948/nuclear-throne-vlambeer-studio-ownership)
+ - [Meta plans to label a wider range of video, audio, and image content as &quot;Made with AI&quot; starting in May, following feedback from its independent Oversight Board &lpar;Ryan Heath/Axios&rpar;](http://www.techmeme.com/240405/p10#a240405p10)
+ - [Streaming services really want you to buy stuff while you watch TV](https://www.theverge.com/2024/4/5/24121896/streaming-services-second-screen-ads-paramount-disney-peacock)
  - [Images of DJI’s newest drone keep getting leaked](https://www.theverge.com/2024/4/5/24121866/dji-avata-2-leaked-images-goggles-3)
- - [Sources: FTX estate sold 25M to 30M locked-up SOL coins for $64 apiece, a deeply discounted price, to Galaxy Trading, Pantera, and others, raising up to $1.9B &lpar;Bloomberg&rpar;](http://www.techmeme.com/240405/p9#a240405p9)
- - [Nemo Tensor Ultralight Insulated Sleeping Pad &lpar;2024&rpar; Review: Unparalleled Comfort](https://www.wired.com/review/nemo-tensor-ultralight-insulated-sleeping-pad-2024/)
- - [Journey Loc8 MagSafe Finder Wallet review: an all-in-one Find My wallet](https://appleinsider.com/articles/24/04/05/journey-loc8-magsafe-finder-wallet-review-an-all-in-one-find-my-wallet?utm_medium=rss)
- - [Archetype, which is building AI models to help humans understand the data from sensors monitoring the physical world, launches with a $13M seed led by Venrock &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/240405/p8#a240405p8)<!-- TECH:END -->
+ - [Sources: FTX estate sold 25M to 30M locked-up SOL coins for $64 apiece, a deeply discounted price, to Galaxy Trading, Pantera, and others, raising up to $1.9B &lpar;Bloomberg&rpar;](http://www.techmeme.com/240405/p9#a240405p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

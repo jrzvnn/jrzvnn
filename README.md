@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [*grabs popcorn](http://9gag.com/gag/aMVepw6)
- - 😝 [Title](http://9gag.com/gag/aO8ogdM)
+ - 😝 [Was this guy even human? Damn...](http://9gag.com/gag/ayNEGVb)
+ - 😝 [What else would you add?](http://9gag.com/gag/agmrMEq)
  - 💣 [Crushed hard](http://9gag.com/gag/aW4BzOA)
- - 😝 [Bro was ready to risk it all](http://9gag.com/gag/ajPQbXG)
- - 👉 [Funny cat video?](http://9gag.com/gag/a0ev2Zn)<!-- MEMES:END -->
+ - 😝 [Title](http://9gag.com/gag/ary1QVX)
+ - 👉 [Hope they got severe trauma forever or maybe nuclear holocaust](http://9gag.com/gag/aPA6EjK)<!-- MEMES:END -->
 
 ---
 

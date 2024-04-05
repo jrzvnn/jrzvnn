@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [First, Look How Fast and Skillfully this Car is Repossessed. Done? Ok Now You Can Racism](http://9gag.com/gag/ayN7EPb)
+ - 😝 [BASED TEXAS : Woke leftist students cry after after getting laid off after anti-DEI law, and segregated graduations also banned.](http://9gag.com/gag/aVvjnY8)
  - 😝 [That random gym fat dude is always surprisingly stronk](http://9gag.com/gag/awyNqK8)
- - 💣 [Durex is taking it up a notch](http://9gag.com/gag/avyp2ZO)
+ - 💣 [If you don&#39;t succeed the first time, then parachuting is not for you.](http://9gag.com/gag/aLn6qxW)
  - 😝 [I have a koschen.](http://9gag.com/gag/apRKyx8)
- - 👉 [If you don&#39;t succeed the first time, then parachuting is not for you.](http://9gag.com/gag/aLn6qxW)<!-- MEMES:END -->
+ - 👉 [Durex is taking it up a notch](http://9gag.com/gag/avyp2ZO)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How much MacBook is enough MacBook?](https://www.theverge.com/2024/4/5/24121824/macbook-air-m3-tiktok-ban-jon-stewart-ai-vergecast-podcast)
  - [OpenAI COO says ChatGPT Enterprise has 600K+ paying customers, up from ~150K in January, and 2024 is going to be the &quot;year of adoption for AI in the enterprise&quot; &lpar;Jackie Davalos/Bloomberg&rpar;](http://www.techmeme.com/240405/p7#a240405p7)
  - [You Really Should Be Using a VPN and an Antivirus. Here’s Why     - CNET](https://www.cnet.com/tech/services-and-software/vpn-vs-antivirus/#ftag=CAD590a51e)
  - [How Will the Solar Eclipse Affect Your Solar Panels&#39; Performance?     - CNET](https://www.cnet.com/home/energy-and-utilities/how-will-the-solar-eclipse-affect-your-solar-panels-performance/#ftag=CAD590a51e)
- - [Best Solar Batteries of April 2024: New Winner     - CNET](https://www.cnet.com/home/energy-and-utilities/best-solar-batteries/#ftag=CAD590a51e)
- - [Enphase IQ Battery Review: Less Power Than Competitors, but a Stronger Model Is Here     - CNET](https://www.cnet.com/home/energy-and-utilities/enphase-battery-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Solar Batteries of April 2024: New Winner     - CNET](https://www.cnet.com/home/energy-and-utilities/best-solar-batteries/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

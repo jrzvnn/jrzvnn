@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I have a koschen.](http://9gag.com/gag/apRKyx8)
- - 😝 [That random gym fat dude is always surprisingly stronk](http://9gag.com/gag/awyNqK8)
- - 💣 [Lucky guy](http://9gag.com/gag/a87Ldj1)
- - 😝 [Here&#39;s why it&#39;s so important to choose your significant other carefully](http://9gag.com/gag/avy2Nj5)
- - 👉 [Crushed hard](http://9gag.com/gag/aW4BzOA)<!-- MEMES:END -->
+ - 😝 [A Muslim father casually explains sex slavery in Islam to his daughter.](http://9gag.com/gag/aPA653n)
+ - 😝 [Life is but a scam](http://9gag.com/gag/aRB6noj)
+ - 💣 [If you don&#39;t succeed the first time, then parachuting is not for you.](http://9gag.com/gag/aLn6qxW)
+ - 😝 [Lucky guy](http://9gag.com/gag/a87Ldj1)
+ - 👉 [Guy harasses man with disability](http://9gag.com/gag/ajPQogg)<!-- MEMES:END -->
 
 ---
 

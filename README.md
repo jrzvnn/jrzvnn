@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI COO says ChatGPT Enterprise has 600K+ paying customers, up from ~150K in January, and 2024 is going to be the &quot;year of adoption for AI in the enterprise&quot; &lpar;Jackie Davalos/Bloomberg&rpar;](http://www.techmeme.com/240405/p7#a240405p7)
  - [&#39;The Matrix&#39; Is Getting a Fifth Movie—Without a Wachowski Directing](https://www.wired.com/story/the-matrix-is-getting-a-fifth-movie-without-a-wachowski-directing/)
  - [It’s Time for Nothing to Do Something](https://www.wired.com/story/nothing-ear-nothing-ear-a-news/)
  - [How to redo the Apple Vision Pro’s hand and eye tracking](https://www.theverge.com/24121387/apple-vision-pro-hand-eye-tracking-how-to)
- - [CB Insights: global VC investment in fintech fell 16% QoQ to $7.3B over 904 deals in Q1 2024, the lowest amount of funding the sector has seen since 2017 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240405/p6#a240405p6)
- - [Spring Black Friday Savings Have Arrived at Home Depot. Here Are the Best Deals     - CNET](https://www.cnet.com/deals/spring-black-friday-savings-have-arrived-at-home-depot-here-are-the-best-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [CB Insights: global VC investment in fintech fell 16% QoQ to $7.3B over 904 deals in Q1 2024, the lowest amount of funding the sector has seen since 2017 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240405/p6#a240405p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

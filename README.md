@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [UFC vs NYC](http://9gag.com/gag/aE0vdEN)
- - 😝 [Damn Lit](http://9gag.com/gag/aVvjGZw)
- - 💣 [Even if they must hire diversity..there must be better options out there...](http://9gag.com/gag/aVvzjYP)
- - 😝 [Cockroach trap](http://9gag.com/gag/aoyEm12)
- - 👉 [The juliet i would watch](http://9gag.com/gag/aAyRBKg)<!-- MEMES:END -->
+ - 😝 [Singapore airlines first class](http://9gag.com/gag/a7ov4r2)
+ - 😝 [Lucky guy](http://9gag.com/gag/a87Ldj1)
+ - 💣 [Durex is taking it up a notch](http://9gag.com/gag/avyp2ZO)
+ - 😝 [If you don&#39;t succeed the first time, then parachuting is not for you.](http://9gag.com/gag/aLn6qxW)
+ - 👉 [Powerlifter trolling bodybuilders](http://9gag.com/gag/azx7NPB)<!-- MEMES:END -->
 
 ---
 

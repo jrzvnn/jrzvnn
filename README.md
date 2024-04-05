@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Developers and US officials weigh the implications of the XZ Utils near-miss as CISA says tech companies should do more to back the open-source ecosystem &lpar;Raphael Satter/Reuters&rpar;](http://www.techmeme.com/240405/p13#a240405p13)
- - [Best Internet Providers in Valdosta, Georgia     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-valdosta-ga/#ftag=CAD590a51e)
  - [The best mechanical keyboards to buy right now](https://www.theverge.com/23384750/best-mechanical-keyboard-wired-wireless-75-percent-layout-cheap-bluetooth)
  - [Data brokers are gearing up to fight privacy bills](https://www.theverge.com/2024/4/5/24122079/data-brokers-fisa-extension-nsa-section-702-surveillance-lexis-nexis)
- - [An Interview With a Guy Who Got a Vasectomy During the East Coast Earthquake](https://www.wired.com/story/an-interview-with-a-guy-who-got-a-vasectomy-during-the-east-coast-earthquake/)<!-- TECH:END -->
+ - [An Interview With a Guy Who Got a Vasectomy During the East Coast Earthquake](https://www.wired.com/story/an-interview-with-a-guy-who-got-a-vasectomy-during-the-east-coast-earthquake/)
+ - [10 Best Home Office Deals: Office Chairs, Webcams, Monitors](https://www.wired.com/story/home-office-deals-april-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

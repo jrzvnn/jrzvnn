@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources say Sundar Pichai is now making day-to-day decisions about adding generative AI to Google products even as some worry about his low-key leadership style &lpar;Financial Times&rpar;](http://www.techmeme.com/240405/p16#a240405p16)
  - [Microsoft loses key Xbox executive amid continued gaming shake-up](https://www.theverge.com/2024/4/5/24122208/microsoft-xbox-kareem-choudhry-leaving-xbox-cloud-gaming)
  - [Q&amp;A with Marissa Mayer about her app development startup Sunshine, its new photo-sharing app Shine, the AI landscape, internet business models, and more &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/240405/p15#a240405p15)
  - [OnePlus Watch 2 review: runs Wear OS with a big, bright screen and three-day battery life but lacks some health features, the accuracy of results is a mixed bag &lpar;Julian Chokkattu/Wired&rpar;](http://www.techmeme.com/240405/p14#a240405p14)
- - [Roku’s idea of showing ads on your HDMI inputs seems like an inevitable hell](https://www.theverge.com/2024/4/5/24121958/roku-ads-tv-hdmi-inputs-patent-amazon-google)
- - [Meta asks court to dismiss FTC’s monopoly claims](https://www.theverge.com/2024/4/5/24121968/meta-motion-for-summary-judgment-ftc-monopoly-lawsuit)<!-- TECH:END -->
+ - [Roku’s idea of showing ads on your HDMI inputs seems like an inevitable hell](https://www.theverge.com/2024/4/5/24121958/roku-ads-tv-hdmi-inputs-patent-amazon-google)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

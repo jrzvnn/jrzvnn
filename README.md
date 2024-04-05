@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Even if they must hire diversity..there must be better options out there...](http://9gag.com/gag/aMVeReP)
- - 😝 [Mesmerizing](http://9gag.com/gag/ae9Knbm)
- - 💣 [Title](http://9gag.com/gag/ary1QVX)
- - 😝 [Father reveal](http://9gag.com/gag/aD2RK9N)
- - 👉 [*grabs popcorn](http://9gag.com/gag/aMVepw6)<!-- MEMES:END -->
+ - 😝 [Funny cat video?](http://9gag.com/gag/a0ev2Zn)
+ - 😝 [That random gym fat dude is always surprisingly stronk](http://9gag.com/gag/awyNqK8)
+ - 💣 [*grabs popcorn](http://9gag.com/gag/aMVepw6)
+ - 😝 [AI&#39;s depiction of hell](http://9gag.com/gag/a2vEnzp)
+ - 👉 [Even if they must hire diversity..there must be better options out there...](http://9gag.com/gag/aMVeReP)<!-- MEMES:END -->
 
 ---
 

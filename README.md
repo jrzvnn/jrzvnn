@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If it fits it shoots](http://9gag.com/gag/abA3Nj9)
- - 😝 [The most dramatic plot twist in movie history](http://9gag.com/gag/aZZqGxX)
- - 💣 [Karma](http://9gag.com/gag/aZZqGRQ)
- - 😝 [Prepare before..](http://9gag.com/gag/ae9Kn4v)
- - 👉 [That random gym fat dude is always surprisingly stronk](http://9gag.com/gag/awyNqK8)<!-- MEMES:END -->
+ - 😝 [*grabs popcorn](http://9gag.com/gag/aMVepw6)
+ - 😝 [What else would you add?](http://9gag.com/gag/agmrMEq)
+ - 💣 [Perfectly balanced\u2026as all things should be](http://9gag.com/gag/aGyKmGZ)
+ - 😝 [Not for me. I&#39;m going home.](http://9gag.com/gag/aVvjAYP)
+ - 👉 [Title](http://9gag.com/gag/aO8ogdM)<!-- MEMES:END -->
 
 ---
 

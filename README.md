@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An Interview With a Guy Who Got a Vasectomy During the East Coast Earthquake](https://www.wired.com/story/an-interview-with-a-guy-who-got-a-vasectomy-during-the-east-coast-earthquake/)
+ - [10 Best Home Office Deals: Office Chairs, Webcams, Monitors](https://www.wired.com/story/home-office-deals-april-2024/)
  - [Google Books reportedly indexing bad AI-written works](https://www.theverge.com/2024/4/5/24122077/google-books-ai-indexing-ngram)
  - [Tesla reportedly abandons plans to make a less expensive $25,000 electric vehicle](https://www.theverge.com/2024/4/5/24122064/tesla-cancel-affordable-electric-vehicle-model-2-china)
- - [A look at tech giants&#39; AI training data deals; Defined.ai: some are ready to pay $1-$2 per image, $2-$4 per short video, and $100-$300 per hour of long video &lpar;Reuters&rpar;](http://www.techmeme.com/240405/p12#a240405p12)
- - [The 14 Best Travel Bags We&#39;ve Tested &lpar;And Some to Avoid&rpar;](https://www.wired.com/gallery/best-travel-bags-carry-on-luggage/)
- - [Meta will require labels on more AI-generated content](https://www.theverge.com/2024/4/5/24121978/meta-ai-generated-content-label-requirements-deepfakes)<!-- TECH:END -->
+ - [A look at tech giants&#39; AI training data deals; Defined.ai: some are ready to pay $1-$2 per image, $2-$4 per short video, and $100-$300 per hour of long video &lpar;Reuters&rpar;](http://www.techmeme.com/240405/p12#a240405p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

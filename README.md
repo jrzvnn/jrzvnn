@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OnePlus Watch 2 review: runs Wear OS with a big, bright screen and three-day battery life but lacks some health features, the accuracy of results is a mixed bag &lpar;Julian Chokkattu/Wired&rpar;](http://www.techmeme.com/240405/p14#a240405p14)
+ - [Roku’s idea of showing ads on your HDMI inputs seems like an inevitable hell](https://www.theverge.com/2024/4/5/24121958/roku-ads-tv-hdmi-inputs-patent-amazon-google)
+ - [Meta asks court to dismiss FTC’s monopoly claims](https://www.theverge.com/2024/4/5/24121968/meta-motion-for-summary-judgment-ftc-monopoly-lawsuit)
  - [Developers and US officials weigh the implications of the XZ Utils near-miss as CISA says tech companies should do more to back the open-source ecosystem &lpar;Raphael Satter/Reuters&rpar;](http://www.techmeme.com/240405/p13#a240405p13)
- - [Best Internet Providers in Valdosta, Georgia     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-valdosta-ga/#ftag=CAD590a51e)
- - [The best mechanical keyboards to buy right now](https://www.theverge.com/23384750/best-mechanical-keyboard-wired-wireless-75-percent-layout-cheap-bluetooth)
- - [Data brokers are gearing up to fight privacy bills](https://www.theverge.com/2024/4/5/24122079/data-brokers-fisa-extension-nsa-section-702-surveillance-lexis-nexis)
- - [An Interview With a Guy Who Got a Vasectomy During the East Coast Earthquake](https://www.wired.com/story/an-interview-with-a-guy-who-got-a-vasectomy-during-the-east-coast-earthquake/)<!-- TECH:END -->
+ - [Best Internet Providers in Valdosta, Georgia     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-valdosta-ga/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Monkey Man is a studied execution of the brutal revenge thriller](https://www.theverge.com/24121341/monkey-man-dev-patel-review)
+ - [Deals: grab Apple&#39;s latest 14-inch MacBook Pro with 36GB RAM for $2,199](https://appleinsider.com/articles/24/04/05/deals-grab-apples-latest-14-inch-macbook-pro-with-36gb-ram-for-2199?utm_medium=rss)
  - [Apple now allows classic game emulators on the App Store](https://appleinsider.com/articles/24/04/05/apple-now-allows-classic-game-emulators-on-the-app-store?utm_medium=rss)
  - [A US jury finds Terraform Labs and Do Kwon liable for fraud in a US SEC lawsuit, boosting SEC&#39;s efforts to assert greater control over the crypto industry &lpar;Bloomberg&rpar;](http://www.techmeme.com/240405/p19#a240405p19)
- - [Target Circle Week Is Coming. You Can Shop These Early Deals Today     - CNET](https://www.cnet.com/deals/target-circle-week-is-coming-you-can-shop-these-early-deals-today/#ftag=CAD590a51e)
- - [Amazon adds a store called Bazaar to its Android app in India, featuring affordable fashion and lifestyle products, to compete with Flipkart and Reliance&#39;s Ajio &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240405/p18#a240405p18)
- - [IRS Tax Refunds Are Bigger This Year Than 2023: Here&#39;s How Much     - CNET](https://www.cnet.com/personal-finance/taxes/irs-tax-refunds-are-bigger-this-year-than-2023-heres-how-much/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Target Circle Week Is Coming. You Can Shop These Early Deals Today     - CNET](https://www.cnet.com/deals/target-circle-week-is-coming-you-can-shop-these-early-deals-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

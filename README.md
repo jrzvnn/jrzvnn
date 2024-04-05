@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Even if they must hire diversity..there must be better options out there...](http://9gag.com/gag/aMVeReP)
- - 😝 [Title](http://9gag.com/gag/aO8ogdM)
- - 💣 [This one sparks joy](http://9gag.com/gag/aZZq926)
- - 😝 [Singapore airlines first class](http://9gag.com/gag/a7ov4r2)
- - 👉 [That random gym fat dude is always surprisingly stronk](http://9gag.com/gag/awyNqK8)<!-- MEMES:END -->
+ - 😝 [UFC vs NYC](http://9gag.com/gag/aE0vdEN)
+ - 😝 [Damn Lit](http://9gag.com/gag/aVvjGZw)
+ - 💣 [Even if they must hire diversity..there must be better options out there...](http://9gag.com/gag/aVvzjYP)
+ - 😝 [Cockroach trap](http://9gag.com/gag/aoyEm12)
+ - 👉 [The juliet i would watch](http://9gag.com/gag/aAyRBKg)<!-- MEMES:END -->
 
 ---
 

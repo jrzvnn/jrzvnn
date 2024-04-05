@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guy harasses man with disability](http://9gag.com/gag/ajPQogg)
- - 😝 [Put Brion Bishop in YouTube](http://9gag.com/gag/aRB65pj)
- - 💣 [Lucky guy](http://9gag.com/gag/a87Ldj1)
- - 😝 [Title](http://9gag.com/gag/aO8ogdM)
- - 👉 [If you don&#39;t succeed the first time, then parachuting is not for you.](http://9gag.com/gag/aLn6qxW)<!-- MEMES:END -->
+ - 😝 [Crushed hard](http://9gag.com/gag/aW4BzOA)
+ - 😝 [Durex is taking it up a notch](http://9gag.com/gag/avyp2ZO)
+ - 💣 [*grabs popcorn](http://9gag.com/gag/aMVepw6)
+ - 😝 [AI&#39;s depiction of hell](http://9gag.com/gag/a2vEnzp)
+ - 👉 [I have a koschen.](http://9gag.com/gag/apRKyx8)<!-- MEMES:END -->
 
 ---
 

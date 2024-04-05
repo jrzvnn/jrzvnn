@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Crushed hard](http://9gag.com/gag/aW4BzOA)
- - 😝 [Durex is taking it up a notch](http://9gag.com/gag/avyp2ZO)
- - 💣 [*grabs popcorn](http://9gag.com/gag/aMVepw6)
- - 😝 [AI&#39;s depiction of hell](http://9gag.com/gag/a2vEnzp)
- - 👉 [I have a koschen.](http://9gag.com/gag/apRKyx8)<!-- MEMES:END -->
+ - 😝 [I have a koschen.](http://9gag.com/gag/apRKyx8)
+ - 😝 [That random gym fat dude is always surprisingly stronk](http://9gag.com/gag/awyNqK8)
+ - 💣 [Lucky guy](http://9gag.com/gag/a87Ldj1)
+ - 😝 [Here&#39;s why it&#39;s so important to choose your significant other carefully](http://9gag.com/gag/avy2Nj5)
+ - 👉 [Crushed hard](http://9gag.com/gag/aW4BzOA)<!-- MEMES:END -->
 
 ---
 

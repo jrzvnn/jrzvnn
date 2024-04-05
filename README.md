@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I have a koschen.](http://9gag.com/gag/apRKyx8)
- - 😝 [Hand carved](http://9gag.com/gag/aVvjGNM)
- - 💣 [Deserved retirement](http://9gag.com/gag/a87dPpd)
- - 😝 [*grabs popcorn](http://9gag.com/gag/aMVepw6)
- - 👉 [Ganked](http://9gag.com/gag/amoqjpV)<!-- MEMES:END -->
+ - 😝 [Guy harasses man with disability](http://9gag.com/gag/ajPQogg)
+ - 😝 [Put Brion Bishop in YouTube](http://9gag.com/gag/aRB65pj)
+ - 💣 [Lucky guy](http://9gag.com/gag/a87Ldj1)
+ - 😝 [Title](http://9gag.com/gag/aO8ogdM)
+ - 👉 [If you don&#39;t succeed the first time, then parachuting is not for you.](http://9gag.com/gag/aLn6qxW)<!-- MEMES:END -->
 
 ---
 

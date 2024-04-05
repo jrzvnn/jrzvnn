@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There is one thing that never dies; the fame of a man&#39;s deeds.](http://9gag.com/gag/azx7n0z)
- - 😝 [Perfect casting amirite](http://9gag.com/gag/a4PpXyv)
- - 💣 [Lies and white lies only.](http://9gag.com/gag/a87dBNY)
- - 😝 [*grabs popcorn](http://9gag.com/gag/aMVepw6)
- - 👉 [Sweden YES!](http://9gag.com/gag/agmrMnn)<!-- MEMES:END -->
+ - 😝 [Typical 9Gagger](http://9gag.com/gag/azx7WYB)
+ - 😝 [Every teen who gets their license needs to see this clip in the movie](http://9gag.com/gag/aNDmxQ3)
+ - 💣 [Cute Girl](http://9gag.com/gag/a34vmG8)
+ - 😝 [Sweden YES!](http://9gag.com/gag/agmrMnn)
+ - 👉 [Funny cat video?](http://9gag.com/gag/a0ev2Zn)<!-- MEMES:END -->
 
 ---
 

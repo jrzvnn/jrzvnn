@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CB Insights: global VC investment in fintech fell 16% QoQ to $7.3B over 904 deals in Q1 2024, the lowest amount of funding the sector has seen since 2017 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240405/p6#a240405p6)
+ - [Apple Robots, Apple anniversaries, plus Spatial Video pros &amp; cons, on the AppleInsider Podcast](https://appleinsider.com/articles/24/04/05/apple-robots-apple-anniversaries-plus-spatial-video-pros-cons-on-the-appleinsider-podcast?utm_medium=rss)
  - [OnePlus Watch 2 Review: A 3-Day Battery Smartwatch](https://www.wired.com/review/oneplus-watch-2/)
  - [This AI Startup Wants You to Talk to Houses, Cars, and Factories](https://www.wired.com/story/plaintext-ai-startup-archetype-talk-to-houses-cars-and-factories/)
- - [We need a permanent solution for universal broadband access](https://www.theverge.com/2024/4/5/24121022/universal-broadband-access-fcc-usf-acp)
- - [The EU and the US issue a joint statement affirming a desire to increase cooperation over AI, including AI safety and governance, as well as broader tech issues &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240405/p5#a240405p5)
- - [The Best Queer Batman Parody You Almost Never Saw](https://www.wired.com/story/vera-drew-the-peoples-joker-interview/)<!-- TECH:END -->
+ - [We need a permanent solution for universal broadband access](https://www.theverge.com/2024/4/5/24121022/universal-broadband-access-fcc-usf-acp)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -170,7 +170,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Apple urges a US appeals court to overturn the US ITC&#39;s decision to ban imports of some Apple Watch models in a patent dispute with medical tech company Masimo &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/240405/p23#a240405p23)
  - [Here’s Apple’s 916-page appeal over the Apple Watch ban](https://www.theverge.com/2024/4/5/24122407/apple-watch-masimo-itc-appeal-smartwatch-wearables)
  - [Google, Yahoo, Perplexity, and other search companies are working on understanding user intent to decide whether to show generative AI answers or just links &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/240405/p22#a240405p22)
- - [Best Garmin Deals: Save Up to $300 on Smartwatches and Other Devices     - CNET](https://www.cnet.com/deals/best-garmin-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Apple Watch Deals: Save Up to $275 With Trade-In Offers and Discounts     - CNET](https://www.cnet.com/deals/best-apple-watch-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

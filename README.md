@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Damn Lit](http://9gag.com/gag/aVvjGZw)
- - 😝 [Put Brion Bishop in YouTube](http://9gag.com/gag/aRB65pj)
- - 💣 [Here&#39;s why it&#39;s so important to choose your significant other carefully](http://9gag.com/gag/avy2Nj5)
- - 😝 [She\u2019s a keeper](http://9gag.com/gag/agmrMOg)
- - 👉 [I have a koschen.](http://9gag.com/gag/apRKyx8)<!-- MEMES:END -->
+ - 😝 [That random gym fat dude is always surprisingly stronk](http://9gag.com/gag/awyNqK8)
+ - 😝 [How Natural Selection works](http://9gag.com/gag/ayNEbzq)
+ - 💣 [Title](http://9gag.com/gag/aO8ogdM)
+ - 😝 [Perfect casting amirite](http://9gag.com/gag/a4PpXyv)
+ - 👉 [Put Brion Bishop in YouTube](http://9gag.com/gag/aRB65pj)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sweden YES!](http://9gag.com/gag/agmrMnn)
- - 😝 [If it fits it shoots](http://9gag.com/gag/abA3Nj9)
- - 💣 [*grabs popcorn](http://9gag.com/gag/aMVepw6)
- - 😝 [Title](http://9gag.com/gag/aO8ogdM)
- - 👉 [Phone dead, about to explode](http://9gag.com/gag/aNDmy0G)<!-- MEMES:END -->
+ - 😝 [Perfect casting amirite](http://9gag.com/gag/a4PpXyv)
+ - 😝 [Singapore airlines first class](http://9gag.com/gag/a7ov4r2)
+ - 💣 [Guy harasses man with disability](http://9gag.com/gag/ajPQogg)
+ - 😝 [It was all a plan since the beginning... trust me](http://9gag.com/gag/a87dR21)
+ - 👉 [*grabs popcorn](http://9gag.com/gag/aMVepw6)<!-- MEMES:END -->
 
 ---
 

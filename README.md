@@ -169,8 +169,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [OnePlus Watch 2 review: runs Wear OS with a big, bright screen and three-day battery life but lacks some health features, the accuracy of results is a mixed bag &lpar;Julian Chokkattu/Wired&rpar;](http://www.techmeme.com/240405/p14#a240405p14)
  - [Roku’s idea of showing ads on your HDMI inputs seems like an inevitable hell](https://www.theverge.com/2024/4/5/24121958/roku-ads-tv-hdmi-inputs-patent-amazon-google)
  - [Meta asks court to dismiss FTC’s monopoly claims](https://www.theverge.com/2024/4/5/24121968/meta-motion-for-summary-judgment-ftc-monopoly-lawsuit)
- - [Developers and US officials weigh the implications of the XZ Utils near-miss as CISA says tech companies should do more to back the open-source ecosystem &lpar;Raphael Satter/Reuters&rpar;](http://www.techmeme.com/240405/p13#a240405p13)
- - [Best Internet Providers in Valdosta, Georgia     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-valdosta-ga/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save Up to $150 on Some of Our Favorite Cordless Vacuums     - CNET](https://www.cnet.com/deals/save-up-to-150-on-some-of-our-favorite-cordless-vacuums/#ftag=CAD590a51e)
+ - [Car Costs Are Absurdly High. I&#39;m Saving Thousands Driving a Moped Instead     - CNET](https://www.cnet.com/personal-finance/i-ditched-my-car-for-a-moped-now-im-saving-more-than-4000-each-year/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X promoted a fake headline about Iran attacking Israel in its trending news section Explore, after Elon Musk said Explore shows customized news created by Grok &lpar;Matt Binder/Mashable&rpar;](http://www.techmeme.com/240405/p24#a240405p24)
+ - [Apple urges a US appeals court to overturn the US ITC&#39;s decision to ban imports of some Apple Watch models in a patent dispute with medical tech company Masimo &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/240405/p23#a240405p23)
  - [Here’s Apple’s 916-page appeal over the Apple Watch ban](https://www.theverge.com/2024/4/5/24122407/apple-watch-masimo-itc-appeal-smartwatch-wearables)
  - [Google, Yahoo, Perplexity, and other search companies are working on understanding user intent to decide whether to show generative AI answers or just links &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/240405/p22#a240405p22)
- - [Best Garmin Deals: Save Up to $300 on Smartwatches and Other Devices     - CNET](https://www.cnet.com/deals/best-garmin-deals/#ftag=CAD590a51e)
- - [Work Smarter, Not Harder: 70 Windows 11 Keyboard Shortcuts to Master Your PC     - CNET](https://www.cnet.com/tech/computing/work-smarter-not-harder-70-windows-11-keyboard-shortcuts-to-master-your-pc/#ftag=CAD590a51e)
- - [Here&#39;s What the Solar Eclipse Will Do to All Our Solar Panels     - CNET](https://www.cnet.com/home/energy-and-utilities/heres-what-the-solar-eclipse-will-do-to-all-our-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Garmin Deals: Save Up to $300 on Smartwatches and Other Devices     - CNET](https://www.cnet.com/deals/best-garmin-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

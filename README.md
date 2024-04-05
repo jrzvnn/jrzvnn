@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to fix corrupted DaVinci Resolve projects](https://appleinsider.com/inside/mac/tips/how-to-fix-corrupted-davinci-resolve-projects?utm_medium=rss)
  - [How Meta&#39;s VR bet has played out a decade after its acquisition of Oculus; the company&#39;s metaverse division lost $42B between the end of 2020 and Q1 2024 &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240404/p41#a240404p41)
  - [Apple lays off 600 employees, mostly from Apple Car project](https://appleinsider.com/articles/24/04/05/apple-lays-off-600-employees-mostly-from-apple-car-project?utm_medium=rss)
  - [India&#39;s IT minister says the country is looking to frame a &quot;balanced&quot; AI law that will protect news publishers and content creators while minimizing user harm &lpar;The Economic Times&rpar;](http://www.techmeme.com/240404/p40#a240404p40)
- - [Google&#39;s Apple-friendly Find My Devices network launching in April](https://appleinsider.com/articles/24/04/05/googles-apple-friendly-find-my-devices-network-launching-in-april?utm_medium=rss)
- - [Filings: Apple laid off 600+ employees in California; some layoffs correspond to addresses where Apple&#39;s display and car research teams were reportedly based &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240404/p39#a240404p39)<!-- TECH:END -->
+ - [Google&#39;s Apple-friendly Find My Devices network launching in April](https://appleinsider.com/articles/24/04/05/googles-apple-friendly-find-my-devices-network-launching-in-april?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

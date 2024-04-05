@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Crushed hard](http://9gag.com/gag/aW4BzOA)
- - 😝 [Never fight someone whose excited to fight...](http://9gag.com/gag/a1mvp76)
- - 💣 [Durex is taking it up a notch](http://9gag.com/gag/avyp2ZO)
- - 😝 [Lies and white lies only.](http://9gag.com/gag/a87dBNY)
- - 👉 [Singapore airlines first class](http://9gag.com/gag/a7ov4r2)<!-- MEMES:END -->
+ - 😝 [*grabs popcorn](http://9gag.com/gag/aMVepw6)
+ - 😝 [Ganked](http://9gag.com/gag/amoqjpV)
+ - 💣 [Damn Lit](http://9gag.com/gag/aVvjGZw)
+ - 😝 [Even if they must hire diversity..there must be better options out there...](http://9gag.com/gag/aVvzjYP)
+ - 👉 [Cockroach trap](http://9gag.com/gag/aoyEm12)<!-- MEMES:END -->
 
 ---
 

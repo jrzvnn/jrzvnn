@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Apple now allows classic game emulators on the App Store](https://appleinsider.com/articles/24/04/05/apple-now-allows-classic-game-emulators-on-the-app-store?utm_medium=rss)
  - [A US jury finds Terraform Labs and Do Kwon liable for fraud in a US SEC lawsuit, boosting SEC&#39;s efforts to assert greater control over the crypto industry &lpar;Bloomberg&rpar;](http://www.techmeme.com/240405/p19#a240405p19)
+ - [Target Circle Week Is Coming. You Can Shop These Early Deals Today     - CNET](https://www.cnet.com/deals/target-circle-week-is-coming-you-can-shop-these-early-deals-today/#ftag=CAD590a51e)
  - [Amazon adds a store called Bazaar to its Android app in India, featuring affordable fashion and lifestyle products, to compete with Flipkart and Reliance&#39;s Ajio &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240405/p18#a240405p18)
- - [Sephora’s Spring Sale Brings Big Discounts on Top-Rated Hair Tools &lpar;2024&rpar;](https://www.wired.com/story/sephora-sale-april-2024/)
- - [Filings in FTC lawsuit: Instagram had revenues of $22B in 2020, or 26% of Meta&#39;s total revenue, $32.4B in 2021, or 27% of Meta&#39;s revenue, and $16.5B in H1 2022 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240405/p17#a240405p17)<!-- TECH:END -->
+ - [IRS Tax Refunds Are Bigger This Year Than 2023: Here&#39;s How Much     - CNET](https://www.cnet.com/personal-finance/taxes/irs-tax-refunds-are-bigger-this-year-than-2023-heres-how-much/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I have a koschen.](http://9gag.com/gag/apRKyx8)
- - 😝 [Funny cat video?](http://9gag.com/gag/a0ev2Zn)
- - 💣 [Crushed hard](http://9gag.com/gag/aW4BzOA)
- - 😝 [Singapore airlines first class](http://9gag.com/gag/a7ov4r2)
- - 👉 [Bro was ready to risk it all](http://9gag.com/gag/ajPQbXG)<!-- MEMES:END -->
+ - 😝 [Damn Lit](http://9gag.com/gag/aVvjGZw)
+ - 😝 [Put Brion Bishop in YouTube](http://9gag.com/gag/aRB65pj)
+ - 💣 [Here&#39;s why it&#39;s so important to choose your significant other carefully](http://9gag.com/gag/avy2Nj5)
+ - 😝 [She\u2019s a keeper](http://9gag.com/gag/agmrMOg)
+ - 👉 [I have a koschen.](http://9gag.com/gag/apRKyx8)<!-- MEMES:END -->
 
 ---
 

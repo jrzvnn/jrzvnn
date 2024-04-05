@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Garmin Deals: Save Up to $300 on Smartwatches and Other Devices     - CNET](https://www.cnet.com/deals/best-garmin-deals/#ftag=CAD590a51e)
+ - [Work Smarter, Not Harder: 70 Windows 11 Keyboard Shortcuts to Master Your PC     - CNET](https://www.cnet.com/tech/computing/work-smarter-not-harder-70-windows-11-keyboard-shortcuts-to-master-your-pc/#ftag=CAD590a51e)
+ - [Here&#39;s What the Solar Eclipse Will Do to All Our Solar Panels     - CNET](https://www.cnet.com/home/energy-and-utilities/heres-what-the-solar-eclipse-will-do-to-all-our-solar-panels/#ftag=CAD590a51e)
  - [Source: Jony Ive and Sam Altman&#39;s AI device startup is in funding talks with Emerson Collective and Thrive Capital; Ive wants to raise up to $1B in funding &lpar;The Information&rpar;](http://www.techmeme.com/240405/p21#a240405p21)
- - [Anker’s folding Qi2 charger and other power banks are up to 30 percent off](https://www.theverge.com/2024/4/5/24122269/anker-maggo-power-bank-portable-qi2-charger-deal-sale)
- - [Apple opens the App Store to retro game emulators](https://www.theverge.com/2024/4/5/24122341/apple-app-store-game-emulators-super-apps)
- - [The rare NYC earthquake underscores concerns about infrastructure](https://www.theverge.com/2024/4/5/24122320/nyc-earthquake-bridges-infrastructure-concerns)
- - [He Got a Pig Kidney Transplant. Now Doctors Need to Keep It Working](https://www.wired.com/story/pig-kidney-transplant-discharge-ongoing-care/)<!-- TECH:END -->
+ - [Total Solar Eclipse Is Just Days Away: When It Happens and How to Stream It     - CNET](https://www.cnet.com/science/total-solar-eclipse-is-just-days-away-when-it-happens-and-how-to-stream-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

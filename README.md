@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ragequit](http://9gag.com/gag/aZZbPn6)
+ - 😝 [Math is more important](http://9gag.com/gag/aqy94qL)
+ - 😝 [The way he dropped those sticks](http://9gag.com/gag/aMVep06)
+ - 💣 [Ragequit](http://9gag.com/gag/aZZbPn6)
  - 😝 [I hope he ate yet!](http://9gag.com/gag/aZZqAAz)
- - 💣 [That random gym fat dude is always surprisingly stronk](http://9gag.com/gag/awyNqK8)
- - 😝 [If you don&#39;t succeed the first time, then parachuting is not for you.](http://9gag.com/gag/aLn6qxW)
  - 👉 [Learn From Sweden. Keep Your European Borders Closed At All Times!](http://9gag.com/gag/ae9jKGO)<!-- MEMES:END -->
 
 ---

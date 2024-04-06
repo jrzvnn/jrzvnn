@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Report: Google changed its privacy policy in June 2022 to more broadly cover its use of publicly available content, including Google Docs, to train AI models &lpar;Cheyenne MacDonald/Engadget&rpar;](http://www.techmeme.com/240406/p9#a240406p9)
+ - [Best 3D-Printing Accessories of 2024     - CNET](https://www.cnet.com/tech/computing/best-3d-printing-accessories-make-the-most-of-your-3d-printer/#ftag=CAD590a51e)
+ - [The Best Smart Kitchen Tools Do a Few Things Well, Not Everything All at Once     - CNET](https://www.cnet.com/news/the-best-smart-kitchen-appliances-do-a-few-things-well/#ftag=CAD590a51e)
  - [iPhone emulators are allowed now so here are some great iOS controllers](https://www.theverge.com/2024/4/6/24122784/iphone-emulators-great-ios-controllers)
- - [A look at OnlyFans AI chatbot startups, which are replacing some low-wage workers with bots trained on creators&#39; chats to mimic their dirty talk and upselling &lpar;Alexandra Sternlicht/Fortune&rpar;](http://www.techmeme.com/240406/p8#a240406p8)
- - [March Madness 2024 Final Four: How to Watch Purdue vs. NC State, UConn vs. Alabama Today Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/march-madness-2024-how-to-watch-livestream-the-ncaa-tournament-final-four-today-without-cable/#ftag=CAD590a51e)
- - [New &#39;Bluey&#39; Special: Release Date and How to Watch &#39;The Sign&#39; From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/new-bluey-episodes-release-dates-and-how-to-watch-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at OnlyFans AI chatbot startups, which are replacing some low-wage workers with bots trained on creators&#39; chats to mimic their dirty talk and upselling &lpar;Alexandra Sternlicht/Fortune&rpar;](http://www.techmeme.com/240406/p8#a240406p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

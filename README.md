@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Child Tax Credit: Time Is Running Out to Claim Your Money. Here&#39;s What to Know.     - CNET](https://www.cnet.com/personal-finance/taxes/child-tax-credit-time-is-running-out-to-claim-your-money-what-to-know/#ftag=CAD590a51e)
+ - [100 Grams of Protein: What It Actually Looks Like and How You Can Achieve It Daily     - CNET](https://www.cnet.com/health/nutrition/what-your-daily-servings-of-protein-should-look-like/#ftag=CAD590a51e)
  - [14 Best PlayStation VR2 Games to Play Right Now &lpar;2024&rpar;](https://www.wired.com/gallery/the-best-playstation-vr2-games-to-play-right-now/)
  - [Source: Y Combinator is inviting some alumni entrepreneurs to invest a minimum of $250,000, which will be split among the three funds it is currently raising &lpar;Kia Kokalitcheva/Axios&rpar;](http://www.techmeme.com/240406/p7#a240406p7)
- - [Want to Take Photos of the Total Solar Eclipse? Here&#39;s What to Know     - CNET](https://www.cnet.com/science/space/want-to-take-photos-of-the-total-solar-eclipse-heres-what-to-know/#ftag=CAD590a51e)
- - [Rooms is a delightful escape](https://www.theverge.com/24121394/rooms-app-ios-ipad-design-organization)
- - [Brighton vs. Arsenal Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/brighton-vs-arsenal-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Want to Take Photos of the Total Solar Eclipse? Here&#39;s What to Know     - CNET](https://www.cnet.com/science/space/want-to-take-photos-of-the-total-solar-eclipse-heres-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No freeloading](http://9gag.com/gag/a7oLvyA)
- - 😝 [I have a koschen.](http://9gag.com/gag/apRKyx8)
- - 💣 [First, Look How Fast and Skillfully this Car is Repossessed. Done? Ok Now You Can Racism](http://9gag.com/gag/ayN7EPb)
- - 😝 [Title](http://9gag.com/gag/aO8ogdM)
- - 👉 [Luna, the Hallucinations Check](http://9gag.com/gag/a5QeewG)<!-- MEMES:END -->
+ - 😝 [Just started watching supernatural, it&#39;s pretty entertaining](http://9gag.com/gag/azx70Ym)
+ - 😝 [She\u2019s a keeper](http://9gag.com/gag/agmrMOg)
+ - 💣 [Oof](http://9gag.com/gag/abA39qE)
+ - 😝 [Boat passes through Twilight zone where day and night meet.](http://9gag.com/gag/a34vVB3)
+ - 👉 [I have a koschen.](http://9gag.com/gag/apRKyx8)<!-- MEMES:END -->
 
 ---
 

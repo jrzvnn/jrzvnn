@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The West is cooked.](http://9gag.com/gag/aAyBn2Z)
  - 😝 [Powerlifter trolling bodybuilders](http://9gag.com/gag/azx7NPB)
- - 💣 [Never fight someone whose excited to fight...](http://9gag.com/gag/a1mvp76)
- - 😝 [Learn From Sweden. Keep Your European Borders Closed At All Times!](http://9gag.com/gag/ae9jKGO)
- - 👉 [Dress code doesn&#39;t matter when you&#39;re a billionaire](http://9gag.com/gag/apREqwE)<!-- MEMES:END -->
+ - 😝 [The way he dropped those sticks](http://9gag.com/gag/aMVep06)
+ - 💣 [If you don&#39;t succeed the first time, then parachuting is not for you.](http://9gag.com/gag/aLn6qxW)
+ - 😝 [Dress code doesn&#39;t matter when you&#39;re a billionaire](http://9gag.com/gag/apREqwE)
+ - 👉 [Learn From Sweden. Keep Your European Borders Closed At All Times!](http://9gag.com/gag/ae9jKGO)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guy harasses man with disability](http://9gag.com/gag/ajPQogg)
- - 😝 [Shocked dazed and confused](http://9gag.com/gag/aE0d39K)
- - 💣 [When A white good samaritan..Helps ..](http://9gag.com/gag/aAyRR8Z)
- - 😝 [Learn From Sweden. Keep Your European Borders Closed At All Times!](http://9gag.com/gag/ae9jKGO)
- - 👉 [Powerlifter trolling bodybuilders](http://9gag.com/gag/azx7NPB)<!-- MEMES:END -->
+ - 😝 [Singapore airlines first class](http://9gag.com/gag/a7ov4r2)
+ - 😝 [Funny cat video?](http://9gag.com/gag/a0ev2Zn)
+ - 💣 [Learn From Sweden. Keep Your European Borders Closed At All Times!](http://9gag.com/gag/ae9jKGO)
+ - 😝 [AI&#39;s depiction of hell](http://9gag.com/gag/a2vEnzp)
+ - 👉 [I have a koschen.](http://9gag.com/gag/apRKyx8)<!-- MEMES:END -->
 
 ---
 

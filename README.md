@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Creative Aurvana Ace 2 Review: These Solid-State Earbuds Sound Insane](https://www.wired.com/review/creative-aurvana-ace-2/)
  - [Best Privacy Browsers &lpar;2024&rpar;: Brave, Safari, Ghostery, Firefox, DuckDuckGo](https://www.wired.com/story/privacy-browsers-duckduckgo-ghostery-brave/)
  - [Sources: Meta debated buying a publisher like Simon &amp; Schuster for AI training data and weighed using copyrighted online data even if that meant facing lawsuits &lpar;New York Times&rpar;](http://www.techmeme.com/240406/p6#a240406p6)
  - [The PlayStation Vita still rules](https://www.theverge.com/24121232/sony-playstation-vita-steam-deck-switch)
- - [Sources: OpenAI transcribed 1M+ hours of YouTube videos through Whisper and used the text to train GPT-4; Google also transcribed YouTube videos to harvest text &lpar;New York Times&rpar;](http://www.techmeme.com/240406/p5#a240406p5)
- - [This Solar Eclipse Simulator Helps You Find the Best Place to Watch From](https://www.wired.com/story/solar-eclipse-2024-simulator-to-help-you-find-the-best-spot/)<!-- TECH:END -->
+ - [Sources: OpenAI transcribed 1M+ hours of YouTube videos through Whisper and used the text to train GPT-4; Google also transcribed YouTube videos to harvest text &lpar;New York Times&rpar;](http://www.techmeme.com/240406/p5#a240406p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

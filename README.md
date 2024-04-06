@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This Solar Eclipse Simulator Helps You Find the Best Place to Watch From](https://www.wired.com/story/solar-eclipse-2024-simulator-to-help-you-find-the-best-spot/)
  - [Searching for &#39;Forever Chemicals&#39; From an Endless Landfill Fire](https://www.wired.com/story/moody-landfill-fire-pfas-forever-chemicals/)
  - [A look at Monument Valley, a puzzle game developed by ustwo that won Apple&#39;s design award in 2014 and stood out in a market dominated by free-to-play titles &lpar;Lewis Gordon/The Ringer&rpar;](http://www.techmeme.com/240406/p4#a240406p4)
  - [How Will the Solar Eclipse Affect Animals? NASA Needs Your Help to Find Out](https://www.wired.com/story/solar-eclipse-nasa-soundscapes-citizen-science/)
- - [Psst. Don&#39;t Forget to Pay Your Estimated Taxes in 9 Days.     - CNET](https://www.cnet.com/personal-finance/taxes/psst-dont-forget-to-pay-your-estimated-taxes-in-9-days/#ftag=CAD590a51e)
- - [Best Flip Phone for 2024     - CNET](https://www.cnet.com/tech/mobile/best-flip-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Psst. Don&#39;t Forget to Pay Your Estimated Taxes in 9 Days.     - CNET](https://www.cnet.com/personal-finance/taxes/psst-dont-forget-to-pay-your-estimated-taxes-in-9-days/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

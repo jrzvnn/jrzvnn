@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Durex is taking it up a notch](http://9gag.com/gag/avyp2ZO)
  - 😝 [Powerlifter trolling bodybuilders](http://9gag.com/gag/azx7NPB)
- - 💣 [The most dramatic plot twist in movie history](http://9gag.com/gag/aZZqGxX)
- - 😝 [I have a koschen.](http://9gag.com/gag/apRKyx8)
- - 👉 [Learn From Sweden. Keep Your European Borders Closed At All Times!](http://9gag.com/gag/ae9jKGO)<!-- MEMES:END -->
+ - 😝 [Durex is taking it up a notch](http://9gag.com/gag/avyp2ZO)
+ - 💣 [Learn From Sweden. Keep Your European Borders Closed At All Times!](http://9gag.com/gag/ae9jKGO)
+ - 😝 [Put Brion Bishop in YouTube](http://9gag.com/gag/aRB65pj)
+ - 👉 [Title](http://9gag.com/gag/aO8ogdM)<!-- MEMES:END -->
 
 ---
 

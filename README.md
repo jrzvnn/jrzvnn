@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Monument Valley, a puzzle game developed by ustwo that won Apple&#39;s design award in 2014 and stood out in a market dominated by free-to-play titles &lpar;Lewis Gordon/The Ringer&rpar;](http://www.techmeme.com/240406/p4#a240406p4)
+ - [How Will the Solar Eclipse Affect Animals? NASA Needs Your Help to Find Out](https://www.wired.com/story/solar-eclipse-nasa-soundscapes-citizen-science/)
  - [Best Amazon Deals: Big Savings on Samsung Monitors, Power Stations, Cookware and More     - CNET](https://www.cnet.com/deals/best-amazon-deals-big-savings-on-samsung-monitors-power-stations-cookware-and-more/#ftag=CAD590a51e)
  - [Identity Thief Lived as a Different Man for 33 Years](https://www.wired.com/story/identity-thief-lived-as-a-different-man-for-33-years/)
- - [Paris-Roubaix 2024: How to Watch a UCI World Tour Cycling Livestream for Free     - CNET](https://www.cnet.com/tech/services-and-software/paris-roubaix-2024-how-to-watch-a-uci-world-tour-cycling-livestream-for-free/#ftag=CAD590a51e)
- - [Crystal Palace vs. Man City Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/crystal-palace-vs-man-city-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [TSMC&#39;s swift response to the earthquake highlights the readiness of Taiwan&#39;s chip sector, and experts say Japan&#39;s chip industry is similarly well-prepared &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240406/p3#a240406p3)<!-- TECH:END -->
+ - [Paris-Roubaix 2024: How to Watch a UCI World Tour Cycling Livestream for Free     - CNET](https://www.cnet.com/tech/services-and-software/paris-roubaix-2024-how-to-watch-a-uci-world-tour-cycling-livestream-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

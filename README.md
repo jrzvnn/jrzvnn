@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That accent](http://9gag.com/gag/aAyRY2E)
- - 😝 [Ragequit](http://9gag.com/gag/aZZbPn6)
- - 💣 [*grabs popcorn](http://9gag.com/gag/aMVepw6)
+ - 😝 [I hope he ate yet!](http://9gag.com/gag/aZZqAAz)
+ - 😝 [*grabs popcorn](http://9gag.com/gag/aMVepw6)
+ - 💣 [Durex is taking it up a notch](http://9gag.com/gag/avyp2ZO)
  - 😝 [If you don&#39;t succeed the first time, then parachuting is not for you.](http://9gag.com/gag/aLn6qxW)
- - 👉 [I hope he ate yet!](http://9gag.com/gag/aZZqAAz)<!-- MEMES:END -->
+ - 👉 [The way he dropped those sticks](http://9gag.com/gag/aMVep06)<!-- MEMES:END -->
 
 ---
 

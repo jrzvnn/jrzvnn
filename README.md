@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Singapore airlines first class](http://9gag.com/gag/a7ov4r2)
- - 😝 [Funny cat video?](http://9gag.com/gag/a0ev2Zn)
+ - 😝 [I have a koschen.](http://9gag.com/gag/apRKyx8)
+ - 😝 [Powerlifter trolling bodybuilders](http://9gag.com/gag/azx7NPB)
  - 💣 [Learn From Sweden. Keep Your European Borders Closed At All Times!](http://9gag.com/gag/ae9jKGO)
- - 😝 [AI&#39;s depiction of hell](http://9gag.com/gag/a2vEnzp)
- - 👉 [I have a koschen.](http://9gag.com/gag/apRKyx8)<!-- MEMES:END -->
+ - 😝 [Oof](http://9gag.com/gag/abA39qE)
+ - 👉 [Where AirBnBs are fully booked next week](http://9gag.com/gag/axyEp9p)<!-- MEMES:END -->
 
 ---
 

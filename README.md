@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Powerlifter trolling bodybuilders](http://9gag.com/gag/azx7NPB)
- - 😝 [Durex is taking it up a notch](http://9gag.com/gag/avyp2ZO)
- - 💣 [Learn From Sweden. Keep Your European Borders Closed At All Times!](http://9gag.com/gag/ae9jKGO)
- - 😝 [Put Brion Bishop in YouTube](http://9gag.com/gag/aRB65pj)
- - 👉 [Title](http://9gag.com/gag/aO8ogdM)<!-- MEMES:END -->
+ - 😝 [If you don&#39;t succeed the first time, then parachuting is not for you.](http://9gag.com/gag/aLn6qxW)
+ - 😝 [Title](http://9gag.com/gag/aO8ogdM)
+ - 💣 [Sweden YES!](http://9gag.com/gag/agmrMnn)
+ - 😝 [Bro was ready to risk it all](http://9gag.com/gag/ajPQbXG)
+ - 👉 [Karma](http://9gag.com/gag/aZZqGRQ)<!-- MEMES:END -->
 
 ---
 

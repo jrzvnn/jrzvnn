@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is it useful? No. did I watch the whole shit? Yes.](http://9gag.com/gag/aVvzOvw)
- - 😝 [The juliet i would watch](http://9gag.com/gag/aAyRBKg)
- - 💣 [Stabbing little children...trash](http://9gag.com/gag/aYQNNPV)
- - 😝 [It&#39;s only for 6 mounths but it&#39;s opening new perspectives for me](http://9gag.com/gag/a0e890n)
- - 👉 [Ellen Page Syndrome explained. `If i was a man`](http://9gag.com/gag/a87LW8e)<!-- MEMES:END -->
+ - 😝 [The way he dropped those sticks](http://9gag.com/gag/aMVep06)
+ - 😝 [I have a koschen.](http://9gag.com/gag/apRKyx8)
+ - 💣 [That accent](http://9gag.com/gag/aAyRY2E)
+ - 😝 [If you don&#39;t succeed the first time, then parachuting is not for you.](http://9gag.com/gag/aLn6qxW)
+ - 👉 [I hope he ate yet!](http://9gag.com/gag/aZZqAAz)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I have a koschen.](http://9gag.com/gag/apRKyx8)
+ - 😝 [Durex is taking it up a notch](http://9gag.com/gag/avyp2ZO)
  - 😝 [Powerlifter trolling bodybuilders](http://9gag.com/gag/azx7NPB)
- - 💣 [Learn From Sweden. Keep Your European Borders Closed At All Times!](http://9gag.com/gag/ae9jKGO)
- - 😝 [Oof](http://9gag.com/gag/abA39qE)
- - 👉 [Where AirBnBs are fully booked next week](http://9gag.com/gag/axyEp9p)<!-- MEMES:END -->
+ - 💣 [The most dramatic plot twist in movie history](http://9gag.com/gag/aZZqGxX)
+ - 😝 [When A white good samaritan..Helps ..](http://9gag.com/gag/aAyRR8Z)
+ - 👉 [I have a koschen.](http://9gag.com/gag/apRKyx8)<!-- MEMES:END -->
 
 ---
 

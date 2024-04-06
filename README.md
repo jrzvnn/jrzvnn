@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cockroach trap](http://9gag.com/gag/aoyEm12)
- - 😝 [Lies and white lies only.](http://9gag.com/gag/a87dBNY)
- - 💣 [Wtf!](http://9gag.com/gag/abAXXKp)
- - 😝 [Oof](http://9gag.com/gag/abA39qE)
- - 👉 [If you don&#39;t succeed the first time, then parachuting is not for you.](http://9gag.com/gag/aLn6qxW)<!-- MEMES:END -->
+ - 😝 [Guy harasses man with disability](http://9gag.com/gag/ajPQogg)
+ - 😝 [Shocked dazed and confused](http://9gag.com/gag/aE0d39K)
+ - 💣 [When A white good samaritan..Helps ..](http://9gag.com/gag/aAyRR8Z)
+ - 😝 [Learn From Sweden. Keep Your European Borders Closed At All Times!](http://9gag.com/gag/ae9jKGO)
+ - 👉 [Powerlifter trolling bodybuilders](http://9gag.com/gag/azx7NPB)<!-- MEMES:END -->
 
 ---
 

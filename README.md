@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/aO8ogdM)
- - 😝 [Learn From Sweden. Keep Your European Borders Closed At All Times!](http://9gag.com/gag/ae9jKGO)
- - 💣 [I have a koschen.](http://9gag.com/gag/apRKyx8)
- - 😝 [The way he dropped those sticks](http://9gag.com/gag/aMVep06)
- - 👉 [First, Look How Fast and Skillfully this Car is Repossessed. Done? Ok Now You Can Racism](http://9gag.com/gag/ayN7EPb)<!-- MEMES:END -->
+ - 😝 [Is it useful? No. did I watch the whole shit? Yes.](http://9gag.com/gag/aVvzOvw)
+ - 😝 [The juliet i would watch](http://9gag.com/gag/aAyRBKg)
+ - 💣 [Stabbing little children...trash](http://9gag.com/gag/aYQNNPV)
+ - 😝 [It&#39;s only for 6 mounths but it&#39;s opening new perspectives for me](http://9gag.com/gag/a0e890n)
+ - 👉 [Ellen Page Syndrome explained. `If i was a man`](http://9gag.com/gag/a87LW8e)<!-- MEMES:END -->
 
 ---
 

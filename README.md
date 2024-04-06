@@ -170,7 +170,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Sources: Meta debated buying a publisher like Simon &amp; Schuster for AI training data and weighed using copyrighted online data even if that meant facing lawsuits &lpar;New York Times&rpar;](http://www.techmeme.com/240406/p6#a240406p6)
  - [The PlayStation Vita still rules](https://www.theverge.com/24121232/sony-playstation-vita-steam-deck-switch)
  - [Sources: OpenAI transcribed 1M+ hours of YouTube videos through Whisper and used the text to train GPT-4; Google also transcribed YouTube videos to harvest text &lpar;New York Times&rpar;](http://www.techmeme.com/240406/p5#a240406p5)
- - [These 5 Tax Mistakes Left Me With a $10,000 Bill. How to Avoid the Same Fate     - CNET](https://www.cnet.com/personal-finance/taxes/these-5-tax-mistakes-left-me-with-a-10000-bill-how-to-avoid-the-same-fate/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This Solar Eclipse Simulator Helps You Find the Best Place to Watch From](https://www.wired.com/story/solar-eclipse-2024-simulator-to-help-you-find-the-best-spot/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

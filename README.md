@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Even if they must hire diversity..there must be better options out there...](http://9gag.com/gag/aMVeReP)
- - 😝 [Put Brion Bishop in YouTube](http://9gag.com/gag/aRB65pj)
- - 💣 [Learn From Sweden. Keep Your European Borders Closed At All Times!](http://9gag.com/gag/ae9jKGO)
- - 😝 [Wtf!](http://9gag.com/gag/abAXXKp)
- - 👉 [If you don&#39;t succeed the first time, then parachuting is not for you.](http://9gag.com/gag/aLn6qxW)<!-- MEMES:END -->
+ - 😝 [Learn From Sweden. Keep Your European Borders Closed At All Times!](http://9gag.com/gag/ae9jKGO)
+ - 😝 [Sometimes, history hurts](http://9gag.com/gag/apREEEn)
+ - 💣 [I have a koschen.](http://9gag.com/gag/apRKyx8)
+ - 😝 [Based Gorl](http://9gag.com/gag/aqy94ZQ)
+ - 👉 [Where would you hide?](http://9gag.com/gag/aNDm63r)<!-- MEMES:END -->
 
 ---
 

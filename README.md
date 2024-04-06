@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just started watching supernatural, it&#39;s pretty entertaining](http://9gag.com/gag/azx70Ym)
- - 😝 [She\u2019s a keeper](http://9gag.com/gag/agmrMOg)
- - 💣 [Oof](http://9gag.com/gag/abA39qE)
- - 😝 [Boat passes through Twilight zone where day and night meet.](http://9gag.com/gag/a34vVB3)
- - 👉 [I have a koschen.](http://9gag.com/gag/apRKyx8)<!-- MEMES:END -->
+ - 😝 [This one sparks joy](http://9gag.com/gag/aZZq926)
+ - 😝 [Stabbing little children...trash](http://9gag.com/gag/aYQNNPV)
+ - 💣 [O_O](http://9gag.com/gag/a87LdR6)
+ - 😝 [UFC vs NYC](http://9gag.com/gag/aE0vdEN)
+ - 👉 [No freeloading](http://9gag.com/gag/a7oLvyA)<!-- MEMES:END -->
 
 ---
 

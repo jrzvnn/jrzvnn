@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of former Tinder CEO Renate Nyborg and her new startup Meeno, which provides an AI-powered chatbot for relationship advice on iOS and has raised $4.9M &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/240406/p11#a240406p11)
  - [Google is working on a ‘lookup’ button for unknown callers on Android](https://www.theverge.com/2024/4/6/24123044/pixel-lookup-button-unknown-callers-gemini-ai-summaries)
  - [Final Four Livestream: How to Watch Purdue vs. NC State, UConn vs. Alabama Today     - CNET](https://www.cnet.com/tech/services-and-software/march-madness-2024-how-to-watch-livestream-the-ncaa-tournament-final-four-today-without-cable/#ftag=CAD590a51e)
  - [OpenAI transcribed over a million hours of YouTube videos to train GPT-4](https://www.theverge.com/2024/4/6/24122915/openai-youtube-transcripts-gpt-4-training-data-google)
- - [Internet Connection Types Explained -- and Ranked Best to Worst     - CNET](https://www.cnet.com/home/internet/internet-connection-types-explained-and-ranked-best-to-worst/#ftag=CAD590a51e)
- - [Email: Galaxy Digital&#39;s venture arm, which has long invested its own money, is raising a $100M fund with outside capital, focused on early-stage crypto startups &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/240406/p10#a240406p10)<!-- TECH:END -->
+ - [Internet Connection Types Explained -- and Ranked Best to Worst     - CNET](https://www.cnet.com/home/internet/internet-connection-types-explained-and-ranked-best-to-worst/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Identity Thief Lived as a Different Man for 33 Years](https://www.wired.com/story/identity-thief-lived-as-a-different-man-for-33-years/)
  - [TSMC&#39;s swift response to the earthquake highlights the readiness of Taiwan&#39;s chip sector, and experts say Japan&#39;s chip industry is similarly well-prepared &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240406/p3#a240406p3)
  - [Wiz details two now-fixed security issues on the Hugging Face AI platform that put customer data at risk, as Hugging Face partners with Wiz to improve security &lpar;Kevin Poireault/Infosecurity&rpar;](http://www.techmeme.com/240406/p2#a240406p2)
  - [Belgium-based Robovision, which offers AI-based no-code computer vision tools to businesses, raised a $42M Series A co-led by Astanor Ventures and Target Global &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/240406/p1#a240406p1)
- - [Sources: ByteDance, which was directly involved in countering US efforts to ban TikTok in 2020, has let the US TikTok team lead the response this time around &lpar;South China Morning Post&rpar;](http://www.techmeme.com/240405/p28#a240405p28)
- - [Court filings from FTC lawsuit against Meta show Instagram made $32.4B in ad revenue in 2021, which is more than YouTube&#39;s $28.8B in ad revenue that year &lpar;Peter Kafka/Business Insider&rpar;](http://www.techmeme.com/240405/p27#a240405p27)<!-- TECH:END -->
+ - [Sources: ByteDance, which was directly involved in countering US efforts to ban TikTok in 2020, has let the US TikTok team lead the response this time around &lpar;South China Morning Post&rpar;](http://www.techmeme.com/240405/p28#a240405p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

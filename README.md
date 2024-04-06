@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rooms is a delightful escape](https://www.theverge.com/24121394/rooms-app-ios-ipad-design-organization)
  - [7 Best Water Leak Detectors &lpar;2024&rpar;: Smart Water, Temperature, and Humidity Sensors](https://www.wired.com/gallery/best-water-leak-detectors/)
  - [19 Best Mother&#39;s Day Gifts for New Moms     - CNET](https://www.cnet.com/news/mothers-day-gifts-for-new-moms/#ftag=CAD590a51e)
  - [Creative Aurvana Ace 2 Review: These Solid-State Earbuds Sound Insane](https://www.wired.com/review/creative-aurvana-ace-2/)
- - [Best Cheap Phone Plans for April 2024     - CNET](https://www.cnet.com/tech/mobile/best-cheap-phone-plan/#ftag=CAD590a51e)
- - [Best Internet Providers in Anaheim, California     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-anaheim-ca/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Cheap Phone Plans for April 2024     - CNET](https://www.cnet.com/tech/mobile/best-cheap-phone-plan/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

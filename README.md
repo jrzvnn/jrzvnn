@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If you don&#39;t succeed the first time, then parachuting is not for you.](http://9gag.com/gag/aLn6qxW)
+ - 😝 [The way he dropped those sticks](http://9gag.com/gag/aMVep06)
  - 😝 [Ragequit](http://9gag.com/gag/aZZbPn6)
- - 💣 [Math is more important](http://9gag.com/gag/aqy94qL)
- - 😝 [Learn From Sweden. Keep Your European Borders Closed At All Times!](http://9gag.com/gag/ae9jKGO)
- - 👉 [They talking about us!](http://9gag.com/gag/ajPYYLq)<!-- MEMES:END -->
+ - 💣 [Learn From Sweden. Keep Your European Borders Closed At All Times!](http://9gag.com/gag/ae9jKGO)
+ - 😝 [They talking about us!](http://9gag.com/gag/ajPYYLq)
+ - 👉 [Math is more important](http://9gag.com/gag/aqy94qL)<!-- MEMES:END -->
 
 ---
 

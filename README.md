@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Math is more important](http://9gag.com/gag/aqy94qL)
- - 😝 [The way he dropped those sticks](http://9gag.com/gag/aMVep06)
- - 💣 [Ragequit](http://9gag.com/gag/aZZbPn6)
- - 😝 [I hope he ate yet!](http://9gag.com/gag/aZZqAAz)
- - 👉 [Learn From Sweden. Keep Your European Borders Closed At All Times!](http://9gag.com/gag/ae9jKGO)<!-- MEMES:END -->
+ - 😝 [If you don&#39;t succeed the first time, then parachuting is not for you.](http://9gag.com/gag/aLn6qxW)
+ - 😝 [That accent](http://9gag.com/gag/aAyRY2E)
+ - 💣 [The way he dropped those sticks](http://9gag.com/gag/aMVep06)
+ - 😝 [Smol cat life](http://9gag.com/gag/aQzPpoK)
+ - 👉 [I hope he ate yet!](http://9gag.com/gag/aZZqAAz)<!-- MEMES:END -->
 
 ---
 

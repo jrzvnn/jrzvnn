@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You Could Start Seeing ChatGPT Showing Up More in Your Workplace     - CNET](https://www.cnet.com/tech/computing/you-could-start-seeing-chatgpt-showing-up-more-in-your-workplace/#ftag=CAD590a51e)
+ - [March Madness TV Deals: Upgrade Your Screen Before the Championship Game     - CNET](https://www.cnet.com/deals/march-madness-tv-deals/#ftag=CAD590a51e)
  - [Best Buy Geek Squad employees report mass layoffs](https://www.theverge.com/2024/4/5/24122542/best-buy-geek-squad-layoffs-ai-restructuring)
  - [Instagram makes more money from ads than YouTube does, and it has for years](https://www.theverge.com/2024/4/5/24122541/instagram-ad-revenue-youtube-meta-ftc-monopoly)
- - [Researchers detail how hackers use hijacked Facebook pages to push ads promoting fake AI services to spread malware; a fake Midjourney page had 1.2M followers &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240405/p26#a240405p26)
- - [Jony Ive is now looking for funding to jump on the AI development train](https://appleinsider.com/articles/24/04/06/jony-ive-is-now-looking-for-funding-to-jump-on-the-ai-development-train?utm_medium=rss)
- - [Snapchat turns off Solar System, which lets users see their position in their friends&#39; orbits, by default, after a report said it was adding to teens&#39; anxiety &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240405/p25#a240405p25)<!-- TECH:END -->
+ - [Researchers detail how hackers use hijacked Facebook pages to push ads promoting fake AI services to spread malware; a fake Midjourney page had 1.2M followers &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240405/p26#a240405p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

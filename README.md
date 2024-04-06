@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Wiz details two now-fixed security issues on the Hugging Face AI platform that put customer data at risk, as Hugging Face partners with Wiz to improve security &lpar;Kevin Poireault/Infosecurity&rpar;](http://www.techmeme.com/240406/p2#a240406p2)
  - [Belgium-based Robovision, which offers AI-based no-code computer vision tools to businesses, raised a $42M Series A co-led by Astanor Ventures and Target Global &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/240406/p1#a240406p1)
  - [Sources: ByteDance, which was directly involved in countering US efforts to ban TikTok in 2020, has let the US TikTok team lead the response this time around &lpar;South China Morning Post&rpar;](http://www.techmeme.com/240405/p28#a240405p28)
  - [Court filings from FTC lawsuit against Meta show Instagram made $32.4B in ad revenue in 2021, which is more than YouTube&#39;s $28.8B in ad revenue that year &lpar;Peter Kafka/Business Insider&rpar;](http://www.techmeme.com/240405/p27#a240405p27)
- - [Today&#39;s Wordle Hints and Answer: Help for April 6, #1022     - CNET](https://www.cnet.com/news/todays-wordle-hints-and-answer-help-for-april-6-1022/#ftag=CAD590a51e)
- - [Meta Is Labeling More AI-Built Video, Audio and Images     - CNET](https://www.cnet.com/news/meta-is-labeling-more-ai-built-video-audio-and-images/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints and Answer: Help for April 6, #1022     - CNET](https://www.cnet.com/news/todays-wordle-hints-and-answer-help-for-april-6-1022/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

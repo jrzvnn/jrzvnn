@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [First, Look How Fast and Skillfully this Car is Repossessed. Done? Ok Now You Can Racism](http://9gag.com/gag/ayN7EPb)
- - 😝 [Man sick of protesters blocking road](http://9gag.com/gag/abAXXmp)
- - 💣 [....looks like he jumped](http://9gag.com/gag/a5Qee0V)
- - 😝 [Wtf!](http://9gag.com/gag/abAXXKp)
- - 👉 [Powerlifter trolling bodybuilders](http://9gag.com/gag/azx7NPB)<!-- MEMES:END -->
+ - 😝 [Even if they must hire diversity..there must be better options out there...](http://9gag.com/gag/aGyYYrK)
+ - 😝 [Oof](http://9gag.com/gag/abA39qE)
+ - 💣 [Durex is taking it up a notch](http://9gag.com/gag/avyp2ZO)
+ - 😝 [When A white good samaritan..Helps ..](http://9gag.com/gag/aAyRR8Z)
+ - 👉 [If you don&#39;t succeed the first time, then parachuting is not for you.](http://9gag.com/gag/aLn6qxW)<!-- MEMES:END -->
 
 ---
 

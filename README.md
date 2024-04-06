@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [That accent](http://9gag.com/gag/aAyRY2E)
+ - 😝 [Ragequit](http://9gag.com/gag/aZZbPn6)
+ - 💣 [*grabs popcorn](http://9gag.com/gag/aMVepw6)
  - 😝 [If you don&#39;t succeed the first time, then parachuting is not for you.](http://9gag.com/gag/aLn6qxW)
- - 😝 [That random gym fat dude is always surprisingly stronk](http://9gag.com/gag/awyNqK8)
- - 💣 [Put Brion Bishop in YouTube](http://9gag.com/gag/aRB65pj)
- - 😝 [The way he dropped those sticks](http://9gag.com/gag/aMVep06)
- - 👉 [They talking about us!](http://9gag.com/gag/ajPYYLq)<!-- MEMES:END -->
+ - 👉 [I hope he ate yet!](http://9gag.com/gag/aZZqAAz)<!-- MEMES:END -->
 
 ---
 

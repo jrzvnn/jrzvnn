@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you have been doing it for decades, but once OSHA comes...](http://9gag.com/gag/a6ZmwGN)
+ - 😝 [The way he dropped those sticks](http://9gag.com/gag/aMVep06)
  - 😝 [Put Brion Bishop in YouTube](http://9gag.com/gag/aRB65pj)
- - 💣 [Charles did not care about getting cancelled](http://9gag.com/gag/aE0dr7p)
- - 😝 [If you don&#39;t succeed the first time, then parachuting is not for you.](http://9gag.com/gag/aLn6qxW)
- - 👉 [Powerlifter trolling bodybuilders](http://9gag.com/gag/azx7NPB)<!-- MEMES:END -->
+ - 💣 [Bro was ready to risk it all](http://9gag.com/gag/ajPQbXG)
+ - 😝 [I hope he ate yet!](http://9gag.com/gag/aZZqAAz)
+ - 👉 [If you don&#39;t succeed the first time, then parachuting is not for you.](http://9gag.com/gag/aLn6qxW)<!-- MEMES:END -->
 
 ---
 

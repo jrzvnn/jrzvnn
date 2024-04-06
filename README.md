@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I need translation](http://9gag.com/gag/a2vEQ9E)
+ - 😝 [Lol](http://9gag.com/gag/agmrMG6)
+ - 💣 [Powerlifter trolling bodybuilders](http://9gag.com/gag/azx7NPB)
  - 😝 [Durex is taking it up a notch](http://9gag.com/gag/avyp2ZO)
- - 😝 [Oof](http://9gag.com/gag/abA39qE)
- - 💣 [I need translation](http://9gag.com/gag/a2vEQ9E)
- - 😝 [If you don&#39;t succeed the first time, then parachuting is not for you.](http://9gag.com/gag/aLn6qxW)
- - 👉 [Powerlifter trolling bodybuilders](http://9gag.com/gag/azx7NPB)<!-- MEMES:END -->
+ - 👉 [Sometimes, history hurts](http://9gag.com/gag/apREEEn)<!-- MEMES:END -->
 
 ---
 

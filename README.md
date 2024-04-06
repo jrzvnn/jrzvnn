@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [That random gym fat dude is always surprisingly stronk](http://9gag.com/gag/awyNqK8)
  - 😝 [The way he dropped those sticks](http://9gag.com/gag/aMVep06)
- - 😝 [That accent](http://9gag.com/gag/aAyRY2E)
- - 💣 [The West is cooked.](http://9gag.com/gag/aAyBn2Z)
- - 😝 [I have a koschen.](http://9gag.com/gag/apRKyx8)
- - 👉 [I hope he ate yet!](http://9gag.com/gag/aZZqAAz)<!-- MEMES:END -->
+ - 💣 [If you don&#39;t succeed the first time, then parachuting is not for you.](http://9gag.com/gag/aLn6qxW)
+ - 😝 [Learn From Sweden. Keep Your European Borders Closed At All Times!](http://9gag.com/gag/ae9jKGO)
+ - 👉 [Powerlifter trolling bodybuilders](http://9gag.com/gag/azx7NPB)<!-- MEMES:END -->
 
 ---
 

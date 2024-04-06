@@ -178,8 +178,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - 😝 [Powerlifter trolling bodybuilders](http://9gag.com/gag/azx7NPB)
  - 😝 [I have a koschen.](http://9gag.com/gag/apRKyx8)
  - 💣 [If you don&#39;t succeed the first time, then parachuting is not for you.](http://9gag.com/gag/aLn6qxW)
- - 😝 [What could you have done ?](http://9gag.com/gag/aQzPqQ8)
- - 👉 [I hope he ate yet!](http://9gag.com/gag/aZZqAAz)<!-- MEMES:END -->
+ - 😝 [I hope he ate yet!](http://9gag.com/gag/aZZqAAz)
+ - 👉 [Learn From Sweden. Keep Your European Borders Closed At All Times!](http://9gag.com/gag/ae9jKGO)<!-- MEMES:END -->
 
 ---
 

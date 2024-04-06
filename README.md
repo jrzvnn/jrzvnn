@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The way he dropped those sticks](http://9gag.com/gag/aMVep06)
- - 😝 [Ragequit](http://9gag.com/gag/aZZbPn6)
- - 💣 [Learn From Sweden. Keep Your European Borders Closed At All Times!](http://9gag.com/gag/ae9jKGO)
+ - 😝 [Glad to see society taking the right steps to stop this madness](http://9gag.com/gag/awy0rxD)
  - 😝 [They talking about us!](http://9gag.com/gag/ajPYYLq)
- - 👉 [Math is more important](http://9gag.com/gag/aqy94qL)<!-- MEMES:END -->
+ - 💣 [Ragequit](http://9gag.com/gag/aZZbPn6)
+ - 😝 [Math is more important](http://9gag.com/gag/aqy94qL)
+ - 👉 [Learn From Sweden. Keep Your European Borders Closed At All Times!](http://9gag.com/gag/ae9jKGO)<!-- MEMES:END -->
 
 ---
 

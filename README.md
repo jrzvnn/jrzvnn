@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Title](http://9gag.com/gag/aO8ogdM)
+ - 😝 [Learn From Sweden. Keep Your European Borders Closed At All Times!](http://9gag.com/gag/ae9jKGO)
+ - 💣 [I have a koschen.](http://9gag.com/gag/apRKyx8)
  - 😝 [The way he dropped those sticks](http://9gag.com/gag/aMVep06)
- - 😝 [Put Brion Bishop in YouTube](http://9gag.com/gag/aRB65pj)
- - 💣 [Bro was ready to risk it all](http://9gag.com/gag/ajPQbXG)
- - 😝 [I hope he ate yet!](http://9gag.com/gag/aZZqAAz)
- - 👉 [If you don&#39;t succeed the first time, then parachuting is not for you.](http://9gag.com/gag/aLn6qxW)<!-- MEMES:END -->
+ - 👉 [First, Look How Fast and Skillfully this Car is Repossessed. Done? Ok Now You Can Racism](http://9gag.com/gag/ayN7EPb)<!-- MEMES:END -->
 
 ---
 

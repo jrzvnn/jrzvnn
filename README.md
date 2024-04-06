@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: ByteDance, which was directly involved in countering US efforts to ban TikTok in 2020, has let the US TikTok team lead the response this time around &lpar;South China Morning Post&rpar;](http://www.techmeme.com/240405/p28#a240405p28)
  - [Court filings from FTC lawsuit against Meta show Instagram made $32.4B in ad revenue in 2021, which is more than YouTube&#39;s $28.8B in ad revenue that year &lpar;Peter Kafka/Business Insider&rpar;](http://www.techmeme.com/240405/p27#a240405p27)
- - [You Could Start Seeing ChatGPT Showing Up More in Your Workplace     - CNET](https://www.cnet.com/tech/computing/you-could-start-seeing-chatgpt-showing-up-more-in-your-workplace/#ftag=CAD590a51e)
- - [March Madness TV Deals: Upgrade Your Screen Before the Championship Game     - CNET](https://www.cnet.com/deals/march-madness-tv-deals/#ftag=CAD590a51e)
- - [Best Buy Geek Squad employees report mass layoffs](https://www.theverge.com/2024/4/5/24122542/best-buy-geek-squad-layoffs-ai-restructuring)
- - [Instagram makes more money from ads than YouTube does, and it has for years](https://www.theverge.com/2024/4/5/24122541/instagram-ad-revenue-youtube-meta-ftc-monopoly)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints and Answer: Help for April 6, #1022     - CNET](https://www.cnet.com/news/todays-wordle-hints-and-answer-help-for-april-6-1022/#ftag=CAD590a51e)
+ - [Meta Is Labeling More AI-Built Video, Audio and Images     - CNET](https://www.cnet.com/news/meta-is-labeling-more-ai-built-video-audio-and-images/#ftag=CAD590a51e)
+ - [You Could Start Seeing ChatGPT Showing Up More in Your Workplace     - CNET](https://www.cnet.com/tech/computing/you-could-start-seeing-chatgpt-showing-up-more-in-your-workplace/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

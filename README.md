@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [19 Best Mother&#39;s Day Gifts for New Moms     - CNET](https://www.cnet.com/news/mothers-day-gifts-for-new-moms/#ftag=CAD590a51e)
  - [Creative Aurvana Ace 2 Review: These Solid-State Earbuds Sound Insane](https://www.wired.com/review/creative-aurvana-ace-2/)
- - [Best Privacy Browsers &lpar;2024&rpar;: Brave, Safari, Ghostery, Firefox, DuckDuckGo](https://www.wired.com/story/privacy-browsers-duckduckgo-ghostery-brave/)
- - [Sources: Meta debated buying a publisher like Simon &amp; Schuster for AI training data and weighed using copyrighted online data even if that meant facing lawsuits &lpar;New York Times&rpar;](http://www.techmeme.com/240406/p6#a240406p6)
- - [The PlayStation Vita still rules](https://www.theverge.com/24121232/sony-playstation-vita-steam-deck-switch)
- - [Sources: OpenAI transcribed 1M+ hours of YouTube videos through Whisper and used the text to train GPT-4; Google also transcribed YouTube videos to harvest text &lpar;New York Times&rpar;](http://www.techmeme.com/240406/p5#a240406p5)<!-- TECH:END -->
+ - [Best Cheap Phone Plans for April 2024     - CNET](https://www.cnet.com/tech/mobile/best-cheap-phone-plan/#ftag=CAD590a51e)
+ - [Best Internet Providers in Anaheim, California     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-anaheim-ca/#ftag=CAD590a51e)
+ - [Best Privacy Browsers &lpar;2024&rpar;: Brave, Safari, Ghostery, Firefox, DuckDuckGo](https://www.wired.com/story/privacy-browsers-duckduckgo-ghostery-brave/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

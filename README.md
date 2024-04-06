@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If you don&#39;t succeed the first time, then parachuting is not for you.](http://9gag.com/gag/aLn6qxW)
- - 😝 [That accent](http://9gag.com/gag/aAyRY2E)
- - 💣 [The way he dropped those sticks](http://9gag.com/gag/aMVep06)
- - 😝 [Smol cat life](http://9gag.com/gag/aQzPpoK)
- - 👉 [I hope he ate yet!](http://9gag.com/gag/aZZqAAz)<!-- MEMES:END -->
+ - 😝 [Durex is taking it up a notch](http://9gag.com/gag/avyp2ZO)
+ - 😝 [The way he dropped those sticks](http://9gag.com/gag/aMVep06)
+ - 💣 [If you don&#39;t succeed the first time, then parachuting is not for you.](http://9gag.com/gag/aLn6qxW)
+ - 😝 [They talking about us!](http://9gag.com/gag/ajPYYLq)
+ - 👉 [Guy makes hookers smile lol.](http://9gag.com/gag/aryvp16)<!-- MEMES:END -->
 
 ---
 

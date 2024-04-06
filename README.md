@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at OnlyFans AI chatbot startups, which are replacing some low-wage workers with bots trained on creators&#39; chats to mimic their dirty talk and upselling &lpar;Alexandra Sternlicht/Fortune&rpar;](http://www.techmeme.com/240406/p8#a240406p8)
  - [Google’s Pixel Buds Pro are $60 off in all colors — including the newest shades](https://www.theverge.com/2024/4/6/24120061/google-pixel-buds-pro-logitech-litra-beam-key-light-nintendo-switch-lite-deal-sale)
  - [Apple appeals US trade ban on Apple Watches](https://appleinsider.com/articles/24/04/06/apple-appeals-us-trade-ban-on-apple-watches?utm_medium=rss)
  - [Child Tax Credit: Time Is Running Out to Claim Your Money. Here&#39;s What to Know.     - CNET](https://www.cnet.com/personal-finance/taxes/child-tax-credit-time-is-running-out-to-claim-your-money-what-to-know/#ftag=CAD590a51e)
- - [100 Grams of Protein: What It Actually Looks Like and How You Can Achieve It Daily     - CNET](https://www.cnet.com/health/nutrition/what-your-daily-servings-of-protein-should-look-like/#ftag=CAD590a51e)
- - [14 Best PlayStation VR2 Games to Play Right Now &lpar;2024&rpar;](https://www.wired.com/gallery/the-best-playstation-vr2-games-to-play-right-now/)<!-- TECH:END -->
+ - [100 Grams of Protein: What It Actually Looks Like and How You Can Achieve It Daily     - CNET](https://www.cnet.com/health/nutrition/what-your-daily-servings-of-protein-should-look-like/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

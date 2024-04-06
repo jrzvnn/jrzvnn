@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Have a good day :&rpar;](http://9gag.com/gag/azxg7zN)
- - 😝 [The juliet i would watch](http://9gag.com/gag/aAyRBKg)
- - 💣 [Nice](http://9gag.com/gag/aNDrenG)
- - 😝 [Based Gorl](http://9gag.com/gag/aqy94ZQ)
- - 👉 [Stabbing little children...trash](http://9gag.com/gag/aYQNNPV)<!-- MEMES:END -->
+ - 😝 [Never fight someone whose excited to fight...](http://9gag.com/gag/a1mvp76)
+ - 😝 [Durex is taking it up a notch](http://9gag.com/gag/avyp2ZO)
+ - 💣 [Title](http://9gag.com/gag/aO8ogdM)
+ - 😝 [If you don&#39;t succeed the first time, then parachuting is not for you.](http://9gag.com/gag/aLn6qxW)
+ - 👉 [Powerlifter trolling bodybuilders](http://9gag.com/gag/azx7NPB)<!-- MEMES:END -->
 
 ---
 

@@ -175,9 +175,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never fight someone whose excited to fight...](http://9gag.com/gag/a1mvp76)
- - 😝 [Durex is taking it up a notch](http://9gag.com/gag/avyp2ZO)
- - 💣 [Title](http://9gag.com/gag/aO8ogdM)
+ - 😝 [When you have been doing it for decades, but once OSHA comes...](http://9gag.com/gag/a6ZmwGN)
+ - 😝 [Put Brion Bishop in YouTube](http://9gag.com/gag/aRB65pj)
+ - 💣 [Charles did not care about getting cancelled](http://9gag.com/gag/aE0dr7p)
  - 😝 [If you don&#39;t succeed the first time, then parachuting is not for you.](http://9gag.com/gag/aLn6qxW)
  - 👉 [Powerlifter trolling bodybuilders](http://9gag.com/gag/azx7NPB)<!-- MEMES:END -->
 

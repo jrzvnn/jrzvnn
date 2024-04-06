@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/aO8ogdM)
- - 😝 [I have a koschen.](http://9gag.com/gag/apRKyx8)
- - 💣 [Based Gorl](http://9gag.com/gag/aqy94ZQ)
- - 😝 [If you don&#39;t succeed the first time, then parachuting is not for you.](http://9gag.com/gag/aLn6qxW)
- - 👉 [Powerlifter trolling bodybuilders](http://9gag.com/gag/azx7NPB)<!-- MEMES:END -->
+ - 😝 [Lies and white lies only.](http://9gag.com/gag/a87dBNY)
+ - 😝 [That random gym fat dude is always surprisingly stronk](http://9gag.com/gag/awyNqK8)
+ - 💣 [If you don&#39;t succeed the first time, then parachuting is not for you.](http://9gag.com/gag/aLn6qxW)
+ - 😝 [I hope he ate yet!](http://9gag.com/gag/aZZqAAz)
+ - 👉 [Learn From Sweden. Keep Your European Borders Closed At All Times!](http://9gag.com/gag/ae9jKGO)<!-- MEMES:END -->
 
 ---
 

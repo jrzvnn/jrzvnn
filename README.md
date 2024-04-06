@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Jony Ive is now looking for funding to jump on the AI development train](https://appleinsider.com/articles/24/04/06/jony-ive-is-now-looking-for-funding-to-jump-on-the-ai-development-train?utm_medium=rss)
+ - [Snapchat turns off Solar System, which lets users see their position in their friends&#39; orbits, by default, after a report said it was adding to teens&#39; anxiety &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240405/p25#a240405p25)
+ - [Tesla Is Going All In on Robotaxis—Buckle Up](https://www.wired.com/story/tesla-going-all-in-on-robotaxis/)
  - [X promoted a fake headline about Iran attacking Israel in its trending news section Explore, after Elon Musk said Explore shows customized news created by Grok &lpar;Matt Binder/Mashable&rpar;](http://www.techmeme.com/240405/p24#a240405p24)
- - [Apple urges a US appeals court to overturn the US ITC&#39;s decision to ban imports of some Apple Watch models in a patent dispute with medical tech company Masimo &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/240405/p23#a240405p23)
- - [Here’s Apple’s 916-page appeal over the Apple Watch ban](https://www.theverge.com/2024/4/5/24122407/apple-watch-masimo-itc-appeal-smartwatch-wearables)
- - [Google, Yahoo, Perplexity, and other search companies are working on understanding user intent to decide whether to show generative AI answers or just links &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/240405/p22#a240405p22)
- - [Best Apple Watch Deals: Save Up to $275 With Trade-In Offers and Discounts     - CNET](https://www.cnet.com/deals/best-apple-watch-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple urges a US appeals court to overturn the US ITC&#39;s decision to ban imports of some Apple Watch models in a patent dispute with medical tech company Masimo &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/240405/p23#a240405p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

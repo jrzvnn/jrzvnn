@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If you don&#39;t succeed the first time, then parachuting is not for you.](http://9gag.com/gag/aLn6qxW)
- - 😝 [The way he dropped those sticks](http://9gag.com/gag/aMVep06)
- - 💣 [Ragequit](http://9gag.com/gag/aZZbPn6)
- - 😝 [Learn From Sweden. Keep Your European Borders Closed At All Times!](http://9gag.com/gag/ae9jKGO)
- - 👉 [They talking about us!](http://9gag.com/gag/ajPYYLq)<!-- MEMES:END -->
+ - 😝 [Just insane....](http://9gag.com/gag/agm33MW)
+ - 😝 [Life, you need a helping hand.](http://9gag.com/gag/aqy99jj)
+ - 💣 [Never fight someone whose excited to fight...](http://9gag.com/gag/a1mvp76)
+ - 😝 [Being a dad mean sometimes making a fool of yourself for their enjoyment](http://9gag.com/gag/a9ybdM0)
+ - 👉 [Man sick of protesters blocking road](http://9gag.com/gag/abAXXmp)<!-- MEMES:END -->
 
 ---
 

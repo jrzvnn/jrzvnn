@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Learn From Sweden. Keep Your European Borders Closed At All Times!](http://9gag.com/gag/ae9jKGO)
- - 😝 [Sometimes, history hurts](http://9gag.com/gag/apREEEn)
- - 💣 [I have a koschen.](http://9gag.com/gag/apRKyx8)
- - 😝 [Based Gorl](http://9gag.com/gag/aqy94ZQ)
- - 👉 [Where would you hide?](http://9gag.com/gag/aNDm63r)<!-- MEMES:END -->
+ - 😝 [First, Look How Fast and Skillfully this Car is Repossessed. Done? Ok Now You Can Racism](http://9gag.com/gag/ayN7EPb)
+ - 😝 [Man sick of protesters blocking road](http://9gag.com/gag/abAXXmp)
+ - 💣 [....looks like he jumped](http://9gag.com/gag/a5Qee0V)
+ - 😝 [Wtf!](http://9gag.com/gag/abAXXKp)
+ - 👉 [Powerlifter trolling bodybuilders](http://9gag.com/gag/azx7NPB)<!-- MEMES:END -->
 
 ---
 

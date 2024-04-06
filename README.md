@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Meta debated buying a publisher like Simon &amp; Schuster for AI training data and weighed using copyrighted online data even if that meant facing lawsuits &lpar;New York Times&rpar;](http://www.techmeme.com/240406/p6#a240406p6)
+ - [The PlayStation Vita still rules](https://www.theverge.com/24121232/sony-playstation-vita-steam-deck-switch)
  - [Sources: OpenAI transcribed 1M+ hours of YouTube videos through Whisper and used the text to train GPT-4; Google also transcribed YouTube videos to harvest text &lpar;New York Times&rpar;](http://www.techmeme.com/240406/p5#a240406p5)
  - [This Solar Eclipse Simulator Helps You Find the Best Place to Watch From](https://www.wired.com/story/solar-eclipse-2024-simulator-to-help-you-find-the-best-spot/)
- - [Searching for &#39;Forever Chemicals&#39; From an Endless Landfill Fire](https://www.wired.com/story/moody-landfill-fire-pfas-forever-chemicals/)
- - [A look at Monument Valley, a puzzle game developed by ustwo that won Apple&#39;s design award in 2014 and stood out in a market dominated by free-to-play titles &lpar;Lewis Gordon/The Ringer&rpar;](http://www.techmeme.com/240406/p4#a240406p4)
- - [How Will the Solar Eclipse Affect Animals? NASA Needs Your Help to Find Out](https://www.wired.com/story/solar-eclipse-nasa-soundscapes-citizen-science/)<!-- TECH:END -->
+ - [Best Gifts Available on Amazon: 27 Gifts From $10 to $250     - CNET](https://www.cnet.com/tech/best-gifts-available-from-amazon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

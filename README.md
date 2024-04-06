@@ -178,8 +178,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - 😝 [Durex is taking it up a notch](http://9gag.com/gag/avyp2ZO)
  - 😝 [Powerlifter trolling bodybuilders](http://9gag.com/gag/azx7NPB)
  - 💣 [The most dramatic plot twist in movie history](http://9gag.com/gag/aZZqGxX)
- - 😝 [When A white good samaritan..Helps ..](http://9gag.com/gag/aAyRR8Z)
- - 👉 [I have a koschen.](http://9gag.com/gag/apRKyx8)<!-- MEMES:END -->
+ - 😝 [I have a koschen.](http://9gag.com/gag/apRKyx8)
+ - 👉 [Learn From Sweden. Keep Your European Borders Closed At All Times!](http://9gag.com/gag/ae9jKGO)<!-- MEMES:END -->
 
 ---
 

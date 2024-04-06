@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Source: Y Combinator is inviting some alumni entrepreneurs to invest a minimum of $250,000, which will be split among the three funds it is currently raising &lpar;Kia Kokalitcheva/Axios&rpar;](http://www.techmeme.com/240406/p7#a240406p7)
+ - [Want to Take Photos of the Total Solar Eclipse? Here&#39;s What to Know     - CNET](https://www.cnet.com/science/space/want-to-take-photos-of-the-total-solar-eclipse-heres-what-to-know/#ftag=CAD590a51e)
  - [Rooms is a delightful escape](https://www.theverge.com/24121394/rooms-app-ios-ipad-design-organization)
- - [7 Best Water Leak Detectors &lpar;2024&rpar;: Smart Water, Temperature, and Humidity Sensors](https://www.wired.com/gallery/best-water-leak-detectors/)
- - [19 Best Mother&#39;s Day Gifts for New Moms     - CNET](https://www.cnet.com/news/mothers-day-gifts-for-new-moms/#ftag=CAD590a51e)
- - [Creative Aurvana Ace 2 Review: These Solid-State Earbuds Sound Insane](https://www.wired.com/review/creative-aurvana-ace-2/)<!-- TECH:END -->
+ - [Brighton vs. Arsenal Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/brighton-vs-arsenal-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
+ - [7 Best Water Leak Detectors &lpar;2024&rpar;: Smart Water, Temperature, and Humidity Sensors](https://www.wired.com/gallery/best-water-leak-detectors/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This one sparks joy](http://9gag.com/gag/aZZq926)
- - 😝 [Stabbing little children...trash](http://9gag.com/gag/aYQNNPV)
- - 💣 [O_O](http://9gag.com/gag/a87LdR6)
- - 😝 [UFC vs NYC](http://9gag.com/gag/aE0vdEN)
- - 👉 [No freeloading](http://9gag.com/gag/a7oLvyA)<!-- MEMES:END -->
+ - 😝 [First, Look How Fast and Skillfully this Car is Repossessed. Done? Ok Now You Can Racism](http://9gag.com/gag/ayN7EPb)
+ - 😝 [Based Gorl](http://9gag.com/gag/aqy94ZQ)
+ - 💣 [Singapore airlines first class](http://9gag.com/gag/a7ov4r2)
+ - 😝 [If you don&#39;t succeed the first time, then parachuting is not for you.](http://9gag.com/gag/aLn6qxW)
+ - 👉 [Learn From Sweden. Keep Your European Borders Closed At All Times!](http://9gag.com/gag/ae9jKGO)<!-- MEMES:END -->
 
 ---
 

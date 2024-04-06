@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Durex is taking it up a notch](http://9gag.com/gag/avyp2ZO)
+ - 😝 [Oof](http://9gag.com/gag/abA39qE)
+ - 💣 [I need translation](http://9gag.com/gag/a2vEQ9E)
  - 😝 [If you don&#39;t succeed the first time, then parachuting is not for you.](http://9gag.com/gag/aLn6qxW)
- - 😝 [Title](http://9gag.com/gag/aO8ogdM)
- - 💣 [Sweden YES!](http://9gag.com/gag/agmrMnn)
- - 😝 [Bro was ready to risk it all](http://9gag.com/gag/ajPQbXG)
- - 👉 [Karma](http://9gag.com/gag/aZZqGRQ)<!-- MEMES:END -->
+ - 👉 [Powerlifter trolling bodybuilders](http://9gag.com/gag/azx7NPB)<!-- MEMES:END -->
 
 ---
 

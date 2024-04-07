@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How some teachers are using AI tools like ChatGPT, Writable, Grammarly, and EssayGrader to help grade papers, make lesson plans, and create assignments &lpar;Samantha Murphy Kelly/CNN&rpar;](http://www.techmeme.com/240407/p7#a240407p7)
  - [A Breakthrough Online Privacy Proposal Hits Congress](https://www.wired.com/story/apra-congress-online-privacy-proposal/)
  - [Apple teases more Immersive Video dinosaurs for Apple Vision Pro coming soon](https://appleinsider.com/articles/24/04/07/apple-teases-new-immersive-video-for-apple-vision-pro-coming-april-19th?utm_medium=rss)
  - [Best High-Speed Internet Providers of 2024     - CNET](https://www.cnet.com/home/internet/best-high-speed-internet/#ftag=CAD590a51e)
- - [Best Cricut Accessories You Need in 2024     - CNET](https://www.cnet.com/tech/computing/best-cricut-accessories-you-need-in-2024/#ftag=CAD590a51e)
- - [Elon Musk says X is &quot;lifting all restrictions&quot; it imposed in Brazil after a court ruling to block &quot;certain popular accounts&quot; and is defying the court&#39;s ruling &lpar;Anthony Boadle/Reuters&rpar;](http://www.techmeme.com/240407/p6#a240407p6)<!-- TECH:END -->
+ - [Best Cricut Accessories You Need in 2024     - CNET](https://www.cnet.com/tech/computing/best-cricut-accessories-you-need-in-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

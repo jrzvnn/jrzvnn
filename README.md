@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s future smart home ambitions leverage robotics, and go far beyond simple HomeKit lights](https://appleinsider.com/articles/24/04/07/apples-future-smart-home-ambitions-leverage-robotics-and-go-far-beyond-simple-homekit-lights?utm_medium=rss)
+ - [Cherry MX2A Review: A Revamped Classic](https://www.wired.com/review/cherry-mx2a/)
+ - [13 Best Mobile Game Controllers &lpar;2024&rpar;: iPhone or Android](https://www.wired.com/gallery/best-mobile-game-controllers-for-iphone-android/)
  - [New iPads Pro, iPad Air, and USB-C accessories expected in early May](https://appleinsider.com/articles/24/04/07/new-ipads-pro-ipad-air-and-usb-c-accessories-expected-in-early-may?utm_medium=rss)
- - [Fender Tone Master Pro Review: The Classiest Modeling Amp](https://www.wired.com/review/fender-tone-master-pro/)
- - [Best Unlimited Data Plans for April 2024     - CNET](https://www.cnet.com/tech/mobile/best-unlimited-data-plan/#ftag=CAD590a51e)
- - [Here’s How to Celebrate National Beer Day Without Screwing Up Your Sleep     - CNET](https://www.cnet.com/health/sleep/heres-how-to-celebrate-national-beer-day-without-screwing-up-your-sleep/#ftag=CAD590a51e)
- - [New Disney animatronics breathe convincing life into its 2D characters](https://www.theverge.com/2024/4/7/24121927/disney-imagineering-animatronics-princess-and-the-frog-tiana-ride)<!-- TECH:END -->
+ - [Fender Tone Master Pro Review: The Classiest Modeling Amp](https://www.wired.com/review/fender-tone-master-pro/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Repost deluxe](http://9gag.com/gag/amoNXoy)
- - 😝 [Who recognizes this meme location?](http://9gag.com/gag/aRBwg5j)
- - 💣 [They talking about us!](http://9gag.com/gag/ajPYYLq)
+ - 😝 [Wow !](http://9gag.com/gag/aYQNpPN)
+ - 😝 [Having a good time this weekend](http://9gag.com/gag/a87Lbp6)
+ - 💣 [When You&#39;re learning English all your life and then you meet a native](http://9gag.com/gag/ae9j3Pm)
  - 😝 [That first week with a brand new game.](http://9gag.com/gag/aA0WoWE)
- - 👉 [Ragequit](http://9gag.com/gag/aZZbPn6)<!-- MEMES:END -->
+ - 👉 [Repost deluxe](http://9gag.com/gag/amoNXoy)<!-- MEMES:END -->
 
 ---
 

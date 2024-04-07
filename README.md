@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who recognizes this meme location?](http://9gag.com/gag/aRBwg5j)
- - 😝 [There are so many](http://9gag.com/gag/apREK1D)
- - 💣 [Closer view of the tallest chariot falling](http://9gag.com/gag/aGyYVg0)
+ - 😝 [Is it possible for it to fit on my land cruiser?](http://9gag.com/gag/aPAwv9V)
+ - 😝 [Repost deluxe](http://9gag.com/gag/amoNXoy)
+ - 💣 [No freeloading](http://9gag.com/gag/a7oLvyA)
  - 😝 [That first week with a brand new game.](http://9gag.com/gag/aA0WoWE)
- - 👉 [They talking about us!](http://9gag.com/gag/ajPYYLq)<!-- MEMES:END -->
+ - 👉 [Never fight someone whose excited to fight...](http://9gag.com/gag/a1mvp76)<!-- MEMES:END -->
 
 ---
 

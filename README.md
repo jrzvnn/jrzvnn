@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s only for 6 mounths but it&#39;s opening new perspectives for me](http://9gag.com/gag/a0e890n)
- - 😝 [Being a dad mean sometimes making a fool of yourself for their enjoyment](http://9gag.com/gag/a9ybdM0)
- - 💣 [Let me guess, he\u2019s an Uncle Tom, right?](http://9gag.com/gag/amoNLvo)
+ - 😝 [I&#39;m not gonna brag, but...](http://9gag.com/gag/axyddG1)
+ - 😝 [If you don&#39;t succeed the first time, then parachuting is not for you.](http://9gag.com/gag/aLn6qxW)
+ - 💣 [Math is more important](http://9gag.com/gag/aqy94qL)
  - 😝 [That first week with a brand new game.](http://9gag.com/gag/aA0WoWE)
- - 👉 [Never fight someone whose excited to fight...](http://9gag.com/gag/a1mvp76)<!-- MEMES:END -->
+ - 👉 [They talking about us!](http://9gag.com/gag/ajPYYLq)<!-- MEMES:END -->
 
 ---
 

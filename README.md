@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ragequit](http://9gag.com/gag/aZZbPn6)
- - 😝 [Learn From Sweden. Keep Your European Borders Closed At All Times!](http://9gag.com/gag/ae9jKGO)
- - 💣 [They talking about us!](http://9gag.com/gag/ajPYYLq)
+ - 😝 [Meet Moon-Moon the asshole](http://9gag.com/gag/a9ybd2K)
+ - 😝 [What did he do?](http://9gag.com/gag/aVvzW4y)
+ - 💣 [A true classic, now with pixels!](http://9gag.com/gag/aO8Kowy)
  - 😝 [That first week with a brand new game.](http://9gag.com/gag/aA0WoWE)
- - 👉 [A true classic, now with pixels!](http://9gag.com/gag/aO8Kowy)<!-- MEMES:END -->
+ - 👉 [They talking about us!](http://9gag.com/gag/ajPYYLq)<!-- MEMES:END -->
 
 ---
 

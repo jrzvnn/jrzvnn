@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Man sick of protesters blocking road](http://9gag.com/gag/abAXXmp)
- - 😝 [Math is more important](http://9gag.com/gag/aqy94qL)
- - 💣 [There we go again...](http://9gag.com/gag/a6Zmy2q)
+ - 😝 [Repost deluxe](http://9gag.com/gag/amoNXoy)
+ - 😝 [Imagine going through all that risk just to find out she should&#39;ve cooked like a turkey](http://9gag.com/gag/aoyEEwn)
+ - 💣 [Glad to see society taking the right steps to stop this madness](http://9gag.com/gag/awy0rxD)
  - 😝 [That first week with a brand new game.](http://9gag.com/gag/aA0WoWE)
- - 👉 [Sometimes, history hurts](http://9gag.com/gag/apREEEn)<!-- MEMES:END -->
+ - 👉 [Math is more important](http://9gag.com/gag/aqy94qL)<!-- MEMES:END -->
 
 ---
 

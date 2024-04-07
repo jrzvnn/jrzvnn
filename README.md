@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How it feels to be the third wheel](http://9gag.com/gag/aYQNbnm)
- - 😝 [Susan Storm is trolling. Artist - Thirstastic1](http://9gag.com/gag/a9ybd9W)
- - 💣 [Repost deluxe](http://9gag.com/gag/amoNXoy)
+ - 😝 [Remembered the story of how a husky disappeared in Kamchatka. They started looking for him using a drone and found him hanging out with bears](http://9gag.com/gag/aqy92eY)
+ - 😝 [Don&#39;t take me wrong...](http://9gag.com/gag/aAyRpD0)
+ - 💣 [Oh no](http://9gag.com/gag/avypLLb)
  - 😝 [That first week with a brand new game.](http://9gag.com/gag/aA0WoWE)
- - 👉 [I could look it up, but I prefer asking you fellow nutjobs what you think about it.](http://9gag.com/gag/apRE0mW)<!-- MEMES:END -->
+ - 👉 [Interesting](http://9gag.com/gag/a1mvY02)<!-- MEMES:END -->
 
 ---
 

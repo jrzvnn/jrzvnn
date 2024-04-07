@@ -169,8 +169,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Canada unveils a CA$2.4B package of measures to boost its AI sector and provide access to computing capabilities and technical infrastructure &lpar;Mathieu Dion/Bloomberg&rpar;](http://www.techmeme.com/240407/p5#a240407p5)
  - [Protesters close Chicago Apple Store over Palestinian employee firing](https://appleinsider.com/articles/24/04/07/protesters-close-chicago-apple-store-over-palestinian-employee-firing?utm_medium=rss)
  - [AI is taking over your web browser](https://www.theverge.com/24122230/ai-web-browsers-opera-brave-jon-stewart-john-oliver-delivery-lego-installer-newsletter)
- - [Here&#39;s Why People Are Willing to Pay More for an EV     - CNET](https://www.cnet.com/roadshow/news/heres-why-people-are-willing-to-pay-more-for-an-ev/#ftag=CAD590a51e)
- - [Who is Apple’s rumored OLED iPad Pro for?](https://www.theverge.com/2024/4/7/24123337/apple-oled-ipad-pro-release-may-13-inch-ipad-air-magic-keyboard-apple-pencil)<!-- TECH:END -->
+ - [Who is Apple’s rumored OLED iPad Pro for?](https://www.theverge.com/2024/4/7/24123337/apple-oled-ipad-pro-release-may-13-inch-ipad-air-magic-keyboard-apple-pencil)
+ - [Best Solar Panel Installation Companies in Alaska     - CNET](https://www.cnet.com/home/energy-and-utilities/alaska-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

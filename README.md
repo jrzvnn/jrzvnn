@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice casting](http://9gag.com/gag/aPAwv5R)
- - 😝 [Brave British Woman Speaks Up Against The Failed Mass Immigration In The UK.](http://9gag.com/gag/a9ybdQ6)
- - 💣 [Everybody knows someone](http://9gag.com/gag/a4PK4Op)
+ - 😝 [Math is more important](http://9gag.com/gag/aqy94qL)
+ - 😝 [How much do you charge for AC installation? Yes!](http://9gag.com/gag/aqy9mE7)
+ - 💣 [Former Miss Wyoming winner Joyce McKinney being arrested by police after kidnapping Mormon missionary Kirk Anderson from his church, forcing him to be her sex slave for 3 days. 1977](http://9gag.com/gag/aqy9NpZ)
  - 😝 [That first week with a brand new game.](http://9gag.com/gag/aA0WoWE)
- - 👉 [Not every leap in technology is considered an advancement.](http://9gag.com/gag/avypZAX)<!-- MEMES:END -->
+ - 👉 [Ragequit](http://9gag.com/gag/aZZbPn6)<!-- MEMES:END -->
 
 ---
 

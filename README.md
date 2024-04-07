@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon, Best Buy battle for lowest iPad prices, with deals from $249](https://appleinsider.com/articles/24/04/07/amazon-best-buy-battle-for-lowest-ipad-prices-with-deals-from-249?utm_medium=rss)
+ - [Lawmakers share a draft of the American Privacy Rights Act, which would create a registry of data brokers, let consumers opt out of some data collection, more &lpar;Orion Donovan Smith/Spokesman.com&rpar;](http://www.techmeme.com/240407/p8#a240407p8)
+ - [Best Mother&#39;s Day Gifts for a Mom Who Cooks, Eats, Drinks &lpar;or Does All Three&rpar;     - CNET](https://www.cnet.com/news/best-mothers-day-food-gifts/#ftag=CAD590a51e)
  - [How some teachers are using AI tools like ChatGPT, Writable, Grammarly, and EssayGrader to help grade papers, make lesson plans, and create assignments &lpar;Samantha Murphy Kelly/CNN&rpar;](http://www.techmeme.com/240407/p7#a240407p7)
- - [A Breakthrough Online Privacy Proposal Hits Congress](https://www.wired.com/story/apra-congress-online-privacy-proposal/)
- - [Apple teases more Immersive Video dinosaurs for Apple Vision Pro coming soon](https://appleinsider.com/articles/24/04/07/apple-teases-new-immersive-video-for-apple-vision-pro-coming-april-19th?utm_medium=rss)
- - [Best High-Speed Internet Providers of 2024     - CNET](https://www.cnet.com/home/internet/best-high-speed-internet/#ftag=CAD590a51e)
- - [Best Cricut Accessories You Need in 2024     - CNET](https://www.cnet.com/tech/computing/best-cricut-accessories-you-need-in-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A Breakthrough Online Privacy Proposal Hits Congress](https://www.wired.com/story/apra-congress-online-privacy-proposal/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

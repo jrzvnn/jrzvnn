@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dress code doesn&#39;t matter when you&#39;re a billionaire](http://9gag.com/gag/apREqwE)
- - 😝 [The West is cooked.](http://9gag.com/gag/aAyBn2Z)
- - 💣 [Ragequit](http://9gag.com/gag/aZZbPn6)
+ - 😝 [Force vs Strategy](http://9gag.com/gag/agm30b1)
+ - 😝 [Who recognizes this meme location?](http://9gag.com/gag/aRBwg5j)
+ - 💣 [Learn From Sweden. Keep Your European Borders Closed At All Times!](http://9gag.com/gag/ae9jKGO)
  - 😝 [That first week with a brand new game.](http://9gag.com/gag/aA0WoWE)
- - 👉 [Learn From Sweden. Keep Your European Borders Closed At All Times!](http://9gag.com/gag/ae9jKGO)<!-- MEMES:END -->
+ - 👉 [Ragequit](http://9gag.com/gag/aZZbPn6)<!-- MEMES:END -->
 
 ---
 

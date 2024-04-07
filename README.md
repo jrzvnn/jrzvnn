@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wait what?](http://9gag.com/gag/aRBw6yQ)
- - 😝 [Durex is taking it up a notch](http://9gag.com/gag/avyp2ZO)
- - 💣 [Ragequit](http://9gag.com/gag/aZZbPn6)
+ - 😝 [Who recognizes this meme location?](http://9gag.com/gag/aRBwg5j)
+ - 😝 [Let me guess, he\u2019s an Uncle Tom, right?](http://9gag.com/gag/amoNLvo)
+ - 💣 [Being a dad mean sometimes making a fool of yourself for their enjoyment](http://9gag.com/gag/a9ybdM0)
  - 😝 [That first week with a brand new game.](http://9gag.com/gag/aA0WoWE)
- - 👉 [Repost deluxe](http://9gag.com/gag/amoNXoy)<!-- MEMES:END -->
+ - 👉 [Without women world would be one big mess.](http://9gag.com/gag/aAyRYo0)<!-- MEMES:END -->
 
 ---
 

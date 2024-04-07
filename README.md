@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Imagine going through all that risk just to find out she should&#39;ve cooked like a turkey](http://9gag.com/gag/aoyEEwn)
- - 😝 [The way he dropped those sticks](http://9gag.com/gag/aMVep06)
- - 💣 [Wtf is this question?](http://9gag.com/gag/an7eAAn)
+ - 😝 [Who recognizes this meme location?](http://9gag.com/gag/aRBwg5j)
+ - 😝 [Glad to see society taking the right steps to stop this madness](http://9gag.com/gag/awy0rxD)
+ - 💣 [That accent](http://9gag.com/gag/aAyRY2E)
  - 😝 [That first week with a brand new game.](http://9gag.com/gag/aA0WoWE)
- - 👉 [Typical FPS GAMES](http://9gag.com/gag/aW4QBw6)<!-- MEMES:END -->
+ - 👉 [Learn From Sweden. Keep Your European Borders Closed At All Times!](http://9gag.com/gag/ae9jKGO)<!-- MEMES:END -->
 
 ---
 

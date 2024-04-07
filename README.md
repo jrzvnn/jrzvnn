@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hey](http://9gag.com/gag/aO8KmAN)
- - 😝 [Glad to see society taking the right steps to stop this madness](http://9gag.com/gag/awy0rxD)
- - 💣 [Honestly](http://9gag.com/gag/aGyYRO0)
+ - 😝 [How it feels to be the third wheel](http://9gag.com/gag/aYQNbnm)
+ - 😝 [Susan Storm is trolling. Artist - Thirstastic1](http://9gag.com/gag/a9ybd9W)
+ - 💣 [Repost deluxe](http://9gag.com/gag/amoNXoy)
  - 😝 [That first week with a brand new game.](http://9gag.com/gag/aA0WoWE)
- - 👉 [Who recognizes this meme location?](http://9gag.com/gag/aRBwg5j)<!-- MEMES:END -->
+ - 👉 [I could look it up, but I prefer asking you fellow nutjobs what you think about it.](http://9gag.com/gag/apRE0mW)<!-- MEMES:END -->
 
 ---
 

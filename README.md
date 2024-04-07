@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meet Moon-Moon the asshole](http://9gag.com/gag/a9ybd2K)
- - 😝 [What did he do?](http://9gag.com/gag/aVvzW4y)
- - 💣 [A true classic, now with pixels!](http://9gag.com/gag/aO8Kowy)
+ - 😝 [Who recognizes this meme location?](http://9gag.com/gag/aRBwg5j)
+ - 😝 [Without women world would be one big mess.](http://9gag.com/gag/aAyRYo0)
+ - 💣 [Never fight someone whose excited to fight...](http://9gag.com/gag/a1mvp76)
  - 😝 [That first week with a brand new game.](http://9gag.com/gag/aA0WoWE)
- - 👉 [They talking about us!](http://9gag.com/gag/ajPYYLq)<!-- MEMES:END -->
+ - 👉 [Good guy](http://9gag.com/gag/ajPY0wR)<!-- MEMES:END -->
 
 ---
 

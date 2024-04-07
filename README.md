@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Repost deluxe](http://9gag.com/gag/amoNXoy)
- - 😝 [Ragequit](http://9gag.com/gag/aZZbPn6)
- - 💣 [Wtf!](http://9gag.com/gag/abAXXKp)
+ - 😝 [Guy makes hookers smile lol.](http://9gag.com/gag/aryvp16)
+ - 😝 [There we go again...](http://9gag.com/gag/a6Zmy2q)
+ - 💣 [Ragequit](http://9gag.com/gag/aZZbPn6)
  - 😝 [That first week with a brand new game.](http://9gag.com/gag/aA0WoWE)
- - 👉 [There are so many](http://9gag.com/gag/apREK1D)<!-- MEMES:END -->
+ - 👉 [Is it possible for it to fit on my land cruiser?](http://9gag.com/gag/aPAwv9V)<!-- MEMES:END -->
 
 ---
 

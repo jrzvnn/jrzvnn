@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s only for 6 mounths but it&#39;s opening new perspectives for me](http://9gag.com/gag/a0e890n)
- - 😝 [Being a dad mean sometimes making a fool of yourself for their enjoyment](http://9gag.com/gag/a9ybdM0)
- - 💣 [Never fight someone whose excited to fight...](http://9gag.com/gag/a1mvp76)
+ - 😝 [They talking about us!](http://9gag.com/gag/ajPYYLq)
+ - 😝 [Glad to see society taking the right steps to stop this madness](http://9gag.com/gag/awy0rxD)
+ - 💣 [Who recognizes this meme location?](http://9gag.com/gag/aRBwg5j)
  - 😝 [That first week with a brand new game.](http://9gag.com/gag/aA0WoWE)
- - 👉 [Let me guess, he\u2019s an Uncle Tom, right?](http://9gag.com/gag/amoNLvo)<!-- MEMES:END -->
+ - 👉 [Closer view of the tallest chariot falling](http://9gag.com/gag/aGyYVg0)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Everybody knows someone](http://9gag.com/gag/a4PK4Op)
- - 😝 [Not every leap in technology is considered an advancement.](http://9gag.com/gag/avypZAX)
- - 💣 [I sometimes wonder if the Western world is going to be somewhat normal again.](http://9gag.com/gag/a7oLy4w)
+ - 😝 [Interesting](http://9gag.com/gag/a1mvY02)
+ - 😝 [An Unusual Design of Escalator](http://9gag.com/gag/a6ZmL1e)
+ - 💣 [Good guy](http://9gag.com/gag/ajPY0wR)
  - 😝 [That first week with a brand new game.](http://9gag.com/gag/aA0WoWE)
- - 👉 [Force vs Strategy](http://9gag.com/gag/agm30b1)<!-- MEMES:END -->
+ - 👉 [There&#39;s always an asian better than you](http://9gag.com/gag/aXP0E59)<!-- MEMES:END -->
 
 ---
 

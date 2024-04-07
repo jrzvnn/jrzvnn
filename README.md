@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guy makes hookers smile lol.](http://9gag.com/gag/aryvp16)
+ - 😝 [Guy runs over a Mother and baby, tries to drive away before being stopped by a truck](http://9gag.com/gag/aLnRPE5)
  - 😝 [There we go again...](http://9gag.com/gag/a6Zmy2q)
- - 💣 [Ragequit](http://9gag.com/gag/aZZbPn6)
+ - 💣 [A true classic, now with pixels!](http://9gag.com/gag/aO8Kowy)
  - 😝 [That first week with a brand new game.](http://9gag.com/gag/aA0WoWE)
- - 👉 [Is it possible for it to fit on my land cruiser?](http://9gag.com/gag/aPAwv9V)<!-- MEMES:END -->
+ - 👉 [Former Miss Wyoming winner Joyce McKinney being arrested by police after kidnapping Mormon missionary Kirk Anderson from his church, forcing him to be her sex slave for 3 days. 1977](http://9gag.com/gag/aqy9NpZ)<!-- MEMES:END -->
 
 ---
 

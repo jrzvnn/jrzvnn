@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Target Circle Week Starts Now: All the Perks You Get With Circle Rewards     - CNET](https://www.cnet.com/tech/mobile/target-circle-week-starts-today-all-the-perks-you-get-with-circle-rewards/#ftag=CAD590a51e)
  - [Experts say the US government and tech companies are failing to mount a clear response to the theft of trade secrets by Chinese corporate and government spies &lpar;NBC News&rpar;](http://www.techmeme.com/240407/p2#a240407p2)
  - [Dune Analytics: decentralized exchange Uniswap tops $2T in all-time trading volume after breaching $1T in May 2022 and remains the largest DEX by trading volume &lpar;Brayden Lindrea/Cointelegraph&rpar;](http://www.techmeme.com/240407/p1#a240407p1)
  - [Prompt Engineering: What to Know and Why It&#39;s Important     - CNET](https://www.cnet.com/tech/services-and-software/prompt-engineering-what-to-know-and-why-its-important/#ftag=CAD590a51e)
- - [Mahbod Moghadam, the controversial co-founder of Genius and Everipedia, passed away in March at age 41, according to a post on Genius attributed to his family &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/240406/p13#a240406p13)
- - [Today&#39;s Wordle Hints and Answer: Help for April 7, #1023     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-7-1023/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mahbod Moghadam, the controversial co-founder of Genius and Everipedia, passed away in March at age 41, according to a post on Genius attributed to his family &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/240406/p13#a240406p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

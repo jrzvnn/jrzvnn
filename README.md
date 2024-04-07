@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who recognizes this meme location?](http://9gag.com/gag/aRBwg5j)
- - 😝 [Let me guess, he\u2019s an Uncle Tom, right?](http://9gag.com/gag/amoNLvo)
- - 💣 [Being a dad mean sometimes making a fool of yourself for their enjoyment](http://9gag.com/gag/a9ybdM0)
+ - 😝 [Ragequit](http://9gag.com/gag/aZZbPn6)
+ - 😝 [Learn From Sweden. Keep Your European Borders Closed At All Times!](http://9gag.com/gag/ae9jKGO)
+ - 💣 [They talking about us!](http://9gag.com/gag/ajPYYLq)
  - 😝 [That first week with a brand new game.](http://9gag.com/gag/aA0WoWE)
- - 👉 [Without women world would be one big mess.](http://9gag.com/gag/aAyRYo0)<!-- MEMES:END -->
+ - 👉 [A true classic, now with pixels!](http://9gag.com/gag/aO8Kowy)<!-- MEMES:END -->
 
 ---
 

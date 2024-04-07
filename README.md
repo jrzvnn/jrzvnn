@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Repost deluxe](http://9gag.com/gag/amoNXoy)
- - 😝 [Who recognizes this meme location?](http://9gag.com/gag/aRBwg5j)
- - 💣 [Learn From Sweden. Keep Your European Borders Closed At All Times!](http://9gag.com/gag/ae9jKGO)
+ - 😝 [Wait what?](http://9gag.com/gag/aRBw6yQ)
+ - 😝 [Durex is taking it up a notch](http://9gag.com/gag/avyp2ZO)
+ - 💣 [Ragequit](http://9gag.com/gag/aZZbPn6)
  - 😝 [That first week with a brand new game.](http://9gag.com/gag/aA0WoWE)
- - 👉 [Closer view of the tallest chariot falling](http://9gag.com/gag/aGyYVg0)<!-- MEMES:END -->
+ - 👉 [Repost deluxe](http://9gag.com/gag/amoNXoy)<!-- MEMES:END -->
 
 ---
 

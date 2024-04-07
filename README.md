@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What did he do?](http://9gag.com/gag/aVvzW4y)
- - 😝 [Well that&#39;s new!!!](http://9gag.com/gag/awy0br8)
- - 💣 [Ragequit](http://9gag.com/gag/aZZbPn6)
+ - 😝 [Don&#39;t take me wrong...](http://9gag.com/gag/aAyRpD0)
+ - 😝 [Force vs Strategy](http://9gag.com/gag/agm30b1)
+ - 💣 [I sometimes wonder if the Western world is going to be somewhat normal again.](http://9gag.com/gag/a7oLy4w)
  - 😝 [That first week with a brand new game.](http://9gag.com/gag/aA0WoWE)
- - 👉 [Glad to see society taking the right steps to stop this madness](http://9gag.com/gag/awy0rxD)<!-- MEMES:END -->
+ - 👉 [Making dumplings](http://9gag.com/gag/a5QeK9O)<!-- MEMES:END -->
 
 ---
 

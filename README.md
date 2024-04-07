@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Don&#39;t Buy Outdoor Furniture Until You Ask These 5 Questions     - CNET](https://www.cnet.com/how-to/dont-buy-outdoor-furniture-until-you-ask-these-5-questions/#ftag=CAD590a51e)
- - [How to Connect Your iPhone or Android Phone With Your TV     - CNET](https://www.cnet.com/tech/mobile/how-to-connect-your-iphone-or-android-phone-with-your-tv/#ftag=CAD590a51e)
- - [Target Circle Week Starts Now: All the Perks You Get With Circle Rewards     - CNET](https://www.cnet.com/tech/mobile/target-circle-week-starts-today-all-the-perks-you-get-with-circle-rewards/#ftag=CAD590a51e)
- - [Experts say the US government and tech companies are failing to mount a clear response to the theft of trade secrets by Chinese corporate and government spies &lpar;NBC News&rpar;](http://www.techmeme.com/240407/p2#a240407p2)
- - [Dune Analytics: decentralized exchange Uniswap tops $2T in all-time trading volume after breaching $1T in May 2022 and remains the largest DEX by trading volume &lpar;Brayden Lindrea/Cointelegraph&rpar;](http://www.techmeme.com/240407/p1#a240407p1)<!-- TECH:END -->
+ - [A look at Huawei&#39;s efforts to make HarmonyOS a formidable rival to iOS and Android; Counterpoint: 16% of smartphones sold in China in Q4 2023 used HarmonyOS &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240407/p3#a240407p3)
+ - [A Popular Alien-Hunting Technique Is Increasingly in Doubt](https://www.wired.com/story/search-for-alien-life-biosignatures-gas-atmosphere/)
+ - [Target Circle Week Is Now Live. Here Are the Very Best Deals to Shop Today     - CNET](https://www.cnet.com/deals/target-circle-week-is-now-live-here-are-very-best-deals-shop-today/#ftag=CAD590a51e)
+ - [Our Gadgets Aren&#39;t Getting Recycled Enough. How You Can Help     - CNET](https://www.cnet.com/tech/mobile/our-gadgets-arent-getting-recycled-enough-how-you-can-help/#ftag=CAD590a51e)
+ - [Best Android Phone of 2024     - CNET](https://www.cnet.com/tech/mobile/best-android-phone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

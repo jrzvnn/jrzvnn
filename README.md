@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Protesters close Chicago Apple Store over Palestinian employee firing](https://appleinsider.com/articles/24/04/07/protesters-close-chicago-apple-store-over-palestinian-employee-firing?utm_medium=rss)
+ - [AI is taking over your web browser](https://www.theverge.com/24122230/ai-web-browsers-opera-brave-jon-stewart-john-oliver-delivery-lego-installer-newsletter)
  - [Who is Apple’s rumored OLED iPad Pro for?](https://www.theverge.com/2024/4/7/24123337/apple-oled-ipad-pro-release-may-13-inch-ipad-air-magic-keyboard-apple-pencil)
- - [Thoughts on Apple&#39;s search for a new growth engine, Spatial Personas, and Kevin Lynch&#39;s move to the AI group; sources: new iPads may launch the week of May 6 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240407/p4#a240407p4)
- - [Apple&#39;s future smart home ambitions leverage robotics, and go far beyond simple HomeKit lights](https://appleinsider.com/articles/24/04/07/apples-future-smart-home-ambitions-leverage-robotics-and-go-far-beyond-simple-homekit-lights?utm_medium=rss)
- - [Don&#39;t Let Your Keurig Grow Mold: How to Keep Your Coffee Maker Clean     - CNET](https://www.cnet.com/how-to/dont-let-your-keurig-grow-mold-how-to-keep-your-coffee-maker-clean/#ftag=CAD590a51e)
- - [Tottenham vs. Nottingham Forest Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/tottenham-vs-nottingham-forest-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Solar Panel Installation Companies in Alaska     - CNET](https://www.cnet.com/home/energy-and-utilities/alaska-solar-panels/#ftag=CAD590a51e)
+ - [I Made a Whole Chicken in My Air Fryer and, Well...Just Look     - CNET](https://www.cnet.com/how-to/i-made-a-whole-chicken-in-my-air-fryer-and-it-was-face-meltingly-good/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Teenage Engineering TP-7 Field Recorder Review: Price, Specs, Availability, Features](https://www.wired.com/review/teenage-engineering-tp-7/)
- - [Total Solar Eclipse of April 8, 2024: Watch Online, What Time, Path of Totality](https://www.wired.com/story/total-solar-eclipse-2024-watch-online/)
- - [A look at Huawei&#39;s efforts to make HarmonyOS a formidable rival to iOS and Android; Counterpoint: 16% of smartphones sold in China in Q4 2023 used HarmonyOS &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240407/p3#a240407p3)
- - [IRS Free File: How to File Your Taxes for Free     - CNET](https://www.cnet.com/personal-finance/taxes/irs-free-file-how-to-file-your-taxes-for-free/#ftag=CAD590a51e)
- - [A Popular Alien-Hunting Technique Is Increasingly in Doubt](https://www.wired.com/story/search-for-alien-life-biosignatures-gas-atmosphere/)<!-- TECH:END -->
+ - [New iPads Pro, iPad Air, and USB-C accessories expected in early May](https://appleinsider.com/articles/24/04/07/new-ipads-pro-ipad-air-and-usb-c-accessories-expected-in-early-may?utm_medium=rss)
+ - [Fender Tone Master Pro Review: The Classiest Modeling Amp](https://www.wired.com/review/fender-tone-master-pro/)
+ - [New Disney animatronics breathe convincing life into its 2D characters](https://www.theverge.com/2024/4/7/24121927/disney-imagineering-animatronics-princess-and-the-frog-tiana-ride)
+ - [Are Meal Kits Actually Cheaper Than Grocery Shopping? I Did the Math     - CNET](https://www.cnet.com/health/nutrition/are-meal-kits-actually-cheaper-than-grocery-shopping-i-did-the-math/#ftag=CAD590a51e)
+ - [Want to Lower Your Power Bill? Clean Your Fridge     - CNET](https://www.cnet.com/how-to/want-to-lower-your-power-bill-clean-your-fridge/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

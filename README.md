@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Best High-Speed Internet Providers of 2024     - CNET](https://www.cnet.com/home/internet/best-high-speed-internet/#ftag=CAD590a51e)
+ - [Best Cricut Accessories You Need in 2024     - CNET](https://www.cnet.com/tech/computing/best-cricut-accessories-you-need-in-2024/#ftag=CAD590a51e)
  - [Elon Musk says X is &quot;lifting all restrictions&quot; it imposed in Brazil after a court ruling to block &quot;certain popular accounts&quot; and is defying the court&#39;s ruling &lpar;Anthony Boadle/Reuters&rpar;](http://www.techmeme.com/240407/p6#a240407p6)
  - [Unlock Donghua Jinlong’s food grade glycine](https://www.theverge.com/2024/4/7/24123519/donghua-jinlong-food-grade-glycine-tiktok-algorithm-memes)
- - [Best Thrifting and Secondhand Shopping Apps of 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-thrifting-and-secondhand-shopping-apps/#ftag=CAD590a51e)
- - [Apple teases new Immersive Video for Apple Vision Pro coming April 19th](https://appleinsider.com/articles/24/04/07/apple-teases-new-immersive-video-for-apple-vision-pro-coming-april-19th?utm_medium=rss)<!-- TECH:END -->
+ - [Best Thrifting and Secondhand Shopping Apps of 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-thrifting-and-secondhand-shopping-apps/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

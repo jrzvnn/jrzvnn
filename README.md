@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s only for 6 mounths but it&#39;s opening new perspectives for me](http://9gag.com/gag/a0e890n)
- - 😝 [Being a dad mean sometimes making a fool of yourself for their enjoyment](http://9gag.com/gag/a9ybdM0)
- - 💣 [Never fight someone whose excited to fight...](http://9gag.com/gag/a1mvp76)
+ - 😝 [Imagine going through all that risk just to find out she should&#39;ve cooked like a turkey](http://9gag.com/gag/aoyEEwn)
+ - 😝 [The way he dropped those sticks](http://9gag.com/gag/aMVep06)
+ - 💣 [Wtf is this question?](http://9gag.com/gag/an7eAAn)
  - 😝 [That first week with a brand new game.](http://9gag.com/gag/aA0WoWE)
- - 👉 [Let me guess, he\u2019s an Uncle Tom, right?](http://9gag.com/gag/amoNLvo)<!-- MEMES:END -->
+ - 👉 [Typical FPS GAMES](http://9gag.com/gag/aW4QBw6)<!-- MEMES:END -->
 
 ---
 

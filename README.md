@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Thoughts on Apple&#39;s search for a new growth engine, Spatial Personas, and Kevin Lynch&#39;s move to the AI group; sources: new iPads may launch the week of May 6 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240407/p4#a240407p4)
  - [Apple&#39;s future smart home ambitions leverage robotics, and go far beyond simple HomeKit lights](https://appleinsider.com/articles/24/04/07/apples-future-smart-home-ambitions-leverage-robotics-and-go-far-beyond-simple-homekit-lights?utm_medium=rss)
  - [Cherry MX2A Review: A Revamped Classic](https://www.wired.com/review/cherry-mx2a/)
  - [13 Best Mobile Game Controllers &lpar;2024&rpar;: iPhone or Android](https://www.wired.com/gallery/best-mobile-game-controllers-for-iphone-android/)
- - [New iPads Pro, iPad Air, and USB-C accessories expected in early May](https://appleinsider.com/articles/24/04/07/new-ipads-pro-ipad-air-and-usb-c-accessories-expected-in-early-may?utm_medium=rss)
- - [Fender Tone Master Pro Review: The Classiest Modeling Amp](https://www.wired.com/review/fender-tone-master-pro/)<!-- TECH:END -->
+ - [New iPads Pro, iPad Air, and USB-C accessories expected in early May](https://appleinsider.com/articles/24/04/07/new-ipads-pro-ipad-air-and-usb-c-accessories-expected-in-early-may?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

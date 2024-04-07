@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sometimes, history hurts](http://9gag.com/gag/apREEEn)
- - 😝 [Math is more important](http://9gag.com/gag/aqy94qL)
- - 💣 [Guy makes hookers smile lol.](http://9gag.com/gag/aryvp16)
+ - 😝 [Eariler today, I decided not to be an antisocial mf, and participated in the Hungarian protest against or anti-democratic government. AND I recorded my video HORIZONTAL, so please appreciate that. Maybe even 200.000 people here. It was cool, but kinda scary.](http://9gag.com/gag/aLnRP96)
+ - 😝 [Nice casting](http://9gag.com/gag/aPAwv5R)
+ - 💣 [Brave British Woman Speaks Up Against The Failed Mass Immigration In The UK.](http://9gag.com/gag/a9ybdQ6)
  - 😝 [That first week with a brand new game.](http://9gag.com/gag/aA0WoWE)
- - 👉 [Repost deluxe](http://9gag.com/gag/amoNXoy)<!-- MEMES:END -->
+ - 👉 [Everybody knows someone](http://9gag.com/gag/a4PK4Op)<!-- MEMES:END -->
 
 ---
 

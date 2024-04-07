@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Wow !](http://9gag.com/gag/aYQNpPN)
- - 😝 [Having a good time this weekend](http://9gag.com/gag/a87Lbp6)
- - 💣 [When You&#39;re learning English all your life and then you meet a native](http://9gag.com/gag/ae9j3Pm)
+ - 😝 [Who recognizes this meme location?](http://9gag.com/gag/aRBwg5j)
+ - 💣 [Ragequit](http://9gag.com/gag/aZZbPn6)
  - 😝 [That first week with a brand new game.](http://9gag.com/gag/aA0WoWE)
- - 👉 [Repost deluxe](http://9gag.com/gag/amoNXoy)<!-- MEMES:END -->
+ - 👉 [Glad to see society taking the right steps to stop this madness](http://9gag.com/gag/awy0rxD)<!-- MEMES:END -->
 
 ---
 

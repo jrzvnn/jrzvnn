@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who recognizes this meme location?](http://9gag.com/gag/aRBwg5j)
- - 😝 [Without women world would be one big mess.](http://9gag.com/gag/aAyRYo0)
- - 💣 [Never fight someone whose excited to fight...](http://9gag.com/gag/a1mvp76)
+ - 😝 [Man sick of protesters blocking road](http://9gag.com/gag/abAXXmp)
+ - 😝 [Math is more important](http://9gag.com/gag/aqy94qL)
+ - 💣 [There we go again...](http://9gag.com/gag/a6Zmy2q)
  - 😝 [That first week with a brand new game.](http://9gag.com/gag/aA0WoWE)
- - 👉 [Good guy](http://9gag.com/gag/ajPY0wR)<!-- MEMES:END -->
+ - 👉 [Sometimes, history hurts](http://9gag.com/gag/apREEEn)<!-- MEMES:END -->
 
 ---
 

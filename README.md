@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [China politely telling a former empire how insignificant they have become LOL](http://9gag.com/gag/avypZZZ)
- - 😝 [Who recognizes this meme location?](http://9gag.com/gag/aRBwg5j)
- - 💣 [That accent](http://9gag.com/gag/aAyRY2E)
+ - 😝 [Everybody knows someone](http://9gag.com/gag/a4PK4Op)
+ - 😝 [Not every leap in technology is considered an advancement.](http://9gag.com/gag/avypZAX)
+ - 💣 [I sometimes wonder if the Western world is going to be somewhat normal again.](http://9gag.com/gag/a7oLy4w)
  - 😝 [That first week with a brand new game.](http://9gag.com/gag/aA0WoWE)
- - 👉 [Glad to see society taking the right steps to stop this madness](http://9gag.com/gag/awy0rxD)<!-- MEMES:END -->
+ - 👉 [Force vs Strategy](http://9gag.com/gag/agm30b1)<!-- MEMES:END -->
 
 ---
 

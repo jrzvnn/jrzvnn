@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The original pirate](http://9gag.com/gag/a2vzEPe)
- - 😝 [Ragequit](http://9gag.com/gag/aZZbPn6)
- - 💣 [Wait what?](http://9gag.com/gag/aRBw6yQ)
- - 😝 [Got any uncomfortable image? for research purposes](http://9gag.com/gag/aPA6Opg)
- - 👉 [Sometimes, history hurts](http://9gag.com/gag/apREEEn)<!-- MEMES:END -->
+ - 😝 [Dress code doesn&#39;t matter when you&#39;re a billionaire](http://9gag.com/gag/apREqwE)
+ - 😝 [The West is cooked.](http://9gag.com/gag/aAyBn2Z)
+ - 💣 [Ragequit](http://9gag.com/gag/aZZbPn6)
+ - 😝 [That first week with a brand new game.](http://9gag.com/gag/aA0WoWE)
+ - 👉 [Learn From Sweden. Keep Your European Borders Closed At All Times!](http://9gag.com/gag/ae9jKGO)<!-- MEMES:END -->
 
 ---
 

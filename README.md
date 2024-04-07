@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X says it has been &quot;forced by court decisions to block certain popular accounts in Brazil&quot; and is barred from giving details of the order &lpar;Reuters&rpar;](http://www.techmeme.com/240406/p12#a240406p12)
+ - [Final Four March Madness Livestream: How to Watch UConn vs. Alabama Tonight     - CNET](https://www.cnet.com/tech/services-and-software/march-madness-2024-how-to-watch-livestream-the-ncaa-tournament-final-four-today-without-cable/#ftag=CAD590a51e)
  - [A profile of former Tinder CEO Renate Nyborg and her new startup Meeno, which provides an AI-powered chatbot for relationship advice on iOS and has raised $4.9M &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/240406/p11#a240406p11)
- - [Google is working on a ‘lookup’ button for unknown callers on Android](https://www.theverge.com/2024/4/6/24123044/pixel-lookup-button-unknown-callers-gemini-ai-summaries)
- - [Final Four Livestream: How to Watch Purdue vs. NC State, UConn vs. Alabama Today     - CNET](https://www.cnet.com/tech/services-and-software/march-madness-2024-how-to-watch-livestream-the-ncaa-tournament-final-four-today-without-cable/#ftag=CAD590a51e)
- - [OpenAI transcribed over a million hours of YouTube videos to train GPT-4](https://www.theverge.com/2024/4/6/24122915/openai-youtube-transcripts-gpt-4-training-data-google)
- - [Eero 6 Plus Review: The Best Mesh System for Larger Homes     - CNET](https://www.cnet.com/home/internet/eero-6-plus-wi-fi-6-mesh-router-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Squat Racks of 2024     - CNET](https://www.cnet.com/health/fitness/best-squat-racks/#ftag=CAD590a51e)
+ - [Google is working on a ‘lookup’ button for unknown callers on Android](https://www.theverge.com/2024/4/6/24123044/pixel-lookup-button-unknown-callers-gemini-ai-summaries)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dune Analytics: decentralized exchange Uniswap tops $2T in all-time trading volume after breaching $1T in May 2022 and remains the largest DEX by trading volume &lpar;Brayden Lindrea/Cointelegraph&rpar;](http://www.techmeme.com/240407/p1#a240407p1)
+ - [Prompt Engineering: What to Know and Why It&#39;s Important     - CNET](https://www.cnet.com/tech/services-and-software/prompt-engineering-what-to-know-and-why-its-important/#ftag=CAD590a51e)
  - [Mahbod Moghadam, the controversial co-founder of Genius and Everipedia, passed away in March at age 41, according to a post on Genius attributed to his family &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/240406/p13#a240406p13)
- - [X says it has been &quot;forced by court decisions to block certain popular accounts in Brazil&quot; and is barred from giving details of the order &lpar;Reuters&rpar;](http://www.techmeme.com/240406/p12#a240406p12)
- - [Final Four March Madness Livestream: How to Watch UConn vs. Alabama Tonight     - CNET](https://www.cnet.com/tech/services-and-software/march-madness-2024-how-to-watch-livestream-the-ncaa-tournament-final-four-today-without-cable/#ftag=CAD590a51e)
- - [A profile of former Tinder CEO Renate Nyborg and her new startup Meeno, which provides an AI-powered chatbot for relationship advice on iOS and has raised $4.9M &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/240406/p11#a240406p11)
- - [Best Squat Racks of 2024     - CNET](https://www.cnet.com/health/fitness/best-squat-racks/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints and Answer: Help for April 7, #1023     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-7-1023/#ftag=CAD590a51e)
+ - [X says it has been &quot;forced by court decisions to block certain popular accounts in Brazil&quot; and is barred from giving details of the order &lpar;Reuters&rpar;](http://www.techmeme.com/240406/p12#a240406p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

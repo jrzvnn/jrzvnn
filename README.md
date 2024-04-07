@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Remembered the story of how a husky disappeared in Kamchatka. They started looking for him using a drone and found him hanging out with bears](http://9gag.com/gag/aqy92eY)
- - 😝 [Don&#39;t take me wrong...](http://9gag.com/gag/aAyRpD0)
- - 💣 [Oh no](http://9gag.com/gag/avypLLb)
+ - 😝 [There&#39;s always an asian better than you](http://9gag.com/gag/aXP0E59)
+ - 😝 [There we go again...](http://9gag.com/gag/a6Zmy2q)
+ - 💣 [Hey](http://9gag.com/gag/aO8KmAN)
  - 😝 [That first week with a brand new game.](http://9gag.com/gag/aA0WoWE)
- - 👉 [Interesting](http://9gag.com/gag/a1mvY02)<!-- MEMES:END -->
+ - 👉 [Boeing engine cover rips apart during takeoff this morning. Yep, it&#39;s another 737.](http://9gag.com/gag/aD2AozZ)<!-- MEMES:END -->
 
 ---
 

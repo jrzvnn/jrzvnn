@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Interesting](http://9gag.com/gag/a1mvY02)
- - 😝 [An Unusual Design of Escalator](http://9gag.com/gag/a6ZmL1e)
- - 💣 [Good guy](http://9gag.com/gag/ajPY0wR)
+ - 😝 [Repost deluxe](http://9gag.com/gag/amoNXoy)
+ - 😝 [Half life speed run](http://9gag.com/gag/aW4QOjx)
+ - 💣 [Former Miss Wyoming winner Joyce McKinney being arrested by police after kidnapping Mormon missionary Kirk Anderson from his church, forcing him to be her sex slave for 3 days. 1977](http://9gag.com/gag/aqy9NpZ)
  - 😝 [That first week with a brand new game.](http://9gag.com/gag/aA0WoWE)
- - 👉 [There&#39;s always an asian better than you](http://9gag.com/gag/aXP0E59)<!-- MEMES:END -->
+ - 👉 [They talking about us!](http://9gag.com/gag/ajPYYLq)<!-- MEMES:END -->
 
 ---
 

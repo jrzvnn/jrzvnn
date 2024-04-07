@@ -175,9 +175,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wow !](http://9gag.com/gag/aYQNpPN)
- - 😝 [Who recognizes this meme location?](http://9gag.com/gag/aRBwg5j)
- - 💣 [Ragequit](http://9gag.com/gag/aZZbPn6)
+ - 😝 [There we go again...](http://9gag.com/gag/a6Zmy2q)
+ - 😝 [Honestly](http://9gag.com/gag/aGyYRO0)
+ - 💣 [Good guy](http://9gag.com/gag/ajPY0wR)
  - 😝 [That first week with a brand new game.](http://9gag.com/gag/aA0WoWE)
  - 👉 [Glad to see society taking the right steps to stop this madness](http://9gag.com/gag/awy0rxD)<!-- MEMES:END -->
 

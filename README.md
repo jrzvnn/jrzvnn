@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There we go again...](http://9gag.com/gag/a6Zmy2q)
- - 😝 [That accent](http://9gag.com/gag/aAyRY2E)
- - 💣 [Who recognizes this meme location?](http://9gag.com/gag/aRBwg5j)
+ - 😝 [What did he do?](http://9gag.com/gag/aVvzW4y)
+ - 😝 [Well that&#39;s new!!!](http://9gag.com/gag/awy0br8)
+ - 💣 [Ragequit](http://9gag.com/gag/aZZbPn6)
  - 😝 [That first week with a brand new game.](http://9gag.com/gag/aA0WoWE)
- - 👉 [Former Miss Wyoming winner Joyce McKinney being arrested by police after kidnapping Mormon missionary Kirk Anderson from his church, forcing him to be her sex slave for 3 days. 1977](http://9gag.com/gag/aqy9NpZ)<!-- MEMES:END -->
+ - 👉 [Glad to see society taking the right steps to stop this madness](http://9gag.com/gag/awy0rxD)<!-- MEMES:END -->
 
 ---
 

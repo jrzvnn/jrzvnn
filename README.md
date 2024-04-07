@@ -175,9 +175,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m not gonna brag, but...](http://9gag.com/gag/axyddG1)
- - 😝 [If you don&#39;t succeed the first time, then parachuting is not for you.](http://9gag.com/gag/aLn6qxW)
- - 💣 [Math is more important](http://9gag.com/gag/aqy94qL)
+ - 😝 [Who recognizes this meme location?](http://9gag.com/gag/aRBwg5j)
+ - 😝 [There are so many](http://9gag.com/gag/apREK1D)
+ - 💣 [Closer view of the tallest chariot falling](http://9gag.com/gag/aGyYVg0)
  - 😝 [That first week with a brand new game.](http://9gag.com/gag/aA0WoWE)
  - 👉 [They talking about us!](http://9gag.com/gag/ajPYYLq)<!-- MEMES:END -->
 

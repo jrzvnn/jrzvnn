@@ -166,7 +166,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Canada unveils a CA$2.4B package of measures to boost its AI sector and provide access to computing capabilities and technical infrastructure &lpar;Mathieu Dion/Bloomberg&rpar;](http://www.techmeme.com/240407/p5#a240407p5)
+ - [Canada unveils a CA$2.4B fund to boost its AI sector by giving access to computing capabilities and technical infrastructure and creates its AI Safety Institute &lpar;Mathieu Dion/Bloomberg&rpar;](http://www.techmeme.com/240407/p5#a240407p5)
  - [Protesters close Chicago Apple Store over Palestinian employee firing](https://appleinsider.com/articles/24/04/07/protesters-close-chicago-apple-store-over-palestinian-employee-firing?utm_medium=rss)
  - [AI is taking over your web browser](https://www.theverge.com/24122230/ai-web-browsers-opera-brave-jon-stewart-john-oliver-delivery-lego-installer-newsletter)
  - [Here&#39;s Why People Are Willing to Pay More for an EV     - CNET](https://www.cnet.com/roadshow/news/heres-why-people-are-willing-to-pay-more-for-an-ev/#ftag=CAD590a51e)

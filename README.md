@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [O_O](http://9gag.com/gag/a87LdR6)
- - 😝 [If you don&#39;t succeed the first time, then parachuting is not for you.](http://9gag.com/gag/aLn6qxW)
- - 💣 [Wait what?](http://9gag.com/gag/aRBw6yQ)
+ - 😝 [It&#39;s only for 6 mounths but it&#39;s opening new perspectives for me](http://9gag.com/gag/a0e890n)
+ - 😝 [Being a dad mean sometimes making a fool of yourself for their enjoyment](http://9gag.com/gag/a9ybdM0)
+ - 💣 [Never fight someone whose excited to fight...](http://9gag.com/gag/a1mvp76)
  - 😝 [That first week with a brand new game.](http://9gag.com/gag/aA0WoWE)
- - 👉 [Ragequit](http://9gag.com/gag/aZZbPn6)<!-- MEMES:END -->
+ - 👉 [Let me guess, he\u2019s an Uncle Tom, right?](http://9gag.com/gag/amoNLvo)<!-- MEMES:END -->
 
 ---
 

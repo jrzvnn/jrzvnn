@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A true classic, now with pixels!](http://9gag.com/gag/aO8Kowy)
- - 😝 [Ragequit](http://9gag.com/gag/aZZbPn6)
- - 💣 [There we go again...](http://9gag.com/gag/a6Zmy2q)
+ - 😝 [Sometimes, history hurts](http://9gag.com/gag/apREEEn)
+ - 😝 [Math is more important](http://9gag.com/gag/aqy94qL)
+ - 💣 [Guy makes hookers smile lol.](http://9gag.com/gag/aryvp16)
  - 😝 [That first week with a brand new game.](http://9gag.com/gag/aA0WoWE)
- - 👉 [Wait what?](http://9gag.com/gag/aRBw6yQ)<!-- MEMES:END -->
+ - 👉 [Repost deluxe](http://9gag.com/gag/amoNXoy)<!-- MEMES:END -->
 
 ---
 

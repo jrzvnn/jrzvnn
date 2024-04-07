@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Glad to see society taking the right steps to stop this madness](http://9gag.com/gag/awy0rxD)
- - 😝 [They talking about us!](http://9gag.com/gag/ajPYYLq)
- - 💣 [Ragequit](http://9gag.com/gag/aZZbPn6)
- - 😝 [Math is more important](http://9gag.com/gag/aqy94qL)
- - 👉 [Learn From Sweden. Keep Your European Borders Closed At All Times!](http://9gag.com/gag/ae9jKGO)<!-- MEMES:END -->
+ - 😝 [The original pirate](http://9gag.com/gag/a2vzEPe)
+ - 😝 [Ragequit](http://9gag.com/gag/aZZbPn6)
+ - 💣 [Wait what?](http://9gag.com/gag/aRBw6yQ)
+ - 😝 [Got any uncomfortable image? for research purposes](http://9gag.com/gag/aPA6Opg)
+ - 👉 [Sometimes, history hurts](http://9gag.com/gag/apREEEn)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who recognizes this meme location?](http://9gag.com/gag/aRBwg5j)
- - 😝 [Glad to see society taking the right steps to stop this madness](http://9gag.com/gag/awy0rxD)
- - 💣 [That accent](http://9gag.com/gag/aAyRY2E)
+ - 😝 [It&#39;s only for 6 mounths but it&#39;s opening new perspectives for me](http://9gag.com/gag/a0e890n)
+ - 😝 [Being a dad mean sometimes making a fool of yourself for their enjoyment](http://9gag.com/gag/a9ybdM0)
+ - 💣 [Let me guess, he\u2019s an Uncle Tom, right?](http://9gag.com/gag/amoNLvo)
  - 😝 [That first week with a brand new game.](http://9gag.com/gag/aA0WoWE)
- - 👉 [Learn From Sweden. Keep Your European Borders Closed At All Times!](http://9gag.com/gag/ae9jKGO)<!-- MEMES:END -->
+ - 👉 [Never fight someone whose excited to fight...](http://9gag.com/gag/a1mvp76)<!-- MEMES:END -->
 
 ---
 

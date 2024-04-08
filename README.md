@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Former Miss Wyoming winner Joyce McKinney being arrested by police after kidnapping Mormon missionary Kirk Anderson from his church, forcing him to be her sex slave for 3 days. 1977](http://9gag.com/gag/aqy9NpZ)
- - 😝 [There we go again...](http://9gag.com/gag/a6Zmy2q)
- - 💣 [Honestly](http://9gag.com/gag/aGyYRO0)
- - 😝 [Susan Storm is trolling. Artist - Thirstastic1](http://9gag.com/gag/a9ybd9W)
- - 👉 [Device that prevents lines from getting entangled in props](http://9gag.com/gag/aD2Aoyd)<!-- MEMES:END -->
+ - 😝 [When You&#39;re learning English all your life and then you meet a native](http://9gag.com/gag/ae9j3Pm)
+ - 😝 [Neurons Activated](http://9gag.com/gag/aGyYVvX)
+ - 💣 [Susan Storm is trolling. Artist - Thirstastic1](http://9gag.com/gag/a9ybd9W)
+ - 😝 [A Daughter&#39;s Tearful and Wholesome Reaction To Getting A Birthday Kitten](http://9gag.com/gag/adB068j)
+ - 👉 [Former Miss Wyoming winner Joyce McKinney being arrested by police after kidnapping Mormon missionary Kirk Anderson from his church, forcing him to be her sex slave for 3 days. 1977](http://9gag.com/gag/aqy9NpZ)<!-- MEMES:END -->
 
 ---
 

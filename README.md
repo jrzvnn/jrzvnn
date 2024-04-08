@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Former Miss Wyoming winner Joyce McKinney being arrested by police after kidnapping Mormon missionary Kirk Anderson from his church, forcing him to be her sex slave for 3 days. 1977](http://9gag.com/gag/aqy9NpZ)
- - 😝 [Alzheimer\u2019s is awful :&lpar;](http://9gag.com/gag/aKGwz51)
- - 💣 [Good guy](http://9gag.com/gag/ajPY0wR)
- - 😝 [China politely telling a former empire how insignificant they have become LOL](http://9gag.com/gag/avypZZZ)
- - 👉 [There&#39;s always an asian better than you](http://9gag.com/gag/aXP0E59)<!-- MEMES:END -->
+ - 😝 [There we go again...](http://9gag.com/gag/a6Zmy2q)
+ - 😝 [I sometimes wonder if the Western world is going to be somewhat normal again.](http://9gag.com/gag/a7oLy4w)
+ - 💣 [Repost deluxe](http://9gag.com/gag/amoNXoy)
+ - 😝 [Who recognizes this meme location?](http://9gag.com/gag/aRBwg5j)
+ - 👉 [Former Miss Wyoming winner Joyce McKinney being arrested by police after kidnapping Mormon missionary Kirk Anderson from his church, forcing him to be her sex slave for 3 days. 1977](http://9gag.com/gag/aqy9NpZ)<!-- MEMES:END -->
 
 ---
 

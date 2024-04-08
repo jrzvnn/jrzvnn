@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This Arlo Esssential Wi-Fi Smart Video Doorbell Costs Just $40 Today Only     - CNET](https://www.cnet.com/deals/this-arlo-esssential-wi-fi-smart-video-doorbell-costs-just-40-today-only/#ftag=CAD590a51e)
  - [A look at the Amazon Labor Union, two years after its victory at an NYC facility, as the group is divided, running out of funds, and faces a leadership election &lpar;Haleluya Hadero/Associated Press&rpar;](http://www.techmeme.com/240408/p25#a240408p25)
- - [The total eclipse shows us how important solar energy is to the US](https://www.theverge.com/2024/4/8/24124189/solar-eclipse-renewable-energy-panels-electricity-grid)
- - [Retro&#39;s back: the best wrap-around game controllers for your iPhone](https://appleinsider.com/inside/iphone/best/retros-back-the-best-wrap-around-game-controllers-for-your-iphone?utm_medium=rss)
- - [Roborock’s Q5 Pro, the best robovac for families with pets, is nearly half off](https://www.theverge.com/2024/4/8/24124213/roborock-q5-pro-robot-vacuum-baldurs-gate-3-arlo-essential-wired-video-doorbell-deal-sale)
- - [It’s true: people like leaving their TVs on in the background](https://www.theverge.com/2024/4/8/24124302/free-ad-supported-streaming-tvs-background-data)<!-- TECH:END -->
+ - [It&#39;s Allergy Season: Here&#39;s Where to Put Your Air Purifier     - CNET](https://www.cnet.com/home/kitchen-and-household/its-allergy-season-heres-where-to-put-your-air-purifier/#ftag=CAD590a51e)
+ - [Best Eco-Friendly and Recycled iPhone 13 Cases for 2024     - CNET](https://www.cnet.com/tech/mobile/best-eco-friendly-iphone-13-cases/#ftag=CAD590a51e)
+ - [The total eclipse shows us how important solar energy is to the US](https://www.theverge.com/2024/4/8/24124189/solar-eclipse-renewable-energy-panels-electricity-grid)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

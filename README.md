@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hahahaha](http://9gag.com/gag/an7qXNB)
- - 😝 [Nows that&#39;s what you call distraction](http://9gag.com/gag/avyp0qX)
- - 💣 [There&#39;s a reason the one that made it was called Apollo 11. They had to completely redesign from scratch over and over, and change all their working practices to prioritise, above all, the safety of the pilots.](http://9gag.com/gag/ae9jpBq)
- - 😝 [\ud83e\udd37\u2642\ufe0f](http://9gag.com/gag/aD2AoX7)
- - 👉 [Susan Storm is trolling. Artist - Thirstastic1](http://9gag.com/gag/a9ybd9W)<!-- MEMES:END -->
+ - 😝 [Puzzle composed of different animal shapes](http://9gag.com/gag/aNDrn54)
+ - 😝 [What was 9gag&#39;s motto again?](http://9gag.com/gag/agm3VYn)
+ - 💣 [Dont muck around with squid ink](http://9gag.com/gag/a5QeKrO)
+ - 😝 [Torque saves lives!](http://9gag.com/gag/aXP09Eg)
+ - 👉 [What did he do?](http://9gag.com/gag/aVvzW4y)<!-- MEMES:END -->
 
 ---
 

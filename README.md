@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ontario, Canada.](http://9gag.com/gag/a87LMrV)
- - 😝 [Dude](http://9gag.com/gag/aRBwV72)
- - 💣 [Honestly](http://9gag.com/gag/aGyYRO0)
- - 😝 [Summer Lemonade, My oil painting](http://9gag.com/gag/ae9jGAO)
- - 👉 [He&#39;s totally in the character...](http://9gag.com/gag/aLnR2xV)<!-- MEMES:END -->
+ - 😝 [Zendaya isn&#39;t so bad now, is she?](http://9gag.com/gag/aNDrodA)
+ - 😝 [I guess she forgot who she was talking to...](http://9gag.com/gag/ajPYDAp)
+ - 💣 [I could look it up, but I prefer asking you fellow nutjobs what you think about it.](http://9gag.com/gag/apRE0mW)
+ - 😝 [Wow !](http://9gag.com/gag/aYQNpPN)
+ - 👉 [Good guy](http://9gag.com/gag/ajPY0wR)<!-- MEMES:END -->
 
 ---
 

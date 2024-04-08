@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Honestly](http://9gag.com/gag/aGyYRO0)
- - 😝 [There&#39;s always an asian better than you](http://9gag.com/gag/aXP0E59)
+ - 😝 [Former Miss Wyoming winner Joyce McKinney being arrested by police after kidnapping Mormon missionary Kirk Anderson from his church, forcing him to be her sex slave for 3 days. 1977](http://9gag.com/gag/aqy9NpZ)
+ - 😝 [Alzheimer\u2019s is awful :&lpar;](http://9gag.com/gag/aKGwz51)
  - 💣 [Good guy](http://9gag.com/gag/ajPY0wR)
- - 😝 [Ragequit](http://9gag.com/gag/aZZbPn6)
- - 👉 [Hey](http://9gag.com/gag/aO8KmAN)<!-- MEMES:END -->
+ - 😝 [China politely telling a former empire how insignificant they have become LOL](http://9gag.com/gag/avypZZZ)
+ - 👉 [There&#39;s always an asian better than you](http://9gag.com/gag/aXP0E59)<!-- MEMES:END -->
 
 ---
 

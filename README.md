@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let me guess, he\u2019s an Uncle Tom, right?](http://9gag.com/gag/amoNLvo)
- - 😝 [London resident gives a tour of her \u00a31850 per month apartment](http://9gag.com/gag/ayN7p3Y)
- - 💣 [Finally a Government with their brain intact](http://9gag.com/gag/a6Zm7mm)
- - 😝 [Save this if you need an easy \u201cGet Out of jail\u201d card with your partner.. or in this case yourself gg. 9GAG](http://9gag.com/gag/agm30Pn)
- - 👉 [Dont muck around with squid ink](http://9gag.com/gag/a5QeKrO)<!-- MEMES:END -->
+ - 😝 [Dude](http://9gag.com/gag/aRBwV72)
+ - 😝 [Ontario, Canada.](http://9gag.com/gag/a87LMrV)
+ - 💣 [Summer Lemonade, My oil painting](http://9gag.com/gag/ae9jGAO)
+ - 😝 [2009 World Series Poker Europe](http://9gag.com/gag/avypnGM)
+ - 👉 [He&#39;s totally in the character...](http://9gag.com/gag/aLnR2xV)<!-- MEMES:END -->
 
 ---
 

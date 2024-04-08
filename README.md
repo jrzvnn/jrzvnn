@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A meme for every line in LotR: day 459](http://9gag.com/gag/a1mvMXY)
- - 😝 [Half life speed run](http://9gag.com/gag/aW4QOjx)
- - 💣 [Don\u2019t laugh](http://9gag.com/gag/a9ybLB6)
- - 😝 [This might be a crime](http://9gag.com/gag/aoyE0Yg)
- - 👉 [`This is your kid.` Playground safety expert](http://9gag.com/gag/avypLgb)<!-- MEMES:END -->
+ - 😝 [Female pilot has a public meltdown, tells passengers feeling unsafe to `get off the plane.`](http://9gag.com/gag/azxgAYN)
+ - 😝 [There&#39;s always an asian better than you](http://9gag.com/gag/aXP0E59)
+ - 💣 [2009 World Series Poker Europe](http://9gag.com/gag/avypnGM)
+ - 😝 [Nice](http://9gag.com/gag/an7q1GB)
+ - 👉 [Fact](http://9gag.com/gag/aE0vzLo)<!-- MEMES:END -->
 
 ---
 

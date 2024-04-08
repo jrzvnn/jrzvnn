@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amateur performers embrace VR porn on Apple Vision Pro](https://appleinsider.com/articles/24/04/08/amateur-performers-embrace-vr-porn-on-apple-vision-pro?utm_medium=rss)
- - [Lots of new robovacs, bright LifX bulbs, &amp; Mophie Qi2 car charger on HomeKit Insider](https://appleinsider.com/articles/24/04/08/lots-of-new-robovacs-bright-lifx-bulbs-mophie-qi2-car-charger-on-homekit-insider?utm_medium=rss)
- - [Solana grapples with congestion issues, leading to delays in transaction processing and transactions being dropped, due to spam transactions and memecoins &lpar;Vishal Chawla/The Block&rpar;](http://www.techmeme.com/240408/p20#a240408p20)
- - [Why Cloudflare CEO Matthew Prince is the internet’s unlikely defender](https://www.theverge.com/24121399/cloudflare-matthew-prince-internet-free-speech-8chan-ukraine-aristotle-decoder-interview)
- - [Avraham Eisenberg, a crypto trader the US says stole $110M on the Mango Markets exchange in 2022, begins his trial this week, testing &quot;code is law&quot; claims &lpar;Bloomberg&rpar;](http://www.techmeme.com/240408/p19#a240408p19)<!-- TECH:END -->
+ - [Nielsen data from 2021 to 2023: nine of the ten most-watched streaming programs are reruns, but a majority of the 100 most popular titles are original series &lpar;Bloomberg&rpar;](http://www.techmeme.com/240408/p21#a240408p21)
+ - [I can’t recommend this Animal Crossing Switch Lite bundle enough](https://www.theverge.com/2024/4/8/24124212/animal-crossing-switch-lite-deal-walmart)
+ - [Welcome to the wasteland: all the news on Amazon’s Fallout TV series](https://www.theverge.com/24124222/fallout-tv-series-amazon-prime-video-news-trailers)
+ - [A farewell to Wii U and Nintendo 3DS online services](https://www.theverge.com/2024/4/8/24124192/nintendo-wii-u-3ds-online-services-discontinued-eulogy)
+ - [Amateur performers embrace VR porn on Apple Vision Pro](https://appleinsider.com/articles/24/04/08/amateur-performers-embrace-vr-porn-on-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

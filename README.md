@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jesus the conqueror](http://9gag.com/gag/ae9j62j)
- - 😝 [What can go wrong filming a group of sharks?](http://9gag.com/gag/aRBwePq)
- - 💣 [Posting images of good looking black chicks to prove they actively cast ugliest possible b*tches until I get bored or banned.](http://9gag.com/gag/aW4QMm6)
- - 😝 [Nice](http://9gag.com/gag/an7q1GB)
- - 👉 [He&#39;s totally in the character...](http://9gag.com/gag/aLnR2xV)<!-- MEMES:END -->
+ - 😝 [The first map notorious for sniper camping](http://9gag.com/gag/a4PKdqQ)
+ - 😝 [On my way to the gym to work on that goal](http://9gag.com/gag/amoN88j)
+ - 💣 [What did he do?](http://9gag.com/gag/aVvzW4y)
+ - 😝 [The launch of PlayStation 2.](http://9gag.com/gag/a9ybL7Z)
+ - 👉 [Fact](http://9gag.com/gag/aE0vzLo)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [An Unusual Design of Escalator](http://9gag.com/gag/a6ZmL1e)
+ - 😝 [Hahahaha](http://9gag.com/gag/an7qXNB)
+ - 💣 [Buy a good pair of slippers next time.](http://9gag.com/gag/aW4QOQd)
  - 😝 [Hey](http://9gag.com/gag/aO8KmAN)
- - 😝 [That accent](http://9gag.com/gag/aAyRY2E)
- - 💣 [There we go again...](http://9gag.com/gag/a6Zmy2q)
- - 😝 [Repost deluxe](http://9gag.com/gag/amoNXoy)
- - 👉 [Zendaya isn&#39;t so bad now, is she?](http://9gag.com/gag/aNDrodA)<!-- MEMES:END -->
+ - 👉 [Brave British Woman Speaks Up Against The Failed Mass Immigration In The UK.](http://9gag.com/gag/a9ybdQ6)<!-- MEMES:END -->
 
 ---
 

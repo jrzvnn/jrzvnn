@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thats not a child thats a man and its sad. Bro deserves to be a kid.](http://9gag.com/gag/aKGw3Bg)
+ - 😝 [You have my pen](http://9gag.com/gag/ajPYDP8)
+ - 😝 [Dude](http://9gag.com/gag/aRBwV72)
+ - 💣 [Hey](http://9gag.com/gag/aO8KmAN)
  - 😝 [Honestly](http://9gag.com/gag/aGyYRO0)
- - 💣 [I guess she forgot who she was talking to...](http://9gag.com/gag/ajPYDAp)
- - 😝 [2009 World Series Poker Europe](http://9gag.com/gag/avypnGM)
- - 👉 [Mexico filter coming to western europe again](http://9gag.com/gag/aAyRp0d)<!-- MEMES:END -->
+ - 👉 [What can go wrong filming a group of sharks?](http://9gag.com/gag/aRBwePq)<!-- MEMES:END -->
 
 ---
 

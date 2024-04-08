@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [John Williams tricks you with the beautiful music](http://9gag.com/gag/aXP0pbd)
- - 😝 [Dutch Police version of `yes mom, I need the 4090ti for my homework`](http://9gag.com/gag/an7qKx0)
- - 💣 [Puppy eating an egg](http://9gag.com/gag/aW4QO3Z)
- - 😝 [This movie just got scarier](http://9gag.com/gag/an7q1eo)
- - 👉 [The Pinky Guard by Luke Humphris](http://9gag.com/gag/agm3vW1)<!-- MEMES:END -->
+ - 😝 [Walking Dead Lake Edition](http://9gag.com/gag/a4PKLxp)
+ - 😝 [When you&#39;re your own cook](http://9gag.com/gag/aZZbp9W)
+ - 💣 [Fact](http://9gag.com/gag/aE0vzLo)
+ - 😝 [What a glow up](http://9gag.com/gag/agm3GWn)
+ - 👉 [Good guy](http://9gag.com/gag/ajPY0wR)<!-- MEMES:END -->
 
 ---
 

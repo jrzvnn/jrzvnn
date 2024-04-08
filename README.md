@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [So far away -](http://9gag.com/gag/aYQNwr0)
  - 😝 [Walking Dead Lake Edition](http://9gag.com/gag/a4PKLxp)
- - 😝 [When you&#39;re your own cook](http://9gag.com/gag/aZZbp9W)
- - 💣 [Fact](http://9gag.com/gag/aE0vzLo)
- - 😝 [What a glow up](http://9gag.com/gag/agm3GWn)
- - 👉 [Good guy](http://9gag.com/gag/ajPY0wR)<!-- MEMES:END -->
+ - 💣 [Who recognizes this meme location?](http://9gag.com/gag/aRBwg5j)
+ - 😝 [Favorite](http://9gag.com/gag/a4PKj4d)
+ - 👉 [Dont muck around with squid ink](http://9gag.com/gag/a5QeKrO)<!-- MEMES:END -->
 
 ---
 

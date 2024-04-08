@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Why Cloudflare CEO Matthew Prince is the internet’s unlikely defender](https://www.theverge.com/24121399/cloudflare-matthew-prince-internet-free-speech-8chan-ukraine-aristotle-decoder-interview)
  - [Avraham Eisenberg, a crypto trader the US says stole $110M on the Mango Markets exchange in 2022, begins his trial this week, testing &quot;code is law&quot; claims &lpar;Bloomberg&rpar;](http://www.techmeme.com/240408/p19#a240408p19)
  - [Astoundingly unsafe iMessage bridge Sunbird is back, and you still shouldn&#39;t use it](https://appleinsider.com/articles/24/04/08/astoundingly-unsafe-imessage-bridge-sunbird-is-back-and-you-still-shouldnt-use-it?utm_medium=rss)
  - [It&#39;s Target Circle Week. Here Are 20 of the Best Deals to Shop Now     - CNET](https://www.cnet.com/deals/its-target-circle-week-here-are-20-of-the-best-deals-to-shop-now/#ftag=CAD590a51e)
- - [Best Buy hops on $849 M2 MacBook Air bandwagon with latest deal](https://appleinsider.com/articles/24/04/08/best-buy-hops-on-849-m2-macbook-air-bandwagon-with-latest-deal?utm_medium=rss)
- - [Elon Musk and Brazil are beefing over X](https://www.theverge.com/2024/4/8/24124156/brazil-investigates-elon-musk-x-twitter-obstruction-of-justice)<!-- TECH:END -->
+ - [Best Buy hops on $849 M2 MacBook Air bandwagon with latest deal](https://appleinsider.com/articles/24/04/08/best-buy-hops-on-849-m2-macbook-air-bandwagon-with-latest-deal?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

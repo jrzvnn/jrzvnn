@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I could look it up, but I prefer asking you fellow nutjobs what you think about it.](http://9gag.com/gag/apRE0mW)
- - 😝 [Favorite](http://9gag.com/gag/a4PKj4d)
- - 💣 [Japanese people never fails to entertain you.](http://9gag.com/gag/a5Qe7xg)
- - 😝 [Wow !](http://9gag.com/gag/aYQNpPN)
- - 👉 [Nice](http://9gag.com/gag/an7q1GB)<!-- MEMES:END -->
+ - 😝 [Device that prevents lines from getting entangled in props](http://9gag.com/gag/aD2Aoyd)
+ - 😝 [What you doing if this your girl?](http://9gag.com/gag/aLnRQoP)
+ - 💣 [When You&#39;re learning English all your life and then you meet a native](http://9gag.com/gag/ae9j3Pm)
+ - 😝 [BMW story](http://9gag.com/gag/aryveX7)
+ - 👉 [Ok hear me out:](http://9gag.com/gag/aKGwPqW)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There&#39;s always an asian better than you](http://9gag.com/gag/aXP0E59)
- - 😝 [There we go again...](http://9gag.com/gag/a6Zmy2q)
- - 💣 [Hey](http://9gag.com/gag/aO8KmAN)
+ - 😝 [The reality of our parents and grandparents is far different from ours.](http://9gag.com/gag/aVvzQ3n)
+ - 😝 [Ok hear me out:](http://9gag.com/gag/aKGwPqW)
+ - 💣 [Hahahaha](http://9gag.com/gag/an7qXNB)
  - 😝 [That first week with a brand new game.](http://9gag.com/gag/aA0WoWE)
- - 👉 [Boeing engine cover rips apart during takeoff this morning. Yep, it&#39;s another 737.](http://9gag.com/gag/aD2AozZ)<!-- MEMES:END -->
+ - 👉 [&lpar;Palatine voice&rpar; DO IT!](http://9gag.com/gag/aQzP4bz)<!-- MEMES:END -->
 
 ---
 

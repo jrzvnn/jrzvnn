@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Internal Kremlin documents from May 2022 to August 2023 show an ongoing campaign to promote American isolationism via fabricated news articles and social media &lpar;Washington Post&rpar;](http://www.techmeme.com/240408/p13#a240408p13)
  - [AI Scam Calls: How to Protect Yourself, How to Detect](https://www.wired.com/story/how-to-protect-yourself-ai-scam-calls-detect/)
  - [EU questions whether Apple has changed anything after its $1.95 billion fine](https://appleinsider.com/articles/24/04/08/eu-questions-whether-apple-has-changed-anything-after-its-195-billion-fine?utm_medium=rss)
  - [Sources: Pegatron is in advanced talks to hand over its only iPhone plant in India to the Tata Group, which will hold a 65%+ stake; Apple supports the move &lpar;Reuters&rpar;](http://www.techmeme.com/240408/p12#a240408p12)
- - [Save Up to $150 Off Blink&#39;s Popular Outdoor Wireless Security Cameras     - CNET](https://www.cnet.com/deals/save-up-to-150-off-blinks-popular-outdoor-wireless-security-cameras/#ftag=CAD590a51e)
- - [The World Doesn’t Need More Journal Apps](https://www.wired.com/story/retro-shine-journal-apps/)<!-- TECH:END -->
+ - [Save Up to $150 Off Blink&#39;s Popular Outdoor Wireless Security Cameras     - CNET](https://www.cnet.com/deals/save-up-to-150-off-blinks-popular-outdoor-wireless-security-cameras/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

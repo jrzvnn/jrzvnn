@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good guy](http://9gag.com/gag/ajPY0wR)
- - 😝 [Half life speed run](http://9gag.com/gag/aW4QOjx)
- - 💣 [Buy a good pair of slippers next time.](http://9gag.com/gag/aW4QOQd)
- - 😝 [There&#39;s always an asian better than you](http://9gag.com/gag/aXP0E59)
- - 👉 [Clearly he&#39;s never been to a waffle house](http://9gag.com/gag/an7qNVL)<!-- MEMES:END -->
+ - 😝 [Force vs Strategy](http://9gag.com/gag/agm30b1)
+ - 😝 [Dont muck around with squid ink](http://9gag.com/gag/a5QeKrO)
+ - 💣 [He&#39;s totally in the character...](http://9gag.com/gag/aLnR2xV)
+ - 😝 [Japanese people never fails to entertain you.](http://9gag.com/gag/a5Qe7xg)
+ - 👉 [BMW story](http://9gag.com/gag/aryveX7)<!-- MEMES:END -->
 
 ---
 

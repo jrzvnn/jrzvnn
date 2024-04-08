@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice](http://9gag.com/gag/an7q1GB)
- - 😝 [A simple act of kindness](http://9gag.com/gag/apRELV8)
- - 💣 [You have my pen](http://9gag.com/gag/ajPYDP8)
- - 😝 [Watch Joe Rogan change his opinion in real time when presented with a different perspective &lpar;with facts to back it up&rpar;](http://9gag.com/gag/aVvze9d)
- - 👉 [Posting images of good looking black chicks to prove they actively cast ugliest possible b*tches until I get bored or banned.](http://9gag.com/gag/aW4QMm6)<!-- MEMES:END -->
+ - 😝 [No comment.](http://9gag.com/gag/adB0XEB)
+ - 😝 [Hey! wake up its 2005](http://9gag.com/gag/awy0KqD)
+ - 💣 [Bird feeder](http://9gag.com/gag/ajPYD4G)
+ - 😝 [Someone posted classified info about the SU-57](http://9gag.com/gag/axydgZ2)
+ - 👉 [These women are not having it.](http://9gag.com/gag/aQzPnOK)<!-- MEMES:END -->
 
 ---
 

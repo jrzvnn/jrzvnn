@@ -170,7 +170,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Inside the Election Denial Groups Planning to Disrupt November](https://www.wired.com/story/election-denial-groups-november-2024/)
  - [Alibaba cuts prices for cloud customers by 23% on average across ~500 cloud product specifications in 13 regions, seeking to fend off rivals and revive growth &lpar;Sarah Zheng/Bloomberg&rpar;](http://www.techmeme.com/240408/p11#a240408p11)
  - [Microsoft announces Microsoft AI London, a new hub for its consumer AI division led by former Inflection AI and DeepMind engineer Jordan Hoffmann &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240408/p10#a240408p10)
- - [How I Became a Python Programmer—and Fell Out of Love With the Machine](https://www.wired.com/story/how-i-became-a-python-programmer-and-distanced-myself-from-the-machine/)<!-- TECH:END -->
+ - [iOS 17 Cheat Sheet: Your Questions on the Latest iPhone Update Answered     - CNET](https://www.cnet.com/tech/mobile/ios-17-cheat-sheet-your-questions-on-the-latest-iphone-update-answered/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

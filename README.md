@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alibaba cuts prices for cloud customers by 23% on average across ~500 cloud product specifications in 13 regions, seeking to fend off rivals and revive growth &lpar;Sarah Zheng/Bloomberg&rpar;](http://www.techmeme.com/240408/p11#a240408p11)
+ - [Microsoft announces Microsoft AI London, a new hub for its consumer AI division led by former Inflection AI and DeepMind engineer Jordan Hoffmann &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240408/p10#a240408p10)
  - [How I Became a Python Programmer—and Fell Out of Love With the Machine](https://www.wired.com/story/how-i-became-a-python-programmer-and-distanced-myself-from-the-machine/)
  - [Emails: Xbox President Sarah Bond establishes a game preservation team, and reiterates plans for the next Xbox to aim for the &quot;biggest technical leap ever&quot; &lpar;Jez Corden/Windows Central&rpar;](http://www.techmeme.com/240408/p9#a240408p9)
- - [Lime plans to spend $55M in 2024 to expand its e-bike fleet, adding 30K+ bikes in North America and elsewhere, and reports 2023 gross bookings up 32% to $616M &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/240408/p8#a240408p8)
- - [Web Summit co-founder Paddy Cosgrave confirms returning as Web Summit CEO; Cosgrave resigned in October 2023 over controversial comments on the Israel-Hamas war &lpar;TechCrunch&rpar;](http://www.techmeme.com/240408/p7#a240408p7)
- - [The US awards TSMC $6.6B in grants and up to $5B in loans to build a third Arizona fab, slated to make 2nm chips by 2030, alongside TSMC&#39;s $65B+ investment &lpar;Bloomberg&rpar;](http://www.techmeme.com/240408/p6#a240408p6)<!-- TECH:END -->
+ - [Lime plans to spend $55M in 2024 to expand its e-bike fleet, adding 30K+ bikes in North America and elsewhere, and reports 2023 gross bookings up 32% to $616M &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/240408/p8#a240408p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

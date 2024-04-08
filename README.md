@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tesla is settling with the family of the Apple engineer who died in an Autopilot crash](https://www.theverge.com/2024/4/8/24124744/tesla-autopilot-lawsuit-settlement-huang-death)
  - [Source: Meta plans to launch two small non-multimodal versions of Llama 3 next week; the biggest Llama 3 model will be multimodal and is expected this summer &lpar;Sylvia Varnham O&#39;Regan/The Information&rpar;](http://www.techmeme.com/240408/p31#a240408p31)
- - [14 Best Deals From the Target Circle Week Deals Event &lpar;2024&rpar;](https://www.wired.com/story/target-circle-week-deals-april-2024/)
- - [The Supercut app brings good Netflix to the Vision Pro](https://www.theverge.com/2024/4/8/24124534/supercut-netflix-vision-pro-app-4k-dolby-atmos-vision-visionos)
- - [Filing: Tesla settles a lawsuit over Apple engineer Walter Huang&#39;s 2018 fatal Autopilot crash a day before the trial was set to begin; details are not disclosed &lpar;Trisha Thadani/Washington Post&rpar;](http://www.techmeme.com/240408/p30#a240408p30)
- - [Google rebrands Studio Bot, its AI-powered app development chatbot for Android Studio, to &quot;Gemini in Android Studio&quot;, and upgrades its model to Gemini 1.0 Pro &lpar;Kyle Bradshaw/9to5Google&rpar;](http://www.techmeme.com/240408/p29#a240408p29)<!-- TECH:END -->
+ - [Best Cookware Sets for 2024     - CNET](https://www.cnet.com/news/best-cookware-sets/#ftag=CAD590a51e)
+ - [Best Teeth-Whitening Strips of 2024     - CNET](https://www.cnet.com/health/personal-care/best-teeth-whitening-strips/#ftag=CAD590a51e)
+ - [14 Best Deals From the Target Circle Week Deals Event &lpar;2024&rpar;](https://www.wired.com/story/target-circle-week-deals-april-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

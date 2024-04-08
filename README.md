@@ -170,7 +170,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [The Best Total Solar Eclipse Photos &lpar;2024&rpar;](https://www.wired.com/story/total-solar-eclipse-best-photos/)
  - [We now have a better look at what’s inside the Humane AI pin](https://www.theverge.com/2024/4/8/24124419/humane-ai-pin-processor-snapdragon-qualcomm-fcc)
  - [TikTok expands TikTok Lite, which gives people financial incentives to watch its videos, to Spain and France, amid growth struggles in Europe &lpar;Kaya Yurieff/The Information&rpar;](http://www.techmeme.com/240408/p27#a240408p27)
- - [An adult version of scented markers exists… as thermal paste](https://www.theverge.com/2024/4/8/24124323/clock-work-tea-party-scented-thermal-paste)<!-- TECH:END -->
+ - [QVC&#39;s Discovery Days Event Unleashes a Ton of Incredible Deals     - CNET](https://www.cnet.com/deals/qvcs-discovery-days-event-unleashes-a-ton-of-incredible-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

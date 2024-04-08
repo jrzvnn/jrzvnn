@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Nothing’s next set of earbuds might include a Playdate-inspired glow-up](https://www.theverge.com/2024/4/8/24124366/nothing-ear-a-wireless-earbuds-playdate-yellow-color-leak)
  - [WWE went big on AR at WrestleMania 40](https://www.theverge.com/2024/4/8/24123813/wwe-wrestlemania-40-augmented-reality-ar-interview)
+ - [This Arlo Esssential Wi-Fi Smart Video Doorbell Costs Just $40 Today Only     - CNET](https://www.cnet.com/deals/this-arlo-esssential-wi-fi-smart-video-doorbell-costs-just-40-today-only/#ftag=CAD590a51e)
  - [A look at the Amazon Labor Union, two years after its victory at an NYC facility, as the group is divided, running out of funds, and faces a leadership election &lpar;Haleluya Hadero/Associated Press&rpar;](http://www.techmeme.com/240408/p25#a240408p25)
- - [The total eclipse shows us how important solar energy is to the US](https://www.theverge.com/2024/4/8/24124189/solar-eclipse-renewable-energy-panels-electricity-grid)
- - [Retro&#39;s back: the best wrap-around game controllers for your iPhone](https://appleinsider.com/inside/iphone/best/retros-back-the-best-wrap-around-game-controllers-for-your-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [It&#39;s Allergy Season: Here&#39;s Where to Put Your Air Purifier     - CNET](https://www.cnet.com/home/kitchen-and-household/its-allergy-season-heres-where-to-put-your-air-purifier/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

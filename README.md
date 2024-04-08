@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Men will be men](http://9gag.com/gag/aVvzDzO)
- - 😝 [He should have ended with. Hey son. Isn\u2019t that the girl you have a crush on?](http://9gag.com/gag/aD2A3nx)
- - 💣 [Nice](http://9gag.com/gag/an7q1GB)
- - 😝 [2009 World Series Poker Europe](http://9gag.com/gag/avypnGM)
- - 👉 [Fact](http://9gag.com/gag/aE0vzLo)<!-- MEMES:END -->
+ - 😝 [John Williams tricks you with the beautiful music](http://9gag.com/gag/aXP0pbd)
+ - 😝 [Dutch Police version of `yes mom, I need the 4090ti for my homework`](http://9gag.com/gag/an7qKx0)
+ - 💣 [Puppy eating an egg](http://9gag.com/gag/aW4QO3Z)
+ - 😝 [This movie just got scarier](http://9gag.com/gag/an7q1eo)
+ - 👉 [The Pinky Guard by Luke Humphris](http://9gag.com/gag/agm3vW1)<!-- MEMES:END -->
 
 ---
 

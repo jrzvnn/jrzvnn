@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [14 Best Deals From the Target Circle Week Deals Event &lpar;2024&rpar;](https://www.wired.com/story/target-circle-week-deals-april-2024/)
  - [The Supercut app brings good Netflix to the Vision Pro](https://www.theverge.com/2024/4/8/24124534/supercut-netflix-vision-pro-app-4k-dolby-atmos-vision-visionos)
  - [Filing: Tesla settles a lawsuit over Apple engineer Walter Huang&#39;s 2018 fatal Autopilot crash a day before the trial was set to begin; details are not disclosed &lpar;Trisha Thadani/Washington Post&rpar;](http://www.techmeme.com/240408/p30#a240408p30)
  - [Google rebrands Studio Bot, its AI-powered app development chatbot for Android Studio, to &quot;Gemini in Android Studio&quot;, and upgrades its model to Gemini 1.0 Pro &lpar;Kyle Bradshaw/9to5Google&rpar;](http://www.techmeme.com/240408/p29#a240408p29)
- - [What Do Your Strange Dreams Mean?     - CNET](https://www.cnet.com/health/sleep/what-do-your-strange-dreams-mean/#ftag=CAD590a51e)
- - [Six-Word Sci-Fi: Stories Written by You](https://www.wired.com/story/six-word-sci-fi/)<!-- TECH:END -->
+ - [What Do Your Strange Dreams Mean?     - CNET](https://www.cnet.com/health/sleep/what-do-your-strange-dreams-mean/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

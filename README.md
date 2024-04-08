@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The reality of our parents and grandparents is far different from ours.](http://9gag.com/gag/aVvzQ3n)
- - 😝 [Ok hear me out:](http://9gag.com/gag/aKGwPqW)
- - 💣 [Hahahaha](http://9gag.com/gag/an7qXNB)
- - 😝 [That first week with a brand new game.](http://9gag.com/gag/aA0WoWE)
- - 👉 [&lpar;Palatine voice&rpar; DO IT!](http://9gag.com/gag/aQzP4bz)<!-- MEMES:END -->
+ - 😝 [An Unusual Design of Escalator](http://9gag.com/gag/a6ZmL1e)
+ - 😝 [Hey](http://9gag.com/gag/aO8KmAN)
+ - 💣 [Goodbye, peaceful, clean, respectful and low-crime Japan](http://9gag.com/gag/aXP0p7P)
+ - 😝 [Wow !](http://9gag.com/gag/aYQNpPN)
+ - 👉 [Good guy](http://9gag.com/gag/ajPY0wR)<!-- MEMES:END -->
 
 ---
 

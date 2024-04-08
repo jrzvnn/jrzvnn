@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An adult version of scented markers exists… as thermal paste](https://www.theverge.com/2024/4/8/24124323/clock-work-tea-party-scented-thermal-paste)
  - [IDC: the PC market grew 1.5% YoY in Q1 with 59.8M shipments, despite weaker demand in China, following two years of decline &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/240408/p26#a240408p26)
  - [Google’s Nest Secure is shutting down today — and you’ve got options besides ADT](https://www.theverge.com/2024/4/8/24124244/google-nest-secure-security-system-shut-down-alternatives)
  - [Nothing’s next set of earbuds might include a Playdate-inspired glow-up](https://www.theverge.com/2024/4/8/24124366/nothing-ear-a-wireless-earbuds-playdate-yellow-color-leak)
- - [WWE went big on AR at WrestleMania 40](https://www.theverge.com/2024/4/8/24123813/wwe-wrestlemania-40-augmented-reality-ar-interview)
- - [This Arlo Esssential Wi-Fi Smart Video Doorbell Costs Just $40 Today Only     - CNET](https://www.cnet.com/deals/this-arlo-esssential-wi-fi-smart-video-doorbell-costs-just-40-today-only/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [WWE went big on AR at WrestleMania 40](https://www.theverge.com/2024/4/8/24123813/wwe-wrestlemania-40-augmented-reality-ar-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google rebrands Studio Bot, its AI-powered app development chatbot for Android Studio, to &quot;Gemini in Android Studio&quot;, and upgrades its model to Gemini 1.0 Pro &lpar;Kyle Bradshaw/9to5Google&rpar;](http://www.techmeme.com/240408/p29#a240408p29)
+ - [Six-Word Sci-Fi: Stories Written by You](https://www.wired.com/story/six-word-sci-fi/)
+ - [Sennheiser’s new fitness buds do heart rate tracking right](https://www.theverge.com/24122324/sennheiser-momentum-sport-earbuds-review)
  - [TikTok is getting closer to launching an Instagram rival](https://www.theverge.com/2024/4/8/24124595/tiktok-notes-instagram-rival-app-launch)
- - [Model N, a public company focusing on helping health companies automate pricing and compliance decisions, is being acquired by Vista Equity Partners for $1.25B &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240408/p28#a240408p28)
- - [The Best Total Solar Eclipse Photos &lpar;2024&rpar;](https://www.wired.com/story/total-solar-eclipse-best-photos/)
- - [We now have a better look at what’s inside the Humane AI pin](https://www.theverge.com/2024/4/8/24124419/humane-ai-pin-processor-snapdragon-qualcomm-fcc)
- - [TikTok expands TikTok Lite, which gives people financial incentives to watch its videos, to Spain and France, amid growth struggles in Europe &lpar;Kaya Yurieff/The Information&rpar;](http://www.techmeme.com/240408/p27#a240408p27)<!-- TECH:END -->
+ - [Tessan Plug Adapter     - CNET](https://www.cnet.com/tech/mobile/tessan-plug-adaptera-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

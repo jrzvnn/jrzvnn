@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Supercut app brings good Netflix to the Vision Pro](https://www.theverge.com/2024/4/8/24124534/supercut-netflix-vision-pro-app-4k-dolby-atmos-vision-visionos)
+ - [Filing: Tesla settles a lawsuit over Apple engineer Walter Huang&#39;s 2018 fatal Autopilot crash a day before the trial was set to begin; details are not disclosed &lpar;Trisha Thadani/Washington Post&rpar;](http://www.techmeme.com/240408/p30#a240408p30)
  - [Google rebrands Studio Bot, its AI-powered app development chatbot for Android Studio, to &quot;Gemini in Android Studio&quot;, and upgrades its model to Gemini 1.0 Pro &lpar;Kyle Bradshaw/9to5Google&rpar;](http://www.techmeme.com/240408/p29#a240408p29)
- - [Six-Word Sci-Fi: Stories Written by You](https://www.wired.com/story/six-word-sci-fi/)
- - [Sennheiser’s new fitness buds do heart rate tracking right](https://www.theverge.com/24122324/sennheiser-momentum-sport-earbuds-review)
- - [TikTok is getting closer to launching an Instagram rival](https://www.theverge.com/2024/4/8/24124595/tiktok-notes-instagram-rival-app-launch)
- - [Tessan Plug Adapter     - CNET](https://www.cnet.com/tech/mobile/tessan-plug-adaptera-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What Do Your Strange Dreams Mean?     - CNET](https://www.cnet.com/health/sleep/what-do-your-strange-dreams-mean/#ftag=CAD590a51e)
+ - [Six-Word Sci-Fi: Stories Written by You](https://www.wired.com/story/six-word-sci-fi/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

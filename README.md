@@ -170,7 +170,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [I can’t recommend this Animal Crossing Switch Lite bundle enough](https://www.theverge.com/2024/4/8/24124212/animal-crossing-switch-lite-deal-walmart)
  - [Welcome to the wasteland: all the news on Amazon’s Fallout TV series](https://www.theverge.com/24124222/fallout-tv-series-amazon-prime-video-news-trailers)
  - [A farewell to Wii U and Nintendo 3DS online services](https://www.theverge.com/2024/4/8/24124192/nintendo-wii-u-3ds-online-services-discontinued-eulogy)
- - [Amateur performers embrace VR porn on Apple Vision Pro](https://appleinsider.com/articles/24/04/08/amateur-performers-embrace-vr-porn-on-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Last-Minute Solar Eclipse Glasses: Here&#39;s How to Find a Pair     - CNET](https://www.cnet.com/health/personal-care/last-minute-solar-eclipse-glasses-heres-how-to-find-a-pair/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

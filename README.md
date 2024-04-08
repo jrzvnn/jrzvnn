@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Device that prevents lines from getting entangled in props](http://9gag.com/gag/aD2Aoyd)
- - 😝 [Finally a Government with their brain intact](http://9gag.com/gag/a6Zm7mm)
- - 💣 [There we go again...](http://9gag.com/gag/a6Zmy2q)
- - 😝 [Hahahaha](http://9gag.com/gag/an7qXNB)
- - 👉 [Hey](http://9gag.com/gag/aO8KmAN)<!-- MEMES:END -->
+ - 😝 [Zendaya isn&#39;t so bad now, is she?](http://9gag.com/gag/aNDrodA)
+ - 😝 [Hey](http://9gag.com/gag/aO8KmAN)
+ - 💣 [Let me guess, he\u2019s an Uncle Tom, right?](http://9gag.com/gag/amoNLvo)
+ - 😝 [Well that&#39;s new!!!](http://9gag.com/gag/awy0br8)
+ - 👉 [Dress code doesn&#39;t matter when you&#39;re a billionaire](http://9gag.com/gag/apREqwE)<!-- MEMES:END -->
 
 ---
 

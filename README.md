@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok expands TikTok Lite, which gives people financial incentives to watch its videos, to Spain and France, amid growth struggles in Europe &lpar;Kaya Yurieff/The Information&rpar;](http://www.techmeme.com/240408/p27#a240408p27)
  - [An adult version of scented markers exists… as thermal paste](https://www.theverge.com/2024/4/8/24124323/clock-work-tea-party-scented-thermal-paste)
  - [IDC: the PC market grew 1.5% YoY in Q1 with 59.8M shipments, despite weaker demand in China, following two years of decline &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/240408/p26#a240408p26)
- - [Google’s Nest Secure is shutting down today — and you’ve got options besides ADT](https://www.theverge.com/2024/4/8/24124244/google-nest-secure-security-system-shut-down-alternatives)
- - [Nothing’s next set of earbuds might include a Playdate-inspired glow-up](https://www.theverge.com/2024/4/8/24124366/nothing-ear-a-wireless-earbuds-playdate-yellow-color-leak)
- - [WWE went big on AR at WrestleMania 40](https://www.theverge.com/2024/4/8/24123813/wwe-wrestlemania-40-augmented-reality-ar-interview)<!-- TECH:END -->
+ - [Roborock Q5 Pro     - CNET](https://www.cnet.com/home/kitchen-and-household/roborock-q5-pro-dpnl/#ftag=CAD590a51e)
+ - [Google’s Nest Secure is shutting down today — and you’ve got options besides ADT](https://www.theverge.com/2024/4/8/24124244/google-nest-secure-security-system-shut-down-alternatives)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

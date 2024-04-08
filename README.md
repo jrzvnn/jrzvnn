@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Model N, a public company focusing on helping health companies automate pricing and compliance decisions, is being acquired by Vista Equity Partners for $1.25B &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240408/p28#a240408p28)
+ - [The Best Total Solar Eclipse Photos &lpar;2024&rpar;](https://www.wired.com/story/total-solar-eclipse-best-photos/)
  - [We now have a better look at what’s inside the Humane AI pin](https://www.theverge.com/2024/4/8/24124419/humane-ai-pin-processor-snapdragon-qualcomm-fcc)
  - [TikTok expands TikTok Lite, which gives people financial incentives to watch its videos, to Spain and France, amid growth struggles in Europe &lpar;Kaya Yurieff/The Information&rpar;](http://www.techmeme.com/240408/p27#a240408p27)
- - [An adult version of scented markers exists… as thermal paste](https://www.theverge.com/2024/4/8/24124323/clock-work-tea-party-scented-thermal-paste)
- - [IDC: the PC market grew 1.5% YoY in Q1 with 59.8M shipments, despite weaker demand in China, following two years of decline &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/240408/p26#a240408p26)
- - [Roborock Q5 Pro     - CNET](https://www.cnet.com/home/kitchen-and-household/roborock-q5-pro-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An adult version of scented markers exists… as thermal paste](https://www.theverge.com/2024/4/8/24124323/clock-work-tea-party-scented-thermal-paste)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sounded like motorcycle](http://9gag.com/gag/aByRYvQ)
- - 😝 [We&#39;ll never see a 4-day work week...](http://9gag.com/gag/aGyYxLG)
- - 💣 [Over a million lives in every bite!](http://9gag.com/gag/a1mvMN8)
- - 😝 [Who made this is a king.](http://9gag.com/gag/agm3Nzg)
- - 👉 [Luckiest generation in history of the world](http://9gag.com/gag/amoNz8V)<!-- MEMES:END -->
+ - 😝 [He loves his squishy ball](http://9gag.com/gag/aqy9LpP)
+ - 😝 [Cat rescue from flooded house](http://9gag.com/gag/aAyRr9E)
+ - 💣 [Legend](http://9gag.com/gag/aAyRpWd)
+ - 😝 [Well they identify as berries.](http://9gag.com/gag/an7q1ro)
+ - 👉 [Relateble When Lost Screw in PC Case](http://9gag.com/gag/axydjzb)<!-- MEMES:END -->
 
 ---
 

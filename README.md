@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [An Unusual Design of Escalator](http://9gag.com/gag/a6ZmL1e)
- - 😝 [Hahahaha](http://9gag.com/gag/an7qXNB)
- - 💣 [Buy a good pair of slippers next time.](http://9gag.com/gag/aW4QOQd)
- - 😝 [Hey](http://9gag.com/gag/aO8KmAN)
- - 👉 [Brave British Woman Speaks Up Against The Failed Mass Immigration In The UK.](http://9gag.com/gag/a9ybdQ6)<!-- MEMES:END -->
+ - 😝 [Bro is seeing something we don&#39;t](http://9gag.com/gag/aXP0pBg)
+ - 😝 [Who recognizes this meme location?](http://9gag.com/gag/aRBwg5j)
+ - 💣 [Well that&#39;s new!!!](http://9gag.com/gag/awy0br8)
+ - 😝 [Good guy](http://9gag.com/gag/ajPY0wR)
+ - 👉 [There&#39;s always an asian better than you](http://9gag.com/gag/aXP0E59)<!-- MEMES:END -->
 
 ---
 

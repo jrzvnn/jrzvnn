@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Glad to see society taking the right steps to stop this madness](http://9gag.com/gag/awy0rxD)
- - 😝 [What did he do?](http://9gag.com/gag/aVvzW4y)
- - 💣 [Susan Storm is trolling. Artist - Thirstastic1](http://9gag.com/gag/a9ybd9W)
- - 😝 [Honestly](http://9gag.com/gag/aGyYRO0)
- - 👉 [Good guy](http://9gag.com/gag/ajPY0wR)<!-- MEMES:END -->
+ - 😝 [Hey](http://9gag.com/gag/aO8KmAN)
+ - 😝 [That accent](http://9gag.com/gag/aAyRY2E)
+ - 💣 [There we go again...](http://9gag.com/gag/a6Zmy2q)
+ - 😝 [Repost deluxe](http://9gag.com/gag/amoNXoy)
+ - 👉 [Zendaya isn&#39;t so bad now, is she?](http://9gag.com/gag/aNDrodA)<!-- MEMES:END -->
 
 ---
 

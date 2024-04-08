@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dude](http://9gag.com/gag/aRBwV72)
- - 😝 [Ontario, Canada.](http://9gag.com/gag/a87LMrV)
- - 💣 [Summer Lemonade, My oil painting](http://9gag.com/gag/ae9jGAO)
- - 😝 [2009 World Series Poker Europe](http://9gag.com/gag/avypnGM)
- - 👉 [He&#39;s totally in the character...](http://9gag.com/gag/aLnR2xV)<!-- MEMES:END -->
+ - 😝 [Boeing engine cover rips apart during takeoff this morning. Yep, it&#39;s another 737.](http://9gag.com/gag/aD2AozZ)
+ - 😝 [Wow !](http://9gag.com/gag/aYQNpPN)
+ - 💣 [Device that prevents lines from getting entangled in props](http://9gag.com/gag/aD2Aoyd)
+ - 😝 [Having a good time this weekend](http://9gag.com/gag/a87Lbp6)
+ - 👉 [There&#39;s a reason the one that made it was called Apollo 11. They had to completely redesign from scratch over and over, and change all their working practices to prioritise, above all, the safety of the pilots.](http://9gag.com/gag/ae9jpBq)<!-- MEMES:END -->
 
 ---
 

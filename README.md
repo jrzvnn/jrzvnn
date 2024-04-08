@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So far away -](http://9gag.com/gag/aYQNwr0)
- - 😝 [Walking Dead Lake Edition](http://9gag.com/gag/a4PKLxp)
- - 💣 [Who recognizes this meme location?](http://9gag.com/gag/aRBwg5j)
- - 😝 [Favorite](http://9gag.com/gag/a4PKj4d)
- - 👉 [Dont muck around with squid ink](http://9gag.com/gag/a5QeKrO)<!-- MEMES:END -->
+ - 😝 [Hard to keep arguing then](http://9gag.com/gag/a9ybWAK)
+ - 😝 [A very thoughtful and kind gesture](http://9gag.com/gag/awy07LD)
+ - 💣 [Dont muck around with squid ink](http://9gag.com/gag/a5QeKrO)
+ - 😝 [Be fast cause they are furious!](http://9gag.com/gag/a34P7Rv)
+ - 👉 [Fact](http://9gag.com/gag/aE0vzLo)<!-- MEMES:END -->
 
 ---
 

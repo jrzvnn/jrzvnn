@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hard to keep arguing then](http://9gag.com/gag/a9ybWAK)
- - 😝 [A very thoughtful and kind gesture](http://9gag.com/gag/awy07LD)
- - 💣 [Dont muck around with squid ink](http://9gag.com/gag/a5QeKrO)
- - 😝 [Be fast cause they are furious!](http://9gag.com/gag/a34P7Rv)
- - 👉 [Fact](http://9gag.com/gag/aE0vzLo)<!-- MEMES:END -->
+ - 😝 [Nice](http://9gag.com/gag/an7q1GB)
+ - 😝 [A simple act of kindness](http://9gag.com/gag/apRELV8)
+ - 💣 [You have my pen](http://9gag.com/gag/ajPYDP8)
+ - 😝 [Watch Joe Rogan change his opinion in real time when presented with a different perspective &lpar;with facts to back it up&rpar;](http://9gag.com/gag/aVvze9d)
+ - 👉 [Posting images of good looking black chicks to prove they actively cast ugliest possible b*tches until I get bored or banned.](http://9gag.com/gag/aW4QMm6)<!-- MEMES:END -->
 
 ---
 

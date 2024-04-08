@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Zendaya isn&#39;t so bad now, is she?](http://9gag.com/gag/aNDrodA)
- - 😝 [I guess she forgot who she was talking to...](http://9gag.com/gag/ajPYDAp)
- - 💣 [I could look it up, but I prefer asking you fellow nutjobs what you think about it.](http://9gag.com/gag/apRE0mW)
- - 😝 [Wow !](http://9gag.com/gag/aYQNpPN)
- - 👉 [Good guy](http://9gag.com/gag/ajPY0wR)<!-- MEMES:END -->
+ - 😝 [Thats not a child thats a man and its sad. Bro deserves to be a kid.](http://9gag.com/gag/aKGw3Bg)
+ - 😝 [Honestly](http://9gag.com/gag/aGyYRO0)
+ - 💣 [I guess she forgot who she was talking to...](http://9gag.com/gag/ajPYDAp)
+ - 😝 [2009 World Series Poker Europe](http://9gag.com/gag/avypnGM)
+ - 👉 [Mexico filter coming to western europe again](http://9gag.com/gag/aAyRp0d)<!-- MEMES:END -->
 
 ---
 

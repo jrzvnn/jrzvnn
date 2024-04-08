@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wow !](http://9gag.com/gag/aYQNpPN)
- - 😝 [Japanese people never fails to entertain you.](http://9gag.com/gag/a5Qe7xg)
- - 💣 [I could look it up, but I prefer asking you fellow nutjobs what you think about it.](http://9gag.com/gag/apRE0mW)
- - 😝 [He&#39;s totally in the character...](http://9gag.com/gag/aLnR2xV)
- - 👉 [An Unusual Design of Escalator](http://9gag.com/gag/a6ZmL1e)<!-- MEMES:END -->
+ - 😝 [Finally a Government with their brain intact](http://9gag.com/gag/a6Zm7mm)
+ - 😝 [Honestly](http://9gag.com/gag/aGyYRO0)
+ - 💣 [Clearly he&#39;s never been to a waffle house](http://9gag.com/gag/an7qNVL)
+ - 😝 [There we go again...](http://9gag.com/gag/a6Zmy2q)
+ - 👉 [Good guy](http://9gag.com/gag/ajPY0wR)<!-- MEMES:END -->
 
 ---
 

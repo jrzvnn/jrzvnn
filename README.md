@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [We now have a better look at what’s inside the Humane AI pin](https://www.theverge.com/2024/4/8/24124419/humane-ai-pin-processor-snapdragon-qualcomm-fcc)
  - [TikTok expands TikTok Lite, which gives people financial incentives to watch its videos, to Spain and France, amid growth struggles in Europe &lpar;Kaya Yurieff/The Information&rpar;](http://www.techmeme.com/240408/p27#a240408p27)
- - [QVC&#39;s Discovery Days Event Unleashes a Ton of Incredible Deals     - CNET](https://www.cnet.com/deals/qvcs-discovery-days-event-unleashes-a-ton-of-incredible-deals/#ftag=CAD590a51e)
- - [TP-Link Deco 6 Mesh System     - CNET](https://www.cnet.com/home/internet/tp-link-deco-6-mesh-system-dpnl/#ftag=CAD590a51e)
- - [Best Universal Remote for 2024     - CNET](https://www.cnet.com/tech/home-entertainment/best-universal-remote/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An adult version of scented markers exists… as thermal paste](https://www.theverge.com/2024/4/8/24124323/clock-work-tea-party-scented-thermal-paste)
+ - [IDC: the PC market grew 1.5% YoY in Q1 with 59.8M shipments, despite weaker demand in China, following two years of decline &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/240408/p26#a240408p26)
+ - [Roborock Q5 Pro     - CNET](https://www.cnet.com/home/kitchen-and-household/roborock-q5-pro-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

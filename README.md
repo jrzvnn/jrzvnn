@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [ChooseYourSetup](http://9gag.com/gag/aNDrnmA)
- - 😝 [Watch Joe Rogan change his opinion in real time when presented with a different perspective &lpar;with facts to back it up&rpar;](http://9gag.com/gag/aVvze9d)
- - 💣 [2009 World Series Poker Europe](http://9gag.com/gag/avypnGM)
- - 😝 [Favorite](http://9gag.com/gag/a4PKj4d)
- - 👉 [Nice](http://9gag.com/gag/an7q1GB)<!-- MEMES:END -->
+ - 😝 [A meme for every line in LotR: day 459](http://9gag.com/gag/a1mvMXY)
+ - 😝 [Half life speed run](http://9gag.com/gag/aW4QOjx)
+ - 💣 [Don\u2019t laugh](http://9gag.com/gag/a9ybLB6)
+ - 😝 [This might be a crime](http://9gag.com/gag/aoyE0Yg)
+ - 👉 [`This is your kid.` Playground safety expert](http://9gag.com/gag/avypLgb)<!-- MEMES:END -->
 
 ---
 

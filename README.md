@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Everything you need to know about the upcoming solar eclipse](https://www.theverge.com/2024/4/1/24117848/total-solar-eclipse-north-america-april-how-to-watch)
+ - [Filing: Denver-based digital marketing company Ibotta prices its 2.5M IPO shares at $76-$84 each, seeking to raise $472.5M; Ibotta had a $1B valuation in 2019 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240408/p15#a240408p15)
+ - [VPN Protocols Explained: What They are and Which to Use     - CNET](https://www.cnet.com/tech/services-and-software/vpn-protocols-explained-what-they-are-and-which-to-use/#ftag=CAD590a51e)
  - [PitchBook: VC investment in crypto startups rose 32% QoQ to $2.5B in Q1 2024, down from $2.6B in Q1 2023, after a brutal year for crypto and blockchain startups &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/240408/p14#a240408p14)
- - [KitchenAid Semi Automatic Espresso Machine Review: Quiet and Compact](https://www.wired.com/review/kitchenaid-semi-automatic-espresso-machine/)
- - [How to remove personal information from the internet -- and why you should](https://appleinsider.com/articles/24/04/08/how-to-remove-personal-information-from-the-internet?utm_medium=rss)
- - [Internal Kremlin documents from May 2022 to August 2023 show an ongoing campaign to promote American isolationism via fabricated news articles and social media &lpar;Washington Post&rpar;](http://www.techmeme.com/240408/p13#a240408p13)
- - [AI Scam Calls: How to Protect Yourself, How to Detect](https://www.wired.com/story/how-to-protect-yourself-ai-scam-calls-detect/)<!-- TECH:END -->
+ - [5-ish Things on AI: Tech Giants to Pay for AI Upskilling, Meta Adding More Labels to AI Content     - CNET](https://www.cnet.com/tech/computing/5-ish-things-on-ai-tech-giants-to-pay-for-ai-upskilling-meta-adding-more-labels-to-ai-content/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

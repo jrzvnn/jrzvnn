@@ -168,7 +168,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Docs: after months of staffers sniping about the war in Gaza, Google is tweaking its internal message board Memegen, removing &quot;thumbs down&quot;, post metrics, more &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/240408/p24#a240408p24)
  - [Google debuts its Find My Device network in the US and Canada, initially to find Android phones and tablets; support for 3rd-party tracker tags is coming in May &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240408/p23#a240408p23)
- - [Sources: Microsoft is confident upcoming Windows laptops using Qualcomm&#39;s Snapdragon X Elite chips will beat an M3-powered MacBook Air in CPU and AI performance &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240408/p22#a240408p22)
+ - [Sources: Microsoft is confident upcoming Windows laptops with Qualcomm&#39;s Snapdragon X Elite chips will beat an M3-powered MacBook Air in CPU and AI performance &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240408/p22#a240408p22)
  - [Lawmakers unveil new bipartisan digital privacy bill after years of impasse](https://www.theverge.com/2024/4/8/24124143/lawmakers-unveil-bipartisan-comprehensive-digital-american-privacy-rights-act-bill)
  - [Microsoft says it’s cracked the code on an important quantum computing problem](https://www.theverge.com/2024/4/8/24120103/microsoft-says-its-cracked-the-code-on-an-important-quantum-computing-problem)<!-- TECH:END -->
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Puzzle composed of different animal shapes](http://9gag.com/gag/aNDrn54)
- - 😝 [What was 9gag&#39;s motto again?](http://9gag.com/gag/agm3VYn)
- - 💣 [Dont muck around with squid ink](http://9gag.com/gag/a5QeKrO)
- - 😝 [Torque saves lives!](http://9gag.com/gag/aXP09Eg)
- - 👉 [What did he do?](http://9gag.com/gag/aVvzW4y)<!-- MEMES:END -->
+ - 😝 [Honestly](http://9gag.com/gag/aGyYRO0)
+ - 😝 [There&#39;s always an asian better than you](http://9gag.com/gag/aXP0E59)
+ - 💣 [Good guy](http://9gag.com/gag/ajPY0wR)
+ - 😝 [Ragequit](http://9gag.com/gag/aZZbPn6)
+ - 👉 [Hey](http://9gag.com/gag/aO8KmAN)<!-- MEMES:END -->
 
 ---
 

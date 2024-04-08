@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Actually...](http://9gag.com/gag/abAXqMv)
- - 😝 [Hahahaha](http://9gag.com/gag/an7qXNB)
- - 💣 [Not every leap in technology is considered an advancement.](http://9gag.com/gag/avypZAX)
- - 😝 [Dress code doesn&#39;t matter when you&#39;re a billionaire](http://9gag.com/gag/apREqwE)
- - 👉 [Ragequit](http://9gag.com/gag/aZZbPn6)<!-- MEMES:END -->
+ - 😝 [That accent](http://9gag.com/gag/aAyRY2E)
+ - 😝 [Legit question: Is it because they haven&#39;t done anything significant that they want recognition?](http://9gag.com/gag/aqy92qY)
+ - 💣 [Glad to see society taking the right steps to stop this madness](http://9gag.com/gag/awy0rxD)
+ - 😝 [Hey](http://9gag.com/gag/aO8KmAN)
+ - 👉 [Honestly](http://9gag.com/gag/aGyYRO0)<!-- MEMES:END -->
 
 ---
 

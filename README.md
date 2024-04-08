@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Internet Archive Just Backed Up an Entire Caribbean Island](https://www.wired.com/story/internet-archive-backed-up-aruba-caribbean-island/)
  - [Cybertech Global and IVC: in 2023, Israeli cybersecurity exit deals grew by 65% YoY to $7.1B; total tech sector exits were ~$11B, down from $13.5B in 2022 &lpar;Steven Scheer/Reuters&rpar;](http://www.techmeme.com/240408/p5#a240408p5)
  - [Solar Eclipse Eye Protection: How to Tell If Your Glasses Are Safe or Fake Today     - CNET](https://www.cnet.com/health/personal-care/solar-eclipse-eye-protection-how-to-tell-if-your-glasses-are-safe-or-fake-today/#ftag=CAD590a51e)
  - [Review: BYD Atto 3](https://www.wired.com/review/review-byd-atto-3/)
- - [How company websites using unreliable AI accessibility widgets, often for blind users, to comply with regulations has prompted thousands of lawsuits globally &lpar;Joanna S Kao/Financial Times&rpar;](http://www.techmeme.com/240408/p4#a240408p4)
- - [Spotify launches AI Playlist in beta for its Premium users in the UK and Australia, letting users generate playlists using a text prompt &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240408/p3#a240408p3)<!-- TECH:END -->
+ - [How company websites using unreliable AI accessibility widgets, often for blind users, to comply with regulations has prompted thousands of lawsuits globally &lpar;Joanna S Kao/Financial Times&rpar;](http://www.techmeme.com/240408/p4#a240408p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

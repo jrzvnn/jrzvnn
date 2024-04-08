@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There we go again...](http://9gag.com/gag/a6Zmy2q)
- - 😝 [I sometimes wonder if the Western world is going to be somewhat normal again.](http://9gag.com/gag/a7oLy4w)
- - 💣 [Repost deluxe](http://9gag.com/gag/amoNXoy)
- - 😝 [Who recognizes this meme location?](http://9gag.com/gag/aRBwg5j)
- - 👉 [Former Miss Wyoming winner Joyce McKinney being arrested by police after kidnapping Mormon missionary Kirk Anderson from his church, forcing him to be her sex slave for 3 days. 1977](http://9gag.com/gag/aqy9NpZ)<!-- MEMES:END -->
+ - 😝 [Wow !](http://9gag.com/gag/aYQNpPN)
+ - 😝 [Japanese people never fails to entertain you.](http://9gag.com/gag/a5Qe7xg)
+ - 💣 [I could look it up, but I prefer asking you fellow nutjobs what you think about it.](http://9gag.com/gag/apRE0mW)
+ - 😝 [He&#39;s totally in the character...](http://9gag.com/gag/aLnR2xV)
+ - 👉 [An Unusual Design of Escalator](http://9gag.com/gag/a6ZmL1e)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Review: BYD Atto 3](https://www.wired.com/review/review-byd-atto-3/)
  - [How the increasing use of unreliable AI-powered accessibility widgets on company websites to comply with regulations has prompted thousands of lawsuits globally &lpar;Joanna S Kao/Financial Times&rpar;](http://www.techmeme.com/240408/p4#a240408p4)
  - [Spotify launches AI Playlist in beta for its Premium users in the UK and Australia, letting users generate playlists using a text prompt &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240408/p3#a240408p3)
  - [A look at Towa Corp., which TechInsights says commands two-thirds of the global chip molding equipment market and has seen shares jump ~400% in the past year &lpar;Bloomberg&rpar;](http://www.techmeme.com/240408/p2#a240408p2)
- - [Maryland&#39;s legislature passed two privacy bills, one restricting data collection practices and the other focused on minors&#39; safety on social platforms &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/240408/p1#a240408p1)
- - [Solar Eclipse Eye Safety: How to Protect Your Eyes When Viewing Nature&#39;s Wonder     - CNET](https://www.cnet.com/health/personal-care/solar-eclipse-eye-safety-why-you-need-to-wear-the-right-glasses/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Maryland&#39;s legislature passed two privacy bills, one restricting data collection practices and the other focused on minors&#39; safety on social platforms &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/240408/p1#a240408p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

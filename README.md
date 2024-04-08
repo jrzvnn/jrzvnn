@@ -166,8 +166,8 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Buy hops on $849 M2 MacBook Air bandwagon with latest deal](https://appleinsider.com/articles/24/04/08/best-buy-hops-on-849-m2-macbook-air-bandwagon-with-latest-deal?utm_medium=rss)
  - [Astoundingly unsafe iMessage bridge Sunbird is back, and you still shouldn&#39;t use it](https://appleinsider.com/articles/24/04/08/astoundingly-unsafe-imessage-bridge-sunbird-is-back-and-you-still-shouldnt-use-it?utm_medium=rss)
+ - [Best Buy hops on $849 M2 MacBook Air bandwagon with latest deal](https://appleinsider.com/articles/24/04/08/best-buy-hops-on-849-m2-macbook-air-bandwagon-with-latest-deal?utm_medium=rss)
  - [Elon Musk and Brazil are beefing over X](https://www.theverge.com/2024/4/8/24124156/brazil-investigates-elon-musk-x-twitter-obstruction-of-justice)
  - [6 Best MagSafe Power Banks for iPhones &lpar;2024&rpar;: High Capacity, Slim, Kickstands](https://www.wired.com/gallery/best-magsafe-power-banks/)
  - [A new bill would try to make tools like Zoom and Teams work together securely](https://www.theverge.com/2024/4/8/24119268/wyden-secure-interoperable-goverment-collaboration-technology-act-encryption)<!-- TECH:END -->

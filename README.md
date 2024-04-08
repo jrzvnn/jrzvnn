@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You have my pen](http://9gag.com/gag/ajPYDP8)
- - 😝 [Dude](http://9gag.com/gag/aRBwV72)
- - 💣 [Hey](http://9gag.com/gag/aO8KmAN)
- - 😝 [Honestly](http://9gag.com/gag/aGyYRO0)
- - 👉 [What can go wrong filming a group of sharks?](http://9gag.com/gag/aRBwePq)<!-- MEMES:END -->
+ - 😝 [I could look it up, but I prefer asking you fellow nutjobs what you think about it.](http://9gag.com/gag/apRE0mW)
+ - 😝 [Favorite](http://9gag.com/gag/a4PKj4d)
+ - 💣 [Japanese people never fails to entertain you.](http://9gag.com/gag/a5Qe7xg)
+ - 😝 [Wow !](http://9gag.com/gag/aYQNpPN)
+ - 👉 [Nice](http://9gag.com/gag/an7q1GB)<!-- MEMES:END -->
 
 ---
 

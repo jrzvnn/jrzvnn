@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s privacy rules are stifling Apple Vision Pro apps, for now](https://appleinsider.com/articles/24/04/08/apples-privacy-rules-are-stifling-apple-vision-pro-apps-for-now?utm_medium=rss)
- - [Nielsen data from 2021 to 2023: nine of the ten most-watched streaming programs are reruns, but a majority of the 100 most popular titles are original series &lpar;Bloomberg&rpar;](http://www.techmeme.com/240408/p21#a240408p21)
- - [I can’t recommend this Animal Crossing Switch Lite bundle enough](https://www.theverge.com/2024/4/8/24124212/animal-crossing-switch-lite-deal-walmart)
- - [Welcome to the wasteland: all the news on Amazon’s Fallout TV series](https://www.theverge.com/24124222/fallout-tv-series-amazon-prime-video-news-trailers)
- - [A farewell to Wii U and Nintendo 3DS online services](https://www.theverge.com/2024/4/8/24124192/nintendo-wii-u-3ds-online-services-discontinued-eulogy)<!-- TECH:END -->
+ - [Microsoft says it’s cracked the code on an important quantum computing problem](https://www.theverge.com/2024/4/8/24120103/microsoft-says-its-cracked-the-code-on-an-important-quantum-computing-problem)
+ - [Android’s upgraded Find My Device network is here](https://www.theverge.com/2024/4/8/24124174/android-find-my-device-network-offline-tracker-tag-chipolo-pebblebee)
+ - [Google’s Pixel 8 and 8 Pro can now be located even with a dead battery](https://www.theverge.com/2024/4/8/24123909/google-pixel-8-pro-offline-dead-battery-location-finding)
+ - [Microsoft is confident Windows on Arm could finally beat Apple](https://www.theverge.com/2024/4/8/24116587/microsoft-macbook-air-surface-arm-qualcomm-snapdragon-x-elite)
+ - [Apple&#39;s privacy rules are stifling Apple Vision Pro apps, for now](https://appleinsider.com/articles/24/04/08/apples-privacy-rules-are-stifling-apple-vision-pro-apps-for-now?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

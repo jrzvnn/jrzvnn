@@ -169,8 +169,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Sources: Microsoft is confident upcoming Windows laptops using Qualcomm&#39;s Snapdragon X Elite chips will beat an M3-powered MacBook Air in CPU and AI performance &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240408/p22#a240408p22)
  - [Lawmakers unveil new bipartisan digital privacy bill after years of impasse](https://www.theverge.com/2024/4/8/24124143/lawmakers-unveil-bipartisan-comprehensive-digital-american-privacy-rights-act-bill)
  - [Microsoft says it’s cracked the code on an important quantum computing problem](https://www.theverge.com/2024/4/8/24120103/microsoft-says-its-cracked-the-code-on-an-important-quantum-computing-problem)
- - [Android’s upgraded Find My Device network is here](https://www.theverge.com/2024/4/8/24124174/android-find-my-device-network-offline-tracker-tag-chipolo-pebblebee)
- - [Google’s Pixel 8 and 8 Pro can now be located even with a dead battery](https://www.theverge.com/2024/4/8/24123909/google-pixel-8-pro-offline-dead-battery-location-finding)<!-- TECH:END -->
+ - [UConn vs. Purdue Livestream: How to Watch the NCAA Championship Tonight     - CNET](https://www.cnet.com/tech/services-and-software/uconn-vs-purdue-livestream-how-to-watch-the-ncaa-championship-tonight/#ftag=CAD590a51e)
+ - [Don&#39;t Miss Out on the Perfect Solar Eclipse Photo: Tips on Taking Pictures Today     - CNET](https://www.cnet.com/science/space/dont-miss-out-on-the-perfect-solar-eclipse-photo-tips-on-taking-pictures-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

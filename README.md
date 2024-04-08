@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Montenegro&#39;s Supreme Court overturns Terraform Labs co-founder Do Kwon&#39;s extradition to South Korea; Kwon&#39;s lawyers had pushed for South Korea over the US &lpar;Vincent Lee/Bloomberg&rpar;](http://www.techmeme.com/240408/p16#a240408p16)
+ - [How to turn off Apple&#39;s Journal &#39;Discoverable by Others&#39; setting that&#39;s enabled by default](https://appleinsider.com/inside/ios-17/tips/how-to-turn-off-apples-journal-discoverable-by-others-setting-thats-enabled-by-default?utm_medium=rss)
  - [Apple TV with a camera is the rumor that will never die](https://appleinsider.com/articles/24/04/08/apple-tv-with-a-camera-is-the-rumor-that-will-never-die?utm_medium=rss)
  - [How to Make Better Coffee at Home &lpar;2024&rpar;: Advice, Recommendations, Tips](https://www.wired.com/story/how-to-make-better-coffee-at-home/)
- - [Everything you need to know about the upcoming solar eclipse](https://www.theverge.com/2024/4/1/24117848/total-solar-eclipse-north-america-april-how-to-watch)
- - [Filing: Denver-based digital marketing company Ibotta prices its 2.5M IPO shares at $76-$84 each, seeking to raise $472.5M; Ibotta had a $1B valuation in 2019 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240408/p15#a240408p15)
- - [VPN Protocols Explained: What They are and Which to Use     - CNET](https://www.cnet.com/tech/services-and-software/vpn-protocols-explained-what-they-are-and-which-to-use/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Everything you need to know about the upcoming solar eclipse](https://www.theverge.com/2024/4/1/24117848/total-solar-eclipse-north-america-april-how-to-watch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

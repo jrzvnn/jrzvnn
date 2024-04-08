@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Pegatron is in advanced talks to hand over its only iPhone plant in India to the Tata Group, which will hold a 65%+ stake; Apple supports the move &lpar;Reuters&rpar;](http://www.techmeme.com/240408/p12#a240408p12)
  - [The World Doesn’t Need More Journal Apps](https://www.wired.com/story/retro-shine-journal-apps/)
  - [Apple chip maker TSMC wins $6.6 billion US subsidy](https://appleinsider.com/articles/24/04/08/apple-chip-maker-tsmc-wins-66-billion-us-subsidy?utm_medium=rss)
  - [Inside the Election Denial Groups Planning to Disrupt November](https://www.wired.com/story/election-denial-groups-november-2024/)
- - [Alibaba cuts prices for cloud customers by 23% on average across ~500 cloud product specifications in 13 regions, seeking to fend off rivals and revive growth &lpar;Sarah Zheng/Bloomberg&rpar;](http://www.techmeme.com/240408/p11#a240408p11)
- - [Microsoft announces Microsoft AI London, a new hub for its consumer AI division led by former Inflection AI and DeepMind engineer Jordan Hoffmann &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240408/p10#a240408p10)<!-- TECH:END -->
+ - [Alibaba cuts prices for cloud customers by 23% on average across ~500 cloud product specifications in 13 regions, seeking to fend off rivals and revive growth &lpar;Sarah Zheng/Bloomberg&rpar;](http://www.techmeme.com/240408/p11#a240408p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

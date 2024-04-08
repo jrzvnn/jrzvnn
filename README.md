@@ -170,7 +170,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [The Internet Archive is hosting the new Aruba Collection, which contains 100K+ items from Aruba&#39;s National Library, National Archives, and other institutions &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/240408/p32#a240408p32)
  - [Tesla is settling with the family of the Apple engineer who died in an Autopilot crash](https://www.theverge.com/2024/4/8/24124744/tesla-autopilot-lawsuit-settlement-huang-death)
  - [Source: Meta plans to launch two small non-multimodal versions of Llama 3 next week; the biggest Llama 3 model will be multimodal and is expected this summer &lpar;Sylvia Varnham O&#39;Regan/The Information&rpar;](http://www.techmeme.com/240408/p31#a240408p31)
- - [Best Cookware Sets for 2024     - CNET](https://www.cnet.com/news/best-cookware-sets/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [14 Best Deals From the Target Circle Week Deals Event &lpar;2024&rpar;](https://www.wired.com/story/target-circle-week-deals-april-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

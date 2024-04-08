@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lawmakers unveil new bipartisan digital privacy bill after years of impasse](https://www.theverge.com/2024/4/8/24124143/lawmakers-unveil-bipartisan-comprehensive-digital-american-privacy-rights-act-bill)
  - [Microsoft says it’s cracked the code on an important quantum computing problem](https://www.theverge.com/2024/4/8/24120103/microsoft-says-its-cracked-the-code-on-an-important-quantum-computing-problem)
  - [Android’s upgraded Find My Device network is here](https://www.theverge.com/2024/4/8/24124174/android-find-my-device-network-offline-tracker-tag-chipolo-pebblebee)
  - [Google’s Pixel 8 and 8 Pro can now be located even with a dead battery](https://www.theverge.com/2024/4/8/24123909/google-pixel-8-pro-offline-dead-battery-location-finding)
- - [Microsoft is confident Windows on Arm could finally beat Apple](https://www.theverge.com/2024/4/8/24116587/microsoft-macbook-air-surface-arm-qualcomm-snapdragon-x-elite)
- - [Apple&#39;s privacy rules are stifling Apple Vision Pro apps, for now](https://appleinsider.com/articles/24/04/08/apples-privacy-rules-are-stifling-apple-vision-pro-apps-for-now?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft is confident Windows on Arm could finally beat Apple](https://www.theverge.com/2024/4/8/24116587/microsoft-macbook-air-surface-arm-qualcomm-snapdragon-x-elite)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

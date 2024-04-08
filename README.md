@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tessan Plug Adapter     - CNET](https://www.cnet.com/tech/mobile/tessan-plug-adaptera-dpnl/#ftag=CAD590a51e)
- - [Tessan Plug Adapter     - CNET](https://www.cnet.com/tech/mobile/tessan-plug-adapter-dpnl/#ftag=CAD590a51e)
- - [KYY Portable Monitor     - CNET](https://www.cnet.com/tech/computing/kyy-portable-monitor-dpnl/#ftag=CAD590a51e)
+ - [TikTok is getting closer to launching an Instagram rival](https://www.theverge.com/2024/4/8/24124595/tiktok-notes-instagram-rival-app-launch)
  - [Model N, a public company focusing on helping health companies automate pricing and compliance decisions, is being acquired by Vista Equity Partners for $1.25B &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240408/p28#a240408p28)
- - [The Best Total Solar Eclipse Photos &lpar;2024&rpar;](https://www.wired.com/story/total-solar-eclipse-best-photos/)<!-- TECH:END -->
+ - [The Best Total Solar Eclipse Photos &lpar;2024&rpar;](https://www.wired.com/story/total-solar-eclipse-best-photos/)
+ - [We now have a better look at what’s inside the Humane AI pin](https://www.theverge.com/2024/4/8/24124419/humane-ai-pin-processor-snapdragon-qualcomm-fcc)
+ - [TikTok expands TikTok Lite, which gives people financial incentives to watch its videos, to Spain and France, amid growth struggles in Europe &lpar;Kaya Yurieff/The Information&rpar;](http://www.techmeme.com/240408/p27#a240408p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

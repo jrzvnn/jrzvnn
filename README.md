@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google’s Nest Secure is shutting down today — and you’ve got options besides ADT](https://www.theverge.com/2024/4/8/24124244/google-nest-secure-security-system-shut-down-alternatives)
  - [Nothing’s next set of earbuds might include a Playdate-inspired glow-up](https://www.theverge.com/2024/4/8/24124366/nothing-ear-a-wireless-earbuds-playdate-yellow-color-leak)
  - [WWE went big on AR at WrestleMania 40](https://www.theverge.com/2024/4/8/24123813/wwe-wrestlemania-40-augmented-reality-ar-interview)
  - [This Arlo Esssential Wi-Fi Smart Video Doorbell Costs Just $40 Today Only     - CNET](https://www.cnet.com/deals/this-arlo-esssential-wi-fi-smart-video-doorbell-costs-just-40-today-only/#ftag=CAD590a51e)
- - [A look at the Amazon Labor Union, two years after its victory at an NYC facility, as the group is divided, running out of funds, and faces a leadership election &lpar;Haleluya Hadero/Associated Press&rpar;](http://www.techmeme.com/240408/p25#a240408p25)
- - [It&#39;s Allergy Season: Here&#39;s Where to Put Your Air Purifier     - CNET](https://www.cnet.com/home/kitchen-and-household/its-allergy-season-heres-where-to-put-your-air-purifier/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at the Amazon Labor Union, two years after its victory at an NYC facility, as the group is divided, running out of funds, and faces a leadership election &lpar;Haleluya Hadero/Associated Press&rpar;](http://www.techmeme.com/240408/p25#a240408p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

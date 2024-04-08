@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Female pilot has a public meltdown, tells passengers feeling unsafe to `get off the plane.`](http://9gag.com/gag/azxgAYN)
- - 😝 [There&#39;s always an asian better than you](http://9gag.com/gag/aXP0E59)
- - 💣 [2009 World Series Poker Europe](http://9gag.com/gag/avypnGM)
- - 😝 [Nice](http://9gag.com/gag/an7q1GB)
+ - 😝 [Men will be men](http://9gag.com/gag/aVvzDzO)
+ - 😝 [He should have ended with. Hey son. Isn\u2019t that the girl you have a crush on?](http://9gag.com/gag/aD2A3nx)
+ - 💣 [Nice](http://9gag.com/gag/an7q1GB)
+ - 😝 [2009 World Series Poker Europe](http://9gag.com/gag/avypnGM)
  - 👉 [Fact](http://9gag.com/gag/aE0vzLo)<!-- MEMES:END -->
 
 ---

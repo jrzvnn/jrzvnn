@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Applied Materials may scale back or cancel plans to open a $4B R&amp;D facility in Silicon Valley due to a lack of government funding &lpar;Shira Stein/San Francisco Chronicle&rpar;](http://www.techmeme.com/240408/p33#a240408p33)
+ - [The Internet Archive is hosting the new Aruba Collection, which contains 100K+ items from Aruba&#39;s National Library, National Archives, and other institutions &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/240408/p32#a240408p32)
  - [Tesla is settling with the family of the Apple engineer who died in an Autopilot crash](https://www.theverge.com/2024/4/8/24124744/tesla-autopilot-lawsuit-settlement-huang-death)
  - [Source: Meta plans to launch two small non-multimodal versions of Llama 3 next week; the biggest Llama 3 model will be multimodal and is expected this summer &lpar;Sylvia Varnham O&#39;Regan/The Information&rpar;](http://www.techmeme.com/240408/p31#a240408p31)
- - [Best Cookware Sets for 2024     - CNET](https://www.cnet.com/news/best-cookware-sets/#ftag=CAD590a51e)
- - [Best Teeth-Whitening Strips of 2024     - CNET](https://www.cnet.com/health/personal-care/best-teeth-whitening-strips/#ftag=CAD590a51e)
- - [14 Best Deals From the Target Circle Week Deals Event &lpar;2024&rpar;](https://www.wired.com/story/target-circle-week-deals-april-2024/)<!-- TECH:END -->
+ - [Best Cookware Sets for 2024     - CNET](https://www.cnet.com/news/best-cookware-sets/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

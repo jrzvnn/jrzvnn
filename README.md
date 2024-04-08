@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spotify launches AI Playlist in beta for its Premium users in the UK and Australia, letting users generate playlists using a text prompt &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240408/p3#a240408p3)
  - [A look at Towa Corp., which TechInsights says commands two-thirds of the global chip molding equipment market and has seen shares jump ~400% in the past year &lpar;Bloomberg&rpar;](http://www.techmeme.com/240408/p2#a240408p2)
  - [Maryland&#39;s legislature passed two privacy bills, one restricting data collection practices and the other focused on minors&#39; safety on social platforms &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/240408/p1#a240408p1)
  - [Solar Eclipse Eye Safety: How to Protect Your Eyes When Viewing Nature&#39;s Wonder     - CNET](https://www.cnet.com/health/personal-care/solar-eclipse-eye-safety-why-you-need-to-wear-the-right-glasses/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints and Answer: Help for April 8, #1024     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-8-1024/#ftag=CAD590a51e)
- - [A Brazilian Supreme Court justice opens inquiry into Elon Musk for obstruction of justice involving X and says X faces ~$20K/day in fines if it does not comply &lpar;Anthony Boadle/Reuters&rpar;](http://www.techmeme.com/240407/p9#a240407p9)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints and Answer: Help for April 8, #1024     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-8-1024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

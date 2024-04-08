@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Finally a Government with their brain intact](http://9gag.com/gag/a6Zm7mm)
- - 😝 [Honestly](http://9gag.com/gag/aGyYRO0)
- - 💣 [Clearly he&#39;s never been to a waffle house](http://9gag.com/gag/an7qNVL)
- - 😝 [There we go again...](http://9gag.com/gag/a6Zmy2q)
- - 👉 [Good guy](http://9gag.com/gag/ajPY0wR)<!-- MEMES:END -->
+ - 😝 [Good guy](http://9gag.com/gag/ajPY0wR)
+ - 😝 [Half life speed run](http://9gag.com/gag/aW4QOjx)
+ - 💣 [Buy a good pair of slippers next time.](http://9gag.com/gag/aW4QOQd)
+ - 😝 [There&#39;s always an asian better than you](http://9gag.com/gag/aXP0E59)
+ - 👉 [Clearly he&#39;s never been to a waffle house](http://9gag.com/gag/an7qNVL)<!-- MEMES:END -->
 
 ---
 

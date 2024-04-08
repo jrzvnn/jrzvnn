@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Device that prevents lines from getting entangled in props](http://9gag.com/gag/aD2Aoyd)
- - 😝 [What you doing if this your girl?](http://9gag.com/gag/aLnRQoP)
- - 💣 [When You&#39;re learning English all your life and then you meet a native](http://9gag.com/gag/ae9j3Pm)
- - 😝 [BMW story](http://9gag.com/gag/aryveX7)
- - 👉 [Ok hear me out:](http://9gag.com/gag/aKGwPqW)<!-- MEMES:END -->
+ - 😝 [He&#39;s totally in the character...](http://9gag.com/gag/aLnR2xV)
+ - 😝 [This 2$ treadmill is breaking the internet of poor people](http://9gag.com/gag/a0e8j0v)
+ - 💣 [Nice](http://9gag.com/gag/an7q1GB)
+ - 😝 [Jesus the conqueror](http://9gag.com/gag/ae9j62j)
+ - 👉 [What can go wrong filming a group of sharks?](http://9gag.com/gag/aRBwePq)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No comment.](http://9gag.com/gag/adB0XEB)
- - 😝 [Hey! wake up its 2005](http://9gag.com/gag/awy0KqD)
- - 💣 [Bird feeder](http://9gag.com/gag/ajPYD4G)
- - 😝 [Someone posted classified info about the SU-57](http://9gag.com/gag/axydgZ2)
- - 👉 [These women are not having it.](http://9gag.com/gag/aQzPnOK)<!-- MEMES:END -->
+ - 😝 [Sounded like motorcycle](http://9gag.com/gag/aByRYvQ)
+ - 😝 [We&#39;ll never see a 4-day work week...](http://9gag.com/gag/aGyYxLG)
+ - 💣 [Over a million lives in every bite!](http://9gag.com/gag/a1mvMN8)
+ - 😝 [Who made this is a king.](http://9gag.com/gag/agm3Nzg)
+ - 👉 [Luckiest generation in history of the world](http://9gag.com/gag/amoNz8V)<!-- MEMES:END -->
 
 ---
 

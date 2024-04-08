@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tesla faces a trial in San Jose this week over Apple engineer Walter Huang&#39;s fatal Autopilot crash in 2018; Tesla prevailed in two previous California trials &lpar;Dana Hull/Bloomberg&rpar;](http://www.techmeme.com/240408/p18#a240408p18)
  - [Sources and filings: Sam Altman&#39;s net worth reaches $1B, driven by startup investments in Reddit, Stripe, YC companies, and others, despite no equity in OpenAI &lpar;Forbes&rpar;](http://www.techmeme.com/240408/p17#a240408p17)
  - [A24’s horror trilogy heads to the ’80s in first Maxxxine trailer](https://www.theverge.com/24124163/maxxxine-trailer-release-date-a24-mia-goth)
  - [Apple Watch Ultra 2 helped Speed Project take on 300-mile desert run](https://appleinsider.com/articles/24/04/08/apple-watch-ultra-2-helped-speed-project-take-on-300-mile-desert-run?utm_medium=rss)
- - [Montenegro&#39;s Supreme Court overturns Terraform Labs co-founder Do Kwon&#39;s extradition to South Korea; Kwon&#39;s lawyers had pushed for South Korea over the US &lpar;Vincent Lee/Bloomberg&rpar;](http://www.techmeme.com/240408/p16#a240408p16)
- - [How to turn off Apple&#39;s Journal &#39;Discoverable by Others&#39; setting that&#39;s enabled by default](https://appleinsider.com/inside/ios-17/tips/how-to-turn-off-apples-journal-discoverable-by-others-setting-thats-enabled-by-default?utm_medium=rss)<!-- TECH:END -->
+ - [Montenegro&#39;s Supreme Court overturns Terraform Labs co-founder Do Kwon&#39;s extradition to South Korea; Kwon&#39;s lawyers had pushed for South Korea over the US &lpar;Vincent Lee/Bloomberg&rpar;](http://www.techmeme.com/240408/p16#a240408p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

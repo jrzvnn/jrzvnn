@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [An Unusual Design of Escalator](http://9gag.com/gag/a6ZmL1e)
- - 😝 [Hey](http://9gag.com/gag/aO8KmAN)
- - 💣 [Goodbye, peaceful, clean, respectful and low-crime Japan](http://9gag.com/gag/aXP0p7P)
- - 😝 [Wow !](http://9gag.com/gag/aYQNpPN)
- - 👉 [Good guy](http://9gag.com/gag/ajPY0wR)<!-- MEMES:END -->
+ - 😝 [Antman in Thanos&#39; ass](http://9gag.com/gag/a7oLbYr)
+ - 😝 [Such a good grip](http://9gag.com/gag/a87LWDp)
+ - 💣 [Wow !](http://9gag.com/gag/aYQNpPN)
+ - 😝 [Why is the bottle looking like olive oil I\u2019d be annoyed too.](http://9gag.com/gag/aGyY9vn)
+ - 👉 [If friend why not friend shaped](http://9gag.com/gag/aAyRV1d)<!-- MEMES:END -->
 
 ---
 

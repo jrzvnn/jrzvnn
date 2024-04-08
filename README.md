@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s privacy rules are stifling Apple Vision Pro apps, for now](https://appleinsider.com/articles/24/04/08/apples-privacy-rules-are-stifling-apple-vision-pro-apps-for-now?utm_medium=rss)
  - [Nielsen data from 2021 to 2023: nine of the ten most-watched streaming programs are reruns, but a majority of the 100 most popular titles are original series &lpar;Bloomberg&rpar;](http://www.techmeme.com/240408/p21#a240408p21)
  - [I can’t recommend this Animal Crossing Switch Lite bundle enough](https://www.theverge.com/2024/4/8/24124212/animal-crossing-switch-lite-deal-walmart)
  - [Welcome to the wasteland: all the news on Amazon’s Fallout TV series](https://www.theverge.com/24124222/fallout-tv-series-amazon-prime-video-news-trailers)
- - [A farewell to Wii U and Nintendo 3DS online services](https://www.theverge.com/2024/4/8/24124192/nintendo-wii-u-3ds-online-services-discontinued-eulogy)
- - [Last-Minute Solar Eclipse Glasses: Here&#39;s How to Find a Pair     - CNET](https://www.cnet.com/health/personal-care/last-minute-solar-eclipse-glasses-heres-how-to-find-a-pair/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A farewell to Wii U and Nintendo 3DS online services](https://www.theverge.com/2024/4/8/24124192/nintendo-wii-u-3ds-online-services-discontinued-eulogy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

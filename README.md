@@ -169,8 +169,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Retro&#39;s back: the best wrap-around game controllers for your iPhone](https://appleinsider.com/inside/iphone/best/retros-back-the-best-wrap-around-game-controllers-for-your-iphone?utm_medium=rss)
  - [Roborock’s Q5 Pro, the best robovac for families with pets, is nearly half off](https://www.theverge.com/2024/4/8/24124213/roborock-q5-pro-robot-vacuum-baldurs-gate-3-arlo-essential-wired-video-doorbell-deal-sale)
  - [It’s true: people like leaving their TVs on in the background](https://www.theverge.com/2024/4/8/24124302/free-ad-supported-streaming-tvs-background-data)
- - [Docs: after months of staffers sniping about the war in Gaza, Google is tweaking its internal message board Memegen, removing &quot;thumbs down&quot;, post metrics, more &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/240408/p24#a240408p24)
- - [Google debuts its Find My Device network in the US and Canada, initially to find Android phones and tablets; support for 3rd-party tracker tags is coming in May &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240408/p23#a240408p23)<!-- TECH:END -->
+ - [How to Make a Pinhole Projector to View Today&#39;s Solar Eclipse     - CNET](https://www.cnet.com/science/how-to-make-a-pinhole-projector-to-view-the-eclipse/#ftag=CAD590a51e)
+ - [Best Strategy Board Games for 2024     - CNET](https://www.cnet.com/culture/entertainment/best-strategy-board-games/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

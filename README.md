@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Web Summit co-founder Paddy Cosgrave confirms returning as Web Summit CEO; Cosgrave resigned in October 2023 over controversial comments on the Israel-Hamas war &lpar;TechCrunch&rpar;](http://www.techmeme.com/240408/p7#a240408p7)
  - [The US awards TSMC $6.6B in grants and up to $5B in loans to build a third Arizona fab, slated to make 2nm chips by 2030, alongside TSMC&#39;s $65B+ investment &lpar;Bloomberg&rpar;](http://www.techmeme.com/240408/p6#a240408p6)
  - [Spotify’s latest AI feature builds playlists based on text descriptions](https://www.theverge.com/2024/4/8/24124070/spotify-ai-playlist-music-beta-launch-premium-uk-australia)
  - [The Internet Archive Just Backed Up an Entire Caribbean Island](https://www.wired.com/story/internet-archive-backed-up-aruba-caribbean-island/)
- - [Cybertech Global and IVC: in 2023, Israeli cybersecurity exit deals grew by 65% YoY to $7.1B; total tech sector exits were ~$11B, down from $13.5B in 2022 &lpar;Steven Scheer/Reuters&rpar;](http://www.techmeme.com/240408/p5#a240408p5)
- - [Solar Eclipse Eye Protection: How to Tell If Your Glasses Are Safe or Fake Today     - CNET](https://www.cnet.com/health/personal-care/solar-eclipse-eye-protection-how-to-tell-if-your-glasses-are-safe-or-fake-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Cybertech Global and IVC: in 2023, Israeli cybersecurity exit deals grew by 65% YoY to $7.1B; total tech sector exits were ~$11B, down from $13.5B in 2022 &lpar;Steven Scheer/Reuters&rpar;](http://www.techmeme.com/240408/p5#a240408p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

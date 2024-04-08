@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla faces a trial in San Jose this week over Apple engineer Walter Huang&#39;s fatal Autopilot crash in 2018; Tesla prevailed in two previous California trials &lpar;Dana Hull/Bloomberg&rpar;](http://www.techmeme.com/240408/p18#a240408p18)
- - [Sources and filings: Sam Altman&#39;s net worth reaches $1B, driven by startup investments in Reddit, Stripe, YC companies, and others, despite no equity in OpenAI &lpar;Forbes&rpar;](http://www.techmeme.com/240408/p17#a240408p17)
- - [A24’s horror trilogy heads to the ’80s in first Maxxxine trailer](https://www.theverge.com/24124163/maxxxine-trailer-release-date-a24-mia-goth)
- - [Apple Watch Ultra 2 helped Speed Project take on 300-mile desert run](https://appleinsider.com/articles/24/04/08/apple-watch-ultra-2-helped-speed-project-take-on-300-mile-desert-run?utm_medium=rss)
- - [Montenegro&#39;s Supreme Court overturns Terraform Labs co-founder Do Kwon&#39;s extradition to South Korea; Kwon&#39;s lawyers had pushed for South Korea over the US &lpar;Vincent Lee/Bloomberg&rpar;](http://www.techmeme.com/240408/p16#a240408p16)<!-- TECH:END -->
+ - [Best Buy hops on $849 M2 MacBook Air bandwagon with latest deal](https://appleinsider.com/articles/24/04/08/best-buy-hops-on-849-m2-macbook-air-bandwagon-with-latest-deal?utm_medium=rss)
+ - [Astoundingly unsafe iMessage bridge Sunbird is back, and you still shouldn&#39;t use it](https://appleinsider.com/articles/24/04/08/astoundingly-unsafe-imessage-bridge-sunbird-is-back-and-you-still-shouldnt-use-it?utm_medium=rss)
+ - [Elon Musk and Brazil are beefing over X](https://www.theverge.com/2024/4/8/24124156/brazil-investigates-elon-musk-x-twitter-obstruction-of-justice)
+ - [6 Best MagSafe Power Banks for iPhones &lpar;2024&rpar;: High Capacity, Slim, Kickstands](https://www.wired.com/gallery/best-magsafe-power-banks/)
+ - [A new bill would try to make tools like Zoom and Teams work together securely](https://www.theverge.com/2024/4/8/24119268/wyden-secure-interoperable-goverment-collaboration-technology-act-encryption)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

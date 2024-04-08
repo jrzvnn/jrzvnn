@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Zendaya isn&#39;t so bad now, is she?](http://9gag.com/gag/aNDrodA)
- - 😝 [Hey](http://9gag.com/gag/aO8KmAN)
- - 💣 [Let me guess, he\u2019s an Uncle Tom, right?](http://9gag.com/gag/amoNLvo)
- - 😝 [Well that&#39;s new!!!](http://9gag.com/gag/awy0br8)
- - 👉 [Dress code doesn&#39;t matter when you&#39;re a billionaire](http://9gag.com/gag/apREqwE)<!-- MEMES:END -->
+ - 😝 [Former Miss Wyoming winner Joyce McKinney being arrested by police after kidnapping Mormon missionary Kirk Anderson from his church, forcing him to be her sex slave for 3 days. 1977](http://9gag.com/gag/aqy9NpZ)
+ - 😝 [There we go again...](http://9gag.com/gag/a6Zmy2q)
+ - 💣 [Honestly](http://9gag.com/gag/aGyYRO0)
+ - 😝 [Susan Storm is trolling. Artist - Thirstastic1](http://9gag.com/gag/a9ybd9W)
+ - 👉 [Device that prevents lines from getting entangled in props](http://9gag.com/gag/aD2Aoyd)<!-- MEMES:END -->
 
 ---
 

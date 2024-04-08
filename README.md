@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When You&#39;re learning English all your life and then you meet a native](http://9gag.com/gag/ae9j3Pm)
- - 😝 [Neurons Activated](http://9gag.com/gag/aGyYVvX)
- - 💣 [Susan Storm is trolling. Artist - Thirstastic1](http://9gag.com/gag/a9ybd9W)
- - 😝 [A Daughter&#39;s Tearful and Wholesome Reaction To Getting A Birthday Kitten](http://9gag.com/gag/adB068j)
- - 👉 [Former Miss Wyoming winner Joyce McKinney being arrested by police after kidnapping Mormon missionary Kirk Anderson from his church, forcing him to be her sex slave for 3 days. 1977](http://9gag.com/gag/aqy9NpZ)<!-- MEMES:END -->
+ - 😝 [Let me guess, he\u2019s an Uncle Tom, right?](http://9gag.com/gag/amoNLvo)
+ - 😝 [London resident gives a tour of her \u00a31850 per month apartment](http://9gag.com/gag/ayN7p3Y)
+ - 💣 [Finally a Government with their brain intact](http://9gag.com/gag/a6Zm7mm)
+ - 😝 [Save this if you need an easy \u201cGet Out of jail\u201d card with your partner.. or in this case yourself gg. 9GAG](http://9gag.com/gag/agm30Pn)
+ - 👉 [Dont muck around with squid ink](http://9gag.com/gag/a5QeKrO)<!-- MEMES:END -->
 
 ---
 

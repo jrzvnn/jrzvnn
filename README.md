@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources and filings: Sam Altman&#39;s net worth reaches $1B, driven by startup investments in Reddit, Stripe, YC companies, and others, despite no equity in OpenAI &lpar;Forbes&rpar;](http://www.techmeme.com/240408/p17#a240408p17)
+ - [A24’s horror trilogy heads to the ’80s in first Maxxxine trailer](https://www.theverge.com/24124163/maxxxine-trailer-release-date-a24-mia-goth)
+ - [Apple Watch Ultra 2 helped Speed Project take on 300-mile desert run](https://appleinsider.com/articles/24/04/08/apple-watch-ultra-2-helped-speed-project-take-on-300-mile-desert-run?utm_medium=rss)
  - [Montenegro&#39;s Supreme Court overturns Terraform Labs co-founder Do Kwon&#39;s extradition to South Korea; Kwon&#39;s lawyers had pushed for South Korea over the US &lpar;Vincent Lee/Bloomberg&rpar;](http://www.techmeme.com/240408/p16#a240408p16)
- - [How to turn off Apple&#39;s Journal &#39;Discoverable by Others&#39; setting that&#39;s enabled by default](https://appleinsider.com/inside/ios-17/tips/how-to-turn-off-apples-journal-discoverable-by-others-setting-thats-enabled-by-default?utm_medium=rss)
- - [Apple TV with a camera is the rumor that will never die](https://appleinsider.com/articles/24/04/08/apple-tv-with-a-camera-is-the-rumor-that-will-never-die?utm_medium=rss)
- - [How to Make Better Coffee at Home &lpar;2024&rpar;: Advice, Recommendations, Tips](https://www.wired.com/story/how-to-make-better-coffee-at-home/)
- - [Everything you need to know about the upcoming solar eclipse](https://www.theverge.com/2024/4/1/24117848/total-solar-eclipse-north-america-april-how-to-watch)<!-- TECH:END -->
+ - [How to turn off Apple&#39;s Journal &#39;Discoverable by Others&#39; setting that&#39;s enabled by default](https://appleinsider.com/inside/ios-17/tips/how-to-turn-off-apples-journal-discoverable-by-others-setting-thats-enabled-by-default?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Golden](http://9gag.com/gag/aZZbBj0)
- - 😝 [When you&#39;re your own cook](http://9gag.com/gag/aZZbp9W)
- - 💣 [Wholesome](http://9gag.com/gag/a1mvbD2)
- - 😝 [Based af dad identifies as female Julius Cesar at school board meeting - Woketards are leaving the room](http://9gag.com/gag/aByRWbZ)
- - 👉 [Play with me buddy!](http://9gag.com/gag/aRBwmAG)<!-- MEMES:END -->
+ - 😝 [I am not a weapons expert. But I don&#39;t think that&#39;s how you test whether a gun has the safety on](http://9gag.com/gag/aD2AWDG)
+ - 😝 [Let&#39;s dance!](http://9gag.com/gag/awy0VPQ)
+ - 💣 [Posting images of good looking black chicks to prove they actively cast ugliest possible b*tches until I get bored or banned.](http://9gag.com/gag/aW4QMm6)
+ - 😝 [Yeah I like puppies too](http://9gag.com/gag/azxgrzq)
+ - 👉 [Oh look... a random AMD employee...](http://9gag.com/gag/ajPYn40)<!-- MEMES:END -->
 
 ---
 

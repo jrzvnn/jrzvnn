@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Teenagers still overwhelmingly want iPhone and Apple Watch more than any other brand](https://appleinsider.com/articles/24/04/09/teenagers-still-overwhelmingly-want-iphone-and-apple-watch-more-than-any-other-brand?utm_medium=rss)
- - [The 12 Best Turntables for Your Vinyl Collection &lpar;2024&rpar;](https://www.wired.com/gallery/best-turntables/)
- - [Google’s Gemini 1.5 Pro can now hear](https://www.theverge.com/2024/4/9/24124741/google-gemini-pro-imagen-updates-vertex)
- - [With Vids, Google thinks it has the next big productivity tool for work](https://www.theverge.com/2024/4/9/24124168/google-vids-video-ai-workspace-app)
- - [Google Cloud CEO Thomas Kurian unveils AI updates: corporate Gemini users can &quot;ground&quot; responses in reliable sources, Search as a Gemini answer source, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/240409/p11#a240409p11)<!-- TECH:END -->
+ - [Monad Labs, which is building a Layer 1 blockchain to rival Ethereum and Solana, raised $225M led by Paradigm and plans to launch its mainnet by the end of 2024 &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/240409/p17#a240409p17)
+ - [Google makes its Imagen 2 image generator generally available in Vertex AI, and adds inpainting and outpainting to remove or add elements and expand borders &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240409/p16#a240409p16)
+ - [Google details Workspace updates: Gmail &quot;Help me write&quot; voice input and &quot;instant polish&quot;, Docs tabs, Sheets tables, Gemini in Chat, Meet translation, and more &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240409/p15#a240409p15)
+ - [Google releases Gemini 1.5 Pro in public preview on Vertex AI, with support for up to 1M tokens, and says the model will power new features in Code Assist &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240409/p14#a240409p14)
+ - [Google announces Vids, an app to help companies and consumers make collaborative, shareable video, powered by Gemini, launching in public beta in summer 2024 &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240409/p13#a240409p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

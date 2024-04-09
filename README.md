@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Honestly](http://9gag.com/gag/aGyYRO0)
- - 😝 [Oh look... a random AMD employee...](http://9gag.com/gag/ajPYn40)
- - 💣 [Let&#39;s dance!](http://9gag.com/gag/awy0VPQ)
- - 😝 [Yeah I like puppies too](http://9gag.com/gag/azxgrzq)
- - 👉 [Fact](http://9gag.com/gag/aE0vzLo)<!-- MEMES:END -->
+ - 😝 [Mexican news channel got trolled](http://9gag.com/gag/axydg5W)
+ - 😝 [Golden](http://9gag.com/gag/aZZbBj0)
+ - 💣 [Posting images of good looking black chicks to prove they actively cast ugliest possible b*tches until I get bored or banned.](http://9gag.com/gag/aW4QMm6)
+ - 😝 [I am not a weapons expert. But I don&#39;t think that&#39;s how you test whether a gun has the safety on](http://9gag.com/gag/aD2AWDG)
+ - 👉 [Yeah I like puppies too](http://9gag.com/gag/azxgrzq)<!-- MEMES:END -->
 
 ---
 

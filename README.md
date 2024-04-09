@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Be fast cause they are furious!](http://9gag.com/gag/a34P7Rv)
- - 😝 [A simple act of kindness](http://9gag.com/gag/apRELV8)
- - 💣 [Golden](http://9gag.com/gag/aZZbBj0)
+ - 😝 [Make a living by owning a bridge](http://9gag.com/gag/a7oLZge)
  - 😝 [2009 World Series Poker Europe](http://9gag.com/gag/avypnGM)
- - 👉 [Watch Joe Rogan change his opinion in real time when presented with a different perspective &lpar;with facts to back it up&rpar;](http://9gag.com/gag/aVvze9d)<!-- MEMES:END -->
+ - 💣 [Golden](http://9gag.com/gag/aZZbBj0)
+ - 😝 [Ontario, Canada.](http://9gag.com/gag/a87LMrV)
+ - 👉 [Fact](http://9gag.com/gag/aE0vzLo)<!-- MEMES:END -->
 
 ---
 

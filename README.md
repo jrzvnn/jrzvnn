@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [2009 World Series Poker Europe](http://9gag.com/gag/avypnGM)
+ - 😝 [What a glow up](http://9gag.com/gag/agm3GWn)
  - 😝 [Be fast cause they are furious!](http://9gag.com/gag/a34P7Rv)
- - 💣 [He is right, this woke bs should stop.](http://9gag.com/gag/aO8KvRD)
- - 😝 [Female pilot has a public meltdown, tells passengers feeling unsafe to `get off the plane.`](http://9gag.com/gag/azxgAYN)
- - 👉 [I guess she forgot who she was talking to...](http://9gag.com/gag/ajPYDAp)<!-- MEMES:END -->
+ - 💣 [She was scared of getting railed, she got it anyway](http://9gag.com/gag/aVvzDm8)
+ - 😝 [Yeah I like puppies too](http://9gag.com/gag/azxgrzq)
+ - 👉 [Golden](http://9gag.com/gag/aZZbBj0)<!-- MEMES:END -->
 
 ---
 

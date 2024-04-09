@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [9gag comments never disappoint](http://9gag.com/gag/avypnm5)
- - 😝 [Golden](http://9gag.com/gag/aZZbBj0)
- - 💣 [Fact](http://9gag.com/gag/aE0vzLo)
  - 😝 [How to knock out your opponent without using one punch\u2026I\u2019m not laughing you are](http://9gag.com/gag/aPAw9DP)
- - 👉 [Let&#39;s dance!](http://9gag.com/gag/awy0VPQ)<!-- MEMES:END -->
+ - 💣 [Let&#39;s dance!](http://9gag.com/gag/awy0VPQ)
+ - 😝 [I am not a weapons expert. But I don&#39;t think that&#39;s how you test whether a gun has the safety on](http://9gag.com/gag/aD2AWDG)
+ - 👉 [Priorities.....](http://9gag.com/gag/aQzPePw)<!-- MEMES:END -->
 
 ---
 

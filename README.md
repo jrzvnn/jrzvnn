@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Female pilot has a public meltdown, tells passengers feeling unsafe to `get off the plane.`](http://9gag.com/gag/azxgAYN)
- - 😝 [Be fast cause they are furious!](http://9gag.com/gag/a34P7Rv)
- - 💣 [Fact](http://9gag.com/gag/aE0vzLo)
- - 😝 [Goodbye, peaceful, clean, respectful and low-crime Japan](http://9gag.com/gag/aXP0p7P)
- - 👉 [Yeah I like puppies too](http://9gag.com/gag/azxgrzq)<!-- MEMES:END -->
+ - 😝 [What a glow up](http://9gag.com/gag/agm3GWn)
+ - 😝 [Using hand sanitizer to prevent a snake from swallowing itself](http://9gag.com/gag/amoNzxy)
+ - 💣 [Plastering a new pool](http://9gag.com/gag/aVvze2y)
+ - 😝 [Hard to keep arguing then](http://9gag.com/gag/a9ybWAK)
+ - 👉 [What a great day for some fishin-OH F**K!](http://9gag.com/gag/aQzP82w)<!-- MEMES:END -->
 
 ---
 

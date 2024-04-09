@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 50 Best Shows on Disney+ Right Now](https://www.wired.com/story/best-shows-disney-plus/)
  - [Europe Rules That Insufficient Climate Change Action Is a Human Rights Violation](https://www.wired.com/story/climate-change-action-human-rights-violation-europe/)
  - [Apple researchers publish a paper on Ferret-UI, a multimodal LLM tailored for enhanced understanding of mobile UI screens &lpar;Malcolm Owen/AppleInsider&rpar;](http://www.techmeme.com/240409/p26#a240409p26)
  - [Researchers found an exposed Azure server with credentials used by Microsoft staff to access internal systems; Microsoft was told Feb. 6 and secured it March 5 &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240409/p25#a240409p25)
- - [Xiaomi Brings My Phone Dreams to Life, a Decade After the Panasonic CM1     - CNET](https://www.cnet.com/tech/mobile/xiaomi-brings-my-phone-dreams-to-life-a-decade-after-the-panasonic-cm1/#ftag=CAD590a51e)
- - [Total Solar Eclipse 2024: The Best Photos We&#39;ve Seen     - CNET](https://www.cnet.com/pictures/total-solar-eclipse-2024-the-best-photos-weve-seen/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Xiaomi Brings My Phone Dreams to Life, a Decade After the Panasonic CM1     - CNET](https://www.cnet.com/tech/mobile/xiaomi-brings-my-phone-dreams-to-life-a-decade-after-the-panasonic-cm1/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

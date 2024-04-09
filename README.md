@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fact](http://9gag.com/gag/aE0vzLo)
- - 😝 [Let&#39;s dance!](http://9gag.com/gag/awy0VPQ)
- - 💣 [Golden](http://9gag.com/gag/aZZbBj0)
+ - 😝 [Robbing a Boy Infront of People In France. France Is Just Another European Country Destroyed By Mass Immigration.](http://9gag.com/gag/axydDDD)
  - 😝 [Hard to keep arguing then](http://9gag.com/gag/a9ybWAK)
- - 👉 [Japanese people never fails to entertain you.](http://9gag.com/gag/a5Qe7xg)<!-- MEMES:END -->
+ - 💣 [Mexican news channel got trolled](http://9gag.com/gag/axydg5W)
+ - 😝 [Posting images of good looking black chicks to prove they actively cast ugliest possible b*tches until I get bored or banned.](http://9gag.com/gag/aW4QMm6)
+ - 👉 [Fact](http://9gag.com/gag/aE0vzLo)<!-- MEMES:END -->
 
 ---
 

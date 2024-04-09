@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Applied Materials may scale back or cancel plans to open a $4B R&amp;D facility in Silicon Valley due to a lack of government funding &lpar;Shira Stein/San Francisco Chronicle&rpar;](http://www.techmeme.com/240408/p33#a240408p33)
- - [The Internet Archive is hosting the new Aruba Collection, which contains 100K+ items from Aruba&#39;s National Library, National Archives, and other institutions &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/240408/p32#a240408p32)
- - [Tesla is settling with the family of the Apple engineer who died in an Autopilot crash](https://www.theverge.com/2024/4/8/24124744/tesla-autopilot-lawsuit-settlement-huang-death)
- - [Source: Meta plans to launch two small non-multimodal versions of Llama 3 next week; the biggest Llama 3 model will be multimodal and is expected this summer &lpar;Sylvia Varnham O&#39;Regan/The Information&rpar;](http://www.techmeme.com/240408/p31#a240408p31)
- - [14 Best Deals From the Target Circle Week Deals Event &lpar;2024&rpar;](https://www.wired.com/story/target-circle-week-deals-april-2024/)<!-- TECH:END -->
+ - [Tesla reaches settlement in autopilot death case of Apple engineer](https://appleinsider.com/articles/24/04/09/tesla-reaches-settlement-in-autopilot-death-case-of-apple-engineer?utm_medium=rss)
+ - [Grow Therapy, which provides services like patient-provider matching and EHR to help therapists run their own practices, raised an $88M Series C led by Sequoia &lpar;Heather Landi/Fierce Healthcare&rpar;](http://www.techmeme.com/240408/p34#a240408p34)
+ - [X launches passkey support for iOS app users worldwide](https://appleinsider.com/articles/24/04/09/x-launches-passkey-support-for-ios-app-users-worldwide?utm_medium=rss)
+ - [Can you watch a solar eclipse in the Apple Vision Pro?](https://www.theverge.com/2024/4/8/24124638/watch-solar-eclipse-apple-vision-pro)
+ - [Best Solar Panel Installation Companies in Iowa     - CNET](https://www.cnet.com/home/energy-and-utilities/iowa-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

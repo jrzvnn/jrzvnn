@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yeah I like puppies too](http://9gag.com/gag/azxgrzq)
- - 😝 [Mexican news channel got trolled](http://9gag.com/gag/axydg5W)
- - 💣 [Oh look... a random AMD employee...](http://9gag.com/gag/ajPYn40)
- - 😝 [Posting images of good looking black chicks to prove they actively cast ugliest possible b*tches until I get bored or banned.](http://9gag.com/gag/aW4QMm6)
- - 👉 [Robbing a Boy Infront of People In France. France Is Just Another European Country Destroyed By Mass Immigration.](http://9gag.com/gag/axydDDD)<!-- MEMES:END -->
+ - 😝 [Make a living by owning a bridge](http://9gag.com/gag/a7oLZge)
+ - 😝 [Fact](http://9gag.com/gag/aE0vzLo)
+ - 💣 [Posting images of good looking black chicks to prove they actively cast ugliest possible b*tches until I get bored or banned.](http://9gag.com/gag/aW4QMm6)
+ - 😝 [Golden](http://9gag.com/gag/aZZbBj0)
+ - 👉 [Hard to keep arguing then](http://9gag.com/gag/a9ybWAK)<!-- MEMES:END -->
 
 ---
 

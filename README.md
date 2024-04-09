@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CT scans show off the phenomenal design of the Apple Vision Pro](https://appleinsider.com/articles/24/04/09/ct-scans-show-off-the-phenomenal-design-of-the-apple-vision-pro?utm_medium=rss)
- - [The new Star Wars Outlaws trailer introduces you to the criminal underworld](https://www.theverge.com/24121150/star-wars-outlaws-trailer-release-date)
- - [The 5 Best RSS Feeders &lpar;2023&rpar;: Feedly, Inoreader, and Tips](https://www.wired.com/story/best-rss-feed-readers/)
- - [Rumored Apple Watch Series 10 screen improvement will sip battery power](https://appleinsider.com/articles/24/04/09/rumored-apple-watch-series-10-screen-improvement-will-sip-battery-power?utm_medium=rss)
- - [How to get the best video capture possible on iPhone 15 Pro with ProRes](https://appleinsider.com/inside/iphone-15-pro/tips/how-to-get-the-best-video-capture-possible-on-iphone-15-pro-with-prores?utm_medium=rss)<!-- TECH:END -->
+ - [Make Coffee How You Like It With This $70 Keurig K-Slim Plus Iced Brewer From QVC     - CNET](https://www.cnet.com/deals/make-coffee-how-you-like-it-with-this-70-keurig-k-slim-plus-iced-brewer-from-qvc/#ftag=CAD590a51e)
+ - [eBay adds an AI-powered &quot;shop the look&quot; feature to its iOS app, with personalized recommendations for users that have viewed 10+ fashion items in six months &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240409/p22#a240409p22)
+ - [Best Wireless Earbuds Under $50     - CNET](https://www.cnet.com/tech/mobile/best-bargain-true-wireless-earbuds-under-50/#ftag=CAD590a51e)
+ - [In a first, international court upholds right to be safe from climate change](https://www.theverge.com/2024/4/9/24125087/international-human-rights-court-judgement-climate-change-case)
+ - [CT scans show off the phenomenal design of the Apple Vision Pro](https://appleinsider.com/articles/24/04/09/ct-scans-show-off-the-phenomenal-design-of-the-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

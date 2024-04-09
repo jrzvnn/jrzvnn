@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pop Music Is Mad. Social Media Loves It](https://www.wired.com/story/did-social-media-kill-the-pop-song/)
  - [Destiny 2: The Final Shape is going to break the game in a good way](https://www.theverge.com/2024/4/9/24125357/destiny-2-the-final-shape-prismatic-subclasses-preview)
  - [SwitchBot’s robot vacuums now work with Matter, but the platforms need to step up support](https://www.theverge.com/2024/4/9/24125273/switchbot-robot-vacuum-matter-support)
  - [Elon Musk’s Latest Mars Pitch Has Potential](https://www.wired.com/story/elon-musk-mars-spacex-update/)
- - [Star Wars Outlaws preorders are up, bringing exclusive skins and DLC in tow](https://www.theverge.com/24125268/star-wars-outlaws-preorder-guide-bonus-skins-dlc-missions-extras-deal)
- - [The 50 Best Shows on Disney+ Right Now](https://www.wired.com/story/best-shows-disney-plus/)<!-- TECH:END -->
+ - [Star Wars Outlaws preorders are up, bringing exclusive skins and DLC in tow](https://www.theverge.com/24125268/star-wars-outlaws-preorder-guide-bonus-skins-dlc-missions-extras-deal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

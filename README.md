@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Priorities.....](http://9gag.com/gag/aQzPePw)
- - 😝 [Let&#39;s dance!](http://9gag.com/gag/awy0VPQ)
- - 💣 [Hard to keep arguing then](http://9gag.com/gag/a9ybWAK)
- - 😝 [Oh look... a random AMD employee...](http://9gag.com/gag/ajPYn40)
- - 👉 [I am not a weapons expert. But I don&#39;t think that&#39;s how you test whether a gun has the safety on](http://9gag.com/gag/aD2AWDG)<!-- MEMES:END -->
+ - 😝 [9gag comments never disappoint](http://9gag.com/gag/avypnm5)
+ - 😝 [Golden](http://9gag.com/gag/aZZbBj0)
+ - 💣 [Fact](http://9gag.com/gag/aE0vzLo)
+ - 😝 [How to knock out your opponent without using one punch\u2026I\u2019m not laughing you are](http://9gag.com/gag/aPAw9DP)
+ - 👉 [Let&#39;s dance!](http://9gag.com/gag/awy0VPQ)<!-- MEMES:END -->
 
 ---
 

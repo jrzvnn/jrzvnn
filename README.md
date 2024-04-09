@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Automattic is buying Beeper, a source says for $125M; Beeper co-founder Eric Migicovsky will become Automattic&#39;s head of messaging &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240409/p20#a240409p20)
+ - [Fallout’s TV show is arriving a little earlier than expected](https://www.theverge.com/2024/4/9/24125154/fallout-tv-show-early-release-date-amazon-prime-video)
  - [The Supercut app brings good Netflix to the Vision Pro](https://www.theverge.com/2024/4/8/24124534/supercut-netflix-vision-pro-app-4k-dolby-atmos-vision-visionos)
  - [How OpenAI is preparing to fight lawsuits, investigations, and legislation: expanding its staff to 1,000 from 200 in 2022, hiring in-house lawyers, and more &lpar;Washington Post&rpar;](http://www.techmeme.com/240409/p19#a240409p19)
- - [The Aboard app is a totally different take on what an AI bot can do](https://www.theverge.com/2024/4/9/24124480/aboard-app-ai-bookmarks-project-management)
- - [Peloton is a media company now, with media company problems](https://www.theverge.com/c/24105625/peloton-bike-tread-plus-business-valuation-history)
- - [The Fairbuds noise-canceling earbuds have an easily swappable battery](https://www.theverge.com/2024/4/9/24125089/fairbuds-fairphone-noise-canceling-earbuds-battery-replace-repairability)<!-- TECH:END -->
+ - [The Aboard app is a totally different take on what an AI bot can do](https://www.theverge.com/2024/4/9/24124480/aboard-app-ai-bookmarks-project-management)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

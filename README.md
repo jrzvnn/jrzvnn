@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What a glow up](http://9gag.com/gag/agm3GWn)
- - 😝 [Using hand sanitizer to prevent a snake from swallowing itself](http://9gag.com/gag/amoNzxy)
- - 💣 [Plastering a new pool](http://9gag.com/gag/aVvze2y)
- - 😝 [Hard to keep arguing then](http://9gag.com/gag/a9ybWAK)
- - 👉 [What a great day for some fishin-OH F**K!](http://9gag.com/gag/aQzP82w)<!-- MEMES:END -->
+ - 😝 [Be fast cause they are furious!](http://9gag.com/gag/a34P7Rv)
+ - 😝 [A simple act of kindness](http://9gag.com/gag/apRELV8)
+ - 💣 [Golden](http://9gag.com/gag/aZZbBj0)
+ - 😝 [2009 World Series Poker Europe](http://9gag.com/gag/avypnGM)
+ - 👉 [Watch Joe Rogan change his opinion in real time when presented with a different perspective &lpar;with facts to back it up&rpar;](http://9gag.com/gag/aVvze9d)<!-- MEMES:END -->
 
 ---
 

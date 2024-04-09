@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Robbing a Boy Infront of People In France. France Is Just Another European Country Destroyed By Mass Immigration.](http://9gag.com/gag/axydDDD)
- - 😝 [Hard to keep arguing then](http://9gag.com/gag/a9ybWAK)
- - 💣 [Mexican news channel got trolled](http://9gag.com/gag/axydg5W)
+ - 😝 [Yeah I like puppies too](http://9gag.com/gag/azxgrzq)
+ - 😝 [Mexican news channel got trolled](http://9gag.com/gag/axydg5W)
+ - 💣 [Oh look... a random AMD employee...](http://9gag.com/gag/ajPYn40)
  - 😝 [Posting images of good looking black chicks to prove they actively cast ugliest possible b*tches until I get bored or banned.](http://9gag.com/gag/aW4QMm6)
- - 👉 [Fact](http://9gag.com/gag/aE0vzLo)<!-- MEMES:END -->
+ - 👉 [Robbing a Boy Infront of People In France. France Is Just Another European Country Destroyed By Mass Immigration.](http://9gag.com/gag/axydDDD)<!-- MEMES:END -->
 
 ---
 

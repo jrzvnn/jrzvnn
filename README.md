@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Make a living by owning a bridge](http://9gag.com/gag/a7oLZge)
- - 😝 [2009 World Series Poker Europe](http://9gag.com/gag/avypnGM)
- - 💣 [Golden](http://9gag.com/gag/aZZbBj0)
- - 😝 [Ontario, Canada.](http://9gag.com/gag/a87LMrV)
- - 👉 [Fact](http://9gag.com/gag/aE0vzLo)<!-- MEMES:END -->
+ - 😝 [Let&#39;s dance!](http://9gag.com/gag/awy0VPQ)
+ - 💣 [Posting images of good looking black chicks to prove they actively cast ugliest possible b*tches until I get bored or banned.](http://9gag.com/gag/aW4QMm6)
+ - 😝 [Hard to keep arguing then](http://9gag.com/gag/a9ybWAK)
+ - 👉 [Favorite](http://9gag.com/gag/a4PKj4d)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Fairbuds noise-canceling earbuds have an easily swappable battery](https://www.theverge.com/2024/4/9/24125089/fairbuds-fairphone-noise-canceling-earbuds-battery-replace-repairability)
+ - [The Meta Quest 3 headset has a lying down mode now](https://www.theverge.com/2024/4/9/24125090/meta-quest-3-v64-software-update-lying-down-mode-passthrough-video-external-microphone)
  - [Symbolica, which develops foundation models offering an alternative to the transformer AI architecture, raised a $31M Series A led by Khosla Ventures &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/240409/p18#a240409p18)
  - [Google’s first Arm-based CPU will challenge Microsoft and Amazon in the AI race](https://www.theverge.com/2024/4/9/24125074/google-axion-arm-cpu-ai-chips-cloud-server-data-center)
- - [The TikTok ban and the iPhone monopoly](https://www.theverge.com/2024/4/9/24124405/tiktok-ban-apple-monopoly-antitrust-vergecast-podcast)
- - [Rumored Apple Watch Series 10 screen improvement will sip battery power](https://appleinsider.com/articles/24/04/09/rumored-apple-watch-series-10-screen-improvement-will-sip-battery-power?utm_medium=rss)
- - [Students Are Likely Writing Millions of Papers With AI](https://www.wired.com/story/student-papers-generative-ai-turnitin/)<!-- TECH:END -->
+ - [The TikTok ban and the iPhone monopoly](https://www.theverge.com/2024/4/9/24124405/tiktok-ban-apple-monopoly-antitrust-vergecast-podcast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

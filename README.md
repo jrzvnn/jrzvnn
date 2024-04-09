@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sorry about the dumb red arrow.](http://9gag.com/gag/aVvzeQP)
  - 😝 [Hard to keep arguing then](http://9gag.com/gag/a9ybWAK)
- - 💣 [Oh no... Anyway](http://9gag.com/gag/a6ZmVy2)
- - 😝 [No meme. My 36yo pregnant wife had a stroke and died. The baby was successfully delivered and is in the NICU and doing fine. I am now a 37yo widower with two children under 4yo. Hug your loved ones. Tell them you love them. Live your life to the fullest.](http://9gag.com/gag/agm3Lwg)
- - 👉 [9gag comments never disappoint](http://9gag.com/gag/avypnm5)<!-- MEMES:END -->
+ - 😝 [Let&#39;s dance!](http://9gag.com/gag/awy0VPQ)
+ - 💣 [I guess she forgot who she was talking to...](http://9gag.com/gag/ajPYDAp)
+ - 😝 [Golden](http://9gag.com/gag/aZZbBj0)
+ - 👉 [I am not a weapons expert. But I don&#39;t think that&#39;s how you test whether a gun has the safety on](http://9gag.com/gag/aD2AWDG)<!-- MEMES:END -->
 
 ---
 

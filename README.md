@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Google Pixel Deals: Save Up to $1,000 with Trade-In, Plus Other Deals on Pixel 8 Pro, Pixel Fold, Pixel 7A and More     - CNET](https://www.cnet.com/deals/best-google-pixel-deals/#ftag=CAD590a51e)
  - [How to fix Universal Clipboard problems on macOS](https://appleinsider.com/inside/macos/tips/how-to-fix-universal-clipboard-problems-on-macos?utm_medium=rss)
+ - [Today&#39;s Wordle Hints and Answer: Help for April 9, #1025     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-9-1025/#ftag=CAD590a51e)
  - [A look at Android 15&#39;s Private Space feature, similar to Samsung&#39;s Secure Folder, which creates a separate profile for hiding apps and data &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/240408/p35#a240408p35)
- - [Elon Musk says his posts did more to ‘financially impair’ X than help it](https://www.theverge.com/2024/4/8/24124810/elon-musk-says-his-posts-did-more-to-financially-impair-x-than-help-it)
- - [Best Sunrise Alarm Clocks for 2024     - CNET](https://www.cnet.com/health/sleep/best-sunrise-alarm-clock/#ftag=CAD590a51e)
- - [Best Xbox Controller for 2024: Series X and Series S     - CNET](https://www.cnet.com/tech/gaming/best-xbox-series-x-s-controller/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Elon Musk says his posts did more to ‘financially impair’ X than help it](https://www.theverge.com/2024/4/8/24124810/elon-musk-says-his-posts-did-more-to-financially-impair-x-than-help-it)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

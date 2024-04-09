@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A simple act of kindness](http://9gag.com/gag/apRELV8)
- - 😝 [Posting images of good looking black chicks to prove they actively cast ugliest possible b*tches until I get bored or banned.](http://9gag.com/gag/aW4QMm6)
- - 💣 [I guess she forgot who she was talking to...](http://9gag.com/gag/ajPYDAp)
- - 😝 [Be fast cause they are furious!](http://9gag.com/gag/a34P7Rv)
- - 👉 [Mexican news channel got trolled](http://9gag.com/gag/axydg5W)<!-- MEMES:END -->
+ - 😝 [Honestly](http://9gag.com/gag/aGyYRO0)
+ - 😝 [Oh look... a random AMD employee...](http://9gag.com/gag/ajPYn40)
+ - 💣 [Let&#39;s dance!](http://9gag.com/gag/awy0VPQ)
+ - 😝 [Yeah I like puppies too](http://9gag.com/gag/azxgrzq)
+ - 👉 [Fact](http://9gag.com/gag/aE0vzLo)<!-- MEMES:END -->
 
 ---
 

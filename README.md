@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wholesome](http://9gag.com/gag/a1mvbD2)
- - 😝 [Well Chess is funny sometimes](http://9gag.com/gag/axydVnK)
- - 💣 [Scientifically correct!](http://9gag.com/gag/awy0n2y)
- - 😝 [Lol.](http://9gag.com/gag/aAyRdGd)
- - 👉 [How to knock out your opponent without using one punch\u2026I\u2019m not laughing you are](http://9gag.com/gag/aPAw9DP)<!-- MEMES:END -->
+ - 😝 [Priorities.....](http://9gag.com/gag/aQzPePw)
+ - 😝 [Yeah I like puppies too](http://9gag.com/gag/azxgrzq)
+ - 💣 [Let&#39;s dance!](http://9gag.com/gag/awy0VPQ)
+ - 😝 [I am not a weapons expert. But I don&#39;t think that&#39;s how you test whether a gun has the safety on](http://9gag.com/gag/aD2AWDG)
+ - 👉 [Hard to keep arguing then](http://9gag.com/gag/a9ybWAK)<!-- MEMES:END -->
 
 ---
 

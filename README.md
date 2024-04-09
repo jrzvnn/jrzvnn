@@ -166,8 +166,8 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Quora-owned AI chatbot platform Poe now allows bot creators to set a per-message price for their bots and rolls out enhanced analytics dashboard for creators &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240409/p30#a240409p30)
  - [How to tame notifications on iOS](https://www.theverge.com/24125330/ios-notification-settings-scheduled-summary-turn-off)
- - [Alethea, whose ML service monitors online chatter to help companies detect disinformation, raised a $20M Series B by GV, bringing its total raised to $34M &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/240409/p29#a240409p29)
  - [Intel says its next-gen Lunar Lake laptop chips will have 100+ TOPS of performance in AI tasks and elements of Microsoft&#39;s Copilot will soon run locally on PCs &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240409/p28#a240409p28)
  - [Apple expanding its Miami footprint with new offices and a retail store](https://appleinsider.com/articles/24/04/09/apple-expanding-its-miami-footprint-with-new-offices-and-a-retail-store?utm_medium=rss)
  - [Section 702: The Future of the Biggest US Spy Program Hangs in the Balance](https://www.wired.com/live/section-702-reauthorization-congress-2024/)<!-- TECH:END -->

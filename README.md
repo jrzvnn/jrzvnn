@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He loves his squishy ball](http://9gag.com/gag/aqy9LpP)
- - 😝 [Cat rescue from flooded house](http://9gag.com/gag/aAyRr9E)
- - 💣 [Legend](http://9gag.com/gag/aAyRpWd)
- - 😝 [Well they identify as berries.](http://9gag.com/gag/an7q1ro)
- - 👉 [Relateble When Lost Screw in PC Case](http://9gag.com/gag/axydjzb)<!-- MEMES:END -->
+ - 😝 [2009 World Series Poker Europe](http://9gag.com/gag/avypnGM)
+ - 😝 [Be fast cause they are furious!](http://9gag.com/gag/a34P7Rv)
+ - 💣 [He is right, this woke bs should stop.](http://9gag.com/gag/aO8KvRD)
+ - 😝 [Female pilot has a public meltdown, tells passengers feeling unsafe to `get off the plane.`](http://9gag.com/gag/azxgAYN)
+ - 👉 [I guess she forgot who she was talking to...](http://9gag.com/gag/ajPYDAp)<!-- MEMES:END -->
 
 ---
 

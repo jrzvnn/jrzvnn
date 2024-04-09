@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Be fast cause they are furious!](http://9gag.com/gag/a34P7Rv)
+ - 😝 [Lol.](http://9gag.com/gag/aAyRdGd)
+ - 💣 [Bird feeder](http://9gag.com/gag/ajPYD4G)
  - 😝 [I guess she forgot who she was talking to...](http://9gag.com/gag/ajPYDAp)
- - 😝 [Oh look... a random AMD employee...](http://9gag.com/gag/ajPYn40)
- - 💣 [Fact](http://9gag.com/gag/aE0vzLo)
- - 😝 [Golden](http://9gag.com/gag/aZZbBj0)
- - 👉 [Nice](http://9gag.com/gag/an7q1GB)<!-- MEMES:END -->
+ - 👉 [Mexican news channel got trolled](http://9gag.com/gag/axydg5W)<!-- MEMES:END -->
 
 ---
 

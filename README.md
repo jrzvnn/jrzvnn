@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Be fast cause they are furious!](http://9gag.com/gag/a34P7Rv)
- - 😝 [Sorry about the dumb red arrow.](http://9gag.com/gag/aVvzeQP)
- - 💣 [I guess she forgot who she was talking to...](http://9gag.com/gag/ajPYDAp)
- - 😝 [Posting images of good looking black chicks to prove they actively cast ugliest possible b*tches until I get bored or banned.](http://9gag.com/gag/aW4QMm6)
- - 👉 [Prepare your baguette](http://9gag.com/gag/agm3G7v)<!-- MEMES:END -->
+ - 😝 [Golden](http://9gag.com/gag/aZZbBj0)
+ - 😝 [Priorities.....](http://9gag.com/gag/aQzPePw)
+ - 💣 [Posting images of good looking black chicks to prove they actively cast ugliest possible b*tches until I get bored or banned.](http://9gag.com/gag/aW4QMm6)
+ - 😝 [Hard to keep arguing then](http://9gag.com/gag/a9ybWAK)
+ - 👉 [Let&#39;s dance!](http://9gag.com/gag/awy0VPQ)<!-- MEMES:END -->
 
 ---
 

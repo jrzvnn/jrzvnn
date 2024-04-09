@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Be fast cause they are furious!](http://9gag.com/gag/a34P7Rv)
+ - 😝 [Wholesome](http://9gag.com/gag/a1mvbD2)
  - 😝 [Golden](http://9gag.com/gag/aZZbBj0)
- - 💣 [When you&#39;re your own cook](http://9gag.com/gag/aZZbp9W)
- - 😝 [Zimbabwe has officially launched a new gold-backed currency to replace the local dollar. Nice knowing you Zimbabwe.](http://9gag.com/gag/aryvNA7)
- - 👉 [Posting images of good looking black chicks to prove they actively cast ugliest possible b*tches until I get bored or banned.](http://9gag.com/gag/aW4QMm6)<!-- MEMES:END -->
+ - 💣 [Yeah I like puppies too](http://9gag.com/gag/azxgrzq)
+ - 😝 [Japanese people never fails to entertain you.](http://9gag.com/gag/a5Qe7xg)
+ - 👉 [When you&#39;re your own cook](http://9gag.com/gag/aZZbp9W)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [South Korean President Yoon Suk Yeol says the country plans to invest ~$7B in AI by 2027, and will create a separate ~$1B fund to foster AI chip companies &lpar;Reuters&rpar;](http://www.techmeme.com/240409/p4#a240409p4)
- - [Target Circle Week Is Happening Now: All the Perks You Get With a Membership     - CNET](https://www.cnet.com/tech/mobile/target-circle-week-is-happening-now-all-the-perks-you-get-with-a-membership/#ftag=CAD590a51e)
- - [Q&amp;A with Cloudflare CEO Matthew Prince on the company&#39;s role in protecting free speech online, operating in war zones, moderation, never doing layoffs, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240409/p3#a240409p3)
- - [Logitech’s new wireless keyboard targets pro gamers needing portability](https://www.theverge.com/2024/4/9/24125017/logitech-g-pro-x-60-wireless-gaming-keyboard-price-release-date)
- - [Welcome to the Age of Technofeudalism](https://www.wired.com/story/yanis-varoufakis-technofeudalism-interview/)<!-- TECH:END -->
+ - [If You Can&#39;t Connect to Wi-Fi at the Airport, Hotel or Coffee Shop, Here&#39;s the Fix     - CNET](https://www.cnet.com/tech/computing/if-you-cant-connect-to-wi-fi-at-the-airport-hotel-or-coffee-shop-heres-the-fix/#ftag=CAD590a51e)
+ - [&#39;Subscription Creep&#39; Costs US Consumers More Than $1,000 Each Year, CNET Survey Finds     - CNET](https://www.cnet.com/personal-finance/subscription-creep-costs-us-consumers-more-than-1000-a-year-cnet-survey-finds/#ftag=CAD590a51e)
+ - [The Masters 2024: TV Schedule, Tee Times, Pairings, How to Watch Tiger Woods and More     - CNET](https://www.cnet.com/tech/services-and-software/the-masters-2024-tv-schedule-tee-times-pairings-how-to-watch-tiger-woods-and-more/#ftag=CAD590a51e)
+ - [Target Circle Week Is Happening Now: All the Perks You Get With a Membership     - CNET](https://www.cnet.com/tech/mobile/target-circle-week-is-happening-now-all-the-perks-you-get-with-a-membership/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

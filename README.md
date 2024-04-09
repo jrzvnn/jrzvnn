@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I am not a weapons expert. But I don&#39;t think that&#39;s how you test whether a gun has the safety on](http://9gag.com/gag/aD2AWDG)
- - 😝 [Let&#39;s dance!](http://9gag.com/gag/awy0VPQ)
- - 💣 [Posting images of good looking black chicks to prove they actively cast ugliest possible b*tches until I get bored or banned.](http://9gag.com/gag/aW4QMm6)
+ - 😝 [Robbing a Boy Infront of People In France. France Is Just Another European Country Destroyed By Mass Immigration.](http://9gag.com/gag/axydDDD)
+ - 😝 [Device that prevents lines from getting entangled in props](http://9gag.com/gag/aD2Aoyd)
+ - 💣 [Nice](http://9gag.com/gag/an7q1GB)
  - 😝 [Yeah I like puppies too](http://9gag.com/gag/azxgrzq)
- - 👉 [Oh look... a random AMD employee...](http://9gag.com/gag/ajPYn40)<!-- MEMES:END -->
+ - 👉 [Zimbabwe has officially launched a new gold-backed currency to replace the local dollar. Nice knowing you Zimbabwe.](http://9gag.com/gag/aryvNA7)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What a glow up](http://9gag.com/gag/agm3GWn)
+ - 😝 [My fellow passport bros](http://9gag.com/gag/amoNz66)
  - 😝 [Be fast cause they are furious!](http://9gag.com/gag/a34P7Rv)
- - 💣 [She was scared of getting railed, she got it anyway](http://9gag.com/gag/aVvzDm8)
- - 😝 [Yeah I like puppies too](http://9gag.com/gag/azxgrzq)
- - 👉 [Golden](http://9gag.com/gag/aZZbBj0)<!-- MEMES:END -->
+ - 💣 [Favorite](http://9gag.com/gag/a4PKj4d)
+ - 😝 [Fact](http://9gag.com/gag/aE0vzLo)
+ - 👉 [Hard to keep arguing then](http://9gag.com/gag/a9ybWAK)<!-- MEMES:END -->
 
 ---
 

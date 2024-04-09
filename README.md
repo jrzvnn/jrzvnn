@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Golden](http://9gag.com/gag/aZZbBj0)
- - 😝 [Priorities.....](http://9gag.com/gag/aQzPePw)
- - 💣 [Posting images of good looking black chicks to prove they actively cast ugliest possible b*tches until I get bored or banned.](http://9gag.com/gag/aW4QMm6)
- - 😝 [Hard to keep arguing then](http://9gag.com/gag/a9ybWAK)
- - 👉 [Let&#39;s dance!](http://9gag.com/gag/awy0VPQ)<!-- MEMES:END -->
+ - 😝 [Zimbabwe has officially launched a new gold-backed currency to replace the local dollar. Nice knowing you Zimbabwe.](http://9gag.com/gag/aryvNA7)
+ - 😝 [I am not a weapons expert. But I don&#39;t think that&#39;s how you test whether a gun has the safety on](http://9gag.com/gag/aD2AWDG)
+ - 💣 [Oh no... Anyway](http://9gag.com/gag/a6ZmVy2)
+ - 😝 [Posting images of good looking black chicks to prove they actively cast ugliest possible b*tches until I get bored or banned.](http://9gag.com/gag/aW4QMm6)
+ - 👉 [Hard to keep arguing then](http://9gag.com/gag/a9ybWAK)<!-- MEMES:END -->
 
 ---
 

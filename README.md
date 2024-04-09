@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let&#39;s dance!](http://9gag.com/gag/awy0VPQ)
- - 😝 [Fact](http://9gag.com/gag/aE0vzLo)
- - 💣 [Golden](http://9gag.com/gag/aZZbBj0)
- - 😝 [Robbing a Boy Infront of People In France. France Is Just Another European Country Destroyed By Mass Immigration.](http://9gag.com/gag/axydDDD)
- - 👉 [I am not a weapons expert. But I don&#39;t think that&#39;s how you test whether a gun has the safety on](http://9gag.com/gag/aD2AWDG)<!-- MEMES:END -->
+ - 😝 [Golden](http://9gag.com/gag/aZZbBj0)
+ - 😝 [When you&#39;re your own cook](http://9gag.com/gag/aZZbp9W)
+ - 💣 [Wholesome](http://9gag.com/gag/a1mvbD2)
+ - 😝 [Based af dad identifies as female Julius Cesar at school board meeting - Woketards are leaving the room](http://9gag.com/gag/aByRWbZ)
+ - 👉 [Play with me buddy!](http://9gag.com/gag/aRBwmAG)<!-- MEMES:END -->
 
 ---
 

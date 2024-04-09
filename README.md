@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Make a living by owning a bridge](http://9gag.com/gag/a7oLZge)
- - 😝 [Fact](http://9gag.com/gag/aE0vzLo)
- - 💣 [Posting images of good looking black chicks to prove they actively cast ugliest possible b*tches until I get bored or banned.](http://9gag.com/gag/aW4QMm6)
- - 😝 [Golden](http://9gag.com/gag/aZZbBj0)
- - 👉 [Hard to keep arguing then](http://9gag.com/gag/a9ybWAK)<!-- MEMES:END -->
+ - 😝 [A simple act of kindness](http://9gag.com/gag/apRELV8)
+ - 😝 [Posting images of good looking black chicks to prove they actively cast ugliest possible b*tches until I get bored or banned.](http://9gag.com/gag/aW4QMm6)
+ - 💣 [I guess she forgot who she was talking to...](http://9gag.com/gag/ajPYDAp)
+ - 😝 [Be fast cause they are furious!](http://9gag.com/gag/a34P7Rv)
+ - 👉 [Mexican news channel got trolled](http://9gag.com/gag/axydg5W)<!-- MEMES:END -->
 
 ---
 

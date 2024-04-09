@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you&#39;re your own cook](http://9gag.com/gag/aZZbp9W)
- - 😝 [Yeah I like puppies too](http://9gag.com/gag/azxgrzq)
+ - 😝 [When Japan does StarWars](http://9gag.com/gag/awy0QZy)
+ - 😝 [Scientifically correct!](http://9gag.com/gag/awy0n2y)
  - 💣 [Well Chess is funny sometimes](http://9gag.com/gag/axydVnK)
- - 😝 [NASA wins best eclipse picture](http://9gag.com/gag/aAyRDKd)
- - 👉 [When 2 master meet each other](http://9gag.com/gag/aAyRdqp)<!-- MEMES:END -->
+ - 😝 [When 2 master meet each other](http://9gag.com/gag/aAyRdqp)
+ - 👉 [Lol.](http://9gag.com/gag/aAyRdGd)<!-- MEMES:END -->
 
 ---
 

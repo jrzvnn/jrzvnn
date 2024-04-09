@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [South Korean President Yoon Suk Yeol says the country plans to invest ~$7B in AI by 2027, and will create a separate ~$1B fund to foster AI chip companies &lpar;Reuters&rpar;](http://www.techmeme.com/240409/p4#a240409p4)
  - [Target Circle Week Is Happening Now: All the Perks You Get With a Membership     - CNET](https://www.cnet.com/tech/mobile/target-circle-week-is-happening-now-all-the-perks-you-get-with-a-membership/#ftag=CAD590a51e)
  - [Q&amp;A with Cloudflare CEO Matthew Prince on the company&#39;s role in protecting free speech online, operating in war zones, moderation, never doing layoffs, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240409/p3#a240409p3)
  - [Logitech’s new wireless keyboard targets pro gamers needing portability](https://www.theverge.com/2024/4/9/24125017/logitech-g-pro-x-60-wireless-gaming-keyboard-price-release-date)
- - [Welcome to the Age of Technofeudalism](https://www.wired.com/story/yanis-varoufakis-technofeudalism-interview/)
- - [Sources: Cruise plans to resume its robotaxi service with safety drivers in Phoenix as early as April 9; Cruise says it &quot;had not set a timeline for deployment&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/240409/p2#a240409p2)<!-- TECH:END -->
+ - [Welcome to the Age of Technofeudalism](https://www.wired.com/story/yanis-varoufakis-technofeudalism-interview/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Enterprise data security startup Cyera raised a $300M Series C led by Coatue at a $1.4B valuation, taking its funding to $460M, after a $100M Series B in 2023 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240409/p10#a240409p10)
  - [Google announces its new Arm-based Axion chips for AI, with up to 30% better performance over Arm-based rivals, set to launch to cloud customers later in 2024 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240409/p9#a240409p9)
  - [Next two quarters may be tough, but iPhone 16 &amp; AI will return Apple to growth](https://appleinsider.com/articles/24/04/09/next-two-quarters-may-be-tough-but-iphone-16-ai-will-return-apple-to-growth?utm_medium=rss)
- - [An investigation finds a shadowy supply chain for Starlink terminals to US foes in Russia and Sudan via Africa, Asia, and the UAE; SpaceX has not shut them off &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240409/p8#a240409p8)
- - [Intel investigating games crashing on 13th and 14th Gen Core i9 processors](https://www.theverge.com/2024/4/9/24125036/intel-game-crash-13900k-14900k-fortnite-unreal-engine-investigation)
- - [Sources: the US plans to award Samsung $6B+ next week to build four chip facilities in Taylor, Texas, including a $17B plant, as part of the $52B CHIPS Act &lpar;Alexandra Alper/Reuters&rpar;](http://www.techmeme.com/240409/p7#a240409p7)<!-- TECH:END -->
+ - [Xbox Game Pass Ultimate: Play PGA Tour Now and More Soon     - CNET](https://www.cnet.com/tech/gaming/xbox-game-pass-ultimate-play-pag-tour-now-and-more-soon/#ftag=CAD590a51e)
+ - [Here Are the Steps You Need to Take to Clean Cat Pee From Your Couch     - CNET](https://www.cnet.com/how-to/here-are-the-steps-you-need-to-take-to-clean-cat-pee-from-your-couch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

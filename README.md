@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When Japan does StarWars](http://9gag.com/gag/awy0QZy)
- - 😝 [Oops](http://9gag.com/gag/a34PqVe)
- - 💣 [Based af dad identifies as female Julius Cesar at school board meeting - Woketards are leaving the room](http://9gag.com/gag/aByRWbZ)
- - 😝 [Lol.](http://9gag.com/gag/aAyRdGd)
- - 👉 [For airbnb only](http://9gag.com/gag/an7qbWq)<!-- MEMES:END -->
+ - 😝 [Squid meal gone wrong](http://9gag.com/gag/aAyRwO0)
+ - 😝 [NASA wins best eclipse picture](http://9gag.com/gag/aAyRDKd)
+ - 💣 [2009 World Series Poker Europe](http://9gag.com/gag/avypnGM)
+ - 😝 [Robbing a Boy Infront of People In France. France Is Just Another European Country Destroyed By Mass Immigration.](http://9gag.com/gag/axydDDD)
+ - 👉 [My fellow passport bros](http://9gag.com/gag/amoNz66)<!-- MEMES:END -->
 
 ---
 

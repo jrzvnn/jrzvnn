@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [No, you won&#39;t get a black eye from Apple Vision Pro](https://appleinsider.com/articles/24/04/09/no-you-wont-get-a-black-eye-from-apple-vision-pro?utm_medium=rss)
+ - [OpenAI makes GPT-4 Turbo with Vision generally available in the API, and lets Vision requests use JSON mode and function calling &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240409/p31#a240409p31)
+ - [The MPA has big plans to crack down on movie piracy again](https://www.theverge.com/2024/4/9/24125560/mpa-block-piracy-websites-cinemacon)
  - [Quora-owned AI chatbot platform Poe now allows bot creators to set a per-message price for their bots and rolls out enhanced analytics dashboard for creators &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240409/p30#a240409p30)
- - [How to tame notifications on iOS](https://www.theverge.com/24125330/ios-notification-settings-scheduled-summary-turn-off)
- - [Intel says its next-gen Lunar Lake laptop chips will have 100+ TOPS of performance in AI tasks and elements of Microsoft&#39;s Copilot will soon run locally on PCs &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240409/p28#a240409p28)
- - [Apple expanding its Miami footprint with new offices and a retail store](https://appleinsider.com/articles/24/04/09/apple-expanding-its-miami-footprint-with-new-offices-and-a-retail-store?utm_medium=rss)
- - [Section 702: The Future of the Biggest US Spy Program Hangs in the Balance](https://www.wired.com/live/section-702-reauthorization-congress-2024/)<!-- TECH:END -->
+ - [How to tame notifications on iOS](https://www.theverge.com/24125330/ios-notification-settings-scheduled-summary-turn-off)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

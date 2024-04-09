@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump Media &amp; Technology Group&#39;s stock slumped 36% since March 26, wiping out $2.8B in market value as retail traders sell; Trump&#39;s stake is now worth ~$2.9B &lpar;Bailey Lipschultz/Bloomberg&rpar;](http://www.techmeme.com/240409/p6#a240409p6)
+ - [Elon Musk Is Platforming Far-Right Activists in Brazil, Defying Court Order](https://www.wired.com/story/brazil-court-elon-musk-far-right/)
  - [India&#39;s Tata Group aims to buy another iPhone manufacturing plant](https://appleinsider.com/articles/24/04/09/indias-tata-group-aims-to-buy-another-iphone-manufacturing-plant?utm_medium=rss)
  - [In some US schools, boys have used AI &quot;nudification&quot; apps to create and share deepfakes of clothed female classmates, leading districts to scramble to respond &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/240409/p5#a240409p5)
- - [South Korean President Yoon Suk Yeol says the country plans to invest ~$7B in AI by 2027, and will create a separate ~$1B fund to foster AI chip companies &lpar;Reuters&rpar;](http://www.techmeme.com/240409/p4#a240409p4)
- - [Target Circle Week Is Happening Now: All the Perks You Get With a Membership     - CNET](https://www.cnet.com/tech/mobile/target-circle-week-is-happening-now-all-the-perks-you-get-with-a-membership/#ftag=CAD590a51e)
- - [Q&amp;A with Cloudflare CEO Matthew Prince on the company&#39;s role in protecting free speech online, operating in war zones, moderation, never doing layoffs, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240409/p3#a240409p3)<!-- TECH:END -->
+ - [South Korean President Yoon Suk Yeol says the country plans to invest ~$7B in AI by 2027, and will create a separate ~$1B fund to foster AI chip companies &lpar;Reuters&rpar;](http://www.techmeme.com/240409/p4#a240409p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

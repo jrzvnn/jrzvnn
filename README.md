@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Cloudflare CEO Matthew Prince on the company&#39;s role in protecting free speech online, operating in war zones, moderation, never doing layoffs, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240409/p3#a240409p3)
  - [Logitech’s new wireless keyboard targets pro gamers needing portability](https://www.theverge.com/2024/4/9/24125017/logitech-g-pro-x-60-wireless-gaming-keyboard-price-release-date)
  - [Welcome to the Age of Technofeudalism](https://www.wired.com/story/yanis-varoufakis-technofeudalism-interview/)
  - [Sources: Cruise plans to resume its robotaxi service with safety drivers in Phoenix as early as April 9; Cruise says it &quot;had not set a timeline for deployment&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/240409/p2#a240409p2)
- - [Interviews with 12+ former and current employees: ByteDance faces backlash from its US TikTok staff over large tax bills on stock shares they are unable to sell &lpar;Financial Times&rpar;](http://www.techmeme.com/240409/p1#a240409p1)
- - [Yes, Sleep Deprivation Might Be Slowing Your Metabolism. Here&#39;s What to Do About It     - CNET](https://www.cnet.com/health/sleep/sleep-deprivation-is-slowing-your-metabolism-heres-what-to-do-about-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Interviews with 12+ former and current employees: ByteDance faces backlash from its US TikTok staff over large tax bills on stock shares they are unable to sell &lpar;Financial Times&rpar;](http://www.techmeme.com/240409/p1#a240409p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

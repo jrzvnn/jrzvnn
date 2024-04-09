@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wholesome](http://9gag.com/gag/a1mvbD2)
  - 😝 [Golden](http://9gag.com/gag/aZZbBj0)
- - 💣 [Yeah I like puppies too](http://9gag.com/gag/azxgrzq)
- - 😝 [Japanese people never fails to entertain you.](http://9gag.com/gag/a5Qe7xg)
- - 👉 [When you&#39;re your own cook](http://9gag.com/gag/aZZbp9W)<!-- MEMES:END -->
+ - 😝 [I am not a weapons expert. But I don&#39;t think that&#39;s how you test whether a gun has the safety on](http://9gag.com/gag/aD2AWDG)
+ - 💣 [Japanese people never fails to entertain you.](http://9gag.com/gag/a5Qe7xg)
+ - 😝 [When you&#39;re your own cook](http://9gag.com/gag/aZZbp9W)
+ - 👉 [Yeah I like puppies too](http://9gag.com/gag/azxgrzq)<!-- MEMES:END -->
 
 ---
 

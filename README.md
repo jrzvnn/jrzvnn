@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Welcome to the Age of Technofeudalism](https://www.wired.com/story/yanis-varoufakis-technofeudalism-interview/)
  - [Sources: Cruise plans to resume its robotaxi service with safety drivers in Phoenix as early as April 9; Cruise says it &quot;had not set a timeline for deployment&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/240409/p2#a240409p2)
  - [Interviews with 12+ former and current employees: ByteDance faces backlash from its US TikTok staff over large tax bills on stock shares they are unable to sell &lpar;Financial Times&rpar;](http://www.techmeme.com/240409/p1#a240409p1)
  - [Yes, Sleep Deprivation Might Be Slowing Your Metabolism. Here&#39;s What to Do About It     - CNET](https://www.cnet.com/health/sleep/sleep-deprivation-is-slowing-your-metabolism-heres-what-to-do-about-it/#ftag=CAD590a51e)
- - [Best Google Pixel Deals: Save Up to $1,000 with Trade-In, Plus Other Deals on Pixel 8 Pro, Pixel Fold, Pixel 7A and More     - CNET](https://www.cnet.com/deals/best-google-pixel-deals/#ftag=CAD590a51e)
- - [How to fix Universal Clipboard problems on macOS](https://appleinsider.com/inside/macos/tips/how-to-fix-universal-clipboard-problems-on-macos?utm_medium=rss)<!-- TECH:END -->
+ - [Best Google Pixel Deals: Save Up to $1,000 with Trade-In, Plus Other Deals on Pixel 8 Pro, Pixel Fold, Pixel 7A and More     - CNET](https://www.cnet.com/deals/best-google-pixel-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

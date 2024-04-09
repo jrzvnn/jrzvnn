@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Section 702: The Future of the Biggest US Spy Program Hangs in the Balance](https://www.wired.com/live/section-702-reauthorization-congress-2024/)
  - [YouTube adds shopping features, including creator-curated product lists for users to browse called Shopping Collections and a hub with info on commission rates &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240409/p27#a240409p27)
  - [Acer announces its first two 14-inch gaming laptops](https://www.theverge.com/2024/4/9/24125286/acer-14-inch-nitro-predator-helios-gaming-laptop)
  - [Asus’ new OLED laptops run on the latest AI-capable chips](https://www.theverge.com/2024/4/9/24125264/asus-vivobook-s-zenbook-14-oled-um3406)
- - [Miku fans wanted a hologram concert — they got a TV show instead](https://www.theverge.com/2024/4/9/24125233/miku-expo-2024-hologram-screen-live-performance-fans-disappointed)
- - [Pop Music Is Mad. Social Media Loves It](https://www.wired.com/story/did-social-media-kill-the-pop-song/)<!-- TECH:END -->
+ - [Miku fans wanted a hologram concert — they got a TV show instead](https://www.theverge.com/2024/4/9/24125233/miku-expo-2024-hologram-screen-live-performance-fans-disappointed)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

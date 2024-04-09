@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My fellow passport bros](http://9gag.com/gag/amoNz66)
+ - 😝 [Female pilot has a public meltdown, tells passengers feeling unsafe to `get off the plane.`](http://9gag.com/gag/azxgAYN)
  - 😝 [Be fast cause they are furious!](http://9gag.com/gag/a34P7Rv)
- - 💣 [Favorite](http://9gag.com/gag/a4PKj4d)
- - 😝 [Fact](http://9gag.com/gag/aE0vzLo)
- - 👉 [Hard to keep arguing then](http://9gag.com/gag/a9ybWAK)<!-- MEMES:END -->
+ - 💣 [Fact](http://9gag.com/gag/aE0vzLo)
+ - 😝 [Goodbye, peaceful, clean, respectful and low-crime Japan](http://9gag.com/gag/aXP0p7P)
+ - 👉 [Yeah I like puppies too](http://9gag.com/gag/azxgrzq)<!-- MEMES:END -->
 
 ---
 

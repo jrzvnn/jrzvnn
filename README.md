@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Enterprise data security startup Cyera raised a $300M Series C led by Coatue at a $1.4B valuation, taking its funding to $460M, after a $100M Series B in 2023 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240409/p10#a240409p10)
- - [Google announces its new Arm-based Axion chips for AI, with up to 30% better performance over Arm-based rivals, set to launch to cloud customers later in 2024 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240409/p9#a240409p9)
- - [Next two quarters may be tough, but iPhone 16 &amp; AI will return Apple to growth](https://appleinsider.com/articles/24/04/09/next-two-quarters-may-be-tough-but-iphone-16-ai-will-return-apple-to-growth?utm_medium=rss)
- - [Xbox Game Pass Ultimate: Play PGA Tour Now and More Soon     - CNET](https://www.cnet.com/tech/gaming/xbox-game-pass-ultimate-play-pag-tour-now-and-more-soon/#ftag=CAD590a51e)
- - [Here Are the Steps You Need to Take to Clean Cat Pee From Your Couch     - CNET](https://www.cnet.com/how-to/here-are-the-steps-you-need-to-take-to-clean-cat-pee-from-your-couch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Teenagers still overwhelmingly want iPhone and Apple Watch more than any other brand](https://appleinsider.com/articles/24/04/09/teenagers-still-overwhelmingly-want-iphone-and-apple-watch-more-than-any-other-brand?utm_medium=rss)
+ - [The 12 Best Turntables for Your Vinyl Collection &lpar;2024&rpar;](https://www.wired.com/gallery/best-turntables/)
+ - [Google’s Gemini 1.5 Pro can now hear](https://www.theverge.com/2024/4/9/24124741/google-gemini-pro-imagen-updates-vertex)
+ - [With Vids, Google thinks it has the next big productivity tool for work](https://www.theverge.com/2024/4/9/24124168/google-vids-video-ai-workspace-app)
+ - [Google Cloud CEO Thomas Kurian unveils AI updates: corporate Gemini users can &quot;ground&quot; responses in reliable sources, Search as a Gemini answer source, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/240409/p11#a240409p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

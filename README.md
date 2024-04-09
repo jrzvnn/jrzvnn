@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Tesla reaches settlement in autopilot death case of Apple engineer](https://appleinsider.com/articles/24/04/09/tesla-reaches-settlement-in-autopilot-death-case-of-apple-engineer?utm_medium=rss)
+ - [The 5 Best Multivitamins for Men of 2024     - CNET](https://www.cnet.com/health/nutrition/best-multivitamins-for-men/#ftag=CAD590a51e)
  - [Grow Therapy, which provides services like patient-provider matching and EHR to help therapists run their own practices, raised an $88M Series C led by Sequoia &lpar;Heather Landi/Fierce Healthcare&rpar;](http://www.techmeme.com/240408/p34#a240408p34)
- - [X launches passkey support for iOS app users worldwide](https://appleinsider.com/articles/24/04/09/x-launches-passkey-support-for-ios-app-users-worldwide?utm_medium=rss)
- - [Can you watch a solar eclipse in the Apple Vision Pro?](https://www.theverge.com/2024/4/8/24124638/watch-solar-eclipse-apple-vision-pro)
- - [Best Solar Panel Installation Companies in Iowa     - CNET](https://www.cnet.com/home/energy-and-utilities/iowa-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Should You Go Solar if You Live on the East Coast? What You Need to Know     - CNET](https://www.cnet.com/home/energy-and-utilities/should-you-go-solar-if-you-live-on-the-east-coast-what-you-want-to-know/#ftag=CAD590a51e)
+ - [X launches passkey support for iOS app users worldwide](https://appleinsider.com/articles/24/04/09/x-launches-passkey-support-for-ios-app-users-worldwide?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

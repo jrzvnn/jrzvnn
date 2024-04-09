@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When Japan does StarWars](http://9gag.com/gag/awy0QZy)
- - 😝 [Scientifically correct!](http://9gag.com/gag/awy0n2y)
- - 💣 [Well Chess is funny sometimes](http://9gag.com/gag/axydVnK)
- - 😝 [When 2 master meet each other](http://9gag.com/gag/aAyRdqp)
- - 👉 [Lol.](http://9gag.com/gag/aAyRdGd)<!-- MEMES:END -->
+ - 😝 [Sorry about the dumb red arrow.](http://9gag.com/gag/aVvzeQP)
+ - 😝 [Hard to keep arguing then](http://9gag.com/gag/a9ybWAK)
+ - 💣 [Oh no... Anyway](http://9gag.com/gag/a6ZmVy2)
+ - 😝 [No meme. My 36yo pregnant wife had a stroke and died. The baby was successfully delivered and is in the NICU and doing fine. I am now a 37yo widower with two children under 4yo. Hug your loved ones. Tell them you love them. Live your life to the fullest.](http://9gag.com/gag/agm3Lwg)
+ - 👉 [9gag comments never disappoint](http://9gag.com/gag/avypnm5)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Monad Labs, which is building a Layer 1 blockchain to rival Ethereum and Solana, raised $225M led by Paradigm and plans to launch its mainnet by the end of 2024 &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/240409/p17#a240409p17)
- - [Google makes its Imagen 2 image generator generally available in Vertex AI, and adds inpainting and outpainting to remove or add elements and expand borders &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240409/p16#a240409p16)
- - [Google details Workspace updates: Gmail &quot;Help me write&quot; voice input and &quot;instant polish&quot;, Docs tabs, Sheets tables, Gemini in Chat, Meet translation, and more &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240409/p15#a240409p15)
- - [Google releases Gemini 1.5 Pro in public preview on Vertex AI, with support for up to 1M tokens, and says the model will power new features in Code Assist &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240409/p14#a240409p14)
- - [Google announces Vids, an app to help companies and consumers make collaborative, shareable video, powered by Gemini, launching in public beta in summer 2024 &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240409/p13#a240409p13)<!-- TECH:END -->
+ - [The TikTok ban and the iPhone monopoly](https://www.theverge.com/2024/4/9/24124405/tiktok-ban-apple-monopoly-antitrust-vergecast-podcast)
+ - [Rumored Apple Watch Series 10 screen improvement will sip battery power](https://appleinsider.com/articles/24/04/09/rumored-apple-watch-series-10-screen-improvement-will-sip-battery-power?utm_medium=rss)
+ - [Students Are Likely Writing Millions of Papers With AI](https://www.wired.com/story/student-papers-generative-ai-turnitin/)
+ - [DJI’s new Ronin stabilizers arrive for both solo creators and studios](https://www.theverge.com/2024/4/9/24125066/dji-ronin-rs4-pro-camera-gimbal-stabilizers-price-release-date)
+ - [Monad Labs, which is building a Layer 1 blockchain to rival Ethereum and Solana, raised $225M led by Paradigm and plans to launch its mainnet by the end of 2024 &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/240409/p17#a240409p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

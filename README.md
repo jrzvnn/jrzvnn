@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Zimbabwe has officially launched a new gold-backed currency to replace the local dollar. Nice knowing you Zimbabwe.](http://9gag.com/gag/aryvNA7)
- - 😝 [I am not a weapons expert. But I don&#39;t think that&#39;s how you test whether a gun has the safety on](http://9gag.com/gag/aD2AWDG)
- - 💣 [Oh no... Anyway](http://9gag.com/gag/a6ZmVy2)
- - 😝 [Posting images of good looking black chicks to prove they actively cast ugliest possible b*tches until I get bored or banned.](http://9gag.com/gag/aW4QMm6)
- - 👉 [Hard to keep arguing then](http://9gag.com/gag/a9ybWAK)<!-- MEMES:END -->
+ - 😝 [No meme. My 36yo pregnant wife had a stroke and died. The baby was successfully delivered and is in the NICU and doing fine. I am now a 37yo widower with two children under 4yo. Hug your loved ones. Tell them you love them. Live your life to the fullest.](http://9gag.com/gag/agm3Lwg)
+ - 😝 [Let&#39;s dance!](http://9gag.com/gag/awy0VPQ)
+ - 💣 [Yeah I like puppies too](http://9gag.com/gag/azxgrzq)
+ - 😝 [Nice](http://9gag.com/gag/an7q1GB)
+ - 👉 [Be fast cause they are furious!](http://9gag.com/gag/a34P7Rv)<!-- MEMES:END -->
 
 ---
 

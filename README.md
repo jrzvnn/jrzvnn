@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A period piece, a contemporary drama, and a speculative sci-fi movie all in one](https://www.theverge.com/24124526/the-beast-bertrand-bonello-interview-lea-seydoux)
- - [Make Coffee How You Like It With This $70 Keurig K-Slim Plus Iced Brewer From QVC     - CNET](https://www.cnet.com/deals/make-coffee-how-you-like-it-with-this-70-keurig-k-slim-plus-iced-brewer-from-qvc/#ftag=CAD590a51e)
- - [eBay adds an AI-powered &quot;shop the look&quot; feature to its iOS app, with personalized recommendations for users that have viewed 10+ fashion items in six months &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240409/p22#a240409p22)
- - [Best Wireless Earbuds Under $50     - CNET](https://www.cnet.com/tech/mobile/best-bargain-true-wireless-earbuds-under-50/#ftag=CAD590a51e)
- - [In a first, international court upholds right to be safe from climate change](https://www.theverge.com/2024/4/9/24125087/international-human-rights-court-judgement-climate-change-case)<!-- TECH:END -->
+ - [In London, Meta execs downplayed the negative impact of AI on elections, touted open-source AI, and confirmed Llama&#39;s next version will arrive by next month &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/240409/p24#a240409p24)
+ - [Cruise resumes manually driving its vehicles without autonomous systems engaged to create maps and gather road information in select cities, starting in Phoenix &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/240409/p23#a240409p23)
+ - [The best iPad to buy](https://www.theverge.com/23639378/best-ipad-apple-buy-model-price)
+ - [Arturia AstroLab Review: World-Class Synths in a Keyboard](https://www.wired.com/review/arturia-astrolab/)
+ - [The creators of Fallout want the show to have the game’s mix of silly and serious](https://www.theverge.com/24124538/fallout-cast-interview-amazon-prime-video)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

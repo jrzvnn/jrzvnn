@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Posting images of good looking black chicks to prove they actively cast ugliest possible b*tches until I get bored or banned.](http://9gag.com/gag/aW4QMm6)
- - 😝 [I am not a weapons expert. But I don&#39;t think that&#39;s how you test whether a gun has the safety on](http://9gag.com/gag/aD2AWDG)
- - 💣 [9gag comments never disappoint](http://9gag.com/gag/avypnm5)
- - 😝 [Robbing a Boy Infront of People In France. France Is Just Another European Country Destroyed By Mass Immigration.](http://9gag.com/gag/axydDDD)
- - 👉 [Zimbabwe has officially launched a new gold-backed currency to replace the local dollar. Nice knowing you Zimbabwe.](http://9gag.com/gag/aryvNA7)<!-- MEMES:END -->
+ - 😝 [Wholesome](http://9gag.com/gag/a1mvbD2)
+ - 😝 [Yeah I like puppies too](http://9gag.com/gag/azxgrzq)
+ - 💣 [Japanese people never fails to entertain you.](http://9gag.com/gag/a5Qe7xg)
+ - 😝 [When you&#39;re your own cook](http://9gag.com/gag/aZZbp9W)
+ - 👉 [Well Chess is funny sometimes](http://9gag.com/gag/axydVnK)<!-- MEMES:END -->
 
 ---
 

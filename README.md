@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Asus’ new OLED laptops run on the latest AI-capable chips](https://www.theverge.com/2024/4/9/24125264/asus-vivobook-s-zenbook-14-oled-um3406)
  - [Miku fans wanted a hologram concert — they got a TV show instead](https://www.theverge.com/2024/4/9/24125233/miku-expo-2024-hologram-screen-live-performance-fans-disappointed)
  - [Pop Music Is Mad. Social Media Loves It](https://www.wired.com/story/did-social-media-kill-the-pop-song/)
- - [Destiny 2: The Final Shape is going to break the game in a good way](https://www.theverge.com/2024/4/9/24125357/destiny-2-the-final-shape-prismatic-subclasses-preview)
- - [SwitchBot’s robot vacuums now work with Matter, but the platforms need to step up support](https://www.theverge.com/2024/4/9/24125273/switchbot-robot-vacuum-matter-support)
- - [Elon Musk’s Latest Mars Pitch Has Potential](https://www.wired.com/story/elon-musk-mars-spacex-update/)<!-- TECH:END -->
+ - [Destiny 2: The Final Shape is going to break the game, in a good way](https://www.theverge.com/2024/4/9/24125357/destiny-2-the-final-shape-prismatic-subclasses-preview)
+ - [SwitchBot’s robot vacuums now work with Matter, but the platforms need to step up support](https://www.theverge.com/2024/4/9/24125273/switchbot-robot-vacuum-matter-support)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

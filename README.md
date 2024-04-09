@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I am not a weapons expert. But I don&#39;t think that&#39;s how you test whether a gun has the safety on](http://9gag.com/gag/aD2AWDG)
- - 😝 [Let&#39;s dance!](http://9gag.com/gag/awy0VPQ)
- - 💣 [I guess she forgot who she was talking to...](http://9gag.com/gag/ajPYDAp)
- - 😝 [2009 World Series Poker Europe](http://9gag.com/gag/avypnGM)
- - 👉 [Priorities.....](http://9gag.com/gag/aQzPePw)<!-- MEMES:END -->
+ - 😝 [When Japan does StarWars](http://9gag.com/gag/awy0QZy)
+ - 😝 [Oops](http://9gag.com/gag/a34PqVe)
+ - 💣 [Based af dad identifies as female Julius Cesar at school board meeting - Woketards are leaving the room](http://9gag.com/gag/aByRWbZ)
+ - 😝 [Lol.](http://9gag.com/gag/aAyRdGd)
+ - 👉 [For airbnb only](http://9gag.com/gag/an7qbWq)<!-- MEMES:END -->
 
 ---
 

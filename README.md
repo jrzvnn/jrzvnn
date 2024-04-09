@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alethea, whose ML service monitors online chatter to help companies detect disinformation, raised a $20M Series B by GV, bringing its total raised to $34M &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/240409/p32#a240409p32)
- - [No, you won&#39;t get a black eye from Apple Vision Pro](https://appleinsider.com/articles/24/04/09/no-you-wont-get-a-black-eye-from-apple-vision-pro?utm_medium=rss)
- - [OpenAI makes GPT-4 Turbo with Vision generally available in the API, and lets Vision requests use JSON mode and function calling &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240409/p31#a240409p31)
- - [The MPA has big plans to crack down on movie piracy again](https://www.theverge.com/2024/4/9/24125560/mpa-block-piracy-websites-cinemacon)
- - [&#39;Saw X&#39;: Streaming Release Date and How to Watch From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/saw-x-streaming-release-date-and-how-to-watch-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google partners with Bayer on an AI product that can flag anomalies within images for radiologists and summarize information from a patient&#39;s medical history &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240409/p33#a240409p33)
+ - [Ted Cruz hosts a podcast for free — a Ted Cruz super PAC gets paid](https://www.theverge.com/2024/4/9/24125736/ted-cruz-podcast-verdict-iheart-fec-neon-hum-roost-sony)
+ - [Best VPN Deals: Nab a VPN Subscription for Just $2 per Month     - CNET](https://www.cnet.com/deals/best-vpn-sales-and-deals-right-now/#ftag=CAD590a51e)
+ - [Do You Get Extra Time to Do Your Taxes? Yes, if You Live in One of These States     - CNET](https://www.cnet.com/personal-finance/taxes/do-you-get-extra-time-to-do-your-taxes-yes-if-you-live-in-one-of-these-states/#ftag=CAD590a51e)
+ - [Alethea, whose ML service monitors online chatter to help companies detect disinformation, raised a $20M Series B by GV, bringing its total raised to $34M &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/240409/p32#a240409p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

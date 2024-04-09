@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Intel debuts its Gaudi 3 AI chips, set for Q3 mass production, saying they offer up to 1.7x the training performance and 40% better efficiency than Nvidia H100s &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240409/p21#a240409p21)
  - [Meta may release smaller Llama AI model before the big version](https://www.theverge.com/2024/4/9/24125217/meta-llama-smaller-lightweight-model-ai)
- - [Apple&#39;s new AI model could help Siri see how iOS apps work](https://appleinsider.com/articles/24/04/09/apples-new-ai-model-could-help-siri-see-how-ios-apps-work?utm_medium=rss)
- - [Beeper Took On Apple’s iMessage Dominance. Now It’s Been Acquired](https://www.wired.com/story/beeper-acquired-by-automattic/)
- - [Beeper was just acquired by Automattic, which has big plans for the future of messaging](https://www.theverge.com/2024/4/9/24124179/beeper-app-automattic-acquisition-matrix-messaging)
- - [Apple spotlights how businesses are adopting the Apple Vision Pro](https://appleinsider.com/articles/24/04/09/apple-spotlights-how-businesses-are-adopting-the-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
+ - [New and Refurb Amazon Devices Are Deeply Discounted at Woot     - CNET](https://www.cnet.com/deals/new-and-refurb-amazon-devices-are-deeply-discounted-at-woot/#ftag=CAD590a51e)
+ - [Blink Outdoor &lpar;4th Gen&rpar;     - CNET](https://www.cnet.com/home/security/blink-outdoor-4-4th-gen-dpnl/#ftag=CAD590a51e)
+ - [Apple&#39;s new AI model could help Siri see how iOS apps work](https://appleinsider.com/articles/24/04/09/apples-new-ai-model-could-help-siri-see-how-ios-apps-work?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

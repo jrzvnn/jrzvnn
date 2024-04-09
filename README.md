@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel debuts its Gaudi 3 AI chips, set for Q3 mass production, saying they offer up to 1.7x the training performance and 40% better efficiency than Nvidia H100s &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240409/p21#a240409p21)
- - [Meta may release smaller Llama AI model before the big version](https://www.theverge.com/2024/4/9/24125217/meta-llama-smaller-lightweight-model-ai)
- - [New and Refurb Amazon Devices Are Deeply Discounted at Woot     - CNET](https://www.cnet.com/deals/new-and-refurb-amazon-devices-are-deeply-discounted-at-woot/#ftag=CAD590a51e)
- - [Blink Outdoor &lpar;4th Gen&rpar;     - CNET](https://www.cnet.com/home/security/blink-outdoor-4-4th-gen-dpnl/#ftag=CAD590a51e)
- - [Apple&#39;s new AI model could help Siri see how iOS apps work](https://appleinsider.com/articles/24/04/09/apples-new-ai-model-could-help-siri-see-how-ios-apps-work?utm_medium=rss)<!-- TECH:END -->
+ - [CT scans show off the phenomenal design of the Apple Vision Pro](https://appleinsider.com/articles/24/04/09/ct-scans-show-off-the-phenomenal-design-of-the-apple-vision-pro?utm_medium=rss)
+ - [The new Star Wars Outlaws trailer introduces you to the criminal underworld](https://www.theverge.com/24121150/star-wars-outlaws-trailer-release-date)
+ - [The 5 Best RSS Feeders &lpar;2023&rpar;: Feedly, Inoreader, and Tips](https://www.wired.com/story/best-rss-feed-readers/)
+ - [Rumored Apple Watch Series 10 screen improvement will sip battery power](https://appleinsider.com/articles/24/04/09/rumored-apple-watch-series-10-screen-improvement-will-sip-battery-power?utm_medium=rss)
+ - [How to get the best video capture possible on iPhone 15 Pro with ProRes](https://appleinsider.com/inside/iphone-15-pro/tips/how-to-get-the-best-video-capture-possible-on-iphone-15-pro-with-prores?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

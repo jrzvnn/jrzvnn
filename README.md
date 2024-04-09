@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Make a living by owning a bridge](http://9gag.com/gag/a7oLZge)
+ - 😝 [Fact](http://9gag.com/gag/aE0vzLo)
  - 😝 [Let&#39;s dance!](http://9gag.com/gag/awy0VPQ)
- - 💣 [Posting images of good looking black chicks to prove they actively cast ugliest possible b*tches until I get bored or banned.](http://9gag.com/gag/aW4QMm6)
+ - 💣 [Golden](http://9gag.com/gag/aZZbBj0)
  - 😝 [Hard to keep arguing then](http://9gag.com/gag/a9ybWAK)
- - 👉 [Favorite](http://9gag.com/gag/a4PKj4d)<!-- MEMES:END -->
+ - 👉 [Japanese people never fails to entertain you.](http://9gag.com/gag/a5Qe7xg)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wholesome](http://9gag.com/gag/a1mvbD2)
- - 😝 [Yeah I like puppies too](http://9gag.com/gag/azxgrzq)
- - 💣 [Japanese people never fails to entertain you.](http://9gag.com/gag/a5Qe7xg)
- - 😝 [When you&#39;re your own cook](http://9gag.com/gag/aZZbp9W)
- - 👉 [Well Chess is funny sometimes](http://9gag.com/gag/axydVnK)<!-- MEMES:END -->
+ - 😝 [Priorities.....](http://9gag.com/gag/aQzPePw)
+ - 😝 [Let&#39;s dance!](http://9gag.com/gag/awy0VPQ)
+ - 💣 [Hard to keep arguing then](http://9gag.com/gag/a9ybWAK)
+ - 😝 [Oh look... a random AMD employee...](http://9gag.com/gag/ajPYn40)
+ - 👉 [I am not a weapons expert. But I don&#39;t think that&#39;s how you test whether a gun has the safety on](http://9gag.com/gag/aD2AWDG)<!-- MEMES:END -->
 
 ---
 

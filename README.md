@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Watch Joe Rogan change his opinion in real time when presented with a different perspective &lpar;with facts to back it up&rpar;](http://9gag.com/gag/aVvze9d)
+ - 😝 [I am not a weapons expert. But I don&#39;t think that&#39;s how you test whether a gun has the safety on](http://9gag.com/gag/aD2AWDG)
+ - 💣 [Mexican news channel got trolled](http://9gag.com/gag/axydg5W)
  - 😝 [I guess she forgot who she was talking to...](http://9gag.com/gag/ajPYDAp)
- - 😝 [Mexican news channel got trolled](http://9gag.com/gag/axydg5W)
- - 💣 [Dont muck around with squid ink](http://9gag.com/gag/a5QeKrO)
- - 😝 [Let&#39;s dance!](http://9gag.com/gag/awy0VPQ)
- - 👉 [Posting images of good looking black chicks to prove they actively cast ugliest possible b*tches until I get bored or banned.](http://9gag.com/gag/aW4QMm6)<!-- MEMES:END -->
+ - 👉 [Golden](http://9gag.com/gag/aZZbBj0)<!-- MEMES:END -->
 
 ---
 

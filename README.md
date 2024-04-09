@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Be fast cause they are furious!](http://9gag.com/gag/a34P7Rv)
- - 😝 [Lol.](http://9gag.com/gag/aAyRdGd)
- - 💣 [Bird feeder](http://9gag.com/gag/ajPYD4G)
  - 😝 [I guess she forgot who she was talking to...](http://9gag.com/gag/ajPYDAp)
- - 👉 [Mexican news channel got trolled](http://9gag.com/gag/axydg5W)<!-- MEMES:END -->
+ - 😝 [Mexican news channel got trolled](http://9gag.com/gag/axydg5W)
+ - 💣 [Dont muck around with squid ink](http://9gag.com/gag/a5QeKrO)
+ - 😝 [Let&#39;s dance!](http://9gag.com/gag/awy0VPQ)
+ - 👉 [Posting images of good looking black chicks to prove they actively cast ugliest possible b*tches until I get bored or banned.](http://9gag.com/gag/aW4QMm6)<!-- MEMES:END -->
 
 ---
 

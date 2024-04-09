@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Both the release and beta visionOS versions get minor updates](https://appleinsider.com/articles/24/04/09/both-the-release-and-beta-visionos-versions-get-minor-updates?utm_medium=rss)
  - [In London, Meta execs downplayed the negative impact of AI on elections, touted open-source AI, and confirmed Llama&#39;s next version will arrive by next month &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/240409/p24#a240409p24)
  - [Cruise resumes manually driving its vehicles without autonomous systems engaged to create maps and gather road information in select cities, starting in Phoenix &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/240409/p23#a240409p23)
  - [The best iPad to buy](https://www.theverge.com/23639378/best-ipad-apple-buy-model-price)
- - [Arturia AstroLab Review: World-Class Synths in a Keyboard](https://www.wired.com/review/arturia-astrolab/)
- - [The creators of Fallout want the show to have the game’s mix of silly and serious](https://www.theverge.com/24124538/fallout-cast-interview-amazon-prime-video)<!-- TECH:END -->
+ - [It&#39;s Your Last Chance to Snag a Free 65-Inch Samsung TV: Here&#39;s How     - CNET](https://www.cnet.com/deals/its-your-last-chance-to-snag-a-free-65-inch-samsung-tv-heres-how/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

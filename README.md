@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Golden](http://9gag.com/gag/aZZbBj0)
- - 😝 [Lmao](http://9gag.com/gag/aYQNKRN)
- - 💣 [Yeah I like puppies too](http://9gag.com/gag/azxgrzq)
- - 😝 [Be fast cause they are furious!](http://9gag.com/gag/a34P7Rv)
- - 👉 [No title](http://9gag.com/gag/an7qyjB)<!-- MEMES:END -->
+ - 😝 [I am not a weapons expert. But I don&#39;t think that&#39;s how you test whether a gun has the safety on](http://9gag.com/gag/aD2AWDG)
+ - 😝 [From Scott to Stew](http://9gag.com/gag/a1mvK4D)
+ - 💣 [Posting on 9GAG be like](http://9gag.com/gag/aE0vRQe)
+ - 😝 [What alcohol withdrawal looks like](http://9gag.com/gag/aLnRMex)
+ - 👉 [How?](http://9gag.com/gag/apRE2zp)<!-- MEMES:END -->
 
 ---
 

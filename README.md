@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s M2 MacBook Air drops to all-time low of $849 in latest price war](https://appleinsider.com/articles/24/04/08/best-buy-hops-on-849-m2-macbook-air-bandwagon-with-latest-deal?utm_medium=rss)
  - [Sources: ByteDance&#39;s EBITDA rose 60% YoY in 2023 to $40B and its sales rose from $80B to $120B, the first time ByteDance surpassed Tencent in revenue and profit &lpar;Bloomberg&rpar;](http://www.techmeme.com/240410/p11#a240410p11)
  - [Mexico City’s Metro System Is Sinking Fast. Yours Could Be Next](https://www.wired.com/story/mexico-city-metro-sinking-subsidence/)
  - [Consumers will finally see FCC-mandated ‘nutrition labels’ for most broadband plans](https://www.theverge.com/2024/4/10/24125572/fcc-broadband-nutrition-labels-isp-deadline-today)
- - [The US finalizes rules for ‘forever chemicals’ in drinking water](https://www.theverge.com/2024/4/10/24125488/epa-pfas-forever-chemicals-drinking-water-standards)
- - [How TSMC is transforming the Japanese farm town of Kikuyo into a key node in Asia&#39;s chip supply chain, backed by billions of dollars from Japan&#39;s government &lpar;New York Times&rpar;](http://www.techmeme.com/240410/p10#a240410p10)<!-- TECH:END -->
+ - [The US finalizes rules for ‘forever chemicals’ in drinking water](https://www.theverge.com/2024/4/10/24125488/epa-pfas-forever-chemicals-drinking-water-standards)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

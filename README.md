@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Atos, the main cybersecurity provider to the 2024 Olympics, secures &amp;euro;450M in interim financing to stay afloat, including a &amp;euro;50M loan from the French Government &lpar;Politico&rpar;](http://www.techmeme.com/240410/p4#a240410p4)
+ - [Kobo announces its first color e-readers](https://www.theverge.com/2024/4/10/24124411/kobo-libra-colour-clara-colour-e-reader-kindle-e-ink)
  - [Platform Science, which provides connected vehicle tools for enterprise fleets, raised $125M from 8VC, Prologis, and others, taking its total funding to $309M &lpar;Grace Sharkey/FreightWaves&rpar;](http://www.techmeme.com/240410/p3#a240410p3)
  - [Investment platform Linqto plans to go public via a SPAC merger with Blockchain Coinvestors Acquisition at a ~$700M valuation in a deal expected to close in H2 &lpar;Arasu Kannagi Basil/Reuters&rpar;](http://www.techmeme.com/240410/p2#a240410p2)
- - [In a lengthy memo on Alibaba&#39;s internal forum, Jack Ma voiced his support for a company undergoing a turbulent restructuring, saying it is now on the right path &lpar;Bloomberg&rpar;](http://www.techmeme.com/240410/p1#a240410p1)
- - [WPP announces a collaboration with Google, integrating Gemini AI tools with WPP data to create scripts, product images, and more for ad clients like Coca-Cola &lpar;Nicola Agius/Search Engine Land&rpar;](http://www.techmeme.com/240409/p39#a240409p39)
- - [Today&#39;s Wordle Hints and Answer: Help for April 10, #1026     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-10-1026/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [In a lengthy memo on Alibaba&#39;s internal forum, Jack Ma voiced his support for a company undergoing a turbulent restructuring, saying it is now on the right path &lpar;Bloomberg&rpar;](http://www.techmeme.com/240410/p1#a240410p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

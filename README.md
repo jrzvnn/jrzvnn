@@ -170,7 +170,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Sources: Apple assembled $14B of iPhones in India last fiscal year, doubling production YoY, with the company now making as much as 14% of its iPhones in India &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/240410/p5#a240410p5)
  - [Atos, the main cybersecurity provider to the 2024 Olympics, secures &amp;euro;450M in interim financing to stay afloat, including a &amp;euro;50M loan from the French Government &lpar;Politico&rpar;](http://www.techmeme.com/240410/p4#a240410p4)
  - [Kobo announces its first color e-readers](https://www.theverge.com/2024/4/10/24124411/kobo-libra-colour-clara-colour-e-reader-kindle-e-ink)
- - [Platform Science, which provides connected vehicle tools for enterprise fleets, raised $125M from 8VC, Prologis, and others, taking its total funding to $309M &lpar;Grace Sharkey/FreightWaves&rpar;](http://www.techmeme.com/240410/p3#a240410p3)<!-- TECH:END -->
+ - [Best iPhone 14 Fast Chargers at the Lowest Prices We Can Find     - CNET](https://www.cnet.com/tech/mobile/best-iphone-13-usb-c-fast-charger/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

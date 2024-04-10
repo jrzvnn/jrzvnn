@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Two former execs of the company behind the Truth Social merger are caught up in a messy hacking lawsuit](https://www.theverge.com/2024/4/10/24126237/truth-social-digital-world-acquisition-corp-hacking-lawsuit-patrick-orlando-eric-swider-trump-media)
  - [Apple’s antitrust case is getting a new judge](https://www.theverge.com/2024/4/10/24126698/apple-doj-antitrust-case-judge-recused)
  - [Meta says it’s fixing ‘HD’ photo sharing in Facebook Messenger](https://www.theverge.com/2024/4/10/24126692/facebook-messenger-hd-photo-sharing-toggle-file-qr-codes)
  - [Apple Store employees in New Jersey are trying to unionize](https://www.theverge.com/2024/4/10/24126657/apple-store-employees-new-jersey-unionize)
- - [Sources: Sam Altman met with investors and officials in the UAE this week to push for more infrastructure investment to support the development of AI technology &lpar;Bloomberg&rpar;](http://www.techmeme.com/240410/p34#a240410p34)
- - [&#39;Fallout&#39; Hits Prime Video Today: Here&#39;s When You Can Watch     - CNET](https://www.cnet.com/tech/services-and-software/fallout-hits-prime-video-today-heres-when-you-can-watch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Sam Altman met with investors and officials in the UAE this week to push for more infrastructure investment to support the development of AI technology &lpar;Bloomberg&rpar;](http://www.techmeme.com/240410/p34#a240410p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

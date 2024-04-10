@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No wonder your a piggy](http://9gag.com/gag/aByR02Q)
- - 😝 [Don&#39;t even like the guy, but there may be a pattern here.](http://9gag.com/gag/aqy9bpQ)
- - 💣 [How?](http://9gag.com/gag/apRE2zp)
- - 😝 [There&#39;s an ending to this comic since it&#39;s a two-part, but if she ended up here, in the first half, it would be enough to found it idyllic](http://9gag.com/gag/aRBw1D7)
- - 👉 [What alcohol withdrawal looks like](http://9gag.com/gag/aLnRMex)<!-- MEMES:END -->
+ - 😝 [From Scott to Stew](http://9gag.com/gag/a1mvK4D)
+ - 😝 [Well, what did you expect? Have you seen who his mother is?](http://9gag.com/gag/a4PK776)
+ - 💣 [Ghost fart. Thousand of people die every year because ot it.](http://9gag.com/gag/amoNB7V)
+ - 😝 [Have you heard of the 1997 seattle samurai incident?](http://9gag.com/gag/agm3XY6)
+ - 👉 [There&#39;s an ending to this comic since it&#39;s a two-part, but if she ended up here, in the first half, it would be enough to found it idyllic](http://9gag.com/gag/aRBw1D7)<!-- MEMES:END -->
 
 ---
 

@@ -169,8 +169,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [AMC Theatres’ top brass has misgivings about the Dune popcorn bucket](https://www.theverge.com/2024/4/10/24126387/amc-dune-popcorn-bucket-theatres)
  - [New Jersey Apple Store files to unionize](https://appleinsider.com/articles/24/04/10/new-jersey-apple-store-files-to-unionize?utm_medium=rss)
  - [Trump Loyalists Kill Vote on US Wiretap Program](https://www.wired.com/story/section-702-vote-fails-trump-fisa/)
- - [Cordless Push Mower     - CNET](https://www.cnet.com/news/cordless-push-mower-dpnl/#ftag=CAD590a51e)
- - [Sources: SpaceX&#39;s accounting is more &quot;art than a science&quot;, often omitting costs of putting Starlink satellites in orbit to make numbers look better to investors &lpar;Bloomberg&rpar;](http://www.techmeme.com/240410/p32#a240410p32)<!-- TECH:END -->
+ - [Sources: SpaceX&#39;s accounting is more &quot;art than a science&quot;, often omitting costs of putting Starlink satellites in orbit to make numbers look better to investors &lpar;Bloomberg&rpar;](http://www.techmeme.com/240410/p32#a240410p32)
+ - [21 Best Deals From the Target Circle Week Deals Event &lpar;2024&rpar;](https://www.wired.com/story/target-circle-week-deals-april-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

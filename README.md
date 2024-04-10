@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple assembled $14B of iPhones in India last fiscal year, doubling production YoY, with the company now making as much as 14% of its iPhones in India &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/240410/p5#a240410p5)
  - [Atos, the main cybersecurity provider to the 2024 Olympics, secures &amp;euro;450M in interim financing to stay afloat, including a &amp;euro;50M loan from the French Government &lpar;Politico&rpar;](http://www.techmeme.com/240410/p4#a240410p4)
  - [Kobo announces its first color e-readers](https://www.theverge.com/2024/4/10/24124411/kobo-libra-colour-clara-colour-e-reader-kindle-e-ink)
  - [Platform Science, which provides connected vehicle tools for enterprise fleets, raised $125M from 8VC, Prologis, and others, taking its total funding to $309M &lpar;Grace Sharkey/FreightWaves&rpar;](http://www.techmeme.com/240410/p3#a240410p3)
- - [Investment platform Linqto plans to go public via a SPAC merger with Blockchain Coinvestors Acquisition at a ~$700M valuation in a deal expected to close in H2 &lpar;Arasu Kannagi Basil/Reuters&rpar;](http://www.techmeme.com/240410/p2#a240410p2)
- - [In a lengthy memo on Alibaba&#39;s internal forum, Jack Ma voiced his support for a company undergoing a turbulent restructuring, saying it is now on the right path &lpar;Bloomberg&rpar;](http://www.techmeme.com/240410/p1#a240410p1)<!-- TECH:END -->
+ - [Investment platform Linqto plans to go public via a SPAC merger with Blockchain Coinvestors Acquisition at a ~$700M valuation in a deal expected to close in H2 &lpar;Arasu Kannagi Basil/Reuters&rpar;](http://www.techmeme.com/240410/p2#a240410p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

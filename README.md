@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [NASA wins best eclipse picture](http://9gag.com/gag/aAyRDKd)
- - 😝 [Yeah I like puppies too](http://9gag.com/gag/azxgrzq)
- - 💣 [Zimbabwe has officially launched a new gold-backed currency to replace the local dollar. Nice knowing you Zimbabwe.](http://9gag.com/gag/aryvNA7)
- - 😝 [From Scott to Stew](http://9gag.com/gag/a1mvK4D)
- - 👉 [Robbing a Boy Infront of People In France. France Is Just Another European Country Destroyed By Mass Immigration.](http://9gag.com/gag/axydDDD)<!-- MEMES:END -->
+ - 😝 [When Japan does StarWars](http://9gag.com/gag/awy0QZy)
+ - 😝 [When 2 master meet each other](http://9gag.com/gag/aAyRdqp)
+ - 💣 [Based af dad identifies as female Julius Cesar at school board meeting - Woketards are leaving the room](http://9gag.com/gag/aByRWbZ)
+ - 😝 [Let\u2019s be honest, he knew this would get posted. He\u2019s just showing his girl off.](http://9gag.com/gag/a6ZmVeL)
+ - 👉 [Lol.](http://9gag.com/gag/aAyRdGd)<!-- MEMES:END -->
 
 ---
 

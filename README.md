@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Investment platform Linqto plans to go public via a SPAC merger with Blockchain Coinvestors Acquisition at a ~$700M valuation in a deal expected to close in H2 &lpar;Arasu Kannagi Basil/Reuters&rpar;](http://www.techmeme.com/240410/p2#a240410p2)
  - [In a lengthy memo on Alibaba&#39;s internal forum, Jack Ma voiced his support for a company undergoing a turbulent restructuring, saying it is now on the right path &lpar;Bloomberg&rpar;](http://www.techmeme.com/240410/p1#a240410p1)
  - [WPP announces a collaboration with Google, integrating Gemini AI tools with WPP data to create scripts, product images, and more for ad clients like Coca-Cola &lpar;Nicola Agius/Search Engine Land&rpar;](http://www.techmeme.com/240409/p39#a240409p39)
- - [Mumbai-based Neysa, which offers a suite of generative AI tools to help clients manage their AI projects, raised a $20M seed led by Matrix, Nexus, and NTTVC &lpar;Jessica Rajan/The Economic Times&rpar;](http://www.techmeme.com/240409/p38#a240409p38)
- - [Google introduces two Gemma variants, CodeGemma to help with code completion and RecurrentGemma to provide researchers faster inference at higher batch sizes &lpar;Tris Warkentin/Google for Developers Blog&rpar;](http://www.techmeme.com/240409/p37#a240409p37)
- - [How to play Windows games on your Mac with Whisky](https://appleinsider.com/inside/mac/tips/how-to-play-windows-games-on-your-mac-with-whisky?utm_medium=rss)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints and Answer: Help for April 10, #1026     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-10-1026/#ftag=CAD590a51e)
+ - [Mumbai-based Neysa, which offers a suite of generative AI tools to help clients manage their AI projects, raised a $20M seed led by Matrix, Nexus, and NTTVC &lpar;Jessica Rajan/The Economic Times&rpar;](http://www.techmeme.com/240409/p38#a240409p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

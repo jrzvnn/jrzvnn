@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Literally me, bro](http://9gag.com/gag/aryvgPB)
  - 😝 [Lmao](http://9gag.com/gag/aYQNKRN)
- - 😝 [How?](http://9gag.com/gag/apRE2zp)
- - 💣 [From Scott to Stew](http://9gag.com/gag/a1mvK4D)
- - 😝 [Tachibana Senior High School Band.](http://9gag.com/gag/aoyEe63)
+ - 💣 [Trying hard](http://9gag.com/gag/abAXYz8)
+ - 😝 [I am not a weapons expert. But I don&#39;t think that&#39;s how you test whether a gun has the safety on](http://9gag.com/gag/aD2AWDG)
  - 👉 [I&#39;m a child](http://9gag.com/gag/aNDr1Yr)<!-- MEMES:END -->
 
 ---

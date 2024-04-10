@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Texas is replacing thousands of human exam graders with AI](https://www.theverge.com/2024/4/10/24126206/texas-staar-exam-graders-ai-automated-scoring-engine)
  - [Google&#39;s Cloud Next keynote was by far its most impressive presentation in the AI era, not least because the company realizes its infrastructure advantages &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/240410/p26#a240410p26)
  - [The Internet Archive is now hosting Aruba’s history](https://www.theverge.com/2024/4/10/24126091/the-internet-archive-aruba-historic-materials-digital-preservation)
  - [Developer email: Amazon will no longer pay developers to create Alexa apps, and stops offering free AWS credits; developers can still monetize apps via IAPs &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/240410/p25#a240410p25)
- - [Filing a Tax Extension: How to Do It if You Can&#39;t File Your Taxes on Time     - CNET](https://www.cnet.com/personal-finance/taxes/filing-a-tax-extension-how-to-do-it-if-you-cant-file-your-taxes-on-time/#ftag=CAD590a51e)
- - [Meta announces its next-generation Meta Training and Inference Accelerator chips for AI training, and says MTIA v1 and the new chips are both now in production &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240410/p24#a240410p24)<!-- TECH:END -->
+ - [Filing a Tax Extension: How to Do It if You Can&#39;t File Your Taxes on Time     - CNET](https://www.cnet.com/personal-finance/taxes/filing-a-tax-extension-how-to-do-it-if-you-cant-file-your-taxes-on-time/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

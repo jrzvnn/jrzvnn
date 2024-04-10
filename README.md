@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This luxury watch is about as thin as a strand of spaghetti](https://www.theverge.com/2024/4/10/24126095/bulgari-thinnest-watch-octo-finissimo-ultra-cosc)
+ - [iOS 18 rumored to have a mysterious Safari Browsing Assistant feature](https://appleinsider.com/articles/24/04/10/ios-18-rumored-to-have-a-mysterious-safari-browsing-assistant-feature?utm_medium=rss)
  - [Madrid-based big data observability startup Onum, which launched in 2023, raised a $28M Series A led by Dawn Capital, with participation from Insight and Kibo &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/240410/p21#a240410p21)
  - [The Hacking Lawsuit Looming Over Truth Social](https://www.wired.com/story/truth-social-hacking-lawsuit/)
- - [This is the new Sonos app, coming May 7th](https://www.theverge.com/2024/4/10/24125866/sonos-new-app-features)
- - [TSMC 2nm processor won&#39;t arrive until iPhone 17 Pro](https://appleinsider.com/articles/24/04/10/tsmc-2nm-processor-wont-arrive-until-iphone-17-pro?utm_medium=rss)
- - [How to find any file on macOS](https://www.theverge.com/24126104/macos-apple-file-find-how-to)<!-- TECH:END -->
+ - [This is the new Sonos app, coming May 7th](https://www.theverge.com/2024/4/10/24125866/sonos-new-app-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

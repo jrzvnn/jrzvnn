@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I am not a weapons expert. But I don&#39;t think that&#39;s how you test whether a gun has the safety on](http://9gag.com/gag/aD2AWDG)
- - 😝 [From Scott to Stew](http://9gag.com/gag/a1mvK4D)
- - 💣 [Posting on 9GAG be like](http://9gag.com/gag/aE0vRQe)
- - 😝 [What alcohol withdrawal looks like](http://9gag.com/gag/aLnRMex)
- - 👉 [How?](http://9gag.com/gag/apRE2zp)<!-- MEMES:END -->
+ - 😝 [Somebody skipped physics in school](http://9gag.com/gag/awy05E1)
+ - 😝 [Nice](http://9gag.com/gag/an7q1GB)
+ - 💣 [Have you heard of the 1997 seattle samurai incident?](http://9gag.com/gag/agm3XY6)
+ - 😝 [In the late 1990s, Julia Hill climbed a 200-foot, approximately 1000-year-old Californian redwood tree &amp; didn\u2019t come down for another 738 days. She ultimately reached an agreement with Pacific Lumber Company to spare the tree &amp; a 200-foot buffer zone surrounding the tree.](http://9gag.com/gag/aW4Q1e6)
+ - 👉 [Hard to keep arguing then](http://9gag.com/gag/a9ybWAK)<!-- MEMES:END -->
 
 ---
 

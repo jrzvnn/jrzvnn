@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mumbai-based Neysa, which offers a suite of generative AI tools to help clients manage their AI projects, raised a $20M seed led by Matrix, Nexus, and NTTVC &lpar;Jessica Rajan/The Economic Times&rpar;](http://www.techmeme.com/240409/p38#a240409p38)
  - [Google introduces two Gemma variants, CodeGemma to help with code completion and RecurrentGemma to provide researchers faster inference at higher batch sizes &lpar;Tris Warkentin/Google for Developers Blog&rpar;](http://www.techmeme.com/240409/p37#a240409p37)
  - [How to play Windows games on your Mac with Whisky](https://appleinsider.com/inside/mac/tips/how-to-play-windows-games-on-your-mac-with-whisky?utm_medium=rss)
- - [In the first Joker: Folie à Deux trailer, twisted love wins](https://www.theverge.com/24125116/joker-folie-a-deux-trailer-date)
- - [Copenhagen-based Reshape, whose AI-powered robotic imaging system helps track visual changes in lab experiments, raised a $20M Series A led by Astanor Ventures &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240409/p36#a240409p36)
- - [NetEase says it is working with Microsoft to bring World of Warcraft and other Blizzard games back to China after a feud ended the partnership in January 2023 &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/240409/p35#a240409p35)<!-- TECH:END -->
+ - [Best Solar Panel Installation Companies in Kansas     - CNET](https://www.cnet.com/home/energy-and-utilities/kansas-solar-panels/#ftag=CAD590a51e)
+ - [In the first Joker: Folie à Deux trailer, twisted love wins](https://www.theverge.com/24125116/joker-folie-a-deux-trailer-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s Wordle Hints and Answer: Help for April 10, #1026     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-10-1026/#ftag=CAD590a51e)
  - [Mumbai-based Neysa, which offers a suite of generative AI tools to help clients manage their AI projects, raised a $20M seed led by Matrix, Nexus, and NTTVC &lpar;Jessica Rajan/The Economic Times&rpar;](http://www.techmeme.com/240409/p38#a240409p38)
- - [Google introduces two Gemma variants, CodeGemma to help with code completion and RecurrentGemma to provide researchers faster inference at higher batch sizes &lpar;Tris Warkentin/Google for Developers Blog&rpar;](http://www.techmeme.com/240409/p37#a240409p37)
- - [How to play Windows games on your Mac with Whisky](https://appleinsider.com/inside/mac/tips/how-to-play-windows-games-on-your-mac-with-whisky?utm_medium=rss)
- - [Best Solar Panel Installation Companies in Kansas     - CNET](https://www.cnet.com/home/energy-and-utilities/kansas-solar-panels/#ftag=CAD590a51e)
- - [In the first Joker: Folie à Deux trailer, twisted love wins](https://www.theverge.com/24125116/joker-folie-a-deux-trailer-date)<!-- TECH:END -->
+ - [Best MP3 Players for 2024     - CNET](https://www.cnet.com/tech/mobile/best-mp3-player/#ftag=CAD590a51e)
+ - [Best Vegan Meal Delivery Service for 2024     - CNET](https://www.cnet.com/health/nutrition/best-vegan-meal-delivery-services/#ftag=CAD590a51e)
+ - [Google introduces two Gemma variants, CodeGemma to help with code completion and RecurrentGemma to provide researchers faster inference at higher batch sizes &lpar;Tris Warkentin/Google for Developers Blog&rpar;](http://www.techmeme.com/240409/p37#a240409p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

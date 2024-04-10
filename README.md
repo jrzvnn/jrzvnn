@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Israeli cloud security startup Wiz buys cloud detection and response startup Gem Security, sources say for $350M, after buying developer platform Rafft in 2023 &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/240410/p22#a240410p22)
+ - [The composers of X-Men ‘97 had to evolve the show’s sound to honor its roots](https://www.theverge.com/24120898/x-men-97-newton-brothers-interview-marvel)
  - [Snap up Apple&#39;s latest Mac Studio for $1,795 &lpar;$204 off&rpar;, plus get 3 yrs of AppleCare for $139](https://appleinsider.com/articles/24/04/10/snap-up-apples-latest-mac-studio-for-1795-204-off?utm_medium=rss)
  - [This luxury watch is about as thin as a strand of spaghetti](https://www.theverge.com/2024/4/10/24126095/bulgari-thinnest-watch-octo-finissimo-ultra-cosc)
- - [iOS 18 rumored to have a mysterious Safari Browsing Assistant feature](https://appleinsider.com/articles/24/04/10/ios-18-rumored-to-have-a-mysterious-safari-browsing-assistant-feature?utm_medium=rss)
- - [Madrid-based big data observability startup Onum, which launched in 2023, raised a $28M Series A led by Dawn Capital, with participation from Insight and Kibo &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/240410/p21#a240410p21)<!-- TECH:END -->
+ - [iOS 18 rumored to have a mysterious Safari Browsing Assistant feature](https://appleinsider.com/articles/24/04/10/ios-18-rumored-to-have-a-mysterious-safari-browsing-assistant-feature?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [F**k you Isaac Newton!](http://9gag.com/gag/avyp8zM)
+ - 😝 [There&#39;s an ending to this comic since it&#39;s a two-part, but if she ended up here, in the first half, it would be enough to found it idyllic](http://9gag.com/gag/aRBw1D7)
  - 😝 [In the late 1990s, Julia Hill climbed a 200-foot, approximately 1000-year-old Californian redwood tree &amp; didn\u2019t come down for another 738 days. She ultimately reached an agreement with Pacific Lumber Company to spare the tree &amp; a 200-foot buffer zone surrounding the tree.](http://9gag.com/gag/aW4Q1e6)
- - 💣 [I&#39;m a child](http://9gag.com/gag/aNDr1Yr)
- - 😝 [Yeah I like puppies too](http://9gag.com/gag/azxgrzq)
- - 👉 [Golden](http://9gag.com/gag/aZZbBj0)<!-- MEMES:END -->
+ - 💣 [Yeah I like puppies too](http://9gag.com/gag/azxgrzq)
+ - 😝 [Well, what did you expect? Have you seen who his mother is?](http://9gag.com/gag/a4PK776)
+ - 👉 [What alcohol withdrawal looks like](http://9gag.com/gag/aLnRMex)<!-- MEMES:END -->
 
 ---
 

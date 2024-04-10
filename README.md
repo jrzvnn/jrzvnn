@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [F**k you Isaac Newton!](http://9gag.com/gag/avyp8zM)
- - 😝 [I am not a weapons expert. But I don&#39;t think that&#39;s how you test whether a gun has the safety on](http://9gag.com/gag/aD2AWDG)
- - 💣 [Have you heard of the 1997 seattle samurai incident?](http://9gag.com/gag/agm3XY6)
- - 😝 [Golden](http://9gag.com/gag/aZZbBj0)
- - 👉 [I&#39;m a child](http://9gag.com/gag/aNDr1Yr)<!-- MEMES:END -->
+ - 😝 [In the late 1990s, Julia Hill climbed a 200-foot, approximately 1000-year-old Californian redwood tree &amp; didn\u2019t come down for another 738 days. She ultimately reached an agreement with Pacific Lumber Company to spare the tree &amp; a 200-foot buffer zone surrounding the tree.](http://9gag.com/gag/aW4Q1e6)
+ - 💣 [I&#39;m a child](http://9gag.com/gag/aNDr1Yr)
+ - 😝 [Yeah I like puppies too](http://9gag.com/gag/azxgrzq)
+ - 👉 [Golden](http://9gag.com/gag/aZZbBj0)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Michael Jackson flies out of the concert](http://9gag.com/gag/aZZbmBz)
  - 😝 [From Scott to Stew](http://9gag.com/gag/a1mvK4D)
- - 💣 [Thats not a child thats a man and its sad. Bro deserves to be a kid.](http://9gag.com/gag/aKGw3Bg)
- - 😝 [We demand equal pay!](http://9gag.com/gag/aByR8ZD)
- - 👉 [Have you heard of the 1997 seattle samurai incident?](http://9gag.com/gag/agm3XY6)<!-- MEMES:END -->
+ - 😝 [Let&#39;s dance!](http://9gag.com/gag/awy0VPQ)
+ - 💣 [Zimbabwe has officially launched a new gold-backed currency to replace the local dollar. Nice knowing you Zimbabwe.](http://9gag.com/gag/aryvNA7)
+ - 😝 [Have you heard of the 1997 seattle samurai incident?](http://9gag.com/gag/agm3XY6)
+ - 👉 [Posting images of good looking black chicks to prove they actively cast ugliest possible b*tches until I get bored or banned.](http://9gag.com/gag/aW4QMm6)<!-- MEMES:END -->
 
 ---
 

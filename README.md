@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The birth moment of a new feminist](http://9gag.com/gag/ae9j56b)
  - 😝 [Somebody skipped physics in school](http://9gag.com/gag/awy05E1)
- - 😝 [From Scott to Stew](http://9gag.com/gag/a1mvK4D)
- - 💣 [Have you heard of the 1997 seattle samurai incident?](http://9gag.com/gag/agm3XY6)
- - 😝 [The leader of Hamas hear the news regarding his 3 sons killed in Gaza. This is the face of Hamas - being casual about the death of your children, blessing god. Remember this the next time Hamas wines about the death of children.](http://9gag.com/gag/aAyRgB2)
- - 👉 [Lmao](http://9gag.com/gag/aYQNKRN)<!-- MEMES:END -->
+ - 💣 [From Scott to Stew](http://9gag.com/gag/a1mvK4D)
+ - 😝 [I&#39;m a child](http://9gag.com/gag/aNDr1Yr)
+ - 👉 [Trying hard](http://9gag.com/gag/abAXYz8)<!-- MEMES:END -->
 
 ---
 

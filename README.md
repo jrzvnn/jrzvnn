@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Aloha Browser says the number of users in the EU jumped 250% in March after DMA came into effect; Vivaldi, Ecosia, Brave, DuckDuckGo, and Opera also see growth &lpar;Reuters&rpar;](http://www.techmeme.com/240410/p7#a240410p7)
+ - [The Honeybees Versus the Murder Hornets](https://www.wired.com/story/bees-hornets-pollenize-invasive-species-united-kingdom/)
  - [Rakuten Kobo announces its first color e-readers, the $220 Kobo Libra Colour and the $150 Kobo Clara Colour, available for preorder now and shipping on April 30 &lpar;Sheena Vasani/The Verge&rpar;](http://www.techmeme.com/240410/p6#a240410p6)
  - [Sources: Apple assembled $14B of iPhones in India last fiscal year, doubling production YoY, with the company now making as much as 14% of its iPhones in India &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/240410/p5#a240410p5)
- - [Atos, the main cybersecurity provider to the 2024 Olympics, secures &amp;euro;450M in interim financing to stay afloat, including a &amp;euro;50M loan from the French Government &lpar;Politico&rpar;](http://www.techmeme.com/240410/p4#a240410p4)
- - [Kobo announces its first color e-readers](https://www.theverge.com/2024/4/10/24124411/kobo-libra-colour-clara-colour-e-reader-kindle-e-ink)
- - [Best iPhone 14 Fast Chargers at the Lowest Prices We Can Find     - CNET](https://www.cnet.com/tech/mobile/best-iphone-13-usb-c-fast-charger/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Atos, the main cybersecurity provider to the 2024 Olympics, secures &amp;euro;450M in interim financing to stay afloat, including a &amp;euro;50M loan from the French Government &lpar;Politico&rpar;](http://www.techmeme.com/240410/p4#a240410p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

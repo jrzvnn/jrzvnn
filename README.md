@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How?](http://9gag.com/gag/apRE2zp)
- - 😝 [Nice](http://9gag.com/gag/an7q1GB)
- - 💣 [What a glow up](http://9gag.com/gag/agm3GWn)
+ - 😝 [Priorities.....](http://9gag.com/gag/aQzPePw)
+ - 😝 [What a glow up](http://9gag.com/gag/agm3GWn)
+ - 💣 [Nice](http://9gag.com/gag/an7q1GB)
  - 😝 [Have you heard of the 1997 seattle samurai incident?](http://9gag.com/gag/agm3XY6)
- - 👉 [I am not a weapons expert. But I don&#39;t think that&#39;s how you test whether a gun has the safety on](http://9gag.com/gag/aD2AWDG)<!-- MEMES:END -->
+ - 👉 [I&#39;m a child](http://9gag.com/gag/aNDr1Yr)<!-- MEMES:END -->
 
 ---
 

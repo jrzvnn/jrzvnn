@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Welp that was unexpected](http://9gag.com/gag/aGyY1R6)
- - 😝 [Priorities.....](http://9gag.com/gag/aQzPePw)
- - 💣 [Lmao](http://9gag.com/gag/aYQNKRN)
- - 😝 [In the late 1990s, Julia Hill climbed a 200-foot, approximately 1000-year-old Californian redwood tree &amp; didn\u2019t come down for another 738 days. She ultimately reached an agreement with Pacific Lumber Company to spare the tree &amp; a 200-foot buffer zone surrounding the tree.](http://9gag.com/gag/aW4Q1e6)
- - 👉 [Well, what did you expect? Have you seen who his mother is?](http://9gag.com/gag/a4PK776)<!-- MEMES:END -->
+ - 😝 [It&#39;s not about that `video`, but about the message](http://9gag.com/gag/a34P7PN)
+ - 😝 [Hard to keep arguing then](http://9gag.com/gag/a9ybWAK)
+ - 💣 [No wonder your a piggy](http://9gag.com/gag/aByR02Q)
+ - 😝 [Loop](http://9gag.com/gag/a34Pqqm)
+ - 👉 [From Scott to Stew](http://9gag.com/gag/a1mvK4D)<!-- MEMES:END -->
 
 ---
 

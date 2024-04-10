@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trumpist Loyalists Kill Vote on US Wiretap Program](https://www.wired.com/story/section-702-vote-fails-trump-fisa/)
  - [Sources: SpaceX&#39;s accounting is more &quot;art than a science&quot;, often omitting costs of putting Starlink satellites in orbit to make numbers look better to investors &lpar;Bloomberg&rpar;](http://www.techmeme.com/240410/p32#a240410p32)
  - [21 Best Deals From the Target Circle Week Deals Event &lpar;2024&rpar;](https://www.wired.com/story/target-circle-week-deals-april-2024/)
  - [Apple makes it really hard for users to completely stop it from collecting data](https://appleinsider.com/articles/24/04/10/apple-makes-it-really-hard-for-users-to-completely-stop-it-from-collecting-data?utm_medium=rss)
- - [Today is the last day to take advantage of Samsung’s buy one, get one free TV promo](https://www.theverge.com/2024/4/10/24125239/samsung-buy-one-get-one-tv-deal-tu690t-crystal-uhd-65-inch-sale-2024)
- - [Judge overseeing US DOJ lawsuit recuses himself, new judge takes over](https://appleinsider.com/articles/24/04/10/judge-overseeing-us-doj-lawsuit-recuses-himself-new-judge-takes-over?utm_medium=rss)<!-- TECH:END -->
+ - [Today is the last day to take advantage of Samsung’s buy one, get one free TV promo](https://www.theverge.com/2024/4/10/24125239/samsung-buy-one-get-one-tv-deal-tu690t-crystal-uhd-65-inch-sale-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

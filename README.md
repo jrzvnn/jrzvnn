@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Judge overseeing US DOJ lawsuit recuses himself, new judge takes over](https://appleinsider.com/articles/24/04/10/judge-overseeing-us-doj-lawsuit-recuses-himself-new-judge-takes-over?utm_medium=rss)
  - [The best entertainment of 2024](https://www.theverge.com/entertainment/24090208/best-entertainment-2024-games-film-tv-streaming)
  - [Welcome to the wasteland: all the news on Amazon’s Fallout TV series](https://www.theverge.com/24124222/fallout-tv-series-amazon-prime-video-news-trailers)
  - [File Your Taxes On Time: These Tax Software Deals Will Help You Make the Upcoming Deadline     - CNET](https://www.cnet.com/deals/file-your-taxes-on-time-these-tax-software-deals-will-help-you-make-the-upcoming-deadline/#ftag=CAD590a51e)
- - [Ubisoft won’t say whether the Prince of Persia’s incredible actor has been replaced](https://www.theverge.com/2024/4/10/24126462/prince-of-persia-sands-remake-yuri-lowenthal)
- - [Google’s AI photo editing tools are expanding to a lot more phones](https://www.theverge.com/2024/4/10/24126357/google-photos-ai-tools-magic-editor-ios-free)<!-- TECH:END -->
+ - [Ubisoft won’t say whether the Prince of Persia’s incredible actor has been replaced](https://www.theverge.com/2024/4/10/24126462/prince-of-persia-sands-remake-yuri-lowenthal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

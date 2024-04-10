@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s not about that `video`, but about the message](http://9gag.com/gag/a34P7PN)
- - 😝 [Why Saiyan-hybrid offspring is so powerful?](http://9gag.com/gag/aZZbm36)
- - 💣 [I am not a weapons expert. But I don&#39;t think that&#39;s how you test whether a gun has the safety on](http://9gag.com/gag/aD2AWDG)
- - 😝 [What would you play??? MGS1 or Symphony of the night for me.](http://9gag.com/gag/abAXpyp)
- - 👉 [Hard to keep arguing then](http://9gag.com/gag/a9ybWAK)<!-- MEMES:END -->
+ - 😝 [When you&#39;re your own cook](http://9gag.com/gag/aZZbp9W)
+ - 😝 [Be fast cause they are furious!](http://9gag.com/gag/a34P7Rv)
+ - 💣 [Let&#39;s dance!](http://9gag.com/gag/awy0VPQ)
+ - 😝 [Lmao](http://9gag.com/gag/aYQNKRN)
+ - 👉 [We demand equal pay!](http://9gag.com/gag/aByR8ZD)<!-- MEMES:END -->
 
 ---
 

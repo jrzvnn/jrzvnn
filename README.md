@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I had a lot of life changing breakthroughs in the library](http://9gag.com/gag/ajPYEzQ)
- - 😝 [From Scott to Stew](http://9gag.com/gag/a1mvK4D)
- - 💣 [What is the point of pixelated pps](http://9gag.com/gag/aByRWeN)
- - 😝 [Loop](http://9gag.com/gag/a34Pqqm)
- - 👉 [We demand equal pay!](http://9gag.com/gag/aByR8ZD)<!-- MEMES:END -->
+ - 😝 [9gag comments never disappoint](http://9gag.com/gag/avypnm5)
+ - 😝 [In the late 1990s, Julia Hill climbed a 200-foot, approximately 1000-year-old Californian redwood tree &amp; didn\u2019t come down for another 738 days. She ultimately reached an agreement with Pacific Lumber Company to spare the tree &amp; a 200-foot buffer zone surrounding the tree.](http://9gag.com/gag/aW4Q1e6)
+ - 💣 [Let&#39;s dance!](http://9gag.com/gag/awy0VPQ)
+ - 😝 [Have you heard of the 1997 seattle samurai incident?](http://9gag.com/gag/agm3XY6)
+ - 👉 [From Scott to Stew](http://9gag.com/gag/a1mvK4D)<!-- MEMES:END -->
 
 ---
 

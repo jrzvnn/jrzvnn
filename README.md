@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google’s AI photo editing tools are expanding to a lot more phones](https://www.theverge.com/2024/4/10/24126357/google-photos-ai-tools-magic-editor-ios-free)
+ - [Rep. Adam Schiff introduced a bill that would require companies training generative AI models to disclose all of the copyrighted work they used to do so &lpar;Sarah Fortinsky/The Hill&rpar;](http://www.techmeme.com/240410/p31#a240410p31)
  - [Aqara’s new motion sensor works with Matter and Thread, but that means problems](https://www.theverge.com/24126236/aqara-motion-and-light-sensor-p2-hands-on)
  - [Amazon’s Fallout show gets the postapocalyptic vibes exactly right](https://www.theverge.com/24126474/fallout-review-amazon-prime-video)
- - [The US SEC sends decentralized crypto exchange Uniswap a Wells notice warning that the agency intends to bring an enforcement action against the company &lpar;Jeff John Roberts/Fortune&rpar;](http://www.techmeme.com/240410/p30#a240410p30)
- - [A Monopoly movie is coming courtesy of Margot Robbie and Lionsgate](https://www.theverge.com/2024/4/10/24126457/monopoly-movie-lionsgate-margot-robbie)
- - [Yes, Samsung Is Really Giving Away Free 65-Inch TVs, but There&#39;s Only 1 Day Left     - CNET](https://www.cnet.com/deals/yes-samsung-is-really-giving-away-free-65-inch-tvs-but-theres-only-1-day-left/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The US SEC sends decentralized crypto exchange Uniswap a Wells notice warning that the agency intends to bring an enforcement action against the company &lpar;Jeff John Roberts/Fortune&rpar;](http://www.techmeme.com/240410/p30#a240410p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

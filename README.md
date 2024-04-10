@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Squid meal gone wrong](http://9gag.com/gag/aAyRwO0)
- - 😝 [NASA wins best eclipse picture](http://9gag.com/gag/aAyRDKd)
- - 💣 [2009 World Series Poker Europe](http://9gag.com/gag/avypnGM)
  - 😝 [Robbing a Boy Infront of People In France. France Is Just Another European Country Destroyed By Mass Immigration.](http://9gag.com/gag/axydDDD)
- - 👉 [My fellow passport bros](http://9gag.com/gag/amoNz66)<!-- MEMES:END -->
+ - 😝 [Nice](http://9gag.com/gag/an7q1GB)
+ - 💣 [Priorities.....](http://9gag.com/gag/aQzPePw)
+ - 😝 [Yeah I like puppies too](http://9gag.com/gag/azxgrzq)
+ - 👉 [Zimbabwe has officially launched a new gold-backed currency to replace the local dollar. Nice knowing you Zimbabwe.](http://9gag.com/gag/aryvNA7)<!-- MEMES:END -->
 
 ---
 

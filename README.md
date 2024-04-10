@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [False Flag: Social media erupts over Apple&#39;s predictive text Palestine blunder](https://appleinsider.com/articles/24/04/10/false-flag-social-media-erupts-over-apples-predictive-text-palestine-blunder?utm_medium=rss)
+ - [Influencers Are Trying to Go Viral By Playing &#39;Content Warning&#39;—a Game About Going Viral](https://www.wired.com/story/influencers-are-trying-to-go-viral-by-playing-content-warning/)
+ - [Microsoft Build will detail ‘next generation’ of Windows on Arm and new AI features](https://www.theverge.com/2024/4/10/24126276/microsoft-windows-on-arm-next-generation-ai-features-build-event)
  - [Apple Music leads HomePod streaming, but Spotify has an incredibly strong position](https://appleinsider.com/articles/24/04/10/apple-music-leads-homepod-streaming-but-spotify-has-an-incredibly-strong-position?utm_medium=rss)
- - [Texas is replacing thousands of human exam graders with AI](https://www.theverge.com/2024/4/10/24126206/texas-staar-exam-graders-ai-automated-scoring-engine)
- - [Google&#39;s Cloud Next keynote was by far its most impressive presentation in the AI era, not least because the company realizes its infrastructure advantages &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/240410/p26#a240410p26)
- - [The Internet Archive is now hosting Aruba’s history](https://www.theverge.com/2024/4/10/24126091/the-internet-archive-aruba-historic-materials-digital-preservation)
- - [Amazon says it will stop paying developers to create Alexa apps and giving free AWS credits on June 30, 2024; developers can keep monetizing their apps via IAPs &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/240410/p25#a240410p25)<!-- TECH:END -->
+ - [Texas is replacing thousands of human exam graders with AI](https://www.theverge.com/2024/4/10/24126206/texas-staar-exam-graders-ai-automated-scoring-engine)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

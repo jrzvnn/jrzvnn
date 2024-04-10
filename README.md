@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The birth moment of a new feminist](http://9gag.com/gag/ae9j56b)
- - 😝 [Somebody skipped physics in school](http://9gag.com/gag/awy05E1)
+ - 😝 [Have you heard of the 1997 seattle samurai incident?](http://9gag.com/gag/agm3XY6)
+ - 😝 [Yeah I like puppies too](http://9gag.com/gag/azxgrzq)
  - 💣 [From Scott to Stew](http://9gag.com/gag/a1mvK4D)
- - 😝 [I&#39;m a child](http://9gag.com/gag/aNDr1Yr)
- - 👉 [Trying hard](http://9gag.com/gag/abAXYz8)<!-- MEMES:END -->
+ - 😝 [In the late 1990s, Julia Hill climbed a 200-foot, approximately 1000-year-old Californian redwood tree &amp; didn\u2019t come down for another 738 days. She ultimately reached an agreement with Pacific Lumber Company to spare the tree &amp; a 200-foot buffer zone surrounding the tree.](http://9gag.com/gag/aW4Q1e6)
+ - 👉 [I am not a weapons expert. But I don&#39;t think that&#39;s how you test whether a gun has the safety on](http://9gag.com/gag/aD2AWDG)<!-- MEMES:END -->
 
 ---
 

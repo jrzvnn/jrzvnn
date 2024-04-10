@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let&#39;s dance!](http://9gag.com/gag/awy0VPQ)
- - 😝 [Priorities.....](http://9gag.com/gag/aQzPePw)
- - 💣 [Careful when you drive...sad stuff](http://9gag.com/gag/a9ybp2j)
- - 😝 [From Scott to Stew](http://9gag.com/gag/a1mvK4D)
- - 👉 [What alcohol withdrawal looks like](http://9gag.com/gag/aLnRMex)<!-- MEMES:END -->
+ - 😝 [Lol.](http://9gag.com/gag/aAyRdGd)
+ - 😝 [For airbnb only](http://9gag.com/gag/an7qbWq)
+ - 💣 [This is money dog! Upvote to gain money and go through customs faster!](http://9gag.com/gag/ae9jM0m)
+ - 😝 [Do you know german?](http://9gag.com/gag/a9ybp6W)
+ - 👉 [Maybe...](http://9gag.com/gag/aQzP3Xq)<!-- MEMES:END -->
 
 ---
 

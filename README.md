@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Somebody skipped physics in school](http://9gag.com/gag/awy05E1)
  - 😝 [From Scott to Stew](http://9gag.com/gag/a1mvK4D)
- - 😝 [F**k you Isaac Newton!](http://9gag.com/gag/avyp8zM)
- - 💣 [There&#39;s an ending to this comic since it&#39;s a two-part, but if she ended up here, in the first half, it would be enough to found it idyllic](http://9gag.com/gag/aRBw1D7)
- - 😝 [Well, what did you expect? Have you seen who his mother is?](http://9gag.com/gag/a4PK776)
- - 👉 [Have you heard of the 1997 seattle samurai incident?](http://9gag.com/gag/agm3XY6)<!-- MEMES:END -->
+ - 💣 [Have you heard of the 1997 seattle samurai incident?](http://9gag.com/gag/agm3XY6)
+ - 😝 [The leader of Hamas hear the news regarding his 3 sons killed in Gaza. This is the face of Hamas - being casual about the death of your children, blessing god. Remember this the next time Hamas wines about the death of children.](http://9gag.com/gag/aAyRgB2)
+ - 👉 [Lmao](http://9gag.com/gag/aYQNKRN)<!-- MEMES:END -->
 
 ---
 

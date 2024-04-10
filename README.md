@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Priorities.....](http://9gag.com/gag/aQzPePw)
- - 😝 [What a glow up](http://9gag.com/gag/agm3GWn)
- - 💣 [Nice](http://9gag.com/gag/an7q1GB)
- - 😝 [Have you heard of the 1997 seattle samurai incident?](http://9gag.com/gag/agm3XY6)
- - 👉 [I&#39;m a child](http://9gag.com/gag/aNDr1Yr)<!-- MEMES:END -->
+ - 😝 [I had a lot of life changing breakthroughs in the library](http://9gag.com/gag/ajPYEzQ)
+ - 😝 [From Scott to Stew](http://9gag.com/gag/a1mvK4D)
+ - 💣 [What is the point of pixelated pps](http://9gag.com/gag/aByRWeN)
+ - 😝 [Loop](http://9gag.com/gag/a34Pqqm)
+ - 👉 [We demand equal pay!](http://9gag.com/gag/aByR8ZD)<!-- MEMES:END -->
 
 ---
 

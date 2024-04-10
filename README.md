@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [From Scott to Stew](http://9gag.com/gag/a1mvK4D)
- - 😝 [Make a living by owning a bridge](http://9gag.com/gag/a7oLZge)
- - 💣 [I&#39;m a child](http://9gag.com/gag/aNDr1Yr)
- - 😝 [Hard to keep arguing then](http://9gag.com/gag/a9ybWAK)
- - 👉 [Golden](http://9gag.com/gag/aZZbBj0)<!-- MEMES:END -->
+ - 😝 [F**k you Isaac Newton!](http://9gag.com/gag/avyp8zM)
+ - 😝 [I am not a weapons expert. But I don&#39;t think that&#39;s how you test whether a gun has the safety on](http://9gag.com/gag/aD2AWDG)
+ - 💣 [Have you heard of the 1997 seattle samurai incident?](http://9gag.com/gag/agm3XY6)
+ - 😝 [Golden](http://9gag.com/gag/aZZbBj0)
+ - 👉 [I&#39;m a child](http://9gag.com/gag/aNDr1Yr)<!-- MEMES:END -->
 
 ---
 

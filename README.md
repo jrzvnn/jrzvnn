@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Roblox partners with PubMatic to show video ads on in-game billboards to users aged 13 and over; creators that opt to show the ads will get an ad revenue cut &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240410/p19#a240410p19)
+ - [I’m still trying to generate an AI Asian man and white woman](https://www.theverge.com/2024/4/10/24122072/ai-generated-asian-man-white-woman-couple-gemini-dalle-midjourney-tests)
  - [How Ukraine found US startups&#39; drones glitchy and pricey, turning instead to cheaper Chinese drones; PitchBook: ~300 US drone startups raised $2.5B since 2022 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240410/p18#a240410p18)
  - [How to Delete Your Google Account—After Downloading All of Your Data First](https://www.wired.com/story/how-to-delete-a-google-account/)
- - [Q&amp;A with Getty Images CEO Craig Peters on the deal with Nvidia to create AI tools trained on Getty&#39;s stock images, the need for AI industry standards, and more &lpar;Scott Roxborough/The Hollywood Reporter&rpar;](http://www.techmeme.com/240410/p17#a240410p17)
- - [Best Apple Vision Pro third-party apps in April 2024](https://appleinsider.com/inside/apple-vision-pro/best/best-apple-vision-pro-third-party-apps-in-april-2024?utm_medium=rss)
- - [iPhone 16 Plus may expand to seven colors including white and purple](https://appleinsider.com/articles/24/04/10/iphone-16-plus-may-expand-to-seven-colors-including-white-and-purple?utm_medium=rss)<!-- TECH:END -->
+ - [Q&amp;A with Getty Images CEO Craig Peters on the deal with Nvidia to create AI tools trained on Getty&#39;s stock images, the need for AI industry standards, and more &lpar;Scott Roxborough/The Hollywood Reporter&rpar;](http://www.techmeme.com/240410/p17#a240410p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

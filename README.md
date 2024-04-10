@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When Japan does StarWars](http://9gag.com/gag/awy0QZy)
- - 😝 [When 2 master meet each other](http://9gag.com/gag/aAyRdqp)
- - 💣 [Based af dad identifies as female Julius Cesar at school board meeting - Woketards are leaving the room](http://9gag.com/gag/aByRWbZ)
- - 😝 [Let\u2019s be honest, he knew this would get posted. He\u2019s just showing his girl off.](http://9gag.com/gag/a6ZmVeL)
- - 👉 [Lol.](http://9gag.com/gag/aAyRdGd)<!-- MEMES:END -->
+ - 😝 [It&#39;s not about that `video`, but about the message](http://9gag.com/gag/a34P7PN)
+ - 😝 [Why Saiyan-hybrid offspring is so powerful?](http://9gag.com/gag/aZZbm36)
+ - 💣 [I am not a weapons expert. But I don&#39;t think that&#39;s how you test whether a gun has the safety on](http://9gag.com/gag/aD2AWDG)
+ - 😝 [What would you play??? MGS1 or Symphony of the night for me.](http://9gag.com/gag/abAXpyp)
+ - 👉 [Hard to keep arguing then](http://9gag.com/gag/a9ybWAK)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lmao](http://9gag.com/gag/aYQNKRN)
- - 😝 [From Scott to Stew](http://9gag.com/gag/a1mvK4D)
+ - 😝 [Priorities.....](http://9gag.com/gag/aQzPePw)
+ - 😝 [Nice](http://9gag.com/gag/an7q1GB)
  - 💣 [I am not a weapons expert. But I don&#39;t think that&#39;s how you test whether a gun has the safety on](http://9gag.com/gag/aD2AWDG)
- - 😝 [Have you heard of the 1997 seattle samurai incident?](http://9gag.com/gag/agm3XY6)
- - 👉 [It&#39;s not about that `video`, but about the message](http://9gag.com/gag/a34P7PN)<!-- MEMES:END -->
+ - 😝 [Wait until you see who these 2 grown men are arguing with](http://9gag.com/gag/aRBwKB5)
+ - 👉 [What alcohol withdrawal looks like](http://9gag.com/gag/aLnRMex)<!-- MEMES:END -->
 
 ---
 

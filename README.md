@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Humans Forget. AI Assistants Will Remember Everything](https://www.wired.com/story/humans-forget-ai-assistants-remember-everything/)
+ - [I regret buying the viral TikTok skincare wand](https://www.theverge.com/24121535/tiktok-medicube-ager-booster-h-skincare-wand)
  - [Microsoft left internal passwords exposed in latest security blunder](https://www.theverge.com/2024/4/10/24126057/microsoft-azure-server-internal-passwords-exposed-cybersecurity)
  - [The FCC says all but the smallest ISPs must now publish broadband &quot;nutrition labels&quot; on all of their plans, ending an eight year battle between ISPs and the FCC &lpar;Amrita Khalid/The Verge&rpar;](http://www.techmeme.com/240410/p15#a240410p15)
- - [Election Workers Are Drowning in Records Requests. AI Chatbots Could Make It Worse](https://www.wired.com/story/ai-chatbots-foia-requests-election-workers/)
- - [The FCC plans to cut its broadband subsidy payout to $14 per month, under half of the current rate; AT&amp;T, Charter, and others are yet to detail their response &lpar;Tony Romm/Washington Post&rpar;](http://www.techmeme.com/240410/p14#a240410p14)
- - [Apple&#39;s expansion in India now includes building houses for workers](https://appleinsider.com/articles/24/04/10/apples-expansion-in-india-now-includes-building-houses-for-workers?utm_medium=rss)<!-- TECH:END -->
+ - [Election Workers Are Drowning in Records Requests. AI Chatbots Could Make It Worse](https://www.wired.com/story/ai-chatbots-foia-requests-election-workers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

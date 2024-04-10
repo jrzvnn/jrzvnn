@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Guesty, a platform for accommodation managers to manage Airbnbs and more, raised $130M, sources say at a $900M valuation, after raising a $170M Series E in 2022 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240410/p16#a240410p16)
  - [Humans Forget. AI Assistants Will Remember Everything](https://www.wired.com/story/humans-forget-ai-assistants-remember-everything/)
  - [I regret buying the viral TikTok skincare wand](https://www.theverge.com/24121535/tiktok-medicube-ager-booster-h-skincare-wand)
  - [Microsoft left internal passwords exposed in latest security blunder](https://www.theverge.com/2024/4/10/24126057/microsoft-azure-server-internal-passwords-exposed-cybersecurity)
- - [The FCC says all but the smallest ISPs must now publish broadband &quot;nutrition labels&quot; on all of their plans, ending an eight year battle between ISPs and the FCC &lpar;Amrita Khalid/The Verge&rpar;](http://www.techmeme.com/240410/p15#a240410p15)
- - [Election Workers Are Drowning in Records Requests. AI Chatbots Could Make It Worse](https://www.wired.com/story/ai-chatbots-foia-requests-election-workers/)<!-- TECH:END -->
+ - [The FCC says all but the smallest ISPs must now publish broadband &quot;nutrition labels&quot; on all of their plans, ending an eight year battle between ISPs and the FCC &lpar;Amrita Khalid/The Verge&rpar;](http://www.techmeme.com/240410/p15#a240410p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

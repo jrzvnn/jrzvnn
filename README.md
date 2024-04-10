@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [From Scott to Stew](http://9gag.com/gag/a1mvK4D)
- - 😝 [Well, what did you expect? Have you seen who his mother is?](http://9gag.com/gag/a4PK776)
- - 💣 [Ghost fart. Thousand of people die every year because ot it.](http://9gag.com/gag/amoNB7V)
- - 😝 [Have you heard of the 1997 seattle samurai incident?](http://9gag.com/gag/agm3XY6)
- - 👉 [There&#39;s an ending to this comic since it&#39;s a two-part, but if she ended up here, in the first half, it would be enough to found it idyllic](http://9gag.com/gag/aRBw1D7)<!-- MEMES:END -->
+ - 😝 [Lmao](http://9gag.com/gag/aYQNKRN)
+ - 😝 [How?](http://9gag.com/gag/apRE2zp)
+ - 💣 [From Scott to Stew](http://9gag.com/gag/a1mvK4D)
+ - 😝 [Tachibana Senior High School Band.](http://9gag.com/gag/aoyEe63)
+ - 👉 [I&#39;m a child](http://9gag.com/gag/aNDr1Yr)<!-- MEMES:END -->
 
 ---
 

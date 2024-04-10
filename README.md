@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cruise will resume robotaxi tests after one of its cars ran someone over](https://www.theverge.com/2024/4/9/24125618/cruise-resume-robotaxi-testing-self-driving)
+ - [iPadOS 17.5 beta teases OLED display upgrade for 2024 iPad Pro models](https://appleinsider.com/articles/24/04/10/ipados-175-beta-teases-oled-display-upgrade-for-2024-ipad-pro-models?utm_medium=rss)
+ - [Best Internet Providers in Fontana, California     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-fontana-ca/#ftag=CAD590a51e)
  - [Piper Sandler survey of 6,020 US teens: 33% now own a VR device, up from 31% in fall 2023, and weekly usage of VR devices increased to ~13% from ~10% &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/240409/p34#a240409p34)
- - [Apple’s latest entry-level iPad has returned to its best price to date](https://www.theverge.com/2024/4/9/24124299/apple-ipad-max-annual-subscription-google-pixel-watch-deal-sale)
- - [Google partners with Bayer on an AI product that can flag anomalies within images for radiologists and summarize information from a patient&#39;s medical history &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240409/p33#a240409p33)
- - [Ted Cruz hosts a podcast for free — a Ted Cruz super PAC gets paid](https://www.theverge.com/2024/4/9/24125736/ted-cruz-podcast-verdict-iheart-fec-neon-hum-roost-sony)
- - [Best VPN Deals: Nab a VPN Subscription for Just $2 per Month     - CNET](https://www.cnet.com/deals/best-vpn-sales-and-deals-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Beeper&#39;s New Texting App Featuring Everything but iMessage Exits Beta     - CNET](https://www.cnet.com/tech/mobile/beepers-new-texting-app-featuring-everything-but-imessage-exits-beta/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

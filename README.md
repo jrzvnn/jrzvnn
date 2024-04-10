@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Checkr, a 10-year-old startup that offers employee background checks and was valued at $5B in April 2022, has laid off 382 employees, or 32% of its workforce &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/240410/p28#a240410p28)
+ - [Best Laser Cutters and Engravers of 2024     - CNET](https://www.cnet.com/tech/computing/the-best-laser-cutters-and-engravers/#ftag=CAD590a51e)
  - [Samsung launches new Bespoke AI appliances with savings of up to $1,200 off](https://appleinsider.com/articles/24/04/10/samsung-launches-new-bespoke-ai-appliances-with-savings-of-up-to-1200-off?utm_medium=rss)
  - [Logitech’s excellent wired gaming mouse is down to $36 today](https://www.theverge.com/2024/4/10/24126107/logitechs-g502-hero-hori-split-pad-compact-kasa-smart-plug-deal-sale)
- - [Google plans to make Magic Editor and other AI editing tools, previously limited to Pixel phones and paid users, available to all Google Photos users for free &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240410/p27#a240410p27)
- - [Apple wants to hire a PR heavyweight to battle the EU on its own soil](https://appleinsider.com/articles/24/04/10/apple-wants-to-hire-a-pr-heavyweight-to-battle-the-eu-on-its-own-soil?utm_medium=rss)
- - [Ford Mustang Mach-E gets more range, faster charging, and quicker acceleration](https://www.theverge.com/2024/4/10/24126098/ford-mustang-mache-2024-model-updates-range-charging)<!-- TECH:END -->
+ - [One of Our Favorite Outdoor Ovens Is at a Bargain Price in the QVC Discovery Days Sale     - CNET](https://www.cnet.com/deals/one-of-our-favorite-outdoor-ovens-is-at-a-bargain-price-in-the-qvc-discovery-days-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

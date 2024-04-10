@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Developer email: Amazon will no longer pay developers to create Alexa apps, and stops offering free AWS credits; developers can still monetize apps via IAPs &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/240410/p25#a240410p25)
  - [Meta announces its next-generation Meta Training and Inference Accelerator chips for AI training, and says MTIA v1 and the new chips are both now in production &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240410/p24#a240410p24)
  - [Meta’s new AI chips runs faster than before](https://www.theverge.com/2024/4/10/24125924/meta-mtia-ai-chips-algorithm-training)
  - [Ad buyers on Meta&#39;s platforms complain of performance issues on its systems in recent months, and say campaign costs are up significantly while returns are down &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/240410/p23#a240410p23)
- - [Israeli cloud security startup Wiz buys cloud detection and response startup Gem Security, sources say for $350M, after buying developer platform Rafft in 2023 &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/240410/p22#a240410p22)
- - [The composers of X-Men ‘97 had to evolve the show’s sound to honor its roots](https://www.theverge.com/24120898/x-men-97-newton-brothers-interview-marvel)<!-- TECH:END -->
+ - [Israeli cloud security startup Wiz buys cloud detection and response startup Gem Security, sources say for $350M, after buying developer platform Rafft in 2023 &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/240410/p22#a240410p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

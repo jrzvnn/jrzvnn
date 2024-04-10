@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [False Flag: Social media erupts over Apple&#39;s predictive text Palestine blunder](https://appleinsider.com/articles/24/04/10/false-flag-social-media-erupts-over-apples-predictive-text-palestine-blunder?utm_medium=rss)
- - [The best trailers from the Triple-i indie game showcase](https://www.theverge.com/24126108/triple-i-initiative-indie-game-showcase-news-trailers)
- - [Microsoft is bringing its Xbox dashboard to the web with party chat and more](https://www.theverge.com/2024/4/10/24126452/microsoft-xbox-dashboard-web-interface-party-chat-features)
- - [Amazon will stop paying developers for making Alexa skills](https://www.theverge.com/2024/4/10/24126291/amazon-stop-paying-developers-alexa-skills)
- - [The Apple Watch could be the next great Game Boy emulator](https://www.theverge.com/2024/4/10/24126308/apple-watch-android-smartwatch-game-boy-advance-emulator-reddit)<!-- TECH:END -->
+ - [Aqara’s new motion sensor works with Matter and Thread, but that means problems](https://www.theverge.com/24126236/aqara-motion-and-light-sensor-p2-hands-on)
+ - [Amazon’s Fallout show gets the postapocalyptic vibes exactly right](https://www.theverge.com/24126474/fallout-review-amazon-prime-video)
+ - [The US SEC sends decentralized crypto exchange Uniswap a Wells notice warning that the agency intends to bring an enforcement action against the company &lpar;Jeff John Roberts/Fortune&rpar;](http://www.techmeme.com/240410/p30#a240410p30)
+ - [A Monopoly movie is coming courtesy of Margot Robbie and Lionsgate](https://www.theverge.com/2024/4/10/24126457/monopoly-movie-lionsgate-margot-robbie)
+ - [Yes, Samsung Is Really Giving Away Free 65-Inch TVs, but There&#39;s Only 1 Day Left     - CNET](https://www.cnet.com/deals/yes-samsung-is-really-giving-away-free-65-inch-tvs-but-theres-only-1-day-left/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

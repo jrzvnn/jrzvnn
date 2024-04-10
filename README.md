@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lol.](http://9gag.com/gag/aAyRdGd)
- - 😝 [For airbnb only](http://9gag.com/gag/an7qbWq)
- - 💣 [This is money dog! Upvote to gain money and go through customs faster!](http://9gag.com/gag/ae9jM0m)
- - 😝 [Do you know german?](http://9gag.com/gag/a9ybp6W)
- - 👉 [Maybe...](http://9gag.com/gag/aQzP3Xq)<!-- MEMES:END -->
+ - 😝 [Golden](http://9gag.com/gag/aZZbBj0)
+ - 😝 [Lmao](http://9gag.com/gag/aYQNKRN)
+ - 💣 [Yeah I like puppies too](http://9gag.com/gag/azxgrzq)
+ - 😝 [Be fast cause they are furious!](http://9gag.com/gag/a34P7Rv)
+ - 👉 [No title](http://9gag.com/gag/an7qyjB)<!-- MEMES:END -->
 
 ---
 

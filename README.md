@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TSMC reports Q1 revenue up 16.5% YoY to $18.5B and expects revenue to grow at least 20% in 2024, reversing 2023&#39;s slight decline, and budgets capex of $28B-$32B &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/240410/p8#a240410p8)
  - [Aloha Browser says the number of users in the EU jumped 250% in March after DMA came into effect; Vivaldi, Ecosia, Brave, DuckDuckGo, and Opera also see growth &lpar;Reuters&rpar;](http://www.techmeme.com/240410/p7#a240410p7)
  - [The Honeybees Versus the Murder Hornets](https://www.wired.com/story/bees-hornets-pollenize-invasive-species-united-kingdom/)
  - [Rakuten Kobo announces its first color e-readers, the $220 Kobo Libra Colour and the $150 Kobo Clara Colour, available for preorder now and shipping on April 30 &lpar;Sheena Vasani/The Verge&rpar;](http://www.techmeme.com/240410/p6#a240410p6)
- - [Sources: Apple assembled $14B of iPhones in India last fiscal year, doubling production YoY, with the company now making as much as 14% of its iPhones in India &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/240410/p5#a240410p5)
- - [Atos, the main cybersecurity provider to the 2024 Olympics, secures &amp;euro;450M in interim financing to stay afloat, including a &amp;euro;50M loan from the French Government &lpar;Politico&rpar;](http://www.techmeme.com/240410/p4#a240410p4)<!-- TECH:END -->
+ - [Sources: Apple assembled $14B of iPhones in India last fiscal year, doubling production YoY, with the company now making as much as 14% of its iPhones in India &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/240410/p5#a240410p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lmao](http://9gag.com/gag/aYQNKRN)
  - 😝 [Have you heard of the 1997 seattle samurai incident?](http://9gag.com/gag/agm3XY6)
+ - 😝 [Make a living by owning a bridge](http://9gag.com/gag/a7oLZge)
  - 💣 [What alcohol withdrawal looks like](http://9gag.com/gag/aLnRMex)
- - 😝 [She was scared of getting railed, she got it anyway](http://9gag.com/gag/aVvzDm8)
- - 👉 [I&#39;m a child](http://9gag.com/gag/aNDr1Yr)<!-- MEMES:END -->
+ - 😝 [I&#39;m a child](http://9gag.com/gag/aNDr1Yr)
+ - 👉 [Trying hard](http://9gag.com/gag/abAXYz8)<!-- MEMES:END -->
 
 ---
 

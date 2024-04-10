@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I am not a weapons expert. But I don&#39;t think that&#39;s how you test whether a gun has the safety on](http://9gag.com/gag/aD2AWDG)
- - 😝 [Michael Jackson flies out of the concert](http://9gag.com/gag/aZZbmBz)
- - 💣 [From Scott to Stew](http://9gag.com/gag/a1mvK4D)
- - 😝 [Oh no... Anyway](http://9gag.com/gag/a6ZmVy2)
- - 👉 [Posting images of good looking black chicks to prove they actively cast ugliest possible b*tches until I get bored or banned.](http://9gag.com/gag/aW4QMm6)<!-- MEMES:END -->
+ - 😝 [Lmao](http://9gag.com/gag/aYQNKRN)
+ - 😝 [From Scott to Stew](http://9gag.com/gag/a1mvK4D)
+ - 💣 [I am not a weapons expert. But I don&#39;t think that&#39;s how you test whether a gun has the safety on](http://9gag.com/gag/aD2AWDG)
+ - 😝 [Have you heard of the 1997 seattle samurai incident?](http://9gag.com/gag/agm3XY6)
+ - 👉 [It&#39;s not about that `video`, but about the message](http://9gag.com/gag/a34P7PN)<!-- MEMES:END -->
 
 ---
 

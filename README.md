@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple makes it really hard for users to completely stop it from collecting data](https://appleinsider.com/articles/24/04/10/apple-makes-it-really-hard-for-users-to-completely-stop-it-from-collecting-data?utm_medium=rss)
+ - [Today is the last day to take advantage of Samsung’s buy one, get one free TV promo](https://www.theverge.com/2024/4/10/24125239/samsung-buy-one-get-one-tv-deal-tu690t-crystal-uhd-65-inch-sale-2024)
  - [Judge overseeing US DOJ lawsuit recuses himself, new judge takes over](https://appleinsider.com/articles/24/04/10/judge-overseeing-us-doj-lawsuit-recuses-himself-new-judge-takes-over?utm_medium=rss)
  - [The best entertainment of 2024](https://www.theverge.com/entertainment/24090208/best-entertainment-2024-games-film-tv-streaming)
- - [Welcome to the wasteland: all the news on Amazon’s Fallout TV series](https://www.theverge.com/24124222/fallout-tv-series-amazon-prime-video-news-trailers)
- - [File Your Taxes On Time: These Tax Software Deals Will Help You Make the Upcoming Deadline     - CNET](https://www.cnet.com/deals/file-your-taxes-on-time-these-tax-software-deals-will-help-you-make-the-upcoming-deadline/#ftag=CAD590a51e)
- - [Ubisoft won’t say whether the Prince of Persia’s incredible actor has been replaced](https://www.theverge.com/2024/4/10/24126462/prince-of-persia-sands-remake-yuri-lowenthal)<!-- TECH:END -->
+ - [Welcome to the wasteland: all the news on Amazon’s Fallout TV series](https://www.theverge.com/24124222/fallout-tv-series-amazon-prime-video-news-trailers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

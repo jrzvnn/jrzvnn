@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google announces a $1B investment to improve digital connectivity between the US, Japan, and multiple Pacific island countries through two new subsea cables &lpar;Granth Vanaik/Reuters&rpar;](http://www.techmeme.com/240410/p35#a240410p35)
  - [Two former execs of the company behind the Truth Social merger are caught up in a messy hacking lawsuit](https://www.theverge.com/2024/4/10/24126237/truth-social-digital-world-acquisition-corp-hacking-lawsuit-patrick-orlando-eric-swider-trump-media)
  - [Apple’s antitrust case is getting a new judge](https://www.theverge.com/2024/4/10/24126698/apple-doj-antitrust-case-judge-recused)
  - [Meta says it’s fixing ‘HD’ photo sharing in Facebook Messenger](https://www.theverge.com/2024/4/10/24126692/facebook-messenger-hd-photo-sharing-toggle-file-qr-codes)
- - [Apple Store employees in New Jersey are trying to unionize](https://www.theverge.com/2024/4/10/24126657/apple-store-employees-new-jersey-unionize)
- - [Sources: Sam Altman met with investors and officials in the UAE this week to push for more infrastructure investment to support the development of AI technology &lpar;Bloomberg&rpar;](http://www.techmeme.com/240410/p34#a240410p34)<!-- TECH:END -->
+ - [Apple Store employees in New Jersey are trying to unionize](https://www.theverge.com/2024/4/10/24126657/apple-store-employees-new-jersey-unionize)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

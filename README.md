@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Robbing a Boy Infront of People In France. France Is Just Another European Country Destroyed By Mass Immigration.](http://9gag.com/gag/axydDDD)
- - 😝 [Nice](http://9gag.com/gag/an7q1GB)
- - 💣 [Priorities.....](http://9gag.com/gag/aQzPePw)
- - 😝 [Yeah I like puppies too](http://9gag.com/gag/azxgrzq)
- - 👉 [Zimbabwe has officially launched a new gold-backed currency to replace the local dollar. Nice knowing you Zimbabwe.](http://9gag.com/gag/aryvNA7)<!-- MEMES:END -->
+ - 😝 [When the production is poor but you are a Rockstar](http://9gag.com/gag/aW4Qq7x)
+ - 😝 [Let\u2019s be honest, he knew this would get posted. He\u2019s just showing his girl off.](http://9gag.com/gag/a6ZmVeL)
+ - 💣 [Single Mom](http://9gag.com/gag/a0e85gX)
+ - 😝 [When Japan does StarWars](http://9gag.com/gag/awy0QZy)
+ - 👉 [Lol.](http://9gag.com/gag/aAyRdGd)<!-- MEMES:END -->
 
 ---
 

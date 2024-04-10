@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The FCC plans to cut its broadband subsidy payout to $14 per month, under half of the current rate; AT&amp;T, Charter, and others are yet to detail their response &lpar;Tony Romm/Washington Post&rpar;](http://www.techmeme.com/240410/p14#a240410p14)
  - [Apple&#39;s expansion in India now includes building houses for workers](https://appleinsider.com/articles/24/04/10/apples-expansion-in-india-now-includes-building-houses-for-workers?utm_medium=rss)
  - [How to play Windows games on your Mac with Whisky](https://appleinsider.com/inside/mac/tips/how-to-play-windows-games-on-your-mac-with-whisky?utm_medium=rss)
  - [A US official says SpaceX&#39;s Pentagon contract to deploy terminals in Ukraine between June 2023 and May 2024 is worth $23M; the deal may not be renewed &lpar;Anthony Capaccio/Bloomberg&rpar;](http://www.techmeme.com/240410/p13#a240410p13)
- - [This Woman Will Decide Which Babies Are Born](https://www.wired.com/story/this-woman-will-decide-which-babies-are-born-noor-siddiqui-orchid/)
- - [Adobe updates Frame.io, adding new workflow and tagging capabilities for project management, in beta for Free and Pro customers on the web, iOS, and iPadOS &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240410/p12#a240410p12)<!-- TECH:END -->
+ - [This Woman Will Decide Which Babies Are Born](https://www.wired.com/story/this-woman-will-decide-which-babies-are-born-noor-siddiqui-orchid/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

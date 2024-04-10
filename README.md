@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung launches new Bespoke AI appliances with savings of up to $1,200 off](https://appleinsider.com/articles/24/04/10/samsung-launches-new-bespoke-ai-appliances-with-savings-of-up-to-1200-off?utm_medium=rss)
+ - [Logitech’s excellent wired gaming mouse is down to $36 today](https://www.theverge.com/2024/4/10/24126107/logitechs-g502-hero-hori-split-pad-compact-kasa-smart-plug-deal-sale)
  - [Google plans to make Magic Editor and other AI editing tools, previously limited to Pixel phones and paid users, available to all Google Photos users for free &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240410/p27#a240410p27)
  - [Apple wants to hire a PR heavyweight to battle the EU on its own soil](https://appleinsider.com/articles/24/04/10/apple-wants-to-hire-a-pr-heavyweight-to-battle-the-eu-on-its-own-soil?utm_medium=rss)
- - [Ford Mustang Mach-E gets more range, faster charging, and quicker acceleration](https://www.theverge.com/2024/4/10/24126098/ford-mustang-mache-2024-model-updates-range-charging)
- - [False Flag: Social media erupts over Apple&#39;s predictive text Palestine blunder](https://appleinsider.com/articles/24/04/10/false-flag-social-media-erupts-over-apples-predictive-text-palestine-blunder?utm_medium=rss)
- - [Influencers Are Trying to Go Viral by Playing &#39;Content Warning&#39;—a Game About Going Viral](https://www.wired.com/story/influencers-are-trying-to-go-viral-by-playing-content-warning/)<!-- TECH:END -->
+ - [Ford Mustang Mach-E gets more range, faster charging, and quicker acceleration](https://www.theverge.com/2024/4/10/24126098/ford-mustang-mache-2024-model-updates-range-charging)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

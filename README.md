@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to play Windows games on your Mac with Whisky](https://appleinsider.com/inside/mac/tips/how-to-play-windows-games-on-your-mac-with-whisky?utm_medium=rss)
+ - [Best Solar Panel Installation Companies in Kansas     - CNET](https://www.cnet.com/home/energy-and-utilities/kansas-solar-panels/#ftag=CAD590a51e)
  - [In the first Joker: Folie à Deux trailer, twisted love wins](https://www.theverge.com/24125116/joker-folie-a-deux-trailer-date)
  - [Copenhagen-based Reshape, whose AI-powered robotic imaging system helps track visual changes in lab experiments, raised a $20M Series A led by Astanor Ventures &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240409/p36#a240409p36)
- - [NetEase says it is working with Microsoft to bring World of Warcraft and other Blizzard games back to China after a feud ended the partnership in January 2023 &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/240409/p35#a240409p35)
- - [Cruise will resume robotaxi tests after one of its cars ran someone over](https://www.theverge.com/2024/4/9/24125618/cruise-resume-robotaxi-testing-self-driving)
- - [Best Nintendo Switch Deals: Save on OLED, Switch Lite Models, Games, Accessories and More     - CNET](https://www.cnet.com/deals/best-nintendo-switch-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Springfield, Massachusetts     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-springfield-ma/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

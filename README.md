@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Piper Sandler survey of 6,020 US teens: 33% now own a VR device, up from 31% in fall 2023, and weekly usage of VR devices increased to ~13% from ~10% &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/240409/p34#a240409p34)
  - [Apple’s latest entry-level iPad has returned to its best price to date](https://www.theverge.com/2024/4/9/24124299/apple-ipad-max-annual-subscription-google-pixel-watch-deal-sale)
  - [Google partners with Bayer on an AI product that can flag anomalies within images for radiologists and summarize information from a patient&#39;s medical history &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240409/p33#a240409p33)
  - [Ted Cruz hosts a podcast for free — a Ted Cruz super PAC gets paid](https://www.theverge.com/2024/4/9/24125736/ted-cruz-podcast-verdict-iheart-fec-neon-hum-roost-sony)
- - [Best VPN Deals: Nab a VPN Subscription for Just $2 per Month     - CNET](https://www.cnet.com/deals/best-vpn-sales-and-deals-right-now/#ftag=CAD590a51e)
- - [Do You Get Extra Time to Do Your Taxes? Yes, if You Live in One of These States     - CNET](https://www.cnet.com/personal-finance/taxes/do-you-get-extra-time-to-do-your-taxes-yes-if-you-live-in-one-of-these-states/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best VPN Deals: Nab a VPN Subscription for Just $2 per Month     - CNET](https://www.cnet.com/deals/best-vpn-sales-and-deals-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

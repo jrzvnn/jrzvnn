@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Make a living by owning a bridge](http://9gag.com/gag/a7oLZge)
- - 😝 [Golden](http://9gag.com/gag/aZZbBj0)
- - 💣 [Sorry about the dumb red arrow.](http://9gag.com/gag/aVvzeQP)
+ - 😝 [Michael Jackson flies out of the concert](http://9gag.com/gag/aZZbmBz)
  - 😝 [From Scott to Stew](http://9gag.com/gag/a1mvK4D)
- - 👉 [Hard to keep arguing then](http://9gag.com/gag/a9ybWAK)<!-- MEMES:END -->
+ - 💣 [Thats not a child thats a man and its sad. Bro deserves to be a kid.](http://9gag.com/gag/aKGw3Bg)
+ - 😝 [We demand equal pay!](http://9gag.com/gag/aByR8ZD)
+ - 👉 [Have you heard of the 1997 seattle samurai incident?](http://9gag.com/gag/agm3XY6)<!-- MEMES:END -->
 
 ---
 

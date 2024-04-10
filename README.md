@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you&#39;re your own cook](http://9gag.com/gag/aZZbp9W)
- - 😝 [Be fast cause they are furious!](http://9gag.com/gag/a34P7Rv)
- - 💣 [Let&#39;s dance!](http://9gag.com/gag/awy0VPQ)
+ - 😝 [I meeaaaann](http://9gag.com/gag/ayN7xGb)
+ - 😝 [Nice](http://9gag.com/gag/aXP0wPP)
+ - 💣 [It&#39;s not about that `video`, but about the message](http://9gag.com/gag/a34P7PN)
  - 😝 [Lmao](http://9gag.com/gag/aYQNKRN)
- - 👉 [We demand equal pay!](http://9gag.com/gag/aByR8ZD)<!-- MEMES:END -->
+ - 👉 [Zimbabwe has officially launched a new gold-backed currency to replace the local dollar. Nice knowing you Zimbabwe.](http://9gag.com/gag/aryvNA7)<!-- MEMES:END -->
 
 ---
 

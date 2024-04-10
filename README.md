@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Have you heard of the 1997 seattle samurai incident?](http://9gag.com/gag/agm3XY6)
- - 😝 [Make a living by owning a bridge](http://9gag.com/gag/a7oLZge)
- - 💣 [What alcohol withdrawal looks like](http://9gag.com/gag/aLnRMex)
+ - 😝 [From Scott to Stew](http://9gag.com/gag/a1mvK4D)
+ - 😝 [Trying hard](http://9gag.com/gag/abAXYz8)
+ - 💣 [How?](http://9gag.com/gag/apRE2zp)
  - 😝 [I&#39;m a child](http://9gag.com/gag/aNDr1Yr)
- - 👉 [Trying hard](http://9gag.com/gag/abAXYz8)<!-- MEMES:END -->
+ - 👉 [Well, what did you expect? Have you seen who his mother is?](http://9gag.com/gag/a4PK776)<!-- MEMES:END -->
 
 ---
 

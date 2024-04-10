@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Israeli cloud security startup Wiz buys cloud detection and response startup Gem Security, sources say for $350M, after buying developer platform Rafft in 2023 &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/240410/p22#a240410p22)
+ - [Snap up Apple&#39;s latest Mac Studio for $1,795 &lpar;$204 off&rpar;, plus get 3 yrs of AppleCare for $139](https://appleinsider.com/articles/24/04/10/snap-up-apples-latest-mac-studio-for-1795-204-off?utm_medium=rss)
  - [This luxury watch is about as thin as a strand of spaghetti](https://www.theverge.com/2024/4/10/24126095/bulgari-thinnest-watch-octo-finissimo-ultra-cosc)
  - [iOS 18 rumored to have a mysterious Safari Browsing Assistant feature](https://appleinsider.com/articles/24/04/10/ios-18-rumored-to-have-a-mysterious-safari-browsing-assistant-feature?utm_medium=rss)
- - [Madrid-based big data observability startup Onum, which launched in 2023, raised a $28M Series A led by Dawn Capital, with participation from Insight and Kibo &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/240410/p21#a240410p21)
- - [The Hacking Lawsuit Looming Over Truth Social](https://www.wired.com/story/truth-social-hacking-lawsuit/)
- - [This is the new Sonos app, coming May 7th](https://www.theverge.com/2024/4/10/24125866/sonos-new-app-features)<!-- TECH:END -->
+ - [Madrid-based big data observability startup Onum, which launched in 2023, raised a $28M Series A led by Dawn Capital, with participation from Insight and Kibo &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/240410/p21#a240410p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In the late 1990s, Julia Hill climbed a 200-foot, approximately 1000-year-old Californian redwood tree &amp; didn\u2019t come down for another 738 days. She ultimately reached an agreement with Pacific Lumber Company to spare the tree &amp; a 200-foot buffer zone surrounding the tree.](http://9gag.com/gag/aW4Q1e6)
- - 😝 [Let\u2019s be honest, he knew this would get posted. He\u2019s just showing his girl off.](http://9gag.com/gag/a6ZmVeL)
- - 💣 [This is money dog! Upvote to gain money and go through customs faster!](http://9gag.com/gag/ae9jM0m)
- - 😝 [For airbnb only](http://9gag.com/gag/an7qbWq)
- - 👉 [Lol.](http://9gag.com/gag/aAyRdGd)<!-- MEMES:END -->
+ - 😝 [Let&#39;s dance!](http://9gag.com/gag/awy0VPQ)
+ - 😝 [Priorities.....](http://9gag.com/gag/aQzPePw)
+ - 💣 [Careful when you drive...sad stuff](http://9gag.com/gag/a9ybp2j)
+ - 😝 [From Scott to Stew](http://9gag.com/gag/a1mvK4D)
+ - 👉 [What alcohol withdrawal looks like](http://9gag.com/gag/aLnRMex)<!-- MEMES:END -->
 
 ---
 

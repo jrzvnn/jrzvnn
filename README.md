@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google plans to make Magic Editor and other AI editing tools, previously limited to Pixel phones and paid users, available to all Google Photos users for free &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240410/p27#a240410p27)
+ - [Apple wants to hire a PR heavyweight to battle the EU on its own soil](https://appleinsider.com/articles/24/04/10/apple-wants-to-hire-a-pr-heavyweight-to-battle-the-eu-on-its-own-soil?utm_medium=rss)
  - [Ford Mustang Mach-E gets more range, faster charging, and quicker acceleration](https://www.theverge.com/2024/4/10/24126098/ford-mustang-mache-2024-model-updates-range-charging)
  - [False Flag: Social media erupts over Apple&#39;s predictive text Palestine blunder](https://appleinsider.com/articles/24/04/10/false-flag-social-media-erupts-over-apples-predictive-text-palestine-blunder?utm_medium=rss)
- - [Influencers Are Trying to Go Viral By Playing &#39;Content Warning&#39;—a Game About Going Viral](https://www.wired.com/story/influencers-are-trying-to-go-viral-by-playing-content-warning/)
- - [Microsoft Build will detail ‘next generation’ of Windows on Arm and new AI features](https://www.theverge.com/2024/4/10/24126276/microsoft-windows-on-arm-next-generation-ai-features-build-event)
- - [Watch Champions League Soccer: Livestream PSG vs. Barcelona From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/watch-champions-league-soccer-livestream-psg-vs-barcelona-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Influencers Are Trying to Go Viral by Playing &#39;Content Warning&#39;—a Game About Going Viral](https://www.wired.com/story/influencers-are-trying-to-go-viral-by-playing-content-warning/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

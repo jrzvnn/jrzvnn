@@ -170,7 +170,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Texas is replacing thousands of human exam graders with AI](https://www.theverge.com/2024/4/10/24126206/texas-staar-exam-graders-ai-automated-scoring-engine)
  - [Google&#39;s Cloud Next keynote was by far its most impressive presentation in the AI era, not least because the company realizes its infrastructure advantages &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/240410/p26#a240410p26)
  - [The Internet Archive is now hosting Aruba’s history](https://www.theverge.com/2024/4/10/24126091/the-internet-archive-aruba-historic-materials-digital-preservation)
- - [Developer email: Amazon will no longer pay developers to create Alexa apps, and stops offering free AWS credits; developers can still monetize apps via IAPs &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/240410/p25#a240410p25)<!-- TECH:END -->
+ - [Amazon says it will stop paying developers to create Alexa apps and giving free AWS credits on June 30, 2024; developers can keep monetizing their apps via IAPs &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/240410/p25#a240410p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

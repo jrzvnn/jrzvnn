@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Coffee Maker Deals: Save Up to $300 on Various Types of Coffee Makers     - CNET](https://www.cnet.com/deals/best-coffee-maker-deals/#ftag=CAD590a51e)
+ - [Best Flower Delivery Deals: Top Deals on Mother&#39;s Day Flowers You Can Order Now     - CNET](https://www.cnet.com/deals/best-flower-delivery-deals-top-deals-on-mothers-day-flowers-you-can-order-now/#ftag=CAD590a51e)
  - [Computer scientist Avi Wigderson wins the 2023 Turing Award for his &quot;foundational contributions to the theory of computation&quot;, including his work on randomness &lpar;Stephen Ornes/Quanta Magazine&rpar;](http://www.techmeme.com/240410/p36#a240410p36)
  - [Google announces a $1B investment to improve digital connectivity between the US, Japan, and multiple Pacific island countries through two new subsea cables &lpar;Granth Vanaik/Reuters&rpar;](http://www.techmeme.com/240410/p35#a240410p35)
- - [Two former execs of the company behind the Truth Social merger are caught up in a messy hacking lawsuit](https://www.theverge.com/2024/4/10/24126237/truth-social-digital-world-acquisition-corp-hacking-lawsuit-patrick-orlando-eric-swider-trump-media)
- - [What a Portable Power Station Taught Me About My Energy Use     - CNET](https://www.cnet.com/how-to/what-a-portable-power-station-taught-me-about-my-energy-use/#ftag=CAD590a51e)
- - [Viber&#39;s New AI Feature Summarizes Busy Group Chats You&#39;ll Never Read     - CNET](https://www.cnet.com/tech/mobile/vibers-new-ai-feature-summarizes-busy-group-chats-youll-never-read/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Two former execs of the company behind the Truth Social merger are caught up in a messy hacking lawsuit](https://www.theverge.com/2024/4/10/24126237/truth-social-digital-world-acquisition-corp-hacking-lawsuit-patrick-orlando-eric-swider-trump-media)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

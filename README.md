@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Ukraine found US startups&#39; drones glitchy and pricey, turning instead to cheaper Chinese drones; PitchBook: ~300 US drone startups raised $2.5B since 2022 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240410/p18#a240410p18)
+ - [How to Delete Your Google Account—After Downloading All of Your Data First](https://www.wired.com/story/how-to-delete-a-google-account/)
  - [Q&amp;A with Getty Images CEO Craig Peters on the deal with Nvidia to create AI tools trained on Getty&#39;s stock images, the need for AI industry standards, and more &lpar;Scott Roxborough/The Hollywood Reporter&rpar;](http://www.techmeme.com/240410/p17#a240410p17)
  - [Best Apple Vision Pro third-party apps in April 2024](https://appleinsider.com/inside/apple-vision-pro/best/best-apple-vision-pro-third-party-apps-in-april-2024?utm_medium=rss)
- - [iPhone 16 Plus may expand to seven colors including white and purple](https://appleinsider.com/articles/24/04/10/iphone-16-plus-may-expand-to-seven-colors-including-white-and-purple?utm_medium=rss)
- - [How to Stop Your Data From Being Used to Train AI](https://www.wired.com/story/how-to-stop-your-data-from-being-used-to-train-ai/)
- - [Guesty, a platform for accommodation managers to manage Airbnbs and more, raised $130M, sources say at a $900M valuation, after raising a $170M Series E in 2022 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240410/p16#a240410p16)<!-- TECH:END -->
+ - [iPhone 16 Plus may expand to seven colors including white and purple](https://appleinsider.com/articles/24/04/10/iphone-16-plus-may-expand-to-seven-colors-including-white-and-purple?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

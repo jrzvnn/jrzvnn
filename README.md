@@ -170,7 +170,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [TSMC 2nm processor won&#39;t arrive until iPhone 17 Pro](https://appleinsider.com/articles/24/04/10/tsmc-2nm-processor-wont-arrive-until-iphone-17-pro?utm_medium=rss)
  - [How to find any file on macOS](https://www.theverge.com/24126104/macos-apple-file-find-how-to)
  - [Collaborative Robotics, which is developing a Cobot to work alongside humans, raised a $100M Series B led by General Catalyst, taking its total funding to $140M &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240410/p20#a240410p20)
- - [iPhone 16 Plus may expand to seven colors including white and purple](https://appleinsider.com/articles/24/04/10/iphone-16-plus-may-expand-to-seven-colors-including-white-and-purple?utm_medium=rss)<!-- TECH:END -->
+ - [Knock Up to 40% Off Top-Rated EcoFlow Power Stations for Your Next Adventure     - CNET](https://www.cnet.com/deals/knock-up-to-40-off-top-rated-ecoflow-power-stations-for-your-next-adventure/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

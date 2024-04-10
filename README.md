@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Apple Watch could be the next great Game Boy emulator](https://www.theverge.com/2024/4/10/24126308/apple-watch-android-smartwatch-game-boy-advance-emulator-reddit)
- - [Sources: ByteDance misled the Central Bank of Ireland in early 2023, after HSBC shut down the company&#39;s bank accounts following a money laundering probe &lpar;Michael Roddan/The Information&rpar;](http://www.techmeme.com/240410/p29#a240410p29)
- - [The House will vote on expanding warrantless wiretapping authority](https://www.theverge.com/2024/4/10/24126247/house-vote-fisa-section-702-reauthorization)
- - [The first confirmed Playtron gaming handheld is aimed squarely at crypto bros](https://www.theverge.com/2024/4/10/24126368/playtron-mysten-labs-suiplay-0x1-gaming-handheld)
- - [A new bill wants to reveal what’s really inside AI training data](https://www.theverge.com/2024/4/10/24126382/copyright-ai-bill-congress-schiff-training-data)<!-- TECH:END -->
+ - [False Flag: Social media erupts over Apple&#39;s predictive text Palestine blunder](https://appleinsider.com/articles/24/04/10/false-flag-social-media-erupts-over-apples-predictive-text-palestine-blunder?utm_medium=rss)
+ - [The best trailers from the Triple-i indie game showcase](https://www.theverge.com/24126108/triple-i-initiative-indie-game-showcase-news-trailers)
+ - [Microsoft is bringing its Xbox dashboard to the web with party chat and more](https://www.theverge.com/2024/4/10/24126452/microsoft-xbox-dashboard-web-interface-party-chat-features)
+ - [Amazon will stop paying developers for making Alexa skills](https://www.theverge.com/2024/4/10/24126291/amazon-stop-paying-developers-alexa-skills)
+ - [The Apple Watch could be the next great Game Boy emulator](https://www.theverge.com/2024/4/10/24126308/apple-watch-android-smartwatch-game-boy-advance-emulator-reddit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

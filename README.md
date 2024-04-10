@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Store employees in New Jersey are trying to unionize](https://www.theverge.com/2024/4/10/24126657/apple-store-employees-new-jersey-unionize)
  - [Sources: Sam Altman met with investors and officials in the UAE this week to push for more infrastructure investment to support the development of AI technology &lpar;Bloomberg&rpar;](http://www.techmeme.com/240410/p34#a240410p34)
  - [Mistral AI launches Mixtral 8x22B, its latest sparse mixture-of-experts model, after releasing Mixtral 8x7B in December 2023 &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/240410/p33#a240410p33)
  - [AMC Theatres’ top brass has misgivings about the Dune popcorn bucket](https://www.theverge.com/2024/4/10/24126387/amc-dune-popcorn-bucket-theatres)
- - [New Jersey Apple Store files to unionize](https://appleinsider.com/articles/24/04/10/new-jersey-apple-store-files-to-unionize?utm_medium=rss)
- - [Trump Loyalists Kill Vote on US Wiretap Program](https://www.wired.com/story/section-702-vote-fails-trump-fisa/)<!-- TECH:END -->
+ - [New Jersey Apple Store files to unionize](https://appleinsider.com/articles/24/04/10/new-jersey-apple-store-files-to-unionize?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

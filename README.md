@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s not about that `video`, but about the message](http://9gag.com/gag/a34P7PN)
+ - 😝 [From Scott to Stew](http://9gag.com/gag/a1mvK4D)
+ - 😝 [Make a living by owning a bridge](http://9gag.com/gag/a7oLZge)
+ - 💣 [I&#39;m a child](http://9gag.com/gag/aNDr1Yr)
  - 😝 [Hard to keep arguing then](http://9gag.com/gag/a9ybWAK)
- - 💣 [No wonder your a piggy](http://9gag.com/gag/aByR02Q)
- - 😝 [Loop](http://9gag.com/gag/a34Pqqm)
- - 👉 [From Scott to Stew](http://9gag.com/gag/a1mvK4D)<!-- MEMES:END -->
+ - 👉 [Golden](http://9gag.com/gag/aZZbBj0)<!-- MEMES:END -->
 
 ---
 

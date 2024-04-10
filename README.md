@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ford Mustang Mach-E gets more range, faster charging, and quicker acceleration](https://www.theverge.com/2024/4/10/24126098/ford-mustang-mache-2024-model-updates-range-charging)
  - [False Flag: Social media erupts over Apple&#39;s predictive text Palestine blunder](https://appleinsider.com/articles/24/04/10/false-flag-social-media-erupts-over-apples-predictive-text-palestine-blunder?utm_medium=rss)
  - [Influencers Are Trying to Go Viral By Playing &#39;Content Warning&#39;—a Game About Going Viral](https://www.wired.com/story/influencers-are-trying-to-go-viral-by-playing-content-warning/)
  - [Microsoft Build will detail ‘next generation’ of Windows on Arm and new AI features](https://www.theverge.com/2024/4/10/24126276/microsoft-windows-on-arm-next-generation-ai-features-build-event)
- - [Apple Music leads HomePod streaming, but Spotify has an incredibly strong position](https://appleinsider.com/articles/24/04/10/apple-music-leads-homepod-streaming-but-spotify-has-an-incredibly-strong-position?utm_medium=rss)
- - [Texas is replacing thousands of human exam graders with AI](https://www.theverge.com/2024/4/10/24126206/texas-staar-exam-graders-ai-automated-scoring-engine)<!-- TECH:END -->
+ - [Watch Champions League Soccer: Livestream PSG vs. Barcelona From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/watch-champions-league-soccer-livestream-psg-vs-barcelona-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

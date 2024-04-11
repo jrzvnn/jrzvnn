@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Police retreat from Islamic mob. London is officially a No-Go zone.](http://9gag.com/gag/aQzPRO2)
- - 😝 [Well, what did you expect? Have you seen who his mother is?](http://9gag.com/gag/a4PK776)
- - 💣 [Ghost fart. Thousand of people die every year because ot it.](http://9gag.com/gag/amoNB7V)
- - 😝 [American psycho](http://9gag.com/gag/a9ybRMo)
- - 👉 [Henry Cavill being Henry Cavill](http://9gag.com/gag/aYQN7BN)<!-- MEMES:END -->
+ - 😝 [Conversation in 2024. be like](http://9gag.com/gag/aRBw757)
+ - 😝 [That hug tho.](http://9gag.com/gag/a7oLWrb)
+ - 💣 [American psycho](http://9gag.com/gag/a9ybRMo)
+ - 😝 [$15k bike left unattended in Singapore. No n.....](http://9gag.com/gag/aAyRe0o)
+ - 👉 [I&#39;m a child](http://9gag.com/gag/aNDr1Yr)<!-- MEMES:END -->
 
 ---
 

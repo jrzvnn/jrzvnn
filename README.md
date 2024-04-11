@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That hug tho.](http://9gag.com/gag/a7oLWrb)
- - 😝 [London 9 April 2024](http://9gag.com/gag/awy0o9x)
- - 💣 [What is the point of pixelated pps](http://9gag.com/gag/aByRWeN)
- - 😝 [Have you heard of the 1997 seattle samurai incident?](http://9gag.com/gag/agm3XY6)
- - 👉 [From Scott to Stew](http://9gag.com/gag/a1mvK4D)<!-- MEMES:END -->
+ - 😝 [Let\u2019s be honest, he knew this would get posted. He\u2019s just showing his girl off.](http://9gag.com/gag/a6ZmVeL)
+ - 😝 [In the late 1990s, Julia Hill climbed a 200-foot, approximately 1000-year-old Californian redwood tree &amp; didn\u2019t come down for another 738 days. She ultimately reached an agreement with Pacific Lumber Company to spare the tree &amp; a 200-foot buffer zone surrounding the tree.](http://9gag.com/gag/aW4Q1e6)
+ - 💣 [The leader of Hamas hear the news regarding his 3 sons killed in Gaza. This is the face of Hamas - being casual about the death of your children, blessing god. Remember this the next time Hamas wines about the death of children.](http://9gag.com/gag/aAyRgB2)
+ - 😝 [Well, what did you expect? Have you seen who his mother is?](http://9gag.com/gag/a4PK776)
+ - 👉 [American psycho](http://9gag.com/gag/a9ybRMo)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well, what did you expect? Have you seen who his mother is?](http://9gag.com/gag/a4PK776)
- - 😝 [North Koreans running into the water to reach Kim Jong Un&#39;s boat](http://9gag.com/gag/aVvzYm8)
- - 💣 [Henry Cavill being Henry Cavill](http://9gag.com/gag/aYQN7BN)
- - 😝 [Have you heard of the 1997 seattle samurai incident?](http://9gag.com/gag/agm3XY6)
- - 👉 [The leader of Hamas hear the news regarding his 3 sons killed in Gaza. This is the face of Hamas - being casual about the death of your children, blessing god. Remember this the next time Hamas wines about the death of children.](http://9gag.com/gag/aAyRgB2)<!-- MEMES:END -->
+ - 😝 [Yeah\u2026](http://9gag.com/gag/aoyE5Ve)
+ - 😝 [Tilt shift makes demolition derby cars look like toys](http://9gag.com/gag/a6ZmKo8)
+ - 💣 [The birth moment of a new feminist](http://9gag.com/gag/ae9j56b)
+ - 😝 [Today, I collected 20 kg of garbage, bringing the total to 3110 kg. The snow has melted, and I finally can clean nature after 6 months. Your Cleaning Guy.](http://9gag.com/gag/ayN7BZq)
+ - 👉 [Lol.](http://9gag.com/gag/aoyEPeg)<!-- MEMES:END -->
 
 ---
 

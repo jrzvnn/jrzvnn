@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Substack lets podcasters distribute their shows on Spotify, and says podcasters on Substack collectively earn $100M+ per year, which doubled in the past year &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240411/p20#a240411p20)
  - [Andy Jassy criticizes US and EU regulators for blocking the iRobot deal, saying they trust large Chinese companies more than Amazon with maps of home interiors &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/240411/p19#a240411p19)
  - [Apple swaps &quot;state-sponsored&quot; with &quot;mercenary spyware attack&quot; in threat notifications; source: it faced pressure from India for linking breaches to state actors &lpar;Ashna Teresa Britto/Reuters&rpar;](http://www.techmeme.com/240411/p18#a240411p18)
  - [Score Deep Discounts on Tech and Home Gear During Best Buy&#39;s Limited-Time Outlet Sale     - CNET](https://www.cnet.com/deals/score-deep-discounts-on-tech-and-home-gear-during-best-buys-limited-time-outlet-sale/#ftag=CAD590a51e)
- - [Best Savings Rates Today -- Don&#39;t Miss Out on APYs Up to 5.55%, April 11, 2024      - CNET](https://www.cnet.com/personal-finance/todays-best-savings-rates-april-11-2024/#ftag=CAD590a51e)
- - [The UK CMA raises concerns after finding an &quot;interconnected web&quot; of 90+ AI deals and investments involving Google, Apple, Microsoft, Meta, Amazon, and Nvidia &lpar;Bloomberg&rpar;](http://www.techmeme.com/240411/p17#a240411p17)<!-- TECH:END -->
+ - [Best Savings Rates Today -- Don&#39;t Miss Out on APYs Up to 5.55%, April 11, 2024      - CNET](https://www.cnet.com/personal-finance/todays-best-savings-rates-april-11-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

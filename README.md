@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well, what did you expect? Have you seen who his mother is?](http://9gag.com/gag/a4PK776)
- - 😝 [Police retreat from Islamic mob. London is officially a No-Go zone.](http://9gag.com/gag/aQzPRO2)
- - 💣 [Trying hard](http://9gag.com/gag/abAXYz8)
- - 😝 [The birth moment of a new feminist](http://9gag.com/gag/ae9j56b)
- - 👉 [That hug tho.](http://9gag.com/gag/a7oLWrb)<!-- MEMES:END -->
+ - 😝 [Peek a boo](http://9gag.com/gag/aO8KY4v)
+ - 😝 [The media is on a desperate search for their next George Floyd before November](http://9gag.com/gag/aYQNybm)
+ - 💣 [Lol.](http://9gag.com/gag/aoyEPeg)
+ - 😝 [At least men are left alone](http://9gag.com/gag/aLnRwzA)
+ - 👉 [A friend of mine had a vasectomy and his wife is pregnant](http://9gag.com/gag/aGyYd6n)<!-- MEMES:END -->
 
 ---
 

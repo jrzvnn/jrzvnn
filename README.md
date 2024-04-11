@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [North Koreans running into the water to reach Kim Jong Un&#39;s boat](http://9gag.com/gag/aVvzYm8)
- - 😝 [I&#39;m a child](http://9gag.com/gag/aNDr1Yr)
- - 💣 [Don&#39;t google it](http://9gag.com/gag/aVvzq9w)
- - 😝 [There&#39;s an ending to this comic since it&#39;s a two-part, but if she ended up here, in the first half, it would be enough to found it idyllic](http://9gag.com/gag/aRBw1D7)
- - 👉 [No wonder your a piggy](http://9gag.com/gag/aByR02Q)<!-- MEMES:END -->
+ - 😝 [How?](http://9gag.com/gag/apRE2zp)
+ - 😝 [From Scott to Stew](http://9gag.com/gag/a1mvK4D)
+ - 💣 [Trying hard](http://9gag.com/gag/abAXYz8)
+ - 😝 [Literally me, bro](http://9gag.com/gag/aryvgPB)
+ - 👉 [Maybe...](http://9gag.com/gag/aQzP3Xq)<!-- MEMES:END -->
 
 ---
 

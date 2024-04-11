@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Haven&#39;t Received Your Child Tax Credit Money? Here&#39;s When It Could Arrive     - CNET](https://www.cnet.com/personal-finance/taxes/havent-received-your-child-tax-credit-money-heres-when-it-could-arrive/#ftag=CAD590a51e)
- - [Apple Warns of iPhone &quot;Mercenary Attack&quot; Across 92 Countries     - CNET](https://www.cnet.com/tech/mobile/apple-warns-of-iphone-mercenary-attack-across-92-countries/#ftag=CAD590a51e)
  - [Saudi Arabia and the UAE, which are vying to become the regional AI superpower, are rushing to build expensive desert data centers to support the technology &lpar;Bloomberg&rpar;](http://www.techmeme.com/240411/p5#a240411p5)
  - [Apple sends threat notifications to individuals in 92 countries, warning them that their iPhone may have been targeted by &quot;mercenary spyware attacks&quot; &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240411/p4#a240411p4)
- - [The MPA announces plans to work with US Congress to enact a SOPA-like anti-piracy law; SOPA was fiercely opposed by the tech industry and failed to pass in 2012 &lpar;Winston Cho/The Hollywood Reporter&rpar;](http://www.techmeme.com/240411/p3#a240411p3)<!-- TECH:END -->
+ - [The MPA announces plans to work with US Congress to enact a SOPA-like anti-piracy law; SOPA was fiercely opposed by the tech industry and failed to pass in 2012 &lpar;Winston Cho/The Hollywood Reporter&rpar;](http://www.techmeme.com/240411/p3#a240411p3)
+ - [Australian data center operator NextDC is raising AU$1.32B of equity to accelerate development and fit-out of centers in its core Sydney and Melbourne markets &lpar;Stuart Condie/Wall Street Journal&rpar;](http://www.techmeme.com/240411/p2#a240411p2)
+ - [Flash deal: Apple&#39;s 1TB MacBook Pro 14-inch with 19-core GPU drops to $1,949](https://appleinsider.com/articles/24/04/11/flash-deal-apples-1tb-macbook-pro-14-inch-with-19-core-gpu-drops-to-1949?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

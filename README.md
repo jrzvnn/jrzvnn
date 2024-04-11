@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yeah\u2026](http://9gag.com/gag/aoyE5Ve)
- - 😝 [Tilt shift makes demolition derby cars look like toys](http://9gag.com/gag/a6ZmKo8)
- - 💣 [The birth moment of a new feminist](http://9gag.com/gag/ae9j56b)
- - 😝 [Today, I collected 20 kg of garbage, bringing the total to 3110 kg. The snow has melted, and I finally can clean nature after 6 months. Your Cleaning Guy.](http://9gag.com/gag/ayN7BZq)
- - 👉 [Lol.](http://9gag.com/gag/aoyEPeg)<!-- MEMES:END -->
+ - 😝 [Well, what did you expect? Have you seen who his mother is?](http://9gag.com/gag/a4PK776)
+ - 😝 [A question for the mens](http://9gag.com/gag/aVvzYR2)
+ - 💣 [In American culture, that is considered a d**k move](http://9gag.com/gag/amoNvM4)
+ - 😝 [CANDYLION](http://9gag.com/gag/a7oLWEz)
+ - 👉 [Tachibana Senior High School Band.](http://9gag.com/gag/aoyEe63)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How?](http://9gag.com/gag/apRE2zp)
- - 😝 [From Scott to Stew](http://9gag.com/gag/a1mvK4D)
- - 💣 [Trying hard](http://9gag.com/gag/abAXYz8)
- - 😝 [Literally me, bro](http://9gag.com/gag/aryvgPB)
- - 👉 [Maybe...](http://9gag.com/gag/aQzP3Xq)<!-- MEMES:END -->
+ - 😝 [No wonder your a piggy](http://9gag.com/gag/aByR02Q)
+ - 😝 [Well Chess is funny sometimes](http://9gag.com/gag/axydVnK)
+ - 💣 [Sasuke prepare for villain arc](http://9gag.com/gag/azxg8Pz)
+ - 😝 [Where are the English? Polish tourist visiting London is shocked by what he sees.](http://9gag.com/gag/aGyYZZz)
+ - 👉 [In the late 1990s, Julia Hill climbed a 200-foot, approximately 1000-year-old Californian redwood tree &amp; didn\u2019t come down for another 738 days. She ultimately reached an agreement with Pacific Lumber Company to spare the tree &amp; a 200-foot buffer zone surrounding the tree.](http://9gag.com/gag/aW4Q1e6)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well, what did you expect? Have you seen who his mother is?](http://9gag.com/gag/a4PK776)
- - 😝 [A friend of mine had a vasectomy and his wife is pregnant](http://9gag.com/gag/aGyYd6n)
- - 💣 [American psycho](http://9gag.com/gag/a9ybRMo)
- - 😝 [Have you heard of the 1997 seattle samurai incident?](http://9gag.com/gag/agm3XY6)
- - 👉 [That hug tho.](http://9gag.com/gag/a7oLWrb)<!-- MEMES:END -->
+ - 😝 [That&#39;s why I always drink tap water.](http://9gag.com/gag/a9ybn3j)
+ - 😝 [Lol.](http://9gag.com/gag/aoyEPeg)
+ - 💣 [At least men are left alone](http://9gag.com/gag/aLnRwzA)
+ - 😝 [That hug tho.](http://9gag.com/gag/a7oLWrb)
+ - 👉 [A friend of mine had a vasectomy and his wife is pregnant](http://9gag.com/gag/aGyYd6n)<!-- MEMES:END -->
 
 ---
 

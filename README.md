@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UK&#39;s CMA raises concerns after finding an &quot;interconnected web&quot; of 90+ AI deals and investments involving Google, Apple, Microsoft, Meta, Amazon, and Nvidia &lpar;Bloomberg&rpar;](http://www.techmeme.com/240411/p17#a240411p17)
+ - [14 Best Podcasts for Kids &lpar;2023&rpar;: Long-Form, Short Stories, and More](https://www.wired.com/story/best-podcasts-for-kids/)
  - [Auto parts maker Magna will pilot Sanctuary AI&#39;s humanoid robot in its factory; Figure and Apptronik are piloting their humanoid systems with BMW and Mercedes &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240411/p16#a240411p16)
  - [The Best Personal Safety Devices, Apps, and Wearables &lpar;2024&rpar;](https://www.wired.com/story/best-personal-safety-tech/)
- - [Apple will open the iPhone to repair with used parts](https://www.theverge.com/2024/4/11/24127278/apple-iphone-repair-used-parts)
- - [Apple will allow activation of used parts in repairs by users &amp; service shops](https://appleinsider.com/articles/24/04/11/apple-will-allow-activation-of-used-parts-in-repairs-by-users-service-shops?utm_medium=rss)
- - [PNC Bank: 2024 Home Equity Review     - CNET](https://www.cnet.com/personal-finance/mortgages/pnc-bank-2/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple will open the iPhone to repair with used parts](https://www.theverge.com/2024/4/11/24127278/apple-iphone-repair-used-parts)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

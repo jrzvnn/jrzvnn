@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Hot girls only](http://9gag.com/gag/aNDrgG0)
  - 😝 [A friend of mine had a vasectomy and his wife is pregnant](http://9gag.com/gag/aGyYd6n)
- - 😝 [This explains the situation perfectly....](http://9gag.com/gag/aVvz74d)
- - 💣 [Harry Potter: JK Rowling suggests she won\u2019t \u2018forgive\u2019 Emma Watson and Daniel Radcliffe for criticising her](http://9gag.com/gag/a9ybngW)
- - 😝 [He can finally rest knowing his wifes killer is dead](http://9gag.com/gag/abAXVmb)
- - 👉 [Hot girls only](http://9gag.com/gag/aNDrgG0)<!-- MEMES:END -->
+ - 💣 [Equality is just fantasy](http://9gag.com/gag/aYQNo42)
+ - 😝 [Moving away from villages to big cities was a mistake. We had food family pets and a life without geind and stress, we didnt need fancy cars and expensive houses to be happy.](http://9gag.com/gag/a6ZmKzq)
+ - 👉 [Imagine running for your life and this is the fastest you can run.](http://9gag.com/gag/aVvzw1K)<!-- MEMES:END -->
 
 ---
 

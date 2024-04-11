@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok may add AI avatars that can make ads](https://www.theverge.com/2024/4/11/24127579/tiktok-ai-virtual-influencers-advertising)
+ - [Apple is reportedly planning a big AI-focused M4 Mac upgrade](https://www.theverge.com/2024/4/11/24127529/apple-upgrade-macs-m4-chip-ai)
+ - [Microsoft is trying to convince Windows 10 users to upgrade with full-screen prompts](https://www.theverge.com/2024/4/11/24127497/microsoft-windows-10-upgrade-prompt-windows-11)
  - [Q&amp;A with Google Cloud CEO Thomas Kurian on why Google doesn&#39;t need to raise trillions to build a supercomputer, why AI offers a reset in competition, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/240411/p25#a240411p25)
- - [Rumor: M4 MacBook Pro with AI enhancements expected at the end of 2024](https://appleinsider.com/articles/24/04/11/rumor-m4-macbook-pro-with-ai-enhancements-expected-at-the-end-of-2024?utm_medium=rss)
- - [Fallout 4 is getting a next-gen update just in time for the show](https://www.theverge.com/2024/4/11/24127471/fallout-4-next-gen-update-steam-deck-verified)
- - [Bird Flu Is Spreading in Alarming New Ways](https://www.wired.com/story/bird-flu-is-spreading-in-new-ways-h5n1-cattle-usa/)
- - [Apple Is Making It Slightly Easier to Repair Your iPhone](https://www.wired.com/story/apple-iphone-parts-pairing-right-to-repair/)<!-- TECH:END -->
+ - [Rumor: M4 MacBook Pro with AI enhancements expected at the end of 2024](https://appleinsider.com/articles/24/04/11/rumor-m4-macbook-pro-with-ai-enhancements-expected-at-the-end-of-2024?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

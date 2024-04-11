@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X tells users &quot;the hide your checkmark feature of X Premium is going away soon&quot;, after X began adding blue checks to &quot;influential&quot; users with 2,500+ followers &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/240411/p32#a240411p32)
  - [CISA is investigating a breach at business intelligence company Sisense; sources: the attackers copied several terabytes of customer data, including credentials &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/240411/p31#a240411p31)
  - [Discord is nuking Nintendo Switch emulator devs and their entire servers](https://www.theverge.com/2024/4/11/24127545/discord-suyu-sudachi-server-shutdown-account-ban)
  - [Taylor Swift’s Music Is Back on TikTok—Right Before Her New Album Drops](https://www.wired.com/story/taylor-swift-is-back-on-tiktok/)
- - [Rise in corporate Mac use invites more sophisticated hacking](https://appleinsider.com/articles/24/04/11/rise-in-corporate-mac-use-invites-more-sophisticated-hacking?utm_medium=rss)
- - [Meta releases OpenEQA, a benchmark to measure an AI agent&#39;s understanding of physical spaces by probing it with questions about the environment &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240411/p30#a240411p30)<!-- TECH:END -->
+ - [Rise in corporate Mac use invites more sophisticated hacking](https://appleinsider.com/articles/24/04/11/rise-in-corporate-mac-use-invites-more-sophisticated-hacking?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

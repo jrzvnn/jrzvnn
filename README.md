@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple renews Monarch for season 2 and has plans for more Godzilla spinoffs](https://www.theverge.com/2024/4/11/24127769/apple-tv-plus-monarch-season-2-godzilla-monsterverse-spinoffs)
  - [An NPR editor accuses the network of institutional bias](https://www.theverge.com/2024/4/11/24127729/npr-berliner-podcasts-spotify-daily-wire)
  - [Civil War is an arresting journalism film lacking a real thesis](https://www.theverge.com/24125462/civil-war-movie-alex-garland-review)
  - [21 Best Dog Accessories &lpar;2024&rpar;: Dog Beds, Pet Cameras, Carriers, and More](https://www.wired.com/gallery/best-dog-accessories-and-tech/)
- - [19 Best Gifts for Dad &lpar;2024&rpar;: Grilling Gear, Coffee, Mitts](https://www.wired.com/gallery/gifts-for-dads/)
- - [Find the best AI-powered app to transcribe your audio](https://www.theverge.com/23316220/transcription-ai-otter-temi-how-to)<!-- TECH:END -->
+ - [19 Best Gifts for Dad &lpar;2024&rpar;: Grilling Gear, Coffee, Mitts](https://www.wired.com/gallery/gifts-for-dads/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No wonder your a piggy](http://9gag.com/gag/aByR02Q)
  - 😝 [North Koreans running into the water to reach Kim Jong Un&#39;s boat](http://9gag.com/gag/aVvzYm8)
- - 💣 [The birth moment of a new feminist](http://9gag.com/gag/ae9j56b)
- - 😝 [The leader of Hamas hear the news regarding his 3 sons killed in Gaza. This is the face of Hamas - being casual about the death of your children, blessing god. Remember this the next time Hamas wines about the death of children.](http://9gag.com/gag/aAyRgB2)
- - 👉 [There&#39;s an ending to this comic since it&#39;s a two-part, but if she ended up here, in the first half, it would be enough to found it idyllic](http://9gag.com/gag/aRBw1D7)<!-- MEMES:END -->
+ - 😝 [I&#39;m a child](http://9gag.com/gag/aNDr1Yr)
+ - 💣 [Don&#39;t google it](http://9gag.com/gag/aVvzq9w)
+ - 😝 [There&#39;s an ending to this comic since it&#39;s a two-part, but if she ended up here, in the first half, it would be enough to found it idyllic](http://9gag.com/gag/aRBw1D7)
+ - 👉 [No wonder your a piggy](http://9gag.com/gag/aByR02Q)<!-- MEMES:END -->
 
 ---
 

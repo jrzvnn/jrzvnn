@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [North Koreans running into the water to reach Kim Jong Un&#39;s boat](http://9gag.com/gag/aVvzYm8)
+ - 😝 [That hug tho.](http://9gag.com/gag/a7oLWrb)
+ - 😝 [London 9 April 2024](http://9gag.com/gag/awy0o9x)
+ - 💣 [What is the point of pixelated pps](http://9gag.com/gag/aByRWeN)
  - 😝 [Have you heard of the 1997 seattle samurai incident?](http://9gag.com/gag/agm3XY6)
- - 💣 [Ok hear me out](http://9gag.com/gag/aLnR0Eg)
- - 😝 [Ghost fart. Thousand of people die every year because ot it.](http://9gag.com/gag/amoNB7V)
- - 👉 [What is the point of pixelated pps](http://9gag.com/gag/aByRWeN)<!-- MEMES:END -->
+ - 👉 [From Scott to Stew](http://9gag.com/gag/a1mvK4D)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Australian data center operator NextDC is raising AU$1.32B of equity to accelerate development and fit-out of centers in its core Sydney and Melbourne markets &lpar;Stuart Condie/Wall Street Journal&rpar;](http://www.techmeme.com/240411/p2#a240411p2)
+ - [Flash deal: Apple&#39;s 1TB MacBook Pro 14-inch with 19-core GPU drops to $1,949](https://appleinsider.com/articles/24/04/11/flash-deal-apples-1tb-macbook-pro-14-inch-with-19-core-gpu-drops-to-1949?utm_medium=rss)
  - [Ola shuts down in the UK, Australia, and New Zealand, six years after expanding to international markets, to focus on its India expansion ahead of an IPO &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240411/p1#a240411p1)
  - [Sources: Huawei is building a vast chip equipment R&amp;D center in Shanghai and has already hired numerous engineers who have worked for ASML, TSMC, and others &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/240410/p40#a240410p40)
- - [Today&#39;s Wordle Hints and Answer: Help for April 11, #1027     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-11-1027/#ftag=CAD590a51e)
- - [How to use Force Quit and Activity Monitor to close persistent apps](https://appleinsider.com/inside/macos/tips/how-to-use-force-quit-and-activity-monitor-to-close-persistent-apps?utm_medium=rss)
- - [Best Board Game Deals: 24 Strategy Games, Card Games, RPGs and More at a Discount     - CNET](https://www.cnet.com/deals/best-board-game-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints and Answer: Help for April 11, #1027     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-11-1027/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

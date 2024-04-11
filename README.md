@@ -177,9 +177,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Police retreat from Islamic mob. London is officially a No-Go zone.](http://9gag.com/gag/aQzPRO2)
  - 😝 [Well, what did you expect? Have you seen who his mother is?](http://9gag.com/gag/a4PK776)
- - 💣 [I&#39;m a child](http://9gag.com/gag/aNDr1Yr)
- - 😝 [Ghost fart. Thousand of people die every year because ot it.](http://9gag.com/gag/amoNB7V)
- - 👉 [A friend of mine had a vasectomy and his wife is pregnant](http://9gag.com/gag/aGyYd6n)<!-- MEMES:END -->
+ - 💣 [Ghost fart. Thousand of people die every year because ot it.](http://9gag.com/gag/amoNB7V)
+ - 😝 [American psycho](http://9gag.com/gag/a9ybRMo)
+ - 👉 [Henry Cavill being Henry Cavill](http://9gag.com/gag/aYQN7BN)<!-- MEMES:END -->
 
 ---
 

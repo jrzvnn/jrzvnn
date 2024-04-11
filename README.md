@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Henry Cavill being Henry Cavill](http://9gag.com/gag/aYQN7BN)
- - 😝 [I&#39;m not a HP fan but the writer seems reasonable](http://9gag.com/gag/aE0vBXG)
- - 💣 [Ghost fart. Thousand of people die every year because ot it.](http://9gag.com/gag/amoNB7V)
- - 😝 [Boom! Bro use RPG like AK](http://9gag.com/gag/aryvoAX)
- - 👉 [Ah yes lovely example of American architecture](http://9gag.com/gag/aGyYjww)<!-- MEMES:END -->
+ - 😝 [North Koreans running into the water to reach Kim Jong Un&#39;s boat](http://9gag.com/gag/aVvzYm8)
+ - 😝 [Ok hear me out](http://9gag.com/gag/aLnR0Eg)
+ - 💣 [From Scott to Stew](http://9gag.com/gag/a1mvK4D)
+ - 😝 [American psycho](http://9gag.com/gag/a9ybRMo)
+ - 👉 [Police retreat from Islamic mob. London is officially a No-Go zone.](http://9gag.com/gag/aQzPRO2)<!-- MEMES:END -->
 
 ---
 

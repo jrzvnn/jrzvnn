@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ola shuts down in the UK, Australia, and New Zealand, six years after expanding to international markets, to focus on its India expansion ahead of an IPO &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240411/p1#a240411p1)
  - [Sources: Huawei is building a vast chip equipment R&amp;D center in Shanghai and has already hired numerous engineers who have worked for ASML, TSMC, and others &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/240410/p40#a240410p40)
  - [Today&#39;s Wordle Hints and Answer: Help for April 11, #1027     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-11-1027/#ftag=CAD590a51e)
  - [How to use Force Quit and Activity Monitor to close persistent apps](https://appleinsider.com/inside/macos/tips/how-to-use-force-quit-and-activity-monitor-to-close-persistent-apps?utm_medium=rss)
- - [Best Board Game Deals: 24 Strategy Games, Card Games, RPGs and More at a Discount     - CNET](https://www.cnet.com/deals/best-board-game-deals/#ftag=CAD590a51e)
- - [A US jury finds AWS owes Chicago-based Kove $525M for infringing three of its patents in data-storage technology that had become &quot;essential&quot; to AWS &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/240410/p39#a240410p39)<!-- TECH:END -->
+ - [Best Board Game Deals: 24 Strategy Games, Card Games, RPGs and More at a Discount     - CNET](https://www.cnet.com/deals/best-board-game-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

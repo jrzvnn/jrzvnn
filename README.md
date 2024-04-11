@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple hardware chief John Ternus insists parts pairing is not evil](https://appleinsider.com/articles/24/04/11/apple-hardware-chief-john-ternus-insists-parts-pairing-is-not-evil?utm_medium=rss)
  - [Dyson’s AR app shows you where you’ve vacuumed](https://www.theverge.com/2024/4/11/24127505/dyson-gen5detect-vacuum-cleantrace-ar-app)
  - [Android 15’s first beta release is out](https://www.theverge.com/2024/4/11/24127604/android-15-public-beta-pixel)
  - [Sources: TikTok is testing an AI feature that generates a virtual influencer and a script for a video ad based on prompts submitted by advertisers &lpar;The Information&rpar;](http://www.techmeme.com/240411/p27#a240411p27)
- - [All-Terrain Performance Stroller     - CNET](https://www.cnet.com/health/parenting/all-terrain-performance-stroller-dpnl/#ftag=CAD590a51e)
- - [Uber’s safety tools are now customizable and easier to access](https://www.theverge.com/2024/4/11/24127356/uber-rideshare-safety-transportation)<!-- TECH:END -->
+ - [All-Terrain Performance Stroller     - CNET](https://www.cnet.com/health/parenting/all-terrain-performance-stroller-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

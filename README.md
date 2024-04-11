@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Find the best AI-powered app to transcribe your audio](https://www.theverge.com/23316220/transcription-ai-otter-temi-how-to)
+ - [Source: OpenAI has fired two researchers on its AI safety team for allegedly leaking information, including Leopold Aschenbrenner, an ally of Ilya Sutskever &lpar;The Information&rpar;](http://www.techmeme.com/240411/p29#a240411p29)
  - [Google releases Android 15 Beta 1 for Pixel devices, with edge-to-edge app scaling by default, OS-level support for app archiving and unarchiving, and more &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/240411/p28#a240411p28)
  - [Apple hardware chief John Ternus insists parts pairing is not evil](https://appleinsider.com/articles/24/04/11/apple-hardware-chief-john-ternus-insists-parts-pairing-is-not-evil?utm_medium=rss)
- - [Dyson’s AR app shows you where you’ve vacuumed](https://www.theverge.com/2024/4/11/24127505/dyson-gen5detect-vacuum-cleantrace-ar-app)
- - [Android 15’s first beta release is out](https://www.theverge.com/2024/4/11/24127604/android-15-public-beta-pixel)
- - [Sources: TikTok is testing an AI feature that generates a virtual influencer and a script for a video ad based on prompts submitted by advertisers &lpar;The Information&rpar;](http://www.techmeme.com/240411/p27#a240411p27)<!-- TECH:END -->
+ - [Dyson’s AR app shows you where you’ve vacuumed](https://www.theverge.com/2024/4/11/24127505/dyson-gen5detect-vacuum-cleantrace-ar-app)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

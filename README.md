@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [From Scott to Stew](http://9gag.com/gag/a1mvK4D)
+ - 😝 [American psycho](http://9gag.com/gag/a9ybRMo)
+ - 😝 [Ghost fart. Thousand of people die every year because ot it.](http://9gag.com/gag/amoNB7V)
+ - 💣 [He Was A Good Boy And Good Boys Shoots After The Cops When They&#39;re Being Asked To Step Out Of The Car](http://9gag.com/gag/aE0vpGK)
  - 😝 [Crazy](http://9gag.com/gag/aGyYZbG)
- - 💣 [The leader of Hamas hear the news regarding his 3 sons killed in Gaza. This is the face of Hamas - being casual about the death of your children, blessing god. Remember this the next time Hamas wines about the death of children.](http://9gag.com/gag/aAyRgB2)
- - 😝 [Hot girls only](http://9gag.com/gag/aNDrgG0)
- - 👉 [American psycho](http://9gag.com/gag/a9ybRMo)<!-- MEMES:END -->
+ - 👉 [Well, what did you expect? Have you seen who his mother is?](http://9gag.com/gag/a4PK776)<!-- MEMES:END -->
 
 ---
 

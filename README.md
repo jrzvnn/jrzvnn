@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dyson’s AR app shows you where you’ve vacuumed](https://www.theverge.com/2024/4/11/24127505/dyson-gen5detect-vacuum-cleantrace-ar-app)
+ - [Android 15’s first beta release is out](https://www.theverge.com/2024/4/11/24127604/android-15-public-beta-pixel)
  - [Sources: TikTok is testing an AI feature that generates a virtual influencer and a script for a video ad based on prompts submitted by advertisers &lpar;The Information&rpar;](http://www.techmeme.com/240411/p27#a240411p27)
- - [Uber’s safety tools are now customizable and easier to access](https://www.theverge.com/2024/4/11/24127356/uber-rideshare-safety-transportation)
- - [Taking CO2 out of the air would be an absurdly expensive way to fight climate change](https://www.theverge.com/2024/4/11/24127331/carbon-dioxide-removal-costs-rhodium-group-report)
- - [Docs: ByteDance has offered to buy shares held by non-US employees for about $171 each, as US employees grow concerned about tax bill on unsold stock &lpar;Financial Times&rpar;](http://www.techmeme.com/240411/p26#a240411p26)
- - [The 58 Best Movies on Disney+ Right Now](https://www.wired.com/story/best-movies-disney-plus/)<!-- TECH:END -->
+ - [All-Terrain Performance Stroller     - CNET](https://www.cnet.com/health/parenting/all-terrain-performance-stroller-dpnl/#ftag=CAD590a51e)
+ - [Uber’s safety tools are now customizable and easier to access](https://www.theverge.com/2024/4/11/24127356/uber-rideshare-safety-transportation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

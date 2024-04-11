@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Instagram will blur nudes in messages sent to minors](https://www.theverge.com/2024/4/11/24127145/instagram-meta-blur-nude-images-direct-messages-teenagers)
  - [Instagram plans to automatically detect and blur nude images sent to teens via DMs, showing a pop-up to sender and recipient, rolling out in the coming months &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/240411/p9#a240411p9)
- - [Election Workers Are Already Burned Out—and on High Alert](https://www.wired.com/story/election-officials-threats-disinformation/)
- - [Apple warns of a &#39;mercenary spyware attack&#39; on iPhones](https://appleinsider.com/articles/24/04/11/apple-warns-of-a-mercenary-spyware-attack-on-iphones?utm_medium=rss)
- - [Documents: Adobe offers its photographer and artist network $120 for videos of people engaged in everyday actions, or ~$2.62 to ~$7.25 per minute, to train AI &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240411/p8#a240411p8)<!-- TECH:END -->
+ - [iOS 17.5 Beta 1: Your iPhone Could Get These New Features Soon     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-5-beta-1-your-iphone-could-get-these-new-features-soon/#ftag=CAD590a51e)
+ - [How to Use Emoji Instead of Basic iMessage Reactions     - CNET](https://www.cnet.com/tech/services-and-software/how-to-use-emoji-instead-of-basic-imessage-reactions/#ftag=CAD590a51e)
+ - [If You Like Wordle, You Should Try These 10 Puzzle Games Next     - CNET](https://www.cnet.com/culture/internet/if-you-like-wordle-you-should-try-these-10-puzzle-games-next/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

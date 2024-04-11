@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Docs: ByteDance has offered to buy shares held by non-US employees for about $171 each, as US employees grow concerned about tax bill on unsold stock &lpar;Financial Times&rpar;](http://www.techmeme.com/240411/p26#a240411p26)
+ - [The 58 Best Movies on Disney+ Right Now](https://www.wired.com/story/best-movies-disney-plus/)
  - [The Last Ronin is becoming a live-action Teenage Mutant Ninja Turtles movie](https://www.theverge.com/2024/4/11/24127517/teenage-mutant-ninja-turtles-the-last-ronin-movie)
  - [Espresso 17 Pro review: Magnetic &amp; modular portable Mac monitor](https://appleinsider.com/articles/24/04/11/espresso-17-pro-review-magnetic-modular-portable-mac-monitor?utm_medium=rss)
- - [Amazon CEO Andy Jassy takes a dim view of antitrust enforcement](https://www.theverge.com/2024/4/11/24127526/amazon-andy-jassy-ceo-antitrust-acquisition)
- - [TikTok may add AI avatars that can make ads](https://www.theverge.com/2024/4/11/24127579/tiktok-ai-virtual-influencers-advertising)
- - [Apple is reportedly planning a big AI-focused M4 Mac upgrade](https://www.theverge.com/2024/4/11/24127529/apple-upgrade-macs-m4-chip-ai)<!-- TECH:END -->
+ - [Amazon CEO Andy Jassy takes a dim view of antitrust enforcement](https://www.theverge.com/2024/4/11/24127526/amazon-andy-jassy-ceo-antitrust-acquisition)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

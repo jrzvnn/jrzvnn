@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tachibana Senior High School Band.](http://9gag.com/gag/aoyEe63)
- - 😝 [Oops](http://9gag.com/gag/a34PqVe)
- - 💣 [Trying hard](http://9gag.com/gag/abAXYz8)
- - 😝 [It must be hard on the judges...](http://9gag.com/gag/a7oL37r)
- - 👉 [The media is on a desperate search for their next George Floyd before November](http://9gag.com/gag/aYQNybm)<!-- MEMES:END -->
+ - 😝 [Need more sequel](http://9gag.com/gag/aVvz0q2)
+ - 😝 [4 years ago, stupid people took my cat from my yard. She is just the sweetest. Today, 4 years later, the animal shelter called me, saying they found her wandering on the streets about an hour from my house. Now she is back on her favorite blanket. She is 15 years old](http://9gag.com/gag/aE0vgPo)
+ - 💣 [That feel](http://9gag.com/gag/awy0oMR)
+ - 😝 [What&#39;s next?](http://9gag.com/gag/a1mvQwD)
+ - 👉 [The birth moment of a new feminist](http://9gag.com/gag/ae9j56b)<!-- MEMES:END -->
 
 ---
 

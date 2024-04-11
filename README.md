@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple’s latest sci-fi series is the trippy Dark Matter](https://www.theverge.com/24127236/dark-matter-trailer-date-apple-tv-plus)
  - [You can snag Mario Kart 8 Deluxe and all 48 DLC tracks for $20 off right now](https://www.theverge.com/2024/4/11/24126644/mario-kart-8-deluxe-booster-course-pass-amazon-fire-tv-stick-4k-max-streamer-deal-sale)
  - [The Best Cat Toys, Litter Boxes, and Other Supplies for Your Furry Friend &lpar;2024&rpar;](https://www.wired.com/story/best-cat-toys-litter-boxes-and-supplies/)
  - [Apple will allow activation of used parts in repairs by users &amp; service shops](https://appleinsider.com/articles/24/04/11/apple-will-allow-activation-of-used-parts-in-repairs-by-users-service-shops?utm_medium=rss)
- - [JP Morgan drops Apple target price over questions on when AI iPhone will launch](https://appleinsider.com/articles/24/04/11/jp-morgan-drops-apple-target-price-over-questions-on-when-ai-iphone-will-launch?utm_medium=rss)
- - [Apple says owners of the iPhone 15 or newer will be able to fix broken devices with used parts, including screens, batteries, and cameras, starting in fall 2024 &lpar;Chris Velazco/Washington Post&rpar;](http://www.techmeme.com/240411/p15#a240411p15)<!-- TECH:END -->
+ - [JP Morgan drops Apple target price over questions on when AI iPhone will launch](https://appleinsider.com/articles/24/04/11/jp-morgan-drops-apple-target-price-over-questions-on-when-ai-iphone-will-launch?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

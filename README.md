@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Testing VanMoof’s refreshed e-bikes, which are again available to buy](https://www.theverge.com/24126343/vanmoof-s5-a5-2024-e-bike-price-specs-worth-it)
+ - [VanMoof S5 e-bike review: too much, too late](https://www.theverge.com/2023/5/6/23713457/vanmoof-s5-electric-bike-review-price-specs-date)
+ - [Sources: Foxconn is considering a new rotating CEO system, a major and unusual overhaul to nurture talent; a source says the plan is a response to investors &lpar;Yimou Lee/Reuters&rpar;](http://www.techmeme.com/240411/p7#a240411p7)
  - [As streamers cut spending globally, sources say Netflix remains the only major US platform still commissioning across Southeast Asia, albeit on a smaller scale &lpar;Deadline&rpar;](http://www.techmeme.com/240411/p6#a240411p6)
- - [Haven&#39;t Received Your Child Tax Credit Money? Here&#39;s When It Could Arrive     - CNET](https://www.cnet.com/personal-finance/taxes/havent-received-your-child-tax-credit-money-heres-when-it-could-arrive/#ftag=CAD590a51e)
- - [Apple Warns of iPhone &quot;Mercenary Attack&quot; Across 92 Countries     - CNET](https://www.cnet.com/tech/mobile/apple-warns-of-iphone-mercenary-attack-across-92-countries/#ftag=CAD590a51e)
- - [Saudi Arabia and the UAE, which are vying to become the regional AI superpower, are rushing to build expensive desert data centers to support the technology &lpar;Bloomberg&rpar;](http://www.techmeme.com/240411/p5#a240411p5)
- - [Apple sends threat notifications to individuals in 92 countries, warning them that their iPhone may have been targeted by &quot;mercenary spyware attacks&quot; &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240411/p4#a240411p4)<!-- TECH:END -->
+ - [Haven&#39;t Received Your Child Tax Credit Money? Here&#39;s When It Could Arrive     - CNET](https://www.cnet.com/personal-finance/taxes/havent-received-your-child-tax-credit-money-heres-when-it-could-arrive/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

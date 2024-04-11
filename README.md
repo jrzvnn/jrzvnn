@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Peek a boo](http://9gag.com/gag/aO8KY4v)
- - 😝 [The media is on a desperate search for their next George Floyd before November](http://9gag.com/gag/aYQNybm)
- - 💣 [Lol.](http://9gag.com/gag/aoyEPeg)
- - 😝 [At least men are left alone](http://9gag.com/gag/aLnRwzA)
- - 👉 [A friend of mine had a vasectomy and his wife is pregnant](http://9gag.com/gag/aGyYd6n)<!-- MEMES:END -->
+ - 😝 [Crazy](http://9gag.com/gag/aGyYZbG)
+ - 😝 [That hug tho.](http://9gag.com/gag/a7oLWrb)
+ - 💣 [Henry Cavill being Henry Cavill](http://9gag.com/gag/aYQN7BN)
+ - 😝 [A friend of mine had a vasectomy and his wife is pregnant](http://9gag.com/gag/aGyYd6n)
+ - 👉 [From Scott to Stew](http://9gag.com/gag/a1mvK4D)<!-- MEMES:END -->
 
 ---
 

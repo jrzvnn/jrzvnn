@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Michael 39. Polish guy killed in Stockholm by a youngster for making a comment about their behaviour.](http://9gag.com/gag/aLnRp3v)
- - 😝 [Crazy](http://9gag.com/gag/aGyYZbG)
- - 💣 [That hug tho.](http://9gag.com/gag/a7oLWrb)
- - 😝 [American psycho](http://9gag.com/gag/a9ybRMo)
- - 👉 [He can finally rest knowing his wifes killer is dead](http://9gag.com/gag/abAXVmb)<!-- MEMES:END -->
+ - 😝 [WCGW crossing a collapsing road](http://9gag.com/gag/aO8K7eE)
+ - 😝 [Hot girls only](http://9gag.com/gag/aNDrgG0)
+ - 💣 [He can finally rest knowing his wifes killer is dead](http://9gag.com/gag/abAXVmb)
+ - 😝 [Harry Potter: JK Rowling suggests she won\u2019t \u2018forgive\u2019 Emma Watson and Daniel Radcliffe for criticising her](http://9gag.com/gag/a9ybngW)
+ - 👉 [Well, what did you expect? Have you seen who his mother is?](http://9gag.com/gag/a4PK776)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Andy Jassy criticizes US and EU regulators for blocking the iRobot deal, saying they trust large Chinese companies more than Amazon with maps of home interiors &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/240411/p19#a240411p19)
  - [Apple swaps &quot;state-sponsored&quot; with &quot;mercenary spyware attack&quot; in threat notifications; source: it faced pressure from India for linking breaches to state actors &lpar;Ashna Teresa Britto/Reuters&rpar;](http://www.techmeme.com/240411/p18#a240411p18)
  - [UK&#39;s CMA raises concerns after finding an &quot;interconnected web&quot; of 90+ AI deals and investments involving Google, Apple, Microsoft, Meta, Amazon, and Nvidia &lpar;Bloomberg&rpar;](http://www.techmeme.com/240411/p17#a240411p17)
  - [14 Best Podcasts for Kids &lpar;2023&rpar;: Long-Form, Short Stories, and More](https://www.wired.com/story/best-podcasts-for-kids/)
- - [Auto parts maker Magna will pilot Sanctuary AI&#39;s humanoid robot in its factory; Figure and Apptronik are piloting their humanoid systems with BMW and Mercedes &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240411/p16#a240411p16)
- - [The Best Personal Safety Devices, Apps, and Wearables &lpar;2024&rpar;](https://www.wired.com/story/best-personal-safety-tech/)<!-- TECH:END -->
+ - [Auto parts maker Magna will pilot Sanctuary AI&#39;s humanoid robot in its factory; Figure and Apptronik are piloting their humanoid systems with BMW and Mercedes &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240411/p16#a240411p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

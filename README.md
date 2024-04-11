@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with DocuSign CEO Allan Thygesen on the company&#39;s new Intelligent Agreement Management service, now in beta, moving beyond e-signatures, and more &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/240411/p10#a240411p10)
+ - [Apple Pencil 3 may be able to be squeezed in multiple ways](https://appleinsider.com/articles/24/04/10/apple-pencil-3-may-be-able-to-be-squeezed-in-multiple-ways?utm_medium=rss)
  - [Election Deniers Aren’t Waiting for November](https://www.wired.com/story/election-deniers-election-workers-november/)
- - [iPhone 16 Plus may expand to seven colors including white and purple](https://appleinsider.com/articles/24/04/10/iphone-16-plus-may-expand-to-seven-colors-including-white-and-purple?utm_medium=rss)
- - [Apple warning users about a mercenary spyware attack on iPhones](https://appleinsider.com/articles/24/04/11/apple-warns-of-a-mercenary-spyware-attack-on-iphones?utm_medium=rss)
- - [Eric Schmidt Warned Against China’s AI Industry. Emails Show He Also Sought Connections to It](https://www.wired.com/story/eric-schmidt-china-ai-ties/)
- - [Instagram will blur nudes in messages sent to minors](https://www.theverge.com/2024/4/11/24127145/instagram-meta-blur-nude-images-direct-messages-teenagers)<!-- TECH:END -->
+ - [Pay Just $80 and Bag This Bargain Cordless Stick Vacuum, Saving $110     - CNET](https://www.cnet.com/deals/pay-just-80-and-bag-this-bargain-cordless-stick-vacuum-saving-110/#ftag=CAD590a51e)
+ - [iPhone 16 Plus may expand to seven colors including white and purple](https://appleinsider.com/articles/24/04/10/iphone-16-plus-may-expand-to-seven-colors-including-white-and-purple?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

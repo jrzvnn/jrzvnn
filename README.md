@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trying hard](http://9gag.com/gag/abAXYz8)
- - 😝 [Literally me, bro](http://9gag.com/gag/aryvgPB)
- - 💣 [From Scott to Stew](http://9gag.com/gag/a1mvK4D)
- - 😝 [Maybe...](http://9gag.com/gag/aQzP3Xq)
- - 👉 [Well, what did you expect? Have you seen who his mother is?](http://9gag.com/gag/a4PK776)<!-- MEMES:END -->
+ - 😝 [Police retreat from Islamic mob. London is officially a No-Go zone.](http://9gag.com/gag/aQzPRO2)
+ - 😝 [From Scott to Stew](http://9gag.com/gag/a1mvK4D)
+ - 💣 [Have you heard of the 1997 seattle samurai incident?](http://9gag.com/gag/agm3XY6)
+ - 😝 [In the late 1990s, Julia Hill climbed a 200-foot, approximately 1000-year-old Californian redwood tree &amp; didn\u2019t come down for another 738 days. She ultimately reached an agreement with Pacific Lumber Company to spare the tree &amp; a 200-foot buffer zone surrounding the tree.](http://9gag.com/gag/aW4Q1e6)
+ - 👉 [There&#39;s an ending to this comic since it&#39;s a two-part, but if she ended up here, in the first half, it would be enough to found it idyllic](http://9gag.com/gag/aRBw1D7)<!-- MEMES:END -->
 
 ---
 

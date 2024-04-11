@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [North Koreans running into the water to reach Kim Jong Un&#39;s boat](http://9gag.com/gag/aVvzYm8)
- - 😝 [Ok hear me out](http://9gag.com/gag/aLnR0Eg)
- - 💣 [From Scott to Stew](http://9gag.com/gag/a1mvK4D)
- - 😝 [American psycho](http://9gag.com/gag/a9ybRMo)
- - 👉 [Police retreat from Islamic mob. London is officially a No-Go zone.](http://9gag.com/gag/aQzPRO2)<!-- MEMES:END -->
+ - 😝 [From Scott to Stew](http://9gag.com/gag/a1mvK4D)
+ - 😝 [The leader of Hamas hear the news regarding his 3 sons killed in Gaza. This is the face of Hamas - being casual about the death of your children, blessing god. Remember this the next time Hamas wines about the death of children.](http://9gag.com/gag/aAyRgB2)
+ - 💣 [How?](http://9gag.com/gag/apRE2zp)
+ - 😝 [I&#39;m a child](http://9gag.com/gag/aNDr1Yr)
+ - 👉 [American psycho](http://9gag.com/gag/a9ybRMo)<!-- MEMES:END -->
 
 ---
 

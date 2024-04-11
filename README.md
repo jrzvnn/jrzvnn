@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Crazy](http://9gag.com/gag/aGyYZbG)
- - 😝 [That hug tho.](http://9gag.com/gag/a7oLWrb)
- - 💣 [Henry Cavill being Henry Cavill](http://9gag.com/gag/aYQN7BN)
+ - 😝 [Well, what did you expect? Have you seen who his mother is?](http://9gag.com/gag/a4PK776)
  - 😝 [A friend of mine had a vasectomy and his wife is pregnant](http://9gag.com/gag/aGyYd6n)
- - 👉 [From Scott to Stew](http://9gag.com/gag/a1mvK4D)<!-- MEMES:END -->
+ - 💣 [American psycho](http://9gag.com/gag/a9ybRMo)
+ - 😝 [Have you heard of the 1997 seattle samurai incident?](http://9gag.com/gag/agm3XY6)
+ - 👉 [That hug tho.](http://9gag.com/gag/a7oLWrb)<!-- MEMES:END -->
 
 ---
 

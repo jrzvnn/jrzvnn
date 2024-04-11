@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Cat Toys, Litter Boxes, and Other Supplies for Your Furry Friend &lpar;2024&rpar;](https://www.wired.com/story/best-cat-toys-litter-boxes-and-supplies/)
  - [Apple will allow activation of used parts in repairs by users &amp; service shops](https://appleinsider.com/articles/24/04/11/apple-will-allow-activation-of-used-parts-in-repairs-by-users-service-shops?utm_medium=rss)
  - [JP Morgan drops Apple target price over questions on when AI iPhone will launch](https://appleinsider.com/articles/24/04/11/jp-morgan-drops-apple-target-price-over-questions-on-when-ai-iphone-will-launch?utm_medium=rss)
  - [Apple says owners of the iPhone 15 or newer will be able to fix broken devices with used parts, including screens, batteries, and cameras, starting in fall 2024 &lpar;Chris Velazco/Washington Post&rpar;](http://www.techmeme.com/240411/p15#a240411p15)
- - [Official: here’s the DJI Avata 2, possibly one of the best sequels in years](https://www.theverge.com/2024/4/11/24126785/dji-avata-2-price-release-date)
- - [Yale’s inexpensive new retrofit lock will work with Matter-over-Thread](https://www.theverge.com/2024/4/11/24126764/yale-approach-smart-lock-price-release-date-specs)<!-- TECH:END -->
+ - [Official: here’s the DJI Avata 2, possibly one of the best sequels in years](https://www.theverge.com/2024/4/11/24126785/dji-avata-2-price-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

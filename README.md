@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In case you missed the solar eclipse the other day......it looked like this](http://9gag.com/gag/aD2AgRx)
- - 😝 [Need more sequel](http://9gag.com/gag/aVvz0q2)
- - 💣 [Tachibana Senior High School Band.](http://9gag.com/gag/aoyEe63)
- - 😝 [4 years ago, stupid people took my cat from my yard. She is just the sweetest. Today, 4 years later, the animal shelter called me, saying they found her wandering on the streets about an hour from my house. Now she is back on her favorite blanket. She is 15 years old](http://9gag.com/gag/aE0vgPo)
- - 👉 [The birth moment of a new feminist](http://9gag.com/gag/ae9j56b)<!-- MEMES:END -->
+ - 😝 [No wonder your a piggy](http://9gag.com/gag/aByR02Q)
+ - 😝 [North Koreans running into the water to reach Kim Jong Un&#39;s boat](http://9gag.com/gag/aVvzYm8)
+ - 💣 [The birth moment of a new feminist](http://9gag.com/gag/ae9j56b)
+ - 😝 [The leader of Hamas hear the news regarding his 3 sons killed in Gaza. This is the face of Hamas - being casual about the death of your children, blessing god. Remember this the next time Hamas wines about the death of children.](http://9gag.com/gag/aAyRgB2)
+ - 👉 [There&#39;s an ending to this comic since it&#39;s a two-part, but if she ended up here, in the first half, it would be enough to found it idyllic](http://9gag.com/gag/aRBw1D7)<!-- MEMES:END -->
 
 ---
 

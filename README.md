@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta releases OpenEQA, a benchmark to measure an AI agent&#39;s understanding of physical spaces by probing it with questions about the environment &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240411/p30#a240411p30)
  - [Dbrand’s brash social media schtick just cost the company $10,000](https://www.theverge.com/2024/4/11/24127613/dbrand-racist-tweet-apology-mkbhd)
  - [19 Best Gifts for Dad &lpar;2024&rpar;: Grilling Gear, Coffee, Mitts](https://www.wired.com/gallery/gifts-for-dads/)
- - [Showtime’s streaming service will finally shutter later this month](https://www.theverge.com/24127753/showtime-streaming-shut-down-paramount-plus)
- - [Apple renews Monarch for season 2 and has plans for more Godzilla spinoffs](https://www.theverge.com/2024/4/11/24127769/apple-tv-plus-monarch-season-2-godzilla-monsterverse-spinoffs)
- - [An NPR editor accuses the network of institutional bias](https://www.theverge.com/2024/4/11/24127729/npr-berliner-podcasts-spotify-daily-wire)<!-- TECH:END -->
+ - [Fire TV Cube     - CNET](https://www.cnet.com/tech/home-entertainment/fire-tv-cube-dpnl/#ftag=CAD590a51e)
+ - [Showtime’s streaming service will finally shutter later this month](https://www.theverge.com/24127753/showtime-streaming-shut-down-paramount-plus)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

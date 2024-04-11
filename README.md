@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [American psycho](http://9gag.com/gag/a9ybRMo)
- - 😝 [Ghost fart. Thousand of people die every year because ot it.](http://9gag.com/gag/amoNB7V)
- - 💣 [He Was A Good Boy And Good Boys Shoots After The Cops When They&#39;re Being Asked To Step Out Of The Car](http://9gag.com/gag/aE0vpGK)
  - 😝 [Crazy](http://9gag.com/gag/aGyYZbG)
- - 👉 [Well, what did you expect? Have you seen who his mother is?](http://9gag.com/gag/a4PK776)<!-- MEMES:END -->
+ - 😝 [American psycho](http://9gag.com/gag/a9ybRMo)
+ - 💣 [Hot girls only](http://9gag.com/gag/aNDrgG0)
+ - 😝 [He can finally rest knowing his wifes killer is dead](http://9gag.com/gag/abAXVmb)
+ - 👉 [WCGW crossing a collapsing road](http://9gag.com/gag/aO8K7eE)<!-- MEMES:END -->
 
 ---
 

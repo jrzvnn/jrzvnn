@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Crazy](http://9gag.com/gag/aGyYZbG)
- - 😝 [American psycho](http://9gag.com/gag/a9ybRMo)
- - 💣 [Hot girls only](http://9gag.com/gag/aNDrgG0)
- - 😝 [He can finally rest knowing his wifes killer is dead](http://9gag.com/gag/abAXVmb)
- - 👉 [WCGW crossing a collapsing road](http://9gag.com/gag/aO8K7eE)<!-- MEMES:END -->
+ - 😝 [That hug tho.](http://9gag.com/gag/a7oLWrb)
+ - 😝 [He made it!](http://9gag.com/gag/aoyEMWn)
+ - 💣 [A friend of mine had a vasectomy and his wife is pregnant](http://9gag.com/gag/aGyYd6n)
+ - 😝 [In American culture, that is considered a d**k move](http://9gag.com/gag/amoNvM4)
+ - 👉 [Equality is just fantasy](http://9gag.com/gag/aYQNo42)<!-- MEMES:END -->
 
 ---
 

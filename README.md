@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon CEO Andy Jassy takes a dim view of antitrust enforcement](https://www.theverge.com/2024/4/11/24127526/amazon-andy-jassy-ceo-antitrust-acquisition)
  - [TikTok may add AI avatars that can make ads](https://www.theverge.com/2024/4/11/24127579/tiktok-ai-virtual-influencers-advertising)
  - [Apple is reportedly planning a big AI-focused M4 Mac upgrade](https://www.theverge.com/2024/4/11/24127529/apple-upgrade-macs-m4-chip-ai)
  - [Microsoft is trying to convince Windows 10 users to upgrade with full-screen prompts](https://www.theverge.com/2024/4/11/24127497/microsoft-windows-10-upgrade-prompt-windows-11)
- - [Q&amp;A with Google Cloud CEO Thomas Kurian on why Google doesn&#39;t need to raise trillions to build a supercomputer, why AI offers a reset in competition, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/240411/p25#a240411p25)
- - [Rumor: M4 MacBook Pro with AI enhancements expected at the end of 2024](https://appleinsider.com/articles/24/04/11/rumor-m4-macbook-pro-with-ai-enhancements-expected-at-the-end-of-2024?utm_medium=rss)<!-- TECH:END -->
+ - [Q&amp;A with Google Cloud CEO Thomas Kurian on why Google doesn&#39;t need to raise trillions to build a supercomputer, why AI offers a reset in competition, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/240411/p25#a240411p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

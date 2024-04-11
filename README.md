@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s why I always drink tap water.](http://9gag.com/gag/a9ybn3j)
- - 😝 [Lol.](http://9gag.com/gag/aoyEPeg)
- - 💣 [At least men are left alone](http://9gag.com/gag/aLnRwzA)
- - 😝 [That hug tho.](http://9gag.com/gag/a7oLWrb)
- - 👉 [A friend of mine had a vasectomy and his wife is pregnant](http://9gag.com/gag/aGyYd6n)<!-- MEMES:END -->
+ - 😝 [From Scott to Stew](http://9gag.com/gag/a1mvK4D)
+ - 😝 [Crazy](http://9gag.com/gag/aGyYZbG)
+ - 💣 [The leader of Hamas hear the news regarding his 3 sons killed in Gaza. This is the face of Hamas - being casual about the death of your children, blessing god. Remember this the next time Hamas wines about the death of children.](http://9gag.com/gag/aAyRgB2)
+ - 😝 [Hot girls only](http://9gag.com/gag/aNDrgG0)
+ - 👉 [American psycho](http://9gag.com/gag/a9ybRMo)<!-- MEMES:END -->
 
 ---
 

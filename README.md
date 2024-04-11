@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Spotify is developing tools to let subscribers speed up, mash up, or edit songs, a type of playback feature; rights holders would be paid for the songs &lpar;Anne Steele/Wall Street Journal&rpar;](http://www.techmeme.com/240411/p13#a240411p13)
+ - [DuckDuckGo launches Privacy Pro, a new $9.99 per month service with a VPN, personal information removal, and identity theft restoration, available in the US &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/240411/p12#a240411p12)
  - [Future Apple Pencil may work on iPhone and never need charging](https://appleinsider.com/articles/24/04/11/future-apple-pencil-may-work-on-iphone-and-never-need-charging?utm_medium=rss)
  - [Humane AI Pin review: well-made, photos look good, and easier to access than a phone, but doesn&#39;t work half the time, really slow, and missing basic features &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240411/p11#a240411p11)
- - [Google Photos AI image-editing tools expands to iPhone on May 15](https://appleinsider.com/articles/24/04/11/google-photos-ai-image-editing-tools-expands-to-iphone-on-may-15?utm_medium=rss)
- - [DuckDuckGo Is Taking Its Privacy Fight to Data Brokers](https://www.wired.com/story/duckduckgo-vpn-data-removal-tool-privacy-pro/)
- - [Humane Ai Pin Review: Too Clunky, Too Limited](https://www.wired.com/review/humane-ai-pin/)<!-- TECH:END -->
+ - [Google Photos AI image-editing tools expands to iPhone on May 15](https://appleinsider.com/articles/24/04/11/google-photos-ai-image-editing-tools-expands-to-iphone-on-may-15?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

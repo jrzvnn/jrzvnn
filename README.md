@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Taylor Swift&#39;s music returns to TikTok, ahead of her next album due out on April 19, after UMG pulled her songs as part of an ongoing dispute with TikTok &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240411/p23#a240411p23)
+ - [Coupon: save 84% on Babbel&#39;s lifetime language learning subscription](https://appleinsider.com/articles/24/04/11/coupon-save-84-on-babbels-lifetime-language-learning-subscription?utm_medium=rss)
+ - [Best of Watches and Wonders 2024](https://www.wired.com/story/best-of-watches-wonders-2024/)
  - [Amazon adds Andrew Ng to its board to boost its AI expertise, after longtime TV executive Judith McGrath stepped down; Ng has worked for Baidu and Google Brain &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240411/p22#a240411p22)
- - [Micron says Taiwan&#39;s April 3 earthquake would hurt a calendar quarter of DRAM production by a mid-single digit percentage, and production is not yet fully back &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/240411/p21#a240411p21)
- - [Unfortunately, a surprise million-dollar App Store windfall for some developers is a bug](https://appleinsider.com/articles/24/04/11/unfortunately-a-surprise-million-dollar-app-store-windfall-for-some-developers-is-a-bug?utm_medium=rss)
- - [Fallout Pip-Boy review: a wearable fit for the wasteland](https://www.theverge.com/24126232/fallout-pip-boy-review)
- - [No One Actually Knows How AI Will Affect Jobs](https://www.wired.com/story/ai-impact-on-work-mary-daly-interview/)<!-- TECH:END -->
+ - [Micron says Taiwan&#39;s April 3 earthquake would hurt a calendar quarter of DRAM production by a mid-single digit percentage, and production is not yet fully back &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/240411/p21#a240411p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

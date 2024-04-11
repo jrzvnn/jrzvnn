@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Maybe...](http://9gag.com/gag/aQzP3Xq)
- - 😝 [NASA wins best eclipse picture](http://9gag.com/gag/aAyRDKd)
- - 💣 [Trying hard](http://9gag.com/gag/abAXYz8)
- - 😝 [In the late 1990s, Julia Hill climbed a 200-foot, approximately 1000-year-old Californian redwood tree &amp; didn\u2019t come down for another 738 days. She ultimately reached an agreement with Pacific Lumber Company to spare the tree &amp; a 200-foot buffer zone surrounding the tree.](http://9gag.com/gag/aW4Q1e6)
- - 👉 [The birth moment of a new feminist](http://9gag.com/gag/ae9j56b)<!-- MEMES:END -->
+ - 😝 [Trying hard](http://9gag.com/gag/abAXYz8)
+ - 😝 [That feel](http://9gag.com/gag/awy0oMR)
+ - 💣 [4 years ago, stupid people took my cat from my yard. She is just the sweetest. Today, 4 years later, the animal shelter called me, saying they found her wandering on the streets about an hour from my house. Now she is back on her favorite blanket. She is 15 years old](http://9gag.com/gag/aE0vgPo)
+ - 😝 [The birth moment of a new feminist](http://9gag.com/gag/ae9j56b)
+ - 👉 [What&#39;s next?](http://9gag.com/gag/a1mvQwD)<!-- MEMES:END -->
 
 ---
 

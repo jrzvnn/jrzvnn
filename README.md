@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with DocuSign CEO Allan Thygesen on the company&#39;s new Intelligent Agreement Management service, now in beta, moving beyond e-signatures, and more &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/240411/p10#a240411p10)
- - [Apple Pencil 3 may be able to be squeezed in multiple ways](https://appleinsider.com/articles/24/04/10/apple-pencil-3-may-be-able-to-be-squeezed-in-multiple-ways?utm_medium=rss)
- - [Election Deniers Aren’t Waiting for November](https://www.wired.com/story/election-deniers-election-workers-november/)
- - [Pay Just $80 and Bag This Bargain Cordless Stick Vacuum, Saving $110     - CNET](https://www.cnet.com/deals/pay-just-80-and-bag-this-bargain-cordless-stick-vacuum-saving-110/#ftag=CAD590a51e)
- - [iPhone 16 Plus may expand to seven colors including white and purple](https://appleinsider.com/articles/24/04/10/iphone-16-plus-may-expand-to-seven-colors-including-white-and-purple?utm_medium=rss)<!-- TECH:END -->
+ - [Future Apple Pencil may work on iPhone and never need charging](https://appleinsider.com/articles/24/04/11/future-apple-pencil-may-work-on-iphone-and-never-need-charging?utm_medium=rss)
+ - [Humane AI Pin review: well-made, photos look good, and easier to access than a phone, but doesn&#39;t work half the time, really slow, and missing basic features &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240411/p11#a240411p11)
+ - [Google Photos AI image-editing tools expands to iPhone on May 15](https://appleinsider.com/articles/24/04/11/google-photos-ai-image-editing-tools-expands-to-iphone-on-may-15?utm_medium=rss)
+ - [DuckDuckGo Is Taking Its Privacy Fight to Data Brokers](https://www.wired.com/story/duckduckgo-vpn-data-removal-tool-privacy-pro/)
+ - [Humane Ai Pin Review: Too Clunky, Too Limited](https://www.wired.com/review/humane-ai-pin/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

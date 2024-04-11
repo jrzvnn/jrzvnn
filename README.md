@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US jury finds AWS owes Chicago-based Kove $525M for infringing three of its patents in data-storage technology that had become &quot;essential&quot; to AWS &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/240410/p39#a240410p39)
+ - [Best iPhone 15 Deals: Up to $1,200 in Trade-In Credits     - CNET](https://www.cnet.com/deals/best-iphone-15-deals/#ftag=CAD590a51e)
  - [&#39;Fallout&#39; Nails Video Game Adaptations by Making the Apocalypse Fun](https://www.wired.com/story/fallout-jonathan-nolan-video-game-adaptation-amazon/)
  - [The Biden administration announces a $110M US-Japan joint AI research initiative funded by Nvidia, Arm, Amazon, Microsoft, and a group of Japanese companies &lpar;Bloomberg&rpar;](http://www.techmeme.com/240410/p38#a240410p38)
- - [Apple has a solution to ghost touch issue on Apple Watch models](https://appleinsider.com/articles/24/04/11/apple-has-a-solution-to-ghost-touch-issue-on-apple-watch-models?utm_medium=rss)
- - [Hundreds of political and news content creators ask Meta to reverse its default Threads and Instagram setting opting accounts out of seeing &quot;political content&quot; &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/240410/p37#a240410p37)
- - [How to Start Healing Your Gut in 4 Easy Steps     - CNET](https://www.cnet.com/health/medical/how-to-start-healing-your-gut-in-4-easy-steps/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple has a solution to ghost touch issue on Apple Watch models](https://appleinsider.com/articles/24/04/11/apple-has-a-solution-to-ghost-touch-issue-on-apple-watch-models?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Auto parts maker Magna will pilot Sanctuary AI&#39;s humanoid robot in its factory; Figure and Apptronik are piloting their humanoid systems with BMW and Mercedes &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240411/p16#a240411p16)
+ - [The Best Personal Safety Devices, Apps, and Wearables &lpar;2024&rpar;](https://www.wired.com/story/best-personal-safety-tech/)
  - [Apple will open the iPhone to repair with used parts](https://www.theverge.com/2024/4/11/24127278/apple-iphone-repair-used-parts)
  - [Apple will allow activation of used parts in repairs by users &amp; service shops](https://appleinsider.com/articles/24/04/11/apple-will-allow-activation-of-used-parts-in-repairs-by-users-service-shops?utm_medium=rss)
- - [Apple’s latest sci-fi series is the trippy Dark Matter](https://www.theverge.com/24127236/dark-matter-trailer-date-apple-tv-plus)
- - [You can snag Mario Kart 8 Deluxe and all 48 DLC tracks for $20 off right now](https://www.theverge.com/2024/4/11/24126644/mario-kart-8-deluxe-booster-course-pass-amazon-fire-tv-stick-4k-max-streamer-deal-sale)
- - [The Best Cat Toys, Litter Boxes, and Other Supplies for Your Furry Friend &lpar;2024&rpar;](https://www.wired.com/story/best-cat-toys-litter-boxes-and-supplies/)<!-- TECH:END -->
+ - [PNC Bank: 2024 Home Equity Review     - CNET](https://www.cnet.com/personal-finance/mortgages/pnc-bank-2/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Discord is nuking Nintendo Switch emulator devs and their entire servers](https://www.theverge.com/2024/4/11/24127545/discord-suyu-sudachi-server-shutdown-account-ban)
+ - [Taylor Swift’s Music Is Back on TikTok—Right Before Her New Album Drops](https://www.wired.com/story/taylor-swift-is-back-on-tiktok/)
+ - [Rise in corporate Mac use invites more sophisticated hacking](https://appleinsider.com/articles/24/04/11/rise-in-corporate-mac-use-invites-more-sophisticated-hacking?utm_medium=rss)
  - [Meta releases OpenEQA, a benchmark to measure an AI agent&#39;s understanding of physical spaces by probing it with questions about the environment &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240411/p30#a240411p30)
- - [Dbrand’s brash social media schtick just cost the company $10,000](https://www.theverge.com/2024/4/11/24127613/dbrand-racist-tweet-apology-mkbhd)
- - [19 Best Gifts for Dad &lpar;2024&rpar;: Grilling Gear, Coffee, Mitts](https://www.wired.com/gallery/gifts-for-dads/)
- - [Fire TV Cube     - CNET](https://www.cnet.com/tech/home-entertainment/fire-tv-cube-dpnl/#ftag=CAD590a51e)
- - [Showtime’s streaming service will finally shutter later this month](https://www.theverge.com/24127753/showtime-streaming-shut-down-paramount-plus)<!-- TECH:END -->
+ - [Dbrand’s brash social media schtick just cost the company $10,000](https://www.theverge.com/2024/4/11/24127613/dbrand-racist-tweet-apology-mkbhd)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

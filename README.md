@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trying hard](http://9gag.com/gag/abAXYz8)
- - 😝 [That feel](http://9gag.com/gag/awy0oMR)
- - 💣 [4 years ago, stupid people took my cat from my yard. She is just the sweetest. Today, 4 years later, the animal shelter called me, saying they found her wandering on the streets about an hour from my house. Now she is back on her favorite blanket. She is 15 years old](http://9gag.com/gag/aE0vgPo)
+ - 😝 [North Koreans running into the water to reach Kim Jong Un&#39;s boat](http://9gag.com/gag/aVvzYm8)
  - 😝 [The birth moment of a new feminist](http://9gag.com/gag/ae9j56b)
- - 👉 [What&#39;s next?](http://9gag.com/gag/a1mvQwD)<!-- MEMES:END -->
+ - 💣 [The leader of Hamas hear the news regarding his 3 sons killed in Gaza. This is the face of Hamas - being casual about the death of your children, blessing god. Remember this the next time Hamas wines about the death of children.](http://9gag.com/gag/aAyRgB2)
+ - 😝 [Once upon a time](http://9gag.com/gag/a0e8R9d)
+ - 👉 [There&#39;s an ending to this comic since it&#39;s a two-part, but if she ended up here, in the first half, it would be enough to found it idyllic](http://9gag.com/gag/aRBw1D7)<!-- MEMES:END -->
 
 ---
 

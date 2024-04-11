@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well, what did you expect? Have you seen who his mother is?](http://9gag.com/gag/a4PK776)
- - 😝 [A question for the mens](http://9gag.com/gag/aVvzYR2)
- - 💣 [In American culture, that is considered a d**k move](http://9gag.com/gag/amoNvM4)
- - 😝 [CANDYLION](http://9gag.com/gag/a7oLWEz)
- - 👉 [Tachibana Senior High School Band.](http://9gag.com/gag/aoyEe63)<!-- MEMES:END -->
+ - 😝 [Probably hate speech in 2024](http://9gag.com/gag/a4PK3d6)
+ - 😝 [Tachibana Senior High School Band.](http://9gag.com/gag/aoyEe63)
+ - 💣 [Tilt shift makes demolition derby cars look like toys](http://9gag.com/gag/a6ZmKo8)
+ - 😝 [In American culture, that is considered a d**k move](http://9gag.com/gag/amoNvM4)
+ - 👉 [Peek a boo](http://9gag.com/gag/aO8KY4v)<!-- MEMES:END -->
 
 ---
 

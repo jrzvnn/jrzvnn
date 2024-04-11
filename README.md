@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon adds Andrew Ng to its board to boost its AI expertise, after longtime TV executive Judith McGrath stepped down; Ng has worked for Baidu and Google Brain &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240411/p22#a240411p22)
  - [Micron says Taiwan&#39;s April 3 earthquake would hurt a calendar quarter of DRAM production by a mid-single digit percentage, and production is not yet fully back &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/240411/p21#a240411p21)
  - [Unfortunately, a surprise million-dollar App Store windfall for some developers is a bug](https://appleinsider.com/articles/24/04/11/unfortunately-a-surprise-million-dollar-app-store-windfall-for-some-developers-is-a-bug?utm_medium=rss)
  - [Fallout Pip-Boy review: a wearable fit for the wasteland](https://www.theverge.com/24126232/fallout-pip-boy-review)
- - [No One Actually Knows How AI Will Affect Jobs](https://www.wired.com/story/ai-impact-on-work-mary-daly-interview/)
- - [Sony’s new headphones and speakers are all about skull-rattling bass](https://www.theverge.com/2024/4/11/24127358/sony-ult-power-sound-headphones-speakers-price)<!-- TECH:END -->
+ - [No One Actually Knows How AI Will Affect Jobs](https://www.wired.com/story/ai-impact-on-work-mary-daly-interview/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

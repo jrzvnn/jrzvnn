@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [4 years ago, stupid people took my cat from my yard. She is just the sweetest. Today, 4 years later, the animal shelter called me, saying they found her wandering on the streets about an hour from my house. Now she is back on her favorite blanket. She is 15 years old](http://9gag.com/gag/aE0vgPo)
- - 😝 [Need more sequel](http://9gag.com/gag/aVvz0q2)
- - 💣 [What&#39;s next?](http://9gag.com/gag/a1mvQwD)
- - 😝 [That feel](http://9gag.com/gag/awy0oMR)
- - 👉 [The birth moment of a new feminist](http://9gag.com/gag/ae9j56b)<!-- MEMES:END -->
+ - 😝 [North Koreans running into the water to reach Kim Jong Un&#39;s boat](http://9gag.com/gag/aVvzYm8)
+ - 😝 [Have you heard of the 1997 seattle samurai incident?](http://9gag.com/gag/agm3XY6)
+ - 💣 [Ok hear me out](http://9gag.com/gag/aLnR0Eg)
+ - 😝 [Ghost fart. Thousand of people die every year because ot it.](http://9gag.com/gag/amoNB7V)
+ - 👉 [What is the point of pixelated pps](http://9gag.com/gag/aByRWeN)<!-- MEMES:END -->
 
 ---
 

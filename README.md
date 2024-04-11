@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Probably hate speech in 2024](http://9gag.com/gag/a4PK3d6)
- - 😝 [Tachibana Senior High School Band.](http://9gag.com/gag/aoyEe63)
- - 💣 [Tilt shift makes demolition derby cars look like toys](http://9gag.com/gag/a6ZmKo8)
- - 😝 [In American culture, that is considered a d**k move](http://9gag.com/gag/amoNvM4)
- - 👉 [Peek a boo](http://9gag.com/gag/aO8KY4v)<!-- MEMES:END -->
+ - 😝 [The USA is becoming the land of the stupid and brainless.](http://9gag.com/gag/an7qMmn)
+ - 😝 [It must be hard on the judges...](http://9gag.com/gag/a7oL37r)
+ - 💣 [I felt the adrenaline rush just from watching this..](http://9gag.com/gag/a4PK7Kd)
+ - 😝 [Can\u2019t say he\u2019s wrong](http://9gag.com/gag/aoyENGm)
+ - 👉 [Old but gold](http://9gag.com/gag/aLnR8xV)<!-- MEMES:END -->
 
 ---
 

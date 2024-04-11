@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Is Making It Slightly Easier to Repair Your iPhone](https://www.wired.com/story/apple-iphone-parts-pairing-right-to-repair/)
+ - [Q&amp;A with Google Cloud CEO Thomas Kurian on why Google doesn&#39;t need to raise trillions to build a supercomputer, why AI offers a reset in competition, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/240411/p25#a240411p25)
  - [Rumor: M4 MacBook Pro with AI enhancements expected at the end of 2024](https://appleinsider.com/articles/24/04/11/rumor-m4-macbook-pro-with-ai-enhancements-expected-at-the-end-of-2024?utm_medium=rss)
- - [How Election Deniers Became Mainstream—and Are Weaponizing Tech](https://www.wired.com/story/politics-lab-podcast-election-deniers/)
- - [PSA: Don’t let your kids use Yoto’s recalled Mini speaker](https://www.theverge.com/2024/4/11/24127410/yoto-mini-speaker-recall-psa-burn-risk)
- - [Sources: Apple nears production of M4 chips with AI upgrades and memory improvements, coming to new MacBook Pros, Mac minis, and iMacs starting in late 2024 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240411/p24#a240411p24)<!-- TECH:END -->
+ - [Fallout 4 is getting a next-gen update just in time for the show](https://www.theverge.com/2024/4/11/24127471/fallout-4-next-gen-update-steam-deck-verified)
+ - [Bird Flu Is Spreading in Alarming New Ways](https://www.wired.com/story/bird-flu-is-spreading-in-new-ways-h5n1-cattle-usa/)
+ - [Apple Is Making It Slightly Easier to Repair Your iPhone](https://www.wired.com/story/apple-iphone-parts-pairing-right-to-repair/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

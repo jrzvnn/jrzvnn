@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The media is on a desperate search for their next George Floyd before November](http://9gag.com/gag/aYQNybm)
- - 😝 [Tachibana Senior High School Band.](http://9gag.com/gag/aoyEe63)
- - 💣 [Today, I collected 20 kg of garbage, bringing the total to 3110 kg. The snow has melted, and I finally can clean nature after 6 months. Your Cleaning Guy.](http://9gag.com/gag/ayN7BZq)
- - 😝 [What&#39;s next?](http://9gag.com/gag/a1mvQwD)
- - 👉 [Need more sequel](http://9gag.com/gag/aVvz0q2)<!-- MEMES:END -->
+ - 😝 [4 years ago, stupid people took my cat from my yard. She is just the sweetest. Today, 4 years later, the animal shelter called me, saying they found her wandering on the streets about an hour from my house. Now she is back on her favorite blanket. She is 15 years old](http://9gag.com/gag/aE0vgPo)
+ - 😝 [Need more sequel](http://9gag.com/gag/aVvz0q2)
+ - 💣 [What&#39;s next?](http://9gag.com/gag/a1mvQwD)
+ - 😝 [That feel](http://9gag.com/gag/awy0oMR)
+ - 👉 [The birth moment of a new feminist](http://9gag.com/gag/ae9j56b)<!-- MEMES:END -->
 
 ---
 

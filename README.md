@@ -168,7 +168,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [How Election Deniers Became Mainstream—and Are Weaponizing Tech](https://www.wired.com/story/politics-lab-podcast-election-deniers/)
  - [PSA: Don’t let your kids use Yoto’s recalled Mini speaker](https://www.theverge.com/2024/4/11/24127410/yoto-mini-speaker-recall-psa-burn-risk)
- - [Sources: Apple readies M4 chips with AI upgrades and &quot;memory improvements&quot;, with plans for new MacBook Pros, Mac minis, and iMacs starting in late 2024 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240411/p24#a240411p24)
+ - [Sources: Apple nears production of M4 chips with AI upgrades and memory improvements, coming to new MacBook Pros, Mac minis, and iMacs starting in late 2024 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240411/p24#a240411p24)
  - [San Francisco’s Train System Still Uses Floppy Disks—and Will for Years](https://www.wired.com/story/san-francisco-muni-trains-floppy-disks/)
  - [Taylor Swift’s music is back on TikTok](https://www.theverge.com/2024/4/11/24127406/taylor-swifts-music-tiktok-umg-deal)<!-- TECH:END -->
 

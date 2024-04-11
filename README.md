@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple nears the production of M4 chips with AI upgrades and &quot;memory improvements&quot;, with plans for new MacBook Pros, Mac minis, and iMacs in late 2024 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240411/p24#a240411p24)
+ - [How Election Deniers Became Mainstream—and Are Weaponizing Tech](https://www.wired.com/story/politics-lab-podcast-election-deniers/)
+ - [PSA: Don’t let your kids use Yoto’s recalled Mini speaker](https://www.theverge.com/2024/4/11/24127410/yoto-mini-speaker-recall-psa-burn-risk)
+ - [Sources: Apple readies M4 chips with AI upgrades and &quot;memory improvements&quot;, with plans for new MacBook Pros, Mac minis, and iMacs starting in late 2024 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240411/p24#a240411p24)
  - [San Francisco’s Train System Still Uses Floppy Disks—and Will for Years](https://www.wired.com/story/san-francisco-muni-trains-floppy-disks/)
- - [Taylor Swift’s music is back on TikTok](https://www.theverge.com/2024/4/11/24127406/taylor-swifts-music-tiktok-umg-deal)
- - [Taylor Swift&#39;s music returns to TikTok, ahead of her next album due out on April 19, after UMG pulled her songs as part of an ongoing dispute with TikTok &lpar;Variety&rpar;](http://www.techmeme.com/240411/p23#a240411p23)
- - [Coupon: save 84% on Babbel&#39;s lifetime language learning subscription](https://appleinsider.com/articles/24/04/11/coupon-save-84-on-babbels-lifetime-language-learning-subscription?utm_medium=rss)<!-- TECH:END -->
+ - [Taylor Swift’s music is back on TikTok](https://www.theverge.com/2024/4/11/24127406/taylor-swifts-music-tiktok-umg-deal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

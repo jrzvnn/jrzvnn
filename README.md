@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 16 Plus may expand to seven colors including white and purple](https://appleinsider.com/articles/24/04/10/iphone-16-plus-may-expand-to-seven-colors-including-white-and-purple?utm_medium=rss)
  - [Apple warning users about a mercenary spyware attack on iPhones](https://appleinsider.com/articles/24/04/11/apple-warns-of-a-mercenary-spyware-attack-on-iphones?utm_medium=rss)
  - [Eric Schmidt Warned Against China’s AI Industry. Emails Show He Also Sought Connections to It](https://www.wired.com/story/eric-schmidt-china-ai-ties/)
  - [Instagram will blur nudes in messages sent to minors](https://www.theverge.com/2024/4/11/24127145/instagram-meta-blur-nude-images-direct-messages-teenagers)
- - [Instagram plans to automatically detect and blur nude images sent to teens via DMs, showing a pop-up to sender and recipient, rolling out in the coming months &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/240411/p9#a240411p9)
- - [iOS 17.5 Beta 1: Your iPhone Could Get These New Features Soon     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-5-beta-1-your-iphone-could-get-these-new-features-soon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Instagram plans to automatically detect and blur nude images sent to teens via DMs, showing a pop-up to sender and recipient, rolling out in the coming months &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/240411/p9#a240411p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

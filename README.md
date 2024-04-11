@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That hug tho.](http://9gag.com/gag/a7oLWrb)
- - 😝 [He made it!](http://9gag.com/gag/aoyEMWn)
- - 💣 [A friend of mine had a vasectomy and his wife is pregnant](http://9gag.com/gag/aGyYd6n)
- - 😝 [In American culture, that is considered a d**k move](http://9gag.com/gag/amoNvM4)
- - 👉 [Equality is just fantasy](http://9gag.com/gag/aYQNo42)<!-- MEMES:END -->
+ - 😝 [WCGW crossing a collapsing road](http://9gag.com/gag/aO8K7eE)
+ - 😝 [Michael 39. Polish guy killed in Stockholm by a youngster for making a comment about their behaviour.](http://9gag.com/gag/aLnRp3v)
+ - 💣 [Crazy](http://9gag.com/gag/aGyYZbG)
+ - 😝 [American psycho](http://9gag.com/gag/a9ybRMo)
+ - 👉 [The Usual Burden On All Societies](http://9gag.com/gag/avypzBb)<!-- MEMES:END -->
 
 ---
 

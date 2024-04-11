@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Is Making It Slightly Easier to Repair Your iPhone](https://www.wired.com/story/apple-iphone-parts-pairing-right-to-repair/)
  - [Rumor: M4 MacBook Pro with AI enhancements expected at the end of 2024](https://appleinsider.com/articles/24/04/11/rumor-m4-macbook-pro-with-ai-enhancements-expected-at-the-end-of-2024?utm_medium=rss)
  - [How Election Deniers Became Mainstream—and Are Weaponizing Tech](https://www.wired.com/story/politics-lab-podcast-election-deniers/)
  - [PSA: Don’t let your kids use Yoto’s recalled Mini speaker](https://www.theverge.com/2024/4/11/24127410/yoto-mini-speaker-recall-psa-burn-risk)
- - [Sources: Apple nears production of M4 chips with AI upgrades and memory improvements, coming to new MacBook Pros, Mac minis, and iMacs starting in late 2024 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240411/p24#a240411p24)
- - [San Francisco’s Train System Still Uses Floppy Disks—and Will for Years](https://www.wired.com/story/san-francisco-muni-trains-floppy-disks/)<!-- TECH:END -->
+ - [Sources: Apple nears production of M4 chips with AI upgrades and memory improvements, coming to new MacBook Pros, Mac minis, and iMacs starting in late 2024 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240411/p24#a240411p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

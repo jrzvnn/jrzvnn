@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to use Force Quit and Activity Monitor to close persistent apps](https://appleinsider.com/inside/macos/tips/how-to-use-force-quit-and-activity-monitor-to-close-persistent-apps?utm_medium=rss)
  - [A US jury finds AWS owes Chicago-based Kove $525M for infringing three of its patents in data-storage technology that had become &quot;essential&quot; to AWS &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/240410/p39#a240410p39)
  - [Best iPhone 15 Deals: Up to $1,200 in Trade-In Credits     - CNET](https://www.cnet.com/deals/best-iphone-15-deals/#ftag=CAD590a51e)
  - [&#39;Fallout&#39; Nails Video Game Adaptations by Making the Apocalypse Fun](https://www.wired.com/story/fallout-jonathan-nolan-video-game-adaptation-amazon/)
- - [The Biden administration announces a $110M US-Japan joint AI research initiative funded by Nvidia, Arm, Amazon, Microsoft, and a group of Japanese companies &lpar;Bloomberg&rpar;](http://www.techmeme.com/240410/p38#a240410p38)
- - [Apple has a solution to ghost touch issue on Apple Watch models](https://appleinsider.com/articles/24/04/11/apple-has-a-solution-to-ghost-touch-issue-on-apple-watch-models?utm_medium=rss)<!-- TECH:END -->
+ - [The Biden administration announces a $110M US-Japan joint AI research initiative funded by Nvidia, Arm, Amazon, Microsoft, and a group of Japanese companies &lpar;Bloomberg&rpar;](http://www.techmeme.com/240410/p38#a240410p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

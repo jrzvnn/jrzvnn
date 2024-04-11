@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Saudi Arabia and the UAE, which are vying to become the regional AI superpower, are rushing to build expensive desert data centers to support the technology &lpar;Bloomberg&rpar;](http://www.techmeme.com/240411/p5#a240411p5)
  - [Apple sends threat notifications to individuals in 92 countries, warning them that their iPhone may have been targeted by mercenary spyware attacks &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240411/p4#a240411p4)
  - [The MPA announces plans to work with US Congress to enact a SOPA-like anti-piracy law; SOPA was fiercely opposed by the tech industry and failed to pass in 2012 &lpar;Winston Cho/The Hollywood Reporter&rpar;](http://www.techmeme.com/240411/p3#a240411p3)
  - [Australian data center operator NextDC is raising AU$1.32B of equity to accelerate development and fit-out of centers in its core Sydney and Melbourne markets &lpar;Stuart Condie/Wall Street Journal&rpar;](http://www.techmeme.com/240411/p2#a240411p2)
- - [Flash deal: Apple&#39;s 1TB MacBook Pro 14-inch with 19-core GPU drops to $1,949](https://appleinsider.com/articles/24/04/11/flash-deal-apples-1tb-macbook-pro-14-inch-with-19-core-gpu-drops-to-1949?utm_medium=rss)
- - [Ola shuts down in the UK, Australia, and New Zealand, six years after expanding to international markets, to focus on its India expansion ahead of an IPO &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240411/p1#a240411p1)<!-- TECH:END -->
+ - [Flash deal: Apple&#39;s 1TB MacBook Pro 14-inch with 19-core GPU drops to $1,949](https://appleinsider.com/articles/24/04/11/flash-deal-apples-1tb-macbook-pro-14-inch-with-19-core-gpu-drops-to-1949?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

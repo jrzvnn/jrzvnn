@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hot girls only](http://9gag.com/gag/aNDrgG0)
- - 😝 [A friend of mine had a vasectomy and his wife is pregnant](http://9gag.com/gag/aGyYd6n)
- - 💣 [Equality is just fantasy](http://9gag.com/gag/aYQNo42)
- - 😝 [Moving away from villages to big cities was a mistake. We had food family pets and a life without geind and stress, we didnt need fancy cars and expensive houses to be happy.](http://9gag.com/gag/a6ZmKzq)
- - 👉 [Imagine running for your life and this is the fastest you can run.](http://9gag.com/gag/aVvzw1K)<!-- MEMES:END -->
+ - 😝 [Can\u2019t say he\u2019s wrong](http://9gag.com/gag/aoyENGm)
+ - 😝 [He can finally rest knowing his wifes killer is dead](http://9gag.com/gag/abAXVmb)
+ - 💣 [Trying hard](http://9gag.com/gag/abAXYz8)
+ - 😝 [That&#39;s why I always drink tap water.](http://9gag.com/gag/a9ybn3j)
+ - 👉 [He Was A Good Boy And Good Boys Shoots After The Cops When They&#39;re Being Asked To Step Out Of The Car](http://9gag.com/gag/aE0vpGK)<!-- MEMES:END -->
 
 ---
 

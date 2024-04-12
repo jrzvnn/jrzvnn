@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [House Votes to Extend—and Expand—a Major US Spy Program](https://www.wired.com/story/house-section-702-vote/)
  - [As Meta lowers the minimum age for WhatsApp users from 16 to 13 in the UK and EU, after announcing the move in February, child safety groups criticize the move &lpar;Jamie Grierson/The Guardian&rpar;](http://www.techmeme.com/240412/p21#a240412p21)
  - [The Fitbit Charge 5 is a steal at 50 percent off](https://www.theverge.com/2024/4/12/24128316/fitbit-charge-5-jabra-elite-4-wireless-earbuds-deal-sale)
  - [Microsoft starts testing ads in the Windows 11 Start menu](https://www.theverge.com/2024/4/12/24128640/microsoft-windows-11-start-menu-ads-app-recommendations)
- - [House votes to reauthorize FISA, without the warrant requirement amendment](https://www.theverge.com/2024/4/12/24128600/fisa-section-702-house-votes-to-reauthorize-warrant-requirement)
- - [A US judge sentences ex-Amazon security engineer Shakeeb Ahmed to three years in prison for stealing $12.3M+ from Nirvana and another crypto exchange in 2022 &lpar;Chris Dolmetsch/Bloomberg&rpar;](http://www.techmeme.com/240412/p20#a240412p20)<!-- TECH:END -->
+ - [House votes to reauthorize FISA, without the warrant requirement amendment](https://www.theverge.com/2024/4/12/24128600/fisa-section-702-house-votes-to-reauthorize-warrant-requirement)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

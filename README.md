@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Crazy](http://9gag.com/gag/aGyYZbG)
- - 😝 [He Was A Good Boy And Good Boys Shoots After The Cops When They&#39;re Being Asked To Step Out Of The Car](http://9gag.com/gag/aE0vpGK)
- - 💣 [Hot girls only](http://9gag.com/gag/aNDrgG0)
+ - 😝 [IAATPOS for being a thief\u2026.](http://9gag.com/gag/amoNPpv)
+ - 😝 [O.J. Simpson juror casually admitting that 90% of them knew he kiIIed Nicole and Ron, but let him off for revenge:](http://9gag.com/gag/a87L113)
+ - 💣 [Crazy](http://9gag.com/gag/aGyYZbG)
  - 😝 [The Usual Burden On All Societies](http://9gag.com/gag/avypzBb)
- - 👉 [American psycho](http://9gag.com/gag/a9ybRMo)<!-- MEMES:END -->
+ - 👉 [This explains the situation perfectly....](http://9gag.com/gag/aVvz74d)<!-- MEMES:END -->
 
 ---
 

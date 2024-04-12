@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Last week, LinkedIn began letting advertisers pay to amplify posts from some users through Thought Leader ads, as it enters the market of influencer marketing &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240412/p16#a240412p16)
+ - [Best Sony Headphones for 2024     - CNET](https://www.cnet.com/tech/mobile/best-sony-headphones-and-earbuds/#ftag=CAD590a51e)
  - [America’s roads and bridges to get $830 million for a climate makeover](https://www.theverge.com/2024/4/12/24128322/transportation-infrastructure-grants-climate-change)
  - [Google threatens to cut off news after California proposes paying media outlets](https://www.theverge.com/2024/4/12/24128363/google-cjpa-news-removal-california)
- - [OpenAI gives premium ChatGPT users access to an updated GPT-4 Turbo, promising &quot;more direct, less verbose&quot; responses that &quot;use more conversational language&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240412/p15#a240412p15)
- - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
- - [Roku says hackers accessed ~576K accounts using credential stuffing, and made purchases in ~400 cases, after a similar breach affecting ~15K accounts in March &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/240412/p14#a240412p14)<!-- TECH:END -->
+ - [Best Buy Drops New 3-Day Sale With Massive Savings on All Things Tech     - CNET](https://www.cnet.com/deals/best-buy-drops-new-3-day-sale-with-massive-savings-on-all-things-tech/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [OpenTable plans to display members&#39; first names and profile photos on all reviews, including past reviews, starting May 22 in a bid to provide more transparency &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/240411/p35#a240411p35)
- - [Google says it is discontinuing its Google One VPN due to a lack of use; Google&#39;s free Pixel VPN that debuted in 2022 with the Pixel 7 will remain unchanged &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240411/p34#a240411p34)
- - [X’s Premium users can no longer hide their blue checks](https://www.theverge.com/2024/4/11/24127906/x-premium-users-can-no-longer-hide-their-blue-checks)
- - [Virtual physical therapy service Hinge Health lays off ~10% of its workforce; Hinge had an estimated 1,700+ employees, and was valued at $6.2B in October 2021 &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/240411/p33#a240411p33)
- - [Best Apple Watch Bands for 2024     - CNET](https://www.cnet.com/tech/mobile/best-apple-watch-bands/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Budget 3D Printer of 2024     - CNET](https://www.cnet.com/tech/computing/best-budget-3d-printer/#ftag=CAD590a51e)
+ - [Best Camera to Buy in 2024     - CNET](https://www.cnet.com/tech/computing/best-camera-to-buy/#ftag=CAD590a51e)
+ - [Best Internet Providers in Carlsbad, California     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-carlsbad-ca/#ftag=CAD590a51e)
+ - [Google says it is discontinuing its Google One VPN due to a lack of use; Google&#39;s free Pixel VPN that debuted in 2022 with the Pixel 7 will remain unchanged &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240411/p34#a240411p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

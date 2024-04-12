@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google says it is discontinuing its Google One VPN due to a lack of use; Google&#39;s free Pixel VPN that debuted in 2022 with the Pixel 7 will remain unchanged &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240411/p34#a240411p34)
+ - [X’s Premium users can no longer hide their blue checks](https://www.theverge.com/2024/4/11/24127906/x-premium-users-can-no-longer-hide-their-blue-checks)
  - [Virtual physical therapy service Hinge Health lays off ~10% of its workforce; Hinge had an estimated 1,700+ employees, and was valued at $6.2B in October 2021 &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/240411/p33#a240411p33)
- - [Best Internet Providers in Poughkeepsie, New York     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-poughkeepsie-ny/#ftag=CAD590a51e)
- - [X tells users &quot;the hide your checkmark feature of X Premium is going away soon&quot;, after X began adding blue checks to &quot;influential&quot; users with 2,500+ followers &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/240411/p32#a240411p32)
- - [Blue Raven Solar Review: A Strong Reputation for Solar Satisfaction     - CNET](https://www.cnet.com/home/energy-and-utilities/blue-raven-solar-review/#ftag=CAD590a51e)
- - [Ring Battery Doorbell Pro Review: A Little Large and &lpar;Mostly&rpar; in Charge     - CNET](https://www.cnet.com/home/security/ring-battery-doorbell-pro-review-a-little-large-and-mostly-in-charge/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Apple Watch Bands for 2024     - CNET](https://www.cnet.com/tech/mobile/best-apple-watch-bands/#ftag=CAD590a51e)
+ - [Steel Home Safe     - CNET](https://www.cnet.com/news/steel-home-safe-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

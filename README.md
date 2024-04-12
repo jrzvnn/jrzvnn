@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Henry Cavill being Henry Cavill](http://9gag.com/gag/aYQN7BN)
- - 😝 [Progressive Public Transport In Europe](http://9gag.com/gag/aVvzbDw)
- - 💣 [Ah yes this is such a good spot to stand and chill](http://9gag.com/gag/aNDrgX4)
+ - 😝 [Hot girls only](http://9gag.com/gag/aNDrgG0)
  - 😝 [Mark my words...](http://9gag.com/gag/an7q4xz)
- - 👉 [If it isn&#39;t the consequences of my own actions](http://9gag.com/gag/aRBw7y5)<!-- MEMES:END -->
+ - 💣 [Ah yes this is such a good spot to stand and chill](http://9gag.com/gag/aNDrgX4)
+ - 😝 [Becoming a genious because of a lack of self discipline](http://9gag.com/gag/ayN72My)
+ - 👉 [Stop the discrimination and shop at 7-11 ..](http://9gag.com/gag/aYQNrm7)<!-- MEMES:END -->
 
 ---
 

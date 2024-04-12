@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Google One VPN service is heading to the Google graveyard](https://www.theverge.com/2024/4/12/24128177/google-one-vpn-service-shutdown-announcement-graveyard)
+ - [If You&#39;ve Shopped at Walmart in the Last 6 Years, You Could Get Up to $500 in Settlement Cash. Here&#39;s How to Claim It     - CNET](https://www.cnet.com/personal-finance/if-youve-shopped-at-walmart-in-the-last-6-years-you-could-get-up-to-500-in-settlement-cash-heres-how-to-claim/#ftag=CAD590a51e)
  - [A look at Udio, which was founded by four former DeepMind employees in December 2023 and launched a product on April 11 that generates songs from text prompts &lpar;Brian Hiatt/Rolling Stone&rpar;](http://www.techmeme.com/240412/p3#a240412p3)
  - [Uber and Lyft delay their plans to leave Minneapolis until July 1, after city officials voted on April 10 to delay the start of driver pay raise to July 1 &lpar;Reuters&rpar;](http://www.techmeme.com/240412/p2#a240412p2)
- - [Researchers say they haven&#39;t found &quot;strikingly novel compounds&quot; after analyzing a subset of the 2.2M new crystals DeepMind claimed its AI tool GNoMe discovered &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240412/p1#a240412p1)
- - [Apple Alerts iPhone Users of &#39;Mercenary Attack,&#39; What You Should Know     - CNET](https://www.cnet.com/tech/mobile/apple-alerts-iphone-users-of-mercenary-attack-what-you-should-know/#ftag=CAD590a51e)
- - [How to make the most of your Mac&#39;s trackpad](https://appleinsider.com/inside/macos/tips/how-to-make-the-most-of-your-macs-trackpad?utm_medium=rss)<!-- TECH:END -->
+ - [Researchers say they haven&#39;t found &quot;strikingly novel compounds&quot; after analyzing a subset of the 2.2M new crystals DeepMind claimed its AI tool GNoMe discovered &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240412/p1#a240412p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

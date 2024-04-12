@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If it isn&#39;t the consequences of my own actions](http://9gag.com/gag/aRBw7y5)
- - 😝 [Squint your eyes](http://9gag.com/gag/an7qgBo)
- - 💣 [WCGW crossing a collapsing road](http://9gag.com/gag/aO8K7eE)
- - 😝 [Bad experience?](http://9gag.com/gag/aByRmoQ)
- - 👉 [The Usual Burden On All Societies](http://9gag.com/gag/avypzBb)<!-- MEMES:END -->
+ - 😝 [Every time I think that I might go too far, they always prove me wrong.](http://9gag.com/gag/aPAwgRg)
+ - 😝 [Ha! G](http://9gag.com/gag/aMV244X)
+ - 💣 [Should stay longer in school](http://9gag.com/gag/aXP0nKP)
+ - 😝 [This explains the situation perfectly....](http://9gag.com/gag/aVvz74d)
+ - 👉 [RIP Nordberg](http://9gag.com/gag/awy0ZvW)<!-- MEMES:END -->
 
 ---
 

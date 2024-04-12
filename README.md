@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Underused VPN by Google One service is headed for the graveyard](https://appleinsider.com/articles/24/04/12/underused-vpn-by-google-one-is-being-shut-down?utm_medium=rss)
+ - [Adobe used images created by tools like Midjourney and uploaded to its stock marketplace by users, to train Firefly; Adobe says ~5% of images were AI-generated &lpar;Bloomberg&rpar;](http://www.techmeme.com/240412/p12#a240412p12)
  - [Ford’s hands-free BlueCruise comes under scrutiny after fatal crash](https://www.theverge.com/2024/4/12/24128349/ford-hands-free-bluecruise-fatal-crash-texas-ntsb)
  - [4TB SD cards are arriving in 2025 for your cameras and laptops](https://www.theverge.com/2024/4/12/24128325/4tb-sd-card-western-digital-camera-laptops-storage)
- - [Deals: Apple&#39;s M3 MacBook Pro 14-inch with 1TB storage drops to $1,799](https://appleinsider.com/articles/24/04/12/deals-apples-m3-macbook-pro-14-inch-1tb-drops-to-1799?utm_medium=rss)
- - [South Korea will host the second global AI safety summit on May 21-22, six months after the UK held the inaugural event at Bletchley Park &lpar;Martin Coulter/Reuters&rpar;](http://www.techmeme.com/240412/p11#a240412p11)
- - [Apple health study proves anybody can run a marathon -- given enough time](https://appleinsider.com/articles/24/04/12/apple-health-study-proves-anybody-can-run-a-marathon----given-enough-time?utm_medium=rss)<!-- TECH:END -->
+ - [Deals: Apple&#39;s M3 MacBook Pro 14-inch with 1TB storage drops to $1,799](https://appleinsider.com/articles/24/04/12/deals-apples-m3-macbook-pro-14-inch-1tb-drops-to-1799?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Microsoft starts testing ads inside the Start menu on Windows 11 in the Insider builds in the US, and says the app promotions can be disabled in Settings &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240412/p25#a240412p25)
+ - [Taylor Swift and TikTok Are Going Steady Again: Singer&#39;s Music Is Back on Service     - CNET](https://www.cnet.com/tech/taylor-swift-and-tiktok-are-going-steady-again-singers-music-is-back-on-service/#ftag=CAD590a51e)
+ - [Best Cookware Sets for 2024     - CNET](https://www.cnet.com/news/best-cookware-sets/#ftag=CAD590a51e)
  - [A case study of the creation of an AI-powered local &quot;news&quot; website, directed to produce partisan stories on a US Senate race; a Fiverr developer made it for $80 &lpar;Jack Brewster/Wall Street Journal&rpar;](http://www.techmeme.com/240412/p24#a240412p24)
- - [Best AirPods Deals: Score up to $70 off on Apple Earbuds and Headphones     - CNET](https://www.cnet.com/deals/best-apple-airpods-deals/#ftag=CAD590a51e)
- - [Dryer Vent Cleaner     - CNET](https://www.cnet.com/news/dryer-vent-cleaner-kit-dpnl/#ftag=CAD590a51e)
- - [Rumor: M4 MacBook Pro with AI enhancements expected at the end of 2024](https://appleinsider.com/articles/24/04/11/rumor-m4-macbook-pro-with-ai-enhancements-expected-at-the-end-of-2024?utm_medium=rss)<!-- TECH:END -->
+ - [Pro Lapel Microphone     - CNET](https://www.cnet.com/tech/pro-lapel-microphone-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

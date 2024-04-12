@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s why I always drink tap water.](http://9gag.com/gag/a9ybn3j)
- - 😝 [If it isn&#39;t the consequences of my own actions](http://9gag.com/gag/aRBw7y5)
- - 💣 [Mark my words...](http://9gag.com/gag/an7q4xz)
- - 😝 [The Usual Burden On All Societies](http://9gag.com/gag/avypzBb)
- - 👉 [Ghost fart. Thousand of people die every year because ot it.](http://9gag.com/gag/amoNB7V)<!-- MEMES:END -->
+ - 😝 [American psycho](http://9gag.com/gag/a9ybRMo)
+ - 😝 [Bad experience?](http://9gag.com/gag/aByRmoQ)
+ - 💣 [IAATPOS for being a thief\u2026.](http://9gag.com/gag/amoNPpv)
+ - 😝 [Mark my words...](http://9gag.com/gag/an7q4xz)
+ - 👉 [If it isn&#39;t the consequences of my own actions](http://9gag.com/gag/aRBw7y5)<!-- MEMES:END -->
 
 ---
 

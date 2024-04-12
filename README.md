@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The good, the bad, and the Humane Pin](https://www.theverge.com/24128273/humane-ai-pin-review-taylor-swift-tiktok-openai-vergecast)
+ - [Sources: Sam Altman and other OpenAI executives pitched ChatGPT Enterprise to hundreds of Fortune 500 companies this month, including some Microsoft customers &lpar;Reuters&rpar;](http://www.techmeme.com/240412/p7#a240412p7)
  - [Tech Leaders Once Cried for AI Regulation. Now the Message Is ‘Slow Down’](https://www.wired.com/story/tech-ai-regulation-bill/)
  - [Underused VPN by Google One is being shut down](https://appleinsider.com/articles/24/04/12/underused-vpn-by-google-one-is-being-shut-down?utm_medium=rss)
- - [How &quot;made for advertising&quot; sites, which are criticized for their UX and dubious results for advertisers, get ~15% of automated ad spend or $10B/year, per ANA &lpar;Megan Graham/Wall Street Journal&rpar;](http://www.techmeme.com/240412/p6#a240412p6)
- - [UK denies Apple&#39;s bid to dismiss App Store lawsuit](https://appleinsider.com/articles/24/04/12/uk-denies-apples-bid-to-dismiss-app-store-lawsuit?utm_medium=rss)
- - [Best VPN for Netflix in 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How &quot;made for advertising&quot; sites, which are criticized for their UX and dubious results for advertisers, get ~15% of automated ad spend or $10B/year, per ANA &lpar;Megan Graham/Wall Street Journal&rpar;](http://www.techmeme.com/240412/p6#a240412p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: China asked its largest telecom carriers, including China Mobile, to phase out foreign chips from their equipment by 2027, in a blow to Intel and AMD &lpar;Liza Lin/Wall Street Journal&rpar;](http://www.techmeme.com/240412/p4#a240412p4)
- - [Best Savings Rates Today -- Don&#39;t Sleep on APYs as High as 5.55%, April 12, 2024     - CNET](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-april-12-2024/#ftag=CAD590a51e)
- - [The Google One VPN service is heading to the Google graveyard](https://www.theverge.com/2024/4/12/24128177/google-one-vpn-service-shutdown-announcement-graveyard)
- - [If You&#39;ve Shopped at Walmart in the Last 6 Years, You Could Get Up to $500 in Settlement Cash. Here&#39;s How to Claim It     - CNET](https://www.cnet.com/personal-finance/if-youve-shopped-at-walmart-in-the-last-6-years-you-could-get-up-to-500-in-settlement-cash-heres-how-to-claim/#ftag=CAD590a51e)
- - [A look at Udio, which was founded by four former DeepMind employees in December 2023 and launched a product on April 11 that generates songs from text prompts &lpar;Brian Hiatt/Rolling Stone&rpar;](http://www.techmeme.com/240412/p3#a240412p3)<!-- TECH:END -->
+ - [All of the specs of the iPhone SE 4 may have just been leaked](https://appleinsider.com/articles/24/04/12/all-of-the-specs-of-the-iphone-se-4-may-have-just-been-leaked?utm_medium=rss)
+ - [Apple Music Review: High-Quality Music, Minimum Frills     - CNET](https://www.cnet.com/tech/services-and-software/apple-music-review-high-quality-music-minimum-frills/#ftag=CAD590a51e)
+ - [Before iOS 17.5 Is Released, You Should Really Update to iOS 17.4.1     - CNET](https://www.cnet.com/tech/services-and-software/before-ios-17-5-is-released-you-should-really-update-to-ios-17-4-1/#ftag=CAD590a51e)
+ - [iOS 17.4: Improve Your iPhone&#39;s Stolen Device Protection in 5 Easy Steps     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-4-improve-your-iphones-stolen-device-protection-in-5-easy-steps/#ftag=CAD590a51e)
+ - [Sources: China asked its largest telecom carriers, including China Mobile, to phase out foreign chips from their equipment by 2027, in a blow to Intel and AMD &lpar;Liza Lin/Wall Street Journal&rpar;](http://www.techmeme.com/240412/p4#a240412p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

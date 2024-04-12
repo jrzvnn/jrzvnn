@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ugreen DXP8800 Plus network attached storage review: Good hardware, beta software](https://appleinsider.com/articles/24/04/12/ugreen-dxp8800-plus-network-attached-storage-review-good-hardware-beta-software?utm_medium=rss)
+ - [Oh no, I started playing Fallout Shelter again](https://www.theverge.com/24128436/fallout-shelter-amazon-prime-video)
+ - [Roku hit with second major breach of 2024, this time affecting 576,000 users](https://www.theverge.com/2024/4/12/24128511/roku-2nd-breach-credential-stuffing-hack)
  - [Chinese-owned Dutch chipmaker Nexperia is investigating a breach in March; report: customer data of companies including Apple, Huawei, and SpaceX was stolen &lpar;Bloomberg&rpar;](http://www.techmeme.com/240412/p17#a240412p17)
- - [Google’s Pixel 8A leaks in all colors — including a bold green](https://www.theverge.com/2024/4/12/24128507/google-pixel-8a-colors-leak)
- - [Last week, LinkedIn began letting advertisers pay to amplify posts from some users through Thought Leader ads, as it enters the market of influencer marketing &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240412/p16#a240412p16)
- - [Best Sony Headphones for 2024     - CNET](https://www.cnet.com/tech/mobile/best-sony-headphones-and-earbuds/#ftag=CAD590a51e)
- - [America’s roads and bridges to get $830 million for a climate makeover](https://www.theverge.com/2024/4/12/24128322/transportation-infrastructure-grants-climate-change)<!-- TECH:END -->
+ - [Google’s Pixel 8A leaks in all colors — including a bold green](https://www.theverge.com/2024/4/12/24128507/google-pixel-8a-colors-leak)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

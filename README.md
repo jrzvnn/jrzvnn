@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Imagine running for your life and this is the fastest you can run.](http://9gag.com/gag/aVvzw1K)
- - 😝 [Clash of civilizations](http://9gag.com/gag/amoNPBo)
- - 💣 [Equality is just fantasy](http://9gag.com/gag/aYQNo42)
- - 😝 [Moving away from villages to big cities was a mistake. We had food family pets and a life without geind and stress, we didnt need fancy cars and expensive houses to be happy.](http://9gag.com/gag/a6ZmKzq)
- - 👉 [How much would you spend for the models? Prada : Yes.](http://9gag.com/gag/a0e87gB)<!-- MEMES:END -->
+ - 😝 [Wearing black and walking in the middle of the road in the dark. What could go wrong?](http://9gag.com/gag/aByRn3D)
+ - 😝 [WCGW crossing a collapsing road](http://9gag.com/gag/aO8K7eE)
+ - 💣 [Crazy](http://9gag.com/gag/aGyYZbG)
+ - 😝 [Mark my words...](http://9gag.com/gag/an7q4xz)
+ - 👉 [He can finally rest knowing his wifes killer is dead](http://9gag.com/gag/abAXVmb)<!-- MEMES:END -->
 
 ---
 

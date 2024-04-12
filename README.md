@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [America’s roads and bridges to get $830 million for a climate makeover](https://www.theverge.com/2024/4/12/24128322/transportation-infrastructure-grants-climate-change)
+ - [Google threatens to cut off news after California proposes paying media outlets](https://www.theverge.com/2024/4/12/24128363/google-cjpa-news-removal-california)
  - [OpenAI gives premium ChatGPT users access to an updated GPT-4 Turbo, promising more direct, less verbose responses, and use of more conversational language &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240412/p15#a240412p15)
- - [Roku says hackers accessed ~576K accounts using credential stuffing, and made purchases in ~400 cases, after a similar breach affecting ~15K accounts in March &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/240412/p14#a240412p14)
- - [Google tests removing links to CA news sites to measure the impact of the California Journalism Preservation Act and pauses investments in the CA news ecosystem &lpar;Jaffer Zaidi/The Keyword&rpar;](http://www.techmeme.com/240412/p13#a240412p13)
- - [Apple Vision Pro black eyes, dinosaurs, and Apple&#39;s mastery of logistics on the AppleInsider Podcast](https://appleinsider.com/articles/24/04/12/apple-vision-pro-black-eyes-dinosaurs-and-apples-mastery-of-logistics-on-the-appleinsider-podcast?utm_medium=rss)
- - [Underused VPN by Google One service is headed for the graveyard](https://appleinsider.com/articles/24/04/12/underused-vpn-by-google-one-is-being-shut-down?utm_medium=rss)<!-- TECH:END -->
+ - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
+ - [Roku says hackers accessed ~576K accounts using credential stuffing, and made purchases in ~400 cases, after a similar breach affecting ~15K accounts in March &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/240412/p14#a240412p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

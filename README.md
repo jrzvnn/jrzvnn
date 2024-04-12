@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A friend of mine had a vasectomy and his wife is pregnant](http://9gag.com/gag/aGyYd6n)
- - 😝 [Conversation in 2024. be like](http://9gag.com/gag/aRBw757)
- - 💣 [The media is on a desperate search for their next George Floyd before November](http://9gag.com/gag/aYQNybm)
- - 😝 [WCGW crossing a collapsing road](http://9gag.com/gag/aO8K7eE)
- - 👉 [The leader of Hamas hear the news regarding his 3 sons killed in Gaza. This is the face of Hamas - being casual about the death of your children, blessing god. Remember this the next time Hamas wines about the death of children.](http://9gag.com/gag/aAyRgB2)<!-- MEMES:END -->
+ - 😝 [In American culture, that is considered a d**k move](http://9gag.com/gag/amoNvM4)
+ - 😝 [Hot girls only](http://9gag.com/gag/aNDrgG0)
+ - 💣 [He can finally rest knowing his wifes killer is dead](http://9gag.com/gag/abAXVmb)
+ - 😝 [The Usual Burden On All Societies](http://9gag.com/gag/avypzBb)
+ - 👉 [WCGW crossing a collapsing road](http://9gag.com/gag/aO8K7eE)<!-- MEMES:END -->
 
 ---
 

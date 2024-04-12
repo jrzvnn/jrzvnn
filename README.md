@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Berachain, a bear-themed crypto project building a Layer 1 blockchain, raised a $100M Series B through a SAFT, a simple agreement for future tokens &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/240412/p10#a240412p10)
  - [Inside the quest to finish Super Mario Maker’s disappearing levels](https://www.theverge.com/2024/4/12/24127340/super-mario-maker-nintendo-wii-u-shutdown)
- - [Sources: StubHub aims to go public by late summer but may call off the listing if it can&#39;t get close to the $16.5B valuation from a funding round in 2021 &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/240412/p9#a240412p9)
- - [A popular open-source content delivery network went down for hours](https://www.theverge.com/2024/4/12/24128276/open-source-unpkg-cdn-down)
- - [Can You Really Run on Top of a Train, Like in the Movies?](https://www.wired.com/story/can-you-really-run-on-top-of-a-train/)<!-- TECH:END -->
+ - [Best CD Rates Today: Act Now to Score an APY as High as 5.35%, April 12, 2024     - CNET](https://www.cnet.com/personal-finance/best-cd-rates-today-act-now-to-score-an-apy-as-high-as-5-35-april-12-2024/#ftag=CAD590a51e)
+ - [Refinance Options Aren&#39;t Great for Homeowners: Mortgage Refinance Rates for April 12, 2024     - CNET](https://www.cnet.com/personal-finance/mortgage-refinance-rates-move-higher-mortgage-refinance-rates-for-april-12-2024/#ftag=CAD590a51e)
+ - [Should Homebuyers Expect Even More Volatile Mortgage Rates? Mortgage Rates for April 12, 2024     - CNET](https://www.cnet.com/personal-finance/mortgage-rates-go-up-for-homeseekers-mortgage-interest-rates-for-april-12-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

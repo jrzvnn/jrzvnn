@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Civil War&#39; Review: Alex Garland Plays Both Sides](https://www.wired.com/story/review-the-troubling-politics-of-alex-garlands-civil-war/)
  - [All of the specs of the iPhone SE 4 may have just been leaked](https://appleinsider.com/articles/24/04/12/all-of-the-specs-of-the-iphone-se-4-may-have-just-been-leaked?utm_medium=rss)
  - [Apple Music Review: High-Quality Music, Minimum Frills     - CNET](https://www.cnet.com/tech/services-and-software/apple-music-review-high-quality-music-minimum-frills/#ftag=CAD590a51e)
  - [Before iOS 17.5 Is Released, You Should Really Update to iOS 17.4.1     - CNET](https://www.cnet.com/tech/services-and-software/before-ios-17-5-is-released-you-should-really-update-to-ios-17-4-1/#ftag=CAD590a51e)
- - [iOS 17.4: Improve Your iPhone&#39;s Stolen Device Protection in 5 Easy Steps     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-4-improve-your-iphones-stolen-device-protection-in-5-easy-steps/#ftag=CAD590a51e)
- - [Sources: China asked its largest telecom carriers, including China Mobile, to phase out foreign chips from their equipment by 2027, in a blow to Intel and AMD &lpar;Liza Lin/Wall Street Journal&rpar;](http://www.techmeme.com/240412/p4#a240412p4)<!-- TECH:END -->
+ - [iOS 17.4: Improve Your iPhone&#39;s Stolen Device Protection in 5 Easy Steps     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-4-improve-your-iphones-stolen-device-protection-in-5-easy-steps/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

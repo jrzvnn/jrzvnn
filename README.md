@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: China asked its largest telecom carriers, including China Mobile, to phase out foreign chips from their equipment by 2027, in a blow to Intel and AMD &lpar;Liza Lin/Wall Street Journal&rpar;](http://www.techmeme.com/240412/p4#a240412p4)
  - [Best Savings Rates Today -- Don&#39;t Sleep on APYs as High as 5.55%, April 12, 2024     - CNET](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-april-12-2024/#ftag=CAD590a51e)
  - [The Google One VPN service is heading to the Google graveyard](https://www.theverge.com/2024/4/12/24128177/google-one-vpn-service-shutdown-announcement-graveyard)
  - [If You&#39;ve Shopped at Walmart in the Last 6 Years, You Could Get Up to $500 in Settlement Cash. Here&#39;s How to Claim It     - CNET](https://www.cnet.com/personal-finance/if-youve-shopped-at-walmart-in-the-last-6-years-you-could-get-up-to-500-in-settlement-cash-heres-how-to-claim/#ftag=CAD590a51e)
- - [A look at Udio, which was founded by four former DeepMind employees in December 2023 and launched a product on April 11 that generates songs from text prompts &lpar;Brian Hiatt/Rolling Stone&rpar;](http://www.techmeme.com/240412/p3#a240412p3)
- - [Uber and Lyft delay their plans to leave Minneapolis until July 1, after city officials voted on April 10 to delay the start of driver pay raise to July 1 &lpar;Reuters&rpar;](http://www.techmeme.com/240412/p2#a240412p2)<!-- TECH:END -->
+ - [A look at Udio, which was founded by four former DeepMind employees in December 2023 and launched a product on April 11 that generates songs from text prompts &lpar;Brian Hiatt/Rolling Stone&rpar;](http://www.techmeme.com/240412/p3#a240412p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

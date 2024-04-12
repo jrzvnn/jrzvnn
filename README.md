@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A meme in its natural habitat.](http://9gag.com/gag/a9yb1X6)
- - 😝 [How much would you spend for the models? Prada : Yes.](http://9gag.com/gag/a0e87gB)
- - 💣 [Becoming a genious because of a lack of self discipline](http://9gag.com/gag/ayN72My)
- - 😝 [Ha! G](http://9gag.com/gag/aMV244X)
- - 👉 [This explains the situation perfectly....](http://9gag.com/gag/aVvz74d)<!-- MEMES:END -->
+ - 😝 [New Zealand&#39;s Department of Conservation spend 8 months and $500,000 &lpar;around 300,000USD&rpar; to track down kill this single stoat.](http://9gag.com/gag/a0e8ZyZ)
+ - 😝 [Progressive Public Transport In Europe](http://9gag.com/gag/aVvzbDw)
+ - 💣 [This explains the situation perfectly....](http://9gag.com/gag/aVvz74d)
+ - 😝 [Rachel Weisz and Patricia Velasquez 25 years after The Mummy 1999](http://9gag.com/gag/aGyYE2n)
+ - 👉 [Bad experience?](http://9gag.com/gag/aByRmoQ)<!-- MEMES:END -->
 
 ---
 

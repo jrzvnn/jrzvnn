@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hot girls only](http://9gag.com/gag/aNDrgG0)
- - 😝 [Mark my words...](http://9gag.com/gag/an7q4xz)
- - 💣 [Ah yes this is such a good spot to stand and chill](http://9gag.com/gag/aNDrgX4)
- - 😝 [Becoming a genious because of a lack of self discipline](http://9gag.com/gag/ayN72My)
- - 👉 [Stop the discrimination and shop at 7-11 ..](http://9gag.com/gag/aYQNrm7)<!-- MEMES:END -->
+ - 😝 [Is that true? \ud83e\udd14](http://9gag.com/gag/aNDrY5A)
+ - 😝 [The Usual Burden On All Societies](http://9gag.com/gag/avypzBb)
+ - 💣 [This explains the situation perfectly....](http://9gag.com/gag/aVvz74d)
+ - 😝 [He Was A Good Boy And Good Boys Shoots After The Cops When They&#39;re Being Asked To Step Out Of The Car](http://9gag.com/gag/aE0vpGK)
+ - 👉 [Mark my words...](http://9gag.com/gag/an7q4xz)<!-- MEMES:END -->
 
 ---
 

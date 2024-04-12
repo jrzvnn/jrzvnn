@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to make the most of your Mac&#39;s trackpad](https://appleinsider.com/inside/macos/tips/how-to-make-the-most-of-your-macs-trackpad?utm_medium=rss)
  - [Anrok, which provides sales tax management tools to software companies, raised a $30M Series B led by Khosla Ventures at a $250M valuation &lpar;Kenrick Cai/Forbes&rpar;](http://www.techmeme.com/240411/p36#a240411p36)
  - [OpenTable plans to display members&#39; first names and profile photos on all reviews, including past reviews, starting May 22 in a bid to provide more transparency &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/240411/p35#a240411p35)
  - [Best Budget 3D Printer of 2024     - CNET](https://www.cnet.com/tech/computing/best-budget-3d-printer/#ftag=CAD590a51e)
- - [Best Camera to Buy in 2024     - CNET](https://www.cnet.com/tech/computing/best-camera-to-buy/#ftag=CAD590a51e)
- - [Best Internet Providers in Carlsbad, California     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-carlsbad-ca/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Camera to Buy in 2024     - CNET](https://www.cnet.com/tech/computing/best-camera-to-buy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

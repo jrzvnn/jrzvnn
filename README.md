@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A UK judge throws out Apple&#39;s motion to dismiss a $979M lawsuit representing more than 1,500 developers alleging that App Store&#39;s 30% commission is unfair &lpar;Reuters&rpar;](http://www.techmeme.com/240412/p5#a240412p5)
- - [Spotify is developing a remix feature to rival sped-up TikTok tunes](https://www.theverge.com/2024/4/12/24128218/spotify-music-remix-feature-sped-up-tiktok-songs)
- - [Apple Vision Pro Black eyes, dinosaurs, and Apple&#39;s mastery of logistics on the AppleInsider Podcast](https://appleinsider.com/articles/24/04/12/apple-vision-pro-black-eyes-dinosaurs-and-apples-mastery-of-logistics-on-the-appleinsider-podcast?utm_medium=rss)
- - [The More People Say &#39;Megalopolis&#39; Is Unsellable, the More We Need to See It](https://www.wired.com/story/the-quest-to-save-megalopolis-starts-now/)
- - [Bop Along and Save Up to $30 Off Your New Apple HomePod Smart Speaker     - CNET](https://www.cnet.com/deals/bop-along-and-save-up-to-30-off-your-new-apple-homepod-smart-speaker/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [UK denies Apple&#39;s bid to dismiss App Store lawsuit](https://appleinsider.com/articles/24/04/12/uk-denies-apples-bid-to-dismiss-app-store-lawsuit?utm_medium=rss)
+ - [Best VPN for Netflix in 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-netflix/#ftag=CAD590a51e)
+ - [Save Up to 60% Off Clothing With Springtime Deals From H&amp;M, Express and More     - CNET](https://www.cnet.com/deals/save-up-to-60-off-clothing-with-springtime-deals-from-h-m-express-and-more/#ftag=CAD590a51e)
+ - [Upgrade Your Work and Gaming Experience With a Bargain Reconditioned Monitor Today     - CNET](https://www.cnet.com/deals/upgrade-your-work-and-gaming-experience-with-a-bargain-reconditioned-monitor-today/#ftag=CAD590a51e)
+ - [Samsung Galaxy Z Flip 5 Gets an AI Update: What It&#39;s Like to Use     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-z-flip-5-gets-an-ai-update-what-its-like-to-use/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

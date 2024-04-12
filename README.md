@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Bad experience?](http://9gag.com/gag/aByRmoQ)
  - 😝 [This explains the situation perfectly....](http://9gag.com/gag/aVvz74d)
- - 😝 [Sunlight peeking through the Twin Towers; You can see the steel core containing the stairs and elevators.](http://9gag.com/gag/aqy9G1P)
- - 💣 [When bro layed down the pipe so hard that it fixed her disablement.](http://9gag.com/gag/a2vz7wd)
- - 😝 [Could\u2019ve lived without possibly knowing this is a thing](http://9gag.com/gag/aZZbr4n)
- - 👉 [Stop the discrimination and shop at 7-11 ..](http://9gag.com/gag/aYQNrm7)<!-- MEMES:END -->
+ - 💣 [Stop the discrimination and shop at 7-11 ..](http://9gag.com/gag/aYQNrm7)
+ - 😝 [The Usual Burden On All Societies](http://9gag.com/gag/avypzBb)
+ - 👉 [That&#39;s why I always drink tap water.](http://9gag.com/gag/a9ybn3j)<!-- MEMES:END -->
 
 ---
 

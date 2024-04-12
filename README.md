@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Usual Burden On All Societies](http://9gag.com/gag/avypzBb)
- - 😝 [Ah yes this is such a good spot to stand and chill](http://9gag.com/gag/aNDrgX4)
- - 💣 [Mark my words...](http://9gag.com/gag/an7q4xz)
- - 😝 [If it isn&#39;t the consequences of my own actions](http://9gag.com/gag/aRBw7y5)
- - 👉 [Progressive Public Transport In Europe](http://9gag.com/gag/aVvzbDw)<!-- MEMES:END -->
+ - 😝 [At first we laughed. Then it became reality](http://9gag.com/gag/agm3ozW)
+ - 😝 [Never trust google maps](http://9gag.com/gag/agm3oR1)
+ - 💣 [RIP Nordberg](http://9gag.com/gag/awy0ZvW)
+ - 😝 [Progressive Public Transport In Europe](http://9gag.com/gag/aVvzbDw)
+ - 👉 [Should stay longer in school](http://9gag.com/gag/aXP0nKP)<!-- MEMES:END -->
 
 ---
 

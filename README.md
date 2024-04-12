@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A case study of the creation of an AI-powered local &quot;news&quot; website, directed to produce partisan stories on a US Senate race; a Fiverr developer made it for $80 &lpar;Jack Brewster/Wall Street Journal&rpar;](http://www.techmeme.com/240412/p24#a240412p24)
+ - [Best AirPods Deals: Score up to $70 off on Apple Earbuds and Headphones     - CNET](https://www.cnet.com/deals/best-apple-airpods-deals/#ftag=CAD590a51e)
+ - [Dryer Vent Cleaner     - CNET](https://www.cnet.com/news/dryer-vent-cleaner-kit-dpnl/#ftag=CAD590a51e)
  - [Rumor: M4 MacBook Pro with AI enhancements expected at the end of 2024](https://appleinsider.com/articles/24/04/11/rumor-m4-macbook-pro-with-ai-enhancements-expected-at-the-end-of-2024?utm_medium=rss)
- - [Tesla slashes price for monthly Full Self-Driving subscription](https://www.theverge.com/2024/4/12/24128806/tesla-fsd-subscription-price-cut)
- - [Tesla drops the price of its Full Self-Driving software subscription, which the company now calls FSD &lpar;Supervised&rpar;, from $199 per month to $99 per month &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/240412/p23#a240412p23)
- - [Japanese man arrested for allegedly hacking Pokémon game to sell custom monsters](https://www.theverge.com/2024/4/12/24128720/pokemon-hacking-arrest-japan-scarlet-violet)<!-- TECH:END -->
+ - [Ear Wax Removal Tool     - CNET](https://www.cnet.com/health/ear-wax-removal-tool-w-camera-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

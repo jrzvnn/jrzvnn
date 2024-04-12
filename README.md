@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Could\u2019ve lived without possibly knowing this is a thing](http://9gag.com/gag/aZZbr4n)
- - 😝 [One of the biggest what if in NBA](http://9gag.com/gag/abAXVWX)
- - 💣 [Stop the discrimination and shop at 7-11 ..](http://9gag.com/gag/aYQNrm7)
+ - 😝 [If it isn&#39;t the consequences of my own actions](http://9gag.com/gag/aRBw7y5)
  - 😝 [New Zealand&#39;s Department of Conservation spend 8 months and $500,000 &lpar;around 300,000USD&rpar; to track down kill this single stoat.](http://9gag.com/gag/a0e8ZyZ)
+ - 💣 [This explains the situation perfectly....](http://9gag.com/gag/aVvz74d)
+ - 😝 [Old but you are welcome you racist sons of b*tches! See you tomorrow!](http://9gag.com/gag/a5QeQgO)
  - 👉 [Mark my words...](http://9gag.com/gag/an7q4xz)<!-- MEMES:END -->
 
 ---

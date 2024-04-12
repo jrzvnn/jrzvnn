@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That hug tho.](http://9gag.com/gag/a7oLWrb)
- - 😝 [CANDYLION](http://9gag.com/gag/a7oLWEz)
- - 💣 [This explains the situation perfectly....](http://9gag.com/gag/aVvz74d)
- - 😝 [He can finally rest knowing his wifes killer is dead](http://9gag.com/gag/abAXVmb)
- - 👉 [Ghost fart. Thousand of people die every year because ot it.](http://9gag.com/gag/amoNB7V)<!-- MEMES:END -->
+ - 😝 [Crazy](http://9gag.com/gag/aGyYZbG)
+ - 😝 [He Was A Good Boy And Good Boys Shoots After The Cops When They&#39;re Being Asked To Step Out Of The Car](http://9gag.com/gag/aE0vpGK)
+ - 💣 [Hot girls only](http://9gag.com/gag/aNDrgG0)
+ - 😝 [The Usual Burden On All Societies](http://9gag.com/gag/avypzBb)
+ - 👉 [American psycho](http://9gag.com/gag/a9ybRMo)<!-- MEMES:END -->
 
 ---
 

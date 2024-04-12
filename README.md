@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stop the discrimination and shop at 7-11 ..](http://9gag.com/gag/aYQNrm7)
- - 😝 [This explains the situation perfectly....](http://9gag.com/gag/aVvz74d)
- - 💣 [Hot girls only](http://9gag.com/gag/aNDrgG0)
- - 😝 [The Usual Burden On All Societies](http://9gag.com/gag/avypzBb)
- - 👉 [When bro layed down the pipe so hard that it fixed her disablement.](http://9gag.com/gag/a2vz7wd)<!-- MEMES:END -->
+ - 😝 [If it isn&#39;t the consequences of my own actions](http://9gag.com/gag/aRBw7y5)
+ - 😝 [Squint your eyes](http://9gag.com/gag/an7qgBo)
+ - 💣 [WCGW crossing a collapsing road](http://9gag.com/gag/aO8K7eE)
+ - 😝 [Bad experience?](http://9gag.com/gag/aByRmoQ)
+ - 👉 [The Usual Burden On All Societies](http://9gag.com/gag/avypzBb)<!-- MEMES:END -->
 
 ---
 

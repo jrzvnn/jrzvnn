@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can\u2019t say he\u2019s wrong](http://9gag.com/gag/aoyENGm)
- - 😝 [He can finally rest knowing his wifes killer is dead](http://9gag.com/gag/abAXVmb)
- - 💣 [Trying hard](http://9gag.com/gag/abAXYz8)
- - 😝 [That&#39;s why I always drink tap water.](http://9gag.com/gag/a9ybn3j)
- - 👉 [He Was A Good Boy And Good Boys Shoots After The Cops When They&#39;re Being Asked To Step Out Of The Car](http://9gag.com/gag/aE0vpGK)<!-- MEMES:END -->
+ - 😝 [A friend of mine had a vasectomy and his wife is pregnant](http://9gag.com/gag/aGyYd6n)
+ - 😝 [Conversation in 2024. be like](http://9gag.com/gag/aRBw757)
+ - 💣 [The media is on a desperate search for their next George Floyd before November](http://9gag.com/gag/aYQNybm)
+ - 😝 [WCGW crossing a collapsing road](http://9gag.com/gag/aO8K7eE)
+ - 👉 [The leader of Hamas hear the news regarding his 3 sons killed in Gaza. This is the face of Hamas - being casual about the death of your children, blessing god. Remember this the next time Hamas wines about the death of children.](http://9gag.com/gag/aAyRgB2)<!-- MEMES:END -->
 
 ---
 

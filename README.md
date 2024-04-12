@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Every time I think that I might go too far, they always prove me wrong.](http://9gag.com/gag/aPAwgRg)
+ - 😝 [A meme in its natural habitat.](http://9gag.com/gag/a9yb1X6)
+ - 😝 [How much would you spend for the models? Prada : Yes.](http://9gag.com/gag/a0e87gB)
+ - 💣 [Becoming a genious because of a lack of self discipline](http://9gag.com/gag/ayN72My)
  - 😝 [Ha! G](http://9gag.com/gag/aMV244X)
- - 💣 [Should stay longer in school](http://9gag.com/gag/aXP0nKP)
- - 😝 [This explains the situation perfectly....](http://9gag.com/gag/aVvz74d)
- - 👉 [RIP Nordberg](http://9gag.com/gag/awy0ZvW)<!-- MEMES:END -->
+ - 👉 [This explains the situation perfectly....](http://9gag.com/gag/aVvz74d)<!-- MEMES:END -->
 
 ---
 

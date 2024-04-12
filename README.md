@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Roku says hackers accessed ~576K accounts using credential stuffing, and made purchases in ~400 cases, after a similar breach affecting ~15K accounts in March &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/240412/p14#a240412p14)
+ - [Google tests removing links to CA news sites to measure the impact of the California Journalism Preservation Act and pauses investments in the CA news ecosystem &lpar;Jaffer Zaidi/The Keyword&rpar;](http://www.techmeme.com/240412/p13#a240412p13)
  - [Apple Vision Pro black eyes, dinosaurs, and Apple&#39;s mastery of logistics on the AppleInsider Podcast](https://appleinsider.com/articles/24/04/12/apple-vision-pro-black-eyes-dinosaurs-and-apples-mastery-of-logistics-on-the-appleinsider-podcast?utm_medium=rss)
  - [Underused VPN by Google One service is headed for the graveyard](https://appleinsider.com/articles/24/04/12/underused-vpn-by-google-one-is-being-shut-down?utm_medium=rss)
- - [Adobe used images created by tools like Midjourney and uploaded to its stock marketplace by users, to train Firefly; Adobe says ~5% of images were AI-generated &lpar;Bloomberg&rpar;](http://www.techmeme.com/240412/p12#a240412p12)
- - [Ford’s hands-free BlueCruise comes under scrutiny after fatal crash](https://www.theverge.com/2024/4/12/24128349/ford-hands-free-bluecruise-fatal-crash-texas-ntsb)
- - [4TB SD cards are arriving in 2025 for your cameras and laptops](https://www.theverge.com/2024/4/12/24128325/4tb-sd-card-western-digital-camera-laptops-storage)<!-- TECH:END -->
+ - [Adobe used images created by tools like Midjourney and uploaded to its stock marketplace by users, to train Firefly; Adobe says ~5% of images were AI-generated &lpar;Bloomberg&rpar;](http://www.techmeme.com/240412/p12#a240412p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

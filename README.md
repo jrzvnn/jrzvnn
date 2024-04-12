@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Progressive Public Transport In Europe](http://9gag.com/gag/aVvzbDw)
- - 😝 [O.J. Simpson juror casually admitting that 90% of them knew he kiIIed Nicole and Ron, but let him off for revenge:](http://9gag.com/gag/a87L113)
- - 💣 [Hot girls only](http://9gag.com/gag/aNDrgG0)
- - 😝 [WCGW crossing a collapsing road](http://9gag.com/gag/aO8K7eE)
- - 👉 [Ah yes this is such a good spot to stand and chill](http://9gag.com/gag/aNDrgX4)<!-- MEMES:END -->
+ - 😝 [Could\u2019ve lived without possibly knowing this is a thing](http://9gag.com/gag/aZZbr4n)
+ - 😝 [One of the biggest what if in NBA](http://9gag.com/gag/abAXVWX)
+ - 💣 [Stop the discrimination and shop at 7-11 ..](http://9gag.com/gag/aYQNrm7)
+ - 😝 [New Zealand&#39;s Department of Conservation spend 8 months and $500,000 &lpar;around 300,000USD&rpar; to track down kill this single stoat.](http://9gag.com/gag/a0e8ZyZ)
+ - 👉 [Mark my words...](http://9gag.com/gag/an7q4xz)<!-- MEMES:END -->
 
 ---
 

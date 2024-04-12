@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Conversation in 2024. be like](http://9gag.com/gag/aRBw757)
- - 😝 [He Was A Good Boy And Good Boys Shoots After The Cops When They&#39;re Being Asked To Step Out Of The Car](http://9gag.com/gag/aE0vpGK)
- - 💣 [That&#39;s why I always drink tap water.](http://9gag.com/gag/a9ybn3j)
- - 😝 [CANDYLION](http://9gag.com/gag/a7oLWEz)
- - 👉 [American psycho](http://9gag.com/gag/a9ybRMo)<!-- MEMES:END -->
+ - 😝 [He can finally rest knowing his wifes killer is dead](http://9gag.com/gag/abAXVmb)
+ - 😝 [A question for the mens](http://9gag.com/gag/aVvzYR2)
+ - 💣 [North Koreans running into the water to reach Kim Jong Un&#39;s boat](http://9gag.com/gag/aVvzYm8)
+ - 😝 [When the beat is a banger\u2026](http://9gag.com/gag/axyd93L)
+ - 👉 [This explains the situation perfectly....](http://9gag.com/gag/aVvz74d)<!-- MEMES:END -->
 
 ---
 

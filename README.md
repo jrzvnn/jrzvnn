@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese-owned Dutch chipmaker Nexperia is investigating a breach in March; report: customer data of companies including Apple, Huawei, and SpaceX was stolen &lpar;Bloomberg&rpar;](http://www.techmeme.com/240412/p17#a240412p17)
+ - [Google’s Pixel 8A leaks in all colors — including a bold green](https://www.theverge.com/2024/4/12/24128507/google-pixel-8a-colors-leak)
  - [Last week, LinkedIn began letting advertisers pay to amplify posts from some users through Thought Leader ads, as it enters the market of influencer marketing &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240412/p16#a240412p16)
  - [Best Sony Headphones for 2024     - CNET](https://www.cnet.com/tech/mobile/best-sony-headphones-and-earbuds/#ftag=CAD590a51e)
- - [America’s roads and bridges to get $830 million for a climate makeover](https://www.theverge.com/2024/4/12/24128322/transportation-infrastructure-grants-climate-change)
- - [Google threatens to cut off news after California proposes paying media outlets](https://www.theverge.com/2024/4/12/24128363/google-cjpa-news-removal-california)
- - [Best Buy Drops New 3-Day Sale With Massive Savings on All Things Tech     - CNET](https://www.cnet.com/deals/best-buy-drops-new-3-day-sale-with-massive-savings-on-all-things-tech/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [America’s roads and bridges to get $830 million for a climate makeover](https://www.theverge.com/2024/4/12/24128322/transportation-infrastructure-grants-climate-change)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

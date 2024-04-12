@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [O.J. Simpson juror casually admitting that 90% of them knew he kiIIed Nicole and Ron, but let him off for revenge:](http://9gag.com/gag/a87L113)
- - 😝 [Is that true? \ud83e\udd14](http://9gag.com/gag/aNDrY5A)
- - 💣 [Mark my words...](http://9gag.com/gag/an7q4xz)
- - 😝 [Scared the straightness outta him](http://9gag.com/gag/aE0v8KK)
- - 👉 [Ghost fart. Thousand of people die every year because ot it.](http://9gag.com/gag/amoNB7V)<!-- MEMES:END -->
+ - 😝 [Mark my words...](http://9gag.com/gag/an7q4xz)
+ - 😝 [That hug tho.](http://9gag.com/gag/a7oLWrb)
+ - 💣 [O.J. Simpson juror casually admitting that 90% of them knew he kiIIed Nicole and Ron, but let him off for revenge:](http://9gag.com/gag/a87L113)
+ - 😝 [The Usual Burden On All Societies](http://9gag.com/gag/avypzBb)
+ - 👉 [Hot girls only](http://9gag.com/gag/aNDrgG0)<!-- MEMES:END -->
 
 ---
 

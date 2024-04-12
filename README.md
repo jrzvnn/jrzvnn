@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here’s 16 pages of what Epic wants after winning its Google app store lawsuit](https://www.theverge.com/2024/4/12/24128531/epic-google-proposed-injunction-remedies)
  - [Epic asks a court to require Google to allow alt app stores in Play Store and to limit Google&#39;s ability to restrict alt app store preloading on Android phones &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/240412/p18#a240412p18)
  - [Ugreen DXP8800 Plus network attached storage review: Good hardware, beta software](https://appleinsider.com/articles/24/04/12/ugreen-dxp8800-plus-network-attached-storage-review-good-hardware-beta-software?utm_medium=rss)
  - [Oh no, I started playing Fallout Shelter again](https://www.theverge.com/24128436/fallout-shelter-amazon-prime-video)
- - [Roku hit with second major breach of 2024, this time affecting 576,000 users](https://www.theverge.com/2024/4/12/24128511/roku-2nd-breach-credential-stuffing-hack)
- - [Chinese-owned Dutch chipmaker Nexperia is investigating a breach in March; report: customer data of companies including Apple, Huawei, and SpaceX was stolen &lpar;Bloomberg&rpar;](http://www.techmeme.com/240412/p17#a240412p17)<!-- TECH:END -->
+ - [Roku hit with second major breach of 2024, this time affecting 576,000 users](https://www.theverge.com/2024/4/12/24128511/roku-2nd-breach-credential-stuffing-hack)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

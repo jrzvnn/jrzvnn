@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Scared the straightness outta him](http://9gag.com/gag/aE0v8KK)
- - 😝 [Mark my words...](http://9gag.com/gag/an7q4xz)
- - 💣 [Hot girls only](http://9gag.com/gag/aNDrgG0)
  - 😝 [That&#39;s why I always drink tap water.](http://9gag.com/gag/a9ybn3j)
- - 👉 [The Usual Burden On All Societies](http://9gag.com/gag/avypzBb)<!-- MEMES:END -->
+ - 😝 [If it isn&#39;t the consequences of my own actions](http://9gag.com/gag/aRBw7y5)
+ - 💣 [Mark my words...](http://9gag.com/gag/an7q4xz)
+ - 😝 [The Usual Burden On All Societies](http://9gag.com/gag/avypzBb)
+ - 👉 [Ghost fart. Thousand of people die every year because ot it.](http://9gag.com/gag/amoNB7V)<!-- MEMES:END -->
 
 ---
 

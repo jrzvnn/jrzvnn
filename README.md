@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ford’s hands-free BlueCruise comes under scrutiny after fatal crash](https://www.theverge.com/2024/4/12/24128349/ford-hands-free-bluecruise-fatal-crash-texas-ntsb)
+ - [4TB SD cards are arriving in 2025 for your cameras and laptops](https://www.theverge.com/2024/4/12/24128325/4tb-sd-card-western-digital-camera-laptops-storage)
+ - [Deals: Apple&#39;s M3 MacBook Pro 14-inch with 1TB storage drops to $1,799](https://appleinsider.com/articles/24/04/12/deals-apples-m3-macbook-pro-14-inch-1tb-drops-to-1799?utm_medium=rss)
  - [South Korea will host the second global AI safety summit on May 21-22, six months after the UK held the inaugural event at Bletchley Park &lpar;Martin Coulter/Reuters&rpar;](http://www.techmeme.com/240412/p11#a240412p11)
- - [Apple health study proves anybody can run a marathon -- given enough time](https://appleinsider.com/articles/24/04/12/apple-health-study-proves-anybody-can-run-a-marathon----given-enough-time?utm_medium=rss)
- - [China is planning to ‘rip and replace’ Intel and AMD chips](https://www.theverge.com/2024/4/12/24128342/china-intel-amd-chips-telecom-providers-ban)
- - [Berachain, a bear-themed crypto project building a Layer 1 blockchain, raised a $100M Series B through a SAFT, a simple agreement for future tokens &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/240412/p10#a240412p10)
- - [Inside the quest to finish Super Mario Maker’s disappearing levels](https://www.theverge.com/2024/4/12/24127340/super-mario-maker-nintendo-wii-u-shutdown)<!-- TECH:END -->
+ - [Apple health study proves anybody can run a marathon -- given enough time](https://appleinsider.com/articles/24/04/12/apple-health-study-proves-anybody-can-run-a-marathon----given-enough-time?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

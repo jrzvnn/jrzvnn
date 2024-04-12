@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best smartphone you can buy for under $500](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
  - [Star Trek: Strange New Worlds has been renewed for a fourth season](https://www.theverge.com/2024/4/12/24128744/star-trek-strange-new-worlds-season-4-lower-decks-cancelled)
  - [Game publisher blames media for studio closure](https://www.theverge.com/2024/4/12/24128629/prytania-media-possibility-space-shut-down-kotaku-report)
  - [Samsung Galaxy Z Fold5 &lpar;256GB&rpar;     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-z-fold5-256gb-dpnl/#ftag=CAD590a51e)
- - [Ultra 5.1-Channel Theater System     - CNET](https://www.cnet.com/tech/home-entertainment/ultra-5-1-channel-theater-system-dpnl/#ftag=CAD590a51e)
- - [After Writing About Hundreds of Credit Cards, These Two Are Still My Favorite     - CNET](https://www.cnet.com/personal-finance/im-a-credit-card-editor-and-these-two-cards-are-the-backbone-of-my-wallet/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ultra 5.1-Channel Theater System     - CNET](https://www.cnet.com/tech/home-entertainment/ultra-5-1-channel-theater-system-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A UK judge throws out Apple&#39;s motion to dismiss a $979M lawsuit representing more than 1,500 developers alleging that App Store&#39;s 30% commission is unfair &lpar;Reuters&rpar;](http://www.techmeme.com/240412/p5#a240412p5)
+ - [Spotify is developing a remix feature to rival sped-up TikTok tunes](https://www.theverge.com/2024/4/12/24128218/spotify-music-remix-feature-sped-up-tiktok-songs)
  - [Apple Vision Pro Black eyes, dinosaurs, and Apple&#39;s mastery of logistics on the AppleInsider Podcast](https://appleinsider.com/articles/24/04/12/apple-vision-pro-black-eyes-dinosaurs-and-apples-mastery-of-logistics-on-the-appleinsider-podcast?utm_medium=rss)
  - [The More People Say &#39;Megalopolis&#39; Is Unsellable, the More We Need to See It](https://www.wired.com/story/the-quest-to-save-megalopolis-starts-now/)
- - [Bop Along and Save Up to $30 Off Your New Apple HomePod Smart Speaker     - CNET](https://www.cnet.com/deals/bop-along-and-save-up-to-30-off-your-new-apple-homepod-smart-speaker/#ftag=CAD590a51e)
- - [I Tried Too Good to Go for a Week: Here&#39;s What I Ate and How Much I Saved     - CNET](https://www.cnet.com/news/i-tried-too-good-to-go-for-a-week-heres-what-i-ate-and-how-much-i-saved/#ftag=CAD590a51e)
- - [&#39;Civil War&#39; Review: Alex Garland Plays Both Sides](https://www.wired.com/story/review-the-troubling-politics-of-alex-garlands-civil-war/)<!-- TECH:END -->
+ - [Bop Along and Save Up to $30 Off Your New Apple HomePod Smart Speaker     - CNET](https://www.cnet.com/deals/bop-along-and-save-up-to-30-off-your-new-apple-homepod-smart-speaker/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

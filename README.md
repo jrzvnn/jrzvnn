@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [New Zealand&#39;s Department of Conservation spend 8 months and $500,000 &lpar;around 300,000USD&rpar; to track down kill this single stoat.](http://9gag.com/gag/a0e8ZyZ)
- - 😝 [Progressive Public Transport In Europe](http://9gag.com/gag/aVvzbDw)
- - 💣 [This explains the situation perfectly....](http://9gag.com/gag/aVvz74d)
- - 😝 [Rachel Weisz and Patricia Velasquez 25 years after The Mummy 1999](http://9gag.com/gag/aGyYE2n)
- - 👉 [Bad experience?](http://9gag.com/gag/aByRmoQ)<!-- MEMES:END -->
+ - 😝 [This explains the situation perfectly....](http://9gag.com/gag/aVvz74d)
+ - 😝 [Sunlight peeking through the Twin Towers; You can see the steel core containing the stairs and elevators.](http://9gag.com/gag/aqy9G1P)
+ - 💣 [When bro layed down the pipe so hard that it fixed her disablement.](http://9gag.com/gag/a2vz7wd)
+ - 😝 [Could\u2019ve lived without possibly knowing this is a thing](http://9gag.com/gag/aZZbr4n)
+ - 👉 [Stop the discrimination and shop at 7-11 ..](http://9gag.com/gag/aYQNrm7)<!-- MEMES:END -->
 
 ---
 

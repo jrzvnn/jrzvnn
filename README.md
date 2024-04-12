@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [At first we laughed. Then it became reality](http://9gag.com/gag/agm3ozW)
- - 😝 [Never trust google maps](http://9gag.com/gag/agm3oR1)
- - 💣 [RIP Nordberg](http://9gag.com/gag/awy0ZvW)
- - 😝 [Progressive Public Transport In Europe](http://9gag.com/gag/aVvzbDw)
- - 👉 [Should stay longer in school](http://9gag.com/gag/aXP0nKP)<!-- MEMES:END -->
+ - 😝 [Mark my words...](http://9gag.com/gag/an7q4xz)
+ - 😝 [That&#39;s why I always drink tap water.](http://9gag.com/gag/a9ybn3j)
+ - 💣 [One of the biggest what if in NBA](http://9gag.com/gag/abAXVWX)
+ - 😝 [New Zealand&#39;s Department of Conservation spend 8 months and $500,000 &lpar;around 300,000USD&rpar; to track down kill this single stoat.](http://9gag.com/gag/a0e8ZyZ)
+ - 👉 [Stop the discrimination and shop at 7-11 ..](http://9gag.com/gag/aYQNrm7)<!-- MEMES:END -->
 
 ---
 

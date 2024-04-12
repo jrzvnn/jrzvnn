@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Progressive Public Transport In Europe](http://9gag.com/gag/aVvzbDw)
- - 😝 [If it isn&#39;t the consequences of my own actions](http://9gag.com/gag/aRBw7y5)
- - 💣 [The Usual Burden On All Societies](http://9gag.com/gag/avypzBb)
  - 😝 [Ah yes this is such a good spot to stand and chill](http://9gag.com/gag/aNDrgX4)
- - 👉 [This explains the situation perfectly....](http://9gag.com/gag/aVvz74d)<!-- MEMES:END -->
+ - 😝 [Mark my words...](http://9gag.com/gag/an7q4xz)
+ - 💣 [Progressive Public Transport In Europe](http://9gag.com/gag/aVvzbDw)
+ - 😝 [Hot girls only](http://9gag.com/gag/aNDrgG0)
+ - 👉 [American psycho](http://9gag.com/gag/a9ybRMo)<!-- MEMES:END -->
 
 ---
 

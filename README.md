@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [North Koreans running into the water to reach Kim Jong Un&#39;s boat](http://9gag.com/gag/aVvzYm8)
- - 😝 [Hot girls only](http://9gag.com/gag/aNDrgG0)
- - 💣 [The Usual Burden On All Societies](http://9gag.com/gag/avypzBb)
- - 😝 [This explains the situation perfectly....](http://9gag.com/gag/aVvz74d)
- - 👉 [If it isn&#39;t the consequences of my own actions](http://9gag.com/gag/aRBw7y5)<!-- MEMES:END -->
+ - 😝 [Mark my words...](http://9gag.com/gag/an7q4xz)
+ - 😝 [The Usual Burden On All Societies](http://9gag.com/gag/avypzBb)
+ - 💣 [That hug tho.](http://9gag.com/gag/a7oLWrb)
+ - 😝 [If it isn&#39;t the consequences of my own actions](http://9gag.com/gag/aRBw7y5)
+ - 👉 [When bro layed down the pipe so hard that it fixed her disablement.](http://9gag.com/gag/a2vz7wd)<!-- MEMES:END -->
 
 ---
 

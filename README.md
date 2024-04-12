@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Can You Really Run on Top of a Train, Like in the Movies?](https://www.wired.com/story/can-you-really-run-on-top-of-a-train/)
  - [A profile of Mistral AI CEO Arthur Mensch, who says, as an atheist, he is uncomfortable with Silicon Valley&#39;s &quot;AGI rhetoric&quot; and &quot;religious&quot; fascination with AI &lpar;New York Times&rpar;](http://www.techmeme.com/240412/p8#a240412p8)
  - [Sennheiser Momentum True Wireless 4 Review: Big but Still Beautiful](https://www.wired.com/review/sennheiser-momentum-true-wireless-4/)
  - [The good, the bad, and the Humane Pin](https://www.theverge.com/24128273/humane-ai-pin-review-taylor-swift-tiktok-openai-vergecast)
- - [Sources: Sam Altman and other OpenAI executives pitched ChatGPT Enterprise to hundreds of Fortune 500 companies this month, including some Microsoft customers &lpar;Reuters&rpar;](http://www.techmeme.com/240412/p7#a240412p7)
- - [Tech Leaders Once Cried for AI Regulation. Now the Message Is ‘Slow Down’](https://www.wired.com/story/tech-ai-regulation-bill/)<!-- TECH:END -->
+ - [Sources: Sam Altman and other OpenAI executives pitched ChatGPT Enterprise to hundreds of Fortune 500 companies this month, including some Microsoft customers &lpar;Reuters&rpar;](http://www.techmeme.com/240412/p7#a240412p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

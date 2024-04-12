@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ah yes this is such a good spot to stand and chill](http://9gag.com/gag/aNDrgX4)
- - 😝 [Mark my words...](http://9gag.com/gag/an7q4xz)
- - 💣 [Progressive Public Transport In Europe](http://9gag.com/gag/aVvzbDw)
- - 😝 [Hot girls only](http://9gag.com/gag/aNDrgG0)
- - 👉 [American psycho](http://9gag.com/gag/a9ybRMo)<!-- MEMES:END -->
+ - 😝 [Becoming a genious because of a lack of self discipline](http://9gag.com/gag/ayN72My)
+ - 😝 [A meme in its natural habitat.](http://9gag.com/gag/a9yb1X6)
+ - 💣 [How much would you spend for the models? Prada : Yes.](http://9gag.com/gag/a0e87gB)
+ - 😝 [Ha! G](http://9gag.com/gag/aMV244X)
+ - 👉 [Cursed mario cart.](http://9gag.com/gag/aByRdWN)<!-- MEMES:END -->
 
 ---
 

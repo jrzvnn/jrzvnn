@@ -169,8 +169,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Tesla slashes price for monthly Full Self-Driving subscription](https://www.theverge.com/2024/4/12/24128806/tesla-fsd-subscription-price-cut)
  - [Tesla drops the price of its Full Self-Driving software subscription, which the company now calls FSD &lpar;Supervised&rpar;, from $199 per month to $99 per month &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/240412/p23#a240412p23)
  - [Japanese man arrested for allegedly hacking Pokémon game to sell custom monsters](https://www.theverge.com/2024/4/12/24128720/pokemon-hacking-arrest-japan-scarlet-violet)
- - [The best smartphone you can buy for under $500](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
- - [Star Trek: Strange New Worlds has been renewed for a fourth season](https://www.theverge.com/2024/4/12/24128744/star-trek-strange-new-worlds-season-4-lower-decks-cancelled)<!-- TECH:END -->
+ - [Biden Administration Cancels Another $7.4 Billion In Student Loan Debt. Are You Eligible for Relief?     - CNET](https://www.cnet.com/personal-finance/loans/biden-administration-cancels-another-7-4-billion-in-student-loan-debt-are-you-eligible-for-relief/#ftag=CAD590a51e)
+ - [The best smartphone you can buy for under $500](https://www.theverge.com/21420196/best-budget-smartphone-cheap)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

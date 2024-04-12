@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wearing black and walking in the middle of the road in the dark. What could go wrong?](http://9gag.com/gag/aByRn3D)
- - 😝 [WCGW crossing a collapsing road](http://9gag.com/gag/aO8K7eE)
- - 💣 [Crazy](http://9gag.com/gag/aGyYZbG)
- - 😝 [Mark my words...](http://9gag.com/gag/an7q4xz)
- - 👉 [He can finally rest knowing his wifes killer is dead](http://9gag.com/gag/abAXVmb)<!-- MEMES:END -->
+ - 😝 [Conversation in 2024. be like](http://9gag.com/gag/aRBw757)
+ - 😝 [He Was A Good Boy And Good Boys Shoots After The Cops When They&#39;re Being Asked To Step Out Of The Car](http://9gag.com/gag/aE0vpGK)
+ - 💣 [That&#39;s why I always drink tap water.](http://9gag.com/gag/a9ybn3j)
+ - 😝 [CANDYLION](http://9gag.com/gag/a7oLWEz)
+ - 👉 [American psycho](http://9gag.com/gag/a9ybRMo)<!-- MEMES:END -->
 
 ---
 

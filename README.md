@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bad experience?](http://9gag.com/gag/aByRmoQ)
- - 😝 [This explains the situation perfectly....](http://9gag.com/gag/aVvz74d)
- - 💣 [Stop the discrimination and shop at 7-11 ..](http://9gag.com/gag/aYQNrm7)
- - 😝 [The Usual Burden On All Societies](http://9gag.com/gag/avypzBb)
- - 👉 [That&#39;s why I always drink tap water.](http://9gag.com/gag/a9ybn3j)<!-- MEMES:END -->
+ - 😝 [At first we laughed. Then it became reality](http://9gag.com/gag/agm3ozW)
+ - 😝 [Should stay longer in school](http://9gag.com/gag/aXP0nKP)
+ - 💣 [RIP Nordberg](http://9gag.com/gag/awy0ZvW)
+ - 😝 [Scared the straightness outta him](http://9gag.com/gag/aE0v8KK)
+ - 👉 [When bro layed down the pipe so hard that it fixed her disablement.](http://9gag.com/gag/a2vz7wd)<!-- MEMES:END -->
 
 ---
 

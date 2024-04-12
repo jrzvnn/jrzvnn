@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Civil War&#39; Review: Alex Garland Plays Both Sides](https://www.wired.com/story/review-the-troubling-politics-of-alex-garlands-civil-war/)
- - [All of the specs of the iPhone SE 4 may have just been leaked](https://appleinsider.com/articles/24/04/12/all-of-the-specs-of-the-iphone-se-4-may-have-just-been-leaked?utm_medium=rss)
- - [Apple Music Review: High-Quality Music, Minimum Frills     - CNET](https://www.cnet.com/tech/services-and-software/apple-music-review-high-quality-music-minimum-frills/#ftag=CAD590a51e)
- - [Before iOS 17.5 Is Released, You Should Really Update to iOS 17.4.1     - CNET](https://www.cnet.com/tech/services-and-software/before-ios-17-5-is-released-you-should-really-update-to-ios-17-4-1/#ftag=CAD590a51e)
- - [iOS 17.4: Improve Your iPhone&#39;s Stolen Device Protection in 5 Easy Steps     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-4-improve-your-iphones-stolen-device-protection-in-5-easy-steps/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Vision Pro Black eyes, dinosaurs, and Apple&#39;s mastery of logistics on the AppleInsider Podcast](https://appleinsider.com/articles/24/04/12/apple-vision-pro-black-eyes-dinosaurs-and-apples-mastery-of-logistics-on-the-appleinsider-podcast?utm_medium=rss)
+ - [The More People Say &#39;Megalopolis&#39; Is Unsellable, the More We Need to See It](https://www.wired.com/story/the-quest-to-save-megalopolis-starts-now/)
+ - [Bop Along and Save Up to $30 Off Your New Apple HomePod Smart Speaker     - CNET](https://www.cnet.com/deals/bop-along-and-save-up-to-30-off-your-new-apple-homepod-smart-speaker/#ftag=CAD590a51e)
+ - [I Tried Too Good to Go for a Week: Here&#39;s What I Ate and How Much I Saved     - CNET](https://www.cnet.com/news/i-tried-too-good-to-go-for-a-week-heres-what-i-ate-and-how-much-i-saved/#ftag=CAD590a51e)
+ - [&#39;Civil War&#39; Review: Alex Garland Plays Both Sides](https://www.wired.com/story/review-the-troubling-politics-of-alex-garlands-civil-war/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

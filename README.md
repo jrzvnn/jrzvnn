@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Berachain, a bear-themed crypto project building a Layer 1 blockchain, raised a $100M Series B through a SAFT, a simple agreement for future tokens &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/240412/p10#a240412p10)
+ - [Inside the quest to finish Super Mario Maker’s disappearing levels](https://www.theverge.com/2024/4/12/24127340/super-mario-maker-nintendo-wii-u-shutdown)
  - [Sources: StubHub aims to go public by late summer but may call off the listing if it can&#39;t get close to the $16.5B valuation from a funding round in 2021 &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/240412/p9#a240412p9)
  - [A popular open-source content delivery network went down for hours](https://www.theverge.com/2024/4/12/24128276/open-source-unpkg-cdn-down)
- - [Can You Really Run on Top of a Train, Like in the Movies?](https://www.wired.com/story/can-you-really-run-on-top-of-a-train/)
- - [A profile of Mistral AI CEO Arthur Mensch, who says, as an atheist, he is uncomfortable with Silicon Valley&#39;s &quot;AGI rhetoric&quot; and &quot;religious&quot; fascination with AI &lpar;New York Times&rpar;](http://www.techmeme.com/240412/p8#a240412p8)
- - [Sennheiser Momentum True Wireless 4 Review: Big but Still Beautiful](https://www.wired.com/review/sennheiser-momentum-true-wireless-4/)<!-- TECH:END -->
+ - [Can You Really Run on Top of a Train, Like in the Movies?](https://www.wired.com/story/can-you-really-run-on-top-of-a-train/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

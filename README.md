@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple health study proves anybody can run a marathon -- given enough time](https://appleinsider.com/articles/24/04/12/apple-health-study-proves-anybody-can-run-a-marathon----given-enough-time?utm_medium=rss)
+ - [China is planning to ‘rip and replace’ Intel and AMD chips](https://www.theverge.com/2024/4/12/24128342/china-intel-amd-chips-telecom-providers-ban)
  - [Berachain, a bear-themed crypto project building a Layer 1 blockchain, raised a $100M Series B through a SAFT, a simple agreement for future tokens &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/240412/p10#a240412p10)
  - [Inside the quest to finish Super Mario Maker’s disappearing levels](https://www.theverge.com/2024/4/12/24127340/super-mario-maker-nintendo-wii-u-shutdown)
- - [Best CD Rates Today: Act Now to Score an APY as High as 5.35%, April 12, 2024     - CNET](https://www.cnet.com/personal-finance/best-cd-rates-today-act-now-to-score-an-apy-as-high-as-5-35-april-12-2024/#ftag=CAD590a51e)
- - [Refinance Options Aren&#39;t Great for Homeowners: Mortgage Refinance Rates for April 12, 2024     - CNET](https://www.cnet.com/personal-finance/mortgage-refinance-rates-move-higher-mortgage-refinance-rates-for-april-12-2024/#ftag=CAD590a51e)
- - [Should Homebuyers Expect Even More Volatile Mortgage Rates? Mortgage Rates for April 12, 2024     - CNET](https://www.cnet.com/personal-finance/mortgage-rates-go-up-for-homeseekers-mortgage-interest-rates-for-april-12-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best CD Rates Today: Act Now to Score an APY as High as 5.35%, April 12, 2024     - CNET](https://www.cnet.com/personal-finance/best-cd-rates-today-act-now-to-score-an-apy-as-high-as-5-35-april-12-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

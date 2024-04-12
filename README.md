@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Crazy](http://9gag.com/gag/aGyYZbG)
- - 😝 [IAATPOS for being a thief\u2026.](http://9gag.com/gag/amoNPpv)
- - 💣 [This explains the situation perfectly....](http://9gag.com/gag/aVvz74d)
- - 😝 [If it isn&#39;t the consequences of my own actions](http://9gag.com/gag/aRBw7y5)
- - 👉 [Mark my words...](http://9gag.com/gag/an7q4xz)<!-- MEMES:END -->
+ - 😝 [Hot girls only](http://9gag.com/gag/aNDrgG0)
+ - 😝 [The Usual Burden On All Societies](http://9gag.com/gag/avypzBb)
+ - 💣 [A friend of mine had a vasectomy and his wife is pregnant](http://9gag.com/gag/aGyYd6n)
+ - 😝 [Pit bull owner lets dog bite man while they laugh](http://9gag.com/gag/an7q5ME)
+ - 👉 [That hug tho.](http://9gag.com/gag/a7oLWrb)<!-- MEMES:END -->
 
 ---
 

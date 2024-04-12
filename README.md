@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Scared the straightness outta him](http://9gag.com/gag/aE0v8KK)
- - 😝 [Peek a boo](http://9gag.com/gag/aO8KY4v)
- - 💣 [This explains the situation perfectly....](http://9gag.com/gag/aVvz74d)
  - 😝 [Mark my words...](http://9gag.com/gag/an7q4xz)
- - 👉 [Stop the discrimination and shop at 7-11 ..](http://9gag.com/gag/aYQNrm7)<!-- MEMES:END -->
+ - 💣 [Hot girls only](http://9gag.com/gag/aNDrgG0)
+ - 😝 [That&#39;s why I always drink tap water.](http://9gag.com/gag/a9ybn3j)
+ - 👉 [The Usual Burden On All Societies](http://9gag.com/gag/avypzBb)<!-- MEMES:END -->
 
 ---
 

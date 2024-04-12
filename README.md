@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Virtual physical therapy service Hinge Health lays off ~10% of its workforce; Hinge had an estimated 1,700+ employees, and was valued at $6.2B in October 2021 &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/240411/p33#a240411p33)
+ - [Best Internet Providers in Poughkeepsie, New York     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-poughkeepsie-ny/#ftag=CAD590a51e)
  - [X tells users &quot;the hide your checkmark feature of X Premium is going away soon&quot;, after X began adding blue checks to &quot;influential&quot; users with 2,500+ followers &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/240411/p32#a240411p32)
- - [CISA is investigating a breach at business intelligence company Sisense; sources: the attackers copied several terabytes of customer data, including credentials &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/240411/p31#a240411p31)
- - [Discord is nuking Nintendo Switch emulator devs and their entire servers](https://www.theverge.com/2024/4/11/24127545/discord-suyu-sudachi-server-shutdown-account-ban)
- - [Self Cleaning Litter Box     - CNET](https://www.cnet.com/home/kitchen-and-household/self-cleaning-litter-box2-dpnl/#ftag=CAD590a51e)
- - [Taylor Swift’s Music Is Back on TikTok—Right Before Her New Album Drops](https://www.wired.com/story/taylor-swift-is-back-on-tiktok/)<!-- TECH:END -->
+ - [Blue Raven Solar Review: A Strong Reputation for Solar Satisfaction     - CNET](https://www.cnet.com/home/energy-and-utilities/blue-raven-solar-review/#ftag=CAD590a51e)
+ - [Ring Battery Doorbell Pro Review: A Little Large and &lpar;Mostly&rpar; in Charge     - CNET](https://www.cnet.com/home/security/ring-battery-doorbell-pro-review-a-little-large-and-mostly-in-charge/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Police retreat from Islamic mob. London is officially a No-Go zone.](http://9gag.com/gag/aQzPRO2)
- - 😝 [WCGW crossing a collapsing road](http://9gag.com/gag/aO8K7eE)
- - 💣 [North Koreans running into the water to reach Kim Jong Un&#39;s boat](http://9gag.com/gag/aVvzYm8)
- - 😝 [Stop the discrimination and shop at 7-11 ..](http://9gag.com/gag/aYQNrm7)
- - 👉 [The leader of Hamas hear the news regarding his 3 sons killed in Gaza. This is the face of Hamas - being casual about the death of your children, blessing god. Remember this the next time Hamas wines about the death of children.](http://9gag.com/gag/aAyRgB2)<!-- MEMES:END -->
+ - 😝 [North Koreans running into the water to reach Kim Jong Un&#39;s boat](http://9gag.com/gag/aVvzYm8)
+ - 😝 [Hot girls only](http://9gag.com/gag/aNDrgG0)
+ - 💣 [The Usual Burden On All Societies](http://9gag.com/gag/avypzBb)
+ - 😝 [This explains the situation perfectly....](http://9gag.com/gag/aVvz74d)
+ - 👉 [If it isn&#39;t the consequences of my own actions](http://9gag.com/gag/aRBw7y5)<!-- MEMES:END -->
 
 ---
 

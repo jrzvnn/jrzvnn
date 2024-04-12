@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [That hug tho.](http://9gag.com/gag/a7oLWrb)
+ - 😝 [CANDYLION](http://9gag.com/gag/a7oLWEz)
+ - 💣 [This explains the situation perfectly....](http://9gag.com/gag/aVvz74d)
  - 😝 [He can finally rest knowing his wifes killer is dead](http://9gag.com/gag/abAXVmb)
- - 😝 [A question for the mens](http://9gag.com/gag/aVvzYR2)
- - 💣 [North Koreans running into the water to reach Kim Jong Un&#39;s boat](http://9gag.com/gag/aVvzYm8)
- - 😝 [When the beat is a banger\u2026](http://9gag.com/gag/axyd93L)
- - 👉 [This explains the situation perfectly....](http://9gag.com/gag/aVvz74d)<!-- MEMES:END -->
+ - 👉 [Ghost fart. Thousand of people die every year because ot it.](http://9gag.com/gag/amoNB7V)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How much would you spend for the models? Prada : Yes.](http://9gag.com/gag/a0e87gB)
- - 😝 [A meme in its natural habitat.](http://9gag.com/gag/a9yb1X6)
- - 💣 [Becoming a genious because of a lack of self discipline](http://9gag.com/gag/ayN72My)
- - 😝 [Every time I think that I might go too far, they always prove me wrong.](http://9gag.com/gag/aPAwgRg)
- - 👉 [Ha! G](http://9gag.com/gag/aMV244X)<!-- MEMES:END -->
+ - 😝 [Stop the discrimination and shop at 7-11 ..](http://9gag.com/gag/aYQNrm7)
+ - 😝 [This explains the situation perfectly....](http://9gag.com/gag/aVvz74d)
+ - 💣 [Hot girls only](http://9gag.com/gag/aNDrgG0)
+ - 😝 [The Usual Burden On All Societies](http://9gag.com/gag/avypzBb)
+ - 👉 [When bro layed down the pipe so hard that it fixed her disablement.](http://9gag.com/gag/a2vz7wd)<!-- MEMES:END -->
 
 ---
 

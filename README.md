@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [With the Vision Pro’s Spatial Personas, you can be lonely with friends](https://www.theverge.com/2024/4/12/24128703/apple-vision-pro-spatial-personas-loneliness)
- - [Palo Alto Networks alerts customers that hackers are exploiting a zero-day in its popular GlobalProtect VPN product and promises a patch by April 14 &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/240412/p22#a240412p22)
- - [House Votes to Extend—and Expand—a Major US Spy Program](https://www.wired.com/story/house-section-702-vote/)
- - [What Is an IRS Audit and Who Gets Audited? What You Need to Know     - CNET](https://www.cnet.com/personal-finance/taxes/what-is-an-irs-audit-and-who-gets-audited-what-you-need-to-know/#ftag=CAD590a51e)
- - [As Meta lowers the minimum age for WhatsApp users from 16 to 13 in the UK and EU, after announcing the move in February, child safety groups criticize the move &lpar;Jamie Grierson/The Guardian&rpar;](http://www.techmeme.com/240412/p21#a240412p21)<!-- TECH:END -->
+ - [Samsung Galaxy Z Fold5 &lpar;256GB&rpar;     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-z-fold5-256gb-dpnl/#ftag=CAD590a51e)
+ - [Ultra 5.1-Channel Theater System     - CNET](https://www.cnet.com/tech/home-entertainment/ultra-5-1-channel-theater-system-dpnl/#ftag=CAD590a51e)
+ - [After Writing About Hundreds of Credit Cards, These Two Are Still My Favorite     - CNET](https://www.cnet.com/personal-finance/im-a-credit-card-editor-and-these-two-cards-are-the-backbone-of-my-wallet/#ftag=CAD590a51e)
+ - [The Apple Vision Pro Costs More Than Your Mortgage Payment. Here&#39;s How to Afford It     - CNET](https://www.cnet.com/personal-finance/credit-cards/the-apple-vision-pro-costs-more-than-your-mortgage-payment-heres-how-to-afford-it/#ftag=CAD590a51e)
+ - [MacBook Air 13&quot; &lpar;2024&rpar;     - CNET](https://www.cnet.com/tech/computing/macbook-air-13-2024-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

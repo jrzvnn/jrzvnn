@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [IAATPOS for being a thief\u2026.](http://9gag.com/gag/amoNPpv)
  - 😝 [O.J. Simpson juror casually admitting that 90% of them knew he kiIIed Nicole and Ron, but let him off for revenge:](http://9gag.com/gag/a87L113)
- - 💣 [Crazy](http://9gag.com/gag/aGyYZbG)
- - 😝 [The Usual Burden On All Societies](http://9gag.com/gag/avypzBb)
- - 👉 [This explains the situation perfectly....](http://9gag.com/gag/aVvz74d)<!-- MEMES:END -->
+ - 😝 [Is that true? \ud83e\udd14](http://9gag.com/gag/aNDrY5A)
+ - 💣 [Mark my words...](http://9gag.com/gag/an7q4xz)
+ - 😝 [Scared the straightness outta him](http://9gag.com/gag/aE0v8KK)
+ - 👉 [Ghost fart. Thousand of people die every year because ot it.](http://9gag.com/gag/amoNB7V)<!-- MEMES:END -->
 
 ---
 

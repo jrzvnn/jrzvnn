@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [At first we laughed. Then it became reality](http://9gag.com/gag/agm3ozW)
- - 😝 [Should stay longer in school](http://9gag.com/gag/aXP0nKP)
- - 💣 [RIP Nordberg](http://9gag.com/gag/awy0ZvW)
- - 😝 [Scared the straightness outta him](http://9gag.com/gag/aE0v8KK)
- - 👉 [When bro layed down the pipe so hard that it fixed her disablement.](http://9gag.com/gag/a2vz7wd)<!-- MEMES:END -->
+ - 😝 [If it isn&#39;t the consequences of my own actions](http://9gag.com/gag/aRBw7y5)
+ - 😝 [This explains the situation perfectly....](http://9gag.com/gag/aVvz74d)
+ - 💣 [When bro layed down the pipe so hard that it fixed her disablement.](http://9gag.com/gag/a2vz7wd)
+ - 😝 [That&#39;s why I always drink tap water.](http://9gag.com/gag/a9ybn3j)
+ - 👉 [Progressive Public Transport In Europe](http://9gag.com/gag/aVvzbDw)<!-- MEMES:END -->
 
 ---
 

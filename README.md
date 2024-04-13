@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best childhood memories](http://9gag.com/gag/a34PGdv)
- - 😝 [No title here](http://9gag.com/gag/a5QeXRL)
- - 💣 [Traveling abroad soon and had to watch this video, again.](http://9gag.com/gag/adB0g3j)
+ - 😝 [Traveling abroad soon and had to watch this video, again.](http://9gag.com/gag/adB0g3j)
  - 😝 [Guess the country](http://9gag.com/gag/aoyEW6x)
- - 👉 [Terrorist attack at Bondi Junction, 6 casualties including a baby](http://9gag.com/gag/a7oL8pm)<!-- MEMES:END -->
+ - 💣 [Accusing someone of being racist while being racist yourself\u2026](http://9gag.com/gag/aByRynN)
+ - 😝 [Best childhood memories](http://9gag.com/gag/a34PGdv)
+ - 👉 [Insalah](http://9gag.com/gag/aQzPXoe)<!-- MEMES:END -->
 
 ---
 

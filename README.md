@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When bro layed down the pipe so hard that it fixed her disablement.](http://9gag.com/gag/a2vz7wd)
  - 😝 [Best childhood memories](http://9gag.com/gag/a34PGdv)
- - 💣 [Insalah](http://9gag.com/gag/aQzPXoe)
- - 😝 [Traveling abroad soon and had to watch this video, again.](http://9gag.com/gag/adB0g3j)
- - 👉 [Guess the country](http://9gag.com/gag/aoyEW6x)<!-- MEMES:END -->
+ - 😝 [No title here](http://9gag.com/gag/a5QeXRL)
+ - 💣 [Traveling abroad soon and had to watch this video, again.](http://9gag.com/gag/adB0g3j)
+ - 😝 [Guess the country](http://9gag.com/gag/aoyEW6x)
+ - 👉 [Terrorist attack at Bondi Junction, 6 casualties including a baby](http://9gag.com/gag/a7oL8pm)<!-- MEMES:END -->
 
 ---
 

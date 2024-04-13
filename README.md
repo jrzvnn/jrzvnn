@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stop the discrimination and shop at 7-11 ..](http://9gag.com/gag/aYQNrm7)
- - 😝 [Old but you are welcome you racist sons of b*tches! See you tomorrow!](http://9gag.com/gag/a5QeQgO)
- - 💣 [Guess the country](http://9gag.com/gag/aoyEW6x)
- - 😝 [One of the biggest what if in NBA](http://9gag.com/gag/abAXVWX)
- - 👉 [In today&#39;s episode of women](http://9gag.com/gag/an7qOPn)<!-- MEMES:END -->
+ - 😝 [Traveling abroad soon and had to watch this video, again.](http://9gag.com/gag/adB0g3j)
+ - 😝 [Guess the country](http://9gag.com/gag/aoyEW6x)
+ - 💣 [Stop the discrimination and shop at 7-11 ..](http://9gag.com/gag/aYQNrm7)
+ - 😝 [Insalah](http://9gag.com/gag/aQzPXoe)
+ - 👉 [Old but you are welcome you racist sons of b*tches! See you tomorrow!](http://9gag.com/gag/a5QeQgO)<!-- MEMES:END -->
 
 ---
 

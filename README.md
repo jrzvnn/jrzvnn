@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guess the country](http://9gag.com/gag/aoyEW6x)
+ - 😝 [Could\u2019ve lived without possibly knowing this is a thing](http://9gag.com/gag/aZZbr4n)
  - 😝 [Insalah](http://9gag.com/gag/aQzPXoe)
- - 💣 [In today&#39;s episode of women](http://9gag.com/gag/an7qOPn)
- - 😝 [Best childhood memories](http://9gag.com/gag/a34PGdv)
- - 👉 [Accusing someone of being racist while being racist yourself\u2026](http://9gag.com/gag/aByRynN)<!-- MEMES:END -->
+ - 💣 [Old but you are welcome you racist sons of b*tches! See you tomorrow!](http://9gag.com/gag/a5QeQgO)
+ - 😝 [Traveling abroad soon and had to watch this video, again.](http://9gag.com/gag/adB0g3j)
+ - 👉 [Al Ittihad `fan` whips player](http://9gag.com/gag/aGyYEy7)<!-- MEMES:END -->
 
 ---
 

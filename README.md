@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Terrorist attack at Bondi Junction, 6 casualties including a baby](http://9gag.com/gag/a7oL8pm)
- - 😝 [Traveling abroad soon and had to watch this video, again.](http://9gag.com/gag/adB0g3j)
- - 💣 [Insalah](http://9gag.com/gag/aQzPXoe)
- - 😝 [Guess the country](http://9gag.com/gag/aoyEW6x)
- - 👉 [Accusing someone of being racist while being racist yourself\u2026](http://9gag.com/gag/aByRynN)<!-- MEMES:END -->
+ - 😝 [Progressive Public Transport In Europe](http://9gag.com/gag/aVvzbDw)
+ - 😝 [We\u2019re in the wrong multiverse, friends](http://9gag.com/gag/aKGwGbZ)
+ - 💣 [Where do these chinese get the sources of their contents? They look realistic](http://9gag.com/gag/aqy9ePY)
+ - 😝 [People who go to the gym](http://9gag.com/gag/amoNAZX)
+ - 👉 [In today&#39;s episode of women](http://9gag.com/gag/an7qOPn)<!-- MEMES:END -->
 
 ---
 

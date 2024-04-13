@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When bro layed down the pipe so hard that it fixed her disablement.](http://9gag.com/gag/a2vz7wd)
- - 😝 [Harry Potter: JK Rowling suggests she won\u2019t \u2018forgive\u2019 Emma Watson and Daniel Radcliffe for criticising her](http://9gag.com/gag/a9ybngW)
- - 💣 [We\u2019re in the wrong multiverse, friends](http://9gag.com/gag/aKGwGbZ)
- - 😝 [Bad experience?](http://9gag.com/gag/aByRmoQ)
- - 👉 [That&#39;s why I always drink tap water.](http://9gag.com/gag/a9ybn3j)<!-- MEMES:END -->
+ - 😝 [You brought this on yourself](http://9gag.com/gag/aAyRbNL)
+ - 😝 [One of the biggest what if in NBA](http://9gag.com/gag/abAXVWX)
+ - 💣 [Reave immediatery.](http://9gag.com/gag/an7qg20)
+ - 😝 [Could\u2019ve lived without possibly knowing this is a thing](http://9gag.com/gag/aZZbr4n)
+ - 👉 [The Usual Burden On All Societies](http://9gag.com/gag/avypzBb)<!-- MEMES:END -->
 
 ---
 

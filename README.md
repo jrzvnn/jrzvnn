@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is what the driving position of a driver looks like inside a Formula 1 car.](http://9gag.com/gag/a9ybqXo)
- - 😝 [Guess the country](http://9gag.com/gag/aoyEW6x)
- - 💣 [Could\u2019ve lived without possibly knowing this is a thing](http://9gag.com/gag/aZZbr4n)
+ - 😝 [Best childhood memories](http://9gag.com/gag/a34PGdv)
  - 😝 [Terrorist attack at Bondi Junction, 6 casualties including a baby](http://9gag.com/gag/a7oL8pm)
- - 👉 [Make him famous to get faster Internet - 4.5 million times faster than average broadband](http://9gag.com/gag/a0e84AL)<!-- MEMES:END -->
+ - 💣 [Traveling abroad soon and had to watch this video, again.](http://9gag.com/gag/adB0g3j)
+ - 😝 [Al Ittihad `fan` whips player](http://9gag.com/gag/aGyYEy7)
+ - 👉 [Useless talent](http://9gag.com/gag/awy0m04)<!-- MEMES:END -->
 
 ---
 

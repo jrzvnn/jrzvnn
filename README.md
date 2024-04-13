@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Caitlyn Jenner rejoices that OJ is dead. Only to be reminded that she, too, killed someone.](http://9gag.com/gag/aAyRGLd)
- - 😝 [Terrorist attack at Bondi Junction, 6 casualties including a baby](http://9gag.com/gag/a7oL8pm)
- - 💣 [One of the biggest what if in NBA](http://9gag.com/gag/abAXVWX)
+ - 😝 [When bro layed down the pipe so hard that it fixed her disablement.](http://9gag.com/gag/a2vz7wd)
  - 😝 [Best childhood memories](http://9gag.com/gag/a34PGdv)
- - 👉 [Traveling abroad soon and had to watch this video, again.](http://9gag.com/gag/adB0g3j)<!-- MEMES:END -->
+ - 💣 [Insalah](http://9gag.com/gag/aQzPXoe)
+ - 😝 [Traveling abroad soon and had to watch this video, again.](http://9gag.com/gag/adB0g3j)
+ - 👉 [Guess the country](http://9gag.com/gag/aoyEW6x)<!-- MEMES:END -->
 
 ---
 

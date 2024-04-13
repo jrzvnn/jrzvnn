@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You brought this on yourself](http://9gag.com/gag/aAyRbNL)
- - 😝 [One of the biggest what if in NBA](http://9gag.com/gag/abAXVWX)
- - 💣 [Reave immediatery.](http://9gag.com/gag/an7qg20)
- - 😝 [Could\u2019ve lived without possibly knowing this is a thing](http://9gag.com/gag/aZZbr4n)
- - 👉 [The Usual Burden On All Societies](http://9gag.com/gag/avypzBb)<!-- MEMES:END -->
+ - 😝 [WCGW crossing a collapsing road](http://9gag.com/gag/aO8K7eE)
+ - 😝 [That&#39;s why I always drink tap water.](http://9gag.com/gag/a9ybn3j)
+ - 💣 [Bad experience?](http://9gag.com/gag/aByRmoQ)
+ - 😝 [When bro layed down the pipe so hard that it fixed her disablement.](http://9gag.com/gag/a2vz7wd)
+ - 👉 [One of the biggest what if in NBA](http://9gag.com/gag/abAXVWX)<!-- MEMES:END -->
 
 ---
 

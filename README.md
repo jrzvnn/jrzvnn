@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [His 1st and last Dad joke](http://9gag.com/gag/abAXegO)
- - 😝 [Dualshock battery level low.](http://9gag.com/gag/a4PKoMv)
- - 💣 [What I love the most about this guy&#39;s mentality is that he went `this is not my disability, it&#39;s my unique ability` and I think that&#39;s awesome](http://9gag.com/gag/aGyYyon)
+ - 😝 [And get on it now !](http://9gag.com/gag/aD2A2r9)
+ - 😝 [The Fall of European Civilization. Women Being Emotional, Naive And Stupid.](http://9gag.com/gag/aRBwEj7)
+ - 💣 [Dualshock battery level low.](http://9gag.com/gag/a4PKoMv)
  - 😝 [Sir, we don&#39;t use logic and statistics here](http://9gag.com/gag/an7qOxo)
- - 👉 [The Fall of European Civilization. Women Being Emotional, Naive And Stupid.](http://9gag.com/gag/aRBwEj7)<!-- MEMES:END -->
+ - 👉 [His 1st and last Dad joke](http://9gag.com/gag/abAXegO)<!-- MEMES:END -->
 
 ---
 

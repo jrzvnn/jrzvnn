@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Score Lifetime Access to Microsoft Project 2021 for Only $30     - CNET](https://www.cnet.com/deals/score-lifetime-access-to-microsoft-project-2021-for-only-30/#ftag=CAD590a51e)
  - [Bluesky says it is now allowing heads of state to sign up, and adds features including hashtags in profile bios and the ability to long press a link to share &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240413/p9#a240413p9)
+ - [Not Everyone Has to File Taxes on April 15. Here&#39;s Who Gets Extra Time     - CNET](https://www.cnet.com/personal-finance/taxes/not-everyone-has-to-file-taxes-on-april-15-heres-who-gets-extra-time/#ftag=CAD590a51e)
  - [These Key Vitamins Can Help Combat Brain Fog     - CNET](https://www.cnet.com/health/nutrition/key-vitamins-to-combat-brain-fog/#ftag=CAD590a51e)
- - [Fubo Review: Top-Tier for Sports, but Channel Selection Falls Short     - CNET](https://www.cnet.com/tech/services-and-software/fubo-review/#ftag=CAD590a51e)
- - [Apple urges court to ignore Epic&#39;s anti-steering complaint](https://appleinsider.com/articles/24/04/13/apple-urges-court-to-ignore-epics-anti-steering-complaint?utm_medium=rss)
- - [Airchat, Naval Ravikant&#39;s social media app built around audio recordings, which the app transcribes, relaunches on iOS and Android; it is currently invite-only &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/240413/p8#a240413p8)<!-- TECH:END -->
+ - [Fubo Review: Top-Tier for Sports, but Channel Selection Falls Short     - CNET](https://www.cnet.com/tech/services-and-software/fubo-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

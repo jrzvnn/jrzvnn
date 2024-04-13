@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stop the discrimination and shop at 7-11 ..](http://9gag.com/gag/aYQNrm7)
- - 😝 [He Was A Good Boy And Good Boys Shoots After The Cops When They&#39;re Being Asked To Step Out Of The Car](http://9gag.com/gag/aE0vpGK)
- - 💣 [That&#39;s why I always drink tap water.](http://9gag.com/gag/a9ybn3j)
- - 😝 [Ah yes this is such a good spot to stand and chill](http://9gag.com/gag/aNDrgX4)
- - 👉 [Japanese moment](http://9gag.com/gag/a1mvWyb)<!-- MEMES:END -->
+ - 😝 [That&#39;s why I always drink tap water.](http://9gag.com/gag/a9ybn3j)
+ - 😝 [Where do these chinese get the sources of their contents? They look realistic](http://9gag.com/gag/aqy9ePY)
+ - 💣 [Japanese moment](http://9gag.com/gag/a1mvWyb)
+ - 😝 [When bro layed down the pipe so hard that it fixed her disablement.](http://9gag.com/gag/a2vz7wd)
+ - 👉 [The &#39;&#39;game&#39;&#39;](http://9gag.com/gag/a7oLW6x)<!-- MEMES:END -->
 
 ---
 

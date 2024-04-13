@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Insalah](http://9gag.com/gag/aQzPXoe)
- - 😝 [Make him famous to get faster Internet - 4.5 million times faster than average broadband](http://9gag.com/gag/a0e84AL)
- - 💣 [Guess the country](http://9gag.com/gag/aoyEW6x)
- - 😝 [Traveling abroad soon and had to watch this video, again.](http://9gag.com/gag/adB0g3j)
- - 👉 [Al Ittihad `fan` whips player](http://9gag.com/gag/aGyYEy7)<!-- MEMES:END -->
+ - 😝 [A father leaving the scene of the Bondi Junction Sydney mall with his children, but he covered their eyes with masks, so that they wouldn\u2019t see the horror.](http://9gag.com/gag/aYQNE1N)
+ - 😝 [His 1st and last Dad joke](http://9gag.com/gag/abAXegO)
+ - 💣 [Sir, we don&#39;t use logic and statistics here](http://9gag.com/gag/an7qOxo)
+ - 😝 [Have fun](http://9gag.com/gag/ae9j1Wj)
+ - 👉 [Its so hard to find this in this generation..](http://9gag.com/gag/aPAwxmq)<!-- MEMES:END -->
 
 ---
 

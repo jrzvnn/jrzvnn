@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Progressive Public Transport In Europe](http://9gag.com/gag/aVvzbDw)
+ - 😝 [This explains the situation perfectly....](http://9gag.com/gag/aVvz74d)
  - 😝 [Ah yes this is such a good spot to stand and chill](http://9gag.com/gag/aNDrgX4)
  - 💣 [Could\u2019ve lived without possibly knowing this is a thing](http://9gag.com/gag/aZZbr4n)
- - 😝 [Accusing someone of being racist while being racist yourself\u2026](http://9gag.com/gag/aByRynN)
- - 👉 [This explains the situation perfectly....](http://9gag.com/gag/aVvz74d)<!-- MEMES:END -->
+ - 😝 [Progressive Public Transport In Europe](http://9gag.com/gag/aVvzbDw)
+ - 👉 [Stop the discrimination and shop at 7-11 ..](http://9gag.com/gag/aYQNrm7)<!-- MEMES:END -->
 
 ---
 

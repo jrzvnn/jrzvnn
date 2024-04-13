@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A look at the book The Anxious Generation, as some say author Jonathan Haidt falls short in showing that social media is causing a teen mental health crisis &lpar;Zo&amp;euml; Schiffer/Platformer&rpar;](http://www.techmeme.com/240413/p7#a240413p7)
+ - [The Fellow Aiden Is a Versatile $365 Drip Brewer for Pour-Over Coffee Nerds     - CNET](https://www.cnet.com/home/kitchen-and-household/the-fellow-aiden-is-a-versatile-365-drip-brewer-for-pour-over-coffee-nerds/#ftag=CAD590a51e)
  - [Bluesky lifted its ban on heads of state signups](https://www.theverge.com/2024/4/13/24129357/bluesky-heads-of-state-ban-lifted-twitter-alternative)
  - [Lowest price: Apple&#39;s M3 MacBook Air 16GB RAM, 512GB SSD, 10C GPU drops to $1,349](https://appleinsider.com/articles/24/04/13/lowest-price-apples-m3-macbook-air-16gb-ram-512gb-ssd-10c-gpu-drops-to-1349?utm_medium=rss)
- - [If Your Washing Machine Has Mold, Do This ASAP     - CNET](https://www.cnet.com/home/kitchen-and-household/if-your-washing-machine-has-mold-do-this-asap/#ftag=CAD590a51e)
- - [Don&#39;t Rush Homeownership. Build Savings and Enjoy Life, Says This Money Coach     - CNET](https://www.cnet.com/personal-finance/mortgages/dont-rush-homeownership-build-savings-and-enjoy-life-says-this-money-coach/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How Much Water Do You Actually Need to Drink? Your Guide to Proper Hydration     - CNET](https://www.cnet.com/health/medical/how-much-water-you-need-to-drink-each-day/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

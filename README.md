@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This explains the situation perfectly....](http://9gag.com/gag/aVvz74d)
- - 😝 [Ah yes this is such a good spot to stand and chill](http://9gag.com/gag/aNDrgX4)
- - 💣 [Could\u2019ve lived without possibly knowing this is a thing](http://9gag.com/gag/aZZbr4n)
- - 😝 [Progressive Public Transport In Europe](http://9gag.com/gag/aVvzbDw)
- - 👉 [Stop the discrimination and shop at 7-11 ..](http://9gag.com/gag/aYQNrm7)<!-- MEMES:END -->
+ - 😝 [His 1st and last Dad joke](http://9gag.com/gag/abAXegO)
+ - 😝 [Dualshock battery level low.](http://9gag.com/gag/a4PKoMv)
+ - 💣 [What I love the most about this guy&#39;s mentality is that he went `this is not my disability, it&#39;s my unique ability` and I think that&#39;s awesome](http://9gag.com/gag/aGyYyon)
+ - 😝 [Sir, we don&#39;t use logic and statistics here](http://9gag.com/gag/an7qOxo)
+ - 👉 [The Fall of European Civilization. Women Being Emotional, Naive And Stupid.](http://9gag.com/gag/aRBwEj7)<!-- MEMES:END -->
 
 ---
 

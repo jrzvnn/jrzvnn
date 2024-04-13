@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bluesky lifted its ban on heads of state signups](https://www.theverge.com/2024/4/13/24129357/bluesky-heads-of-state-ban-lifted-twitter-alternative)
  - [Lowest price: Apple&#39;s M3 MacBook Air 16GB RAM, 512GB SSD, 10C GPU drops to $1,349](https://appleinsider.com/articles/24/04/13/lowest-price-apples-m3-macbook-air-16gb-ram-512gb-ssd-10c-gpu-drops-to-1349?utm_medium=rss)
  - [If Your Washing Machine Has Mold, Do This ASAP     - CNET](https://www.cnet.com/home/kitchen-and-household/if-your-washing-machine-has-mold-do-this-asap/#ftag=CAD590a51e)
  - [Don&#39;t Rush Homeownership. Build Savings and Enjoy Life, Says This Money Coach     - CNET](https://www.cnet.com/personal-finance/mortgages/dont-rush-homeownership-build-savings-and-enjoy-life-says-this-money-coach/#ftag=CAD590a51e)
- - [This week’s trailers offered twists on familiar genres](https://www.theverge.com/2024/4/13/24129253/movie-trailers-april-13-joker-folie-a-deux-dark-matter-maxxxine-movies-streaming-games)
- - [Gaming and AI are in Mac&#39;s future, even with low memory capacities](https://appleinsider.com/articles/24/04/13/gaming-and-ai-are-in-macs-future-even-with-low-memory-capacities?utm_medium=rss)<!-- TECH:END -->
+ - [This week’s trailers offered twists on familiar genres](https://www.theverge.com/2024/4/13/24129253/movie-trailers-april-13-joker-folie-a-deux-dark-matter-maxxxine-movies-streaming-games)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

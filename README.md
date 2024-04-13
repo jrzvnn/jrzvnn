@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Range Rover Evoque Plug-In Hybrid P300e Review: Price, Specs, Availability](https://www.wired.com/review/range-rover-evoque-p300e-plug-in-hybrid/)
- - [5 of the Best Comedy TV Shows on Netflix     - CNET](https://www.cnet.com/tech/services-and-software/5-of-the-best-comedy-tv-shows-on-netflix/#ftag=CAD590a51e)
- - [A profile of NYC-based Nanotronics, which has raised $162M and is making modular chipmaking plants that can be assembled on site and be functional within a year &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/240413/p3#a240413p3)
- - [Huawei unveils the new MateBook X Pro, its first AI PC, running on HarmonyOS and powered by Intel Core Ultra 9, available in China from April 18 for up to ~$2K &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240413/p2#a240413p2)
- - [Google researchers detail a technique that gives LLMs the ability to work with text of infinite length while keeping memory and compute requirements constant &lpar;Ben Dickson/VentureBeat&rpar;](http://www.techmeme.com/240413/p1#a240413p1)<!-- TECH:END -->
+ - [Social Security&#39;s New Overpayment Rules: You Might Not Have to Pay Back That Extra Money     - CNET](https://www.cnet.com/personal-finance/social-securitys-new-overpayment-rules-you-might-not-have-to-pay-back-that-extra-money/#ftag=CAD590a51e)
+ - [How the IRS Free File Program Really Works &lpar;and Its Limitations&rpar;     - CNET](https://www.cnet.com/personal-finance/taxes/how-the-irs-free-file-program-really-works-and-its-limitations/#ftag=CAD590a51e)
+ - [Missed the Solar Eclipse? How to Stream the Recap and Prepare for the Next Eclipse     - CNET](https://www.cnet.com/science/missed-the-solar-eclipse-how-to-stream-the-recap-and-prepare-for-the-next-eclipse/#ftag=CAD590a51e)
+ - [Newcastle vs. Tottenham Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/newcastle-vs-tottenham-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

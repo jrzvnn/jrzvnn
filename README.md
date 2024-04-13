@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple urges court to ignore Epic&#39;s anti-steering complaint](https://appleinsider.com/articles/24/04/13/apple-urges-court-to-ignore-epics-anti-steering-complaint?utm_medium=rss)
  - [Airchat, Naval Ravikant&#39;s social media app built around audio recordings, which the app transcribes, relaunches on iOS and Android; it is currently invite-only &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/240413/p8#a240413p8)
+ - [Snag a Lifetime Subscription to Beelinguapp for Just $40     - CNET](https://www.cnet.com/deals/snag-a-lifetime-subscription-to-beelinguapp-for-just-40/#ftag=CAD590a51e)
  - [A look at the book The Anxious Generation, as some say author Jonathan Haidt falls short in showing that social media is causing a teen mental health crisis &lpar;Zo&amp;euml; Schiffer/Platformer&rpar;](http://www.techmeme.com/240413/p7#a240413p7)
- - [The Fellow Aiden Is a Versatile $365 Drip Brewer for Pour-Over Coffee Nerds     - CNET](https://www.cnet.com/home/kitchen-and-household/the-fellow-aiden-is-a-versatile-365-drip-brewer-for-pour-over-coffee-nerds/#ftag=CAD590a51e)
- - [Bluesky lifted its ban on heads of state signups](https://www.theverge.com/2024/4/13/24129357/bluesky-heads-of-state-ban-lifted-twitter-alternative)
- - [Lowest price: Apple&#39;s M3 MacBook Air 16GB RAM, 512GB SSD, 10C GPU drops to $1,349](https://appleinsider.com/articles/24/04/13/lowest-price-apples-m3-macbook-air-16gb-ram-512gb-ssd-10c-gpu-drops-to-1349?utm_medium=rss)<!-- TECH:END -->
+ - [The Fellow Aiden Is a Versatile $365 Drip Brewer for Pour-Over Coffee Nerds     - CNET](https://www.cnet.com/home/kitchen-and-household/the-fellow-aiden-is-a-versatile-365-drip-brewer-for-pour-over-coffee-nerds/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

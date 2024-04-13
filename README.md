@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A father leaving the scene of the Bondi Junction Sydney mall with his children, but he covered their eyes with masks, so that they wouldn\u2019t see the horror.](http://9gag.com/gag/aYQNE1N)
- - 😝 [His 1st and last Dad joke](http://9gag.com/gag/abAXegO)
- - 💣 [Sir, we don&#39;t use logic and statistics here](http://9gag.com/gag/an7qOxo)
- - 😝 [Have fun](http://9gag.com/gag/ae9j1Wj)
- - 👉 [Its so hard to find this in this generation..](http://9gag.com/gag/aPAwxmq)<!-- MEMES:END -->
+ - 😝 [Terrorist attack at Bondi Junction, 6 casualties including a baby](http://9gag.com/gag/a7oL8pm)
+ - 😝 [Best childhood memories](http://9gag.com/gag/a34PGdv)
+ - 💣 [In today&#39;s episode of women](http://9gag.com/gag/an7qOPn)
+ - 😝 [Accusing someone of being racist while being racist yourself\u2026](http://9gag.com/gag/aByRynN)
+ - 👉 [Could\u2019ve lived without possibly knowing this is a thing](http://9gag.com/gag/aZZbr4n)<!-- MEMES:END -->
 
 ---
 

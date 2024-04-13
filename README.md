@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [When bro layed down the pipe so hard that it fixed her disablement.](http://9gag.com/gag/a2vz7wd)
+ - 😝 [Insalah](http://9gag.com/gag/aQzPXoe)
+ - 💣 [Best childhood memories](http://9gag.com/gag/a34PGdv)
  - 😝 [Traveling abroad soon and had to watch this video, again.](http://9gag.com/gag/adB0g3j)
- - 😝 [Guess the country](http://9gag.com/gag/aoyEW6x)
- - 💣 [Accusing someone of being racist while being racist yourself\u2026](http://9gag.com/gag/aByRynN)
- - 😝 [Best childhood memories](http://9gag.com/gag/a34PGdv)
- - 👉 [Insalah](http://9gag.com/gag/aQzPXoe)<!-- MEMES:END -->
+ - 👉 [Accusing someone of being racist while being racist yourself\u2026](http://9gag.com/gag/aByRynN)<!-- MEMES:END -->
 
 ---
 

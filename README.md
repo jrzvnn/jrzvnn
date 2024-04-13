@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Space Force Is Planning a Military Exercise in Orbit](https://www.wired.com/story/space-force-military-exercise-satellite/)
  - [Toronto Wants to Manage Storms and Floods—With a Rain Tax](https://www.wired.com/story/rain-tax-toronto-canada-climate-change-weather/)
  - [Twitch has become a major Spanish-language platform, with streamers like TheGrefg and Ibai Llanos hosting live sporting events that attract massive audiences &lpar;Sherwood News&rpar;](http://www.techmeme.com/240413/p4#a240413p4)
  - [Roku Breach Hits 567,000 Users](https://www.wired.com/story/roku-breach-hits-567000-users/)
- - [Threads Joined the Fediverse. Here&#39;s What That Means for You     - CNET](https://www.cnet.com/tech/services-and-software/threads-joined-the-fediverse-heres-what-that-actually-means-for-you/#ftag=CAD590a51e)
- - [Bird Flu Is in Dairy Cows. Is Raw Milk Safe to Drink?     - CNET](https://www.cnet.com/health/nutrition/bird-flu-is-in-dairy-cows-is-raw-milk-safe-to-drink/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Threads Joined the Fediverse. Here&#39;s What That Means for You     - CNET](https://www.cnet.com/tech/services-and-software/threads-joined-the-fediverse-heres-what-that-actually-means-for-you/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

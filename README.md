@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [After Sam Altman and others called for AI regulation, some executives including Box CEO Aaron Levie say the US should not rush like the EU did &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/240412/p29#a240412p29)
  - [Galaxy AI features are coming to last-gen Samsung phones — including the S21 series](https://www.theverge.com/2024/4/12/24128914/samsung-galaxy-ai-features-s21-s22-series-phones-update)
+ - [Is Your PC Low on Storage Space? This Windows 11 Feature Can Automatically Clean Up Your Drive     - CNET](https://www.cnet.com/tech/computing/is-your-pc-low-on-storage-space-this-windows-11-feature-can-automatically-clean-up-your-drive/#ftag=CAD590a51e)
  - [Source: Akamai is in advanced talks to buy Noname Security, which finds and fixes API vulnerabilities, for $500M; the startup was valued at $1B in December 2021 &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/240412/p28#a240412p28)
- - [Sources: Salesforce is in advanced talks to acquire cloud data management company Informatica, whose market cap crossed $11B after its shares jumped 43% in 2024 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240412/p27#a240412p27)
- - [SAG-AFTRA reaches a tentative deal with major record labels, including WMG and Sony Music Entertainment, that includes protections over the use of AI &lpar;Reuters&rpar;](http://www.techmeme.com/240412/p26#a240412p26)<!-- TECH:END -->
+ - [Best Gear for Online Classes or Meetings in 2024     - CNET](https://www.cnet.com/tech/computing/best-webcam-and-gear-for-online-meetings/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

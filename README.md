@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He Was A Good Boy And Good Boys Shoots After The Cops When They&#39;re Being Asked To Step Out Of The Car](http://9gag.com/gag/aE0vpGK)
- - 😝 [WCGW crossing a collapsing road](http://9gag.com/gag/aO8K7eE)
- - 💣 [Goths, women but better](http://9gag.com/gag/aGyYdzG)
- - 😝 [Quick driving lesson before taking it for a spin and shitting your pants.](http://9gag.com/gag/aqy9em7)
- - 👉 [We\u2019re in the wrong multiverse, friends](http://9gag.com/gag/aKGwGbZ)<!-- MEMES:END -->
+ - 😝 [When bro layed down the pipe so hard that it fixed her disablement.](http://9gag.com/gag/a2vz7wd)
+ - 😝 [Harry Potter: JK Rowling suggests she won\u2019t \u2018forgive\u2019 Emma Watson and Daniel Radcliffe for criticising her](http://9gag.com/gag/a9ybngW)
+ - 💣 [We\u2019re in the wrong multiverse, friends](http://9gag.com/gag/aKGwGbZ)
+ - 😝 [Bad experience?](http://9gag.com/gag/aByRmoQ)
+ - 👉 [That&#39;s why I always drink tap water.](http://9gag.com/gag/a9ybn3j)<!-- MEMES:END -->
 
 ---
 

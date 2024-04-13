@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Twitch has become a major Spanish-language platform, with streamers like TheGrefg and Ibai Llanos hosting live sporting events that attract massive audiences &lpar;Sherwood News&rpar;](http://www.techmeme.com/240413/p4#a240413p4)
  - [Roku Breach Hits 567,000 Users](https://www.wired.com/story/roku-breach-hits-567000-users/)
- - [Range Rover Evoque Plug-In Hybrid P300e Review: Price, Specs, Availability](https://www.wired.com/review/range-rover-evoque-p300e-plug-in-hybrid/)
- - [Social Security&#39;s New Overpayment Rules: You Might Not Have to Pay Back That Extra Money     - CNET](https://www.cnet.com/personal-finance/social-securitys-new-overpayment-rules-you-might-not-have-to-pay-back-that-extra-money/#ftag=CAD590a51e)
- - [How the IRS Free File Program Really Works &lpar;and Its Limitations&rpar;     - CNET](https://www.cnet.com/personal-finance/taxes/how-the-irs-free-file-program-really-works-and-its-limitations/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Threads Joined the Fediverse. Here&#39;s What That Means for You     - CNET](https://www.cnet.com/tech/services-and-software/threads-joined-the-fediverse-heres-what-that-actually-means-for-you/#ftag=CAD590a51e)
+ - [Bird Flu Is in Dairy Cows. Is Raw Milk Safe to Drink?     - CNET](https://www.cnet.com/health/nutrition/bird-flu-is-in-dairy-cows-is-raw-milk-safe-to-drink/#ftag=CAD590a51e)
+ - [Liverpool vs. Crystal Palace Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/liverpool-vs-crystal-palace-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Bluesky says it is now allowing heads of state to sign up, and adds features including hashtags in profile bios and the ability to long press a link to share &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240413/p9#a240413p9)
+ - [These Key Vitamins Can Help Combat Brain Fog     - CNET](https://www.cnet.com/health/nutrition/key-vitamins-to-combat-brain-fog/#ftag=CAD590a51e)
+ - [Fubo Review: Top-Tier for Sports, but Channel Selection Falls Short     - CNET](https://www.cnet.com/tech/services-and-software/fubo-review/#ftag=CAD590a51e)
  - [Apple urges court to ignore Epic&#39;s anti-steering complaint](https://appleinsider.com/articles/24/04/13/apple-urges-court-to-ignore-epics-anti-steering-complaint?utm_medium=rss)
- - [Airchat, Naval Ravikant&#39;s social media app built around audio recordings, which the app transcribes, relaunches on iOS and Android; it is currently invite-only &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/240413/p8#a240413p8)
- - [Snag a Lifetime Subscription to Beelinguapp for Just $40     - CNET](https://www.cnet.com/deals/snag-a-lifetime-subscription-to-beelinguapp-for-just-40/#ftag=CAD590a51e)
- - [A look at the book The Anxious Generation, as some say author Jonathan Haidt falls short in showing that social media is causing a teen mental health crisis &lpar;Zo&amp;euml; Schiffer/Platformer&rpar;](http://www.techmeme.com/240413/p7#a240413p7)<!-- TECH:END -->
+ - [Airchat, Naval Ravikant&#39;s social media app built around audio recordings, which the app transcribes, relaunches on iOS and Android; it is currently invite-only &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/240413/p8#a240413p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

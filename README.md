@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Progressive Public Transport In Europe](http://9gag.com/gag/aVvzbDw)
- - 😝 [We\u2019re in the wrong multiverse, friends](http://9gag.com/gag/aKGwGbZ)
- - 💣 [Where do these chinese get the sources of their contents? They look realistic](http://9gag.com/gag/aqy9ePY)
- - 😝 [People who go to the gym](http://9gag.com/gag/amoNAZX)
- - 👉 [In today&#39;s episode of women](http://9gag.com/gag/an7qOPn)<!-- MEMES:END -->
+ - 😝 [Stop the discrimination and shop at 7-11 ..](http://9gag.com/gag/aYQNrm7)
+ - 😝 [Could\u2019ve lived without possibly knowing this is a thing](http://9gag.com/gag/aZZbr4n)
+ - 💣 [Accusing someone of being racist while being racist yourself\u2026](http://9gag.com/gag/aByRynN)
+ - 😝 [Traveling abroad soon and had to watch this video, again.](http://9gag.com/gag/adB0g3j)
+ - 👉 [Insalah](http://9gag.com/gag/aQzPXoe)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta says it is testing its Meta AI chatbot with WhatsApp, Instagram, and Messenger users in India and parts of Africa &lpar;TechCrunch&rpar;](http://www.techmeme.com/240413/p11#a240413p11)
  - [Police arrested four people over $300,000 of stolen Lego kits](https://www.theverge.com/2024/4/13/24129595/lego-crime-ring-arrested-los-angeles-300000-dollars)
+ - [The Absolute Best Horror Movies on Hulu     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-horror-movies-on-hulu-april-2024/#ftag=CAD590a51e)
  - [An experiment to see how a Threads feed would work on Mastodon, using lists and testing third-party clients, which shows the bright future of the fediverse &lpar;Anuj Ahooja/augment&rpar;](http://www.techmeme.com/240413/p10#a240413p10)
- - [Save on Chipolo Trackers and Never Lose Your Wallet or Keys Again     - CNET](https://www.cnet.com/deals/save-on-chipolo-tracker-bundles-and-never-lose-your-wallet-or-keys-again/#ftag=CAD590a51e)
- - [Score Lifetime Access to Microsoft Project 2021 for Only $30     - CNET](https://www.cnet.com/deals/score-lifetime-access-to-microsoft-project-2021-for-only-30/#ftag=CAD590a51e)
- - [Bluesky says it is now allowing heads of state to sign up, and adds features including hashtags in profile bios and the ability to long press a link to share &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240413/p9#a240413p9)<!-- TECH:END -->
+ - [Save on Chipolo Trackers and Never Lose Your Wallet or Keys Again     - CNET](https://www.cnet.com/deals/save-on-chipolo-tracker-bundles-and-never-lose-your-wallet-or-keys-again/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

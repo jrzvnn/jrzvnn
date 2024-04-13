@@ -169,8 +169,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [This week’s trailers offered twists on familiar genres](https://www.theverge.com/2024/4/13/24129253/movie-trailers-april-13-joker-folie-a-deux-dark-matter-maxxxine-movies-streaming-games)
  - [Gaming and AI are in Mac&#39;s future, even with low memory capacities](https://appleinsider.com/articles/24/04/13/gaming-and-ai-are-in-macs-future-even-with-low-memory-capacities?utm_medium=rss)
  - [Q&amp;A with Anthropic CEO Dario Amodei about AI models costing ~$10B to train, why AI models are close to being &quot;able to replicate and survive in the wild&quot;, more &lpar;New York Times&rpar;](http://www.techmeme.com/240413/p6#a240413p6)
- - [Smart string light showdown: Nanoleaf versus Lifx](https://www.theverge.com/24128446/lifx-outdoor-string-lights-versus-nanoleaf-matter-multicolor-outdoor-string-lights-review)
- - [Xgimi’s portable MoGo 2 Pro projector is $200 off right now](https://www.theverge.com/2024/4/13/24128471/xgimi-mogo-2-pro-projector-apple-homepod-mini-deal-sale)<!-- TECH:END -->
+ - [Pump Up, Slim Down: How Weightlifting Ignites Fat Loss     - CNET](https://www.cnet.com/health/fitness/how-weightlifting-helps-you-burn-body-fat/#ftag=CAD590a51e)
+ - [The Best Home Security Cameras with Lights for 2024     - CNET](https://www.cnet.com/home/security/the-best-home-security-cameras-with-lights/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Huawei unveils the new MateBook X Pro, its first AI PC, running on HarmonyOS and powered by Intel Core Ultra 9, available in China from April 18 for up to ~$2K &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240413/p2#a240413p2)
  - [Google researchers detail a technique that gives LLMs the ability to work with text of infinite length while keeping memory and compute requirements constant &lpar;Ben Dickson/VentureBeat&rpar;](http://www.techmeme.com/240413/p1#a240413p1)
  - [A US official says the OFAC is investigating several US and foreign companies for shipments of chips with military applications that ultimately end up in Russia &lpar;Bloomberg&rpar;](http://www.techmeme.com/240412/p30#a240412p30)
  - [1099-K IRS Tax Delay: What Last Minute Filers Who Use PayPal and Venmo Need to Know     - CNET](https://www.cnet.com/personal-finance/taxes/1099-k-irs-tax-delay-what-last-minute-filers-who-use-paypal-and-venmo-need-to-know/#ftag=CAD590a51e)
- - [After Sam Altman and others called for AI regulation, some executives including Box CEO Aaron Levie say the US should not rush like the EU did &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/240412/p29#a240412p29)
- - [Galaxy AI features are coming to last-gen Samsung phones — including the S21 series](https://www.theverge.com/2024/4/12/24128914/samsung-galaxy-ai-features-s21-s22-series-phones-update)<!-- TECH:END -->
+ - [After Sam Altman and others called for AI regulation, some executives including Box CEO Aaron Levie say the US should not rush like the EU did &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/240412/p29#a240412p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

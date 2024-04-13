@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Could\u2019ve lived without possibly knowing this is a thing](http://9gag.com/gag/aZZbr4n)
  - 😝 [Insalah](http://9gag.com/gag/aQzPXoe)
- - 💣 [Old but you are welcome you racist sons of b*tches! See you tomorrow!](http://9gag.com/gag/a5QeQgO)
- - 😝 [Traveling abroad soon and had to watch this video, again.](http://9gag.com/gag/adB0g3j)
- - 👉 [Al Ittihad `fan` whips player](http://9gag.com/gag/aGyYEy7)<!-- MEMES:END -->
+ - 😝 [Al Ittihad `fan` whips player](http://9gag.com/gag/aGyYEy7)
+ - 💣 [Traveling abroad soon and had to watch this video, again.](http://9gag.com/gag/adB0g3j)
+ - 😝 [Make him famous to get faster Internet - 4.5 million times faster than average broadband](http://9gag.com/gag/a0e84AL)
+ - 👉 [Terrorist attack at Bondi Junction, 6 casualties including a baby](http://9gag.com/gag/a7oL8pm)<!-- MEMES:END -->
 
 ---
 

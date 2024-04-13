@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When bro layed down the pipe so hard that it fixed her disablement.](http://9gag.com/gag/a2vz7wd)
+ - 😝 [Old but you are welcome you racist sons of b*tches! See you tomorrow!](http://9gag.com/gag/a5QeQgO)
+ - 😝 [She can polish me any time](http://9gag.com/gag/a7oLOLz)
+ - 💣 [Traveling abroad soon and had to watch this video, again.](http://9gag.com/gag/adB0g3j)
  - 😝 [Insalah](http://9gag.com/gag/aQzPXoe)
- - 💣 [Best childhood memories](http://9gag.com/gag/a34PGdv)
- - 😝 [Traveling abroad soon and had to watch this video, again.](http://9gag.com/gag/adB0g3j)
- - 👉 [Accusing someone of being racist while being racist yourself\u2026](http://9gag.com/gag/aByRynN)<!-- MEMES:END -->
+ - 👉 [In today&#39;s episode of women](http://9gag.com/gag/an7qOPn)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Xgimi’s portable MoGo 2 Pro projector is $200 off right now](https://www.theverge.com/2024/4/13/24128471/xgimi-mogo-2-pro-projector-apple-homepod-mini-deal-sale)
- - [Elon Musk&#39;s xAI previews Grok-1.5 Vision, its first multimodal model, and says the AI model will be available soon to &quot;early testers and existing Grok users&quot; &lpar;Ken Yeung/VentureBeat&rpar;](http://www.techmeme.com/240413/p5#a240413p5)
- - [Best Amazon Deals: Secure Huge Savings on Samsung Monitors, Kitchen Appliances and More     - CNET](https://www.cnet.com/deals/best-amazon-deals-huge-savings-on-samsung-monitors-kitchen-appliances-and-more/#ftag=CAD590a51e)
- - [Best Internet Providers in Gulfport, Mississippi     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-gulfport-mississippi/#ftag=CAD590a51e)
- - [Best AT&amp;T Plans: How to Choose and Which Ones to Pick in April 2024     - CNET](https://www.cnet.com/tech/mobile/best-at-t-plans/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Saw X&#39;: When and Where to Stream the Horror Movie     - CNET](https://www.cnet.com/tech/services-and-software/saw-x-when-and-where-to-stream-the-horror-movie/#ftag=CAD590a51e)
+ - [Child Tax Credit 2024: Find Out if You&#39;re Eligible and How Much You Could Get     - CNET](https://www.cnet.com/personal-finance/taxes/child-tax-credit-2024-find-out-if-youre-eligible-and-how-much-you-could-get/#ftag=CAD590a51e)
+ - [8 Ways to Keep Seasonal Allergies From Ruining Your Sleep     - CNET](https://www.cnet.com/health/sleep/8-ways-to-keep-seasonal-allergies-from-ruining-your-sleep/#ftag=CAD590a51e)
+ - [Best Mattress for Side Sleepers in 2024     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-side-sleepers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

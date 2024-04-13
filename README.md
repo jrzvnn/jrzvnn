@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Terrorist attack at Bondi Junction, 6 casualties including a baby](http://9gag.com/gag/a7oL8pm)
- - 😝 [Best childhood memories](http://9gag.com/gag/a34PGdv)
+ - 😝 [Al Ittihad `fan` whips player](http://9gag.com/gag/aGyYEy7)
+ - 😝 [Girlfriend got caught cheating and this was her reaction....](http://9gag.com/gag/aVvzgGw)
  - 💣 [In today&#39;s episode of women](http://9gag.com/gag/an7qOPn)
- - 😝 [Accusing someone of being racist while being racist yourself\u2026](http://9gag.com/gag/aByRynN)
- - 👉 [Could\u2019ve lived without possibly knowing this is a thing](http://9gag.com/gag/aZZbr4n)<!-- MEMES:END -->
+ - 😝 [Stop the discrimination and shop at 7-11 ..](http://9gag.com/gag/aYQNrm7)
+ - 👉 [Traveling abroad soon and had to watch this video, again.](http://9gag.com/gag/adB0g3j)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stop the discrimination and shop at 7-11 ..](http://9gag.com/gag/aYQNrm7)
- - 😝 [Could\u2019ve lived without possibly knowing this is a thing](http://9gag.com/gag/aZZbr4n)
- - 💣 [One of the biggest what if in NBA](http://9gag.com/gag/abAXVWX)
- - 😝 [Spanking isnt abuse change my mind...](http://9gag.com/gag/agm3AE6)
- - 👉 [When bro layed down the pipe so hard that it fixed her disablement.](http://9gag.com/gag/a2vz7wd)<!-- MEMES:END -->
+ - 😝 [Mark my words...](http://9gag.com/gag/an7q4xz)
+ - 😝 [That&#39;s why I always drink tap water.](http://9gag.com/gag/a9ybn3j)
+ - 💣 [O.J. Simpson juror casually admitting that 90% of them knew he kiIIed Nicole and Ron, but let him off for revenge:](http://9gag.com/gag/a87L113)
+ - 😝 [One of the biggest what if in NBA](http://9gag.com/gag/abAXVWX)
+ - 👉 [Accusing someone of being racist while being racist yourself\u2026](http://9gag.com/gag/aByRynN)<!-- MEMES:END -->
 
 ---
 

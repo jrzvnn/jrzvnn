@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Range Rover Evoque Plug-In Hybrid P300e Review: Price, Specs, Availability](https://www.wired.com/review/range-rover-evoque-p300e-plug-in-hybrid/)
  - [5 of the Best Comedy TV Shows on Netflix     - CNET](https://www.cnet.com/tech/services-and-software/5-of-the-best-comedy-tv-shows-on-netflix/#ftag=CAD590a51e)
  - [A profile of NYC-based Nanotronics, which has raised $162M and is making modular chipmaking plants that can be assembled on site and be functional within a year &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/240413/p3#a240413p3)
  - [Huawei unveils the new MateBook X Pro, its first AI PC, running on HarmonyOS and powered by Intel Core Ultra 9, available in China from April 18 for up to ~$2K &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240413/p2#a240413p2)
- - [Google researchers detail a technique that gives LLMs the ability to work with text of infinite length while keeping memory and compute requirements constant &lpar;Ben Dickson/VentureBeat&rpar;](http://www.techmeme.com/240413/p1#a240413p1)
- - [A US official says the OFAC is investigating several US and foreign companies for shipments of chips with military applications that ultimately end up in Russia &lpar;Bloomberg&rpar;](http://www.techmeme.com/240412/p30#a240412p30)<!-- TECH:END -->
+ - [Google researchers detail a technique that gives LLMs the ability to work with text of infinite length while keeping memory and compute requirements constant &lpar;Ben Dickson/VentureBeat&rpar;](http://www.techmeme.com/240413/p1#a240413p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

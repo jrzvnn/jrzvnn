@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Akamai is in advanced talks to buy Noname Security, which finds and fixes API vulnerabilities, for $500M; the startup was valued at $1B in December 2021 &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/240412/p28#a240412p28)
+ - [Sources: Salesforce is in advanced talks to acquire cloud data management company Informatica, whose market cap crossed $11B after its shares jumped 43% in 2024 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240412/p27#a240412p27)
+ - [SAG-AFTRA reaches a tentative deal with major record labels, including WMG and Sony Music Entertainment, that includes protections over the use of AI &lpar;Reuters&rpar;](http://www.techmeme.com/240412/p26#a240412p26)
  - [Microsoft starts testing ads inside the Start menu on Windows 11 in the Insider builds in the US, and says the app promotions can be disabled in Settings &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240412/p25#a240412p25)
- - [Taylor Swift and TikTok Are Going Steady Again: Singer&#39;s Music Is Back on Service     - CNET](https://www.cnet.com/tech/taylor-swift-and-tiktok-are-going-steady-again-singers-music-is-back-on-service/#ftag=CAD590a51e)
- - [Best Cookware Sets for 2024     - CNET](https://www.cnet.com/news/best-cookware-sets/#ftag=CAD590a51e)
- - [A case study of the creation of an AI-powered local &quot;news&quot; website, directed to produce partisan stories on a US Senate race; a Fiverr developer made it for $80 &lpar;Jack Brewster/Wall Street Journal&rpar;](http://www.techmeme.com/240412/p24#a240412p24)
- - [Pro Lapel Microphone     - CNET](https://www.cnet.com/tech/pro-lapel-microphone-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Taylor Swift and TikTok Are Going Steady Again: Singer&#39;s Music Is Back on Service     - CNET](https://www.cnet.com/tech/taylor-swift-and-tiktok-are-going-steady-again-singers-music-is-back-on-service/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

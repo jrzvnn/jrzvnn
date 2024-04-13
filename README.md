@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Terrorist attack at Bondi Junction, 6 casualties including a baby](http://9gag.com/gag/a7oL8pm)
  - 😝 [Traveling abroad soon and had to watch this video, again.](http://9gag.com/gag/adB0g3j)
+ - 💣 [Insalah](http://9gag.com/gag/aQzPXoe)
  - 😝 [Guess the country](http://9gag.com/gag/aoyEW6x)
- - 💣 [Stop the discrimination and shop at 7-11 ..](http://9gag.com/gag/aYQNrm7)
- - 😝 [Insalah](http://9gag.com/gag/aQzPXoe)
- - 👉 [Old but you are welcome you racist sons of b*tches! See you tomorrow!](http://9gag.com/gag/a5QeQgO)<!-- MEMES:END -->
+ - 👉 [Accusing someone of being racist while being racist yourself\u2026](http://9gag.com/gag/aByRynN)<!-- MEMES:END -->
 
 ---
 

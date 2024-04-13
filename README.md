@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Galaxy AI is coming to some older Samsung phones](https://www.theverge.com/2024/4/12/24128914/samsung-galaxy-ai-features-s21-s22-series-phones-update)
  - [Source: Akamai is in advanced talks to buy Noname Security, which finds and fixes API vulnerabilities, for $500M; the startup was valued at $1B in December 2021 &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/240412/p28#a240412p28)
  - [Sources: Salesforce is in advanced talks to acquire cloud data management company Informatica, whose market cap crossed $11B after its shares jumped 43% in 2024 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240412/p27#a240412p27)
  - [SAG-AFTRA reaches a tentative deal with major record labels, including WMG and Sony Music Entertainment, that includes protections over the use of AI &lpar;Reuters&rpar;](http://www.techmeme.com/240412/p26#a240412p26)
- - [Microsoft starts testing ads inside the Start menu on Windows 11 in the Insider builds in the US, and says the app promotions can be disabled in Settings &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240412/p25#a240412p25)
- - [Taylor Swift and TikTok Are Going Steady Again: Singer&#39;s Music Is Back on Service     - CNET](https://www.cnet.com/tech/taylor-swift-and-tiktok-are-going-steady-again-singers-music-is-back-on-service/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft starts testing ads inside the Start menu on Windows 11 in the Insider builds in the US, and says the app promotions can be disabled in Settings &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240412/p25#a240412p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

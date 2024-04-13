@@ -166,7 +166,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Police arrested four people with $300,000 of stolen Lego kits](https://www.theverge.com/2024/4/13/24129595/lego-crime-ring-arrested-los-angeles-300000-dollars)
+ - [Police arrested four people over $300,000 of stolen Lego kits](https://www.theverge.com/2024/4/13/24129595/lego-crime-ring-arrested-los-angeles-300000-dollars)
  - [An experiment to see how a Threads feed would work on Mastodon, using lists and testing third-party clients, which shows the bright future of the fediverse &lpar;Anuj Ahooja/augment&rpar;](http://www.techmeme.com/240413/p10#a240413p10)
  - [Save on Chipolo Trackers and Never Lose Your Wallet or Keys Again     - CNET](https://www.cnet.com/deals/save-on-chipolo-tracker-bundles-and-never-lose-your-wallet-or-keys-again/#ftag=CAD590a51e)
  - [Score Lifetime Access to Microsoft Project 2021 for Only $30     - CNET](https://www.cnet.com/deals/score-lifetime-access-to-microsoft-project-2021-for-only-30/#ftag=CAD590a51e)

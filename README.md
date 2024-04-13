@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Progressive Public Transport In Europe](http://9gag.com/gag/aVvzbDw)
  - 😝 [Ah yes this is such a good spot to stand and chill](http://9gag.com/gag/aNDrgX4)
- - 😝 [This explains the situation perfectly....](http://9gag.com/gag/aVvz74d)
- - 💣 [That&#39;s why I always drink tap water.](http://9gag.com/gag/a9ybn3j)
- - 😝 [Could\u2019ve lived without possibly knowing this is a thing](http://9gag.com/gag/aZZbr4n)
- - 👉 [Bad experience?](http://9gag.com/gag/aByRmoQ)<!-- MEMES:END -->
+ - 💣 [Could\u2019ve lived without possibly knowing this is a thing](http://9gag.com/gag/aZZbr4n)
+ - 😝 [Accusing someone of being racist while being racist yourself\u2026](http://9gag.com/gag/aByRynN)
+ - 👉 [This explains the situation perfectly....](http://9gag.com/gag/aVvz74d)<!-- MEMES:END -->
 
 ---
 

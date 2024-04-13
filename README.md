@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best VPNs for Xbox in 2024: Top Picks by Our VPN Experts     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-xbox/#ftag=CAD590a51e)
- - [Grab Last Minute Deals During Best Buy&#39;s Massive 3-Day Sale     - CNET](https://www.cnet.com/deals/last-minute-deals-during-best-buy-massive-3-day-sale/#ftag=CAD590a51e)
- - [iPhone 15 Pro Max, 7 Months Later: Still Going Strong Despite Drops and Scratches     - CNET](https://www.cnet.com/tech/mobile/iphone-15-pro-max-7-months-later-still-going-strong-despite-drops-and-scratches/#ftag=CAD590a51e)
- - [April&#39;s Social Security Check: When to Expect Your Money to Arrive     - CNET](https://www.cnet.com/personal-finance/social-security-april-check-when-to-expect-your-money-to-arrive/#ftag=CAD590a51e)
- - [Tiny Electric Fiat 500e Fits Nicely in Its Niche     - CNET](https://www.cnet.com/roadshow/pictures/tiny-electric-fiat-500e-fits-nicely-in-its-niche/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Elon Musk&#39;s xAI previews Grok-1.5 Vision, its first multimodal model, and says the AI model will be available soon to &quot;early testers and existing Grok users&quot; &lpar;Ken Yeung/VentureBeat&rpar;](http://www.techmeme.com/240413/p5#a240413p5)
+ - [Best Amazon Deals: Secure Huge Savings on Samsung Monitors, Kitchen Appliances and More     - CNET](https://www.cnet.com/deals/best-amazon-deals-huge-savings-on-samsung-monitors-kitchen-appliances-and-more/#ftag=CAD590a51e)
+ - [Best Internet Providers in Gulfport, Mississippi     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-gulfport-mississippi/#ftag=CAD590a51e)
+ - [Best AT&amp;T Plans: How to Choose and Which Ones to Pick in April 2024     - CNET](https://www.cnet.com/tech/mobile/best-at-t-plans/#ftag=CAD590a51e)
+ - [Best Internet Providers in Beaumont, Texas     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-beaumont-tx/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

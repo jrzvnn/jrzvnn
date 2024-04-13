@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best childhood memories](http://9gag.com/gag/a34PGdv)
- - 😝 [This explains the situation perfectly....](http://9gag.com/gag/aVvz74d)
- - 💣 [One of the biggest what if in NBA](http://9gag.com/gag/abAXVWX)
+ - 😝 [When bro layed down the pipe so hard that it fixed her disablement.](http://9gag.com/gag/a2vz7wd)
  - 😝 [That&#39;s why I always drink tap water.](http://9gag.com/gag/a9ybn3j)
- - 👉 [Could\u2019ve lived without possibly knowing this is a thing](http://9gag.com/gag/aZZbr4n)<!-- MEMES:END -->
+ - 💣 [One of the biggest what if in NBA](http://9gag.com/gag/abAXVWX)
+ - 😝 [Could\u2019ve lived without possibly knowing this is a thing](http://9gag.com/gag/aZZbr4n)
+ - 👉 [Best childhood memories](http://9gag.com/gag/a34PGdv)<!-- MEMES:END -->
 
 ---
 

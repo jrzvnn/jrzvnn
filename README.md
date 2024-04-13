@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mark my words...](http://9gag.com/gag/an7q4xz)
- - 😝 [That&#39;s why I always drink tap water.](http://9gag.com/gag/a9ybn3j)
- - 💣 [O.J. Simpson juror casually admitting that 90% of them knew he kiIIed Nicole and Ron, but let him off for revenge:](http://9gag.com/gag/a87L113)
- - 😝 [One of the biggest what if in NBA](http://9gag.com/gag/abAXVWX)
- - 👉 [Accusing someone of being racist while being racist yourself\u2026](http://9gag.com/gag/aByRynN)<!-- MEMES:END -->
+ - 😝 [This explains the situation perfectly....](http://9gag.com/gag/aVvz74d)
+ - 😝 [Scared the straightness outta him](http://9gag.com/gag/aE0v8KK)
+ - 💣 [Dualshock battery level low.](http://9gag.com/gag/a4PKoMv)
+ - 😝 [The Fall of European Civilization. Women Being Emotional, Naive And Stupid.](http://9gag.com/gag/aRBwEj7)
+ - 👉 [Progressive Public Transport In Europe](http://9gag.com/gag/aVvzbDw)<!-- MEMES:END -->
 
 ---
 

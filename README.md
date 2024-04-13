@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A swedish father was executed point blank shot in the head infront of his 12 y/o son while taking him to swimschool.](http://9gag.com/gag/avypQGq)
- - 😝 [One of the biggest what if in NBA](http://9gag.com/gag/abAXVWX)
- - 💣 [If it isn&#39;t the consequences of my own actions](http://9gag.com/gag/aRBw7y5)
- - 😝 [Prom night](http://9gag.com/gag/aoyEgOA)
- - 👉 [Best childhood memories](http://9gag.com/gag/a34PGdv)<!-- MEMES:END -->
+ - 😝 [The Usual Burden On All Societies](http://9gag.com/gag/avypzBb)
+ - 😝 [Ah yes this is such a good spot to stand and chill](http://9gag.com/gag/aNDrgX4)
+ - 💣 [Bad experience?](http://9gag.com/gag/aByRmoQ)
+ - 😝 [That&#39;s why I always drink tap water.](http://9gag.com/gag/a9ybn3j)
+ - 👉 [When bro layed down the pipe so hard that it fixed her disablement.](http://9gag.com/gag/a2vz7wd)<!-- MEMES:END -->
 
 ---
 

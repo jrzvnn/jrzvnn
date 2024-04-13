@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lowest price: Apple&#39;s M3 MacBook Air 16GB RAM, 512GB SSD, 10C GPU drops to $1,349](https://appleinsider.com/articles/24/04/13/lowest-price-apples-m3-macbook-air-16gb-ram-512gb-ssd-10c-gpu-drops-to-1349?utm_medium=rss)
  - [If Your Washing Machine Has Mold, Do This ASAP     - CNET](https://www.cnet.com/home/kitchen-and-household/if-your-washing-machine-has-mold-do-this-asap/#ftag=CAD590a51e)
  - [Don&#39;t Rush Homeownership. Build Savings and Enjoy Life, Says This Money Coach     - CNET](https://www.cnet.com/personal-finance/mortgages/dont-rush-homeownership-build-savings-and-enjoy-life-says-this-money-coach/#ftag=CAD590a51e)
  - [This week’s trailers offered twists on familiar genres](https://www.theverge.com/2024/4/13/24129253/movie-trailers-april-13-joker-folie-a-deux-dark-matter-maxxxine-movies-streaming-games)
- - [Gaming and AI are in Mac&#39;s future, even with low memory capacities](https://appleinsider.com/articles/24/04/13/gaming-and-ai-are-in-macs-future-even-with-low-memory-capacities?utm_medium=rss)
- - [Q&amp;A with Anthropic CEO Dario Amodei about AI models costing ~$10B to train, why AI models are close to being &quot;able to replicate and survive in the wild&quot;, more &lpar;New York Times&rpar;](http://www.techmeme.com/240413/p6#a240413p6)<!-- TECH:END -->
+ - [Gaming and AI are in Mac&#39;s future, even with low memory capacities](https://appleinsider.com/articles/24/04/13/gaming-and-ai-are-in-macs-future-even-with-low-memory-capacities?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

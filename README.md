@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An experiment to see how a Threads feed would work on Mastodon, using lists and testing third-party clients, which shows the bright future of the fediverse &lpar;augment&rpar;](http://www.techmeme.com/240413/p10#a240413p10)
  - [Score Lifetime Access to Microsoft Project 2021 for Only $30     - CNET](https://www.cnet.com/deals/score-lifetime-access-to-microsoft-project-2021-for-only-30/#ftag=CAD590a51e)
  - [Bluesky says it is now allowing heads of state to sign up, and adds features including hashtags in profile bios and the ability to long press a link to share &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240413/p9#a240413p9)
  - [Not Everyone Has to File Taxes on April 15. Here&#39;s Who Gets Extra Time     - CNET](https://www.cnet.com/personal-finance/taxes/not-everyone-has-to-file-taxes-on-april-15-heres-who-gets-extra-time/#ftag=CAD590a51e)
- - [These Key Vitamins Can Help Combat Brain Fog     - CNET](https://www.cnet.com/health/nutrition/key-vitamins-to-combat-brain-fog/#ftag=CAD590a51e)
- - [Fubo Review: Top-Tier for Sports, but Channel Selection Falls Short     - CNET](https://www.cnet.com/tech/services-and-software/fubo-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [These Key Vitamins Can Help Combat Brain Fog     - CNET](https://www.cnet.com/health/nutrition/key-vitamins-to-combat-brain-fog/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

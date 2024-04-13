@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [24 Mother&#39;s Day Gifts We&#39;ve Tried and Love &lpar;2023&rpar;](https://www.wired.com/gallery/best-mothers-day-gifts-2024/)
  - [Space Force Is Planning a Military Exercise in Orbit](https://www.wired.com/story/space-force-military-exercise-satellite/)
  - [Vizio Quantum Pro TV Review: Solid Picture Quality But Only Available in Two &lpar;Big&rpar; Sizes     - CNET](https://www.cnet.com/tech/home-entertainment/vizio-quantum-pro-tv-review-solid-picture-quality-but-only-available-in-two-big-sizes/#ftag=CAD590a51e)
  - [&#39;Kaiju No. 8&#39; Debuts Today: Here&#39;s How to Watch the New Anime From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/kaiju-no-8-debuts-today-here-how-to-watch-the-new-anime-from-anywhere/#ftag=CAD590a51e)
- - [Man City vs. Luton Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/man-city-vs-luton-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [Xiaomi 14 Ultra: A Photographic Marvel Rooted in Panasonic CM1&#39;s Legacy     - CNET](https://www.cnet.com/tech/mobile/xiaomi-14-ultra-a-photographic-marvel-rooted-in-panasonic-cm1s-legacy/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Man City vs. Luton Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/man-city-vs-luton-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

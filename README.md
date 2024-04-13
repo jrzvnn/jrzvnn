@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This explains the situation perfectly....](http://9gag.com/gag/aVvz74d)
- - 😝 [Scared the straightness outta him](http://9gag.com/gag/aE0v8KK)
- - 💣 [Dualshock battery level low.](http://9gag.com/gag/a4PKoMv)
- - 😝 [The Fall of European Civilization. Women Being Emotional, Naive And Stupid.](http://9gag.com/gag/aRBwEj7)
- - 👉 [Progressive Public Transport In Europe](http://9gag.com/gag/aVvzbDw)<!-- MEMES:END -->
+ - 😝 [A swedish father was executed point blank shot in the head infront of his 12 y/o son while taking him to swimschool.](http://9gag.com/gag/avypQGq)
+ - 😝 [One of the biggest what if in NBA](http://9gag.com/gag/abAXVWX)
+ - 💣 [If it isn&#39;t the consequences of my own actions](http://9gag.com/gag/aRBw7y5)
+ - 😝 [Prom night](http://9gag.com/gag/aoyEgOA)
+ - 👉 [Best childhood memories](http://9gag.com/gag/a34PGdv)<!-- MEMES:END -->
 
 ---
 

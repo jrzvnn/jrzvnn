@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best childhood memories](http://9gag.com/gag/a34PGdv)
+ - 😝 [Al Ittihad `fan` whips player](http://9gag.com/gag/aGyYEy7)
+ - 😝 [In today&#39;s episode of women](http://9gag.com/gag/an7qOPn)
+ - 💣 [Old but you are welcome you racist sons of b*tches! See you tomorrow!](http://9gag.com/gag/a5QeQgO)
  - 😝 [Traveling abroad soon and had to watch this video, again.](http://9gag.com/gag/adB0g3j)
- - 💣 [Terrorist attack at Bondi Junction, 6 casualties including a baby](http://9gag.com/gag/a7oL8pm)
- - 😝 [Girlfriend got caught cheating and this was her reaction....](http://9gag.com/gag/aVvzgGw)
- - 👉 [Al Ittihad `fan` whips player](http://9gag.com/gag/aGyYEy7)<!-- MEMES:END -->
+ - 👉 [Girlfriend got caught cheating and this was her reaction....](http://9gag.com/gag/aVvzgGw)<!-- MEMES:END -->
 
 ---
 

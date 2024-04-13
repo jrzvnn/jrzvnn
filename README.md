@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And get on it now !](http://9gag.com/gag/aD2A2r9)
- - 😝 [The Fall of European Civilization. Women Being Emotional, Naive And Stupid.](http://9gag.com/gag/aRBwEj7)
- - 💣 [Dualshock battery level low.](http://9gag.com/gag/a4PKoMv)
- - 😝 [People who go to the gym](http://9gag.com/gag/amoNAZX)
- - 👉 [We\u2019re in the wrong multiverse, friends](http://9gag.com/gag/aKGwGbZ)<!-- MEMES:END -->
+ - 😝 [Best childhood memories](http://9gag.com/gag/a34PGdv)
+ - 😝 [This explains the situation perfectly....](http://9gag.com/gag/aVvz74d)
+ - 💣 [One of the biggest what if in NBA](http://9gag.com/gag/abAXVWX)
+ - 😝 [That&#39;s why I always drink tap water.](http://9gag.com/gag/a9ybn3j)
+ - 👉 [Could\u2019ve lived without possibly knowing this is a thing](http://9gag.com/gag/aZZbr4n)<!-- MEMES:END -->
 
 ---
 

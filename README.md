@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Japanese moment](http://9gag.com/gag/a1mvWyb)
- - 😝 [New Zealand&#39;s Department of Conservation spend 8 months and $500,000 &lpar;around 300,000USD&rpar; to track down kill this single stoat.](http://9gag.com/gag/a0e8ZyZ)
- - 💣 [Ah yes this is such a good spot to stand and chill](http://9gag.com/gag/aNDrgX4)
- - 😝 [That&#39;s why I always drink tap water.](http://9gag.com/gag/a9ybn3j)
- - 👉 [Bad experience?](http://9gag.com/gag/aByRmoQ)<!-- MEMES:END -->
+ - 😝 [Old but you are welcome you racist sons of b*tches! See you tomorrow!](http://9gag.com/gag/a5QeQgO)
+ - 😝 [Accurate](http://9gag.com/gag/aD2A2mZ)
+ - 💣 [This explains the situation perfectly....](http://9gag.com/gag/aVvz74d)
+ - 😝 [Let&#39;s just stay in our own parts of the world unless you accept and adapt to the values where you live](http://9gag.com/gag/apRER7b)
+ - 👉 [Scared the straightness outta him](http://9gag.com/gag/aE0v8KK)<!-- MEMES:END -->
 
 ---
 

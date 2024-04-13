@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Al Ittihad `fan` whips player](http://9gag.com/gag/aGyYEy7)
- - 😝 [In today&#39;s episode of women](http://9gag.com/gag/an7qOPn)
- - 💣 [Old but you are welcome you racist sons of b*tches! See you tomorrow!](http://9gag.com/gag/a5QeQgO)
- - 😝 [Traveling abroad soon and had to watch this video, again.](http://9gag.com/gag/adB0g3j)
- - 👉 [Girlfriend got caught cheating and this was her reaction....](http://9gag.com/gag/aVvzgGw)<!-- MEMES:END -->
+ - 😝 [This is what the driving position of a driver looks like inside a Formula 1 car.](http://9gag.com/gag/a9ybqXo)
+ - 😝 [Guess the country](http://9gag.com/gag/aoyEW6x)
+ - 💣 [Could\u2019ve lived without possibly knowing this is a thing](http://9gag.com/gag/aZZbr4n)
+ - 😝 [Terrorist attack at Bondi Junction, 6 casualties including a baby](http://9gag.com/gag/a7oL8pm)
+ - 👉 [Make him famous to get faster Internet - 4.5 million times faster than average broadband](http://9gag.com/gag/a0e84AL)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stop the discrimination and shop at 7-11 ..](http://9gag.com/gag/aYQNrm7)
- - 😝 [Best childhood memories](http://9gag.com/gag/a34PGdv)
- - 💣 [Progressive Public Transport In Europe](http://9gag.com/gag/aVvzbDw)
- - 😝 [Old but you are welcome you racist sons of b*tches! See you tomorrow!](http://9gag.com/gag/a5QeQgO)
- - 👉 [One of the biggest what if in NBA](http://9gag.com/gag/abAXVWX)<!-- MEMES:END -->
+ - 😝 [And get on it now !](http://9gag.com/gag/aD2A2r9)
+ - 😝 [The Fall of European Civilization. Women Being Emotional, Naive And Stupid.](http://9gag.com/gag/aRBwEj7)
+ - 💣 [Dualshock battery level low.](http://9gag.com/gag/a4PKoMv)
+ - 😝 [People who go to the gym](http://9gag.com/gag/amoNAZX)
+ - 👉 [We\u2019re in the wrong multiverse, friends](http://9gag.com/gag/aKGwGbZ)<!-- MEMES:END -->
 
 ---
 

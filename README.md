@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What\u2019s wrong with Europe.](http://9gag.com/gag/aO8Kepr)
- - 😝 [One way to make them learn](http://9gag.com/gag/aZZbQQp)
- - 💣 [Please use the right 2 lanes](http://9gag.com/gag/aAyREZp)
- - 😝 [Girlfriend got caught cheating and this was her reaction....](http://9gag.com/gag/aVvzgGw)
- - 👉 [Best childhood memories](http://9gag.com/gag/a34PGdv)<!-- MEMES:END -->
+ - 😝 [Give the groom a corona and a shot of tequila and his truth comes out](http://9gag.com/gag/adB0OgV)
+ - 😝 [In today&#39;s episode of women](http://9gag.com/gag/an7qOPn)
+ - 💣 [This is Rapex, an anti-raping device for women. The woman inserts it like a tampon, with an applicator, and any man who tries to rape the woman impales himself on the barbs and must go to an emergency room to have the Rapex removed.](http://9gag.com/gag/a4PKNod)
+ - 😝 [Don&#39;t listen to the voices... Don&#39;t listen to the voices... Don&#39;t listen to the voices...](http://9gag.com/gag/aKGwvyb)
+ - 👉 [Girlfriend got caught cheating and this was her reaction....](http://9gag.com/gag/aVvzgGw)<!-- MEMES:END -->
 
 ---
 

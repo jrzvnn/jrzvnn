@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As Netflix&#39;s new film chief Dan Lin takes charge, the company aims to shift its film strategy to focus on audience appeal and cost efficiency &lpar;Nicole Sperling/New York Times&rpar;](http://www.techmeme.com/240414/p8#a240414p8)
  - [Google’s Pixel 9 may get an Apple-like satellite SOS feature](https://www.theverge.com/2024/4/14/24130379/google-pixel-9-emergency-satellite-sos-modem-apple-iphone)
  - [Best Waffle Makers of 2024     - CNET](https://www.cnet.com/home/kitchen-and-household/best-waffle-makers/#ftag=CAD590a51e)
  - [The Best Summer Beach and Pool Accessories, According to the CNET Staff Who Use Them     - CNET](https://www.cnet.com/tech/the-best-summer-beach-and-pool-accessories-according-to-the-cnet-staff-who-use-them/#ftag=CAD590a51e)
- - [Best Internet Providers in Charlotte, North Carolina     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-charlotte-nc/#ftag=CAD590a51e)
- - [LinkedIn: the number of companies with a designated head of AI position or a chief AI officer &lpar;CAIO&rpar; has almost tripled globally in the past five years &lpar;Emma Jacobs/Financial Times&rpar;](http://www.techmeme.com/240414/p7#a240414p7)<!-- TECH:END -->
+ - [Best Internet Providers in Charlotte, North Carolina     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-charlotte-nc/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

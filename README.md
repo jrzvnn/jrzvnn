@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is heartbreaking](http://9gag.com/gag/aZZbZ06)
- - 😝 [It shocked me how Palestinian support groups abandoned her so quickly](http://9gag.com/gag/a5QeVGy)
- - 💣 [Guess the country](http://9gag.com/gag/aoyEW6x)
- - 😝 [In today&#39;s episode of women](http://9gag.com/gag/an7qOPn)
- - 👉 [Terrorist attack at Bondi Junction, 6 casualties including a baby](http://9gag.com/gag/a7oL8pm)<!-- MEMES:END -->
+ - 😝 [Guess his ethnicity...](http://9gag.com/gag/a6ZmXAR)
+ - 😝 [Accusing someone of being racist while being racist yourself\u2026](http://9gag.com/gag/aByRynN)
+ - 💣 [Who&#39;s the driver? Is it a man or a woman?](http://9gag.com/gag/azxg5zm)
+ - 😝 [Terrorist attack at Bondi Junction, 6 casualties including a baby](http://9gag.com/gag/a7oL8pm)
+ - 👉 [In today&#39;s episode of women](http://9gag.com/gag/an7qOPn)<!-- MEMES:END -->
 
 ---
 

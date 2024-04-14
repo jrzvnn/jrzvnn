@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Ukraine&#39;s Cyberpolice Department chief Yevhenii Panchenko on his role after Russia&#39;s invasion, battling pro-Russian hacking groups, and more &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240414/p4#a240414p4)
- - [Last Chance: Snag This Shark FlexBreeze Fan During QVC&#39;s Discovery Days Event     - CNET](https://www.cnet.com/deals/last-chance-snag-this-shark-flexbreeze-fan-during-qvcs-discovery-days-event/#ftag=CAD590a51e)
- - [The IRS Owes 940,000 Taxpayers $1 Billion in Refunds from 2021. Here&#39;s What to Know     - CNET](https://www.cnet.com/personal-finance/the-irs-owes-940000-taxpayers-1-billion-in-refunds-from-2021-heres-what-to-know/#ftag=CAD590a51e)
- - [Your Taxes Are Due Tomorrow. What to Do if You Can&#39;t Afford Your Tax Bill     - CNET](https://www.cnet.com/personal-finance/taxes/your-taxes-are-due-tomorrow-what-to-do-if-you-cant-afford-your-tax-bill/#ftag=CAD590a51e)
- - [Just 1 Day Left to File Your Income Taxes: Tax Day Deadline for 2024     - CNET](https://www.cnet.com/personal-finance/taxes/just-1-day-left-to-file-your-income-taxes-tax-day-deadline-for-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Crash Detection helps police locate teenagers killed in New Zealand](https://appleinsider.com/articles/24/04/14/crash-detection-helps-police-locate-teenagers-killed-in-new-zealand?utm_medium=rss)
+ - [Use Apple Shortcuts to Build the Ultimate Daily Digital Journal](https://www.wired.com/story/apple-shortcuts-daily-digital-journal-how-to/)
+ - [Arsenal vs. Aston Villa Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/arsenal-vs-aston-villa-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
+ - [When to expect every Mac to get the AI-based M4 processor](https://appleinsider.com/articles/24/04/14/when-to-expect-every-mac-to-get-the-ai-based-m4-processor?utm_medium=rss)
+ - [Rolser Wallaby Tweed 2-Wheel Foldable Shopping Trolley Review: Practical Good Looks](https://www.wired.com/review/rolser-wallaby-tweed-2-wheel-foldable-shopping-trolley/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

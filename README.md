@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: software and services companies have almost $30B of debt that&#39;s classed as distressed, the most in any industry apart from real estate &lpar;Reshmi Basu/Bloomberg&rpar;](http://www.techmeme.com/240414/p3#a240414p3)
- - [An analysis of 200M+ student papers submitted over the past year: ~11% of papers showed signs of AI help and ~3% of papers contained at least 80% AI writing &lpar;Pilita Clark/Financial Times&rpar;](http://www.techmeme.com/240414/p2#a240414p2)
- - [A look at Vana, which raised $20M to let users get paid to share their Reddit posts and other data to train AI models; Reddit banned Vana&#39;s subreddit &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240414/p1#a240414p1)
- - [Best Firm Mattress of 2024     - CNET](https://www.cnet.com/health/sleep/best-firm-mattress/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints and Answer: Help for April 14, #1030     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-14-1030/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Q&amp;A with Ukraine&#39;s Cyberpolice Department chief Yevhenii Panchenko on his role after Russia&#39;s invasion, battling pro-Russian hacking groups, and more &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240414/p4#a240414p4)
+ - [Last Chance: Snag This Shark FlexBreeze Fan During QVC&#39;s Discovery Days Event     - CNET](https://www.cnet.com/deals/last-chance-snag-this-shark-flexbreeze-fan-during-qvcs-discovery-days-event/#ftag=CAD590a51e)
+ - [The IRS Owes 940,000 Taxpayers $1 Billion in Refunds from 2021. Here&#39;s What to Know     - CNET](https://www.cnet.com/personal-finance/the-irs-owes-940000-taxpayers-1-billion-in-refunds-from-2021-heres-what-to-know/#ftag=CAD590a51e)
+ - [Your Taxes Are Due Tomorrow. What to Do if You Can&#39;t Afford Your Tax Bill     - CNET](https://www.cnet.com/personal-finance/taxes/your-taxes-are-due-tomorrow-what-to-do-if-you-cant-afford-your-tax-bill/#ftag=CAD590a51e)
+ - [Just 1 Day Left to File Your Income Taxes: Tax Day Deadline for 2024     - CNET](https://www.cnet.com/personal-finance/taxes/just-1-day-left-to-file-your-income-taxes-tax-day-deadline-for-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

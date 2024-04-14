@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We\u2019re in the wrong multiverse, friends](http://9gag.com/gag/aKGwGbZ)
- - 😝 [She can polish me any time](http://9gag.com/gag/a7oLOLz)
- - 💣 [A father leaving the scene of the Bondi Junction Sydney mall with his children, but he covered their eyes with masks, so that they wouldn\u2019t see the horror.](http://9gag.com/gag/aYQNE1N)
- - 😝 [Terrorist attack at Bondi Junction, 6 casualties including a baby](http://9gag.com/gag/a7oL8pm)
- - 👉 [Accusing someone of being racist while being racist yourself\u2026](http://9gag.com/gag/aByRynN)<!-- MEMES:END -->
+ - 😝 [This is heartbreaking](http://9gag.com/gag/aZZbZ06)
+ - 😝 [It shocked me how Palestinian support groups abandoned her so quickly](http://9gag.com/gag/a5QeVGy)
+ - 💣 [Guess the country](http://9gag.com/gag/aoyEW6x)
+ - 😝 [In today&#39;s episode of women](http://9gag.com/gag/an7qOPn)
+ - 👉 [Terrorist attack at Bondi Junction, 6 casualties including a baby](http://9gag.com/gag/a7oL8pm)<!-- MEMES:END -->
 
 ---
 

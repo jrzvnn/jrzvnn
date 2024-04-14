@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources detail how Senate Commerce Committee chair Maria Cantwell, who recently proposed a privacy bill, has undermined privacy negotiations for years &lpar;Cristiano Lima-Strong/Washington Post&rpar;](http://www.techmeme.com/240413/p12#a240413p12)
+ - [How Israel Is Defending Against Iran&#39;s Drone Attack](https://www.wired.com/story/iran-israel-drone-attack-iron-dome/)
+ - [Best Pixel 8 and Pixel 8 Pro Deals: Save $450 Off the Regular Price or Up to $1,000 off with Trade-In     - CNET](https://www.cnet.com/deals/best-google-pixel-8-deals/#ftag=CAD590a51e)
  - [Meta says it is testing its Meta AI chatbot with WhatsApp, Instagram, and Messenger users in India and parts of Africa &lpar;TechCrunch&rpar;](http://www.techmeme.com/240413/p11#a240413p11)
- - [Police arrested four people over $300,000 of stolen Lego kits](https://www.theverge.com/2024/4/13/24129595/lego-crime-ring-arrested-los-angeles-300000-dollars)
- - [The Absolute Best Horror Movies on Hulu     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-horror-movies-on-hulu-april-2024/#ftag=CAD590a51e)
- - [An experiment to see how a Threads feed would work on Mastodon, using lists and testing third-party clients, which shows the bright future of the fediverse &lpar;Anuj Ahooja/augment&rpar;](http://www.techmeme.com/240413/p10#a240413p10)
- - [Save on Chipolo Trackers and Never Lose Your Wallet or Keys Again     - CNET](https://www.cnet.com/deals/save-on-chipolo-tracker-bundles-and-never-lose-your-wallet-or-keys-again/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [If You Can&#39;t Finish Your Taxes by Monday, File a Free Tax Extension: Here&#39;s How It Works     - CNET](https://www.cnet.com/personal-finance/taxes/if-you-cant-finish-your-taxes-by-monday-file-a-free-tax-extension-heres-how-it-works/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

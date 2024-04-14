@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis: software and services companies have almost $30B of debt that&#39;s classed as distressed, the most in any industry apart from real estate &lpar;Reshmi Basu/Bloomberg&rpar;](http://www.techmeme.com/240414/p3#a240414p3)
+ - [An analysis of 200M+ student papers submitted over the past year: ~11% of papers showed signs of AI help and ~3% of papers contained at least 80% AI writing &lpar;Pilita Clark/Financial Times&rpar;](http://www.techmeme.com/240414/p2#a240414p2)
  - [A look at Vana, which raised $20M to let users get paid to share their Reddit posts and other data to train AI models; Reddit banned Vana&#39;s subreddit &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240414/p1#a240414p1)
  - [Today&#39;s Wordle Hints and Answer: Help for April 14, #1030     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-14-1030/#ftag=CAD590a51e)
- - [Game emulators arrive in App Store following rule changes](https://appleinsider.com/articles/24/04/14/game-emulators-arrive-in-app-store-following-rule-changes?utm_medium=rss)
- - [Best Places to Buy Replacement Prescription Lenses Online in 2024     - CNET](https://www.cnet.com/health/personal-care/best-places-to-buy-replacement-prescription-lenses/#ftag=CAD590a51e)
- - [Sources detail how Senate Commerce Committee chair Maria Cantwell, who recently proposed a privacy bill, has undermined privacy negotiations for years &lpar;Cristiano Lima-Strong/Washington Post&rpar;](http://www.techmeme.com/240413/p12#a240413p12)<!-- TECH:END -->
+ - [Game emulators arrive in App Store following rule changes](https://appleinsider.com/articles/24/04/14/game-emulators-arrive-in-app-store-following-rule-changes?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

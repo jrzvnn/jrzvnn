@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [10 Best Retro Game Consoles &lpar;2024&rpar;: Evercade, Polymega, Analogue Pocket, and Controllers](https://www.wired.com/gallery/best-retro-gaming-consoles/)
+ - [The first Apple-approved emulators for the iPhone have arrived](https://www.theverge.com/2024/4/14/24129981/game-boy-emulator-igba-iphone-ios-app-store-gba4ios-testut-knock-off)
+ - [Source: Google&#39;s new Pixel 9 series, next-gen Pixel Fold, and 5G tablet that is under development will feature a new modem that supports satellite connectivity &lpar;Kamila Wojciechowska/Android Authority&rpar;](http://www.techmeme.com/240414/p6#a240414p6)
  - [Crash Detection helps police locate teenagers killed in New Zealand](https://appleinsider.com/articles/24/04/14/crash-detection-helps-police-locate-teenagers-killed-in-new-zealand?utm_medium=rss)
- - [Use Apple Shortcuts to Build the Ultimate Daily Digital Journal](https://www.wired.com/story/apple-shortcuts-daily-digital-journal-how-to/)
- - [Arsenal vs. Aston Villa Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/arsenal-vs-aston-villa-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [When to expect every Mac to get the AI-based M4 processor](https://appleinsider.com/articles/24/04/14/when-to-expect-every-mac-to-get-the-ai-based-m4-processor?utm_medium=rss)
- - [Rolser Wallaby Tweed 2-Wheel Foldable Shopping Trolley Review: Practical Good Looks](https://www.wired.com/review/rolser-wallaby-tweed-2-wheel-foldable-shopping-trolley/)<!-- TECH:END -->
+ - [How to Watch the Masters 2024: TV Schedule, Tee Times, Watch Final Round Today     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-the-masters-2024-tv-schedule-tee-times-watch-final-round-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

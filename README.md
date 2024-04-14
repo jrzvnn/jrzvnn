@@ -177,9 +177,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Al Ittihad `fan` whips player](http://9gag.com/gag/aGyYEy7)
  - 😝 [Guess the country](http://9gag.com/gag/aoyEW6x)
- - 💣 [Best childhood memories](http://9gag.com/gag/a34PGdv)
- - 😝 [Release the best](http://9gag.com/gag/aZZbnd9)
- - 👉 [Old but you are welcome you racist sons of b*tches! See you tomorrow!](http://9gag.com/gag/a5QeQgO)<!-- MEMES:END -->
+ - 💣 [Every time. LMAO](http://9gag.com/gag/an7q7mE)
+ - 😝 [Best childhood memories](http://9gag.com/gag/a34PGdv)
+ - 👉 [Terrorist attack at Bondi Junction, 6 casualties including a baby](http://9gag.com/gag/a7oL8pm)<!-- MEMES:END -->
 
 ---
 

@@ -169,8 +169,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Analysis: software and services companies have almost $30B of debt that&#39;s classed as distressed, the most in any industry apart from real estate &lpar;Reshmi Basu/Bloomberg&rpar;](http://www.techmeme.com/240414/p3#a240414p3)
  - [An analysis of 200M+ student papers submitted over the past year: ~11% of papers showed signs of AI help and ~3% of papers contained at least 80% AI writing &lpar;Pilita Clark/Financial Times&rpar;](http://www.techmeme.com/240414/p2#a240414p2)
  - [A look at Vana, which raised $20M to let users get paid to share their Reddit posts and other data to train AI models; Reddit banned Vana&#39;s subreddit &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240414/p1#a240414p1)
- - [Today&#39;s Wordle Hints and Answer: Help for April 14, #1030     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-14-1030/#ftag=CAD590a51e)
- - [Game emulators arrive in App Store following rule changes](https://appleinsider.com/articles/24/04/14/game-emulators-arrive-in-app-store-following-rule-changes?utm_medium=rss)<!-- TECH:END -->
+ - [Best Firm Mattress of 2024     - CNET](https://www.cnet.com/health/sleep/best-firm-mattress/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints and Answer: Help for April 14, #1030     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-14-1030/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

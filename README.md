@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Al Ittihad `fan` whips player](http://9gag.com/gag/aGyYEy7)
- - 😝 [Guess the country](http://9gag.com/gag/aoyEW6x)
- - 💣 [Every time. LMAO](http://9gag.com/gag/an7q7mE)
- - 😝 [Best childhood memories](http://9gag.com/gag/a34PGdv)
- - 👉 [Terrorist attack at Bondi Junction, 6 casualties including a baby](http://9gag.com/gag/a7oL8pm)<!-- MEMES:END -->
+ - 😝 [Accusing someone of being racist while being racist yourself\u2026](http://9gag.com/gag/aByRynN)
+ - 😝 [F around and find out](http://9gag.com/gag/aoyEWBn)
+ - 💣 [In today&#39;s episode of women](http://9gag.com/gag/an7qOPn)
+ - 😝 [Every time. LMAO](http://9gag.com/gag/an7q7mE)
+ - 👉 [Guess the country](http://9gag.com/gag/aoyEW6x)<!-- MEMES:END -->
 
 ---
 

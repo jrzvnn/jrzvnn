@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Al Ittihad `fan` whips player](http://9gag.com/gag/aGyYEy7)
- - 😝 [In today&#39;s episode of women](http://9gag.com/gag/an7qOPn)
- - 💣 [Every time. LMAO](http://9gag.com/gag/an7q7mE)
- - 😝 [Jealous crazy lady throws a tantrum and gets left behind.](http://9gag.com/gag/aXP0LXg)
- - 👉 [Accusing someone of being racist while being racist yourself\u2026](http://9gag.com/gag/aByRynN)<!-- MEMES:END -->
+ - 😝 [???](http://9gag.com/gag/aNDrD6w)
+ - 😝 [The immigrant that murdered the 39y old infront of his kid in Sweden](http://9gag.com/gag/aO8K4pN)
+ - 💣 [Terrorist attack at Bondi Junction, 6 casualties including a baby](http://9gag.com/gag/a7oL8pm)
+ - 😝 [Every time. LMAO](http://9gag.com/gag/an7q7mE)
+ - 👉 [In today&#39;s episode of women](http://9gag.com/gag/an7qOPn)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yesterday evening, there was a robbery at a phone shop in Whitechapel. The people who own the shop locked the thieves inside so they couldn&#39;t get away.](http://9gag.com/gag/ayN73qp)
+ - 😝 [What\u2019s wrong with Europe.](http://9gag.com/gag/aO8Kepr)
+ - 😝 [One way to make them learn](http://9gag.com/gag/aZZbQQp)
+ - 💣 [Please use the right 2 lanes](http://9gag.com/gag/aAyREZp)
  - 😝 [Girlfriend got caught cheating and this was her reaction....](http://9gag.com/gag/aVvzgGw)
- - 💣 [This is Rapex, an anti-raping device for women. The woman inserts it like a tampon, with an applicator, and any man who tries to rape the woman impales himself on the barbs and must go to an emergency room to have the Rapex removed.](http://9gag.com/gag/a4PKNod)
- - 😝 [Every time. LMAO](http://9gag.com/gag/an7q7mE)
- - 👉 [Please use the right 2 lanes](http://9gag.com/gag/aAyREZp)<!-- MEMES:END -->
+ - 👉 [Best childhood memories](http://9gag.com/gag/a34PGdv)<!-- MEMES:END -->
 
 ---
 

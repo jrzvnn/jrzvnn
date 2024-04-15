@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yesterday evening, there was a robbery at a phone shop in Whitechapel. The people who own the shop locked the thieves inside so they couldn&#39;t get away.](http://9gag.com/gag/ayN73qp)
- - 😝 [Old man short-circuited college woman](http://9gag.com/gag/aD2AnX9)
- - 💣 [How does this works](http://9gag.com/gag/aD2A6wO)
- - 😝 [A father leaving the scene of the Bondi Junction Sydney mall with his children, but he covered their eyes with masks, so that they wouldn\u2019t see the horror.](http://9gag.com/gag/aYQNE1N)
- - 👉 [Please use the right 2 lanes](http://9gag.com/gag/aAyREZp)<!-- MEMES:END -->
+ - 😝 [Don&#39;t listen to the voices... Don&#39;t listen to the voices... Don&#39;t listen to the voices...](http://9gag.com/gag/aKGwvyb)
+ - 😝 [Please use the right 2 lanes](http://9gag.com/gag/aAyREZp)
+ - 💣 [This is Rapex, an anti-raping device for women. The woman inserts it like a tampon, with an applicator, and any man who tries to rape the woman impales himself on the barbs and must go to an emergency room to have the Rapex removed.](http://9gag.com/gag/a4PKNod)
+ - 😝 [Ill be back chicken heads](http://9gag.com/gag/aAyR4pL)
+ - 👉 [Title](http://9gag.com/gag/ajPYx81)<!-- MEMES:END -->
 
 ---
 

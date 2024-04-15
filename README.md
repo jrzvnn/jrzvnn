@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Is a watchdog for corporate climate commitments caving to industry?](https://www.theverge.com/2024/4/15/24130886/climate-change-corporate-watchdog-sbti-carbon-offsets)
  - [Impressions of Waymo&#39;s robotaxis, now running in SF and Phoenix, after several rides: amazing tech that quickly feels &quot;normal&quot;, but they aren&#39;t perfect &lpar;Peter Kafka/Business Insider&rpar;](http://www.techmeme.com/240415/p21#a240415p21)
  - [ISD: fake footage of Iran&#39;s attack on Israel went viral on X, including AI-made videos and photos, with many posts from verified accounts and &quot;OSINT experts&quot; &lpar;Vittoria Elliott/Wired&rpar;](http://www.techmeme.com/240415/p20#a240415p20)
  - [Decoding FCC’s ‘Broadband Nutrition Labels’: What You Should Know     - CNET](https://www.cnet.com/home/internet/decoding-fccs-broadband-nutrition-labels-what-you-should-know/#ftag=CAD590a51e)
- - [Rose Spa Gift Basket     - CNET](https://www.cnet.com/health/rose-spa-gift-basket-dpnl/#ftag=CAD590a51e)
- - [Taxes Are Due Today. Here&#39;s When You Could Get Your Refund Money     - CNET](https://www.cnet.com/personal-finance/taxes/taxes-are-due-today-heres-when-you-could-get-your-refund-money/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Rose Spa Gift Basket     - CNET](https://www.cnet.com/health/rose-spa-gift-basket-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

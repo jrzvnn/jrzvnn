@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Morgan Stanley fires back at iPhone doomsday research](https://appleinsider.com/articles/24/04/15/morgan-stanley-fires-back-at-iphone-doomsday-research?utm_medium=rss)
+ - [Rivian’s new software update will help you avoid all the broken EV chargers](https://www.theverge.com/2024/4/15/24130849/rivian-ev-charger-score-software-update)
  - [Source: a16z closed $7.2B for its newest set of funds, with allocations for AI infrastructure, AI apps, its &quot;American Dynamism&quot; strategy, and more &lpar;Kia Kokalitcheva/Axios&rpar;](http://www.techmeme.com/240415/p16#a240415p16)
  - [Apple uses a unique method to stream and present immersive video](https://appleinsider.com/articles/24/04/15/apple-uses-a-unique-method-to-stream-and-present-immersive-video?utm_medium=rss)
- - [Adobe&#39;s generative AI video tools are coming soon to Premiere Pro](https://appleinsider.com/articles/24/04/15/adobes-generative-ai-video-tools-are-coming-soon-to-premier-pro?utm_medium=rss)
- - [Sources detail how China-based ByteDance and US TikTok operations remain intertwined, with some US staff effectively reporting to ByteDance, data sharing, more &lpar;Alexandra Sternlicht/Fortune&rpar;](http://www.techmeme.com/240415/p15#a240415p15)
- - [Meta is making it easier to bring Quest headsets into the classroom](https://www.theverge.com/2024/4/15/24130850/meta-quest-headsets-educational-product-classroom)<!-- TECH:END -->
+ - [Adobe&#39;s generative AI video tools are coming soon to Premiere Pro](https://appleinsider.com/articles/24/04/15/adobes-generative-ai-video-tools-are-coming-soon-to-premier-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

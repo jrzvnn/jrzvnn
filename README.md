@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [Sony’s WF-1000XM5 earbuds are on sale for just $7 shy of their all-time low](https://www.theverge.com/2024/4/15/24130833/sony-wf-1000xm5-earbuds-apple-magic-keyboard-deal-sale)
+ - [Stanford&#39;s AI Index report: training top AI models gets more expensive, AI still trails humans on complex tasks, people have become more worried about AI, more &lpar;Artificial Intelligence Index&rpar;](http://www.techmeme.com/240415/p18#a240415p18)
  - [Disney reportedly wants to bring always-on channels to Disney Plus](https://www.theverge.com/2024/4/15/24131034/disney-plus-fast-channels-streaming)
- - [Australian court is the latest to attack Apple on behalf of rich corporations](https://appleinsider.com/articles/24/04/15/australian-court-is-the-latest-to-attack-apple-on-behalf-of-rich-corporations?utm_medium=rss)
- - [Sources: Instagram is in the early stages of testing &quot;Creator AI&quot; chatbots for top influencers, which would automate DM responses to fans in a creator&#39;s &quot;voice&quot; &lpar;New York Times&rpar;](http://www.techmeme.com/240415/p17#a240415p17)
- - [Morgan Stanley fires back at iPhone doomsday research](https://appleinsider.com/articles/24/04/15/morgan-stanley-fires-back-at-iphone-doomsday-research?utm_medium=rss)
- - [Rivian’s new software update will help you avoid all the broken EV chargers](https://www.theverge.com/2024/4/15/24130849/rivian-ev-charger-score-software-update)<!-- TECH:END -->
+ - [Australian court is the latest to attack Apple on behalf of rich corporations](https://appleinsider.com/articles/24/04/15/australian-court-is-the-latest-to-attack-apple-on-behalf-of-rich-corporations?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

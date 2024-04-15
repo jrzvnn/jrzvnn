@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As nine US states advance online child safety bills, a look at tech giants&#39; lobbying efforts against the legislation, led by industry group NetChoice &lpar;Katie McQue/The Guardian&rpar;](http://www.techmeme.com/240415/p22#a240415p22)
  - [Is a watchdog for corporate climate commitments caving to industry?](https://www.theverge.com/2024/4/15/24130886/climate-change-corporate-watchdog-sbti-carbon-offsets)
  - [8 Qt Digital Air Fryer     - CNET](https://www.cnet.com/home/kitchen-and-household/8-qt-digital-air-fryer-dpnl/#ftag=CAD590a51e)
  - [Google Pixel 9 Rumored To Get Satellite Connectivity, Too     - CNET](https://www.cnet.com/tech/mobile/google-pixel-9-rumored-to-get-satellite-connectivity-too/#ftag=CAD590a51e)
- - [Score a Lifetime Babbel Subscription for More Than 70% Off     - CNET](https://www.cnet.com/deals/score-a-lifetime-babbel-subscription-for-more-than-70-off/#ftag=CAD590a51e)
- - [Impressions of Waymo&#39;s robotaxis, now running in SF and Phoenix, after several rides: amazing tech that quickly feels &quot;normal&quot;, but they aren&#39;t perfect &lpar;Peter Kafka/Business Insider&rpar;](http://www.techmeme.com/240415/p21#a240415p21)<!-- TECH:END -->
+ - [Score a Lifetime Babbel Subscription for More Than 70% Off     - CNET](https://www.cnet.com/deals/score-a-lifetime-babbel-subscription-for-more-than-70-off/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

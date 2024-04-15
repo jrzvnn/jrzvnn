@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tesla lays off ‘more than 10 percent’ of its workforce, loses top executives](https://www.theverge.com/2024/4/15/24130735/tesla-layoffs-10-percent-workforce-disappointing-sales)
  - [Removal of App Store&#39;s first emulator leaves more questions than answers](https://appleinsider.com/articles/24/04/14/app-stores-first-emulator-looks-like-its-an-ad-loaded-knockoff?utm_medium=rss)
  - [Fake Footage of Iran’s Attack on Israel Is Going Viral](https://www.wired.com/story/iran-israel-attack-viral-fake-content/)
  - [CISA said locks from RealPage&#39;s Chirp Systems, reportedly on ~50K US dwellings, can be unlocked via a hack; Chirp was told in 2021 but is quiet about the flaw &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/240415/p19#a240415p19)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [Sony’s WF-1000XM5 earbuds are on sale for just $7 shy of their all-time low](https://www.theverge.com/2024/4/15/24130833/sony-wf-1000xm5-earbuds-apple-magic-keyboard-deal-sale)<!-- TECH:END -->
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

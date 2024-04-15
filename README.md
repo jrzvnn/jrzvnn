@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Asus ROG Strix Scar 18 &lpar;2024&rpar; Review: Portable Powerhouse Gaming](https://www.wired.com/review/asus-rog-strix-scar-18/)
- - [As Microsoft begins its most ambitious security overhaul in two decades, critics question if Microsoft has sufficient incentive to make deep and lasting changes &lpar;Bloomberg&rpar;](http://www.techmeme.com/240415/p9#a240415p9)
- - [The Best Google Docs Keyboard Shortcuts for Boosting Your Productivity](https://www.wired.com/story/best-google-docs-keyboard-shortcuts-productivity/)
- - [Save up to $350 on every Apple M3 MacBook Pro, plus get up to $80 off AppleCare](https://appleinsider.com/articles/24/02/04/save-up-to-350-on-every-apple-m3-macbook-pro-plus-get-up-to-80-off-applecare?utm_medium=rss)
- - [Rumor: iPhone 16 Pro camera coating could reduce lens flare](https://appleinsider.com/articles/24/04/15/rumor-iphone-16-pro-camera-coating-could-reduce-lens-flare?utm_medium=rss)<!-- TECH:END -->
+ - [Adobe&#39;s generative AI video tools are coming soon to Premier Pro](https://appleinsider.com/articles/24/04/15/adobes-generative-ai-video-tools-are-coming-soon-to-premier-pro?utm_medium=rss)
+ - [Adobe releases Acrobat AI Assistant to summarize and answer questions about documents for $4.99/month as an &quot;early access&quot; rate, and a mobile version in beta &lpar;Alex Koller/CNBC&rpar;](http://www.techmeme.com/240415/p10#a240415p10)
+ - [Adobe Premiere Pro is getting generative AI video tools — and hopefully OpenAI’s Sora](https://www.theverge.com/2024/4/15/24130804/adobe-premiere-pro-firefly-video-generative-ai-openai-sora)
+ - [13 Best Gaming Mice and Mousepads &lpar;2024&rpar;: Wireless, Wired, and Under $50](https://www.wired.com/gallery/best-gaming-mouse/)
+ - [Sony’s PS5 Pro is real and developers are getting ready for it](https://www.theverge.com/2024/4/15/24130716/sony-ps5-pro-specs-release-date-rumors)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

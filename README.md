@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rumor: iPhone 16 Pro camera coating could reduce lens flare](https://appleinsider.com/articles/24/04/15/rumor-iphone-16-pro-camera-coating-could-reduce-lens-flare?utm_medium=rss)
  - [Meta plans to temporarily shut down Threads in Turkey from April 29 to comply with an interim order prohibiting data sharing between Threads and Instagram &lpar;Meta&rpar;](http://www.techmeme.com/240415/p8#a240415p8)
  - [Tesla is reportedly laying off ‘more than 10 percent’ of its workforce](https://www.theverge.com/2024/4/15/24130735/tesla-layoffs-10-percent-workforce-disappointing-sales)
  - [The Paradox That&#39;s Supercharging Climate Change](https://www.wired.com/story/the-paradox-thats-supercharging-climate-change/)
- - [Ikea’s New Range Is Stealth Mode for Gamers](https://www.wired.com/story/ikea-wants-to-make-gaming-furniture-a-natural-part-of-your-home/)
- - [Singapore-based used car marketplace Carro raised ~$100M in pre-IPO funding at a $1.5B+ valuation and reports its first annual operating profit &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/240415/p7#a240415p7)<!-- TECH:END -->
+ - [Ikea’s New Range Is Stealth Mode for Gamers](https://www.wired.com/story/ikea-wants-to-make-gaming-furniture-a-natural-part-of-your-home/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

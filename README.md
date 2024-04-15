@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A violent black man](http://9gag.com/gag/aXP04DD)
- - 😝 [Please use the right 2 lanes](http://9gag.com/gag/aAyREZp)
- - 💣 [A father leaving the scene of the Bondi Junction Sydney mall with his children, but he covered their eyes with masks, so that they wouldn\u2019t see the horror.](http://9gag.com/gag/aYQNE1N)
+ - 😝 [Colors, colours](http://9gag.com/gag/abAXx8v)
+ - 😝 [Ill be back chicken heads](http://9gag.com/gag/aAyR4pL)
+ - 💣 [A violent black man](http://9gag.com/gag/aXP04DD)
  - 😝 [Enter into the exciting world of Buddy Arena with Affyn and choose your favorite fighting companion!](http://9gag.com/gag/a87LeD1)
- - 👉 [Colors, colours](http://9gag.com/gag/abAXx8v)<!-- MEMES:END -->
+ - 👉 [A father leaving the scene of the Bondi Junction Sydney mall with his children, but he covered their eyes with masks, so that they wouldn\u2019t see the horror.](http://9gag.com/gag/aYQNE1N)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
  - [The CFPB wants to rein in data brokers](https://www.theverge.com/2024/4/15/24131354/cfpb-data-brokers-fair-credit-reporting-act)
  - [Cybertruck owners say deliveries halted over bad accelerator pedal](https://www.theverge.com/2024/4/15/24131237/tesla-delivery-delay-accelerator-pedal-stuck)
  - [NASA needs a cheaper, faster way to bring Mars dirt back to Earth](https://www.theverge.com/2024/4/15/24131341/nasa-mars-sample-return-mission-elon-musk-space-x)
- - [Keanu Reeves is voicing Shadow the Hedgehog in the third Sonic movie](https://www.theverge.com/2024/4/15/24131385/keanu-reeves-shadow-the-hedgehog-sonic-3)
- - [YouTube’s ad blocker crackdown now includes third-party apps](https://www.theverge.com/2024/4/15/24131338/youtube-ad-blocker-crackdown-mobile-apps)<!-- TECH:END -->
+ - [Keanu Reeves is voicing Shadow the Hedgehog in the third Sonic movie](https://www.theverge.com/2024/4/15/24131385/keanu-reeves-shadow-the-hedgehog-sonic-3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

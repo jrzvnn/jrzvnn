@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta plans to launch a new education product for Quest that will let teachers access education apps for students ages 13+ and manage multiple headsets at once &lpar;Jennifer A. Kingson/Axios&rpar;](http://www.techmeme.com/240415/p24#a240415p24)
+ - [UK mulling potential AI regulation](https://www.theverge.com/2024/4/15/24131392/uk-ai-regulation-draft-safety)
  - [Japan to seek up to 20% fine for monopolistic practices by Apple](https://appleinsider.com/articles/24/04/15/japan-to-seek-up-to-20-fine-for-monopolistic-practices-by-apple?utm_medium=rss)
  - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [I Tried Hungryroot. It&#39;s a Quirky Mix of Meal Kits and Grocery Delivery to Fuel Your Busy Week     - CNET](https://www.cnet.com/health/nutrition/hungryroot-review/#ftag=CAD590a51e)
- - [The CFPB wants to rein in data brokers](https://www.theverge.com/2024/4/15/24131354/cfpb-data-brokers-fair-credit-reporting-act)
- - [Cybertruck owners say deliveries halted over bad accelerator pedal](https://www.theverge.com/2024/4/15/24131237/tesla-delivery-delay-accelerator-pedal-stuck)<!-- TECH:END -->
+ - [I Tried Hungryroot. It&#39;s a Quirky Mix of Meal Kits and Grocery Delivery to Fuel Your Busy Week     - CNET](https://www.cnet.com/health/nutrition/hungryroot-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

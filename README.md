@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [This is Rapex, an anti-raping device for women. The woman inserts it like a tampon, with an applicator, and any man who tries to rape the woman impales himself on the barbs and must go to an emergency room to have the Rapex removed.](http://9gag.com/gag/a4PKNod)
  - 😝 [Please use the right 2 lanes](http://9gag.com/gag/aAyREZp)
- - 😝 [Girlfriend got caught cheating and this was her reaction....](http://9gag.com/gag/aVvzgGw)
  - 💣 [In today&#39;s episode of women](http://9gag.com/gag/an7qOPn)
- - 😝 [I\u2019d pay good money for this](http://9gag.com/gag/amoNGNj)
- - 👉 [A father leaving the scene of the Bondi Junction Sydney mall with his children, but he covered their eyes with masks, so that they wouldn\u2019t see the horror.](http://9gag.com/gag/aYQNE1N)<!-- MEMES:END -->
+ - 😝 [Ill be back chicken heads](http://9gag.com/gag/aAyR4pL)
+ - 👉 [I\u2019d pay good money for this](http://9gag.com/gag/amoNGNj)<!-- MEMES:END -->
 
 ---
 

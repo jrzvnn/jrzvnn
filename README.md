@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is Rapex, an anti-raping device for women. The woman inserts it like a tampon, with an applicator, and any man who tries to rape the woman impales himself on the barbs and must go to an emergency room to have the Rapex removed.](http://9gag.com/gag/a4PKNod)
- - 😝 [NFT](http://9gag.com/gag/aW4Q74K)
- - 💣 [In today&#39;s episode of women](http://9gag.com/gag/an7qOPn)
+ - 😝 [Who&#39;s the driver? Is it a man or a woman?](http://9gag.com/gag/azxg5zm)
+ - 😝 [Terrorist attack at Bondi Junction, 6 casualties including a baby](http://9gag.com/gag/a7oL8pm)
+ - 💣 [I am really scared.. name me some..](http://9gag.com/gag/aAyR6dE)
  - 😝 [One way to make them learn](http://9gag.com/gag/aZZbQQp)
- - 👉 [Yesterday evening, there was a robbery at a phone shop in Whitechapel. The people who own the shop locked the thieves inside so they couldn&#39;t get away.](http://9gag.com/gag/ayN73qp)<!-- MEMES:END -->
+ - 👉 [A father leaving the scene of the Bondi Junction Sydney mall with his children, but he covered their eyes with masks, so that they wouldn\u2019t see the horror.](http://9gag.com/gag/aYQNE1N)<!-- MEMES:END -->
 
 ---
 

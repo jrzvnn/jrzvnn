@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As Microsoft begins its most ambitious security overhaul in two decades, critics question if Microsoft has sufficient incentive to make deep and lasting changes &lpar;Bloomberg&rpar;](http://www.techmeme.com/240415/p9#a240415p9)
+ - [The Best Google Docs Keyboard Shortcuts for Boosting Your Productivity](https://www.wired.com/story/best-google-docs-keyboard-shortcuts-productivity/)
  - [Save up to $350 on every Apple M3 MacBook Pro, plus get up to $80 off AppleCare](https://appleinsider.com/articles/24/02/04/save-up-to-350-on-every-apple-m3-macbook-pro-plus-get-up-to-80-off-applecare?utm_medium=rss)
  - [Rumor: iPhone 16 Pro camera coating could reduce lens flare](https://appleinsider.com/articles/24/04/15/rumor-iphone-16-pro-camera-coating-could-reduce-lens-flare?utm_medium=rss)
- - [Meta plans to temporarily shut down Threads in Turkey from April 29 to comply with an interim order prohibiting data sharing between Threads and Instagram &lpar;Meta&rpar;](http://www.techmeme.com/240415/p8#a240415p8)
- - [Tesla is reportedly laying off ‘more than 10 percent’ of its workforce](https://www.theverge.com/2024/4/15/24130735/tesla-layoffs-10-percent-workforce-disappointing-sales)
- - [The Paradox That&#39;s Supercharging Climate Change](https://www.wired.com/story/the-paradox-thats-supercharging-climate-change/)<!-- TECH:END -->
+ - [New Low: One of Our Favorite Wi-Fi 6 Routers Is Just $70 for a Limited Time Only     - CNET](https://www.cnet.com/deals/new-low-one-of-our-favorite-wi-fi-6-routers-is-just-70-for-a-limited-time-only/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

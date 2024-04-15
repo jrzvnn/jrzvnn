@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tesla is reportedly laying off ‘more than 10 percent’ of its workforce](https://www.theverge.com/2024/4/15/24130735/tesla-layoffs-10-percent-workforce-disappointing-sales)
+ - [The Paradox That&#39;s Supercharging Climate Change](https://www.wired.com/story/the-paradox-thats-supercharging-climate-change/)
+ - [Ikea’s New Range Is Stealth Mode for Gamers](https://www.wired.com/story/ikea-wants-to-make-gaming-furniture-a-natural-part-of-your-home/)
  - [Singapore-based used car marketplace Carro raised ~$100M in pre-IPO funding at a $1.5B+ valuation and reports its first annual operating profit &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/240415/p7#a240415p7)
- - [The US Government Has a Microsoft Problem](https://www.wired.com/story/the-us-government-has-a-microsoft-problem/)
- - [Removal of App Store&#39;s first emulator leaves more questions than answers](https://appleinsider.com/articles/24/04/14/app-stores-first-emulator-looks-like-its-an-ad-loaded-knockoff?utm_medium=rss)
- - [iPhone sales drop 10% as Samsung steadies and Chinese rivals grow](https://appleinsider.com/articles/24/04/15/iphone-sales-drop-10-as-samsung-steadies-and-chinese-rivals-grow?utm_medium=rss)
- - [Ugreen DXP8800 Plus network attached storage review: Good hardware, beta software](https://appleinsider.com/articles/24/04/12/ugreen-dxp8800-plus-network-attached-storage-review-good-hardware-beta-software?utm_medium=rss)<!-- TECH:END -->
+ - [The US Government Has a Microsoft Problem](https://www.wired.com/story/the-us-government-has-a-microsoft-problem/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

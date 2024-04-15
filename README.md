@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The first Apple-approved emulator for the iPhone has arrived... and been pulled](https://www.theverge.com/2024/4/14/24129981/game-boy-emulator-igba-iphone-ios-app-store-gba4ios-testut-knock-off)
+ - [A look at BlackPlanet, a social network for African Americans that went live in 1999, had ~15M users in 2008, and arguably laid the foundation for Black Twitter &lpar;Hannah Giorgis/The Atlantic&rpar;](http://www.techmeme.com/240415/p2#a240415p2)
  - [An overview of Bureau of Labor Statistics data, which shows California&#39;s percentage of US tech jobs has continued to steadily decline since 2020 &lpar;Joseph Politano/Apricitas Economics&rpar;](http://www.techmeme.com/240415/p1#a240415p1)
  - [Best Shave Club for 2024: Dollar Shave Club, Harry&#39;s and More     - CNET](https://www.cnet.com/health/personal-care/best-shave-club/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints and Answer: Help for April 15, #1031     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-15-1031/#ftag=CAD590a51e)
- - [When to expect every Mac to get the AI-based M4 processor](https://appleinsider.com/articles/24/04/14/when-to-expect-every-mac-to-get-the-ai-based-m4-processor?utm_medium=rss)
- - [Global smartphone shipments in Q1 2024 grew 7.8% YoY to 289.4M units; iPhone shipments fell 9.6% YoY, more than any other top brand, and Xiaomi grew 33.8% YoY &lpar;IDC&rpar;](http://www.techmeme.com/240414/p9#a240414p9)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints and Answer: Help for April 15, #1031     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-15-1031/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

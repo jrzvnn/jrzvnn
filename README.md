@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [This is Rapex, an anti-raping device for women. The woman inserts it like a tampon, with an applicator, and any man who tries to rape the woman impales himself on the barbs and must go to an emergency room to have the Rapex removed.](http://9gag.com/gag/a4PKNod)
- - 😝 [Please use the right 2 lanes](http://9gag.com/gag/aAyREZp)
+ - 😝 [NFT](http://9gag.com/gag/aW4Q74K)
  - 💣 [In today&#39;s episode of women](http://9gag.com/gag/an7qOPn)
- - 😝 [Ill be back chicken heads](http://9gag.com/gag/aAyR4pL)
- - 👉 [I\u2019d pay good money for this](http://9gag.com/gag/amoNGNj)<!-- MEMES:END -->
+ - 😝 [One way to make them learn](http://9gag.com/gag/aZZbQQp)
+ - 👉 [Yesterday evening, there was a robbery at a phone shop in Whitechapel. The people who own the shop locked the thieves inside so they couldn&#39;t get away.](http://9gag.com/gag/ayN73qp)<!-- MEMES:END -->
 
 ---
 

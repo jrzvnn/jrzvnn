@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EU antitrust regulators are questioning Broadcom about changes to VMware&#39;s licensing conditions, following complaints from EU business users and a trade group &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240415/p28#a240415p28)
  - [Limitless launches the $99 Limitless Pendant, a wearable AI gadget that transcribes meetings and provides real-time notes and summaries, shipping in August &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240415/p27#a240415p27)
  - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
  - [Letter: X&#39;s lawyers tell Brazil&#39;s Supreme Court that the social media platform will comply with every ruling issued by the court or Brazil&#39;s top electoral court &lpar;Ricardo Brito/Reuters&rpar;](http://www.techmeme.com/240415/p26#a240415p26)
- - [How scammers, often from Nigeria, are using sextortion to target teenage boys on social media in the US, leading to at least 20 suicides over an 18-month period &lpar;Olivia Carville/Bloomberg&rpar;](http://www.techmeme.com/240415/p25#a240415p25)
- - [Meta plans to launch a new education product for Quest that will let teachers access education apps for students ages 13+ and manage multiple headsets at once &lpar;Jennifer A. Kingson/Axios&rpar;](http://www.techmeme.com/240415/p24#a240415p24)<!-- TECH:END -->
+ - [How scammers, often from Nigeria, are using sextortion to target teenage boys on social media in the US, leading to at least 20 suicides over an 18-month period &lpar;Olivia Carville/Bloomberg&rpar;](http://www.techmeme.com/240415/p25#a240415p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

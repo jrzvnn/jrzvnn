@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ill be back chicken heads](http://9gag.com/gag/aAyR4pL)
+ - 😝 [She can polish me any time](http://9gag.com/gag/a7oLOLz)
+ - 😝 [Don&#39;t listen to the voices... Don&#39;t listen to the voices... Don&#39;t listen to the voices...](http://9gag.com/gag/aKGwvyb)
+ - 💣 [Girlfriend got caught cheating and this was her reaction....](http://9gag.com/gag/aVvzgGw)
  - 😝 [One way to make them learn](http://9gag.com/gag/aZZbQQp)
- - 💣 [Please use the right 2 lanes](http://9gag.com/gag/aAyREZp)
- - 😝 [I\u2019d pay good money for this](http://9gag.com/gag/amoNGNj)
- - 👉 [A father leaving the scene of the Bondi Junction Sydney mall with his children, but he covered their eyes with masks, so that they wouldn\u2019t see the horror.](http://9gag.com/gag/aYQNE1N)<!-- MEMES:END -->
+ - 👉 [This is Rapex, an anti-raping device for women. The woman inserts it like a tampon, with an applicator, and any man who tries to rape the woman impales himself on the barbs and must go to an emergency room to have the Rapex removed.](http://9gag.com/gag/a4PKNod)<!-- MEMES:END -->
 
 ---
 

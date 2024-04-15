@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple uses a unique method to stream and present immersive video](https://appleinsider.com/articles/24/04/15/apple-uses-a-unique-method-to-stream-and-present-immersive-video?utm_medium=rss)
+ - [Adobe&#39;s generative AI video tools are coming soon to Premiere Pro](https://appleinsider.com/articles/24/04/15/adobes-generative-ai-video-tools-are-coming-soon-to-premier-pro?utm_medium=rss)
  - [Sources detail how China-based ByteDance and US TikTok operations remain intertwined, with some US staff effectively reporting to ByteDance, data sharing, more &lpar;Alexandra Sternlicht/Fortune&rpar;](http://www.techmeme.com/240415/p15#a240415p15)
  - [Meta is making it easier to bring Quest headsets into the classroom](https://www.theverge.com/2024/4/15/24130850/meta-quest-headsets-educational-product-classroom)
- - [Q&amp;A with Dropbox CEO Drew Houston on adding AI tools, evolving beyond file syncing, rejecting Steve Jobs&#39; buyout offer, online storage, remote working, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240415/p14#a240415p14)
- - [An interview with Framework CEO Nirav Patel on ongoing firmware and software issues with its repairable laptops, the planned fixes, Intel and AMD, and more &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/240415/p13#a240415p13)
- - [Deals: Apple&#39;s M2 Mac mini &lpar;16GB RAM, 512GB SSD&rpar; plunges to $899](https://appleinsider.com/articles/24/04/15/deals-apples-m2-mac-mini-16gb-ram-512gb-ssd-plunges-to-899?utm_medium=rss)<!-- TECH:END -->
+ - [Q&amp;A with Dropbox CEO Drew Houston on adding AI tools, evolving beyond file syncing, rejecting Steve Jobs&#39; buyout offer, online storage, remote working, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240415/p14#a240415p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

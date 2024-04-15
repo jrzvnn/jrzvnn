@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That laugh at the end though](http://9gag.com/gag/aVvzZRy)
- - 😝 [In 1997, William Moldt disappeared after leaving a club to go home. He wasn&#39;t found until 2019 when a man using Google Earth to check out his old neighborhood in Florida discovered a car submerged in a pond.](http://9gag.com/gag/aoyEx5e)
- - 💣 [I\u2019d pay good money for this](http://9gag.com/gag/amoNGNj)
+ - 😝 [A totally normal win for the Chinese runner in Beijing Half Marathon](http://9gag.com/gag/azxgR5b)
+ - 😝 [Meme in its natural state](http://9gag.com/gag/aW4Qvzn)
+ - 💣 [Screw that sh*t](http://9gag.com/gag/aMV2vGR)
  - 😝 [Enter into the exciting world of Buddy Arena with Affyn and choose your favorite fighting companion!](http://9gag.com/gag/a87LeD1)
- - 👉 [This is Rapex, an anti-raping device for women. The woman inserts it like a tampon, with an applicator, and any man who tries to rape the woman impales himself on the barbs and must go to an emergency room to have the Rapex removed.](http://9gag.com/gag/a4PKNod)<!-- MEMES:END -->
+ - 👉 [Title](http://9gag.com/gag/ajPYx81)<!-- MEMES:END -->
 
 ---
 

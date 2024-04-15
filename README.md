@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who&#39;s the driver? Is it a man or a woman?](http://9gag.com/gag/azxg5zm)
- - 😝 [Terrorist attack at Bondi Junction, 6 casualties including a baby](http://9gag.com/gag/a7oL8pm)
- - 💣 [I am really scared.. name me some..](http://9gag.com/gag/aAyR6dE)
- - 😝 [One way to make them learn](http://9gag.com/gag/aZZbQQp)
- - 👉 [A father leaving the scene of the Bondi Junction Sydney mall with his children, but he covered their eyes with masks, so that they wouldn\u2019t see the horror.](http://9gag.com/gag/aYQNE1N)<!-- MEMES:END -->
+ - 😝 [Yesterday evening, there was a robbery at a phone shop in Whitechapel. The people who own the shop locked the thieves inside so they couldn&#39;t get away.](http://9gag.com/gag/ayN73qp)
+ - 😝 [Old man short-circuited college woman](http://9gag.com/gag/aD2AnX9)
+ - 💣 [How does this works](http://9gag.com/gag/aD2A6wO)
+ - 😝 [A father leaving the scene of the Bondi Junction Sydney mall with his children, but he covered their eyes with masks, so that they wouldn\u2019t see the horror.](http://9gag.com/gag/aYQNE1N)
+ - 👉 [Please use the right 2 lanes](http://9gag.com/gag/aAyREZp)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Love her smile](http://9gag.com/gag/aYQNMYm)
- - 😝 [A father leaving the scene of the Bondi Junction Sydney mall with his children, but he covered their eyes with masks, so that they wouldn\u2019t see the horror.](http://9gag.com/gag/aYQNE1N)
- - 💣 [I\u2019d pay good money for this](http://9gag.com/gag/amoNGNj)
+ - 😝 [Precision here was truly satisfying](http://9gag.com/gag/a7oLOVq)
+ - 😝 [Ill be back chicken heads](http://9gag.com/gag/aAyR4pL)
+ - 💣 [Fed up homeowner confronts recurring car thieves in driveway](http://9gag.com/gag/aNDrB5v)
  - 😝 [Enter into the exciting world of Buddy Arena with Affyn and choose your favorite fighting companion!](http://9gag.com/gag/a87LeD1)
- - 👉 [A violent black man](http://9gag.com/gag/aXP04DD)<!-- MEMES:END -->
+ - 👉 [A father leaving the scene of the Bondi Junction Sydney mall with his children, but he covered their eyes with masks, so that they wouldn\u2019t see the horror.](http://9gag.com/gag/aYQNE1N)<!-- MEMES:END -->
 
 ---
 

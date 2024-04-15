@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Meme in its natural state](http://9gag.com/gag/aW4Qvzn)
  - 😝 [Cover up](http://9gag.com/gag/adB0eNZ)
- - 😝 [Fed up homeowner confronts recurring car thieves in driveway](http://9gag.com/gag/aNDrB5v)
- - 💣 [Meme in its natural state](http://9gag.com/gag/aW4Qvzn)
+ - 💣 [Fans knows what&#39;s up](http://9gag.com/gag/aVvzZGK)
  - 😝 [Enter into the exciting world of Buddy Arena with Affyn and choose your favorite fighting companion!](http://9gag.com/gag/a87LeD1)
- - 👉 [Fans knows what&#39;s up](http://9gag.com/gag/aVvzZGK)<!-- MEMES:END -->
+ - 👉 [Title](http://9gag.com/gag/ajPYx81)<!-- MEMES:END -->
 
 ---
 

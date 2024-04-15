@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Smart coffee maker, Qi2 chargers, Aqara P2 motion sensor, &amp; more on HomeKit Insider](https://appleinsider.com/articles/24/04/15/smart-coffee-maker-qi2-chargers-aqara-p2-motion-sensor-more-on-homekit-insider?utm_medium=rss)
  - [Adobe&#39;s generative AI video tools are coming soon to Premier Pro](https://appleinsider.com/articles/24/04/15/adobes-generative-ai-video-tools-are-coming-soon-to-premier-pro?utm_medium=rss)
+ - [AT&amp;T, Charter, Comcast, and Verizon quietly lobby to weaken a $42.5B program to improve US internet access, aiming to block new rules on poor customers&#39; bills &lpar;Tony Romm/Washington Post&rpar;](http://www.techmeme.com/240415/p11#a240415p11)
  - [Adobe releases Acrobat AI Assistant to summarize and answer questions about documents for $4.99/month as an &quot;early access&quot; rate, and a mobile version in beta &lpar;Alex Koller/CNBC&rpar;](http://www.techmeme.com/240415/p10#a240415p10)
- - [Adobe Premiere Pro is getting generative AI video tools — and hopefully OpenAI’s Sora](https://www.theverge.com/2024/4/15/24130804/adobe-premiere-pro-firefly-video-generative-ai-openai-sora)
- - [13 Best Gaming Mice and Mousepads &lpar;2024&rpar;: Wireless, Wired, and Under $50](https://www.wired.com/gallery/best-gaming-mouse/)
- - [Sony’s PS5 Pro is real and developers are getting ready for it](https://www.theverge.com/2024/4/15/24130716/sony-ps5-pro-specs-release-date-rumors)<!-- TECH:END -->
+ - [Adobe Premiere Pro is getting generative AI video tools — and hopefully OpenAI’s Sora](https://www.theverge.com/2024/4/15/24130804/adobe-premiere-pro-firefly-video-generative-ai-openai-sora)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI opens an office in Tokyo and taps former president of Amazon Web Services&#39;s Japan arm Tadao Nagasaki to lead an enterprise push in the country &lpar;Bloomberg&rpar;](http://www.techmeme.com/240415/p4#a240415p4)
+ - [Source: cloud data management startup Rubrik plans to sell 23M shares priced between $28 and $31 each, raising up to $713M and reaching a $5.4B valuation &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/240415/p5#a240415p5)
+ - [OpenAI opens a Tokyo office, releases a Japanese language GPT-4 model, and taps former president of AWS&#39;s Japan arm Tadao Nagasaki to lead an enterprise push &lpar;Bloomberg&rpar;](http://www.techmeme.com/240415/p4#a240415p4)
  - [App Store&#39;s first emulator looks like it&#39;s an ad-loaded knockoff [u]](https://appleinsider.com/articles/24/04/14/app-stores-first-emulator-looks-like-its-an-ad-loaded-knockoff?utm_medium=rss)
  - [The US awards Samsung $6.4B in CHIPS Act funding and says the company plans to make 2nm chips at its Taylor, Texas plant by 2026, two years ahead of TSMC &lpar;Financial Times&rpar;](http://www.techmeme.com/240415/p3#a240415p3)
- - [The Next Frontier for Brain Implants Is Artificial Vision](https://www.wired.com/story/the-next-frontier-for-brain-implants-is-artificial-vision-neuralink-elon-musk/)
- - [Tax Day 2024. You May Want to File Taxes Even if You Receive Social Security: Here&#39;s Why     - CNET](https://www.cnet.com/personal-finance/tax-day-2024-you-may-want-to-file-taxes-even-if-you-receive-social-security-heres-why/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Next Frontier for Brain Implants Is Artificial Vision](https://www.wired.com/story/the-next-frontier-for-brain-implants-is-artificial-vision-neuralink-elon-musk/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t listen to the voices... Don&#39;t listen to the voices... Don&#39;t listen to the voices...](http://9gag.com/gag/aKGwvyb)
  - 😝 [Finding a Foot Long Crystal!](http://9gag.com/gag/ajPYZD0)
- - 💣 [In 1997, William Moldt disappeared after leaving a club to go home. He wasn&#39;t found until 2019 when a man using Google Earth to check out his old neighborhood in Florida discovered a car submerged in a pond.](http://9gag.com/gag/aoyEx5e)
+ - 😝 [Paris City Hall has just presented the official sandwich for the 2024 Olympic Games. 30\u20ac on its own, 36\u20ac with a drink.](http://9gag.com/gag/avypRpb)
+ - 💣 [One way to make them learn](http://9gag.com/gag/aZZbQQp)
  - 😝 [Enter into the exciting world of Buddy Arena with Affyn and choose your favorite fighting companion!](http://9gag.com/gag/a87LeD1)
- - 👉 [Fed up homeowner confronts recurring car thieves in driveway](http://9gag.com/gag/aNDrB5v)<!-- MEMES:END -->
+ - 👉 [Another stabbing down under.](http://9gag.com/gag/aKGw801)<!-- MEMES:END -->
 
 ---
 

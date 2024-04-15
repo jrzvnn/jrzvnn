@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Asus ROG Strix Scar 18 &lpar;2024&rpar; Review: Portable Powerhouse Gaming](https://www.wired.com/review/asus-rog-strix-scar-18/)
  - [As Microsoft begins its most ambitious security overhaul in two decades, critics question if Microsoft has sufficient incentive to make deep and lasting changes &lpar;Bloomberg&rpar;](http://www.techmeme.com/240415/p9#a240415p9)
  - [The Best Google Docs Keyboard Shortcuts for Boosting Your Productivity](https://www.wired.com/story/best-google-docs-keyboard-shortcuts-productivity/)
  - [Save up to $350 on every Apple M3 MacBook Pro, plus get up to $80 off AppleCare](https://appleinsider.com/articles/24/02/04/save-up-to-350-on-every-apple-m3-macbook-pro-plus-get-up-to-80-off-applecare?utm_medium=rss)
- - [Rumor: iPhone 16 Pro camera coating could reduce lens flare](https://appleinsider.com/articles/24/04/15/rumor-iphone-16-pro-camera-coating-could-reduce-lens-flare?utm_medium=rss)
- - [New Low: One of Our Favorite Wi-Fi 6 Routers Is Just $70 for a Limited Time Only     - CNET](https://www.cnet.com/deals/new-low-one-of-our-favorite-wi-fi-6-routers-is-just-70-for-a-limited-time-only/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Rumor: iPhone 16 Pro camera coating could reduce lens flare](https://appleinsider.com/articles/24/04/15/rumor-iphone-16-pro-camera-coating-could-reduce-lens-flare?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

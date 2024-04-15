@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fans knows what&#39;s up](http://9gag.com/gag/aVvzZGK)
- - 😝 [Oh wow](http://9gag.com/gag/a5Qez5y)
- - 💣 [Please...dont remove anything from your chest](http://9gag.com/gag/awy0dBQ)
- - 😝 [Enter into the exciting world of Buddy Arena with Affyn and choose your favorite fighting companion!](http://9gag.com/gag/a87LeD1)
- - 👉 [Screw that sh*t](http://9gag.com/gag/aMV2vGR)<!-- MEMES:END -->
+ - 😝 [Meme in its natural state](http://9gag.com/gag/aW4Qvzn)
+ - 😝 [Another stabbing down under.](http://9gag.com/gag/aKGw801)
+ - 💣 [Enter into the exciting world of Buddy Arena with Affyn and choose your favorite fighting companion!](http://9gag.com/gag/a87LeD1)
+ - 😝 [People outside the church in Australia demands the stabber handed over to them](http://9gag.com/gag/a1mv26v)
+ - 👉 [In 1997, William Moldt disappeared after leaving a club to go home. He wasn&#39;t found until 2019 when a man using Google Earth to check out his old neighborhood in Florida discovered a car submerged in a pond.](http://9gag.com/gag/aoyEx5e)<!-- MEMES:END -->
 
 ---
 

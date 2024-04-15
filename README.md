@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Airchat Is Silicon Valley’s Latest Obsession](https://www.wired.com/story/airchat-app-social-audio/)
- - [Drama about emulators on the App Store has only just begun](https://appleinsider.com/articles/24/04/15/drama-about-emulators-on-the-app-store-has-only-just-begun?utm_medium=rss)
- - [Sources: Tesla is focused on building a giant Texas datacenter for its robotaxi project, which is now a top priority, after postponing work on a cheaper vehicle &lpar;Fred Lambert/Electrek&rpar;](http://www.techmeme.com/240415/p23#a240415p23)
- - [As nine US states advance online child safety bills, a look at tech giants&#39; lobbying efforts against the legislation, led by industry group NetChoice &lpar;Katie McQue/The Guardian&rpar;](http://www.techmeme.com/240415/p22#a240415p22)
- - [Is a watchdog for corporate climate commitments caving to industry?](https://www.theverge.com/2024/4/15/24130886/climate-change-corporate-watchdog-sbti-carbon-offsets)<!-- TECH:END -->
+ - [YouTube’s ad blocker crackdown now includes third-party apps](https://www.theverge.com/2024/4/15/24131338/youtube-ad-blocker-crackdown-mobile-apps)
+ - [Got an iPhone 15 Pro or Pro Max? You&#39;ll Want to Explore These 3 New Features     - CNET](https://www.cnet.com/tech/mobile/got-an-iphone-15-pro-or-pro-max-youll-want-to-explore-these-3-new-features/#ftag=CAD590a51e)
+ - [The Best Hotel Mattresses in 2024     - CNET](https://www.cnet.com/health/sleep/the-best-hotel-mattresses/#ftag=CAD590a51e)
+ - [Best VPN for Amazon Fire TV Stick in 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-firestick/#ftag=CAD590a51e)
+ - [Nursery Center     - CNET](https://www.cnet.com/health/parenting/nursery-center-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

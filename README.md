@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh wow](http://9gag.com/gag/a5Qez5y)
- - 😝 [Screw that sh*t](http://9gag.com/gag/aMV2vGR)
- - 💣 [Cover up](http://9gag.com/gag/adB0eNZ)
- - 😝 [Enter into the exciting world of Buddy Arena with Affyn and choose your favorite fighting companion!](http://9gag.com/gag/a87LeD1)
- - 👉 [Please...dont remove anything from your chest](http://9gag.com/gag/awy0dBQ)<!-- MEMES:END -->
+ - 😝 [Finding a Foot Long Crystal!](http://9gag.com/gag/ajPYZD0)
+ - 😝 [People outside the church in Australia demands the stabber handed over to them](http://9gag.com/gag/a1mv26v)
+ - 💣 [Enter into the exciting world of Buddy Arena with Affyn and choose your favorite fighting companion!](http://9gag.com/gag/a87LeD1)
+ - 😝 [This is Rapex, an anti-raping device for women. The woman inserts it like a tampon, with an applicator, and any man who tries to rape the woman impales himself on the barbs and must go to an emergency room to have the Rapex removed.](http://9gag.com/gag/a4PKNod)
+ - 👉 [In 1997, William Moldt disappeared after leaving a club to go home. He wasn&#39;t found until 2019 when a man using Google Earth to check out his old neighborhood in Florida discovered a car submerged in a pond.](http://9gag.com/gag/aoyEx5e)<!-- MEMES:END -->
 
 ---
 

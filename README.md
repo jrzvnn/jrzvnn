@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Airchat Is Silicon Valley’s Latest Obsession](https://www.wired.com/story/airchat-app-social-audio/)
  - [Drama about emulators on the App Store has only just begun](https://appleinsider.com/articles/24/04/15/drama-about-emulators-on-the-app-store-has-only-just-begun?utm_medium=rss)
  - [Sources: Tesla is focused on building a giant Texas datacenter for its robotaxi project, which is now a top priority, after postponing work on a cheaper vehicle &lpar;Fred Lambert/Electrek&rpar;](http://www.techmeme.com/240415/p23#a240415p23)
  - [As nine US states advance online child safety bills, a look at tech giants&#39; lobbying efforts against the legislation, led by industry group NetChoice &lpar;Katie McQue/The Guardian&rpar;](http://www.techmeme.com/240415/p22#a240415p22)
- - [Is a watchdog for corporate climate commitments caving to industry?](https://www.theverge.com/2024/4/15/24130886/climate-change-corporate-watchdog-sbti-carbon-offsets)
- - [8 Qt Digital Air Fryer     - CNET](https://www.cnet.com/home/kitchen-and-household/8-qt-digital-air-fryer-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Is a watchdog for corporate climate commitments caving to industry?](https://www.theverge.com/2024/4/15/24130886/climate-change-corporate-watchdog-sbti-carbon-offsets)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

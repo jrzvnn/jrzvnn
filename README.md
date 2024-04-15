@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe is in the early stages of developing a way to let users tap third-party tools from OpenAI, Runway, and Pika Labs to generate and use video in Premiere Pro &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/240415/p12#a240415p12)
- - [Smart coffee maker, Qi2 chargers, Aqara P2 motion sensor, &amp; more on HomeKit Insider](https://appleinsider.com/articles/24/04/15/smart-coffee-maker-qi2-chargers-aqara-p2-motion-sensor-more-on-homekit-insider?utm_medium=rss)
- - [Adobe&#39;s generative AI video tools are coming soon to Premier Pro](https://appleinsider.com/articles/24/04/15/adobes-generative-ai-video-tools-are-coming-soon-to-premier-pro?utm_medium=rss)
- - [AT&amp;T, Charter, Comcast, and Verizon quietly lobby to weaken a $42.5B program to improve US internet access, aiming to block new rules on poor customers&#39; bills &lpar;Tony Romm/Washington Post&rpar;](http://www.techmeme.com/240415/p11#a240415p11)
- - [Adobe releases Acrobat AI Assistant to summarize and answer questions about documents for $4.99/month as an &quot;early access&quot; rate, and a mobile version in beta &lpar;Alex Koller/CNBC&rpar;](http://www.techmeme.com/240415/p10#a240415p10)<!-- TECH:END -->
+ - [Deals: Apple&#39;s M2 Mac mini &lpar;16GB RAM, 512GB SSD&rpar; plunges to $899](https://appleinsider.com/articles/24/04/15/deals-apples-m2-mac-mini-16gb-ram-512gb-ssd-plunges-to-899?utm_medium=rss)
+ - [11 Best Strollers for Almost Every Budget and Need &lpar;2024&rpar;](https://www.wired.com/gallery/best-stroller-for-kids/)
+ - [Limitless is a new AI tool for your meetings — and an all-hearing wearable gadget](https://www.theverge.com/2024/4/15/24130832/limitless-ai-pendant-wearable-meetings)
+ - [Dropbox CEO Drew Houston wants you to embrace AI and remote work](https://www.theverge.com/24128606/dropbox-drew-houston-ai-remote-work-virtual-organization)
+ - [Adobe is in the early stages of developing a way to let users tap third-party tools from OpenAI, Runway, and Pika Labs to generate and use video in Premiere Pro &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/240415/p12#a240415p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

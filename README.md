@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto FOMO Is Back. So Are the Scams](https://www.wired.com/story/cryptocurrency-scams-memecoins/)
- - [The first Apple-approved emulator for the iPhone has arrived... and been pulled](https://www.theverge.com/2024/4/14/24129981/game-boy-emulator-igba-iphone-ios-app-store-gba4ios-testut-knock-off)
- - [A look at BlackPlanet, a social network for African Americans that went live in 1999, had ~15M users in 2008, and arguably laid the foundation for Black Twitter &lpar;Hannah Giorgis/The Atlantic&rpar;](http://www.techmeme.com/240415/p2#a240415p2)
- - [An overview of Bureau of Labor Statistics data, which shows California&#39;s percentage of US tech jobs has continued to steadily decline since 2020 &lpar;Joseph Politano/Apricitas Economics&rpar;](http://www.techmeme.com/240415/p1#a240415p1)
- - [Best Shave Club for 2024: Dollar Shave Club, Harry&#39;s and More     - CNET](https://www.cnet.com/health/personal-care/best-shave-club/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Next Frontier for Brain Implants Is Artificial Vision](https://www.wired.com/story/the-next-frontier-for-brain-implants-is-artificial-vision-neuralink-elon-musk/)
+ - [Tax Day 2024. You May Want to File Taxes Even if You Receive Social Security: Here&#39;s Why     - CNET](https://www.cnet.com/personal-finance/tax-day-2024-you-may-want-to-file-taxes-even-if-you-receive-social-security-heres-why/#ftag=CAD590a51e)
+ - [States Sending Child Tax Credit Payments in 2024: California, Idaho, Minnesota and More     - CNET](https://www.cnet.com/personal-finance/taxes/states-sending-child-tax-credit-payments-in-2024-california-idaho-minnesota-and-more/#ftag=CAD590a51e)
+ - [Not Everyone Has to File Their Federal Taxes Today. Here&#39;s Who Gets Extra Time     - CNET](https://www.cnet.com/personal-finance/taxes/not-everyone-has-to-file-their-federal-taxes-today-heres-who-gets-extra-time/#ftag=CAD590a51e)
+ - [Can&#39;t Finish Your Taxes Today? File a Free IRS Tax Extension. Here&#39;s How It Works     - CNET](https://www.cnet.com/personal-finance/taxes/cant-finish-your-taxes-today-file-a-free-irs-tax-extension-heres-how-it-works/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

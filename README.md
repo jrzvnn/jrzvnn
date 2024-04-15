@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google&#39;s Jigsaw expands Perspective API, a set of ML tools that help moderators and researchers identify toxicity, with seven attributes, including nuance &lpar;Billy Perrigo/TIME&rpar;](http://www.techmeme.com/240415/p29#a240415p29)
  - [Apple&#39;s iOS 18 AI will be on-device preserving privacy, and not server-side](https://appleinsider.com/articles/24/04/15/apples-ios-18-ai-will-be-on-device-preserving-privacy-and-not-server-side?utm_medium=rss)
+ - [Google&#39;s Jigsaw expands Perspective API, a set of ML tools that help moderators and researchers identify toxicity, with seven attributes, including nuance &lpar;Billy Perrigo/TIME&rpar;](http://www.techmeme.com/240415/p29#a240415p29)
  - [EU antitrust regulators are questioning Broadcom about changes to VMware&#39;s licensing conditions, following complaints from EU business users and a trade group &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240415/p28#a240415p28)
- - [Limitless launches the $99 Limitless Pendant, a wearable AI gadget that transcribes meetings and provides real-time notes and summaries, shipping in August &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240415/p27#a240415p27)
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)<!-- TECH:END -->
+ - [What Happens If You Miss the Tax Day Deadline?     - CNET](https://www.cnet.com/personal-finance/taxes/what-happens-if-you-miss-the-tax-day-deadline/#ftag=CAD590a51e)
+ - [NBA Playoffs 2024: Play-in Tournament Schedule, Matchups, TV Times, How to Watch     - CNET](https://www.cnet.com/tech/services-and-software/nba-playoffs-2024-play-in-tournament-schedule-matchups-tv-times-how-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meme in its natural state](http://9gag.com/gag/aW4Qvzn)
- - 😝 [Cover up](http://9gag.com/gag/adB0eNZ)
- - 💣 [Fans knows what&#39;s up](http://9gag.com/gag/aVvzZGK)
+ - 😝 [Don&#39;t listen to the voices... Don&#39;t listen to the voices... Don&#39;t listen to the voices...](http://9gag.com/gag/aKGwvyb)
+ - 😝 [Finding a Foot Long Crystal!](http://9gag.com/gag/ajPYZD0)
+ - 💣 [In 1997, William Moldt disappeared after leaving a club to go home. He wasn&#39;t found until 2019 when a man using Google Earth to check out his old neighborhood in Florida discovered a car submerged in a pond.](http://9gag.com/gag/aoyEx5e)
  - 😝 [Enter into the exciting world of Buddy Arena with Affyn and choose your favorite fighting companion!](http://9gag.com/gag/a87LeD1)
- - 👉 [Title](http://9gag.com/gag/ajPYx81)<!-- MEMES:END -->
+ - 👉 [Fed up homeowner confronts recurring car thieves in driveway](http://9gag.com/gag/aNDrB5v)<!-- MEMES:END -->
 
 ---
 

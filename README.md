@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [App Store&#39;s first emulator looks like it&#39;s an ad-loaded knockoff [u]](https://appleinsider.com/articles/24/04/14/app-stores-first-emulator-looks-like-its-an-ad-loaded-knockoff?utm_medium=rss)
+ - [The US awards Samsung $6.4B in CHIPS Act funding and says the company plans to make 2nm chips at its Taylor, Texas plant by 2026, two years ahead of TSMC &lpar;Financial Times&rpar;](http://www.techmeme.com/240415/p3#a240415p3)
  - [The Next Frontier for Brain Implants Is Artificial Vision](https://www.wired.com/story/the-next-frontier-for-brain-implants-is-artificial-vision-neuralink-elon-musk/)
  - [Tax Day 2024. You May Want to File Taxes Even if You Receive Social Security: Here&#39;s Why     - CNET](https://www.cnet.com/personal-finance/tax-day-2024-you-may-want-to-file-taxes-even-if-you-receive-social-security-heres-why/#ftag=CAD590a51e)
- - [States Sending Child Tax Credit Payments in 2024: California, Idaho, Minnesota and More     - CNET](https://www.cnet.com/personal-finance/taxes/states-sending-child-tax-credit-payments-in-2024-california-idaho-minnesota-and-more/#ftag=CAD590a51e)
- - [Not Everyone Has to File Their Federal Taxes Today. Here&#39;s Who Gets Extra Time     - CNET](https://www.cnet.com/personal-finance/taxes/not-everyone-has-to-file-their-federal-taxes-today-heres-who-gets-extra-time/#ftag=CAD590a51e)
- - [Can&#39;t Finish Your Taxes Today? File a Free IRS Tax Extension. Here&#39;s How It Works     - CNET](https://www.cnet.com/personal-finance/taxes/cant-finish-your-taxes-today-file-a-free-irs-tax-extension-heres-how-it-works/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [States Sending Child Tax Credit Payments in 2024: California, Idaho, Minnesota and More     - CNET](https://www.cnet.com/personal-finance/taxes/states-sending-child-tax-credit-payments-in-2024-california-idaho-minnesota-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

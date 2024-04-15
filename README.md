@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Dropbox CEO Drew Houston on adding AI tools, evolving beyond file syncing, rejecting Steve Jobs&#39; buyout offer, online storage, remote working, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240415/p14#a240415p14)
  - [An interview with Framework CEO Nirav Patel on ongoing firmware and software issues with its repairable laptops, the planned fixes, Intel and AMD, and more &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/240415/p13#a240415p13)
  - [Deals: Apple&#39;s M2 Mac mini &lpar;16GB RAM, 512GB SSD&rpar; plunges to $899](https://appleinsider.com/articles/24/04/15/deals-apples-m2-mac-mini-16gb-ram-512gb-ssd-plunges-to-899?utm_medium=rss)
  - [11 Best Strollers for Almost Every Budget and Need &lpar;2024&rpar;](https://www.wired.com/gallery/best-stroller-for-kids/)
- - [Limitless is a new AI tool for your meetings — and an all-hearing wearable gadget](https://www.theverge.com/2024/4/15/24130832/limitless-ai-pendant-wearable-meetings)
- - [Dropbox CEO Drew Houston wants you to embrace AI and remote work](https://www.theverge.com/24128606/dropbox-drew-houston-ai-remote-work-virtual-organization)<!-- TECH:END -->
+ - [Limitless is a new AI tool for your meetings — and an all-hearing wearable gadget](https://www.theverge.com/2024/4/15/24130832/limitless-ai-pendant-wearable-meetings)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

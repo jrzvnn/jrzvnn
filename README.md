@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
  - [Letter: X&#39;s lawyers tell Brazil&#39;s Supreme Court that the social media platform will comply with every ruling issued by the court or Brazil&#39;s top electoral court &lpar;Ricardo Brito/Reuters&rpar;](http://www.techmeme.com/240415/p26#a240415p26)
  - [How scammers, often from Nigeria, are using sextortion to target teenage boys on social media in the US, leading to at least 20 suicides over an 18-month period &lpar;Olivia Carville/Bloomberg&rpar;](http://www.techmeme.com/240415/p25#a240415p25)
  - [Meta plans to launch a new education product for Quest that will let teachers access education apps for students ages 13+ and manage multiple headsets at once &lpar;Jennifer A. Kingson/Axios&rpar;](http://www.techmeme.com/240415/p24#a240415p24)
- - [UK mulling potential AI regulation](https://www.theverge.com/2024/4/15/24131392/uk-ai-regulation-draft-safety)
- - [Japan to seek up to 20% fine for monopolistic practices by Apple](https://appleinsider.com/articles/24/04/15/japan-to-seek-up-to-20-fine-for-monopolistic-practices-by-apple?utm_medium=rss)<!-- TECH:END -->
+ - [UK mulling potential AI regulation](https://www.theverge.com/2024/4/15/24131392/uk-ai-regulation-draft-safety)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

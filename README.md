@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Removal of App Store&#39;s first emulator leaves more questions than answers](https://appleinsider.com/articles/24/04/14/app-stores-first-emulator-looks-like-its-an-ad-loaded-knockoff?utm_medium=rss)
+ - [iPhone sales drop 10% as Samsung steadies and Chinese rivals grow](https://appleinsider.com/articles/24/04/15/iphone-sales-drop-10-as-samsung-steadies-and-chinese-rivals-grow?utm_medium=rss)
  - [Ugreen DXP8800 Plus network attached storage review: Good hardware, beta software](https://appleinsider.com/articles/24/04/12/ugreen-dxp8800-plus-network-attached-storage-review-good-hardware-beta-software?utm_medium=rss)
  - [Ikea’s new gaming furniture looks like furniture, not an energy drink](https://www.theverge.com/2024/4/15/24130721/ikea-brannboll-gaming-furniture-range-chair-inflatable-announcement)
- - [Bitcoin&#39;s next halving, set for around April 20, will cut miners&#39; validating transactions to 450 from 900 now, costing the industry ~$10B in annual revenue &lpar;David Pan/Bloomberg&rpar;](http://www.techmeme.com/240415/p6#a240415p6)
- - [Tim Cook visits Vietnam as Apple looks to boost supply chain relationships](https://appleinsider.com/articles/24/04/15/tim-cook-visits-vietnam-as-apple-looks-to-boost-supply-chain-relationships?utm_medium=rss)
- - [It Takes Guts to Fix Wind Turbines for a Living](https://www.wired.com/story/it-takes-guts-to-fix-wind-turbines-for-a-living/)<!-- TECH:END -->
+ - [Bitcoin&#39;s next halving, set for around April 20, will cut miners&#39; validating transactions to 450 from 900 now, costing the industry ~$10B in annual revenue &lpar;David Pan/Bloomberg&rpar;](http://www.techmeme.com/240415/p6#a240415p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

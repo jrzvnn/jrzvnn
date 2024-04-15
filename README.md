@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ill be back chicken heads](http://9gag.com/gag/aAyR4pL)
+ - 😝 [Western Women](http://9gag.com/gag/aD2A7Dw)
+ - 😝 [NFT](http://9gag.com/gag/aW4Q74K)
+ - 💣 [Meme in its natural state](http://9gag.com/gag/aW4Qvzn)
  - 😝 [I\u2019d pay good money for this](http://9gag.com/gag/amoNGNj)
- - 💣 [I would... I would love her](http://9gag.com/gag/aE0vMqM)
- - 😝 [Meme in its natural state](http://9gag.com/gag/aW4Qvzn)
- - 👉 [Please use the right 2 lanes](http://9gag.com/gag/aAyREZp)<!-- MEMES:END -->
+ - 👉 [A father leaving the scene of the Bondi Junction Sydney mall with his children, but he covered their eyes with masks, so that they wouldn\u2019t see the horror.](http://9gag.com/gag/aYQNE1N)<!-- MEMES:END -->
 
 ---
 

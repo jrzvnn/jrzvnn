@@ -166,7 +166,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US Government Has a Microsoft Problem](https://www.wired.com/story/the-us-government-has-a-microsoft-problem/)
+ - [Singapore-based used car marketplace Carro raised ~$100M in pre-IPO funding at a $1.5B+ valuation and reports its first annual operating profit &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/240415/p7#a240415p7)
  - [Removal of App Store&#39;s first emulator leaves more questions than answers](https://appleinsider.com/articles/24/04/14/app-stores-first-emulator-looks-like-its-an-ad-loaded-knockoff?utm_medium=rss)
  - [iPhone sales drop 10% as Samsung steadies and Chinese rivals grow](https://appleinsider.com/articles/24/04/15/iphone-sales-drop-10-as-samsung-steadies-and-chinese-rivals-grow?utm_medium=rss)
  - [Ugreen DXP8800 Plus network attached storage review: Good hardware, beta software](https://appleinsider.com/articles/24/04/12/ugreen-dxp8800-plus-network-attached-storage-review-good-hardware-beta-software?utm_medium=rss)

@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Impressions of Waymo&#39;s robotaxis, now running in SF and Phoenix, after several rides: amazing tech that quickly feels &quot;normal&quot;, but they aren&#39;t perfect &lpar;Peter Kafka/Business Insider&rpar;](http://www.techmeme.com/240415/p21#a240415p21)
  - [ISD: fake footage of Iran&#39;s attack on Israel went viral on X, including AI-made videos and photos, with many posts from verified accounts and &quot;OSINT experts&quot; &lpar;Vittoria Elliott/Wired&rpar;](http://www.techmeme.com/240415/p20#a240415p20)
- - [The first trailer for Outer Range season two makes time feel even more broken](https://www.theverge.com/2024/4/15/24131090/amazon-outer-range-season-2-trailer)
- - [The budget-friendly Blink Mini 2 security camera is on sale for the first time](https://www.theverge.com/2024/4/15/24130998/amazon-blink-mini-2-security-camera-deal-sale)
- - [Donald Trump Poses a Unique Threat To Truth Social, Says Truth Social](https://www.wired.com/story/donald-trump-truth-social-risks/)<!-- TECH:END -->
+ - [Decoding FCC’s ‘Broadband Nutrition Labels’: What You Should Know     - CNET](https://www.cnet.com/home/internet/decoding-fccs-broadband-nutrition-labels-what-you-should-know/#ftag=CAD590a51e)
+ - [Rose Spa Gift Basket     - CNET](https://www.cnet.com/health/rose-spa-gift-basket-dpnl/#ftag=CAD590a51e)
+ - [Taxes Are Due Today. Here&#39;s When You Could Get Your Refund Money     - CNET](https://www.cnet.com/personal-finance/taxes/taxes-are-due-today-heres-when-you-could-get-your-refund-money/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The first trailer for Outer Range season two makes time feel even more broken](https://www.theverge.com/2024/4/15/24131090/amazon-outer-range-season-2-trailer)
+ - [The budget-friendly Blink Mini 2 security camera is on sale for the first time](https://www.theverge.com/2024/4/15/24130998/amazon-blink-mini-2-security-camera-deal-sale)
+ - [Donald Trump Poses a Unique Threat To Truth Social, Says Truth Social](https://www.wired.com/story/donald-trump-truth-social-risks/)
  - [Tesla lays off ‘more than 10 percent’ of its workforce, loses top executives](https://www.theverge.com/2024/4/15/24130735/tesla-layoffs-10-percent-workforce-disappointing-sales)
- - [Removal of App Store&#39;s first emulator leaves more questions than answers](https://appleinsider.com/articles/24/04/14/app-stores-first-emulator-looks-like-its-an-ad-loaded-knockoff?utm_medium=rss)
- - [Fake Footage of Iran’s Attack on Israel Is Going Viral](https://www.wired.com/story/iran-israel-attack-viral-fake-content/)
- - [CISA said locks from RealPage&#39;s Chirp Systems, reportedly on ~50K US dwellings, can be unlocked via a hack; Chirp was told in 2021 but is quiet about the flaw &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/240415/p19#a240415p19)
- - [7-Piece Patio Set     - CNET](https://www.cnet.com/news/7-piece-patio-set-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Removal of App Store&#39;s first emulator leaves more questions than answers](https://appleinsider.com/articles/24/04/14/app-stores-first-emulator-looks-like-its-an-ad-loaded-knockoff?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The CFPB wants to rein in data brokers](https://www.theverge.com/2024/4/15/24131354/cfpb-data-brokers-fair-credit-reporting-act)
+ - [Cybertruck owners say deliveries halted over bad accelerator pedal](https://www.theverge.com/2024/4/15/24131237/tesla-delivery-delay-accelerator-pedal-stuck)
  - [NASA needs a cheaper, faster way to bring Mars dirt back to Earth](https://www.theverge.com/2024/4/15/24131341/nasa-mars-sample-return-mission-elon-musk-space-x)
  - [Keanu Reeves is voicing Shadow the Hedgehog in the third Sonic movie](https://www.theverge.com/2024/4/15/24131385/keanu-reeves-shadow-the-hedgehog-sonic-3)
- - [YouTube’s ad blocker crackdown now includes third-party apps](https://www.theverge.com/2024/4/15/24131338/youtube-ad-blocker-crackdown-mobile-apps)
- - [Got an iPhone 15 Pro or Pro Max? You&#39;ll Want to Explore These 3 New Features     - CNET](https://www.cnet.com/tech/mobile/got-an-iphone-15-pro-or-pro-max-youll-want-to-explore-these-3-new-features/#ftag=CAD590a51e)
- - [The Best Hotel Mattresses in 2024     - CNET](https://www.cnet.com/health/sleep/the-best-hotel-mattresses/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [YouTube’s ad blocker crackdown now includes third-party apps](https://www.theverge.com/2024/4/15/24131338/youtube-ad-blocker-crackdown-mobile-apps)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NASA needs a cheaper, faster way to bring Mars dirt back to Earth](https://www.theverge.com/2024/4/15/24131341/nasa-mars-sample-return-mission-elon-musk-space-x)
+ - [Keanu Reeves is voicing Shadow the Hedgehog in the third Sonic movie](https://www.theverge.com/2024/4/15/24131385/keanu-reeves-shadow-the-hedgehog-sonic-3)
  - [YouTube’s ad blocker crackdown now includes third-party apps](https://www.theverge.com/2024/4/15/24131338/youtube-ad-blocker-crackdown-mobile-apps)
  - [Got an iPhone 15 Pro or Pro Max? You&#39;ll Want to Explore These 3 New Features     - CNET](https://www.cnet.com/tech/mobile/got-an-iphone-15-pro-or-pro-max-youll-want-to-explore-these-3-new-features/#ftag=CAD590a51e)
- - [The Best Hotel Mattresses in 2024     - CNET](https://www.cnet.com/health/sleep/the-best-hotel-mattresses/#ftag=CAD590a51e)
- - [Best VPN for Amazon Fire TV Stick in 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-firestick/#ftag=CAD590a51e)
- - [Nursery Center     - CNET](https://www.cnet.com/health/parenting/nursery-center-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Hotel Mattresses in 2024     - CNET](https://www.cnet.com/health/sleep/the-best-hotel-mattresses/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

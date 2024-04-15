@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bitcoin&#39;s next halving, set for around April 20, will cut miners&#39; validating transactions to 450 from 900 now, costing the industry ~$10B in annual revenue &lpar;David Pan/Bloomberg&rpar;](http://www.techmeme.com/240415/p6#a240415p6)
+ - [Tim Cook visits Vietnam as Apple looks to boost supply chain relationships](https://appleinsider.com/articles/24/04/15/tim-cook-visits-vietnam-as-apple-looks-to-boost-supply-chain-relationships?utm_medium=rss)
+ - [It Takes Guts to Fix Wind Turbines for a Living](https://www.wired.com/story/it-takes-guts-to-fix-wind-turbines-for-a-living/)
  - [Source: cloud data management startup Rubrik plans to sell 23M shares priced between $28 and $31 each, raising up to $713M and reaching a $5.4B valuation &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/240415/p5#a240415p5)
- - [OpenAI opens a Tokyo office, releases a Japanese language GPT-4 model, and taps former president of AWS&#39;s Japan arm Tadao Nagasaki to lead an enterprise push &lpar;Bloomberg&rpar;](http://www.techmeme.com/240415/p4#a240415p4)
- - [App Store&#39;s first emulator looks like it&#39;s an ad-loaded knockoff [u]](https://appleinsider.com/articles/24/04/14/app-stores-first-emulator-looks-like-its-an-ad-loaded-knockoff?utm_medium=rss)
- - [The US awards Samsung $6.4B in CHIPS Act funding and says the company plans to make 2nm chips at its Taylor, Texas plant by 2026, two years ahead of TSMC &lpar;Financial Times&rpar;](http://www.techmeme.com/240415/p3#a240415p3)
- - [The Next Frontier for Brain Implants Is Artificial Vision](https://www.wired.com/story/the-next-frontier-for-brain-implants-is-artificial-vision-neuralink-elon-musk/)<!-- TECH:END -->
+ - [Best Foldable Phones in 2024: Samsung Galaxy Z Fold, Z Flip, Moto Razr, Pixel Fold     - CNET](https://www.cnet.com/tech/mobile/best-foldable-phones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

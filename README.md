@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Western Women](http://9gag.com/gag/aD2A7Dw)
- - 😝 [NFT](http://9gag.com/gag/aW4Q74K)
- - 💣 [Meme in its natural state](http://9gag.com/gag/aW4Qvzn)
- - 😝 [I\u2019d pay good money for this](http://9gag.com/gag/amoNGNj)
- - 👉 [A father leaving the scene of the Bondi Junction Sydney mall with his children, but he covered their eyes with masks, so that they wouldn\u2019t see the horror.](http://9gag.com/gag/aYQNE1N)<!-- MEMES:END -->
+ - 😝 [Mouse trap: the stick version](http://9gag.com/gag/aMV2nxG)
+ - 😝 [Chad woman](http://9gag.com/gag/aO8KZ93)
+ - 💣 [Harry Potter in 1950](http://9gag.com/gag/aVvzKny)
+ - 😝 [One way to make them learn](http://9gag.com/gag/aZZbQQp)
+ - 👉 [This is the way.](http://9gag.com/gag/aPAwPDQ)<!-- MEMES:END -->
 
 ---
 

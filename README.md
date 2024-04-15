@@ -175,9 +175,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yesterday evening, there was a robbery at a phone shop in Whitechapel. The people who own the shop locked the thieves inside so they couldn&#39;t get away.](http://9gag.com/gag/ayN73qp)
- - 😝 [Fed up homeowner confronts recurring car thieves in driveway](http://9gag.com/gag/aNDrB5v)
- - 💣 [Don&#39;t listen to the voices... Don&#39;t listen to the voices... Don&#39;t listen to the voices...](http://9gag.com/gag/aKGwvyb)
+ - 😝 [A violent black man](http://9gag.com/gag/aXP04DD)
+ - 😝 [Meme in its natural state](http://9gag.com/gag/aW4Qvzn)
+ - 💣 [Fed up homeowner confronts recurring car thieves in driveway](http://9gag.com/gag/aNDrB5v)
  - 😝 [Enter into the exciting world of Buddy Arena with Affyn and choose your favorite fighting companion!](http://9gag.com/gag/a87LeD1)
  - 👉 [This is Rapex, an anti-raping device for women. The woman inserts it like a tampon, with an applicator, and any man who tries to rape the woman impales himself on the barbs and must go to an emergency room to have the Rapex removed.](http://9gag.com/gag/a4PKNod)<!-- MEMES:END -->
 

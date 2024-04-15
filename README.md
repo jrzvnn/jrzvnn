@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Save up to $350 on every Apple M3 MacBook Pro, plus get up to $80 off AppleCare](https://appleinsider.com/articles/24/02/04/save-up-to-350-on-every-apple-m3-macbook-pro-plus-get-up-to-80-off-applecare?utm_medium=rss)
  - [Rumor: iPhone 16 Pro camera coating could reduce lens flare](https://appleinsider.com/articles/24/04/15/rumor-iphone-16-pro-camera-coating-could-reduce-lens-flare?utm_medium=rss)
  - [Meta plans to temporarily shut down Threads in Turkey from April 29 to comply with an interim order prohibiting data sharing between Threads and Instagram &lpar;Meta&rpar;](http://www.techmeme.com/240415/p8#a240415p8)
  - [Tesla is reportedly laying off ‘more than 10 percent’ of its workforce](https://www.theverge.com/2024/4/15/24130735/tesla-layoffs-10-percent-workforce-disappointing-sales)
- - [The Paradox That&#39;s Supercharging Climate Change](https://www.wired.com/story/the-paradox-thats-supercharging-climate-change/)
- - [Ikea’s New Range Is Stealth Mode for Gamers](https://www.wired.com/story/ikea-wants-to-make-gaming-furniture-a-natural-part-of-your-home/)<!-- TECH:END -->
+ - [The Paradox That&#39;s Supercharging Climate Change](https://www.wired.com/story/the-paradox-thats-supercharging-climate-change/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

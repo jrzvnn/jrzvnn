@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This garbage `leather` coating that eventually flakes off and gets everywhere](http://9gag.com/gag/a2vzbZd)
- - 😝 [I&#39;m in shock... I mean who would have thought after decades of demonizing men... Hashtrash me too?](http://9gag.com/gag/a2vz0ME)
- - 💣 [You Won&#39;t Get Anything Done Hoeing Like That](http://9gag.com/gag/a5QeG8O)
+ - 😝 [I am hiking next weekend. Is this a good idea?](http://9gag.com/gag/aRBw2dQ)
+ - 😝 [Shoutout to the Millennials out there!](http://9gag.com/gag/avypx3W)
+ - 💣 [Th search is on](http://9gag.com/gag/ae9jmvB)
  - 😝 [Enter into the exciting world of Buddy Arena with Affyn and choose your favorite fighting companion!](http://9gag.com/gag/a87LeD1)
- - 👉 [I am hiking next weekend. Is this a good idea?](http://9gag.com/gag/aRBw2dQ)<!-- MEMES:END -->
+ - 👉 [Lower back!](http://9gag.com/gag/aD2AVNd)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t listen to the voices... Don&#39;t listen to the voices... Don&#39;t listen to the voices...](http://9gag.com/gag/aKGwvyb)
- - 😝 [This is Rapex, an anti-raping device for women. The woman inserts it like a tampon, with an applicator, and any man who tries to rape the woman impales himself on the barbs and must go to an emergency room to have the Rapex removed.](http://9gag.com/gag/a4PKNod)
- - 💣 [One way to make them learn](http://9gag.com/gag/aZZbQQp)
+ - 😝 [In 1997, William Moldt disappeared after leaving a club to go home. He wasn&#39;t found until 2019 when a man using Google Earth to check out his old neighborhood in Florida discovered a car submerged in a pond.](http://9gag.com/gag/aoyEx5e)
+ - 😝 [\u00ab\u00a0Men only want one thing and it\u2019s disgusting\u00a0..\u00a0\u00bb](http://9gag.com/gag/aPAweLK)
+ - 💣 [That laugh at the end though](http://9gag.com/gag/aVvzZRy)
  - 😝 [Enter into the exciting world of Buddy Arena with Affyn and choose your favorite fighting companion!](http://9gag.com/gag/a87LeD1)
- - 👉 [Fed up homeowner confronts recurring car thieves in driveway](http://9gag.com/gag/aNDrB5v)<!-- MEMES:END -->
+ - 👉 [I am uploading here maybe some has the rest of this conversation. Saw the full one awhile ago. Thank you](http://9gag.com/gag/aXP07B6)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One way to make them learn](http://9gag.com/gag/aZZbQQp)
- - 😝 [People outside the church in Australia demands the stabber handed over to them](http://9gag.com/gag/a1mv26v)
- - 💣 [I am hiking next weekend. Is this a good idea?](http://9gag.com/gag/aRBw2dQ)
- - 😝 [Another stabbing down under.](http://9gag.com/gag/aKGw801)
- - 👉 [Woman tries to force man to leave his seat so that she could stretch her legs. Said he should &#39;show respect to a woman of color&#39; because he is a white man](http://9gag.com/gag/a87L2z1)<!-- MEMES:END -->
+ - 😝 [\u201c I\u2019m natural \u201c](http://9gag.com/gag/abAX2QE)
+ - 😝 [Woman tries to force man to leave his seat so that she could stretch her legs. Said he should &#39;show respect to a woman of color&#39; because he is a white man](http://9gag.com/gag/a87L2z1)
+ - 💣 [A totally normal win for the Chinese runner in Beijing Half Marathon](http://9gag.com/gag/azxgR5b)
+ - 😝 [The Tesla layoffs email](http://9gag.com/gag/a5QejMr)
+ - 👉 [Cup. Bear](http://9gag.com/gag/abAXBPb)<!-- MEMES:END -->
 
 ---
 

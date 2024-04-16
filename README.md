@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Please...dont remove anything from your chest](http://9gag.com/gag/awy0dBQ)
- - 😝 [Colors, colours](http://9gag.com/gag/abAXx8v)
- - 💣 [Straight to hell](http://9gag.com/gag/adB0ej9)
+ - 😝 [People outside the church in Australia demands the stabber handed over to them](http://9gag.com/gag/a1mv26v)
+ - 😝 [Another stabbing down under.](http://9gag.com/gag/aKGw801)
+ - 💣 [I am uploading here maybe some has the rest of this conversation. Saw the full one awhile ago. Thank you](http://9gag.com/gag/aXP07B6)
  - 😝 [Enter into the exciting world of Buddy Arena with Affyn and choose your favorite fighting companion!](http://9gag.com/gag/a87LeD1)
- - 👉 [A totally normal win for the Chinese runner in Beijing Half Marathon](http://9gag.com/gag/azxgR5b)<!-- MEMES:END -->
+ - 👉 [Woman tries to force man to leave his seat so that she could stretch her legs. Said he should &#39;show respect to a woman of color&#39; because he is a white man](http://9gag.com/gag/a87L2z1)<!-- MEMES:END -->
 
 ---
 

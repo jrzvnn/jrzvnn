@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That laugh at the end though](http://9gag.com/gag/aVvzZRy)
- - 😝 [One way to make them learn](http://9gag.com/gag/aZZbQQp)
- - 💣 [I am uploading here maybe some has the rest of this conversation. Saw the full one awhile ago. Thank you](http://9gag.com/gag/aXP07B6)
+ - 😝 [Guys look my shirt how it glow in the dark](http://9gag.com/gag/aryvxpK)
+ - 😝 [Please sign](http://9gag.com/gag/aQzP7E8)
+ - 💣 [Don&#39;t listen to the voices... Don&#39;t listen to the voices... Don&#39;t listen to the voices...](http://9gag.com/gag/aKGwvyb)
  - 😝 [Enter into the exciting world of Buddy Arena with Affyn and choose your favorite fighting companion!](http://9gag.com/gag/a87LeD1)
- - 👉 [A violent black man](http://9gag.com/gag/aXP04DD)<!-- MEMES:END -->
+ - 👉 [Leviathan class anomaly detected.](http://9gag.com/gag/aGyY2bn)<!-- MEMES:END -->
 
 ---
 

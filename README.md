@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kontakt.io, whose software and Bluetooth devices help hospital managers make decisions about patients, beds, and equipment, raised $47.5M from Goldman Sachs &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/240416/p30#a240416p30)
  - [Cloudflare says its network saw DNS-based DDoS attacks increase by 80% YoY in Q1 2024, with attacks on Sweden surging by 466% after its acceptance into NATO &lpar;The Cloudflare Blog&rpar;](http://www.techmeme.com/240416/p29#a240416p29)
  - [Drake muddies the ‘Push Ups’ AI debate with a deepfake](https://www.theverge.com/2024/4/16/24132145/drake-ai-deepfake-diss-track-metro-boomin-drumline)
- - [Boston Dynamics Atlas robot, 2013-2024](https://www.theverge.com/24132451/boston-dynamics-atlas-robot-retirement)
- - [Sources: HR tech startup Rippling plans to close a Series F at a valuation as high as $13.4B, after a $200M injection plus $670M in shares sold by stockholders &lpar;TechCrunch&rpar;](http://www.techmeme.com/240416/p28#a240416p28)
- - [WhatsApp Adds Message Filters to Make Itself More Usable     - CNET](https://www.cnet.com/tech/whatsapp-adds-message-filters-to-make-itself-more-usable/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Stylus Pen for Apple     - CNET](https://www.cnet.com/tech/stylus-pen-for-ipad-dpnl/#ftag=CAD590a51e)
+ - [Student Loan Forgiveness: This Financial Aid Expert Unpacks Biden’s New Debt Relief Plan     - CNET](https://www.cnet.com/personal-finance/student-loan-forgiveness-this-financial-aid-expert-unpacks-bidens-new-debt-relief-plan/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

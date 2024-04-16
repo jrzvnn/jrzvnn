@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SSDI Payment for April 2024: Will Your Money Come This Week?     - CNET](https://www.cnet.com/personal-finance/ssdi-payment-for-april-2024-will-your-money-come-this-week/#ftag=CAD590a51e)
+ - [Telehealth firm Cerebral fined $7 million over ‘careless’ privacy violations](https://www.theverge.com/2024/4/16/24131881/ftc-fine-cerebral-telehealth)
  - [Spotify bought Parcast — now its founder is launching a new entertainment studio](https://www.theverge.com/2024/4/16/24132017/pave-studios-max-cutler-spotify-parcast-podcasts)
  - [Resecurity: in Q1, malicious cyber activities targeting the Philippines, including cyberattacks and misinfo campaigns, were up 300%+ YoY, as China tensions rise &lpar;Pierluigi Paganini/Security Affairs&rpar;](http://www.techmeme.com/240416/p21#a240416p21)
- - [6 of the Best Pull-up Bars for Your Home Gym in 2024     - CNET](https://www.cnet.com/health/fitness/best-pull-up-bars/#ftag=CAD590a51e)
- - [Babies born this year face a $500,000 climate bill](https://www.theverge.com/2024/4/16/24131880/baby-climate-change-costs-consumer-reports-study)<!-- TECH:END -->
+ - [Babies born this year face a $500,000 climate bill](https://www.theverge.com/2024/4/16/24131880/baby-climate-change-costs-consumer-reports-study)
+ - [Future Apple Vision Pro could help the user get life-saving medical advice](https://appleinsider.com/articles/24/04/16/future-apple-vision-pro-could-help-the-user-get-life-saving-medical-advice?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

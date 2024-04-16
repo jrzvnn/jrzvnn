@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cup. Bear](http://9gag.com/gag/abAXBPb)
- - 😝 [A totally normal win for the Chinese runner in Beijing Half Marathon](http://9gag.com/gag/azxgR5b)
- - 💣 [Which door you choose](http://9gag.com/gag/a6Zmjwm)
- - 😝 [I can see two differences](http://9gag.com/gag/aQzPOzW)
- - 👉 [What Should i do](http://9gag.com/gag/a6ZmpWe)<!-- MEMES:END -->
+ - 😝 [Finally they stand up to these clowns](http://9gag.com/gag/aXP0RAb)
+ - 😝 [`I love being your son.` Made me, a grown man, cry.](http://9gag.com/gag/aPAw1Xn)
+ - 💣 [The bike overreacted](http://9gag.com/gag/avypdGX)
+ - 😝 [We need a BlackRock detected website, one that outlines all of their shares and investments available to the public. Then we can &#39;try&#39; to avoid their stuff as much as possible.](http://9gag.com/gag/aKGwObj)
+ - 👉 [Congrats happy for you, nice](http://9gag.com/gag/ae9j7Db)<!-- MEMES:END -->
 
 ---
 

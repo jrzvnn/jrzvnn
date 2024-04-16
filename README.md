@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Linux Foundation announces the Open Platform for Enterprise AI, to foster the development of open, multi-provider, and composable generative AI systems &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240416/p33#a240416p33)
  - [Filing: Take-Two will fire 5% of its workforce and expects to incur up to $200M in charges as part of a downsizing effort, including $140M from canceled titles &lpar;Rob Golum/Bloomberg&rpar;](http://www.techmeme.com/240416/p32#a240416p32)
  - [IAB and PwC report on US digital ad sales in 2023: total revenue grew 7.3% YoY to $225B, digital video grew 10.6% to $52.1B, and digital audio grew 18.9% to $7B &lpar;Hana Yoo/AdExchanger&rpar;](http://www.techmeme.com/240416/p31#a240416p31)
  - [The Boring Phone is a nostalgic branding exercise by HMD and Heineken](https://www.theverge.com/2024/4/16/24132479/hmd-boring-phone-heineken-bodega)
- - [The New Hot Handset Is a Cute and Transparent Dumb Phone You Can’t Buy](https://www.wired.com/story/hmd-the-boring-phone-heineken-bodega/)
- - [Kontakt.io, whose software and Bluetooth devices help hospital managers make decisions about patients, beds, and equipment, raised $47.5M from Goldman Sachs &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/240416/p30#a240416p30)<!-- TECH:END -->
+ - [The New Hot Handset Is a Cute and Transparent Dumb Phone You Can’t Buy](https://www.wired.com/story/hmd-the-boring-phone-heineken-bodega/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

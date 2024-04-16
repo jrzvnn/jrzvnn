@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He still loves her](http://9gag.com/gag/aByREoD)
- - 😝 [Woman tries to force man to leave his seat so that she could stretch her legs. Said he should &#39;show respect to a woman of color&#39; because he is a white man](http://9gag.com/gag/a87L2z1)
- - 💣 [The lack of mannerism, is just the norm now eh?](http://9gag.com/gag/aoyE41x)
+ - 😝 [That laugh at the end though](http://9gag.com/gag/aVvzZRy)
+ - 😝 [One way to make them learn](http://9gag.com/gag/aZZbQQp)
+ - 💣 [I am uploading here maybe some has the rest of this conversation. Saw the full one awhile ago. Thank you](http://9gag.com/gag/aXP07B6)
  - 😝 [Enter into the exciting world of Buddy Arena with Affyn and choose your favorite fighting companion!](http://9gag.com/gag/a87LeD1)
- - 👉 [I am uploading here maybe some has the rest of this conversation. Saw the full one awhile ago. Thank you](http://9gag.com/gag/aXP07B6)<!-- MEMES:END -->
+ - 👉 [A violent black man](http://9gag.com/gag/aXP04DD)<!-- MEMES:END -->
 
 ---
 

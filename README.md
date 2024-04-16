@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NASA confirms origin of space junk that crashed through Florida home](https://www.theverge.com/2024/4/16/24131804/nasa-confirms-iss-space-station-junk-crashed-into-florida-home)
+ - [Meta&#39;s Oversight Board plans to investigate two deepfake porn cases, both involving unnamed celebrities who had their images altered to create explicit content &lpar;Vittoria Elliott/Wired&rpar;](http://www.techmeme.com/240416/p10#a240416p10)
  - [Apple opens fourth Developer Academy in Indonesia](https://appleinsider.com/articles/24/04/16/apple-opens-fourth-developer-academy-in-indonesia?utm_medium=rss)
  - [Bain Capital agrees to sell UK payroll software company Zellis, acquired in 2017, to Apax Partners; sources say the deal values Zellis at ~&amp;pound;1.25B &lpar;Bloomberg&rpar;](http://www.techmeme.com/240416/p9#a240416p9)
- - [Celebrity Deepfake Porn Cases Will Be Investigated by Meta Oversight Board](https://www.wired.com/story/meta-oversight-board-deepfake-porn-facebook-instagram/)
- - [They Experimented on Themselves in Secret. What They Discovered Helped Win a War](https://www.wired.com/story/chamber-divers-rachel-lance/)
- - [A look at the failure of Humane&#39;s Ai Pin, which took six years to ship after raising $230M, including building the device &quot;the Apple way&quot; and raising too much &lpar;Benjamin Sandofsky/Sandofsky&rpar;](http://www.techmeme.com/240416/p8#a240416p8)<!-- TECH:END -->
+ - [Celebrity Deepfake Porn Cases Will Be Investigated by Meta Oversight Board](https://www.wired.com/story/meta-oversight-board-deepfake-porn-facebook-instagram/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

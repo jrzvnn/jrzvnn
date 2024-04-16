@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Angry mother speaks out against school board that dedicates 3 days a week to teach kids about LGBTQT2SDF and sexual lessons](http://9gag.com/gag/aQzP27w)
- - 😝 [`I love being your son.` Made me, a grown man, cry.](http://9gag.com/gag/aPAw1Xn)
- - 💣 [Yikes](http://9gag.com/gag/avypvNZ)
- - 😝 [The bike overreacted](http://9gag.com/gag/avypdGX)
- - 👉 [Boys being boys....](http://9gag.com/gag/a87LKXd)<!-- MEMES:END -->
+ - 😝 [\u201c I\u2019m natural \u201c](http://9gag.com/gag/abAX2QE)
+ - 😝 [Now it\u2019s called \u201cThe hyphen\u201d.](http://9gag.com/gag/aZZb2oW)
+ - 💣 [Ready for another try](http://9gag.com/gag/aZZb2An)
+ - 😝 [I can see two differences](http://9gag.com/gag/aQzPOzW)
+ - 👉 [The Tesla layoffs email](http://9gag.com/gag/a5QejMr)<!-- MEMES:END -->
 
 ---
 

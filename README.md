@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [People are afraid of self-driving cars — can the industry change that?](https://www.theverge.com/2024/4/16/24132026/autonomous-vehicles-fear-poll-public-trust-avia)
+ - [Loft Labs, which helps businesses spin up virtual Kubernetes clusters, raised a $24M Series A and says its open source project vCluster has had 40M downloads &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/240416/p26#a240416p26)
  - [Take it slow in this stop-motion sci-fi adventure](https://www.theverge.com/24131922/harold-halibut-review-ps5-xbox-steam)
  - [Tax Season Is Over. Where&#39;s Your Child Tax Credit Refund?     - CNET](https://www.cnet.com/personal-finance/taxes/tax-season-is-over-wheres-your-child-tax-credit-refund/#ftag=CAD590a51e)
- - [Best Google Pixel Deals: Save Up to $1,000 With Trade-In, Plus Discounts on the Pixel 8 Pro, Pixel Fold, Pixel 7A and More     - CNET](https://www.cnet.com/deals/best-google-pixel-deals/#ftag=CAD590a51e)
- - [Shopped at Walmart in the Last 6 Years? You Could Be Able to Claim $500 in Settlement Cash     - CNET](https://www.cnet.com/personal-finance/shopped-at-walmart-in-the-last-6-years-you-could-be-able-to-claim-500-in-settlement-cash/#ftag=CAD590a51e)
- - [Change Healthcare’s New Ransomware Nightmare Goes From Bad to Worse](https://www.wired.com/story/change-healthcare-ransomhub-data-sale/)<!-- TECH:END -->
+ - [Best Google Pixel Deals: Save Up to $1,000 With Trade-In, Plus Discounts on the Pixel 8 Pro, Pixel Fold, Pixel 7A and More     - CNET](https://www.cnet.com/deals/best-google-pixel-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

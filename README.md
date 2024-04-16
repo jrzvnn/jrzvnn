@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ticketmaster’s Taylor Swift ticketing fiasco might have just led to a lawsuit from the DOJ](https://www.theverge.com/2024/4/16/24131866/doj-ticketmaster-live-nation-antitrust-lawsuit-taylor-swift)
+ - [How to add a Quick Link for locations in Apple Maps in macOS](https://appleinsider.com/inside/apple-maps/tips/how-to-add-a-quick-link-for-locations-in-apple-maps-in-macos?utm_medium=rss)
+ - [How to improve the quality of the audio in your streaming apps](https://www.theverge.com/24131008/audio-quality-youtube-apple-amazon-how-to)
  - [TikTok signs a deal with ticketing provider AXS to let users buy tickets to live events in the US, UK, and more; TikTok has had a Ticketmaster deal since 2022 &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240416/p17#a240416p17)
- - [Save Big Bucks on a Year Long Microsoft 365 Subscription for You and Your Family     - CNET](https://www.cnet.com/deals/save-big-bucks-on-a-year-long-microsoft-365-subscription-for-you-and-your-family/#ftag=CAD590a51e)
- - [AMD unveils Ryzen Pro 8040 series for commercial laptops and mobile workstations and Ryzen Pro 8000 series for desktops, adding a neural processing unit for AI &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240416/p16#a240416p16)
- - [Apple wants an iPhone camera module maker in India](https://appleinsider.com/articles/24/04/16/apple-wants-an-iphone-camera-module-maker-in-india?utm_medium=rss)
- - [Upgrade to Apple&#39;s Latest USB-C Apple Pencil and Save $10 Today     - CNET](https://www.cnet.com/deals/upgrade-to-apples-latest-usb-c-apple-pencil-and-save-10-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AMD unveils Ryzen Pro 8040 series for commercial laptops and mobile workstations and Ryzen Pro 8000 series for desktops, adding a neural processing unit for AI &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240416/p16#a240416p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

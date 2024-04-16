@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Broadcast TV still exists, and now it’s sort of getting a built-in DVR](https://www.theverge.com/2024/4/16/24130968/atsc-3-0-roxi-faststream-ease-live-local-news-dvr)
- - [Rode&#39;s MagSafe Phone Cage and new mount will give a boost to your iPhone videography](https://appleinsider.com/articles/24/04/16/rodes-magsafe-phone-cage-and-new-mount-will-give-a-boost-to-your-iphone-videography?utm_medium=rss)
- - [Apple, Google, Meta, others struggle when it comes to ad transparency](https://appleinsider.com/articles/24/04/16/apple-google-meta-others-struggle-when-it-comes-to-ad-transparency?utm_medium=rss)
- - [The internet really is a series of tubes](https://www.theverge.com/24131941/undersea-cables-pc-chips-qualcomm-elite-vergecast)
- - [The Echo Pop is down to one of its best prices to date with a free smart bulb](https://www.theverge.com/2024/4/16/24131075/amazon-echo-pop-hyperx-cloud-iii-wireless-headset-deal-sale)<!-- TECH:END -->
+ - [Apple highlights device recycling, iPhone trade-in, and the removal of leather for Earth Day](https://appleinsider.com/articles/24/04/16/apple-highlights-device-recycling-iphone-trade-in-and-the-removal-of-leather-for-earth-day?utm_medium=rss)
+ - [UnitedHealth says the February ransomware attack on Change Healthcare cost the company $872M in Q1; another ransomware group appears to be extorting the company &lpar;Connor Jones/The Register&rpar;](http://www.techmeme.com/240416/p18#a240416p18)
+ - [The 1970 Let It Be Beatles documentary is coming to Disney Plus](https://www.theverge.com/2024/4/16/24131993/the-beatles-let-it-be-documentary-disney-plus)
+ - [Apple wants to make grooved keys to stop nasty finger oil transfer to MacBook Pro screens](https://appleinsider.com/articles/24/04/16/apple-aims-to-stop-oily-fingerprints-marking-macbook-pro-screens?utm_medium=rss)
+ - [GMC Sierra EV Denali gets range boost while showing off its crab walk](https://www.theverge.com/2024/4/16/24131952/gmc-sierra-ev-denali-range-crab-walk-electric-truck-ev)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

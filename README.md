@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 16 Pro 256GB rumor makes sense, but is by a known falsifier](https://appleinsider.com/articles/24/04/16/iphone-16-pro-256gb-rumor-makes-sense-but-is-by-a-known-falsifier?utm_medium=rss)
  - [Apple rolls out second beta round, including EU Web Distribution in iOS 17.5](https://appleinsider.com/articles/24/04/16/apple-brings-out-new-second-gen-betas-including-web-distribution-for-ios-175?utm_medium=rss)
+ - [Jerusalem Flag autoprediction bug is fixed in iOS 17.5 developer beta](https://appleinsider.com/articles/24/04/16/jerusalem-flag-autoprediction-bug-is-fixed-in-ios-175-developer-beta?utm_medium=rss)
+ - [iPhone 16 Pro 256GB rumor makes sense, but is by a known falsifier](https://appleinsider.com/articles/24/04/16/iphone-16-pro-256gb-rumor-makes-sense-but-is-by-a-known-falsifier?utm_medium=rss)
  - [Amazon Music’s Maestro lets listeners make AI playlists](https://www.theverge.com/2024/4/16/24132129/amazon-music-maestro-ai-playlist-prompts)
- - [60 Best Podcasts &lpar;2024&rpar;: True Crime, Culture, Science, Fiction](https://www.wired.com/story/best-podcasts/)
- - [The Senate is set to vote on RISAA, which reauthorizes FISA&#39;s Section 702 and could force new types of businesses to eavesdrop on Americans without a warrant &lpar;Dell Cameron/Wired&rpar;](http://www.techmeme.com/240416/p24#a240416p24)<!-- TECH:END -->
+ - [60 Best Podcasts &lpar;2024&rpar;: True Crime, Culture, Science, Fiction](https://www.wired.com/story/best-podcasts/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

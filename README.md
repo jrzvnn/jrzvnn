@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [When to expect every Mac to get the AI-based M4 processor](https://appleinsider.com/articles/24/04/14/when-to-expect-every-mac-to-get-the-ai-based-m4-processor?utm_medium=rss)
  - [Apple highlights device recycling, iPhone trade-in, and the removal of leather for Earth Day](https://appleinsider.com/articles/24/04/16/apple-highlights-device-recycling-iphone-trade-in-and-the-removal-of-leather-for-earth-day?utm_medium=rss)
  - [UnitedHealth says the February ransomware attack on Change Healthcare cost the company $872M in Q1; another ransomware group appears to be extorting the company &lpar;Connor Jones/The Register&rpar;](http://www.techmeme.com/240416/p18#a240416p18)
  - [The 1970 Let It Be Beatles documentary is coming to Disney Plus](https://www.theverge.com/2024/4/16/24131993/the-beatles-let-it-be-documentary-disney-plus)
- - [Apple wants to make grooved keys to stop nasty finger oil transfer to MacBook Pro screens](https://appleinsider.com/articles/24/04/16/apple-aims-to-stop-oily-fingerprints-marking-macbook-pro-screens?utm_medium=rss)
- - [GMC Sierra EV Denali gets range boost while showing off its crab walk](https://www.theverge.com/2024/4/16/24131952/gmc-sierra-ev-denali-range-crab-walk-electric-truck-ev)<!-- TECH:END -->
+ - [Apple wants to make grooved keys to stop nasty finger oil transfer to MacBook Pro screens](https://appleinsider.com/articles/24/04/16/apple-aims-to-stop-oily-fingerprints-marking-macbook-pro-screens?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

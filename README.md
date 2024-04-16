@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Going through my old 9gag download folder from 10 yrs ago, I found this](http://9gag.com/gag/a6Zmpr2)
  - 😝 [Cup. Bear](http://9gag.com/gag/abAXBPb)
- - 😝 [Another stabbing down under.](http://9gag.com/gag/aKGw801)
- - 💣 [Which door you choose](http://9gag.com/gag/a6Zmjwm)
- - 😝 [During that time, she looked into his eyes with love\u2026](http://9gag.com/gag/amoNpoy)
- - 👉 [A totally normal win for the Chinese runner in Beijing Half Marathon](http://9gag.com/gag/azxgR5b)<!-- MEMES:END -->
+ - 💣 [Woman tries to force man to leave his seat so that she could stretch her legs. Said he should &#39;show respect to a woman of color&#39; because he is a white man](http://9gag.com/gag/a87L2z1)
+ - 😝 [Now it\u2019s called \u201cThe hyphen\u201d.](http://9gag.com/gag/aZZb2oW)
+ - 👉 [Which door you choose](http://9gag.com/gag/a6Zmjwm)<!-- MEMES:END -->
 
 ---
 

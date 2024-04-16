@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: Take-Two will fire 5% of its workforce and expects to incur up to $200M in charges as part of a downsizing effort, including $140M from canceled titles &lpar;Rob Golum/Bloomberg&rpar;](http://www.techmeme.com/240416/p32#a240416p32)
+ - [IAB and PwC report on US digital ad sales in 2023: total revenue grew 7.3% YoY to $225B, digital video grew 10.6% to $52.1B, and digital audio grew 18.9% to $7B &lpar;Hana Yoo/AdExchanger&rpar;](http://www.techmeme.com/240416/p31#a240416p31)
+ - [The Boring Phone is a nostalgic branding exercise by HMD and Heineken](https://www.theverge.com/2024/4/16/24132479/hmd-boring-phone-heineken-bodega)
  - [The New Hot Handset Is a Cute and Transparent Dumb Phone You Can&#39;t Buy](https://www.wired.com/story/hmd-the-boring-phone-heineken-bodega/)
- - [Kontakt.io, whose software and Bluetooth devices help hospital managers make decisions about patients, beds, and equipment, raised $47.5M from Goldman Sachs &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/240416/p30#a240416p30)
- - [Cloudflare says its network saw DNS-based DDoS attacks increase by 80% YoY in Q1 2024, with attacks on Sweden surging by 466% after its acceptance into NATO &lpar;The Cloudflare Blog&rpar;](http://www.techmeme.com/240416/p29#a240416p29)
- - [Drake muddies the ‘Push Ups’ AI debate with a deepfake](https://www.theverge.com/2024/4/16/24132145/drake-ai-deepfake-diss-track-metro-boomin-drumline)
- - [Stylus Pen for Apple     - CNET](https://www.cnet.com/tech/stylus-pen-for-ipad-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Kontakt.io, whose software and Bluetooth devices help hospital managers make decisions about patients, beds, and equipment, raised $47.5M from Goldman Sachs &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/240416/p30#a240416p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

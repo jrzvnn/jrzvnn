@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [60 Best Podcasts &lpar;2024&rpar;: True Crime, Culture, Science, Fiction](https://www.wired.com/story/best-podcasts/)
+ - [The Senate is set to vote on RISAA, which reauthorizes FISA&#39;s Section 702 and could force new types of businesses to eavesdrop on Americans without a warrant &lpar;Dell Cameron/Wired&rpar;](http://www.techmeme.com/240416/p24#a240416p24)
+ - [The best sleep gadgets to help you catch those Zzzs](https://www.theverge.com/23291925/best-sleep-tech-trackers-earbuds-wearables)
  - [Apple debuts web distribution of iOS apps to EU users, allowing qualifying devs who opt in to its Core Technology Fee to offer direct downloads from their sites &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240416/p23#a240416p23)
- - [Apple brings out new second-gen betas, including Web Distribution for iOS 17.5](https://appleinsider.com/articles/24/04/16/apple-brings-out-new-second-gen-betas-including-web-distribution-for-ios-175?utm_medium=rss)
- - [Spotify says 25% of paid users in the US, UK, and Australia have started an audiobook as part of their subscriptions; 57% are between 18 and 34 years old &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/240416/p22#a240416p22)
- - [Second developer beta of visionOS 1.2 has arrived](https://appleinsider.com/articles/24/04/16/second-developer-beta-of-visionos-12-has-arrived?utm_medium=rss)
- - [Google Workers Protest Cloud Contract With Israel&#39;s Government](https://www.wired.com/story/google-no-tech-for-apartheid-project-nimbus-israel-gaza-protest/)<!-- TECH:END -->
+ - [Apple brings out new second-gen betas, including Web Distribution for iOS 17.5](https://appleinsider.com/articles/24/04/16/apple-brings-out-new-second-gen-betas-including-web-distribution-for-ios-175?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

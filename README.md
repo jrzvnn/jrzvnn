@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I am hiking next weekend. Is this a good idea?](http://9gag.com/gag/aRBw2dQ)
+ - 😝 [Colors, colours](http://9gag.com/gag/abAXx8v)
  - 😝 [Shoutout to the Millennials out there!](http://9gag.com/gag/avypx3W)
- - 💣 [Th search is on](http://9gag.com/gag/ae9jmvB)
- - 😝 [Enter into the exciting world of Buddy Arena with Affyn and choose your favorite fighting companion!](http://9gag.com/gag/a87LeD1)
- - 👉 [Lower back!](http://9gag.com/gag/aD2AVNd)<!-- MEMES:END -->
+ - 💣 [The Best way to learn How to Backflip](http://9gag.com/gag/aXP02e9)
+ - 😝 [A totally normal win for the Chinese runner in Beijing Half Marathon](http://9gag.com/gag/azxgR5b)
+ - 👉 [Woman tries to force man to leave his seat so that she could stretch her legs. Said he should &#39;show respect to a woman of color&#39; because he is a white man](http://9gag.com/gag/a87L2z1)<!-- MEMES:END -->
 
 ---
 

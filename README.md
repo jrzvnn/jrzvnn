@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Report: TikTok’s efforts to silo US data are ‘largely cosmetic’](https://www.theverge.com/2024/4/16/24132315/tiktok-bytedance-project-texas-china-silo)
  - [Motorola’s new $130 earbuds are a Bose collab](https://www.theverge.com/2024/4/16/24132273/motorola-moto-buds-plus-bose-anc)
- - [People are afraid of self-driving cars — can the industry change that?](https://www.theverge.com/2024/4/16/24132026/autonomous-vehicles-fear-poll-public-trust-avia)
- - [Loft Labs, which helps businesses spin up virtual Kubernetes clusters, raised a $24M Series A and says its open source project vCluster has had 40M downloads &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/240416/p26#a240416p26)
- - [Take it slow in this stop-motion sci-fi adventure](https://www.theverge.com/24131922/harold-halibut-review-ps5-xbox-steam)<!-- TECH:END -->
+ - [The Minimum Payment on Your Credit Card Debt Might Not Be Enough: Here&#39;s Why     - CNET](https://www.cnet.com/personal-finance/credit-cards/the-minimum-payment-on-your-credit-card-debt-might-not-be-enough-heres-why/#ftag=CAD590a51e)
+ - [Snag a Refurbished Microsoft Surface Pro 9 for Only $630     - CNET](https://www.cnet.com/deals/snag-a-refurbished-microsoft-surface-pro-9-for-only-630/#ftag=CAD590a51e)
+ - [Best Solar Inverters of April 2024     - CNET](https://www.cnet.com/home/energy-and-utilities/best-solar-inverters/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Intel&#39;s Gaudi 3 white paper details the made-for-China processors HL-328 and HL-388, likely designed to comply with US sanctions by reducing performance &lpar;Matthew Connatser/The Register&rpar;](http://www.techmeme.com/240416/p12#a240416p12)
+ - [Tim Cook meets with Vietnamese officials, developers, and students](https://appleinsider.com/articles/24/04/16/tim-cook-meets-with-vietnamese-officials-developers-and-students?utm_medium=rss)
  - [Filing: MGM sues the FTC to stop an investigation into a 2023 cyberattack and asks for Chair Lina Khan&#39;s recusal; Khan stayed at the MGM Grand in September 2023 &lpar;Sabrina Willmer/Bloomberg&rpar;](http://www.techmeme.com/240416/p11#a240416p11)
  - [NASA confirms origin of space junk that crashed through Florida home](https://www.theverge.com/2024/4/16/24131804/nasa-confirms-iss-space-station-junk-crashed-into-florida-home)
- - [Meta&#39;s Oversight Board plans to investigate two deepfake porn cases, both involving unnamed celebrities who had their images altered to create explicit content &lpar;Vittoria Elliott/Wired&rpar;](http://www.techmeme.com/240416/p10#a240416p10)
- - [Mortgage Rates Go Up for Homeseekers: Mortgage Interest Rates for April 16, 2024     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-rates-go-up-for-homeseekers-mortgage-interest-rates-for-april-16-2024/#ftag=CAD590a51e)
- - [Homeowners Face Higher Refi Rates: Today&#39;s Refinance Rates, April 16, 2024     - CNET](https://www.cnet.com/personal-finance/mortgages/homeowners-face-higher-refi-rates-todays-refinance-rates-april-16-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta&#39;s Oversight Board plans to investigate two deepfake porn cases, both involving unnamed celebrities who had their images altered to create explicit content &lpar;Vittoria Elliott/Wired&rpar;](http://www.techmeme.com/240416/p10#a240416p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

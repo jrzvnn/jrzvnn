@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple rolls out second beta round, including EU Web Distribution in iOS 17.5](https://appleinsider.com/articles/24/04/16/apple-brings-out-new-second-gen-betas-including-web-distribution-for-ios-175?utm_medium=rss)
  - [Amazon Music’s Maestro lets listeners make AI playlists](https://www.theverge.com/2024/4/16/24132129/amazon-music-maestro-ai-playlist-prompts)
  - [60 Best Podcasts &lpar;2024&rpar;: True Crime, Culture, Science, Fiction](https://www.wired.com/story/best-podcasts/)
  - [The Senate is set to vote on RISAA, which reauthorizes FISA&#39;s Section 702 and could force new types of businesses to eavesdrop on Americans without a warrant &lpar;Dell Cameron/Wired&rpar;](http://www.techmeme.com/240416/p24#a240416p24)
- - [The best sleep gadgets to help you catch those Zzzs](https://www.theverge.com/23291925/best-sleep-tech-trackers-earbuds-wearables)
- - [Apple debuts web distribution of iOS apps to EU users, allowing qualifying devs who opt in to its Core Technology Fee to offer direct downloads from their sites &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240416/p23#a240416p23)<!-- TECH:END -->
+ - [The best sleep gadgets to help you catch those Zzzs](https://www.theverge.com/23291925/best-sleep-tech-trackers-earbuds-wearables)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cup. Bear](http://9gag.com/gag/abAXBPb)
- - 😝 [A totally normal win for the Chinese runner in Beijing Half Marathon](http://9gag.com/gag/azxgR5b)
- - 💣 [Now it\u2019s called \u201cThe hyphen\u201d.](http://9gag.com/gag/aZZb2oW)
- - 😝 [During that time, she looked into his eyes with love\u2026](http://9gag.com/gag/amoNpoy)
- - 👉 [Woman tries to force man to leave his seat so that she could stretch her legs. Said he should &#39;show respect to a woman of color&#39; because he is a white man](http://9gag.com/gag/a87L2z1)<!-- MEMES:END -->
+ - 😝 [Angry mother speaks out against school board that dedicates 3 days a week to teach kids about LGBTQT2SDF and sexual lessons](http://9gag.com/gag/aQzP27w)
+ - 😝 [`I love being your son.` Made me, a grown man, cry.](http://9gag.com/gag/aPAw1Xn)
+ - 💣 [Yikes](http://9gag.com/gag/avypvNZ)
+ - 😝 [The bike overreacted](http://9gag.com/gag/avypdGX)
+ - 👉 [Boys being boys....](http://9gag.com/gag/a87LKXd)<!-- MEMES:END -->
 
 ---
 

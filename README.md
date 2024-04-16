@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Now it\u2019s called \u201cThe hyphen\u201d.](http://9gag.com/gag/aZZb2oW)
  - 😝 [I can see two differences](http://9gag.com/gag/aQzPOzW)
- - 😝 [Dubai right now](http://9gag.com/gag/aPAwrYB)
- - 💣 [Now it\u2019s called \u201cThe hyphen\u201d.](http://9gag.com/gag/aZZb2oW)
- - 😝 [Big oof...](http://9gag.com/gag/aryv245)
- - 👉 [Another stabbing down under.](http://9gag.com/gag/aKGw801)<!-- MEMES:END -->
+ - 💣 [In 1997, William Moldt disappeared after leaving a club to go home. He wasn&#39;t found until 2019 when a man using Google Earth to check out his old neighborhood in Florida discovered a car submerged in a pond.](http://9gag.com/gag/aoyEx5e)
+ - 😝 [Cup. Bear](http://9gag.com/gag/abAXBPb)
+ - 👉 [The Tesla layoffs email](http://9gag.com/gag/a5QejMr)<!-- MEMES:END -->
 
 ---
 

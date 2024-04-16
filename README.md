@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kode Labs, which develops tools that integrate data from building management systems and IoT devices, raised a $30M Series B led by Maverix Private Equity &lpar;Tim De Chant/TechCrunch&rpar;](http://www.techmeme.com/240415/p32#a240415p32)
  - [Spotify listeners may finally get lossless audio -- but at a cost](https://appleinsider.com/articles/24/04/16/spotify-listeners-may-finally-get-lossless-audio----but-at-a-cost?utm_medium=rss)
  - [Deals: get a free $40 gift card with a Costco membership](https://appleinsider.com/articles/24/04/16/deals-get-a-free-40-gift-card-with-a-costco-membership?utm_medium=rss)
  - [Sources: the UK plans talks this month with Apple, Meta, and others to push a voluntary charter granting parents more control of social media use by young teens &lpar;Ellen Milligan/Bloomberg&rpar;](http://www.techmeme.com/240415/p31#a240415p31)
- - [Best Sleep Headphones of 2024     - CNET](https://www.cnet.com/health/sleep/headphones-for-sleeping/#ftag=CAD590a51e)
- - [Mark Zuckerberg wins his bid to avoid personal liability in about two dozen lawsuits accusing Meta and other companies of addicting children to their products &lpar;Rachel Graf/Bloomberg&rpar;](http://www.techmeme.com/240415/p30#a240415p30)<!-- TECH:END -->
+ - [Best Full Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-full-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

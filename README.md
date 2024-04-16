@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lower back!](http://9gag.com/gag/aD2AVNd)
- - 😝 [Title](http://9gag.com/gag/aVvz2Ny)
- - 💣 [The Best way to learn How to Backflip](http://9gag.com/gag/aXP02e9)
- - 😝 [Angry mother speaks out against school board that dedicates 3 days a week to teach kids about LGBTQT2SDF and sexual lessons](http://9gag.com/gag/aQzP27w)
- - 👉 [Yikes](http://9gag.com/gag/avypvNZ)<!-- MEMES:END -->
+ - 😝 [Which door you choose](http://9gag.com/gag/a6Zmjwm)
+ - 😝 [\u201c I\u2019m natural \u201c](http://9gag.com/gag/abAX2QE)
+ - 💣 [The Tesla layoffs email](http://9gag.com/gag/a5QejMr)
+ - 😝 [Now it\u2019s called \u201cThe hyphen\u201d.](http://9gag.com/gag/aZZb2oW)
+ - 👉 [During that time, she looked into his eyes with love\u2026](http://9gag.com/gag/amoNpoy)<!-- MEMES:END -->
 
 ---
 

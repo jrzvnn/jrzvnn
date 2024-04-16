@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He honestly believed he could stab a bishop, and be home that night on bail playing Xbox.](http://9gag.com/gag/agm3ELr)
- - 😝 [Now it\u2019s called \u201cThe hyphen\u201d.](http://9gag.com/gag/aZZb2oW)
+ - 😝 [Chad Howard on it again](http://9gag.com/gag/a5QeqNG)
+ - 😝 [The Tesla layoffs email](http://9gag.com/gag/a5QejMr)
  - 💣 [A totally normal win for the Chinese runner in Beijing Half Marathon](http://9gag.com/gag/azxgR5b)
- - 😝 [I can see two differences](http://9gag.com/gag/aQzPOzW)
- - 👉 [The Tesla layoffs email](http://9gag.com/gag/a5QejMr)<!-- MEMES:END -->
+ - 😝 [This is going to be my new hobby\u2026](http://9gag.com/gag/azxg41m)
+ - 👉 [I can see two differences](http://9gag.com/gag/aQzPOzW)<!-- MEMES:END -->
 
 ---
 

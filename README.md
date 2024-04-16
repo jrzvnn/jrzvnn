@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AMD unveils Ryzen Pro 8040 series for commercial laptops and mobile workstations and Ryzen Pro 8000 series for desktops, adding a neural processing unit for AI &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240416/p16#a240416p16)
+ - [Apple wants an iPhone camera module maker in India](https://appleinsider.com/articles/24/04/16/apple-wants-an-iphone-camera-module-maker-in-india?utm_medium=rss)
  - [Sony wants 60fps PS5 Pro ‘Enhanced’ games, but it’s happy to settle for less](https://www.theverge.com/2024/4/16/24131799/sony-ps5-pro-enhanced-requirements-ultra-boost-mode)
  - [Review: DJI Avata 2 Drone](https://www.wired.com/review/dji-avata-2-drone/)
- - [Clean junk files from your Mac with Intego Washing Machine X9](https://appleinsider.com/articles/23/03/20/clean-junk-files-from-your-mac-with-intego-washing-machine-x9?utm_medium=rss)
- - [Insta360’s first 8K camera comes with a removable lens guard](https://www.theverge.com/24131495/insta360-x4-360-camera-8k)
- - [Apple is researching how to make the ultimate MagSafe wallet and iPhone carrying case](https://appleinsider.com/articles/24/04/16/apple-is-researching-how-to-make-the-ultimate-magsafe-wallet-and-iphone-carrying-case?utm_medium=rss)<!-- TECH:END -->
+ - [Clean junk files from your Mac with Intego Washing Machine X9](https://appleinsider.com/articles/23/03/20/clean-junk-files-from-your-mac-with-intego-washing-machine-x9?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Second developer beta of visionOS 1.2 has arrived](https://appleinsider.com/articles/24/04/16/second-developer-beta-of-visionos-12-has-arrived?utm_medium=rss)
+ - [US Senate to Vote on a Wiretap Bill That Critics Call ‘Stasi-Like’](https://www.wired.com/story/senate-section-702-ecsr-provision/)
+ - [How iOS Web Distribution works in the EU in iOS 17.5](https://appleinsider.com/articles/24/04/16/how-ios-web-distribution-works-in-the-eu-in-ios-175?utm_medium=rss)
  - [Truth Social says it’s building a live TV service](https://www.theverge.com/2024/4/16/24131954/truth-social-live-tv-streaming-service-donald-trump)
- - [Telehealth firm Cerebral fined $7 million over ‘careless’ privacy violations](https://www.theverge.com/2024/4/16/24131881/ftc-fine-cerebral-telehealth)
- - [SSDI Payment for April 2024: Will Your Money Come This Week?     - CNET](https://www.cnet.com/personal-finance/ssdi-payment-for-april-2024-will-your-money-come-this-week/#ftag=CAD590a51e)
- - [Spotify bought Parcast — now its founder is launching a new entertainment studio](https://www.theverge.com/2024/4/16/24132017/pave-studios-max-cutler-spotify-parcast-podcasts)
- - [Resecurity: in Q1, malicious cyber activities targeting the Philippines, including cyberattacks and misinfo campaigns, were up 300%+ YoY, as China tensions rise &lpar;Pierluigi Paganini/Security Affairs&rpar;](http://www.techmeme.com/240416/p21#a240416p21)<!-- TECH:END -->
+ - [Telehealth firm Cerebral fined $7 million over ‘careless’ privacy violations](https://www.theverge.com/2024/4/16/24131881/ftc-fine-cerebral-telehealth)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

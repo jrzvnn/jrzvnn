@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Colors, colours](http://9gag.com/gag/abAXx8v)
- - 😝 [Shoutout to the Millennials out there!](http://9gag.com/gag/avypx3W)
- - 💣 [The Best way to learn How to Backflip](http://9gag.com/gag/aXP02e9)
- - 😝 [A totally normal win for the Chinese runner in Beijing Half Marathon](http://9gag.com/gag/azxgR5b)
- - 👉 [Woman tries to force man to leave his seat so that she could stretch her legs. Said he should &#39;show respect to a woman of color&#39; because he is a white man](http://9gag.com/gag/a87L2z1)<!-- MEMES:END -->
+ - 😝 [Now it\u2019s called \u201cThe hyphen\u201d.](http://9gag.com/gag/aZZb2oW)
+ - 😝 [I am uploading here maybe some has the rest of this conversation. Saw the full one awhile ago. Thank you](http://9gag.com/gag/aXP07B6)
+ - 💣 [Title](http://9gag.com/gag/aVvz2Ny)
+ - 😝 [Another stabbing down under.](http://9gag.com/gag/aKGw801)
+ - 👉 [I am hiking next weekend. Is this a good idea?](http://9gag.com/gag/aRBw2dQ)<!-- MEMES:END -->
 
 ---
 

@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [MY PROFITS!!](http://9gag.com/gag/aKGwYbg)
- - 😝 [I am hiking next weekend. Is this a good idea?](http://9gag.com/gag/aRBw2dQ)
- - 💣 [Don&#39;t listen to the voices... Don&#39;t listen to the voices... Don&#39;t listen to the voices...](http://9gag.com/gag/aKGwvyb)
  - 😝 [One way to make them learn](http://9gag.com/gag/aZZbQQp)
+ - 😝 [People outside the church in Australia demands the stabber handed over to them](http://9gag.com/gag/a1mv26v)
+ - 💣 [I am hiking next weekend. Is this a good idea?](http://9gag.com/gag/aRBw2dQ)
+ - 😝 [Another stabbing down under.](http://9gag.com/gag/aKGw801)
  - 👉 [Woman tries to force man to leave his seat so that she could stretch her legs. Said he should &#39;show respect to a woman of color&#39; because he is a white man](http://9gag.com/gag/a87L2z1)<!-- MEMES:END -->
 
 ---

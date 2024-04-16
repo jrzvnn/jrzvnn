@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: in 2023, Abu Dhabi&#39;s G42 and the US Commerce Department held talks that led to G42 agreeing to pare back its China presence to avoid punitive measures &lpar;Bloomberg&rpar;](http://www.techmeme.com/240416/p7#a240416p7)
  - [A look at Neopets, a website launched in 1999 to let users care for virtual pets, including how the site survived multiple acquisitions and Flash&#39;s phasing out &lpar;Kari Paul/The Guardian&rpar;](http://www.techmeme.com/240416/p6#a240416p6)
  - [Ghost kitchens and virtual restaurant brands, which boomed during the pandemic after raising billions, are disappearing due to overtaxed kitchens and complaints &lpar;Julie Creswell/New York Times&rpar;](http://www.techmeme.com/240416/p5#a240416p5)
  - [Mozilla and CheckFirst: Apple, Google, Meta, and others&#39; ad transparency efforts are a work in progress, months after the EU&#39;s DSA mandated a searchable library &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240416/p4#a240416p4)
- - [India-based B2B e-commerce marketplace ProcMart raised a $30M Series B led by Fundamentum and Edelweiss Discovery Fund, following a $10M Series A in 2022 &lpar;Times of India&rpar;](http://www.techmeme.com/240416/p3#a240416p3)
- - [Berlin-based finmid, which makes embedded fintech tools for SMBs, raised a &amp;euro;23M Series A at a &amp;euro;100M post-money valuation, bringing its total raised to &amp;euro;35M &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/240416/p2#a240416p2)<!-- TECH:END -->
+ - [India-based B2B e-commerce marketplace ProcMart raised a $30M Series B led by Fundamentum and Edelweiss Discovery Fund, following a $10M Series A in 2022 &lpar;Times of India&rpar;](http://www.techmeme.com/240416/p3#a240416p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [I can see two differences](http://9gag.com/gag/aQzPOzW)
- - 😝 [Which door you choose](http://9gag.com/gag/a6Zmjwm)
+ - 😝 [Dubai right now](http://9gag.com/gag/aPAwrYB)
  - 💣 [Now it\u2019s called \u201cThe hyphen\u201d.](http://9gag.com/gag/aZZb2oW)
- - 😝 [During that time, she looked into his eyes with love\u2026](http://9gag.com/gag/amoNpoy)
- - 👉 [A totally normal win for the Chinese runner in Beijing Half Marathon](http://9gag.com/gag/azxgR5b)<!-- MEMES:END -->
+ - 😝 [Big oof...](http://9gag.com/gag/aryv245)
+ - 👉 [Another stabbing down under.](http://9gag.com/gag/aKGw801)<!-- MEMES:END -->
 
 ---
 

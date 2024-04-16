@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola is bringing the wooden phone back with its new Edge series](https://www.theverge.com/2024/4/16/24131435/motorola-edge-50-ultra-pro-fusion-wood-panel)
- - [Anker’s latest Soundcore Sleep earbuds actually improve slumber for less than $90](https://www.theverge.com/24125032/soundcore-sleep-a20-review-noise-cancelling-earbuds)
- - [Walmart&#39;s $45 Million Payout: Customers From Past 6 Years Can File a Claim     - CNET](https://www.cnet.com/personal-finance/walmarts-45-million-payout-customers-from-past-6-years-can-file-a-claim/#ftag=CAD590a51e)
- - [The Open Source Security Foundation and the OpenJS Foundation say the attempt to insert a secret backdoor into XZ Utils &quot;may not be an isolated incident&quot; &lpar;Raphael Satter/Reuters&rpar;](http://www.techmeme.com/240416/p15#a240416p15)
- - [YouTube begins &quot;strengthening our enforcement on third-party apps that violate&quot; its ToS and &quot;specifically ad-blocking apps&quot;, leading to app error messages &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240416/p14#a240416p14)<!-- TECH:END -->
+ - [iPhone 16 Pro 256GB rumor makes sense, but is by a known falsifier](https://appleinsider.com/articles/24/04/16/iphone-16-pro-256gb-rumor-makes-sense-but-is-by-a-known-falsifier?utm_medium=rss)
+ - [Try These Secret AirPods Pro 2 Features Now     - CNET](https://www.cnet.com/tech/mobile/try-these-secret-airpods-pro-2-features-now/#ftag=CAD590a51e)
+ - [Motorola&#39;s Edge 50 Phone Line Debuts With Moto AI, 125-Watt Charging     - CNET](https://www.cnet.com/tech/mobile/motorolas-edge-50-phone-line-debuts-with-moto-ai-125-watt-charging/#ftag=CAD590a51e)
+ - [This Is Your Wake-Up Call: Why It&#39;s Healthier to Be an Early Bird     - CNET](https://www.cnet.com/health/sleep/this-is-your-wake-up-call-why-its-healthier-to-be-an-early-bird/#ftag=CAD590a51e)
+ - [Dell XPS 14 9440 Review: Solid Premium Laptop That May Be a Bit Too Minimalistic     - CNET](https://www.cnet.com/tech/computing/dell-xps-14-9440-review-solid-premium-laptop-that-may-be-a-bit-too-minimalistic/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

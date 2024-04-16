@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [People outside the church in Australia demands the stabber handed over to them](http://9gag.com/gag/a1mv26v)
- - 😝 [In 1997, William Moldt disappeared after leaving a club to go home. He wasn&#39;t found until 2019 when a man using Google Earth to check out his old neighborhood in Florida discovered a car submerged in a pond.](http://9gag.com/gag/aoyEx5e)
- - 💣 [Title](http://9gag.com/gag/ajPYx81)
+ - 😝 [This garbage `leather` coating that eventually flakes off and gets everywhere](http://9gag.com/gag/a2vzbZd)
+ - 😝 [I&#39;m in shock... I mean who would have thought after decades of demonizing men... Hashtrash me too?](http://9gag.com/gag/a2vz0ME)
+ - 💣 [You Won&#39;t Get Anything Done Hoeing Like That](http://9gag.com/gag/a5QeG8O)
  - 😝 [Enter into the exciting world of Buddy Arena with Affyn and choose your favorite fighting companion!](http://9gag.com/gag/a87LeD1)
- - 👉 [Colors, colours](http://9gag.com/gag/abAXx8v)<!-- MEMES:END -->
+ - 👉 [I am hiking next weekend. Is this a good idea?](http://9gag.com/gag/aRBw2dQ)<!-- MEMES:END -->
 
 ---
 

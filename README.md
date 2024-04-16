@@ -175,9 +175,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In 1997, William Moldt disappeared after leaving a club to go home. He wasn&#39;t found until 2019 when a man using Google Earth to check out his old neighborhood in Florida discovered a car submerged in a pond.](http://9gag.com/gag/aoyEx5e)
- - 😝 [\u00ab\u00a0Men only want one thing and it\u2019s disgusting\u00a0..\u00a0\u00bb](http://9gag.com/gag/aPAweLK)
- - 💣 [That laugh at the end though](http://9gag.com/gag/aVvzZRy)
+ - 😝 [He still loves her](http://9gag.com/gag/aByREoD)
+ - 😝 [Woman tries to force man to leave his seat so that she could stretch her legs. Said he should &#39;show respect to a woman of color&#39; because he is a white man](http://9gag.com/gag/a87L2z1)
+ - 💣 [The lack of mannerism, is just the norm now eh?](http://9gag.com/gag/aoyE41x)
  - 😝 [Enter into the exciting world of Buddy Arena with Affyn and choose your favorite fighting companion!](http://9gag.com/gag/a87LeD1)
  - 👉 [I am uploading here maybe some has the rest of this conversation. Saw the full one awhile ago. Thank you](http://9gag.com/gag/aXP07B6)<!-- MEMES:END -->
 

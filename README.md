@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Finding a Foot Long Crystal!](http://9gag.com/gag/ajPYZD0)
- - 😝 [In 1997, William Moldt disappeared after leaving a club to go home. He wasn&#39;t found until 2019 when a man using Google Earth to check out his old neighborhood in Florida discovered a car submerged in a pond.](http://9gag.com/gag/aoyEx5e)
- - 💣 [One way to make them learn](http://9gag.com/gag/aZZbQQp)
+ - 😝 [Gentlemen looting at a French fair and finally tasting the hospitality of the tenants.](http://9gag.com/gag/aAyRX4L)
+ - 😝 [That laugh at the end though](http://9gag.com/gag/aVvzZRy)
+ - 💣 [This garbage `leather` coating that eventually flakes off and gets everywhere](http://9gag.com/gag/a2vzbZd)
  - 😝 [Enter into the exciting world of Buddy Arena with Affyn and choose your favorite fighting companion!](http://9gag.com/gag/a87LeD1)
- - 👉 [People outside the church in Australia demands the stabber handed over to them](http://9gag.com/gag/a1mv26v)<!-- MEMES:END -->
+ - 👉 [In 1997, William Moldt disappeared after leaving a club to go home. He wasn&#39;t found until 2019 when a man using Google Earth to check out his old neighborhood in Florida discovered a car submerged in a pond.](http://9gag.com/gag/aoyEx5e)<!-- MEMES:END -->
 
 ---
 

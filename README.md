@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: HR tech startup Rippling plans to close a Series F at a valuation as high as $13.4B, after a $200M injection plus $670M in shares sold by stockholders &lpar;TechCrunch&rpar;](http://www.techmeme.com/240416/p28#a240416p28)
+ - [WhatsApp Adds Message Filters to Make Itself More Usable     - CNET](https://www.cnet.com/tech/whatsapp-adds-message-filters-to-make-itself-more-usable/#ftag=CAD590a51e)
  - [A new NES emulator was briefly available on the Apple App Store](https://www.theverge.com/2024/4/16/24132351/iphone-apple-app-store-nes-emulator-bimmy-removed)
  - [Sensor Tower: Naval Ravikant and Brian Norgard&#39;s audio-focused invitation-only social app Airchat has been downloaded 30K+ times since it relaunched this month &lpar;Priya Anand/Bloomberg&rpar;](http://www.techmeme.com/240416/p27#a240416p27)
- - [Fear of Nintendo&#39;s wrath is keeping emulators off of the App Store](https://appleinsider.com/articles/24/04/16/fear-of-nintendos-wrath-is-keeping-emulators-off-of-the-app-store?utm_medium=rss)
- - [Report: TikTok’s efforts to silo US data are ‘largely cosmetic’](https://www.theverge.com/2024/4/16/24132315/tiktok-bytedance-project-texas-china-silo)
- - [Motorola’s new $130 earbuds are a Bose collab](https://www.theverge.com/2024/4/16/24132273/motorola-moto-buds-plus-bose-anc)<!-- TECH:END -->
+ - [YouTube Cracks Down on Ad-Blocking Apps     - CNET](https://www.cnet.com/tech/services-and-software/youtube-cracks-down-on-ad-blocking-apps/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

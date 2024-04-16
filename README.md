@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the failure of Humane&#39;s Ai Pin, which took six years to ship after raising $230M, including building the device &quot;the Apple way&quot; and raising too much &lpar;Benjamin Sandofsky/Sandofsky&rpar;](http://www.techmeme.com/240416/p8#a240416p8)
- - [Sources: in 2023, Abu Dhabi&#39;s G42 and the US Commerce Department held talks that led to G42 agreeing to pare back its China presence to avoid punitive measures &lpar;Bloomberg&rpar;](http://www.techmeme.com/240416/p7#a240416p7)
- - [Best Samsung Phone of 2024     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-phone/#ftag=CAD590a51e)
- - [You Should Always Floss Before Brushing Your Teeth. Here&#39;s Why     - CNET](https://www.cnet.com/health/personal-care/you-should-always-floss-before-brushing-your-teeth-heres-why/#ftag=CAD590a51e)
- - [Dirty Keurig? Tips to Properly Clean Your Coffee Maker for Better Brews     - CNET](https://www.cnet.com/how-to/dirty-keurig-tips-to-properly-clean-your-coffee-maker-for-better-brews/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple opens fourth Developer Academy in Indonesia](https://appleinsider.com/articles/24/04/16/apple-opens-fourth-developer-academy-in-indonesia?utm_medium=rss)
+ - [Bain Capital agrees to sell UK payroll software company Zellis, acquired in 2017, to Apax Partners; sources say the deal values Zellis at ~&amp;pound;1.25B &lpar;Bloomberg&rpar;](http://www.techmeme.com/240416/p9#a240416p9)
+ - [Celebrity Deepfake Porn Cases Will Be Investigated by Meta Oversight Board](https://www.wired.com/story/meta-oversight-board-deepfake-porn-facebook-instagram/)
+ - [They Experimented on Themselves in Secret. What They Discovered Helped Win a War](https://www.wired.com/story/chamber-divers-rachel-lance/)
+ - [A look at the failure of Humane&#39;s Ai Pin, which took six years to ship after raising $230M, including building the device &quot;the Apple way&quot; and raising too much &lpar;Benjamin Sandofsky/Sandofsky&rpar;](http://www.techmeme.com/240416/p8#a240416p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

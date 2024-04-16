@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spotify bought Parcast — now its founder is launching a new entertainment studio](https://www.theverge.com/2024/4/16/24132017/pave-studios-max-cutler-spotify-parcast-podcasts)
+ - [Resecurity: in Q1, malicious cyber activities targeting the Philippines, including cyberattacks and misinfo campaigns, were up 300%+ YoY, as China tensions rise &lpar;Pierluigi Paganini/Security Affairs&rpar;](http://www.techmeme.com/240416/p21#a240416p21)
  - [Babies born this year face a $500,000 climate bill](https://www.theverge.com/2024/4/16/24131880/baby-climate-change-costs-consumer-reports-study)
  - [Future Apple Vision Pro could help the user get life-saving medical advice](https://appleinsider.com/articles/24/04/16/future-apple-vision-pro-could-help-the-user-get-life-saving-medical-advice?utm_medium=rss)
- - [17 Best Xbox Series X/S Games You Can Play Now &lpar;2024&rpar;](https://www.wired.com/gallery/best-xbox-series-x-series-s-games/)
- - [Andreessen Horowitz raised $7.2B, with $600M for American Dynamism, $3.75B for late-stage startups, and $600M for gaming, exceeding its target by ~4% &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/240416/p20#a240416p20)
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)<!-- TECH:END -->
+ - [17 Best Xbox Series X/S Games You Can Play Now &lpar;2024&rpar;](https://www.wired.com/gallery/best-xbox-series-x-series-s-games/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

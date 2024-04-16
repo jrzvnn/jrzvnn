@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is going to be my new hobby\u2026](http://9gag.com/gag/azxg41m)
- - 😝 [Now it\u2019s called \u201cThe hyphen\u201d.](http://9gag.com/gag/aZZb2oW)
+ - 😝 [Cup. Bear](http://9gag.com/gag/abAXBPb)
+ - 😝 [A totally normal win for the Chinese runner in Beijing Half Marathon](http://9gag.com/gag/azxgR5b)
  - 💣 [Which door you choose](http://9gag.com/gag/a6Zmjwm)
- - 😝 [\u201c I\u2019m natural \u201c](http://9gag.com/gag/abAX2QE)
- - 👉 [Buddy didn&#39;t even graduate](http://9gag.com/gag/aMV2Oq1)<!-- MEMES:END -->
+ - 😝 [I can see two differences](http://9gag.com/gag/aQzPOzW)
+ - 👉 [What Should i do](http://9gag.com/gag/a6ZmpWe)<!-- MEMES:END -->
 
 ---
 

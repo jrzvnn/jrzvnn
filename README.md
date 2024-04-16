@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Ghost kitchens and virtual restaurant brands, which boomed during the pandemic after raising billions, are disappearing due to overtaxed kitchens and complaints &lpar;Julie Creswell/New York Times&rpar;](http://www.techmeme.com/240416/p5#a240416p5)
- - [Mozilla and CheckFirst report: Apple, Google, Meta, and others&#39; efforts are a work in progress at best, months after EU&#39;s DSA mandated a searchable ads library &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240416/p4#a240416p4)
- - [Noida, India-based B2B e-commerce marketplace ProcMart raised a $30M Series B led by Fundamentum and Edelweiss Discovery Fund, after a $10M Series A in 2022 &lpar;Times of India&rpar;](http://www.techmeme.com/240416/p3#a240416p3)
- - [Berlin-based finmid, which makes embedded fintech solutions for SMBs, raised a &amp;euro;23M Series A at a &amp;euro;100M post money valuation, bringing total raised to &amp;euro;35M &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/240416/p2#a240416p2)
- - [Microsoft invests $1.5B in Abu Dhabi-based AI group G42 for a minority stake, as G42 severed its ties with Chinese suppliers; Brad Smith will sit on G42&#39;s board &lpar;Financial Times&rpar;](http://www.techmeme.com/240416/p1#a240416p1)<!-- TECH:END -->
+ - [Mozilla and CheckFirst: Apple, Google, Meta, and others&#39; ad transparency efforts are a work in progress, months after the EU&#39;s DSA mandated a searchable library &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240416/p4#a240416p4)
+ - [India-based B2B e-commerce marketplace ProcMart raised a $30M Series B led by Fundamentum and Edelweiss Discovery Fund, following a $10M Series A in 2022 &lpar;Times of India&rpar;](http://www.techmeme.com/240416/p3#a240416p3)
+ - [Berlin-based finmid, which makes embedded fintech tools for SMBs, raised a &amp;euro;23M Series A at a &amp;euro;100M post-money valuation, bringing its total raised to &amp;euro;35M &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/240416/p2#a240416p2)
+ - [Microsoft invests $1.5B in Abu Dhabi-based AI group G42 for a minority stake, after G42 severed ties with Chinese suppliers; Brad Smith will sit on G42&#39;s board &lpar;Financial Times&rpar;](http://www.techmeme.com/240416/p1#a240416p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

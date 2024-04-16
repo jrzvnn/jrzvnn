@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Motorola’s new $130 earbuds are a Bose collab](https://www.theverge.com/2024/4/16/24132273/motorola-moto-buds-plus-bose-anc)
  - [People are afraid of self-driving cars — can the industry change that?](https://www.theverge.com/2024/4/16/24132026/autonomous-vehicles-fear-poll-public-trust-avia)
  - [Loft Labs, which helps businesses spin up virtual Kubernetes clusters, raised a $24M Series A and says its open source project vCluster has had 40M downloads &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/240416/p26#a240416p26)
  - [Take it slow in this stop-motion sci-fi adventure](https://www.theverge.com/24131922/harold-halibut-review-ps5-xbox-steam)
- - [Tax Season Is Over. Where&#39;s Your Child Tax Credit Refund?     - CNET](https://www.cnet.com/personal-finance/taxes/tax-season-is-over-wheres-your-child-tax-credit-refund/#ftag=CAD590a51e)
- - [Best Google Pixel Deals: Save Up to $1,000 With Trade-In, Plus Discounts on the Pixel 8 Pro, Pixel Fold, Pixel 7A and More     - CNET](https://www.cnet.com/deals/best-google-pixel-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tax Season Is Over. Where&#39;s Your Child Tax Credit Refund?     - CNET](https://www.cnet.com/personal-finance/taxes/tax-season-is-over-wheres-your-child-tax-credit-refund/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

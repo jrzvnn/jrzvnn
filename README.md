@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [How to add a Quick Link for locations in Apple Maps in macOS](https://appleinsider.com/inside/apple-maps/tips/how-to-add-a-quick-link-for-locations-in-apple-maps-in-macos?utm_medium=rss)
  - [South Korea-based AI startup Upstage raised a $72M Series B from investors including SK Networks and SBVA, formerly known as SoftBank Ventures Asia &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/240415/p33#a240415p33)
- - [Kode Labs, which develops tools that integrate data from building management systems and IoT devices, raised a $30M Series B led by Maverix Private Equity &lpar;Tim De Chant/TechCrunch&rpar;](http://www.techmeme.com/240415/p32#a240415p32)
- - [Spotify listeners may finally get lossless audio -- but at a cost](https://appleinsider.com/articles/24/04/16/spotify-listeners-may-finally-get-lossless-audio----but-at-a-cost?utm_medium=rss)
- - [Deals: get a free $40 gift card with a Costco membership](https://appleinsider.com/articles/24/04/16/deals-get-a-free-40-gift-card-with-a-costco-membership?utm_medium=rss)<!-- TECH:END -->
+ - [Best Sunrise Alarm Clocks for 2024     - CNET](https://www.cnet.com/health/sleep/best-sunrise-alarm-clock/#ftag=CAD590a51e)
+ - [Best Queen Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-queen-mattress/#ftag=CAD590a51e)
+ - [Kode Labs, which develops tools that integrate data from building management systems and IoT devices, raised a $30M Series B led by Maverix Private Equity &lpar;Tim De Chant/TechCrunch&rpar;](http://www.techmeme.com/240415/p32#a240415p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

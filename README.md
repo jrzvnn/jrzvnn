@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Baidu says that eight months after launch, its AI chatbot Ernie Bot now has 200M+ users and 85K enterprise clients, after reaching 100M+ users in December &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/240415/p34#a240415p34)
  - [How to add a Quick Link for locations in Apple Maps in macOS](https://appleinsider.com/inside/apple-maps/tips/how-to-add-a-quick-link-for-locations-in-apple-maps-in-macos?utm_medium=rss)
  - [South Korea-based AI startup Upstage raised a $72M Series B from investors including SK Networks and SBVA, formerly known as SoftBank Ventures Asia &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/240415/p33#a240415p33)
  - [Best Sunrise Alarm Clocks for 2024     - CNET](https://www.cnet.com/health/sleep/best-sunrise-alarm-clock/#ftag=CAD590a51e)
- - [Best Queen Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-queen-mattress/#ftag=CAD590a51e)
- - [Kode Labs, which develops tools that integrate data from building management systems and IoT devices, raised a $30M Series B led by Maverix Private Equity &lpar;Tim De Chant/TechCrunch&rpar;](http://www.techmeme.com/240415/p32#a240415p32)<!-- TECH:END -->
+ - [Best Queen Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-queen-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

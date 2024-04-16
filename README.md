@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Which door you choose](http://9gag.com/gag/a6Zmjwm)
- - 😝 [\u201c I\u2019m natural \u201c](http://9gag.com/gag/abAX2QE)
- - 💣 [The Tesla layoffs email](http://9gag.com/gag/a5QejMr)
- - 😝 [Now it\u2019s called \u201cThe hyphen\u201d.](http://9gag.com/gag/aZZb2oW)
- - 👉 [During that time, she looked into his eyes with love\u2026](http://9gag.com/gag/amoNpoy)<!-- MEMES:END -->
+ - 😝 [Ready for another try](http://9gag.com/gag/aZZb2An)
+ - 😝 [I can see two differences](http://9gag.com/gag/aQzPOzW)
+ - 💣 [\u201c I\u2019m natural \u201c](http://9gag.com/gag/abAX2QE)
+ - 😝 [One way to make them learn](http://9gag.com/gag/aZZbQQp)
+ - 👉 [Now it\u2019s called \u201cThe hyphen\u201d.](http://9gag.com/gag/aZZb2oW)<!-- MEMES:END -->
 
 ---
 

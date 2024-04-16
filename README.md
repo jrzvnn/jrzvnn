@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Sleep Headphones of 2024     - CNET](https://www.cnet.com/health/sleep/headphones-for-sleeping/#ftag=CAD590a51e)
  - [Mark Zuckerberg wins his bid to avoid personal liability in about two dozen lawsuits accusing Meta and other companies of addicting children to their products &lpar;Rachel Graf/Bloomberg&rpar;](http://www.techmeme.com/240415/p30#a240415p30)
  - [Apple&#39;s iOS 18 AI will be on-device preserving privacy, and not server-side](https://appleinsider.com/articles/24/04/15/apples-ios-18-ai-will-be-on-device-preserving-privacy-and-not-server-side?utm_medium=rss)
- - [Google&#39;s Jigsaw expands Perspective API, a set of ML tools that help moderators and researchers identify toxicity, with seven attributes, including nuance &lpar;Billy Perrigo/TIME&rpar;](http://www.techmeme.com/240415/p29#a240415p29)
- - [EU antitrust regulators are questioning Broadcom about changes to VMware&#39;s licensing conditions, following complaints from EU business users and a trade group &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240415/p28#a240415p28)
- - [What Happens If You Miss the Tax Day Deadline?     - CNET](https://www.cnet.com/personal-finance/taxes/what-happens-if-you-miss-the-tax-day-deadline/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Hickory, North Carolina     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-hickory-nc/#ftag=CAD590a51e)
+ - [Google&#39;s Jigsaw expands Perspective API, a set of ML tools that help moderators and researchers identify toxicity, with seven attributes, including nuance &lpar;Billy Perrigo/TIME&rpar;](http://www.techmeme.com/240415/p29#a240415p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One way to make them learn](http://9gag.com/gag/aZZbQQp)
- - 😝 [In 1997, William Moldt disappeared after leaving a club to go home. He wasn&#39;t found until 2019 when a man using Google Earth to check out his old neighborhood in Florida discovered a car submerged in a pond.](http://9gag.com/gag/aoyEx5e)
- - 💣 [Enter into the exciting world of Buddy Arena with Affyn and choose your favorite fighting companion!](http://9gag.com/gag/a87LeD1)
- - 😝 [I am uploading here maybe some has the rest of this conversation. Saw the full one awhile ago. Thank you](http://9gag.com/gag/aXP07B6)
- - 👉 [Please sign](http://9gag.com/gag/aQzP7E8)<!-- MEMES:END -->
+ - 😝 [Woman tries to force man to leave his seat so that she could stretch her legs. Said he should &#39;show respect to a woman of color&#39; because he is a white man](http://9gag.com/gag/a87L2z1)
+ - 😝 [That laugh at the end though](http://9gag.com/gag/aVvzZRy)
+ - 💣 [Colors, colours](http://9gag.com/gag/abAXx8v)
+ - 😝 [Enter into the exciting world of Buddy Arena with Affyn and choose your favorite fighting companion!](http://9gag.com/gag/a87LeD1)
+ - 👉 [People outside the church in Australia demands the stabber handed over to them](http://9gag.com/gag/a1mv26v)<!-- MEMES:END -->
 
 ---
 

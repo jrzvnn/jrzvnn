@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u201c I\u2019m natural \u201c](http://9gag.com/gag/abAX2QE)
- - 😝 [Woman tries to force man to leave his seat so that she could stretch her legs. Said he should &#39;show respect to a woman of color&#39; because he is a white man](http://9gag.com/gag/a87L2z1)
- - 💣 [A totally normal win for the Chinese runner in Beijing Half Marathon](http://9gag.com/gag/azxgR5b)
- - 😝 [The Tesla layoffs email](http://9gag.com/gag/a5QejMr)
- - 👉 [Cup. Bear](http://9gag.com/gag/abAXBPb)<!-- MEMES:END -->
+ - 😝 [That laugh at the end though](http://9gag.com/gag/aVvzZRy)
+ - 😝 [Colors, colours](http://9gag.com/gag/abAXx8v)
+ - 💣 [In 1997, William Moldt disappeared after leaving a club to go home. He wasn&#39;t found until 2019 when a man using Google Earth to check out his old neighborhood in Florida discovered a car submerged in a pond.](http://9gag.com/gag/aoyEx5e)
+ - 😝 [Fed up homeowner confronts recurring car thieves in driveway](http://9gag.com/gag/aNDrB5v)
+ - 👉 [Lower back!](http://9gag.com/gag/aD2AVNd)<!-- MEMES:END -->
 
 ---
 

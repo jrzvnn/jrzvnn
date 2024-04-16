@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Clean junk files from your Mac with Intego Washing Machine X9](https://appleinsider.com/articles/23/03/20/clean-junk-files-from-your-mac-with-intego-washing-machine-x9?utm_medium=rss)
+ - [Insta360’s first 8K camera comes with a removable lens guard](https://www.theverge.com/24131495/insta360-x4-360-camera-8k)
+ - [Apple is researching how to make the ultimate MagSafe wallet and iPhone carrying case](https://appleinsider.com/articles/24/04/16/apple-is-researching-how-to-make-the-ultimate-magsafe-wallet-and-iphone-carrying-case?utm_medium=rss)
  - [iPhone 16 Pro 256GB rumor makes sense, but is by a known falsifier](https://appleinsider.com/articles/24/04/16/iphone-16-pro-256gb-rumor-makes-sense-but-is-by-a-known-falsifier?utm_medium=rss)
- - [Try These Secret AirPods Pro 2 Features Now     - CNET](https://www.cnet.com/tech/mobile/try-these-secret-airpods-pro-2-features-now/#ftag=CAD590a51e)
- - [Motorola&#39;s Edge 50 Phone Line Debuts With Moto AI, 125-Watt Charging     - CNET](https://www.cnet.com/tech/mobile/motorolas-edge-50-phone-line-debuts-with-moto-ai-125-watt-charging/#ftag=CAD590a51e)
- - [This Is Your Wake-Up Call: Why It&#39;s Healthier to Be an Early Bird     - CNET](https://www.cnet.com/health/sleep/this-is-your-wake-up-call-why-its-healthier-to-be-an-early-bird/#ftag=CAD590a51e)
- - [Dell XPS 14 9440 Review: Solid Premium Laptop That May Be a Bit Too Minimalistic     - CNET](https://www.cnet.com/tech/computing/dell-xps-14-9440-review-solid-premium-laptop-that-may-be-a-bit-too-minimalistic/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Try These Secret AirPods Pro 2 Features Now     - CNET](https://www.cnet.com/tech/mobile/try-these-secret-airpods-pro-2-features-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

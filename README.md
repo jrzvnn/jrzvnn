@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A new NES emulator was briefly available on the Apple App Store](https://www.theverge.com/2024/4/16/24132351/iphone-apple-app-store-nes-emulator-bimmy-removed)
  - [Sensor Tower: Naval Ravikant and Brian Norgard&#39;s audio-focused invitation-only social app Airchat has been downloaded 30K+ times since it relaunched this month &lpar;Priya Anand/Bloomberg&rpar;](http://www.techmeme.com/240416/p27#a240416p27)
  - [Fear of Nintendo&#39;s wrath is keeping emulators off of the App Store](https://appleinsider.com/articles/24/04/16/fear-of-nintendos-wrath-is-keeping-emulators-off-of-the-app-store?utm_medium=rss)
  - [Report: TikTok’s efforts to silo US data are ‘largely cosmetic’](https://www.theverge.com/2024/4/16/24132315/tiktok-bytedance-project-texas-china-silo)
- - [Motorola’s new $130 earbuds are a Bose collab](https://www.theverge.com/2024/4/16/24132273/motorola-moto-buds-plus-bose-anc)
- - [People are afraid of self-driving cars — can the industry change that?](https://www.theverge.com/2024/4/16/24132026/autonomous-vehicles-fear-poll-public-trust-avia)<!-- TECH:END -->
+ - [Motorola’s new $130 earbuds are a Bose collab](https://www.theverge.com/2024/4/16/24132273/motorola-moto-buds-plus-bose-anc)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

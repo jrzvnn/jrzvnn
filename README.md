@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: MGM sues the FTC to stop an investigation into a 2023 cyberattack and asks for Chair Lina Khan&#39;s recusal; Khan stayed at the MGM Grand in September 2023 &lpar;Sabrina Willmer/Bloomberg&rpar;](http://www.techmeme.com/240416/p11#a240416p11)
  - [NASA confirms origin of space junk that crashed through Florida home](https://www.theverge.com/2024/4/16/24131804/nasa-confirms-iss-space-station-junk-crashed-into-florida-home)
  - [Meta&#39;s Oversight Board plans to investigate two deepfake porn cases, both involving unnamed celebrities who had their images altered to create explicit content &lpar;Vittoria Elliott/Wired&rpar;](http://www.techmeme.com/240416/p10#a240416p10)
- - [Apple opens fourth Developer Academy in Indonesia](https://appleinsider.com/articles/24/04/16/apple-opens-fourth-developer-academy-in-indonesia?utm_medium=rss)
- - [Bain Capital agrees to sell UK payroll software company Zellis, acquired in 2017, to Apax Partners; sources say the deal values Zellis at ~&amp;pound;1.25B &lpar;Bloomberg&rpar;](http://www.techmeme.com/240416/p9#a240416p9)
- - [Celebrity Deepfake Porn Cases Will Be Investigated by Meta Oversight Board](https://www.wired.com/story/meta-oversight-board-deepfake-porn-facebook-instagram/)<!-- TECH:END -->
+ - [Mortgage Rates Go Up for Homeseekers: Mortgage Interest Rates for April 16, 2024     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-rates-go-up-for-homeseekers-mortgage-interest-rates-for-april-16-2024/#ftag=CAD590a51e)
+ - [Homeowners Face Higher Refi Rates: Today&#39;s Refinance Rates, April 16, 2024     - CNET](https://www.cnet.com/personal-finance/mortgages/homeowners-face-higher-refi-rates-todays-refinance-rates-april-16-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

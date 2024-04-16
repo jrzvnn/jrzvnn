@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple debuts web distribution of iOS apps to EU users, allowing qualifying devs who opt in to its Core Technology Fee to offer direct downloads from their sites &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240416/p23#a240416p23)
+ - [Apple brings out new second-gen betas, including Web Distribution for iOS 17.5](https://appleinsider.com/articles/24/04/16/apple-brings-out-new-second-gen-betas-including-web-distribution-for-ios-175?utm_medium=rss)
+ - [Spotify says 25% of paid users in the US, UK, and Australia have started an audiobook as part of their subscriptions; 57% are between 18 and 34 years old &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/240416/p22#a240416p22)
  - [Second developer beta of visionOS 1.2 has arrived](https://appleinsider.com/articles/24/04/16/second-developer-beta-of-visionos-12-has-arrived?utm_medium=rss)
- - [US Senate to Vote on a Wiretap Bill That Critics Call ‘Stasi-Like’](https://www.wired.com/story/senate-section-702-ecsr-provision/)
- - [How iOS Web Distribution works in the EU in iOS 17.5](https://appleinsider.com/articles/24/04/16/how-ios-web-distribution-works-in-the-eu-in-ios-175?utm_medium=rss)
- - [Truth Social says it’s building a live TV service](https://www.theverge.com/2024/4/16/24131954/truth-social-live-tv-streaming-service-donald-trump)
- - [Telehealth firm Cerebral fined $7 million over ‘careless’ privacy violations](https://www.theverge.com/2024/4/16/24131881/ftc-fine-cerebral-telehealth)<!-- TECH:END -->
+ - [Google Workers Protest Cloud Contract With Israel&#39;s Government](https://www.wired.com/story/google-no-tech-for-apartheid-project-nimbus-israel-gaza-protest/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple, Google, Meta, others struggle when it comes to ad transparency](https://appleinsider.com/articles/24/04/16/apple-google-meta-others-struggle-when-it-comes-to-ad-transparency?utm_medium=rss)
+ - [The internet really is a series of tubes](https://www.theverge.com/24131941/undersea-cables-pc-chips-qualcomm-elite-vergecast)
  - [The Echo Pop is down to one of its best prices to date with a free smart bulb](https://www.theverge.com/2024/4/16/24131075/amazon-echo-pop-hyperx-cloud-iii-wireless-headset-deal-sale)
  - [The invisible seafaring industry that keeps the internet afloat](https://www.theverge.com/c/24070570/internet-cables-undersea-deep-repair-ships)
- - [Ticketmaster’s Taylor Swift ticketing fiasco might have just led to a lawsuit from the DOJ](https://www.theverge.com/2024/4/16/24131866/doj-ticketmaster-live-nation-antitrust-lawsuit-taylor-swift)
- - [How to add a Quick Link for locations in Apple Maps in macOS](https://appleinsider.com/inside/apple-maps/tips/how-to-add-a-quick-link-for-locations-in-apple-maps-in-macos?utm_medium=rss)
- - [How to improve the quality of the audio in your streaming apps](https://www.theverge.com/24131008/audio-quality-youtube-apple-amazon-how-to)<!-- TECH:END -->
+ - [Ticketmaster’s Taylor Swift ticketing fiasco might have just led to a lawsuit from the DOJ](https://www.theverge.com/2024/4/16/24131866/doj-ticketmaster-live-nation-antitrust-lawsuit-taylor-swift)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

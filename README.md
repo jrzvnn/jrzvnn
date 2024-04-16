@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Change Healthcare&#39;s New Ransomware Nightmare Goes From Bad to Worse](https://www.wired.com/story/change-healthcare-ransomhub-data-sale/)
+ - [Take it slow in this stop-motion sci-fi adventure](https://www.theverge.com/24131922/harold-halibut-review-ps5-xbox-steam)
+ - [Change Healthcare’s New Ransomware Nightmare Goes From Bad to Worse](https://www.wired.com/story/change-healthcare-ransomhub-data-sale/)
  - [Humane AI Pin launch: the reviews are in, and they’re not good](https://www.theverge.com/24132139/humane-ai-pin-launch-review)
  - [Kickstarter is adding the ability to collect money indefinitely](https://www.theverge.com/2024/4/16/24127754/kickstarter-late-pledges-crowdfunding-indefinite-donations)
- - [Amazon confirms that HQ2 in Arlington lost 200 jobs in 2023, missing Amazon&#39;s goal of adding 2,500 jobs; HQ2 has ~8,000 employees and plans to reach ~25,000 &lpar;Teo Armus/Washington Post&rpar;](http://www.techmeme.com/240416/p25#a240416p25)
- - [Apple rolls out second beta round, including EU Web Distribution in iOS 17.5](https://appleinsider.com/articles/24/04/16/apple-brings-out-new-second-gen-betas-including-web-distribution-for-ios-175?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon confirms that HQ2 in Arlington lost 200 jobs in 2023, missing Amazon&#39;s goal of adding 2,500 jobs; HQ2 has ~8,000 employees and plans to reach ~25,000 &lpar;Teo Armus/Washington Post&rpar;](http://www.techmeme.com/240416/p25#a240416p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

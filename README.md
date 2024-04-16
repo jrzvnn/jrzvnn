@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Take it slow in this stop-motion sci-fi adventure](https://www.theverge.com/24131922/harold-halibut-review-ps5-xbox-steam)
- - [Change Healthcare’s New Ransomware Nightmare Goes From Bad to Worse](https://www.wired.com/story/change-healthcare-ransomhub-data-sale/)
- - [Humane AI Pin launch: the reviews are in, and they’re not good](https://www.theverge.com/24132139/humane-ai-pin-launch-review)
- - [Kickstarter is adding the ability to collect money indefinitely](https://www.theverge.com/2024/4/16/24127754/kickstarter-late-pledges-crowdfunding-indefinite-donations)
- - [Amazon confirms that HQ2 in Arlington lost 200 jobs in 2023, missing Amazon&#39;s goal of adding 2,500 jobs; HQ2 has ~8,000 employees and plans to reach ~25,000 &lpar;Teo Armus/Washington Post&rpar;](http://www.techmeme.com/240416/p25#a240416p25)<!-- TECH:END -->
+ - [Tax Season Is Over. Where&#39;s Your Child Tax Credit Refund?     - CNET](https://www.cnet.com/personal-finance/taxes/tax-season-is-over-wheres-your-child-tax-credit-refund/#ftag=CAD590a51e)
+ - [Best Google Pixel Deals: Save Up to $1,000 With Trade-In, Plus Discounts on the Pixel 8 Pro, Pixel Fold, Pixel 7A and More     - CNET](https://www.cnet.com/deals/best-google-pixel-deals/#ftag=CAD590a51e)
+ - [Shopped at Walmart in the Last 6 Years? You Could Be Able to Claim $500 in Settlement Cash     - CNET](https://www.cnet.com/personal-finance/shopped-at-walmart-in-the-last-6-years-you-could-be-able-to-claim-500-in-settlement-cash/#ftag=CAD590a51e)
+ - [Change Healthcare’s New Ransomware Nightmare Goes From Bad to Worse](https://www.wired.com/story/change-healthcare-ransomhub-data-sale/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

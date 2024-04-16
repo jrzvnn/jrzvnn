@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Walmart&#39;s $45 Million Payout: Customers From Past 6 Years Can File a Claim     - CNET](https://www.cnet.com/personal-finance/walmarts-45-million-payout-customers-from-past-6-years-can-file-a-claim/#ftag=CAD590a51e)
  - [The Open Source Security Foundation and the OpenJS Foundation say the attempt to insert a secret backdoor into XZ Utils &quot;may not be an isolated incident&quot; &lpar;Raphael Satter/Reuters&rpar;](http://www.techmeme.com/240416/p15#a240416p15)
  - [YouTube begins &quot;strengthening our enforcement on third-party apps that violate&quot; its ToS and &quot;specifically ad-blocking apps&quot;, leading to app error messages &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240416/p14#a240416p14)
- - [Futuristic Apple Wishlist: Our Experts&#39; Hopes for iOS 18 at WWDC 2024     - CNET](https://www.cnet.com/tech/mobile/futuristic-apple-wishlist-our-experts-hopes-for-ios-18-at-wwdc-2024/#ftag=CAD590a51e)
- - [Xbox Game Pass Ultimate: Play Shadow of the Tomb Raider and More Now     - CNET](https://www.cnet.com/tech/gaming/xbox-game-pass-ultimate-play-shadow-of-the-tomb-raider-and-more-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [US Infrastructure Is Broken. Here’s an $830 Million Plan to Fix It](https://www.wired.com/story/us-infrastructure-investment-pete-buttigieg-interview/)
+ - [AI chip developer Rivos, which recently settled with Apple over trade secret theft, raised $250M+ led by Matrix to compete with Nvidia using its RISC-V chips &lpar;Jane Lanhee Lee/Bloomberg&rpar;](http://www.techmeme.com/240416/p13#a240416p13)
+ - [Intel&#39;s Gaudi 3 white paper details the made-for-China processors HL-328 and HL-388, likely designed to comply with US sanctions by reducing performance &lpar;Matthew Connatser/The Register&rpar;](http://www.techmeme.com/240416/p12#a240416p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ill be back chicken heads](http://9gag.com/gag/aAyR4pL)
- - 😝 [People outside the church in Australia demands the stabber handed over to them](http://9gag.com/gag/a1mv26v)
- - 💣 [Guys look my shirt how it glow in the dark](http://9gag.com/gag/aryvxpK)
- - 😝 [I am hiking next weekend. Is this a good idea?](http://9gag.com/gag/aRBw2dQ)
- - 👉 [Title](http://9gag.com/gag/aVvz2Ny)<!-- MEMES:END -->
+ - 😝 [One way to make them learn](http://9gag.com/gag/aZZbQQp)
+ - 😝 [Meme in its natural state](http://9gag.com/gag/aW4Qvzn)
+ - 💣 [I am uploading here maybe some has the rest of this conversation. Saw the full one awhile ago. Thank you](http://9gag.com/gag/aXP07B6)
+ - 😝 [In 1997, William Moldt disappeared after leaving a club to go home. He wasn&#39;t found until 2019 when a man using Google Earth to check out his old neighborhood in Florida discovered a car submerged in a pond.](http://9gag.com/gag/aoyEx5e)
+ - 👉 [Woman tries to force man to leave his seat so that she could stretch her legs. Said he should &#39;show respect to a woman of color&#39; because he is a white man](http://9gag.com/gag/a87L2z1)<!-- MEMES:END -->
 
 ---
 

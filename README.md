@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That laugh at the end though](http://9gag.com/gag/aVvzZRy)
- - 😝 [Fed up homeowner confronts recurring car thieves in driveway](http://9gag.com/gag/aNDrB5v)
- - 💣 [Enter into the exciting world of Buddy Arena with Affyn and choose your favorite fighting companion!](http://9gag.com/gag/a87LeD1)
- - 😝 [Gentlemen looting at a French fair and finally tasting the hospitality of the tenants.](http://9gag.com/gag/aAyRX4L)
- - 👉 [No pay, no work](http://9gag.com/gag/a1mvLMw)<!-- MEMES:END -->
+ - 😝 [Please...dont remove anything from your chest](http://9gag.com/gag/awy0dBQ)
+ - 😝 [Colors, colours](http://9gag.com/gag/abAXx8v)
+ - 💣 [Straight to hell](http://9gag.com/gag/adB0ej9)
+ - 😝 [Enter into the exciting world of Buddy Arena with Affyn and choose your favorite fighting companion!](http://9gag.com/gag/a87LeD1)
+ - 👉 [A totally normal win for the Chinese runner in Beijing Half Marathon](http://9gag.com/gag/azxgR5b)<!-- MEMES:END -->
 
 ---
 

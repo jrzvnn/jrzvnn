@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Broadcast TV still exists, and now it’s sort of getting a built-in DVR](https://www.theverge.com/2024/4/16/24130968/atsc-3-0-roxi-faststream-ease-live-local-news-dvr)
  - [Rode&#39;s MagSafe Phone Cage and new mount will give a boost to your iPhone videography](https://appleinsider.com/articles/24/04/16/rodes-magsafe-phone-cage-and-new-mount-will-give-a-boost-to-your-iphone-videography?utm_medium=rss)
- - [Best Wireless Home Security Cameras of 2024     - CNET](https://www.cnet.com/home/security/best-wireless-home-security-cameras/#ftag=CAD590a51e)
  - [Apple, Google, Meta, others struggle when it comes to ad transparency](https://appleinsider.com/articles/24/04/16/apple-google-meta-others-struggle-when-it-comes-to-ad-transparency?utm_medium=rss)
- - [Best Savings Rates Today -- Act Now to Maximize Your Interest Earnings With APYs up to 5.55%, April 16, 2024     - CNET](https://www.cnet.com/personal-finance/todays-best-savings-rates-april-16-2024/#ftag=CAD590a51e)
- - [The internet really is a series of tubes](https://www.theverge.com/24131941/undersea-cables-pc-chips-qualcomm-elite-vergecast)<!-- TECH:END -->
+ - [The internet really is a series of tubes](https://www.theverge.com/24131941/undersea-cables-pc-chips-qualcomm-elite-vergecast)
+ - [The Echo Pop is down to one of its best prices to date with a free smart bulb](https://www.theverge.com/2024/4/16/24131075/amazon-echo-pop-hyperx-cloud-iii-wireless-headset-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

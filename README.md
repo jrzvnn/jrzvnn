@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chad Howard on it again](http://9gag.com/gag/a5QeqNG)
- - 😝 [The Tesla layoffs email](http://9gag.com/gag/a5QejMr)
- - 💣 [A totally normal win for the Chinese runner in Beijing Half Marathon](http://9gag.com/gag/azxgR5b)
- - 😝 [This is going to be my new hobby\u2026](http://9gag.com/gag/azxg41m)
- - 👉 [I can see two differences](http://9gag.com/gag/aQzPOzW)<!-- MEMES:END -->
+ - 😝 [Buddy didn&#39;t even graduate](http://9gag.com/gag/aMV2Oq1)
+ - 😝 [He still loves her](http://9gag.com/gag/aByREoD)
+ - 💣 [Cup. Bear](http://9gag.com/gag/abAXBPb)
+ - 😝 [Ready for another try](http://9gag.com/gag/aZZb2An)
+ - 👉 [During that time, she looked into his eyes with love\u2026](http://9gag.com/gag/amoNpoy)<!-- MEMES:END -->
 
 ---
 

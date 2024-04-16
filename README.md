@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Echo Pop is down to one of its best prices to date with a free smart bulb](https://www.theverge.com/2024/4/16/24131075/amazon-echo-pop-hyperx-cloud-iii-wireless-headset-deal-sale)
+ - [The invisible seafaring industry that keeps the internet afloat](https://www.theverge.com/c/24070570/internet-cables-undersea-deep-repair-ships)
  - [Ticketmaster’s Taylor Swift ticketing fiasco might have just led to a lawsuit from the DOJ](https://www.theverge.com/2024/4/16/24131866/doj-ticketmaster-live-nation-antitrust-lawsuit-taylor-swift)
  - [How to add a Quick Link for locations in Apple Maps in macOS](https://appleinsider.com/inside/apple-maps/tips/how-to-add-a-quick-link-for-locations-in-apple-maps-in-macos?utm_medium=rss)
- - [How to improve the quality of the audio in your streaming apps](https://www.theverge.com/24131008/audio-quality-youtube-apple-amazon-how-to)
- - [TikTok signs a deal with ticketing provider AXS to let users buy tickets to live events in the US, UK, and more; TikTok has had a Ticketmaster deal since 2022 &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240416/p17#a240416p17)
- - [AMD unveils Ryzen Pro 8040 series for commercial laptops and mobile workstations and Ryzen Pro 8000 series for desktops, adding a neural processing unit for AI &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240416/p16#a240416p16)<!-- TECH:END -->
+ - [How to improve the quality of the audio in your streaming apps](https://www.theverge.com/24131008/audio-quality-youtube-apple-amazon-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

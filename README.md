@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Now it\u2019s called \u201cThe hyphen\u201d.](http://9gag.com/gag/aZZb2oW)
- - 😝 [I am uploading here maybe some has the rest of this conversation. Saw the full one awhile ago. Thank you](http://9gag.com/gag/aXP07B6)
- - 💣 [Title](http://9gag.com/gag/aVvz2Ny)
- - 😝 [Another stabbing down under.](http://9gag.com/gag/aKGw801)
- - 👉 [I am hiking next weekend. Is this a good idea?](http://9gag.com/gag/aRBw2dQ)<!-- MEMES:END -->
+ - 😝 [Ill be back chicken heads](http://9gag.com/gag/aAyR4pL)
+ - 😝 [People outside the church in Australia demands the stabber handed over to them](http://9gag.com/gag/a1mv26v)
+ - 💣 [Guys look my shirt how it glow in the dark](http://9gag.com/gag/aryvxpK)
+ - 😝 [I am hiking next weekend. Is this a good idea?](http://9gag.com/gag/aRBw2dQ)
+ - 👉 [Title](http://9gag.com/gag/aVvz2Ny)<!-- MEMES:END -->
 
 ---
 

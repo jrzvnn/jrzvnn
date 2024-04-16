@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [He honestly believed he could stab a bishop, and be home that night on bail playing Xbox.](http://9gag.com/gag/agm3ELr)
  - 😝 [Now it\u2019s called \u201cThe hyphen\u201d.](http://9gag.com/gag/aZZb2oW)
+ - 💣 [A totally normal win for the Chinese runner in Beijing Half Marathon](http://9gag.com/gag/azxgR5b)
  - 😝 [I can see two differences](http://9gag.com/gag/aQzPOzW)
- - 💣 [In 1997, William Moldt disappeared after leaving a club to go home. He wasn&#39;t found until 2019 when a man using Google Earth to check out his old neighborhood in Florida discovered a car submerged in a pond.](http://9gag.com/gag/aoyEx5e)
- - 😝 [Cup. Bear](http://9gag.com/gag/abAXBPb)
  - 👉 [The Tesla layoffs email](http://9gag.com/gag/a5QejMr)<!-- MEMES:END -->
 
 ---

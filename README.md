@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Canada plans to introduce a digital services tax on large tech companies, which could raise CA$5.9B over the five years starting FY 2024-2025 &lpar;David Ljunggren/Reuters&rpar;](http://www.techmeme.com/240417/p1#a240417p1)
+ - [3 Best Stainless Steel Frying Pans in 2024     - CNET](https://www.cnet.com/news/best-stainless-steel-skillet/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints and Answer: Help for April 17, #1033     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-17-1033/#ftag=CAD590a51e)
  - [Source: Mistral is in talks with investors about raising several hundred million dollars at a $5B valuation, after raising $415M at a $2B valuation in Dec. 2023 &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/240416/p34#a240416p34)
- - [Will Massachusetts Ditch Its Competitive Energy Market?     - CNET](https://www.cnet.com/how-to/will-massachusetts-ditch-its-competitive-energy-market/#ftag=CAD590a51e)
- - [Best Galaxy Watch Deals: Free With Trade-In or Save $60 on Galaxy Watch 6, Up to $197 Off Galaxy Watch 5 Pro     - CNET](https://www.cnet.com/deals/best-galaxy-watch-deals/#ftag=CAD590a51e)
- - [Boston Dynamics Retires Its HD Atlas Robot video     - CNET](https://www.cnet.com/videos/boston-dynamics-retires-its-hd-atlas-robot/#ftag=CAD590a51e)
- - [Best Weight Loss Programs for 2024     - CNET](https://www.cnet.com/health/nutrition/best-weight-loss-programs/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Will Massachusetts Ditch Its Competitive Energy Market?     - CNET](https://www.cnet.com/how-to/will-massachusetts-ditch-its-competitive-energy-market/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

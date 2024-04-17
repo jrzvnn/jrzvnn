@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Boston Dynamics Atlas robot: a full history](https://www.theverge.com/24132451/boston-dynamics-atlas-robot-retirement)
  - [Third-party iOS app store AltStore PAL launches in the EU for &amp;euro;1.50 a year with two apps including game emulator Delta, which is also live on Apple&#39;s App Store &lpar;The Verge&rpar;](http://www.techmeme.com/240417/p27#a240417p27)
  - [NBA bans player for life over online sports betting](https://www.theverge.com/2024/4/17/24133279/nba-bans-jontay-porter-sports-betting-gambling)
  - [The Atlas Robot Is Dead. Long Live the Atlas Robot](https://www.wired.com/story/the-atlas-robot-is-dead-long-live-the-atlas-robot/)
- - [iPhone 17 Plus display might be a hair smaller than the iPhone 16 Plus](https://appleinsider.com/articles/24/04/17/iphone-17-plus-display-might-be-a-hair-smaller-than-the-iphone-16-plus?utm_medium=rss)
- - [After Forbes found 120+ YouTube videos and 27 Google ads promoting AI deepfake porn tools and &quot;nudifier&quot; Telegram bots, Google took them down &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/240417/p26#a240417p26)<!-- TECH:END -->
+ - [iPhone 17 Plus display might be a hair smaller than the iPhone 16 Plus](https://appleinsider.com/articles/24/04/17/iphone-17-plus-display-might-be-a-hair-smaller-than-the-iphone-16-plus?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NBA bans player for life over online sports betting](https://www.theverge.com/2024/4/17/24133279/nba-bans-jontay-porter-sports-betting-gambling)
+ - [The Atlas Robot Is Dead. Long Live the Atlas Robot](https://www.wired.com/story/the-atlas-robot-is-dead-long-live-the-atlas-robot/)
  - [iPhone 17 Plus display might be a hair smaller than the iPhone 16 Plus](https://appleinsider.com/articles/24/04/17/iphone-17-plus-display-might-be-a-hair-smaller-than-the-iphone-16-plus?utm_medium=rss)
- - [After Forbes found 120+ YouTube videos and 27 Google ads promoting AI deepfake porn tools and &quot;nudifier&quot; Telegram bots, the company took them down &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/240417/p26#a240417p26)
- - [Best Home Equity Loan Rates for April 2024     - CNET](https://www.cnet.com/personal-finance/home-equity-loan-rates/#ftag=CAD590a51e)
- - [Best Home Equity Line of Credit &lpar;HELOC&rpar; Rates for April 2024     - CNET](https://www.cnet.com/personal-finance/heloc-rates/#ftag=CAD590a51e)
- - [The Pixel 7A is a knockout at its record-low $349](https://www.theverge.com/2024/4/17/24133040/google-pixel-7a-deal-sale)<!-- TECH:END -->
+ - [After Forbes found 120+ YouTube videos and 27 Google ads promoting AI deepfake porn tools and &quot;nudifier&quot; Telegram bots, Google took them down &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/240417/p26#a240417p26)
+ - [Best Home Equity Loan Rates for April 2024     - CNET](https://www.cnet.com/personal-finance/home-equity-loan-rates/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

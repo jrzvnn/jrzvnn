@@ -176,9 +176,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Getting arrested already?](http://9gag.com/gag/aW4QRVq)
- - 😝 [A totally normal win for the Chinese runner in Beijing Half Marathon](http://9gag.com/gag/azxgR5b)
- - 💣 [I can see two differences](http://9gag.com/gag/aQzPOzW)
- - 😝 [This is going to be my new hobby\u2026](http://9gag.com/gag/azxg41m)
+ - 😝 [Now it\u2019s called \u201cThe hyphen\u201d.](http://9gag.com/gag/aZZb2oW)
+ - 💣 [Which door you choose](http://9gag.com/gag/a6Zmjwm)
+ - 😝 [Cup. Bear](http://9gag.com/gag/abAXBPb)
  - 👉 [Name 1 thing you wish your boss would say to you](http://9gag.com/gag/awy0vz1)<!-- MEMES:END -->
 
 ---

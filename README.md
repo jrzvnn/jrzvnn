@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The internet has ruined me.](http://9gag.com/gag/axydPNp)
- - 😝 [Trump is on point](http://9gag.com/gag/ae9jRbB)
- - 💣 [During that time, she looked into his eyes with love\u2026](http://9gag.com/gag/amoNpoy)
- - 😝 [Now it\u2019s called \u201cThe hyphen\u201d.](http://9gag.com/gag/aZZb2oW)
+ - 😝 [I can see two differences](http://9gag.com/gag/aQzPOzW)
+ - 😝 [\u201c I\u2019m natural \u201c](http://9gag.com/gag/abAX2QE)
+ - 💣 [Now it\u2019s called \u201cThe hyphen\u201d.](http://9gag.com/gag/aZZb2oW)
+ - 😝 [Getting arrested already?](http://9gag.com/gag/aW4QRVq)
  - 👉 [Name 1 thing you wish your boss would say to you](http://9gag.com/gag/awy0vz1)<!-- MEMES:END -->
 
 ---

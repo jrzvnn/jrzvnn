@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix’s Sweet Tooth returns for season 3 in June](https://www.theverge.com/2024/4/17/24133003/sweet-tooth-season-3-netflix-trailer-release-date)
- - [Sony&#39;s TV Lineup 2024: New TVs, New Direction](https://www.wired.com/story/sony-tv-lineup-impressions-2024/)
- - [Comcast rolls out ‘Now’ prepaid phone and internet plans](https://www.theverge.com/2024/4/17/24132851/comcast-xfinity-now-mobile-prepaid-wireless)
- - [Sony might have perfected Mini LED TVs with its new 2024 lineup](https://www.theverge.com/2024/4/17/24132829/sony-2024-bravia-9-8-7-3-mini-led-oled-tv)
- - [How Amazon developed Just Walk Out since the early 2010s, driven by Jeff Bezos, as the company removes the tech from stores while expanding third-party sales &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/240417/p20#a240417p20)<!-- TECH:END -->
+ - [Sources: the EU has decided that Microsoft&#39;s OpenAI deal doesn&#39;t merit a formal probe because it falls short of a takeover and Microsoft doesn&#39;t control OpenAI &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/240417/p21#a240417p21)
+ - [Nine Google employees arrested after eight-hour sit-in protest](https://www.theverge.com/2024/4/17/24133056/google-protests-project-nimbus-no-tech-for-apartheid)
+ - [How to make Apple Music more private by turning off &#39;Discoverable by Nearby Contacts&#39;](https://appleinsider.com/inside/apple-music/tips/how-to-make-apple-music-more-private-by-turning-off-discoverable-by-nearby-contacts?utm_medium=rss)
+ - [Visible’s new annual plans cut the price on a full year of service](https://www.theverge.com/2024/4/17/24133021/visible-verizon-annual-phone-plans-price)
+ - [From iPhones to Apple Watch, Apple fans keep showing broad device adoption](https://appleinsider.com/articles/24/04/17/from-iphones-to-apple-watch-apple-fans-keep-showing-broad-device-adoption?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

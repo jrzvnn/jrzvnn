@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [TikTok starts rolling out TikTok Notes, its Instagram rival for sharing photo and text content, for limited testing in Australia and Canada on Android and iOS &lpar;Sheena Vasani/The Verge&rpar;](http://www.techmeme.com/240417/p32#a240417p32)
+ - [Taylor Swift&#39;s New Album is Almost Here: Nabbing All the Bonus Tracks Will Cost You     - CNET](https://www.cnet.com/culture/entertainment/taylor-swifts-new-album-the-tortured-poets-department-nabbing-all-the-bonus-tracks-will-cost-you/#ftag=CAD590a51e)
  - [Twitch is bringing its TikTok-style feed to everyone this month](https://www.theverge.com/2024/4/17/24133457/twitch-tiktok-style-feed-rollout)
- - [Sega is turning Golden Axe into an animated series](https://www.theverge.com/2024/4/17/24133419/sega-golden-axe-tv-series-comedy-central)
- - [Boston Dynamics debuts an electric version of humanoid robot Atlas for commercial use, a day after retiring the hydraulic Atlas, with a pilot starting in 2025 &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240417/p31#a240417p31)
- - [TikTok to restrict users who repeatedly post problematic topics from ‘For You’ feed](https://www.theverge.com/2024/4/17/24133317/tiktok-restrict-accounts-problematic-topics-for-you-feed)<!-- TECH:END -->
+ - [Taylor Swift and TikTok Are Going Steady Again as New Album Approaches     - CNET](https://www.cnet.com/tech/taylor-swift-and-tiktok-are-going-steady-again-as-new-album-approaches/#ftag=CAD590a51e)
+ - [Sega is turning Golden Axe into an animated series](https://www.theverge.com/2024/4/17/24133419/sega-golden-axe-tv-series-comedy-central)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

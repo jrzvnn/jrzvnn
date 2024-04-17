@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NASA has greenlit plans to send a giant drone to Saturn’s largest moon](https://www.theverge.com/2024/4/17/24132824/nasa-dragonfly-mission-drone-saturn-moon-titan-greenlit)
  - [All the announcements from Nintendo’s spring Indie World event](https://www.theverge.com/24132202/nintendo-indie-world-april-2024)
  - [Sony’s new PlayStation PC overlay and shared Trophies arrive with Ghost of Tsushima](https://www.theverge.com/2024/4/17/24132846/sony-playstation-pc-overlay-shared-trophies-ghost-of-tsushima)
  - [Tesla is putting Elon Musk’s pay package up for another vote after a judge voided the first one](https://www.theverge.com/2024/4/17/24132827/tesla-elon-musk-pay-package-shareholder-vote-delaware)
- - [Snap plans to add watermarks to AI-generated images on Snapchat; watermarks appear as a translucent version of the Snap logo with a sparkle emoji &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240417/p17#a240417p17)
- - [Formlabs’ new pro 3D printers claim 2–5x speed by ditching lasers for an LCD screen](https://www.theverge.com/2024/4/17/24132558/formlabs-form-4-3d-printer-msla-resin)<!-- TECH:END -->
+ - [Snap plans to add watermarks to AI-generated images on Snapchat; watermarks appear as a translucent version of the Snap logo with a sparkle emoji &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240417/p17#a240417p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

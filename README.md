@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [First third party App Store in the EU is live](https://appleinsider.com/articles/24/04/17/first-third-party-app-store-in-the-eu-is-live?utm_medium=rss)
+ - [Game emulator Delta arrives on App Store after controversies](https://appleinsider.com/articles/24/04/17/game-emulator-delta-arrives-on-app-store-after-controversies?utm_medium=rss)
  - [Boston Dynamics’ new Atlas robot is a swiveling, shape-shifting nightmare](https://www.theverge.com/2024/4/17/24133145/boston-dynamics-resurrects-atlas-humanoid-robot-electric-new)
  - [The US FTC announced a $7M fine against mental telehealth startup Cerebral, citing misleading data sharing and cancelation policies, misleading ads, and more &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240417/p24#a240417p24)
- - [All of the specs of the iPhone SE 4 may have just been leaked](https://appleinsider.com/articles/24/04/12/all-of-the-specs-of-the-iphone-se-4-may-have-just-been-leaked?utm_medium=rss)
- - [Find No-Subscription Lorex Cams With Site-Wide Sales $50 or More     - CNET](https://www.cnet.com/deals/find-no-subscription-lorex-cams-with-site-wide-sales-50-or-more/#ftag=CAD590a51e)
- - [Apple TV Plus’ For All Mankind is getting a fifth season and a new spinoff series](https://www.theverge.com/2024/4/17/24133154/for-all-mankind-season-five-star-city-spinoff)<!-- TECH:END -->
+ - [All of the specs of the iPhone SE 4 may have just been leaked](https://appleinsider.com/articles/24/04/12/all-of-the-specs-of-the-iphone-se-4-may-have-just-been-leaked?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

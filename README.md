@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AirPods Pro 2 Hacks: The Secret Features to Boost Your Sound     - CNET](https://www.cnet.com/tech/mobile/airpods-pro-2-hacks-the-secret-features-to-boost-your-sound/#ftag=CAD590a51e)
+ - [Best Mattress for Hip Pain in 2024     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-hip-pain/#ftag=CAD590a51e)
+ - [Best Organic Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-organic-mattress/#ftag=CAD590a51e)
  - [The Linux Foundation announces the Open Platform for Enterprise AI, to foster the development of open, multi-provider, and composable generative AI systems &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240416/p33#a240416p33)
- - [Filing: Take-Two plans to lay off 5% of its workforce, expecting to incur up to $200M in charges as part of the downsizing, including $140M from canceled titles &lpar;Rob Golum/Bloomberg&rpar;](http://www.techmeme.com/240416/p32#a240416p32)
- - [IAB and PwC report on US digital ad sales in 2023: total revenue grew 7.3% YoY to $225B, digital video grew 10.6% to $52.1B, and digital audio grew 18.9% to $7B &lpar;Hana Yoo/AdExchanger&rpar;](http://www.techmeme.com/240416/p31#a240416p31)
- - [The Boring Phone is a nostalgic branding exercise by HMD and Heineken](https://www.theverge.com/2024/4/16/24132479/hmd-boring-phone-heineken-bodega)
- - [The New Hot Handset Is a Cute and Transparent Dumb Phone You Can’t Buy](https://www.wired.com/story/hmd-the-boring-phone-heineken-bodega/)<!-- TECH:END -->
+ - [Filing: Take-Two plans to lay off 5% of its workforce, expecting to incur up to $200M in charges as part of the downsizing, including $140M from canceled titles &lpar;Rob Golum/Bloomberg&rpar;](http://www.techmeme.com/240416/p32#a240416p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

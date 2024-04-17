@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Big oof...](http://9gag.com/gag/aryv245)
- - 😝 [\u201c I\u2019m natural \u201c](http://9gag.com/gag/abAX2QE)
- - 💣 [He honestly believed he could stab a bishop, and be home that night on bail playing Xbox.](http://9gag.com/gag/agm3ELr)
- - 😝 [This is going to be my new hobby\u2026](http://9gag.com/gag/azxg41m)
+ - 😝 [Movie should have been about them.](http://9gag.com/gag/aZZbR6Q)
+ - 😝 [During that time, she looked into his eyes with love\u2026](http://9gag.com/gag/amoNpoy)
+ - 💣 [This is going to be my new hobby\u2026](http://9gag.com/gag/azxg41m)
+ - 😝 [They couldn&#39;t believe he came back to life](http://9gag.com/gag/a0e8wxv)
  - 👉 [Name 1 thing you wish your boss would say to you](http://9gag.com/gag/awy0vz1)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple TV Plus’ For All Mankind is getting a fifth season and a new spinoff series](https://www.theverge.com/2024/4/17/24133154/for-all-mankind-season-five-star-city-spinoff)
+ - [Sources: German grocery delivery startup Flink raised another &amp;euro;100M from existing investors and has been in merger talks with rivals Getir and Just Eat Takeaway &lpar;Bloomberg&rpar;](http://www.techmeme.com/240417/p23#a240417p23)
  - [The OnePlus Watch 2 is what redemption looks like](https://www.theverge.com/24132998/one-plus-watch-2-review-smartwatches-wearables)
  - [Samsung’s art-inspired Frame TVs are up to $1,000 off right now](https://www.theverge.com/2024/4/17/24132220/samsung-frame-tv-jbl-flip-6-bluetooth-speaker-deal-sale)
- - [The free Delta game emulator for iPhones is live on Apple’s App Store](https://www.theverge.com/2024/4/17/24132984/delta-free-emulator-nintendo-gba-n64-iphone-app-store-us)
- - [The European Data Protection Board says large online platforms like Meta should give users an option to use their services for free without targeted advertising &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240417/p22#a240417p22)
- - [The &#39;For All Mankind&#39; universe is about to get a whole lot bigger](https://appleinsider.com/articles/24/04/17/the-for-all-mankind-universe-is-about-to-get-a-whole-lot-bigger?utm_medium=rss)<!-- TECH:END -->
+ - [The free Delta game emulator for iPhones is live on Apple’s App Store](https://www.theverge.com/2024/4/17/24132984/delta-free-emulator-nintendo-gba-n64-iphone-app-store-us)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

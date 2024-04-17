@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shit&#39;s bugged](http://9gag.com/gag/aNDrqw6)
- - 😝 [An 81 old man, in Spain, found guilty after shooting to death an immigrant from Honduras who broke into his property. The immigrant had 45 previous criminal records.](http://9gag.com/gag/aE0vZ5p)
- - 💣 [Both are in for a rude awakening](http://9gag.com/gag/aoyEdj0)
- - 😝 [No you&#39;re not](http://9gag.com/gag/aD2APQZ)
+ - 😝 [Now it\u2019s called \u201cThe hyphen\u201d.](http://9gag.com/gag/aZZb2oW)
+ - 😝 [Deaf girl hears best friend\u2019s voice for the first time.](http://9gag.com/gag/aXP0RMd)
+ - 💣 [Getting arrested already?](http://9gag.com/gag/aW4QRVq)
+ - 😝 [Trump is on point](http://9gag.com/gag/ae9jRbB)
  - 👉 [Name 1 thing you wish your boss would say to you](http://9gag.com/gag/awy0vz1)<!-- MEMES:END -->
 
 ---

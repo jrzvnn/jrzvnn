@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Now it\u2019s called \u201cThe hyphen\u201d.](http://9gag.com/gag/aZZb2oW)
- - 😝 [Cup. Bear](http://9gag.com/gag/abAXBPb)
- - 💣 [\u201c I\u2019m natural \u201c](http://9gag.com/gag/abAX2QE)
- - 😝 [I can see two differences](http://9gag.com/gag/aQzPOzW)
+ - 😝 [The bike overreacted](http://9gag.com/gag/avypdGX)
+ - 😝 [Go sports...](http://9gag.com/gag/aQzPyxr)
+ - 💣 [Congrats happy for you, nice](http://9gag.com/gag/ae9j7Db)
+ - 😝 [Probably one of the funniest police chase\u2026Murica](http://9gag.com/gag/aD2AQLN)
  - 👉 [Name 1 thing you wish your boss would say to you](http://9gag.com/gag/awy0vz1)<!-- MEMES:END -->
 
 ---

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Perfectly executed](http://9gag.com/gag/amoNRgd)
- - 😝 [Nearly half of the number of stores have closed in San Francisco and many more are leaving. Officials are now scrambling to pass new laws to prevent businesses from closing.](http://9gag.com/gag/awy0eMr)
- - 💣 [Go sports...](http://9gag.com/gag/aQzPyxr)
- - 😝 [This is going to be my new hobby\u2026](http://9gag.com/gag/azxg41m)
- - 👉 [Name 1 thing you wish your boss would say to you](http://9gag.com/gag/awy0vz1)<!-- MEMES:END -->
+ - 😝 [Getting arrested already?](http://9gag.com/gag/aW4QRVq)
+ - 😝 [Now it\u2019s called \u201cThe hyphen\u201d.](http://9gag.com/gag/aZZb2oW)
+ - 💣 [Big oof...](http://9gag.com/gag/aryv245)
+ - 😝 [Name 1 thing you wish your boss would say to you](http://9gag.com/gag/awy0vz1)
+ - 👉 [A totally normal win for the Chinese runner in Beijing Half Marathon](http://9gag.com/gag/azxgR5b)<!-- MEMES:END -->
 
 ---
 

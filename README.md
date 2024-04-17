@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple hits 18 gigawatts of clean energy in its environmental push](https://appleinsider.com/articles/24/04/17/apple-hits-18-gigawatts-of-clean-energy-in-its-environmental-push?utm_medium=rss)
- - [How GitHub Copilot became responsible for a significant percentage of coding, despite its limitations; Stack Overflow: 54.8% of developers used Copilot in 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240417/p16#a240417p16)
- - [ASML reports China represented 49% of its system sales in Q1, while sales from Taiwan more than halved and the US dropped five percentage points to 6% &lpar;Sarah Jacob/Bloomberg&rpar;](http://www.techmeme.com/240417/p15#a240417p15)
- - [Will the Olympics Save Nike From Its Midlife Crisis?](https://www.wired.com/story/will-the-olympics-save-nike-from-its-midlife-crisis/)
- - [Apple Notes in iOS 18 looks to up the ante with Microsoft OneNote](https://appleinsider.com/articles/24/04/17/apple-notes-in-ios-18-looks-to-up-the-ante-with-microsoft-onenote?utm_medium=rss)<!-- TECH:END -->
+ - [Tesla is putting Elon Musk’s pay package up for another vote after a judge voided the first one](https://www.theverge.com/2024/4/17/24132827/tesla-elon-musk-pay-package-shareholder-vote-delaware)
+ - [Snap plans to add watermarks to AI-generated images on Snapchat; watermarks appear as a translucent version of the Snap logo with a sparkle emoji &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240417/p17#a240417p17)
+ - [Formlabs’ new pro 3D printers claim 2–5x speed by ditching lasers for an LCD screen](https://www.theverge.com/2024/4/17/24132558/formlabs-form-4-3d-printer-msla-resin)
+ - [Google Maps will use AI to help you find out-of-the-way EV chargers](https://www.theverge.com/2024/4/17/24132254/google-maps-ev-charging-directions-ai-summaries)
+ - [Apple hits 18 gigawatts of clean energy in its environmental push](https://appleinsider.com/articles/24/04/17/apple-hits-18-gigawatts-of-clean-energy-in-its-environmental-push?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

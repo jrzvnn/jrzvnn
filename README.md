@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I am uploading here maybe some has the rest of this conversation. Saw the full one awhile ago. Thank you](http://9gag.com/gag/aXP07B6)
- - 😝 [Chad Howard on it again](http://9gag.com/gag/a5QeqNG)
- - 💣 [An 81 old man, in Spain, found guilty after shooting to death an immigrant from Honduras who broke into his property. The immigrant had 45 previous criminal records.](http://9gag.com/gag/aE0vZ5p)
- - 😝 [Dubai right now](http://9gag.com/gag/aPAwrYB)
+ - 😝 [Now it\u2019s called \u201cThe hyphen\u201d.](http://9gag.com/gag/aZZb2oW)
+ - 😝 [Cup. Bear](http://9gag.com/gag/abAXBPb)
+ - 💣 [\u201c I\u2019m natural \u201c](http://9gag.com/gag/abAX2QE)
+ - 😝 [I can see two differences](http://9gag.com/gag/aQzPOzW)
  - 👉 [Name 1 thing you wish your boss would say to you](http://9gag.com/gag/awy0vz1)<!-- MEMES:END -->
 
 ---

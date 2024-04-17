@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [During that time, she looked into his eyes with love\u2026](http://9gag.com/gag/amoNpoy)
- - 😝 [Ready for another try](http://9gag.com/gag/aZZb2An)
- - 💣 [Freaks of nature](http://9gag.com/gag/aByR4wP)
- - 😝 [Cup. Bear](http://9gag.com/gag/abAXBPb)
+ - 😝 [Getting arrested already?](http://9gag.com/gag/aW4QRVq)
+ - 😝 [They couldn&#39;t believe he came back to life](http://9gag.com/gag/a0e8wxv)
+ - 💣 [Why an I not allowed to walk?!](http://9gag.com/gag/aO8KGP2)
+ - 😝 [Heroes](http://9gag.com/gag/agm3jM6)
  - 👉 [Name 1 thing you wish your boss would say to you](http://9gag.com/gag/awy0vz1)<!-- MEMES:END -->
 
 ---

@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Freaks of nature](http://9gag.com/gag/aByR4wP)
+ - 😝 [Trump is on point](http://9gag.com/gag/ae9jRbB)
+ - 💣 [Big oof...](http://9gag.com/gag/aryv245)
  - 😝 [Which door you choose](http://9gag.com/gag/a6Zmjwm)
- - 😝 [I can see two differences](http://9gag.com/gag/aQzPOzW)
- - 💣 [A trapdoor guarding a suffocating treasure trove. Careless seekers die from entrapment in one of these.](http://9gag.com/gag/aRBwDdq)
- - 😝 [Now it\u2019s called \u201cThe hyphen\u201d.](http://9gag.com/gag/aZZb2oW)
  - 👉 [Name 1 thing you wish your boss would say to you](http://9gag.com/gag/awy0vz1)<!-- MEMES:END -->
 
 ---

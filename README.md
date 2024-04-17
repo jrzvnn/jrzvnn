@@ -175,9 +175,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Getting arrested already?](http://9gag.com/gag/aW4QRVq)
+ - 😝 [Big oof...](http://9gag.com/gag/aryv245)
  - 😝 [And... you&#39;re blind](http://9gag.com/gag/a1mvOg2)
- - 💣 [I can see two differences](http://9gag.com/gag/aQzPOzW)
+ - 💣 [During that time, she looked into his eyes with love\u2026](http://9gag.com/gag/amoNpoy)
  - 😝 [Freaks of nature](http://9gag.com/gag/aByR4wP)
  - 👉 [Name 1 thing you wish your boss would say to you](http://9gag.com/gag/awy0vz1)<!-- MEMES:END -->
 

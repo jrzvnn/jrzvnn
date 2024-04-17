@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Getting arrested already?](http://9gag.com/gag/aW4QRVq)
- - 😝 [They couldn&#39;t believe he came back to life](http://9gag.com/gag/a0e8wxv)
- - 💣 [Why an I not allowed to walk?!](http://9gag.com/gag/aO8KGP2)
- - 😝 [Heroes](http://9gag.com/gag/agm3jM6)
+ - 😝 [Big oof...](http://9gag.com/gag/aryv245)
+ - 😝 [\u201c I\u2019m natural \u201c](http://9gag.com/gag/abAX2QE)
+ - 💣 [He honestly believed he could stab a bishop, and be home that night on bail playing Xbox.](http://9gag.com/gag/agm3ELr)
+ - 😝 [This is going to be my new hobby\u2026](http://9gag.com/gag/azxg41m)
  - 👉 [Name 1 thing you wish your boss would say to you](http://9gag.com/gag/awy0vz1)<!-- MEMES:END -->
 
 ---

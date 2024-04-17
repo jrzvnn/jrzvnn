@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Activision cuts entry fees for teams in its professional Call of Duty League, and will return collected fees, as the esports industry faces financial challenges &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/240417/p7#a240417p7)
  - [Emails: SpaceX cracks down on users who are connecting to its Starlink internet service from unauthorized countries, including Sudan, South Africa, and Zimbabwe &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240417/p6#a240417p6)
  - [ASML reports Q1 net sales down 21.6% YoY to &amp;euro;5.29B, vs. &amp;euro;5.39B est., net income down 37.4% YoY to &amp;euro;1.22B, vs. &amp;euro;1.07B est., and net bookings down 4% YoY to &amp;euro;3.6B &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/240417/p5#a240417p5)
  - [Logitech wants you to press its new AI button](https://www.theverge.com/2024/4/17/24132468/logitech-ai-prompt-builder-button)
- - [Best Waterproof Camera for 2024     - CNET](https://www.cnet.com/tech/computing/best-waterproof-camera/#ftag=CAD590a51e)
- - [Tecno&#39;s New Phone Is All About the Camera     - CNET](https://www.cnet.com/tech/mobile/tecnos-new-phone-lets-camera-take-center-stage/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Waterproof Camera for 2024     - CNET](https://www.cnet.com/tech/computing/best-waterproof-camera/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

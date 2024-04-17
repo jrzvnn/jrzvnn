@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A real privacy law? House lawmakers are optimistic this time](https://www.theverge.com/2024/4/17/24133323/american-privacy-rights-act-house-lawmakers-legislative-hearing)
+ - [The OnePlus Watch 2 is what redemption looks like](https://www.theverge.com/24132998/one-plus-watch-2-review-smartwatches-wearables)
+ - [Colorado Governor Jared Polis signs a bill that, for the first time in the US, expands the state&#39;s personal privacy law to include consumer &quot;neural data&quot; &lpar;Jonathan Moens/New York Times&rpar;](http://www.techmeme.com/240417/p30#a240417p30)
  - [Delta Is an iOS Game Boy Emulator That &lpar;Likely&rpar; Won’t Get Taken Down](https://www.wired.com/story/delta-game-boy-emulator-apple-app-store/)
- - [TikTok Notes starts rolling out as a new rival to Instagram](https://www.theverge.com/2024/4/17/24133311/tiktok-notes-photos-text-app-instagram)
- - [Worldcoin announces World Chain, a Layer 2 Ethereum blockchain designed to prioritize verified humans over bots, slated for release this summer &lpar;Sam Kessler/CoinDesk&rpar;](http://www.techmeme.com/240417/p29#a240417p29)
- - [Dwarf Fortress goes on an adventure](https://www.theverge.com/2024/4/17/24133245/dwarf-fortress-steam-adventure-mode-public-beta)
- - [MTAC report: foreign malign influence from Russia, China, and Iran in the US presidential election got off to a slower start this year compared to 2016 and 2020 &lpar;Clint Watts/Microsoft On the Issues&rpar;](http://www.techmeme.com/240417/p28#a240417p28)<!-- TECH:END -->
+ - [TikTok Notes starts rolling out as a new rival to Instagram](https://www.theverge.com/2024/4/17/24133311/tiktok-notes-photos-text-app-instagram)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

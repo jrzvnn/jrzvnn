@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A totally normal win for the Chinese runner in Beijing Half Marathon](http://9gag.com/gag/azxgR5b)
- - 😝 [Cup. Bear](http://9gag.com/gag/abAXBPb)
- - 💣 [\u201c I\u2019m natural \u201c](http://9gag.com/gag/abAX2QE)
- - 😝 [Which door you choose](http://9gag.com/gag/a6Zmjwm)
- - 👉 [During that time, she looked into his eyes with love\u2026](http://9gag.com/gag/amoNpoy)<!-- MEMES:END -->
+ - 😝 [I am uploading here maybe some has the rest of this conversation. Saw the full one awhile ago. Thank you](http://9gag.com/gag/aXP07B6)
+ - 😝 [Chad Howard on it again](http://9gag.com/gag/a5QeqNG)
+ - 💣 [An 81 old man, in Spain, found guilty after shooting to death an immigrant from Honduras who broke into his property. The immigrant had 45 previous criminal records.](http://9gag.com/gag/aE0vZ5p)
+ - 😝 [Dubai right now](http://9gag.com/gag/aPAwrYB)
+ - 👉 [He honestly believed he could stab a bishop, and be home that night on bail playing Xbox.](http://9gag.com/gag/agm3ELr)<!-- MEMES:END -->
 
 ---
 

@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Buddy didn&#39;t even graduate](http://9gag.com/gag/aMV2Oq1)
- - 😝 [He still loves her](http://9gag.com/gag/aByREoD)
- - 💣 [Cup. Bear](http://9gag.com/gag/abAXBPb)
- - 😝 [Ready for another try](http://9gag.com/gag/aZZb2An)
+ - 😝 [A totally normal win for the Chinese runner in Beijing Half Marathon](http://9gag.com/gag/azxgR5b)
+ - 😝 [Now it\u2019s called \u201cThe hyphen\u201d.](http://9gag.com/gag/aZZb2oW)
+ - 💣 [This is going to be my new hobby\u2026](http://9gag.com/gag/azxg41m)
+ - 😝 [Chad Howard on it again](http://9gag.com/gag/a5QeqNG)
  - 👉 [During that time, she looked into his eyes with love\u2026](http://9gag.com/gag/amoNpoy)<!-- MEMES:END -->
 
 ---

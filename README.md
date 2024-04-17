@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Freaks of nature](http://9gag.com/gag/aByR4wP)
- - 😝 [Trump is on point](http://9gag.com/gag/ae9jRbB)
- - 💣 [Big oof...](http://9gag.com/gag/aryv245)
- - 😝 [Which door you choose](http://9gag.com/gag/a6Zmjwm)
+ - 😝 [Buddy didn&#39;t even graduate](http://9gag.com/gag/aMV2Oq1)
+ - 😝 [Ready for another try](http://9gag.com/gag/aZZb2An)
+ - 💣 [This is going to be my new hobby\u2026](http://9gag.com/gag/azxg41m)
+ - 😝 [Such a kind friend](http://9gag.com/gag/amoNdLd)
  - 👉 [Name 1 thing you wish your boss would say to you](http://9gag.com/gag/awy0vz1)<!-- MEMES:END -->
 
 ---

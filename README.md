@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u201c I\u2019m natural \u201c](http://9gag.com/gag/abAX2QE)
- - 😝 [Woman tries to force man to leave his seat so that she could stretch her legs. Said he should &#39;show respect to a woman of color&#39; because he is a white man](http://9gag.com/gag/a87L2z1)
- - 💣 [This is going to be my new hobby\u2026](http://9gag.com/gag/azxg41m)
- - 😝 [Freaks of nature](http://9gag.com/gag/aByR4wP)
+ - 😝 [Why an I not allowed to walk?!](http://9gag.com/gag/aO8KGP2)
+ - 😝 [Mexicans.](http://9gag.com/gag/a2vzGZE)
+ - 💣 [Movie should have been about them.](http://9gag.com/gag/aZZbR6Q)
+ - 😝 [Good!](http://9gag.com/gag/aZZbvd6)
  - 👉 [Name 1 thing you wish your boss would say to you](http://9gag.com/gag/awy0vz1)<!-- MEMES:END -->
 
 ---

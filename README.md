@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The free Delta game emulator for iPhones is live on Apple’s App Store](https://www.theverge.com/2024/4/17/24132984/delta-free-emulator-nintendo-gba-n64-iphone-app-store-us)
  - [The European Data Protection Board says large online platforms like Meta should give users an option to use their services for free without targeted advertising &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240417/p22#a240417p22)
  - [The &#39;For All Mankind&#39; universe is about to get a whole lot bigger](https://appleinsider.com/articles/24/04/17/the-for-all-mankind-universe-is-about-to-get-a-whole-lot-bigger?utm_medium=rss)
  - [Amazon insists Just Walk Out isn’t secretly run by workers watching you shop](https://www.theverge.com/2024/4/17/24133029/amazon-just-walk-out-cashierless-ai-india)
- - [Third-party iPhone app store AltStore PAL is now live in Europe](https://www.theverge.com/24100464/altstore-pal-dma-eu-launch-delta-nintendo-emulator-clip-clipboard-manager)
- - [The free Delta game emulator for iPhones is coming to Apple’s App Store](https://www.theverge.com/2024/4/17/24132984/delta-free-emulator-nintendo-gba-n64-iphone-app-store-us)<!-- TECH:END -->
+ - [Third-party iPhone app store AltStore PAL is now live in Europe](https://www.theverge.com/24100464/altstore-pal-dma-eu-launch-delta-nintendo-emulator-clip-clipboard-manager)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

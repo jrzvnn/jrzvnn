@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [During that time, she looked into his eyes with love\u2026](http://9gag.com/gag/amoNpoy)
- - 😝 [The Tesla layoffs email](http://9gag.com/gag/a5QejMr)
- - 💣 [An 81 old man, in Spain, found guilty after shooting to death an immigrant from Honduras who broke into his property. The immigrant had 45 previous criminal records.](http://9gag.com/gag/aE0vZ5p)
- - 😝 [Ready for another try](http://9gag.com/gag/aZZb2An)
+ - 😝 [An 81 old man, in Spain, found guilty after shooting to death an immigrant from Honduras who broke into his property. The immigrant had 45 previous criminal records.](http://9gag.com/gag/aE0vZ5p)
+ - 😝 [Which door you choose](http://9gag.com/gag/a6Zmjwm)
+ - 💣 [Tell me how simp you are](http://9gag.com/gag/aLnRm3g)
+ - 😝 [This is going to be my new hobby\u2026](http://9gag.com/gag/azxg41m)
  - 👉 [Name 1 thing you wish your boss would say to you](http://9gag.com/gag/awy0vz1)<!-- MEMES:END -->
 
 ---

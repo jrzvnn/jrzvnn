@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [After Forbes found 120+ YouTube videos and 27 Google ads promoting AI deepfake porn tools and &quot;nudifier&quot; Telegram bots, the company took them down &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/240417/p26#a240417p26)
  - [The Pixel 7A is a knockout at its record-low $349](https://www.theverge.com/2024/4/17/24133040/google-pixel-7a-deal-sale)
  - [Big Tech Squares Off Against US Spies](https://www.wired.com/story/iti-section-702-expansion-opposition/)
  - [Startup-focused neobank Mercury expands to consumers with Mercury Personal, offering support for multiple users, access to up to $5M in FDIC insurance, and more &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240417/p25#a240417p25)
- - [First third party App Store in the EU is live](https://appleinsider.com/articles/24/04/17/first-third-party-app-store-in-the-eu-is-live?utm_medium=rss)
- - [Game emulator Delta arrives on App Store after controversies](https://appleinsider.com/articles/24/04/17/game-emulator-delta-arrives-on-app-store-after-controversies?utm_medium=rss)<!-- TECH:END -->
+ - [First third party App Store in the EU is live](https://appleinsider.com/articles/24/04/17/first-third-party-app-store-in-the-eu-is-live?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

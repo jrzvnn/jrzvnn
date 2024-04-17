@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The Tesla layoffs email](http://9gag.com/gag/a5QejMr)
  - 😝 [This is going to be my new hobby\u2026](http://9gag.com/gag/azxg41m)
- - 😝 [They couldn&#39;t believe he came back to life](http://9gag.com/gag/a0e8wxv)
- - 💣 [Why an I not allowed to walk?!](http://9gag.com/gag/aO8KGP2)
- - 😝 [Good!](http://9gag.com/gag/aZZbvd6)
+ - 💣 [This garbage `leather` coating that eventually flakes off and gets everywhere](http://9gag.com/gag/a2vzbZd)
+ - 😝 [\u201c I\u2019m natural \u201c](http://9gag.com/gag/abAX2QE)
  - 👉 [Name 1 thing you wish your boss would say to you](http://9gag.com/gag/awy0vz1)<!-- MEMES:END -->
 
 ---

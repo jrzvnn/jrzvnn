@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Worldcoin announces World Chain, a Layer 2 Ethereum blockchain designed to prioritize verified humans over bots, slated for release this summer &lpar;Sam Kessler/CoinDesk&rpar;](http://www.techmeme.com/240417/p29#a240417p29)
  - [Dwarf Fortress goes on an adventure](https://www.theverge.com/2024/4/17/24133245/dwarf-fortress-steam-adventure-mode-public-beta)
  - [MTAC report: foreign malign influence from Russia, China, and Iran in the US presidential election got off to a slower start this year compared to 2016 and 2020 &lpar;Clint Watts/Microsoft On the Issues&rpar;](http://www.techmeme.com/240417/p28#a240417p28)
  - [Boston Dynamics Atlas robot: a full history](https://www.theverge.com/24132451/boston-dynamics-atlas-robot-retirement)
- - [Third-party iOS app store AltStore PAL launches in the EU for &amp;euro;1.50 a year with two apps including game emulator Delta, which is also live on Apple&#39;s App Store &lpar;The Verge&rpar;](http://www.techmeme.com/240417/p27#a240417p27)
- - [Best Flower Delivery Deals: Order Ahead for Mother&#39;s Day and Save on Beautiful Bouquets     - CNET](https://www.cnet.com/deals/best-flower-delivery-deals-top-deals-on-mothers-day-flowers-you-can-order-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Third-party iOS app store AltStore PAL launches in the EU for &amp;euro;1.50 a year with two apps including game emulator Delta, which is also live on Apple&#39;s App Store &lpar;The Verge&rpar;](http://www.techmeme.com/240417/p27#a240417p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -176,9 +176,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Great way to Exercise brain for little kids](http://9gag.com/gag/aKGwpeN)
- - 😝 [Mexicans.](http://9gag.com/gag/a2vzGZE)
- - 💣 [This is what your elites don&#39;t want you to have.](http://9gag.com/gag/a7oLn1x)
- - 😝 [Why an I not allowed to walk?!](http://9gag.com/gag/aO8KGP2)
+ - 😝 [This is what your elites don&#39;t want you to have.](http://9gag.com/gag/a7oLn1x)
+ - 💣 [Mexicans.](http://9gag.com/gag/a2vzGZE)
+ - 😝 [Movie should have been about them.](http://9gag.com/gag/aZZbR6Q)
  - 👉 [Name 1 thing you wish your boss would say to you](http://9gag.com/gag/awy0vz1)<!-- MEMES:END -->
 
 ---

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [He honestly believed he could stab a bishop, and be home that night on bail playing Xbox.](http://9gag.com/gag/agm3ELr)
+ - 😝 [During that time, she looked into his eyes with love\u2026](http://9gag.com/gag/amoNpoy)
+ - 💣 [The Tesla layoffs email](http://9gag.com/gag/a5QejMr)
  - 😝 [Getting arrested already?](http://9gag.com/gag/aW4QRVq)
- - 😝 [Now it\u2019s called \u201cThe hyphen\u201d.](http://9gag.com/gag/aZZb2oW)
- - 💣 [Big oof...](http://9gag.com/gag/aryv245)
- - 😝 [Name 1 thing you wish your boss would say to you](http://9gag.com/gag/awy0vz1)
- - 👉 [A totally normal win for the Chinese runner in Beijing Half Marathon](http://9gag.com/gag/azxgR5b)<!-- MEMES:END -->
+ - 👉 [Name 1 thing you wish your boss would say to you](http://9gag.com/gag/awy0vz1)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Stability AI makes Stable Diffusion 3 available to developers via an API and a new Stable Assistant Beta content creation platform; the model remains in preview &lpar;The Verge&rpar;](http://www.techmeme.com/240417/p19#a240417p19)
  - [Amazon&#39;s latest Apple deals make perfect Mother&#39;s Day gifts &lpar;and prices start at just $24&rpar;](https://appleinsider.com/articles/24/04/17/amazons-latest-apple-deals-make-perfect-mothers-day-gifts?utm_medium=rss)
  - [Stability AI is giving more developers access to its next-gen text-to-image generator](https://www.theverge.com/2024/4/17/24132927/stable-diffusion-3-api-availability-stability-ai)
  - [A look at Spy Pet, a Discord scraping service that claims to get data from 14K+ servers and 600M users, available for as little as $5; Discord is investigating &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/240417/p18#a240417p18)
- - [Best Internet Providers in Centennial, Colorado     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-centennial-co/#ftag=CAD590a51e)
- - [Microsoft brings OneNote to the Apple Vision Pro -- with a key limitation](https://appleinsider.com/articles/24/04/17/microsoft-brings-onenote-to-the-apple-vision-pro----with-a-key-limitation?utm_medium=rss)<!-- TECH:END -->
+ - [Best Internet Providers in Centennial, Colorado     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-centennial-co/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

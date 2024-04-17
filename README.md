@@ -179,7 +179,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - 😝 [Chad Howard on it again](http://9gag.com/gag/a5QeqNG)
  - 💣 [An 81 old man, in Spain, found guilty after shooting to death an immigrant from Honduras who broke into his property. The immigrant had 45 previous criminal records.](http://9gag.com/gag/aE0vZ5p)
  - 😝 [Dubai right now](http://9gag.com/gag/aPAwrYB)
- - 👉 [He honestly believed he could stab a bishop, and be home that night on bail playing Xbox.](http://9gag.com/gag/agm3ELr)<!-- MEMES:END -->
+ - 👉 [Name 1 thing you wish your boss would say to you](http://9gag.com/gag/awy0vz1)<!-- MEMES:END -->
 
 ---
 

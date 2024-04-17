@@ -170,7 +170,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Will the Olympics Save Nike From Its Midlife Crisis?](https://www.wired.com/story/will-the-olympics-save-nike-from-its-midlife-crisis/)
  - [Apple Notes in iOS 18 looks to up the ante with Microsoft OneNote](https://appleinsider.com/articles/24/04/17/apple-notes-in-ios-18-looks-to-up-the-ante-with-microsoft-onenote?utm_medium=rss)
  - [Bellwether, a new group inside Alphabet&#39;s X innovation lab, plans to offer AI tools to the US National Guard to analyze images of disaster areas in summer 2024 &lpar;Gerrit De Vynck/Washington Post&rpar;](http://www.techmeme.com/240417/p14#a240417p14)
- - [China suspected of being behind Apple&#39;s recent spyware warnings](https://appleinsider.com/articles/24/04/17/china-suspected-of-being-behind-apples-recent-spyware-warnings?utm_medium=rss)<!-- TECH:END -->
+ - [Mortgage Refinance Rates Move Higher: Mortgage Refinance Rates on April 17, 2024     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-refinance-rates-move-higher-mortgage-refinance-rates-on-april-17-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

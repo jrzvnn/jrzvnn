@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What a nice looking horse](http://9gag.com/gag/aVvzB4y)
+ - 😝 [Great way to Exercise brain for little kids](http://9gag.com/gag/aKGwpeN)
  - 😝 [Mexicans.](http://9gag.com/gag/a2vzGZE)
- - 💣 [Movie should have been about them.](http://9gag.com/gag/aZZbR6Q)
- - 😝 [If you know these buildings you had an awesome childhood.](http://9gag.com/gag/aQzPOGd)
+ - 💣 [This is what your elites don&#39;t want you to have.](http://9gag.com/gag/a7oLn1x)
+ - 😝 [Why an I not allowed to walk?!](http://9gag.com/gag/aO8KGP2)
  - 👉 [Name 1 thing you wish your boss would say to you](http://9gag.com/gag/awy0vz1)<!-- MEMES:END -->
 
 ---

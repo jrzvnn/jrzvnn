@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Mistral is in talks with investors about raising several hundred million dollars at a $5B valuation, after raising $415M at a $2B valuation in Dec. 2023 &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/240416/p34#a240416p34)
+ - [Best Galaxy Watch Deals: Free With Trade-In or Save $60 on Galaxy Watch 6, Up to $197 Off Galaxy Watch 5 Pro     - CNET](https://www.cnet.com/deals/best-galaxy-watch-deals/#ftag=CAD590a51e)
+ - [Boston Dynamics Retires Its HD Atlas Robot video     - CNET](https://www.cnet.com/videos/boston-dynamics-retires-its-hd-atlas-robot/#ftag=CAD590a51e)
  - [AirPods Pro 2 Hacks: The Secret Features to Boost Your Sound     - CNET](https://www.cnet.com/tech/mobile/airpods-pro-2-hacks-the-secret-features-to-boost-your-sound/#ftag=CAD590a51e)
- - [Best Mattress for Hip Pain in 2024     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-hip-pain/#ftag=CAD590a51e)
- - [Best Organic Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-organic-mattress/#ftag=CAD590a51e)
- - [The Linux Foundation announces the Open Platform for Enterprise AI, to foster the development of open, multi-provider, and composable generative AI systems &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240416/p33#a240416p33)
- - [Filing: Take-Two plans to lay off 5% of its workforce, expecting to incur up to $200M in charges as part of the downsizing, including $140M from canceled titles &lpar;Rob Golum/Bloomberg&rpar;](http://www.techmeme.com/240416/p32#a240416p32)<!-- TECH:END -->
+ - [Best Mattress for Hip Pain in 2024     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-hip-pain/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Before You Fire Up Your Grill, Here&#39;s How to Make It Shine     - CNET](https://www.cnet.com/home/yard-and-outdoors/before-you-fire-up-your-grill-heres-how-to-make-it-shine/#ftag=CAD590a51e)
  - [The US NIST appoints as head of AI safety former OpenAI researcher Paul Christiano, who has been criticized for &quot;AI doomer&quot; views and ties to effective altruism &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/240417/p33#a240417p33)
- - [TikTok starts rolling out TikTok Notes, its Instagram rival for sharing photo and text content, for limited testing in Australia and Canada on Android and iOS &lpar;Sheena Vasani/The Verge&rpar;](http://www.techmeme.com/240417/p32#a240417p32)
- - [Twitch is bringing its TikTok-style feed to everyone this month](https://www.theverge.com/2024/4/17/24133457/twitch-tiktok-style-feed-rollout)
- - [Sega is turning Golden Axe into an animated series](https://www.theverge.com/2024/4/17/24133419/sega-golden-axe-tv-series-comedy-central)
- - [Boston Dynamics debuts an electric version of humanoid robot Atlas for commercial use, a day after retiring the hydraulic Atlas, with a pilot starting in 2025 &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240417/p31#a240417p31)<!-- TECH:END -->
+ - [Laptop Buying Guide: What to Look For video     - CNET](https://www.cnet.com/videos/laptop-buying-guide-what-to-look-for/#ftag=CAD590a51e)
+ - [Best Smart Scale for 2024     - CNET](https://www.cnet.com/health/fitness/best-smart-scale/#ftag=CAD590a51e)
+ - [TikTok starts rolling out TikTok Notes, its Instagram rival for sharing photo and text content, for limited testing in Australia and Canada on Android and iOS &lpar;Sheena Vasani/The Verge&rpar;](http://www.techmeme.com/240417/p32#a240417p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

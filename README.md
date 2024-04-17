@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How video games with immersive storylines and powerful, emotive writing offer some of the most thrilling fiction out there, overtaking books for some readers &lpar;Imogen West-Knights/Financial Times&rpar;](http://www.techmeme.com/240417/p10#a240417p10)
+ - [Tim Cook promises Indonesia that Apple will consider manufacturing there](https://appleinsider.com/articles/24/04/17/tim-cook-promises-indonesia-that-apple-will-consider-manufacturing-there?utm_medium=rss)
  - [CIRP: Amazon Prime hit a new high of 180M US shoppers in March 2024, up 8% YoY, despite greater online competition; 75% of US shoppers have a Prime membership &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/240417/p9#a240417p9)
  - [Hackers Linked to Russia’s Military Claim Credit for Sabotaging US Water Utilities](https://www.wired.com/story/cyber-army-of-russia-reborn-sandworm-us-cyberattacks/)
- - [Owner of Grand Theft Auto to layoff hundreds and cut projects](https://www.theverge.com/2024/4/17/24132791/taketwo-interactive-grand-theft-auto-layoffs-cut-projects)
- - [Foxconn Chair Young Liu says the company implemented a rotating CEO system this month, aiming to nurture successors, choosing a leader from its six businesses &lpar;Yimou Lee/Reuters&rpar;](http://www.techmeme.com/240417/p8#a240417p8)
- - [No, Dubai’s Floods Weren’t Caused By Cloud Seeding](https://www.wired.com/story/dubai-flooding-uae-cloud-seeding-climate-change/)<!-- TECH:END -->
+ - [Owner of Grand Theft Auto to layoff hundreds and cut projects](https://www.theverge.com/2024/4/17/24132791/taketwo-interactive-grand-theft-auto-layoffs-cut-projects)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

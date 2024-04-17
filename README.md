@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ASML reports Q1 net sales down 21.6% YoY to &amp;euro;5.29B v. &amp;euro;5.39B est., net income down 37.4% YoY to of &amp;euro;1.22B v. &amp;euro;1.07B est., and net bookings down 4% YoY to &amp;euro;3.6B &lpar;CNBC&rpar;](http://www.techmeme.com/240417/p5#a240417p5)
+ - [ASML reports Q1 net sales down 21.6% YoY to &amp;euro;5.29B, vs. &amp;euro;5.39B est., net income down 37.4% YoY to &amp;euro;1.22B, vs. &amp;euro;1.07B est., and net bookings down 4% YoY to &amp;euro;3.6B &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/240417/p5#a240417p5)
  - [Logitech wants you to press its new AI button](https://www.theverge.com/2024/4/17/24132468/logitech-ai-prompt-builder-button)
+ - [Tecno&#39;s New Phone Lets Camera Take Center Stage     - CNET](https://www.cnet.com/tech/mobile/tecnos-new-phone-lets-camera-take-center-stage/#ftag=CAD590a51e)
  - [Current and former T-Mobile and Verizon employees say they are receiving texts offering up to $300 to perform a SIM swap; T-Mobile says it is investigating &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240417/p4#a240417p4)
- - [Tel Aviv-based Cynomi, which offers an AI-powered virtual CISO service for managed service providers, raised a $20M Series A led by Canaan &lpar;FinSMEs&rpar;](http://www.techmeme.com/240417/p3#a240417p3)
- - [Herlev, Denmark-based Flatpay, which offers payment services to retail shops, restaurants, salons, and more, raised a &amp;euro;45 Series B led by Dawn Capital &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240417/p2#a240417p2)<!-- TECH:END -->
+ - [Tel Aviv-based Cynomi, which offers an AI-powered virtual CISO service for managed service providers, raised a $20M Series A led by Canaan &lpar;FinSMEs&rpar;](http://www.techmeme.com/240417/p3#a240417p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

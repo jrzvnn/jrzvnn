@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The bike overreacted](http://9gag.com/gag/avypdGX)
- - 😝 [Go sports...](http://9gag.com/gag/aQzPyxr)
- - 💣 [Congrats happy for you, nice](http://9gag.com/gag/ae9j7Db)
- - 😝 [Probably one of the funniest police chase\u2026Murica](http://9gag.com/gag/aD2AQLN)
+ - 😝 [Getting arrested already?](http://9gag.com/gag/aW4QRVq)
+ - 😝 [A totally normal win for the Chinese runner in Beijing Half Marathon](http://9gag.com/gag/azxgR5b)
+ - 💣 [I can see two differences](http://9gag.com/gag/aQzPOzW)
+ - 😝 [This is going to be my new hobby\u2026](http://9gag.com/gag/azxg41m)
  - 👉 [Name 1 thing you wish your boss would say to you](http://9gag.com/gag/awy0vz1)<!-- MEMES:END -->
 
 ---

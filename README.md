@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He honestly believed he could stab a bishop, and be home that night on bail playing Xbox.](http://9gag.com/gag/agm3ELr)
- - 😝 [During that time, she looked into his eyes with love\u2026](http://9gag.com/gag/amoNpoy)
- - 💣 [The Tesla layoffs email](http://9gag.com/gag/a5QejMr)
- - 😝 [Getting arrested already?](http://9gag.com/gag/aW4QRVq)
+ - 😝 [Cup. Bear](http://9gag.com/gag/abAXBPb)
+ - 😝 [Woman tries to force man to leave his seat so that she could stretch her legs. Said he should &#39;show respect to a woman of color&#39; because he is a white man](http://9gag.com/gag/a87L2z1)
+ - 💣 [Now it\u2019s called \u201cThe hyphen\u201d.](http://9gag.com/gag/aZZb2oW)
+ - 😝 [\u201c I\u2019m natural \u201c](http://9gag.com/gag/abAX2QE)
  - 👉 [Name 1 thing you wish your boss would say to you](http://9gag.com/gag/awy0vz1)<!-- MEMES:END -->
 
 ---

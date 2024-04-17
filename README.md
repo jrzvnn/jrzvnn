@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US Senators Cynthia Lummis and Kirsten Gillibrand propose a bill to regulate stablecoins; House and Senate lawmakers are pushing to pass a bill as soon as May &lpar;Steven T. Dennis/Bloomberg&rpar;](http://www.techmeme.com/240417/p12#a240417p12)
+ - [Luxury Airbnb High-Rises Are Reshaping Miami’s Skyline](https://www.wired.com/story/luxury-airbnb-high-rises-are-reshaping-miamis-skyline/)
  - [How a network of repair ships helps maintain the estimated 800,000 miles of undersea internet cables; of the 77 cable ships, only 22 are designed for repairs &lpar;Josh Dzieza/The Verge&rpar;](http://www.techmeme.com/240417/p11#a240417p11)
  - [How One Author Pushed the Limits of AI Copyright](https://www.wired.com/story/the-us-copyright-office-loosens-up-a-little-on-ai/)
- - [How video games with immersive storylines and powerful, emotive writing offer some of the most thrilling fiction out there, overtaking books for some readers &lpar;Imogen West-Knights/Financial Times&rpar;](http://www.techmeme.com/240417/p10#a240417p10)
- - [Tim Cook promises Indonesia that Apple will consider manufacturing there](https://appleinsider.com/articles/24/04/17/tim-cook-promises-indonesia-that-apple-will-consider-manufacturing-there?utm_medium=rss)
- - [CIRP: Amazon Prime hit a new high of 180M US shoppers in March 2024, up 8% YoY, despite greater online competition; 75% of US shoppers have a Prime membership &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/240417/p9#a240417p9)<!-- TECH:END -->
+ - [How video games with immersive storylines and powerful, emotive writing offer some of the most thrilling fiction out there, overtaking books for some readers &lpar;Imogen West-Knights/Financial Times&rpar;](http://www.techmeme.com/240417/p10#a240417p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

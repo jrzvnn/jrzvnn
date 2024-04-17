@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US CFPB fines BloomTech, formerly Lambda School, and CEO Austen Allred $164K and bans it from lending for 10 years for deceiving students on loans, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240417/p34#a240417p34)
  - [Before You Fire Up Your Grill, Here&#39;s How to Make It Shine     - CNET](https://www.cnet.com/home/yard-and-outdoors/before-you-fire-up-your-grill-heres-how-to-make-it-shine/#ftag=CAD590a51e)
  - [The US NIST appoints as head of AI safety former OpenAI researcher Paul Christiano, who has been criticized for &quot;AI doomer&quot; views and ties to effective altruism &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/240417/p33#a240417p33)
  - [Laptop Buying Guide: What to Look For video     - CNET](https://www.cnet.com/videos/laptop-buying-guide-what-to-look-for/#ftag=CAD590a51e)
- - [Best Smart Scale for 2024     - CNET](https://www.cnet.com/health/fitness/best-smart-scale/#ftag=CAD590a51e)
- - [TikTok starts rolling out TikTok Notes, its Instagram rival for sharing photo and text content, for limited testing in Australia and Canada on Android and iOS &lpar;Sheena Vasani/The Verge&rpar;](http://www.techmeme.com/240417/p32#a240417p32)<!-- TECH:END -->
+ - [Best Smart Scale for 2024     - CNET](https://www.cnet.com/health/fitness/best-smart-scale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

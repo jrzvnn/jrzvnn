@@ -170,7 +170,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Sega is turning Golden Axe into an animated series](https://www.theverge.com/2024/4/17/24133419/sega-golden-axe-tv-series-comedy-central)
  - [Boston Dynamics debuts an electric version of humanoid robot Atlas for commercial use, a day after retiring the hydraulic Atlas, with a pilot starting in 2025 &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240417/p31#a240417p31)
  - [TikTok to restrict users who repeatedly post problematic topics from ‘For You’ feed](https://www.theverge.com/2024/4/17/24133317/tiktok-restrict-accounts-problematic-topics-for-you-feed)
- - [A real privacy law? House lawmakers are optimistic this time](https://www.theverge.com/2024/4/17/24133323/american-privacy-rights-act-house-lawmakers-legislative-hearing)<!-- TECH:END -->
+ - [Google Maps to Use AI to Help EV Car Owners Charge Up     - CNET](https://www.cnet.com/roadshow/news/google-maps-to-use-ai-to-help-ev-car-owners-charge-up/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Getting arrested already?](http://9gag.com/gag/aW4QRVq)
  - 😝 [I can see two differences](http://9gag.com/gag/aQzPOzW)
- - 💣 [Now it\u2019s called \u201cThe hyphen\u201d.](http://9gag.com/gag/aZZb2oW)
- - 😝 [The Tesla layoffs email](http://9gag.com/gag/a5QejMr)
+ - 😝 [Which door you choose](http://9gag.com/gag/a6Zmjwm)
+ - 💣 [One of the most viewed photos in history was taken from this location. Can you guess which](http://9gag.com/gag/aPAweKV)
+ - 😝 [\u201c I\u2019m natural \u201c](http://9gag.com/gag/abAX2QE)
  - 👉 [Name 1 thing you wish your boss would say to you](http://9gag.com/gag/awy0vz1)<!-- MEMES:END -->
 
 ---

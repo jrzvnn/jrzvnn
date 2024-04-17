@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cup. Bear](http://9gag.com/gag/abAXBPb)
- - 😝 [During that time, she looked into his eyes with love\u2026](http://9gag.com/gag/amoNpoy)
- - 💣 [93 Year old Clint Eastwood](http://9gag.com/gag/azxgZqx)
- - 😝 [Buddy didn&#39;t even graduate](http://9gag.com/gag/aMV2Oq1)
+ - 😝 [Both are in for a rude awakening](http://9gag.com/gag/aoyEdj0)
+ - 😝 [They don&#39;t make em like this no more](http://9gag.com/gag/aO8KG7y)
+ - 💣 [Why an I not allowed to walk?!](http://9gag.com/gag/aO8KGP2)
+ - 😝 [They couldn&#39;t believe he came back to life](http://9gag.com/gag/a0e8wxv)
  - 👉 [Name 1 thing you wish your boss would say to you](http://9gag.com/gag/awy0vz1)<!-- MEMES:END -->
 
 ---

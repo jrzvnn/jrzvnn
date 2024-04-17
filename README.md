@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ASML reports China represented 49% of its system sales in Q1, while sales from Taiwan more than halved and the US dropped five percentage points to 6% &lpar;Sarah Jacob/Bloomberg&rpar;](http://www.techmeme.com/240417/p15#a240417p15)
+ - [Will the Olympics Save Nike From Its Midlife Crisis?](https://www.wired.com/story/will-the-olympics-save-nike-from-its-midlife-crisis/)
  - [Apple Notes in iOS 18 looks to up the ante with Microsoft OneNote](https://appleinsider.com/articles/24/04/17/apple-notes-in-ios-18-looks-to-up-the-ante-with-microsoft-onenote?utm_medium=rss)
  - [Bellwether, a new group inside Alphabet&#39;s X innovation lab, plans to offer AI tools to the US National Guard to analyze images of disaster areas in summer 2024 &lpar;Gerrit De Vynck/Washington Post&rpar;](http://www.techmeme.com/240417/p14#a240417p14)
- - [China suspected of being behind Apple&#39;s recent spyware warnings](https://appleinsider.com/articles/24/04/17/china-suspected-of-being-behind-apples-recent-spyware-warnings?utm_medium=rss)
- - [Mandiant links hacktivist group Cyber Army of Russia, which claimed to target utilities in France, the US, and Poland, to Russia-linked hacking group Sandworm &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/240417/p13#a240417p13)
- - [US Senators Cynthia Lummis and Kirsten Gillibrand propose a bill to regulate stablecoins; House and Senate lawmakers are pushing to pass a bill as soon as May &lpar;Steven T. Dennis/Bloomberg&rpar;](http://www.techmeme.com/240417/p12#a240417p12)<!-- TECH:END -->
+ - [China suspected of being behind Apple&#39;s recent spyware warnings](https://appleinsider.com/articles/24/04/17/china-suspected-of-being-behind-apples-recent-spyware-warnings?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

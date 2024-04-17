@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I can see two differences](http://9gag.com/gag/aQzPOzW)
- - 😝 [Which door you choose](http://9gag.com/gag/a6Zmjwm)
- - 💣 [One of the most viewed photos in history was taken from this location. Can you guess which](http://9gag.com/gag/aPAweKV)
- - 😝 [\u201c I\u2019m natural \u201c](http://9gag.com/gag/abAX2QE)
+ - 😝 [Perfectly executed](http://9gag.com/gag/amoNRgd)
+ - 😝 [Nearly half of the number of stores have closed in San Francisco and many more are leaving. Officials are now scrambling to pass new laws to prevent businesses from closing.](http://9gag.com/gag/awy0eMr)
+ - 💣 [Go sports...](http://9gag.com/gag/aQzPyxr)
+ - 😝 [This is going to be my new hobby\u2026](http://9gag.com/gag/azxg41m)
  - 👉 [Name 1 thing you wish your boss would say to you](http://9gag.com/gag/awy0vz1)<!-- MEMES:END -->
 
 ---

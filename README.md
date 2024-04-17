@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US FTC announced a $7M fine against mental telehealth startup Cerebral, citing misleading data sharing and cancelation policies, misleading ads, and more &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240417/p24#a240417p24)
+ - [All of the specs of the iPhone SE 4 may have just been leaked](https://appleinsider.com/articles/24/04/12/all-of-the-specs-of-the-iphone-se-4-may-have-just-been-leaked?utm_medium=rss)
  - [Apple TV Plus’ For All Mankind is getting a fifth season and a new spinoff series](https://www.theverge.com/2024/4/17/24133154/for-all-mankind-season-five-star-city-spinoff)
  - [Sources: German grocery delivery startup Flink raised another &amp;euro;100M from existing investors and has been in merger talks with rivals Getir and Just Eat Takeaway &lpar;Bloomberg&rpar;](http://www.techmeme.com/240417/p23#a240417p23)
- - [The OnePlus Watch 2 is what redemption looks like](https://www.theverge.com/24132998/one-plus-watch-2-review-smartwatches-wearables)
- - [Samsung’s art-inspired Frame TVs are up to $1,000 off right now](https://www.theverge.com/2024/4/17/24132220/samsung-frame-tv-jbl-flip-6-bluetooth-speaker-deal-sale)
- - [The free Delta game emulator for iPhones is live on Apple’s App Store](https://www.theverge.com/2024/4/17/24132984/delta-free-emulator-nintendo-gba-n64-iphone-app-store-us)<!-- TECH:END -->
+ - [The OnePlus Watch 2 is what redemption looks like](https://www.theverge.com/24132998/one-plus-watch-2-review-smartwatches-wearables)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

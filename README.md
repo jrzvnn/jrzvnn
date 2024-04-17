@@ -170,7 +170,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Samsung Galaxy Book4 Ultra Review: A Powerful Laptop](https://www.wired.com/review/samsung-galaxy-book4-ultra/)
  - [NASA has greenlit plans to send a giant drone to Saturn’s largest moon](https://www.theverge.com/2024/4/17/24132824/nasa-dragonfly-mission-drone-saturn-moon-titan-greenlit)
  - [All the announcements from Nintendo’s spring Indie World event](https://www.theverge.com/24132202/nintendo-indie-world-april-2024)
- - [Sony’s new PlayStation PC overlay and shared Trophies arrive with Ghost of Tsushima](https://www.theverge.com/2024/4/17/24132846/sony-playstation-pc-overlay-shared-trophies-ghost-of-tsushima)<!-- TECH:END -->
+ - [Go Green Without Going Broke: 9 Eco-Friendly Hacks That Also Save Me Money     - CNET](https://www.cnet.com/personal-finance/banking/go-green-without-going-broke-9-eco-friendly-hacks-that-also-save-me-money/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

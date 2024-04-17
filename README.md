@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple hits 18 gigawatts of clean energy in its environmental push](https://appleinsider.com/articles/24/04/17/apple-hits-18-gigawatts-of-clean-energy-in-its-environmental-push?utm_medium=rss)
+ - [How GitHub Copilot became responsible for a significant percentage of coding, despite its limitations; Stack Overflow: 54.8% of developers used Copilot in 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240417/p16#a240417p16)
  - [ASML reports China represented 49% of its system sales in Q1, while sales from Taiwan more than halved and the US dropped five percentage points to 6% &lpar;Sarah Jacob/Bloomberg&rpar;](http://www.techmeme.com/240417/p15#a240417p15)
  - [Will the Olympics Save Nike From Its Midlife Crisis?](https://www.wired.com/story/will-the-olympics-save-nike-from-its-midlife-crisis/)
- - [Apple Notes in iOS 18 looks to up the ante with Microsoft OneNote](https://appleinsider.com/articles/24/04/17/apple-notes-in-ios-18-looks-to-up-the-ante-with-microsoft-onenote?utm_medium=rss)
- - [Bellwether, a new group inside Alphabet&#39;s X innovation lab, plans to offer AI tools to the US National Guard to analyze images of disaster areas in summer 2024 &lpar;Gerrit De Vynck/Washington Post&rpar;](http://www.techmeme.com/240417/p14#a240417p14)
- - [Mortgage Refinance Rates Move Higher: Mortgage Refinance Rates on April 17, 2024     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-refinance-rates-move-higher-mortgage-refinance-rates-on-april-17-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Notes in iOS 18 looks to up the ante with Microsoft OneNote](https://appleinsider.com/articles/24/04/17/apple-notes-in-ios-18-looks-to-up-the-ante-with-microsoft-onenote?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

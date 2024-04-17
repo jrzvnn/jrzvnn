@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Buddy didn&#39;t even graduate](http://9gag.com/gag/aMV2Oq1)
- - 😝 [Ready for another try](http://9gag.com/gag/aZZb2An)
- - 💣 [This is going to be my new hobby\u2026](http://9gag.com/gag/azxg41m)
- - 😝 [Such a kind friend](http://9gag.com/gag/amoNdLd)
+ - 😝 [Getting arrested already?](http://9gag.com/gag/aW4QRVq)
+ - 😝 [And... you&#39;re blind](http://9gag.com/gag/a1mvOg2)
+ - 💣 [I can see two differences](http://9gag.com/gag/aQzPOzW)
+ - 😝 [Freaks of nature](http://9gag.com/gag/aByR4wP)
  - 👉 [Name 1 thing you wish your boss would say to you](http://9gag.com/gag/awy0vz1)<!-- MEMES:END -->
 
 ---

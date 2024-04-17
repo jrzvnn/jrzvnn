@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A trapdoor guarding a suffocating treasure trove. Careless seekers die from entrapment in one of these.](http://9gag.com/gag/aRBwDdq)
- - 😝 [This is going to be my new hobby\u2026](http://9gag.com/gag/azxg41m)
- - 💣 [They couldn&#39;t believe he came back to life](http://9gag.com/gag/a0e8wxv)
- - 😝 [Good!](http://9gag.com/gag/aZZbvd6)
+ - 😝 [Shit&#39;s bugged](http://9gag.com/gag/aNDrqw6)
+ - 😝 [An 81 old man, in Spain, found guilty after shooting to death an immigrant from Honduras who broke into his property. The immigrant had 45 previous criminal records.](http://9gag.com/gag/aE0vZ5p)
+ - 💣 [Both are in for a rude awakening](http://9gag.com/gag/aoyEdj0)
+ - 😝 [No you&#39;re not](http://9gag.com/gag/aD2APQZ)
  - 👉 [Name 1 thing you wish your boss would say to you](http://9gag.com/gag/awy0vz1)<!-- MEMES:END -->
 
 ---

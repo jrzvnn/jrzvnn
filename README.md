@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to organize Safari tabs using tab groups in iPadOS 17](https://appleinsider.com/inside/ipados-17/tips/how-to-organize-safari-tabs-using-tab-groups-in-ipados-17?utm_medium=rss)
- - [Stability AI makes Stable Diffusion 3 available to developers via an API and a new Stable Assistant Beta content creation platform; the model remains in preview &lpar;The Verge&rpar;](http://www.techmeme.com/240417/p19#a240417p19)
- - [Amazon&#39;s latest Apple deals make perfect Mother&#39;s Day gifts &lpar;and prices start at just $24&rpar;](https://appleinsider.com/articles/24/04/17/amazons-latest-apple-deals-make-perfect-mothers-day-gifts?utm_medium=rss)
- - [Stability AI is giving more developers access to its next-gen text-to-image generator](https://www.theverge.com/2024/4/17/24132927/stable-diffusion-3-api-availability-stability-ai)
- - [A look at Spy Pet, a Discord scraping service that claims to get data from 14K+ servers and 600M users, available for ~$5 in crypto; Discord is investigating &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/240417/p18#a240417p18)<!-- TECH:END -->
+ - [Netflix’s Sweet Tooth returns for season 3 in June](https://www.theverge.com/2024/4/17/24133003/sweet-tooth-season-3-netflix-trailer-release-date)
+ - [Sony&#39;s TV Lineup 2024: New TVs, New Direction](https://www.wired.com/story/sony-tv-lineup-impressions-2024/)
+ - [Comcast rolls out ‘Now’ prepaid phone and internet plans](https://www.theverge.com/2024/4/17/24132851/comcast-xfinity-now-mobile-prepaid-wireless)
+ - [Sony might have perfected Mini LED TVs with its new 2024 lineup](https://www.theverge.com/2024/4/17/24132829/sony-2024-bravia-9-8-7-3-mini-led-oled-tv)
+ - [How Amazon developed Just Walk Out since the early 2010s, driven by Jeff Bezos, as the company removes the tech from stores while expanding third-party sales &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/240417/p20#a240417p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

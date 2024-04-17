@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Boston Dynamics debuts an electric version of humanoid robot Atlas for commercial use, a day after retiring the hydraulic Atlas, with a pilot starting in 2025 &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240417/p31#a240417p31)
+ - [TikTok to restrict users who repeatedly post problematic topics from ‘For You’ feed](https://www.theverge.com/2024/4/17/24133317/tiktok-restrict-accounts-problematic-topics-for-you-feed)
+ - [Google Maps to Use AI to Help EV Car Owners Charge Up     - CNET](https://www.cnet.com/roadshow/news/google-maps-to-use-ai-to-help-ev-car-owners-charge-up/#ftag=CAD590a51e)
  - [A real privacy law? House lawmakers are optimistic this time](https://www.theverge.com/2024/4/17/24133323/american-privacy-rights-act-house-lawmakers-legislative-hearing)
- - [The OnePlus Watch 2 is what redemption looks like](https://www.theverge.com/24132998/one-plus-watch-2-review-smartwatches-wearables)
- - [Colorado Governor Jared Polis signs a bill that, for the first time in the US, expands the state&#39;s personal privacy law to include consumer &quot;neural data&quot; &lpar;Jonathan Moens/New York Times&rpar;](http://www.techmeme.com/240417/p30#a240417p30)
- - [Delta Is an iOS Game Boy Emulator That &lpar;Likely&rpar; Won’t Get Taken Down](https://www.wired.com/story/delta-game-boy-emulator-apple-app-store/)
- - [TikTok Notes starts rolling out as a new rival to Instagram](https://www.theverge.com/2024/4/17/24133311/tiktok-notes-photos-text-app-instagram)<!-- TECH:END -->
+ - [Best Internet Providers in Trenton, New Jersey     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-trenton-nj/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

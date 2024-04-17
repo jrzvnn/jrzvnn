@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bellwether, a new group inside Alphabet&#39;s X innovation lab, plans to offer AI tools to the US National Guard to analyze images of disaster areas in summer 2024 &lpar;Gerrit De Vynck/Washington Post&rpar;](http://www.techmeme.com/240417/p14#a240417p14)
  - [China suspected of being behind Apple&#39;s recent spyware warnings](https://appleinsider.com/articles/24/04/17/china-suspected-of-being-behind-apples-recent-spyware-warnings?utm_medium=rss)
  - [Mandiant links hacktivist group Cyber Army of Russia, which claimed to target utilities in France, the US, and Poland, to Russia-linked hacking group Sandworm &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/240417/p13#a240417p13)
  - [US Senators Cynthia Lummis and Kirsten Gillibrand propose a bill to regulate stablecoins; House and Senate lawmakers are pushing to pass a bill as soon as May &lpar;Steven T. Dennis/Bloomberg&rpar;](http://www.techmeme.com/240417/p12#a240417p12)
- - [Luxury Airbnb High-Rises Are Reshaping Miami’s Skyline](https://www.wired.com/story/luxury-airbnb-high-rises-are-reshaping-miamis-skyline/)
- - [How a network of repair ships helps maintain the estimated 800,000 miles of undersea internet cables; of the 77 cable ships, only 22 are designed for repairs &lpar;Josh Dzieza/The Verge&rpar;](http://www.techmeme.com/240417/p11#a240417p11)<!-- TECH:END -->
+ - [Luxury Airbnb High-Rises Are Reshaping Miami’s Skyline](https://www.wired.com/story/luxury-airbnb-high-rises-are-reshaping-miamis-skyline/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

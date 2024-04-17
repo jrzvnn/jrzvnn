@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+ - [Samsung Galaxy Book4 Ultra Review: A Powerful Laptop](https://www.wired.com/review/samsung-galaxy-book4-ultra/)
  - [NASA has greenlit plans to send a giant drone to Saturn’s largest moon](https://www.theverge.com/2024/4/17/24132824/nasa-dragonfly-mission-drone-saturn-moon-titan-greenlit)
  - [All the announcements from Nintendo’s spring Indie World event](https://www.theverge.com/24132202/nintendo-indie-world-april-2024)
- - [Sony’s new PlayStation PC overlay and shared Trophies arrive with Ghost of Tsushima](https://www.theverge.com/2024/4/17/24132846/sony-playstation-pc-overlay-shared-trophies-ghost-of-tsushima)
- - [Tesla is putting Elon Musk’s pay package up for another vote after a judge voided the first one](https://www.theverge.com/2024/4/17/24132827/tesla-elon-musk-pay-package-shareholder-vote-delaware)
- - [Snap plans to add watermarks to AI-generated images on Snapchat; watermarks appear as a translucent version of the Snap logo with a sparkle emoji &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240417/p17#a240417p17)<!-- TECH:END -->
+ - [Sony’s new PlayStation PC overlay and shared Trophies arrive with Ghost of Tsushima](https://www.theverge.com/2024/4/17/24132846/sony-playstation-pc-overlay-shared-trophies-ghost-of-tsushima)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

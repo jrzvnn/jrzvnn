@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Spy Pet, a Discord scraping service that claims to get data from 14K+ servers and 600M users, available for as little as $5; Discord is investigating &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/240417/p18#a240417p18)
+ - [Microsoft brings OneNote to the Apple Vision Pro -- with a key limitation](https://appleinsider.com/articles/24/04/17/microsoft-brings-onenote-to-the-apple-vision-pro----with-a-key-limitation?utm_medium=rss)
  - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
  - [Samsung Galaxy Book4 Ultra Review: A Powerful Laptop](https://www.wired.com/review/samsung-galaxy-book4-ultra/)
- - [NASA has greenlit plans to send a giant drone to Saturn’s largest moon](https://www.theverge.com/2024/4/17/24132824/nasa-dragonfly-mission-drone-saturn-moon-titan-greenlit)
- - [All the announcements from Nintendo’s spring Indie World event](https://www.theverge.com/24132202/nintendo-indie-world-april-2024)
- - [Go Green Without Going Broke: 9 Eco-Friendly Hacks That Also Save Me Money     - CNET](https://www.cnet.com/personal-finance/banking/go-green-without-going-broke-9-eco-friendly-hacks-that-also-save-me-money/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [NASA has greenlit plans to send a giant drone to Saturn’s largest moon](https://www.theverge.com/2024/4/17/24132824/nasa-dragonfly-mission-drone-saturn-moon-titan-greenlit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

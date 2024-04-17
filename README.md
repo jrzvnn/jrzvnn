@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Great way to Exercise brain for little kids](http://9gag.com/gag/aKGwpeN)
- - 😝 [This is what your elites don&#39;t want you to have.](http://9gag.com/gag/a7oLn1x)
- - 💣 [Mexicans.](http://9gag.com/gag/a2vzGZE)
- - 😝 [Movie should have been about them.](http://9gag.com/gag/aZZbR6Q)
+ - 😝 [What a nice looking horse](http://9gag.com/gag/aVvzB4y)
+ - 😝 [Freaks of nature](http://9gag.com/gag/aByR4wP)
+ - 💣 [The Tesla layoffs email](http://9gag.com/gag/a5QejMr)
+ - 😝 [This is going to be my new hobby\u2026](http://9gag.com/gag/azxg41m)
  - 👉 [Name 1 thing you wish your boss would say to you](http://9gag.com/gag/awy0vz1)<!-- MEMES:END -->
 
 ---

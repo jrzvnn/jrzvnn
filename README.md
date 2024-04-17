@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Delta Is an iOS Game Boy Emulator That &lpar;Likely&rpar; Won&#39;t Get Taken Down](https://www.wired.com/story/delta-game-boy-emulator-apple-app-store/)
  - [TikTok Notes starts rolling out as a new rival to Instagram](https://www.theverge.com/2024/4/17/24133311/tiktok-notes-photos-text-app-instagram)
  - [Worldcoin announces World Chain, a Layer 2 Ethereum blockchain designed to prioritize verified humans over bots, slated for release this summer &lpar;Sam Kessler/CoinDesk&rpar;](http://www.techmeme.com/240417/p29#a240417p29)
  - [Dwarf Fortress goes on an adventure](https://www.theverge.com/2024/4/17/24133245/dwarf-fortress-steam-adventure-mode-public-beta)
- - [MTAC report: foreign malign influence from Russia, China, and Iran in the US presidential election got off to a slower start this year compared to 2016 and 2020 &lpar;Clint Watts/Microsoft On the Issues&rpar;](http://www.techmeme.com/240417/p28#a240417p28)
- - [Boston Dynamics Atlas robot: a full history](https://www.theverge.com/24132451/boston-dynamics-atlas-robot-retirement)<!-- TECH:END -->
+ - [MTAC report: foreign malign influence from Russia, China, and Iran in the US presidential election got off to a slower start this year compared to 2016 and 2020 &lpar;Clint Watts/Microsoft On the Issues&rpar;](http://www.techmeme.com/240417/p28#a240417p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

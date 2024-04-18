@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ready for another try](http://9gag.com/gag/aZZb2An)
- - 😝 [2 pit bulls torn apart woman&#39;s car trying to eat cat](http://9gag.com/gag/awy08M8)
- - 💣 [A trapdoor guarding a suffocating treasure trove. Careless seekers die from entrapment in one of these.](http://9gag.com/gag/aRBwDdq)
- - 😝 [Such a kind friend](http://9gag.com/gag/amoNdLd)
+ - 😝 [Looks like Weird Al](http://9gag.com/gag/a5QeyNG)
+ - 😝 [An 81 old man, in Spain, found guilty after shooting to death an immigrant from Honduras who broke into his property. The immigrant had 45 previous criminal records.](http://9gag.com/gag/aE0vZ5p)
+ - 💣 [It&#39;s not dumb if it works](http://9gag.com/gag/a9ybNM0)
+ - 😝 [Can anyone provide an answer?](http://9gag.com/gag/avypDVO)
  - 👉 [Name 1 thing you wish your boss would say to you](http://9gag.com/gag/awy0vz1)<!-- MEMES:END -->
 
 ---

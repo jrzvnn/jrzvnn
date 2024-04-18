@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta is adding real-time AI image generation to WhatsApp](https://www.theverge.com/2024/4/18/24134079/meta-real-time-ai-image-generation-whatsapp)
  - [Tesla&#39;s Layoffs Won&#39;t Solve Its Growing Pains](https://www.wired.com/story/tesla-robotaxi-pivot-china/)
  - [The future of the Xbox looks a lot like a PC](https://www.theverge.com/2024/4/18/24123318/microsoft-next-xbox-pc-future)
  - [Exploit seller wants $2 million for a zero-day iMessage attack vector that probably doesn&#39;t exist](https://appleinsider.com/articles/24/04/18/exploit-seller-wants-2-million-for-a-zero-day-imessage-attack-vector-that-probably-doesnt-exist?utm_medium=rss)
- - [Rad Power Bikes Radster Road Review: Safety First](https://www.wired.com/review/rad-power-bikes-radster-road/)
- - [Netflix’s The Witcher will end with season 5](https://www.theverge.com/2024/4/18/24134057/netflix-the-witcher-season-5-end)<!-- TECH:END -->
+ - [Rad Power Bikes Radster Road Review: Safety First](https://www.wired.com/review/rad-power-bikes-radster-road/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

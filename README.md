@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twitch plans to roll out its TikTok-style discovery feed later in April, letting users scroll clips and livestreams, after testing the feature for a year &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240418/p10#a240418p10)
  - [Tim Cook visits Singapore as Apple invests $250 million](https://appleinsider.com/articles/24/04/18/tim-cook-visits-singapore-as-apple-invests-250-million?utm_medium=rss)
  - [An interview with Reddit Chief Product Officer Pali Bhat on the company&#39;s roadmap: faster load times, new moderator and developer tools, and AI translation &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/240418/p9#a240418p9)
  - [The Rise of the Carbon Farmer](https://www.wired.com/story/carbon-farming-regenerative-agriculture/)
- - [French B2B software company Planisware raised &amp;euro;278M in a Paris IPO; its shares jumped up to 33% to ~&amp;euro;21 on its debut, giving Planisware a &amp;euro;1.1B valuation &lpar;Thyagaraju Adinarayan/Bloomberg&rpar;](http://www.techmeme.com/240418/p8#a240418p8)
- - [Best iPhone in 2024: Which Apple Phone Should You Buy?     - CNET](https://www.cnet.com/tech/mobile/best-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [French B2B software company Planisware raised &amp;euro;278M in a Paris IPO; its shares jumped up to 33% to ~&amp;euro;21 on its debut, giving Planisware a &amp;euro;1.1B valuation &lpar;Thyagaraju Adinarayan/Bloomberg&rpar;](http://www.techmeme.com/240418/p8#a240418p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New 12.9-inch iPad Air may not be a large-screen bargain](https://appleinsider.com/articles/24/04/18/new-129-inch-ipad-air-may-not-be-a-large-screen-bargain?utm_medium=rss)
+ - [US House Speaker plans to bundle the TikTok divestiture bill, with a revised proposal, in a Ukraine and Israel aid bill expected to clear the Senate on April 20 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240418/p20#a240418p20)
  - [8BitDo’s NES-inspired mechanical keyboard hits all-time low price](https://www.theverge.com/2024/4/18/24132948/amazon-8bitdo-retro-mechanical-keyboard-echo-buds-deal-sale)
  - [Apple is making progress cleaning up its dirty supply chain](https://www.theverge.com/2024/4/18/24133897/apple-supply-chain-climate-emissions-environmental-progress-report)
- - [Brave Search introduces Answer with AI, which shows answers synthesized from multiple sources for informational queries, appearing above organic search results &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240418/p19#a240418p19)
- - [13 Best Coffee Grinders &lpar;2024&rpar;: Conical, Flat Burr, Blade, and Hand Grinders](https://www.wired.com/gallery/best-coffee-grinders/)
- - [Elgato has an attractive new Neo range for content creators &amp; streamers](https://appleinsider.com/articles/24/04/18/elgato-has-an-attractive-new-neo-range-for-content-creators-streamers?utm_medium=rss)<!-- TECH:END -->
+ - [Brave Search introduces Answer with AI, which shows answers synthesized from multiple sources for informational queries, appearing above organic search results &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240418/p19#a240418p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

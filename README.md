@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Peak male fantasy](http://9gag.com/gag/aByRj02)
- - 😝 [Guys they did it](http://9gag.com/gag/aYQNZAq)
- - 💣 [Getting arrested already?](http://9gag.com/gag/aW4QRVq)
- - 😝 [Loll](http://9gag.com/gag/aQzPBmW)
- - 👉 [An artist made this device to imitate weightlessness](http://9gag.com/gag/avypDOq)<!-- MEMES:END -->
+ - 😝 [And... you&#39;re blind](http://9gag.com/gag/a1mvOg2)
+ - 😝 [What a nice looking horse](http://9gag.com/gag/aVvzB4y)
+ - 💣 [She&#39;ll never be the same](http://9gag.com/gag/ayN7v3Y)
+ - 😝 [Trump is on point](http://9gag.com/gag/ae9jRbB)
+ - 👉 [Guys they did it](http://9gag.com/gag/aYQNZAq)<!-- MEMES:END -->
 
 ---
 

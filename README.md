@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple plans to spend $250M+ on its regional hub in Singapore, including expanding its campus later in 2024, as Tim Cook visits Vietnam and other Asian countries &lpar;Amanda Lee/Wall Street Journal&rpar;](http://www.techmeme.com/240418/p7#a240418p7)
  - [Huawei releases its Pura 70 series, available for ~$760 to ~$1,380; reviewers show high-end models have a Kirin 9010 chip, an update to the Mate 60 Pro&#39;s 9000s &lpar;Bloomberg&rpar;](http://www.techmeme.com/240418/p6#a240418p6)
  - [Senate Democrats urge crackdown on autonomous vehicles and driver assist](https://www.theverge.com/2024/4/18/24133448/autonomous-vehicles-adas-blumenthal-markey-nhtsa)
  - [Document: Microsoft added 500+ megawatts of data center capacity since July 2023 and topped five gigawatts of total capacity in the H1 of its latest fiscal year &lpar;Eugene Kim/Business Insider&rpar;](http://www.techmeme.com/240418/p5#a240418p5)
- - [How one author gained a limited copyright for the &quot;selection, coordination, and arrangement of text&quot; from AI, as the US Copyright Office wrestles with AI law &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/240418/p4#a240418p4)
- - [Can Dogs Eat Cicadas? Here&#39;s What to Know     - CNET](https://www.cnet.com/home/kitchen-and-household/can-dogs-eat-cicadas-heres-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How one author gained a limited copyright for the &quot;selection, coordination, and arrangement of text&quot; from AI, as the US Copyright Office wrestles with AI law &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/240418/p4#a240418p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Research suggests GPT-4 surpassed or achieved the same scores as all but top-scoring specialist medics in assessing ocular problems and suggesting treatments &lpar;Michael Peel/Financial Times&rpar;](http://www.techmeme.com/240417/p41#a240417p41)
  - [Google fires 28 employees after sit-in protest over Israel cloud contract](https://www.theverge.com/2024/4/17/24133700/google-fires-28-employees-protest-israel-cloud-contract)
  - [Sam&#39;s Club membership drops to $14, the best price ever](https://appleinsider.com/articles/24/04/18/sams-club-membership-drops-to-14-the-best-price-ever?utm_medium=rss)
  - [Google fires 28 employees over their participation in a 10-hour sit-in at the company&#39;s New York and Sunnyvale offices to protest its business ties with Israel &lpar;Thomas Barrabi/New York Post&rpar;](http://www.techmeme.com/240417/p40#a240417p40)
- - [AWS discontinues its Snowmobile service, an 18-wheeler truck introduced in 2016 to help customers transport large amounts of on-premises data to AWS facilities &lpar;CNBC&rpar;](http://www.techmeme.com/240417/p39#a240417p39)
- - [Best Cordless Drill of 2024     - CNET](https://www.cnet.com/news/best-cordless-drill/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AWS discontinues its Snowmobile service, an 18-wheeler truck introduced in 2016 to help customers transport large amounts of on-premises data to AWS facilities &lpar;CNBC&rpar;](http://www.techmeme.com/240417/p39#a240417p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [An artist made this device to imitate weightlessness](http://9gag.com/gag/avypDOq)
+ - 😝 [Heroes](http://9gag.com/gag/agm3jM6)
+ - 😝 [And... you&#39;re blind](http://9gag.com/gag/a1mvOg2)
+ - 💣 [An 81 old man, in Spain, found guilty after shooting to death an immigrant from Honduras who broke into his property. The immigrant had 45 previous criminal records.](http://9gag.com/gag/aE0vZ5p)
  - 😝 [What a nice looking horse](http://9gag.com/gag/aVvzB4y)
- - 💣 [Serious question for the Sicilians: Why do you do that everywhere on the island?](http://9gag.com/gag/ayN7VnW)
- - 😝 [Guys they did it](http://9gag.com/gag/aYQNZAq)
- - 👉 [Such a kind friend](http://9gag.com/gag/amoNdLd)<!-- MEMES:END -->
+ - 👉 [Deaf girl hears best friend\u2019s voice for the first time.](http://9gag.com/gag/aXP0RMd)<!-- MEMES:END -->
 
 ---
 

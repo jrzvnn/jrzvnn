@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Your Happy Hacking Keyboard deserves some fresh caps](https://www.theverge.com/2024/4/18/24132042/ursa-topre-keyboard-keycaps-happy-hacking)
+ - [All the news on Qi2 wireless charging](https://www.theverge.com/24134055/qi2-wireless-charging-apple-android-anker-mophie-belkin)
  - [Short-form video app Triller is merging with Hong Kong financial services company AGBA; Triller shareholders will own 80% of the combined company valued at $4B &lpar;Daniel Tencer/Music Business Worldwide&rpar;](http://www.techmeme.com/240418/p28#a240418p28)
  - [Meta says Llama 3 beats most other models, including Gemini](https://www.theverge.com/2024/4/18/24134103/llama-3-benchmark-testing-ai-gemma-gemini-mistral)
- - [The 33 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
- - [RFK Jr.’s Very Online, Conspiracy-Filled Campaign](https://www.wired.com/story/rfk-online-conspiracy-campaign/)
- - [DARPA reveals that an AI-controlled X-62A jet successfully faced a human pilot in an F-16 during an in-air dogfight test carried out in 2023 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240418/p27#a240418p27)<!-- TECH:END -->
+ - [The 33 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

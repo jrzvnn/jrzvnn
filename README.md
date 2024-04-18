@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You\u2019re gonna need some aloe for that burn\u2026..](http://9gag.com/gag/an7q0QV)
- - 😝 [Drowning in a Flood of Pink Balloons at the Mall](http://9gag.com/gag/azxgQWK)
- - 💣 [What a nice looking horse](http://9gag.com/gag/aVvzB4y)
- - 😝 [Guys they did it](http://9gag.com/gag/aYQNZAq)
- - 👉 [Loll](http://9gag.com/gag/aQzPBmW)<!-- MEMES:END -->
+ - 😝 [Sudden temperature change in just one day.](http://9gag.com/gag/abAXdbp)
+ - 😝 [Science b!tch](http://9gag.com/gag/aryvDBB)
+ - 💣 [A trapdoor guarding a suffocating treasure trove. Careless seekers die from entrapment in one of these.](http://9gag.com/gag/aRBwDdq)
+ - 😝 [We&#39;re just tiny fishes.](http://9gag.com/gag/aryvrbp)
+ - 👉 [An archaeologist has prepared a very nice video to raise awareness about why treasure hunters die.](http://9gag.com/gag/abAXdxv)<!-- MEMES:END -->
 
 ---
 

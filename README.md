@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tim Cook visits Singapore as Apple invests in a $250 million AI campus expansion](https://appleinsider.com/articles/24/04/18/tim-cook-visits-singapore-as-apple-invests-250-million?utm_medium=rss)
  - [A look at Apple&#39;s iPhone recycling, including shredding robots, and contractor GEEP, which Apple sued in 2020 for $22.6M in a case that has since been inactive &lpar;Austin Carr/Bloomberg&rpar;](http://www.techmeme.com/240418/p12#a240418p12)
  - [The Real-Time Deepfake Romance Scams Have Arrived](https://www.wired.com/story/yahoo-boys-real-time-deepfake-scams/)
  - [Gmail’s tabs are actually useful now that I’ve found this extension](https://www.theverge.com/2024/4/18/24132386/gmail-tabs-google)
- - [MrBeast and T-Series are battling for the most-subscribed YouTube channel](https://www.theverge.com/2024/4/18/24133829/mrbeast-tseries-battle-most-subscribed-youtube-channel)
- - [Investigation: Amazon sells ~$1M per year in goods on eBay, Shopify, Walmart, and Amazon via its &quot;Big River&quot; arm, to get data on pricing, logistics, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240418/p11#a240418p11)<!-- TECH:END -->
+ - [MrBeast and T-Series are battling for the most-subscribed YouTube channel](https://www.theverge.com/2024/4/18/24133829/mrbeast-tseries-battle-most-subscribed-youtube-channel)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

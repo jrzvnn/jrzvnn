@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AR shopping gets a boost with Best Buy&#39;s Apple Vision Pro app](https://appleinsider.com/articles/24/04/18/ar-shopping-gets-a-boost-with-best-buys-apple-vision-pro-app?utm_medium=rss)
  - [Digital marketing software company Ibotta closes up 17% at $103.25 per share in its trading debut, after raising ~$577.3M in an IPO priced above marketed range &lpar;Bloomberg&rpar;](http://www.techmeme.com/240418/p35#a240418p35)
  - [The Meta Quest 2 gets a permanent price cut to $199](https://www.theverge.com/2024/4/18/24134379/meta-quest-2-199-dollars-permanent-price-cut)
  - [Best Internet Providers in Franklin, Tennessee     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-franklin-tn/#ftag=CAD590a51e)
- - [The Best Online Games to Play With Friends     - CNET](https://www.cnet.com/tech/gaming/best-online-games-to-play-with-friends/#ftag=CAD590a51e)
- - [Google says it will consolidate teams that focus on building AI models across Research and DeepMind, and move its Responsible AI teams in Research to DeepMind &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/240418/p34#a240418p34)<!-- TECH:END -->
+ - [The Best Online Games to Play With Friends     - CNET](https://www.cnet.com/tech/gaming/best-online-games-to-play-with-friends/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

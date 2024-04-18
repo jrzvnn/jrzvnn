@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TSMC CEO CC Wei says the company plans to charge customers more for making chips outside of Taiwan, citing a &quot;fragmented globalization environment&quot; &lpar;Kathrin Hille/Financial Times&rpar;](http://www.techmeme.com/240418/p13#a240418p13)
+ - [Donald Trump Is &#39;Seriously Considering&#39; Jake Paul&#39;s Fight Invite](https://www.wired.com/story/donald-trump-jake-paul-fight-invite/)
  - [Tim Cook visits Singapore as Apple invests in a $250 million AI campus expansion](https://appleinsider.com/articles/24/04/18/tim-cook-visits-singapore-as-apple-invests-250-million?utm_medium=rss)
  - [A look at Apple&#39;s iPhone recycling, including shredding robots, and contractor GEEP, which Apple sued in 2020 for $22.6M in a case that has since been inactive &lpar;Austin Carr/Bloomberg&rpar;](http://www.techmeme.com/240418/p12#a240418p12)
- - [The Real-Time Deepfake Romance Scams Have Arrived](https://www.wired.com/story/yahoo-boys-real-time-deepfake-scams/)
- - [Gmail’s tabs are actually useful now that I’ve found this extension](https://www.theverge.com/2024/4/18/24132386/gmail-tabs-google)
- - [MrBeast and T-Series are battling for the most-subscribed YouTube channel](https://www.theverge.com/2024/4/18/24133829/mrbeast-tseries-battle-most-subscribed-youtube-channel)<!-- TECH:END -->
+ - [The Real-Time Deepfake Romance Scams Have Arrived](https://www.wired.com/story/yahoo-boys-real-time-deepfake-scams/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

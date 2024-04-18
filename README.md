@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Freaks of nature](http://9gag.com/gag/aByR4wP)
- - 😝 [Heroes](http://9gag.com/gag/agm3jM6)
- - 💣 [Such a kind friend](http://9gag.com/gag/amoNdLd)
- - 😝 [Deaf girl hears best friend\u2019s voice for the first time.](http://9gag.com/gag/aXP0RMd)
- - 👉 [Guys they did it](http://9gag.com/gag/aYQNZAq)<!-- MEMES:END -->
+ - 😝 [Peak male fantasy](http://9gag.com/gag/aByRj02)
+ - 😝 [Guys they did it](http://9gag.com/gag/aYQNZAq)
+ - 💣 [Getting arrested already?](http://9gag.com/gag/aW4QRVq)
+ - 😝 [Loll](http://9gag.com/gag/aQzPBmW)
+ - 👉 [An artist made this device to imitate weightlessness](http://9gag.com/gag/avypDOq)<!-- MEMES:END -->
 
 ---
 

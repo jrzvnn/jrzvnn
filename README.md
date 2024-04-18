@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s new series Sunny pairs Rashida Jones with a mystery-solving robot](https://www.theverge.com/24133912/apple-24-sunny-rashida-jones)
- - [US Air Force confirms first successful AI dogfight](https://www.theverge.com/2024/4/18/24133870/us-air-force-ai-dogfight-test-x-62a)
- - [Richard Linklater’s Hit Man looks like a goofy roleplaying romcom in new trailer](https://www.theverge.com/24132471/netflix-richard-linklater-hit-man-trailer)
- - [Milo Action Communicator: Hassle-Free Comms Without Your Smartphone](https://www.wired.com/review/review-milo-action-communicator/)
- - [Adobe Express mobile app for iOS ships with Firefly generative AI smarts](https://appleinsider.com/articles/24/04/18/adobe-express-mobile-app-for-ios-ships-with-firefly-generative-ai-smarts?utm_medium=rss)<!-- TECH:END -->
+ - [Intel Foundry completes the assembly of the first commercial High-NA EUV chipmaking tool, a day after ASML set an EUV system record by printing 10nm dense lines &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240418/p18#a240418p18)
+ - [Apple&#39;s iPhone recycling is a security nightmare for e-waste partners](https://appleinsider.com/articles/24/04/18/apples-iphone-recycling-is-a-security-nightmare-for-e-waste-partners?utm_medium=rss)
+ - [Make robots hairy](https://www.theverge.com/2024/4/18/24133547/boston-dynamics-atlas-robot-hairy)
+ - [Apple is finally rolling out AirPlay in hotel rooms](https://www.theverge.com/2024/4/18/24133909/apple-airplay-hotel-rooms-iphone-streaming-music-video)
+ - [More than 60 IHG hotels in North America now have AirPlay-compatible TVs in-room](https://appleinsider.com/articles/24/04/18/more-than-60-ihg-hotels-in-north-america-now-have-airplay-compatible-tvs-in-room?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

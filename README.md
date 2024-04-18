@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cleaning keyboard mode](http://9gag.com/gag/a7oLPAe)
- - 😝 [All of her kids are trans lmao](http://9gag.com/gag/apREz7D)
- - 💣 [Mom beleives in her son&#39;s talent.](http://9gag.com/gag/aD2AqOd)
- - 😝 [This kind of trust will be lost soon](http://9gag.com/gag/aNDrGG3)
- - 👉 [\u201cThe nail that sticks out will be hammered down. \u201c](http://9gag.com/gag/ae9jPnb)<!-- MEMES:END -->
+ - 😝 [When a bald eagle loses a feather, it will automatically shed the same feather on it\u2019s other side to maintain balance.](http://9gag.com/gag/a9ybZ6W)
+ - 😝 [Both are in for a rude awakening](http://9gag.com/gag/aoyEdj0)
+ - 💣 [When Ahmud used double the amount silveriodide](http://9gag.com/gag/a6ZmeBq)
+ - 😝 [A trapdoor guarding a suffocating treasure trove. Careless seekers die from entrapment in one of these.](http://9gag.com/gag/aRBwDdq)
+ - 👉 [All of her kids are trans lmao](http://9gag.com/gag/apREz7D)<!-- MEMES:END -->
 
 ---
 

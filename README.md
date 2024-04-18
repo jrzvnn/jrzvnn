@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When a bald eagle loses a feather, it will automatically shed the same feather on it\u2019s other side to maintain balance.](http://9gag.com/gag/a9ybZ6W)
- - 😝 [Both are in for a rude awakening](http://9gag.com/gag/aoyEdj0)
- - 💣 [When Ahmud used double the amount silveriodide](http://9gag.com/gag/a6ZmeBq)
- - 😝 [A trapdoor guarding a suffocating treasure trove. Careless seekers die from entrapment in one of these.](http://9gag.com/gag/aRBwDdq)
- - 👉 [All of her kids are trans lmao](http://9gag.com/gag/apREz7D)<!-- MEMES:END -->
+ - 😝 [Whaaaa.... the shi..](http://9gag.com/gag/a6Zmx2R)
+ - 😝 [Somewhere in museum](http://9gag.com/gag/aZZb4Rz)
+ - 💣 [Heroes](http://9gag.com/gag/agm3jM6)
+ - 😝 [All of her kids are trans lmao](http://9gag.com/gag/apREz7D)
+ - 👉 [An archaeologist has prepared a very nice video to raise awareness about why treasure hunters die.](http://9gag.com/gag/abAXdxv)<!-- MEMES:END -->
 
 ---
 

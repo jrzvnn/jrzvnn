@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What a nice looking horse](http://9gag.com/gag/aVvzB4y)
- - 😝 [Freaks of nature](http://9gag.com/gag/aByR4wP)
- - 💣 [Getting arrested already?](http://9gag.com/gag/aW4QRVq)
- - 😝 [Trump is on point](http://9gag.com/gag/ae9jRbB)
- - 👉 [During that time, she looked into his eyes with love\u2026](http://9gag.com/gag/amoNpoy)<!-- MEMES:END -->
+ - 😝 [And... you&#39;re blind](http://9gag.com/gag/a1mvOg2)
+ - 😝 [Took long enough.](http://9gag.com/gag/ayN7ZpV)
+ - 💣 [Deaf girl hears best friend\u2019s voice for the first time.](http://9gag.com/gag/aXP0RMd)
+ - 😝 [Such a kind friend](http://9gag.com/gag/amoNdLd)
+ - 👉 [This is going to be my new hobby\u2026](http://9gag.com/gag/azxg41m)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elgato has an attractive new Neo range for content creators &amp; streamers](https://appleinsider.com/articles/24/04/18/elgato-has-an-attractive-new-neo-range-for-content-creators-streamers?utm_medium=rss)
- - [Transformers One turns Cybertron’s greatest warriors into goofy youths in first trailer](https://www.theverge.com/24133094/transformers-one-trailer-animated-optimus-prime)
- - [Intel Foundry completes the assembly of the first commercial High-NA EUV chipmaking tool, a day after ASML set an EUV system record by printing 10nm dense lines &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240418/p18#a240418p18)
- - [Apple&#39;s iPhone recycling is a security nightmare for e-waste partners](https://appleinsider.com/articles/24/04/18/apples-iphone-recycling-is-a-security-nightmare-for-e-waste-partners?utm_medium=rss)
- - [Make robots hairy](https://www.theverge.com/2024/4/18/24133547/boston-dynamics-atlas-robot-hairy)<!-- TECH:END -->
+ - [8BitDo’s NES-inspired mechanical keyboard hits all-time low price](https://www.theverge.com/2024/4/18/24132948/amazon-8bitdo-retro-mechanical-keyboard-echo-buds-deal-sale)
+ - [Apple is making progress cleaning up its dirty supply chain](https://www.theverge.com/2024/4/18/24133897/apple-supply-chain-climate-emissions-environmental-progress-report)
+ - [Brave Search introduces Answer with AI, which shows answers synthesized from multiple sources for informational queries, appearing above organic search results &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240418/p19#a240418p19)
+ - [13 Best Coffee Grinders &lpar;2024&rpar;: Conical, Flat Burr, Blade, and Hand Grinders](https://www.wired.com/gallery/best-coffee-grinders/)
+ - [Elgato has an attractive new Neo range for content creators &amp; streamers](https://appleinsider.com/articles/24/04/18/elgato-has-an-attractive-new-neo-range-for-content-creators-streamers?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Heroes](http://9gag.com/gag/agm3jM6)
- - 😝 [And... you&#39;re blind](http://9gag.com/gag/a1mvOg2)
- - 💣 [An 81 old man, in Spain, found guilty after shooting to death an immigrant from Honduras who broke into his property. The immigrant had 45 previous criminal records.](http://9gag.com/gag/aE0vZ5p)
- - 😝 [What a nice looking horse](http://9gag.com/gag/aVvzB4y)
+ - 😝 [I bet this man is happier than 99% of people out there. Chicken fried steak should be schedule 1 drug, btw. So good...](http://9gag.com/gag/ae9jWr5)
+ - 😝 [Guys they did it](http://9gag.com/gag/aYQNZAq)
+ - 💣 [Getting arrested already?](http://9gag.com/gag/aW4QRVq)
+ - 😝 [Such a kind friend](http://9gag.com/gag/amoNdLd)
  - 👉 [Deaf girl hears best friend\u2019s voice for the first time.](http://9gag.com/gag/aXP0RMd)<!-- MEMES:END -->
 
 ---

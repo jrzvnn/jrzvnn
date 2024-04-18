@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [All of her kids are trans lmao](http://9gag.com/gag/apREz7D)
- - 😝 [When a bald eagle loses a feather, it will automatically shed the same feather on it\u2019s other side to maintain balance.](http://9gag.com/gag/a9ybZ6W)
- - 💣 [Such a kind friend](http://9gag.com/gag/amoNdLd)
- - 😝 [Lisan-al-wednesday](http://9gag.com/gag/aMV2yQR)
- - 👉 [What a nice looking horse](http://9gag.com/gag/aVvzB4y)<!-- MEMES:END -->
+ - 😝 [Crown Equality](http://9gag.com/gag/ae9jWpO)
+ - 😝 [Serious question for the Sicilians: Why do you do that everywhere on the island?](http://9gag.com/gag/ayN7VnW)
+ - 💣 [One of the mysteries of nature.](http://9gag.com/gag/axydmrn)
+ - 😝 [Blyateful](http://9gag.com/gag/aYQNR0m)
+ - 👉 [`Your thumb or mine?`](http://9gag.com/gag/aW4Q952)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple boasts that it has cut greenhouse gas emissions in half](https://appleinsider.com/articles/24/04/18/apple-boasts-that-it-has-cut-greenhouse-gas-emissions-in-half?utm_medium=rss)
+ - [GE Café Specialty Drip Coffee Maker Review: Only So-So](https://www.wired.com/review/ge-cafe-specialty-drip-coffee-maker/)
  - [Samsung shifts executives to six-day workweeks to ‘inject a sense of crisis’](https://www.theverge.com/2024/4/18/24133854/samsung-six-day-executive-workweeks-crisis-management)
  - [US court documents, mistakenly made public, reveal ByteDance and TikTok&#39;s complex origin story, spawning from GOP donor Jeff Yass&#39; failed real estate venture &lpar;New York Times&rpar;](http://www.techmeme.com/240418/p16#a240418p16)
- - [A new app is the surest sign that the Apple Vision Pro will launch in China very soon](https://appleinsider.com/articles/24/04/18/a-new-app-is-the-surest-sign-that-the-apple-vision-pro-will-launch-in-china-very-soon?utm_medium=rss)
- - [What It Will Take for Airchat to Take Flight](https://www.wired.com/story/gadget-lab-podcast-640/)
- - [Playdate has sold 150,000 games in the last year](https://www.theverge.com/2024/4/18/24133103/playdate-catalog-game-sales)<!-- TECH:END -->
+ - [A new app is the surest sign that the Apple Vision Pro will launch in China very soon](https://appleinsider.com/articles/24/04/18/a-new-app-is-the-surest-sign-that-the-apple-vision-pro-will-launch-in-china-very-soon?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

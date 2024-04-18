@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Getting arrested already?](http://9gag.com/gag/aW4QRVq)
  - 😝 [Big oof...](http://9gag.com/gag/aryv245)
- - 😝 [And... you&#39;re blind](http://9gag.com/gag/a1mvOg2)
  - 💣 [During that time, she looked into his eyes with love\u2026](http://9gag.com/gag/amoNpoy)
- - 😝 [Freaks of nature](http://9gag.com/gag/aByR4wP)
+ - 😝 [Stores are closing rapidly in NY and CA due to unchecked violent crime and lootings. Local authorities are now trying to sue and pass bills forcing businesses to stay open `for public interest`](http://9gag.com/gag/a2vzOZp)
  - 👉 [Name 1 thing you wish your boss would say to you](http://9gag.com/gag/awy0vz1)<!-- MEMES:END -->
 
 ---

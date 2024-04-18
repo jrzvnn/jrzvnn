@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What a nice looking horse](http://9gag.com/gag/aVvzB4y)
- - 😝 [Buddy didn&#39;t even graduate](http://9gag.com/gag/aMV2Oq1)
- - 💣 [Heroes](http://9gag.com/gag/agm3jM6)
- - 😝 [Peak male fantasy](http://9gag.com/gag/aByRj02)
+ - 😝 [Blyateful](http://9gag.com/gag/aYQNR0m)
+ - 😝 [Heroes](http://9gag.com/gag/agm3jM6)
+ - 💣 [Freaks of nature](http://9gag.com/gag/aByR4wP)
+ - 😝 [Deaf girl hears best friend\u2019s voice for the first time.](http://9gag.com/gag/aXP0RMd)
  - 👉 [She&#39;ll never be the same](http://9gag.com/gag/ayN7v3Y)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Huawei releases its Pura 70 series, available for ~$760 to ~$1,380; reviewers show high-end models have a Kirin 9010 chip, an update to the Mate 60 Pro&#39;s 9000s &lpar;Bloomberg&rpar;](http://www.techmeme.com/240418/p6#a240418p6)
+ - [Senate Democrats urge crackdown on autonomous vehicles and driver assist](https://www.theverge.com/2024/4/18/24133448/autonomous-vehicles-adas-blumenthal-markey-nhtsa)
  - [Document: Microsoft added 500+ megawatts of data center capacity since July 2023 and topped five gigawatts of total capacity in the H1 of its latest fiscal year &lpar;Eugene Kim/Business Insider&rpar;](http://www.techmeme.com/240418/p5#a240418p5)
  - [How one author gained a limited copyright for the &quot;selection, coordination, and arrangement of text&quot; from AI, as the US Copyright Office wrestles with AI law &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/240418/p4#a240418p4)
- - [Crypto miners are stockpiling bitcoins ahead of the halving on April 20; TheMinerMag: Marathon Digital, CleanSpark, and Bitfarms hoarded ~$2B worth of bitcoins &lpar;Scott Chipolina/Financial Times&rpar;](http://www.techmeme.com/240418/p3#a240418p3)
- - [TSMC reports Q1 revenue up 16.5% YoY to ~$18.87B, vs. ~$18B est., net income up 8.9% YoY to ~$6.97B, vs. ~$6.6B est., and expects strong AI chip demand in Q2 &lpar;Sheila Chiang/CNBC&rpar;](http://www.techmeme.com/240418/p2#a240418p2)
- - [An experiment with LLMs: the tools are helpful in mundane ways but users can&#39;t build a hundred-billion-dollar industry around a technology that&#39;s kind of useful &lpar;Molly White/Citation Needed&rpar;](http://www.techmeme.com/240418/p1#a240418p1)<!-- TECH:END -->
+ - [Can Dogs Eat Cicadas? Here&#39;s What to Know     - CNET](https://www.cnet.com/home/kitchen-and-household/can-dogs-eat-cicadas-heres-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

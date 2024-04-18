@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [And... you&#39;re blind](http://9gag.com/gag/a1mvOg2)
- - 😝 [Took long enough.](http://9gag.com/gag/ayN7ZpV)
- - 💣 [Deaf girl hears best friend\u2019s voice for the first time.](http://9gag.com/gag/aXP0RMd)
- - 😝 [Such a kind friend](http://9gag.com/gag/amoNdLd)
- - 👉 [This is going to be my new hobby\u2026](http://9gag.com/gag/azxg41m)<!-- MEMES:END -->
+ - 😝 [Deaf girl hears best friend\u2019s voice for the first time.](http://9gag.com/gag/aXP0RMd)
+ - 💣 [Such a kind friend](http://9gag.com/gag/amoNdLd)
+ - 😝 [This is going to be my new hobby\u2026](http://9gag.com/gag/azxg41m)
+ - 👉 [During that time, she looked into his eyes with love\u2026](http://9gag.com/gag/amoNpoy)<!-- MEMES:END -->
 
 ---
 

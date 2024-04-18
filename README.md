@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And... you&#39;re blind](http://9gag.com/gag/a1mvOg2)
- - 😝 [What a nice looking horse](http://9gag.com/gag/aVvzB4y)
- - 💣 [She&#39;ll never be the same](http://9gag.com/gag/ayN7v3Y)
- - 😝 [Trump is on point](http://9gag.com/gag/ae9jRbB)
- - 👉 [Guys they did it](http://9gag.com/gag/aYQNZAq)<!-- MEMES:END -->
+ - 😝 [Peak male fantasy](http://9gag.com/gag/aByRj02)
+ - 😝 [Enjoying summer like](http://9gag.com/gag/aByR44D)
+ - 💣 [\u201cThe nail that sticks out will be hammered down. \u201c](http://9gag.com/gag/ae9jPnb)
+ - 😝 [Davy Jones Deleted Scene](http://9gag.com/gag/a5Qey2o)
+ - 👉 [Both are in for a rude awakening](http://9gag.com/gag/aoyEdj0)<!-- MEMES:END -->
 
 ---
 

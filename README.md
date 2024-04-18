@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rad Power Bikes Radster Road Review: Safety First](https://www.wired.com/review/rad-power-bikes-radster-road/)
+ - [Netflix’s The Witcher will end with season 5](https://www.theverge.com/2024/4/18/24134057/netflix-the-witcher-season-5-end)
  - [Meta details Llama 3: 8B or 70B parameters and a focus on reducing false refusals; an upcoming large Llama 3 model trained on 15T tokens and has 400B parameters &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240418/p24#a240418p24)
- - [Meta plans to add its Meta AI chatbot to Instagram, WhatsApp, Messenger, and Facebook in the US and 12+ other countries, and announces two Llama 3 models &lpar;New York Times&rpar;](http://www.techmeme.com/240418/p23#a240418p23)
- - [Everything you need to know about Disney, ESPN, and Bob Iger’s return as CEO](https://www.theverge.com/2024/4/18/24120911/disney-plus-streaming-espn-mcu-star-wars)
- - [TSMC says the April 3 Taiwan earthquake caused an estimated losses of $92.44M to the company in Q2; there were no power outages or structural damage to its fabs &lpar;Reuters&rpar;](http://www.techmeme.com/240418/p22#a240418p22)
- - [TikTok divest-or-ban legislation could suddenly be fast-tracked in the Senate](https://www.theverge.com/2024/4/18/24133975/tiktok-divest-ban-bill-foreign-aid-package-house-senate)<!-- TECH:END -->
+ - [Meta plans to add its Meta AI chatbot to Instagram, WhatsApp, Messenger, and Facebook in 12+ countries, expanding on the US, powered by its new Llama 3 models &lpar;New York Times&rpar;](http://www.techmeme.com/240418/p23#a240418p23)
+ - [Everything you need to know about Disney, ESPN, and Bob Iger’s return as CEO](https://www.theverge.com/2024/4/18/24120911/disney-plus-streaming-espn-mcu-star-wars)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

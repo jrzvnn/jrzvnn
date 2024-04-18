@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Looks like Weird Al](http://9gag.com/gag/a5QeyNG)
- - 😝 [An 81 old man, in Spain, found guilty after shooting to death an immigrant from Honduras who broke into his property. The immigrant had 45 previous criminal records.](http://9gag.com/gag/aE0vZ5p)
- - 💣 [It&#39;s not dumb if it works](http://9gag.com/gag/a9ybNM0)
- - 😝 [Can anyone provide an answer?](http://9gag.com/gag/avypDVO)
+ - 😝 [2 pit bulls torn apart woman&#39;s car trying to eat cat](http://9gag.com/gag/awy08M8)
+ - 😝 [What Should i do](http://9gag.com/gag/a6ZmpWe)
+ - 💣 [Which door you choose](http://9gag.com/gag/a6Zmjwm)
+ - 😝 [Google interns arrested for occupying senior office to demand Google severe all ties with Israel](http://9gag.com/gag/aByRvPQ)
  - 👉 [Name 1 thing you wish your boss would say to you](http://9gag.com/gag/awy0vz1)<!-- MEMES:END -->
 
 ---

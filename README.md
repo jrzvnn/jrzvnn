@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [To help win an iPhone antitrust suit, Apple is again demanding commission data from Valve](https://appleinsider.com/articles/24/04/18/to-help-win-an-iphone-antitrust-suit-apple-is-again-demanding-commission-data-from-valve?utm_medium=rss)
- - [Twitch plans to roll out its TikTok-style discovery feed later in April, letting users scroll clips and livestreams, after testing the feature for a year &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240418/p10#a240418p10)
- - [Tim Cook visits Singapore as Apple invests $250 million](https://appleinsider.com/articles/24/04/18/tim-cook-visits-singapore-as-apple-invests-250-million?utm_medium=rss)
- - [An interview with Reddit Chief Product Officer Pali Bhat on the company&#39;s roadmap: faster load times, new moderator and developer tools, and AI translation &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/240418/p9#a240418p9)
- - [The Rise of the Carbon Farmer](https://www.wired.com/story/carbon-farming-regenerative-agriculture/)<!-- TECH:END -->
+ - [Investigation: Amazon sells ~$1M per year in goods on eBay, Shopify, Walmart, and Amazon via its &quot;Big River&quot; arm, to get data on pricing, logistics, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240418/p11#a240418p11)
+ - [Nothing Ear and Nothing Ear &lpar;a&rpar; Review: Third Time, Still Charming](https://www.wired.com/review/nothing-ear-nothing-ear-a/)
+ - [ChatGPT is coming to Nothing’s earbuds](https://www.theverge.com/2024/4/18/24133813/nothing-chatgpt-ai-integration-announced)
+ - [Nothing’s new earbuds prove that it can &lpar;mostly&rpar; hang with the heavyweights](https://www.theverge.com/2024/4/18/24133464/nothing-ear-a-specs-price-hands-on)
+ - [To help win an iPhone antitrust suit, Apple is again demanding commission data from Valve](https://appleinsider.com/articles/24/04/18/to-help-win-an-iphone-antitrust-suit-apple-is-again-demanding-commission-data-from-valve?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Crown Equality](http://9gag.com/gag/ae9jWpO)
- - 😝 [Serious question for the Sicilians: Why do you do that everywhere on the island?](http://9gag.com/gag/ayN7VnW)
- - 💣 [One of the mysteries of nature.](http://9gag.com/gag/axydmrn)
- - 😝 [Blyateful](http://9gag.com/gag/aYQNR0m)
- - 👉 [`Your thumb or mine?`](http://9gag.com/gag/aW4Q952)<!-- MEMES:END -->
+ - 😝 [You\u2019re gonna need some aloe for that burn\u2026..](http://9gag.com/gag/an7q0QV)
+ - 😝 [Drowning in a Flood of Pink Balloons at the Mall](http://9gag.com/gag/azxgQWK)
+ - 💣 [What a nice looking horse](http://9gag.com/gag/aVvzB4y)
+ - 😝 [Guys they did it](http://9gag.com/gag/aYQNZAq)
+ - 👉 [Loll](http://9gag.com/gag/aQzPBmW)<!-- MEMES:END -->
 
 ---
 

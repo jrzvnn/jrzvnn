@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Sainte-Catherine store will move to a new location down the street](https://appleinsider.com/articles/24/04/18/apple-sainte-catherine-store-will-move-to-a-new-location-down-the-street?utm_medium=rss)
  - [Meta claims both Llama 3 models beat similarly sized models like Gemini, Mistral, and Claude 3 in certain benchmarks; humans marked Llama 3 higher than GPT-3.5 &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240418/p30#a240418p30)
  - [Senate advances vote on reauthorizing warrantless surveillance program](https://www.theverge.com/2024/4/18/24134196/senate-cloture-vote-fisa-section-702-surveillance)
  - [A US jury finds Avraham Eisenberg, a crypto trader who stole $110M on the Mango Markets exchange in 2022, guilty of fraud despite his &quot;code is law&quot; claim &lpar;Crystal Kim/Axios&rpar;](http://www.techmeme.com/240418/p29#a240418p29)
- - [The Trump Jury Has a Doxing Problem](https://www.wired.com/story/the-trump-jury-has-a-doxing-problem/)
- - [Your Happy Hacking Keyboard deserves some fresh caps](https://www.theverge.com/2024/4/18/24132042/ursa-topre-keyboard-keycaps-happy-hacking)<!-- TECH:END -->
+ - [The Trump Jury Has a Doxing Problem](https://www.wired.com/story/the-trump-jury-has-a-doxing-problem/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

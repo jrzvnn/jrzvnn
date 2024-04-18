@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Both are in for a rude awakening](http://9gag.com/gag/aoyEdj0)
- - 😝 [We&#39;re just tiny fishes.](http://9gag.com/gag/aryvrbp)
- - 💣 [Buddy didn&#39;t even graduate](http://9gag.com/gag/aMV2Oq1)
+ - 😝 [What a nice looking horse](http://9gag.com/gag/aVvzB4y)
+ - 😝 [Freaks of nature](http://9gag.com/gag/aByR4wP)
+ - 💣 [Getting arrested already?](http://9gag.com/gag/aW4QRVq)
  - 😝 [Trump is on point](http://9gag.com/gag/ae9jRbB)
- - 👉 [And... you&#39;re blind](http://9gag.com/gag/a1mvOg2)<!-- MEMES:END -->
+ - 👉 [During that time, she looked into his eyes with love\u2026](http://9gag.com/gag/amoNpoy)<!-- MEMES:END -->
 
 ---
 

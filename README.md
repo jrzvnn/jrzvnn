@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Heroes](http://9gag.com/gag/agm3jM6)
- - 😝 [LOTR but only the scenes where two female characters speak with each other](http://9gag.com/gag/apREzrp)
- - 💣 [Word](http://9gag.com/gag/aD2APAx)
- - 😝 [A perfect night for the time of our lives](http://9gag.com/gag/a6Zm3GN)
- - 👉 [N is for this Nice meme that should never die](http://9gag.com/gag/a5Qev7o)<!-- MEMES:END -->
+ - 😝 [She&#39;ll never be the same](http://9gag.com/gag/ayN7v3Y)
+ - 😝 [A trapdoor guarding a suffocating treasure trove. Careless seekers die from entrapment in one of these.](http://9gag.com/gag/aRBwDdq)
+ - 💣 [Getting arrested already?](http://9gag.com/gag/aW4QRVq)
+ - 😝 [This is going to be my new hobby\u2026](http://9gag.com/gag/azxg41m)
+ - 👉 [Freaks of nature](http://9gag.com/gag/aByR4wP)<!-- MEMES:END -->
 
 ---
 

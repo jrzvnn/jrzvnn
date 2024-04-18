@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Senate advances vote on reauthorizing warrantless surveillance program](https://www.theverge.com/2024/4/18/24134196/senate-cloture-vote-fisa-section-702-surveillance)
+ - [A US jury finds Avraham Eisenberg, a crypto trader who stole $110M on the Mango Markets exchange in 2022, guilty of fraud despite his &quot;code is law&quot; claim &lpar;Crystal Kim/Axios&rpar;](http://www.techmeme.com/240418/p29#a240418p29)
  - [The Trump Jury Has a Doxing Problem](https://www.wired.com/story/the-trump-jury-has-a-doxing-problem/)
  - [Your Happy Hacking Keyboard deserves some fresh caps](https://www.theverge.com/2024/4/18/24132042/ursa-topre-keyboard-keycaps-happy-hacking)
- - [All the news on Qi2 wireless charging](https://www.theverge.com/24134055/qi2-wireless-charging-apple-android-anker-mophie-belkin)
- - [Short-form video app Triller is merging with Hong Kong financial services company AGBA; Triller shareholders will own 80% of the combined company valued at $4B &lpar;Daniel Tencer/Music Business Worldwide&rpar;](http://www.techmeme.com/240418/p28#a240418p28)
- - [Meta says Llama 3 beats most other models, including Gemini](https://www.theverge.com/2024/4/18/24134103/llama-3-benchmark-testing-ai-gemma-gemini-mistral)<!-- TECH:END -->
+ - [All the news on Qi2 wireless charging](https://www.theverge.com/24134055/qi2-wireless-charging-apple-android-anker-mophie-belkin)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

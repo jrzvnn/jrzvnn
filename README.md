@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Deaf girl hears best friend\u2019s voice for the first time.](http://9gag.com/gag/aXP0RMd)
- - 😝 [If you know these buildings you had an awesome childhood.](http://9gag.com/gag/aQzPOGd)
- - 💣 [Buddy didn&#39;t even graduate](http://9gag.com/gag/aMV2Oq1)
- - 😝 [Felt that?](http://9gag.com/gag/a34PNwr)
- - 👉 [Such a kind friend](http://9gag.com/gag/amoNdLd)<!-- MEMES:END -->
+ - 😝 [2 pit bulls torn apart woman&#39;s car trying to eat cat](http://9gag.com/gag/awy08M8)
+ - 😝 [Scrubs reunion. i see Turk made a move and changed a lot to be JD&#39;s best partner.](http://9gag.com/gag/aE0vODK)
+ - 💣 [This is how pros do it.](http://9gag.com/gag/aRBwONy)
+ - 😝 [Even china&#39;s marathon winners are fake](http://9gag.com/gag/aQzPVZq)
+ - 👉 [Heroes](http://9gag.com/gag/agm3jM6)<!-- MEMES:END -->
 
 ---
 

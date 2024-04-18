@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [And... you&#39;re blind](http://9gag.com/gag/a1mvOg2)
  - 😝 [Guys they did it](http://9gag.com/gag/aYQNZAq)
- - 😝 [An 81 old man, in Spain, found guilty after shooting to death an immigrant from Honduras who broke into his property. The immigrant had 45 previous criminal records.](http://9gag.com/gag/aE0vZ5p)
  - 💣 [Loll](http://9gag.com/gag/aQzPBmW)
- - 😝 [Such a kind friend](http://9gag.com/gag/amoNdLd)
+ - 😝 [Getting arrested already?](http://9gag.com/gag/aW4QRVq)
  - 👉 [A trapdoor guarding a suffocating treasure trove. Careless seekers die from entrapment in one of these.](http://9gag.com/gag/aRBwDdq)<!-- MEMES:END -->
 
 ---

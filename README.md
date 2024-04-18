@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [An 81 old man, in Spain, found guilty after shooting to death an immigrant from Honduras who broke into his property. The immigrant had 45 previous criminal records.](http://9gag.com/gag/aE0vZ5p)
- - 😝 [Looks like Weird Al](http://9gag.com/gag/a5QeyNG)
- - 💣 [It&#39;s not dumb if it works](http://9gag.com/gag/a9ybNM0)
- - 😝 [Another life gone](http://9gag.com/gag/aZZbd19)
- - 👉 [Heroes](http://9gag.com/gag/agm3jM6)<!-- MEMES:END -->
+ - 😝 [What a nice looking horse](http://9gag.com/gag/aVvzB4y)
+ - 😝 [Protester pretends to be in pain as police remove him from the device blocking road. Fellow supporters scream police brutality as they film totally unedited videos of him to upload on social media and the news.](http://9gag.com/gag/aVvz1jv)
+ - 💣 [Another life gone](http://9gag.com/gag/aZZbd19)
+ - 😝 [Hooman takes a break and animals come check on her. Treat ur animals right, they are our friends](http://9gag.com/gag/aLnRN4A)
+ - 👉 [An 81 old man, in Spain, found guilty after shooting to death an immigrant from Honduras who broke into his property. The immigrant had 45 previous criminal records.](http://9gag.com/gag/aE0vZ5p)<!-- MEMES:END -->
 
 ---
 

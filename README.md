@@ -179,7 +179,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - 😝 [What Should i do](http://9gag.com/gag/a6ZmpWe)
  - 💣 [Which door you choose](http://9gag.com/gag/a6Zmjwm)
  - 😝 [Google interns arrested for occupying senior office to demand Google severe all ties with Israel](http://9gag.com/gag/aByRvPQ)
- - 👉 [Name 1 thing you wish your boss would say to you](http://9gag.com/gag/awy0vz1)<!-- MEMES:END -->
+ - 👉 [Deaf girl hears best friend\u2019s voice for the first time.](http://9gag.com/gag/aXP0RMd)<!-- MEMES:END -->
 
 ---
 

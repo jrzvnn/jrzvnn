@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I bet this man is happier than 99% of people out there. Chicken fried steak should be schedule 1 drug, btw. So good...](http://9gag.com/gag/ae9jWr5)
+ - 😝 [Heroes](http://9gag.com/gag/agm3jM6)
  - 😝 [Guys they did it](http://9gag.com/gag/aYQNZAq)
- - 💣 [Getting arrested already?](http://9gag.com/gag/aW4QRVq)
- - 😝 [Such a kind friend](http://9gag.com/gag/amoNdLd)
- - 👉 [Deaf girl hears best friend\u2019s voice for the first time.](http://9gag.com/gag/aXP0RMd)<!-- MEMES:END -->
+ - 💣 [Such a kind friend](http://9gag.com/gag/amoNdLd)
+ - 😝 [Getting arrested already?](http://9gag.com/gag/aW4QRVq)
+ - 👉 [Crown Equality](http://9gag.com/gag/ae9jWpO)<!-- MEMES:END -->
 
 ---
 

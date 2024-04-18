@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Digital marketing software company Ibotta closes up 17% at $103.25 per share in its trading debut, after raising ~$577.3M in an IPO priced above marketed range &lpar;Bloomberg&rpar;](http://www.techmeme.com/240418/p35#a240418p35)
+ - [The Meta Quest 2 gets a permanent price cut to $199](https://www.theverge.com/2024/4/18/24134379/meta-quest-2-199-dollars-permanent-price-cut)
  - [Google says it will consolidate teams that focus on building AI models across Research and DeepMind, and move its Responsible AI teams in Research to DeepMind &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/240418/p34#a240418p34)
  - [We Finally Know Where Neuralink’s Brain Implant Trial Is Happening](https://www.wired.com/story/neuralink-brain-implant-study-site/)
- - [The Best Pillows for Side Sleepers in 2024     - CNET](https://www.cnet.com/health/sleep/best-pillow-for-side-sleepers/#ftag=CAD590a51e)
- - [Meta AI Tool Now Driven by New, More Powerful Llama 3 Model, Meta Says     - CNET](https://www.cnet.com/tech/services-and-software/meta-ai-tool-now-driven-by-new-more-powerful-llama-3-model-meta-says/#ftag=CAD590a51e)
- - [Best AirPods Pro 2 Deals: Save Up to $60 Off Apple&#39;s Best Wireless Earbuds     - CNET](https://www.cnet.com/deals/best-airpods-pro-2nd-generation-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Pillows for Side Sleepers in 2024     - CNET](https://www.cnet.com/health/sleep/best-pillow-for-side-sleepers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

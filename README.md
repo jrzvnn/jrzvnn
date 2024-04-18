@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spend management startup Ramp raised a $150M Series D extension at a $7.65B valuation, up from $5.8B after raising $300M in 2023 but down from $8.1B in 2022 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240418/p17#a240418p17)
- - [Apple boasts that it has cut greenhouse gas emissions in half](https://appleinsider.com/articles/24/04/18/apple-boasts-that-it-has-cut-greenhouse-gas-emissions-in-half?utm_medium=rss)
- - [GE Café Specialty Drip Coffee Maker Review: Only So-So](https://www.wired.com/review/ge-cafe-specialty-drip-coffee-maker/)
- - [Samsung shifts executives to six-day workweeks to ‘inject a sense of crisis’](https://www.theverge.com/2024/4/18/24133854/samsung-six-day-executive-workweeks-crisis-management)
- - [US court documents, mistakenly made public, reveal ByteDance and TikTok&#39;s complex origin story, spawning from GOP donor Jeff Yass&#39; failed real estate venture &lpar;New York Times&rpar;](http://www.techmeme.com/240418/p16#a240418p16)<!-- TECH:END -->
+ - [Adobe Express mobile app for iOS ships with Firefly generative AI smarts](https://appleinsider.com/articles/24/04/18/adobe-express-mobile-app-for-ios-ships-with-firefly-generative-ai-smarts?utm_medium=rss)
+ - [LG MyView Smart Monitor &lpar;32SR85U-W&rpar; Review: A Fun 2-In-1 Screen](https://www.wired.com/review/lg-myview-smart-monitor-32sr85u-w/)
+ - [Chevy Silverado EV turns into a mobile generator with GM’s new home energy bundle](https://www.theverge.com/2024/4/18/24133181/gm-energy-v2h-bundle-cost-ev-bidirectional)
+ - [Elgato won over creators — its new Neo line is for everyone else](https://www.theverge.com/2024/4/18/24132766/elgato-neo-family-devices-stream-deck)
+ - [Spend management startup Ramp raised a $150M Series D extension at a $7.65B valuation, up from $5.8B after raising $300M in 2023 but down from $8.1B in 2022 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240418/p17#a240418p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

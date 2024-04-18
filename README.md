@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Peak male fantasy](http://9gag.com/gag/aByRj02)
- - 😝 [Enjoying summer like](http://9gag.com/gag/aByR44D)
- - 💣 [\u201cThe nail that sticks out will be hammered down. \u201c](http://9gag.com/gag/ae9jPnb)
- - 😝 [Davy Jones Deleted Scene](http://9gag.com/gag/a5Qey2o)
- - 👉 [Both are in for a rude awakening](http://9gag.com/gag/aoyEdj0)<!-- MEMES:END -->
+ - 😝 [All of her kids are trans lmao](http://9gag.com/gag/apREz7D)
+ - 😝 [The family of an 11-year-old girl is suing for $20million after she fell critically ill with hemolytic uremic syndrome after eating at a Wendy\u2019s in Michigan.](http://9gag.com/gag/aO8Kpgv)
+ - 💣 [Your profile photo vs. you irl](http://9gag.com/gag/aryvzwd)
+ - 😝 [This is going to be my new hobby\u2026](http://9gag.com/gag/azxg41m)
+ - 👉 [One of the mysteries of nature.](http://9gag.com/gag/axydmrn)<!-- MEMES:END -->
 
 ---
 

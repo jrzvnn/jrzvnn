@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sudden temperature change in just one day.](http://9gag.com/gag/abAXdbp)
- - 😝 [Science b!tch](http://9gag.com/gag/aryvDBB)
- - 💣 [A trapdoor guarding a suffocating treasure trove. Careless seekers die from entrapment in one of these.](http://9gag.com/gag/aRBwDdq)
- - 😝 [We&#39;re just tiny fishes.](http://9gag.com/gag/aryvrbp)
- - 👉 [An archaeologist has prepared a very nice video to raise awareness about why treasure hunters die.](http://9gag.com/gag/abAXdxv)<!-- MEMES:END -->
+ - 😝 [Such a kind friend](http://9gag.com/gag/amoNdLd)
+ - 😝 [Both are in for a rude awakening](http://9gag.com/gag/aoyEdj0)
+ - 💣 [What a nice looking horse](http://9gag.com/gag/aVvzB4y)
+ - 😝 [You\u2019re gonna need some aloe for that burn\u2026..](http://9gag.com/gag/an7q0QV)
+ - 👉 [A trapdoor guarding a suffocating treasure trove. Careless seekers die from entrapment in one of these.](http://9gag.com/gag/aRBwDdq)<!-- MEMES:END -->
 
 ---
 

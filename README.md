@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon’s Fallout has been renewed for season 2](https://www.theverge.com/2024/4/18/24134412/fallout-season-2-amazon-prime-video)
  - [NASA Confirms Where the Space Junk That Hit a Florida House Came From](https://www.wired.com/story/space-junk-international-space-station-florida-house-confirmred/)
  - [AR shopping gets a boost with Best Buy&#39;s Apple Vision Pro app](https://appleinsider.com/articles/24/04/18/ar-shopping-gets-a-boost-with-best-buys-apple-vision-pro-app?utm_medium=rss)
  - [Digital marketing software company Ibotta closes up 17% at $103.25 per share in its trading debut, after raising ~$577.3M in an IPO priced above marketed range &lpar;Bloomberg&rpar;](http://www.techmeme.com/240418/p35#a240418p35)
- - [The Meta Quest 2 gets a permanent price cut to $199](https://www.theverge.com/2024/4/18/24134379/meta-quest-2-199-dollars-permanent-price-cut)
- - [Best Internet Providers in Franklin, Tennessee     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-franklin-tn/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Meta Quest 2 gets a permanent price cut to $199](https://www.theverge.com/2024/4/18/24134379/meta-quest-2-199-dollars-permanent-price-cut)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

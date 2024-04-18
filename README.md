@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [All of her kids are trans lmao](http://9gag.com/gag/apREz7D)
- - 😝 [The family of an 11-year-old girl is suing for $20million after she fell critically ill with hemolytic uremic syndrome after eating at a Wendy\u2019s in Michigan.](http://9gag.com/gag/aO8Kpgv)
- - 💣 [Your profile photo vs. you irl](http://9gag.com/gag/aryvzwd)
- - 😝 [This is going to be my new hobby\u2026](http://9gag.com/gag/azxg41m)
- - 👉 [One of the mysteries of nature.](http://9gag.com/gag/axydmrn)<!-- MEMES:END -->
+ - 😝 [Guys they did it](http://9gag.com/gag/aYQNZAq)
+ - 😝 [An 81 old man, in Spain, found guilty after shooting to death an immigrant from Honduras who broke into his property. The immigrant had 45 previous criminal records.](http://9gag.com/gag/aE0vZ5p)
+ - 💣 [A trapdoor guarding a suffocating treasure trove. Careless seekers die from entrapment in one of these.](http://9gag.com/gag/aRBwDdq)
+ - 😝 [Loll](http://9gag.com/gag/aQzPBmW)
+ - 👉 [This is going to be my new hobby\u2026](http://9gag.com/gag/azxg41m)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Getting arrested already?](http://9gag.com/gag/aW4QRVq)
+ - 😝 [Freaks of nature](http://9gag.com/gag/aByR4wP)
+ - 😝 [Deaf girl hears best friend\u2019s voice for the first time.](http://9gag.com/gag/aXP0RMd)
+ - 💣 [She&#39;ll never be the same](http://9gag.com/gag/ayN7v3Y)
  - 😝 [Such a kind friend](http://9gag.com/gag/amoNdLd)
- - 💣 [Freaks of nature](http://9gag.com/gag/aByR4wP)
- - 😝 [Heroes](http://9gag.com/gag/agm3jM6)
- - 👉 [I can see two differences](http://9gag.com/gag/aQzPOzW)<!-- MEMES:END -->
+ - 👉 [Getting arrested already?](http://9gag.com/gag/aW4QRVq)<!-- MEMES:END -->
 
 ---
 

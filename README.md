@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: cloud security startup Wiz is in advanced talks to acquire competitor Lacework for $150M-$200M; Lacework raised $1.8B and was valued at $8.3B in 2021 &lpar;The Information&rpar;](http://www.techmeme.com/240418/p25#a240418p25)
  - [Meta is adding real-time AI image generation to WhatsApp](https://www.theverge.com/2024/4/18/24134079/meta-real-time-ai-image-generation-whatsapp)
+ - [The 6 Best Handheld Gaming Consoles &lpar;2024&rpar;: Switch, Steam Deck, and More](https://www.wired.com/gallery/best-gaming-handhelds/)
  - [Tesla&#39;s Layoffs Won&#39;t Solve Its Growing Pains](https://www.wired.com/story/tesla-robotaxi-pivot-china/)
- - [The future of the Xbox looks a lot like a PC](https://www.theverge.com/2024/4/18/24123318/microsoft-next-xbox-pc-future)
- - [Exploit seller wants $2 million for a zero-day iMessage attack vector that probably doesn&#39;t exist](https://appleinsider.com/articles/24/04/18/exploit-seller-wants-2-million-for-a-zero-day-imessage-attack-vector-that-probably-doesnt-exist?utm_medium=rss)
- - [Rad Power Bikes Radster Road Review: Safety First](https://www.wired.com/review/rad-power-bikes-radster-road/)<!-- TECH:END -->
+ - [The future of the Xbox looks a lot like a PC](https://www.theverge.com/2024/4/18/24123318/microsoft-next-xbox-pc-future)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

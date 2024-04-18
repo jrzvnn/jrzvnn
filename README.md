@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Europol, law enforcement in 19 countries, Microsoft, and others disrupt phishing-as-a-service platform LabHost in a year-long operation and make 37 arrests &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240418/p15#a240418p15)
  - [Nothing unveils the $149 Nothing Ear and $99 Nothing Ear &lpar;a&rpar;, offering improved sound, personalization, and battery life; Nothing plans to integrate ChatGPT &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240418/p14#a240418p14)
  - [TSMC CEO CC Wei says the company plans to charge customers more for making chips outside of Taiwan, citing a &quot;fragmented globalization environment&quot; &lpar;Kathrin Hille/Financial Times&rpar;](http://www.techmeme.com/240418/p13#a240418p13)
  - [Donald Trump Is &#39;Seriously Considering&#39; Jake Paul&#39;s Fight Invite](https://www.wired.com/story/donald-trump-jake-paul-fight-invite/)
- - [Tim Cook visits Singapore as Apple invests in a $250 million AI campus expansion](https://appleinsider.com/articles/24/04/18/tim-cook-visits-singapore-as-apple-invests-250-million?utm_medium=rss)
- - [A look at Apple&#39;s iPhone recycling, including shredding robots, and contractor GEEP, which Apple sued in 2020 for $22.6M in a case that has since been inactive &lpar;Austin Carr/Bloomberg&rpar;](http://www.techmeme.com/240418/p12#a240418p12)<!-- TECH:END -->
+ - [Tim Cook visits Singapore as Apple invests in a $250 million AI campus expansion](https://appleinsider.com/articles/24/04/18/tim-cook-visits-singapore-as-apple-invests-250-million?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

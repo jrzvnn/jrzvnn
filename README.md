@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta cuts the price of the base 128GB Quest 2 from $249 to $199, its second permanent price cut in four months, after a drop from $299 to $249 in January &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/240418/p33#a240418p33)
- - [Netflix is all about the money, not the members](https://www.theverge.com/2024/4/18/24134217/netflix-earnings-q1-2024-subscriber-count)
- - [New HomePod part leak shows off glossy display cover](https://appleinsider.com/articles/24/04/18/new-homepod-part-leak-shows-off-glossy-display-cover?utm_medium=rss)
- - [Free COVID Home Test Kits Are Still Available: Here&#39;s How to Get Them     - CNET](https://www.cnet.com/health/free-covid-home-test-kits-are-still-available-heres-how-to-get-them/#ftag=CAD590a51e)
- - [New Jersey Solar Panel Incentives: Net Metering, Tax Breaks and More     - CNET](https://www.cnet.com/home/energy-and-utilities/new-jersey-solar-panel-incentives-net-metering-tax-breaks-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [We Finally Know Where Neuralink’s Brain Implant Trial Is Happening](https://www.wired.com/story/neuralink-brain-implant-study-site/)
+ - [The Best Pillows for Side Sleepers in 2024     - CNET](https://www.cnet.com/health/sleep/best-pillow-for-side-sleepers/#ftag=CAD590a51e)
+ - [Meta AI Tool Now Driven by New, More Powerful Llama 3 Model, Meta Says     - CNET](https://www.cnet.com/tech/services-and-software/meta-ai-tool-now-driven-by-new-more-powerful-llama-3-model-meta-says/#ftag=CAD590a51e)
+ - [Best AirPods Pro 2 Deals: Save Up to $60 Off Apple&#39;s Best Wireless Earbuds     - CNET](https://www.cnet.com/deals/best-airpods-pro-2nd-generation-deals/#ftag=CAD590a51e)
+ - [Another Tough Week for Mortgage Rates: Today&#39;s Mortgage Rates on April 18, 2024     - CNET](https://www.cnet.com/personal-finance/mortgage-rates-go-up-for-homeseekers-todays-mortgage-rates-on-april-18-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spend management startup Ramp raised a $150M Series D extension at a $7.65B valuation, up from $5.8B after raising $300M in 2023 but down from $8.1B in 2022 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240418/p17#a240418p17)
  - [Apple boasts that it has cut greenhouse gas emissions in half](https://appleinsider.com/articles/24/04/18/apple-boasts-that-it-has-cut-greenhouse-gas-emissions-in-half?utm_medium=rss)
  - [GE Café Specialty Drip Coffee Maker Review: Only So-So](https://www.wired.com/review/ge-cafe-specialty-drip-coffee-maker/)
  - [Samsung shifts executives to six-day workweeks to ‘inject a sense of crisis’](https://www.theverge.com/2024/4/18/24133854/samsung-six-day-executive-workweeks-crisis-management)
- - [US court documents, mistakenly made public, reveal ByteDance and TikTok&#39;s complex origin story, spawning from GOP donor Jeff Yass&#39; failed real estate venture &lpar;New York Times&rpar;](http://www.techmeme.com/240418/p16#a240418p16)
- - [A new app is the surest sign that the Apple Vision Pro will launch in China very soon](https://appleinsider.com/articles/24/04/18/a-new-app-is-the-surest-sign-that-the-apple-vision-pro-will-launch-in-china-very-soon?utm_medium=rss)<!-- TECH:END -->
+ - [US court documents, mistakenly made public, reveal ByteDance and TikTok&#39;s complex origin story, spawning from GOP donor Jeff Yass&#39; failed real estate venture &lpar;New York Times&rpar;](http://www.techmeme.com/240418/p16#a240418p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

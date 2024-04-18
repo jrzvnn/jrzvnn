@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [After watching Transformers One trailer \u2026](http://9gag.com/gag/aD2Aq3d)
- - 😝 [A trapdoor guarding a suffocating treasure trove. Careless seekers die from entrapment in one of these.](http://9gag.com/gag/aRBwDdq)
- - 💣 [Getting arrested already?](http://9gag.com/gag/aW4QRVq)
- - 😝 [Heroes](http://9gag.com/gag/agm3jM6)
- - 👉 [Another day](http://9gag.com/gag/aQzPy0K)<!-- MEMES:END -->
+ - 😝 [Cleaning keyboard mode](http://9gag.com/gag/a7oLPAe)
+ - 😝 [All of her kids are trans lmao](http://9gag.com/gag/apREz7D)
+ - 💣 [Mom beleives in her son&#39;s talent.](http://9gag.com/gag/aD2AqOd)
+ - 😝 [This kind of trust will be lost soon](http://9gag.com/gag/aNDrGG3)
+ - 👉 [\u201cThe nail that sticks out will be hammered down. \u201c](http://9gag.com/gag/ae9jPnb)<!-- MEMES:END -->
 
 ---
 

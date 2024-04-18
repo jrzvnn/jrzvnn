@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Stability AI lays off roughly 10 percent of its workforce](https://www.theverge.com/2024/4/18/24133996/stability-ai-lay-off-emad-mostaque)
+ - [Google is combining its Android and hardware teams — and it’s all about AI](https://www.theverge.com/2024/4/18/24133881/google-android-pixel-teams-reorg-rick-osterloh)
  - [New 12.9-inch iPad Air may not be a large-screen bargain](https://appleinsider.com/articles/24/04/18/new-129-inch-ipad-air-may-not-be-a-large-screen-bargain?utm_medium=rss)
  - [US House Speaker plans to bundle the TikTok divestiture bill, with a revised proposal, in a Ukraine and Israel aid bill expected to clear the Senate on April 20 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240418/p20#a240418p20)
- - [8BitDo’s NES-inspired mechanical keyboard hits all-time low price](https://www.theverge.com/2024/4/18/24132948/amazon-8bitdo-retro-mechanical-keyboard-echo-buds-deal-sale)
- - [Apple is making progress cleaning up its dirty supply chain](https://www.theverge.com/2024/4/18/24133897/apple-supply-chain-climate-emissions-environmental-progress-report)
- - [Brave Search introduces Answer with AI, which shows answers synthesized from multiple sources for informational queries, appearing above organic search results &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240418/p19#a240418p19)<!-- TECH:END -->
+ - [8BitDo’s NES-inspired mechanical keyboard hits all-time low price](https://www.theverge.com/2024/4/18/24132948/amazon-8bitdo-retro-mechanical-keyboard-echo-buds-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

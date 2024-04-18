@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Enjoying summer like](http://9gag.com/gag/aByR44D)
- - 😝 [I can see two differences](http://9gag.com/gag/aQzPOzW)
- - 💣 [Both are in for a rude awakening](http://9gag.com/gag/aoyEdj0)
- - 😝 [Serious question for the Sicilians: Why do you do that everywhere on the island?](http://9gag.com/gag/ayN7VnW)
- - 👉 [She&#39;ll never be the same](http://9gag.com/gag/ayN7v3Y)<!-- MEMES:END -->
+ - 😝 [Both are in for a rude awakening](http://9gag.com/gag/aoyEdj0)
+ - 😝 [We&#39;re just tiny fishes.](http://9gag.com/gag/aryvrbp)
+ - 💣 [Buddy didn&#39;t even graduate](http://9gag.com/gag/aMV2Oq1)
+ - 😝 [Trump is on point](http://9gag.com/gag/ae9jRbB)
+ - 👉 [And... you&#39;re blind](http://9gag.com/gag/a1mvOg2)<!-- MEMES:END -->
 
 ---
 

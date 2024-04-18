@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An experiment with LLMs: the tools are helpful in mundane ways but you can&#39;t build a hundred-billion-dollar industry around a technology that&#39;s kind of useful &lpar;Molly White/Citation Needed&rpar;](http://www.techmeme.com/240418/p1#a240418p1)
  - [Google Fires Twenty-Eight Workers for Protesting Cloud Deal with Israel](https://www.wired.com/story/google-fires-twenty-eight-workers-for-protesting-cloud-deal-with-israel/)
  - [Research suggests GPT-4 surpassed or achieved the same scores as all but top-scoring specialist medics in assessing ocular problems and suggesting treatments &lpar;Michael Peel/Financial Times&rpar;](http://www.techmeme.com/240417/p41#a240417p41)
  - [Google fires 28 employees after sit-in protest over Israel cloud contract](https://www.theverge.com/2024/4/17/24133700/google-fires-28-employees-protest-israel-cloud-contract)
- - [Today&#39;s Wordle Hints and Answer: Help for April 18, #1034     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-18-1034/#ftag=CAD590a51e)
- - [Sam&#39;s Club membership drops to $14, the best price ever](https://appleinsider.com/articles/24/04/18/sams-club-membership-drops-to-14-the-best-price-ever?utm_medium=rss)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints and Answer: Help for April 18, #1034     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-18-1034/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

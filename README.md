@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [2 pit bulls torn apart woman&#39;s car trying to eat cat](http://9gag.com/gag/awy08M8)
- - 😝 [Scrubs reunion. i see Turk made a move and changed a lot to be JD&#39;s best partner.](http://9gag.com/gag/aE0vODK)
- - 💣 [This is how pros do it.](http://9gag.com/gag/aRBwONy)
- - 😝 [Even china&#39;s marathon winners are fake](http://9gag.com/gag/aQzPVZq)
- - 👉 [Heroes](http://9gag.com/gag/agm3jM6)<!-- MEMES:END -->
+ - 😝 [What a nice looking horse](http://9gag.com/gag/aVvzB4y)
+ - 😝 [Buddy didn&#39;t even graduate](http://9gag.com/gag/aMV2Oq1)
+ - 💣 [Heroes](http://9gag.com/gag/agm3jM6)
+ - 😝 [Peak male fantasy](http://9gag.com/gag/aByRj02)
+ - 👉 [She&#39;ll never be the same](http://9gag.com/gag/ayN7v3Y)<!-- MEMES:END -->
 
 ---
 

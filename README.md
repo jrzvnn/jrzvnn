@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Apple&#39;s iPhone recycling, including shredding robots, and contractor GEEP, which Apple sued in 2020 for $22.6M in a case that has since been inactive &lpar;Austin Carr/Bloomberg&rpar;](http://www.techmeme.com/240418/p12#a240418p12)
+ - [The Real-Time Deepfake Romance Scams Have Arrived](https://www.wired.com/story/yahoo-boys-real-time-deepfake-scams/)
+ - [Gmail’s tabs are actually useful now that I’ve found this extension](https://www.theverge.com/2024/4/18/24132386/gmail-tabs-google)
  - [MrBeast and T-Series are battling for the most-subscribed YouTube channel](https://www.theverge.com/2024/4/18/24133829/mrbeast-tseries-battle-most-subscribed-youtube-channel)
- - [Investigation: Amazon sells ~$1M per year in goods on eBay, Shopify, Walmart, and Amazon via its &quot;Big River&quot; arm, to get data on pricing, logistics, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240418/p11#a240418p11)
- - [Nothing Ear and Nothing Ear &lpar;a&rpar; Review: Third Time, Still Charming](https://www.wired.com/review/nothing-ear-nothing-ear-a/)
- - [ChatGPT is coming to Nothing’s earbuds](https://www.theverge.com/2024/4/18/24133813/nothing-chatgpt-ai-integration-announced)
- - [Nothing’s new earbuds prove that it can &lpar;mostly&rpar; hang with the heavyweights](https://www.theverge.com/2024/4/18/24133464/nothing-ear-a-specs-price-hands-on)<!-- TECH:END -->
+ - [Investigation: Amazon sells ~$1M per year in goods on eBay, Shopify, Walmart, and Amazon via its &quot;Big River&quot; arm, to get data on pricing, logistics, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240418/p11#a240418p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

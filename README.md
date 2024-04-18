@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US CFPB fines BloomTech, formerly Lambda School, and CEO Austen Allred $164K and bans it from lending for 10 years for deceiving students on loans, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240417/p34#a240417p34)
- - [Before You Fire Up Your Grill, Here&#39;s How to Make It Shine     - CNET](https://www.cnet.com/home/yard-and-outdoors/before-you-fire-up-your-grill-heres-how-to-make-it-shine/#ftag=CAD590a51e)
- - [The US NIST appoints as head of AI safety former OpenAI researcher Paul Christiano, who has been criticized for &quot;AI doomer&quot; views and ties to effective altruism &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/240417/p33#a240417p33)
- - [Laptop Buying Guide: What to Look For video     - CNET](https://www.cnet.com/videos/laptop-buying-guide-what-to-look-for/#ftag=CAD590a51e)
- - [Best Smart Scale for 2024     - CNET](https://www.cnet.com/health/fitness/best-smart-scale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Walmart-backed digital marketing software company Ibotta raises ~$577.3M in its IPO after pricing each share at $88, giving it a market value of $2.67B &lpar;Amy Or/Bloomberg&rpar;](http://www.techmeme.com/240417/p37#a240417p37)
+ - [Sources: Micron could get $6B+ in chip grants from the US Commerce Department for domestic factory projects; the award could be announced as soon as next week &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/240417/p36#a240417p36)
+ - [Intel unveils Hala Point, a large-scale neuromorphic system deployed at Sandia National Laboratories, with 1,152 Loihi 2 processors simulating 1M neurons each &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/240417/p35#a240417p35)
+ - [Apple Users in the EU Now Have a New Third-Party App Store to Play With     - CNET](https://www.cnet.com/tech/apple-users-in-the-eu-now-have-a-new-third-party-app-store-to-play-with/#ftag=CAD590a51e)
+ - [Coding bootcamp Lambda School — now BloomTech — is finally getting punished](https://www.theverge.com/2024/4/17/24133577/lambda-school-bloomtech-loan-ban-student-debt)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

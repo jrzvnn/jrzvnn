@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Such a kind friend](http://9gag.com/gag/amoNdLd)
- - 😝 [Both are in for a rude awakening](http://9gag.com/gag/aoyEdj0)
- - 💣 [What a nice looking horse](http://9gag.com/gag/aVvzB4y)
- - 😝 [You\u2019re gonna need some aloe for that burn\u2026..](http://9gag.com/gag/an7q0QV)
- - 👉 [A trapdoor guarding a suffocating treasure trove. Careless seekers die from entrapment in one of these.](http://9gag.com/gag/aRBwDdq)<!-- MEMES:END -->
+ - 😝 [After watching Transformers One trailer \u2026](http://9gag.com/gag/aD2Aq3d)
+ - 😝 [A trapdoor guarding a suffocating treasure trove. Careless seekers die from entrapment in one of these.](http://9gag.com/gag/aRBwDdq)
+ - 💣 [Getting arrested already?](http://9gag.com/gag/aW4QRVq)
+ - 😝 [Heroes](http://9gag.com/gag/agm3jM6)
+ - 👉 [Another day](http://9gag.com/gag/aQzPy0K)<!-- MEMES:END -->
 
 ---
 

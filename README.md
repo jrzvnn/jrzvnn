@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google says it will consolidate teams that focus on building AI models across Research and DeepMind, and move its Responsible AI teams in Research to DeepMind &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/240418/p34#a240418p34)
  - [We Finally Know Where Neuralink’s Brain Implant Trial Is Happening](https://www.wired.com/story/neuralink-brain-implant-study-site/)
  - [The Best Pillows for Side Sleepers in 2024     - CNET](https://www.cnet.com/health/sleep/best-pillow-for-side-sleepers/#ftag=CAD590a51e)
  - [Meta AI Tool Now Driven by New, More Powerful Llama 3 Model, Meta Says     - CNET](https://www.cnet.com/tech/services-and-software/meta-ai-tool-now-driven-by-new-more-powerful-llama-3-model-meta-says/#ftag=CAD590a51e)
- - [Best AirPods Pro 2 Deals: Save Up to $60 Off Apple&#39;s Best Wireless Earbuds     - CNET](https://www.cnet.com/deals/best-airpods-pro-2nd-generation-deals/#ftag=CAD590a51e)
- - [Another Tough Week for Mortgage Rates: Today&#39;s Mortgage Rates on April 18, 2024     - CNET](https://www.cnet.com/personal-finance/mortgage-rates-go-up-for-homeseekers-todays-mortgage-rates-on-april-18-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best AirPods Pro 2 Deals: Save Up to $60 Off Apple&#39;s Best Wireless Earbuds     - CNET](https://www.cnet.com/deals/best-airpods-pro-2nd-generation-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

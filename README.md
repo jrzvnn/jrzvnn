@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Freaks of nature](http://9gag.com/gag/aByR4wP)
- - 😝 [Deaf girl hears best friend\u2019s voice for the first time.](http://9gag.com/gag/aXP0RMd)
- - 💣 [She&#39;ll never be the same](http://9gag.com/gag/ayN7v3Y)
- - 😝 [Such a kind friend](http://9gag.com/gag/amoNdLd)
- - 👉 [Getting arrested already?](http://9gag.com/gag/aW4QRVq)<!-- MEMES:END -->
+ - 😝 [Enjoying summer like](http://9gag.com/gag/aByR44D)
+ - 😝 [I can see two differences](http://9gag.com/gag/aQzPOzW)
+ - 💣 [Both are in for a rude awakening](http://9gag.com/gag/aoyEdj0)
+ - 😝 [Serious question for the Sicilians: Why do you do that everywhere on the island?](http://9gag.com/gag/ayN7VnW)
+ - 👉 [She&#39;ll never be the same](http://9gag.com/gag/ayN7v3Y)<!-- MEMES:END -->
 
 ---
 

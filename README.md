@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just a reminder in case you forgot this great era](http://9gag.com/gag/a7oLmDe)
- - 😝 [N is for this Nice meme that should never die](http://9gag.com/gag/a5Qev7o)
- - 💣 [You&#39;re goddamn right](http://9gag.com/gag/a34Pepv)
- - 😝 [Cleaning keyboard mode](http://9gag.com/gag/a7oLPAe)
- - 👉 [Guys they did it](http://9gag.com/gag/aYQNZAq)<!-- MEMES:END -->
+ - 😝 [All of her kids are trans lmao](http://9gag.com/gag/apREz7D)
+ - 😝 [When a bald eagle loses a feather, it will automatically shed the same feather on it\u2019s other side to maintain balance.](http://9gag.com/gag/a9ybZ6W)
+ - 💣 [Such a kind friend](http://9gag.com/gag/amoNdLd)
+ - 😝 [Lisan-al-wednesday](http://9gag.com/gag/aMV2yQR)
+ - 👉 [What a nice looking horse](http://9gag.com/gag/aVvzB4y)<!-- MEMES:END -->
 
 ---
 

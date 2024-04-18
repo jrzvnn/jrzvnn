@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [DARPA reveals that an AI-controlled X-62A jet successfully faced a human pilot in an F-16 during an in-air dogfight test carried out in 2023 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240418/p27#a240418p27)
  - [The podcast industry keeps reinventing itself](https://www.theverge.com/2024/4/18/24134187/podcast-industry-future-creators-video)
+ - [This Anker Portable Battery Pack Is a Traveler&#39;s Dream at 25% Off     - CNET](https://www.cnet.com/deals/this-anker-portable-battery-pack-is-a-travelers-dream-at-25-off/#ftag=CAD590a51e)
  - [The Humane AI Pin is lost in translation](https://www.theverge.com/2024/4/18/24134180/humane-ai-pin-translation-wearables)
- - [You should be playing Music League](https://www.theverge.com/2024/4/18/24134059/music-league-spotify-algorithm-antidote)
- - [Meta rolls out real-time AI image generation, which changes the image as the user types a prompt, in beta on WhatsApp and Meta AI on the web in the US &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240418/p26#a240418p26)<!-- TECH:END -->
+ - [You should be playing Music League](https://www.theverge.com/2024/4/18/24134059/music-league-spotify-algorithm-antidote)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Freaks of nature](http://9gag.com/gag/aByR4wP)
- - 😝 [Heroes](http://9gag.com/gag/agm3jM6)
- - 💣 [Such a kind friend](http://9gag.com/gag/amoNdLd)
- - 😝 [During that time, she looked into his eyes with love\u2026](http://9gag.com/gag/amoNpoy)
- - 👉 [Trump is on point](http://9gag.com/gag/ae9jRbB)<!-- MEMES:END -->
+ - 😝 [What a nice looking horse](http://9gag.com/gag/aVvzB4y)
+ - 😝 [Trump is on point](http://9gag.com/gag/ae9jRbB)
+ - 💣 [Heroes](http://9gag.com/gag/agm3jM6)
+ - 😝 [Such a kind friend](http://9gag.com/gag/amoNdLd)
+ - 👉 [Which door you choose](http://9gag.com/gag/a6Zmjwm)<!-- MEMES:END -->
 
 ---
 

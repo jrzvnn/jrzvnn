@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elgato has an attractive new Neo range for content creators &amp; streamers](https://appleinsider.com/articles/24/04/18/elgato-has-an-attractive-new-neo-range-for-content-creators-streamers?utm_medium=rss)
+ - [Transformers One turns Cybertron’s greatest warriors into goofy youths in first trailer](https://www.theverge.com/24133094/transformers-one-trailer-animated-optimus-prime)
  - [Intel Foundry completes the assembly of the first commercial High-NA EUV chipmaking tool, a day after ASML set an EUV system record by printing 10nm dense lines &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240418/p18#a240418p18)
  - [Apple&#39;s iPhone recycling is a security nightmare for e-waste partners](https://appleinsider.com/articles/24/04/18/apples-iphone-recycling-is-a-security-nightmare-for-e-waste-partners?utm_medium=rss)
- - [Make robots hairy](https://www.theverge.com/2024/4/18/24133547/boston-dynamics-atlas-robot-hairy)
- - [Apple is finally rolling out AirPlay in hotel rooms](https://www.theverge.com/2024/4/18/24133909/apple-airplay-hotel-rooms-iphone-streaming-music-video)
- - [More than 60 IHG hotels in North America now have AirPlay-compatible TVs in-room](https://appleinsider.com/articles/24/04/18/more-than-60-ihg-hotels-in-north-america-now-have-airplay-compatible-tvs-in-room?utm_medium=rss)<!-- TECH:END -->
+ - [Make robots hairy](https://www.theverge.com/2024/4/18/24133547/boston-dynamics-atlas-robot-hairy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

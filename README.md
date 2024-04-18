@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple’s new series Sunny pairs Rashida Jones with a mystery-solving robot](https://www.theverge.com/24133912/apple-24-sunny-rashida-jones)
+ - [US Air Force confirms first successful AI dogfight](https://www.theverge.com/2024/4/18/24133870/us-air-force-ai-dogfight-test-x-62a)
+ - [Richard Linklater’s Hit Man looks like a goofy roleplaying romcom in new trailer](https://www.theverge.com/24132471/netflix-richard-linklater-hit-man-trailer)
  - [Milo Action Communicator: Hassle-Free Comms Without Your Smartphone](https://www.wired.com/review/review-milo-action-communicator/)
- - [Adobe Express mobile app for iOS ships with Firefly generative AI smarts](https://appleinsider.com/articles/24/04/18/adobe-express-mobile-app-for-ios-ships-with-firefly-generative-ai-smarts?utm_medium=rss)
- - [LG MyView Smart Monitor &lpar;32SR85U-W&rpar; Review: A Fun 2-In-1 Screen](https://www.wired.com/review/lg-myview-smart-monitor-32sr85u-w/)
- - [Chevy Silverado EV turns into a mobile generator with GM’s new home energy bundle](https://www.theverge.com/2024/4/18/24133181/gm-energy-v2h-bundle-cost-ev-bidirectional)
- - [Elgato won over creators — its new Neo line is for everyone else](https://www.theverge.com/2024/4/18/24132766/elgato-neo-family-devices-stream-deck)<!-- TECH:END -->
+ - [Adobe Express mobile app for iOS ships with Firefly generative AI smarts](https://appleinsider.com/articles/24/04/18/adobe-express-mobile-app-for-ios-ships-with-firefly-generative-ai-smarts?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

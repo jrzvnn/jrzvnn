@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And... you&#39;re blind](http://9gag.com/gag/a1mvOg2)
+ - 😝 [An artist made this device to imitate weightlessness](http://9gag.com/gag/avypDOq)
+ - 😝 [What a nice looking horse](http://9gag.com/gag/aVvzB4y)
+ - 💣 [Serious question for the Sicilians: Why do you do that everywhere on the island?](http://9gag.com/gag/ayN7VnW)
  - 😝 [Guys they did it](http://9gag.com/gag/aYQNZAq)
- - 💣 [Loll](http://9gag.com/gag/aQzPBmW)
- - 😝 [Getting arrested already?](http://9gag.com/gag/aW4QRVq)
- - 👉 [A trapdoor guarding a suffocating treasure trove. Careless seekers die from entrapment in one of these.](http://9gag.com/gag/aRBwDdq)<!-- MEMES:END -->
+ - 👉 [Such a kind friend](http://9gag.com/gag/amoNdLd)<!-- MEMES:END -->
 
 ---
 

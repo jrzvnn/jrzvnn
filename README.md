@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tim Cook visits Singapore as Apple invests $250 million](https://appleinsider.com/articles/24/04/18/tim-cook-visits-singapore-as-apple-invests-250-million?utm_medium=rss)
+ - [An interview with Reddit Chief Product Officer Pali Bhat on the company&#39;s roadmap: faster load times, new moderator and developer tools, and AI translation &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/240418/p9#a240418p9)
+ - [The Rise of the Carbon Farmer](https://www.wired.com/story/carbon-farming-regenerative-agriculture/)
  - [French B2B software company Planisware raised &amp;euro;278M in a Paris IPO; its shares jumped up to 33% to ~&amp;euro;21 on its debut, giving Planisware a &amp;euro;1.1B valuation &lpar;Thyagaraju Adinarayan/Bloomberg&rpar;](http://www.techmeme.com/240418/p8#a240418p8)
- - [Apple plans to spend $250M+ on its regional hub in Singapore, including expanding its campus later in 2024, as Tim Cook visits Vietnam and other Asian countries &lpar;Amanda Lee/Wall Street Journal&rpar;](http://www.techmeme.com/240418/p7#a240418p7)
- - [Huawei releases its Pura 70 series, available for ~$760 to ~$1,380; reviewers show high-end models have a Kirin 9010 chip, an update to the Mate 60 Pro&#39;s 9000s &lpar;Bloomberg&rpar;](http://www.techmeme.com/240418/p6#a240418p6)
- - [Senate Democrats urge crackdown on autonomous vehicles and driver assist](https://www.theverge.com/2024/4/18/24133448/autonomous-vehicles-adas-blumenthal-markey-nhtsa)
- - [Document: Microsoft added 500+ megawatts of data center capacity since July 2023 and topped five gigawatts of total capacity in the H1 of its latest fiscal year &lpar;Eugene Kim/Business Insider&rpar;](http://www.techmeme.com/240418/p5#a240418p5)<!-- TECH:END -->
+ - [Best iPhone in 2024: Which Apple Phone Should You Buy?     - CNET](https://www.cnet.com/tech/mobile/best-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix is all about the money, not the members](https://www.theverge.com/2024/4/18/24134217/netflix-earnings-q1-2024-subscriber-count)
  - [New HomePod part leak shows off glossy display cover](https://appleinsider.com/articles/24/04/18/new-homepod-part-leak-shows-off-glossy-display-cover?utm_medium=rss)
- - [Netflix won&#39;t report subscriber numbers or Average Revenue per Membership starting in Q1 2025, saying time spent is its &quot;best proxy for customer satisfaction&quot; &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240418/p32#a240418p32)
- - [Netflix reports Q1 revenue up 15% YoY to $9.37B, vs. $9.28B est., paid users up 16% YoY to 269.6M, vs. 264.2M est., and net income $2.3B, up from $1.3B YoY &lpar;Sarah Whitten/CNBC&rpar;](http://www.techmeme.com/240418/p31#a240418p31)
- - [Apple Sainte-Catherine store will move to a new location down the street](https://appleinsider.com/articles/24/04/18/apple-sainte-catherine-store-will-move-to-a-new-location-down-the-street?utm_medium=rss)
- - [Meta claims both Llama 3 models beat similarly sized models like Gemini, Mistral, and Claude 3 on certain benchmarks; humans marked Llama 3 higher than GPT-3.5 &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240418/p30#a240418p30)<!-- TECH:END -->
+ - [Free COVID Home Test Kits Are Still Available: Here&#39;s How to Get Them     - CNET](https://www.cnet.com/health/free-covid-home-test-kits-are-still-available-heres-how-to-get-them/#ftag=CAD590a51e)
+ - [New Jersey Solar Panel Incentives: Net Metering, Tax Breaks and More     - CNET](https://www.cnet.com/home/energy-and-utilities/new-jersey-solar-panel-incentives-net-metering-tax-breaks-and-more/#ftag=CAD590a51e)
+ - [Best Mattress for Adjustable Beds in 2024     - CNET](https://www.cnet.com/health/sleep/best-adjustable-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

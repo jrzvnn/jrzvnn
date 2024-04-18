@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mexicans.](http://9gag.com/gag/a2vzGZE)
- - 😝 [What a nice looking horse](http://9gag.com/gag/aVvzB4y)
- - 💣 [Getting arrested already?](http://9gag.com/gag/aW4QRVq)
- - 😝 [Scrubs reunion. i see Turk made a move and changed a lot to be JD&#39;s best partner.](http://9gag.com/gag/aE0vODK)
- - 👉 [Such a kind friend](http://9gag.com/gag/amoNdLd)<!-- MEMES:END -->
+ - 😝 [Just skinny, white girls...Greece is so racist!](http://9gag.com/gag/adB0dbB)
+ - 😝 [Both are in for a rude awakening](http://9gag.com/gag/aoyEdj0)
+ - 💣 [What a nice looking horse](http://9gag.com/gag/aVvzB4y)
+ - 😝 [Another life gone](http://9gag.com/gag/aZZbd19)
+ - 👉 [An 81 old man, in Spain, found guilty after shooting to death an immigrant from Honduras who broke into his property. The immigrant had 45 previous criminal records.](http://9gag.com/gag/aE0vZ5p)<!-- MEMES:END -->
 
 ---
 

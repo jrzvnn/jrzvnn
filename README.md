@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Looks like Weird Al](http://9gag.com/gag/a5QeyNG)
- - 😝 [Can anyone provide an answer?](http://9gag.com/gag/avypDVO)
- - 💣 [Just skinny, white girls...Greece is so racist!](http://9gag.com/gag/adB0dbB)
- - 😝 [An 81 old man, in Spain, found guilty after shooting to death an immigrant from Honduras who broke into his property. The immigrant had 45 previous criminal records.](http://9gag.com/gag/aE0vZ5p)
- - 👉 [It&#39;s not dumb if it works](http://9gag.com/gag/a9ybNM0)<!-- MEMES:END -->
+ - 😝 [Freaks of nature](http://9gag.com/gag/aByR4wP)
+ - 😝 [Heroes](http://9gag.com/gag/agm3jM6)
+ - 💣 [Such a kind friend](http://9gag.com/gag/amoNdLd)
+ - 😝 [During that time, she looked into his eyes with love\u2026](http://9gag.com/gag/amoNpoy)
+ - 👉 [Trump is on point](http://9gag.com/gag/ae9jRbB)<!-- MEMES:END -->
 
 ---
 

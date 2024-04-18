@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [At Kernel, your veggie burger will be served by a robot](https://www.theverge.com/2024/4/18/24130997/kernel-ai-robot-vegan-burgers-potatoes)
+ - [Meta’s battle with ChatGPT begins now](https://www.theverge.com/2024/4/18/24133808/meta-ai-assistant-llama-3-chatgpt-openai-rival)
  - [How to tame notifications on your Android phone](https://www.theverge.com/24132122/android-notification-settings-turn-off-how-to)
  - [Google unveils internal reorganizations, including an AI-focused Platforms and Devices group overseeing Pixel, Android, Chrome, and more, led by Rick Osterloh &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240418/p21#a240418p21)
- - [Stability AI lays off roughly 10 percent of its workforce](https://www.theverge.com/2024/4/18/24133996/stability-ai-lay-off-emad-mostaque)
- - [Google is combining its Android and hardware teams — and it’s all about AI](https://www.theverge.com/2024/4/18/24133881/google-android-pixel-teams-reorg-rick-osterloh)
- - [New 12.9-inch iPad Air may not be a large-screen bargain](https://appleinsider.com/articles/24/04/18/new-129-inch-ipad-air-may-not-be-a-large-screen-bargain?utm_medium=rss)<!-- TECH:END -->
+ - [Stability AI lays off roughly 10 percent of its workforce](https://www.theverge.com/2024/4/18/24133996/stability-ai-lay-off-emad-mostaque)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

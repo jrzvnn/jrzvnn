@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Mexicans.](http://9gag.com/gag/a2vzGZE)
  - 😝 [What a nice looking horse](http://9gag.com/gag/aVvzB4y)
- - 😝 [Trump is on point](http://9gag.com/gag/ae9jRbB)
- - 💣 [Heroes](http://9gag.com/gag/agm3jM6)
- - 😝 [Such a kind friend](http://9gag.com/gag/amoNdLd)
- - 👉 [Which door you choose](http://9gag.com/gag/a6Zmjwm)<!-- MEMES:END -->
+ - 💣 [Getting arrested already?](http://9gag.com/gag/aW4QRVq)
+ - 😝 [Scrubs reunion. i see Turk made a move and changed a lot to be JD&#39;s best partner.](http://9gag.com/gag/aE0vODK)
+ - 👉 [Such a kind friend](http://9gag.com/gag/amoNdLd)<!-- MEMES:END -->
 
 ---
 

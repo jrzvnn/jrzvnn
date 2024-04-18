@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 33 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
+ - [RFK Jr.’s Very Online, Conspiracy-Filled Campaign](https://www.wired.com/story/rfk-online-conspiracy-campaign/)
  - [DARPA reveals that an AI-controlled X-62A jet successfully faced a human pilot in an F-16 during an in-air dogfight test carried out in 2023 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240418/p27#a240418p27)
  - [The podcast industry keeps reinventing itself](https://www.theverge.com/2024/4/18/24134187/podcast-industry-future-creators-video)
- - [This Anker Portable Battery Pack Is a Traveler&#39;s Dream at 25% Off     - CNET](https://www.cnet.com/deals/this-anker-portable-battery-pack-is-a-travelers-dream-at-25-off/#ftag=CAD590a51e)
- - [The Humane AI Pin is lost in translation](https://www.theverge.com/2024/4/18/24134180/humane-ai-pin-translation-wearables)
- - [You should be playing Music League](https://www.theverge.com/2024/4/18/24134059/music-league-spotify-algorithm-antidote)<!-- TECH:END -->
+ - [This Anker Portable Battery Pack Is a Traveler&#39;s Dream at 25% Off     - CNET](https://www.cnet.com/deals/this-anker-portable-battery-pack-is-a-travelers-dream-at-25-off/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

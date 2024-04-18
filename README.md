@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She&#39;ll never be the same](http://9gag.com/gag/ayN7v3Y)
- - 😝 [A trapdoor guarding a suffocating treasure trove. Careless seekers die from entrapment in one of these.](http://9gag.com/gag/aRBwDdq)
- - 💣 [Getting arrested already?](http://9gag.com/gag/aW4QRVq)
- - 😝 [This is going to be my new hobby\u2026](http://9gag.com/gag/azxg41m)
- - 👉 [Freaks of nature](http://9gag.com/gag/aByR4wP)<!-- MEMES:END -->
+ - 😝 [Freaks of nature](http://9gag.com/gag/aByR4wP)
+ - 😝 [Heroes](http://9gag.com/gag/agm3jM6)
+ - 💣 [Such a kind friend](http://9gag.com/gag/amoNdLd)
+ - 😝 [Deaf girl hears best friend\u2019s voice for the first time.](http://9gag.com/gag/aXP0RMd)
+ - 👉 [Guys they did it](http://9gag.com/gag/aYQNZAq)<!-- MEMES:END -->
 
 ---
 

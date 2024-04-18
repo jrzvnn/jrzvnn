@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Heroes](http://9gag.com/gag/agm3jM6)
- - 😝 [Guys they did it](http://9gag.com/gag/aYQNZAq)
- - 💣 [Such a kind friend](http://9gag.com/gag/amoNdLd)
- - 😝 [Getting arrested already?](http://9gag.com/gag/aW4QRVq)
- - 👉 [Crown Equality](http://9gag.com/gag/ae9jWpO)<!-- MEMES:END -->
+ - 😝 [Just a reminder in case you forgot this great era](http://9gag.com/gag/a7oLmDe)
+ - 😝 [N is for this Nice meme that should never die](http://9gag.com/gag/a5Qev7o)
+ - 💣 [You&#39;re goddamn right](http://9gag.com/gag/a34Pepv)
+ - 😝 [Cleaning keyboard mode](http://9gag.com/gag/a7oLPAe)
+ - 👉 [Guys they did it](http://9gag.com/gag/aYQNZAq)<!-- MEMES:END -->
 
 ---
 

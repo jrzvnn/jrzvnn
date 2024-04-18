@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just skinny, white girls...Greece is so racist!](http://9gag.com/gag/adB0dbB)
- - 😝 [Both are in for a rude awakening](http://9gag.com/gag/aoyEdj0)
- - 💣 [What a nice looking horse](http://9gag.com/gag/aVvzB4y)
- - 😝 [Another life gone](http://9gag.com/gag/aZZbd19)
- - 👉 [An 81 old man, in Spain, found guilty after shooting to death an immigrant from Honduras who broke into his property. The immigrant had 45 previous criminal records.](http://9gag.com/gag/aE0vZ5p)<!-- MEMES:END -->
+ - 😝 [During that time, she looked into his eyes with love\u2026](http://9gag.com/gag/amoNpoy)
+ - 😝 [Buddy didn&#39;t even graduate](http://9gag.com/gag/aMV2Oq1)
+ - 💣 [WTF germany](http://9gag.com/gag/azxgYxB)
+ - 😝 [Freaks of nature](http://9gag.com/gag/aByR4wP)
+ - 👉 [We&#39;re just tiny fishes.](http://9gag.com/gag/aryvrbp)<!-- MEMES:END -->
 
 ---
 

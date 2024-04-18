@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google fires 28 employees over their participation in a 10-hour sit-in at the company&#39;s New York and Sunnyvale offices to protest its business ties with Israel &lpar;Thomas Barrabi/New York Post&rpar;](http://www.techmeme.com/240417/p40#a240417p40)
+ - [AWS discontinues its Snowmobile service, an 18-wheeler truck introduced in 2016 to help customers transport large amounts of on-premises data to AWS facilities &lpar;CNBC&rpar;](http://www.techmeme.com/240417/p39#a240417p39)
  - [Filing: 23andMe CEO Anne Wojcicki is seeking to take the company private after three years in public markets that saw its valuation collapse from a high of $6B &lpar;Rolfe Winkler/Wall Street Journal&rpar;](http://www.techmeme.com/240417/p38#a240417p38)
  - [Best Mattress for Stomach Sleepers in 2024     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-stomach-sleepers/#ftag=CAD590a51e)
- - [Best Mattress Pads of 2024     - CNET](https://www.cnet.com/health/sleep/best-mattress-pads/#ftag=CAD590a51e)
- - [Walmart-backed digital marketing software company Ibotta raises ~$577.3M in its IPO at a share price of $88, giving it a market value of $2.67B &lpar;Amy Or/Bloomberg&rpar;](http://www.techmeme.com/240417/p37#a240417p37)
- - [Best Wireless Car Chargers for 2024     - CNET](https://www.cnet.com/tech/mobile/best-wireless-car-charger-and-mount/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Mattress Pads of 2024     - CNET](https://www.cnet.com/health/sleep/best-mattress-pads/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

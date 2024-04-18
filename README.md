@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: cloud security startup Wiz is in advanced talks to acquire competitor Lacework for $150M-$200M; Lacework raised $1.8B and was valued at $8.3B in 2021 &lpar;The Information&rpar;](http://www.techmeme.com/240418/p25#a240418p25)
- - [Meta is adding real-time AI image generation to WhatsApp](https://www.theverge.com/2024/4/18/24134079/meta-real-time-ai-image-generation-whatsapp)
- - [The 6 Best Handheld Gaming Consoles &lpar;2024&rpar;: Switch, Steam Deck, and More](https://www.wired.com/gallery/best-gaming-handhelds/)
- - [Tesla&#39;s Layoffs Won&#39;t Solve Its Growing Pains](https://www.wired.com/story/tesla-robotaxi-pivot-china/)
- - [The future of the Xbox looks a lot like a PC](https://www.theverge.com/2024/4/18/24123318/microsoft-next-xbox-pc-future)<!-- TECH:END -->
+ - [You should be playing Music League](https://www.theverge.com/2024/4/18/24134059/music-league-spotify-algorithm-antidote)
+ - [Meta rolls out real-time AI image generation, which changes the image as the user types a prompt, in beta on WhatsApp and Meta AI on the web in the US &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240418/p26#a240418p26)
+ - [Can Solar Farms Save the Bees?     - CNET](https://www.cnet.com/home/energy-and-utilities/can-solar-farms-save-the-bees/#ftag=CAD590a51e)
+ - [Far-Right Sheriffs Want a Citizen Army to Stop &#39;Illegal Immigrant&#39; Voters](https://www.wired.com/story/constitutional-sheriffs-election-deniers-immigrants-voting/)
+ - [Best OLED Laptop Deals: Up to $700 Off Select Models From Dell, Lenovo and More     - CNET](https://www.cnet.com/deals/best-oled-laptop-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And... you&#39;re blind](http://9gag.com/gag/a1mvOg2)
  - 😝 [Deaf girl hears best friend\u2019s voice for the first time.](http://9gag.com/gag/aXP0RMd)
- - 💣 [Such a kind friend](http://9gag.com/gag/amoNdLd)
- - 😝 [This is going to be my new hobby\u2026](http://9gag.com/gag/azxg41m)
- - 👉 [During that time, she looked into his eyes with love\u2026](http://9gag.com/gag/amoNpoy)<!-- MEMES:END -->
+ - 😝 [If you know these buildings you had an awesome childhood.](http://9gag.com/gag/aQzPOGd)
+ - 💣 [Buddy didn&#39;t even graduate](http://9gag.com/gag/aMV2Oq1)
+ - 😝 [Felt that?](http://9gag.com/gag/a34PNwr)
+ - 👉 [Such a kind friend](http://9gag.com/gag/amoNdLd)<!-- MEMES:END -->
 
 ---
 

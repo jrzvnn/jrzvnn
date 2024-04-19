@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What scene in a movie or TV series always makes you hungry?](http://9gag.com/gag/aYQN67v)
- - 😝 [Damn, she&#39;s going through a whole crisis right there lol](http://9gag.com/gag/aGyYqQ5)
- - 💣 [Especially here](http://9gag.com/gag/amoNQgy)
+ - 😝 [Most old people know this door](http://9gag.com/gag/aoyEqYm)
+ - 😝 [No f**king way](http://9gag.com/gag/ae9jExp)
+ - 💣 [Kitum Cave. Believed to be the source of two of the deadliest diseases on earth. Ebola and Marburg.](http://9gag.com/gag/adB0WmD)
  - 😝 [Tough day at work because of bosses like @BOSSIETheTroll?](http://9gag.com/gag/aPA61QR)
- - 👉 [A very honest answer from a good boss.](http://9gag.com/gag/amoNQMV)<!-- MEMES:END -->
+ - 👉 [Google AI](http://9gag.com/gag/ajPYG0R)<!-- MEMES:END -->
 
 ---
 

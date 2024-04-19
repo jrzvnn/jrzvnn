@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You may not need Apple Pay to tap and pay with your EU iPhone soon](https://www.theverge.com/2024/4/19/24135095/apple-iphone-nfc-eu-payments)
  - [Post.News, the news-focused social platform launched in 2022 that offered micropayments to publishers, is shutting down after failing to grow &quot;fast enough&quot; &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240419/p10#a240419p10)
  - [Google’s HD Chromecast is going for just $20](https://www.theverge.com/2024/4/19/24134035/google-chromecast-hd-dreamebot-l20-ultra-robot-vacuum-deal-sale)
  - [Best AirPods Deals: Apple&#39;s Earbuds and Headphones Are Up to $70 Off     - CNET](https://www.cnet.com/deals/best-apple-airpods-deals/#ftag=CAD590a51e)
- - [Best iPhone 15 and iPhone 15 Pro Cases for 2024     - CNET](https://www.cnet.com/tech/mobile/best-iphone-15-and-iphone-15-pro-cases/#ftag=CAD590a51e)
- - [Best Generator Deals: Save Up to $650 on Top Brands Grecell, PowerSmart and More     - CNET](https://www.cnet.com/deals/best-generator-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best iPhone 15 and iPhone 15 Pro Cases for 2024     - CNET](https://www.cnet.com/tech/mobile/best-iphone-15-and-iphone-15-pro-cases/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

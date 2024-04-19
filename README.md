@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No f**king way](http://9gag.com/gag/ae9jExp)
- - 😝 [Can I help...?](http://9gag.com/gag/aPAw0On)
- - 💣 [I have no sauce, please bear with me](http://9gag.com/gag/a4PKg1y)
+ - 😝 [Damn, she&#39;s going through a whole crisis right there lol](http://9gag.com/gag/aGyYqQ5)
+ - 😝 [Especially here](http://9gag.com/gag/amoNQgy)
+ - 💣 [British police and a psychologist showed up at this man&#39;s home because he had posted `Christians must stand up` on social media after Terrorist attack on bishop in Australia.](http://9gag.com/gag/ayN7AGV)
  - 😝 [Tough day at work because of bosses like @BOSSIETheTroll?](http://9gag.com/gag/aPA61QR)
- - 👉 [Kitum Cave. Believed to be the source of two of the deadliest diseases on earth. Ebola and Marburg.](http://9gag.com/gag/adB0WmD)<!-- MEMES:END -->
+ - 👉 [A very honest answer from a good boss.](http://9gag.com/gag/amoNQMV)<!-- MEMES:END -->
 
 ---
 

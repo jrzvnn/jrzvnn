@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Provenance plans to bring Sony &amp; Sega console emulation to the App Store](https://appleinsider.com/articles/24/04/19/provenance-plans-to-bring-sony-sega-console-emulation-to-the-app-store?utm_medium=rss)
+ - [Apple&#39;s macOS 15 to get rare cognitive boost via Project GreyParrot](https://appleinsider.com/articles/24/04/19/apples-macos-15-to-get-rare-cognitive-boost-via-project-greyparrot?utm_medium=rss)
+ - [Kuhn Rikon Black Star Review: Perfectly Smooth Cast-Iron](https://www.wired.com/review/kuhn-rikon-black-star-cast-iron/)
  - [Audien Hearing Atom One Hearing Aid Review: Über-Cheap and Too Basic](https://www.wired.com/review/audien-hearing-atom-one-hearing-aid/)
- - [Senator Warren doesn&#39;t have a plan to break up Apple, but still wants to pretty badly](https://appleinsider.com/articles/24/04/19/senator-warren-doesnt-have-a-plan-to-break-up-apple-but-still-wants-to-pretty-badly?utm_medium=rss)
- - [Use These Spotify Settings to Make Your Favorite Songs Sound Even Better     - CNET](https://www.cnet.com/tech/services-and-software/use-these-spotify-settings-to-make-your-favorite-songs-sound-even-better/#ftag=CAD590a51e)
- - [Amazon AirPods Pro 2 Deal Knocks $60 Off With New Models on the Horizon     - CNET](https://www.cnet.com/deals/amazon-airpods-pro-2-deal-knocks-60-off-with-new-models-on-the-horizon/#ftag=CAD590a51e)
- - [My iPhone 15 Pro Max After 7 Months: Too Many Drops to Count, but Still Great     - CNET](https://www.cnet.com/tech/mobile/my-iphone-15-pro-max-after-7-months-too-many-drops-to-count-but-still-great/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Senator Warren doesn&#39;t have a plan to break up Apple, but still wants to pretty badly](https://appleinsider.com/articles/24/04/19/senator-warren-doesnt-have-a-plan-to-break-up-apple-but-still-wants-to-pretty-badly?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

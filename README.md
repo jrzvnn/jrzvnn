@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Pornhub, Stripchat, and XVideos will have to comply with additional obligations, such as submitting risk assessment reports, under the EU DSA starting next week &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240419/p14#a240419p14)
  - [You can buy a refurbished Steam Deck for almost half off](https://www.theverge.com/2024/4/19/24135233/value-steam-deck-deal-sale)
+ - [Cicadas Are Coming, and So Are the Cicada Salad Recipes     - CNET](https://www.cnet.com/science/cicadas-are-coming-and-so-are-the-cicada-salad-recipes/#ftag=CAD590a51e)
  - [16 Best Hair Straighteners We&#39;ve Tested &lpar;2024&rpar;: Flat Irons, Hot Combs, and Straightening Brushes](https://www.wired.com/gallery/best-hair-straighteners/)
- - [Nvidia closed down 10% on Friday, falling the most since March 2020 and losing more than $200B of its market value, as investors pull back from AI bets &lpar;George Steer/Financial Times&rpar;](http://www.techmeme.com/240419/p13#a240419p13)
- - [Applying the mathematical principles of Pareto to Mario Kart 8](https://www.theverge.com/2024/4/19/24135206/mario-kart-pareto-front-math-data-peach-rulez)<!-- TECH:END -->
+ - [Apple&#39;s Upcoming 12.9-Inch iPad Air Is Rumored to Have a Pro-Level Screen     - CNET](https://www.cnet.com/tech/computing/apples-upcoming-12-9-inch-ipad-air-is-rumored-to-have-a-pro-level-screen/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

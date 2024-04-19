@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [African Illegal Setting Fire To A Patrol Station In Ravenna, Italy.](http://9gag.com/gag/a7oLGom)
- - 😝 [Loll](http://9gag.com/gag/aQzPBmW)
- - 💣 [Meta ai fails woke test](http://9gag.com/gag/aRBw86G)
- - 😝 [Such a kind friend](http://9gag.com/gag/amoNdLd)
- - 👉 [Heroes](http://9gag.com/gag/agm3jM6)<!-- MEMES:END -->
+ - 😝 [This nerf battle](http://9gag.com/gag/a87LQrO)
+ - 😝 [What the hell is happening in this country? Have people lost their minds!?](http://9gag.com/gag/ayN7ZyM)
+ - 💣 [It&#39;s just physics](http://9gag.com/gag/aMV2WQG)
+ - 😝 [`Super smart operation!`](http://9gag.com/gag/aPAwzpn)
+ - 👉 [Go sports](http://9gag.com/gag/ae9jqqj)<!-- MEMES:END -->
 
 ---
 

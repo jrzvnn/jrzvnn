@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Audien Hearing Atom One Hearing Aid Review: Über-Cheap and Too Basic](https://www.wired.com/review/audien-hearing-atom-one-hearing-aid/)
  - [Senator Warren doesn&#39;t have a plan to break up Apple, but still wants to pretty badly](https://appleinsider.com/articles/24/04/19/senator-warren-doesnt-have-a-plan-to-break-up-apple-but-still-wants-to-pretty-badly?utm_medium=rss)
- - [Nas’ &#39;Illmatic&#39; Was the Beginning of the End of the Album](https://www.wired.com/story/nas-illmatic-30th-anniversary-beginning-of-the-end-of-the-album/)
- - [Unruly Gut Fungi Can Make Your Covid Worse](https://www.wired.com/story/unruly-gut-fungi-can-make-your-covid-worse-infection-coronavirus-candida-albicans/)
- - [She Painted a Few Champagne Bottles. Then Came Meta’s Customer Support Hell](https://www.wired.com/story/influencer-painted-champagne-bottles-meta-customer-support-hell/)
- - [Sources: Mistral plans to raise &amp;euro;500M at an over &amp;euro;5B valuation from multiple VCs and wealth funds, after raising ~&amp;euro;400M at a &amp;euro;2B valuation in December 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/240419/p3#a240419p3)<!-- TECH:END -->
+ - [Use These Spotify Settings to Make Your Favorite Songs Sound Even Better     - CNET](https://www.cnet.com/tech/services-and-software/use-these-spotify-settings-to-make-your-favorite-songs-sound-even-better/#ftag=CAD590a51e)
+ - [Amazon AirPods Pro 2 Deal Knocks $60 Off With New Models on the Horizon     - CNET](https://www.cnet.com/deals/amazon-airpods-pro-2-deal-knocks-60-off-with-new-models-on-the-horizon/#ftag=CAD590a51e)
+ - [My iPhone 15 Pro Max After 7 Months: Too Many Drops to Count, but Still Great     - CNET](https://www.cnet.com/tech/mobile/my-iphone-15-pro-max-after-7-months-too-many-drops-to-count-but-still-great/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

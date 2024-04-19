@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Post.News, the news-focused social platform launched in 2022 that offered micropayments to publishers, is shutting down after failing to grow &quot;fast enough&quot; &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240419/p10#a240419p10)
+ - [Google’s HD Chromecast is going for just $20](https://www.theverge.com/2024/4/19/24134035/google-chromecast-hd-dreamebot-l20-ultra-robot-vacuum-deal-sale)
  - [The 51 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
  - [Twitter alternative Post News is shutting down](https://www.theverge.com/2024/4/19/24135011/twitter-alternative-post-news-shutdown)
- - [Maybe I don’t want a Rosey the Robot after all](https://www.theverge.com/2024/4/19/24134905/boston-dynamics-atlas-robot-smart-home-robot)
- - [10 Best Computer Monitors &lpar;2024&rpar;: Budget, OLED, 4K, Ultrawide](https://www.wired.com/gallery/best-computer-monitors/)
- - [Midas, which lets users in Turkey invest in US and Turkish equities, raised a $45M Series A, after a $11M seed in 2022, and plans crypto trading and more &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/240419/p9#a240419p9)<!-- TECH:END -->
+ - [Maybe I don’t want a Rosey the Robot after all](https://www.theverge.com/2024/4/19/24134905/boston-dynamics-atlas-robot-smart-home-robot)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

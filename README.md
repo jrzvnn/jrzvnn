@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [She Painted a Few Champagne Bottles. Then Came Meta’s Customer Support Hell](https://www.wired.com/story/influencer-painted-champagne-bottles-meta-customer-support-hell/)
- - [Sources: Mistral plans to raise &amp;euro;500M at an over &amp;euro;5B valuation from multiple VCs and wealth funds, after raising ~&amp;euro;400M at a &amp;euro;2B valuation in December 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/240419/p3#a240419p3)
- - [Everything you need to know about emulating retro games with Delta for iPhone](https://appleinsider.com/articles/24/04/19/everything-you-need-to-know-about-emulating-retro-games-with-delta-for-iphone?utm_medium=rss)
- - [Tim Cook leaves Singapore after week-long Asia tour](https://appleinsider.com/articles/24/04/19/tim-cook-leaves-singapore-after-week-long-asia-tour?utm_medium=rss)
- - [DJI’s first power stations debut a brand new bi-directional port](https://www.theverge.com/24134689/dji-power-1000-500-sdc-port-explained-specs-price)<!-- TECH:END -->
+ - [Senator Warren doesn&#39;t have a plan to break up Apple, but still wants to pretty badly](https://appleinsider.com/articles/24/04/19/senator-warren-doesnt-have-a-plan-to-break-up-apple-but-still-wants-to-pretty-badly?utm_medium=rss)
+ - [Nas’ &#39;Illmatic&#39; Was the Beginning of the End of the Album](https://www.wired.com/story/nas-illmatic-30th-anniversary-beginning-of-the-end-of-the-album/)
+ - [Unruly Gut Fungi Can Make Your Covid Worse](https://www.wired.com/story/unruly-gut-fungi-can-make-your-covid-worse-infection-coronavirus-candida-albicans/)
+ - [Refi Rates Increase for Homeowners: Mortgage Refinance Rates on April 19, 2024     - CNET](https://www.cnet.com/personal-finance/mortgages/refi-rates-increase-for-homeowners-mortgage-refinance-rates-on-april-19-2024/#ftag=CAD590a51e)
+ - [She Painted a Few Champagne Bottles. Then Came Meta’s Customer Support Hell](https://www.wired.com/story/influencer-painted-champagne-bottles-meta-customer-support-hell/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Undocumented migrants raise complain that the food given to them are not good enough and their kids can not go to school for free](http://9gag.com/gag/apREzWE)
- - 😝 [Guys they did it](http://9gag.com/gag/aYQNZAq)
- - 💣 [You\u2019re gonna need some aloe for that burn\u2026..](http://9gag.com/gag/an7q0QV)
- - 😝 [Judge hopes she learned her lesson](http://9gag.com/gag/a87LQbp)
- - 👉 [People have the illusion that lack of father is the problem, they fail to mention mothers are the problem](http://9gag.com/gag/aMV2W5R)<!-- MEMES:END -->
+ - 😝 [When your prototype works too well :0](http://9gag.com/gag/amoNyXd)
+ - 😝 [Loll](http://9gag.com/gag/aQzPBmW)
+ - 💣 [Somewhere in museum](http://9gag.com/gag/aZZb4Rz)
+ - 😝 [Notice something](http://9gag.com/gag/axydnB2)
+ - 👉 [Such a kind friend](http://9gag.com/gag/amoNdLd)<!-- MEMES:END -->
 
 ---
 

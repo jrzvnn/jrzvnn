@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u201cThe nail that sticks out will be hammered down. \u201c](http://9gag.com/gag/ae9jPnb)
+ - 😝 [That&#39;s a lie](http://9gag.com/gag/avypVQ5)
  - 😝 [When your prototype works too well :0](http://9gag.com/gag/amoNyXd)
- - 💣 [Loll](http://9gag.com/gag/aQzPBmW)
- - 😝 [Such a kind friend](http://9gag.com/gag/amoNdLd)
- - 👉 [`Your thumb or mine?`](http://9gag.com/gag/aW4Q952)<!-- MEMES:END -->
+ - 💣 [`Your thumb or mine?`](http://9gag.com/gag/aW4Q952)
+ - 😝 [Doesn&#39;t matter](http://9gag.com/gag/an7q3y5)
+ - 👉 [It&#39;s getting out of hand now...](http://9gag.com/gag/aKGwyLN)<!-- MEMES:END -->
 
 ---
 

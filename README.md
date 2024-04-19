@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Notice something](http://9gag.com/gag/axydnB2)
  - 😝 [Peak male fantasy](http://9gag.com/gag/aByRj02)
- - 😝 [Heroes](http://9gag.com/gag/agm3jM6)
- - 💣 [Both are in for a rude awakening](http://9gag.com/gag/aoyEdj0)
- - 😝 [We&#39;re just tiny fishes.](http://9gag.com/gag/aryvrbp)
- - 👉 [Loll](http://9gag.com/gag/aQzPBmW)<!-- MEMES:END -->
+ - 💣 [Somewhere in museum](http://9gag.com/gag/aZZb4Rz)
+ - 😝 [Doesn&#39;t matter](http://9gag.com/gag/an7q3y5)
+ - 👉 [Heroes](http://9gag.com/gag/agm3jM6)<!-- MEMES:END -->
 
 ---
 

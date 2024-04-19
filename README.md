@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Mark Zuckerberg on Llama 3, buying H100 GPUs for Reels, AGI, energy constraints, dangers of open source, the metaverse, Meta&#39;s custom silicon, and more &lpar;Dwarkesh Patel/Dwarkesh Podcast&rpar;](http://www.techmeme.com/240418/p36#a240418p36)
- - [Best Sleep Trackers of 2024     - CNET](https://www.cnet.com/health/sleep/best-sleep-tracker/#ftag=CAD590a51e)
- - [Steel Bakeware Set     - CNET](https://www.cnet.com/news/steel-bakeware-set-dpnl/#ftag=CAD590a51e)
- - [Amazon’s Fallout has been renewed for season 2](https://www.theverge.com/2024/4/18/24134412/fallout-season-2-amazon-prime-video)
- - [Silicone Cupcake Liners     - CNET](https://www.cnet.com/news/silicone-cupcake-liners-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta Is Already Training a More Powerful Successor to Llama 3](https://www.wired.com/story/meta-is-already-training-a-more-powerful-sucessor-to-llama-3/)
+ - [Microsoft researchers introduce VASA-1, an AI model that creates a realistic talking face video from a portrait photo and an audio file, in research preview &lpar;Ryan Morrison/Tom&#39;s Guide&rpar;](http://www.techmeme.com/240418/p37#a240418p37)
+ - [Best Internet Providers in Hillsboro, Oregon     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-hillsboro-or/#ftag=CAD590a51e)
+ - [Apple&#39;s iPhone Screen Sizes Could Change in 2024, and Possibly Again in 2025     - CNET](https://www.cnet.com/tech/apples-iphone-screen-sizes-could-change-in-2024-and-possibly-again-in-2025/#ftag=CAD590a51e)
+ - [The 8 Best Grocery Delivery Services in 2024     - CNET](https://www.cnet.com/news/best-grocery-delivery-service/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

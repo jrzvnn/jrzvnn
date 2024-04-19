@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Biggest Deepfake Porn Website Is Now Blocked in the UK](https://www.wired.com/story/the-biggest-deepfake-porn-website-is-now-blocked-in-the-uk/)
+ - [Bitcoin Miners Brace for the ‘Halving’—and Race to Cash In](https://www.wired.com/story/bitcoin-miners-halving/)
  - [AirPlay turns the Delta emulator into a full-on retro console](https://www.theverge.com/2024/4/19/24134871/delta-emulator-apple-tv-airplay)
  - [Hacking group GhostR claims it stole 5.3M records from World-Check screening database used for KYC checks for sanctions and financial crime links &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240419/p7#a240419p7)
- - [20 Best Earth Day Deals &lpar;2024&rpar;: Ebikes, Chargers, and Bags Made of Recycled Plastic](https://www.wired.com/story/earth-day-deals-2024/)
- - [Still Waiting on Your 2024 Tax Refund? Here&#39;s When It Could Arrive     - CNET](https://www.cnet.com/personal-finance/taxes/still-waiting-on-your-2024-tax-refund-heres-when-it-could-arrive/#ftag=CAD590a51e)
- - [My Solar Panels Are Modern Magic at Work     - CNET](https://www.cnet.com/home/energy-and-utilities/my-solar-panels-are-modern-magic-at-work/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [20 Best Earth Day Deals &lpar;2024&rpar;: Ebikes, Chargers, and Bags Made of Recycled Plastic](https://www.wired.com/story/earth-day-deals-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

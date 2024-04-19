@@ -175,9 +175,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Loll](http://9gag.com/gag/aQzPBmW)
- - 😝 [Zucc cooked](http://9gag.com/gag/aW4QyPK)
- - 💣 [Pokemon GO uglyfing patch lmao](http://9gag.com/gag/aE0vbop)
+ - 😝 [What scene in a movie or TV series always makes you hungry?](http://9gag.com/gag/aYQN67v)
+ - 😝 [When your prototype works too well :0](http://9gag.com/gag/amoNyXd)
+ - 💣 [Can I help...?](http://9gag.com/gag/aPAw0On)
  - 😝 [Tough day at work because of bosses like @BOSSIETheTroll?](http://9gag.com/gag/aPA61QR)
  - 👉 [Kitum Cave. Believed to be the source of two of the deadliest diseases on earth. Ebola and Marburg.](http://9gag.com/gag/adB0WmD)<!-- MEMES:END -->
 

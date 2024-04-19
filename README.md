@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Environmental Damage Could Cost You a Fifth of Your Income Over the Next 25 Years](https://www.wired.com/story/environmental-damage-cost-global-incomes/)
- - [A look at Salad, which pays gamers in Fortnite skins and Roblox gift cards to rent their GPUs remotely to AI companies, including those making AI-generated porn &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/240419/p2#a240419p2)
- - [5 Places to Never Put Your Amazon Echo     - CNET](https://www.cnet.com/home/smart-home/5-places-to-never-put-your-amazon-echo/#ftag=CAD590a51e)
- - [Sophos researchers find &quot;crude&quot;, cheap ransomware tools being sold on the dark web, enabling inexperienced freelancers to easily launch attacks &lpar;James Reddick/The Record&rpar;](http://www.techmeme.com/240419/p1#a240419p1)
- - [Internal draft: UK&#39;s ICO says Google&#39;s Privacy Sandbox falls short and leaves gaps that can be exploited to undermine privacy of users who should be anonymous &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240418/p40#a240418p40)<!-- TECH:END -->
+ - [Everything you need to know about emulating retro games with Delta for iPhone](https://appleinsider.com/articles/24/04/19/everything-you-need-to-know-about-emulating-retro-games-with-delta-for-iphone?utm_medium=rss)
+ - [Tim Cook leaves Singapore after week-long Asia tour](https://appleinsider.com/articles/24/04/19/tim-cook-leaves-singapore-after-week-long-asia-tour?utm_medium=rss)
+ - [DJI’s first power stations can fast charge its drone batteries](https://www.theverge.com/24134689/dji-power-1000-500-sdc-port-explained-specs-price)
+ - [Best Prepaid Phone of 2024: Value Picks for Cheaper Plans     - CNET](https://www.cnet.com/tech/mobile/best-prepaid-phones/#ftag=CAD590a51e)
+ - [Late Social Security Payment? What to Do     - CNET](https://www.cnet.com/personal-finance/late-social-security-payment-what-to-do/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

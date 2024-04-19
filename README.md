@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That guy is about to have a heart attack](http://9gag.com/gag/aXP0zYv)
- - 😝 [Insert John Wick voice - *Consequences*](http://9gag.com/gag/aKGwyK1)
- - 💣 [British police and a psychologist showed up at this man&#39;s home because he had posted `Christians must stand up` on social media after Terrorist attack on bishop in Australia.](http://9gag.com/gag/ayN7AGV)
+ - 😝 [We&#39;re just tiny fishes.](http://9gag.com/gag/aryvrbp)
+ - 😝 [No f**king way](http://9gag.com/gag/ae9jExp)
+ - 💣 [Insert John Wick voice - *Consequences*](http://9gag.com/gag/aKGwyK1)
  - 😝 [Tough day at work because of bosses like @BOSSIETheTroll?](http://9gag.com/gag/aPA61QR)
- - 👉 [She tried to throw a chair at her but got clocked In her shit instead](http://9gag.com/gag/aZZbKM0)<!-- MEMES:END -->
+ - 👉 [Well he is done with the phase](http://9gag.com/gag/aQzPD9z)<!-- MEMES:END -->
 
 ---
 

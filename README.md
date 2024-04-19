@@ -170,7 +170,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Sources: Mistral plans to raise &amp;euro;500M at an over &amp;euro;5B valuation from multiple VCs and wealth funds, after raising ~&amp;euro;400M at a &amp;euro;2B valuation in December 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/240419/p3#a240419p3)
  - [Everything you need to know about emulating retro games with Delta for iPhone](https://appleinsider.com/articles/24/04/19/everything-you-need-to-know-about-emulating-retro-games-with-delta-for-iphone?utm_medium=rss)
  - [Tim Cook leaves Singapore after week-long Asia tour](https://appleinsider.com/articles/24/04/19/tim-cook-leaves-singapore-after-week-long-asia-tour?utm_medium=rss)
- - [DJI’s first power stations can fast charge its drone batteries](https://www.theverge.com/24134689/dji-power-1000-500-sdc-port-explained-specs-price)<!-- TECH:END -->
+ - [DJI’s first power stations debut a brand new bi-directional port](https://www.theverge.com/24134689/dji-power-1000-500-sdc-port-explained-specs-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

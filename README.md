@@ -175,9 +175,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I have no sauce, please bear with me](http://9gag.com/gag/a4PKg1y)
- - 😝 [Google AI](http://9gag.com/gag/ajPYG0R)
- - 💣 [I&#39;m not quite sure how they plan on enforcing this](http://9gag.com/gag/apRE7mb)
+ - 😝 [Loll](http://9gag.com/gag/aQzPBmW)
+ - 😝 [Zucc cooked](http://9gag.com/gag/aW4QyPK)
+ - 💣 [Pokemon GO uglyfing patch lmao](http://9gag.com/gag/aE0vbop)
  - 😝 [Tough day at work because of bosses like @BOSSIETheTroll?](http://9gag.com/gag/aPA61QR)
  - 👉 [Kitum Cave. Believed to be the source of two of the deadliest diseases on earth. Ebola and Marburg.](http://9gag.com/gag/adB0WmD)<!-- MEMES:END -->
 

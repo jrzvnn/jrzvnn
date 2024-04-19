@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Limited supply: Apple&#39;s latest 14-inch MacBook Pro is $200 off](https://appleinsider.com/articles/24/04/19/limited-supply-apples-latest-14-inch-macbook-pro-is-200-off?utm_medium=rss)
  - [Web design and hosting platform Webflow acquires Intellimize, which raised $50M and offers AI-powered webpage personalization, a source says for &quot;eight-figures&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240419/p5#a240419p5)
  - [BYD Yangwang U8 2024: Price, Specs, Availability](https://www.wired.com/story/this-chinese-luxury-hybrid-suv-combines-a-tank-a-bentley-and-a-boat/)
  - [Emulators are taking over the App Store](https://www.theverge.com/2024/4/19/24134767/emulators-iphone-delta-google-meta-ai-vergecast-podcast)
- - [The Taylor Swift Album Leak’s Big AI Problem](https://www.wired.com/story/the-taylor-swift-album-leaks-big-ai-problem/)
- - [A Wave of AI Tools Is Set to Transform Work Meetings](https://www.wired.com/story/taking-baby-steps-toward-the-ai-meeting-singularity/)<!-- TECH:END -->
+ - [The Taylor Swift Album Leak’s Big AI Problem](https://www.wired.com/story/the-taylor-swift-album-leaks-big-ai-problem/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

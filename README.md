@@ -179,7 +179,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - 😝 [Doesn&#39;t matter](http://9gag.com/gag/an7q3y5)
  - 💣 [Zuckerberg Captcha Test](http://9gag.com/gag/a4PKx11)
  - 😝 [Tough day at work because of bosses like @BOSSIETheTroll?](http://9gag.com/gag/aPA61QR)
- - 👉 [They will never change](http://9gag.com/gag/a4PKxBQ)<!-- MEMES:END -->
+ - 👉 [Boston Dynamics says goodbye to its Atlas robot and now presents the new version of Atlas](http://9gag.com/gag/aVvz1Od)<!-- MEMES:END -->
 
 ---
 

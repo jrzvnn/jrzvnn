@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Post.News, the news-focused social platform launched in 2022 that offered micropayments to publishers, is shutting down after failing to grow &quot;fast enough&quot; &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240419/p10#a240419p10)
  - [Google’s HD Chromecast is going for just $20](https://www.theverge.com/2024/4/19/24134035/google-chromecast-hd-dreamebot-l20-ultra-robot-vacuum-deal-sale)
- - [The 51 Best Movies on Netflix This Week](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [Twitter alternative Post News is shutting down](https://www.theverge.com/2024/4/19/24135011/twitter-alternative-post-news-shutdown)
- - [Maybe I don’t want a Rosey the Robot after all](https://www.theverge.com/2024/4/19/24134905/boston-dynamics-atlas-robot-smart-home-robot)<!-- TECH:END -->
+ - [Best AirPods Deals: Apple&#39;s Earbuds and Headphones Are Up to $70 Off     - CNET](https://www.cnet.com/deals/best-apple-airpods-deals/#ftag=CAD590a51e)
+ - [Best iPhone 15 and iPhone 15 Pro Cases for 2024     - CNET](https://www.cnet.com/tech/mobile/best-iphone-15-and-iphone-15-pro-cases/#ftag=CAD590a51e)
+ - [Best Generator Deals: Save Up to $650 on Top Brands Grecell, PowerSmart and More     - CNET](https://www.cnet.com/deals/best-generator-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Sources: EU may accept Apple&#39;s proposal to open its NFC payments tech to rivals, and may close its antitrust probe in May, letting Apple avoid hefty fines &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240419/p8#a240419p8)
  - [Apple Pay NFC tech in iPhone will likely get opened up soon in the EU](https://appleinsider.com/articles/24/04/19/apple-pay-nfc-tech-in-iphone-will-likely-get-opened-up-soon-in-the-eu?utm_medium=rss)
- - [The Biggest Deepfake Porn Website Is Now Blocked in the UK](https://www.wired.com/story/the-biggest-deepfake-porn-website-is-now-blocked-in-the-uk/)
- - [Bitcoin Miners Brace for the ‘Halving’—and Race to Cash In](https://www.wired.com/story/bitcoin-miners-halving/)
- - [AirPlay turns the Delta emulator into a full-on retro console](https://www.theverge.com/2024/4/19/24134871/delta-emulator-apple-tv-airplay)<!-- TECH:END -->
+ - [Get Loud With Up to $250 Off Your Next Portable Speaker Purchase     - CNET](https://www.cnet.com/deals/get-loud-with-up-to-250-off-your-next-portable-speaker-purchase/#ftag=CAD590a51e)
+ - [Best Places to Buy Replacement Prescription Lenses Online in 2024     - CNET](https://www.cnet.com/health/personal-care/best-places-to-buy-replacement-prescription-lenses/#ftag=CAD590a51e)
+ - [MobileX Uses AI for Personalized Cellphone Plans, from $4.08 Per Month     - CNET](https://www.cnet.com/tech/mobile/mobilex-uses-ai-for-personalized-cellphone-plans-from-408-per-month/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

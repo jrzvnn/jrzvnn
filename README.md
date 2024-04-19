@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [All of her kids are trans lmao](http://9gag.com/gag/apREz7D)
- - 😝 [Guys they did it](http://9gag.com/gag/aYQNZAq)
- - 💣 [Peak male fantasy](http://9gag.com/gag/aByRj02)
- - 😝 [\u201cThe nail that sticks out will be hammered down. \u201c](http://9gag.com/gag/ae9jPnb)
- - 👉 [What a nice looking horse](http://9gag.com/gag/aVvzB4y)<!-- MEMES:END -->
+ - 😝 [African Illegal Setting Fire To A Patrol Station In Ravenna, Italy.](http://9gag.com/gag/a7oLGom)
+ - 😝 [Loll](http://9gag.com/gag/aQzPBmW)
+ - 💣 [Meta ai fails woke test](http://9gag.com/gag/aRBw86G)
+ - 😝 [Such a kind friend](http://9gag.com/gag/amoNdLd)
+ - 👉 [Heroes](http://9gag.com/gag/agm3jM6)<!-- MEMES:END -->
 
 ---
 

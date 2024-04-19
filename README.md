@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta is restricting certain election-related keywords for Meta AI in India due to ongoing elections; Meta started testing its AI chatbot in India last week &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240419/p4#a240419p4)
+ - [How to Stop ChatGPT’s Voice Feature From Interrupting You](https://www.wired.com/story/how-to-stop-chatgpt-talking-over-you/)
+ - [DuckDuckGo VPN: A User-Friendly Privacy Boost, but Not for Power Users     - CNET](https://www.cnet.com/tech/services-and-software/duckduckgo-vpn-a-user-friendly-privacy-boost-but-not-for-power-users/#ftag=CAD590a51e)
  - [Provenance plans to bring Sony &amp; Sega console emulation to the App Store](https://appleinsider.com/articles/24/04/19/provenance-plans-to-bring-sony-sega-console-emulation-to-the-app-store?utm_medium=rss)
- - [Apple&#39;s macOS 15 to get rare cognitive boost via Project GreyParrot](https://appleinsider.com/articles/24/04/19/apples-macos-15-to-get-rare-cognitive-boost-via-project-greyparrot?utm_medium=rss)
- - [Kuhn Rikon Black Star Review: Perfectly Smooth Cast-Iron](https://www.wired.com/review/kuhn-rikon-black-star-cast-iron/)
- - [Audien Hearing Atom One Hearing Aid Review: Über-Cheap and Too Basic](https://www.wired.com/review/audien-hearing-atom-one-hearing-aid/)
- - [Senator Warren doesn&#39;t have a plan to break up Apple, but still wants to pretty badly](https://appleinsider.com/articles/24/04/19/senator-warren-doesnt-have-a-plan-to-break-up-apple-but-still-wants-to-pretty-badly?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s macOS 15 to get rare cognitive boost via Project GreyParrot](https://appleinsider.com/articles/24/04/19/apples-macos-15-to-get-rare-cognitive-boost-via-project-greyparrot?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s a lie](http://9gag.com/gag/avypVQ5)
- - 😝 [When your prototype works too well :0](http://9gag.com/gag/amoNyXd)
- - 💣 [`Your thumb or mine?`](http://9gag.com/gag/aW4Q952)
- - 😝 [Doesn&#39;t matter](http://9gag.com/gag/an7q3y5)
- - 👉 [It&#39;s getting out of hand now...](http://9gag.com/gag/aKGwyLN)<!-- MEMES:END -->
+ - 😝 [Such a kind friend](http://9gag.com/gag/amoNdLd)
+ - 😝 [We&#39;re just tiny fishes.](http://9gag.com/gag/aryvrbp)
+ - 💣 [Loll](http://9gag.com/gag/aQzPBmW)
+ - 😝 [A trapdoor guarding a suffocating treasure trove. Careless seekers die from entrapment in one of these.](http://9gag.com/gag/aRBwDdq)
+ - 👉 [That guy is about to have a heart attack](http://9gag.com/gag/aXP0zYv)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WhatsApp &amp; Threads pulled from Apple App Store in China](https://appleinsider.com/articles/24/04/19/whatsapp-threads-pulled-from-apple-app-store-in-china?utm_medium=rss)
+ - [Washington, DC-based Cape, which is developing a mobile service that doesn&#39;t ask for customers&#39; personal data, raised a $40M Series B co-led by A-Star and a16z &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240418/p38#a240418p38)
+ - [Razer’s Kishi Ultra gaming controller brings haptics to your USB-C phone, PC, or tablet](https://www.theverge.com/2024/4/18/24134417/razer-kishi-ultra-gaming-controller-iphone-ipad-android-tablet-haptics)
  - [Meta Is Already Training a More Powerful Successor to Llama 3](https://www.wired.com/story/meta-is-already-training-a-more-powerful-sucessor-to-llama-3/)
- - [Microsoft researchers introduce VASA-1, an AI model that creates a realistic talking face video from a portrait photo and an audio file, in research preview &lpar;Ryan Morrison/Tom&#39;s Guide&rpar;](http://www.techmeme.com/240418/p37#a240418p37)
- - [Best Internet Providers in Hillsboro, Oregon     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-hillsboro-or/#ftag=CAD590a51e)
- - [Apple&#39;s iPhone Screen Sizes Could Change in 2024, and Possibly Again in 2025     - CNET](https://www.cnet.com/tech/apples-iphone-screen-sizes-could-change-in-2024-and-possibly-again-in-2025/#ftag=CAD590a51e)
- - [The 8 Best Grocery Delivery Services in 2024     - CNET](https://www.cnet.com/news/best-grocery-delivery-service/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft researchers introduce VASA-1, an AI model that creates a realistic talking face video from a portrait photo and an audio file, in research preview &lpar;Ryan Morrison/Tom&#39;s Guide&rpar;](http://www.techmeme.com/240418/p37#a240418p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

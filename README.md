@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Insert John Wick voice - *Consequences*](http://9gag.com/gag/aKGwyK1)
- - 😝 [They were right...](http://9gag.com/gag/aYQNv60)
- - 💣 [What scene in a movie or TV series always makes you hungry?](http://9gag.com/gag/aYQN67v)
+ - 😝 [Can I help...?](http://9gag.com/gag/aPAw0On)
+ - 😝 [Google AI](http://9gag.com/gag/ajPYG0R)
+ - 💣 [I have no sauce, please bear with me](http://9gag.com/gag/a4PKg1y)
  - 😝 [Tough day at work because of bosses like @BOSSIETheTroll?](http://9gag.com/gag/aPA61QR)
- - 👉 [Damn, she&#39;s going through a whole crisis right there lol](http://9gag.com/gag/aGyYqQ5)<!-- MEMES:END -->
+ - 👉 [We&#39;re just tiny fishes.](http://9gag.com/gag/aryvrbp)<!-- MEMES:END -->
 
 ---
 

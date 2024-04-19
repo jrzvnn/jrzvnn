@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Whaaaa.... the shi..](http://9gag.com/gag/a6Zmx2R)
- - 😝 [Somewhere in museum](http://9gag.com/gag/aZZb4Rz)
- - 💣 [Heroes](http://9gag.com/gag/agm3jM6)
  - 😝 [All of her kids are trans lmao](http://9gag.com/gag/apREz7D)
- - 👉 [An archaeologist has prepared a very nice video to raise awareness about why treasure hunters die.](http://9gag.com/gag/abAXdxv)<!-- MEMES:END -->
+ - 😝 [Both are in for a rude awakening](http://9gag.com/gag/aoyEdj0)
+ - 💣 [`Your thumb or mine?`](http://9gag.com/gag/aW4Q952)
+ - 😝 [Such a kind friend](http://9gag.com/gag/amoNdLd)
+ - 👉 [Somewhere in museum](http://9gag.com/gag/aZZb4Rz)<!-- MEMES:END -->
 
 ---
 

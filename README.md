@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Damn, she&#39;s going through a whole crisis right there lol](http://9gag.com/gag/aGyYqQ5)
+ - 😝 [When your prototype works too well :0](http://9gag.com/gag/amoNyXd)
  - 😝 [Zucc cooked](http://9gag.com/gag/aW4QyPK)
- - 💣 [I have no sauce, please bear with me](http://9gag.com/gag/a4PKg1y)
+ - 💣 [Can I help...?](http://9gag.com/gag/aPAw0On)
  - 😝 [Tough day at work because of bosses like @BOSSIETheTroll?](http://9gag.com/gag/aPA61QR)
- - 👉 [I&#39;m not quite sure how they plan on enforcing this](http://9gag.com/gag/apRE7mb)<!-- MEMES:END -->
+ - 👉 [Taishan in China.There are 7,200 steps, and it takes 4 to 6 hours to reach the top. Ignore the music](http://9gag.com/gag/a87L9L3)<!-- MEMES:END -->
 
 ---
 

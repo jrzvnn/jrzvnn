@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [It&#39;s getting out of hand now...](http://9gag.com/gag/aKGwyLN)
- - 😝 [They were right...](http://9gag.com/gag/aYQNv60)
- - 💣 [Do you agree that BLM and Pride Flags should be BANNED from classrooms?](http://9gag.com/gag/azxgorz)
+ - 😝 [Happy day](http://9gag.com/gag/awy096D)
+ - 💣 [Insert John Wick voice - *Consequences*](http://9gag.com/gag/aKGwyK1)
  - 😝 [Tough day at work because of bosses like @BOSSIETheTroll?](http://9gag.com/gag/aPA61QR)
- - 👉 [What scene in a movie or TV series always makes you hungry?](http://9gag.com/gag/aYQN67v)<!-- MEMES:END -->
+ - 👉 [They were right...](http://9gag.com/gag/aYQNv60)<!-- MEMES:END -->
 
 ---
 

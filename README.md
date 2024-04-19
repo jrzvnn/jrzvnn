@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Notice something](http://9gag.com/gag/axydnB2)
- - 😝 [Peak male fantasy](http://9gag.com/gag/aByRj02)
- - 💣 [Somewhere in museum](http://9gag.com/gag/aZZb4Rz)
- - 😝 [Doesn&#39;t matter](http://9gag.com/gag/an7q3y5)
- - 👉 [Heroes](http://9gag.com/gag/agm3jM6)<!-- MEMES:END -->
+ - 😝 [All of her kids are trans lmao](http://9gag.com/gag/apREz7D)
+ - 😝 [Just a reminder in case you forgot this great era](http://9gag.com/gag/a7oLmDe)
+ - 💣 [Happy day](http://9gag.com/gag/awy096D)
+ - 😝 [Mom beleives in her son&#39;s talent.](http://9gag.com/gag/aD2AqOd)
+ - 👉 [This kind of trust will be lost soon](http://9gag.com/gag/aNDrGG3)<!-- MEMES:END -->
 
 ---
 

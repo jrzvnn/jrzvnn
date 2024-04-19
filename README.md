@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I&#39;m not quite sure how they plan on enforcing this](http://9gag.com/gag/apRE7mb)
  - 😝 [Insert John Wick voice - *Consequences*](http://9gag.com/gag/aKGwyK1)
- - 😝 [Can I help...?](http://9gag.com/gag/aPAw0On)
- - 💣 [Tough day at work because of bosses like @BOSSIETheTroll?](http://9gag.com/gag/aPA61QR)
- - 😝 [We&#39;re just tiny fishes.](http://9gag.com/gag/aryvrbp)
- - 👉 [Doesn&#39;t matter](http://9gag.com/gag/an7q3y5)<!-- MEMES:END -->
+ - 💣 [Doesn&#39;t matter](http://9gag.com/gag/an7q3y5)
+ - 😝 [Tough day at work because of bosses like @BOSSIETheTroll?](http://9gag.com/gag/aPA61QR)
+ - 👉 [Kitum Cave. Believed to be the source of two of the deadliest diseases on earth. Ebola and Marburg.](http://9gag.com/gag/adB0WmD)<!-- MEMES:END -->
 
 ---
 

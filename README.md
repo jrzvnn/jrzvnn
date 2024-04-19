@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Internal draft: UK&#39;s ICO says Google&#39;s Privacy Sandbox falls short and leaves gaps that can be exploited to undermine privacy of users who should be anonymous &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240418/p40#a240418p40)
  - [Everything you need to know about emulating retro games with Delta for iPhone](https://appleinsider.com/articles/24/04/19/everything-you-need-to-know-about-emulating-retro-games-with-delta-for-iphone?utm_medium=rss)
  - [TikTok might not have existed without insights from Steve Jobs](https://appleinsider.com/articles/24/04/19/tiktok-might-not-have-existed-without-insights-from-steve-jobs?utm_medium=rss)
  - [Apple removes WhatsApp and Threads from its App Store in China, saying it was ordered to do so by China&#39;s cyberspace officials citing national security concerns &lpar;Raffaele Huang/Wall Street Journal&rpar;](http://www.techmeme.com/240418/p39#a240418p39)
- - [WhatsApp &amp; Threads pulled from Apple App Store in China](https://appleinsider.com/articles/24/04/19/whatsapp-threads-pulled-from-apple-app-store-in-china?utm_medium=rss)
- - [Washington, DC-based Cape, which is developing a mobile service that doesn&#39;t ask for customers&#39; personal data, raised a $40M Series B co-led by A-Star and a16z &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240418/p38#a240418p38)<!-- TECH:END -->
+ - [WhatsApp &amp; Threads pulled from Apple App Store in China](https://appleinsider.com/articles/24/04/19/whatsapp-threads-pulled-from-apple-app-store-in-china?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

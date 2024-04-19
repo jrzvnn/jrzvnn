@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [5 Places to Never Put Your Amazon Echo     - CNET](https://www.cnet.com/home/smart-home/5-places-to-never-put-your-amazon-echo/#ftag=CAD590a51e)
  - [Sophos researchers find &quot;crude&quot;, cheap ransomware tools being sold on the dark web, enabling inexperienced freelancers to easily launch attacks &lpar;James Reddick/The Record&rpar;](http://www.techmeme.com/240419/p1#a240419p1)
  - [Internal draft: UK&#39;s ICO says Google&#39;s Privacy Sandbox falls short and leaves gaps that can be exploited to undermine privacy of users who should be anonymous &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240418/p40#a240418p40)
  - [Everything you need to know about emulating retro games with Delta for iPhone](https://appleinsider.com/articles/24/04/19/everything-you-need-to-know-about-emulating-retro-games-with-delta-for-iphone?utm_medium=rss)
- - [Today&#39;s Wordle Hints and Answer: Help for April 19, #1035     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-19-1035/#ftag=CAD590a51e)
- - [TikTok might not have existed without insights from Steve Jobs](https://appleinsider.com/articles/24/04/19/tiktok-might-not-have-existed-without-insights-from-steve-jobs?utm_medium=rss)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints and Answer: Help for April 19, #1035     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-19-1035/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

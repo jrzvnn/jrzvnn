@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We&#39;re just tiny fishes.](http://9gag.com/gag/aryvrbp)
+ - 😝 [All of her kids are trans lmao](http://9gag.com/gag/apREz7D)
  - 😝 [No f**king way](http://9gag.com/gag/ae9jExp)
- - 💣 [Insert John Wick voice - *Consequences*](http://9gag.com/gag/aKGwyK1)
+ - 💣 [Damn, she&#39;s going through a whole crisis right there lol](http://9gag.com/gag/aGyYqQ5)
  - 😝 [Tough day at work because of bosses like @BOSSIETheTroll?](http://9gag.com/gag/aPA61QR)
- - 👉 [Well he is done with the phase](http://9gag.com/gag/aQzPD9z)<!-- MEMES:END -->
+ - 👉 [We&#39;re just tiny fishes.](http://9gag.com/gag/aryvrbp)<!-- MEMES:END -->
 
 ---
 

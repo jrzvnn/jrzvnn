@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u201cThe nail that sticks out will be hammered down. \u201c](http://9gag.com/gag/ae9jPnb)
- - 😝 [Do you agree that BLM and Pride Flags should be BANNED from classrooms?](http://9gag.com/gag/azxgorz)
- - 💣 [It&#39;s getting out of hand now...](http://9gag.com/gag/aKGwyLN)
+ - 😝 [Doesn&#39;t matter](http://9gag.com/gag/an7q3y5)
+ - 😝 [That guy is about to have a heart attack](http://9gag.com/gag/aXP0zYv)
+ - 💣 [Insert John Wick voice - *Consequences*](http://9gag.com/gag/aKGwyK1)
  - 😝 [Tough day at work because of bosses like @BOSSIETheTroll?](http://9gag.com/gag/aPA61QR)
- - 👉 [Insert John Wick voice - *Consequences*](http://9gag.com/gag/aKGwyK1)<!-- MEMES:END -->
+ - 👉 [Can I help...?](http://9gag.com/gag/aPAw0On)<!-- MEMES:END -->
 
 ---
 

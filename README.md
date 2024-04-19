@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Web design and hosting platform Webflow acquires Intellimize, which raised $50M and offers AI-powered webpage personalization, a source says for &quot;eight-figures&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240419/p5#a240419p5)
  - [BYD Yangwang U8 2024: Price, Specs, Availability](https://www.wired.com/story/this-chinese-luxury-hybrid-suv-combines-a-tank-a-bentley-and-a-boat/)
- - [Mortgage Rates Haven&#39;t Killed the Spring Homebuying Season Yet     - CNET](https://www.cnet.com/personal-finance/have-high-mortgage-rates-killed-the-spring-homebuying-season/#ftag=CAD590a51e)
- - [Score Over $100 Off This Echelon Smart Exercise Bike at Amazon     - CNET](https://www.cnet.com/deals/score-over-100-off-this-echelon-smart-exercise-bike-at-amazon/#ftag=CAD590a51e)
- - [Flagstar Bank: 2024 Home Equity Review     - CNET](https://www.cnet.com/personal-finance/mortgages/flagstar-bank/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Emulators are taking over the App Store](https://www.theverge.com/2024/4/19/24134767/emulators-iphone-delta-google-meta-ai-vergecast-podcast)
+ - [The Taylor Swift Album Leak’s Big AI Problem](https://www.wired.com/story/the-taylor-swift-album-leaks-big-ai-problem/)
+ - [A Wave of AI Tools Is Set to Transform Work Meetings](https://www.wired.com/story/taking-baby-steps-toward-the-ai-meeting-singularity/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

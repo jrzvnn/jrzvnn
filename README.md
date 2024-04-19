@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [All of her kids are trans lmao](http://9gag.com/gag/apREz7D)
- - 😝 [Just a reminder in case you forgot this great era](http://9gag.com/gag/a7oLmDe)
- - 💣 [Happy day](http://9gag.com/gag/awy096D)
- - 😝 [Mom beleives in her son&#39;s talent.](http://9gag.com/gag/aD2AqOd)
- - 👉 [This kind of trust will be lost soon](http://9gag.com/gag/aNDrGG3)<!-- MEMES:END -->
+ - 😝 [Spanish Reporter SHUTS DOWN Harasser After Live TV Assault &lpar;Thanks to Awesome Colleague!&rpar;](http://9gag.com/gag/an7q0LL)
+ - 😝 [When your prototype works too well :0](http://9gag.com/gag/amoNyXd)
+ - 💣 [Such a kind friend](http://9gag.com/gag/amoNdLd)
+ - 😝 [`Your thumb or mine?`](http://9gag.com/gag/aW4Q952)
+ - 👉 [Guys they did it](http://9gag.com/gag/aYQNZAq)<!-- MEMES:END -->
 
 ---
 

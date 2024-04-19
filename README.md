@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Doesn&#39;t matter](http://9gag.com/gag/an7q3y5)
- - 😝 [That guy is about to have a heart attack](http://9gag.com/gag/aXP0zYv)
- - 💣 [Insert John Wick voice - *Consequences*](http://9gag.com/gag/aKGwyK1)
+ - 😝 [It&#39;s getting out of hand now...](http://9gag.com/gag/aKGwyLN)
+ - 😝 [They were right...](http://9gag.com/gag/aYQNv60)
+ - 💣 [Do you agree that BLM and Pride Flags should be BANNED from classrooms?](http://9gag.com/gag/azxgorz)
  - 😝 [Tough day at work because of bosses like @BOSSIETheTroll?](http://9gag.com/gag/aPA61QR)
- - 👉 [Can I help...?](http://9gag.com/gag/aPAw0On)<!-- MEMES:END -->
+ - 👉 [What scene in a movie or TV series always makes you hungry?](http://9gag.com/gag/aYQN67v)<!-- MEMES:END -->
 
 ---
 

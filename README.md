@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What scene in a movie or TV series always makes you hungry?](http://9gag.com/gag/aYQN67v)
- - 😝 [When your prototype works too well :0](http://9gag.com/gag/amoNyXd)
- - 💣 [Can I help...?](http://9gag.com/gag/aPAw0On)
+ - 😝 [Can I help...?](http://9gag.com/gag/aPAw0On)
+ - 😝 [Especially here](http://9gag.com/gag/amoNQgy)
+ - 💣 [Skynet](http://9gag.com/gag/azxgy0x)
  - 😝 [Tough day at work because of bosses like @BOSSIETheTroll?](http://9gag.com/gag/aPA61QR)
- - 👉 [Kitum Cave. Believed to be the source of two of the deadliest diseases on earth. Ebola and Marburg.](http://9gag.com/gag/adB0WmD)<!-- MEMES:END -->
+ - 👉 [Somewhere in museum](http://9gag.com/gag/aZZb4Rz)<!-- MEMES:END -->
 
 ---
 

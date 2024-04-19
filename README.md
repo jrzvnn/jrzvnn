@@ -169,8 +169,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Senator Warren doesn&#39;t have a plan to break up Apple, but still wants to pretty badly](https://appleinsider.com/articles/24/04/19/senator-warren-doesnt-have-a-plan-to-break-up-apple-but-still-wants-to-pretty-badly?utm_medium=rss)
  - [Nas’ &#39;Illmatic&#39; Was the Beginning of the End of the Album](https://www.wired.com/story/nas-illmatic-30th-anniversary-beginning-of-the-end-of-the-album/)
  - [Unruly Gut Fungi Can Make Your Covid Worse](https://www.wired.com/story/unruly-gut-fungi-can-make-your-covid-worse-infection-coronavirus-candida-albicans/)
- - [Refi Rates Increase for Homeowners: Mortgage Refinance Rates on April 19, 2024     - CNET](https://www.cnet.com/personal-finance/mortgages/refi-rates-increase-for-homeowners-mortgage-refinance-rates-on-april-19-2024/#ftag=CAD590a51e)
- - [She Painted a Few Champagne Bottles. Then Came Meta’s Customer Support Hell](https://www.wired.com/story/influencer-painted-champagne-bottles-meta-customer-support-hell/)<!-- TECH:END -->
+ - [She Painted a Few Champagne Bottles. Then Came Meta’s Customer Support Hell](https://www.wired.com/story/influencer-painted-champagne-bottles-meta-customer-support-hell/)
+ - [Sources: Mistral plans to raise &amp;euro;500M at an over &amp;euro;5B valuation from multiple VCs and wealth funds, after raising ~&amp;euro;400M at a &amp;euro;2B valuation in December 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/240419/p3#a240419p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

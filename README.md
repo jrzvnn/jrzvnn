@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can I help...?](http://9gag.com/gag/aPAw0On)
- - 😝 [Google AI](http://9gag.com/gag/ajPYG0R)
- - 💣 [I have no sauce, please bear with me](http://9gag.com/gag/a4PKg1y)
+ - 😝 [What scene in a movie or TV series always makes you hungry?](http://9gag.com/gag/aYQN67v)
+ - 😝 [Damn, she&#39;s going through a whole crisis right there lol](http://9gag.com/gag/aGyYqQ5)
+ - 💣 [Especially here](http://9gag.com/gag/amoNQgy)
  - 😝 [Tough day at work because of bosses like @BOSSIETheTroll?](http://9gag.com/gag/aPA61QR)
- - 👉 [We&#39;re just tiny fishes.](http://9gag.com/gag/aryvrbp)<!-- MEMES:END -->
+ - 👉 [A very honest answer from a good boss.](http://9gag.com/gag/amoNQMV)<!-- MEMES:END -->
 
 ---
 

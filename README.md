@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When your browser history follows you](http://9gag.com/gag/a0e8G6O)
- - 😝 [God Wills It!](http://9gag.com/gag/aKGwLdW)
+ - 😝 [That defender could have deflected the ball with his face tsk tsk tsk](http://9gag.com/gag/a5QeA1L)
+ - 😝 [A perfect night for the time of our lives](http://9gag.com/gag/a6Zm3GN)
  - 💣 [Guys they did it](http://9gag.com/gag/aYQNZAq)
- - 😝 [It&#39;s just physics](http://9gag.com/gag/aMV2WQG)
- - 👉 [Insert John Wick voice - *Consequences*](http://9gag.com/gag/aKGwyK1)<!-- MEMES:END -->
+ - 😝 [Tough day at work because of bosses like @BOSSIETheTroll?](http://9gag.com/gag/aPA61QR)
+ - 👉 [Google AI](http://9gag.com/gag/ajPYG0R)<!-- MEMES:END -->
 
 ---
 

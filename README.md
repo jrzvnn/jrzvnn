@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well he is done with the phase](http://9gag.com/gag/aQzPD9z)
- - 😝 [Doesn&#39;t matter](http://9gag.com/gag/an7q3y5)
- - 💣 [Zuckerberg Captcha Test](http://9gag.com/gag/a4PKx11)
+ - 😝 [\u201cThe nail that sticks out will be hammered down. \u201c](http://9gag.com/gag/ae9jPnb)
+ - 😝 [Insert John Wick voice - *Consequences*](http://9gag.com/gag/aKGwyK1)
+ - 💣 [Do you agree that BLM and Pride Flags should be BANNED from classrooms?](http://9gag.com/gag/azxgorz)
  - 😝 [Tough day at work because of bosses like @BOSSIETheTroll?](http://9gag.com/gag/aPA61QR)
- - 👉 [Boston Dynamics says goodbye to its Atlas robot and now presents the new version of Atlas](http://9gag.com/gag/aVvz1Od)<!-- MEMES:END -->
+ - 👉 [It&#39;s getting out of hand now...](http://9gag.com/gag/aKGwyLN)<!-- MEMES:END -->
 
 ---
 

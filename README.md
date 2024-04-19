@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Applying the mathematical principles of Pareto to Mario Kart 8](https://www.theverge.com/2024/4/19/24135206/mario-kart-pareto-front-math-data-peach-rulez)
  - [Kia’s more affordable EV2 is getting ready to undercut Tesla](https://www.theverge.com/2024/4/19/24135116/kia-ev2-ev-affordable-cheap-electric-tesla-model-2)
  - [Target confirms it’s all but completely ditching DVDs in physical stores](https://www.theverge.com/2024/4/19/24135140/target-dvds-physical-media-selling-stop)
  - [Nothing rolls out ChatGPT integration for Nothing Phone &lpar;2&rpar; and Nothing earbuds, including voice and text widgets for the phone &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240419/p12#a240419p12)
- - [How Phish turned Las Vegas’ Sphere into the ultimate music visualizer](https://www.theverge.com/24134861/phish-sphere-las-vegas-moment-factory-interview)
- - [Best Printer Deals: Big Savings on Top Printers From Canon, Epson and More     - CNET](https://www.cnet.com/deals/best-printer-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How Phish turned Las Vegas’ Sphere into the ultimate music visualizer](https://www.theverge.com/24134861/phish-sphere-las-vegas-moment-factory-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

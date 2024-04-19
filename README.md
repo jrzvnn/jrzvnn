@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s getting out of hand now...](http://9gag.com/gag/aKGwyLN)
- - 😝 [Happy day](http://9gag.com/gag/awy096D)
- - 💣 [Insert John Wick voice - *Consequences*](http://9gag.com/gag/aKGwyK1)
- - 😝 [Tough day at work because of bosses like @BOSSIETheTroll?](http://9gag.com/gag/aPA61QR)
- - 👉 [They were right...](http://9gag.com/gag/aYQNv60)<!-- MEMES:END -->
+ - 😝 [Insert John Wick voice - *Consequences*](http://9gag.com/gag/aKGwyK1)
+ - 😝 [Can I help...?](http://9gag.com/gag/aPAw0On)
+ - 💣 [Tough day at work because of bosses like @BOSSIETheTroll?](http://9gag.com/gag/aPA61QR)
+ - 😝 [We&#39;re just tiny fishes.](http://9gag.com/gag/aryvrbp)
+ - 👉 [Doesn&#39;t matter](http://9gag.com/gag/an7q3y5)<!-- MEMES:END -->
 
 ---
 

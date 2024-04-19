@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Damn, she&#39;s going through a whole crisis right there lol](http://9gag.com/gag/aGyYqQ5)
- - 😝 [I&#39;m not quite sure how they plan on enforcing this](http://9gag.com/gag/apRE7mb)
- - 💣 [Doesn&#39;t matter](http://9gag.com/gag/an7q3y5)
+ - 😝 [Insert John Wick voice - *Consequences*](http://9gag.com/gag/aKGwyK1)
+ - 😝 [They were right...](http://9gag.com/gag/aYQNv60)
+ - 💣 [What scene in a movie or TV series always makes you hungry?](http://9gag.com/gag/aYQN67v)
  - 😝 [Tough day at work because of bosses like @BOSSIETheTroll?](http://9gag.com/gag/aPA61QR)
- - 👉 [We&#39;re just tiny fishes.](http://9gag.com/gag/aryvrbp)<!-- MEMES:END -->
+ - 👉 [Damn, she&#39;s going through a whole crisis right there lol](http://9gag.com/gag/aGyYqQ5)<!-- MEMES:END -->
 
 ---
 

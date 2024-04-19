@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Stop ChatGPT’s Voice Feature From Interrupting You](https://www.wired.com/story/how-to-stop-chatgpt-talking-over-you/)
- - [How planning and infrastructure failed during Maui wildfires](https://www.theverge.com/2024/4/19/24134274/infrastructure-planning-failures-maui-hawaii-wildfire-report)
- - [A 14-year-old is charged in fire that destroyed a driverless Waymo vehicle](https://www.theverge.com/2024/4/19/24134801/waymo-fire-arson-san-francisco-teen-police)
- - [Compare Your Energy Choices and Electricity Rates by State     - CNET](https://www.cnet.com/news/electricity-rates-by-state/#ftag=CAD590a51e)
- - [Sources describe Nigeria&#39;s detention of two Binance officials, including US compliance officer Tigran Gambaryan, on charges of tax evasion and money laundering &lpar;New York Times&rpar;](http://www.techmeme.com/240419/p6#a240419p6)<!-- TECH:END -->
+ - [20 Best Earth Day Deals &lpar;2024&rpar;: Ebikes, Chargers, and Bags Made of Recycled Plastic](https://www.wired.com/story/earth-day-deals-2024/)
+ - [18 Best Keyboards for PC &lpar;2024&rpar;: Gaming and Work](https://www.wired.com/gallery/best-keyboards/)
+ - [Taylor Swift gets custom collab with TikTok as UMG battle continues](https://www.theverge.com/2024/4/19/24134795/taylor-swift-ttpd-tiktok-hub-universal-music-group)
+ - [Best Buy&#39;s Latest Weekend Sale Offers Tons of Tech and Home Deals, but There&#39;s a Catch     - CNET](https://www.cnet.com/deals/best-buys-latest-weekend-sale-offers-tons-of-tech-and-home-deals-but-theres-a-catch/#ftag=CAD590a51e)
+ - [How to Stop ChatGPT’s Voice Feature From Interrupting You](https://www.wired.com/story/how-to-stop-chatgpt-talking-over-you/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

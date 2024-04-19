@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [All of her kids are trans lmao](http://9gag.com/gag/apREz7D)
- - 😝 [Both are in for a rude awakening](http://9gag.com/gag/aoyEdj0)
- - 💣 [`Your thumb or mine?`](http://9gag.com/gag/aW4Q952)
- - 😝 [Such a kind friend](http://9gag.com/gag/amoNdLd)
- - 👉 [Somewhere in museum](http://9gag.com/gag/aZZb4Rz)<!-- MEMES:END -->
+ - 😝 [African Illegal Setting Fire To A Patrol Station In Ravenna, Italy.](http://9gag.com/gag/a7oLGom)
+ - 😝 [Woman freaked out about service dog. Then went on tv and claim she acted that way because of racism.](http://9gag.com/gag/aO8Knq6)
+ - 💣 [Heroes](http://9gag.com/gag/agm3jM6)
+ - 😝 [Meta ai fails woke test](http://9gag.com/gag/aRBw86G)
+ - 👉 [What a nice looking horse](http://9gag.com/gag/aVvzB4y)<!-- MEMES:END -->
 
 ---
 

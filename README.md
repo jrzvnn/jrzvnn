@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twitter alternative Post News is shutting down](https://www.theverge.com/2024/4/19/24135011/twitter-alternative-post-news-shutdown)
  - [Maybe I don’t want a Rosey the Robot after all](https://www.theverge.com/2024/4/19/24134905/boston-dynamics-atlas-robot-smart-home-robot)
  - [10 Best Computer Monitors &lpar;2024&rpar;: Budget, OLED, 4K, Ultrawide](https://www.wired.com/gallery/best-computer-monitors/)
  - [Midas, which lets users in Turkey invest in US and Turkish equities, raised a $45M Series A, after a $11M seed in 2022, and plans crypto trading and more &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/240419/p9#a240419p9)
- - [Apple Pay NFC tech in iPhone will likely get opened up soon in the EU](https://appleinsider.com/articles/24/04/19/apple-pay-nfc-tech-in-iphone-will-likely-get-opened-up-soon-in-the-eu?utm_medium=rss)
- - [Sources: EU may accept Apple&#39;s proposal to open its NFC payments tech to rivals, and may close its antitrust probe in May, letting Apple avoid hefty fines &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240419/p8#a240419p8)<!-- TECH:END -->
+ - [Apple Pay NFC tech in iPhone will likely get opened up soon in the EU](https://appleinsider.com/articles/24/04/19/apple-pay-nfc-tech-in-iphone-will-likely-get-opened-up-soon-in-the-eu?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

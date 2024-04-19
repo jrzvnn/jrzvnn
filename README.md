@@ -169,7 +169,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [The Biggest Deepfake Porn Website Is Now Blocked in the UK](https://www.wired.com/story/the-biggest-deepfake-porn-website-is-now-blocked-in-the-uk/)
  - [Bitcoin Miners Brace for the ‘Halving’—and Race to Cash In](https://www.wired.com/story/bitcoin-miners-halving/)
  - [AirPlay turns the Delta emulator into a full-on retro console](https://www.theverge.com/2024/4/19/24134871/delta-emulator-apple-tv-airplay)
- - [Hacking group GhostR claims it stole 5.3M records from World-Check screening database used for KYC checks for sanctions and financial crime links &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240419/p7#a240419p7)
+ - [Hacking group GhostR claims it stole 5.3M records from World-Check&#39;s screening database, used for KYC checks for sanctions and financial crime links, in March &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240419/p7#a240419p7)
  - [20 Best Earth Day Deals &lpar;2024&rpar;: Ebikes, Chargers, and Bags Made of Recycled Plastic](https://www.wired.com/story/earth-day-deals-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

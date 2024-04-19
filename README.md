@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Peak male fantasy](http://9gag.com/gag/aByRj02)
- - 😝 [Undocumented migrants, mostly males from Africa and Haiti, are occupying an area in front of City Hall in New York City to demand more financial benefits and better housing. City officials promised to make it their top priority on the agenda.](http://9gag.com/gag/a5QexGg)
- - 💣 [Creative and engaging discount system](http://9gag.com/gag/aLnRbNM)
- - 😝 [Guys they did it](http://9gag.com/gag/aYQNZAq)
- - 👉 [Heroes](http://9gag.com/gag/agm3jM6)<!-- MEMES:END -->
+ - 😝 [Heroes](http://9gag.com/gag/agm3jM6)
+ - 💣 [Both are in for a rude awakening](http://9gag.com/gag/aoyEdj0)
+ - 😝 [We&#39;re just tiny fishes.](http://9gag.com/gag/aryvrbp)
+ - 👉 [Loll](http://9gag.com/gag/aQzPBmW)<!-- MEMES:END -->
 
 ---
 

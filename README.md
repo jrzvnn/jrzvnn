@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Emulators are taking over the App Store](https://www.theverge.com/2024/4/19/24134767/emulators-iphone-delta-google-meta-ai-vergecast-podcast)
  - [The Taylor Swift Album Leak’s Big AI Problem](https://www.wired.com/story/the-taylor-swift-album-leaks-big-ai-problem/)
  - [A Wave of AI Tools Is Set to Transform Work Meetings](https://www.wired.com/story/taking-baby-steps-toward-the-ai-meeting-singularity/)
  - [Tesla recalls all 3,878 Cybertrucks over faulty accelerator pedal](https://www.theverge.com/2024/4/19/24134753/tesla-recall-cybertruck-faulty-accelerator-pedal-nhtsa-defect)
- - [Game emulators, iPad Air screens, and Elgato&#39;s new range on the AppleInsider Podcast](https://appleinsider.com/articles/24/04/19/game-emulators-ipad-air-screens-and-elgatos-new-range-on-the-appleinsider-podcast?utm_medium=rss)
- - [Meta is restricting certain election-related keywords for Meta AI in India due to ongoing elections; Meta started testing its AI chatbot in India last week &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240419/p4#a240419p4)<!-- TECH:END -->
+ - [Game emulators, iPad Air screens, and Elgato&#39;s new range on the AppleInsider Podcast](https://appleinsider.com/articles/24/04/19/game-emulators-ipad-air-screens-and-elgatos-new-range-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nothing rolls out ChatGPT integration for Nothing Phone &lpar;2&rpar; and Nothing earbuds, including voice and text widgets for the phone &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240419/p12#a240419p12)
  - [How Phish turned Las Vegas’ Sphere into the ultimate music visualizer](https://www.theverge.com/24134861/phish-sphere-las-vegas-moment-factory-interview)
  - [The Hades 2 technical test is a trial in self-control](https://www.theverge.com/24135151/hades-2-technical-test-impressions)
  - [Telegram partners with Tether to let the messaging app&#39;s ~900M users send USDT to each other through The Open Network blockchain &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240419/p11#a240419p11)
- - [Smart string light showdown: Nanoleaf versus Lifx](https://www.theverge.com/24128446/lifx-outdoor-string-lights-versus-nanoleaf-matter-multicolor-outdoor-string-lights-review)
- - [You may not need Apple Pay to tap and pay with your EU iPhone soon](https://www.theverge.com/2024/4/19/24135095/apple-iphone-nfc-eu-payments)<!-- TECH:END -->
+ - [Smart string light showdown: Nanoleaf versus Lifx](https://www.theverge.com/24128446/lifx-outdoor-string-lights-versus-nanoleaf-matter-multicolor-outdoor-string-lights-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

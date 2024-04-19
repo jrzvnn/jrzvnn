@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Spanish Reporter SHUTS DOWN Harasser After Live TV Assault &lpar;Thanks to Awesome Colleague!&rpar;](http://9gag.com/gag/an7q0LL)
+ - 😝 [\u201cThe nail that sticks out will be hammered down. \u201c](http://9gag.com/gag/ae9jPnb)
  - 😝 [When your prototype works too well :0](http://9gag.com/gag/amoNyXd)
- - 💣 [Such a kind friend](http://9gag.com/gag/amoNdLd)
- - 😝 [`Your thumb or mine?`](http://9gag.com/gag/aW4Q952)
- - 👉 [Guys they did it](http://9gag.com/gag/aYQNZAq)<!-- MEMES:END -->
+ - 💣 [Loll](http://9gag.com/gag/aQzPBmW)
+ - 😝 [Such a kind friend](http://9gag.com/gag/amoNdLd)
+ - 👉 [`Your thumb or mine?`](http://9gag.com/gag/aW4Q952)<!-- MEMES:END -->
 
 ---
 

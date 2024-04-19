@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Such a kind friend](http://9gag.com/gag/amoNdLd)
- - 😝 [We&#39;re just tiny fishes.](http://9gag.com/gag/aryvrbp)
- - 💣 [Loll](http://9gag.com/gag/aQzPBmW)
- - 😝 [A trapdoor guarding a suffocating treasure trove. Careless seekers die from entrapment in one of these.](http://9gag.com/gag/aRBwDdq)
+ - 😝 [Guys they did it](http://9gag.com/gag/aYQNZAq)
+ - 😝 [Loll](http://9gag.com/gag/aQzPBmW)
+ - 💣 [That defender could have deflected the ball with his face tsk tsk tsk](http://9gag.com/gag/a5QeA1L)
+ - 😝 [Doesn&#39;t matter](http://9gag.com/gag/an7q3y5)
  - 👉 [That guy is about to have a heart attack](http://9gag.com/gag/aXP0zYv)<!-- MEMES:END -->
 
 ---

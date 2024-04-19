@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AirPlay turns the Delta emulator into a full-on retro console](https://www.theverge.com/2024/4/19/24134871/delta-emulator-apple-tv-airplay)
  - [Hacking group GhostR claims it stole 5.3M records from World-Check screening database used for KYC checks for sanctions and financial crime links &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240419/p7#a240419p7)
  - [20 Best Earth Day Deals &lpar;2024&rpar;: Ebikes, Chargers, and Bags Made of Recycled Plastic](https://www.wired.com/story/earth-day-deals-2024/)
- - [18 Best Keyboards for PC &lpar;2024&rpar;: Gaming and Work](https://www.wired.com/gallery/best-keyboards/)
- - [Taylor Swift gets custom collab with TikTok as UMG battle continues](https://www.theverge.com/2024/4/19/24134795/taylor-swift-ttpd-tiktok-hub-universal-music-group)
- - [Best Buy&#39;s Latest Weekend Sale Offers Tons of Tech and Home Deals, but There&#39;s a Catch     - CNET](https://www.cnet.com/deals/best-buys-latest-weekend-sale-offers-tons-of-tech-and-home-deals-but-theres-a-catch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Still Waiting on Your 2024 Tax Refund? Here&#39;s When It Could Arrive     - CNET](https://www.cnet.com/personal-finance/taxes/still-waiting-on-your-2024-tax-refund-heres-when-it-could-arrive/#ftag=CAD590a51e)
+ - [My Solar Panels Are Modern Magic at Work     - CNET](https://www.cnet.com/home/energy-and-utilities/my-solar-panels-are-modern-magic-at-work/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Another one](http://9gag.com/gag/agm3bjx)
+ - 😝 [That defender could have deflected the ball with his face tsk tsk tsk](http://9gag.com/gag/a5QeA1L)
+ - 💣 [Google AI](http://9gag.com/gag/ajPYG0R)
  - 😝 [Guys they did it](http://9gag.com/gag/aYQNZAq)
- - 😝 [Loll](http://9gag.com/gag/aQzPBmW)
- - 💣 [That defender could have deflected the ball with his face tsk tsk tsk](http://9gag.com/gag/a5QeA1L)
- - 😝 [Doesn&#39;t matter](http://9gag.com/gag/an7q3y5)
- - 👉 [That guy is about to have a heart attack](http://9gag.com/gag/aXP0zYv)<!-- MEMES:END -->
+ - 👉 [When your browser history follows you](http://9gag.com/gag/a0e8G6O)<!-- MEMES:END -->
 
 ---
 

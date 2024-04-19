@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Buy&#39;s Latest Weekend Sale Offers Tons of Tech and Home Deals, but There&#39;s a Catch     - CNET](https://www.cnet.com/deals/best-buys-latest-weekend-sale-offers-tons-of-tech-and-home-deals-but-theres-a-catch/#ftag=CAD590a51e)
  - [How to Stop ChatGPT’s Voice Feature From Interrupting You](https://www.wired.com/story/how-to-stop-chatgpt-talking-over-you/)
- - [How planning and infrastructure failed during Maui wildfires](https://www.theverge.com/2024/4/19/24134274/infrastructure-planning-failures-maui-hawaii-wildfire-report)
- - [A 14-year-old is charged in fire that destroyed a driverless Waymo vehicle](https://www.theverge.com/2024/4/19/24134801/waymo-fire-arson-san-francisco-teen-police)
- - [Compare Your Energy Choices and Electricity Rates by State     - CNET](https://www.cnet.com/news/electricity-rates-by-state/#ftag=CAD590a51e)
- - [Sources describe the detention of Binance officials, including compliance officer Tigran Gambaryan, by Nigeria on charges of tax evasion and money laundering &lpar;New York Times&rpar;](http://www.techmeme.com/240419/p6#a240419p6)<!-- TECH:END -->
+ - [Taylor Swift and TikTok Are Going Steady Again as New Double Album Drops     - CNET](https://www.cnet.com/tech/taylor-swift-and-tiktok-are-going-steady-again-as-new-double-album-drops/#ftag=CAD590a51e)
+ - [Mortgage Market Brings Higher Costs to Borrowers: Mortgage Rates for April 19, 2024     - CNET](https://www.cnet.com/personal-finance/mortgage-rates-inch-up-since-last-week-mortgage-interest-rates-for-april-19-2024/#ftag=CAD590a51e)
+ - [Taylor Swift&#39;s New Album Is Here: Nabbing All the Bonus Tracks Will Cost You     - CNET](https://www.cnet.com/culture/entertainment/taylor-swift-reveals-first-single-from-new-album-nabbing-all-the-bonus-tracks-will-cost-you/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

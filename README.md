@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Google AI](http://9gag.com/gag/ajPYG0R)
+ - 😝 [No f**king way](http://9gag.com/gag/ae9jExp)
  - 😝 [Can I help...?](http://9gag.com/gag/aPAw0On)
- - 💣 [Kitum Cave. Believed to be the source of two of the deadliest diseases on earth. Ebola and Marburg.](http://9gag.com/gag/adB0WmD)
+ - 💣 [I have no sauce, please bear with me](http://9gag.com/gag/a4PKg1y)
  - 😝 [Tough day at work because of bosses like @BOSSIETheTroll?](http://9gag.com/gag/aPA61QR)
- - 👉 [Zucc cooked](http://9gag.com/gag/aW4QyPK)<!-- MEMES:END -->
+ - 👉 [Kitum Cave. Believed to be the source of two of the deadliest diseases on earth. Ebola and Marburg.](http://9gag.com/gag/adB0WmD)<!-- MEMES:END -->
 
 ---
 

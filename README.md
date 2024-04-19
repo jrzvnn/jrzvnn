@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources describe the detention of Binance officials, including compliance officer Tigran Gambaryan, by Nigeria on charges of tax evasion and money laundering &lpar;New York Times&rpar;](http://www.techmeme.com/240419/p6#a240419p6)
+ - [Tesla Recalls Cybertruck Over Trapped Pedals—Its Worst Flaw Yet](https://www.wired.com/story/cybertruck-recall-accelerator-pad-tesla/)
+ - [EU&#39;s antitrust head is ignoring Spotify&#39;s dominance and wants to punish Apple instead](https://appleinsider.com/articles/24/04/19/eus-antitrust-head-is-ignoring-spotifys-dominance-and-wants-to-punish-apple-instead?utm_medium=rss)
  - [The Verge’s 2024 Mother’s Day gift guide](https://www.theverge.com/24115101/best-mothers-day-gift-ideas-2024-mom-tech-gadgets)
- - [Trek Fetch+ 2 Review: A Solid, Though Expensive, Cargo Ebike](https://www.wired.com/review/trek-fetch-plus-2/)
- - [Limited supply: Apple&#39;s latest 14-inch MacBook Pro is $200 off](https://appleinsider.com/articles/24/04/19/limited-supply-apples-latest-14-inch-macbook-pro-is-200-off?utm_medium=rss)
- - [Web design and hosting platform Webflow acquires Intellimize, which raised $50M and offers AI-powered webpage personalization, a source says for &quot;eight-figures&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240419/p5#a240419p5)
- - [BYD Yangwang U8 2024: Price, Specs, Availability](https://www.wired.com/story/this-chinese-luxury-hybrid-suv-combines-a-tank-a-bentley-and-a-boat/)<!-- TECH:END -->
+ - [Trek Fetch+ 2 Review: A Solid, Though Expensive, Cargo Ebike](https://www.wired.com/review/trek-fetch-plus-2/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

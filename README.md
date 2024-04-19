@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Go sports](http://9gag.com/gag/ae9jqqj)
- - 😝 [Doesn&#39;t matter](http://9gag.com/gag/an7q3y5)
- - 💣 [Couple ends up proposing at the same time](http://9gag.com/gag/abAXdVr)
+ - 😝 [That guy is about to have a heart attack](http://9gag.com/gag/aXP0zYv)
+ - 😝 [Insert John Wick voice - *Consequences*](http://9gag.com/gag/aKGwyK1)
+ - 💣 [British police and a psychologist showed up at this man&#39;s home because he had posted `Christians must stand up` on social media after Terrorist attack on bishop in Australia.](http://9gag.com/gag/ayN7AGV)
  - 😝 [Tough day at work because of bosses like @BOSSIETheTroll?](http://9gag.com/gag/aPA61QR)
- - 👉 [British police and a psychologist showed up at this man&#39;s home because he had posted `Christians must stand up` on social media after Terrorist attack on bishop in Australia.](http://9gag.com/gag/ayN7AGV)<!-- MEMES:END -->
+ - 👉 [She tried to throw a chair at her but got clocked In her shit instead](http://9gag.com/gag/aZZbKM0)<!-- MEMES:END -->
 
 ---
 

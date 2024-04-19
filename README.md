@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Most old people know this door](http://9gag.com/gag/aoyEqYm)
- - 😝 [No f**king way](http://9gag.com/gag/ae9jExp)
+ - 😝 [Google AI](http://9gag.com/gag/ajPYG0R)
+ - 😝 [Can I help...?](http://9gag.com/gag/aPAw0On)
  - 💣 [Kitum Cave. Believed to be the source of two of the deadliest diseases on earth. Ebola and Marburg.](http://9gag.com/gag/adB0WmD)
  - 😝 [Tough day at work because of bosses like @BOSSIETheTroll?](http://9gag.com/gag/aPA61QR)
- - 👉 [Google AI](http://9gag.com/gag/ajPYG0R)<!-- MEMES:END -->
+ - 👉 [Zucc cooked](http://9gag.com/gag/aW4QyPK)<!-- MEMES:END -->
 
 ---
 

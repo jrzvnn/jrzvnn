@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That defender could have deflected the ball with his face tsk tsk tsk](http://9gag.com/gag/a5QeA1L)
- - 😝 [A perfect night for the time of our lives](http://9gag.com/gag/a6Zm3GN)
- - 💣 [Guys they did it](http://9gag.com/gag/aYQNZAq)
+ - 😝 [Go sports](http://9gag.com/gag/ae9jqqj)
+ - 😝 [Doesn&#39;t matter](http://9gag.com/gag/an7q3y5)
+ - 💣 [Couple ends up proposing at the same time](http://9gag.com/gag/abAXdVr)
  - 😝 [Tough day at work because of bosses like @BOSSIETheTroll?](http://9gag.com/gag/aPA61QR)
- - 👉 [Google AI](http://9gag.com/gag/ajPYG0R)<!-- MEMES:END -->
+ - 👉 [British police and a psychologist showed up at this man&#39;s home because he had posted `Christians must stand up` on social media after Terrorist attack on bishop in Australia.](http://9gag.com/gag/ayN7AGV)<!-- MEMES:END -->
 
 ---
 

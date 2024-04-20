@@ -176,7 +176,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Kitum Cave. Believed to be the source of two of the deadliest diseases on earth. Ebola and Marburg.](http://9gag.com/gag/adB0WmD)
- - 😝 [Google AI](http://9gag.com/gag/ajPYG0R)
+ - 😝 [Bro wards off robbers without even making a face](http://9gag.com/gag/a34PrYe)
  - 💣 [Dad&#39;s joke at it finest](http://9gag.com/gag/a4PKy5y)
  - 😝 [Tough day at work because of bosses like @BOSSIETheTroll?](http://9gag.com/gag/aPA61QR)
  - 👉 [Zucc cooked](http://9gag.com/gag/aW4QyPK)<!-- MEMES:END -->

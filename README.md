@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with Linus Torvalds at the Open Source Summit North America on the XZ Utils exploit, open source development, RISC-V, AI, and more &lpar;David Cassel/The New Stack&rpar;](http://www.techmeme.com/240420/p4#a240420p4)
  - [The US Senate reauthorizes FISA&#39;s Section 702; some communication service providers had threatened to stop cooperating with the US government in case of a lapse &lpar;Gaby Del Valle/The Verge&rpar;](http://www.techmeme.com/240420/p3#a240420p3)
  - [Court filing: OpenAI says Elon Musk&#39;s claim that the company has abandoned its altruistic principles is &quot;revisionist history&quot; and a bid to boost his AI company &lpar;Robert Burnson/Bloomberg&rpar;](http://www.techmeme.com/240420/p2#a240420p2)
  - [Controversial US surveillance program &lpar;briefly?&rpar; lapses amid congressional dysfunction](https://www.theverge.com/2024/4/20/24135339/fisa-720-reauthorization-senate-lapse-durbin-wyden)
- - [Google scraps a 2019 policy requiring US suppliers and staffing firms to pay their employees $15 an hour and provide health insurance and other benefits &lpar;Daniel Wiessner/Reuters&rpar;](http://www.techmeme.com/240420/p1#a240420p1)
- - [National Bureau of Statistics: China&#39;s integrated circuit output rose 40% YoY to 98.1B units in Q1, a sign that the country is expanding legacy chip production &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/240419/p19#a240419p19)<!-- TECH:END -->
+ - [Google scraps a 2019 policy requiring US suppliers and staffing firms to pay their employees $15 an hour and provide health insurance and other benefits &lpar;Daniel Wiessner/Reuters&rpar;](http://www.techmeme.com/240420/p1#a240420p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

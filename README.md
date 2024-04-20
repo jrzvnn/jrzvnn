@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well that&#39;s a massive lawsuit for that doctor](http://9gag.com/gag/aMV255X)
- - 😝 [Have a beer.](http://9gag.com/gag/apRE78D)
- - 💣 [What would you do?](http://9gag.com/gag/a2vzAMY)
- - 😝 [Kitum Cave. Believed to be the source of two of the deadliest diseases on earth. Ebola and Marburg.](http://9gag.com/gag/adB0WmD)
- - 👉 [Pok\u00e9mon Go fans wondered why their characters changed after a patch update. Apparently Pok\u00e9mon cooperated with a consultant company called GaymerX that wants to push LGBT into games and challenge gender stereotypes. I bet they were hired by the racist Lead Community Manager.](http://9gag.com/gag/aE0v4XN)<!-- MEMES:END -->
+ - 😝 [Red Pills for a woman](http://9gag.com/gag/aMV27gW)
+ - 😝 [Somewhere in museum](http://9gag.com/gag/aZZb4Rz)
+ - 💣 [An accident](http://9gag.com/gag/a0e834B)
+ - 😝 [Efficiency](http://9gag.com/gag/aKGwMx6)
+ - 👉 [Normal is not an option](http://9gag.com/gag/aO8KWQR)<!-- MEMES:END -->
 
 ---
 

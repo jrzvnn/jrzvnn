@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hey, can you keep your hands still?](http://9gag.com/gag/avypV1M)
- - 😝 [92](http://9gag.com/gag/aPAwqbK)
- - 💣 [Another one](http://9gag.com/gag/agm3bjx)
- - 😝 [Back when `tight` meant close to each other,good friend](http://9gag.com/gag/an7qP8q)
- - 👉 [Is she into you? Probably..](http://9gag.com/gag/an7qwKB)<!-- MEMES:END -->
+ - 😝 [Can I help...?](http://9gag.com/gag/aPAw0On)
+ - 😝 [How close South Korea came to losing the war](http://9gag.com/gag/amoN4AV)
+ - 💣 [Back when `tight` meant close to each other,good friend](http://9gag.com/gag/an7qP8q)
+ - 😝 [Sweden](http://9gag.com/gag/a9ybG4K)
+ - 👉 [Something doesn\u2019t add up](http://9gag.com/gag/a2vzXpZ)<!-- MEMES:END -->
 
 ---
 

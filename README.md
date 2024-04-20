@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [9 Best Espresso Machines &lpar;2024&rpar;: Dual Boilers, Budget, and Accessories](https://www.wired.com/gallery/best-espresso-machines/)
+ - [How to change or cancel your music streaming services](https://www.theverge.com/24134842/music-streaming-services-apple-spotify-how-to)
  - [Best VPN for Windows     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-windows/#ftag=CAD590a51e)
  - [Lifetime Access to Microsoft Project Professional 2021 Is Just $20 This Weekend Only     - CNET](https://www.cnet.com/deals/lifetime-access-to-microsoft-project-professional-2021-is-just-20-this-weekend-only/#ftag=CAD590a51e)
- - [Get Cozy With 15% Off Sitewide During Buffy&#39;s Earth Day Sale     - CNET](https://www.cnet.com/deals/buffy-earth-day-sale/#ftag=CAD590a51e)
- - [Google Pixel 9 and 9 Pro Rumors: New Designs, Tensor G4 and a Pixel XL     - CNET](https://www.cnet.com/tech/mobile/google-pixel-9-and-9-pro-rumors-new-designs-tensor-g4-and-a-pixel-xl/#ftag=CAD590a51e)
- - [April Social Security Check: Where Is Your Money?     - CNET](https://www.cnet.com/personal-finance/april-social-security-check-where-is-your-money/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Get Cozy With 15% Off Sitewide During Buffy&#39;s Earth Day Sale     - CNET](https://www.cnet.com/deals/buffy-earth-day-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

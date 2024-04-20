@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You Can Clamp Your Phone Into Razer’s Fancy New Game Controller](https://www.wired.com/story/razer-kishi-ultra-game-controller/)
  - [My Life Outside of the Apple Vision Pro](https://www.wired.com/story/the-only-thing-worse-than-one-vision-pro-in-a-relationship-is-two/)
  - [Your Android Phone&#39;s Web Browser Has Junk Files You Can Tap Away Fast     - CNET](https://www.cnet.com/tech/mobile/your-android-phones-web-browser-has-junk-files-you-can-tap-away-fast/#ftag=CAD590a51e)
  - [You Might Be Recycling Your Metal Cans Wrong. Here&#39;s the Right Way     - CNET](https://www.cnet.com/how-to/you-might-be-recycling-your-metal-cans-wrong-heres-the-right-way/#ftag=CAD590a51e)
- - [iOS 17.4 Is Out, but Don&#39;t Miss All These New Features From iOS 17.2     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-4-is-out-but-dont-miss-all-these-new-features-from-ios-17-2/#ftag=CAD590a51e)
- - [AI-Controlled Fighter Jets Are Dogfighting With Human Pilots Now](https://www.wired.com/story/ai-fighter-jets-dogfight-security-roundup/)<!-- TECH:END -->
+ - [iOS 17.4 Is Out, but Don&#39;t Miss All These New Features From iOS 17.2     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-4-is-out-but-dont-miss-all-these-new-features-from-ios-17-2/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

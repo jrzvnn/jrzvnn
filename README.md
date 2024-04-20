@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Sources: Biden administration is encouraging US tech groups to seek AI deals in the UAE and brokered Microsoft&#39;s deal with G42, as it seeks an edge over China &lpar;Financial Times&rpar;](http://www.techmeme.com/240420/p7#a240420p7)
  - [Apple Vision Pro is revolutionizing surgical procedures worldwide](https://appleinsider.com/articles/24/04/20/apple-vision-pro-is-revolutionizing-surgical-procedures-worldwide?utm_medium=rss)
+ - [Wolves vs. Arsenal Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/wolves-vs-arsenal-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
  - [DJI’s pint-sized Mini 3 is on sale with a DJI RC controller for its best price yet](https://www.theverge.com/2024/4/20/24134935/dji-mini-3-drone-nintendo-switch-indie-sale-deal)
- - [Best Amazon Deals: Get Huge Discounts on Tech Gadgets, Home Goods and More     - CNET](https://www.cnet.com/deals/best-amazon-deals-get-huge-discounts-on-tech-gadgets-home-goods-and-more/#ftag=CAD590a51e)
- - [Save 15% Off Houswise&#39;s Fire Pits and More     - CNET](https://www.cnet.com/deals/save-15-off-houswises-fire-pits-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This Magic Kitchen Bin Turns Chicken Bones and Food Scraps Into Dirt Overnight     - CNET](https://www.cnet.com/news/mill-kitchen-bin-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

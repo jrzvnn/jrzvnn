@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [My Life Outside of the Apple Vision Pro](https://www.wired.com/story/the-only-thing-worse-than-one-vision-pro-in-a-relationship-is-two/)
  - [AI-Controlled Fighter Jets Are Dogfighting With Human Pilots Now](https://www.wired.com/story/ai-fighter-jets-dogfight-security-roundup/)
  - [How One Corporation Is Cashing In on America’s Drought](https://www.wired.com/story/drought-colorado-river-arizona-water/)
  - [Best Phones Under $300 in 2024     - CNET](https://www.cnet.com/tech/mobile/best-phones-under-300/#ftag=CAD590a51e)
- - [Earth Day 2024: Where and How to Recycle Your Old Computers and Printers for Free     - CNET](https://www.cnet.com/tech/computing/earth-day-2024-where-and-how-to-recycle-your-old-computers-and-printers-for-free/#ftag=CAD590a51e)
- - [The USPS Is Set to Hike Stamp Prices. You Should Buy Stamps Now     - CNET](https://www.cnet.com/personal-finance/the-usps-is-set-to-hike-stamp-prices-you-should-buy-stamps-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Earth Day 2024: Where and How to Recycle Your Old Computers and Printers for Free     - CNET](https://www.cnet.com/tech/computing/earth-day-2024-where-and-how-to-recycle-your-old-computers-and-printers-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

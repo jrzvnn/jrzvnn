@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How close South Korea came to losing the war](http://9gag.com/gag/amoN4AV)
+ - 😝 [Where your taxes are going to.](http://9gag.com/gag/aVvz6nM)
  - 😝 [92](http://9gag.com/gag/aPAwqbK)
- - 💣 [Hey, can you keep your hands still?](http://9gag.com/gag/avypV1M)
- - 😝 [Kitum Cave. Believed to be the source of two of the deadliest diseases on earth. Ebola and Marburg.](http://9gag.com/gag/adB0WmD)
+ - 💣 [How close South Korea came to losing the war](http://9gag.com/gag/amoN4AV)
+ - 😝 [Octopus takes an interest in a human sitting by the rocks](http://9gag.com/gag/an7qZL5)
  - 👉 [Japanese girls can&#39;t keep off their hand white guy](http://9gag.com/gag/abAXorr)<!-- MEMES:END -->
 
 ---

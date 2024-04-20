@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Google AI](http://9gag.com/gag/ajPYG0R)
- - 😝 [Bro wards off robbers without even making a face](http://9gag.com/gag/a34PrYe)
- - 💣 [When your browser history follows you](http://9gag.com/gag/a0e8G6O)
- - 😝 [Tough day at work because of bosses like @BOSSIETheTroll?](http://9gag.com/gag/aPA61QR)
- - 👉 [Pokemon GO uglyfing patch lmao](http://9gag.com/gag/aE0vbop)<!-- MEMES:END -->
+ - 😝 [Pokemon GO uglyfing patch lmao](http://9gag.com/gag/aE0vbop)
+ - 😝 [Can I help...?](http://9gag.com/gag/aPAw0On)
+ - 💣 [Tough day at work because of bosses like @BOSSIETheTroll?](http://9gag.com/gag/aPA61QR)
+ - 😝 [Using Anti Mosquito Racket in area full of mosquitoes](http://9gag.com/gag/axydK4n)
+ - 👉 [Is she into you? Probably..](http://9gag.com/gag/an7qwKB)<!-- MEMES:END -->
 
 ---
 

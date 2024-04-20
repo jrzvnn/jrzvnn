@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Open-source GameCube and Wii emulator Dolphin is not coming to App Store as Apple doesn&#39;t allow JIT recompilers on iOS, possibly due to security considerations &lpar;oatmealdome.me&rpar;](http://www.techmeme.com/240420/p9#a240420p9)
- - [Apple TV+ hits #1 in streaming movies, Top 10 in streaming TV series](https://appleinsider.com/articles/24/04/20/apple-tv-hits-1-in-streaming-movies-top-10-in-streaming-tv-series?utm_medium=rss)
- - [The Houses Passes a TikTok Ban Bill That’s on the Fast Track](https://www.wired.com/story/house-passes-tiktok-ban-fast-track/)
- - [The little smart home platform that could](https://www.theverge.com/24135207/home-assistant-announces-open-home-foundation)
- - [Don&#39;t Miss Out on Jackery&#39;s Earth Day Sale and Save up to 42%     - CNET](https://www.cnet.com/deals/dont-miss-out-on-jackerys-earth-day-sale-and-save-up-to-42/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [NHL Playoffs 2024: Schedule, Matchups, TV Times, How to Watch Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/nhl-playoffs-2024-schedule-matchups-tv-times-how-to-watch-without-cable/#ftag=CAD590a51e)
+ - [Best Sonos Deals: Save Up to $140 on Top-Rated Portable Speakers, Soundbars and More     - CNET](https://www.cnet.com/deals/best-sonos-deals/#ftag=CAD590a51e)
+ - [Try These 12 Daily Habits and Become a Healthier You     - CNET](https://www.cnet.com/health/try-these-12-daily-habits-and-become-a-healthier-you/#ftag=CAD590a51e)
+ - [Taylor Swift&#39;s First &#39;Tortured Poets&#39; Music Video Is Out Now: What to Know About Her Latest Work     - CNET](https://www.cnet.com/culture/entertainment/taylor-swifts-first-tortured-poets-music-video-is-out-now-what-to-know/#ftag=CAD590a51e)
+ - [Open-source GameCube and Wii emulator Dolphin is not coming to App Store as Apple doesn&#39;t allow JIT recompilers on iOS, possibly due to security considerations &lpar;oatmealdome.me&rpar;](http://www.techmeme.com/240420/p9#a240420p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

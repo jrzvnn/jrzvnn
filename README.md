@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hey, can you keep your hands still?](http://9gag.com/gag/avypV1M)
- - 😝 [Sweden](http://9gag.com/gag/a9ybG4K)
- - 💣 [Japanese girls can&#39;t keep off their hand white guy](http://9gag.com/gag/abAXorr)
- - 😝 [Something doesn\u2019t add up](http://9gag.com/gag/a2vzXpZ)
- - 👉 [Is she into you? Probably..](http://9gag.com/gag/an7qwKB)<!-- MEMES:END -->
+ - 😝 [Where your taxes are going to.](http://9gag.com/gag/aVvz6nM)
+ - 😝 [Anyone have some `look twice` pics](http://9gag.com/gag/aRBwqVG)
+ - 💣 [How close South Korea came to losing the war](http://9gag.com/gag/amoN4AV)
+ - 😝 [92](http://9gag.com/gag/aPAwqbK)
+ - 👉 [Hey, can you keep your hands still?](http://9gag.com/gag/avypV1M)<!-- MEMES:END -->
 
 ---
 

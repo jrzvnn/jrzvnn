@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [2024 is the year of female empowerment](http://9gag.com/gag/an7q0WE)
- - 😝 [Can I help...?](http://9gag.com/gag/aPAw0On)
- - 💣 [Kitum Cave. Believed to be the source of two of the deadliest diseases on earth. Ebola and Marburg.](http://9gag.com/gag/adB0WmD)
- - 😝 [92](http://9gag.com/gag/aPAwqbK)
- - 👉 [Dad&#39;s joke at it finest](http://9gag.com/gag/a4PKy5y)<!-- MEMES:END -->
+ - 😝 [Paris become first Arabic city to support Israel.](http://9gag.com/gag/aryvEEV)
+ - 😝 [Title](http://9gag.com/gag/aRBwpN2)
+ - 💣 [Where your taxes are going to.](http://9gag.com/gag/aVvz6nM)
+ - 😝 [Normal is not an option](http://9gag.com/gag/aO8KWQR)
+ - 👉 [An accident](http://9gag.com/gag/a0e834B)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can I help...?](http://9gag.com/gag/aPAw0On)
- - 😝 [Especially here](http://9gag.com/gag/amoNQgy)
- - 💣 [Skynet](http://9gag.com/gag/azxgy0x)
+ - 😝 [Kitum Cave. Believed to be the source of two of the deadliest diseases on earth. Ebola and Marburg.](http://9gag.com/gag/adB0WmD)
+ - 😝 [Google AI](http://9gag.com/gag/ajPYG0R)
+ - 💣 [Dad&#39;s joke at it finest](http://9gag.com/gag/a4PKy5y)
  - 😝 [Tough day at work because of bosses like @BOSSIETheTroll?](http://9gag.com/gag/aPA61QR)
- - 👉 [Somewhere in museum](http://9gag.com/gag/aZZb4Rz)<!-- MEMES:END -->
+ - 👉 [Zucc cooked](http://9gag.com/gag/aW4QyPK)<!-- MEMES:END -->
 
 ---
 

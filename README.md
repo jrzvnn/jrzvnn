@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What scene in a movie or TV series always makes you hungry?](http://9gag.com/gag/aYQN67v)
- - 😝 [When your browser history follows you](http://9gag.com/gag/a0e8G6O)
- - 💣 [Octopus takes an interest in a human sitting by the rocks](http://9gag.com/gag/an7qZL5)
+ - 😝 [Pokemon GO uglyfing patch lmao](http://9gag.com/gag/aE0vbop)
+ - 😝 [Efficiency](http://9gag.com/gag/aKGwMx6)
+ - 💣 [Dad&#39;s joke at it finest](http://9gag.com/gag/a4PKy5y)
  - 😝 [Tough day at work because of bosses like @BOSSIETheTroll?](http://9gag.com/gag/aPA61QR)
- - 👉 [Hey, can you keep your hands still?](http://9gag.com/gag/avypV1M)<!-- MEMES:END -->
+ - 👉 [Well that&#39;s a massive lawsuit for that doctor](http://9gag.com/gag/aMV255X)<!-- MEMES:END -->
 
 ---
 

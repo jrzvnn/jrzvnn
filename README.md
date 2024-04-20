@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well that&#39;s a massive lawsuit for that doctor](http://9gag.com/gag/aMV255X)
- - 😝 [Doesn&#39;t matter](http://9gag.com/gag/an7q3y5)
- - 💣 [How close South Korea came to losing the war](http://9gag.com/gag/amoN4AV)
- - 😝 [Sweden](http://9gag.com/gag/a9ybG4K)
- - 👉 [Japanese girls can&#39;t keep off their hand white guy](http://9gag.com/gag/abAXorr)<!-- MEMES:END -->
+ - 😝 [Hey, can you keep your hands still?](http://9gag.com/gag/avypV1M)
+ - 😝 [92](http://9gag.com/gag/aPAwqbK)
+ - 💣 [Another one](http://9gag.com/gag/agm3bjx)
+ - 😝 [Back when `tight` meant close to each other,good friend](http://9gag.com/gag/an7qP8q)
+ - 👉 [Is she into you? Probably..](http://9gag.com/gag/an7qwKB)<!-- MEMES:END -->
 
 ---
 

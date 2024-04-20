@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [GE Café Specialty Grind and Brew Coffee Maker Review: Can&#39;t Make Just One Cup](https://www.wired.com/review/ge-cafe-specialty-grind-and-brew/)
  - [A look at Los Angeles&#39; Homelessness Prevention pilot program, which uses AI to identify those at risk of becoming homeless, offering aid to keep them housed &lpar;Kate Rogers/CNBC&rpar;](http://www.techmeme.com/240420/p5#a240420p5)
  - [You Can Clamp Your Phone Into Razer’s Fancy New Game Controller](https://www.wired.com/story/razer-kishi-ultra-game-controller/)
- - [My Life Outside of the Apple Vision Pro](https://www.wired.com/story/the-only-thing-worse-than-one-vision-pro-in-a-relationship-is-two/)
- - [Your Android Phone&#39;s Web Browser Has Junk Files You Can Tap Away Fast     - CNET](https://www.cnet.com/tech/mobile/your-android-phones-web-browser-has-junk-files-you-can-tap-away-fast/#ftag=CAD590a51e)
- - [You Might Be Recycling Your Metal Cans Wrong. Here&#39;s the Right Way     - CNET](https://www.cnet.com/how-to/you-might-be-recycling-your-metal-cans-wrong-heres-the-right-way/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Record Store Day 2024: How to Flatten Warped Vinyl Records at Home     - CNET](https://www.cnet.com/how-to/record-store-day-2024-how-to-unwarp-vinyl-records-at-home/#ftag=CAD590a51e)
+ - [Farewell to Boston Dynamics&#39; Atlas Robot: Hilarious Bloopers and Triumphs Reel     - CNET](https://www.cnet.com/tech/farewell-to-boston-dynamics-atlas-robot-hilarious-bloopers-and-triumphs-reel/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

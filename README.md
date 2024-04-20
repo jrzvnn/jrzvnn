@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Open-source GameCube and Wii emulator Dolphin is not coming to App Store as Apple doesn&#39;t allow JIT recompilers on iOS, possibly due to security considerations &lpar;oatmealdome.me&rpar;](http://www.techmeme.com/240420/p9#a240420p9)
+ - [Apple TV+ hits #1 in streaming movies, Top 10 in streaming TV series](https://appleinsider.com/articles/24/04/20/apple-tv-hits-1-in-streaming-movies-top-10-in-streaming-tv-series?utm_medium=rss)
  - [The Houses Passes a TikTok Ban Bill That’s on the Fast Track](https://www.wired.com/story/house-passes-tiktok-ban-fast-track/)
  - [The little smart home platform that could](https://www.theverge.com/24135207/home-assistant-announces-open-home-foundation)
- - [The House passes a TikTok divestiture bill with a longer sale deadline as part of a package of Ukraine/Israel aid bills, pressuring the Senate to vote on TikTok &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240420/p8#a240420p8)
- - [TikTok ‘ban’ passes in the House again, moving to the Senate in foreign aid package](https://www.theverge.com/2024/4/20/24135163/tiktok-ban-divest-bytedance-house-foreign-aid-package)
- - [NBA Playoffs 2024: Schedule, Matchups, TV Times, How to Watch Today&#39;s Games     - CNET](https://www.cnet.com/tech/services-and-software/nba-playoffs-2024-schedule-matchups-tv-times-how-to-watch-todays-games/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Don&#39;t Miss Out on Jackery&#39;s Earth Day Sale and Save up to 42%     - CNET](https://www.cnet.com/deals/dont-miss-out-on-jackerys-earth-day-sale-and-save-up-to-42/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

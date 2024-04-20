@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dad&#39;s joke at it finest](http://9gag.com/gag/a4PKy5y)
- - 😝 [Zucc cooked](http://9gag.com/gag/aW4QyPK)
- - 💣 [Bro wards off robbers without even making a face](http://9gag.com/gag/a34PrYe)
+ - 😝 [Google AI](http://9gag.com/gag/ajPYG0R)
+ - 😝 [Bro wards off robbers without even making a face](http://9gag.com/gag/a34PrYe)
+ - 💣 [When your browser history follows you](http://9gag.com/gag/a0e8G6O)
  - 😝 [Tough day at work because of bosses like @BOSSIETheTroll?](http://9gag.com/gag/aPA61QR)
- - 👉 [What would you do?](http://9gag.com/gag/a2vzAMY)<!-- MEMES:END -->
+ - 👉 [Pokemon GO uglyfing patch lmao](http://9gag.com/gag/aE0vbop)<!-- MEMES:END -->
 
 ---
 

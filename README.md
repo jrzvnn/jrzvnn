@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That guy is about to have a heart attack](http://9gag.com/gag/aXP0zYv)
- - 😝 [Kitum Cave. Believed to be the source of two of the deadliest diseases on earth. Ebola and Marburg.](http://9gag.com/gag/adB0WmD)
- - 💣 [Well that&#39;s a massive lawsuit for that doctor](http://9gag.com/gag/aMV255X)
- - 😝 [Tough day at work because of bosses like @BOSSIETheTroll?](http://9gag.com/gag/aPA61QR)
- - 👉 [2024 is the year of female empowerment](http://9gag.com/gag/an7q0WE)<!-- MEMES:END -->
+ - 😝 [Have a beer.](http://9gag.com/gag/apRE78D)
+ - 😝 [Well that&#39;s a massive lawsuit for that doctor](http://9gag.com/gag/aMV255X)
+ - 💣 [Can I help...?](http://9gag.com/gag/aPAw0On)
+ - 😝 [Zucc cooked](http://9gag.com/gag/aW4QyPK)
+ - 👉 [Taishan in China.There are 7,200 steps, and it takes 4 to 6 hours to reach the top. Ignore the music](http://9gag.com/gag/a87L9L3)<!-- MEMES:END -->
 
 ---
 

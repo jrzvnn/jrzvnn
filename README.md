@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SK Hynix partners with TSMC to develop next-gen HBM4 chips, which are critical for AI and slated for mass production in 2026, and advanced chip packaging tech &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240419/p18#a240419p18)
  - [Filing: a group of FTX investors and customers agree to drop their claims against SBF if he cooperates in cases against celebrities and others who pushed FTX &lpar;Bloomberg&rpar;](http://www.techmeme.com/240419/p17#a240419p17)
  - [World Snooker Championship 2024: How to Watch Live From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/world-snooker-championship-2024-how-to-watch-live-from-anywhere/#ftag=CAD590a51e)
  - [China publishes measures to boost foreign investment in its domestic technology sector, including encouraging tech companies to raise money via bond issuance &lpar;Reuters&rpar;](http://www.techmeme.com/240419/p16#a240419p16)
- - [Best Filtered Water Bottles of 2024     - CNET](https://www.cnet.com/health/best-filtered-water-bottle/#ftag=CAD590a51e)
- - [Bitcoin&#39;s fourth halving is now complete, lowering miners&#39; block subsidy rewards from 6.25 BTC to 3.125 BTC; the third halving was on May 2020 &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/240419/p15#a240419p15)<!-- TECH:END -->
+ - [Best Filtered Water Bottles of 2024     - CNET](https://www.cnet.com/health/best-filtered-water-bottle/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

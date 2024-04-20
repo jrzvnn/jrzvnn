@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Where your taxes are going to.](http://9gag.com/gag/aVvz6nM)
- - 😝 [92](http://9gag.com/gag/aPAwqbK)
+ - 😝 [Well that&#39;s a massive lawsuit for that doctor](http://9gag.com/gag/aMV255X)
+ - 😝 [Doesn&#39;t matter](http://9gag.com/gag/an7q3y5)
  - 💣 [How close South Korea came to losing the war](http://9gag.com/gag/amoN4AV)
- - 😝 [Octopus takes an interest in a human sitting by the rocks](http://9gag.com/gag/an7qZL5)
+ - 😝 [Sweden](http://9gag.com/gag/a9ybG4K)
  - 👉 [Japanese girls can&#39;t keep off their hand white guy](http://9gag.com/gag/abAXorr)<!-- MEMES:END -->
 
 ---

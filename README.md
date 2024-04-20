@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is she into you? Probably..](http://9gag.com/gag/an7qwKB)
- - 😝 [American citizenship final exam](http://9gag.com/gag/aZZb5p9)
- - 💣 [That&#39;s great to hear!](http://9gag.com/gag/an7qZ0n)
+ - 😝 [Guys they did it](http://9gag.com/gag/aYQNZAq)
+ - 😝 [When your browser history follows you](http://9gag.com/gag/a0e8G6O)
+ - 💣 [Dad&#39;s joke at it finest](http://9gag.com/gag/a4PKy5y)
  - 😝 [Tough day at work because of bosses like @BOSSIETheTroll?](http://9gag.com/gag/aPA61QR)
- - 👉 [Using Anti Mosquito Racket in area full of mosquitoes](http://9gag.com/gag/axydK4n)<!-- MEMES:END -->
+ - 👉 [Taishan in China.There are 7,200 steps, and it takes 4 to 6 hours to reach the top. Ignore the music](http://9gag.com/gag/a87L9L3)<!-- MEMES:END -->
 
 ---
 

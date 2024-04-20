@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Damn, she&#39;s going through a whole crisis right there lol](http://9gag.com/gag/aGyYqQ5)
- - 😝 [Dad&#39;s joke at it finest](http://9gag.com/gag/a4PKy5y)
- - 💣 [Kitum Cave. Believed to be the source of two of the deadliest diseases on earth. Ebola and Marburg.](http://9gag.com/gag/adB0WmD)
+ - 😝 [What scene in a movie or TV series always makes you hungry?](http://9gag.com/gag/aYQN67v)
+ - 😝 [When your browser history follows you](http://9gag.com/gag/a0e8G6O)
+ - 💣 [Octopus takes an interest in a human sitting by the rocks](http://9gag.com/gag/an7qZL5)
  - 😝 [Tough day at work because of bosses like @BOSSIETheTroll?](http://9gag.com/gag/aPA61QR)
- - 👉 [What would you do?](http://9gag.com/gag/a2vzAMY)<!-- MEMES:END -->
+ - 👉 [Hey, can you keep your hands still?](http://9gag.com/gag/avypV1M)<!-- MEMES:END -->
 
 ---
 

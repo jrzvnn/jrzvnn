@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Insert John Wick voice - *Consequences*](http://9gag.com/gag/aKGwyK1)
- - 😝 [Dad&#39;s joke at it finest](http://9gag.com/gag/a4PKy5y)
- - 💣 [Kitum Cave. Believed to be the source of two of the deadliest diseases on earth. Ebola and Marburg.](http://9gag.com/gag/adB0WmD)
+ - 😝 [Can I help...?](http://9gag.com/gag/aPAw0On)
+ - 😝 [American citizenship final exam](http://9gag.com/gag/aZZb5p9)
+ - 💣 [Skynet](http://9gag.com/gag/azxgy0x)
  - 😝 [Tough day at work because of bosses like @BOSSIETheTroll?](http://9gag.com/gag/aPA61QR)
- - 👉 [Google AI](http://9gag.com/gag/ajPYG0R)<!-- MEMES:END -->
+ - 👉 [That&#39;s great to hear!](http://9gag.com/gag/an7qZ0n)<!-- MEMES:END -->
 
 ---
 

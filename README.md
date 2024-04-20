@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This is Tesla’s riveting fix for recalled Cybertruck accelerator pedals](https://www.theverge.com/2024/4/20/24135876/tesla-cybertruck-accelerator-pedal-recall-fix)
  - [House passes bill saying ByteDance must sell or spin off TikTok](https://appleinsider.com/articles/24/04/20/house-bill-proposes-bytedances-forced-sale-or-divestiture-of-tiktok?utm_medium=rss)
  - [Best Buy&#39;s MacBook Air sale drives prices down to $599](https://appleinsider.com/articles/24/04/20/best-buys-macbook-air-sale-drives-prices-down-to-599?utm_medium=rss)
  - [Nvidia will provide the software for Japan&#39;s ABCI-Q, a hybrid supercomputer that offers quantum computing capability for drug research and other uses &lpar;Riho Nagao/Nikkei Asia&rpar;](http://www.techmeme.com/240420/p10#a240420p10)
- - [Save 15% Off Houswise&#39;s Fire Pits and More     - CNET](https://www.cnet.com/deals/save-15-off-houswises-fire-pits-and-more/#ftag=CAD590a51e)
- - [Buried in Tabs? Use This Mac Hack to Organize Your Windows     - CNET](https://www.cnet.com/tech/services-and-software/buried-in-tabs-use-this-mac-hack-to-organize-your-windows/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save 15% Off Houswise&#39;s Fire Pits and More     - CNET](https://www.cnet.com/deals/save-15-off-houswises-fire-pits-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

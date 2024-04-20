@@ -175,9 +175,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guys they did it](http://9gag.com/gag/aYQNZAq)
- - 😝 [When your browser history follows you](http://9gag.com/gag/a0e8G6O)
- - 💣 [Dad&#39;s joke at it finest](http://9gag.com/gag/a4PKy5y)
+ - 😝 [Damn, she&#39;s going through a whole crisis right there lol](http://9gag.com/gag/aGyYqQ5)
+ - 😝 [5 years of electrical engineering notes in a German college: 35k sheets](http://9gag.com/gag/a6Zm6nb)
+ - 💣 [I have no sauce, please bear with me](http://9gag.com/gag/a4PKg1y)
  - 😝 [Tough day at work because of bosses like @BOSSIETheTroll?](http://9gag.com/gag/aPA61QR)
  - 👉 [Taishan in China.There are 7,200 steps, and it takes 4 to 6 hours to reach the top. Ignore the music](http://9gag.com/gag/a87L9L3)<!-- MEMES:END -->
 

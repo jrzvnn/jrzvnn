@@ -166,7 +166,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [House bill proposes ByteDance&#39;s forced sale or divestiture of TikTok](https://appleinsider.com/articles/24/04/20/house-bill-proposes-bytedances-forced-sale-or-divestiture-of-tiktok?utm_medium=rss)
+ - [House passes bill saying ByteDance must sell or spin off TikTok](https://appleinsider.com/articles/24/04/20/house-bill-proposes-bytedances-forced-sale-or-divestiture-of-tiktok?utm_medium=rss)
  - [Best Buy&#39;s MacBook Air sale drives prices down to $599](https://appleinsider.com/articles/24/04/20/best-buys-macbook-air-sale-drives-prices-down-to-599?utm_medium=rss)
  - [Nvidia will provide the software for Japan&#39;s ABCI-Q, a hybrid supercomputer that offers quantum computing capability for drug research and other uses &lpar;Riho Nagao/Nikkei Asia&rpar;](http://www.techmeme.com/240420/p10#a240420p10)
  - [Save 15% Off Houswise&#39;s Fire Pits and More     - CNET](https://www.cnet.com/deals/save-15-off-houswises-fire-pits-and-more/#ftag=CAD590a51e)

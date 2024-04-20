@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pokemon GO uglyfing patch lmao](http://9gag.com/gag/aE0vbop)
- - 😝 [Efficiency](http://9gag.com/gag/aKGwMx6)
- - 💣 [Dad&#39;s joke at it finest](http://9gag.com/gag/a4PKy5y)
+ - 😝 [That guy is about to have a heart attack](http://9gag.com/gag/aXP0zYv)
+ - 😝 [Kitum Cave. Believed to be the source of two of the deadliest diseases on earth. Ebola and Marburg.](http://9gag.com/gag/adB0WmD)
+ - 💣 [Well that&#39;s a massive lawsuit for that doctor](http://9gag.com/gag/aMV255X)
  - 😝 [Tough day at work because of bosses like @BOSSIETheTroll?](http://9gag.com/gag/aPA61QR)
- - 👉 [Well that&#39;s a massive lawsuit for that doctor](http://9gag.com/gag/aMV255X)<!-- MEMES:END -->
+ - 👉 [2024 is the year of female empowerment](http://9gag.com/gag/an7q0WE)<!-- MEMES:END -->
 
 ---
 

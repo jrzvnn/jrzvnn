@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GE Café Specialty Grind and Brew Coffee Maker Review: Can&#39;t Make Just One Cup](https://www.wired.com/review/ge-cafe-specialty-grind-and-brew/)
- - [A look at Los Angeles&#39; Homelessness Prevention pilot program, which uses AI to identify those at risk of becoming homeless, offering aid to keep them housed &lpar;Kate Rogers/CNBC&rpar;](http://www.techmeme.com/240420/p5#a240420p5)
- - [You Can Clamp Your Phone Into Razer’s Fancy New Game Controller](https://www.wired.com/story/razer-kishi-ultra-game-controller/)
- - [Record Store Day 2024: How to Flatten Warped Vinyl Records at Home     - CNET](https://www.cnet.com/how-to/record-store-day-2024-how-to-unwarp-vinyl-records-at-home/#ftag=CAD590a51e)
- - [Farewell to Boston Dynamics&#39; Atlas Robot: Hilarious Bloopers and Triumphs Reel     - CNET](https://www.cnet.com/tech/farewell-to-boston-dynamics-atlas-robot-hilarious-bloopers-and-triumphs-reel/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best VPN for Windows     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-windows/#ftag=CAD590a51e)
+ - [Lifetime Access to Microsoft Project Professional 2021 Is Just $20 This Weekend Only     - CNET](https://www.cnet.com/deals/lifetime-access-to-microsoft-project-professional-2021-is-just-20-this-weekend-only/#ftag=CAD590a51e)
+ - [Get Cozy With 15% Off Sitewide During Buffy&#39;s Earth Day Sale     - CNET](https://www.cnet.com/deals/buffy-earth-day-sale/#ftag=CAD590a51e)
+ - [Google Pixel 9 and 9 Pro Rumors: New Designs, Tensor G4 and a Pixel XL     - CNET](https://www.cnet.com/tech/mobile/google-pixel-9-and-9-pro-rumors-new-designs-tensor-g4-and-a-pixel-xl/#ftag=CAD590a51e)
+ - [April Social Security Check: Where Is Your Money?     - CNET](https://www.cnet.com/personal-finance/april-social-security-check-where-is-your-money/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

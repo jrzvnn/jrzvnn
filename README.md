@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [My Life Outside of the Apple Vision Pro](https://www.wired.com/story/the-only-thing-worse-than-one-vision-pro-in-a-relationship-is-two/)
- - [Your Android Phone&#39;s Web Browser Has Junk Files You Can Tap Away Fast     - CNET](https://www.cnet.com/tech/mobile/your-android-phones-web-browser-has-junk-files-you-can-tap-away-fast/#ftag=CAD590a51e)
- - [You Might Be Recycling Your Metal Cans Wrong. Here&#39;s the Right Way     - CNET](https://www.cnet.com/how-to/you-might-be-recycling-your-metal-cans-wrong-heres-the-right-way/#ftag=CAD590a51e)
- - [iOS 17.4 Is Out, but Don&#39;t Miss All These New Features From iOS 17.2     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-4-is-out-but-dont-miss-all-these-new-features-from-ios-17-2/#ftag=CAD590a51e)
- - [AI-Controlled Fighter Jets Are Dogfighting With Human Pilots Now](https://www.wired.com/story/ai-fighter-jets-dogfight-security-roundup/)<!-- TECH:END -->
+ - [AI-Controlled Fighter Jets Are Dogfighting With Human Pilots Now](https://www.wired.com/story/ai-fighter-jets-dogfight-security-roundup/)
+ - [How One Corporation Is Cashing In on America’s Drought](https://www.wired.com/story/drought-colorado-river-arizona-water/)
+ - [Best Phones Under $300 in 2024     - CNET](https://www.cnet.com/tech/mobile/best-phones-under-300/#ftag=CAD590a51e)
+ - [Earth Day 2024: Where and How to Recycle Your Old Computers and Printers for Free     - CNET](https://www.cnet.com/tech/computing/earth-day-2024-where-and-how-to-recycle-your-old-computers-and-printers-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Where your taxes are going to.](http://9gag.com/gag/aVvz6nM)
- - 😝 [Anyone have some `look twice` pics](http://9gag.com/gag/aRBwqVG)
- - 💣 [How close South Korea came to losing the war](http://9gag.com/gag/amoN4AV)
+ - 😝 [How close South Korea came to losing the war](http://9gag.com/gag/amoN4AV)
  - 😝 [92](http://9gag.com/gag/aPAwqbK)
- - 👉 [Hey, can you keep your hands still?](http://9gag.com/gag/avypV1M)<!-- MEMES:END -->
+ - 💣 [Hey, can you keep your hands still?](http://9gag.com/gag/avypV1M)
+ - 😝 [Kitum Cave. Believed to be the source of two of the deadliest diseases on earth. Ebola and Marburg.](http://9gag.com/gag/adB0WmD)
+ - 👉 [Japanese girls can&#39;t keep off their hand white guy](http://9gag.com/gag/abAXorr)<!-- MEMES:END -->
 
 ---
 

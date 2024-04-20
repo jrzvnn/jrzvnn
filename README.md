@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kitum Cave. Believed to be the source of two of the deadliest diseases on earth. Ebola and Marburg.](http://9gag.com/gag/adB0WmD)
- - 😝 [Bro wards off robbers without even making a face](http://9gag.com/gag/a34PrYe)
- - 💣 [Dad&#39;s joke at it finest](http://9gag.com/gag/a4PKy5y)
+ - 😝 [Can I help...?](http://9gag.com/gag/aPAw0On)
+ - 😝 [Damn, she&#39;s going through a whole crisis right there lol](http://9gag.com/gag/aGyYqQ5)
+ - 💣 [2024 is the year of female empowerment](http://9gag.com/gag/an7q0WE)
  - 😝 [Tough day at work because of bosses like @BOSSIETheTroll?](http://9gag.com/gag/aPA61QR)
- - 👉 [Zucc cooked](http://9gag.com/gag/aW4QyPK)<!-- MEMES:END -->
+ - 👉 [Dad&#39;s joke at it finest](http://9gag.com/gag/a4PKy5y)<!-- MEMES:END -->
 
 ---
 

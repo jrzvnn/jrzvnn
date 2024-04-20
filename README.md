@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China publishes measures to boost foreign investment in its domestic technology sector, including encouraging tech companies to raise money via bond issuance &lpar;Reuters&rpar;](http://www.techmeme.com/240419/p16#a240419p16)
  - [Bitcoin&#39;s fourth halving is now complete, lowering miners&#39; block subsidy rewards from 6.25 BTC to 3.125 BTC; the third halving was on May 2020 &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/240419/p15#a240419p15)
  - [Best Cheap Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-cheap-mattress/#ftag=CAD590a51e)
  - [Energy&#39;s New Wave: Meet 4 Women Powering America&#39;s Clean Energy Transition     - CNET](https://www.cnet.com/news/features/energys-new-wave-meet-four-women-powering-americas-clean-energy-transition/#ftag=CAD590a51e)
- - [US House Could Vote on TikTok Ban This Weekend: What to Know     - CNET](https://www.cnet.com/news/social-media/us-house-could-vote-on-tiktok-ban-this-weekend-what-to-know/#ftag=CAD590a51e)
- - [Pornhub, Stripchat, and XVideos will have to comply with additional obligations, such as submitting risk assessment reports, under the EU DSA starting next week &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240419/p14#a240419p14)<!-- TECH:END -->
+ - [US House Could Vote on TikTok Ban This Weekend: What to Know     - CNET](https://www.cnet.com/news/social-media/us-house-could-vote-on-tiktok-ban-this-weekend-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

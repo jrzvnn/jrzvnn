@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Biden administration is encouraging US tech groups to seek AI deals in the UAE and brokered Microsoft&#39;s deal with G42, as it seeks an edge over China &lpar;Financial Times&rpar;](http://www.techmeme.com/240420/p7#a240420p7)
  - [Apple Vision Pro is revolutionizing surgical procedures worldwide](https://appleinsider.com/articles/24/04/20/apple-vision-pro-is-revolutionizing-surgical-procedures-worldwide?utm_medium=rss)
  - [DJI’s pint-sized Mini 3 is on sale with a DJI RC controller for its best price yet](https://www.theverge.com/2024/4/20/24134935/dji-mini-3-drone-nintendo-switch-indie-sale-deal)
  - [Best Amazon Deals: Get Huge Discounts on Tech Gadgets, Home Goods and More     - CNET](https://www.cnet.com/deals/best-amazon-deals-get-huge-discounts-on-tech-gadgets-home-goods-and-more/#ftag=CAD590a51e)
- - [Save 15% Off Houswise&#39;s Fire Pits and More     - CNET](https://www.cnet.com/deals/save-15-off-houswises-fire-pits-and-more/#ftag=CAD590a51e)
- - [PCs that can run large AI models may drive an enterprise PC replacement cycle, but some CIOs say they&#39;ll wait for the category to mature and prices to come down &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/240420/p6#a240420p6)<!-- TECH:END -->
+ - [Save 15% Off Houswise&#39;s Fire Pits and More     - CNET](https://www.cnet.com/deals/save-15-off-houswises-fire-pits-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

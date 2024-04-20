@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Zucc cooked](http://9gag.com/gag/aW4QyPK)
- - 😝 [I have no sauce, please bear with me](http://9gag.com/gag/a4PKg1y)
- - 💣 [Dad&#39;s joke at it finest](http://9gag.com/gag/a4PKy5y)
+ - 😝 [Is she into you? Probably..](http://9gag.com/gag/an7qwKB)
+ - 😝 [American citizenship final exam](http://9gag.com/gag/aZZb5p9)
+ - 💣 [That&#39;s great to hear!](http://9gag.com/gag/an7qZ0n)
  - 😝 [Tough day at work because of bosses like @BOSSIETheTroll?](http://9gag.com/gag/aPA61QR)
- - 👉 [Kitum Cave. Believed to be the source of two of the deadliest diseases on earth. Ebola and Marburg.](http://9gag.com/gag/adB0WmD)<!-- MEMES:END -->
+ - 👉 [Using Anti Mosquito Racket in area full of mosquitoes](http://9gag.com/gag/axydK4n)<!-- MEMES:END -->
 
 ---
 

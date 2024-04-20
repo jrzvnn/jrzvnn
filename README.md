@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Watch and Stream the 2024 Chinese GP     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-and-stream-the-2024-chinese-gp/#ftag=CAD590a51e)
- - [An interview with Linus Torvalds at the Open Source Summit North America on the XZ Utils exploit, open source development, RISC-V, AI, and more &lpar;David Cassel/The New Stack&rpar;](http://www.techmeme.com/240420/p4#a240420p4)
- - [The US Senate reauthorizes FISA&#39;s Section 702; some communication service providers had threatened to stop cooperating with the US government in case of a lapse &lpar;Gaby Del Valle/The Verge&rpar;](http://www.techmeme.com/240420/p3#a240420p3)
- - [Court filing: OpenAI says Elon Musk&#39;s claim that the company has abandoned its altruistic principles is &quot;revisionist history&quot; and a bid to boost his AI company &lpar;Robert Burnson/Bloomberg&rpar;](http://www.techmeme.com/240420/p2#a240420p2)
- - [Controversial US surveillance program &lpar;briefly?&rpar; lapses amid congressional dysfunction](https://www.theverge.com/2024/4/20/24135339/fisa-720-reauthorization-senate-lapse-durbin-wyden)<!-- TECH:END -->
+ - [AI-Controlled Fighter Jets Are Dogfighting With Human Pilots Now](https://www.wired.com/story/ai-fighter-jets-dogfight-security-roundup/)
+ - [How One Corporation Is Cashing In on America’s Drought](https://www.wired.com/story/drought-colorado-river-arizona-water/)
+ - [Best Phones Under $300 in 2024     - CNET](https://www.cnet.com/tech/mobile/best-phones-under-300/#ftag=CAD590a51e)
+ - [Earth Day 2024: Where and How to Recycle Your Old Computers and Printers for Free     - CNET](https://www.cnet.com/tech/computing/earth-day-2024-where-and-how-to-recycle-your-old-computers-and-printers-for-free/#ftag=CAD590a51e)
+ - [The USPS Is Set to Hike Stamp Prices. You Should Buy Stamps Now     - CNET](https://www.cnet.com/personal-finance/the-usps-is-set-to-hike-stamp-prices-you-should-buy-stamps-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

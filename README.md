@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Controversial US surveillance program &lpar;briefly?&rpar; lapses amid congressional dysfunction](https://www.theverge.com/2024/4/20/24135339/fisa-720-reauthorization-senate-lapse-durbin-wyden)
  - [Google scraps a 2019 policy requiring US suppliers and staffing firms to pay their employees $15 an hour and provide health insurance and other benefits &lpar;Daniel Wiessner/Reuters&rpar;](http://www.techmeme.com/240420/p1#a240420p1)
  - [National Bureau of Statistics: China&#39;s integrated circuit output rose 40% YoY to 98.1B units in Q1, a sign that the country is expanding legacy chip production &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/240419/p19#a240419p19)
  - [SK Hynix partners with TSMC to develop next-gen HBM4 chips, which are critical for AI and slated for mass production in 2026, and advanced chip packaging tech &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240419/p18#a240419p18)
- - [Filing: a group of FTX investors and customers agree to drop their claims against SBF if he cooperates in cases against celebrities and others who pushed FTX &lpar;Bloomberg&rpar;](http://www.techmeme.com/240419/p17#a240419p17)
- - [World Snooker Championship 2024: How to Watch Live From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/world-snooker-championship-2024-how-to-watch-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Filing: a group of FTX investors and customers agree to drop their claims against SBF if he cooperates in cases against celebrities and others who pushed FTX &lpar;Bloomberg&rpar;](http://www.techmeme.com/240419/p17#a240419p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

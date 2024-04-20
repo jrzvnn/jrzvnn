@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Is she into you? Probably..](http://9gag.com/gag/an7qwKB)
  - 😝 [Where your taxes are going to.](http://9gag.com/gag/aVvz6nM)
- - 😝 [Have a beer.](http://9gag.com/gag/apRE78D)
- - 💣 [Kitum Cave. Believed to be the source of two of the deadliest diseases on earth. Ebola and Marburg.](http://9gag.com/gag/adB0WmD)
- - 😝 [Well that&#39;s a massive lawsuit for that doctor](http://9gag.com/gag/aMV255X)
- - 👉 [2024 is the year of female empowerment](http://9gag.com/gag/an7q0WE)<!-- MEMES:END -->
+ - 💣 [Bro wards off robbers without even making a face](http://9gag.com/gag/a34PrYe)
+ - 😝 [Can I help...?](http://9gag.com/gag/aPAw0On)
+ - 👉 [Insert John Wick voice - *Consequences*](http://9gag.com/gag/aKGwyK1)<!-- MEMES:END -->
 
 ---
 

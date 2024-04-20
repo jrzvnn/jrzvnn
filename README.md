@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Paris become first Arabic city to support Israel.](http://9gag.com/gag/aryvEEV)
- - 😝 [Title](http://9gag.com/gag/aRBwpN2)
- - 💣 [Where your taxes are going to.](http://9gag.com/gag/aVvz6nM)
- - 😝 [Normal is not an option](http://9gag.com/gag/aO8KWQR)
- - 👉 [An accident](http://9gag.com/gag/a0e834B)<!-- MEMES:END -->
+ - 😝 [Hey, can you keep your hands still?](http://9gag.com/gag/avypV1M)
+ - 😝 [Sweden](http://9gag.com/gag/a9ybG4K)
+ - 💣 [Japanese girls can&#39;t keep off their hand white guy](http://9gag.com/gag/abAXorr)
+ - 😝 [Something doesn\u2019t add up](http://9gag.com/gag/a2vzXpZ)
+ - 👉 [Is she into you? Probably..](http://9gag.com/gag/an7qwKB)<!-- MEMES:END -->
 
 ---
 

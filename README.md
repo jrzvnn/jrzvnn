@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Houses Passes a TikTok Ban Bill That’s on the Fast Track](https://www.wired.com/story/house-passes-tiktok-ban-fast-track/)
  - [The little smart home platform that could](https://www.theverge.com/24135207/home-assistant-announces-open-home-foundation)
  - [The House passes a TikTok divestiture bill with a longer sale deadline as part of a package of Ukraine/Israel aid bills, pressuring the Senate to vote on TikTok &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240420/p8#a240420p8)
  - [TikTok ‘ban’ passes in the House again, moving to the Senate in foreign aid package](https://www.theverge.com/2024/4/20/24135163/tiktok-ban-divest-bytedance-house-foreign-aid-package)
- - [NBA Playoffs 2024: Schedule, Matchups, TV Times, How to Watch Today&#39;s Games     - CNET](https://www.cnet.com/tech/services-and-software/nba-playoffs-2024-schedule-matchups-tv-times-how-to-watch-todays-games/#ftag=CAD590a51e)
- - [Beat the Sneezes: Tips and Apps to Tackle Seasonal Allergies Head-On     - CNET](https://www.cnet.com/health/medical/beat-seasonal-allergies-with-these-tips/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [NBA Playoffs 2024: Schedule, Matchups, TV Times, How to Watch Today&#39;s Games     - CNET](https://www.cnet.com/tech/services-and-software/nba-playoffs-2024-schedule-matchups-tv-times-how-to-watch-todays-games/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

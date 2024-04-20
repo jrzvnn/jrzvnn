@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shrek rules!](http://9gag.com/gag/aRBwqQj)
- - 😝 [How much fire power do you want in your anime ? Yes](http://9gag.com/gag/azxg3Zj)
- - 💣 [The Future](http://9gag.com/gag/aqy9EmM)
- - 😝 [An accident](http://9gag.com/gag/a0e834B)
- - 👉 [Cheese](http://9gag.com/gag/aD2AvgN)<!-- MEMES:END -->
+ - 😝 [2024 is the year of female empowerment](http://9gag.com/gag/an7q0WE)
+ - 😝 [Can I help...?](http://9gag.com/gag/aPAw0On)
+ - 💣 [Kitum Cave. Believed to be the source of two of the deadliest diseases on earth. Ebola and Marburg.](http://9gag.com/gag/adB0WmD)
+ - 😝 [92](http://9gag.com/gag/aPAwqbK)
+ - 👉 [Dad&#39;s joke at it finest](http://9gag.com/gag/a4PKy5y)<!-- MEMES:END -->
 
 ---
 

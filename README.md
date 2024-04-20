@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [House bill proposes ByteDance&#39;s forced sale or divestiture of TikTok](https://appleinsider.com/articles/24/04/20/house-bill-proposes-bytedances-forced-sale-or-divestiture-of-tiktok?utm_medium=rss)
  - [Best Buy&#39;s MacBook Air sale drives prices down to $599](https://appleinsider.com/articles/24/04/20/best-buys-macbook-air-sale-drives-prices-down-to-599?utm_medium=rss)
  - [Nvidia will provide the software for Japan&#39;s ABCI-Q, a hybrid supercomputer that offers quantum computing capability for drug research and other uses &lpar;Riho Nagao/Nikkei Asia&rpar;](http://www.techmeme.com/240420/p10#a240420p10)
- - [NHL Playoffs 2024: Schedule, Matchups, TV Times, How to Watch Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/nhl-playoffs-2024-schedule-matchups-tv-times-how-to-watch-without-cable/#ftag=CAD590a51e)
- - [Best Sonos Deals: Save Up to $140 on Top-Rated Portable Speakers, Soundbars and More     - CNET](https://www.cnet.com/deals/best-sonos-deals/#ftag=CAD590a51e)
- - [Try These 12 Daily Habits and Become a Healthier You     - CNET](https://www.cnet.com/health/try-these-12-daily-habits-and-become-a-healthier-you/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save 15% Off Houswise&#39;s Fire Pits and More     - CNET](https://www.cnet.com/deals/save-15-off-houswises-fire-pits-and-more/#ftag=CAD590a51e)
+ - [Buried in Tabs? Use This Mac Hack to Organize Your Windows     - CNET](https://www.cnet.com/tech/services-and-software/buried-in-tabs-use-this-mac-hack-to-organize-your-windows/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Using Anti Mosquito Racket in area full of mosquitoes](http://9gag.com/gag/axydK4n)
- - 😝 [Have a beer.](http://9gag.com/gag/apRE78D)
- - 💣 [Well that&#39;s a massive lawsuit for that doctor](http://9gag.com/gag/aMV255X)
- - 😝 [Pokemon GO uglyfing patch lmao](http://9gag.com/gag/aE0vbop)
- - 👉 [Taishan in China.There are 7,200 steps, and it takes 4 to 6 hours to reach the top. Ignore the music](http://9gag.com/gag/a87L9L3)<!-- MEMES:END -->
+ - 😝 [Can I help...?](http://9gag.com/gag/aPAw0On)
+ - 😝 [The Future](http://9gag.com/gag/aqy9EmM)
+ - 💣 [Using Anti Mosquito Racket in area full of mosquitoes](http://9gag.com/gag/axydK4n)
+ - 😝 [Efficiency](http://9gag.com/gag/aKGwMx6)
+ - 👉 [Is she into you? Probably..](http://9gag.com/gag/an7qwKB)<!-- MEMES:END -->
 
 ---
 

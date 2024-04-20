@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Zack Snyder’s Rebel Moon movies are a fandom menace](https://www.theverge.com/24134948/netflix-zack-snyder-rebel-moon-2-review)
  - [The self-possessed horrors of Late Night with the Devil](https://www.theverge.com/2024/4/20/24135658/late-night-with-the-devil-horror-movie-shudder)
- - [Sources: Biden administration is encouraging US tech groups to seek AI deals in the UAE and brokered Microsoft&#39;s deal with G42, as it seeks an edge over China &lpar;Financial Times&rpar;](http://www.techmeme.com/240420/p7#a240420p7)
- - [Apple Vision Pro is revolutionizing surgical procedures worldwide](https://appleinsider.com/articles/24/04/20/apple-vision-pro-is-revolutionizing-surgical-procedures-worldwide?utm_medium=rss)
- - [Wolves vs. Arsenal Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/wolves-vs-arsenal-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best iPhone 15 Deals: Get One Free With Trade In     - CNET](https://www.cnet.com/deals/best-iphone-15-deals/#ftag=CAD590a51e)
+ - [I&#39;m Still Surprised by the Benefits and Struggles of Life Off-Grid     - CNET](https://www.cnet.com/how-to/im-still-surprised-by-the-benefits-and-struggles-of-life-off-grid/#ftag=CAD590a51e)
+ - [Best Internet Providers in Harlingen, Texas     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-harlingen-tx/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I have no sauce, please bear with me](http://9gag.com/gag/a4PKg1y)
+ - 😝 [Damn, she&#39;s going through a whole crisis right there lol](http://9gag.com/gag/aGyYqQ5)
  - 😝 [Dad&#39;s joke at it finest](http://9gag.com/gag/a4PKy5y)
  - 💣 [Kitum Cave. Believed to be the source of two of the deadliest diseases on earth. Ebola and Marburg.](http://9gag.com/gag/adB0WmD)
  - 😝 [Tough day at work because of bosses like @BOSSIETheTroll?](http://9gag.com/gag/aPA61QR)
- - 👉 [Well that&#39;s a massive lawsuit for that doctor](http://9gag.com/gag/aMV255X)<!-- MEMES:END -->
+ - 👉 [What would you do?](http://9gag.com/gag/a2vzAMY)<!-- MEMES:END -->
 
 ---
 

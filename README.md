@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The House passes a TikTok divestiture bill with a one year sale deadline, as part of a package of Ukraine/Israel aid bills, forcing the Senate to vote on TikTok &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240420/p8#a240420p8)
  - [TikTok ‘ban’ passes in the House again, moving to the Senate in foreign aid package](https://www.theverge.com/2024/4/20/24135163/tiktok-ban-divest-bytedance-house-foreign-aid-package)
  - [Zack Snyder’s Rebel Moon movies are a fandom menace](https://www.theverge.com/24134948/netflix-zack-snyder-rebel-moon-2-review)
  - [The self-possessed horrors of Late Night with the Devil](https://www.theverge.com/2024/4/20/24135658/late-night-with-the-devil-horror-movie-shudder)
- - [Best iPhone 15 Deals: Get One Free With Trade In     - CNET](https://www.cnet.com/deals/best-iphone-15-deals/#ftag=CAD590a51e)
- - [I&#39;m Still Surprised by the Benefits and Struggles of Life Off-Grid     - CNET](https://www.cnet.com/how-to/im-still-surprised-by-the-benefits-and-struggles-of-life-off-grid/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best iPhone 15 Deals: Get One Free With Trade In     - CNET](https://www.cnet.com/deals/best-iphone-15-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

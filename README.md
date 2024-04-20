@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [9 Best Espresso Machines &lpar;2024&rpar;: Dual Boilers, Budget, and Accessories](https://www.wired.com/gallery/best-espresso-machines/)
- - [How to change or cancel your music streaming services](https://www.theverge.com/24134842/music-streaming-services-apple-spotify-how-to)
- - [Best VPN for Windows     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-windows/#ftag=CAD590a51e)
- - [Lifetime Access to Microsoft Project Professional 2021 Is Just $20 This Weekend Only     - CNET](https://www.cnet.com/deals/lifetime-access-to-microsoft-project-professional-2021-is-just-20-this-weekend-only/#ftag=CAD590a51e)
- - [Get Cozy With 15% Off Sitewide During Buffy&#39;s Earth Day Sale     - CNET](https://www.cnet.com/deals/buffy-earth-day-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [PCs that can run large AI models may drive an enterprise PC replacement cycle, but some CIOs say they&#39;ll wait for the category to mature and prices to come down &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/240420/p6#a240420p6)
+ - [12 Best Game Controllers &lpar;2024&rpar;: PC, Switch, PS5, Xbox, Accessibility](https://www.wired.com/gallery/best-game-controllers/)
+ - [7 Best Smart Plugs &lpar;2024&rpar;: Indoor Plugs, Outdoor Plugs, and Advice](https://www.wired.com/gallery/best-smart-plugs/)
+ - [How to Buy a Hearing Aid: Top Questions and Answers](https://www.wired.com/story/how-to-buy-a-hearing-aid/)
+ - [Is Crossrope’s smart jump rope worth $200?](https://www.theverge.com/24134172/crossrope-amp-jump-rope-set-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

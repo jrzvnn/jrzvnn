@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Damn, she&#39;s going through a whole crisis right there lol](http://9gag.com/gag/aGyYqQ5)
- - 😝 [5 years of electrical engineering notes in a German college: 35k sheets](http://9gag.com/gag/a6Zm6nb)
- - 💣 [I have no sauce, please bear with me](http://9gag.com/gag/a4PKg1y)
+ - 😝 [I have no sauce, please bear with me](http://9gag.com/gag/a4PKg1y)
+ - 😝 [Dad&#39;s joke at it finest](http://9gag.com/gag/a4PKy5y)
+ - 💣 [Kitum Cave. Believed to be the source of two of the deadliest diseases on earth. Ebola and Marburg.](http://9gag.com/gag/adB0WmD)
  - 😝 [Tough day at work because of bosses like @BOSSIETheTroll?](http://9gag.com/gag/aPA61QR)
- - 👉 [Taishan in China.There are 7,200 steps, and it takes 4 to 6 hours to reach the top. Ignore the music](http://9gag.com/gag/a87L9L3)<!-- MEMES:END -->
+ - 👉 [Well that&#39;s a massive lawsuit for that doctor](http://9gag.com/gag/aMV255X)<!-- MEMES:END -->
 
 ---
 

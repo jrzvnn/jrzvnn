@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dad&#39;s joke at it finest](http://9gag.com/gag/a4PKy5y)
- - 😝 [Kitum Cave. Believed to be the source of two of the deadliest diseases on earth. Ebola and Marburg.](http://9gag.com/gag/adB0WmD)
- - 💣 [Where your taxes are going to.](http://9gag.com/gag/aVvz6nM)
- - 😝 [Taishan in China.There are 7,200 steps, and it takes 4 to 6 hours to reach the top. Ignore the music](http://9gag.com/gag/a87L9L3)
- - 👉 [What would you do?](http://9gag.com/gag/a2vzAMY)<!-- MEMES:END -->
+ - 😝 [Well that&#39;s a massive lawsuit for that doctor](http://9gag.com/gag/aMV255X)
+ - 😝 [Sweden](http://9gag.com/gag/a9ybG4K)
+ - 💣 [Dad&#39;s joke at it finest](http://9gag.com/gag/a4PKy5y)
+ - 😝 [Pok\u00e9mon Go fans wondered why their characters changed after a patch update. Apparently Pok\u00e9mon cooperated with a consultant company called GaymerX that wants to push LGBT into games and challenge gender stereotypes. I bet they were hired by the racist Lead Community Manager.](http://9gag.com/gag/aE0v4XN)
+ - 👉 [Kitum Cave. Believed to be the source of two of the deadliest diseases on earth. Ebola and Marburg.](http://9gag.com/gag/adB0WmD)<!-- MEMES:END -->
 
 ---
 

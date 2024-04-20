@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is she into you? Probably..](http://9gag.com/gag/an7qwKB)
- - 😝 [Where your taxes are going to.](http://9gag.com/gag/aVvz6nM)
- - 💣 [Bro wards off robbers without even making a face](http://9gag.com/gag/a34PrYe)
- - 😝 [Can I help...?](http://9gag.com/gag/aPAw0On)
- - 👉 [Insert John Wick voice - *Consequences*](http://9gag.com/gag/aKGwyK1)<!-- MEMES:END -->
+ - 😝 [Shrek rules!](http://9gag.com/gag/aRBwqQj)
+ - 😝 [How much fire power do you want in your anime ? Yes](http://9gag.com/gag/azxg3Zj)
+ - 💣 [The Future](http://9gag.com/gag/aqy9EmM)
+ - 😝 [An accident](http://9gag.com/gag/a0e834B)
+ - 👉 [Cheese](http://9gag.com/gag/aD2AvgN)<!-- MEMES:END -->
 
 ---
 

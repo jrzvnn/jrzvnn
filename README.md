@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What A Wonderful Place](http://9gag.com/gag/a6Zm0vb)
- - 😝 [Proud Parents](http://9gag.com/gag/a6ZmPe2)
- - 💣 [Istanbul Trans Pride Parade lasted less than five minutes](http://9gag.com/gag/a0e8B8q)
- - 😝 [Still kicking](http://9gag.com/gag/ajPYoqR)
- - 👉 [The bank : It just goes down for a little bit and comes back stronger, trust me, bro .. Or you can take another loan .](http://9gag.com/gag/a1mv9mG)<!-- MEMES:END -->
+ - 😝 [Anyone have some `look twice` pics](http://9gag.com/gag/aRBwqVG)
+ - 😝 [Pit bull bites reporter on live TV](http://9gag.com/gag/ae9j8A5)
+ - 💣 [Sweden](http://9gag.com/gag/a9ybG4K)
+ - 😝 [Only boomers know this](http://9gag.com/gag/aAyR8j0)
+ - 👉 [Tuning Fork Y](http://9gag.com/gag/aGyYmnw)<!-- MEMES:END -->
 
 ---
 

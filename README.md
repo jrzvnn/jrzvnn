@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Businesses bailing out of San Francisco at alarming speed due to crime, theft, and hostage threat from the local authorities](http://9gag.com/gag/a4PKypd)
- - 😝 [Red Pills for a woman](http://9gag.com/gag/aMV27gW)
- - 💣 [Posting memes I found on my smartphone until I get bored or die #378](http://9gag.com/gag/aGyY57w)
- - 😝 [I love pizza](http://9gag.com/gag/aByRAx1)
- - 👉 [Where your taxes are going to.](http://9gag.com/gag/aVvz6nM)<!-- MEMES:END -->
+ - 😝 [I did it Boys](http://9gag.com/gag/aByRemz)
+ - 😝 [How close South Korea came to losing the war](http://9gag.com/gag/amoN4AV)
+ - 💣 [Sweden](http://9gag.com/gag/a9ybG4K)
+ - 😝 [Cats](http://9gag.com/gag/aVvz5Zy)
+ - 👉 [Anyone have some `look twice` pics](http://9gag.com/gag/aRBwqVG)<!-- MEMES:END -->
 
 ---
 

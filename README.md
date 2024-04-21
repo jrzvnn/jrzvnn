@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Crafting a fruit harvester from a plastic bottle](http://9gag.com/gag/aKGwo5W)
- - 😝 [Imagine Being This Dumb](http://9gag.com/gag/avypK35)
- - 💣 [The ideal gadget](http://9gag.com/gag/avypKen)
- - 😝 [Another level of tea bagging.](http://9gag.com/gag/azxg3oN)
- - 👉 [Why tho?](http://9gag.com/gag/ae9j8Wv)<!-- MEMES:END -->
+ - 😝 [Pok\u00e9mon Go fans wondered why their characters changed after a patch update. Apparently Pok\u00e9mon cooperated with a consultant company called GaymerX that wants to push LGBT into games and challenge gender stereotypes. I bet they were hired by the racist Lead Community Manager.](http://9gag.com/gag/aE0v4XN)
+ - 😝 [I did it everyone](http://9gag.com/gag/a7oLYEz)
+ - 💣 [Is she into you? Probably..](http://9gag.com/gag/an7qwKB)
+ - 😝 [Guide announces a pride of lions is nearby](http://9gag.com/gag/apRE4oD)
+ - 👉 [Something doesn\u2019t add up](http://9gag.com/gag/a2vzXpZ)<!-- MEMES:END -->
 
 ---
 

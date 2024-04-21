@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When does the captain determine that it\u2019s too much and it\u2019s panic time?](http://9gag.com/gag/aD2AKdd)
- - 😝 [Guide announces a pride of lions is nearby](http://9gag.com/gag/apRE4oD)
- - 💣 [Tuning Fork Y](http://9gag.com/gag/aGyYmnw)
- - 😝 [Something doesn\u2019t add up](http://9gag.com/gag/a2vzXpZ)
- - 👉 [Is this really what some women expect?](http://9gag.com/gag/aMV258x)<!-- MEMES:END -->
+ - 😝 [Is this really what some women expect?](http://9gag.com/gag/aMV258x)
+ - 😝 [I did it everyone](http://9gag.com/gag/a7oLYEz)
+ - 💣 [Back when `tight` meant close to each other,good friend](http://9gag.com/gag/an7qP8q)
+ - 😝 [How close South Korea came to losing the war](http://9gag.com/gag/amoN4AV)
+ - 👉 [Anyone have some `look twice` pics](http://9gag.com/gag/aRBwqVG)<!-- MEMES:END -->
 
 ---
 

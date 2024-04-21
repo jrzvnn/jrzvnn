@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tuning Fork Y](http://9gag.com/gag/aGyYmnw)
- - 😝 [Something doesn\u2019t add up](http://9gag.com/gag/a2vzXpZ)
- - 💣 [His last show.](http://9gag.com/gag/a6Zm0QL)
- - 😝 [Anyone have some `look twice` pics](http://9gag.com/gag/aRBwqVG)
- - 👉 [When does the captain determine that it\u2019s too much and it\u2019s panic time?](http://9gag.com/gag/aD2AKdd)<!-- MEMES:END -->
+ - 😝 [I did it everyone](http://9gag.com/gag/a7oLYEz)
+ - 😝 [What A Wonderful Place](http://9gag.com/gag/a6Zm0vb)
+ - 💣 [Only boomers know this](http://9gag.com/gag/aAyR8j0)
+ - 😝 [Racist around the world unite](http://9gag.com/gag/an7q6XB)
+ - 👉 [F**king legend](http://9gag.com/gag/aD2AK4d)<!-- MEMES:END -->
 
 ---
 

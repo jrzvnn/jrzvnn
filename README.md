@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tuning Fork Y](http://9gag.com/gag/aGyYmnw)
- - 😝 [Sweden](http://9gag.com/gag/a9ybG4K)
+ - 😝 [Is this really what some women expect?](http://9gag.com/gag/aMV258x)
+ - 😝 [Dad&#39;s joke at it finest](http://9gag.com/gag/a4PKy5y)
  - 💣 [Guide announces a pride of lions is nearby](http://9gag.com/gag/apRE4oD)
- - 😝 [Red Pills for a woman](http://9gag.com/gag/aMV27gW)
- - 👉 [Anyone have some `look twice` pics](http://9gag.com/gag/aRBwqVG)<!-- MEMES:END -->
+ - 😝 [Is she into you? Probably..](http://9gag.com/gag/an7qwKB)
+ - 👉 [Something doesn\u2019t add up](http://9gag.com/gag/a2vzXpZ)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well that&#39;s a massive lawsuit for that doctor](http://9gag.com/gag/aMV255X)
- - 😝 [Dad&#39;s joke at it finest](http://9gag.com/gag/a4PKy5y)
- - 💣 [Something doesn\u2019t add up](http://9gag.com/gag/a2vzXpZ)
- - 😝 [Have a beer.](http://9gag.com/gag/apRE78D)
- - 👉 [I did it everyone](http://9gag.com/gag/a7oLYEz)<!-- MEMES:END -->
+ - 😝 [Imagine Being This Dumb](http://9gag.com/gag/avypK35)
+ - 😝 [Meng Er the Panda, and why he makes a face when he breaks bamboo.](http://9gag.com/gag/ayN7bpW)
+ - 💣 [This perfect device](http://9gag.com/gag/a4PK0Rv)
+ - 😝 [Why tho?](http://9gag.com/gag/ae9j8Wv)
+ - 👉 [From the Archives](http://9gag.com/gag/a7oLYrb)<!-- MEMES:END -->
 
 ---
 

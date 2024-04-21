@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sweden](http://9gag.com/gag/a9ybG4K)
- - 😝 [Is this really what some women expect?](http://9gag.com/gag/aMV258x)
- - 💣 [When does the captain determine that it\u2019s too much and it\u2019s panic time?](http://9gag.com/gag/aD2AKdd)
- - 😝 [Guide announces a pride of lions is nearby](http://9gag.com/gag/apRE4oD)
- - 👉 [Is she into you? Probably..](http://9gag.com/gag/an7qwKB)<!-- MEMES:END -->
+ - 😝 [Pit bull bites reporter on live TV](http://9gag.com/gag/ae9j8A5)
+ - 😝 [92](http://9gag.com/gag/aPAwqbK)
+ - 💣 [Anyone have some `look twice` pics](http://9gag.com/gag/aRBwqVG)
+ - 😝 [Well that&#39;s a massive lawsuit for that doctor](http://9gag.com/gag/aMV255X)
+ - 👉 [Sweden](http://9gag.com/gag/a9ybG4K)<!-- MEMES:END -->
 
 ---
 

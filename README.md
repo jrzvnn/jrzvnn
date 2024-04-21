@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best TikTok Gifts That Are Actually Worth the Hype     - CNET](https://www.cnet.com/news/the-best-tiktok-gifts-that-are-actually-worth-the-hype/#ftag=CAD590a51e)
+ - [Samsung Galaxy S24 Ultra vs. Apple iPhone 15 Pro Max, Google Pixel 8 Pro, OnePlus 12: High-End Flagships Compared     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-s24-ultra-vs-apple-iphone-15-pro-max-google-pixel-8-pro-oneplus-12-high-end-flagships-compared/#ftag=CAD590a51e)
+ - [Don&#39;t Waste Paper This Earth Day, Sign Documents Right on Your iPhone     - CNET](https://www.cnet.com/tech/services-and-software/dont-waste-paper-this-earth-day-sign-documents-right-on-your-iphone/#ftag=CAD590a51e)
  - [Here’s a Clever Way to Uncover America’s Voting Deserts](https://www.wired.com/story/voting-deserts-maths-topology/)
- - [Best AT&amp;T Phones in 2024     - CNET](https://www.cnet.com/tech/mobile/best-at-t-phones/#ftag=CAD590a51e)
- - [How TikTok has influenced US culture and shaped Hollywood, privacy, fashion, shopping, news, music, trends, cooking, mental health, national security, and more &lpar;New York Times&rpar;](http://www.techmeme.com/240421/p1#a240421p1)
- - [Today&#39;s Wordle Hints and Answer: Help for April 21, #1037     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-21-1037/#ftag=CAD590a51e)
- - [London Marathon 2024: How to Watch Live From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/london-marathon-2024-how-to-watch-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best AT&amp;T Phones in 2024     - CNET](https://www.cnet.com/tech/mobile/best-at-t-phones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

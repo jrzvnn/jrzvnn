@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is this really what some women expect?](http://9gag.com/gag/aMV258x)
+ - 😝 [Anyone have some `look twice` pics](http://9gag.com/gag/aRBwqVG)
+ - 😝 [Sweden](http://9gag.com/gag/a9ybG4K)
+ - 💣 [Where your taxes are going to.](http://9gag.com/gag/aVvz6nM)
  - 😝 [Is she into you? Probably..](http://9gag.com/gag/an7qwKB)
- - 💣 [Something doesn\u2019t add up](http://9gag.com/gag/a2vzXpZ)
- - 😝 [Pit bull bites reporter on live TV](http://9gag.com/gag/ae9j8A5)
- - 👉 [I did it everyone](http://9gag.com/gag/a7oLYEz)<!-- MEMES:END -->
+ - 👉 [Pit bull bites reporter on live TV](http://9gag.com/gag/ae9j8A5)<!-- MEMES:END -->
 
 ---
 

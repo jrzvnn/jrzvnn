@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Sweden](http://9gag.com/gag/a9ybG4K)
  - 😝 [Guide announces a pride of lions is nearby](http://9gag.com/gag/apRE4oD)
- - 😝 [Is this really what some women expect?](http://9gag.com/gag/aMV258x)
- - 💣 [Sweden](http://9gag.com/gag/a9ybG4K)
- - 😝 [How close South Korea came to losing the war](http://9gag.com/gag/amoN4AV)
- - 👉 [Something doesn\u2019t add up](http://9gag.com/gag/a2vzXpZ)<!-- MEMES:END -->
+ - 💣 [Only boomers know this](http://9gag.com/gag/aAyR8j0)
+ - 😝 [I did it everyone](http://9gag.com/gag/a7oLYEz)
+ - 👉 [When does the captain determine that it\u2019s too much and it\u2019s panic time?](http://9gag.com/gag/aD2AKdd)<!-- MEMES:END -->
 
 ---
 

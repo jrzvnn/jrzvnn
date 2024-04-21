@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What Is 5G Home Internet? Here’s Everything You Need to Know &lpar;2024&rpar;](https://www.wired.com/story/what-is-5g-home-internet/)
  - [LeBron James leaks return of Beats Pill speaker](https://appleinsider.com/articles/24/04/21/lebron-james-leaks-return-of-beats-pill-speaker?utm_medium=rss)
  - [You&#39;re Gonna Want to Buy Your Stamps ASAP: USPS to Hike Prices This Summer     - CNET](https://www.cnet.com/personal-finance/youre-gonna-want-to-buy-your-stamps-asap-usps-to-hike-prices-this-summer/#ftag=CAD590a51e)
  - [Taylor Swift&#39;s &#39;Tortured Poets&#39; Era is Here: What to Know About Her Latest Double Album     - CNET](https://www.cnet.com/culture/entertainment/taylor-swifts-tortured-poets-era-is-here-what-to-know-about-her-latest-double-album/#ftag=CAD590a51e)
- - [If you&#39;re expecting a Mac mini at WWDC, you&#39;re probably going to be disappointed](https://appleinsider.com/articles/24/04/21/if-youre-expecting-a-mac-mini-at-wwdc-youre-probably-going-to-be-disappointed?utm_medium=rss)
- - [9 Best Indoor Security Cameras &lpar;2024&rpar;: For Homes and Apartments](https://www.wired.com/gallery/best-security-cameras/)<!-- TECH:END -->
+ - [If you&#39;re expecting a Mac mini at WWDC, you&#39;re probably going to be disappointed](https://appleinsider.com/articles/24/04/21/if-youre-expecting-a-mac-mini-at-wwdc-youre-probably-going-to-be-disappointed?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

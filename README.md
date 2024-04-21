@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Apple&#39;s iOS 18 AI will be on-device preserving privacy, and not server-side](https://appleinsider.com/articles/24/04/15/apples-ios-18-ai-will-be-on-device-preserving-privacy-and-not-server-side?utm_medium=rss)
+ - [Fulham vs. Liverpool Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/fulham-vs-liverpool-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
+ - [Best VPN for Netflix in 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-netflix/#ftag=CAD590a51e)
  - [Apple TV+ hits #1 in streaming movies, Top 10 in streaming TV series](https://appleinsider.com/articles/24/04/20/apple-tv-hits-1-in-streaming-movies-top-10-in-streaming-tv-series?utm_medium=rss)
- - [How some parents, seeking the ability to reach their kids at all times, have become unexpected but forceful opponents of schools&#39; attempts to ban phones &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/240421/p2#a240421p2)
- - [Skip the Paste—You Should Chomp Down on a Toothpaste Tablet](https://www.wired.com/story/chomp-down-toothpaste-tablet-rave/)
- - [The game emulator your phone has been missing](https://www.theverge.com/2024/4/21/24135953/delta-emulator-airchat-limitless-ai-nothing-eara-installer-newsletter)<!-- TECH:END -->
+ - [How some parents, seeking the ability to reach their kids at all times, have become unexpected but forceful opponents of schools&#39; attempts to ban phones &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/240421/p2#a240421p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

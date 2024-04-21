@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [London Marathon 2024: How to Watch Live From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/london-marathon-2024-how-to-watch-live-from-anywhere/#ftag=CAD590a51e)
+ - [Best Standing Desks of 2024     - CNET](https://www.cnet.com/news/best-standing-desk/#ftag=CAD590a51e)
  - [A look at Block-funded Gridless, which operates bitcoin mines in Kenya, Malawi, and Zambia, powered through solar power and wasted energy from a geothermal site &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/240420/p12#a240420p12)
  - [Researchers: when given 15 CVE descriptions, GPT-4 autonomously exploited 87% of the vulnerabilities, compared to 0% for every other model tested &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/240420/p11#a240420p11)
- - [This is Tesla’s riveting fix for recalled Cybertruck accelerator pedals](https://www.theverge.com/2024/4/20/24135876/tesla-cybertruck-accelerator-pedal-recall-fix)
- - [House passes bill saying ByteDance must sell or spin off TikTok](https://appleinsider.com/articles/24/04/20/house-bill-proposes-bytedances-forced-sale-or-divestiture-of-tiktok?utm_medium=rss)
- - [Best King-Size Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-king-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This is Tesla’s riveting fix for recalled Cybertruck accelerator pedals](https://www.theverge.com/2024/4/20/24135876/tesla-cybertruck-accelerator-pedal-recall-fix)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

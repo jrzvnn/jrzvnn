@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guide announces a pride of lions is nearby](http://9gag.com/gag/apRE4oD)
+ - 😝 [92](http://9gag.com/gag/aPAwqbK)
  - 😝 [Only boomers know this](http://9gag.com/gag/aAyR8j0)
- - 💣 [Anyone have some `look twice` pics](http://9gag.com/gag/aRBwqVG)
- - 😝 [When does the captain determine that it\u2019s too much and it\u2019s panic time?](http://9gag.com/gag/aD2AKdd)
+ - 💣 [His last show.](http://9gag.com/gag/a6Zm0QL)
+ - 😝 [Some of yous also said `stick`, didn&#39;tcha](http://9gag.com/gag/adB0zbQ)
  - 👉 [Something doesn\u2019t add up](http://9gag.com/gag/a2vzXpZ)<!-- MEMES:END -->
 
 ---

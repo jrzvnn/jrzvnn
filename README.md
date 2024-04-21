@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I wanna see &#39;em.](http://9gag.com/gag/awy0EMx)
- - 😝 [Something doesn\u2019t add up](http://9gag.com/gag/a2vzXpZ)
- - 💣 [Guide announces a pride of lions is nearby](http://9gag.com/gag/apRE4oD)
- - 😝 [Seattle police shoot and kill a 67-year-old pedoph*le who showed up at a hotel to meet up with two girls, 7 and 11 years old. salsa in comments IF this does not get deleted.](http://9gag.com/gag/aMV2Md1)
- - 👉 [When does the captain determine that it\u2019s too much and it\u2019s panic time?](http://9gag.com/gag/aD2AKdd)<!-- MEMES:END -->
+ - 😝 [Meanwhile, refugees and asylum seekers riot in Paris demanding citizenship and benefits](http://9gag.com/gag/agm3Wp6)
+ - 😝 [Guide announces a pride of lions is nearby](http://9gag.com/gag/apRE4oD)
+ - 💣 [Is this really what some women expect?](http://9gag.com/gag/aMV258x)
+ - 😝 [Sweden](http://9gag.com/gag/a9ybG4K)
+ - 👉 [How close South Korea came to losing the war](http://9gag.com/gag/amoN4AV)<!-- MEMES:END -->
 
 ---
 

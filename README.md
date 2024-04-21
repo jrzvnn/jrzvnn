@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [If you&#39;re expecting a Mac mini at WWDC, you&#39;re probably going to be disappointed](https://appleinsider.com/articles/24/04/21/if-youre-expecting-a-mac-mini-at-wwdc-youre-probably-going-to-be-disappointed?utm_medium=rss)
+ - [9 Best Indoor Security Cameras &lpar;2024&rpar;: For Homes and Apartments](https://www.wired.com/gallery/best-security-cameras/)
  - [House passes bill saying ByteDance must sell or spin off TikTok or face a ban](https://appleinsider.com/articles/24/04/20/house-bill-proposes-bytedances-forced-sale-or-divestiture-of-tiktok?utm_medium=rss)
  - [Apple&#39;s FineWoven case and Apple Watch band lineup may have been cut short](https://appleinsider.com/articles/24/04/21/apples-finewoven-case-and-apple-watch-band-lineup-may-have-been-cut-short?utm_medium=rss)
- - [The future of AI gadgets is just phones](https://www.theverge.com/2024/4/21/24134967/ai-gadgets-humane-pin-android-pixel-gemini)
- - [Gentler Streak quieted my evil brain goblin so I could run in peace](https://www.theverge.com/24134067/gentler-streak-app-ios-apple-watch)
- - [Apple&#39;s iOS 18 AI will be on-device preserving privacy, and not server-side](https://appleinsider.com/articles/24/04/15/apples-ios-18-ai-will-be-on-device-preserving-privacy-and-not-server-side?utm_medium=rss)<!-- TECH:END -->
+ - [The future of AI gadgets is just phones](https://www.theverge.com/2024/4/21/24134967/ai-gadgets-humane-pin-android-pixel-gemini)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

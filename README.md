@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Why is Windows 11 so got dang annoying?](https://www.theverge.com/2024/4/21/24063379/windows-11-ads-bing-edge-cruft)
  - [Best Tripod for Photography and Video in 2024     - CNET](https://www.cnet.com/tech/computing/best-tripod-for-photos-and-video/#ftag=CAD590a51e)
+ - [Over 60 of the Best Star Wars Gifts for 2024: Top Picks From Across the Galaxy     - CNET](https://www.cnet.com/culture/entertainment/best-star-wars-gifts/#ftag=CAD590a51e)
  - [It&#39;s Your Last Day To Score Great Deals at Best Buy&#39;s Members Sale     - CNET](https://www.cnet.com/deals/its-your-last-day-to-score-great-deals-at-best-buys-members-sale/#ftag=CAD590a51e)
- - [NBA Playoffs 2024: Schedule, Matchups, TV Times, How to Watch Sunday&#39;s Games     - CNET](https://www.cnet.com/tech/services-and-software/nba-playoffs-2024-schedule-matchups-tv-times-how-to-watch-sundays-games/#ftag=CAD590a51e)
- - [Tesla cuts the price of its Full Self-Driving software to $8K from $12K in the US, following a price cut from $15K to $12K in September 2023 &lpar;Jameson Dow/Electrek&rpar;](http://www.techmeme.com/240421/p4#a240421p4)<!-- TECH:END -->
+ - [NBA Playoffs 2024: Schedule, Matchups, TV Times, How to Watch Sunday&#39;s Games     - CNET](https://www.cnet.com/tech/services-and-software/nba-playoffs-2024-schedule-matchups-tv-times-how-to-watch-sundays-games/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

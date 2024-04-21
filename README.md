@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guide announces a pride of lions is nearby](http://9gag.com/gag/apRE4oD)
- - 😝 [I have no sauce, please bear with me](http://9gag.com/gag/a4PKg1y)
- - 💣 [I did it everyone](http://9gag.com/gag/a7oLYEz)
- - 😝 [Something doesn\u2019t add up](http://9gag.com/gag/a2vzXpZ)
- - 👉 [Sweden](http://9gag.com/gag/a9ybG4K)<!-- MEMES:END -->
+ - 😝 [Crafting a fruit harvester from a plastic bottle](http://9gag.com/gag/aKGwo5W)
+ - 😝 [Imagine Being This Dumb](http://9gag.com/gag/avypK35)
+ - 💣 [The ideal gadget](http://9gag.com/gag/avypKen)
+ - 😝 [Another level of tea bagging.](http://9gag.com/gag/azxg3oN)
+ - 👉 [Why tho?](http://9gag.com/gag/ae9j8Wv)<!-- MEMES:END -->
 
 ---
 

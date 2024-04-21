@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What A Wonderful Place](http://9gag.com/gag/a6Zm0vb)
- - 😝 [Only boomers know this](http://9gag.com/gag/aAyR8j0)
- - 💣 [Racist around the world unite](http://9gag.com/gag/an7q6XB)
- - 😝 [F**king legend](http://9gag.com/gag/aD2AK4d)
- - 👉 [Wish me luck](http://9gag.com/gag/awy06rx)<!-- MEMES:END -->
+ - 😝 [Sweden](http://9gag.com/gag/a9ybG4K)
+ - 😝 [His last show.](http://9gag.com/gag/a6Zm0QL)
+ - 💣 [I did it everyone](http://9gag.com/gag/a7oLYEz)
+ - 😝 [92](http://9gag.com/gag/aPAwqbK)
+ - 👉 [Only boomers know this](http://9gag.com/gag/aAyR8j0)<!-- MEMES:END -->
 
 ---
 

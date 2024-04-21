@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Where your taxes are going to.](http://9gag.com/gag/aVvz6nM)
- - 😝 [Back when `tight` meant close to each other,good friend](http://9gag.com/gag/an7qP8q)
- - 💣 [Sweden](http://9gag.com/gag/a9ybG4K)
- - 😝 [Something doesn\u2019t add up](http://9gag.com/gag/a2vzXpZ)
- - 👉 [Can I help...?](http://9gag.com/gag/aPAw0On)<!-- MEMES:END -->
+ - 😝 [Businesses bailing out of San Francisco at alarming speed due to crime, theft, and hostage threat from the local authorities](http://9gag.com/gag/a4PKypd)
+ - 😝 [Red Pills for a woman](http://9gag.com/gag/aMV27gW)
+ - 💣 [Posting memes I found on my smartphone until I get bored or die #378](http://9gag.com/gag/aGyY57w)
+ - 😝 [I love pizza](http://9gag.com/gag/aByRAx1)
+ - 👉 [Where your taxes are going to.](http://9gag.com/gag/aVvz6nM)<!-- MEMES:END -->
 
 ---
 

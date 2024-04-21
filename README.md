@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sweden](http://9gag.com/gag/a9ybG4K)
- - 😝 [Guide announces a pride of lions is nearby](http://9gag.com/gag/apRE4oD)
- - 💣 [Only boomers know this](http://9gag.com/gag/aAyR8j0)
- - 😝 [I did it everyone](http://9gag.com/gag/a7oLYEz)
- - 👉 [When does the captain determine that it\u2019s too much and it\u2019s panic time?](http://9gag.com/gag/aD2AKdd)<!-- MEMES:END -->
+ - 😝 [Seattle police shoot and kill a 67-year-old pedoph*le who showed up at a hotel to meet up with two girls, 7 and 11 years old. salsa in comments IF this does not get deleted.](http://9gag.com/gag/aMV2Md1)
+ - 😝 [Only boomers know this](http://9gag.com/gag/aAyR8j0)
+ - 💣 [Pok\u00e9mon Go fans wondered why their characters changed after a patch update. Apparently Pok\u00e9mon cooperated with a consultant company called GaymerX that wants to push LGBT into games and challenge gender stereotypes. I bet they were hired by the racist Lead Community Manager.](http://9gag.com/gag/aE0v4XN)
+ - 😝 [When does the captain determine that it\u2019s too much and it\u2019s panic time?](http://9gag.com/gag/aD2AKdd)
+ - 👉 [I wanna see &#39;em.](http://9gag.com/gag/awy0EMx)<!-- MEMES:END -->
 
 ---
 

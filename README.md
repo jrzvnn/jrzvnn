@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Anyone have some `look twice` pics](http://9gag.com/gag/aRBwqVG)
- - 😝 [Sweden](http://9gag.com/gag/a9ybG4K)
- - 💣 [Where your taxes are going to.](http://9gag.com/gag/aVvz6nM)
- - 😝 [Is she into you? Probably..](http://9gag.com/gag/an7qwKB)
- - 👉 [Pit bull bites reporter on live TV](http://9gag.com/gag/ae9j8A5)<!-- MEMES:END -->
+ - 😝 [Have a beer.](http://9gag.com/gag/apRE78D)
+ - 😝 [Back when `tight` meant close to each other,good friend](http://9gag.com/gag/an7qP8q)
+ - 💣 [How close South Korea came to losing the war](http://9gag.com/gag/amoN4AV)
+ - 😝 [Pit bull bites reporter on live TV](http://9gag.com/gag/ae9j8A5)
+ - 👉 [Sweden](http://9gag.com/gag/a9ybG4K)<!-- MEMES:END -->
 
 ---
 

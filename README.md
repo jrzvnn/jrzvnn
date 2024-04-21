@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Imagine Being This Dumb](http://9gag.com/gag/avypK35)
  - 😝 [Meng Er the Panda, and why he makes a face when he breaks bamboo.](http://9gag.com/gag/ayN7bpW)
- - 💣 [This perfect device](http://9gag.com/gag/a4PK0Rv)
- - 😝 [Why tho?](http://9gag.com/gag/ae9j8Wv)
- - 👉 [From the Archives](http://9gag.com/gag/a7oLYrb)<!-- MEMES:END -->
+ - 😝 [When you finally realise that all that woke shit was just in your own country](http://9gag.com/gag/awy0W31)
+ - 💣 [Why tho?](http://9gag.com/gag/ae9j8Wv)
+ - 😝 [What A Wonderful Place](http://9gag.com/gag/a6Zm0vb)
+ - 👉 [Playing Tic Tac Toe with A Raven](http://9gag.com/gag/aAyR8b0)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Have a beer.](http://9gag.com/gag/apRE78D)
- - 😝 [Efficiency](http://9gag.com/gag/aKGwMx6)
- - 💣 [Well that&#39;s a massive lawsuit for that doctor](http://9gag.com/gag/aMV255X)
- - 😝 [Sweden](http://9gag.com/gag/a9ybG4K)
- - 👉 [This perfect device](http://9gag.com/gag/a4PK0Rv)<!-- MEMES:END -->
+ - 😝 [Haha I remember that haircut!!](http://9gag.com/gag/aZZbO83)
+ - 😝 [Back when `tight` meant close to each other,good friend](http://9gag.com/gag/an7qP8q)
+ - 💣 [Tsunami in Indonesia](http://9gag.com/gag/aAyRzGE)
+ - 😝 [Is she into you? Probably..](http://9gag.com/gag/an7qwKB)
+ - 👉 [Sweden](http://9gag.com/gag/a9ybG4K)<!-- MEMES:END -->
 
 ---
 

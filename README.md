@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Olive Union Olive Max Hearing Aids: For Mild Hearing Loss](https://www.wired.com/review/olive-union-olive-max-otc-hearing-aids/)
  - [Antenna: 29M+ people, or ~25% of US streaming subscribers, canceled 3+ services over the last two years as Americans increasingly jump between services &lpar;John Koblin/New York Times&rpar;](http://www.techmeme.com/240421/p3#a240421p3)
  - [LeBron James leaks return of Beats Pill speaker](https://appleinsider.com/articles/24/04/21/lebron-james-leaks-return-of-beats-pill-speaker?utm_medium=rss)
  - [If you&#39;re expecting a Mac mini at WWDC, you&#39;re probably going to be disappointed](https://appleinsider.com/articles/24/04/21/if-youre-expecting-a-mac-mini-at-wwdc-youre-probably-going-to-be-disappointed?utm_medium=rss)
- - [What Is 5G Home Internet? Here’s Everything You Need to Know &lpar;2024&rpar;](https://www.wired.com/story/what-is-5g-home-internet/)
- - [You&#39;re Gonna Want to Buy Your Stamps ASAP: USPS to Hike Prices This Summer     - CNET](https://www.cnet.com/personal-finance/youre-gonna-want-to-buy-your-stamps-asap-usps-to-hike-prices-this-summer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What Is 5G Home Internet? Here’s Everything You Need to Know &lpar;2024&rpar;](https://www.wired.com/story/what-is-5g-home-internet/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

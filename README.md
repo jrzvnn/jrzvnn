@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Tripod for Photography and Video in 2024     - CNET](https://www.cnet.com/tech/computing/best-tripod-for-photos-and-video/#ftag=CAD590a51e)
+ - [It&#39;s Your Last Day To Score Great Deals at Best Buy&#39;s Members Sale     - CNET](https://www.cnet.com/deals/its-your-last-day-to-score-great-deals-at-best-buys-members-sale/#ftag=CAD590a51e)
  - [NBA Playoffs 2024: Schedule, Matchups, TV Times, How to Watch Sunday&#39;s Games     - CNET](https://www.cnet.com/tech/services-and-software/nba-playoffs-2024-schedule-matchups-tv-times-how-to-watch-sundays-games/#ftag=CAD590a51e)
  - [Tesla cuts the price of its Full Self-Driving software to $8K from $12K in the US, following a price cut from $15K to $12K in September 2023 &lpar;Jameson Dow/Electrek&rpar;](http://www.techmeme.com/240421/p4#a240421p4)
- - [Avoid &lpar;Some&rpar; Discord Server Chaos With New Polls Feature     - CNET](https://www.cnet.com/tech/services-and-software/avoid-some-discord-server-chaos-with-new-polls-feature/#ftag=CAD590a51e)
- - [You Need More Protein. Use These 7 Habits to Round out Your Diet     - CNET](https://www.cnet.com/health/nutrition/you-need-more-protein-use-these-7-habits-to-round-out-your-diet/#ftag=CAD590a51e)
- - [Home Batteries Give Me Actual Independence, Especially Off the Grid     - CNET](https://www.cnet.com/how-to/home-batteries-give-me-actual-independence-especially-off-the-grid/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Avoid &lpar;Some&rpar; Discord Server Chaos With New Polls Feature     - CNET](https://www.cnet.com/tech/services-and-software/avoid-some-discord-server-chaos-with-new-polls-feature/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

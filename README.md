@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is she into you? Probably..](http://9gag.com/gag/an7qwKB)
- - 😝 [Anyone have some `look twice` pics](http://9gag.com/gag/aRBwqVG)
- - 💣 [Oopsie](http://9gag.com/gag/aVvz8AP)
- - 😝 [Well that&#39;s a massive lawsuit for that doctor](http://9gag.com/gag/aMV255X)
- - 👉 [Posting memes I found on my smartphone until I get bored or die #378](http://9gag.com/gag/aGyY57w)<!-- MEMES:END -->
+ - 😝 [Have a beer.](http://9gag.com/gag/apRE78D)
+ - 😝 [Efficiency](http://9gag.com/gag/aKGwMx6)
+ - 💣 [Well that&#39;s a massive lawsuit for that doctor](http://9gag.com/gag/aMV255X)
+ - 😝 [Sweden](http://9gag.com/gag/a9ybG4K)
+ - 👉 [This perfect device](http://9gag.com/gag/a4PK0Rv)<!-- MEMES:END -->
 
 ---
 

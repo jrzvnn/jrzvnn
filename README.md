@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Is this really what some women expect?](http://9gag.com/gag/aMV258x)
+ - 😝 [To block wheelchair access](http://9gag.com/gag/aD2AvKN)
+ - 💣 [How close South Korea came to losing the war](http://9gag.com/gag/amoN4AV)
  - 😝 [Something doesn\u2019t add up](http://9gag.com/gag/a2vzXpZ)
- - 😝 [Back when `tight` meant close to each other,good friend](http://9gag.com/gag/an7qP8q)
- - 💣 [I did it everyone](http://9gag.com/gag/a7oLYEz)
- - 😝 [92](http://9gag.com/gag/aPAwqbK)
- - 👉 [Where your taxes are going to.](http://9gag.com/gag/aVvz6nM)<!-- MEMES:END -->
+ - 👉 [Anyone have some `look twice` pics](http://9gag.com/gag/aRBwqVG)<!-- MEMES:END -->
 
 ---
 

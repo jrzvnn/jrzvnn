@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best VPN for Streaming in 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-streaming/#ftag=CAD590a51e)
+ - [iPhone Storage Tip: Eliminate Duplicate Photos Hassle-Free With This Hack     - CNET](https://www.cnet.com/tech/mobile/iphone-storage-tip-eliminate-duplicate-photos-with-this-tip/#ftag=CAD590a51e)
+ - [Cooking a Whole Chicken in the Air Fryer Is the Best Cooking Hack I&#39;ve Found all Year     - CNET](https://www.cnet.com/how-to/making-a-whole-chicken-in-the-air-fryer-is-the-best-cooking-hack-ive-found-this-year/#ftag=CAD590a51e)
  - [Olive Union Olive Max Hearing Aids: For Mild Hearing Loss](https://www.wired.com/review/olive-union-olive-max-otc-hearing-aids/)
- - [Antenna: 29M+ people, or ~25% of US streaming subscribers, canceled 3+ services over the last two years as Americans increasingly jump between services &lpar;John Koblin/New York Times&rpar;](http://www.techmeme.com/240421/p3#a240421p3)
- - [LeBron James leaks return of Beats Pill speaker](https://appleinsider.com/articles/24/04/21/lebron-james-leaks-return-of-beats-pill-speaker?utm_medium=rss)
- - [If you&#39;re expecting a Mac mini at WWDC, you&#39;re probably going to be disappointed](https://appleinsider.com/articles/24/04/21/if-youre-expecting-a-mac-mini-at-wwdc-youre-probably-going-to-be-disappointed?utm_medium=rss)
- - [Are Countertop Composters Worth It? I Calculated My Food Waste for a Week to See     - CNET](https://www.cnet.com/home/kitchen-and-household/are-countertop-composters-worth-it-i-calculated-my-food-waste-for-a-week-to-see/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Why Does My Phone Say &#39;SOS&#39;?     - CNET](https://www.cnet.com/tech/mobile/why-does-my-phone-say-sos/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

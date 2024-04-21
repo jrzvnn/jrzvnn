@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here’s a Clever Way to Uncover America’s Voting Deserts](https://www.wired.com/story/voting-deserts-maths-topology/)
  - [How TikTok has influenced US culture and shaped Hollywood, privacy, fashion, shopping, news, music, trends, cooking, mental health, national security, and more &lpar;New York Times&rpar;](http://www.techmeme.com/240421/p1#a240421p1)
  - [Today&#39;s Wordle Hints and Answer: Help for April 21, #1037     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-21-1037/#ftag=CAD590a51e)
  - [London Marathon 2024: How to Watch Live From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/london-marathon-2024-how-to-watch-live-from-anywhere/#ftag=CAD590a51e)
- - [Best Standing Desks of 2024     - CNET](https://www.cnet.com/news/best-standing-desk/#ftag=CAD590a51e)
- - [A look at Block-funded Gridless, which operates bitcoin mines in Kenya, Malawi, and Zambia, powered through solar power and wasted energy from a geothermal site &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/240420/p12#a240420p12)<!-- TECH:END -->
+ - [Best Standing Desks of 2024     - CNET](https://www.cnet.com/news/best-standing-desk/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

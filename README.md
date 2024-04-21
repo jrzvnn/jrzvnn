@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NBA Playoffs 2024: Schedule, Matchups, TV Times, How to Watch Sunday&#39;s Games     - CNET](https://www.cnet.com/tech/services-and-software/nba-playoffs-2024-schedule-matchups-tv-times-how-to-watch-sundays-games/#ftag=CAD590a51e)
  - [Tesla cuts the price of its Full Self-Driving software to $8K from $12K in the US, following a price cut from $15K to $12K in September 2023 &lpar;Jameson Dow/Electrek&rpar;](http://www.techmeme.com/240421/p4#a240421p4)
- - [Best VPN for Streaming in 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-streaming/#ftag=CAD590a51e)
- - [iPhone Storage Tip: Eliminate Duplicate Photos Hassle-Free With This Hack     - CNET](https://www.cnet.com/tech/mobile/iphone-storage-tip-eliminate-duplicate-photos-with-this-tip/#ftag=CAD590a51e)
- - [Cooking a Whole Chicken in the Air Fryer Is the Best Cooking Hack I&#39;ve Found all Year     - CNET](https://www.cnet.com/how-to/making-a-whole-chicken-in-the-air-fryer-is-the-best-cooking-hack-ive-found-this-year/#ftag=CAD590a51e)
- - [Olive Union Olive Max Hearing Aids: For Mild Hearing Loss](https://www.wired.com/review/olive-union-olive-max-otc-hearing-aids/)<!-- TECH:END -->
+ - [Avoid &lpar;Some&rpar; Discord Server Chaos With New Polls Feature     - CNET](https://www.cnet.com/tech/services-and-software/avoid-some-discord-server-chaos-with-new-polls-feature/#ftag=CAD590a51e)
+ - [You Need More Protein. Use These 7 Habits to Round out Your Diet     - CNET](https://www.cnet.com/health/nutrition/you-need-more-protein-use-these-7-habits-to-round-out-your-diet/#ftag=CAD590a51e)
+ - [Home Batteries Give Me Actual Independence, Especially Off the Grid     - CNET](https://www.cnet.com/how-to/home-batteries-give-me-actual-independence-especially-off-the-grid/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

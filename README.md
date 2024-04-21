@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When does the captain determine that it\u2019s too much and it\u2019s panic time?](http://9gag.com/gag/aD2AKdd)
- - 😝 [Something doesn\u2019t add up](http://9gag.com/gag/a2vzXpZ)
- - 💣 [Sweden](http://9gag.com/gag/a9ybG4K)
- - 😝 [Where your taxes are going to.](http://9gag.com/gag/aVvz6nM)
- - 👉 [Tsunami in Indonesia](http://9gag.com/gag/aAyRzGE)<!-- MEMES:END -->
+ - 😝 [Crafting a fruit harvester from a plastic bottle](http://9gag.com/gag/aKGwo5W)
+ - 😝 [Imagine Being This Dumb](http://9gag.com/gag/avypK35)
+ - 💣 [Posting memes I found on my smartphone until I get bored or die #410](http://9gag.com/gag/aNDrEMw)
+ - 😝 [Another level of tea bagging.](http://9gag.com/gag/azxg3oN)
+ - 👉 [Gonna have to disagree](http://9gag.com/gag/aW4QXdZ)<!-- MEMES:END -->
 
 ---
 

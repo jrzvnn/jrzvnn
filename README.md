@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Something doesn\u2019t add up](http://9gag.com/gag/a2vzXpZ)
- - 😝 [Back when `tight` meant close to each other,good friend](http://9gag.com/gag/an7qP8q)
- - 💣 [When does the captain determine that it\u2019s too much and it\u2019s panic time?](http://9gag.com/gag/aD2AKdd)
- - 😝 [Anyone have some `look twice` pics](http://9gag.com/gag/aRBwqVG)
- - 👉 [Guide announces a pride of lions is nearby](http://9gag.com/gag/apRE4oD)<!-- MEMES:END -->
+ - 😝 [Well that&#39;s a massive lawsuit for that doctor](http://9gag.com/gag/aMV255X)
+ - 😝 [Dad&#39;s joke at it finest](http://9gag.com/gag/a4PKy5y)
+ - 💣 [Something doesn\u2019t add up](http://9gag.com/gag/a2vzXpZ)
+ - 😝 [Have a beer.](http://9gag.com/gag/apRE78D)
+ - 👉 [I did it everyone](http://9gag.com/gag/a7oLYEz)<!-- MEMES:END -->
 
 ---
 

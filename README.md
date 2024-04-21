@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LeBron James leaks return of Beats Pill speaker](https://appleinsider.com/articles/24/04/21/lebron-james-leaks-return-of-beats-pill-speaker?utm_medium=rss)
+ - [You&#39;re Gonna Want to Buy Your Stamps ASAP: USPS to Hike Prices This Summer     - CNET](https://www.cnet.com/personal-finance/youre-gonna-want-to-buy-your-stamps-asap-usps-to-hike-prices-this-summer/#ftag=CAD590a51e)
+ - [Taylor Swift&#39;s &#39;Tortured Poets&#39; Era is Here: What to Know About Her Latest Double Album     - CNET](https://www.cnet.com/culture/entertainment/taylor-swifts-tortured-poets-era-is-here-what-to-know-about-her-latest-double-album/#ftag=CAD590a51e)
  - [If you&#39;re expecting a Mac mini at WWDC, you&#39;re probably going to be disappointed](https://appleinsider.com/articles/24/04/21/if-youre-expecting-a-mac-mini-at-wwdc-youre-probably-going-to-be-disappointed?utm_medium=rss)
- - [9 Best Indoor Security Cameras &lpar;2024&rpar;: For Homes and Apartments](https://www.wired.com/gallery/best-security-cameras/)
- - [House passes bill saying ByteDance must sell or spin off TikTok or face a ban](https://appleinsider.com/articles/24/04/20/house-bill-proposes-bytedances-forced-sale-or-divestiture-of-tiktok?utm_medium=rss)
- - [Apple&#39;s FineWoven case and Apple Watch band lineup may have been cut short](https://appleinsider.com/articles/24/04/21/apples-finewoven-case-and-apple-watch-band-lineup-may-have-been-cut-short?utm_medium=rss)
- - [The future of AI gadgets is just phones](https://www.theverge.com/2024/4/21/24134967/ai-gadgets-humane-pin-android-pixel-gemini)<!-- TECH:END -->
+ - [9 Best Indoor Security Cameras &lpar;2024&rpar;: For Homes and Apartments](https://www.wired.com/gallery/best-security-cameras/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sweden](http://9gag.com/gag/a9ybG4K)
+ - 😝 [Is she into you? Probably..](http://9gag.com/gag/an7qwKB)
+ - 😝 [Anyone have some `look twice` pics](http://9gag.com/gag/aRBwqVG)
+ - 💣 [Oopsie](http://9gag.com/gag/aVvz8AP)
  - 😝 [Well that&#39;s a massive lawsuit for that doctor](http://9gag.com/gag/aMV255X)
- - 💣 [Hey, can you keep your hands still?](http://9gag.com/gag/avypV1M)
- - 😝 [How close South Korea came to losing the war](http://9gag.com/gag/amoN4AV)
- - 👉 [Japanese girls can&#39;t keep off their hand white guy](http://9gag.com/gag/abAXorr)<!-- MEMES:END -->
+ - 👉 [Posting memes I found on my smartphone until I get bored or die #378](http://9gag.com/gag/aGyY57w)<!-- MEMES:END -->
 
 ---
 

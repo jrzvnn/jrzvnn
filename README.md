@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pit bull bites reporter on live TV](http://9gag.com/gag/ae9j8A5)
- - 😝 [92](http://9gag.com/gag/aPAwqbK)
- - 💣 [Anyone have some `look twice` pics](http://9gag.com/gag/aRBwqVG)
- - 😝 [Well that&#39;s a massive lawsuit for that doctor](http://9gag.com/gag/aMV255X)
- - 👉 [Sweden](http://9gag.com/gag/a9ybG4K)<!-- MEMES:END -->
+ - 😝 [I wanna see &#39;em.](http://9gag.com/gag/awy0EMx)
+ - 😝 [Something doesn\u2019t add up](http://9gag.com/gag/a2vzXpZ)
+ - 💣 [Guide announces a pride of lions is nearby](http://9gag.com/gag/apRE4oD)
+ - 😝 [Seattle police shoot and kill a 67-year-old pedoph*le who showed up at a hotel to meet up with two girls, 7 and 11 years old. salsa in comments IF this does not get deleted.](http://9gag.com/gag/aMV2Md1)
+ - 👉 [When does the captain determine that it\u2019s too much and it\u2019s panic time?](http://9gag.com/gag/aD2AKdd)<!-- MEMES:END -->
 
 ---
 

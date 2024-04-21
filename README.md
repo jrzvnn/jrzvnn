@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I did it everyone](http://9gag.com/gag/a7oLYEz)
- - 😝 [His last show.](http://9gag.com/gag/a6Zm0QL)
- - 💣 [Sweden](http://9gag.com/gag/a9ybG4K)
- - 😝 [Seattle police shoot and kill a 67-year-old pedoph*le who showed up at a hotel to meet up with two girls, 7 and 11 years old. salsa in comments IF this does not get deleted.](http://9gag.com/gag/aMV2Md1)
- - 👉 [92](http://9gag.com/gag/aPAwqbK)<!-- MEMES:END -->
+ - 😝 [What A Wonderful Place](http://9gag.com/gag/a6Zm0vb)
+ - 😝 [Only boomers know this](http://9gag.com/gag/aAyR8j0)
+ - 💣 [Racist around the world unite](http://9gag.com/gag/an7q6XB)
+ - 😝 [F**king legend](http://9gag.com/gag/aD2AK4d)
+ - 👉 [Wish me luck](http://9gag.com/gag/awy06rx)<!-- MEMES:END -->
 
 ---
 

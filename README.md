@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The bank : It just goes down for a little bit and comes back stronger, trust me, bro .. Or you can take another loan .](http://9gag.com/gag/a1mv9mG)
- - 😝 [F**king legend](http://9gag.com/gag/aD2AK4d)
- - 💣 [Tuning Fork Y](http://9gag.com/gag/aGyYmnw)
- - 😝 [Istanbul Trans Pride Parade lasted less than five minutes](http://9gag.com/gag/a0e8B8q)
- - 👉 [At 31, at least I got seggs and no crime committed...so far...?](http://9gag.com/gag/azxgnmp)<!-- MEMES:END -->
+ - 😝 [Guide announces a pride of lions is nearby](http://9gag.com/gag/apRE4oD)
+ - 😝 [Only boomers know this](http://9gag.com/gag/aAyR8j0)
+ - 💣 [Anyone have some `look twice` pics](http://9gag.com/gag/aRBwqVG)
+ - 😝 [When does the captain determine that it\u2019s too much and it\u2019s panic time?](http://9gag.com/gag/aD2AKdd)
+ - 👉 [Something doesn\u2019t add up](http://9gag.com/gag/a2vzXpZ)<!-- MEMES:END -->
 
 ---
 

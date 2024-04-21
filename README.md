@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Home Assistant, an open-source smart home platform with an estimated 1M users, as its creators announce a foundation to help it reach the mainstream &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/240421/p5#a240421p5)
  - [Best Creatine Supplements of 2024     - CNET](https://www.cnet.com/health/nutrition/best-creatine-supplements/#ftag=CAD590a51e)
  - [What Do Your Dreams Mean? Sleep Experts Reveal Common Interpretations     - CNET](https://www.cnet.com/health/sleep/what-do-your-dreams-mean/#ftag=CAD590a51e)
  - [Why is Windows 11 so got dang annoying?](https://www.theverge.com/2024/4/21/24063379/windows-11-ads-bing-edge-cruft)
- - [Best Tripod for Photography and Video in 2024     - CNET](https://www.cnet.com/tech/computing/best-tripod-for-photos-and-video/#ftag=CAD590a51e)
- - [Over 60 of the Best Star Wars Gifts for 2024: Top Picks From Across the Galaxy     - CNET](https://www.cnet.com/culture/entertainment/best-star-wars-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Tripod for Photography and Video in 2024     - CNET](https://www.cnet.com/tech/computing/best-tripod-for-photos-and-video/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Haha I remember that haircut!!](http://9gag.com/gag/aZZbO83)
+ - 😝 [Where your taxes are going to.](http://9gag.com/gag/aVvz6nM)
  - 😝 [Back when `tight` meant close to each other,good friend](http://9gag.com/gag/an7qP8q)
- - 💣 [Tsunami in Indonesia](http://9gag.com/gag/aAyRzGE)
- - 😝 [Is she into you? Probably..](http://9gag.com/gag/an7qwKB)
- - 👉 [Sweden](http://9gag.com/gag/a9ybG4K)<!-- MEMES:END -->
+ - 💣 [Sweden](http://9gag.com/gag/a9ybG4K)
+ - 😝 [Something doesn\u2019t add up](http://9gag.com/gag/a2vzXpZ)
+ - 👉 [Can I help...?](http://9gag.com/gag/aPAw0On)<!-- MEMES:END -->
 
 ---
 

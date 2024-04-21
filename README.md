@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meng Er the Panda, and why he makes a face when he breaks bamboo.](http://9gag.com/gag/ayN7bpW)
+ - 😝 [Aging in perspective](http://9gag.com/gag/aoyEv8m)
  - 😝 [When you finally realise that all that woke shit was just in your own country](http://9gag.com/gag/awy0W31)
  - 💣 [Why tho?](http://9gag.com/gag/ae9j8Wv)
- - 😝 [What A Wonderful Place](http://9gag.com/gag/a6Zm0vb)
+ - 😝 [From the Archives](http://9gag.com/gag/a7oLYrb)
  - 👉 [Playing Tic Tac Toe with A Raven](http://9gag.com/gag/aAyR8b0)<!-- MEMES:END -->
 
 ---

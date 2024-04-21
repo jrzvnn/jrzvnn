@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Creatine Supplements of 2024     - CNET](https://www.cnet.com/health/nutrition/best-creatine-supplements/#ftag=CAD590a51e)
  - [What Do Your Dreams Mean? Sleep Experts Reveal Common Interpretations     - CNET](https://www.cnet.com/health/sleep/what-do-your-dreams-mean/#ftag=CAD590a51e)
  - [Why is Windows 11 so got dang annoying?](https://www.theverge.com/2024/4/21/24063379/windows-11-ads-bing-edge-cruft)
  - [Best Tripod for Photography and Video in 2024     - CNET](https://www.cnet.com/tech/computing/best-tripod-for-photos-and-video/#ftag=CAD590a51e)
- - [Over 60 of the Best Star Wars Gifts for 2024: Top Picks From Across the Galaxy     - CNET](https://www.cnet.com/culture/entertainment/best-star-wars-gifts/#ftag=CAD590a51e)
- - [It&#39;s Your Last Day to Score Great Deals at Best Buy&#39;s Members Sale     - CNET](https://www.cnet.com/deals/its-your-last-day-to-score-great-deals-at-best-buys-members-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Over 60 of the Best Star Wars Gifts for 2024: Top Picks From Across the Galaxy     - CNET](https://www.cnet.com/culture/entertainment/best-star-wars-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

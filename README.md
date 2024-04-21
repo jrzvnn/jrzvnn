@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Is this really what some women expect?](http://9gag.com/gag/aMV258x)
- - 😝 [Dad&#39;s joke at it finest](http://9gag.com/gag/a4PKy5y)
- - 💣 [Guide announces a pride of lions is nearby](http://9gag.com/gag/apRE4oD)
  - 😝 [Is she into you? Probably..](http://9gag.com/gag/an7qwKB)
- - 👉 [Something doesn\u2019t add up](http://9gag.com/gag/a2vzXpZ)<!-- MEMES:END -->
+ - 💣 [Something doesn\u2019t add up](http://9gag.com/gag/a2vzXpZ)
+ - 😝 [Pit bull bites reporter on live TV](http://9gag.com/gag/ae9j8A5)
+ - 👉 [I did it everyone](http://9gag.com/gag/a7oLYEz)<!-- MEMES:END -->
 
 ---
 

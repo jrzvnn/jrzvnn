@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Crafting a fruit harvester from a plastic bottle](http://9gag.com/gag/aKGwo5W)
- - 😝 [Imagine Being This Dumb](http://9gag.com/gag/avypK35)
- - 💣 [Posting memes I found on my smartphone until I get bored or die #410](http://9gag.com/gag/aNDrEMw)
- - 😝 [Another level of tea bagging.](http://9gag.com/gag/azxg3oN)
- - 👉 [Gonna have to disagree](http://9gag.com/gag/aW4QXdZ)<!-- MEMES:END -->
+ - 😝 [Tsunami in Indonesia](http://9gag.com/gag/aAyRzGE)
+ - 😝 [Back when `tight` meant close to each other,good friend](http://9gag.com/gag/an7qP8q)
+ - 💣 [I did it everyone](http://9gag.com/gag/a7oLYEz)
+ - 😝 [Something doesn\u2019t add up](http://9gag.com/gag/a2vzXpZ)
+ - 👉 [Anyone have some `look twice` pics](http://9gag.com/gag/aRBwqVG)<!-- MEMES:END -->
 
 ---
 

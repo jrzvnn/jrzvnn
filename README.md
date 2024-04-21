@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How close South Korea came to losing the war](http://9gag.com/gag/amoN4AV)
- - 😝 [Anyone have some `look twice` pics](http://9gag.com/gag/aRBwqVG)
- - 💣 [Sweden](http://9gag.com/gag/a9ybG4K)
  - 😝 [Guide announces a pride of lions is nearby](http://9gag.com/gag/apRE4oD)
- - 👉 [Something doesn\u2019t add up](http://9gag.com/gag/a2vzXpZ)<!-- MEMES:END -->
+ - 😝 [I have no sauce, please bear with me](http://9gag.com/gag/a4PKg1y)
+ - 💣 [I did it everyone](http://9gag.com/gag/a7oLYEz)
+ - 😝 [Something doesn\u2019t add up](http://9gag.com/gag/a2vzXpZ)
+ - 👉 [Sweden](http://9gag.com/gag/a9ybG4K)<!-- MEMES:END -->
 
 ---
 

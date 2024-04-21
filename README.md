@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Aging in perspective](http://9gag.com/gag/aoyEv8m)
- - 😝 [When you finally realise that all that woke shit was just in your own country](http://9gag.com/gag/awy0W31)
- - 💣 [Why tho?](http://9gag.com/gag/ae9j8Wv)
- - 😝 [From the Archives](http://9gag.com/gag/a7oLYrb)
- - 👉 [Playing Tic Tac Toe with A Raven](http://9gag.com/gag/aAyR8b0)<!-- MEMES:END -->
+ - 😝 [Tuning Fork Y](http://9gag.com/gag/aGyYmnw)
+ - 😝 [Sweden](http://9gag.com/gag/a9ybG4K)
+ - 💣 [Guide announces a pride of lions is nearby](http://9gag.com/gag/apRE4oD)
+ - 😝 [Red Pills for a woman](http://9gag.com/gag/aMV27gW)
+ - 👉 [Anyone have some `look twice` pics](http://9gag.com/gag/aRBwqVG)<!-- MEMES:END -->
 
 ---
 

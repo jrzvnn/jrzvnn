@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Russia sentences Meta spokesperson Andy Stone to six years in absentia for &quot;publicly defending terrorism&quot;; Russia designates Meta as an extremist organization &lpar;Reuters&rpar;](http://www.techmeme.com/240422/p13#a240422p13)
  - [Nanoleaf string lights, new air purifiers, Qi2 chargers, &amp; Govee floor lamps on HomeKit Insider](https://appleinsider.com/articles/24/04/22/nanoleaf-string-lights-new-air-purifiers-qi2-chargers-govee-floor-lamps-on-homekit-insider?utm_medium=rss)
+ - [A Beginner&#39;s Guide to Composting: Everything You Need to Know to Start a Pile     - CNET](https://www.cnet.com/home/smart-home/how-to-start-a-compost-pile/#ftag=CAD590a51e)
  - [Apple has bought a French firm to help get AI processing on the iPhone](https://appleinsider.com/articles/24/04/22/apple-has-bought-a-french-firm-to-help-get-ai-processing-on-the-iphone?utm_medium=rss)
- - [Q&amp;A with Discord CEO Jason Citron on creating a private internet, developers, community, video game origins, moderation, layoffs, Loom video meetings, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240422/p12#a240422p12)
- - [Discord CEO Jason Citron makes the case for a smaller, more private internet](https://www.theverge.com/24134914/discord-ceo-gaming-chat-teens-safety-moderation-decoder-interview)<!-- TECH:END -->
+ - [Best Vitamins and Supplements for Joint Health     - CNET](https://www.cnet.com/health/nutrition/best-vitamins-and-supplements-for-joint-health/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

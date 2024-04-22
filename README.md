@@ -94,11 +94,11 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Plant-Based Meat Boomed. Here Comes the Bust](https://www.wired.com/story/plant-based-meat-sales-2023/)
  - [Meta opens up its VR OS called Horizon OS to third parties and says Asus and Lenovo are both planning Meta Horizon OS-compatible headsets &lpar;Scott Stein/CNET&rpar;](http://www.techmeme.com/240422/p16#a240422p16)
  - [The Next US President Will Have Troubling New Surveillance Powers](https://www.wired.com/story/section-702-reauthorization-expansion/)
  - [Apple might be the streaming home of soccer’s next big tournament](https://www.theverge.com/2024/4/22/24137251/apple-streaming-fifa-club-world-cup-report)
- - [Best Buy kicks off new M3 MacBook Air sale, blowout M2 deals up to $400 off still available](https://appleinsider.com/articles/24/04/22/best-buy-kicks-off-new-m3-macbook-air-sale-blowout-m2-deals-up-to-400-off-still-available?utm_medium=rss)
- - [Some Mercedes Self-Driving Cars Won&#39;t Require You to Even Watch the Road     - CNET](https://www.cnet.com/roadshow/news/some-mercedes-self-driving-cars-wont-require-you-to-even-watch-the-road/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Buy kicks off new M3 MacBook Air sale, blowout M2 deals up to $400 off still available](https://appleinsider.com/articles/24/04/22/best-buy-kicks-off-new-m3-macbook-air-sale-blowout-m2-deals-up-to-400-off-still-available?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

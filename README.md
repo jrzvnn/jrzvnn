@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Discord CEO Jason Citron makes the case for a smaller, more private internet](https://www.theverge.com/24134914/discord-ceo-gaming-chat-teens-safety-moderation-decoder-interview)
+ - [Buckle and Band offers a new take on designer Apple Watch bands for sophisticated owners](https://appleinsider.com/articles/24/04/22/buckle-and-band-offers-a-new-take-on-designer-apple-watch-bands?utm_medium=rss)
  - [Deadpool and Wolverine whip out the big guns in latest trailer](https://www.theverge.com/24137038/deadpool-and-wolverine-trailer-sleeves-cassandra-nova)
  - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
- - [The history -- and triumph -- of Arm and Apple Silicon](https://appleinsider.com/articles/24/04/22/the-history----and-triumph----of-arm-and-apple-silicon?utm_medium=rss)
- - [Stanford Internet Observatory: federally authorized CSAM clearinghouse CyberTipline, which gets tens of millions of tips per year, could be overrun by AI images &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/240422/p11#a240422p11)
- - [The great conundrum of campaigning on TikTok](https://www.theverge.com/24134360/tiktok-campaign-strategists-ban-divest-bill)<!-- TECH:END -->
+ - [The history -- and triumph -- of Arm and Apple Silicon](https://appleinsider.com/articles/24/04/22/the-history----and-triumph----of-arm-and-apple-silicon?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

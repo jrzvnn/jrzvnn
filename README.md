@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tesla slashes Full Self-Driving price after Elon Musk said it would only get more expensive](https://www.theverge.com/2024/4/22/24137056/tesla-full-self-driving-fsd-price-cut-8000)
+ - [The Best Eco-Friendly Cleaning Products &lpar;2024&rpar;: For Kitchens, Bathrooms, and Laundry](https://www.wired.com/story/eco-friendly-natural-cleaning-products/)
+ - [Morgan Stanley weirdly bullish on iPhone as it trims Apple stock price target](https://appleinsider.com/articles/24/04/22/morgan-stanley-weirdly-bullish-on-iphone-as-it-trims-apple-stock-price-target?utm_medium=rss)
  - [Russia sentences Meta spokesperson Andy Stone to six years in absentia for &quot;publicly defending terrorism&quot;; Russia designates Meta as an extremist organization &lpar;Reuters&rpar;](http://www.techmeme.com/240422/p13#a240422p13)
- - [Nanoleaf string lights, new air purifiers, Qi2 chargers, &amp; Govee floor lamps on HomeKit Insider](https://appleinsider.com/articles/24/04/22/nanoleaf-string-lights-new-air-purifiers-qi2-chargers-govee-floor-lamps-on-homekit-insider?utm_medium=rss)
- - [A Beginner&#39;s Guide to Composting: Everything You Need to Know to Start a Pile     - CNET](https://www.cnet.com/home/smart-home/how-to-start-a-compost-pile/#ftag=CAD590a51e)
- - [Apple has bought a French firm to help get AI processing on the iPhone](https://appleinsider.com/articles/24/04/22/apple-has-bought-a-french-firm-to-help-get-ai-processing-on-the-iphone?utm_medium=rss)
- - [Best Vitamins and Supplements for Joint Health     - CNET](https://www.cnet.com/health/nutrition/best-vitamins-and-supplements-for-joint-health/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nanoleaf string lights, new air purifiers, Qi2 chargers, &amp; Govee floor lamps on HomeKit Insider](https://appleinsider.com/articles/24/04/22/nanoleaf-string-lights-new-air-purifiers-qi2-chargers-govee-floor-lamps-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

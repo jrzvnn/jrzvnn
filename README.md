@@ -94,11 +94,11 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Is your PC having trouble? Your smart TV might be to blame](https://www.theverge.com/2024/4/22/24137295/when-the-smarthome-is-stupid-hisense-tv-pc)
+ - [An Xbox VR headset is on the way, but it’s a ‘limited edition’ Meta Quest](https://www.theverge.com/2024/4/22/24137334/xbox-vr-headset-microsoft-meta-quest-limited-edition)
  - [Billie Eilish will be the bad guy in Fortnite](https://www.theverge.com/2024/4/22/24137317/billie-eilish-fortnite-festival-date)
  - [Newsletter platform Ghost adopts ActivityPub to ‘bring back the open web’](https://www.theverge.com/2024/4/22/24137296/ghost-newsletter-activitypub-fediverse-support)
- - [Apple close to securing $1B TV rights to new FIFA soccer tournament](https://appleinsider.com/articles/24/04/22/apple-close-to-securing-1b-tv-rights-to-new-fifa-soccer-tournament?utm_medium=rss)
- - [Tip line that guards against child sexual abuse images may struggle against AI](https://www.theverge.com/2024/4/22/24137204/stanford-report-national-center-for-missing-and-exploited-children-ai-images)
- - [Plant-Based Meat Boomed. Here Comes the Bust](https://www.wired.com/story/plant-based-meat-sales-2023/)<!-- TECH:END -->
+ - [Apple close to securing $1B TV rights to new FIFA soccer tournament](https://appleinsider.com/articles/24/04/22/apple-close-to-securing-1b-tv-rights-to-new-fifa-soccer-tournament?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

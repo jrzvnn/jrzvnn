@@ -103,11 +103,11 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [1984 &gt; 2024](http://9gag.com/gag/ayN7gGy)
- - 😝 [Give this person a medal.](http://9gag.com/gag/a4PKv76)
- - 💣 [Tuning Fork Y](http://9gag.com/gag/aGyYmnw)
- - 😝 [There&#39;s a reason this guy went with a leg based sport](http://9gag.com/gag/a87LPvV)
- - 👉 [ThisIsHardwareSideProblem](http://9gag.com/gag/a87LZMQ)<!-- MEMES:END -->
+ - 😝 [An estimated 1000 people live underground in the flood tunnels underneath Las Vegas](http://9gag.com/gag/aMV2o7G)
+ - 😝 [Only boomers know this](http://9gag.com/gag/aAyR8j0)
+ - 💣 [1984 &gt; 2024](http://9gag.com/gag/ayN7gGy)
+ - 😝 [ThisIsHardwareSideProblem](http://9gag.com/gag/a87LZMQ)
+ - 👉 [A Missouri Highway Patrol officer clears the road by lifting a 300kg bale of hay](http://9gag.com/gag/aE0v99N)<!-- MEMES:END -->
 
 ---
 

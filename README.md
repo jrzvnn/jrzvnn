@@ -103,11 +103,11 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It must have had a hidden feature](http://9gag.com/gag/a1mv4bw)
- - 😝 [The story of Pedro](http://9gag.com/gag/a7oLjK2)
- - 💣 [Nice landing](http://9gag.com/gag/aryv6n6)
- - 😝 [Millionaire stops cosplaying as poor person when he realizes it&#39;s super hard to exist with health issues and no insurance or money](http://9gag.com/gag/axydxKM)
- - 👉 [They always win](http://9gag.com/gag/a4PKD0v)<!-- MEMES:END -->
+ - 😝 [Un attended !](http://9gag.com/gag/a2vzexZ)
+ - 😝 [When does the captain determine that it\u2019s too much and it\u2019s panic time?](http://9gag.com/gag/aD2AKdd)
+ - 💣 [Losing Virginity Nowadays](http://9gag.com/gag/azxgNBj)
+ - 😝 [1984 &gt; 2024](http://9gag.com/gag/ayN7gGy)
+ - 👉 [Proud Parents](http://9gag.com/gag/a6ZmPe2)<!-- MEMES:END -->
 
 ---
 

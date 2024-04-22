@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [His last show.](http://9gag.com/gag/a6Zm0QL)
- - 😝 [Where your taxes are going to.](http://9gag.com/gag/aVvz6nM)
- - 💣 [Only boomers know this](http://9gag.com/gag/aAyR8j0)
- - 😝 [Tuning Fork Y](http://9gag.com/gag/aGyYmnw)
- - 👉 [Wish me luck](http://9gag.com/gag/awy06rx)<!-- MEMES:END -->
+ - 😝 [Dafuq did i just watch](http://9gag.com/gag/avypM65)
+ - 😝 [Wish me luck](http://9gag.com/gag/awy06rx)
+ - 💣 [Something doesn\u2019t add up](http://9gag.com/gag/a2vzXpZ)
+ - 😝 [Pit bull bites reporter on live TV](http://9gag.com/gag/ae9j8A5)
+ - 👉 [To block wheelchair access](http://9gag.com/gag/aD2AvKN)<!-- MEMES:END -->
 
 ---
 

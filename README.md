@@ -103,11 +103,11 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A Missouri Highway Patrol officer clears the road by lifting a 300kg bale of hay](http://9gag.com/gag/aE0v99N)
  - 😝 [His last show.](http://9gag.com/gag/a6Zm0QL)
- - 💣 [Only boomers know this](http://9gag.com/gag/aAyR8j0)
- - 😝 [Give this person a medal.](http://9gag.com/gag/a4PKv76)
- - 👉 [1984 &gt; 2024](http://9gag.com/gag/ayN7gGy)<!-- MEMES:END -->
+ - 😝 [A Missouri Highway Patrol officer clears the road by lifting a 300kg bale of hay](http://9gag.com/gag/aE0v99N)
+ - 💣 [Wish me luck](http://9gag.com/gag/awy06rx)
+ - 😝 [1984 &gt; 2024](http://9gag.com/gag/ayN7gGy)
+ - 👉 [What&#39;s the most bizarre pizza you can find in the Pizzahut of your country? Here is Bubble Tea Pizza from Taiwan.](http://9gag.com/gag/a87LP03)<!-- MEMES:END -->
 
 ---
 

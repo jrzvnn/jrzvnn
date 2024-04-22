@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Imagine being a women and this is the wiew just after you leave a NYC store. Home Depot is now hiring guards, dogs to keep parking lot safe from thieves, aggressive migrants](http://9gag.com/gag/an7qp15)
- - 😝 [Still kicking](http://9gag.com/gag/ajPYoqR)
- - 💣 [Consequences of your actions](http://9gag.com/gag/aYQN8LN)
- - 😝 [Proud Parents](http://9gag.com/gag/a6ZmPe2)
- - 👉 [Welcome home!](http://9gag.com/gag/adB0m9V)<!-- MEMES:END -->
+ - 😝 [Sweden](http://9gag.com/gag/a9ybG4K)
+ - 😝 [I did it everyone](http://9gag.com/gag/a7oLYEz)
+ - 💣 [Anyone have some `look twice` pics](http://9gag.com/gag/aRBwqVG)
+ - 😝 [Only boomers know this](http://9gag.com/gag/aAyR8j0)
+ - 👉 [Give this person a medal.](http://9gag.com/gag/a4PKv76)<!-- MEMES:END -->
 
 ---
 

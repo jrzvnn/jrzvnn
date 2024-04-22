@@ -94,11 +94,11 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Europe&#39;s main financial entity believes Apple&#39;s proposed iPhone NFC changes aren&#39;t enough](https://appleinsider.com/articles/24/04/22/europes-main-financial-entity-believes-apples-proposed-iphone-nfc-changes-arent-enough?utm_medium=rss)
+ - [Get One of Our Favorite Stick Vacuums for $101 Off Right Now on Amazon     - CNET](https://www.cnet.com/deals/get-one-of-our-favorite-stick-vacuums-for-101-off-right-now-on-amazon/#ftag=CAD590a51e)
+ - [Google&#39;s Pixel 7 Pro Can Be Yours for Just $530 Today     - CNET](https://www.cnet.com/deals/googles-pixel-7-pro-can-be-yours-for-just-530-today/#ftag=CAD590a51e)
  - [Pomelo, a &quot;send now, pay later&quot; startup that lets users in the US send money in the form of credit to people in the Philippines, raised a $35M Series A &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240422/p17#a240422p17)
- - [Meta wants to be the Microsoft of headsets](https://www.theverge.com/2024/4/22/24137284/meta-license-horizon-os-quest-headset-lenovo-asus)
- - [Is your PC having trouble? Your smart TV might be to blame](https://www.theverge.com/2024/4/22/24137295/when-the-smarthome-is-stupid-hisense-tv-pc)
- - [An Xbox VR headset is on the way, but it’s a ‘limited edition’ Meta Quest](https://www.theverge.com/2024/4/22/24137334/xbox-vr-headset-microsoft-meta-quest-limited-edition)
- - [Billie Eilish will be the bad guy in Fortnite](https://www.theverge.com/2024/4/22/24137317/billie-eilish-fortnite-festival-date)<!-- TECH:END -->
+ - [Best Samsung Galaxy Z Fold 5 Deals: Get Up to $1,000 Off With Trade-In Credit, Plus More Perks     - CNET](https://www.cnet.com/deals/samsung-galaxy-z-fold-5-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

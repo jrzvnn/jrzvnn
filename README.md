@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EU opens another TikTok probe and will now formally assess whether TikTok Lite&#39;s design, which financially rewards users for watching videos, is &quot;addictive&quot; &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240422/p14#a240422p14)
+ - [GaeaStar&#39;s 3D-Printed Clay Coffee Cups Are Disposable, but Can They Save Us From Microplastics?](https://www.wired.com/story/gaeastar-3d-printed-clay-coffee-cups-verve-coffee/)
  - [23 Everyday Products Made of Recycled Materials &lpar;2024&rpar;: Chargers, Watches, Toys](https://www.wired.com/gallery/our-favorite-upcycled-and-recycled-products/)
- - [Tesla slashes Full Self-Driving price after Elon Musk said it would only get more expensive](https://www.theverge.com/2024/4/22/24137056/tesla-full-self-driving-fsd-price-cut-8000)
- - [The Best Eco-Friendly Cleaning Products &lpar;2024&rpar;: For Kitchens, Bathrooms, and Laundry](https://www.wired.com/story/eco-friendly-natural-cleaning-products/)
- - [Morgan Stanley weirdly bullish on iPhone as it trims Apple stock price target](https://appleinsider.com/articles/24/04/22/morgan-stanley-weirdly-bullish-on-iphone-as-it-trims-apple-stock-price-target?utm_medium=rss)
- - [Russia sentences Meta spokesperson Andy Stone to six years in absentia for &quot;publicly defending terrorism&quot;; Russia designates Meta as an extremist organization &lpar;Reuters&rpar;](http://www.techmeme.com/240422/p13#a240422p13)<!-- TECH:END -->
+ - [The Feds Just Announced a $7B Plan to Make Solar Affordable     - CNET](https://www.cnet.com/home/energy-and-utilities/the-feds-just-announced-a-7b-plan-to-make-solar-affordable/#ftag=CAD590a51e)
+ - [Celebrate Mother Earth With These Eco-Friendly Earth Day Deals     - CNET](https://www.cnet.com/deals/celebrate-mother-earth-with-these-eco-friendly-earth-day-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

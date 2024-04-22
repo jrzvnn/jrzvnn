@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Anyone have some `look twice` pics](http://9gag.com/gag/aRBwqVG)
- - 😝 [Consequences of your actions](http://9gag.com/gag/aYQN8LN)
- - 💣 [I did it everyone](http://9gag.com/gag/a7oLYEz)
- - 😝 [To block wheelchair access](http://9gag.com/gag/aD2AvKN)
- - 👉 [Give this person a medal.](http://9gag.com/gag/a4PKv76)<!-- MEMES:END -->
+ - 😝 [His last show.](http://9gag.com/gag/a6Zm0QL)
+ - 😝 [Sweden](http://9gag.com/gag/a9ybG4K)
+ - 💣 [One Punch Kaiju](http://9gag.com/gag/axydqrY)
+ - 😝 [Wish me luck](http://9gag.com/gag/awy06rx)
+ - 👉 [Taylor Swift&#39;s Two Private Jets in 2023. That&#39;s more than 100 million plastic straws &lpar;math at the end&rpar;](http://9gag.com/gag/aGyY3DZ)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Where your taxes are going to.](http://9gag.com/gag/aVvz6nM)
- - 😝 [92](http://9gag.com/gag/aPAwqbK)
- - 💣 [To block wheelchair access](http://9gag.com/gag/aD2AvKN)
- - 😝 [Something doesn\u2019t add up](http://9gag.com/gag/a2vzXpZ)
- - 👉 [Seattle police shoot and kill a 67-year-old pedoph*le who showed up at a hotel to meet up with two girls, 7 and 11 years old. salsa in comments IF this does not get deleted.](http://9gag.com/gag/aMV2Md1)<!-- MEMES:END -->
+ - 😝 [Anyone have some `look twice` pics](http://9gag.com/gag/aRBwqVG)
+ - 😝 [Consequences of your actions](http://9gag.com/gag/aYQN8LN)
+ - 💣 [I did it everyone](http://9gag.com/gag/a7oLYEz)
+ - 😝 [To block wheelchair access](http://9gag.com/gag/aD2AvKN)
+ - 👉 [Give this person a medal.](http://9gag.com/gag/a4PKv76)<!-- MEMES:END -->
 
 ---
 

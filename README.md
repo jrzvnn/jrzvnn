@@ -103,11 +103,11 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Any Joe Rogan fans here?](http://9gag.com/gag/aZZbeV9)
- - 😝 [And Then?](http://9gag.com/gag/a87LP3Z)
- - 💣 [Guide announces a pride of lions is nearby](http://9gag.com/gag/apRE4oD)
- - 😝 [Losing Virginity Nowadays](http://9gag.com/gag/azxgNBj)
- - 👉 [When does the captain determine that it\u2019s too much and it\u2019s panic time?](http://9gag.com/gag/aD2AKdd)<!-- MEMES:END -->
+ - 😝 [Only 4 more days](http://9gag.com/gag/abAXPx9)
+ - 😝 [Wish me luck](http://9gag.com/gag/awy06rx)
+ - 💣 [And Then?](http://9gag.com/gag/a87LP3Z)
+ - 😝 [Easy with that avocado bread](http://9gag.com/gag/apREybE)
+ - 👉 [Nice landing](http://9gag.com/gag/aryv6n6)<!-- MEMES:END -->
 
 ---
 

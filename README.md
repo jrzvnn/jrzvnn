@@ -103,11 +103,11 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Millionaire stops cosplaying as poor person when he realizes it&#39;s super hard to exist with health issues and no insurance or money](http://9gag.com/gag/axydxKM)
- - 😝 [Wish me luck](http://9gag.com/gag/awy06rx)
- - 💣 [When does the captain determine that it\u2019s too much and it\u2019s panic time?](http://9gag.com/gag/aD2AKdd)
- - 😝 [Banger](http://9gag.com/gag/aNDry96)
- - 👉 [Only boomers know this](http://9gag.com/gag/aAyR8j0)<!-- MEMES:END -->
+ - 😝 [Easy with that avocado bread](http://9gag.com/gag/apREybE)
+ - 😝 [Nice landing](http://9gag.com/gag/aryv6n6)
+ - 💣 [It&#39;s the 35th anniversary my dudes. I wanna see how long will it take for this post to get removed](http://9gag.com/gag/aGyYPRn)
+ - 😝 [He&#39;s such a good boy...](http://9gag.com/gag/aLnRYGW)
+ - 👉 [Millionaire stops cosplaying as poor person when he realizes it&#39;s super hard to exist with health issues and no insurance or money](http://9gag.com/gag/axydxKM)<!-- MEMES:END -->
 
 ---
 

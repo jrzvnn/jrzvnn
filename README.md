@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [16 Best Recycled and Upcycled Clothes &lpar;2024&rpar;: Leggings, Sneakers, T-shirts](https://www.wired.com/gallery/our-favorite-recycled-clothes-and-accessories/)
  - [Want to restore a forest? Give it back to Indigenous peoples who call it home](https://www.theverge.com/2024/4/22/24133444/forest-restoration-indigenous-human-rights-costa-rica-earth-day)
  - [UK-based users sue Grindr in the UK, alleging the app shared personal data, including HIV status, with ad companies like Localytics between 2018 to 2020 &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/240422/p10#a240422p10)
  - [23 Reusable Products We Love &lpar;2024&rpar;: Sustainable Bags, Water Bottles, Straws, and More](https://www.wired.com/gallery/our-favorite-reusable-products/)
- - [The Dreametech L20 Ultra Robot Vacuum&#39;s Best-Ever $799 Price Won&#39;t Hang Around for Long     - CNET](https://www.cnet.com/deals/the-dreametech-l20-ultra-robot-vacuums-best-ever-799-price-wont-hang-around-for-long/#ftag=CAD590a51e)
- - [Mortgages Move Up for Homeseekers: Current Mortgage Rates for April 22, 2024     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgages-move-up-for-homeseekers-current-mortgage-rates-for-april-22-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Dreametech L20 Ultra Robot Vacuum&#39;s Best-Ever $799 Price Won&#39;t Hang Around for Long     - CNET](https://www.cnet.com/deals/the-dreametech-l20-ultra-robot-vacuums-best-ever-799-price-wont-hang-around-for-long/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

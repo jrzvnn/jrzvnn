@@ -103,11 +103,11 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [An estimated 1000 people live underground in the flood tunnels underneath Las Vegas](http://9gag.com/gag/aMV2o7G)
- - 😝 [Only boomers know this](http://9gag.com/gag/aAyR8j0)
- - 💣 [1984 &gt; 2024](http://9gag.com/gag/ayN7gGy)
- - 😝 [ThisIsHardwareSideProblem](http://9gag.com/gag/a87LZMQ)
- - 👉 [A Missouri Highway Patrol officer clears the road by lifting a 300kg bale of hay](http://9gag.com/gag/aE0v99N)<!-- MEMES:END -->
+ - 😝 [It must have had a hidden feature](http://9gag.com/gag/a1mv4bw)
+ - 😝 [The story of Pedro](http://9gag.com/gag/a7oLjK2)
+ - 💣 [Nice landing](http://9gag.com/gag/aryv6n6)
+ - 😝 [Millionaire stops cosplaying as poor person when he realizes it&#39;s super hard to exist with health issues and no insurance or money](http://9gag.com/gag/axydxKM)
+ - 👉 [They always win](http://9gag.com/gag/a4PKD0v)<!-- MEMES:END -->
 
 ---
 

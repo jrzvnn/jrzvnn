@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Deadpool and Wolverine whip out the big guns in latest trailer](https://www.theverge.com/24137038/deadpool-and-wolverine-trailer-sleeves-cassandra-nova)
+ - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
  - [The history -- and triumph -- of Arm and Apple Silicon](https://appleinsider.com/articles/24/04/22/the-history----and-triumph----of-arm-and-apple-silicon?utm_medium=rss)
  - [Stanford Internet Observatory: federally authorized CSAM clearinghouse CyberTipline, which gets tens of millions of tips per year, could be overrun by AI images &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/240422/p11#a240422p11)
- - [The great conundrum of campaigning on TikTok](https://www.theverge.com/24134360/tiktok-campaign-strategists-ban-divest-bill)
- - [BYD Seal 2024 Review: Prices, Specs, Availability](https://www.wired.com/review/review-byd-seal-2024/)
- - [24 Things Taking Up Space in Your Kitchen to Throw Out Now     - CNET](https://www.cnet.com/pictures/24-things-taking-up-space-in-your-kitchen-to-throw-out-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The great conundrum of campaigning on TikTok](https://www.theverge.com/24134360/tiktok-campaign-strategists-ban-divest-bill)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

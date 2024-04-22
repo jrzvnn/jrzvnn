@@ -103,11 +103,11 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [His last show.](http://9gag.com/gag/a6Zm0QL)
- - 😝 [A Missouri Highway Patrol officer clears the road by lifting a 300kg bale of hay](http://9gag.com/gag/aE0v99N)
+ - 😝 [Taylor Swift&#39;s Two Private Jets in 2023. That&#39;s more than 100 million plastic straws &lpar;math at the end&rpar;](http://9gag.com/gag/aGyY3DZ)
+ - 😝 [Un attended !](http://9gag.com/gag/a2vzexZ)
  - 💣 [Wish me luck](http://9gag.com/gag/awy06rx)
- - 😝 [1984 &gt; 2024](http://9gag.com/gag/ayN7gGy)
- - 👉 [What&#39;s the most bizarre pizza you can find in the Pizzahut of your country? Here is Bubble Tea Pizza from Taiwan.](http://9gag.com/gag/a87LP03)<!-- MEMES:END -->
+ - 😝 [There&#39;s a reason this guy went with a leg based sport](http://9gag.com/gag/a87LPvV)
+ - 👉 [Only boomers know this](http://9gag.com/gag/aAyR8j0)<!-- MEMES:END -->
 
 ---
 

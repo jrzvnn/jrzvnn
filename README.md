@@ -169,8 +169,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Boomergasms Are Booming](https://www.wired.com/story/boomergasms-are-booming/)
  - [Nike&#39;s Layoffs Prove the Olympics Can&#39;t Solve Its Midlife Crisis](https://www.wired.com/story/will-the-olympics-save-nike-from-its-midlife-crisis/)
  - [ESR takes a chance launching cases for 12.9-inch iPad Air before announcement](https://appleinsider.com/articles/24/04/22/esr-takes-a-chance-launching-cases-for-129-inch-ipad-air-before-announcement?utm_medium=rss)
- - [Mandiant and 38 North: animation files on a misconfigured North Korean server seem to show animators worked on future Amazon Prime Video and HBO TV shows &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/240422/p8#a240422p8)
- - [Grab Yourself a Lifetime Babbel Subscription With Over 70% Off Today     - CNET](https://www.cnet.com/deals/grab-yourself-a-lifetime-babbel-subscription-with-over-70-off-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Researchers: files on a misconfigured North Korean server suggest local animators worked on upcoming Prime Video and HBO TV shows, possibly via a Chinese front &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/240422/p8#a240422p8)
+ - [iPhone 16 capacitive button rumor resurrected by supply chain report](https://appleinsider.com/articles/24/04/22/iphone-16-capacitive-button-rumor-resurrected-by-supply-chain-report?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

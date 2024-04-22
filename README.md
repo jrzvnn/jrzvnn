@@ -94,11 +94,11 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta opens up its VR OS called Horizon OS to third parties and says Asus and Lenovo are both planning Meta Horizon OS-compatible headsets &lpar;Scott Stein/CNET&rpar;](http://www.techmeme.com/240422/p16#a240422p16)
+ - [The Next US President Will Have Troubling New Surveillance Powers](https://www.wired.com/story/section-702-reauthorization-expansion/)
  - [Apple might be the streaming home of soccer’s next big tournament](https://www.theverge.com/2024/4/22/24137251/apple-streaming-fifa-club-world-cup-report)
  - [Best Buy kicks off new M3 MacBook Air sale, blowout M2 deals up to $400 off still available](https://appleinsider.com/articles/24/04/22/best-buy-kicks-off-new-m3-macbook-air-sale-blowout-m2-deals-up-to-400-off-still-available?utm_medium=rss)
- - [Tales of the Shire will let you live out your cozy hobbit fantasies](https://www.theverge.com/24137113/tales-of-the-shire-trailer-private-division-weta-workshop)
- - [Informatica says it is not currently in talks to be acquired, following Salesforce&#39;s reported interest in a ~$10B deal; INFA falls 8%+ &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/240422/p15#a240422p15)
- - [The EU opens another TikTok probe and will assess whether TikTok Lite&#39;s design, which financially rewards users for watching or liking videos, is &quot;addictive&quot; &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240422/p14#a240422p14)<!-- TECH:END -->
+ - [Some Mercedes Self-Driving Cars Won&#39;t Require You to Even Watch the Road     - CNET](https://www.cnet.com/roadshow/news/some-mercedes-self-driving-cars-wont-require-you-to-even-watch-the-road/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

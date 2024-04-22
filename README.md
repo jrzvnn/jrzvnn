@@ -94,11 +94,11 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TabaPay, which offers instant payment services, agrees to acquire assets of banking-as-a-service startup Synapse, after Synapse filed for Chapter 11 bankruptcy &lpar;TechCrunch&rpar;](http://www.techmeme.com/240422/p22#a240422p22)
+ - [Money Hack: Want to Keep Subscription Costs Down? Use a Virtual Card     - CNET](https://www.cnet.com/personal-finance/always-use-a-virtual-card-for-subscriptions-heres-why/#ftag=CAD590a51e)
+ - [Best Keurig Coffee Makers for 2024     - CNET](https://www.cnet.com/home/kitchen-and-household/best-keurig-coffee-makers/#ftag=CAD590a51e)
  - [Amazon ends drone deliveries in Lockeford, California, which began in 2022, and plans to expand them to Tolleson, Arizona, in 2024 and other US regions in 2025 &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/240422/p21#a240422p21)
- - [HR software company Rippling announces a $200M Series F led by Coatue at a $13.5B valuation, up from $11.25B in March 2023, and a separate $590M tender offer &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/240422/p20#a240422p20)
- - [I Tried a Lomi Smart Countertop Composter for a Week. Here&#39;s What Happened     - CNET](https://www.cnet.com/home/kitchen-and-household/i-tried-a-smart-countertop-composter-heres-what-happened/#ftag=CAD590a51e)
- - [What TikTok&#39;s New Community Guidelines Actually Mean for You     - CNET](https://www.cnet.com/news/social-media/what-tiktoks-new-community-guidelines-actually-mean-for-you/#ftag=CAD590a51e)
- - [Best Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Cheap Vacuums for 2024     - CNET](https://www.cnet.com/home/kitchen-and-household/best-cheap-vacuums/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

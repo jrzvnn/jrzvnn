@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Something doesn\u2019t add up](http://9gag.com/gag/a2vzXpZ)
- - 😝 [Tuning Fork Y](http://9gag.com/gag/aGyYmnw)
- - 💣 [Yo Sweden, how are you liking those leftist policies?](http://9gag.com/gag/amoN4z2)
- - 😝 [Only boomers know this](http://9gag.com/gag/aAyR8j0)
- - 👉 [When does the captain determine that it\u2019s too much and it\u2019s panic time?](http://9gag.com/gag/aD2AKdd)<!-- MEMES:END -->
+ - 😝 [Miche Minnies, a South African player, was born in 2001. A year earlier, in 2000, Ronaldinho Ga\u00facho played against South Africa.](http://9gag.com/gag/azxgpxK)
+ - 😝 [To block wheelchair access](http://9gag.com/gag/aD2AvKN)
+ - 💣 [His last show.](http://9gag.com/gag/a6Zm0QL)
+ - 😝 [I did it everyone](http://9gag.com/gag/a7oLYEz)
+ - 👉 [Posting memes I found on my smartphone until I get bored or die #405](http://9gag.com/gag/axydq3W)<!-- MEMES:END -->
 
 ---
 

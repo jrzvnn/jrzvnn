@@ -94,11 +94,11 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pomelo, a &quot;send now, pay later&quot; startup that lets users in the US send money in the form of credit to people in the Philippines, raised a $35M Series A &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240422/p17#a240422p17)
  - [Meta wants to be the Microsoft of headsets](https://www.theverge.com/2024/4/22/24137284/meta-license-horizon-os-quest-headset-lenovo-asus)
  - [Is your PC having trouble? Your smart TV might be to blame](https://www.theverge.com/2024/4/22/24137295/when-the-smarthome-is-stupid-hisense-tv-pc)
  - [An Xbox VR headset is on the way, but it’s a ‘limited edition’ Meta Quest](https://www.theverge.com/2024/4/22/24137334/xbox-vr-headset-microsoft-meta-quest-limited-edition)
- - [Billie Eilish will be the bad guy in Fortnite](https://www.theverge.com/2024/4/22/24137317/billie-eilish-fortnite-festival-date)
- - [Newsletter platform Ghost adopts ActivityPub to ‘bring back the open web’](https://www.theverge.com/2024/4/22/24137296/ghost-newsletter-activitypub-fediverse-support)<!-- TECH:END -->
+ - [Billie Eilish will be the bad guy in Fortnite](https://www.theverge.com/2024/4/22/24137317/billie-eilish-fortnite-festival-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

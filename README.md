@@ -96,7 +96,7 @@
 <!-- TECH:START -->
  - [Tales of the Shire will let you live out your cozy hobbit fantasies](https://www.theverge.com/24137113/tales-of-the-shire-trailer-private-division-weta-workshop)
  - [Informatica says it is not currently in talks to be acquired, following Salesforce&#39;s reported interest in a ~$10B deal; INFA falls 8%+ &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/240422/p15#a240422p15)
- - [EU opens another TikTok probe and will now formally assess whether TikTok Lite&#39;s design, which financially rewards users for watching videos, is &quot;addictive&quot; &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240422/p14#a240422p14)
+ - [The EU opens another TikTok probe and will assess whether TikTok Lite&#39;s design, which financially rewards users for watching or liking videos, is &quot;addictive&quot; &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240422/p14#a240422p14)
  - [GaeaStar&#39;s 3D-Printed Clay Coffee Cups Are Disposable, but Can They Save Us From Microplastics?](https://www.wired.com/story/gaeastar-3d-printed-clay-coffee-cups-verve-coffee/)
  - [23 Everyday Products Made From Recycled Materials &lpar;2024&rpar;: Chargers, Watches, Toys](https://www.wired.com/gallery/our-favorite-upcycled-and-recycled-products/)<!-- TECH:END -->
 

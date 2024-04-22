@@ -103,11 +103,11 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Only 4 more days](http://9gag.com/gag/abAXPx9)
+ - 😝 [Tuning Fork Y](http://9gag.com/gag/aGyYmnw)
  - 😝 [Wish me luck](http://9gag.com/gag/awy06rx)
- - 💣 [And Then?](http://9gag.com/gag/a87LP3Z)
- - 😝 [Easy with that avocado bread](http://9gag.com/gag/apREybE)
- - 👉 [Nice landing](http://9gag.com/gag/aryv6n6)<!-- MEMES:END -->
+ - 💣 [Only boomers know this](http://9gag.com/gag/aAyR8j0)
+ - 😝 [Give this person a medal.](http://9gag.com/gag/a4PKv76)
+ - 👉 [I did it everyone](http://9gag.com/gag/a7oLYEz)<!-- MEMES:END -->
 
 ---
 

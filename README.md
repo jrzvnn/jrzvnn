@@ -103,11 +103,11 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Taylor Swift&#39;s Two Private Jets in 2023. That&#39;s more than 100 million plastic straws &lpar;math at the end&rpar;](http://9gag.com/gag/aGyY3DZ)
  - 😝 [Un attended !](http://9gag.com/gag/a2vzexZ)
- - 💣 [Wish me luck](http://9gag.com/gag/awy06rx)
- - 😝 [There&#39;s a reason this guy went with a leg based sport](http://9gag.com/gag/a87LPvV)
- - 👉 [Only boomers know this](http://9gag.com/gag/aAyR8j0)<!-- MEMES:END -->
+ - 😝 [Give this person a medal.](http://9gag.com/gag/a4PKv76)
+ - 💣 [Only boomers know this](http://9gag.com/gag/aAyR8j0)
+ - 😝 [His last show.](http://9gag.com/gag/a6Zm0QL)
+ - 👉 [Losing Virginity Nowadays](http://9gag.com/gag/azxgNBj)<!-- MEMES:END -->
 
 ---
 

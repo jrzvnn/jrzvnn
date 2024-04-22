@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Japanese Chef &amp; Waiter.](http://9gag.com/gag/aE0v3Yp)
- - 😝 [Miche Minnies, a South African player, was born in 2001. A year earlier, in 2000, Ronaldinho Ga\u00facho played against South Africa.](http://9gag.com/gag/azxgpxK)
- - 💣 [Tuning Fork Y](http://9gag.com/gag/aGyYmnw)
- - 😝 [And Then?](http://9gag.com/gag/a87LP3Z)
- - 👉 [Pit bull bites reporter on live TV](http://9gag.com/gag/ae9j8A5)<!-- MEMES:END -->
+ - 😝 [Imagine being a women and this is the wiew just after you leave a NYC store. Home Depot is now hiring guards, dogs to keep parking lot safe from thieves, aggressive migrants](http://9gag.com/gag/an7qp15)
+ - 😝 [Still kicking](http://9gag.com/gag/ajPYoqR)
+ - 💣 [Consequences of your actions](http://9gag.com/gag/aYQN8LN)
+ - 😝 [Proud Parents](http://9gag.com/gag/a6ZmPe2)
+ - 👉 [Welcome home!](http://9gag.com/gag/adB0m9V)<!-- MEMES:END -->
 
 ---
 

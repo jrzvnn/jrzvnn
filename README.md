@@ -167,10 +167,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [BYD Seal 2024 Review: Prices, Specs, Availability](https://www.wired.com/review/review-byd-seal-2024/)
- - [16 Best Recycled and Upcycled Clothes &lpar;2024&rpar;: Leggings, Sneakers, T-shirts](https://www.wired.com/gallery/our-favorite-recycled-clothes-and-accessories/)
- - [Want to restore a forest? Give it back to Indigenous peoples who call it home](https://www.theverge.com/2024/4/22/24133444/forest-restoration-indigenous-human-rights-costa-rica-earth-day)
- - [UK-based users sue Grindr in the UK, alleging the app shared personal data, including HIV status, with ad companies like Localytics between 2018 to 2020 &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/240422/p10#a240422p10)
- - [23 Reusable Products We Love &lpar;2024&rpar;: Sustainable Bags, Water Bottles, Straws, and More](https://www.wired.com/gallery/our-favorite-reusable-products/)<!-- TECH:END -->
+ - [24 Things Taking Up Space in Your Kitchen to Throw Out Now     - CNET](https://www.cnet.com/pictures/24-things-taking-up-space-in-your-kitchen-to-throw-out-now/#ftag=CAD590a51e)
+ - [9 Affordable and Earth-Friendly Products I Use at Home. And So Can You     - CNET](https://www.cnet.com/personal-finance/banking/go-green-without-going-broke-9-eco-friendly-hacks-that-also-save-me-money/#ftag=CAD590a51e)
+ - [Smarten Up Your Front Door With This Eufy Smart Lock Down to Just $80 at Amazon     - CNET](https://www.cnet.com/deals/smarten-up-your-front-door-with-this-eufy-smart-lock-down-to-just-80-at-amazon/#ftag=CAD590a51e)
+ - [16 Best Recycled and Upcycled Clothes &lpar;2024&rpar;: Leggings, Sneakers, T-shirts](https://www.wired.com/gallery/our-favorite-recycled-clothes-and-accessories/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

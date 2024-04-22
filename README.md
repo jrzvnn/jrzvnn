@@ -103,11 +103,11 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Easy with that avocado bread](http://9gag.com/gag/apREybE)
- - 😝 [Nice landing](http://9gag.com/gag/aryv6n6)
- - 💣 [It&#39;s the 35th anniversary my dudes. I wanna see how long will it take for this post to get removed](http://9gag.com/gag/aGyYPRn)
- - 😝 [He&#39;s such a good boy...](http://9gag.com/gag/aLnRYGW)
- - 👉 [Millionaire stops cosplaying as poor person when he realizes it&#39;s super hard to exist with health issues and no insurance or money](http://9gag.com/gag/axydxKM)<!-- MEMES:END -->
+ - 😝 [Wish me luck](http://9gag.com/gag/awy06rx)
+ - 😝 [Proud Parents](http://9gag.com/gag/a6ZmPe2)
+ - 💣 [Woman&#39;s scream killed rat.](http://9gag.com/gag/aQzPY12)
+ - 😝 [Give this person a medal.](http://9gag.com/gag/a4PKv76)
+ - 👉 [ThisIsHardwareSideProblem](http://9gag.com/gag/a87LZMQ)<!-- MEMES:END -->
 
 ---
 

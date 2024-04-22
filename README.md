@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sweden](http://9gag.com/gag/a9ybG4K)
- - 😝 [And Then?](http://9gag.com/gag/a87LP3Z)
- - 💣 [Pit bull bites reporter on live TV](http://9gag.com/gag/ae9j8A5)
- - 😝 [Taylor Swift&#39;s Two Private Jets in 2023. That&#39;s more than 100 million plastic straws &lpar;math at the end&rpar;](http://9gag.com/gag/aGyY3DZ)
- - 👉 [I did it everyone](http://9gag.com/gag/a7oLYEz)<!-- MEMES:END -->
+ - 😝 [Tuning Fork Y](http://9gag.com/gag/aGyYmnw)
+ - 😝 [Consequences of your actions](http://9gag.com/gag/aYQN8LN)
+ - 💣 [F**king legend](http://9gag.com/gag/aD2AK4d)
+ - 😝 [Welcome home!](http://9gag.com/gag/adB0m9V)
+ - 👉 [Imagine being a women and this is the wiew just after you leave a NYC store. Home Depot is now hiring guards, dogs to keep parking lot safe from thieves, aggressive migrants](http://9gag.com/gag/an7qp15)<!-- MEMES:END -->
 
 ---
 

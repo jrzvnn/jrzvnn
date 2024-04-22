@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Still kicking](http://9gag.com/gag/ajPYoqR)
- - 😝 [I did it everyone](http://9gag.com/gag/a7oLYEz)
- - 💣 [Istanbul Trans Pride Parade lasted less than five minutes](http://9gag.com/gag/a0e8B8q)
- - 😝 [At 31, at least I got seggs and no crime committed...so far...?](http://9gag.com/gag/azxgnmp)
- - 👉 [F**king legend](http://9gag.com/gag/aD2AK4d)<!-- MEMES:END -->
+ - 😝 [Un attended !](http://9gag.com/gag/a2vzexZ)
+ - 😝 [Tuning Fork Y](http://9gag.com/gag/aGyYmnw)
+ - 💣 [Guide announces a pride of lions is nearby](http://9gag.com/gag/apRE4oD)
+ - 😝 [Back when `tight` meant close to each other,good friend](http://9gag.com/gag/an7qP8q)
+ - 👉 [When does the captain determine that it\u2019s too much and it\u2019s panic time?](http://9gag.com/gag/aD2AKdd)<!-- MEMES:END -->
 
 ---
 

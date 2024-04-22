@@ -94,11 +94,11 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta needs other companies &amp; developers to challenge Apple Vision Pro](https://appleinsider.com/articles/24/04/22/meta-needs-other-companies-developers-to-challenge-apples-vision-pro?utm_medium=rss)
  - [Microsoft hires former Meta exec to bolster AI supercomputing team](https://www.theverge.com/2024/4/22/24137391/microsoft-hires-meta-ai-supercomputing-jason-taylor)
  - [Europe’s warming up at nearly twice the global average, says new report](https://www.theverge.com/2024/4/22/24137368/europe-climate-change-warming-un-copernicus-report)
  - [Europe&#39;s main financial entity believes Apple&#39;s proposed iPhone NFC changes aren&#39;t enough](https://appleinsider.com/articles/24/04/22/europes-main-financial-entity-believes-apples-proposed-iphone-nfc-changes-arent-enough?utm_medium=rss)
- - [Get One of Our Favorite Stick Vacuums for $101 Off Right Now on Amazon     - CNET](https://www.cnet.com/deals/get-one-of-our-favorite-stick-vacuums-for-101-off-right-now-on-amazon/#ftag=CAD590a51e)
- - [Google&#39;s Pixel 7 Pro Can Be Yours for Just $530 Today     - CNET](https://www.cnet.com/deals/googles-pixel-7-pro-can-be-yours-for-just-530-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Get One of Our Favorite Stick Vacuums for $101 Off Right Now on Amazon     - CNET](https://www.cnet.com/deals/get-one-of-our-favorite-stick-vacuums-for-101-off-right-now-on-amazon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

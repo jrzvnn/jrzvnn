@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple has bought a French firm to help get AI processing on the iPhone](https://appleinsider.com/articles/24/04/22/apple-has-bought-a-french-firm-to-help-get-ai-processing-on-the-iphone?utm_medium=rss)
  - [Q&amp;A with Discord CEO Jason Citron on creating a private internet, developers, community, video game origins, moderation, layoffs, Loom video meetings, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240422/p12#a240422p12)
  - [Discord CEO Jason Citron makes the case for a smaller, more private internet](https://www.theverge.com/24134914/discord-ceo-gaming-chat-teens-safety-moderation-decoder-interview)
  - [Buckle and Band offers a new take on designer Apple Watch bands for sophisticated owners](https://appleinsider.com/articles/24/04/22/buckle-and-band-offers-a-new-take-on-designer-apple-watch-bands?utm_medium=rss)
- - [Deadpool and Wolverine whip out the big guns in latest trailer](https://www.theverge.com/24137038/deadpool-and-wolverine-trailer-sleeves-cassandra-nova)
- - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)<!-- TECH:END -->
+ - [Deadpool and Wolverine whip out the big guns in latest trailer](https://www.theverge.com/24137038/deadpool-and-wolverine-trailer-sleeves-cassandra-nova)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US judge sentences HeadSpin founder Manish Lachwani to 18 months and a $1M fine over inflated financials; HeadSpin raised $117M and hit a $1.1B valuation &lpar;Erin Griffith/New York Times&rpar;](http://www.techmeme.com/240422/p5#a240422p5)
+ - [Gaming giant Embracer Group is splitting into three companies](https://www.theverge.com/2024/4/22/24136934/embracer-group-splitting-three-companies-middle-earth-enterprises)
  - [Swedish game developer Embracer Group plans to split itself into three publicly traded companies, focused on tabletop, indie, and AAA; EMBRAC-B.ST jumps 10%+ &lpar;Christopher Jungstedt/Bloomberg&rpar;](http://www.techmeme.com/240422/p4#a240422p4)
  - [North Koreans Secretly Animated Amazon and Max Shows, Researchers Say](https://www.wired.com/story/north-korea-amazon-max-animation-exposed-server/)
- - [Semiconductor Giant ASML Has a New Boss, and a Big Problem](https://www.wired.com/story/asml-ceo-chip-war-christophe-fouquet/)
- - [Tinder announces Share My Date, letting users share their date plans with friends, including their match&#39;s name, meeting location, date, and time &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/240422/p3#a240422p3)
- - [Memo to US staff: TikTok vows a legal battle if the US&#39; divestment bill becomes law, saying the bill is &quot;a clear violation&quot; of its users&#39; First Amendment rights &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/240422/p2#a240422p2)<!-- TECH:END -->
+ - [Semiconductor Giant ASML Has a New Boss, and a Big Problem](https://www.wired.com/story/asml-ceo-chip-war-christophe-fouquet/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

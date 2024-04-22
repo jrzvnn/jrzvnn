@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They always win](http://9gag.com/gag/a4PKD0v)
- - 😝 [Why is this so true](http://9gag.com/gag/aPAwKXQ)
- - 💣 [Pit bull bites reporter on live TV](http://9gag.com/gag/ae9j8A5)
- - 😝 [I wanna see &#39;em.](http://9gag.com/gag/awy0EMx)
- - 👉 [Only boomers know this](http://9gag.com/gag/aAyR8j0)<!-- MEMES:END -->
+ - 😝 [Robotic Factory Arms Malfunction..](http://9gag.com/gag/aNDr6K3)
+ - 😝 [Un attended !](http://9gag.com/gag/a2vzexZ)
+ - 💣 [I wanna see &#39;em.](http://9gag.com/gag/awy0EMx)
+ - 😝 [Pit bull bites reporter on live TV](http://9gag.com/gag/ae9j8A5)
+ - 👉 [Wish me luck](http://9gag.com/gag/awy06rx)<!-- MEMES:END -->
 
 ---
 

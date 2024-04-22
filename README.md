@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Give this person a medal.](http://9gag.com/gag/a4PKv76)
- - 😝 [Miche Minnies, a South African player, was born in 2001. A year earlier, in 2000, Ronaldinho Ga\u00facho played against South Africa.](http://9gag.com/gag/azxgpxK)
- - 💣 [Tetteenn](http://9gag.com/gag/a1mv6y2)
- - 😝 [Imagine being a women and this is the wiew just after you leave a NYC store. Home Depot is now hiring guards, dogs to keep parking lot safe from thieves, aggressive migrants](http://9gag.com/gag/an7qp15)
- - 👉 [I did it everyone](http://9gag.com/gag/a7oLYEz)<!-- MEMES:END -->
+ - 😝 [Un attended !](http://9gag.com/gag/a2vzexZ)
+ - 😝 [I did it everyone](http://9gag.com/gag/a7oLYEz)
+ - 💣 [Imagine being a women and this is the wiew just after you leave a NYC store. Home Depot is now hiring guards, dogs to keep parking lot safe from thieves, aggressive migrants](http://9gag.com/gag/an7qp15)
+ - 😝 [Wish me luck](http://9gag.com/gag/awy06rx)
+ - 👉 [Taylor Swift&#39;s Two Private Jets in 2023. That&#39;s more than 100 million plastic straws &lpar;math at the end&rpar;](http://9gag.com/gag/aGyY3DZ)<!-- MEMES:END -->
 
 ---
 

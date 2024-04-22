@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Seen today in Germany. And yes, children liked it .](http://9gag.com/gag/a87LZmV)
- - 😝 [Only boomers know this](http://9gag.com/gag/aAyR8j0)
- - 💣 [Anyone have some `look twice` pics](http://9gag.com/gag/aRBwqVG)
- - 😝 [Wish me luck](http://9gag.com/gag/awy06rx)
+ - 😝 [Japanese Chef &amp; Waiter.](http://9gag.com/gag/aE0v3Yp)
+ - 😝 [Miche Minnies, a South African player, was born in 2001. A year earlier, in 2000, Ronaldinho Ga\u00facho played against South Africa.](http://9gag.com/gag/azxgpxK)
+ - 💣 [Tuning Fork Y](http://9gag.com/gag/aGyYmnw)
+ - 😝 [And Then?](http://9gag.com/gag/a87LP3Z)
  - 👉 [Pit bull bites reporter on live TV](http://9gag.com/gag/ae9j8A5)<!-- MEMES:END -->
 
 ---

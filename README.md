@@ -176,10 +176,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Sweden](http://9gag.com/gag/a9ybG4K)
- - 😝 [I did it everyone](http://9gag.com/gag/a7oLYEz)
- - 💣 [Anyone have some `look twice` pics](http://9gag.com/gag/aRBwqVG)
- - 😝 [Only boomers know this](http://9gag.com/gag/aAyR8j0)
- - 👉 [Give this person a medal.](http://9gag.com/gag/a4PKv76)<!-- MEMES:END -->
+ - 😝 [And Then?](http://9gag.com/gag/a87LP3Z)
+ - 💣 [Pit bull bites reporter on live TV](http://9gag.com/gag/ae9j8A5)
+ - 😝 [Taylor Swift&#39;s Two Private Jets in 2023. That&#39;s more than 100 million plastic straws &lpar;math at the end&rpar;](http://9gag.com/gag/aGyY3DZ)
+ - 👉 [I did it everyone](http://9gag.com/gag/a7oLYEz)<!-- MEMES:END -->
 
 ---
 

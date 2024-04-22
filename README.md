@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Stanford Internet Observatory: federally authorized CSAM clearinghouse CyberTipline, which gets tens of millions of tips per year, could be overrun by AI images &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/240422/p11#a240422p11)
+ - [The great conundrum of campaigning on TikTok](https://www.theverge.com/24134360/tiktok-campaign-strategists-ban-divest-bill)
  - [BYD Seal 2024 Review: Prices, Specs, Availability](https://www.wired.com/review/review-byd-seal-2024/)
  - [24 Things Taking Up Space in Your Kitchen to Throw Out Now     - CNET](https://www.cnet.com/pictures/24-things-taking-up-space-in-your-kitchen-to-throw-out-now/#ftag=CAD590a51e)
- - [9 Affordable and Earth-Friendly Products I Use at Home. And So Can You     - CNET](https://www.cnet.com/personal-finance/banking/go-green-without-going-broke-9-eco-friendly-hacks-that-also-save-me-money/#ftag=CAD590a51e)
- - [Smarten Up Your Front Door With This Eufy Smart Lock Down to Just $80 at Amazon     - CNET](https://www.cnet.com/deals/smarten-up-your-front-door-with-this-eufy-smart-lock-down-to-just-80-at-amazon/#ftag=CAD590a51e)
- - [16 Best Recycled and Upcycled Clothes &lpar;2024&rpar;: Leggings, Sneakers, T-shirts](https://www.wired.com/gallery/our-favorite-recycled-clothes-and-accessories/)<!-- TECH:END -->
+ - [9 Affordable and Earth-Friendly Products I Use at Home. And So Can You     - CNET](https://www.cnet.com/personal-finance/banking/go-green-without-going-broke-9-eco-friendly-hacks-that-also-save-me-money/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Consequences of your actions](http://9gag.com/gag/aYQN8LN)
- - 😝 [Welcome home!](http://9gag.com/gag/adB0m9V)
- - 💣 [Imagine being a women and this is the wiew just after you leave a NYC store. Home Depot is now hiring guards, dogs to keep parking lot safe from thieves, aggressive migrants](http://9gag.com/gag/an7qp15)
- - 😝 [And Then?](http://9gag.com/gag/a87LP3Z)
- - 👉 [Nice landing](http://9gag.com/gag/aryv6n6)<!-- MEMES:END -->
+ - 😝 [Easy with that avocado bread](http://9gag.com/gag/apREybE)
+ - 😝 [Imagine being a women and this is the wiew just after you leave a NYC store. Home Depot is now hiring guards, dogs to keep parking lot safe from thieves, aggressive migrants](http://9gag.com/gag/an7qp15)
+ - 💣 [And Then?](http://9gag.com/gag/a87LP3Z)
+ - 😝 [Losing Virginity Nowadays](http://9gag.com/gag/azxgNBj)
+ - 👉 [Wish me luck](http://9gag.com/gag/awy06rx)<!-- MEMES:END -->
 
 ---
 

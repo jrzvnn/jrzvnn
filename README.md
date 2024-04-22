@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Green Roofs Are Great. Blue-Green Roofs Are Even Better](https://www.wired.com/story/blue-green-roofs-amsterdam-resilio-climate-adaptation-sponge-cities/)
  - [Japan&#39;s FTC says Google blocked Yahoo Japan from accessing targeted ad revenue from mobile searches between 2015 and 2022; Alphabet changed its practices &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/240422/p6#a240422p6)
  - [A US judge sentences HeadSpin founder Manish Lachwani to 18 months and a $1M fine over inflated financials; HeadSpin raised $117M and hit a $1.1B valuation &lpar;Erin Griffith/New York Times&rpar;](http://www.techmeme.com/240422/p5#a240422p5)
  - [Gaming giant Embracer Group is splitting into three companies](https://www.theverge.com/2024/4/22/24136934/embracer-group-splitting-three-companies-middle-earth-enterprises)
- - [Swedish game developer Embracer Group plans to split itself into three publicly traded companies, focused on tabletop, indie, and AAA; EMBRAC-B.ST jumps 10%+ &lpar;Christopher Jungstedt/Bloomberg&rpar;](http://www.techmeme.com/240422/p4#a240422p4)
- - [North Koreans Secretly Animated Amazon and Max Shows, Researchers Say](https://www.wired.com/story/north-korea-amazon-max-animation-exposed-server/)<!-- TECH:END -->
+ - [Swedish game developer Embracer Group plans to split itself into three publicly traded companies, focused on tabletop, indie, and AAA; EMBRAC-B.ST jumps 10%+ &lpar;Christopher Jungstedt/Bloomberg&rpar;](http://www.techmeme.com/240422/p4#a240422p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

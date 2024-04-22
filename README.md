@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [To block wheelchair access](http://9gag.com/gag/aD2AvKN)
- - 😝 [Seattle police shoot and kill a 67-year-old pedoph*le who showed up at a hotel to meet up with two girls, 7 and 11 years old. salsa in comments IF this does not get deleted.](http://9gag.com/gag/aMV2Md1)
- - 💣 [C. Can&#39;t tell](http://9gag.com/gag/amoN36y)
- - 😝 [Only boomers know this](http://9gag.com/gag/aAyR8j0)
- - 👉 [Pit bull bites reporter on live TV](http://9gag.com/gag/ae9j8A5)<!-- MEMES:END -->
+ - 😝 [They always win](http://9gag.com/gag/a4PKD0v)
+ - 😝 [Why is this so true](http://9gag.com/gag/aPAwKXQ)
+ - 💣 [Pit bull bites reporter on live TV](http://9gag.com/gag/ae9j8A5)
+ - 😝 [I wanna see &#39;em.](http://9gag.com/gag/awy0EMx)
+ - 👉 [Only boomers know this](http://9gag.com/gag/aAyR8j0)<!-- MEMES:END -->
 
 ---
 

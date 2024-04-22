@@ -94,11 +94,11 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Why DolphiniOS’s Wii and GameCube emulator isn’t coming to the App Store](https://www.theverge.com/2024/4/22/24137369/dolphinios-emulator-apple-app-store-jit)
  - [Amazon is shutting down its drone delivery service in California as it looks to other markets](https://www.theverge.com/2024/4/22/24137383/amazon-prime-air-drone-delivery-closing-lockeford-california-phoenix-arizona)
  - [Newsletter service Ghost says it plans to add ActivityPub support in 2024; rival service Buttondown also plans ActivityPub support &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240422/p19#a240422p19)
  - [Anker’s 8-in-1 charging station is matching its lowest price to date](https://www.theverge.com/2024/4/22/24137089/anker-qi2-maggo-magnetic-charging-station-macbook-air-13-deal-sale)
- - [Source: UnitedHealth&#39;s Change Healthcare was compromised on February 12, nine days before the ransomware attack, and the company paid a ransom to the hackers &lpar;James Rundle/Wall Street Journal&rpar;](http://www.techmeme.com/240422/p18#a240422p18)
- - [NFL Draft 2024: Start Time, TV Schedule, First Round Order, How to Watch Without Cable     - CNET](https://www.cnet.com/deals/nfl-draft-2024-start-time-tv-schedule-first-round-order-how-to-watch-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Source: UnitedHealth&#39;s Change Healthcare was compromised on February 12, nine days before the ransomware attack, and the company paid a ransom to the hackers &lpar;James Rundle/Wall Street Journal&rpar;](http://www.techmeme.com/240422/p18#a240422p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

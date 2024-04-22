@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [92](http://9gag.com/gag/aPAwqbK)
- - 😝 [Only boomers know this](http://9gag.com/gag/aAyR8j0)
- - 💣 [His last show.](http://9gag.com/gag/a6Zm0QL)
- - 😝 [Some of yous also said `stick`, didn&#39;tcha](http://9gag.com/gag/adB0zbQ)
- - 👉 [Something doesn\u2019t add up](http://9gag.com/gag/a2vzXpZ)<!-- MEMES:END -->
+ - 😝 [Still kicking](http://9gag.com/gag/ajPYoqR)
+ - 😝 [I did it everyone](http://9gag.com/gag/a7oLYEz)
+ - 💣 [Istanbul Trans Pride Parade lasted less than five minutes](http://9gag.com/gag/a0e8B8q)
+ - 😝 [At 31, at least I got seggs and no crime committed...so far...?](http://9gag.com/gag/azxgnmp)
+ - 👉 [F**king legend](http://9gag.com/gag/aD2AK4d)<!-- MEMES:END -->
 
 ---
 

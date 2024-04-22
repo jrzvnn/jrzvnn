@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Miche Minnies, a South African player, was born in 2001. A year earlier, in 2000, Ronaldinho Ga\u00facho played against South Africa.](http://9gag.com/gag/azxgpxK)
- - 😝 [To block wheelchair access](http://9gag.com/gag/aD2AvKN)
- - 💣 [His last show.](http://9gag.com/gag/a6Zm0QL)
- - 😝 [I did it everyone](http://9gag.com/gag/a7oLYEz)
- - 👉 [Posting memes I found on my smartphone until I get bored or die #405](http://9gag.com/gag/axydq3W)<!-- MEMES:END -->
+ - 😝 [The ideal gadget](http://9gag.com/gag/avypKen)
+ - 😝 [Good stick](http://9gag.com/gag/agm3epW)
+ - 💣 [Only boomers know this](http://9gag.com/gag/aAyR8j0)
+ - 😝 [Back when `tight` meant close to each other,good friend](http://9gag.com/gag/an7qP8q)
+ - 👉 [Give this person a medal.](http://9gag.com/gag/a4PKv76)<!-- MEMES:END -->
 
 ---
 

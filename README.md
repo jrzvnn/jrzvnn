@@ -94,11 +94,11 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon ends drone deliveries in Lockeford, California, which began in 2022, and plans to expand them to Tolleson, Arizona, in 2024 and other US regions in 2025 &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/240422/p21#a240422p21)
  - [HR software company Rippling announces a $200M Series F led by Coatue at a $13.5B valuation, up from $11.25B in March 2023, and a separate $590M tender offer &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/240422/p20#a240422p20)
- - [Why DolphiniOS’s Wii and GameCube emulator isn’t coming to the App Store](https://www.theverge.com/2024/4/22/24137369/dolphinios-emulator-apple-app-store-jit)
- - [Here&#39;s How to Take a Nap Without Ruining Your Sleep     - CNET](https://www.cnet.com/health/sleep/nap-without-ruining-your-sleep-at-night/#ftag=CAD590a51e)
- - [Amazon is shutting down its drone delivery service in California as it looks to other markets](https://www.theverge.com/2024/4/22/24137383/amazon-prime-air-drone-delivery-closing-lockeford-california-phoenix-arizona)
- - [Newsletter service Ghost says it plans to add ActivityPub support in 2024; rival service Buttondown also plans ActivityPub support &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240422/p19#a240422p19)<!-- TECH:END -->
+ - [I Tried a Lomi Smart Countertop Composter for a Week. Here&#39;s What Happened     - CNET](https://www.cnet.com/home/kitchen-and-household/i-tried-a-smart-countertop-composter-heres-what-happened/#ftag=CAD590a51e)
+ - [What TikTok&#39;s New Community Guidelines Actually Mean for You     - CNET](https://www.cnet.com/news/social-media/what-tiktoks-new-community-guidelines-actually-mean-for-you/#ftag=CAD590a51e)
+ - [Best Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When does the captain determine that it\u2019s too much and it\u2019s panic time?](http://9gag.com/gag/aD2AKdd)
- - 😝 [Un attended !](http://9gag.com/gag/a2vzexZ)
- - 💣 [And Then?](http://9gag.com/gag/a87LP3Z)
- - 😝 [Only boomers know this](http://9gag.com/gag/aAyR8j0)
- - 👉 [Japanese Chef &amp; Waiter.](http://9gag.com/gag/aE0v3Yp)<!-- MEMES:END -->
+ - 😝 [Any Joe Rogan fans here?](http://9gag.com/gag/aZZbeV9)
+ - 😝 [And Then?](http://9gag.com/gag/a87LP3Z)
+ - 💣 [Guide announces a pride of lions is nearby](http://9gag.com/gag/apRE4oD)
+ - 😝 [Losing Virginity Nowadays](http://9gag.com/gag/azxgNBj)
+ - 👉 [When does the captain determine that it\u2019s too much and it\u2019s panic time?](http://9gag.com/gag/aD2AKdd)<!-- MEMES:END -->
 
 ---
 

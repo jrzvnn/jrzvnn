@@ -103,11 +103,11 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tuning Fork Y](http://9gag.com/gag/aGyYmnw)
- - 😝 [Wish me luck](http://9gag.com/gag/awy06rx)
+ - 😝 [A Missouri Highway Patrol officer clears the road by lifting a 300kg bale of hay](http://9gag.com/gag/aE0v99N)
+ - 😝 [His last show.](http://9gag.com/gag/a6Zm0QL)
  - 💣 [Only boomers know this](http://9gag.com/gag/aAyR8j0)
  - 😝 [Give this person a medal.](http://9gag.com/gag/a4PKv76)
- - 👉 [I did it everyone](http://9gag.com/gag/a7oLYEz)<!-- MEMES:END -->
+ - 👉 [1984 &gt; 2024](http://9gag.com/gag/ayN7gGy)<!-- MEMES:END -->
 
 ---
 

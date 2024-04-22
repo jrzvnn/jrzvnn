@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [His last show.](http://9gag.com/gag/a6Zm0QL)
- - 😝 [Sweden](http://9gag.com/gag/a9ybG4K)
- - 💣 [One Punch Kaiju](http://9gag.com/gag/axydqrY)
+ - 😝 [Seen today in Germany. And yes, children liked it .](http://9gag.com/gag/a87LZmV)
+ - 😝 [Only boomers know this](http://9gag.com/gag/aAyR8j0)
+ - 💣 [Anyone have some `look twice` pics](http://9gag.com/gag/aRBwqVG)
  - 😝 [Wish me luck](http://9gag.com/gag/awy06rx)
- - 👉 [Taylor Swift&#39;s Two Private Jets in 2023. That&#39;s more than 100 million plastic straws &lpar;math at the end&rpar;](http://9gag.com/gag/aGyY3DZ)<!-- MEMES:END -->
+ - 👉 [Pit bull bites reporter on live TV](http://9gag.com/gag/ae9j8A5)<!-- MEMES:END -->
 
 ---
 

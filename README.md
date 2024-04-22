@@ -103,11 +103,11 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Easy with that avocado bread](http://9gag.com/gag/apREybE)
- - 😝 [Un attended !](http://9gag.com/gag/a2vzexZ)
- - 💣 [1984 &gt; 2024](http://9gag.com/gag/ayN7gGy)
- - 😝 [Taylor Swift&#39;s Two Private Jets in 2023. That&#39;s more than 100 million plastic straws &lpar;math at the end&rpar;](http://9gag.com/gag/aGyY3DZ)
- - 👉 [I did it everyone](http://9gag.com/gag/a7oLYEz)<!-- MEMES:END -->
+ - 😝 [1984 &gt; 2024](http://9gag.com/gag/ayN7gGy)
+ - 😝 [Give this person a medal.](http://9gag.com/gag/a4PKv76)
+ - 💣 [Tuning Fork Y](http://9gag.com/gag/aGyYmnw)
+ - 😝 [There&#39;s a reason this guy went with a leg based sport](http://9gag.com/gag/a87LPvV)
+ - 👉 [ThisIsHardwareSideProblem](http://9gag.com/gag/a87LZMQ)<!-- MEMES:END -->
 
 ---
 

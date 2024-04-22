@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Boomergasms Are Booming](https://www.wired.com/story/boomergasms-are-booming/)
+ - [Nike&#39;s Layoffs Prove the Olympics Can&#39;t Solve Its Midlife Crisis](https://www.wired.com/story/will-the-olympics-save-nike-from-its-midlife-crisis/)
  - [ESR takes a chance launching cases for 12.9-inch iPad Air before announcement](https://appleinsider.com/articles/24/04/22/esr-takes-a-chance-launching-cases-for-129-inch-ipad-air-before-announcement?utm_medium=rss)
  - [Mandiant and 38 North: animation files on a misconfigured North Korean server seem to show animators worked on future Amazon Prime Video and HBO TV shows &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/240422/p8#a240422p8)
- - [iPhone 16 capacitive button rumor resurrected by supply chain report](https://appleinsider.com/articles/24/04/22/iphone-16-capacitive-button-rumor-resurrected-by-supply-chain-report?utm_medium=rss)
- - [African tech investor TLcom Capital raised $154M for a new fund, attracting US and Europe investment; Africa-focused VCs have raised $655M since November 2023 &lpar;Aanu Adeoye/Financial Times&rpar;](http://www.techmeme.com/240422/p7#a240422p7)
- - [Green Roofs Are Great. Blue-Green Roofs Are Even Better](https://www.wired.com/story/blue-green-roofs-amsterdam-resilio-climate-adaptation-sponge-cities/)<!-- TECH:END -->
+ - [Grab Yourself a Lifetime Babbel Subscription With Over 70% Off Today     - CNET](https://www.cnet.com/deals/grab-yourself-a-lifetime-babbel-subscription-with-over-70-off-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

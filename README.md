@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Robotic Factory Arms Malfunction..](http://9gag.com/gag/aNDr6K3)
- - 😝 [Un attended !](http://9gag.com/gag/a2vzexZ)
- - 💣 [I wanna see &#39;em.](http://9gag.com/gag/awy0EMx)
- - 😝 [Pit bull bites reporter on live TV](http://9gag.com/gag/ae9j8A5)
- - 👉 [Wish me luck](http://9gag.com/gag/awy06rx)<!-- MEMES:END -->
+ - 😝 [To block wheelchair access](http://9gag.com/gag/aD2AvKN)
+ - 😝 [Where your taxes are going to.](http://9gag.com/gag/aVvz6nM)
+ - 💣 [Wish me luck](http://9gag.com/gag/awy06rx)
+ - 😝 [Anyone have some `look twice` pics](http://9gag.com/gag/aRBwqVG)
+ - 👉 [Something doesn\u2019t add up](http://9gag.com/gag/a2vzXpZ)<!-- MEMES:END -->
 
 ---
 

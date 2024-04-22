@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft makes it easier to install Windows store apps from the web](https://www.theverge.com/2024/4/22/24136942/microsoft-store-installers-web-download-windows)
  - [Boomergasms Are Booming](https://www.wired.com/story/boomergasms-are-booming/)
  - [Nike&#39;s Layoffs Prove the Olympics Can&#39;t Solve Its Midlife Crisis](https://www.wired.com/story/will-the-olympics-save-nike-from-its-midlife-crisis/)
  - [ESR takes a chance launching cases for 12.9-inch iPad Air before announcement](https://appleinsider.com/articles/24/04/22/esr-takes-a-chance-launching-cases-for-129-inch-ipad-air-before-announcement?utm_medium=rss)
- - [Researchers: files on a misconfigured North Korean server suggest local animators worked on upcoming Prime Video and HBO TV shows, possibly via a Chinese front &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/240422/p8#a240422p8)
- - [iPhone 16 capacitive button rumor resurrected by supply chain report](https://appleinsider.com/articles/24/04/22/iphone-16-capacitive-button-rumor-resurrected-by-supply-chain-report?utm_medium=rss)<!-- TECH:END -->
+ - [Researchers: files on a misconfigured North Korean server suggest local animators worked on upcoming Prime Video and HBO TV shows, possibly via a Chinese front &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/240422/p8#a240422p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Semiconductor Giant ASML Has a New Boss, and a Big Problem](https://www.wired.com/story/asml-ceo-chip-war-christophe-fouquet/)
  - [Tinder announces Share My Date, allowing users to share their date plans with friends, including their match&#39;s name, meeting location, date, and time &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/240422/p3#a240422p3)
  - [Memo to its US staff: TikTok vows legal battle if US&#39; divestment bill becomes a law, saying the bill is &quot;a clear violation&quot; of its users&#39; First Amendment rights &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/240422/p2#a240422p2)
  - [Source: Salesforce has backed away from its talks to acquire cloud data management company Informatica, after the two companies could not agree on terms &lpar;Anirban Sen/Reuters&rpar;](http://www.techmeme.com/240422/p1#a240422p1)
- - [Best Shave Club for 2024: Dollar Shave Club, Harry&#39;s and More     - CNET](https://www.cnet.com/health/personal-care/best-shave-club/#ftag=CAD590a51e)
- - [Analysis: the 25 most-cited US news organizations lost 75% of their Facebook engagement and 58% of their Instagram interactions between Q1 2022 and Q1 2024 &lpar;Washington Post&rpar;](http://www.techmeme.com/240421/p6#a240421p6)<!-- TECH:END -->
+ - [Best Shave Club for 2024: Dollar Shave Club, Harry&#39;s and More     - CNET](https://www.cnet.com/health/personal-care/best-shave-club/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

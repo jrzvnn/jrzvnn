@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Un attended !](http://9gag.com/gag/a2vzexZ)
+ - 😝 [His last show.](http://9gag.com/gag/a6Zm0QL)
+ - 😝 [Where your taxes are going to.](http://9gag.com/gag/aVvz6nM)
+ - 💣 [Only boomers know this](http://9gag.com/gag/aAyR8j0)
  - 😝 [Tuning Fork Y](http://9gag.com/gag/aGyYmnw)
- - 💣 [Guide announces a pride of lions is nearby](http://9gag.com/gag/apRE4oD)
- - 😝 [Back when `tight` meant close to each other,good friend](http://9gag.com/gag/an7qP8q)
- - 👉 [When does the captain determine that it\u2019s too much and it\u2019s panic time?](http://9gag.com/gag/aD2AKdd)<!-- MEMES:END -->
+ - 👉 [Wish me luck](http://9gag.com/gag/awy06rx)<!-- MEMES:END -->
 
 ---
 

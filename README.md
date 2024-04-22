@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The ideal gadget](http://9gag.com/gag/avypKen)
- - 😝 [Good stick](http://9gag.com/gag/agm3epW)
- - 💣 [Only boomers know this](http://9gag.com/gag/aAyR8j0)
- - 😝 [Back when `tight` meant close to each other,good friend](http://9gag.com/gag/an7qP8q)
- - 👉 [Give this person a medal.](http://9gag.com/gag/a4PKv76)<!-- MEMES:END -->
+ - 😝 [Where your taxes are going to.](http://9gag.com/gag/aVvz6nM)
+ - 😝 [92](http://9gag.com/gag/aPAwqbK)
+ - 💣 [To block wheelchair access](http://9gag.com/gag/aD2AvKN)
+ - 😝 [Something doesn\u2019t add up](http://9gag.com/gag/a2vzXpZ)
+ - 👉 [Seattle police shoot and kill a 67-year-old pedoph*le who showed up at a hotel to meet up with two girls, 7 and 11 years old. salsa in comments IF this does not get deleted.](http://9gag.com/gag/aMV2Md1)<!-- MEMES:END -->
 
 ---
 

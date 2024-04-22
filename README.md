@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [To block wheelchair access](http://9gag.com/gag/aD2AvKN)
- - 😝 [Where your taxes are going to.](http://9gag.com/gag/aVvz6nM)
- - 💣 [Wish me luck](http://9gag.com/gag/awy06rx)
- - 😝 [Anyone have some `look twice` pics](http://9gag.com/gag/aRBwqVG)
- - 👉 [Something doesn\u2019t add up](http://9gag.com/gag/a2vzXpZ)<!-- MEMES:END -->
+ - 😝 [Something doesn\u2019t add up](http://9gag.com/gag/a2vzXpZ)
+ - 😝 [Tuning Fork Y](http://9gag.com/gag/aGyYmnw)
+ - 💣 [Yo Sweden, how are you liking those leftist policies?](http://9gag.com/gag/amoN4z2)
+ - 😝 [Only boomers know this](http://9gag.com/gag/aAyR8j0)
+ - 👉 [When does the captain determine that it\u2019s too much and it\u2019s panic time?](http://9gag.com/gag/aD2AKdd)<!-- MEMES:END -->
 
 ---
 

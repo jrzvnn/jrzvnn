@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No way, the DJ did that!!](http://9gag.com/gag/azxg69j)
  - 😝 [1984 &gt; 2024](http://9gag.com/gag/ayN7gGy)
- - 💣 [Proud Parents](http://9gag.com/gag/a6ZmPe2)
- - 😝 [Only boomers know this](http://9gag.com/gag/aAyR8j0)
- - 👉 [Woman&#39;s scream killed rat.](http://9gag.com/gag/aQzPY12)<!-- MEMES:END -->
+ - 😝 [And Then?](http://9gag.com/gag/a87LP3Z)
+ - 💣 [Only boomers know this](http://9gag.com/gag/aAyR8j0)
+ - 😝 [Woman&#39;s scream killed rat.](http://9gag.com/gag/aQzPY12)
+ - 👉 [Proud Parents](http://9gag.com/gag/a6ZmPe2)<!-- MEMES:END -->
 
 ---
 

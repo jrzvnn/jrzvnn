@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New iPad Air &amp; iPad Pro models are coming soon - what to expect](https://appleinsider.com/articles/24/04/23/new-ipad-air-ipad-pro-models-are-coming-soon---what-to-expect?utm_medium=rss)
  - [Apple rolls out the third developer beta round for testing](https://appleinsider.com/articles/24/04/23/apple-rolls-out-the-third-developer-beta-round-for-testing?utm_medium=rss)
- - [Meta&#39;s Ray-Ban Smart Glasses get support for video calling via WhatsApp and Messenger, Apple Music compatibility, and a new frame style &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/240423/p23#a240423p23)
- - [Apple Silicon might get used for AI chips in server farms](https://appleinsider.com/articles/24/04/23/apple-silicon-might-get-used-for-ai-chips-in-server-farms?utm_medium=rss)
- - [Bringing Fallout’s gritty retrofuturism into the real world](https://www.theverge.com/24137217/fallout-amazon-prime-video-production-design-interview)<!-- TECH:END -->
+ - [Third visionOS 1.2 developer beta arrives, with few changes](https://appleinsider.com/articles/24/04/23/apple-ships-the-third-visionos-12-developer-beta?utm_medium=rss)
+ - [Survey: Apple cut 2024 Vision Pro shipments to 400K-450K units, vs. a 700K+ market consensus, and cut orders mean demand has fallen sharply beyond expectations &lpar;Ming-Chi Kuo&rpar;](http://www.techmeme.com/240423/p24#a240423p24)
+ - [Apple Vision Pro shipments reportedly cut as US demand for headset wanes](https://appleinsider.com/articles/24/04/23/apple-vision-pro-shipments-reportedly-cut-as-us-demand-for-headset-wanes?utm_medium=rss)
+ - [New iPad Air &amp; iPad Pro models are coming soon - what to expect](https://appleinsider.com/articles/24/04/23/new-ipad-air-ipad-pro-models-are-coming-soon---what-to-expect?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

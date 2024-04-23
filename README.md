@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk is fighting Australia to host a stabbing video on X](https://www.theverge.com/2024/4/23/24138062/elon-musk-fighting-australia-stabbing-video-x-twitter-censorship)
  - [An analysis of pinyin keyboard apps from Baidu, Honor, Samsung, Tencent, and others finds vulnerabilities that can reveal keystrokes to network eavesdroppers &lpar;The Citizen Lab&rpar;](http://www.techmeme.com/240423/p14#a240423p14)
  - [Porsche Macan Electric 2024: Specs, Prices, Availability](https://www.wired.com/review/review-porsche-macan-electric-2024/)
  - [Laptop Buying Guide &lpar;2024&rpar;: How to Choose the Right PC &lpar;Step-by-Step Guide&rpar;](https://www.wired.com/story/how-to-buy-the-right-laptop-for-you/)
- - [SimpliSafe’s new outdoor monitoring service combines AI with live agents](https://www.theverge.com/2024/4/23/24137667/simplisafe-live-guard-outdoor-protection-security-camera-ai-facial-recognition)
- - [Tesla’s in its flop era](https://www.theverge.com/24134781/tesla-q1-2024-earnings-sales-market-share-elon-musk)<!-- TECH:END -->
+ - [SimpliSafe’s new outdoor monitoring service combines AI with live agents](https://www.theverge.com/2024/4/23/24137667/simplisafe-live-guard-outdoor-protection-security-camera-ai-facial-recognition)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

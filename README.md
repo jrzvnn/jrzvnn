@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Atlus’ new fantasy-meets-Persona RPG launches in October](https://www.theverge.com/24138288/atlus-action-rpg-trailer-release-date-persona)
+ - [You don’t know your K-pop persona, do you?](https://www.theverge.com/2024/4/23/24138370/spotify-launches-k-pop-persona-quiz)
  - [How 14 tribes plan to use the Biden administration’s solar grants](https://www.theverge.com/2024/4/23/24137548/mha-nation-tribes-solar-grant-biden-administration)
  - [Microsoft took down its WizardLM 2 LLM after it reportedly missed &quot;toxicity testing&quot;, but people already downloaded and re-uploaded it to GitHub, Hugging Face &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/240423/p26#a240423p26)
- - [Luminar starts shipping lidar for Volvo EX90 — while readying its next-gen sensor](https://www.theverge.com/2024/4/23/24138224/volvo-ex90-production-start-luminar-lidar-halo-sensor)
- - [Tesla reveals a new Model 3 Performance with more horsepower and faster acceleration](https://www.theverge.com/2024/4/23/24138352/tesla-model-3-performance-2024-horsepower-acceleration)
- - [More evidence surfaces that Beats Solo 4 are coming soon](https://appleinsider.com/articles/24/04/23/more-evidence-surfaces-that-beats-solo-4-are-coming-soon?utm_medium=rss)<!-- TECH:END -->
+ - [Luminar starts shipping lidar for Volvo EX90 — while readying its next-gen sensor](https://www.theverge.com/2024/4/23/24138224/volvo-ex90-production-start-luminar-lidar-halo-sensor)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

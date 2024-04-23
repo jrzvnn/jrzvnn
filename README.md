@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hector](http://9gag.com/gag/a1mv49D)
- - 😝 [Stay blessed](http://9gag.com/gag/aO8K693)
- - 💣 [A Black belt in laundry fighting against the stains.](http://9gag.com/gag/adB03G9)
- - 😝 [No way, the DJ did that!!](http://9gag.com/gag/azxg69j)
- - 👉 [Nice landing](http://9gag.com/gag/aryv6n6)<!-- MEMES:END -->
+ - 😝 [Losing Virginity Nowadays](http://9gag.com/gag/azxgNBj)
+ - 😝 [There a two and it is fine. No nope there is not a another one.](http://9gag.com/gag/aE0vrW9)
+ - 💣 [Only boomers know this](http://9gag.com/gag/aAyR8j0)
+ - 😝 [Elephant memory](http://9gag.com/gag/a0e9v8q)
+ - 👉 [Any Joe Rogan fans here?](http://9gag.com/gag/aZZbeV9)<!-- MEMES:END -->
 
 ---
 

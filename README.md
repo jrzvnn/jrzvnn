@@ -103,11 +103,11 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wish me luck](http://9gag.com/gag/awy06rx)
- - 😝 [Proud Parents](http://9gag.com/gag/a6ZmPe2)
- - 💣 [Woman&#39;s scream killed rat.](http://9gag.com/gag/aQzPY12)
- - 😝 [Give this person a medal.](http://9gag.com/gag/a4PKv76)
- - 👉 [ThisIsHardwareSideProblem](http://9gag.com/gag/a87LZMQ)<!-- MEMES:END -->
+ - 😝 [A Black belt in laundry fighting against the stains.](http://9gag.com/gag/adB03G9)
+ - 😝 [It must have had a hidden feature](http://9gag.com/gag/a1mv4bw)
+ - 💣 [Stay blessed](http://9gag.com/gag/aO8K693)
+ - 😝 [Nice landing](http://9gag.com/gag/aryv6n6)
+ - 👉 [Taylor Swift&#39;s Two Private Jets in 2023. That&#39;s more than 100 million plastic straws &lpar;math at the end&rpar;](http://9gag.com/gag/aGyY3DZ)<!-- MEMES:END -->
 
 ---
 

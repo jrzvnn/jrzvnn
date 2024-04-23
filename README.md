@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Noncompetes Are Dead—and Tech Workers Are Free to Roam](https://www.wired.com/story/noncompetes-are-dead-tech-workers-free-to-roam/)
  - [Block says it has finished the development of its own 3nm bitcoin mining chip and is working through the design with a &quot;leading global semiconductor foundry&quot; &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/240423/p40#a240423p40)
  - [Letter: the US Department of Commerce is reviewing the national security implications of China&#39;s work in open-source RISC-V chip technology &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/240423/p39#a240423p39)
  - [A cheaper Tesla is back on the menu](https://www.theverge.com/2024/4/23/24138646/tesla-q1-2024-earnings-model-2-affordable-electric-vehicles)
- - [Best Smart Home Deals: Nab Affordable Upgrades to Live Smarter for Less     - CNET](https://www.cnet.com/deals/best-smart-home-deals/#ftag=CAD590a51e)
- - [Tesla teases a ridehailing function in its app and says its robotaxi will be &quot;purpose-built&quot;, suggesting it will be built from the ground up to be self-driving &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/240423/p38#a240423p38)<!-- TECH:END -->
+ - [Best Smart Home Deals: Nab Affordable Upgrades to Live Smarter for Less     - CNET](https://www.cnet.com/deals/best-smart-home-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

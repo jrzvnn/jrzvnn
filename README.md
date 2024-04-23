@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best of WWDC -- the developer conference that shapes technology for the rest of us](https://appleinsider.com/articles/24/04/23/the-best-of-wwdc----the-developer-conference-that-shapes-technology-for-the-rest-of-us?utm_medium=rss)
- - [Elehear Alpha Pro Review: Hearing Aids With Great Battery Life](https://www.wired.com/review/elehear-alpha-pro/)
- - [Google fires ~20 more staff the company says participated in protests denouncing an Israeli cloud contract; an activist workers&#39; group says the total is now 50+ &lpar;Washington Post&rpar;](http://www.techmeme.com/240423/p13#a240423p13)
- - [Sources: two SEC lawyers resigned after a US federal judge sanctioned and sharply rebuked the SEC for &quot;gross abuse&quot; of power in crypto platform DEBT Box&#39;s case &lpar;Austin Weinstein/Bloomberg&rpar;](http://www.techmeme.com/240423/p12#a240423p12)
- - [A National Security Insider Does the Math on the Dangers of AI](https://www.wired.com/story/jason-matheny-national-security-insider-dangers-of-ai/)<!-- TECH:END -->
+ - [Porsche Macan Electric 2024: Specs, Prices, Availability](https://www.wired.com/review/review-porsche-macan-electric-2024/)
+ - [Laptop Buying Guide &lpar;2024&rpar;: How to Choose the Right PC &lpar;Step-by-Step Guide&rpar;](https://www.wired.com/story/how-to-buy-the-right-laptop-for-you/)
+ - [SimpliSafe’s new outdoor monitoring service combines AI with live agents](https://www.theverge.com/2024/4/23/24137667/simplisafe-live-guard-outdoor-protection-security-camera-ai-facial-recognition)
+ - [Tesla’s in its flop era](https://www.theverge.com/24134781/tesla-q1-2024-earnings-sales-market-share-elon-musk)
+ - [The best of WWDC -- the developer conference that shapes technology for the rest of us](https://appleinsider.com/articles/24/04/23/the-best-of-wwdc----the-developer-conference-that-shapes-technology-for-the-rest-of-us?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

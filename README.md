@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He has his athes eyes don&#39;t you think !](http://9gag.com/gag/aRBwx9j)
- - 😝 [It&#39;s the 35th anniversary my dudes. I wanna see how long will it take for this post to get removed](http://9gag.com/gag/aGyYPRn)
- - 💣 [Nice landing](http://9gag.com/gag/aryv6n6)
- - 😝 [Is there a lot of shit? Yes! Are there also good things to enjoy? Also Yes!](http://9gag.com/gag/aMV2pP6)
- - 👉 [They always win](http://9gag.com/gag/a4PKD0v)<!-- MEMES:END -->
+ - 😝 [Hodor](http://9gag.com/gag/ajPYbpp)
+ - 😝 [Millionaire stops cosplaying as poor person when he realizes it&#39;s super hard to exist with health issues and no insurance or money](http://9gag.com/gag/axydxKM)
+ - 💣 [Proud Parents](http://9gag.com/gag/a6ZmPe2)
+ - 😝 [ThisIsHardwareSideProblem](http://9gag.com/gag/a87LZMQ)
+ - 👉 [Only boomers know this](http://9gag.com/gag/aAyR8j0)<!-- MEMES:END -->
 
 ---
 

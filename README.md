@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And that&#39;s how I fell in love](http://9gag.com/gag/aLnRYBz)
- - 😝 [How was your day at work?](http://9gag.com/gag/aoyzmjm)
- - 💣 [Now we have questions](http://9gag.com/gag/a9ydj0D)
- - 😝 [Proud Parents](http://9gag.com/gag/a6ZmPe2)
+ - 😝 [Wish me luck](http://9gag.com/gag/awy06rx)
+ - 😝 [Things to never say to a woman in bed.](http://9gag.com/gag/aYQbNjN)
+ - 💣 [Proud Parents](http://9gag.com/gag/a6ZmPe2)
+ - 😝 [Now we have questions](http://9gag.com/gag/a9ydj0D)
  - 👉 [Any Joe Rogan fans here?](http://9gag.com/gag/aZZbeV9)<!-- MEMES:END -->
 
 ---

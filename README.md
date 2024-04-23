@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why is this so true](http://9gag.com/gag/aPAwKXQ)
- - 😝 [I don&#39;t speak French... but](http://9gag.com/gag/aLnK6wM)
- - 💣 [And that&#39;s how I fell in love](http://9gag.com/gag/aLnRYBz)
+ - 😝 [ThisIsHardwareSideProblem](http://9gag.com/gag/a87LZMQ)
  - 😝 [Elephant memory](http://9gag.com/gag/a0e9v8q)
- - 👉 [Taylor Swift&#39;s Two Private Jets in 2023. That&#39;s more than 100 million plastic straws &lpar;math at the end&rpar;](http://9gag.com/gag/aGyY3DZ)<!-- MEMES:END -->
+ - 💣 [Taylor Swift&#39;s Two Private Jets in 2023. That&#39;s more than 100 million plastic straws &lpar;math at the end&rpar;](http://9gag.com/gag/aGyY3DZ)
+ - 😝 [Losing Virginity Nowadays](http://9gag.com/gag/azxgNBj)
+ - 👉 [Alex Baldwin smacked Palestine out of this annoying b\u05d5tch](http://9gag.com/gag/a5QdpjL)<!-- MEMES:END -->
 
 ---
 

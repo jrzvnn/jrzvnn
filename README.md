@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Twins celebrating win in Rio 2016](http://9gag.com/gag/adBN0bM)
  - 😝 [Elephant memory](http://9gag.com/gag/a0e9v8q)
- - 😝 [How was your day at work?](http://9gag.com/gag/aoyzmjm)
- - 💣 [Now we have questions](http://9gag.com/gag/a9ydj0D)
- - 😝 [That really hurts](http://9gag.com/gag/a0e8mjd)
- - 👉 [Twins celebrating win in Rio 2016](http://9gag.com/gag/adBN0bM)<!-- MEMES:END -->
+ - 💣 [How was your day at work?](http://9gag.com/gag/aoyzmjm)
+ - 😝 [Now we have questions](http://9gag.com/gag/a9ydj0D)
+ - 👉 [For old times sake\u2026 Men of culture\u2026 enjoy!](http://9gag.com/gag/aE0wvzx)<!-- MEMES:END -->
 
 ---
 

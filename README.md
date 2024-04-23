@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple rolls out the third developer beta round for testing](https://appleinsider.com/articles/24/04/23/apple-rolls-out-the-third-developer-beta-round-for-testing?utm_medium=rss)
- - [Third visionOS 1.2 developer beta arrives, with few changes](https://appleinsider.com/articles/24/04/23/apple-ships-the-third-visionos-12-developer-beta?utm_medium=rss)
- - [Survey: Apple cut 2024 Vision Pro shipments to 400K-450K units, vs. a 700K+ market consensus, and cut orders mean demand has fallen sharply beyond expectations &lpar;Ming-Chi Kuo&rpar;](http://www.techmeme.com/240423/p24#a240423p24)
- - [Apple Vision Pro shipments reportedly cut as US demand for headset wanes](https://appleinsider.com/articles/24/04/23/apple-vision-pro-shipments-reportedly-cut-as-us-demand-for-headset-wanes?utm_medium=rss)
- - [New iPad Air &amp; iPad Pro models are coming soon - what to expect](https://appleinsider.com/articles/24/04/23/new-ipad-air-ipad-pro-models-are-coming-soon---what-to-expect?utm_medium=rss)<!-- TECH:END -->
+ - [Taylor Swift&#39;s new album smashed streaming records; Spotify says it had 300M+ streams on launch day and became 2024&#39;s most-streamed album within just 12 hours &lpar;Chris Morris/Fortune&rpar;](http://www.techmeme.com/240423/p25#a240423p25)
+ - [Deals: save up to $450 on Microsoft 365, Office, Adobe Creative Cloud &amp; more](https://appleinsider.com/articles/24/04/23/deals-save-up-to-450-on-microsoft-365-office-adobe-creative-cloud-more?utm_medium=rss)
+ - [This could finally be the year the iPad gets a built-in calculator app](https://www.theverge.com/2024/4/23/24138334/ipad-calculator-app-apple-launch)
+ - [4 Best Gaming Laptops &lpar;2024&rpar;: From Cheap to Premium](https://www.wired.com/gallery/best-gaming-laptops/)
+ - [The VWFNDR Keirin is an expansive new concept for the future of cameras](https://www.theverge.com/24138309/vwfndr-keirin-panoramic-concept-camera)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

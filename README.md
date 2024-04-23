@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Ray-Ban Meta Smart Glasses get video calling, Apple Music, and a new style](https://www.theverge.com/2024/4/23/24138228/ray-ban-meta-smart-glasses-wearables-ai-apple-music)
  - [Meta rolls out an early access multimodal AI to Ray-Ban Meta Smart Glasses, primarily to help identify objects, translate signs, and write Instagram captions &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/240423/p20#a240423p20)
  - [The Ray-Ban Meta Smart Glasses have multimodal AI now](https://www.theverge.com/2024/4/23/24138090/ray-ban-meta-smart-glasses-ai-wearables)
  - [Apple teases new iPad Pro &amp; Air event with multiple animated logos](https://appleinsider.com/articles/24/04/23/apple-teases-ipad-art-event-with-multiple-sketch-logos?utm_medium=rss)
- - [Best iPad to Buy &lpar;and Some to Avoid&rpar; in 2024](https://www.wired.com/gallery/the-best-ipad/)
- - [Razer’s Viper V3 Pro mouse puts its dongle where it belongs](https://www.theverge.com/24137829/razer-viper-v3-pro-gaming-mouse)<!-- TECH:END -->
+ - [Best iPad to Buy &lpar;and Some to Avoid&rpar; in 2024](https://www.wired.com/gallery/the-best-ipad/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

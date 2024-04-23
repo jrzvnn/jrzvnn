@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She calls me sayang and she is always happy](http://9gag.com/gag/a7o5LBm)
- - 😝 [Twins celebrating win in Rio 2016](http://9gag.com/gag/adBN0bM)
- - 💣 [Now we have questions](http://9gag.com/gag/a9ydj0D)
- - 😝 [Pro Palestinian can&#39;t answer a simple question](http://9gag.com/gag/aryvP9p)
- - 👉 [Pretty much the dumbest thing I\u2019ve ever done , was in panic and screaming when I woke up](http://9gag.com/gag/an7qL3z)<!-- MEMES:END -->
+ - 😝 [Making OF content in the gym.](http://9gag.com/gag/aLnRqXv)
+ - 😝 [Millionaire stops cosplaying as poor person when he realizes it&#39;s super hard to exist with health issues and no insurance or money](http://9gag.com/gag/axydxKM)
+ - 💣 [Twins celebrating win in Rio 2016](http://9gag.com/gag/adBN0bM)
+ - 😝 [Alex Baldwin smacked Palestine out of this annoying b\u05d5tch](http://9gag.com/gag/a5QdpjL)
+ - 👉 [Columbia University began revoking the passes of Jewish professors. The first to come under attack was Israeli professor Shai Davidai, who was banned from campus.](http://9gag.com/gag/an7qAGb)<!-- MEMES:END -->
 
 ---
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Twins celebrating win in Rio 2016](http://9gag.com/gag/adBN0bM)
- - 😝 [Elephant memory](http://9gag.com/gag/a0e9v8q)
- - 💣 [How was your day at work?](http://9gag.com/gag/aoyzmjm)
  - 😝 [Now we have questions](http://9gag.com/gag/a9ydj0D)
- - 👉 [For old times sake\u2026 Men of culture\u2026 enjoy!](http://9gag.com/gag/aE0wvzx)<!-- MEMES:END -->
+ - 😝 [How was your day at work?](http://9gag.com/gag/aoyzmjm)
+ - 💣 [Columbia University began revoking the passes of Jewish professors. The first to come under attack was Israeli professor Shai Davidai, who was banned from campus.](http://9gag.com/gag/an7qAGb)
+ - 😝 [Taylor Swift&#39;s Two Private Jets in 2023. That&#39;s more than 100 million plastic straws &lpar;math at the end&rpar;](http://9gag.com/gag/aGyY3DZ)
+ - 👉 [Alex Baldwin smacked Palestine out of this annoying b\u05d5tch](http://9gag.com/gag/a5QdpjL)<!-- MEMES:END -->
 
 ---
 

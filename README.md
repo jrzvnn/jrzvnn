@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And Then?](http://9gag.com/gag/a87LP3Z)
- - 😝 [Losing Virginity Nowadays](http://9gag.com/gag/azxgNBj)
- - 💣 [Millionaire stops cosplaying as poor person when he realizes it&#39;s super hard to exist with health issues and no insurance or money](http://9gag.com/gag/axydxKM)
- - 😝 [1984 &gt; 2024](http://9gag.com/gag/ayN7gGy)
- - 👉 [Easy with that avocado bread](http://9gag.com/gag/apREybE)<!-- MEMES:END -->
+ - 😝 [Sudden unintentional change](http://9gag.com/gag/aE0wvRK)
+ - 😝 [Community Strikes Back](http://9gag.com/gag/aZZPqd9)
+ - 💣 [Making OF content in the gym.](http://9gag.com/gag/aLnRqXv)
+ - 😝 [Let me out!!!!](http://9gag.com/gag/a1mAvY8)
+ - 👉 [I think they all should be taxed](http://9gag.com/gag/azxb7Nj)<!-- MEMES:END -->
 
 ---
 

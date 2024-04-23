@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Losing Virginity Nowadays](http://9gag.com/gag/azxgNBj)
- - 😝 [There a two and it is fine. No nope there is not a another one.](http://9gag.com/gag/aE0vrW9)
- - 💣 [Only boomers know this](http://9gag.com/gag/aAyR8j0)
- - 😝 [Elephant memory](http://9gag.com/gag/a0e9v8q)
- - 👉 [Any Joe Rogan fans here?](http://9gag.com/gag/aZZbeV9)<!-- MEMES:END -->
+ - 😝 [Give this person a medal.](http://9gag.com/gag/a4PKv76)
+ - 😝 [1984 &gt; 2024](http://9gag.com/gag/ayN7gGy)
+ - 💣 [I don&#39;t speak French... but](http://9gag.com/gag/aLnK6wM)
+ - 😝 [ThisIsHardwareSideProblem](http://9gag.com/gag/a87LZMQ)
+ - 👉 [How was your day at work?](http://9gag.com/gag/aoyzmjm)<!-- MEMES:END -->
 
 ---
 

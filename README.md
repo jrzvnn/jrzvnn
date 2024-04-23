@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She calls me sayang and she is always happy](http://9gag.com/gag/a7o5LBm)
- - 😝 [Elephant memory](http://9gag.com/gag/a0e9v8q)
- - 💣 [500 tons press verses uranium ball](http://9gag.com/gag/aVvzNxM)
- - 😝 [1984 &gt; 2024](http://9gag.com/gag/ayN7gGy)
+ - 😝 [For old times sake\u2026 Men of culture\u2026 enjoy!](http://9gag.com/gag/aE0wvzx)
+ - 😝 [Columbia University began revoking the passes of Jewish professors. The first to come under attack was Israeli professor Shai Davidai, who was banned from campus.](http://9gag.com/gag/an7qAGb)
+ - 💣 [No way, the DJ did that!!](http://9gag.com/gag/azxg69j)
+ - 😝 [How was your day at work?](http://9gag.com/gag/aoyzmjm)
  - 👉 [Now we have questions](http://9gag.com/gag/a9ydj0D)<!-- MEMES:END -->
 
 ---

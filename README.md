@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [More evidence surfaces that Beats Solo 4 are coming soon](https://appleinsider.com/articles/24/04/23/more-evidence-surfaces-that-beats-solo-4-are-coming-soon?utm_medium=rss)
- - [Taylor Swift&#39;s new album smashed streaming records; Spotify says it had 300M+ streams on launch day and became 2024&#39;s most-streamed album within just 12 hours &lpar;Chris Morris/Fortune&rpar;](http://www.techmeme.com/240423/p25#a240423p25)
- - [Deals: save up to $450 on Microsoft 365, Office, Adobe Creative Cloud &amp; more](https://appleinsider.com/articles/24/04/23/deals-save-up-to-450-on-microsoft-365-office-adobe-creative-cloud-more?utm_medium=rss)
- - [This could finally be the year the iPad gets a built-in calculator app](https://www.theverge.com/2024/4/23/24138334/ipad-calculator-app-apple-launch)
- - [4 Best Gaming Laptops &lpar;2024&rpar;: From Cheap to Premium](https://www.wired.com/gallery/best-gaming-laptops/)<!-- TECH:END -->
+ - [How 14 tribes plan to use the Biden administration’s solar grants](https://www.theverge.com/2024/4/23/24137548/mha-nation-tribes-solar-grant-biden-administration)
+ - [Microsoft took down its WizardLM 2 LLM after it reportedly missed &quot;toxicity testing&quot;, but people already downloaded and re-uploaded it to GitHub, Hugging Face &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/240423/p26#a240423p26)
+ - [Luminar starts shipping lidar for Volvo EX90 — while readying its next-gen sensor](https://www.theverge.com/2024/4/23/24138224/volvo-ex90-production-start-luminar-lidar-halo-sensor)
+ - [Tesla reveals a new Model 3 Performance with more horsepower and faster acceleration](https://www.theverge.com/2024/4/23/24138352/tesla-model-3-performance-2024-horsepower-acceleration)
+ - [More evidence surfaces that Beats Solo 4 are coming soon](https://appleinsider.com/articles/24/04/23/more-evidence-surfaces-that-beats-solo-4-are-coming-soon?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

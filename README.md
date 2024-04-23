@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple teases new iPad Pro &amp; Air event with multiple animated logos](https://appleinsider.com/articles/24/04/23/apple-teases-ipad-art-event-with-multiple-sketch-logos?utm_medium=rss)
  - [New iPad Air &amp; iPad Pro models are coming soon - what to expect](https://appleinsider.com/articles/24/04/23/new-ipad-air-ipad-pro-models-are-coming-soon---what-to-expect?utm_medium=rss)
- - [Sources: AI search engine Perplexity is raising $250M+ at a $2.5B-$3B valuation with interest from previous backers NEA and IVP &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240423/p22#a240423p22)
- - [Here Are the Best Ways to Reheat All of Your Leftovers     - CNET](https://www.cnet.com/how-to/here-are-the-best-ways-to-reheat-all-of-your-leftovers/#ftag=CAD590a51e)
- - [You Can Now Get Unlimited Whole Foods Deliveries for $10 a Month     - CNET](https://www.cnet.com/news/you-can-now-get-unlimited-whole-foods-grocery-delivery-for-10-a-month/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple rolls out the third developer beta round for testing](https://appleinsider.com/articles/24/04/23/apple-rolls-out-the-third-developer-beta-round-for-testing?utm_medium=rss)
+ - [Meta&#39;s Ray-Ban Smart Glasses get support for video calling via WhatsApp and Messenger, Apple Music compatibility, and a new frame style &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/240423/p23#a240423p23)
+ - [Apple Silicon might get used for AI chips in server farms](https://appleinsider.com/articles/24/04/23/apple-silicon-might-get-used-for-ai-chips-in-server-farms?utm_medium=rss)
+ - [Bringing Fallout’s gritty retrofuturism into the real world](https://www.theverge.com/24137217/fallout-amazon-prime-video-production-design-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

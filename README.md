@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hodor](http://9gag.com/gag/ajPYbpp)
- - 😝 [Millionaire stops cosplaying as poor person when he realizes it&#39;s super hard to exist with health issues and no insurance or money](http://9gag.com/gag/axydxKM)
- - 💣 [Proud Parents](http://9gag.com/gag/a6ZmPe2)
- - 😝 [ThisIsHardwareSideProblem](http://9gag.com/gag/a87LZMQ)
- - 👉 [Only boomers know this](http://9gag.com/gag/aAyR8j0)<!-- MEMES:END -->
+ - 😝 [Proud Parents](http://9gag.com/gag/a6ZmPe2)
+ - 😝 [And that&#39;s how I fell in love](http://9gag.com/gag/aLnRYBz)
+ - 💣 [A Missouri Highway Patrol officer clears the road by lifting a 300kg bale of hay](http://9gag.com/gag/aE0v99N)
+ - 😝 [Imagine being a women and this is the wiew just after you leave a NYC store. Home Depot is now hiring guards, dogs to keep parking lot safe from thieves, aggressive migrants](http://9gag.com/gag/an7qp15)
+ - 👉 [Losing Virginity Nowadays](http://9gag.com/gag/azxgNBj)<!-- MEMES:END -->
 
 ---
 

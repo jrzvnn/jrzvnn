@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Internet Providers in Carmel, Indiana     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-carmel-in/#ftag=CAD590a51e)
  - [Fortnite will let players hide mean emotes](https://www.theverge.com/2024/4/22/24137748/fortnite-will-let-players-hide-mean-emotes-take-the-laugh-it-up)
  - [Nominal, which offers tools for data analysis, testing, and more to startups building advanced hardware like drones, emerges from stealth with $27.5M in funding &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/240422/p23#a240422p23)
  - [TabaPay, which offers instant payment services, agrees to acquire assets of banking-as-a-service startup Synapse, after Synapse filed for Chapter 11 bankruptcy &lpar;TechCrunch&rpar;](http://www.techmeme.com/240422/p22#a240422p22)
- - [Folding Chaise Lounge     - CNET](https://www.cnet.com/news/folding-chaise-lounge-dpnl/#ftag=CAD590a51e)
- - [Laptop Screen Extender 15.6&quot;     - CNET](https://www.cnet.com/tech/computing/laptop-screen-extender-15-6-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Folding Chaise Lounge     - CNET](https://www.cnet.com/news/folding-chaise-lounge-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

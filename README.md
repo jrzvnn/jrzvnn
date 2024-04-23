@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There a two and it is fine. No nope there is not a another one.](http://9gag.com/gag/aE0vrW9)
  - 😝 [And that&#39;s how I fell in love](http://9gag.com/gag/aLnRYBz)
- - 💣 [Proud Parents](http://9gag.com/gag/a6ZmPe2)
- - 😝 [Now we have questions](http://9gag.com/gag/a9ydj0D)
+ - 😝 [How was your day at work?](http://9gag.com/gag/aoyzmjm)
+ - 💣 [Now we have questions](http://9gag.com/gag/a9ydj0D)
+ - 😝 [Proud Parents](http://9gag.com/gag/a6ZmPe2)
  - 👉 [Any Joe Rogan fans here?](http://9gag.com/gag/aZZbeV9)<!-- MEMES:END -->
 
 ---

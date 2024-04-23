@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US Senate advances the bill forcing a sale or ban of TikTok, preparing for a final vote on the bill as soon as Tuesday evening &lpar;Sara Dorn/Forbes&rpar;](http://www.techmeme.com/240423/p31#a240423p31)
  - [Sources: IBM is nearing an acquisition of HashiCorp, which helps companies manage cloud infrastructure, in the coming days; HashiCorp&#39;s stock jumps 22%+ &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240423/p30#a240423p30)
  - [Wattpad has a community problem, so it’s killing DMs](https://www.theverge.com/2024/4/23/24138411/wattpad-removing-direct-messaging-dm-feature-grooming)
  - [Apptopia: Threads is now consistently surpassing X in US DAUs, up to ~28M in April, after it first began eclipsing X in Dec. 2023, but X still has more US MAUs &lpar;Kali Hays/Business Insider&rpar;](http://www.techmeme.com/240423/p29#a240423p29)
- - [The 35 Best Shows on Hulu Right Now](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
- - [Interviews with 20+ current and former TSMC staff at its Arizona plant finds struggles over bridging Taiwanese and US norms, rigid hierarchies, and other issues &lpar;Viola Zhou/Rest of World&rpar;](http://www.techmeme.com/240423/p28#a240423p28)<!-- TECH:END -->
+ - [The 35 Best Shows on Hulu Right Now](https://www.wired.com/story/best-tv-shows-hulu-this-week/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

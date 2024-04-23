@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone sales in China fell 19.1% YoY to a 15.7% share in Q1 2024; Vivo fell 0.4% YoY to 17.4%, Honor rose 11.5% YoY to 16.1%, and Huawei rose 69.7% YoY to 15.5% &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/240423/p11#a240423p11)
+ - [iPhone isn&#39;t secure enough for the South Korea military - but Android is](https://appleinsider.com/articles/24/04/23/iphone-isnt-secure-enough-for-the-south-korea-military---but-android-is?utm_medium=rss)
  - [Apple&#39;s iPhone skid in China continues, with another big hit to start 2024](https://appleinsider.com/articles/24/04/23/apples-iphone-skid-in-china-continues-with-another-big-hit-to-start-2024?utm_medium=rss)
  - [Spotify reports Q1 revenue up 20% YoY to &amp;euro;3.6B, MAUs up 19% YoY to 615M, below 617.9M est., subscribers up 14% YoY to 239M, and a &amp;euro;168M operating income &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/240423/p10#a240423p10)
- - [Adobe adds AI tools to Photoshop powered by its new Firefly Image 3 model, including Reference Image to inspire the AI&#39;s output, available in beta on desktop &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240423/p9#a240423p9)
- - [Apple&#39;s FineWoven cases rumored to get one final release](https://appleinsider.com/articles/24/04/23/apples-finewoven-cases-rumored-to-get-one-final-release?utm_medium=rss)
- - [Kaiko: in the past year, Binance&#39;s bitcoin trading share outside the US fell from 81.3% to 55.3%, OKX&#39;s rose from 3% to 7.3%, and Bybit&#39;s rose from 2% to 9.3% &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/240423/p8#a240423p8)<!-- TECH:END -->
+ - [Adobe adds AI tools to Photoshop powered by its new Firefly Image 3 model, including Reference Image to inspire the AI&#39;s output, available in beta on desktop &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240423/p9#a240423p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

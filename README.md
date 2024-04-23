@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Now we have questions](http://9gag.com/gag/a9ydj0D)
+ - 😝 [There a two and it is fine. No nope there is not a another one.](http://9gag.com/gag/aE0vrW9)
  - 😝 [Elephant memory](http://9gag.com/gag/a0e9v8q)
- - 💣 [Columbia University began revoking the passes of Jewish professors. The first to come under attack was Israeli professor Shai Davidai, who was banned from campus.](http://9gag.com/gag/an7qAGb)
- - 😝 [I need a cool name! All ideas are welcome.](http://9gag.com/gag/aO8qow2)
- - 👉 [There a two and it is fine. No nope there is not a another one.](http://9gag.com/gag/aE0vrW9)<!-- MEMES:END -->
+ - 💣 [Proud Parents](http://9gag.com/gag/a6ZmPe2)
+ - 😝 [Columbia University began revoking the passes of Jewish professors. The first to come under attack was Israeli professor Shai Davidai, who was banned from campus.](http://9gag.com/gag/an7qAGb)
+ - 👉 [Idk but pictures like these rise my urge to kick someone into the face. Yes this is oil, yes this is a marathon sports event where people were supposed to run through](http://9gag.com/gag/aW4QKyZ)<!-- MEMES:END -->
 
 ---
 

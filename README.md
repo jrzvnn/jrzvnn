@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk is fighting Australia to host a stabbing video on X](https://www.theverge.com/2024/4/23/24138062/elon-musk-fighting-australia-stabbing-video-x-twitter-censorship)
- - [An analysis of pinyin keyboard apps from Baidu, Honor, Samsung, Tencent, and others finds vulnerabilities that can reveal keystrokes to network eavesdroppers &lpar;The Citizen Lab&rpar;](http://www.techmeme.com/240423/p14#a240423p14)
- - [Porsche Macan Electric 2024: Specs, Prices, Availability](https://www.wired.com/review/review-porsche-macan-electric-2024/)
- - [Laptop Buying Guide &lpar;2024&rpar;: How to Choose the Right PC &lpar;Step-by-Step Guide&rpar;](https://www.wired.com/story/how-to-buy-the-right-laptop-for-you/)
- - [SimpliSafe’s new outdoor monitoring service combines AI with live agents](https://www.theverge.com/2024/4/23/24137667/simplisafe-live-guard-outdoor-protection-security-camera-ai-facial-recognition)<!-- TECH:END -->
+ - [Perplexity AI, which offers an AI chatbot to summarize search results, raised ~$63M led by Daniel Gross at a $1B+ valuation, up from $520M in January 2024 &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/240423/p15#a240423p15)
+ - [Apple&#39;s next HomePod could be a desktop or TV sound bar](https://appleinsider.com/articles/24/04/23/apples-next-homepod-could-be-a-desktop-or-tv-sound-bar?utm_medium=rss)
+ - [3 Best Cold-Plunge Tubs &lpar;2024&rpar;: Luxe, Budget, and Advice](https://www.wired.com/story/best-cold-plunge-tubs/)
+ - [Fortnite Festival now supports Rock Band 4 guitar controllers](https://www.theverge.com/2024/4/23/24137577/fortnite-festival-rock-band-4-controllers)
+ - [Sonos announces redesigned app that puts everything on your homescreen](https://www.theverge.com/2024/4/23/24137502/sonos-new-app-announced)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wish me luck](http://9gag.com/gag/awy06rx)
  - 😝 [Things to never say to a woman in bed.](http://9gag.com/gag/aYQbNjN)
- - 💣 [Proud Parents](http://9gag.com/gag/a6ZmPe2)
- - 😝 [Now we have questions](http://9gag.com/gag/a9ydj0D)
- - 👉 [Any Joe Rogan fans here?](http://9gag.com/gag/aZZbeV9)<!-- MEMES:END -->
+ - 😝 [Elephant memory](http://9gag.com/gag/a0e9v8q)
+ - 💣 [Columbia University began revoking the passes of Jewish professors. The first to come under attack was Israeli professor Shai Davidai, who was banned from campus.](http://9gag.com/gag/an7qAGb)
+ - 😝 [Taylor Swift&#39;s Two Private Jets in 2023. That&#39;s more than 100 million plastic straws &lpar;math at the end&rpar;](http://9gag.com/gag/aGyY3DZ)
+ - 👉 [Now we have questions](http://9gag.com/gag/a9ydj0D)<!-- MEMES:END -->
 
 ---
 

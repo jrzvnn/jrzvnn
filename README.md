@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The FTC has banned noncompete agreements](https://www.theverge.com/2024/4/23/24138559/ftc-noncompete-agreement-ban)
  - [OpenAI announces new enterprise-grade features for API customers, including enhanced security, administrative controls, and new Assistants API capabilities &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240423/p35#a240423p35)
  - [The European Parliament adopts right-to-repair rules clarifying manufacturer obligations to provide repair services, consumer access to spare parts, and more &lpar;Jacob Ridley/PC Gamer&rpar;](http://www.techmeme.com/240423/p34#a240423p34)
  - [Framework won’t be just a laptop company anymore](https://www.theverge.com/2024/4/23/24138475/framework-laptop-product-categories-new)
- - [Tesla teases robotaxi ridehailing function in its app](https://www.theverge.com/2024/4/23/24138580/tesla-robotaxi-ride-hail-app-preview-earningsq1-2024)
- - [Samsung Galaxy S23 Deals: Save Up to $1,000 With Trade-In Offers, Carrier Deals and More     - CNET](https://www.cnet.com/deals/best-galaxy-s23-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tesla teases robotaxi ridehailing function in its app](https://www.theverge.com/2024/4/23/24138580/tesla-robotaxi-ride-hail-app-preview-earningsq1-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

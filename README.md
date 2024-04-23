@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Eifell Tower made from spagheti](http://9gag.com/gag/aMV1e0x)
- - 😝 [Making OF content in the gym.](http://9gag.com/gag/aLnRqXv)
- - 💣 [Alex Baldwin smacked Palestine out of this annoying b\u05d5tch](http://9gag.com/gag/a5QdpjL)
- - 😝 [Straight to hell](http://9gag.com/gag/azxbgxZ)
- - 👉 [A short and witty title does the trick.](http://9gag.com/gag/a2vNE3O)<!-- MEMES:END -->
+ - 😝 [How was your day at work?](http://9gag.com/gag/aoyzmjm)
+ - 😝 [1984 &gt; 2024](http://9gag.com/gag/ayN7gGy)
+ - 💣 [Now we have questions](http://9gag.com/gag/a9ydj0D)
+ - 😝 [Taylor Swift&#39;s Two Private Jets in 2023. That&#39;s more than 100 million plastic straws &lpar;math at the end&rpar;](http://9gag.com/gag/aGyY3DZ)
+ - 👉 [She calls me sayang and she is always happy](http://9gag.com/gag/a7o5LBm)<!-- MEMES:END -->
 
 ---
 

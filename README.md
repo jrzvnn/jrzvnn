@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apptopia: Threads is now consistently surpassing X in US DAUs, up to ~28M in April, after it first began eclipsing X in Dec. 2023, but X still has more US MAUs &lpar;Kali Hays/Business Insider&rpar;](http://www.techmeme.com/240423/p29#a240423p29)
  - [Interviews with 20+ current and former TSMC staff at its Arizona plant finds struggles over bridging Taiwanese and US norms, rigid hierarchies, and other issues &lpar;Viola Zhou/Rest of World&rpar;](http://www.techmeme.com/240423/p28#a240423p28)
  - [T-Mobile’s new 5G internet plan lets you take your Wi-Fi on the road](https://www.theverge.com/2024/4/23/24138307/t-mobile-5g-home-internet-plus-away)
  - [The long nightmare may be over -- iPad could finally get a Calculator app](https://appleinsider.com/articles/24/04/23/the-long-nightmare-may-be-over----ipad-could-finally-get-a-calculator-app?utm_medium=rss)
- - [What to expect at Apple’s May ‘Let Loose’ event](https://www.theverge.com/2024/4/23/24138188/apple-may-let-loose-event-oled-ipad-pro-air-pencil-magic-keyboard)
- - [The biggest AI companies agree to crack down on child abuse images](https://www.theverge.com/2024/4/23/24138356/ai-companies-csam-thorn-training-data)<!-- TECH:END -->
+ - [What to expect at Apple’s May ‘Let Loose’ event](https://www.theverge.com/2024/4/23/24138188/apple-may-let-loose-event-oled-ipad-pro-air-pencil-magic-keyboard)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

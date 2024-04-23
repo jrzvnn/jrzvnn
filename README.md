@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stay blessed](http://9gag.com/gag/aO8K693)
- - 😝 [He has his athes eyes don&#39;t you think !](http://9gag.com/gag/aRBwx9j)
- - 💣 [The story of Pedro](http://9gag.com/gag/a7oLjK2)
- - 😝 [Community Strikes Back](http://9gag.com/gag/aZZPqd9)
- - 👉 [A Black belt in laundry fighting against the stains.](http://9gag.com/gag/adB03G9)<!-- MEMES:END -->
+ - 😝 [There a two and it is fine. No nope there is not a another one.](http://9gag.com/gag/aE0vrW9)
+ - 😝 [And that&#39;s how I fell in love](http://9gag.com/gag/aLnRYBz)
+ - 💣 [Give this person a medal.](http://9gag.com/gag/a4PKv76)
+ - 😝 [Columbia University began revoking the passes of Jewish professors. The first to come under attack was Israeli professor Shai Davidai, who was banned from campus.](http://9gag.com/gag/an7qAGb)
+ - 👉 [Alex Baldwin smacked Palestine out of this annoying b\u05d5tch](http://9gag.com/gag/a5QdpjL)<!-- MEMES:END -->
 
 ---
 

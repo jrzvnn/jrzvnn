@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There a two and it is fine. No nope there is not a another one.](http://9gag.com/gag/aE0vrW9)
- - 😝 [And that&#39;s how I fell in love](http://9gag.com/gag/aLnRYBz)
- - 💣 [Give this person a medal.](http://9gag.com/gag/a4PKv76)
- - 😝 [Columbia University began revoking the passes of Jewish professors. The first to come under attack was Israeli professor Shai Davidai, who was banned from campus.](http://9gag.com/gag/an7qAGb)
- - 👉 [Alex Baldwin smacked Palestine out of this annoying b\u05d5tch](http://9gag.com/gag/a5QdpjL)<!-- MEMES:END -->
+ - 😝 [Now we have questions](http://9gag.com/gag/a9ydj0D)
+ - 😝 [Elephant memory](http://9gag.com/gag/a0e9v8q)
+ - 💣 [Columbia University began revoking the passes of Jewish professors. The first to come under attack was Israeli professor Shai Davidai, who was banned from campus.](http://9gag.com/gag/an7qAGb)
+ - 😝 [I need a cool name! All ideas are welcome.](http://9gag.com/gag/aO8qow2)
+ - 👉 [There a two and it is fine. No nope there is not a another one.](http://9gag.com/gag/aE0vrW9)<!-- MEMES:END -->
 
 ---
 

@@ -168,7 +168,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Repairable laptop maker Framework Computer raised a $17M Series A-1, after an $18M Series A in early 2022, to expand into new product categories &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240423/p21#a240423p21)
  - [Asus ROG Zephyrus G14 Review: A Gaming Laptop Perfect for Both Work and Play](https://www.wired.com/review/asus-rog-zephyrus-g14/)
- - [Samsung’s new glare-free OLED S95D TV is receiving its first cash discount](https://www.theverge.com/2024/4/23/24138203/best-buy-samsung-oled-s95d-tv-deal-sale)
+ - [Samsung’s new glare-free OLED TV is receiving its first discount](https://www.theverge.com/2024/4/23/24138203/best-buy-samsung-oled-s95d-tv-deal-sale)
  - [The Ray-Ban Meta Smart Glasses get video calling, Apple Music, and a new style](https://www.theverge.com/2024/4/23/24138228/ray-ban-meta-smart-glasses-wearables-ai-apple-music)
  - [Meta rolls out an early access multimodal AI to Ray-Ban Meta Smart Glasses, primarily to help identify objects, translate signs, and write Instagram captions &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/240423/p20#a240423p20)<!-- TECH:END -->
 

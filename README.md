@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Adobe’s new Firefly model makes it easier to use Photoshop’s AI tools](https://www.theverge.com/2024/4/23/24138011/adobe-firefly-3-ai-model-photoshop-tools-reference-image)
  - [Microsoft launches Phi-3 Mini, a 3.8B-parameter model that competes with GPT-3.5, and plans to release Phi-3 Small and Phi-3 Medium with 7B and 14B parameters &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240423/p4#a240423p4)
  - [A look at Jeff Yass&#39; Susquehanna International Group, which has a ~15% ByteDance stake worth ~$40B and has invested $3.5B+ across 350+ deals in China since 2005 &lpar;Financial Times&rpar;](http://www.techmeme.com/240423/p3#a240423p3)
  - [Microsoft launches Phi-3, its smallest AI model yet](https://www.theverge.com/2024/4/23/24137534/microsoft-phi-3-launch-small-ai-language-model)
- - [Q&amp;A with BCG CEO Christoph Schweizer, who says the consulting firm expects 20% of its 2024 revenue and 40% of its 2026 revenue to come via helping integrate AI &lpar;Financial Times&rpar;](http://www.techmeme.com/240423/p2#a240423p2)
- - [Revolut plans an ad sales push, expects to derive a &quot;proper chunk&quot; of its revenue from targeted ads, and hires an ex-TikTok executive to lead its media strategy &lpar;Akila Quinio/Financial Times&rpar;](http://www.techmeme.com/240423/p1#a240423p1)<!-- TECH:END -->
+ - [Q&amp;A with BCG CEO Christoph Schweizer, who says the consulting firm expects 20% of its 2024 revenue and 40% of its 2026 revenue to come via helping integrate AI &lpar;Financial Times&rpar;](http://www.techmeme.com/240423/p2#a240423p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

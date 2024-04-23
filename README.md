@@ -178,8 +178,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - 😝 [Elephant memory](http://9gag.com/gag/a0e9v8q)
  - 😝 [For old times sake\u2026 Men of culture\u2026 enjoy!](http://9gag.com/gag/aE0wvzx)
  - 💣 [How was your day at work?](http://9gag.com/gag/aoyzmjm)
- - 😝 [Now we have questions](http://9gag.com/gag/a9ydj0D)
- - 👉 [Twins celebrating win in Rio 2016](http://9gag.com/gag/adBN0bM)<!-- MEMES:END -->
+ - 😝 [That really hurts](http://9gag.com/gag/a0e8mjd)
+ - 👉 [Alex Baldwin smacked Palestine out of this annoying b\u05d5tch](http://9gag.com/gag/a5QdpjL)<!-- MEMES:END -->
 
 ---
 

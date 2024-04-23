@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with BCG CEO Christoph Schweizer, who says the consulting firm expects 20% of its 2024 and 40% of its 2026 revenue will come from helping firms integrate AI &lpar;Financial Times&rpar;](http://www.techmeme.com/240423/p2#a240423p2)
  - [Revolut plans ad sales push, expects to derive a &quot;proper chunk&quot; of its revenue from targeted ads, and hires a former TikTok executive to lead its media strategy &lpar;Akila Quinio/Financial Times&rpar;](http://www.techmeme.com/240423/p1#a240423p1)
  - [Best Bone-Conduction Headphones of 2024     - CNET](https://www.cnet.com/tech/mobile/best-bone-conduction-headphones/#ftag=CAD590a51e)
  - [Best Wi-Fi Wireless Speaker of 2024     - CNET](https://www.cnet.com/tech/home-entertainment/best-wi-fi-wireless-speakers/#ftag=CAD590a51e)
- - [Change Healthcare Finally Admits It Paid Ransomware Hackers—and Still Faces a Patient Data Leak](https://www.wired.com/story/change-healthcare-admits-it-paid-ransomware-hackers/)
- - [15.6&#39;&#39; Portable Monitor     - CNET](https://www.cnet.com/tech/computing/15-6-portable-monitor-2-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Change Healthcare Finally Admits It Paid Ransomware Hackers—and Still Faces a Patient Data Leak](https://www.wired.com/story/change-healthcare-admits-it-paid-ransomware-hackers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

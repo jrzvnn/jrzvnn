@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple teases new iPad Pro &amp; Air event with multiple animated logos](https://appleinsider.com/articles/24/04/23/apple-teases-ipad-art-event-with-multiple-sketch-logos?utm_medium=rss)
  - [New iPad Air &amp; iPad Pro models are coming soon - what to expect](https://appleinsider.com/articles/24/04/23/new-ipad-air-ipad-pro-models-are-coming-soon---what-to-expect?utm_medium=rss)
  - [Sources: AI search engine Perplexity is raising $250M+ at a $2.5B-$3B valuation with interest from previous backers NEA and IVP &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240423/p22#a240423p22)
- - [Repairable laptop maker Framework Computer raised a $17M Series A-1, after an $18M Series A in early 2022, to expand into new product categories &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240423/p21#a240423p21)
- - [Asus ROG Zephyrus G14 Review: A Gaming Laptop Perfect for Both Work and Play](https://www.wired.com/review/asus-rog-zephyrus-g14/)
- - [Samsung’s new glare-free OLED TV is receiving its first discount](https://www.theverge.com/2024/4/23/24138203/best-buy-samsung-oled-s95d-tv-deal-sale)<!-- TECH:END -->
+ - [Here Are the Best Ways to Reheat All of Your Leftovers     - CNET](https://www.cnet.com/how-to/here-are-the-best-ways-to-reheat-all-of-your-leftovers/#ftag=CAD590a51e)
+ - [You Can Now Get Unlimited Whole Foods Deliveries for $10 a Month     - CNET](https://www.cnet.com/news/you-can-now-get-unlimited-whole-foods-grocery-delivery-for-10-a-month/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

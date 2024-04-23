@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Taylor Swift&#39;s Two Private Jets in 2023. That&#39;s more than 100 million plastic straws &lpar;math at the end&rpar;](http://9gag.com/gag/aGyY3DZ)
- - 😝 [Columbia University began revoking the passes of Jewish professors. The first to come under attack was Israeli professor Shai Davidai, who was banned from campus.](http://9gag.com/gag/an7qAGb)
- - 💣 [How was your day at work?](http://9gag.com/gag/aoyzmjm)
- - 😝 [Now we have questions](http://9gag.com/gag/a9ydj0D)
- - 👉 [Two lifeforms merge in once-in-a-billion-years evolutionary event. Last time this happened, Earth got plants.](http://9gag.com/gag/amoXNN6)<!-- MEMES:END -->
+ - 😝 [She calls me sayang and she is always happy](http://9gag.com/gag/a7o5LBm)
+ - 😝 [Twins celebrating win in Rio 2016](http://9gag.com/gag/adBN0bM)
+ - 💣 [Now we have questions](http://9gag.com/gag/a9ydj0D)
+ - 😝 [Pro Palestinian can&#39;t answer a simple question](http://9gag.com/gag/aryvP9p)
+ - 👉 [Pretty much the dumbest thing I\u2019ve ever done , was in panic and screaming when I woke up](http://9gag.com/gag/an7qL3z)<!-- MEMES:END -->
 
 ---
 

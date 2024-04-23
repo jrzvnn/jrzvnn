@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bentley vs Citroen](http://9gag.com/gag/aPAv6Xg)
- - 😝 [Things to never say to a woman in bed.](http://9gag.com/gag/aYQbNjN)
- - 💣 [Now we have questions](http://9gag.com/gag/a9ydj0D)
- - 😝 [Idk but pictures like these rise my urge to kick someone into the face. Yes this is oil, yes this is a marathon sports event where people were supposed to run through](http://9gag.com/gag/aW4QKyZ)
- - 👉 [1984 &gt; 2024](http://9gag.com/gag/ayN7gGy)<!-- MEMES:END -->
+ - 😝 [I think they all should be taxed](http://9gag.com/gag/azxb7Nj)
+ - 😝 [Eifell Tower made from spagheti](http://9gag.com/gag/aMV1e0x)
+ - 💣 [In a perfect world](http://9gag.com/gag/a9ydbPj)
+ - 😝 [Alex Baldwin smacked Palestine out of this annoying b\u05d5tch](http://9gag.com/gag/a5QdpjL)
+ - 👉 [Bentley vs Citroen](http://9gag.com/gag/aPAv6Xg)<!-- MEMES:END -->
 
 ---
 

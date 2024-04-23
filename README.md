@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I think they all should be taxed](http://9gag.com/gag/azxb7Nj)
  - 😝 [Eifell Tower made from spagheti](http://9gag.com/gag/aMV1e0x)
- - 💣 [In a perfect world](http://9gag.com/gag/a9ydbPj)
+ - 😝 [Making OF content in the gym.](http://9gag.com/gag/aLnRqXv)
+ - 💣 [Straight to hell](http://9gag.com/gag/azxbgxZ)
  - 😝 [Alex Baldwin smacked Palestine out of this annoying b\u05d5tch](http://9gag.com/gag/a5QdpjL)
- - 👉 [Bentley vs Citroen](http://9gag.com/gag/aPAv6Xg)<!-- MEMES:END -->
+ - 👉 [A short and witty title does the trick.](http://9gag.com/gag/a2vNE3O)<!-- MEMES:END -->
 
 ---
 

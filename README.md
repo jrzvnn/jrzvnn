@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple reportedly cuts Vision Pro production due to low demand](https://www.theverge.com/2024/4/23/24138487/apple-vision-pro-cut-shipment-forecast-kuo-rumor)
  - [Taser company Axon launches an AI tool that turns body cam audio into police reports to save time; critics worry it will introduce errors into crucial evidence &lpar;Forbes&rpar;](http://www.techmeme.com/240423/p33#a240423p33)
  - [The FTC bans noncompete clauses that restrict job switching, the first time in 50+ years that the FTC has issued a regulation mandating an economy-wide change &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240423/p32#a240423p32)
  - [Tesla’s profits sink as the company struggles with cooling demand](https://www.theverge.com/2024/4/23/24134282/tesla-earnings-q1-2024-profit-demand-elon-musk)
- - [The US Senate advances the bill forcing a sale or ban of TikTok, preparing for a final vote on the bill as soon as Tuesday evening &lpar;Sara Dorn/Forbes&rpar;](http://www.techmeme.com/240423/p31#a240423p31)
- - [Sources: IBM is nearing an acquisition of HashiCorp, which helps companies manage cloud infrastructure, in the coming days; HashiCorp&#39;s stock jumps 22%+ &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240423/p30#a240423p30)<!-- TECH:END -->
+ - [The US Senate advances the bill forcing a sale or ban of TikTok, preparing for a final vote on the bill as soon as Tuesday evening &lpar;Sara Dorn/Forbes&rpar;](http://www.techmeme.com/240423/p31#a240423p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

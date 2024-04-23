@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Losing Virginity Nowadays](http://9gag.com/gag/azxgNBj)
- - 😝 [Woman&#39;s scream killed rat.](http://9gag.com/gag/aQzPY12)
- - 💣 [Un attended !](http://9gag.com/gag/a2vzexZ)
  - 😝 [1984 &gt; 2024](http://9gag.com/gag/ayN7gGy)
- - 👉 [ThisIsHardwareSideProblem](http://9gag.com/gag/a87LZMQ)<!-- MEMES:END -->
+ - 😝 [Columbia University began revoking the passes of Jewish professors. The first to come under attack was Israeli professor Shai Davidai, who was banned from campus.](http://9gag.com/gag/an7qAGb)
+ - 💣 [Imagine being a women and this is the wiew just after you leave a NYC store. Home Depot is now hiring guards, dogs to keep parking lot safe from thieves, aggressive migrants](http://9gag.com/gag/an7qp15)
+ - 😝 [Any Joe Rogan fans here?](http://9gag.com/gag/aZZbeV9)
+ - 👉 [It ain\u2019t much.. but](http://9gag.com/gag/aE0vL9p)<!-- MEMES:END -->
 
 ---
 

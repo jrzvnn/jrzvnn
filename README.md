@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [For the third time, Google delays the deprecation of third-party cookies in Chrome, pushing back its plans to early 2025 amid regulatory scrutiny &lpar;Seb Joseph/Digiday&rpar;](http://www.techmeme.com/240423/p36#a240423p36)
+ - [Jabra’s noise-canceling Elite 5 are on sale for 40 percent off right now](https://www.theverge.com/2024/4/23/24137592/jabra-elite-5-earbuds-google-nest-smart-thermostat-deal-sale)
  - [The FTC has banned noncompete agreements](https://www.theverge.com/2024/4/23/24138559/ftc-noncompete-agreement-ban)
  - [OpenAI announces new enterprise-grade features for API customers, including enhanced security, administrative controls, and new Assistants API capabilities &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240423/p35#a240423p35)
- - [The European Parliament adopts right-to-repair rules clarifying manufacturer obligations to provide repair services, consumer access to spare parts, and more &lpar;Jacob Ridley/PC Gamer&rpar;](http://www.techmeme.com/240423/p34#a240423p34)
- - [Framework won’t be just a laptop company anymore](https://www.theverge.com/2024/4/23/24138475/framework-laptop-product-categories-new)
- - [Tesla teases robotaxi ridehailing function in its app](https://www.theverge.com/2024/4/23/24138580/tesla-robotaxi-ride-hail-app-preview-earningsq1-2024)<!-- TECH:END -->
+ - [The European Parliament adopts right-to-repair rules clarifying manufacturer obligations to provide repair services, consumer access to spare parts, and more &lpar;Jacob Ridley/PC Gamer&rpar;](http://www.techmeme.com/240423/p34#a240423p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

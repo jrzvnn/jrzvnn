@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla teases a ridehailing function in its app and says its robotaxi will be &quot;purpose-built&quot;, which typically means built from the ground up to be self-driving &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/240423/p38#a240423p38)
+ - [Tesla teases a ridehailing function in its app and says its robotaxi will be &quot;purpose-built&quot;, suggesting it will be built from the ground up to be self-driving &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/240423/p38#a240423p38)
  - [Tesla Promises ‘More Affordable Models’ and a ‘Cybercab’](https://www.wired.com/story/tesla-promises-more-affordable-vehicles-cybercab/)
  - [Larry Ellison says Oracle is moving its world headquarters from Austin to Nashville to be closer to a major healthcare epicenter &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240423/p37#a240423p37)
- - [For the third time, Google delays the deprecation of third-party cookies in Chrome, pushing back its plans to early 2025 amid regulatory scrutiny &lpar;Seb Joseph/Digiday&rpar;](http://www.techmeme.com/240423/p36#a240423p36)
- - [Jabra’s noise-canceling Elite 5 are on sale for 40 percent off right now](https://www.theverge.com/2024/4/23/24137592/jabra-elite-5-earbuds-google-nest-smart-thermostat-deal-sale)<!-- TECH:END -->
+ - [Solar Fairy Light Lantern     - CNET](https://www.cnet.com/news/solar-fairy-light-lantern-dpnl/#ftag=CAD590a51e)
+ - [HomeWorx 18oz Candles, Set of 2     - CNET](https://www.cnet.com/news/homeworx-18oz-candles-set-of-2-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

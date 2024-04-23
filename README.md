@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple teases iPad art event with multiple sketch logos](https://appleinsider.com/articles/24/04/23/apple-teases-ipad-art-event-with-multiple-sketch-logos?utm_medium=rss)
+ - [The Ray-Ban Meta Smart Glasses have multimodal AI now](https://www.theverge.com/2024/4/23/24138090/ray-ban-meta-smart-glasses-ai-wearables)
+ - [Apple teases new iPad Pro &amp; Air event with multiple animated logos](https://appleinsider.com/articles/24/04/23/apple-teases-ipad-art-event-with-multiple-sketch-logos?utm_medium=rss)
+ - [Best iPad to Buy &lpar;and Some to Avoid&rpar; in 2024](https://www.wired.com/gallery/the-best-ipad/)
  - [Razer’s Viper V3 Pro mouse puts its dongle where it belongs](https://www.theverge.com/24137829/razer-viper-v3-pro-gaming-mouse)
- - [Asia is officially the most ‘disaster-prone’ region in the world](https://www.theverge.com/2024/4/23/24138101/asia-climate-change-weather-disasters-wmo-report)
- - [Amazon launches an unlimited grocery delivery subscription](https://www.theverge.com/2024/4/23/24138099/amazon-prime-grocery-subscription-ebt)
- - [Best Air Purifiers &lpar;2024&rpar;: HEPA, Portable, and Quiet](https://www.wired.com/gallery/best-air-purifiers/)<!-- TECH:END -->
+ - [Asia is officially the most ‘disaster-prone’ region in the world](https://www.theverge.com/2024/4/23/24138101/asia-climate-change-weather-disasters-wmo-report)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

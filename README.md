@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sudden unintentional change](http://9gag.com/gag/aE0wvRK)
- - 😝 [Community Strikes Back](http://9gag.com/gag/aZZPqd9)
- - 💣 [Making OF content in the gym.](http://9gag.com/gag/aLnRqXv)
- - 😝 [Let me out!!!!](http://9gag.com/gag/a1mAvY8)
- - 👉 [I think they all should be taxed](http://9gag.com/gag/azxb7Nj)<!-- MEMES:END -->
+ - 😝 [There a two and it is fine. No nope there is not a another one.](http://9gag.com/gag/aE0vrW9)
+ - 😝 [And that&#39;s how I fell in love](http://9gag.com/gag/aLnRYBz)
+ - 💣 [Proud Parents](http://9gag.com/gag/a6ZmPe2)
+ - 😝 [Now we have questions](http://9gag.com/gag/a9ydj0D)
+ - 👉 [Any Joe Rogan fans here?](http://9gag.com/gag/aZZbeV9)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New iPad Air &amp; iPad Pro models are coming soon - what to expect](https://appleinsider.com/articles/24/04/23/new-ipad-air-ipad-pro-models-are-coming-soon---what-to-expect?utm_medium=rss)
+ - [Sources: AI search engine Perplexity is raising $250M+ at a $2.5B-$3B valuation with interest from previous backers NEA and IVP &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240423/p22#a240423p22)
  - [Repairable laptop maker Framework Computer raised a $17M Series A-1, after an $18M Series A in early 2022, to expand into new product categories &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240423/p21#a240423p21)
  - [Asus ROG Zephyrus G14 Review: A Gaming Laptop Perfect for Both Work and Play](https://www.wired.com/review/asus-rog-zephyrus-g14/)
- - [Samsung’s new glare-free OLED TV is receiving its first discount](https://www.theverge.com/2024/4/23/24138203/best-buy-samsung-oled-s95d-tv-deal-sale)
- - [The Ray-Ban Meta Smart Glasses get video calling, Apple Music, and a new style](https://www.theverge.com/2024/4/23/24138228/ray-ban-meta-smart-glasses-wearables-ai-apple-music)
- - [Meta rolls out an early access multimodal AI to Ray-Ban Meta Smart Glasses, primarily to help identify objects, translate signs, and write Instagram captions &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/240423/p20#a240423p20)<!-- TECH:END -->
+ - [Samsung’s new glare-free OLED TV is receiving its first discount](https://www.theverge.com/2024/4/23/24138203/best-buy-samsung-oled-s95d-tv-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

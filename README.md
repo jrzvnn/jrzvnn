@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple reportedly cuts Vision Pro production due to low demand](https://www.theverge.com/2024/4/23/24138487/apple-vision-pro-cut-shipment-forecast-kuo-rumor)
- - [Taser company Axon launches an AI tool that turns body cam audio into police reports to save time; critics worry it will introduce errors into crucial evidence &lpar;Forbes&rpar;](http://www.techmeme.com/240423/p33#a240423p33)
- - [The FTC bans noncompete clauses that restrict job switching, the first time in 50+ years that the FTC has issued a regulation mandating an economy-wide change &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240423/p32#a240423p32)
- - [Tesla’s profits sink as the company struggles with cooling demand](https://www.theverge.com/2024/4/23/24134282/tesla-earnings-q1-2024-profit-demand-elon-musk)
- - [The US Senate advances the bill forcing a sale or ban of TikTok, preparing for a final vote on the bill as soon as Tuesday evening &lpar;Sara Dorn/Forbes&rpar;](http://www.techmeme.com/240423/p31#a240423p31)<!-- TECH:END -->
+ - [Tesla teases robotaxi ridehailing function in its app](https://www.theverge.com/2024/4/23/24138580/tesla-robotaxi-ride-hail-app-preview-earningsq1-2024)
+ - [Samsung Galaxy S23 Deals: Save Up to $1,000 With Trade-In Offers, Carrier Deals and More     - CNET](https://www.cnet.com/deals/best-galaxy-s23-deals/#ftag=CAD590a51e)
+ - [Surprise Apple Event Hints at First New iPads in Years     - CNET](https://www.cnet.com/tech/computing/surprise-apple-event-hints-at-first-new-ipads-in-years/#ftag=CAD590a51e)
+ - [What to Expect at Apple&#39;s May 7 iPad Event video     - CNET](https://www.cnet.com/videos/what-to-expect-at-apples-may-7-ipad-event/#ftag=CAD590a51e)
+ - [Best 3D Printer Deals: Save Up to $300 on Top-Rated Models Including Elegoo, Creality3D and More     - CNET](https://www.cnet.com/deals/best-3d-printer-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

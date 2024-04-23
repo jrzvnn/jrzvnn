@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Block says it has finished the development of its own 3nm bitcoin mining chip and is working through the design with a &quot;leading global semiconductor foundry&quot; &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/240423/p40#a240423p40)
+ - [Letter: the US Department of Commerce is reviewing the national security implications of China&#39;s work in open-source RISC-V chip technology &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/240423/p39#a240423p39)
  - [A cheaper Tesla is back on the menu](https://www.theverge.com/2024/4/23/24138646/tesla-q1-2024-earnings-model-2-affordable-electric-vehicles)
  - [Tesla teases a ridehailing function in its app and says its robotaxi will be &quot;purpose-built&quot;, suggesting it will be built from the ground up to be self-driving &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/240423/p38#a240423p38)
- - [Tesla Promises ‘More Affordable Models’ and a ‘Cybercab’](https://www.wired.com/story/tesla-promises-more-affordable-vehicles-cybercab/)
- - [Larry Ellison says Oracle is moving its world headquarters from Austin to Nashville to be closer to a major healthcare epicenter &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240423/p37#a240423p37)
- - [Solar Fairy Light Lantern     - CNET](https://www.cnet.com/news/solar-fairy-light-lantern-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tesla Promises ‘More Affordable Models’ and a ‘Cybercab’](https://www.wired.com/story/tesla-promises-more-affordable-vehicles-cybercab/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

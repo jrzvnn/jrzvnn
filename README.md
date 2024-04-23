@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Elephant memory](http://9gag.com/gag/a0e9v8q)
- - 😝 [Imagine being a women and this is the wiew just after you leave a NYC store. Home Depot is now hiring guards, dogs to keep parking lot safe from thieves, aggressive migrants](http://9gag.com/gag/an7qp15)
- - 💣 [How was your day at work?](http://9gag.com/gag/aoyzmjm)
- - 😝 [Taylor Swift&#39;s Two Private Jets in 2023. That&#39;s more than 100 million plastic straws &lpar;math at the end&rpar;](http://9gag.com/gag/aGyY3DZ)
- - 👉 [Now we have questions](http://9gag.com/gag/a9ydj0D)<!-- MEMES:END -->
+ - 😝 [Bentley vs Citroen](http://9gag.com/gag/aPAv6Xg)
+ - 😝 [Things to never say to a woman in bed.](http://9gag.com/gag/aYQbNjN)
+ - 💣 [Now we have questions](http://9gag.com/gag/a9ydj0D)
+ - 😝 [Idk but pictures like these rise my urge to kick someone into the face. Yes this is oil, yes this is a marathon sports event where people were supposed to run through](http://9gag.com/gag/aW4QKyZ)
+ - 👉 [1984 &gt; 2024](http://9gag.com/gag/ayN7gGy)<!-- MEMES:END -->
 
 ---
 

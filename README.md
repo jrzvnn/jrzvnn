@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [1984 &gt; 2024](http://9gag.com/gag/ayN7gGy)
- - 😝 [And Then?](http://9gag.com/gag/a87LP3Z)
- - 💣 [Only boomers know this](http://9gag.com/gag/aAyR8j0)
+ - 😝 [Losing Virginity Nowadays](http://9gag.com/gag/azxgNBj)
  - 😝 [Woman&#39;s scream killed rat.](http://9gag.com/gag/aQzPY12)
- - 👉 [Proud Parents](http://9gag.com/gag/a6ZmPe2)<!-- MEMES:END -->
+ - 💣 [Un attended !](http://9gag.com/gag/a2vzexZ)
+ - 😝 [1984 &gt; 2024](http://9gag.com/gag/ayN7gGy)
+ - 👉 [ThisIsHardwareSideProblem](http://9gag.com/gag/a87LZMQ)<!-- MEMES:END -->
 
 ---
 

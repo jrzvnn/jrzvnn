@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Asia is officially the most ‘disaster-prone’ region in the world](https://www.theverge.com/2024/4/23/24138101/asia-climate-change-weather-disasters-wmo-report)
  - [Amazon launches an unlimited grocery delivery subscription](https://www.theverge.com/2024/4/23/24138099/amazon-prime-grocery-subscription-ebt)
  - [Best Air Purifiers &lpar;2024&rpar;: HEPA, Portable, and Quiet](https://www.wired.com/gallery/best-air-purifiers/)
  - [Apple announces a &quot;special Apple Event&quot; on May 7, where new iPads will likely be unveiled &lpar;Quentyn Kennemer/The Verge&rpar;](http://www.techmeme.com/240423/p19#a240423p19)
- - [Apple Arcade is about fun, not profit, says exec in charge](https://appleinsider.com/articles/24/04/23/apple-arcade-is-about-fun-not-profit-says-exec-in-charge?utm_medium=rss)
- - [Netflix’s Atlas is looking more and more like a buddy cop movie about working with AI](https://www.theverge.com/24137589/netflix-atlas-trailer-jennifer-lopez-simu-liu)<!-- TECH:END -->
+ - [Apple Arcade is about fun, not profit, says exec in charge](https://appleinsider.com/articles/24/04/23/apple-arcade-is-about-fun-not-profit-says-exec-in-charge?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No way, the DJ did that!!](http://9gag.com/gag/azxg69j)
- - 😝 [Nice landing](http://9gag.com/gag/aryv6n6)
- - 💣 [He has his athes eyes don&#39;t you think !](http://9gag.com/gag/aRBwx9j)
  - 😝 [Stay blessed](http://9gag.com/gag/aO8K693)
+ - 😝 [He has his athes eyes don&#39;t you think !](http://9gag.com/gag/aRBwx9j)
+ - 💣 [The story of Pedro](http://9gag.com/gag/a7oLjK2)
+ - 😝 [Community Strikes Back](http://9gag.com/gag/aZZPqd9)
  - 👉 [A Black belt in laundry fighting against the stains.](http://9gag.com/gag/adB03G9)<!-- MEMES:END -->
 
 ---

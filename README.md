@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple teases iPad art event with multiple sketch logos](https://appleinsider.com/articles/24/04/23/apple-teases-ipad-art-event-with-multiple-sketch-logos?utm_medium=rss)
+ - [Razer’s Viper V3 Pro mouse puts its dongle where it belongs](https://www.theverge.com/24137829/razer-viper-v3-pro-gaming-mouse)
  - [Asia is officially the most ‘disaster-prone’ region in the world](https://www.theverge.com/2024/4/23/24138101/asia-climate-change-weather-disasters-wmo-report)
- - [Apple Event on May 7: iPads Likely     - CNET](https://www.cnet.com/tech/computing/apple-event-on-may-7-ipads-likely/#ftag=CAD590a51e)
  - [Amazon launches an unlimited grocery delivery subscription](https://www.theverge.com/2024/4/23/24138099/amazon-prime-grocery-subscription-ebt)
- - [Best Air Purifiers &lpar;2024&rpar;: HEPA, Portable, and Quiet](https://www.wired.com/gallery/best-air-purifiers/)
- - [Apple announces a &quot;special Apple Event&quot; on May 7, where new iPads will likely be unveiled &lpar;Quentyn Kennemer/The Verge&rpar;](http://www.techmeme.com/240423/p19#a240423p19)<!-- TECH:END -->
+ - [Best Air Purifiers &lpar;2024&rpar;: HEPA, Portable, and Quiet](https://www.wired.com/gallery/best-air-purifiers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [1984 &gt; 2024](http://9gag.com/gag/ayN7gGy)
- - 😝 [Columbia University began revoking the passes of Jewish professors. The first to come under attack was Israeli professor Shai Davidai, who was banned from campus.](http://9gag.com/gag/an7qAGb)
- - 💣 [Imagine being a women and this is the wiew just after you leave a NYC store. Home Depot is now hiring guards, dogs to keep parking lot safe from thieves, aggressive migrants](http://9gag.com/gag/an7qp15)
- - 😝 [Any Joe Rogan fans here?](http://9gag.com/gag/aZZbeV9)
- - 👉 [It ain\u2019t much.. but](http://9gag.com/gag/aE0vL9p)<!-- MEMES:END -->
+ - 😝 [He has his athes eyes don&#39;t you think !](http://9gag.com/gag/aRBwx9j)
+ - 😝 [It&#39;s the 35th anniversary my dudes. I wanna see how long will it take for this post to get removed](http://9gag.com/gag/aGyYPRn)
+ - 💣 [Nice landing](http://9gag.com/gag/aryv6n6)
+ - 😝 [Is there a lot of shit? Yes! Are there also good things to enjoy? Also Yes!](http://9gag.com/gag/aMV2pP6)
+ - 👉 [They always win](http://9gag.com/gag/a4PKD0v)<!-- MEMES:END -->
 
 ---
 

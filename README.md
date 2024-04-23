@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sonos overhauls iOS controller app to simplify smart speaker streaming](https://appleinsider.com/articles/24/04/23/sonos-overhauls-ios-controller-app-to-simplify-smart-speaker-streaming?utm_medium=rss)
+ - [Apple announces a &quot;special Apple Event&quot; on May 7, where new iPads will likely be unveiled &lpar;Quentyn Kennemer/The Verge&rpar;](http://www.techmeme.com/240423/p19#a240423p19)
+ - [Apple Arcade is about fun, not profit, says exec in charge](https://appleinsider.com/articles/24/04/23/apple-arcade-is-about-fun-not-profit-says-exec-in-charge?utm_medium=rss)
+ - [Netflix’s Atlas is looking more and more like a buddy cop movie about working with AI](https://www.theverge.com/24137589/netflix-atlas-trailer-jennifer-lopez-simu-liu)
  - [New iPad Air &amp; iPad Pro models are coming on May 7](https://appleinsider.com/articles/24/04/23/new-ipad-air-ipad-pro-models-are-coming-on-may-7?utm_medium=rss)
- - [Apple announces May 7th event for new iPads](https://www.theverge.com/2024/4/23/24078670/apple-may-product-event-ipad-date)
- - [The Top New Features in MacOS Sonoma: How to Download, Compatible Macs](https://www.wired.com/story/apple-macos-sonoma-features/)
- - [Anker’s minimalistic home backup batteries are ready for blackout season](https://www.theverge.com/24136932/anker-solix-x1-home-battery-powerwall-alternative-specs)<!-- TECH:END -->
+ - [Sonos overhauls iOS controller app to simplify smart speaker streaming](https://appleinsider.com/articles/24/04/23/sonos-overhauls-ios-controller-app-to-simplify-smart-speaker-streaming?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

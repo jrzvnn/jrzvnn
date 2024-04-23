@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google fires ~20 more staff the company says participated in protests denouncing an Israeli cloud contract; an activist workers&#39; group says the total is now 50+ &lpar;Washington Post&rpar;](http://www.techmeme.com/240423/p13#a240423p13)
  - [Sources: two SEC lawyers resigned after a US federal judge sanctioned and sharply rebuked the SEC for &quot;gross abuse&quot; of power in crypto platform DEBT Box&#39;s case &lpar;Austin Weinstein/Bloomberg&rpar;](http://www.techmeme.com/240423/p12#a240423p12)
  - [A National Security Insider Does the Math on the Dangers of AI](https://www.wired.com/story/jason-matheny-national-security-insider-dangers-of-ai/)
  - [Here&#39;s How and When to Weigh Yourself for the Most Accurate Measurements     - CNET](https://www.cnet.com/health/fitness/heres-how-and-when-to-weigh-yourself-for-the-most-accurate-measurements/#ftag=CAD590a51e)
- - [iPhone sales in China fell 19.1% YoY to a 15.7% share in Q1 2024; Vivo fell 0.4% YoY to 17.4%, Honor rose 11.5% YoY to 16.1%, and Huawei rose 69.7% YoY to 15.5% &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/240423/p11#a240423p11)
- - [iPhone isn&#39;t secure enough for the South Korea military - but Android is](https://appleinsider.com/articles/24/04/23/iphone-isnt-secure-enough-for-the-south-korea-military---but-android-is?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone sales in China fell 19.1% YoY to a 15.7% share in Q1 2024; Vivo fell 0.4% YoY to 17.4%, Honor rose 11.5% YoY to 16.1%, and Huawei rose 69.7% YoY to 15.5% &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/240423/p11#a240423p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

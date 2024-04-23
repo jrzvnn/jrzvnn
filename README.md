@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s FineWoven cases rumored to get one final release](https://appleinsider.com/articles/24/04/23/apples-finewoven-cases-rumored-to-get-one-final-release?utm_medium=rss)
  - [Kaiko: in the past year, Binance&#39;s bitcoin trading share outside the US fell from 81.3% to 55.3%, OKX&#39;s rose from 3% to 7.3%, and Bybit&#39;s rose from 2% to 9.3% &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/240423/p8#a240423p8)
  - [Photoshop gets update adding more powerful AI workflows](https://appleinsider.com/articles/24/04/23/photoshop-gets-update-adding-more-powerful-ai-workflows?utm_medium=rss)
  - [Analysis: 10 Chinese entities acquired advanced Nvidia chips embedded in Supermicro, Dell, and Gigabyte products between November 20, 2023 and February 28, 2024 &lpar;Reuters&rpar;](http://www.techmeme.com/240423/p7#a240423p7)
- - [Elon Musk criticizes Australia&#39;s order to remove a video of a religious leader&#39;s stabbing, after the eSafety commissioner took X to court and the PM weighed in &lpar;Mike Cherney/Wall Street Journal&rpar;](http://www.techmeme.com/240423/p6#a240423p6)
- - [French electrical equipment maker Legrand agrees to acquire Dutch health software company Enovation from PE firm Main Capital Partners, sources say for &amp;euro;500M+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/240423/p5#a240423p5)<!-- TECH:END -->
+ - [Best Flip Phone for 2024     - CNET](https://www.cnet.com/tech/mobile/best-flip-phone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

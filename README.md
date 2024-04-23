@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There a two and it is fine. No nope there is not a another one.](http://9gag.com/gag/aE0vrW9)
- - 😝 [Elephant memory](http://9gag.com/gag/a0e9v8q)
- - 💣 [Proud Parents](http://9gag.com/gag/a6ZmPe2)
- - 😝 [Columbia University began revoking the passes of Jewish professors. The first to come under attack was Israeli professor Shai Davidai, who was banned from campus.](http://9gag.com/gag/an7qAGb)
- - 👉 [Idk but pictures like these rise my urge to kick someone into the face. Yes this is oil, yes this is a marathon sports event where people were supposed to run through](http://9gag.com/gag/aW4QKyZ)<!-- MEMES:END -->
+ - 😝 [And Then?](http://9gag.com/gag/a87LP3Z)
+ - 😝 [Losing Virginity Nowadays](http://9gag.com/gag/azxgNBj)
+ - 💣 [Millionaire stops cosplaying as poor person when he realizes it&#39;s super hard to exist with health issues and no insurance or money](http://9gag.com/gag/axydxKM)
+ - 😝 [1984 &gt; 2024](http://9gag.com/gag/ayN7gGy)
+ - 👉 [Easy with that avocado bread](http://9gag.com/gag/apREybE)<!-- MEMES:END -->
 
 ---
 

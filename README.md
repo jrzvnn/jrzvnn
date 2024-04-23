@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If she hits you with this,fertilize](http://9gag.com/gag/aGy9Kwz)
- - 😝 [Un attended !](http://9gag.com/gag/a2vzexZ)
- - 💣 [Losing Virginity Nowadays](http://9gag.com/gag/azxgNBj)
- - 😝 [Imagine being a women and this is the wiew just after you leave a NYC store. Home Depot is now hiring guards, dogs to keep parking lot safe from thieves, aggressive migrants](http://9gag.com/gag/an7qp15)
- - 👉 [Proud Parents](http://9gag.com/gag/a6ZmPe2)<!-- MEMES:END -->
+ - 😝 [Hector](http://9gag.com/gag/a1mv49D)
+ - 😝 [Stay blessed](http://9gag.com/gag/aO8K693)
+ - 💣 [A Black belt in laundry fighting against the stains.](http://9gag.com/gag/adB03G9)
+ - 😝 [No way, the DJ did that!!](http://9gag.com/gag/azxg69j)
+ - 👉 [Nice landing](http://9gag.com/gag/aryv6n6)<!-- MEMES:END -->
 
 ---
 

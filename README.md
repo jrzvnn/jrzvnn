@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How was your day at work?](http://9gag.com/gag/aoyzmjm)
- - 😝 [Give this person a medal.](http://9gag.com/gag/a4PKv76)
- - 💣 [ThisIsHardwareSideProblem](http://9gag.com/gag/a87LZMQ)
- - 😝 [Wish me luck](http://9gag.com/gag/awy06rx)
+ - 😝 [Why is this so true](http://9gag.com/gag/aPAwKXQ)
+ - 😝 [I don&#39;t speak French... but](http://9gag.com/gag/aLnK6wM)
+ - 💣 [And that&#39;s how I fell in love](http://9gag.com/gag/aLnRYBz)
+ - 😝 [Elephant memory](http://9gag.com/gag/a0e9v8q)
  - 👉 [Taylor Swift&#39;s Two Private Jets in 2023. That&#39;s more than 100 million plastic straws &lpar;math at the end&rpar;](http://9gag.com/gag/aGyY3DZ)<!-- MEMES:END -->
 
 ---

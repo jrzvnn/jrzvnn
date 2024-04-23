@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone isn&#39;t secureable enough for the South Korea military - but Android is](https://appleinsider.com/articles/24/04/23/iphone-isnt-secure-enough-for-the-south-korea-military---but-android-is?utm_medium=rss)
- - [As Congress&#39; TikTok bill moves ahead, lawmakers must show the public on what grounds the government is banning a popular and culturally significant platform &lpar;Dave Lee/Bloomberg&rpar;](http://www.techmeme.com/240423/p18#a240423p18)
- - [GoWise Steam Air Fryer Review: An OK Combo Cooker](https://www.wired.com/review/gowise-steam-air-fryer/)
- - [16 Best Fitness Trackers &lpar;2024&rpar;: Watches, Bands, and Rings](https://www.wired.com/gallery/best-fitness-tracker/)
- - [Meta, Google, OpenAI, child safety group Thorn, nonprofit All Tech Is Human, and other AI groups sign on to an initiative to add new child safety measures &lpar;Deepa Seetharaman/Wall Street Journal&rpar;](http://www.techmeme.com/240423/p17#a240423p17)<!-- TECH:END -->
+ - [Sonos overhauls iOS controller app to simplify smart speaker streaming](https://appleinsider.com/articles/24/04/23/sonos-overhauls-ios-controller-app-to-simplify-smart-speaker-streaming?utm_medium=rss)
+ - [New iPad Air &amp; iPad Pro models are coming on May 7](https://appleinsider.com/articles/24/04/23/new-ipad-air-ipad-pro-models-are-coming-on-may-7?utm_medium=rss)
+ - [Apple announces May 7th event for new iPads](https://www.theverge.com/2024/4/23/24078670/apple-may-product-event-ipad-date)
+ - [The Top New Features in MacOS Sonoma: How to Download, Compatible Macs](https://www.wired.com/story/apple-macos-sonoma-features/)
+ - [Anker’s minimalistic home backup batteries are ready for blackout season](https://www.theverge.com/24136932/anker-solix-x1-home-battery-powerwall-alternative-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

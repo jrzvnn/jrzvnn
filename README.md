@@ -175,11 +175,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A Black belt in laundry fighting against the stains.](http://9gag.com/gag/adB03G9)
- - 😝 [It must have had a hidden feature](http://9gag.com/gag/a1mv4bw)
- - 💣 [Stay blessed](http://9gag.com/gag/aO8K693)
- - 😝 [Nice landing](http://9gag.com/gag/aryv6n6)
- - 👉 [Taylor Swift&#39;s Two Private Jets in 2023. That&#39;s more than 100 million plastic straws &lpar;math at the end&rpar;](http://9gag.com/gag/aGyY3DZ)<!-- MEMES:END -->
+ - 😝 [No way, the DJ did that!!](http://9gag.com/gag/azxg69j)
+ - 😝 [1984 &gt; 2024](http://9gag.com/gag/ayN7gGy)
+ - 💣 [Proud Parents](http://9gag.com/gag/a6ZmPe2)
+ - 😝 [Only boomers know this](http://9gag.com/gag/aAyR8j0)
+ - 👉 [Woman&#39;s scream killed rat.](http://9gag.com/gag/aQzPY12)<!-- MEMES:END -->
 
 ---
 

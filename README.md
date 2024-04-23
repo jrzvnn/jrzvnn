@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta, Google, OpenAI, child safety group Thorn, nonprofit All Tech Is Human, and other AI groups sign on to an initiative to add new child safety measures &lpar;Deepa Seetharaman/Wall Street Journal&rpar;](http://www.techmeme.com/240423/p17#a240423p17)
- - [Congress takes on TikTok, privacy, and AI](https://www.theverge.com/2024/4/23/24138035/tiktok-ban-privacy-bill-ai-congress-regulation-vergecast-podcast)
- - [Sonos updates its Android and iOS apps, rebuilding them to become more reliable, and plans to discontinue its Windows and macOS apps in favor of web apps &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240423/p16#a240423p16)
- - [Perplexity AI, which offers an AI chatbot to summarize search results, raised ~$63M led by Daniel Gross at a $1B+ valuation, up from $520M in January 2024 &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/240423/p15#a240423p15)
- - [Apple&#39;s next HomePod could be a desktop or TV sound bar](https://appleinsider.com/articles/24/04/23/apples-next-homepod-could-be-a-desktop-or-tv-sound-bar?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone isn&#39;t secureable enough for the South Korea military - but Android is](https://appleinsider.com/articles/24/04/23/iphone-isnt-secure-enough-for-the-south-korea-military---but-android-is?utm_medium=rss)
+ - [As Congress&#39; TikTok bill moves ahead, lawmakers must show the public on what grounds the government is banning a popular and culturally significant platform &lpar;Dave Lee/Bloomberg&rpar;](http://www.techmeme.com/240423/p18#a240423p18)
+ - [GoWise Steam Air Fryer Review: An OK Combo Cooker](https://www.wired.com/review/gowise-steam-air-fryer/)
+ - [16 Best Fitness Trackers &lpar;2024&rpar;: Watches, Bands, and Rings](https://www.wired.com/gallery/best-fitness-tracker/)
+ - [Meta, Google, OpenAI, child safety group Thorn, nonprofit All Tech Is Human, and other AI groups sign on to an initiative to add new child safety measures &lpar;Deepa Seetharaman/Wall Street Journal&rpar;](http://www.techmeme.com/240423/p17#a240423p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

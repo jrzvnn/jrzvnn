@@ -166,11 +166,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis: 10 Chinese entities acquired advanced Nvidia chips embedded in Supermicro, Dell, and Gigabyte products between November 20, 2023 and February 28, 2024 &lpar;Reuters&rpar;](http://www.techmeme.com/240423/p7#a240423p7)
  - [Elon Musk criticizes Australia&#39;s order to remove a video of a religious leader&#39;s stabbing, after the eSafety commissioner took X to court and the PM weighed in &lpar;Mike Cherney/Wall Street Journal&rpar;](http://www.techmeme.com/240423/p6#a240423p6)
  - [French electrical equipment maker Legrand agrees to acquire Dutch health software company Enovation from PE firm Main Capital Partners, sources say for &amp;euro;500M+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/240423/p5#a240423p5)
  - [Adobe’s new Firefly model makes it easier to use Photoshop’s AI tools](https://www.theverge.com/2024/4/23/24138011/adobe-firefly-3-ai-model-photoshop-tools-reference-image)
- - [Microsoft launches Phi-3 Mini, a 3.8B-parameter model that competes with GPT-3.5, and plans to release Phi-3 Small and Phi-3 Medium with 7B and 14B parameters &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240423/p4#a240423p4)
- - [A look at Jeff Yass&#39; Susquehanna International Group, which has a ~15% ByteDance stake worth ~$40B and has invested $3.5B+ across 350+ deals in China since 2005 &lpar;Financial Times&rpar;](http://www.techmeme.com/240423/p3#a240423p3)<!-- TECH:END -->
+ - [Microsoft launches Phi-3 Mini, a 3.8B-parameter model that competes with GPT-3.5, and plans to release Phi-3 Small and Phi-3 Medium with 7B and 14B parameters &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240423/p4#a240423p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

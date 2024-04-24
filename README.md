@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That really hurts](http://9gag.com/gag/a0e8mjd)
+ - 😝 [I need a cool name! All ideas are welcome.](http://9gag.com/gag/aO8qow2)
+ - 😝 [Things to never say to a woman in bed.](http://9gag.com/gag/aYQbNjN)
+ - 💣 [Now we have questions](http://9gag.com/gag/a9ydj0D)
  - 😝 [Two lifeforms merge in once-in-a-billion-years evolutionary event. Last time this happened, Earth got plants.](http://9gag.com/gag/amoXNN6)
- - 💣 [She calls me sayang and she is always happy](http://9gag.com/gag/a7o5LBm)
- - 😝 [Hi mom](http://9gag.com/gag/aD20AVd)
- - 👉 [Alex Baldwin smacked Palestine out of this annoying b\u05d5tch](http://9gag.com/gag/a5QdpjL)<!-- MEMES:END -->
+ - 👉 [Nothing to see](http://9gag.com/gag/aYQNz4v)<!-- MEMES:END -->
 
 ---
 

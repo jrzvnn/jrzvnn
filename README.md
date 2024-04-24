@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Worldcoin subsidiary World Assets plans to sell WLD tokens to meet the demand for orb-verified World IDs and support Worldcoin network growth; WLD drops 7%+ &lpar;Brian McGleenon/The Block&rpar;](http://www.techmeme.com/240424/p37#a240424p37)
+ - [Apple’s new AI model hints at how AI could come to the iPhone](https://www.theverge.com/2024/4/24/24139266/apple-ai-model-openelm-iphone-laptops-strategy)
  - [New iPad Air &amp; iPad Pro models are coming soon - what to expect](https://appleinsider.com/articles/24/04/23/new-ipad-air-ipad-pro-models-are-coming-soon---what-to-expect?utm_medium=rss)
  - [Spotify is struggling to get Apple to approve its iOS updates in the EU](https://www.theverge.com/2024/4/24/24139335/spotify-apple-eu-ios-app-update-submission-antitrust-dma)
- - [WhatsApp rolls out passkey support on iOS, removing the need for users to deal with SMS one-time passcodes, six months after introducing the feature on Android &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240424/p36#a240424p36)
- - [How NASA Repaired Voyager 1 From 15 Billion Miles Away](https://www.wired.com/story/nasa-repair-voyager-1-spacecraft-data/)
- - [President Biden Signs Bill That Could Ban TikTok: What to Know     - CNET](https://www.cnet.com/tech/services-and-software/congress-passes-bill-that-could-ban-tiktok-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [WhatsApp rolls out passkey support on iOS, removing the need for users to deal with SMS one-time passcodes, six months after introducing the feature on Android &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240424/p36#a240424p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Paris-based FlexAI, which is developing an on-demand cloud service for AI training, emerges from stealth with a $30M in seed funding &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240424/p8#a240424p8)
+ - [Mobvoi, a Google-backed Chinese smartwatch and AI company, fell as much as 22% in the first day of trading, after raising $41M in its Hong Kong IPO &lpar;Filipe Pacheco/Bloomberg&rpar;](http://www.techmeme.com/240424/p7#a240424p7)
  - [Emails released as part of US v. Google show how Google&#39;s finance and ad teams led by Prabhakar Raghavan made Search worse to make the company more money &lpar;Edward Zitron/Ed Zitron&#39;s Where&#39;s ...&rpar;](http://www.techmeme.com/240424/p6#a240424p6)
  - [China approves US listing of self-driving startup Pony.ai, which plans to sell up to 98M shares and list on Nasdaq or NYSE, signaling an ease on the crackdown &lpar;Bloomberg&rpar;](http://www.techmeme.com/240424/p5#a240424p5)
- - [Huawei unveils Qiankun, a new business unit focused on providing self-driving systems, marking the company&#39;s latest push to become a major EV industry player &lpar;Reuters&rpar;](http://www.techmeme.com/240424/p4#a240424p4)
- - [SenseTime&#39;s stock rises 30%+ after the company unveiled the latest version of its SenseNova AI model; SenseTime&#39;s stock is down 80%+ since its 2021 HK IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/240424/p3#a240424p3)
- - [Samsung starts mass production of its 9th-generation 286-layer 3D NAND memory chips, which increases data I/O speeds by 33% compared to 8th-gen 236-layer chips &lpar;Nami Matsuura/Nikkei Asia&rpar;](http://www.techmeme.com/240424/p2#a240424p2)<!-- TECH:END -->
+ - [Huawei unveils Qiankun, a new business unit focused on providing self-driving systems, marking the company&#39;s latest push to become a major EV industry player &lpar;Reuters&rpar;](http://www.techmeme.com/240424/p4#a240424p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

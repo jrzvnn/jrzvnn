@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Spanish patriots in Madrid clear houses occupied by illegal invaders of Europe who commit crimes. More and more often citizens do `work` that should be done by State](http://9gag.com/gag/adBN6OV)
- - 😝 [Oh well](http://9gag.com/gag/aVvOONd)
- - 💣 [W Mans](http://9gag.com/gag/a9yddN6)
- - 😝 [She calls me sayang and she is always happy](http://9gag.com/gag/a7o5LBm)
- - 👉 [Straight to hell](http://9gag.com/gag/azxbgxZ)<!-- MEMES:END -->
+ - 😝 [Woman exceeds speed limit at motorway, then runs over traffic police officer at toll plaza before fleeing](http://9gag.com/gag/a0e99bQ)
+ - 😝 [#10.](http://9gag.com/gag/aAyRnAp)
+ - 💣 [Nothing to see](http://9gag.com/gag/aYQNz4v)
+ - 😝 [W Mans](http://9gag.com/gag/a9yddN6)
+ - 👉 [No way, the DJ did that!!](http://9gag.com/gag/azxg69j)<!-- MEMES:END -->
 
 ---
 

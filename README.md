@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Now we have questions](http://9gag.com/gag/a9ydj0D)
- - 😝 [Hi mom](http://9gag.com/gag/aD20AVd)
- - 💣 [Two lifeforms merge in once-in-a-billion-years evolutionary event. Last time this happened, Earth got plants.](http://9gag.com/gag/amoXNN6)
- - 😝 [Woman exceeds speed limit at motorway, then runs over traffic police officer at toll plaza before fleeing](http://9gag.com/gag/a0e99bQ)
- - 👉 [Alex Baldwin smacked Palestine out of this annoying b\u05d5tch](http://9gag.com/gag/a5QdpjL)<!-- MEMES:END -->
+ - 😝 [W Mans](http://9gag.com/gag/a9yddN6)
+ - 😝 [Pro Palestinian can&#39;t answer a simple question](http://9gag.com/gag/aryvP9p)
+ - 💣 [My Idol](http://9gag.com/gag/agmy0Gx)
+ - 😝 [Making OF content in the gym.](http://9gag.com/gag/aLnRqXv)
+ - 👉 [Nothing to see](http://9gag.com/gag/aYQNz4v)<!-- MEMES:END -->
 
 ---
 

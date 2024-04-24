@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dreaming of younger times](http://9gag.com/gag/a9yddnK)
- - 😝 [Internet advices](http://9gag.com/gag/axyNdMp)
- - 💣 [Straight to hell](http://9gag.com/gag/azxbgxZ)
- - 😝 [Bentley vs Citroen](http://9gag.com/gag/aPAv6Xg)
- - 👉 [Too realll](http://9gag.com/gag/ajPr66G)<!-- MEMES:END -->
+ - 😝 [Alex Baldwin smacked Palestine out of this annoying b\u05d5tch](http://9gag.com/gag/a5QdpjL)
+ - 😝 [A short and witty title does the trick](http://9gag.com/gag/agmy0Ag)
+ - 💣 [Ya stubby little cant](http://9gag.com/gag/axyN20K)
+ - 😝 [Ahh yes nyc](http://9gag.com/gag/a4P445m)
+ - 👉 [My Idol](http://9gag.com/gag/agmy0Gx)<!-- MEMES:END -->
 
 ---
 

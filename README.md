@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [President Biden signs the ByteDance-TikTok divest-or-ban bill into law, after the Senate passed it by 79-18; the House passed the legislation 360-58 on April 20 &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240424/p33#a240424p33)
  - [Our pick for the best fitness tracker is down to its best price of the year](https://www.theverge.com/2024/4/24/24138523/amazon-amazfit-gtr-4-anker-soundcore-sport-x10-earbuds-deal-sale)
  - [Biden signs TikTok bill into law as Chinese firm threatens legal action](https://appleinsider.com/articles/24/04/24/biden-signs-tiktok-bill-into-law-as-chinese-firm-threatens-legal-action?utm_medium=rss)
  - [Competing rumors cast doubt on mini LED iPad Air debut in May](https://appleinsider.com/articles/24/04/24/competing-rumors-cast-doubt-on-mini-led-ipad-air-debut-in-may?utm_medium=rss)
- - [Nissan’s Iruyo knows when your baby is sleeping, knows when they’re awake](https://www.theverge.com/2024/4/24/24139097/nissan-iruyo-animatronic-baby-car-toy)
- - [&#39;ArcaneDoor&#39; Cyberspies Hacked Cisco Firewalls to Access Government Networks](https://www.wired.com/story/arcanedoor-cyberspies-hacked-cisco-firewalls-to-access-government-networks/)<!-- TECH:END -->
+ - [Nissan’s Iruyo knows when your baby is sleeping, knows when they’re awake](https://www.theverge.com/2024/4/24/24139097/nissan-iruyo-animatronic-baby-car-toy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

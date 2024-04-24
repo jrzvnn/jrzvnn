@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Was this Too high of a Jump](http://9gag.com/gag/aD20047)
+ - 😝 [A short and witty title does the trick](http://9gag.com/gag/agmy0Ag)
  - 😝 [Now we have questions](http://9gag.com/gag/a9ydj0D)
- - 💣 [For old times sake\u2026 Men of culture\u2026 enjoy!](http://9gag.com/gag/aE0wvzx)
+ - 💣 [Was this Too high of a Jump](http://9gag.com/gag/aD20047)
  - 😝 [How was your day at work?](http://9gag.com/gag/aoyzmjm)
- - 👉 [This is why you only load ONE round when teaching an newbie shooter.. almost self PEPSI](http://9gag.com/gag/aLnKR4z)<!-- MEMES:END -->
+ - 👉 [Alex Baldwin smacked Palestine out of this annoying b\u05d5tch](http://9gag.com/gag/a5QdpjL)<!-- MEMES:END -->
 
 ---
 

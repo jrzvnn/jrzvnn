@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rabbit&#39;s AI Assistant Is Here. And Soon a Camera Wearable Will Be Too](https://www.wired.com/story/rabbit-r1-launch-event-nyc/)
  - [Berlin-based Parloa, which uses conversational AI to automate call center operations, raised a $66M Series B led by Altimeter, after a $21M Series A in 2023 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240424/p21#a240424p21)
  - [How to Handle Online Harassment When It Happens to You](https://www.wired.com/story/how-to-deal-with-online-harassment/)
  - [Senate Vote Leaves TikTok&#39;s Creator Economy Staring Into the Abyss](https://www.wired.com/story/senate-vote-tiktok-creator-economy-staring-into-the-abyss/)
- - [Microsoft begins rolling out ads in the Windows 11 Start menu showing app &quot;recommendations&quot; from &quot;a small set of curated developers&quot;; users can disable the ads &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240424/p20#a240424p20)
- - [How to find 3D movies to watch on Apple Vision Pro](https://appleinsider.com/inside/apple-vision-pro/tips/how-to-find-3d-movies-to-watch-on-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft begins rolling out ads in the Windows 11 Start menu showing app &quot;recommendations&quot; from &quot;a small set of curated developers&quot;; users can disable the ads &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240424/p20#a240424p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

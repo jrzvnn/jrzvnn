@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple won&#39;t have to do that much to comply with EU&#39;s new right to repair law](https://appleinsider.com/articles/24/04/24/apple-wont-have-to-do-that-much-to-comply-with-eus-new-right-to-repair-law?utm_medium=rss)
- - [Hands-on with the Meta AI chatbot: fails at basic search queries, stinks at counting, excels at editing existing paragraphs, quickly creates images, and more &lpar;Brian X. Chen/New York Times&rpar;](http://www.techmeme.com/240424/p22#a240424p22)
- - [Rabbit&#39;s AI Assistant Is Here. And Soon a Camera Wearable Will Be Too](https://www.wired.com/story/rabbit-r1-launch-event-nyc/)
- - [Berlin-based Parloa, which uses conversational AI to automate call center operations, raised a $66M Series B led by Altimeter, after a $21M Series A in 2023 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240424/p21#a240424p21)
- - [How to Handle Online Harassment When It Happens to You](https://www.wired.com/story/how-to-deal-with-online-harassment/)<!-- TECH:END -->
+ - [Apple&#39;s generative AI may be the only one that was trained legally &amp; ethically](https://appleinsider.com/articles/24/04/24/apples-generative-ai-may-be-the-only-one-that-was-trained-legally-ethically?utm_medium=rss)
+ - [Dublin-based Tines, which offers no-code automation tools for security teams, raised a $50M Series B extension, sources say at a near $600M post-money valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240424/p23#a240424p23)
+ - [Nissan&#39;s Furry, Robotic Iruyo Puppet Comforts Your Crying Baby While You Drive](https://www.wired.com/story/nissan-iruyo-furry-robotic-puppet-comforts-your-crying-baby-while-you-drive/)
+ - [Lamborghini’s popular Urus SUV grows a plug — and goes hybrid](https://www.theverge.com/2024/4/24/24134921/lamborghini-urus-se-hybrid-specs-price)
+ - [What happens after your country runs on 99 percent renewable electricity?](https://www.theverge.com/24134891/renewable-energy-electricity-power-grid-costa-rica)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

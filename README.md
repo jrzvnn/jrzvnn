@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify second iOS app update attempt in EU fails to pass App Store review](https://appleinsider.com/articles/24/04/24/spotify-second-ios-app-update-attempt-in-eu-fails-to-pass-app-store-review?utm_medium=rss)
- - [TikTok is suspending the rewards program in TikTok Lite while it tries to resolve EU concerns about the potentially addictive nature of the program for children &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240424/p40#a240424p40)
- - [US prosecutors charge two founders of the Samourai Wallet crypto mixing service, saying it facilitated more than $100M in money laundering transactions &lpar;Bob Van Voris/Bloomberg&rpar;](http://www.techmeme.com/240424/p39#a240424p39)
- - [Airlines will soon have to pay you back if they cancel or delay your flight](https://www.theverge.com/2024/4/24/24139409/department-of-transportation-airlines)
- - [WhatsApp for iOS is rolling out passwordless logins with passkeys](https://www.theverge.com/2024/4/24/24139291/whatsapp-ios-passkey-iphone-support)<!-- TECH:END -->
+ - [Spotify&#39;s second iOS app update attempt in EU fails to pass App Store review](https://appleinsider.com/articles/24/04/24/spotify-second-ios-app-update-attempt-in-eu-fails-to-pass-app-store-review?utm_medium=rss)
+ - [Meta reports Q1 revenue up 27% YoY to $36.46B, net income up 117% YoY to $12.37B, and family daily active people up 7% YoY to 3.24B for March 2024 &lpar;Meta Investor Relations&rpar;](http://www.techmeme.com/240424/p42#a240424p42)
+ - [&#39;Metaphor: ReFantazio&#39; Steals the Best Ideas From &#39;Persona 5&#39;](https://www.wired.com/story/metaphor-refantazio-steals-the-best-ideas-from-persona-5/)
+ - [Cisco details a hacking campaign that penetrated multiple governments&#39; networks using two zero-day flaws in its VPN and firewall Adaptive Security Appliances &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/240424/p41#a240424p41)
+ - [TikTok is suspending the rewards program in TikTok Lite while it tries to resolve EU concerns about the potentially addictive nature of the program for children &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240424/p40#a240424p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

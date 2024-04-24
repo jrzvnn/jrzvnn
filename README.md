@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My Idol](http://9gag.com/gag/agmy0Gx)
- - 😝 [Now we have questions](http://9gag.com/gag/a9ydj0D)
- - 💣 [My lord....](http://9gag.com/gag/ayN57BX)
- - 😝 [Ya stubby little cant](http://9gag.com/gag/axyN20K)
- - 👉 [Nothing to see](http://9gag.com/gag/aYQNz4v)<!-- MEMES:END -->
+ - 😝 [Sudden unintentional change](http://9gag.com/gag/aE0wvRK)
+ - 😝 [Dreaming of younger times](http://9gag.com/gag/a9yddnK)
+ - 💣 [Too realll](http://9gag.com/gag/ajPr66G)
+ - 😝 [Straight to hell](http://9gag.com/gag/azxbgxZ)
+ - 👉 [Internet advices](http://9gag.com/gag/axyNdMp)<!-- MEMES:END -->
 
 ---
 

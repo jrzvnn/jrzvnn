@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Losing Virginity Nowadays](http://9gag.com/gag/azxgNBj)
- - 😝 [How was your day at work?](http://9gag.com/gag/aoyzmjm)
- - 💣 [Two lifeforms merge in once-in-a-billion-years evolutionary event. Last time this happened, Earth got plants.](http://9gag.com/gag/amoXNN6)
- - 😝 [Ahh yes nyc](http://9gag.com/gag/a4P445m)
- - 👉 [Ya stubby little cant](http://9gag.com/gag/axyN20K)<!-- MEMES:END -->
+ - 😝 [Too realll](http://9gag.com/gag/ajPr66G)
+ - 😝 [Dreaming of younger times](http://9gag.com/gag/a9yddnK)
+ - 💣 [Sudden unintentional change](http://9gag.com/gag/aE0wvRK)
+ - 😝 [Ya stubby little cant](http://9gag.com/gag/axyN20K)
+ - 👉 [Straight to hell](http://9gag.com/gag/azxbgxZ)<!-- MEMES:END -->
 
 ---
 

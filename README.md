@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Elephant memory](http://9gag.com/gag/a0e9v8q)
- - 😝 [Columbia University began revoking the passes of Jewish professors. The first to come under attack was Israeli professor Shai Davidai, who was banned from campus.](http://9gag.com/gag/an7qAGb)
- - 💣 [W Mans](http://9gag.com/gag/a9yddN6)
- - 😝 [Alex Baldwin smacked Palestine out of this annoying b\u05d5tch](http://9gag.com/gag/a5QdpjL)
- - 👉 [Now we have questions](http://9gag.com/gag/a9ydj0D)<!-- MEMES:END -->
+ - 😝 [Miss the 2000&#39;s](http://9gag.com/gag/aqym9LY)
+ - 😝 [1984 &gt; 2024](http://9gag.com/gag/ayN7gGy)
+ - 💣 [Making OF content in the gym.](http://9gag.com/gag/aLnRqXv)
+ - 😝 [How was your day at work?](http://9gag.com/gag/aoyzmjm)
+ - 👉 [Two lifeforms merge in once-in-a-billion-years evolutionary event. Last time this happened, Earth got plants.](http://9gag.com/gag/amoXNN6)<!-- MEMES:END -->
 
 ---
 

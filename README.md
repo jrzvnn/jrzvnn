@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A short and witty title does the trick](http://9gag.com/gag/agmy0Ag)
- - 😝 [Now we have questions](http://9gag.com/gag/a9ydj0D)
- - 💣 [Was this Too high of a Jump](http://9gag.com/gag/aD20047)
- - 😝 [How was your day at work?](http://9gag.com/gag/aoyzmjm)
- - 👉 [Alex Baldwin smacked Palestine out of this annoying b\u05d5tch](http://9gag.com/gag/a5QdpjL)<!-- MEMES:END -->
+ - 😝 [She calls me sayang and she is always happy](http://9gag.com/gag/a7o5LBm)
+ - 😝 [Too realll](http://9gag.com/gag/ajPr66G)
+ - 💣 [`We&#39;re going down together`](http://9gag.com/gag/apRq0pn)
+ - 😝 [If you are going bald, just shave your entire head. A shaved head always looks better.](http://9gag.com/gag/a4P49Bp)
+ - 👉 [W Mans](http://9gag.com/gag/a9yddN6)<!-- MEMES:END -->
 
 ---
 

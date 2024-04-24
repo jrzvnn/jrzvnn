@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She calls me sayang and she is always happy](http://9gag.com/gag/a7o5LBm)
- - 😝 [Too realll](http://9gag.com/gag/ajPr66G)
- - 💣 [`We&#39;re going down together`](http://9gag.com/gag/apRq0pn)
- - 😝 [If you are going bald, just shave your entire head. A shaved head always looks better.](http://9gag.com/gag/a4P49Bp)
- - 👉 [W Mans](http://9gag.com/gag/a9yddN6)<!-- MEMES:END -->
+ - 😝 [Woman exceeds speed limit at motorway, then runs over traffic police officer at toll plaza before fleeing](http://9gag.com/gag/a0e99bQ)
+ - 😝 [Hi mom](http://9gag.com/gag/aD20AVd)
+ - 💣 [Alex Baldwin smacked Palestine out of this annoying b\u05d5tch](http://9gag.com/gag/a5QdpjL)
+ - 😝 [Now we have questions](http://9gag.com/gag/a9ydj0D)
+ - 👉 [How was your day at work?](http://9gag.com/gag/aoyzmjm)<!-- MEMES:END -->
 
 ---
 

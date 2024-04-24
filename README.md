@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Xaira Therapeutics, which aims to use AI models to find new drugs to treat diseases, emerged from stealth with $1B in commitments from Sequoia and others &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/240423/p42#a240423p42)
+ - [As software gets better at labeling photos, CAPTCHA designers are adopting more difficult logic-based prompts to thwart nefarious bots &lpar;Katie Deighton/Wall Street Journal&rpar;](http://www.techmeme.com/240423/p41#a240423p41)
  - [Steam will stop issuing refunds if you play two hours of a game before launch day](https://www.theverge.com/24138776/steam-refund-policy-change)
  - [This Game Boy-looking phone stand is why MagSafe is good](https://www.theverge.com/2024/4/23/24138726/elago-magsafe-ms-w5-game-boy-magsafe-charger-stand)
- - [The EU’s new right-to-repair rules make companies fix your device after a warranty expires](https://www.theverge.com/2024/4/23/24138499/eu-new-right-to-repair-rules-fix-after-warranty-expire)
- - [Dooney &amp; Bourke Mail Satchel     - CNET](https://www.cnet.com/culture/fashion/dooney-bourke-mail-satchel-dpnl/#ftag=CAD590a51e)
- - [Gas Fire Pit w/ Lava Rocks     - CNET](https://www.cnet.com/news/gas-fire-pit-w-lava-rocks-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [If You&#39;re a Gen Z Renter, Solar Power Isn&#39;t Out of Your Reach     - CNET](https://www.cnet.com/home/energy-and-utilities/are-you-a-gen-z-renter-solar-power-isnt-out-of-your-reach/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

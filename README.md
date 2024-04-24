@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A short and witty title does the trick.](http://9gag.com/gag/a2vNE3O)
- - 😝 [Let me out!!!!](http://9gag.com/gag/a1mAvY8)
- - 💣 [Alex Baldwin smacked Palestine out of this annoying b\u05d5tch](http://9gag.com/gag/a5QdpjL)
- - 😝 [Sudden unintentional change](http://9gag.com/gag/aE0wvRK)
- - 👉 [For old times sake\u2026 Men of culture\u2026 enjoy!](http://9gag.com/gag/aE0wvzx)<!-- MEMES:END -->
+ - 😝 [Elephant memory](http://9gag.com/gag/a0e9v8q)
+ - 😝 [Columbia University began revoking the passes of Jewish professors. The first to come under attack was Israeli professor Shai Davidai, who was banned from campus.](http://9gag.com/gag/an7qAGb)
+ - 💣 [W Mans](http://9gag.com/gag/a9yddN6)
+ - 😝 [Alex Baldwin smacked Palestine out of this annoying b\u05d5tch](http://9gag.com/gag/a5QdpjL)
+ - 👉 [Now we have questions](http://9gag.com/gag/a9ydj0D)<!-- MEMES:END -->
 
 ---
 

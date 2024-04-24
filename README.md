@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [W Mans](http://9gag.com/gag/a9yddN6)
- - 😝 [For old times sake\u2026 Men of culture\u2026 enjoy!](http://9gag.com/gag/aE0wvzx)
+ - 😝 [Want some milk?](http://9gag.com/gag/avy0pXZ)
  - 💣 [Let me out!!!!](http://9gag.com/gag/a1mAvY8)
- - 😝 [Sudden unintentional change](http://9gag.com/gag/aE0wvRK)
- - 👉 [Dreaming of younger times](http://9gag.com/gag/a9yddnK)<!-- MEMES:END -->
+ - 😝 [Dora the destroyer](http://9gag.com/gag/adBNNP2)
+ - 👉 [Sudden unintentional change](http://9gag.com/gag/aE0wvRK)<!-- MEMES:END -->
 
 ---
 

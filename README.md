@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: cloud data management startup Rubrik priced its IPO at $32 a share, above its expected $28-$31 range, raising $752M and valuing the company at $5.6B &lpar;CNBC&rpar;](http://www.techmeme.com/240424/p47#a240424p47)
  - [Threads wants to let you wipe your old posts away](https://www.theverge.com/2024/4/24/24139568/threads-archive-hide-posts-test)
  - [Somehow This $10,000 Flame-Thrower Robot Dog Is Completely Legal in 48 States](https://www.wired.com/story/thermonator-flame-thrower-robot-dog/)
  - [Apple bids farewell to Frank Casanova after pivotal 36-year tenure](https://appleinsider.com/articles/24/04/24/apple-bids-farewell-to-frank-casanova-after-pivotal-36-year-tenure?utm_medium=rss)
- - [Meta&#39;s stock drops 15%+ as the company issues a light Q2 revenue forecast and higher FY 2024 capital expenditures due to increased AI infrastructure investments &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240424/p46#a240424p46)
- - [The BattlerGC Pro might be the GameCube controller’s final form](https://www.theverge.com/2024/4/24/24138644/battlergc-pro-retro-fighters-gamecube-controller-nintendo-switch-clear)<!-- TECH:END -->
+ - [Meta&#39;s stock drops 15%+ as the company issues a light Q2 revenue forecast and higher FY 2024 capital expenditures due to increased AI infrastructure investments &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240424/p46#a240424p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

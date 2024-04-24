@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Biden campaign plans to continue using TikTok for at least the next year, with &quot;enhanced security measures&quot;, to help &quot;meet voters where they are&quot; &lpar;Monica Alba/NBC News&rpar;](http://www.techmeme.com/240424/p32#a240424p32)
- - [Apple&#39;s M2 Mac mini is back down to $499 at Amazon](https://appleinsider.com/articles/24/04/24/apples-m2-mac-mini-is-back-down-to-499-at-amazon?utm_medium=rss)
- - [Whether TikTok is banned or not, this is the end as we know it for the money-losing app, which may lose focus due to advertiser, creator, and staff uncertainty &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/240424/p31#a240424p31)
- - [President Biden Signs Bill That Could Ban TikTok](https://www.wired.com/story/biden-sign-tiktok-ban/)
- - [Doctors Combined a Heart Pump and Pig Kidney Transplant in Breakthrough Surgery](https://www.wired.com/story/combined-heart-pump-pig-kidney-transplant-surgery/)<!-- TECH:END -->
+ - [iPad 2024 Rumors: New iPad Pro and Air Models Arriving on May 7     - CNET](https://www.cnet.com/tech/computing/ipad-2024-rumors-new-ipad-pro-and-air-models-arriving-on-may-7/#ftag=CAD590a51e)
+ - [Crystal Palace vs. Newcastle Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/crystal-palace-vs-newcastle-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
+ - [Man United vs. Sheffield United Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/man-united-vs-sheffield-united-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
+ - [Wolves vs. Bournemouth Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/wolves-vs-bournemouth-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
+ - [The Biden campaign plans to continue using TikTok for at least the next year, with &quot;enhanced security measures&quot;, to help &quot;meet voters where they are&quot; &lpar;Monica Alba/NBC News&rpar;](http://www.techmeme.com/240424/p32#a240424p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

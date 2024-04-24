@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sudden unintentional change](http://9gag.com/gag/aE0wvRK)
- - 😝 [Dreaming of younger times](http://9gag.com/gag/a9yddnK)
- - 💣 [Too realll](http://9gag.com/gag/ajPr66G)
- - 😝 [Straight to hell](http://9gag.com/gag/azxbgxZ)
- - 👉 [Internet advices](http://9gag.com/gag/axyNdMp)<!-- MEMES:END -->
+ - 😝 [Spanish patriots in Madrid clear houses occupied by illegal invaders of Europe who commit crimes. More and more often citizens do `work` that should be done by State](http://9gag.com/gag/adBN6OV)
+ - 😝 [Oh well](http://9gag.com/gag/aVvOONd)
+ - 💣 [W Mans](http://9gag.com/gag/a9yddN6)
+ - 😝 [She calls me sayang and she is always happy](http://9gag.com/gag/a7o5LBm)
+ - 👉 [Straight to hell](http://9gag.com/gag/azxbgxZ)<!-- MEMES:END -->
 
 ---
 

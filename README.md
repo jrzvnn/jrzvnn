@@ -174,10 +174,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [W Mans](http://9gag.com/gag/a9yddN6)
+ - 😝 [A simple trick to solve hard problem](http://9gag.com/gag/aO8qK53)
  - 😝 [How was your day at work?](http://9gag.com/gag/aoyzmjm)
- - 💣 [My Idol](http://9gag.com/gag/agmy0Gx)
- - 😝 [Anyone else notice this?](http://9gag.com/gag/aqymNyM)
+ - 💣 [I need a cool name! All ideas are welcome.](http://9gag.com/gag/aO8qow2)
+ - 😝 [My Idol](http://9gag.com/gag/agmy0Gx)
  - 👉 [Was this Too high of a Jump](http://9gag.com/gag/aD20047)<!-- MEMES:END -->
 
 ---

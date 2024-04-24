@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WhatsApp for iOS is rolling out passwordless logins with passkeys](https://www.theverge.com/2024/4/24/24139291/whatsapp-ios-passkey-iphone-support)
  - [TikTok will stop paying people to watch videos every day](https://www.theverge.com/2024/4/24/24139341/tiktok-lite-reward-program-suspended-european-commission)
  - [Net neutrality is about to make a comeback](https://www.theverge.com/2024/4/24/24139307/fcc-vote-net-neutrality-rules-rosenworcel-telecom)
  - [Stripe says some of its products will be available to companies that are using other payments providers, and unveils new embedded finance features and AI tools &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240424/p38#a240424p38)
- - [Paramount Plus is trying to carve out a safe streaming space for kids](https://www.theverge.com/2024/4/24/24137152/paramount-plus-kids-mode-redesign)
- - [Worldcoin subsidiary World Assets plans to sell WLD tokens to meet the demand for orb-verified World IDs and support Worldcoin network growth; WLD drops 7%+ &lpar;Brian McGleenon/The Block&rpar;](http://www.techmeme.com/240424/p37#a240424p37)<!-- TECH:END -->
+ - [Paramount Plus is trying to carve out a safe streaming space for kids](https://www.theverge.com/2024/4/24/24137152/paramount-plus-kids-mode-redesign)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

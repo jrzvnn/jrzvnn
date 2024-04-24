@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Was this Too high of a Jump](http://9gag.com/gag/aD20047)
  - 😝 [My Idol](http://9gag.com/gag/agmy0Gx)
- - 💣 [Math?](http://9gag.com/gag/avy00Wn)
- - 😝 [A short and witty title does the trick](http://9gag.com/gag/agmy0Ag)
- - 👉 [I need a cool name! All ideas are welcome.](http://9gag.com/gag/aO8qow2)<!-- MEMES:END -->
+ - 😝 [W Mans](http://9gag.com/gag/a9yddN6)
+ - 💣 [A short and witty title does the trick](http://9gag.com/gag/agmy0Ag)
+ - 😝 [Two lifeforms merge in once-in-a-billion-years evolutionary event. Last time this happened, Earth got plants.](http://9gag.com/gag/amoXNN6)
+ - 👉 [This is why you only load ONE round when teaching an newbie shooter.. almost self PEPSI](http://9gag.com/gag/aLnKR4z)<!-- MEMES:END -->
 
 ---
 

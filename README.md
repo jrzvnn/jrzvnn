@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s the secret guys](http://9gag.com/gag/aKGzgL1)
- - 😝 [Customer identifies as a cat](http://9gag.com/gag/awyrbP4)
- - 💣 [I need a cool name! All ideas are welcome.](http://9gag.com/gag/aO8qow2)
- - 😝 [Math?](http://9gag.com/gag/avy00Wn)
- - 👉 [My lord....](http://9gag.com/gag/ayN57BX)<!-- MEMES:END -->
+ - 😝 [Was this Too high of a Jump](http://9gag.com/gag/aD20047)
+ - 😝 [Hi mom](http://9gag.com/gag/aD20AVd)
+ - 💣 [How was your day at work?](http://9gag.com/gag/aoyzmjm)
+ - 😝 [A short and witty title does the trick](http://9gag.com/gag/agmy0Ag)
+ - 👉 [W Mans](http://9gag.com/gag/a9yddN6)<!-- MEMES:END -->
 
 ---
 

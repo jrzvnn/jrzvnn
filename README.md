@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She calls me sayang and she is always happy](http://9gag.com/gag/a7o5LBm)
- - 😝 [Making OF content in the gym.](http://9gag.com/gag/aLnRqXv)
- - 💣 [How was your day at work?](http://9gag.com/gag/aoyzmjm)
- - 😝 [Nothing to see](http://9gag.com/gag/aYQNz4v)
- - 👉 [A simple trick to solve hard problem](http://9gag.com/gag/aO8qK53)<!-- MEMES:END -->
+ - 😝 [That really hurts](http://9gag.com/gag/a0e8mjd)
+ - 😝 [Two lifeforms merge in once-in-a-billion-years evolutionary event. Last time this happened, Earth got plants.](http://9gag.com/gag/amoXNN6)
+ - 💣 [She calls me sayang and she is always happy](http://9gag.com/gag/a7o5LBm)
+ - 😝 [Hi mom](http://9gag.com/gag/aD20AVd)
+ - 👉 [Alex Baldwin smacked Palestine out of this annoying b\u05d5tch](http://9gag.com/gag/a5QdpjL)<!-- MEMES:END -->
 
 ---
 

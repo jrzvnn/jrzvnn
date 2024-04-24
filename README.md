@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Threads wants to let you wipe your old posts away](https://www.theverge.com/2024/4/24/24139568/threads-archive-hide-posts-test)
  - [Somehow This $10,000 Flame-Thrower Robot Dog Is Completely Legal in 48 States](https://www.wired.com/story/thermonator-flame-thrower-robot-dog/)
  - [Apple bids farewell to Frank Casanova after pivotal 36-year tenure](https://appleinsider.com/articles/24/04/24/apple-bids-farewell-to-frank-casanova-after-pivotal-36-year-tenure?utm_medium=rss)
  - [Meta&#39;s stock drops 15%+ as the company issues a light Q2 revenue forecast and higher FY 2024 capital expenditures due to increased AI infrastructure investments &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240424/p46#a240424p46)
- - [The BattlerGC Pro might be the GameCube controller’s final form](https://www.theverge.com/2024/4/24/24138644/battlergc-pro-retro-fighters-gamecube-controller-nintendo-switch-clear)
- - [Meta&#39;s Reality Labs Q1: revenue up 30% YoY to $440M, vs. $512.5M est., a $3.85B operating loss, vs. $4.31B est.; Reality Labs lost $45B+ since the end of 2020 &lpar;Alex Koller/CNBC&rpar;](http://www.techmeme.com/240424/p45#a240424p45)<!-- TECH:END -->
+ - [The BattlerGC Pro might be the GameCube controller’s final form](https://www.theverge.com/2024/4/24/24138644/battlergc-pro-retro-fighters-gamecube-controller-nintendo-switch-clear)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

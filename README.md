@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My Idol](http://9gag.com/gag/agmy0Gx)
+ - 😝 [Losing Virginity Nowadays](http://9gag.com/gag/azxgNBj)
  - 😝 [How was your day at work?](http://9gag.com/gag/aoyzmjm)
- - 💣 [Elephant memory](http://9gag.com/gag/a0e9v8q)
- - 😝 [1984 &gt; 2024](http://9gag.com/gag/ayN7gGy)
- - 👉 [My lord....](http://9gag.com/gag/ayN57BX)<!-- MEMES:END -->
+ - 💣 [Two lifeforms merge in once-in-a-billion-years evolutionary event. Last time this happened, Earth got plants.](http://9gag.com/gag/amoXNN6)
+ - 😝 [Ahh yes nyc](http://9gag.com/gag/a4P445m)
+ - 👉 [Ya stubby little cant](http://9gag.com/gag/axyN20K)<!-- MEMES:END -->
 
 ---
 

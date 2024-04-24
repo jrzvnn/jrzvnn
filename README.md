@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Stripe says some of its products will be available to companies that are using other payments providers, and unveils new embedded finance features and AI tools &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240424/p38#a240424p38)
  - [Paramount Plus is trying to carve out a safe streaming space for kids](https://www.theverge.com/2024/4/24/24137152/paramount-plus-kids-mode-redesign)
  - [Worldcoin subsidiary World Assets plans to sell WLD tokens to meet the demand for orb-verified World IDs and support Worldcoin network growth; WLD drops 7%+ &lpar;Brian McGleenon/The Block&rpar;](http://www.techmeme.com/240424/p37#a240424p37)
  - [Apple’s new AI model hints at how AI could come to the iPhone](https://www.theverge.com/2024/4/24/24139266/apple-ai-model-openelm-iphone-laptops-strategy)
- - [New iPad Air &amp; iPad Pro models are coming soon - what to expect](https://appleinsider.com/articles/24/04/23/new-ipad-air-ipad-pro-models-are-coming-soon---what-to-expect?utm_medium=rss)
- - [Spotify is struggling to get Apple to approve its iOS updates in the EU](https://www.theverge.com/2024/4/24/24139335/spotify-apple-eu-ios-app-update-submission-antitrust-dma)<!-- TECH:END -->
+ - [Best Home Equity Line of Credit &lpar;HELOC&rpar; Rates for April 2024     - CNET](https://www.cnet.com/personal-finance/heloc-rates/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

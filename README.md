@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Huawei unveils Qiankun, a new business unit focused on providing self-driving systems, marking the company&#39;s latest push to become a major EV industry player &lpar;Reuters&rpar;](http://www.techmeme.com/240424/p4#a240424p4)
  - [SenseTime&#39;s stock rises 30%+ after the company unveiled the latest version of its SenseNova AI model; SenseTime&#39;s stock is down 80%+ since its 2021 HK IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/240424/p3#a240424p3)
  - [Samsung starts mass production of its 9th-generation 286-layer 3D NAND memory chips, which increases data I/O speeds by 33% compared to 8th-gen 236-layer chips &lpar;Nami Matsuura/Nikkei Asia&rpar;](http://www.techmeme.com/240424/p2#a240424p2)
- - [Paris-based Payflows, whose automated financial management SaaS could be deployed on top of existing ERP systems, raised a &amp;euro;25M Series A led by Balderton &lpar;Tom Matsuda/Sifted&rpar;](http://www.techmeme.com/240424/p1#a240424p1)
- - [Today&#39;s Wordle Hints and Answer: Help for April 24, #1040     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-24-1040/#ftag=CAD590a51e)
- - [The Best Electric Kettles of 2024     - CNET](https://www.cnet.com/home/kitchen-and-household/best-electric-kettle/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Starlink vs. T-Mobile Home Internet: Clash of the Broadband Disruptors     - CNET](https://www.cnet.com/home/internet/starlink-vs-t-mobile-home-internet/#ftag=CAD590a51e)
+ - [Paris-based Payflows, whose automated financial management SaaS could be deployed on top of existing ERP systems, raised a &amp;euro;25M Series A led by Balderton &lpar;Tom Matsuda/Sifted&rpar;](http://www.techmeme.com/240424/p1#a240424p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Alex Baldwin smacked Palestine out of this annoying b\u05d5tch](http://9gag.com/gag/a5QdpjL)
- - 😝 [A short and witty title does the trick](http://9gag.com/gag/agmy0Ag)
- - 💣 [Ya stubby little cant](http://9gag.com/gag/axyN20K)
- - 😝 [Ahh yes nyc](http://9gag.com/gag/a4P445m)
- - 👉 [My Idol](http://9gag.com/gag/agmy0Gx)<!-- MEMES:END -->
+ - 😝 [That really hurts](http://9gag.com/gag/a0e8mjd)
+ - 😝 [Hi mom](http://9gag.com/gag/aD20AVd)
+ - 💣 [Ahh yes nyc](http://9gag.com/gag/a4P445m)
+ - 😝 [Nothing to see](http://9gag.com/gag/aYQNz4v)
+ - 👉 [Two lifeforms merge in once-in-a-billion-years evolutionary event. Last time this happened, Earth got plants.](http://9gag.com/gag/amoXNN6)<!-- MEMES:END -->
 
 ---
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Alpha Women](http://9gag.com/gag/aNDeorG)
- - 😝 [Straight to hell](http://9gag.com/gag/azxbgxZ)
- - 💣 [Too realll](http://9gag.com/gag/ajPr66G)
- - 😝 [11/10](http://9gag.com/gag/adBN6D9)
- - 👉 [If you are going bald, just shave your entire head. A shaved head always looks better.](http://9gag.com/gag/a4P49Bp)<!-- MEMES:END -->
+ - 😝 [A short and witty title does the trick](http://9gag.com/gag/agmy0Ag)
+ - 😝 [Hi mom](http://9gag.com/gag/aD20AVd)
+ - 💣 [How was your day at work?](http://9gag.com/gag/aoyzmjm)
+ - 😝 [Two lifeforms merge in once-in-a-billion-years evolutionary event. Last time this happened, Earth got plants.](http://9gag.com/gag/amoXNN6)
+ - 👉 [Elephant memory](http://9gag.com/gag/a0e9v8q)<!-- MEMES:END -->
 
 ---
 

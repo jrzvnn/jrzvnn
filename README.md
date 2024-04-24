@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta, Google, Snap, and Amazon all benefit from the US TikTok ban; Mark Zuckerberg criticized TikTok&#39;s Chinese roots in 2019, part of Meta&#39;s broader campaign &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/240424/p29#a240424p29)
  - [Nvidia acquires AI infrastructure orchestration and management platform Run:ai, a source says for ~$700M; Run:ai, founded in 2018, raised $118M in total &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/240424/p28#a240424p28)
  - [Sources: Qualcomm is cheating on Snapdragon X Plus and Elite benchmarks given to OEMs and the press; the numbers are not achievable with the settings they claim &lpar;Charlie Demerjian/SemiAccurate&rpar;](http://www.techmeme.com/240424/p27#a240424p27)
  - [Epic vs. Apple lurches on, this time about antisteering compliance](https://appleinsider.com/articles/24/04/24/epic-vs-apple-lurches-on-this-time-about-antisteering-compliance?utm_medium=rss)
- - [How a tiny group of US lawmakers and aides wrote the TikTok ban bill, concealing their efforts to avoid TikTok&#39;s lobbying, alongside the DOJ and White House &lpar;New York Times&rpar;](http://www.techmeme.com/240424/p26#a240424p26)
- - [12 Best Wi-Fi Routers &lpar;2024&rpar;: Budget, Gaming, Mesh](https://www.wired.com/gallery/best-wifi-routers/)<!-- TECH:END -->
+ - [How a tiny group of US lawmakers and aides wrote the TikTok ban bill, concealing their efforts to avoid TikTok&#39;s lobbying, alongside the DOJ and White House &lpar;New York Times&rpar;](http://www.techmeme.com/240424/p26#a240424p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

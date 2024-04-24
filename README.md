@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Windows 11 Start menu ads are now rolling out to everyone](https://www.theverge.com/2024/4/24/24138949/microsoft-windows-11-start-menu-ads-recommendations-setting-disable)
  - [The US OFAC sanctions four Iranian nationals over cyberattacks on the US government, defense contractors, and private companies, and the DOJ unseals indictments &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240424/p14#a240424p14)
  - [An interview with Embracer Group CEO Lars Wingefors on criticism over mass layoffs and studio closures, splitting the company into three, rising debt, and more &lpar;James Batchelor/GamesIndustry.biz&rpar;](http://www.techmeme.com/240424/p13#a240424p13)
  - [How Palantir, which doesn&#39;t have a traditional salesforce, is using software boot camps to attract customers, hosting an average of about five per day in 2024 &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/240424/p12#a240424p12)
- - [A look at the restaurant reservation ecosystem in New York City, where new apps have sprung up to help diners book a table at buzzy restaurants for a price &lpar;Adam Iscoe/New Yorker&rpar;](http://www.techmeme.com/240424/p11#a240424p11)
- - [A deep dive into how Bluesky is built, including its growth from three engineers to 12 in just over two years and its infrastructure move from AWS to on-prem &lpar;The Pragmatic Engineer&rpar;](http://www.techmeme.com/240424/p10#a240424p10)<!-- TECH:END -->
+ - [A look at the restaurant reservation ecosystem in New York City, where new apps have sprung up to help diners book a table at buzzy restaurants for a price &lpar;Adam Iscoe/New Yorker&rpar;](http://www.techmeme.com/240424/p11#a240424p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

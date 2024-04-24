@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I need a cool name! All ideas are welcome.](http://9gag.com/gag/aO8qow2)
- - 😝 [Things to never say to a woman in bed.](http://9gag.com/gag/aYQbNjN)
- - 💣 [Now we have questions](http://9gag.com/gag/a9ydj0D)
- - 😝 [Two lifeforms merge in once-in-a-billion-years evolutionary event. Last time this happened, Earth got plants.](http://9gag.com/gag/amoXNN6)
- - 👉 [Nothing to see](http://9gag.com/gag/aYQNz4v)<!-- MEMES:END -->
+ - 😝 [Imagine being a women and this is the wiew just after you leave a NYC store. Home Depot is now hiring guards, dogs to keep parking lot safe from thieves, aggressive migrants](http://9gag.com/gag/an7qp15)
+ - 😝 [Making OF content in the gym.](http://9gag.com/gag/aLnRqXv)
+ - 💣 [How was your day at work?](http://9gag.com/gag/aoyzmjm)
+ - 😝 [Elephant memory](http://9gag.com/gag/a0e9v8q)
+ - 👉 [W Mans](http://9gag.com/gag/a9yddN6)<!-- MEMES:END -->
 
 ---
 

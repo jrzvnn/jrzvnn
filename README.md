@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Biden signing the TikTok divestment bill starts a 270-day countdown for a sale or a US prohibition; sources say ByteDance sees divestiture as a last resort &lpar;Alex Barinka/Bloomberg&rpar;](http://www.techmeme.com/240424/p16#a240424p16)
- - [An interview with Apple Arcade&#39;s Senior Director Alex Rofman: the service hit record highs on all &quot;critical metrics&quot; in 2023, and will feature Vision Pro games &lpar;Keith Stuart/The Guardian&rpar;](http://www.techmeme.com/240424/p15#a240424p15)
- - [Windows 11 Start menu ads are now rolling out to everyone](https://www.theverge.com/2024/4/24/24138949/microsoft-windows-11-start-menu-ads-recommendations-setting-disable)
- - [The US OFAC sanctions four Iranian nationals over cyberattacks on the US government, defense contractors, and private companies, and the DOJ unseals indictments &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240424/p14#a240424p14)
- - [An interview with Embracer Group CEO Lars Wingefors on criticism over mass layoffs and studio closures, splitting the company into three, rising debt, and more &lpar;James Batchelor/GamesIndustry.biz&rpar;](http://www.techmeme.com/240424/p13#a240424p13)<!-- TECH:END -->
+ - [Biden will ban TikTok unless Chinese owner ByteDance sells it](https://appleinsider.com/articles/24/04/24/biden-will-ban-tiktok-unless-chinese-owner-bytedance-sells-it?utm_medium=rss)
+ - [SK Hynix plans to spend ~$3.86B to build a new DRAM chip facility in South Korea, starting construction this month and aiming for completion by November 2025 &lpar;Joyce Lee/Reuters&rpar;](http://www.techmeme.com/240424/p17#a240424p17)
+ - [The Showdown Over Who Gets to Build the Next DeLorean](https://www.wired.com/story/delorean-showdown/)
+ - [ShotSpotter Keeps Listening for Gunfire After Contracts Expire](https://www.wired.com/story/shotspotter-keeps-listening-contracts-expire/)
+ - [Biden signing the TikTok divestment bill starts a 270-day countdown for a sale or a US prohibition; sources say ByteDance sees divestiture as a last resort &lpar;Alex Barinka/Bloomberg&rpar;](http://www.techmeme.com/240424/p16#a240424p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

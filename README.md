@@ -165,7 +165,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Whether TikTok is banned or not, this is the end as we know it for the loss-making app, which may lose focus due to advertiser, creator, and staff uncertainty &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/240424/p31#a240424p31)
+ - [Whether TikTok is banned or not, this is the end as we know it for the money-losing app, which may lose focus due to advertiser, creator, and staff uncertainty &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/240424/p31#a240424p31)
  - [President Biden Signs Bill That Could Ban TikTok](https://www.wired.com/story/biden-sign-tiktok-ban/)
  - [Doctors Combined a Heart Pump and Pig Kidney Transplant in Breakthrough Surgery](https://www.wired.com/story/combined-heart-pump-pig-kidney-transplant-surgery/)
  - [Biden signs TikTok ‘ban’ bill into law, starting the clock for ByteDance to divest it](https://www.theverge.com/2024/4/24/24139036/biden-signs-tiktok-ban-bill-divest-foreign-aid-package)

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spotify second iOS app update attempt in EU fails to pass App Store review](https://appleinsider.com/articles/24/04/24/spotify-second-ios-app-update-attempt-in-eu-fails-to-pass-app-store-review?utm_medium=rss)
+ - [TikTok is suspending the rewards program in TikTok Lite while it tries to resolve EU concerns about the potentially addictive nature of the program for children &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240424/p40#a240424p40)
  - [US prosecutors charge two founders of the Samourai Wallet crypto mixing service, saying it facilitated more than $100M in money laundering transactions &lpar;Bob Van Voris/Bloomberg&rpar;](http://www.techmeme.com/240424/p39#a240424p39)
  - [Airlines will soon have to pay you back if they cancel or delay your flight](https://www.theverge.com/2024/4/24/24139409/department-of-transportation-airlines)
- - [WhatsApp for iOS is rolling out passwordless logins with passkeys](https://www.theverge.com/2024/4/24/24139291/whatsapp-ios-passkey-iphone-support)
- - [TikTok will stop paying people to watch videos every day](https://www.theverge.com/2024/4/24/24139341/tiktok-lite-reward-program-suspended-european-commission)
- - [Net neutrality is about to make a comeback](https://www.theverge.com/2024/4/24/24139307/fcc-vote-net-neutrality-rules-rosenworcel-telecom)<!-- TECH:END -->
+ - [WhatsApp for iOS is rolling out passwordless logins with passkeys](https://www.theverge.com/2024/4/24/24139291/whatsapp-ios-passkey-iphone-support)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

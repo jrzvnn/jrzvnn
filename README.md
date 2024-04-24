@@ -168,8 +168,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [NY-based Campus, which is building an online alternative to traditional community colleges, raised a $23M Series A extension following a $29M Series A in 2023 &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/240423/p45#a240423p45)
  - [The Mercedes G-Wagen, the ultimate off-road status symbol, goes electric](https://www.theverge.com/2024/4/23/24134951/mercedes-g-wagen-electric-eqg-price-specs-photos)
  - [Legal scholars discuss how the TikTok divestment bill could survive a First Amendment challenge and why the US will likely rely on a national security argument &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/240423/p44#a240423p44)
- - [The US Senate passes the TikTok divestment bill by a margin of 79-18; the legislation now heads to President Biden, who has committed to sign it into law &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240423/p43#a240423p43)
- - [Senate passes TikTok ban bill, sending it to President Biden’s desk](https://www.theverge.com/2024/4/23/24137638/senate-passes-tiktok-ban-bill-divest-bytedance-foreign-aid)<!-- TECH:END -->
+ - [Best Sunrise Alarm Clocks for 2024     - CNET](https://www.cnet.com/health/sleep/best-sunrise-alarm-clock/#ftag=CAD590a51e)
+ - [The US Senate passes the TikTok divestment bill by a margin of 79-18; the legislation now heads to President Biden, who has committed to sign it into law &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240423/p43#a240423p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

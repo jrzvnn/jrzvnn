@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spring iPhone sales slip to lowest activation share in years](https://appleinsider.com/articles/24/04/24/spring-iphone-sales-slip-to-lowest-activation-share-in-years?utm_medium=rss)
+ - [Apple debuts OpenELM, a family of language models with 270M, 450M, 1.1B, and 3B parameters, designed to run on-device, pre-trained and fine-tuned on public data &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/240424/p35#a240424p35)
  - [Feds charge Iranian nationals for cyberattacks against US government](https://www.theverge.com/2024/4/24/24139160/doj-iranian-nationals-cyberattack-charge)
  - [Another Crab’s Treasure is a cheery, accessible take on Dark Souls](https://www.theverge.com/24139208/another-crabs-treasure-review-xbox-switch-ps5)
- - [Reddit is updating its app to focus more on comments](https://www.theverge.com/2024/4/24/24139196/reddit-app-update-instant-comments-loading)
- - [Source: Cognition, which offers an AI coding assistant, raised $175M led by Founders Fund at a $2B valuation, a month after a Series A at a $350M valuation &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/240424/p34#a240424p34)
- - [Apple Watch Series X might get new and thinner motherboard material](https://appleinsider.com/articles/24/04/24/apple-watch-series-x-might-get-new-and-thinner-motherboard-material?utm_medium=rss)<!-- TECH:END -->
+ - [Reddit is updating its app to focus more on comments](https://www.theverge.com/2024/4/24/24139196/reddit-app-update-instant-comments-loading)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

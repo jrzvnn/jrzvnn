@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro had enough](http://9gag.com/gag/ae9N0yp)
- - 😝 [Hi mom](http://9gag.com/gag/aD20AVd)
- - 💣 [Alex Baldwin smacked Palestine out of this annoying b\u05d5tch](http://9gag.com/gag/a5QdpjL)
- - 😝 [W Mans](http://9gag.com/gag/a9yddN6)
- - 👉 [A simple trick to solve hard problem](http://9gag.com/gag/aO8qK53)<!-- MEMES:END -->
+ - 😝 [Math?](http://9gag.com/gag/avy00Wn)
+ - 😝 [If you are going bald, just shave your entire head. A shaved head always looks better.](http://9gag.com/gag/a4P49Bp)
+ - 💣 [A short and witty title does the trick](http://9gag.com/gag/agmy0Ag)
+ - 😝 [Alex Baldwin smacked Palestine out of this annoying b\u05d5tch](http://9gag.com/gag/a5QdpjL)
+ - 👉 [Was this Too high of a Jump](http://9gag.com/gag/aD20047)<!-- MEMES:END -->
 
 ---
 

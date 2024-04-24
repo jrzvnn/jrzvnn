@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nothing to see](http://9gag.com/gag/aYQNz4v)
- - 😝 [Woman exceeds speed limit at motorway, then runs over traffic police officer at toll plaza before fleeing](http://9gag.com/gag/a0e99bQ)
- - 💣 [Ahh yes nyc](http://9gag.com/gag/a4P445m)
- - 😝 [A short and witty title does the trick](http://9gag.com/gag/agmy0Ag)
- - 👉 [My lord....](http://9gag.com/gag/ayN57BX)<!-- MEMES:END -->
+ - 😝 [Dreaming of younger times](http://9gag.com/gag/a9yddnK)
+ - 😝 [Internet advices](http://9gag.com/gag/axyNdMp)
+ - 💣 [Straight to hell](http://9gag.com/gag/azxbgxZ)
+ - 😝 [Bentley vs Citroen](http://9gag.com/gag/aPAv6Xg)
+ - 👉 [Too realll](http://9gag.com/gag/ajPr66G)<!-- MEMES:END -->
 
 ---
 

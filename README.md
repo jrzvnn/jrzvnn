@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPad 2024 Rumors: New iPad Pro and Air Models Arriving on May 7     - CNET](https://www.cnet.com/tech/computing/ipad-2024-rumors-new-ipad-pro-and-air-models-arriving-on-may-7/#ftag=CAD590a51e)
- - [Crystal Palace vs. Newcastle Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/crystal-palace-vs-newcastle-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [Man United vs. Sheffield United Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/man-united-vs-sheffield-united-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [Wolves vs. Bournemouth Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/wolves-vs-bournemouth-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [The Biden campaign plans to continue using TikTok for at least the next year, with &quot;enhanced security measures&quot;, to help &quot;meet voters where they are&quot; &lpar;Monica Alba/NBC News&rpar;](http://www.techmeme.com/240424/p32#a240424p32)<!-- TECH:END -->
+ - [Biden signs TikTok bill into law as Chinese firm threatens legal action](https://appleinsider.com/articles/24/04/24/biden-signs-tiktok-bill-into-law-as-chinese-firm-threatens-legal-action?utm_medium=rss)
+ - [Competing rumors cast doubt on mini LED iPad Air debut in May](https://appleinsider.com/articles/24/04/24/competing-rumors-cast-doubt-on-mini-led-ipad-air-debut-in-may?utm_medium=rss)
+ - [Nissan’s Iruyo knows when your baby is sleeping, knows when they’re awake](https://www.theverge.com/2024/4/24/24139097/nissan-iruyo-animatronic-baby-car-toy)
+ - [&#39;ArcaneDoor&#39; Cyberspies Hacked Cisco Firewalls to Access Government Networks](https://www.wired.com/story/arcanedoor-cyberspies-hacked-cisco-firewalls-to-access-government-networks/)
+ - [Elon Musk wants to turn Tesla’s fleet into AWS for AI — would it work?](https://www.theverge.com/24139142/elon-musk-tesla-aws-distributed-compute-network-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

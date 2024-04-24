@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [App Store video game emulators: all the news on retro console ports for iOS](https://www.theverge.com/24139004/apple-app-store-retro-game-emulators-ios-console-ports-storystream)
  - [Apple&#39;s generative AI may be the only one that was trained legally &amp; ethically](https://appleinsider.com/articles/24/04/24/apples-generative-ai-may-be-the-only-one-that-was-trained-legally-ethically?utm_medium=rss)
  - [Dublin-based Tines, which offers no-code automation tools for security teams, raised a $50M Series B extension, sources say at a near $600M post-money valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240424/p23#a240424p23)
  - [Nissan&#39;s Furry, Robotic Iruyo Puppet Comforts Your Crying Baby While You Drive](https://www.wired.com/story/nissan-iruyo-furry-robotic-puppet-comforts-your-crying-baby-while-you-drive/)
- - [Lamborghini’s popular Urus SUV grows a plug — and goes hybrid](https://www.theverge.com/2024/4/24/24134921/lamborghini-urus-se-hybrid-specs-price)
- - [What happens after your country runs on 99 percent renewable electricity?](https://www.theverge.com/24134891/renewable-energy-electricity-power-grid-costa-rica)<!-- TECH:END -->
+ - [Lamborghini’s popular Urus SUV grows a plug — and goes hybrid](https://www.theverge.com/2024/4/24/24134921/lamborghini-urus-se-hybrid-specs-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

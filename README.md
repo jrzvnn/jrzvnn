@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Was this Too high of a Jump](http://9gag.com/gag/aD20047)
+ - 😝 [Bro had enough](http://9gag.com/gag/ae9N0yp)
  - 😝 [Hi mom](http://9gag.com/gag/aD20AVd)
- - 💣 [How was your day at work?](http://9gag.com/gag/aoyzmjm)
- - 😝 [A short and witty title does the trick](http://9gag.com/gag/agmy0Ag)
- - 👉 [W Mans](http://9gag.com/gag/a9yddN6)<!-- MEMES:END -->
+ - 💣 [Alex Baldwin smacked Palestine out of this annoying b\u05d5tch](http://9gag.com/gag/a5QdpjL)
+ - 😝 [W Mans](http://9gag.com/gag/a9yddN6)
+ - 👉 [A simple trick to solve hard problem](http://9gag.com/gag/aO8qK53)<!-- MEMES:END -->
 
 ---
 

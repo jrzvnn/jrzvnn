@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple won&#39;t have to do that much to comply with EU&#39;s new right to repair law](https://appleinsider.com/articles/24/04/24/apple-wont-have-to-do-that-much-to-comply-with-eus-new-right-to-repair-law?utm_medium=rss)
  - [Hands-on with the Meta AI chatbot: fails at basic search queries, stinks at counting, excels at editing existing paragraphs, quickly creates images, and more &lpar;Brian X. Chen/New York Times&rpar;](http://www.techmeme.com/240424/p22#a240424p22)
  - [Rabbit&#39;s AI Assistant Is Here. And Soon a Camera Wearable Will Be Too](https://www.wired.com/story/rabbit-r1-launch-event-nyc/)
  - [Berlin-based Parloa, which uses conversational AI to automate call center operations, raised a $66M Series B led by Altimeter, after a $21M Series A in 2023 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240424/p21#a240424p21)
- - [How to Handle Online Harassment When It Happens to You](https://www.wired.com/story/how-to-deal-with-online-harassment/)
- - [Senate Vote Leaves TikTok&#39;s Creator Economy Staring Into the Abyss](https://www.wired.com/story/senate-vote-tiktok-creator-economy-staring-into-the-abyss/)<!-- TECH:END -->
+ - [How to Handle Online Harassment When It Happens to You](https://www.wired.com/story/how-to-deal-with-online-harassment/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

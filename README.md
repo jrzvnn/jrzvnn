@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Feds charge Iranian nationals for cyberattacks against US government](https://www.theverge.com/2024/4/24/24139160/doj-iranian-nationals-cyberattack-charge)
  - [Another Crab’s Treasure is a cheery, accessible take on Dark Souls](https://www.theverge.com/24139208/another-crabs-treasure-review-xbox-switch-ps5)
  - [Reddit is updating its app to focus more on comments](https://www.theverge.com/2024/4/24/24139196/reddit-app-update-instant-comments-loading)
  - [Source: Cognition, which offers an AI coding assistant, raised $175M led by Founders Fund at a $2B valuation, a month after a Series A at a $350M valuation &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/240424/p34#a240424p34)
- - [Apple Watch Series X might get new and thinner motherboard material](https://appleinsider.com/articles/24/04/24/apple-watch-series-x-might-get-new-and-thinner-motherboard-material?utm_medium=rss)
- - [Can the First Amendment Save TikTok?](https://www.wired.com/story/tiktok-ban-first-amendment-courts-challenge/)<!-- TECH:END -->
+ - [Apple Watch Series X might get new and thinner motherboard material](https://appleinsider.com/articles/24/04/24/apple-watch-series-x-might-get-new-and-thinner-motherboard-material?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

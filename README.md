@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ya stubby little cant](http://9gag.com/gag/axyN20K)
- - 😝 [Hi mom](http://9gag.com/gag/aD20AVd)
- - 💣 [My Idol](http://9gag.com/gag/agmy0Gx)
- - 😝 [Ahh yes nyc](http://9gag.com/gag/a4P445m)
- - 👉 [A short and witty title does the trick](http://9gag.com/gag/agmy0Ag)<!-- MEMES:END -->
+ - 😝 [This is why you only load ONE round when teaching an newbie shooter.. almost self PEPSI](http://9gag.com/gag/aLnKR4z)
+ - 😝 [A short and witty title does the trick](http://9gag.com/gag/agmy0Ag)
+ - 💣 [Customer identifies as a cat](http://9gag.com/gag/awyrbP4)
+ - 😝 [Twins celebrating win in Rio 2016](http://9gag.com/gag/adBN0bM)
+ - 👉 [Hi mom](http://9gag.com/gag/aD20AVd)<!-- MEMES:END -->
 
 ---
 

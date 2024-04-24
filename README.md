@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hands-on with the Rabbit R1: a fun and funky AI device that feels pretty nice and does a solid job with basic AI questions, but the Rabbithole app is unfinished &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240424/p50#a240424p50)
+ - [Zuckerberg says it will take Meta years to make money from generative AI](https://www.theverge.com/2024/4/24/24139591/meta-q1-2024-earnings-ai-mark-zuckerberg)
  - [Nooks, whose AI tools can analyze sales calls and summarize customer interactions, raised a $22M Series A led by Lachy Groom, bringing its total funding to $27M &lpar;Ken Yeung/VentureBeat&rpar;](http://www.techmeme.com/240424/p49#a240424p49)
  - [Best Mesh Router Deals: Spend Less to Upgrade Your Wi-Fi Experience     - CNET](https://www.cnet.com/deals/best-mesh-router-deals/#ftag=CAD590a51e)
- - [AI coding assistant startup Augment emerges from stealth with a $227M Series B at a $977M post-money valuation, following a $25M Series A led by Sutter Hill &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240424/p48#a240424p48)
- - [Best Internet Providers in Roswell, Georgia     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-roswell-ga/#ftag=CAD590a51e)
- - [Source: cloud data management startup Rubrik priced its IPO at $32 a share, above its expected $28-$31 range, raising $752M and valuing the company at $5.6B &lpar;CNBC&rpar;](http://www.techmeme.com/240424/p47#a240424p47)<!-- TECH:END -->
+ - [AI coding assistant startup Augment emerges from stealth with a $227M Series B at a $977M post-money valuation, following a $25M Series A led by Sutter Hill &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240424/p48#a240424p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

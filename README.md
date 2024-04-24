@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Nothing to see](http://9gag.com/gag/aYQNz4v)
  - 😝 [Woman exceeds speed limit at motorway, then runs over traffic police officer at toll plaza before fleeing](http://9gag.com/gag/a0e99bQ)
- - 😝 [#10.](http://9gag.com/gag/aAyRnAp)
- - 💣 [Nothing to see](http://9gag.com/gag/aYQNz4v)
- - 😝 [W Mans](http://9gag.com/gag/a9yddN6)
- - 👉 [No way, the DJ did that!!](http://9gag.com/gag/azxg69j)<!-- MEMES:END -->
+ - 💣 [Ahh yes nyc](http://9gag.com/gag/a4P445m)
+ - 😝 [A short and witty title does the trick](http://9gag.com/gag/agmy0Ag)
+ - 👉 [My lord....](http://9gag.com/gag/ayN57BX)<!-- MEMES:END -->
 
 ---
 

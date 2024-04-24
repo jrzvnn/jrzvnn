@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the restaurant reservation ecosystem in New York City, where new apps have sprung up to help diners book a table at buzzy restaurants for a price &lpar;Adam Iscoe/New Yorker&rpar;](http://www.techmeme.com/240424/p11#a240424p11)
  - [A deep dive into how Bluesky is built, including its growth from three engineers to 12 in just over two years and its infrastructure move from AWS to on-prem &lpar;The Pragmatic Engineer&rpar;](http://www.techmeme.com/240424/p10#a240424p10)
  - [SSI Recipients: You&#39;re Getting 2 Payments in May. Here&#39;s Why     - CNET](https://www.cnet.com/personal-finance/ssi-recipients-youre-getting-2-payments-in-may-heres-why/#ftag=CAD590a51e)
  - [Bang &amp; Olufsen Beosystem 9000c: Price, Specs, Release Date](https://www.wired.com/story/bang-olufsen-beosound-9000-cd-changer-is-back/)
- - [Microsoft must take security seriously again by being transparent about breaches and no longer charging its subscribers extra for must-have security features &lpar;Mary Jo Foley/Directions on Microsoft&rpar;](http://www.techmeme.com/240424/p9#a240424p9)
- - [Paris-based FlexAI, which is developing an on-demand cloud service for AI training, emerges from stealth with a $30M in seed funding &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240424/p8#a240424p8)<!-- TECH:END -->
+ - [Microsoft must take security seriously again by being transparent about breaches and no longer charging its subscribers extra for must-have security features &lpar;Mary Jo Foley/Directions on Microsoft&rpar;](http://www.techmeme.com/240424/p9#a240424p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

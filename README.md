@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with Embracer Group CEO Lars Wingefors on criticism over mass layoffs and studio closures, splitting the company into three, rising debt, and more &lpar;James Batchelor/GamesIndustry.biz&rpar;](http://www.techmeme.com/240424/p13#a240424p13)
  - [How Palantir, which doesn&#39;t have a traditional salesforce, is using software boot camps to attract customers, hosting an average of about five per day in 2024 &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/240424/p12#a240424p12)
  - [A look at the restaurant reservation ecosystem in New York City, where new apps have sprung up to help diners book a table at buzzy restaurants for a price &lpar;Adam Iscoe/New Yorker&rpar;](http://www.techmeme.com/240424/p11#a240424p11)
  - [A deep dive into how Bluesky is built, including its growth from three engineers to 12 in just over two years and its infrastructure move from AWS to on-prem &lpar;The Pragmatic Engineer&rpar;](http://www.techmeme.com/240424/p10#a240424p10)
- - [SSI Recipients: You&#39;re Getting 2 Payments in May. Here&#39;s Why     - CNET](https://www.cnet.com/personal-finance/ssi-recipients-youre-getting-2-payments-in-may-heres-why/#ftag=CAD590a51e)
- - [Bang &amp; Olufsen Beosystem 9000c: Price, Specs, Release Date](https://www.wired.com/story/bang-olufsen-beosound-9000-cd-changer-is-back/)<!-- TECH:END -->
+ - [SSI Recipients: You&#39;re Getting 2 Payments in May. Here&#39;s Why     - CNET](https://www.cnet.com/personal-finance/ssi-recipients-youre-getting-2-payments-in-may-heres-why/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

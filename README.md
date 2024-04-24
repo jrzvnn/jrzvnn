@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Biden campaign plans to continue using TikTok for at least the next year, with &quot;enhanced security measures&quot;, to help &quot;meet voters where they are&quot; &lpar;Monica Alba/NBC News&rpar;](http://www.techmeme.com/240424/p32#a240424p32)
+ - [Apple&#39;s M2 Mac mini is back down to $499 at Amazon](https://appleinsider.com/articles/24/04/24/apples-m2-mac-mini-is-back-down-to-499-at-amazon?utm_medium=rss)
  - [Whether TikTok is banned or not, this is the end as we know it for the money-losing app, which may lose focus due to advertiser, creator, and staff uncertainty &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/240424/p31#a240424p31)
  - [President Biden Signs Bill That Could Ban TikTok](https://www.wired.com/story/biden-sign-tiktok-ban/)
- - [Doctors Combined a Heart Pump and Pig Kidney Transplant in Breakthrough Surgery](https://www.wired.com/story/combined-heart-pump-pig-kidney-transplant-surgery/)
- - [Biden signs TikTok ‘ban’ bill into law, starting the clock for ByteDance to divest it](https://www.theverge.com/2024/4/24/24139036/biden-signs-tiktok-ban-bill-divest-foreign-aid-package)
- - [Klarna partners with Uber to power Uber and Uber Eats payments, adding its Pay Now option in the US, Germany, and Sweden, but not installment-based payments &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240424/p30#a240424p30)<!-- TECH:END -->
+ - [Doctors Combined a Heart Pump and Pig Kidney Transplant in Breakthrough Surgery](https://www.wired.com/story/combined-heart-pump-pig-kidney-transplant-surgery/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

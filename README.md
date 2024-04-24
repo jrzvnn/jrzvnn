@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nooks, whose AI tools can analyze sales calls and summarize customer interactions, raised a $22M Series A led by Lachy Groom, bringing its total funding to $27M &lpar;Ken Yeung/VentureBeat&rpar;](http://www.techmeme.com/240424/p49#a240424p49)
+ - [Best Mesh Router Deals: Spend Less to Upgrade Your Wi-Fi Experience     - CNET](https://www.cnet.com/deals/best-mesh-router-deals/#ftag=CAD590a51e)
  - [AI coding assistant startup Augment emerges from stealth with a $227M Series B at a $977M post-money valuation, following a $25M Series A led by Sutter Hill &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240424/p48#a240424p48)
- - [Source: cloud data management startup Rubrik priced its IPO at $32 a share, above its expected $28-$31 range, raising $752M and valuing the company at $5.6B &lpar;CNBC&rpar;](http://www.techmeme.com/240424/p47#a240424p47)
- - [Threads wants to let you wipe your old posts away](https://www.theverge.com/2024/4/24/24139568/threads-archive-hide-posts-test)
- - [Keep Your Home Safe With This Schlage Encode Smart Lock Bundle, Now 80% Off     - CNET](https://www.cnet.com/deals/keep-your-home-safe-with-this-schlage-encode-smart-lock-bundle-now-80-off/#ftag=CAD590a51e)
- - [Apple May Give FineWoven Accessories 1 More Season video     - CNET](https://www.cnet.com/videos/apple-may-give-finewoven-accessories-1-more-seaon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Roswell, Georgia     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-roswell-ga/#ftag=CAD590a51e)
+ - [Source: cloud data management startup Rubrik priced its IPO at $32 a share, above its expected $28-$31 range, raising $752M and valuing the company at $5.6B &lpar;CNBC&rpar;](http://www.techmeme.com/240424/p47#a240424p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

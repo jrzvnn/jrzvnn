@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That really hurts](http://9gag.com/gag/a0e8mjd)
  - 😝 [Hi mom](http://9gag.com/gag/aD20AVd)
- - 💣 [Ahh yes nyc](http://9gag.com/gag/a4P445m)
- - 😝 [Nothing to see](http://9gag.com/gag/aYQNz4v)
- - 👉 [Two lifeforms merge in once-in-a-billion-years evolutionary event. Last time this happened, Earth got plants.](http://9gag.com/gag/amoXNN6)<!-- MEMES:END -->
+ - 😝 [That really hurts](http://9gag.com/gag/a0e8mjd)
+ - 💣 [Things to never say to a woman in bed.](http://9gag.com/gag/aYQbNjN)
+ - 😝 [Ahh yes nyc](http://9gag.com/gag/a4P445m)
+ - 👉 [Nothing to see](http://9gag.com/gag/aYQNz4v)<!-- MEMES:END -->
 
 ---
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ya stubby little cant](http://9gag.com/gag/axyN20K)
- - 😝 [Hi mom](http://9gag.com/gag/aD20AVd)
- - 💣 [Alex Baldwin smacked Palestine out of this annoying b\u05d5tch](http://9gag.com/gag/a5QdpjL)
- - 😝 [My Idol](http://9gag.com/gag/agmy0Gx)
- - 👉 [Ahh yes nyc](http://9gag.com/gag/a4P445m)<!-- MEMES:END -->
+ - 😝 [Alpha Women](http://9gag.com/gag/aNDeorG)
+ - 😝 [Straight to hell](http://9gag.com/gag/azxbgxZ)
+ - 💣 [Too realll](http://9gag.com/gag/ajPr66G)
+ - 😝 [11/10](http://9gag.com/gag/adBN6D9)
+ - 👉 [If you are going bald, just shave your entire head. A shaved head always looks better.](http://9gag.com/gag/a4P49Bp)<!-- MEMES:END -->
 
 ---
 

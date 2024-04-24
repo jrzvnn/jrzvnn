@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A deep dive into how Bluesky is built, including its growth from three engineers to 12 in just over two years and its infrastructure move from AWS to on-prem &lpar;The Pragmatic Engineer&rpar;](http://www.techmeme.com/240424/p10#a240424p10)
+ - [SSI Recipients: You&#39;re Getting 2 Payments in May. Here&#39;s Why     - CNET](https://www.cnet.com/personal-finance/ssi-recipients-youre-getting-2-payments-in-may-heres-why/#ftag=CAD590a51e)
  - [Bang &amp; Olufsen Beosystem 9000c: Price, Specs, Release Date](https://www.wired.com/story/bang-olufsen-beosound-9000-cd-changer-is-back/)
  - [Microsoft must take security seriously again by being transparent about breaches and no longer charging its subscribers extra for must-have security features &lpar;Mary Jo Foley/Directions on Microsoft&rpar;](http://www.techmeme.com/240424/p9#a240424p9)
- - [Paris-based FlexAI, which is developing an on-demand cloud service for AI training, emerges from stealth with a $30M in seed funding &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240424/p8#a240424p8)
- - [Mobvoi, a Google-backed Chinese smartwatch and AI company, fell as much as 22% in the first day of trading, after raising $41M in its Hong Kong IPO &lpar;Filipe Pacheco/Bloomberg&rpar;](http://www.techmeme.com/240424/p7#a240424p7)
- - [Emails released as part of US v. Google show how Google&#39;s finance and ad teams led by Prabhakar Raghavan made Search worse to make the company more money &lpar;Edward Zitron/Ed Zitron&#39;s Where&#39;s ...&rpar;](http://www.techmeme.com/240424/p6#a240424p6)<!-- TECH:END -->
+ - [Paris-based FlexAI, which is developing an on-demand cloud service for AI training, emerges from stealth with a $30M in seed funding &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240424/p8#a240424p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

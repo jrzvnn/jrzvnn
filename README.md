@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft begins rolling out ads in the Windows 11 Start menu showing app &quot;recommendations&quot; from &quot;a small set of curated developers&quot;; users can disable the ads &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240424/p20#a240424p20)
  - [How to find 3D movies to watch on Apple Vision Pro](https://appleinsider.com/inside/apple-vision-pro/tips/how-to-find-3d-movies-to-watch-on-apple-vision-pro?utm_medium=rss)
  - [US prosecutors argue Binance founder Changpeng Zhao should spend three years in prison and pay $50M for his role violating sanctions and money laundering laws &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/240424/p19#a240424p19)
  - [Adobe’s impressive AI upscaling project makes blurry videos look HD](https://www.theverge.com/2024/4/24/24138979/adobe-videogigagan-ai-video-upscaling-project-blurry-hd)
- - [How to watch Apple&#39;s &#39;Let Loose&#39; iPad Air &amp; iPad Pro event](https://appleinsider.com/inside/apple-event/tips/how-to-watch-apples-let-loose-ipad-air-ipad-pro?utm_medium=rss)
- - [Filings: in 2024, ByteDance and TikTok spent $7M+ combined on lobbying against the US TikTok bill; AdImpact: TikTok spent $4.5M+ on TV and digital ad campaigns &lpar;Brian Schwartz/CNBC&rpar;](http://www.techmeme.com/240424/p18#a240424p18)<!-- TECH:END -->
+ - [How to watch Apple&#39;s &#39;Let Loose&#39; iPad Air &amp; iPad Pro event](https://appleinsider.com/inside/apple-event/tips/how-to-watch-apples-let-loose-ipad-air-ipad-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

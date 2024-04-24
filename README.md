@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A morning with the Rabbit R1: a fun, funky, unfinished AI gadget](https://www.theverge.com/24138746/rabbit-r1-hands-on-ai-gadget-chatgpt)
+ - [Qualcomm details its Snapdragon X Plus and Snapdragon X Elite chips; benchmarks suggest the chips match Apple&#39;s M3, Intel&#39;s Core Ultra 9, and AMD&#39;s Ryzen 9 &lpar;Joanna Nelius/The Verge&rpar;](http://www.techmeme.com/240424/p24#a240424p24)
+ - [Qualcomm strong-arms its way into Windows laptops this summer](https://www.theverge.com/2024/4/24/24138768/qualcomm-snapdragon-x-plus-elite-processors)
  - [App Store video game emulators: all the news on retro console ports for iOS](https://www.theverge.com/24139004/apple-app-store-retro-game-emulators-ios-console-ports-storystream)
- - [Apple&#39;s generative AI may be the only one that was trained legally &amp; ethically](https://appleinsider.com/articles/24/04/24/apples-generative-ai-may-be-the-only-one-that-was-trained-legally-ethically?utm_medium=rss)
- - [Dublin-based Tines, which offers no-code automation tools for security teams, raised a $50M Series B extension, sources say at a near $600M post-money valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240424/p23#a240424p23)
- - [Nissan&#39;s Furry, Robotic Iruyo Puppet Comforts Your Crying Baby While You Drive](https://www.wired.com/story/nissan-iruyo-furry-robotic-puppet-comforts-your-crying-baby-while-you-drive/)
- - [Lamborghini’s popular Urus SUV grows a plug — and goes hybrid](https://www.theverge.com/2024/4/24/24134921/lamborghini-urus-se-hybrid-specs-price)<!-- TECH:END -->
+ - [Apple&#39;s generative AI may be the only one that was trained legally &amp; ethically](https://appleinsider.com/articles/24/04/24/apples-generative-ai-may-be-the-only-one-that-was-trained-legally-ethically?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

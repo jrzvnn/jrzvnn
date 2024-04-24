@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s four new open-source models could help make future AI more accurate](https://appleinsider.com/articles/24/04/24/apples-four-new-open-source-models-could-help-make-future-ai-more-accurate?utm_medium=rss)
+ - [California man uses AirTag to confront thief who stole his BMW](https://appleinsider.com/articles/24/04/24/california-man-uses-airtag-to-confront-thief-who-stole-his-bmw?utm_medium=rss)
  - [Small business owners are getting a special &#39;Today at Apple&#39; training](https://appleinsider.com/articles/24/04/24/small-business-owners-are-getting-a-special-today-at-apple-training?utm_medium=rss)
  - [US companies racing to build data centers to serve AI demand is causing a shortage of parts, property, and power; cooling system lead times are now 5x longer &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240424/p25#a240424p25)
- - [5 Best VPN Services &lpar;2024&rpar;: For Routers, PC, iPhone, Android, and More](https://www.wired.com/story/best-vpn/)
- - [A morning with the Rabbit R1: a fun, funky, unfinished AI gadget](https://www.theverge.com/24138746/rabbit-r1-hands-on-ai-gadget-chatgpt)
- - [Qualcomm details its Snapdragon X Plus and Snapdragon X Elite chips; benchmarks suggest the chips match Apple&#39;s M3, Intel&#39;s Core Ultra 9, and AMD&#39;s Ryzen 9 &lpar;Joanna Nelius/The Verge&rpar;](http://www.techmeme.com/240424/p24#a240424p24)<!-- TECH:END -->
+ - [5 Best VPN Services &lpar;2024&rpar;: For Routers, PC, iPhone, Android, and More](https://www.wired.com/story/best-vpn/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

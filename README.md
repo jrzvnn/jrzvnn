@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Another Crab’s Treasure is a cheery, accessible take on Dark Souls](https://www.theverge.com/24139208/another-crabs-treasure-review-xbox-switch-ps5)
+ - [Reddit is updating its app to focus more on comments](https://www.theverge.com/2024/4/24/24139196/reddit-app-update-instant-comments-loading)
  - [Source: Cognition, which offers an AI coding assistant, raised $175M led by Founders Fund at a $2B valuation, a month after a Series A at a $350M valuation &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/240424/p34#a240424p34)
  - [Apple Watch Series X might get new and thinner motherboard material](https://appleinsider.com/articles/24/04/24/apple-watch-series-x-might-get-new-and-thinner-motherboard-material?utm_medium=rss)
- - [Can the First Amendment Save TikTok?](https://www.wired.com/story/tiktok-ban-first-amendment-courts-challenge/)
- - [Save $300 on the 15-Inch M2 MacBook Air With Apple Music, Apple TV Plus and More Included     - CNET](https://www.cnet.com/deals/save-300-on-the-15-inch-m2-macbook-air-with-apple-music-apple-tv-plus-and-more-included/#ftag=CAD590a51e)
- - [President Biden signs the ByteDance-TikTok divest-or-ban bill into law, after the Senate passed it by 79-18; the House passed the legislation 360-58 on April 20 &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240424/p33#a240424p33)<!-- TECH:END -->
+ - [Can the First Amendment Save TikTok?](https://www.wired.com/story/tiktok-ban-first-amendment-courts-challenge/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

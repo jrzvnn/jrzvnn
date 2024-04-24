@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘PBS Retro’ is coming to Roku as a FAST channel](https://www.theverge.com/2024/4/24/24139057/pbs-retro-free-roku-channel-fast-streaming)
- - [Meta, Google, Snap, and Amazon all benefit from the US&#39; TikTok ban; Mark Zuckerberg criticized TikTok&#39;s Chinese roots in 2019, part of Meta&#39;s broader campaign &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/240424/p29#a240424p29)
- - [Nvidia acquires AI infrastructure orchestration and management platform Run:ai, a source says for ~$700M; Run:ai, founded in 2018, raised $118M in total &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/240424/p28#a240424p28)
- - [Sources: Qualcomm is cheating on Snapdragon X Plus and Elite benchmarks given to OEMs and the press; the numbers are not achievable with the claimed settings &lpar;Charlie Demerjian/SemiAccurate&rpar;](http://www.techmeme.com/240424/p27#a240424p27)
- - [Epic vs. Apple lurches on, this time about antisteering compliance](https://appleinsider.com/articles/24/04/24/epic-vs-apple-lurches-on-this-time-about-antisteering-compliance?utm_medium=rss)<!-- TECH:END -->
+ - [Whether TikTok is banned or not, this is the end as we know it for the loss-making app, which may lose focus due to advertiser, creator, and staff uncertainty &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/240424/p31#a240424p31)
+ - [President Biden Signs Bill That Could Ban TikTok](https://www.wired.com/story/biden-sign-tiktok-ban/)
+ - [Doctors Combined a Heart Pump and Pig Kidney Transplant in Breakthrough Surgery](https://www.wired.com/story/combined-heart-pump-pig-kidney-transplant-surgery/)
+ - [Biden signs TikTok ‘ban’ bill into law, starting the clock for ByteDance to divest it](https://www.theverge.com/2024/4/24/24139036/biden-signs-tiktok-ban-bill-divest-foreign-aid-package)
+ - [Klarna partners with Uber to power Uber and Uber Eats payments, adding its Pay Now option in the US, Germany, and Sweden, but not installment-based payments &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240424/p30#a240424p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

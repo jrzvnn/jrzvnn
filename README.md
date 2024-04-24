@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta&#39;s stock drops 15%+ as the company issues a light Q2 revenue forecast and higher FY 2024 capital expenditures due to increased AI infrastructure investments &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240424/p46#a240424p46)
+ - [The BattlerGC Pro might be the GameCube controller’s final form](https://www.theverge.com/2024/4/24/24138644/battlergc-pro-retro-fighters-gamecube-controller-nintendo-switch-clear)
  - [Meta&#39;s Reality Labs Q1: revenue up 30% YoY to $440M, vs. $512.5M est., a $3.85B operating loss, vs. $4.31B est.; Reality Labs lost $45B+ since the end of 2020 &lpar;Alex Koller/CNBC&rpar;](http://www.techmeme.com/240424/p45#a240424p45)
  - [IBM agrees to buy HashiCorp, which helps companies manage cloud infrastructure, in a deal valuing HashiCorp at $6.4B and expected to close by the end of 2024 &lpar;Ben Glickman/Wall Street Journal&rpar;](http://www.techmeme.com/240424/p44#a240424p44)
- - [Drake threatened with lawsuit over diss track featuring AI Tupac](https://www.theverge.com/2024/4/24/24139442/tupac-ai-lawsuit-drake-taylor-made-diss-track)
- - [IBM reports Q1 revenue up 1% YoY to $14.46B, vs. $14.55B est., software revenue up 5.5% YoY to $5.9B, and net income of $1.6B, up from $927M YoY; IBM drops 5%+ &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240424/p43#a240424p43)
- - [Spotify&#39;s second iOS app update attempt in EU fails to pass App Store review](https://appleinsider.com/articles/24/04/24/spotify-second-ios-app-update-attempt-in-eu-fails-to-pass-app-store-review?utm_medium=rss)<!-- TECH:END -->
+ - [7 Best Space Heaters to Warm Your Home in 2024     - CNET](https://www.cnet.com/home/kitchen-and-household/best-space-heater/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

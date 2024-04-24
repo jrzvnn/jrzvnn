@@ -168,8 +168,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [A morning with the Rabbit R1: a fun, funky, unfinished AI gadget](https://www.theverge.com/24138746/rabbit-r1-hands-on-ai-gadget-chatgpt)
  - [Qualcomm details its Snapdragon X Plus and Snapdragon X Elite chips; benchmarks suggest the chips match Apple&#39;s M3, Intel&#39;s Core Ultra 9, and AMD&#39;s Ryzen 9 &lpar;Joanna Nelius/The Verge&rpar;](http://www.techmeme.com/240424/p24#a240424p24)
  - [Qualcomm strong-arms its way into Windows laptops this summer](https://www.theverge.com/2024/4/24/24138768/qualcomm-snapdragon-x-plus-elite-processors)
- - [App Store video game emulators: all the news on retro console ports for iOS](https://www.theverge.com/24139004/apple-app-store-retro-game-emulators-ios-console-ports-storystream)
- - [Apple&#39;s generative AI may be the only one that was trained legally &amp; ethically](https://appleinsider.com/articles/24/04/24/apples-generative-ai-may-be-the-only-one-that-was-trained-legally-ethically?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft&#39;s Mini AI Is Built to Run on Your Phone, and That&#39;s a Key Difference     - CNET](https://www.cnet.com/tech/computing/microsofts-mini-ai-is-built-to-run-on-your-phone-and-thats-a-key-difference/#ftag=CAD590a51e)
+ - [App Store video game emulators: all the news on retro console ports for iOS](https://www.theverge.com/24139004/apple-app-store-retro-game-emulators-ios-console-ports-storystream)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

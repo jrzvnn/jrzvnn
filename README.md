@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New iPad Air &amp; iPad Pro models are coming soon - what to expect](https://appleinsider.com/articles/24/04/23/new-ipad-air-ipad-pro-models-are-coming-soon---what-to-expect?utm_medium=rss)
  - [Spotify is struggling to get Apple to approve its iOS updates in the EU](https://www.theverge.com/2024/4/24/24139335/spotify-apple-eu-ios-app-update-submission-antitrust-dma)
  - [WhatsApp rolls out passkey support on iOS, removing the need for users to deal with SMS one-time passcodes, six months after introducing the feature on Android &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240424/p36#a240424p36)
  - [How NASA Repaired Voyager 1 From 15 Billion Miles Away](https://www.wired.com/story/nasa-repair-voyager-1-spacecraft-data/)
- - [Spring iPhone sales slip to lowest activation share in years](https://appleinsider.com/articles/24/04/24/spring-iphone-sales-slip-to-lowest-activation-share-in-years?utm_medium=rss)
- - [Apple debuts OpenELM, a family of language models with 270M, 450M, 1.1B, and 3B parameters, designed to run on-device, pre-trained and fine-tuned on public data &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/240424/p35#a240424p35)<!-- TECH:END -->
+ - [President Biden Signs Bill That Could Ban TikTok: What to Know     - CNET](https://www.cnet.com/tech/services-and-software/congress-passes-bill-that-could-ban-tiktok-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

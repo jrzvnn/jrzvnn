@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony’s PlayStation Portal handheld is back in stock at multiple retailers](https://www.theverge.com/2024/4/25/24125120/playstation-portal-ps5-remote-player-best-buy-restock)
  - [The CHIPS Act has been surprisingly successful so far, giving the US greater scope to meet critical infrastructure needs in the event of a crisis in East Asia &lpar;Chris Miller/Financial Times&rpar;](http://www.techmeme.com/240425/p38#a240425p38)
  - [If you&#39;re seeing canceled Apple iPhone trade-in notifications today, you&#39;re not alone](https://appleinsider.com/articles/24/04/25/if-youre-seeing-canceled-apple-iphone-trade-in-notifications-today-youre-not-alone?utm_medium=rss)
  - [iPhone 18 will probably get TSMC&#39;s newly announced next-generation 1.8nm chip process](https://appleinsider.com/articles/24/04/25/iphone-18-will-probably-get-tsmcs-newly-announced-next-generation-18nm-chip-process?utm_medium=rss)
- - [Best Bluetooth Speaker for 2024     - CNET](https://www.cnet.com/tech/home-entertainment/best-bluetooth-speaker/#ftag=CAD590a51e)
- - [NBA Playoffs 2024: How to Watch Tonight&#39;s Games, Schedule, Matchups, TV Times     - CNET](https://www.cnet.com/tech/services-and-software/nba-playoffs-2024-how-to-watch-schedule-matchups-tv-times/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Bluetooth Speaker for 2024     - CNET](https://www.cnet.com/tech/home-entertainment/best-bluetooth-speaker/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

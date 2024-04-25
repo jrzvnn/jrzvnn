@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Perfect car for the apocalypse, now I just need to assemble my crew](http://9gag.com/gag/aByKKgx)
- - 😝 [`The right man in the wrong place can make all the difference in the world`](http://9gag.com/gag/aVvOX3n)
- - 💣 [Guessing which hole..](http://9gag.com/gag/aW4ZQP2)
- - 😝 [I need a cool name! All ideas are welcome.](http://9gag.com/gag/aO8qow2)
- - 👉 [Never underestimate the power of small habits](http://9gag.com/gag/aKGzzr6)<!-- MEMES:END -->
+ - 😝 [Cucks cucks everywhere](http://9gag.com/gag/aAyYr99)
+ - 😝 [Spanish patriots in Madrid clear houses occupied by illegal invaders of Europe who commit crimes. More and more often citizens do `work` that should be done by State](http://9gag.com/gag/adBN6OV)
+ - 💣 [Cultural exchange seems to be successful](http://9gag.com/gag/a87WYr1)
+ - 😝 [11/10](http://9gag.com/gag/adBN6D9)
+ - 👉 [Anyone else notice this?](http://9gag.com/gag/aqymNyM)<!-- MEMES:END -->
 
 ---
 

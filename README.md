@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CISA ransomware warning program will launch this year](https://www.theverge.com/2024/4/25/24140425/cisa-ransomware-warning-program)
+ - [The Worst of WWDC - Apple&#39;s biggest missteps on the way to success](https://appleinsider.com/articles/24/04/25/the-worst-of-wwdc---apples-biggest-missteps-on-the-way-to-success?utm_medium=rss)
+ - [TCL’s entry-level Q6 QLED TV has fallen to a new low price for a limited time](https://www.theverge.com/2024/4/25/24139407/tcl-q6-qled-tv-anker-522-portable-power-station-deal-sale)
  - [The 30 Best Movies on Hulu This Week](https://www.wired.com/story/best-movies-hulu-right-now/)
- - [Stripe will let customers accept crypto payments, starting with USDC on Solana, Ethereum, and Polygon, the first time it has taken crypto payments since 2018 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240425/p24#a240425p24)
- - [ACP Sees Its Final Days: Alternative Internet Assistance at AT&amp;T, Verizon and More     - CNET](https://www.cnet.com/home/internet/acp-sees-its-final-days-alternative-internet-assistance-at-att-verizon-and-more/#ftag=CAD590a51e)
- - [BlizzCon 2024 has been canceled](https://www.theverge.com/2024/4/25/24140368/blizzcon-2024-canceled)
- - [TCL 50 XL 5G First Impressions: So Many Features for a $160 Phone     - CNET](https://www.cnet.com/tech/mobile/tcl-50-xl-5g-first-impressions-so-many-features-for-a-160-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Stripe will let customers accept crypto payments, starting with USDC on Solana, Ethereum, and Polygon, the first time it has taken crypto payments since 2018 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240425/p24#a240425p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [If you&#39;re seeing canceled Apple iPhone trade-in notifications today, you&#39;re not alone](https://appleinsider.com/articles/24/04/25/if-youre-seeing-canceled-apple-iphone-trade-in-notifications-today-youre-not-alone?utm_medium=rss)
  - [Sources: Microsoft has scrambled to respond to new attacks from the Russia-linked SolarWinds hackers, as its engineers prioritize security over new features &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240425/p16#a240425p16)
  - [Eufy X10 Pro Omni Review: Great Mopping and Decent AI Smarts](https://www.wired.com/review/eufy-x10-pro-omni/)
  - [Anyone want to buy TikTok?](https://www.theverge.com/2024/4/25/24139724/tiktok-ban-sale-law-rabbit-r1-tesla-ipad-vergecast-podcast)
- - [Blowout deals: grab a 24-inch iMac for $799 while supplies last](https://appleinsider.com/articles/24/04/25/blowout-deals-grab-a-24-inch-imac-for-799-while-supplies-last?utm_medium=rss)
- - [Microsoft needs to win back trust](https://www.theverge.com/2024/4/25/24139914/microsoft-cyber-security-incidents-trust-report)<!-- TECH:END -->
+ - [Blowout deals: grab a 24-inch iMac for $799 while supplies last](https://appleinsider.com/articles/24/04/25/blowout-deals-grab-a-24-inch-imac-for-799-while-supplies-last?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

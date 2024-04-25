@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft reports Q4 Intelligent Cloud revenue up 21% YoY to $26.71B, vs. $26.26B est., with Azure and other cloud services revenue up 31% YoY &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240425/p31#a240425p31)
+ - [Intel reports Q1 revenue up 9% YoY to $12.72B, vs. $17.78B est., Data Center and AI up 5% to $3B, and Q2 revenue guidance below est.; INTC down 7%+ after hours &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240425/p30#a240425p30)
  - [Microsoft Q3: Windows OEM revenue up 11% YoY, devices revenue down 17% YoY, overall gaming revenue up 51% YoY, and Xbox content and services revenue up 62% YoY &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240425/p29#a240425p29)
- - [Microsoft’s Surface and Xbox hardware revenues take a big hit in Q3](https://www.theverge.com/2024/4/25/24139988/microsoft-q3-2024-earnings-revenue-profits-windows-xbox-gaming-surface)
- - [There&#39;s a Rare $25 Discount on the Nintendo Switch OLED Right Now](https://www.wired.com/story/nintendo-switch-oled-deal-april-2024/)
- - [Alphabet Q1: revenue up 15% YoY to $80.5B, net income up 57% to $23.7B, Google Cloud revenue up 28% to $9.6B, and headcount down 5%+; GOOG up 13%+ after hours &lpar;Alphabet&rpar;](http://www.techmeme.com/240425/p28#a240425p28)
- - [Microsoft Q3: revenue up 17% YoY to $61.9B, net income up 20% to $21.9B, Office Commercial revenue up 13%, LinkedIn revenue up 10%; stock is up 5% after hours &lpar;Microsoft&rpar;](http://www.techmeme.com/240425/p27#a240425p27)<!-- TECH:END -->
+ - [Google will finally put Keep reminders in Tasks, where they always belonged](https://www.theverge.com/2024/4/25/24140524/google-keep-reminders-tasks)
+ - [Microsoft’s Surface and Xbox hardware revenues take a big hit in Q3](https://www.theverge.com/2024/4/25/24139988/microsoft-q3-2024-earnings-revenue-profits-windows-xbox-gaming-surface)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

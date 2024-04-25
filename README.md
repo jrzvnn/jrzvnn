@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro had enough](http://9gag.com/gag/ae9N0yp)
- - 😝 [Racial Preferences](http://9gag.com/gag/ae9N3qv)
- - 💣 [Anyone else notice this?](http://9gag.com/gag/aqymNyM)
- - 😝 [Vegans block entrance to Burger Place - I love that dude telling them what&#39;s what.](http://9gag.com/gag/aE0w7Bx)
- - 👉 [Engines soundtracks](http://9gag.com/gag/ae9N0Bv)<!-- MEMES:END -->
+ - 😝 [Man Confronts Toronto Police In a LGBTQ Police Car.](http://9gag.com/gag/aNDeW0w)
+ - 😝 [Sounds like we\u2019re ready for take off](http://9gag.com/gag/ajPrABQ)
+ - 💣 [Men of Culture](http://9gag.com/gag/aByKYnz)
+ - 😝 [The mouse get humbled](http://9gag.com/gag/aXPb93V)
+ - 👉 [Love](http://9gag.com/gag/aQzq8Zq)<!-- MEMES:END -->
 
 ---
 

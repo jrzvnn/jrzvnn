@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The CHIPS Act has been surprisingly successful so far, giving the US greater scope to meet critical infrastructure needs in the event of a crisis in East Asia &lpar;Chris Miller/Financial Times&rpar;](http://www.techmeme.com/240425/p38#a240425p38)
+ - [If you&#39;re seeing canceled Apple iPhone trade-in notifications today, you&#39;re not alone](https://appleinsider.com/articles/24/04/25/if-youre-seeing-canceled-apple-iphone-trade-in-notifications-today-youre-not-alone?utm_medium=rss)
  - [iPhone 18 will probably get TSMC&#39;s newly announced next-generation 1.8nm chip process](https://appleinsider.com/articles/24/04/25/iphone-18-will-probably-get-tsmcs-newly-announced-next-generation-18nm-chip-process?utm_medium=rss)
- - [In a subpoena, Elon Musk asked Helen Toner to hand over documents about her departure from OpenAI&#39;s board and how OpenAI decides when a technology achieves AGI &lpar;Bloomberg&rpar;](http://www.techmeme.com/240425/p37#a240425p37)
- - [Baltimore coach accused of using AI voice cloning to try to get a high school principal fired](https://www.theverge.com/2024/4/25/24140556/ai-voice-cloning-baltimore-school-misuse)
- - [Roku reports Q1 revenue up 19% YoY to $882M, vs. $848.62M est., a net loss of $50.9M, compared to $193.6M YoY, and 81.6M active accounts, up 1.6M from Q4 2023 &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/240425/p36#a240425p36)
- - [Atlassian&#39;s co-CEO Scott Farquhar plans to step down on August 31, 2024, after 23 years at the company; he will remain a board member and a special advisor &lpar;Scott Farquhar/Work Life&rpar;](http://www.techmeme.com/240425/p35#a240425p35)<!-- TECH:END -->
+ - [Best Bluetooth Speaker for 2024     - CNET](https://www.cnet.com/tech/home-entertainment/best-bluetooth-speaker/#ftag=CAD590a51e)
+ - [NBA Playoffs 2024: How to Watch Tonight&#39;s Games, Schedule, Matchups, TV Times     - CNET](https://www.cnet.com/tech/services-and-software/nba-playoffs-2024-how-to-watch-schedule-matchups-tv-times/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

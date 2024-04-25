@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FCC votes to restore net neutrality](https://www.theverge.com/2024/4/25/24140157/fcc-vote-restore-net-neutrality-rosenworcel-biden)
- - [Wacom says its first OLED drawing tablet is cool and skinny](https://www.theverge.com/2024/4/25/24140168/wacom-movink-13-oled-drawing-tablet-price-announcement)
- - [Sublime, which monitors emails of companies and political campaigns to spot AI-generated phishing attacks, raised a $20M Series A, taking total funding to $30M &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/240425/p19#a240425p19)
- - [Meta’s Open Source Llama 3 Is Already Nipping at OpenAI’s Heels](https://www.wired.com/story/metas-open-source-llama-3-nipping-at-openais-heels/)
- - [Elizabeth Warren Calls for Crackdown on Crypto’s Role in Child Sexual Abuse](https://www.wired.com/story/elizabeth-warren-crypto-online-child-sexual-abuse/)<!-- TECH:END -->
+ - [The 14 Best Barefoot Shoes &lpar;2024&rpar;: For Running or Walking](https://www.wired.com/gallery/best-barefoot-shoes/)
+ - [The FCC votes 3-2 to reinstate net neutrality rules, expanding government oversight of ISPs and aiming to protect consumer access to the internet &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/240425/p20#a240425p20)
+ - [The Fossil-size hole in Wear OS](https://www.theverge.com/24137096/fossil-wear-os-smartwatches-oneplus-mobvoi-garmin)
+ - [The fight for net neutrality is forever](https://www.theverge.com/23727238/net-neutrality-history-fcc-legislation)
+ - [FCC votes to restore net neutrality](https://www.theverge.com/2024/4/25/24140157/fcc-vote-restore-net-neutrality-rosenworcel-biden)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

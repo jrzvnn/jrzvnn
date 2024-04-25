@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Consensys sues the US SEC over what it calls the &quot;unlawful seizure of authority&quot; over ethereum, after receiving a Wells notice for its MetaMask wallet product &lpar;CoinDesk&rpar;](http://www.techmeme.com/240425/p39#a240425p39)
  - [Sony’s PlayStation Portal handheld is back in stock at multiple retailers](https://www.theverge.com/2024/4/25/24125120/playstation-portal-ps5-remote-player-best-buy-restock)
  - [NFL Draft 2024: How to Watch Tonight, Full Weekend TV Schedule, First Round Order     - CNET](https://www.cnet.com/tech/services-and-software/nfl-draft-2024-how-to-watch-tonight-full-weekend-tv-schedule-first-round-order/#ftag=CAD590a51e)
  - [Large Countertop Microwave     - CNET](https://www.cnet.com/home/kitchen-and-household/large-countertop-microwave-dpnl/#ftag=CAD590a51e)
- - [10&quot; Digital Picture Frame     - CNET](https://www.cnet.com/tech/10-digital-picture-frame-dpnl/#ftag=CAD590a51e)
- - [Skullcandy Crusher Evo     - CNET](https://www.cnet.com/tech/mobile/skullcandy-crusher-evo-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [10&quot; Digital Picture Frame     - CNET](https://www.cnet.com/tech/10-digital-picture-frame-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

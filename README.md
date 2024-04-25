@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [California mayor and his security detail attacked while recording promo for California.](http://9gag.com/gag/apRqBZD)
- - 😝 [It\u2019s a mesmerizing sight](http://9gag.com/gag/aVvOW68)
- - 💣 [What a cute... Wait a minute](http://9gag.com/gag/a7o5bDL)
  - 😝 [Cultural exchange seems to be successful](http://9gag.com/gag/a87WYr1)
- - 👉 [He found out.](http://9gag.com/gag/aPAv4dB)<!-- MEMES:END -->
+ - 😝 [California mayor and his security detail attacked while recording promo for California.](http://9gag.com/gag/apRqBZD)
+ - 💣 [The Poll](http://9gag.com/gag/aAyY1p0)
+ - 😝 [Engines soundtracks](http://9gag.com/gag/ae9N0Bv)
+ - 👉 [Sounds like we\u2019re ready for take off](http://9gag.com/gag/ajPrABQ)<!-- MEMES:END -->
 
 ---
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: ByteDance execs have previously considered TikTok&#39;s global operations to be worth ~50% of the company&#39;s overall value, which would put it above $100B &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240425/p5#a240425p5)
  - [K Krithivasan, the CEO of Indian IT giant TCS, says there&#39;ll be &quot;minimal&quot; need for call centers in as soon as a year, as AI chatbots take over much of the work &lpar;Financial Times&rpar;](http://www.techmeme.com/240425/p4#a240425p4)
  - [On Meta&#39;s Q1 earnings call, Mark Zuckerberg said Threads now has more than 150M MAUs, up from 130M in February 2024 &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/240425/p3#a240425p3)
  - [TikTok ban: all the news on attempts to ban the video platform](https://www.theverge.com/23651507/tiktok-ban-us-news)
- - [Snowflake announces Arctic, an LLM optimized for enterprise tasks such as SQL generation, coding, and instruction following, with an Apache 2.0 license &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/240425/p2#a240425p2)
- - [Mark Zuckerberg says Meta AI assistant has been &quot;tried&quot; by &quot;tens of millions of people&quot; and it will take Meta several years to make money from generative AI &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240425/p1#a240425p1)<!-- TECH:END -->
+ - [Snowflake announces Arctic, an LLM optimized for enterprise tasks such as SQL generation, coding, and instruction following, with an Apache 2.0 license &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/240425/p2#a240425p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

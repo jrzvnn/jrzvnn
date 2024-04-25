@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [That&#39;s the secret guys](http://9gag.com/gag/aKGzgL1)
  - 😝 [`The right man in the wrong place can make all the difference in the world`](http://9gag.com/gag/aVvOX3n)
- - 😝 [Men of Culture](http://9gag.com/gag/aByKYnz)
- - 💣 [The mouse get humbled](http://9gag.com/gag/aXPb93V)
- - 😝 [Love](http://9gag.com/gag/aQzq8Zq)
- - 👉 [Someone should report him.](http://9gag.com/gag/aD20o3d)<!-- MEMES:END -->
+ - 💣 [The biggest question](http://9gag.com/gag/a7o5bML)
+ - 😝 [W Mans](http://9gag.com/gag/a9yddN6)
+ - 👉 [He found out.](http://9gag.com/gag/aPAv4dB)<!-- MEMES:END -->
 
 ---
 

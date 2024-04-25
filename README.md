@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Its so hot](http://9gag.com/gag/aMV12DP)
- - 😝 [Math?](http://9gag.com/gag/avy00Wn)
+ - 😝 [A simple trick to solve hard problem](http://9gag.com/gag/aO8qK53)
+ - 😝 [Ya stubby little cant](http://9gag.com/gag/axyN20K)
  - 💣 [He found out.](http://9gag.com/gag/aPAv4dB)
- - 😝 [Hi mom](http://9gag.com/gag/aD20AVd)
- - 👉 [Cultural exchange seems to be successful](http://9gag.com/gag/a87WYr1)<!-- MEMES:END -->
+ - 😝 [What a cute... Wait a minute](http://9gag.com/gag/a7o5bDL)
+ - 👉 [A short and witty title does the trick](http://9gag.com/gag/agmy0Ag)<!-- MEMES:END -->
 
 ---
 

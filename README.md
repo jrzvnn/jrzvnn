@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is why you only load ONE round when teaching an newbie shooter.. almost self PEPSI](http://9gag.com/gag/aLnKR4z)
- - 😝 [Ya stubby little cant](http://9gag.com/gag/axyN20K)
- - 💣 [Cultural exchange seems to be successful](http://9gag.com/gag/a87WYr1)
- - 😝 [Vegans block entrance to Burger Place - I love that dude telling them what&#39;s what.](http://9gag.com/gag/aE0w7Bx)
- - 👉 [California mayor and his security detail attacked while recording promo for California.](http://9gag.com/gag/apRqBZD)<!-- MEMES:END -->
+ - 😝 [In Brazil, a police dog found a large shipment of drugs. Judging by his smile, he also tried them.](http://9gag.com/gag/aZZPxp3)
+ - 😝 [A month ago, I can&#39;t even do a single push up with proper form. Now I can 30, I know it&#39;s not that much..](http://9gag.com/gag/aLnKBLM)
+ - 💣 [California mayor and his security detail attacked while recording promo for California.](http://9gag.com/gag/apRqBZD)
+ - 😝 [Cultural exchange seems to be successful](http://9gag.com/gag/a87WYr1)
+ - 👉 [Engines soundtracks](http://9gag.com/gag/ae9N0Bv)<!-- MEMES:END -->
 
 ---
 

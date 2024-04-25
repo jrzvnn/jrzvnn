@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cucks cucks everywhere](http://9gag.com/gag/aAyYr99)
- - 😝 [Spanish patriots in Madrid clear houses occupied by illegal invaders of Europe who commit crimes. More and more often citizens do `work` that should be done by State](http://9gag.com/gag/adBN6OV)
- - 💣 [Cultural exchange seems to be successful](http://9gag.com/gag/a87WYr1)
- - 😝 [11/10](http://9gag.com/gag/adBN6D9)
- - 👉 [Anyone else notice this?](http://9gag.com/gag/aqymNyM)<!-- MEMES:END -->
+ - 😝 [Was this Too high of a Jump](http://9gag.com/gag/aD20047)
+ - 😝 [My Idol](http://9gag.com/gag/agmy0Gx)
+ - 💣 [That&#39;s why British choose an Indian.](http://9gag.com/gag/aryp17p)
+ - 😝 [A short and witty title does the trick](http://9gag.com/gag/agmy0Ag)
+ - 👉 [Two lifeforms merge in once-in-a-billion-years evolutionary event. Last time this happened, Earth got plants.](http://9gag.com/gag/amoXNN6)<!-- MEMES:END -->
 
 ---
 

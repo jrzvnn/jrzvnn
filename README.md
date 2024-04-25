@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Its so hot](http://9gag.com/gag/aMV12DP)
- - 😝 [Alex Baldwin smacked Palestine out of this annoying b\u05d5tch](http://9gag.com/gag/a5QdpjL)
- - 💣 [A short and witty title does the trick](http://9gag.com/gag/agmy0Ag)
- - 😝 [Ya stubby little cant](http://9gag.com/gag/axyN20K)
- - 👉 [My Idol](http://9gag.com/gag/agmy0Gx)<!-- MEMES:END -->
+ - 😝 [Cultural exchange seems to be successful](http://9gag.com/gag/a87WYr1)
+ - 😝 [Spanish patriots in Madrid clear houses occupied by illegal invaders of Europe who commit crimes. More and more often citizens do `work` that should be done by State](http://9gag.com/gag/adBN6OV)
+ - 💣 [Anyone else notice this?](http://9gag.com/gag/aqymNyM)
+ - 😝 [Cucks cucks everywhere](http://9gag.com/gag/aAyYr99)
+ - 👉 [11/10](http://9gag.com/gag/adBN6D9)<!-- MEMES:END -->
 
 ---
 

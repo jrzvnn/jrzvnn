@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Garry&#39;s Mod is removing &quot;all Nintendo related stuff&quot; from its Steam Workshop, covering &quot;20 years of uploads&quot;, after receiving a takedown request from Nintendo &lpar;Andy Chalk/PC Gamer&rpar;](http://www.techmeme.com/240425/p13#a240425p13)
  - [Congo demands that Apple prove iPhone doesn&#39;t use conflict materials](https://appleinsider.com/articles/24/04/25/congo-demands-that-apple-prove-iphone-doesnt-use-conflict-materials?utm_medium=rss)
  - [Interviews with 24+ current and ex-ByteDance staff: the Beijing-based company has increasingly taken a grip over TikTok&#39;s operations, leading to a culture clash &lpar;Financial Times&rpar;](http://www.techmeme.com/240425/p12#a240425p12)
  - [A look at AI video startup Synthesia, whose avatars are more human-like and expressive than predecessors, raising concerns over the consequences of realistic AI &lpar;Melissa Heikkil&amp;auml;/MIT Technology Review&rpar;](http://www.techmeme.com/240425/p11#a240425p11)
- - [Franco-Italian chip company STMicro reports Q1 revenue down 18% YoY to $3.47B, below $3.63B est., and expects Q2 sales down 26% YoY to $3.2B, below $3.79B est. &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/240425/p10#a240425p10)
- - [The US awards Micron up to $6.1B under the CHIPS Act, to support an up to $125B investment to build a &quot;megafab&quot; in New York and Idaho over the next 20 years &lpar;Ben Glickman/Wall Street Journal&rpar;](http://www.techmeme.com/240425/p9#a240425p9)<!-- TECH:END -->
+ - [Get Discounts on Your Next Adventure With Our Exclusive Viator Coupon     - CNET](https://www.cnet.com/deals/get-discounts-on-your-next-adventure-with-our-exclusive-viator-coupon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

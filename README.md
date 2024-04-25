@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands-on with the Rabbit R1: a fun and funky AI device that feels pretty nice and does a solid job with basic AI questions, but the Rabbithole app is unfinished &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240424/p50#a240424p50)
- - [Zuckerberg says it will take Meta years to make money from generative AI](https://www.theverge.com/2024/4/24/24139591/meta-q1-2024-earnings-ai-mark-zuckerberg)
- - [Best Meta Quest 3 Deals: Bundle and Get a Free Game     - CNET](https://www.cnet.com/deals/best-meta-quest-3-deals/#ftag=CAD590a51e)
- - [Windows 11&#39;s Start Menu Will Soon Have Ads: Here&#39;s How to Turn Them Off     - CNET](https://www.cnet.com/tech/windows-11s-start-menu-will-soon-have-ads-heres-how-to-turn-them-off/#ftag=CAD590a51e)
- - [HVAC Maintenance Guide: What to DIY and When to Call a Pro     - CNET](https://www.cnet.com/home/energy-and-utilities/hvac-maintenance-guide-what-to-diy-and-when-to-call-a-pro/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [SK Hynix reports Q1 revenue of ~$9B, more than doubling YoY, and ~$2B in operating income, above estimates of ~$1.3B and the biggest quarterly profit since 2022 &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/240424/p52#a240424p52)
+ - [Memo: Thrasio CEO Greg Greeley plans to resign and five other senior executives will &quot;step down when Thrasio emerges from Chapter 11 in the coming weeks&quot; &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/240424/p51#a240424p51)
+ - [Best MacBook Air M2 Deals: Save Up to $300, Including on the Fleeting 15-inch Model     - CNET](https://www.cnet.com/deals/best-m2-macbook-air-deals/#ftag=CAD590a51e)
+ - [Feeling Exhausted? Discover How Non-Sleep Deep Rest Can Revitalize Your Energy     - CNET](https://www.cnet.com/health/sleep/feeling-exhausted-discover-how-non-sleep-deep-rest-can-revitalize-your-energy/#ftag=CAD590a51e)
+ - [Evidence of Bird Flu Found in Pasteurized Milk. Here&#39;s What That Means     - CNET](https://www.cnet.com/health/nutrition/evidence-of-bird-flu-found-in-pasteurized-milk-heres-what-that-means/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

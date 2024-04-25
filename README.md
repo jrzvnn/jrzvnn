@@ -166,10 +166,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Elizabeth Warren Calls for Crackdown on Crypto’s Role in Child Sexual Abuse](https://www.wired.com/story/elizabeth-warren-crypto-online-child-sexual-abuse/)
+ - [Don&#39;t Wait, Score 55% Off a Pair of Beats Solo 3 Headphones Today     - CNET](https://www.cnet.com/deals/dont-wait-score-55-off-a-pair-of-beats-solo-3-headphones-today/#ftag=CAD590a51e)
+ - [How Much Can You Earn by Depositing $10,000 Into a CD?     - CNET](https://www.cnet.com/personal-finance/how-much-can-you-earn-by-depositing-10000-into-a-cd/#ftag=CAD590a51e)
  - [Movement Labs, which is building Movement L2, a layer-2 Ethereum blockchain based on the Move programming language, raised a $38M Series A led by Polychain &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/240425/p18#a240425p18)
- - [Spotify is still complaining about Apple&#39;s EU App Store rules](https://appleinsider.com/articles/24/04/25/spotify-is-still-complaining-about-apples-eu-app-store-rules?utm_medium=rss)
- - [Yale Approach Smart Lock Review: Magical Door-Unlocking Powers](https://www.wired.com/review/yale-approach-lock-review/)
- - [Ford looks to future EV breakthroughs — and smaller cars — to staunch the bleeding](https://www.theverge.com/2024/4/25/24140033/ford-q1-2024-earnings-ev-hybrid-loss-sale)<!-- TECH:END -->
+ - [Spotify is still complaining about Apple&#39;s EU App Store rules](https://appleinsider.com/articles/24/04/25/spotify-is-still-complaining-about-apples-eu-app-store-rules?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

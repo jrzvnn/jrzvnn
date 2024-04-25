@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [California mayor and his security detail attacked while recording promo for California.](http://9gag.com/gag/apRqBZD)
- - 😝 [Engines soundtracks](http://9gag.com/gag/ae9N0Bv)
- - 💣 [Cultural exchange seems to be successful](http://9gag.com/gag/a87WYr1)
- - 😝 [Love](http://9gag.com/gag/aQzq8Zq)
- - 👉 [The Poll](http://9gag.com/gag/aAyY1p0)<!-- MEMES:END -->
+ - 😝 [`The right man in the wrong place can make all the difference in the world`](http://9gag.com/gag/aVvOX3n)
+ - 😝 [What a cute... Wait a minute](http://9gag.com/gag/a7o5bDL)
+ - 💣 [April Vs April](http://9gag.com/gag/a0e99DQ)
+ - 😝 [That&#39;s the secret guys](http://9gag.com/gag/aKGzgL1)
+ - 👉 [Ben is smart enough not to ask questions](http://9gag.com/gag/a0e9pQq)<!-- MEMES:END -->
 
 ---
 

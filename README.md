@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spotify is still complaining about Apple&#39;s EU App Store rules](https://appleinsider.com/articles/24/04/25/spotify-is-still-complaining-about-apples-eu-app-store-rules?utm_medium=rss)
+ - [Elizabeth Warren Calls for Crackdown on Crypto’s Role in Child Sexual Abuse](https://www.wired.com/story/elizabeth-warren-crypto-online-child-sexual-abuse/)
+ - [Yale Approach Smart Lock Review: Magical Door-Unlocking Powers](https://www.wired.com/review/yale-approach-lock-review/)
  - [Ford looks to future EV breakthroughs — and smaller cars — to staunch the bleeding](https://www.theverge.com/2024/4/25/24140033/ford-q1-2024-earnings-ev-hybrid-loss-sale)
- - [Patrick Wardle teams up with ex-Apple researcher to boost Mac security for all](https://appleinsider.com/articles/24/04/25/patrick-wardle-teams-up-with-ex-apple-researcher-to-boost-mac-security-for-all?utm_medium=rss)
- - [How to Set Up a VPN on Your Router to Protect Your Home Wi-Fi Network](https://www.wired.com/story/how-to-set-up-a-vpn-on-your-router/)
- - [27 Great Tech Gifts Under $100     - CNET](https://www.cnet.com/tech/best-tech-gifts-for-100-or-less/#ftag=CAD590a51e)
- - [Best 75-Inch TV in 2024     - CNET](https://www.cnet.com/tech/home-entertainment/best-75-inch-tv/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Patrick Wardle teams up with ex-Apple researcher to boost Mac security for all](https://appleinsider.com/articles/24/04/25/patrick-wardle-teams-up-with-ex-apple-researcher-to-boost-mac-security-for-all?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

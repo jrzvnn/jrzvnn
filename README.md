@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ads for Explicit ‘AI Girlfriends’ Are Swarming Facebook and Instagram](https://www.wired.com/story/ads-for-explicit-ai-girlfriends-swarming-facebook-and-instagram/)
+ - [The next big game from Clash of Clans developer Supercell launches in May](https://www.theverge.com/2024/4/25/24139112/squad-busters-supercell-trailer-release-date)
  - [Garry&#39;s Mod is removing &quot;all Nintendo related stuff&quot; from its Steam Workshop, covering &quot;20 years of uploads&quot;, after receiving a takedown request from Nintendo &lpar;Andy Chalk/PC Gamer&rpar;](http://www.techmeme.com/240425/p13#a240425p13)
  - [Congo demands that Apple prove iPhone doesn&#39;t use conflict materials](https://appleinsider.com/articles/24/04/25/congo-demands-that-apple-prove-iphone-doesnt-use-conflict-materials?utm_medium=rss)
- - [Interviews with 24+ current and ex-ByteDance staff: the Beijing-based company has increasingly taken a grip over TikTok&#39;s operations, leading to a culture clash &lpar;Financial Times&rpar;](http://www.techmeme.com/240425/p12#a240425p12)
- - [A look at AI video startup Synthesia, whose avatars are more human-like and expressive than predecessors, raising concerns over the consequences of realistic AI &lpar;Melissa Heikkil&amp;auml;/MIT Technology Review&rpar;](http://www.techmeme.com/240425/p11#a240425p11)
- - [Get Discounts on Your Next Adventure With Our Exclusive Viator Coupon     - CNET](https://www.cnet.com/deals/get-discounts-on-your-next-adventure-with-our-exclusive-viator-coupon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Interviews with 24+ current and ex-ByteDance staff: the Beijing-based company has increasingly taken a grip over TikTok&#39;s operations, leading to a culture clash &lpar;Financial Times&rpar;](http://www.techmeme.com/240425/p12#a240425p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

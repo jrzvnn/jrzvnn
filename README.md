@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify is still complaining about Apple&#39;s EU App Store rules](https://appleinsider.com/articles/24/04/25/spotify-is-still-complaining-about-apples-eu-app-store-rules?utm_medium=rss)
  - [Elizabeth Warren Calls for Crackdown on Crypto’s Role in Child Sexual Abuse](https://www.wired.com/story/elizabeth-warren-crypto-online-child-sexual-abuse/)
+ - [Movement Labs, which is building Movement L2, a layer-2 Ethereum blockchain based on the Move programming language, raised a $38M Series A led by Polychain &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/240425/p18#a240425p18)
+ - [Spotify is still complaining about Apple&#39;s EU App Store rules](https://appleinsider.com/articles/24/04/25/spotify-is-still-complaining-about-apples-eu-app-store-rules?utm_medium=rss)
  - [Yale Approach Smart Lock Review: Magical Door-Unlocking Powers](https://www.wired.com/review/yale-approach-lock-review/)
- - [Ford looks to future EV breakthroughs — and smaller cars — to staunch the bleeding](https://www.theverge.com/2024/4/25/24140033/ford-q1-2024-earnings-ev-hybrid-loss-sale)
- - [Patrick Wardle teams up with ex-Apple researcher to boost Mac security for all](https://appleinsider.com/articles/24/04/25/patrick-wardle-teams-up-with-ex-apple-researcher-to-boost-mac-security-for-all?utm_medium=rss)<!-- TECH:END -->
+ - [Ford looks to future EV breakthroughs — and smaller cars — to staunch the bleeding](https://www.theverge.com/2024/4/25/24140033/ford-q1-2024-earnings-ev-hybrid-loss-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

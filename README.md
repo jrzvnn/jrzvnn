@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A simple trick to solve hard problem](http://9gag.com/gag/aO8qK53)
- - 😝 [Hi mom](http://9gag.com/gag/aD20AVd)
- - 💣 [Now we have questions](http://9gag.com/gag/a9ydj0D)
- - 😝 [My Idol](http://9gag.com/gag/agmy0Gx)
- - 👉 [I need a cool name! All ideas are welcome.](http://9gag.com/gag/aO8qow2)<!-- MEMES:END -->
+ - 😝 [Perfect car for the apocalypse, now I just need to assemble my crew](http://9gag.com/gag/aByKKgx)
+ - 😝 [`The right man in the wrong place can make all the difference in the world`](http://9gag.com/gag/aVvOX3n)
+ - 💣 [Guessing which hole..](http://9gag.com/gag/aW4ZQP2)
+ - 😝 [I need a cool name! All ideas are welcome.](http://9gag.com/gag/aO8qow2)
+ - 👉 [Never underestimate the power of small habits](http://9gag.com/gag/aKGzzr6)<!-- MEMES:END -->
 
 ---
 

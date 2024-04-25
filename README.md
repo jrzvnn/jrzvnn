@@ -166,10 +166,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Sony’s PlayStation Portal handheld is back in stock at multiple retailers](https://www.theverge.com/2024/4/25/24125120/playstation-portal-ps5-remote-player-best-buy-restock)
- - [The CHIPS Act has been surprisingly successful so far, giving the US greater scope to meet critical infrastructure needs in the event of a crisis in East Asia &lpar;Chris Miller/Financial Times&rpar;](http://www.techmeme.com/240425/p38#a240425p38)
- - [If you&#39;re seeing canceled Apple iPhone trade-in notifications today, you&#39;re not alone](https://appleinsider.com/articles/24/04/25/if-youre-seeing-canceled-apple-iphone-trade-in-notifications-today-youre-not-alone?utm_medium=rss)
- - [iPhone 18 will probably get TSMC&#39;s newly announced next-generation 1.8nm chip process](https://appleinsider.com/articles/24/04/25/iphone-18-will-probably-get-tsmcs-newly-announced-next-generation-18nm-chip-process?utm_medium=rss)
- - [Best Bluetooth Speaker for 2024     - CNET](https://www.cnet.com/tech/home-entertainment/best-bluetooth-speaker/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [NFL Draft 2024: How to Watch Tonight, Full Weekend TV Schedule, First Round Order     - CNET](https://www.cnet.com/tech/services-and-software/nfl-draft-2024-how-to-watch-tonight-full-weekend-tv-schedule-first-round-order/#ftag=CAD590a51e)
+ - [Large Countertop Microwave     - CNET](https://www.cnet.com/home/kitchen-and-household/large-countertop-microwave-dpnl/#ftag=CAD590a51e)
+ - [10&quot; Digital Picture Frame     - CNET](https://www.cnet.com/tech/10-digital-picture-frame-dpnl/#ftag=CAD590a51e)
+ - [Skullcandy Crusher Evo     - CNET](https://www.cnet.com/tech/mobile/skullcandy-crusher-evo-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Vegans block entrance to Burger Place - I love that dude telling them what&#39;s what.](http://9gag.com/gag/aE0w7Bx)
- - 😝 [Ben is smart enough not to ask questions](http://9gag.com/gag/a0e9pQq)
- - 💣 [A short and witty title does the trick](http://9gag.com/gag/agmy0Ag)
- - 😝 [Cultural exchange seems to be successful](http://9gag.com/gag/a87WYr1)
- - 👉 [Swifties can suck it.... video was removed from Twitter... please share.](http://9gag.com/gag/aByKrL1)<!-- MEMES:END -->
+ - 😝 [Upgrades, people, upgrades](http://9gag.com/gag/aGy99bK)
+ - 😝 [That&#39;s the secret guys](http://9gag.com/gag/aKGzgL1)
+ - 💣 [Cultural exchange seems to be successful](http://9gag.com/gag/a87WYr1)
+ - 😝 [Yes yes yes yes ow](http://9gag.com/gag/an7Y1nV)
+ - 👉 [I can fix her](http://9gag.com/gag/a9ydPVK)<!-- MEMES:END -->
 
 ---
 

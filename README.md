@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Garry’s Mod is taking down decades of Nintendo-related add-ons](https://www.theverge.com/2024/4/25/24140246/garrys-mod-nintendo-copyright-takedowns-dmca)
+ - [Threads expands Hidden Words to let users filter out words, phrases, or emoji, and tests the option to mute notifications and ways to select who can quote posts &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240425/p23#a240425p23)
+ - [Hands-on: this self-transforming Megatron is as badass as it is expensive](https://www.theverge.com/2024/4/25/24138325/transformers-robosen-megatron-self-converting-robot-toy-hasbro)
  - [Google is updating Android TVs to fix a big Gmail privacy problem](https://www.theverge.com/2024/4/25/24140152/google-android-tv-gmail-email-hack-browser-expose)
- - [Cities are ending their ShotSpotter contracts, but the sensors themselves are staying](https://www.theverge.com/2024/4/25/24140272/shotspotter-sensors-chicago-contract-ends)
- - [Sources: ByteDance prefers a TikTok shutdown in the US rather than a sale if legal options fail, deeming TikTok&#39;s algorithm as core to overall ByteDance systems &lpar;Reuters&rpar;](http://www.techmeme.com/240425/p22#a240425p22)
- - [FCC votes to restore net neutrality protections in the United States](https://appleinsider.com/articles/24/04/25/fcc-votes-to-restore-net-neutrality-protections-in-the-united-states?utm_medium=rss)
- - [Cloud data management startup Rubrik opens up 20% at $38.60 per share in its NYSE debut, after raising $752M at a $5.6B valuation &lpar;CNBC&rpar;](http://www.techmeme.com/240425/p21#a240425p21)<!-- TECH:END -->
+ - [Cities are ending their ShotSpotter contracts, but the sensors themselves are staying](https://www.theverge.com/2024/4/25/24140272/shotspotter-sensors-chicago-contract-ends)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

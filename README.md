@@ -174,10 +174,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Two lifeforms merge in once-in-a-billion-years evolutionary event. Last time this happened, Earth got plants.](http://9gag.com/gag/amoXNN6)
- - 😝 [Now we have questions](http://9gag.com/gag/a9ydj0D)
- - 💣 [A short and witty title does the trick](http://9gag.com/gag/agmy0Ag)
- - 😝 [Ya stubby little cant](http://9gag.com/gag/axyN20K)
+ - 😝 [Math?](http://9gag.com/gag/avy00Wn)
+ - 😝 [A simple trick to solve hard problem](http://9gag.com/gag/aO8qK53)
+ - 💣 [Hi mom](http://9gag.com/gag/aD20AVd)
+ - 😝 [Was this Too high of a Jump](http://9gag.com/gag/aD20047)
  - 👉 [My lord....](http://9gag.com/gag/ayN57BX)<!-- MEMES:END -->
 
 ---

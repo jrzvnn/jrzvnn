@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [BlizzCon 2024 has been canceled](https://www.theverge.com/2024/4/25/24140368/blizzcon-2024-canceled)
  - [Apple Card promotion offers users 10% cash back on Nike purchases](https://appleinsider.com/articles/24/04/25/apple-card-promotion-offers-users-10-cash-back-on-nike-purchases?utm_medium=rss)
  - [Spyware dealers could face visa restrictions](https://www.theverge.com/2024/4/25/24140391/commercial-spyware-visa-restrictions-state-department)
  - [Garry’s Mod is taking down decades of Nintendo-related add-ons](https://www.theverge.com/2024/4/25/24140246/garrys-mod-nintendo-copyright-takedowns-dmca)
- - [Threads expands Hidden Words to let users filter out words, phrases, or emoji, and tests the option to mute notifications and ways to select who can quote posts &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240425/p23#a240425p23)
- - [Hands-on: this self-transforming Megatron is as badass as it is expensive](https://www.theverge.com/2024/4/25/24138325/transformers-robosen-megatron-self-converting-robot-toy-hasbro)<!-- TECH:END -->
+ - [Threads expands Hidden Words to let users filter out words, phrases, or emoji, and tests the option to mute notifications and ways to select who can quote posts &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240425/p23#a240425p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

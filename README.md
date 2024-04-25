@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Atlassian&#39;s co-CEO Scott Farquhar plans to step down on August 31, 2024, after 23 years at the company; he will remain a board member and a special advisor &lpar;Scott Farquhar/Work Life&rpar;](http://www.techmeme.com/240425/p35#a240425p35)
  - [Snap reports Q1 revenue up 21% YoY to $1.19B, vs. $1.12B est., DAUs up 10% YoY to 422M, a net loss of $305M, compared to $329M YoY; SNAP is up 20%+ after hours &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240425/p34#a240425p34)
  - [Alphabet announces its first-ever dividend and authorizes the repurchase of up to an additional $70B of its Class A and Class C shares &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/240425/p33#a240425p33)
  - [YouTube Q1 ad revenue climbs 21% YoY to $8.1B, vs. $7.72B estimated, its highest Q1 total so far &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240425/p32#a240425p32)
- - [Microsoft reports Q4 Intelligent Cloud revenue up 21% YoY to $26.71B, vs. $26.26B est., with Azure and other cloud services revenue up 31% YoY &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240425/p31#a240425p31)
- - [Intel reports Q1 revenue up 9% YoY to $12.72B, vs. $12.78B est., Data Center and AI up 5% to $3B, and Q2 revenue guidance below est.; INTC falls 9%+ after hours &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240425/p30#a240425p30)<!-- TECH:END -->
+ - [Microsoft reports Q4 Intelligent Cloud revenue up 21% YoY to $26.71B, vs. $26.26B est., with Azure and other cloud services revenue up 31% YoY &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240425/p31#a240425p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

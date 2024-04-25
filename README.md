@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Meet rolls out an update to let users seamlessly transfer calls between devices &quot;without hanging up and rejoining&quot; via its Android, iOS, and web apps &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240425/p14#a240425p14)
- - [14 Last-Minute Tool Deals From Home Depot and Lowe&#39;s: Power Tools, Yard Tools, Hand Tools](https://www.wired.com/story/home-depot-lowes-spring-sale-2024/)
- - [Test Your Knowledge of Internet Acronyms](https://www.wired.com/story/gadget-lab-podcast-641/)
- - [Team Biden Is Posting Through the Looming TikTok Ban](https://www.wired.com/story/biden-is-still-posting-on-tiktok/)
- - [Ads for Explicit ‘AI Girlfriends’ Are Swarming Facebook and Instagram](https://www.wired.com/story/ads-for-explicit-ai-girlfriends-swarming-facebook-and-instagram/)<!-- TECH:END -->
+ - [Blowout deals: grab a 24-inch iMac for $799 while supplies last](https://appleinsider.com/articles/24/04/25/blowout-deals-grab-a-24-inch-imac-for-799-while-supplies-last?utm_medium=rss)
+ - [Microsoft needs to win back trust](https://www.theverge.com/2024/4/25/24139914/microsoft-cyber-security-incidents-trust-report)
+ - [Sources: ByteDance is exploring scenarios for selling a majority stake in TikTok US, preferably to non-tech companies, and without the recommendation algorithm &lpar;The Information&rpar;](http://www.techmeme.com/240425/p15#a240425p15)
+ - [How to Clean a Coffee Grinder &lpar;2024&rpar;](https://www.wired.com/story/how-to-clean-a-coffee-grinder/)
+ - [Google Meet rolls out an update to let users seamlessly transfer calls between devices &quot;without hanging up and rejoining&quot; via its Android, iOS, and web apps &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240425/p14#a240425p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [On Meta&#39;s Q1 earnings call, Mark Zuckerberg said Threads now has more than 150M MAUs, up from 130M in February 2024 &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/240425/p3#a240425p3)
  - [TikTok ban: all the news on attempts to ban the video platform](https://www.theverge.com/23651507/tiktok-ban-us-news)
  - [Snowflake announces Arctic, an LLM optimized for enterprise tasks such as SQL generation, coding, and instruction following, with an Apache 2.0 license &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/240425/p2#a240425p2)
  - [Mark Zuckerberg says Meta AI assistant has been &quot;tried&quot; by &quot;tens of millions of people&quot; and it will take Meta several years to make money from generative AI &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240425/p1#a240425p1)
- - [TSMC unveils a new chip manufacturing technology called A16 and says it plans to start producing its ultra-advanced 1.6nm chips by 2026 &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/240424/p54#a240424p54)
- - [Today&#39;s Wordle Hints and Answer: Help for April 25, #1041     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-25-1041/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [TSMC unveils a new chip manufacturing technology called A16 and says it plans to start producing its ultra-advanced 1.6nm chips by 2026 &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/240424/p54#a240424p54)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

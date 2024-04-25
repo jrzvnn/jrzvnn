@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What a cute... Wait a minute](http://9gag.com/gag/a7o5bDL)
- - 😝 [Was this Too high of a Jump](http://9gag.com/gag/aD20047)
- - 💣 [Swifties can suck it.... video was removed from Twitter... please share.](http://9gag.com/gag/aByKrL1)
- - 😝 [That&#39;s the secret guys](http://9gag.com/gag/aKGzgL1)
- - 👉 [This is why you only load ONE round when teaching an newbie shooter.. almost self PEPSI](http://9gag.com/gag/aLnKR4z)<!-- MEMES:END -->
+ - 😝 [It\u2019s a mesmerizing sight](http://9gag.com/gag/aVvOW68)
+ - 😝 [A simple trick to solve hard problem](http://9gag.com/gag/aO8qK53)
+ - 💣 [Nice critique of when gov helps bigcorp with taxpayer&#39;s money.](http://9gag.com/gag/aXPbX0v)
+ - 😝 [This is why you only load ONE round when teaching an newbie shooter.. almost self PEPSI](http://9gag.com/gag/aLnKR4z)
+ - 👉 [Hi mom](http://9gag.com/gag/aD20AVd)<!-- MEMES:END -->
 
 ---
 

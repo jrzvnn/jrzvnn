@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lenovo survey of 750 CIOs: 96% expect increased AI investment in the next 12 months and 42% don&#39;t expect to show return on AI investments for the next two years &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/240425/p8#a240425p8)
+ - [Didn&#39;t Receive Your April Social Security Check? What to Know     - CNET](https://www.cnet.com/personal-finance/didnt-receive-your-april-social-security-check-what-to-know/#ftag=CAD590a51e)
+ - [Best Pixel 7A Deals: Save Up to $153 or Get One Free with Trade-In     - CNET](https://www.cnet.com/deals/best-pixel-7a-deals/#ftag=CAD590a51e)
  - [A look at Saudi Arabia&#39;s spending blitz to become an AI superpower, which has put the kingdom in the middle of an escalating global competition over AI &lpar;New York Times&rpar;](http://www.techmeme.com/240425/p7#a240425p7)
- - [Filing: Swiggy, which has a ~45.8% share of the Indian food delivery market, secures shareholder approval for a potential $1.25B IPO, slated for later this year &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240425/p6#a240425p6)
- - [Sources: ByteDance execs have previously considered TikTok&#39;s global operations to be worth ~50% of the company&#39;s overall value, which would put it above $100B &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240425/p5#a240425p5)
- - [K Krithivasan, the CEO of Indian IT giant TCS, says there&#39;ll be &quot;minimal&quot; need for call centers in as soon as a year, as AI chatbots take over much of the work &lpar;Financial Times&rpar;](http://www.techmeme.com/240425/p4#a240425p4)
- - [On Meta&#39;s Q1 earnings call, Mark Zuckerberg said Threads now has more than 150M MAUs, up from 130M in February 2024 &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/240425/p3#a240425p3)<!-- TECH:END -->
+ - [Filing: Swiggy, which has a ~45.8% share of the Indian food delivery market, secures shareholder approval for a potential $1.25B IPO, slated for later in 2024 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240425/p6#a240425p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

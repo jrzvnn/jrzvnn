@@ -166,10 +166,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Stripe will let customers accept crypto payments, starting with USDC on Solana, Ethereum, and Polygon, the first time it has taken crypto payments since 2018 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240425/p24#a240425p24)
+ - [ACP Sees Its Final Days: Alternative Internet Assistance at AT&amp;T, Verizon and More     - CNET](https://www.cnet.com/home/internet/acp-sees-its-final-days-alternative-internet-assistance-at-att-verizon-and-more/#ftag=CAD590a51e)
  - [BlizzCon 2024 has been canceled](https://www.theverge.com/2024/4/25/24140368/blizzcon-2024-canceled)
- - [Apple Card promotion offers users 10% cash back on Nike purchases](https://appleinsider.com/articles/24/04/25/apple-card-promotion-offers-users-10-cash-back-on-nike-purchases?utm_medium=rss)
- - [Spyware dealers could face visa restrictions](https://www.theverge.com/2024/4/25/24140391/commercial-spyware-visa-restrictions-state-department)
- - [Garry’s Mod is taking down decades of Nintendo-related add-ons](https://www.theverge.com/2024/4/25/24140246/garrys-mod-nintendo-copyright-takedowns-dmca)<!-- TECH:END -->
+ - [TCL 50 XL 5G First Impressions: So Many Features for a $160 Phone     - CNET](https://www.cnet.com/tech/mobile/tcl-50-xl-5g-first-impressions-so-many-features-for-a-160-phone/#ftag=CAD590a51e)
+ - [Apple Card promotion offers users 10% cash back on Nike purchases](https://appleinsider.com/articles/24/04/25/apple-card-promotion-offers-users-10-cash-back-on-nike-purchases?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

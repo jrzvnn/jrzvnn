@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [`The right man in the wrong place can make all the difference in the world`](http://9gag.com/gag/aVvOX3n)
  - 😝 [Man Confronts Toronto Police In a LGBTQ Police Car.](http://9gag.com/gag/aNDeW0w)
- - 😝 [Sounds like we\u2019re ready for take off](http://9gag.com/gag/ajPrABQ)
- - 💣 [Men of Culture](http://9gag.com/gag/aByKYnz)
- - 😝 [The mouse get humbled](http://9gag.com/gag/aXPb93V)
- - 👉 [Love](http://9gag.com/gag/aQzq8Zq)<!-- MEMES:END -->
+ - 💣 [That&#39;s the secret guys](http://9gag.com/gag/aKGzgL1)
+ - 😝 [Cultural exchange seems to be successful](http://9gag.com/gag/a87WYr1)
+ - 👉 [Swifties can suck it.... video was removed from Twitter... please share.](http://9gag.com/gag/aByKrL1)<!-- MEMES:END -->
 
 ---
 

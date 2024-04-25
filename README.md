@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Was this Too high of a Jump](http://9gag.com/gag/aD20047)
- - 😝 [That&#39;s the secret guys](http://9gag.com/gag/aKGzgL1)
- - 💣 [W Mans](http://9gag.com/gag/a9yddN6)
- - 😝 [My Idol](http://9gag.com/gag/agmy0Gx)
- - 👉 [Twins celebrating win in Rio 2016](http://9gag.com/gag/adBN0bM)<!-- MEMES:END -->
+ - 😝 [Okie Dokie](http://9gag.com/gag/apRqqVb)
+ - 😝 [A short and witty title does the trick](http://9gag.com/gag/agmy0Ag)
+ - 💣 [Never underestimate the power of small habits](http://9gag.com/gag/aKGzzr6)
+ - 😝 [California mayor and his security detail attacked while recording promo for California.](http://9gag.com/gag/apRqBZD)
+ - 👉 [Cultural exchange seems to be successful](http://9gag.com/gag/a87WYr1)<!-- MEMES:END -->
 
 ---
 

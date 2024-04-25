@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s the secret guys](http://9gag.com/gag/aKGzgL1)
- - 😝 [`The right man in the wrong place can make all the difference in the world`](http://9gag.com/gag/aVvOX3n)
- - 💣 [The biggest question](http://9gag.com/gag/a7o5bML)
- - 😝 [W Mans](http://9gag.com/gag/a9yddN6)
- - 👉 [He found out.](http://9gag.com/gag/aPAv4dB)<!-- MEMES:END -->
+ - 😝 [Cultural exchange seems to be successful](http://9gag.com/gag/a87WYr1)
+ - 😝 [Does this non woke studio even exist???](http://9gag.com/gag/ayN5d4r)
+ - 💣 [Vegans block entrance to Burger Place - I love that dude telling them what&#39;s what.](http://9gag.com/gag/aE0w7Bx)
+ - 😝 [Ya stubby little cant](http://9gag.com/gag/axyN20K)
+ - 👉 [What a cute... Wait a minute](http://9gag.com/gag/a7o5bDL)<!-- MEMES:END -->
 
 ---
 

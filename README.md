@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My lord....](http://9gag.com/gag/ayN57BX)
- - 😝 [W Mans](http://9gag.com/gag/a9yddN6)
- - 💣 [California mayor and his security detail attacked while recording promo for California.](http://9gag.com/gag/apRqBZD)
- - 😝 [The biggest question](http://9gag.com/gag/a7o5bML)
- - 👉 [That&#39;s the secret guys](http://9gag.com/gag/aKGzgL1)<!-- MEMES:END -->
+ - 😝 [What a cute... Wait a minute](http://9gag.com/gag/a7o5bDL)
+ - 😝 [Was this Too high of a Jump](http://9gag.com/gag/aD20047)
+ - 💣 [Swifties can suck it.... video was removed from Twitter... please share.](http://9gag.com/gag/aByKrL1)
+ - 😝 [That&#39;s the secret guys](http://9gag.com/gag/aKGzgL1)
+ - 👉 [This is why you only load ONE round when teaching an newbie shooter.. almost self PEPSI](http://9gag.com/gag/aLnKR4z)<!-- MEMES:END -->
 
 ---
 

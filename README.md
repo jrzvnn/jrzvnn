@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Team Biden Is Posting Through the Looming TikTok Ban](https://www.wired.com/story/biden-is-still-posting-on-tiktok/)
  - [Ads for Explicit ‘AI Girlfriends’ Are Swarming Facebook and Instagram](https://www.wired.com/story/ads-for-explicit-ai-girlfriends-swarming-facebook-and-instagram/)
  - [The next big game from Clash of Clans developer Supercell launches in May](https://www.theverge.com/2024/4/25/24139112/squad-busters-supercell-trailer-release-date)
  - [Mortgages Move Up for Homeseekers: Today&#39;s Mortgage Rates on April 25, 2024     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgages-move-up-for-homeseekers-todays-mortgage-rates-on-april-25-2024/#ftag=CAD590a51e)
- - [Homeowners Face Higher Refi Rates: Mortgage Refinance Rates on April 25, 2024     - CNET](https://www.cnet.com/personal-finance/mortgages/homeowners-face-higher-refi-rates-mortgage-refinance-rates-on-april-25-2024/#ftag=CAD590a51e)
- - [Garry&#39;s Mod is removing &quot;all Nintendo related stuff&quot; from its Steam Workshop, covering &quot;20 years of uploads&quot;, after receiving a takedown request from Nintendo &lpar;Andy Chalk/PC Gamer&rpar;](http://www.techmeme.com/240425/p13#a240425p13)<!-- TECH:END -->
+ - [Homeowners Face Higher Refi Rates: Mortgage Refinance Rates on April 25, 2024     - CNET](https://www.cnet.com/personal-finance/mortgages/homeowners-face-higher-refi-rates-mortgage-refinance-rates-on-april-25-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

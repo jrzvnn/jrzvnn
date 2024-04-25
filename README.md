@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cultural exchange seems to be successful](http://9gag.com/gag/a87WYr1)
- - 😝 [Spanish patriots in Madrid clear houses occupied by illegal invaders of Europe who commit crimes. More and more often citizens do `work` that should be done by State](http://9gag.com/gag/adBN6OV)
- - 💣 [Anyone else notice this?](http://9gag.com/gag/aqymNyM)
- - 😝 [Cucks cucks everywhere](http://9gag.com/gag/aAyYr99)
- - 👉 [11/10](http://9gag.com/gag/adBN6D9)<!-- MEMES:END -->
+ - 😝 [A simple trick to solve hard problem](http://9gag.com/gag/aO8qK53)
+ - 😝 [Hi mom](http://9gag.com/gag/aD20AVd)
+ - 💣 [Now we have questions](http://9gag.com/gag/a9ydj0D)
+ - 😝 [My Idol](http://9gag.com/gag/agmy0Gx)
+ - 👉 [I need a cool name! All ideas are welcome.](http://9gag.com/gag/aO8qow2)<!-- MEMES:END -->
 
 ---
 

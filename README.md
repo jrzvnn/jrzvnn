@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Snowflake announces Arctic, an LLM optimized for enterprise tasks such as SQL generation, coding, and instruction following, with an Apache 2.0 license &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/240425/p2#a240425p2)
  - [Mark Zuckerberg says Meta AI assistant has been &quot;tried&quot; by &quot;tens of millions of people&quot; and it will take Meta several years to make money from generative AI &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240425/p1#a240425p1)
  - [TSMC unveils a new chip manufacturing technology called A16 and says it plans to start producing its ultra-advanced 1.6nm chips by 2026 &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/240424/p54#a240424p54)
- - [Reddit announces that its Dynamic Product Ads, which use &quot;shopping signals&quot; to automatically show relevant ads to users, are entering public beta globally &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/240424/p53#a240424p53)
- - [Wordle Player Cheat Sheet: Here Are the Most Popular Letters Used in the English Language     - CNET](https://www.cnet.com/tech/wordle-player-cheat-sheet-here-are-the-most-popular-letters-used-in-the-english-language/#ftag=CAD590a51e)
- - [Best Multivitamins for 2024     - CNET](https://www.cnet.com/health/nutrition/best-multivitamins/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints and Answer: Help for April 25, #1041     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-25-1041/#ftag=CAD590a51e)
+ - [Reddit announces that its Dynamic Product Ads, which use &quot;shopping signals&quot; to automatically show relevant ads to users, are entering public beta globally &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/240424/p53#a240424p53)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

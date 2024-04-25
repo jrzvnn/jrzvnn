@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Swifties can suck it.... video was removed from Twitter... please share.](http://9gag.com/gag/aByKrL1)
- - 😝 [That&#39;s the secret guys](http://9gag.com/gag/aKGzgL1)
- - 💣 [9gaggers love this](http://9gag.com/gag/amoXNPo)
- - 😝 [Cultural exchange seems to be successful](http://9gag.com/gag/a87WYr1)
- - 👉 [This is why you only load ONE round when teaching an newbie shooter.. almost self PEPSI](http://9gag.com/gag/aLnKR4z)<!-- MEMES:END -->
+ - 😝 [This is why you only load ONE round when teaching an newbie shooter.. almost self PEPSI](http://9gag.com/gag/aLnKR4z)
+ - 😝 [Ya stubby little cant](http://9gag.com/gag/axyN20K)
+ - 💣 [Cultural exchange seems to be successful](http://9gag.com/gag/a87WYr1)
+ - 😝 [Vegans block entrance to Burger Place - I love that dude telling them what&#39;s what.](http://9gag.com/gag/aE0w7Bx)
+ - 👉 [California mayor and his security detail attacked while recording promo for California.](http://9gag.com/gag/apRqBZD)<!-- MEMES:END -->
 
 ---
 

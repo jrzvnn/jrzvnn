@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Net Neutrality Returns to a Very Different Internet](https://www.wired.com/story/fcc-net-neutrality-rules-vote/)
  - [The ‘Hollywood Con Queen’ gets a new documentary from Apple TV Plus](https://www.theverge.com/2024/4/25/24140331/hollywood-con-queen-documentary-apple-tv)
  - [Nagomi Security, which has developed a proactive security and threat exposure management platform, emerges from stealth with a $23M Series A and a $7M seed &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/240425/p25#a240425p25)
  - [All the news about EV charging in the US](https://www.theverge.com/23758095/electric-vehicle-charging-news-nacs-ccs-tesla-supercharger-us-infrastructure)
- - [CISA ransomware warning program will launch this year](https://www.theverge.com/2024/4/25/24140425/cisa-ransomware-warning-program)
- - [The Worst of WWDC - Apple&#39;s biggest missteps on the way to success](https://appleinsider.com/articles/24/04/25/the-worst-of-wwdc---apples-biggest-missteps-on-the-way-to-success?utm_medium=rss)<!-- TECH:END -->
+ - [CISA ransomware warning program will launch this year](https://www.theverge.com/2024/4/25/24140425/cisa-ransomware-warning-program)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

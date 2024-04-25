@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hi mom](http://9gag.com/gag/aD20AVd)
- - 😝 [My lord....](http://9gag.com/gag/ayN57BX)
- - 💣 [My Idol](http://9gag.com/gag/agmy0Gx)
- - 😝 [A short and witty title does the trick](http://9gag.com/gag/agmy0Ag)
- - 👉 [Anyone else notice this?](http://9gag.com/gag/aqymNyM)<!-- MEMES:END -->
+ - 😝 [Two lifeforms merge in once-in-a-billion-years evolutionary event. Last time this happened, Earth got plants.](http://9gag.com/gag/amoXNN6)
+ - 😝 [Now we have questions](http://9gag.com/gag/a9ydj0D)
+ - 💣 [A short and witty title does the trick](http://9gag.com/gag/agmy0Ag)
+ - 😝 [Ya stubby little cant](http://9gag.com/gag/axyN20K)
+ - 👉 [My lord....](http://9gag.com/gag/ayN57BX)<!-- MEMES:END -->
 
 ---
 

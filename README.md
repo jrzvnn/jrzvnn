@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Gothing withing](http://9gag.com/gag/aoyz90n)
- - 😝 [Swifties can suck it.... video was removed from Twitter... please share.](http://9gag.com/gag/aByKrL1)
- - 💣 [Vegans block entrance to Burger Place - I love that dude telling them what&#39;s what.](http://9gag.com/gag/aE0w7Bx)
- - 😝 [What a cute... Wait a minute](http://9gag.com/gag/a7o5bDL)
- - 👉 [Cultural exchange seems to be successful](http://9gag.com/gag/a87WYr1)<!-- MEMES:END -->
+ - 😝 [Ben is smart enough not to ask questions](http://9gag.com/gag/a0e9pQq)
+ - 💣 [What a cute... Wait a minute](http://9gag.com/gag/a7o5bDL)
+ - 😝 [A short and witty title does the trick](http://9gag.com/gag/agmy0Ag)
+ - 👉 [Aeroflot 593 crashed in 1994 when the pilot let his children control the aircraft. This is the crash animation and audio log.](http://9gag.com/gag/a1mAM2w)<!-- MEMES:END -->
 
 ---
 

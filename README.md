@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Vegans block entrance to Burger Place - I love that dude telling them what&#39;s what.](http://9gag.com/gag/aE0w7Bx)
- - 😝 [Ben is smart enough not to ask questions](http://9gag.com/gag/a0e9pQq)
- - 💣 [California mayor and his security detail attacked while recording promo for California.](http://9gag.com/gag/apRqBZD)
  - 😝 [Gothing withing](http://9gag.com/gag/aoyz90n)
- - 👉 [Was this Too high of a Jump](http://9gag.com/gag/aD20047)<!-- MEMES:END -->
+ - 😝 [The biggest question](http://9gag.com/gag/a7o5bML)
+ - 💣 [Swifties can suck it.... video was removed from Twitter... please share.](http://9gag.com/gag/aByKrL1)
+ - 😝 [A short and witty title does the trick](http://9gag.com/gag/agmy0Ag)
+ - 👉 [W Mans](http://9gag.com/gag/a9yddN6)<!-- MEMES:END -->
 
 ---
 

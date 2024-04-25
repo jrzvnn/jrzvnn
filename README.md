@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In a subpoena, Elon Musk asked Helen Toner to hand over documents about her departure from OpenAI&#39;s board and how OpenAI decides when a technology achieves AGI &lpar;Bloomberg&rpar;](http://www.techmeme.com/240425/p37#a240425p37)
+ - [Baltimore coach accused of using AI voice cloning to try to get a high school principal fired](https://www.theverge.com/2024/4/25/24140556/ai-voice-cloning-baltimore-school-misuse)
+ - [Roku reports Q1 revenue up 19% YoY to $882M, vs. $848.62M est., a net loss of $50.9M, compared to $193.6M YoY, and 81.6M active accounts, up 1.6M from Q4 2023 &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/240425/p36#a240425p36)
  - [Atlassian&#39;s co-CEO Scott Farquhar plans to step down on August 31, 2024, after 23 years at the company; he will remain a board member and a special advisor &lpar;Scott Farquhar/Work Life&rpar;](http://www.techmeme.com/240425/p35#a240425p35)
- - [Snap reports Q1 revenue up 21% YoY to $1.19B, vs. $1.12B est., DAUs up 10% YoY to 422M, a net loss of $305M, compared to $329M YoY; SNAP is up 20%+ after hours &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240425/p34#a240425p34)
- - [Alphabet announces its first-ever dividend and authorizes the repurchase of up to an additional $70B of its Class A and Class C shares &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/240425/p33#a240425p33)
- - [YouTube Q1 ad revenue climbs 21% YoY to $8.1B, vs. $7.72B estimated, its highest Q1 total so far &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240425/p32#a240425p32)
- - [Microsoft reports Q4 Intelligent Cloud revenue up 21% YoY to $26.71B, vs. $26.26B est., with Azure and other cloud services revenue up 31% YoY &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240425/p31#a240425p31)<!-- TECH:END -->
+ - [Drone w/ Camera for Adults     - CNET](https://www.cnet.com/culture/entertainment/drone-w-camera-for-adults-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

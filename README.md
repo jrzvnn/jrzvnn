@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Snap reports Q1 revenue up 21% YoY to $1.19B, vs. $1.12B est., DAUs up 10% YoY to 422M, a net loss of $305M, compared to $329M YoY; SNAP is up 20%+ after hours &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240425/p34#a240425p34)
+ - [Alphabet announces its first-ever dividend and authorizes the repurchase of up to an additional $70B of its Class A and Class C shares &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/240425/p33#a240425p33)
+ - [YouTube Q1 ad revenue climbs 21% YoY to $8.1B, vs. $7.72B estimated, its highest Q1 total so far &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240425/p32#a240425p32)
  - [Microsoft reports Q4 Intelligent Cloud revenue up 21% YoY to $26.71B, vs. $26.26B est., with Azure and other cloud services revenue up 31% YoY &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240425/p31#a240425p31)
- - [Intel reports Q1 revenue up 9% YoY to $12.72B, vs. $17.78B est., Data Center and AI up 5% to $3B, and Q2 revenue guidance below est.; INTC down 7%+ after hours &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240425/p30#a240425p30)
- - [Microsoft Q3: Windows OEM revenue up 11% YoY, devices revenue down 17% YoY, overall gaming revenue up 51% YoY, and Xbox content and services revenue up 62% YoY &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240425/p29#a240425p29)
- - [Google will finally put Keep reminders in Tasks, where they always belonged](https://www.theverge.com/2024/4/25/24140524/google-keep-reminders-tasks)
- - [Microsoft’s Surface and Xbox hardware revenues take a big hit in Q3](https://www.theverge.com/2024/4/25/24139988/microsoft-q3-2024-earnings-revenue-profits-windows-xbox-gaming-surface)<!-- TECH:END -->
+ - [Intel reports Q1 revenue up 9% YoY to $12.72B, vs. $12.78B est., Data Center and AI up 5% to $3B, and Q2 revenue guidance below est.; INTC falls 9%+ after hours &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240425/p30#a240425p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

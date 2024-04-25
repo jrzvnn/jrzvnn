@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [My lord....](http://9gag.com/gag/ayN57BX)
+ - 😝 [W Mans](http://9gag.com/gag/a9yddN6)
+ - 💣 [California mayor and his security detail attacked while recording promo for California.](http://9gag.com/gag/apRqBZD)
  - 😝 [The biggest question](http://9gag.com/gag/a7o5bML)
- - 😝 [She calls me sayang and she is always happy](http://9gag.com/gag/a7o5LBm)
- - 💣 [A short and witty title does the trick](http://9gag.com/gag/agmy0Ag)
- - 😝 [This is why you only load ONE round when teaching an newbie shooter.. almost self PEPSI](http://9gag.com/gag/aLnKR4z)
- - 👉 [A simple trick to solve hard problem](http://9gag.com/gag/aO8qK53)<!-- MEMES:END -->
+ - 👉 [That&#39;s the secret guys](http://9gag.com/gag/aKGzgL1)<!-- MEMES:END -->
 
 ---
 

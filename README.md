@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Franco-Italian chip company STMicro reports Q1 revenue down 18% YoY to $3.47B, below $3.63B est., and expects Q2 sales down 26% YoY to $3.2B, below $3.79B est. &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/240425/p10#a240425p10)
  - [The US awards Micron up to $6.1B under the CHIPS Act, to support an up to $125B investment to build a &quot;megafab&quot; in New York and Idaho over the next 20 years &lpar;Ben Glickman/Wall Street Journal&rpar;](http://www.techmeme.com/240425/p9#a240425p9)
  - [The EPA’s new power plant pollution rule has a big, gassy hole in it](https://www.theverge.com/2024/4/25/24139494/power-plant-pollution-epa-final-rule-climate)
  - [Lenovo survey of 750 CIOs: 96% expect increased AI investment in the next 12 months and 42% don&#39;t expect to show return on AI investments for the next two years &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/240425/p8#a240425p8)
- - [Didn&#39;t Receive Your April Social Security Check? What to Know     - CNET](https://www.cnet.com/personal-finance/didnt-receive-your-april-social-security-check-what-to-know/#ftag=CAD590a51e)
- - [Best Pixel 7A Deals: Save Up to $153 or Get One Free with Trade-In     - CNET](https://www.cnet.com/deals/best-pixel-7a-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Didn&#39;t Receive Your April Social Security Check? What to Know     - CNET](https://www.cnet.com/personal-finance/didnt-receive-your-april-social-security-check-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Math?](http://9gag.com/gag/avy00Wn)
- - 😝 [A simple trick to solve hard problem](http://9gag.com/gag/aO8qK53)
- - 💣 [Hi mom](http://9gag.com/gag/aD20AVd)
- - 😝 [Was this Too high of a Jump](http://9gag.com/gag/aD20047)
- - 👉 [My lord....](http://9gag.com/gag/ayN57BX)<!-- MEMES:END -->
+ - 😝 [That&#39;s the secret guys](http://9gag.com/gag/aKGzgL1)
+ - 😝 [Things to never say to a woman in bed.](http://9gag.com/gag/aYQbNjN)
+ - 💣 [He found out.](http://9gag.com/gag/aPAv4dB)
+ - 😝 [My lord....](http://9gag.com/gag/ayN57BX)
+ - 👉 [9gaggers love this](http://9gag.com/gag/amoXNPo)<!-- MEMES:END -->
 
 ---
 

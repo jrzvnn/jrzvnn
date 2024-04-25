@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The biggest question](http://9gag.com/gag/a7o5bML)
  - 😝 [She calls me sayang and she is always happy](http://9gag.com/gag/a7o5LBm)
- - 😝 [California mayor and his security detail attacked while recording promo for California.](http://9gag.com/gag/apRqBZD)
- - 💣 [A simple trick to solve hard problem](http://9gag.com/gag/aO8qK53)
- - 😝 [A short and witty title does the trick](http://9gag.com/gag/agmy0Ag)
- - 👉 [What a cute... Wait a minute](http://9gag.com/gag/a7o5bDL)<!-- MEMES:END -->
+ - 💣 [A short and witty title does the trick](http://9gag.com/gag/agmy0Ag)
+ - 😝 [This is why you only load ONE round when teaching an newbie shooter.. almost self PEPSI](http://9gag.com/gag/aLnKR4z)
+ - 👉 [A simple trick to solve hard problem](http://9gag.com/gag/aO8qK53)<!-- MEMES:END -->
 
 ---
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 14 Best Barefoot Shoes &lpar;2024&rpar;: For Running or Walking](https://www.wired.com/gallery/best-barefoot-shoes/)
- - [The FCC votes 3-2 to reinstate net neutrality rules, expanding government oversight of ISPs and aiming to protect consumer access to the internet &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/240425/p20#a240425p20)
- - [The Fossil-size hole in Wear OS](https://www.theverge.com/24137096/fossil-wear-os-smartwatches-oneplus-mobvoi-garmin)
- - [The fight for net neutrality is forever](https://www.theverge.com/23727238/net-neutrality-history-fcc-legislation)
- - [FCC votes to restore net neutrality](https://www.theverge.com/2024/4/25/24140157/fcc-vote-restore-net-neutrality-rosenworcel-biden)<!-- TECH:END -->
+ - [Threads will now automatically filter out offensive words](https://www.theverge.com/2024/4/25/24140027/threads-hidden-words-filter-offensive-words)
+ - [EPA administrator Michael Regan on undoing the toxic legacy of power plants in the US](https://www.theverge.com/24140189/epa-administrator-michael-regan-interview-power-plant-pollution-rules)
+ - [No, a Shadowy Figure Is Not Buying Tents for Columbia Student Protesters](https://www.wired.com/story/conspiracy-tents-student-protests-gaza/)
+ - [10 Best Cold-Brew Coffee Makers &lpar;2024&rpar;: Oxo, KitchenAid, and More](https://www.wired.com/story/best-cold-brew-coffee-makers/)
+ - [The 14 Best Barefoot Shoes &lpar;2024&rpar;: For Running or Walking](https://www.wired.com/gallery/best-barefoot-shoes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

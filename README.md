@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nagomi Security, which has developed a proactive security and threat exposure management platform, emerges from stealth with a $23M Series A and a $7M seed &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/240425/p25#a240425p25)
+ - [All the news about EV charging in the US](https://www.theverge.com/23758095/electric-vehicle-charging-news-nacs-ccs-tesla-supercharger-us-infrastructure)
  - [CISA ransomware warning program will launch this year](https://www.theverge.com/2024/4/25/24140425/cisa-ransomware-warning-program)
  - [The Worst of WWDC - Apple&#39;s biggest missteps on the way to success](https://appleinsider.com/articles/24/04/25/the-worst-of-wwdc---apples-biggest-missteps-on-the-way-to-success?utm_medium=rss)
- - [TCL’s entry-level Q6 QLED TV has fallen to a new low price for a limited time](https://www.theverge.com/2024/4/25/24139407/tcl-q6-qled-tv-anker-522-portable-power-station-deal-sale)
- - [The 30 Best Movies on Hulu This Week](https://www.wired.com/story/best-movies-hulu-right-now/)
- - [Stripe will let customers accept crypto payments, starting with USDC on Solana, Ethereum, and Polygon, the first time it has taken crypto payments since 2018 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240425/p24#a240425p24)<!-- TECH:END -->
+ - [TCL’s entry-level Q6 QLED TV has fallen to a new low price for a limited time](https://www.theverge.com/2024/4/25/24139407/tcl-q6-qled-tv-anker-522-portable-power-station-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

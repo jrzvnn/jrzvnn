@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Was this Too high of a Jump](http://9gag.com/gag/aD20047)
- - 😝 [My Idol](http://9gag.com/gag/agmy0Gx)
- - 💣 [That&#39;s why British choose an Indian.](http://9gag.com/gag/aryp17p)
+ - 😝 [Hi mom](http://9gag.com/gag/aD20AVd)
+ - 😝 [My lord....](http://9gag.com/gag/ayN57BX)
+ - 💣 [My Idol](http://9gag.com/gag/agmy0Gx)
  - 😝 [A short and witty title does the trick](http://9gag.com/gag/agmy0Ag)
- - 👉 [Two lifeforms merge in once-in-a-billion-years evolutionary event. Last time this happened, Earth got plants.](http://9gag.com/gag/amoXNN6)<!-- MEMES:END -->
+ - 👉 [Anyone else notice this?](http://9gag.com/gag/aqymNyM)<!-- MEMES:END -->
 
 ---
 

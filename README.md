@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US awards Micron up to $6.1B under the CHIPS Act, to support an up to $125B investment to build a &quot;megafab&quot; in New York and Idaho over the next 20 years &lpar;Ben Glickman/Wall Street Journal&rpar;](http://www.techmeme.com/240425/p9#a240425p9)
+ - [The EPA’s new power plant pollution rule has a big, gassy hole in it](https://www.theverge.com/2024/4/25/24139494/power-plant-pollution-epa-final-rule-climate)
  - [Lenovo survey of 750 CIOs: 96% expect increased AI investment in the next 12 months and 42% don&#39;t expect to show return on AI investments for the next two years &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/240425/p8#a240425p8)
  - [Didn&#39;t Receive Your April Social Security Check? What to Know     - CNET](https://www.cnet.com/personal-finance/didnt-receive-your-april-social-security-check-what-to-know/#ftag=CAD590a51e)
- - [Best Pixel 7A Deals: Save Up to $153 or Get One Free with Trade-In     - CNET](https://www.cnet.com/deals/best-pixel-7a-deals/#ftag=CAD590a51e)
- - [A look at Saudi Arabia&#39;s spending blitz to become an AI superpower, which has put the kingdom in the middle of an escalating global competition over AI &lpar;New York Times&rpar;](http://www.techmeme.com/240425/p7#a240425p7)
- - [Filing: Swiggy, which has a ~45.8% share of the Indian food delivery market, secures shareholder approval for a potential $1.25B IPO, slated for later in 2024 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240425/p6#a240425p6)<!-- TECH:END -->
+ - [Best Pixel 7A Deals: Save Up to $153 or Get One Free with Trade-In     - CNET](https://www.cnet.com/deals/best-pixel-7a-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

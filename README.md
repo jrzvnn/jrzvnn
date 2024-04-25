@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cities are ending their ShotSpotter contracts, but the sensors themselves are staying](https://www.theverge.com/2024/4/25/24140272/shotspotter-sensors-chicago-contract-ends)
+ - [Sources: ByteDance prefers a TikTok shutdown in the US rather than a sale if legal options fail, deeming TikTok&#39;s algorithm as core to overall ByteDance systems &lpar;Reuters&rpar;](http://www.techmeme.com/240425/p22#a240425p22)
  - [FCC votes to restore net neutrality protections in the United States](https://appleinsider.com/articles/24/04/25/fcc-votes-to-restore-net-neutrality-protections-in-the-united-states?utm_medium=rss)
  - [Cloud data management startup Rubrik opens up 20% at $38.60 per share in its NYSE debut, after raising $752M at a $5.6B valuation &lpar;CNBC&rpar;](http://www.techmeme.com/240425/p21#a240425p21)
- - [Reddit is down, as an error message tells users to ‘try again later’](https://www.theverge.com/2024/4/25/24140339/reddit-down-outage-error-try-again-later)
- - [13 Best Outdoor Security Cameras &lpar;2024&rpar;: Battery-Powered, LTE, No Subscription](https://www.wired.com/gallery/best-outdoor-security-cameras/)
- - [Threads will now automatically filter out offensive words from your feeds](https://www.theverge.com/2024/4/25/24140027/threads-hidden-words-filter-offensive-words)<!-- TECH:END -->
+ - [Reddit is back after a widespread outage](https://www.theverge.com/2024/4/25/24140339/reddit-down-outage-error-try-again-later)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

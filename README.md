@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Upgrades, people, upgrades](http://9gag.com/gag/aGy99bK)
- - 😝 [That&#39;s the secret guys](http://9gag.com/gag/aKGzgL1)
- - 💣 [Cultural exchange seems to be successful](http://9gag.com/gag/a87WYr1)
- - 😝 [Yes yes yes yes ow](http://9gag.com/gag/an7Y1nV)
- - 👉 [I can fix her](http://9gag.com/gag/a9ydPVK)<!-- MEMES:END -->
+ - 😝 [`The right man in the wrong place can make all the difference in the world`](http://9gag.com/gag/aVvOX3n)
+ - 😝 [Men of Culture](http://9gag.com/gag/aByKYnz)
+ - 💣 [The mouse get humbled](http://9gag.com/gag/aXPb93V)
+ - 😝 [Love](http://9gag.com/gag/aQzq8Zq)
+ - 👉 [Someone should report him.](http://9gag.com/gag/aD20o3d)<!-- MEMES:END -->
 
 ---
 

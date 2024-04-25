@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anyone want to buy TikTok?](https://www.theverge.com/2024/4/25/24139724/tiktok-ban-sale-law-rabbit-r1-tesla-ipad-vergecast-podcast)
  - [Blowout deals: grab a 24-inch iMac for $799 while supplies last](https://appleinsider.com/articles/24/04/25/blowout-deals-grab-a-24-inch-imac-for-799-while-supplies-last?utm_medium=rss)
  - [Microsoft needs to win back trust](https://www.theverge.com/2024/4/25/24139914/microsoft-cyber-security-incidents-trust-report)
  - [Sources: ByteDance is exploring scenarios for selling a majority stake in TikTok US, preferably to non-tech companies, and without the recommendation algorithm &lpar;The Information&rpar;](http://www.techmeme.com/240425/p15#a240425p15)
- - [How to Clean a Coffee Grinder &lpar;2024&rpar;](https://www.wired.com/story/how-to-clean-a-coffee-grinder/)
- - [Google Meet rolls out an update to let users seamlessly transfer calls between devices &quot;without hanging up and rejoining&quot; via its Android, iOS, and web apps &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240425/p14#a240425p14)<!-- TECH:END -->
+ - [How to Clean a Coffee Grinder &lpar;2024&rpar;](https://www.wired.com/story/how-to-clean-a-coffee-grinder/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

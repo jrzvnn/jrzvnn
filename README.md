@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ben is smart enough not to ask questions](http://9gag.com/gag/a0e9pQq)
- - 😝 [Swifties can suck it.... video was removed from Twitter... please share.](http://9gag.com/gag/aByKrL1)
- - 💣 [A short and witty title does the trick](http://9gag.com/gag/agmy0Ag)
- - 😝 [Vegans block entrance to Burger Place - I love that dude telling them what&#39;s what.](http://9gag.com/gag/aE0w7Bx)
- - 👉 [California mayor and his security detail attacked while recording promo for California.](http://9gag.com/gag/apRqBZD)<!-- MEMES:END -->
+ - 😝 [California mayor and his security detail attacked while recording promo for California.](http://9gag.com/gag/apRqBZD)
+ - 😝 [It\u2019s a mesmerizing sight](http://9gag.com/gag/aVvOW68)
+ - 💣 [What a cute... Wait a minute](http://9gag.com/gag/a7o5bDL)
+ - 😝 [Cultural exchange seems to be successful](http://9gag.com/gag/a87WYr1)
+ - 👉 [He found out.](http://9gag.com/gag/aPAv4dB)<!-- MEMES:END -->
 
 ---
 

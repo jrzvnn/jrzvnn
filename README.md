@@ -169,7 +169,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [TikTok ban: all the news on attempts to ban the video platform](https://www.theverge.com/23651507/tiktok-ban-us-news)
  - [Snowflake announces Arctic, an LLM optimized for enterprise tasks such as SQL generation, coding, and instruction following, with an Apache 2.0 license &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/240425/p2#a240425p2)
  - [Mark Zuckerberg says Meta AI assistant has been &quot;tried&quot; by &quot;tens of millions of people&quot; and it will take Meta several years to make money from generative AI &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240425/p1#a240425p1)
- - [Best Internet Providers in Greenwood, Indiana     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-greenwood-in/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [TSMC unveils a new chip manufacturing technology called A16 and says it plans to start producing its ultra-advanced 1.6nm chips by 2026 &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/240424/p54#a240424p54)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

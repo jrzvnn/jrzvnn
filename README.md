@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ford looks to future EV breakthroughs — and smaller cars — to staunch the bleeding](https://www.theverge.com/2024/4/25/24140033/ford-q1-2024-earnings-ev-hybrid-loss-sale)
  - [Patrick Wardle teams up with ex-Apple researcher to boost Mac security for all](https://appleinsider.com/articles/24/04/25/patrick-wardle-teams-up-with-ex-apple-researcher-to-boost-mac-security-for-all?utm_medium=rss)
  - [How to Set Up a VPN on Your Router to Protect Your Home Wi-Fi Network](https://www.wired.com/story/how-to-set-up-a-vpn-on-your-router/)
  - [Sources: a Huawei-led consortium, backed by Chinese government funding, aims to compete with Nvidia by making high-bandwidth memory chips, used in GPUs, by 2026 &lpar;The Information&rpar;](http://www.techmeme.com/240425/p17#a240425p17)
- - [Google Meet now lets you switch devices without hanging up](https://www.theverge.com/2024/4/25/24140005/google-meet-easy-call-device-transfer-switch-here)
- - [Dreame X30 Ultra Review: A Robot Vacuum With Flex Arms and Detachable Mop Pads](https://www.wired.com/review/dreame-x30-ultra-robot-vac-mop/)<!-- TECH:END -->
+ - [Google Meet now lets you switch devices without hanging up](https://www.theverge.com/2024/4/25/24140005/google-meet-easy-call-device-transfer-switch-here)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

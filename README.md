@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Okie Dokie](http://9gag.com/gag/apRqqVb)
- - 😝 [A short and witty title does the trick](http://9gag.com/gag/agmy0Ag)
- - 💣 [Never underestimate the power of small habits](http://9gag.com/gag/aKGzzr6)
+ - 😝 [Never underestimate the power of small habits](http://9gag.com/gag/aKGzzr6)
+ - 😝 [She calls me sayang and she is always happy](http://9gag.com/gag/a7o5LBm)
+ - 💣 [What a cute... Wait a minute](http://9gag.com/gag/a7o5bDL)
  - 😝 [California mayor and his security detail attacked while recording promo for California.](http://9gag.com/gag/apRqBZD)
- - 👉 [Cultural exchange seems to be successful](http://9gag.com/gag/a87WYr1)<!-- MEMES:END -->
+ - 👉 [He found out.](http://9gag.com/gag/aPAv4dB)<!-- MEMES:END -->
 
 ---
 

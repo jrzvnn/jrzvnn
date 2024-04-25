@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Congo demands that Apple prove iPhone doesn&#39;t use conflict materials](https://appleinsider.com/articles/24/04/25/congo-demands-that-apple-prove-iphone-doesnt-use-conflict-materials?utm_medium=rss)
+ - [Interviews with 24+ current and ex-ByteDance staff: the Beijing-based company has increasingly taken a grip over TikTok&#39;s operations, leading to a culture clash &lpar;Financial Times&rpar;](http://www.techmeme.com/240425/p12#a240425p12)
  - [A look at AI video startup Synthesia, whose avatars are more human-like and expressive than predecessors, raising concerns over the consequences of realistic AI &lpar;Melissa Heikkil&amp;auml;/MIT Technology Review&rpar;](http://www.techmeme.com/240425/p11#a240425p11)
  - [Franco-Italian chip company STMicro reports Q1 revenue down 18% YoY to $3.47B, below $3.63B est., and expects Q2 sales down 26% YoY to $3.2B, below $3.79B est. &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/240425/p10#a240425p10)
- - [The US awards Micron up to $6.1B under the CHIPS Act, to support an up to $125B investment to build a &quot;megafab&quot; in New York and Idaho over the next 20 years &lpar;Ben Glickman/Wall Street Journal&rpar;](http://www.techmeme.com/240425/p9#a240425p9)
- - [The EPA’s new power plant pollution rule has a big, gassy hole in it](https://www.theverge.com/2024/4/25/24139494/power-plant-pollution-epa-final-rule-climate)
- - [Lenovo survey of 750 CIOs: 96% expect increased AI investment in the next 12 months and 42% don&#39;t expect to show return on AI investments for the next two years &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/240425/p8#a240425p8)<!-- TECH:END -->
+ - [The US awards Micron up to $6.1B under the CHIPS Act, to support an up to $125B investment to build a &quot;megafab&quot; in New York and Idaho over the next 20 years &lpar;Ben Glickman/Wall Street Journal&rpar;](http://www.techmeme.com/240425/p9#a240425p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

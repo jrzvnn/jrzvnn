@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alphabet Announces First Quarter 2024 Results &lpar;Alphabet&rpar;](http://www.techmeme.com/240425/p28#a240425p28)
- - [Earnings Release FY24 Q3 &lpar;Microsoft&rpar;](http://www.techmeme.com/240425/p27#a240425p27)
- - [As ASML shareholders approve Christophe Fouquet as CEO, he faces a tricky balancing act to guide ASML, Europe&#39;s largest tech firm, through the US-China chip war &lpar;Toby Sterling/Reuters&rpar;](http://www.techmeme.com/240425/p26#a240425p26)
- - [Net Neutrality Returns to a Very Different Internet](https://www.wired.com/story/fcc-net-neutrality-rules-vote/)
- - [The ‘Hollywood Con Queen’ gets a new documentary from Apple TV Plus](https://www.theverge.com/2024/4/25/24140331/hollywood-con-queen-documentary-apple-tv)<!-- TECH:END -->
+ - [Microsoft Q3: Windows OEM revenue up 11% YoY, devices revenue down 17% YoY, overall gaming revenue up 51% YoY, and Xbox content and services revenue up 62% YoY &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240425/p29#a240425p29)
+ - [Microsoft’s Surface and Xbox hardware revenues take a big hit in Q3](https://www.theverge.com/2024/4/25/24139988/microsoft-q3-2024-earnings-revenue-profits-windows-xbox-gaming-surface)
+ - [There&#39;s a Rare $25 Discount on the Nintendo Switch OLED Right Now](https://www.wired.com/story/nintendo-switch-oled-deal-april-2024/)
+ - [Alphabet Q1: revenue up 15% YoY to $80.5B, net income up 57% to $23.7B, Google Cloud revenue up 28% to $9.6B, and headcount down 5%+; GOOG up 13%+ after hours &lpar;Alphabet&rpar;](http://www.techmeme.com/240425/p28#a240425p28)
+ - [Microsoft Q3: revenue up 17% YoY to $61.9B, net income up 20% to $21.9B, Office Commercial revenue up 13%, LinkedIn revenue up 10%; stock is up 5% after hours &lpar;Microsoft&rpar;](http://www.techmeme.com/240425/p27#a240425p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

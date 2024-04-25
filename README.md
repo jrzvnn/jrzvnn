@@ -169,7 +169,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Cloud data management startup Rubrik opens up 20% at $38.60 per share in its NYSE debut, after raising $752M at a $5.6B valuation &lpar;CNBC&rpar;](http://www.techmeme.com/240425/p21#a240425p21)
  - [Reddit is down, as an error message tells users to ‘try again later’](https://www.theverge.com/2024/4/25/24140339/reddit-down-outage-error-try-again-later)
  - [13 Best Outdoor Security Cameras &lpar;2024&rpar;: Battery-Powered, LTE, No Subscription](https://www.wired.com/gallery/best-outdoor-security-cameras/)
- - [Threads will now automatically filter out offensive words](https://www.theverge.com/2024/4/25/24140027/threads-hidden-words-filter-offensive-words)<!-- TECH:END -->
+ - [Threads will now automatically filter out offensive words from your feeds](https://www.theverge.com/2024/4/25/24140027/threads-hidden-words-filter-offensive-words)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

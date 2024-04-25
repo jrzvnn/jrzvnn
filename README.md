@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Card promotion offers users 10% cash back on Nike purchases](https://appleinsider.com/articles/24/04/25/apple-card-promotion-offers-users-10-cash-back-on-nike-purchases?utm_medium=rss)
+ - [Spyware dealers could face visa restrictions](https://www.theverge.com/2024/4/25/24140391/commercial-spyware-visa-restrictions-state-department)
  - [Garry’s Mod is taking down decades of Nintendo-related add-ons](https://www.theverge.com/2024/4/25/24140246/garrys-mod-nintendo-copyright-takedowns-dmca)
  - [Threads expands Hidden Words to let users filter out words, phrases, or emoji, and tests the option to mute notifications and ways to select who can quote posts &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240425/p23#a240425p23)
- - [Hands-on: this self-transforming Megatron is as badass as it is expensive](https://www.theverge.com/2024/4/25/24138325/transformers-robosen-megatron-self-converting-robot-toy-hasbro)
- - [Google is updating Android TVs to fix a big Gmail privacy problem](https://www.theverge.com/2024/4/25/24140152/google-android-tv-gmail-email-hack-browser-expose)
- - [Cities are ending their ShotSpotter contracts, but the sensors themselves are staying](https://www.theverge.com/2024/4/25/24140272/shotspotter-sensors-chicago-contract-ends)<!-- TECH:END -->
+ - [Hands-on: this self-transforming Megatron is as badass as it is expensive](https://www.theverge.com/2024/4/25/24138325/transformers-robosen-megatron-self-converting-robot-toy-hasbro)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

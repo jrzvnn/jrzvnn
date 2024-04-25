@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: a Huawei-led consortium, backed by Chinese government funding, aims to compete with Nvidia by making high-bandwidth memory chips, used in GPUs, by 2026 &lpar;The Information&rpar;](http://www.techmeme.com/240425/p17#a240425p17)
  - [Google Meet now lets you switch devices without hanging up](https://www.theverge.com/2024/4/25/24140005/google-meet-easy-call-device-transfer-switch-here)
  - [Dreame X30 Ultra Review: A Robot Vacuum With Flex Arms and Detachable Mop Pads](https://www.wired.com/review/dreame-x30-ultra-robot-vac-mop/)
  - [Apple blocked Spotify’s latest EU update, again](https://www.theverge.com/2024/4/24/24139335/spotify-apple-eu-ios-app-update-submission-antitrust-dma)
- - [If you&#39;re seeing canceled Apple iPhone trade-in notifications today, you&#39;re not alone](https://appleinsider.com/articles/24/04/25/if-youre-seeing-canceled-apple-iphone-trade-in-notifications-today-youre-not-alone?utm_medium=rss)
- - [Sources: Microsoft has scrambled to respond to new attacks from the Russia-linked SolarWinds hackers, as its engineers prioritize security over new features &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240425/p16#a240425p16)<!-- TECH:END -->
+ - [If you&#39;re seeing canceled Apple iPhone trade-in notifications today, you&#39;re not alone](https://appleinsider.com/articles/24/04/25/if-youre-seeing-canceled-apple-iphone-trade-in-notifications-today-youre-not-alone?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

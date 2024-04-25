@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`The right man in the wrong place can make all the difference in the world`](http://9gag.com/gag/aVvOX3n)
- - 😝 [Anyone else notice this?](http://9gag.com/gag/aqymNyM)
- - 💣 [What a cute... Wait a minute](http://9gag.com/gag/a7o5bDL)
  - 😝 [California mayor and his security detail attacked while recording promo for California.](http://9gag.com/gag/apRqBZD)
- - 👉 [Gothing withing](http://9gag.com/gag/aoyz90n)<!-- MEMES:END -->
+ - 😝 [Engines soundtracks](http://9gag.com/gag/ae9N0Bv)
+ - 💣 [Cultural exchange seems to be successful](http://9gag.com/gag/a87WYr1)
+ - 😝 [Love](http://9gag.com/gag/aQzq8Zq)
+ - 👉 [The Poll](http://9gag.com/gag/aAyY1p0)<!-- MEMES:END -->
 
 ---
 

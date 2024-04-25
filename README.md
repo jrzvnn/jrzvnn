@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It\u2019s a mesmerizing sight](http://9gag.com/gag/aVvOW68)
- - 😝 [A simple trick to solve hard problem](http://9gag.com/gag/aO8qK53)
- - 💣 [Nice critique of when gov helps bigcorp with taxpayer&#39;s money.](http://9gag.com/gag/aXPbX0v)
- - 😝 [This is why you only load ONE round when teaching an newbie shooter.. almost self PEPSI](http://9gag.com/gag/aLnKR4z)
- - 👉 [Hi mom](http://9gag.com/gag/aD20AVd)<!-- MEMES:END -->
+ - 😝 [9gaggers love this](http://9gag.com/gag/amoXNPo)
+ - 😝 [Swifties can suck it.... video was removed from Twitter... please share.](http://9gag.com/gag/aByKrL1)
+ - 💣 [He found out.](http://9gag.com/gag/aPAv4dB)
+ - 😝 [That&#39;s the secret guys](http://9gag.com/gag/aKGzgL1)
+ - 👉 [Cultural exchange seems to be successful](http://9gag.com/gag/a87WYr1)<!-- MEMES:END -->
 
 ---
 

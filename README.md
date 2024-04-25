@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cultural exchange seems to be successful](http://9gag.com/gag/a87WYr1)
- - 😝 [Does this non woke studio even exist???](http://9gag.com/gag/ayN5d4r)
+ - 😝 [Gothing withing](http://9gag.com/gag/aoyz90n)
+ - 😝 [Swifties can suck it.... video was removed from Twitter... please share.](http://9gag.com/gag/aByKrL1)
  - 💣 [Vegans block entrance to Burger Place - I love that dude telling them what&#39;s what.](http://9gag.com/gag/aE0w7Bx)
- - 😝 [Ya stubby little cant](http://9gag.com/gag/axyN20K)
- - 👉 [What a cute... Wait a minute](http://9gag.com/gag/a7o5bDL)<!-- MEMES:END -->
+ - 😝 [What a cute... Wait a minute](http://9gag.com/gag/a7o5bDL)
+ - 👉 [Cultural exchange seems to be successful](http://9gag.com/gag/a87WYr1)<!-- MEMES:END -->
 
 ---
 

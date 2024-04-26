@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NHTSA finds that Tesla&#39;s driver-assist features are insufficient at keeping drivers engaged in the task of driving and links them to 100+ crashes and 10+ deaths &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/240426/p8#a240426p8)
+ - [Apple finally pulls generative AI nude apps from the App Store](https://appleinsider.com/articles/24/04/26/apple-finally-pulls-generative-ai-nude-apps-from-the-app-store?utm_medium=rss)
  - [16 Best USB-C Cables &lpar;2024&rpar;: For iPhones, Android Phones, Tablets, and Laptops](https://www.wired.com/gallery/best-usb-c-cables/)
  - [Tesla’s Autopilot is under investigation again following ‘recall’ software update](https://www.theverge.com/2024/4/26/24141403/tesla-autopilot-nhtsa-investigation-recall-software-fix)
- - [New EU regulations target Shein’s counterfeit fashion problem](https://www.theverge.com/2024/4/26/24141330/shein-fast-fashion-eu-digital-services-act-counterfeit-intellectual-property)
- - [Tesla’s Autopilot and Full Self-Driving linked to hundreds of crashes, dozens of deaths](https://www.theverge.com/2024/4/26/24141361/tesla-autopilot-fsd-nhtsa-investigation-report-crash-death)
- - [Apple removes three AI image generation apps from the App Store after 404 Media probe found the apps advertised the ability to create nonconsensual nude images &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/240426/p7#a240426p7)<!-- TECH:END -->
+ - [New EU regulations target Shein’s counterfeit fashion problem](https://www.theverge.com/2024/4/26/24141330/shein-fast-fashion-eu-digital-services-act-counterfeit-intellectual-property)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

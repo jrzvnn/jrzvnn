@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ben is smart enough not to ask questions](http://9gag.com/gag/a0e9pQq)
- - 😝 [I can fix her](http://9gag.com/gag/a9ydPVK)
- - 💣 [He found out.](http://9gag.com/gag/aPAv4dB)
- - 😝 [The delusion](http://9gag.com/gag/aoyz0Ae)
- - 👉 [What a cute... Wait a minute](http://9gag.com/gag/a7o5bDL)<!-- MEMES:END -->
+ - 😝 [Miss +](http://9gag.com/gag/a4P4ZPy)
+ - 😝 [Cultural exchange seems to be successful](http://9gag.com/gag/a87WYr1)
+ - 💣 [Poland!](http://9gag.com/gag/amoX8KV)
+ - 😝 [He found out.](http://9gag.com/gag/aPAv4dB)
+ - 👉 [I can fix her](http://9gag.com/gag/a9ydPVK)<!-- MEMES:END -->
 
 ---
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I love Irish girls](http://9gag.com/gag/an7YN2n)
- - 😝 [Love](http://9gag.com/gag/aQzq8Zq)
- - 💣 [California mayor and his security detail attacked while recording promo for California.](http://9gag.com/gag/apRqBZD)
- - 😝 [Man Confronts Toronto Police In a LGBTQ Police Car.](http://9gag.com/gag/aNDeW0w)
- - 👉 [A short and witty title does the trick](http://9gag.com/gag/agmy0Ag)<!-- MEMES:END -->
+ - 😝 [Scared? Just Spin!](http://9gag.com/gag/aLnK9XW)
+ - 😝 [Soul is better](http://9gag.com/gag/aO8qvv2)
+ - 💣 [Love](http://9gag.com/gag/aQzq8Zq)
+ - 😝 [`The right man in the wrong place can make all the difference in the world`](http://9gag.com/gag/aVvOX3n)
+ - 👉 [Fallout](http://9gag.com/gag/a9ydYO1)<!-- MEMES:END -->
 
 ---
 

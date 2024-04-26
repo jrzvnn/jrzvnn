@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Thoma Bravo agrees to buy UK-based cyber security company Darktrace for $7.75 per share, a 20% premium on its April 25 closing price, valuing the company at $5B &lpar;Will Louch/Financial Times&rpar;](http://www.techmeme.com/240426/p2#a240426p2)
  - [Best Internet Providers for Gaming in 2024     - CNET](https://www.cnet.com/home/internet/best-internet-providers-for-gaming/#ftag=CAD590a51e)
  - [ByteDance says it has no plans to sell TikTok, responding to a report suggesting that it is considering scenarios for selling a majority stake in US TikTok &lpar;Sherry Qin/Wall Street Journal&rpar;](http://www.techmeme.com/240426/p1#a240426p1)
  - [TechInsights teardown: Huawei&#39;s Pura 70 uses a 7nm chip, similar to the Mate 60, and a Kirin 9010 processor, a newer version of the Mate 60 Pro&#39;s Kirin 9000s &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/240425/p43#a240425p43)
- - [Best 55-Inch TVs for 2024: Hisense, Samsung and More     - CNET](https://www.cnet.com/tech/home-entertainment/best-55-inch-tv/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints and Answer: Help for April 26, #1042     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-26-1042/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best 55-Inch TVs for 2024: Hisense, Samsung and More     - CNET](https://www.cnet.com/tech/home-entertainment/best-55-inch-tv/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

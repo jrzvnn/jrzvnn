@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ben is smart enough not to ask questions](http://9gag.com/gag/a0e9pQq)
- - 😝 [You get a refund](http://9gag.com/gag/aPAv4yK)
- - 💣 [Poland!](http://9gag.com/gag/amoX8KV)
- - 😝 [Miss +](http://9gag.com/gag/a4P4ZPy)
- - 👉 [What festival is this bro...](http://9gag.com/gag/aVvOXV2)<!-- MEMES:END -->
+ - 😝 [Swifties can suck it.... video was removed from Twitter... please share.](http://9gag.com/gag/aByKrL1)
+ - 😝 [Poland!](http://9gag.com/gag/amoX8KV)
+ - 💣 [It\u2019s a mesmerizing sight](http://9gag.com/gag/aVvOW68)
+ - 😝 [What a cute... Wait a minute](http://9gag.com/gag/a7o5bDL)
+ - 👉 [Cultural exchange seems to be successful](http://9gag.com/gag/a87WYr1)<!-- MEMES:END -->
 
 ---
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Does this non woke studio even exist???](http://9gag.com/gag/ayN5d4r)
- - 😝 [Ben is smart enough not to ask questions](http://9gag.com/gag/a0e9pQq)
- - 💣 [Get scammed](http://9gag.com/gag/aByK1W1)
- - 😝 [Vegans block entrance to Burger Place - I love that dude telling them what&#39;s what.](http://9gag.com/gag/aE0w7Bx)
- - 👉 [Love](http://9gag.com/gag/aQzq8Zq)<!-- MEMES:END -->
+ - 😝 [`Slide cancel`](http://9gag.com/gag/apRqpgE)
+ - 😝 [What a cute... Wait a minute](http://9gag.com/gag/a7o5bDL)
+ - 💣 [Poland!](http://9gag.com/gag/amoX8KV)
+ - 😝 [I can fix her](http://9gag.com/gag/a9ydPVK)
+ - 👉 [Show me the picture of the dumbest movie deaths](http://9gag.com/gag/aXPbA4z)<!-- MEMES:END -->
 
 ---
 

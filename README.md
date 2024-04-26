@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Live action meme &lpar;@dissy.official&rpar;](http://9gag.com/gag/a4P4Zzd)
- - 😝 [Cat chase POV](http://9gag.com/gag/aQzqMqw)
- - 💣 [Vegans block entrance to Burger Place - I love that dude telling them what&#39;s what.](http://9gag.com/gag/aE0w7Bx)
- - 😝 [Bro went home and told his family about the racism he experienced](http://9gag.com/gag/aByKwGP)
- - 👉 [Shut up and take my money.](http://9gag.com/gag/axyNgbL)<!-- MEMES:END -->
+ - 😝 [I can fix her](http://9gag.com/gag/a9ydPVK)
+ - 😝 [Aeroflot 593 crashed in 1994 when the pilot let his children control the aircraft. This is the crash animation and audio log.](http://9gag.com/gag/a1mAM2w)
+ - 💣 [He found out.](http://9gag.com/gag/aPAv4dB)
+ - 😝 [From 10 tons to 10/10](http://9gag.com/gag/a9ydW96)
+ - 👉 [Poland!](http://9gag.com/gag/amoX8KV)<!-- MEMES:END -->
 
 ---
 

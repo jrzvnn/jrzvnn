@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Govee Smart Lights &lpar;2024&rpar;: M1 Light Strip, Envisual T2, and More Tips](https://www.wired.com/gallery/best-govee-smart-lights/)
  - [NHTSA finds that Tesla&#39;s driver-assist features are insufficient at keeping drivers engaged in the task of driving and links them to 100+ crashes and 10+ deaths &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/240426/p8#a240426p8)
  - [Apple finally pulls generative AI nude apps from the App Store](https://appleinsider.com/articles/24/04/26/apple-finally-pulls-generative-ai-nude-apps-from-the-app-store?utm_medium=rss)
  - [16 Best USB-C Cables &lpar;2024&rpar;: For iPhones, Android Phones, Tablets, and Laptops](https://www.wired.com/gallery/best-usb-c-cables/)
- - [Tesla’s Autopilot is under investigation again following ‘recall’ software update](https://www.theverge.com/2024/4/26/24141403/tesla-autopilot-nhtsa-investigation-recall-software-fix)
- - [New EU regulations target Shein’s counterfeit fashion problem](https://www.theverge.com/2024/4/26/24141330/shein-fast-fashion-eu-digital-services-act-counterfeit-intellectual-property)<!-- TECH:END -->
+ - [Tesla’s Autopilot is under investigation again following ‘recall’ software update](https://www.theverge.com/2024/4/26/24141403/tesla-autopilot-nhtsa-investigation-recall-software-fix)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

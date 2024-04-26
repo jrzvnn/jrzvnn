@@ -169,7 +169,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Discord bans Spy Pet-affiliated accounts, which were scraping 12K+ Discord servers to archive and sell user data, and says it is considering legal action &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/240426/p11#a240426p11)
  - [Space Vacation’s gorgeous prints celebrate fan-favorite movies](https://www.theverge.com/24141564/space-vacation-samar-haddad-art-prints-sci-fi-interview)
  - [How to connect to FTP servers in macOS using modern apps](https://appleinsider.com/inside/macos/tips/how-to-connect-to-ftp-servers-in-macos-using-modern-apps?utm_medium=rss)
- - [Apple&#39;s latest supplier list shows the challenges the company is facing in diversifying its supply chain, as its Chinese suppliers grew from 48 to 52 in 2023 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240426/p10#a240426p10)<!-- TECH:END -->
+ - [Celebrate Mom With an Extra 20% Off Nike Sneakers and Clothing     - CNET](https://www.cnet.com/deals/celebrate-mom-with-an-extra-20-off-nike-sneakers-and-clothing/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

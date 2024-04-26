@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What’s the Safest Seat on an Airplane?](https://www.wired.com/story/whats-the-safest-seat-on-an-airplane/)
  - [Peloton producer says Apple Watch saved her life](https://appleinsider.com/articles/24/04/26/peloton-producer-says-apple-watch-saved-her-life?utm_medium=rss)
  - [Can’t Afford a House? Buy a Piece of One Instead](https://www.wired.com/story/fractional-home-ownership-startups/)
- - [Best Buy Launches Huge 3-Day Sale on Top Tech and Major Appliances     - CNET](https://www.cnet.com/deals/best-buy-launches-huge-3-day-sale-on-top-tech-and-major-appliances/#ftag=CAD590a51e)
- - [Thoma Bravo agrees to buy UK-based cyber security company Darktrace for $7.75 per share, a 20% premium on its April 25 closing price, valuing the company at $5B &lpar;Financial Times&rpar;](http://www.techmeme.com/240426/p2#a240426p2)
- - [Best Internet Providers for Gaming in 2024     - CNET](https://www.cnet.com/home/internet/best-internet-providers-for-gaming/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Snag 2 Anker USB-C Fast Chargers and Cables for Only $13 With Amazon Prime     - CNET](https://www.cnet.com/deals/snag-two-anker-usb-c-fast-chargers-and-cables-for-just-13-with-prime/#ftag=CAD590a51e)
+ - [Best Savings Rates Today, April 26, 2024: Save More With One of These High-Yield Savings Accounts     - CNET](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-april-26-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

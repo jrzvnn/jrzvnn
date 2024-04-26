@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Eken fixes ‘terrible’ video doorbell issue that could let someone spy on you](https://www.theverge.com/2024/4/26/24141844/eken-firmware-update-consumer-reports-video-doorbell-security-vulnerability)
  - [Alphabet closes above a $2T market cap for the first time; the stock rose 10%, its biggest one-day jump since July 2015, resulting in a valuation of $2.15T &lpar;Ryan Vlastelica/Bloomberg&rpar;](http://www.techmeme.com/240426/p16#a240426p16)
  - [Samsung Freestanding Electric Range     - CNET](https://www.cnet.com/home/kitchen-and-household/samsung-freestanding-electric-range-dpnl/#ftag=CAD590a51e)
  - [NFL Draft 2024: How to Watch Tonight, First Round Grades, Second Round Picks Order     - CNET](https://www.cnet.com/tech/services-and-software/nfl-draft-2024-how-to-watch-tonight-first-round-grades-second-round-picks-order/#ftag=CAD590a51e)
- - [Samsung Smart Freestanding Gas Range     - CNET](https://www.cnet.com/home/kitchen-and-household/samsung-smart-freestanding-gas-range-dpnl/#ftag=CAD590a51e)
- - [LG Smart Window AC     - CNET](https://www.cnet.com/home/kitchen-and-household/lg-smart-window-ac-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung Smart Freestanding Gas Range     - CNET](https://www.cnet.com/home/kitchen-and-household/samsung-smart-freestanding-gas-range-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

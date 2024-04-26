@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tesla Autopilot Was Uniquely Risky—and May Still Be](https://www.wired.com/story/tesla-autopilot-risky-deaths-crashes-nhtsa-investigation/)
  - [I traded in my MacBook and now I’m a desktop convert](https://www.theverge.com/24139303/mac-mini-laptops-desktops)
  - [As Intel reports disappointing earnings and guidance, and becomes S&amp;P&#39;s worst performing stock in 2024, a look at the long history of company&#39;s missteps &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240426/p13#a240426p13)
  - [How to delete the data Google has on you](https://www.theverge.com/24141741/google-data-delete-how-to)
- - [Google adds AI conversation practice for English language learners](https://www.theverge.com/2024/4/26/24141631/google-search-ai-conversational-language-translation-english)
- - [The 33 Best Shows on Amazon Prime Right Now](https://www.wired.com/story/best-shows-amazon-prime/)<!-- TECH:END -->
+ - [Google adds AI conversation practice for English language learners](https://www.theverge.com/2024/4/26/24141631/google-search-ai-conversational-language-translation-english)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

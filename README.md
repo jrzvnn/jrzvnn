@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ben is smart enough not to ask questions](http://9gag.com/gag/a0e9pQq)
- - 😝 [Aeroflot 593 crashed in 1994 when the pilot let his children control the aircraft. This is the crash animation and audio log.](http://9gag.com/gag/a1mAM2w)
- - 💣 [The delusion](http://9gag.com/gag/aoyz0Ae)
- - 😝 [Poland!](http://9gag.com/gag/amoX8KV)
- - 👉 [I can fix her](http://9gag.com/gag/a9ydPVK)<!-- MEMES:END -->
+ - 😝 [Nice critique of when gov helps bigcorp with taxpayer&#39;s money.](http://9gag.com/gag/aXPbX0v)
+ - 😝 [The delusion](http://9gag.com/gag/aoyz0Ae)
+ - 💣 [Aeroflot 593 crashed in 1994 when the pilot let his children control the aircraft. This is the crash animation and audio log.](http://9gag.com/gag/a1mAM2w)
+ - 😝 [I can fix her](http://9gag.com/gag/a9ydPVK)
+ - 👉 [What a cute... Wait a minute](http://9gag.com/gag/a7o5bDL)<!-- MEMES:END -->
 
 ---
 

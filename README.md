@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Miss +](http://9gag.com/gag/a4P4ZPy)
- - 😝 [Cultural exchange seems to be successful](http://9gag.com/gag/a87WYr1)
- - 💣 [Poland!](http://9gag.com/gag/amoX8KV)
- - 😝 [He found out.](http://9gag.com/gag/aPAv4dB)
- - 👉 [I can fix her](http://9gag.com/gag/a9ydPVK)<!-- MEMES:END -->
+ - 😝 [My time to repost](http://9gag.com/gag/a87W47p)
+ - 😝 [Scared? Just Spin!](http://9gag.com/gag/aLnK9XW)
+ - 💣 [Someone should report him.](http://9gag.com/gag/aD20o3d)
+ - 😝 [Man Confronts Toronto Police In a LGBTQ Police Car.](http://9gag.com/gag/aNDeW0w)
+ - 👉 [Feminist are angry at this one](http://9gag.com/gag/aW4Z652)<!-- MEMES:END -->
 
 ---
 

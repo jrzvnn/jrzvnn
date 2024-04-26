@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What a cute... Wait a minute](http://9gag.com/gag/a7o5bDL)
- - 😝 [Miss +](http://9gag.com/gag/a4P4ZPy)
- - 💣 [Have you guys seen this shit yet?](http://9gag.com/gag/a87Wp11)
  - 😝 [Aeroflot 593 crashed in 1994 when the pilot let his children control the aircraft. This is the crash animation and audio log.](http://9gag.com/gag/a1mAM2w)
- - 👉 [Poland!](http://9gag.com/gag/amoX8KV)<!-- MEMES:END -->
+ - 😝 [Swifties can suck it.... video was removed from Twitter... please share.](http://9gag.com/gag/aByKrL1)
+ - 💣 [Someone should report him.](http://9gag.com/gag/aD20o3d)
+ - 😝 [I can fix her](http://9gag.com/gag/a9ydPVK)
+ - 👉 [Ben is smart enough not to ask questions](http://9gag.com/gag/a0e9pQq)<!-- MEMES:END -->
 
 ---
 

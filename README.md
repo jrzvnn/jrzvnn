@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to stop being reminded of memories you don’t want to be reminded of](https://www.theverge.com/24140444/memories-photos-facebook-onenote-how-to)
- - [ByteDance would rather shut down US TikTok than sell it](https://appleinsider.com/articles/24/04/26/bytedance-would-rather-shut-down-us-tiktok-than-sell-it?utm_medium=rss)
- - [Amazon drops Apple&#39;s M3 MacBook Air to record low $989](https://appleinsider.com/articles/24/04/26/amazon-drops-apples-m3-macbook-air-to-record-low-989?utm_medium=rss)
- - [Sale or No Sale, TikTok Will Never Be the Same](https://www.wired.com/story/plaintext-sale-or-no-sale-tiktok-will-never-be-the-same/)
- - [Unistellar Odyssey Pro review: Unlock pro-level astronomy with your iPhone from your backyard](https://appleinsider.com/articles/24/04/26/unistellar-odyssey-pro-review-unlock-pro-level-astronomy-with-your-iphone-from-your-backyard?utm_medium=rss)<!-- TECH:END -->
+ - [Apple removes three AI image generation apps from the App Store after 404 Media probe found the apps advertised the ability to create nonconsensual nude images &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/240426/p7#a240426p7)
+ - [14 Best Car Phone Mounts, Chargers, and Accessories &lpar;2024&rpar;: Wireless Chargers, MagSafe Holders, and Dashcams](https://www.wired.com/gallery/best-car-phone-mounts-chargers-and-accessories/)
+ - [What’s next with AI?](https://www.theverge.com/press-room/2024/4/26/24139468/artificial-intelligence-survey-data)
+ - [Best PlayStation Plus Deals: Sony Has It on Lock     - CNET](https://www.cnet.com/deals/best-playstation-plus-deals/#ftag=CAD590a51e)
+ - [How to Use Your New Credit Card Before It’s Even Delivered     - CNET](https://www.cnet.com/personal-finance/how-to-use-your-new-credit-card-before-its-even-delivered/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

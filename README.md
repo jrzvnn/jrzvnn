@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ByteDance would rather shut down US TikTok than sell it](https://appleinsider.com/articles/24/04/26/bytedance-would-rather-shut-down-us-tiktok-than-sell-it?utm_medium=rss)
  - [Amazon drops Apple&#39;s M3 MacBook Air to record low $989](https://appleinsider.com/articles/24/04/26/amazon-drops-apples-m3-macbook-air-to-record-low-989?utm_medium=rss)
  - [Sale or No Sale, TikTok Will Never Be the Same](https://www.wired.com/story/plaintext-sale-or-no-sale-tiktok-will-never-be-the-same/)
  - [Unistellar Odyssey Pro review: Unlock pro-level astronomy with your iPhone from your backyard](https://appleinsider.com/articles/24/04/26/unistellar-odyssey-pro-review-unlock-pro-level-astronomy-with-your-iphone-from-your-backyard?utm_medium=rss)
- - [A look at Abu Dhabi-based AI startup G42, as sources say US intelligence officials fixated on CEO Xiao Peng ahead of its China divestment and Microsoft deal &lpar;Bloomberg&rpar;](http://www.techmeme.com/240426/p6#a240426p6)
- - [15 Best Coffee Subscriptions to Keep You Wired &lpar;2024&rpar;: Blends, Single-Origin, Small Batch, and Local Roasters](https://www.wired.com/gallery/best-coffee-subscriptions/)<!-- TECH:END -->
+ - [A look at Abu Dhabi-based AI startup G42, as sources say US intelligence officials fixated on CEO Xiao Peng ahead of its China divestment and Microsoft deal &lpar;Bloomberg&rpar;](http://www.techmeme.com/240426/p6#a240426p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gothing withing](http://9gag.com/gag/aoyz90n)
- - 😝 [Ben is smart enough not to ask questions](http://9gag.com/gag/a0e9pQq)
- - 💣 [What a cute... Wait a minute](http://9gag.com/gag/a7o5bDL)
- - 😝 [Safety First](http://9gag.com/gag/awyrKW4)
- - 👉 [That&#39;s the secret guys](http://9gag.com/gag/aKGzgL1)<!-- MEMES:END -->
+ - 😝 [I love Irish girls](http://9gag.com/gag/an7YN2n)
+ - 😝 [Love](http://9gag.com/gag/aQzq8Zq)
+ - 💣 [California mayor and his security detail attacked while recording promo for California.](http://9gag.com/gag/apRqBZD)
+ - 😝 [Man Confronts Toronto Police In a LGBTQ Police Car.](http://9gag.com/gag/aNDeW0w)
+ - 👉 [A short and witty title does the trick](http://9gag.com/gag/agmy0Ag)<!-- MEMES:END -->
 
 ---
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Former Twilio CEO and co-founder Jeff Lawson buys The Onion from G/O Media, via his new company Global Tetrahedron; Lawson had long wanted to buy the site &lpar;Katie Robertson/New York Times&rpar;](http://www.techmeme.com/240425/p40#a240425p40)
- - [FCC Reportedly Approves T-Mobile&#39;s Deal to Purchase Mint Mobile     - CNET](https://www.cnet.com/tech/mobile/fcc-reportedly-approves-t-mobiles-deal-to-purchase-mint-mobile/#ftag=CAD590a51e)
- - [Arizona TSMC facility continues to fight cultural battles, rising costs &amp; logistical hurdles](https://appleinsider.com/articles/24/04/25/arizona-tsmc-facility-continues-to-fight-cultural-battles-rising-costs-logistical-hurdles?utm_medium=rss)
- - [Consensys sues the US SEC over what it calls the &quot;unlawful seizure of authority&quot; over ethereum, after receiving a Wells notice for its MetaMask wallet product &lpar;CoinDesk&rpar;](http://www.techmeme.com/240425/p39#a240425p39)
- - [Best 4K TV Deals: Save Up to $1,000 on Top TVs From Samsung, LG and More     - CNET](https://www.cnet.com/deals/best-4k-tv-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Worst of WWDC - Apple&#39;s biggest missteps on the way to success](https://appleinsider.com/articles/24/04/25/the-worst-of-wwdc---apples-biggest-missteps-on-the-way-to-success?utm_medium=rss)
+ - [How to Use Apple Managed Device Attestation to secure networks](https://appleinsider.com/inside/ios-17/tips/how-to-use-apple-managed-device-attestation-to-secure-networks?utm_medium=rss)
+ - [Google Thinks It Can Cash In on Generative AI. Microsoft Already Has](https://www.wired.com/story/microsoft-google-earnings-generative-ai/)
+ - [New rules that allow UK law enforcement agencies to seize, destroy, or transfer crypto holdings used for crime before making an arrest take effect &lpar;Camomile Shumba/CoinDesk&rpar;](http://www.techmeme.com/240425/p41#a240425p41)
+ - [How to Shop and Compare Electricity Rates in Connecticut     - CNET](https://www.cnet.com/news/how-to-shop-and-compare-electricity-rates-in-connecticut/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

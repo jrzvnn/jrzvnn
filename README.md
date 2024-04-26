@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This Amazon Deal Sees the Fitbit Sense 2 Drop to Just $140 Today     - CNET](https://www.cnet.com/deals/this-amazon-deal-sees-the-fitbit-sense-2-drop-to-just-140-today/#ftag=CAD590a51e)
  - [Decades of Garry’s Mod Nintendo Uploads Are Disappearing](https://www.wired.com/story/garrys-mod-nintendo-takedowns/)
+ - [Apple Offers Peek at Its AI Language Model as iOS 18 Looms     - CNET](https://www.cnet.com/tech/apple-offers-peek-at-its-ai-language-model-as-ios-18-looms/#ftag=CAD590a51e)
  - [Apple’s last-gen MacBook Pro 16 is on sale for its best price to date](https://www.theverge.com/2024/4/26/24140118/apple-m2-macbook-pro-16-eve-smart-plug-deal-sale)
- - [Congress considers legislation to block DJI drones from running on US communication networks, effectively killing the Chinese company&#39;s US commercial business &lpar;Kate Kelly/New York Times&rpar;](http://www.techmeme.com/240426/p12#a240426p12)
- - [Akira Toriyama’s Sand Land makes a better show than game](https://www.theverge.com/24141497/sand-land-game-anime-hulu-ps5-xbox-akira-toriyama)
- - [Retro gold rush: these emulators are coming to the App Store soon](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)<!-- TECH:END -->
+ - [A $7 Billion US Investment Expands Solar for All: Here Are the Projects in Your State     - CNET](https://www.cnet.com/home/energy-and-utilities/a-7-billion-us-investment-expands-solar-for-all-here-are-the-projects-in-your-state/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

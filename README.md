@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 33 Best Shows on Amazon Prime Right Now](https://www.wired.com/story/best-shows-amazon-prime/)
+ - [The 17 Best Movies on Amazon Prime Right Now](https://www.wired.com/story/best-amazon-prime-movies/)
  - [This Amazon Deal Sees the Fitbit Sense 2 Drop to Just $140 Today     - CNET](https://www.cnet.com/deals/this-amazon-deal-sees-the-fitbit-sense-2-drop-to-just-140-today/#ftag=CAD590a51e)
  - [Decades of Garry’s Mod Nintendo Uploads Are Disappearing](https://www.wired.com/story/garrys-mod-nintendo-takedowns/)
- - [Apple Offers Peek at Its AI Language Model as iOS 18 Looms     - CNET](https://www.cnet.com/tech/apple-offers-peek-at-its-ai-language-model-as-ios-18-looms/#ftag=CAD590a51e)
- - [Apple’s last-gen MacBook Pro 16 is on sale for its best price to date](https://www.theverge.com/2024/4/26/24140118/apple-m2-macbook-pro-16-eve-smart-plug-deal-sale)
- - [A $7 Billion US Investment Expands Solar for All: Here Are the Projects in Your State     - CNET](https://www.cnet.com/home/energy-and-utilities/a-7-billion-us-investment-expands-solar-for-all-here-are-the-projects-in-your-state/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Offers Peek at Its AI Language Model as iOS 18 Looms     - CNET](https://www.cnet.com/tech/apple-offers-peek-at-its-ai-language-model-as-ios-18-looms/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

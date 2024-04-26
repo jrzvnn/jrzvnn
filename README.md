@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My time to repost](http://9gag.com/gag/a87W47p)
- - 😝 [Scared? Just Spin!](http://9gag.com/gag/aLnK9XW)
- - 💣 [Someone should report him.](http://9gag.com/gag/aD20o3d)
+ - 😝 [Live action meme &lpar;@dissy.official&rpar;](http://9gag.com/gag/a4P4Zzd)
  - 😝 [Man Confronts Toronto Police In a LGBTQ Police Car.](http://9gag.com/gag/aNDeW0w)
- - 👉 [Feminist are angry at this one](http://9gag.com/gag/aW4Z652)<!-- MEMES:END -->
+ - 💣 [Word](http://9gag.com/gag/amoXrro)
+ - 😝 [Feminist are angry at this one](http://9gag.com/gag/aW4Z652)
+ - 👉 [Fallout](http://9gag.com/gag/a9ydYO1)<!-- MEMES:END -->
 
 ---
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Vegans block entrance to Burger Place - I love that dude telling them what&#39;s what.](http://9gag.com/gag/aE0w7Bx)
- - 😝 [From 10 tons to 10/10](http://9gag.com/gag/a9ydW96)
- - 💣 [Aeroflot 593 crashed in 1994 when the pilot let his children control the aircraft. This is the crash animation and audio log.](http://9gag.com/gag/a1mAM2w)
- - 😝 [What a cute... Wait a minute](http://9gag.com/gag/a7o5bDL)
- - 👉 [Show me the picture of the dumbest movie deaths](http://9gag.com/gag/aXPbA4z)<!-- MEMES:END -->
+ - 😝 [My man was dead inside](http://9gag.com/gag/an7YjYq)
+ - 😝 [Moooazing](http://9gag.com/gag/an7YbO0)
+ - 💣 [Just another European city](http://9gag.com/gag/ae9NGDm)
+ - 😝 [Counter arguments welcome](http://9gag.com/gag/abA5pyB)
+ - 👉 [The force is strong with this one](http://9gag.com/gag/aZZPmRp)<!-- MEMES:END -->
 
 ---
 

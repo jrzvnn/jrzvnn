@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [She thought every one got their own pot. She ate 1 kg of cheese. We had to order pizza and yes, she wanted one as well.](http://9gag.com/gag/a34YjWr)
- - 😝 [Swifties can suck it.... video was removed from Twitter... please share.](http://9gag.com/gag/aByKrL1)
+ - 😝 [From 10 tons to 10/10](http://9gag.com/gag/a9ydW96)
  - 💣 [What a cute... Wait a minute](http://9gag.com/gag/a7o5bDL)
- - 😝 [Show me the picture of the dumbest movie deaths](http://9gag.com/gag/aXPbA4z)
- - 👉 [Just another European city](http://9gag.com/gag/ae9NGDm)<!-- MEMES:END -->
+ - 😝 [Aeroflot 593 crashed in 1994 when the pilot let his children control the aircraft. This is the crash animation and audio log.](http://9gag.com/gag/a1mAM2w)
+ - 👉 [Show me the picture of the dumbest movie deaths](http://9gag.com/gag/aXPbA4z)<!-- MEMES:END -->
 
 ---
 

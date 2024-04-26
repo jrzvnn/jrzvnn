@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Great horror movie](http://9gag.com/gag/aGy9xwZ)
- - 😝 [Gothing withing](http://9gag.com/gag/aoyz90n)
+ - 😝 [They had us in the first half..](http://9gag.com/gag/adBNpNQ)
+ - 😝 [`The right man in the wrong place can make all the difference in the world`](http://9gag.com/gag/aVvOX3n)
  - 💣 [Aeroflot 593 crashed in 1994 when the pilot let his children control the aircraft. This is the crash animation and audio log.](http://9gag.com/gag/a1mAM2w)
- - 😝 [Swifties can suck it.... video was removed from Twitter... please share.](http://9gag.com/gag/aByKrL1)
- - 👉 [That&#39;s the secret guys](http://9gag.com/gag/aKGzgL1)<!-- MEMES:END -->
+ - 😝 [He found out.](http://9gag.com/gag/aPAv4dB)
+ - 👉 [Can I have Ice Cream mom?](http://9gag.com/gag/aYQbwxw)<!-- MEMES:END -->
 
 ---
 

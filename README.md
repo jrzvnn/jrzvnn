@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is testing &quot;Speaking practice&quot; in Search, which uses a conversational AI bot to let Search Labs users in some countries improve their English skills &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240426/p15#a240426p15)
- - [GE Combo Washer &amp; Electric Dryer     - CNET](https://www.cnet.com/home/kitchen-and-household/ge-combo-washer-electric-dryer-dpnl/#ftag=CAD590a51e)
- - [Meta Expands Its Mixed Reality Beyond the Quest Headsets Explainer video     - CNET](https://www.cnet.com/videos/meta-expands-its-mixed-reality-beyond-the-quest-headsets-explainer/#ftag=CAD590a51e)
- - [Whirlpool 24.5 Cu. Ft. Refrigerator     - CNET](https://www.cnet.com/home/kitchen-and-household/whirlpool-24-5-cu-ft-refrigerator-dpnl/#ftag=CAD590a51e)
- - [LG 50&quot; UQ75 Series Smart webOS TV     - CNET](https://www.cnet.com/tech/home-entertainment/lg-50-uq75-series-smart-webos-tv-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Alphabet closes above a $2T market cap for the first time; the stock rose 10%, its biggest one-day jump since July 2015, resulting in a valuation of $2.15T &lpar;Ryan Vlastelica/Bloomberg&rpar;](http://www.techmeme.com/240426/p16#a240426p16)
+ - [Samsung Freestanding Electric Range     - CNET](https://www.cnet.com/home/kitchen-and-household/samsung-freestanding-electric-range-dpnl/#ftag=CAD590a51e)
+ - [NFL Draft 2024: How to Watch Tonight, First Round Grades, Second Round Picks Order     - CNET](https://www.cnet.com/tech/services-and-software/nfl-draft-2024-how-to-watch-tonight-first-round-grades-second-round-picks-order/#ftag=CAD590a51e)
+ - [Samsung Smart Freestanding Gas Range     - CNET](https://www.cnet.com/home/kitchen-and-household/samsung-smart-freestanding-gas-range-dpnl/#ftag=CAD590a51e)
+ - [LG Smart Window AC     - CNET](https://www.cnet.com/home/kitchen-and-household/lg-smart-window-ac-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Drake has taken down his diss track featuring AI Tupac](https://www.theverge.com/2024/4/26/24141595/drake-taylor-made-ai-tupac-takedown)
+ - [Discord bans Spy Pet-affiliated accounts, which were scraping 12K+ Discord servers to archive and sell user data, and says it is considering legal action &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/240426/p11#a240426p11)
+ - [Space Vacation’s gorgeous prints celebrate fan-favorite movies](https://www.theverge.com/24141564/space-vacation-samar-haddad-art-prints-sci-fi-interview)
  - [How to connect to FTP servers in macOS using modern apps](https://appleinsider.com/inside/macos/tips/how-to-connect-to-ftp-servers-in-macos-using-modern-apps?utm_medium=rss)
- - [Apple&#39;s latest supplier list shows the challenges the company is facing in diversifying its supply chain, as its Chinese suppliers grew from 48 to 52 in 2023 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240426/p10#a240426p10)
- - [Google Pixel 8A leak reveals seven years of security updates](https://www.theverge.com/2024/4/26/24141503/google-pixel-8a-leaked-specs-security-updates)
- - [Columbia University has a doxxing problem](https://www.theverge.com/24141073/columbia-doxxing-truck-student-encampment-palestine-israel)
- - [Save on These Ugreen Battery Packs and Chargers While You Still Can     - CNET](https://www.cnet.com/deals/save-on-these-ugreen-battery-packs-and-chargers-while-you-still-can/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s latest supplier list shows the challenges the company is facing in diversifying its supply chain, as its Chinese suppliers grew from 48 to 52 in 2023 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240426/p10#a240426p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

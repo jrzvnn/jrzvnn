@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The mouse get humbled](http://9gag.com/gag/aXPb93V)
- - 😝 [Scared? Just Spin!](http://9gag.com/gag/aLnK9XW)
- - 💣 [Someone should report him.](http://9gag.com/gag/aD20o3d)
- - 😝 [My time to repost](http://9gag.com/gag/a87W47p)
- - 👉 [Soul is better](http://9gag.com/gag/aO8qvv2)<!-- MEMES:END -->
+ - 😝 [Ben is smart enough not to ask questions](http://9gag.com/gag/a0e9pQq)
+ - 😝 [Aeroflot 593 crashed in 1994 when the pilot let his children control the aircraft. This is the crash animation and audio log.](http://9gag.com/gag/a1mAM2w)
+ - 💣 [The delusion](http://9gag.com/gag/aoyz0Ae)
+ - 😝 [Poland!](http://9gag.com/gag/amoX8KV)
+ - 👉 [I can fix her](http://9gag.com/gag/a9ydPVK)<!-- MEMES:END -->
 
 ---
 

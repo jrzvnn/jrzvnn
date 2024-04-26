@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Soul is better](http://9gag.com/gag/aO8qvv2)
- - 😝 [My time to repost](http://9gag.com/gag/a87W47p)
- - 💣 [Scared? Just Spin!](http://9gag.com/gag/aLnK9XW)
- - 😝 [Man Confronts Toronto Police In a LGBTQ Police Car.](http://9gag.com/gag/aNDeW0w)
- - 👉 [Feminist are angry at this one](http://9gag.com/gag/aW4Z652)<!-- MEMES:END -->
+ - 😝 [Ben is smart enough not to ask questions](http://9gag.com/gag/a0e9pQq)
+ - 😝 [I can fix her](http://9gag.com/gag/a9ydPVK)
+ - 💣 [He found out.](http://9gag.com/gag/aPAv4dB)
+ - 😝 [The delusion](http://9gag.com/gag/aoyz0Ae)
+ - 👉 [What a cute... Wait a minute](http://9gag.com/gag/a7o5bDL)<!-- MEMES:END -->
 
 ---
 

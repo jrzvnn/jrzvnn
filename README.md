@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cultural exchange seems to be successful](http://9gag.com/gag/a87WYr1)
  - 😝 [Ben is smart enough not to ask questions](http://9gag.com/gag/a0e9pQq)
- - 💣 [Cybertruck comes with a free option of chopping vegetables and yet people still complain](http://9gag.com/gag/an7Yyo0)
- - 😝 [He found out.](http://9gag.com/gag/aPAv4dB)
- - 👉 [Poland!](http://9gag.com/gag/amoX8KV)<!-- MEMES:END -->
+ - 😝 [Miss +](http://9gag.com/gag/a4P4ZPy)
+ - 💣 [He found out.](http://9gag.com/gag/aPAv4dB)
+ - 😝 [Aeroflot 593 crashed in 1994 when the pilot let his children control the aircraft. This is the crash animation and audio log.](http://9gag.com/gag/a1mAM2w)
+ - 👉 [Cultural exchange seems to be successful](http://9gag.com/gag/a87WYr1)<!-- MEMES:END -->
 
 ---
 

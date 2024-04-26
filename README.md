@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I wonder how much horsepower it has?](http://9gag.com/gag/apRqpbB)
- - 😝 [Poland!](http://9gag.com/gag/amoX8KV)
- - 💣 [Aeroflot 593 crashed in 1994 when the pilot let his children control the aircraft. This is the crash animation and audio log.](http://9gag.com/gag/a1mAM2w)
- - 😝 [`Slide cancel`](http://9gag.com/gag/apRqpgE)
- - 👉 [From 10 tons to 10/10](http://9gag.com/gag/a9ydW96)<!-- MEMES:END -->
+ - 😝 [Aeroflot 593 crashed in 1994 when the pilot let his children control the aircraft. This is the crash animation and audio log.](http://9gag.com/gag/a1mAM2w)
+ - 😝 [Swifties can suck it.... video was removed from Twitter... please share.](http://9gag.com/gag/aByKrL1)
+ - 💣 [I can fix her](http://9gag.com/gag/a9ydPVK)
+ - 😝 [Show me the picture of the dumbest movie deaths](http://9gag.com/gag/aXPbA4z)
+ - 👉 [`Slide cancel`](http://9gag.com/gag/apRqpgE)<!-- MEMES:END -->
 
 ---
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lego is bringing summer vibes with K.K. Slider and new Animal Crossing sets](https://www.theverge.com/2024/4/26/24141487/lego-animal-crossing-kk-slider)
  - [Sources: China&#39;s muted response to TikTok bill reflects the view that TikTok is of less strategic value than Huawei; China prefers TikTok US closure to sale &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240426/p9#a240426p9)
  - [10 Best Lubes &lpar;2024&rpar;: Water-Based, Silicone, and Lube Dispensers](https://www.wired.com/gallery/best-lubes/)
  - [One year with the Light Phone 2](https://www.theverge.com/24140675/light-phone-2-one-year-retrospect)
- - [DJI might get banned next in the US](https://www.theverge.com/2024/4/26/24141369/dji-ban-china-countering-ccp-drones-act)
- - [The Best Govee Smart Lights &lpar;2024&rpar;: M1 Light Strip, Envisual T2, and More Tips](https://www.wired.com/gallery/best-govee-smart-lights/)<!-- TECH:END -->
+ - [DJI might get banned next in the US](https://www.theverge.com/2024/4/26/24141369/dji-ban-china-countering-ccp-drones-act)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

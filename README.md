@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Pixel 8A leak reveals seven years of security updates](https://www.theverge.com/2024/4/26/24141503/google-pixel-8a-leaked-specs-security-updates)
+ - [Columbia University has a doxxing problem](https://www.theverge.com/24141073/columbia-doxxing-truck-student-encampment-palestine-israel)
  - [Lego is bringing summer vibes with K.K. Slider and new Animal Crossing sets](https://www.theverge.com/2024/4/26/24141487/lego-animal-crossing-kk-slider)
  - [Sources: China&#39;s muted response to TikTok bill reflects the view that TikTok is of less strategic value than Huawei; China prefers TikTok US closure to sale &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240426/p9#a240426p9)
- - [10 Best Lubes &lpar;2024&rpar;: Water-Based, Silicone, and Lube Dispensers](https://www.wired.com/gallery/best-lubes/)
- - [Tuft &amp; Needle Original Mattress Review: Where Simple Meets Comfort     - CNET](https://www.cnet.com/health/sleep/tuft-and-needle-mattress-review/#ftag=CAD590a51e)
- - [Best White Noise Machines for 2024     - CNET](https://www.cnet.com/health/sleep/best-white-noise-machines/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [10 Best Lubes &lpar;2024&rpar;: Water-Based, Silicone, and Lube Dispensers](https://www.wired.com/gallery/best-lubes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What festival is this bro...](http://9gag.com/gag/aVvOXV2)
- - 😝 [The delusion](http://9gag.com/gag/aoyz0Ae)
- - 💣 [Aeroflot 593 crashed in 1994 when the pilot let his children control the aircraft. This is the crash animation and audio log.](http://9gag.com/gag/a1mAM2w)
- - 😝 [I can fix her](http://9gag.com/gag/a9ydPVK)
- - 👉 [That&#39;s the secret guys](http://9gag.com/gag/aKGzgL1)<!-- MEMES:END -->
+ - 😝 [Cultural exchange seems to be successful](http://9gag.com/gag/a87WYr1)
+ - 😝 [Aeroflot 593 crashed in 1994 when the pilot let his children control the aircraft. This is the crash animation and audio log.](http://9gag.com/gag/a1mAM2w)
+ - 💣 [That&#39;s the secret guys](http://9gag.com/gag/aKGzgL1)
+ - 😝 [Gothing withing](http://9gag.com/gag/aoyz90n)
+ - 👉 [It\u2019s a mesmerizing sight](http://9gag.com/gag/aVvOW68)<!-- MEMES:END -->
 
 ---
 

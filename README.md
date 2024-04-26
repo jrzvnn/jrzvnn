@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Men of Culture](http://9gag.com/gag/aByKYnz)
- - 😝 [My time to repost](http://9gag.com/gag/a87W47p)
- - 💣 [The mouse get humbled](http://9gag.com/gag/aXPb93V)
- - 😝 [Someone should report him.](http://9gag.com/gag/aD20o3d)
- - 👉 [Soul is better](http://9gag.com/gag/aO8qvv2)<!-- MEMES:END -->
+ - 😝 [Great horror movie](http://9gag.com/gag/aGy9xwZ)
+ - 😝 [Gothing withing](http://9gag.com/gag/aoyz90n)
+ - 💣 [Aeroflot 593 crashed in 1994 when the pilot let his children control the aircraft. This is the crash animation and audio log.](http://9gag.com/gag/a1mAM2w)
+ - 😝 [Swifties can suck it.... video was removed from Twitter... please share.](http://9gag.com/gag/aByKrL1)
+ - 👉 [That&#39;s the secret guys](http://9gag.com/gag/aKGzgL1)<!-- MEMES:END -->
 
 ---
 

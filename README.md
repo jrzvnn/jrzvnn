@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As Intel reports disappointing earnings and guidance, and becomes S&amp;P&#39;s worst performing stock in 2024, a look at the long history of company&#39;s missteps &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240426/p13#a240426p13)
  - [How to delete the data Google has on you](https://www.theverge.com/24141741/google-data-delete-how-to)
  - [Google adds AI conversation practice for English language learners](https://www.theverge.com/2024/4/26/24141631/google-search-ai-conversational-language-translation-english)
  - [The 33 Best Shows on Amazon Prime Right Now](https://www.wired.com/story/best-shows-amazon-prime/)
- - [The 17 Best Movies on Amazon Prime Right Now](https://www.wired.com/story/best-amazon-prime-movies/)
- - [This Amazon Deal Sees the Fitbit Sense 2 Drop to Just $140 Today     - CNET](https://www.cnet.com/deals/this-amazon-deal-sees-the-fitbit-sense-2-drop-to-just-140-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 17 Best Movies on Amazon Prime Right Now](https://www.wired.com/story/best-amazon-prime-movies/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

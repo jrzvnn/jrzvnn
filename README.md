@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They had us in the first half..](http://9gag.com/gag/adBNpNQ)
- - 😝 [`The right man in the wrong place can make all the difference in the world`](http://9gag.com/gag/aVvOX3n)
- - 💣 [Aeroflot 593 crashed in 1994 when the pilot let his children control the aircraft. This is the crash animation and audio log.](http://9gag.com/gag/a1mAM2w)
- - 😝 [He found out.](http://9gag.com/gag/aPAv4dB)
- - 👉 [Can I have Ice Cream mom?](http://9gag.com/gag/aYQbwxw)<!-- MEMES:END -->
+ - 😝 [Poland!](http://9gag.com/gag/amoX8KV)
+ - 😝 [The delusion](http://9gag.com/gag/aoyz0Ae)
+ - 💣 [What a cute... Wait a minute](http://9gag.com/gag/a7o5bDL)
+ - 😝 [Ben is smart enough not to ask questions](http://9gag.com/gag/a0e9pQq)
+ - 👉 [He found out.](http://9gag.com/gag/aPAv4dB)<!-- MEMES:END -->
 
 ---
 

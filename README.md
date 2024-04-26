@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Slide cancel`](http://9gag.com/gag/apRqpgE)
+ - 😝 [Cultural exchange seems to be successful](http://9gag.com/gag/a87WYr1)
  - 😝 [What a cute... Wait a minute](http://9gag.com/gag/a7o5bDL)
- - 💣 [Poland!](http://9gag.com/gag/amoX8KV)
- - 😝 [I can fix her](http://9gag.com/gag/a9ydPVK)
- - 👉 [Show me the picture of the dumbest movie deaths](http://9gag.com/gag/aXPbA4z)<!-- MEMES:END -->
+ - 💣 [Can I have Ice Cream mom?](http://9gag.com/gag/aYQbwxw)
+ - 😝 [Weight loss goals](http://9gag.com/gag/aPAvGXq)
+ - 👉 [Just another European city](http://9gag.com/gag/ae9NGDm)<!-- MEMES:END -->
 
 ---
 

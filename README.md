@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why so early ?](http://9gag.com/gag/awyrxD8)
+ - 😝 [Men of Culture](http://9gag.com/gag/aByKYnz)
+ - 😝 [My time to repost](http://9gag.com/gag/a87W47p)
+ - 💣 [The mouse get humbled](http://9gag.com/gag/aXPb93V)
  - 😝 [Someone should report him.](http://9gag.com/gag/aD20o3d)
- - 💣 [You get a refund](http://9gag.com/gag/aPAv4yK)
- - 😝 [Etihad\u2019s flagship Airbus A380 accomodations](http://9gag.com/gag/axyNZy2)
- - 👉 [If you are going bald, just shave your entire head. A shaved head always looks better.](http://9gag.com/gag/a4P49Bp)<!-- MEMES:END -->
+ - 👉 [Soul is better](http://9gag.com/gag/aO8qvv2)<!-- MEMES:END -->
 
 ---
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Decades of Garry’s Mod Nintendo Uploads Are Disappearing](https://www.wired.com/story/garrys-mod-nintendo-takedowns/)
+ - [Apple’s last-gen MacBook Pro 16 is on sale for its best price to date](https://www.theverge.com/2024/4/26/24140118/apple-m2-macbook-pro-16-eve-smart-plug-deal-sale)
  - [Congress considers legislation to block DJI drones from running on US communication networks, effectively killing the Chinese company&#39;s US commercial business &lpar;Kate Kelly/New York Times&rpar;](http://www.techmeme.com/240426/p12#a240426p12)
  - [Akira Toriyama’s Sand Land makes a better show than game](https://www.theverge.com/24141497/sand-land-game-anime-hulu-ps5-xbox-akira-toriyama)
- - [Retro gold rush: these emulators are coming to the App Store soon](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)
- - [Drake has taken down his diss track featuring AI Tupac](https://www.theverge.com/2024/4/26/24141595/drake-taylor-made-ai-tupac-takedown)
- - [Discord bans Spy Pet-affiliated accounts, which were scraping 12K+ Discord servers to archive and sell user data, and says it is considering legal action &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/240426/p11#a240426p11)<!-- TECH:END -->
+ - [Retro gold rush: these emulators are coming to the App Store soon](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

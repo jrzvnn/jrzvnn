@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google is testing &quot;Speaking practice&quot; in Search, which uses a conversational AI bot to let Search Labs users in some countries improve their English skills &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240426/p15#a240426p15)
  - [GE Combo Washer &amp; Electric Dryer     - CNET](https://www.cnet.com/home/kitchen-and-household/ge-combo-washer-electric-dryer-dpnl/#ftag=CAD590a51e)
  - [Meta Expands Its Mixed Reality Beyond the Quest Headsets Explainer video     - CNET](https://www.cnet.com/videos/meta-expands-its-mixed-reality-beyond-the-quest-headsets-explainer/#ftag=CAD590a51e)
  - [Whirlpool 24.5 Cu. Ft. Refrigerator     - CNET](https://www.cnet.com/home/kitchen-and-household/whirlpool-24-5-cu-ft-refrigerator-dpnl/#ftag=CAD590a51e)
- - [LG 50&quot; UQ75 Series Smart webOS TV     - CNET](https://www.cnet.com/tech/home-entertainment/lg-50-uq75-series-smart-webos-tv-dpnl/#ftag=CAD590a51e)
- - [Google is officially a $2 trillion company](https://www.theverge.com/24140489/google-alphabet-q1-2024-earnings-revenue)<!-- TECH:END -->
+ - [LG 50&quot; UQ75 Series Smart webOS TV     - CNET](https://www.cnet.com/tech/home-entertainment/lg-50-uq75-series-smart-webos-tv-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

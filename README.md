@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [From 10 tons to 10/10](http://9gag.com/gag/a9ydW96)
- - 😝 [Does this non woke studio even exist???](http://9gag.com/gag/ayN5d4r)
- - 💣 [Get scammed](http://9gag.com/gag/aByK1W1)
- - 😝 [Ben is smart enough not to ask questions](http://9gag.com/gag/a0e9pQq)
- - 👉 [Vegans block entrance to Burger Place - I love that dude telling them what&#39;s what.](http://9gag.com/gag/aE0w7Bx)<!-- MEMES:END -->
+ - 😝 [Live action meme &lpar;@dissy.official&rpar;](http://9gag.com/gag/a4P4Zzd)
+ - 😝 [Cat chase POV](http://9gag.com/gag/aQzqMqw)
+ - 💣 [Vegans block entrance to Burger Place - I love that dude telling them what&#39;s what.](http://9gag.com/gag/aE0w7Bx)
+ - 😝 [Bro went home and told his family about the racism he experienced](http://9gag.com/gag/aByKwGP)
+ - 👉 [Shut up and take my money.](http://9gag.com/gag/axyNgbL)<!-- MEMES:END -->
 
 ---
 

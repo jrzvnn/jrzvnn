@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The NHTSA closes a 2021 investigation into Tesla&#39;s Autopilot and opens a new one to evaluate whether a December 2023 Autopilot recall fix is effective enough &lpar;Sean O&#39;Kane/TechCrunch&rpar;](http://www.techmeme.com/240426/p5#a240426p5)
  - [The EU Commission says Shein will have to comply with DSA rules for content handling, starting August 2024, as the retailer has more than 45M users in the EU &lpar;Clothilde Goujard/Politico&rpar;](http://www.techmeme.com/240426/p4#a240426p4)
  - [Sam Altman, Satya Nadella, Sundar Pichai, Jensen Huang, and others join a panel to advise US DHS on deploying AI safely within America&#39;s critical infrastructure &lpar;Dustin Volz/Wall Street Journal&rpar;](http://www.techmeme.com/240426/p3#a240426p3)
  - [Following a great launch quarter, China iPhone sales are pretty bad so far in 2024](https://appleinsider.com/articles/24/04/26/following-a-great-launch-quarter-china-iphone-are-pretty-bad-so-far-in-2024?utm_medium=rss)
- - [1994 Was the Last Good Year—and It&#39;s Still Going](https://www.wired.com/story/1994-was-unbelievable-and-unrepeatable/)
- - [Refinance Rates Tick Higher: Mortgage Refinance Rates on April 26, 2024     - CNET](https://www.cnet.com/personal-finance/mortgages/refinance-rates-tick-higher-mortgage-refinance-rates-on-april-26-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [1994 Was the Last Good Year—and It&#39;s Still Going](https://www.wired.com/story/1994-was-unbelievable-and-unrepeatable/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

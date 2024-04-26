@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is officially a $2 trillion company](https://www.theverge.com/24140489/google-alphabet-q1-2024-earnings-revenue)
- - [Baltimore Police arrest a high school teacher for allegedly framing his principal by using AI to create an audio file of the principal making racist comments &lpar;The Baltimore Banner&rpar;](http://www.techmeme.com/240426/p14#a240426p14)
- - [Amazon Confirms Prime Day Sale Coming This Summer     - CNET](https://www.cnet.com/deals/amazon-confirms-prime-day-sale-coming-this-summer/#ftag=CAD590a51e)
- - [Google Parent Company Issues First Dividend: What to Know, Why This Matters     - CNET](https://www.cnet.com/tech/google-parent-company-issues-first-dividend-what-to-know-why-this-matters/#ftag=CAD590a51e)
- - [Tesla Autopilot Was Uniquely Risky—and May Still Be](https://www.wired.com/story/tesla-autopilot-risky-deaths-crashes-nhtsa-investigation/)<!-- TECH:END -->
+ - [GE Combo Washer &amp; Electric Dryer     - CNET](https://www.cnet.com/home/kitchen-and-household/ge-combo-washer-electric-dryer-dpnl/#ftag=CAD590a51e)
+ - [Meta Expands Its Mixed Reality Beyond the Quest Headsets Explainer video     - CNET](https://www.cnet.com/videos/meta-expands-its-mixed-reality-beyond-the-quest-headsets-explainer/#ftag=CAD590a51e)
+ - [Whirlpool 24.5 Cu. Ft. Refrigerator     - CNET](https://www.cnet.com/home/kitchen-and-household/whirlpool-24-5-cu-ft-refrigerator-dpnl/#ftag=CAD590a51e)
+ - [LG 50&quot; UQ75 Series Smart webOS TV     - CNET](https://www.cnet.com/tech/home-entertainment/lg-50-uq75-series-smart-webos-tv-dpnl/#ftag=CAD590a51e)
+ - [Google is officially a $2 trillion company](https://www.theverge.com/24140489/google-alphabet-q1-2024-earnings-revenue)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

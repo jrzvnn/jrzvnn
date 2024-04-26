@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The delusion](http://9gag.com/gag/aoyz0Ae)
- - 😝 [`The right man in the wrong place can make all the difference in the world`](http://9gag.com/gag/aVvOX3n)
- - 💣 [That&#39;s the secret guys](http://9gag.com/gag/aKGzgL1)
+ - 😝 [Customer identifies as a cat](http://9gag.com/gag/awyrbP4)
  - 😝 [What festival is this bro...](http://9gag.com/gag/aVvOXV2)
- - 👉 [What a cute... Wait a minute](http://9gag.com/gag/a7o5bDL)<!-- MEMES:END -->
+ - 💣 [Aeroflot 593 crashed in 1994 when the pilot let his children control the aircraft. This is the crash animation and audio log.](http://9gag.com/gag/a1mAM2w)
+ - 😝 [Poland!](http://9gag.com/gag/amoX8KV)
+ - 👉 [Cultural exchange seems to be successful](http://9gag.com/gag/a87WYr1)<!-- MEMES:END -->
 
 ---
 

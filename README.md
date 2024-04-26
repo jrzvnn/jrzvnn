@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: FTC says Jeff Bezos, Andy Jassy, and other Amazon execs used Signal&#39;s disappearing messages to conceal evidence in FTC&#39;s antitrust case against Amazon &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/240426/p18#a240426p18)
+ - [FTC says Amazon executives destroyed potential evidence by using apps like Signal](https://www.theverge.com/2024/4/26/24141801/ftc-amazon-antitrust-signal-ephemeral-messaging-evidence)
  - [Sources: Apple has renewed discussions with OpenAI about using its technology to power some features in iOS 18; talks with Google on using Gemini remain ongoing &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240426/p17#a240426p17)
  - [Roborock’s Robot Vacuums—Including WIRED’s Top Pick—Are on Sale Right Now](https://www.wired.com/story/roborock-robot-vacuum-deals-april-2024/)
- - [Eken fixes ‘terrible’ video doorbell issue that could let someone spy on you](https://www.theverge.com/2024/4/26/24141844/eken-firmware-update-consumer-reports-video-doorbell-security-vulnerability)
- - [Alphabet closes above a $2T market cap for the first time; the stock rose 10%, its biggest one-day jump since July 2015, resulting in a valuation of $2.15T &lpar;Ryan Vlastelica/Bloomberg&rpar;](http://www.techmeme.com/240426/p16#a240426p16)
- - [Samsung Freestanding Electric Range     - CNET](https://www.cnet.com/home/kitchen-and-household/samsung-freestanding-electric-range-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Eken fixes ‘terrible’ video doorbell issue that could let someone spy on you](https://www.theverge.com/2024/4/26/24141844/eken-firmware-update-consumer-reports-video-doorbell-security-vulnerability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

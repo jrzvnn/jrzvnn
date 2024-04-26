@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the US is urging Japan, South Korea, and the Netherlands to tighten export controls to China, including stopping engineers from servicing Chinese fabs &lpar;Financial Times&rpar;](http://www.techmeme.com/240425/p42#a240425p42)
  - [The Worst of WWDC - Apple&#39;s biggest missteps on the way to success](https://appleinsider.com/articles/24/04/25/the-worst-of-wwdc---apples-biggest-missteps-on-the-way-to-success?utm_medium=rss)
  - [How to Use Apple Managed Device Attestation to secure networks](https://appleinsider.com/inside/ios-17/tips/how-to-use-apple-managed-device-attestation-to-secure-networks?utm_medium=rss)
- - [Google Thinks It Can Cash In on Generative AI. Microsoft Already Has](https://www.wired.com/story/microsoft-google-earnings-generative-ai/)
- - [New rules that allow UK law enforcement agencies to seize, destroy, or transfer crypto holdings used for crime before making an arrest take effect &lpar;Camomile Shumba/CoinDesk&rpar;](http://www.techmeme.com/240425/p41#a240425p41)
- - [How to Shop and Compare Electricity Rates in Connecticut     - CNET](https://www.cnet.com/news/how-to-shop-and-compare-electricity-rates-in-connecticut/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [FCC Approves T-Mobile&#39;s Deal to Purchase Mint Mobile     - CNET](https://www.cnet.com/tech/mobile/fcc-approves-t-mobiles-deal-to-purchase-mint-mobile/#ftag=CAD590a51e)
+ - [Google Thinks It Can Cash In on Generative AI. Microsoft Already Has](https://www.wired.com/story/microsoft-google-earnings-generative-ai/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -174,10 +174,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I can fix her](http://9gag.com/gag/a9ydPVK)
+ - 😝 [Aeroflot 593 crashed in 1994 when the pilot let his children control the aircraft. This is the crash animation and audio log.](http://9gag.com/gag/a1mAM2w)
  - 😝 [The delusion](http://9gag.com/gag/aoyz0Ae)
- - 💣 [What a cute... Wait a minute](http://9gag.com/gag/a7o5bDL)
- - 😝 [Poland!](http://9gag.com/gag/amoX8KV)
+ - 💣 [He found out.](http://9gag.com/gag/aPAv4dB)
+ - 😝 [Cultural exchange seems to be successful](http://9gag.com/gag/a87WYr1)
  - 👉 [From 10 tons to 10/10](http://9gag.com/gag/a9ydW96)<!-- MEMES:END -->
 
 ---

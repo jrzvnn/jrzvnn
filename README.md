@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gothing withing](http://9gag.com/gag/aoyz90n)
- - 😝 [Ben is smart enough not to ask questions](http://9gag.com/gag/a0e9pQq)
- - 💣 [What a cute... Wait a minute](http://9gag.com/gag/a7o5bDL)
- - 😝 [A short and witty title does the trick](http://9gag.com/gag/agmy0Ag)
- - 👉 [Aeroflot 593 crashed in 1994 when the pilot let his children control the aircraft. This is the crash animation and audio log.](http://9gag.com/gag/a1mAM2w)<!-- MEMES:END -->
+ - 😝 [Why so early ?](http://9gag.com/gag/awyrxD8)
+ - 😝 [Someone should report him.](http://9gag.com/gag/aD20o3d)
+ - 💣 [You get a refund](http://9gag.com/gag/aPAv4yK)
+ - 😝 [Etihad\u2019s flagship Airbus A380 accomodations](http://9gag.com/gag/axyNZy2)
+ - 👉 [If you are going bald, just shave your entire head. A shaved head always looks better.](http://9gag.com/gag/a4P49Bp)<!-- MEMES:END -->
 
 ---
 

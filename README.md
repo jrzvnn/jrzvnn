@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [16 Best USB-C Cables &lpar;2024&rpar;: For iPhones, Android Phones, Tablets, and Laptops](https://www.wired.com/gallery/best-usb-c-cables/)
  - [Tesla’s Autopilot is under investigation again following ‘recall’ software update](https://www.theverge.com/2024/4/26/24141403/tesla-autopilot-nhtsa-investigation-recall-software-fix)
  - [New EU regulations target Shein’s counterfeit fashion problem](https://www.theverge.com/2024/4/26/24141330/shein-fast-fashion-eu-digital-services-act-counterfeit-intellectual-property)
  - [Tesla’s Autopilot and Full Self-Driving linked to hundreds of crashes, dozens of deaths](https://www.theverge.com/2024/4/26/24141361/tesla-autopilot-fsd-nhtsa-investigation-report-crash-death)
- - [Apple removes three AI image generation apps from the App Store after 404 Media probe found the apps advertised the ability to create nonconsensual nude images &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/240426/p7#a240426p7)
- - [14 Best Car Phone Mounts, Chargers, and Accessories &lpar;2024&rpar;: Wireless Chargers, MagSafe Holders, and Dashcams](https://www.wired.com/gallery/best-car-phone-mounts-chargers-and-accessories/)<!-- TECH:END -->
+ - [Apple removes three AI image generation apps from the App Store after 404 Media probe found the apps advertised the ability to create nonconsensual nude images &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/240426/p7#a240426p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

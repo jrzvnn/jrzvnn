@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What’s the Safest Seat on an Airplane?](https://www.wired.com/story/whats-the-safest-seat-on-an-airplane/)
- - [Peloton producer says Apple Watch saved her life](https://appleinsider.com/articles/24/04/26/peloton-producer-says-apple-watch-saved-her-life?utm_medium=rss)
- - [Can’t Afford a House? Buy a Piece of One Instead](https://www.wired.com/story/fractional-home-ownership-startups/)
- - [Snag 2 Anker USB-C Fast Chargers and Cables for Only $13 With Amazon Prime     - CNET](https://www.cnet.com/deals/snag-two-anker-usb-c-fast-chargers-and-cables-for-just-13-with-prime/#ftag=CAD590a51e)
- - [Best Savings Rates Today, April 26, 2024: Save More With One of These High-Yield Savings Accounts     - CNET](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-april-26-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Following a great launch quarter, China iPhone are pretty bad so far in 2024](https://appleinsider.com/articles/24/04/26/following-a-great-launch-quarter-china-iphone-are-pretty-bad-so-far-in-2024?utm_medium=rss)
+ - [1994 Was the Last Good Year—and It&#39;s Still Going](https://www.wired.com/story/1994-was-unbelievable-and-unrepeatable/)
+ - [Refinance Rates Tick Higher: Mortgage Refinance Rates on April 26, 2024     - CNET](https://www.cnet.com/personal-finance/mortgages/refinance-rates-tick-higher-mortgage-refinance-rates-on-april-26-2024/#ftag=CAD590a51e)
+ - [Home Loan Rates Increased Over the Last Week: Mortgage Interest Rates for April 26, 2024     - CNET](https://www.cnet.com/personal-finance/mortgages/home-loan-rates-increased-over-the-last-week-mortgage-interest-rates-for-april-26-2024/#ftag=CAD590a51e)
+ - [What’s the Safest Seat on an Airplane?](https://www.wired.com/story/whats-the-safest-seat-on-an-airplane/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Live action meme &lpar;@dissy.official&rpar;](http://9gag.com/gag/a4P4Zzd)
- - 😝 [Man Confronts Toronto Police In a LGBTQ Police Car.](http://9gag.com/gag/aNDeW0w)
- - 💣 [Word](http://9gag.com/gag/amoXrro)
- - 😝 [Feminist are angry at this one](http://9gag.com/gag/aW4Z652)
- - 👉 [Fallout](http://9gag.com/gag/a9ydYO1)<!-- MEMES:END -->
+ - 😝 [Ben is smart enough not to ask questions](http://9gag.com/gag/a0e9pQq)
+ - 😝 [You get a refund](http://9gag.com/gag/aPAv4yK)
+ - 💣 [Poland!](http://9gag.com/gag/amoX8KV)
+ - 😝 [Miss +](http://9gag.com/gag/a4P4ZPy)
+ - 👉 [What festival is this bro...](http://9gag.com/gag/aVvOXV2)<!-- MEMES:END -->
 
 ---
 

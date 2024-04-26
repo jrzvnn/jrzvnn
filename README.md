@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Customer identifies as a cat](http://9gag.com/gag/awyrbP4)
- - 😝 [What festival is this bro...](http://9gag.com/gag/aVvOXV2)
- - 💣 [Aeroflot 593 crashed in 1994 when the pilot let his children control the aircraft. This is the crash animation and audio log.](http://9gag.com/gag/a1mAM2w)
- - 😝 [Poland!](http://9gag.com/gag/amoX8KV)
- - 👉 [Cultural exchange seems to be successful](http://9gag.com/gag/a87WYr1)<!-- MEMES:END -->
+ - 😝 [Soul is better](http://9gag.com/gag/aO8qvv2)
+ - 😝 [My time to repost](http://9gag.com/gag/a87W47p)
+ - 💣 [Scared? Just Spin!](http://9gag.com/gag/aLnK9XW)
+ - 😝 [Man Confronts Toronto Police In a LGBTQ Police Car.](http://9gag.com/gag/aNDeW0w)
+ - 👉 [Feminist are angry at this one](http://9gag.com/gag/aW4Z652)<!-- MEMES:END -->
 
 ---
 

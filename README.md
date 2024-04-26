@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`The right man in the wrong place can make all the difference in the world`](http://9gag.com/gag/aVvOX3n)
- - 😝 [The delusion](http://9gag.com/gag/aoyz0Ae)
- - 💣 [It\u2019s a mesmerizing sight](http://9gag.com/gag/aVvOW68)
- - 😝 [Vegans block entrance to Burger Place - I love that dude telling them what&#39;s what.](http://9gag.com/gag/aE0w7Bx)
- - 👉 [I can fix her](http://9gag.com/gag/a9ydPVK)<!-- MEMES:END -->
+ - 😝 [What a cute... Wait a minute](http://9gag.com/gag/a7o5bDL)
+ - 😝 [He found out.](http://9gag.com/gag/aPAv4dB)
+ - 💣 [I can fix her](http://9gag.com/gag/a9ydPVK)
+ - 😝 [Ben is smart enough not to ask questions](http://9gag.com/gag/a0e9pQq)
+ - 👉 [Aeroflot 593 crashed in 1994 when the pilot let his children control the aircraft. This is the crash animation and audio log.](http://9gag.com/gag/a1mAM2w)<!-- MEMES:END -->
 
 ---
 

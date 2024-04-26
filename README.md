@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Little lad learns to level](http://9gag.com/gag/aPAvBWn)
- - 😝 [How this guys grandpa taught him to tie a tie.](http://9gag.com/gag/a6ZwbKR)
- - 💣 [Ok gen Z, learn this](http://9gag.com/gag/awyrn5Q)
- - 😝 [The first memorial statue to Queen Elizabeth with, of course, her beloved corgis](http://9gag.com/gag/aQzq96W)
- - 👉 [I wonder how much horsepower it has?](http://9gag.com/gag/apRqpbB)<!-- MEMES:END -->
+ - 😝 [She thought every one got their own pot. She ate 1 kg of cheese. We had to order pizza and yes, she wanted one as well.](http://9gag.com/gag/a34YjWr)
+ - 😝 [Swifties can suck it.... video was removed from Twitter... please share.](http://9gag.com/gag/aByKrL1)
+ - 💣 [What a cute... Wait a minute](http://9gag.com/gag/a7o5bDL)
+ - 😝 [Show me the picture of the dumbest movie deaths](http://9gag.com/gag/aXPbA4z)
+ - 👉 [Just another European city](http://9gag.com/gag/ae9NGDm)<!-- MEMES:END -->
 
 ---
 

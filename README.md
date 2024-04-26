@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Poland!](http://9gag.com/gag/amoX8KV)
- - 😝 [The delusion](http://9gag.com/gag/aoyz0Ae)
- - 💣 [What a cute... Wait a minute](http://9gag.com/gag/a7o5bDL)
+ - 😝 [Gothing withing](http://9gag.com/gag/aoyz90n)
  - 😝 [Ben is smart enough not to ask questions](http://9gag.com/gag/a0e9pQq)
- - 👉 [He found out.](http://9gag.com/gag/aPAv4dB)<!-- MEMES:END -->
+ - 💣 [What a cute... Wait a minute](http://9gag.com/gag/a7o5bDL)
+ - 😝 [Safety First](http://9gag.com/gag/awyrKW4)
+ - 👉 [That&#39;s the secret guys](http://9gag.com/gag/aKGzgL1)<!-- MEMES:END -->
 
 ---
 

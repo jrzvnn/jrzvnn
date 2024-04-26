@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cultural exchange seems to be successful](http://9gag.com/gag/a87WYr1)
- - 😝 [What a cute... Wait a minute](http://9gag.com/gag/a7o5bDL)
- - 💣 [Can I have Ice Cream mom?](http://9gag.com/gag/aYQbwxw)
- - 😝 [Weight loss goals](http://9gag.com/gag/aPAvGXq)
- - 👉 [Just another European city](http://9gag.com/gag/ae9NGDm)<!-- MEMES:END -->
+ - 😝 [Little lad learns to level](http://9gag.com/gag/aPAvBWn)
+ - 😝 [How this guys grandpa taught him to tie a tie.](http://9gag.com/gag/a6ZwbKR)
+ - 💣 [Ok gen Z, learn this](http://9gag.com/gag/awyrn5Q)
+ - 😝 [The first memorial statue to Queen Elizabeth with, of course, her beloved corgis](http://9gag.com/gag/aQzq96W)
+ - 👉 [I wonder how much horsepower it has?](http://9gag.com/gag/apRqpbB)<!-- MEMES:END -->
 
 ---
 

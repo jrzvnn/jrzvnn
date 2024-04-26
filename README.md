@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The mouse get humbled](http://9gag.com/gag/aXPb93V)
  - 😝 [Scared? Just Spin!](http://9gag.com/gag/aLnK9XW)
- - 😝 [Soul is better](http://9gag.com/gag/aO8qvv2)
- - 💣 [Love](http://9gag.com/gag/aQzq8Zq)
- - 😝 [`The right man in the wrong place can make all the difference in the world`](http://9gag.com/gag/aVvOX3n)
- - 👉 [Fallout](http://9gag.com/gag/a9ydYO1)<!-- MEMES:END -->
+ - 💣 [Someone should report him.](http://9gag.com/gag/aD20o3d)
+ - 😝 [My time to repost](http://9gag.com/gag/a87W47p)
+ - 👉 [Soul is better](http://9gag.com/gag/aO8qvv2)<!-- MEMES:END -->
 
 ---
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Aeroflot 593 crashed in 1994 when the pilot let his children control the aircraft. This is the crash animation and audio log.](http://9gag.com/gag/a1mAM2w)
- - 😝 [Swifties can suck it.... video was removed from Twitter... please share.](http://9gag.com/gag/aByKrL1)
- - 💣 [Someone should report him.](http://9gag.com/gag/aD20o3d)
- - 😝 [I can fix her](http://9gag.com/gag/a9ydPVK)
- - 👉 [Ben is smart enough not to ask questions](http://9gag.com/gag/a0e9pQq)<!-- MEMES:END -->
+ - 😝 [From 10 tons to 10/10](http://9gag.com/gag/a9ydW96)
+ - 😝 [Does this non woke studio even exist???](http://9gag.com/gag/ayN5d4r)
+ - 💣 [Get scammed](http://9gag.com/gag/aByK1W1)
+ - 😝 [Ben is smart enough not to ask questions](http://9gag.com/gag/a0e9pQq)
+ - 👉 [Vegans block entrance to Burger Place - I love that dude telling them what&#39;s what.](http://9gag.com/gag/aE0w7Bx)<!-- MEMES:END -->
 
 ---
 

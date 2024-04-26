@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Buy Launches Huge 3-Day Sale on Top Tech and Major Appliances     - CNET](https://www.cnet.com/deals/best-buy-launches-huge-3-day-sale-on-top-tech-and-major-appliances/#ftag=CAD590a51e)
- - [Thoma Bravo agrees to buy UK-based cyber security company Darktrace for $7.75 per share, a 20% premium on its April 25 closing price, valuing the company at $5B &lpar;Financial Times&rpar;](http://www.techmeme.com/240426/p2#a240426p2)
- - [Best Internet Providers for Gaming in 2024     - CNET](https://www.cnet.com/home/internet/best-internet-providers-for-gaming/#ftag=CAD590a51e)
- - [ByteDance says it has no plans to sell TikTok, responding to a report suggesting that it is considering scenarios for selling a majority stake in US TikTok &lpar;Sherry Qin/Wall Street Journal&rpar;](http://www.techmeme.com/240426/p1#a240426p1)
- - [TechInsights teardown: Huawei&#39;s Pura 70 uses a 7nm chip, similar to the Mate 60, and a Kirin 9010 processor, a newer version of the Mate 60 Pro&#39;s Kirin 9000s &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/240425/p43#a240425p43)<!-- TECH:END -->
+ - [Can’t Afford a House? Buy a Piece of One Instead](https://www.wired.com/story/fractional-home-ownership-startups/)
+ - [Snag 2 Anker USB-C Fast Chargers and Cables for Only $13 With Amazon Prime     - CNET](https://www.cnet.com/deals/snag-two-anker-usb-c-fast-chargers-and-cables-for-just-13-with-prime/#ftag=CAD590a51e)
+ - [Best Savings Rates Today, April 26, 2024: Save More With One of These High-Yield Savings Accounts     - CNET](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-april-26-2024/#ftag=CAD590a51e)
+ - [Shop Incredible TV Deals at Best Buy This Weekend Only     - CNET](https://www.cnet.com/deals/shop-incredible-tv-deals-at-best-buy-this-weekend-only/#ftag=CAD590a51e)
+ - [Best Buy Launches Huge 3-Day Sale on Top Tech and Major Appliances     - CNET](https://www.cnet.com/deals/best-buy-launches-huge-3-day-sale-on-top-tech-and-major-appliances/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

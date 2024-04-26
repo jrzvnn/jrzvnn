@@ -166,10 +166,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Sources: China&#39;s muted response to TikTok bill reflects the view that TikTok is of less strategic value than Huawei; China prefers TikTok US closure to sale &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240426/p9#a240426p9)
+ - [10 Best Lubes &lpar;2024&rpar;: Water-Based, Silicone, and Lube Dispensers](https://www.wired.com/gallery/best-lubes/)
  - [One year with the Light Phone 2](https://www.theverge.com/24140675/light-phone-2-one-year-retrospect)
  - [DJI might get banned next in the US](https://www.theverge.com/2024/4/26/24141369/dji-ban-china-countering-ccp-drones-act)
- - [The Best Govee Smart Lights &lpar;2024&rpar;: M1 Light Strip, Envisual T2, and More Tips](https://www.wired.com/gallery/best-govee-smart-lights/)
- - [NHTSA finds that Tesla&#39;s driver-assist features are insufficient at keeping drivers engaged in the task of driving and links them to 100+ crashes and 10+ deaths &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/240426/p8#a240426p8)<!-- TECH:END -->
+ - [The Best Govee Smart Lights &lpar;2024&rpar;: M1 Light Strip, Envisual T2, and More Tips](https://www.wired.com/gallery/best-govee-smart-lights/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Unistellar Odyssey Pro review: Unlock pro-level astronomy with your iPhone from your backyard](https://appleinsider.com/articles/24/04/26/unistellar-odyssey-pro-review-unlock-pro-level-astronomy-with-your-iphone-from-your-backyard?utm_medium=rss)
  - [A look at Abu Dhabi-based AI startup G42, as sources say US intelligence officials fixated on CEO Xiao Peng ahead of its China divestment and Microsoft deal &lpar;Bloomberg&rpar;](http://www.techmeme.com/240426/p6#a240426p6)
  - [15 Best Coffee Subscriptions to Keep You Wired &lpar;2024&rpar;: Blends, Single-Origin, Small Batch, and Local Roasters](https://www.wired.com/gallery/best-coffee-subscriptions/)
  - [iPad Air screens, Spotify complaints, and a TikTok ban on the AppleInsider Podcast](https://appleinsider.com/articles/24/04/26/ipad-air-screens-spotify-complaints-and-a-tiktok-ban-on-the-appleinsider-podcast?utm_medium=rss)
- - [JLab JBuds ANC 3 Review: A $60 Alternative to Apple AirPods Pro](https://www.wired.com/review/jlab-jbuds-anc-3/)
- - [The NHTSA closes a 2021 investigation into Tesla&#39;s Autopilot and opens a new one to evaluate whether a December 2023 Autopilot recall fix is effective enough &lpar;Sean O&#39;Kane/TechCrunch&rpar;](http://www.techmeme.com/240426/p5#a240426p5)<!-- TECH:END -->
+ - [JLab JBuds ANC 3 Review: A $60 Alternative to Apple AirPods Pro](https://www.wired.com/review/jlab-jbuds-anc-3/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

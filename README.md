@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ben is smart enough not to ask questions](http://9gag.com/gag/a0e9pQq)
+ - 😝 [What a cute... Wait a minute](http://9gag.com/gag/a7o5bDL)
  - 😝 [Miss +](http://9gag.com/gag/a4P4ZPy)
- - 💣 [He found out.](http://9gag.com/gag/aPAv4dB)
+ - 💣 [Have you guys seen this shit yet?](http://9gag.com/gag/a87Wp11)
  - 😝 [Aeroflot 593 crashed in 1994 when the pilot let his children control the aircraft. This is the crash animation and audio log.](http://9gag.com/gag/a1mAM2w)
- - 👉 [Cultural exchange seems to be successful](http://9gag.com/gag/a87WYr1)<!-- MEMES:END -->
+ - 👉 [Poland!](http://9gag.com/gag/amoX8KV)<!-- MEMES:END -->
 
 ---
 

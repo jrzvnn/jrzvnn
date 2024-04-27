@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Aeroflot 593 crashed in 1994 when the pilot let his children control the aircraft. This is the crash animation and audio log.](http://9gag.com/gag/a1mAM2w)
- - 😝 [She thought every one got their own pot. She ate 1 kg of cheese. We had to order pizza and yes, she wanted one as well.](http://9gag.com/gag/a34YjWr)
- - 💣 [Remembering beautiful memories with her](http://9gag.com/gag/aYQb4Bq)
- - 😝 [Meanwhile](http://9gag.com/gag/aVvO3eO)
- - 👉 [STING trying to bare with somemone singing his song badly.](http://9gag.com/gag/aD20x0Z)<!-- MEMES:END -->
+ - 😝 [Just down the stairs animation of several games](http://9gag.com/gag/aXPbvGv)
+ - 😝 [My man was dead inside](http://9gag.com/gag/an7YjYq)
+ - 💣 [Natural born babies](http://9gag.com/gag/aVvOq22)
+ - 😝 [Best marathon outfit](http://9gag.com/gag/a6ZwMjm)
+ - 👉 [I wonder how much horsepower it has?](http://9gag.com/gag/apRqpbB)<!-- MEMES:END -->
 
 ---
 

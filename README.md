@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Counter arguments welcome](http://9gag.com/gag/abA5pyB)
- - 😝 [Natural born babies](http://9gag.com/gag/aVvOq22)
- - 💣 [Remembering the BLM mass lootings. Don&#39;t mess with the rooftop Koreans.](http://9gag.com/gag/azxbX1B)
- - 😝 [My man was dead inside](http://9gag.com/gag/an7YjYq)
- - 👉 [I wonder how much horsepower it has?](http://9gag.com/gag/apRqpbB)<!-- MEMES:END -->
+ - 😝 [Simple](http://9gag.com/gag/aRBQKnG)
+ - 😝 [Miss +](http://9gag.com/gag/a4P4ZPy)
+ - 💣 [`Slide cancel`](http://9gag.com/gag/apRqpgE)
+ - 😝 [Crazy.](http://9gag.com/gag/amoX2Zv)
+ - 👉 [A good inversement](http://9gag.com/gag/an7YbbV)<!-- MEMES:END -->
 
 ---
 

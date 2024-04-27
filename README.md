@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In the first Autonomous Racing League race, the struggle was real](https://www.theverge.com/2024/4/27/24142989/a2rl-autonomous-race-cars-f1-abu-dhabi)
  - [TikTok users with stigmatized interests or marginalized identities express anxiety over its potential ban, as rebuilding their communities elsewhere may be hard &lpar;Washington Post&rpar;](http://www.techmeme.com/240427/p12#a240427p12)
  - [The 7 Best Space Heaters to Warm Your Home in 2024     - CNET](https://www.cnet.com/home/kitchen-and-household/best-space-heater/#ftag=CAD590a51e)
  - [The US IRS says it spent $10.5M to develop and $2.4M to run its free tax filing website, used by 140K+ taxpayers in 12 states, and claims high user satisfaction &lpar;Julie Zauzmer Weil/Washington Post&rpar;](http://www.techmeme.com/240427/p11#a240427p11)
- - [EyeEm, the bankrupt photo sharing network acquired by Freepik last year, will license users&#39; photos to train AI if the images are not deleted within 30 days &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240427/p10#a240427p10)
- - [The Apple Vision Pro’s eBay prices are making me sad](https://www.theverge.com/2024/4/27/24142810/apple-vision-pro-ebay-low-prices)<!-- TECH:END -->
+ - [EyeEm, the bankrupt photo sharing network acquired by Freepik last year, will license users&#39; photos to train AI if the images are not deleted within 30 days &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240427/p10#a240427p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She thought every one got their own pot. She ate 1 kg of cheese. We had to order pizza and yes, she wanted one as well.](http://9gag.com/gag/a34YjWr)
- - 😝 [`Slide cancel`](http://9gag.com/gag/apRqpgE)
- - 💣 [So many OSHA violations](http://9gag.com/gag/aW4Z8wA)
- - 😝 [From 10 tons to 10/10](http://9gag.com/gag/a9ydW96)
- - 👉 [Flight QF14, Buenos Aires to Darwin Australia. A flight path that doesn&#39;t work on a flat Earth.](http://9gag.com/gag/aAyYP3Z)<!-- MEMES:END -->
+ - 😝 [Dude went directly to the good stuff](http://9gag.com/gag/a2vN4pE)
+ - 😝 [Miss +](http://9gag.com/gag/a4P4ZPy)
+ - 💣 [From the archives #23](http://9gag.com/gag/a5Qdr0V)
+ - 😝 [Simple](http://9gag.com/gag/aRBQKnG)
+ - 👉 [Don&#39;t talk to him..](http://9gag.com/gag/ae9NGdO)<!-- MEMES:END -->
 
 ---
 

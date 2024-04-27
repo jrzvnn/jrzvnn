@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I dont know what it where this is but it surely activating some neurons.](http://9gag.com/gag/abA5MR9)
- - 😝 [How time flies\u2026](http://9gag.com/gag/abA5M6O)
+ - 😝 [From 10 tons to 10/10](http://9gag.com/gag/a9ydW96)
+ - 😝 [She thought every one got their own pot. She ate 1 kg of cheese. We had to order pizza and yes, she wanted one as well.](http://9gag.com/gag/a34YjWr)
  - 💣 [Remembering beautiful memories with her](http://9gag.com/gag/aYQb4Bq)
- - 😝 [Facts](http://9gag.com/gag/amoX7bj)
- - 👉 [From 10 tons to 10/10](http://9gag.com/gag/a9ydW96)<!-- MEMES:END -->
+ - 😝 [When you see bugs in the code but it&#39;s not your task!](http://9gag.com/gag/azxbXdK)
+ - 👉 [You just can&#39;t get a decent pair of shoe nowadays.](http://9gag.com/gag/ayN5Lwp)<!-- MEMES:END -->
 
 ---
 

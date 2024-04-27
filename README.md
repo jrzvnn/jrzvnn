@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Remembering beautiful memories with her](http://9gag.com/gag/aYQb4Bq)
- - 😝 [STING trying to bare with somemone singing his song badly.](http://9gag.com/gag/aD20x0Z)
- - 💣 [From the archives #23](http://9gag.com/gag/a5Qdr0V)
- - 😝 [From 10 tons to 10/10](http://9gag.com/gag/a9ydW96)
- - 👉 [Why so early ?](http://9gag.com/gag/awyrxD8)<!-- MEMES:END -->
+ - 😝 [Aeroflot 593 crashed in 1994 when the pilot let his children control the aircraft. This is the crash animation and audio log.](http://9gag.com/gag/a1mAM2w)
+ - 😝 [She thought every one got their own pot. She ate 1 kg of cheese. We had to order pizza and yes, she wanted one as well.](http://9gag.com/gag/a34YjWr)
+ - 💣 [Remembering beautiful memories with her](http://9gag.com/gag/aYQb4Bq)
+ - 😝 [Meanwhile](http://9gag.com/gag/aVvO3eO)
+ - 👉 [STING trying to bare with somemone singing his song badly.](http://9gag.com/gag/aD20x0Z)<!-- MEMES:END -->
 
 ---
 

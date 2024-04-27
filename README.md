@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [They turned cattle ranches into tropical forest — then climate change hit](https://www.theverge.com/24137380/forest-restoration-costa-rica-guanacaste-conservation-tree)
+ - [Ceretone Core One OTC Hearing Aids Review: Tiny and Barely Useful](https://www.wired.com/review/ceretone-core-one-otc-hearing-aids/)
  - [The 25 Best iPad Accessories &lpar;2024&rpar;: Cases, Keyboards, Chargers, and Hubs](https://www.wired.com/gallery/best-ipad-accessories/)
- - [The Best New Albums of Spring 2024](https://www.wired.com/story/best-new-albums-of-2024-spring/)
- - [Meta’s Ray-Ban Smart Shades Get a Fresh Blast of AI](https://www.wired.com/story/meta-ray-ban-smart-glasses-ai-update/)
- - [These Common Houseplants Are Known to Repel Bugs     - CNET](https://www.cnet.com/news/these-common-houseplants-are-known-to-repel-bugs/#ftag=CAD590a51e)
- - [Shop at Walmart Over the Past 6 Years? You Might Be Able to Claim $500 in Settlement Cash     - CNET](https://www.cnet.com/personal-finance/shop-at-walmart-over-the-past-6-years-you-might-be-able-to-claim-500-in-settlement-cash/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Buy&#39;s Massive 3-Day Sale Has Deals on Top Tech, Major Appliances and More     - CNET](https://www.cnet.com/deals/best-buys-massive-3-day-sale-has-deals-on-top-tech-major-appliances-and-more/#ftag=CAD590a51e)
+ - [Best Amazon Deals: Score Sweet Deals on Tech, Home Goods, Everyday Essentials and More     - CNET](https://www.cnet.com/deals/best-amazon-deals-score-sweet-deals-on-tech-home-goods-everyday-essentials-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

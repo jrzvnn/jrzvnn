@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Simple](http://9gag.com/gag/aRBQKnG)
- - 😝 [Well I think this is an amazing idea.](http://9gag.com/gag/a7o5dp2)
- - 💣 [Meanwhile](http://9gag.com/gag/aVvO3eO)
- - 😝 [Remembering beautiful memories with her](http://9gag.com/gag/aYQb4Bq)
- - 👉 [Crazy.](http://9gag.com/gag/amoX2Zv)<!-- MEMES:END -->
+ - 😝 [From 10 tons to 10/10](http://9gag.com/gag/a9ydW96)
+ - 💣 [You just can&#39;t get a decent pair of shoe nowadays.](http://9gag.com/gag/ayN5Lwp)
+ - 😝 [So many OSHA violations](http://9gag.com/gag/aW4Z8wA)
+ - 👉 [Remembering beautiful memories with her](http://9gag.com/gag/aYQb4Bq)<!-- MEMES:END -->
 
 ---
 

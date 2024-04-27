@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The first memorial statue to Queen Elizabeth with, of course, her beloved corgis](http://9gag.com/gag/aQzq96W)
- - 😝 [Ok gen Z, learn this](http://9gag.com/gag/awyrn5Q)
- - 💣 [Natural born babies](http://9gag.com/gag/aVvOq22)
- - 😝 [Counter arguments welcome](http://9gag.com/gag/abA5pyB)
- - 👉 [My man was dead inside](http://9gag.com/gag/an7YjYq)<!-- MEMES:END -->
+ - 😝 [It sucks](http://9gag.com/gag/agmyY8n)
+ - 😝 [Just another European city](http://9gag.com/gag/ae9NGDm)
+ - 💣 [Andrew Gold was a tv presenter on BBC. Then he was told to move behind camera because he was being replaced by someone from a minority background. He then quit and made his own podcast. Here he is debating this DEI with a woman who favors that. This is racism and discrimination.](http://9gag.com/gag/aRBQm05)
+ - 😝 [Simple](http://9gag.com/gag/aRBQKnG)
+ - 👉 [Miss +](http://9gag.com/gag/a4P4ZPy)<!-- MEMES:END -->
 
 ---
 

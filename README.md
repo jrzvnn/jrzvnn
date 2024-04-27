@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Simple](http://9gag.com/gag/aRBQKnG)
- - 😝 [Miss +](http://9gag.com/gag/a4P4ZPy)
- - 💣 [`Slide cancel`](http://9gag.com/gag/apRqpgE)
- - 😝 [Crazy.](http://9gag.com/gag/amoX2Zv)
- - 👉 [A good inversement](http://9gag.com/gag/an7YbbV)<!-- MEMES:END -->
+ - 😝 [Remembering beautiful memories with her](http://9gag.com/gag/aYQb4Bq)
+ - 😝 [STING trying to bare with somemone singing his song badly.](http://9gag.com/gag/aD20x0Z)
+ - 💣 [From the archives #23](http://9gag.com/gag/a5Qdr0V)
+ - 😝 [From 10 tons to 10/10](http://9gag.com/gag/a9ydW96)
+ - 👉 [Why so early ?](http://9gag.com/gag/awyrxD8)<!-- MEMES:END -->
 
 ---
 

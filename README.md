@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dude went directly to the good stuff](http://9gag.com/gag/a2vN4pE)
- - 😝 [Miss +](http://9gag.com/gag/a4P4ZPy)
- - 💣 [From the archives #23](http://9gag.com/gag/a5Qdr0V)
- - 😝 [Simple](http://9gag.com/gag/aRBQKnG)
- - 👉 [Don&#39;t talk to him..](http://9gag.com/gag/ae9NGdO)<!-- MEMES:END -->
+ - 😝 [The first memorial statue to Queen Elizabeth with, of course, her beloved corgis](http://9gag.com/gag/aQzq96W)
+ - 😝 [Ok gen Z, learn this](http://9gag.com/gag/awyrn5Q)
+ - 💣 [Natural born babies](http://9gag.com/gag/aVvOq22)
+ - 😝 [Counter arguments welcome](http://9gag.com/gag/abA5pyB)
+ - 👉 [My man was dead inside](http://9gag.com/gag/an7YjYq)<!-- MEMES:END -->
 
 ---
 

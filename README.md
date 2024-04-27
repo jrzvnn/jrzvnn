@@ -168,8 +168,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [The IRS says it spent $10.5M to develop and $2.4M to run its free tax filing website, used by 140K+ households in 12 states, and claims high user satisfaction &lpar;Julie Zauzmer Weil/Washington Post&rpar;](http://www.techmeme.com/240427/p11#a240427p11)
  - [EyeEm, the bankrupt photo sharing network acquired by Freepik last year, will license users&#39; photos to train AI if the images are not deleted within 30 days &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240427/p10#a240427p10)
  - [The Apple Vision Pro’s eBay prices are making me sad](https://www.theverge.com/2024/4/27/24142810/apple-vision-pro-ebay-low-prices)
- - [Best 3D Printing Filament in 2024     - CNET](https://www.cnet.com/tech/computing/best-3d-printing-filament/#ftag=CAD590a51e)
- - [Mastodon forms a new US non-profit, to receive tax-deductible US donations and in-kind support, with Twitter co-founder Biz Stone and others on its board &lpar;Eugen Rochko/Mastodon Blog&rpar;](http://www.techmeme.com/240427/p9#a240427p9)<!-- TECH:END -->
+ - [10 of the Best Sci-Fi Movies to Stream on Max Right Now     - CNET](https://www.cnet.com/tech/services-and-software/10-of-the-best-sci-fi-movies-to-stream-on-max-right-now/#ftag=CAD590a51e)
+ - [Are Processed Foods Harmful? Debunking Myths and Misconceptions     - CNET](https://www.cnet.com/health/nutrition/are-processed-foods-harmful-debunking-myths/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

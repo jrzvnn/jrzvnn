@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [My man was dead inside](http://9gag.com/gag/an7YjYq)
  - 😝 [Miss +](http://9gag.com/gag/a4P4ZPy)
- - 😝 [Show me the picture of the dumbest movie deaths](http://9gag.com/gag/aXPbA4z)
  - 💣 [So many OSHA violations](http://9gag.com/gag/aW4Z8wA)
- - 😝 [Remembering beautiful memories with her](http://9gag.com/gag/aYQb4Bq)
- - 👉 [`Slide cancel`](http://9gag.com/gag/apRqpgE)<!-- MEMES:END -->
+ - 😝 [Crazy.](http://9gag.com/gag/amoX2Zv)
+ - 👉 [From the archives #23](http://9gag.com/gag/a5Qdr0V)<!-- MEMES:END -->
 
 ---
 

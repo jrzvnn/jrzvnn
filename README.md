@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft partners with IBM to release the MS-DOS 4.0 source code under the MIT license on GitHub &lpar;Andy Edser/PC Gamer&rpar;](http://www.techmeme.com/240426/p20#a240426p20)
  - [IBM plans to expand its semiconductor packaging and testing plant in Bromont, Quebec, with more than CA$1B in investments over the next five years &lpar;Mathieu Dion/Bloomberg&rpar;](http://www.techmeme.com/240426/p19#a240426p19)
  - [Apple said to have restarted discussion for OpenAI integration into iOS 18](https://appleinsider.com/articles/24/04/26/apple-said-to-have-restarted-discussion-for-openai-integration-into-ios-18?utm_medium=rss)
  - [Filing: FTC says Jeff Bezos, Andy Jassy, and other Amazon execs used Signal&#39;s disappearing messages to conceal evidence in FTC&#39;s antitrust case against Amazon &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/240426/p18#a240426p18)
- - [FTC says Amazon executives destroyed potential evidence by using apps like Signal](https://www.theverge.com/2024/4/26/24141801/ftc-amazon-antitrust-signal-ephemeral-messaging-evidence)
- - [Sources: Apple has renewed discussions with OpenAI about using its technology to power some features in iOS 18; talks with Google on using Gemini remain ongoing &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240426/p17#a240426p17)<!-- TECH:END -->
+ - [FTC says Amazon executives destroyed potential evidence by using apps like Signal](https://www.theverge.com/2024/4/26/24141801/ftc-amazon-antitrust-signal-ephemeral-messaging-evidence)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

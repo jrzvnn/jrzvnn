@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ben is smart enough not to ask questions](http://9gag.com/gag/a0e9pQq)
- - 😝 [From 10 tons to 10/10](http://9gag.com/gag/a9ydW96)
- - 💣 [Removing a wasp nest](http://9gag.com/gag/aGy9xr5)
- - 😝 [From the archives #23](http://9gag.com/gag/a5Qdr0V)
- - 👉 [She thought every one got their own pot. She ate 1 kg of cheese. We had to order pizza and yes, she wanted one as well.](http://9gag.com/gag/a34YjWr)<!-- MEMES:END -->
+ - 😝 [Mother And Child With Poliosis, A Hereditary White Streak In Hair](http://9gag.com/gag/an7YbDE)
+ - 😝 [When someone has to stand by with a stick to pull you to safety just so you can work...](http://9gag.com/gag/an7Y1go)
+ - 💣 [From 10 tons to 10/10](http://9gag.com/gag/a9ydW96)
+ - 😝 [It sucks](http://9gag.com/gag/agmyY8n)
+ - 👉 [Show me the picture of the dumbest movie deaths](http://9gag.com/gag/aXPbA4z)<!-- MEMES:END -->
 
 ---
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [West Ham vs. Liverpool Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/west-ham-vs-liverpool-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
+ - [Taxpayers Have Less Than 3 Weeks to Claim $1B the IRS Is Holding. See If You&#39;re Owned Money     - CNET](https://www.cnet.com/personal-finance/taxpayers-have-less-than-3-weeks-to-claim-1b-the-irs-is-holding-see-if-youre-owned-money/#ftag=CAD590a51e)
  - [Find Out the Best Time of Day to Exercise for Your Lifestyle     - CNET](https://www.cnet.com/health/fitness/find-the-best-time-of-day-to-exercise/#ftag=CAD590a51e)
  - [A review of Dana Mattioli&#39;s The Everything War, which covers Lina Khan&#39;s antitrust battle against Amazon and makes a case that no company should be so powerful &lpar;Jonathan Ford/Financial Times&rpar;](http://www.techmeme.com/240427/p4#a240427p4)
- - [Investors cheer Microsoft and Alphabet&#39;s huge AI spending plans as shares of both firms rallied but not Meta&#39;s, which saw its worst trading day in 18 months &lpar;Tom Dotan/Wall Street Journal&rpar;](http://www.techmeme.com/240427/p3#a240427p3)
- - [Google plans to invest $2B to set up a data center in Indiana and $1B to expand three Virginia sites, and announces a $75M fund to train Americans on AI skills &lpar;Yuvraj Malik/Reuters&rpar;](http://www.techmeme.com/240427/p2#a240427p2)
- - [Google opens its second hardware office in New Taipei City, as VP of Engineering Elmer Peng says &quot;Taiwan is Google&#39;s largest hardware R&amp;D hub outside of the US&quot; &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240427/p1#a240427p1)<!-- TECH:END -->
+ - [Investors cheer Microsoft and Alphabet&#39;s huge AI spending plans as shares of both firms rallied but not Meta&#39;s, which saw its worst trading day in 18 months &lpar;Tom Dotan/Wall Street Journal&rpar;](http://www.techmeme.com/240427/p3#a240427p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

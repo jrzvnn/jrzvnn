@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just down the stairs animation of several games](http://9gag.com/gag/aXPbvGv)
- - 😝 [My man was dead inside](http://9gag.com/gag/an7YjYq)
- - 💣 [Natural born babies](http://9gag.com/gag/aVvOq22)
+ - 😝 [Counter arguments welcome](http://9gag.com/gag/abA5pyB)
  - 😝 [Best marathon outfit](http://9gag.com/gag/a6ZwMjm)
- - 👉 [I wonder how much horsepower it has?](http://9gag.com/gag/apRqpbB)<!-- MEMES:END -->
+ - 💣 [I wonder how much horsepower it has?](http://9gag.com/gag/apRqpbB)
+ - 😝 [Make Europe white again!!!](http://9gag.com/gag/aO8qrZ3)
+ - 👉 [My man was dead inside](http://9gag.com/gag/an7YjYq)<!-- MEMES:END -->
 
 ---
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Crazy.](http://9gag.com/gag/amoX2Zv)
- - 😝 [So many OSHA violations](http://9gag.com/gag/aW4Z8wA)
- - 💣 [It\u2019s over, we\u2019re done for](http://9gag.com/gag/aqymL6L)
- - 😝 [STING trying to bare with somemone singing his song badly.](http://9gag.com/gag/aD20x0Z)
- - 👉 [Show me the picture of the dumbest movie deaths](http://9gag.com/gag/aXPbA4z)<!-- MEMES:END -->
+ - 😝 [I dont know what it where this is but it surely activating some neurons.](http://9gag.com/gag/abA5MR9)
+ - 😝 [How time flies\u2026](http://9gag.com/gag/abA5M6O)
+ - 💣 [Remembering beautiful memories with her](http://9gag.com/gag/aYQb4Bq)
+ - 😝 [Facts](http://9gag.com/gag/amoX7bj)
+ - 👉 [From 10 tons to 10/10](http://9gag.com/gag/a9ydW96)<!-- MEMES:END -->
 
 ---
 

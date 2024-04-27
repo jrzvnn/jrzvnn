@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump is using the prospect of a TikTok ban to court younger voters, blaming Biden for setting a ban in motion, as the new law rattles pro-Biden TikTok creators &lpar;Akayla Gardner/Bloomberg&rpar;](http://www.techmeme.com/240427/p7#a240427p7)
+ - [7 Best Sleeping Pads &lpar;2024&rpar;: For Camping, Backpacking, and Travel](https://www.wired.com/story/best-sleeping-pads/)
+ - [10 Best Robot Vacuums &lpar;2024&rpar;: Mops, Budget Vacs, Great Mapping](https://www.wired.com/gallery/best-robot-vacuums/)
  - [Many people say their Apple IDs were inexplicably reset last night](https://www.theverge.com/2024/4/27/24142509/apple-id-logged-out-reset-stolen-device-protection)
- - [A look at the rise in video podcasts, as YouTube leads in podcast consumption in the US and companies invest in video to gain new audiences and boost ad revenue &lpar;Reggie Ugwu/New York Times&rpar;](http://www.techmeme.com/240427/p6#a240427p6)
- - [The walls of Apple’s garden are tumbling down](https://www.theverge.com/24141929/apple-iphone-imessage-antitrust-dma-lock-in)
- - [Everton vs. Brentford Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/everton-vs-brentford-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [They turned cattle ranches into tropical forest — then climate change hit](https://www.theverge.com/24137380/forest-restoration-costa-rica-guanacaste-conservation-tree)<!-- TECH:END -->
+ - [Take 30 Minutes to Clean Your Keurig Coffee Maker. You Can Thank Me Later     - CNET](https://www.cnet.com/how-to/take-30-minutes-to-clean-your-keurig-coffee-maker-you-can-thank-me-later/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

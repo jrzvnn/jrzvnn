@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Many people say their Apple IDs were inexplicably reset last night](https://www.theverge.com/2024/4/27/24142509/apple-id-logged-out-reset-stolen-device-protection)
  - [A look at the rise in video podcasts, as YouTube leads in podcast consumption in the US and companies invest in video to gain new audiences and boost ad revenue &lpar;Reggie Ugwu/New York Times&rpar;](http://www.techmeme.com/240427/p6#a240427p6)
  - [The walls of Apple’s garden are tumbling down](https://www.theverge.com/24141929/apple-iphone-imessage-antitrust-dma-lock-in)
  - [Everton vs. Brentford Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/everton-vs-brentford-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [They turned cattle ranches into tropical forest — then climate change hit](https://www.theverge.com/24137380/forest-restoration-costa-rica-guanacaste-conservation-tree)
- - [Gardening 101: What to Know Before Starting Your First Garden This Spring     - CNET](https://www.cnet.com/how-to/gardening-101-what-to-know-before-starting-your-first-garden-this-spring/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [They turned cattle ranches into tropical forest — then climate change hit](https://www.theverge.com/24137380/forest-restoration-costa-rica-guanacaste-conservation-tree)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well I think this is an amazing idea.](http://9gag.com/gag/a7o5dp2)
- - 😝 [From the archives #23](http://9gag.com/gag/a5Qdr0V)
- - 💣 [From 10 tons to 10/10](http://9gag.com/gag/a9ydW96)
- - 😝 [French Police Puncture Illegal Invaders Boat. Send Them Back](http://9gag.com/gag/azxb9ex)
- - 👉 [I dont know what it where this is but it surely activating some neurons.](http://9gag.com/gag/abA5MR9)<!-- MEMES:END -->
+ - 😝 [I dont know what it where this is but it surely activating some neurons.](http://9gag.com/gag/abA5MR9)
+ - 😝 [When you see bugs in the code but it&#39;s not your task!](http://9gag.com/gag/azxbXdK)
+ - 💣 [She thought every one got their own pot. She ate 1 kg of cheese. We had to order pizza and yes, she wanted one as well.](http://9gag.com/gag/a34YjWr)
+ - 😝 [Make Europe white again!!!](http://9gag.com/gag/aO8qrZ3)
+ - 👉 [From the archives #23](http://9gag.com/gag/a5Qdr0V)<!-- MEMES:END -->
 
 ---
 

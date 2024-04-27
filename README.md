@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some users are randomly getting locked out of their Apple ID accounts](https://appleinsider.com/articles/24/04/27/some-users-are-randomly-getting-locked-out-of-their-apple-id-accounts?utm_medium=rss)
  - [Google and Apple use passkeys to capture users by locking credentials into their platforms and have made the UX of passkeys worse than that of password managers &lpar;William Brown/Firstyear&#39;s blog-a-log&rpar;](http://www.techmeme.com/240427/p5#a240427p5)
+ - [Your Android Phone&#39;s Web Browser Has Junk Files You Can Remove Quickly     - CNET](https://www.cnet.com/tech/mobile/your-android-phones-web-browser-has-junk-files-you-can-remove-quickly/#ftag=CAD590a51e)
  - [School Employee Allegedly Framed a Principal With Racist Deepfake Rant](https://www.wired.com/story/racist-deepfake-google-cookies-gm-driver-surveillance-security-roundup/)
- - [Russia Vetoed a UN Resolution to Ban Space Nukes](https://www.wired.com/story/russia-un-resolution-space-nuclear-weapons-satellites/)
- - [Best Cheap Phone of 2024: Most Value for the Money     - CNET](https://www.cnet.com/tech/mobile/best-cheap-phone/#ftag=CAD590a51e)
- - [Don&#39;t Panic if Your Dog Eats a Cicada. Here&#39;s What to Know     - CNET](https://www.cnet.com/home/kitchen-and-household/dont-panic-if-your-dog-eats-a-cicada-heres-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [49 Best Mother&#39;s Day Gifts for Most Every Kind of Mom in 2024     - CNET](https://www.cnet.com/news/best-mothers-day-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

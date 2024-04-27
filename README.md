@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [`Slide cancel`](http://9gag.com/gag/apRqpgE)
+ - 😝 [I wonder how much horsepower it has?](http://9gag.com/gag/apRqpbB)
+ - 💣 [My man was dead inside](http://9gag.com/gag/an7YjYq)
  - 😝 [Counter arguments welcome](http://9gag.com/gag/abA5pyB)
- - 😝 [Best marathon outfit](http://9gag.com/gag/a6ZwMjm)
- - 💣 [I wonder how much horsepower it has?](http://9gag.com/gag/apRqpbB)
- - 😝 [Make Europe white again!!!](http://9gag.com/gag/aO8qrZ3)
- - 👉 [My man was dead inside](http://9gag.com/gag/an7YjYq)<!-- MEMES:END -->
+ - 👉 [Remembering beautiful memories with her](http://9gag.com/gag/aYQb4Bq)<!-- MEMES:END -->
 
 ---
 

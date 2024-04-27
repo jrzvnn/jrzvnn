@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Slide cancel`](http://9gag.com/gag/apRqpgE)
- - 😝 [I wonder how much horsepower it has?](http://9gag.com/gag/apRqpbB)
- - 💣 [My man was dead inside](http://9gag.com/gag/an7YjYq)
- - 😝 [Counter arguments welcome](http://9gag.com/gag/abA5pyB)
- - 👉 [Remembering beautiful memories with her](http://9gag.com/gag/aYQb4Bq)<!-- MEMES:END -->
+ - 😝 [Simple](http://9gag.com/gag/aRBQKnG)
+ - 😝 [Well I think this is an amazing idea.](http://9gag.com/gag/a7o5dp2)
+ - 💣 [Meanwhile](http://9gag.com/gag/aVvO3eO)
+ - 😝 [Remembering beautiful memories with her](http://9gag.com/gag/aYQb4Bq)
+ - 👉 [Crazy.](http://9gag.com/gag/amoX2Zv)<!-- MEMES:END -->
 
 ---
 

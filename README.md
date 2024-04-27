@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fuggin legend](http://9gag.com/gag/aLnKjdx)
- - 😝 [The cheapest and most delicious long-established hamburger shop in Japan run by a grandfather for 50 years.](http://9gag.com/gag/a87W8BQ)
- - 💣 [Facts](http://9gag.com/gag/amoX7bj)
- - 😝 [Planky](http://9gag.com/gag/aLnKgBv)
- - 👉 [Really just a 9gagger lazy not wanting to take them off yet](http://9gag.com/gag/axyN1On)<!-- MEMES:END -->
+ - 😝 [French Police Puncture Illegal Invaders Boat. Send Them Back](http://9gag.com/gag/azxb9ex)
+ - 😝 [Crazy.](http://9gag.com/gag/amoX2Zv)
+ - 💣 [I dont know what it where this is but it surely activating some neurons.](http://9gag.com/gag/abA5MR9)
+ - 😝 [When you see bugs in the code but it&#39;s not your task!](http://9gag.com/gag/azxbXdK)
+ - 👉 [You just can&#39;t get a decent pair of shoe nowadays.](http://9gag.com/gag/ayN5Lwp)<!-- MEMES:END -->
 
 ---
 

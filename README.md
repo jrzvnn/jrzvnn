@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It sucks](http://9gag.com/gag/agmyY8n)
- - 😝 [Just another European city](http://9gag.com/gag/ae9NGDm)
- - 💣 [Andrew Gold was a tv presenter on BBC. Then he was told to move behind camera because he was being replaced by someone from a minority background. He then quit and made his own podcast. Here he is debating this DEI with a woman who favors that. This is racism and discrimination.](http://9gag.com/gag/aRBQm05)
- - 😝 [Simple](http://9gag.com/gag/aRBQKnG)
- - 👉 [Miss +](http://9gag.com/gag/a4P4ZPy)<!-- MEMES:END -->
+ - 😝 [Moooazing](http://9gag.com/gag/an7YbO0)
+ - 😝 [Counter arguments welcome](http://9gag.com/gag/abA5pyB)
+ - 💣 [The force is strong with this one](http://9gag.com/gag/aZZPmRp)
+ - 😝 [My man was dead inside](http://9gag.com/gag/an7YjYq)
+ - 👉 [Best marathon outfit](http://9gag.com/gag/a6ZwMjm)<!-- MEMES:END -->
 
 ---
 

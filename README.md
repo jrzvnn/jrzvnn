@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Moooazing](http://9gag.com/gag/an7YbO0)
- - 😝 [Counter arguments welcome](http://9gag.com/gag/abA5pyB)
- - 💣 [The force is strong with this one](http://9gag.com/gag/aZZPmRp)
- - 😝 [My man was dead inside](http://9gag.com/gag/an7YjYq)
- - 👉 [Best marathon outfit](http://9gag.com/gag/a6ZwMjm)<!-- MEMES:END -->
+ - 😝 [Have you guys seen this shit yet?](http://9gag.com/gag/a87Wp11)
+ - 😝 [She thought every one got their own pot. She ate 1 kg of cheese. We had to order pizza and yes, she wanted one as well.](http://9gag.com/gag/a34YjWr)
+ - 💣 [It sucks](http://9gag.com/gag/agmyY8n)
+ - 😝 [I wonder how much horsepower it has?](http://9gag.com/gag/apRqpbB)
+ - 👉 [Well I think this is an amazing idea.](http://9gag.com/gag/a7o5dp2)<!-- MEMES:END -->
 
 ---
 

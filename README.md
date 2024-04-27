@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Simple](http://9gag.com/gag/aRBQKnG)
+ - 😝 [Counter arguments welcome](http://9gag.com/gag/abA5pyB)
+ - 😝 [Natural born babies](http://9gag.com/gag/aVvOq22)
+ - 💣 [Remembering the BLM mass lootings. Don&#39;t mess with the rooftop Koreans.](http://9gag.com/gag/azxbX1B)
  - 😝 [My man was dead inside](http://9gag.com/gag/an7YjYq)
- - 💣 [From 10 tons to 10/10](http://9gag.com/gag/a9ydW96)
- - 😝 [From the archives #23](http://9gag.com/gag/a5Qdr0V)
- - 👉 [Remembering beautiful memories with her](http://9gag.com/gag/aYQb4Bq)<!-- MEMES:END -->
+ - 👉 [I wonder how much horsepower it has?](http://9gag.com/gag/apRqpbB)<!-- MEMES:END -->
 
 ---
 

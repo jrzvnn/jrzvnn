@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I dont know what it where this is but it surely activating some neurons.](http://9gag.com/gag/abA5MR9)
+ - 😝 [Remembering beautiful memories with her](http://9gag.com/gag/aYQb4Bq)
+ - 😝 [You just can&#39;t get a decent pair of shoe nowadays.](http://9gag.com/gag/ayN5Lwp)
+ - 💣 [French Police Puncture Illegal Invaders Boat. Send Them Back](http://9gag.com/gag/azxb9ex)
  - 😝 [Crazy.](http://9gag.com/gag/amoX2Zv)
- - 💣 [Remembering beautiful memories with her](http://9gag.com/gag/aYQb4Bq)
- - 😝 [French Police Puncture Illegal Invaders Boat. Send Them Back](http://9gag.com/gag/azxb9ex)
- - 👉 [You just can&#39;t get a decent pair of shoe nowadays.](http://9gag.com/gag/ayN5Lwp)<!-- MEMES:END -->
+ - 👉 [`Slide cancel`](http://9gag.com/gag/apRqpgE)<!-- MEMES:END -->
 
 ---
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My man was dead inside](http://9gag.com/gag/an7YjYq)
- - 😝 [Miss +](http://9gag.com/gag/a4P4ZPy)
- - 💣 [So many OSHA violations](http://9gag.com/gag/aW4Z8wA)
  - 😝 [Crazy.](http://9gag.com/gag/amoX2Zv)
- - 👉 [From the archives #23](http://9gag.com/gag/a5Qdr0V)<!-- MEMES:END -->
+ - 😝 [So many OSHA violations](http://9gag.com/gag/aW4Z8wA)
+ - 💣 [It\u2019s over, we\u2019re done for](http://9gag.com/gag/aqymL6L)
+ - 😝 [STING trying to bare with somemone singing his song badly.](http://9gag.com/gag/aD20x0Z)
+ - 👉 [Show me the picture of the dumbest movie deaths](http://9gag.com/gag/aXPbA4z)<!-- MEMES:END -->
 
 ---
 

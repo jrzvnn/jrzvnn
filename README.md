@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Simple](http://9gag.com/gag/aRBQKnG)
- - 😝 [Crazy.](http://9gag.com/gag/amoX2Zv)
- - 💣 [When you see bugs in the code but it&#39;s not your task!](http://9gag.com/gag/azxbXdK)
- - 😝 [From 10 tons to 10/10](http://9gag.com/gag/a9ydW96)
- - 👉 [So many OSHA violations](http://9gag.com/gag/aW4Z8wA)<!-- MEMES:END -->
+ - 😝 [Well I think this is an amazing idea.](http://9gag.com/gag/a7o5dp2)
+ - 😝 [From the archives #23](http://9gag.com/gag/a5Qdr0V)
+ - 💣 [From 10 tons to 10/10](http://9gag.com/gag/a9ydW96)
+ - 😝 [French Police Puncture Illegal Invaders Boat. Send Them Back](http://9gag.com/gag/azxb9ex)
+ - 👉 [I dont know what it where this is but it surely activating some neurons.](http://9gag.com/gag/abA5MR9)<!-- MEMES:END -->
 
 ---
 

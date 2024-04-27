@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What does this tell us?](http://9gag.com/gag/aqymLbQ)
- - 😝 [From culprit to victim in seconds](http://9gag.com/gag/ae9Nerm)
- - 💣 [`Slide cancel`](http://9gag.com/gag/apRqpgE)
- - 😝 [From the archives #23](http://9gag.com/gag/a5Qdr0V)
- - 👉 [From 10 tons to 10/10](http://9gag.com/gag/a9ydW96)<!-- MEMES:END -->
+ - 😝 [So many OSHA violations](http://9gag.com/gag/aW4Z8wA)
+ - 😝 [Fred Noonan](http://9gag.com/gag/aByKYgP)
+ - 💣 [Eminem is on another level!](http://9gag.com/gag/ajPrDog)
+ - 😝 [Yeah, they f**ked up royally](http://9gag.com/gag/azxbr7q)
+ - 👉 [When you didn&#39;t lie on your resume](http://9gag.com/gag/aAyYwG0)<!-- MEMES:END -->
 
 ---
 

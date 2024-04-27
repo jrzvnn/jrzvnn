@@ -174,10 +174,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Swifties can suck it.... video was removed from Twitter... please share.](http://9gag.com/gag/aByKrL1)
- - 😝 [`Slide cancel`](http://9gag.com/gag/apRqpgE)
- - 💣 [Eminem is on another level!](http://9gag.com/gag/ajPrDog)
- - 😝 [She thought every one got their own pot. She ate 1 kg of cheese. We had to order pizza and yes, she wanted one as well.](http://9gag.com/gag/a34YjWr)
+ - 😝 [What does this tell us?](http://9gag.com/gag/aqymLbQ)
+ - 😝 [From culprit to victim in seconds](http://9gag.com/gag/ae9Nerm)
+ - 💣 [`Slide cancel`](http://9gag.com/gag/apRqpgE)
+ - 😝 [From the archives #23](http://9gag.com/gag/a5Qdr0V)
  - 👉 [From 10 tons to 10/10](http://9gag.com/gag/a9ydW96)<!-- MEMES:END -->
 
 ---

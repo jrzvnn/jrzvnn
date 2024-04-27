@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [From 10 tons to 10/10](http://9gag.com/gag/a9ydW96)
- - 😝 [She thought every one got their own pot. She ate 1 kg of cheese. We had to order pizza and yes, she wanted one as well.](http://9gag.com/gag/a34YjWr)
- - 💣 [Remembering beautiful memories with her](http://9gag.com/gag/aYQb4Bq)
- - 😝 [When you see bugs in the code but it&#39;s not your task!](http://9gag.com/gag/azxbXdK)
- - 👉 [You just can&#39;t get a decent pair of shoe nowadays.](http://9gag.com/gag/ayN5Lwp)<!-- MEMES:END -->
+ - 😝 [Fuggin legend](http://9gag.com/gag/aLnKjdx)
+ - 😝 [Facts](http://9gag.com/gag/amoX7bj)
+ - 💣 [From 10 tons to 10/10](http://9gag.com/gag/a9ydW96)
+ - 😝 [Really just a 9gagger lazy not wanting to take them off yet](http://9gag.com/gag/axyN1On)
+ - 👉 [The cheapest and most delicious long-established hamburger shop in Japan run by a grandfather for 50 years.](http://9gag.com/gag/a87W8BQ)<!-- MEMES:END -->
 
 ---
 

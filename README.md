@@ -166,10 +166,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A number of Apple users say they were logged out of their Apple ID across multiple devices on April 26 and forced to reset their password before logging back in &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240426/p22#a240426p22)
+ - [Today&#39;s Wordle Hints and Answer: Help for April 27, #1043     - CNET](https://www.cnet.com/news/todays-wordle-hints-and-answer-help-for-april-27-1043/#ftag=CAD590a51e)
  - [A US appeals court reverses a 2021 ruling that prevented New York from enforcing a law requiring ISPs to offer low-cost broadband plans to low-income consumers &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/240426/p21#a240426p21)
  - [Microsoft partners with IBM to release the MS-DOS 4.0 source code under the MIT license on GitHub &lpar;Andy Edser/PC Gamer&rpar;](http://www.techmeme.com/240426/p20#a240426p20)
- - [Dell 14.0&quot; 2-in-1 Touch Laptop     - CNET](https://www.cnet.com/tech/computing/dell-14-0-2-in-1-touch-laptop-13th-gen-dpnl/#ftag=CAD590a51e)
- - [Combining Our Finances After Marriage Was a Mess. Why Separate Bank Accounts Work Better for Us     - CNET](https://www.cnet.com/personal-finance/banking/combining-our-finances-after-marriage-was-a-mess-why-separate-bank-accounts-work-better-for-us/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Dell 14.0&quot; 2-in-1 Touch Laptop     - CNET](https://www.cnet.com/tech/computing/dell-14-0-2-in-1-touch-laptop-13th-gen-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

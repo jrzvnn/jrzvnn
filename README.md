@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The walls of Apple’s garden are tumbling down](https://www.theverge.com/24141929/apple-iphone-imessage-antitrust-dma-lock-in)
  - [They turned cattle ranches into tropical forest — then climate change hit](https://www.theverge.com/24137380/forest-restoration-costa-rica-guanacaste-conservation-tree)
  - [Ceretone Core One OTC Hearing Aids Review: Tiny and Barely Useful](https://www.wired.com/review/ceretone-core-one-otc-hearing-aids/)
  - [The 25 Best iPad Accessories &lpar;2024&rpar;: Cases, Keyboards, Chargers, and Hubs](https://www.wired.com/gallery/best-ipad-accessories/)
- - [Best Buy&#39;s Massive 3-Day Sale Has Deals on Top Tech, Major Appliances and More     - CNET](https://www.cnet.com/deals/best-buys-massive-3-day-sale-has-deals-on-top-tech-major-appliances-and-more/#ftag=CAD590a51e)
- - [Best Amazon Deals: Score Sweet Deals on Tech, Home Goods, Everyday Essentials and More     - CNET](https://www.cnet.com/deals/best-amazon-deals-score-sweet-deals-on-tech-home-goods-everyday-essentials-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Buy&#39;s Massive 3-Day Sale Has Deals on Top Tech, Major Appliances and More     - CNET](https://www.cnet.com/deals/best-buys-massive-3-day-sale-has-deals-on-top-tech-major-appliances-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

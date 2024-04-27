@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Counter arguments welcome](http://9gag.com/gag/abA5pyB)
- - 😝 [Moooazing](http://9gag.com/gag/an7YbO0)
- - 💣 [The force is strong with this one](http://9gag.com/gag/aZZPmRp)
- - 😝 [Natural born babies](http://9gag.com/gag/aVvOq22)
- - 👉 [My man was dead inside](http://9gag.com/gag/an7YjYq)<!-- MEMES:END -->
+ - 😝 [She thought every one got their own pot. She ate 1 kg of cheese. We had to order pizza and yes, she wanted one as well.](http://9gag.com/gag/a34YjWr)
+ - 😝 [`Slide cancel`](http://9gag.com/gag/apRqpgE)
+ - 💣 [So many OSHA violations](http://9gag.com/gag/aW4Z8wA)
+ - 😝 [From 10 tons to 10/10](http://9gag.com/gag/a9ydW96)
+ - 👉 [Flight QF14, Buenos Aires to Darwin Australia. A flight path that doesn&#39;t work on a flat Earth.](http://9gag.com/gag/aAyYP3Z)<!-- MEMES:END -->
 
 ---
 

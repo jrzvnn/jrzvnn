@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bose’s excellent QC Ultra Earbuds are matching their all-time low](https://www.theverge.com/2024/4/27/24141775/bose-quietcomfort-ultra-earbuds-lego-mighty-bowser-piranha-plant-deal-sale)
  - [Trump is using the prospect of a TikTok ban to court younger voters, blaming Biden for setting a ban in motion, as the new law rattles pro-Biden TikTok creators &lpar;Akayla Gardner/Bloomberg&rpar;](http://www.techmeme.com/240427/p7#a240427p7)
  - [7 Best Sleeping Pads &lpar;2024&rpar;: For Camping, Backpacking, and Travel](https://www.wired.com/story/best-sleeping-pads/)
  - [10 Best Robot Vacuums &lpar;2024&rpar;: Mops, Budget Vacs, Great Mapping](https://www.wired.com/gallery/best-robot-vacuums/)
- - [Many people say their Apple IDs were inexplicably reset last night](https://www.theverge.com/2024/4/27/24142509/apple-id-logged-out-reset-stolen-device-protection)
- - [Take 30 Minutes to Clean Your Keurig Coffee Maker. You Can Thank Me Later     - CNET](https://www.cnet.com/how-to/take-30-minutes-to-clean-your-keurig-coffee-maker-you-can-thank-me-later/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Many people say their Apple IDs were inexplicably reset last night](https://www.theverge.com/2024/4/27/24142509/apple-id-logged-out-reset-stolen-device-protection)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

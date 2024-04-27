@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Have you guys seen this shit yet?](http://9gag.com/gag/a87Wp11)
- - 😝 [She thought every one got their own pot. She ate 1 kg of cheese. We had to order pizza and yes, she wanted one as well.](http://9gag.com/gag/a34YjWr)
- - 💣 [It sucks](http://9gag.com/gag/agmyY8n)
- - 😝 [I wonder how much horsepower it has?](http://9gag.com/gag/apRqpbB)
- - 👉 [Well I think this is an amazing idea.](http://9gag.com/gag/a7o5dp2)<!-- MEMES:END -->
+ - 😝 [Counter arguments welcome](http://9gag.com/gag/abA5pyB)
+ - 😝 [Moooazing](http://9gag.com/gag/an7YbO0)
+ - 💣 [The force is strong with this one](http://9gag.com/gag/aZZPmRp)
+ - 😝 [Natural born babies](http://9gag.com/gag/aVvOq22)
+ - 👉 [My man was dead inside](http://9gag.com/gag/an7YjYq)<!-- MEMES:END -->
 
 ---
 

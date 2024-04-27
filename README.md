@@ -177,8 +177,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - 😝 [Fuggin legend](http://9gag.com/gag/aLnKjdx)
  - 😝 [Facts](http://9gag.com/gag/amoX7bj)
  - 💣 [From 10 tons to 10/10](http://9gag.com/gag/a9ydW96)
- - 😝 [Really just a 9gagger lazy not wanting to take them off yet](http://9gag.com/gag/axyN1On)
- - 👉 [The cheapest and most delicious long-established hamburger shop in Japan run by a grandfather for 50 years.](http://9gag.com/gag/a87W8BQ)<!-- MEMES:END -->
+ - 😝 [The cheapest and most delicious long-established hamburger shop in Japan run by a grandfather for 50 years.](http://9gag.com/gag/a87W8BQ)
+ - 👉 [Really just a 9gagger lazy not wanting to take them off yet](http://9gag.com/gag/axyN1On)<!-- MEMES:END -->
 
 ---
 

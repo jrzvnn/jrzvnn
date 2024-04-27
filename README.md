@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Russia Vetoed a UN Resolution to Ban Space Nukes](https://www.wired.com/story/russia-un-resolution-space-nuclear-weapons-satellites/)
  - [Best Cheap Phone of 2024: Most Value for the Money     - CNET](https://www.cnet.com/tech/mobile/best-cheap-phone/#ftag=CAD590a51e)
  - [Don&#39;t Panic if Your Dog Eats a Cicada. Here&#39;s What to Know     - CNET](https://www.cnet.com/home/kitchen-and-household/dont-panic-if-your-dog-eats-a-cicada-heres-what-to-know/#ftag=CAD590a51e)
  - [Student Loan Forgiveness Deadline: 3 Days Left to Consolidate Your Student Loans     - CNET](https://www.cnet.com/personal-finance/loans/student-loan-forgiveness-deadline-3-days-left-to-consolidate-your-student-loans/#ftag=CAD590a51e)
- - [West Ham vs. Liverpool Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/west-ham-vs-liverpool-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [Taxpayers Have Less Than 3 Weeks to Claim $1B the IRS Is Holding. See If You&#39;re Owned Money     - CNET](https://www.cnet.com/personal-finance/taxpayers-have-less-than-3-weeks-to-claim-1b-the-irs-is-holding-see-if-youre-owned-money/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [West Ham vs. Liverpool Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/west-ham-vs-liverpool-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The Apple Vision Pro’s eBay prices are making me sad](https://www.theverge.com/2024/4/27/24142810/apple-vision-pro-ebay-low-prices)
+ - [Best 3D Printing Filament in 2024     - CNET](https://www.cnet.com/tech/computing/best-3d-printing-filament/#ftag=CAD590a51e)
  - [Mastodon forms a new US non-profit, to receive tax-deductible US donations and in-kind support, with Twitter co-founder Biz Stone and others on its board &lpar;Eugen Rochko/Mastodon Blog&rpar;](http://www.techmeme.com/240427/p9#a240427p9)
- - [Have a look at this Terminator 2 fan restoration project](https://www.theverge.com/2024/4/27/24142560/terminator-2-judgment-day-35mm-fan-restoration)
- - [22 Great Gifts for $50 or Less     - CNET](https://www.cnet.com/tech/computing/best-gifts-for-50-or-less/#ftag=CAD590a51e)
- - [How to Watch &#39;Dance Moms: The Reunion&#39; Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-dance-moms-the-reunion-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save Up to $700 at HeyBike&#39;s Mother&#39;s Day Sale     - CNET](https://www.cnet.com/roadshow/news/save-up-to-700-at-heybikes-mothers-day-sale/#ftag=CAD590a51e)
+ - [Best Gifts for Mom 2024: Cement Your Spot as Her Favorite Kid     - CNET](https://www.cnet.com/news/best-gifts-for-mom/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

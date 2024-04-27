@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google plans to invest $2B to set up a data center in Indiana and $1B to expand three Virginia sites, and announces a $75M fund to train Americans on AI skills &lpar;Yuvraj Malik/Reuters&rpar;](http://www.techmeme.com/240427/p2#a240427p2)
  - [Google opens its second hardware office in New Taipei City, as VP of Engineering Elmer Peng says &quot;Taiwan is Google&#39;s largest hardware R&amp;D hub outside of the US&quot; &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240427/p1#a240427p1)
  - [A number of Apple users say they were logged out of their Apple ID across multiple devices on April 26 and forced to reset their password before logging back in &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240426/p22#a240426p22)
  - [Today&#39;s Wordle Hints and Answer: Help for April 27, #1043     - CNET](https://www.cnet.com/news/todays-wordle-hints-and-answer-help-for-april-27-1043/#ftag=CAD590a51e)
- - [A US appeals court reverses a 2021 ruling that prevented New York from enforcing a law requiring ISPs to offer low-cost broadband plans to low-income consumers &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/240426/p21#a240426p21)
- - [Microsoft partners with IBM to release the MS-DOS 4.0 source code under the MIT license on GitHub &lpar;Andy Edser/PC Gamer&rpar;](http://www.techmeme.com/240426/p20#a240426p20)<!-- TECH:END -->
+ - [A US appeals court reverses a 2021 ruling that prevented New York from enforcing a law requiring ISPs to offer low-cost broadband plans to low-income consumers &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/240426/p21#a240426p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

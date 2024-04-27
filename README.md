@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok users with stigmatized interests or marginalized identities express anxiety over its potential ban, as rebuilding their communities elsewhere may be hard &lpar;Washington Post&rpar;](http://www.techmeme.com/240427/p12#a240427p12)
  - [The IRS says it spent $10.5M to develop and $2.4M to run its free tax filing website, used by 140K+ households in 12 states, and claims high user satisfaction &lpar;Julie Zauzmer Weil/Washington Post&rpar;](http://www.techmeme.com/240427/p11#a240427p11)
  - [EyeEm, the bankrupt photo sharing network acquired by Freepik last year, will license users&#39; photos to train AI if the images are not deleted within 30 days &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240427/p10#a240427p10)
  - [The Apple Vision Pro’s eBay prices are making me sad](https://www.theverge.com/2024/4/27/24142810/apple-vision-pro-ebay-low-prices)
- - [10 of the Best Sci-Fi Movies to Stream on Max Right Now     - CNET](https://www.cnet.com/tech/services-and-software/10-of-the-best-sci-fi-movies-to-stream-on-max-right-now/#ftag=CAD590a51e)
- - [Are Processed Foods Harmful? Debunking Myths and Misconceptions     - CNET](https://www.cnet.com/health/nutrition/are-processed-foods-harmful-debunking-myths/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [10 of the Best Sci-Fi Movies to Stream on Max Right Now     - CNET](https://www.cnet.com/tech/services-and-software/10-of-the-best-sci-fi-movies-to-stream-on-max-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

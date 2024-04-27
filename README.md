@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best New Albums of Spring 2024](https://www.wired.com/story/best-new-albums-of-2024-spring/)
  - [Meta’s Ray-Ban Smart Shades Get a Fresh Blast of AI](https://www.wired.com/story/meta-ray-ban-smart-glasses-ai-update/)
- - [1 in 3 Americans Live in Areas With Dangerous Air Pollution](https://www.wired.com/story/one-in-three-americans-live-in-areas-with-dangerous-air-pollution/)
- - [Some users are randomly getting locked out of their Apple ID accounts](https://appleinsider.com/articles/24/04/27/some-users-are-randomly-getting-locked-out-of-their-apple-id-accounts?utm_medium=rss)
- - [Google and Apple use passkeys to capture users by locking credentials into their platforms and have made the UX of passkeys worse than that of password managers &lpar;William Brown/Firstyear&#39;s blog-a-log&rpar;](http://www.techmeme.com/240427/p5#a240427p5)
- - [Your Android Phone&#39;s Web Browser Has Junk Files You Can Remove Quickly     - CNET](https://www.cnet.com/tech/mobile/your-android-phones-web-browser-has-junk-files-you-can-remove-quickly/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [These Common Houseplants Are Known to Repel Bugs     - CNET](https://www.cnet.com/news/these-common-houseplants-are-known-to-repel-bugs/#ftag=CAD590a51e)
+ - [Shop at Walmart Over the Past 6 Years? You Might Be Able to Claim $500 in Settlement Cash     - CNET](https://www.cnet.com/personal-finance/shop-at-walmart-over-the-past-6-years-you-might-be-able-to-claim-500-in-settlement-cash/#ftag=CAD590a51e)
+ - [Child Tax Credit 2024: When Will the IRS Send Your Refund?     - CNET](https://www.cnet.com/personal-finance/taxes/child-tax-credit-2024-when-will-the-irs-send-your-refund/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

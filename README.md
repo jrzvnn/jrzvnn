@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fuggin legend](http://9gag.com/gag/aLnKjdx)
- - 😝 [Facts](http://9gag.com/gag/amoX7bj)
- - 💣 [From 10 tons to 10/10](http://9gag.com/gag/a9ydW96)
- - 😝 [The cheapest and most delicious long-established hamburger shop in Japan run by a grandfather for 50 years.](http://9gag.com/gag/a87W8BQ)
- - 👉 [Really just a 9gagger lazy not wanting to take them off yet](http://9gag.com/gag/axyN1On)<!-- MEMES:END -->
+ - 😝 [Simple](http://9gag.com/gag/aRBQKnG)
+ - 😝 [Crazy.](http://9gag.com/gag/amoX2Zv)
+ - 💣 [When you see bugs in the code but it&#39;s not your task!](http://9gag.com/gag/azxbXdK)
+ - 😝 [From 10 tons to 10/10](http://9gag.com/gag/a9ydW96)
+ - 👉 [So many OSHA violations](http://9gag.com/gag/aW4Z8wA)<!-- MEMES:END -->
 
 ---
 

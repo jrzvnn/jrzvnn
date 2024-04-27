@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So many OSHA violations](http://9gag.com/gag/aW4Z8wA)
- - 😝 [Fred Noonan](http://9gag.com/gag/aByKYgP)
- - 💣 [Eminem is on another level!](http://9gag.com/gag/ajPrDog)
- - 😝 [Yeah, they f**ked up royally](http://9gag.com/gag/azxbr7q)
- - 👉 [When you didn&#39;t lie on your resume](http://9gag.com/gag/aAyYwG0)<!-- MEMES:END -->
+ - 😝 [The first memorial statue to Queen Elizabeth with, of course, her beloved corgis](http://9gag.com/gag/aQzq96W)
+ - 😝 [Ok gen Z, learn this](http://9gag.com/gag/awyrn5Q)
+ - 💣 [Natural born babies](http://9gag.com/gag/aVvOq22)
+ - 😝 [Counter arguments welcome](http://9gag.com/gag/abA5pyB)
+ - 👉 [My man was dead inside](http://9gag.com/gag/an7YjYq)<!-- MEMES:END -->
 
 ---
 

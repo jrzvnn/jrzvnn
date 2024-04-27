@@ -174,10 +174,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why so early ?](http://9gag.com/gag/awyrxD8)
- - 😝 [Simple](http://9gag.com/gag/aRBQKnG)
- - 💣 [Remembering beautiful memories with her](http://9gag.com/gag/aYQb4Bq)
- - 😝 [Miss +](http://9gag.com/gag/a4P4ZPy)
+ - 😝 [From the archives #23](http://9gag.com/gag/a5Qdr0V)
+ - 😝 [`Slide cancel`](http://9gag.com/gag/apRqpgE)
+ - 💣 [Well I think this is an amazing idea.](http://9gag.com/gag/a7o5dp2)
+ - 😝 [The cheapest and most delicious long-established hamburger shop in Japan run by a grandfather for 50 years.](http://9gag.com/gag/a87W8BQ)
  - 👉 [She thought every one got their own pot. She ate 1 kg of cheese. We had to order pizza and yes, she wanted one as well.](http://9gag.com/gag/a34YjWr)<!-- MEMES:END -->
 
 ---

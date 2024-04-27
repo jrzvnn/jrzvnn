@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The first memorial statue to Queen Elizabeth with, of course, her beloved corgis](http://9gag.com/gag/aQzq96W)
- - 😝 [Ok gen Z, learn this](http://9gag.com/gag/awyrn5Q)
- - 💣 [Natural born babies](http://9gag.com/gag/aVvOq22)
- - 😝 [Counter arguments welcome](http://9gag.com/gag/abA5pyB)
- - 👉 [My man was dead inside](http://9gag.com/gag/an7YjYq)<!-- MEMES:END -->
+ - 😝 [Why so early ?](http://9gag.com/gag/awyrxD8)
+ - 😝 [Simple](http://9gag.com/gag/aRBQKnG)
+ - 💣 [Remembering beautiful memories with her](http://9gag.com/gag/aYQb4Bq)
+ - 😝 [Miss +](http://9gag.com/gag/a4P4ZPy)
+ - 👉 [She thought every one got their own pot. She ate 1 kg of cheese. We had to order pizza and yes, she wanted one as well.](http://9gag.com/gag/a34YjWr)<!-- MEMES:END -->
 
 ---
 

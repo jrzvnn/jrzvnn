@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Simple](http://9gag.com/gag/aRBQKnG)
- - 😝 [In 2001, a Yakuza mob boss named Tadamasa Goto gave a $100,000 donation to UCLA. In exchange, they gave him a liver transplant, allowing him to jump the queue. That same year, 186 people in the Los Angeles area died while waiting for a liver transplant. The FBI was also involved.](http://9gag.com/gag/abA5MZO)
- - 💣 [Remembering beautiful memories with her](http://9gag.com/gag/aYQb4Bq)
- - 😝 [`Slide cancel`](http://9gag.com/gag/apRqpgE)
- - 👉 [She thought every one got their own pot. She ate 1 kg of cheese. We had to order pizza and yes, she wanted one as well.](http://9gag.com/gag/a34YjWr)<!-- MEMES:END -->
+ - 😝 [Miss +](http://9gag.com/gag/a4P4ZPy)
+ - 😝 [Show me the picture of the dumbest movie deaths](http://9gag.com/gag/aXPbA4z)
+ - 💣 [So many OSHA violations](http://9gag.com/gag/aW4Z8wA)
+ - 😝 [Remembering beautiful memories with her](http://9gag.com/gag/aYQb4Bq)
+ - 👉 [`Slide cancel`](http://9gag.com/gag/apRqpgE)<!-- MEMES:END -->
 
 ---
 

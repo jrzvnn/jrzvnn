@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 25 Best iPad Accessories &lpar;2024&rpar;: Cases, Keyboards, Chargers, and Hubs](https://www.wired.com/gallery/best-ipad-accessories/)
  - [The Best New Albums of Spring 2024](https://www.wired.com/story/best-new-albums-of-2024-spring/)
  - [Meta’s Ray-Ban Smart Shades Get a Fresh Blast of AI](https://www.wired.com/story/meta-ray-ban-smart-glasses-ai-update/)
  - [These Common Houseplants Are Known to Repel Bugs     - CNET](https://www.cnet.com/news/these-common-houseplants-are-known-to-repel-bugs/#ftag=CAD590a51e)
- - [Shop at Walmart Over the Past 6 Years? You Might Be Able to Claim $500 in Settlement Cash     - CNET](https://www.cnet.com/personal-finance/shop-at-walmart-over-the-past-6-years-you-might-be-able-to-claim-500-in-settlement-cash/#ftag=CAD590a51e)
- - [Child Tax Credit 2024: When Will the IRS Send Your Refund?     - CNET](https://www.cnet.com/personal-finance/taxes/child-tax-credit-2024-when-will-the-irs-send-your-refund/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Shop at Walmart Over the Past 6 Years? You Might Be Able to Claim $500 in Settlement Cash     - CNET](https://www.cnet.com/personal-finance/shop-at-walmart-over-the-past-6-years-you-might-be-able-to-claim-500-in-settlement-cash/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

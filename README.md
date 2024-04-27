@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Miss +](http://9gag.com/gag/a4P4ZPy)
- - 😝 [A good inversement](http://9gag.com/gag/an7YbbV)
+ - 😝 [Does this non woke studio even exist???](http://9gag.com/gag/ayN5d4r)
+ - 😝 [`Slide cancel`](http://9gag.com/gag/apRqpgE)
  - 💣 [From the archives #23](http://9gag.com/gag/a5Qdr0V)
- - 😝 [From 10 tons to 10/10](http://9gag.com/gag/a9ydW96)
- - 👉 [She thought every one got their own pot. She ate 1 kg of cheese. We had to order pizza and yes, she wanted one as well.](http://9gag.com/gag/a34YjWr)<!-- MEMES:END -->
+ - 😝 [Have you guys seen this shit yet?](http://9gag.com/gag/a87Wp11)
+ - 👉 [Just another European city](http://9gag.com/gag/ae9NGDm)<!-- MEMES:END -->
 
 ---
 

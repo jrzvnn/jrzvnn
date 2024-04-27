@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mastodon forms a new US non-profit, to receive tax-deductible US donations and in-kind support, with Twitter co-founder Biz Stone and others on its board &lpar;Eugen Rochko/Mastodon Blog&rpar;](http://www.techmeme.com/240427/p9#a240427p9)
  - [Have a look at this Terminator 2 fan restoration project](https://www.theverge.com/2024/4/27/24142560/terminator-2-judgment-day-35mm-fan-restoration)
- - [Microsoft, Meta, and Alphabet disclosed that they had spent $32B+ combined on data centers and other capital expenses in Q1, as they accelerate AI spending &lpar;Karen Weise/New York Times&rpar;](http://www.techmeme.com/240427/p8#a240427p8)
- - [The Verge’s 2024 Mother’s Day gift guide](https://www.theverge.com/24115101/best-mothers-day-gift-ideas-2024-mom-tech-gadgets)
- - [Act Now To Snag This Ooni Fyra Pizza Oven for Only $260     - CNET](https://www.cnet.com/deals/act-now-to-snag-this-ooni-fyra-pizza-oven-for-only-260/#ftag=CAD590a51e)
- - [Low iPhone Storage? Before You Delete Your Memories, Check These Two iOS Settings     - CNET](https://www.cnet.com/tech/services-and-software/low-iphone-storage-before-you-delete-your-memories-check-these-two-ios-settings/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [22 Great Gifts for $50 or Less     - CNET](https://www.cnet.com/tech/computing/best-gifts-for-50-or-less/#ftag=CAD590a51e)
+ - [How to Watch &#39;Dance Moms: The Reunion&#39; Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-dance-moms-the-reunion-without-cable/#ftag=CAD590a51e)
+ - [Microsoft, Meta, and Alphabet disclosed that they had spent $32B+ combined on data centers and other capital expenses in Q1, as they accelerate AI spending &lpar;Karen Weise/New York Times&rpar;](http://www.techmeme.com/240427/p8#a240427p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

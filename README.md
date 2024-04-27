@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Have a look at this Terminator 2 fan restoration project](https://www.theverge.com/2024/4/27/24142560/terminator-2-judgment-day-35mm-fan-restoration)
  - [Microsoft, Meta, and Alphabet disclosed that they had spent $32B+ combined on data centers and other capital expenses in Q1, as they accelerate AI spending &lpar;Karen Weise/New York Times&rpar;](http://www.techmeme.com/240427/p8#a240427p8)
  - [The Verge’s 2024 Mother’s Day gift guide](https://www.theverge.com/24115101/best-mothers-day-gift-ideas-2024-mom-tech-gadgets)
  - [Act Now To Snag This Ooni Fyra Pizza Oven for Only $260     - CNET](https://www.cnet.com/deals/act-now-to-snag-this-ooni-fyra-pizza-oven-for-only-260/#ftag=CAD590a51e)
- - [Low iPhone Storage? Before You Delete Your Memories, Check These Two iOS Settings     - CNET](https://www.cnet.com/tech/services-and-software/low-iphone-storage-before-you-delete-your-memories-check-these-two-ios-settings/#ftag=CAD590a51e)
- - [Bose’s excellent QC Ultra Earbuds are matching their all-time low](https://www.theverge.com/2024/4/27/24141775/bose-quietcomfort-ultra-earbuds-lego-mighty-bowser-piranha-plant-deal-sale)<!-- TECH:END -->
+ - [Low iPhone Storage? Before You Delete Your Memories, Check These Two iOS Settings     - CNET](https://www.cnet.com/tech/services-and-software/low-iphone-storage-before-you-delete-your-memories-check-these-two-ios-settings/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

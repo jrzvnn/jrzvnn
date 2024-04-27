@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I dont know what it where this is but it surely activating some neurons.](http://9gag.com/gag/abA5MR9)
- - 😝 [When you see bugs in the code but it&#39;s not your task!](http://9gag.com/gag/azxbXdK)
- - 💣 [She thought every one got their own pot. She ate 1 kg of cheese. We had to order pizza and yes, she wanted one as well.](http://9gag.com/gag/a34YjWr)
- - 😝 [Make Europe white again!!!](http://9gag.com/gag/aO8qrZ3)
- - 👉 [From the archives #23](http://9gag.com/gag/a5Qdr0V)<!-- MEMES:END -->
+ - 😝 [Fuggin legend](http://9gag.com/gag/aLnKjdx)
+ - 😝 [The cheapest and most delicious long-established hamburger shop in Japan run by a grandfather for 50 years.](http://9gag.com/gag/a87W8BQ)
+ - 💣 [Facts](http://9gag.com/gag/amoX7bj)
+ - 😝 [Planky](http://9gag.com/gag/aLnKgBv)
+ - 👉 [Really just a 9gagger lazy not wanting to take them off yet](http://9gag.com/gag/axyN1On)<!-- MEMES:END -->
 
 ---
 

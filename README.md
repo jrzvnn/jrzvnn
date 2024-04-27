@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mother And Child With Poliosis, A Hereditary White Streak In Hair](http://9gag.com/gag/an7YbDE)
- - 😝 [When someone has to stand by with a stick to pull you to safety just so you can work...](http://9gag.com/gag/an7Y1go)
+ - 😝 [Simple](http://9gag.com/gag/aRBQKnG)
+ - 😝 [My man was dead inside](http://9gag.com/gag/an7YjYq)
  - 💣 [From 10 tons to 10/10](http://9gag.com/gag/a9ydW96)
- - 😝 [It sucks](http://9gag.com/gag/agmyY8n)
- - 👉 [Show me the picture of the dumbest movie deaths](http://9gag.com/gag/aXPbA4z)<!-- MEMES:END -->
+ - 😝 [From the archives #23](http://9gag.com/gag/a5Qdr0V)
+ - 👉 [Remembering beautiful memories with her](http://9gag.com/gag/aYQb4Bq)<!-- MEMES:END -->
 
 ---
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lawmakers, TikTok staff, and others detail how TikTok lost the war in Washington, including due to CEO Shou Zi Chew&#39;s failure to build support on Capitol Hill &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240428/p6#a240428p6)
  - [iPhone 16 screen sizes allegedly revealed in new leak](https://appleinsider.com/articles/24/04/28/iphone-16-screen-sizes-allegedly-revealed-in-new-leak?utm_medium=rss)
  - [Want to Get Rid of Bugs? Try One of These Common Houseplants     - CNET](https://www.cnet.com/news/want-to-get-rid-of-bugs-try-one-of-these-common-houseplants/#ftag=CAD590a51e)
  - [Amazon discounts the Apple Studio Display to $1,299 &lpar;$300 off&rpar;](https://appleinsider.com/articles/24/04/28/amazon-discounts-the-apple-studio-display-to-1299-300-off?utm_medium=rss)
- - [NBA Playoffs 2024: How to Watch Today&#39;s Games, Schedule, Matchups, TV Times     - CNET](https://www.cnet.com/tech/services-and-software/nba-playoffs-2024-how-to-watch-schedule-matchups-tv-times/#ftag=CAD590a51e)
- - [This Special Houseplant Uses Microbiomes to Clean Air 30 Times Faster Than Most     - CNET](https://www.cnet.com/news/this-plant-uses-microbiomes-to-clean-your-homes-air-30-times-faster-than-a-normal-plant/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [NBA Playoffs 2024: How to Watch Today&#39;s Games, Schedule, Matchups, TV Times     - CNET](https://www.cnet.com/tech/services-and-software/nba-playoffs-2024-how-to-watch-schedule-matchups-tv-times/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

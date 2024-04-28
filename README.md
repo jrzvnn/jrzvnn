@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It sucks](http://9gag.com/gag/agmyY8n)
- - 😝 [How time flies\u2026](http://9gag.com/gag/abA5M6O)
- - 💣 [Real vs. Fake](http://9gag.com/gag/arypgB0)
- - 😝 [You just can&#39;t get a decent pair of shoe nowadays.](http://9gag.com/gag/ayN5Lwp)
- - 👉 [The cheapest and most delicious long-established hamburger shop in Japan run by a grandfather for 50 years.](http://9gag.com/gag/a87W8BQ)<!-- MEMES:END -->
+ - 😝 [Simple](http://9gag.com/gag/aRBQKnG)
+ - 😝 [I dont know what it where this is but it surely activating some neurons.](http://9gag.com/gag/abA5MR9)
+ - 💣 [Returning back to my country after 1 month in USA](http://9gag.com/gag/a87Wo2d)
+ - 😝 [Ey girls, this is how to get a man](http://9gag.com/gag/aAyYwA2)
+ - 👉 [\u201cCamera man\u201d saves a life](http://9gag.com/gag/ayN5BDp)<!-- MEMES:END -->
 
 ---
 

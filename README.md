@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u201cCamera man\u201d saves a life](http://9gag.com/gag/ayN5BDp)
- - 😝 [Ben Affleck. Money Can&#39;t Buy Mental Health](http://9gag.com/gag/arypVG6)
- - 💣 [Protesters are blocking anyone who appears to be jewish from entering the UCLA campus](http://9gag.com/gag/adBN5YN)
- - 😝 [What did she want to do with lighter?](http://9gag.com/gag/apRq5np)
- - 👉 [I dont know what it where this is but it surely activating some neurons.](http://9gag.com/gag/abA5MR9)<!-- MEMES:END -->
+ - 😝 [Why god WHYYY](http://9gag.com/gag/a34YRY5)
+ - 😝 [Returning back to my country after 1 month in USA](http://9gag.com/gag/a87Wo2d)
+ - 💣 [When you see bugs in the code but it&#39;s not your task!](http://9gag.com/gag/azxbXdK)
+ - 😝 [Every single Scooby-Doo show &lpar;no Velma show for obvious reasons&rpar;](http://9gag.com/gag/aNDe0j6)
+ - 👉 [Crazy.](http://9gag.com/gag/amoX2Zv)<!-- MEMES:END -->
 
 ---
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Body counts matters](http://9gag.com/gag/aGy9e9K)
- - 😝 [Crows or ravens?](http://9gag.com/gag/aAyY3RE)
- - 💣 [Real vs. Fake](http://9gag.com/gag/arypgB0)
- - 😝 [I&#39;ve never hit a kid before.](http://9gag.com/gag/aRBQ1bG)
- - 👉 [Damn it!](http://9gag.com/gag/a7o53qz)<!-- MEMES:END -->
+ - 😝 [That&#39;s why men prefer going out alone.](http://9gag.com/gag/a7o5W5A)
+ - 😝 [This is Kelp. It is one of the fastest growing organisms on the planet. In a single growing season, it can grow from a microscopic spore to over 100 ft in length](http://9gag.com/gag/a4P4QZm)
+ - 💣 [Remembering beautiful memories with her](http://9gag.com/gag/aYQb4Bq)
+ - 😝 [Damn it!](http://9gag.com/gag/a7o53qz)
+ - 👉 [Protesters are blocking anyone who appears to be jewish from entering the UCLA campus](http://9gag.com/gag/adBN5YN)<!-- MEMES:END -->
 
 ---
 

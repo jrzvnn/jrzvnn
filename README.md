@@ -166,10 +166,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Lawmakers, TikTok staff, and others detail how TikTok lost the war in Washington, including due to CEO Shou Zi Chew&#39;s failure to build support on Capitol Hill &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240428/p6#a240428p6)
+ - [Stock Up on Delicious Coffee Today at Staples K-Cup Pod Sale     - CNET](https://www.cnet.com/deals/stock-up-on-delicious-coffee-today-at-staples-k-cup-pod-sale/#ftag=CAD590a51e)
  - [iPhone 16 screen sizes allegedly revealed in new leak](https://appleinsider.com/articles/24/04/28/iphone-16-screen-sizes-allegedly-revealed-in-new-leak?utm_medium=rss)
- - [Want to Get Rid of Bugs? Try One of These Common Houseplants     - CNET](https://www.cnet.com/news/want-to-get-rid-of-bugs-try-one-of-these-common-houseplants/#ftag=CAD590a51e)
- - [Amazon discounts the Apple Studio Display to $1,299 &lpar;$300 off&rpar;](https://appleinsider.com/articles/24/04/28/amazon-discounts-the-apple-studio-display-to-1299-300-off?utm_medium=rss)
- - [NBA Playoffs 2024: How to Watch Today&#39;s Games, Schedule, Matchups, TV Times     - CNET](https://www.cnet.com/tech/services-and-software/nba-playoffs-2024-how-to-watch-schedule-matchups-tv-times/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [10 Things You Should Be Doing Today to Protect Your Eye Health     - CNET](https://www.cnet.com/health/personal-care/10-things-you-should-be-doing-today-to-protect-your-eye-health/#ftag=CAD590a51e)
+ - [Best Internet Providers in Cheektowaga, New York     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-cheektowaga-ny/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

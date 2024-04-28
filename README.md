@@ -174,10 +174,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Returning back to my country after 1 month in USA](http://9gag.com/gag/a87Wo2d)
  - 😝 [She looks smart.](http://9gag.com/gag/a1mAKVw)
- - 💣 [\u201cCamera man\u201d saves a life](http://9gag.com/gag/ayN5BDp)
- - 😝 [Protesters are blocking anyone who appears to be jewish from entering the UCLA campus](http://9gag.com/gag/adBN5YN)
+ - 😝 [\u201cCamera man\u201d saves a life](http://9gag.com/gag/ayN5BDp)
+ - 💣 [This is Kelp. It is one of the fastest growing organisms on the planet. In a single growing season, it can grow from a microscopic spore to over 100 ft in length](http://9gag.com/gag/a4P4QZm)
+ - 😝 [I dont know what it where this is but it surely activating some neurons.](http://9gag.com/gag/abA5MR9)
  - 👉 [This true?](http://9gag.com/gag/aGy9eBn)<!-- MEMES:END -->
 
 ---

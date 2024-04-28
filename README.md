@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Irish Patriots Protesting Being Mass Invaded By Illegals](http://9gag.com/gag/ajPr9B8)
- - 😝 [Functional Fake Plants](http://9gag.com/gag/an7Y9GV)
- - 💣 [I dont know what it where this is but it surely activating some neurons.](http://9gag.com/gag/abA5MR9)
- - 😝 [Crows or ravens?](http://9gag.com/gag/aAyY3RE)
- - 👉 [French police slashes another illegal migrant boat stopping them coming to Britain.](http://9gag.com/gag/a5QdWBE)<!-- MEMES:END -->
+ - 😝 [This guy, son of a big politician allegedly raped many women, kept their videos. After the videos became viral has fled to Germany. In case if you see him greet him nicely](http://9gag.com/gag/aVvOwoM)
+ - 😝 [Every single Scooby-Doo show &lpar;no Velma show for obvious reasons&rpar;](http://9gag.com/gag/aNDe0j6)
+ - 💣 [Protesters are blocking anyone who appears to be jewish from entering the UCLA campus](http://9gag.com/gag/adBN5YN)
+ - 😝 [This true?](http://9gag.com/gag/aGy9eBn)
+ - 👉 [That&#39;s why men prefer going out alone.](http://9gag.com/gag/a7o5W5A)<!-- MEMES:END -->
 
 ---
 

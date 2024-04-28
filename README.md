@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Indian Ringneck\u2019s choreography in human steps](http://9gag.com/gag/aRBQ067)
- - 😝 [We were too young to understand](http://9gag.com/gag/aE0wgWe)
- - 💣 [Let&#39;s f**k up](http://9gag.com/gag/aZZPLoQ)
- - 😝 [The ultimate stick](http://9gag.com/gag/aPAvYmG)
- - 👉 [The proper way to take the trash out](http://9gag.com/gag/aByK06D)<!-- MEMES:END -->
+ - 😝 [6 Inch cucumber](http://9gag.com/gag/amoX7Mo)
+ - 😝 [Returning back to my country after 1 month in USA](http://9gag.com/gag/a87Wo2d)
+ - 💣 [When you see bugs in the code but it&#39;s not your task!](http://9gag.com/gag/azxbXdK)
+ - 😝 [I&#39;ve never hit a kid before.](http://9gag.com/gag/aRBQ1bG)
+ - 👉 [This true?](http://9gag.com/gag/aGy9eBn)<!-- MEMES:END -->
 
 ---
 

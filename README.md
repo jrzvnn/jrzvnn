@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The OLED iPad Pro could launch with an M4 chip](https://www.theverge.com/2024/4/28/24143526/apple-oled-ipad-pro-11-13-inch-m4-ai-tablet)
+ - [11 Best Smart Notebooks and Smart Pens &lpar;2024&rpar;: Tablets, Digital Pens, and Reusable Books](https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/)
  - [New iPad Pro rumored to debut with M4 chip](https://appleinsider.com/articles/24/04/28/new-ipad-pro-rumored-to-debut-with-m4-chip?utm_medium=rss)
  - [9 Best Password Managers &lpar;2024&rpar;: Features, Pricing, and Tips](https://www.wired.com/story/best-password-managers/)
- - [Battle of the best robovacs &lpar;that iRobot doesn’t make&rpar;](https://www.theverge.com/24141479/roborock-s8-maxv-ultra-vs-dreame-x30-ultra-robot-vacuum-mop)
- - [Apple Pencil coming on May 7 could buzz users with haptic feedback](https://appleinsider.com/articles/24/04/28/apple-pencil-coming-on-may-7-could-buzz-users-with-haptic-feedback?utm_medium=rss)
- - [21 Grilling Tools You&#39;ll Be Glad You Have When Summer Hits     - CNET](https://www.cnet.com/home/yard-and-outdoors/best-grill-tools-to-buy/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Battle of the best robovacs &lpar;that iRobot doesn’t make&rpar;](https://www.theverge.com/24141479/roborock-s8-maxv-ultra-vs-dreame-x30-ultra-robot-vacuum-mop)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

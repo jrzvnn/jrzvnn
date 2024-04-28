@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Pencil coming on May 7 could buzz users with haptic feedback](https://appleinsider.com/articles/24/04/28/apple-pencil-coming-on-may-7-could-buzz-users-with-haptic-feedback?utm_medium=rss)
+ - [New iPad Pro rumored to debut with M4 chip](https://appleinsider.com/articles/24/04/28/new-ipad-pro-rumored-to-debut-with-m4-chip?utm_medium=rss)
  - [Motorola Moto G Power 5G 2024 Review: Fantastic Value](https://www.wired.com/review/motorola-moto-g-power-5g-2024/)
  - [A profile of Ethan Mollick, a University of Pennsylvania professor whose early embrace of AI made him a go-to expert for policymakers and corporate leaders &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/240428/p3#a240428p3)
- - [How to Get Free Kindle Books With Your Library Card &lpar;2024&rpar;](https://www.wired.com/story/how-to-get-free-kindle-books-with-your-library-card/)
- - [Why You Endlessly Scroll Through Your Phone, and How to Stop     - CNET](https://www.cnet.com/tech/mobile/why-you-endlessly-scroll-through-your-phone-and-how-to-stop/#ftag=CAD590a51e)
- - [I Tried These AI-Based Productivity Tools. Here’s What Happened](https://www.wired.com/story/6-ai-based-productivity-tools-tested/)<!-- TECH:END -->
+ - [How to Get Free Kindle Books With Your Library Card &lpar;2024&rpar;](https://www.wired.com/story/how-to-get-free-kindle-books-with-your-library-card/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

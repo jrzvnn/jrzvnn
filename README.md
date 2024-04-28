@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Remembering beautiful memories with her](http://9gag.com/gag/aYQb4Bq)
- - 😝 [When you see bugs in the code but it&#39;s not your task!](http://9gag.com/gag/azxbXdK)
- - 💣 [Damn it!](http://9gag.com/gag/a7o53qz)
- - 😝 [Swiss: They are mocking Swiss elderly man for standing up against them](http://9gag.com/gag/aQzq1GK)
- - 👉 [Ben Affleck. Money Can&#39;t Buy Mental Health](http://9gag.com/gag/arypVG6)<!-- MEMES:END -->
+ - 😝 [Irish Patriots Protesting Being Mass Invaded By Illegals](http://9gag.com/gag/ajPr9B8)
+ - 😝 [Functional Fake Plants](http://9gag.com/gag/an7Y9GV)
+ - 💣 [I dont know what it where this is but it surely activating some neurons.](http://9gag.com/gag/abA5MR9)
+ - 😝 [Crows or ravens?](http://9gag.com/gag/aAyY3RE)
+ - 👉 [French police slashes another illegal migrant boat stopping them coming to Britain.](http://9gag.com/gag/a5QdWBE)<!-- MEMES:END -->
 
 ---
 

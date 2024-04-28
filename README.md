@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why are some women like this?](http://9gag.com/gag/aZZP7eX)
- - 😝 [When you see bugs in the code but it&#39;s not your task!](http://9gag.com/gag/azxbXdK)
- - 💣 [Damn it!](http://9gag.com/gag/a7o53qz)
- - 😝 [I dont know what it where this is but it surely activating some neurons.](http://9gag.com/gag/abA5MR9)
- - 👉 [This is Kelp. It is one of the fastest growing organisms on the planet. In a single growing season, it can grow from a microscopic spore to over 100 ft in length](http://9gag.com/gag/a4P4QZm)<!-- MEMES:END -->
+ - 😝 [The ultimate stick](http://9gag.com/gag/aPAvYmG)
+ - 😝 [Functional Fake Plants](http://9gag.com/gag/an7Y9GV)
+ - 💣 [I dont know what it where this is but it surely activating some neurons.](http://9gag.com/gag/abA5MR9)
+ - 😝 [Crows or ravens?](http://9gag.com/gag/aAyY3RE)
+ - 👉 [Upvote my money cat and get lucky. He&#39;s a 16 yo wizard cat that gives away chances to get rich.](http://9gag.com/gag/aRBQjVQ)<!-- MEMES:END -->
 
 ---
 

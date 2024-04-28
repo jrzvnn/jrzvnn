@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Pencil coming on May 7 could buzz users with haptic feedback](https://appleinsider.com/articles/24/04/28/apple-pencil-coming-on-may-7-could-buzz-users-with-haptic-feedback?utm_medium=rss)
  - [New iPad Pro rumored to debut with M4 chip](https://appleinsider.com/articles/24/04/28/new-ipad-pro-rumored-to-debut-with-m4-chip?utm_medium=rss)
- - [Motorola Moto G Power 5G 2024 Review: Fantastic Value](https://www.wired.com/review/motorola-moto-g-power-5g-2024/)
- - [A profile of Ethan Mollick, a University of Pennsylvania professor whose early embrace of AI made him a go-to expert for policymakers and corporate leaders &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/240428/p3#a240428p3)
- - [How to Get Free Kindle Books With Your Library Card &lpar;2024&rpar;](https://www.wired.com/story/how-to-get-free-kindle-books-with-your-library-card/)<!-- TECH:END -->
+ - [9 Best Password Managers &lpar;2024&rpar;: Features, Pricing, and Tips](https://www.wired.com/story/best-password-managers/)
+ - [Battle of the best robovacs &lpar;that iRobot doesn’t make&rpar;](https://www.theverge.com/24141479/roborock-s8-maxv-ultra-vs-dreame-x30-ultra-robot-vacuum-mop)
+ - [Apple Pencil coming on May 7 could buzz users with haptic feedback](https://appleinsider.com/articles/24/04/28/apple-pencil-coming-on-may-7-could-buzz-users-with-haptic-feedback?utm_medium=rss)
+ - [21 Grilling Tools You&#39;ll Be Glad You Have When Summer Hits     - CNET](https://www.cnet.com/home/yard-and-outdoors/best-grill-tools-to-buy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

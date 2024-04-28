@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Remembering beautiful memories with her](http://9gag.com/gag/aYQb4Bq)
- - 😝 [I dont know what it where this is but it surely activating some neurons.](http://9gag.com/gag/abA5MR9)
- - 💣 [When you see bugs in the code but it&#39;s not your task!](http://9gag.com/gag/azxbXdK)
- - 😝 [Damn it!](http://9gag.com/gag/a7o53qz)
- - 👉 [Oops!](http://9gag.com/gag/abA5zeE)<!-- MEMES:END -->
+ - 😝 [Honestly, I can&#39;t blame him](http://9gag.com/gag/a4P4R7Z)
+ - 😝 [French Police Puncture Illegal Invaders Boat. Send Them Back](http://9gag.com/gag/azxb9ex)
+ - 💣 [Returning back to my country after 1 month in USA](http://9gag.com/gag/a87Wo2d)
+ - 😝 [This is Kelp. It is one of the fastest growing organisms on the planet. In a single growing season, it can grow from a microscopic spore to over 100 ft in length](http://9gag.com/gag/a4P4QZm)
+ - 👉 [I dont know what it where this is but it surely activating some neurons.](http://9gag.com/gag/abA5MR9)<!-- MEMES:END -->
 
 ---
 

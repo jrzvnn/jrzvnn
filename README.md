@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The ultimate stick](http://9gag.com/gag/aPAvYmG)
- - 😝 [Functional Fake Plants](http://9gag.com/gag/an7Y9GV)
- - 💣 [I dont know what it where this is but it surely activating some neurons.](http://9gag.com/gag/abA5MR9)
+ - 😝 [Body counts matters](http://9gag.com/gag/aGy9e9K)
  - 😝 [Crows or ravens?](http://9gag.com/gag/aAyY3RE)
- - 👉 [Upvote my money cat and get lucky. He&#39;s a 16 yo wizard cat that gives away chances to get rich.](http://9gag.com/gag/aRBQjVQ)<!-- MEMES:END -->
+ - 💣 [Real vs. Fake](http://9gag.com/gag/arypgB0)
+ - 😝 [I&#39;ve never hit a kid before.](http://9gag.com/gag/aRBQ1bG)
+ - 👉 [Damn it!](http://9gag.com/gag/a7o53qz)<!-- MEMES:END -->
 
 ---
 

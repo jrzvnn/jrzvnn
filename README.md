@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [French Police Puncture Illegal Invaders Boat. Send Them Back](http://9gag.com/gag/azxb9ex)
+ - 😝 [Solution: dont pay. Start by asking for an itemized bill and dispute each item line while you look up their debit forgiveness rules. If you](http://9gag.com/gag/aVvODNw)
  - 😝 [Returning back to my country after 1 month in USA](http://9gag.com/gag/a87Wo2d)
- - 💣 [Show me the picture of the dumbest movie deaths](http://9gag.com/gag/aXPbA4z)
- - 😝 [I dont know what it where this is but it surely activating some neurons.](http://9gag.com/gag/abA5MR9)
- - 👉 [Miss +](http://9gag.com/gag/a4P4ZPy)<!-- MEMES:END -->
+ - 💣 [Damn it!](http://9gag.com/gag/a7o53qz)
+ - 😝 [When you see bugs in the code but it&#39;s not your task!](http://9gag.com/gag/azxbXdK)
+ - 👉 [I dont know what it where this is but it surely activating some neurons.](http://9gag.com/gag/abA5MR9)<!-- MEMES:END -->
 
 ---
 

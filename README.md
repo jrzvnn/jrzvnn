@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I dont know what it where this is but it surely activating some neurons.](http://9gag.com/gag/abA5MR9)
+ - 😝 [French Police Puncture Illegal Invaders Boat. Send Them Back](http://9gag.com/gag/azxb9ex)
  - 😝 [\u201cCamera man\u201d saves a life](http://9gag.com/gag/ayN5BDp)
- - 💣 [When you see bugs in the code but it&#39;s not your task!](http://9gag.com/gag/azxbXdK)
- - 😝 [Ey girls, this is how to get a man](http://9gag.com/gag/aAyYwA2)
- - 👉 [Show me the picture of the dumbest movie deaths](http://9gag.com/gag/aXPbA4z)<!-- MEMES:END -->
+ - 💣 [Damn it!](http://9gag.com/gag/a7o53qz)
+ - 😝 [When you see bugs in the code but it&#39;s not your task!](http://9gag.com/gag/azxbXdK)
+ - 👉 [So many OSHA violations](http://9gag.com/gag/aW4Z8wA)<!-- MEMES:END -->
 
 ---
 

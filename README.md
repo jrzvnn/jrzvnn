@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What did she want to do with lighter?](http://9gag.com/gag/apRq5np)
- - 😝 [Peak 2000s](http://9gag.com/gag/azxbm1K)
- - 💣 [This guy, son of a big politician allegedly raped many women, kept their videos. After the videos became viral has fled to Germany. In case if you see him greet him nicely](http://9gag.com/gag/aVvOwoM)
- - 😝 [Real vs. Fake](http://9gag.com/gag/arypgB0)
- - 👉 [French police slashes another illegal migrant boat stopping them coming to Britain.](http://9gag.com/gag/a5QdWBE)<!-- MEMES:END -->
+ - 😝 [That&#39;s why men prefer going out alone.](http://9gag.com/gag/a7o5W5A)
+ - 😝 [Every single Scooby-Doo show &lpar;no Velma show for obvious reasons&rpar;](http://9gag.com/gag/aNDe0j6)
+ - 💣 [What did she want to do with lighter?](http://9gag.com/gag/apRq5np)
+ - 😝 [Why god WHYYY](http://9gag.com/gag/a34YRY5)
+ - 👉 [Returning back to my country after 1 month in USA](http://9gag.com/gag/a87Wo2d)<!-- MEMES:END -->
 
 ---
 

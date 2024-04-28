@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk visits China, a source says to discuss with senior officials the rollout of FSD in the country and permission to transfer data overseas &lpar;Reuters&rpar;](http://www.techmeme.com/240428/p5#a240428p5)
  - [Sources: the new iPad Pro may launch with an M4 chip, kicking off Apple&#39;s AI strategy that will be expanded at WWDC; the new Pencil will have haptic feedback &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240428/p4#a240428p4)
  - [11 Best Sleeping Bags &lpar;2024&rpar;: Ultralight, for Car Campers, Warm Weather, for Kids](https://www.wired.com/story/the-best-sleeping-bags-for-every-adventure/)
  - [Where to get started with Fallout](https://www.theverge.com/2024/4/28/24141907/best-fallout-3-4-76-new-vegas-start)
- - [The OLED iPad Pro could launch with an M4 chip](https://www.theverge.com/2024/4/28/24143526/apple-oled-ipad-pro-11-13-inch-m4-ai-tablet)
- - [11 Best Smart Notebooks and Smart Pens &lpar;2024&rpar;: Tablets, Digital Pens, and Reusable Books](https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/)<!-- TECH:END -->
+ - [The OLED iPad Pro could launch with an M4 chip](https://www.theverge.com/2024/4/28/24143526/apple-oled-ipad-pro-11-13-inch-m4-ai-tablet)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

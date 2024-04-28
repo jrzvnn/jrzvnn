@@ -175,10 +175,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [French Police Puncture Illegal Invaders Boat. Send Them Back](http://9gag.com/gag/azxb9ex)
+ - 😝 [Returning back to my country after 1 month in USA](http://9gag.com/gag/a87Wo2d)
+ - 💣 [I dont know what it where this is but it surely activating some neurons.](http://9gag.com/gag/abA5MR9)
  - 😝 [When you see bugs in the code but it&#39;s not your task!](http://9gag.com/gag/azxbXdK)
- - 💣 [Planky](http://9gag.com/gag/aLnKgBv)
- - 😝 [Crazy.](http://9gag.com/gag/amoX2Zv)
- - 👉 [Damn it!](http://9gag.com/gag/a7o53qz)<!-- MEMES:END -->
+ - 👉 [This true?](http://9gag.com/gag/aGy9eBn)<!-- MEMES:END -->
 
 ---
 

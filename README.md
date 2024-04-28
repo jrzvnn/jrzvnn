@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Reading is for rich ppl](http://9gag.com/gag/azxbXxq)
- - 😝 [Look at this idiot](http://9gag.com/gag/ae9NbAQ)
- - 💣 [Do NOT update, Bethesda is having a seizure](http://9gag.com/gag/aYQbxYm)
- - 😝 [Mother And Child With Poliosis, A Hereditary White Streak In Hair](http://9gag.com/gag/an7YbDE)
- - 👉 [French Police Puncture Illegal Invaders Boat. Send Them Back](http://9gag.com/gag/azxb9ex)<!-- MEMES:END -->
+ - 😝 [Remembering beautiful memories with her](http://9gag.com/gag/aYQb4Bq)
+ - 😝 [I dont know what it where this is but it surely activating some neurons.](http://9gag.com/gag/abA5MR9)
+ - 💣 [When you see bugs in the code but it&#39;s not your task!](http://9gag.com/gag/azxbXdK)
+ - 😝 [Damn it!](http://9gag.com/gag/a7o53qz)
+ - 👉 [Oops!](http://9gag.com/gag/abA5zeE)<!-- MEMES:END -->
 
 ---
 

@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why god WHYYY](http://9gag.com/gag/a34YRY5)
- - 😝 [Crazy.](http://9gag.com/gag/amoX2Zv)
- - 💣 [Ben Affleck. Money Can&#39;t Buy Mental Health](http://9gag.com/gag/arypVG6)
- - 😝 [\u201cCamera man\u201d saves a life](http://9gag.com/gag/ayN5BDp)
- - 👉 [This is Kelp. It is one of the fastest growing organisms on the planet. In a single growing season, it can grow from a microscopic spore to over 100 ft in length](http://9gag.com/gag/a4P4QZm)<!-- MEMES:END -->
+ - 😝 [What did she want to do with lighter?](http://9gag.com/gag/apRq5np)
+ - 😝 [She looks smart.](http://9gag.com/gag/a1mAKVw)
+ - 💣 [He went hardcore!](http://9gag.com/gag/a87W57O)
+ - 😝 [Damn it!](http://9gag.com/gag/a7o53qz)
+ - 👉 [Always towards woman.. not a man.., a coward at heart who prays on the weak.](http://9gag.com/gag/aW4Z1K2)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The Mysterious ‘Dark’ Energy That Permeates the Universe Is Slowly Eroding](https://www.wired.com/story/dark-energy-weakening-major-astrophysics-study-finds/)
- - [Best Camera Phone of 2024     - CNET](https://www.cnet.com/tech/mobile/best-camera-phone/#ftag=CAD590a51e)
- - [Doing This Can Cause You to Lose Your Social Security Benefits     - CNET](https://www.cnet.com/personal-finance/doing-this-can-cause-you-to-lose-your-social-security-benefits/#ftag=CAD590a51e)
- - [Some founders say TikTok ban won&#39;t impact creator economy startups much, as they have diversified across multiple platforms after Trump tried banning it in 2020 &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/240428/p2#a240428p2)
- - [India&#39;s top five IT services companies, including Infosys and Wipro, collectively saw a decline of 69,167 employees in FY 2024; HCLTech added 1,537 employees &lpar;Debangana Ghosh/Moneycontrol&rpar;](http://www.techmeme.com/240428/p1#a240428p1)<!-- TECH:END -->
+ - [Not Just the iPhone: Google Needs to Push RCS Texting Even Further     - CNET](https://www.cnet.com/tech/mobile/not-just-the-iphone-google-needs-to-push-rcs-texting-even-further/#ftag=CAD590a51e)
+ - [Buy Stamps, ASAP. Here&#39;s What to Know About USPS&#39; Price Increase     - CNET](https://www.cnet.com/personal-finance/buy-stamps-asap-heres-what-to-know-about-usps-price-increase/#ftag=CAD590a51e)
+ - [Your Apple Cash Just Got Virtual Card Numbers With iOS 17.4. Here&#39;s How to Use Them     - CNET](https://www.cnet.com/tech/services-and-software/your-apple-cash-just-got-virtual-card-numbers-with-ios-17-4-heres-how-to-use-them/#ftag=CAD590a51e)
+ - [Tottenham vs. Arsenal Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/tottenham-vs-arsenal-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

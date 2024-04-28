@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [French Police Puncture Illegal Invaders Boat. Send Them Back](http://9gag.com/gag/azxb9ex)
- - 😝 [\u201cCamera man\u201d saves a life](http://9gag.com/gag/ayN5BDp)
- - 💣 [Damn it!](http://9gag.com/gag/a7o53qz)
- - 😝 [When you see bugs in the code but it&#39;s not your task!](http://9gag.com/gag/azxbXdK)
- - 👉 [So many OSHA violations](http://9gag.com/gag/aW4Z8wA)<!-- MEMES:END -->
+ - 😝 [Really just a 9gagger lazy not wanting to take them off yet](http://9gag.com/gag/axyN1On)
+ - 😝 [Not everything new is better.](http://9gag.com/gag/a1mAQ1b)
+ - 💣 [Planky](http://9gag.com/gag/aLnKgBv)
+ - 😝 [Upvote my money cat and get lucky. He&#39;s a 16 yo wizard cat that gives away chances to get rich.](http://9gag.com/gag/aRBQjVQ)
+ - 👉 [I dont know what it where this is but it surely activating some neurons.](http://9gag.com/gag/abA5MR9)<!-- MEMES:END -->
 
 ---
 

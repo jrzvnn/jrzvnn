@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [6 Inch cucumber](http://9gag.com/gag/amoX7Mo)
+ - 😝 [French Police Puncture Illegal Invaders Boat. Send Them Back](http://9gag.com/gag/azxb9ex)
  - 😝 [Returning back to my country after 1 month in USA](http://9gag.com/gag/a87Wo2d)
- - 💣 [When you see bugs in the code but it&#39;s not your task!](http://9gag.com/gag/azxbXdK)
- - 😝 [I&#39;ve never hit a kid before.](http://9gag.com/gag/aRBQ1bG)
- - 👉 [This true?](http://9gag.com/gag/aGy9eBn)<!-- MEMES:END -->
+ - 💣 [This true?](http://9gag.com/gag/aGy9eBn)
+ - 😝 [Tonight at Boston International Airport](http://9gag.com/gag/aMV1YPW)
+ - 👉 [I dont know what it where this is but it surely activating some neurons.](http://9gag.com/gag/abA5MR9)<!-- MEMES:END -->
 
 ---
 

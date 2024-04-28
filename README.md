@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Really just a 9gagger lazy not wanting to take them off yet](http://9gag.com/gag/axyN1On)
- - 😝 [Not everything new is better.](http://9gag.com/gag/a1mAQ1b)
- - 💣 [Planky](http://9gag.com/gag/aLnKgBv)
- - 😝 [Upvote my money cat and get lucky. He&#39;s a 16 yo wizard cat that gives away chances to get rich.](http://9gag.com/gag/aRBQjVQ)
- - 👉 [I dont know what it where this is but it surely activating some neurons.](http://9gag.com/gag/abA5MR9)<!-- MEMES:END -->
+ - 😝 [Reading is for rich ppl](http://9gag.com/gag/azxbXxq)
+ - 😝 [Look at this idiot](http://9gag.com/gag/ae9NbAQ)
+ - 💣 [Do NOT update, Bethesda is having a seizure](http://9gag.com/gag/aYQbxYm)
+ - 😝 [Mother And Child With Poliosis, A Hereditary White Streak In Hair](http://9gag.com/gag/an7YbDE)
+ - 👉 [French Police Puncture Illegal Invaders Boat. Send Them Back](http://9gag.com/gag/azxb9ex)<!-- MEMES:END -->
 
 ---
 

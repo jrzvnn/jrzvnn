@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This true?](http://9gag.com/gag/aGy9eBn)
- - 😝 [She looks smart.](http://9gag.com/gag/a1mAKVw)
- - 💣 [\u201cCamera man\u201d saves a life](http://9gag.com/gag/ayN5BDp)
- - 😝 [She didn&#39;t even ask him to cough](http://9gag.com/gag/aMV1ABX)
- - 👉 [Carlos Sainz against retard-units](http://9gag.com/gag/a87W84Z)<!-- MEMES:END -->
+ - 😝 [A good inversement](http://9gag.com/gag/an7YbbV)
+ - 😝 [Damn it!](http://9gag.com/gag/a7o53qz)
+ - 💣 [Remembering beautiful memories with her](http://9gag.com/gag/aYQb4Bq)
+ - 😝 [Now that&#39;s ... A TURN AROUND](http://9gag.com/gag/aO8qz1r)
+ - 👉 [This true?](http://9gag.com/gag/aGy9eBn)<!-- MEMES:END -->
 
 ---
 

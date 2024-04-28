@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I Tried These AI-Based Productivity Tools. Here’s What Happened](https://www.wired.com/story/6-ai-based-productivity-tools-tested/)
  - [The Mysterious ‘Dark’ Energy That Permeates the Universe Is Slowly Eroding](https://www.wired.com/story/dark-energy-weakening-major-astrophysics-study-finds/)
  - [Not Just the iPhone: Google Needs to Push RCS Texting Even Further     - CNET](https://www.cnet.com/tech/mobile/not-just-the-iphone-google-needs-to-push-rcs-texting-even-further/#ftag=CAD590a51e)
  - [Buy Stamps, ASAP. Here&#39;s What to Know About USPS&#39; Price Increase     - CNET](https://www.cnet.com/personal-finance/buy-stamps-asap-heres-what-to-know-about-usps-price-increase/#ftag=CAD590a51e)
- - [Your Apple Cash Just Got Virtual Card Numbers With iOS 17.4. Here&#39;s How to Use Them     - CNET](https://www.cnet.com/tech/services-and-software/your-apple-cash-just-got-virtual-card-numbers-with-ios-17-4-heres-how-to-use-them/#ftag=CAD590a51e)
- - [Tottenham vs. Arsenal Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/tottenham-vs-arsenal-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Your Apple Cash Just Got Virtual Card Numbers With iOS 17.4. Here&#39;s How to Use Them     - CNET](https://www.cnet.com/tech/services-and-software/your-apple-cash-just-got-virtual-card-numbers-with-ios-17-4-heres-how-to-use-them/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

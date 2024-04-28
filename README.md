@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What do you think they meant by misinformation?](http://9gag.com/gag/aE0wBqp)
- - 😝 [I dont know what it where this is but it surely activating some neurons.](http://9gag.com/gag/abA5MR9)
- - 💣 [Planky](http://9gag.com/gag/aLnKgBv)
- - 😝 [When you see bugs in the code but it&#39;s not your task!](http://9gag.com/gag/azxbXdK)
- - 👉 [This true?](http://9gag.com/gag/aGy9eBn)<!-- MEMES:END -->
+ - 😝 [Indian Ringneck\u2019s choreography in human steps](http://9gag.com/gag/aRBQ067)
+ - 😝 [Planky](http://9gag.com/gag/aLnKgBv)
+ - 💣 [Let&#39;s f**k up](http://9gag.com/gag/aZZPLoQ)
+ - 😝 [Upvote my money cat and get lucky. He&#39;s a 16 yo wizard cat that gives away chances to get rich.](http://9gag.com/gag/aRBQjVQ)
+ - 👉 [The proper way to take the trash out](http://9gag.com/gag/aByK06D)<!-- MEMES:END -->
 
 ---
 

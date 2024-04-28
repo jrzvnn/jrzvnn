@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Monroe County DA is above the law](http://9gag.com/gag/aE0wgp9)
- - 😝 [Why god WHYYY](http://9gag.com/gag/a34YRY5)
- - 💣 [What do you think they meant by misinformation?](http://9gag.com/gag/aE0wBqp)
- - 😝 [Every single Scooby-Doo show &lpar;no Velma show for obvious reasons&rpar;](http://9gag.com/gag/aNDe0j6)
- - 👉 [Protesters are blocking anyone who appears to be jewish from entering the UCLA campus](http://9gag.com/gag/adBN5YN)<!-- MEMES:END -->
+ - 😝 [Indian Ringneck\u2019s choreography in human steps](http://9gag.com/gag/aRBQ067)
+ - 😝 [The ultimate stick](http://9gag.com/gag/aPAvYmG)
+ - 💣 [Functional Fake Plants](http://9gag.com/gag/an7Y9GV)
+ - 😝 [I dont know what it where this is but it surely activating some neurons.](http://9gag.com/gag/abA5MR9)
+ - 👉 [Crows or ravens?](http://9gag.com/gag/aAyY3RE)<!-- MEMES:END -->
 
 ---
 

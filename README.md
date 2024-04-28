@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A good inversement](http://9gag.com/gag/an7YbbV)
- - 😝 [Damn it!](http://9gag.com/gag/a7o53qz)
- - 💣 [Remembering beautiful memories with her](http://9gag.com/gag/aYQb4Bq)
- - 😝 [Now that&#39;s ... A TURN AROUND](http://9gag.com/gag/aO8qz1r)
- - 👉 [This true?](http://9gag.com/gag/aGy9eBn)<!-- MEMES:END -->
+ - 😝 [The proper way to take the trash out](http://9gag.com/gag/aByK06D)
+ - 😝 [Upvote my money cat and get lucky. He&#39;s a 16 yo wizard cat that gives away chances to get rich.](http://9gag.com/gag/aRBQjVQ)
+ - 💣 [Indian Ringneck\u2019s choreography in human steps](http://9gag.com/gag/aRBQ067)
+ - 😝 [The ultimate stick](http://9gag.com/gag/aPAvYmG)
+ - 👉 [I dont know what it where this is but it surely activating some neurons.](http://9gag.com/gag/abA5MR9)<!-- MEMES:END -->
 
 ---
 

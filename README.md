@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s why men prefer going out alone.](http://9gag.com/gag/a7o5W5A)
- - 😝 [Every single Scooby-Doo show &lpar;no Velma show for obvious reasons&rpar;](http://9gag.com/gag/aNDe0j6)
- - 💣 [What did she want to do with lighter?](http://9gag.com/gag/apRq5np)
- - 😝 [Why god WHYYY](http://9gag.com/gag/a34YRY5)
- - 👉 [Returning back to my country after 1 month in USA](http://9gag.com/gag/a87Wo2d)<!-- MEMES:END -->
+ - 😝 [I see what you did there..](http://9gag.com/gag/a34YRzQ)
+ - 😝 [Wait...What?!](http://9gag.com/gag/aKGz7wb)
+ - 💣 [That&#39;s why men prefer going out alone.](http://9gag.com/gag/a7o5W5A)
+ - 😝 [Take a deep breath and meet me in the comments with some memes. No propagandalf no war. Just good old dumb memes.](http://9gag.com/gag/a1mARd2)
+ - 👉 [\u201cCamera man\u201d saves a life](http://9gag.com/gag/ayN5BDp)<!-- MEMES:END -->
 
 ---
 

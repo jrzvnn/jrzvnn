@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best movie trailers for the week of April 21st](https://www.theverge.com/2024/4/28/24143685/best-movie-trailers-week-april-21)
  - [Lawmakers, TikTok staff, and others detail how TikTok lost the war in Washington, including due to CEO Shou Zi Chew&#39;s failure to build support on Capitol Hill &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240428/p6#a240428p6)
  - [Stock Up on Delicious Coffee Today at Staples K-Cup Pod Sale     - CNET](https://www.cnet.com/deals/stock-up-on-delicious-coffee-today-at-staples-k-cup-pod-sale/#ftag=CAD590a51e)
  - [iPhone 16 screen sizes allegedly revealed in new leak](https://appleinsider.com/articles/24/04/28/iphone-16-screen-sizes-allegedly-revealed-in-new-leak?utm_medium=rss)
- - [10 Things You Should Be Doing Today to Protect Your Eye Health     - CNET](https://www.cnet.com/health/personal-care/10-things-you-should-be-doing-today-to-protect-your-eye-health/#ftag=CAD590a51e)
- - [Best Internet Providers in Cheektowaga, New York     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-cheektowaga-ny/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [10 Things You Should Be Doing Today to Protect Your Eye Health     - CNET](https://www.cnet.com/health/personal-care/10-things-you-should-be-doing-today-to-protect-your-eye-health/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

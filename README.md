@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you see bugs in the code but it&#39;s not your task!](http://9gag.com/gag/azxbXdK)
- - 😝 [Remembering beautiful memories with her](http://9gag.com/gag/aYQb4Bq)
- - 💣 [Protesters are blocking anyone who appears to be jewish from entering the UCLA campus](http://9gag.com/gag/adBN5YN)
- - 😝 [Why god WHYYY](http://9gag.com/gag/a34YRY5)
- - 👉 [I dont know what it where this is but it surely activating some neurons.](http://9gag.com/gag/abA5MR9)<!-- MEMES:END -->
+ - 😝 [Indian Ringneck\u2019s choreography in human steps](http://9gag.com/gag/aRBQ067)
+ - 😝 [We were too young to understand](http://9gag.com/gag/aE0wgWe)
+ - 💣 [Let&#39;s f**k up](http://9gag.com/gag/aZZPLoQ)
+ - 😝 [The ultimate stick](http://9gag.com/gag/aPAvYmG)
+ - 👉 [The proper way to take the trash out](http://9gag.com/gag/aByK06D)<!-- MEMES:END -->
 
 ---
 

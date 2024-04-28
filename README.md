@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Binoculars &lpar;2024&rpar;: Nikon, Celestron, Swarovski, Zeiss](https://www.wired.com/story/best-binoculars/)
+ - [Meta’s ‘set it and forget it’ AI ad tools are misfiring and blowing through cash](https://www.theverge.com/2024/4/28/24141585/meta-ai-advantage-plus-automated-ad-glitch-cpm)
  - [The Delta emulator will soon turn your iPad into a giant Nintendo DS](https://www.theverge.com/2024/4/28/24143574/delta-emulator-ipados-version-multi-device-multiplayer)
  - [Elon Musk visits China, a source says to discuss with senior officials the rollout of FSD in the country and permission to transfer data overseas &lpar;Reuters&rpar;](http://www.techmeme.com/240428/p5#a240428p5)
- - [Sources: the new iPad Pro may launch with an M4 chip, kicking off Apple&#39;s AI strategy that will be expanded at WWDC; the new Pencil will have haptic feedback &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240428/p4#a240428p4)
- - [11 Best Sleeping Bags &lpar;2024&rpar;: Ultralight, for Car Campers, Warm Weather, for Kids](https://www.wired.com/story/the-best-sleeping-bags-for-every-adventure/)
- - [Where to get started with Fallout](https://www.theverge.com/2024/4/28/24141907/best-fallout-3-4-76-new-vegas-start)<!-- TECH:END -->
+ - [Sources: the new iPad Pro may launch with an M4 chip, kicking off Apple&#39;s AI strategy that will be expanded at WWDC; the new Pencil will have haptic feedback &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240428/p4#a240428p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

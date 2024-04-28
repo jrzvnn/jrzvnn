@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [French Police Puncture Illegal Invaders Boat. Send Them Back](http://9gag.com/gag/azxb9ex)
- - 😝 [Returning back to my country after 1 month in USA](http://9gag.com/gag/a87Wo2d)
- - 💣 [I dont know what it where this is but it surely activating some neurons.](http://9gag.com/gag/abA5MR9)
  - 😝 [When you see bugs in the code but it&#39;s not your task!](http://9gag.com/gag/azxbXdK)
- - 👉 [This true?](http://9gag.com/gag/aGy9eBn)<!-- MEMES:END -->
+ - 😝 [Remembering beautiful memories with her](http://9gag.com/gag/aYQb4Bq)
+ - 💣 [Protesters are blocking anyone who appears to be jewish from entering the UCLA campus](http://9gag.com/gag/adBN5YN)
+ - 😝 [Why god WHYYY](http://9gag.com/gag/a34YRY5)
+ - 👉 [I dont know what it where this is but it surely activating some neurons.](http://9gag.com/gag/abA5MR9)<!-- MEMES:END -->
 
 ---
 

@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Phone cooler makers need to chill with all the ice](https://www.theverge.com/2024/4/28/24143845/phone-cooler-fans-ice-graphics)
  - [AI is making Meta&#39;s apps basically unusable, as the company adds Meta AI everywhere and viral user-generated AI images proliferate on Facebook and Instagram &lpar;Scott Nover/Fast Company&rpar;](http://www.techmeme.com/240428/p7#a240428p7)
  - [The best movie trailers for the week of April 21st](https://www.theverge.com/2024/4/28/24143685/best-movie-trailers-week-april-21)
  - [Nikon Z6 II 4k Camera &lpar;Body Only&rpar;     - CNET](https://www.cnet.com/tech/computing/nikon-z6-ii-4k-camera-body-only-dpnl/#ftag=CAD590a51e)
- - [GE Profile Smart Smoker     - CNET](https://www.cnet.com/home/kitchen-and-household/ge-profile-smart-smoker-dpnl/#ftag=CAD590a51e)
- - [Lawmakers, TikTok staff, and others detail how TikTok lost the war in Washington, including due to CEO Shou Zi Chew&#39;s failure to build support on Capitol Hill &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240428/p6#a240428p6)<!-- TECH:END -->
+ - [GE Profile Smart Smoker     - CNET](https://www.cnet.com/home/kitchen-and-household/ge-profile-smart-smoker-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

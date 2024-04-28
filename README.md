@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon discounts the Apple Studio Display to $1,299 &lpar;$300 off&rpar;](https://appleinsider.com/articles/24/04/28/amazon-discounts-the-apple-studio-display-to-1299-300-off?utm_medium=rss)
  - [Best Binoculars &lpar;2024&rpar;: Nikon, Celestron, Swarovski, Zeiss](https://www.wired.com/story/best-binoculars/)
  - [Meta’s ‘set it and forget it’ AI ad tools are misfiring and blowing through cash](https://www.theverge.com/2024/4/28/24141585/meta-ai-advantage-plus-automated-ad-glitch-cpm)
  - [Student Loan Forgiveness Deadline: Just 2 Days Left to Consolidate Your Student Loans     - CNET](https://www.cnet.com/personal-finance/student-loan-forgiveness-deadline-3-days-left-to-consolidate-your-student-loans/#ftag=CAD590a51e)
- - [The Delta emulator will soon turn your iPad into a giant Nintendo DS](https://www.theverge.com/2024/4/28/24143574/delta-emulator-ipados-version-multi-device-multiplayer)
- - [Elon Musk visits China, a source says to discuss with senior officials the rollout of FSD in the country and permission to transfer data overseas &lpar;Reuters&rpar;](http://www.techmeme.com/240428/p5#a240428p5)<!-- TECH:END -->
+ - [The Delta emulator will soon turn your iPad into a giant Nintendo DS](https://www.theverge.com/2024/4/28/24143574/delta-emulator-ipados-version-multi-device-multiplayer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

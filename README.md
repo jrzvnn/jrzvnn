@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Motorola Moto G Power 5G 2024 Review: Fantastic Value](https://www.wired.com/review/motorola-moto-g-power-5g-2024/)
  - [A profile of Ethan Mollick, a University of Pennsylvania professor whose early embrace of AI made him a go-to expert for policymakers and corporate leaders &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/240428/p3#a240428p3)
  - [How to Get Free Kindle Books With Your Library Card &lpar;2024&rpar;](https://www.wired.com/story/how-to-get-free-kindle-books-with-your-library-card/)
  - [Why You Endlessly Scroll Through Your Phone, and How to Stop     - CNET](https://www.cnet.com/tech/mobile/why-you-endlessly-scroll-through-your-phone-and-how-to-stop/#ftag=CAD590a51e)
- - [I Tried These AI-Based Productivity Tools. Here’s What Happened](https://www.wired.com/story/6-ai-based-productivity-tools-tested/)
- - [Dell XPS 16 9640 Review: A Big, Bold and Brawny Creator Laptop     - CNET](https://www.cnet.com/tech/computing/dell-xps-16-9640-review-a-big-bold-and-brawny-creator-laptop/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I Tried These AI-Based Productivity Tools. Here’s What Happened](https://www.wired.com/story/6-ai-based-productivity-tools-tested/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

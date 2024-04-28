@@ -166,10 +166,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [India&#39;s top five IT services companies, including Infosys and Wipro, collectively saw a decline of 69,167 employees in FY 2024; HCLTech added 1,537 employees &lpar;Debangana Ghosh/Moneycontrol&rpar;](http://www.techmeme.com/240428/p1#a240428p1)
+ - [Today&#39;s Wordle Hints and Answer: Help for April 28, #1044     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-28-1044/#ftag=CAD590a51e)
+ - [The Air Up Water Bottle Uses Smell to Make Water Tastier. Here&#39;s My Verdict     - CNET](https://www.cnet.com/health/the-air-up-water-bottle-uses-smell-to-make-water-tastier-heres-my-verdict/#ftag=CAD590a51e)
  - [Best Samsung Galaxy A53 5G Case for 2024     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-a53-5g-case/#ftag=CAD590a51e)
- - [Meta, Alphabet, and Snap beat analysts&#39; estimates in their Q1 results, showing acceleration in advertising growth after struggling to rebound from a dismal 2022 &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240427/p13#a240427p13)
- - [The Best Multivitamins for Women Over 50 of 2024     - CNET](https://www.cnet.com/health/nutrition/best-vitamins-for-women-50-plus/#ftag=CAD590a51e)
- - [In the first Autonomous Racing League race, the struggle was real](https://www.theverge.com/2024/4/27/24142989/a2rl-autonomous-race-cars-f1-abu-dhabi)<!-- TECH:END -->
+ - [Meta, Alphabet, and Snap beat analysts&#39; estimates in their Q1 results, showing acceleration in advertising growth after struggling to rebound from a dismal 2022 &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240427/p13#a240427p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

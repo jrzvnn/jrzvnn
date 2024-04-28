@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Indian Ringneck\u2019s choreography in human steps](http://9gag.com/gag/aRBQ067)
- - 😝 [Planky](http://9gag.com/gag/aLnKgBv)
- - 💣 [Let&#39;s f**k up](http://9gag.com/gag/aZZPLoQ)
- - 😝 [Upvote my money cat and get lucky. He&#39;s a 16 yo wizard cat that gives away chances to get rich.](http://9gag.com/gag/aRBQjVQ)
- - 👉 [The proper way to take the trash out](http://9gag.com/gag/aByK06D)<!-- MEMES:END -->
+ - 😝 [French Police Puncture Illegal Invaders Boat. Send Them Back](http://9gag.com/gag/azxb9ex)
+ - 😝 [When you see bugs in the code but it&#39;s not your task!](http://9gag.com/gag/azxbXdK)
+ - 💣 [Planky](http://9gag.com/gag/aLnKgBv)
+ - 😝 [Crazy.](http://9gag.com/gag/amoX2Zv)
+ - 👉 [Damn it!](http://9gag.com/gag/a7o53qz)<!-- MEMES:END -->
 
 ---
 

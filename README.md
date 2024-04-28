@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [French Police Puncture Illegal Invaders Boat. Send Them Back](http://9gag.com/gag/azxb9ex)
- - 😝 [Returning back to my country after 1 month in USA](http://9gag.com/gag/a87Wo2d)
- - 💣 [This true?](http://9gag.com/gag/aGy9eBn)
- - 😝 [Tonight at Boston International Airport](http://9gag.com/gag/aMV1YPW)
- - 👉 [I dont know what it where this is but it surely activating some neurons.](http://9gag.com/gag/abA5MR9)<!-- MEMES:END -->
+ - 😝 [This true?](http://9gag.com/gag/aGy9eBn)
+ - 😝 [She looks smart.](http://9gag.com/gag/a1mAKVw)
+ - 💣 [\u201cCamera man\u201d saves a life](http://9gag.com/gag/ayN5BDp)
+ - 😝 [She didn&#39;t even ask him to cough](http://9gag.com/gag/aMV1ABX)
+ - 👉 [Carlos Sainz against retard-units](http://9gag.com/gag/a87W84Z)<!-- MEMES:END -->
 
 ---
 

@@ -174,10 +174,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The proper way to take the trash out](http://9gag.com/gag/aByK06D)
- - 😝 [Upvote my money cat and get lucky. He&#39;s a 16 yo wizard cat that gives away chances to get rich.](http://9gag.com/gag/aRBQjVQ)
- - 💣 [Indian Ringneck\u2019s choreography in human steps](http://9gag.com/gag/aRBQ067)
- - 😝 [The ultimate stick](http://9gag.com/gag/aPAvYmG)
+ - 😝 [\u201cCamera man\u201d saves a life](http://9gag.com/gag/ayN5BDp)
+ - 😝 [Returning back to my country after 1 month in USA](http://9gag.com/gag/a87Wo2d)
+ - 💣 [This is Kelp. It is one of the fastest growing organisms on the planet. In a single growing season, it can grow from a microscopic spore to over 100 ft in length](http://9gag.com/gag/a4P4QZm)
+ - 😝 [Protesters are blocking anyone who appears to be jewish from entering the UCLA campus](http://9gag.com/gag/adBN5YN)
  - 👉 [I dont know what it where this is but it surely activating some neurons.](http://9gag.com/gag/abA5MR9)<!-- MEMES:END -->
 
 ---

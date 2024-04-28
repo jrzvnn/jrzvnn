@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Simple](http://9gag.com/gag/aRBQKnG)
- - 😝 [I dont know what it where this is but it surely activating some neurons.](http://9gag.com/gag/abA5MR9)
- - 💣 [Returning back to my country after 1 month in USA](http://9gag.com/gag/a87Wo2d)
+ - 😝 [What do you think they meant by misinformation?](http://9gag.com/gag/aE0wBqp)
  - 😝 [Ey girls, this is how to get a man](http://9gag.com/gag/aAyYwA2)
- - 👉 [\u201cCamera man\u201d saves a life](http://9gag.com/gag/ayN5BDp)<!-- MEMES:END -->
+ - 💣 [Planky](http://9gag.com/gag/aLnKgBv)
+ - 😝 [This is Kelp. It is one of the fastest growing organisms on the planet. In a single growing season, it can grow from a microscopic spore to over 100 ft in length](http://9gag.com/gag/a4P4QZm)
+ - 👉 [When you see bugs in the code but it&#39;s not your task!](http://9gag.com/gag/azxbXdK)<!-- MEMES:END -->
 
 ---
 

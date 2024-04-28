@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [\u201cCamera man\u201d saves a life](http://9gag.com/gag/ayN5BDp)
+ - 😝 [Ben Affleck. Money Can&#39;t Buy Mental Health](http://9gag.com/gag/arypVG6)
+ - 💣 [Protesters are blocking anyone who appears to be jewish from entering the UCLA campus](http://9gag.com/gag/adBN5YN)
  - 😝 [What did she want to do with lighter?](http://9gag.com/gag/apRq5np)
- - 😝 [She looks smart.](http://9gag.com/gag/a1mAKVw)
- - 💣 [He went hardcore!](http://9gag.com/gag/a87W57O)
- - 😝 [Damn it!](http://9gag.com/gag/a7o53qz)
- - 👉 [Always towards woman.. not a man.., a coward at heart who prays on the weak.](http://9gag.com/gag/aW4Z1K2)<!-- MEMES:END -->
+ - 👉 [I dont know what it where this is but it surely activating some neurons.](http://9gag.com/gag/abA5MR9)<!-- MEMES:END -->
 
 ---
 

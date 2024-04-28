@@ -165,11 +165,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Camera Phone of 2024     - CNET](https://www.cnet.com/tech/mobile/best-camera-phone/#ftag=CAD590a51e)
+ - [Doing This Can Cause You to Lose Your Social Security Benefits     - CNET](https://www.cnet.com/personal-finance/doing-this-can-cause-you-to-lose-your-social-security-benefits/#ftag=CAD590a51e)
  - [Some founders say TikTok ban won&#39;t impact creator economy startups much, as they have diversified across multiple platforms after Trump tried banning it in 2020 &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/240428/p2#a240428p2)
  - [India&#39;s top five IT services companies, including Infosys and Wipro, collectively saw a decline of 69,167 employees in FY 2024; HCLTech added 1,537 employees &lpar;Debangana Ghosh/Moneycontrol&rpar;](http://www.techmeme.com/240428/p1#a240428p1)
- - [Today&#39;s Wordle Hints and Answer: Help for April 28, #1044     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-28-1044/#ftag=CAD590a51e)
- - [The Air Up Water Bottle Uses Smell to Make Water Tastier. Here&#39;s My Verdict     - CNET](https://www.cnet.com/health/the-air-up-water-bottle-uses-smell-to-make-water-tastier-heres-my-verdict/#ftag=CAD590a51e)
- - [Best Samsung Galaxy A53 5G Case for 2024     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-a53-5g-case/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints and Answer: Help for April 28, #1044     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-28-1044/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

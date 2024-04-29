@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New iPad Pro models will get the best OLED tablet display ever made](https://appleinsider.com/articles/24/04/29/new-ipad-pro-models-will-get-the-best-oled-tablet-display-ever-made?utm_medium=rss)
+ - [Meta had its biggest lobbying quarter ever](https://www.theverge.com/2024/4/29/24144333/meta-record-lobbying-q1-2024-us-government-big-tech)
  - [GitHub Copilot can now help start a project with AI, not just complete it](https://www.theverge.com/2024/4/29/24144454/github-copilot-workspace-ai-coding-developer-preview-launch)
  - [PsiQuantum, which aims to build a commercial quantum computer, raises $940M from Australia and Queensland governments, via share purchases, grants, and loans &lpar;Nick Bonyhady/Australian Financial Review&rpar;](http://www.techmeme.com/240429/p21#a240429p21)
- - [Razer made a million dollars selling a mask with RGB, and the FTC is not pleased](https://www.theverge.com/2024/4/29/24144425/razer-zephyr-face-mask-covid-n95-ftc-settlement)
- - [More Matter products, and a big new Sonos app update on the HomeKit Insider Podcast](https://appleinsider.com/articles/24/04/29/more-matter-products-and-a-big-new-sonos-app-update-on-the-homekit-insider-podcast?utm_medium=rss)
- - [Microsoft starts rolling out OneDrive’s offline mode on the web](https://www.theverge.com/2024/4/29/24144471/microsoft-onedrive-offline-mode-web)<!-- TECH:END -->
+ - [2024 Tax Refund Still Hasn&#39;t Arrived? Here&#39;s How to Track It     - CNET](https://www.cnet.com/personal-finance/taxes/2024-tax-refund-still-hasnt-arrived-heres-how-to-track-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

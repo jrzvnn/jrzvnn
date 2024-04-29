@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ben Affleck. Money Can&#39;t Buy Mental Health](http://9gag.com/gag/arypVG6)
- - 😝 [Give you a shot](http://9gag.com/gag/aLnK0zz)
- - 💣 [I dont know what it where this is but it surely activating some neurons.](http://9gag.com/gag/abA5MR9)
- - 😝 [Always towards woman.. not a man.., a coward at heart who prays on the weak.](http://9gag.com/gag/aW4Z1K2)
- - 👉 [Thai Men Displaying Their Certificates Exempting Them from Military Service](http://9gag.com/gag/adBNV69)<!-- MEMES:END -->
+ - 😝 [Do you even soy, bro?](http://9gag.com/gag/apRqNeW)
+ - 😝 [It will be a good gif when they attack again](http://9gag.com/gag/awyrMqQ)
+ - 💣 [We were too young to understand](http://9gag.com/gag/aE0wgWe)
+ - 😝 [Pls follow n fight for your rights](http://9gag.com/gag/avy0zyn)
+ - 👉 [It should&#39;ve been me](http://9gag.com/gag/aGy9zY7)<!-- MEMES:END -->
 
 ---
 

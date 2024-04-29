@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This guy, son of a big politician allegedly raped many women, kept their videos. After the videos became viral has fled to Germany. In case if you see him greet him nicely](http://9gag.com/gag/aVvOwoM)
- - 😝 [In 2001, a Yakuza mob boss named Tadamasa Goto gave a $100,000 donation to UCLA. In exchange, they gave him a liver transplant, allowing him to jump the queue. That same year, 186 people in the Los Angeles area died while waiting for a liver transplant. The FBI was also involved.](http://9gag.com/gag/abA5MZO)
- - 💣 [Which of the 3 were you??](http://9gag.com/gag/adBNLYD)
- - 😝 [Ben Affleck. Money Can&#39;t Buy Mental Health](http://9gag.com/gag/arypVG6)
- - 👉 [This is Kelp. It is one of the fastest growing organisms on the planet. In a single growing season, it can grow from a microscopic spore to over 100 ft in length](http://9gag.com/gag/a4P4QZm)<!-- MEMES:END -->
+ - 😝 [Crows or ravens?](http://9gag.com/gag/aAyY3RE)
+ - 😝 [What did she want to do with lighter?](http://9gag.com/gag/apRq5np)
+ - 💣 [He went hardcore!](http://9gag.com/gag/a87W57O)
+ - 😝 [Real vs. Fake](http://9gag.com/gag/arypgB0)
+ - 👉 [There is a small ray of hope for Scotland. R@cist be gone](http://9gag.com/gag/axyNMm1)<!-- MEMES:END -->
 
 ---
 

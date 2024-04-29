@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An inside look at Apple&#39;s various internal iOS variants that aid development](https://appleinsider.com/articles/24/04/29/apple-makes-far-more-than-just-beta-and-release-versions-of-ios?utm_medium=rss)
- - [A survey of 10,133 US adults: 78% say social media companies have too much political power; 51% say Big Tech should be regulated more than it is now &lpar;Monica Anderson/Pew Research Center&rpar;](http://www.techmeme.com/240429/p27#a240429p27)
- - [Maybe go look at Google’s AR animals before they enter the grave](https://www.theverge.com/2024/4/29/24144735/google-ar-search-3d-objects-missing)
- - [Sources describe Techstars under CEO M&amp;auml;elle Gavet, facing departures of senior execs and corporate sponsors at times, and a $7.2M loss on operations last year &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/240429/p26#a240429p26)
- - [Best Laptop Deals: Save Hundreds on MacBook, Surface, Acer and More     - CNET](https://www.cnet.com/deals/best-laptop-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Score a One-Year Sam&#39;s Club Membership for an Unbelievable $14 Right Now     - CNET](https://www.cnet.com/deals/score-one-year-sams-club-membership-right-now/#ftag=CAD590a51e)
+ - [You Have Until April 30 to Grab Microsoft Office for Windows or Mac for Just $30     - CNET](https://www.cnet.com/deals/you-have-until-april-30-to-grab-microsoft-office-for-windows-or-mac-for-just-30/#ftag=CAD590a51e)
+ - [There&#39;s Now 1 EV Charging Station for Every 5 Gas Stations in California     - CNET](https://www.cnet.com/roadshow/news/theres-now-1-ev-charging-station-for-every-5-gas-stations-in-california/#ftag=CAD590a51e)
+ - [World Password Day Deals: Early Savings on Online Protection Are Rolling In     - CNET](https://www.cnet.com/deals/world-password-day-deals-early-savings-on-online-protection-are-rolling-in/#ftag=CAD590a51e)
+ - [An inside look at Apple&#39;s various internal iOS variants that aid development](https://appleinsider.com/articles/24/04/29/apple-makes-far-more-than-just-beta-and-release-versions-of-ios?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

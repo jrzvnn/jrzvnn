@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s iPhone Browser-Choice Option Sucks. Its Competitors Have Ideas to Improve It](https://www.wired.com/story/browser-choice-screen-apple-digital-markets-act/)
  - [Non-profit noyb files a GDPR complaint against OpenAI in Austria on behalf of an unnamed public figure, who found ChatGPT produced his incorrect birth date &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240429/p5#a240429p5)
  - [Sources: Chinese officials have told Tesla that Beijing has tentatively approved the company&#39;s plan to launch its Full Self-Driving software in the country &lpar;Raffaele Huang/Wall Street Journal&rpar;](http://www.techmeme.com/240429/p4#a240429p4)
  - [Why China Is So Bad at Disinformation](https://www.wired.com/story/china-bad-at-disinformation/)
- - [The second AI summit, a primarily virtual event in Seoul on May 21 and May 22, faces challenges, as sources say far few leaders and ministers are set to attend &lpar;Martin Coulter/Reuters&rpar;](http://www.techmeme.com/240429/p3#a240429p3)
- - [China removes restrictions on Tesla cars after its China-made vehicles passed the country&#39;s data security requirements; five other local brands also got cleared &lpar;Evelyn Cheng/CNBC&rpar;](http://www.techmeme.com/240429/p2#a240429p2)<!-- TECH:END -->
+ - [The second AI summit, a primarily virtual event in Seoul on May 21 and May 22, faces challenges, as sources say far few leaders and ministers are set to attend &lpar;Martin Coulter/Reuters&rpar;](http://www.techmeme.com/240429/p3#a240429p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

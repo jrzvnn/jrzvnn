@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The UK bans default guessable usernames and passwords for some IoT devices, to help avoid a situation like the 2016 Mirai botnet, the first country to do so &lpar;Alexander Martin/The Record&rpar;](http://www.techmeme.com/240429/p13#a240429p13)
  - [7 Best Portable Power Stations &lpar;2024&rpar;: Power Capacity, Luxe, Budget, and More](https://www.wired.com/gallery/best-portable-power-stations/)
  - [HelloFresh Is the Most Popular Meal Kit Service, but Is It the Best? We Tested It to Find out     - CNET](https://www.cnet.com/health/nutrition/hello-fresh-meal-kit-reviews/#ftag=CAD590a51e)
  - [Manor Lords, a new medieval city building game from Polish indie developer Grzegorz Styczen, sells 1M+ copies and hits 170K+ concurrent players on Steam &lpar;Konrad Krasuski/Bloomberg&rpar;](http://www.techmeme.com/240429/p12#a240429p12)
- - [Student Loan Forgiveness Deadline: Only 1 Day Left to Consolidate Your Student Loans     - CNET](https://www.cnet.com/personal-finance/student-loan-forgiveness-deadline-3-days-left-to-consolidate-your-student-loans/#ftag=CAD590a51e)
- - [Earn 7% Cash Back at Restaurants With the Chase Freedom Flex This Spring     - CNET](https://www.cnet.com/personal-finance/the-chase-freedom-flex-just-became-springs-best-travel-card/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Student Loan Forgiveness Deadline: Only 1 Day Left to Consolidate Your Student Loans     - CNET](https://www.cnet.com/personal-finance/student-loan-forgiveness-deadline-3-days-left-to-consolidate-your-student-loans/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

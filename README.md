@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Manor Lords, a new medieval city building game from Polish indie developer Grzegorz Styczen, sells 1M+ copies and hits 170K+ concurrent players on Steam &lpar;Konrad Krasuski/Bloomberg&rpar;](http://www.techmeme.com/240429/p12#a240429p12)
  - [Glestain Gyuto Chef’s Knife Review: The Dimples Do Work](https://www.wired.com/review/glestain-gyuto/)
  - [The legal challenges that lie ahead for TikTok — in both the US and China](https://www.theverge.com/24141539/tiktok-ban-bytedance-china-dc-circuit-supreme-court)
  - [An inside look at Apple&#39;s various internal iOS variants that aid development](https://appleinsider.com/articles/24/04/29/apple-makes-far-more-than-just-beta-and-release-versions-of-ios?utm_medium=rss)
- - [iPads join iPhones in requirement to follow strict EU rules](https://www.theverge.com/2024/4/29/24144209/ipados-ipad-eu-commission-dma-rules-compliance-regulation)
- - [Apple&#39;s earnings will be flat ahead of AI-enabled iPhone](https://appleinsider.com/articles/24/04/29/apples-earnings-will-be-flat-ahead-of-ai-enabled-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [iPads join iPhones in requirement to follow strict EU rules](https://www.theverge.com/2024/4/29/24144209/ipados-ipad-eu-commission-dma-rules-compliance-regulation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

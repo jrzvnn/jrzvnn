@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Crows or ravens?](http://9gag.com/gag/aAyY3RE)
- - 😝 [What did she want to do with lighter?](http://9gag.com/gag/apRq5np)
- - 💣 [He went hardcore!](http://9gag.com/gag/a87W57O)
- - 😝 [Real vs. Fake](http://9gag.com/gag/arypgB0)
- - 👉 [There is a small ray of hope for Scotland. R@cist be gone](http://9gag.com/gag/axyNMm1)<!-- MEMES:END -->
+ - 😝 [Every single Scooby-Doo show &lpar;no Velma show for obvious reasons&rpar;](http://9gag.com/gag/aNDe0j6)
+ - 😝 [Ben Affleck. Money Can&#39;t Buy Mental Health](http://9gag.com/gag/arypVG6)
+ - 💣 [Wait...What?!](http://9gag.com/gag/aKGz7wb)
+ - 😝 [Damn it!](http://9gag.com/gag/a7o53qz)
+ - 👉 [Some famous logos in medieval style &lpar;zoom it for better experience&rpar;](http://9gag.com/gag/aKGz6G6)<!-- MEMES:END -->
 
 ---
 

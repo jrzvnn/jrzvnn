@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you get cancelled on](http://9gag.com/gag/aByK2eN)
- - 😝 [Smart Move](http://9gag.com/gag/aE0wpQn)
- - 💣 [Feeling sorry for the kid, the only person with dignity but being seen as the odd one](http://9gag.com/gag/a1mAR2D)
+ - 😝 [Protesters are blocking anyone who appears to be jewish from entering the UCLA campus](http://9gag.com/gag/adBN5YN)
+ - 😝 [Wait...What?!](http://9gag.com/gag/aKGz7wb)
+ - 💣 [When you get cancelled on](http://9gag.com/gag/aByK2eN)
  - 😝 [This is it](http://9gag.com/gag/a87WEA6)
- - 👉 [Wait...What?!](http://9gag.com/gag/aKGz7wb)<!-- MEMES:END -->
+ - 👉 [Clickbait](http://9gag.com/gag/aXPboGd)<!-- MEMES:END -->
 
 ---
 

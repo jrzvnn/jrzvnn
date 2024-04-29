@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk Can&#39;t Solve Tesla’s China Crisis With His Desperate Asia Visit](https://www.wired.com/story/elon-musk-cant-solve-teslas-china-crisis-with-his-desperate-asia-visit/)
  - [iPad at war: How the iPad is crucial to the Ukraine war effort](https://appleinsider.com/articles/24/04/29/ipad-at-war-how-the-ipad-is-crucial-to-the-ukraine-war-effort?utm_medium=rss)
- - [FCC fines AT&amp;T, Sprint, T-Mobile, and Verizon nearly $200 million for illegally sharing location data](https://www.theverge.com/2024/4/29/24144599/fcc-fine-att-sprint-verizon-t-mobile-location-data)
- - [How to Use ChatGPT’s Memory Feature](https://www.wired.com/story/how-to-use-chatgpt-memory-feature/)
- - [Can Rabbit’s R1 outsmart the smartphone assistants? Let’s find out!](https://www.theverge.com/2024/4/29/24144290/rabbit-r1-google-assistant-siri-voice-ai-assistant)<!-- TECH:END -->
+ - [FCC fines T-Mobile $80M, AT&amp;T $57M, and Verizon $47M for allegedly illegally sharing customers&#39; location data to aggregators &quot;without customer consent&quot; &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240429/p23#a240429p23)
+ - [Paramount CEO Bob Bakish steps down as merger inches closer](https://www.theverge.com/2024/4/29/24144670/paramount-ceo-bob-bakish-stepping-down-merger-skydance)
+ - [ChatGPT’s AI ‘memory’ can remember the preferences of paying customers](https://www.theverge.com/2024/4/29/24144680/chatgpt-plus-memory-chatbot-subscription-details-preferences-personal-assistant)
+ - [Elon Musk Can&#39;t Solve Tesla’s China Crisis With His Desperate Asia Visit](https://www.wired.com/story/elon-musk-cant-solve-teslas-china-crisis-with-his-desperate-asia-visit/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An inside look at Apple&#39;s various internal iOS variants that aid development](https://appleinsider.com/articles/24/04/29/apple-makes-far-more-than-just-beta-and-release-versions-of-ios?utm_medium=rss)
+ - [A survey of 10,133 US adults: 78% say social media companies have too much political power; 51% say Big Tech should be regulated more than it is now &lpar;Monica Anderson/Pew Research Center&rpar;](http://www.techmeme.com/240429/p27#a240429p27)
  - [Maybe go look at Google’s AR animals before they enter the grave](https://www.theverge.com/2024/4/29/24144735/google-ar-search-3d-objects-missing)
- - [Sources describe Techstars under CEO M&amp;auml;elle Gavet, facing departures of senior execs and corporate sponsors at times and, last year, a $7.2M loss on operations &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/240429/p26#a240429p26)
- - [NIST launches a new program to assess generative AI technologies, with plans to release benchmarks, help create &quot;content authenticity&quot; detection tech, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240429/p25#a240429p25)
- - [Act Now to Score Anker Space One Headphones for 20% Off at Amazon     - CNET](https://www.cnet.com/deals/act-now-to-score-anker-space-one-headphones-for-20-off-at-amazon/#ftag=CAD590a51e)
- - [Latest iPhone Rumors Include First Screen-Size Increase in Years     - CNET](https://www.cnet.com/tech/mobile/latest-iphone-rumors-include-first-screen-size-increase-in-years/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources describe Techstars under CEO M&amp;auml;elle Gavet, facing departures of senior execs and corporate sponsors at times, and a $7.2M loss on operations last year &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/240429/p26#a240429p26)
+ - [NIST launches a new program to assess generative AI technologies, with plans to release benchmarks, help create &quot;content authenticity&quot; detection tech, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240429/p25#a240429p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

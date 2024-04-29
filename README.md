@@ -174,11 +174,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I see what you did there..](http://9gag.com/gag/a34YRzQ)
- - 😝 [Wait...What?!](http://9gag.com/gag/aKGz7wb)
- - 💣 [That&#39;s why men prefer going out alone.](http://9gag.com/gag/a7o5W5A)
- - 😝 [Take a deep breath and meet me in the comments with some memes. No propagandalf no war. Just good old dumb memes.](http://9gag.com/gag/a1mARd2)
- - 👉 [\u201cCamera man\u201d saves a life](http://9gag.com/gag/ayN5BDp)<!-- MEMES:END -->
+ - 😝 [Physical version is uncensored if you block the update.](http://9gag.com/gag/aLnKpPM)
+ - 😝 [He went hardcore!](http://9gag.com/gag/a87W57O)
+ - 💣 [Wait...What?!](http://9gag.com/gag/aKGz7wb)
+ - 😝 [I hope they like waves](http://9gag.com/gag/aNDegjK)
+ - 👉 [Always towards woman.. not a man.., a coward at heart who prays on the weak.](http://9gag.com/gag/aW4Z1K2)<!-- MEMES:END -->
 
 ---
 

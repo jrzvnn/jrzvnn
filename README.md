@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Give you a shot](http://9gag.com/gag/aLnK0zz)
+ - 😝 [Government surveillance ? \u201cThe only people who should worry are those who are doing something immoral or illegal.\u201d](http://9gag.com/gag/aByKmjD)
  - 😝 [I see what you did there..](http://9gag.com/gag/a34YRzQ)
- - 💣 [Smart Move](http://9gag.com/gag/aE0wpQn)
- - 😝 [That look](http://9gag.com/gag/aqymnYM)
- - 👉 [Always towards woman.. not a man.., a coward at heart who prays on the weak.](http://9gag.com/gag/aW4Z1K2)<!-- MEMES:END -->
+ - 💣 [Feeling sorry for the kid, the only person with dignity but being seen as the odd one](http://9gag.com/gag/a1mAR2D)
+ - 😝 [Damn it!](http://9gag.com/gag/a7o53qz)
+ - 👉 [If buying isn&#39;t owning, pirating isn&#39;t stealing](http://9gag.com/gag/adBN82j)<!-- MEMES:END -->
 
 ---
 

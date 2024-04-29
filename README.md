@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If buying isn&#39;t owning, pirating isn&#39;t stealing](http://9gag.com/gag/adBN82j)
- - 😝 [That&#39;s why men prefer going out alone.](http://9gag.com/gag/a7o5W5A)
- - 💣 [This is Kelp. It is one of the fastest growing organisms on the planet. In a single growing season, it can grow from a microscopic spore to over 100 ft in length](http://9gag.com/gag/a4P4QZm)
- - 😝 [I dont know what it where this is but it surely activating some neurons.](http://9gag.com/gag/abA5MR9)
- - 👉 [I see what you did there..](http://9gag.com/gag/a34YRzQ)<!-- MEMES:END -->
+ - 😝 [This guy, son of a big politician allegedly raped many women, kept their videos. After the videos became viral has fled to Germany. In case if you see him greet him nicely](http://9gag.com/gag/aVvOwoM)
+ - 😝 [In 2001, a Yakuza mob boss named Tadamasa Goto gave a $100,000 donation to UCLA. In exchange, they gave him a liver transplant, allowing him to jump the queue. That same year, 186 people in the Los Angeles area died while waiting for a liver transplant. The FBI was also involved.](http://9gag.com/gag/abA5MZO)
+ - 💣 [Which of the 3 were you??](http://9gag.com/gag/adBNLYD)
+ - 😝 [Ben Affleck. Money Can&#39;t Buy Mental Health](http://9gag.com/gag/arypVG6)
+ - 👉 [This is Kelp. It is one of the fastest growing organisms on the planet. In a single growing season, it can grow from a microscopic spore to over 100 ft in length](http://9gag.com/gag/a4P4QZm)<!-- MEMES:END -->
 
 ---
 

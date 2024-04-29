@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Protesters are blocking anyone who appears to be jewish from entering the UCLA campus](http://9gag.com/gag/adBN5YN)
+ - 😝 [She belongs to the streets now](http://9gag.com/gag/avy0AYq)
+ - 😝 [Feeling sorry for the kid, the only person with dignity but being seen as the odd one](http://9gag.com/gag/a1mAR2D)
+ - 💣 [Arrest Me](http://9gag.com/gag/aQzqXye)
  - 😝 [Wait...What?!](http://9gag.com/gag/aKGz7wb)
- - 💣 [When you get cancelled on](http://9gag.com/gag/aByK2eN)
- - 😝 [This is it](http://9gag.com/gag/a87WEA6)
  - 👉 [Clickbait](http://9gag.com/gag/aXPboGd)<!-- MEMES:END -->
 
 ---

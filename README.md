@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China removes restrictions on Tesla cars after its China-made vehicles passed the country&#39;s data security requirements; five other local brands also got cleared &lpar;Evelyn Cheng/CNBC&rpar;](http://www.techmeme.com/240429/p2#a240429p2)
  - [Sources: Tesla to clear a key hurdle to introduce its advanced assisted driving features in China by partnering with Baidu for mapping and navigation functions &lpar;Bloomberg&rpar;](http://www.techmeme.com/240429/p1#a240429p1)
  - [FDA Update on Bird Flu Traces in Milk: What to Know About Pasteurized and Raw Milk     - CNET](https://www.cnet.com/health/nutrition/fda-update-on-bird-flu-traces-in-milk-what-to-know-about-pasteurized-and-raw-milk/#ftag=CAD590a51e)
  - [An interview with MongoDB CEO Dev Ittycheria on leading the company for a decade, the evolution of databases, AI hype, transitioning to a SaaS model, and more &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240428/p9#a240428p9)
- - [Today&#39;s NYT Connections Hints and Answer: Help for April 29, #323     - CNET](https://www.cnet.com/tech/gaming/todays-nyt-connections-hint-answerfor-april-29-323/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints and Answer: Help for April 29, #1045     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-29-1045/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints and Answer: Help for April 29, #323     - CNET](https://www.cnet.com/tech/gaming/todays-nyt-connections-hint-answerfor-april-29-323/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

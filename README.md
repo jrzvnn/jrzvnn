@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u201cCamera man\u201d saves a life](http://9gag.com/gag/ayN5BDp)
- - 😝 [Government surveillance ? \u201cThe only people who should worry are those who are doing something immoral or illegal.\u201d](http://9gag.com/gag/aByKmjD)
- - 💣 [Feeling sorry for the kid, the only person with dignity but being seen as the odd one](http://9gag.com/gag/a1mAR2D)
- - 😝 [Smart Move](http://9gag.com/gag/aE0wpQn)
- - 👉 [That&#39;s why men prefer going out alone.](http://9gag.com/gag/a7o5W5A)<!-- MEMES:END -->
+ - 😝 [It should&#39;ve been me](http://9gag.com/gag/aGy9zY7)
+ - 😝 [Real vs. Fake](http://9gag.com/gag/arypgB0)
+ - 💣 [Live slot machine](http://9gag.com/gag/aRBQXVM)
+ - 😝 [This is LIBRARY!](http://9gag.com/gag/awyrMAy)
+ - 👉 [YouTube May Roll Out Ads While Videos Are Paused After Recent Testing\u00a0](http://9gag.com/gag/a87WE91)<!-- MEMES:END -->
 
 ---
 

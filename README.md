@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SCOTUS rejects an appeal from Elon Musk in his case to overturn an SEC agreement to have a lawyer pre-approve his posts about Tesla, without giving a reason &lpar;Greg Stohr/Bloomberg&rpar;](http://www.techmeme.com/240429/p17#a240429p17)
+ - [Duel of the dual-screen laptops: Asus Zenbook Duo vs. Lenovo Yoga Book 9i](https://www.theverge.com/24140334/asus-zenbook-duo-vs-lenovo-yoga-book-9i)
+ - [Browser developers gripe about Apple promoting them in the EU](https://appleinsider.com/articles/24/04/29/browser-developers-gripe-about-apple-promoting-them-in-the-eu?utm_medium=rss)
  - [Supreme Court rejects Elon Musk’s efforts to get rid of his ‘Twitter sitter’](https://www.theverge.com/2024/4/29/24144317/elon-musk-supreme-court-twitter-sitter-sec-tesla)
- - [The NHTSA investigates Ford&#39;s driver assistance system BlueCruise, which was active in two recent crashes that killed multiple people in Texas and Pennsylvania &lpar;Sean O&#39;Kane/TechCrunch&rpar;](http://www.techmeme.com/240429/p16#a240429p16)
- - [Flash deals: Best Buy slashes iPad Air 5 to $399.99, Apple Pencil 2 drops to $79](https://appleinsider.com/articles/24/04/29/flash-deals-best-buy-slashes-ipad-air-5-to-39999-apple-pencil-2-drops-to-79?utm_medium=rss)
- - [14 Best Laptop Stands &lpar;2024&rpar;: Adjustable, Portable, Lap Desks](https://www.wired.com/gallery/best-laptop-stands/)
- - [A look at the rise of Mustafa Suleyman and Demis Hassabis, two of the most powerful AI executives, who grew up in London and met at Queen Elizabeth&#39;s School &lpar;New York Times&rpar;](http://www.techmeme.com/240429/p15#a240429p15)<!-- TECH:END -->
+ - [The NHTSA investigates Ford&#39;s driver assistance system BlueCruise, which was active in two recent crashes that killed multiple people in Texas and Pennsylvania &lpar;Sean O&#39;Kane/TechCrunch&rpar;](http://www.techmeme.com/240429/p16#a240429p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

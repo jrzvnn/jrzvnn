@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why are some women like this?](http://9gag.com/gag/aZZP7eX)
- - 😝 [Take a deep breath and meet me in the comments with some memes. No propagandalf no war. Just good old dumb memes.](http://9gag.com/gag/a1mARd2)
- - 💣 [Very difficult to live on 4500$ a month](http://9gag.com/gag/a0e9NWQ)
- - 😝 [Some famous logos in medieval style &lpar;zoom it for better experience&rpar;](http://9gag.com/gag/aKGz6G6)
- - 👉 [That&#39;s why men prefer going out alone.](http://9gag.com/gag/a7o5W5A)<!-- MEMES:END -->
+ - 😝 [What did she want to do with lighter?](http://9gag.com/gag/apRq5np)
+ - 😝 [He went hardcore!](http://9gag.com/gag/a87W57O)
+ - 💣 [Always towards woman.. not a man.., a coward at heart who prays on the weak.](http://9gag.com/gag/aW4Z1K2)
+ - 😝 [That&#39;s why men prefer going out alone.](http://9gag.com/gag/a7o5W5A)
+ - 👉 [I&#39;ve never hit a kid before.](http://9gag.com/gag/aRBQ1bG)<!-- MEMES:END -->
 
 ---
 

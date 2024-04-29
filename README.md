@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shock treatment for turds](http://9gag.com/gag/aGy9E07)
- - 😝 [Protesters are blocking anyone who appears to be jewish from entering the UCLA campus](http://9gag.com/gag/adBN5YN)
- - 💣 [He went hardcore!](http://9gag.com/gag/a87W57O)
- - 😝 [What!!!!](http://9gag.com/gag/a4P4Rop)
- - 👉 [That&#39;s why men prefer going out alone.](http://9gag.com/gag/a7o5W5A)<!-- MEMES:END -->
+ - 😝 [A Mother&#39;s Love.](http://9gag.com/gag/aNDeP4A)
+ - 😝 [Wait...What?!](http://9gag.com/gag/aKGz7wb)
+ - 💣 [Take a deep breath and meet me in the comments with some memes. No propagandalf no war. Just good old dumb memes.](http://9gag.com/gag/a1mARd2)
+ - 😝 [She belongs to the streets now](http://9gag.com/gag/avy0AYq)
+ - 👉 [I see what you did there..](http://9gag.com/gag/a34YRzQ)<!-- MEMES:END -->
 
 ---
 

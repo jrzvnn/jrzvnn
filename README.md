@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources describe Techstars under CEO M&amp;auml;elle Gavet, facing departures of senior execs and corporate sponsors at times and, last year, a $7.2M loss on operations &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/240429/p26#a240429p26)
  - [NIST launches a new program to assess generative AI technologies, with plans to release benchmarks, help create &quot;content authenticity&quot; detection tech, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240429/p25#a240429p25)
  - [Apple starts replacing titanium Apple Cards from original 2019 batch](https://appleinsider.com/articles/24/04/29/apple-starts-replacing-titanium-apple-cards-from-original-2019-batch?utm_medium=rss)
  - [Tesla Cybertruck finally gets more off-road controls](https://www.theverge.com/2024/4/29/24144578/tesla-cybertruck-off-road-mode-app-software-update-cybertent)
- - [The Uncomfortable Truth About the UK’s Climate Policies](https://www.wired.com/story/uk-climate-policies-chris-stark-protests-just-stop-oil/)
- - [Google rejected 2.28M &quot;policy-violating&quot; Android apps and blocked ~333K dev accounts from Google Play in 2023, up from 1.5M apps and 173K accounts in 2022 &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240429/p24#a240429p24)<!-- TECH:END -->
+ - [The Uncomfortable Truth About the UK’s Climate Policies](https://www.wired.com/story/uk-climate-policies-chris-stark-protests-just-stop-oil/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

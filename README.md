@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ben Affleck. Money Can&#39;t Buy Mental Health](http://9gag.com/gag/arypVG6)
+ - 😝 [Wait...What?!](http://9gag.com/gag/aKGz7wb)
  - 😝 [Always towards woman.. not a man.., a coward at heart who prays on the weak.](http://9gag.com/gag/aW4Z1K2)
- - 💣 [I&#39;ve never hit a kid before.](http://9gag.com/gag/aRBQ1bG)
+ - 💣 [Ben Affleck. Money Can&#39;t Buy Mental Health](http://9gag.com/gag/arypVG6)
  - 😝 [Some famous logos in medieval style &lpar;zoom it for better experience&rpar;](http://9gag.com/gag/aKGz6G6)
- - 👉 [Wait...What?!](http://9gag.com/gag/aKGz7wb)<!-- MEMES:END -->
+ - 👉 [What did she want to do with lighter?](http://9gag.com/gag/apRq5np)<!-- MEMES:END -->
 
 ---
 

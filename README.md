@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A Mother&#39;s Love.](http://9gag.com/gag/aNDeP4A)
- - 😝 [Wait...What?!](http://9gag.com/gag/aKGz7wb)
- - 💣 [Take a deep breath and meet me in the comments with some memes. No propagandalf no war. Just good old dumb memes.](http://9gag.com/gag/a1mARd2)
  - 😝 [She belongs to the streets now](http://9gag.com/gag/avy0AYq)
- - 👉 [I see what you did there..](http://9gag.com/gag/a34YRzQ)<!-- MEMES:END -->
+ - 😝 [What did she want to do with lighter?](http://9gag.com/gag/apRq5np)
+ - 💣 [Ben Affleck. Money Can&#39;t Buy Mental Health](http://9gag.com/gag/arypVG6)
+ - 😝 [Feeling sorry for the kid, the only person with dignity but being seen as the odd one](http://9gag.com/gag/a1mAR2D)
+ - 👉 [A Mother&#39;s Love.](http://9gag.com/gag/aNDeP4A)<!-- MEMES:END -->
 
 ---
 

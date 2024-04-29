@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He went hardcore!](http://9gag.com/gag/a87W57O)
- - 😝 [Damn it!](http://9gag.com/gag/a7o53qz)
- - 💣 [Heroes still exist](http://9gag.com/gag/agmygmg)
- - 😝 [This is Kelp. It is one of the fastest growing organisms on the planet. In a single growing season, it can grow from a microscopic spore to over 100 ft in length](http://9gag.com/gag/a4P4QZm)
+ - 😝 [Government surveillance ? \u201cThe only people who should worry are those who are doing something immoral or illegal.\u201d](http://9gag.com/gag/aByKmjD)
+ - 😝 [What did she want to do with lighter?](http://9gag.com/gag/apRq5np)
+ - 💣 [Always towards woman.. not a man.., a coward at heart who prays on the weak.](http://9gag.com/gag/aW4Z1K2)
+ - 😝 [Feeling sorry for the kid, the only person with dignity but being seen as the odd one](http://9gag.com/gag/a1mAR2D)
  - 👉 [Wait...What?!](http://9gag.com/gag/aKGz7wb)<!-- MEMES:END -->
 
 ---

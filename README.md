@@ -163,9 +163,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Sources describe Techstars under CEO M&amp;auml;elle Gavet, facing departures of senior execs and corporate sponsors at times and, last year, a $7.2M loss on operations &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/240429/p26#a240429p26)
  - [NIST launches a new program to assess generative AI technologies, with plans to release benchmarks, help create &quot;content authenticity&quot; detection tech, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240429/p25#a240429p25)
- - [Apple starts replacing titanium Apple Cards from original 2019 batch](https://appleinsider.com/articles/24/04/29/apple-starts-replacing-titanium-apple-cards-from-original-2019-batch?utm_medium=rss)
- - [Tesla Cybertruck finally gets more off-road controls](https://www.theverge.com/2024/4/29/24144578/tesla-cybertruck-off-road-mode-app-software-update-cybertent)
- - [The Uncomfortable Truth About the UK’s Climate Policies](https://www.wired.com/story/uk-climate-policies-chris-stark-protests-just-stop-oil/)<!-- TECH:END -->
+ - [Act Now to Score Anker Space One Headphones for 20% Off at Amazon     - CNET](https://www.cnet.com/deals/act-now-to-score-anker-space-one-headphones-for-20-off-at-amazon/#ftag=CAD590a51e)
+ - [Latest iPhone Rumors Include First Screen-Size Increase in Years     - CNET](https://www.cnet.com/tech/mobile/latest-iphone-rumors-include-first-screen-size-increase-in-years/#ftag=CAD590a51e)
+ - [Apple starts replacing titanium Apple Cards from original 2019 batch](https://appleinsider.com/articles/24/04/29/apple-starts-replacing-titanium-apple-cards-from-original-2019-batch?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

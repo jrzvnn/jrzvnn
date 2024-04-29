@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Tesla to clear a key hurdle to introduce its advanced assisted driving features in China by partnering with Baidu for mapping and navigation functions &lpar;Bloomberg&rpar;](http://www.techmeme.com/240429/p1#a240429p1)
  - [An interview with MongoDB CEO Dev Ittycheria on leading the company for a decade, the evolution of databases, AI hype, transitioning to a SaaS model, and more &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240428/p9#a240428p9)
  - [Today&#39;s NYT Connections Hints and Answer: Help for April 29, #323     - CNET](https://www.cnet.com/tech/gaming/todays-nyt-connections-hint-answerfor-april-29-323/#ftag=CAD590a51e)
  - [Today&#39;s Wordle Hints and Answer: Help for April 29, #1045     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-29-1045/#ftag=CAD590a51e)
- - [Best Wi-Fi 6 Routers of 2024     - CNET](https://www.cnet.com/home/internet/best-wi-fi-6-routers/#ftag=CAD590a51e)
- - [Akamai: US Post Office phishing sites got significantly more DNS queries, cumulatively, than the legitimate website during some weeks of the 2023 holiday season &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240428/p8#a240428p8)<!-- TECH:END -->
+ - [Best Wi-Fi 6 Routers of 2024     - CNET](https://www.cnet.com/home/internet/best-wi-fi-6-routers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

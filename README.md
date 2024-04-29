@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What to expect in iOS 18: AI, new look, redesigned stock apps, and more](https://appleinsider.com/articles/24/04/29/what-to-expect-in-ios-18-ai-new-look-redesigned-stock-apps-and-more?utm_medium=rss)
- - [Retro gold rush: these emulators are coming to the App Store soon](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)
- - [Apple&#39;s iPad doesn&#39;t meet DMA criteria, but is getting regulated by the EU anyway](https://appleinsider.com/articles/24/04/29/apples-ipad-doesnt-yet-meet-the-dma-criteria-but-is-getting-regulated-by-the-eu-anyway?utm_medium=rss)
- - [The UK beefs up smart home security by going after bad default passwords](https://www.theverge.com/2024/4/29/24144325/uk-psti-password-requirements-network-connected-devices-iot-smart-home)
- - [Amazon says its Prime deliveries are getting even faster](https://www.theverge.com/2024/4/29/24144283/amazon-two-day-shipping-prime-deliveries)<!-- TECH:END -->
+ - [More Matter products, and a big new Sonos app update on the HomeKit Insider Podcast](https://appleinsider.com/articles/24/04/29/more-matter-products-and-a-big-new-sonos-app-update-on-the-homekit-insider-podcast?utm_medium=rss)
+ - [Microsoft starts rolling out OneDrive’s offline mode on the web](https://www.theverge.com/2024/4/29/24144471/microsoft-onedrive-offline-mode-web)
+ - [Unredacted parts of Consensys&#39; lawsuit vs. the SEC say the SEC internally issued an order to probe Ethereum 2.0 last April that explicitly called ETH a security &lpar;Sander Lutz/Decrypt&rpar;](http://www.techmeme.com/240429/p20#a240429p20)
+ - [GitHub announces Copilot Workspace, a dev environment using &quot;Copilot-powered agents&quot; to help devs brainstorm, plan, build, test and run code in natural language &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240429/p19#a240429p19)
+ - [All the news from Xbox’s spring indie game showcase](https://www.theverge.com/2024/4/29/24144369/id-xbox-indie-showcase-april-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

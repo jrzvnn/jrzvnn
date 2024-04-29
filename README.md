@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Wi-Fi 6 Routers of 2024     - CNET](https://www.cnet.com/home/internet/best-wi-fi-6-routers/#ftag=CAD590a51e)
  - [Akamai: US Post Office phishing sites got significantly more DNS queries, cumulatively, than the legitimate website during some weeks of the 2023 holiday season &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240428/p8#a240428p8)
+ - [Best Cooler of 2024     - CNET](https://www.cnet.com/home/yard-and-outdoors/best-coolers/#ftag=CAD590a51e)
  - [New iPhone 16 leak blows the cover off of screen sizes &amp; camera bump](https://appleinsider.com/articles/24/04/28/iphone-16-screen-sizes-allegedly-revealed-in-new-leak?utm_medium=rss)
- - [Crime blotter: NYPD officer acquitted for 2021 punch in Apple Store](https://appleinsider.com/articles/24/04/28/crime-blotter-nypd-officer-acquitted-for-2021-punch-in-apple-store?utm_medium=rss)
- - [Phone cooler makers need to chill with all the ice](https://www.theverge.com/2024/4/28/24143845/phone-cooler-fans-ice-graphics)
- - [Best Bluetooth Speaker for 2024     - CNET](https://www.cnet.com/tech/home-entertainment/best-bluetooth-speaker/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Crime blotter: NYPD officer acquitted for 2021 punch in Apple Store](https://appleinsider.com/articles/24/04/28/crime-blotter-nypd-officer-acquitted-for-2021-punch-in-apple-store?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

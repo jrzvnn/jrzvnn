@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I see what you did there..](http://9gag.com/gag/a34YRzQ)
- - 😝 [Some famous logos in medieval style &lpar;zoom it for better experience&rpar;](http://9gag.com/gag/aKGz6G6)
- - 💣 [Smart Move](http://9gag.com/gag/aE0wpQn)
- - 😝 [Ben Affleck. Money Can&#39;t Buy Mental Health](http://9gag.com/gag/arypVG6)
- - 👉 [Protesters are blocking anyone who appears to be jewish from entering the UCLA campus](http://9gag.com/gag/adBN5YN)<!-- MEMES:END -->
+ - 😝 [He went hardcore!](http://9gag.com/gag/a87W57O)
+ - 😝 [Found a really cool stick outside](http://9gag.com/gag/a7o5wDw)
+ - 💣 [Wait...What?!](http://9gag.com/gag/aKGz7wb)
+ - 😝 [This is Kelp. It is one of the fastest growing organisms on the planet. In a single growing season, it can grow from a microscopic spore to over 100 ft in length](http://9gag.com/gag/a4P4QZm)
+ - 👉 [Feeling sorry for the kid, the only person with dignity but being seen as the odd one](http://9gag.com/gag/a1mAR2D)<!-- MEMES:END -->
 
 ---
 

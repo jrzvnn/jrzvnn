@@ -171,10 +171,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Government surveillance ? \u201cThe only people who should worry are those who are doing something immoral or illegal.\u201d](http://9gag.com/gag/aByKmjD)
- - 😝 [What did she want to do with lighter?](http://9gag.com/gag/apRq5np)
- - 💣 [Always towards woman.. not a man.., a coward at heart who prays on the weak.](http://9gag.com/gag/aW4Z1K2)
- - 😝 [Feeling sorry for the kid, the only person with dignity but being seen as the odd one](http://9gag.com/gag/a1mAR2D)
- - 👉 [Wait...What?!](http://9gag.com/gag/aKGz7wb)<!-- MEMES:END -->
+ - 😝 [That&#39;s why men prefer going out alone.](http://9gag.com/gag/a7o5W5A)
+ - 💣 [Smart Move](http://9gag.com/gag/aE0wpQn)
+ - 😝 [Ben Affleck. Money Can&#39;t Buy Mental Health](http://9gag.com/gag/arypVG6)
+ - 👉 [I&#39;ve never hit a kid before.](http://9gag.com/gag/aRBQ1bG)<!-- MEMES:END -->
 
 ---
 

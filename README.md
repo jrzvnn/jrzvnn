@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Razer made a million dollars selling a mask with RGB, and the FTC is not pleased](https://www.theverge.com/2024/4/29/24144425/razer-zephyr-face-mask-covid-n95-ftc-settlement)
  - [More Matter products, and a big new Sonos app update on the HomeKit Insider Podcast](https://appleinsider.com/articles/24/04/29/more-matter-products-and-a-big-new-sonos-app-update-on-the-homekit-insider-podcast?utm_medium=rss)
  - [Microsoft starts rolling out OneDrive’s offline mode on the web](https://www.theverge.com/2024/4/29/24144471/microsoft-onedrive-offline-mode-web)
  - [Unredacted parts of Consensys&#39; lawsuit vs. the SEC say the SEC internally issued an order to probe Ethereum 2.0 last April that explicitly called ETH a security &lpar;Sander Lutz/Decrypt&rpar;](http://www.techmeme.com/240429/p20#a240429p20)
- - [GitHub announces Copilot Workspace, a dev environment using &quot;Copilot-powered agents&quot; to help devs brainstorm, plan, build, test and run code in natural language &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240429/p19#a240429p19)
- - [All the news from Xbox’s spring indie game showcase](https://www.theverge.com/2024/4/29/24144369/id-xbox-indie-showcase-april-2024)<!-- TECH:END -->
+ - [GitHub announces Copilot Workspace, a dev environment using &quot;Copilot-powered agents&quot; to help devs brainstorm, plan, build, test and run code in natural language &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240429/p19#a240429p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

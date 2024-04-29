@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Can Rabbit’s R1 outsmart the smartphone assistants? Let’s find out!](https://www.theverge.com/2024/4/29/24144290/rabbit-r1-google-assistant-siri-voice-ai-assistant)
  - [OpenAI rolls out an optional feature called Memory, allowing ChatGPT Plus users to tell ChatGPT things they want the chatbot to remember across chats &lpar;Matthias Bastian/The Decoder&rpar;](http://www.techmeme.com/240429/p22#a240429p22)
  - [The Best Plants for Low Light, Low Maintenance and Air Purification     - CNET](https://www.cnet.com/how-to/these-are-the-best-plants-for-low-light-low-maintenance-and-air-purification/#ftag=CAD590a51e)
  - [Peacock is getting a $2 price increase](https://www.theverge.com/2024/4/29/24144507/peacock-premium-price-increase)
- - [Peacock Is Raising its Subscription Prices Again     - CNET](https://www.cnet.com/tech/services-and-software/peacock-is-raising-its-subscription-prices-again/#ftag=CAD590a51e)
- - [New iPad Pro models will get the best OLED tablet display ever made](https://appleinsider.com/articles/24/04/29/new-ipad-pro-models-will-get-the-best-oled-tablet-display-ever-made?utm_medium=rss)<!-- TECH:END -->
+ - [Peacock Is Raising its Subscription Prices Again     - CNET](https://www.cnet.com/tech/services-and-software/peacock-is-raising-its-subscription-prices-again/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

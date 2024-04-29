@@ -165,7 +165,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [&#39;Ted Lasso&#39; complete series Blu Ray box set may arrive soon](https://appleinsider.com/articles/24/04/29/ted-lasso-complete-series-blu-ray-box-set-may-arrive-soon?utm_medium=rss)
  - [Apple&#39;s iPad doesn&#39;t yet meet the DMA criteria, but is getting regulated by the EU anyway](https://appleinsider.com/articles/24/04/29/apples-ipad-doesnt-yet-meet-the-dma-criteria-but-is-getting-regulated-by-the-eu-anyway?utm_medium=rss)
  - [PitchBook: investors have poured $330B into ~26,000 AI and ML startups over the past three years, up 66% on funding to 20,350 AI companies from 2018 to 2020 &lpar;New York Times&rpar;](http://www.techmeme.com/240429/p11#a240429p11)
- - [Apple TV+ hits &#39;Slow Horses&#39; and &#39;Silo&#39; honored by UK&#39;s Bafta](https://appleinsider.com/articles/24/04/29/apple-tv-hits-slow-horses-and-silo-honored-by-uks-bafta?utm_medium=rss)<!-- TECH:END -->
+ - [Save Up to $200 Off Google&#39;s Pixel 8 Phones at These Retailers     - CNET](https://www.cnet.com/deals/save-up-to-200-off-googles-pixel-8-phones-at-these-retailers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I see what you did there..](http://9gag.com/gag/a34YRzQ)
- - 😝 [Damn it!](http://9gag.com/gag/a7o53qz)
- - 💣 [Wait...What?!](http://9gag.com/gag/aKGz7wb)
+ - 😝 [A Mother&#39;s Love.](http://9gag.com/gag/aNDeP4A)
  - 😝 [That&#39;s why men prefer going out alone.](http://9gag.com/gag/a7o5W5A)
- - 👉 [Ben Affleck. Money Can&#39;t Buy Mental Health](http://9gag.com/gag/arypVG6)<!-- MEMES:END -->
+ - 💣 [Respect](http://9gag.com/gag/a5Qd1YO)
+ - 😝 [Smart Move](http://9gag.com/gag/aE0wpQn)
+ - 👉 [Arrest Me](http://9gag.com/gag/aQzqXye)<!-- MEMES:END -->
 
 ---
 

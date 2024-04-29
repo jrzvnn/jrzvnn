@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Meta&#39;s Oversight Board told some staff last week that their jobs were at risk, likely adding to its challenges after criticism for moving too slowly &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/240429/p10#a240429p10)
  - [HomePod and HomePod mini finally launch in Thailand and Malaysia](https://appleinsider.com/articles/24/04/29/homepod-and-homepod-mini-finally-launch-in-thailand-and-malaysia?utm_medium=rss)
  - [The European Commission designates iPadOS under the DMA, giving Apple six months to comply; iOS, the App Store, and Safari are already DMA designated &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/240429/p9#a240429p9)
  - [I&#39;m a Boy. Does Playing Female Characters in Video Games Make Me Gay?](https://www.wired.com/story/cloud-support-gender-avatar-video-games/)
- - [Fiido Air review: so lightweight you’ll forget it’s an e-bike](https://www.theverge.com/24144163/fiido-air-carbon-fiber-e-bike-review-price-specs)
- - [Get Yourself a Free $40 Gift Card With This Costco Membership Deal     - CNET](https://www.cnet.com/deals/get-yourself-a-free-40-gift-card-with-this-costco-membership-deal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Fiido Air review: so lightweight you’ll forget it’s an e-bike](https://www.theverge.com/24144163/fiido-air-carbon-fiber-e-bike-review-price-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

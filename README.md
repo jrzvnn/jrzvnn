@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NHTSA opens investigation into Ford’s BlueCruise after software linked to fatal crash](https://www.theverge.com/2024/4/29/24144244/nhtsa-ford-bluecruise-software-investigation-fatal-crashes-mustang-mach-e)
  - [Apple&#39;s iPhone factory shift has left a ghost town behind in China](https://appleinsider.com/articles/24/04/29/apples-iphone-factory-shift-has-left-a-ghost-town-behind-in-china?utm_medium=rss)
  - [Getir plans to close its quick grocery delivery operations in the US, the UK, and Europe to focus on its home market of Turkey, impacting 6,000+ jobs &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240429/p14#a240429p14)
  - [The UK bans default guessable usernames and passwords for some IoT devices, to help avoid a situation like the 2016 Mirai botnet, the first country to do so &lpar;Alexander Martin/The Record&rpar;](http://www.techmeme.com/240429/p13#a240429p13)
- - [7 Best Portable Power Stations &lpar;2024&rpar;: Power Capacity, Luxe, Budget, and More](https://www.wired.com/gallery/best-portable-power-stations/)
- - [HelloFresh Is the Most Popular Meal Kit Service, but Is It the Best? We Tested It to Find out     - CNET](https://www.cnet.com/health/nutrition/hello-fresh-meal-kit-reviews/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [7 Best Portable Power Stations &lpar;2024&rpar;: Power Capacity, Luxe, Budget, and More](https://www.wired.com/gallery/best-portable-power-stations/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

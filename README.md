@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [FCC fines AT&amp;T, Sprint, T-Mobile, and Verizon nearly $200 million for illegally sharing location data](https://www.theverge.com/2024/4/29/24144599/fcc-fine-att-sprint-verizon-t-mobile-location-data)
+ - [How to Use ChatGPT’s Memory Feature](https://www.wired.com/story/how-to-use-chatgpt-memory-feature/)
  - [Can Rabbit’s R1 outsmart the smartphone assistants? Let’s find out!](https://www.theverge.com/2024/4/29/24144290/rabbit-r1-google-assistant-siri-voice-ai-assistant)
  - [OpenAI rolls out an optional feature called Memory, allowing ChatGPT Plus users to tell ChatGPT things they want the chatbot to remember across chats &lpar;Matthias Bastian/The Decoder&rpar;](http://www.techmeme.com/240429/p22#a240429p22)
- - [Best Cheap Home Security Cameras for 2024     - CNET](https://www.cnet.com/home/security/best-cheap-home-security-cameras/#ftag=CAD590a51e)
- - [MLB 2024: How to Watch, Stream Baseball This Season Without Cable     - CNET](https://www.cnet.com/culture/sports/mlb-2024-how-to-watch-stream-baseball-this-season-without-cable/#ftag=CAD590a51e)
- - [Snag These De-Lightful Smart Govee Triangle Lights at Amazon for 50% Off     - CNET](https://www.cnet.com/deals/snag-these-de-lightful-smart-govee-triangle-lights-at-amazon-for-50-off/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Cheap Home Security Cameras for 2024     - CNET](https://www.cnet.com/home/security/best-cheap-home-security-cameras/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

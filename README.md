@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Feeling sorry for the kid, the only person with dignity but being seen as the odd one](http://9gag.com/gag/a1mAR2D)
- - 😝 [Ben Affleck. Money Can&#39;t Buy Mental Health](http://9gag.com/gag/arypVG6)
- - 💣 [What did she want to do with lighter?](http://9gag.com/gag/apRq5np)
- - 😝 [Clickbait](http://9gag.com/gag/aXPboGd)
+ - 😝 [When you get cancelled on](http://9gag.com/gag/aByK2eN)
+ - 😝 [Smart Move](http://9gag.com/gag/aE0wpQn)
+ - 💣 [Feeling sorry for the kid, the only person with dignity but being seen as the odd one](http://9gag.com/gag/a1mAR2D)
+ - 😝 [This is it](http://9gag.com/gag/a87WEA6)
  - 👉 [Wait...What?!](http://9gag.com/gag/aKGz7wb)<!-- MEMES:END -->
 
 ---

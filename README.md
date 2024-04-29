@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u201cCamera man\u201d saves a life](http://9gag.com/gag/ayN5BDp)
- - 😝 [Protesters are blocking anyone who appears to be jewish from entering the UCLA campus](http://9gag.com/gag/adBN5YN)
- - 💣 [Shortcut to World 1 - 5 is blocked tho](http://9gag.com/gag/aQzq3xd)
- - 😝 [Smart Move](http://9gag.com/gag/aE0wpQn)
- - 👉 [Wait...What?!](http://9gag.com/gag/aKGz7wb)<!-- MEMES:END -->
+ - 😝 [Why god WHYYY](http://9gag.com/gag/a34YRY5)
+ - 😝 [Feeling sorry for the kid, the only person with dignity but being seen as the odd one](http://9gag.com/gag/a1mAR2D)
+ - 💣 [If buying isn&#39;t owning, pirating isn&#39;t stealing](http://9gag.com/gag/adBN82j)
+ - 😝 [What did she want to do with lighter?](http://9gag.com/gag/apRq5np)
+ - 👉 [Always towards woman.. not a man.., a coward at heart who prays on the weak.](http://9gag.com/gag/aW4Z1K2)<!-- MEMES:END -->
 
 ---
 

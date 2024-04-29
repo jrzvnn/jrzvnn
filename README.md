@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fiido Air review: so lightweight you’ll forget it’s an e-bike](https://www.theverge.com/24144163/fiido-air-carbon-fiber-e-bike-review-price-specs)
  - [France makes a non-binding offer to buy some of Atos&#39; operations, including its supercomputer and cyber products, for &amp;euro;700M to &amp;euro;1B, as Atos seeks to raise &amp;euro;1.7B &lpar;Bloomberg&rpar;](http://www.techmeme.com/240429/p8#a240429p8)
  - [Recruiters Are Going Analog to Fight the AI Application Overload](https://www.wired.com/story/recruiters-ai-application-overload/)
  - [The Financial Times signs a deal with OpenAI to train AI models on its archived content, and to let ChatGPT respond with short summaries of FT articles &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/240429/p7#a240429p7)
- - [Financial Times signs licensing deal with OpenAI](https://www.theverge.com/2024/4/29/24141869/financial-times-licensing-deal-openai-news)
- - [An interview with Grindr CEO George Arison on online safety, a mass data protection lawsuit against the app in the UK, plans for increasing ad revenue, and more &lpar;Financial Times&rpar;](http://www.techmeme.com/240429/p6#a240429p6)<!-- TECH:END -->
+ - [Financial Times signs licensing deal with OpenAI](https://www.theverge.com/2024/4/29/24141869/financial-times-licensing-deal-openai-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

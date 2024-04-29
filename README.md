@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 18 will probably get TSMC&#39;s newly announced next-generation 1.6 nm chip process](https://appleinsider.com/articles/24/04/25/iphone-18-will-probably-get-tsmcs-newly-announced-next-generation-18nm-chip-process?utm_medium=rss)
+ - [A new intergovernmental group will try to stem abuses tied to critical mineral mining](https://www.theverge.com/2024/4/29/24144608/critical-minerals-mining-renewable-energy-united-nations-panel)
  - [iPad at war: How the iPad is crucial to the Ukraine war effort](https://appleinsider.com/articles/24/04/29/ipad-at-war-how-the-ipad-is-crucial-to-the-ukraine-war-effort?utm_medium=rss)
  - [FCC fines T-Mobile $80M, AT&amp;T $57M, and Verizon $47M for allegedly illegally sharing customers&#39; location data to aggregators &quot;without customer consent&quot; &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240429/p23#a240429p23)
- - [Paramount CEO Bob Bakish steps down as merger inches closer](https://www.theverge.com/2024/4/29/24144670/paramount-ceo-bob-bakish-stepping-down-merger-skydance)
- - [ChatGPT’s AI ‘memory’ can remember the preferences of paying customers](https://www.theverge.com/2024/4/29/24144680/chatgpt-plus-memory-chatbot-subscription-details-preferences-personal-assistant)
- - [Elon Musk Can&#39;t Solve Tesla’s China Crisis With His Desperate Asia Visit](https://www.wired.com/story/elon-musk-cant-solve-teslas-china-crisis-with-his-desperate-asia-visit/)<!-- TECH:END -->
+ - [Paramount CEO Bob Bakish steps down as merger inches closer](https://www.theverge.com/2024/4/29/24144670/paramount-ceo-bob-bakish-stepping-down-merger-skydance)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s iPad doesn&#39;t meet DMA criteria, but is getting regulated by the EU anyway](https://appleinsider.com/articles/24/04/29/apples-ipad-doesnt-yet-meet-the-dma-criteria-but-is-getting-regulated-by-the-eu-anyway?utm_medium=rss)
+ - [The UK beefs up smart home security by going after bad default passwords](https://www.theverge.com/2024/4/29/24144325/uk-psti-password-requirements-network-connected-devices-iot-smart-home)
  - [Amazon says its Prime deliveries are getting even faster](https://www.theverge.com/2024/4/29/24144283/amazon-two-day-shipping-prime-deliveries)
  - [Flash deals: Best Buy slashes iPad Air 5 to $399.99, Apple Pencil 2 drops to $79](https://appleinsider.com/articles/24/04/29/flash-deals-best-buy-slashes-ipad-air-5-to-39999-apple-pencil-2-drops-to-79?utm_medium=rss)
- - [Mercedes-Benz won’t let Apple CarPlay take over all its screens](https://www.theverge.com/2024/4/29/24144356/mercedes-benz-ceo-apple-carplay-next-gen-decoder)
- - [Tether says it invested $200M in brain-computer interface company Blackrock Neurotech, via its newly established VC arm Tether Evo &lpar;Philip Lagerkranser/Bloomberg&rpar;](http://www.techmeme.com/240429/p18#a240429p18)
- - [Interest Rate Hikes Are More Likely Than Cuts This Year, One Economist Predicts Ahead of Fed Meeting     - CNET](https://www.cnet.com/personal-finance/forget-interest-rate-cuts-one-economist-says-rate-hikes-are-more-likely-this-year/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mercedes-Benz won’t let Apple CarPlay take over all its screens](https://www.theverge.com/2024/4/29/24144356/mercedes-benz-ceo-apple-carplay-next-gen-decoder)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

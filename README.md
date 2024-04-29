@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He went hardcore!](http://9gag.com/gag/a87W57O)
- - 😝 [Found a really cool stick outside](http://9gag.com/gag/a7o5wDw)
- - 💣 [Wait...What?!](http://9gag.com/gag/aKGz7wb)
- - 😝 [This is Kelp. It is one of the fastest growing organisms on the planet. In a single growing season, it can grow from a microscopic spore to over 100 ft in length](http://9gag.com/gag/a4P4QZm)
- - 👉 [Feeling sorry for the kid, the only person with dignity but being seen as the odd one](http://9gag.com/gag/a1mAR2D)<!-- MEMES:END -->
+ - 😝 [\u201cCamera man\u201d saves a life](http://9gag.com/gag/ayN5BDp)
+ - 😝 [Government surveillance ? \u201cThe only people who should worry are those who are doing something immoral or illegal.\u201d](http://9gag.com/gag/aByKmjD)
+ - 💣 [Feeling sorry for the kid, the only person with dignity but being seen as the odd one](http://9gag.com/gag/a1mAR2D)
+ - 😝 [Smart Move](http://9gag.com/gag/aE0wpQn)
+ - 👉 [That&#39;s why men prefer going out alone.](http://9gag.com/gag/a7o5W5A)<!-- MEMES:END -->
 
 ---
 

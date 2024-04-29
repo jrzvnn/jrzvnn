@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s why men prefer going out alone.](http://9gag.com/gag/a7o5W5A)
- - 😝 [Ben Affleck. Money Can&#39;t Buy Mental Health](http://9gag.com/gag/arypVG6)
- - 💣 [Smart Move](http://9gag.com/gag/aE0wpQn)
- - 😝 [I see what you did there..](http://9gag.com/gag/a34YRzQ)
- - 👉 [Government surveillance ? \u201cThe only people who should worry are those who are doing something immoral or illegal.\u201d](http://9gag.com/gag/aByKmjD)<!-- MEMES:END -->
+ - 😝 [Do you even soy, bro?](http://9gag.com/gag/apRqNeW)
+ - 😝 [Superior tactics](http://9gag.com/gag/aZZPr3W)
+ - 💣 [Years ago I was seeing these type of pictures on 9GAG. I guess it\u2019s my turn now. Germany - fresh start.](http://9gag.com/gag/aPAvZGP)
+ - 😝 [There is a small ray of hope for Scotland. R@cist be gone](http://9gag.com/gag/axyNMm1)
+ - 👉 [Smart Move](http://9gag.com/gag/aE0wpQn)<!-- MEMES:END -->
 
 ---
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon says its Prime deliveries are getting even faster](https://www.theverge.com/2024/4/29/24144283/amazon-two-day-shipping-prime-deliveries)
+ - [Flash deals: Best Buy slashes iPad Air 5 to $399.99, Apple Pencil 2 drops to $79](https://appleinsider.com/articles/24/04/29/flash-deals-best-buy-slashes-ipad-air-5-to-39999-apple-pencil-2-drops-to-79?utm_medium=rss)
  - [Mercedes-Benz won’t let Apple CarPlay take over all its screens](https://www.theverge.com/2024/4/29/24144356/mercedes-benz-ceo-apple-carplay-next-gen-decoder)
  - [Tether says it invested $200M in brain-computer interface company Blackrock Neurotech, via its newly established VC arm Tether Evo &lpar;Philip Lagerkranser/Bloomberg&rpar;](http://www.techmeme.com/240429/p18#a240429p18)
- - [Google’s Pixel Watch 2 is matching its lowest price with $50 off](https://www.theverge.com/2024/4/29/24144248/google-pixel-watch-2-xbox-game-pass-ultimate-deal-sale)
- - [Mercedes-Benz CEO Ola Källenius on not using Apple’s next-gen CarPlay and why EVs are still the future](https://www.theverge.com/24140551/mercedes-benz-ola-kallenius-ev-gwagen-carplay-apple)
- - [SCOTUS rejects an appeal from Elon Musk in his case to overturn an SEC agreement to have a lawyer pre-approve his posts about Tesla, without giving a reason &lpar;Greg Stohr/Bloomberg&rpar;](http://www.techmeme.com/240429/p17#a240429p17)<!-- TECH:END -->
+ - [Google’s Pixel Watch 2 is matching its lowest price with $50 off](https://www.theverge.com/2024/4/29/24144248/google-pixel-watch-2-xbox-game-pass-ultimate-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

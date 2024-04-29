@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Where is my extra sauce ?](http://9gag.com/gag/adBNLbD)
- - 😝 [This guy, son of a big politician allegedly raped many women, kept their videos. After the videos became viral has fled to Germany. In case if you see him greet him nicely](http://9gag.com/gag/aVvOwoM)
- - 💣 [What did she want to do with lighter?](http://9gag.com/gag/apRq5np)
- - 😝 [Best Marriage Ever](http://9gag.com/gag/aPAvZrB)
- - 👉 [A Mother&#39;s Love.](http://9gag.com/gag/aNDeP4A)<!-- MEMES:END -->
+ - 😝 [Ben Affleck. Money Can&#39;t Buy Mental Health](http://9gag.com/gag/arypVG6)
+ - 😝 [I see what you did there..](http://9gag.com/gag/a34YRzQ)
+ - 💣 [He went hardcore!](http://9gag.com/gag/a87W57O)
+ - 😝 [Smart Move](http://9gag.com/gag/aE0wpQn)
+ - 👉 [Clickbait](http://9gag.com/gag/aXPboGd)<!-- MEMES:END -->
 
 ---
 

@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What did she want to do with lighter?](http://9gag.com/gag/apRq5np)
- - 😝 [He went hardcore!](http://9gag.com/gag/a87W57O)
- - 💣 [Always towards woman.. not a man.., a coward at heart who prays on the weak.](http://9gag.com/gag/aW4Z1K2)
+ - 😝 [If buying isn&#39;t owning, pirating isn&#39;t stealing](http://9gag.com/gag/adBN82j)
  - 😝 [That&#39;s why men prefer going out alone.](http://9gag.com/gag/a7o5W5A)
- - 👉 [I&#39;ve never hit a kid before.](http://9gag.com/gag/aRBQ1bG)<!-- MEMES:END -->
+ - 💣 [This is Kelp. It is one of the fastest growing organisms on the planet. In a single growing season, it can grow from a microscopic spore to over 100 ft in length](http://9gag.com/gag/a4P4QZm)
+ - 😝 [I dont know what it where this is but it surely activating some neurons.](http://9gag.com/gag/abA5MR9)
+ - 👉 [I see what you did there..](http://9gag.com/gag/a34YRzQ)<!-- MEMES:END -->
 
 ---
 

@@ -162,10 +162,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [An interview with MongoDB CEO Dev Ittycheria on leading the company for a decade, the evolution of databases, AI hype, transitioning to a SaaS model, and more &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240428/p9#a240428p9)
+ - [Today&#39;s NYT Connections Hints and Answer: Help for April 29, #323     - CNET](https://www.cnet.com/tech/gaming/todays-nyt-connections-hint-answerfor-april-29-323/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints and Answer: Help for April 29, #1045     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-29-1045/#ftag=CAD590a51e)
  - [Best Wi-Fi 6 Routers of 2024     - CNET](https://www.cnet.com/home/internet/best-wi-fi-6-routers/#ftag=CAD590a51e)
- - [Akamai: US Post Office phishing sites got significantly more DNS queries, cumulatively, than the legitimate website during some weeks of the 2023 holiday season &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240428/p8#a240428p8)
- - [Best Cooler of 2024     - CNET](https://www.cnet.com/home/yard-and-outdoors/best-coolers/#ftag=CAD590a51e)
- - [New iPhone 16 leak blows the cover off of screen sizes &amp; camera bump](https://appleinsider.com/articles/24/04/28/iphone-16-screen-sizes-allegedly-revealed-in-new-leak?utm_medium=rss)<!-- TECH:END -->
+ - [Akamai: US Post Office phishing sites got significantly more DNS queries, cumulatively, than the legitimate website during some weeks of the 2023 holiday season &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240428/p8#a240428p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

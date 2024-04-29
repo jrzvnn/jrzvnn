@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Do you even soy, bro?](http://9gag.com/gag/apRqNeW)
- - 😝 [Superior tactics](http://9gag.com/gag/aZZPr3W)
- - 💣 [Years ago I was seeing these type of pictures on 9GAG. I guess it\u2019s my turn now. Germany - fresh start.](http://9gag.com/gag/aPAvZGP)
- - 😝 [There is a small ray of hope for Scotland. R@cist be gone](http://9gag.com/gag/axyNMm1)
- - 👉 [Smart Move](http://9gag.com/gag/aE0wpQn)<!-- MEMES:END -->
+ - 😝 [A Mother&#39;s Love.](http://9gag.com/gag/aNDeP4A)
+ - 😝 [Give you a shot](http://9gag.com/gag/aLnK0zz)
+ - 💣 [Clickbait](http://9gag.com/gag/aXPboGd)
+ - 😝 [What did she want to do with lighter?](http://9gag.com/gag/apRq5np)
+ - 👉 [Feeling sorry for the kid, the only person with dignity but being seen as the odd one](http://9gag.com/gag/a1mAR2D)<!-- MEMES:END -->
 
 ---
 

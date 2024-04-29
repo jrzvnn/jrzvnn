@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk Can&#39;t Solve Tesla’s China Crisis With His Desperate Asia Visit](https://www.wired.com/story/elon-musk-cant-solve-teslas-china-crisis-with-his-desperate-asia-visit/)
+ - [iPad at war: How the iPad is crucial to the Ukraine war effort](https://appleinsider.com/articles/24/04/29/ipad-at-war-how-the-ipad-is-crucial-to-the-ukraine-war-effort?utm_medium=rss)
  - [FCC fines AT&amp;T, Sprint, T-Mobile, and Verizon nearly $200 million for illegally sharing location data](https://www.theverge.com/2024/4/29/24144599/fcc-fine-att-sprint-verizon-t-mobile-location-data)
  - [How to Use ChatGPT’s Memory Feature](https://www.wired.com/story/how-to-use-chatgpt-memory-feature/)
- - [Can Rabbit’s R1 outsmart the smartphone assistants? Let’s find out!](https://www.theverge.com/2024/4/29/24144290/rabbit-r1-google-assistant-siri-voice-ai-assistant)
- - [OpenAI rolls out an optional feature called Memory, allowing ChatGPT Plus users to tell ChatGPT things they want the chatbot to remember across chats &lpar;Matthias Bastian/The Decoder&rpar;](http://www.techmeme.com/240429/p22#a240429p22)
- - [Best Cheap Home Security Cameras for 2024     - CNET](https://www.cnet.com/home/security/best-cheap-home-security-cameras/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Can Rabbit’s R1 outsmart the smartphone assistants? Let’s find out!](https://www.theverge.com/2024/4/29/24144290/rabbit-r1-google-assistant-siri-voice-ai-assistant)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

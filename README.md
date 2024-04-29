@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Ben Affleck. Money Can&#39;t Buy Mental Health](http://9gag.com/gag/arypVG6)
  - 😝 [It should&#39;ve been me](http://9gag.com/gag/aGy9zY7)
- - 😝 [Real vs. Fake](http://9gag.com/gag/arypgB0)
- - 💣 [Live slot machine](http://9gag.com/gag/aRBQXVM)
- - 😝 [This is LIBRARY!](http://9gag.com/gag/awyrMAy)
+ - 💣 [Feeling sorry for the kid, the only person with dignity but being seen as the odd one](http://9gag.com/gag/a1mAR2D)
+ - 😝 [Smart Move](http://9gag.com/gag/aE0wpQn)
  - 👉 [YouTube May Roll Out Ads While Videos Are Paused After Recent Testing\u00a0](http://9gag.com/gag/a87WE91)<!-- MEMES:END -->
 
 ---

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Financial Times signs a deal with OpenAI to train AI models on its archived content, and to let ChatGPT respond with short summaries of FT articles &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/240429/p7#a240429p7)
  - [Financial Times signs licensing deal with OpenAI](https://www.theverge.com/2024/4/29/24141869/financial-times-licensing-deal-openai-news)
  - [An interview with Grindr CEO George Arison on online safety, a mass data protection lawsuit against the app in the UK, plans for increasing ad revenue, and more &lpar;Financial Times&rpar;](http://www.techmeme.com/240429/p6#a240429p6)
  - [Apple&#39;s iPhone Browser-Choice Option Sucks. Its Competitors Have Ideas to Improve It](https://www.wired.com/story/browser-choice-screen-apple-digital-markets-act/)
- - [Privacy nonprofit noyb files a GDPR complaint against OpenAI in Austria on behalf of an unnamed public figure, who found ChatGPT gave his incorrect birth date &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240429/p5#a240429p5)
- - [Sources: Chinese officials have told Tesla that Beijing has tentatively approved the company&#39;s plan to launch its Full Self-Driving software in the country &lpar;Raffaele Huang/Wall Street Journal&rpar;](http://www.techmeme.com/240429/p4#a240429p4)<!-- TECH:END -->
+ - [Privacy nonprofit noyb files a GDPR complaint against OpenAI in Austria on behalf of an unnamed public figure, who found ChatGPT gave his incorrect birth date &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240429/p5#a240429p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

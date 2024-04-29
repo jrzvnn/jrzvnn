@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Every single Scooby-Doo show &lpar;no Velma show for obvious reasons&rpar;](http://9gag.com/gag/aNDe0j6)
- - 😝 [Ben Affleck. Money Can&#39;t Buy Mental Health](http://9gag.com/gag/arypVG6)
- - 💣 [Wait...What?!](http://9gag.com/gag/aKGz7wb)
- - 😝 [Damn it!](http://9gag.com/gag/a7o53qz)
- - 👉 [Some famous logos in medieval style &lpar;zoom it for better experience&rpar;](http://9gag.com/gag/aKGz6G6)<!-- MEMES:END -->
+ - 😝 [\u201cCamera man\u201d saves a life](http://9gag.com/gag/ayN5BDp)
+ - 😝 [Protesters are blocking anyone who appears to be jewish from entering the UCLA campus](http://9gag.com/gag/adBN5YN)
+ - 💣 [Shortcut to World 1 - 5 is blocked tho](http://9gag.com/gag/aQzq3xd)
+ - 😝 [Smart Move](http://9gag.com/gag/aE0wpQn)
+ - 👉 [Wait...What?!](http://9gag.com/gag/aKGz7wb)<!-- MEMES:END -->
 
 ---
 

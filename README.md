@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is it](http://9gag.com/gag/a87WEA6)
- - 😝 [Crispy spicy beef noodles](http://9gag.com/gag/aGy9EG5)
- - 💣 [A Mother&#39;s Love.](http://9gag.com/gag/aNDeP4A)
- - 😝 [What are you doing there?! Get inside!](http://9gag.com/gag/awyrzQ4)
- - 👉 [He ate them all](http://9gag.com/gag/aW4ZG4n)<!-- MEMES:END -->
+ - 😝 [Feeling sorry for the kid, the only person with dignity but being seen as the odd one](http://9gag.com/gag/a1mAR2D)
+ - 😝 [Ben Affleck. Money Can&#39;t Buy Mental Health](http://9gag.com/gag/arypVG6)
+ - 💣 [What did she want to do with lighter?](http://9gag.com/gag/apRq5np)
+ - 😝 [Clickbait](http://9gag.com/gag/aXPboGd)
+ - 👉 [Wait...What?!](http://9gag.com/gag/aKGz7wb)<!-- MEMES:END -->
 
 ---
 

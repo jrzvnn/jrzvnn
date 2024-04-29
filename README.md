@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best Marriage Ever](http://9gag.com/gag/aPAvZrB)
- - 😝 [Give you a shot](http://9gag.com/gag/aLnK0zz)
- - 💣 [He went hardcore!](http://9gag.com/gag/a87W57O)
- - 😝 [Ben Affleck. Money Can&#39;t Buy Mental Health](http://9gag.com/gag/arypVG6)
- - 👉 [Clickbait](http://9gag.com/gag/aXPboGd)<!-- MEMES:END -->
+ - 😝 [I see what you did there..](http://9gag.com/gag/a34YRzQ)
+ - 😝 [Damn it!](http://9gag.com/gag/a7o53qz)
+ - 💣 [Wait...What?!](http://9gag.com/gag/aKGz7wb)
+ - 😝 [That&#39;s why men prefer going out alone.](http://9gag.com/gag/a7o5W5A)
+ - 👉 [Ben Affleck. Money Can&#39;t Buy Mental Health](http://9gag.com/gag/arypVG6)<!-- MEMES:END -->
 
 ---
 

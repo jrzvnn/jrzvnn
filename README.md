@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What are you doing there?! Get inside!](http://9gag.com/gag/awyrzQ4)
- - 😝 [This is it](http://9gag.com/gag/a87WEA6)
- - 💣 [That&#39;s how you impress men](http://9gag.com/gag/aAyYGWZ)
- - 😝 [He ate them all](http://9gag.com/gag/aW4ZG4n)
- - 👉 [Respect](http://9gag.com/gag/a5Qd1YO)<!-- MEMES:END -->
+ - 😝 [Arrest Me](http://9gag.com/gag/aQzqXye)
+ - 😝 [New fear unlocked](http://9gag.com/gag/agmygzw)
+ - 💣 [Swiss: They are mocking Swiss elderly man for standing up against them](http://9gag.com/gag/aQzq1GK)
+ - 😝 [Wait...What?!](http://9gag.com/gag/aKGz7wb)
+ - 👉 [Government surveillance ? \u201cThe only people who should worry are those who are doing something immoral or illegal.\u201d](http://9gag.com/gag/aByKmjD)<!-- MEMES:END -->
 
 ---
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Game emulator Delta has been the top US iOS app for weeks, after Apple lifted its ban on such apps, likely due to regulatory pressure and alt stores in the EU &lpar;Shira Ovide/Washington Post&rpar;](http://www.techmeme.com/240430/p32#a240430p32)
- - [Apple headphone shootout: Beats Solo 4 vs AirPods Max](https://appleinsider.com/inside/airpods-max/vs/apple-headphone-shootout-beats-solo-4-vs-airpods-max?utm_medium=rss)
- - [The Rabbit R1’s first software update addresses its dismal battery life](https://www.theverge.com/2024/4/30/24145442/rabbit-r1-ota-software-update-battery-drain-fix)
- - [&#39;Assassin&#39;s Creed Mirage&#39; sneaks onto iPhone, iPad on June 10](https://appleinsider.com/articles/24/04/30/assassins-creed-mirage-sneaks-onto-iphone-ipad-on-june-10?utm_medium=rss)
- - [SafeBase, which helps companies automate software security reviews using AI, raised a $33M Series B led by Touring Capital, bringing its total funding to $50M+ &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240430/p31#a240430p31)<!-- TECH:END -->
+ - [Binance founder’s sentencing hearing](https://www.theverge.com/2024/4/30/24144807/binance-founders-sentencing-hearing-liveblog)
+ - [Amazon expands enterprise AI play with wider availability of its Q chatbot](https://www.theverge.com/2024/4/30/24145377/amazon-q-chatbot-enterprise-aws-bedrock-ai)
+ - [US judge sentences Binance founder Changpeng Zhao to four months in prison &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/240430/p33#a240430p33)
+ - [The 26 Best Shows on Apple TV+ Right Now &lpar;May 2024&rpar;](https://www.wired.com/story/best-apple-tv-plus-shows/)
+ - [Binance founder Changpeng Zhao sentenced to four months in prison](https://www.theverge.com/2024/4/30/24140638/binance-founder-changpeng-zhao-sentence-money-laundering)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

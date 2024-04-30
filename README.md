@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A Mother&#39;s Love.](http://9gag.com/gag/aNDeP4A)
+ - 😝 [Crispy spicy beef noodles](http://9gag.com/gag/aGy9EG5)
  - 😝 [Best Marriage Ever](http://9gag.com/gag/aPAvZrB)
- - 💣 [Clickbait](http://9gag.com/gag/aXPboGd)
- - 😝 [Always work](http://9gag.com/gag/aAyYyng)
- - 👉 [Female youtuber face judge](http://9gag.com/gag/a87WqWp)<!-- MEMES:END -->
+ - 💣 [Respect](http://9gag.com/gag/a5Qd1YO)
+ - 😝 [Shock treatment for turds](http://9gag.com/gag/aGy9E07)
+ - 👉 [That look](http://9gag.com/gag/aqymnYM)<!-- MEMES:END -->
 
 ---
 

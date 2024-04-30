@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ben Affleck. Money Can&#39;t Buy Mental Health](http://9gag.com/gag/arypVG6)
- - 😝 [That&#39;s why men prefer going out alone.](http://9gag.com/gag/a7o5W5A)
- - 💣 [New fear unlocked](http://9gag.com/gag/agmygzw)
- - 😝 [A Mother&#39;s Love.](http://9gag.com/gag/aNDeP4A)
- - 👉 [What what in the robot by zone is the sauce](http://9gag.com/gag/aPAv3EG)<!-- MEMES:END -->
+ - 😝 [What what in the robot by zone is the sauce](http://9gag.com/gag/aPAv3EG)
+ - 😝 [Gazans:`we need more humanitarian aid to eat!` US: sending humanitarian aid. Gazans: ...](http://9gag.com/gag/adBNVqM)
+ - 💣 [Clickbait](http://9gag.com/gag/aXPboGd)
+ - 😝 [Best Marriage Ever](http://9gag.com/gag/aPAvZrB)
+ - 👉 [Smart Move](http://9gag.com/gag/aE0wpQn)<!-- MEMES:END -->
 
 ---
 

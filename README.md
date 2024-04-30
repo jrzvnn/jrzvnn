@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Always work](http://9gag.com/gag/aAyYyng)
- - 😝 [Clickbait](http://9gag.com/gag/aXPboGd)
- - 💣 [German ambassador almost got lynched in Ramallah](http://9gag.com/gag/an7YOb5)
- - 😝 [Y u internet](http://9gag.com/gag/an7YOEn)
- - 👉 [German kids singing `foreigners out` in a nightclub.](http://9gag.com/gag/a87W6Wd)<!-- MEMES:END -->
+ - 😝 [Just a little peek](http://9gag.com/gag/aqymRXL)
+ - 😝 [German ambassador almost got lynched in Ramallah](http://9gag.com/gag/an7YOb5)
+ - 💣 [Y u internet](http://9gag.com/gag/an7YOEn)
+ - 😝 [German kids singing `foreigners out` in a nightclub.](http://9gag.com/gag/a87W6Wd)
+ - 👉 [Smart Move](http://9gag.com/gag/aE0wpQn)<!-- MEMES:END -->
 
 ---
 

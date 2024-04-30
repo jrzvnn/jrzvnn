@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I know... But this is t*ts.](http://9gag.com/gag/a0e9ZVq)
- - 😝 [Arrest Me](http://9gag.com/gag/aQzqXye)
- - 💣 [When you get cancelled on](http://9gag.com/gag/aByK2eN)
- - 😝 [If you have forgotten this video, I haven&#39;t. This is a perfect example of what sandpeople are. Yet they are coming in millions in Europe.](http://9gag.com/gag/ae9N9op)
- - 👉 [A Mother&#39;s Love.](http://9gag.com/gag/aNDeP4A)<!-- MEMES:END -->
+ - 😝 [Always work](http://9gag.com/gag/aAyYyng)
+ - 😝 [New fear unlocked](http://9gag.com/gag/agmygzw)
+ - 💣 [If you have forgotten this video, I haven&#39;t. This is a perfect example of what sandpeople are. Yet they are coming in millions in Europe.](http://9gag.com/gag/ae9N9op)
+ - 😝 [Clickbait](http://9gag.com/gag/aXPboGd)
+ - 👉 [Bro..what did you do?](http://9gag.com/gag/a7o5oKz)<!-- MEMES:END -->
 
 ---
 

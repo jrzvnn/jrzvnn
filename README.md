@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft announces plans to invest $1.7B in cloud and AI infrastructure in Indonesia over four years and train 840,000 people with AI skills in the country &lpar;Bloomberg&rpar;](http://www.techmeme.com/240430/p2#a240430p2)
  - [Analysis: Apple hired at least 36 AI experts from Google and has created a secretive European laboratory in Zurich, to develop new AI models and products &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/240430/p1#a240430p1)
  - [A profile of and interview with Rabbit CEO Jesse Lyu, on the origins of the R1, taking &quot;10 minutes to design&quot; the device, the AI gadget competition, and more &lpar;Raymond Wong/Inverse&rpar;](http://www.techmeme.com/240429/p33#a240429p33)
  - [Best Pixel 7 and Pixel 7 Pro Deals: Save with Trade-In Credit and Up to $404 Off at Amazon     - CNET](https://www.cnet.com/deals/pixel-7-deals/#ftag=CAD590a51e)
- - [Best Google Pixel Deals: Save Up to $1K With Trade-In or New Line     - CNET](https://www.cnet.com/deals/best-google-pixel-deals/#ftag=CAD590a51e)
- - [Best Flower Delivery Deals: 17 Bouquets to Order Now for Mother&#39;s Day Delivery     - CNET](https://www.cnet.com/deals/best-flower-delivery-deals-top-deals-on-mothers-day-flowers-you-can-order-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Google Pixel Deals: Save Up to $1K With Trade-In or New Line     - CNET](https://www.cnet.com/deals/best-google-pixel-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

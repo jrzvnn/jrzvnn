@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Multiple US House aides say ByteDance&#39;s video editing app CapCut could also be subject to the same divest-or-ban requirement as TikTok &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/240429/p30#a240429p30)
  - [Samsung Q1: revenue up 12.81% YoY to ~$52.3B, vs. ~$51.6B est., and operating profit up 932.8% YoY to ~$4.8B, vs. ~$4.3B est., as memory chip prices rebounded &lpar;Sheila Chiang/CNBC&rpar;](http://www.techmeme.com/240429/p29#a240429p29)
  - [NBCUniversal plans to raise Peacock Premium with ads by $2 to $7.99/month and Premium Plus by $2 to $13.99/month starting July 18, its second hike in two years &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240429/p28#a240429p28)
  - [Score a One-Year Sam&#39;s Club Membership for an Unbelievable $14 Right Now     - CNET](https://www.cnet.com/deals/score-one-year-sams-club-membership-right-now/#ftag=CAD590a51e)
- - [You Have Until April 30 to Grab Microsoft Office for Windows or Mac for Just $30     - CNET](https://www.cnet.com/deals/you-have-until-april-30-to-grab-microsoft-office-for-windows-or-mac-for-just-30/#ftag=CAD590a51e)
- - [There&#39;s Now 1 EV Charging Station for Every 5 Gas Stations in California     - CNET](https://www.cnet.com/roadshow/news/theres-now-1-ev-charging-station-for-every-5-gas-stations-in-california/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [You Have Until April 30 to Grab Microsoft Office for Windows or Mac for Just $30     - CNET](https://www.cnet.com/deals/you-have-until-april-30-to-grab-microsoft-office-for-windows-or-mac-for-just-30/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

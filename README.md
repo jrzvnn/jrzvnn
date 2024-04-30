@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The design is very human](http://9gag.com/gag/a6ZwqV2)
- - 😝 [Y u internet](http://9gag.com/gag/an7YOEn)
- - 💣 [Shock treatment for turds](http://9gag.com/gag/aGy9E07)
- - 😝 [BBC just got nuked by community notes](http://9gag.com/gag/aW4Zp76)
- - 👉 [Curse white ppl for loving black kids more than their own parents.](http://9gag.com/gag/aQzqzKz)<!-- MEMES:END -->
+ - 😝 [Clickbait](http://9gag.com/gag/aXPboGd)
+ - 😝 [Matisse, a young French teenager, killed in France by young afghan and his mother. He stabbed him in the heart. The mother slapped him as he was dying. Why nobody reacts ?](http://9gag.com/gag/aQzqEv2)
+ - 💣 [German kids singing `foreigners out` in a nightclub.](http://9gag.com/gag/a87W6Wd)
+ - 😝 [What the 40k community feels right now](http://9gag.com/gag/ayN5MB8)
+ - 👉 [If you have forgotten this video, I haven&#39;t. This is a perfect example of what sandpeople are. Yet they are coming in millions in Europe.](http://9gag.com/gag/ae9N9op)<!-- MEMES:END -->
 
 ---
 

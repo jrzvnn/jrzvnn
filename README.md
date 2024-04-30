@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Turns out the Rabbit R1 was just an Android app all along](https://www.theverge.com/2024/4/30/24145838/rabbit-r1-android-app-pixel-6a)
+ - [IBM wins a court decision overturning $1.6B in damages it was ordered to pay BMC in 2022 for swapping in its own software while servicing a mutual client, AT&amp;T &lpar;Madlin Mekelburg/Bloomberg&rpar;](http://www.techmeme.com/240430/p43#a240430p43)
  - [iOS 17.5 beta lets you keep Find My on during iPhone repairs](https://www.theverge.com/2024/4/30/24145803/apple-iphone-repair-state-ios-17-5-beta)
  - [Coinbase adds support for the Bitcoin Lightning Network via payments startup Lightspark, letting customers transfer bitcoin faster and at a lower cost &lpar;Derek Andersen/Cointelegraph&rpar;](http://www.techmeme.com/240430/p42#a240430p42)
- - [Apple’s latest AirPods Pro with USB-C have returned to their all-time low](https://www.theverge.com/2024/4/30/24144383/airpods-pro-usb-c-fitbit-charge-6-tracker-deal-sale)
- - [New Repair State feature keeps Find My enabled during device repair](https://appleinsider.com/articles/24/04/30/new-repair-state-feature-keeps-find-my-enabled-during-device-repair?utm_medium=rss)
- - [Fubo drops Discovery networks and blasts WBD for abusing its power](https://www.theverge.com/2024/4/30/24145810/fubo-warner-bros-discovery-networks-streaming-drops)<!-- TECH:END -->
+ - [Apple’s latest AirPods Pro with USB-C have returned to their all-time low](https://www.theverge.com/2024/4/30/24144383/airpods-pro-usb-c-fitbit-charge-6-tracker-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

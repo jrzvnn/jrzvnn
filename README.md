@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lithuanian second hand marketplace Vinted reports 2023 revenue up 61% YoY to &amp;euro;596.3M and a &amp;euro;17.8M net profit, up from a &amp;euro;20.4M loss in 2022 &lpar;Zosia Wanat/Sifted&rpar;](http://www.techmeme.com/240430/p6#a240430p6)
  - [Erling Haaland becomes the first ‘real person’ in Clash of Clans](https://www.theverge.com/2024/4/30/24145120/erling-haaland-clash-of-clans)
  - [Tesla&#39;s FSD is set to face tough competition in China, after at least 10 automakers and suppliers announced driver-assistance systems over the past two years &lpar;Reuters&rpar;](http://www.techmeme.com/240430/p5#a240430p5)
  - [Tech journalism is often characterized by scandals, sensationalism, and shoddy research, and publishers are reluctant to invest in it without a clear ROI &lpar;Timothy B. Lee/Asterisk&rpar;](http://www.techmeme.com/240430/p4#a240430p4)
- - [Ahead of Changpeng Zhao&#39;s April 30 sentencing, a look at the contrast between CZ/Binance and SBF/FTX, as Binance claims 40M+ new users in 2023, up 30% YoY &lpar;Bloomberg&rpar;](http://www.techmeme.com/240430/p3#a240430p3)
- - [Microsoft announces plans to invest $1.7B in cloud and AI infrastructure in Indonesia over four years and train 840,000 people with AI skills in the country &lpar;Bloomberg&rpar;](http://www.techmeme.com/240430/p2#a240430p2)<!-- TECH:END -->
+ - [Ahead of Changpeng Zhao&#39;s April 30 sentencing, a look at the contrast between CZ/Binance and SBF/FTX, as Binance claims 40M+ new users in 2023, up 30% YoY &lpar;Bloomberg&rpar;](http://www.techmeme.com/240430/p3#a240430p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

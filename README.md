@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [If buying isn&#39;t owning, pirating isn&#39;t stealing](http://9gag.com/gag/adBN82j)
  - 😝 [Arrest Me](http://9gag.com/gag/aQzqXye)
- - 😝 [New fear unlocked](http://9gag.com/gag/agmygzw)
- - 💣 [Swiss: They are mocking Swiss elderly man for standing up against them](http://9gag.com/gag/aQzq1GK)
- - 😝 [Wait...What?!](http://9gag.com/gag/aKGz7wb)
- - 👉 [Government surveillance ? \u201cThe only people who should worry are those who are doing something immoral or illegal.\u201d](http://9gag.com/gag/aByKmjD)<!-- MEMES:END -->
+ - 💣 [Title](http://9gag.com/gag/aXPbPjg)
+ - 😝 [Smart Move](http://9gag.com/gag/aE0wpQn)
+ - 👉 [That look](http://9gag.com/gag/aqymnYM)<!-- MEMES:END -->
 
 ---
 

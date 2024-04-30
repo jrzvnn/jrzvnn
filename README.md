@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Polish health care at its best](http://9gag.com/gag/aNDeLr0)
- - 😝 [Heroes still exist](http://9gag.com/gag/agmygmg)
- - 💣 [The design is very human](http://9gag.com/gag/a6ZwqV2)
- - 😝 [It&#39;s funny because it&#39;s true](http://9gag.com/gag/aGy9yN5)
- - 👉 [BBC just got nuked by community notes](http://9gag.com/gag/aW4Zp76)<!-- MEMES:END -->
+ - 😝 [A Mother&#39;s Love.](http://9gag.com/gag/aNDeP4A)
+ - 😝 [What what in the robot by zone is the sauce](http://9gag.com/gag/aPAv3EG)
+ - 💣 [I also want ice cream. Life is so unfair](http://9gag.com/gag/aZZPnpz)
+ - 😝 [Clickbait](http://9gag.com/gag/aXPboGd)
+ - 👉 [Female youtuber face judge](http://9gag.com/gag/a87WqWp)<!-- MEMES:END -->
 
 ---
 

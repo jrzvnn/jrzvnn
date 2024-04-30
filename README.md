@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just use your own gun](http://9gag.com/gag/aVvOwOw)
- - 😝 [New fear unlocked](http://9gag.com/gag/agmygzw)
- - 💣 [What what in the robot by zone is the sauce](http://9gag.com/gag/aPAv3EG)
- - 😝 [That&#39;s why men prefer going out alone.](http://9gag.com/gag/a7o5W5A)
- - 👉 [Some famous logos in medieval style &lpar;zoom it for better experience&rpar;](http://9gag.com/gag/aKGz6G6)<!-- MEMES:END -->
+ - 😝 [Clickbait](http://9gag.com/gag/aXPboGd)
+ - 😝 [Ha-ha!](http://9gag.com/gag/aYQb7X2)
+ - 💣 [Feeling sorry for the kid, the only person with dignity but being seen as the odd one](http://9gag.com/gag/a1mAR2D)
+ - 😝 [Yesterday, 129 Democrats in state assembly defeated an amendment to prioritize homeless veterans over illegals for state shelters. Amendment is now dead.](http://9gag.com/gag/ajPr5Lw)
+ - 👉 [He went hardcore!](http://9gag.com/gag/a87W57O)<!-- MEMES:END -->
 
 ---
 

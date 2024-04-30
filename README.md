@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Clickbait](http://9gag.com/gag/aXPboGd)
- - 😝 [Ha-ha!](http://9gag.com/gag/aYQb7X2)
- - 💣 [Feeling sorry for the kid, the only person with dignity but being seen as the odd one](http://9gag.com/gag/a1mAR2D)
- - 😝 [Yesterday, 129 Democrats in state assembly defeated an amendment to prioritize homeless veterans over illegals for state shelters. Amendment is now dead.](http://9gag.com/gag/ajPr5Lw)
- - 👉 [He went hardcore!](http://9gag.com/gag/a87W57O)<!-- MEMES:END -->
+ - 😝 [I see what you did there..](http://9gag.com/gag/a34YRzQ)
+ - 😝 [If buying isn&#39;t owning, pirating isn&#39;t stealing](http://9gag.com/gag/adBN82j)
+ - 💣 [Wait...What?!](http://9gag.com/gag/aKGz7wb)
+ - 😝 [It should&#39;ve been me](http://9gag.com/gag/aGy9zY7)
+ - 👉 [A Mother&#39;s Love.](http://9gag.com/gag/aNDeP4A)<!-- MEMES:END -->
 
 ---
 

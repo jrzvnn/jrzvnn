@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s Q2 2024 earnings results may have some drama -- what to expect](https://appleinsider.com/articles/24/04/30/apples-q2-2024-earnings-results-may-have-some-drama----what-to-expect?utm_medium=rss)
+ - [The US DOJ says it has charged Roger Ver, a well-known figure from the early days of Bitcoin, with filing false tax returns and more, evading ~$50M in taxes &lpar;Jeff John Roberts/Fortune&rpar;](http://www.techmeme.com/240430/p34#a240430p34)
  - [China Has a Controversial Plan for Brain-Computer Interfaces](https://www.wired.com/story/china-brain-computer-interfaces-neuralink-neucyber-neurotech/)
  - [Binance founder’s sentencing hearing](https://www.theverge.com/2024/4/30/24144807/binance-founders-sentencing-hearing-liveblog)
- - [Binance CEO Changpeng Zhao Sentenced to Four Months in Prison](https://www.wired.com/story/binance-ceo-changpeng-zhao-sentenced-prison/)
- - [Amazon expands enterprise AI play with wider availability of its Q chatbot](https://www.theverge.com/2024/4/30/24145377/amazon-q-chatbot-enterprise-aws-bedrock-ai)
- - [US judge sentences Binance founder Changpeng Zhao to four months in prison &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/240430/p33#a240430p33)<!-- TECH:END -->
+ - [Binance Founder Changpeng Zhao Sentenced to Four Months in Prison](https://www.wired.com/story/binance-ceo-changpeng-zhao-sentenced-prison/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

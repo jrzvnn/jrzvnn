@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China Has a Controversial Plan for Brain-Computer Interfaces](https://www.wired.com/story/china-brain-computer-interfaces-neuralink-neucyber-neurotech/)
  - [Binance founder’s sentencing hearing](https://www.theverge.com/2024/4/30/24144807/binance-founders-sentencing-hearing-liveblog)
+ - [Binance CEO Changpeng Zhao Sentenced to Four Months in Prison](https://www.wired.com/story/binance-ceo-changpeng-zhao-sentenced-prison/)
  - [Amazon expands enterprise AI play with wider availability of its Q chatbot](https://www.theverge.com/2024/4/30/24145377/amazon-q-chatbot-enterprise-aws-bedrock-ai)
- - [US judge sentences Binance founder Changpeng Zhao to four months in prison &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/240430/p33#a240430p33)
- - [The 26 Best Shows on Apple TV+ Right Now &lpar;May 2024&rpar;](https://www.wired.com/story/best-apple-tv-plus-shows/)
- - [Binance founder Changpeng Zhao sentenced to four months in prison](https://www.theverge.com/2024/4/30/24140638/binance-founder-changpeng-zhao-sentence-money-laundering)<!-- TECH:END -->
+ - [US judge sentences Binance founder Changpeng Zhao to four months in prison &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/240430/p33#a240430p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

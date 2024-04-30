@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What what in the robot by zone is the sauce](http://9gag.com/gag/aPAv3EG)
- - 😝 [Gazans:`we need more humanitarian aid to eat!` US: sending humanitarian aid. Gazans: ...](http://9gag.com/gag/adBNVqM)
- - 💣 [Clickbait](http://9gag.com/gag/aXPboGd)
+ - 😝 [New fear unlocked](http://9gag.com/gag/agmygzw)
  - 😝 [Best Marriage Ever](http://9gag.com/gag/aPAvZrB)
- - 👉 [Smart Move](http://9gag.com/gag/aE0wpQn)<!-- MEMES:END -->
+ - 💣 [Gazans:`we need more humanitarian aid to eat!` US: sending humanitarian aid. Gazans: ...](http://9gag.com/gag/adBNVqM)
+ - 😝 [Clickbait](http://9gag.com/gag/aXPboGd)
+ - 👉 [If you have forgotten this video, I haven&#39;t. This is a perfect example of what sandpeople are. Yet they are coming in millions in Europe.](http://9gag.com/gag/ae9N9op)<!-- MEMES:END -->
 
 ---
 

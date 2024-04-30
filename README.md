@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In its first TikTok Shop Safety Report, TikTok reports 500K+ sellers in the US and 15M+ sellers worldwide in December 2023, adding 6M+ in H2 2023 &lpar;Alex Barinka/Bloomberg&rpar;](http://www.techmeme.com/240430/p20#a240430p20)
+ - [Apple to unveil AI-enabled Safari browser alongside new operating systems](https://appleinsider.com/articles/24/04/30/apple-to-unveil-ai-enabled-safari-browser-alongside-new-operating-systems?utm_medium=rss)
  - [Abode Smart Lock Review: Great for Renters](https://www.wired.com/review/abode-smart-lock/)
  - [SwitchBot S10 review: with plumbing hookups, this robovac and mop is actually hands-free](https://www.theverge.com/24144618/switchbot-s10-review-robot-vacuum)
- - [Apple to unveil AI-enabled Safari browser alongside new operating systems](https://appleinsider.com/articles/24/04/30/apple-to-unveil-ai-enabled-safari-browser-alongside-new-operating-systems?utm_medium=rss)
- - [NYC-based newsletter platform beehiiv raised a $33M Series B led by NEA, taking its total raised to $46.5M, and says the service has ~20K active newsletters &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240430/p19#a240430p19)
- - [Automatic emergency braking at speeds up to 90mph required under new rule](https://www.theverge.com/2024/4/30/24145182/automatic-emergency-braking-vehicle-rule-usdot-crash)<!-- TECH:END -->
+ - [NYC-based newsletter platform beehiiv raised a $33M Series B led by NEA, taking its total raised to $46.5M, and says the service has ~20K active newsletters &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240430/p19#a240430p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

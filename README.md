@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pinterest reports Q1 revenue up 23% YoY to $740M, vs. $700.3M est., MAUs up 12% to 518M, and Q2 revenue forecast above estimates; PINS jumps 15%+ after hours &lpar;Aisha Counts/Bloomberg&rpar;](http://www.techmeme.com/240430/p37#a240430p37)
  - [Amazon reports Q1 net sales up 13% YoY to $143.3B, AWS revenue up 17% to $25B, net income up from $3.2B to $10.4B, operating income up from $4.8B to $15.3B &lpar;Amazon&rpar;](http://www.techmeme.com/240430/p36#a240430p36)
  - [The drinking fountain button is tragically misunderstood](https://www.theverge.com/24144774/drinking-fountain-bubbler-button-of-the-month)
  - [Letter from US senators: only five of 14 automakers require police to have a warrant before requesting user data, and only Tesla tells users about such requests &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/240430/p35#a240430p35)
- - [Google fired a software engineer over an anti-war demonstration — he says he wasn’t even protesting](https://www.theverge.com/2024/4/30/24145680/google-workers-fired-project-nimbus-protest-nlrb-complaint)
- - [Tesla layoffs hit Supercharger team just as it’s poised to take over EV charging](https://www.theverge.com/2024/4/30/24145621/tesla-layoff-supercharger-ev-charging-nacs-elon-musk)<!-- TECH:END -->
+ - [Google fired a software engineer over an anti-war demonstration — he says he wasn’t even protesting](https://www.theverge.com/2024/4/30/24145680/google-workers-fired-project-nimbus-protest-nlrb-complaint)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

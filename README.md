@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I see what you did there..](http://9gag.com/gag/a34YRzQ)
+ - 😝 [When you get cancelled on](http://9gag.com/gag/aByK2eN)
  - 😝 [If buying isn&#39;t owning, pirating isn&#39;t stealing](http://9gag.com/gag/adBN82j)
- - 💣 [Wait...What?!](http://9gag.com/gag/aKGz7wb)
- - 😝 [It should&#39;ve been me](http://9gag.com/gag/aGy9zY7)
- - 👉 [A Mother&#39;s Love.](http://9gag.com/gag/aNDeP4A)<!-- MEMES:END -->
+ - 💣 [Best Marriage Ever](http://9gag.com/gag/aPAvZrB)
+ - 😝 [That&#39;s why men prefer going out alone.](http://9gag.com/gag/a7o5W5A)
+ - 👉 [Feeling sorry for the kid, the only person with dignity but being seen as the odd one](http://9gag.com/gag/a1mAR2D)<!-- MEMES:END -->
 
 ---
 

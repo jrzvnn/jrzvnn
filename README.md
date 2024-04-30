@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EU Commission President Ursula von der Leyen says a TikTok ban is &quot;not excluded&quot; and &quot;we know exactly the danger of TikTok&quot; during a 2024 election debate &lpar;Pieter Haeck/Politico&rpar;](http://www.techmeme.com/240430/p9#a240430p9)
  - [The EU opens a DSA investigation into Facebook and Instagram over deceptive ad and political content; sources say the move relates to a pro-Kremlin campaign &lpar;Bloomberg&rpar;](http://www.techmeme.com/240430/p8#a240430p8)
  - [Elon Musk goes ‘absolutely hard core’ in another round of Tesla layoffs](https://www.theverge.com/2024/4/30/24145133/tesla-layoffs-supercharger-team-elon-musk-hard-core)
  - [Internal Oracle documents: ~6,900 workers are assigned to California offices, compared to 2,500 in Texas, despite Oracle moving its HQ to Texas three years ago &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240430/p7#a240430p7)
- - [The Affordable Connectivity Program Ends Today. Millions of Americans Might Lose Internet Access](https://www.wired.com/story/affordable-connectivity-program-ending/)
- - [Apple has poached dozens of Google AI experts for its Zurich lab](https://appleinsider.com/articles/24/04/30/apple-has-poached-dozens-of-google-ai-experts-for-its-zurich-lab?utm_medium=rss)<!-- TECH:END -->
+ - [The Affordable Connectivity Program Ends Today. Millions of Americans Might Lose Internet Access](https://www.wired.com/story/affordable-connectivity-program-ending/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

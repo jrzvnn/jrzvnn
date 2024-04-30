@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple to unveil AI-enabled Safari browser alongside new operating systems](https://appleinsider.com/articles/24/04/30/apple-to-unveil-ai-enabled-safari-browser-alongside-new-operating-systems?utm_medium=rss)
+ - [TikTok pulls a &#39;Fortnite&#39; and is trying to dodge in-app purchase fees](https://appleinsider.com/articles/24/04/30/tiktok-pulls-a-fortnite-and-is-trying-to-dodge-in-app-purchase-fees?utm_medium=rss)
  - [A screenshot seems to show TikTok circumventing Apple&#39;s App Store fees by showing some users a link to a site for buying digital coins, instead of using IAPs &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240430/p41#a240430p41)
  - [Amazon reports Q1 ad revenue up 24% YoY to $11.8B, vs. $11.7B est., driven by the growth of its Stores and Prime Video businesses &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240430/p40#a240430p40)
- - [Amazon reports Q1 AWS revenue up 17% YoY to $25.04B, vs. $24.49B est., and AWS operating income of $9.42B, vs. $7.52B est., up from $5.12B YoY &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240430/p39#a240430p39)
- - [AMD reports Q1 revenue up 2% YoY to $5.47B, vs. $5.46B est., Data Center revenue up 80% YoY to $2.3B, and a $123M net income, up from a $139M net loss YoY &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240430/p38#a240430p38)
- - [Pinterest reports Q1 revenue up 23% YoY to $740M, vs. $700.3M est., MAUs up 12% YoY to 518M, and Q2 revenue forecast above est.; PINS jumps 15%+ after hours &lpar;Aisha Counts/Bloomberg&rpar;](http://www.techmeme.com/240430/p37#a240430p37)<!-- TECH:END -->
+ - [Amazon reports Q1 AWS revenue up 17% YoY to $25.04B, vs. $24.49B est., and AWS operating income of $9.42B, vs. $7.52B est., up from $5.12B YoY &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240430/p39#a240430p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

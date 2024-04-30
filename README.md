@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bumble’s app redesign lets women automate conversation starters](https://www.theverge.com/2024/4/30/24145199/bumble-opening-move-app-redesign)
+ - [iPhone 16 may come in new color-infused green](https://appleinsider.com/articles/24/04/30/iphone-16-may-come-in-new-color-infused-green?utm_medium=rss)
+ - [The Xbox games showcase airs June 9th, followed by a Call of Duty Direct](https://www.theverge.com/2024/4/30/24145262/xbox-games-showcase-summer-2024-call-of-duty-direct)
  - [Roku plans to start showing video ads on your homescreen](https://www.theverge.com/2024/4/30/24145177/roku-home-screen-video-ads)
- - [Beats Solo 4 headphones review: Great audio quality and features](https://appleinsider.com/articles/24/04/30/beats-solo-4-headphones-review-great-audio-quality-and-features?utm_medium=rss)
- - [New Beats Solo Buds offers budget-friendly audio in a tiny case](https://appleinsider.com/articles/24/04/30/new-beats-solo-buds-offers-budget-friendly-audio-in-a-tiny-case?utm_medium=rss)
- - [The White House Has a New Master Plan to Stop Worst-Case Scenarios](https://www.wired.com/story/biden-national-security-memorandum-critical-infrastructure-threats/)
- - [Beats announces Solo 4 headphones and $79.99 Solo Buds](https://www.theverge.com/2024/4/30/24145198/beats-solo-4-headphones-buds)<!-- TECH:END -->
+ - [Beats Solo 4 headphones review: Great audio quality and features](https://appleinsider.com/articles/24/04/30/beats-solo-4-headphones-review-great-audio-quality-and-features?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

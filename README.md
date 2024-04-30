@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Feast the eyes](http://9gag.com/gag/aZZP056)
- - 😝 [Feeling sorry for the kid, the only person with dignity but being seen as the odd one](http://9gag.com/gag/a1mAR2D)
- - 💣 [Arrest Me](http://9gag.com/gag/aQzqXye)
- - 😝 [Would you like to know more?](http://9gag.com/gag/a9ydnQL)
- - 👉 [We were too young to understand](http://9gag.com/gag/aE0wgWe)<!-- MEMES:END -->
+ - 😝 [Best Marriage Ever](http://9gag.com/gag/aPAvZrB)
+ - 😝 [A Mother&#39;s Love.](http://9gag.com/gag/aNDeP4A)
+ - 💣 [Respect](http://9gag.com/gag/a5Qd1YO)
+ - 😝 [Clickbait](http://9gag.com/gag/aXPboGd)
+ - 👉 [Feeling sorry for the kid, the only person with dignity but being seen as the odd one](http://9gag.com/gag/a1mAR2D)<!-- MEMES:END -->
 
 ---
 

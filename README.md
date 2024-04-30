@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In Congressional testimony, UnitedHealth CEO Andrew Witty plans to say that hackers exploited a Citrix vulnerability to breach UnitedHealth on February 12 &lpar;Zeba Siddiqui/Reuters&rpar;](http://www.techmeme.com/240430/p13#a240430p13)
  - [Since pleading guilty in November 2023, Changpeng Zhao has networked across the US to set up his next act; sources say CZ and Sam Altman exchanged text messages &lpar;New York Times&rpar;](http://www.techmeme.com/240430/p12#a240430p12)
  - [AI Detectors for ChatGPT: Everything You Need to Know](https://www.wired.com/story/ai-detector-chatgpt/)
  - [Yelp’s Assistant AI bot will do all the talking to help users find service providers](https://www.theverge.com/2024/4/30/24144812/yelp-assistant-ai-chatbot-services-search)
- - [Huawei reports Q1 revenue up 37% YoY to ~$24.7B and net profit up 564% YoY to ~$2.7B, rising for the fourth consecutive quarter, buoyed by smartphone sales &lpar;Bloomberg&rpar;](http://www.techmeme.com/240430/p11#a240430p11)
- - [Bernstein says buy Apple while stock price is low](https://appleinsider.com/articles/24/04/30/bernstein-says-buy-apple-while-stock-price-is-low?utm_medium=rss)<!-- TECH:END -->
+ - [Huawei reports Q1 revenue up 37% YoY to ~$24.7B and net profit up 564% YoY to ~$2.7B, rising for the fourth consecutive quarter, buoyed by smartphone sales &lpar;Bloomberg&rpar;](http://www.techmeme.com/240430/p11#a240430p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

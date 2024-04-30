@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Apple is testing new Safari features including more advanced content blocking and an AI-powered Intelligent Search tool, expected to debut in 2024 &lpar;Marko Zivkovic/AppleInsider&rpar;](http://www.techmeme.com/240430/p24#a240430p24)
  - [Eight daily newspapers owned by Alden sue OpenAI and Microsoft, accusing them of using copyrighted articles without permission to train generative AI products &lpar;Katie Robertson/New York Times&rpar;](http://www.techmeme.com/240430/p23#a240430p23)
  - [iPhone users try telling their bosses the alarm didn&#39;t go off](https://appleinsider.com/articles/24/04/30/iphone-users-try-telling-their-bosses-the-alarm-didnt-go-off?utm_medium=rss)
  - [Even Walmart thinks American healthcare is too expensive](https://www.theverge.com/2024/4/30/24145259/walmart-health-centers-close)
- - [Meris Mercury X Review: The Ultimate Reverb Pedal](https://www.wired.com/review/meris-mercury-x/)
- - [Amazon makes its AI assistant Amazon Q generally available and adds an &quot;app creator&quot; to let employees build generative AI-powered apps based on company data &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/240430/p22#a240430p22)<!-- TECH:END -->
+ - [Meris Mercury X Review: The Ultimate Reverb Pedal](https://www.wired.com/review/meris-mercury-x/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

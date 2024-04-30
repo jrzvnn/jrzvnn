@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple’s latest AirPods Pro with USB-C have returned to their all-time low](https://www.theverge.com/2024/4/30/24144383/airpods-pro-usb-c-fitbit-charge-6-tracker-deal-sale)
+ - [New Repair State feature keeps Find My enabled during device repair](https://appleinsider.com/articles/24/04/30/new-repair-state-feature-keeps-find-my-enabled-during-device-repair?utm_medium=rss)
+ - [Fubo drops Discovery networks and blasts WBD for abusing its power](https://www.theverge.com/2024/4/30/24145810/fubo-warner-bros-discovery-networks-streaming-drops)
  - [Google is building a fart button into Android](https://www.theverge.com/2024/4/30/24145714/google-phone-android-fart-button)
- - [Apple enhances USB-C Apple Pencil with new firmware update](https://appleinsider.com/articles/24/04/30/apple-enhances-usb-c-apple-pencil-with-new-firmware-update?utm_medium=rss)
- - [New York Daily News, Chicago Tribune, and others sue OpenAI and Microsoft](https://www.theverge.com/2024/4/30/24145603/ai-openai-microsoft-new-york-daily-news-sue-copyright)
- - [Google&#39;s Pixel 8A Is Coming, but Last Year&#39;s Pixel 7A Is at Its Lowest Price Yet](https://www.wired.com/story/google-pixel-deals-april-2024/)
- - [Apple to unveil AI-enabled Safari browser alongside new operating systems](https://appleinsider.com/articles/24/04/30/apple-to-unveil-ai-enabled-safari-browser-alongside-new-operating-systems?utm_medium=rss)<!-- TECH:END -->
+ - [Apple enhances USB-C Apple Pencil with new firmware update](https://appleinsider.com/articles/24/04/30/apple-enhances-usb-c-apple-pencil-with-new-firmware-update?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

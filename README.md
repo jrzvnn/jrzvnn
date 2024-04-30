@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What what in the robot by zone is the sauce](http://9gag.com/gag/aPAv3EG)
- - 😝 [Title](http://9gag.com/gag/aXPbPjg)
- - 💣 [Like fine wine](http://9gag.com/gag/aZZPDdV)
- - 😝 [Who got dat gud D](http://9gag.com/gag/a6ZwEbA)
- - 👉 [Best Marriage Ever](http://9gag.com/gag/aPAvZrB)<!-- MEMES:END -->
+ - 😝 [Smart Move](http://9gag.com/gag/aE0wpQn)
+ - 😝 [Government surveillance ? \u201cThe only people who should worry are those who are doing something immoral or illegal.\u201d](http://9gag.com/gag/aByKmjD)
+ - 💣 [New fear unlocked](http://9gag.com/gag/agmygzw)
+ - 😝 [Clickbait](http://9gag.com/gag/aXPboGd)
+ - 👉 [Wait...What?!](http://9gag.com/gag/aKGz7wb)<!-- MEMES:END -->
 
 ---
 

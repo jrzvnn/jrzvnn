@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon makes its AI assistant Amazon Q generally available and adds an &quot;app creator&quot; to let employees build generative AI-powered apps based on company data &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/240430/p22#a240430p22)
  - [Rotel RAS-5000 Review: A Killer Network Amp That Needs a Better App](https://www.wired.com/review/review-rotel-ras-5000/)
  - [Beats announces $200 Solo 4 on-ear headphones, with up to 50 hours of battery life, and $80 wireless Solo Buds shipping in June, both without ANC &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240430/p21#a240430p21)
  - [Bumble’s app redesign lets women automate conversation starters](https://www.theverge.com/2024/4/30/24145199/bumble-opening-move-app-redesign)
- - [iPhone 16 may come in new color-infused green](https://appleinsider.com/articles/24/04/30/iphone-16-may-come-in-new-color-infused-green?utm_medium=rss)
- - [The Xbox games showcase airs June 9th, followed by a Call of Duty Direct](https://www.theverge.com/2024/4/30/24145262/xbox-games-showcase-summer-2024-call-of-duty-direct)<!-- TECH:END -->
+ - [iPhone 16 may come in new color-infused green](https://appleinsider.com/articles/24/04/30/iphone-16-may-come-in-new-color-infused-green?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

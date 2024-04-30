@@ -170,9 +170,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [New fear unlocked](http://9gag.com/gag/agmygzw)
- - 😝 [Best Marriage Ever](http://9gag.com/gag/aPAvZrB)
- - 💣 [Gazans:`we need more humanitarian aid to eat!` US: sending humanitarian aid. Gazans: ...](http://9gag.com/gag/adBNVqM)
+ - 😝 [This is LIBRARY!](http://9gag.com/gag/awyrMAy)
+ - 😝 [You mustn&#39;t](http://9gag.com/gag/a6ZwK0N)
+ - 💣 [I know... But this is t*ts.](http://9gag.com/gag/a0e9ZVq)
  - 😝 [Clickbait](http://9gag.com/gag/aXPboGd)
  - 👉 [If you have forgotten this video, I haven&#39;t. This is a perfect example of what sandpeople are. Yet they are coming in millions in Europe.](http://9gag.com/gag/ae9N9op)<!-- MEMES:END -->
 

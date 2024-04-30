@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Browser Company debuts Arc on Windows, after testing began in December 2023, and says the Windows app has 150K+ users; the macOS app shipped in July 2023 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240430/p27#a240430p27)
  - [Pixel 8A leak reveals $499 starting price](https://www.theverge.com/2024/4/30/24145318/google-pixel-8a-price-leak-battery-details)
  - [Network security startup Corelight raised a $150M Series E led by Accel, in a deal valuing it at $900M, says it is on track to hit $100M in ARR within months &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240430/p26#a240430p26)
  - [The Best N95, KF94, and KN95 Face Masks &lpar;2024&rpar;](https://www.wired.com/story/best-disposable-face-masks-n95-kn95-kf94-surgical/)
- - [Sources: Google has agreed to pay News Corp $5M to $6M annually to develop new AI-related content and products, as part of the Google News Initiative &lpar;Sahil Patel/The Information&rpar;](http://www.techmeme.com/240430/p25#a240430p25)
- - [Amazon crushes it with $179 AirPods Pro 2, $299 Apple Watch Series 9 deals](https://appleinsider.com/articles/24/04/30/amazon-crushes-it-with-179-airpods-pro-2-299-apple-watch-series-9-deals?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Google has agreed to pay News Corp $5M to $6M annually to develop new AI-related content and products, as part of the Google News Initiative &lpar;Sahil Patel/The Information&rpar;](http://www.techmeme.com/240430/p25#a240430p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

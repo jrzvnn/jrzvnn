@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sam&#39;s Club has deployed its exit tech, which uses computer vision to check members&#39; purchases against their receipts, at 120+ locations, or 20% of its stores &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240430/p46#a240430p46)
  - [An APK review suggests the Rabbit R1 runs Android and its entire user interface is powered by a single Android app &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/240430/p45#a240430p45)
  - [Twitch rolls out its TikTok-like discovery feed, launching as a tab within the Twitch iOS and Android apps showing live streams and clips &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240430/p44#a240430p44)
  - [Turns out the Rabbit R1 was just an Android app all along](https://www.theverge.com/2024/4/30/24145838/rabbit-r1-android-app-pixel-6a)
- - [IBM wins a court decision overturning $1.6B in damages it was ordered to pay BMC in 2022 for swapping in its own software while servicing a mutual client, AT&amp;T &lpar;Madlin Mekelburg/Bloomberg&rpar;](http://www.techmeme.com/240430/p43#a240430p43)
- - [iOS 17.5 beta lets you keep Find My on during iPhone repairs](https://www.theverge.com/2024/4/30/24145803/apple-iphone-repair-state-ios-17-5-beta)<!-- TECH:END -->
+ - [IBM wins a court decision overturning $1.6B in damages it was ordered to pay BMC in 2022 for swapping in its own software while servicing a mutual client, AT&amp;T &lpar;Madlin Mekelburg/Bloomberg&rpar;](http://www.techmeme.com/240430/p43#a240430p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

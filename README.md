@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tesla layoffs hit Supercharger team just as it’s poised to take over EV charging](https://www.theverge.com/2024/4/30/24145621/tesla-layoff-supercharger-ev-charging-nacs-elon-musk)
  - [Binance founder’s sentencing hearing](https://www.theverge.com/2024/4/30/24144807/binance-founders-sentencing-hearing-liveblog)
  - [Apple&#39;s Q2 2024 earnings results may have some drama -- what to expect](https://appleinsider.com/articles/24/04/30/apples-q2-2024-earnings-results-may-have-some-drama----what-to-expect?utm_medium=rss)
  - [The US DOJ says it has charged Roger Ver, a well-known figure from the early days of Bitcoin, with filing false tax returns and more, evading ~$50M in taxes &lpar;Jeff John Roberts/Fortune&rpar;](http://www.techmeme.com/240430/p34#a240430p34)
- - [China Has a Controversial Plan for Brain-Computer Interfaces](https://www.wired.com/story/china-brain-computer-interfaces-neuralink-neucyber-neurotech/)
- - [Binance Founder Changpeng Zhao Sentenced to Four Months in Prison](https://www.wired.com/story/binance-ceo-changpeng-zhao-sentenced-prison/)<!-- TECH:END -->
+ - [China Has a Controversial Plan for Brain-Computer Interfaces](https://www.wired.com/story/china-brain-computer-interfaces-neuralink-neucyber-neurotech/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kylie Robison Joins The Verge as Senior AI Reporter](https://www.theverge.com/2024/4/30/24145248/kylie-robison-joins-the-verge-as-senior-ai-reporter)
- - [Custom interfaces to get the most out of a folding iPhone or iPad are in the works](https://appleinsider.com/articles/24/04/30/custom-interfaces-to-get-the-most-out-of-a-folding-iphone-or-ipad-are-in-the-works?utm_medium=rss)
- - [In its first TikTok Shop Safety Report, TikTok reports 500K+ sellers in the US and 15M+ sellers worldwide in December 2023, adding 6M+ in H2 2023 &lpar;Alex Barinka/Bloomberg&rpar;](http://www.techmeme.com/240430/p20#a240430p20)
- - [Apple to unveil AI-enabled Safari browser alongside new operating systems](https://appleinsider.com/articles/24/04/30/apple-to-unveil-ai-enabled-safari-browser-alongside-new-operating-systems?utm_medium=rss)
- - [Abode Smart Lock Review: Great for Renters](https://www.wired.com/review/abode-smart-lock/)<!-- TECH:END -->
+ - [Roku plans to start showing video ads on your homescreen](https://www.theverge.com/2024/4/30/24145177/roku-home-screen-video-ads)
+ - [Beats Solo 4 headphones review: Great audio quality and features](https://appleinsider.com/articles/24/04/30/beats-solo-4-headphones-review-great-audio-quality-and-features?utm_medium=rss)
+ - [New Beats Solo Buds offers budget-friendly audio in a tiny case](https://appleinsider.com/articles/24/04/30/new-beats-solo-buds-offers-budget-friendly-audio-in-a-tiny-case?utm_medium=rss)
+ - [The White House Has a New Master Plan to Stop Worst-Case Scenarios](https://www.wired.com/story/biden-national-security-memorandum-critical-infrastructure-threats/)
+ - [Beats announces Solo 4 headphones and $79.99 Solo Buds](https://www.theverge.com/2024/4/30/24145198/beats-solo-4-headphones-buds)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

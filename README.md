@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Assassin’s Creed Mirage trust falls onto the iPhone this June](https://www.theverge.com/24145422/assassins-creed-mirage-iphone-release-date)
+ - [If your iPhone alarm has gone quiet, Apple says it’s working on a fix](https://www.theverge.com/2024/4/30/24145296/apple-iphone-alarm-sounds-broken-ios-bug-fix-coming)
  - [Satellite telco SES has agreed to buy Starlink-rival Intelsat for $3.1B in cash &lpar;Bloomberg&rpar;](http://www.techmeme.com/240430/p29#a240430p29)
  - [Marriott quietly admits it did not encrypt certain user data impacted by a 2018 breach, after arguing in court encryption was used so lawsuits should be tossed &lpar;Evan Schuman/CSO&rpar;](http://www.techmeme.com/240430/p28#a240430p28)
- - [The Browser Company debuts Arc on Windows, after testing began in December 2023, and says the Windows app has 150K+ users; the macOS app shipped in July 2023 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240430/p27#a240430p27)
- - [Pixel 8A leak reveals $499 starting price](https://www.theverge.com/2024/4/30/24145318/google-pixel-8a-price-leak-battery-details)
- - [Network security startup Corelight raised a $150M Series E led by Accel, in a deal valuing it at $900M, says it is on track to hit $100M in ARR within months &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240430/p26#a240430p26)<!-- TECH:END -->
+ - [The Browser Company debuts Arc on Windows, after testing began in December 2023, and says the Windows app has 150K+ users; the macOS app shipped in July 2023 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240430/p27#a240430p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Respect](http://9gag.com/gag/a5Qd1YO)
- - 😝 [When you get cancelled on](http://9gag.com/gag/aByK2eN)
- - 💣 [I see what you did there..](http://9gag.com/gag/a34YRzQ)
- - 😝 [She belongs to the streets now](http://9gag.com/gag/avy0AYq)
- - 👉 [Wait...What?!](http://9gag.com/gag/aKGz7wb)<!-- MEMES:END -->
+ - 😝 [Best Marriage Ever](http://9gag.com/gag/aPAvZrB)
+ - 😝 [I see what you did there..](http://9gag.com/gag/a34YRzQ)
+ - 💣 [This guy, son of a big politician allegedly raped many women, kept their videos. After the videos became viral has fled to Germany. In case if you see him greet him nicely](http://9gag.com/gag/aVvOwoM)
+ - 😝 [What did she want to do with lighter?](http://9gag.com/gag/apRq5np)
+ - 👉 [Feeling sorry for the kid, the only person with dignity but being seen as the odd one](http://9gag.com/gag/a1mAR2D)<!-- MEMES:END -->
 
 ---
 

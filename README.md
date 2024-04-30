@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best laptops you can buy](https://www.theverge.com/21250695/best-laptops)
  - [Apple issues its fourth round of developer betas](https://appleinsider.com/articles/24/04/30/apple-issues-its-fourth-round-of-developer-betas?utm_medium=rss)
  - [Apple distributes fourth visionOS 1.2 developer beta](https://appleinsider.com/articles/24/04/30/apple-distributes-fourth-visionos-12-developer-beta?utm_medium=rss)
  - [The Dangerous Rise of GPS Attacks](https://www.wired.com/story/the-dangerous-rise-of-gps-attacks/)
- - [SCOTUS declines to block a Texas online porn restriction law, after critics said an age-verification mandate violates 1A by forcing viewers to submit their info &lpar;Lawrence Hurley/NBC News&rpar;](http://www.techmeme.com/240430/p30#a240430p30)
- - [Assassin’s Creed Mirage trust falls onto the iPhone this June](https://www.theverge.com/24145422/assassins-creed-mirage-iphone-release-date)<!-- TECH:END -->
+ - [SCOTUS declines to block a Texas online porn restriction law, after critics said an age-verification mandate violates 1A by forcing viewers to submit their info &lpar;Lawrence Hurley/NBC News&rpar;](http://www.techmeme.com/240430/p30#a240430p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

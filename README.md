@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She belongs to the streets now](http://9gag.com/gag/avy0AYq)
- - 😝 [Clickbait](http://9gag.com/gag/aXPboGd)
- - 💣 [New fear unlocked](http://9gag.com/gag/agmygzw)
+ - 😝 [Wait...What?!](http://9gag.com/gag/aKGz7wb)
+ - 😝 [Ben Affleck. Money Can&#39;t Buy Mental Health](http://9gag.com/gag/arypVG6)
+ - 💣 [Clickbait](http://9gag.com/gag/aXPboGd)
  - 😝 [Best Marriage Ever](http://9gag.com/gag/aPAvZrB)
- - 👉 [Ben Affleck. Money Can&#39;t Buy Mental Health](http://9gag.com/gag/arypVG6)<!-- MEMES:END -->
+ - 👉 [A Mother&#39;s Love.](http://9gag.com/gag/aNDeP4A)<!-- MEMES:END -->
 
 ---
 

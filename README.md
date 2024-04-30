@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to transfer files between two Macs with a cable](https://appleinsider.com/inside/mac/tips/how-to-transfer-files-between-two-macs-with-a-cable?utm_medium=rss)
  - [Blaize, which designs AI chips for edge devices and data centers, raised $106M; the company announced in December 2023 plans to go public via a SPAC merger &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/240429/p31#a240429p31)
  - [Best Pillows for Back Sleepers in 2024     - CNET](https://www.cnet.com/health/sleep/best-pillows-for-back-sleepers/#ftag=CAD590a51e)
  - [Multiple US House aides say ByteDance&#39;s video editing app CapCut could also be subject to the same divest-or-ban requirement as TikTok &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/240429/p30#a240429p30)
- - [Best Probiotic Supplements for Gut Health     - CNET](https://www.cnet.com/health/nutrition/best-probiotics/#ftag=CAD590a51e)
- - [Samsung Q1: revenue up 12.81% YoY to ~$52.3B, vs. ~$51.6B est., and operating profit up 932.8% YoY to ~$4.8B, vs. ~$4.3B est., as memory chip prices rebound &lpar;Sheila Chiang/CNBC&rpar;](http://www.techmeme.com/240429/p29#a240429p29)<!-- TECH:END -->
+ - [Best Probiotic Supplements for Gut Health     - CNET](https://www.cnet.com/health/nutrition/best-probiotics/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

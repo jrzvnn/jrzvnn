@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Huawei reports Q1 revenue up 37% YoY to ~$24.7B and net profit up 564% YoY to ~$2.7B, rising for the fourth consecutive quarter, buoyed by smartphone sales &lpar;Bloomberg&rpar;](http://www.techmeme.com/240430/p11#a240430p11)
  - [Bernstein says buy Apple while stock price is low](https://appleinsider.com/articles/24/04/30/bernstein-says-buy-apple-while-stock-price-is-low?utm_medium=rss)
  - [How an empty, private AWS S3 bucket had ~100M PUT requests in a day, racking up a substantial bill, due to a popular open source tool using the same bucket name &lpar;Maciej Pocwierz&rpar;](http://www.techmeme.com/240430/p10#a240430p10)
  - [EU Commission President Ursula von der Leyen says a TikTok ban is &quot;not excluded&quot; and &quot;we know exactly the danger of TikTok&quot; during a 2024 election debate &lpar;Pieter Haeck/Politico&rpar;](http://www.techmeme.com/240430/p9#a240430p9)
- - [The EU opens a DSA investigation into Facebook and Instagram over deceptive ad and political content; sources say the move relates to a pro-Kremlin campaign &lpar;Bloomberg&rpar;](http://www.techmeme.com/240430/p8#a240430p8)
- - [Elon Musk goes ‘absolutely hard core’ in another round of Tesla layoffs](https://www.theverge.com/2024/4/30/24145133/tesla-layoffs-supercharger-team-elon-musk-hard-core)<!-- TECH:END -->
+ - [The EU opens a DSA investigation into Facebook and Instagram over deceptive ad and political content; sources say the move relates to a pro-Kremlin campaign &lpar;Bloomberg&rpar;](http://www.techmeme.com/240430/p8#a240430p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

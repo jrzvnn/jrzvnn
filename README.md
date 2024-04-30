@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Smart Move](http://9gag.com/gag/aE0wpQn)
- - 😝 [Government surveillance ? \u201cThe only people who should worry are those who are doing something immoral or illegal.\u201d](http://9gag.com/gag/aByKmjD)
- - 💣 [New fear unlocked](http://9gag.com/gag/agmygzw)
- - 😝 [Clickbait](http://9gag.com/gag/aXPboGd)
- - 👉 [Wait...What?!](http://9gag.com/gag/aKGz7wb)<!-- MEMES:END -->
+ - 😝 [What are you doing there?! Get inside!](http://9gag.com/gag/awyrzQ4)
+ - 😝 [Free education](http://9gag.com/gag/aoyzy3w)
+ - 💣 [This is it](http://9gag.com/gag/a87WEA6)
+ - 😝 [That&#39;s how you impress men](http://9gag.com/gag/aAyYGWZ)
+ - 👉 [He ate them all](http://9gag.com/gag/aW4ZG4n)<!-- MEMES:END -->
 
 ---
 

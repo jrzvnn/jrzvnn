@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Game emulator Delta has been the top US iOS app for weeks, after Apple lifted its ban on such apps, likely due to regulatory pressure and alt stores in the EU &lpar;Shira Ovide/Washington Post&rpar;](http://www.techmeme.com/240430/p32#a240430p32)
+ - [Apple headphone shootout: Beats Solo 4 vs AirPods Max](https://appleinsider.com/inside/airpods-max/vs/apple-headphone-shootout-beats-solo-4-vs-airpods-max?utm_medium=rss)
  - [The Rabbit R1’s first software update addresses its dismal battery life](https://www.theverge.com/2024/4/30/24145442/rabbit-r1-ota-software-update-battery-drain-fix)
  - [&#39;Assassin&#39;s Creed Mirage&#39; sneaks onto iPhone, iPad on June 10](https://appleinsider.com/articles/24/04/30/assassins-creed-mirage-sneaks-onto-iphone-ipad-on-june-10?utm_medium=rss)
- - [SafeBase, which helps companies automate software security reviews using AI, raised a $33M Series B led by Touring Capital, bringing its total funding to $50M+ &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240430/p31#a240430p31)
- - [CBP is interrogating TikTok employees](https://www.theverge.com/2024/4/30/24145489/tiktok-employees-interrogated-customs-border-protection)
- - [Best Earbuds and Headphones for Working Out for 2024     - CNET](https://www.cnet.com/tech/mobile/best-workout-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [SafeBase, which helps companies automate software security reviews using AI, raised a $33M Series B led by Touring Capital, bringing its total funding to $50M+ &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240430/p31#a240430p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

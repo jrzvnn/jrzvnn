@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Crispy spicy beef noodles](http://9gag.com/gag/aGy9EG5)
- - 😝 [Best Marriage Ever](http://9gag.com/gag/aPAvZrB)
- - 💣 [Respect](http://9gag.com/gag/a5Qd1YO)
- - 😝 [Shock treatment for turds](http://9gag.com/gag/aGy9E07)
- - 👉 [That look](http://9gag.com/gag/aqymnYM)<!-- MEMES:END -->
+ - 😝 [Polish health care at its best](http://9gag.com/gag/aNDeLr0)
+ - 😝 [Heroes still exist](http://9gag.com/gag/agmygmg)
+ - 💣 [The design is very human](http://9gag.com/gag/a6ZwqV2)
+ - 😝 [It&#39;s funny because it&#39;s true](http://9gag.com/gag/aGy9yN5)
+ - 👉 [BBC just got nuked by community notes](http://9gag.com/gag/aW4Zp76)<!-- MEMES:END -->
 
 ---
 

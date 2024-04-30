@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bumble redesigns its app and adds Opening Moves, to let women ask a question men can answer, a major shift that ends the requirement that women message first &lpar;Valeriya Safronova/New York Times&rpar;](http://www.techmeme.com/240430/p16#a240430p16)
- - [Apple&#39;s Q2 2024 earnings results may have some drama -- what to expect](https://appleinsider.com/articles/24/04/30/apples-q2-2024-earnings-results-may-have-some-drama----what-to-expect?utm_medium=rss)
- - [The Best Motorola Phones &lpar;2024&rpar;: Pros and Cons, Top Features](https://www.wired.com/story/best-motorola-phones/)
- - [EU probe targets Facebook and Instagram amid spike in Russian disinformation](https://www.theverge.com/2024/4/30/24145165/meta-facebook-instagram-eu-investigation-dsa-russian-disinformation)
- - [Enterprise browser startup Island raised $175M led by Sequoia and Coatue at a $3B valuation, up from $1.5B in October 2023, taking its total funding to $487M &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240430/p15#a240430p15)<!-- TECH:END -->
+ - [Instagram updates its recommendation algorithms to promote original content, impacting aggregator accounts, and increase distribution for smaller accounts &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/240430/p18#a240430p18)
+ - [Phones are the ultimate AI gadget](https://www.theverge.com/24145141/ai-gadgets-smartphones-meta-rabbit)
+ - [A Finnish court sentences hacker Julius Kivim&amp;auml;ki to six years and three months, after he breached a healthcare database and attempted to blackmail 33,000 people &lpar;BBC&rpar;](http://www.techmeme.com/240430/p17#a240430p17)
+ - [Kobo Libra Colour Review: A Color E Ink Screen](https://www.wired.com/review/kobo-libra-colour/)
+ - [Endless Ocean is a simple, serene swim on the Switch](https://www.theverge.com/24144686/endless-ocean-luminous-review-nintendo-switch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

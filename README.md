@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you get cancelled on](http://9gag.com/gag/aByK2eN)
- - 😝 [She belongs to the streets now](http://9gag.com/gag/avy0AYq)
+ - 😝 [Smart Move](http://9gag.com/gag/aE0wpQn)
+ - 😝 [Arrest Me](http://9gag.com/gag/aQzqXye)
  - 💣 [New fear unlocked](http://9gag.com/gag/agmygzw)
- - 😝 [If you have forgotten this video, I haven&#39;t. This is a perfect example of what sandpeople are. Yet they are coming in millions in Europe.](http://9gag.com/gag/ae9N9op)
- - 👉 [Always work](http://9gag.com/gag/aAyYyng)<!-- MEMES:END -->
+ - 😝 [Always work](http://9gag.com/gag/aAyYyng)
+ - 👉 [If you have forgotten this video, I haven&#39;t. This is a perfect example of what sandpeople are. Yet they are coming in millions in Europe.](http://9gag.com/gag/ae9N9op)<!-- MEMES:END -->
 
 ---
 

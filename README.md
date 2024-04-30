@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk goes ‘absolutely hard core’ in another round of Tesla layoffs](https://www.theverge.com/2024/4/30/24145133/tesla-layoffs-supercharger-team-elon-musk-hard-core)
+ - [Internal Oracle documents: ~6,900 workers are assigned to California offices, compared to 2,500 in Texas, despite Oracle moving its HQ to Texas three years ago &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240430/p7#a240430p7)
+ - [The Affordable Connectivity Program Ends Today. Millions of Americans Might Lose Internet Access](https://www.wired.com/story/affordable-connectivity-program-ending/)
  - [Apple has poached dozens of Google AI experts for its Zurich lab](https://appleinsider.com/articles/24/04/30/apple-has-poached-dozens-of-google-ai-experts-for-its-zurich-lab?utm_medium=rss)
- - [Lithuanian second hand marketplace Vinted reports 2023 revenue up 61% YoY to &amp;euro;596.3M and a &amp;euro;17.8M net profit, up from a &amp;euro;20.4M loss in 2022 &lpar;Zosia Wanat/Sifted&rpar;](http://www.techmeme.com/240430/p6#a240430p6)
- - [Erling Haaland becomes the first ‘real person’ in Clash of Clans](https://www.theverge.com/2024/4/30/24145120/erling-haaland-clash-of-clans)
- - [Tesla&#39;s FSD is set to face tough competition in China, after at least 10 automakers and suppliers announced driver-assistance systems over the past two years &lpar;Reuters&rpar;](http://www.techmeme.com/240430/p5#a240430p5)
- - [Tech journalism is often characterized by scandals, sensationalism, and shoddy research, and publishers are reluctant to invest in it without a clear ROI &lpar;Timothy B. Lee/Asterisk&rpar;](http://www.techmeme.com/240430/p4#a240430p4)<!-- TECH:END -->
+ - [Lithuanian second hand marketplace Vinted reports 2023 revenue up 61% YoY to &amp;euro;596.3M and a &amp;euro;17.8M net profit, up from a &amp;euro;20.4M loss in 2022 &lpar;Zosia Wanat/Sifted&rpar;](http://www.techmeme.com/240430/p6#a240430p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

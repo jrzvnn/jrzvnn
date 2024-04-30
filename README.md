@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PayPal reports Q1 revenue up 9% YoY to $7.7B, payment volume up 14% YoY to $404B, transaction margin dollars up 4% YoY to $3.5B, and expects 2024 profit to drop &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/240430/p14#a240430p14)
  - [iPhone 16 Pro: what to expect from Apple&#39;s fall 2024 flagship phone](https://appleinsider.com/articles/24/03/19/iphone-16-pro-what-to-expect-from-apples-fall-2024-flagship-phone?utm_medium=rss)
  - [In Congressional testimony, UnitedHealth CEO Andrew Witty plans to say that hackers exploited a Citrix vulnerability to breach UnitedHealth on February 12 &lpar;Zeba Siddiqui/Reuters&rpar;](http://www.techmeme.com/240430/p13#a240430p13)
  - [Since pleading guilty in November 2023, Changpeng Zhao has networked across the US to set up his next act; sources say CZ and Sam Altman exchanged text messages &lpar;New York Times&rpar;](http://www.techmeme.com/240430/p12#a240430p12)
- - [AI Detectors for ChatGPT: Everything You Need to Know](https://www.wired.com/story/ai-detector-chatgpt/)
- - [Yelp’s Assistant AI bot will do all the talking to help users find service providers](https://www.theverge.com/2024/4/30/24144812/yelp-assistant-ai-chatbot-services-search)<!-- TECH:END -->
+ - [AI Detectors for ChatGPT: Everything You Need to Know](https://www.wired.com/story/ai-detector-chatgpt/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

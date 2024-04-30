@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SafeBase, which helps companies automate software security reviews using AI, raised a $33M Series B led by Touring Capital, bringing its total funding to $50M+ &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240430/p31#a240430p31)
+ - [CBP is interrogating TikTok employees](https://www.theverge.com/2024/4/30/24145489/tiktok-employees-interrogated-customs-border-protection)
  - [Kobo and iFixit partner for OEM parts and repair guides](https://www.theverge.com/2024/4/30/24145468/kobo-ifixit-e-reader-oem-repair-parts-guides-partnership)
  - [The best laptops you can buy](https://www.theverge.com/21250695/best-laptops)
- - [Apple issues its fourth round of developer betas](https://appleinsider.com/articles/24/04/30/apple-issues-its-fourth-round-of-developer-betas?utm_medium=rss)
- - [Apple distributes fourth visionOS 1.2 developer beta](https://appleinsider.com/articles/24/04/30/apple-distributes-fourth-visionos-12-developer-beta?utm_medium=rss)
- - [The Dangerous Rise of GPS Attacks](https://www.wired.com/story/the-dangerous-rise-of-gps-attacks/)<!-- TECH:END -->
+ - [Apple issues its fourth round of developer betas](https://appleinsider.com/articles/24/04/30/apple-issues-its-fourth-round-of-developer-betas?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

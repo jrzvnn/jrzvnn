@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Motorola Phones &lpar;2024&rpar;: Pros and Cons, Top Features](https://www.wired.com/story/best-motorola-phones/)
+ - [EU probe targets Facebook and Instagram amid spike in Russian disinformation](https://www.theverge.com/2024/4/30/24145165/meta-facebook-instagram-eu-investigation-dsa-russian-disinformation)
  - [Enterprise browser startup Island raised $175M led by Sequoia and Coatue at a $3B valuation, up from $1.5B in October 2023, taking its total funding to $487M &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240430/p15#a240430p15)
  - [Acer Nitro 17 &lpar;2024, AMD&rpar; Review: Great Power Yet Affordable](https://www.wired.com/review/acer-nitro-17-2024-amd/)
- - [PayPal reports Q1 revenue up 9% YoY to $7.7B, payment volume up 14% YoY to $404B, transaction margin dollars up 4% YoY to $3.5B, and expects 2024 profit to drop &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/240430/p14#a240430p14)
- - [iPhone 16 Pro: what to expect from Apple&#39;s fall 2024 flagship phone](https://appleinsider.com/articles/24/03/19/iphone-16-pro-what-to-expect-from-apples-fall-2024-flagship-phone?utm_medium=rss)
- - [Homeowners Face Higher Refi Rates: Mortgage Refinance Rates for April 30, 2024     - CNET](https://www.cnet.com/personal-finance/mortgages/homeowners-face-higher-refi-rates-mortgage-refinance-rates-for-april-30-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [PayPal reports Q1 revenue up 9% YoY to $7.7B, payment volume up 14% YoY to $404B, and transaction margin dollars up 4% YoY to $3.5B; PYPL rises 5%+ &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/240430/p14#a240430p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

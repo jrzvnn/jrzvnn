@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you get cancelled on](http://9gag.com/gag/aByK2eN)
+ - 😝 [Bluey says...](http://9gag.com/gag/aoyz3jx)
  - 😝 [Y u internet](http://9gag.com/gag/an7YOEn)
- - 💣 [Female youtuber face judge](http://9gag.com/gag/a87WqWp)
- - 😝 [20,000 years later, the fall of Paradis.](http://9gag.com/gag/aO8qxoD)
- - 👉 [If you have forgotten this video, I haven&#39;t. This is a perfect example of what sandpeople are. Yet they are coming in millions in Europe.](http://9gag.com/gag/ae9N9op)<!-- MEMES:END -->
+ - 💣 [Curse white ppl for loving black kids more than their own parents.](http://9gag.com/gag/aQzqzKz)
+ - 😝 [El Salvador was almost destroyed by organized gang crime. The new president Nayib Bukele declared war on them and jailed over 12,000 gang members. The second war is against corruption. All ruling peaks in the country are now to be investigated. Interesting!](http://9gag.com/gag/awyrgOr)
+ - 👉 [Always work](http://9gag.com/gag/aAyYyng)<!-- MEMES:END -->
 
 ---
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla layoffs hit Supercharger team just as it’s poised to take over EV charging](https://www.theverge.com/2024/4/30/24145621/tesla-layoff-supercharger-ev-charging-nacs-elon-musk)
- - [Binance founder’s sentencing hearing](https://www.theverge.com/2024/4/30/24144807/binance-founders-sentencing-hearing-liveblog)
- - [Apple&#39;s Q2 2024 earnings results may have some drama -- what to expect](https://appleinsider.com/articles/24/04/30/apples-q2-2024-earnings-results-may-have-some-drama----what-to-expect?utm_medium=rss)
- - [The US DOJ says it has charged Roger Ver, a well-known figure from the early days of Bitcoin, with filing false tax returns and more, evading ~$50M in taxes &lpar;Jeff John Roberts/Fortune&rpar;](http://www.techmeme.com/240430/p34#a240430p34)
- - [China Has a Controversial Plan for Brain-Computer Interfaces](https://www.wired.com/story/china-brain-computer-interfaces-neuralink-neucyber-neurotech/)<!-- TECH:END -->
+ - [Amazon reports Q1 net sales up 13% YoY to $143.3B, AWS revenue up 17% to $25B, net income up from $3.2B to $10.4B, operating income up from $4.8B to $15.3B &lpar;Amazon&rpar;](http://www.techmeme.com/240430/p36#a240430p36)
+ - [The drinking fountain button is tragically misunderstood](https://www.theverge.com/24144774/drinking-fountain-bubbler-button-of-the-month)
+ - [Letter from US senators: only five of 14 automakers require police to have a warrant before requesting user data, and only Tesla tells users about such requests &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/240430/p35#a240430p35)
+ - [Google fired a software engineer over an anti-war demonstration — he says he wasn’t even protesting](https://www.theverge.com/2024/4/30/24145680/google-workers-fired-project-nimbus-protest-nlrb-complaint)
+ - [Tesla layoffs hit Supercharger team just as it’s poised to take over EV charging](https://www.theverge.com/2024/4/30/24145621/tesla-layoff-supercharger-ev-charging-nacs-elon-musk)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

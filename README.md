@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New York Daily News, Chicago Tribune, and others sue OpenAI and Microsoft](https://www.theverge.com/2024/4/30/24145603/ai-openai-microsoft-new-york-daily-news-sue-copyright)
+ - [Google&#39;s Pixel 8A Is Coming, but Last Year&#39;s Pixel 7A Is at Its Lowest Price Yet](https://www.wired.com/story/google-pixel-deals-april-2024/)
  - [Apple to unveil AI-enabled Safari browser alongside new operating systems](https://appleinsider.com/articles/24/04/30/apple-to-unveil-ai-enabled-safari-browser-alongside-new-operating-systems?utm_medium=rss)
  - [TikTok pulls a &#39;Fortnite&#39; and is trying to dodge in-app purchase fees](https://appleinsider.com/articles/24/04/30/tiktok-pulls-a-fortnite-and-is-trying-to-dodge-in-app-purchase-fees?utm_medium=rss)
- - [Screenshots seems to show TikTok circumventing Apple&#39;s App Store fees by showing some users a link to a site for buying digital coins, instead of using IAPs &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240430/p41#a240430p41)
- - [Amazon reports Q1 ad revenue up 24% YoY to $11.8B, vs. $11.7B est., driven by the growth of its Stores and Prime Video businesses &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240430/p40#a240430p40)
- - [Amazon reports Q1 AWS revenue up 17% YoY to $25.04B, vs. $24.49B est., and AWS operating income of $9.42B, vs. $7.52B est., up from $5.12B YoY &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240430/p39#a240430p39)<!-- TECH:END -->
+ - [Screenshots seems to show TikTok circumventing Apple&#39;s App Store fees by showing some users a link to a site for buying digital coins, instead of using IAPs &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240430/p41#a240430p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

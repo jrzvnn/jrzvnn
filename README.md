@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of and interview with Rabbit CEO Jesse Lyu, on the origins of the R1, taking &quot;10 minutes to design&quot; the device, the AI gadget competition, and more &lpar;Raymond Wong/Inverse&rpar;](http://www.techmeme.com/240429/p33#a240429p33)
  - [Rabbit R1 review: good price, but emblematic of a trend of selling barely finished products at full price, while vowing to fix the issues later to win a &quot;race&quot; &lpar;Marques Brownlee/Marques Brownlee on YouTube&rpar;](http://www.techmeme.com/240429/p32#a240429p32)
  - [How to transfer files between two Macs with a cable](https://appleinsider.com/inside/mac/tips/how-to-transfer-files-between-two-macs-with-a-cable?utm_medium=rss)
  - [Best Mattress for Back Sleepers in 2024     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-back-sleepers/#ftag=CAD590a51e)
- - [Blaize, which designs AI chips for edge devices and data centers, raised $106M; the company announced in December 2023 plans to go public via a SPAC merger &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/240429/p31#a240429p31)
- - [Best Pillows for Back Sleepers in 2024     - CNET](https://www.cnet.com/health/sleep/best-pillows-for-back-sleepers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Blaize, which designs AI chips for edge devices and data centers, raised $106M; the company announced in December 2023 plans to go public via a SPAC merger &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/240429/p31#a240429p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

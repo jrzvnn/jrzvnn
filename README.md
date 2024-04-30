@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple distributes fourth visionOS 1.2 developer beta](https://appleinsider.com/articles/24/04/30/apple-distributes-fourth-visionos-12-developer-beta?utm_medium=rss)
+ - [The Dangerous Rise of GPS Attacks](https://www.wired.com/story/the-dangerous-rise-of-gps-attacks/)
+ - [SCOTUS declines to block a Texas online porn restriction law, after critics said an age-verification mandate violates 1A by forcing viewers to submit their info &lpar;Lawrence Hurley/NBC News&rpar;](http://www.techmeme.com/240430/p30#a240430p30)
  - [Assassin’s Creed Mirage trust falls onto the iPhone this June](https://www.theverge.com/24145422/assassins-creed-mirage-iphone-release-date)
- - [If your iPhone alarm has gone quiet, Apple says it’s working on a fix](https://www.theverge.com/2024/4/30/24145296/apple-iphone-alarm-sounds-broken-ios-bug-fix-coming)
- - [Satellite telco SES has agreed to buy Starlink-rival Intelsat for $3.1B in cash &lpar;Bloomberg&rpar;](http://www.techmeme.com/240430/p29#a240430p29)
- - [Marriott quietly admits it did not encrypt certain user data impacted by a 2018 breach, after arguing in court encryption was used so lawsuits should be tossed &lpar;Evan Schuman/CSO&rpar;](http://www.techmeme.com/240430/p28#a240430p28)
- - [The Browser Company debuts Arc on Windows, after testing began in December 2023, and says the Windows app has 150K+ users; the macOS app shipped in July 2023 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240430/p27#a240430p27)<!-- TECH:END -->
+ - [If your iPhone alarm has gone quiet, Apple says it’s working on a fix](https://www.theverge.com/2024/4/30/24145296/apple-iphone-alarm-sounds-broken-ios-bug-fix-coming)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best Marriage Ever](http://9gag.com/gag/aPAvZrB)
- - 😝 [A Mother&#39;s Love.](http://9gag.com/gag/aNDeP4A)
- - 💣 [Respect](http://9gag.com/gag/a5Qd1YO)
- - 😝 [Clickbait](http://9gag.com/gag/aXPboGd)
- - 👉 [Feeling sorry for the kid, the only person with dignity but being seen as the odd one](http://9gag.com/gag/a1mAR2D)<!-- MEMES:END -->
+ - 😝 [Just use your own gun](http://9gag.com/gag/aVvOwOw)
+ - 😝 [New fear unlocked](http://9gag.com/gag/agmygzw)
+ - 💣 [What what in the robot by zone is the sauce](http://9gag.com/gag/aPAv3EG)
+ - 😝 [That&#39;s why men prefer going out alone.](http://9gag.com/gag/a7o5W5A)
+ - 👉 [Some famous logos in medieval style &lpar;zoom it for better experience&rpar;](http://9gag.com/gag/aKGz6G6)<!-- MEMES:END -->
 
 ---
 

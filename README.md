@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Always work](http://9gag.com/gag/aAyYyng)
+ - 😝 [When you get cancelled on](http://9gag.com/gag/aByK2eN)
  - 😝 [Y u internet](http://9gag.com/gag/an7YOEn)
- - 💣 [If you have forgotten this video, I haven&#39;t. This is a perfect example of what sandpeople are. Yet they are coming in millions in Europe.](http://9gag.com/gag/ae9N9op)
- - 😝 [Smart Move](http://9gag.com/gag/aE0wpQn)
- - 👉 [German kids singing `foreigners out` in a nightclub.](http://9gag.com/gag/a87W6Wd)<!-- MEMES:END -->
+ - 💣 [Female youtuber face judge](http://9gag.com/gag/a87WqWp)
+ - 😝 [20,000 years later, the fall of Paradis.](http://9gag.com/gag/aO8qxoD)
+ - 👉 [If you have forgotten this video, I haven&#39;t. This is a perfect example of what sandpeople are. Yet they are coming in millions in Europe.](http://9gag.com/gag/ae9N9op)<!-- MEMES:END -->
 
 ---
 

@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What did she want to do with lighter?](http://9gag.com/gag/apRq5np)
+ - 😝 [New fear unlocked](http://9gag.com/gag/agmygzw)
  - 😝 [Best Marriage Ever](http://9gag.com/gag/aPAvZrB)
- - 💣 [What what in the robot by zone is the sauce](http://9gag.com/gag/aPAv3EG)
+ - 💣 [Smart Move](http://9gag.com/gag/aE0wpQn)
  - 😝 [Wait...What?!](http://9gag.com/gag/aKGz7wb)
- - 👉 [Feeling sorry for the kid, the only person with dignity but being seen as the odd one](http://9gag.com/gag/a1mAR2D)<!-- MEMES:END -->
+ - 👉 [I see what you did there..](http://9gag.com/gag/a34YRzQ)<!-- MEMES:END -->
 
 ---
 

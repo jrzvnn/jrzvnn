@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [New fear unlocked](http://9gag.com/gag/agmygzw)
- - 😝 [Best Marriage Ever](http://9gag.com/gag/aPAvZrB)
- - 💣 [Smart Move](http://9gag.com/gag/aE0wpQn)
- - 😝 [Wait...What?!](http://9gag.com/gag/aKGz7wb)
- - 👉 [I see what you did there..](http://9gag.com/gag/a34YRzQ)<!-- MEMES:END -->
+ - 😝 [A Mother&#39;s Love.](http://9gag.com/gag/aNDeP4A)
+ - 😝 [Gazans:`we need more humanitarian aid to eat!` US: sending humanitarian aid. Gazans: ...](http://9gag.com/gag/adBNVqM)
+ - 💣 [I hope they like waves](http://9gag.com/gag/aNDegjK)
+ - 😝 [Clickbait](http://9gag.com/gag/aXPboGd)
+ - 👉 [Ben Affleck. Money Can&#39;t Buy Mental Health](http://9gag.com/gag/arypVG6)<!-- MEMES:END -->
 
 ---
 

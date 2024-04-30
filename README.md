@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is it](http://9gag.com/gag/a87WEA6)
- - 😝 [That&#39;s how you impress men](http://9gag.com/gag/aAyYGWZ)
- - 💣 [He ate them all](http://9gag.com/gag/aW4ZG4n)
- - 😝 [Curse white ppl for loving black kids more than their own parents.](http://9gag.com/gag/aQzqzKz)
- - 👉 [Respect](http://9gag.com/gag/a5Qd1YO)<!-- MEMES:END -->
+ - 😝 [Ben Affleck. Money Can&#39;t Buy Mental Health](http://9gag.com/gag/arypVG6)
+ - 😝 [That&#39;s why men prefer going out alone.](http://9gag.com/gag/a7o5W5A)
+ - 💣 [New fear unlocked](http://9gag.com/gag/agmygzw)
+ - 😝 [A Mother&#39;s Love.](http://9gag.com/gag/aNDeP4A)
+ - 👉 [What what in the robot by zone is the sauce](http://9gag.com/gag/aPAv3EG)<!-- MEMES:END -->
 
 ---
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NYC-based newsletter platform beehiiv raised a $33M Series B led by NEA, taking its total raised to $46.5M, and says the service has ~20K active newsletters &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240430/p19#a240430p19)
+ - [Automatic emergency braking at speeds up to 90mph required under new rule](https://www.theverge.com/2024/4/30/24145182/automatic-emergency-braking-vehicle-rule-usdot-crash)
  - [Instagram updates its recommendation algorithms to promote original content, impacting aggregator accounts, and increase distribution for smaller accounts &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/240430/p18#a240430p18)
  - [Phones are the ultimate AI gadget](https://www.theverge.com/24145141/ai-gadgets-smartphones-meta-rabbit)
- - [A Finnish court sentences hacker Julius Kivim&amp;auml;ki to six years and three months, after he breached a healthcare database and attempted to blackmail 33,000 people &lpar;BBC&rpar;](http://www.techmeme.com/240430/p17#a240430p17)
- - [Kobo Libra Colour Review: A Color E Ink Screen](https://www.wired.com/review/kobo-libra-colour/)
- - [Endless Ocean is a simple, serene swim on the Switch](https://www.theverge.com/24144686/endless-ocean-luminous-review-nintendo-switch)<!-- TECH:END -->
+ - [A Finnish court sentences hacker Julius Kivim&amp;auml;ki to six years and three months, after he breached a healthcare database and attempted to blackmail 33,000 people &lpar;BBC&rpar;](http://www.techmeme.com/240430/p17#a240430p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

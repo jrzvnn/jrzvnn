@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [German ambassador almost got lynched in Ramallah](http://9gag.com/gag/an7YOb5)
- - 😝 [Snack time at the zoo, building core memory too](http://9gag.com/gag/axyNvKp)
- - 💣 [German kids singing `foreigners out` in a nightclub.](http://9gag.com/gag/a87W6Wd)
- - 😝 [Deal can&#39;t reach!.](http://9gag.com/gag/aPAvxzQ)
- - 👉 [EmotionalDamage](http://9gag.com/gag/aRBQLp2)<!-- MEMES:END -->
+ - 😝 [I also want ice cream. Life is so unfair](http://9gag.com/gag/aZZPnpz)
+ - 😝 [German kids singing `foreigners out` in a nightclub.](http://9gag.com/gag/a87W6Wd)
+ - 💣 [EmotionalDamage](http://9gag.com/gag/aRBQLp2)
+ - 😝 [New Miss Argentina is 60 years old, would you?](http://9gag.com/gag/awyrgK4)
+ - 👉 [Jokes writing themselves](http://9gag.com/gag/aLnKe3v)<!-- MEMES:END -->
 
 ---
 

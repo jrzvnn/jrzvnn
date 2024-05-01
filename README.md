@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [German ambassador almost got lynched in Ramallah](http://9gag.com/gag/an7YOb5)
- - 😝 [Female youtuber face judge](http://9gag.com/gag/a87WqWp)
- - 💣 [Y u internet](http://9gag.com/gag/an7YOEn)
- - 😝 [New Miss Argentina is 60 years old, would you?](http://9gag.com/gag/awyrgK4)
- - 👉 [German kids singing `foreigners out` in a nightclub.](http://9gag.com/gag/a87W6Wd)<!-- MEMES:END -->
+ - 😝 [German kids singing `foreigners out` in a nightclub.](http://9gag.com/gag/a87W6Wd)
+ - 😝 [Pick your side](http://9gag.com/gag/avy0WWM)
+ - 💣 [Deal can&#39;t reach!.](http://9gag.com/gag/aPAvxzQ)
+ - 😝 [Bird is sucked in to jet\u2019s engine causing it to crash](http://9gag.com/gag/a7o5ozw)
+ - 👉 [Funny coz](http://9gag.com/gag/ajPrVGq)<!-- MEMES:END -->
 
 ---
 

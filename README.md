@@ -164,8 +164,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Starfield is finally getting a 60fps mode on Xbox](https://www.theverge.com/2024/5/1/24146366/starfield-60fps-mode-xbox-series-x)
  - [iPhone 15 Pro is unexpectedly the sales champion of spring 2024](https://appleinsider.com/articles/24/05/01/iphone-15-pro-is-unexpectedly-the-sales-champion-of-spring-2024?utm_medium=rss)
  - [Amazon-funded Anthropic launches AI app to compete with ChatGPT](https://appleinsider.com/articles/24/05/01/anthropics-claude-ai-has-arrived-on-the-iphone-and-ipad?utm_medium=rss)
- - [Atlassian debuts Rovo, an AI product giving businesses contextual search, insights, and the ability to add custom agents to handle tasks and &quot;complete projects&quot; &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240501/p29#a240501p29)
- - [Microsoft’s billion-dollar OpenAI investment was trigged by Google fears, emails reveal](https://www.theverge.com/2024/5/1/24146302/microsoft-openai-investment-google-worries-internal-emails)<!-- TECH:END -->
+ - [NOW Offers No-Contract Mobile, Internet, and TV for One Low Monthly Price     - CNET](https://www.cnet.com/tech/mobile/now-offers-no-contract-mobile-internet-and-tv-for-one-low-monthly-price/#ftag=CAD590a51e)
+ - [Save $10 on This TP-Link Smart Outlet Extender on Amazon     - CNET](https://www.cnet.com/deals/save-10-on-this-tp-link-smart-outlet-extender-on-amazon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

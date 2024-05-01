@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [BBC just got nuked by community notes](http://9gag.com/gag/aW4Zp76)
- - 😝 [El Salvador was almost destroyed by organized gang crime. The new president Nayib Bukele declared war on them and jailed over 12,000 gang members. The second war is against corruption. All ruling peaks in the country are now to be investigated. Interesting!](http://9gag.com/gag/awyrgOr)
- - 💣 [Curse white ppl for loving black kids more than their own parents.](http://9gag.com/gag/aQzqzKz)
- - 😝 [Shock treatment for turds](http://9gag.com/gag/aGy9E07)
- - 👉 [Laquisha, no!](http://9gag.com/gag/abA5eOv)<!-- MEMES:END -->
+ - 😝 [German kids singing `foreigners out` in a nightclub.](http://9gag.com/gag/a87W6Wd)
+ - 😝 [If you have forgotten this video, I haven&#39;t. This is a perfect example of what sandpeople are. Yet they are coming in millions in Europe.](http://9gag.com/gag/ae9N9op)
+ - 💣 [Deal can&#39;t reach!.](http://9gag.com/gag/aPAvxzQ)
+ - 😝 [Best Marriage Ever](http://9gag.com/gag/aPAvZrB)
+ - 👉 [German ambassador almost got lynched in Ramallah](http://9gag.com/gag/an7YOb5)<!-- MEMES:END -->
 
 ---
 

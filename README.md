@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US v. Google: Google paid Apple $20B in 2022 to be the default search engine in Safari; in 2020, Google&#39;s payments constituted 17.5% of Apple&#39;s operating income &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/240501/p39#a240501p39)
  - [Snapchat will soon let you edit your messages after sending](https://www.theverge.com/2024/5/1/24146618/snapchat-message-edit-plus-feature-map-reactions-ai-reminders-bitmoji-fashion)
  - [Unity names ex-Zynga COO Matthew Bromberg as its new CEO, president, and board member; ex-CEO John Riccitiello resigned in October 2023 after a pricing fiasco &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240501/p38#a240501p38)
  - [UnitedHealth CEO admits it paid $22 million ransom to BlackCat](https://www.theverge.com/2024/5/1/24146693/unitedhealth-22-million-ransom-ransomware-hack-blackcat)
- - [Google&#39;s Apparently Adding &#39;Emoji Audio,&#39; Including a Fart Noise, to Android. Here&#39;s How to Use     - CNET](https://www.cnet.com/tech/services-and-software/googles-apparently-adding-emoji-audio-including-a-fart-noise-to-android-heres-how-to-use/#ftag=CAD590a51e)
- - [How Sidechat Fanned the Flames of University Campus Protests](https://www.wired.com/story/how-sidechat-fanned-the-flames-of-university-campus-protests/)<!-- TECH:END -->
+ - [Google&#39;s Apparently Adding &#39;Emoji Audio,&#39; Including a Fart Noise, to Android. Here&#39;s How to Use     - CNET](https://www.cnet.com/tech/services-and-software/googles-apparently-adding-emoji-audio-including-a-fart-noise-to-android-heres-how-to-use/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

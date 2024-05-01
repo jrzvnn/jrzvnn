@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [People here don&#39;t give a f**k](http://9gag.com/gag/amoXoKX)
- - 😝 [Pick your side](http://9gag.com/gag/avy0WWM)
- - 💣 [Can someone explain what the logic is for grown woman to have sex with young boys?](http://9gag.com/gag/aByKnzA)
- - 😝 [German ambassador almost got lynched in Ramallah](http://9gag.com/gag/an7YOb5)
- - 👉 [Female youtuber face judge](http://9gag.com/gag/a87WqWp)<!-- MEMES:END -->
+ - 😝 [I just told you i&#39;ve already bought it, harry. you don&#39;t need to sell it to me](http://9gag.com/gag/aD20nGN)
+ - 😝 [German kids singing `foreigners out` in a nightclub.](http://9gag.com/gag/a87W6Wd)
+ - 💣 [New Miss Argentina is 60 years old, would you?](http://9gag.com/gag/awyrgK4)
+ - 😝 [As if.](http://9gag.com/gag/a87WmDZ)
+ - 👉 [German ambassador almost got lynched in Ramallah](http://9gag.com/gag/an7YOb5)<!-- MEMES:END -->
 
 ---
 

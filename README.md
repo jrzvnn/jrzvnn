@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Deal can&#39;t reach!.](http://9gag.com/gag/aPAvxzQ)
- - 😝 [After waiting a decade for the perfect pearl](http://9gag.com/gag/a4P4zNy)
- - 💣 [New Miss Argentina is 60 years old, would you?](http://9gag.com/gag/awyrgK4)
  - 😝 [German ambassador almost got lynched in Ramallah](http://9gag.com/gag/an7YOb5)
- - 👉 [Women without Rights\ud83d\ude06\ud83d\ude06](http://9gag.com/gag/ayN5qVY)<!-- MEMES:END -->
+ - 😝 [We\u2019ve all been there](http://9gag.com/gag/aAyYE89)
+ - 💣 [If you have forgotten this video, I haven&#39;t. This is a perfect example of what sandpeople are. Yet they are coming in millions in Europe.](http://9gag.com/gag/ae9N9op)
+ - 😝 [Deal can&#39;t reach!.](http://9gag.com/gag/aPAvxzQ)
+ - 👉 [EmotionalDamage](http://9gag.com/gag/aRBQLp2)<!-- MEMES:END -->
 
 ---
 

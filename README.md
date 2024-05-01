@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Snapchat will soon let you edit your messages after sending](https://www.theverge.com/2024/5/1/24146618/snapchat-message-edit-plus-feature-map-reactions-ai-reminders-bitmoji-fashion)
  - [Unity names ex-Zynga COO Matthew Bromberg as its new CEO, president, and board member; ex-CEO John Riccitiello resigned in October 2023 after a pricing fiasco &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240501/p38#a240501p38)
  - [UnitedHealth CEO admits it paid $22 million ransom to BlackCat](https://www.theverge.com/2024/5/1/24146693/unitedhealth-22-million-ransom-ransomware-hack-blackcat)
- - [How Sidechat Fanned the Flames of University Campus Protests](https://www.wired.com/story/how-sidechat-fanned-the-flames-of-university-campus-protests/)
- - [Nvidia updates its ChatRTX chatbot, formerly &quot;Chat with RTX&quot;, to add support for voice queries and three AI models: Google&#39;s Gemma, ChatGLM3, and OpenAI&#39;s CLIP &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240501/p37#a240501p37)
- - [LinkedIn Boards the Wordle Train and Launches 3 Online Games     - CNET](https://www.cnet.com/tech/services-and-software/linkedin-boards-the-wordle-train-and-launches-3-online-games/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google&#39;s Apparently Adding &#39;Emoji Audio,&#39; Including a Fart Noise, to Android. Here&#39;s How to Use     - CNET](https://www.cnet.com/tech/services-and-software/googles-apparently-adding-emoji-audio-including-a-fart-noise-to-android-heres-how-to-use/#ftag=CAD590a51e)
+ - [How Sidechat Fanned the Flames of University Campus Protests](https://www.wired.com/story/how-sidechat-fanned-the-flames-of-university-campus-protests/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

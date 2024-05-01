@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China implements a revised State Secrets Law, requiring Tencent, Weibo, and other internet companies to delete leaked information and comply with investigations &lpar;Yukio Tajima/Nikkei Asia&rpar;](http://www.techmeme.com/240501/p10#a240501p10)
  - [How bills under consideration in various US states to address AI bias contain loopholes that would make companies avoiding accountability easier &lpar;Politico&rpar;](http://www.techmeme.com/240501/p9#a240501p9)
  - [Moving? Don&#39;t Wait to Set Up Your Internet Service. Here&#39;s How to Do It     - CNET](https://www.cnet.com/home/internet/how-to-set-up-internet-at-a-new-house-or-apartment-everything-you-need-to-know/#ftag=CAD590a51e)
  - [A Chinese seller details how he ships civilian electronics, which could be repurposed for military uses, to Russia via distributors and Russian e-commerce sites &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240501/p8#a240501p8)
- - [Experts say Spamouflage Dragon, China&#39;s yearslong disinformation campaign targeting the US, has largely failed due to China missing cultural context and more &lpar;David Gilbert/Wired&rpar;](http://www.techmeme.com/240501/p7#a240501p7)
- - [Here&#39;s Why You Should Buy Your Stamps ASAP.  Everything to Know About USPS&#39; Price Hike     - CNET](https://www.cnet.com/personal-finance/heres-why-you-should-buy-your-stamps-asap-everything-to-know-about-usps-price-hike/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Experts say Spamouflage Dragon, China&#39;s yearslong disinformation campaign targeting the US, has largely failed due to China missing cultural context and more &lpar;David Gilbert/Wired&rpar;](http://www.techmeme.com/240501/p7#a240501p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

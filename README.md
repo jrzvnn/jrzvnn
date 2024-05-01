@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [German kids singing `foreigners out` in a nightclub.](http://9gag.com/gag/a87W6Wd)
- - 😝 [Pick your side](http://9gag.com/gag/avy0WWM)
- - 💣 [Deal can&#39;t reach!.](http://9gag.com/gag/aPAvxzQ)
- - 😝 [Bird is sucked in to jet\u2019s engine causing it to crash](http://9gag.com/gag/a7o5ozw)
- - 👉 [Funny coz](http://9gag.com/gag/ajPrVGq)<!-- MEMES:END -->
+ - 😝 [Fcckkk!! I didn&#39;t know Wasp had an archenemy. This bird is now my favorite bird!](http://9gag.com/gag/aRBQZ2q)
+ - 😝 [Right?](http://9gag.com/gag/aE0wMPo)
+ - 💣 [5 star service right there](http://9gag.com/gag/avy0ezX)
+ - 😝 [Bro won in life. Best marriage proposal reaction EVER](http://9gag.com/gag/a7o5eNe)
+ - 👉 [German kids singing `foreigners out` in a nightclub.](http://9gag.com/gag/a87W6Wd)<!-- MEMES:END -->
 
 ---
 

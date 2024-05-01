@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/aO8q4Zr)
- - 😝 [German kids singing `foreigners out` in a nightclub.](http://9gag.com/gag/a87W6Wd)
- - 💣 [We\u2019ve all been there](http://9gag.com/gag/aAyYE89)
- - 😝 [Fcckkk!! I didn&#39;t know Wasp had an archenemy. This bird is now my favorite bird!](http://9gag.com/gag/aRBQZ2q)
- - 👉 [Coach was like. I taught you everything you know but NOT everything I know](http://9gag.com/gag/aW4ZLQ2)<!-- MEMES:END -->
+ - 😝 [This is what USA looks like in 2024](http://9gag.com/gag/aVvOg4w)
+ - 😝 [Always work](http://9gag.com/gag/aAyYyng)
+ - 💣 [German kids singing `foreigners out` in a nightclub.](http://9gag.com/gag/a87W6Wd)
+ - 😝 [After waiting a decade for the perfect pearl](http://9gag.com/gag/a4P4zNy)
+ - 👉 [Women without Rights\ud83d\ude06\ud83d\ude06](http://9gag.com/gag/ayN5qVY)<!-- MEMES:END -->
 
 ---
 

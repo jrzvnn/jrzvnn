@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Republicans release tech executives’ internal communications](https://www.theverge.com/24146357/republicans-internal-emails-texts-tech-executives-meta-facebook-white-house)
  - [Sources: Google laid off at least 200 employees from its &quot;Core&quot; teams, including its Python developer team, and plans to move some roles to Mexico and India &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/240501/p30#a240501p30)
  - [This Qi2 3-in-1 charger has the best price we’ve seen from any brand](https://www.theverge.com/2024/5/1/24146244/amazon-esr-qi2-3-in-1-wireless-charger-thermacell-mosquito-repellent-deal-sale)
  - [Starfield is finally getting a 60fps mode on Xbox](https://www.theverge.com/2024/5/1/24146366/starfield-60fps-mode-xbox-series-x)
- - [iPhone 15 Pro is unexpectedly the sales champion of spring 2024](https://appleinsider.com/articles/24/05/01/iphone-15-pro-is-unexpectedly-the-sales-champion-of-spring-2024?utm_medium=rss)
- - [Amazon-funded Anthropic launches AI app to compete with ChatGPT](https://appleinsider.com/articles/24/05/01/anthropics-claude-ai-has-arrived-on-the-iphone-and-ipad?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone 15 Pro is unexpectedly the sales champion of spring 2024](https://appleinsider.com/articles/24/05/01/iphone-15-pro-is-unexpectedly-the-sales-champion-of-spring-2024?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US Government Is Asking Big Tech to Promise Better Cybersecurity](https://www.wired.com/story/cisa-cybersecurity-pledge/)
+ - [Q&amp;A with White House Office of Science and Technology Policy Director Arati Prabhakar on her role, working at DARPA, AI, showing ChatGPT to Biden, and more &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/240501/p28#a240501p28)
+ - [Audible tries book recommendations based on your streaming history](https://www.theverge.com/2024/5/1/24146317/audible-audiobook-recommendations-prime-video-history)
  - [Sources: US federal prosecutors are digging into internal practices at Block, discussing with an ex-employee alleged widespread and yearslong compliance lapses &lpar;Gretchen Morgenson/NBC News&rpar;](http://www.techmeme.com/240501/p27#a240501p27)
- - [LastPass separates from GoTo, which announced the spinoff in December 2021, six years after buying LastPass; the service suffered high profile hacks in 2022 &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240501/p26#a240501p26)
- - [Costa Rica restored its forests and switched to renewable energy — what can the world learn from it?](https://www.theverge.com/24146299/costa-rica-forest-restoration-renewable-energy-lessons)
- - [LastPass goes independent over a year after serious breaches](https://www.theverge.com/2024/5/1/24146205/lastpass-independent-company-security-breaches)
- - [Anthropic launches a free iOS app and Team, its first enterprise plan, which offers access to its Claude 3 Opus, Sonnet, and Haiku models for $30/user/month &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/240501/p25#a240501p25)<!-- TECH:END -->
+ - [LastPass separates from GoTo, which announced the spinoff in December 2021, six years after buying LastPass; the service suffered high profile hacks in 2022 &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240501/p26#a240501p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

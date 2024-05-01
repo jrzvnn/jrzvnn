@@ -171,8 +171,8 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [German ambassador almost got lynched in Ramallah](http://9gag.com/gag/an7YOb5)
- - 😝 [We\u2019ve all been there](http://9gag.com/gag/aAyYE89)
- - 💣 [If you have forgotten this video, I haven&#39;t. This is a perfect example of what sandpeople are. Yet they are coming in millions in Europe.](http://9gag.com/gag/ae9N9op)
+ - 😝 [Snack time at the zoo, building core memory too](http://9gag.com/gag/axyNvKp)
+ - 💣 [German kids singing `foreigners out` in a nightclub.](http://9gag.com/gag/a87W6Wd)
  - 😝 [Deal can&#39;t reach!.](http://9gag.com/gag/aPAvxzQ)
  - 👉 [EmotionalDamage](http://9gag.com/gag/aRBQLp2)<!-- MEMES:END -->
 

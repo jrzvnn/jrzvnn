@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok seems to be dodging App Store commissions in Epic fashion](https://www.theverge.com/2024/5/1/24146142/tiktok-coins-dodge-apple-app-store-commission-epic)
  - [DOJ v. Google: Microsoft invested in OpenAI over fears of falling behind Google; Kevin Scott said he was &quot;very, very worried&quot; in a 2019 email to Satya Nadella &lpar;Bloomberg&rpar;](http://www.techmeme.com/240501/p13#a240501p13)
  - [Deadly Massachusetts Apple Store crash caused by faulty AI, says defense](https://appleinsider.com/articles/24/05/01/deadly-massachusetts-apple-store-crash-caused-by-faulty-ai-says-defense?utm_medium=rss)
  - [Sources: Huawei moves Yu Chengdong, the high-profile chief of its consumer business who has held the job since 2012, to a new role as chair of the unit &lpar;Reuters&rpar;](http://www.techmeme.com/240501/p12#a240501p12)
- - [Meet the Woman Who Showed President Biden ChatGPT—and Helped Set the Course for AI](https://www.wired.com/story/arati-prabhakar-ostp-biden-science-tech-adviser/)
- - [Rabbit releases its first R1 software update, with &quot;up to 5x&quot; improved idle battery performance, a better music playback UI, more reliable Bluetooth, and more &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240501/p11#a240501p11)<!-- TECH:END -->
+ - [Meet the Woman Who Showed President Biden ChatGPT—and Helped Set the Course for AI](https://www.wired.com/story/arati-prabhakar-ostp-biden-science-tech-adviser/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

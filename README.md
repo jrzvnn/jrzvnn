@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Nice???](http://9gag.com/gag/aE0wV29)
+ - 😝 [German kids singing `foreigners out` in a nightclub.](http://9gag.com/gag/a87W6Wd)
+ - 💣 [If you have forgotten this video, I haven&#39;t. This is a perfect example of what sandpeople are. Yet they are coming in millions in Europe.](http://9gag.com/gag/ae9N9op)
  - 😝 [5 star service right there](http://9gag.com/gag/avy0ezX)
- - 😝 [Title](http://9gag.com/gag/aO8q4Zr)
- - 💣 [Right?](http://9gag.com/gag/aE0wMPo)
- - 😝 [Fcckkk!! I didn&#39;t know Wasp had an archenemy. This bird is now my favorite bird!](http://9gag.com/gag/aRBQZ2q)
  - 👉 [Coach was like. I taught you everything you know but NOT everything I know](http://9gag.com/gag/aW4ZLQ2)<!-- MEMES:END -->
 
 ---

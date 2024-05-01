@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [People here don&#39;t give a f**k](http://9gag.com/gag/amoXoKX)
- - 😝 [Female youtuber face judge](http://9gag.com/gag/a87WqWp)
- - 💣 [I also want ice cream. Life is so unfair](http://9gag.com/gag/aZZPnpz)
- - 😝 [Can someone explain what the logic is for grown woman to have sex with young boys?](http://9gag.com/gag/aByKnzA)
- - 👉 [German ambassador almost got lynched in Ramallah](http://9gag.com/gag/an7YOb5)<!-- MEMES:END -->
+ - 😝 [Cooking skills](http://9gag.com/gag/aMV1VdM)
+ - 😝 [Funny coz](http://9gag.com/gag/ajPrVGq)
+ - 💣 [German kids singing `foreigners out` in a nightclub.](http://9gag.com/gag/a87W6Wd)
+ - 😝 [Always work](http://9gag.com/gag/aAyYyng)
+ - 👉 [Female youtuber face judge](http://9gag.com/gag/a87WqWp)<!-- MEMES:END -->
 
 ---
 

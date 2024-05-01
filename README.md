@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI security bill aims to prevent safety breaches of AI models](https://www.theverge.com/2024/5/1/24146566/ai-security-bill-warner-tillis-senate-redteam-safety)
  - [Airbnb launches Icons, a new category of experiences that lets users meet celebrities and stay in outlandish venues, like a replica of the house from Pixar&#39;s Up &lpar;Orlando Mayorqu&amp;iacute;n/New York Times&rpar;](http://www.techmeme.com/240501/p32#a240501p32)
  - [T-Mobile owns Mint Mobile](https://www.theverge.com/2024/5/1/24146547/t-mobile-mint-mobile-acquisition-complete)
  - [Pennsylvania has two battling bills that could make tracking with AirTags unlawful](https://appleinsider.com/articles/24/05/01/pennsylvania-has-two-battling-bills-that-could-make-tracking-with-airtags-unlawful?utm_medium=rss)
- - [In a US Senate hearing, the UnitedHealth CEO says the company paid a $22M ransom to hackers who accessed a Change Healthcare server that wasn&#39;t protected by MFA &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240501/p31#a240501p31)
- - [WhatsApp’s new feature lets you plan your next event](https://www.theverge.com/2024/5/1/24146335/whatsapp-group-events-feature-rollout-communities)<!-- TECH:END -->
+ - [In a US Senate hearing, the UnitedHealth CEO says the company paid a $22M ransom to hackers who accessed a Change Healthcare server that wasn&#39;t protected by MFA &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240501/p31#a240501p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

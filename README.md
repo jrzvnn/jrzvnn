@@ -165,7 +165,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Snapchat announces the ability to edit messages for up to five minutes after sending them, rolling out &quot;soon&quot; and available first for Snapchat+ subscribers &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/240501/p40#a240501p40)
  - [Asus won’t say if the ROG Ally’s SD card reader will ever be truly fixed](https://www.theverge.com/2024/5/1/24146755/asus-rog-ally-sd-card-reader)
  - [US v. Google: Google paid Apple $20B in 2022 to be the default search engine in Safari; in 2020, Google&#39;s payments constituted 17.5% of Apple&#39;s operating income &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/240501/p39#a240501p39)
- - [Snapchat will soon let you edit your messages after sending](https://www.theverge.com/2024/5/1/24146618/snapchat-message-edit-plus-feature-map-reactions-ai-reminders-bitmoji-fashion)<!-- TECH:END -->
+ - [Crunchyroll Just Increased Prices on Premium Subscriptions     - CNET](https://www.cnet.com/tech/services-and-software/crunchyroll-just-increased-prices-on-premium-subscriptions/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

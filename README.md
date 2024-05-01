@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Experts say Spamouflage Dragon, China&#39;s yearslong disinformation campaign targeting the US, has largely failed due to China missing cultural context and more &lpar;David Gilbert/Wired&rpar;](http://www.techmeme.com/240501/p7#a240501p7)
+ - [Do These 12 Things Right Before Moving Into Your New Home     - CNET](https://www.cnet.com/home/services/do-these-12-things-right-before-moving-into-your-new-home/#ftag=CAD590a51e)
+ - [SSI Beneficiaries: You&#39;re Getting Two Checks In May. Here&#39;s Why     - CNET](https://www.cnet.com/personal-finance/ssi-beneficiaries-youre-getting-two-checks-in-may-heres-why/#ftag=CAD590a51e)
  - [Walmart discontinues its telehealth service Health Virtual Care citing &quot;escalating operating costs&quot;; Walmart acquired telehealth provider MeMD in 2021 &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/240501/p6#a240501p6)
- - [A backlash against data centers has triggered laws in Arizona, Georgia, and other parts of the US to restrain the rapidly growing, energy-intensive industry &lpar;Antonio Olivo/Washington Post&rpar;](http://www.techmeme.com/240501/p5#a240501p5)
- - [In tests run by executives in advertising, animation, and real estate, OpenAI&#39;s Sora generated people with more realistic facial features than Runway or Pika &lpar;Financial Times&rpar;](http://www.techmeme.com/240501/p4#a240501p4)
- - [Taiwan&#39;s KYEC, one of the largest chip testing and packaging services firms, divests its entire stake in a Suzhou, China-based subsidiary citing US restrictions &lpar;Kelly Le/South China Morning Post&rpar;](http://www.techmeme.com/240501/p3#a240501p3)
- - [Google Phone app beta rolls out &quot;Audio Emoji&quot;, letting callers select an emoji to play animated sound effects: clapping, laughing, party, crying, poop, sting &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240501/p2#a240501p2)<!-- TECH:END -->
+ - [A backlash against data centers has triggered laws in Arizona, Georgia, and other parts of the US to restrain the rapidly growing, energy-intensive industry &lpar;Antonio Olivo/Washington Post&rpar;](http://www.techmeme.com/240501/p5#a240501p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

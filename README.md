@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Affordable Connectivity Program Kept Them Online. What Now?](https://www.wired.com/story/affordable-connectivity-program-kept-them-online-what-now/)
+ - [AMD projects its MI300 lineup to generate ~$4B in revenue in 2024, up $500M from an earlier forecast, but short of expectations; AMD drops 6%+ after hours &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/240430/p47#a240430p47)
  - [Sam&#39;s Club has deployed its exit tech, which uses computer vision to check members&#39; purchases against their receipts, at 120+ locations, or 20% of its stores &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240430/p46#a240430p46)
- - [An APK review suggests the Rabbit R1 runs Android and its entire user interface is powered by a single Android app &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/240430/p45#a240430p45)
- - [Twitch rolls out its TikTok-like discovery feed, launching as a tab within the Twitch iOS and Android apps showing live streams and clips &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240430/p44#a240430p44)
- - [Turns out the Rabbit R1 was just an Android app all along](https://www.theverge.com/2024/4/30/24145838/rabbit-r1-android-app-pixel-6a)
- - [IBM wins a court decision overturning $1.6B in damages it was ordered to pay BMC in 2022 for swapping in its own software while servicing a mutual client, AT&amp;T &lpar;Madlin Mekelburg/Bloomberg&rpar;](http://www.techmeme.com/240430/p43#a240430p43)<!-- TECH:END -->
+ - [All the iPad Rumors: What We&#39;re Most Likely to See from Apple on May 7     - CNET](https://www.cnet.com/tech/computing/ipad-2024-rumors-new-ipad-pro-and-air-models-arriving-on-may-7/#ftag=CAD590a51e)
+ - [An APK review suggests the Rabbit R1 runs Android and its entire user interface is powered by a single Android app &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/240430/p45#a240430p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

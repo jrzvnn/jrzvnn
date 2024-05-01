@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I also want ice cream. Life is so unfair](http://9gag.com/gag/aZZPnpz)
- - 😝 [German ambassador almost got lynched in Ramallah](http://9gag.com/gag/an7YOb5)
- - 💣 [New Miss Argentina is 60 years old, would you?](http://9gag.com/gag/awyrgK4)
- - 😝 [Female youtuber face judge](http://9gag.com/gag/a87WqWp)
- - 👉 [New fear unlocked](http://9gag.com/gag/agmygzw)<!-- MEMES:END -->
+ - 😝 [If you have forgotten this video, I haven&#39;t. This is a perfect example of what sandpeople are. Yet they are coming in millions in Europe.](http://9gag.com/gag/ae9N9op)
+ - 😝 [German kids singing `foreigners out` in a nightclub.](http://9gag.com/gag/a87W6Wd)
+ - 💣 [Best Marriage Ever](http://9gag.com/gag/aPAvZrB)
+ - 😝 [Deal can&#39;t reach!.](http://9gag.com/gag/aPAvxzQ)
+ - 👉 [German ambassador almost got lynched in Ramallah](http://9gag.com/gag/an7YOb5)<!-- MEMES:END -->
 
 ---
 

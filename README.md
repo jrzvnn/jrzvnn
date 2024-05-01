@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [T-Mobile owns Mint Mobile](https://www.theverge.com/2024/5/1/24146547/t-mobile-mint-mobile-acquisition-complete)
  - [Pennsylvania has two battling bills that could make tracking with AirTags unlawful](https://appleinsider.com/articles/24/05/01/pennsylvania-has-two-battling-bills-that-could-make-tracking-with-airtags-unlawful?utm_medium=rss)
  - [In a US Senate hearing, the UnitedHealth CEO says the company paid a $22M ransom to hackers who accessed a Change Healthcare server that wasn&#39;t protected by MFA &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240501/p31#a240501p31)
  - [WhatsApp’s new feature lets you plan your next event](https://www.theverge.com/2024/5/1/24146335/whatsapp-group-events-feature-rollout-communities)
- - [Tesla reportedly shrinks its gigacasting manufacturing ambitions](https://www.theverge.com/2024/5/1/24146463/tesla-gigacasting-underbody-manufacturing-on-hold)
- - [It’s getting way easier to join PS5 multiplayer games with a friend](https://www.theverge.com/2024/5/1/24146342/ps5-sharable-links-multiplayer-games)<!-- TECH:END -->
+ - [Tesla reportedly shrinks its gigacasting manufacturing ambitions](https://www.theverge.com/2024/5/1/24146463/tesla-gigacasting-underbody-manufacturing-on-hold)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

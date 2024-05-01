@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [German kids singing `foreigners out` in a nightclub.](http://9gag.com/gag/a87W6Wd)
- - 😝 [If you have forgotten this video, I haven&#39;t. This is a perfect example of what sandpeople are. Yet they are coming in millions in Europe.](http://9gag.com/gag/ae9N9op)
- - 💣 [Deal can&#39;t reach!.](http://9gag.com/gag/aPAvxzQ)
  - 😝 [Best Marriage Ever](http://9gag.com/gag/aPAvZrB)
- - 👉 [German ambassador almost got lynched in Ramallah](http://9gag.com/gag/an7YOb5)<!-- MEMES:END -->
+ - 😝 [German kids singing `foreigners out` in a nightclub.](http://9gag.com/gag/a87W6Wd)
+ - 💣 [Female youtuber face judge](http://9gag.com/gag/a87WqWp)
+ - 😝 [I know... But this is t*ts.](http://9gag.com/gag/a0e9ZVq)
+ - 👉 [Deal can&#39;t reach!.](http://9gag.com/gag/aPAvxzQ)<!-- MEMES:END -->
 
 ---
 

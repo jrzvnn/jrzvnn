@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [eBay reports Q1 revenue up 2% YoY to $2.56B, vs. $2.53B est., GMV up 1% to $18.6B, net income down 23% to $439M, and forecasts Q2 revenue below estimates &lpar;Yuvraj Malik/Reuters&rpar;](http://www.techmeme.com/240501/p36#a240501p36)
+ - [Crunchyroll is about to get a little more expensive, just like all the other streamers](https://www.theverge.com/2024/5/1/24146651/crunchyroll-price-increase-subscription-anime)
+ - [How to play Netflix’s cloud games without waiting for an invitation](https://www.theverge.com/2024/5/1/24146634/netflix-cloud-gaming-streaming-pc-windows)
  - [DoorDash reports Q1 revenue up 23% YoY to $2.51B, vs. $2.45B est., total orders up 21% YoY, and forecasts Q2 core profit below est.; DASH drops 9%+ after hours &lpar;Reuters&rpar;](http://www.techmeme.com/240501/p35#a240501p35)
- - [Walmart is about to launch a 4K Chromecast that’s also a smart speaker](https://www.theverge.com/2024/5/1/24146446/walmart-onn-pro-4k-streaming-chromecast-google-assistant-smart-speaker)
- - [Qualcomm reports Q2 revenue up 1% YoY to $9.39B, vs. $9.34B est., handset sales up 1% YoY to $6.18B, and Q3 revenue forecast above expectations &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240501/p34#a240501p34)
- - [Substack now lets writers paywall their Chat discussion spaces and says active Chat participants are 12% more likely to retain their subscriptions &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240501/p33#a240501p33)
- - [AI security bill aims to prevent safety breaches of AI models](https://www.theverge.com/2024/5/1/24146566/ai-security-bill-warner-tillis-senate-redteam-safety)<!-- TECH:END -->
+ - [Walmart is about to launch a 4K Chromecast that’s also a smart speaker](https://www.theverge.com/2024/5/1/24146446/walmart-onn-pro-4k-streaming-chromecast-google-assistant-smart-speaker)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

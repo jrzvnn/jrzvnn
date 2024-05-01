@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: API Holdings, the parent firm of Indian online pharmacy PharmEasy, raises $216M at a $710M valuation, down ~90% from its peak valuation of $5.6B in 2021 &lpar;Entrackr&rpar;](http://www.techmeme.com/240501/p1#a240501p1)
  - [Turns out the Rabbit R1 was just an Android app all along](https://www.theverge.com/2024/4/30/24145838/rabbit-r1-android-app-pixel-6a)
  - [A look at gpt2-chatbot, a mysterious AI chatbot which became available on LLM benchmarking site LMSYS Org and is believed to have similar capabilities as GPT-4 &lpar;Maxwell Zeff/Gizmodo&rpar;](http://www.techmeme.com/240430/p52#a240430p52)
  - [Elisity, which is developing AI tools for companies to anticipate and pre-empt cyber threats, raised a $37M Series B from Insight Partners and others &lpar;FinSMEs&rpar;](http://www.techmeme.com/240430/p51#a240430p51)
- - [How to delete iCloud messages on Mac &amp; iPhone](https://appleinsider.com/inside/imessage/tips/how-to-delete-icloud-messages-on-mac-iphone?utm_medium=rss)
- - [Esther Crawford joins Meta&#39;s Messenger team as director of product; Crawford was Twitter&#39;s director of product management before being laid off in February 2023 &lpar;Kwan Wei Kevin Tan/Business Insider&rpar;](http://www.techmeme.com/240430/p50#a240430p50)<!-- TECH:END -->
+ - [How to delete iCloud messages on Mac &amp; iPhone](https://appleinsider.com/inside/imessage/tips/how-to-delete-icloud-messages-on-mac-iphone?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

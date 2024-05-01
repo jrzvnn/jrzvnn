@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bird is sucked in to jet\u2019s engine causing it to crash](http://9gag.com/gag/a7o5ozw)
- - 😝 [German ambassador almost got lynched in Ramallah](http://9gag.com/gag/an7YOb5)
- - 💣 [Deal can&#39;t reach!.](http://9gag.com/gag/aPAvxzQ)
+ - 😝 [People here don&#39;t give a f**k](http://9gag.com/gag/amoXoKX)
  - 😝 [Female youtuber face judge](http://9gag.com/gag/a87WqWp)
- - 👉 [I know... But this is t*ts.](http://9gag.com/gag/a0e9ZVq)<!-- MEMES:END -->
+ - 💣 [I also want ice cream. Life is so unfair](http://9gag.com/gag/aZZPnpz)
+ - 😝 [Can someone explain what the logic is for grown woman to have sex with young boys?](http://9gag.com/gag/aByKnzA)
+ - 👉 [German ambassador almost got lynched in Ramallah](http://9gag.com/gag/an7YOb5)<!-- MEMES:END -->
 
 ---
 

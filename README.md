@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How long did it take you?](http://9gag.com/gag/aZZPrnp)
- - 😝 [We need more dads like this one](http://9gag.com/gag/aPAvxoB)
- - 💣 [Same, but different](http://9gag.com/gag/ajPrgv8)
- - 😝 [Any more games like this?](http://9gag.com/gag/aKGzAgQ)
- - 👉 [Arrest Me](http://9gag.com/gag/aQzqXye)<!-- MEMES:END -->
+ - 😝 [Pick your side](http://9gag.com/gag/avy0WWM)
+ - 😝 [Y u internet](http://9gag.com/gag/an7YOEn)
+ - 💣 [New fear unlocked](http://9gag.com/gag/agmygzw)
+ - 😝 [New Miss Argentina is 60 years old, would you?](http://9gag.com/gag/awyrgK4)
+ - 👉 [Just a little peek](http://9gag.com/gag/aqymRXL)<!-- MEMES:END -->
 
 ---
 

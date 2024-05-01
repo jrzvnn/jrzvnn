@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LinkedIn launches three Wordle-style puzzle games: theme-based guessing game Pinpoint, Sudoku and Minesweeper-style crossover Queens, and trivia game Crossclimb &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/240501/p21#a240501p21)
  - [In a letter to the US Labor Department, Google says the US could lose out on valuable AI and tech talent if some of its immigration policies are not modernized &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240501/p20#a240501p20)
  - [LinkedIn is the latest company to get in on gaming](https://www.theverge.com/24145605/linkedin-gaming-puzzle-game-nyt-wordle-netflix-games)
  - [GM&#39;s CarPlay replacement doesn&#39;t work well, and has a long road ahead of it](https://appleinsider.com/articles/24/05/01/gms-carplay-replacement-doesnt-work-well-and-has-a-long-road-ahead-of-it?utm_medium=rss)
- - [Apple&#39;s iOS 18 to streamline task management with unified events and reminders](https://appleinsider.com/articles/24/05/01/apples-ios-18-to-streamline-task-management-with-unified-events-and-reminders?utm_medium=rss)
- - [Elliptic, MIT, and IBM release an experimental new AI detection model and its 200M-transaction training dataset to help identify Bitcoin money laundering &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/240501/p19#a240501p19)<!-- TECH:END -->
+ - [Apple&#39;s iOS 18 to streamline task management with unified events and reminders](https://appleinsider.com/articles/24/05/01/apples-ios-18-to-streamline-task-management-with-unified-events-and-reminders?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

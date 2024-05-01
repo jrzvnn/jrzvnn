@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Substack now lets writers paywall their Chat discussion spaces and says active Chat participants are 12% more likely to retain their subscriptions &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240501/p33#a240501p33)
  - [AI security bill aims to prevent safety breaches of AI models](https://www.theverge.com/2024/5/1/24146566/ai-security-bill-warner-tillis-senate-redteam-safety)
  - [Airbnb launches Icons, a new category of experiences that lets users meet celebrities and stay in outlandish venues, like a replica of the house from Pixar&#39;s Up &lpar;Orlando Mayorqu&amp;iacute;n/New York Times&rpar;](http://www.techmeme.com/240501/p32#a240501p32)
  - [T-Mobile Closes Mint Mobile Deal, Promises to Keep $15 Monthly Plan Option     - CNET](https://www.cnet.com/tech/mobile/t-mobile-closes-mint-mobile-deal-promises-to-keep-15-monthly-plan-option/#ftag=CAD590a51e)
- - [T-Mobile owns Mint Mobile](https://www.theverge.com/2024/5/1/24146547/t-mobile-mint-mobile-acquisition-complete)
- - [Amazon Q Is an AI Tool That Handles Workplace Queries and Writes Code     - CNET](https://www.cnet.com/tech/services-and-software/amazon-q-is-an-ai-tool-that-handles-workplace-queries-and-writes-code/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [T-Mobile owns Mint Mobile](https://www.theverge.com/2024/5/1/24146547/t-mobile-mint-mobile-acquisition-complete)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

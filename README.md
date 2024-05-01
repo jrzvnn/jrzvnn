@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [People here don&#39;t give a f**k](http://9gag.com/gag/amoXoKX)
- - 😝 [Pick your side](http://9gag.com/gag/avy0WWM)
- - 💣 [If you have forgotten this video, I haven&#39;t. This is a perfect example of what sandpeople are. Yet they are coming in millions in Europe.](http://9gag.com/gag/ae9N9op)
- - 😝 [She belongs to the streets now](http://9gag.com/gag/avy0AYq)
- - 👉 [German ambassador almost got lynched in Ramallah](http://9gag.com/gag/an7YOb5)<!-- MEMES:END -->
+ - 😝 [German kids singing `foreigners out` in a nightclub.](http://9gag.com/gag/a87W6Wd)
+ - 😝 [New fear unlocked](http://9gag.com/gag/agmygzw)
+ - 💣 [A Mother&#39;s Love.](http://9gag.com/gag/aNDeP4A)
+ - 😝 [How long did it take you?](http://9gag.com/gag/aZZPrnp)
+ - 👉 [If you have forgotten this video, I haven&#39;t. This is a perfect example of what sandpeople are. Yet they are coming in millions in Europe.](http://9gag.com/gag/ae9N9op)<!-- MEMES:END -->
 
 ---
 

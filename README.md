@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LG first to add native Apple Music Dolby Atmos support to smart TVs](https://appleinsider.com/articles/24/05/01/lg-first-to-add-native-apple-music-dolby-atmos-support-to-smart-tvs?utm_medium=rss)
+ - [The next Batman: Arkham game is a Meta Quest exclusive](https://www.theverge.com/24145849/batman-arkham-shadow-trailer-vr-meta-quest-3-exclusive)
+ - [Apple Vision Pro could launch in Japan very soon](https://appleinsider.com/articles/24/05/01/apple-vision-pro-could-launch-in-japan-very-soon?utm_medium=rss)
  - [It’s getting harder to get Google Search to show AR animals](https://www.theverge.com/2024/4/29/24144735/google-ar-search-3d-objects-missing)
- - [LinkedIn launches three Wordle-style puzzle games: theme-based guessing game Pinpoint, Sudoku and Minesweeper-style crossover Queens, and trivia game Crossclimb &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/240501/p21#a240501p21)
- - [In a letter to the US Labor Department, Google says the US could lose out on valuable AI and tech talent if some of its immigration policies are not modernized &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240501/p20#a240501p20)
- - [LinkedIn is the latest company to get in on gaming](https://www.theverge.com/24145605/linkedin-gaming-puzzle-game-nyt-wordle-netflix-games)
- - [GM&#39;s CarPlay replacement doesn&#39;t work well, and has a long road ahead of it](https://appleinsider.com/articles/24/05/01/gms-carplay-replacement-doesnt-work-well-and-has-a-long-road-ahead-of-it?utm_medium=rss)<!-- TECH:END -->
+ - [LinkedIn launches three Wordle-style puzzle games: theme-based guessing game Pinpoint, Sudoku and Minesweeper-style crossover Queens, and trivia game Crossclimb &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/240501/p21#a240501p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

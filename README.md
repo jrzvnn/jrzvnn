@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And that tells you everything you need to know about the Grammy awards.](http://9gag.com/gag/aO8qZdE)
- - 😝 [Fcckkk!! I didn&#39;t know Wasp had an archenemy. This bird is now my favorite bird!](http://9gag.com/gag/aRBQZ2q)
- - 💣 [We\u2019ve all been there](http://9gag.com/gag/aAyYE89)
- - 😝 [A wise decision.](http://9gag.com/gag/amoX6E9)
- - 👉 [Coach was like. I taught you everything you know but NOT everything I know](http://9gag.com/gag/aW4ZLQ2)<!-- MEMES:END -->
+ - 😝 [Pick your side](http://9gag.com/gag/avy0WWM)
+ - 😝 [German ambassador almost got lynched in Ramallah](http://9gag.com/gag/an7YOb5)
+ - 💣 [\u2026\u2026..](http://9gag.com/gag/aMV1Pox)
+ - 😝 [People here don&#39;t give a f**k](http://9gag.com/gag/amoXoKX)
+ - 👉 [Deal can&#39;t reach!.](http://9gag.com/gag/aPAvxzQ)<!-- MEMES:END -->
 
 ---
 

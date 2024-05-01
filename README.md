@@ -171,10 +171,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [People here don&#39;t give a f**k](http://9gag.com/gag/amoXoKX)
- - 😝 [Female youtuber face judge](http://9gag.com/gag/a87WqWp)
- - 💣 [German kids singing `foreigners out` in a nightclub.](http://9gag.com/gag/a87W6Wd)
- - 😝 [She belongs to the streets now](http://9gag.com/gag/avy0AYq)
- - 👉 [Oopsie](http://9gag.com/gag/azxbdzp)<!-- MEMES:END -->
+ - 😝 [Pick your side](http://9gag.com/gag/avy0WWM)
+ - 💣 [Can someone explain what the logic is for grown woman to have sex with young boys?](http://9gag.com/gag/aByKnzA)
+ - 😝 [German ambassador almost got lynched in Ramallah](http://9gag.com/gag/an7YOb5)
+ - 👉 [Female youtuber face judge](http://9gag.com/gag/a87WqWp)<!-- MEMES:END -->
 
 ---
 

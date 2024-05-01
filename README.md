@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bluey says...](http://9gag.com/gag/aoyz3jx)
- - 😝 [Y u internet](http://9gag.com/gag/an7YOEn)
- - 💣 [El Salvador was almost destroyed by organized gang crime. The new president Nayib Bukele declared war on them and jailed over 12,000 gang members. The second war is against corruption. All ruling peaks in the country are now to be investigated. Interesting!](http://9gag.com/gag/awyrgOr)
- - 😝 [Curse white ppl for loving black kids more than their own parents.](http://9gag.com/gag/aQzqzKz)
- - 👉 [BBC just got nuked by community notes](http://9gag.com/gag/aW4Zp76)<!-- MEMES:END -->
+ - 😝 [WHAT THE ACTUAL F**K](http://9gag.com/gag/aQzqz0e)
+ - 😝 [Lets slide..](http://9gag.com/gag/aQzqE68)
+ - 💣 [I also want ice cream. Life is so unfair](http://9gag.com/gag/aZZPnpz)
+ - 😝 [It should&#39;ve been me](http://9gag.com/gag/aGy9zY7)
+ - 👉 [New fear unlocked](http://9gag.com/gag/agmygzw)<!-- MEMES:END -->
 
 ---
 

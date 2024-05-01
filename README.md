@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [El Salvador was almost destroyed by organized gang crime. The new president Nayib Bukele declared war on them and jailed over 12,000 gang members. The second war is against corruption. All ruling peaks in the country are now to be investigated. Interesting!](http://9gag.com/gag/awyrgOr)
- - 😝 [Shock treatment for turds](http://9gag.com/gag/aGy9E07)
- - 💣 [BBC just got nuked by community notes](http://9gag.com/gag/aW4Zp76)
- - 😝 [Curse white ppl for loving black kids more than their own parents.](http://9gag.com/gag/aQzqzKz)
- - 👉 [Y u internet](http://9gag.com/gag/an7YOEn)<!-- MEMES:END -->
+ - 😝 [Just a little peek](http://9gag.com/gag/aqymRXL)
+ - 😝 [She belongs to the streets now](http://9gag.com/gag/avy0AYq)
+ - 💣 [German ambassador almost got lynched in Ramallah](http://9gag.com/gag/an7YOb5)
+ - 😝 [New fear unlocked](http://9gag.com/gag/agmygzw)
+ - 👉 [Always work](http://9gag.com/gag/aAyYyng)<!-- MEMES:END -->
 
 ---
 

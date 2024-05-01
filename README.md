@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If you have forgotten this video, I haven&#39;t. This is a perfect example of what sandpeople are. Yet they are coming in millions in Europe.](http://9gag.com/gag/ae9N9op)
- - 😝 [We\u2019ve all been there](http://9gag.com/gag/aAyYE89)
- - 💣 [5 star service right there](http://9gag.com/gag/avy0ezX)
- - 😝 [Coach was like. I taught you everything you know but NOT everything I know](http://9gag.com/gag/aW4ZLQ2)
- - 👉 [Title](http://9gag.com/gag/aO8q4Zr)<!-- MEMES:END -->
+ - 😝 [Jokes writing themselves](http://9gag.com/gag/aLnKe3v)
+ - 😝 [Bird is sucked in to jet\u2019s engine causing it to crash](http://9gag.com/gag/a7o5ozw)
+ - 💣 [German ambassador almost got lynched in Ramallah](http://9gag.com/gag/an7YOb5)
+ - 😝 [After waiting a decade for the perfect pearl](http://9gag.com/gag/a4P4zNy)
+ - 👉 [If you have forgotten this video, I haven&#39;t. This is a perfect example of what sandpeople are. Yet they are coming in millions in Europe.](http://9gag.com/gag/ae9N9op)<!-- MEMES:END -->
 
 ---
 

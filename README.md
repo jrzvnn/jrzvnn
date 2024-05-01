@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&lpar;PRODUCT&rpar;RED is getting our hopes up for a red iPhone 15](https://appleinsider.com/articles/24/05/01/productred-is-getting-our-hopes-up-for-a-red-iphone-15?utm_medium=rss)
+ - [Ofcom opens an investigation into OnlyFans over its measures to stop children from accessing porn, after reviewing its &quot;response to formal information requests&quot; &lpar;Yadarisa Shabong/Reuters&rpar;](http://www.techmeme.com/240501/p15#a240501p15)
+ - [Acer Swift Go 14 &lpar;2024&rpar; Review: Great Power for Under $1,000](https://www.wired.com/review/acer-swift-go-14-2024/)
  - [A look at GM&#39;s risky bet to replace Apple&#39;s CarPlay with its own infotainment system, gambling on its software group, as carmakers worry over Apple&#39;s power &lpar;Bloomberg&rpar;](http://www.techmeme.com/240501/p14#a240501p14)
- - [Samsung has the smartphone sales top spot, but not because of AI or Apple weakness](https://appleinsider.com/articles/24/05/01/samsung-has-the-smartphone-sales-top-spot-but-not-because-of-ai-or-apple-weakness?utm_medium=rss)
- - [Instagram Is My Eden of Delusion. I Never Want to Leave](https://www.wired.com/story/instagram-is-my-eden-of-delusion-i-never-want-to-leave/)
- - [TikTok seems to be dodging App Store commissions in Epic fashion](https://www.theverge.com/2024/5/1/24146142/tiktok-coins-dodge-apple-app-store-commission-epic)
- - [DOJ v. Google: Microsoft invested in OpenAI over fears of falling behind Google; Kevin Scott said he was &quot;very, very worried&quot; in a 2019 email to Satya Nadella &lpar;Bloomberg&rpar;](http://www.techmeme.com/240501/p13#a240501p13)<!-- TECH:END -->
+ - [Samsung has the smartphone sales top spot, but not because of AI or Apple weakness](https://appleinsider.com/articles/24/05/01/samsung-has-the-smartphone-sales-top-spot-but-not-because-of-ai-or-apple-weakness?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

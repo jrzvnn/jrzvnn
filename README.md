@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Changpeng Zhao&#39;s short sentence suggests he had some leverage, and the hearing had references to sealed documents and &quot;cooperation&quot;, perhaps over user details &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/240501/p17#a240501p17)
  - [US NTIA head Alan Davidson says Starlink is an option in extremely remote areas where running fiber is pricey, as part of the $42B high speed internet program &lpar;Eva Dou/Washington Post&rpar;](http://www.techmeme.com/240501/p16#a240501p16)
  - [Apple TV+ drops MLS Season Pass price for remainder of the season](https://appleinsider.com/articles/24/05/01/apple-tv-drops-mls-season-pass-price-for-remainder-of-the-season?utm_medium=rss)
  - [TAG Heuer Kith Formula 1 Watch 2024: Prices, Specs, Availability](https://www.wired.com/story/tag-heuer-kith-formula-1-watch-reborn-2024/)
- - [I have some questions about what Changpeng Zhao gave to the feds](https://www.theverge.com/2024/5/1/24145736/binance-cz-changpeng-zhao-plea-agreement)
- - [Silicon Valley is enamored with a company that pumps poop underground](https://www.theverge.com/2024/5/1/24145535/silicon-valley-climate-tech-carbon-removal-vaulted-deep-frontier)<!-- TECH:END -->
+ - [I have some questions about what Changpeng Zhao gave to the feds](https://www.theverge.com/2024/5/1/24145736/binance-cz-changpeng-zhao-plea-agreement)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

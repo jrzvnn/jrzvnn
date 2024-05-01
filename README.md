@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Google laid off at least 200 employees from its &quot;Core&quot; teams, including its Python developer team, and plans to move some roles to Mexico and India &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/240501/p30#a240501p30)
+ - [This Qi2 3-in-1 charger has the best price we’ve seen from any brand](https://www.theverge.com/2024/5/1/24146244/amazon-esr-qi2-3-in-1-wireless-charger-thermacell-mosquito-repellent-deal-sale)
  - [Starfield is finally getting a 60fps mode on Xbox](https://www.theverge.com/2024/5/1/24146366/starfield-60fps-mode-xbox-series-x)
  - [iPhone 15 Pro is unexpectedly the sales champion of spring 2024](https://appleinsider.com/articles/24/05/01/iphone-15-pro-is-unexpectedly-the-sales-champion-of-spring-2024?utm_medium=rss)
- - [Amazon-funded Anthropic launches AI app to compete with ChatGPT](https://appleinsider.com/articles/24/05/01/anthropics-claude-ai-has-arrived-on-the-iphone-and-ipad?utm_medium=rss)
- - [NOW Offers No-Contract Mobile, Internet, and TV for One Low Monthly Price     - CNET](https://www.cnet.com/tech/mobile/now-offers-no-contract-mobile-internet-and-tv-for-one-low-monthly-price/#ftag=CAD590a51e)
- - [Save $10 on This TP-Link Smart Outlet Extender on Amazon     - CNET](https://www.cnet.com/deals/save-10-on-this-tp-link-smart-outlet-extender-on-amazon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon-funded Anthropic launches AI app to compete with ChatGPT](https://appleinsider.com/articles/24/05/01/anthropics-claude-ai-has-arrived-on-the-iphone-and-ipad?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

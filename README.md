@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cooking skills](http://9gag.com/gag/aMV1VdM)
- - 😝 [Funny coz](http://9gag.com/gag/ajPrVGq)
- - 💣 [German kids singing `foreigners out` in a nightclub.](http://9gag.com/gag/a87W6Wd)
- - 😝 [Always work](http://9gag.com/gag/aAyYyng)
- - 👉 [Female youtuber face judge](http://9gag.com/gag/a87WqWp)<!-- MEMES:END -->
+ - 😝 [Curse white ppl for loving black kids more than their own parents.](http://9gag.com/gag/aQzqzKz)
+ - 😝 [Coach was like. I taught you everything you know but NOT everything I know](http://9gag.com/gag/aW4ZLQ2)
+ - 💣 [Y u internet](http://9gag.com/gag/an7YOEn)
+ - 😝 [Laquisha, no!](http://9gag.com/gag/abA5eOv)
+ - 👉 [Always work](http://9gag.com/gag/aAyYyng)<!-- MEMES:END -->
 
 ---
 

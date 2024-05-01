@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Officers with the NYPD as well as the Deputy Commissioner of Operations, Kaz Daughtry seen Removing the Palestinian Flag and raising the American Flag at City College in New York City.](http://9gag.com/gag/aVvOE3M)
- - 😝 [If you have forgotten this video, I haven&#39;t. This is a perfect example of what sandpeople are. Yet they are coming in millions in Europe.](http://9gag.com/gag/ae9N9op)
- - 💣 [5 star service right there](http://9gag.com/gag/avy0ezX)
- - 😝 [Coach was like. I taught you everything you know but NOT everything I know](http://9gag.com/gag/aW4ZLQ2)
- - 👉 [Fcckkk!! I didn&#39;t know Wasp had an archenemy. This bird is now my favorite bird!](http://9gag.com/gag/aRBQZ2q)<!-- MEMES:END -->
+ - 😝 [Jokes writing themselves](http://9gag.com/gag/aLnKe3v)
+ - 😝 [Always work](http://9gag.com/gag/aAyYyng)
+ - 💣 [After waiting a decade for the perfect pearl](http://9gag.com/gag/a4P4zNy)
+ - 😝 [People here don&#39;t give a f**k](http://9gag.com/gag/amoXoKX)
+ - 👉 [If you have forgotten this video, I haven&#39;t. This is a perfect example of what sandpeople are. Yet they are coming in millions in Europe.](http://9gag.com/gag/ae9N9op)<!-- MEMES:END -->
 
 ---
 

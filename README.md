@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia updates its ChatRTX chatbot, formerly &quot;Chat with RTX&quot;, to add support for voice queries and three AI models: Google&#39;s Gemma, ChatGLM3, and OpenAI&#39;s CLIP &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240501/p37#a240501p37)
+ - [LinkedIn Boards the Wordle Train and Launches 3 Online Games     - CNET](https://www.cnet.com/tech/services-and-software/linkedin-boards-the-wordle-train-and-launches-3-online-games/#ftag=CAD590a51e)
+ - [Best Buy and Walmart Knock 20% Off the Bose SoundLink Flex     - CNET](https://www.cnet.com/deals/best-buy-walmart-knock-20-off-the-bose-soundlink-flex/#ftag=CAD590a51e)
  - [eBay reports Q1 revenue up 2% YoY to $2.56B, vs. $2.53B est., GMV up 1% to $18.6B, net income down 23% to $439M, and forecasts Q2 revenue below estimates &lpar;Yuvraj Malik/Reuters&rpar;](http://www.techmeme.com/240501/p36#a240501p36)
- - [Crunchyroll is about to get a little more expensive, just like all the other streamers](https://www.theverge.com/2024/5/1/24146651/crunchyroll-price-increase-subscription-anime)
- - [How to play Netflix’s cloud games without waiting for an invitation](https://www.theverge.com/2024/5/1/24146634/netflix-cloud-gaming-streaming-pc-windows)
- - [DoorDash reports Q1 revenue up 23% YoY to $2.51B, vs. $2.45B est., total orders up 21% YoY, and forecasts Q2 core profit below est.; DASH drops 9%+ after hours &lpar;Reuters&rpar;](http://www.techmeme.com/240501/p35#a240501p35)
- - [Walmart is about to launch a 4K Chromecast that’s also a smart speaker](https://www.theverge.com/2024/5/1/24146446/walmart-onn-pro-4k-streaming-chromecast-google-assistant-smart-speaker)<!-- TECH:END -->
+ - [Crunchyroll is about to get a little more expensive, just like all the other streamers](https://www.theverge.com/2024/5/1/24146651/crunchyroll-price-increase-subscription-anime)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

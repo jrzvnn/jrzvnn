@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New Jersey-based CoreWeave, which rents out chips to help create AI systems, raised $1.1B led by Coatue at a $19B valuation, five months after raising $642M &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/240501/p24#a240501p24)
  - [Apple profiles three distinguished Swift Student Challenge winners](https://appleinsider.com/articles/24/05/01/apple-profiles-three-distinguished-swift-student-challenge-winners?utm_medium=rss)
  - [How to get more space in your Google storage](https://www.theverge.com/22286339/google-drive-storage-more-space-how-to-photos-files)
  - [Reuters/Ipsos poll: 58% agree with the statement that the Chinese government uses TikTok to &quot;influence American public opinion&quot;; 50% support a TikTok ban &lpar;Reuters&rpar;](http://www.techmeme.com/240501/p23#a240501p23)
- - [Meta announces Batman: Arkham Shadow, the next entry in the iconic Batman: Arkham video game series, exclusive to the Meta Quest 3 and launching later in 2024 &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/240501/p22#a240501p22)
- - [Samsung has the smartphone sales top spot, but not because of AI or Apple weakness](https://appleinsider.com/articles/24/05/01/samsung-has-the-smartphone-sales-top-spot-but-not-because-of-ai-or-apple-weakness?utm_medium=rss)<!-- TECH:END -->
+ - [Meta announces Batman: Arkham Shadow, the next entry in the iconic Batman: Arkham video game series, exclusive to the Meta Quest 3 and launching later in 2024 &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/240501/p22#a240501p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

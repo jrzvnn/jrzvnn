@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Unity names ex-Zynga COO Matthew Bromberg as its new CEO, president, and board member; ex-CEO John Riccitiello resigned in October 2023 after a pricing fiasco &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240501/p38#a240501p38)
  - [UnitedHealth CEO admits it paid $22 million ransom to BlackCat](https://www.theverge.com/2024/5/1/24146693/unitedhealth-22-million-ransom-ransomware-hack-blackcat)
  - [How Sidechat Fanned the Flames of University Campus Protests](https://www.wired.com/story/how-sidechat-fanned-the-flames-of-university-campus-protests/)
  - [Nvidia updates its ChatRTX chatbot, formerly &quot;Chat with RTX&quot;, to add support for voice queries and three AI models: Google&#39;s Gemma, ChatGLM3, and OpenAI&#39;s CLIP &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240501/p37#a240501p37)
- - [LinkedIn Boards the Wordle Train and Launches 3 Online Games     - CNET](https://www.cnet.com/tech/services-and-software/linkedin-boards-the-wordle-train-and-launches-3-online-games/#ftag=CAD590a51e)
- - [Best Buy and Walmart Knock 20% Off the Bose SoundLink Flex     - CNET](https://www.cnet.com/deals/best-buy-walmart-knock-20-off-the-bose-soundlink-flex/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [LinkedIn Boards the Wordle Train and Launches 3 Online Games     - CNET](https://www.cnet.com/tech/services-and-software/linkedin-boards-the-wordle-train-and-launches-3-online-games/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

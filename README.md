@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pick your side](http://9gag.com/gag/avy0WWM)
- - 😝 [German ambassador almost got lynched in Ramallah](http://9gag.com/gag/an7YOb5)
- - 💣 [\u2026\u2026..](http://9gag.com/gag/aMV1Pox)
- - 😝 [People here don&#39;t give a f**k](http://9gag.com/gag/amoXoKX)
- - 👉 [Deal can&#39;t reach!.](http://9gag.com/gag/aPAvxzQ)<!-- MEMES:END -->
+ - 😝 [Students in Flanders - Belgium were asked to bring a flag of their choice to school. Guy brings Flemish flag. Student had to hand it in because it could be &#39;provocative&#39; to other students.](http://9gag.com/gag/aD202Xd)
+ - 😝 [Just a little peek](http://9gag.com/gag/aqymRXL)
+ - 💣 [I also want ice cream. Life is so unfair](http://9gag.com/gag/aZZPnpz)
+ - 😝 [German kids singing `foreigners out` in a nightclub.](http://9gag.com/gag/a87W6Wd)
+ - 👉 [A wise decision.](http://9gag.com/gag/amoX6E9)<!-- MEMES:END -->
 
 ---
 

@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best Marriage Ever](http://9gag.com/gag/aPAvZrB)
- - 😝 [German kids singing `foreigners out` in a nightclub.](http://9gag.com/gag/a87W6Wd)
- - 💣 [Female youtuber face judge](http://9gag.com/gag/a87WqWp)
- - 😝 [I know... But this is t*ts.](http://9gag.com/gag/a0e9ZVq)
- - 👉 [Deal can&#39;t reach!.](http://9gag.com/gag/aPAvxzQ)<!-- MEMES:END -->
+ - 😝 [Coach was like. I taught you everything you know but NOT everything I know](http://9gag.com/gag/aW4ZLQ2)
+ - 😝 [Curse white ppl for loving black kids more than their own parents.](http://9gag.com/gag/aQzqzKz)
+ - 💣 [She needs to learn to appease the Wall People](http://9gag.com/gag/agmy1nw)
+ - 😝 [Officers with the NYPD as well as the Deputy Commissioner of Operations, Kaz Daughtry seen Removing the Palestinian Flag and raising the American Flag at City College in New York City.](http://9gag.com/gag/aVvOE3M)
+ - 👉 [Y u internet](http://9gag.com/gag/an7YOEn)<!-- MEMES:END -->
 
 ---
 

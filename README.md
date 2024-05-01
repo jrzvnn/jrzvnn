@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I also want ice cream. Life is so unfair](http://9gag.com/gag/aZZPnpz)
- - 😝 [I just told you i&#39;ve already bought it, harry. you don&#39;t need to sell it to me](http://9gag.com/gag/aD20nGN)
- - 💣 [German ambassador almost got lynched in Ramallah](http://9gag.com/gag/an7YOb5)
- - 😝 [Something about a Japanese woman and how to make a beverage for an old Japanese man. There&#39;s no sushi involved but cantaloupes are immense.](http://9gag.com/gag/aoyzVDA)
- - 👉 [EmotionalDamage](http://9gag.com/gag/aRBQLp2)<!-- MEMES:END -->
+ - 😝 [5 star service right there](http://9gag.com/gag/avy0ezX)
+ - 😝 [Title](http://9gag.com/gag/aO8q4Zr)
+ - 💣 [Right?](http://9gag.com/gag/aE0wMPo)
+ - 😝 [Fcckkk!! I didn&#39;t know Wasp had an archenemy. This bird is now my favorite bird!](http://9gag.com/gag/aRBQZ2q)
+ - 👉 [Coach was like. I taught you everything you know but NOT everything I know](http://9gag.com/gag/aW4ZLQ2)<!-- MEMES:END -->
 
 ---
 

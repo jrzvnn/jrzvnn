@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UnitedHealth CEO admits it paid $22 million ransom to BlackCat](https://www.theverge.com/2024/5/1/24146693/unitedhealth-22-million-ransom-ransomware-hack-blackcat)
  - [How Sidechat Fanned the Flames of University Campus Protests](https://www.wired.com/story/how-sidechat-fanned-the-flames-of-university-campus-protests/)
  - [Nvidia updates its ChatRTX chatbot, formerly &quot;Chat with RTX&quot;, to add support for voice queries and three AI models: Google&#39;s Gemma, ChatGLM3, and OpenAI&#39;s CLIP &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240501/p37#a240501p37)
  - [LinkedIn Boards the Wordle Train and Launches 3 Online Games     - CNET](https://www.cnet.com/tech/services-and-software/linkedin-boards-the-wordle-train-and-launches-3-online-games/#ftag=CAD590a51e)
- - [Best Buy and Walmart Knock 20% Off the Bose SoundLink Flex     - CNET](https://www.cnet.com/deals/best-buy-walmart-knock-20-off-the-bose-soundlink-flex/#ftag=CAD590a51e)
- - [eBay reports Q1 revenue up 2% YoY to $2.56B, vs. $2.53B est., GMV up 1% to $18.6B, net income down 23% to $439M, and forecasts Q2 revenue below estimates &lpar;Yuvraj Malik/Reuters&rpar;](http://www.techmeme.com/240501/p36#a240501p36)<!-- TECH:END -->
+ - [Best Buy and Walmart Knock 20% Off the Bose SoundLink Flex     - CNET](https://www.cnet.com/deals/best-buy-walmart-knock-20-off-the-bose-soundlink-flex/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Jersey-based CoreWeave, which rents out chips to help create AI systems, raised $1.1B led by Coatue at a $19B valuation, five months after raising $642M &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/240501/p24#a240501p24)
- - [Apple profiles three distinguished Swift Student Challenge winners](https://appleinsider.com/articles/24/05/01/apple-profiles-three-distinguished-swift-student-challenge-winners?utm_medium=rss)
- - [How to get more space in your Google storage](https://www.theverge.com/22286339/google-drive-storage-more-space-how-to-photos-files)
- - [Reuters/Ipsos poll: 58% agree with the statement that the Chinese government uses TikTok to &quot;influence American public opinion&quot;; 50% support a TikTok ban &lpar;Reuters&rpar;](http://www.techmeme.com/240501/p23#a240501p23)
- - [Meta announces Batman: Arkham Shadow, the next entry in the iconic Batman: Arkham video game series, exclusive to the Meta Quest 3 and launching later in 2024 &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/240501/p22#a240501p22)<!-- TECH:END -->
+ - [LastPass goes independent over a year after serious breaches](https://www.theverge.com/2024/5/1/24146205/lastpass-independent-company-security-breaches)
+ - [Anthropic launches Team, a new enterprise plan that offers access to its Claude 3 Opus, Sonnet, and Haiku models for $30/user/month and a free iOS app &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/240501/p25#a240501p25)
+ - [Save $200 on this 14-inch MacBook Pro M3 Pro with 36GB RAM, 1TB SSD](https://appleinsider.com/articles/24/05/01/save-200-on-this-14-inch-macbook-pro-m3-pro-with-36gb-ram-1tb-ssd?utm_medium=rss)
+ - [Coconu Wave Massager Review: A Vibrator With Arousing Asymmetry](https://www.wired.com/review/coconu-wave-massager/)
+ - [Anthropic finally releases a Claude mobile app](https://www.theverge.com/2024/5/1/24145983/anthropic-claude3-model-mobile-app-team-plan)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

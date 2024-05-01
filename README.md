@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In tests run by executives in advertising, animation, and real estate, OpenAI&#39;s Sora generated people with more realistic facial features than Runway or Pika &lpar;Financial Times&rpar;](http://www.techmeme.com/240501/p4#a240501p4)
  - [Taiwan&#39;s KYEC, one of the largest chip testing and packaging services firms, divests its entire stake in a Suzhou, China-based subsidiary citing US restrictions &lpar;Kelly Le/South China Morning Post&rpar;](http://www.techmeme.com/240501/p3#a240501p3)
  - [Google Phone app beta rolls out &quot;Audio Emoji&quot;, letting callers select an emoji to play animated sound effects: clapping, laughing, party, crying, poop, sting &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240501/p2#a240501p2)
  - [Nevada Solar Panel Incentives: Rebates, Tax Credits and More     - CNET](https://www.cnet.com/home/energy-and-utilities/nevada-solar-panel-incentives-rebates-tax-credits-and-more/#ftag=CAD590a51e)
- - [Filing: API Holdings, the parent firm of Indian online pharmacy PharmEasy, raises $216M at a $710M valuation, down ~90% from its peak valuation of $5.6B in 2021 &lpar;Entrackr&rpar;](http://www.techmeme.com/240501/p1#a240501p1)
- - [Turns out the Rabbit R1 was just an Android app all along](https://www.theverge.com/2024/4/30/24145838/rabbit-r1-android-app-pixel-6a)<!-- TECH:END -->
+ - [Filing: API Holdings, the parent firm of Indian online pharmacy PharmEasy, raises $216M at a $710M valuation, down ~90% from its peak valuation of $5.6B in 2021 &lpar;Entrackr&rpar;](http://www.techmeme.com/240501/p1#a240501p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

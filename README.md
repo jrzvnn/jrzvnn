@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Coach was like. I taught you everything you know but NOT everything I know](http://9gag.com/gag/aW4ZLQ2)
- - 😝 [Curse white ppl for loving black kids more than their own parents.](http://9gag.com/gag/aQzqzKz)
- - 💣 [She needs to learn to appease the Wall People](http://9gag.com/gag/agmy1nw)
- - 😝 [Officers with the NYPD as well as the Deputy Commissioner of Operations, Kaz Daughtry seen Removing the Palestinian Flag and raising the American Flag at City College in New York City.](http://9gag.com/gag/aVvOE3M)
- - 👉 [Y u internet](http://9gag.com/gag/an7YOEn)<!-- MEMES:END -->
+ - 😝 [Bird is sucked in to jet\u2019s engine causing it to crash](http://9gag.com/gag/a7o5ozw)
+ - 😝 [German ambassador almost got lynched in Ramallah](http://9gag.com/gag/an7YOb5)
+ - 💣 [Deal can&#39;t reach!.](http://9gag.com/gag/aPAvxzQ)
+ - 😝 [Female youtuber face judge](http://9gag.com/gag/a87WqWp)
+ - 👉 [I know... But this is t*ts.](http://9gag.com/gag/a0e9ZVq)<!-- MEMES:END -->
 
 ---
 

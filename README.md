@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LastPass separates from GoTo, which announced the spinoff in December 2021, six years after buying LastPass; the service suffered high profile hacks in 2022 &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240501/p26#a240501p26)
  - [Costa Rica restored its forests and switched to renewable energy — what can the world learn from it?](https://www.theverge.com/24146299/costa-rica-forest-restoration-renewable-energy-lessons)
  - [LastPass goes independent over a year after serious breaches](https://www.theverge.com/2024/5/1/24146205/lastpass-independent-company-security-breaches)
  - [Anthropic launches a free iOS app and Team, its first enterprise plan, which offers access to its Claude 3 Opus, Sonnet, and Haiku models for $30/user/month &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/240501/p25#a240501p25)
- - [Save $200 on this 14-inch MacBook Pro M3 Pro with 36GB RAM, 1TB SSD](https://appleinsider.com/articles/24/05/01/save-200-on-this-14-inch-macbook-pro-m3-pro-with-36gb-ram-1tb-ssd?utm_medium=rss)
- - [Coconu Wave Massager Review: A Vibrator With Arousing Asymmetry](https://www.wired.com/review/coconu-wave-massager/)<!-- TECH:END -->
+ - [Save $200 on this 14-inch MacBook Pro M3 Pro with 36GB RAM, 1TB SSD](https://appleinsider.com/articles/24/05/01/save-200-on-this-14-inch-macbook-pro-m3-pro-with-36gb-ram-1tb-ssd?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

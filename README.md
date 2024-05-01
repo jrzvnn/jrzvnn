@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anthropic&#39;s Claude AI has arrived on the iPhone and iPad](https://appleinsider.com/articles/24/05/01/anthropics-claude-ai-has-arrived-on-the-iphone-and-ipad?utm_medium=rss)
+ - [A Lawsuit Argues Meta Is Required by Law to Let You Control Your Own Feed](https://www.wired.com/story/meta-section-230-users-algorithm/)
  - [The US Government Is Asking Big Tech to Promise Better Cybersecurity](https://www.wired.com/story/cisa-cybersecurity-pledge/)
  - [Q&amp;A with White House Office of Science and Technology Policy Director Arati Prabhakar on her role, working at DARPA, AI, showing ChatGPT to Biden, and more &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/240501/p28#a240501p28)
- - [Audible tries book recommendations based on your streaming history](https://www.theverge.com/2024/5/1/24146317/audible-audiobook-recommendations-prime-video-history)
- - [Sources: US federal prosecutors are digging into internal practices at Block, discussing with an ex-employee alleged widespread and yearslong compliance lapses &lpar;Gretchen Morgenson/NBC News&rpar;](http://www.techmeme.com/240501/p27#a240501p27)
- - [LastPass separates from GoTo, which announced the spinoff in December 2021, six years after buying LastPass; the service suffered high profile hacks in 2022 &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240501/p26#a240501p26)<!-- TECH:END -->
+ - [Audible tries book recommendations based on your streaming history](https://www.theverge.com/2024/5/1/24146317/audible-audiobook-recommendations-prime-video-history)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

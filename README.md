@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to delete iCloud messages on Mac &amp; iPhone](https://appleinsider.com/inside/imessage/tips/how-to-delete-icloud-messages-on-mac-iphone?utm_medium=rss)
  - [Esther Crawford joins Meta&#39;s Messenger team as director of product; Crawford was Twitter&#39;s director of product management before being laid off in February 2023 &lpar;Kwan Wei Kevin Tan/Business Insider&rpar;](http://www.techmeme.com/240430/p50#a240430p50)
  - [The House Financial Services Committee Chairman Patrick McHenry accuses Gary Gensler of misleading Congress on the SEC&#39;s position on whether ETH is a security &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/240430/p49#a240430p49)
  - [Best Desktop Computer Deals: Save Up to $280 on Lenovo, Apple, HP and More     - CNET](https://www.cnet.com/deals/best-desktop-computer-deals/#ftag=CAD590a51e)
- - [Best Silk Pillowcases for 2024     - CNET](https://www.cnet.com/health/sleep/best-silk-pillowcase/#ftag=CAD590a51e)
- - [Over 50 ex-Google employees, fired in connection with a sit-in protest against Google&#39;s business ties to Israel, file an NLRB complaint for unlawful retaliation &lpar;Gaby Del Valle/The Verge&rpar;](http://www.techmeme.com/240430/p48#a240430p48)<!-- TECH:END -->
+ - [Best Silk Pillowcases for 2024     - CNET](https://www.cnet.com/health/sleep/best-silk-pillowcase/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at GM&#39;s risky bet to replace Apple&#39;s CarPlay with its own infotainment system, gambling on its software group, as carmakers worry over Apple&#39;s power &lpar;Bloomberg&rpar;](http://www.techmeme.com/240501/p14#a240501p14)
  - [Samsung has the smartphone sales top spot, but not because of AI or Apple weakness](https://appleinsider.com/articles/24/05/01/samsung-has-the-smartphone-sales-top-spot-but-not-because-of-ai-or-apple-weakness?utm_medium=rss)
  - [Instagram Is My Eden of Delusion. I Never Want to Leave](https://www.wired.com/story/instagram-is-my-eden-of-delusion-i-never-want-to-leave/)
  - [TikTok seems to be dodging App Store commissions in Epic fashion](https://www.theverge.com/2024/5/1/24146142/tiktok-coins-dodge-apple-app-store-commission-epic)
- - [DOJ v. Google: Microsoft invested in OpenAI over fears of falling behind Google; Kevin Scott said he was &quot;very, very worried&quot; in a 2019 email to Satya Nadella &lpar;Bloomberg&rpar;](http://www.techmeme.com/240501/p13#a240501p13)
- - [Deadly Massachusetts Apple Store crash caused by faulty AI, says defense](https://appleinsider.com/articles/24/05/01/deadly-massachusetts-apple-store-crash-caused-by-faulty-ai-says-defense?utm_medium=rss)<!-- TECH:END -->
+ - [DOJ v. Google: Microsoft invested in OpenAI over fears of falling behind Google; Kevin Scott said he was &quot;very, very worried&quot; in a 2019 email to Satya Nadella &lpar;Bloomberg&rpar;](http://www.techmeme.com/240501/p13#a240501p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

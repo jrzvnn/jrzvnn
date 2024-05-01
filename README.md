@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Reuters/Ipsos poll: 58% agree with the statement that the Chinese government uses TikTok to &quot;influence American public opinion&quot;; 50% support a TikTok ban &lpar;Reuters&rpar;](http://www.techmeme.com/240501/p23#a240501p23)
  - [Meta announces Batman: Arkham Shadow, the next entry in the iconic Batman: Arkham video game series, exclusive to the Meta Quest 3 and launching later in 2024 &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/240501/p22#a240501p22)
  - [Samsung has the smartphone sales top spot, but not because of AI or Apple weakness](https://appleinsider.com/articles/24/05/01/samsung-has-the-smartphone-sales-top-spot-but-not-because-of-ai-or-apple-weakness?utm_medium=rss)
  - [LG first to add native Apple Music Dolby Atmos support to smart TVs](https://appleinsider.com/articles/24/05/01/lg-first-to-add-native-apple-music-dolby-atmos-support-to-smart-tvs?utm_medium=rss)
- - [30 Mother&#39;s Day Gifts Ideas Our Editors Have Tried and Love &lpar;2024&rpar;](https://www.wired.com/gallery/best-mothers-day-gifts-2024/)
- - [The next Batman: Arkham game is a Meta Quest exclusive](https://www.theverge.com/24145849/batman-arkham-shadow-trailer-vr-meta-quest-3-exclusive)<!-- TECH:END -->
+ - [30 Mother&#39;s Day Gifts Ideas Our Editors Have Tried and Love &lpar;2024&rpar;](https://www.wired.com/gallery/best-mothers-day-gifts-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WhatsApp’s new feature lets you plan your next event](https://www.theverge.com/2024/5/1/24146335/whatsapp-group-events-feature-rollout-communities)
+ - [Tesla reportedly shrinks its gigacasting manufacturing ambitions](https://www.theverge.com/2024/5/1/24146463/tesla-gigacasting-underbody-manufacturing-on-hold)
+ - [It’s getting way easier to join PS5 multiplayer games with a friend](https://www.theverge.com/2024/5/1/24146342/ps5-sharable-links-multiplayer-games)
  - [Republicans release tech executives’ internal communications](https://www.theverge.com/24146357/republicans-internal-emails-texts-tech-executives-meta-facebook-white-house)
- - [Sources: Google laid off at least 200 employees from its &quot;Core&quot; teams, including its Python developer team, and plans to move some roles to Mexico and India &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/240501/p30#a240501p30)
- - [This Qi2 3-in-1 charger has the best price we’ve seen from any brand](https://www.theverge.com/2024/5/1/24146244/amazon-esr-qi2-3-in-1-wireless-charger-thermacell-mosquito-repellent-deal-sale)
- - [Starfield is finally getting a 60fps mode on Xbox](https://www.theverge.com/2024/5/1/24146366/starfield-60fps-mode-xbox-series-x)
- - [iPhone 15 Pro is unexpectedly the sales champion of spring 2024](https://appleinsider.com/articles/24/05/01/iphone-15-pro-is-unexpectedly-the-sales-champion-of-spring-2024?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Google laid off at least 200 employees from its &quot;Core&quot; teams, including its Python developer team, and plans to move some roles to Mexico and India &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/240501/p30#a240501p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

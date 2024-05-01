@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Deadly Massachusetts Apple Store crash caused by faulty AI, says defense](https://appleinsider.com/articles/24/05/01/deadly-massachusetts-apple-store-crash-caused-by-faulty-ai-says-defense?utm_medium=rss)
+ - [Sources: Huawei moves Yu Chengdong, the high-profile chief of its consumer business who has held the job since 2012, to a new role as chair of the unit &lpar;Reuters&rpar;](http://www.techmeme.com/240501/p12#a240501p12)
  - [Meet the Woman Who Showed President Biden ChatGPT—and Helped Set the Course for AI](https://www.wired.com/story/arati-prabhakar-ostp-biden-science-tech-adviser/)
  - [Rabbit releases its first R1 software update, with &quot;up to 5x&quot; improved idle battery performance, a better music playback UI, more reliable Bluetooth, and more &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240501/p11#a240501p11)
- - [China implements a revised State Secrets Law, requiring Tencent, Weibo, and other internet companies to delete leaked information and comply with investigations &lpar;Yukio Tajima/Nikkei Asia&rpar;](http://www.techmeme.com/240501/p10#a240501p10)
- - [How bills under consideration in various US states to address AI bias contain loopholes that would make companies avoiding accountability easier &lpar;Politico&rpar;](http://www.techmeme.com/240501/p9#a240501p9)
- - [Moving? Don&#39;t Wait to Set Up Your Internet Service. Here&#39;s How to Do It     - CNET](https://www.cnet.com/home/internet/how-to-set-up-internet-at-a-new-house-or-apartment-everything-you-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [China implements a revised State Secrets Law, requiring Tencent, Weibo, and other internet companies to delete leaked information and comply with investigations &lpar;Yukio Tajima/Nikkei Asia&rpar;](http://www.techmeme.com/240501/p10#a240501p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s iOS 18 to streamline task management with unified events and reminders](https://appleinsider.com/articles/24/05/01/apples-ios-18-to-streamline-task-management-with-unified-events-and-reminders?utm_medium=rss)
+ - [Elliptic, MIT, and IBM release an experimental new AI detection model and its 200M-transaction training dataset to help identify Bitcoin money laundering &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/240501/p19#a240501p19)
  - [iPhone demand is falling, claims component supplier Skyworks](https://appleinsider.com/articles/24/05/01/iphone-demand-is-falling-claims-component-supplier-skyworks?utm_medium=rss)
  - [How an informal supper club became a US tech lobbying force, helping draft the TikTok bill; sources: the group plans to draft an EO to reverse Biden&#39;s AI rules &lpar;Washington Post&rpar;](http://www.techmeme.com/240501/p18#a240501p18)
- - [Apple&#39;s new &quot;Repair State&quot; feature keeps Find My enabled during repairs](https://appleinsider.com/articles/24/04/30/new-repair-state-feature-keeps-find-my-enabled-during-device-repair?utm_medium=rss)
- - [Dell Alienware m16 R2 Review: Gaming Power in a Business Suit](https://www.wired.com/review/dell-alienware-m16-r2/)
- - [A Vast New Dataset Could Supercharge the AI Hunt for Crypto Money Laundering](https://www.wired.com/story/ai-crypto-tracing-model-money-laundering/)<!-- TECH:END -->
+ - [Apple&#39;s new &quot;Repair State&quot; feature keeps Find My enabled during repairs](https://appleinsider.com/articles/24/04/30/new-repair-state-feature-keeps-find-my-enabled-during-device-repair?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

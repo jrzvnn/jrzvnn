@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&lpar;PRODUCT&rpar;RED is getting our hopes up for a red iPhone 15](https://appleinsider.com/articles/24/05/01/productred-is-getting-our-hopes-up-for-a-red-iphone-15?utm_medium=rss)
- - [Ofcom opens an investigation into OnlyFans over its measures to stop children from accessing porn, after reviewing its &quot;response to formal information requests&quot; &lpar;Yadarisa Shabong/Reuters&rpar;](http://www.techmeme.com/240501/p15#a240501p15)
- - [Acer Swift Go 14 &lpar;2024&rpar; Review: Great Power for Under $1,000](https://www.wired.com/review/acer-swift-go-14-2024/)
- - [A look at GM&#39;s risky bet to replace Apple&#39;s CarPlay with its own infotainment system, gambling on its software group, as carmakers worry over Apple&#39;s power &lpar;Bloomberg&rpar;](http://www.techmeme.com/240501/p14#a240501p14)
- - [Samsung has the smartphone sales top spot, but not because of AI or Apple weakness](https://appleinsider.com/articles/24/05/01/samsung-has-the-smartphone-sales-top-spot-but-not-because-of-ai-or-apple-weakness?utm_medium=rss)<!-- TECH:END -->
+ - [US NTIA head Alan Davidson says Starlink is an option in extremely remote areas where running fiber is pricey, as part of the $42B high speed internet program &lpar;Eva Dou/Washington Post&rpar;](http://www.techmeme.com/240501/p16#a240501p16)
+ - [Apple TV+ drops MLS Season Pass price for remainder of the season](https://appleinsider.com/articles/24/05/01/apple-tv-drops-mls-season-pass-price-for-remainder-of-the-season?utm_medium=rss)
+ - [TAG Heuer Kith Formula 1 Watch 2024: Prices, Specs, Availability](https://www.wired.com/story/tag-heuer-kith-formula-1-watch-reborn-2024/)
+ - [I have some questions about what Changpeng Zhao gave to the feds](https://www.theverge.com/2024/5/1/24145736/binance-cz-changpeng-zhao-plea-agreement)
+ - [Silicon Valley is enamored with a company that pumps poop underground](https://www.theverge.com/2024/5/1/24145535/silicon-valley-climate-tech-carbon-removal-vaulted-deep-frontier)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

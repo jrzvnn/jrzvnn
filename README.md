@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice???](http://9gag.com/gag/aE0wV29)
- - 😝 [German kids singing `foreigners out` in a nightclub.](http://9gag.com/gag/a87W6Wd)
- - 💣 [If you have forgotten this video, I haven&#39;t. This is a perfect example of what sandpeople are. Yet they are coming in millions in Europe.](http://9gag.com/gag/ae9N9op)
- - 😝 [5 star service right there](http://9gag.com/gag/avy0ezX)
- - 👉 [Coach was like. I taught you everything you know but NOT everything I know](http://9gag.com/gag/aW4ZLQ2)<!-- MEMES:END -->
+ - 😝 [After waiting a decade for the perfect pearl](http://9gag.com/gag/a4P4zNy)
+ - 😝 [Bird is sucked in to jet\u2019s engine causing it to crash](http://9gag.com/gag/a7o5ozw)
+ - 💣 [Rhodesia](http://9gag.com/gag/a9ydyBZ)
+ - 😝 [New Miss Argentina is 60 years old, would you?](http://9gag.com/gag/awyrgK4)
+ - 👉 [EmotionalDamage](http://9gag.com/gag/aRBQLp2)<!-- MEMES:END -->
 
 ---
 

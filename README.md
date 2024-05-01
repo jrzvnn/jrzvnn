@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 15 Pro is unexpectedly the sales champion of spring 2024](https://appleinsider.com/articles/24/05/01/iphone-15-pro-is-unexpectedly-the-sales-champion-of-spring-2024?utm_medium=rss)
+ - [Amazon-funded Anthropic launches AI app to compete with ChatGPT](https://appleinsider.com/articles/24/05/01/anthropics-claude-ai-has-arrived-on-the-iphone-and-ipad?utm_medium=rss)
  - [Atlassian debuts Rovo, an AI product giving businesses contextual search, insights, and the ability to add custom agents to handle tasks and &quot;complete projects&quot; &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240501/p29#a240501p29)
  - [Microsoft’s billion-dollar OpenAI investment was trigged by Google fears, emails reveal](https://www.theverge.com/2024/5/1/24146302/microsoft-openai-investment-google-worries-internal-emails)
- - [Amazon-funded Anthropic&#39;s launches AI app to compete with ChatGPT](https://appleinsider.com/articles/24/05/01/anthropics-claude-ai-has-arrived-on-the-iphone-and-ipad?utm_medium=rss)
- - [A Lawsuit Argues Meta Is Required by Law to Let You Control Your Own Feed](https://www.wired.com/story/meta-section-230-users-algorithm/)
- - [The US Government Is Asking Big Tech to Promise Better Cybersecurity](https://www.wired.com/story/cisa-cybersecurity-pledge/)<!-- TECH:END -->
+ - [A Lawsuit Argues Meta Is Required by Law to Let You Control Your Own Feed](https://www.wired.com/story/meta-section-230-users-algorithm/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

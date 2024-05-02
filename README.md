@@ -158,11 +158,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Watch&#39;s AFib history feature gets FDA approval for use in clinical studies, the first digital health tech qualified under FDA&#39;s MDDT program &lpar;Sudz Niel Kar/MyHealthyApple&rpar;](http://www.techmeme.com/240502/p44#a240502p44)
  - [Apple charms investors with record $110B stock buyback, dividend hike](https://appleinsider.com/articles/24/05/02/apple-trying-to-charm-investors-with-biggest-stock-buyback-yet-increased-dividend?utm_medium=rss)
  - [Apple Vision Pro a big hit in enterprise](https://appleinsider.com/articles/24/05/02/apple-vision-pro-a-big-hit-in-enterprise?utm_medium=rss)
  - [Block plans to invest 10% of its gross profit from bitcoin products each month into bitcoin purchases; its $220M BTC investment grew by ~160% to $573M as of Q1 &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/240502/p43#a240502p43)
- - [Tim Cook says Apple has &quot;big plans to announce&quot; from an &quot;AI point of view&quot; during its May 7 event, where new iPads are expected, and at WWDC in June &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/240502/p42#a240502p42)
- - [Best Bluetooth Speaker for 2024     - CNET](https://www.cnet.com/tech/home-entertainment/best-bluetooth-speaker/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tim Cook says Apple has &quot;big plans to announce&quot; from an &quot;AI point of view&quot; during its May 7 event, where new iPads are expected, and at WWDC in June &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/240502/p42#a240502p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

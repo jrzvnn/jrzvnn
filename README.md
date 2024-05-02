@@ -15,7 +15,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 &nbsp; 
-
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
 
 - 🚀 Top 4 Github User in the Philipppines. [![committers.top badge](https://user-badge.committers.top/philippines/jrzvnn.svg)](https://user-badge.committers.top/philippines/USERNAME)

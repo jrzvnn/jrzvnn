@@ -158,11 +158,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tim Cook says Apple has &quot;big plans to announce&quot; from an &quot;AI point of view&quot; during its May 7 event, where new iPads are expected, and at WWDC in June &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/240502/p42#a240502p42)
+ - [Best Bluetooth Speaker for 2024     - CNET](https://www.cnet.com/tech/home-entertainment/best-bluetooth-speaker/#ftag=CAD590a51e)
  - [Apple blows away Wall Street earnings guesses, even with weak China iPhone sales](https://appleinsider.com/articles/24/05/02/apple-blows-away-wall-street-earnings-guesses-even-with-weak-china-iphone-sales?utm_medium=rss)
- - [Apple Vision Pro a big hit in enterprise](https://appleinsider.com/articles/24/05/02/apple-vision-pro-a-big-hit-in-enterprise?utm_medium=rss)
- - [Apple Q2: revenue from Services, which includes Apple TV+ and Apple Music, rose 14% YoY to $23.9B, vs. $23.27B estimated, an all-time record &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240502/p41#a240502p41)
- - [Apple reversed its stock trajectory for the year in 30 minutes](https://appleinsider.com/articles/24/05/02/apple-reversed-its-stock-trajectory-for-the-year-in-30-minutes?utm_medium=rss)
- - [Want to Buy a Decommissioned Supercomputer? Here’s Your Chance](https://www.wired.com/story/cray-supercomputer-auction/)<!-- TECH:END -->
+ - [Spotify Quietly Starts Charging Non-Premium Listeners for Lyrics     - CNET](https://www.cnet.com/tech/services-and-software/spotify-quietly-starts-charging-non-premium-listeners-for-lyrics/#ftag=CAD590a51e)
+ - [NBA Playoffs 2024: How to Watch Bucks vs. Pacers, Knicks vs. 76ers Tonight     - CNET](https://www.cnet.com/tech/services-and-software/nba-playoffs-2024-how-to-watch-schedule-matchups-tv-times/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

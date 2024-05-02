@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UnitedHealth CEO Andrew Witty testifies that the Change Healthcare hack impacted &quot;maybe a third&quot; of Americans and it&#39;ll take &quot;several months&quot; to notify victims &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240501/p41#a240501p41)
- - [Snapchat announces the ability to edit messages for up to five minutes after sending them, rolling out &quot;soon&quot; and available first for Snapchat+ subscribers &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/240501/p40#a240501p40)
- - [Asus won’t say if the ROG Ally’s SD card reader will ever be truly fixed](https://www.theverge.com/2024/5/1/24146755/asus-rog-ally-sd-card-reader)
- - [US v. Google: Google paid Apple $20B in 2022 to be the default search engine in Safari; in 2020, Google&#39;s payments constituted 17.5% of Apple&#39;s operating income &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/240501/p39#a240501p39)
- - [Crunchyroll Just Increased Prices on Premium Subscriptions     - CNET](https://www.cnet.com/tech/services-and-software/crunchyroll-just-increased-prices-on-premium-subscriptions/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An NLRB judge finds Amazon CEO Andy Jassy violated US labor law with his comments in 2022 suggesting workers would be &quot;less empowered&quot; if they voted in a union &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/240501/p42#a240501p42)
+ - [As Questions Swirl Around Tesla’s Superchargers, the Race Is On to Fill the Power Gap](https://www.wired.com/story/tesla-supercharger-pullback-filling-the-power-gap/)
+ - [Peacock Subscribers, Your Bill Is Going Up Soon     - CNET](https://www.cnet.com/tech/services-and-software/peacock-subscribers-your-bill-going-up-soon/#ftag=CAD590a51e)
+ - [Best TV for PS5 and Xbox Series X, Series S for 2024: LG OLED, Hisense, Vizio     - CNET](https://www.cnet.com/tech/home-entertainment/best-tv-for-ps5-and-xbox-series-x-series-s/#ftag=CAD590a51e)
+ - [Web Hosting vs. Domain: What Is the Difference?     - CNET](https://www.cnet.com/tech/web-hosting-vs-domain/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

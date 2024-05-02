@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Arthur](http://9gag.com/gag/a4P452m)
- - 😝 [Protect that bro at all cost.](http://9gag.com/gag/agmy82n)
- - 💣 [Women without Rights\ud83d\ude06\ud83d\ude06](http://9gag.com/gag/ayN5qVY)
- - 😝 [I knew it!](http://9gag.com/gag/apRq6GD)
- - 👉 [EmotionalDamage](http://9gag.com/gag/aRBQLp2)<!-- MEMES:END -->
+ - 😝 [Ryan Gosling and Mikey Day at movie premiere red carpet dressed as Beavis and Butthead](http://9gag.com/gag/aGy9MwK)
+ - 😝 [Funny Cat](http://9gag.com/gag/a34YA11)
+ - 💣 [A wise decision.](http://9gag.com/gag/amoX6E9)
+ - 😝 [Good deal for everyone](http://9gag.com/gag/aE0wALO)
+ - 👉 [Bro won in life. Best marriage proposal reaction EVER](http://9gag.com/gag/a7o5eNe)<!-- MEMES:END -->
 
 ---
 

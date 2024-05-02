@@ -167,11 +167,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [After waiting a decade for the perfect pearl](http://9gag.com/gag/a4P4zNy)
- - 😝 [Nokia 3210 coming soon](http://9gag.com/gag/aD20nYw)
- - 💣 [Look Now I&#39;m No Longer A Career Criminal. See You In Europe!](http://9gag.com/gag/an7YxNn)
- - 😝 [Didn&#39;t know Medusa was this cute](http://9gag.com/gag/a1mA0ZD)
- - 👉 [Biker experiences Adrenaline Crash after getting side swiped](http://9gag.com/gag/aNDeV13)<!-- MEMES:END -->
+ - 😝 [I just told you i&#39;ve already bought it, harry. you don&#39;t need to sell it to me](http://9gag.com/gag/aD20nGN)
+ - 😝 [The newest McDonalds location](http://9gag.com/gag/aVvOEyK)
+ - 💣 [Biker experiences Adrenaline Crash after getting side swiped](http://9gag.com/gag/aNDeV13)
+ - 😝 [Player 3 entered the game](http://9gag.com/gag/aO8qPdR)
+ - 👉 [Didn&#39;t know Medusa was this cute](http://9gag.com/gag/a1mA0ZD)<!-- MEMES:END -->
 
 ---
 

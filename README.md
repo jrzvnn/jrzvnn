@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rabbit R1 review: nothing to see here](https://www.theverge.com/2024/5/2/24147159/rabbit-r1-review-ai-gadget)
+ - [LayerX, which makes a browser extension to let companies secure their devices and SaaS apps, raised a $26M Series A, bringing its total funding to $34M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/240502/p26#a240502p26)
+ - [5 Best Rain Jackets &lpar;2024&rpar;: Cheap, Eco-Friendly, Hiking, and Running](https://www.wired.com/story/best-rain-jackets/)
  - [The Breach of a Face Recognition Firm Reveals a Hidden Danger of Biometrics](https://www.wired.com/story/outabox-facial-recognition-breach/)
- - [Spotify’s shortform videos could spread to more parts of the app](https://www.theverge.com/2024/5/2/24147164/spotify-test-clips-short-form-video-playlist-pages)
- - [Apple adds carve-outs to EU core tech fee: exempts developers of free apps and gives those with annual global revenue of less than &amp;euro;10M a 3-year &quot;free on-ramp&quot; &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240502/p25#a240502p25)
- - [Apple won&#39;t fight EU over iPad gatekeeper status, third-party App Stores coming](https://appleinsider.com/articles/24/05/02/apple-wont-fight-eu-over-ipad-gatekeeper-status-third-party-app-stores-coming?utm_medium=rss)
- - [EU Core Technology Fee for small &amp; non-profit developers pared way back](https://appleinsider.com/articles/24/05/02/eu-core-technology-fee-for-small-non-profit-developers-pared-way-back?utm_medium=rss)<!-- TECH:END -->
+ - [Spotify’s shortform videos could spread to more parts of the app](https://www.theverge.com/2024/5/2/24147164/spotify-test-clips-short-form-video-playlist-pages)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

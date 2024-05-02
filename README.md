@@ -158,10 +158,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple blows away Wall Street earnings guesses, even with weak China iPhone sales](https://appleinsider.com/articles/24/05/02/apple-blows-away-wall-street-earnings-guesses-even-with-weak-china-iphone-sales?utm_medium=rss)
  - [Apple Vision Pro a big hit in enterprise](https://appleinsider.com/articles/24/05/02/apple-vision-pro-a-big-hit-in-enterprise?utm_medium=rss)
  - [Apple Q2: revenue from Services, which includes Apple TV+ and Apple Music, rose 14% YoY to $23.9B, vs. $23.27B estimated, an all-time record &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240502/p41#a240502p41)
  - [Apple reversed its stock trajectory for the year in 30 minutes](https://appleinsider.com/articles/24/05/02/apple-reversed-its-stock-trajectory-for-the-year-in-30-minutes?utm_medium=rss)
- - [Apple blows away Wall Street earnings guesses, even with weak China iPhone sales](https://appleinsider.com/articles/24/05/02/apple-blows-away-wall-street-earnings-guesses-even-with-weak-china-iphone-sales?utm_medium=rss)
  - [Want to Buy a Decommissioned Supercomputer? Here’s Your Chance](https://www.wired.com/story/cray-supercomputer-auction/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

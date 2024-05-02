@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ryan Gosling and Mikey Day at movie premiere red carpet dressed as Beavis and Butthead](http://9gag.com/gag/aGy9MwK)
- - 😝 [Funny Cat](http://9gag.com/gag/a34YA11)
- - 💣 [A wise decision.](http://9gag.com/gag/amoX6E9)
- - 😝 [Good deal for everyone](http://9gag.com/gag/aE0wALO)
- - 👉 [Bro won in life. Best marriage proposal reaction EVER](http://9gag.com/gag/a7o5eNe)<!-- MEMES:END -->
+ - 😝 [Arthur](http://9gag.com/gag/a4P452m)
+ - 😝 [Biker experiences Adrenaline Crash after getting side swiped](http://9gag.com/gag/aNDeV13)
+ - 💣 [An almost complete Greek God family tree](http://9gag.com/gag/aqymQjP)
+ - 😝 [Deal can&#39;t reach!.](http://9gag.com/gag/aPAvxzQ)
+ - 👉 [Didn&#39;t know Medusa was this cute](http://9gag.com/gag/a1mA0ZD)<!-- MEMES:END -->
 
 ---
 

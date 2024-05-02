@@ -167,11 +167,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who tf is paying for this??](http://9gag.com/gag/agmy4Qv)
+ - 😝 [I have a similar experience](http://9gag.com/gag/a6Zw2dm)
  - 😝 [A ramen stall in Japan](http://9gag.com/gag/aXPb7AP)
- - 💣 [\u2026\u2026..](http://9gag.com/gag/aMV1Pox)
- - 😝 [What do you think of?](http://9gag.com/gag/aVvOZLd)
- - 👉 [World\u2019s fastest karma.](http://9gag.com/gag/aZZP8jz)<!-- MEMES:END -->
+ - 💣 [Would you rather be alone in the woods with a bear or a man?](http://9gag.com/gag/arypx80)
+ - 😝 [I want it, but not now with the industry falling apart. F**k the woke](http://9gag.com/gag/a34Y22e)
+ - 👉 [What do you think of?](http://9gag.com/gag/aVvOZLd)<!-- MEMES:END -->
 
 ---
 

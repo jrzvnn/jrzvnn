@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What do you think of?](http://9gag.com/gag/aVvOZLd)
- - 😝 [A ramen stall in Japan](http://9gag.com/gag/aXPb7AP)
- - 💣 [Bro won in life. Best marriage proposal reaction EVER](http://9gag.com/gag/a7o5eNe)
- - 😝 [Protect that bro at all cost.](http://9gag.com/gag/agmy82n)
- - 👉 [When the NPC gets out of line](http://9gag.com/gag/azxbG0K)<!-- MEMES:END -->
+ - 😝 [\u2026\u2026..](http://9gag.com/gag/aMV1Pox)
+ - 😝 [Look Now I&#39;m No Longer A Career Criminal. See You In Europe!](http://9gag.com/gag/an7YxNn)
+ - 💣 [My brothers please join me in my quest for cursed images.](http://9gag.com/gag/aXPbMd6)
+ - 😝 [After waiting a decade for the perfect pearl](http://9gag.com/gag/a4P4zNy)
+ - 👉 [I knew it!](http://9gag.com/gag/apRq6GD)<!-- MEMES:END -->
 
 ---
 

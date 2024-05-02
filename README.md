@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tech Transparency Project: US extremist militias are quietly coordinating across ~200 Facebook groups and profiles, after lying low since the January 6 riot &lpar;Tess Owen/Wired&rpar;](http://www.techmeme.com/240502/p16#a240502p16)
- - [Apple is deepening ties with China even as it boosts suppliers globally](https://appleinsider.com/articles/24/05/02/apple-is-deepening-ties-with-china-even-as-it-boosts-suppliers-globally?utm_medium=rss)
- - [Michael Cohen Can’t Stop Livestreaming on TikTok](https://www.wired.com/story/michael-cohen-livestreaming-tiktok/)
- - [Sources and documents: Huawei is secretly funding cutting-edge research at US universities including Harvard via an independent Washington-based foundation &lpar;Kate O&#39;Keeffe/Bloomberg&rpar;](http://www.techmeme.com/240502/p15#a240502p15)
- - [Peloton announces new round of layoffs as CEO quits](https://www.theverge.com/2024/5/2/24146989/peloton-announces-new-round-of-layoffs-as-ceo-quits)<!-- TECH:END -->
+ - [Microsoft investigating VPN issues with latest Windows 11 update](https://www.theverge.com/2024/5/2/24147054/microsoft-windows-11-vpn-issues-update)
+ - [Google says 400M+ Google Accounts have used passkeys since the rollout, logging 1B+ authentications, and expands passkeys to its Advanced Protection Program &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240502/p18#a240502p18)
+ - [Over 400 million Google accounts have used passkeys, but our passwordless future remains elusive](https://www.theverge.com/2024/5/2/24147030/google-passkey-passwordless-authentication-400-million-accounts)
+ - [Thinking About Buying a Hybrid Car? Listen Up](https://www.wired.com/story/gadget-lab-podcast-642/)
+ - [Rabbit R1 isn&#39;t an iPhone killer, because its AI can run on Apple hardware](https://appleinsider.com/articles/24/05/02/rabbit-r1-isnt-an-iphone-killer-because-its-ai-can-run-on-apple-hardware?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

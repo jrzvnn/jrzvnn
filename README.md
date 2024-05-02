@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best entertainment of 2024](https://www.theverge.com/entertainment/24090208/best-entertainment-2024-games-film-tv-streaming)
  - [Le Wand Die Cast Massager Review: A Wand for Wand Connoisseurs](https://www.wired.com/review/le-wand-die-cast-vibrating-massager/)
  - [Tales of Kenzera’s heart-wrenching story proved tougher than its platforming](https://www.theverge.com/24146692/tales-of-kenzera-zau-review-metroidvania-platformer)
  - [How to Create and Customize Stickers with iOS 17](https://www.wired.com/story/how-to-create-stickers-iphone-ios-17/)
- - [Get Ready for Monster Hurricanes This Summer](https://www.wired.com/story/monster-hurricane-season-summer-2024-atlantic-tropical-storm/)
- - [Nvidia makes it easier to get GeForce Now running on the Steam Deck](https://www.theverge.com/2024/5/2/24147034/nvidia-geforce-now-steam-deck-script-install)<!-- TECH:END -->
+ - [Get Ready for Monster Hurricanes This Summer](https://www.wired.com/story/monster-hurricane-season-summer-2024-atlantic-tropical-storm/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

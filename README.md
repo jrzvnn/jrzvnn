@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Didn&#39;t know Medusa was this cute](http://9gag.com/gag/a1mA0ZD)
- - 😝 [I knew it!](http://9gag.com/gag/apRq6GD)
- - 💣 [Deal can&#39;t reach!.](http://9gag.com/gag/aPAvxzQ)
- - 😝 [How many of you can relate?](http://9gag.com/gag/aRBQMvG)
- - 👉 [Women without Rights\ud83d\ude06\ud83d\ude06](http://9gag.com/gag/ayN5qVY)<!-- MEMES:END -->
+ - 😝 [Uriah Heep Easy Livin 1972](http://9gag.com/gag/aAyY6rg)
+ - 😝 [EmotionalDamage](http://9gag.com/gag/aRBQLp2)
+ - 💣 [Protect that bro at all cost.](http://9gag.com/gag/agmy82n)
+ - 😝 [An almost complete Greek God family tree](http://9gag.com/gag/aqymQjP)
+ - 👉 [After waiting a decade for the perfect pearl](http://9gag.com/gag/a4P4zNy)<!-- MEMES:END -->
 
 ---
 

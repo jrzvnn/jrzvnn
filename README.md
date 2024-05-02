@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bird is sucked in to jet\u2019s engine causing it to crash](http://9gag.com/gag/a7o5ozw)
+ - 😝 [If not fren why fren shape](http://9gag.com/gag/a6ZwXxR)
+ - 😝 [She does though](http://9gag.com/gag/apRq3e9)
+ - 💣 [Jokes writing themselves](http://9gag.com/gag/aLnKe3v)
  - 😝 [A wise decision.](http://9gag.com/gag/amoX6E9)
- - 💣 [Vicious little rat](http://9gag.com/gag/axyN3bD)
- - 😝 [Your weapons don&#39;t bother me](http://9gag.com/gag/a2vN0ep)
  - 👉 [I knew it!](http://9gag.com/gag/apRq6GD)<!-- MEMES:END -->
 
 ---

@@ -158,11 +158,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple reports Q2 revenue down 8.1% YoY to $16.4B in Greater China, down 12.7% YoY to $6.3B in Japan, and down 17.2% YoY to $6.7B in the rest of Asia-Pacific &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240502/p45#a240502p45)
  - [Microsoft says it did a lot for responsible AI in inaugural transparency report](https://www.theverge.com/2024/5/2/24147573/microsoft-ai-transparency-responsible-ignore-mario)
  - [Apple Watch&#39;s AFib history feature gets FDA approval for use in clinical studies, the first digital health tech qualified under FDA&#39;s MDDT program &lpar;Sudz Niel Kar/MyHealthyApple&rpar;](http://www.techmeme.com/240502/p44#a240502p44)
  - [Apple charms investors with record $110B stock buyback, dividend hike](https://appleinsider.com/articles/24/05/02/apple-trying-to-charm-investors-with-biggest-stock-buyback-yet-increased-dividend?utm_medium=rss)
- - [Apple Vision Pro a big hit in enterprise](https://appleinsider.com/articles/24/05/02/apple-vision-pro-a-big-hit-in-enterprise?utm_medium=rss)
- - [Block plans to invest 10% of its gross profit from bitcoin products each month into bitcoin purchases; its $220M BTC investment grew by ~160% to $573M as of Q1 &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/240502/p43#a240502p43)<!-- TECH:END -->
+ - [Apple Vision Pro a big hit in enterprise](https://appleinsider.com/articles/24/05/02/apple-vision-pro-a-big-hit-in-enterprise?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My brothers please join me in my quest for cursed images.](http://9gag.com/gag/aXPbMd6)
- - 😝 [Jokes writing themselves](http://9gag.com/gag/aLnKe3v)
- - 💣 [Women without Rights\ud83d\ude06\ud83d\ude06](http://9gag.com/gag/ayN5qVY)
- - 😝 [Wife said I can&#39;t tell anyone yet... you guys aren&#39;t just anyone. Thanks for the years of entertainment! I have officially overcome the Darwin award.](http://9gag.com/gag/aYQbEoN)
- - 👉 [We\u2019ve all been there](http://9gag.com/gag/aAyYE89)<!-- MEMES:END -->
+ - 😝 [I just told you i&#39;ve already bought it, harry. you don&#39;t need to sell it to me](http://9gag.com/gag/aD20nGN)
+ - 😝 [I knew it!](http://9gag.com/gag/apRq6GD)
+ - 💣 [German ambassador almost got lynched in Ramallah](http://9gag.com/gag/an7YOb5)
+ - 😝 [Biker experiences Adrenaline Crash after getting side swiped](http://9gag.com/gag/aNDeV13)
+ - 👉 [German ambasssador in Rafah](http://9gag.com/gag/azxb53N)<!-- MEMES:END -->
 
 ---
 

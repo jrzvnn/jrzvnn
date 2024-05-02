@@ -165,7 +165,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Peloton announces new round of layoffs as CEO quits](https://www.theverge.com/2024/5/2/24146989/peloton-announces-new-round-of-layoffs-as-ceo-quits)
  - [What Happens When a Romance Writer Gets Locked Out of Google Docs](https://www.wired.com/story/what-happens-when-a-romance-author-gets-locked-out-of-google-docs/)
  - [A profile of US District Court judge Amit P. Mehta, who is presiding over the US v. Google case, which could set a precedent for other US tech antitrust cases &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/240502/p14#a240502p14)
- - [A look at Ukraine&#39;s combat drone startup industry, based on commercial first-person-view or photography drones; an estimated ~200 local companies produce drones &lpar;Justin Ling/Wired&rpar;](http://www.techmeme.com/240502/p13#a240502p13)<!-- TECH:END -->
+ - [A look at Ukraine&#39;s combat drone startup industry; Kyiv estimates ~200 local startups produce drones based on commercial first-person-view or photography drones &lpar;Justin Ling/Wired&rpar;](http://www.techmeme.com/240502/p13#a240502p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

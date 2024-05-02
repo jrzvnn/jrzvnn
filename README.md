@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ethan Zuckerman sues to stop Meta from blocking his planned Unfollow Everything 2.0 extension that would let Facebook users effectively turn off their newsfeed &lpar;Vittoria Elliott/Wired&rpar;](http://www.techmeme.com/240501/p44#a240501p44)
+ - [Google paid Apple $20 Billion to be default search engine in 2022](https://appleinsider.com/articles/24/05/02/google-paid-apple-20-billion-to-be-default-search-engine-in-2022?utm_medium=rss)
+ - [Fed Meeting Update: Interest Rates Will Stay High Until Inflation Cools     - CNET](https://www.cnet.com/personal-finance/banking/fed-meeting-update-interest-rates-will-stay-high-until-inflation-cools/#ftag=CAD590a51e)
  - [The US CFTC appoints Ted Kaouk as its first chief AI officer; Kaouk currently serves as the regulator&#39;s chief data officer and director of its data division &lpar;Mengqi Sun/Wall Street Journal&rpar;](http://www.techmeme.com/240501/p43#a240501p43)
- - [An NLRB judge finds Amazon CEO Andy Jassy violated US labor law with his comments in 2022 suggesting workers would be &quot;less empowered&quot; if they voted in a union &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/240501/p42#a240501p42)
- - [As Questions Swirl Around Tesla’s Superchargers, the Race Is On to Fill the Power Gap](https://www.wired.com/story/tesla-supercharger-pullback-filling-the-power-gap/)
- - [Peacock Subscribers, Your Bill Is Going Up Soon     - CNET](https://www.cnet.com/tech/services-and-software/peacock-subscribers-your-bill-going-up-soon/#ftag=CAD590a51e)
- - [Best TV for PS5 and Xbox Series X, Series S for 2024: LG OLED, Hisense, Vizio     - CNET](https://www.cnet.com/tech/home-entertainment/best-tv-for-ps5-and-xbox-series-x-series-s/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An NLRB judge finds Amazon CEO Andy Jassy violated US labor law with his comments in 2022 suggesting workers would be &quot;less empowered&quot; if they voted in a union &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/240501/p42#a240501p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

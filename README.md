@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Always work](http://9gag.com/gag/aAyYyng)
+ - 😝 [Bird is sucked in to jet\u2019s engine causing it to crash](http://9gag.com/gag/a7o5ozw)
  - 😝 [\u2026\u2026..](http://9gag.com/gag/aMV1Pox)
- - 💣 [If you have forgotten this video, I haven&#39;t. This is a perfect example of what sandpeople are. Yet they are coming in millions in Europe.](http://9gag.com/gag/ae9N9op)
- - 😝 [Something about a Japanese woman and how to make a beverage for an old Japanese man. There&#39;s no sushi involved but cantaloupes are immense.](http://9gag.com/gag/aoyzVDA)
- - 👉 [I also want ice cream. Life is so unfair](http://9gag.com/gag/aZZPnpz)<!-- MEMES:END -->
+ - 💣 [I knew it!](http://9gag.com/gag/apRq6GD)
+ - 😝 [My brothers please join me in my quest for cursed images.](http://9gag.com/gag/aXPbMd6)
+ - 👉 [German ambassador almost got lynched in Ramallah](http://9gag.com/gag/an7YOb5)<!-- MEMES:END -->
 
 ---
 

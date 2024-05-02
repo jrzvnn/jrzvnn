@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Q2 revenue: iPhone down 10% YoY to $45.96B, Mac up 4% to $7.45B, iPad down 17% to $5.56B, and Wearables, Home, and Accessories down 10% to $7.91B &lpar;Ryan Vlastelica/Bloomberg&rpar;](http://www.techmeme.com/240502/p38#a240502p38)
+ - [Apple blows away Wall Street earnings guesses, even with weak China iPhone sales](https://appleinsider.com/articles/24/05/02/apple-blows-away-wall-street-earnings-guesses-even-with-weak-china-iphone-sales?utm_medium=rss)
  - [Block Q1: revenue up 19% YoY to $5.96B, vs. $5.82B est., gross profit up 22% to $2.09B, Square profit up 19%, Cash App profit up 25%; SQ jumps 7%+ after hours &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/240502/p37#a240502p37)
- - [Apple reports second quarter results &lpar;Apple&rpar;](http://www.techmeme.com/240502/p36#a240502p36)
- - [WhatsApp told Delhi High Court last week that it will be forced to leave India if required to maintain &quot;traceability&quot; for messages as part of 2021&#39;s IT rules &lpar;Russell Brandom/Rest of World&rpar;](http://www.techmeme.com/240502/p35#a240502p35)
- - [When notifications remind us of things we’d rather forget](https://www.theverge.com/24147418/intrusive-notifications-bad-memories-cloud-storage)
- - [Amazon CEO Andy Jassy broke labor laws by saying workers are ‘better off’ without a union](https://www.theverge.com/2024/5/2/24147404/amazon-ceo-andy-jassy-violate-labor-laws-nlrb)<!-- TECH:END -->
+ - [Apple reports Q2 revenue down 4% YoY to $90.75B, vs. $90.01B est., net income down 2% to $23.64B, and announces largest-ever $110B share buyback &lpar;Apple&rpar;](http://www.techmeme.com/240502/p36#a240502p36)
+ - [WhatsApp told Delhi High Court last week that it will be forced to leave India if required to maintain &quot;traceability&quot; for messages as part of 2021&#39;s IT rules &lpar;Russell Brandom/Rest of World&rpar;](http://www.techmeme.com/240502/p35#a240502p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

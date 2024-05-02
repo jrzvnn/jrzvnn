@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What Happens When a Romance Writer Gets Locked Out of Google Docs](https://www.wired.com/story/what-happens-when-a-romance-author-gets-locked-out-of-google-docs/)
  - [A profile of US District Court judge Amit P. Mehta, who is presiding over the US v. Google case, which could set a precedent for other US tech antitrust cases &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/240502/p14#a240502p14)
- - [A look at Ukraine&#39;s combat drone startup industry, based on commercial first-person-view or photography drones; an estimated ~200 local companies produce drones &lpar;Justin Ling/Wired&rpar;](http://www.techmeme.com/240502/p13#a240502p13)
- - [Apple Watch is FDA&#39;s first-ever approved digital AFib history device](https://appleinsider.com/articles/24/05/02/apple-watch-is-fdas-first-ever-approved-digital-afib-history-device?utm_medium=rss)
- - [As people yearn for the web&#39;s &quot;good old days&quot;, bringing those days back is possible with new tech, the possibility of new protocols, and more internet users &lpar;Molly White/Citation Needed&rpar;](http://www.techmeme.com/240502/p12#a240502p12)
- - [The Unsexy Future of Generative AI Is Enterprise Apps](https://www.wired.com/story/unsexy-future-generative-ai-enterprise-apps/)<!-- TECH:END -->
+ - [Refi Rates Ride High: Mortgage Refinance Rates for May 2, 2024     - CNET](https://www.cnet.com/personal-finance/mortgages/refi-rates-ride-high-mortgage-refinance-rates-for-may-2-2024/#ftag=CAD590a51e)
+ - [Is a Balance Transfer Worth It if You Can’t Pay It Off in Time? This CFP’s Take May Surprise You     - CNET](https://www.cnet.com/personal-finance/is-a-balance-transfer-worth-it-if-you-cant-pay-it-off-in-time-this-cfps-take-may-surprise-you/#ftag=CAD590a51e)
+ - [A look at Ukraine&#39;s combat drone startup industry, based on commercial first-person-view or photography drones; an estimated ~200 local companies produce drones &lpar;Justin Ling/Wired&rpar;](http://www.techmeme.com/240502/p13#a240502p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

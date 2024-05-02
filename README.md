@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trend Micro: cybercriminals and nation-state spies are coexisting inside the same compromised brand-name routers, using the devices to disguise their attacks &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240502/p3#a240502p3)
+ - [SK Hynix says its capacity to make HBM chips is almost fully booked through 2025 and it now aims to begin mass production of its next-generation HBM chip in Q3 &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/240502/p2#a240502p2)
  - [The US DOJ sentences Ukrainian national Yaroslav Vasinskyi to 13+ years in prison and orders $16M in restitution for helping REvil conduct ransomware attacks &lpar;Hannah Rabinowitz/CNN&rpar;](http://www.techmeme.com/240502/p1#a240502p1)
  - [Today&#39;s Wordle Hints and Answer: Help for May 2, #1048     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-and-answer-help-for-may-2-1048/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints &amp; Answer -- Help for May 2, #326     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hints-answer-help-for-may-2-326/#ftag=CAD590a51e)
- - [Best Carbon Monoxide Detector for 2024     - CNET](https://www.cnet.com/news/best-carbon-monoxide-detector/#ftag=CAD590a51e)
- - [The 5 Best Multivitamins for Men of 2024     - CNET](https://www.cnet.com/health/nutrition/best-multivitamins-for-men/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints &amp; Answer -- Help for May 2, #326     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hints-answer-help-for-may-2-326/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

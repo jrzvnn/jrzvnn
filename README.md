@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok and Universal Music Group end feud with new agreement](https://www.theverge.com/2024/5/2/24146994/tiktok-universal-music-group-sign-deal-generative-ai)
  - [Anonymous social media app Sidechat has become both a place for dialog and a breeding ground for hate speech amid US college protests over the Israel-Hamas war &lpar;Sofia Barnett/Wired&rpar;](http://www.techmeme.com/240502/p7#a240502p7)
  - [A look at Intel&#39;s efforts to build Ohio One, a &quot;mega fab&quot; that could become the world&#39;s largest chip factory and for which the company has committed $28B &lpar;Bloomberg&rpar;](http://www.techmeme.com/240502/p6#a240502p6)
  - [Inside Ukraine’s Killer-Drone Startup Industry](https://www.wired.com/story/ukraine-drone-startups-russia/)
- - [Cybersecurity experts say responses to the new US data breach disclosure rules, which have raised legal risks for public companies and their CISOs, have varied &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/240502/p5#a240502p5)
- - [Microsoft announces plans to invest $2.2B in cloud and AI infrastructure in Malaysia over four years and train 200,000 people with AI skills in the country &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240502/p4#a240502p4)<!-- TECH:END -->
+ - [Cybersecurity experts say responses to the new US data breach disclosure rules, which have raised legal risks for public companies and their CISOs, have varied &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/240502/p5#a240502p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

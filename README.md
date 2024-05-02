@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fcckkk!! I didn&#39;t know Wasp had an archenemy. This bird is now my favorite bird!](http://9gag.com/gag/aRBQZ2q)
- - 😝 [If you have forgotten this video, I haven&#39;t. This is a perfect example of what sandpeople are. Yet they are coming in millions in Europe.](http://9gag.com/gag/ae9N9op)
- - 💣 [Good deal for everyone](http://9gag.com/gag/aE0wALO)
- - 😝 [\u2026\u2026..](http://9gag.com/gag/aMV1Pox)
- - 👉 [Funny Cat](http://9gag.com/gag/a34YA11)<!-- MEMES:END -->
+ - 😝 [People here don&#39;t give a f**k](http://9gag.com/gag/amoXoKX)
+ - 😝 [Bird is sucked in to jet\u2019s engine causing it to crash](http://9gag.com/gag/a7o5ozw)
+ - 💣 [Oopsie](http://9gag.com/gag/azxbdzp)
+ - 😝 [Deal can&#39;t reach!.](http://9gag.com/gag/aPAvxzQ)
+ - 👉 [New Miss Argentina is 60 years old, would you?](http://9gag.com/gag/awyrgK4)<!-- MEMES:END -->
 
 ---
 

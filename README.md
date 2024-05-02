@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A wise decision.](http://9gag.com/gag/amoX6E9)
- - 😝 [Who else belongs here ?](http://9gag.com/gag/aKGz9Q1)
- - 💣 [Students in Flanders - Belgium were asked to bring a flag of their choice to school. Guy brings Flemish flag. Student had to hand it in because it could be &#39;provocative&#39; to other students.](http://9gag.com/gag/aD202Xd)
- - 😝 [We aren\u2019t playing Crash Bandicoot any more that\u2019s for sure..](http://9gag.com/gag/aVvOg6y)
- - 👉 [I knew it!](http://9gag.com/gag/apRq6GD)<!-- MEMES:END -->
+ - 😝 [Fcckkk!! I didn&#39;t know Wasp had an archenemy. This bird is now my favorite bird!](http://9gag.com/gag/aRBQZ2q)
+ - 😝 [If you have forgotten this video, I haven&#39;t. This is a perfect example of what sandpeople are. Yet they are coming in millions in Europe.](http://9gag.com/gag/ae9N9op)
+ - 💣 [\u2026\u2026..](http://9gag.com/gag/aMV1Pox)
+ - 😝 [Good deal for everyone](http://9gag.com/gag/aE0wALO)
+ - 👉 [Streaming pirate existence!](http://9gag.com/gag/an7YvX0)<!-- MEMES:END -->
 
 ---
 

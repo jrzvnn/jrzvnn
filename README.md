@@ -161,10 +161,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources and documents: Huawei is secretly funding cutting-edge research at US universities including Harvard via an independent Washington-based foundation &lpar;Kate O&#39;Keeffe/Bloomberg&rpar;](http://www.techmeme.com/240502/p15#a240502p15)
+ - [Peloton announces new round of layoffs as CEO quits](https://www.theverge.com/2024/5/2/24146989/peloton-announces-new-round-of-layoffs-as-ceo-quits)
  - [What Happens When a Romance Writer Gets Locked Out of Google Docs](https://www.wired.com/story/what-happens-when-a-romance-author-gets-locked-out-of-google-docs/)
  - [A profile of US District Court judge Amit P. Mehta, who is presiding over the US v. Google case, which could set a precedent for other US tech antitrust cases &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/240502/p14#a240502p14)
- - [Refi Rates Ride High: Mortgage Refinance Rates for May 2, 2024     - CNET](https://www.cnet.com/personal-finance/mortgages/refi-rates-ride-high-mortgage-refinance-rates-for-may-2-2024/#ftag=CAD590a51e)
- - [Is a Balance Transfer Worth It if You Can’t Pay It Off in Time? This CFP’s Take May Surprise You     - CNET](https://www.cnet.com/personal-finance/is-a-balance-transfer-worth-it-if-you-cant-pay-it-off-in-time-this-cfps-take-may-surprise-you/#ftag=CAD590a51e)
  - [A look at Ukraine&#39;s combat drone startup industry, based on commercial first-person-view or photography drones; an estimated ~200 local companies produce drones &lpar;Justin Ling/Wired&rpar;](http://www.techmeme.com/240502/p13#a240502p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

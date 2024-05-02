@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [What do you think of?](http://9gag.com/gag/aVvOZLd)
+ - 😝 [A ramen stall in Japan](http://9gag.com/gag/aXPb7AP)
+ - 💣 [Bro won in life. Best marriage proposal reaction EVER](http://9gag.com/gag/a7o5eNe)
  - 😝 [Protect that bro at all cost.](http://9gag.com/gag/agmy82n)
- - 😝 [An almost complete Greek God family tree](http://9gag.com/gag/aqymQjP)
- - 💣 [World\u2019s fastest karma.](http://9gag.com/gag/aZZP8jz)
- - 😝 [How many of you can relate?](http://9gag.com/gag/aRBQMvG)
- - 👉 [After waiting a decade for the perfect pearl](http://9gag.com/gag/a4P4zNy)<!-- MEMES:END -->
+ - 👉 [When the NPC gets out of line](http://9gag.com/gag/azxbG0K)<!-- MEMES:END -->
 
 ---
 

@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How many of you can relate?](http://9gag.com/gag/aRBQMvG)
+ - 😝 [German kids singing `foreigners out` in a nightclub.](http://9gag.com/gag/a87W6Wd)
+ - 😝 [Jokes writing themselves](http://9gag.com/gag/aLnKe3v)
+ - 💣 [Biker experiences Adrenaline Crash after getting side swiped](http://9gag.com/gag/aNDeV13)
  - 😝 [After waiting a decade for the perfect pearl](http://9gag.com/gag/a4P4zNy)
- - 💣 [German kids singing `foreigners out` in a nightclub.](http://9gag.com/gag/a87W6Wd)
- - 😝 [Biker experiences Adrenaline Crash after getting side swiped](http://9gag.com/gag/aNDeV13)
- - 👉 [An almost complete Greek God family tree](http://9gag.com/gag/aqymQjP)<!-- MEMES:END -->
+ - 👉 [I knew it!](http://9gag.com/gag/apRq6GD)<!-- MEMES:END -->
 
 ---
 

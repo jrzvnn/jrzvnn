@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If not fren why fren shape](http://9gag.com/gag/a6ZwXxR)
- - 😝 [She does though](http://9gag.com/gag/apRq3e9)
- - 💣 [Jokes writing themselves](http://9gag.com/gag/aLnKe3v)
- - 😝 [A wise decision.](http://9gag.com/gag/amoX6E9)
- - 👉 [I knew it!](http://9gag.com/gag/apRq6GD)<!-- MEMES:END -->
+ - 😝 [Fcckkk!! I didn&#39;t know Wasp had an archenemy. This bird is now my favorite bird!](http://9gag.com/gag/aRBQZ2q)
+ - 😝 [If you have forgotten this video, I haven&#39;t. This is a perfect example of what sandpeople are. Yet they are coming in millions in Europe.](http://9gag.com/gag/ae9N9op)
+ - 💣 [Good deal for everyone](http://9gag.com/gag/aE0wALO)
+ - 😝 [\u2026\u2026..](http://9gag.com/gag/aMV1Pox)
+ - 👉 [Streaming pirate existence!](http://9gag.com/gag/an7YvX0)<!-- MEMES:END -->
 
 ---
 

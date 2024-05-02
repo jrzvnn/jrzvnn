@@ -167,11 +167,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A ramen stall in Japan](http://9gag.com/gag/aXPb7AP)
- - 😝 [What do you think of?](http://9gag.com/gag/aVvOZLd)
- - 💣 [World\u2019s fastest karma.](http://9gag.com/gag/aZZP8jz)
- - 😝 [I want it, but not now with the industry falling apart. F**k the woke](http://9gag.com/gag/a34Y22e)
- - 👉 [Would you rather be alone in the woods with a bear or a man?](http://9gag.com/gag/arypx80)<!-- MEMES:END -->
+ - 😝 [After waiting a decade for the perfect pearl](http://9gag.com/gag/a4P4zNy)
+ - 😝 [Nokia 3210 coming soon](http://9gag.com/gag/aD20nYw)
+ - 💣 [Look Now I&#39;m No Longer A Career Criminal. See You In Europe!](http://9gag.com/gag/an7YxNn)
+ - 😝 [Didn&#39;t know Medusa was this cute](http://9gag.com/gag/a1mA0ZD)
+ - 👉 [Biker experiences Adrenaline Crash after getting side swiped](http://9gag.com/gag/aNDeV13)<!-- MEMES:END -->
 
 ---
 

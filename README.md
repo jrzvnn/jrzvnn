@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tech Transparency Project: US extremist militias are quietly coordinating across ~200 Facebook groups and profiles, after lying low since the January 6 riot &lpar;Tess Owen/Wired&rpar;](http://www.techmeme.com/240502/p16#a240502p16)
+ - [Apple is deepening ties with China even as it boosts suppliers globally](https://appleinsider.com/articles/24/05/02/apple-is-deepening-ties-with-china-even-as-it-boosts-suppliers-globally?utm_medium=rss)
  - [Michael Cohen Can’t Stop Livestreaming on TikTok](https://www.wired.com/story/michael-cohen-livestreaming-tiktok/)
  - [Sources and documents: Huawei is secretly funding cutting-edge research at US universities including Harvard via an independent Washington-based foundation &lpar;Kate O&#39;Keeffe/Bloomberg&rpar;](http://www.techmeme.com/240502/p15#a240502p15)
- - [Peloton announces new round of layoffs as CEO quits](https://www.theverge.com/2024/5/2/24146989/peloton-announces-new-round-of-layoffs-as-ceo-quits)
- - [What Happens When a Romance Writer Gets Locked Out of Google Docs](https://www.wired.com/story/what-happens-when-a-romance-author-gets-locked-out-of-google-docs/)
- - [A profile of US District Court judge Amit P. Mehta, who is presiding over the US v. Google case, which could set a precedent for other US tech antitrust cases &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/240502/p14#a240502p14)<!-- TECH:END -->
+ - [Peloton announces new round of layoffs as CEO quits](https://www.theverge.com/2024/5/2/24146989/peloton-announces-new-round-of-layoffs-as-ceo-quits)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

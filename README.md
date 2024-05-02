@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I just told you i&#39;ve already bought it, harry. you don&#39;t need to sell it to me](http://9gag.com/gag/aD20nGN)
- - 😝 [I knew it!](http://9gag.com/gag/apRq6GD)
- - 💣 [German ambassador almost got lynched in Ramallah](http://9gag.com/gag/an7YOb5)
- - 😝 [Biker experiences Adrenaline Crash after getting side swiped](http://9gag.com/gag/aNDeV13)
- - 👉 [German ambasssador in Rafah](http://9gag.com/gag/azxb53N)<!-- MEMES:END -->
+ - 😝 [Nokia 3210 coming soon](http://9gag.com/gag/aD20nYw)
+ - 😝 [German ambasssador in Rafah](http://9gag.com/gag/azxb53N)
+ - 💣 [Biker experiences Adrenaline Crash after getting side swiped](http://9gag.com/gag/aNDeV13)
+ - 😝 [German kids singing `foreigners out` in a nightclub.](http://9gag.com/gag/a87W6Wd)
+ - 👉 [How many of you can relate?](http://9gag.com/gag/aRBQMvG)<!-- MEMES:END -->
 
 ---
 

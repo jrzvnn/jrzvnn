@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bird is sucked in to jet\u2019s engine causing it to crash](http://9gag.com/gag/a7o5ozw)
- - 😝 [\u2026\u2026..](http://9gag.com/gag/aMV1Pox)
- - 💣 [I knew it!](http://9gag.com/gag/apRq6GD)
- - 😝 [My brothers please join me in my quest for cursed images.](http://9gag.com/gag/aXPbMd6)
- - 👉 [German ambassador almost got lynched in Ramallah](http://9gag.com/gag/an7YOb5)<!-- MEMES:END -->
+ - 😝 [If you have forgotten this video, I haven&#39;t. This is a perfect example of what sandpeople are. Yet they are coming in millions in Europe.](http://9gag.com/gag/ae9N9op)
+ - 😝 [Ryan Gosling and Mikey Day at movie premiere red carpet dressed as Beavis and Butthead](http://9gag.com/gag/aGy9MwK)
+ - 💣 [Funny Cat](http://9gag.com/gag/a34YA11)
+ - 😝 [Good deal for everyone](http://9gag.com/gag/aE0wALO)
+ - 👉 [Bro won in life. Best marriage proposal reaction EVER](http://9gag.com/gag/a7o5eNe)<!-- MEMES:END -->
 
 ---
 

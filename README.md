@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Siri on HomePod can&#39;t tell you what time it is right now](https://appleinsider.com/articles/24/05/02/siri-on-homepod-cant-tell-you-what-time-it-is-right-now?utm_medium=rss)
  - [Hyundai invests $475M in self-driving startup Motional and will spend another $448M to buy 11% of Aptiv&#39;s common equity interest in Motional &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/240502/p32#a240502p32)
  - [A federal judge grills both the DOJ and Google in the closing arguments of US v. Google, as the most consequential tech antitrust case since the 1990s concludes &lpar;New York Times&rpar;](http://www.techmeme.com/240502/p31#a240502p31)
  - [Save on flowers, jewelry, clothes and more with these select Apple Pay deals](https://appleinsider.com/articles/24/05/02/save-on-flowers-jewelry-clothes-and-more-with-these-select-apple-pay-deals?utm_medium=rss)
- - [After 16 years, Ecobee is shutting down support for the original smart thermostat](https://www.theverge.com/2024/5/2/24147154/ecobee-smart-thermostat-end-of-support)
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)<!-- TECH:END -->
+ - [After 16 years, Ecobee is shutting down support for the original smart thermostat](https://www.theverge.com/2024/5/2/24147154/ecobee-smart-thermostat-end-of-support)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

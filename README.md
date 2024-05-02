@@ -167,11 +167,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Portlander Snaps and Drives Through Parade](http://9gag.com/gag/a4P4N4y)
- - 😝 [After waiting a decade for the perfect pearl](http://9gag.com/gag/a4P4zNy)
- - 💣 [Biker experiences Adrenaline Crash after getting side swiped](http://9gag.com/gag/aNDeV13)
- - 😝 [I knew it!](http://9gag.com/gag/apRq6GD)
- - 👉 [Protect that bro at all cost.](http://9gag.com/gag/agmy82n)<!-- MEMES:END -->
+ - 😝 [I have a similar experience](http://9gag.com/gag/a6Zw2dm)
+ - 😝 [Would you rather be alone in the woods with a bear or a man?](http://9gag.com/gag/arypx80)
+ - 💣 [A ramen stall in Japan](http://9gag.com/gag/aXPb7AP)
+ - 😝 [What do you think of?](http://9gag.com/gag/aVvOZLd)
+ - 👉 [Who said?](http://9gag.com/gag/a9ydmyj)<!-- MEMES:END -->
 
 ---
 

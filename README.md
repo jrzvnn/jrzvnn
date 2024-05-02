@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Watch is FDA&#39;s first-ever approved digital AFib history device](https://appleinsider.com/articles/24/05/02/apple-watch-is-fdas-first-ever-approved-digital-afib-history-device?utm_medium=rss)
  - [As people yearn for the web&#39;s &quot;good old days&quot;, bringing those days back is possible with new tech, the possibility of new protocols, and more internet users &lpar;Molly White/Citation Needed&rpar;](http://www.techmeme.com/240502/p12#a240502p12)
  - [The Unsexy Future of Generative AI Is Enterprise Apps](https://www.wired.com/story/unsexy-future-generative-ai-enterprise-apps/)
  - [TMTG co-founder Andy Litinsky, testifying as a witness in an insider trading case, says Trump nearly derailed the DWAC deal in October 2021, before signing on &lpar;Matthew Goldstein/New York Times&rpar;](http://www.techmeme.com/240502/p11#a240502p11)
- - [AI has the potential to ease the US meat industry&#39;s labor vulnerability by letting robots perform some of the high precision tasks required to butcher meat &lpar;Bloomberg&rpar;](http://www.techmeme.com/240502/p10#a240502p10)
- - [Extremist Militias Are Coordinating in More Than 100 Facebook Groups](https://www.wired.com/story/extremist-militias-are-coordinating-on-facebook/)<!-- TECH:END -->
+ - [Canva Magic Media Review: AI-Generated Images for Amateur Creators     - CNET](https://www.cnet.com/tech/services-and-software/canva-magic-media-review-ai-generated-images-for-amateur-creators/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

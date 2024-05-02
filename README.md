@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok and Universal Music Group end feud with new agreement](https://www.theverge.com/2024/5/2/24146994/tiktok-universal-music-group-sign-deal-generative-ai)
- - [Anonymous social media app Sidechat has become both a place for dialog and a breeding ground for hate speech amid US college protests over the Israel-Hamas war &lpar;Sofia Barnett/Wired&rpar;](http://www.techmeme.com/240502/p7#a240502p7)
- - [A look at Intel&#39;s efforts to build Ohio One, a &quot;mega fab&quot; that could become the world&#39;s largest chip factory and for which the company has committed $28B &lpar;Bloomberg&rpar;](http://www.techmeme.com/240502/p6#a240502p6)
- - [Inside Ukraine’s Killer-Drone Startup Industry](https://www.wired.com/story/ukraine-drone-startups-russia/)
- - [Cybersecurity experts say responses to the new US data breach disclosure rules, which have raised legal risks for public companies and their CISOs, have varied &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/240502/p5#a240502p5)<!-- TECH:END -->
+ - [Universal Music Group and TikTok agree a new music licensing deal to bring UMG music back to the platform, including &quot;improved remuneration&quot; and AI protections &lpar;Jem Aswad/Variety&rpar;](http://www.techmeme.com/240502/p8#a240502p8)
+ - [Never Got Your April Social Security Check? What You Should Do     - CNET](https://www.cnet.com/personal-finance/never-got-your-april-social-security-check-what-you-should-do/#ftag=CAD590a51e)
+ - [The Best Sci-Fi TV Shows to Watch on Prime Video Right Now     - CNET](https://www.cnet.com/tech/services-and-software/the-best-sci-fi-tv-shows-to-watch-on-prime-video-right-now/#ftag=CAD590a51e)
+ - [Huawei&#39;s Pura 70 Ultra Fills the Niche of Ultimate Camera Phone     - CNET](https://www.cnet.com/tech/mobile/huaweis-pura-70-ultra-fills-the-niche-of-ultimate-camera-phone/#ftag=CAD590a51e)
+ - [TikTok and Universal Music Group end feud with new agreement](https://www.theverge.com/2024/5/2/24146994/tiktok-universal-music-group-sign-deal-generative-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

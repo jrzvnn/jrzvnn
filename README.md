@@ -158,11 +158,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FCC asks for more money to help telecom providers replace Huawei and ZTE gear](https://www.theverge.com/2024/5/2/24147499/fcc-huawei-zte-rip-and-replace-funding-isps)
- - [Apple Q2 revenue: iPhone down 10% YoY to $45.96B, Mac up 4% to $7.45B, iPad down 17% to $5.56B, and Wearables, Home, and Accessories down 10% to $7.91B &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240502/p39#a240502p39)
- - [Seagate’s 2TB Xbox Storage Expansion Card gets its best discount yet](https://www.theverge.com/2024/5/2/24147344/amazon-seagate-2tb-xbox-storage-expansion-card-crkd-nitro-deck-deal-sale)
- - [Apple trying to charm investors with biggest stock buyback yet &amp; increased dividend](https://appleinsider.com/articles/24/05/02/apple-trying-to-charm-investors-with-biggest-stock-buyback-yet-increased-dividend?utm_medium=rss)
- - [Apple Q2 revenue: iPhone down 10% YoY to $45.96B, Mac up 4% to $7.45B, iPad down 17% to $5.56B, and Wearables, Home, and Accessories down 10% to $7.91B &lpar;Ryan Vlastelica/Bloomberg&rpar;](http://www.techmeme.com/240502/p38#a240502p38)<!-- TECH:END -->
+ - [Apple blows away Wall Street earnings guesses, even with weak China iPhone sales](https://appleinsider.com/articles/24/05/02/apple-blows-away-wall-street-earnings-guesses-even-with-weak-china-iphone-sales?utm_medium=rss)
+ - [Tim Cook dismisses misguided DOJ lawsuit in the shadow of strong earnings](https://appleinsider.com/articles/24/05/02/tim-cook-dismisses-misguided-doj-lawsuit-in-the-shadow-of-strong-earnings?utm_medium=rss)
+ - [Coinbase reports Q1 net revenue up 116% YoY to $1.59B, vs. $1.32B est., net income of $1.18B, consumer transaction revenue of $935M, up 99% QoQ &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/240502/p40#a240502p40)
+ - [Apple’s earnings show that, yeah, it’s really time for some new iPads](https://www.theverge.com/2024/5/2/24147445/apple-q2-2024-earnings-ipad-iphone-ai)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

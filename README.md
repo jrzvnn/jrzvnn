@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony plans to remove Horizon Zero Dawn, one of its biggest first-party games, from PlayStation Plus on May 21; the game is PS4-only, hinting at a PS5 release &lpar;Tom Phillips/Eurogamer.net&rpar;](http://www.techmeme.com/240502/p21#a240502p21)
- - [Microsoft confirms the April 2024 Windows security update breaks VPN connections across client and server platforms on Windows 11, 10, and Server 2008 or later &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240502/p20#a240502p20)
- - [Asus Zenbook 14 OLED &lpar;2024&rpar; Review: Good Performance for the Price](https://www.wired.com/review/asus-zenbook-14-oled-2024/)
- - [Karius, which uses AI to help analyze blood tests in 400 hospitals, raised $100M led by Khosla, after raising $165M in early 2020 led by Vision Fund II &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/240502/p19#a240502p19)
- - [Microsoft investigating VPN issues with latest Windows 11 update](https://www.theverge.com/2024/5/2/24147054/microsoft-windows-11-vpn-issues-update)<!-- TECH:END -->
+ - [How to Create and Customize Stickers with iOS 17](https://www.wired.com/story/how-to-create-stickers-iphone-ios-17/)
+ - [Get Ready for Monster Hurricanes This Summer](https://www.wired.com/story/monster-hurricane-season-summer-2024-atlantic-tropical-storm/)
+ - [Nvidia makes it easier to get GeForce Now running on the Steam Deck](https://www.theverge.com/2024/5/2/24147034/nvidia-geforce-now-steam-deck-script-install)
+ - [Bose’s new SoundLink Max has a little handle and big sound](https://www.theverge.com/2024/5/2/24146865/bose-soundlink-max-bluetooth-speaker-features)
+ - [Sony plans to remove Horizon Zero Dawn, one of its biggest first-party games, from PlayStation Plus on May 21; the game is PS4-only, hinting at a PS5 release &lpar;Tom Phillips/Eurogamer.net&rpar;](http://www.techmeme.com/240502/p21#a240502p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

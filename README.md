@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Ukraine&#39;s combat drone startup industry, based on commercial first-person-view or photography drones; an estimated ~200 local companies produce drones &lpar;Justin Ling/Wired&rpar;](http://www.techmeme.com/240502/p13#a240502p13)
  - [Apple Watch is FDA&#39;s first-ever approved digital AFib history device](https://appleinsider.com/articles/24/05/02/apple-watch-is-fdas-first-ever-approved-digital-afib-history-device?utm_medium=rss)
  - [As people yearn for the web&#39;s &quot;good old days&quot;, bringing those days back is possible with new tech, the possibility of new protocols, and more internet users &lpar;Molly White/Citation Needed&rpar;](http://www.techmeme.com/240502/p12#a240502p12)
  - [The Unsexy Future of Generative AI Is Enterprise Apps](https://www.wired.com/story/unsexy-future-generative-ai-enterprise-apps/)
- - [TMTG co-founder Andy Litinsky, testifying as a witness in an insider trading case, says Trump nearly derailed the DWAC deal in October 2021, before signing on &lpar;Matthew Goldstein/New York Times&rpar;](http://www.techmeme.com/240502/p11#a240502p11)
- - [Canva Magic Media Review: AI-Generated Images for Amateur Creators     - CNET](https://www.cnet.com/tech/services-and-software/canva-magic-media-review-ai-generated-images-for-amateur-creators/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [TMTG co-founder Andy Litinsky, testifying as a witness in an insider trading case, says Trump nearly derailed the DWAC deal in October 2021, before signing on &lpar;Matthew Goldstein/New York Times&rpar;](http://www.techmeme.com/240502/p11#a240502p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

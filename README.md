@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Sonos Setup &lpar;2024&rpar;: Which Speakers and Soundbars Should You Buy?](https://www.wired.com/story/best-sonos-speakers-buying-guide/)
+ - [I Saw the TV Glow is a tribute to the transformative power of fandom](https://www.theverge.com/24141747/i-saw-the-tv-glow-review-a24)
  - [Microsoft rolls out passkey support for all consumer accounts; Microsoft account owners can generate passkeys across Windows, Android, and iOS &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240502/p23#a240502p23)
  - [Loopy Pro Review: The Best iPad Music Recording Software](https://www.wired.com/story/loopy-pro-rave/)
- - [Microsoft launches passkey support for all consumer accounts](https://www.theverge.com/2024/5/2/24147124/microsoft-passkeys-support-consumer-msa)
- - [World Password Day: We&#39;re Closer to Ditching This Crackable Tech     - CNET](https://www.cnet.com/tech/services-and-software/world-password-day-were-closer-to-ditching-this-crackable-tech/#ftag=CAD590a51e)
- - [LA-based wealth management startup Altruist, whose software and app help with trading and more, raised a $169M Series E led by Iconiq at a $1.5B valuation &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240502/p22#a240502p22)<!-- TECH:END -->
+ - [Microsoft launches passkey support for all consumer accounts](https://www.theverge.com/2024/5/2/24147124/microsoft-passkeys-support-consumer-msa)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

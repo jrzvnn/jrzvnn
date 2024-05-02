@@ -167,11 +167,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I just told you i&#39;ve already bought it, harry. you don&#39;t need to sell it to me](http://9gag.com/gag/aD20nGN)
- - 😝 [The newest McDonalds location](http://9gag.com/gag/aVvOEyK)
+ - 😝 [Portlander Snaps and Drives Through Parade](http://9gag.com/gag/a4P4N4y)
+ - 😝 [After waiting a decade for the perfect pearl](http://9gag.com/gag/a4P4zNy)
  - 💣 [Biker experiences Adrenaline Crash after getting side swiped](http://9gag.com/gag/aNDeV13)
- - 😝 [Player 3 entered the game](http://9gag.com/gag/aO8qPdR)
- - 👉 [Didn&#39;t know Medusa was this cute](http://9gag.com/gag/a1mA0ZD)<!-- MEMES:END -->
+ - 😝 [I knew it!](http://9gag.com/gag/apRq6GD)
+ - 👉 [Protect that bro at all cost.](http://9gag.com/gag/agmy82n)<!-- MEMES:END -->
 
 ---
 

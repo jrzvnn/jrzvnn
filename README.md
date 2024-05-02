@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft rolls out passkey support for all consumer accounts; Microsoft account owners can generate passkeys across Windows, Android, and iOS &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240502/p23#a240502p23)
+ - [Loopy Pro Review: The Best iPad Music Recording Software](https://www.wired.com/story/loopy-pro-rave/)
  - [Microsoft launches passkey support for all consumer accounts](https://www.theverge.com/2024/5/2/24147124/microsoft-passkeys-support-consumer-msa)
- - [LA-based wealth management startup Altruist, whose software and app help with trading and more, raised a $169M Series E led by Iconiq at a $1.5B valuation &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240502/p22#a240502p22)
- - [The best entertainment of 2024](https://www.theverge.com/entertainment/24090208/best-entertainment-2024-games-film-tv-streaming)
- - [Le Wand Die Cast Massager Review: A Wand for Wand Connoisseurs](https://www.wired.com/review/le-wand-die-cast-vibrating-massager/)
- - [Tales of Kenzera’s heart-wrenching story proved tougher than its platforming](https://www.theverge.com/24146692/tales-of-kenzera-zau-review-metroidvania-platformer)<!-- TECH:END -->
+ - [World Password Day: We&#39;re Closer to Ditching This Crackable Tech     - CNET](https://www.cnet.com/tech/services-and-software/world-password-day-were-closer-to-ditching-this-crackable-tech/#ftag=CAD590a51e)
+ - [LA-based wealth management startup Altruist, whose software and app help with trading and more, raised a $169M Series E led by Iconiq at a $1.5B valuation &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240502/p22#a240502p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

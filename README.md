@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US DOJ sentences Ukrainian national Yaroslav Vasinskyi to 13+ years in prison and orders $16M in restitution for helping REvil conduct ransomware attacks &lpar;Hannah Rabinowitz/CNN&rpar;](http://www.techmeme.com/240502/p1#a240502p1)
  - [How to use Siri in CarPlay with or without your voice](https://appleinsider.com/inside/carplay/tips/how-to-use-siri-in-carplay-with-or-without-your-voice?utm_medium=rss)
  - [Best Wi-Fi Wireless Speaker of 2024     - CNET](https://www.cnet.com/tech/home-entertainment/best-wi-fi-wireless-speakers/#ftag=CAD590a51e)
  - [Chennai-based CRM software maker Freshworks redesignates CEO Girish Mathrubootham as the executive chairman and names Dennis Woodside as his replacement &lpar;Bhavya Dilipkumar/Moneycontrol&rpar;](http://www.techmeme.com/240501/p45#a240501p45)
- - [Best Memory Foam Mattresses for 2024     - CNET](https://www.cnet.com/health/sleep/best-memory-foam-mattress/#ftag=CAD590a51e)
- - [Best Action Cameras of 2024     - CNET](https://www.cnet.com/tech/computing/best-action-camera/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Memory Foam Mattresses for 2024     - CNET](https://www.cnet.com/health/sleep/best-memory-foam-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

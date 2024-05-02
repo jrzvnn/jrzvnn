@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [An almost complete Greek God family tree](http://9gag.com/gag/aqymQjP)
- - 😝 [Look Now I&#39;m No Longer A Career Criminal. See You In Europe!](http://9gag.com/gag/an7YxNn)
- - 💣 [Your weapons don&#39;t bother me](http://9gag.com/gag/a2vN0ep)
+ - 😝 [Nokia 3210 coming soon](http://9gag.com/gag/aD20nYw)
+ - 😝 [Didn&#39;t know Medusa was this cute](http://9gag.com/gag/a1mA0ZD)
+ - 💣 [I knew it!](http://9gag.com/gag/apRq6GD)
  - 😝 [How many of you can relate?](http://9gag.com/gag/aRBQMvG)
- - 👉 [Portlander Snaps and Drives Through Parade](http://9gag.com/gag/a4P4N4y)<!-- MEMES:END -->
+ - 👉 [After waiting a decade for the perfect pearl](http://9gag.com/gag/a4P4zNy)<!-- MEMES:END -->
 
 ---
 

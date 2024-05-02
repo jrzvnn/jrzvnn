@@ -162,10 +162,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [How to use Siri in CarPlay with or without your voice](https://appleinsider.com/inside/carplay/tips/how-to-use-siri-in-carplay-with-or-without-your-voice?utm_medium=rss)
+ - [Best Wi-Fi Wireless Speaker of 2024     - CNET](https://www.cnet.com/tech/home-entertainment/best-wi-fi-wireless-speakers/#ftag=CAD590a51e)
  - [Chennai-based CRM software maker Freshworks redesignates CEO Girish Mathrubootham as the executive chairman and names Dennis Woodside as his replacement &lpar;Bhavya Dilipkumar/Moneycontrol&rpar;](http://www.techmeme.com/240501/p45#a240501p45)
- - [Ethan Zuckerman sues to stop Meta from blocking his planned Unfollow Everything 2.0 extension that would let Facebook users effectively turn off their newsfeed &lpar;Vittoria Elliott/Wired&rpar;](http://www.techmeme.com/240501/p44#a240501p44)
- - [Google paid Apple $20 Billion to be default search engine in 2022](https://appleinsider.com/articles/24/05/02/google-paid-apple-20-billion-to-be-default-search-engine-in-2022?utm_medium=rss)
- - [Fed Meeting Update: Interest Rates Will Stay High Until Inflation Cools     - CNET](https://www.cnet.com/personal-finance/banking/fed-meeting-update-interest-rates-will-stay-high-until-inflation-cools/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Memory Foam Mattresses for 2024     - CNET](https://www.cnet.com/health/sleep/best-memory-foam-mattress/#ftag=CAD590a51e)
+ - [Best Action Cameras of 2024     - CNET](https://www.cnet.com/tech/computing/best-action-camera/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

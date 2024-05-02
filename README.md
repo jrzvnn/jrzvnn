@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Y u internet](http://9gag.com/gag/an7YOEn)
- - 😝 [I just told you i&#39;ve already bought it, harry. you don&#39;t need to sell it to me](http://9gag.com/gag/aD20nGN)
- - 💣 [I knew it!](http://9gag.com/gag/apRq6GD)
- - 😝 [We\u2019ve all been there](http://9gag.com/gag/aAyYE89)
- - 👉 [After waiting a decade for the perfect pearl](http://9gag.com/gag/a4P4zNy)<!-- MEMES:END -->
+ - 😝 [If you have forgotten this video, I haven&#39;t. This is a perfect example of what sandpeople are. Yet they are coming in millions in Europe.](http://9gag.com/gag/ae9N9op)
+ - 😝 [Ryan Gosling and Mikey Day at movie premiere red carpet dressed as Beavis and Butthead](http://9gag.com/gag/aGy9MwK)
+ - 💣 [Funny Cat](http://9gag.com/gag/a34YA11)
+ - 😝 [Good deal for everyone](http://9gag.com/gag/aE0wALO)
+ - 👉 [Bro won in life. Best marriage proposal reaction EVER](http://9gag.com/gag/a7o5eNe)<!-- MEMES:END -->
 
 ---
 

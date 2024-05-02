@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Player 3 entered the game](http://9gag.com/gag/aO8qPdR)
- - 😝 [World\u2019s fastest karma.](http://9gag.com/gag/aZZP8jz)
- - 💣 [Race](http://9gag.com/gag/abA5x6p)
- - 😝 [Drive of a lifetime!](http://9gag.com/gag/a7o59Wz)
- - 👉 [When the NPC gets out of line](http://9gag.com/gag/azxbG0K)<!-- MEMES:END -->
+ - 😝 [An almost complete Greek God family tree](http://9gag.com/gag/aqymQjP)
+ - 😝 [Look Now I&#39;m No Longer A Career Criminal. See You In Europe!](http://9gag.com/gag/an7YxNn)
+ - 💣 [Your weapons don&#39;t bother me](http://9gag.com/gag/a2vN0ep)
+ - 😝 [How many of you can relate?](http://9gag.com/gag/aRBQMvG)
+ - 👉 [Portlander Snaps and Drives Through Parade](http://9gag.com/gag/a4P4N4y)<!-- MEMES:END -->
 
 ---
 

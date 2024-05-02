@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Passkeys: all the news and updates around passwordless sign-ins](https://www.theverge.com/2023/9/29/23895518/passkey-passwordless-login-announcements-news-updates)
+ - [The last thing the iPad needs is a spec bump](https://www.theverge.com/2024/5/2/24147271/apple-ipad-air-pro-let-loose-event-accessories-pencil)
  - [Microsoft finally lets users sign into accounts with passkeys](https://appleinsider.com/articles/24/05/02/microsoft-finally-lets-users-sign-into-accounts-with-passkeys?utm_medium=rss)
  - [Rabbit R1 review: $199 is the right price, fun design, and a good mic, but the best features are all MIA, finicky and slow, and using a phone is better &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240502/p29#a240502p29)
- - [Microsoft made the biggest renewable energy agreement ever to fuel its AI ambitions](https://www.theverge.com/2024/5/2/24147153/microsoft-ai-data-center-record-renewable-energy-purchase)
- - [The highest observatory in the world just opened in Chile](https://www.theverge.com/2024/5/2/24146743/university-of-tokyo-atacama-observatory-telescope-highest-altitude-infrared)
- - [Warrantless FBI searches of American communications drop 50 percent](https://www.theverge.com/2024/5/2/24147263/fbi-fisa-section-702-searches-transparency-report)<!-- TECH:END -->
+ - [Microsoft made the biggest renewable energy agreement ever to fuel its AI ambitions](https://www.theverge.com/2024/5/2/24147153/microsoft-ai-data-center-record-renewable-energy-purchase)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

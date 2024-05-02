@@ -158,11 +158,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Q2: revenue from Services, which includes Apple TV+ and Apple Music, rose 14% YoY to $23.9B, vs. $23.27B estimated, an all-time record &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240502/p41#a240502p41)
  - [Apple reversed its stock trajectory for the year in 30 minutes](https://appleinsider.com/articles/24/05/02/apple-reversed-its-stock-trajectory-for-the-year-in-30-minutes?utm_medium=rss)
  - [Apple blows away Wall Street earnings guesses, even with weak China iPhone sales](https://appleinsider.com/articles/24/05/02/apple-blows-away-wall-street-earnings-guesses-even-with-weak-china-iphone-sales?utm_medium=rss)
  - [Want to Buy a Decommissioned Supercomputer? Here’s Your Chance](https://www.wired.com/story/cray-supercomputer-auction/)
- - [Tim Cook dismisses misguided DOJ lawsuit in the shadow of strong earnings](https://appleinsider.com/articles/24/05/02/tim-cook-dismisses-misguided-doj-lawsuit-in-the-shadow-of-strong-earnings?utm_medium=rss)
- - [Coinbase reports Q1 net revenue up 116% YoY to $1.59B, vs. $1.32B est., net income of $1.18B, consumer transaction revenue of $935M, up 99% QoQ &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/240502/p40#a240502p40)<!-- TECH:END -->
+ - [Tim Cook dismisses misguided DOJ lawsuit in the shadow of strong earnings](https://appleinsider.com/articles/24/05/02/tim-cook-dismisses-misguided-doj-lawsuit-in-the-shadow-of-strong-earnings?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

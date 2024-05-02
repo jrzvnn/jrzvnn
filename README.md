@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Block Q1: revenue up 19% YoY to $5.96B, vs. $5.82B est., gross profit up 22% to $2.09B, Square profit up 19%, Cash App profit up 25%; SQ jumps 7%+ after hours &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/240502/p37#a240502p37)
+ - [Apple reports second quarter results &lpar;Apple&rpar;](http://www.techmeme.com/240502/p36#a240502p36)
  - [WhatsApp told Delhi High Court last week that it will be forced to leave India if required to maintain &quot;traceability&quot; for messages as part of 2021&#39;s IT rules &lpar;Russell Brandom/Rest of World&rpar;](http://www.techmeme.com/240502/p35#a240502p35)
  - [When notifications remind us of things we’d rather forget](https://www.theverge.com/24147418/intrusive-notifications-bad-memories-cloud-storage)
- - [Amazon CEO Andy Jassy broke labor laws by saying workers are ‘better off’ without a union](https://www.theverge.com/2024/5/2/24147404/amazon-ceo-andy-jassy-violate-labor-laws-nlrb)
- - [Tether says it is working with Chainalysis to identify crypto wallets that could be used for bypassing sanctions or illicit activities like terrorist financing &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/240502/p34#a240502p34)
- - [Beats Pill revival resurfaces thanks to F1 driver Daniel Ricciardo](https://appleinsider.com/articles/24/05/02/beats-pill-revival-resurfaces-thanks-to-f1-driver-daniel-ricciardo?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon CEO Andy Jassy broke labor laws by saying workers are ‘better off’ without a union](https://www.theverge.com/2024/5/2/24147404/amazon-ceo-andy-jassy-violate-labor-laws-nlrb)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

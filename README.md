@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Beats Pill revival resurfaces thanks to F1 driver Daniel Ricciardo](https://appleinsider.com/articles/24/05/02/beats-pill-revival-resurfaces-thanks-to-f1-driver-daniel-ricciardo?utm_medium=rss)
  - [Microsoft bans US police departments from using integrations with Azure OpenAI Service, including integrations with OpenAI&#39;s text- and speech-analyzing models &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240502/p33#a240502p33)
  - [The 21 Best Movies on Apple TV+ Right Now &lpar;May 2024&rpar;](https://www.wired.com/story/best-apple-tv-plus-movies/)
  - [Siri on HomePod can&#39;t tell you what time it is right now](https://appleinsider.com/articles/24/05/02/siri-on-homepod-cant-tell-you-what-time-it-is-right-now?utm_medium=rss)
- - [Hyundai invests $475M in self-driving startup Motional and will spend another $448M to buy 11% of Aptiv&#39;s common equity interest in Motional &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/240502/p32#a240502p32)
- - [A federal judge grills both the DOJ and Google in the closing arguments of US v. Google, as the most consequential tech antitrust case since the 1990s concludes &lpar;New York Times&rpar;](http://www.techmeme.com/240502/p31#a240502p31)<!-- TECH:END -->
+ - [Hyundai invests $475M in self-driving startup Motional and will spend another $448M to buy 11% of Aptiv&#39;s common equity interest in Motional &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/240502/p32#a240502p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

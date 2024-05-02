@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Layla is showing us her strenght](http://9gag.com/gag/aYQbDOO)
- - 😝 [\u2026\u2026..](http://9gag.com/gag/aMV1Pox)
- - 💣 [When the NPC gets out of line](http://9gag.com/gag/azxbG0K)
- - 😝 [World\u2019s fastest karma.](http://9gag.com/gag/aZZP8jz)
- - 👉 [A ramen stall in Japan](http://9gag.com/gag/aXPb7AP)<!-- MEMES:END -->
+ - 😝 [Who tf is paying for this??](http://9gag.com/gag/agmy4Qv)
+ - 😝 [A ramen stall in Japan](http://9gag.com/gag/aXPb7AP)
+ - 💣 [\u2026\u2026..](http://9gag.com/gag/aMV1Pox)
+ - 😝 [What do you think of?](http://9gag.com/gag/aVvOZLd)
+ - 👉 [World\u2019s fastest karma.](http://9gag.com/gag/aZZP8jz)<!-- MEMES:END -->
 
 ---
 

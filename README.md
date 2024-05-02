@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FDA qualifies Apple Watch’s AFib history for use in clinical studies](https://www.theverge.com/2024/5/2/24147178/fda-apple-watch-mddt-qualification-afib-history)
- - [[Thread] California state Sen. Scott Wiener defends his AI safety bill SB 1047, after criticism that it will &quot;crush OpenAI&#39;s competitors&quot; and open-source AI &lpar;Senator Scott Wiener/@scott_wiener&rpar;](http://www.techmeme.com/240502/p30#a240502p30)
- - [Passkeys: all the news and updates around passwordless sign-ins](https://www.theverge.com/2023/9/29/23895518/passkey-passwordless-login-announcements-news-updates)
- - [The last thing the iPad needs is a spec bump](https://www.theverge.com/2024/5/2/24147271/apple-ipad-air-pro-let-loose-event-accessories-pencil)
- - [Microsoft finally lets users sign into accounts with passkeys](https://appleinsider.com/articles/24/05/02/microsoft-finally-lets-users-sign-into-accounts-with-passkeys?utm_medium=rss)<!-- TECH:END -->
+ - [A federal judge grills both the DOJ and Google in the closing arguments of US v. Google, as the most consequential tech antitrust case since the 1990s concludes &lpar;New York Times&rpar;](http://www.techmeme.com/240502/p31#a240502p31)
+ - [Save on flowers, jewelry, clothes and more with these select Apple Pay deals](https://appleinsider.com/articles/24/05/02/save-on-flowers-jewelry-clothes-and-more-with-these-select-apple-pay-deals?utm_medium=rss)
+ - [After 16 years, Ecobee is shutting down support for the original smart thermostat](https://www.theverge.com/2024/5/2/24147154/ecobee-smart-thermostat-end-of-support)
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
+ - [FDA qualifies Apple Watch’s AFib history for use in clinical studies](https://www.theverge.com/2024/5/2/24147178/fda-apple-watch-mddt-qualification-afib-history)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

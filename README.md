@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Arthur](http://9gag.com/gag/a4P452m)
- - 😝 [Biker experiences Adrenaline Crash after getting side swiped](http://9gag.com/gag/aNDeV13)
- - 💣 [An almost complete Greek God family tree](http://9gag.com/gag/aqymQjP)
- - 😝 [Deal can&#39;t reach!.](http://9gag.com/gag/aPAvxzQ)
- - 👉 [Didn&#39;t know Medusa was this cute](http://9gag.com/gag/a1mA0ZD)<!-- MEMES:END -->
+ - 😝 [\u2026\u2026..](http://9gag.com/gag/aMV1Pox)
+ - 😝 [After waiting a decade for the perfect pearl](http://9gag.com/gag/a4P4zNy)
+ - 💣 [Protect that bro at all cost.](http://9gag.com/gag/agmy82n)
+ - 😝 [EmotionalDamage](http://9gag.com/gag/aRBQLp2)
+ - 👉 [How many of you can relate?](http://9gag.com/gag/aRBQMvG)<!-- MEMES:END -->
 
 ---
 

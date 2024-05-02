@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u2026\u2026..](http://9gag.com/gag/aMV1Pox)
- - 😝 [After waiting a decade for the perfect pearl](http://9gag.com/gag/a4P4zNy)
- - 💣 [Protect that bro at all cost.](http://9gag.com/gag/agmy82n)
- - 😝 [EmotionalDamage](http://9gag.com/gag/aRBQLp2)
- - 👉 [How many of you can relate?](http://9gag.com/gag/aRBQMvG)<!-- MEMES:END -->
+ - 😝 [Didn&#39;t know Medusa was this cute](http://9gag.com/gag/a1mA0ZD)
+ - 😝 [I knew it!](http://9gag.com/gag/apRq6GD)
+ - 💣 [Deal can&#39;t reach!.](http://9gag.com/gag/aPAvxzQ)
+ - 😝 [How many of you can relate?](http://9gag.com/gag/aRBQMvG)
+ - 👉 [Women without Rights\ud83d\ude06\ud83d\ude06](http://9gag.com/gag/ayN5qVY)<!-- MEMES:END -->
 
 ---
 

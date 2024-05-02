@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Le Wand Die Cast Massager Review: A Wand for Wand Connoisseurs](https://www.wired.com/review/le-wand-die-cast-vibrating-massager/)
+ - [Tales of Kenzera’s heart-wrenching story proved tougher than its platforming](https://www.theverge.com/24146692/tales-of-kenzera-zau-review-metroidvania-platformer)
  - [How to Create and Customize Stickers with iOS 17](https://www.wired.com/story/how-to-create-stickers-iphone-ios-17/)
  - [Get Ready for Monster Hurricanes This Summer](https://www.wired.com/story/monster-hurricane-season-summer-2024-atlantic-tropical-storm/)
- - [Nvidia makes it easier to get GeForce Now running on the Steam Deck](https://www.theverge.com/2024/5/2/24147034/nvidia-geforce-now-steam-deck-script-install)
- - [Bose’s new SoundLink Max has a little handle and big sound](https://www.theverge.com/2024/5/2/24146865/bose-soundlink-max-bluetooth-speaker-features)
- - [Sony plans to remove Horizon Zero Dawn, one of its biggest first-party games, from PlayStation Plus on May 21; the game is PS4-only, hinting at a PS5 release &lpar;Tom Phillips/Eurogamer.net&rpar;](http://www.techmeme.com/240502/p21#a240502p21)<!-- TECH:END -->
+ - [Nvidia makes it easier to get GeForce Now running on the Steam Deck](https://www.theverge.com/2024/5/2/24147034/nvidia-geforce-now-steam-deck-script-install)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

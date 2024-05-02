@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We\u2019ve all been there](http://9gag.com/gag/aAyYE89)
- - 😝 [Coach was like. I taught you everything you know but NOT everything I know](http://9gag.com/gag/aW4ZLQ2)
- - 💣 [Streaming pirate existence!](http://9gag.com/gag/an7YvX0)
- - 😝 [If you have forgotten this video, I haven&#39;t. This is a perfect example of what sandpeople are. Yet they are coming in millions in Europe.](http://9gag.com/gag/ae9N9op)
- - 👉 [\u2026\u2026..](http://9gag.com/gag/aMV1Pox)<!-- MEMES:END -->
+ - 😝 [Bird is sucked in to jet\u2019s engine causing it to crash](http://9gag.com/gag/a7o5ozw)
+ - 😝 [A wise decision.](http://9gag.com/gag/amoX6E9)
+ - 💣 [Vicious little rat](http://9gag.com/gag/axyN3bD)
+ - 😝 [Your weapons don&#39;t bother me](http://9gag.com/gag/a2vN0ep)
+ - 👉 [I knew it!](http://9gag.com/gag/apRq6GD)<!-- MEMES:END -->
 
 ---
 

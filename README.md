@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [German kids singing `foreigners out` in a nightclub.](http://9gag.com/gag/a87W6Wd)
- - 😝 [Jokes writing themselves](http://9gag.com/gag/aLnKe3v)
- - 💣 [Biker experiences Adrenaline Crash after getting side swiped](http://9gag.com/gag/aNDeV13)
- - 😝 [After waiting a decade for the perfect pearl](http://9gag.com/gag/a4P4zNy)
- - 👉 [I knew it!](http://9gag.com/gag/apRq6GD)<!-- MEMES:END -->
+ - 😝 [Protect that bro at all cost.](http://9gag.com/gag/agmy82n)
+ - 😝 [An almost complete Greek God family tree](http://9gag.com/gag/aqymQjP)
+ - 💣 [World\u2019s fastest karma.](http://9gag.com/gag/aZZP8jz)
+ - 😝 [How many of you can relate?](http://9gag.com/gag/aRBQMvG)
+ - 👉 [After waiting a decade for the perfect pearl](http://9gag.com/gag/a4P4zNy)<!-- MEMES:END -->
 
 ---
 

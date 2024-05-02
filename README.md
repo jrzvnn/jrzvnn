@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nokia 3210 coming soon](http://9gag.com/gag/aD20nYw)
- - 😝 [Didn&#39;t know Medusa was this cute](http://9gag.com/gag/a1mA0ZD)
- - 💣 [I knew it!](http://9gag.com/gag/apRq6GD)
- - 😝 [How many of you can relate?](http://9gag.com/gag/aRBQMvG)
- - 👉 [After waiting a decade for the perfect pearl](http://9gag.com/gag/a4P4zNy)<!-- MEMES:END -->
+ - 😝 [Layla is showing us her strenght](http://9gag.com/gag/aYQbDOO)
+ - 😝 [\u2026\u2026..](http://9gag.com/gag/aMV1Pox)
+ - 💣 [When the NPC gets out of line](http://9gag.com/gag/azxbG0K)
+ - 😝 [World\u2019s fastest karma.](http://9gag.com/gag/aZZP8jz)
+ - 👉 [A ramen stall in Japan](http://9gag.com/gag/aXPb7AP)<!-- MEMES:END -->
 
 ---
 

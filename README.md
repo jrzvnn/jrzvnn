@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch is FDA&#39;s first-ever approved digital AFib history device](https://appleinsider.com/articles/24/05/02/apple-watch-is-fdas-first-ever-approved-digital-afib-history-device?utm_medium=rss)
- - [Best Sonos Setup &lpar;2024&rpar;: Which Speakers and Soundbars Should You Buy?](https://www.wired.com/story/best-sonos-speakers-buying-guide/)
- - [I Saw the TV Glow is a tribute to the transformative power of fandom](https://www.theverge.com/24141747/i-saw-the-tv-glow-review-a24)
- - [Microsoft rolls out passkey support for all consumer accounts; Microsoft account owners can generate passkeys across Windows, Android, and iOS &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240502/p23#a240502p23)
- - [Loopy Pro Review: The Best iPad Music Recording Software](https://www.wired.com/story/loopy-pro-rave/)<!-- TECH:END -->
+ - [Apple adds carve-outs to EU core tech fee: exempts developers of free apps and gives those with annual global revenue of less than &amp;euro;10M a 3-year &quot;free on-ramp&quot; &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240502/p25#a240502p25)
+ - [Apple won&#39;t fight EU over iPad gatekeeper status, third-party App Stores coming](https://appleinsider.com/articles/24/05/02/apple-wont-fight-eu-over-ipad-gatekeeper-status-third-party-app-stores-coming?utm_medium=rss)
+ - [EU Core Technology Fee for small &amp; non-profit developers pared way back](https://appleinsider.com/articles/24/05/02/eu-core-technology-fee-for-small-non-profit-developers-pared-way-back?utm_medium=rss)
+ - [Nintendo’s Orlando theme park will have Yoshi and Donkey Kong rides](https://www.theverge.com/2024/5/2/24147170/universal-orlando-super-nintendo-world-donkey-kong-country)
+ - [Peloton&#39;s CEO Barry McCarthy steps down as the company lays off ~15% of workforce, or ~400 people, its fifth layoffs since 2021, when it had 8,600 staffers &lpar;The Verge&rpar;](http://www.techmeme.com/240502/p24#a240502p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

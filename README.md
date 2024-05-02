@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple gives small developers more ways around its alternative app store tax](https://www.theverge.com/2024/5/2/24147225/apple-ios-iphone-ipad-core-technology-fee-eu)
+ - [Brazil-based Indicium, which helps enterprises become &quot;data-driven&quot; using data stacks from AWS and others, raised $40M to expand its operations in the US &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/240502/p28#a240502p28)
  - [Some developers are releasing longer context windows for Llama 3 thanks to Meta&#39;s open-source approach; Llama 3 has a short context window of 8,000+ tokens &lpar;Kalley Huang/The Information&rpar;](http://www.techmeme.com/240502/p27#a240502p27)
  - [Nick Bostrom Made the World Fear AI. Now He Asks: What if It Fixes Everything?](https://www.wired.com/story/nick-bostrom-fear-ai-fix-everything/)
- - [How Far-Right, Extremist Militias Organize On Facebook](https://www.wired.com/story/far-right-militias-extremism-facebook/)
- - [Google is getting even worse for independent sites](https://www.theverge.com/2024/5/2/24147152/google-search-seo-publishing-housefresh-product-reviews)
- - [Rabbit R1 review: nothing to see here](https://www.theverge.com/2024/5/2/24147159/rabbit-r1-review-ai-gadget)<!-- TECH:END -->
+ - [How Far-Right, Extremist Militias Organize On Facebook](https://www.wired.com/story/far-right-militias-extremism-facebook/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

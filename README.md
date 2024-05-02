@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [After waiting a decade for the perfect pearl](http://9gag.com/gag/a4P4zNy)
- - 😝 [I knew it!](http://9gag.com/gag/apRq6GD)
+ - 😝 [My brothers please join me in my quest for cursed images.](http://9gag.com/gag/aXPbMd6)
+ - 😝 [We\u2019ve all been there](http://9gag.com/gag/aAyYE89)
  - 💣 [EmotionalDamage](http://9gag.com/gag/aRBQLp2)
- - 😝 [Arthur](http://9gag.com/gag/a4P452m)
- - 👉 [German ambassador almost got lynched in Ramallah](http://9gag.com/gag/an7YOb5)<!-- MEMES:END -->
+ - 😝 [What was your `oh shit` moment in a movie/show](http://9gag.com/gag/apRq1zM)
+ - 👉 [German ambasssador in Rafah](http://9gag.com/gag/azxb53N)<!-- MEMES:END -->
 
 ---
 

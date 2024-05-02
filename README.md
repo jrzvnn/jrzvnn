@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [After waiting a decade for the perfect pearl](http://9gag.com/gag/a4P4zNy)
- - 😝 [Bro won in life. Best marriage proposal reaction EVER](http://9gag.com/gag/a7o5eNe)
- - 💣 [Deal can&#39;t reach!.](http://9gag.com/gag/aPAvxzQ)
- - 😝 [Y u internet](http://9gag.com/gag/an7YOEn)
- - 👉 [\u2665\ufe0f\ud83e\udd7a](http://9gag.com/gag/a9yd6KW)<!-- MEMES:END -->
+ - 😝 [A wise decision.](http://9gag.com/gag/amoX6E9)
+ - 😝 [Who else belongs here ?](http://9gag.com/gag/aKGz9Q1)
+ - 💣 [Students in Flanders - Belgium were asked to bring a flag of their choice to school. Guy brings Flemish flag. Student had to hand it in because it could be &#39;provocative&#39; to other students.](http://9gag.com/gag/aD202Xd)
+ - 😝 [We aren\u2019t playing Crash Bandicoot any more that\u2019s for sure..](http://9gag.com/gag/aVvOg6y)
+ - 👉 [I knew it!](http://9gag.com/gag/apRq6GD)<!-- MEMES:END -->
 
 ---
 

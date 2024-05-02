@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rabbit R1 review: nothing to see here](https://www.theverge.com/2024/5/2/24147159/rabbit-r1-review-ai-gadget)
- - [LayerX, which makes a browser extension to let companies secure their devices and SaaS apps, raised a $26M Series A, bringing its total funding to $34M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/240502/p26#a240502p26)
- - [5 Best Rain Jackets &lpar;2024&rpar;: Cheap, Eco-Friendly, Hiking, and Running](https://www.wired.com/story/best-rain-jackets/)
- - [The Breach of a Face Recognition Firm Reveals a Hidden Danger of Biometrics](https://www.wired.com/story/outabox-facial-recognition-breach/)
- - [Spotify’s shortform videos could spread to more parts of the app](https://www.theverge.com/2024/5/2/24147164/spotify-test-clips-short-form-video-playlist-pages)<!-- TECH:END -->
+ - [Some developers are releasing longer context windows for Llama 3 thanks to Meta&#39;s open-source approach; Llama 3 has a short context window of 8,000+ tokens &lpar;Kalley Huang/The Information&rpar;](http://www.techmeme.com/240502/p27#a240502p27)
+ - [Nick Bostrom Made the World Fear AI. Now He Asks: What if It Fixes Everything?](https://www.wired.com/story/nick-bostrom-fear-ai-fix-everything/)
+ - [How Far-Right, Extremist Militias Organize On Facebook](https://www.wired.com/story/far-right-militias-extremism-facebook/)
+ - [Google is getting even worse for independent sites](https://www.theverge.com/2024/5/2/24147152/google-search-seo-publishing-housefresh-product-reviews)
+ - [Rabbit R1 review: nothing to see here](https://www.theverge.com/2024/5/2/24147159/rabbit-r1-review-ai-gadget)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u2026\u2026..](http://9gag.com/gag/aMV1Pox)
- - 😝 [Look Now I&#39;m No Longer A Career Criminal. See You In Europe!](http://9gag.com/gag/an7YxNn)
- - 💣 [My brothers please join me in my quest for cursed images.](http://9gag.com/gag/aXPbMd6)
- - 😝 [After waiting a decade for the perfect pearl](http://9gag.com/gag/a4P4zNy)
- - 👉 [I knew it!](http://9gag.com/gag/apRq6GD)<!-- MEMES:END -->
+ - 😝 [Player 3 entered the game](http://9gag.com/gag/aO8qPdR)
+ - 😝 [World\u2019s fastest karma.](http://9gag.com/gag/aZZP8jz)
+ - 💣 [Race](http://9gag.com/gag/abA5x6p)
+ - 😝 [Drive of a lifetime!](http://9gag.com/gag/a7o59Wz)
+ - 👉 [When the NPC gets out of line](http://9gag.com/gag/azxbG0K)<!-- MEMES:END -->
 
 ---
 

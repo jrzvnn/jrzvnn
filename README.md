@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TMTG co-founder Andy Litinsky, testifying as a witness in an insider trading case, says Trump nearly derailed the DWAC deal in October 2021, before signing on &lpar;Matthew Goldstein/New York Times&rpar;](http://www.techmeme.com/240502/p11#a240502p11)
  - [AI has the potential to ease the US meat industry&#39;s labor vulnerability by letting robots perform some of the high precision tasks required to butcher meat &lpar;Bloomberg&rpar;](http://www.techmeme.com/240502/p10#a240502p10)
  - [Extremist Militias Are Coordinating in More Than 100 Facebook Groups](https://www.wired.com/story/extremist-militias-are-coordinating-on-facebook/)
  - [As social media platforms pivot away from news distribution, a look at news sites like The Verge, which function like social media, with aggregation and more &lpar;Kyle Chayka/New Yorker&rpar;](http://www.techmeme.com/240502/p9#a240502p9)
- - [Universal Music Group and TikTok agree a new music licensing deal to bring UMG music back to the platform, including &quot;improved remuneration&quot; and AI protections &lpar;Jem Aswad/Variety&rpar;](http://www.techmeme.com/240502/p8#a240502p8)
- - [Never Got Your April Social Security Check? What You Should Do     - CNET](https://www.cnet.com/personal-finance/never-got-your-april-social-security-check-what-you-should-do/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Universal Music Group and TikTok agree a new music licensing deal to bring UMG music back to the platform, including &quot;improved remuneration&quot; and AI protections &lpar;Jem Aswad/Variety&rpar;](http://www.techmeme.com/240502/p8#a240502p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fcckkk!! I didn&#39;t know Wasp had an archenemy. This bird is now my favorite bird!](http://9gag.com/gag/aRBQZ2q)
- - 😝 [If you have forgotten this video, I haven&#39;t. This is a perfect example of what sandpeople are. Yet they are coming in millions in Europe.](http://9gag.com/gag/ae9N9op)
- - 💣 [Good deal for everyone](http://9gag.com/gag/aE0wALO)
- - 😝 [\u2026\u2026..](http://9gag.com/gag/aMV1Pox)
- - 👉 [Streaming pirate existence!](http://9gag.com/gag/an7YvX0)<!-- MEMES:END -->
+ - 😝 [After waiting a decade for the perfect pearl](http://9gag.com/gag/a4P4zNy)
+ - 😝 [German ambassador almost got lynched in Ramallah](http://9gag.com/gag/an7YOb5)
+ - 💣 [New Miss Argentina is 60 years old, would you?](http://9gag.com/gag/awyrgK4)
+ - 😝 [I also want ice cream. Life is so unfair](http://9gag.com/gag/aZZPnpz)
+ - 👉 [Deal can&#39;t reach!.](http://9gag.com/gag/aPAvxzQ)<!-- MEMES:END -->
 
 ---
 

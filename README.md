@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [An almost complete Greek God family tree](http://9gag.com/gag/aqymQjP)
- - 😝 [After waiting a decade for the perfect pearl](http://9gag.com/gag/a4P4zNy)
- - 💣 [Biker experiences Adrenaline Crash after getting side swiped](http://9gag.com/gag/aNDeV13)
- - 😝 [EmotionalDamage](http://9gag.com/gag/aRBQLp2)
- - 👉 [Wife said I can&#39;t tell anyone yet... you guys aren&#39;t just anyone. Thanks for the years of entertainment! I have officially overcome the Darwin award.](http://9gag.com/gag/aYQbEoN)<!-- MEMES:END -->
+ - 😝 [I just told you i&#39;ve already bought it, harry. you don&#39;t need to sell it to me](http://9gag.com/gag/aD20nGN)
+ - 😝 [Oopsie](http://9gag.com/gag/azxbdzp)
+ - 💣 [An almost complete Greek God family tree](http://9gag.com/gag/aqymQjP)
+ - 😝 [The 911 of japan just occurred... They touch the holy vending machine... My yakult...](http://9gag.com/gag/a1mA542)
+ - 👉 [Didn&#39;t know Medusa was this cute](http://9gag.com/gag/a1mA0ZD)<!-- MEMES:END -->
 
 ---
 

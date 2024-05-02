@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Intel&#39;s efforts to build Ohio One, a &quot;mega fab&quot; that could become the world&#39;s largest chip factory and for which the company has committed $28B &lpar;Bloomberg&rpar;](http://www.techmeme.com/240502/p6#a240502p6)
+ - [Inside Ukraine’s Killer-Drone Startup Industry](https://www.wired.com/story/ukraine-drone-startups-russia/)
  - [Cybersecurity experts say responses to the new US data breach disclosure rules, which have raised legal risks for public companies and their CISOs, have varied &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/240502/p5#a240502p5)
  - [Microsoft announces plans to invest $2.2B in cloud and AI infrastructure in Malaysia over four years and train 200,000 people with AI skills in the country &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240502/p4#a240502p4)
- - [Trend Micro: cybercriminals and nation-state spies are coexisting inside the same compromised brand-name routers, using the devices to disguise their attacks &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240502/p3#a240502p3)
- - [SK Hynix says its capacity to make HBM chips is almost fully booked through 2025 and it now aims to begin mass production of its next-generation HBM chip in Q3 &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/240502/p2#a240502p2)
- - [The US DOJ sentences Ukrainian national Yaroslav Vasinskyi to 13+ years in prison and orders $16M in restitution for helping REvil conduct ransomware attacks &lpar;Hannah Rabinowitz/CNN&rpar;](http://www.techmeme.com/240502/p1#a240502p1)<!-- TECH:END -->
+ - [Trend Micro: cybercriminals and nation-state spies are coexisting inside the same compromised brand-name routers, using the devices to disguise their attacks &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240502/p3#a240502p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

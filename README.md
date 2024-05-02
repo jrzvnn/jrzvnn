@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I just told you i&#39;ve already bought it, harry. you don&#39;t need to sell it to me](http://9gag.com/gag/aD20nGN)
- - 😝 [Oopsie](http://9gag.com/gag/azxbdzp)
- - 💣 [An almost complete Greek God family tree](http://9gag.com/gag/aqymQjP)
- - 😝 [The 911 of japan just occurred... They touch the holy vending machine... My yakult...](http://9gag.com/gag/a1mA542)
- - 👉 [Didn&#39;t know Medusa was this cute](http://9gag.com/gag/a1mA0ZD)<!-- MEMES:END -->
+ - 😝 [How many of you can relate?](http://9gag.com/gag/aRBQMvG)
+ - 😝 [After waiting a decade for the perfect pearl](http://9gag.com/gag/a4P4zNy)
+ - 💣 [German kids singing `foreigners out` in a nightclub.](http://9gag.com/gag/a87W6Wd)
+ - 😝 [Biker experiences Adrenaline Crash after getting side swiped](http://9gag.com/gag/aNDeV13)
+ - 👉 [An almost complete Greek God family tree](http://9gag.com/gag/aqymQjP)<!-- MEMES:END -->
 
 ---
 

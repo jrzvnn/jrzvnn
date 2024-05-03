@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Manor Lords is slow and frustrating, and I can’t stop playing](https://www.theverge.com/24147616/manor-lords-steam-early-access)
  - [Apple said to be stealing tech from expensive suppliers to give to cheaper ones](https://appleinsider.com/articles/24/05/03/apple-said-to-be-stealing-tech-from-expensive-suppliers-to-give-to-cheaper-ones?utm_medium=rss)
  - [The Verge’s 2024 graduation gift guide](https://www.theverge.com/24126218/graduation-grad-gift-ideas-2024-college-high-school-dorm-tech-gadgets)
  - [The FCC warns that rural areas may lose cell service if Congress does not fill a $3B funding shortfall for US carriers to replace Huawei and ZTE equipment &lpar;Eva Dou/Washington Post&rpar;](http://www.techmeme.com/240503/p11#a240503p11)
- - [Rabbit, Humane, and the iPad](https://www.theverge.com/2024/5/3/24147941/rabbit-humane-ipad-ai-gadgets-openai-microsoft-google)
- - [Dell XPS 14 and 16 Review: Not Quite a MacBook Pro](https://www.wired.com/review/dell-xps-14-and-6/)<!-- TECH:END -->
+ - [Rabbit, Humane, and the iPad](https://www.theverge.com/2024/5/3/24147941/rabbit-humane-ipad-ai-gadgets-openai-microsoft-google)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

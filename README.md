@@ -91,11 +91,11 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft needs some time to ‘refine’ updates for Copilot AI in Windows](https://www.theverge.com/2024/5/3/24148473/windows-11-insider-copilot-preview-beta-dev-channel)
  - [Google bans advertisers from promoting deepfake porn services](https://www.theverge.com/2024/5/3/24148368/google-ad-policy-deepfake-pornography-nudes)
  - [LG’s quirky briefcase TV is nearly matching its best price to date](https://www.theverge.com/2024/5/3/24147594/lg-stanbyme-go-briefcase-tv-paramount-plus-showtime-deal-sale)
  - [Student Loan Forgiveness: What Should You Do If You Missed the Loan Consolidation Deadline?     - CNET](https://www.cnet.com/personal-finance/student-loan-forgiveness-heres-what-to-do-if-you-missed-the-loan-consolidation-deadline/#ftag=CAD590a51e)
- - [CSET: global AI research more than doubled between 2017 and 2022; Chinese Academy of Sciences was the top producer of highly cited AI papers, followed by Google &lpar;Alison Snyder/Axios&rpar;](http://www.techmeme.com/240503/p19#a240503p19)
- - [NBA Playoffs 2024: How to Watch Cavaliers vs. Magic, Clippers vs. Mavericks Tonight     - CNET](https://www.cnet.com/tech/services-and-software/nba-playoffs-2024-how-to-watch-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [CSET: global AI research more than doubled between 2017 and 2022; Chinese Academy of Sciences was the top producer of highly cited AI papers, followed by Google &lpar;Alison Snyder/Axios&rpar;](http://www.techmeme.com/240503/p19#a240503p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

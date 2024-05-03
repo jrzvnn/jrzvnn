@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft outlines security principles and goals tied to executive compensation packages, following a scathing report from the US Cyber Safety Review Board &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240503/p12#a240503p12)
  - [Instagram introduces new interactive stickers for Stories](https://www.theverge.com/2024/5/3/24147991/instagram-stories-stickers-polaroid-frames-reveal)
  - [Fujifilm Instax Mini 99 Review: An Instax Camera Photographers Will Love](https://www.wired.com/review/fujifilm-instax-mini-99/)
  - [Apple wants you to use Find My on iPhone 15 to hunt down fellow Mandalorians](https://appleinsider.com/articles/24/05/03/apple-wants-you-to-use-find-my-on-iphone-15-to-hunt-down-fellow-mandalorians?utm_medium=rss)
- - [Microsoft overhaul treats security as ‘top priority’ after a series of failures](https://www.theverge.com/2024/5/3/24147883/microsoft-security-priority-executive-compensation-goals)
- - [Biden grants automakers some flexibility on battery minerals in final EV tax credit rules](https://www.theverge.com/2024/5/3/24148003/ev-tax-credit-rule-battery-mineral-flexibility)<!-- TECH:END -->
+ - [Microsoft overhaul treats security as ‘top priority’ after a series of failures](https://www.theverge.com/2024/5/3/24147883/microsoft-security-priority-executive-compensation-goals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

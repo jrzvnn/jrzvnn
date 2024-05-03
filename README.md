@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to keep your Apple TV 4K&#39;s Siri Remote charged](https://appleinsider.com/inside/apple-tv-4k/tips/how-to-keep-your-apple-tv-4ks-siri-remote-charged?utm_medium=rss)
+ - [Japan&#39;s PM Fumio Kishida unveils an international voluntary framework for regulation and use of generative AI and says 49 countries and regions have signed up &lpar;Associated Press&rpar;](http://www.techmeme.com/240502/p51#a240502p51)
  - [Hubble Network, which is building a satellite network for Bluetooth devices, says it has made a Bluetooth connection directly to a satellite for the first time &lpar;Aria Alamalhodaei/TechCrunch&rpar;](http://www.techmeme.com/240502/p50#a240502p50)
  - [Would You Still Use Google if It Didn&#39;t Pay Apple $20 Billion to Get on Your iPhone?](https://www.wired.com/story/google-pay-apple-20-billion-to-get-on-your-iphone/)
- - [Onur Aksoy, who pleaded guilty to selling fake Cisco equipment on Amazon and eBay from 2013 to 2022, making over $100M, is sentenced to over six years in prison &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/240502/p49#a240502p49)
- - [Microsoft adds deputy chief information security officers within its product groups after a spate of cyberattacks, but declines to identify the new officials &lpar;Bloomberg&rpar;](http://www.techmeme.com/240502/p48#a240502p48)
- - [That&#39;s Hot: Check Out This Video of the Sun&#39;s Corona in All Its Glory     - CNET](https://www.cnet.com/science/thats-hot-check-out-this-video-of-the-suns-corona-in-all-its-glory/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Onur Aksoy, who pleaded guilty to selling fake Cisco equipment on Amazon and eBay from 2013 to 2022, making over $100M, is sentenced to over six years in prison &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/240502/p49#a240502p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

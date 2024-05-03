@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What to expect from Apple&#39;s May 7 event: new iPad Pros, possibly with M4 chips, updated iPad Air and Pencil, but AI features may not get a &quot;formal unveiling&quot; &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240503/p10#a240503p10)
+ - [Analysis paralysis - hot takes from investment firms in the wake of Apple earnings](https://appleinsider.com/articles/24/05/03/analysis-paralysis---hot-takes-from-investment-firms-in-the-wake-of-apple-earnings?utm_medium=rss)
+ - [Spotify leaks suggest lossless audio is almost ready](https://www.theverge.com/2024/5/3/24147887/spotify-hifi-lossless-audio-music-streaming-ui-leak)
+ - [What to expect from Apple&#39;s May 7 event: OLED iPad Pros, possibly with M4 chips, a 10.9&quot; and 12.9&quot; iPad Air, updates to Pencil and Magic Keyboard &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240503/p10#a240503p10)
  - [Multibillion-dollar Apple deal looms large in Google antitrust trial](https://www.theverge.com/2024/5/3/24147682/google-closing-arguments-search-distribution-trial-day-1)
- - [How Scrappy Cryptominer CoreWeave Transformed Into the Multibillion-Dollar Backbone of the AI Boom](https://www.wired.com/story/coreweave-scrappy-cryptominer-multibillion-dollar-ai/)
- - [Give This Rich Dude $1 or The Onion Disappears Forever](https://www.wired.com/story/plaintext-give-this-rich-dude-jeff-lawson-dollar-the-onion/)
- - [Ryûsuke Hamaguchi wants you to watch his new movie at least twice](https://www.theverge.com/24141455/evil-does-not-exist-ryusuke-hamaguchi-interview)<!-- TECH:END -->
+ - [How Scrappy Cryptominer CoreWeave Transformed Into the Multibillion-Dollar Backbone of the AI Boom](https://www.wired.com/story/coreweave-scrappy-cryptominer-multibillion-dollar-ai/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

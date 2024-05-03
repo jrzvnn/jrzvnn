@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is this the beginning of the Wokeistan?](http://9gag.com/gag/a1mALpb)
  - 😝 [They keep doing it](http://9gag.com/gag/aqymWYP)
- - 💣 [I knew it!](http://9gag.com/gag/apRq6GD)
- - 😝 [Portlander Snaps and Drives Through Parade](http://9gag.com/gag/a4P4N4y)
- - 👉 [This guy... this guy is Livingstone the Dream.](http://9gag.com/gag/an7Y2mL)<!-- MEMES:END -->
+ - 😝 [Didn&#39;t know Medusa was this cute](http://9gag.com/gag/a1mA0ZD)
+ - 💣 [Snack time at the zoo, building core memory too](http://9gag.com/gag/axyNvKp)
+ - 😝 [Cops shooting rubber bullets directly at students](http://9gag.com/gag/avy0vPZ)
+ - 👉 [Portlander Snaps and Drives Through Parade](http://9gag.com/gag/a4P4N4y)<!-- MEMES:END -->
 
 ---
 

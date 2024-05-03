@@ -161,9 +161,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Sources: cloud security startup Wiz will not acquire competitor Lacework; the deal, which was valued at $150M-$200M, fell through during due diligence process &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/240503/p3#a240503p3)
  - [A look at four Chinese generative AI startups, Zhipu AI, Moonshot AI, MiniMax and 01.ai, which have been valued between $1.2B and $2.5B in the past three months &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/240503/p2#a240503p2)
+ - [Best Beats Headphones and Earbuds for 2024     - CNET](https://www.cnet.com/tech/mobile/best-beats-headphones/#ftag=CAD590a51e)
  - [Tim Cook says half of the Fortune 100 companies have purchased Apple Vision Pro units &lpar;Wesley Hilliard/AppleInsider&rpar;](http://www.techmeme.com/240503/p1#a240503p1)
- - [5 Tricks This Mom Is Using to Stay Motivated After Paying Off $12K in Credit Card Debt     - CNET](https://www.cnet.com/personal-finance/5-tricks-this-mom-is-using-to-stay-motivated-after-paying-off-12k-in-credit-card-debt/#ftag=CAD590a51e)
- - [Mimic, which helps businesses detect, deflect, and quickly recover from ransomware attacks, emerges from stealth with a $27M seed led by Ballistic Ventures &lpar;Ryan Naraine/SecurityWeek&rpar;](http://www.techmeme.com/240502/p52#a240502p52)<!-- TECH:END -->
+ - [5 Tricks This Mom Is Using to Stay Motivated After Paying Off $12K in Credit Card Debt     - CNET](https://www.cnet.com/personal-finance/5-tricks-this-mom-is-using-to-stay-motivated-after-paying-off-12k-in-credit-card-debt/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

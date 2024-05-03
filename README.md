@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fingers crossed: Spotify might actually launch lossless audio in 2024](https://appleinsider.com/articles/24/05/03/fingers-crossed-spotify-might-actually-launch-lossless-audio-in-2024?utm_medium=rss)
  - [iPhone 15 Find My shows Mandalorians the way in latest Apple ad](https://appleinsider.com/articles/24/05/03/apple-wants-you-to-use-find-my-on-iphone-15-to-hunt-down-fellow-mandalorians?utm_medium=rss)
  - [Rabbit R1 Review: Skip This AI-Powered Hardware Assistant](https://www.wired.com/review/rabbit-r1/)
  - [Sources: Fei-Fei Li raised a seed round for a &quot;spatial intelligence&quot; startup using human-like visual data processing to create AI capable of advanced reasoning &lpar;Reuters&rpar;](http://www.techmeme.com/240503/p15#a240503p15)
- - [Save $120 on This 2-in-1 Robot Vacuum and Mop     - CNET](https://www.cnet.com/deals/save-120-on-this-2-in-1-robot-vacuum-and-mop/#ftag=CAD590a51e)
- - [Wells Fargo Autograph Journey: Better Than the Chase Sapphire Preferred?     - CNET](https://www.cnet.com/personal-finance/wells-fargo-autograph-journey-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save $120 on This 2-in-1 Robot Vacuum and Mop     - CNET](https://www.cnet.com/deals/save-120-on-this-2-in-1-robot-vacuum-and-mop/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [People agree! Start shipping those nose-pierced potatoes to the land of Ham-and-cheese and see how long they can survive without their trigger warnings.](http://9gag.com/gag/aD20VXG)
- - 😝 [Black queen](http://9gag.com/gag/arypqjB)
- - 💣 [This is pleasing](http://9gag.com/gag/aYQb1zx)
- - 😝 [Humanity in a nutshell](http://9gag.com/gag/a0e9E1v)
- - 👉 [Id wear that hair](http://9gag.com/gag/aVvOVmM)<!-- MEMES:END -->
+ - 😝 [There are so many](http://9gag.com/gag/an7YEKV)
+ - 😝 [Id wear that hair](http://9gag.com/gag/aVvOVmM)
+ - 💣 [Whatever floats your boat](http://9gag.com/gag/aXPbWyP)
+ - 😝 [He drank 197 coffes that day.](http://9gag.com/gag/aLnKdLv)
+ - 👉 [This is pleasing](http://9gag.com/gag/aYQb1zx)<!-- MEMES:END -->
 
 ---
 

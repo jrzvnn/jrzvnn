@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [X launches Stories on X, with news curated and summarized by Grok AI, available for Premium subscribers in the Explore tab on iOS and the web &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240503/p18#a240503p18)
+ - [Apple resellers are in a MacBook Air price war, driving M2 &amp; M3 models down to as low as $849](https://appleinsider.com/articles/24/05/03/apple-resellers-are-in-a-macbook-air-price-war-driving-m2-m3-models-down-to-as-low-as-849?utm_medium=rss)
+ - [X launches Stories on X, with news curated and summarized by Grok AI, available for Premium subscribers in the Explore tab on iOS and on the web &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240503/p18#a240503p18)
  - [In a letter, several Democrats serving as their state&#39;s top election officials ask Meta to repeal a policy allowing ads that claim the 2020 election was stolen &lpar;Christina A. Cassidy/Associated Press&rpar;](http://www.techmeme.com/240503/p17#a240503p17)
  - [How to install Steam using Whisky on Apple Silicon Macs](https://appleinsider.com/inside/apple-silicon/tips/how-to-install-steam-using-whisky-on-apple-silicon-macs?utm_medium=rss)
- - [More details emerge about Apple’s plans for AI in iOS 18](https://www.theverge.com/2024/5/3/24148282/apple-ai-iphone-ios-18-plans-ajax)
- - [DoorDash won’t let you tip NYC drivers without the app](https://www.theverge.com/2024/5/3/24148152/doordash-drivers-nyc-tipping-minimum-wage)<!-- TECH:END -->
+ - [More details emerge about Apple’s plans for AI in iOS 18](https://www.theverge.com/2024/5/3/24148282/apple-ai-iphone-ios-18-plans-ajax)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

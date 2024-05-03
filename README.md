@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hell yeah](http://9gag.com/gag/aW4ZnX6)
- - 😝 [Look Now I&#39;m No Longer A Career Criminal. See You In Europe!](http://9gag.com/gag/an7YxNn)
- - 💣 [Id wear that hair](http://9gag.com/gag/aVvOVmM)
- - 😝 [This is pleasing](http://9gag.com/gag/aYQb1zx)
- - 👉 [Its a trap](http://9gag.com/gag/an7YrbE)<!-- MEMES:END -->
+ - 😝 [Id wear that hair](http://9gag.com/gag/aVvOVmM)
+ - 😝 [Whatever floats your boat](http://9gag.com/gag/aXPbWyP)
+ - 💣 [People agree! Start shipping those nose-pierced potatoes to the land of Ham-and-cheese and see how long they can survive without their trigger warnings.](http://9gag.com/gag/aD20VXG)
+ - 😝 [Black queen](http://9gag.com/gag/arypqjB)
+ - 👉 [This kid jamming it](http://9gag.com/gag/a7o5pbA)<!-- MEMES:END -->
 
 ---
 

@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Bill Gates remains intimately involved in Microsoft&#39;s operations, advising on strategy, nurturing Microsoft&#39;s relationship with Sam Altman, and more &lpar;Ashley Stewart/Business Insider&rpar;](http://www.techmeme.com/240503/p9#a240503p9)
  - [Apple blows away Wall Street earnings estimates, even with weak China iPhone sales](https://appleinsider.com/articles/24/05/02/apple-blows-away-wall-street-earnings-guesses-even-with-weak-china-iphone-sales?utm_medium=rss)
  - [Jerry Seinfeld, ‘Hacks,’ and the Future of Comedy in a Digital World](https://www.wired.com/story/jerry-seinfeld-hacks/)
  - [The Gorgeous LG OLED G3 TV Is Over $1,000 Off This Weekend Only     - CNET](https://www.cnet.com/deals/the-gorgeous-lg-oled-g3-tv-is-over-1000-off-this-weekend-only/#ftag=CAD590a51e)
- - [Google&#39;s Pixel Buds Pro Are 30% Off in 6 Different Colors Right Now     - CNET](https://www.cnet.com/deals/googles-pixel-buds-pro-are-30-off-in-6-different-colors-right-now/#ftag=CAD590a51e)
- - [Mortgage Refinance Rates Move Higher: Current Refinance Rates on May 3, 2024     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-refinance-rates-move-higher-current-refinance-rates-on-may-3-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google&#39;s Pixel Buds Pro Are 30% Off in 6 Different Colors Right Now     - CNET](https://www.cnet.com/deals/googles-pixel-buds-pro-are-30-off-in-6-different-colors-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

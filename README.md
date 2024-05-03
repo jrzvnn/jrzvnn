@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He drank 197 coffes that day.](http://9gag.com/gag/aLnKdLv)
- - 😝 [If you know you know](http://9gag.com/gag/an7YrRL)
- - 💣 [22 years of marriage ended, guess it\u2019s my turn now.](http://9gag.com/gag/a87W23e)
- - 😝 [The baboon menace](http://9gag.com/gag/a7o5pZz)
- - 👉 [This is pleasing](http://9gag.com/gag/aYQb1zx)<!-- MEMES:END -->
+ - 😝 [This is pleasing](http://9gag.com/gag/aYQb1zx)
+ - 😝 [Humanity in a nutshell](http://9gag.com/gag/a0e9E1v)
+ - 💣 [.](http://9gag.com/gag/adBNobZ)
+ - 😝 [This kid jamming it](http://9gag.com/gag/a7o5pbA)
+ - 👉 [My man](http://9gag.com/gag/aD20OLO)<!-- MEMES:END -->
 
 ---
 

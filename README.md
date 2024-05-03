@@ -169,10 +169,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Is this the beginning of the Wokeistan?](http://9gag.com/gag/a1mALpb)
- - 😝 [We\u2019ve all been there](http://9gag.com/gag/aAyYE89)
- - 💣 [Portlander Snaps and Drives Through Parade](http://9gag.com/gag/a4P4N4y)
- - 😝 [How nice of her](http://9gag.com/gag/aQzq2o7)
- - 👉 [Didn&#39;t know Medusa was this cute](http://9gag.com/gag/a1mA0ZD)<!-- MEMES:END -->
+ - 😝 [They keep doing it](http://9gag.com/gag/aqymWYP)
+ - 💣 [I knew it!](http://9gag.com/gag/apRq6GD)
+ - 😝 [Portlander Snaps and Drives Through Parade](http://9gag.com/gag/a4P4N4y)
+ - 👉 [This guy... this guy is Livingstone the Dream.](http://9gag.com/gag/an7Y2mL)<!-- MEMES:END -->
 
 ---
 

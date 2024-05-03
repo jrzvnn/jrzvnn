@@ -100,11 +100,11 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Whatever floats your boat](http://9gag.com/gag/aXPbWyP)
+ - 😝 [Staircase to defend your castle](http://9gag.com/gag/avy0dQM)
  - 😝 [Id wear that hair](http://9gag.com/gag/aVvOVmM)
- - 💣 [This is pleasing](http://9gag.com/gag/aYQb1zx)
- - 😝 [The Museum of Ethnography in Budapest OR Inception?](http://9gag.com/gag/a87WeyO)
- - 👉 [Witty title](http://9gag.com/gag/aD20VBd)<!-- MEMES:END -->
+ - 💣 [Childhood shoe cleaner put to unexpected use](http://9gag.com/gag/aYQbRNm)
+ - 😝 [A rescue dog named Dolly passed a test to find a person under the snow and is clearly very happy](http://9gag.com/gag/aVvOVbd)
+ - 👉 [.](http://9gag.com/gag/adBNobZ)<!-- MEMES:END -->
 
 ---
 

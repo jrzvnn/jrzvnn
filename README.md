@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Its a trap](http://9gag.com/gag/an7YrbE)
- - 😝 [Witty title](http://9gag.com/gag/aD20VBd)
- - 💣 [London has fallen](http://9gag.com/gag/a7o5pmz)
- - 😝 [This is pleasing](http://9gag.com/gag/aYQb1zx)
- - 👉 [If you know you know](http://9gag.com/gag/an7YrRL)<!-- MEMES:END -->
+ - 😝 [He drank 197 coffes that day.](http://9gag.com/gag/aLnKdLv)
+ - 😝 [If you know you know](http://9gag.com/gag/an7YrRL)
+ - 💣 [22 years of marriage ended, guess it\u2019s my turn now.](http://9gag.com/gag/a87W23e)
+ - 😝 [The baboon menace](http://9gag.com/gag/a7o5pZz)
+ - 👉 [This is pleasing](http://9gag.com/gag/aYQb1zx)<!-- MEMES:END -->
 
 ---
 

@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [My man](http://9gag.com/gag/aD20OLO)
  - 😝 [This is pleasing](http://9gag.com/gag/aYQb1zx)
- - 😝 [Humanity in a nutshell](http://9gag.com/gag/a0e9E1v)
- - 💣 [.](http://9gag.com/gag/adBNobZ)
- - 😝 [This kid jamming it](http://9gag.com/gag/a7o5pbA)
- - 👉 [My man](http://9gag.com/gag/aD20OLO)<!-- MEMES:END -->
+ - 💣 [Black queen](http://9gag.com/gag/arypqjB)
+ - 😝 [.](http://9gag.com/gag/adBNobZ)
+ - 👉 [Id wear that hair](http://9gag.com/gag/aVvOVmM)<!-- MEMES:END -->
 
 ---
 

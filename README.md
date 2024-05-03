@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Layla is showing us her strenght](http://9gag.com/gag/aYQbDOO)
- - 😝 [Look Now I&#39;m No Longer A Career Criminal. See You In Europe!](http://9gag.com/gag/an7YxNn)
- - 💣 [\u2026\u2026..](http://9gag.com/gag/aMV1Pox)
- - 😝 [Portlander Snaps and Drives Through Parade](http://9gag.com/gag/a4P4N4y)
- - 👉 [An almost complete Greek God family tree](http://9gag.com/gag/aqymQjP)<!-- MEMES:END -->
+ - 😝 [In my video: Platinumblonde with purple fishnet and big bewbs.](http://9gag.com/gag/aGy92KZ)
+ - 😝 [Your weapons don&#39;t bother me](http://9gag.com/gag/a2vN0ep)
+ - 💣 [Whatever floats your boat](http://9gag.com/gag/aXPbWyP)
+ - 😝 [Must\u2026.. not\u2026.. see\u2026\u2026](http://9gag.com/gag/aKGz85b)
+ - 👉 [Portlander Snaps and Drives Through Parade](http://9gag.com/gag/a4P4N4y)<!-- MEMES:END -->
 
 ---
 

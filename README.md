@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Jerry Seinfeld, ‘Hacks,’ and the Future of Comedy in a Digital World](https://www.wired.com/story/jerry-seinfeld-hacks/)
  - [Germany says it found evidence that Russian state-backed hacker Fancy Bear was behind a cyberattack in 2023 that took down several German government websites &lpar;Lisa O&#39;Carroll/The Guardian&rpar;](http://www.techmeme.com/240503/p8#a240503p8)
  - [A committee of UK legislators says the government&#39;s reticence to address alleged copyright theft is a &quot;de facto endorsement&quot; of the way tech firms build LLMs &lpar;Lindsay Clark/The Register&rpar;](http://www.techmeme.com/240503/p7#a240503p7)
  - [Everything You Need to Know About Hybrid Cars](https://www.wired.com/story/everything-you-need-to-know-about-hybrid-cars/)
- - [Celebrate Mom With Flowers and Sweet Treats This Mother&#39;s Day     - CNET](https://www.cnet.com/deals/celebrate-mom-with-flowers-and-sweet-treats-this-mothers-day/#ftag=CAD590a51e)
- - [These Dangerous Scammers Don’t Even Bother to Hide Their Crimes](https://www.wired.com/story/yahoo-boys-scammers-facebook-telegram-tiktok-youtube/)<!-- TECH:END -->
+ - [Celebrate Mom With Flowers and Sweet Treats This Mother&#39;s Day     - CNET](https://www.cnet.com/deals/celebrate-mom-with-flowers-and-sweet-treats-this-mothers-day/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

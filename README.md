@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crave Tease Review: Not Jewelry, Barely a Vibrator](https://www.wired.com/review/crave-tease/)
- - [Macs, iPad mini, and big AI announcements are not coming at Apple&#39;s iPad event](https://appleinsider.com/articles/24/05/03/macs-ipad-mini-and-big-ai-announcements-are-not-coming-at-apples-ipad-event?utm_medium=rss)
- - [New iPads are close, EU App Store rules, and Apple ID&#39;s new bug on the AppleInsider Podcast](https://appleinsider.com/articles/24/05/03/new-ipads-are-close-eu-app-store-rules-and-apple-ids-new-bug-on-the-appleinsider-podcast?utm_medium=rss)
- - [How to Shut Up Your Gadgets at Night So You Can Sleep](https://www.wired.com/story/silence-gadgets-do-not-disturb-nighttime/)
- - [Siri for iOS 18 to gain massive AI upgrade via Apple&#39;s Ajax LLM](https://appleinsider.com/articles/24/05/03/siri-for-ios-18-to-gain-massive-ai-upgrade-via-apples-ajax-llm?utm_medium=rss)<!-- TECH:END -->
+ - [What to expect from Apple&#39;s May 7 event: new iPad Pros, possibly with M4 chips, updated iPad Air and Pencil, but AI features may not get a &quot;formal unveiling&quot; &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240503/p10#a240503p10)
+ - [Multibillion-dollar Apple deal looms large in Google antitrust trial](https://www.theverge.com/2024/5/3/24147682/google-closing-arguments-search-distribution-trial-day-1)
+ - [How Scrappy Cryptominer CoreWeave Transformed Into the Multibillion-Dollar Backbone of the AI Boom](https://www.wired.com/story/coreweave-scrappy-cryptominer-multibillion-dollar-ai/)
+ - [Give This Rich Dude $1 or The Onion Disappears Forever](https://www.wired.com/story/plaintext-give-this-rich-dude-jeff-lawson-dollar-the-onion/)
+ - [Ryûsuke Hamaguchi wants you to watch his new movie at least twice](https://www.theverge.com/24141455/evil-does-not-exist-ryusuke-hamaguchi-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

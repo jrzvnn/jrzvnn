@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Didn&#39;t know Medusa was this cute](http://9gag.com/gag/a1mA0ZD)
- - 😝 [Portlander Snaps and Drives Through Parade](http://9gag.com/gag/a4P4N4y)
- - 💣 [Give your best loop](http://9gag.com/gag/aLnKAKv)
- - 😝 [Got told today we were only happy cause of the honeymoon period - it&#39;s been 10+ years](http://9gag.com/gag/a7o5V02)
- - 👉 [Ryan Gosling and Mikey Day at movie premiere red carpet dressed as Beavis and Butthead](http://9gag.com/gag/aGy9MwK)<!-- MEMES:END -->
+ - 😝 [22 years of marriage ended, guess it\u2019s my turn now.](http://9gag.com/gag/a87W23e)
+ - 😝 [Protect that bro at all cost.](http://9gag.com/gag/agmy82n)
+ - 💣 [How many of you can relate?](http://9gag.com/gag/aRBQMvG)
+ - 😝 [Whatever floats your boat](http://9gag.com/gag/aXPbWyP)
+ - 👉 [Portlander Snaps and Drives Through Parade](http://9gag.com/gag/a4P4N4y)<!-- MEMES:END -->
 
 ---
 

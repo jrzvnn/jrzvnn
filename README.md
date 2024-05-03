@@ -160,10 +160,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Jerry Seinfeld, ‘Hacks,’ and the Future of Comedy in a Digital World](https://www.wired.com/story/jerry-seinfeld-hacks/)
- - [Germany says it found evidence that Russian state-backed hacker Fancy Bear was behind a cyberattack in 2023 that took down several German government websites &lpar;Lisa O&#39;Carroll/The Guardian&rpar;](http://www.techmeme.com/240503/p8#a240503p8)
- - [A committee of UK legislators says the government&#39;s reticence to address alleged copyright theft is a &quot;de facto endorsement&quot; of the way tech firms build LLMs &lpar;Lindsay Clark/The Register&rpar;](http://www.techmeme.com/240503/p7#a240503p7)
- - [Everything You Need to Know About Hybrid Cars](https://www.wired.com/story/everything-you-need-to-know-about-hybrid-cars/)
- - [Celebrate Mom With Flowers and Sweet Treats This Mother&#39;s Day     - CNET](https://www.cnet.com/deals/celebrate-mom-with-flowers-and-sweet-treats-this-mothers-day/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Gorgeous LG OLED G3 TV Is Over $1,000 Off This Weekend Only     - CNET](https://www.cnet.com/deals/the-gorgeous-lg-oled-g3-tv-is-over-1000-off-this-weekend-only/#ftag=CAD590a51e)
+ - [Google&#39;s Pixel Buds Pro Are 30% Off in 6 Different Colors Right Now     - CNET](https://www.cnet.com/deals/googles-pixel-buds-pro-are-30-off-in-6-different-colors-right-now/#ftag=CAD590a51e)
+ - [Mortgage Refinance Rates Move Higher: Current Refinance Rates on May 3, 2024     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-refinance-rates-move-higher-current-refinance-rates-on-may-3-2024/#ftag=CAD590a51e)
+ - [Mortgage Rates Increase for Prospective Buyers: Today&#39;s Mortgage Rates for May 3, 2024     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-rates-increase-for-prospective-buyers-todays-mortgage-rates-for-may-3-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

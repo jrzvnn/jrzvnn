@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Fei-Fei Li raised a seed round for a &quot;spatial intelligence&quot; startup using human-like visual data processing to create AI capable of advanced reasoning &lpar;Reuters&rpar;](http://www.techmeme.com/240503/p15#a240503p15)
  - [Tesla’s Supercharger layoffs couldn’t have come at a worse time](https://www.theverge.com/2024/5/3/24147402/tesla-supercharger-layoffs-stalled-ev-infrastructure-projects)
  - [Automakers Want AM Radios Out of Cars. Congress Is About to Require Them](https://www.wired.com/story/am-radio-cars-law-requires/)
  - [Helldivers 2 will require Steam players to link to a PSN account](https://www.theverge.com/2024/5/3/24148144/helldivers-2-steam-psn-account-link-review-bombing)
- - [Analysis paralysis - hot takes from investment firms in the wake of Apple earnings](https://appleinsider.com/articles/24/05/03/analysis-paralysis---hot-takes-from-investment-firms-in-the-wake-of-apple-earnings?utm_medium=rss)
- - [Global smartphone market grew 6% YoY to 296.9M units in Q1; Samsung recaptured the top spot with a 20% market share; Apple shipments fell 13% but ASP grew 2% &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/240503/p14#a240503p14)<!-- TECH:END -->
+ - [Analysis paralysis - hot takes from investment firms in the wake of Apple earnings](https://appleinsider.com/articles/24/05/03/analysis-paralysis---hot-takes-from-investment-firms-in-the-wake-of-apple-earnings?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

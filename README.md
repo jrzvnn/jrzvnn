@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well that&#39;s interesting](http://9gag.com/gag/aVvOmD2)
- - 😝 [How many of you can relate?](http://9gag.com/gag/aRBQMvG)
- - 💣 [Would you eat it??](http://9gag.com/gag/agmy4Z1)
- - 😝 [Biker experiences Adrenaline Crash after getting side swiped](http://9gag.com/gag/aNDeV13)
- - 👉 [NANI??!! Uh? Masaka!](http://9gag.com/gag/aGy9GWG)<!-- MEMES:END -->
+ - 😝 [I have a similar experience](http://9gag.com/gag/a6Zw2dm)
+ - 😝 [What do you think of?](http://9gag.com/gag/aVvOZLd)
+ - 💣 [A ramen stall in Japan](http://9gag.com/gag/aXPb7AP)
+ - 😝 [Who said?](http://9gag.com/gag/a9ydmyj)
+ - 👉 [And about you guys? Me: the difference between a joke and an offense](http://9gag.com/gag/a6ZwB8R)<!-- MEMES:END -->
 
 ---
 

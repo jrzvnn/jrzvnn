@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hubble Network, which is building a satellite network for Bluetooth devices, says it has made a Bluetooth connection directly to a satellite for the first time &lpar;Aria Alamalhodaei/TechCrunch&rpar;](http://www.techmeme.com/240502/p50#a240502p50)
+ - [Would You Still Use Google if It Didn&#39;t Pay Apple $20 Billion to Get on Your iPhone?](https://www.wired.com/story/google-pay-apple-20-billion-to-get-on-your-iphone/)
+ - [Onur Aksoy, who pleaded guilty to selling fake Cisco equipment on Amazon and eBay from 2013 to 2022, making over $100M, is sentenced to over six years in prison &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/240502/p49#a240502p49)
  - [Microsoft adds deputy chief information security officers within its product groups after a spate of cyberattacks, but declines to identify the new officials &lpar;Bloomberg&rpar;](http://www.techmeme.com/240502/p48#a240502p48)
- - [Tim Cook teases AI ambitions &amp; Apple&#39;s developmental advantages](https://appleinsider.com/articles/24/05/03/tim-cook-teases-ai-ambitions-apples-developmental-advantages?utm_medium=rss)
- - [X tweaks its block feature to let users see replies to their posts even by users who have blocked them, with the aim of identifying and reporting &quot;bad content&quot; &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/240502/p47#a240502p47)
- - [Cloudflare reports Q1 revenue up 30% YoY to $378.6M, vs. $373.7M est., and forecasts Q2 revenue below estimates; NET drops 13%+ after hours &lpar;Bloomberg&rpar;](http://www.techmeme.com/240502/p46#a240502p46)
- - [This Bank Became the First to Fail in the US This Year. Here&#39;s What Borrowers Need to Know     - CNET](https://www.cnet.com/personal-finance/this-bank-became-the-first-to-fail-in-the-us-this-year-heres-what-borrowers-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [That&#39;s Hot: Check Out This Video of the Sun&#39;s Corona in All Its Glory     - CNET](https://www.cnet.com/science/thats-hot-check-out-this-video-of-the-suns-corona-in-all-its-glory/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

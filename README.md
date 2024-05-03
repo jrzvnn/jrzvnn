@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The life of a true 9gager is full of priorities...](http://9gag.com/gag/aQzq2xz)
- - 😝 [RUN, B*TCH, RUUUN!!!](http://9gag.com/gag/a1mALNw)
- - 💣 [Witty title](http://9gag.com/gag/aD20VBd)
- - 😝 [What a way to live and die](http://9gag.com/gag/aqymzAj)
- - 👉 [I knew it!](http://9gag.com/gag/apRq6GD)<!-- MEMES:END -->
+ - 😝 [How many of you can relate?](http://9gag.com/gag/aRBQMvG)
+ - 😝 [Look Now I&#39;m No Longer A Career Criminal. See You In Europe!](http://9gag.com/gag/an7YxNn)
+ - 💣 [Black queen](http://9gag.com/gag/arypqjB)
+ - 😝 [\u2026\u2026..](http://9gag.com/gag/aMV1Pox)
+ - 👉 [22 years of marriage ended, guess it\u2019s my turn now.](http://9gag.com/gag/a87W23e)<!-- MEMES:END -->
 
 ---
 

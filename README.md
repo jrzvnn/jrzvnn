@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who tf is paying for this??](http://9gag.com/gag/agmy4Qv)
- - 😝 [Whatever floats your boat](http://9gag.com/gag/aXPbWyP)
- - 💣 [Kids on the streets of England perform for the camera 123 years ago in 1901](http://9gag.com/gag/axyNb1Y)
- - 😝 [Biker experiences Adrenaline Crash after getting side swiped](http://9gag.com/gag/aNDeV13)
- - 👉 [Witty title](http://9gag.com/gag/aD20VBd)<!-- MEMES:END -->
+ - 😝 [Is this the beginning of the Wokeistan?](http://9gag.com/gag/a1mALpb)
+ - 😝 [We\u2019ve all been there](http://9gag.com/gag/aAyYE89)
+ - 💣 [Portlander Snaps and Drives Through Parade](http://9gag.com/gag/a4P4N4y)
+ - 😝 [How nice of her](http://9gag.com/gag/aQzq2o7)
+ - 👉 [Didn&#39;t know Medusa was this cute](http://9gag.com/gag/a1mA0ZD)<!-- MEMES:END -->
 
 ---
 

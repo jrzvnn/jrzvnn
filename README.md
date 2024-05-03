@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She found out](http://9gag.com/gag/avy0vqd)
- - 😝 [Some are suddenly ashamed of protesting and hiding face after their face diapers are removed](http://9gag.com/gag/aKGzY11)
- - 💣 [I want it, but not now with the industry falling apart. F**k the woke](http://9gag.com/gag/a34Y22e)
- - 😝 [Witty title](http://9gag.com/gag/aD20VBd)
- - 👉 [Player 3 entered the game](http://9gag.com/gag/aO8qPdR)<!-- MEMES:END -->
+ - 😝 [Your weapons don&#39;t bother me](http://9gag.com/gag/a2vN0ep)
+ - 😝 [No, it was dumber than that&rpar;](http://9gag.com/gag/awyr4ED)
+ - 💣 [How many of you can relate?](http://9gag.com/gag/aRBQMvG)
+ - 😝 [Whatever floats your boat](http://9gag.com/gag/aXPbWyP)
+ - 👉 [Didn&#39;t know Medusa was this cute](http://9gag.com/gag/a1mA0ZD)<!-- MEMES:END -->
 
 ---
 

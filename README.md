@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is pleasing](http://9gag.com/gag/aYQb1zx)
- - 😝 [Biker experiences Adrenaline Crash after getting side swiped](http://9gag.com/gag/aNDeV13)
- - 💣 [RUN, B*TCH, RUUUN!!!](http://9gag.com/gag/a1mALNw)
- - 😝 [22 years of marriage ended, guess it\u2019s my turn now.](http://9gag.com/gag/a87W23e)
- - 👉 [\u2026\u2026..](http://9gag.com/gag/aMV1Pox)<!-- MEMES:END -->
+ - 😝 [She found out](http://9gag.com/gag/avy0vqd)
+ - 😝 [Some are suddenly ashamed of protesting and hiding face after their face diapers are removed](http://9gag.com/gag/aKGzY11)
+ - 💣 [I want it, but not now with the industry falling apart. F**k the woke](http://9gag.com/gag/a34Y22e)
+ - 😝 [Witty title](http://9gag.com/gag/aD20VBd)
+ - 👉 [Player 3 entered the game](http://9gag.com/gag/aO8qPdR)<!-- MEMES:END -->
 
 ---
 

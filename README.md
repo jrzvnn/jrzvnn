@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Environmental journalism is under attack](https://www.theverge.com/2024/5/3/24148088/environmental-journalism-attack-unesco-report-press-freedom)
  - [Here’s the letter from 14 senators slamming TSA facial recognition in airports](https://www.theverge.com/2024/5/3/24148346/tsa-facial-recognition-airports-us-senators-oversight)
  - [Apple resellers are in a MacBook Air price war, driving M2 &amp; M3 models down to as low as $849](https://appleinsider.com/articles/24/05/03/apple-resellers-are-in-a-macbook-air-price-war-driving-m2-m3-models-down-to-as-low-as-849?utm_medium=rss)
  - [X launches Stories on X, with news curated and summarized by Grok AI, available for Premium subscribers in the Explore tab on iOS and on the web &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240503/p18#a240503p18)
- - [This Apple Watch Feature Saved a Once-in-a-Lifetime Family Trip     - CNET](https://www.cnet.com/tech/mobile/how-an-apple-watch-saved-a-once-in-a-lifetime-family-trip-for-me/#ftag=CAD590a51e)
- - [In a letter, several Democrats serving as their state&#39;s top election officials ask Meta to repeal a policy allowing ads that claim the 2020 election was stolen &lpar;Christina A. Cassidy/Associated Press&rpar;](http://www.techmeme.com/240503/p17#a240503p17)<!-- TECH:END -->
+ - [This Apple Watch Feature Saved a Once-in-a-Lifetime Family Trip     - CNET](https://www.cnet.com/tech/mobile/how-an-apple-watch-saved-a-once-in-a-lifetime-family-trip-for-me/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [An almost complete Greek God family tree](http://9gag.com/gag/aqymQjP)
  - 😝 [Black queen](http://9gag.com/gag/arypqjB)
- - 💣 [Protect that bro at all cost.](http://9gag.com/gag/agmy82n)
- - 😝 [Must\u2026.. not\u2026.. see\u2026\u2026](http://9gag.com/gag/aKGz85b)
- - 👉 [Player 3 entered the game](http://9gag.com/gag/aO8qPdR)<!-- MEMES:END -->
+ - 😝 [In my video: Platinumblonde with purple fishnet and big bewbs.](http://9gag.com/gag/aGy92KZ)
+ - 💣 [22 years of marriage ended, guess it\u2019s my turn now.](http://9gag.com/gag/a87W23e)
+ - 😝 [What 9 years of ice scooping does. &lpar;It\u2019s pretty sharp as well&rpar;](http://9gag.com/gag/a4P42Xp)
+ - 👉 [Whatever floats your boat](http://9gag.com/gag/aXPbWyP)<!-- MEMES:END -->
 
 ---
 

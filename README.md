@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Acting Labor Secretary Can&#39;t Answer If She&#39;s Ever Owned A Business](http://9gag.com/gag/aPAvXgV)
- - 😝 [\u2026\u2026..](http://9gag.com/gag/aMV1Pox)
- - 💣 [Look Now I&#39;m No Longer A Career Criminal. See You In Europe!](http://9gag.com/gag/an7YxNn)
- - 😝 [Gym injured](http://9gag.com/gag/aD20Vpw)
- - 👉 [Whatever floats your boat](http://9gag.com/gag/aXPbWyP)<!-- MEMES:END -->
+ - 😝 [And about you guys? Me: the difference between a joke and an offense](http://9gag.com/gag/a6ZwB8R)
+ - 😝 [World\u2019s fastest karma.](http://9gag.com/gag/aZZP8jz)
+ - 💣 [I\u2019m always extremely helpful](http://9gag.com/gag/ae9Nm75)
+ - 😝 [I want it, but not now with the industry falling apart. F**k the woke](http://9gag.com/gag/a34Y22e)
+ - 👉 [Who tf is paying for this??](http://9gag.com/gag/agmy4Qv)<!-- MEMES:END -->
 
 ---
 

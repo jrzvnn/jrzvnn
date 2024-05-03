@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to install Steam using Whisky on Apple Silicon Macs](https://appleinsider.com/inside/apple-silicon/tips/how-to-install-steam-using-whisky-on-apple-silicon-macs?utm_medium=rss)
+ - [More details emerge about Apple’s plans for AI in iOS 18](https://www.theverge.com/2024/5/3/24148282/apple-ai-iphone-ios-18-plans-ajax)
  - [DoorDash won’t let you tip NYC drivers without the app](https://www.theverge.com/2024/5/3/24148152/doordash-drivers-nyc-tipping-minimum-wage)
  - [Elon Musk says he wants Grok to create news summaries by relying solely on X posts, without looking at article text, and improved story citations are coming &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/240503/p16#a240503p16)
- - [Chase Sapphire Preferred Card vs. Capital One Venture Rewards Credit Card     - CNET](https://www.cnet.com/personal-finance/chase-sapphire-preferred-card-vs-capital-one-venture-rewards-credit-card/#ftag=CAD590a51e)
- - [Fingers crossed: Spotify might actually launch lossless audio in 2024](https://appleinsider.com/articles/24/05/03/fingers-crossed-spotify-might-actually-launch-lossless-audio-in-2024?utm_medium=rss)
- - [Best Phone to Buy for 2024     - CNET](https://www.cnet.com/tech/mobile/best-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Chase Sapphire Preferred Card vs. Capital One Venture Rewards Credit Card     - CNET](https://www.cnet.com/personal-finance/chase-sapphire-preferred-card-vs-capital-one-venture-rewards-credit-card/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

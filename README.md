@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jokes writing themselves](http://9gag.com/gag/aLnKe3v)
- - 😝 [I knew it!](http://9gag.com/gag/apRq6GD)
- - 💣 [This guy... this guy is Livingstone the Dream.](http://9gag.com/gag/an7Y2mL)
- - 😝 [Witty title](http://9gag.com/gag/aD20VBd)
- - 👉 [Biker experiences Adrenaline Crash after getting side swiped](http://9gag.com/gag/aNDeV13)<!-- MEMES:END -->
+ - 😝 [Layla is showing us her strenght](http://9gag.com/gag/aYQbDOO)
+ - 😝 [Look Now I&#39;m No Longer A Career Criminal. See You In Europe!](http://9gag.com/gag/an7YxNn)
+ - 💣 [\u2026\u2026..](http://9gag.com/gag/aMV1Pox)
+ - 😝 [Portlander Snaps and Drives Through Parade](http://9gag.com/gag/a4P4N4y)
+ - 👉 [An almost complete Greek God family tree](http://9gag.com/gag/aqymQjP)<!-- MEMES:END -->
 
 ---
 

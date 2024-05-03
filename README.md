@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My man](http://9gag.com/gag/aD20OLO)
- - 😝 [This is pleasing](http://9gag.com/gag/aYQb1zx)
- - 💣 [Black queen](http://9gag.com/gag/arypqjB)
- - 😝 [.](http://9gag.com/gag/adBNobZ)
- - 👉 [Id wear that hair](http://9gag.com/gag/aVvOVmM)<!-- MEMES:END -->
+ - 😝 [Its a trap](http://9gag.com/gag/an7YrbE)
+ - 😝 [Pattern recognition](http://9gag.com/gag/aYQbPrw)
+ - 💣 [Look Now I&#39;m No Longer A Career Criminal. See You In Europe!](http://9gag.com/gag/an7YxNn)
+ - 😝 [There are so many](http://9gag.com/gag/an7YEKV)
+ - 👉 [London has fallen](http://9gag.com/gag/a7o5pmz)<!-- MEMES:END -->
 
 ---
 

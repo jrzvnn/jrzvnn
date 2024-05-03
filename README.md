@@ -100,11 +100,11 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He drank 197 coffes that day.](http://9gag.com/gag/aLnKdLv)
- - 😝 [In my video: Platinumblonde with purple fishnet and big bewbs.](http://9gag.com/gag/aGy92KZ)
- - 💣 [Being racist to your school gets you kicked out, shocker!](http://9gag.com/gag/apRqVmM)
- - 😝 [Its a trap](http://9gag.com/gag/an7YrbE)
- - 👉 [The baboon menace](http://9gag.com/gag/a7o5pZz)<!-- MEMES:END -->
+ - 😝 [Whatever floats your boat](http://9gag.com/gag/aXPbWyP)
+ - 😝 [Id wear that hair](http://9gag.com/gag/aVvOVmM)
+ - 💣 [This is pleasing](http://9gag.com/gag/aYQb1zx)
+ - 😝 [The Museum of Ethnography in Budapest OR Inception?](http://9gag.com/gag/a87WeyO)
+ - 👉 [Witty title](http://9gag.com/gag/aD20VBd)<!-- MEMES:END -->
 
 ---
 

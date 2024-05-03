@@ -168,10 +168,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Finally, thanks to AI, we can understand speed in super-retarded units.](http://9gag.com/gag/aE0wWqx)
- - 😝 [He drank 197 coffes that day.](http://9gag.com/gag/aLnKdLv)
- - 💣 [Look Now I&#39;m No Longer A Career Criminal. See You In Europe!](http://9gag.com/gag/an7YxNn)
- - 😝 [Can someone explain? \ud83e\udd14](http://9gag.com/gag/aNDe41r)
+ - 😝 [Its a trap](http://9gag.com/gag/an7YrbE)
+ - 😝 [Witty title](http://9gag.com/gag/aD20VBd)
+ - 💣 [London has fallen](http://9gag.com/gag/a7o5pmz)
+ - 😝 [This is pleasing](http://9gag.com/gag/aYQb1zx)
  - 👉 [If you know you know](http://9gag.com/gag/an7YrRL)<!-- MEMES:END -->
 
 ---

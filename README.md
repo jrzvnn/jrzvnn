@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Germany says it found evidence that Russian state-backed hacker Fancy Bear was behind a cyberattack in 2023 that took down several German government websites &lpar;Lisa O&#39;Carroll/The Guardian&rpar;](http://www.techmeme.com/240503/p8#a240503p8)
  - [A committee of UK legislators says the government&#39;s reticence to address alleged copyright theft is a &quot;de facto endorsement&quot; of the way tech firms build LLMs &lpar;Lindsay Clark/The Register&rpar;](http://www.techmeme.com/240503/p7#a240503p7)
  - [Everything You Need to Know About Hybrid Cars](https://www.wired.com/story/everything-you-need-to-know-about-hybrid-cars/)
  - [These Dangerous Scammers Don’t Even Bother to Hide Their Crimes](https://www.wired.com/story/yahoo-boys-scammers-facebook-telegram-tiktok-youtube/)
- - [Estonian ride-hailing and scooter rentals startup Bolt Technology secures a &amp;euro;220M credit facility which it believes will help prepare the company for an IPO &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/240503/p6#a240503p6)
- - [Filing: Google pushes back on Epic&#39;s demands following its antitrust win, says the proposed remedies are &quot;unnecessary&quot; and &quot;far beyond the scope&quot; of the verdict &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240503/p5#a240503p5)<!-- TECH:END -->
+ - [Estonian ride-hailing and scooter rentals startup Bolt Technology secures a &amp;euro;220M credit facility which it believes will help prepare the company for an IPO &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/240503/p6#a240503p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

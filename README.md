@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nintendo DMCA takedown wipes over 8,500 Yuzu emulator copies](https://www.theverge.com/2024/5/3/24147936/nintendo-dmca-takedown-yuzu-emulator-copies)
  - [15 Best Baby Gear &lpar;2024&rpar;: Diaper Bags, Baby Wraps, and Sound Machines](https://www.wired.com/gallery/best-baby-gear/)
  - [Adam Neumann’s Bid to Buy WeWork Failed. Will He Now Try to Compete With It?](https://www.wired.com/story/adam-neumann-bid-to-buy-wework-failed-will-he-compete/)
  - [Analysis paralysis - hot takes from investment firms in the wake of Apple earnings](https://appleinsider.com/articles/24/05/03/analysis-paralysis---hot-takes-from-investment-firms-in-the-wake-of-apple-earnings?utm_medium=rss)
- - [Spotify leaks suggest lossless audio is almost ready](https://www.theverge.com/2024/5/3/24147887/spotify-hifi-lossless-audio-music-streaming-ui-leak)
- - [What to expect from Apple&#39;s May 7 event: OLED iPad Pros, possibly with M4 chips, a 10.9&quot; and 12.9&quot; iPad Air, updates to Pencil and Magic Keyboard &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240503/p10#a240503p10)<!-- TECH:END -->
+ - [Spotify leaks suggest lossless audio is almost ready](https://www.theverge.com/2024/5/3/24147887/spotify-hifi-lossless-audio-music-streaming-ui-leak)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

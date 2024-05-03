@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is this the beginning of the Wokeistan?](http://9gag.com/gag/a1mALpb)
- - 😝 [I knew it!](http://9gag.com/gag/apRq6GD)
- - 💣 [The newest McDonalds location](http://9gag.com/gag/aVvOEyK)
- - 😝 [An almost complete Greek God family tree](http://9gag.com/gag/aqymQjP)
- - 👉 [Biker experiences Adrenaline Crash after getting side swiped](http://9gag.com/gag/aNDeV13)<!-- MEMES:END -->
+ - 😝 [The life of a true 9gager is full of priorities...](http://9gag.com/gag/aQzq2xz)
+ - 😝 [Look Now I&#39;m No Longer A Career Criminal. See You In Europe!](http://9gag.com/gag/an7YxNn)
+ - 💣 [How many of you can relate?](http://9gag.com/gag/aRBQMvG)
+ - 😝 [Portlander Snaps and Drives Through Parade](http://9gag.com/gag/a4P4N4y)
+ - 👉 [Protect that bro at all cost.](http://9gag.com/gag/agmy82n)<!-- MEMES:END -->
 
 ---
 

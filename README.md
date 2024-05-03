@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hey! That&#39;s my side!](http://9gag.com/gag/a6Zwpzm)
- - 😝 [Of course and indeed.](http://9gag.com/gag/azxbZXz)
- - 💣 [I want it, but not now with the industry falling apart. F**k the woke](http://9gag.com/gag/a34Y22e)
- - 😝 [Humanity in a nutshell](http://9gag.com/gag/a0e9E1v)
- - 👉 [Who tf is paying for this??](http://9gag.com/gag/agmy4Qv)<!-- MEMES:END -->
+ - 😝 [In my video: Platinumblonde with purple fishnet and big bewbs.](http://9gag.com/gag/aGy92KZ)
+ - 😝 [RUN, B*TCH, RUUUN!!!](http://9gag.com/gag/a1mALNw)
+ - 💣 [Whatever floats your boat](http://9gag.com/gag/aXPbWyP)
+ - 😝 [Didn&#39;t know Medusa was this cute](http://9gag.com/gag/a1mA0ZD)
+ - 👉 [Portlander Snaps and Drives Through Parade](http://9gag.com/gag/a4P4N4y)<!-- MEMES:END -->
 
 ---
 

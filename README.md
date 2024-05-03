@@ -168,10 +168,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [22 years of marriage ended, guess it\u2019s my turn now.](http://9gag.com/gag/a87W23e)
- - 😝 [Protect that bro at all cost.](http://9gag.com/gag/agmy82n)
- - 💣 [How many of you can relate?](http://9gag.com/gag/aRBQMvG)
- - 😝 [Whatever floats your boat](http://9gag.com/gag/aXPbWyP)
+ - 😝 [Player 3 entered the game](http://9gag.com/gag/aO8qPdR)
+ - 😝 [How many of you can relate?](http://9gag.com/gag/aRBQMvG)
+ - 💣 [A wise decision.](http://9gag.com/gag/amoX6E9)
+ - 😝 [An almost complete Greek God family tree](http://9gag.com/gag/aqymQjP)
  - 👉 [Portlander Snaps and Drives Through Parade](http://9gag.com/gag/a4P4N4y)<!-- MEMES:END -->
 
 ---

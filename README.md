@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Black queen](http://9gag.com/gag/arypqjB)
- - 😝 [In my video: Platinumblonde with purple fishnet and big bewbs.](http://9gag.com/gag/aGy92KZ)
- - 💣 [22 years of marriage ended, guess it\u2019s my turn now.](http://9gag.com/gag/a87W23e)
- - 😝 [What 9 years of ice scooping does. &lpar;It\u2019s pretty sharp as well&rpar;](http://9gag.com/gag/a4P42Xp)
- - 👉 [Whatever floats your boat](http://9gag.com/gag/aXPbWyP)<!-- MEMES:END -->
+ - 😝 [Biker experiences Adrenaline Crash after getting side swiped](http://9gag.com/gag/aNDeV13)
+ - 😝 [Whatever floats your boat](http://9gag.com/gag/aXPbWyP)
+ - 💣 [Your weapons don&#39;t bother me](http://9gag.com/gag/a2vN0ep)
+ - 😝 [Hell yeah](http://9gag.com/gag/aW4ZnX6)
+ - 👉 [This guy... this guy is Livingstone the Dream.](http://9gag.com/gag/an7Y2mL)<!-- MEMES:END -->
 
 ---
 

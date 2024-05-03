@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: Google pushes back on Epic&#39;s demands following its antitrust win, says the proposed remedies are &quot;unnecessary&quot; and &quot;far beyond the scope&quot; of the verdict &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240503/p5#a240503p5)
  - [Stock photographers prepare for AI disruption, as stock photo companies say traditional photography still has a market but work on building their own AI tools &lpar;Katie Deighton/Wall Street Journal&rpar;](http://www.techmeme.com/240503/p4#a240503p4)
  - [Sources: cloud security startup Wiz will not acquire competitor Lacework; the deal, which was valued at $150M-$200M, fell through during due diligence process &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/240503/p3#a240503p3)
  - [A look at four Chinese generative AI startups, Zhipu AI, Moonshot AI, MiniMax and 01.ai, which have been valued between $1.2B and $2.5B in the past three months &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/240503/p2#a240503p2)
- - [Best Beats Headphones and Earbuds for 2024     - CNET](https://www.cnet.com/tech/mobile/best-beats-headphones/#ftag=CAD590a51e)
- - [Tim Cook says half of the Fortune 100 companies have purchased Apple Vision Pro units &lpar;Wesley Hilliard/AppleInsider&rpar;](http://www.techmeme.com/240503/p1#a240503p1)<!-- TECH:END -->
+ - [Best Beats Headphones and Earbuds for 2024     - CNET](https://www.cnet.com/tech/mobile/best-beats-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

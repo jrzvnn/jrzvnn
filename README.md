@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In my video: Platinumblonde with purple fishnet and big bewbs.](http://9gag.com/gag/aGy92KZ)
+ - 😝 [The life of a true 9gager is full of priorities...](http://9gag.com/gag/aQzq2xz)
  - 😝 [RUN, B*TCH, RUUUN!!!](http://9gag.com/gag/a1mALNw)
- - 💣 [Whatever floats your boat](http://9gag.com/gag/aXPbWyP)
- - 😝 [Didn&#39;t know Medusa was this cute](http://9gag.com/gag/a1mA0ZD)
- - 👉 [Portlander Snaps and Drives Through Parade](http://9gag.com/gag/a4P4N4y)<!-- MEMES:END -->
+ - 💣 [Witty title](http://9gag.com/gag/aD20VBd)
+ - 😝 [What a way to live and die](http://9gag.com/gag/aqymzAj)
+ - 👉 [I knew it!](http://9gag.com/gag/apRq6GD)<!-- MEMES:END -->
 
 ---
 

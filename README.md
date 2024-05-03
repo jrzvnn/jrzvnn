@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Your weapons don&#39;t bother me](http://9gag.com/gag/a2vN0ep)
- - 😝 [No, it was dumber than that&rpar;](http://9gag.com/gag/awyr4ED)
- - 💣 [How many of you can relate?](http://9gag.com/gag/aRBQMvG)
- - 😝 [Whatever floats your boat](http://9gag.com/gag/aXPbWyP)
- - 👉 [Didn&#39;t know Medusa was this cute](http://9gag.com/gag/a1mA0ZD)<!-- MEMES:END -->
+ - 😝 [An almost complete Greek God family tree](http://9gag.com/gag/aqymQjP)
+ - 😝 [Black queen](http://9gag.com/gag/arypqjB)
+ - 💣 [Protect that bro at all cost.](http://9gag.com/gag/agmy82n)
+ - 😝 [Must\u2026.. not\u2026.. see\u2026\u2026](http://9gag.com/gag/aKGz85b)
+ - 👉 [Player 3 entered the game](http://9gag.com/gag/aO8qPdR)<!-- MEMES:END -->
 
 ---
 

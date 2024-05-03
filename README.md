@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How many of you can relate?](http://9gag.com/gag/aRBQMvG)
- - 😝 [Look Now I&#39;m No Longer A Career Criminal. See You In Europe!](http://9gag.com/gag/an7YxNn)
- - 💣 [Black queen](http://9gag.com/gag/arypqjB)
- - 😝 [\u2026\u2026..](http://9gag.com/gag/aMV1Pox)
- - 👉 [22 years of marriage ended, guess it\u2019s my turn now.](http://9gag.com/gag/a87W23e)<!-- MEMES:END -->
+ - 😝 [This is pleasing](http://9gag.com/gag/aYQb1zx)
+ - 😝 [Biker experiences Adrenaline Crash after getting side swiped](http://9gag.com/gag/aNDeV13)
+ - 💣 [RUN, B*TCH, RUUUN!!!](http://9gag.com/gag/a1mALNw)
+ - 😝 [22 years of marriage ended, guess it\u2019s my turn now.](http://9gag.com/gag/a87W23e)
+ - 👉 [\u2026\u2026..](http://9gag.com/gag/aMV1Pox)<!-- MEMES:END -->
 
 ---
 

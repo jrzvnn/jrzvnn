@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tim Cook says half of the Fortune 100 companies have purchased Apple Vision Pro units &lpar;Wesley Hilliard/AppleInsider&rpar;](http://www.techmeme.com/240503/p1#a240503p1)
  - [Mimic, which helps businesses detect, deflect, and quickly recover from ransomware attacks, emerges from stealth with a $27M seed led by Ballistic Ventures &lpar;Ryan Naraine/SecurityWeek&rpar;](http://www.techmeme.com/240502/p52#a240502p52)
- - [How to keep your Apple TV 4K&#39;s Siri Remote charged](https://appleinsider.com/inside/apple-tv-4k/tips/how-to-keep-your-apple-tv-4ks-siri-remote-charged?utm_medium=rss)
- - [Japan&#39;s PM Fumio Kishida unveils an international voluntary framework for regulation and use of generative AI and says 49 countries and regions have signed up &lpar;Associated Press&rpar;](http://www.techmeme.com/240502/p51#a240502p51)
- - [Hubble Network, which is building a satellite network for Bluetooth devices, says it has made a Bluetooth connection directly to a satellite for the first time &lpar;Aria Alamalhodaei/TechCrunch&rpar;](http://www.techmeme.com/240502/p50#a240502p50)
- - [Would You Still Use Google if It Didn&#39;t Pay Apple $20 Billion to Get on Your iPhone?](https://www.wired.com/story/google-pay-apple-20-billion-to-get-on-your-iphone/)<!-- TECH:END -->
+ - [Student Loan Forgiveness: Here’s What to Do if You Missed the Loan Consolidation Deadline     - CNET](https://www.cnet.com/personal-finance/loans/student-loan-forgiveness-heres-what-to-do-if-you-missed-the-loan-consolidation-deadline/#ftag=CAD590a51e)
+ - [Best Solar Panel Installation Companies in Virginia     - CNET](https://www.cnet.com/home/energy-and-utilities/virginia-solar-panels/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints and Answer: Help for May 3, #1049     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-may-3-1049/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

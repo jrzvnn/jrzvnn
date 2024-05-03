@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There are so many](http://9gag.com/gag/an7YEKV)
- - 😝 [Id wear that hair](http://9gag.com/gag/aVvOVmM)
- - 💣 [Whatever floats your boat](http://9gag.com/gag/aXPbWyP)
+ - 😝 [Finally, thanks to AI, we can understand speed in super-retarded units.](http://9gag.com/gag/aE0wWqx)
  - 😝 [He drank 197 coffes that day.](http://9gag.com/gag/aLnKdLv)
- - 👉 [This is pleasing](http://9gag.com/gag/aYQb1zx)<!-- MEMES:END -->
+ - 💣 [Look Now I&#39;m No Longer A Career Criminal. See You In Europe!](http://9gag.com/gag/an7YxNn)
+ - 😝 [Can someone explain? \ud83e\udd14](http://9gag.com/gag/aNDe41r)
+ - 👉 [If you know you know](http://9gag.com/gag/an7YrRL)<!-- MEMES:END -->
 
 ---
 

@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Helldivers 2 will require Steam players to link to a PSN account](https://www.theverge.com/2024/5/3/24148144/helldivers-2-steam-psn-account-link-review-bombing)
  - [Analysis paralysis - hot takes from investment firms in the wake of Apple earnings](https://appleinsider.com/articles/24/05/03/analysis-paralysis---hot-takes-from-investment-firms-in-the-wake-of-apple-earnings?utm_medium=rss)
  - [Global smartphone market grew 6% YoY to 296.9M units in Q1; Samsung recaptured the top spot with a 20% market share; Apple shipments fell 13% but ASP grew 2% &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/240503/p14#a240503p14)
  - [27 Viral TikTok Gifts That Are Actually Worth a Look &lpar;2024&rpar;](https://www.wired.com/gallery/best-viral-tiktok-gadgets/)
- - [Hisense is launching a $999 CanvasTV as a cheaper rival to Samsung’s Frame](https://www.theverge.com/2024/5/3/24148080/hisense-cheaper-canvastv-samsung-frame)
- - [The conspiracy theory behind Florida’s lab-grown meat ban](https://www.theverge.com/2024/5/3/24148099/florida-lab-grown-meat-ban-desantis)<!-- TECH:END -->
+ - [Hisense is launching a $999 CanvasTV as a cheaper rival to Samsung’s Frame](https://www.theverge.com/2024/5/3/24148080/hisense-cheaper-canvastv-samsung-frame)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

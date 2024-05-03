@@ -100,11 +100,11 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [He drank 197 coffes that day.](http://9gag.com/gag/aLnKdLv)
+ - 😝 [In my video: Platinumblonde with purple fishnet and big bewbs.](http://9gag.com/gag/aGy92KZ)
+ - 💣 [Being racist to your school gets you kicked out, shocker!](http://9gag.com/gag/apRqVmM)
  - 😝 [Its a trap](http://9gag.com/gag/an7YrbE)
- - 😝 [Pattern recognition](http://9gag.com/gag/aYQbPrw)
- - 💣 [Look Now I&#39;m No Longer A Career Criminal. See You In Europe!](http://9gag.com/gag/an7YxNn)
- - 😝 [There are so many](http://9gag.com/gag/an7YEKV)
- - 👉 [London has fallen](http://9gag.com/gag/a7o5pmz)<!-- MEMES:END -->
+ - 👉 [The baboon menace](http://9gag.com/gag/a7o5pZz)<!-- MEMES:END -->
 
 ---
 

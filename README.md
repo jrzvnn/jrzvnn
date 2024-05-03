@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft overhaul treats security as ‘top priority’ after a series of failures](https://www.theverge.com/2024/5/3/24147883/microsoft-security-priority-executive-compensation-goals)
+ - [Biden grants automakers some flexibility on battery minerals in final EV tax credit rules](https://www.theverge.com/2024/5/3/24148003/ev-tax-credit-rule-battery-mineral-flexibility)
  - [5 Great Note-Taking Apps: Google Keep, Apple Notes, Notion, Bear, Microsoft OneNote](https://www.wired.com/story/best-note-taking-apps/)
  - [Manor Lords is slow and frustrating, and I can’t stop playing](https://www.theverge.com/24147616/manor-lords-steam-early-access)
- - [Apple said to be stealing tech from expensive suppliers to give to cheaper ones](https://appleinsider.com/articles/24/05/03/apple-said-to-be-stealing-tech-from-expensive-suppliers-to-give-to-cheaper-ones?utm_medium=rss)
- - [The Verge’s 2024 graduation gift guide](https://www.theverge.com/24126218/graduation-grad-gift-ideas-2024-college-high-school-dorm-tech-gadgets)
- - [The FCC warns that rural areas may lose cell service if Congress does not fill a $3B funding shortfall for US carriers to replace Huawei and ZTE equipment &lpar;Eva Dou/Washington Post&rpar;](http://www.techmeme.com/240503/p11#a240503p11)<!-- TECH:END -->
+ - [Apple said to be stealing tech from expensive suppliers to give to cheaper ones](https://appleinsider.com/articles/24/05/03/apple-said-to-be-stealing-tech-from-expensive-suppliers-to-give-to-cheaper-ones?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

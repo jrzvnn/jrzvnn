@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New iPads are close, EU App Store rules, and Apple ID&#39;s new bug on the AppleInsider Podcast](https://appleinsider.com/articles/24/05/03/new-ipads-are-close-eu-app-store-rules-and-apple-ids-new-bug-on-the-appleinsider-podcast?utm_medium=rss)
+ - [How to Shut Up Your Gadgets at Night So You Can Sleep](https://www.wired.com/story/silence-gadgets-do-not-disturb-nighttime/)
  - [Siri for iOS 18 to gain massive AI upgrade via Apple&#39;s Ajax LLM](https://appleinsider.com/articles/24/05/03/siri-for-ios-18-to-gain-massive-ai-upgrade-via-apples-ajax-llm?utm_medium=rss)
  - [Sources: Bill Gates remains intimately involved in Microsoft&#39;s operations, advising on strategy, nurturing Microsoft&#39;s relationship with Sam Altman, and more &lpar;Ashley Stewart/Business Insider&rpar;](http://www.techmeme.com/240503/p9#a240503p9)
- - [Apple blows away Wall Street earnings estimates, even with weak China iPhone sales](https://appleinsider.com/articles/24/05/02/apple-blows-away-wall-street-earnings-guesses-even-with-weak-china-iphone-sales?utm_medium=rss)
- - [Jerry Seinfeld, ‘Hacks,’ and the Future of Comedy in a Digital World](https://www.wired.com/story/jerry-seinfeld-hacks/)
- - [The Gorgeous LG OLED G3 TV Is Over $1,000 Off This Weekend Only     - CNET](https://www.cnet.com/deals/the-gorgeous-lg-oled-g3-tv-is-over-1000-off-this-weekend-only/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple blows away Wall Street earnings estimates, even with weak China iPhone sales](https://appleinsider.com/articles/24/05/02/apple-blows-away-wall-street-earnings-guesses-even-with-weak-china-iphone-sales?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

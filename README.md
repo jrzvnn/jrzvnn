@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I have a similar experience](http://9gag.com/gag/a6Zw2dm)
- - 😝 [What do you think of?](http://9gag.com/gag/aVvOZLd)
- - 💣 [A ramen stall in Japan](http://9gag.com/gag/aXPb7AP)
- - 😝 [Who said?](http://9gag.com/gag/a9ydmyj)
- - 👉 [And about you guys? Me: the difference between a joke and an offense](http://9gag.com/gag/a6ZwB8R)<!-- MEMES:END -->
+ - 😝 [Didn&#39;t know Medusa was this cute](http://9gag.com/gag/a1mA0ZD)
+ - 😝 [Portlander Snaps and Drives Through Parade](http://9gag.com/gag/a4P4N4y)
+ - 💣 [Give your best loop](http://9gag.com/gag/aLnKAKv)
+ - 😝 [Got told today we were only happy cause of the honeymoon period - it&#39;s been 10+ years](http://9gag.com/gag/a7o5V02)
+ - 👉 [Ryan Gosling and Mikey Day at movie premiere red carpet dressed as Beavis and Butthead](http://9gag.com/gag/aGy9MwK)<!-- MEMES:END -->
 
 ---
 

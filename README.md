@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Instagram introduces new interactive stickers for Stories](https://www.theverge.com/2024/5/3/24147991/instagram-stories-stickers-polaroid-frames-reveal)
+ - [Fujifilm Instax Mini 99 Review: An Instax Camera Photographers Will Love](https://www.wired.com/review/fujifilm-instax-mini-99/)
+ - [Apple wants you to use Find My on iPhone 15 to hunt down fellow Mandalorians](https://appleinsider.com/articles/24/05/03/apple-wants-you-to-use-find-my-on-iphone-15-to-hunt-down-fellow-mandalorians?utm_medium=rss)
  - [Microsoft overhaul treats security as ‘top priority’ after a series of failures](https://www.theverge.com/2024/5/3/24147883/microsoft-security-priority-executive-compensation-goals)
- - [Biden grants automakers some flexibility on battery minerals in final EV tax credit rules](https://www.theverge.com/2024/5/3/24148003/ev-tax-credit-rule-battery-mineral-flexibility)
- - [5 Great Note-Taking Apps: Google Keep, Apple Notes, Notion, Bear, Microsoft OneNote](https://www.wired.com/story/best-note-taking-apps/)
- - [Manor Lords is slow and frustrating, and I can’t stop playing](https://www.theverge.com/24147616/manor-lords-steam-early-access)
- - [Apple said to be stealing tech from expensive suppliers to give to cheaper ones](https://appleinsider.com/articles/24/05/03/apple-said-to-be-stealing-tech-from-expensive-suppliers-to-give-to-cheaper-ones?utm_medium=rss)<!-- TECH:END -->
+ - [Biden grants automakers some flexibility on battery minerals in final EV tax credit rules](https://www.theverge.com/2024/5/3/24148003/ev-tax-credit-rule-battery-mineral-flexibility)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

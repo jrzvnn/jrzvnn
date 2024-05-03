@@ -91,11 +91,11 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google bans advertisers from promoting deepfake porn services](https://www.theverge.com/2024/5/3/24148368/google-ad-policy-deepfake-pornography-nudes)
  - [LG’s quirky briefcase TV is nearly matching its best price to date](https://www.theverge.com/2024/5/3/24147594/lg-stanbyme-go-briefcase-tv-paramount-plus-showtime-deal-sale)
  - [CSET: global AI research more than doubled between 2017 and 2022; Chinese Academy of Sciences was the top producer of highly cited AI papers, followed by Google &lpar;Alison Snyder/Axios&rpar;](http://www.techmeme.com/240503/p19#a240503p19)
  - [NHL Playoffs 2024: How to Watch Without Cable, Schedule, Matchups, TV Times     - CNET](https://www.cnet.com/tech/services-and-software/nhl-playoffs-2024-how-to-watch-without-cable-schedule-matchups-tv-times/#ftag=CAD590a51e)
- - [Best Mattress Deals: Upgrade Your Old Mattress With These Epic Deals     - CNET](https://www.cnet.com/deals/best-mattress-deals/#ftag=CAD590a51e)
- - [Luminar, maker of lidar for autonomous driving, lays off 20 percent of its workforce](https://www.theverge.com/2024/5/3/24148395/luminar-lidar-layoff-outsource-autonomous-vehicle)<!-- TECH:END -->
+ - [Best Mattress Deals: Upgrade Your Old Mattress With These Epic Deals     - CNET](https://www.cnet.com/deals/best-mattress-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

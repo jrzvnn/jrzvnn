@@ -160,10 +160,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Elon Musk says he wants Grok to create news summaries by relying solely on X posts, without looking at article text, and improved story citations are coming &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/240503/p16#a240503p16)
+ - [Chase Sapphire Preferred Card vs. Capital One Venture Rewards Credit Card     - CNET](https://www.cnet.com/personal-finance/chase-sapphire-preferred-card-vs-capital-one-venture-rewards-credit-card/#ftag=CAD590a51e)
  - [Fingers crossed: Spotify might actually launch lossless audio in 2024](https://appleinsider.com/articles/24/05/03/fingers-crossed-spotify-might-actually-launch-lossless-audio-in-2024?utm_medium=rss)
- - [iPhone 15 Find My shows Mandalorians the way in latest Apple ad](https://appleinsider.com/articles/24/05/03/apple-wants-you-to-use-find-my-on-iphone-15-to-hunt-down-fellow-mandalorians?utm_medium=rss)
- - [Rabbit R1 Review: Skip This AI-Powered Hardware Assistant](https://www.wired.com/review/rabbit-r1/)
- - [Sources: Fei-Fei Li raised a seed round for a &quot;spatial intelligence&quot; startup using human-like visual data processing to create AI capable of advanced reasoning &lpar;Reuters&rpar;](http://www.techmeme.com/240503/p15#a240503p15)<!-- TECH:END -->
+ - [Best Phone to Buy for 2024     - CNET](https://www.cnet.com/tech/mobile/best-phone/#ftag=CAD590a51e)
+ - [Best PlayStation Deals: Grab Games, Console Bundles and More With Money Off     - CNET](https://www.cnet.com/deals/best-playstation-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

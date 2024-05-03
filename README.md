@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The life of a true 9gager is full of priorities...](http://9gag.com/gag/aQzq2xz)
- - 😝 [Look Now I&#39;m No Longer A Career Criminal. See You In Europe!](http://9gag.com/gag/an7YxNn)
- - 💣 [How many of you can relate?](http://9gag.com/gag/aRBQMvG)
- - 😝 [Portlander Snaps and Drives Through Parade](http://9gag.com/gag/a4P4N4y)
- - 👉 [Protect that bro at all cost.](http://9gag.com/gag/agmy82n)<!-- MEMES:END -->
+ - 😝 [Acting Labor Secretary Can&#39;t Answer If She&#39;s Ever Owned A Business](http://9gag.com/gag/aPAvXgV)
+ - 😝 [\u2026\u2026..](http://9gag.com/gag/aMV1Pox)
+ - 💣 [Look Now I&#39;m No Longer A Career Criminal. See You In Europe!](http://9gag.com/gag/an7YxNn)
+ - 😝 [Gym injured](http://9gag.com/gag/aD20Vpw)
+ - 👉 [Whatever floats your boat](http://9gag.com/gag/aXPbWyP)<!-- MEMES:END -->
 
 ---
 

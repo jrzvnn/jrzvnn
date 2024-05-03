@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Player 3 entered the game](http://9gag.com/gag/aO8qPdR)
- - 😝 [How many of you can relate?](http://9gag.com/gag/aRBQMvG)
- - 💣 [A wise decision.](http://9gag.com/gag/amoX6E9)
- - 😝 [An almost complete Greek God family tree](http://9gag.com/gag/aqymQjP)
- - 👉 [Portlander Snaps and Drives Through Parade](http://9gag.com/gag/a4P4N4y)<!-- MEMES:END -->
+ - 😝 [Who tf is paying for this??](http://9gag.com/gag/agmy4Qv)
+ - 😝 [Whatever floats your boat](http://9gag.com/gag/aXPbWyP)
+ - 💣 [Kids on the streets of England perform for the camera 123 years ago in 1901](http://9gag.com/gag/axyNb1Y)
+ - 😝 [Biker experiences Adrenaline Crash after getting side swiped](http://9gag.com/gag/aNDeV13)
+ - 👉 [Witty title](http://9gag.com/gag/aD20VBd)<!-- MEMES:END -->
 
 ---
 

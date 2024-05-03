@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I\u2019m always extremely helpful](http://9gag.com/gag/ae9Nm75)
  - 😝 [22 years of marriage ended, guess it\u2019s my turn now.](http://9gag.com/gag/a87W23e)
- - 😝 [What 9 years of ice scooping does. &lpar;It\u2019s pretty sharp as well&rpar;](http://9gag.com/gag/a4P42Xp)
- - 💣 [This kid jamming it](http://9gag.com/gag/a7o5pbA)
+ - 💣 [A Muslim Imam in Pakistan treating diseases](http://9gag.com/gag/aqymzqp)
  - 😝 [Whatever floats your boat](http://9gag.com/gag/aXPbWyP)
- - 👉 [Its a trap](http://9gag.com/gag/an7YrbE)<!-- MEMES:END -->
+ - 👉 [This guy... this guy is Livingstone the Dream.](http://9gag.com/gag/an7Y2mL)<!-- MEMES:END -->
 
 ---
 

@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And about you guys? Me: the difference between a joke and an offense](http://9gag.com/gag/a6ZwB8R)
- - 😝 [World\u2019s fastest karma.](http://9gag.com/gag/aZZP8jz)
- - 💣 [I\u2019m always extremely helpful](http://9gag.com/gag/ae9Nm75)
- - 😝 [I want it, but not now with the industry falling apart. F**k the woke](http://9gag.com/gag/a34Y22e)
- - 👉 [Who tf is paying for this??](http://9gag.com/gag/agmy4Qv)<!-- MEMES:END -->
+ - 😝 [Jokes writing themselves](http://9gag.com/gag/aLnKe3v)
+ - 😝 [I knew it!](http://9gag.com/gag/apRq6GD)
+ - 💣 [This guy... this guy is Livingstone the Dream.](http://9gag.com/gag/an7Y2mL)
+ - 😝 [Witty title](http://9gag.com/gag/aD20VBd)
+ - 👉 [Biker experiences Adrenaline Crash after getting side swiped](http://9gag.com/gag/aNDeV13)<!-- MEMES:END -->
 
 ---
 

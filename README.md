@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo DMCA takedown wipes over 8,500 Yuzu emulator copies](https://www.theverge.com/2024/5/3/24147936/nintendo-dmca-takedown-yuzu-emulator-copies)
- - [15 Best Baby Gear &lpar;2024&rpar;: Diaper Bags, Baby Wraps, and Sound Machines](https://www.wired.com/gallery/best-baby-gear/)
- - [Adam Neumann’s Bid to Buy WeWork Failed. Will He Now Try to Compete With It?](https://www.wired.com/story/adam-neumann-bid-to-buy-wework-failed-will-he-compete/)
- - [Analysis paralysis - hot takes from investment firms in the wake of Apple earnings](https://appleinsider.com/articles/24/05/03/analysis-paralysis---hot-takes-from-investment-firms-in-the-wake-of-apple-earnings?utm_medium=rss)
- - [Spotify leaks suggest lossless audio is almost ready](https://www.theverge.com/2024/5/3/24147887/spotify-hifi-lossless-audio-music-streaming-ui-leak)<!-- TECH:END -->
+ - [Apple said to be stealing tech from expensive suppliers to give to cheaper ones](https://appleinsider.com/articles/24/05/03/apple-said-to-be-stealing-tech-from-expensive-suppliers-to-give-to-cheaper-ones?utm_medium=rss)
+ - [The Verge’s 2024 graduation gift guide](https://www.theverge.com/24126218/graduation-grad-gift-ideas-2024-college-high-school-dorm-tech-gadgets)
+ - [The FCC warns that rural areas may lose cell service if Congress does not fill a $3B funding shortfall for US carriers to replace Huawei and ZTE equipment &lpar;Eva Dou/Washington Post&rpar;](http://www.techmeme.com/240503/p11#a240503p11)
+ - [Rabbit, Humane, and the iPad](https://www.theverge.com/2024/5/3/24147941/rabbit-humane-ipad-ai-gadgets-openai-microsoft-google)
+ - [Dell XPS 14 and 16 Review: Not Quite a MacBook Pro](https://www.wired.com/review/dell-xps-14-and-6/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

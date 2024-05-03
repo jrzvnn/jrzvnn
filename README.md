@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The conspiracy theory behind Florida’s lab-grown meat ban](https://www.theverge.com/2024/5/3/24148099/florida-lab-grown-meat-ban-desantis)
  - [MagSafe could get a makeover in iPhone 16](https://appleinsider.com/articles/24/05/03/magsafe-could-get-a-makeover-in-iphone-16?utm_medium=rss)
  - [No One Knows How Far Bird Flu Has Spread](https://www.wired.com/story/bird-avian-flu-us-cattle-h5n1-human-infection-missed-cases/)
  - [AT&amp;T Turbo will boost your service for $7 per month](https://www.theverge.com/2024/5/3/24147641/att-turbo-prioritization-performance-data)
- - [Brane X Speaker: Compact Size, Home Theater Sound](https://www.wired.com/review/brane-x/)
- - [SVB agrees to sell its VC arm SVB Capital, which manages ~$9.8B in assets, to a new entity backed by Brookfield and Sequoia Heritage for $340M in cash &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/240503/p13#a240503p13)<!-- TECH:END -->
+ - [Brane X Speaker: Compact Size, Home Theater Sound](https://www.wired.com/review/brane-x/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

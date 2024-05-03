@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u2026\u2026..](http://9gag.com/gag/aMV1Pox)
- - 😝 [Just accepted it guys lol](http://9gag.com/gag/aW4Zo1n)
- - 💣 [He drank 197 coffes that day.](http://9gag.com/gag/aLnKdLv)
- - 😝 [This guy... this guy is Livingstone the Dream.](http://9gag.com/gag/an7Y2mL)
- - 👉 [Whatever floats your boat](http://9gag.com/gag/aXPbWyP)<!-- MEMES:END -->
+ - 😝 [She found out](http://9gag.com/gag/avy0vqd)
+ - 😝 [Whatever floats your boat](http://9gag.com/gag/aXPbWyP)
+ - 💣 [People agree! Start shipping those nose-pierced potatoes to the land of Ham-and-cheese and see how long they can survive without their trigger warnings.](http://9gag.com/gag/aD20VXG)
+ - 😝 [Black queen](http://9gag.com/gag/arypqjB)
+ - 👉 [This kid jamming it](http://9gag.com/gag/a7o5pbA)<!-- MEMES:END -->
 
 ---
 

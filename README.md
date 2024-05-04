@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In my video: Platinumblonde with purple fishnet and big bewbs.](http://9gag.com/gag/aGy92KZ)
- - 😝 [If you aren\u2019t familiar with what happened to Laura Logan while on assignment in Egypt, you should be.](http://9gag.com/gag/aKGzKeQ)
- - 💣 [I can think of two big reasons](http://9gag.com/gag/abA5RoO)
- - 😝 [Player 3 entered the game](http://9gag.com/gag/aO8qPdR)
- - 👉 [This is precisely why the ocean world belongs to them and I will not go into their territory\u2026. Giant nope discovered](http://9gag.com/gag/aAyYv7p)<!-- MEMES:END -->
+ - 😝 [This is with a down payment of $3,000. Just holy f**king shit!](http://9gag.com/gag/abA5RPr)
+ - 😝 [He drank 197 coffes that day.](http://9gag.com/gag/aLnKdLv)
+ - 💣 [A Muslim Imam in Pakistan treating diseases](http://9gag.com/gag/aqymzqp)
+ - 😝 [Its a trap](http://9gag.com/gag/an7YrbE)
+ - 👉 [London has fallen](http://9gag.com/gag/a7o5pmz)<!-- MEMES:END -->
 
 ---
 

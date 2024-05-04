@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is pleasing](http://9gag.com/gag/aYQb1zx)
- - 😝 [You Probably Voted 4 It](http://9gag.com/gag/avy0d8Z)
- - 💣 [Helldivers 2 right now](http://9gag.com/gag/aGy9Ogw)
- - 😝 [Well, well, well. How the turntable](http://9gag.com/gag/a2vNG1e)
- - 👉 [On the left, the state prosecutor shows the size of the fatal hematoma in the skull &lpar;70 ml&rpar;; on the right, the size of the hematoma of the young woman who was killed by the former minister of Kazakhstan Bishimbayev](http://9gag.com/gag/a1mA2PG)<!-- MEMES:END -->
+ - 😝 [He drank 197 coffes that day.](http://9gag.com/gag/aLnKdLv)
+ - 😝 [Why won&#39;t we?](http://9gag.com/gag/aXPbKRd)
+ - 💣 [How much money did the organizers pay them to attend the protest?](http://9gag.com/gag/aQzqV2r)
+ - 😝 [Hey! That&#39;s my side!](http://9gag.com/gag/a6Zwpzm)
+ - 👉 [Making an amphibious vehicle for fishing, gaming and camping](http://9gag.com/gag/aO8qGWv)<!-- MEMES:END -->
 
 ---
 

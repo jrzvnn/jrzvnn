@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A New Surveillance Tool Invades Border Towns](https://www.wired.com/story/border-surveillance-india-assassination-project-nimbus-security-roundup/)
  - [What Kind of Battery Would You Need to Power a Lightsaber?](https://www.wired.com/story/what-kind-of-battery-would-you-need-to-power-a-lightsaber/)
  - [Q&amp;A with Nick Bostrom on his book Deep Utopia: Life and Meaning in a Solved World, which considers a future in which AI solves all of humanity&#39;s problems &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/240504/p9#a240504p9)
  - [Funny or Annoying? How Google&#39;s New &#39;Audio Emoji&#39; Feature Works on Android     - CNET](https://www.cnet.com/tech/services-and-software/funny-or-annoying-how-googles-new-audio-emoji-feature-works-on-android/#ftag=CAD590a51e)
- - [Arsenal vs. Bournemouth Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/arsenal-vs-bournemouth-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [How to Watch and Stream the 2024 Miami GP     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-and-stream-the-2024-miami-gp/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Arsenal vs. Bournemouth Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/arsenal-vs-bournemouth-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Verge’s 2024 Mother’s Day gift guide](https://www.theverge.com/24115101/best-mothers-day-gift-ideas-2024-mom-tech-gadgets)
  - [Some teen users of Character.AI&#39;s chatbots say they find the AI companions helpful, entertaining, and supportive but worry they may be addicted to the chatbots &lpar;Jessica Lucas/The Verge&rpar;](http://www.techmeme.com/240504/p16#a240504p16)
  - [NBA Playoffs 2024: How to Watch Timberwolves vs. Nuggets Tonight     - CNET](https://www.cnet.com/tech/services-and-software/nba-playoffs-2024-how-to-watch-without-cable/#ftag=CAD590a51e)
  - [Best Live TV Streaming Service for Cord Cutters in 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-live-tv-streaming-service-for-cord-cutters/#ftag=CAD590a51e)
- - [NHL Playoffs 2024: How to Watch Bruins vs. Maple Leafs Game 7: Schedule, TV Times     - CNET](https://www.cnet.com/tech/services-and-software/nhl-playoffs-2024-how-to-watch-without-cable-schedule-matchups-tv-times/#ftag=CAD590a51e)
- - [Under-screen Face ID allegedly pushed back to 2026 iPhone 18 Pro](https://appleinsider.com/articles/24/05/04/under-screen-face-id-allegedly-pushed-back-to-2026-iphone-17-pro?utm_medium=rss)<!-- TECH:END -->
+ - [NHL Playoffs 2024: How to Watch Bruins vs. Maple Leafs Game 7: Schedule, TV Times     - CNET](https://www.cnet.com/tech/services-and-software/nhl-playoffs-2024-how-to-watch-without-cable-schedule-matchups-tv-times/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

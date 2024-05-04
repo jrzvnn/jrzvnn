@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How much money did the organizers pay them to attend the protest?](http://9gag.com/gag/aQzqV2r)
- - 😝 [He drank 197 coffes that day.](http://9gag.com/gag/aLnKdLv)
- - 💣 [Why won&#39;t we?](http://9gag.com/gag/aXPbKRd)
- - 😝 [Wouldn&#39;t?](http://9gag.com/gag/ae9N7rj)
- - 👉 [Hey! That&#39;s my side!](http://9gag.com/gag/a6Zwpzm)<!-- MEMES:END -->
+ - 😝 [Only 1 to go and bingo!](http://9gag.com/gag/a6Zw8xN)
+ - 😝 [This is pleasing](http://9gag.com/gag/aYQb1zx)
+ - 💣 [Witty title](http://9gag.com/gag/aD20VBd)
+ - 😝 [Helldivers 2 right now](http://9gag.com/gag/aGy9Ogw)
+ - 👉 [If you aren\u2019t familiar with what happened to Laura Logan while on assignment in Egypt, you should be.](http://9gag.com/gag/aKGzKeQ)<!-- MEMES:END -->
 
 ---
 

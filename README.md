@@ -162,10 +162,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [22 Star Wars Toys and Games to Celebrate May Fourth](https://www.wired.com/gallery/best-star-wars-gifts/)
- - [A Company Is Building a Giant Compressed-Air Battery in the Australian Outback](https://www.wired.com/story/hydrostor-compressed-air-battery-california-australia-energy-climate/)
- - [Which States Have Legalized Marijuana for Recreational or Medical Use?     - CNET](https://www.cnet.com/health/which-states-have-legalized-marijuana-for-recreational-or-medical-use/#ftag=CAD590a51e)
- - [F1 101: Here&#39;s Everything I Wish I Knew About Formula 1 When I Started Watching     - CNET](https://www.cnet.com/culture/sports/f1-101-heres-everything-i-wish-i-knew-about-formula-1-when-i-started-watching/#ftag=CAD590a51e)
- - [A New Surveillance Tool Invades Border Towns](https://www.wired.com/story/border-surveillance-india-assassination-project-nimbus-security-roundup/)<!-- TECH:END -->
+ - [Brentford vs. Fulham Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/brentford-vs-fulham-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
+ - [Sheffield United vs. Nottingham Forest Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/sheffield-united-vs-nottingham-forest-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
+ - [Burnley vs. Newcastle Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/burnley-vs-newcastle-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
+ - [Get Mom Moving on Mother&#39;s Day With These Top Health and Fitness Gifts     - CNET](https://www.cnet.com/health/parenting/mothers-day-fitness-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

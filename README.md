@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Under-screen Face ID allegedly pushed back to 2026 iPhone 18 Pro](https://appleinsider.com/articles/24/05/04/under-screen-face-id-allegedly-pushed-back-to-2026-iphone-17-pro?utm_medium=rss)
  - [Crypto startups embrace open-ended, rolling funding rounds that quickly lift valuations, as crypto funds seek to deploy unspent cash raised in 2021 and 2022 &lpar;Ryan Weeks/Bloomberg&rpar;](http://www.techmeme.com/240504/p15#a240504p15)
  - [The newest Star Wars Acolyte trailer seems to reveal the show’s big bad](https://www.theverge.com/2024/5/4/24148934/star-wars-the-acolyte-trailer-sith-lord-jedi-high-republic-disney-plus)
  - [Best Innerspring Mattresses in 2024     - CNET](https://www.cnet.com/health/sleep/best-innerspring-mattress/#ftag=CAD590a51e)
- - [Over 60 of the Best Star Wars Gifts for 2024: Top Picks for May the Fourth     - CNET](https://www.cnet.com/culture/entertainment/best-star-wars-gifts/#ftag=CAD590a51e)
- - [US Air Force plans a fleet of 1,000+ AI-controlled jets, the first of them operating by 2028; some AI versions already beat human pilots in air-to-air combat &lpar;Tara Copp/Associated Press&rpar;](http://www.techmeme.com/240504/p14#a240504p14)<!-- TECH:END -->
+ - [Over 60 of the Best Star Wars Gifts for 2024: Top Picks for May the Fourth     - CNET](https://www.cnet.com/culture/entertainment/best-star-wars-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

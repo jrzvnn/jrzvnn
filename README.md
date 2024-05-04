@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Humanity in a nutshell](http://9gag.com/gag/a0e9E1v)
- - 😝 [Childhood shoe cleaner put to unexpected use](http://9gag.com/gag/aYQbRNm)
- - 💣 [Id wear that hair](http://9gag.com/gag/aVvOVmM)
- - 😝 [.](http://9gag.com/gag/adBNobZ)
- - 👉 [A rescue dog named Dolly passed a test to find a person under the snow and is clearly very happy](http://9gag.com/gag/aVvOVbd)<!-- MEMES:END -->
+ - 😝 [London has fallen](http://9gag.com/gag/a7o5pmz)
+ - 😝 [Witty title](http://9gag.com/gag/aD20VBd)
+ - 💣 [Being racist to your school gets you kicked out, shocker!](http://9gag.com/gag/apRqVmM)
+ - 😝 [The baboon menace](http://9gag.com/gag/a7o5pZz)
+ - 👉 [Id wear that hair](http://9gag.com/gag/aVvOVmM)<!-- MEMES:END -->
 
 ---
 

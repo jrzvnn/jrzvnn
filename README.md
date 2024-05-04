@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He drank 197 coffes that day.](http://9gag.com/gag/aLnKdLv)
- - 😝 [Can someone explain? \ud83e\udd14](http://9gag.com/gag/aNDe41r)
- - 💣 [2023 thriller call La Roy Texas](http://9gag.com/gag/a6ZwG5m)
- - 😝 [Must\u2026.. not\u2026.. see\u2026\u2026](http://9gag.com/gag/aKGz85b)
- - 👉 [The fated one has failed us](http://9gag.com/gag/aByK432)<!-- MEMES:END -->
+ - 😝 [If you know you know](http://9gag.com/gag/an7YrRL)
+ - 😝 [2023 thriller call La Roy Texas](http://9gag.com/gag/a6ZwG5m)
+ - 💣 [Id wear that hair](http://9gag.com/gag/aVvOVmM)
+ - 😝 [The fated one has failed us](http://9gag.com/gag/aByK432)
+ - 👉 [He drank 197 coffes that day.](http://9gag.com/gag/aLnKdLv)<!-- MEMES:END -->
 
 ---
 

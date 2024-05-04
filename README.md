@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Under-screen Face ID allegedly pushed back to 2026 iPhone 18 Pro](https://appleinsider.com/articles/24/05/04/under-screen-face-id-allegedly-pushed-back-to-2026-iphone-17-pro?utm_medium=rss)
- - [Meta launches quote post controls for all Threads users, who can allow quotes from everyone on Threads, only the people they follow, or disable quote posts &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/240504/p13#a240504p13)
- - [ChromeOS gets better multitasking and Wi-Fi traffic prioritization](https://www.theverge.com/2024/5/4/24148786/google-chromeos-m124-update-chromebook-split-screen-qos-material-you)
- - [Biden is expected to sign the REPORT Act next week; the bipartisan bill targets child sextortion online through new CSAM reporting requirements and more &lpar;Julie Tsirkin/NBC News&rpar;](http://www.techmeme.com/240504/p12#a240504p12)
- - [Monitoring Your Weight? Here&#39;s When to Weigh Yourself for the Most Accurate Reading     - CNET](https://www.cnet.com/health/fitness/monitoring-your-weight-heres-when-to-weigh-yourself-for-the-most-accurate-reading/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [US Air Force plans a fleet of 1,000+ AI-controlled jets, the first of them operating by 2028; some AI versions already beat human pilots in air-to-air combat &lpar;Tara Copp/Associated Press&rpar;](http://www.techmeme.com/240504/p14#a240504p14)
+ - [Every Cool Thing Announced for Star Wars Day 2024: From Funko to Limited-Edition Loungefly     - CNET](https://www.cnet.com/tech/everything-announced-this-star-wars-day/#ftag=CAD590a51e)
+ - [Despite Recalls, Air Fryers Are Safe if You Follow These Basic Safety Rules     - CNET](https://www.cnet.com/home/kitchen-and-household/despite-recalls-air-fryers-are-safe-if-you-follow-these-basic-safety-rules/#ftag=CAD590a51e)
+ - [Therapy Out of Reach? 4 Ways to Improve Your Mental Health for Free     - CNET](https://www.cnet.com/health/mental/therapy-out-of-reach-4-ways-to-improve-your-mental-health-for-free/#ftag=CAD590a51e)
+ - [Are You Applying Enough Sunscreen? A Dermatologist Weighs In     - CNET](https://www.cnet.com/health/personal-care/how-much-sunscreen-you-need/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

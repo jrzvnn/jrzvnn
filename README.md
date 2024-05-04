@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Under-screen Face ID allegedly pushed back to 2026 iPhone 17 Pro](https://appleinsider.com/articles/24/05/04/under-screen-face-id-allegedly-pushed-back-to-2026-iphone-17-pro?utm_medium=rss)
  - [ChromeOS gets better multitasking and Wi-Fi traffic prioritization](https://www.theverge.com/2024/5/4/24148786/google-chromeos-m124-update-chromebook-split-screen-qos-material-you)
  - [Biden is expected to sign the REPORT Act next week; the bipartisan bill targets child sextortion online through new CSAM reporting requirements and more &lpar;Julie Tsirkin/NBC News&rpar;](http://www.techmeme.com/240504/p12#a240504p12)
  - [Best Free VPN for 2024: Affordable Risk-Free Privacy     - CNET](https://www.cnet.com/tech/services-and-software/best-free-vpn/#ftag=CAD590a51e)
- - [‘The Boys’ season 4 trailer is bloody and a little bubbly](https://www.theverge.com/2024/5/4/24148798/the-boys-season-4-amazon-prime-video-homelander-butcher)
- - [10 Best Portable Grills &lpar;2024&rpar;: Charcoal, Propane, Electric, and More](https://www.wired.com/story/best-portable-grills/)<!-- TECH:END -->
+ - [‘The Boys’ season 4 trailer is bloody and a little bubbly](https://www.theverge.com/2024/5/4/24148798/the-boys-season-4-amazon-prime-video-homelander-butcher)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

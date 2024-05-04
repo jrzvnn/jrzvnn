@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If you know you know](http://9gag.com/gag/an7YrRL)
- - 😝 [2023 thriller call La Roy Texas](http://9gag.com/gag/a6ZwG5m)
- - 💣 [Id wear that hair](http://9gag.com/gag/aVvOVmM)
- - 😝 [The fated one has failed us](http://9gag.com/gag/aByK432)
- - 👉 [He drank 197 coffes that day.](http://9gag.com/gag/aLnKdLv)<!-- MEMES:END -->
+ - 😝 [Childhood shoe cleaner put to unexpected use](http://9gag.com/gag/aYQbRNm)
+ - 😝 [Humanity in a nutshell](http://9gag.com/gag/a0e9E1v)
+ - 💣 [Black queen](http://9gag.com/gag/arypqjB)
+ - 😝 [This kid jamming it](http://9gag.com/gag/a7o5pbA)
+ - 👉 [Id wear that hair](http://9gag.com/gag/aVvOVmM)<!-- MEMES:END -->
 
 ---
 

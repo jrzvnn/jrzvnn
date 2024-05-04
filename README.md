@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Defense lawyers question the accuracy and reliability of Cybercheck, an AI tool used in thousands of US cases to identify suspects&#39; locations and other details &lpar;Tim Stelloh/NBC News&rpar;](http://www.techmeme.com/240504/p7#a240504p7)
+ - [A look at news publishers&#39; conflicting approaches toward AI companies, and how the lack of a data marketplace makes it hard for buyers and sellers to set rates &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/240504/p6#a240504p6)
  - [Synergy Research: cloud revenue grew 21% YoY in Q1 2024 to $76B; Altimeter: AWS now has 31% market share followed by Azure with 25% and Google with 11% &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/240504/p5#a240504p5)
  - [Ukraine unveils an AI-generated foreign ministry spokesperson called Victoria Shi, who will make official statements &quot;written and verified by real people&quot; &lpar;Agence France-Presse&rpar;](http://www.techmeme.com/240504/p4#a240504p4)
- - [Meta&#39;s Ray-Ban smart glasses are a simple, reliable, and smartly priced AI gadget, whereas Humane&#39;s AI Pin and the Rabbit R1 are more akin to science projects &lpar;Joanna Stern/Wall Street Journal&rpar;](http://www.techmeme.com/240504/p3#a240504p3)
- - [Sources: Swedish PE firm EQT acquires a &quot;significant majority&quot; stake in WSO2, valuing the enterprise API and identity management company at &quot;more than&quot; $600M &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240504/p2#a240504p2)
- - [Ola founder Bhavish Aggarwal&#39;s Krutrim launches an Android app for its eponymous AI chatbot as the startup prepares to launch its developer offerings on May 4 &lpar;Vikas SN/Moneycontrol&rpar;](http://www.techmeme.com/240504/p1#a240504p1)<!-- TECH:END -->
+ - [Meta&#39;s Ray-Ban smart glasses are a simple, reliable, and smartly priced AI gadget, whereas Humane&#39;s AI Pin and the Rabbit R1 are more akin to science projects &lpar;Joanna Stern/Wall Street Journal&rpar;](http://www.techmeme.com/240504/p3#a240504p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

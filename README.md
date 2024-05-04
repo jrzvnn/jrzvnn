@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The baboon menace](http://9gag.com/gag/a7o5pZz)
- - 😝 [He drank 197 coffes that day.](http://9gag.com/gag/aLnKdLv)
- - 💣 [It never gets old seeing USEFUL IDIOTS getting professionally trolled](http://9gag.com/gag/adBNeLB)
- - 😝 [London has fallen](http://9gag.com/gag/a7o5pmz)
- - 👉 [This is pleasing](http://9gag.com/gag/aYQb1zx)<!-- MEMES:END -->
+ - 😝 [In my video: Platinumblonde with purple fishnet and big bewbs.](http://9gag.com/gag/aGy92KZ)
+ - 😝 [If you aren\u2019t familiar with what happened to Laura Logan while on assignment in Egypt, you should be.](http://9gag.com/gag/aKGzKeQ)
+ - 💣 [I can think of two big reasons](http://9gag.com/gag/abA5RoO)
+ - 😝 [Player 3 entered the game](http://9gag.com/gag/aO8qPdR)
+ - 👉 [This is precisely why the ocean world belongs to them and I will not go into their territory\u2026. Giant nope discovered](http://9gag.com/gag/aAyYv7p)<!-- MEMES:END -->
 
 ---
 

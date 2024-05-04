@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [22 years of marriage ended, guess it\u2019s my turn now.](http://9gag.com/gag/a87W23e)
- - 😝 [Knock Knock Joke](http://9gag.com/gag/aByKoRP)
- - 💣 [Its a trap](http://9gag.com/gag/an7YrbE)
- - 😝 [Can someone explain? \ud83e\udd14](http://9gag.com/gag/aNDe41r)
- - 👉 [Only 1 to go and bingo!](http://9gag.com/gag/a6Zw8xN)<!-- MEMES:END -->
+ - 😝 [I can think of two big reasons](http://9gag.com/gag/abA5RoO)
+ - 😝 [Must\u2026.. not\u2026.. see\u2026\u2026](http://9gag.com/gag/aKGz85b)
+ - 💣 [Helldivers 2 right now](http://9gag.com/gag/aGy9Ogw)
+ - 😝 [On the left, the state prosecutor shows the size of the fatal hematoma in the skull &lpar;70 ml&rpar;; on the right, the size of the hematoma of the young woman who was killed by the former minister of Kazakhstan Bishimbayev](http://9gag.com/gag/a1mA2PG)
+ - 👉 [You Probably Voted 4 It](http://9gag.com/gag/avy0d8Z)<!-- MEMES:END -->
 
 ---
 

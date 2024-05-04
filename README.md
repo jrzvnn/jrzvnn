@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [May the 4th be with you!](http://9gag.com/gag/aAyYmNd)
  - 😝 [Wouldn&#39;t?](http://9gag.com/gag/ae9N7rj)
- - 💣 [Hey! That&#39;s my side!](http://9gag.com/gag/a6Zwpzm)
- - 😝 [How US Air Force pilots find out what aircraft they will fly](http://9gag.com/gag/a7o5Apm)
+ - 😝 [Panda Girl](http://9gag.com/gag/aXPbdVd)
+ - 💣 [Perhaps a new template for a meme?](http://9gag.com/gag/arypd3V)
+ - 😝 [Only 1 to go and bingo!](http://9gag.com/gag/a6Zw8xN)
  - 👉 [The driver&#39;s definitely getting 5 star review.](http://9gag.com/gag/axyN4y2)<!-- MEMES:END -->
 
 ---

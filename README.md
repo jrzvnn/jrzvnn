@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My man](http://9gag.com/gag/aD20OLO)
- - 😝 [Being racist to your school gets you kicked out, shocker!](http://9gag.com/gag/apRqVmM)
- - 💣 [Why won&#39;t we?](http://9gag.com/gag/aXPbKRd)
  - 😝 [He drank 197 coffes that day.](http://9gag.com/gag/aLnKdLv)
- - 👉 [Wouldn&#39;t?](http://9gag.com/gag/ae9N7rj)<!-- MEMES:END -->
+ - 😝 [This is pleasing](http://9gag.com/gag/aYQb1zx)
+ - 💣 [Witty title](http://9gag.com/gag/aD20VBd)
+ - 😝 [Helldivers 2 right now](http://9gag.com/gag/aGy9Ogw)
+ - 👉 [Well, well, well. How the turntable](http://9gag.com/gag/a2vNG1e)<!-- MEMES:END -->
 
 ---
 

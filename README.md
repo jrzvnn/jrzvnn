@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Orka Two Review: Sleek Hearing Aids](https://www.wired.com/review/orka-two-hearing-aids/)
  - [Warren Buffett has sold a lot of Apple stock so far in 2024](https://appleinsider.com/articles/24/05/04/warren-buffett-has-sold-a-lot-of-apple-stock-so-far-in-2024?utm_medium=rss)
  - [LinkedIn Has Games Now](https://www.wired.com/story/linkedin-has-games-now/)
  - [The teens making friends with AI chatbots](https://www.theverge.com/2024/5/4/24144763/ai-chatbot-friends-character-teens)
- - [Komoot is helping me get back on my bike after a long hiatus](https://www.theverge.com/24137562/komoot-app-cycling-routes)
- - [A look at Runway&#39;s second International AI Film Festival, which it says grew from 300 short-video submissions in 2023 to 3,000 in 2024 with 10 finalists chosen &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/240504/p11#a240504p11)<!-- TECH:END -->
+ - [Komoot is helping me get back on my bike after a long hiatus](https://www.theverge.com/24137562/komoot-app-cycling-routes)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

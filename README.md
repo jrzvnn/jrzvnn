@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Id wear that hair](http://9gag.com/gag/aVvOVmM)
+ - 😝 [The baboon menace](http://9gag.com/gag/a7o5pZz)
+ - 😝 [He drank 197 coffes that day.](http://9gag.com/gag/aLnKdLv)
+ - 💣 [It never gets old seeing USEFUL IDIOTS getting professionally trolled](http://9gag.com/gag/adBNeLB)
  - 😝 [London has fallen](http://9gag.com/gag/a7o5pmz)
- - 💣 [You Probably Voted 4 It](http://9gag.com/gag/avy0d8Z)
- - 😝 [This is pleasing](http://9gag.com/gag/aYQb1zx)
- - 👉 [If you know you know](http://9gag.com/gag/an7YrRL)<!-- MEMES:END -->
+ - 👉 [This is pleasing](http://9gag.com/gag/aYQb1zx)<!-- MEMES:END -->
 
 ---
 

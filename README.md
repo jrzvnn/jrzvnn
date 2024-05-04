@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [London has fallen](http://9gag.com/gag/a7o5pmz)
- - 😝 [Witty title](http://9gag.com/gag/aD20VBd)
- - 💣 [Being racist to your school gets you kicked out, shocker!](http://9gag.com/gag/apRqVmM)
- - 😝 [The baboon menace](http://9gag.com/gag/a7o5pZz)
- - 👉 [Id wear that hair](http://9gag.com/gag/aVvOVmM)<!-- MEMES:END -->
+ - 😝 [He drank 197 coffes that day.](http://9gag.com/gag/aLnKdLv)
+ - 😝 [Can someone explain? \ud83e\udd14](http://9gag.com/gag/aNDe41r)
+ - 💣 [2023 thriller call La Roy Texas](http://9gag.com/gag/a6ZwG5m)
+ - 😝 [Must\u2026.. not\u2026.. see\u2026\u2026](http://9gag.com/gag/aKGz85b)
+ - 👉 [The fated one has failed us](http://9gag.com/gag/aByK432)<!-- MEMES:END -->
 
 ---
 

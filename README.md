@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hey! That&#39;s my side!](http://9gag.com/gag/a6Zwpzm)
- - 😝 [Sinners](http://9gag.com/gag/a87WzjQ)
- - 💣 [He drank 197 coffes that day.](http://9gag.com/gag/aLnKdLv)
- - 😝 [Only 1 to go and bingo!](http://9gag.com/gag/a6Zw8xN)
- - 👉 [Burn the coal](http://9gag.com/gag/a7o5Ar2)<!-- MEMES:END -->
+ - 😝 [What 9 years of ice scooping does. &lpar;It\u2019s pretty sharp as well&rpar;](http://9gag.com/gag/a4P42Xp)
+ - 😝 [On the left, the state prosecutor shows the size of the fatal hematoma in the skull &lpar;70 ml&rpar;; on the right, the size of the hematoma of the young woman who was killed by the former minister of Kazakhstan Bishimbayev](http://9gag.com/gag/a1mA2PG)
+ - 💣 [Witty title](http://9gag.com/gag/aD20VBd)
+ - 😝 [London has fallen](http://9gag.com/gag/a7o5pmz)
+ - 👉 [If you know you know](http://9gag.com/gag/an7YrRL)<!-- MEMES:END -->
 
 ---
 

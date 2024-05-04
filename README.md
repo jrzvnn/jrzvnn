@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He drank 197 coffes that day.](http://9gag.com/gag/aLnKdLv)
- - 😝 [If you know you know](http://9gag.com/gag/an7YrRL)
- - 💣 [This is pleasing](http://9gag.com/gag/aYQb1zx)
- - 😝 [Whatever floats your boat](http://9gag.com/gag/aXPbWyP)
- - 👉 [Id wear that hair](http://9gag.com/gag/aVvOVmM)<!-- MEMES:END -->
+ - 😝 [Id wear that hair](http://9gag.com/gag/aVvOVmM)
+ - 😝 [London has fallen](http://9gag.com/gag/a7o5pmz)
+ - 💣 [You Probably Voted 4 It](http://9gag.com/gag/avy0d8Z)
+ - 😝 [This is pleasing](http://9gag.com/gag/aYQb1zx)
+ - 👉 [If you know you know](http://9gag.com/gag/an7YrRL)<!-- MEMES:END -->
 
 ---
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [10 Best Portable Grills &lpar;2024&rpar;: Charcoal, Propane, Electric, and More](https://www.wired.com/story/best-portable-grills/)
  - [Orka Two Review: Sleek Hearing Aids](https://www.wired.com/review/orka-two-hearing-aids/)
  - [Wayfair Way Day 2024: Sitewide Savings of Up to 80% Off Until Monday     - CNET](https://www.cnet.com/deals/wayfair-way-day-2024/#ftag=CAD590a51e)
  - [Sick of Bugs in Your Kitchen? Try These Common Houseplants to Drive Them Away     - CNET](https://www.cnet.com/news/sick-of-bugs-in-your-kitchen-try-these-common-houseplants-to-drive-them-away/#ftag=CAD590a51e)
- - [Warren Buffett has sold a lot of Apple stock so far in 2024](https://appleinsider.com/articles/24/05/04/warren-buffett-has-sold-a-lot-of-apple-stock-so-far-in-2024?utm_medium=rss)
- - [Hack Your Brain to Boost Happiness by Monitoring These 4 Hormones     - CNET](https://www.cnet.com/health/mental/hack-your-brain-to-boost-happiness-by-monitoring-these-4-hormones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Warren Buffett has sold a lot of Apple stock so far in 2024](https://appleinsider.com/articles/24/05/04/warren-buffett-has-sold-a-lot-of-apple-stock-so-far-in-2024?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

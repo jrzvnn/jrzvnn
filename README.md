@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is with a down payment of $3,000. Just holy f**king shit!](http://9gag.com/gag/abA5RPr)
- - 😝 [He drank 197 coffes that day.](http://9gag.com/gag/aLnKdLv)
- - 💣 [Getafe players take their mums onto the pitch for mothers day](http://9gag.com/gag/ayN5POY)
- - 😝 [Helldivers 2 right now](http://9gag.com/gag/aGy9Ogw)
- - 👉 [If you aren\u2019t familiar with what happened to Laura Logan while on assignment in Egypt, you should be.](http://9gag.com/gag/aKGzKeQ)<!-- MEMES:END -->
+ - 😝 [May the 4th be with you!](http://9gag.com/gag/aAyYmNd)
+ - 😝 [Wouldn&#39;t?](http://9gag.com/gag/ae9N7rj)
+ - 💣 [Hey! That&#39;s my side!](http://9gag.com/gag/a6Zwpzm)
+ - 😝 [How US Air Force pilots find out what aircraft they will fly](http://9gag.com/gag/a7o5Apm)
+ - 👉 [The driver&#39;s definitely getting 5 star review.](http://9gag.com/gag/axyN4y2)<!-- MEMES:END -->
 
 ---
 

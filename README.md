@@ -163,9 +163,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Google employees have mostly ignored the DOJ&#39;s antitrust case, and some expect only small business tweaks and some fines; closing arguments concluded on May 3 &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/240503/p22#a240503p22)
  - [As Google’s antitrust trial wraps, DOJ seeks sanctions over missing messages](https://www.theverge.com/2024/5/3/24148558/google-search-antitrust-day-2-closing-arguments)
- - [Russian national Alexander Vinnik, one of the operators of crypto exchange BTC-e from 2011 to 2017, pleads guilty to conspiracy to commit money laundering &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/240503/p21#a240503p21)
- - [Google updates its ad policy to ban the promotion of services that generate, distribute, or store synthetic sexually explicit content, starting May 30, 2024 &lpar;Barry Schwartz/Search Engine Roundtable&rpar;](http://www.techmeme.com/240503/p20#a240503p20)
- - [Keep All Your Devices Powered With $16 Off This Power Station     - CNET](https://www.cnet.com/deals/keep-all-your-devices-powered-with-16-off-this-power-station/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 8 Best On-Ear Headphones for 2024: Sony, Beats, Sennheiser and More     - CNET](https://www.cnet.com/tech/mobile/best-on-ear-headphones/#ftag=CAD590a51e)
+ - [Giro d&#39;Italia 2024: How to Watch a UCI World Tour Cycling Livestream for Free     - CNET](https://www.cnet.com/tech/services-and-software/giro-ditalia-2024-how-to-watch-a-uci-world-tour-cycling-livestream-for-free/#ftag=CAD590a51e)
+ - [Best HP Laptop for 2024     - CNET](https://www.cnet.com/tech/computing/best-hp-laptops/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

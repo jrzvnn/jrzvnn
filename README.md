@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just accepted it guys lol](http://9gag.com/gag/aW4Zo1n)
- - 😝 [The baboon menace](http://9gag.com/gag/a7o5pZz)
- - 💣 [Tesla doing beta testing on its customers. This is after the `fix`](http://9gag.com/gag/aLnKXxW)
- - 😝 [London has fallen](http://9gag.com/gag/a7o5pmz)
- - 👉 [Whatever floats your boat](http://9gag.com/gag/aXPbWyP)<!-- MEMES:END -->
+ - 😝 [He drank 197 coffes that day.](http://9gag.com/gag/aLnKdLv)
+ - 😝 [Must\u2026.. not\u2026.. see\u2026\u2026](http://9gag.com/gag/aKGz85b)
+ - 💣 [The baboon menace](http://9gag.com/gag/a7o5pZz)
+ - 😝 [Its a trap](http://9gag.com/gag/an7YrbE)
+ - 👉 [This kid jamming it](http://9gag.com/gag/a7o5pbA)<!-- MEMES:END -->
 
 ---
 

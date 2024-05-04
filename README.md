@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Swedish PE firm EQT acquires a &quot;significant majority&quot; stake in WSO2, valuing the enterprise API and identity management company at &quot;more than&quot; $600M &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240504/p2#a240504p2)
  - [Ola founder Bhavish Aggarwal&#39;s Krutrim launches an Android app for its eponymous AI chatbot as the startup prepares to launch its developer offerings on May 4 &lpar;Vikas SN/Moneycontrol&rpar;](http://www.techmeme.com/240504/p1#a240504p1)
  - [Filing: CRM software maker Freshworks acquires Connecticut-based Device42, which helps companies manage their IT infrastructure and had raised $38.5M, for $230M &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240503/p25#a240503p25)
  - [How the AI-generated music video for Washed Out&#39;s The Hardest Part was created entirely using OpenAI&#39;s Sora, a first from a major record label &lpar;Wendy Lee/Los Angeles Times&rpar;](http://www.techmeme.com/240503/p24#a240503p24)
- - [Today&#39;s NYT Connections Hints and Answers: Help for May 4, #328     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hints-answer-help-for-may-4-328/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints and Answer: Help for May 4, #1050     - CNET](https://www.cnet.com/news/todays-wordle-hints-and-answer-help-for-may-4-1050/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints and Answers: Help for May 4, #328     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hints-answer-help-for-may-4-328/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

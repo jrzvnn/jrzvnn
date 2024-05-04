@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Biden is expected to sign the REPORT Act next week; the bipartisan bill targets child sextortion online through new CSAM reporting requirements and more &lpar;Julie Tsirkin/NBC News&rpar;](http://www.techmeme.com/240504/p12#a240504p12)
+ - [Best Free VPN for 2024: Affordable Risk-Free Privacy     - CNET](https://www.cnet.com/tech/services-and-software/best-free-vpn/#ftag=CAD590a51e)
  - [‘The Boys’ season 4 trailer is bloody and a little bubbly](https://www.theverge.com/2024/5/4/24148798/the-boys-season-4-amazon-prime-video-homelander-butcher)
  - [10 Best Portable Grills &lpar;2024&rpar;: Charcoal, Propane, Electric, and More](https://www.wired.com/story/best-portable-grills/)
- - [Orka Two Review: Sleek Hearing Aids](https://www.wired.com/review/orka-two-hearing-aids/)
- - [Wayfair Way Day 2024: Sitewide Savings of Up to 80% Off Until Monday     - CNET](https://www.cnet.com/deals/wayfair-way-day-2024/#ftag=CAD590a51e)
- - [Sick of Bugs in Your Kitchen? Try These Common Houseplants to Drive Them Away     - CNET](https://www.cnet.com/news/sick-of-bugs-in-your-kitchen-try-these-common-houseplants-to-drive-them-away/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Clean Your Robot Vacuum So It Can Keep Cleaning for You     - CNET](https://www.cnet.com/home/kitchen-and-household/how-to-properly-care-for-your-robot-vacuum/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is pleasing](http://9gag.com/gag/aYQb1zx)
- - 😝 [Witty title](http://9gag.com/gag/aD20VBd)
- - 💣 [Helldivers 2 right now](http://9gag.com/gag/aGy9Ogw)
+ - 😝 [If you know you know](http://9gag.com/gag/an7YrRL)
  - 😝 [Well, well, well. How the turntable](http://9gag.com/gag/a2vNG1e)
- - 👉 [How US Air Force pilots find out what aircraft they will fly](http://9gag.com/gag/a7o5Apm)<!-- MEMES:END -->
+ - 💣 [Witty title](http://9gag.com/gag/aD20VBd)
+ - 😝 [Helldivers 2 right now](http://9gag.com/gag/aGy9Ogw)
+ - 👉 [The Islamists won elections in Bradford, UK, simply because they are majority. These are the results of uncontrolled immigration. Dark times ahead for UK](http://9gag.com/gag/aD20MPN)<!-- MEMES:END -->
 
 ---
 

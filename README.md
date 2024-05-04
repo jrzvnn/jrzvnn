@@ -162,10 +162,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Some teen users of Character.AI&#39;s chatbots say they find the AI companions helpful, entertaining, and supportive but worry they may be addicted to the chatbots &lpar;Jessica Lucas/The Verge&rpar;](http://www.techmeme.com/240504/p16#a240504p16)
+ - [NBA Playoffs 2024: How to Watch Timberwolves vs. Nuggets Tonight     - CNET](https://www.cnet.com/tech/services-and-software/nba-playoffs-2024-how-to-watch-without-cable/#ftag=CAD590a51e)
+ - [Best Live TV Streaming Service for Cord Cutters in 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-live-tv-streaming-service-for-cord-cutters/#ftag=CAD590a51e)
  - [NHL Playoffs 2024: How to Watch Bruins vs. Maple Leafs Game 7: Schedule, TV Times     - CNET](https://www.cnet.com/tech/services-and-software/nhl-playoffs-2024-how-to-watch-without-cable-schedule-matchups-tv-times/#ftag=CAD590a51e)
- - [Under-screen Face ID allegedly pushed back to 2026 iPhone 18 Pro](https://appleinsider.com/articles/24/05/04/under-screen-face-id-allegedly-pushed-back-to-2026-iphone-17-pro?utm_medium=rss)
- - [Crypto startups embrace open-ended, rolling funding rounds that quickly lift valuations, as crypto funds seek to deploy unspent cash raised in 2021 and 2022 &lpar;Ryan Weeks/Bloomberg&rpar;](http://www.techmeme.com/240504/p15#a240504p15)
- - [Best Card Games in 2024     - CNET](https://www.cnet.com/culture/entertainment/best-card-games/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Under-screen Face ID allegedly pushed back to 2026 iPhone 18 Pro](https://appleinsider.com/articles/24/05/04/under-screen-face-id-allegedly-pushed-back-to-2026-iphone-17-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

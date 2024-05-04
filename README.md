@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Helldivers 2 right now](http://9gag.com/gag/aGy9Ogw)
- - 😝 [AAAAA!!!](http://9gag.com/gag/avy0mqW)
- - 💣 [London has fallen](http://9gag.com/gag/a7o5pmz)
- - 😝 [Getafe players take their mums onto the pitch for mothers day](http://9gag.com/gag/ayN5POY)
- - 👉 [This is how you have to train someone if they don&#39;t want to listen - experience...](http://9gag.com/gag/a2vNOOY)<!-- MEMES:END -->
+ - 😝 [If you know you know](http://9gag.com/gag/an7YrRL)
+ - 😝 [London has fallen](http://9gag.com/gag/a7o5pmz)
+ - 💣 [The baboon menace](http://9gag.com/gag/a7o5pZz)
+ - 😝 [MC gets what he deserves messing with the royal guards](http://9gag.com/gag/aMV1q7V)
+ - 👉 [Well, well, well. How the turntable](http://9gag.com/gag/a2vNG1e)<!-- MEMES:END -->
 
 ---
 

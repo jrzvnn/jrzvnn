@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ambient Weather WS-5000 Review: A Fantastic Weather Station](https://www.wired.com/review/ambient-weather-ws-5000/)
+ - [Here are some of our favorite Star Wars Day deals](https://www.theverge.com/2024/5/4/24148194/star-wars-day-may-fourth-2024-tech-lego-gaming-smart-home-deal-sale)
  - [As chipmakers move into or expand in the region around Germany&#39;s Dresden, skeptics say more government subsidies, skilled workers, and end customers are needed &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/240504/p10#a240504p10)
  - [How to Track Your Sleep Using Your Fitbit](https://www.wired.com/story/how-to-track-your-sleep-using-your-fitbit/)
- - [Best TV Mounting Options: Stands, Wall Mounts, Corner Mounts, Electric Mounts](https://www.wired.com/story/best-options-for-mounting-a-tv/)
- - [The Flextail Tiny Bike Pump is a solid pump half the time](https://www.theverge.com/24146158/flextail-tiny-bike-pump-review-specs)
- - [22 Star Wars Toys and Games to Celebrate May Fourth](https://www.wired.com/gallery/best-star-wars-gifts/)<!-- TECH:END -->
+ - [Best TV Mounting Options: Stands, Wall Mounts, Corner Mounts, Electric Mounts](https://www.wired.com/story/best-options-for-mounting-a-tv/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

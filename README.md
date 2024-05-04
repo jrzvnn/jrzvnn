@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If you know you know](http://9gag.com/gag/an7YrRL)
- - 😝 [Its a trap](http://9gag.com/gag/an7YrbE)
- - 💣 [Being racist to your school gets you kicked out, shocker!](http://9gag.com/gag/apRqVmM)
- - 😝 [Whatever floats your boat](http://9gag.com/gag/aXPbWyP)
- - 👉 [London has fallen](http://9gag.com/gag/a7o5pmz)<!-- MEMES:END -->
+ - 😝 [Anyone has a bullshit job &lpar;high salary, and pretty useless&rpar;?](http://9gag.com/gag/aAyY292)
+ - 😝 [Being racist to your school gets you kicked out, shocker!](http://9gag.com/gag/apRqVmM)
+ - 💣 [It was fun while it lasted](http://9gag.com/gag/aQzqyYz)
+ - 😝 [You Probably Voted 4 It](http://9gag.com/gag/avy0d8Z)
+ - 👉 [Must\u2026.. not\u2026.. see\u2026\u2026](http://9gag.com/gag/aKGz85b)<!-- MEMES:END -->
 
 ---
 

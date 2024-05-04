@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Making an amphibious vehicle for fishing, gaming and camping](http://9gag.com/gag/aO8qGWv)
+ - 😝 [Could You imagine?](http://9gag.com/gag/aE0wQgp)
  - 😝 [Wouldn&#39;t?](http://9gag.com/gag/ae9N7rj)
  - 💣 [How much money did the organizers pay them to attend the protest?](http://9gag.com/gag/aQzqV2r)
  - 😝 [Only 1 to go and bingo!](http://9gag.com/gag/a6Zw8xN)
- - 👉 [May the 4th be with you!](http://9gag.com/gag/aAyYmNd)<!-- MEMES:END -->
+ - 👉 [The driver&#39;s definitely getting 5 star review.](http://9gag.com/gag/axyN4y2)<!-- MEMES:END -->
 
 ---
 

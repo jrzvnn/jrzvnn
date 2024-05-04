@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: CRM software maker Freshworks acquires Connecticut-based Device42, which helps companies manage their IT infrastructure and had raised $38.5M, for $230M &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240503/p25#a240503p25)
  - [How the AI-generated music video for Washed Out&#39;s The Hardest Part was created entirely using OpenAI&#39;s Sora, a first from a major record label &lpar;Wendy Lee/Los Angeles Times&rpar;](http://www.techmeme.com/240503/p24#a240503p24)
  - [Natron Energy starts production of sodium-ion batteries that it says charge and discharge 10x faster than lithium-ion, initially for use at data centers &lpar;C.C. Weiss/New Atlas&rpar;](http://www.techmeme.com/240503/p23#a240503p23)
  - [Google employees have mostly ignored the DOJ&#39;s antitrust case, and some expect only small business tweaks and some fines; closing arguments concluded on May 3 &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/240503/p22#a240503p22)
- - [As Google’s antitrust trial wraps, DOJ seeks sanctions over missing messages](https://www.theverge.com/2024/5/3/24148558/google-search-antitrust-day-2-closing-arguments)
- - [The 8 Best On-Ear Headphones for 2024: Sony, Beats, Sennheiser and More     - CNET](https://www.cnet.com/tech/mobile/best-on-ear-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [As Google’s antitrust trial wraps, DOJ seeks sanctions over missing messages](https://www.theverge.com/2024/5/3/24148558/google-search-antitrust-day-2-closing-arguments)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

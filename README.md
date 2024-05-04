@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [If you know you know](http://9gag.com/gag/an7YrRL)
  - 😝 [Only 1 to go and bingo!](http://9gag.com/gag/a6Zw8xN)
- - 😝 [This is pleasing](http://9gag.com/gag/aYQb1zx)
- - 💣 [Witty title](http://9gag.com/gag/aD20VBd)
- - 😝 [Helldivers 2 right now](http://9gag.com/gag/aGy9Ogw)
+ - 💣 [Helldivers 2 right now](http://9gag.com/gag/aGy9Ogw)
+ - 😝 [Witty title](http://9gag.com/gag/aD20VBd)
  - 👉 [If you aren\u2019t familiar with what happened to Laura Logan while on assignment in Egypt, you should be.](http://9gag.com/gag/aKGzKeQ)<!-- MEMES:END -->
 
 ---

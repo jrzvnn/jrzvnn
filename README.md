@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Company Is Building a Giant Compressed-Air Battery in the Australian Outback](https://www.wired.com/story/hydrostor-compressed-air-battery-california-australia-energy-climate/)
+ - [Which States Have Legalized Marijuana for Recreational or Medical Use?     - CNET](https://www.cnet.com/health/which-states-have-legalized-marijuana-for-recreational-or-medical-use/#ftag=CAD590a51e)
+ - [F1 101: Here&#39;s Everything I Wish I Knew About Formula 1 When I Started Watching     - CNET](https://www.cnet.com/culture/sports/f1-101-heres-everything-i-wish-i-knew-about-formula-1-when-i-started-watching/#ftag=CAD590a51e)
  - [A New Surveillance Tool Invades Border Towns](https://www.wired.com/story/border-surveillance-india-assassination-project-nimbus-security-roundup/)
- - [What Kind of Battery Would You Need to Power a Lightsaber?](https://www.wired.com/story/what-kind-of-battery-would-you-need-to-power-a-lightsaber/)
- - [Q&amp;A with Nick Bostrom on his book Deep Utopia: Life and Meaning in a Solved World, which considers a future in which AI solves all of humanity&#39;s problems &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/240504/p9#a240504p9)
- - [Best Samsung Phone of 2024     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-phone/#ftag=CAD590a51e)
- - [7 Places Mold Could Be Hiding in Your Home     - CNET](https://www.cnet.com/how-to/7-places-mold-could-be-hiding-in-your-home/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [It&#39;s Not Recommended to Rinse Your Teeth After Brushing. Here&#39;s Why     - CNET](https://www.cnet.com/health/personal-care/its-not-recommended-to-rinse-your-teeth-after-brushing-heres-why/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

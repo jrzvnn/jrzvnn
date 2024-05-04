@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Childhood shoe cleaner put to unexpected use](http://9gag.com/gag/aYQbRNm)
- - 😝 [Humanity in a nutshell](http://9gag.com/gag/a0e9E1v)
- - 💣 [Black queen](http://9gag.com/gag/arypqjB)
- - 😝 [This kid jamming it](http://9gag.com/gag/a7o5pbA)
- - 👉 [Id wear that hair](http://9gag.com/gag/aVvOVmM)<!-- MEMES:END -->
+ - 😝 [Whatever floats your boat](http://9gag.com/gag/aXPbWyP)
+ - 😝 [He drank 197 coffes that day.](http://9gag.com/gag/aLnKdLv)
+ - 💣 [Its a trap](http://9gag.com/gag/an7YrbE)
+ - 😝 [A Muslim Imam in Pakistan treating diseases](http://9gag.com/gag/aqymzqp)
+ - 👉 [2023 thriller call La Roy Texas](http://9gag.com/gag/a6ZwG5m)<!-- MEMES:END -->
 
 ---
 

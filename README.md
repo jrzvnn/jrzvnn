@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That\u2019s a pretty wild experiment.](http://9gag.com/gag/a6ZwjqN)
- - 😝 [You Probably Voted 4 It](http://9gag.com/gag/avy0d8Z)
- - 💣 [Whatever floats your boat](http://9gag.com/gag/aXPbWyP)
+ - 😝 [He drank 197 coffes that day.](http://9gag.com/gag/aLnKdLv)
  - 😝 [Must\u2026.. not\u2026.. see\u2026\u2026](http://9gag.com/gag/aKGz85b)
- - 👉 [This is pleasing](http://9gag.com/gag/aYQb1zx)<!-- MEMES:END -->
+ - 💣 [You Probably Voted 4 It](http://9gag.com/gag/avy0d8Z)
+ - 😝 [On the left, the state prosecutor shows the size of the fatal hematoma in the skull &lpar;70 ml&rpar;; on the right, the size of the hematoma of the young woman who was killed by the former minister of Kazakhstan Bishimbayev](http://9gag.com/gag/a1mA2PG)
+ - 👉 [Witty title](http://9gag.com/gag/aD20VBd)<!-- MEMES:END -->
 
 ---
 

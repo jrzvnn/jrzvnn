@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is with a down payment of $3,000. Just holy f**king shit!](http://9gag.com/gag/abA5RPr)
- - 😝 [He drank 197 coffes that day.](http://9gag.com/gag/aLnKdLv)
- - 💣 [A Muslim Imam in Pakistan treating diseases](http://9gag.com/gag/aqymzqp)
- - 😝 [Its a trap](http://9gag.com/gag/an7YrbE)
- - 👉 [London has fallen](http://9gag.com/gag/a7o5pmz)<!-- MEMES:END -->
+ - 😝 [That\u2019s a pretty wild experiment.](http://9gag.com/gag/a6ZwjqN)
+ - 😝 [You Probably Voted 4 It](http://9gag.com/gag/avy0d8Z)
+ - 💣 [Whatever floats your boat](http://9gag.com/gag/aXPbWyP)
+ - 😝 [Must\u2026.. not\u2026.. see\u2026\u2026](http://9gag.com/gag/aKGz85b)
+ - 👉 [This is pleasing](http://9gag.com/gag/aYQb1zx)<!-- MEMES:END -->
 
 ---
 

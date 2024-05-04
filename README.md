@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If you know you know](http://9gag.com/gag/an7YrRL)
+ - 😝 [Making an amphibious vehicle for fishing, gaming and camping](http://9gag.com/gag/aO8qGWv)
+ - 😝 [Wouldn&#39;t?](http://9gag.com/gag/ae9N7rj)
+ - 💣 [How much money did the organizers pay them to attend the protest?](http://9gag.com/gag/aQzqV2r)
  - 😝 [Only 1 to go and bingo!](http://9gag.com/gag/a6Zw8xN)
- - 💣 [Helldivers 2 right now](http://9gag.com/gag/aGy9Ogw)
- - 😝 [Witty title](http://9gag.com/gag/aD20VBd)
- - 👉 [If you aren\u2019t familiar with what happened to Laura Logan while on assignment in Egypt, you should be.](http://9gag.com/gag/aKGzKeQ)<!-- MEMES:END -->
+ - 👉 [May the 4th be with you!](http://9gag.com/gag/aAyYmNd)<!-- MEMES:END -->
 
 ---
 

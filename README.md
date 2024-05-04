@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If you know you know](http://9gag.com/gag/an7YrRL)
- - 😝 [London has fallen](http://9gag.com/gag/a7o5pmz)
- - 💣 [The baboon menace](http://9gag.com/gag/a7o5pZz)
- - 😝 [MC gets what he deserves messing with the royal guards](http://9gag.com/gag/aMV1q7V)
- - 👉 [Well, well, well. How the turntable](http://9gag.com/gag/a2vNG1e)<!-- MEMES:END -->
+ - 😝 [How much money did the organizers pay them to attend the protest?](http://9gag.com/gag/aQzqV2r)
+ - 😝 [He drank 197 coffes that day.](http://9gag.com/gag/aLnKdLv)
+ - 💣 [Why won&#39;t we?](http://9gag.com/gag/aXPbKRd)
+ - 😝 [Wouldn&#39;t?](http://9gag.com/gag/ae9N7rj)
+ - 👉 [Hey! That&#39;s my side!](http://9gag.com/gag/a6Zwpzm)<!-- MEMES:END -->
 
 ---
 

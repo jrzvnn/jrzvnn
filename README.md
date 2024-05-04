@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Its a trap](http://9gag.com/gag/an7YrbE)
- - 😝 [If you know you know](http://9gag.com/gag/an7YrRL)
- - 💣 [2023 thriller call La Roy Texas](http://9gag.com/gag/a6ZwG5m)
- - 😝 [This is pleasing](http://9gag.com/gag/aYQb1zx)
- - 👉 [Id wear that hair](http://9gag.com/gag/aVvOVmM)<!-- MEMES:END -->
+ - 😝 [22 years of marriage ended, guess it\u2019s my turn now.](http://9gag.com/gag/a87W23e)
+ - 😝 [Acting Labor Secretary Can&#39;t Answer If She&#39;s Ever Owned A Business](http://9gag.com/gag/aPAvXgV)
+ - 💣 [Can someone explain? \ud83e\udd14](http://9gag.com/gag/aNDe41r)
+ - 😝 [He drank 197 coffes that day.](http://9gag.com/gag/aLnKdLv)
+ - 👉 [The baboon menace](http://9gag.com/gag/a7o5pZz)<!-- MEMES:END -->
 
 ---
 

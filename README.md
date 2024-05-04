@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He drank 197 coffes that day.](http://9gag.com/gag/aLnKdLv)
- - 😝 [Must\u2026.. not\u2026.. see\u2026\u2026](http://9gag.com/gag/aKGz85b)
- - 💣 [The baboon menace](http://9gag.com/gag/a7o5pZz)
- - 😝 [Its a trap](http://9gag.com/gag/an7YrbE)
- - 👉 [This kid jamming it](http://9gag.com/gag/a7o5pbA)<!-- MEMES:END -->
+ - 😝 [If you know you know](http://9gag.com/gag/an7YrRL)
+ - 😝 [This is precisely why the ocean world belongs to them and I will not go into their territory\u2026. Giant nope discovered](http://9gag.com/gag/aAyYv7p)
+ - 💣 [Witty title](http://9gag.com/gag/aD20VBd)
+ - 😝 [I\u2019m always extremely helpful](http://9gag.com/gag/ae9Nm75)
+ - 👉 [Some are suddenly ashamed of protesting and hiding face after their face diapers are removed](http://9gag.com/gag/aKGzY11)<!-- MEMES:END -->
 
 ---
 

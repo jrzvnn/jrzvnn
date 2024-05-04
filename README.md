@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ola founder Bhavish Aggarwal&#39;s Krutrim launches an Android app for its eponymous AI chatbot as the startup prepares to launch its developer offerings on May 4 &lpar;Vikas SN/Moneycontrol&rpar;](http://www.techmeme.com/240504/p1#a240504p1)
  - [Filing: CRM software maker Freshworks acquires Connecticut-based Device42, which helps companies manage their IT infrastructure and had raised $38.5M, for $230M &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240503/p25#a240503p25)
  - [How the AI-generated music video for Washed Out&#39;s The Hardest Part was created entirely using OpenAI&#39;s Sora, a first from a major record label &lpar;Wendy Lee/Los Angeles Times&rpar;](http://www.techmeme.com/240503/p24#a240503p24)
- - [Natron Energy starts production of sodium-ion batteries that it says charge and discharge 10x faster than lithium-ion, initially for use at data centers &lpar;C.C. Weiss/New Atlas&rpar;](http://www.techmeme.com/240503/p23#a240503p23)
- - [Google employees have mostly ignored the DOJ&#39;s antitrust case, and some expect only small business tweaks and some fines; closing arguments concluded on May 3 &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/240503/p22#a240503p22)
- - [As Google’s antitrust trial wraps, DOJ seeks sanctions over missing messages](https://www.theverge.com/2024/5/3/24148558/google-search-antitrust-day-2-closing-arguments)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints and Answers: Help for May 4, #328     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hints-answer-help-for-may-4-328/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints and Answer: Help for May 4, #1050     - CNET](https://www.cnet.com/news/todays-wordle-hints-and-answer-help-for-may-4-1050/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

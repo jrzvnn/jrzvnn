@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Whatever floats your boat](http://9gag.com/gag/aXPbWyP)
  - 😝 [Helldivers 2 right now](http://9gag.com/gag/aGy9Ogw)
- - 💣 [If you know you know](http://9gag.com/gag/an7YrRL)
+ - 😝 [AAAAA!!!](http://9gag.com/gag/avy0mqW)
+ - 💣 [London has fallen](http://9gag.com/gag/a7o5pmz)
  - 😝 [Getafe players take their mums onto the pitch for mothers day](http://9gag.com/gag/ayN5POY)
- - 👉 [Witty title](http://9gag.com/gag/aD20VBd)<!-- MEMES:END -->
+ - 👉 [This is how you have to train someone if they don&#39;t want to listen - experience...](http://9gag.com/gag/a2vNOOY)<!-- MEMES:END -->
 
 ---
 

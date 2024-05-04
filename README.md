@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How the AI-generated music video for Washed Out&#39;s The Hardest Part was created entirely using OpenAI&#39;s Sora, a first from a major record label &lpar;Wendy Lee/Los Angeles Times&rpar;](http://www.techmeme.com/240503/p24#a240503p24)
  - [Natron Energy starts production of sodium-ion batteries that it says charge and discharge 10x faster than lithium-ion, initially for use at data centers &lpar;C.C. Weiss/New Atlas&rpar;](http://www.techmeme.com/240503/p23#a240503p23)
  - [Google employees have mostly ignored the DOJ&#39;s antitrust case, and some expect only small business tweaks and some fines; closing arguments concluded on May 3 &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/240503/p22#a240503p22)
  - [As Google’s antitrust trial wraps, DOJ seeks sanctions over missing messages](https://www.theverge.com/2024/5/3/24148558/google-search-antitrust-day-2-closing-arguments)
- - [The 8 Best On-Ear Headphones for 2024: Sony, Beats, Sennheiser and More     - CNET](https://www.cnet.com/tech/mobile/best-on-ear-headphones/#ftag=CAD590a51e)
- - [Giro d&#39;Italia 2024: How to Watch a UCI World Tour Cycling Livestream for Free     - CNET](https://www.cnet.com/tech/services-and-software/giro-ditalia-2024-how-to-watch-a-uci-world-tour-cycling-livestream-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 8 Best On-Ear Headphones for 2024: Sony, Beats, Sennheiser and More     - CNET](https://www.cnet.com/tech/mobile/best-on-ear-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

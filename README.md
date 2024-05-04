@@ -91,11 +91,11 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Russian national Alexander Vinnik, one of the operators of crypto exchange BTC-e from 2011 to 2017, pleads guilty to conspiracy to commit money laundering &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/240503/p21#a240503p21)
+ - [Google updates its ad policy to ban the promotion of services that generate, distribute, or store synthetic sexually explicit content, starting May 30, 2024 &lpar;Barry Schwartz/Search Engine Roundtable&rpar;](http://www.techmeme.com/240503/p20#a240503p20)
+ - [Keep All Your Devices Powered With $16 Off This Power Station     - CNET](https://www.cnet.com/deals/keep-all-your-devices-powered-with-16-off-this-power-station/#ftag=CAD590a51e)
  - [Microsoft needs some time to ‘refine’ updates for Copilot AI in Windows](https://www.theverge.com/2024/5/3/24148473/windows-11-insider-copilot-preview-beta-dev-channel)
- - [Google bans advertisers from promoting deepfake porn services](https://www.theverge.com/2024/5/3/24148368/google-ad-policy-deepfake-pornography-nudes)
- - [LG’s quirky briefcase TV is nearly matching its best price to date](https://www.theverge.com/2024/5/3/24147594/lg-stanbyme-go-briefcase-tv-paramount-plus-showtime-deal-sale)
- - [CSET: global AI research more than doubled between 2017 and 2022; Chinese Academy of Sciences was the top producer of highly cited AI papers, followed by Google &lpar;Alison Snyder/Axios&rpar;](http://www.techmeme.com/240503/p19#a240503p19)
- - [NHL Playoffs 2024: How to Watch Without Cable, Schedule, Matchups, TV Times     - CNET](https://www.cnet.com/tech/services-and-software/nhl-playoffs-2024-how-to-watch-without-cable-schedule-matchups-tv-times/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google bans advertisers from promoting deepfake porn services](https://www.theverge.com/2024/5/3/24148368/google-ad-policy-deepfake-pornography-nudes)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

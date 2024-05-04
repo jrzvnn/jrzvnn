@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to make the most of Apple Notes](https://www.theverge.com/24147569/apple-notes-ios-iphone-how-to)
- - [Ambient Weather WS-5000 Review: A Fantastic Weather Station](https://www.wired.com/review/ambient-weather-ws-5000/)
- - [Here are some of our favorite Star Wars Day deals](https://www.theverge.com/2024/5/4/24148194/star-wars-day-may-fourth-2024-tech-lego-gaming-smart-home-deal-sale)
- - [As chipmakers move into or expand in the region around Germany&#39;s Dresden, skeptics say more government subsidies, skilled workers, and end customers are needed &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/240504/p10#a240504p10)
- - [Man City vs. Wolves Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/man-city-vs-wolves-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Warren Buffett has sold a lot of Apple stock so far in 2024](https://appleinsider.com/articles/24/05/04/warren-buffett-has-sold-a-lot-of-apple-stock-so-far-in-2024?utm_medium=rss)
+ - [LinkedIn Has Games Now](https://www.wired.com/story/linkedin-has-games-now/)
+ - [The teens making friends with AI chatbots](https://www.theverge.com/2024/5/4/24144763/ai-chatbot-friends-character-teens)
+ - [Komoot is helping me get back on my bike after a long hiatus](https://www.theverge.com/24137562/komoot-app-cycling-routes)
+ - [A look at Runway&#39;s second International AI Film Festival, which it says grew from 300 short-video submissions in 2023 to 3,000 in 2024 with 10 finalists chosen &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/240504/p11#a240504p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

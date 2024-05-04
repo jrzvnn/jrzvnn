@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He drank 197 coffes that day.](http://9gag.com/gag/aLnKdLv)
- - 😝 [Why won&#39;t we?](http://9gag.com/gag/aXPbKRd)
- - 💣 [How much money did the organizers pay them to attend the protest?](http://9gag.com/gag/aQzqV2r)
- - 😝 [Hey! That&#39;s my side!](http://9gag.com/gag/a6Zwpzm)
- - 👉 [Making an amphibious vehicle for fishing, gaming and camping](http://9gag.com/gag/aO8qGWv)<!-- MEMES:END -->
+ - 😝 [This is pleasing](http://9gag.com/gag/aYQb1zx)
+ - 😝 [Witty title](http://9gag.com/gag/aD20VBd)
+ - 💣 [Helldivers 2 right now](http://9gag.com/gag/aGy9Ogw)
+ - 😝 [Well, well, well. How the turntable](http://9gag.com/gag/a2vNG1e)
+ - 👉 [How US Air Force pilots find out what aircraft they will fly](http://9gag.com/gag/a7o5Apm)<!-- MEMES:END -->
 
 ---
 

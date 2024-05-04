@@ -162,10 +162,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Orka Two Review: Sleek Hearing Aids](https://www.wired.com/review/orka-two-hearing-aids/)
+ - [Wayfair Way Day 2024: Sitewide Savings of Up to 80% Off Until Monday     - CNET](https://www.cnet.com/deals/wayfair-way-day-2024/#ftag=CAD590a51e)
+ - [Sick of Bugs in Your Kitchen? Try These Common Houseplants to Drive Them Away     - CNET](https://www.cnet.com/news/sick-of-bugs-in-your-kitchen-try-these-common-houseplants-to-drive-them-away/#ftag=CAD590a51e)
  - [Warren Buffett has sold a lot of Apple stock so far in 2024](https://appleinsider.com/articles/24/05/04/warren-buffett-has-sold-a-lot-of-apple-stock-so-far-in-2024?utm_medium=rss)
- - [LinkedIn Has Games Now](https://www.wired.com/story/linkedin-has-games-now/)
- - [The teens making friends with AI chatbots](https://www.theverge.com/2024/5/4/24144763/ai-chatbot-friends-character-teens)
- - [Komoot is helping me get back on my bike after a long hiatus](https://www.theverge.com/24137562/komoot-app-cycling-routes)<!-- TECH:END -->
+ - [Hack Your Brain to Boost Happiness by Monitoring These 4 Hormones     - CNET](https://www.cnet.com/health/mental/hack-your-brain-to-boost-happiness-by-monitoring-these-4-hormones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

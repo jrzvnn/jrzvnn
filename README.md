@@ -100,11 +100,11 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Staircase to defend your castle](http://9gag.com/gag/avy0dQM)
- - 😝 [Id wear that hair](http://9gag.com/gag/aVvOVmM)
- - 💣 [Childhood shoe cleaner put to unexpected use](http://9gag.com/gag/aYQbRNm)
- - 😝 [A rescue dog named Dolly passed a test to find a person under the snow and is clearly very happy](http://9gag.com/gag/aVvOVbd)
- - 👉 [.](http://9gag.com/gag/adBNobZ)<!-- MEMES:END -->
+ - 😝 [Childhood shoe cleaner put to unexpected use](http://9gag.com/gag/aYQbRNm)
+ - 😝 [Humanity in a nutshell](http://9gag.com/gag/a0e9E1v)
+ - 💣 [.](http://9gag.com/gag/adBNobZ)
+ - 😝 [This kid jamming it](http://9gag.com/gag/a7o5pbA)
+ - 👉 [Id wear that hair](http://9gag.com/gag/aVvOVmM)<!-- MEMES:END -->
 
 ---
 

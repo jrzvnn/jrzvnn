@@ -165,7 +165,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Meta launches quote post controls for all Threads users, who can allow quotes from everyone on Threads, only the people they follow, or disable quote posts &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/240504/p13#a240504p13)
  - [ChromeOS gets better multitasking and Wi-Fi traffic prioritization](https://www.theverge.com/2024/5/4/24148786/google-chromeos-m124-update-chromebook-split-screen-qos-material-you)
  - [Biden is expected to sign the REPORT Act next week; the bipartisan bill targets child sextortion online through new CSAM reporting requirements and more &lpar;Julie Tsirkin/NBC News&rpar;](http://www.techmeme.com/240504/p12#a240504p12)
- - [Best Free VPN for 2024: Affordable Risk-Free Privacy     - CNET](https://www.cnet.com/tech/services-and-software/best-free-vpn/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Monitoring Your Weight? Here&#39;s When to Weigh Yourself for the Most Accurate Reading     - CNET](https://www.cnet.com/health/fitness/monitoring-your-weight-heres-when-to-weigh-yourself-for-the-most-accurate-reading/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

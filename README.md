@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Whatever floats your boat](http://9gag.com/gag/aXPbWyP)
- - 😝 [He drank 197 coffes that day.](http://9gag.com/gag/aLnKdLv)
- - 💣 [Its a trap](http://9gag.com/gag/an7YrbE)
- - 😝 [A Muslim Imam in Pakistan treating diseases](http://9gag.com/gag/aqymzqp)
- - 👉 [2023 thriller call La Roy Texas](http://9gag.com/gag/a6ZwG5m)<!-- MEMES:END -->
+ - 😝 [Just accepted it guys lol](http://9gag.com/gag/aW4Zo1n)
+ - 😝 [The baboon menace](http://9gag.com/gag/a7o5pZz)
+ - 💣 [Tesla doing beta testing on its customers. This is after the `fix`](http://9gag.com/gag/aLnKXxW)
+ - 😝 [London has fallen](http://9gag.com/gag/a7o5pmz)
+ - 👉 [Whatever floats your boat](http://9gag.com/gag/aXPbWyP)<!-- MEMES:END -->
 
 ---
 

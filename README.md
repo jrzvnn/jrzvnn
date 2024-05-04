@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Could You imagine?](http://9gag.com/gag/aE0wQgp)
- - 😝 [Wouldn&#39;t?](http://9gag.com/gag/ae9N7rj)
- - 💣 [How much money did the organizers pay them to attend the protest?](http://9gag.com/gag/aQzqV2r)
- - 😝 [Only 1 to go and bingo!](http://9gag.com/gag/a6Zw8xN)
- - 👉 [The driver&#39;s definitely getting 5 star review.](http://9gag.com/gag/axyN4y2)<!-- MEMES:END -->
+ - 😝 [This is with a down payment of $3,000. Just holy f**king shit!](http://9gag.com/gag/abA5RPr)
+ - 😝 [He drank 197 coffes that day.](http://9gag.com/gag/aLnKdLv)
+ - 💣 [Getafe players take their mums onto the pitch for mothers day](http://9gag.com/gag/ayN5POY)
+ - 😝 [Helldivers 2 right now](http://9gag.com/gag/aGy9Ogw)
+ - 👉 [If you aren\u2019t familiar with what happened to Laura Logan while on assignment in Egypt, you should be.](http://9gag.com/gag/aKGzKeQ)<!-- MEMES:END -->
 
 ---
 

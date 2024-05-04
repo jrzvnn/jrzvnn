@@ -162,10 +162,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The newest Star Wars Acolyte trailer seems to reveal the show’s big bad](https://www.theverge.com/2024/5/4/24148934/star-wars-the-acolyte-trailer-sith-lord-jedi-high-republic-disney-plus)
+ - [Best Innerspring Mattresses in 2024     - CNET](https://www.cnet.com/health/sleep/best-innerspring-mattress/#ftag=CAD590a51e)
+ - [Over 60 of the Best Star Wars Gifts for 2024: Top Picks for May the Fourth     - CNET](https://www.cnet.com/culture/entertainment/best-star-wars-gifts/#ftag=CAD590a51e)
  - [US Air Force plans a fleet of 1,000+ AI-controlled jets, the first of them operating by 2028; some AI versions already beat human pilots in air-to-air combat &lpar;Tara Copp/Associated Press&rpar;](http://www.techmeme.com/240504/p14#a240504p14)
- - [Every Cool Thing Announced for Star Wars Day 2024: From Funko to Limited-Edition Loungefly     - CNET](https://www.cnet.com/tech/everything-announced-this-star-wars-day/#ftag=CAD590a51e)
- - [Despite Recalls, Air Fryers Are Safe if You Follow These Basic Safety Rules     - CNET](https://www.cnet.com/home/kitchen-and-household/despite-recalls-air-fryers-are-safe-if-you-follow-these-basic-safety-rules/#ftag=CAD590a51e)
- - [Therapy Out of Reach? 4 Ways to Improve Your Mental Health for Free     - CNET](https://www.cnet.com/health/mental/therapy-out-of-reach-4-ways-to-improve-your-mental-health-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Immunity Supplements for 2024     - CNET](https://www.cnet.com/health/nutrition/best-immunity-supplements/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

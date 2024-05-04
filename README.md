@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If you know you know](http://9gag.com/gag/an7YrRL)
- - 😝 [Well, well, well. How the turntable](http://9gag.com/gag/a2vNG1e)
- - 💣 [Witty title](http://9gag.com/gag/aD20VBd)
+ - 😝 [Whatever floats your boat](http://9gag.com/gag/aXPbWyP)
  - 😝 [Helldivers 2 right now](http://9gag.com/gag/aGy9Ogw)
- - 👉 [The Islamists won elections in Bradford, UK, simply because they are majority. These are the results of uncontrolled immigration. Dark times ahead for UK](http://9gag.com/gag/aD20MPN)<!-- MEMES:END -->
+ - 💣 [If you know you know](http://9gag.com/gag/an7YrRL)
+ - 😝 [Getafe players take their mums onto the pitch for mothers day](http://9gag.com/gag/ayN5POY)
+ - 👉 [Witty title](http://9gag.com/gag/aD20VBd)<!-- MEMES:END -->
 
 ---
 

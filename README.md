@@ -162,10 +162,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Q&amp;A with Nick Bostrom on his book Deep Utopia: Life and Meaning in a Solved World, which considers a future in which AI solves all of humanity&#39;s problems &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/240504/p9#a240504p9)
- - [A look at AI companies gathering data from real people to create &quot;digital twins&quot;, to use as fashion models, focus group members, or clinical trial participants &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/240504/p8#a240504p8)
- - [Defense lawyers question the accuracy and reliability of Cybercheck, an AI tool used in thousands of US cases to identify suspects&#39; locations and other details &lpar;Tim Stelloh/NBC News&rpar;](http://www.techmeme.com/240504/p7#a240504p7)
- - [A look at news publishers&#39; conflicting approaches toward AI companies, and how the lack of a data marketplace makes it hard for buyers and sellers to set rates &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/240504/p6#a240504p6)
- - [Synergy Research: cloud revenue grew 21% YoY in Q1 2024 to $76B; Altimeter: AWS now has 31% market share followed by Azure with 25% and Google with 11% &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/240504/p5#a240504p5)<!-- TECH:END -->
+ - [Funny or Annoying? How Google&#39;s New &#39;Audio Emoji&#39; Feature Works on Android     - CNET](https://www.cnet.com/tech/services-and-software/funny-or-annoying-how-googles-new-audio-emoji-feature-works-on-android/#ftag=CAD590a51e)
+ - [Arsenal vs. Bournemouth Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/arsenal-vs-bournemouth-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
+ - [How to Watch and Stream the 2024 Miami GP     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-and-stream-the-2024-miami-gp/#ftag=CAD590a51e)
+ - [A look at AI companies gathering data from real people to create &quot;digital twins&quot;, to use as fashion models, focus group members, or clinical trial participants &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/240504/p8#a240504p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

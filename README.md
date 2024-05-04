@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is pleasing](http://9gag.com/gag/aYQb1zx)
+ - 😝 [2023 thriller call La Roy Texas](http://9gag.com/gag/a6ZwG5m)
  - 😝 [Well, well, well. How the turntable](http://9gag.com/gag/a2vNG1e)
- - 💣 [Witty title](http://9gag.com/gag/aD20VBd)
- - 😝 [If you aren\u2019t familiar with what happened to Laura Logan while on assignment in Egypt, you should be.](http://9gag.com/gag/aKGzKeQ)
- - 👉 [On the left, the state prosecutor shows the size of the fatal hematoma in the skull &lpar;70 ml&rpar;; on the right, the size of the hematoma of the young woman who was killed by the former minister of Kazakhstan Bishimbayev](http://9gag.com/gag/a1mA2PG)<!-- MEMES:END -->
+ - 💣 [Can someone explain? \ud83e\udd14](http://9gag.com/gag/aNDe41r)
+ - 😝 [How US Air Force pilots find out what aircraft they will fly](http://9gag.com/gag/a7o5Apm)
+ - 👉 [If you aren\u2019t familiar with what happened to Laura Logan while on assignment in Egypt, you should be.](http://9gag.com/gag/aKGzKeQ)<!-- MEMES:END -->
 
 ---
 

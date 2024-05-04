@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best TV Mounting Options: Stands, Wall Mounts, Corner Mounts, Electric Mounts](https://www.wired.com/story/best-options-for-mounting-a-tv/)
+ - [The Flextail Tiny Bike Pump is a solid pump half the time](https://www.theverge.com/24146158/flextail-tiny-bike-pump-review-specs)
  - [22 Star Wars Toys and Games to Celebrate May Fourth](https://www.wired.com/gallery/best-star-wars-gifts/)
  - [Brentford vs. Fulham Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/brentford-vs-fulham-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [Sheffield United vs. Nottingham Forest Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/sheffield-united-vs-nottingham-forest-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [Burnley vs. Newcastle Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/burnley-vs-newcastle-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [Get Mom Moving on Mother&#39;s Day With These Top Health and Fitness Gifts     - CNET](https://www.cnet.com/health/parenting/mothers-day-fitness-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sheffield United vs. Nottingham Forest Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/sheffield-united-vs-nottingham-forest-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

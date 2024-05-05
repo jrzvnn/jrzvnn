@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the US and EU&#39;s dueling approaches to rein in Big Tech, splitting tech companies&#39; attention by miring them in separate legal and enforcement battles &lpar;Politico&rpar;](http://www.techmeme.com/240505/p4#a240505p4)
+ - [Xiaomi Watch S3 Review: Quirky Customization](https://www.wired.com/review/xiaomi-watch-s3/)
  - [A speedrunner’s quest to &lpar;re&rpar;build the perfect N64 controller](https://www.theverge.com/24146590/n64-speedrunning-mariokart-controllers-joysticks-world-records)
  - [Sony CRE-E10 Review: Well-Rounded Hearing Aids](https://www.wired.com/review/sony-cre-e10-hearing-aids/)
- - [25 Best Mother&#39;s Day Gifts: Ideas for the Moms in Your Life &lpar;2024&rpar;](https://www.wired.com/gallery/gifts-for-mom/)
- - [Better Siri is coming: what Apple’s research says about its AI plans](https://www.theverge.com/2024/5/5/24147995/apple-siri-ai-research-chatbot-creativity)
- - [As Elon Musk Abandons the $25K Tesla, This EV Costs Just $4,400](https://www.wired.com/story/zhidou-rainbow-ev-costs-just-dollar4400/)<!-- TECH:END -->
+ - [25 Best Mother&#39;s Day Gifts: Ideas for the Moms in Your Life &lpar;2024&rpar;](https://www.wired.com/gallery/gifts-for-mom/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

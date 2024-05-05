@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [MC gets what he deserves messing with the royal guards](http://9gag.com/gag/aMV1q7V)
- - 😝 [Jake are you ok?](http://9gag.com/gag/aYQbdMN)
- - 💣 [If you aren\u2019t familiar with what happened to Laura Logan while on assignment in Egypt, you should be.](http://9gag.com/gag/aKGzKeQ)
- - 😝 [How US Air Force pilots find out what aircraft they will fly](http://9gag.com/gag/a7o5Apm)
- - 👉 [Getafe players take their mums onto the pitch for mothers day](http://9gag.com/gag/ayN5POY)<!-- MEMES:END -->
+ - 😝 [Update](http://9gag.com/gag/awyrPND)
+ - 😝 [Riot in a digital concentration camp.](http://9gag.com/gag/aByKj1A)
+ - 💣 [I know it smell crazy there](http://9gag.com/gag/amoXde9)
+ - 😝 [I would suggest Gaza, do you have any other ideas?](http://9gag.com/gag/a5QdvKE)
+ - 👉 [A short title](http://9gag.com/gag/aD20NqK)<!-- MEMES:END -->
 
 ---
 

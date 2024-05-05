@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Skeletor approves GTA VI](http://9gag.com/gag/aXPbGRd)
- - 😝 [He drank 197 coffes that day.](http://9gag.com/gag/aLnKdLv)
- - 💣 [Red Hot Ball VS Aloe Vera.](http://9gag.com/gag/aqympVZ)
- - 😝 [UK, you OK?](http://9gag.com/gag/aD20NNO)
- - 👉 [How US Air Force pilots find out what aircraft they will fly](http://9gag.com/gag/a7o5Apm)<!-- MEMES:END -->
+ - 😝 [How much money did the organizers pay them to attend the protest?](http://9gag.com/gag/aQzqV2r)
+ - 😝 [Well, well, well. How the turntable](http://9gag.com/gag/a2vNG1e)
+ - 💣 [Helldivers 2 right now](http://9gag.com/gag/aGy9Ogw)
+ - 😝 [Getafe players take their mums onto the pitch for mothers day](http://9gag.com/gag/ayN5POY)
+ - 👉 [Only 1 to go and bingo!](http://9gag.com/gag/a6Zw8xN)<!-- MEMES:END -->
 
 ---
 

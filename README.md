@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Islamists won elections in Bradford, UK, simply because they are majority. These are the results of uncontrolled immigration. Dark times ahead for UK](http://9gag.com/gag/aD20MPN)
- - 😝 [Nice One](http://9gag.com/gag/avy0DbX)
- - 💣 [Jake are you ok?](http://9gag.com/gag/aYQbdMN)
- - 😝 [If you aren\u2019t familiar with what happened to Laura Logan while on assignment in Egypt, you should be.](http://9gag.com/gag/aKGzKeQ)
- - 👉 [Riot in a digital concentration camp.](http://9gag.com/gag/aByKj1A)<!-- MEMES:END -->
+ - 😝 [Riot in a digital concentration camp.](http://9gag.com/gag/aByKj1A)
+ - 😝 [Red Hot Ball VS Aloe Vera.](http://9gag.com/gag/aqympVZ)
+ - 💣 [The Islamists won elections in Bradford, UK, simply because they are majority. These are the results of uncontrolled immigration. Dark times ahead for UK](http://9gag.com/gag/aD20MPN)
+ - 😝 [LMAO](http://9gag.com/gag/aryp9NV)
+ - 👉 [Has me crying everytime](http://9gag.com/gag/aD20NpB)<!-- MEMES:END -->
 
 ---
 

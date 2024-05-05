@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [25 Great Gifts for Mom: Ideas for the Mother in Your Life &lpar;2024&rpar;](https://www.wired.com/gallery/gifts-for-mom/)
  - [An Old Abstract Field of Math Is Unlocking the Deep Complexity of Spacecraft Orbits](https://www.wired.com/story/old-abstract-field-math-spacecraft-orbits-jupiter-europa/)
  - [How role-playing with an AI chatbot can help prepare for difficult conversations with family, friends, and colleagues, such as for terminating an employee &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240505/p3#a240505p3)
  - [Best Amazon Deals: Secure Sweet Savings on Appliances, Tech Gadgets and More     - CNET](https://www.cnet.com/deals/best-amazon-deals-secure-sweet-savings-on-appliances-tech-gadgets-and-more/#ftag=CAD590a51e)
- - [Which Apps Are Draining Your MacBook&#39;s Battery?     - CNET](https://www.cnet.com/tech/services-and-software/which-apps-are-draining-your-macbooks-battery/#ftag=CAD590a51e)
- - [No, It&#39;s Not Too Late. Check Out These Last-Minute Mother&#39;s Day Gifts     - CNET](https://www.cnet.com/news/last-minute-mothers-day/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Which Apps Are Draining Your MacBook&#39;s Battery?     - CNET](https://www.cnet.com/tech/services-and-software/which-apps-are-draining-your-macbooks-battery/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

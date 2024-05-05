@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Panda Girl](http://9gag.com/gag/aXPbdVd)
- - 😝 [The driver&#39;s definitely getting 5 star review.](http://9gag.com/gag/axyN4y2)
- - 💣 [64 Days for perfect Omurice](http://9gag.com/gag/a7o5A4A)
- - 😝 [How Apple calculate their prices &lpar;Video by SamTime&rpar;](http://9gag.com/gag/a4P4xv6)
- - 👉 [Ok that was dark](http://9gag.com/gag/azxbBGj)<!-- MEMES:END -->
+ - 😝 [How much money did the organizers pay them to attend the protest?](http://9gag.com/gag/aQzqV2r)
+ - 😝 [Well, well, well. How the turntable](http://9gag.com/gag/a2vNG1e)
+ - 💣 [Helldivers 2 right now](http://9gag.com/gag/aGy9Ogw)
+ - 😝 [Getafe players take their mums onto the pitch for mothers day](http://9gag.com/gag/ayN5POY)
+ - 👉 [Only 1 to go and bingo!](http://9gag.com/gag/a6Zw8xN)<!-- MEMES:END -->
 
 ---
 

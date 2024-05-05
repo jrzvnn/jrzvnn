@@ -163,9 +163,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Jack Dorsey says he’s no longer on Bluesky’s board](https://www.theverge.com/2024/5/5/24149543/jack-dorsey-gone-bluesky-board)
  - [Jack Dorsey replies &quot;no&quot; to an X user who asked if he was still on the Bluesky board; it&#39;s not clear when he left, as Bluesky&#39;s FAQ still lists him as a member &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/240505/p5#a240505p5)
+ - [The Best Apple Cider Vinegar Drinks to Get Your Daily Fix     - CNET](https://www.cnet.com/news/best-apple-cider-vinegar-drinks-we-tested/#ftag=CAD590a51e)
  - [These 1-Minute Microwaved Poached Eggs Are a Brunch Hack for the Ages     - CNET](https://www.cnet.com/home/kitchen-and-household/these-1-minute-microwaved-poached-eggs-are-a-brunch-hack-for-the-ages/#ftag=CAD590a51e)
- - [NBA Playoffs 2024: How to Watch Magic vs. Cavaliers Game 7 on ABC     - CNET](https://www.cnet.com/tech/services-and-software/nba-playoffs-2024-how-to-watch-without-cable/#ftag=CAD590a51e)
- - [Tesla plans to charge some Model Y owners to unlock more range](https://www.theverge.com/2024/5/5/24149447/tesla-model-y-software-locked-battery-capacity)<!-- TECH:END -->
+ - [NBA Playoffs 2024: How to Watch Magic vs. Cavaliers Game 7 on ABC     - CNET](https://www.cnet.com/tech/services-and-software/nba-playoffs-2024-how-to-watch-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

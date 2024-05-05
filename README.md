@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [25 Best Mother&#39;s Day Gifts: Ideas for the Moms in Your Life &lpar;2024&rpar;](https://www.wired.com/gallery/gifts-for-mom/)
+ - [Better Siri is coming: what Apple’s research says about its AI plans](https://www.theverge.com/2024/5/5/24147995/apple-siri-ai-research-chatbot-creativity)
  - [As Elon Musk Abandons the $25K Tesla, This EV Costs Just $4,400](https://www.wired.com/story/zhidou-rainbow-ev-costs-just-dollar4400/)
- - [Translation Tech Is Amazing, Except When It’s Not](https://www.wired.com/story/translation-tech-is-amazing-except-when-its-not/)
- - [The best new browser for Windows](https://www.theverge.com/2024/5/5/24148223/arc-browser-windows-claude-sofa-bose-beats-hacks-coffee-installer)
- - [Liverpool vs. Tottenham Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/liverpool-vs-tottenham-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [25 Great Gifts for Mom: Ideas for the Mother in Your Life &lpar;2024&rpar;](https://www.wired.com/gallery/gifts-for-mom/)<!-- TECH:END -->
+ - [When and Where to Live Stream the &#39;The Roast of Tom Brady&#39;     - CNET](https://www.cnet.com/tech/services-and-software/when-and-where-to-live-stream-the-the-roast-of-tom-brady/#ftag=CAD590a51e)
+ - [Watch a Waymo Driverless Car Speed Down a Freeway video     - CNET](https://www.cnet.com/roadshow/videos/watch-a-waymo-driverless-car-speed-down-a-freeway/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -172,9 +172,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Has me crying everytime](http://9gag.com/gag/aD20NpB)
  - 😝 [I know it smell crazy there](http://9gag.com/gag/amoXde9)
- - 💣 [Before I got married,my aunt suggested transferring my assets to my mom in case the marriage didn&#39;t work out. 2 years later, She was right.](http://9gag.com/gag/aAyYN7o)
- - 😝 [A short title](http://9gag.com/gag/aD20NqK)
- - 👉 [It happened in my hometown. Some guy filmed him in a pub and wanted to sabotage his political career.](http://9gag.com/gag/aE0wyvO)<!-- MEMES:END -->
+ - 💣 [A short title](http://9gag.com/gag/aD20NqK)
+ - 😝 [It happened in my hometown. Some guy filmed him in a pub and wanted to sabotage his political career.](http://9gag.com/gag/aE0wyvO)
+ - 👉 [Before I got married,my aunt suggested transferring my assets to my mom in case the marriage didn&#39;t work out. 2 years later, She was right.](http://9gag.com/gag/aAyYN7o)<!-- MEMES:END -->
 
 ---
 

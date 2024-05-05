@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Perhaps a new template for a meme?](http://9gag.com/gag/arypd3V)
- - 😝 [Panda Girl](http://9gag.com/gag/aXPbdVd)
- - 💣 [The driver&#39;s definitely getting 5 star review.](http://9gag.com/gag/axyN4y2)
- - 😝 [How Apple calculate their prices &lpar;Video by SamTime&rpar;](http://9gag.com/gag/a4P4xv6)
- - 👉 [May the 4th be with you!](http://9gag.com/gag/aAyYmNd)<!-- MEMES:END -->
+ - 😝 [Samson, a breeding bull for hire, is greeted by a pasture full of cows.](http://9gag.com/gag/azxbDqN)
+ - 😝 [Helldivers 2 right now](http://9gag.com/gag/aGy9Ogw)
+ - 💣 [Getafe players take their mums onto the pitch for mothers day](http://9gag.com/gag/ayN5POY)
+ - 😝 [If you know you know](http://9gag.com/gag/an7YrRL)
+ - 👉 [MC gets what he deserves messing with the royal guards](http://9gag.com/gag/aMV1q7V)<!-- MEMES:END -->
 
 ---
 

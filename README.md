@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice One](http://9gag.com/gag/avy0DbX)
- - 😝 [MC gets what he deserves messing with the royal guards](http://9gag.com/gag/aMV1q7V)
- - 💣 [Getafe players take their mums onto the pitch for mothers day](http://9gag.com/gag/ayN5POY)
- - 😝 [Man&#39;s best friend isn&#39;t always Man&#39;s best friend.](http://9gag.com/gag/aAyYNOp)
- - 👉 [If you aren\u2019t familiar with what happened to Laura Logan while on assignment in Egypt, you should be.](http://9gag.com/gag/aKGzKeQ)<!-- MEMES:END -->
+ - 😝 [Before I got married,my aunt suggested transferring my assets to my mom in case the marriage didn&#39;t work out. 2 years later, She was right.](http://9gag.com/gag/aAyYN7o)
+ - 😝 [64 Days for perfect Omurice](http://9gag.com/gag/a7o5A4A)
+ - 💣 [How US Air Force pilots find out what aircraft they will fly](http://9gag.com/gag/a7o5Apm)
+ - 😝 [A short title](http://9gag.com/gag/aD20NqK)
+ - 👉 [Ok that was dark](http://9gag.com/gag/azxbBGj)<!-- MEMES:END -->
 
 ---
 

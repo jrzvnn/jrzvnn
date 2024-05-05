@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I know it smell crazy there](http://9gag.com/gag/amoXde9)
- - 😝 [A short title](http://9gag.com/gag/aD20NqK)
- - 💣 [It happened in my hometown. Some guy filmed him in a pub and wanted to sabotage his political career.](http://9gag.com/gag/aE0wyvO)
- - 😝 [LMAO](http://9gag.com/gag/aryp9NV)
- - 👉 [Before I got married,my aunt suggested transferring my assets to my mom in case the marriage didn&#39;t work out. 2 years later, She was right.](http://9gag.com/gag/aAyYN7o)<!-- MEMES:END -->
+ - 😝 [This is precisely why the ocean world belongs to them and I will not go into their territory\u2026. Giant nope discovered](http://9gag.com/gag/aAyYv7p)
+ - 😝 [New fear unlocked](http://9gag.com/gag/ae9NdnQ)
+ - 💣 [WAGs of Philadelphia](http://9gag.com/gag/awyrvNR)
+ - 😝 [Well, well, well. How the turntable](http://9gag.com/gag/a2vNG1e)
+ - 👉 [Jake are you ok?](http://9gag.com/gag/aYQbdMN)<!-- MEMES:END -->
 
 ---
 

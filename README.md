@@ -171,9 +171,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Getafe players take their mums onto the pitch for mothers day](http://9gag.com/gag/ayN5POY)
- - 😝 [The Islamists won elections in Bradford, UK, simply because they are majority. These are the results of uncontrolled immigration. Dark times ahead for UK](http://9gag.com/gag/aD20MPN)
- - 💣 [Man&#39;s best friend isn&#39;t always Man&#39;s best friend.](http://9gag.com/gag/aAyYNOp)
  - 😝 [Jake are you ok?](http://9gag.com/gag/aYQbdMN)
+ - 💣 [Red Hot Ball VS Aloe Vera.](http://9gag.com/gag/aqympVZ)
+ - 😝 [Nice One](http://9gag.com/gag/avy0DbX)
  - 👉 [How US Air Force pilots find out what aircraft they will fly](http://9gag.com/gag/a7o5Apm)<!-- MEMES:END -->
 
 ---

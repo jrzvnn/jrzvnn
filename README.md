@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How US Air Force pilots find out what aircraft they will fly](http://9gag.com/gag/a7o5Apm)
- - 😝 [If you aren\u2019t familiar with what happened to Laura Logan while on assignment in Egypt, you should be.](http://9gag.com/gag/aKGzKeQ)
- - 💣 [If you know you know](http://9gag.com/gag/an7YrRL)
- - 😝 [Helldivers 2 right now](http://9gag.com/gag/aGy9Ogw)
- - 👉 [Getafe players take their mums onto the pitch for mothers day](http://9gag.com/gag/ayN5POY)<!-- MEMES:END -->
+ - 😝 [Panda Girl](http://9gag.com/gag/aXPbdVd)
+ - 😝 [The driver&#39;s definitely getting 5 star review.](http://9gag.com/gag/axyN4y2)
+ - 💣 [64 Days for perfect Omurice](http://9gag.com/gag/a7o5A4A)
+ - 😝 [How Apple calculate their prices &lpar;Video by SamTime&rpar;](http://9gag.com/gag/a4P4xv6)
+ - 👉 [Ok that was dark](http://9gag.com/gag/azxbBGj)<!-- MEMES:END -->
 
 ---
 

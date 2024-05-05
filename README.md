@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Translation Tech Is Amazing, Except When It’s Not](https://www.wired.com/story/translation-tech-is-amazing-except-when-its-not/)
+ - [The best new browser for Windows](https://www.theverge.com/2024/5/5/24148223/arc-browser-windows-claude-sofa-bose-beats-hacks-coffee-installer)
  - [25 Great Gifts for Mom: Ideas for the Mother in Your Life &lpar;2024&rpar;](https://www.wired.com/gallery/gifts-for-mom/)
  - [An Old Abstract Field of Math Is Unlocking the Deep Complexity of Spacecraft Orbits](https://www.wired.com/story/old-abstract-field-math-spacecraft-orbits-jupiter-europa/)
- - [How role-playing with an AI chatbot can help prepare for difficult conversations with family, friends, and colleagues, such as for terminating an employee &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240505/p3#a240505p3)
- - [Best Amazon Deals: Secure Sweet Savings on Appliances, Tech Gadgets and More     - CNET](https://www.cnet.com/deals/best-amazon-deals-secure-sweet-savings-on-appliances-tech-gadgets-and-more/#ftag=CAD590a51e)
- - [Which Apps Are Draining Your MacBook&#39;s Battery?     - CNET](https://www.cnet.com/tech/services-and-software/which-apps-are-draining-your-macbooks-battery/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How role-playing with an AI chatbot can help prepare for difficult conversations with family, friends, and colleagues, such as for terminating an employee &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240505/p3#a240505p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

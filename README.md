@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Update](http://9gag.com/gag/awyrPND)
- - 😝 [Riot in a digital concentration camp.](http://9gag.com/gag/aByKj1A)
+ - 😝 [Before I got married,my aunt suggested transferring my assets to my mom in case the marriage didn&#39;t work out. 2 years later, She was right.](http://9gag.com/gag/aAyYN7o)
+ - 😝 [Has me crying everytime](http://9gag.com/gag/aD20NpB)
  - 💣 [I know it smell crazy there](http://9gag.com/gag/amoXde9)
- - 😝 [I would suggest Gaza, do you have any other ideas?](http://9gag.com/gag/a5QdvKE)
+ - 😝 [Rest in peace Bernard Hill. A true captain and a king!](http://9gag.com/gag/azxbo4m)
  - 👉 [A short title](http://9gag.com/gag/aD20NqK)<!-- MEMES:END -->
 
 ---

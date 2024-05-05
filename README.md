@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is stupid and I love it, welcome to motorstorm](http://9gag.com/gag/arypzO0)
- - 😝 [He drank 197 coffes that day.](http://9gag.com/gag/aLnKdLv)
- - 💣 [If you know you know](http://9gag.com/gag/an7YrRL)
- - 😝 [I think I downloaded the wrong movie](http://9gag.com/gag/a34YnYv)
- - 👉 [The Islamists won elections in Bradford, UK, simply because they are majority. These are the results of uncontrolled immigration. Dark times ahead for UK](http://9gag.com/gag/aD20MPN)<!-- MEMES:END -->
+ - 😝 [Asking Ellie, mom of 7 small kittens, to adopt 3 abandoned foster kittens into to her family](http://9gag.com/gag/a0e9O3v)
+ - 😝 [This is how you have to train someone if they don&#39;t want to listen - experience...](http://9gag.com/gag/a2vNOOY)
+ - 💣 [Getafe players take their mums onto the pitch for mothers day](http://9gag.com/gag/ayN5POY)
+ - 😝 [Working under pressure](http://9gag.com/gag/aD20Nod)
+ - 👉 [MC gets what he deserves messing with the royal guards](http://9gag.com/gag/aMV1q7V)<!-- MEMES:END -->
 
 ---
 

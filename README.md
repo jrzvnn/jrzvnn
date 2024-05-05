@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Riot in a digital concentration camp.](http://9gag.com/gag/aByKj1A)
  - 😝 [Red Hot Ball VS Aloe Vera.](http://9gag.com/gag/aqympVZ)
- - 💣 [The Islamists won elections in Bradford, UK, simply because they are majority. These are the results of uncontrolled immigration. Dark times ahead for UK](http://9gag.com/gag/aD20MPN)
- - 😝 [LMAO](http://9gag.com/gag/aryp9NV)
- - 👉 [Has me crying everytime](http://9gag.com/gag/aD20NpB)<!-- MEMES:END -->
+ - 😝 [Brought to you by Boeing](http://9gag.com/gag/aXPbdeV)
+ - 💣 [Getafe players take their mums onto the pitch for mothers day](http://9gag.com/gag/ayN5POY)
+ - 😝 [Jake are you ok?](http://9gag.com/gag/aYQbdMN)
+ - 👉 [Nice One](http://9gag.com/gag/avy0DbX)<!-- MEMES:END -->
 
 ---
 

@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wouldn&#39;t?](http://9gag.com/gag/ae9N7rj)
- - 😝 [Panda Girl](http://9gag.com/gag/aXPbdVd)
- - 💣 [Perhaps a new template for a meme?](http://9gag.com/gag/arypd3V)
- - 😝 [Only 1 to go and bingo!](http://9gag.com/gag/a6Zw8xN)
- - 👉 [The driver&#39;s definitely getting 5 star review.](http://9gag.com/gag/axyN4y2)<!-- MEMES:END -->
+ - 😝 [Strike](http://9gag.com/gag/aO8qjpD)
+ - 😝 [You Probably Voted 4 It](http://9gag.com/gag/avy0d8Z)
+ - 💣 [Helldivers 2 right now](http://9gag.com/gag/aGy9Ogw)
+ - 😝 [Knife attacker meets MMA fighter](http://9gag.com/gag/a87WXM1)
+ - 👉 [MC gets what he deserves messing with the royal guards](http://9gag.com/gag/aMV1q7V)<!-- MEMES:END -->
 
 ---
 

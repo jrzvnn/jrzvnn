@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Everything to Know About &#39;Bridgerton&#39; Season 3     - CNET](https://www.cnet.com/tech/services-and-software/everything-to-know-about-bridgerton-season-3/#ftag=CAD590a51e)
+ - [BEFAST: The Life-Saving Acronym Everyone Should Know for Strokes     - CNET](https://www.cnet.com/health/medical/befast-during-a-stroke/#ftag=CAD590a51e)
  - [What Is Hormone Therapy for Menopause? New Study Revisits Effectiveness     - CNET](https://www.cnet.com/health/medical/what-is-hormone-therapy-for-menopause-new-study-revisits-effectiveness/#ftag=CAD590a51e)
  - [As CS students experiment with AI coding tools, professors say courses need to focus less on syntax and more on problem solving, design, testing, and debugging &lpar;Rina Diane Caballar/IEEE Spectrum&rpar;](http://www.techmeme.com/240504/p17#a240504p17)
- - [The Verge’s 2024 Mother’s Day gift guide](https://www.theverge.com/24115101/best-mothers-day-gift-ideas-2024-mom-tech-gadgets)
- - [Best Mac VPN for 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-mac-vpn/#ftag=CAD590a51e)
- - [Most Efficient Solar Panels for 2024: New Record-Setting Panel Tops the List     - CNET](https://www.cnet.com/home/energy-and-utilities/most-efficient-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Verge’s 2024 Mother’s Day gift guide](https://www.theverge.com/24115101/best-mothers-day-gift-ideas-2024-mom-tech-gadgets)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

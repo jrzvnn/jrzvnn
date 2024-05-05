@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Strike](http://9gag.com/gag/aO8qjpD)
- - 😝 [Getafe players take their mums onto the pitch for mothers day](http://9gag.com/gag/ayN5POY)
- - 💣 [This is stupid and I love it, welcome to motorstorm](http://9gag.com/gag/arypzO0)
- - 😝 [Working under pressure](http://9gag.com/gag/aD20Nod)
- - 👉 [How US Air Force pilots find out what aircraft they will fly](http://9gag.com/gag/a7o5Apm)<!-- MEMES:END -->
+ - 😝 [The Islamists won elections in Bradford, UK, simply because they are majority. These are the results of uncontrolled immigration. Dark times ahead for UK](http://9gag.com/gag/aD20MPN)
+ - 😝 [A Muslim Imam in Pakistan treating diseases](http://9gag.com/gag/aqymzqp)
+ - 💣 [Samson, a breeding bull for hire, is greeted by a pasture full of cows.](http://9gag.com/gag/azxbDqN)
+ - 😝 [This is how you have to train someone if they don&#39;t want to listen - experience...](http://9gag.com/gag/a2vNOOY)
+ - 👉 [Asking Ellie, mom of 7 small kittens, to adopt 3 abandoned foster kittens into to her family](http://9gag.com/gag/a0e9O3v)<!-- MEMES:END -->
 
 ---
 

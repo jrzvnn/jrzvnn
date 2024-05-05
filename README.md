@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is precisely why the ocean world belongs to them and I will not go into their territory\u2026. Giant nope discovered](http://9gag.com/gag/aAyYv7p)
- - 😝 [New fear unlocked](http://9gag.com/gag/ae9NdnQ)
- - 💣 [WAGs of Philadelphia](http://9gag.com/gag/awyrvNR)
- - 😝 [Well, well, well. How the turntable](http://9gag.com/gag/a2vNG1e)
- - 👉 [Jake are you ok?](http://9gag.com/gag/aYQbdMN)<!-- MEMES:END -->
+ - 😝 [Getafe players take their mums onto the pitch for mothers day](http://9gag.com/gag/ayN5POY)
+ - 😝 [Meet the new City Councillor of Leeds, UK who just won their Election.](http://9gag.com/gag/adBNd4N)
+ - 💣 [MC gets what he deserves messing with the royal guards](http://9gag.com/gag/aMV1q7V)
+ - 😝 [WAGs of Philadelphia](http://9gag.com/gag/awyrvNR)
+ - 👉 [Red Hot Ball VS Aloe Vera.](http://9gag.com/gag/aqympVZ)<!-- MEMES:END -->
 
 ---
 

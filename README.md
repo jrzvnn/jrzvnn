@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kids everywhere](http://9gag.com/gag/aryp2R7)
- - 😝 [If you know you know](http://9gag.com/gag/an7YrRL)
- - 💣 [Helldivers 2 right now](http://9gag.com/gag/aGy9Ogw)
- - 😝 [MC gets what he deserves messing with the royal guards](http://9gag.com/gag/aMV1q7V)
- - 👉 [How US Air Force pilots find out what aircraft they will fly](http://9gag.com/gag/a7o5Apm)<!-- MEMES:END -->
+ - 😝 [London has fallen](http://9gag.com/gag/a7o5pmz)
+ - 😝 [This is pleasing](http://9gag.com/gag/aYQb1zx)
+ - 💣 [If you know you know](http://9gag.com/gag/an7YrRL)
+ - 😝 [If you aren\u2019t familiar with what happened to Laura Logan while on assignment in Egypt, you should be.](http://9gag.com/gag/aKGzKeQ)
+ - 👉 [Helldivers 2 right now](http://9gag.com/gag/aGy9Ogw)<!-- MEMES:END -->
 
 ---
 

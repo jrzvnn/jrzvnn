@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Samson, a breeding bull for hire, is greeted by a pasture full of cows.](http://9gag.com/gag/azxbDqN)
- - 😝 [Helldivers 2 right now](http://9gag.com/gag/aGy9Ogw)
- - 💣 [Getafe players take their mums onto the pitch for mothers day](http://9gag.com/gag/ayN5POY)
- - 😝 [If you know you know](http://9gag.com/gag/an7YrRL)
- - 👉 [MC gets what he deserves messing with the royal guards](http://9gag.com/gag/aMV1q7V)<!-- MEMES:END -->
+ - 😝 [Id wear that hair](http://9gag.com/gag/aVvOVmM)
+ - 😝 [Dealing with squatters](http://9gag.com/gag/aGy9b2w)
+ - 💣 [Helldivers 2 right now](http://9gag.com/gag/aGy9Ogw)
+ - 😝 [MC gets what he deserves messing with the royal guards](http://9gag.com/gag/aMV1q7V)
+ - 👉 [If you know you know](http://9gag.com/gag/an7YrRL)<!-- MEMES:END -->
 
 ---
 

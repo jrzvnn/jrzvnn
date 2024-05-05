@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some researchers are training AI models on headcam footage from infants and toddlers, to better understand language acquisition by both AI and children &lpar;Oliver Whang/New York Times&rpar;](http://www.techmeme.com/240504/p18#a240504p18)
  - [Everything to Know About &#39;Bridgerton&#39; Season 3     - CNET](https://www.cnet.com/tech/services-and-software/everything-to-know-about-bridgerton-season-3/#ftag=CAD590a51e)
  - [BEFAST: The Life-Saving Acronym Everyone Should Know for Strokes     - CNET](https://www.cnet.com/health/medical/befast-during-a-stroke/#ftag=CAD590a51e)
  - [What Is Hormone Therapy for Menopause? New Study Revisits Effectiveness     - CNET](https://www.cnet.com/health/medical/what-is-hormone-therapy-for-menopause-new-study-revisits-effectiveness/#ftag=CAD590a51e)
- - [As CS students experiment with AI coding tools, professors say courses need to focus less on syntax and more on problem solving, design, testing, and debugging &lpar;Rina Diane Caballar/IEEE Spectrum&rpar;](http://www.techmeme.com/240504/p17#a240504p17)
- - [The Verge’s 2024 Mother’s Day gift guide](https://www.theverge.com/24115101/best-mothers-day-gift-ideas-2024-mom-tech-gadgets)<!-- TECH:END -->
+ - [As CS students experiment with AI coding tools, professors say courses need to focus less on syntax and more on problem solving, design, testing, and debugging &lpar;Rina Diane Caballar/IEEE Spectrum&rpar;](http://www.techmeme.com/240504/p17#a240504p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

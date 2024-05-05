@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [MC gets what he deserves messing with the royal guards](http://9gag.com/gag/aMV1q7V)
- - 😝 [Jake are you ok?](http://9gag.com/gag/aYQbdMN)
+ - 😝 [Dicks out for Harambe](http://9gag.com/gag/aPAvnyK)
+ - 😝 [The Islamists won elections in Bradford, UK, simply because they are majority. These are the results of uncontrolled immigration. Dark times ahead for UK](http://9gag.com/gag/aD20MPN)
  - 💣 [Getafe players take their mums onto the pitch for mothers day](http://9gag.com/gag/ayN5POY)
- - 😝 [Meet the new City Councillor of Leeds, UK who just won their Election.](http://9gag.com/gag/adBNd4N)
- - 👉 [If you aren\u2019t familiar with what happened to Laura Logan while on assignment in Egypt, you should be.](http://9gag.com/gag/aKGzKeQ)<!-- MEMES:END -->
+ - 😝 [MC gets what he deserves messing with the royal guards](http://9gag.com/gag/aMV1q7V)
+ - 👉 [How did he get the rope through the pipe first?](http://9gag.com/gag/awyr97D)<!-- MEMES:END -->
 
 ---
 

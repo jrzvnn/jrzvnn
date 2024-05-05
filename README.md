@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tesla plans to charge some Model Y owners to unlock more range](https://www.theverge.com/2024/5/5/24149447/tesla-model-y-software-locked-battery-capacity)
  - [How to Factory-Reset Your Phone Before You Sell It](https://www.wired.com/story/how-to-reset-your-phone-before-you-sell-it/)
  - [An Italian Chef Weighs In on the 9 Biggest Pasta Myths and Misconceptions     - CNET](https://www.cnet.com/how-to/an-italian-chef-debunks-9-of-the-biggest-pasta-myths/#ftag=CAD590a51e)
  - [The Eta Aquarid meteor shower peaks tonight — here’s how to see it](https://www.theverge.com/2024/5/5/24149398/eta-aquarid-meteor-shower-halleys-comet)
- - [A look at the US and EU&#39;s dueling approaches to rein in Big Tech, splitting tech companies&#39; attention by miring them in separate legal and enforcement battles &lpar;Politico&rpar;](http://www.techmeme.com/240505/p4#a240505p4)
- - [IPhone Hacks: Boost Your Battery Life With These 2 Tweaks     - CNET](https://www.cnet.com/tech/mobile/iphone-hacks-boost-your-battery-life-with-these-2-tweaks/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at the US and EU&#39;s dueling approaches to rein in Big Tech, splitting tech companies&#39; attention by miring them in separate legal and enforcement battles &lpar;Politico&rpar;](http://www.techmeme.com/240505/p4#a240505p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Eta Aquarid meteor shower peaks tonight — here’s how to see it](https://www.theverge.com/2024/5/5/24149398/eta-aquarid-meteor-shower-halleys-comet)
  - [A look at the US and EU&#39;s dueling approaches to rein in Big Tech, splitting tech companies&#39; attention by miring them in separate legal and enforcement battles &lpar;Politico&rpar;](http://www.techmeme.com/240505/p4#a240505p4)
  - [Xiaomi Watch S3 Review: Quirky Customization](https://www.wired.com/review/xiaomi-watch-s3/)
  - [A speedrunner’s quest to &lpar;re&rpar;build the perfect N64 controller](https://www.theverge.com/24146590/n64-speedrunning-mariokart-controllers-joysticks-world-records)
- - [Sony CRE-E10 Review: Well-Rounded Hearing Aids](https://www.wired.com/review/sony-cre-e10-hearing-aids/)
- - [25 Best Mother&#39;s Day Gifts: Ideas for the Moms in Your Life &lpar;2024&rpar;](https://www.wired.com/gallery/gifts-for-mom/)<!-- TECH:END -->
+ - [Sony CRE-E10 Review: Well-Rounded Hearing Aids](https://www.wired.com/review/sony-cre-e10-hearing-aids/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

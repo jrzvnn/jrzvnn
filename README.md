@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DEX Screener: the value of decentralized social platform Friend.tech&#39;s native token, the Friend, fell ~98% to below $2 after making its trading debut on May 3 &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/240504/p19#a240504p19)
+ - [Today&#39;s NYT Connections Hints and Answers: Help for May 5, #329     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hints-answer-help-for-may-5-329/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints and Answer: Help for May 5, #1051     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-may-5-1051/#ftag=CAD590a51e)
  - [Some researchers are training AI models on headcam footage from infants and toddlers, to better understand language acquisition by both AI and children &lpar;Oliver Whang/New York Times&rpar;](http://www.techmeme.com/240504/p18#a240504p18)
- - [Everything to Know About &#39;Bridgerton&#39; Season 3     - CNET](https://www.cnet.com/tech/services-and-software/everything-to-know-about-bridgerton-season-3/#ftag=CAD590a51e)
- - [BEFAST: The Life-Saving Acronym Everyone Should Know for Strokes     - CNET](https://www.cnet.com/health/medical/befast-during-a-stroke/#ftag=CAD590a51e)
- - [What Is Hormone Therapy for Menopause? New Study Revisits Effectiveness     - CNET](https://www.cnet.com/health/medical/what-is-hormone-therapy-for-menopause-new-study-revisits-effectiveness/#ftag=CAD590a51e)
- - [As CS students experiment with AI coding tools, professors say courses need to focus less on syntax and more on problem solving, design, testing, and debugging &lpar;Rina Diane Caballar/IEEE Spectrum&rpar;](http://www.techmeme.com/240504/p17#a240504p17)<!-- TECH:END -->
+ - [Everything to Know About &#39;Bridgerton&#39; Season 3     - CNET](https://www.cnet.com/tech/services-and-software/everything-to-know-about-bridgerton-season-3/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

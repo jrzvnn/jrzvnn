@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As Elon Musk Abandons the $25K Tesla, This EV Costs Just $4,400](https://www.wired.com/story/zhidou-rainbow-ev-costs-just-dollar4400/)
  - [Translation Tech Is Amazing, Except When It’s Not](https://www.wired.com/story/translation-tech-is-amazing-except-when-its-not/)
  - [The best new browser for Windows](https://www.theverge.com/2024/5/5/24148223/arc-browser-windows-claude-sofa-bose-beats-hacks-coffee-installer)
- - [25 Great Gifts for Mom: Ideas for the Mother in Your Life &lpar;2024&rpar;](https://www.wired.com/gallery/gifts-for-mom/)
- - [An Old Abstract Field of Math Is Unlocking the Deep Complexity of Spacecraft Orbits](https://www.wired.com/story/old-abstract-field-math-spacecraft-orbits-jupiter-europa/)
- - [How role-playing with an AI chatbot can help prepare for difficult conversations with family, friends, and colleagues, such as for terminating an employee &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240505/p3#a240505p3)<!-- TECH:END -->
+ - [Liverpool vs. Tottenham Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/liverpool-vs-tottenham-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
+ - [25 Great Gifts for Mom: Ideas for the Mother in Your Life &lpar;2024&rpar;](https://www.wired.com/gallery/gifts-for-mom/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

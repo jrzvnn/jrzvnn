@@ -162,10 +162,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Bluesky confirms Jack Dorsey is no longer on its board](https://www.theverge.com/2024/5/5/24149543/jack-dorsey-gone-bluesky-board)
- - [Briggs &amp; Stratton&#39;s Newest Home Battery Offers Modularity at a Good Price     - CNET](https://www.cnet.com/home/energy-and-utilities/briggs-strattons-newest-home-battery-offers-modularity-at-a-good-price/#ftag=CAD590a51e)
- - [Best iPad Drawing Apps to Try in 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-ipad-drawing-apps/#ftag=CAD590a51e)
  - [Deals: Apple AirPods dip to $79, M3 iMac 24-inch drops to $1,149 at Amazon](https://appleinsider.com/articles/24/05/05/deals-apple-airpods-dip-to-79-m3-imac-24-inch-drops-to-1149-at-amazon?utm_medium=rss)
- - [I&#39;m Ditching Extra Baggage Fees on My Next Trip, With These Products     - CNET](https://www.cnet.com/culture/ditch-the-extra-baggage-fees-your-next-trip-with-these-products/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I&#39;m Ditching Extra Baggage Fees on My Next Trip, With These Products     - CNET](https://www.cnet.com/culture/ditch-the-extra-baggage-fees-your-next-trip-with-these-products/#ftag=CAD590a51e)
+ - [The 8 Best Coffee Subscriptions of 2024, Tested by Us     - CNET](https://www.cnet.com/home/kitchen-and-household/best-coffee-subscriptions-and-coffee-clubs/#ftag=CAD590a51e)
+ - [May the Fourth Deals Be With You This Star Wars Day     - CNET](https://www.cnet.com/deals/may-the-fourth-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

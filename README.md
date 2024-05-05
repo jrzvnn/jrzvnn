@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Strike](http://9gag.com/gag/aO8qjpD)
- - 😝 [You Probably Voted 4 It](http://9gag.com/gag/avy0d8Z)
- - 💣 [Helldivers 2 right now](http://9gag.com/gag/aGy9Ogw)
- - 😝 [Knife attacker meets MMA fighter](http://9gag.com/gag/a87WXM1)
- - 👉 [MC gets what he deserves messing with the royal guards](http://9gag.com/gag/aMV1q7V)<!-- MEMES:END -->
+ - 😝 [This is stupid and I love it, welcome to motorstorm](http://9gag.com/gag/arypzO0)
+ - 😝 [He drank 197 coffes that day.](http://9gag.com/gag/aLnKdLv)
+ - 💣 [If you know you know](http://9gag.com/gag/an7YrRL)
+ - 😝 [I think I downloaded the wrong movie](http://9gag.com/gag/a34YnYv)
+ - 👉 [The Islamists won elections in Bradford, UK, simply because they are majority. These are the results of uncontrolled immigration. Dark times ahead for UK](http://9gag.com/gag/aD20MPN)<!-- MEMES:END -->
 
 ---
 

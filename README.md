@@ -162,10 +162,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Tesla plans to charge some Model Y owners to unlock more range](https://www.theverge.com/2024/5/5/24149447/tesla-model-y-software-locked-battery-capacity)
+ - [Best Mac VPN for 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-mac-vpn/#ftag=CAD590a51e)
+ - [Every Day, Savings: Join CNET&#39;s Daily Text for Deals Under $50     - CNET](https://www.cnet.com/tech/services-and-software/score-big-savings-join-cnets-text-group-for-daily-deals-under-50/#ftag=CAD590a51e)
  - [How to Factory-Reset Your Phone Before You Sell It](https://www.wired.com/story/how-to-reset-your-phone-before-you-sell-it/)
- - [An Italian Chef Weighs In on the 9 Biggest Pasta Myths and Misconceptions     - CNET](https://www.cnet.com/how-to/an-italian-chef-debunks-9-of-the-biggest-pasta-myths/#ftag=CAD590a51e)
- - [The Eta Aquarid meteor shower peaks tonight — here’s how to see it](https://www.theverge.com/2024/5/5/24149398/eta-aquarid-meteor-shower-halleys-comet)
- - [A look at the US and EU&#39;s dueling approaches to rein in Big Tech, splitting tech companies&#39; attention by miring them in separate legal and enforcement battles &lpar;Politico&rpar;](http://www.techmeme.com/240505/p4#a240505p4)<!-- TECH:END -->
+ - [An Italian Chef Weighs In on the 9 Biggest Pasta Myths and Misconceptions     - CNET](https://www.cnet.com/how-to/an-italian-chef-debunks-9-of-the-biggest-pasta-myths/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

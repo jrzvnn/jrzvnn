@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Has me crying everytime](http://9gag.com/gag/aD20NpB)
- - 😝 [I know it smell crazy there](http://9gag.com/gag/amoXde9)
- - 💣 [A short title](http://9gag.com/gag/aD20NqK)
- - 😝 [It happened in my hometown. Some guy filmed him in a pub and wanted to sabotage his political career.](http://9gag.com/gag/aE0wyvO)
- - 👉 [Before I got married,my aunt suggested transferring my assets to my mom in case the marriage didn&#39;t work out. 2 years later, She was right.](http://9gag.com/gag/aAyYN7o)<!-- MEMES:END -->
+ - 😝 [Nice One](http://9gag.com/gag/avy0DbX)
+ - 😝 [Red Hot Ball VS Aloe Vera.](http://9gag.com/gag/aqympVZ)
+ - 💣 [Getafe players take their mums onto the pitch for mothers day](http://9gag.com/gag/ayN5POY)
+ - 😝 [Jake are you ok?](http://9gag.com/gag/aYQbdMN)
+ - 👉 [WAGs of Philadelphia](http://9gag.com/gag/awyrvNR)<!-- MEMES:END -->
 
 ---
 

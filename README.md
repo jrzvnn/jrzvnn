@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to lose your homeland](http://9gag.com/gag/ae9NyzO)
- - 😝 [It happened in my hometown. Some guy filmed him in a pub and wanted to sabotage his political career.](http://9gag.com/gag/aE0wyvO)
- - 💣 [LMAO](http://9gag.com/gag/aryp9NV)
- - 😝 [Mom went full John Wick.](http://9gag.com/gag/adBNrw9)
- - 👉 [A short title](http://9gag.com/gag/aD20NqK)<!-- MEMES:END -->
+ - 😝 [MC gets what he deserves messing with the royal guards](http://9gag.com/gag/aMV1q7V)
+ - 😝 [Meet the new City Councillor of Leeds, UK who just won their Election.](http://9gag.com/gag/adBNd4N)
+ - 💣 [Jake are you ok?](http://9gag.com/gag/aYQbdMN)
+ - 😝 [The Islamists won elections in Bradford, UK, simply because they are majority. These are the results of uncontrolled immigration. Dark times ahead for UK](http://9gag.com/gag/aD20MPN)
+ - 👉 [How US Air Force pilots find out what aircraft they will fly](http://9gag.com/gag/a7o5Apm)<!-- MEMES:END -->
 
 ---
 

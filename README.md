@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This kid jamming it](http://9gag.com/gag/a7o5pbA)
+ - 😝 [Kids everywhere](http://9gag.com/gag/aryp2R7)
+ - 😝 [If you know you know](http://9gag.com/gag/an7YrRL)
+ - 💣 [Helldivers 2 right now](http://9gag.com/gag/aGy9Ogw)
  - 😝 [MC gets what he deserves messing with the royal guards](http://9gag.com/gag/aMV1q7V)
- - 💣 [If you know you know](http://9gag.com/gag/an7YrRL)
- - 😝 [Helldivers 2 right now](http://9gag.com/gag/aGy9Ogw)
- - 👉 [Getafe players take their mums onto the pitch for mothers day](http://9gag.com/gag/ayN5POY)<!-- MEMES:END -->
+ - 👉 [How US Air Force pilots find out what aircraft they will fly](http://9gag.com/gag/a7o5Apm)<!-- MEMES:END -->
 
 ---
 

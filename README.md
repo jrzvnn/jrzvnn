@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Islamists won elections in Bradford, UK, simply because they are majority. These are the results of uncontrolled immigration. Dark times ahead for UK](http://9gag.com/gag/aD20MPN)
- - 😝 [A Muslim Imam in Pakistan treating diseases](http://9gag.com/gag/aqymzqp)
- - 💣 [Samson, a breeding bull for hire, is greeted by a pasture full of cows.](http://9gag.com/gag/azxbDqN)
- - 😝 [This is how you have to train someone if they don&#39;t want to listen - experience...](http://9gag.com/gag/a2vNOOY)
- - 👉 [Asking Ellie, mom of 7 small kittens, to adopt 3 abandoned foster kittens into to her family](http://9gag.com/gag/a0e9O3v)<!-- MEMES:END -->
+ - 😝 [Perhaps a new template for a meme?](http://9gag.com/gag/arypd3V)
+ - 😝 [Panda Girl](http://9gag.com/gag/aXPbdVd)
+ - 💣 [The driver&#39;s definitely getting 5 star review.](http://9gag.com/gag/axyN4y2)
+ - 😝 [How Apple calculate their prices &lpar;Video by SamTime&rpar;](http://9gag.com/gag/a4P4xv6)
+ - 👉 [May the 4th be with you!](http://9gag.com/gag/aAyYmNd)<!-- MEMES:END -->
 
 ---
 

@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Islamists won elections in Bradford, UK, simply because they are majority. These are the results of uncontrolled immigration. Dark times ahead for UK](http://9gag.com/gag/aD20MPN)
- - 😝 [WAGs of Philadelphia](http://9gag.com/gag/awyrvNR)
- - 💣 [Meet the new City Councillor of Leeds, UK who just won their Election.](http://9gag.com/gag/adBNd4N)
- - 😝 [Red Hot Ball VS Aloe Vera.](http://9gag.com/gag/aqympVZ)
- - 👉 [Jake are you ok?](http://9gag.com/gag/aYQbdMN)<!-- MEMES:END -->
+ - 😝 [MC gets what he deserves messing with the royal guards](http://9gag.com/gag/aMV1q7V)
+ - 😝 [Jake are you ok?](http://9gag.com/gag/aYQbdMN)
+ - 💣 [Getafe players take their mums onto the pitch for mothers day](http://9gag.com/gag/ayN5POY)
+ - 😝 [Meet the new City Councillor of Leeds, UK who just won their Election.](http://9gag.com/gag/adBNd4N)
+ - 👉 [If you aren\u2019t familiar with what happened to Laura Logan while on assignment in Egypt, you should be.](http://9gag.com/gag/aKGzKeQ)<!-- MEMES:END -->
 
 ---
 

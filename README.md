@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How much money did the organizers pay them to attend the protest?](http://9gag.com/gag/aQzqV2r)
- - 😝 [Well, well, well. How the turntable](http://9gag.com/gag/a2vNG1e)
- - 💣 [Helldivers 2 right now](http://9gag.com/gag/aGy9Ogw)
- - 😝 [Getafe players take their mums onto the pitch for mothers day](http://9gag.com/gag/ayN5POY)
- - 👉 [Only 1 to go and bingo!](http://9gag.com/gag/a6Zw8xN)<!-- MEMES:END -->
+ - 😝 [Helldivers 2 right now](http://9gag.com/gag/aGy9Ogw)
+ - 😝 [UK, you OK?](http://9gag.com/gag/aD20NNO)
+ - 💣 [If you know you know](http://9gag.com/gag/an7YrRL)
+ - 😝 [Red Hot Ball VS Aloe Vera.](http://9gag.com/gag/aqympVZ)
+ - 👉 [Getafe players take their mums onto the pitch for mothers day](http://9gag.com/gag/ayN5POY)<!-- MEMES:END -->
 
 ---
 

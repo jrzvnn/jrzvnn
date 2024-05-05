@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Red Hot Ball VS Aloe Vera.](http://9gag.com/gag/aqympVZ)
- - 😝 [Brought to you by Boeing](http://9gag.com/gag/aXPbdeV)
- - 💣 [Getafe players take their mums onto the pitch for mothers day](http://9gag.com/gag/ayN5POY)
+ - 😝 [MC gets what he deserves messing with the royal guards](http://9gag.com/gag/aMV1q7V)
  - 😝 [Jake are you ok?](http://9gag.com/gag/aYQbdMN)
- - 👉 [Nice One](http://9gag.com/gag/avy0DbX)<!-- MEMES:END -->
+ - 💣 [If you aren\u2019t familiar with what happened to Laura Logan while on assignment in Egypt, you should be.](http://9gag.com/gag/aKGzKeQ)
+ - 😝 [How US Air Force pilots find out what aircraft they will fly](http://9gag.com/gag/a7o5Apm)
+ - 👉 [Getafe players take their mums onto the pitch for mothers day](http://9gag.com/gag/ayN5POY)<!-- MEMES:END -->
 
 ---
 

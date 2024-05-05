@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [These 1-Minute Microwaved Poached Eggs Are a Brunch Hack for the Ages     - CNET](https://www.cnet.com/home/kitchen-and-household/these-1-minute-microwaved-poached-eggs-are-a-brunch-hack-for-the-ages/#ftag=CAD590a51e)
+ - [NBA Playoffs 2024: How to Watch Magic vs. Cavaliers Game 7 on ABC     - CNET](https://www.cnet.com/tech/services-and-software/nba-playoffs-2024-how-to-watch-without-cable/#ftag=CAD590a51e)
  - [Tesla plans to charge some Model Y owners to unlock more range](https://www.theverge.com/2024/5/5/24149447/tesla-model-y-software-locked-battery-capacity)
- - [Best Mac VPN for 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-mac-vpn/#ftag=CAD590a51e)
- - [Every Day, Savings: Join CNET&#39;s Daily Text for Deals Under $50     - CNET](https://www.cnet.com/tech/services-and-software/score-big-savings-join-cnets-text-group-for-daily-deals-under-50/#ftag=CAD590a51e)
- - [How to Factory-Reset Your Phone Before You Sell It](https://www.wired.com/story/how-to-reset-your-phone-before-you-sell-it/)
- - [An Italian Chef Weighs In on the 9 Biggest Pasta Myths and Misconceptions     - CNET](https://www.cnet.com/how-to/an-italian-chef-debunks-9-of-the-biggest-pasta-myths/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [You Have Until May 8 to Snag Verizon&#39;s 5-Year Internet Service Price Guarantee     - CNET](https://www.cnet.com/deals/you-have-until-may-8-to-snag-verizons-5-year-internet-service-price-guarantee/#ftag=CAD590a51e)
+ - [Best Android VPN for 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-android-vpn/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

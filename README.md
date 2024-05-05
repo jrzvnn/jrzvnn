@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An Old Abstract Field of Math Is Unlocking the Deep Complexity of Spacecraft Orbits](https://www.wired.com/story/old-abstract-field-math-spacecraft-orbits-jupiter-europa/)
  - [How role-playing with an AI chatbot can help prepare for difficult conversations with family, friends, and colleagues, such as for terminating an employee &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240505/p3#a240505p3)
  - [Best Prepaid Phone of 2024: Value Picks for Cheaper Plans     - CNET](https://www.cnet.com/tech/mobile/best-prepaid-phones/#ftag=CAD590a51e)
  - [Brighton vs. Aston Villa Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/brighton-vs-aston-villa-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [Chelsea vs. West Ham Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/chelsea-vs-west-ham-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [Gas Prices Are Up This Spring. What Can You Expect to Pay This Summer?     - CNET](https://www.cnet.com/personal-finance/gas-prices-are-up-this-spring-what-can-you-expect-to-pay-this-summer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Chelsea vs. West Ham Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/chelsea-vs-west-ham-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,7 +165,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Blowout deal: grab Apple&#39;s M2 Pro MacBook Pro for $1,599 today only](https://appleinsider.com/articles/24/05/06/blowout-deal-grab-apples-m2-pro-macbook-pro-for-1649-today-only?utm_medium=rss)
  - [YouTube rolls out Jump Ahead, which uses AI to let users jump to parts of a video where most viewers skip ahead, to all US Premium members using its Android app &lpar;Adamya Sharma/Android Authority&rpar;](http://www.techmeme.com/240506/p8#a240506p8)
  - [Best Kids Tablets &lpar;2024&rpar;: iPads, Amazon Fire Kids Tablets, and More](https://www.wired.com/gallery/best-kids-tablets/)
- - [5 Best French Presses &lpar;2024&rpar;: Plastic, Glass, Stainless Steel, Travel](https://www.wired.com/gallery/best-french-presses/)<!-- TECH:END -->
+ - [Stop Rinsing Your Noodles After Cooking: We Asked an Italian Chef About 9 Pasta Myths     - CNET](https://www.cnet.com/how-to/stop-rinsing-your-noodles-and-other-pasta-making-mistakes-were-all-guilty-of/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

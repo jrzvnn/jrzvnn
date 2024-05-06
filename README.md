@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chinese employer beating African worker going viral nowadays..link in description](http://9gag.com/gag/aKGzNyZ)
- - 😝 [Working under pressure](http://9gag.com/gag/aD20Nod)
- - 💣 [Before I got married,my aunt suggested transferring my assets to my mom in case the marriage didn&#39;t work out. 2 years later, She was right.](http://9gag.com/gag/aAyYN7o)
- - 😝 [Jake are you ok?](http://9gag.com/gag/aYQbdMN)
+ - 😝 [Red Hot Ball VS Aloe Vera.](http://9gag.com/gag/aqympVZ)
+ - 😝 [Getafe players take their mums onto the pitch for mothers day](http://9gag.com/gag/ayN5POY)
+ - 💣 [How US Air Force pilots find out what aircraft they will fly](http://9gag.com/gag/a7o5Apm)
+ - 😝 [Hasn&#39;t aged a day in like 25 years. Is she a vampire](http://9gag.com/gag/aAyYq9Z)
  - 👉 [What are some heartwarming things grandmothers always do?](http://9gag.com/gag/axyN8VW)<!-- MEMES:END -->
 
 ---

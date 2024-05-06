@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You can grab a pair of AirPods starting at just $79.99](https://www.theverge.com/2024/5/6/24150060/airpods-pro-belkin-boostcharge-usb-c-charger-deal-sale)
  - [Hades II early access begins today](https://www.theverge.com/24150249/hades-2-early-access-release-date-steam-egs)
  - [An interview with Quora CEO Adam D&#39;Angelo on adding AI tools, supporting developers on Quora&#39;s chatbot platform Poe, Quora&#39;s relationship with OpenAI, and more &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240506/p15#a240506p15)
  - [More Tesla employees laid off as bloodbath enters its fourth week](https://www.theverge.com/2024/5/6/24150274/tesla-layoffs-employee-fourth-week-elon-musk-ev-demand)
- - [Weather advisory: unusually strong Meltdown May incoming](https://www.theverge.com/24150269/meltdown-may-corncob-alert)
- - [Annual Pride Edition Braided Solo Loop for Apple Watch arrives](https://appleinsider.com/articles/24/05/06/annual-pride-edition-braided-solo-loop-for-apple-watch-arrives?utm_medium=rss)<!-- TECH:END -->
+ - [Weather advisory: unusually strong Meltdown May incoming](https://www.theverge.com/24150269/meltdown-may-corncob-alert)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

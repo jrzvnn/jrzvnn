@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A short title](http://9gag.com/gag/aD20NqK)
- - 😝 [Mom went full John Wick.](http://9gag.com/gag/adBNrw9)
- - 💣 [LMAO](http://9gag.com/gag/aryp9NV)
- - 😝 [Rest in Piece King Theoden! Thanks for giving us one of the most memorable experiences in Movie History](http://9gag.com/gag/apRqnLn)
+ - 😝 [Red Hot Ball VS Aloe Vera.](http://9gag.com/gag/aqympVZ)
+ - 😝 [Antifa and anti-Nazi protesters block path and only people with given wristbands are allowed into school](http://9gag.com/gag/aYQbm7O)
+ - 💣 [Jake are you ok?](http://9gag.com/gag/aYQbdMN)
+ - 😝 [Getafe players take their mums onto the pitch for mothers day](http://9gag.com/gag/ayN5POY)
  - 👉 [What are some heartwarming things grandmothers always do?](http://9gag.com/gag/axyN8VW)<!-- MEMES:END -->
 
 ---

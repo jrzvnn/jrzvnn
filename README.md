@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New iPad Air &amp; iPad Pro models are coming soon - what to expect](https://appleinsider.com/articles/24/04/23/new-ipad-air-ipad-pro-models-are-coming-soon---what-to-expect?utm_medium=rss)
+ - [Visa and Allium Labs: less than 10% of stablecoin transactions are &quot;organic payments activity&quot;, which excludes activities from bots and large-scale traders &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/240506/p6#a240506p6)
+ - [How Steve Jobs saved Apple with the iMac 26 years ago](https://appleinsider.com/articles/23/05/06/how-steve-jobs-saved-apple-with-the-imac-25-years-ago?utm_medium=rss)
  - [Biden administration announces plans to invest $285M, from the CHIPS Act fund, in efforts to improve semiconductor manufacturing by using digital twins &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/240506/p5#a240506p5)
- - [All-screen MacBook Pro and iPhone fold get new and aggressive rumored launch timetable](https://appleinsider.com/articles/24/05/06/all-screen-macbook-pro-and-iphone-fold-get-new-and-aggressive-rumored-launch-timetable?utm_medium=rss)
- - [An eraseable &#39;Let Loose&#39; event logo teases a new Apple Pencil feature](https://appleinsider.com/articles/24/05/06/an-eraseable-let-loose-event-logo-teases-a-new-apple-pencil-feature?utm_medium=rss)
- - [A Subreddit for Dumbphones Is the Smartest Place Online](https://www.wired.com/story/dumbphones-reddit-last-good-place/)
- - [US to fund digital twin research in semiconductors](https://www.theverge.com/2024/5/6/24149817/us-fund-digital-twin-semiconductors-chips-act)<!-- TECH:END -->
+ - [All-screen MacBook Pro and iPhone fold get new and aggressive rumored launch timetable](https://appleinsider.com/articles/24/05/06/all-screen-macbook-pro-and-iphone-fold-get-new-and-aggressive-rumored-launch-timetable?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

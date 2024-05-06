@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Samson, a breeding bull for hire, is greeted by a pasture full of cows.](http://9gag.com/gag/azxbDqN)
- - 😝 [Me as a kid: wtf is a slalom](http://9gag.com/gag/amoXbry)
- - 💣 [Before I got married,my aunt suggested transferring my assets to my mom in case the marriage didn&#39;t work out. 2 years later, She was right.](http://9gag.com/gag/aAyYN7o)
- - 😝 [Lol](http://9gag.com/gag/a9ydeNm)
+ - 😝 [Seriously?](http://9gag.com/gag/awyrPqR)
+ - 😝 [Bro-zoned](http://9gag.com/gag/a1mAq46)
+ - 💣 [What was that? Meh, probably just the wind...](http://9gag.com/gag/aGy9qy6)
+ - 😝 [Usual pattern. Who pays the damages?](http://9gag.com/gag/azxbzvz)
  - 👉 [What are some heartwarming things grandmothers always do?](http://9gag.com/gag/axyN8VW)<!-- MEMES:END -->
 
 ---

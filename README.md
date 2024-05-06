@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung announces new entry-level OLED TVs — likely with LG panels inside](https://www.theverge.com/2024/5/6/24150270/samsung-s85d-entry-level-oled-pricing-specs)
- - [Sony reverses unpopular Helldivers 2 decision after blistering player reaction](https://www.theverge.com/24150327/sony-helldivers-2-review-bombing-psn-login)
- - [During India&#39;s general election, some Indian politicians and parties are using deepfake videos and audios of popular, deceased politicians in their campaigns &lpar;Barkha Dutt/Rest of World&rpar;](http://www.techmeme.com/240506/p17#a240506p17)
- - [Snag This Incredible Deal and Get $200 of Restaurant.com Credit for Just $35     - CNET](https://www.cnet.com/deals/snag-this-incredible-deal-and-get-200-of-restaurant-com-credit-for-just-35/#ftag=CAD590a51e)
- - [‘Hades II,’ a Sequel to the Horniest Game of 2020, Just Dropped Early](https://www.wired.com/story/hades-2-early-access-launch-release-date/)<!-- TECH:END -->
+ - [How to watch Apple&#39;s &#39;Let Loose&#39; iPad Air &amp; iPad Pro event](https://appleinsider.com/inside/apple-event/tips/how-to-watch-apples-let-loose-ipad-air-ipad-pro?utm_medium=rss)
+ - [Republicans are pulling out all the stops to reverse EV adoption](https://www.theverge.com/2024/5/6/24150041/ev-epa-clean-air-emissions-lawsuit-republicans-tax-credit)
+ - [iPhone 17 Pro rumored to get 12GB of RAM](https://appleinsider.com/articles/24/05/06/iphone-17-pro-rumored-to-get-12gb-of-ram?utm_medium=rss)
+ - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
+ - [Samsung announces new entry-level OLED TVs — likely with LG panels inside](https://www.theverge.com/2024/5/6/24150270/samsung-s85d-entry-level-oled-pricing-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

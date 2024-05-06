@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s new Photos app will utilize generative AI for image editing](https://appleinsider.com/articles/24/05/06/apples-new-photos-app-will-utilize-generative-ai-for-image-editing?utm_medium=rss)
  - [Sources: China has hacked a payroll system used by the UK&#39;s Ministry of Defence, targeting service personnel; names and bank details have been exposed &lpar;Sky News&rpar;](http://www.techmeme.com/240506/p23#a240506p23)
  - [Synopsys agrees to sell its Software Integrity Group business to a PE consortium led by Clearlake Capital and Francisco Partners in a deal valued at $2.1B &lpar;Reuters&rpar;](http://www.techmeme.com/240506/p22#a240506p22)
- - [Microsoft ramps up plans to capture carbon from burning wood](https://www.theverge.com/2024/5/6/24150398/microsoft-bioenergy-carbon-capture-stockholm-exergi)
- - [How to Watch the Boeing Starliner Launch](https://www.wired.com/story/watch-boeing-starliner-launch-livestream/)
- - [Researchers detail an attack against many VPN apps that force them to send some or all traffic outside of the VPN encrypted tunnel; Android mitigates the flaw &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240506/p21#a240506p21)<!-- TECH:END -->
+ - [Best Phone Plan Deals: Score Cheaper Plans, Trade-In Credits and Referral Rewards     - CNET](https://www.cnet.com/deals/best-phone-plan-deals/#ftag=CAD590a51e)
+ - [Microsoft ramps up plans to capture carbon from burning wood](https://www.theverge.com/2024/5/6/24150398/microsoft-bioenergy-carbon-capture-stockholm-exergi)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

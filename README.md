@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New Apple Pencil may be called &#39;Apple Pencil Pro&#39;](https://appleinsider.com/articles/24/05/06/new-apple-pencil-may-be-called-apple-pencil-pro?utm_medium=rss)
+ - [Stack Overflow signs a deal with OpenAI to supply data to its models; new integrations between Stack Overflow and OpenAI will be available by the end of June &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240506/p13#a240506p13)
  - [How Much Should You Tip Movers in 2024? Here’s What the Pros Say     - CNET](https://www.cnet.com/how-to/how-much-should-you-tip-movers-in-2024-heres-what-the-pros-say/#ftag=CAD590a51e)
  - [Apple Arcade rolls out five new games, including &#39;Rabbids: Legends of the Multiverse&#39;](https://appleinsider.com/articles/24/05/06/apple-arcade-rolls-out-five-new-games-including-rabbids-legends-of-the-multiverse?utm_medium=rss)
- - [AT&amp;T completes divestiture of its cybersecurity services group and forms LevelBlue, with staff in 10 countries focused on managed cybersecurity services &lpar;Robert Lemos/Dark Reading&rpar;](http://www.techmeme.com/240506/p12#a240506p12)
- - [Dreametech L20 Ultra Robot Vacuum Matches Best-Ever $799 Price With Our Discount Code     - CNET](https://www.cnet.com/deals/the-dreametech-l20-ultra-robot-vacuum-matches-its-best-ever-799-price-with-our-discount-code/#ftag=CAD590a51e)
- - [The increase of stock sales in privately held companies leads to tensions with startups like Stripe; the market is estimated to rise 40% YoY to $64B in 2024 &lpar;Erin Griffith/New York Times&rpar;](http://www.techmeme.com/240506/p11#a240506p11)<!-- TECH:END -->
+ - [AT&amp;T completes divestiture of its cybersecurity services group and forms LevelBlue, with staff in 10 countries focused on managed cybersecurity services &lpar;Robert Lemos/Dark Reading&rpar;](http://www.techmeme.com/240506/p12#a240506p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

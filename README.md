@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The increase of stock sales in privately held companies leads to tensions with startups like Stripe; the market is estimated to rise 40% YoY to $64B in 2024 &lpar;Erin Griffith/New York Times&rpar;](http://www.techmeme.com/240506/p11#a240506p11)
  - [Robinhood’s crypto arm receives SEC warning over alleged securities violations](https://www.theverge.com/2024/5/6/24150045/robinhood-cryptocurrency-wells-notice-warning-sec)
  - [Hugging Face launches LeRobot, an open-source robotics code library, after hiring former Tesla scientist Remi Cadene to lead its open-source robotics project &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240506/p10#a240506p10)
  - [Polestar CEO Thomas Ingenlath on life after Volvo and weathering the EV slowdown](https://www.theverge.com/24148110/polestar-ceo-volvo-geely-evs-electric-car-slowdown-decoder-interview)
- - [Annual Pride Edition Braided Solo Loop for Apple Watch arrives](https://appleinsider.com/articles/24/05/06/annual-pride-edition-braided-solo-loop-for-apple-watch-arrives?utm_medium=rss)
- - [Filing: Robinhood&#39;s crypto arm got a Wells notice from the SEC on May 4; Robinhood says it has already ended support for tokens named in previous SEC lawsuits &lpar;Aoyon Ashraf/CoinDesk&rpar;](http://www.techmeme.com/240506/p9#a240506p9)<!-- TECH:END -->
+ - [The Secret Term to Know When Shopping for Your Air Conditioner     - CNET](https://www.cnet.com/home/kitchen-and-household/the-secret-term-to-know-when-shopping-for-your-air-conditioner/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Man&#39;s best friend isn&#39;t always Man&#39;s best friend.](http://9gag.com/gag/aAyYNOp)
- - 😝 [Chinese employer beating African worker going viral nowadays..link in description](http://9gag.com/gag/aKGzNyZ)
- - 💣 [New fear unlocked](http://9gag.com/gag/ae9NdnQ)
- - 😝 [Well, well, well. How the turntable](http://9gag.com/gag/a2vNG1e)
+ - 😝 [My favorite 3d vision t-shirt](http://9gag.com/gag/a2vNVDd)
+ - 😝 [LMAO](http://9gag.com/gag/aryp9NV)
+ - 💣 [Rest in Piece King Theoden! Thanks for giving us one of the most memorable experiences in Movie History](http://9gag.com/gag/apRqnLn)
+ - 😝 [Twain was great](http://9gag.com/gag/aMV10xV)
  - 👉 [What are some heartwarming things grandmothers always do?](http://9gag.com/gag/axyN8VW)<!-- MEMES:END -->
 
 ---

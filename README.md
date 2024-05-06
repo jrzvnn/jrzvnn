@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m not cleaning it](http://9gag.com/gag/a5Qdgby)
- - 😝 [Red Hot Ball VS Aloe Vera.](http://9gag.com/gag/aqympVZ)
- - 💣 [Save for later:](http://9gag.com/gag/agmybdW)
- - 😝 [Lol](http://9gag.com/gag/a9ydeNm)
+ - 😝 [1 vertical paint please](http://9gag.com/gag/aNDeMA3)
+ - 😝 [Bro evolved so fast in like 20 years](http://9gag.com/gag/aByKzrN)
+ - 💣 [No heavy breathing.](http://9gag.com/gag/avy0q8d)
+ - 😝 [Tarantino moment](http://9gag.com/gag/aVvO8Zw)
  - 👉 [What are some heartwarming things grandmothers always do?](http://9gag.com/gag/axyN8VW)<!-- MEMES:END -->
 
 ---

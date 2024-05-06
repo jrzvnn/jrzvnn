@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [1 vertical paint please](http://9gag.com/gag/aNDeMA3)
- - 😝 [Bro evolved so fast in like 20 years](http://9gag.com/gag/aByKzrN)
- - 💣 [No heavy breathing.](http://9gag.com/gag/avy0q8d)
- - 😝 [Tarantino moment](http://9gag.com/gag/aVvO8Zw)
+ - 😝 [Bro-zoned](http://9gag.com/gag/a1mAq46)
+ - 😝 [Oops!](http://9gag.com/gag/apRqjw8)
+ - 💣 [Red Hot Ball VS Aloe Vera.](http://9gag.com/gag/aqympVZ)
+ - 😝 [Before I got married,my aunt suggested transferring my assets to my mom in case the marriage didn&#39;t work out. 2 years later, She was right.](http://9gag.com/gag/aAyYN7o)
  - 👉 [What are some heartwarming things grandmothers always do?](http://9gag.com/gag/axyN8VW)<!-- MEMES:END -->
 
 ---

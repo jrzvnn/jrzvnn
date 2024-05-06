@@ -162,10 +162,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Study from Meta researchers suggests that training LLMs to predict multiple tokens at once, instead of just the next token, results in better and faster models &lpar;Ben Dickson/VentureBeat&rpar;](http://www.techmeme.com/240506/p18#a240506p18)
- - [The Best Keurig Deals: Save Big Bucks on K-Classic, K-Elite and Other Models     - CNET](https://www.cnet.com/deals/best-keurig-deals/#ftag=CAD590a51e)
- - [Slew of ACP Bills Introduced as Congress Races to Renew Internet Subsidy     - CNET](https://www.cnet.com/home/internet/slew-of-acp-bills-introduced-as-congress-races-to-renew-internet-subsidy/#ftag=CAD590a51e)
  - [How to watch Apple&#39;s &#39;Let Loose&#39; iPad Air &amp; iPad Pro event](https://appleinsider.com/inside/apple-event/tips/how-to-watch-apples-let-loose-ipad-air-ipad-pro?utm_medium=rss)
- - [Republicans are pulling out all the stops to reverse EV adoption](https://www.theverge.com/2024/5/6/24150041/ev-epa-clean-air-emissions-lawsuit-republicans-tax-credit)<!-- TECH:END -->
+ - [Republicans are pulling out all the stops to reverse EV adoption](https://www.theverge.com/2024/5/6/24150041/ev-epa-clean-air-emissions-lawsuit-republicans-tax-credit)
+ - [iPhone 17 Pro rumored to get 12GB of RAM](https://appleinsider.com/articles/24/05/06/iphone-17-pro-rumored-to-get-12gb-of-ram?utm_medium=rss)
+ - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

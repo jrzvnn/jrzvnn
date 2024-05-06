@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No heavy breathing.](http://9gag.com/gag/avy0q8d)
- - 😝 [Save for later:](http://9gag.com/gag/agmybdW)
- - 💣 [Hasn&#39;t aged a day in like 25 years. Is she a vampire](http://9gag.com/gag/aAyYq9Z)
- - 😝 [Oops!](http://9gag.com/gag/apRqjw8)
+ - 😝 [If mass deportations don\u2019t start soon, you\u2019ll pretty much be forced to submit to their whims](http://9gag.com/gag/ae9Nymp)
+ - 😝 [Bro-zoned](http://9gag.com/gag/a1mAq46)
+ - 💣 [Oops!](http://9gag.com/gag/apRqjw8)
+ - 😝 [Lol](http://9gag.com/gag/a9ydeNm)
  - 👉 [What are some heartwarming things grandmothers always do?](http://9gag.com/gag/axyN8VW)<!-- MEMES:END -->
 
 ---

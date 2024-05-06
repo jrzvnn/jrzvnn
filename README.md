@@ -171,9 +171,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [If mass deportations don\u2019t start soon, you\u2019ll pretty much be forced to submit to their whims](http://9gag.com/gag/ae9Nymp)
- - 😝 [Bro-zoned](http://9gag.com/gag/a1mAq46)
- - 💣 [Oops!](http://9gag.com/gag/apRqjw8)
- - 😝 [Lol](http://9gag.com/gag/a9ydeNm)
+ - 😝 [Man&#39;s best friend isn&#39;t always Man&#39;s best friend.](http://9gag.com/gag/aAyYNOp)
+ - 💣 [No heavy breathing.](http://9gag.com/gag/avy0q8d)
+ - 😝 [Oops!](http://9gag.com/gag/apRqjw8)
  - 👉 [What are some heartwarming things grandmothers always do?](http://9gag.com/gag/axyN8VW)<!-- MEMES:END -->
 
 ---

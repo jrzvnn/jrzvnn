@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [WAGs of Philadelphia](http://9gag.com/gag/awyrvNR)
- - 😝 [Getafe players take their mums onto the pitch for mothers day](http://9gag.com/gag/ayN5POY)
- - 💣 [As a friend](http://9gag.com/gag/aqymA4Y)
- - 😝 [Red Hot Ball VS Aloe Vera.](http://9gag.com/gag/aqympVZ)
- - 👉 [How US Air Force pilots find out what aircraft they will fly](http://9gag.com/gag/a7o5Apm)<!-- MEMES:END -->
+ - 😝 [Chinese employer beating African worker going viral nowadays..link in description](http://9gag.com/gag/aKGzNyZ)
+ - 😝 [Working under pressure](http://9gag.com/gag/aD20Nod)
+ - 💣 [Before I got married,my aunt suggested transferring my assets to my mom in case the marriage didn&#39;t work out. 2 years later, She was right.](http://9gag.com/gag/aAyYN7o)
+ - 😝 [Jake are you ok?](http://9gag.com/gag/aYQbdMN)
+ - 👉 [Red Hot Ball VS Aloe Vera.](http://9gag.com/gag/aqympVZ)<!-- MEMES:END -->
 
 ---
 

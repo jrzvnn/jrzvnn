@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [‘Apple Pencil Pro’ spotted in code on Apple’s Japanese site](https://www.theverge.com/2024/5/6/24150198/apple-pencil-pro-japan-website-code-leak)
  - [Apple’s latest Pride band and wallpapers are bathed in neon](https://www.theverge.com/2024/5/6/24150093/apple-pride-band-braided-solo-loop-wallpapers)
  - [Beat Saber is axing multiplayer support for Quest 1 users](https://www.theverge.com/2024/5/6/24150119/beat-saber-quest-1-end-online-support-multiplayer)
  - [Sources: Microsoft is training a new, in-house AI model that has ~500B parameters, large enough to compete with top models from Google, Anthropic, and OpenAI &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/240506/p14#a240506p14)
- - [New Apple Pencil may be called &#39;Apple Pencil Pro&#39;](https://appleinsider.com/articles/24/05/06/new-apple-pencil-may-be-called-apple-pencil-pro?utm_medium=rss)
- - [Lots of new smart home gear, cheap HomeKit sensors, &amp; Matter 1.2 on HomeKit Insider](https://appleinsider.com/articles/24/05/06/lots-of-new-smart-home-gear-cheap-homekit-sensors-matter-12-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
+ - [New Apple Pencil may be called &#39;Apple Pencil Pro&#39;](https://appleinsider.com/articles/24/05/06/new-apple-pencil-may-be-called-apple-pencil-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

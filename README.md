@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Well, well, well. How the turntable](http://9gag.com/gag/a2vNG1e)
  - 😝 [Hasn&#39;t aged a day in like 25 years. Is she a vampire](http://9gag.com/gag/aAyYq9Z)
- - 😝 [Antifa and anti-Nazi protesters block path and only people with given wristbands are allowed into school](http://9gag.com/gag/aYQbm7O)
- - 💣 [Nice One](http://9gag.com/gag/avy0DbX)
- - 😝 [Getafe players take their mums onto the pitch for mothers day](http://9gag.com/gag/ayN5POY)
+ - 💣 [Antifa and anti-Nazi protesters block path and only people with given wristbands are allowed into school](http://9gag.com/gag/aYQbm7O)
+ - 😝 [New fear unlocked](http://9gag.com/gag/ae9NdnQ)
  - 👉 [What are some heartwarming things grandmothers always do?](http://9gag.com/gag/axyN8VW)<!-- MEMES:END -->
 
 ---

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Foxconn saw best-ever April revenues partly because of better than expected iPhone demand](https://appleinsider.com/articles/24/05/06/foxconn-saw-best-ever-april-revenues-partly-because-of-better-than-expected-iphone-demand?utm_medium=rss)
+ - [The One Thing Holding Back Heat Pumps](https://www.wired.com/story/heat-pump-worker-shortage/)
  - [New iPad Air &amp; iPad Pro models are coming soon - what to expect](https://appleinsider.com/articles/24/04/23/new-ipad-air-ipad-pro-models-are-coming-soon---what-to-expect?utm_medium=rss)
  - [Visa and Allium Labs: less than 10% of stablecoin transactions are &quot;organic payments activity&quot;, which excludes activities from bots and large-scale traders &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/240506/p6#a240506p6)
- - [How Steve Jobs saved Apple with the iMac 26 years ago](https://appleinsider.com/articles/23/05/06/how-steve-jobs-saved-apple-with-the-imac-25-years-ago?utm_medium=rss)
- - [Biden administration announces plans to invest $285M, from the CHIPS Act fund, in efforts to improve semiconductor manufacturing by using digital twins &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/240506/p5#a240506p5)
- - [All-screen MacBook Pro and iPhone fold get new and aggressive rumored launch timetable](https://appleinsider.com/articles/24/05/06/all-screen-macbook-pro-and-iphone-fold-get-new-and-aggressive-rumored-launch-timetable?utm_medium=rss)<!-- TECH:END -->
+ - [How Steve Jobs saved Apple with the iMac 26 years ago](https://appleinsider.com/articles/23/05/06/how-steve-jobs-saved-apple-with-the-imac-25-years-ago?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

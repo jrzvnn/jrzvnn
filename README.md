@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Over 40K Audible books are marked as having been made with an AI &quot;virtual voice&quot;, saving authors hundreds or thousands of dollars per title on narration costs &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/240505/p6#a240505p6)
  - [Randy Travis gets his voice back in a new Warner AI music experiment](https://www.theverge.com/2024/5/5/24149685/randy-travis-ai-voice-clone-song-where-that-came-from)
  - [Bluesky confirms Jack Dorsey is no longer on its board](https://www.theverge.com/2024/5/5/24149543/jack-dorsey-gone-bluesky-board)
  - [Briggs &amp; Stratton&#39;s Newest Home Battery Offers Modularity at a Good Price     - CNET](https://www.cnet.com/home/energy-and-utilities/briggs-strattons-newest-home-battery-offers-modularity-at-a-good-price/#ftag=CAD590a51e)
- - [Best iPad Drawing Apps to Try in 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-ipad-drawing-apps/#ftag=CAD590a51e)
- - [Deals: Apple AirPods dip to $79, M3 iMac 24-inch drops to $1,149 at Amazon](https://appleinsider.com/articles/24/05/05/deals-apple-airpods-dip-to-79-m3-imac-24-inch-drops-to-1149-at-amazon?utm_medium=rss)<!-- TECH:END -->
+ - [Best iPad Drawing Apps to Try in 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-ipad-drawing-apps/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

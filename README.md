@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hopefully no one was hurt](http://9gag.com/gag/aO8qAV2)
+ - 😝 [...](http://9gag.com/gag/ae9NW8v)
  - 😝 [Jake are you ok?](http://9gag.com/gag/aYQbdMN)
- - 💣 [New fear unlocked](http://9gag.com/gag/ae9NdnQ)
- - 😝 [Working under pressure](http://9gag.com/gag/aD20Nod)
+ - 💣 [What was that? Meh, probably just the wind...](http://9gag.com/gag/aGy9qy6)
+ - 😝 [Bride caught cheating with bartender at rehearsal by best man](http://9gag.com/gag/aKGzXX3)
  - 👉 [What are some heartwarming things grandmothers always do?](http://9gag.com/gag/axyN8VW)<!-- MEMES:END -->
 
 ---

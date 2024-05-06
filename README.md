@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Two Takes on This Epic Scene. Dune &lpar;1984&rpar; &amp; Dune II &lpar;2024&rpar;](http://9gag.com/gag/ae9NqyQ)
- - 😝 [MC gets what he deserves messing with the royal guards](http://9gag.com/gag/ayN5Vm8)
- - 💣 [Getafe players take their mums onto the pitch for mothers day](http://9gag.com/gag/ayN5POY)
- - 😝 [Meet the new City Councillor of Leeds, UK who just won their Election.](http://9gag.com/gag/adBNd4N)
+ - 😝 [Sony officially went back on their Helldivers 2 PSN requirement](http://9gag.com/gag/azxbz9b)
+ - 😝 [Nice One](http://9gag.com/gag/avy0DbX)
+ - 💣 [Only 1 to go and bingo!](http://9gag.com/gag/a6Zw8xN)
+ - 😝 [Dealing with squatters](http://9gag.com/gag/aGy9b2w)
  - 👉 [What are some heartwarming things grandmothers always do?](http://9gag.com/gag/axyN8VW)<!-- MEMES:END -->
 
 ---

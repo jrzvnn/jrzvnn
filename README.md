@@ -163,9 +163,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Foxconn saw best-ever April revenues partly because of better than expected iPhone demand](https://appleinsider.com/articles/24/05/06/foxconn-saw-best-ever-april-revenues-partly-because-of-better-than-expected-iphone-demand?utm_medium=rss)
  - [The One Thing Holding Back Heat Pumps](https://www.wired.com/story/heat-pump-worker-shortage/)
- - [New iPad Air &amp; iPad Pro models are coming soon - what to expect](https://appleinsider.com/articles/24/04/23/new-ipad-air-ipad-pro-models-are-coming-soon---what-to-expect?utm_medium=rss)
- - [Visa and Allium Labs: less than 10% of stablecoin transactions are &quot;organic payments activity&quot;, which excludes activities from bots and large-scale traders &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/240506/p6#a240506p6)
- - [How Steve Jobs saved Apple with the iMac 26 years ago](https://appleinsider.com/articles/23/05/06/how-steve-jobs-saved-apple-with-the-imac-25-years-ago?utm_medium=rss)<!-- TECH:END -->
+ - [Mortgage Rates Increase for Prospective Buyers: Current Mortgage Rates for May 6, 2024     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-rates-increase-for-prospective-buyers-current-mortgage-rates-for-may-6-2024/#ftag=CAD590a51e)
+ - [30-Year Fixed Refinance Ticks Higher: Current Refinance Rates on May 6, 2024     - CNET](https://www.cnet.com/personal-finance/mortgages/30-year-fixed-refinance-ticks-higher-current-refinance-rates-on-may-6-2024/#ftag=CAD590a51e)
+ - [New iPad Air &amp; iPad Pro models are coming soon - what to expect](https://appleinsider.com/articles/24/04/23/new-ipad-air-ipad-pro-models-are-coming-soon---what-to-expect?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

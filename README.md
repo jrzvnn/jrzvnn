@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: Robinhood&#39;s crypto arm got a Wells notice from the SEC on May 4; Robinhood says it has already ended support for tokens named in previous SEC lawsuits &lpar;Aoyon Ashraf/CoinDesk&rpar;](http://www.techmeme.com/240506/p9#a240506p9)
  - [Blowout deal: grab Apple&#39;s M2 Pro MacBook Pro for $1,599 today only](https://appleinsider.com/articles/24/05/06/blowout-deal-grab-apples-m2-pro-macbook-pro-for-1649-today-only?utm_medium=rss)
  - [YouTube rolls out Jump Ahead, which uses AI to let users jump to parts of a video where most viewers skip ahead, to all US Premium members using its Android app &lpar;Adamya Sharma/Android Authority&rpar;](http://www.techmeme.com/240506/p8#a240506p8)
  - [Best Kids Tablets &lpar;2024&rpar;: iPads, Amazon Fire Kids Tablets, and More](https://www.wired.com/gallery/best-kids-tablets/)
- - [Stop Rinsing Your Noodles After Cooking: We Asked an Italian Chef About 9 Pasta Myths     - CNET](https://www.cnet.com/how-to/stop-rinsing-your-noodles-and-other-pasta-making-mistakes-were-all-guilty-of/#ftag=CAD590a51e)
- - [TCL 50 XL 5G Review: Bites Off More Than It Can Chew     - CNET](https://www.cnet.com/tech/mobile/tcl-50-xl-5g-review-bites-off-more-than-it-can-chew/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [5 Best French Presses &lpar;2024&rpar;: Plastic, Glass, Stainless Steel, Travel](https://www.wired.com/gallery/best-french-presses/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

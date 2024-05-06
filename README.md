@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How much would you pay for this prototype Super Famicom with a headphone jack?](https://www.theverge.com/2024/5/6/24150559/nintendo-super-famicom-prototype-snes-auction-japan)
+ - [UK-based Wayve, which is developing a self-learning system for autonomous driving, raised a $1.05B Series C led by SoftBank, the UK&#39;s largest AI fundraise ever &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/240506/p25#a240506p25)
  - [Google TV’s ‘Magic Button’ makes its debut — but not on a Chromecast](https://www.theverge.com/2024/5/6/24150591/google-tv-magic-button-star-customizable-walmart-onn-4k-pro)
  - [Google’s AI plans now include cybersecurity](https://www.theverge.com/2024/5/6/24150610/google-gemini-cybersecurity-mandiant)
- - [A look at the trademark dispute over the name AGI House between two rival hacker houses, one in Hillsborough and the other in Twin Peaks in the Bay Area &lpar;Forbes&rpar;](http://www.techmeme.com/240506/p24#a240506p24)
- - [Apple&#39;s new Photos app will utilize generative AI for image editing](https://appleinsider.com/articles/24/05/06/apples-new-photos-app-will-utilize-generative-ai-for-image-editing?utm_medium=rss)
- - [Sources: China has hacked a payroll system used by the UK&#39;s Ministry of Defence, targeting service personnel; names and bank details have been exposed &lpar;Sky News&rpar;](http://www.techmeme.com/240506/p23#a240506p23)<!-- TECH:END -->
+ - [A look at the trademark dispute over the name AGI House between two rival hacker houses, one in Hillsborough and the other in Twin Peaks in the Bay Area &lpar;Forbes&rpar;](http://www.techmeme.com/240506/p24#a240506p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

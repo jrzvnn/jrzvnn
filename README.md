@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Robinhood’s crypto arm receives SEC warning over alleged securities violations](https://www.theverge.com/2024/5/6/24150045/robinhood-cryptocurrency-wells-notice-warning-sec)
+ - [Hugging Face launches LeRobot, an open-source robotics code library, after hiring former Tesla scientist Remi Cadene to lead its open-source robotics project &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240506/p10#a240506p10)
+ - [Polestar CEO Thomas Ingenlath on life after Volvo and weathering the EV slowdown](https://www.theverge.com/24148110/polestar-ceo-volvo-geely-evs-electric-car-slowdown-decoder-interview)
  - [Annual Pride Edition Braided Solo Loop for Apple Watch arrives](https://appleinsider.com/articles/24/05/06/annual-pride-edition-braided-solo-loop-for-apple-watch-arrives?utm_medium=rss)
- - [Filing: Robinhood&#39;s crypto arm got a Wells notice from the SEC on May 4; Robinhood says it has already ended support for tokens named in previous SEC lawsuits &lpar;Aoyon Ashraf/CoinDesk&rpar;](http://www.techmeme.com/240506/p9#a240506p9)
- - [Blowout deal: grab Apple&#39;s M2 Pro MacBook Pro for $1,599 today only](https://appleinsider.com/articles/24/05/06/blowout-deal-grab-apples-m2-pro-macbook-pro-for-1649-today-only?utm_medium=rss)
- - [YouTube rolls out Jump Ahead, which uses AI to let users jump to parts of a video where most viewers skip ahead, to all US Premium members using its Android app &lpar;Adamya Sharma/Android Authority&rpar;](http://www.techmeme.com/240506/p8#a240506p8)
- - [Best Kids Tablets &lpar;2024&rpar;: iPads, Amazon Fire Kids Tablets, and More](https://www.wired.com/gallery/best-kids-tablets/)<!-- TECH:END -->
+ - [Filing: Robinhood&#39;s crypto arm got a Wells notice from the SEC on May 4; Robinhood says it has already ended support for tokens named in previous SEC lawsuits &lpar;Aoyon Ashraf/CoinDesk&rpar;](http://www.techmeme.com/240506/p9#a240506p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

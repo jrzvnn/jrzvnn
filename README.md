@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Annual Pride Edition Braided Solo Loop for Apple Watch arrives](https://appleinsider.com/articles/24/05/06/annual-pride-edition-braided-solo-loop-for-apple-watch-arrives?utm_medium=rss)
+ - [Amazon’s entire Kindle lineup is on sale starting at just $80](https://www.theverge.com/2024/5/6/24150163/amazon-kindle-paperwhite-scribe-deal-sale)
+ - [Best Heated Blankets for 2024     - CNET](https://www.cnet.com/health/sleep/best-heated-blankets/#ftag=CAD590a51e)
  - [‘Apple Pencil Pro’ spotted in code on Apple’s Japanese site](https://www.theverge.com/2024/5/6/24150198/apple-pencil-pro-japan-website-code-leak)
- - [Apple’s latest Pride band and wallpapers are bathed in neon](https://www.theverge.com/2024/5/6/24150093/apple-pride-band-braided-solo-loop-wallpapers)
- - [Beat Saber is axing multiplayer support for Quest 1 users](https://www.theverge.com/2024/5/6/24150119/beat-saber-quest-1-end-online-support-multiplayer)
- - [Sources: Microsoft is training a new, in-house AI model that has ~500B parameters, large enough to compete with top models from Google, Anthropic, and OpenAI &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/240506/p14#a240506p14)
- - [New Apple Pencil may be called &#39;Apple Pencil Pro&#39;](https://appleinsider.com/articles/24/05/06/new-apple-pencil-may-be-called-apple-pencil-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s Interactive iPad Event Teaser: Pro And Pencil Upgrades On Tap     - CNET](https://www.cnet.com/tech/computing/apples-let-loose-event-could-this-be-a-big-year-for-ipads/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

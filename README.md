@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony reverses unpopular Helldivers 2 decision after blistering player reaction](https://www.theverge.com/24150327/sony-helldivers-2-review-bombing-psn-login)
  - [During India&#39;s general election, some Indian politicians and parties are using deepfake videos and audios of popular, deceased politicians in their campaigns &lpar;Barkha Dutt/Rest of World&rpar;](http://www.techmeme.com/240506/p17#a240506p17)
  - [&#39;Hades II,&#39; a Sequel to the Horniest Game of 2020, Just Dropped Early](https://www.wired.com/story/hades-2-early-access-launch-release-date/)
  - [Google is changing how you set up 2FA](https://www.theverge.com/2024/5/6/24150354/google-workspace-2fa-easier-phone-number)
- - [Boeing&#39;s Starliner Is Finally Ready to Launch a NASA Crew Into Space](https://www.wired.com/story/boeing-starliner-launch-spacex-international-space-station/)
- - [OpenAI and Stack Overflow partner to bring more technical knowledge into ChatGPT](https://www.theverge.com/2024/5/6/24150341/openai-stack-overflow-partner-api-coding-assistance)<!-- TECH:END -->
+ - [Boeing’s Starliner Is Finally Ready to Launch a NASA Crew Into Space](https://www.wired.com/story/boeing-starliner-launch-spacex-international-space-station/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -162,10 +162,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Paris-based Stonal, which offers a data management platform for real estate owners and investors in Europe and launched StonalGPT earlier in 2024, raised &amp;euro;100M &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/240506/p4#a240506p4)
+ - [The US Is Cracking Down on Synthetic DNA](https://www.wired.com/story/synthetic-dna-us-biden-regulation/)
  - [They Bought Tablets in Prison—and Found a Broken Promise](https://www.wired.com/story/electronic-tablets-in-federal-prisons-chat-apps-disabled/)
  - [Interviews with finance experts and young adults suggest TikTok videos about the economy and consumerism are creating a distorted view of financial well-being &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240506/p3#a240506p3)
- - [Ethereum’s Cofounder Says SEC Is ‘Gaslighting’ Everyone About Crypto](https://www.wired.com/story/ethereums-co-founder-says-sec-is-gaslighting-us-about-crypto/)
- - [Moving? Do Not Wait to Set Up Your Internet Service. Here&#39;s How to Do It     - CNET](https://www.cnet.com/home/internet/moving-do-not-wait-to-set-up-your-internet-service-heres-how-to-do-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ethereum’s Cofounder Says SEC Is ‘Gaslighting’ Everyone About Crypto](https://www.wired.com/story/ethereums-co-founder-says-sec-is-gaslighting-us-about-crypto/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

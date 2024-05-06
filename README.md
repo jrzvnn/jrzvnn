@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sony officially went back on their Helldivers 2 PSN requirement](http://9gag.com/gag/azxbz9b)
- - 😝 [1 vertical paint please](http://9gag.com/gag/aNDeMA3)
- - 💣 [Lol](http://9gag.com/gag/a9ydeNm)
- - 😝 [Every story deserves a happy ending](http://9gag.com/gag/arypEXp)
+ - 😝 [What was that? Meh, probably just the wind...](http://9gag.com/gag/aGy9qy6)
+ - 😝 [Two Takes on This Epic Scene. Dune &lpar;1984&rpar; &amp; Dune II &lpar;2024&rpar;](http://9gag.com/gag/ae9NqyQ)
+ - 💣 [No heavy breathing.](http://9gag.com/gag/avy0q8d)
+ - 😝 [Nice One](http://9gag.com/gag/avy0DbX)
  - 👉 [What are some heartwarming things grandmothers always do?](http://9gag.com/gag/axyN8VW)<!-- MEMES:END -->
 
 ---

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DocuSign says it is acquiring contract workflow automation startup Lexion for $165M; Lexion had raised $35.2M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240506/p20#a240506p20)
+ - [Watch NASA launch its first astronauts aboard the Boeing Starliner](https://www.theverge.com/24150483/nasa-boeing-starliner-launch-livestream-watch)
  - [Palantir reports Q1 revenue of $634M, up 21% YoY, vs. $625M est., net income of $106M, up from $16.8M YoY; Palantir stock drops 9% after hours on weak guidance &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/240506/p19#a240506p19)
  - [Study from Meta researchers suggests that training LLMs to predict multiple tokens at once, instead of just the next token, results in better and faster models &lpar;Ben Dickson/VentureBeat&rpar;](http://www.techmeme.com/240506/p18#a240506p18)
- - [How to watch Apple&#39;s &#39;Let Loose&#39; iPad Air &amp; iPad Pro event](https://appleinsider.com/inside/apple-event/tips/how-to-watch-apples-let-loose-ipad-air-ipad-pro?utm_medium=rss)
- - [Republicans are pulling out all the stops to reverse EV adoption](https://www.theverge.com/2024/5/6/24150041/ev-epa-clean-air-emissions-lawsuit-republicans-tax-credit)
- - [iPhone 17 Pro rumored to get 12GB of RAM](https://appleinsider.com/articles/24/05/06/iphone-17-pro-rumored-to-get-12gb-of-ram?utm_medium=rss)<!-- TECH:END -->
+ - [How to watch Apple&#39;s &#39;Let Loose&#39; iPad Air &amp; iPad Pro event](https://appleinsider.com/inside/apple-event/tips/how-to-watch-apples-let-loose-ipad-air-ipad-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

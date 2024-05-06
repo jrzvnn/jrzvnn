@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Unending Debate!\ud83e\udd26\ud83c\udffb](http://9gag.com/gag/amoXQmj)
- - 😝 [Lol](http://9gag.com/gag/a9ydeNm)
- - 💣 [I don&#39;t know why she always need to brag about unimportant stuff.](http://9gag.com/gag/azxbzDq)
- - 😝 [No heavy breathing.](http://9gag.com/gag/avy0q8d)
+ - 😝 [Sony officially went back on their Helldivers 2 PSN requirement](http://9gag.com/gag/azxbz9b)
+ - 😝 [1 vertical paint please](http://9gag.com/gag/aNDeMA3)
+ - 💣 [Lol](http://9gag.com/gag/a9ydeNm)
+ - 😝 [Every story deserves a happy ending](http://9gag.com/gag/arypEXp)
  - 👉 [What are some heartwarming things grandmothers always do?](http://9gag.com/gag/axyN8VW)<!-- MEMES:END -->
 
 ---

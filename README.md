@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice One](http://9gag.com/gag/avy0DbX)
+ - 😝 [If mass deportations don\u2019t start soon, you\u2019ll pretty much be forced to submit to their whims](http://9gag.com/gag/ae9Nymp)
  - 😝 [Seriously?](http://9gag.com/gag/awyrPqR)
- - 💣 [Meet the new City Councillor of Leeds, UK who just won their Election.](http://9gag.com/gag/adBNd4N)
- - 😝 [Android vs Iphone](http://9gag.com/gag/aD20Pq7)
+ - 💣 [Before I got married,my aunt suggested transferring my assets to my mom in case the marriage didn&#39;t work out. 2 years later, She was right.](http://9gag.com/gag/aAyYN7o)
+ - 😝 [Nice One](http://9gag.com/gag/avy0DbX)
  - 👉 [What are some heartwarming things grandmothers always do?](http://9gag.com/gag/axyN8VW)<!-- MEMES:END -->
 
 ---

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [During India&#39;s general election, some Indian politicians and parties are using deepfake videos and audios of popular, deceased politicians in their campaigns &lpar;Barkha Dutt/Rest of World&rpar;](http://www.techmeme.com/240506/p17#a240506p17)
+ - [&#39;Hades II,&#39; a Sequel to the Horniest Game of 2020, Just Dropped Early](https://www.wired.com/story/hades-2-early-access-launch-release-date/)
  - [Google is changing how you set up 2FA](https://www.theverge.com/2024/5/6/24150354/google-workspace-2fa-easier-phone-number)
  - [Boeing&#39;s Starliner Is Finally Ready to Launch a NASA Crew Into Space](https://www.wired.com/story/boeing-starliner-launch-spacex-international-space-station/)
- - [OpenAI and Stack Overflow partner to bring more technical knowledge into ChatGPT](https://www.theverge.com/2024/5/6/24150341/openai-stack-overflow-partner-api-coding-assistance)
- - [Can the Manta Sound Sleep Mask Improve Your Rest? I Tested It to Find Out     - CNET](https://www.cnet.com/health/sleep/can-the-manta-sound-sleep-mask-improve-your-rest-i-tested-it-to-find-out/#ftag=CAD590a51e)
- - [A probe finds a black market for Facebook accounts that have received approval to run political ads during India&#39;s general election, raising interference fears &lpar;Tech Transparency Project&rpar;](http://www.techmeme.com/240506/p16#a240506p16)<!-- TECH:END -->
+ - [OpenAI and Stack Overflow partner to bring more technical knowledge into ChatGPT](https://www.theverge.com/2024/5/6/24150341/openai-stack-overflow-partner-api-coding-assistance)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

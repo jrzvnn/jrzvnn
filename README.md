@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Red Hot Ball VS Aloe Vera.](http://9gag.com/gag/aqympVZ)
- - 😝 [Hopefully no one was hurt](http://9gag.com/gag/aO8qAV2)
- - 💣 [Getafe players take their mums onto the pitch for mothers day](http://9gag.com/gag/ayN5POY)
- - 😝 [Nice One](http://9gag.com/gag/avy0DbX)
+ - 😝 [Man&#39;s best friend isn&#39;t always Man&#39;s best friend.](http://9gag.com/gag/aAyYNOp)
+ - 😝 [Chinese employer beating African worker going viral nowadays..link in description](http://9gag.com/gag/aKGzNyZ)
+ - 💣 [New fear unlocked](http://9gag.com/gag/ae9NdnQ)
+ - 😝 [Well, well, well. How the turntable](http://9gag.com/gag/a2vNG1e)
  - 👉 [What are some heartwarming things grandmothers always do?](http://9gag.com/gag/axyN8VW)<!-- MEMES:END -->
 
 ---

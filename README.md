@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Much Should You Tip Movers in 2024? Here’s What the Pros Say     - CNET](https://www.cnet.com/how-to/how-much-should-you-tip-movers-in-2024-heres-what-the-pros-say/#ftag=CAD590a51e)
+ - [Apple Arcade rolls out five new games, including &#39;Rabbids: Legends of the Multiverse&#39;](https://appleinsider.com/articles/24/05/06/apple-arcade-rolls-out-five-new-games-including-rabbids-legends-of-the-multiverse?utm_medium=rss)
  - [AT&amp;T completes divestiture of its cybersecurity services group and forms LevelBlue, with staff in 10 countries focused on managed cybersecurity services &lpar;Robert Lemos/Dark Reading&rpar;](http://www.techmeme.com/240506/p12#a240506p12)
- - [The increase of stock sales in privately held companies leads to tensions with startups like Stripe; the market is estimated to rise 40% YoY to $64B in 2024 &lpar;Erin Griffith/New York Times&rpar;](http://www.techmeme.com/240506/p11#a240506p11)
- - [Robinhood’s crypto arm receives SEC warning over alleged securities violations](https://www.theverge.com/2024/5/6/24150045/robinhood-cryptocurrency-wells-notice-warning-sec)
- - [Hugging Face launches LeRobot, an open-source robotics code library, after hiring former Tesla scientist Remi Cadene to lead its open-source robotics project &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240506/p10#a240506p10)
- - [Polestar CEO Thomas Ingenlath on life after Volvo and weathering the EV slowdown](https://www.theverge.com/24148110/polestar-ceo-volvo-geely-evs-electric-car-slowdown-decoder-interview)<!-- TECH:END -->
+ - [Dreametech L20 Ultra Robot Vacuum Matches Best-Ever $799 Price With Our Discount Code     - CNET](https://www.cnet.com/deals/the-dreametech-l20-ultra-robot-vacuum-matches-its-best-ever-799-price-with-our-discount-code/#ftag=CAD590a51e)
+ - [The increase of stock sales in privately held companies leads to tensions with startups like Stripe; the market is estimated to rise 40% YoY to $64B in 2024 &lpar;Erin Griffith/New York Times&rpar;](http://www.techmeme.com/240506/p11#a240506p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

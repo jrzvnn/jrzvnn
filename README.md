@@ -170,8 +170,8 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [\u201cKhan kiIIed London\u201d](http://9gag.com/gag/a5QdAqy)
  - 😝 [Seriously?](http://9gag.com/gag/awyrPqR)
- - 😝 [Nice One](http://9gag.com/gag/avy0DbX)
  - 💣 [Before I got married,my aunt suggested transferring my assets to my mom in case the marriage didn&#39;t work out. 2 years later, She was right.](http://9gag.com/gag/aAyYN7o)
  - 😝 [Oops!](http://9gag.com/gag/apRqjw8)
  - 👉 [What are some heartwarming things grandmothers always do?](http://9gag.com/gag/axyN8VW)<!-- MEMES:END -->

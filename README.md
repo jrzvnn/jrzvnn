@@ -165,7 +165,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Robinhood’s crypto arm receives SEC warning over alleged securities violations](https://www.theverge.com/2024/5/6/24150045/robinhood-cryptocurrency-wells-notice-warning-sec)
  - [Hugging Face launches LeRobot, an open-source robotics code library, after hiring former Tesla scientist Remi Cadene to lead its open-source robotics project &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240506/p10#a240506p10)
  - [Polestar CEO Thomas Ingenlath on life after Volvo and weathering the EV slowdown](https://www.theverge.com/24148110/polestar-ceo-volvo-geely-evs-electric-car-slowdown-decoder-interview)
- - [The Secret Term to Know When Shopping for Your Air Conditioner     - CNET](https://www.cnet.com/home/kitchen-and-household/the-secret-term-to-know-when-shopping-for-your-air-conditioner/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Annual Pride Edition Braided Solo Loop for Apple Watch arrives](https://appleinsider.com/articles/24/05/06/annual-pride-edition-braided-solo-loop-for-apple-watch-arrives?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

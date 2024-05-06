@@ -174,7 +174,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - 😝 [Working under pressure](http://9gag.com/gag/aD20Nod)
  - 💣 [Before I got married,my aunt suggested transferring my assets to my mom in case the marriage didn&#39;t work out. 2 years later, She was right.](http://9gag.com/gag/aAyYN7o)
  - 😝 [Jake are you ok?](http://9gag.com/gag/aYQbdMN)
- - 👉 [What are some heartwarming things grandmothers always do?](http://9gag.com/gag/a87W9pQ)<!-- MEMES:END -->
+ - 👉 [What are some heartwarming things grandmothers always do?](http://9gag.com/gag/axyN8VW)<!-- MEMES:END -->
 
 ---
 

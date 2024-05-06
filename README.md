@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hopefully no one was hurt](http://9gag.com/gag/aO8qAV2)
  - 😝 [Two Takes on This Epic Scene. Dune &lpar;1984&rpar; &amp; Dune II &lpar;2024&rpar;](http://9gag.com/gag/ae9NqyQ)
- - 💣 [Nice One](http://9gag.com/gag/avy0DbX)
- - 😝 [Legendary german pimp Stefan Hentschel pimp-slaps some drunk mullet.](http://9gag.com/gag/awyrDn1)
+ - 😝 [MC gets what he deserves messing with the royal guards](http://9gag.com/gag/ayN5Vm8)
+ - 💣 [Getafe players take their mums onto the pitch for mothers day](http://9gag.com/gag/ayN5POY)
+ - 😝 [Meet the new City Councillor of Leeds, UK who just won their Election.](http://9gag.com/gag/adBNd4N)
  - 👉 [What are some heartwarming things grandmothers always do?](http://9gag.com/gag/axyN8VW)<!-- MEMES:END -->
 
 ---

@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Seriously?](http://9gag.com/gag/awyrPqR)
+ - 😝 [Two Takes on This Epic Scene. Dune &lpar;1984&rpar; &amp; Dune II &lpar;2024&rpar;](http://9gag.com/gag/ae9NqyQ)
+ - 😝 [Skeletor approves GTA VI](http://9gag.com/gag/aXPbGRd)
+ - 💣 [Lol](http://9gag.com/gag/a9ydeNm)
  - 😝 [Bro-zoned](http://9gag.com/gag/a1mAq46)
- - 💣 [What was that? Meh, probably just the wind...](http://9gag.com/gag/aGy9qy6)
- - 😝 [Usual pattern. Who pays the damages?](http://9gag.com/gag/azxbzvz)
  - 👉 [What are some heartwarming things grandmothers always do?](http://9gag.com/gag/axyN8VW)<!-- MEMES:END -->
 
 ---

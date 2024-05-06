@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google’s AI plans now include cybersecurity](https://www.theverge.com/2024/5/6/24150610/google-gemini-cybersecurity-mandiant)
+ - [A look at the trademark dispute over the name AGI House between two rival hacker houses, one in Hillsborough and the other in Twin Peaks in the Bay Area &lpar;Forbes&rpar;](http://www.techmeme.com/240506/p24#a240506p24)
  - [Apple&#39;s new Photos app will utilize generative AI for image editing](https://appleinsider.com/articles/24/05/06/apples-new-photos-app-will-utilize-generative-ai-for-image-editing?utm_medium=rss)
  - [Sources: China has hacked a payroll system used by the UK&#39;s Ministry of Defence, targeting service personnel; names and bank details have been exposed &lpar;Sky News&rpar;](http://www.techmeme.com/240506/p23#a240506p23)
- - [Synopsys agrees to sell its Software Integrity Group business to a PE consortium led by Clearlake Capital and Francisco Partners in a deal valued at $2.1B &lpar;Reuters&rpar;](http://www.techmeme.com/240506/p22#a240506p22)
- - [Best Phone Plan Deals: Score Cheaper Plans, Trade-In Credits and Referral Rewards     - CNET](https://www.cnet.com/deals/best-phone-plan-deals/#ftag=CAD590a51e)
- - [Microsoft ramps up plans to capture carbon from burning wood](https://www.theverge.com/2024/5/6/24150398/microsoft-bioenergy-carbon-capture-stockholm-exergi)<!-- TECH:END -->
+ - [Synopsys agrees to sell its Software Integrity Group business to a PE consortium led by Clearlake Capital and Francisco Partners in a deal valued at $2.1B &lpar;Reuters&rpar;](http://www.techmeme.com/240506/p22#a240506p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

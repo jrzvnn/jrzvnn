@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft ramps up plans to capture carbon from burning wood](https://www.theverge.com/2024/5/6/24150398/microsoft-bioenergy-carbon-capture-stockholm-exergi)
+ - [How to Watch the Boeing Starliner Launch](https://www.wired.com/story/watch-boeing-starliner-launch-livestream/)
  - [Researchers detail an attack against many VPN apps that force them to send some or all traffic outside of the VPN encrypted tunnel; Android mitigates the flaw &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240506/p21#a240506p21)
  - [Rare Magic: The Gathering card breaks records with $3 million sale](https://www.theverge.com/2024/5/6/24150479/magic-the-gathering-black-lotus-alpha-sale)
- - [These are the upcoming Sonos Ace wireless headphones](https://www.theverge.com/2024/5/6/24150573/sonos-ace-headphones-reveal-leak-wireless)
- - [DocuSign says it is acquiring contract workflow automation startup Lexion for $165M; Lexion had raised $35.2M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240506/p20#a240506p20)
- - [Watch NASA launch its first astronauts aboard the Boeing Starliner](https://www.theverge.com/24150483/nasa-boeing-starliner-launch-livestream-watch)<!-- TECH:END -->
+ - [These are the upcoming Sonos Ace wireless headphones](https://www.theverge.com/2024/5/6/24150573/sonos-ace-headphones-reveal-leak-wireless)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Getafe players take their mums onto the pitch for mothers day](http://9gag.com/gag/ayN5POY)
- - 😝 [What was that? Meh, probably just the wind...](http://9gag.com/gag/aGy9qy6)
- - 💣 [Nice One](http://9gag.com/gag/avy0DbX)
- - 😝 [Meet the new City Councillor of Leeds, UK who just won their Election.](http://9gag.com/gag/adBNd4N)
+ - 😝 [Hopefully no one was hurt](http://9gag.com/gag/aO8qAV2)
+ - 😝 [Jake are you ok?](http://9gag.com/gag/aYQbdMN)
+ - 💣 [New fear unlocked](http://9gag.com/gag/ae9NdnQ)
+ - 😝 [Working under pressure](http://9gag.com/gag/aD20Nod)
  - 👉 [What are some heartwarming things grandmothers always do?](http://9gag.com/gag/axyN8VW)<!-- MEMES:END -->
 
 ---

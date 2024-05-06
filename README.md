@@ -163,9 +163,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Google’s AI plans now include cybersecurity](https://www.theverge.com/2024/5/6/24150610/google-gemini-cybersecurity-mandiant)
  - [A look at the trademark dispute over the name AGI House between two rival hacker houses, one in Hillsborough and the other in Twin Peaks in the Bay Area &lpar;Forbes&rpar;](http://www.techmeme.com/240506/p24#a240506p24)
- - [The Boeing Starliner Is Finally Taking People Into Space: How to Watch the Launch Tonight     - CNET](https://www.cnet.com/science/space/the-boeing-starliner-is-finally-taking-people-into-space-how-to-watch-the-launch-tonight/#ftag=CAD590a51e)
  - [Apple&#39;s new Photos app will utilize generative AI for image editing](https://appleinsider.com/articles/24/05/06/apples-new-photos-app-will-utilize-generative-ai-for-image-editing?utm_medium=rss)
- - [Sources: China has hacked a payroll system used by the UK&#39;s Ministry of Defence, targeting service personnel; names and bank details have been exposed &lpar;Sky News&rpar;](http://www.techmeme.com/240506/p23#a240506p23)<!-- TECH:END -->
+ - [Sources: China has hacked a payroll system used by the UK&#39;s Ministry of Defence, targeting service personnel; names and bank details have been exposed &lpar;Sky News&rpar;](http://www.techmeme.com/240506/p23#a240506p23)
+ - [Synopsys agrees to sell its Software Integrity Group business to a PE consortium led by Clearlake Capital and Francisco Partners in a deal valued at $2.1B &lpar;Reuters&rpar;](http://www.techmeme.com/240506/p22#a240506p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

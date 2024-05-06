@@ -165,7 +165,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Apple’s iPhone Spyware Problem Is Getting Worse. Here’s What You Should Know](https://www.wired.com/story/apple-iphone-spyware-101/)
  - [Foxconn saw best-ever April revenues partly because of better than expected iPhone demand](https://appleinsider.com/articles/24/05/06/foxconn-saw-best-ever-april-revenues-partly-because-of-better-than-expected-iphone-demand?utm_medium=rss)
  - [The One Thing Holding Back Heat Pumps](https://www.wired.com/story/heat-pump-worker-shortage/)
- - [New iPad Air &amp; iPad Pro models are coming soon - what to expect](https://appleinsider.com/articles/24/04/23/new-ipad-air-ipad-pro-models-are-coming-soon---what-to-expect?utm_medium=rss)<!-- TECH:END -->
+ - [Mortgage Rates Increase for Prospective Buyers: Current Mortgage Rates for May 6, 2024     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-rates-increase-for-prospective-buyers-current-mortgage-rates-for-may-6-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

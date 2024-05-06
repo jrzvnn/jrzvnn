@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [More Tesla employees laid off as bloodbath enters its fourth week](https://www.theverge.com/2024/5/6/24150274/tesla-layoffs-employee-fourth-week-elon-musk-ev-demand)
+ - [Weather advisory: unusually strong Meltdown May incoming](https://www.theverge.com/24150269/meltdown-may-corncob-alert)
  - [Annual Pride Edition Braided Solo Loop for Apple Watch arrives](https://appleinsider.com/articles/24/05/06/annual-pride-edition-braided-solo-loop-for-apple-watch-arrives?utm_medium=rss)
  - [Amazon’s entire Kindle lineup is on sale starting at just $80](https://www.theverge.com/2024/5/6/24150163/amazon-kindle-paperwhite-scribe-deal-sale)
- - [Best Heated Blankets for 2024     - CNET](https://www.cnet.com/health/sleep/best-heated-blankets/#ftag=CAD590a51e)
- - [‘Apple Pencil Pro’ spotted in code on Apple’s Japanese site](https://www.theverge.com/2024/5/6/24150198/apple-pencil-pro-japan-website-code-leak)
- - [Apple&#39;s Interactive iPad Event Teaser: Pro And Pencil Upgrades On Tap     - CNET](https://www.cnet.com/tech/computing/apples-let-loose-event-could-this-be-a-big-year-for-ipads/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [‘Apple Pencil Pro’ spotted in code on Apple’s Japanese site](https://www.theverge.com/2024/5/6/24150198/apple-pencil-pro-japan-website-code-leak)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

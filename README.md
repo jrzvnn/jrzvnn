@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If mass deportations don\u2019t start soon, you\u2019ll pretty much be forced to submit to their whims](http://9gag.com/gag/ae9Nymp)
- - 😝 [Seriously?](http://9gag.com/gag/awyrPqR)
+ - 😝 [Samson, a breeding bull for hire, is greeted by a pasture full of cows.](http://9gag.com/gag/azxbDqN)
+ - 😝 [Me as a kid: wtf is a slalom](http://9gag.com/gag/amoXbry)
  - 💣 [Before I got married,my aunt suggested transferring my assets to my mom in case the marriage didn&#39;t work out. 2 years later, She was right.](http://9gag.com/gag/aAyYN7o)
- - 😝 [Nice One](http://9gag.com/gag/avy0DbX)
+ - 😝 [Lol](http://9gag.com/gag/a9ydeNm)
  - 👉 [What are some heartwarming things grandmothers always do?](http://9gag.com/gag/axyN8VW)<!-- MEMES:END -->
 
 ---

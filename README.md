@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well, well, well. How the turntable](http://9gag.com/gag/a2vNG1e)
- - 😝 [Hasn&#39;t aged a day in like 25 years. Is she a vampire](http://9gag.com/gag/aAyYq9Z)
- - 💣 [Antifa and anti-Nazi protesters block path and only people with given wristbands are allowed into school](http://9gag.com/gag/aYQbm7O)
- - 😝 [New fear unlocked](http://9gag.com/gag/ae9NdnQ)
+ - 😝 [A short title](http://9gag.com/gag/aD20NqK)
+ - 😝 [Mom went full John Wick.](http://9gag.com/gag/adBNrw9)
+ - 💣 [LMAO](http://9gag.com/gag/aryp9NV)
+ - 😝 [Rest in Piece King Theoden! Thanks for giving us one of the most memorable experiences in Movie History](http://9gag.com/gag/apRqnLn)
  - 👉 [What are some heartwarming things grandmothers always do?](http://9gag.com/gag/axyN8VW)<!-- MEMES:END -->
 
 ---

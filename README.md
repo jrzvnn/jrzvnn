@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Man&#39;s best friend isn&#39;t always Man&#39;s best friend.](http://9gag.com/gag/aAyYNOp)
  - 😝 [Bro-zoned](http://9gag.com/gag/a1mAq46)
- - 😝 [Oops!](http://9gag.com/gag/apRqjw8)
- - 💣 [Red Hot Ball VS Aloe Vera.](http://9gag.com/gag/aqympVZ)
- - 😝 [Before I got married,my aunt suggested transferring my assets to my mom in case the marriage didn&#39;t work out. 2 years later, She was right.](http://9gag.com/gag/aAyYN7o)
+ - 💣 [What was that? Meh, probably just the wind...](http://9gag.com/gag/aGy9qy6)
+ - 😝 [Seriously?](http://9gag.com/gag/awyrPqR)
  - 👉 [What are some heartwarming things grandmothers always do?](http://9gag.com/gag/axyN8VW)<!-- MEMES:END -->
 
 ---

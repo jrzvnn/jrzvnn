@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lol](http://9gag.com/gag/a9ydeNm)
+ - 😝 [Jake are you ok?](http://9gag.com/gag/aYQbdMN)
  - 😝 [Bro-zoned](http://9gag.com/gag/a1mAq46)
- - 💣 [Meet the new City Councillor of Leeds, UK who just won their Election.](http://9gag.com/gag/adBNd4N)
- - 😝 [No heavy breathing.](http://9gag.com/gag/avy0q8d)
+ - 💣 [If mass deportations don\u2019t start soon, you\u2019ll pretty much be forced to submit to their whims](http://9gag.com/gag/ae9Nymp)
+ - 😝 [It won&#39;t happen to you](http://9gag.com/gag/aVvO1yP)
  - 👉 [What are some heartwarming things grandmothers always do?](http://9gag.com/gag/axyN8VW)<!-- MEMES:END -->
 
 ---

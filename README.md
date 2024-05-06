@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 15 Pro Max was Q1&#39;s best-selling smartphone; Pro phones were 50% of Apple&#39;s sales, up from 24% in 2020; Apple and Samsung each had five phones in top 10 &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/240506/p7#a240506p7)
  - [Apple has dominated 2024 smartphone sales with iPhone 15 Pro Max](https://appleinsider.com/articles/24/05/06/apple-has-dominated-2024-smartphone-sales-with-iphone-15-pro-max?utm_medium=rss)
  - [Apple’s iPhone Spyware Problem Is Getting Worse. Here’s What You Should Know](https://www.wired.com/story/apple-iphone-spyware-101/)
  - [Foxconn saw best-ever April revenues partly because of better than expected iPhone demand](https://appleinsider.com/articles/24/05/06/foxconn-saw-best-ever-april-revenues-partly-because-of-better-than-expected-iphone-demand?utm_medium=rss)
- - [The One Thing Holding Back Heat Pumps](https://www.wired.com/story/heat-pump-worker-shortage/)
- - [Mortgage Rates Increase for Prospective Buyers: Current Mortgage Rates for May 6, 2024     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-rates-increase-for-prospective-buyers-current-mortgage-rates-for-may-6-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The One Thing Holding Back Heat Pumps](https://www.wired.com/story/heat-pump-worker-shortage/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

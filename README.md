@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Blowout deal: grab Apple&#39;s M2 Pro MacBook Pro for $1,649 today only](https://appleinsider.com/articles/24/05/06/blowout-deal-grab-apples-m2-pro-macbook-pro-for-1649-today-only?utm_medium=rss)
  - [The EU&#39;s crackdown on Huawei shows an EU-wide TikTok ban will likely take years of diplomacy, as the bloc lacks a formal say over national security concerns &lpar;Pieter Haeck/Politico&rpar;](http://www.techmeme.com/240505/p7#a240505p7)
  - [Best Mattress for Back Sleepers in 2024     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-back-sleepers/#ftag=CAD590a51e)
  - [Should You Buy or Rent Your Router? The Wrong Decision Cost Me Nearly $1K     - CNET](https://www.cnet.com/home/internet/should-you-buy-or-rent-your-router-the-wrong-decision-cost-me-nearly-1k/#ftag=CAD590a51e)
- - [Over 40K Audible books are marked as having been made with an AI &quot;virtual voice&quot;, saving authors hundreds or thousands of dollars per title on narration costs &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/240505/p6#a240505p6)
- - [Randy Travis gets his voice back in a new Warner AI music experiment](https://www.theverge.com/2024/5/5/24149685/randy-travis-ai-voice-clone-song-where-that-came-from)<!-- TECH:END -->
+ - [Over 40K Audible books are marked as having been made with an AI &quot;virtual voice&quot;, saving authors hundreds or thousands of dollars per title on narration costs &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/240505/p6#a240505p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

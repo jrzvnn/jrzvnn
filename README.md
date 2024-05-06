@@ -162,10 +162,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [OpenAI and Stack Overflow partner to bring more technical knowledge into ChatGPT](https://www.theverge.com/2024/5/6/24150341/openai-stack-overflow-partner-api-coding-assistance)
+ - [Can the Manta Sound Sleep Mask Improve Your Rest? I Tested It to Find Out     - CNET](https://www.cnet.com/health/sleep/can-the-manta-sound-sleep-mask-improve-your-rest-i-tested-it-to-find-out/#ftag=CAD590a51e)
  - [A probe finds a black market for Facebook accounts that have received approval to run political ads during India&#39;s general election, raising interference fears &lpar;Tech Transparency Project&rpar;](http://www.techmeme.com/240506/p16#a240506p16)
  - [Technology Is Transforming Rap Beef](https://www.wired.com/story/technology-is-transforming-rap-beef/)
- - [You can grab a pair of AirPods starting at just $79.99](https://www.theverge.com/2024/5/6/24150060/airpods-pro-belkin-boostcharge-usb-c-charger-deal-sale)
- - [Hades II early access begins today](https://www.theverge.com/24150249/hades-2-early-access-release-date-steam-egs)<!-- TECH:END -->
+ - [Save Up to $500 on Samsung&#39;s Stylish &#39;The Frame&#39; TV     - CNET](https://www.cnet.com/deals/save-up-to-500-on-samsungs-stylish-the-frame-tv/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

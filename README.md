@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Microsoft is training a new, in-house AI model that has ~500B parameters, large enough to compete with top models from Google, Anthropic, and OpenAI &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/240506/p14#a240506p14)
  - [New Apple Pencil may be called &#39;Apple Pencil Pro&#39;](https://appleinsider.com/articles/24/05/06/new-apple-pencil-may-be-called-apple-pencil-pro?utm_medium=rss)
  - [Lots of new smart home gear, cheap HomeKit sensors, &amp; Matter 1.2 on HomeKit Insider](https://appleinsider.com/articles/24/05/06/lots-of-new-smart-home-gear-cheap-homekit-sensors-matter-12-on-homekit-insider?utm_medium=rss)
  - [Stack Overflow signs a deal with OpenAI to supply data to its models; new integrations between Stack Overflow and OpenAI will be available by the end of June &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240506/p13#a240506p13)
- - [How Much Should You Tip Movers in 2024? Here’s What the Pros Say     - CNET](https://www.cnet.com/how-to/how-much-should-you-tip-movers-in-2024-heres-what-the-pros-say/#ftag=CAD590a51e)
- - [Apple Arcade rolls out five new games, including &#39;Rabbids: Legends of the Multiverse&#39;](https://appleinsider.com/articles/24/05/06/apple-arcade-rolls-out-five-new-games-including-rabbids-legends-of-the-multiverse?utm_medium=rss)<!-- TECH:END -->
+ - [How Much Should You Tip Movers in 2024? Here’s What the Pros Say     - CNET](https://www.cnet.com/how-to/how-much-should-you-tip-movers-in-2024-heres-what-the-pros-say/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

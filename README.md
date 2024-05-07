@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Connections Hints and Answers: Help for May 7, #331     - CNET](https://www.cnet.com/tech/todays-nyt-connections-hints-and-answer-help-for-may-7-331/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints and Answer: Help for May 7, #1053     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-and-answer-help-for-may-07-1053/#ftag=CAD590a51e)
  - [How to add fonts in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-add-fonts-in-macos-sonoma?utm_medium=rss)
  - [Q&amp;A with Ethereum co-founder and Consensys CEO Joe Lubin on Consensys&#39; lawsuit against the SEC, implications of SEC classifying ETH as a security, and more &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/240506/p29#a240506p29)
- - [Boeing Starliner’s crew flight test delayed due to a valve problem](https://www.theverge.com/24150483/nasa-boeing-starliner-launch-livestream-watch)<!-- TECH:END -->
+ - [Boeing Starliner’s crew flight test delayed due to a valve problem](https://www.theverge.com/24150483/nasa-boeing-starliner-launch-livestream-watch)
+ - [Best Multivitamins for 2024     - CNET](https://www.cnet.com/health/nutrition/best-multivitamins/#ftag=CAD590a51e)
+ - [Secret Apple &#39;Project ACDC&#39; to pioneer AI chips for data centers](https://appleinsider.com/articles/24/05/07/secret-apple-project-acdc-to-pioneer-ai-chips-for-data-centers?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s new iPad Pro gets M4 power, advanced Tandem OLED screens](https://appleinsider.com/articles/24/05/07/apples-new-ipad-pro-gets-m4-power-advanced-tandem-oled-screens?utm_medium=rss)
+ - [Apple announces new 11&quot; and 13&quot; iPad Pros, with M4, an OLED &quot;Ultra Retina XDR&quot; display with up to 1,600 nits of brightness, and new 5.1mm and 5.3mm thin designs &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240507/p21#a240507p21)
  - [Apple announces new M4 chip](https://www.theverge.com/2024/5/7/24148451/apple-m4-chip-ai-ipad-macbook)
  - [iPad Air gets a faster processor and a supersized 13-inch option](https://appleinsider.com/articles/24/05/07/ipad-air-gets-a-faster-processor-and-a-supersized-13-inch-option?utm_medium=rss)
- - [Apple announces new iPad Pros with OLED displays and thinnest design ever](https://www.theverge.com/2024/5/7/24146276/apple-ipad-pro-oled-features-specs-let-loose-event)
- - [Apple announces new $599+ 11&quot; and $799+ 13&quot; iPad Airs, featuring the M2 chip and landscape front cameras, available in four colors, available next week &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/240507/p20#a240507p20)
- - [Apple adds a 13-inch iPad Air to the mix](https://www.theverge.com/2024/5/7/24090026/apple-ipad-air-m2-size-features-specs-2024)<!-- TECH:END -->
+ - [The Alleged LockBit Ransomware Mastermind Has Been Identified](https://www.wired.com/story/lockbitsupp-lockbit-ransomware/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

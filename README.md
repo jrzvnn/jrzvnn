@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This is the Sonos Roam 2 portable speaker](https://www.theverge.com/2024/5/7/24151392/sonos-roam-2-speaker-features-design-exclusive)
  - [iPad Air shootout -- 2024 M2 iPad Air vs M1 iPad Air compared](https://appleinsider.com/inside/ipad-air/vs/ipad-air-shootout----2024-m2-ipad-air-vs-m1-ipad-air-compared?utm_medium=rss)
  - [Walmart’s Google-powered streaming box and smart speaker combo is live](https://www.theverge.com/2024/5/7/24151265/walmart-onn-4k-pro-google-tv-available)
  - [The 50 Best Shows on Disney+ Right Now](https://www.wired.com/story/best-shows-disney-plus/)
- - [Amazon launches Bedrock Studio in public preview, a web tool to help orgs experiment with and collaborate on generative AI models and then build AI-powered apps &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240507/p34#a240507p34)
- - [OpenAI Offers an Olive Branch to Artists Wary of Feeding AI Algorithms](https://www.wired.com/story/openai-olive-branch-artists-ai-algorithms/)<!-- TECH:END -->
+ - [Amazon launches Bedrock Studio in public preview, a web tool to help orgs experiment with and collaborate on generative AI models and then build AI-powered apps &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240507/p34#a240507p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

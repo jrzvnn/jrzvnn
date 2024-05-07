@@ -173,10 +173,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hopefully no one was hurt](http://9gag.com/gag/aO8qAV2)
- - 😝 [Bride caught cheating with bartender at rehearsal by best man](http://9gag.com/gag/aKGzXX3)
- - 💣 [Lol](http://9gag.com/gag/a9ydeNm)
- - 😝 [So close yet, so far](http://9gag.com/gag/aKGznMj)
+ - 😝 [Every story deserves a happy ending](http://9gag.com/gag/arypEXp)
+ - 😝 [He knows to much](http://9gag.com/gag/aPAv2jq)
+ - 💣 [Fair rules](http://9gag.com/gag/aByKzVO)
+ - 😝 [What was that? Meh, probably just the wind...](http://9gag.com/gag/aGy9qy6)
  - 👉 [What are some heartwarming things grandmothers always do?](http://9gag.com/gag/axyN8VW)<!-- MEMES:END -->
 
 ---

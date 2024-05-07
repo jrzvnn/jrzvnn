@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If mass deportations don\u2019t start soon, you\u2019ll pretty much be forced to submit to their whims](http://9gag.com/gag/ae9Nymp)
- - 😝 [Man&#39;s best friend isn&#39;t always Man&#39;s best friend.](http://9gag.com/gag/aAyYNOp)
- - 💣 [No heavy breathing.](http://9gag.com/gag/avy0q8d)
- - 😝 [Oops!](http://9gag.com/gag/apRqjw8)
+ - 😝 [Man that&#39;s bad](http://9gag.com/gag/avy0w2n)
+ - 😝 [Red Hot Ball VS Aloe Vera.](http://9gag.com/gag/aqympVZ)
+ - 💣 [Oops!](http://9gag.com/gag/apRqjw8)
+ - 😝 [Lol](http://9gag.com/gag/a9ydeNm)
  - 👉 [What are some heartwarming things grandmothers always do?](http://9gag.com/gag/axyN8VW)<!-- MEMES:END -->
 
 ---

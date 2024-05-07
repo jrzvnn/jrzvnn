@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lyft reports Q1 revenue up 28% YoY to $1.3B, a $31.5M net loss, gross bookings up 21%, active riders growing at the fastest pace since 2022, up 12% YoY to 21.9M &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/240507/p37#a240507p37)
+ - [Reddit Q1: revenue up 48% YoY to $243M, vs. $212.8M est., net loss of $575.1M, driven by IPO expenses, and DAUq total up 37% to 82.7M; RDDT up 15%+ after hours &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240507/p36#a240507p36)
  - [Compression-mounted laptop RAM is fast, efficient, and upgradeable](https://www.theverge.com/2024/5/7/24151369/lpcamm2-laptop-memory-ram-lenovo-ifixit)
  - [Meta announces an update to its AI ad tools, which can now make full new images, not just backgrounds, and claims it&#39;s adding strong guardrails to prevent abuse &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240507/p35#a240507p35)
- - [Apple Pencil Pro brings squeeze gestures to new iPads for $129](https://appleinsider.com/articles/24/05/07/apple-pencil-pro-brings-new-squeeze-gestures-for-ipad?utm_medium=rss)
- - [Inside the Climate Protests Hellbent on Stopping Tesla](https://www.wired.com/story/tesla-forest-protest-environment-sham/)
- - [FCC Closes ‘Fast Lane’ Loophole in Final Net Neutrality Order](https://www.wired.com/story/fcc-fast-lane-loophole-final-net-neutrality-order/)<!-- TECH:END -->
+ - [Apple Pencil Pro brings squeeze gestures to new iPads for $129](https://appleinsider.com/articles/24/05/07/apple-pencil-pro-brings-new-squeeze-gestures-for-ipad?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

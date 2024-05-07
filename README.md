@@ -168,7 +168,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [7 Best E-Readers &lpar;2024&rpar;: Kindle, Nook, Kobo](https://www.wired.com/gallery/best-ereaders/)
  - [Tubi is launching a new ‘fan-fueled’ studio to cultivate the next generation of filmmakers](https://www.theverge.com/2024/5/7/24148211/tubi-stubios-nicole-parlapiano)
  - [The Answer to Election Deniers Is in an Idaho County Website](https://www.wired.com/story/ballot-verifier-idaho-new-tech-election-deniers/)
- - [Avid Readers: Upgrade to a Kindle E-Reader While Select Models Are Up to 28% Off     - CNET](https://www.cnet.com/deals/avid-readers-upgrade-to-a-kindle-e-reader-while-select-models-are-up-to-28-off/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon’s latest Echo Show 5 and Show 8 are nearly matching their all-time lows](https://www.theverge.com/2024/5/7/24150129/amazon-echo-show-8-5-beats-studio-pro-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

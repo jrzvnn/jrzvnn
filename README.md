@@ -165,10 +165,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [iPad Air shootout -- 2024 M2 iPad Air vs M1 iPad Air compared](https://appleinsider.com/inside/ipad-air/vs/ipad-air-shootout----2024-m2-ipad-air-vs-m1-ipad-air-compared?utm_medium=rss)
+ - [Walmart’s Google-powered streaming box and smart speaker combo is live](https://www.theverge.com/2024/5/7/24151265/walmart-onn-4k-pro-google-tv-available)
  - [The 50 Best Shows on Disney+ Right Now](https://www.wired.com/story/best-shows-disney-plus/)
  - [Amazon launches Bedrock Studio in public preview, a web tool to help orgs experiment with and collaborate on generative AI models and then build AI-powered apps &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240507/p34#a240507p34)
- - [OpenAI Offers an Olive Branch to Artists Wary of Feeding AI Algorithms](https://www.wired.com/story/openai-olive-branch-artists-ai-algorithms/)
- - [Apple in talks with Rivian, likely over Apple Car revival](https://appleinsider.com/articles/24/05/07/apple-car-may-not-be-cancelled-as-apple-discusses-partnership-with-rivian?utm_medium=rss)<!-- TECH:END -->
+ - [OpenAI Offers an Olive Branch to Artists Wary of Feeding AI Algorithms](https://www.wired.com/story/openai-olive-branch-artists-ai-algorithms/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

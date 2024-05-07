@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Pencil buyer&#39;s guide -- which of the four models works with your iPad?](https://appleinsider.com/articles/24/05/07/apple-pencil-buyers-guide----which-of-the-four-models-works-with-your-ipad?utm_medium=rss)
  - [Apple&#39;s new release candidates betas arrive for everything but Mac and Apple Vision Pro](https://appleinsider.com/articles/24/05/07/apples-new-release-candidates-betas-arrive-for-everything-but-mac-and-apple-vision-pro?utm_medium=rss)
  - [Apple rolls out the fifth visionOS 1.2 beta](https://appleinsider.com/articles/24/05/07/apple-rolls-out-the-fifth-visionos-12-beta?utm_medium=rss)
  - [Google’s Pixel Tablet relaunch at $399 makes its magnetic dock optional](https://www.theverge.com/2024/5/7/24151269/google-pixel-tablet-price-drop-dock-optional)
- - [TikTok Sues the US Government to Stop a Potential Ban](https://www.wired.com/story/tiktok-ban-lawsuit-government-first-amendment/)
- - [Apple&#39;s new iPad Pro gets M4 power, advanced Tandem OLED screens](https://appleinsider.com/articles/24/05/07/apples-new-ipad-pro-gets-m4-power-advanced-tandem-oled-screens?utm_medium=rss)<!-- TECH:END -->
+ - [TikTok Sues the US Government to Stop a Potential Ban](https://www.wired.com/story/tiktok-ban-lawsuit-government-first-amendment/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

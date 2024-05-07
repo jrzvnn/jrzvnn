@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I Rode Saga&#39;s HoloBike and Things Got a Little Weird](https://www.wired.com/story/saga-holographic-bike-kickstarter-launch/)
+ - [SSDI May 2024 Payment: Is Your Check Coming This Week?     - CNET](https://www.cnet.com/personal-finance/ssdi-may-payment-2024-is-your-check-coming-this-week/#ftag=CAD590a51e)
  - [Nintendo reports net profit up 13% YoY to ~$3.2B in the past fiscal year and expects profit to drop 39% YoY and revenue to drop 19% YoY in this fiscal year &lpar;Kosaku Narioka/Wall Street Journal&rpar;](http://www.techmeme.com/240507/p4#a240507p4)
  - [Nintendo President Shuntaro Furukawa says the company plans to announce its Switch successor in the coming year; the Switch has sold 141M+ units since 2017 &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/240507/p3#a240507p3)
- - [Switch 2 will be revealed before April 2025, promises Nintendo](https://www.theverge.com/2024/5/7/24150891/nintendo-switch-2-console-announcement-earnings-q4-2024)
- - [A look at Campaign Nucleus, an AI company from ex-Trump campaign manager Brad Parscale, who says its AI can generate emails, gauge voter sentiment, and more &lpar;Associated Press&rpar;](http://www.techmeme.com/240507/p2#a240507p2)
- - [Amazon announces plans to double its cloud infrastructure investment in Singapore to $9B over the next four years, to meet the cloud and AI demand &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/240507/p1#a240507p1)<!-- TECH:END -->
+ - [School Year Over? Here&#39;s What to Do With All of Your College Dorm Stuff Over the Summer     - CNET](https://www.cnet.com/home/services/school-year-over-heres-what-to-do-with-all-of-your-college-dorm-stuff-over-the-summer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

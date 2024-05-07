@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPad Pro hands-on: its thin design is the first thing you notice, the upgraded Magic Keyboard&#39;s body and trackpad are much higher-end than in the previous model &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240507/p26#a240507p26)
- - [The &#39;Let Loose&#39; event was the first to be edited on iPad using Final Cut Pro](https://appleinsider.com/articles/24/05/07/the-let-loose-event-was-the-first-to-be-edited-on-ipad-using-final-cut-pro?utm_medium=rss)
- - [Apple May 2024 iPad Event: iPad Pro, iPad Air, M4, Apple Pencil, Magic Keyboard](https://www.wired.com/story/ipad-pro-ipad-air-2024-everthing-apple-announced/)
- - [Apple&#39;s new iPad Pro gets M4 power, advanced Tandem OLED screens](https://appleinsider.com/articles/24/05/07/apples-new-ipad-pro-gets-m4-power-advanced-tandem-oled-screens?utm_medium=rss)
- - [UK and US authorities identify and charge the leader of the LockBit ransomware gang, a 31-year-old Russian national; the US also issued sanctions against him &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240507/p25#a240507p25)<!-- TECH:END -->
+ - [OpenAI strikes licensing deal with the magazine giant behind People](https://www.theverge.com/2024/5/7/24151171/openai-dotdash-meredith-people-instyle-licensing)
+ - [Can drones help the National Weather Service better predict a devastating tornado?](https://www.theverge.com/24150991/national-weather-service-verizon-drones-tornado-storm)
+ - [OpenAI says it&#39;s developing a Media Manager tool, slated for release by 2025, to let content owners identify their works to OpenAI and control how they are used &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240507/p27#a240507p27)
+ - [iPad Pro hands-on: its thin design is the first thing you notice; the upgraded Magic Keyboard&#39;s body and trackpad are much higher-end than in the previous model &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240507/p26#a240507p26)
+ - [The &#39;Let Loose&#39; event was the first to be edited on iPad using Final Cut Pro](https://appleinsider.com/articles/24/05/07/the-let-loose-event-was-the-first-to-be-edited-on-ipad-using-final-cut-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

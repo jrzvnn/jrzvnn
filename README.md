@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just think about it](http://9gag.com/gag/azxb35N)
- - 😝 [This is what happens when a society lacks diversity.](http://9gag.com/gag/aByK5b1)
- - 💣 [That&#39;s a goat review](http://9gag.com/gag/arypL90)
- - 😝 [When you realize that you were once the enemy within. Self-awareness is important](http://9gag.com/gag/aGy94dn)
- - 👉 [Real life Cartoon Charakter](http://9gag.com/gag/aByKeA1)<!-- MEMES:END -->
+ - 😝 [Excited dog](http://9gag.com/gag/a1mAjRD)
+ - 😝 [Bride caught cheating with bartender at rehearsal by best man](http://9gag.com/gag/aKGzXX3)
+ - 💣 [What privicy?](http://9gag.com/gag/aPAvq2w)
+ - 😝 [Now this is good..](http://9gag.com/gag/aryp7yV)
+ - 👉 [Sounds like a bad day](http://9gag.com/gag/a0e93yz)<!-- MEMES:END -->
 
 ---
 

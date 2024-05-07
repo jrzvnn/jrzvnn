@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon’s Delivery Drones Won&#39;t Fly in Arizona&#39;s Summer Heat](https://www.wired.com/story/amazon-delivery-drones-heat-grounded-summer/)
+ - [US and Chinese diplomats plan to meet later in May to find common ground on AI usage and situations where AI should be banned, like controlling nuclear arsenals &lpar;David E. Sanger/New York Times&rpar;](http://www.techmeme.com/240507/p6#a240507p6)
  - [OpenSecrets: crypto sector-backed super PACs have raised $102M+ so far, the third-most of 2024 election PACs, including $54M from companies like Coinbase &lpar;Rick Claypool/Public Citizen&rpar;](http://www.techmeme.com/240507/p5#a240507p5)
  - [Apple Car may not be cancelled as Apple discusses partnership with Rivian](https://appleinsider.com/articles/24/05/07/apple-car-may-not-be-cancelled-as-apple-discusses-partnership-with-rivian?utm_medium=rss)
- - [I Rode Saga&#39;s HoloBike and Things Got a Little Weird](https://www.wired.com/story/saga-holographic-bike-kickstarter-launch/)
- - [Nintendo reports net profit up 13% YoY to ~$3.2B in the past fiscal year and expects profit to drop 39% YoY and revenue to drop 19% YoY in this fiscal year &lpar;Kosaku Narioka/Wall Street Journal&rpar;](http://www.techmeme.com/240507/p4#a240507p4)
- - [Nintendo President Shuntaro Furukawa says the company plans to announce its Switch successor in the coming year; the Switch has sold 141M+ units since 2017 &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/240507/p3#a240507p3)<!-- TECH:END -->
+ - [I Rode Saga&#39;s HoloBike and Things Got a Little Weird](https://www.wired.com/story/saga-holographic-bike-kickstarter-launch/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

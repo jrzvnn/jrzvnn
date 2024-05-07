@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What was that? Meh, probably just the wind...](http://9gag.com/gag/aGy9qy6)
- - 😝 [Lol](http://9gag.com/gag/a9ydeNm)
- - 💣 [Excited dog](http://9gag.com/gag/a1mAjRD)
- - 😝 [At the gym during the busiest time of day](http://9gag.com/gag/a4P4y4m)
- - 👉 [Thank you for flying Blender Air!](http://9gag.com/gag/aRBQd4A)<!-- MEMES:END -->
+ - 😝 [Dont know why we think like that](http://9gag.com/gag/aRBQd07)
+ - 😝 [Just think about it](http://9gag.com/gag/azxb35N)
+ - 💣 [Best legal solution](http://9gag.com/gag/aAyYzDR)
+ - 😝 [Save for later:](http://9gag.com/gag/agmybdW)
+ - 👉 [This is what happens when a society lacks diversity.](http://9gag.com/gag/aByK5b1)<!-- MEMES:END -->
 
 ---
 

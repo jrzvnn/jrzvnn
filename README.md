@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft deploys a generative AI model entirely divorced from the internet, saying US intel agencies can now harness the tech to analyze top secret information &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/240507/p15#a240507p15)
+ - [Delta’s 10-year journey to the top of the App Store](https://www.theverge.com/24150467/delta-emulator-apple-app-voice-notes-ai-vergecast)
  - [Disney’s streaming business gets closer to becoming profitable](https://www.theverge.com/2024/5/7/24150986/disney-streaming-business-earnings-q2-2024)
  - [7 Best E-Readers &lpar;2024&rpar;: Kindle, Nook, Kobo](https://www.wired.com/gallery/best-ereaders/)
- - [Tubi is launching a new ‘fan-fueled’ studio to cultivate the next generation of filmmakers](https://www.theverge.com/2024/5/7/24148211/tubi-stubios-nicole-parlapiano)
- - [The Answer to Election Deniers Is in an Idaho County Website](https://www.wired.com/story/ballot-verifier-idaho-new-tech-election-deniers/)
- - [Amazon’s latest Echo Show 5 and Show 8 are nearly matching their all-time lows](https://www.theverge.com/2024/5/7/24150129/amazon-echo-show-8-5-beats-studio-pro-deal-sale)<!-- TECH:END -->
+ - [Tubi is launching a new ‘fan-fueled’ studio to cultivate the next generation of filmmakers](https://www.theverge.com/2024/5/7/24148211/tubi-stubios-nicole-parlapiano)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

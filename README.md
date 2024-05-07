@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Excited dog](http://9gag.com/gag/a1mAjRD)
- - 😝 [Bride caught cheating with bartender at rehearsal by best man](http://9gag.com/gag/aKGzXX3)
- - 💣 [What privicy?](http://9gag.com/gag/aPAvq2w)
- - 😝 [Now this is good..](http://9gag.com/gag/aryp7yV)
- - 👉 [Sounds like a bad day](http://9gag.com/gag/a0e93yz)<!-- MEMES:END -->
+ - 😝 [Sounds like a bad day](http://9gag.com/gag/a0e93yz)
+ - 😝 [What was that? Meh, probably just the wind...](http://9gag.com/gag/aGy9qy6)
+ - 💣 [Now this is good..](http://9gag.com/gag/aryp7yV)
+ - 😝 [No heavy breathing.](http://9gag.com/gag/avy0q8d)
+ - 👉 [That plot twist in the middle \ud83e\udd23\ud83e\udd23](http://9gag.com/gag/an7YZ8E)<!-- MEMES:END -->
 
 ---
 

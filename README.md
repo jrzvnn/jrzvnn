@@ -173,10 +173,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Man that&#39;s bad](http://9gag.com/gag/avy0w2n)
- - 😝 [Red Hot Ball VS Aloe Vera.](http://9gag.com/gag/aqympVZ)
- - 💣 [Oops!](http://9gag.com/gag/apRqjw8)
- - 😝 [Lol](http://9gag.com/gag/a9ydeNm)
+ - 😝 [It\u2019s basically just crispy pig candy](http://9gag.com/gag/aVvOrrP)
+ - 😝 [Unending Debate!\ud83e\udd26\ud83c\udffb](http://9gag.com/gag/amoXQmj)
+ - 💣 [What was that? Meh, probably just the wind...](http://9gag.com/gag/aGy9qy6)
+ - 😝 [Bro evolved so fast in like 20 years](http://9gag.com/gag/aByKzrN)
  - 👉 [What are some heartwarming things grandmothers always do?](http://9gag.com/gag/axyN8VW)<!-- MEMES:END -->
 
 ---

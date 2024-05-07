@@ -173,10 +173,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It\u2019s basically just crispy pig candy](http://9gag.com/gag/aVvOrrP)
- - 😝 [Unending Debate!\ud83e\udd26\ud83c\udffb](http://9gag.com/gag/amoXQmj)
- - 💣 [What was that? Meh, probably just the wind...](http://9gag.com/gag/aGy9qy6)
- - 😝 [Bro evolved so fast in like 20 years](http://9gag.com/gag/aByKzrN)
+ - 😝 [No heavy breathing.](http://9gag.com/gag/avy0q8d)
+ - 😝 [Tarantino moment](http://9gag.com/gag/aVvO8Zw)
+ - 💣 [Thousands of Irish People Protesting Again The Invasion of Ireland](http://9gag.com/gag/axyNw02)
+ - 😝 [He knows to much](http://9gag.com/gag/aPAv2jq)
  - 👉 [What are some heartwarming things grandmothers always do?](http://9gag.com/gag/axyN8VW)<!-- MEMES:END -->
 
 ---

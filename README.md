@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Match Group reports Q1 revenue up 9% YoY to $859.6M, vs. $855.5M est., paying users down 6% YoY to 14.9M, and forecasts Q2 revenue below expectations &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/240507/p38#a240507p38)
  - [Lyft reports Q1 revenue up 28% YoY to $1.3B, a $31.5M net loss, gross bookings up 21%, active riders growing at the fastest pace since 2022, up 12% YoY to 21.9M &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/240507/p37#a240507p37)
  - [Reddit Q1: revenue up 48% YoY to $243M, vs. $212.8M est., net loss of $575.1M, driven by IPO expenses, and DAUq total up 37% to 82.7M; RDDT up 15%+ after hours &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240507/p36#a240507p36)
  - [Compression-mounted laptop RAM is fast, efficient, and upgradeable](https://www.theverge.com/2024/5/7/24151369/lpcamm2-laptop-memory-ram-lenovo-ifixit)
- - [Meta announces an update to its AI ad tools, which can now make full new images, not just backgrounds, and claims it&#39;s adding strong guardrails to prevent abuse &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240507/p35#a240507p35)
- - [Apple Pencil Pro brings squeeze gestures to new iPads for $129](https://appleinsider.com/articles/24/05/07/apple-pencil-pro-brings-new-squeeze-gestures-for-ipad?utm_medium=rss)<!-- TECH:END -->
+ - [Meta announces an update to its AI ad tools, which can now make full new images, not just backgrounds, and claims it&#39;s adding strong guardrails to prevent abuse &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240507/p35#a240507p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

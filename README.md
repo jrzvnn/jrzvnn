@@ -173,9 +173,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Honest answer from Sony.](http://9gag.com/gag/aNDe5er)
- - 😝 [I&#39;m shocked!](http://9gag.com/gag/aAyYLOE)
- - 💣 [Wait a second](http://9gag.com/gag/aMV1Lz6)
+ - 😝 [What was that? Meh, probably just the wind...](http://9gag.com/gag/aGy9qy6)
+ - 😝 [Lol](http://9gag.com/gag/a9ydeNm)
+ - 💣 [Excited dog](http://9gag.com/gag/a1mAjRD)
  - 😝 [At the gym during the busiest time of day](http://9gag.com/gag/a4P4y4m)
  - 👉 [Thank you for flying Blender Air!](http://9gag.com/gag/aRBQd4A)<!-- MEMES:END -->
 

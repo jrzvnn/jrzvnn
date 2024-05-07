@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tim Cook sports Nike sneakers custom made for the iPad launch](https://appleinsider.com/articles/24/05/07/tim-cook-sports-nike-sneakers-custom-made-for-the-ipad-launch?utm_medium=rss)
  - [Apple&#39;s talks with Rivian, likely over Apple Car revival](https://appleinsider.com/articles/24/05/07/apple-car-may-not-be-cancelled-as-apple-discusses-partnership-with-rivian?utm_medium=rss)
  - [Assets in iOS 17.5 unveil new Beats Pill, hint at imminent release](https://appleinsider.com/articles/24/05/07/assets-in-ios-175-unveil-new-beats-pill-hint-at-imminent-release?utm_medium=rss)
  - [Met Gala Deepfakes Are Flooding Social Media](https://www.wired.com/story/met-gala-deepfakes-katy-perry-rihanna/)
- - [How to set up eSIM on a new iPhone](https://www.theverge.com/23449775/esim-iphone-14-how-to-verizon-att-t-mobile)
- - [Amazon adds 50 electric trucks to its delivery fleet in a bid to reduce pollution](https://www.theverge.com/2024/5/7/24151187/amazon-electric-truck-volvo-first-middle-last-mile)<!-- TECH:END -->
+ - [How to set up eSIM on a new iPhone](https://www.theverge.com/23449775/esim-iphone-14-how-to-verizon-att-t-mobile)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

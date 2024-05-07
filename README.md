@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bride caught cheating with bartender at rehearsal by best man](http://9gag.com/gag/aKGzXX3)
- - 😝 [Lol](http://9gag.com/gag/a9ydeNm)
- - 💣 [Thank you for flying Blender Air!](http://9gag.com/gag/aRBQd4A)
+ - 😝 [Excited dog](http://9gag.com/gag/a1mAjRD)
  - 😝 [Not many i think](http://9gag.com/gag/ayN5w9V)
- - 👉 [Sounds like a bad day](http://9gag.com/gag/a0e93yz)<!-- MEMES:END -->
+ - 💣 [Lol](http://9gag.com/gag/a9ydeNm)
+ - 😝 [This man tried to tell the truth to the world 100 years ago and no one listened. Now we are watching 4k videos of Arabs raping, killing and beheading citizens in their own countries and European countries!... protect your country and your people](http://9gag.com/gag/amoXQ34)
+ - 👉 [Bride caught cheating with bartender at rehearsal by best man](http://9gag.com/gag/aKGzXX3)<!-- MEMES:END -->
 
 ---
 

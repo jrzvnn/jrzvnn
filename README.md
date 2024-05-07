@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That plot twist in the middle \ud83e\udd23\ud83e\udd23](http://9gag.com/gag/an7YZ8E)
- - 😝 [Excited dog](http://9gag.com/gag/a1mAjRD)
- - 💣 [Thank you for flying Blender Air!](http://9gag.com/gag/aRBQd4A)
- - 😝 [This man tried to tell the truth to the world 100 years ago and no one listened. Now we are watching 4k videos of Arabs raping, killing and beheading citizens in their own countries and European countries!... protect your country and your people](http://9gag.com/gag/amoXQ34)
- - 👉 [At the gym during the busiest time of day](http://9gag.com/gag/a4P4y4m)<!-- MEMES:END -->
+ - 😝 [Honest answer from Sony.](http://9gag.com/gag/aNDe5er)
+ - 😝 [I&#39;m shocked!](http://9gag.com/gag/aAyYLOE)
+ - 💣 [Wait a second](http://9gag.com/gag/aMV1Lz6)
+ - 😝 [At the gym during the busiest time of day](http://9gag.com/gag/a4P4y4m)
+ - 👉 [Thank you for flying Blender Air!](http://9gag.com/gag/aRBQd4A)<!-- MEMES:END -->
 
 ---
 

@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lmao, Helldivers 2 dev putting steam chart review in the game cosmetic](http://9gag.com/gag/adBNzYD)
- - 😝 [At the gym during the busiest time of day](http://9gag.com/gag/a4P4y4m)
- - 💣 [Bride caught cheating with bartender at rehearsal by best man](http://9gag.com/gag/aKGzXX3)
+ - 😝 [Ladies and gents, the president of Portugal](http://9gag.com/gag/a7o5xWq)
  - 😝 [Excited dog](http://9gag.com/gag/a1mAjRD)
- - 👉 [Honest answer from Sony.](http://9gag.com/gag/aNDe5er)<!-- MEMES:END -->
+ - 💣 [So close yet, so far](http://9gag.com/gag/aKGznMj)
+ - 😝 [What was that? Meh, probably just the wind...](http://9gag.com/gag/aGy9qy6)
+ - 👉 [This man tried to tell the truth to the world 100 years ago and no one listened. Now we are watching 4k videos of Arabs raping, killing and beheading citizens in their own countries and European countries!... protect your country and your people](http://9gag.com/gag/amoXQ34)<!-- MEMES:END -->
 
 ---
 

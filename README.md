@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple lowers the price of 10th-gen iPads $100 to $349 and discontinues the 9th-gen iPad with Home button and headphone jack &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/240507/p33#a240507p33)
- - [The new iPad Pro drops the ultra-wide camera; 1TB and 2TB models have 16GB RAM and M4 chips with 10-core CPUs, vs. 8GB RAM and 9-core CPU M4 in 256/512GB models &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/240507/p32#a240507p32)
- - [The new iPads are ditching physical SIM cards](https://www.theverge.com/2024/5/7/24151262/apple-ipad-pro-air-esim-only)
- - [Apple Pencil buyer&#39;s guide -- which of the four models works with your iPad?](https://appleinsider.com/articles/24/05/07/apple-pencil-buyers-guide----which-of-the-four-models-works-with-your-ipad?utm_medium=rss)
- - [Apple&#39;s new release candidates betas arrive for everything but Mac and Apple Vision Pro](https://appleinsider.com/articles/24/05/07/apples-new-release-candidates-betas-arrive-for-everything-but-mac-and-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s talks with Rivian, likely over Apple Car revival](https://appleinsider.com/articles/24/05/07/apple-car-may-not-be-cancelled-as-apple-discusses-partnership-with-rivian?utm_medium=rss)
+ - [Assets in iOS 17.5 unveil new Beats Pill, hint at imminent release](https://appleinsider.com/articles/24/05/07/assets-in-ios-175-unveil-new-beats-pill-hint-at-imminent-release?utm_medium=rss)
+ - [Met Gala Deepfakes Are Flooding Social Media](https://www.wired.com/story/met-gala-deepfakes-katy-perry-rihanna/)
+ - [How to set up eSIM on a new iPhone](https://www.theverge.com/23449775/esim-iphone-14-how-to-verizon-att-t-mobile)
+ - [Amazon adds 50 electric trucks to its delivery fleet in a bid to reduce pollution](https://www.theverge.com/2024/5/7/24151187/amazon-electric-truck-volvo-first-middle-last-mile)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

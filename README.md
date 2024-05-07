@@ -167,8 +167,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [How to add fonts in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-add-fonts-in-macos-sonoma?utm_medium=rss)
  - [Q&amp;A with Ethereum co-founder and Consensys CEO Joe Lubin on Consensys&#39; lawsuit against the SEC, implications of SEC classifying ETH as a security, and more &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/240506/p29#a240506p29)
  - [Boeing Starliner’s crew flight test delayed due to a valve problem](https://www.theverge.com/24150483/nasa-boeing-starliner-launch-livestream-watch)
- - [Secret Apple &#39;Project ACDC&#39; to pioneer AI chips for data centers](https://appleinsider.com/articles/24/05/07/secret-apple-project-acdc-to-pioneer-ai-chips-for-data-centers?utm_medium=rss)
- - [Why the Cybersecurity Industry Is Obsessed With AI Right Now     - CNET](https://www.cnet.com/tech/services-and-software/rsa-conference-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Multivitamins for 2024     - CNET](https://www.cnet.com/health/nutrition/best-multivitamins/#ftag=CAD590a51e)
+ - [Secret Apple &#39;Project ACDC&#39; to pioneer AI chips for data centers](https://appleinsider.com/articles/24/05/07/secret-apple-project-acdc-to-pioneer-ai-chips-for-data-centers?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&#39;s hexacopter drones, planned for use in Tolleson, Arizona, can&#39;t operate when temperatures top 104&amp;deg;F, less than the average summer highs in the city &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/240507/p16#a240507p16)
- - [ESPN is coming to the Disney Plus app](https://www.theverge.com/2024/5/7/24151011/espn-tile-disney-plus-app-earnings-q2-2024)
- - [Microsoft shuts down Bethesda studios behind Redfall and Hi-Fi Rush](https://www.theverge.com/24151047/xbox-shuts-down-arkane-austin-tango-gameworks-microsoft)
- - [Apple Store goes down ahead of &#39;Let Loose&#39; iPad event](https://appleinsider.com/articles/24/05/07/apple-store-goes-down-ahead-of-let-loose-ipad-event?utm_medium=rss)
- - [Apple’s ‘Let Loose’ event live blog: iPads all the way down](https://www.theverge.com/2024/5/7/24151030/apple-ipad-let-loose-event-live-blog-news-updates)<!-- TECH:END -->
+ - [Cloud security startup Wiz raised a $1B Series E co-led by a16z, Lightspeed, and Thrive at a $12B valuation, and plans to expand its business via acquisitions &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240507/p19#a240507p19)
+ - [A livestream of Apple&#39;s &quot;Let Loose&quot; event &lpar;Apple on YouTube&rpar;](http://www.techmeme.com/240507/p18#a240507p18)
+ - [8 Best Baby Carriers &lpar;2024&rpar;: Wraps, Slings, and Packs](https://www.wired.com/gallery/best-baby-carriers/)
+ - [Apple iPad event: all the news from Apple’s ‘Let Loose’ reveal](https://www.theverge.com/2024/5/7/24150047/apple-ipad-let-loose-event-news-announcements)
+ - [A live blog of Apple&#39;s &quot;Let Loose&quot; event, where OLED iPad Pros, a bigger iPad Air, a more laptop-esque Magic Keyboard, and a &quot;pro&quot; style Pencil are expected &lpar;The Verge&rpar;](http://www.techmeme.com/240507/p17#a240507p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

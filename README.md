@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources and messages: Binance compliance officer Tigran Gambaryan told executives and Nigerian contacts of a $150M crypto bribe request, prior to his arrest &lpar;New York Times&rpar;](http://www.techmeme.com/240507/p8#a240507p8)
  - [Yubico bolsters authentication security with updated YubiKey 5 series devices](https://www.theverge.com/2024/5/7/24150918/yubico-5-7-firmware-update-security-key-yubikey-5)
  - [German chipmaker Infineon cuts its revenue forecast in the year to September 2024 to &amp;euro;15.1B, below &amp;euro;15.7B est., signaling automotive chip demand remains weak &lpar;Bloomberg&rpar;](http://www.techmeme.com/240507/p7#a240507p7)
  - [Amazon’s Delivery Drones Won&#39;t Fly in Arizona&#39;s Summer Heat](https://www.wired.com/story/amazon-delivery-drones-heat-grounded-summer/)
- - [US and Chinese diplomats plan to meet later in May to find common ground on AI usage and situations where AI should be banned, like controlling nuclear arsenals &lpar;David E. Sanger/New York Times&rpar;](http://www.techmeme.com/240507/p6#a240507p6)
- - [OpenSecrets: crypto sector-backed super PACs have raised $102M+ so far, the third-most of 2024 election PACs, including $54M from companies like Coinbase &lpar;Rick Claypool/Public Citizen&rpar;](http://www.techmeme.com/240507/p5#a240507p5)<!-- TECH:END -->
+ - [US and Chinese diplomats plan to meet later in May to find common ground on AI usage and situations where AI should be banned, like controlling nuclear arsenals &lpar;David E. Sanger/New York Times&rpar;](http://www.techmeme.com/240507/p6#a240507p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

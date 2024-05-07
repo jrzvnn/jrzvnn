@@ -173,9 +173,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [At the gym during the busiest time of day](http://9gag.com/gag/a4P4y4m)
+ - 😝 [What was that? Meh, probably just the wind...](http://9gag.com/gag/aGy9qy6)
  - 😝 [Thank you for flying Blender Air!](http://9gag.com/gag/aRBQd4A)
- - 💣 [What was that? Meh, probably just the wind...](http://9gag.com/gag/aGy9qy6)
+ - 💣 [Lol](http://9gag.com/gag/a9ydeNm)
  - 😝 [Excited dog](http://9gag.com/gag/a1mAjRD)
  - 👉 [What are some heartwarming things grandmothers always do?](http://9gag.com/gag/axyN8VW)<!-- MEMES:END -->
 

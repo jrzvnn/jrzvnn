@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Excited dog](http://9gag.com/gag/a1mAjRD)
- - 😝 [Not many i think](http://9gag.com/gag/ayN5w9V)
- - 💣 [At the gym during the busiest time of day](http://9gag.com/gag/a4P4y4m)
- - 😝 [Bride caught cheating with bartender at rehearsal by best man](http://9gag.com/gag/aKGzXX3)
- - 👉 [This man tried to tell the truth to the world 100 years ago and no one listened. Now we are watching 4k videos of Arabs raping, killing and beheading citizens in their own countries and European countries!... protect your country and your people](http://9gag.com/gag/amoXQ34)<!-- MEMES:END -->
+ - 😝 [Lmao, Helldivers 2 dev putting steam chart review in the game cosmetic](http://9gag.com/gag/adBNzYD)
+ - 😝 [He felt so accomplished](http://9gag.com/gag/a0e9yWL)
+ - 💣 [That&#39;s a goat review](http://9gag.com/gag/arypL90)
+ - 😝 [Save for later:](http://9gag.com/gag/agmybdW)
+ - 👉 [This is what happens when a society lacks diversity.](http://9gag.com/gag/aByK5b1)<!-- MEMES:END -->
 
 ---
 

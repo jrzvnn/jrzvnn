@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The iPad Air is now heavier than the iPad Pro](https://www.theverge.com/2024/5/7/24151193/apple-ipad-air-ipad-pro-weight)
+ - [Disney reported Disney+ and Hulu had an operating income of $47M in Q2, vs. a loss of $587M YoY, the first time the streamers had a combined profit in a quarter &lpar;CNBC&rpar;](http://www.techmeme.com/240507/p31#a240507p31)
  - [All the news on Google’s Pixel 8, 8 Pro, and 8A](https://www.theverge.com/2023/10/12/23914177/google-pixel-8-everything-need-know-news-announcment-review)
  - [Apple previews a new Final Cut Camera mobile app and announces updates for Logic Pro and Final Cut Pro, including Live Multicam, external projects on iPad, more &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240507/p30#a240507p30)
- - [Google unveils Pixel 8a with the Tensor G3 chip, a 6.1&quot; 120Hz OLED with up to 2K nits brightness, and Gemini Nano access, shipping May 14 for $499+ &lpar;Julian Chokkattu/Wired&rpar;](http://www.techmeme.com/240507/p29#a240507p29)
- - [Here’s where you can preorder Apple’s latest iPad Air and iPad Pro](https://www.theverge.com/24144427/ipad-air-pro-preorder-buy-how-to)
- - [Not just iPad -- Mac gets AI-Enhanced Logic Pro &amp; Final Cut Pro updates](https://appleinsider.com/articles/24/05/07/not-just-ipad----mac-gets-ai-enhanced-logic-pro-final-cut-pro-updates?utm_medium=rss)<!-- TECH:END -->
+ - [Google unveils Pixel 8a with the Tensor G3 chip, a 6.1&quot; 120Hz OLED with up to 2K nits brightness, and Gemini Nano access, shipping May 14 for $499+ &lpar;Julian Chokkattu/Wired&rpar;](http://www.techmeme.com/240507/p29#a240507p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Compression-mounted laptop RAM is fast, efficient, and upgradeable](https://www.theverge.com/2024/5/7/24151369/lpcamm2-laptop-memory-ram-lenovo-ifixit)
+ - [Meta announces an update to its AI ad tools, which can now make full new images, not just backgrounds, and claims it&#39;s adding strong guardrails to prevent abuse &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240507/p35#a240507p35)
  - [Apple Pencil Pro brings squeeze gestures to new iPads for $129](https://appleinsider.com/articles/24/05/07/apple-pencil-pro-brings-new-squeeze-gestures-for-ipad?utm_medium=rss)
  - [Inside the Climate Protests Hellbent on Stopping Tesla](https://www.wired.com/story/tesla-forest-protest-environment-sham/)
- - [FCC Closes ‘Fast Lane’ Loophole in Final Net Neutrality Order](https://www.wired.com/story/fcc-fast-lane-loophole-final-net-neutrality-order/)
- - [This is the Sonos Roam 2 portable speaker](https://www.theverge.com/2024/5/7/24151392/sonos-roam-2-speaker-features-design-exclusive)
- - [iPad Air shootout -- 2024 M2 iPad Air vs M1 iPad Air compared](https://appleinsider.com/inside/ipad-air/vs/ipad-air-shootout----2024-m2-ipad-air-vs-m1-ipad-air-compared?utm_medium=rss)<!-- TECH:END -->
+ - [FCC Closes ‘Fast Lane’ Loophole in Final Net Neutrality Order](https://www.wired.com/story/fcc-fast-lane-loophole-final-net-neutrality-order/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

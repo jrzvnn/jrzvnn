@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He knows to much](http://9gag.com/gag/aPAv2jq)
- - 😝 [Just think about it](http://9gag.com/gag/azxb35N)
- - 💣 [Bro evolved so fast in like 20 years](http://9gag.com/gag/aByKzrN)
- - 😝 [Dont know why we think like that](http://9gag.com/gag/aRBQd07)
- - 👉 [This is what happens when a society lacks diversity.](http://9gag.com/gag/aByK5b1)<!-- MEMES:END -->
+ - 😝 [I could almost see her burger](http://9gag.com/gag/a4P4g66)
+ - 😝 [Honest answer from Sony.](http://9gag.com/gag/aNDe5er)
+ - 💣 [Lmao, Helldivers 2 dev putting steam chart review in the game cosmetic](http://9gag.com/gag/adBNzYD)
+ - 😝 [So close yet, so far](http://9gag.com/gag/aKGznMj)
+ - 👉 [Ladies and gents, the president of Portugal](http://9gag.com/gag/a7o5xWq)<!-- MEMES:END -->
 
 ---
 

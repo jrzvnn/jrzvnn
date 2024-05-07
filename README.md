@@ -173,10 +173,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [At the gym during the busiest time of day](http://9gag.com/gag/a4P4y4m)
  - 😝 [Books to open your mind. Suggest more in comments.](http://9gag.com/gag/aYQb5r0)
- - 😝 [Bride caught cheating with bartender at rehearsal by best man](http://9gag.com/gag/aKGzXX3)
- - 💣 [Oops!](http://9gag.com/gag/apRqjw8)
- - 😝 [Seriously?](http://9gag.com/gag/awyrPqR)
+ - 💣 [Seriously?](http://9gag.com/gag/awyrPqR)
+ - 😝 [Before I got married,my aunt suggested transferring my assets to my mom in case the marriage didn&#39;t work out. 2 years later, She was right.](http://9gag.com/gag/aAyYN7o)
  - 👉 [What are some heartwarming things grandmothers always do?](http://9gag.com/gag/axyN8VW)<!-- MEMES:END -->
 
 ---

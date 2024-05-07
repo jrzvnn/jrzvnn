@@ -173,10 +173,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What was that? Meh, probably just the wind...](http://9gag.com/gag/aGy9qy6)
- - 😝 [Thank you for flying Blender Air!](http://9gag.com/gag/aRBQd4A)
- - 💣 [Lol](http://9gag.com/gag/a9ydeNm)
- - 😝 [Excited dog](http://9gag.com/gag/a1mAjRD)
+ - 😝 [Yogafire](http://9gag.com/gag/aByKzbD)
+ - 😝 [Tarantino moment](http://9gag.com/gag/aVvO8Zw)
+ - 💣 [No heavy breathing.](http://9gag.com/gag/avy0q8d)
+ - 😝 [Every story deserves a happy ending](http://9gag.com/gag/arypEXp)
  - 👉 [What are some heartwarming things grandmothers always do?](http://9gag.com/gag/axyN8VW)<!-- MEMES:END -->
 
 ---

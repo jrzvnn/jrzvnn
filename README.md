@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Pencil Pro brings squeeze gestures to new iPads for $129](https://appleinsider.com/articles/24/05/07/apple-pencil-pro-brings-new-squeeze-gestures-for-ipad?utm_medium=rss)
  - [Inside the Climate Protests Hellbent on Stopping Tesla](https://www.wired.com/story/tesla-forest-protest-environment-sham/)
  - [FCC Closes ‘Fast Lane’ Loophole in Final Net Neutrality Order](https://www.wired.com/story/fcc-fast-lane-loophole-final-net-neutrality-order/)
  - [This is the Sonos Roam 2 portable speaker](https://www.theverge.com/2024/5/7/24151392/sonos-roam-2-speaker-features-design-exclusive)
- - [iPad Air shootout -- 2024 M2 iPad Air vs M1 iPad Air compared](https://appleinsider.com/inside/ipad-air/vs/ipad-air-shootout----2024-m2-ipad-air-vs-m1-ipad-air-compared?utm_medium=rss)
- - [Walmart’s Google-powered streaming box and smart speaker combo is live](https://www.theverge.com/2024/5/7/24151265/walmart-onn-4k-pro-google-tv-available)<!-- TECH:END -->
+ - [iPad Air shootout -- 2024 M2 iPad Air vs M1 iPad Air compared](https://appleinsider.com/inside/ipad-air/vs/ipad-air-shootout----2024-m2-ipad-air-vs-m1-ipad-air-compared?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

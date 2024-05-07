@@ -174,9 +174,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [At the gym during the busiest time of day](http://9gag.com/gag/a4P4y4m)
+ - 😝 [Thank you for flying Blender Air!](http://9gag.com/gag/aRBQd4A)
+ - 💣 [What was that? Meh, probably just the wind...](http://9gag.com/gag/aGy9qy6)
  - 😝 [Excited dog](http://9gag.com/gag/a1mAjRD)
- - 💣 [What 30 packs of cigarretes can do to cottton balls](http://9gag.com/gag/a9yd4Ro)
- - 😝 [Most experts know the fun is in the comment section](http://9gag.com/gag/ajPrMoq)
  - 👉 [What are some heartwarming things grandmothers always do?](http://9gag.com/gag/axyN8VW)<!-- MEMES:END -->
 
 ---

@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Switch 2: all the news and rumors on Nintendo’s next console](https://www.theverge.com/24051677/nintendo-switch-2-pro-rumors-news)
+ - [Instacart partners with Uber Eats to expand into restaurant takeout, offering deliveries powered by Uber via Instacart&#39;s app or website in the coming weeks &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/240507/p14#a240507p14)
  - [Amazon launches its online store in South Africa, offering same-day and next-day delivery and 3,000+ pickup points, challenging local rivals like Takealot.com &lpar;Nqobile Dludla/Reuters&rpar;](http://www.techmeme.com/240507/p13#a240507p13)
  - [Akamai agrees to acquire Noname Security, which finds and fixes API vulnerabilities, for ~$450M, closing in Q2 2024; Noname was valued at $1B in December 2021 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240507/p12#a240507p12)
- - [12 Best Sound Machines and White-Noise Machines &lpar;2024&rpar;: Cheap, Night Lights, Lullabies](https://www.wired.com/gallery/best-sound-machines/)
- - [Instacart is getting restaurant delivery — thanks to Uber Eats](https://www.theverge.com/2024/5/7/24150505/instacart-uber-eats-deal-app-restaurant-delivery-takeout)
- - [Refinance Rates Slide Down Again: Mortgage Refinance Rates on May 7, 2024     - CNET](https://www.cnet.com/personal-finance/mortgages/refinance-rates-slide-down-again-mortgage-refinance-rates-on-may-7-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [12 Best Sound Machines and White-Noise Machines &lpar;2024&rpar;: Cheap, Night Lights, Lullabies](https://www.wired.com/gallery/best-sound-machines/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

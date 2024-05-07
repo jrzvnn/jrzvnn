@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI working on new AI image detection tools](https://www.theverge.com/2024/5/7/24151482/openai-image-detection-ai-watermarking-audio)
  - [Ultra Retina XDR OLED screens in iPad Pro are just the latest evolution of Apple&#39;s flagship display tech](https://appleinsider.com/articles/24/05/07/ultra-retina-xdr-oled-screens-in-ipad-pro-are-just-the-latest-evolution-of-apples-flagship-display-tech?utm_medium=rss)
  - [Tesla bought over $2 million worth of lidar sensors from Luminar this year](https://www.theverge.com/2024/5/7/24151497/tesla-lidar-bought-luminar-elon-musk-sensor-autonomous)
  - [GlobalFoundries reports Q1 revenue down 16% YoY to $1.55B, vs. $1.52B est., net income of $134M, and forecasts Q2 revenue above estimates; GFS closes up 7.1% &lpar;Aditya Soni/Reuters&rpar;](http://www.techmeme.com/240507/p41#a240507p41)
- - [The US revokes some licenses that allow companies to ship chips and other goods to Huawei &lpar;Reuters&rpar;](http://www.techmeme.com/240507/p40#a240507p40)
- - [EA reports Q4 revenue down 5% YoY to $1.78B, net income of $182M, net bookings down 14% YoY to $1.67B, and announces a three-year $5B stock buyback &lpar;Brendan Sinclair/GamesIndustry.biz&rpar;](http://www.techmeme.com/240507/p39#a240507p39)<!-- TECH:END -->
+ - [The US revokes some licenses that allow companies to ship chips and other goods to Huawei &lpar;Reuters&rpar;](http://www.techmeme.com/240507/p40#a240507p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

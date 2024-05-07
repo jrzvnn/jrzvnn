@@ -173,10 +173,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lmao, Helldivers 2 dev putting steam chart review in the game cosmetic](http://9gag.com/gag/adBNzYD)
- - 😝 [1 vertical paint please](http://9gag.com/gag/aNDeMA3)
- - 💣 [Thank you for flying Blender Air!](http://9gag.com/gag/aRBQd4A)
- - 😝 [So close yet, so far](http://9gag.com/gag/aKGznMj)
+ - 😝 [Driver records the moment he splashes water on cyclists](http://9gag.com/gag/aLnKOPP)
+ - 😝 [What was that? Meh, probably just the wind...](http://9gag.com/gag/aGy9qy6)
+ - 💣 [Seriously?](http://9gag.com/gag/awyrPqR)
+ - 😝 [Would](http://9gag.com/gag/aO8q5j2)
  - 👉 [What are some heartwarming things grandmothers always do?](http://9gag.com/gag/axyN8VW)<!-- MEMES:END -->
 
 ---

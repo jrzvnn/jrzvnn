@@ -168,7 +168,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Nintendo President Shuntaro Furukawa says the company plans to announce its Switch successor in the coming year; the Switch has sold 141M+ units since 2017 &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/240507/p3#a240507p3)
  - [Switch 2 will be revealed before April 2025, promises Nintendo](https://www.theverge.com/2024/5/7/24150891/nintendo-switch-2-console-announcement-earnings-q4-2024)
  - [A look at Campaign Nucleus, an AI company from ex-Trump campaign manager Brad Parscale, who says its AI can generate emails, gauge voter sentiment, and more &lpar;Associated Press&rpar;](http://www.techmeme.com/240507/p2#a240507p2)
- - [Amazon announces plans to double its cloud infrastructure investment in Singapore to $9B, to be done over the next four years, to meet the cloud and AI demand &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/240507/p1#a240507p1)<!-- TECH:END -->
+ - [Amazon announces plans to double its cloud infrastructure investment in Singapore to $9B over the next four years, to meet the cloud and AI demand &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/240507/p1#a240507p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

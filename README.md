@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ladies and gents, the president of Portugal](http://9gag.com/gag/a7o5xWq)
- - 😝 [Lmao, Helldivers 2 dev putting steam chart review in the game cosmetic](http://9gag.com/gag/adBNzYD)
- - 💣 [Would](http://9gag.com/gag/aO8q5j2)
- - 😝 [Excited dog](http://9gag.com/gag/a1mAjRD)
- - 👉 [At the gym during the busiest time of day](http://9gag.com/gag/a4P4y4m)<!-- MEMES:END -->
+ - 😝 [He knows to much](http://9gag.com/gag/aPAv2jq)
+ - 😝 [Bro evolved so fast in like 20 years](http://9gag.com/gag/aByKzrN)
+ - 💣 [Dont know why we think like that](http://9gag.com/gag/aRBQd07)
+ - 😝 [Rafah today](http://9gag.com/gag/avy0j8b)
+ - 👉 [This is what happens when a society lacks diversity.](http://9gag.com/gag/aByK5b1)<!-- MEMES:END -->
 
 ---
 

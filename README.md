@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple rolls out the fifth visionOS 1.2 beta](https://appleinsider.com/articles/24/05/07/apple-rolls-out-the-fifth-visionos-12-beta?utm_medium=rss)
+ - [Google’s Pixel Tablet relaunch at $399 makes its magnetic dock optional](https://www.theverge.com/2024/5/7/24151269/google-pixel-tablet-price-drop-dock-optional)
+ - [TikTok Sues the US Government to Stop a Potential Ban](https://www.wired.com/story/tiktok-ban-lawsuit-government-first-amendment/)
  - [Apple&#39;s new iPad Pro gets M4 power, advanced Tandem OLED screens](https://appleinsider.com/articles/24/05/07/apples-new-ipad-pro-gets-m4-power-advanced-tandem-oled-screens?utm_medium=rss)
- - [You can upgrade the iPad Pro’s processor now, too](https://www.theverge.com/2024/5/7/24151225/apple-ipad-pro-m4-processor-storage-upgrade-1tb)
- - [The iPad Air is now heavier than the iPad Pro](https://www.theverge.com/2024/5/7/24151193/apple-ipad-air-ipad-pro-weight)
- - [Disney reported Disney+ and Hulu had an operating income of $47M in Q2, vs. a loss of $587M YoY, the first time the streamers had a combined profit in a quarter &lpar;CNBC&rpar;](http://www.techmeme.com/240507/p31#a240507p31)
- - [All the news on Google’s Pixel 8, 8 Pro, and 8A](https://www.theverge.com/2023/10/12/23914177/google-pixel-8-everything-need-know-news-announcment-review)<!-- TECH:END -->
+ - [You can upgrade the iPad Pro’s processor now, too](https://www.theverge.com/2024/5/7/24151225/apple-ipad-pro-m4-processor-storage-upgrade-1tb)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

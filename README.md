@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Lmao, Helldivers 2 dev putting steam chart review in the game cosmetic](http://9gag.com/gag/adBNzYD)
+ - 😝 [At the gym during the busiest time of day](http://9gag.com/gag/a4P4y4m)
+ - 💣 [Bride caught cheating with bartender at rehearsal by best man](http://9gag.com/gag/aKGzXX3)
  - 😝 [Excited dog](http://9gag.com/gag/a1mAjRD)
- - 😝 [Thank you for flying Blender Air!](http://9gag.com/gag/aRBQd4A)
- - 💣 [Seriously?](http://9gag.com/gag/awyrPqR)
- - 😝 [What was that? Meh, probably just the wind...](http://9gag.com/gag/aGy9qy6)
- - 👉 [So close yet, so far](http://9gag.com/gag/aKGznMj)<!-- MEMES:END -->
+ - 👉 [Honest answer from Sony.](http://9gag.com/gag/aNDe5er)<!-- MEMES:END -->
 
 ---
 

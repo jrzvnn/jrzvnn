@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twilio reports Q1 revenue up 4% YoY to $1.05B vs. $1.03B est., 313K+ active customer accounts, and forecasts Q2 revenue below est.; TWLO drops 5%+ after hours &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/240507/p45#a240507p45)
  - [Memo: Microsoft&#39;s Xbox division to shut down multiple Bethesda studios and consolidate teams to prioritize high-impact titles and invest in Bethesda&#39;s portfolio &lpar;Wesley Yin-Poole/IGN&rpar;](http://www.techmeme.com/240507/p44#a240507p44)
  - [The Affordable Connectivity Program Has a Lifeline in the Senate](https://www.wired.com/story/senate-affordable-connectivity-program/)
  - [Sources: BigCommerce, provider of software and an e-commerce platform to retailers, is exploring a sale after losing 90% of its market value since its 2020 IPO &lpar;Milana Vinn/Reuters&rpar;](http://www.techmeme.com/240507/p43#a240507p43)
- - [US indicts LockBit ransomware ringleader, offers $10 million reward](https://www.theverge.com/2024/5/7/24151493/us-lockbit-ransomware-ringleader-indictment-reward)
- - [A look at LPCAMM2, a totally modular, repairable, and upgradeable memory standard for laptops that doesn&#39;t require soldering LPDDR chips to the motherboard &lpar;Carsten Frauenheim/iFixit News&rpar;](http://www.techmeme.com/240507/p42#a240507p42)<!-- TECH:END -->
+ - [US indicts LockBit ransomware ringleader, offers $10 million reward](https://www.theverge.com/2024/5/7/24151493/us-lockbit-ransomware-ringleader-indictment-reward)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

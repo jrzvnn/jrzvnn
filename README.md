@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nintendo reports net profit up 13% YoY to ~$3.2B in the past fiscal year and expects profit to drop 39% YoY and revenue to drop 19% YoY in this fiscal year &lpar;Kosaku Narioka/Wall Street Journal&rpar;](http://www.techmeme.com/240507/p4#a240507p4)
+ - [Nintendo President Shuntaro Furukawa says the company plans to announce its Switch successor in the coming year; the Switch has sold 141M+ units since 2017 &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/240507/p3#a240507p3)
  - [Switch 2 will be revealed before April 2025, promises Nintendo](https://www.theverge.com/2024/5/7/24150891/nintendo-switch-2-console-announcement-earnings-q4-2024)
  - [A look at Campaign Nucleus, an AI company from ex-Trump campaign manager Brad Parscale, who says its AI can generate emails, gauge voter sentiment, and more &lpar;Associated Press&rpar;](http://www.techmeme.com/240507/p2#a240507p2)
- - [Amazon announces plans to double its cloud infrastructure investment in Singapore to $9B, to be done over the next four years, to meet the cloud and AI demand &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/240507/p1#a240507p1)
- - [Today&#39;s NYT Connections Hints and Answers: Help for May 7, #331     - CNET](https://www.cnet.com/tech/todays-nyt-connections-hints-and-answer-help-for-may-7-331/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints and Answer: Help for May 7, #1053     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-and-answer-help-for-may-07-1053/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon announces plans to double its cloud infrastructure investment in Singapore to $9B, to be done over the next four years, to meet the cloud and AI demand &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/240507/p1#a240507p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

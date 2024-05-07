@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s new iPad Pro gets M4 power, advanced Tandem OLED screens](https://appleinsider.com/articles/24/05/07/apples-new-ipad-pro-gets-m4-power-advanced-tandem-oled-screens?utm_medium=rss)
  - [Final Cut Pro and Logic Pro get major updates on iPad](https://appleinsider.com/articles/24/05/07/final-cut-pro-and-logic-pro-get-major-updates-on-ipad?utm_medium=rss)
+ - [Tesla vehicles kept crashing even after the Autopilot software updates, NHTSA says](https://www.theverge.com/2024/5/7/24151077/tesla-autopilot-nhtsa-recall-crash-data-request)
+ - [Apple&#39;s new iPad Pro gets M4 power, advanced Tandem OLED screens](https://appleinsider.com/articles/24/05/07/apples-new-ipad-pro-gets-m4-power-advanced-tandem-oled-screens?utm_medium=rss)
  - [Apple debuts Magic Keyboard for M4 iPad Pro with a larger trackpad and a row of function keys, available for $299 for 11-inch and $349 for 13-inch models &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/240507/p24#a240507p24)
- - [The new Apple Pencil Pro is harder to lose and better to draw with](https://www.theverge.com/2024/5/7/24146454/apple-pencil-pro-ipad-stylus-price-availability-features)
- - [Apple announces an Apple Pencil Pro, adding a squeeze gesture, haptic feedback, Find My support, and more, available for $129, the same as Pencil 2 &lpar;Ben Lovejoy/9to5Mac&rpar;](http://www.techmeme.com/240507/p23#a240507p23)<!-- TECH:END -->
+ - [The new Apple Pencil Pro is harder to lose and better to draw with](https://www.theverge.com/2024/5/7/24146454/apple-pencil-pro-ipad-stylus-price-availability-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

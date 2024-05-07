@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MITRE, a federally funded, not-for-profit US research organization, plans to build a $20M supercomputer with Nvidia to build AI tools for the federal government &lpar;Eva Dou/Washington Post&rpar;](http://www.techmeme.com/240507/p9#a240507p9)
  - [Sources and messages: Binance compliance officer Tigran Gambaryan told executives and Nigerian contacts of a $150M crypto bribe request, prior to his arrest &lpar;New York Times&rpar;](http://www.techmeme.com/240507/p8#a240507p8)
  - [Yubico bolsters authentication security with updated YubiKey 5 series devices](https://www.theverge.com/2024/5/7/24150918/yubico-5-7-firmware-update-security-key-yubikey-5)
  - [German chipmaker Infineon cuts its revenue forecast in the year to September 2024 to &amp;euro;15.1B, below &amp;euro;15.7B est., signaling automotive chip demand remains weak &lpar;Bloomberg&rpar;](http://www.techmeme.com/240507/p7#a240507p7)
- - [Amazon’s Delivery Drones Won&#39;t Fly in Arizona&#39;s Summer Heat](https://www.wired.com/story/amazon-delivery-drones-heat-grounded-summer/)
- - [US and Chinese diplomats plan to meet later in May to find common ground on AI usage and situations where AI should be banned, like controlling nuclear arsenals &lpar;David E. Sanger/New York Times&rpar;](http://www.techmeme.com/240507/p6#a240507p6)<!-- TECH:END -->
+ - [Amazon’s Delivery Drones Won&#39;t Fly in Arizona&#39;s Summer Heat](https://www.wired.com/story/amazon-delivery-drones-heat-grounded-summer/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

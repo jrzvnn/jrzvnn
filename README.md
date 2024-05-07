@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Car may not be completely dead -- Apple is discussing a partnership with Rivian](https://appleinsider.com/articles/24/05/07/apple-car-may-not-be-cancelled-as-apple-discusses-partnership-with-rivian?utm_medium=rss)
+ - [Apple researching how to make a &#39;Star Trek&#39; communicator badge](https://appleinsider.com/articles/22/03/24/apple-researching-how-to-make-a-star-trek-communicator-badge?utm_medium=rss)
  - [OpenAI releases a tool to detect DALL-E 3-created images, claiming 98% accuracy for unaltered images, and joins Microsoft and Adobe&#39;s content credentials group &lpar;Deepa Seetharaman/Wall Street Journal&rpar;](http://www.techmeme.com/240507/p10#a240507p10)
  - [Musi Won Over Millions. Is the Free Music Streaming App Too Good to Be True?](https://www.wired.com/story/free-music-streaming-app-musi-too-good-to-be-true/)
- - [MITRE, a federally funded, not-for-profit US research organization, plans to build a $20M supercomputer with Nvidia to build AI tools for the federal government &lpar;Eva Dou/Washington Post&rpar;](http://www.techmeme.com/240507/p9#a240507p9)
- - [Sources and messages: Binance compliance officer Tigran Gambaryan told executives and Nigerian contacts of a $150M crypto bribe request, prior to his arrest &lpar;New York Times&rpar;](http://www.techmeme.com/240507/p8#a240507p8)
- - [Yubico bolsters authentication security with updated YubiKey 5 series devices](https://www.theverge.com/2024/5/7/24150918/yubico-5-7-firmware-update-security-key-yubikey-5)<!-- TECH:END -->
+ - [MITRE, a federally funded, not-for-profit US research organization, plans to build a $20M supercomputer with Nvidia to build AI tools for the federal government &lpar;Eva Dou/Washington Post&rpar;](http://www.techmeme.com/240507/p9#a240507p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

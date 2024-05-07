@@ -173,10 +173,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yogafire](http://9gag.com/gag/aByKzbD)
  - 😝 [Tarantino moment](http://9gag.com/gag/aVvO8Zw)
- - 💣 [No heavy breathing.](http://9gag.com/gag/avy0q8d)
  - 😝 [Every story deserves a happy ending](http://9gag.com/gag/arypEXp)
+ - 💣 [What was that? Meh, probably just the wind...](http://9gag.com/gag/aGy9qy6)
+ - 😝 [He knows to much](http://9gag.com/gag/aPAv2jq)
  - 👉 [What are some heartwarming things grandmothers always do?](http://9gag.com/gag/axyN8VW)<!-- MEMES:END -->
 
 ---

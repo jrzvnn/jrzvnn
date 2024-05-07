@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ladies and gents, the president of Portugal](http://9gag.com/gag/a7o5xWq)
+ - 😝 [Man that&#39;s bad](http://9gag.com/gag/avy0w2n)
  - 😝 [Thank you for flying Blender Air!](http://9gag.com/gag/aRBQd4A)
- - 💣 [Not many i think](http://9gag.com/gag/ayN5w9V)
- - 😝 [Now this is good..](http://9gag.com/gag/aryp7yV)
- - 👉 [A disaster about to happen; they just do not know it yet.](http://9gag.com/gag/agmyemg)<!-- MEMES:END -->
+ - 💣 [What privicy?](http://9gag.com/gag/aPAvq2w)
+ - 😝 [Elevator in Trouble](http://9gag.com/gag/an7YP8z)
+ - 👉 [Now this is good..](http://9gag.com/gag/aryp7yV)<!-- MEMES:END -->
 
 ---
 

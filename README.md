@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Secret Apple &#39;Project ACDC&#39; to pioneer AI chips for data centers](https://appleinsider.com/articles/24/05/07/secret-apple-project-acdc-to-pioneer-ai-chips-for-data-centers?utm_medium=rss)
+ - [RSA Conference 2024: All About AI     - CNET](https://www.cnet.com/tech/services-and-software/rsa-conference-2024/#ftag=CAD590a51e)
  - [A US court rejects Realtek&#39;s lawsuit accusing MediaTek of paying a company to file meritless US patent lawsuits to drive Realtek out of the TV chip market &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/240506/p28#a240506p28)
  - [Google Cloud unveils Google Threat Intelligence, which uses Gemini and combines insights from Mandiant, VirusTotal, and Google to provide faster protection &lpar;Kyle Alspach/CRN&rpar;](http://www.techmeme.com/240506/p27#a240506p27)
- - [US Labor Board rules Apple illegally interrogated retail staff in NYC](https://appleinsider.com/articles/24/05/06/us-labor-board-rules-apple-illegally-interrogated-retail-staff-in-nyc?utm_medium=rss)
- - [Sources: Apple has been working on its own chip designed to run AI software in data center servers; the project is internally codenamed Project ACDC &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240506/p26#a240506p26)
- - [The 3 Best Juicers of 2024, Tested by CNET Editors     - CNET](https://www.cnet.com/home/kitchen-and-household/best-juicer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [US Labor Board rules Apple illegally interrogated retail staff in NYC](https://appleinsider.com/articles/24/05/06/us-labor-board-rules-apple-illegally-interrogated-retail-staff-in-nyc?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

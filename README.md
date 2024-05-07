@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dont know why we think like that](http://9gag.com/gag/aRBQd07)
+ - 😝 [Peak Cinema](http://9gag.com/gag/avy0KrM)
  - 😝 [Just think about it](http://9gag.com/gag/azxb35N)
- - 💣 [Best legal solution](http://9gag.com/gag/aAyYzDR)
- - 😝 [Save for later:](http://9gag.com/gag/agmybdW)
- - 👉 [This is what happens when a society lacks diversity.](http://9gag.com/gag/aByK5b1)<!-- MEMES:END -->
+ - 💣 [Save for later:](http://9gag.com/gag/agmybdW)
+ - 😝 [This is what happens when a society lacks diversity.](http://9gag.com/gag/aByK5b1)
+ - 👉 [That&#39;s a goat review](http://9gag.com/gag/arypL90)<!-- MEMES:END -->
 
 ---
 

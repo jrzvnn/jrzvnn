@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here’s how the latest iPad Pro compares to the new iPad Air &lpar;and previous models&rpar;](https://www.theverge.com/24091213/apple-ipad-air-2024-pro-specs-comparison)
  - [The US is propping up gas while the world moves to renewable energy](https://www.theverge.com/2024/5/7/24151375/renewable-energy-global-electricity-report-us-gas)
  - [Source: OpenAI is developing a feature for ChatGPT that can search the web and show results with citations to sources and images &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/240507/p46#a240507p46)
  - [Twilio reports Q1 revenue up 4% YoY to $1.05B vs. $1.03B est., 313K+ active customer accounts, and forecasts Q2 revenue below est.; TWLO drops 5%+ after hours &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/240507/p45#a240507p45)
- - [Memo: Microsoft&#39;s Xbox division to shut down multiple Bethesda studios and consolidate teams to prioritize high-impact titles and invest in Bethesda&#39;s portfolio &lpar;Wesley Yin-Poole/IGN&rpar;](http://www.techmeme.com/240507/p44#a240507p44)
- - [The Affordable Connectivity Program Has a Lifeline in the Senate](https://www.wired.com/story/senate-affordable-connectivity-program/)<!-- TECH:END -->
+ - [Memo: Microsoft&#39;s Xbox division to shut down multiple Bethesda studios and consolidate teams to prioritize high-impact titles and invest in Bethesda&#39;s portfolio &lpar;Wesley Yin-Poole/IGN&rpar;](http://www.techmeme.com/240507/p44#a240507p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

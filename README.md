@@ -173,10 +173,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Lmao, Helldivers 2 dev putting steam chart review in the game cosmetic](http://9gag.com/gag/adBNzYD)
+ - 😝 [1 vertical paint please](http://9gag.com/gag/aNDeMA3)
+ - 💣 [Thank you for flying Blender Air!](http://9gag.com/gag/aRBQd4A)
  - 😝 [So close yet, so far](http://9gag.com/gag/aKGznMj)
- - 😝 [What 30 packs of cigarretes can do to cottton balls](http://9gag.com/gag/a9yd4Ro)
- - 💣 [Dont know why we think like that](http://9gag.com/gag/aRBQd07)
- - 😝 [Thank you for flying Blender Air!](http://9gag.com/gag/aRBQd4A)
  - 👉 [What are some heartwarming things grandmothers always do?](http://9gag.com/gag/axyN8VW)<!-- MEMES:END -->
 
 ---

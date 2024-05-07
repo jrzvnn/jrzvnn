@@ -173,10 +173,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tarantino moment](http://9gag.com/gag/aVvO8Zw)
- - 😝 [Every story deserves a happy ending](http://9gag.com/gag/arypEXp)
- - 💣 [What was that? Meh, probably just the wind...](http://9gag.com/gag/aGy9qy6)
- - 😝 [He knows to much](http://9gag.com/gag/aPAv2jq)
+ - 😝 [What was that? Meh, probably just the wind...](http://9gag.com/gag/aGy9qy6)
+ - 😝 [Bro-zoned](http://9gag.com/gag/a1mAq46)
+ - 💣 [Lol](http://9gag.com/gag/a9ydeNm)
+ - 😝 [Thank you for flying Blender Air!](http://9gag.com/gag/aRBQd4A)
  - 👉 [What are some heartwarming things grandmothers always do?](http://9gag.com/gag/axyN8VW)<!-- MEMES:END -->
 
 ---

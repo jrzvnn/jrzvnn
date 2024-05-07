@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Excited dog](http://9gag.com/gag/a1mAjRD)
- - 😝 [Not many i think](http://9gag.com/gag/ayN5w9V)
- - 💣 [Lol](http://9gag.com/gag/a9ydeNm)
- - 😝 [This man tried to tell the truth to the world 100 years ago and no one listened. Now we are watching 4k videos of Arabs raping, killing and beheading citizens in their own countries and European countries!... protect your country and your people](http://9gag.com/gag/amoXQ34)
- - 👉 [Bride caught cheating with bartender at rehearsal by best man](http://9gag.com/gag/aKGzXX3)<!-- MEMES:END -->
+ - 😝 [What was that? Meh, probably just the wind...](http://9gag.com/gag/aGy9qy6)
+ - 😝 [Save for later:](http://9gag.com/gag/agmybdW)
+ - 💣 [Not many i think](http://9gag.com/gag/ayN5w9V)
+ - 😝 [Bride caught cheating with bartender at rehearsal by best man](http://9gag.com/gag/aKGzXX3)
+ - 👉 [This man tried to tell the truth to the world 100 years ago and no one listened. Now we are watching 4k videos of Arabs raping, killing and beheading citizens in their own countries and European countries!... protect your country and your people](http://9gag.com/gag/amoXQ34)<!-- MEMES:END -->
 
 ---
 

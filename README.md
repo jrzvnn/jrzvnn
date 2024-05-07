@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Driver records the moment he splashes water on cyclists](http://9gag.com/gag/aLnKOPP)
- - 😝 [What was that? Meh, probably just the wind...](http://9gag.com/gag/aGy9qy6)
- - 💣 [Seriously?](http://9gag.com/gag/awyrPqR)
- - 😝 [Would](http://9gag.com/gag/aO8q5j2)
- - 👉 [What are some heartwarming things grandmothers always do?](http://9gag.com/gag/axyN8VW)<!-- MEMES:END -->
+ - 😝 [Bro evolved so fast in like 20 years](http://9gag.com/gag/aByKzrN)
+ - 😝 [Well... Europe does it.](http://9gag.com/gag/a6Zw6e8)
+ - 💣 [He knows to much](http://9gag.com/gag/aPAv2jq)
+ - 😝 [I miss cartoons like this.](http://9gag.com/gag/aVvO5NP)
+ - 👉 [Save for later:](http://9gag.com/gag/agmybdW)<!-- MEMES:END -->
 
 ---
 

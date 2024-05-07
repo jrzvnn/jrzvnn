@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cloud security startup Wiz raised a $1B Series E co-led by a16z, Lightspeed, and Thrive at a $12B valuation, and plans to expand its business via acquisitions &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240507/p19#a240507p19)
- - [A livestream of Apple&#39;s &quot;Let Loose&quot; event &lpar;Apple on YouTube&rpar;](http://www.techmeme.com/240507/p18#a240507p18)
- - [8 Best Baby Carriers &lpar;2024&rpar;: Wraps, Slings, and Packs](https://www.wired.com/gallery/best-baby-carriers/)
- - [Apple iPad event: all the news from Apple’s ‘Let Loose’ reveal](https://www.theverge.com/2024/5/7/24150047/apple-ipad-let-loose-event-news-announcements)
- - [A live blog of Apple&#39;s &quot;Let Loose&quot; event, where OLED iPad Pros, a bigger iPad Air, a more laptop-esque Magic Keyboard, and a &quot;pro&quot; style Pencil are expected &lpar;The Verge&rpar;](http://www.techmeme.com/240507/p17#a240507p17)<!-- TECH:END -->
+ - [Apple announces new M4 chip](https://www.theverge.com/2024/5/7/24148451/apple-m4-chip-ai-ipad-macbook)
+ - [iPad Air gets a faster processor and a supersized 13-inch option](https://appleinsider.com/articles/24/05/07/ipad-air-gets-a-faster-processor-and-a-supersized-13-inch-option?utm_medium=rss)
+ - [Apple announces new iPad Pros with OLED displays and thinnest design ever](https://www.theverge.com/2024/5/7/24146276/apple-ipad-pro-oled-features-specs-let-loose-event)
+ - [Apple announces new $599+ 11&quot; and $799+ 13&quot; iPad Airs, featuring the M2 chip and landscape front cameras, available in four colors, available next week &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/240507/p20#a240507p20)
+ - [Apple adds a 13-inch iPad Air to the mix](https://www.theverge.com/2024/5/7/24090026/apple-ipad-air-m2-size-features-specs-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

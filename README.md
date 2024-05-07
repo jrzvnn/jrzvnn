@@ -173,10 +173,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tarantino moment](http://9gag.com/gag/aVvO8Zw)
- - 😝 [Every story deserves a happy ending](http://9gag.com/gag/arypEXp)
- - 💣 [Fair rules](http://9gag.com/gag/aByKzVO)
- - 😝 [What was that? Meh, probably just the wind...](http://9gag.com/gag/aGy9qy6)
+ - 😝 [Hopefully no one was hurt](http://9gag.com/gag/aO8qAV2)
+ - 😝 [Seriously?](http://9gag.com/gag/awyrPqR)
+ - 💣 [So close yet, so far](http://9gag.com/gag/aKGznMj)
+ - 😝 [Would](http://9gag.com/gag/aO8q5j2)
  - 👉 [What are some heartwarming things grandmothers always do?](http://9gag.com/gag/axyN8VW)<!-- MEMES:END -->
 
 ---

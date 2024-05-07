@@ -174,9 +174,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Hopefully no one was hurt](http://9gag.com/gag/aO8qAV2)
- - 😝 [Seriously?](http://9gag.com/gag/awyrPqR)
- - 💣 [So close yet, so far](http://9gag.com/gag/aKGznMj)
- - 😝 [Would](http://9gag.com/gag/aO8q5j2)
+ - 😝 [Bride caught cheating with bartender at rehearsal by best man](http://9gag.com/gag/aKGzXX3)
+ - 💣 [Lol](http://9gag.com/gag/a9ydeNm)
+ - 😝 [So close yet, so far](http://9gag.com/gag/aKGznMj)
  - 👉 [What are some heartwarming things grandmothers always do?](http://9gag.com/gag/axyN8VW)<!-- MEMES:END -->
 
 ---

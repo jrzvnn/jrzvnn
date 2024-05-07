@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lmao, Helldivers 2 dev putting steam chart review in the game cosmetic](http://9gag.com/gag/adBNzYD)
- - 😝 [He felt so accomplished](http://9gag.com/gag/a0e9yWL)
+ - 😝 [Just think about it](http://9gag.com/gag/azxb35N)
+ - 😝 [This is what happens when a society lacks diversity.](http://9gag.com/gag/aByK5b1)
  - 💣 [That&#39;s a goat review](http://9gag.com/gag/arypL90)
- - 😝 [Save for later:](http://9gag.com/gag/agmybdW)
- - 👉 [This is what happens when a society lacks diversity.](http://9gag.com/gag/aByK5b1)<!-- MEMES:END -->
+ - 😝 [When you realize that you were once the enemy within. Self-awareness is important](http://9gag.com/gag/aGy94dn)
+ - 👉 [Real life Cartoon Charakter](http://9gag.com/gag/aByKeA1)<!-- MEMES:END -->
 
 ---
 

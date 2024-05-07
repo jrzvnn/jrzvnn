@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US court rejects Realtek&#39;s lawsuit accusing MediaTek of paying a company to file meritless US patent lawsuits to drive Realtek out of the TV chip market &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/240506/p28#a240506p28)
+ - [Google Cloud unveils Google Threat Intelligence, which uses Gemini and combines insights from Mandiant, VirusTotal, and Google to provide faster protection &lpar;Kyle Alspach/CRN&rpar;](http://www.techmeme.com/240506/p27#a240506p27)
  - [US Labor Board rules Apple illegally interrogated retail staff in NYC](https://appleinsider.com/articles/24/05/06/us-labor-board-rules-apple-illegally-interrogated-retail-staff-in-nyc?utm_medium=rss)
  - [Sources: Apple has been working on its own chip designed to run AI software in data center servers; the project is internally codenamed Project ACDC &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240506/p26#a240506p26)
- - [How much would you pay for this prototype Super Famicom with a headphone jack?](https://www.theverge.com/2024/5/6/24150559/nintendo-super-famicom-prototype-snes-auction-japan)
- - [UK-based Wayve, which is developing a self-learning system for autonomous driving, raised a $1.05B Series C led by SoftBank, the UK&#39;s largest AI fundraise ever &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/240506/p25#a240506p25)
- - [Google TV’s ‘Magic Button’ makes its debut — but not on a Chromecast](https://www.theverge.com/2024/5/6/24150591/google-tv-magic-button-star-customizable-walmart-onn-4k-pro)<!-- TECH:END -->
+ - [The 3 Best Juicers of 2024, Tested by CNET Editors     - CNET](https://www.cnet.com/home/kitchen-and-household/best-juicer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

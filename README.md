@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Peak Cinema](http://9gag.com/gag/avy0KrM)
- - 😝 [Just think about it](http://9gag.com/gag/azxb35N)
- - 💣 [Save for later:](http://9gag.com/gag/agmybdW)
- - 😝 [This is what happens when a society lacks diversity.](http://9gag.com/gag/aByK5b1)
- - 👉 [That&#39;s a goat review](http://9gag.com/gag/arypL90)<!-- MEMES:END -->
+ - 😝 [Bride caught cheating with bartender at rehearsal by best man](http://9gag.com/gag/aKGzXX3)
+ - 😝 [Lol](http://9gag.com/gag/a9ydeNm)
+ - 💣 [Thank you for flying Blender Air!](http://9gag.com/gag/aRBQd4A)
+ - 😝 [Not many i think](http://9gag.com/gag/ayN5w9V)
+ - 👉 [Sounds like a bad day](http://9gag.com/gag/a0e93yz)<!-- MEMES:END -->
 
 ---
 

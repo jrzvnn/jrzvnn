@@ -173,10 +173,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Thank you for flying Blender Air!](http://9gag.com/gag/aRBQd4A)
  - 😝 [No heavy breathing.](http://9gag.com/gag/avy0q8d)
- - 😝 [Seriously?](http://9gag.com/gag/awyrPqR)
- - 💣 [Thank you for flying Blender Air!](http://9gag.com/gag/aRBQd4A)
- - 😝 [What was that? Meh, probably just the wind...](http://9gag.com/gag/aGy9qy6)
+ - 💣 [Lol](http://9gag.com/gag/a9ydeNm)
+ - 😝 [Bride caught cheating with bartender at rehearsal by best man](http://9gag.com/gag/aKGzXX3)
  - 👉 [What are some heartwarming things grandmothers always do?](http://9gag.com/gag/axyN8VW)<!-- MEMES:END -->
 
 ---

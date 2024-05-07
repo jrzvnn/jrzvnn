@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon announces plans to double its cloud infrastructure investment in Singapore to $9B, to be done over the next four years, to meet the cloud and AI demand &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/240507/p1#a240507p1)
  - [Today&#39;s NYT Connections Hints and Answers: Help for May 7, #331     - CNET](https://www.cnet.com/tech/todays-nyt-connections-hints-and-answer-help-for-may-7-331/#ftag=CAD590a51e)
  - [Today&#39;s Wordle Hints and Answer: Help for May 7, #1053     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-and-answer-help-for-may-07-1053/#ftag=CAD590a51e)
  - [How to add fonts in macOS Sonoma](https://appleinsider.com/inside/macos-sonoma/tips/how-to-add-fonts-in-macos-sonoma?utm_medium=rss)
- - [Q&amp;A with Ethereum co-founder and Consensys CEO Joe Lubin on Consensys&#39; lawsuit against the SEC, implications of SEC classifying ETH as a security, and more &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/240506/p29#a240506p29)
- - [Boeing Starliner’s crew flight test delayed due to a valve problem](https://www.theverge.com/24150483/nasa-boeing-starliner-launch-livestream-watch)<!-- TECH:END -->
+ - [Q&amp;A with Ethereum co-founder and Consensys CEO Joe Lubin on Consensys&#39; lawsuit against the SEC, implications of SEC classifying ETH as a security, and more &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/240506/p29#a240506p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -173,10 +173,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [At the gym during the busiest time of day](http://9gag.com/gag/a4P4y4m)
- - 😝 [Books to open your mind. Suggest more in comments.](http://9gag.com/gag/aYQb5r0)
- - 💣 [Seriously?](http://9gag.com/gag/awyrPqR)
- - 😝 [Before I got married,my aunt suggested transferring my assets to my mom in case the marriage didn&#39;t work out. 2 years later, She was right.](http://9gag.com/gag/aAyYN7o)
+ - 😝 [Seriously?](http://9gag.com/gag/awyrPqR)
+ - 😝 [Two Takes on This Epic Scene. Dune &lpar;1984&rpar; &amp; Dune II &lpar;2024&rpar;](http://9gag.com/gag/ae9NqyQ)
+ - 💣 [No heavy breathing.](http://9gag.com/gag/avy0q8d)
+ - 😝 [Tarantino moment](http://9gag.com/gag/aVvO8Zw)
  - 👉 [What are some heartwarming things grandmothers always do?](http://9gag.com/gag/axyN8VW)<!-- MEMES:END -->
 
 ---

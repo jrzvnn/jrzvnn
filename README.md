@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro evolved so fast in like 20 years](http://9gag.com/gag/aByKzrN)
- - 😝 [Well... Europe does it.](http://9gag.com/gag/a6Zw6e8)
- - 💣 [He knows to much](http://9gag.com/gag/aPAv2jq)
- - 😝 [I miss cartoons like this.](http://9gag.com/gag/aVvO5NP)
- - 👉 [Save for later:](http://9gag.com/gag/agmybdW)<!-- MEMES:END -->
+ - 😝 [Excited dog](http://9gag.com/gag/a1mAjRD)
+ - 😝 [Thank you for flying Blender Air!](http://9gag.com/gag/aRBQd4A)
+ - 💣 [Seriously?](http://9gag.com/gag/awyrPqR)
+ - 😝 [What was that? Meh, probably just the wind...](http://9gag.com/gag/aGy9qy6)
+ - 👉 [So close yet, so far](http://9gag.com/gag/aKGznMj)<!-- MEMES:END -->
 
 ---
 

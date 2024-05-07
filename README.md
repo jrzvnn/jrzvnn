@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [FTX says it will have as much as $16.3B to distribute once it finishes selling all of its assets; it owes customers and other non-governmental creditors ~$11B &lpar;Steven Church/Bloomberg&rpar;](http://www.techmeme.com/240507/p48#a240507p48)
  - [The US revokes some licenses that allow companies to ship chips and other goods to Huawei; sources say the decision affects Intel and Qualcomm &lpar;Demetri Sevastopulo/Financial Times&rpar;](http://www.techmeme.com/240507/p47#a240507p47)
  - [Here’s how the latest iPad Pro compares to the new iPad Air &lpar;and previous models&rpar;](https://www.theverge.com/24091213/apple-ipad-air-2024-pro-specs-comparison)
  - [The US is propping up gas while the world moves to renewable energy](https://www.theverge.com/2024/5/7/24151375/renewable-energy-global-electricity-report-us-gas)
- - [Source: OpenAI is developing a feature for ChatGPT that can search the web and show results with citations to sources and images &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/240507/p46#a240507p46)
- - [Twilio reports Q1 revenue up 4% YoY to $1.05B vs. $1.03B est., 313K+ active customer accounts, and forecasts Q2 revenue below est.; TWLO drops 5%+ after hours &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/240507/p45#a240507p45)<!-- TECH:END -->
+ - [Source: OpenAI is developing a feature for ChatGPT that can search the web and show results with citations to sources and images &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/240507/p46#a240507p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

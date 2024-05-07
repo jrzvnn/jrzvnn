@@ -174,10 +174,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [He knows to much](http://9gag.com/gag/aPAv2jq)
- - 😝 [Bro evolved so fast in like 20 years](http://9gag.com/gag/aByKzrN)
- - 💣 [Dont know why we think like that](http://9gag.com/gag/aRBQd07)
- - 😝 [This is what happens when a society lacks diversity.](http://9gag.com/gag/aByK5b1)
- - 👉 [Save for later:](http://9gag.com/gag/agmybdW)<!-- MEMES:END -->
+ - 😝 [Just think about it](http://9gag.com/gag/azxb35N)
+ - 💣 [Bro evolved so fast in like 20 years](http://9gag.com/gag/aByKzrN)
+ - 😝 [Dont know why we think like that](http://9gag.com/gag/aRBQd07)
+ - 👉 [This is what happens when a society lacks diversity.](http://9gag.com/gag/aByK5b1)<!-- MEMES:END -->
 
 ---
 

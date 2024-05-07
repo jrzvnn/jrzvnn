@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok sues the US government over law forcing a sale or ban, alleging it violates users&#39; First Amendment rights and divestiture is &quot;simply not possible&quot; &lpar;New York Times&rpar;](http://www.techmeme.com/240507/p28#a240507p28)
- - [Apple&#39;s iPad upgrades march Lightning one step closer to death](https://appleinsider.com/articles/24/05/07/apples-ipad-upgrades-march-lightning-one-step-closer-to-death?utm_medium=rss)
- - [Wordle now has a playable puzzle archive](https://www.theverge.com/2024/5/7/24151203/wordle-puzzle-archive-new-york-times)
- - [Google Pixel 8A: News, Specs, Features, Price, Release Date](https://www.wired.com/story/google-pixel-8a/)
- - [Google’s Pixel 8A is a midrange phone that might actually go the distance](https://www.theverge.com/2024/5/7/24150360/google-pixel-8a-price-specs-camera-best-take-magic-editor)<!-- TECH:END -->
+ - [Google unveils Pixel 8a with the Tensor G3 chip, a 6.1&quot; 120Hz OLED with up to 2K nits brightness, and Gemini Nano access, shipping May 14 for $499+ &lpar;Julian Chokkattu/Wired&rpar;](http://www.techmeme.com/240507/p29#a240507p29)
+ - [Here’s where you can preorder Apple’s latest iPad Air and iPad Pro](https://www.theverge.com/24144427/ipad-air-pro-preorder-buy-how-to)
+ - [Not just iPad -- Mac gets AI-Enhanced Logic Pro &amp; Final Cut Pro updates](https://appleinsider.com/articles/24/05/07/not-just-ipad----mac-gets-ai-enhanced-logic-pro-final-cut-pro-updates?utm_medium=rss)
+ - [TikTok is suing the US government](https://www.theverge.com/2024/5/7/24151242/tiktok-sues-us-divestment-ban)
+ - [TikTok sues the US government over the law forcing a sale or ban, saying it violates users&#39; First Amendment rights and divestiture is &quot;simply not possible&quot; &lpar;New York Times&rpar;](http://www.techmeme.com/240507/p28#a240507p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

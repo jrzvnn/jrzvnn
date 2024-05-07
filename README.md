@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon’s latest Echo Show 5 and Show 8 are nearly matching their all-time lows](https://www.theverge.com/2024/5/7/24150129/amazon-echo-show-8-5-beats-studio-pro-deal-sale)
  - [Switch 2: all the news and rumors on Nintendo’s next console](https://www.theverge.com/24051677/nintendo-switch-2-pro-rumors-news)
  - [Instacart partners with Uber Eats to expand into restaurant takeout, offering deliveries powered by Uber via Instacart&#39;s app or website in the coming weeks &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/240507/p14#a240507p14)
  - [Amazon launches its online store in South Africa, offering same-day and next-day delivery and 3,000+ pickup points, challenging local rivals like Takealot.com &lpar;Nqobile Dludla/Reuters&rpar;](http://www.techmeme.com/240507/p13#a240507p13)
- - [Akamai agrees to acquire Noname Security, which finds and fixes API vulnerabilities, for ~$450M, closing in Q2 2024; Noname was valued at $1B in December 2021 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240507/p12#a240507p12)
- - [12 Best Sound Machines and White-Noise Machines &lpar;2024&rpar;: Cheap, Night Lights, Lullabies](https://www.wired.com/gallery/best-sound-machines/)<!-- TECH:END -->
+ - [Akamai agrees to acquire Noname Security, which finds and fixes API vulnerabilities, for ~$450M, closing in Q2 2024; Noname was valued at $1B in December 2021 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240507/p12#a240507p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

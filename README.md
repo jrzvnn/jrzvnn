@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What privicy?](http://9gag.com/gag/aPAvq2w)
- - 😝 [Okay I will not not do that not by before tomorrow but after yesterday if it doesn\u2019t have to not happen\u2026.](http://9gag.com/gag/agmyWgW)
- - 💣 [Thank you for flying Blender Air!](http://9gag.com/gag/aRBQd4A)
- - 😝 [I just wanted to sleep](http://9gag.com/gag/aByK592)
- - 👉 [I absolutely hate grumpy old people](http://9gag.com/gag/azxb3ex)<!-- MEMES:END -->
+ - 😝 [Avatar concept art vs the final design](http://9gag.com/gag/ajPrpZG)
+ - 😝 [A disaster about to happen; they just do not know it yet.](http://9gag.com/gag/agmyemg)
+ - 💣 [I absolutely hate grumpy old people](http://9gag.com/gag/azxb3ex)
+ - 😝 [Elevator in Trouble](http://9gag.com/gag/an7YP8z)
+ - 👉 [Thank you for flying Blender Air!](http://9gag.com/gag/aRBQd4A)<!-- MEMES:END -->
 
 ---
 

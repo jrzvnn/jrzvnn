@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Blockbuster &#39;Baldur&#39;s Gate 3&#39; adventure game not coming to iPad](https://appleinsider.com/articles/24/05/08/blockbuster-baldurs-gate-3-adventure-game-not-coming-to-ipad?utm_medium=rss)
+ - [Microsoft plans to invest $3B to build a data center in Mount Pleasant, Wisconsin, and train locals, alongside investing in a new AI lab at Wisconsin University &lpar;Tom Dotan/Wall Street Journal&rpar;](http://www.techmeme.com/240508/p20#a240508p20)
  - [Bluesky details its product roadmap: an off-protocol DM system to facilitate one-on-one chats, custom feeds, anti-harassment tools, video support, and more &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240508/p19#a240508p19)
  - [March iPhone discounts in China may have saved Apple&#39;s quarter](https://appleinsider.com/articles/24/05/08/march-iphone-discounts-in-china-may-have-saved-apples-quarter?utm_medium=rss)
- - [Microsoft closes the engineering section of its Africa Development Center in Nigeria, two years after its opening, reportedly impacting 100+ engineers &lpar;Bloomberg&rpar;](http://www.techmeme.com/240508/p18#a240508p18)
- - [Tim Cook promises aid for Brazil flooding relief](https://appleinsider.com/articles/24/05/08/tim-cook-promises-aid-for-brazil-flooding-relief?utm_medium=rss)
- - [Ultra Retina XDR OLED screens in iPad Pro are just the latest evolution of Apple&#39;s flagship display tech](https://appleinsider.com/articles/24/05/07/ultra-retina-xdr-oled-screens-in-ipad-pro-are-just-the-latest-evolution-of-apples-flagship-display-tech?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft closes the engineering section of its Africa Development Center in Nigeria, two years after its opening, reportedly impacting 100+ engineers &lpar;Bloomberg&rpar;](http://www.techmeme.com/240508/p18#a240508p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

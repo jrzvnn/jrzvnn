@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [6 Best Phones With Headphone Jacks &lpar;2024&rpar;: Flagship, Budget, and Dongle Recommendations](https://www.wired.com/gallery/best-headphone-jack-phones/)
  - [Israeli drone startup Xtend, which lets operators orchestrate teams of drones and robots, raised $40M led by Chartered Group at a ~$110M post-money valuation &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240508/p30#a240508p30)
  - [FTX says most customers will get all their money back](https://www.theverge.com/2024/5/8/24151882/ftx-customers-repaid-bankruptcy-debt)
  - [How to Get Your Microwave to Stop Beeping... Finally     - CNET](https://www.cnet.com/home/kitchen-and-household/how-to-get-your-microwave-to-stop-beeping-finally/#ftag=CAD590a51e)
- - [How Curtains, Drapes and Blinds Can Save You Energy     - CNET](https://www.cnet.com/how-to/how-curtains-drapes-and-blinds-can-save-you-energy/#ftag=CAD590a51e)
- - [Britax Willow SC Review: A Fantastic Stroller and Car Seat Combo](https://www.wired.com/review/britax-willow-sc/)<!-- TECH:END -->
+ - [How Curtains, Drapes and Blinds Can Save You Energy     - CNET](https://www.cnet.com/how-to/how-curtains-drapes-and-blinds-can-save-you-energy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

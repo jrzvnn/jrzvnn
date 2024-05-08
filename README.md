@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Matter 1.3 is finalized, bringing support for EV chargers, more appliances, &amp; other improvements](https://appleinsider.com/articles/24/05/08/matter-13-is-finalized-bringing-support-for-ev-chargers-more-appliances-other-improvements?utm_medium=rss)
+ - [Marvel is bringing a mixed reality edition of What If…? to the Vision Pro](https://www.theverge.com/2024/5/8/24152039/disney-marvel-what-if-immersive-story-vision-pro)
+ - [OpenAI Is ‘Exploring’ How to Responsibly Generate AI Porn](https://www.wired.com/story/openai-is-exploring-how-to-responsibly-generate-ai-porn/)
  - [Maryland Apple Store employees to vote on strike, citing unmet demands](https://appleinsider.com/articles/24/05/08/maryland-apple-store-employees-to-vote-on-strike-citing-unmet-demands?utm_medium=rss)
- - [Ofcom proposes new rules requiring tech companies to change their algorithms to hide &quot;toxic&quot; material from children, have more robust age checks, and more &lpar;BBC&rpar;](http://www.techmeme.com/240508/p38#a240508p38)
- - [You can get a $100 gift card when you preorder Google’s Pixel 8A](https://www.theverge.com/2024/5/8/24151342/google-pixel-8a-lego-icons-tiny-plants-deal-sale)
- - [Peacock is turning The Office into a franchise with a new spinoff series](https://www.theverge.com/2024/5/8/24152046/peacock-office-spinoff-greg-daniels-michael-koman)
- - [3 Ways to Lose Your Social Security Benefits     - CNET](https://www.cnet.com/personal-finance/3-ways-to-lose-your-social-security-benefits/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ofcom proposes new rules requiring tech companies to change their algorithms to hide &quot;toxic&quot; material from children, have more robust age checks, and more &lpar;BBC&rpar;](http://www.techmeme.com/240508/p38#a240508p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

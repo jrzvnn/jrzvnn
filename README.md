@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers say they have unlocked a kind of sperm whale &quot;alphabet&quot; with the aid of machine learning, a breakthrough in understanding cetacean communication &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240507/p55#a240507p55)
  - [Today&#39;s Wordle Hints and Answer: Help for May 8, #1054     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-and-answer-help-for-may-8-1054/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints and Answers: Help for May 8, #332     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hints-answer-help-for-may-8-332/#ftag=CAD590a51e)
  - [Best PC Gaming Headset for 2024     - CNET](https://www.cnet.com/tech/gaming/best-pc-gaming-headset/#ftag=CAD590a51e)
- - [Atoto S8 Pro Wireless CarPlay receiver review: great, but fragile aftermarket solution](https://appleinsider.com/articles/24/05/08/atoto-s8-pro-wireless-carplay-receiver-review-great-but-fragile-aftermarket-solution?utm_medium=rss)
- - [Coupang reports Q1 revenue up 23% YoY to $7.1B, adjusted EBITDA up 17% YoY to $281M, vs. $283.3M est., and net income down 95% YoY including Farfetch losses &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/240507/p54#a240507p54)<!-- TECH:END -->
+ - [Atoto S8 Pro Wireless CarPlay receiver review: great, but fragile aftermarket solution](https://appleinsider.com/articles/24/05/08/atoto-s8-pro-wireless-carplay-receiver-review-great-but-fragile-aftermarket-solution?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

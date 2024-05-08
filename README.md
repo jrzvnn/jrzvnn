@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Judge questions Apple&#39;s commitment to App Store payment alternatives](https://appleinsider.com/articles/24/05/08/judge-questions-apples-commitment-to-app-store-payment-alternatives?utm_medium=rss)
+ - [Some Stack Overflow users say their account was suspended after they attempted to alter their posts in protest of its OpenAI partnership to supply data for AI &lpar;Dallin Grimm/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240508/p47#a240508p47)
+ - [Alleged M4 benchmarks verify Apple&#39;s iPad Pro performance claims](https://appleinsider.com/articles/24/05/08/alleged-m4-benchmarks-verify-apples-ipad-pro-performance-claims?utm_medium=rss)
  - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [A Disney, Hulu, and Max streaming bundle is on the way](https://www.theverge.com/2024/5/8/24152397/disney-plus-hulu-max-streaming-bundle)
- - [Disney and WBD announce a streaming bundle of Disney+, Hulu, and Max, with ad-supported and ad-free plans, beginning this summer in the US, with pricing to come &lpar;Dade Hayes/Deadline&rpar;](http://www.techmeme.com/240508/p46#a240508p46)
- - [Disney, Warner Bros. Discovery Announce Bundle Of Disney Plus, Hulu and Max     - CNET](https://www.cnet.com/tech/services-and-software/disney-warner-bros-discovery-announce-bundle-of-disney-plus-hulu-and-max/#ftag=CAD590a51e)
- - [China’s Chang’e 6 Moon probe has a mysterious guest on board](https://www.theverge.com/2024/5/8/24152190/china-chang-e-6-moon-probe-rover-spotted)<!-- TECH:END -->
+ - [A Disney, Hulu, and Max streaming bundle is on the way](https://www.theverge.com/2024/5/8/24152397/disney-plus-hulu-max-streaming-bundle)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

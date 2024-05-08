@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What privicy?](http://9gag.com/gag/aPAvq2w)
  - 😝 [A disaster about to happen; they just do not know it yet.](http://9gag.com/gag/agmyemg)
- - 💣 [Stuntwoman Training](http://9gag.com/gag/ajPr4AG)
- - 😝 [Elevator in Trouble](http://9gag.com/gag/an7YP8z)
- - 👉 [Oh f*** you gonna make me squint your eyes again](http://9gag.com/gag/an7Y6y5)<!-- MEMES:END -->
+ - 😝 [The desing is very human](http://9gag.com/gag/aD20eE9)
+ - 💣 [Brilliant collaboration](http://9gag.com/gag/aKGzQ0Q)
+ - 😝 [Well well well...](http://9gag.com/gag/aGy9mbG)
+ - 👉 [Got an xray because of back pain](http://9gag.com/gag/a87WgM3)<!-- MEMES:END -->
 
 ---
 

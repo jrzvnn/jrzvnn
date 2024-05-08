@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Internal memo: Shein tells staff that the company is stepping up efforts to keep products made with forced labor off its platform, citing tougher US enforcement &lpar;Jing Yang/The Information&rpar;](http://www.techmeme.com/240508/p11#a240508p11)
+ - [Shop at Walmart in the Last 6 Years? You Might Be Able to Claim Up to $500 in Settlement Cash     - CNET](https://www.cnet.com/personal-finance/if-youve-shopped-at-walmart-over-the-last-few-years-you-could-claim-up-to-500-in-settlement-cash/#ftag=CAD590a51e)
  - [Google launches Google Wallet for Android in India and partners with 20+ brands to let users store boarding passes, loyalty cards, event tickets, and more &lpar;Aamir Siddiqui/Android Authority&rpar;](http://www.techmeme.com/240508/p10#a240508p10)
  - [Sources: SoftBank is in advanced talks to acquire Graphcore, a struggling UK-based chip startup once valued at $2.8B that reported just $2.7M in 2022 revenue &lpar;Bloomberg&rpar;](http://www.techmeme.com/240508/p9#a240508p9)
- - [Samsung Electronics&#39; medical device unit Samsung Medison plans to acquire Paris-based Sonio, which makes AI-powered ultrasound workflows software, for ~$92.7M &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/240508/p8#a240508p8)
- - [Sources: Intel is partnering with 14 Japanese companies to develop tech by 2028 to automate the largely manual &quot;back-end&quot; chipmaking processes like packaging &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240508/p7#a240508p7)
- - [Moving Soon? All the Discounts You Can Get     - CNET](https://www.cnet.com/home/services/moving-soon-all-the-discounts-you-can-get/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung Electronics&#39; medical device unit Samsung Medison plans to acquire Paris-based Sonio, which makes AI-powered ultrasound workflows software, for ~$92.7M &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/240508/p8#a240508p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

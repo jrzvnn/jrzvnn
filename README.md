@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sounds like a bad day](http://9gag.com/gag/a0e93yz)
- - 😝 [What privicy?](http://9gag.com/gag/aPAvq2w)
- - 💣 [Lol](http://9gag.com/gag/a9ydeNm)
+ - 😝 [This man tried to tell the truth to the world 100 years ago and no one listened. Now we are watching 4k videos of Arabs raping, killing and beheading citizens in their own countries and European countries!... protect your country and your people](http://9gag.com/gag/amoXQ34)
  - 😝 [Excited dog](http://9gag.com/gag/a1mAjRD)
- - 👉 [What was that? Meh, probably just the wind...](http://9gag.com/gag/aGy9qy6)<!-- MEMES:END -->
+ - 💣 [Sounds like a bad day](http://9gag.com/gag/a0e93yz)
+ - 😝 [My psychologist: the giant dwarf does not exist.... The giant dwarf:](http://9gag.com/gag/ae9NnPq)
+ - 👉 [Well well well...](http://9gag.com/gag/aGy9mbG)<!-- MEMES:END -->
 
 ---
 

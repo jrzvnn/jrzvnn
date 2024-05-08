@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gear up people down?](http://9gag.com/gag/an7YP4n)
- - 😝 [She lives in Chicago streets by the way..](http://9gag.com/gag/aVvOyrn)
- - 💣 [Palestine fan](http://9gag.com/gag/aYQb0Q7)
- - 😝 [What privicy?](http://9gag.com/gag/aPAvq2w)
- - 👉 [Mental illness is a big issue in the west](http://9gag.com/gag/agmyDVg)<!-- MEMES:END -->
+ - 😝 [The cooling must be great thou](http://9gag.com/gag/avy0N7q)
+ - 😝 [Well well well...](http://9gag.com/gag/aGy9mbG)
+ - 💣 [Okay I will not not do that not by before tomorrow but after yesterday if it doesn\u2019t have to not happen\u2026.](http://9gag.com/gag/agmyWgW)
+ - 😝 [I wonder why people don&#39;t trust journalists ....](http://9gag.com/gag/agmyPLn)
+ - 👉 [Brilliant collaboration](http://9gag.com/gag/aKGzQ0Q)<!-- MEMES:END -->
 
 ---
 

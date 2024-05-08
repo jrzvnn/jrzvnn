@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft says it needs games like Hi-Fi Rush the day after killing its studio](https://www.theverge.com/2024/5/8/24152137/xbox-hi-fi-rush-tango-gameworks-matt-booty)
  - [Intel and motherboard makers disagree on how to stabilize your crashing i9 CPU](https://www.theverge.com/2024/5/8/24152383/intel-motherboard-manufacturer-i9-stability-bios-update-baseline-profile-default)
  - [Microsoft’s ‘air gapped’ AI is a bot set up to process top-secret info](https://www.theverge.com/2024/5/8/24152424/microsoft-top-secret-ai-server-gpt-4-azure)
  - [Judge questions Apple&#39;s commitment to App Store payment alternatives](https://appleinsider.com/articles/24/05/08/judge-questions-apples-commitment-to-app-store-payment-alternatives?utm_medium=rss)
- - [Some Stack Overflow users say their account was suspended after they attempted to alter their posts in protest of its OpenAI partnership to supply data for AI &lpar;Dallin Grimm/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240508/p47#a240508p47)
- - [Alleged M4 benchmarks verify Apple&#39;s iPad Pro performance claims](https://appleinsider.com/articles/24/05/08/alleged-m4-benchmarks-verify-apples-ipad-pro-performance-claims?utm_medium=rss)<!-- TECH:END -->
+ - [Some Stack Overflow users say their account was suspended after they attempted to alter their posts in protest of its OpenAI partnership to supply data for AI &lpar;Dallin Grimm/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240508/p47#a240508p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I wonder why people don&#39;t trust journalists ....](http://9gag.com/gag/agmyPLn)
- - 😝 [Well well well...](http://9gag.com/gag/aGy9mbG)
- - 💣 [The cooling must be great thou](http://9gag.com/gag/avy0N7q)
- - 😝 [Okay I will not not do that not by before tomorrow but after yesterday if it doesn\u2019t have to not happen\u2026.](http://9gag.com/gag/agmyWgW)
- - 👉 [The famous late revenge](http://9gag.com/gag/an7Y6yq)<!-- MEMES:END -->
+ - 😝 [Elevator in Trouble](http://9gag.com/gag/an7YP8z)
+ - 😝 [A disaster about to happen; they just do not know it yet.](http://9gag.com/gag/agmyemg)
+ - 💣 [I absolutely hate grumpy old people](http://9gag.com/gag/azxb3ex)
+ - 😝 [Now this is good..](http://9gag.com/gag/aryp7yV)
+ - 👉 [Member them ? So good!](http://9gag.com/gag/aKGzMEj)<!-- MEMES:END -->
 
 ---
 

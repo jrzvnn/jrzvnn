@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Elevator in Trouble](http://9gag.com/gag/an7YP8z)
- - 😝 [I absolutely hate grumpy old people](http://9gag.com/gag/azxb3ex)
- - 💣 [Not many i think](http://9gag.com/gag/ayN5w9V)
- - 😝 [Making a drink](http://9gag.com/gag/apRq4P5)
- - 👉 [Sounds like a bad day](http://9gag.com/gag/a0e93yz)<!-- MEMES:END -->
+ - 😝 [Sounds like a bad day](http://9gag.com/gag/a0e93yz)
+ - 😝 [What privicy?](http://9gag.com/gag/aPAvq2w)
+ - 💣 [Lol](http://9gag.com/gag/a9ydeNm)
+ - 😝 [Excited dog](http://9gag.com/gag/a1mAjRD)
+ - 👉 [What was that? Meh, probably just the wind...](http://9gag.com/gag/aGy9qy6)<!-- MEMES:END -->
 
 ---
 

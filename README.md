@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Elevator in Trouble](http://9gag.com/gag/an7YP8z)
- - 😝 [A disaster about to happen; they just do not know it yet.](http://9gag.com/gag/agmyemg)
- - 💣 [That plot twist in the middle \ud83e\udd23\ud83e\udd23](http://9gag.com/gag/an7YZ8E)
  - 😝 [Now this is good..](http://9gag.com/gag/aryp7yV)
- - 👉 [At the gym during the busiest time of day](http://9gag.com/gag/a4P4y4m)<!-- MEMES:END -->
+ - 😝 [Elevator in Trouble](http://9gag.com/gag/an7YP8z)
+ - 💣 [Stuntwoman Training](http://9gag.com/gag/ajPr4AG)
+ - 😝 [Thank you for flying Blender Air!](http://9gag.com/gag/aRBQd4A)
+ - 👉 [Sounds like a bad day](http://9gag.com/gag/a0e93yz)<!-- MEMES:END -->
 
 ---
 

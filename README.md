@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A disaster about to happen; they just do not know it yet.](http://9gag.com/gag/agmyemg)
- - 😝 [Now this is good..](http://9gag.com/gag/aryp7yV)
- - 💣 [At the gym during the busiest time of day](http://9gag.com/gag/a4P4y4m)
  - 😝 [Thank you for flying Blender Air!](http://9gag.com/gag/aRBQd4A)
- - 👉 [This man tried to tell the truth to the world 100 years ago and no one listened. Now we are watching 4k videos of Arabs raping, killing and beheading citizens in their own countries and European countries!... protect your country and your people](http://9gag.com/gag/amoXQ34)<!-- MEMES:END -->
+ - 😝 [Well well well...](http://9gag.com/gag/aGy9mbG)
+ - 💣 [Not many i think](http://9gag.com/gag/ayN5w9V)
+ - 😝 [This man tried to tell the truth to the world 100 years ago and no one listened. Now we are watching 4k videos of Arabs raping, killing and beheading citizens in their own countries and European countries!... protect your country and your people](http://9gag.com/gag/amoXQ34)
+ - 👉 [Elevator in Trouble](http://9gag.com/gag/an7YP8z)<!-- MEMES:END -->
 
 ---
 

@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I absolutely hate grumpy old people](http://9gag.com/gag/azxb3ex)
+ - 😝 [What privicy?](http://9gag.com/gag/aPAvq2w)
+ - 💣 [Elevator in Trouble](http://9gag.com/gag/an7YP8z)
  - 😝 [Brilliant collaboration](http://9gag.com/gag/aKGzQ0Q)
- - 😝 [Well well well...](http://9gag.com/gag/aGy9mbG)
- - 💣 [Real life Cartoon Charakter](http://9gag.com/gag/aByKeA1)
- - 😝 [You&#39;ve come to the right place](http://9gag.com/gag/a9ydx31)
- - 👉 [Now this is good..](http://9gag.com/gag/aryp7yV)<!-- MEMES:END -->
+ - 👉 [Well well well...](http://9gag.com/gag/aGy9mbG)<!-- MEMES:END -->
 
 ---
 

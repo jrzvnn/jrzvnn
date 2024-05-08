@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Elevator in Trouble](http://9gag.com/gag/an7YP8z)
- - 😝 [What privicy?](http://9gag.com/gag/aPAvq2w)
- - 💣 [Mary, is that you?](http://9gag.com/gag/aByK5O2)
- - 😝 [My psychologist: the giant dwarf does not exist.... The giant dwarf:](http://9gag.com/gag/ae9NnPq)
- - 👉 [Men just want one thing](http://9gag.com/gag/arypYMd)<!-- MEMES:END -->
+ - 😝 [I wonder why people don&#39;t trust journalists ....](http://9gag.com/gag/agmyPLn)
+ - 😝 [Well well well...](http://9gag.com/gag/aGy9mbG)
+ - 💣 [The cooling must be great thou](http://9gag.com/gag/avy0N7q)
+ - 😝 [Okay I will not not do that not by before tomorrow but after yesterday if it doesn\u2019t have to not happen\u2026.](http://9gag.com/gag/agmyWgW)
+ - 👉 [The famous late revenge](http://9gag.com/gag/an7Y6yq)<!-- MEMES:END -->
 
 ---
 

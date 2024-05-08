@@ -174,10 +174,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Gear up people down?](http://9gag.com/gag/an7YP4n)
- - 😝 [Hercules](http://9gag.com/gag/aAyYjjd)
- - 💣 [Mary, is that you?](http://9gag.com/gag/aByK5O2)
+ - 😝 [She lives in Chicago streets by the way..](http://9gag.com/gag/aVvOyrn)
+ - 💣 [Palestine fan](http://9gag.com/gag/aYQb0Q7)
  - 😝 [What privicy?](http://9gag.com/gag/aPAvq2w)
- - 👉 [Oh f*** you gonna make me squint your eyes again](http://9gag.com/gag/an7Y6y5)<!-- MEMES:END -->
+ - 👉 [Mental illness is a big issue in the west](http://9gag.com/gag/agmyDVg)<!-- MEMES:END -->
 
 ---
 

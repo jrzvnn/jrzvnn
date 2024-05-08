@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Coupang reports Q1 revenue up 23% YoY to $7.1B, adjusted EBITDA up 17% YoY to $281M, vs. $283.3M est., and net income down 95% YoY including Farfetch losses &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/240507/p54#a240507p54)
  - [iRobot appoints Gary Cohen as its new CEO after Colin Angle resigned in January 2024 and forecasts 2024 revenue with a midpoint of $837.5M, vs. $829.8M expected &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/240507/p53#a240507p53)
  - [Robinhood CEO Vlad Tenev decries the &quot;regulatory onslaught&quot; and calls SEC&#39;s actions &quot;another improper attempt by the administrative state to stifle innovation&quot; &lpar;Andr&amp;eacute; Beganski/Decrypt&rpar;](http://www.techmeme.com/240507/p52#a240507p52)
  - [Red Hat announces RHEL AI, a platform for developing and running open source LLMs, and InstructLab, a community project to let experts enhance AI models &lpar;Bryson Masse/VentureBeat&rpar;](http://www.techmeme.com/240507/p51#a240507p51)
- - [President Biden signs the REPORT Act into law, which levies hefty fines against companies that neglect to report CSAM on their sites to the NCMEC&#39;s CyberTipline &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/240507/p50#a240507p50)
- - [C’mon, Why Isn’t the New Apple Pencil Pro Backward Compatible?](https://www.wired.com/story/apple-pencil-pro-not-backward-compatible/)<!-- TECH:END -->
+ - [President Biden signs the REPORT Act into law, which levies hefty fines against companies that neglect to report CSAM on their sites to the NCMEC&#39;s CyberTipline &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/240507/p50#a240507p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

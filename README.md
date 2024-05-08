@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok ban: all the news on attempts to ban the video platform](https://www.theverge.com/23651507/tiktok-ban-us-news)
- - [Google DeepMind and Isomorphic Labs detail AlphaFold 3, an AI model of life&#39;s building blocks and their interactions within cells, with sophisticated forecasts &lpar;Michael Peel/Financial Times&rpar;](http://www.techmeme.com/240508/p33#a240508p33)
- - [Stack Overflow is feeding programmers’ answers to AI, whether they like it or not](https://www.theverge.com/2024/5/8/24151906/stack-overflow-ai-protest-posts-deleted-restored)
- - [Microsoft plans to add a new auto-complete feature that offers suggestions to improve AI prompts to Copilot for Microsoft 365 in the coming months &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240508/p32#a240508p32)
- - [Google DeepMind’s Groundbreaking AI for Protein Structure Can Now Model DNA](https://www.wired.com/story/alphafold-3-google-deepmind-ai-protein-structure-dna/)<!-- TECH:END -->
+ - [Google DeepMind CEO Demis Hassabis says AI breakthroughs in biology research could be a $100B+ business, commercialized via DeepMind spinout Isomorphic Labs &lpar;Bloomberg&rpar;](http://www.techmeme.com/240508/p34#a240508p34)
+ - [Apple&#39;s new iPad Pro benchmarks demonstrate impressive tablet AI performance](https://appleinsider.com/articles/24/05/08/apples-new-ipad-pro-benchmarks-demonstrate-impressive-tablet-ai-performance?utm_medium=rss)
+ - [Apple TV+&#39;s &#39;Ted Lasso&#39; heads to Blu-ray on July 30](https://appleinsider.com/articles/24/05/08/apple-tvs-ted-lasso-heads-to-blu-ray-on-july-30?utm_medium=rss)
+ - [A new iPhone shortcut replicates Android’s best new feature](https://www.theverge.com/2024/5/8/24151918/google-app-shortcut-circle-to-search-google-lens-ios)
+ - [TikTok ban: all the news on attempts to ban the video platform](https://www.theverge.com/23651507/tiktok-ban-us-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

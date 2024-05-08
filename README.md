@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You can get a $100 gift card when you preorder Google’s Pixel 8A](https://www.theverge.com/2024/5/8/24151342/google-pixel-8a-lego-icons-tiny-plants-deal-sale)
  - [Peacock is turning The Office into a franchise with a new spinoff series](https://www.theverge.com/2024/5/8/24152046/peacock-office-spinoff-greg-daniels-michael-koman)
- - [Top FBI Official Urges Agents to Use Warrantless Wiretaps on US Soil](https://www.wired.com/story/fbi-section-702-us-person-queries-email/)
- - [Apple loses another designer who worked in Jony Ive&#39;s core team](https://appleinsider.com/articles/24/05/08/apple-loses-another-designer-who-worked-in-jony-ives-core-team?utm_medium=rss)
- - [Google DeepMind’s new AI can model DNA, RNA, and ‘all life’s molecules’](https://www.theverge.com/2024/5/8/24152088/google-deepmind-ai-model-predict-molecular-structure-alphafold)
- - [Save Up to 75% Off Concert Tickets to Over 5,000 Shows During Live Nation&#39;s Concert Week     - CNET](https://www.cnet.com/deals/save-up-to-75-off-concert-tickets-to-over-5000-shows-during-live-nations-concert-week/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [3 Ways to Lose Your Social Security Benefits     - CNET](https://www.cnet.com/personal-finance/3-ways-to-lose-your-social-security-benefits/#ftag=CAD590a51e)
+ - [Best Cheap VPN for 2024: Privacy on a Budget     - CNET](https://www.cnet.com/tech/services-and-software/best-cheap-vpn/#ftag=CAD590a51e)
+ - [Best Apple AirPods for 2024     - CNET](https://www.cnet.com/tech/mobile/best-apple-airpods/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

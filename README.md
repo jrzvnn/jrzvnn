@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Disney and WBD announce a streaming bundle of Disney+, Hulu, and Max, with ad-supported and ad-free plans, beginning this summer in the US, with pricing to come &lpar;Dade Hayes/Deadline&rpar;](http://www.techmeme.com/240508/p46#a240508p46)
+ - [China’s Chang’e 6 Moon probe has a mysterious guest on board](https://www.theverge.com/2024/5/8/24152190/china-chang-e-6-moon-probe-rover-spotted)
  - [US hospital operator Ascension reports disruptions to its clinical operations due to a suspected cybersecurity incident and engages Mandiant to help investigate &lpar;Pratik Jain/Reuters&rpar;](http://www.techmeme.com/240508/p45#a240508p45)
  - [OpenAI’s Model Spec outlines some basic rules for AI](https://www.theverge.com/2024/5/8/24152273/openai-model-spec-behavior-rules-guidelines-artificial-intelligence)
- - [A look at potential successors to Tim Cook; sources say Apple&#39;s hardware engineering chief John Ternus is the most likely long-term successor &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240508/p44#a240508p44)
- - [The next Apple CEO: Who could succeed Tim Cook?](https://appleinsider.com/articles/24/03/06/the-next-apple-ceo-who-could-succeed-tim-cook?utm_medium=rss)
- - [Walmart shopper data will soon feed targeted ads on Disney Plus and Hulu](https://www.theverge.com/2024/5/8/24152172/walmart-disney-plus-hulu-targeted-ads)<!-- TECH:END -->
+ - [A look at potential successors to Tim Cook; sources say Apple&#39;s hardware engineering chief John Ternus is the most likely long-term successor &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240508/p44#a240508p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

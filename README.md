@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google DeepMind’s new AI can model DNA, RNA, and ‘all life’s molecules’](https://www.theverge.com/2024/5/8/24152088/google-deepmind-ai-model-predict-molecular-structure-alphafold)
  - [An investigation into AdVon, the company behind Sports Illustrated&#39;s fake writers, finds its AI content and fake authors at the LA Times, Miami Herald, and more &lpar;Maggie Harrison/Futurism&rpar;](http://www.techmeme.com/240508/p37#a240508p37)
  - [A Russian Influence Campaign Is Exploiting College Campus Protests](https://www.wired.com/story/russian-influence-campaign-exploiting-college-campus-protests/)
  - [FTX Creditors Say Payout Deal Is &#39;an Insult&#39;—and Plan to Revolt](https://www.wired.com/story/ftx-creditors-crypto-payout-rejection/)
- - [iPad gives nonspeaking woman a voice to advocate for Americans with disabilities](https://appleinsider.com/articles/24/05/08/ipad-gives-nonspeaking-woman-a-voice-to-advocate-for-americans-with-disabilities?utm_medium=rss)
- - [Uber’s not out of the woods yet](https://www.theverge.com/2024/5/8/24151901/uber-q1-2024-earnings-net-loss-profit-settlement-drivers)<!-- TECH:END -->
+ - [iPad gives nonspeaking woman a voice to advocate for Americans with disabilities](https://appleinsider.com/articles/24/05/08/ipad-gives-nonspeaking-woman-a-voice-to-advocate-for-americans-with-disabilities?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Great Master](http://9gag.com/gag/amoXZwj)
- - 😝 [Sounds like a bad day](http://9gag.com/gag/a0e93yz)
- - 💣 [Thank you for flying Blender Air!](http://9gag.com/gag/aRBQd4A)
- - 😝 [He is one](http://9gag.com/gag/a9yd0oj)
- - 👉 [Oh f*** you gonna make me squint your eyes again](http://9gag.com/gag/an7Y6y5)<!-- MEMES:END -->
+ - 😝 [Mental illness is a big issue in the west](http://9gag.com/gag/agmyDVg)
+ - 😝 [Stuntwoman Training](http://9gag.com/gag/ajPr4AG)
+ - 💣 [Palestine fan](http://9gag.com/gag/aYQb0Q7)
+ - 😝 [Oh f*** you gonna make me squint your eyes again](http://9gag.com/gag/an7Y6y5)
+ - 👉 [Elevator in Trouble](http://9gag.com/gag/an7YP8z)<!-- MEMES:END -->
 
 ---
 

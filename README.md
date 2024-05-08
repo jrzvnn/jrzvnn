@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bluesky details its product roadmap: an off-protocol DM system to facilitate one-on-one chats, custom feeds, anti-harassment tools, video support, and more &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240508/p19#a240508p19)
+ - [March iPhone discounts in China may have saved Apple&#39;s quarter](https://appleinsider.com/articles/24/05/08/march-iphone-discounts-in-china-may-have-saved-apples-quarter?utm_medium=rss)
  - [Microsoft closes the engineering section of its Africa Development Center in Nigeria, two years after its opening, reportedly impacting 100+ engineers &lpar;Bloomberg&rpar;](http://www.techmeme.com/240508/p18#a240508p18)
  - [Tim Cook promises aid for Brazil flooding relief](https://appleinsider.com/articles/24/05/08/tim-cook-promises-aid-for-brazil-flooding-relief?utm_medium=rss)
- - [Ultra Retina XDR OLED screens in iPad Pro are just the latest evolution of Apple&#39;s flagship display tech](https://appleinsider.com/articles/24/05/07/ultra-retina-xdr-oled-screens-in-ipad-pro-are-just-the-latest-evolution-of-apples-flagship-display-tech?utm_medium=rss)
- - [The UK is investigating &quot;potential failings&quot; at IT contractor SSCL, which was breached by suspected Chinese hackers to expose payroll records for 272K people &lpar;Financial Times&rpar;](http://www.techmeme.com/240508/p17#a240508p17)
- - [A &lpar;Strange&rpar; Interview the Russian-Military-Linked Hackers Targeting US Water Utilities](https://www.wired.com/story/cyber-army-of-russia-interview/)<!-- TECH:END -->
+ - [Ultra Retina XDR OLED screens in iPad Pro are just the latest evolution of Apple&#39;s flagship display tech](https://appleinsider.com/articles/24/05/07/ultra-retina-xdr-oled-screens-in-ipad-pro-are-just-the-latest-evolution-of-apples-flagship-display-tech?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

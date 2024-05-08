@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Uber’s not out of the woods yet](https://www.theverge.com/2024/5/8/24151901/uber-q1-2024-earnings-net-loss-profit-settlement-drivers)
  - [Here’s where you can preorder Apple’s latest iPad Air and iPad Pro](https://www.theverge.com/24144427/ipad-air-pro-preorder-buy-how-to)
  - [I regret to inform you that LinkedIn’s games are very fun](https://www.theverge.com/24152045/linkedin-games-crossclimb-queens-pinpoint)
  - [10 Great Deals on Last-Minute Mother’s Day Gifts &lpar;2024&rpar;](https://www.wired.com/story/last-minute-mothers-day-gifts-deals-2024/)
- - [Alternate Avengers assemble on Apple Vision Pro in &#39;What If...? -- An Immersive Story&#39;](https://appleinsider.com/articles/24/05/08/alternate-avengers-assemble-on-apple-vision-pro-in-what-if----an-immersive-story?utm_medium=rss)
- - [New 13-inch iPad Air will eat into iPad Pro sales](https://appleinsider.com/articles/24/05/08/new-13-inch-ipad-air-will-eat-into-ipad-pro-sales?utm_medium=rss)<!-- TECH:END -->
+ - [Alternate Avengers assemble on Apple Vision Pro in &#39;What If...? -- An Immersive Story&#39;](https://appleinsider.com/articles/24/05/08/alternate-avengers-assemble-on-apple-vision-pro-in-what-if----an-immersive-story?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

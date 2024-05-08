@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Things are F#ed up in Europe](http://9gag.com/gag/an7YP6n)
- - 😝 [Well well well...](http://9gag.com/gag/aGy9mbG)
- - 💣 [Elevator in Trouble](http://9gag.com/gag/an7YP8z)
- - 😝 [What privicy?](http://9gag.com/gag/aPAvq2w)
- - 👉 [My psychologist: the giant dwarf does not exist.... The giant dwarf:](http://9gag.com/gag/ae9NnPq)<!-- MEMES:END -->
+ - 😝 [Now this is good..](http://9gag.com/gag/aryp7yV)
+ - 😝 [My psychologist: the giant dwarf does not exist.... The giant dwarf:](http://9gag.com/gag/ae9NnPq)
+ - 💣 [Sounds like a bad day](http://9gag.com/gag/a0e93yz)
+ - 😝 [Lol](http://9gag.com/gag/a9ydeNm)
+ - 👉 [Thank you for flying Blender Air!](http://9gag.com/gag/aRBQd4A)<!-- MEMES:END -->
 
 ---
 

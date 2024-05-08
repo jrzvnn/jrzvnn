@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An investigation into AdVon, the company behind Sports Illustrated&#39;s fake writers, finds its AI content and fake authors at the LA Times, Miami Herald, and more &lpar;Maggie Harrison/Futurism&rpar;](http://www.techmeme.com/240508/p37#a240508p37)
+ - [A Russian Influence Campaign Is Exploiting College Campus Protests](https://www.wired.com/story/russian-influence-campaign-exploiting-college-campus-protests/)
  - [FTX Creditors Say Payout Deal Is &#39;an Insult&#39;—and Plan to Revolt](https://www.wired.com/story/ftx-creditors-crypto-payout-rejection/)
  - [iPad gives nonspeaking woman a voice to advocate for Americans with disabilities](https://appleinsider.com/articles/24/05/08/ipad-gives-nonspeaking-woman-a-voice-to-advocate-for-americans-with-disabilities?utm_medium=rss)
- - [Uber’s not out of the woods yet](https://www.theverge.com/2024/5/8/24151901/uber-q1-2024-earnings-net-loss-profit-settlement-drivers)
- - [Here’s where you can preorder Apple’s latest iPad Air and iPad Pro](https://www.theverge.com/24144427/ipad-air-pro-preorder-buy-how-to)
- - [I regret to inform you that LinkedIn’s games are very fun](https://www.theverge.com/24152045/linkedin-games-crossclimb-queens-pinpoint)<!-- TECH:END -->
+ - [Uber’s not out of the woods yet](https://www.theverge.com/2024/5/8/24151901/uber-q1-2024-earnings-net-loss-profit-settlement-drivers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

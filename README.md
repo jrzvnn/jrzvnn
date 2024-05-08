@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sherk](http://9gag.com/gag/ae9NnWO)
- - 😝 [The cooling must be great thou](http://9gag.com/gag/avy0N7q)
- - 💣 [Now this is good..](http://9gag.com/gag/aryp7yV)
- - 😝 [This Is Definitely True](http://9gag.com/gag/aNDe7bA)
- - 👉 [What was the purpose of all that work?](http://9gag.com/gag/aqymPMY)<!-- MEMES:END -->
+ - 😝 [Real life Cartoon Charakter](http://9gag.com/gag/aByKeA1)
+ - 😝 [Now this is good..](http://9gag.com/gag/aryp7yV)
+ - 💣 [Wait...What?!](http://9gag.com/gag/aQzqbg7)
+ - 😝 [Thank you, now the environment is saved...](http://9gag.com/gag/aYQb01w)
+ - 👉 [Stuntwoman Training](http://9gag.com/gag/ajPr4AG)<!-- MEMES:END -->
 
 ---
 

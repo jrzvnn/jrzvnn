@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You&#39;ve come to the right place](http://9gag.com/gag/a9ydx31)
+ - 😝 [I absolutely hate grumpy old people](http://9gag.com/gag/azxb3ex)
+ - 😝 [Stuntwoman Training](http://9gag.com/gag/ajPr4AG)
+ - 💣 [A disaster about to happen; they just do not know it yet.](http://9gag.com/gag/agmyemg)
  - 😝 [Elevator in Trouble](http://9gag.com/gag/an7YP8z)
- - 💣 [My psychologist: the giant dwarf does not exist.... The giant dwarf:](http://9gag.com/gag/ae9NnPq)
- - 😝 [Avatar concept art vs the final design](http://9gag.com/gag/ajPrpZG)
- - 👉 [Gear up people down?](http://9gag.com/gag/an7YP4n)<!-- MEMES:END -->
+ - 👉 [Eva on it again](http://9gag.com/gag/a1mAyov)<!-- MEMES:END -->
 
 ---
 

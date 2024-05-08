@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You don&#39;t say](http://9gag.com/gag/an7Y6RV)
- - 😝 [This Is Definitely True](http://9gag.com/gag/aNDe7bA)
- - 💣 [What was the purpose of all that work?](http://9gag.com/gag/aqymPMY)
- - 😝 [Well well well...](http://9gag.com/gag/aGy9mbG)
- - 👉 [The cooling must be great thou](http://9gag.com/gag/avy0N7q)<!-- MEMES:END -->
+ - 😝 [Taiwan tourist witnesses extremely rare phenomenon called the `Milipede River`](http://9gag.com/gag/aQzqWmW)
+ - 😝 [This man tried to tell the truth to the world 100 years ago and no one listened. Now we are watching 4k videos of Arabs raping, killing and beheading citizens in their own countries and European countries!... protect your country and your people](http://9gag.com/gag/amoXQ34)
+ - 💣 [Now this is good..](http://9gag.com/gag/aryp7yV)
+ - 😝 [Everything is an e-bike](http://9gag.com/gag/amoXZg6)
+ - 👉 [Oh f*** you gonna make me squint your eyes again](http://9gag.com/gag/an7Y6y5)<!-- MEMES:END -->
 
 ---
 

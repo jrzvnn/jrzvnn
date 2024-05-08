@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: SoftBank is in advanced talks to acquire Graphcore, a struggling UK-based chip startup once valued at $2.8B that reported just $2.7M in 2022 revenue &lpar;Bloomberg&rpar;](http://www.techmeme.com/240508/p9#a240508p9)
  - [Samsung Electronics&#39; medical device unit Samsung Medison plans to acquire Paris-based Sonio, which makes AI-powered ultrasound workflows software, for ~$92.7M &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/240508/p8#a240508p8)
  - [Sources: Intel is partnering with 14 Japanese companies to develop tech by 2028 to automate the largely manual &quot;back-end&quot; chipmaking processes like packaging &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240508/p7#a240508p7)
  - [Moving Soon? All the Discounts You Can Get     - CNET](https://www.cnet.com/home/services/moving-soon-all-the-discounts-you-can-get/#ftag=CAD590a51e)
- - [Cardboard or Plastic: Which Is the Right Moving Box for You?     - CNET](https://www.cnet.com/how-to/cardboard-or-plastic-which-is-the-right-moving-box-for-you/#ftag=CAD590a51e)
- - [Analysis: the tech-dominated list of top 50 companies whose stocks made the biggest percentage gains in 2020 have since collectively lost $1.5T in market value &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/240508/p6#a240508p6)<!-- TECH:END -->
+ - [Cardboard or Plastic: Which Is the Right Moving Box for You?     - CNET](https://www.cnet.com/how-to/cardboard-or-plastic-which-is-the-right-moving-box-for-you/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

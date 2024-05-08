@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t use the time machine](http://9gag.com/gag/aoyzwv2)
- - 😝 [You are now on the watch list.](http://9gag.com/gag/aW4Z5AA)
- - 💣 [Not many i think](http://9gag.com/gag/ayN5w9V)
- - 😝 [Nailed it!](http://9gag.com/gag/amoXZX4)
- - 👉 [A disaster about to happen; they just do not know it yet.](http://9gag.com/gag/agmyemg)<!-- MEMES:END -->
+ - 😝 [Elevator in Trouble](http://9gag.com/gag/an7YP8z)
+ - 😝 [Stuntwoman Training](http://9gag.com/gag/ajPr4AG)
+ - 💣 [Latino&#39;s priorities](http://9gag.com/gag/ayN5jMp)
+ - 😝 [Wait a second](http://9gag.com/gag/aMV1Lz6)
+ - 👉 [Sounds like a bad day](http://9gag.com/gag/a0e93yz)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Red Hat announces RHEL AI, a platform for developing and running open source LLMs, and InstructLab, a community project to let experts enhance AI models &lpar;Bryson Masse/VentureBeat&rpar;](http://www.techmeme.com/240507/p51#a240507p51)
  - [President Biden signs the REPORT Act into law, which levies hefty fines against companies that neglect to report CSAM on their sites to the NCMEC&#39;s CyberTipline &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/240507/p50#a240507p50)
  - [C’mon, Why Isn’t the New Apple Pencil Pro Backward Compatible?](https://www.wired.com/story/apple-pencil-pro-not-backward-compatible/)
  - [Best Wireless Headphones for 2024     - CNET](https://www.cnet.com/tech/mobile/best-wireless-headphones/#ftag=CAD590a51e)
- - [IBM open sources its Granite code models for code generative tasks, trained on 116 programming languages, with models ranging in size from 3B to 34B parameters &lpar;Mike Murphy/IBM Research&rpar;](http://www.techmeme.com/240507/p49#a240507p49)
- - [FTX says it will have as much as $16.3B to distribute once it finishes selling all of its assets; it owes customers and other non-governmental creditors ~$11B &lpar;Steven Church/Bloomberg&rpar;](http://www.techmeme.com/240507/p48#a240507p48)<!-- TECH:END -->
+ - [IBM open sources its Granite code models for code generative tasks, trained on 116 programming languages, with models ranging in size from 3B to 34B parameters &lpar;Mike Murphy/IBM Research&rpar;](http://www.techmeme.com/240507/p49#a240507p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

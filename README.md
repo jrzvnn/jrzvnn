@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Real life Cartoon Charakter](http://9gag.com/gag/aByKeA1)
- - 😝 [Now this is good..](http://9gag.com/gag/aryp7yV)
- - 💣 [Wait...What?!](http://9gag.com/gag/aQzqbg7)
- - 😝 [Thank you, now the environment is saved...](http://9gag.com/gag/aYQb01w)
- - 👉 [Stuntwoman Training](http://9gag.com/gag/ajPr4AG)<!-- MEMES:END -->
+ - 😝 [My psychologist: the giant dwarf does not exist.... The giant dwarf:](http://9gag.com/gag/ae9NnPq)
+ - 😝 [Well well well...](http://9gag.com/gag/aGy9mbG)
+ - 💣 [Stuntwoman Training](http://9gag.com/gag/ajPr4AG)
+ - 😝 [Elevator in Trouble](http://9gag.com/gag/an7YP8z)
+ - 👉 [Okay I will not not do that not by before tomorrow but after yesterday if it doesn\u2019t have to not happen\u2026.](http://9gag.com/gag/agmyWgW)<!-- MEMES:END -->
 
 ---
 

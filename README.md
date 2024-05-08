@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [At last Apple is dumping those pointless, wasteful stickers](https://appleinsider.com/articles/24/05/08/at-last-apple-is-dumping-those-pointless-wasteful-stickers?utm_medium=rss)
+ - [Shopify reports Q1 revenue up 23% YoY to $1.9B, GMV up 23% YoY to $60.9B, and expects gross margins to drop by ~50 basis points YoY in Q2; SHOP plummets 18%+ &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/240508/p23#a240508p23)
+ - [Delonghi Specialista Arte Evo Espresso Machine With Cold Brew Review: A Little Weird](https://www.wired.com/review/delonghi-specialista-arte-evo-espresso-machine-with-cold-brew/)
  - [Blockbuster &#39;Baldur&#39;s Gate 3&#39; adventure game not coming to iPad](https://appleinsider.com/articles/24/05/08/blockbuster-baldurs-gate-3-adventure-game-not-coming-to-ipad?utm_medium=rss)
- - [Uber reports Q1 revenue up 15% YoY to $10.1B, Gross Bookings up 20% YoY to $37.7B, below $38B est., and adjusted EBITDA up 82% YoY to $1.4B; UBER falls 10%+ &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/240508/p22#a240508p22)
- - [Head of Apple TV+ marketing Ricky Strauss is leaving](https://appleinsider.com/articles/24/05/08/head-of-apple-tv-marketing-ricky-strauss-is-leaving?utm_medium=rss)
- - [SIA and Boston Consulting Group: the US will triple its domestic chip manufacturing capacity by 2032, boosting its global chip making share to 14% from 10% now &lpar;Madeleine Ngo/New York Times&rpar;](http://www.techmeme.com/240508/p21#a240508p21)
- - [Hades 2 Is In Early Access, but You Can Play the Original on Netflix Games Now     - CNET](https://www.cnet.com/tech/gaming/hades-2-is-in-early-access-but-you-can-play-the-original-on-netflix-games-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Uber reports Q1 revenue up 15% YoY to $10.1B, Gross Bookings up 20% YoY to $37.7B, below $38B est., and adjusted EBITDA up 82% YoY to $1.4B; UBER falls 10%+ &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/240508/p22#a240508p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

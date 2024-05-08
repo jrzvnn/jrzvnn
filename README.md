@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Data collaboration software maker Atlan raised a $105M Series C led by Singapore&#39;s GIC and Meritech at a $750M valuation, taking its total funding to $206M &lpar;Manya Saini/Reuters&rpar;](http://www.techmeme.com/240508/p24#a240508p24)
  - [At last Apple is dumping those pointless, wasteful stickers](https://appleinsider.com/articles/24/05/08/at-last-apple-is-dumping-those-pointless-wasteful-stickers?utm_medium=rss)
  - [Shopify reports Q1 revenue up 23% YoY to $1.9B, GMV up 23% YoY to $60.9B, and expects gross margins to drop by ~50 basis points YoY in Q2; SHOP plummets 18%+ &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/240508/p23#a240508p23)
  - [Delonghi Specialista Arte Evo Espresso Machine With Cold Brew Review: A Little Weird](https://www.wired.com/review/delonghi-specialista-arte-evo-espresso-machine-with-cold-brew/)
- - [Blockbuster &#39;Baldur&#39;s Gate 3&#39; adventure game not coming to iPad](https://appleinsider.com/articles/24/05/08/blockbuster-baldurs-gate-3-adventure-game-not-coming-to-ipad?utm_medium=rss)
- - [Uber reports Q1 revenue up 15% YoY to $10.1B, Gross Bookings up 20% YoY to $37.7B, below $38B est., and adjusted EBITDA up 82% YoY to $1.4B; UBER falls 10%+ &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/240508/p22#a240508p22)<!-- TECH:END -->
+ - [Blockbuster &#39;Baldur&#39;s Gate 3&#39; adventure game not coming to iPad](https://appleinsider.com/articles/24/05/08/blockbuster-baldurs-gate-3-adventure-game-not-coming-to-ipad?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

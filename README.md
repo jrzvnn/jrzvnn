@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Walmart shopper data will soon feed targeted ads on Disney Plus and Hulu](https://www.theverge.com/2024/5/8/24152172/walmart-disney-plus-hulu-targeted-ads)
  - [Instacart Q1: revenue up 8% YoY to $820M, vs. $794.5M est., gross transaction value up 11% to $8.32B; CFO Nick Giovanni is retiring, replaced by Emily Reuter &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/240508/p43#a240508p43)
  - [Robinhood reports Q1 revenue up 40% YoY to $618M, vs. $549M est., crypto transaction revenue up 232% to $126M, net income of $157M, vs. a net loss of $511M YoY &lpar;Jesse Pound/CNBC&rpar;](http://www.techmeme.com/240508/p42#a240508p42)
  - [People sure are pressed about Apple’s crushing iPad commercial](https://www.theverge.com/2024/5/8/24152236/apple-ipad-pro-commercial-artists-ai)
- - [Airbnb reports Q1 revenue up 18% YoY to $2.14B, vs. $2.06B est., Nights and Experiences Booked up 9.5% to 132.6M, and forecasts Q2 revenue below expectations &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240508/p41#a240508p41)
- - [Skechers Bungee Sneaker     - CNET](https://www.cnet.com/culture/fashion/skechers-bungee-sneaker-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Airbnb reports Q1 revenue up 18% YoY to $2.14B, vs. $2.06B est., Nights and Experiences Booked up 9.5% to 132.6M, and forecasts Q2 revenue below expectations &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240508/p41#a240508p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

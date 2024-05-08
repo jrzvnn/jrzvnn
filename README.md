@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Top FBI Official Urges Agents to Use Warrantless Wiretaps on US Soil](https://www.wired.com/story/fbi-section-702-us-person-queries-email/)
  - [Apple loses another designer who worked in Jony Ive&#39;s core team](https://appleinsider.com/articles/24/05/08/apple-loses-another-designer-who-worked-in-jony-ives-core-team?utm_medium=rss)
  - [Google DeepMind’s new AI can model DNA, RNA, and ‘all life’s molecules’](https://www.theverge.com/2024/5/8/24152088/google-deepmind-ai-model-predict-molecular-structure-alphafold)
  - [Save Up to 75% Off Concert Tickets to Over 5,000 Shows During Live Nation&#39;s Concert Week     - CNET](https://www.cnet.com/deals/save-up-to-75-off-concert-tickets-to-over-5000-shows-during-live-nations-concert-week/#ftag=CAD590a51e)
- - [An investigation into AdVon, the company behind Sports Illustrated&#39;s fake writers, finds its AI content and fake authors at the LA Times, Miami Herald, and more &lpar;Maggie Harrison/Futurism&rpar;](http://www.techmeme.com/240508/p37#a240508p37)
- - [A Russian Influence Campaign Is Exploiting College Campus Protests](https://www.wired.com/story/russian-influence-campaign-exploiting-college-campus-protests/)<!-- TECH:END -->
+ - [An investigation into AdVon, the company behind Sports Illustrated&#39;s fake writers, finds its AI content and fake authors at the LA Times, Miami Herald, and more &lpar;Maggie Harrison/Futurism&rpar;](http://www.techmeme.com/240508/p37#a240508p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

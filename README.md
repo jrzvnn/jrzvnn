@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Israeli drone startup Xtend, which lets operators orchestrate teams of drones and robots, raised $40M led by Chartered Group at a ~$110M post-money valuation &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240508/p30#a240508p30)
  - [FTX says most customers will get all their money back](https://www.theverge.com/2024/5/8/24151882/ftx-customers-repaid-bankruptcy-debt)
- - [Britax Willow SC Review: A Fantastic Stroller and Car Seat Combo](https://www.wired.com/review/britax-willow-sc/)
- - [Tesla is being investigated for securities and wire fraud for self-driving claims](https://www.theverge.com/2024/5/8/24151881/tesla-justice-investigation-securities-wire-fraud-self-driving)
- - [Matter 1.3 is finalized, bringing support for EV chargers, more appliances, &amp; other improvements](https://appleinsider.com/articles/24/05/08/matter-13-is-finalized-bringing-support-for-ev-chargers-more-appliances-other-improvements?utm_medium=rss)
- - [The Connectivity Standards Alliance releases Matter 1.3, adding support for more appliances, energy and water management, and new casting protocol features &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/240508/p29#a240508p29)<!-- TECH:END -->
+ - [How to Get Your Microwave to Stop Beeping... Finally     - CNET](https://www.cnet.com/home/kitchen-and-household/how-to-get-your-microwave-to-stop-beeping-finally/#ftag=CAD590a51e)
+ - [How Curtains, Drapes and Blinds Can Save You Energy     - CNET](https://www.cnet.com/how-to/how-curtains-drapes-and-blinds-can-save-you-energy/#ftag=CAD590a51e)
+ - [Britax Willow SC Review: A Fantastic Stroller and Car Seat Combo](https://www.wired.com/review/britax-willow-sc/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

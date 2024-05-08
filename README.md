@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Electronics&#39; medical device unit Samsung Medison plans to acquire Paris-based Sonio, which makes AI-powered ultrasound workflows software, for ~$92.7M &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/240508/p8#a240508p8)
  - [Sources: Intel is partnering with 14 Japanese companies to develop tech by 2028 to automate the largely manual &quot;back-end&quot; chipmaking processes like packaging &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240508/p7#a240508p7)
  - [Moving Soon? All the Discounts You Can Get     - CNET](https://www.cnet.com/home/services/moving-soon-all-the-discounts-you-can-get/#ftag=CAD590a51e)
  - [Cardboard or Plastic: Which Is the Right Moving Box for You?     - CNET](https://www.cnet.com/how-to/cardboard-or-plastic-which-is-the-right-moving-box-for-you/#ftag=CAD590a51e)
- - [Analysis: the tech-dominated list of top 50 companies whose stocks made the biggest percentage gains in 2020 have since collectively lost $1.5T in market value &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/240508/p6#a240508p6)
- - [TikTok vs. US filing: ByteDance founder Zhang Yiming owns a 21% stake in TikTok&#39;s parent company, and is living in Singapore while keeping Chinese citizenship &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/240508/p5#a240508p5)<!-- TECH:END -->
+ - [Analysis: the tech-dominated list of top 50 companies whose stocks made the biggest percentage gains in 2020 have since collectively lost $1.5T in market value &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/240508/p6#a240508p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

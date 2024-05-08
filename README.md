@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Taiwan tourist witnesses extremely rare phenomenon called the `Milipede River`](http://9gag.com/gag/aQzqWmW)
- - 😝 [This man tried to tell the truth to the world 100 years ago and no one listened. Now we are watching 4k videos of Arabs raping, killing and beheading citizens in their own countries and European countries!... protect your country and your people](http://9gag.com/gag/amoXQ34)
- - 💣 [Now this is good..](http://9gag.com/gag/aryp7yV)
- - 😝 [Everything is an e-bike](http://9gag.com/gag/amoXZg6)
- - 👉 [Oh f*** you gonna make me squint your eyes again](http://9gag.com/gag/an7Y6y5)<!-- MEMES:END -->
+ - 😝 [You&#39;ve come to the right place](http://9gag.com/gag/a9ydx31)
+ - 😝 [Elevator in Trouble](http://9gag.com/gag/an7YP8z)
+ - 💣 [My psychologist: the giant dwarf does not exist.... The giant dwarf:](http://9gag.com/gag/ae9NnPq)
+ - 😝 [Avatar concept art vs the final design](http://9gag.com/gag/ajPrpZG)
+ - 👉 [Gear up people down?](http://9gag.com/gag/an7YP4n)<!-- MEMES:END -->
 
 ---
 

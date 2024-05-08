@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Avatar concept art vs the final design](http://9gag.com/gag/ajPrpZG)
- - 😝 [A disaster about to happen; they just do not know it yet.](http://9gag.com/gag/agmyemg)
- - 💣 [I absolutely hate grumpy old people](http://9gag.com/gag/azxb3ex)
- - 😝 [Elevator in Trouble](http://9gag.com/gag/an7YP8z)
- - 👉 [Thank you for flying Blender Air!](http://9gag.com/gag/aRBQd4A)<!-- MEMES:END -->
+ - 😝 [You don&#39;t say](http://9gag.com/gag/an7Y6RV)
+ - 😝 [This Is Definitely True](http://9gag.com/gag/aNDe7bA)
+ - 💣 [What was the purpose of all that work?](http://9gag.com/gag/aqymPMY)
+ - 😝 [Well well well...](http://9gag.com/gag/aGy9mbG)
+ - 👉 [The cooling must be great thou](http://9gag.com/gag/avy0N7q)<!-- MEMES:END -->
 
 ---
 

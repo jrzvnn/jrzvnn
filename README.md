@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Matter is now racing ahead, but the platforms are holding it back](https://www.theverge.com/2024/5/8/24151664/matter-smarthome-standard-spec-1dot3-released-device-types-features)
- - [Intel expects Q2 revenue to be &quot;below the midpoint&quot; of the previously guided $12.5B to $13.5B range after a new US ban on Huawei chip exports &lpar;Lynn Doan/Bloomberg&rpar;](http://www.techmeme.com/240508/p28#a240508p28)
- - [Apple&#39;s &#39;Crush&#39; iPad Pro ad sparks intense backlash from creatives](https://appleinsider.com/articles/24/05/08/apples-crush-ipad-pro-ad-sparks-intense-backlash-from-creatives?utm_medium=rss)
- - [Sources: US prosecutors are examining if Tesla committed securities or wire fraud by misleading investors and consumers about Autopilot and Full Self-Driving &lpar;Reuters&rpar;](http://www.techmeme.com/240508/p27#a240508p27)
- - [Sources: the US Commerce Department is considering a new regulatory push to restrict the export of proprietary or closed source AI models to China &lpar;Reuters&rpar;](http://www.techmeme.com/240508/p26#a240508p26)<!-- TECH:END -->
+ - [Matter 1.3 is finalized, bringing support for EV chargers, more appliances, &amp; other improvements](https://appleinsider.com/articles/24/05/08/matter-13-is-finalized-bringing-support-for-ev-chargers-more-appliances-other-improvements?utm_medium=rss)
+ - [The Connectivity Standards Alliance releases Matter 1.3, adding support for more appliances, energy and water management, and new casting protocol features &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/240508/p29#a240508p29)
+ - [Goodbye to Apple’s Smart Keyboard Folio, the best iPad Pro accessory](https://www.theverge.com/24151209/ipad-pro-smart-keyboard-folio-review-discontinued)
+ - [It&#39;s Possible to Hack &#39;Tetris&#39; From Inside the Game Itself](https://www.wired.com/story/hack-tetris-from-inside-game-high-score/)
+ - [Matter is now racing ahead, but the platforms are holding it back](https://www.theverge.com/2024/5/8/24151664/matter-smarthome-standard-spec-1dot3-released-device-types-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

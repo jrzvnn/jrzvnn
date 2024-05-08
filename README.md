@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple releases an iPad Pro ad, titled &quot;Crush&quot;, showing paints, toys, guitars, and more being crushed to reveal the device, drawing criticism on social media &lpar;William Gallagher/AppleInsider&rpar;](http://www.techmeme.com/240508/p35#a240508p35)
  - [Flagship iPad head-to-head -- M4 iPad Pro vs M2 iPad Pro compared](https://appleinsider.com/inside/ipad-pro/vs/flagship-ipad-head-to-head----m4-ipad-pro-vs-m2-ipad-pro-compared?utm_medium=rss)
  - [Google DeepMind CEO Demis Hassabis says AI breakthroughs in biology research could be a $100B+ business, commercialized via DeepMind spinout Isomorphic Labs &lpar;Bloomberg&rpar;](http://www.techmeme.com/240508/p34#a240508p34)
  - [Apple&#39;s new iPad Pro benchmarks demonstrate impressive tablet AI performance](https://appleinsider.com/articles/24/05/08/apples-new-ipad-pro-benchmarks-demonstrate-impressive-tablet-ai-performance?utm_medium=rss)
- - [Apple TV+&#39;s &#39;Ted Lasso&#39; heads to Blu-ray on July 30](https://appleinsider.com/articles/24/05/08/apple-tvs-ted-lasso-heads-to-blu-ray-on-july-30?utm_medium=rss)
- - [A new iPhone shortcut replicates Android’s best new feature](https://www.theverge.com/2024/5/8/24151918/google-app-shortcut-circle-to-search-google-lens-ios)<!-- TECH:END -->
+ - [Apple TV+&#39;s &#39;Ted Lasso&#39; heads to Blu-ray on July 30](https://appleinsider.com/articles/24/05/08/apple-tvs-ted-lasso-heads-to-blu-ray-on-july-30?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple profits surge as consumers choose pricier iPhone storage options](https://appleinsider.com/articles/24/05/08/apple-profits-surge-as-consumers-choose-pricier-iphone-storage-options?utm_medium=rss)
- - [19 Best Sex Toys &lpar;2024&rpar;: Gender Inclusive, Couples, Solo](https://www.wired.com/gallery/best-sex-toys-and-tech/)
- - [Intel expects revenue blow after US blocks chip sales to Huawei](https://www.theverge.com/2024/5/8/24152031/intel-revenue-huawei-commerce-department-license-revoked)
- - [Apple&#39;s M4 Chip Promises Big Gains and Better AI Performance for the iPad Pro     - CNET](https://www.cnet.com/tech/computing/apples-m4-chip-promises-big-gains-and-better-ai-performance-for-the-ipad-pro/#ftag=CAD590a51e)
- - [The Google Pixel 8A Looks Slick in All These Colors     - CNET](https://www.cnet.com/pictures/the-google-pixel-8a-looks-slick-in-all-these-colors/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I regret to inform you that LinkedIn’s games are very fun](https://www.theverge.com/24152045/linkedin-games-crossclimb-queens-pinpoint)
+ - [10 Great Deals on Last-Minute Mother&#39;s Day Gifts &lpar;2024&rpar;](https://www.wired.com/story/last-minute-mothers-day-gifts-deals-2024/)
+ - [Alternate Avengers assemble on Apple Vision Pro in &#39;What If...? -- An Immersive Story&#39;](https://appleinsider.com/articles/24/05/08/alternate-avengers-assemble-on-apple-vision-pro-in-what-if----an-immersive-story?utm_medium=rss)
+ - [New 13-inch iPad Air will eat into iPad Pro sales](https://appleinsider.com/articles/24/05/08/new-13-inch-ipad-air-will-eat-into-ipad-pro-sales?utm_medium=rss)
+ - [Apple profits surge as consumers choose pricier iPhone storage options](https://appleinsider.com/articles/24/05/08/apple-profits-surge-as-consumers-choose-pricier-iphone-storage-options?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

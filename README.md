@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well well well...](http://9gag.com/gag/aGy9mbG)
+ - 😝 [What privicy?](http://9gag.com/gag/aPAvq2w)
+ - 😝 [A disaster about to happen; they just do not know it yet.](http://9gag.com/gag/agmyemg)
+ - 💣 [Stuntwoman Training](http://9gag.com/gag/ajPr4AG)
  - 😝 [Elevator in Trouble](http://9gag.com/gag/an7YP8z)
- - 💣 [A disaster about to happen; they just do not know it yet.](http://9gag.com/gag/agmyemg)
- - 😝 [Stuntwoman Training](http://9gag.com/gag/ajPr4AG)
- - 👉 [I absolutely hate grumpy old people](http://9gag.com/gag/azxb3ex)<!-- MEMES:END -->
+ - 👉 [Oh f*** you gonna make me squint your eyes again](http://9gag.com/gag/an7Y6y5)<!-- MEMES:END -->
 
 ---
 

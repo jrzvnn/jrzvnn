@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I don&#39;t know why she always need to brag about unimportant stuff.](http://9gag.com/gag/azxbzDq)
- - 😝 [Eva on it again](http://9gag.com/gag/a1mAyov)
- - 💣 [Stuntwoman Training](http://9gag.com/gag/ajPr4AG)
- - 😝 [Blondes just have more fun!](http://9gag.com/gag/aGy9v5w)
- - 👉 [You are now on the watch list.](http://9gag.com/gag/aW4Z5AA)<!-- MEMES:END -->
+ - 😝 [This is what happens when a society lacks diversity.](http://9gag.com/gag/aByK5b1)
+ - 😝 [Peak Cinema](http://9gag.com/gag/avy0KrM)
+ - 💣 [He felt so accomplished](http://9gag.com/gag/a0e9yWL)
+ - 😝 [Save for later:](http://9gag.com/gag/agmybdW)
+ - 👉 [Real life Cartoon Charakter](http://9gag.com/gag/aByKeA1)<!-- MEMES:END -->
 
 ---
 

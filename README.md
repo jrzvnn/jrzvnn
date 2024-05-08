@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: OpenAI has been aggressively trying to poach Google employees for a team working on a ChatGPT feature to search the web and show results with citations &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/240508/p3#a240508p3)
  - [Google says &quot;rare issues at Google Cloud&quot; caused a week-long private cloud outage at UniSuper, an Australian pension fund for the education and research sectors &lpar;Georgia Butler/DatacenterDynamics&rpar;](http://www.techmeme.com/240508/p2#a240508p2)
  - [Amit Midha, CEO of Alat, a $100B investment fund focused on AI and chips backed by Saudi Arabia&#39;s PIF, says the fund will divest from China if the US asks &lpar;Bloomberg&rpar;](http://www.techmeme.com/240508/p1#a240508p1)
  - [Researchers say they have unlocked a kind of sperm whale &quot;alphabet&quot; with the aid of machine learning, a breakthrough in understanding cetacean communication &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240507/p55#a240507p55)
- - [Today&#39;s Wordle Hints and Answer: Help for May 8, #1054     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-and-answer-help-for-may-8-1054/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints and Answers: Help for May 8, #332     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hints-answer-help-for-may-8-332/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints and Answer: Help for May 8, #1054     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-and-answer-help-for-may-8-1054/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is what happens when a society lacks diversity.](http://9gag.com/gag/aByK5b1)
- - 😝 [Peak Cinema](http://9gag.com/gag/avy0KrM)
- - 💣 [He felt so accomplished](http://9gag.com/gag/a0e9yWL)
- - 😝 [Save for later:](http://9gag.com/gag/agmybdW)
- - 👉 [Real life Cartoon Charakter](http://9gag.com/gag/aByKeA1)<!-- MEMES:END -->
+ - 😝 [Thank you for flying Blender Air!](http://9gag.com/gag/aRBQd4A)
+ - 😝 [At the gym during the busiest time of day](http://9gag.com/gag/a4P4y4m)
+ - 💣 [Eva on it again](http://9gag.com/gag/a1mAyov)
+ - 😝 [Now this is good..](http://9gag.com/gag/aryp7yV)
+ - 👉 [I absolutely hate grumpy old people](http://9gag.com/gag/azxb3ex)<!-- MEMES:END -->
 
 ---
 

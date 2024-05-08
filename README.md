@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Arm reports Q4 revenue up 47% YoY to $928M, vs. $875.6M est., royalty revenue up 37%, and forecasts FY 2025 revenue below expectations &lpar;Reuters&rpar;](http://www.techmeme.com/240508/p40#a240508p40)
+ - [The Xbox app on Windows is getting even more handheld-friendly](https://www.theverge.com/2024/5/8/24152252/microsoft-xbox-handheld-compact-mode-controller-improvements)
  - [Inside Microsoft’s Xbox turmoil](https://www.theverge.com/2024/5/8/24151814/microsoft-xbox-layoffs-strategy-changes-arkane-tango)
  - [OpenAI publishes Model Spec, which specifies how its models should behave, including objectives, rules, and default behaviors, and asks the public for feedback &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240508/p39#a240508p39)
- - [You can save 15 percent on an LG C3, now as low as $847](https://www.theverge.com/2024/5/8/24152110/ebay-lg-c3-oled-sale-deal)
- - [The judge in Epic v. Apple thinks Apple’s being shady about buttons and links](https://www.theverge.com/2024/5/8/24152194/epic-apple-anti-steering-injunction-button-style)
- - [Matter 1.3 is finalized, bringing support for EV chargers, more appliances, &amp; other improvements](https://appleinsider.com/articles/24/05/08/matter-13-is-finalized-bringing-support-for-ev-chargers-more-appliances-other-improvements?utm_medium=rss)<!-- TECH:END -->
+ - [You can save 15 percent on an LG C3, now as low as $847](https://www.theverge.com/2024/5/8/24152110/ebay-lg-c3-oled-sale-deal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

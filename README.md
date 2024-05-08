@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Thank you for flying Blender Air!](http://9gag.com/gag/aRBQd4A)
  - 😝 [Now this is good..](http://9gag.com/gag/aryp7yV)
- - 😝 [My psychologist: the giant dwarf does not exist.... The giant dwarf:](http://9gag.com/gag/ae9NnPq)
- - 💣 [Sounds like a bad day](http://9gag.com/gag/a0e93yz)
- - 😝 [Lol](http://9gag.com/gag/a9ydeNm)
- - 👉 [Thank you for flying Blender Air!](http://9gag.com/gag/aRBQd4A)<!-- MEMES:END -->
+ - 💣 [At the gym during the busiest time of day](http://9gag.com/gag/a4P4y4m)
+ - 😝 [What will you do in this situation?](http://9gag.com/gag/an7YwQo)
+ - 👉 [Sounds like a bad day](http://9gag.com/gag/a0e93yz)<!-- MEMES:END -->
 
 ---
 

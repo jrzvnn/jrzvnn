@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An investigation finds a vast web of fake shops run from China touting designer brands that duped 800K+ people in Europe and the US into sharing personal data &lpar;The Guardian&rpar;](http://www.techmeme.com/240508/p15#a240508p15)
  - [UK neobank Monzo raised $190M at a $5.2B valuation, up from $5B in March 2024 after raising $430M, and plans to use the funds for its international expansion &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240508/p14#a240508p14)
  - [Analysis: Asia Pacific data center deals, which have totaled $840.47M in 2024, or 50%+ of the global total so far, are set to surpass 2023&#39;s $3.45B record high &lpar;Reuters&rpar;](http://www.techmeme.com/240508/p13#a240508p13)
  - [OpenAI built the gpt2-chatbot, renamed to &quot;im-also-a-good-gpt-chatbot&quot;, per the gpt2-chatbot&#39;s 429 rate limit error message, which appeared in the LMSYS arena &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/240508/p12#a240508p12)
- - [Internal memo: Shein tells staff that the company is stepping up efforts to keep products made with forced labor off its platform, citing tougher US enforcement &lpar;Jing Yang/The Information&rpar;](http://www.techmeme.com/240508/p11#a240508p11)
- - [Shop at Walmart in the Last 6 Years? You Might Be Able to Claim Up to $500 in Settlement Cash     - CNET](https://www.cnet.com/personal-finance/if-youve-shopped-at-walmart-over-the-last-few-years-you-could-claim-up-to-500-in-settlement-cash/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Internal memo: Shein tells staff that the company is stepping up efforts to keep products made with forced labor off its platform, citing tougher US enforcement &lpar;Jing Yang/The Information&rpar;](http://www.techmeme.com/240508/p11#a240508p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

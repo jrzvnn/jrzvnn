@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Head of Apple TV+ marketing Ricky Strauss is leaving](https://appleinsider.com/articles/24/05/08/head-of-apple-tv-marketing-ricky-strauss-is-leaving?utm_medium=rss)
+ - [SIA and Boston Consulting Group: the US will triple its domestic chip manufacturing capacity by 2032, boosting its global chip making share to 14% from 10% now &lpar;Madeleine Ngo/New York Times&rpar;](http://www.techmeme.com/240508/p21#a240508p21)
+ - [UK details requirements to protect children from ‘toxic algorithms’](https://www.theverge.com/2024/5/8/24151834/uk-ofcom-online-safety-act-protect-children-toxic-algorithms-meta-tiktok)
  - [Blockbuster &#39;Baldur&#39;s Gate 3&#39; adventure game not coming to iPad](https://appleinsider.com/articles/24/05/08/blockbuster-baldurs-gate-3-adventure-game-not-coming-to-ipad?utm_medium=rss)
- - [Microsoft plans to invest $3B to build a data center in Mount Pleasant, Wisconsin, and train locals, alongside investing in a new AI lab at Wisconsin University &lpar;Tom Dotan/Wall Street Journal&rpar;](http://www.techmeme.com/240508/p20#a240508p20)
- - [Bluesky details its product roadmap: an off-protocol DM system to facilitate one-on-one chats, custom feeds, anti-harassment tools, video support, and more &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240508/p19#a240508p19)
- - [March iPhone discounts in China may have saved Apple&#39;s quarter](https://appleinsider.com/articles/24/05/08/march-iphone-discounts-in-china-may-have-saved-apples-quarter?utm_medium=rss)
- - [Microsoft closes the engineering section of its Africa Development Center in Nigeria, two years after its opening, reportedly impacting 100+ engineers &lpar;Bloomberg&rpar;](http://www.techmeme.com/240508/p18#a240508p18)<!-- TECH:END -->
+ - [Microsoft plans to invest $3B to build a data center in Mount Pleasant, Wisconsin, and train locals, alongside investing in a new AI lab at Wisconsin University &lpar;Tom Dotan/Wall Street Journal&rpar;](http://www.techmeme.com/240508/p20#a240508p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,9 +166,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Analysis: the tech-dominated list of top 50 companies whose stocks made the biggest percentage gains in 2020 have since collectively lost $1.5T in market value &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/240508/p6#a240508p6)
  - [TikTok vs. US filing: ByteDance founder Zhang Yiming owns a 21% stake in TikTok&#39;s parent company, and is living in Singapore while keeping Chinese citizenship &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/240508/p5#a240508p5)
+ - [Best Tennis Balls of 2024     - CNET](https://www.cnet.com/health/fitness/best-tennis-balls/#ftag=CAD590a51e)
  - [Sources: Getir faced pressure from investors to cut costs and refocus on Turkey; a source says Mubadala and G Squared have agreed to invest as much as $200M &lpar;Bloomberg&rpar;](http://www.techmeme.com/240508/p4#a240508p4)
- - [Sources: OpenAI has been aggressively trying to poach Google employees for a team working on a ChatGPT feature to search the web and show results with citations &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/240508/p3#a240508p3)
- - [Google says &quot;rare issues at Google Cloud&quot; caused a week-long private cloud outage at UniSuper, an Australian pension fund for the education and research sectors &lpar;Georgia Butler/DatacenterDynamics&rpar;](http://www.techmeme.com/240508/p2#a240508p2)<!-- TECH:END -->
+ - [Sources: OpenAI has been aggressively trying to poach Google employees for a team working on a ChatGPT feature to search the web and show results with citations &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/240508/p3#a240508p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

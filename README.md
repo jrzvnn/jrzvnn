@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thank you for flying Blender Air!](http://9gag.com/gag/aRBQd4A)
- - 😝 [Well well well...](http://9gag.com/gag/aGy9mbG)
- - 💣 [Not many i think](http://9gag.com/gag/ayN5w9V)
- - 😝 [This man tried to tell the truth to the world 100 years ago and no one listened. Now we are watching 4k videos of Arabs raping, killing and beheading citizens in their own countries and European countries!... protect your country and your people](http://9gag.com/gag/amoXQ34)
- - 👉 [Elevator in Trouble](http://9gag.com/gag/an7YP8z)<!-- MEMES:END -->
+ - 😝 [Sherk](http://9gag.com/gag/ae9NnWO)
+ - 😝 [The cooling must be great thou](http://9gag.com/gag/avy0N7q)
+ - 💣 [Now this is good..](http://9gag.com/gag/aryp7yV)
+ - 😝 [This Is Definitely True](http://9gag.com/gag/aNDe7bA)
+ - 👉 [What was the purpose of all that work?](http://9gag.com/gag/aqymPMY)<!-- MEMES:END -->
 
 ---
 

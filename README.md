@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
  - [President Joe Biden to announce AI data center at failed Foxconn site](https://www.theverge.com/2024/5/8/24151927/microsoft-ai-data-center-foxconn-wisconsin-biden)
- - [Apple TV Plus is turning into the best place for streaming sci-fi](https://www.theverge.com/24150193/apple-tv-plus-sci-fi-streaming-dark-matter-constellation)
- - [6 Best Phones With Headphone Jacks &lpar;2024&rpar;: Flagship, Budget, and Dongle Recommendations](https://www.wired.com/gallery/best-headphone-jack-phones/)
- - [Israeli drone startup Xtend, which lets operators orchestrate teams of drones and robots, raised $40M led by Chartered Group at a ~$110M post-money valuation &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240508/p30#a240508p30)
- - [FTX says most customers will get all their money back](https://www.theverge.com/2024/5/8/24151882/ftx-customers-repaid-bankruptcy-debt)<!-- TECH:END -->
+ - [Best HomePod Deals: Save or Bag Free Apple Streaming and Fitness Services     - CNET](https://www.cnet.com/deals/best-homepod-deals/#ftag=CAD590a51e)
+ - [Best VPN for Amazon Fire TV Stick in 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-firestick/#ftag=CAD590a51e)
+ - [Apple TV Plus is turning into the best place for streaming sci-fi](https://www.theverge.com/24150193/apple-tv-plus-sci-fi-streaming-dark-matter-constellation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

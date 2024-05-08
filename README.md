@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Now this is good..](http://9gag.com/gag/aryp7yV)
- - 😝 [Elevator in Trouble](http://9gag.com/gag/an7YP8z)
+ - 😝 [I don&#39;t know why she always need to brag about unimportant stuff.](http://9gag.com/gag/azxbzDq)
+ - 😝 [Eva on it again](http://9gag.com/gag/a1mAyov)
  - 💣 [Stuntwoman Training](http://9gag.com/gag/ajPr4AG)
- - 😝 [Thank you for flying Blender Air!](http://9gag.com/gag/aRBQd4A)
- - 👉 [Sounds like a bad day](http://9gag.com/gag/a0e93yz)<!-- MEMES:END -->
+ - 😝 [Blondes just have more fun!](http://9gag.com/gag/aGy9v5w)
+ - 👉 [You are now on the watch list.](http://9gag.com/gag/aW4Z5AA)<!-- MEMES:END -->
 
 ---
 

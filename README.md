@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Intel is partnering with 14 Japanese companies to develop tech by 2028 to automate the largely manual &quot;back-end&quot; chipmaking processes like packaging &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240508/p7#a240508p7)
+ - [Moving Soon? All the Discounts You Can Get     - CNET](https://www.cnet.com/home/services/moving-soon-all-the-discounts-you-can-get/#ftag=CAD590a51e)
+ - [Cardboard or Plastic: Which Is the Right Moving Box for You?     - CNET](https://www.cnet.com/how-to/cardboard-or-plastic-which-is-the-right-moving-box-for-you/#ftag=CAD590a51e)
  - [Analysis: the tech-dominated list of top 50 companies whose stocks made the biggest percentage gains in 2020 have since collectively lost $1.5T in market value &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/240508/p6#a240508p6)
- - [TikTok vs. US filing: ByteDance founder Zhang Yiming owns a 21% stake in TikTok&#39;s parent company, and is living in Singapore while keeping Chinese citizenship &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/240508/p5#a240508p5)
- - [Best Tennis Balls of 2024     - CNET](https://www.cnet.com/health/fitness/best-tennis-balls/#ftag=CAD590a51e)
- - [Sources: Getir faced pressure from investors to cut costs and refocus on Turkey; a source says Mubadala and G Squared have agreed to invest as much as $200M &lpar;Bloomberg&rpar;](http://www.techmeme.com/240508/p4#a240508p4)
- - [Sources: OpenAI has been aggressively trying to poach Google employees for a team working on a ChatGPT feature to search the web and show results with citations &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/240508/p3#a240508p3)<!-- TECH:END -->
+ - [TikTok vs. US filing: ByteDance founder Zhang Yiming owns a 21% stake in TikTok&#39;s parent company, and is living in Singapore while keeping Chinese citizenship &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/240508/p5#a240508p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

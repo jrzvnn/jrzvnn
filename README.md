@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo’s new NES collection is all about speedrunning](https://www.theverge.com/2024/5/8/24151970/nintendo-world-championships-nes-edition-switch-release-date)
- - [Apple Pencil Pro comes in five different artistic boxes](https://appleinsider.com/articles/24/05/08/apple-pencil-pro-comes-in-five-different-artistic-boxes?utm_medium=rss)
- - [Amazon Prime Video ads are about to get more intrusive](https://www.theverge.com/2024/5/8/24151951/amazon-prime-video-pause-trivia-ads-announcement)
- - [Sonos’ redesigned app is going over like a lead balloon with many users](https://www.theverge.com/2024/5/8/24151704/sonos-new-app-bad-reviews-missing-features)
- - [DatologyAI, which aims to help researchers better curate AI training datasets, raised a $46M Series A led by Felicis, after a $11.65M seed in February 2024 &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/240508/p31#a240508p31)<!-- TECH:END -->
+ - [TikTok ban: all the news on attempts to ban the video platform](https://www.theverge.com/23651507/tiktok-ban-us-news)
+ - [Google DeepMind and Isomorphic Labs detail AlphaFold 3, an AI model of life&#39;s building blocks and their interactions within cells, with sophisticated forecasts &lpar;Michael Peel/Financial Times&rpar;](http://www.techmeme.com/240508/p33#a240508p33)
+ - [Stack Overflow is feeding programmers’ answers to AI, whether they like it or not](https://www.theverge.com/2024/5/8/24151906/stack-overflow-ai-protest-posts-deleted-restored)
+ - [Microsoft plans to add a new auto-complete feature that offers suggestions to improve AI prompts to Copilot for Microsoft 365 in the coming months &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240508/p32#a240508p32)
+ - [Google DeepMind’s Groundbreaking AI for Protein Structure Can Now Model DNA](https://www.wired.com/story/alphafold-3-google-deepmind-ai-protein-structure-dna/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

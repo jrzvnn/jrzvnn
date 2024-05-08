@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s Wordle Hints and Answer: Help for May 8, #1054     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-and-answer-help-for-may-8-1054/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints and Answers: Help for May 8, #332     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hints-answer-help-for-may-8-332/#ftag=CAD590a51e)
+ - [Best PC Gaming Headset for 2024     - CNET](https://www.cnet.com/tech/gaming/best-pc-gaming-headset/#ftag=CAD590a51e)
  - [Atoto S8 Pro Wireless CarPlay receiver review: great, but fragile aftermarket solution](https://appleinsider.com/articles/24/05/08/atoto-s8-pro-wireless-carplay-receiver-review-great-but-fragile-aftermarket-solution?utm_medium=rss)
- - [Coupang reports Q1 revenue up 23% YoY to $7.1B, adjusted EBITDA up 17% YoY to $281M, vs. $283.3M est., and net income down 95% YoY including Farfetch losses &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/240507/p54#a240507p54)
- - [iRobot appoints Gary Cohen as its new CEO after Colin Angle resigned in January 2024 and forecasts 2024 revenue with a midpoint of $837.5M, vs. $829.8M expected &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/240507/p53#a240507p53)
- - [Robinhood CEO Vlad Tenev decries the &quot;regulatory onslaught&quot; and calls SEC&#39;s actions &quot;another improper attempt by the administrative state to stifle innovation&quot; &lpar;Andr&amp;eacute; Beganski/Decrypt&rpar;](http://www.techmeme.com/240507/p52#a240507p52)
- - [Red Hat announces RHEL AI, a platform for developing and running open source LLMs, and InstructLab, a community project to let experts enhance AI models &lpar;Bryson Masse/VentureBeat&rpar;](http://www.techmeme.com/240507/p51#a240507p51)<!-- TECH:END -->
+ - [Coupang reports Q1 revenue up 23% YoY to $7.1B, adjusted EBITDA up 17% YoY to $281M, vs. $283.3M est., and net income down 95% YoY including Farfetch losses &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/240507/p54#a240507p54)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

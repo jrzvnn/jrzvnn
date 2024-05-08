@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lol](http://9gag.com/gag/a9ydeNm)
- - 😝 [Making a drink](http://9gag.com/gag/apRq4P5)
- - 💣 [Elevator in Trouble](http://9gag.com/gag/an7YP8z)
- - 😝 [What privicy?](http://9gag.com/gag/aPAvq2w)
- - 👉 [I absolutely hate grumpy old people](http://9gag.com/gag/azxb3ex)<!-- MEMES:END -->
+ - 😝 [Absolute Gem](http://9gag.com/gag/aMV16pG)
+ - 😝 [Daily life in Germany](http://9gag.com/gag/aAyY77L)
+ - 💣 [Brilliant collaboration](http://9gag.com/gag/aKGzQ0Q)
+ - 😝 [No heavy breathing.](http://9gag.com/gag/avy0q8d)
+ - 👉 [A disaster about to happen; they just do not know it yet.](http://9gag.com/gag/agmyemg)<!-- MEMES:END -->
 
 ---
 

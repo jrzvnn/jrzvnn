@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Elevator in Trouble](http://9gag.com/gag/an7YP8z)
- - 😝 [A disaster about to happen; they just do not know it yet.](http://9gag.com/gag/agmyemg)
- - 💣 [I absolutely hate grumpy old people](http://9gag.com/gag/azxb3ex)
- - 😝 [Now this is good..](http://9gag.com/gag/aryp7yV)
- - 👉 [Member them ? So good!](http://9gag.com/gag/aKGzMEj)<!-- MEMES:END -->
+ - 😝 [The Great Master](http://9gag.com/gag/amoXZwj)
+ - 😝 [Sounds like a bad day](http://9gag.com/gag/a0e93yz)
+ - 💣 [Thank you for flying Blender Air!](http://9gag.com/gag/aRBQd4A)
+ - 😝 [He is one](http://9gag.com/gag/a9yd0oj)
+ - 👉 [Oh f*** you gonna make me squint your eyes again](http://9gag.com/gag/an7Y6y5)<!-- MEMES:END -->
 
 ---
 

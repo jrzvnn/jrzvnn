@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thank you for flying Blender Air!](http://9gag.com/gag/aRBQd4A)
- - 😝 [Now this is good..](http://9gag.com/gag/aryp7yV)
- - 💣 [At the gym during the busiest time of day](http://9gag.com/gag/a4P4y4m)
- - 😝 [What will you do in this situation?](http://9gag.com/gag/an7YwQo)
- - 👉 [Sounds like a bad day](http://9gag.com/gag/a0e93yz)<!-- MEMES:END -->
+ - 😝 [Lol](http://9gag.com/gag/a9ydeNm)
+ - 😝 [Making a drink](http://9gag.com/gag/apRq4P5)
+ - 💣 [Elevator in Trouble](http://9gag.com/gag/an7YP8z)
+ - 😝 [What privicy?](http://9gag.com/gag/aPAvq2w)
+ - 👉 [I absolutely hate grumpy old people](http://9gag.com/gag/azxb3ex)<!-- MEMES:END -->
 
 ---
 

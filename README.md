@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at potential successors to Tim Cook; sources say Apple&#39;s hardware engineering chief John Ternus is the most likely long-term successor &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240508/p44#a240508p44)
  - [The next Apple CEO: Who could succeed Tim Cook?](https://appleinsider.com/articles/24/03/06/the-next-apple-ceo-who-could-succeed-tim-cook?utm_medium=rss)
  - [Walmart shopper data will soon feed targeted ads on Disney Plus and Hulu](https://www.theverge.com/2024/5/8/24152172/walmart-disney-plus-hulu-targeted-ads)
- - [Instacart Q1: revenue up 8% YoY to $820M, vs. $794.5M est., gross transaction value up 11% to $8.32B; CFO Nick Giovanni is retiring, replaced by Emily Reuter &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/240508/p43#a240508p43)
- - [Robinhood reports Q1 revenue up 40% YoY to $618M, vs. $549M est., crypto transaction revenue up 232% to $126M, net income of $157M, vs. a net loss of $511M YoY &lpar;Jesse Pound/CNBC&rpar;](http://www.techmeme.com/240508/p42#a240508p42)
- - [People sure are pressed about Apple’s crushing iPad commercial](https://www.theverge.com/2024/5/8/24152236/apple-ipad-pro-commercial-artists-ai)<!-- TECH:END -->
+ - [Google&#39;s Circle to Search Is Now on the iPhone. Well, Kinda     - CNET](https://www.cnet.com/tech/services-and-software/googles-circle-to-search-is-now-on-the-iphone-well-kinda/#ftag=CAD590a51e)
+ - [Instacart Q1: revenue up 8% YoY to $820M, vs. $794.5M est., gross transaction value up 11% to $8.32B; CFO Nick Giovanni is retiring, replaced by Emily Reuter &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/240508/p43#a240508p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

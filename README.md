@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Men just want one thing](http://9gag.com/gag/arypYMd)
- - 😝 [A disaster about to happen; they just do not know it yet.](http://9gag.com/gag/agmyemg)
- - 💣 [Elevator in Trouble](http://9gag.com/gag/an7YP8z)
- - 😝 [Oh f*** you gonna make me squint your eyes again](http://9gag.com/gag/an7Y6y5)
- - 👉 [I absolutely hate grumpy old people](http://9gag.com/gag/azxb3ex)<!-- MEMES:END -->
+ - 😝 [Gear up people down?](http://9gag.com/gag/an7YP4n)
+ - 😝 [Hercules](http://9gag.com/gag/aAyYjjd)
+ - 💣 [Mary, is that you?](http://9gag.com/gag/aByK5O2)
+ - 😝 [What privicy?](http://9gag.com/gag/aPAvq2w)
+ - 👉 [Oh f*** you gonna make me squint your eyes again](http://9gag.com/gag/an7Y6y5)<!-- MEMES:END -->
 
 ---
 

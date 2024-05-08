@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I absolutely hate grumpy old people](http://9gag.com/gag/azxb3ex)
- - 😝 [Stuntwoman Training](http://9gag.com/gag/ajPr4AG)
- - 💣 [A disaster about to happen; they just do not know it yet.](http://9gag.com/gag/agmyemg)
- - 😝 [Elevator in Trouble](http://9gag.com/gag/an7YP8z)
- - 👉 [Eva on it again](http://9gag.com/gag/a1mAyov)<!-- MEMES:END -->
+ - 😝 [Well well well...](http://9gag.com/gag/aGy9mbG)
+ - 😝 [Got an xray because of back pain](http://9gag.com/gag/a87WgM3)
+ - 💣 [Real life Cartoon Charakter](http://9gag.com/gag/aByKeA1)
+ - 😝 [She lives in Chicago streets by the way..](http://9gag.com/gag/aVvOyrn)
+ - 👉 [Now this is good..](http://9gag.com/gag/aryp7yV)<!-- MEMES:END -->
 
 ---
 

@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A disaster about to happen; they just do not know it yet.](http://9gag.com/gag/agmyemg)
- - 😝 [The desing is very human](http://9gag.com/gag/aD20eE9)
- - 💣 [Brilliant collaboration](http://9gag.com/gag/aKGzQ0Q)
- - 😝 [Well well well...](http://9gag.com/gag/aGy9mbG)
- - 👉 [Got an xray because of back pain](http://9gag.com/gag/a87WgM3)<!-- MEMES:END -->
+ - 😝 [Elevator in Trouble](http://9gag.com/gag/an7YP8z)
+ - 😝 [What privicy?](http://9gag.com/gag/aPAvq2w)
+ - 💣 [Mary, is that you?](http://9gag.com/gag/aByK5O2)
+ - 😝 [My psychologist: the giant dwarf does not exist.... The giant dwarf:](http://9gag.com/gag/ae9NnPq)
+ - 👉 [Men just want one thing](http://9gag.com/gag/arypYMd)<!-- MEMES:END -->
 
 ---
 

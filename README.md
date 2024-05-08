@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
- - [President Joe Biden to announce AI data center at failed Foxconn site](https://www.theverge.com/2024/5/8/24151927/microsoft-ai-data-center-foxconn-wisconsin-biden)
- - [Best HomePod Deals: Save or Bag Free Apple Streaming and Fitness Services     - CNET](https://www.cnet.com/deals/best-homepod-deals/#ftag=CAD590a51e)
- - [Best VPN for Amazon Fire TV Stick in 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-firestick/#ftag=CAD590a51e)
- - [Apple TV Plus is turning into the best place for streaming sci-fi](https://www.theverge.com/24150193/apple-tv-plus-sci-fi-streaming-dark-matter-constellation)<!-- TECH:END -->
+ - [Nintendo’s new NES collection is all about speedrunning](https://www.theverge.com/2024/5/8/24151970/nintendo-world-championships-nes-edition-switch-release-date)
+ - [Apple Pencil Pro comes in five different artistic boxes](https://appleinsider.com/articles/24/05/08/apple-pencil-pro-comes-in-five-different-artistic-boxes?utm_medium=rss)
+ - [Amazon Prime Video ads are about to get more intrusive](https://www.theverge.com/2024/5/8/24151951/amazon-prime-video-pause-trivia-ads-announcement)
+ - [Sonos’ redesigned app is going over like a lead balloon with many users](https://www.theverge.com/2024/5/8/24151704/sonos-new-app-bad-reviews-missing-features)
+ - [DatologyAI, which aims to help researchers better curate AI training datasets, raised a $46M Series A led by Felicis, after a $11.65M seed in February 2024 &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/240508/p31#a240508p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

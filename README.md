@@ -167,8 +167,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Robinhood reports Q1 revenue up 40% YoY to $618M, vs. $549M est., crypto transaction revenue up 232% to $126M, net income of $157M, vs. a net loss of $511M YoY &lpar;Jesse Pound/CNBC&rpar;](http://www.techmeme.com/240508/p42#a240508p42)
  - [People sure are pressed about Apple’s crushing iPad commercial](https://www.theverge.com/2024/5/8/24152236/apple-ipad-pro-commercial-artists-ai)
  - [Airbnb reports Q1 revenue up 18% YoY to $2.14B, vs. $2.06B est., Nights and Experiences Booked up 9.5% to 132.6M, and forecasts Q2 revenue below expectations &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240508/p41#a240508p41)
- - [Arm reports Q4 revenue up 47% YoY to $928M, vs. $875.6M est., royalty revenue up 37%, and forecasts FY 2025 revenue below expectations &lpar;Reuters&rpar;](http://www.techmeme.com/240508/p40#a240508p40)
- - [The Xbox app on Windows is getting even more handheld-friendly](https://www.theverge.com/2024/5/8/24152252/microsoft-xbox-handheld-compact-mode-controller-improvements)<!-- TECH:END -->
+ - [Skechers Bungee Sneaker     - CNET](https://www.cnet.com/culture/fashion/skechers-bungee-sneaker-dpnl/#ftag=CAD590a51e)
+ - [Arm reports Q4 revenue up 47% YoY to $928M, vs. $875.6M est., royalty revenue up 37%, and forecasts FY 2025 revenue below expectations &lpar;Reuters&rpar;](http://www.techmeme.com/240508/p40#a240508p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US hospital operator Ascension reports disruptions to its clinical operations due to a suspected cybersecurity incident and engages Mandiant to help investigate &lpar;Pratik Jain/Reuters&rpar;](http://www.techmeme.com/240508/p45#a240508p45)
+ - [OpenAI’s Model Spec outlines some basic rules for AI](https://www.theverge.com/2024/5/8/24152273/openai-model-spec-behavior-rules-guidelines-artificial-intelligence)
  - [A look at potential successors to Tim Cook; sources say Apple&#39;s hardware engineering chief John Ternus is the most likely long-term successor &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240508/p44#a240508p44)
  - [The next Apple CEO: Who could succeed Tim Cook?](https://appleinsider.com/articles/24/03/06/the-next-apple-ceo-who-could-succeed-tim-cook?utm_medium=rss)
- - [Walmart shopper data will soon feed targeted ads on Disney Plus and Hulu](https://www.theverge.com/2024/5/8/24152172/walmart-disney-plus-hulu-targeted-ads)
- - [Google&#39;s Circle to Search Is Now on the iPhone. Well, Kinda     - CNET](https://www.cnet.com/tech/services-and-software/googles-circle-to-search-is-now-on-the-iphone-well-kinda/#ftag=CAD590a51e)
- - [Instacart Q1: revenue up 8% YoY to $820M, vs. $794.5M est., gross transaction value up 11% to $8.32B; CFO Nick Giovanni is retiring, replaced by Emily Reuter &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/240508/p43#a240508p43)<!-- TECH:END -->
+ - [Walmart shopper data will soon feed targeted ads on Disney Plus and Hulu](https://www.theverge.com/2024/5/8/24152172/walmart-disney-plus-hulu-targeted-ads)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -174,9 +174,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Elevator in Trouble](http://9gag.com/gag/an7YP8z)
- - 😝 [Stuntwoman Training](http://9gag.com/gag/ajPr4AG)
- - 💣 [Latino&#39;s priorities](http://9gag.com/gag/ayN5jMp)
- - 😝 [Wait a second](http://9gag.com/gag/aMV1Lz6)
+ - 😝 [I absolutely hate grumpy old people](http://9gag.com/gag/azxb3ex)
+ - 💣 [Not many i think](http://9gag.com/gag/ayN5w9V)
+ - 😝 [Making a drink](http://9gag.com/gag/apRq4P5)
  - 👉 [Sounds like a bad day](http://9gag.com/gag/a0e93yz)<!-- MEMES:END -->
 
 ---

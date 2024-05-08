@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thank you for flying Blender Air!](http://9gag.com/gag/aRBQd4A)
- - 😝 [At the gym during the busiest time of day](http://9gag.com/gag/a4P4y4m)
- - 💣 [Eva on it again](http://9gag.com/gag/a1mAyov)
- - 😝 [Now this is good..](http://9gag.com/gag/aryp7yV)
- - 👉 [I absolutely hate grumpy old people](http://9gag.com/gag/azxb3ex)<!-- MEMES:END -->
+ - 😝 [Don&#39;t use the time machine](http://9gag.com/gag/aoyzwv2)
+ - 😝 [You are now on the watch list.](http://9gag.com/gag/aW4Z5AA)
+ - 💣 [Not many i think](http://9gag.com/gag/ayN5w9V)
+ - 😝 [Nailed it!](http://9gag.com/gag/amoXZX4)
+ - 👉 [A disaster about to happen; they just do not know it yet.](http://9gag.com/gag/agmyemg)<!-- MEMES:END -->
 
 ---
 

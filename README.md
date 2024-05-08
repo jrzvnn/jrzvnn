@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Orlando-based lidar manufacturer Luminar says Tesla was its &quot;largest LiDAR customer in Q1&quot;, contributing 10%+ of its revenue, or ~$2.1M for the quarter &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/240508/p16#a240508p16)
- - [An investigation finds a vast web of fake shops run from China touting designer brands that duped 800K+ people in Europe and the US into sharing personal data &lpar;The Guardian&rpar;](http://www.techmeme.com/240508/p15#a240508p15)
- - [UK neobank Monzo raised $190M at a $5.2B valuation, up from $5B in March 2024 after raising $430M, and plans to use the funds for its international expansion &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240508/p14#a240508p14)
- - [Analysis: Asia Pacific data center deals, which have totaled $840.47M in 2024, or 50%+ of the global total so far, are set to surpass 2023&#39;s $3.45B record high &lpar;Reuters&rpar;](http://www.techmeme.com/240508/p13#a240508p13)
- - [OpenAI built the gpt2-chatbot, renamed to &quot;im-also-a-good-gpt-chatbot&quot;, per the gpt2-chatbot&#39;s 429 rate limit error message, which appeared in the LMSYS arena &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/240508/p12#a240508p12)<!-- TECH:END -->
+ - [Microsoft closes the engineering section of its Africa Development Center in Nigeria, two years after its opening, reportedly impacting 100+ engineers &lpar;Bloomberg&rpar;](http://www.techmeme.com/240508/p18#a240508p18)
+ - [Tim Cook promises aid for Brazil flooding relief](https://appleinsider.com/articles/24/05/08/tim-cook-promises-aid-for-brazil-flooding-relief?utm_medium=rss)
+ - [Ultra Retina XDR OLED screens in iPad Pro are just the latest evolution of Apple&#39;s flagship display tech](https://appleinsider.com/articles/24/05/07/ultra-retina-xdr-oled-screens-in-ipad-pro-are-just-the-latest-evolution-of-apples-flagship-display-tech?utm_medium=rss)
+ - [The UK is investigating &quot;potential failings&quot; at IT contractor SSCL, which was breached by suspected Chinese hackers to expose payroll records for 272K people &lpar;Financial Times&rpar;](http://www.techmeme.com/240508/p17#a240508p17)
+ - [A &lpar;Strange&rpar; Interview the Russian-Military-Linked Hackers Targeting US Water Utilities](https://www.wired.com/story/cyber-army-of-russia-interview/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

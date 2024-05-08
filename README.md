@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nigeria&#39;s Information Ministry says Binance CEO Richard Teng &quot;made false allegations of bribery&quot; against unnamed Nigerian officials, after a $150M bribe claim &lpar;Ruth Olurounbi/Bloomberg&rpar;](http://www.techmeme.com/240508/p36#a240508p36)
- - [Apple&#39;s new iPad Pro benchmarks demonstrate impressive tablet AI performance](https://appleinsider.com/articles/24/05/08/apples-new-ipad-pro-benchmarks-demonstrate-impressive-tablet-ai-performance?utm_medium=rss)
- - [Apple releases an iPad Pro ad, titled &quot;Crush&quot;, showing paints, toys, guitars, and more being crushed to reveal the device, drawing criticism on social media &lpar;William Gallagher/AppleInsider&rpar;](http://www.techmeme.com/240508/p35#a240508p35)
- - [Flagship iPad head-to-head -- M4 iPad Pro vs M2 iPad Pro compared](https://appleinsider.com/inside/ipad-pro/vs/flagship-ipad-head-to-head----m4-ipad-pro-vs-m2-ipad-pro-compared?utm_medium=rss)
- - [Google DeepMind CEO Demis Hassabis says AI breakthroughs in biology research could be a $100B+ business, commercialized via DeepMind spinout Isomorphic Labs &lpar;Bloomberg&rpar;](http://www.techmeme.com/240508/p34#a240508p34)<!-- TECH:END -->
+ - [Apple profits surge as consumers choose pricier iPhone storage options](https://appleinsider.com/articles/24/05/08/apple-profits-surge-as-consumers-choose-pricier-iphone-storage-options?utm_medium=rss)
+ - [19 Best Sex Toys &lpar;2024&rpar;: Gender Inclusive, Couples, Solo](https://www.wired.com/gallery/best-sex-toys-and-tech/)
+ - [Intel expects revenue blow after US blocks chip sales to Huawei](https://www.theverge.com/2024/5/8/24152031/intel-revenue-huawei-commerce-department-license-revoked)
+ - [Apple&#39;s M4 Chip Promises Big Gains and Better AI Performance for the iPad Pro     - CNET](https://www.cnet.com/tech/computing/apples-m4-chip-promises-big-gains-and-better-ai-performance-for-the-ipad-pro/#ftag=CAD590a51e)
+ - [The Google Pixel 8A Looks Slick in All These Colors     - CNET](https://www.cnet.com/pictures/the-google-pixel-8a-looks-slick-in-all-these-colors/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

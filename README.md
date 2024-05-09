@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Czechs are funny and cute :&rpar;](http://9gag.com/gag/a7o54Rx)
- - 😝 [All of a sudden when 1 man stands up to them its `Do something police`.](http://9gag.com/gag/aRBQ5o2)
- - 💣 [Clown world](http://9gag.com/gag/a6ZwWr8)
- - 😝 [Emotional damage](http://9gag.com/gag/aRBQYx7)
- - 👉 [Did anyone else notice this?](http://9gag.com/gag/aByKqAO)<!-- MEMES:END -->
+ - 😝 [Cross section of two human males - one obese and the other fit.](http://9gag.com/gag/aD20py9)
+ - 😝 [Imagine our great ancestors seeing this.](http://9gag.com/gag/aPAvOMg)
+ - 💣 [She lives in Chicago streets by the way..](http://9gag.com/gag/aVvOyrn)
+ - 😝 [Men just want one thing](http://9gag.com/gag/arypYMd)
+ - 👉 [Mental illness is a big issue in the west](http://9gag.com/gag/agmyDVg)<!-- MEMES:END -->
 
 ---
 

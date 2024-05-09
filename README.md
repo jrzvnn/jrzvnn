@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SIA and BCG: by 2032, the US will have the capacity to manufacture 28% of chips below 10nm, while China is expected to make only 2% of the most advanced chips &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240509/p1#a240509p1)
+ - [3 Best Stainless Steel Frying Pans in 2024     - CNET](https://www.cnet.com/news/best-stainless-steel-skillet/#ftag=CAD590a51e)
  - [Today&#39;s Wordle Hints and Answer: Help for May 9, #1055     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-and-answer-help-for-may-9-1055/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints and Answer -- Help for May 9, #333     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hints-answer-help-for-may-9-333/#ftag=CAD590a51e)
- - [RunPod, which offers a globally distributed GPU cloud platform for developing and deploying AI, raised a $20M seed co-led by Intel Capital and Dell Technologies &lpar;James Thomason/VentureBeat&rpar;](http://www.techmeme.com/240508/p51#a240508p51)
- - [How to master the Control Center in watchOS 10](https://appleinsider.com/inside/apple-watch/tips/how-to-master-the-control-center-in-watchos-10?utm_medium=rss)
- - [Bumble reports Q1 revenue up 10.2% YoY to $267.8M, vs. $265.5M est., total paying users of ~4M, up from 3.5M a year ago, and expects Q2 revenue below estimates &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/240508/p50#a240508p50)<!-- TECH:END -->
+ - [RunPod, which offers a globally distributed GPU cloud platform for developing and deploying AI, raised a $20M seed co-led by Intel Capital and Dell Technologies &lpar;James Thomason/VentureBeat&rpar;](http://www.techmeme.com/240508/p51#a240508p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

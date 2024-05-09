@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Poppy Playtime follows Five Nights at Freddy’s with new movie](https://www.theverge.com/2024/5/9/24153105/poppy-playtime-movie-legendary)
  - [ElevenLabs previews a music-generating AI model, showing samples of songs with lyrics generated from text prompts &lpar;Ken Yeung/VentureBeat&rpar;](http://www.techmeme.com/240509/p31#a240509p31)
  - [Dive into app &amp; game development with new &#39;Apple Pathways&#39; hub](https://appleinsider.com/articles/24/05/09/dive-into-app-game-development-with-new-apple-pathways-hub?utm_medium=rss)
  - [Apple apologizes for iPad Pro &#39;Crush&#39; ad after massive backlash](https://appleinsider.com/articles/24/05/09/apple-apologizes-for-ipad-pro-crush-ad-after-massive-backlash?utm_medium=rss)
- - [Apple apologizes for iPad ‘Crush’ ad that ‘missed the mark’](https://www.theverge.com/2024/5/9/24153113/apple-ipad-ad-crushing-apology)
- - [Apple apologizes for the &quot;Crush&quot; iPad Pro ad and scraps plans to run it on TV; Apple&#39;s VP of marketing communications Tor Myhren says &quot;we missed the mark&quot; &lpar;Tim Nudd/Ad Age&rpar;](http://www.techmeme.com/240509/p30#a240509p30)<!-- TECH:END -->
+ - [Apple apologizes for iPad ‘Crush’ ad that ‘missed the mark’](https://www.theverge.com/2024/5/9/24153113/apple-ipad-ad-crushing-apology)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

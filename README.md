@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A disaster about to happen; they just do not know it yet.](http://9gag.com/gag/agmyemg)
- - 😝 [This video feels very uncomfortable.](http://9gag.com/gag/aE0wLmM)
- - 💣 [What privicy?](http://9gag.com/gag/aPAvq2w)
- - 😝 [She lives in Chicago streets by the way..](http://9gag.com/gag/aVvOyrn)
- - 👉 [Men just want one thing](http://9gag.com/gag/arypYMd)<!-- MEMES:END -->
+ - 😝 [The famous late revenge](http://9gag.com/gag/an7Y6yq)
+ - 😝 [#15.](http://9gag.com/gag/aVvONBn)
+ - 💣 [Brilliant collaboration](http://9gag.com/gag/aKGzQ0Q)
+ - 😝 [I wonder why people don&#39;t trust journalists ....](http://9gag.com/gag/agmyPLn)
+ - 👉 [This is a law in Academia](http://9gag.com/gag/a87WZxZ)<!-- MEMES:END -->
 
 ---
 

@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI&#39;s pitch deck to news publishers promises priority placement to partners in chat conversations and payment contingent on &quot;display success&quot; &lpar;Mark Stenberg/Adweek&rpar;](http://www.techmeme.com/240509/p26#a240509p26)
  - [Sources: T-Mobile US is in talks to take over some operations and wireless spectrum licenses of US Cellular for $2B+; Verizon is also in talks with US Cellular &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240509/p25#a240509p25)
  - [Apple doesn’t understand why you use technology](https://www.theverge.com/2024/5/9/24152987/apple-crush-ad-piano-ipad)
  - [What Rivian, Lucid, and Fisker tell us about the current state of EVs](https://www.theverge.com/2024/5/9/24152783/rivian-fisker-lucid-earnings-ev-demand-price-war-tesla)
- - [Streaming is cable now](https://www.theverge.com/24152330/netflix-hulu-disney-plus-hbo-streaming-cable-video-verge)
- - [Sources: Apple&#39;s first server chips for its upcoming AI features will be the M2 Ultra; simpler AI tasks will be processed directly on iPhones, iPads, and Macs &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240509/p24#a240509p24)<!-- TECH:END -->
+ - [Streaming is cable now](https://www.theverge.com/24152330/netflix-hulu-disney-plus-hbo-streaming-cable-video-verge)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

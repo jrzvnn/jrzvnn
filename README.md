@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh f*** you gonna make me squint your eyes again](http://9gag.com/gag/an7Y6y5)
- - 😝 [Now this is good..](http://9gag.com/gag/aryp7yV)
- - 💣 [Avatar concept art vs the final design](http://9gag.com/gag/ajPrpZG)
- - 😝 [Just a little reminder guys... in Brazil, the cop who &#39;threatens&#39; to rough you up is the good cop...](http://9gag.com/gag/aE0wL9N)
- - 👉 [Mental illness is a big issue in the west](http://9gag.com/gag/agmyDVg)<!-- MEMES:END -->
+ - 😝 [The cooling must be great thou](http://9gag.com/gag/avy0N7q)
+ - 😝 [The famous late revenge](http://9gag.com/gag/an7Y6yq)
+ - 💣 [Well well well...](http://9gag.com/gag/aGy9mbG)
+ - 😝 [I wonder why people don&#39;t trust journalists ....](http://9gag.com/gag/agmyPLn)
+ - 👉 [This is a law in Academia](http://9gag.com/gag/a87WZxZ)<!-- MEMES:END -->
 
 ---
 

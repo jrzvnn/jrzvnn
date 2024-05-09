@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The dominant EU music streamer by far is still complaining Apple has too much power](https://appleinsider.com/articles/24/05/09/the-dominant-eu-music-streamer-by-far-is-still-complaining-apple-has-too-much-power?utm_medium=rss)
+ - [Sources: French AI startup Mistral AI is nearing a deal to raise ~$600M at a $6B valuation, after raising $500M at a $2B+ valuation in December 2023 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240509/p10#a240509p10)
+ - [Apple deleted a San Fransisco highway, and not on Apple Maps](https://appleinsider.com/articles/24/05/09/apple-deleted-a-san-fransisco-highway-and-not-on-apple-maps?utm_medium=rss)
  - [Baidu VP Qu Jing posted several videos on Douyin demeaning staff, intended to promote Baidu, that reignited criticism of Chinese tech companies&#39; work culture &lpar;Financial Times&rpar;](http://www.techmeme.com/240509/p9#a240509p9)
- - [Binance sources and documents: internal investigators, dismissed in late 2023, found evidence of market manipulation by DWF Labs and secret trading accounts &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240509/p8#a240509p8)
- - [Duolingo drops 10%+ after reporting DAUs up 55% YoY to 31.4M, above 31.1M est., gaining users at the slowest rate since Q3 2022, and revenue up 45% YoY to $168M &lpar;Gabriel Sanchez/Bloomberg&rpar;](http://www.techmeme.com/240509/p7#a240509p7)
- - [Hands-on with LinkedIn&#39;s new games Pinpoint, Crossclimb, and Queens: shamelessly following the NYT&#39;s formula, all three take ~10 minutes, and they are very fun &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240509/p6#a240509p6)
- - [WiiM announces two new wireless audiophile streamers — one with a touchscreen](https://www.theverge.com/2024/5/9/24152014/wiim-ultra-amp-pro-streaming-airplay-2-chromecast)<!-- TECH:END -->
+ - [Binance sources and documents: internal investigators, dismissed in late 2023, found evidence of market manipulation by DWF Labs and secret trading accounts &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240509/p8#a240509p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

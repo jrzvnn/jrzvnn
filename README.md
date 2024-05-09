@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Streaming is cable now](https://www.theverge.com/24152330/netflix-hulu-disney-plus-hbo-streaming-cable-video-verge)
+ - [Sources: Apple&#39;s first server chips for its upcoming AI features will be the M2 Ultra; simpler AI tasks will be processed directly on iPhones, iPads, and Macs &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240509/p24#a240509p24)
+ - [The iPad has come so incredibly far since 2010, and fulfills Steve Jobs&#39; vision perfectly](https://appleinsider.com/articles/24/05/09/the-ipad-has-come-so-incredibly-far-since-2010-and-fulfills-steve-jobs-vision-perfectly?utm_medium=rss)
  - [Uber’s safety tools can be really useful, provided you enable them — here’s how](https://www.theverge.com/24138192/uber-safety-tools-ridesharing)
- - [Windows 11’s screenshot tool is getting QR code scanning and emoji support](https://www.theverge.com/2024/5/9/24152963/microsoft-windows-11-snipping-tool-qr-scanning-emoji-support)
- - [Skylight’s terrific smart calendar is down to its lowest price to date](https://www.theverge.com/2024/5/9/24152713/skylight-calendar-ultraloq-bolt-fingerprint-lock-deal-sale)
- - [Threads is making it easy for anyone to see a post’s view count](https://www.theverge.com/2024/5/9/24152926/threads-view-count-feature-now-available)
- - [Despite big tech lobbying, Maryland passes two internet privacy bills](https://www.theverge.com/2024/5/9/24152918/maryland-kids-code-online-privacy-act-netchoice)<!-- TECH:END -->
+ - [Windows 11’s screenshot tool is getting QR code scanning and emoji support](https://www.theverge.com/2024/5/9/24152963/microsoft-windows-11-snipping-tool-qr-scanning-emoji-support)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

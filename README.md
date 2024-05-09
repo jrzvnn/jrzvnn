@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Men of culture and sophistication that is...](http://9gag.com/gag/a34Y97Q)
- - 😝 [I tried, it actually works ! Can someone please explain why ?](http://9gag.com/gag/aqym06R)
- - 💣 [And the Darwin award goes tooooo....](http://9gag.com/gag/aYQb3G2)
  - 😝 [This video feels very uncomfortable.](http://9gag.com/gag/aE0wLmM)
- - 👉 [Bueller? Bueller?](http://9gag.com/gag/a2vNQgE)<!-- MEMES:END -->
+ - 😝 [Backpack Glitch](http://9gag.com/gag/arypPjX)
+ - 💣 [And the Darwin award goes tooooo....](http://9gag.com/gag/aYQb3G2)
+ - 😝 [Cross section of two human males - one obese and the other fit.](http://9gag.com/gag/aD20py9)
+ - 👉 [100 bucks says you can&#39;t guess their origin....?](http://9gag.com/gag/aMV1RqP)<!-- MEMES:END -->
 
 ---
 

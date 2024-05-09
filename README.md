@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Windows 11’s screenshot tool is getting QR code scanning and emoji support](https://www.theverge.com/2024/5/9/24152963/microsoft-windows-11-snipping-tool-qr-scanning-emoji-support)
  - [Skylight’s terrific smart calendar is down to its lowest price to date](https://www.theverge.com/2024/5/9/24152713/skylight-calendar-ultraloq-bolt-fingerprint-lock-deal-sale)
  - [Threads is making it easy for anyone to see a post’s view count](https://www.theverge.com/2024/5/9/24152926/threads-view-count-feature-now-available)
  - [Despite big tech lobbying, Maryland passes two internet privacy bills](https://www.theverge.com/2024/5/9/24152918/maryland-kids-code-online-privacy-act-netchoice)
- - [Apple drops three macOS release candidates in one day](https://appleinsider.com/articles/24/05/09/apple-drops-three-macos-release-candidates-in-one-day?utm_medium=rss)
- - [US smartphone shipments fell 8% YoY in Q1 2024, the sixth consecutive quarter of decline; Samsung&#39;s market share grew to 31%; Apple&#39;s share remained flat at 52% &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/240509/p23#a240509p23)<!-- TECH:END -->
+ - [Apple drops three macOS release candidates in one day](https://appleinsider.com/articles/24/05/09/apple-drops-three-macos-release-candidates-in-one-day?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

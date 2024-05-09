@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In a blog post, Neuralink details a problem with its implant in patient Noland Arbaugh&#39;s brain that reduced data collection after the implant&#39;s threads came out &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240509/p5#a240509p5)
  - [SSI Beneficiaries: You&#39;re Getting a Second Check In May. Here&#39;s Why     - CNET](https://www.cnet.com/personal-finance/ssi-beneficiaries-youre-getting-a-second-check-in-may-heres-why/#ftag=CAD590a51e)
  - [Some Singaporean writers resist the government&#39;s request to use their works to train a multilingual LLM, citing little clarity on compensation and other issues &lpar;Nicholas Yong/Rest of World&rpar;](http://www.techmeme.com/240509/p4#a240509p4)
  - [Huawei Pura 70 Pro teardown: the 7nm Kirin 9010 is only marginally better than Kirin 9000S, and the majority of the chips are designed and manufactured in China &lpar;Shahram Mokhtari/iFixit News&rpar;](http://www.techmeme.com/240509/p3#a240509p3)
- - [Town hall: Xbox Game Studios head Matt Booty discussed wanting small and prestigious games, after closing the studio behind small, prestigious hit Hi-Fi Rush &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/240509/p2#a240509p2)
- - [SIA and BCG: by 2032, the US will have the capacity to manufacture 28% of chips below 10nm, while China is expected to make only 2% of the most advanced chips &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240509/p1#a240509p1)<!-- TECH:END -->
+ - [Town hall: Xbox Game Studios head Matt Booty discussed wanting small and prestigious games, after closing the studio behind small, prestigious hit Hi-Fi Rush &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/240509/p2#a240509p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Jack Dorsey on his exit from Bluesky to focus on Nostr, Bluesky &quot;repeating all the mistakes we made&quot; at Twitter, Musk&#39;s takeover, censorship, and more &lpar;Mike Solana&rpar;](http://www.techmeme.com/240509/p29#a240509p29)
  - [Microsoft is testing a new Windows 11 Start menu with floating widgets](https://www.theverge.com/2024/5/9/24153058/microsoft-windows-11-start-menu-companions)
  - [Baidu&#39;s PR chief Qu Jing reportedly left the company after criticism over her Douyin videos demanding that workers must be available 24 hours a day &lpar;Nectar Gan/CNN&rpar;](http://www.techmeme.com/240509/p28#a240509p28)
  - [The Verge’s 2024 Mother’s Day gift guide](https://www.theverge.com/24115101/best-mothers-day-gift-ideas-2024-mom-tech-gadgets)
- - [Asus’ next ROG Ally will be the ROG Ally X](https://www.theverge.com/24152945/asus-rog-ally-handheld-gaming-pc-2024-revision)
- - [Why the Voices of Black Twitter Were Worth Saving](https://www.wired.com/story/why-the-voices-of-black-twitter-were-worth-saving/)<!-- TECH:END -->
+ - [Asus’ next ROG Ally will be the ROG Ally X](https://www.theverge.com/24152945/asus-rog-ally-handheld-gaming-pc-2024-revision)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,8 +165,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Bumble reports Q1 revenue up 10.2% YoY to $267.8M, vs. $265.5M est., total paying users of ~4M, up from 3.5M a year ago, and expects Q2 revenue below estimates &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/240508/p50#a240508p50)
  - [Sources: Microsoft plans more cuts after closing several game studios, as the massive Activision acquisition has ramped up scrutiny on the Xbox division &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/240508/p49#a240508p49)
  - [How Not to Get Brain-Eating Worms and Mercury Poisoning](https://www.wired.com/story/brain-parasite-worm-mercury-fish-robert-kennedy-rfk/)
- - [Boeing confirms that LockBit attempted to extort a $200M ransom in October 2023; the company reportedly didn&#39;t pay any ransom after ~43GB of its data was posted &lpar;AJ Vicens/CyberScoop&rpar;](http://www.techmeme.com/240508/p48#a240508p48)
- - [Save up to $130 on Apple&#39;s new iPad Air &amp; M4 iPad Pro with AppleCare](https://appleinsider.com/articles/24/05/08/save-up-to-130-on-apples-new-ipad-air-m4-ipad-pro-with-applecare?utm_medium=rss)<!-- TECH:END -->
+ - [NYT Strands Is the Latest Must-Play Daily Online Game: Here&#39;s How to Win     - CNET](https://www.cnet.com/tech/services-and-software/nyt-strands-is-the-latest-must-play-daily-online-game-heres-how-to-win/#ftag=CAD590a51e)
+ - [FDA Clears Masimo&#39;s &#39;Stork&#39; Baby Monitor for Blood Oxygen, Pulse Rate Monitoring     - CNET](https://www.cnet.com/health/parenting/fda-clears-masimos-stork-baby-monitor-for-blood-oxygen-pulse-rate-monitoring/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

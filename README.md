@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh f*** you gonna make me squint your eyes again](http://9gag.com/gag/an7Y6y5)
- - 😝 [Reality hurts](http://9gag.com/gag/aXPbBdP)
- - 💣 [Asking AI to create Biblically accurate angels.](http://9gag.com/gag/awyrpgy)
- - 😝 [My psychologist: the giant dwarf does not exist.... The giant dwarf:](http://9gag.com/gag/ae9NnPq)
- - 👉 [Mental illness is a big issue in the west](http://9gag.com/gag/agmyDVg)<!-- MEMES:END -->
+ - 😝 [Sounds like a bad day](http://9gag.com/gag/a0e93yz)
+ - 😝 [Breakfast in Australia](http://9gag.com/gag/agmyDnq)
+ - 💣 [Oh f*** you gonna make me squint your eyes again](http://9gag.com/gag/an7Y6y5)
+ - 😝 [I absolutely hate grumpy old people](http://9gag.com/gag/azxb3ex)
+ - 👉 [A disaster about to happen; they just do not know it yet.](http://9gag.com/gag/agmyemg)<!-- MEMES:END -->
 
 ---
 

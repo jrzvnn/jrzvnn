@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Duolingo drops 10%+ after reporting DAUs up 55% YoY to 31.4M, above 31.1M est., gaining users at the slowest rate since Q3 2022, and revenue up 45% YoY to $168M &lpar;Gabriel Sanchez/Bloomberg&rpar;](http://www.techmeme.com/240509/p7#a240509p7)
  - [Hands-on with LinkedIn&#39;s new games Pinpoint, Crossclimb, and Queens: shamelessly following the NYT&#39;s formula, all three take ~10 minutes, and they are very fun &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240509/p6#a240509p6)
  - [WiiM announces two new wireless audiophile streamers — one with a touchscreen](https://www.theverge.com/2024/5/9/24152014/wiim-ultra-amp-pro-streaming-airplay-2-chromecast)
  - [In a blog post, Neuralink details a problem with its implant in patient Noland Arbaugh&#39;s brain that reduced data collection after the implant&#39;s threads came out &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240509/p5#a240509p5)
- - [SSI Beneficiaries: You&#39;re Getting a Second Check In May. Here&#39;s Why     - CNET](https://www.cnet.com/personal-finance/ssi-beneficiaries-youre-getting-a-second-check-in-may-heres-why/#ftag=CAD590a51e)
- - [Some Singaporean writers resist the government&#39;s request to use their works to train a multilingual LLM, citing little clarity on compensation and other issues &lpar;Nicholas Yong/Rest of World&rpar;](http://www.techmeme.com/240509/p4#a240509p4)<!-- TECH:END -->
+ - [SSI Beneficiaries: You&#39;re Getting a Second Check In May. Here&#39;s Why     - CNET](https://www.cnet.com/personal-finance/ssi-beneficiaries-youre-getting-a-second-check-in-may-heres-why/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

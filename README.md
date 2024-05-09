@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: T-Mobile US is in talks to take over some operations and wireless spectrum licenses of US Cellular for $2B+; Verizon is also in talks with US Cellular &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240509/p25#a240509p25)
+ - [Apple doesn’t understand why you use technology](https://www.theverge.com/2024/5/9/24152987/apple-crush-ad-piano-ipad)
+ - [What Rivian, Lucid, and Fisker tell us about the current state of EVs](https://www.theverge.com/2024/5/9/24152783/rivian-fisker-lucid-earnings-ev-demand-price-war-tesla)
  - [Streaming is cable now](https://www.theverge.com/24152330/netflix-hulu-disney-plus-hbo-streaming-cable-video-verge)
- - [Sources: Apple&#39;s first server chips for its upcoming AI features will be the M2 Ultra; simpler AI tasks will be processed directly on iPhones, iPads, and Macs &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240509/p24#a240509p24)
- - [The iPad has come so incredibly far since 2010, and fulfills Steve Jobs&#39; vision perfectly](https://appleinsider.com/articles/24/05/09/the-ipad-has-come-so-incredibly-far-since-2010-and-fulfills-steve-jobs-vision-perfectly?utm_medium=rss)
- - [Uber’s safety tools can be really useful, provided you enable them — here’s how](https://www.theverge.com/24138192/uber-safety-tools-ridesharing)
- - [Windows 11’s screenshot tool is getting QR code scanning and emoji support](https://www.theverge.com/2024/5/9/24152963/microsoft-windows-11-snipping-tool-qr-scanning-emoji-support)<!-- TECH:END -->
+ - [Sources: Apple&#39;s first server chips for its upcoming AI features will be the M2 Ultra; simpler AI tasks will be processed directly on iPhones, iPads, and Macs &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240509/p24#a240509p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

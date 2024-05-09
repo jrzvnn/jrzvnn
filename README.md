@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: OpenAI plans to announce its AI-powered search product on May 13 &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/240509/p32#a240509p32)
+ - [Apple plans to use M2 Ultra chips in the cloud for AI](https://www.theverge.com/2024/5/9/24153111/apple-m2-ultra-chips-cloud-data-centers-ai)
  - [Poppy Playtime follows Five Nights at Freddy’s with new movie](https://www.theverge.com/2024/5/9/24153105/poppy-playtime-movie-legendary)
  - [ElevenLabs previews a music-generating AI model, showing samples of songs with lyrics generated from text prompts &lpar;Ken Yeung/VentureBeat&rpar;](http://www.techmeme.com/240509/p31#a240509p31)
- - [Dive into app &amp; game development with new &#39;Apple Pathways&#39; hub](https://appleinsider.com/articles/24/05/09/dive-into-app-game-development-with-new-apple-pathways-hub?utm_medium=rss)
- - [The Secret to Cooking Salmon Perfectly in Your Air Fryer     - CNET](https://www.cnet.com/news/the-secret-to-cooking-salmon-perfectly-in-your-air-fryer/#ftag=CAD590a51e)
- - [Apple apologizes for iPad Pro &#39;Crush&#39; ad after massive backlash](https://appleinsider.com/articles/24/05/09/apple-apologizes-for-ipad-pro-crush-ad-after-massive-backlash?utm_medium=rss)<!-- TECH:END -->
+ - [Dive into app &amp; game development with new &#39;Apple Pathways&#39; hub](https://appleinsider.com/articles/24/05/09/dive-into-app-game-development-with-new-apple-pathways-hub?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

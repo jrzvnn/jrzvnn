@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [More doctors are embracing Apple Vision Pro for precision &#39;keyhole&#39; surgeries](https://appleinsider.com/articles/24/05/09/more-doctors-are-embracing-apple-vision-pro-for-precision-keyhole-surgeries?utm_medium=rss)
+ - [Sonos responds to criticism of its app redesign, saying it takes &quot;courage to rebuild&quot; a product from the ground up and it plans to reintroduce missing features &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240509/p18#a240509p18)
  - [As part of its Model Spec release, OpenAI says it is considering letting developers and users &quot;responsibly&quot; create &quot;NSFW content in age-appropriate contexts&quot; &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/240509/p17#a240509p17)
  - [Save $300 on This Lightweight Tineco Cordless Stick Vacuum Today     - CNET](https://www.cnet.com/deals/save-300-on-this-lightweight-tineco-cordless-stick-vacuum-today/#ftag=CAD590a51e)
- - [Need Photo Editing Software? The Luminar Neo Lifetime Bundle Is 80% Off Right Now     - CNET](https://www.cnet.com/deals/need-photo-editing-software-the-luminar-neo-lifetime-bundle-is-80-off-right-now/#ftag=CAD590a51e)
- - [Acer Chromebook Plus 514 Review: A Great Budget Laptop](https://www.wired.com/review/acer-chromebook-plus-514/)
- - [Best Android VPN for 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-android-vpn/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Need Photo Editing Software? The Luminar Neo Lifetime Bundle Is 80% Off Right Now     - CNET](https://www.cnet.com/deals/need-photo-editing-software-the-luminar-neo-lifetime-bundle-is-80-off-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

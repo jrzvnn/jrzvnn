@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well well well...](http://9gag.com/gag/aGy9mbG)
- - 😝 [I wonder why people don&#39;t trust journalists ....](http://9gag.com/gag/agmyPLn)
- - 💣 [Chinese food support](http://9gag.com/gag/aKGz0VQ)
- - 😝 [This is a law in Academia](http://9gag.com/gag/a87WZxZ)
- - 👉 [Her: Do you wanna clean my pipes?](http://9gag.com/gag/a87WBye)<!-- MEMES:END -->
+ - 😝 [Mental illness is a big issue in the west](http://9gag.com/gag/agmyDVg)
+ - 😝 [Happy bday to me! Working 2 jobs to pay the bills, got dumped by gf after 3 year relationship one week ago, taking meds for depression and anxiety but it\u2019s getting worse, no friends or family around, 37 yo and memes for distraction. Raise your glasses for me today and cheers!](http://9gag.com/gag/awyrwE8)
+ - 💣 [This video feels very uncomfortable.](http://9gag.com/gag/aE0wLmM)
+ - 😝 [Oh f*** you gonna make me squint your eyes again](http://9gag.com/gag/an7Y6y5)
+ - 👉 [Gear up people down?](http://9gag.com/gag/an7YP4n)<!-- MEMES:END -->
 
 ---
 

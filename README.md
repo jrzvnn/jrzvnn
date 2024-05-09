@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sounds like a bad day](http://9gag.com/gag/a0e93yz)
- - 😝 [Breakfast in Australia](http://9gag.com/gag/agmyDnq)
- - 💣 [Oh f*** you gonna make me squint your eyes again](http://9gag.com/gag/an7Y6y5)
- - 😝 [I absolutely hate grumpy old people](http://9gag.com/gag/azxb3ex)
- - 👉 [A disaster about to happen; they just do not know it yet.](http://9gag.com/gag/agmyemg)<!-- MEMES:END -->
+ - 😝 [This was awsome](http://9gag.com/gag/ayN5Og8)
+ - 😝 [He&#39;s Not Wrong Though](http://9gag.com/gag/agmyW76)
+ - 💣 [Now this is good..](http://9gag.com/gag/aryp7yV)
+ - 😝 [Why are you saying something so controversial and yet so brave?](http://9gag.com/gag/aE0w9ze)
+ - 👉 [Inception-ception-ception...](http://9gag.com/gag/an7YPp0)<!-- MEMES:END -->
 
 ---
 

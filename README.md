@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Verizon and T-Mobile are trying to gobble up US Cellular](https://www.theverge.com/business/2024/5/9/24153201/verizon-t-mobile-buy-us-cellular-spectrum)
  - [Instant payment company TabaPay pulls out of its $9.7M deal to buy the assets of banking-as-a-service startup Synapse amid infighting among fintech players &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240509/p34#a240509p34)
  - [Unity reports Q1 revenue down 8% YoY to $460M, vs. $433M est., a $291M net loss, including $212M of restructuring costs, compared with a $254M loss in Q1 2023 &lpar;Emily Bary/MarketWatch&rpar;](http://www.techmeme.com/240509/p33#a240509p33)
  - [Best Cheap Phone Plans for May 2024     - CNET](https://www.cnet.com/tech/mobile/best-cheap-phone-plan/#ftag=CAD590a51e)
- - [&#39;Doctor Who&#39; Season 14: How to Watch the New Episodes From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/doctor-who-season-14-how-to-watch-the-new-episodes-from-anywhere/#ftag=CAD590a51e)
- - [Sources: OpenAI plans to announce its AI-powered search product on May 13 &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/240509/p32#a240509p32)<!-- TECH:END -->
+ - [&#39;Doctor Who&#39; Season 14: How to Watch the New Episodes From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/doctor-who-season-14-how-to-watch-the-new-episodes-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

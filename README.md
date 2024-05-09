@@ -164,9 +164,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [TikTok is adding an ‘AI-generated’ label to watermarked third-party content](https://www.theverge.com/2024/5/9/24152667/tiktok-ai-generated-label-content-credentials-cai-c2pa)
  - [The Best Kindle to Buy in 2024](https://www.wired.com/gallery/best-kindle/)
+ - [Upgrade Your Home Theater Game With $40 Off This Amazon Fire TV Soundbar     - CNET](https://www.cnet.com/deals/upgrade-your-home-theater-game-with-40-off-this-amazon-fire-tv-soundbar/#ftag=CAD590a51e)
  - [At a crossroads to the future of computing: choosing between Apple Vision Pro and iPad Pro](https://appleinsider.com/articles/24/05/09/at-a-crossroads-to-the-future-of-computing-choosing-between-apple-vision-pro-and-ipad-pro?utm_medium=rss)
- - [Warner Bros. Discovery’s first new Lord of the Rings movie is due out in 2026](https://www.theverge.com/2024/5/9/24152677/lord-of-the-rings-2026-warner-bros-peter-jackson)
- - [SMIC reports Q1 revenue up 4.3% YoY to $1.75B, vs. $1.69B est., and a $71.8M net income, vs. $76.8M est., as consumer sentiment remains weak in China &lpar;Bloomberg&rpar;](http://www.techmeme.com/240509/p16#a240509p16)<!-- TECH:END -->
+ - [IPVanish Review 2024: Good for Beginners, But Privacy-Critical Users Should Avoid     - CNET](https://www.cnet.com/tech/services-and-software/ipvanish-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

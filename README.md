@@ -166,7 +166,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [The dominant EU music streamer by far is still complaining Apple has too much power](https://appleinsider.com/articles/24/05/09/the-dominant-eu-music-streamer-by-far-is-still-complaining-apple-has-too-much-power?utm_medium=rss)
  - [Sources: French AI startup Mistral AI is nearing a deal to raise ~$600M at a $6B valuation, after raising $500M at a $2B+ valuation in December 2023 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240509/p10#a240509p10)
  - [City Trees Save Lives](https://www.wired.com/story/city-trees-save-lives/)
- - [Baidu VP Qu Jing posted several videos on Douyin demeaning staff, intended to promote Baidu, that reignited criticism of Chinese tech companies&#39; work culture &lpar;Financial Times&rpar;](http://www.techmeme.com/240509/p9#a240509p9)<!-- TECH:END -->
+ - [7 Places Mold Could Be Hiding Inside Your House     - CNET](https://www.cnet.com/how-to/7-places-mold-could-be-hiding-inside-your-house/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

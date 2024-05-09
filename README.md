@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A survey of 1,423 US teens: 85% play video games, including 41% daily, 72% say gaming is a way to spend time with others, and 80% think bullying in an issue &lpar;Pew Research Center&rpar;](http://www.techmeme.com/240509/p15#a240509p15)
  - [Apple maintains US market share as smartphone demand continues to weaken](https://appleinsider.com/articles/24/05/09/apple-maintains-us-market-share-as-smartphone-demand-continues-to-weaken?utm_medium=rss)
  - [Samsung Galaxy A35 5G Review: Struggling to Stand Out](https://www.wired.com/review/samsung-galaxy-a35-5g/)
  - [Roblox reports Q1 revenue up 22% YoY to $801M, bookings up 19% YoY to $923M, DAUs up 17% YoY to 77.7M, and cuts its full-year bookings forecast; RBLX drops 30% &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/240509/p14#a240509p14)
- - [If You Closed Your Chime Account, You Might Be Owed $150     - CNET](https://www.cnet.com/personal-finance/closed-a-chime-account-you-could-get-150-if-you-didnt-get-a-refund-on-time/#ftag=CAD590a51e)
- - [Enjoy the Buying Power of a Sam&#39;s Club Annual Membership for Just $25     - CNET](https://www.cnet.com/deals/enjoy-the-buying-power-of-a-sams-club-annual-membership-for-just-25/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [If You Closed Your Chime Account, You Might Be Owed $150     - CNET](https://www.cnet.com/personal-finance/closed-a-chime-account-you-could-get-150-if-you-didnt-get-a-refund-on-time/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

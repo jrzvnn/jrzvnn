@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh f*** you gonna make me squint your eyes again](http://9gag.com/gag/an7Y6y5)
+ - 😝 [Happy bday to me! Working 2 jobs to pay the bills, got dumped by gf after 3 year relationship one week ago, taking meds for depression and anxiety but it\u2019s getting worse, no friends or family around, 37 yo and memes for distraction. Raise your glasses for me today and cheers!](http://9gag.com/gag/awyrwE8)
  - 😝 [Men just want one thing](http://9gag.com/gag/arypYMd)
  - 💣 [She lives in Chicago streets by the way..](http://9gag.com/gag/aVvOyrn)
- - 😝 [This video feels very uncomfortable.](http://9gag.com/gag/aE0wLmM)
- - 👉 [100 bucks says you can&#39;t guess their origin....?](http://9gag.com/gag/aMV1RqP)<!-- MEMES:END -->
+ - 😝 [Men of culture and sophistication that is...](http://9gag.com/gag/a34Y97Q)
+ - 👉 [One of the best moments ever in the Olympics.](http://9gag.com/gag/aZZP9Pz)<!-- MEMES:END -->
 
 ---
 

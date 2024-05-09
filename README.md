@@ -171,10 +171,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Semen under the microscope](http://9gag.com/gag/awyrEB1)
+ - 😝 [Men of culture and sophistication that is...](http://9gag.com/gag/a34Y97Q)
+ - 💣 [Cross section of two human males - one obese and the other fit.](http://9gag.com/gag/aD20py9)
  - 😝 [Imagine our great ancestors seeing this.](http://9gag.com/gag/aPAvOMg)
- - 😝 [Happy bday to me! Working 2 jobs to pay the bills, got dumped by gf after 3 year relationship one week ago, taking meds for depression and anxiety but it\u2019s getting worse, no friends or family around, 37 yo and memes for distraction. Raise your glasses for me today and cheers!](http://9gag.com/gag/awyrwE8)
- - 💣 [100 bucks says you can&#39;t guess their origin....?](http://9gag.com/gag/aMV1RqP)
- - 😝 [People in Berlin watch some weird shows in the morning](http://9gag.com/gag/an7YmzL)
  - 👉 [Would race](http://9gag.com/gag/aXPb87d)<!-- MEMES:END -->
 
 ---

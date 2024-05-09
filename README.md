@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok is adding an ‘AI-generated’ label to watermarked third-party content](https://www.theverge.com/2024/5/9/24152667/tiktok-ai-generated-label-content-credentials-cai-c2pa)
+ - [The Best Kindle to Buy in 2024](https://www.wired.com/gallery/best-kindle/)
  - [At a crossroads to the future of computing: choosing between Apple Vision Pro and iPad Pro](https://appleinsider.com/articles/24/05/09/at-a-crossroads-to-the-future-of-computing-choosing-between-apple-vision-pro-and-ipad-pro?utm_medium=rss)
  - [Warner Bros. Discovery’s first new Lord of the Rings movie is due out in 2026](https://www.theverge.com/2024/5/9/24152677/lord-of-the-rings-2026-warner-bros-peter-jackson)
- - [SMIC reports Q1 revenue up 4.3% YoY to $1.75B, vs. $1.69B est., and a $71.8M net income, vs. $76.8M est., as consumer sentiment remains weak in China &lpar;Bloomberg&rpar;](http://www.techmeme.com/240509/p16#a240509p16)
- - [Asus Zenbook Duo &lpar;2024&rpar; Review: A Two-Screened Laptop That Nails It](https://www.wired.com/review/asus-zenbook-duo-2024/)
- - [The joy of getting lost in Animal Well’s cryptic world](https://www.theverge.com/24152153/animal-well-review-switch-ps5-steam-videogamedunkey)<!-- TECH:END -->
+ - [SMIC reports Q1 revenue up 4.3% YoY to $1.75B, vs. $1.69B est., and a $71.8M net income, vs. $76.8M est., as consumer sentiment remains weak in China &lpar;Bloomberg&rpar;](http://www.techmeme.com/240509/p16#a240509p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

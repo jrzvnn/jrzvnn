@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Conspiracy of Campus Protests](https://www.wired.com/story/campus-protests-gaza-conspiracy/)
+ - [Lego’s new Retro Radio is just for looks](https://www.theverge.com/24152765/lego-retro-radio-icons)
+ - [6 Practical Tips for Using Anthropic&#39;s Claude Chatbot](https://www.wired.com/story/six-practical-tips-for-using-anthropic-claude-chatbot/)
+ - [The Conspiracies Swarming Campus Protests](https://www.wired.com/story/campus-protests-gaza-conspiracy/)
  - [Sell Lab-Grown Meat in Alabama and You Could Go to Jail](https://www.wired.com/story/lab-grown-fake-meat-ban-alabama-florida/)
- - [Dell warns customers of a data breach after a threat actor claimed to have stolen data for ~49M customers, but says financial and payment data was not stolen &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/240509/p20#a240509p20)
- - [12 Best Vibrators &lpar;2024&rpar;: Cheap, Powerful, Flexible](https://www.wired.com/gallery/best-vibrators/)
- - [You can still buy the last-gen iPad with a headphone jack for $249](https://www.theverge.com/2024/5/9/24152782/amazon-apple-ipad-deal-sale)<!-- TECH:END -->
+ - [Dell warns customers of a data breach after a threat actor claimed to have stolen data for ~49M customers, but says financial and payment data was not stolen &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/240509/p20#a240509p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

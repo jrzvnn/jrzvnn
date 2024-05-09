@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with Sundar Pichai on playing the long game on AI, how Gemini image generation &quot;got it wrong&quot;, AI search, the US DOJ lawsuits, layoffs, and more &lpar;Emily Chang/Bloomberg&rpar;](http://www.techmeme.com/240509/p12#a240509p12)
+ - [MacBook Pro Touch Bar could be revived as a strip that supports Apple Pencil](https://appleinsider.com/articles/22/03/15/macbook-pro-touch-bar-could-be-revived-as-a-strip-that-supports-apple-pencil?utm_medium=rss)
  - [We Tried the World’s Most Expensive Racing Simulator](https://www.wired.com/story/dynisma-worlds-most-expensive-racing-simulator-tested/)
  - [Sources: Alphabet has been progressing in talks to acquire marketing software provider HubSpot and has discussed terms; HubSpot has a $30B market cap &lpar;Bloomberg&rpar;](http://www.techmeme.com/240509/p11#a240509p11)
- - [Student Journalists Face Storm of Campus Protest Disinformation](https://www.wired.com/story/student-journalists-campus-protests-disinformation/)
- - [FDA recalls defective iOS app that injured over 200 insulin pump users](https://www.theverge.com/2024/5/9/24152633/fda-recall-tandem-diabetes-care-insulin-pump-mobile-app)
- - [A San Francisco highway near Apple Park wasn&#39;t pretty enough, so it got deleted](https://appleinsider.com/articles/24/05/09/apple-deleted-a-san-fransisco-highway-and-not-on-apple-maps?utm_medium=rss)<!-- TECH:END -->
+ - [Student Journalists Face Storm of Campus Protest Disinformation](https://www.wired.com/story/student-journalists-campus-protests-disinformation/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

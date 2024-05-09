@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A survey of 1,423 US teens: 85% play video games, including 41% daily, 72% say gaming is a way to spend time with others, and 80% think bullying in an issue &lpar;Pew Research Center&rpar;](http://www.techmeme.com/240509/p15#a240509p15)
- - [Apple maintains US market share as smartphone demand continues to weaken](https://appleinsider.com/articles/24/05/09/apple-maintains-us-market-share-as-smartphone-demand-continues-to-weaken?utm_medium=rss)
- - [Samsung Galaxy A35 5G Review: Struggling to Stand Out](https://www.wired.com/review/samsung-galaxy-a35-5g/)
- - [Roblox reports Q1 revenue up 22% YoY to $801M, bookings up 19% YoY to $923M, DAUs up 17% YoY to 77.7M, and cuts its full-year bookings forecast; RBLX drops 30% &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/240509/p14#a240509p14)
- - [If You Closed Your Chime Account, You Might Be Owed $150     - CNET](https://www.cnet.com/personal-finance/closed-a-chime-account-you-could-get-150-if-you-didnt-get-a-refund-on-time/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [At a crossroads to the future of computing: choosing between Apple Vision Pro and iPad Pro](https://appleinsider.com/articles/24/05/09/at-a-crossroads-to-the-future-of-computing-choosing-between-apple-vision-pro-and-ipad-pro?utm_medium=rss)
+ - [Warner Bros. Discovery’s first new Lord of the Rings movie is due out in 2026](https://www.theverge.com/2024/5/9/24152677/lord-of-the-rings-2026-warner-bros-peter-jackson)
+ - [SMIC reports Q1 revenue up 4.3% YoY to $1.75B, vs. $1.69B est., and a $71.8M net income, vs. $76.8M est., as consumer sentiment remains weak in China &lpar;Bloomberg&rpar;](http://www.techmeme.com/240509/p16#a240509p16)
+ - [Asus Zenbook Duo &lpar;2024&rpar; Review: A Two-Screened Laptop That Nails It](https://www.wired.com/review/asus-zenbook-duo-2024/)
+ - [The joy of getting lost in Animal Well’s cryptic world](https://www.theverge.com/24152153/animal-well-review-switch-ps5-steam-videogamedunkey)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

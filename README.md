@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Unity reports Q1 revenue down 8% YoY to $460M, vs. $433M est., a $291M net loss, including $212M of restructuring costs, compared with a $254M loss in Q1 2023 &lpar;Emily Bary/MarketWatch&rpar;](http://www.techmeme.com/240509/p33#a240509p33)
  - [Sources: OpenAI plans to announce its AI-powered search product on May 13 &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/240509/p32#a240509p32)
  - [Apple plans to use M2 Ultra chips in the cloud for AI](https://www.theverge.com/2024/5/9/24153111/apple-m2-ultra-chips-cloud-data-centers-ai)
  - [Poppy Playtime follows Five Nights at Freddy’s with new movie](https://www.theverge.com/2024/5/9/24153105/poppy-playtime-movie-legendary)
- - [ElevenLabs previews a music-generating AI model, showing samples of songs with lyrics generated from text prompts &lpar;Ken Yeung/VentureBeat&rpar;](http://www.techmeme.com/240509/p31#a240509p31)
- - [Dive into app &amp; game development with new &#39;Apple Pathways&#39; hub](https://appleinsider.com/articles/24/05/09/dive-into-app-game-development-with-new-apple-pathways-hub?utm_medium=rss)<!-- TECH:END -->
+ - [ElevenLabs previews a music-generating AI model, showing samples of songs with lyrics generated from text prompts &lpar;Ken Yeung/VentureBeat&rpar;](http://www.techmeme.com/240509/p31#a240509p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

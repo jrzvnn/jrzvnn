@@ -166,7 +166,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Sources: T-Mobile US is in talks to take over some operations and wireless spectrum licenses of US Cellular for $2B+; Verizon is also in talks with US Cellular &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240509/p25#a240509p25)
  - [Apple doesn’t understand why you use technology](https://www.theverge.com/2024/5/9/24152987/apple-crush-ad-piano-ipad)
  - [What Rivian, Lucid, and Fisker tell us about the current state of EVs](https://www.theverge.com/2024/5/9/24152783/rivian-fisker-lucid-earnings-ev-demand-price-war-tesla)
- - [Streaming is cable now](https://www.theverge.com/24152330/netflix-hulu-disney-plus-hbo-streaming-cable-video-verge)<!-- TECH:END -->
+ - [Best VPN for School Wi-Fi in 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-school-wi-fi/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mental illness is a big issue in the west](http://9gag.com/gag/agmyDVg)
- - 😝 [Sounds like a bad day](http://9gag.com/gag/a0e93yz)
- - 💣 [Oh f*** you gonna make me squint your eyes again](http://9gag.com/gag/an7Y6y5)
- - 😝 [Now this is good..](http://9gag.com/gag/aryp7yV)
- - 👉 [Men just want one thing](http://9gag.com/gag/arypYMd)<!-- MEMES:END -->
+ - 😝 [Running a train on Linux](http://9gag.com/gag/a34Ym7m)
+ - 😝 [This video feels very uncomfortable.](http://9gag.com/gag/aE0wLmM)
+ - 💣 [Now this is good..](http://9gag.com/gag/aryp7yV)
+ - 😝 [Gear up people down?](http://9gag.com/gag/an7YP4n)
+ - 👉 [Oh f*** you gonna make me squint your eyes again](http://9gag.com/gag/an7Y6y5)<!-- MEMES:END -->
 
 ---
 

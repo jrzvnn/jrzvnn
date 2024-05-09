@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Man saves his cat from pit bull attack](http://9gag.com/gag/a9yd94D)
- - 😝 [Everything is an e-bike](http://9gag.com/gag/amoXZg6)
- - 💣 [Mental illness is a big issue in the west](http://9gag.com/gag/agmyDVg)
- - 😝 [Stuntwoman Training](http://9gag.com/gag/ajPr4AG)
- - 👉 [What privicy?](http://9gag.com/gag/aPAvq2w)<!-- MEMES:END -->
+ - 😝 [And the Darwin award goes tooooo....](http://9gag.com/gag/aYQb3G2)
+ - 😝 [Well well well...](http://9gag.com/gag/aGy9mbG)
+ - 💣 [Oh f*** you gonna make me squint your eyes again](http://9gag.com/gag/an7Y6y5)
+ - 😝 [I absolutely hate grumpy old people](http://9gag.com/gag/azxb3ex)
+ - 👉 [Gear up people down?](http://9gag.com/gag/an7YP4n)<!-- MEMES:END -->
 
 ---
 

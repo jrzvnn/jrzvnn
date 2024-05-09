@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Asus’ next ROG Ally will be the ROG Ally X](https://www.theverge.com/24152945/asus-rog-ally-handheld-gaming-pc-2024-revision)
+ - [Why the Voices of Black Twitter Were Worth Saving](https://www.wired.com/story/why-the-voices-of-black-twitter-were-worth-saving/)
  - [Sources: Gopuff, one of the last fast-delivery startups in the US after Getir&#39;s exit, burned ~$400M in 2023 and wants to start generating cash by early 2025 &lpar;The Information&rpar;](http://www.techmeme.com/240509/p27#a240509p27)
  - [The 60 Best Movies on Disney+ Right Now](https://www.wired.com/story/best-movies-disney-plus/)
- - [Corsair is about to acquire racing sim company Fanatec](https://www.theverge.com/2024/5/9/24152989/corsair-fanatec-racing-sim-company-fanatec)
- - [OpenAI&#39;s pitch deck to news publishers promises priority placement to partners in chat conversations and payment contingent on &quot;display success&quot; &lpar;Mark Stenberg/Adweek&rpar;](http://www.techmeme.com/240509/p26#a240509p26)
- - [Sources: T-Mobile US is in talks to take over some operations and wireless spectrum licenses of US Cellular for $2B+; Verizon is also in talks with US Cellular &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240509/p25#a240509p25)<!-- TECH:END -->
+ - [Corsair is about to acquire racing sim company Fanatec](https://www.theverge.com/2024/5/9/24152989/corsair-fanatec-racing-sim-company-fanatec)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

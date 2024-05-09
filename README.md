@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Acer Chromebook Plus 514 Review: A Great Budget Laptop](https://www.wired.com/review/acer-chromebook-plus-514/)
  - [Sonos says its controversial app redesign took ‘courage’](https://www.theverge.com/2024/5/9/24152675/sonos-new-app-bad-reviews-response-statement)
  - [TikTok is adding an ‘AI-generated’ label to watermarked third-party content](https://www.theverge.com/2024/5/9/24152667/tiktok-ai-generated-label-content-credentials-cai-c2pa)
  - [The Best Kindle to Buy in 2024](https://www.wired.com/gallery/best-kindle/)
- - [Upgrade Your Home Theater Game With $40 Off This Amazon Fire TV Soundbar     - CNET](https://www.cnet.com/deals/upgrade-your-home-theater-game-with-40-off-this-amazon-fire-tv-soundbar/#ftag=CAD590a51e)
- - [At a crossroads to the future of computing: choosing between Apple Vision Pro and iPad Pro](https://appleinsider.com/articles/24/05/09/at-a-crossroads-to-the-future-of-computing-choosing-between-apple-vision-pro-and-ipad-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Upgrade Your Home Theater Game With $40 Off This Amazon Fire TV Soundbar     - CNET](https://www.cnet.com/deals/upgrade-your-home-theater-game-with-40-off-this-amazon-fire-tv-soundbar/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

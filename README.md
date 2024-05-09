@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [`Company policies`](http://9gag.com/gag/aPAvKpP)
  - 😝 [I tried, it actually works ! Can someone please explain why ?](http://9gag.com/gag/aqym06R)
+ - 💣 [I think the world will be much better](http://9gag.com/gag/a2vNQyO)
  - 😝 [Imagine our great ancestors seeing this.](http://9gag.com/gag/aPAvOMg)
- - 💣 [Man saves his cat from pit bull attack](http://9gag.com/gag/a9yd94D)
- - 😝 [`Plus Size` in 2003](http://9gag.com/gag/ajP6QDw)
- - 👉 [Disney](http://9gag.com/gag/aByKDLA)<!-- MEMES:END -->
+ - 👉 [100 bucks says you can&#39;t guess their origin....?](http://9gag.com/gag/aMV1RqP)<!-- MEMES:END -->
 
 ---
 

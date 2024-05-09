@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Boeing confirms that LockBit attempted to extort a $200M ransom in October 2023; the company reportedly didn&#39;t pay any ransom after ~43GB of its data was posted &lpar;AJ Vicens/CyberScoop&rpar;](http://www.techmeme.com/240508/p48#a240508p48)
+ - [Save up to $130 on Apple&#39;s new iPad Air &amp; M4 iPad Pro with AppleCare](https://appleinsider.com/articles/24/05/08/save-up-to-130-on-apples-new-ipad-air-m4-ipad-pro-with-applecare?utm_medium=rss)
  - [Microsoft says it needs games like Hi-Fi Rush the day after killing its studio](https://www.theverge.com/2024/5/8/24152137/xbox-hi-fi-rush-tango-gameworks-matt-booty)
  - [Intel and motherboard makers disagree on how to stabilize your crashing i9 CPU](https://www.theverge.com/2024/5/8/24152383/intel-motherboard-manufacturer-i9-stability-bios-update-baseline-profile-default)
- - [Microsoft’s ‘air gapped’ AI is a bot set up to process top-secret info](https://www.theverge.com/2024/5/8/24152424/microsoft-top-secret-ai-server-gpt-4-azure)
- - [Judge questions Apple&#39;s commitment to App Store payment alternatives](https://appleinsider.com/articles/24/05/08/judge-questions-apples-commitment-to-app-store-payment-alternatives?utm_medium=rss)
- - [Some Stack Overflow users say their account was suspended after they attempted to alter their posts in protest of its OpenAI partnership to supply data for AI &lpar;Dallin Grimm/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240508/p47#a240508p47)<!-- TECH:END -->
+ - [Microsoft’s ‘air gapped’ AI is a bot set up to process top-secret info](https://www.theverge.com/2024/5/8/24152424/microsoft-top-secret-ai-server-gpt-4-azure)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

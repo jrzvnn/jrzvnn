@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I just finished this masterpiece...I played a lot of games since 30 years but wow that&#39;s absolutely my best video games experience...what an unforgettable journey !!!](http://9gag.com/gag/ayN5jyM)
- - 😝 [He&#39;s Not Wrong Though](http://9gag.com/gag/agmyW76)
- - 💣 [Mental illness is a big issue in the west](http://9gag.com/gag/agmyDVg)
+ - 😝 [What privicy?](http://9gag.com/gag/aPAvq2w)
  - 😝 [A disaster about to happen; they just do not know it yet.](http://9gag.com/gag/agmyemg)
- - 👉 [Men just want one thing](http://9gag.com/gag/arypYMd)<!-- MEMES:END -->
+ - 💣 [Wait a second](http://9gag.com/gag/aMV1Lz6)
+ - 😝 [I absolutely hate grumpy old people](http://9gag.com/gag/azxb3ex)
+ - 👉 [Oh f*** you gonna make me squint your eyes again](http://9gag.com/gag/an7Y6y5)<!-- MEMES:END -->
 
 ---
 

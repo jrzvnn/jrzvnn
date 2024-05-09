@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Semen under the microscope](http://9gag.com/gag/awyrEB1)
- - 😝 [Men of culture and sophistication that is...](http://9gag.com/gag/a34Y97Q)
- - 💣 [Cross section of two human males - one obese and the other fit.](http://9gag.com/gag/aD20py9)
- - 😝 [Imagine our great ancestors seeing this.](http://9gag.com/gag/aPAvOMg)
- - 👉 [Would race](http://9gag.com/gag/aXPb87d)<!-- MEMES:END -->
+ - 😝 [The tank is not a virgin anymore. BUT WE ARE](http://9gag.com/gag/amoX3O2)
+ - 😝 [She lives in Chicago streets by the way..](http://9gag.com/gag/aVvOyrn)
+ - 💣 [Avatar concept art vs the final design](http://9gag.com/gag/ajPrpZG)
+ - 😝 [This video feels very uncomfortable.](http://9gag.com/gag/aE0wLmM)
+ - 👉 [100%](http://9gag.com/gag/adBNZ6N)<!-- MEMES:END -->
 
 ---
 

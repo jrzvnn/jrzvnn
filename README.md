@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What privicy?](http://9gag.com/gag/aPAvq2w)
  - 😝 [A disaster about to happen; they just do not know it yet.](http://9gag.com/gag/agmyemg)
- - 💣 [Wait a second](http://9gag.com/gag/aMV1Lz6)
- - 😝 [I absolutely hate grumpy old people](http://9gag.com/gag/azxb3ex)
- - 👉 [Oh f*** you gonna make me squint your eyes again](http://9gag.com/gag/an7Y6y5)<!-- MEMES:END -->
+ - 😝 [This video feels very uncomfortable.](http://9gag.com/gag/aE0wLmM)
+ - 💣 [What privicy?](http://9gag.com/gag/aPAvq2w)
+ - 😝 [She lives in Chicago streets by the way..](http://9gag.com/gag/aVvOyrn)
+ - 👉 [Men just want one thing](http://9gag.com/gag/arypYMd)<!-- MEMES:END -->
 
 ---
 

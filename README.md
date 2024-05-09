@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The famous late revenge](http://9gag.com/gag/an7Y6yq)
- - 😝 [#15.](http://9gag.com/gag/aVvONBn)
- - 💣 [Brilliant collaboration](http://9gag.com/gag/aKGzQ0Q)
- - 😝 [I wonder why people don&#39;t trust journalists ....](http://9gag.com/gag/agmyPLn)
- - 👉 [This is a law in Academia](http://9gag.com/gag/a87WZxZ)<!-- MEMES:END -->
+ - 😝 [A disaster about to happen; they just do not know it yet.](http://9gag.com/gag/agmyemg)
+ - 😝 [Get to the choppa](http://9gag.com/gag/ayN5bRY)
+ - 💣 [Oh f*** you gonna make me squint your eyes again](http://9gag.com/gag/an7Y6y5)
+ - 😝 [Mental illness is a big issue in the west](http://9gag.com/gag/agmyDVg)
+ - 👉 [Happy bday to me! Working 2 jobs to pay the bills, got dumped by gf after 3 year relationship one week ago, taking meds for depression and anxiety but it\u2019s getting worse, no friends or family around, 37 yo and memes for distraction. Raise your glasses for me today and cheers!](http://9gag.com/gag/awyrwE8)<!-- MEMES:END -->
 
 ---
 

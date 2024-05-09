@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [100 bucks says you can&#39;t guess their origin....?](http://9gag.com/gag/aMV1RqP)
+ - 😝 [Now this is good..](http://9gag.com/gag/aryp7yV)
  - 😝 [Her: Do you wanna clean my pipes?](http://9gag.com/gag/a87WBye)
- - 💣 [#15.](http://9gag.com/gag/aVvONBn)
- - 😝 [Fact](http://9gag.com/gag/ae9NoOO)
- - 👉 [Chinese food support](http://9gag.com/gag/aKGz0VQ)<!-- MEMES:END -->
+ - 💣 [Happy bday to me! Working 2 jobs to pay the bills, got dumped by gf after 3 year relationship one week ago, taking meds for depression and anxiety but it\u2019s getting worse, no friends or family around, 37 yo and memes for distraction. Raise your glasses for me today and cheers!](http://9gag.com/gag/awyrwE8)
+ - 😝 [100 bucks says you can&#39;t guess their origin....?](http://9gag.com/gag/aMV1RqP)
+ - 👉 [Brilliant collaboration](http://9gag.com/gag/aKGzQ0Q)<!-- MEMES:END -->
 
 ---
 

@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This video feels very uncomfortable.](http://9gag.com/gag/aE0wLmM)
- - 😝 [Backpack Glitch](http://9gag.com/gag/arypPjX)
- - 💣 [And the Darwin award goes tooooo....](http://9gag.com/gag/aYQb3G2)
- - 😝 [Cross section of two human males - one obese and the other fit.](http://9gag.com/gag/aD20py9)
- - 👉 [100 bucks says you can&#39;t guess their origin....?](http://9gag.com/gag/aMV1RqP)<!-- MEMES:END -->
+ - 😝 [I tried, it actually works ! Can someone please explain why ?](http://9gag.com/gag/aqym06R)
+ - 😝 [Imagine our great ancestors seeing this.](http://9gag.com/gag/aPAvOMg)
+ - 💣 [Man saves his cat from pit bull attack](http://9gag.com/gag/a9yd94D)
+ - 😝 [`Plus Size` in 2003](http://9gag.com/gag/ajP6QDw)
+ - 👉 [Disney](http://9gag.com/gag/aByKDLA)<!-- MEMES:END -->
 
 ---
 

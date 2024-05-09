@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Backpack Glitch](http://9gag.com/gag/arypPjX)
- - 😝 [Oh f*** you gonna make me squint your eyes again](http://9gag.com/gag/an7Y6y5)
- - 💣 [I tried, it actually works ! Can someone please explain why ?](http://9gag.com/gag/aqym06R)
- - 😝 [Bueller? Bueller?](http://9gag.com/gag/a2vNQgE)
- - 👉 [And the Darwin award goes tooooo....](http://9gag.com/gag/aYQb3G2)<!-- MEMES:END -->
+ - 😝 [Men of culture and sophistication that is...](http://9gag.com/gag/a34Y97Q)
+ - 😝 [I tried, it actually works ! Can someone please explain why ?](http://9gag.com/gag/aqym06R)
+ - 💣 [And the Darwin award goes tooooo....](http://9gag.com/gag/aYQb3G2)
+ - 😝 [This video feels very uncomfortable.](http://9gag.com/gag/aE0wLmM)
+ - 👉 [Bueller? Bueller?](http://9gag.com/gag/a2vNQgE)<!-- MEMES:END -->
 
 ---
 

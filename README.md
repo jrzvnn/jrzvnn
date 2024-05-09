@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [100 bucks says you can&#39;t guess their origin....?](http://9gag.com/gag/aMV1RqP)
- - 😝 [Czechs are funny and cute :&rpar;](http://9gag.com/gag/a7o54Rx)
- - 💣 [Clown world](http://9gag.com/gag/a6ZwWr8)
- - 😝 [All of a sudden when 1 man stands up to them its `Do something police`.](http://9gag.com/gag/aRBQ5o2)
- - 👉 [Did anyone else notice this?](http://9gag.com/gag/aByKqAO)<!-- MEMES:END -->
+ - 😝 [Oh f*** you gonna make me squint your eyes again](http://9gag.com/gag/an7Y6y5)
+ - 😝 [Men just want one thing](http://9gag.com/gag/arypYMd)
+ - 💣 [She lives in Chicago streets by the way..](http://9gag.com/gag/aVvOyrn)
+ - 😝 [This video feels very uncomfortable.](http://9gag.com/gag/aE0wLmM)
+ - 👉 [100 bucks says you can&#39;t guess their origin....?](http://9gag.com/gag/aMV1RqP)<!-- MEMES:END -->
 
 ---
 

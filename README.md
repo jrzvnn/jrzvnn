@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh f*** you gonna make me squint your eyes again](http://9gag.com/gag/an7Y6y5)
  - 😝 [Men of culture and sophistication that is...](http://9gag.com/gag/a34Y97Q)
- - 💣 [I tried, it actually works ! Can someone please explain why ?](http://9gag.com/gag/aqym06R)
- - 😝 [Okay I will not not do that not by before tomorrow but after yesterday if it doesn\u2019t have to not happen\u2026.](http://9gag.com/gag/agmyWgW)
- - 👉 [Cross section of two human males - one obese and the other fit.](http://9gag.com/gag/aD20py9)<!-- MEMES:END -->
+ - 😝 [Cross section of two human males - one obese and the other fit.](http://9gag.com/gag/aD20py9)
+ - 💣 [And the Darwin award goes tooooo....](http://9gag.com/gag/aYQb3G2)
+ - 😝 [I tried, it actually works ! Can someone please explain why ?](http://9gag.com/gag/aqym06R)
+ - 👉 [Backpack Glitch](http://9gag.com/gag/arypPjX)<!-- MEMES:END -->
 
 ---
 

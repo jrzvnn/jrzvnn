@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Town hall: Xbox Game Studios head Matt Booty discussed wanting small and prestigious games, after closing the studio behind a small, prestigious hit Hi-Fi Rush &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/240509/p2#a240509p2)
  - [SIA and BCG: by 2032, the US will have the capacity to manufacture 28% of chips below 10nm, while China is expected to make only 2% of the most advanced chips &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240509/p1#a240509p1)
+ - [3 Best Stainless Steel Frying Pans in 2024     - CNET](https://www.cnet.com/news/best-stainless-steel-skillet/#ftag=CAD590a51e)
  - [Today&#39;s Wordle Hints and Answer: Help for May 9, #1055     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-and-answer-help-for-may-9-1055/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints and Answer -- Help for May 9, #333     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hints-answer-help-for-may-9-333/#ftag=CAD590a51e)
- - [RunPod, which offers a globally distributed GPU cloud platform for developing and deploying AI, raised a $20M seed co-led by Intel Capital and Dell Technologies &lpar;James Thomason/VentureBeat&rpar;](http://www.techmeme.com/240508/p51#a240508p51)
- - [How to master the Control Center in watchOS 10](https://appleinsider.com/inside/apple-watch/tips/how-to-master-the-control-center-in-watchos-10?utm_medium=rss)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints and Answer -- Help for May 9, #333     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hints-answer-help-for-may-9-333/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

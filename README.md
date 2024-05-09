@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Conspiracy of Campus Protests](https://www.wired.com/story/campus-protests-gaza-conspiracy/)
+ - [Sell Lab-Grown Meat in Alabama and You Could Go to Jail](https://www.wired.com/story/lab-grown-fake-meat-ban-alabama-florida/)
  - [Dell warns customers of a data breach after a threat actor claimed to have stolen data for ~49M customers, but says financial and payment data was not stolen &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/240509/p20#a240509p20)
  - [12 Best Vibrators &lpar;2024&rpar;: Cheap, Powerful, Flexible](https://www.wired.com/gallery/best-vibrators/)
- - [You can still buy the last-gen iPad with a headphone jack for $249](https://www.theverge.com/2024/5/9/24152782/amazon-apple-ipad-deal-sale)
- - [8 Best Online Photo Printing Services &lpar;2024&rpar;: Tips, Print Quality, and More](https://www.wired.com/story/best-photo-printing-services/)
- - [Alibaba releases Qwen2.5 and says 90K+ companies use its Qwen models; OpenCompass: Qwen2.5 beats GPT-4 in language and creation but not knowledge or reasoning &lpar;Sheila Chiang/CNBC&rpar;](http://www.techmeme.com/240509/p19#a240509p19)<!-- TECH:END -->
+ - [You can still buy the last-gen iPad with a headphone jack for $249](https://www.theverge.com/2024/5/9/24152782/amazon-apple-ipad-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

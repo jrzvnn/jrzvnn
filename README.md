@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bumble reports Q1 revenue up 10.2% YoY to $267.8M, vs. $265.5M est., total paying users of ~4M, up from 3.5M a year ago, and expects Q2 revenue below estimates &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/240508/p50#a240508p50)
+ - [Sources: Microsoft plans more cuts after closing several game studios, as the massive Activision acquisition has ramped up scrutiny on the Xbox division &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/240508/p49#a240508p49)
+ - [How Not to Get Brain-Eating Worms and Mercury Poisoning](https://www.wired.com/story/brain-parasite-worm-mercury-fish-robert-kennedy-rfk/)
  - [Boeing confirms that LockBit attempted to extort a $200M ransom in October 2023; the company reportedly didn&#39;t pay any ransom after ~43GB of its data was posted &lpar;AJ Vicens/CyberScoop&rpar;](http://www.techmeme.com/240508/p48#a240508p48)
- - [Save up to $130 on Apple&#39;s new iPad Air &amp; M4 iPad Pro with AppleCare](https://appleinsider.com/articles/24/05/08/save-up-to-130-on-apples-new-ipad-air-m4-ipad-pro-with-applecare?utm_medium=rss)
- - [Microsoft says it needs games like Hi-Fi Rush the day after killing its studio](https://www.theverge.com/2024/5/8/24152137/xbox-hi-fi-rush-tango-gameworks-matt-booty)
- - [Intel and motherboard makers disagree on how to stabilize your crashing i9 CPU](https://www.theverge.com/2024/5/8/24152383/intel-motherboard-manufacturer-i9-stability-bios-update-baseline-profile-default)
- - [Microsoft’s ‘air gapped’ AI is a bot set up to process top-secret info](https://www.theverge.com/2024/5/8/24152424/microsoft-top-secret-ai-server-gpt-4-azure)<!-- TECH:END -->
+ - [Save up to $130 on Apple&#39;s new iPad Air &amp; M4 iPad Pro with AppleCare](https://appleinsider.com/articles/24/05/08/save-up-to-130-on-apples-new-ipad-air-m4-ipad-pro-with-applecare?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

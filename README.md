@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This was awsome](http://9gag.com/gag/ayN5Og8)
+ - 😝 [I just finished this masterpiece...I played a lot of games since 30 years but wow that&#39;s absolutely my best video games experience...what an unforgettable journey !!!](http://9gag.com/gag/ayN5jyM)
  - 😝 [He&#39;s Not Wrong Though](http://9gag.com/gag/agmyW76)
- - 💣 [Now this is good..](http://9gag.com/gag/aryp7yV)
- - 😝 [Why are you saying something so controversial and yet so brave?](http://9gag.com/gag/aE0w9ze)
- - 👉 [Inception-ception-ception...](http://9gag.com/gag/an7YPp0)<!-- MEMES:END -->
+ - 💣 [Mental illness is a big issue in the west](http://9gag.com/gag/agmyDVg)
+ - 😝 [A disaster about to happen; they just do not know it yet.](http://9gag.com/gag/agmyemg)
+ - 👉 [Men just want one thing](http://9gag.com/gag/arypYMd)<!-- MEMES:END -->
 
 ---
 

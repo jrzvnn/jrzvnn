@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It is all on you guys, thanks!!!](http://9gag.com/gag/aKGzo5Q)
- - 😝 [Well well well...](http://9gag.com/gag/aGy9mbG)
- - 💣 [My psychologist: the giant dwarf does not exist.... The giant dwarf:](http://9gag.com/gag/ae9NnPq)
- - 😝 [Mental illness is a big issue in the west](http://9gag.com/gag/agmyDVg)
- - 👉 [100%](http://9gag.com/gag/adBNZ6N)<!-- MEMES:END -->
+ - 😝 [When you realize that you were once the enemy within. Self-awareness is important](http://9gag.com/gag/aGy94dn)
+ - 😝 [Oh f*** you gonna make me squint your eyes again](http://9gag.com/gag/an7Y6y5)
+ - 💣 [What privicy?](http://9gag.com/gag/aPAvq2w)
+ - 😝 [Men just want one thing](http://9gag.com/gag/arypYMd)
+ - 👉 [If only they spoke like Bevis and ButtHead..SNL breaks character..](http://9gag.com/gag/azxbW2b)<!-- MEMES:END -->
 
 ---
 

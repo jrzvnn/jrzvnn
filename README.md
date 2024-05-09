@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The tank is not a virgin anymore. BUT WE ARE](http://9gag.com/gag/amoX3O2)
- - 😝 [She lives in Chicago streets by the way..](http://9gag.com/gag/aVvOyrn)
- - 💣 [Avatar concept art vs the final design](http://9gag.com/gag/ajPrpZG)
+ - 😝 [Men of culture and sophistication that is...](http://9gag.com/gag/a34Y97Q)
+ - 😝 [Mental illness is a big issue in the west](http://9gag.com/gag/agmyDVg)
+ - 💣 [Cross section of two human males - one obese and the other fit.](http://9gag.com/gag/aD20py9)
  - 😝 [This video feels very uncomfortable.](http://9gag.com/gag/aE0wLmM)
- - 👉 [100%](http://9gag.com/gag/adBNZ6N)<!-- MEMES:END -->
+ - 👉 [One of the best moments ever in the Olympics.](http://9gag.com/gag/aZZP9Pz)<!-- MEMES:END -->
 
 ---
 

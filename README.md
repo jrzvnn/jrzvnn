@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok plans to start automatically labeling some AI content, including from Dall-E and Adobe&#39;s Firefly, and joins the Adobe-led content credential coalition &lpar;Financial Times&rpar;](http://www.techmeme.com/240509/p13#a240509p13)
- - [A Peek Inside Hulu&#39;s New &#39;Black Twitter&#39; Docuseries](https://www.wired.com/story/gadget-lab-podcast-643/)
- - [Why Spotify is still fighting with Apple in Europe](https://www.theverge.com/2024/5/9/24152380/spotify-apple-fight-european-union-dma)
- - [An interview with Sundar Pichai on playing the long game on AI, how Gemini image generation &quot;got it wrong&quot;, AI search, the US DOJ lawsuits, layoffs, and more &lpar;Emily Chang/Bloomberg&rpar;](http://www.techmeme.com/240509/p12#a240509p12)
- - [MacBook Pro Touch Bar could be revived as a strip that supports Apple Pencil](https://appleinsider.com/articles/22/03/15/macbook-pro-touch-bar-could-be-revived-as-a-strip-that-supports-apple-pencil?utm_medium=rss)<!-- TECH:END -->
+ - [Apple maintains US market share as smartphone demand continues to weaken](https://appleinsider.com/articles/24/05/09/apple-maintains-us-market-share-as-smartphone-demand-continues-to-weaken?utm_medium=rss)
+ - [Samsung Galaxy A35 5G Review: Struggling to Stand Out](https://www.wired.com/review/samsung-galaxy-a35-5g/)
+ - [Roblox reports Q1 revenue up 22% YoY to $801M, bookings up 19% YoY to $923M, DAUs up 17% YoY to 77.7M, and cuts its full-year bookings forecast; RBLX drops 30% &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/240509/p14#a240509p14)
+ - [If You Closed Your Chime Account, You Might Be Owed $150     - CNET](https://www.cnet.com/personal-finance/closed-a-chime-account-you-could-get-150-if-you-didnt-get-a-refund-on-time/#ftag=CAD590a51e)
+ - [Enjoy the Buying Power of a Sam&#39;s Club Annual Membership for Just $25     - CNET](https://www.cnet.com/deals/enjoy-the-buying-power-of-a-sams-club-annual-membership-for-just-25/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

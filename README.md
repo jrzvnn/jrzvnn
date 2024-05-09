@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Reddit releases a new content policy, including a ban on AI data licensees from using deleted posts or comments; Reddit expects $60M+ in 2024 licensing revenue &lpar;Aisha Counts/Bloomberg&rpar;](http://www.techmeme.com/240509/p22#a240509p22)
  - [Indian investment app Groww moves its domicile back to India from the US, as some Indian startups relocate overseas entities to align with India&#39;s new rules &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240509/p21#a240509p21)
  - [Best Xbox Game Pass Deals: Save Over $70 on annual subscription     - CNET](https://www.cnet.com/deals/best-game-pass-and-xbox-live-deals/#ftag=CAD590a51e)
  - [Lego’s new Retro Radio is just for looks](https://www.theverge.com/24152765/lego-retro-radio-icons)
- - [Watch Europa League Semifinal: Livestream Atalanta vs. Marseille From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/watch-europa-league-semifinal-livestream-atalanta-vs-marseille-from-anywhere/#ftag=CAD590a51e)
- - [6 Practical Tips for Using Anthropic&#39;s Claude Chatbot](https://www.wired.com/story/six-practical-tips-for-using-anthropic-claude-chatbot/)<!-- TECH:END -->
+ - [Watch Europa League Semifinal: Livestream Atalanta vs. Marseille From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/watch-europa-league-semifinal-livestream-atalanta-vs-marseille-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

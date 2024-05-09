@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Alphabet has been progressing in talks to acquire marketing software provider HubSpot and has discussed terms; HubSpot has a $30B market cap &lpar;Bloomberg&rpar;](http://www.techmeme.com/240509/p11#a240509p11)
  - [FDA recalls defective iOS app that injured over 200 insulin pump users](https://www.theverge.com/2024/5/9/24152633/fda-recall-tandem-diabetes-care-insulin-pump-mobile-app)
  - [A San Francisco highway near Apple Park wasn&#39;t pretty enough, so it got deleted](https://appleinsider.com/articles/24/05/09/apple-deleted-a-san-fransisco-highway-and-not-on-apple-maps?utm_medium=rss)
- - [&#39;The Iron Claw&#39;: Release Date and How to Stream From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/the-iron-claw-release-date-and-how-to-stream-from-anywhere/#ftag=CAD590a51e)
- - [Google I/O: Everything to Expect, From Android 15 to AI Updates     - CNET](https://www.cnet.com/tech/mobile/google-io-everything-to-expect-from-android-15-to-ai-updates/#ftag=CAD590a51e)
- - [The Best Gifts for Girlfriends in 2024     - CNET](https://www.cnet.com/news/best-gifts-for-girlfriends/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The dominant EU music streamer by far is still complaining Apple has too much power](https://appleinsider.com/articles/24/05/09/the-dominant-eu-music-streamer-by-far-is-still-complaining-apple-has-too-much-power?utm_medium=rss)
+ - [Sources: French AI startup Mistral AI is nearing a deal to raise ~$600M at a $6B valuation, after raising $500M at a $2B+ valuation in December 2023 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240509/p10#a240509p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

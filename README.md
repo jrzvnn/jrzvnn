@@ -162,7 +162,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple deleted a San Francisco highway, and not on Apple Maps](https://appleinsider.com/articles/24/05/09/apple-deleted-a-san-fransisco-highway-and-not-on-apple-maps?utm_medium=rss)
+ - [A San Francisco highway near Apple Park wasn&#39;t pretty enough, so it got deleted](https://appleinsider.com/articles/24/05/09/apple-deleted-a-san-fransisco-highway-and-not-on-apple-maps?utm_medium=rss)
  - [The dominant EU music streamer by far is still complaining Apple has too much power](https://appleinsider.com/articles/24/05/09/the-dominant-eu-music-streamer-by-far-is-still-complaining-apple-has-too-much-power?utm_medium=rss)
  - [Sources: French AI startup Mistral AI is nearing a deal to raise ~$600M at a $6B valuation, after raising $500M at a $2B+ valuation in December 2023 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240509/p10#a240509p10)
  - [City Trees Save Lives](https://www.wired.com/story/city-trees-save-lives/)

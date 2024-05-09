@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And the Darwin award goes tooooo....](http://9gag.com/gag/aYQb3G2)
- - 😝 [Well well well...](http://9gag.com/gag/aGy9mbG)
- - 💣 [Oh f*** you gonna make me squint your eyes again](http://9gag.com/gag/an7Y6y5)
+ - 😝 [Avatar concept art vs the final design](http://9gag.com/gag/ajPrpZG)
+ - 😝 [Men just want one thing](http://9gag.com/gag/arypYMd)
+ - 💣 [Frat boys make fun of the mentally challenged ANTIFA clowns](http://9gag.com/gag/a1mAyG6)
  - 😝 [I absolutely hate grumpy old people](http://9gag.com/gag/azxb3ex)
- - 👉 [Gear up people down?](http://9gag.com/gag/an7YP4n)<!-- MEMES:END -->
+ - 👉 [Breakfast in Australia](http://9gag.com/gag/agmyDnq)<!-- MEMES:END -->
 
 ---
 

@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The cooling must be great thou](http://9gag.com/gag/avy0N7q)
- - 😝 [The famous late revenge](http://9gag.com/gag/an7Y6yq)
- - 💣 [Well well well...](http://9gag.com/gag/aGy9mbG)
- - 😝 [I wonder why people don&#39;t trust journalists ....](http://9gag.com/gag/agmyPLn)
- - 👉 [This is a law in Academia](http://9gag.com/gag/a87WZxZ)<!-- MEMES:END -->
+ - 😝 [Man saves his cat from pit bull attack](http://9gag.com/gag/a9yd94D)
+ - 😝 [Everything is an e-bike](http://9gag.com/gag/amoXZg6)
+ - 💣 [Mental illness is a big issue in the west](http://9gag.com/gag/agmyDVg)
+ - 😝 [Stuntwoman Training](http://9gag.com/gag/ajPr4AG)
+ - 👉 [What privicy?](http://9gag.com/gag/aPAvq2w)<!-- MEMES:END -->
 
 ---
 

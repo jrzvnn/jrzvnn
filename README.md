@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Running a train on Linux](http://9gag.com/gag/a34Ym7m)
- - 😝 [This video feels very uncomfortable.](http://9gag.com/gag/aE0wLmM)
- - 💣 [Now this is good..](http://9gag.com/gag/aryp7yV)
- - 😝 [Gear up people down?](http://9gag.com/gag/an7YP4n)
- - 👉 [Oh f*** you gonna make me squint your eyes again](http://9gag.com/gag/an7Y6y5)<!-- MEMES:END -->
+ - 😝 [It is all on you guys, thanks!!!](http://9gag.com/gag/aKGzo5Q)
+ - 😝 [Well well well...](http://9gag.com/gag/aGy9mbG)
+ - 💣 [My psychologist: the giant dwarf does not exist.... The giant dwarf:](http://9gag.com/gag/ae9NnPq)
+ - 😝 [Mental illness is a big issue in the west](http://9gag.com/gag/agmyDVg)
+ - 👉 [100%](http://9gag.com/gag/adBNZ6N)<!-- MEMES:END -->
 
 ---
 

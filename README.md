@@ -162,11 +162,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple apologizes for iPad Pro &#39;Crush&#39; ad after massive backlash](https://appleinsider.com/articles/24/05/09/apple-apologizes-for-ipad-pro-crush-ad-after-massive-backlash?utm_medium=rss)
  - [Apple apologizes for iPad ‘Crush’ ad that ‘missed the mark’](https://www.theverge.com/2024/5/9/24153113/apple-ipad-ad-crushing-apology)
  - [Apple apologizes for the &quot;Crush&quot; iPad Pro ad and scraps plans to run it on TV; Apple&#39;s VP of marketing communications Tor Myhren says &quot;we missed the mark&quot; &lpar;Tim Nudd/Ad Age&rpar;](http://www.techmeme.com/240509/p30#a240509p30)
  - [Elon Musk&#39;s Neuralink Had a Brain Implant Setback. It May Come Down to Design](https://www.wired.com/story/neuralinks-brain-implant-issues/)
- - [Q&amp;A with Jack Dorsey on his exit from Bluesky to focus on Nostr, Bluesky &quot;repeating all the mistakes we made&quot; at Twitter, Musk&#39;s takeover, censorship, and more &lpar;Mike Solana&rpar;](http://www.techmeme.com/240509/p29#a240509p29)
- - [Microsoft is testing a new Windows 11 Start menu with floating widgets](https://www.theverge.com/2024/5/9/24153058/microsoft-windows-11-start-menu-companions)<!-- TECH:END -->
+ - [Q&amp;A with Jack Dorsey on his exit from Bluesky to focus on Nostr, Bluesky &quot;repeating all the mistakes we made&quot; at Twitter, Musk&#39;s takeover, censorship, and more &lpar;Mike Solana&rpar;](http://www.techmeme.com/240509/p29#a240509p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

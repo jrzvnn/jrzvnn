@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I tried, it actually works ! Can someone please explain why ?](http://9gag.com/gag/aqym06R)
+ - 😝 [Emotional damage](http://9gag.com/gag/aRBQYx7)
+ - 😝 [Pretty smooth Flying fox](http://9gag.com/gag/an7Xe05)
+ - 💣 [Inmate Recounts How He Killed His Cell-Mate Who Was a Child Molester](http://9gag.com/gag/a7oKvnb)
  - 😝 [Imagine our great ancestors seeing this.](http://9gag.com/gag/aPAvOMg)
- - 💣 [Tesla owners, amirite?](http://9gag.com/gag/azxb08Z)
- - 😝 [100 bucks says you can&#39;t guess their origin....?](http://9gag.com/gag/aMV1RqP)
- - 👉 [100%](http://9gag.com/gag/adBNZ6N)<!-- MEMES:END -->
+ - 👉 [Men just want one thing](http://9gag.com/gag/arypYMd)<!-- MEMES:END -->
 
 ---
 

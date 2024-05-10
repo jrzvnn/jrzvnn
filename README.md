@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bungie’s classic sci-fi shooter Marathon is now free on Steam](https://www.theverge.com/2024/5/10/24153867/marathon-bungie-shooter-steam-release-date-price)
+ - [A federal judge dismisses X&#39;s lawsuit against Bright Data over data scraping; Meta previously filed a suit against Bright Data and was similarly unsuccessful &lpar;CNBC&rpar;](http://www.techmeme.com/240510/p13#a240510p13)
  - [‘Hades 2’: Our 8 Best Tips to Get You Started](https://www.wired.com/story/hades-2-best-tips-beginners/)
  - [Biden really, really doesn’t want China to flood the US with cheap EVs](https://www.theverge.com/2024/5/10/24153830/biden-china-ev-tariff-quadruple-trade)
- - [EA is prototyping in-game ads even as we speak](https://www.theverge.com/2024/5/10/24153809/ea-in-game-ads-redux)
- - [Kobo’s Elipsa 2E, our favorite e-reader for taking notes, is down to its best price yet](https://www.theverge.com/2024/5/10/24153539/kobo-elipsa-2e-ebook-reader-apple-airtag-deal-sale)
- - [Sources: Apple made generative AI a tent-pole project after Craig Federighi and John Giannandrea spent weeks testing ChatGPT and found Siri to be antiquated &lpar;New York Times&rpar;](http://www.techmeme.com/240510/p12#a240510p12)<!-- TECH:END -->
+ - [EA is prototyping in-game ads even as we speak](https://www.theverge.com/2024/5/10/24153809/ea-in-game-ads-redux)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

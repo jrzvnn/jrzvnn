@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Real cool how he handles this, a lot of actors would refuse I think](http://9gag.com/gag/a1mA4bv)
- - 😝 [100%](http://9gag.com/gag/adBNZ6N)
- - 💣 [Bueller? Bueller?](http://9gag.com/gag/a2vNQgE)
- - 😝 [I think the world will be much better](http://9gag.com/gag/a2vNQyO)
- - 👉 [Reminds me of that old Twilight Zone episode.](http://9gag.com/gag/aqyZ4BM)<!-- MEMES:END -->
+ - 😝 [`Company policies`](http://9gag.com/gag/aPAvKpP)
+ - 😝 [I tried, it actually works ! Can someone please explain why ?](http://9gag.com/gag/aqym06R)
+ - 💣 [Imagine our great ancestors seeing this.](http://9gag.com/gag/aPAvOMg)
+ - 😝 [Disney](http://9gag.com/gag/aByKDLA)
+ - 👉 [Emotional damage](http://9gag.com/gag/aRBQYx7)<!-- MEMES:END -->
 
 ---
 

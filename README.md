@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sex slaves.](http://9gag.com/gag/aPAywbQ)
- - 😝 [Goes hand in hand with the Hollyeood lifestyle I guess.](http://9gag.com/gag/aGyVKG0)
- - 💣 [Emotional damage](http://9gag.com/gag/aRBQYx7)
- - 😝 [100%](http://9gag.com/gag/adBNZ6N)
- - 👉 [European women are the most beautiful women in the world, CHANGE MY MIND.](http://9gag.com/gag/ayN5yjX)<!-- MEMES:END -->
+ - 😝 [Imagine our great ancestors seeing this.](http://9gag.com/gag/aPAvOMg)
+ - 😝 [Emotional damage](http://9gag.com/gag/aRBQYx7)
+ - 💣 [One of the best moments ever in the Olympics.](http://9gag.com/gag/aZZP9Pz)
+ - 😝 [A 14-year-old Belgian girl was raped in the forest for 2 days by 10 immigrant boys, organized by her immigrant boyfriend in Kortrijk, Belgium.](http://9gag.com/gag/a87bdP6)
+ - 👉 [Disney](http://9gag.com/gag/aByKDLA)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Smartphone shipments in India grew 8% in Q1, 2024; Vivo leads for the first time with 19.2% of market share, followed by Xiaomi with 18.8%, and Samsung 17.5% &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/240510/p4#a240510p4)
+ - [How to Take a Screenshot on Any iPhone or Android Phone     - CNET](https://www.cnet.com/tech/mobile/how-to-take-a-screenshot-on-any-iphone-or-android-phone/#ftag=CAD590a51e)
+ - [How to Watch &#39;Interview With the Vampire&#39; Season 2 From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-interview-with-the-vampire-season-2-from-anywhere/#ftag=CAD590a51e)
  - [Disney and Warner Bros. Discovery Just Reinvented Cable](https://www.wired.com/story/disney-and-warner-bros-discovery-just-reinvented-cable/)
- - [Smartphone addiction is real, and we all probably need to do something about it](https://appleinsider.com/inside/iphone/tips/smartphone-addiction-is-real-and-we-all-probably-need-to-do-something-about-it?utm_medium=rss)
- - [OpenAI could unveil its Google search competitor on Monday](https://www.theverge.com/2024/5/10/24153421/openai-chatgpt-google-search-competitor-service-io)
- - [22 Best High School Graduation Gifts for the Class of 2024     - CNET](https://www.cnet.com/news/high-school-graduation-gifts/#ftag=CAD590a51e)
- - [iOS 17: Add More Security to Your iPhone Messages in 4 Easy Steps     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-add-more-security-to-your-iphone-messages-in-4-easy-steps/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Deals for Seniors     - CNET](https://www.cnet.com/home/internet/best-internet-deals-for-seniors/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

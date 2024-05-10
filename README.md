@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Imagine our great ancestors seeing this.](http://9gag.com/gag/aPAvOMg)
- - 😝 [Friday is coming](http://9gag.com/gag/aoyzrwx)
- - 💣 [Inmate Recounts How He Killed His Cell-Mate Who Was a Child Molester](http://9gag.com/gag/a7oKvnb)
- - 😝 [Anybody know if she ever found the patient??](http://9gag.com/gag/aD2w0xx)
- - 👉 [Germany natives in shock what they see in Frankfurt, Germany](http://9gag.com/gag/agm03ew)<!-- MEMES:END -->
+ - 😝 [Disney](http://9gag.com/gag/aByKDLA)
+ - 😝 [One of the best moments ever in the Olympics.](http://9gag.com/gag/aZZP9Pz)
+ - 💣 [Imagine our great ancestors seeing this.](http://9gag.com/gag/aPAvOMg)
+ - 😝 [Germany natives in shock what they see in Frankfurt, Germany](http://9gag.com/gag/agm03ew)
+ - 👉 [Anybody know if she ever found the patient??](http://9gag.com/gag/aD2w0xx)<!-- MEMES:END -->
 
 ---
 

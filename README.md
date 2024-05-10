@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US jury says Microsoft must pay IPA Technologies $242M after finding that Cortana infringed a patent that expired in Jan. 2019; Microsoft plans to appeal &lpar;Christopher Yasiejko/Bloomberg Law&rpar;](http://www.techmeme.com/240510/p17#a240510p17)
  - [Gaze upon Dell’s leaked Qualcomm X Elite-powered laptops](https://www.theverge.com/2024/5/10/24153897/dell-xps-qualcomm-snapdragon-x-elite-leak)
  - [Sources: OpenAI is preparing to demonstrate an AI voice assistant that recognizes objects and images and has better logical reasoning than its current products &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/240510/p16#a240510p16)
  - [Smart Sprinkler System Controller     - CNET](https://www.cnet.com/home/smart-home/smart-sprinkler-system-controller-dpnl/#ftag=CAD590a51e)
- - [Best gaming laptop in 2023: seven laptops to get your game on](https://www.theverge.com/22295181/best-gaming-laptop)
- - [The best laptops you can buy](https://www.theverge.com/21250695/best-laptops)<!-- TECH:END -->
+ - [Best gaming laptop in 2023: seven laptops to get your game on](https://www.theverge.com/22295181/best-gaming-laptop)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

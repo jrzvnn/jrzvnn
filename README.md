@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [GameStop will buy and sell rare Pokémon cards — but it doesn’t want to catch ‘em all](https://www.theverge.com/2024/5/10/24153973/gamestop-pokemon-tcg-graded-psa-cards)
+ - [The Northern Lights Could Be Visible Across the US Thanks to a Rare Solar Storm](https://www.wired.com/story/geomagnetic-storm-aurora-night-sky/)
  - [Verizon, AT&amp;T, and T-Mobile’s ‘unlimited’ plans just got a $10M slap on the wrist](https://www.theverge.com/2024/5/10/24153892/verizon-tmobile-att-unlimited-plan-free-phone-offers-fine)
  - [Amazon’s Matter Casting is shaping up so nicely, I want to use it everywhere](https://www.theverge.com/2024/5/10/24153556/fire-tv-amazon-matter-casting-hands-on)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [The Verge’s 2024 graduation gift guide](https://www.theverge.com/24126218/graduation-grad-gift-ideas-2024-college-high-school-dorm-tech-gadgets)
- - [Cloud GPU provider CoreWeave opens its European HQ in London and plans two UK data centers this year as part of a &amp;pound;1B investment, after raising $1.1B last week &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240510/p14#a240510p14)<!-- TECH:END -->
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

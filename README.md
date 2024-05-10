@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [RenAIssance: How Apple will drag Siri into the modern era](https://appleinsider.com/articles/24/05/10/renaissance-how-apple-will-drag-siri-into-the-modern-era?utm_medium=rss)
  - [Bungie’s classic sci-fi shooter Marathon is now free on Steam](https://www.theverge.com/2024/5/10/24153867/marathon-bungie-shooter-steam-release-date-price)
  - [A federal judge dismisses X&#39;s lawsuit against Bright Data over data scraping; Meta previously filed a suit against Bright Data and was similarly unsuccessful &lpar;CNBC&rpar;](http://www.techmeme.com/240510/p13#a240510p13)
  - [‘Hades 2’: Our 8 Best Tips to Get You Started](https://www.wired.com/story/hades-2-best-tips-beginners/)
- - [Biden really, really doesn’t want China to flood the US with cheap EVs](https://www.theverge.com/2024/5/10/24153830/biden-china-ev-tariff-quadruple-trade)
- - [EA is prototyping in-game ads even as we speak](https://www.theverge.com/2024/5/10/24153809/ea-in-game-ads-redux)<!-- TECH:END -->
+ - [Biden really, really doesn’t want China to flood the US with cheap EVs](https://www.theverge.com/2024/5/10/24153830/biden-china-ev-tariff-quadruple-trade)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

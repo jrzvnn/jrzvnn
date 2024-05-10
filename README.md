@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Disney](http://9gag.com/gag/aByKDLA)
- - 😝 [100%](http://9gag.com/gag/adBNZ6N)
- - 💣 [Goes hand in hand with the Hollyeood lifestyle I guess.](http://9gag.com/gag/aGyVKG0)
+ - 😝 [Inmate Recounts How He Killed His Cell-Mate Who Was a Child Molester](http://9gag.com/gag/a7oKvnb)
+ - 😝 [Sex slaves.](http://9gag.com/gag/aPAywbQ)
+ - 💣 [Very relatable](http://9gag.com/gag/ae93NdB)
  - 😝 [Germany natives in shock what they see in Frankfurt, Germany](http://9gag.com/gag/agm03ew)
- - 👉 [A 14-year-old Belgian girl was raped in the forest for 2 days by 10 immigrant boys, organized by her immigrant boyfriend in Kortrijk, Belgium.](http://9gag.com/gag/a87bdP6)<!-- MEMES:END -->
+ - 👉 [Is she can do it , you can do it.](http://9gag.com/gag/aQzqY7q)<!-- MEMES:END -->
 
 ---
 

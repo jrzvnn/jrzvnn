@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Smartphone addiction is real, and we all probably need to do something about it](https://appleinsider.com/inside/iphone/tips/smartphone-addiction-is-real-and-we-all-probably-need-to-do-something-about-it?utm_medium=rss)
+ - [Eureka E10 Review: An Adorably Dumb Robot Vacuum](https://www.wired.com/review/eureka-e10/)
+ - [The answer to AI’s energy needs could be blowing in the wind](https://www.theverge.com/24152249/ai-data-center-renewable-energy-offshore-wind)
  - [iPad, iPad Air, iPad Pro buyer&#39;s guide May 2024: which iPad to buy for any budget](https://appleinsider.com/articles/24/05/10/ipad-ipad-air-ipad-pro-buyers-guide-may-2024-which-ipad-to-buy-for-any-budget?utm_medium=rss)
- - [Smartphone shipments in India grew 8% in Q1, 2024; Vivo leads for the first time with 19.2% of market share, followed by Xiaomi with 18.8%, and Samsung 17.5% &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/240510/p4#a240510p4)
- - [How to Take a Screenshot on Any iPhone or Android Phone     - CNET](https://www.cnet.com/tech/mobile/how-to-take-a-screenshot-on-any-iphone-or-android-phone/#ftag=CAD590a51e)
- - [How to Watch &#39;Interview With the Vampire&#39; Season 2 From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-interview-with-the-vampire-season-2-from-anywhere/#ftag=CAD590a51e)
- - [Disney and Warner Bros. Discovery Just Reinvented Cable](https://www.wired.com/story/disney-and-warner-bros-discovery-just-reinvented-cable/)<!-- TECH:END -->
+ - [Smartphone shipments in India grew 8% in Q1, 2024; Vivo leads for the first time with 19.2% of market share, followed by Xiaomi with 18.8%, and Samsung 17.5% &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/240510/p4#a240510p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

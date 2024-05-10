@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bankrupt crypto lender BlockFi announces plans to shut down its web platform by May and partners with Coinbase to allow clients to access and withdraw funds &lpar;Amaka Nwaokocha/Cointelegraph&rpar;](http://www.techmeme.com/240510/p3#a240510p3)
  - [An account of chatting with 18 AI companions for a month: AI friendship is hollow, but chatbots could enhance human socializing if developed responsibly &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/240510/p2#a240510p2)
  - [My Favorite Espresso Machine Is Just $110 Right Now     - CNET](https://www.cnet.com/deals/my-favorite-espresso-machine-is-just-110-right-now/#ftag=CAD590a51e)
  - [Give Mom the Gift of Perfectly Cooked Food This Mother&#39;s Day With This Ninja Air Fryer     - CNET](https://www.cnet.com/how-to/give-mom-the-gift-of-perfectly-cooked-food-this-mothers-day/#ftag=CAD590a51e)
- - [Filings: SoftBank&#39;s Vision Fund has seen its US portfolio shrink by ~$29B since the end of 2021 as, sources say, Masayoshi Son plans forays into AI and chips &lpar;Min Jeong Lee/Bloomberg&rpar;](http://www.techmeme.com/240510/p1#a240510p1)
- - [Sources: tech lobbying group NetChoice kicked TikTok off of its membership rolls after facing pressure from the office of House Majority Leader Steve Scalise &lpar;Politico&rpar;](http://www.techmeme.com/240509/p39#a240509p39)<!-- TECH:END -->
+ - [Filings: SoftBank&#39;s Vision Fund has seen its US portfolio shrink by ~$29B since the end of 2021 as, sources say, Masayoshi Son plans forays into AI and chips &lpar;Min Jeong Lee/Bloomberg&rpar;](http://www.techmeme.com/240510/p1#a240510p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

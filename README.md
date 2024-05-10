@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DoorDash Is Offering 20% Off Mother&#39;s Day Flowers With Same-Day Delivery     - CNET](https://www.cnet.com/deals/doordash-is-offering-20-off-mothers-day-flowers-with-same-day-delivery/#ftag=CAD590a51e)
- - [Binance and KuCoin become the first offshore crypto entities to get India&#39;s approval, after being banned for &quot;operating illegally&quot;; KuCoin paid a $41K fine &lpar;Amitoj Singh/CoinDesk&rpar;](http://www.techmeme.com/240510/p6#a240510p6)
- - [Climate Protestors Storm Tesla&#39;s Gigafactory in Europe](https://www.wired.com/story/climate-protestors-storm-teslas-europe-gigafactory/)
- - [The beginning and end of the iPad](https://www.theverge.com/2024/5/10/24153097/ipad-pro-2024-apple-max-disney-bundle-foxconn-vergecast)
- - [Window Air Conditioner Buying Guide: 5 Things to Know Before You Buy     - CNET](https://www.cnet.com/home/kitchen-and-household/window-air-conditioner-buying-guide-5-things-to-know-before-you-buy/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Razer Blade 18 &lpar;2024&rpar; Review: The Gaming Laptop of the Future](https://www.wired.com/review/razer-blade-18-2024/)
+ - [The Oura Ring will soon be able to gauge how ‘old’ your heart is](https://www.theverge.com/2024/5/10/24152827/oura-ring-cardiovascular-age-vo2-max-wearables)
+ - [Memo: Spotify&#39;s head of podcast studios Julie McNamara is leaving the company after nearly three years, emphasizing Spotify&#39;s reduced ambitions in podcasts &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/240510/p7#a240510p7)
+ - [Final Cut Pro for Mac and Final Cut Pro for iPad 2 have grossly different features](https://appleinsider.com/articles/24/05/10/final-cut-pro-for-mac-and-final-cut-pro-for-ipad-2-have-grossly-different-features?utm_medium=rss)
+ - [DoorDash Is Offering 20% Off Mother&#39;s Day Flowers With Same-Day Delivery     - CNET](https://www.cnet.com/deals/doordash-is-offering-20-off-mothers-day-flowers-with-same-day-delivery/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

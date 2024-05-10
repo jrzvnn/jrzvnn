@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If you know, you know](http://9gag.com/gag/a34YV97)
- - 😝 [Tesla owners, amirite?](http://9gag.com/gag/azxb08Z)
- - 💣 [Would race](http://9gag.com/gag/aXPb87d)
- - 😝 [One of the best moments ever in the Olympics.](http://9gag.com/gag/aZZP9Pz)
- - 👉 [The king of the hell.](http://9gag.com/gag/apRqWMb)<!-- MEMES:END -->
+ - 😝 [Cross section of two human males - one obese and the other fit.](http://9gag.com/gag/aD20py9)
+ - 😝 [`Company policies`](http://9gag.com/gag/aPAvKpP)
+ - 💣 [Brilliant collaboration](http://9gag.com/gag/aKGzQ0Q)
+ - 😝 [Disney](http://9gag.com/gag/aByKDLA)
+ - 👉 [I think the world will be much better](http://9gag.com/gag/a2vNQyO)<!-- MEMES:END -->
 
 ---
 

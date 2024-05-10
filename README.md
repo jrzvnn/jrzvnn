@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Emotional damage](http://9gag.com/gag/aRBQYx7)
- - 😝 [Pretty smooth Flying fox](http://9gag.com/gag/an7Xe05)
- - 💣 [Inmate Recounts How He Killed His Cell-Mate Who Was a Child Molester](http://9gag.com/gag/a7oKvnb)
- - 😝 [Imagine our great ancestors seeing this.](http://9gag.com/gag/aPAvOMg)
- - 👉 [Men just want one thing](http://9gag.com/gag/arypYMd)<!-- MEMES:END -->
+ - 😝 [Real cool how he handles this, a lot of actors would refuse I think](http://9gag.com/gag/a1mA4bv)
+ - 😝 [100%](http://9gag.com/gag/adBNZ6N)
+ - 💣 [Bueller? Bueller?](http://9gag.com/gag/a2vNQgE)
+ - 😝 [I think the world will be much better](http://9gag.com/gag/a2vNQyO)
+ - 👉 [Reminds me of that old Twilight Zone episode.](http://9gag.com/gag/aqyZ4BM)<!-- MEMES:END -->
 
 ---
 

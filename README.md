@@ -171,11 +171,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Bueller? Bueller?](http://9gag.com/gag/a2vNQgE)
+ - 😝 [Backpack Glitch](http://9gag.com/gag/arypPjX)
+ - 💣 [100 bucks says you can&#39;t guess their origin....?](http://9gag.com/gag/aMV1RqP)
  - 😝 [Imagine our great ancestors seeing this.](http://9gag.com/gag/aPAvOMg)
- - 😝 [Tesla owners, amirite?](http://9gag.com/gag/azxb08Z)
- - 💣 [Disney](http://9gag.com/gag/aByKDLA)
- - 😝 [`Plus Size` in 2003](http://9gag.com/gag/ajP6QDw)
- - 👉 [100 bucks says you can&#39;t guess their origin....?](http://9gag.com/gag/aMV1RqP)<!-- MEMES:END -->
+ - 👉 [I think the world will be much better](http://9gag.com/gag/a2vNQyO)<!-- MEMES:END -->
 
 ---
 

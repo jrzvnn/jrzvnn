@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s Friday...](http://9gag.com/gag/aoyZEPn)
- - 😝 [Pretty smooth Flying fox](http://9gag.com/gag/an7Xe05)
- - 💣 [Both.](http://9gag.com/gag/a1mAG8P)
- - 😝 [The good old days](http://9gag.com/gag/aE0GvDG)
- - 👉 [Germany natives in shock what they see in Frankfurt, Germany](http://9gag.com/gag/agm03ew)<!-- MEMES:END -->
+ - 😝 [Germany natives in shock what they see in Frankfurt, Germany](http://9gag.com/gag/agm03ew)
+ - 😝 [Goes hand in hand with the Hollyeood lifestyle I guess.](http://9gag.com/gag/aGyVKG0)
+ - 💣 [Inmate Recounts How He Killed His Cell-Mate Who Was a Child Molester](http://9gag.com/gag/a7oKvnb)
+ - 😝 [Would race](http://9gag.com/gag/aXPb87d)
+ - 👉 [100%](http://9gag.com/gag/adBNZ6N)<!-- MEMES:END -->
 
 ---
 

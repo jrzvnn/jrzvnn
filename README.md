@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A 14-year-old Belgian girl was raped in the forest for 2 days by 10 immigrant boys, organized by her immigrant boyfriend in Kortrijk, Belgium.](http://9gag.com/gag/a87bdP6)
- - 😝 [Tesla owners, amirite?](http://9gag.com/gag/azxb08Z)
- - 💣 [Cross section of two human males - one obese and the other fit.](http://9gag.com/gag/aD20py9)
- - 😝 [100 bucks says you can&#39;t guess their origin....?](http://9gag.com/gag/aMV1RqP)
- - 👉 [Disney](http://9gag.com/gag/aByKDLA)<!-- MEMES:END -->
+ - 😝 [Backpack Glitch](http://9gag.com/gag/arypPjX)
+ - 😝 [European women are the most beautiful women in the world, CHANGE MY MIND.](http://9gag.com/gag/ayN5yjX)
+ - 💣 [Would race](http://9gag.com/gag/aXPb87d)
+ - 😝 [Disney](http://9gag.com/gag/aByKDLA)
+ - 👉 [They do!](http://9gag.com/gag/apRqeND)<!-- MEMES:END -->
 
 ---
 

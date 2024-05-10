@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google releases a Chrome security update to fix the fifth zero-day vulnerability exploited in the wild in 2024; the vulnerability is in the Visuals component &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240510/p5#a240510p5)
  - [Nano textured OLED iPad Pros, crushing pianos, and Apple&#39;s AI push on the AppleInsider Podcast](https://appleinsider.com/articles/24/05/10/nano-textured-oled-ipad-pros-crushing-pianos-and-apples-ai-push-on-the-appleinsider-podcast?utm_medium=rss)
  - [5 Best USB Hubs &lpar;2024&rpar;: USB-C, USB-A, Portable](https://www.wired.com/gallery/best-usb-hubs/)
  - [5 Best Juicers &lpar;2023&rpar;: Centrifugal, Slow, Masticating](https://www.wired.com/gallery/best-juicers/)
- - [Apple’s AirPods Max are receiving a rare $100 discount at Amazon](https://www.theverge.com/2024/5/10/24075360/amazon-apple-airpods-max-noise-canceling-headphones-deal-sale)
- - [What To Expect With iOS 18? The Buzz on iPhone&#39;s AI Features and More     - CNET](https://www.cnet.com/tech/mobile/what-to-expect-ios-18-buzz-apple-ai-features/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple’s AirPods Max are receiving a rare $100 discount at Amazon](https://www.theverge.com/2024/5/10/24075360/amazon-apple-airpods-max-noise-canceling-headphones-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

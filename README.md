@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tesla owners, amirite?](http://9gag.com/gag/azxb08Z)
+ - 😝 [Germany natives in shock what they see in Frankfurt, Germany](http://9gag.com/gag/agm03ew)
  - 😝 [100%](http://9gag.com/gag/adBNZ6N)
- - 💣 [Goes hand in hand with the Hollyeood lifestyle I guess.](http://9gag.com/gag/aGyVKG0)
- - 😝 [Had to pause and think for a second](http://9gag.com/gag/a87bLQe)
- - 👉 [One of the best moments ever in the Olympics.](http://9gag.com/gag/aZZP9Pz)<!-- MEMES:END -->
+ - 💣 [Emotional damage](http://9gag.com/gag/aRBQYx7)
+ - 😝 [Goes hand in hand with the Hollyeood lifestyle I guess.](http://9gag.com/gag/aGyVKG0)
+ - 👉 [Cross section of two human males - one obese and the other fit.](http://9gag.com/gag/aD20py9)<!-- MEMES:END -->
 
 ---
 

@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I think the world will be much better](http://9gag.com/gag/a2vNQyO)
+ - 😝 [Just a regular dad with his 6 daughters.](http://9gag.com/gag/ayN5yn8)
  - 😝 [Tesla owners, amirite?](http://9gag.com/gag/azxb08Z)
- - 💣 [Imagine our great ancestors seeing this.](http://9gag.com/gag/aPAvOMg)
- - 😝 [A 14-year-old Belgian girl was raped in the forest for 2 days by 10 immigrant boys, organized by her immigrant boyfriend in Kortrijk, Belgium.](http://9gag.com/gag/a87bdP6)
- - 👉 [One of the best moments ever in the Olympics.](http://9gag.com/gag/aZZP9Pz)<!-- MEMES:END -->
+ - 💣 [One of the best moments ever in the Olympics.](http://9gag.com/gag/aZZP9Pz)
+ - 😝 [Cross section of two human males - one obese and the other fit.](http://9gag.com/gag/aD20py9)
+ - 👉 [A 14-year-old Belgian girl was raped in the forest for 2 days by 10 immigrant boys, organized by her immigrant boyfriend in Kortrijk, Belgium.](http://9gag.com/gag/a87bdP6)<!-- MEMES:END -->
 
 ---
 

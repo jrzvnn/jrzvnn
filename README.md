@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Germany natives in shock what they see in Frankfurt, Germany](http://9gag.com/gag/agm03ew)
- - 😝 [Imagine our great ancestors seeing this.](http://9gag.com/gag/aPAvOMg)
- - 💣 [Disney](http://9gag.com/gag/aByKDLA)
- - 😝 [100%](http://9gag.com/gag/adBNZ6N)
- - 👉 [Avril Lavigne](http://9gag.com/gag/aMVb23R)<!-- MEMES:END -->
+ - 😝 [It&#39;s Friday...](http://9gag.com/gag/aoyZEPn)
+ - 😝 [Pretty smooth Flying fox](http://9gag.com/gag/an7Xe05)
+ - 💣 [Both.](http://9gag.com/gag/a1mAG8P)
+ - 😝 [The good old days](http://9gag.com/gag/aE0GvDG)
+ - 👉 [Germany natives in shock what they see in Frankfurt, Germany](http://9gag.com/gag/agm03ew)<!-- MEMES:END -->
 
 ---
 

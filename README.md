@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tiny Tim performing his song `Tiptoe Through the Tulips` live, originally released in 1968](http://9gag.com/gag/aQzqGD2)
- - 😝 [100%](http://9gag.com/gag/adBNZ6N)
- - 💣 [#15.](http://9gag.com/gag/aVvONBn)
- - 😝 [At least Jared already knows what to expect](http://9gag.com/gag/ajPrpbp)
- - 👉 [Tesla owners, amirite?](http://9gag.com/gag/azxb08Z)<!-- MEMES:END -->
+ - 😝 [Would race](http://9gag.com/gag/aXPb87d)
+ - 😝 [One of the best moments ever in the Olympics.](http://9gag.com/gag/aZZP9Pz)
+ - 💣 [Disney](http://9gag.com/gag/aByKDLA)
+ - 😝 [Imagine our great ancestors seeing this.](http://9gag.com/gag/aPAvOMg)
+ - 👉 [100%](http://9gag.com/gag/adBNZ6N)<!-- MEMES:END -->
 
 ---
 

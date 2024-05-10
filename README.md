@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What to Expect at Google I/O 2024, and How to Watch It](https://www.wired.com/story/google-io-2024-how-to-watch-what-to-expect/)
- - [GameStop will buy and sell rare Pokémon cards — but it doesn’t want to catch ‘em all](https://www.theverge.com/2024/5/10/24153973/gamestop-pokemon-tcg-graded-psa-cards)
- - [The Northern Lights Could Be Visible Across the US Thanks to a Rare Solar Storm](https://www.wired.com/story/geomagnetic-storm-aurora-night-sky/)
- - [Verizon, AT&amp;T, and T-Mobile’s ‘unlimited’ plans just got a $10M slap on the wrist](https://www.theverge.com/2024/5/10/24153892/verizon-tmobile-att-unlimited-plan-free-phone-offers-fine)
- - [Amazon’s Matter Casting is shaping up so nicely, I want to use it everywhere](https://www.theverge.com/2024/5/10/24153556/fire-tv-amazon-matter-casting-hands-on)<!-- TECH:END -->
+ - [Best gaming laptop in 2023: seven laptops to get your game on](https://www.theverge.com/22295181/best-gaming-laptop)
+ - [The best laptops you can buy](https://www.theverge.com/21250695/best-laptops)
+ - [Some Indian journalists who turned to YouTube to dodge censorship say the company is banning or demonetizing their news channels citing government notices &lpar;Raksha Kumar/Reuters Institute&rpar;](http://www.techmeme.com/240510/p15#a240510p15)
+ - [Here’s where you can preorder Apple’s latest iPad Air and iPad Pro](https://www.theverge.com/24144427/ipad-air-pro-preorder-buy-how-to)
+ - [What to Expect at Google I/O 2024, and How to Watch It](https://www.wired.com/story/google-io-2024-how-to-watch-what-to-expect/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,10 +165,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Bankrupt crypto lender BlockFi announces plans to shut down its web platform by May and partners with Coinbase to allow clients to access and withdraw funds &lpar;Amaka Nwaokocha/Cointelegraph&rpar;](http://www.techmeme.com/240510/p3#a240510p3)
+ - [I Tried Gemini AI to Plan Mother&#39;s Day Last-Minute. It Took a Weird Turn     - CNET](https://www.cnet.com/tech/services-and-software/i-tried-gemini-ai-to-plan-mothers-day-last-minute-it-took-a-weird-turn/#ftag=CAD590a51e)
+ - [Best Savings Rates Today -- Now&#39;s the Time to Take Advantage of APYs up to 5.55%, May 10, 2024     - CNET](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-may-10-2024/#ftag=CAD590a51e)
  - [An account of chatting with 18 AI companions for a month: AI friendship is hollow, but chatbots could enhance human socializing if developed responsibly &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/240510/p2#a240510p2)
- - [My Favorite Espresso Machine Is Just $110 Right Now     - CNET](https://www.cnet.com/deals/my-favorite-espresso-machine-is-just-110-right-now/#ftag=CAD590a51e)
- - [Give Mom the Gift of Perfectly Cooked Food This Mother&#39;s Day With This Ninja Air Fryer     - CNET](https://www.cnet.com/how-to/give-mom-the-gift-of-perfectly-cooked-food-this-mothers-day/#ftag=CAD590a51e)
- - [Filings: SoftBank&#39;s Vision Fund has seen its US portfolio shrink by ~$29B since the end of 2021 as, sources say, Masayoshi Son plans forays into AI and chips &lpar;Min Jeong Lee/Bloomberg&rpar;](http://www.techmeme.com/240510/p1#a240510p1)<!-- TECH:END -->
+ - [My Favorite Espresso Machine Is Just $110 Right Now     - CNET](https://www.cnet.com/deals/my-favorite-espresso-machine-is-just-110-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

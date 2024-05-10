@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cross section of two human males - one obese and the other fit.](http://9gag.com/gag/aD20py9)
- - 😝 [Goes hand in hand with the Hollyeood lifestyle I guess.](http://9gag.com/gag/aGyVKG0)
- - 💣 [If you know, you know](http://9gag.com/gag/a34YV97)
  - 😝 [Tesla owners, amirite?](http://9gag.com/gag/azxb08Z)
- - 👉 [Just a regular dad with his 6 daughters.](http://9gag.com/gag/ayN5yn8)<!-- MEMES:END -->
+ - 😝 [100%](http://9gag.com/gag/adBNZ6N)
+ - 💣 [Goes hand in hand with the Hollyeood lifestyle I guess.](http://9gag.com/gag/aGyVKG0)
+ - 😝 [Had to pause and think for a second](http://9gag.com/gag/a87bLQe)
+ - 👉 [One of the best moments ever in the Olympics.](http://9gag.com/gag/aZZP9Pz)<!-- MEMES:END -->
 
 ---
 

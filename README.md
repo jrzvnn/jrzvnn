@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Employees say Oracle Health, formerly Cerner, has lost at least 12 of its major clients and product innovation has taken a backseat to upgrading legacy systems &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240509/p38#a240509p38)
  - [The Pentagon says it worked with Ukraine and SpaceX to successfully block Russian military use of Starlink; some Russian users complain of connectivity issues &lpar;Anthony Capaccio/Bloomberg&rpar;](http://www.techmeme.com/240509/p37#a240509p37)
  - [South Korea-based DEEPX, which is building on-device AI chips, raised an ~$80M Series C led by SkyLake at a ~$529M valuation, taking its total funding to ~$95M &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/240509/p36#a240509p36)
  - [DreamCloud Memory Foam Mattress Review 2024: An Expert Analysis     - CNET](https://www.cnet.com/health/sleep/dreamcloud-mattress-memory-foam-review/#ftag=CAD590a51e)
- - [Cybersecurity, AI and Alicia Keys: What We&#39;ve Seen at the RSA Conference     - CNET](https://www.cnet.com/tech/services-and-software/cybersecurity-ai-and-ted-lasso-what-weve-seen-at-the-rsa-conference/#ftag=CAD590a51e)
- - [Did Stanford just prototype the future of AR glasses?](https://www.theverge.com/2024/5/9/24153092/stanford-ai-holographic-ar-glasses-3d-imaging-research)<!-- TECH:END -->
+ - [Cybersecurity, AI and Alicia Keys: What We&#39;ve Seen at the RSA Conference     - CNET](https://www.cnet.com/tech/services-and-software/cybersecurity-ai-and-ted-lasso-what-weve-seen-at-the-rsa-conference/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

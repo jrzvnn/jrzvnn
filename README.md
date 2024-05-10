@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cross section of two human males - one obese and the other fit.](http://9gag.com/gag/aD20py9)
- - 😝 [If you don&#39;t know what this is, then you&#39;ve never worked with IT!](http://9gag.com/gag/a7oKLRA)
- - 💣 [One of the best moments ever in the Olympics.](http://9gag.com/gag/aZZP9Pz)
- - 😝 [Germany natives in shock what they see in Frankfurt, Germany](http://9gag.com/gag/agm03ew)
- - 👉 [Anybody know if she ever found the patient??](http://9gag.com/gag/aD2w0xx)<!-- MEMES:END -->
+ - 😝 [Inmate Recounts How He Killed His Cell-Mate Who Was a Child Molester](http://9gag.com/gag/a7oKvnb)
+ - 😝 [One of the best moments ever in the Olympics.](http://9gag.com/gag/aZZP9Pz)
+ - 💣 [Anybody know if she ever found the patient??](http://9gag.com/gag/aD2w0xx)
+ - 😝 [Is she can do it , you can do it.](http://9gag.com/gag/aQzqY7q)
+ - 👉 [Just a regular dad with his 6 daughters.](http://9gag.com/gag/ayN5yn8)<!-- MEMES:END -->
 
 ---
 

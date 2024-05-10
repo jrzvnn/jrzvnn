@@ -173,10 +173,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Emotional damage](http://9gag.com/gag/aRBQYx7)
- - 😝 [100%](http://9gag.com/gag/adBNZ6N)
- - 💣 [`Plus Size` in 2003](http://9gag.com/gag/ajP6QDw)
- - 😝 [Brilliant collaboration](http://9gag.com/gag/aKGzQ0Q)
+ - 😝 [Bueller? Bueller?](http://9gag.com/gag/a2vNQgE)
+ - 😝 [`Company policies`](http://9gag.com/gag/aPAvKpP)
+ - 💣 [Running a train on Linux](http://9gag.com/gag/a34Ym7m)
+ - 😝 [One of the best moments ever in the Olympics.](http://9gag.com/gag/aZZP9Pz)
  - 👉 [100 bucks says you can&#39;t guess their origin....?](http://9gag.com/gag/aMV1RqP)<!-- MEMES:END -->
 
 ---

@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A 14-year-old Belgian girl was raped in the forest for 2 days by 10 immigrant boys, organized by her immigrant boyfriend in Kortrijk, Belgium.](http://9gag.com/gag/a87bdP6)
- - 😝 [Inmate Recounts How He Killed His Cell-Mate Who Was a Child Molester](http://9gag.com/gag/a7oKvnb)
- - 💣 [I think the world will be much better](http://9gag.com/gag/a2vNQyO)
- - 😝 [Emotional damage](http://9gag.com/gag/aRBQYx7)
- - 👉 [Tesla owners, amirite?](http://9gag.com/gag/azxb08Z)<!-- MEMES:END -->
+ - 😝 [Cross section of two human males - one obese and the other fit.](http://9gag.com/gag/aD20py9)
+ - 😝 [Goes hand in hand with the Hollyeood lifestyle I guess.](http://9gag.com/gag/aGyVKG0)
+ - 💣 [If you know, you know](http://9gag.com/gag/a34YV97)
+ - 😝 [Tesla owners, amirite?](http://9gag.com/gag/azxb08Z)
+ - 👉 [Just a regular dad with his 6 daughters.](http://9gag.com/gag/ayN5yn8)<!-- MEMES:END -->
 
 ---
 

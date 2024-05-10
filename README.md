@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Prince of Persia roguelike postponed because ‘everyone and their mum’ is playing Hades II](https://www.theverge.com/2024/5/10/24153572/the-rogue-prince-of-persia-release-postponed-hades-2)
  - [The Best Period Underwear, Menstrual Cups, and Reusable Pads &lpar;2024&rpar;](https://www.wired.com/story/best-menstrual-products/)
  - [The best smartphone you can buy for under $500](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
  - [Apple might bring AI transcription to Voice Memos and Notes](https://www.theverge.com/2024/5/10/24153618/apple-ai-transcription-notes-voice-memos)
- - [Bluesky rolls out an app update that lets users customize their algorithmic feeds through &quot;show more like this&quot; and &quot;show less like this&quot; buttons &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240510/p9#a240510p9)
- - [Nano textured OLED iPad Pros, crushing pianos, and Apple&#39;s AI push on the AppleInsider Podcast](https://appleinsider.com/articles/24/05/10/nano-textured-oled-ipad-pros-crushing-pianos-and-apples-ai-push-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [Bluesky rolls out an app update that lets users customize their algorithmic feeds through &quot;show more like this&quot; and &quot;show less like this&quot; buttons &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240510/p9#a240510p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

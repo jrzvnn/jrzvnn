@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I think the world will be much better](http://9gag.com/gag/a2vNQyO)
- - 😝 [Imagine our great ancestors seeing this.](http://9gag.com/gag/aPAvOMg)
- - 💣 [Would race](http://9gag.com/gag/aXPb87d)
- - 😝 [Man tries to steal food, gets thrashed with a stick](http://9gag.com/gag/ayN5yP8)
- - 👉 [100 bucks says you can&#39;t guess their origin....?](http://9gag.com/gag/aMV1RqP)<!-- MEMES:END -->
+ - 😝 [Tiny Tim performing his song `Tiptoe Through the Tulips` live, originally released in 1968](http://9gag.com/gag/aQzqGD2)
+ - 😝 [100%](http://9gag.com/gag/adBNZ6N)
+ - 💣 [#15.](http://9gag.com/gag/aVvONBn)
+ - 😝 [At least Jared already knows what to expect](http://9gag.com/gag/ajPrpbp)
+ - 👉 [Tesla owners, amirite?](http://9gag.com/gag/azxb08Z)<!-- MEMES:END -->
 
 ---
 

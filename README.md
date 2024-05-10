@@ -167,8 +167,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Sources: Apple made generative AI a tent-pole project after Craig Federighi and John Giannandrea spent weeks testing ChatGPT and found Siri to be antiquated &lpar;New York Times&rpar;](http://www.techmeme.com/240510/p12#a240510p12)
  - [Sam Altman shoots down reports of search engine launch ahead of Google I/O](https://www.theverge.com/2024/5/10/24153767/sam-altman-openai-google-io-search-engine-launch)
  - [How to watch the possible aurora borealis this weekend](https://www.theverge.com/2024/5/10/24153694/how-to-watch-aurora-borealis-g4-geomagnetic-storm-noaa)
- - [OpenAI announces a live stream at 10AM PT on May 13 to demo &quot;some ChatGPT and GPT-4 updates&quot;, which Sam Altman says are &quot;not gpt-5, not a search engine&quot; &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240510/p11#a240510p11)
- - [A rare geomagnetic storm is heading to Earth — here’s what it means for critical infrastructure](https://www.theverge.com/2024/5/10/24153520/geomagnetic-storm-watch-infrastructure-communications-satellites-gps-power-grid)<!-- TECH:END -->
+ - [Why the iPad Event Was So Disappointing     - CNET](https://www.cnet.com/tech/mobile/why-the-ipad-event-was-so-disappointing/#ftag=CAD590a51e)
+ - [Quench Your Thirst With Ninja&#39;s Thirsti Drink System at Its Best Price Yet     - CNET](https://www.cnet.com/deals/quench-your-thirst-with-ninjas-thirsti-drink-system-for-a-price-you-cant-pass-on/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

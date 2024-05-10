@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Inmate Recounts How He Killed His Cell-Mate Who Was a Child Molester](http://9gag.com/gag/a7oKvnb)
+ - 😝 [The good old days](http://9gag.com/gag/aE0GvDG)
+ - 😝 [Germany natives in shock what they see in Frankfurt, Germany](http://9gag.com/gag/agm03ew)
+ - 💣 [Sex slaves.](http://9gag.com/gag/aPAywbQ)
  - 😝 [One of the best moments ever in the Olympics.](http://9gag.com/gag/aZZP9Pz)
- - 💣 [Anybody know if she ever found the patient??](http://9gag.com/gag/aD2w0xx)
- - 😝 [Is she can do it , you can do it.](http://9gag.com/gag/aQzqY7q)
- - 👉 [Just a regular dad with his 6 daughters.](http://9gag.com/gag/ayN5yn8)<!-- MEMES:END -->
+ - 👉 [They do!](http://9gag.com/gag/apRqeND)<!-- MEMES:END -->
 
 ---
 

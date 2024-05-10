@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: OpenAI is preparing to demonstrate an AI voice assistant that recognizes objects and images and has better logical reasoning than its current products &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/240510/p16#a240510p16)
+ - [Smart Sprinkler System Controller     - CNET](https://www.cnet.com/home/smart-home/smart-sprinkler-system-controller-dpnl/#ftag=CAD590a51e)
  - [Best gaming laptop in 2023: seven laptops to get your game on](https://www.theverge.com/22295181/best-gaming-laptop)
  - [The best laptops you can buy](https://www.theverge.com/21250695/best-laptops)
- - [Some Indian journalists who turned to YouTube to dodge censorship say the company is banning or demonetizing their news channels citing government notices &lpar;Raksha Kumar/Reuters Institute&rpar;](http://www.techmeme.com/240510/p15#a240510p15)
- - [Here’s where you can preorder Apple’s latest iPad Air and iPad Pro](https://www.theverge.com/24144427/ipad-air-pro-preorder-buy-how-to)
- - [What to Expect at Google I/O 2024, and How to Watch It](https://www.wired.com/story/google-io-2024-how-to-watch-what-to-expect/)<!-- TECH:END -->
+ - [Some Indian journalists who turned to YouTube to dodge censorship say the company is banning or demonetizing their news channels citing government notices &lpar;Raksha Kumar/Reuters Institute&rpar;](http://www.techmeme.com/240510/p15#a240510p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

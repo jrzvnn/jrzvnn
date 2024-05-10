@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If you know, you know](http://9gag.com/gag/a34YV97)
- - 😝 [Oh f*** you gonna make me squint your eyes again](http://9gag.com/gag/an7Y6y5)
- - 💣 [Men of culture and sophistication that is...](http://9gag.com/gag/a34Y97Q)
- - 😝 [Disney](http://9gag.com/gag/aByKDLA)
- - 👉 [100%](http://9gag.com/gag/adBNZ6N)<!-- MEMES:END -->
+ - 😝 [Emotional damage](http://9gag.com/gag/aRBQYx7)
+ - 😝 [100%](http://9gag.com/gag/adBNZ6N)
+ - 💣 [`Plus Size` in 2003](http://9gag.com/gag/ajP6QDw)
+ - 😝 [Brilliant collaboration](http://9gag.com/gag/aKGzQ0Q)
+ - 👉 [100 bucks says you can&#39;t guess their origin....?](http://9gag.com/gag/aMV1RqP)<!-- MEMES:END -->
 
 ---
 

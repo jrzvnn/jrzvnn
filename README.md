@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
  - [The Verge’s 2024 graduation gift guide](https://www.theverge.com/24126218/graduation-grad-gift-ideas-2024-college-high-school-dorm-tech-gadgets)
  - [Cloud GPU provider CoreWeave opens its European HQ in London and plans two UK data centers this year as part of a &amp;pound;1B investment, after raising $1.1B last week &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240510/p14#a240510p14)
- - [RenAIssance: How Apple will drag Siri into the modern era](https://appleinsider.com/articles/24/05/10/renaissance-how-apple-will-drag-siri-into-the-modern-era?utm_medium=rss)
- - [Bungie’s classic sci-fi shooter Marathon is now free on Steam](https://www.theverge.com/2024/5/10/24153867/marathon-bungie-shooter-steam-release-date-price)
- - [A federal judge dismisses X&#39;s lawsuit against Bright Data over data scraping; Meta previously filed a suit against Bright Data and was similarly unsuccessful &lpar;CNBC&rpar;](http://www.techmeme.com/240510/p13#a240510p13)<!-- TECH:END -->
+ - [Best Apple Watch Deals: Savings on Series 9, Ultra 2, SE and More     - CNET](https://www.cnet.com/deals/best-apple-watch-deals/#ftag=CAD590a51e)
+ - [Govee LED Corner Lamp     - CNET](https://www.cnet.com/news/govee-led-corner-lamp-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

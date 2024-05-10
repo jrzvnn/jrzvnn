@@ -167,8 +167,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Sources: tech lobbying group NetChoice has kicked TikTok off of its membership after facing pressure from the office of House Majority Leader Steve Scalise &lpar;Politico&rpar;](http://www.techmeme.com/240509/p39#a240509p39)
  - [How to copy text from locked PDFs in macOS](https://appleinsider.com/inside/macos/tips/how-to-copy-text-from-locked-pdfs-in-macos?utm_medium=rss)
  - [Employees say Oracle Health, formerly Cerner, has lost at least 12 of its major clients and product innovation has taken a backseat to upgrading legacy systems &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240509/p38#a240509p38)
- - [The Pentagon says it worked with Ukraine and SpaceX to successfully block Russian military use of Starlink; some Russian users complain of connectivity issues &lpar;Anthony Capaccio/Bloomberg&rpar;](http://www.techmeme.com/240509/p37#a240509p37)
- - [South Korea-based DEEPX, which is building on-device AI chips, raised an ~$80M Series C led by SkyLake at a ~$529M valuation, taking its total funding to ~$95M &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/240509/p36#a240509p36)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints and Answers: Help for May 10, #334     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hints-answer-help-for-may-10-334/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints and Answer: Help for May 10, #1056     - CNET](https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-may-10-1056/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

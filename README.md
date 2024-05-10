@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [100 bucks says you can&#39;t guess their origin....?](http://9gag.com/gag/aMV1RqP)
- - 😝 [Bueller? Bueller?](http://9gag.com/gag/a2vNQgE)
- - 💣 [Men of culture and sophistication that is...](http://9gag.com/gag/a34Y97Q)
- - 😝 [Germany natives in shock what they see in Frankfurt, Germany](http://9gag.com/gag/agm03ew)
- - 👉 [Just a regular dad with his 6 daughters.](http://9gag.com/gag/ayN5yn8)<!-- MEMES:END -->
+ - 😝 [100%](http://9gag.com/gag/adBNZ6N)
+ - 😝 [Anybody know if she ever found the patient??](http://9gag.com/gag/aD2w0xx)
+ - 💣 [Goes hand in hand with the Hollyeood lifestyle I guess.](http://9gag.com/gag/aGyVKG0)
+ - 😝 [One of the best moments ever in the Olympics.](http://9gag.com/gag/aZZP9Pz)
+ - 👉 [Imagine our great ancestors seeing this.](http://9gag.com/gag/aPAvOMg)<!-- MEMES:END -->
 
 ---
 

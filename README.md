@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An account of chatting with 18 AI companions for a month: AI friendship is hollow, but chatbots could enhance human socializing if developed responsibly &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/240510/p2#a240510p2)
  - [Filings: SoftBank&#39;s Vision Fund has seen its US portfolio shrink by ~$29B since the end of 2021 as, sources say, Masayoshi Son plans forays into AI and chips &lpar;Min Jeong Lee/Bloomberg&rpar;](http://www.techmeme.com/240510/p1#a240510p1)
  - [Sources: tech lobbying group NetChoice kicked TikTok off of its membership rolls after facing pressure from the office of House Majority Leader Steve Scalise &lpar;Politico&rpar;](http://www.techmeme.com/240509/p39#a240509p39)
  - [How to copy text from locked PDFs in macOS](https://appleinsider.com/inside/macos/tips/how-to-copy-text-from-locked-pdfs-in-macos?utm_medium=rss)
- - [Employees say Oracle Health, formerly Cerner, has lost at least 12 of its major clients and product innovation has taken a backseat to upgrading legacy systems &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240509/p38#a240509p38)
- - [Today&#39;s NYT Connections Hints and Answers: Help for May 10, #334     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hints-answer-help-for-may-10-334/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Employees say Oracle Health, formerly Cerner, has lost at least 12 of its major clients and product innovation has taken a backseat to upgrading legacy systems &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240509/p38#a240509p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

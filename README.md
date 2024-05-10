@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to set the default apps in macOS](https://www.theverge.com/24153045/macos-default-apps-email-browser-how-to)
  - [Razer Blade 18 &lpar;2024&rpar; Review: The Gaming Laptop of the Future](https://www.wired.com/review/razer-blade-18-2024/)
  - [The Oura Ring will soon be able to gauge how ‘old’ your heart is](https://www.theverge.com/2024/5/10/24152827/oura-ring-cardiovascular-age-vo2-max-wearables)
  - [Memo: Spotify&#39;s head of podcast studios Julie McNamara is leaving the company after nearly three years, emphasizing Spotify&#39;s reduced ambitions in podcasts &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/240510/p7#a240510p7)
- - [Final Cut Pro for Mac and Final Cut Pro for iPad 2 have grossly different features](https://appleinsider.com/articles/24/05/10/final-cut-pro-for-mac-and-final-cut-pro-for-ipad-2-have-grossly-different-features?utm_medium=rss)
- - [DoorDash Is Offering 20% Off Mother&#39;s Day Flowers With Same-Day Delivery     - CNET](https://www.cnet.com/deals/doordash-is-offering-20-off-mothers-day-flowers-with-same-day-delivery/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Final Cut Pro for Mac and Final Cut Pro for iPad 2 have grossly different features](https://appleinsider.com/articles/24/05/10/final-cut-pro-for-mac-and-final-cut-pro-for-ipad-2-have-grossly-different-features?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

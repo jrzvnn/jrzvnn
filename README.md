@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Disney](http://9gag.com/gag/aByKDLA)
- - 😝 [One of the best moments ever in the Olympics.](http://9gag.com/gag/aZZP9Pz)
- - 💣 [Imagine our great ancestors seeing this.](http://9gag.com/gag/aPAvOMg)
+ - 😝 [Backpack Glitch](http://9gag.com/gag/arypPjX)
+ - 😝 [How its Started.](http://9gag.com/gag/ajP6YKq)
+ - 💣 [The good old days](http://9gag.com/gag/aE0GvDG)
  - 😝 [Germany natives in shock what they see in Frankfurt, Germany](http://9gag.com/gag/agm03ew)
- - 👉 [Anybody know if she ever found the patient??](http://9gag.com/gag/aD2w0xx)<!-- MEMES:END -->
+ - 👉 [Both.](http://9gag.com/gag/a1mAG8P)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: tech lobbying group NetChoice has kicked TikTok off of its membership after facing pressure from the office of House Majority Leader Steve Scalise &lpar;Politico&rpar;](http://www.techmeme.com/240509/p39#a240509p39)
  - [How to copy text from locked PDFs in macOS](https://appleinsider.com/inside/macos/tips/how-to-copy-text-from-locked-pdfs-in-macos?utm_medium=rss)
  - [Employees say Oracle Health, formerly Cerner, has lost at least 12 of its major clients and product innovation has taken a backseat to upgrading legacy systems &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240509/p38#a240509p38)
  - [The Pentagon says it worked with Ukraine and SpaceX to successfully block Russian military use of Starlink; some Russian users complain of connectivity issues &lpar;Anthony Capaccio/Bloomberg&rpar;](http://www.techmeme.com/240509/p37#a240509p37)
- - [South Korea-based DEEPX, which is building on-device AI chips, raised an ~$80M Series C led by SkyLake at a ~$529M valuation, taking its total funding to ~$95M &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/240509/p36#a240509p36)
- - [DreamCloud Memory Foam Mattress Review 2024: An Expert Analysis     - CNET](https://www.cnet.com/health/sleep/dreamcloud-mattress-memory-foam-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [South Korea-based DEEPX, which is building on-device AI chips, raised an ~$80M Series C led by SkyLake at a ~$529M valuation, taking its total funding to ~$95M &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/240509/p36#a240509p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

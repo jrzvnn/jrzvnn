@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bueller? Bueller?](http://9gag.com/gag/a2vNQgE)
- - 😝 [Backpack Glitch](http://9gag.com/gag/arypPjX)
- - 💣 [100 bucks says you can&#39;t guess their origin....?](http://9gag.com/gag/aMV1RqP)
- - 😝 [Imagine our great ancestors seeing this.](http://9gag.com/gag/aPAvOMg)
- - 👉 [I think the world will be much better](http://9gag.com/gag/a2vNQyO)<!-- MEMES:END -->
+ - 😝 [I tried, it actually works ! Can someone please explain why ?](http://9gag.com/gag/aqym06R)
+ - 😝 [100 bucks says you can&#39;t guess their origin....?](http://9gag.com/gag/aMV1RqP)
+ - 💣 [One of the best moments ever in the Olympics.](http://9gag.com/gag/aZZP9Pz)
+ - 😝 [100%](http://9gag.com/gag/adBNZ6N)
+ - 👉 [Imagine our great ancestors seeing this.](http://9gag.com/gag/aPAvOMg)<!-- MEMES:END -->
 
 ---
 

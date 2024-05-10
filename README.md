@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Pencil Pro and new iPads are a warning shot at Wacom](https://appleinsider.com/articles/24/05/10/apple-pencil-pro-and-new-ipads-are-a-warning-shot-at-wacom?utm_medium=rss)
+ - [The Earth Is About to Feast on Dead Cicadas](https://www.wired.com/story/periodical-cicada-emergence-illinois/)
  - [36 Best Graduation Gifts &lpar;2024&rpar;: For College Grads](https://www.wired.com/gallery/best-graduation-gift-ideas-2024/)
  - [Kingdom of the Planet of the Apes is a gorgeous echo of the franchise’s past](https://www.theverge.com/2024/5/10/24152293/kingdom-of-the-planet-of-the-apes-review)
- - [A look at the efforts in Japan, South Korea, and Australia to create stronger regulations for big tech platforms like Apple and Google &lpar;Financial Times&rpar;](http://www.techmeme.com/240510/p8#a240510p8)
- - [Fisker’s brakes can’t catch a break](https://www.theverge.com/2024/5/10/24153514/fisker-ocean-nhtsa-investigation-automatic-emergency-brakes)
- - [Apple Vision Pro 2 may be half the price of the original claims sketchy rumor](https://appleinsider.com/articles/24/05/10/apple-vision-pro-2-may-be-half-the-price-of-the-original-claims-sketchy-rumor?utm_medium=rss)<!-- TECH:END -->
+ - [A look at the efforts in Japan, South Korea, and Australia to create stronger regulations for big tech platforms like Apple and Google &lpar;Financial Times&rpar;](http://www.techmeme.com/240510/p8#a240510p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

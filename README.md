@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Backpack Glitch](http://9gag.com/gag/arypPjX)
- - 😝 [How its Started.](http://9gag.com/gag/ajP6YKq)
- - 💣 [The good old days](http://9gag.com/gag/aE0GvDG)
+ - 😝 [Cross section of two human males - one obese and the other fit.](http://9gag.com/gag/aD20py9)
+ - 😝 [If you don&#39;t know what this is, then you&#39;ve never worked with IT!](http://9gag.com/gag/a7oKLRA)
+ - 💣 [One of the best moments ever in the Olympics.](http://9gag.com/gag/aZZP9Pz)
  - 😝 [Germany natives in shock what they see in Frankfurt, Germany](http://9gag.com/gag/agm03ew)
- - 👉 [Both.](http://9gag.com/gag/a1mAG8P)<!-- MEMES:END -->
+ - 👉 [Anybody know if she ever found the patient??](http://9gag.com/gag/aD2w0xx)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fisker’s brakes can’t catch a break](https://www.theverge.com/2024/5/10/24153514/fisker-ocean-nhtsa-investigation-automatic-emergency-brakes)
+ - [Apple Vision Pro 2 may be half the price of the original claims sketchy rumor](https://appleinsider.com/articles/24/05/10/apple-vision-pro-2-may-be-half-the-price-of-the-original-claims-sketchy-rumor?utm_medium=rss)
  - [Apple set to deliver AI assistant for transcribing, summarizing meetings and lectures](https://appleinsider.com/articles/24/05/10/apple-set-to-deliver-ai-assistant-for-transcribing-summarizing-meetings-and-lectures?utm_medium=rss)
  - [6 Best Gaming Laptops &lpar;2024&rpar;: From Cheap to Premium](https://www.wired.com/gallery/best-gaming-laptops/)
- - [Act Fast to Get a Fitbit Sense at Its Lowest-Ever Price     - CNET](https://www.cnet.com/deals/act-fast-to-get-a-fitbit-sense-at-its-lowest-ever-price/#ftag=CAD590a51e)
- - [How to set the default apps in macOS](https://www.theverge.com/24153045/macos-default-apps-email-browser-how-to)
- - [Secure a Gift For Mom During Wellbots&#39; Mother&#39;s Day Sale     - CNET](https://www.cnet.com/deals/secure-a-gift-for-mom-during-wellbots-mothers-day-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Act Fast to Get a Fitbit Sense at Its Lowest-Ever Price     - CNET](https://www.cnet.com/deals/act-fast-to-get-a-fitbit-sense-at-its-lowest-ever-price/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

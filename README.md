@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pov: London in 1940](http://9gag.com/gag/abAqXZ9)
- - 😝 [Hospital charged me &lpar;insurance &rpar; $30 for this lunch](http://9gag.com/gag/aVvON8K)
- - 💣 [Disney](http://9gag.com/gag/aByKDLA)
  - 😝 [Germany natives in shock what they see in Frankfurt, Germany](http://9gag.com/gag/agm03ew)
- - 👉 [A 14-year-old Belgian girl was raped in the forest for 2 days by 10 immigrant boys, organized by her immigrant boyfriend in Kortrijk, Belgium.](http://9gag.com/gag/a87bdP6)<!-- MEMES:END -->
+ - 😝 [Imagine our great ancestors seeing this.](http://9gag.com/gag/aPAvOMg)
+ - 💣 [Disney](http://9gag.com/gag/aByKDLA)
+ - 😝 [100%](http://9gag.com/gag/adBNZ6N)
+ - 👉 [Avril Lavigne](http://9gag.com/gag/aMVb23R)<!-- MEMES:END -->
 
 ---
 

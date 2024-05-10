@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Disney](http://9gag.com/gag/aByKDLA)
+ - 😝 [I tried, it actually works ! Can someone please explain why ?](http://9gag.com/gag/aqym06R)
  - 😝 [Imagine our great ancestors seeing this.](http://9gag.com/gag/aPAvOMg)
  - 💣 [Tesla owners, amirite?](http://9gag.com/gag/azxb08Z)
- - 😝 [100%](http://9gag.com/gag/adBNZ6N)
- - 👉 [A 14-year-old Belgian girl was raped in the forest for 2 days by 10 immigrant boys, organized by her immigrant boyfriend in Kortrijk, Belgium.](http://9gag.com/gag/a87bdP6)<!-- MEMES:END -->
+ - 😝 [100 bucks says you can&#39;t guess their origin....?](http://9gag.com/gag/aMV1RqP)
+ - 👉 [100%](http://9gag.com/gag/adBNZ6N)<!-- MEMES:END -->
 
 ---
 

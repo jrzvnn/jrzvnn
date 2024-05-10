@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [South Korea-based DEEPX, which is building on-device AI chips, raised an ~$80M Series C led by SkyLake at a ~$529M valuation, taking its total funding to ~$95M &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/240509/p36#a240509p36)
+ - [Cybersecurity, AI and Alicia Keys: What We&#39;ve Seen at the RSA Conference     - CNET](https://www.cnet.com/tech/services-and-software/cybersecurity-ai-and-alicia-keys-what-weve-seen-at-the-rsa-conference/#ftag=CAD590a51e)
  - [Did Stanford just prototype the future of AR glasses?](https://www.theverge.com/2024/5/9/24153092/stanford-ai-holographic-ar-glasses-3d-imaging-research)
  - [Microsoft’s new Xbox mobile gaming store is launching in July](https://www.theverge.com/2024/5/9/24153245/microsoft-xbox-mobile-gaming-store-july-launch)
- - [Microsoft plans to launch its mobile game store in July on the web, first with its own games including Candy Crush Saga, and later open it to other publishers &lpar;Bloomberg&rpar;](http://www.techmeme.com/240509/p35#a240509p35)
- - [TikTok Will Start Watermarking AI Content to Warn Users     - CNET](https://www.cnet.com/tech/services-and-software/tiktok-will-start-watermarking-ai-content-to-warn-users/#ftag=CAD590a51e)
- - [Verizon and T-Mobile are trying to gobble up US Cellular](https://www.theverge.com/business/2024/5/9/24153201/verizon-t-mobile-buy-us-cellular-spectrum)<!-- TECH:END -->
+ - [Pathway Solar Flame Lights     - CNET](https://www.cnet.com/news/solar-flame-lights-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Disney](http://9gag.com/gag/aByKDLA)
  - 😝 [100%](http://9gag.com/gag/adBNZ6N)
- - 😝 [Anybody know if she ever found the patient??](http://9gag.com/gag/aD2w0xx)
  - 💣 [Goes hand in hand with the Hollyeood lifestyle I guess.](http://9gag.com/gag/aGyVKG0)
- - 😝 [One of the best moments ever in the Olympics.](http://9gag.com/gag/aZZP9Pz)
- - 👉 [Imagine our great ancestors seeing this.](http://9gag.com/gag/aPAvOMg)<!-- MEMES:END -->
+ - 😝 [Germany natives in shock what they see in Frankfurt, Germany](http://9gag.com/gag/agm03ew)
+ - 👉 [A 14-year-old Belgian girl was raped in the forest for 2 days by 10 immigrant boys, organized by her immigrant boyfriend in Kortrijk, Belgium.](http://9gag.com/gag/a87bdP6)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with Claude Zellweger, Google&#39;s director of industrial design, on hardware becoming a critical element for Google, Pixel&#39;s camera bar design, more &lpar;Raymond Wong/Inverse&rpar;](http://www.techmeme.com/240510/p10#a240510p10)
+ - [13-inch tablet power compared -- iPad Pro vs iPad Air](https://appleinsider.com/inside/ipad-pro/vs/13-inch-tablet-power-compared----ipad-pro-vs-ipad-air?utm_medium=rss)
+ - [‘TunnelVision’ Attack Leaves Nearly All VPNs Vulnerable to Spying](https://www.wired.com/story/tunnelvision-vpn-attack/)
  - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
- - [Prince of Persia roguelike postponed because ‘everyone and their mum’ is playing Hades II](https://www.theverge.com/2024/5/10/24153572/the-rogue-prince-of-persia-release-postponed-hades-2)
- - [The Best Period Underwear, Menstrual Cups, and Reusable Pads &lpar;2024&rpar;](https://www.wired.com/story/best-menstrual-products/)
- - [The best smartphone you can buy for under $500](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
- - [Apple might bring AI transcription to Voice Memos and Notes](https://www.theverge.com/2024/5/10/24153618/apple-ai-transcription-notes-voice-memos)<!-- TECH:END -->
+ - [Prince of Persia roguelike postponed because ‘everyone and their mum’ is playing Hades II](https://www.theverge.com/2024/5/10/24153572/the-rogue-prince-of-persia-release-postponed-hades-2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

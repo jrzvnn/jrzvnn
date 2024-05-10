@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Imagine our great ancestors seeing this.](http://9gag.com/gag/aPAvOMg)
- - 😝 [Emotional damage](http://9gag.com/gag/aRBQYx7)
- - 💣 [One of the best moments ever in the Olympics.](http://9gag.com/gag/aZZP9Pz)
- - 😝 [A 14-year-old Belgian girl was raped in the forest for 2 days by 10 immigrant boys, organized by her immigrant boyfriend in Kortrijk, Belgium.](http://9gag.com/gag/a87bdP6)
- - 👉 [Disney](http://9gag.com/gag/aByKDLA)<!-- MEMES:END -->
+ - 😝 [100 bucks says you can&#39;t guess their origin....?](http://9gag.com/gag/aMV1RqP)
+ - 😝 [Bueller? Bueller?](http://9gag.com/gag/a2vNQgE)
+ - 💣 [Men of culture and sophistication that is...](http://9gag.com/gag/a34Y97Q)
+ - 😝 [Germany natives in shock what they see in Frankfurt, Germany](http://9gag.com/gag/agm03ew)
+ - 👉 [Just a regular dad with his 6 daughters.](http://9gag.com/gag/ayN5yn8)<!-- MEMES:END -->
 
 ---
 

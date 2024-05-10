@@ -173,10 +173,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Would race](http://9gag.com/gag/aXPb87d)
- - 😝 [One of the best moments ever in the Olympics.](http://9gag.com/gag/aZZP9Pz)
- - 💣 [Disney](http://9gag.com/gag/aByKDLA)
- - 😝 [Imagine our great ancestors seeing this.](http://9gag.com/gag/aPAvOMg)
+ - 😝 [If you know, you know](http://9gag.com/gag/a34YV97)
+ - 😝 [Oh f*** you gonna make me squint your eyes again](http://9gag.com/gag/an7Y6y5)
+ - 💣 [Men of culture and sophistication that is...](http://9gag.com/gag/a34Y97Q)
+ - 😝 [Disney](http://9gag.com/gag/aByKDLA)
  - 👉 [100%](http://9gag.com/gag/adBNZ6N)<!-- MEMES:END -->
 
 ---

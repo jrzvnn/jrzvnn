@@ -174,10 +174,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Germany natives in shock what they see in Frankfurt, Germany](http://9gag.com/gag/agm03ew)
- - 😝 [100%](http://9gag.com/gag/adBNZ6N)
- - 💣 [Emotional damage](http://9gag.com/gag/aRBQYx7)
- - 😝 [Goes hand in hand with the Hollyeood lifestyle I guess.](http://9gag.com/gag/aGyVKG0)
- - 👉 [Cross section of two human males - one obese and the other fit.](http://9gag.com/gag/aD20py9)<!-- MEMES:END -->
+ - 😝 [This video feels very uncomfortable.](http://9gag.com/gag/aE0wLmM)
+ - 💣 [100%](http://9gag.com/gag/adBNZ6N)
+ - 😝 [If you know, you know](http://9gag.com/gag/a34YV97)
+ - 👉 [As long as it works..](http://9gag.com/gag/aD20E6K)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Smartphone addiction is real, and we all probably need to do something about it](https://appleinsider.com/inside/iphone/tips/smartphone-addiction-is-real-and-we-all-probably-need-to-do-something-about-it?utm_medium=rss)
- - [Eureka E10 Review: An Adorably Dumb Robot Vacuum](https://www.wired.com/review/eureka-e10/)
- - [The answer to AI’s energy needs could be blowing in the wind](https://www.theverge.com/24152249/ai-data-center-renewable-energy-offshore-wind)
- - [iPad, iPad Air, iPad Pro buyer&#39;s guide May 2024: which iPad to buy for any budget](https://appleinsider.com/articles/24/05/10/ipad-ipad-air-ipad-pro-buyers-guide-may-2024-which-ipad-to-buy-for-any-budget?utm_medium=rss)
- - [Smartphone shipments in India grew 8% in Q1, 2024; Vivo leads for the first time with 19.2% of market share, followed by Xiaomi with 18.8%, and Samsung 17.5% &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/240510/p4#a240510p4)<!-- TECH:END -->
+ - [Nano textured OLED iPad Pros, crushing pianos, and Apple&#39;s AI push on the AppleInsider Podcast](https://appleinsider.com/articles/24/05/10/nano-textured-oled-ipad-pros-crushing-pianos-and-apples-ai-push-on-the-appleinsider-podcast?utm_medium=rss)
+ - [5 Best USB Hubs &lpar;2024&rpar;: USB-C, USB-A, Portable](https://www.wired.com/gallery/best-usb-hubs/)
+ - [5 Best Juicers &lpar;2023&rpar;: Centrifugal, Slow, Masticating](https://www.wired.com/gallery/best-juicers/)
+ - [Apple’s AirPods Max are receiving a rare $100 discount at Amazon](https://www.theverge.com/2024/5/10/24075360/amazon-apple-airpods-max-noise-canceling-headphones-deal-sale)
+ - [What To Expect With iOS 18? The Buzz on iPhone&#39;s AI Features and More     - CNET](https://www.cnet.com/tech/mobile/what-to-expect-ios-18-buzz-apple-ai-features/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Would race](http://9gag.com/gag/aXPb87d)
- - 😝 [One of the best moments ever in the Olympics.](http://9gag.com/gag/aZZP9Pz)
- - 💣 [`Plus Size` in 2003](http://9gag.com/gag/ajP6QDw)
- - 😝 [Friday is coming](http://9gag.com/gag/aoyzrwx)
- - 👉 [If you know, you know](http://9gag.com/gag/a34YV97)<!-- MEMES:END -->
+ - 😝 [I think the world will be much better](http://9gag.com/gag/a2vNQyO)
+ - 😝 [Imagine our great ancestors seeing this.](http://9gag.com/gag/aPAvOMg)
+ - 💣 [Would race](http://9gag.com/gag/aXPb87d)
+ - 😝 [Man tries to steal food, gets thrashed with a stick](http://9gag.com/gag/ayN5yP8)
+ - 👉 [100 bucks says you can&#39;t guess their origin....?](http://9gag.com/gag/aMV1RqP)<!-- MEMES:END -->
 
 ---
 

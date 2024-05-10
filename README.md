@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cross section of two human males - one obese and the other fit.](http://9gag.com/gag/aD20py9)
- - 😝 [`Company policies`](http://9gag.com/gag/aPAvKpP)
- - 💣 [Brilliant collaboration](http://9gag.com/gag/aKGzQ0Q)
- - 😝 [Disney](http://9gag.com/gag/aByKDLA)
- - 👉 [I think the world will be much better](http://9gag.com/gag/a2vNQyO)<!-- MEMES:END -->
+ - 😝 [Would race](http://9gag.com/gag/aXPb87d)
+ - 😝 [One of the best moments ever in the Olympics.](http://9gag.com/gag/aZZP9Pz)
+ - 💣 [`Plus Size` in 2003](http://9gag.com/gag/ajP6QDw)
+ - 😝 [Friday is coming](http://9gag.com/gag/aoyzrwx)
+ - 👉 [If you know, you know](http://9gag.com/gag/a34YV97)<!-- MEMES:END -->
 
 ---
 

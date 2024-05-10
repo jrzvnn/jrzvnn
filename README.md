@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google releases a Chrome security update to fix the fifth zero-day vulnerability exploited in the wild in 2024; the vulnerability is in the Visuals component &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240510/p5#a240510p5)
- - [Nano textured OLED iPad Pros, crushing pianos, and Apple&#39;s AI push on the AppleInsider Podcast](https://appleinsider.com/articles/24/05/10/nano-textured-oled-ipad-pros-crushing-pianos-and-apples-ai-push-on-the-appleinsider-podcast?utm_medium=rss)
- - [5 Best USB Hubs &lpar;2024&rpar;: USB-C, USB-A, Portable](https://www.wired.com/gallery/best-usb-hubs/)
- - [5 Best Juicers &lpar;2023&rpar;: Centrifugal, Slow, Masticating](https://www.wired.com/gallery/best-juicers/)
- - [Apple’s AirPods Max are receiving a rare $100 discount at Amazon](https://www.theverge.com/2024/5/10/24075360/amazon-apple-airpods-max-noise-canceling-headphones-deal-sale)<!-- TECH:END -->
+ - [Binance and KuCoin become the first offshore crypto entities to get India&#39;s approval, after being banned for &quot;operating illegally&quot;; KuCoin paid a $41K fine &lpar;Amitoj Singh/CoinDesk&rpar;](http://www.techmeme.com/240510/p6#a240510p6)
+ - [Climate Protestors Storm Tesla&#39;s Gigafactory in Europe](https://www.wired.com/story/climate-protestors-storm-teslas-europe-gigafactory/)
+ - [The beginning and end of the iPad](https://www.theverge.com/2024/5/10/24153097/ipad-pro-2024-apple-max-disney-bundle-foxconn-vergecast)
+ - [There&#39;s No Undoing Tech&#39;s Great Rewiring of Childhood](https://www.wired.com/story/plaintext-theres-no-undoing-techs-great-rewiring-of-childhood/)
+ - [Hades II is the perfect Steam Deck game](https://www.theverge.com/24152085/hades-2-steam-deck-performance)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

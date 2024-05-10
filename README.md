@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Pencil Pro and new iPads are a warning shot at Wacom](https://appleinsider.com/articles/24/05/10/apple-pencil-pro-and-new-ipads-are-a-warning-shot-at-wacom?utm_medium=rss)
- - [The Earth Is About to Feast on Dead Cicadas](https://www.wired.com/story/periodical-cicada-emergence-illinois/)
- - [36 Best Graduation Gifts &lpar;2024&rpar;: For College Grads](https://www.wired.com/gallery/best-graduation-gift-ideas-2024/)
- - [Kingdom of the Planet of the Apes is a gorgeous echo of the franchise’s past](https://www.theverge.com/2024/5/10/24152293/kingdom-of-the-planet-of-the-apes-review)
- - [A look at the efforts in Japan, South Korea, and Australia to create stronger regulations for big tech platforms like Apple and Google &lpar;Financial Times&rpar;](http://www.techmeme.com/240510/p8#a240510p8)<!-- TECH:END -->
+ - [Apple might bring AI transcription to Voice Memos and Notes](https://www.theverge.com/2024/5/10/24153618/apple-ai-transcription-notes-voice-memos)
+ - [Bluesky rolls out an app update that lets users customize their algorithmic feeds through &quot;show more like this&quot; and &quot;show less like this&quot; buttons &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240510/p9#a240510p9)
+ - [Nano textured OLED iPad Pros, crushing pianos, and Apple&#39;s AI push on the AppleInsider Podcast](https://appleinsider.com/articles/24/05/10/nano-textured-oled-ipad-pros-crushing-pianos-and-apples-ai-push-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Best Registries for Weddings and Baby Showers &lpar;2024&rpar;: Advice and Tips](https://www.wired.com/story/best-registries-for-weddings-baby-showers/)
+ - [Apple Pencil Pro and new iPads are a warning shot at Wacom](https://appleinsider.com/articles/24/05/10/apple-pencil-pro-and-new-ipads-are-a-warning-shot-at-wacom?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

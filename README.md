@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [‘Hades 2’: Our 8 Best Tips to Get You Started](https://www.wired.com/story/hades-2-best-tips-beginners/)
+ - [Biden really, really doesn’t want China to flood the US with cheap EVs](https://www.theverge.com/2024/5/10/24153830/biden-china-ev-tariff-quadruple-trade)
  - [EA is prototyping in-game ads even as we speak](https://www.theverge.com/2024/5/10/24153809/ea-in-game-ads-redux)
  - [Kobo’s Elipsa 2E, our favorite e-reader for taking notes, is down to its best price yet](https://www.theverge.com/2024/5/10/24153539/kobo-elipsa-2e-ebook-reader-apple-airtag-deal-sale)
- - [Sources: Apple made generative AI a tent-pole project after Craig Federighi and John Giannandrea spent weeks testing ChatGPT and found Siri to be antiquated &lpar;New York Times&rpar;](http://www.techmeme.com/240510/p12#a240510p12)
- - [Sam Altman shoots down reports of search engine launch ahead of Google I/O](https://www.theverge.com/2024/5/10/24153767/sam-altman-openai-google-io-search-engine-launch)
- - [How to watch the possible aurora borealis this weekend](https://www.theverge.com/2024/5/10/24153694/how-to-watch-aurora-borealis-g4-geomagnetic-storm-noaa)<!-- TECH:END -->
+ - [Sources: Apple made generative AI a tent-pole project after Craig Federighi and John Giannandrea spent weeks testing ChatGPT and found Siri to be antiquated &lpar;New York Times&rpar;](http://www.techmeme.com/240510/p12#a240510p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I think the world will be much better](http://9gag.com/gag/a2vNQyO)
- - 😝 [Men of culture and sophistication that is...](http://9gag.com/gag/a34Y97Q)
- - 💣 [Emotional damage](http://9gag.com/gag/aRBQYx7)
  - 😝 [Disney](http://9gag.com/gag/aByKDLA)
- - 👉 [Tesla owners, amirite?](http://9gag.com/gag/azxb08Z)<!-- MEMES:END -->
+ - 😝 [Imagine our great ancestors seeing this.](http://9gag.com/gag/aPAvOMg)
+ - 💣 [Tesla owners, amirite?](http://9gag.com/gag/azxb08Z)
+ - 😝 [100%](http://9gag.com/gag/adBNZ6N)
+ - 👉 [A 14-year-old Belgian girl was raped in the forest for 2 days by 10 immigrant boys, organized by her immigrant boyfriend in Kortrijk, Belgium.](http://9gag.com/gag/a87bdP6)<!-- MEMES:END -->
 
 ---
 

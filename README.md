@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sam Altman shoots down reports of search engine launch ahead of Google I/O](https://www.theverge.com/2024/5/10/24153767/sam-altman-openai-google-io-search-engine-launch)
  - [How to watch the possible aurora borealis this weekend](https://www.theverge.com/2024/5/10/24153694/how-to-watch-aurora-borealis-g4-geomagnetic-storm-noaa)
  - [OpenAI announces a live stream at 10AM PT on May 13 to demo &quot;some ChatGPT and GPT-4 updates&quot;, which Sam Altman says are &quot;not gpt-5, not a search engine&quot; &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240510/p11#a240510p11)
  - [A rare geomagnetic storm is heading to Earth — here’s what it means for critical infrastructure](https://www.theverge.com/2024/5/10/24153520/geomagnetic-storm-watch-infrastructure-communications-satellites-gps-power-grid)
- - [Best 3D Printer Filament Deals: Flashforge, Overture and More Big Brands Cut Prices     - CNET](https://www.cnet.com/deals/the-best-3d-printer-filament-deals/#ftag=CAD590a51e)
- - [An interview with Claude Zellweger, Google&#39;s director of industrial design, on hardware becoming a critical element for Google, Pixel&#39;s camera bar design, more &lpar;Raymond Wong/Inverse&rpar;](http://www.techmeme.com/240510/p10#a240510p10)<!-- TECH:END -->
+ - [Best 3D Printer Filament Deals: Flashforge, Overture and More Big Brands Cut Prices     - CNET](https://www.cnet.com/deals/the-best-3d-printer-filament-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

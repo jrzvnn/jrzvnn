@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Backpack Glitch](http://9gag.com/gag/arypPjX)
- - 😝 [European women are the most beautiful women in the world, CHANGE MY MIND.](http://9gag.com/gag/ayN5yjX)
- - 💣 [Would race](http://9gag.com/gag/aXPb87d)
- - 😝 [Disney](http://9gag.com/gag/aByKDLA)
- - 👉 [They do!](http://9gag.com/gag/apRqeND)<!-- MEMES:END -->
+ - 😝 [A 14-year-old Belgian girl was raped in the forest for 2 days by 10 immigrant boys, organized by her immigrant boyfriend in Kortrijk, Belgium.](http://9gag.com/gag/a87bdP6)
+ - 😝 [Inmate Recounts How He Killed His Cell-Mate Who Was a Child Molester](http://9gag.com/gag/a7oKvnb)
+ - 💣 [I think the world will be much better](http://9gag.com/gag/a2vNQyO)
+ - 😝 [Emotional damage](http://9gag.com/gag/aRBQYx7)
+ - 👉 [Tesla owners, amirite?](http://9gag.com/gag/azxb08Z)<!-- MEMES:END -->
 
 ---
 

@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The good old days](http://9gag.com/gag/aE0GvDG)
- - 😝 [Germany natives in shock what they see in Frankfurt, Germany](http://9gag.com/gag/agm03ew)
- - 💣 [Sex slaves.](http://9gag.com/gag/aPAywbQ)
- - 😝 [One of the best moments ever in the Olympics.](http://9gag.com/gag/aZZP9Pz)
- - 👉 [They do!](http://9gag.com/gag/apRqeND)<!-- MEMES:END -->
+ - 😝 [Sex slaves.](http://9gag.com/gag/aPAywbQ)
+ - 😝 [Goes hand in hand with the Hollyeood lifestyle I guess.](http://9gag.com/gag/aGyVKG0)
+ - 💣 [Emotional damage](http://9gag.com/gag/aRBQYx7)
+ - 😝 [100%](http://9gag.com/gag/adBNZ6N)
+ - 👉 [European women are the most beautiful women in the world, CHANGE MY MIND.](http://9gag.com/gag/ayN5yjX)<!-- MEMES:END -->
 
 ---
 

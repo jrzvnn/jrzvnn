@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Company policies`](http://9gag.com/gag/aPAvKpP)
- - 😝 [I tried, it actually works ! Can someone please explain why ?](http://9gag.com/gag/aqym06R)
- - 💣 [Imagine our great ancestors seeing this.](http://9gag.com/gag/aPAvOMg)
- - 😝 [Disney](http://9gag.com/gag/aByKDLA)
- - 👉 [Emotional damage](http://9gag.com/gag/aRBQYx7)<!-- MEMES:END -->
+ - 😝 [Tesla owners, amirite?](http://9gag.com/gag/azxb08Z)
+ - 😝 [One of the best moments ever in the Olympics.](http://9gag.com/gag/aZZP9Pz)
+ - 💣 [I think the world will be much better](http://9gag.com/gag/a2vNQyO)
+ - 😝 [A 14-year-old Belgian girl was raped in the forest for 2 days by 10 immigrant boys, organized by her immigrant boyfriend in Kortrijk, Belgium.](http://9gag.com/gag/a87bdP6)
+ - 👉 [Imagine our great ancestors seeing this.](http://9gag.com/gag/aPAvOMg)<!-- MEMES:END -->
 
 ---
 

@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bueller? Bueller?](http://9gag.com/gag/a2vNQgE)
- - 😝 [`Company policies`](http://9gag.com/gag/aPAvKpP)
- - 💣 [Running a train on Linux](http://9gag.com/gag/a34Ym7m)
- - 😝 [One of the best moments ever in the Olympics.](http://9gag.com/gag/aZZP9Pz)
- - 👉 [100 bucks says you can&#39;t guess their origin....?](http://9gag.com/gag/aMV1RqP)<!-- MEMES:END -->
+ - 😝 [Imagine our great ancestors seeing this.](http://9gag.com/gag/aPAvOMg)
+ - 😝 [100%](http://9gag.com/gag/adBNZ6N)
+ - 💣 [European women are the most beautiful women in the world, CHANGE MY MIND.](http://9gag.com/gag/ayN5yjX)
+ - 😝 [Just a regular dad with his 6 daughters.](http://9gag.com/gag/ayN5yn8)
+ - 👉 [Emotional damage](http://9gag.com/gag/aRBQYx7)<!-- MEMES:END -->
 
 ---
 

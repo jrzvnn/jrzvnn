@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Disney and Warner Bros. Discovery Just Reinvented Cable](https://www.wired.com/story/disney-and-warner-bros-discovery-just-reinvented-cable/)
  - [Smartphone addiction is real, and we all probably need to do something about it](https://appleinsider.com/inside/iphone/tips/smartphone-addiction-is-real-and-we-all-probably-need-to-do-something-about-it?utm_medium=rss)
  - [OpenAI could unveil its Google search competitor on Monday](https://www.theverge.com/2024/5/10/24153421/openai-chatgpt-google-search-competitor-service-io)
  - [22 Best High School Graduation Gifts for the Class of 2024     - CNET](https://www.cnet.com/news/high-school-graduation-gifts/#ftag=CAD590a51e)
- - [iOS 17: Add More Security to Your iPhone Messages in 4 Easy Steps     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-add-more-security-to-your-iphone-messages-in-4-easy-steps/#ftag=CAD590a51e)
- - [Best Android Phone of 2024     - CNET](https://www.cnet.com/tech/mobile/best-android-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iOS 17: Add More Security to Your iPhone Messages in 4 Easy Steps     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-add-more-security-to-your-iphone-messages-in-4-easy-steps/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

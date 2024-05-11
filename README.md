@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Germany natives in shock what they see in Frankfurt, Germany](http://9gag.com/gag/agm03ew)
- - 😝 [SHAAAAAAMMEE](http://9gag.com/gag/aNDeyjK)
- - 💣 [Jobs are a downer, innit](http://9gag.com/gag/adB60nV)
- - 😝 [100 bucks says you can&#39;t guess their origin....?](http://9gag.com/gag/aMV1RqP)
- - 👉 [Rogue x Rogue &lpar;Don&#39;t know who the artist&rpar;](http://9gag.com/gag/an7YpPb)<!-- MEMES:END -->
+ - 😝 [A 14-year-old Belgian girl was raped in the forest for 2 days by 10 immigrant boys, organized by her immigrant boyfriend in Kortrijk, Belgium.](http://9gag.com/gag/a87bdP6)
+ - 😝 [Anybody know if she ever found the patient??](http://9gag.com/gag/aD2w0xx)
+ - 💣 [100 bucks says you can&#39;t guess their origin....?](http://9gag.com/gag/aMV1RqP)
+ - 😝 [Imagine our great ancestors seeing this.](http://9gag.com/gag/aPAvOMg)
+ - 👉 [I think the world will be much better](http://9gag.com/gag/a2vNQyO)<!-- MEMES:END -->
 
 ---
 

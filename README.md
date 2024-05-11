@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oofers](http://9gag.com/gag/avyZZPZ)
- - 😝 [Sex slaves.](http://9gag.com/gag/aPAywbQ)
- - 💣 [Go back](http://9gag.com/gag/aD2wwmK)
- - 😝 [Cute](http://9gag.com/gag/a6Zdwxm)
- - 👉 [Very relatable](http://9gag.com/gag/ae93NdB)<!-- MEMES:END -->
+ - 😝 [A 14-year-old Belgian girl was raped in the forest for 2 days by 10 immigrant boys, organized by her immigrant boyfriend in Kortrijk, Belgium.](http://9gag.com/gag/a87bdP6)
+ - 😝 [Is she can do it , you can do it.](http://9gag.com/gag/aQzqY7q)
+ - 💣 [Germany natives in shock what they see in Frankfurt, Germany](http://9gag.com/gag/agm03ew)
+ - 😝 [Only in Thailand?](http://9gag.com/gag/aD2w0qB)
+ - 👉 [What&#39;s this?](http://9gag.com/gag/awybrvQ)<!-- MEMES:END -->
 
 ---
 

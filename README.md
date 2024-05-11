@@ -174,10 +174,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [I love happy endings](http://9gag.com/gag/aXPEbPd)
- - 😝 [Would race](http://9gag.com/gag/aXPb87d)
- - 💣 [Germany natives in shock what they see in Frankfurt, Germany](http://9gag.com/gag/agm03ew)
- - 😝 [What&#39;s this?](http://9gag.com/gag/awybrvQ)
- - 👉 [Hey guys, this is Sarah Andersen the comic artist. You know, that one..](http://9gag.com/gag/aPAyvnn)<!-- MEMES:END -->
+ - 😝 [I\u2019ll just leave you with this](http://9gag.com/gag/aNDom9v)
+ - 💣 [Before taxes of course...](http://9gag.com/gag/abAq52B)
+ - 😝 [The people who know, know](http://9gag.com/gag/aVvQjr2)
+ - 👉 [That\u2019s a strong laser.\ud83d\ude2c](http://9gag.com/gag/aoyZmpn)<!-- MEMES:END -->
 
 ---
 

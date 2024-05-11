@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just a regular dad with his 6 daughters.](http://9gag.com/gag/ayN5yn8)
- - 😝 [How its Started.](http://9gag.com/gag/ajP6YKq)
- - 💣 [A 14-year-old Belgian girl was raped in the forest for 2 days by 10 immigrant boys, organized by her immigrant boyfriend in Kortrijk, Belgium.](http://9gag.com/gag/a87bdP6)
- - 😝 [Very relatable](http://9gag.com/gag/ae93NdB)
- - 👉 [Goes hand in hand with the Hollyeood lifestyle I guess.](http://9gag.com/gag/aGyVKG0)<!-- MEMES:END -->
+ - 😝 [Hey guys, this is Sarah Andersen the comic artist. You know, that one..](http://9gag.com/gag/aPAyvnn)
+ - 😝 [Brace yourselves ! Go outside tonight](http://9gag.com/gag/aW400j4)
+ - 💣 [Anybody know if she ever found the patient??](http://9gag.com/gag/aD2w0xx)
+ - 😝 [Germany natives in shock what they see in Frankfurt, Germany](http://9gag.com/gag/agm03ew)
+ - 👉 [Pov: London in 1940](http://9gag.com/gag/abAqXZ9)<!-- MEMES:END -->
 
 ---
 

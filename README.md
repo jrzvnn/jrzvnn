@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This view welcomed me 10min ago at Lisbon airport arrival hall. Call me racist but something is not right.](http://9gag.com/gag/awybbA1)
- - 😝 [Goes hand in hand with the Hollyeood lifestyle I guess.](http://9gag.com/gag/aGyVKG0)
- - 💣 [Anybody know if she ever found the patient??](http://9gag.com/gag/aD2w0xx)
- - 😝 [What&#39;s this?](http://9gag.com/gag/awybrvQ)
- - 👉 [I love happy endings](http://9gag.com/gag/aXPEbPd)<!-- MEMES:END -->
+ - 😝 [Cat](http://9gag.com/gag/a1mZvxY)
+ - 😝 [Getting a Rocksteady one too would be quite challenging](http://9gag.com/gag/apRo0DD)
+ - 💣 [Malicious compliance](http://9gag.com/gag/aZZWbNQ)
+ - 😝 [My fellow fallout enthusiast](http://9gag.com/gag/aMVbeYA)
+ - 👉 [I am getting so hot, I wanna take my clothes off](http://9gag.com/gag/avy0bDq)<!-- MEMES:END -->
 
 ---
 

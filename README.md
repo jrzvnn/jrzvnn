@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [At the Bloomberg Technology Summit, Bumble founder Whitney Wolfe Herd said the future of dating could have digital, AI-powered personas setting each other up &lpar;Daysia Tolentino/NBC News&rpar;](http://www.techmeme.com/240511/p5#a240511p5)
  - [Appfigures: Anthropic&#39;s Claude now ranks #51 in the top free iPhone Productivity apps in the US, down from rank #5 in this category, which it achieved on May 4 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240511/p4#a240511p4)
  - [Waymo says its Waymo One robotaxis now complete over 50K paid trips every week across San Francisco, Phoenix, and Los Angeles, up from 10K rides in May 2023 &lpar;Abubakar Idris/The Information&rpar;](http://www.techmeme.com/240511/p3#a240511p3)
  - [Email: criminals target WPP CEO Mark Read in a deepfake scam by using a voice clone and public YouTube footage to set up a video meeting with his executives &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/240511/p2#a240511p2)
- - [About 48 government websites associated with different Indian states have allowed scammers to plant ads that can redirect visitors to online betting websites &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/240511/p1#a240511p1)
- - [Christie&#39;s experienced a &quot;technology security issue&quot; that took its website down and affected some systems, ahead of auctions that are expected to generate $840M &lpar;Zachary Small/New York Times&rpar;](http://www.techmeme.com/240510/p22#a240510p22)<!-- TECH:END -->
+ - [About 48 government websites associated with different Indian states have allowed scammers to plant ads that can redirect visitors to online betting websites &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/240511/p1#a240511p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

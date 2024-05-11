@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [16 Best Laptops &lpar;2024&rpar;: MacBooks, Windows, Chromebooks](https://www.wired.com/gallery/best-laptops/)
  - [Logitech Aurora Collection Review: Heart and Cloud-Shaped Boxes](https://www.wired.com/review/logitech-aurora-collection/)
  - [Apple inching closer to ChatGPT deal with OpenAI](https://appleinsider.com/articles/24/05/11/apple-inching-closer-to-chatgpt-deal-with-openai?utm_medium=rss)
  - [Many People Do Not Like the New Sonos App](https://www.wired.com/story/people-do-not-like-the-new-sonos-app/)
- - [Data Privacy: Your Phone Carrier Knows More Than You Think, How to Take Back Control     - CNET](https://www.cnet.com/tech/mobile/data-privacy-your-phone-carrier-knows-more-than-you-think-how-to-take-back-control/#ftag=CAD590a51e)
- - [Here&#39;s How to Factory Reset Your Nintendo Switch Before Selling It     - CNET](https://www.cnet.com/tech/gaming/heres-how-to-factory-reset-your-nintendo-switch-before-selling-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Data Privacy: Your Phone Carrier Knows More Than You Think, How to Take Back Control     - CNET](https://www.cnet.com/tech/mobile/data-privacy-your-phone-carrier-knows-more-than-you-think-how-to-take-back-control/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Waymo says its Waymo One robotaxis now complete over 50K paid trips every week across San Francisco, Phoenix, and Los Angeles, up from 10K rides in May 2023 &lpar;Abubakar Idris/The Information&rpar;](http://www.techmeme.com/240511/p3#a240511p3)
  - [Email: criminals target WPP CEO Mark Read in a deepfake scam by using a voice clone and public YouTube footage to set up a video meeting with his executives &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/240511/p2#a240511p2)
  - [About 48 government websites associated with different Indian states have allowed scammers to plant ads that can redirect visitors to online betting websites &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/240511/p1#a240511p1)
  - [Christie&#39;s experienced a &quot;technology security issue&quot; that took its website down and affected some systems, ahead of auctions that are expected to generate $840M &lpar;Zachary Small/New York Times&rpar;](http://www.techmeme.com/240510/p22#a240510p22)
- - [Jim Simons, a mathematician and founder of hedge fund firm Renaissance Technologies who pioneered computer-based approaches to quantitative trading, dies at 86 &lpar;Gregory Zuckerman/Wall Street Journal&rpar;](http://www.techmeme.com/240510/p21#a240510p21)
- - [Sources: Apple is finalizing a deal with OpenAI to use ChatGPT features in iOS 18; talks with Google to license Gemini are still ongoing &lpar;Bloomberg&rpar;](http://www.techmeme.com/240510/p20#a240510p20)<!-- TECH:END -->
+ - [Jim Simons, a mathematician and founder of hedge fund firm Renaissance Technologies who pioneered computer-based approaches to quantitative trading, dies at 86 &lpar;Gregory Zuckerman/Wall Street Journal&rpar;](http://www.techmeme.com/240510/p21#a240510p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

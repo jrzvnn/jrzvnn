@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Brace yourselves ! Go outside tonight](http://9gag.com/gag/aW400j4)
- - 😝 [One of the best moments ever in the Olympics.](http://9gag.com/gag/aZZP9Pz)
- - 💣 [Very relatable](http://9gag.com/gag/ae93NdB)
- - 😝 [Only in Thailand?](http://9gag.com/gag/aD2w0qB)
- - 👉 [That\u2019s a strong laser.\ud83d\ude2c](http://9gag.com/gag/aoyZmpn)<!-- MEMES:END -->
+ - 😝 [It&#39;s official. All future Playstation ports will require PSN on Steam. Countries that don&#39;t have access can f**k off. Yo ho ho, mateys.](http://9gag.com/gag/aPAyypG)
+ - 😝 [This view welcomed me 10min ago at Lisbon airport arrival hall. Call me racist but something is not right.](http://9gag.com/gag/awybbA1)
+ - 💣 [`Football fans` teach robbers a painful lesson.](http://9gag.com/gag/aMVbbwP)
+ - 😝 [Just a regular dad with his 6 daughters.](http://9gag.com/gag/ayN5yn8)
+ - 👉 [I love happy endings](http://9gag.com/gag/aXPEbPd)<!-- MEMES:END -->
 
 ---
 

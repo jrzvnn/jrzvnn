@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dumb fun, dumb dumb](http://9gag.com/gag/an7XY5n)
- - 😝 [Europe when?](http://9gag.com/gag/a1mZAxR)
- - 💣 [The world needs more `If you don&#39;t like it don&#39;t watch`](http://9gag.com/gag/a5QNKdg)
- - 😝 [This will never get old](http://9gag.com/gag/amoL092)
- - 👉 [No effort needed](http://9gag.com/gag/aQzp4Oq)<!-- MEMES:END -->
+ - 😝 [That laugh!](http://9gag.com/gag/arye4Vd)
+ - 😝 [They seem disappointed](http://9gag.com/gag/axy2d1K)
+ - 💣 [I\u2019ll just leave you with this](http://9gag.com/gag/aNDom9v)
+ - 😝 [Ist that a terrorist state?](http://9gag.com/gag/aAyVVdd)
+ - 👉 [Germany natives in shock what they see in Frankfurt, Germany](http://9gag.com/gag/agm03ew)<!-- MEMES:END -->
 
 ---
 

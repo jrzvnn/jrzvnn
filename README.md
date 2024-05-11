@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Game stores are refunding Ghost of Tsushima pre-orders in non-PSN countries](https://www.theverge.com/2024/5/11/24154412/steam-refunding-ghost-of-tsushima-preorders-psn-network-unavailable)
  - [Large US developers are avoiding third-party App Store alternate payment plans](https://appleinsider.com/articles/24/05/11/large-us-developers-are-avoiding-third-party-app-store-alternate-payment-plans?utm_medium=rss)
  - [How Trump is courting crypto traders, as GOP becomes increasingly friendly toward crypto while key Democrats remain at odds and SEC cracks down on the industry &lpar;Jasper Goodman/Politico&rpar;](http://www.techmeme.com/240511/p15#a240511p15)
  - [Use Your iPhone to Take Long-Exposure Photos of This Weekend&#39;s Aurora Light Shows     - CNET](https://www.cnet.com/tech/mobile/use-your-iphone-to-take-long-exposure-photos-of-this-weekends-aurora-light-shows/#ftag=CAD590a51e)
- - [Where to See the Spectacular Aurora Borealis Light Shows     - CNET](https://www.cnet.com/science/where-to-see-the-spectacular-aurora-borealis-light-shows/#ftag=CAD590a51e)
- - [Best Cordless Drill of 2024     - CNET](https://www.cnet.com/news/best-cordless-drill/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Where to See the Spectacular Aurora Borealis Light Shows     - CNET](https://www.cnet.com/science/where-to-see-the-spectacular-aurora-borealis-light-shows/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cat](http://9gag.com/gag/a1mZvxY)
- - 😝 [Getting a Rocksteady one too would be quite challenging](http://9gag.com/gag/apRo0DD)
- - 💣 [Malicious compliance](http://9gag.com/gag/aZZWbNQ)
- - 😝 [My fellow fallout enthusiast](http://9gag.com/gag/aMVbeYA)
- - 👉 [I am getting so hot, I wanna take my clothes off](http://9gag.com/gag/avy0bDq)<!-- MEMES:END -->
+ - 😝 [Cute](http://9gag.com/gag/a6Zdwxm)
+ - 😝 [This will never get old](http://9gag.com/gag/amoL092)
+ - 💣 [Very relatable](http://9gag.com/gag/ae93NdB)
+ - 😝 [7 out of 10 Europeans believe that their country takes in too many migrants. I agree!](http://9gag.com/gag/aLnQP5g)
+ - 👉 [Hey guys, this is Sarah Andersen the comic artist. You know, that one..](http://9gag.com/gag/aPAyvnn)<!-- MEMES:END -->
 
 ---
 

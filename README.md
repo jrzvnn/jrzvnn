@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sex slaves.](http://9gag.com/gag/aPAywbQ)
- - 😝 [One of the best moments ever in the Olympics.](http://9gag.com/gag/aZZP9Pz)
- - 💣 [Go back](http://9gag.com/gag/aD2wwmK)
- - 😝 [Hey guys, this is Sarah Andersen the comic artist. You know, that one..](http://9gag.com/gag/aPAyvnn)
- - 👉 [Cute](http://9gag.com/gag/a6Zdwxm)<!-- MEMES:END -->
+ - 😝 [How its Started.](http://9gag.com/gag/ajP6YKq)
+ - 😝 [Shut up and take my money.](http://9gag.com/gag/aE0GvZp)
+ - 💣 [100 bucks says you can&#39;t guess their origin....?](http://9gag.com/gag/aMV1RqP)
+ - 😝 [That\u2019s a strong laser.\ud83d\ude2c](http://9gag.com/gag/aoyZmpn)
+ - 👉 [Hey guys, this is Sarah Andersen the comic artist. You know, that one..](http://9gag.com/gag/aPAyvnn)<!-- MEMES:END -->
 
 ---
 

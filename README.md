@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Advice from Gabriel](http://9gag.com/gag/aByQrGz)
- - 😝 [They didn&#39;t need to do them like that \ud83e\udd26\u2642\ufe0f](http://9gag.com/gag/aAyVYj9)
- - 💣 [Thicc Thighs Saves Lives. Post it here!](http://9gag.com/gag/a87bY8Z)
- - 😝 [What&#39;s this?](http://9gag.com/gag/awybrvQ)
- - 👉 [Ist that a terrorist state?](http://9gag.com/gag/aAyVVdd)<!-- MEMES:END -->
+ - 😝 [Ist that a terrorist state?](http://9gag.com/gag/aAyVVdd)
+ - 😝 [Pov: London in 1940](http://9gag.com/gag/abAqXZ9)
+ - 💣 [If you don&#39;t know what this is, then you&#39;ve never worked with IT!](http://9gag.com/gag/a7oKLRA)
+ - 😝 [The world needs more `If you don&#39;t like it don&#39;t watch`](http://9gag.com/gag/a5QNKdg)
+ - 👉 [This view welcomed me 10min ago at Lisbon airport arrival hall. Call me racist but something is not right.](http://9gag.com/gag/awybbA1)<!-- MEMES:END -->
 
 ---
 

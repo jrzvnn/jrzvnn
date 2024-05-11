@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Goes hand in hand with the Hollyeood lifestyle I guess.](http://9gag.com/gag/aGyVKG0)
- - 😝 [Very relatable](http://9gag.com/gag/ae93NdB)
- - 💣 [Germany natives in shock what they see in Frankfurt, Germany](http://9gag.com/gag/agm03ew)
- - 😝 [Sony banned ~180 regions from Helldivers 2 and Ghost of Tsushima. Latest included: Lithuania and Estonia. They are not done brothers, they are going for gamers&#39; blood again, and it&#39;s not just some obscure regions.](http://9gag.com/gag/aByQKeO)
- - 👉 [Is she can do it , you can do it.](http://9gag.com/gag/aQzqY7q)<!-- MEMES:END -->
+ - 😝 [Sex slaves.](http://9gag.com/gag/aPAywbQ)
+ - 😝 [One of the best moments ever in the Olympics.](http://9gag.com/gag/aZZP9Pz)
+ - 💣 [Go back](http://9gag.com/gag/aD2wwmK)
+ - 😝 [Hey guys, this is Sarah Andersen the comic artist. You know, that one..](http://9gag.com/gag/aPAyvnn)
+ - 👉 [Cute](http://9gag.com/gag/a6Zdwxm)<!-- MEMES:END -->
 
 ---
 

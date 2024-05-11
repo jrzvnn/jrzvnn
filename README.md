@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filings and sources: autonomous vehicle company Motional cut ~550 employees in a restructuring that included delaying a robotaxi service from 2024 to 2026 &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/240510/p18#a240510p18)
- - [A US jury says Microsoft must pay IPA Technologies $242M after finding that Cortana infringed a patent that expired in Jan. 2019; Microsoft plans to appeal &lpar;Christopher Yasiejko/Bloomberg Law&rpar;](http://www.techmeme.com/240510/p17#a240510p17)
- - [Gaze upon Dell’s leaked Qualcomm X Elite-powered laptops](https://www.theverge.com/2024/5/10/24153897/dell-xps-qualcomm-snapdragon-x-elite-leak)
- - [Sources: OpenAI is preparing to demonstrate an AI voice assistant that recognizes objects and images and has better logical reasoning than its current products &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/240510/p16#a240510p16)
- - [Smart Sprinkler System Controller     - CNET](https://www.cnet.com/home/smart-home/smart-sprinkler-system-controller-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Apple is finalizing a deal with OpenAI to use ChatGPT features in iOS 18; talks with Google to license Gemini are ongoing, but no deal has been reached &lpar;Bloomberg&rpar;](http://www.techmeme.com/240510/p20#a240510p20)
+ - [Epic v. Apple: Apple says it received just 38 applications to use its outside payments option for the App Store, out of ~65K app devs that offer in-app payments &lpar;Bloomberg&rpar;](http://www.techmeme.com/240510/p19#a240510p19)
+ - [OpenAI Has ChatGPT and GPT-4 Updates Ready to Go. Here&#39;s How to Watch on Monday     - CNET](https://www.cnet.com/tech/services-and-software/openai-has-chatgpt-and-gpt-4-updates-ready-to-go-heres-how-to-watch-on-monday/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints and Answers: Help for May 11, #335     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hints-answer-help-for-may-11-335/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints and Answer: Help for May 11, #1057     - CNET](https://www.cnet.com/news/todays-wordle-hints-and-answer-help-for-may-11-1057/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

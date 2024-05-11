@@ -166,9 +166,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Sources: Apple is finalizing a deal with OpenAI to use ChatGPT features in iOS 18; talks with Google to license Gemini are ongoing, but no deal has been reached &lpar;Bloomberg&rpar;](http://www.techmeme.com/240510/p20#a240510p20)
  - [Epic v. Apple: Apple says it received just 38 applications to use its outside payments option for the App Store, out of ~65K app devs that offer in-app payments &lpar;Bloomberg&rpar;](http://www.techmeme.com/240510/p19#a240510p19)
+ - [iOS 18 Rumored to Add AI-Transcription for Voice Memos     - CNET](https://www.cnet.com/tech/mobile/ios-18-rumored-to-add-ai-transcription-for-voice-memos/#ftag=CAD590a51e)
  - [OpenAI Has ChatGPT and GPT-4 Updates Ready to Go. Here&#39;s How to Watch on Monday     - CNET](https://www.cnet.com/tech/services-and-software/openai-has-chatgpt-and-gpt-4-updates-ready-to-go-heres-how-to-watch-on-monday/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints and Answers: Help for May 11, #335     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hints-answer-help-for-may-11-335/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints and Answer: Help for May 11, #1057     - CNET](https://www.cnet.com/news/todays-wordle-hints-and-answer-help-for-may-11-1057/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Saatva Classic Mattress Review 2024: An Expert Take on This Responsive, Premium Bed     - CNET](https://www.cnet.com/health/sleep/saatva-classic-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -173,10 +173,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trust me i&#39;m a Tailor](http://9gag.com/gag/a34d30r)
- - 😝 [Go back](http://9gag.com/gag/aD2wwmK)
- - 💣 [Cute](http://9gag.com/gag/a6Zdwxm)
- - 😝 [Very relatable](http://9gag.com/gag/ae93NdB)
+ - 😝 [I love happy endings](http://9gag.com/gag/aXPEbPd)
+ - 😝 [Would race](http://9gag.com/gag/aXPb87d)
+ - 💣 [Germany natives in shock what they see in Frankfurt, Germany](http://9gag.com/gag/agm03ew)
+ - 😝 [What&#39;s this?](http://9gag.com/gag/awybrvQ)
  - 👉 [Hey guys, this is Sarah Andersen the comic artist. You know, that one..](http://9gag.com/gag/aPAyvnn)<!-- MEMES:END -->
 
 ---

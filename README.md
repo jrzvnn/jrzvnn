@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What&#39;s this?](http://9gag.com/gag/awybrvQ)
- - 😝 [Goes hand in hand with the Hollyeood lifestyle I guess.](http://9gag.com/gag/aGyVKG0)
- - 💣 [Pov: London in 1940](http://9gag.com/gag/abAqXZ9)
- - 😝 [I\u2019ll just leave you with this](http://9gag.com/gag/aNDom9v)
- - 👉 [Brace yourselves ! Go outside tonight](http://9gag.com/gag/aW400j4)<!-- MEMES:END -->
+ - 😝 [Sex slaves.](http://9gag.com/gag/aPAywbQ)
+ - 😝 [Go back](http://9gag.com/gag/aD2wwmK)
+ - 💣 [Cute](http://9gag.com/gag/a6Zdwxm)
+ - 😝 [One of the best moments ever in the Olympics.](http://9gag.com/gag/aZZP9Pz)
+ - 👉 [Very relatable](http://9gag.com/gag/ae93NdB)<!-- MEMES:END -->
 
 ---
 

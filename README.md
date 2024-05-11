@@ -165,10 +165,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [How Trump is courting crypto traders, as GOP becomes increasingly friendly toward crypto while key Democrats remain at odds and SEC cracks down on the industry &lpar;Jasper Goodman/Politico&rpar;](http://www.techmeme.com/240511/p15#a240511p15)
- - [Sources: Arm plans to set up an AI chip division, aiming to build a prototype by spring 2025, with mass production expected to start later in the year &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240511/p14#a240511p14)
- - [OpenAI could debut a multimodal AI digital assistant soon](https://www.theverge.com/2024/5/11/24154307/openai-multimodal-digital-assistant-chatgpt-phone-calls)
- - [The 8 Best Coffee Subscriptions of 2024, Tested by Us     - CNET](https://www.cnet.com/home/kitchen-and-household/best-coffee-subscriptions-and-coffee-clubs/#ftag=CAD590a51e)
- - [Best Amazon Deals: Save Right Now on Outdoor Gear, Tech Gadgets and More     - CNET](https://www.cnet.com/deals/best-amazon-deals-secure-sweet-savings-on-appliances-tech-gadgets-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Use Your iPhone to Take Long-Exposure Photos of This Weekend&#39;s Aurora Light Shows     - CNET](https://www.cnet.com/tech/mobile/use-your-iphone-to-take-long-exposure-photos-of-this-weekends-aurora-light-shows/#ftag=CAD590a51e)
+ - [Where to See the Spectacular Aurora Borealis Light Shows     - CNET](https://www.cnet.com/science/where-to-see-the-spectacular-aurora-borealis-light-shows/#ftag=CAD590a51e)
+ - [Best Cordless Drill of 2024     - CNET](https://www.cnet.com/news/best-cordless-drill/#ftag=CAD590a51e)
+ - [Sources: Arm plans to set up an AI chip division, aiming to build a prototype by spring 2025, with mass production expected to start later in the year &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240511/p14#a240511p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

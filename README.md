@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Germany natives in shock what they see in Frankfurt, Germany](http://9gag.com/gag/agm03ew)
- - 😝 [Brace yourselves ! Go outside tonight](http://9gag.com/gag/aW400j4)
- - 💣 [What&#39;s this?](http://9gag.com/gag/awybrvQ)
- - 😝 [A 14-year-old Belgian girl was raped in the forest for 2 days by 10 immigrant boys, organized by her immigrant boyfriend in Kortrijk, Belgium.](http://9gag.com/gag/a87bdP6)
- - 👉 [Hey guys, this is Sarah Andersen the comic artist. You know, that one..](http://9gag.com/gag/aPAyvnn)<!-- MEMES:END -->
+ - 😝 [Advice from Gabriel](http://9gag.com/gag/aByQrGz)
+ - 😝 [They didn&#39;t need to do them like that \ud83e\udd26\u2642\ufe0f](http://9gag.com/gag/aAyVYj9)
+ - 💣 [Thicc Thighs Saves Lives. Post it here!](http://9gag.com/gag/a87bY8Z)
+ - 😝 [What&#39;s this?](http://9gag.com/gag/awybrvQ)
+ - 👉 [Ist that a terrorist state?](http://9gag.com/gag/aAyVVdd)<!-- MEMES:END -->
 
 ---
 

@@ -166,9 +166,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Microsoft Deploys Generative AI for US Spies](https://www.wired.com/story/microsoft-gpt-4-us-spies-security-roundup/)
  - [The demand for AI chips is driving fierce competition among HBM chipmakers, as Samsung and Micron race to catch up to SK Hynix, which has over 52% market share &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240511/p10#a240511p10)
- - [Northern Lights Alert: Solar Storm Could Bring Striking Aurora Borealis     - CNET](https://www.cnet.com/science/northern-lights-alert-solar-storm-could-bring-striking-aurora-borealis-but-beware-possible-power-outages/#ftag=CAD590a51e)
- - [Fulham vs. Man City Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/fulham-vs-man-city-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
- - [Don&#39;t Crush Your Metal Cans When You Recycle Them. Here&#39;s Why     - CNET](https://www.cnet.com/how-to/dont-crush-your-metal-cans-when-you-recycle-them-heres-why/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Lenovo Slim 7i Review: A Compact, Sturdy Midpriced Laptop With an OLED Screen     - CNET](https://www.cnet.com/tech/computing/lenovo-slim-7i-review-a-compact-sturdy-midpriced-laptop-with-an-oled-screen/#ftag=CAD590a51e)
+ - [The Secret Apple iOS Hack That Will Make Your iPhone Calls Clearer     - CNET](https://www.cnet.com/tech/services-and-software/the-secret-apple-ios-hack-that-will-make-your-iphone-calls-clearer/#ftag=CAD590a51e)
+ - [Google Drive Full? Here&#39;s How to Save Money on Digital Storage     - CNET](https://www.cnet.com/tech/services-and-software/google-drive-full-heres-how-to-save-money-on-digital-storage/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

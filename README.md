@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This view welcomed me 10min ago at Lisbon airport arrival hall. Call me racist but something is not right.](http://9gag.com/gag/awybbA1)
- - 😝 [Sex slaves.](http://9gag.com/gag/aPAywbQ)
- - 💣 [A 14-year-old Belgian girl was raped in the forest for 2 days by 10 immigrant boys, organized by her immigrant boyfriend in Kortrijk, Belgium.](http://9gag.com/gag/a87bdP6)
- - 😝 [The truth was almost spoken](http://9gag.com/gag/aVvQOWv)
- - 👉 [Hey guys, this is Sarah Andersen the comic artist. You know, that one..](http://9gag.com/gag/aPAyvnn)<!-- MEMES:END -->
+ - 😝 [Germany natives in shock what they see in Frankfurt, Germany](http://9gag.com/gag/agm03ew)
+ - 😝 [What&#39;s this?](http://9gag.com/gag/awybrvQ)
+ - 💣 [Happened in one of the most educated states in India.](http://9gag.com/gag/abAq5wE)
+ - 😝 [Brace yourselves ! Go outside tonight](http://9gag.com/gag/aW400j4)
+ - 👉 [Thicc Thighs Saves Lives. Post it here!](http://9gag.com/gag/a87bY8Z)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iFixit’s Pro Tech Toolkit is on sale for just $60](https://www.theverge.com/2024/5/11/24153242/ifixit-pro-tech-toolkit-sharge-retro-67-charger-deal-sale)
  - [Google I/O 2024 will be all about AI again](https://www.theverge.com/2024/5/11/24154219/google-i-o-2024-what-to-expect-where-watch-livestream-ai-android-search-gemini)
  - [Q&amp;A with Linda Moore, the CEO of TechNet, which represents OpenAI, Apple, and others, about the 400+ AI bills proposed across the US, tech backlash, and more &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/240511/p12#a240511p12)
  - [3 Best Smart Scales &lpar;2024&rpar;: Luxe, Budget, and All App-Connected](https://www.wired.com/gallery/best-smart-scales/)
- - [Heatstroke Awareness: How to Spot, Prevent and Respond to Emergencies     - CNET](https://www.cnet.com/health/medical/heatstroke-awareness-how-to-spot-prevent-and-respond-to-emergencies/#ftag=CAD590a51e)
- - [Apollo Go &lpar;2024&rpar; Review: A Great Commuter Scooter](https://www.wired.com/review/apollo-go-2024/)<!-- TECH:END -->
+ - [Heatstroke Awareness: How to Spot, Prevent and Respond to Emergencies     - CNET](https://www.cnet.com/health/medical/heatstroke-awareness-how-to-spot-prevent-and-respond-to-emergencies/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

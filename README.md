@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hey guys, this is Sarah Andersen the comic artist. You know, that one..](http://9gag.com/gag/aPAyvnn)
- - 😝 [I love happy endings](http://9gag.com/gag/aXPEbPd)
- - 💣 [What&#39;s this?](http://9gag.com/gag/awybrvQ)
- - 😝 [Dad makes sure his child remains a safe distance from the guard.](http://9gag.com/gag/an7XKRL)
- - 👉 [Ist that a terrorist state?](http://9gag.com/gag/aAyVVdd)<!-- MEMES:END -->
+ - 😝 [This will never get old](http://9gag.com/gag/amoL092)
+ - 😝 [Those poor people...](http://9gag.com/gag/adB6Yr9)
+ - 💣 [Anybody know if she ever found the patient??](http://9gag.com/gag/aD2w0xx)
+ - 😝 [No effort needed](http://9gag.com/gag/aQzp4Oq)
+ - 👉 [I have a feeling the boys will appreciate it](http://9gag.com/gag/a9yMP7D)<!-- MEMES:END -->
 
 ---
 

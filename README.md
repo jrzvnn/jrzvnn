@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Before taxes of course...](http://9gag.com/gag/abAq52B)
- - 😝 [Thicc Thighs Saves Lives. Post it here!](http://9gag.com/gag/a87bY8Z)
- - 💣 [I love happy endings](http://9gag.com/gag/aXPEbPd)
- - 😝 [Wtf](http://9gag.com/gag/a7oKL0m)
- - 👉 [Where did he go?](http://9gag.com/gag/aQzpqVr)<!-- MEMES:END -->
+ - 😝 [Dumb fun, dumb dumb](http://9gag.com/gag/an7XY5n)
+ - 😝 [Europe when?](http://9gag.com/gag/a1mZAxR)
+ - 💣 [The world needs more `If you don&#39;t like it don&#39;t watch`](http://9gag.com/gag/a5QNKdg)
+ - 😝 [This will never get old](http://9gag.com/gag/amoL092)
+ - 👉 [No effort needed](http://9gag.com/gag/aQzp4Oq)<!-- MEMES:END -->
 
 ---
 

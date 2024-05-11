@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Before taxes of course...](http://9gag.com/gag/abAq52B)
  - 😝 [Thicc Thighs Saves Lives. Post it here!](http://9gag.com/gag/a87bY8Z)
- - 😝 [I\u2019ll just leave you with this](http://9gag.com/gag/aNDom9v)
  - 💣 [I love happy endings](http://9gag.com/gag/aXPEbPd)
- - 😝 [Brace yourselves ! Go outside tonight](http://9gag.com/gag/aW400j4)
- - 👉 [This view welcomed me 10min ago at Lisbon airport arrival hall. Call me racist but something is not right.](http://9gag.com/gag/awybbA1)<!-- MEMES:END -->
+ - 😝 [Wtf](http://9gag.com/gag/a7oKL0m)
+ - 👉 [Where did he go?](http://9gag.com/gag/aQzpqVr)<!-- MEMES:END -->
 
 ---
 

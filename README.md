@@ -165,10 +165,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [16 Best Laptops &lpar;2024&rpar;: MacBooks, Windows, Chromebooks](https://www.wired.com/gallery/best-laptops/)
- - [Logitech Aurora Collection Review: Heart and Cloud-Shaped Boxes](https://www.wired.com/review/logitech-aurora-collection/)
- - [Apple inching closer to ChatGPT deal with OpenAI](https://appleinsider.com/articles/24/05/11/apple-inching-closer-to-chatgpt-deal-with-openai?utm_medium=rss)
- - [Many People Do Not Like the New Sonos App](https://www.wired.com/story/people-do-not-like-the-new-sonos-app/)
- - [Data Privacy: Your Phone Carrier Knows More Than You Think, How to Take Back Control     - CNET](https://www.cnet.com/tech/mobile/data-privacy-your-phone-carrier-knows-more-than-you-think-how-to-take-back-control/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Wolves vs. Crystal Palace Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/wolves-vs-crystal-palace-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
+ - [West Ham vs. Luton Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/west-ham-vs-luton-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
+ - [Tottenham vs. Burnley Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/tottenham-vs-burnley-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
+ - [Newcastle vs. Brighton Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/newcastle-vs-brighton-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

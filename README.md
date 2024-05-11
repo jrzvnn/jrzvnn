@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Stack Overflow Users Are Revolting Against an OpenAI Deal](https://www.wired.com/story/stack-overflow-users-openai-revolt/)
  - [Ofcom&#39;s draft Children&#39;s Safety Code of Practice&#39;s emphasis on kids choosing protective tools rather than safety by design and default is not ambitious enough &lpar;Beeban Kidron/Financial Times&rpar;](http://www.techmeme.com/240511/p11#a240511p11)
  - [Beats Solo 4 Review: Minimal Features, Maximized Sound](https://www.wired.com/review/beats-solo-4/)
  - [Android in the time of AI](https://www.theverge.com/2024/5/11/24152977/android-ai-google-io-2024-gemini)
- - [The Garmin Lily 2 was the tracker I needed on vacation](https://www.theverge.com/24152258/garmin-lily-2-fitness-tracker-wearable-smartwatch)
- - [16 Best Laptops &lpar;2024&rpar;: MacBooks, Windows, Chromebooks](https://www.wired.com/gallery/best-laptops/)<!-- TECH:END -->
+ - [The Garmin Lily 2 was the tracker I needed on vacation](https://www.theverge.com/24152258/garmin-lily-2-fitness-tracker-wearable-smartwatch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sex slaves.](http://9gag.com/gag/aPAywbQ)
- - 😝 [Go back](http://9gag.com/gag/aD2wwmK)
- - 💣 [Cute](http://9gag.com/gag/a6Zdwxm)
- - 😝 [One of the best moments ever in the Olympics.](http://9gag.com/gag/aZZP9Pz)
- - 👉 [Very relatable](http://9gag.com/gag/ae93NdB)<!-- MEMES:END -->
+ - 😝 [Just a regular dad with his 6 daughters.](http://9gag.com/gag/ayN5yn8)
+ - 😝 [How its Started.](http://9gag.com/gag/ajP6YKq)
+ - 💣 [A 14-year-old Belgian girl was raped in the forest for 2 days by 10 immigrant boys, organized by her immigrant boyfriend in Kortrijk, Belgium.](http://9gag.com/gag/a87bdP6)
+ - 😝 [Very relatable](http://9gag.com/gag/ae93NdB)
+ - 👉 [Goes hand in hand with the Hollyeood lifestyle I guess.](http://9gag.com/gag/aGyVKG0)<!-- MEMES:END -->
 
 ---
 

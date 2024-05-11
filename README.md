@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Brace yourselves ! Go outside tonight](http://9gag.com/gag/aW400j4)
+ - 😝 [The people who know, know](http://9gag.com/gag/aVvQjr2)
+ - 💣 [Had to pause and think for a second](http://9gag.com/gag/a87bLQe)
  - 😝 [A 14-year-old Belgian girl was raped in the forest for 2 days by 10 immigrant boys, organized by her immigrant boyfriend in Kortrijk, Belgium.](http://9gag.com/gag/a87bdP6)
- - 😝 [Anybody know if she ever found the patient??](http://9gag.com/gag/aD2w0xx)
- - 💣 [100 bucks says you can&#39;t guess their origin....?](http://9gag.com/gag/aMV1RqP)
- - 😝 [Imagine our great ancestors seeing this.](http://9gag.com/gag/aPAvOMg)
- - 👉 [I think the world will be much better](http://9gag.com/gag/a2vNQyO)<!-- MEMES:END -->
+ - 👉 [Goes hand in hand with the Hollyeood lifestyle I guess.](http://9gag.com/gag/aGyVKG0)<!-- MEMES:END -->
 
 ---
 

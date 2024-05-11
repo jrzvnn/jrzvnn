@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Northern Lights Alert: Solar Storm Could Bring Striking Aurora Borealis     - CNET](https://www.cnet.com/science/northern-lights-alert-solar-storm-could-bring-striking-aurora-borealis-but-beware-possible-power-outages/#ftag=CAD590a51e)
+ - [Fulham vs. Man City Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/fulham-vs-man-city-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
+ - [Don&#39;t Crush Your Metal Cans When You Recycle Them. Here&#39;s Why     - CNET](https://www.cnet.com/how-to/dont-crush-your-metal-cans-when-you-recycle-them-heres-why/#ftag=CAD590a51e)
  - [Filing: Indian e-commerce startup Meesho, which has ~150M transacting users, raised $275M, sources say at a $3.9B valuation as part of an ongoing $500M+ round &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240511/p9#a240511p9)
- - [How United, Alaska Airlines, American Airlines, and others use AI to reduce costs and streamline operations, including holding flights for delayed passengers &lpar;Julie Weed/New York Times&rpar;](http://www.techmeme.com/240511/p8#a240511p8)
- - [Meituan, Alibaba, Tencent, and other Chinese tech companies are working to expand in Saudi Arabia and the UAE, where they would face less political scrutiny &lpar;Financial Times&rpar;](http://www.techmeme.com/240511/p7#a240511p7)
- - [Southeast Asia is drawing more investment from Big Tech than ever, as the CEOs of Apple, Microsoft, and Nvidia commit billions of dollars in the region &lpar;Bloomberg&rpar;](http://www.techmeme.com/240511/p6#a240511p6)
- - [In Defense of Parasitic Worms](https://www.wired.com/story/parasites-worms-climate-change-rfk/)<!-- TECH:END -->
+ - [How United, Alaska Airlines, American Airlines, and others use AI to reduce costs and streamline operations, including holding flights for delayed passengers &lpar;Julie Weed/New York Times&rpar;](http://www.techmeme.com/240511/p8#a240511p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

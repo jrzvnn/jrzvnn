@@ -166,9 +166,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Apple inching closer to ChatGPT deal with OpenAI](https://appleinsider.com/articles/24/05/11/apple-inching-closer-to-chatgpt-deal-with-openai?utm_medium=rss)
  - [Many People Do Not Like the New Sonos App](https://www.wired.com/story/people-do-not-like-the-new-sonos-app/)
- - [Microsoft Deploys Generative AI for US Spies](https://www.wired.com/story/microsoft-gpt-4-us-spies-security-roundup/)
- - [The demand for AI chips is driving fierce competition among HBM chipmakers, as Samsung and Micron race to catch up to SK Hynix, which has over 52% market share &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240511/p10#a240511p10)
- - [Lenovo Slim 7i Review: A Compact, Sturdy Midpriced Laptop With an OLED Screen     - CNET](https://www.cnet.com/tech/computing/lenovo-slim-7i-review-a-compact-sturdy-midpriced-laptop-with-an-oled-screen/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Data Privacy: Your Phone Carrier Knows More Than You Think, How to Take Back Control     - CNET](https://www.cnet.com/tech/mobile/data-privacy-your-phone-carrier-knows-more-than-you-think-how-to-take-back-control/#ftag=CAD590a51e)
+ - [Here&#39;s How to Factory Reset Your Nintendo Switch Before Selling It     - CNET](https://www.cnet.com/tech/gaming/heres-how-to-factory-reset-your-nintendo-switch-before-selling-it/#ftag=CAD590a51e)
+ - [Microsoft Deploys Generative AI for US Spies](https://www.wired.com/story/microsoft-gpt-4-us-spies-security-roundup/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

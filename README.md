@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Brace yourselves ! Go outside tonight](http://9gag.com/gag/aW400j4)
- - 😝 [Happened in one of the most educated states in India.](http://9gag.com/gag/abAq5wE)
- - 💣 [Cross section of two human males - one obese and the other fit.](http://9gag.com/gag/aD20py9)
- - 😝 [Europe when?](http://9gag.com/gag/a1mZAxR)
- - 👉 [I love happy endings](http://9gag.com/gag/aXPEbPd)<!-- MEMES:END -->
+ - 😝 [Go back](http://9gag.com/gag/aD2wwmK)
+ - 😝 [Sex slaves.](http://9gag.com/gag/aPAywbQ)
+ - 💣 [Cute](http://9gag.com/gag/a6Zdwxm)
+ - 😝 [One of the best moments ever in the Olympics.](http://9gag.com/gag/aZZP9Pz)
+ - 👉 [Europe when?](http://9gag.com/gag/a1mZAxR)<!-- MEMES:END -->
 
 ---
 

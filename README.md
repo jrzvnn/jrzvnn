@@ -166,9 +166,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [What to expect at Google I/O 2024: Android 15 updates, more generative AI features for Google&#39;s apps, a new Gemini-powered &quot;Pixie&quot; digital assistant, and more &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240511/p13#a240511p13)
  - [The Verge’s 2024 Mother’s Day gift guide](https://www.theverge.com/24115101/best-mothers-day-gift-ideas-2024-mom-tech-gadgets)
+ - [Save Big on a Gift for Mom at Best Buy Until Tomorrow     - CNET](https://www.cnet.com/deals/save-big-on-a-gift-for-mom-at-best-buy-until-tomorrow/#ftag=CAD590a51e)
  - [iFixit’s Pro Tech Toolkit is on sale for just $60](https://www.theverge.com/2024/5/11/24153242/ifixit-pro-tech-toolkit-sharge-retro-67-charger-deal-sale)
- - [Google I/O 2024 will be all about AI again](https://www.theverge.com/2024/5/11/24154219/google-i-o-2024-what-to-expect-where-watch-livestream-ai-android-search-gemini)
- - [Q&amp;A with Linda Moore, the CEO of TechNet, which represents OpenAI, Apple, and others, about the 400+ AI bills proposed across the US, tech backlash, and more &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/240511/p12#a240511p12)<!-- TECH:END -->
+ - [Google I/O 2024 will be all about AI again](https://www.theverge.com/2024/5/11/24154219/google-i-o-2024-what-to-expect-where-watch-livestream-ai-android-search-gemini)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

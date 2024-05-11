@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Christie&#39;s experienced a &quot;technology security issue&quot; that took its website down and affected some systems, ahead of auctions that are expected to generate $840M &lpar;Zachary Small/New York Times&rpar;](http://www.techmeme.com/240510/p22#a240510p22)
  - [Jim Simons, a mathematician and founder of hedge fund firm Renaissance Technologies who pioneered computer-based approaches to quantitative trading, dies at 86 &lpar;Gregory Zuckerman/Wall Street Journal&rpar;](http://www.techmeme.com/240510/p21#a240510p21)
  - [Sources: Apple is finalizing a deal with OpenAI to use ChatGPT features in iOS 18; talks with Google to license Gemini are still ongoing &lpar;Bloomberg&rpar;](http://www.techmeme.com/240510/p20#a240510p20)
  - [Epic v. Apple: Apple says it received just 38 applications to use its outside payments option for the App Store, out of ~65K app devs that offer in-app payments &lpar;Bloomberg&rpar;](http://www.techmeme.com/240510/p19#a240510p19)
- - [iOS 18 Rumored to Add AI-Transcription for Voice Memos     - CNET](https://www.cnet.com/tech/mobile/ios-18-rumored-to-add-ai-transcription-for-voice-memos/#ftag=CAD590a51e)
- - [OpenAI Has ChatGPT and GPT-4 Updates Ready to Go. Here&#39;s How to Watch on Monday     - CNET](https://www.cnet.com/tech/services-and-software/openai-has-chatgpt-and-gpt-4-updates-ready-to-go-heres-how-to-watch-on-monday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iOS 18 Rumored to Add AI-Transcription for Voice Memos     - CNET](https://www.cnet.com/tech/mobile/ios-18-rumored-to-add-ai-transcription-for-voice-memos/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

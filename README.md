@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Football fans` teach robbers a painful lesson.](http://9gag.com/gag/aMVbbwP)
- - 😝 [This view welcomed me 10min ago at Lisbon airport arrival hall. Call me racist but something is not right.](http://9gag.com/gag/awybbA1)
- - 💣 [What&#39;s this?](http://9gag.com/gag/awybrvQ)
- - 😝 [Brace yourselves ! Go outside tonight](http://9gag.com/gag/aW400j4)
- - 👉 [That laugh!](http://9gag.com/gag/arye4Vd)<!-- MEMES:END -->
+ - 😝 [7K Yezidi women and children were kidnapped and sold into slavery by lSlS terrorists. 10K were kiIled in a Genocide for refusing to convert to lsIam. 50 Yezidi women were beheaded. 19 were burned alive. Yet not a single MusIim marched for them!](http://9gag.com/gag/aryee75)
+ - 😝 [I love happy endings](http://9gag.com/gag/aXPEbPd)
+ - 💣 [This view welcomed me 10min ago at Lisbon airport arrival hall. Call me racist but something is not right.](http://9gag.com/gag/awybbA1)
+ - 😝 [European women are the most beautiful women in the world, CHANGE MY MIND.](http://9gag.com/gag/ayN5yjX)
+ - 👉 [Where did he go?](http://9gag.com/gag/aQzpqVr)<!-- MEMES:END -->
 
 ---
 

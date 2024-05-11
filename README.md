@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I love happy endings](http://9gag.com/gag/aXPEbPd)
- - 😝 [I\u2019ll just leave you with this](http://9gag.com/gag/aNDom9v)
- - 💣 [Before taxes of course...](http://9gag.com/gag/abAq52B)
- - 😝 [The people who know, know](http://9gag.com/gag/aVvQjr2)
- - 👉 [That\u2019s a strong laser.\ud83d\ude2c](http://9gag.com/gag/aoyZmpn)<!-- MEMES:END -->
+ - 😝 [Where did he go?](http://9gag.com/gag/aQzpqVr)
+ - 😝 [European women are the most beautiful women in the world, CHANGE MY MIND.](http://9gag.com/gag/ayN5yjX)
+ - 💣 [Only in Thailand?](http://9gag.com/gag/aD2w0qB)
+ - 😝 [Seems reasonable](http://9gag.com/gag/ae9NXzm)
+ - 👉 [This view welcomed me 10min ago at Lisbon airport arrival hall. Call me racist but something is not right.](http://9gag.com/gag/awybbA1)<!-- MEMES:END -->
 
 ---
 

@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That laugh!](http://9gag.com/gag/arye4Vd)
- - 😝 [They seem disappointed](http://9gag.com/gag/axy2d1K)
- - 💣 [I\u2019ll just leave you with this](http://9gag.com/gag/aNDom9v)
- - 😝 [Ist that a terrorist state?](http://9gag.com/gag/aAyVVdd)
- - 👉 [Germany natives in shock what they see in Frankfurt, Germany](http://9gag.com/gag/agm03ew)<!-- MEMES:END -->
+ - 😝 [Hey guys, this is Sarah Andersen the comic artist. You know, that one..](http://9gag.com/gag/aPAyvnn)
+ - 😝 [I love happy endings](http://9gag.com/gag/aXPEbPd)
+ - 💣 [What&#39;s this?](http://9gag.com/gag/awybrvQ)
+ - 😝 [Dad makes sure his child remains a safe distance from the guard.](http://9gag.com/gag/an7XKRL)
+ - 👉 [Ist that a terrorist state?](http://9gag.com/gag/aAyVVdd)<!-- MEMES:END -->
 
 ---
 

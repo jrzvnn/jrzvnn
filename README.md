@@ -165,10 +165,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Stack Overflow Users Are Revolting Against an OpenAI Deal](https://www.wired.com/story/stack-overflow-users-openai-revolt/)
+ - [Score This Kasa Smart Plug Kit for 28% Off at Amazon Right Now     - CNET](https://www.cnet.com/deals/score-this-kasa-smart-plug-kit-for-28-off-at-amazon-right-now/#ftag=CAD590a51e)
  - [Ofcom&#39;s draft Children&#39;s Safety Code of Practice&#39;s emphasis on kids choosing protective tools rather than safety by design and default is not ambitious enough &lpar;Beeban Kidron/Financial Times&rpar;](http://www.techmeme.com/240511/p11#a240511p11)
- - [Beats Solo 4 Review: Minimal Features, Maximized Sound](https://www.wired.com/review/beats-solo-4/)
- - [Android in the time of AI](https://www.theverge.com/2024/5/11/24152977/android-ai-google-io-2024-gemini)
- - [The Garmin Lily 2 was the tracker I needed on vacation](https://www.theverge.com/24152258/garmin-lily-2-fitness-tracker-wearable-smartwatch)<!-- TECH:END -->
+ - [Bournemouth vs. Brentford Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/bournemouth-vs-brentford-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)
+ - [New Space, Old Mattress: How to Tackle Moving Day Like a Champ     - CNET](https://www.cnet.com/home/services/new-space-old-mattress-how-to-tackle-moving-day-like-a-champ/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

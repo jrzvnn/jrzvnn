@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sex slaves.](http://9gag.com/gag/aPAywbQ)
- - 😝 [One of the best moments ever in the Olympics.](http://9gag.com/gag/aZZP9Pz)
- - 💣 [Go back](http://9gag.com/gag/aD2wwmK)
- - 😝 [Cute](http://9gag.com/gag/a6Zdwxm)
- - 👉 [Hey guys, this is Sarah Andersen the comic artist. You know, that one..](http://9gag.com/gag/aPAyvnn)<!-- MEMES:END -->
+ - 😝 [Germany natives in shock what they see in Frankfurt, Germany](http://9gag.com/gag/agm03ew)
+ - 😝 [European women are the most beautiful women in the world, CHANGE MY MIND.](http://9gag.com/gag/ayN5yjX)
+ - 💣 [This view welcomed me 10min ago at Lisbon airport arrival hall. Call me racist but something is not right.](http://9gag.com/gag/awybbA1)
+ - 😝 [Brace yourselves ! Go outside tonight](http://9gag.com/gag/aW400j4)
+ - 👉 [Just a regular dad with his 6 daughters.](http://9gag.com/gag/ayN5yn8)<!-- MEMES:END -->
 
 ---
 

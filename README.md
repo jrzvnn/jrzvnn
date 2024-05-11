@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Very relatable](http://9gag.com/gag/ae93NdB)
- - 😝 [Brace yourselves ! Go outside tonight](http://9gag.com/gag/aW400j4)
- - 💣 [What&#39;s this?](http://9gag.com/gag/awybrvQ)
+ - 😝 [This view welcomed me 10min ago at Lisbon airport arrival hall. Call me racist but something is not right.](http://9gag.com/gag/awybbA1)
+ - 😝 [Bueller? Bueller?](http://9gag.com/gag/a2vNQgE)
+ - 💣 [Goes hand in hand with the Hollyeood lifestyle I guess.](http://9gag.com/gag/aGyVKG0)
  - 😝 [I love happy endings](http://9gag.com/gag/aXPEbPd)
- - 👉 [Look like raiden from mortal kombat](http://9gag.com/gag/aO8yy7R)<!-- MEMES:END -->
+ - 👉 [What&#39;s this?](http://9gag.com/gag/awybrvQ)<!-- MEMES:END -->
 
 ---
 

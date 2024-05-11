@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Go back](http://9gag.com/gag/aD2wwmK)
- - 😝 [Sex slaves.](http://9gag.com/gag/aPAywbQ)
- - 💣 [Cute](http://9gag.com/gag/a6Zdwxm)
- - 😝 [One of the best moments ever in the Olympics.](http://9gag.com/gag/aZZP9Pz)
- - 👉 [Europe when?](http://9gag.com/gag/a1mZAxR)<!-- MEMES:END -->
+ - 😝 [Germany natives in shock what they see in Frankfurt, Germany](http://9gag.com/gag/agm03ew)
+ - 😝 [SHAAAAAAMMEE](http://9gag.com/gag/aNDeyjK)
+ - 💣 [Jobs are a downer, innit](http://9gag.com/gag/adB60nV)
+ - 😝 [100 bucks says you can&#39;t guess their origin....?](http://9gag.com/gag/aMV1RqP)
+ - 👉 [Rogue x Rogue &lpar;Don&#39;t know who the artist&rpar;](http://9gag.com/gag/an7YpPb)<!-- MEMES:END -->
 
 ---
 

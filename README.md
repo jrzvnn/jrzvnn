@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Germany natives in shock what they see in Frankfurt, Germany](http://9gag.com/gag/agm03ew)
- - 😝 [European women are the most beautiful women in the world, CHANGE MY MIND.](http://9gag.com/gag/ayN5yjX)
- - 💣 [This view welcomed me 10min ago at Lisbon airport arrival hall. Call me racist but something is not right.](http://9gag.com/gag/awybbA1)
- - 😝 [Brace yourselves ! Go outside tonight](http://9gag.com/gag/aW400j4)
- - 👉 [Just a regular dad with his 6 daughters.](http://9gag.com/gag/ayN5yn8)<!-- MEMES:END -->
+ - 😝 [What&#39;s this?](http://9gag.com/gag/awybrvQ)
+ - 😝 [Goes hand in hand with the Hollyeood lifestyle I guess.](http://9gag.com/gag/aGyVKG0)
+ - 💣 [Pov: London in 1940](http://9gag.com/gag/abAqXZ9)
+ - 😝 [I\u2019ll just leave you with this](http://9gag.com/gag/aNDom9v)
+ - 👉 [Brace yourselves ! Go outside tonight](http://9gag.com/gag/aW400j4)<!-- MEMES:END -->
 
 ---
 

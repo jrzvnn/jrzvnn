@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [3 Best Smart Scales &lpar;2024&rpar;: Luxe, Budget, and All App-Connected](https://www.wired.com/gallery/best-smart-scales/)
+ - [Heatstroke Awareness: How to Spot, Prevent and Respond to Emergencies     - CNET](https://www.cnet.com/health/medical/heatstroke-awareness-how-to-spot-prevent-and-respond-to-emergencies/#ftag=CAD590a51e)
  - [Apollo Go &lpar;2024&rpar; Review: A Great Commuter Scooter](https://www.wired.com/review/apollo-go-2024/)
- - [Crow Country is a gloriously grimy revival of ’90s survival horror](https://www.theverge.com/24153478/crow-country-review-steam-ps5-xbox)
- - [Stack Overflow Users Are Revolting Against an OpenAI Deal](https://www.wired.com/story/stack-overflow-users-openai-revolt/)
- - [Score This Kasa Smart Plug Kit for 28% Off at Amazon Right Now     - CNET](https://www.cnet.com/deals/score-this-kasa-smart-plug-kit-for-28-off-at-amazon-right-now/#ftag=CAD590a51e)
- - [Ofcom&#39;s draft Children&#39;s Safety Code of Practice&#39;s emphasis on kids choosing protective tools rather than safety by design and default is not ambitious enough &lpar;Beeban Kidron/Financial Times&rpar;](http://www.techmeme.com/240511/p11#a240511p11)<!-- TECH:END -->
+ - [Gut Health Matters: Why You’re Bloated and Ways to Restore Gut Balance     - CNET](https://www.cnet.com/health/medical/gut-health-matters-why-youre-bloated-and-ways-to-restore-gut-balance/#ftag=CAD590a51e)
+ - [Crow Country is a gloriously grimy revival of ’90s survival horror](https://www.theverge.com/24153478/crow-country-review-steam-ps5-xbox)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

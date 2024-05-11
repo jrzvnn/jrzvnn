@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Go back](http://9gag.com/gag/aD2wwmK)
- - 😝 [Sex slaves.](http://9gag.com/gag/aPAywbQ)
- - 💣 [Cute](http://9gag.com/gag/a6Zdwxm)
+ - 😝 [Brace yourselves ! Go outside tonight](http://9gag.com/gag/aW400j4)
  - 😝 [One of the best moments ever in the Olympics.](http://9gag.com/gag/aZZP9Pz)
- - 👉 [Europe when?](http://9gag.com/gag/a1mZAxR)<!-- MEMES:END -->
+ - 💣 [Very relatable](http://9gag.com/gag/ae93NdB)
+ - 😝 [Only in Thailand?](http://9gag.com/gag/aD2w0qB)
+ - 👉 [That\u2019s a strong laser.\ud83d\ude2c](http://9gag.com/gag/aoyZmpn)<!-- MEMES:END -->
 
 ---
 

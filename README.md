@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s official. All future Playstation ports will require PSN on Steam. Countries that don&#39;t have access can f**k off. Yo ho ho, mateys.](http://9gag.com/gag/aPAyypG)
- - 😝 [This view welcomed me 10min ago at Lisbon airport arrival hall. Call me racist but something is not right.](http://9gag.com/gag/awybbA1)
- - 💣 [`Football fans` teach robbers a painful lesson.](http://9gag.com/gag/aMVbbwP)
- - 😝 [Just a regular dad with his 6 daughters.](http://9gag.com/gag/ayN5yn8)
- - 👉 [I love happy endings](http://9gag.com/gag/aXPEbPd)<!-- MEMES:END -->
+ - 😝 [Sex slaves.](http://9gag.com/gag/aPAywbQ)
+ - 😝 [One of the best moments ever in the Olympics.](http://9gag.com/gag/aZZP9Pz)
+ - 💣 [Go back](http://9gag.com/gag/aD2wwmK)
+ - 😝 [Cute](http://9gag.com/gag/a6Zdwxm)
+ - 👉 [Hey guys, this is Sarah Andersen the comic artist. You know, that one..](http://9gag.com/gag/aPAyvnn)<!-- MEMES:END -->
 
 ---
 

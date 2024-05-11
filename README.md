@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This will never get old](http://9gag.com/gag/amoL092)
- - 😝 [Those poor people...](http://9gag.com/gag/adB6Yr9)
- - 💣 [Anybody know if she ever found the patient??](http://9gag.com/gag/aD2w0xx)
- - 😝 [No effort needed](http://9gag.com/gag/aQzp4Oq)
- - 👉 [I have a feeling the boys will appreciate it](http://9gag.com/gag/a9yMP7D)<!-- MEMES:END -->
+ - 😝 [The people who know, know](http://9gag.com/gag/aVvQjr2)
+ - 😝 [Only in Thailand?](http://9gag.com/gag/aD2w0qB)
+ - 💣 [The world needs more `If you don&#39;t like it don&#39;t watch`](http://9gag.com/gag/a5QNKdg)
+ - 😝 [Gaza 11.5.24, israel is bad? They kill themselves.](http://9gag.com/gag/aQzpnE8)
+ - 👉 [Look like raiden from mortal kombat](http://9gag.com/gag/aO8yy7R)<!-- MEMES:END -->
 
 ---
 

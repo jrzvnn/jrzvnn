@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Verge’s 2024 Mother’s Day gift guide](https://www.theverge.com/24115101/best-mothers-day-gift-ideas-2024-mom-tech-gadgets)
  - [iFixit’s Pro Tech Toolkit is on sale for just $60](https://www.theverge.com/2024/5/11/24153242/ifixit-pro-tech-toolkit-sharge-retro-67-charger-deal-sale)
  - [Google I/O 2024 will be all about AI again](https://www.theverge.com/2024/5/11/24154219/google-i-o-2024-what-to-expect-where-watch-livestream-ai-android-search-gemini)
  - [Q&amp;A with Linda Moore, the CEO of TechNet, which represents OpenAI, Apple, and others, about the 400+ AI bills proposed across the US, tech backlash, and more &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/240511/p12#a240511p12)
- - [3 Best Smart Scales &lpar;2024&rpar;: Luxe, Budget, and All App-Connected](https://www.wired.com/gallery/best-smart-scales/)
- - [Heatstroke Awareness: How to Spot, Prevent and Respond to Emergencies     - CNET](https://www.cnet.com/health/medical/heatstroke-awareness-how-to-spot-prevent-and-respond-to-emergencies/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Bridgerton&#39; on Netflix: Season 3 Premiere Date and What to Expect     - CNET](https://www.cnet.com/tech/services-and-software/bridgerton-on-netflix-season-3-premiere-date-and-what-to-expect/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

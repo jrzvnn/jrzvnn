@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Brace yourselves ! Go outside tonight](http://9gag.com/gag/aW400j4)
- - 😝 [The people who know, know](http://9gag.com/gag/aVvQjr2)
- - 💣 [Had to pause and think for a second](http://9gag.com/gag/a87bLQe)
- - 😝 [A 14-year-old Belgian girl was raped in the forest for 2 days by 10 immigrant boys, organized by her immigrant boyfriend in Kortrijk, Belgium.](http://9gag.com/gag/a87bdP6)
- - 👉 [Goes hand in hand with the Hollyeood lifestyle I guess.](http://9gag.com/gag/aGyVKG0)<!-- MEMES:END -->
+ - 😝 [Go back](http://9gag.com/gag/aD2wwmK)
+ - 😝 [Sex slaves.](http://9gag.com/gag/aPAywbQ)
+ - 💣 [Cute](http://9gag.com/gag/a6Zdwxm)
+ - 😝 [One of the best moments ever in the Olympics.](http://9gag.com/gag/aZZP9Pz)
+ - 👉 [Europe when?](http://9gag.com/gag/a1mZAxR)<!-- MEMES:END -->
 
 ---
 

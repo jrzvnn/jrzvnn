@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Inmate Recounts How He Killed His Cell-Mate Who Was a Child Molester](http://9gag.com/gag/a7oKvnb)
  - 😝 [Sex slaves.](http://9gag.com/gag/aPAywbQ)
- - 💣 [Very relatable](http://9gag.com/gag/ae93NdB)
- - 😝 [Germany natives in shock what they see in Frankfurt, Germany](http://9gag.com/gag/agm03ew)
- - 👉 [Is she can do it , you can do it.](http://9gag.com/gag/aQzqY7q)<!-- MEMES:END -->
+ - 😝 [One of the best moments ever in the Olympics.](http://9gag.com/gag/aZZP9Pz)
+ - 💣 [Hey guys, this is Sarah Andersen the comic artist. You know, that one..](http://9gag.com/gag/aPAyvnn)
+ - 😝 [Go back](http://9gag.com/gag/aD2wwmK)
+ - 👉 [They do!](http://9gag.com/gag/apRqeND)<!-- MEMES:END -->
 
 ---
 

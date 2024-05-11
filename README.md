@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Germany natives in shock what they see in Frankfurt, Germany](http://9gag.com/gag/agm03ew)
+ - 😝 [This view welcomed me 10min ago at Lisbon airport arrival hall. Call me racist but something is not right.](http://9gag.com/gag/awybbA1)
+ - 😝 [Sex slaves.](http://9gag.com/gag/aPAywbQ)
+ - 💣 [Ist that a terrorist state?](http://9gag.com/gag/aAyVVdd)
  - 😝 [What&#39;s this?](http://9gag.com/gag/awybrvQ)
- - 💣 [Happened in one of the most educated states in India.](http://9gag.com/gag/abAq5wE)
- - 😝 [Brace yourselves ! Go outside tonight](http://9gag.com/gag/aW400j4)
- - 👉 [Thicc Thighs Saves Lives. Post it here!](http://9gag.com/gag/a87bY8Z)<!-- MEMES:END -->
+ - 👉 [The world needs more `If you don&#39;t like it don&#39;t watch`](http://9gag.com/gag/a5QNKdg)<!-- MEMES:END -->
 
 ---
 

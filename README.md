@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How its Started.](http://9gag.com/gag/ajP6YKq)
- - 😝 [Shut up and take my money.](http://9gag.com/gag/aE0GvZp)
- - 💣 [100 bucks says you can&#39;t guess their origin....?](http://9gag.com/gag/aMV1RqP)
- - 😝 [That\u2019s a strong laser.\ud83d\ude2c](http://9gag.com/gag/aoyZmpn)
- - 👉 [Hey guys, this is Sarah Andersen the comic artist. You know, that one..](http://9gag.com/gag/aPAyvnn)<!-- MEMES:END -->
+ - 😝 [Brace yourselves ! Go outside tonight](http://9gag.com/gag/aW400j4)
+ - 😝 [Happened in one of the most educated states in India.](http://9gag.com/gag/abAq5wE)
+ - 💣 [Cross section of two human males - one obese and the other fit.](http://9gag.com/gag/aD20py9)
+ - 😝 [Europe when?](http://9gag.com/gag/a1mZAxR)
+ - 👉 [I love happy endings](http://9gag.com/gag/aXPEbPd)<!-- MEMES:END -->
 
 ---
 

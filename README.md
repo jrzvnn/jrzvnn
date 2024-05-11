@@ -166,9 +166,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Sources: Arm plans to set up an AI chip division, aiming to build a prototype by spring 2025, with mass production expected to start later in the year &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240511/p14#a240511p14)
  - [OpenAI could debut a multimodal AI digital assistant soon](https://www.theverge.com/2024/5/11/24154307/openai-multimodal-digital-assistant-chatgpt-phone-calls)
- - [6 Things to Add to Your Routine to Maintain Brain Fitness as You Age     - CNET](https://www.cnet.com/health/fitness/6-things-to-add-to-your-routine-to-maintain-brain-fitness-as-you-age/#ftag=CAD590a51e)
- - [What to expect at Google I/O 2024: Android 15 updates, more generative AI features for Google&#39;s apps, a new Gemini-powered &quot;Pixie&quot; digital assistant, and more &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240511/p13#a240511p13)
- - [The Verge’s 2024 Mother’s Day gift guide](https://www.theverge.com/24115101/best-mothers-day-gift-ideas-2024-mom-tech-gadgets)<!-- TECH:END -->
+ - [The 8 Best Coffee Subscriptions of 2024, Tested by Us     - CNET](https://www.cnet.com/home/kitchen-and-household/best-coffee-subscriptions-and-coffee-clubs/#ftag=CAD590a51e)
+ - [Best Amazon Deals: Save Right Now on Outdoor Gear, Tech Gadgets and More     - CNET](https://www.cnet.com/deals/best-amazon-deals-secure-sweet-savings-on-appliances-tech-gadgets-and-more/#ftag=CAD590a51e)
+ - [6 Things to Add to Your Routine to Maintain Brain Fitness as You Age     - CNET](https://www.cnet.com/health/fitness/6-things-to-add-to-your-routine-to-maintain-brain-fitness-as-you-age/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

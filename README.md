@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How United, Alaska Airlines, American Airlines, and others use AI to reduce costs and streamline operations, including holding flights for delayed passengers &lpar;Julie Weed/New York Times&rpar;](http://www.techmeme.com/240511/p8#a240511p8)
  - [Meituan, Alibaba, Tencent, and other Chinese tech companies are working to expand in Saudi Arabia and the UAE, where they would face less political scrutiny &lpar;Financial Times&rpar;](http://www.techmeme.com/240511/p7#a240511p7)
  - [Southeast Asia is drawing more investment from Big Tech than ever, as the CEOs of Apple, Microsoft, and Nvidia commit billions of dollars in the region &lpar;Bloomberg&rpar;](http://www.techmeme.com/240511/p6#a240511p6)
  - [In Defense of Parasitic Worms](https://www.wired.com/story/parasites-worms-climate-change-rfk/)
- - [At the Bloomberg Technology Summit, Bumble founder Whitney Wolfe Herd said the future of dating could have digital, AI-powered personas setting each other up &lpar;Daysia Tolentino/NBC News&rpar;](http://www.techmeme.com/240511/p5#a240511p5)
- - [Appfigures: Anthropic&#39;s Claude now ranks #51 in the top free iPhone Productivity apps in the US, down from rank #5 in this category, which it achieved on May 4 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240511/p4#a240511p4)<!-- TECH:END -->
+ - [At the Bloomberg Technology Summit, Bumble founder Whitney Wolfe Herd said the future of dating could have digital, AI-powered personas setting each other up &lpar;Daysia Tolentino/NBC News&rpar;](http://www.techmeme.com/240511/p5#a240511p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

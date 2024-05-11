@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cute](http://9gag.com/gag/a6Zdwxm)
- - 😝 [This will never get old](http://9gag.com/gag/amoL092)
- - 💣 [Very relatable](http://9gag.com/gag/ae93NdB)
- - 😝 [7 out of 10 Europeans believe that their country takes in too many migrants. I agree!](http://9gag.com/gag/aLnQP5g)
- - 👉 [Hey guys, this is Sarah Andersen the comic artist. You know, that one..](http://9gag.com/gag/aPAyvnn)<!-- MEMES:END -->
+ - 😝 [`Football fans` teach robbers a painful lesson.](http://9gag.com/gag/aMVbbwP)
+ - 😝 [This view welcomed me 10min ago at Lisbon airport arrival hall. Call me racist but something is not right.](http://9gag.com/gag/awybbA1)
+ - 💣 [What&#39;s this?](http://9gag.com/gag/awybrvQ)
+ - 😝 [Brace yourselves ! Go outside tonight](http://9gag.com/gag/aW400j4)
+ - 👉 [That laugh!](http://9gag.com/gag/arye4Vd)<!-- MEMES:END -->
 
 ---
 

@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hey guys, this is Sarah Andersen the comic artist. You know, that one..](http://9gag.com/gag/aPAyvnn)
+ - 😝 [Very relatable](http://9gag.com/gag/ae93NdB)
  - 😝 [Brace yourselves ! Go outside tonight](http://9gag.com/gag/aW400j4)
- - 💣 [Anybody know if she ever found the patient??](http://9gag.com/gag/aD2w0xx)
- - 😝 [Germany natives in shock what they see in Frankfurt, Germany](http://9gag.com/gag/agm03ew)
- - 👉 [Pov: London in 1940](http://9gag.com/gag/abAqXZ9)<!-- MEMES:END -->
+ - 💣 [What&#39;s this?](http://9gag.com/gag/awybrvQ)
+ - 😝 [I love happy endings](http://9gag.com/gag/aXPEbPd)
+ - 👉 [Look like raiden from mortal kombat](http://9gag.com/gag/aO8yy7R)<!-- MEMES:END -->
 
 ---
 

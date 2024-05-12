@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The neck breaker 4000](http://9gag.com/gag/a1mZYYY)
- - 😝 [Catching durian with accuracy](http://9gag.com/gag/aqyZ2XY)
+ - 😝 [I love happy endings](http://9gag.com/gag/aXPEbPd)
+ - 😝 [Yoink.](http://9gag.com/gag/aRBgVbQ)
  - 💣 [What&#39;s this?](http://9gag.com/gag/awybrvQ)
- - 😝 [Ist that a terrorist state?](http://9gag.com/gag/aAyVVdd)
- - 👉 [The world needs more `If you don&#39;t like it don&#39;t watch`](http://9gag.com/gag/a5QNKdg)<!-- MEMES:END -->
+ - 😝 [The neck breaker 4000](http://9gag.com/gag/a1mZYYY)
+ - 👉 [Hey guys, this is Sarah Andersen the comic artist. You know, that one..](http://9gag.com/gag/aPAyvnn)<!-- MEMES:END -->
 
 ---
 

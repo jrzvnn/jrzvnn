@@ -173,9 +173,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Anybody know if she ever found the patient??](http://9gag.com/gag/aD2w0xx)
+ - 😝 [Ride](http://9gag.com/gag/an7XBRB)
  - 😝 [Advice from Gabriel](http://9gag.com/gag/aByQrGz)
- - 💣 [Yoink.](http://9gag.com/gag/aRBgVbQ)
+ - 💣 [Anybody know if she ever found the patient??](http://9gag.com/gag/aD2w0xx)
  - 😝 [What an unexpected response :&rpar;](http://9gag.com/gag/azxLVXj)
  - 👉 [7 out of 10 Europeans believe that their country takes in too many migrants. I agree!](http://9gag.com/gag/aLnQP5g)<!-- MEMES:END -->
 

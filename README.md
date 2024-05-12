@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ist that a terrorist state?](http://9gag.com/gag/aAyVVdd)
- - 😝 [What&#39;s this?](http://9gag.com/gag/awybrvQ)
- - 💣 [The neck breaker 4000](http://9gag.com/gag/a1mZYYY)
- - 😝 [Yoink.](http://9gag.com/gag/aRBgVbQ)
- - 👉 [Hey guys, this is Sarah Andersen the comic artist. You know, that one..](http://9gag.com/gag/aPAyvnn)<!-- MEMES:END -->
+ - 😝 [Advice from Gabriel](http://9gag.com/gag/aByQrGz)
+ - 😝 [Catching durian with accuracy](http://9gag.com/gag/aqyZ2XY)
+ - 💣 [A little drunk](http://9gag.com/gag/a5QNK7E)
+ - 😝 [The world needs more `If you don&#39;t like it don&#39;t watch`](http://9gag.com/gag/a5QNKdg)
+ - 👉 [They didn&#39;t need to do them like that \ud83e\udd26\u2642\ufe0f](http://9gag.com/gag/aAyVYj9)<!-- MEMES:END -->
 
 ---
 

@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s just a fact.](http://9gag.com/gag/aXPE9w2)
- - 😝 [Dad makes sure his child remains a safe distance from the guard.](http://9gag.com/gag/an7XKRL)
- - 💣 [Chernobyl&#39;s elephant foot](http://9gag.com/gag/axy2jLb)
- - 😝 [Serial rapist who raped and left asian girl disabled for life, asked for leniency because &#39;he was just a kid&#39;, got life sentence instead](http://9gag.com/gag/an7XNLq)
- - 👉 [Mostly Peaceful](http://9gag.com/gag/agm0Vjq)<!-- MEMES:END -->
+ - 😝 [\u201cEurope, youth, revolution`, French social right takes back Paris.](http://9gag.com/gag/aLnQ25x)
+ - 😝 [Ist that a terrorist state?](http://9gag.com/gag/aAyVVdd)
+ - 💣 [Planted evidence](http://9gag.com/gag/azxLjwZ)
+ - 😝 [When you give the nerdy guy a chance](http://9gag.com/gag/azxLjZq)
+ - 👉 [Thicc Thighs Saves Lives. Post it here!](http://9gag.com/gag/a87bY8Z)<!-- MEMES:END -->
 
 ---
 

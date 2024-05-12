@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I love happy endings](http://9gag.com/gag/aXPEbPd)
- - 😝 [Cave Trolls are harder to stop](http://9gag.com/gag/aNDonPb)
- - 💣 [\u201cEurope, youth, revolution`, French social right takes back Paris.](http://9gag.com/gag/aLnQ25x)
- - 😝 [Chernobyl&#39;s elephant foot](http://9gag.com/gag/axy2jLb)
- - 👉 [Hey guys, this is Sarah Andersen the comic artist. You know, that one..](http://9gag.com/gag/aPAyvnn)<!-- MEMES:END -->
+ - 😝 [This dude is patient](http://9gag.com/gag/awybVBD)
+ - 😝 [This view welcomed me 10min ago at Lisbon airport arrival hall. Call me racist but something is not right.](http://9gag.com/gag/awybbA1)
+ - 💣 [Planted evidence](http://9gag.com/gag/azxLjwZ)
+ - 😝 [Pakistani driver in Canada tells his passenger that if they were in Pakistan he would kidnap her just because she was a woman and alone. WTF!!!](http://9gag.com/gag/a2vPmmD)
+ - 👉 [Just walking in his living room, nothing wrong.](http://9gag.com/gag/a0ePjPQ)<!-- MEMES:END -->
 
 ---
 

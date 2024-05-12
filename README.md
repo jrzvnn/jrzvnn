@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nadia Murad, a Yezidi, was only 19 when lSlS kidnapped and enslaved her. She was tortured and raped. Her family was killed. Nadia&#39;s book event was cancelled in Canada because \u201cher story could promote Islamophobia\u201d.](http://9gag.com/gag/a9yM7qW)
- - 😝 [`Football fans` teach robbers a painful lesson.](http://9gag.com/gag/aMVbbwP)
- - 💣 [Ist that a terrorist state?](http://9gag.com/gag/aAyVVdd)
- - 😝 [Yoink.](http://9gag.com/gag/aRBgVbQ)
- - 👉 [What&#39;s this?](http://9gag.com/gag/awybrvQ)<!-- MEMES:END -->
+ - 😝 [What&#39;s this?](http://9gag.com/gag/awybrvQ)
+ - 😝 [Planted evidence](http://9gag.com/gag/azxLjwZ)
+ - 💣 [When you give the nerdy guy a chance](http://9gag.com/gag/azxLjZq)
+ - 😝 [Hey guys, this is Sarah Andersen the comic artist. You know, that one..](http://9gag.com/gag/aPAyvnn)
+ - 👉 [Cave Trolls are harder to stop](http://9gag.com/gag/aNDonPb)<!-- MEMES:END -->
 
 ---
 

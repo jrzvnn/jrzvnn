@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at professor-led crypto projects EigenLayer and Babylon, which seek to generate yield from cryptocurrencies, as &quot;professor coins&quot; spur investor interest &lpar;Bloomberg&rpar;](http://www.techmeme.com/240512/p4#a240512p4)
  - [Original PlayStation games come to iPhone with new Gamma emulator](https://appleinsider.com/articles/24/05/12/original-playstation-games-come-to-iphone-with-new-gamma-emulator?utm_medium=rss)
  - [Apple&#39;s M3 MacBook Air dips to $949 today for Best Buy Plus members](https://appleinsider.com/articles/24/05/12/apples-m3-macbook-air-dips-to-949-today-for-best-buy-plus-members?utm_medium=rss)
  - [Crime blotter: UPS catches Apple product thieves in sting](https://appleinsider.com/articles/24/05/12/crime-blotter-ups-catches-apple-product-thieves-in-sting?utm_medium=rss)
- - [Last Chance: Save Big on a Gift for Mom at Best Buy Until the End of Today     - CNET](https://www.cnet.com/deals/last-chance-save-big-on-a-gift-for-mom-at-best-buy/#ftag=CAD590a51e)
- - [Take Control of Your Health by Adding These 12 Things to Your Routine     - CNET](https://www.cnet.com/health/take-control-of-your-health-by-adding-these-12-things-to-your-routine/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Last Chance: Save Big on a Gift for Mom at Best Buy Until the End of Today     - CNET](https://www.cnet.com/deals/last-chance-save-big-on-a-gift-for-mom-at-best-buy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

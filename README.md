@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ride](http://9gag.com/gag/an7XBRB)
- - 😝 [Advice from Gabriel](http://9gag.com/gag/aByQrGz)
- - 💣 [Anybody know if she ever found the patient??](http://9gag.com/gag/aD2w0xx)
- - 😝 [What an unexpected response :&rpar;](http://9gag.com/gag/azxLVXj)
- - 👉 [7 out of 10 Europeans believe that their country takes in too many migrants. I agree!](http://9gag.com/gag/aLnQP5g)<!-- MEMES:END -->
+ - 😝 [Nadia Murad, a Yezidi, was only 19 when lSlS kidnapped and enslaved her. She was tortured and raped. Her family was killed. Nadia&#39;s book event was cancelled in Canada because \u201cher story could promote Islamophobia\u201d.](http://9gag.com/gag/a9yM7qW)
+ - 😝 [Before taxes of course...](http://9gag.com/gag/abAq52B)
+ - 💣 [What&#39;s this?](http://9gag.com/gag/awybrvQ)
+ - 😝 [Thicc Thighs Saves Lives. Post it here!](http://9gag.com/gag/a87bY8Z)
+ - 👉 [7K Yezidi women and children were kidnapped and sold into slavery by lSlS terrorists. 10K were kiIled in a Genocide for refusing to convert to lsIam. 50 Yezidi women were beheaded. 19 were burned alive. Yet not a single MusIim marched for them!](http://9gag.com/gag/aryee75)<!-- MEMES:END -->
 
 ---
 

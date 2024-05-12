@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [When you give the nerdy guy a chance](http://9gag.com/gag/azxLjZq)
  - 😝 [Remember when they said it was a shithole.](http://9gag.com/gag/aO8yVdR)
- - 😝 [Hmmm\u2026](http://9gag.com/gag/a34djL5)
- - 💣 [Calcification on breast-implant](http://9gag.com/gag/a7oK7Yb)
- - 😝 [\u201cEurope, youth, revolution`, French social right takes back Paris.](http://9gag.com/gag/aLnQ25x)
- - 👉 [What an unexpected response :&rpar;](http://9gag.com/gag/azxLVXj)<!-- MEMES:END -->
+ - 💣 [\u201cEurope, youth, revolution`, French social right takes back Paris.](http://9gag.com/gag/aLnQ25x)
+ - 😝 [Just right](http://9gag.com/gag/aqyZZBY)
+ - 👉 [Pakistani driver in Canada tells his passenger that if they were in Pakistan he would kidnap her just because she was a woman and alone. WTF!!!](http://9gag.com/gag/a2vPmmD)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the potential successors to Apple&#39;s top executives across all of the company&#39;s major divisions &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240512/p3#a240512p3)
+ - [Hisense U8N TV Review: Loaded Package, Shades Required](https://www.wired.com/review/hisense-u8n/)
+ - [The rise of the audio-only video game](https://www.theverge.com/24153919/audio-games-papa-sangre-vergecast)
  - [NJ Short Pump Apple Store votes down unionization effort](https://appleinsider.com/articles/24/05/12/nj-short-pump-apple-store-votes-down-unionization-effort?utm_medium=rss)
- - [Gazelle Eclipse Review: A Luxury Dutch Electric Bike](https://www.wired.com/review/gazelle-eclipse/)
- - [Reading Has Hurt Me for Years. With a Tablet Holder, It Doesn&#39;t](https://www.wired.com/story/lamicall-kindle-holder-rave/)
- - [Crime blotter: UPS catches Apple product thieves in sting](https://appleinsider.com/articles/24/05/12/crime-blotter-ups-catches-apple-product-thieves-in-sting?utm_medium=rss)
- - [21 Grilling Tools That Are Worth the Money     - CNET](https://www.cnet.com/home/yard-and-outdoors/best-grill-tools-to-buy-for-summer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Gazelle Eclipse Review: A Luxury Dutch Electric Bike](https://www.wired.com/review/gazelle-eclipse/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

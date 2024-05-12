@@ -173,10 +173,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I love happy endings](http://9gag.com/gag/aXPEbPd)
+ - 😝 [Ist that a terrorist state?](http://9gag.com/gag/aAyVVdd)
+ - 😝 [What&#39;s this?](http://9gag.com/gag/awybrvQ)
+ - 💣 [The neck breaker 4000](http://9gag.com/gag/a1mZYYY)
  - 😝 [Yoink.](http://9gag.com/gag/aRBgVbQ)
- - 💣 [What&#39;s this?](http://9gag.com/gag/awybrvQ)
- - 😝 [The neck breaker 4000](http://9gag.com/gag/a1mZYYY)
  - 👉 [Hey guys, this is Sarah Andersen the comic artist. You know, that one..](http://9gag.com/gag/aPAyvnn)<!-- MEMES:END -->
 
 ---

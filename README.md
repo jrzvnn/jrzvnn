@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Go Passwordless: How to Setup a Passkey on Your Google Account     - CNET](https://www.cnet.com/tech/services-and-software/go-passwordless-how-to-setup-a-passkey-on-your-google-account/#ftag=CAD590a51e)
  - [NASA’s Quest to Touch the Sun](https://www.wired.com/story/parker-solar-probe-sun-solar-energy-magnetism-wind/)
  - [Alibaba leverages computing resources to become a leading AI investor in China; sources: cloud credits made up ~50% of Alibaba&#39;s $800M investment in Moonshot AI &lpar;Financial Times&rpar;](http://www.techmeme.com/240512/p1#a240512p1)
  - [South Korea&#39;s Finance Minister Choi Sang-mok says the government is preparing a $7.3B+ support package for chip investments to win the &quot;war&quot; in the chip sector &lpar;Ju-min Park/Reuters&rpar;](http://www.techmeme.com/240511/p20#a240511p20)
- - [Maryland Apple Store union workers vote to authorize strike over Apple&#39;s alleged refusal to fairly bargain; Short Hills NJ store workers vote against unionizing &lpar;Josh Eidelson/Bloomberg&rpar;](http://www.techmeme.com/240511/p19#a240511p19)
- - [Rad AI, which offers generative AI tools for radiology reporting, raised a $50M Series B led by Khosla Ventures, bringing its total funding to over $80M &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/240511/p18#a240511p18)<!-- TECH:END -->
+ - [Maryland Apple Store union workers vote to authorize strike over Apple&#39;s alleged refusal to fairly bargain; Short Hills NJ store workers vote against unionizing &lpar;Josh Eidelson/Bloomberg&rpar;](http://www.techmeme.com/240511/p19#a240511p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

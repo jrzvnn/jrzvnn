@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Oracle CEO Safra Catz on generative AI&#39;s risks and impact, providing cloud infrastructure to TikTok, the importance of workplace diversity, and more &lpar;Keiichi Murayama/Nikkei Asia&rpar;](http://www.techmeme.com/240512/p2#a240512p2)
  - [Maryland Apple Store staff vote in favor of strike action](https://appleinsider.com/articles/24/05/12/maryland-apple-store-staff-vote-in-favor-of-strike-action?utm_medium=rss)
  - [An Innovative EV Motor Used by Lamborghini, McLaren, and Ferrari Is Being Mass-Produced by Mercedes](https://www.wired.com/story/yasa-motors-mercedes-axial-flux-2024/)
  - [Best Cheap Phone of 2024: Most Value for the Money     - CNET](https://www.cnet.com/tech/mobile/best-cheap-phone/#ftag=CAD590a51e)
- - [These 12 Tips Can Make Your Next Move a Breeze     - CNET](https://www.cnet.com/home/services/these-12-tips-can-make-your-next-move-a-breeze/#ftag=CAD590a51e)
- - [Moving Tips for First-Time Renters Embarking on Their New Journey     - CNET](https://www.cnet.com/home/services/moving-tips-for-first-time-renters-embarking-on-their-new-journey/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [These 12 Tips Can Make Your Next Move a Breeze     - CNET](https://www.cnet.com/home/services/these-12-tips-can-make-your-next-move-a-breeze/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

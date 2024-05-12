@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you give the nerdy guy a chance](http://9gag.com/gag/azxLjZq)
+ - 😝 [Advice from Gabriel](http://9gag.com/gag/aByQrGz)
  - 😝 [Bipitty Boppity](http://9gag.com/gag/aMVbQYW)
- - 💣 [Thicc Thighs Saves Lives. Post it here!](http://9gag.com/gag/a87bY8Z)
- - 😝 [Remember when they said it was a shithole.](http://9gag.com/gag/aO8yVdR)
- - 👉 [Pakistani driver in Canada tells his passenger that if they were in Pakistan he would kidnap her just because she was a woman and alone. WTF!!!](http://9gag.com/gag/a2vPmmD)<!-- MEMES:END -->
+ - 💣 [Pakistani driver in Canada tells his passenger that if they were in Pakistan he would kidnap her just because she was a woman and alone. WTF!!!](http://9gag.com/gag/a2vPmmD)
+ - 😝 [\u201cEurope, youth, revolution`, French social right takes back Paris.](http://9gag.com/gag/aLnQ25x)
+ - 👉 [Remember when they said it was a shithole.](http://9gag.com/gag/aO8yVdR)<!-- MEMES:END -->
 
 ---
 

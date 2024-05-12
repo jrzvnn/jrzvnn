@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What&#39;s this?](http://9gag.com/gag/awybrvQ)
- - 😝 [Planted evidence](http://9gag.com/gag/azxLjwZ)
- - 💣 [When you give the nerdy guy a chance](http://9gag.com/gag/azxLjZq)
- - 😝 [Hey guys, this is Sarah Andersen the comic artist. You know, that one..](http://9gag.com/gag/aPAyvnn)
- - 👉 [Cave Trolls are harder to stop](http://9gag.com/gag/aNDonPb)<!-- MEMES:END -->
+ - 😝 [I love happy endings](http://9gag.com/gag/aXPEbPd)
+ - 😝 [Cave Trolls are harder to stop](http://9gag.com/gag/aNDonPb)
+ - 💣 [\u201cEurope, youth, revolution`, French social right takes back Paris.](http://9gag.com/gag/aLnQ25x)
+ - 😝 [Chernobyl&#39;s elephant foot](http://9gag.com/gag/axy2jLb)
+ - 👉 [Hey guys, this is Sarah Andersen the comic artist. You know, that one..](http://9gag.com/gag/aPAyvnn)<!-- MEMES:END -->
 
 ---
 

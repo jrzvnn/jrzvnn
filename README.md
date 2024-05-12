@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Advice from Gabriel](http://9gag.com/gag/aByQrGz)
- - 😝 [The world needs more `If you don&#39;t like it don&#39;t watch`](http://9gag.com/gag/a5QNKdg)
- - 💣 [UK student trolls sleeping Palestine camp at his university](http://9gag.com/gag/aGyVR2X)
- - 😝 [Nadia Murad, a Yezidi, was only 19 when lSlS kidnapped and enslaved her. She was tortured and raped. Her family was killed. Nadia&#39;s book event was cancelled in Canada because \u201cher story could promote Islamophobia\u201d.](http://9gag.com/gag/a9yM7qW)
- - 👉 [Yoink.](http://9gag.com/gag/aRBgVbQ)<!-- MEMES:END -->
+ - 😝 [Remember when they said it was a shithole.](http://9gag.com/gag/aO8yVdR)
+ - 😝 [Hmmm\u2026](http://9gag.com/gag/a34djL5)
+ - 💣 [Calcification on breast-implant](http://9gag.com/gag/a7oK7Yb)
+ - 😝 [\u201cEurope, youth, revolution`, French social right takes back Paris.](http://9gag.com/gag/aLnQ25x)
+ - 👉 [What an unexpected response :&rpar;](http://9gag.com/gag/azxLVXj)<!-- MEMES:END -->
 
 ---
 

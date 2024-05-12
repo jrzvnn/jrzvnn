@@ -167,8 +167,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [The Gamma app brings PS1 emulation to the iPhone](https://www.theverge.com/2024/5/12/24154703/gamma-ps1-emulator-iphone-ios-apple-app-store)
  - [The DJI Pocket 3 is almost everything I wanted my iPhone camera to be](https://www.theverge.com/24152949/dji-osmo-pocket-3-opinion)
  - [A look at the potential successors to Apple&#39;s top executives across all of the company&#39;s major divisions &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240512/p3#a240512p3)
- - [Hisense U8N TV Review: Loaded Package, Shades Required](https://www.wired.com/review/hisense-u8n/)
- - [The rise of the audio-only video game](https://www.theverge.com/24153919/audio-games-papa-sangre-vergecast)<!-- TECH:END -->
+ - [Amazon&#39;s Echo Hub Makes It Easy for My Whole Family to Use the Smart Home     - CNET](https://www.cnet.com/home/smart-home/amazons-echo-hub-makes-it-easy-for-my-whole-family-to-use-the-smart-home/#ftag=CAD590a51e)
+ - [Hisense U8N TV Review: Loaded Package, Shades Required](https://www.wired.com/review/hisense-u8n/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

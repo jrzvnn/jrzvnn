@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Football fans` teach robbers a painful lesson.](http://9gag.com/gag/aMVbbwP)
- - 😝 [Where did he go?](http://9gag.com/gag/aQzpqVr)
- - 💣 [Cave Trolls are harder to stop](http://9gag.com/gag/aNDonPb)
- - 😝 [This view welcomed me 10min ago at Lisbon airport arrival hall. Call me racist but something is not right.](http://9gag.com/gag/awybbA1)
- - 👉 [Thicc Thighs Saves Lives. Post it here!](http://9gag.com/gag/a87bY8Z)<!-- MEMES:END -->
+ - 😝 [Teacher](http://9gag.com/gag/aVvQQ1y)
+ - 😝 [I love happy endings](http://9gag.com/gag/aXPEbPd)
+ - 💣 [Serial rapist who raped and left asian girl disabled for life, asked for leniency because &#39;he was just a kid&#39;, got life sentence instead](http://9gag.com/gag/an7XNLq)
+ - 😝 [What&#39;s this?](http://9gag.com/gag/awybrvQ)
+ - 👉 [Cave Trolls are harder to stop](http://9gag.com/gag/aNDonPb)<!-- MEMES:END -->
 
 ---
 

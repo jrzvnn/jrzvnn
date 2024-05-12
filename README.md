@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rad AI, which offers generative AI tools for radiology reporting, raised a $50M Series B led by Khosla Ventures, bringing its total funding to over $80M &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/240511/p18#a240511p18)
  - [The demand for AI tech to preserve, animate, and interact with lost loved ones is especially strong in China, where thousands have already paid to use such tech &lpar;Zeyi Yang/MIT Technology Review&rpar;](http://www.techmeme.com/240511/p17#a240511p17)
  - [Best Dollhouses of 2024     - CNET](https://www.cnet.com/culture/entertainment/best-dollhouses/#ftag=CAD590a51e)
  - [Best Flower Delivery Deals: Last-Minute Floral Bouquets Just in Time for Mother&#39;s Day     - CNET](https://www.cnet.com/deals/best-flower-delivery-deals-top-deals-on-mothers-day-flowers-you-can-order-now/#ftag=CAD590a51e)
- - [Best Electric Toothbrushes of 2024     - CNET](https://www.cnet.com/health/personal-care/best-electric-toothbrush/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints and Answers: Help for May 12, #336     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hints-answer-help-for-may-12-336/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Electric Toothbrushes of 2024     - CNET](https://www.cnet.com/health/personal-care/best-electric-toothbrush/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Serial rapist who raped and left asian girl disabled for life, asked for leniency because &#39;he was just a kid&#39;, got life sentence instead](http://9gag.com/gag/an7XNLq)
+ - 😝 [When you give the nerdy guy a chance](http://9gag.com/gag/azxLjZq)
+ - 😝 [Planted evidence](http://9gag.com/gag/azxLjwZ)
+ - 💣 [Pakistani driver in Canada tells his passenger that if they were in Pakistan he would kidnap her just because she was a woman and alone. WTF!!!](http://9gag.com/gag/a2vPmmD)
  - 😝 [Remember when they said it was a shithole.](http://9gag.com/gag/aO8yVdR)
- - 💣 [When you give the nerdy guy a chance](http://9gag.com/gag/azxLjZq)
- - 😝 [\u201cEurope, youth, revolution`, French social right takes back Paris.](http://9gag.com/gag/aLnQ25x)
- - 👉 [Planted evidence](http://9gag.com/gag/azxLjwZ)<!-- MEMES:END -->
+ - 👉 [What an unexpected response :&rpar;](http://9gag.com/gag/azxLVXj)<!-- MEMES:END -->
 
 ---
 

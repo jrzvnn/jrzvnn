@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hey guys, this is Sarah Andersen the comic artist. You know, that one..](http://9gag.com/gag/aPAyvnn)
- - 😝 [Germany natives in shock what they see in Frankfurt, Germany](http://9gag.com/gag/agm03ew)
- - 💣 [If you don&#39;t know what this is, then you&#39;ve never worked with IT!](http://9gag.com/gag/a7oKLRA)
- - 😝 [Before taxes of course...](http://9gag.com/gag/abAq52B)
- - 👉 [`Football fans` teach robbers a painful lesson.](http://9gag.com/gag/aMVbbwP)<!-- MEMES:END -->
+ - 😝 [Teacher](http://9gag.com/gag/aVvQQ1y)
+ - 😝 [What&#39;s this?](http://9gag.com/gag/awybrvQ)
+ - 💣 [`Football fans` teach robbers a painful lesson.](http://9gag.com/gag/aMVbbwP)
+ - 😝 [An accident](http://9gag.com/gag/aAyV1ZE)
+ - 👉 [I love happy endings](http://9gag.com/gag/aXPEbPd)<!-- MEMES:END -->
 
 ---
 

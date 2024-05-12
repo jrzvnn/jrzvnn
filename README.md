@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That laugh!](http://9gag.com/gag/arye4Vd)
- - 😝 [Yoink.](http://9gag.com/gag/aRBgVbQ)
- - 💣 [Vegan is against nature](http://9gag.com/gag/aXPEXAP)
- - 😝 [The neck breaker 4000](http://9gag.com/gag/a1mZYYY)
- - 👉 [UK student trolls sleeping Palestine camp at his university](http://9gag.com/gag/aGyVR2X)<!-- MEMES:END -->
+ - 😝 [Hey guys, this is Sarah Andersen the comic artist. You know, that one..](http://9gag.com/gag/aPAyvnn)
+ - 😝 [This view welcomed me 10min ago at Lisbon airport arrival hall. Call me racist but something is not right.](http://9gag.com/gag/awybbA1)
+ - 💣 [I love happy endings](http://9gag.com/gag/aXPEbPd)
+ - 😝 [Sex slaves.](http://9gag.com/gag/aPAywbQ)
+ - 👉 [What&#39;s this?](http://9gag.com/gag/awybrvQ)<!-- MEMES:END -->
 
 ---
 

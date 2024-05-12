@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Teacher](http://9gag.com/gag/aVvQQ1y)
- - 😝 [What&#39;s this?](http://9gag.com/gag/awybrvQ)
- - 💣 [`Football fans` teach robbers a painful lesson.](http://9gag.com/gag/aMVbbwP)
- - 😝 [An accident](http://9gag.com/gag/aAyV1ZE)
- - 👉 [I love happy endings](http://9gag.com/gag/aXPEbPd)<!-- MEMES:END -->
+ - 😝 [Germany natives in shock what they see in Frankfurt, Germany](http://9gag.com/gag/agm03ew)
+ - 😝 [Why am I not surprised????](http://9gag.com/gag/ae93Nzp)
+ - 💣 [Anybody know if she ever found the patient??](http://9gag.com/gag/aD2w0xx)
+ - 😝 [The truth was almost spoken](http://9gag.com/gag/aVvQOWv)
+ - 👉 [Where did he go?](http://9gag.com/gag/aQzpqVr)<!-- MEMES:END -->
 
 ---
 

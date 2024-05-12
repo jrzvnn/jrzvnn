@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The world needs more `If you don&#39;t like it don&#39;t watch`](http://9gag.com/gag/a5QNKdg)
+ - 😝 [Ride](http://9gag.com/gag/an7XBRB)
+ - 😝 [What&#39;s this?](http://9gag.com/gag/awybrvQ)
+ - 💣 [Hey guys, this is Sarah Andersen the comic artist. You know, that one..](http://9gag.com/gag/aPAyvnn)
  - 😝 [Next Level Trolling](http://9gag.com/gag/a9yM7WL)
- - 💣 [Before taxes of course...](http://9gag.com/gag/abAq52B)
- - 😝 [Teacher](http://9gag.com/gag/aVvQQ1y)
- - 👉 [Hey guys, this is Sarah Andersen the comic artist. You know, that one..](http://9gag.com/gag/aPAyvnn)<!-- MEMES:END -->
+ - 👉 [The truth was almost spoken](http://9gag.com/gag/aVvQOWv)<!-- MEMES:END -->
 
 ---
 

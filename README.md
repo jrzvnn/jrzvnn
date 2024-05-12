@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Teacher](http://9gag.com/gag/aVvQQ1y)
- - 😝 [I love happy endings](http://9gag.com/gag/aXPEbPd)
- - 💣 [Serial rapist who raped and left asian girl disabled for life, asked for leniency because &#39;he was just a kid&#39;, got life sentence instead](http://9gag.com/gag/an7XNLq)
- - 😝 [What&#39;s this?](http://9gag.com/gag/awybrvQ)
- - 👉 [Cave Trolls are harder to stop](http://9gag.com/gag/aNDonPb)<!-- MEMES:END -->
+ - 😝 [The neck breaker 4000](http://9gag.com/gag/a1mZYYY)
+ - 😝 [Thoughts?](http://9gag.com/gag/aqyZ5Qj)
+ - 💣 [Yoink.](http://9gag.com/gag/aRBgVbQ)
+ - 😝 [Her: He is propably cheating on me! - Him:](http://9gag.com/gag/aLnQ2Yz)
+ - 👉 [It&#39;s just a fact.](http://9gag.com/gag/aXPE9w2)<!-- MEMES:END -->
 
 ---
 

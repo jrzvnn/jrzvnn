@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Advice from Gabriel](http://9gag.com/gag/aByQrGz)
- - 😝 [Catching durian with accuracy](http://9gag.com/gag/aqyZ2XY)
- - 💣 [A little drunk](http://9gag.com/gag/a5QNK7E)
- - 😝 [The world needs more `If you don&#39;t like it don&#39;t watch`](http://9gag.com/gag/a5QNKdg)
- - 👉 [They didn&#39;t need to do them like that \ud83e\udd26\u2642\ufe0f](http://9gag.com/gag/aAyVYj9)<!-- MEMES:END -->
+ - 😝 [Dad makes sure his child remains a safe distance from the guard.](http://9gag.com/gag/an7XKRL)
+ - 😝 [Damn boo\u2026](http://9gag.com/gag/aGyVRWG)
+ - 💣 [The world needs more `If you don&#39;t like it don&#39;t watch`](http://9gag.com/gag/a5QNKdg)
+ - 😝 [Police identified Kashaan Parks, 39 for choking a woman with a belt and r\u00e4pi\u00f1g her between two cars in the Bronx. Parks has five prior arrests. A video emerged from the Bronx showing residents capturing Parks. What should be his punishment?](http://9gag.com/gag/an7XXR0)
+ - 👉 [Ist that a terrorist state?](http://9gag.com/gag/aAyVVdd)<!-- MEMES:END -->
 
 ---
 

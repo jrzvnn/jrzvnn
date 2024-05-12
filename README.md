@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ride](http://9gag.com/gag/an7XBRB)
- - 😝 [What&#39;s this?](http://9gag.com/gag/awybrvQ)
- - 💣 [Hey guys, this is Sarah Andersen the comic artist. You know, that one..](http://9gag.com/gag/aPAyvnn)
- - 😝 [Next Level Trolling](http://9gag.com/gag/a9yM7WL)
- - 👉 [The truth was almost spoken](http://9gag.com/gag/aVvQOWv)<!-- MEMES:END -->
+ - 😝 [That laugh!](http://9gag.com/gag/arye4Vd)
+ - 😝 [Yoink.](http://9gag.com/gag/aRBgVbQ)
+ - 💣 [Vegan is against nature](http://9gag.com/gag/aXPEXAP)
+ - 😝 [The neck breaker 4000](http://9gag.com/gag/a1mZYYY)
+ - 👉 [UK student trolls sleeping Palestine camp at his university](http://9gag.com/gag/aGyVR2X)<!-- MEMES:END -->
 
 ---
 

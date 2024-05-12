@@ -173,10 +173,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This view welcomed me 10min ago at Lisbon airport arrival hall. Call me racist but something is not right.](http://9gag.com/gag/awybbA1)
- - 😝 [Sex slaves.](http://9gag.com/gag/aPAywbQ)
- - 💣 [Ist that a terrorist state?](http://9gag.com/gag/aAyVVdd)
- - 😝 [What&#39;s this?](http://9gag.com/gag/awybrvQ)
+ - 😝 [The neck breaker 4000](http://9gag.com/gag/a1mZYYY)
+ - 😝 [Catching durian with accuracy](http://9gag.com/gag/aqyZ2XY)
+ - 💣 [What&#39;s this?](http://9gag.com/gag/awybrvQ)
+ - 😝 [Ist that a terrorist state?](http://9gag.com/gag/aAyVVdd)
  - 👉 [The world needs more `If you don&#39;t like it don&#39;t watch`](http://9gag.com/gag/a5QNKdg)<!-- MEMES:END -->
 
 ---

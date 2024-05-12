@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The neck breaker 4000](http://9gag.com/gag/a1mZYYY)
- - 😝 [Women find this irresistible](http://9gag.com/gag/a5QN7zy)
- - 💣 [UK student trolls sleeping Palestine camp at his university](http://9gag.com/gag/aGyVR2X)
- - 😝 [Yoink.](http://9gag.com/gag/aRBgVbQ)
- - 👉 [Thoughts?](http://9gag.com/gag/aqyZ5Qj)<!-- MEMES:END -->
+ - 😝 [Abdul finds out. London, UK.](http://9gag.com/gag/awybV78)
+ - 😝 [`Football fans` teach robbers a painful lesson.](http://9gag.com/gag/aMVbbwP)
+ - 💣 [Where did he go?](http://9gag.com/gag/aQzpqVr)
+ - 😝 [Cave Trolls are harder to stop](http://9gag.com/gag/aNDonPb)
+ - 👉 [This view welcomed me 10min ago at Lisbon airport arrival hall. Call me racist but something is not right.](http://9gag.com/gag/awybbA1)<!-- MEMES:END -->
 
 ---
 

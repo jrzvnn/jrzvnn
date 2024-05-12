@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Germany natives in shock what they see in Frankfurt, Germany](http://9gag.com/gag/agm03ew)
- - 😝 [Why am I not surprised????](http://9gag.com/gag/ae93Nzp)
- - 💣 [Anybody know if she ever found the patient??](http://9gag.com/gag/aD2w0xx)
- - 😝 [The truth was almost spoken](http://9gag.com/gag/aVvQOWv)
- - 👉 [Where did he go?](http://9gag.com/gag/aQzpqVr)<!-- MEMES:END -->
+ - 😝 [The world needs more `If you don&#39;t like it don&#39;t watch`](http://9gag.com/gag/a5QNKdg)
+ - 😝 [Next Level Trolling](http://9gag.com/gag/a9yM7WL)
+ - 💣 [Before taxes of course...](http://9gag.com/gag/abAq52B)
+ - 😝 [Teacher](http://9gag.com/gag/aVvQQ1y)
+ - 👉 [Hey guys, this is Sarah Andersen the comic artist. You know, that one..](http://9gag.com/gag/aPAyvnn)<!-- MEMES:END -->
 
 ---
 

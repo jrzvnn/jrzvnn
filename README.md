@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hey guys, this is Sarah Andersen the comic artist. You know, that one..](http://9gag.com/gag/aPAyvnn)
- - 😝 [This view welcomed me 10min ago at Lisbon airport arrival hall. Call me racist but something is not right.](http://9gag.com/gag/awybbA1)
- - 💣 [I love happy endings](http://9gag.com/gag/aXPEbPd)
- - 😝 [Sex slaves.](http://9gag.com/gag/aPAywbQ)
- - 👉 [What&#39;s this?](http://9gag.com/gag/awybrvQ)<!-- MEMES:END -->
+ - 😝 [The neck breaker 4000](http://9gag.com/gag/a1mZYYY)
+ - 😝 [Women find this irresistible](http://9gag.com/gag/a5QN7zy)
+ - 💣 [UK student trolls sleeping Palestine camp at his university](http://9gag.com/gag/aGyVR2X)
+ - 😝 [Yoink.](http://9gag.com/gag/aRBgVbQ)
+ - 👉 [Thoughts?](http://9gag.com/gag/aqyZ5Qj)<!-- MEMES:END -->
 
 ---
 

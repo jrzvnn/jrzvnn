@@ -165,10 +165,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A look at the rise and fall of 2U, which provides online degree programs for top US universities, and is valued at ~$30M today, down from $5B+ in 2018 &lpar;Melissa Korn/Wall Street Journal&rpar;](http://www.techmeme.com/240512/p8#a240512p8)
+ - [Best Teeth-Whitening Strips of 2024     - CNET](https://www.cnet.com/health/personal-care/best-teeth-whitening-strips/#ftag=CAD590a51e)
  - [Sources: Apple has met with Hollywood talent representatives to propose a new performance-based compensation regime, as Amazon and Netflix work on similar plans &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/240512/p7#a240512p7)
  - [Best Teeth Whitening Kits in 2024     - CNET](https://www.cnet.com/health/personal-care/best-teeth-whitening-kits/#ftag=CAD590a51e)
- - [Streaming on Max: The 21 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/tech/services-and-software/streaming-on-max-the-21-absolute-best-movies-to-watch-may-2024/#ftag=CAD590a51e)
- - [Researcher Sonia Livingstone says constraining tech companies and empowering young people and parents are better alternatives to banning kids from social media &lpar;Henry Mance/Financial Times&rpar;](http://www.techmeme.com/240512/p6#a240512p6)<!-- TECH:END -->
+ - [Streaming on Max: The 21 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/tech/services-and-software/streaming-on-max-the-21-absolute-best-movies-to-watch-may-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

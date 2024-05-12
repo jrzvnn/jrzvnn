@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That laugh!](http://9gag.com/gag/arye4Vd)
- - 😝 [Baby&#39;s day out](http://9gag.com/gag/a9yMdeL)
- - 💣 [The Aurora borealis is being seen across the United States!](http://9gag.com/gag/aAyVr10)
- - 😝 [I dunno, call me crazy but I think there&#39;s a 50% chance she likes me.](http://9gag.com/gag/ayNpp2r)
- - 👉 [It was a joke until it became reality in Clown World](http://9gag.com/gag/an7XYMb)<!-- MEMES:END -->
+ - 😝 [Ride](http://9gag.com/gag/an7XBRB)
+ - 😝 [Advice from Gabriel](http://9gag.com/gag/aByQrGz)
+ - 💣 [Anybody know if she ever found the patient??](http://9gag.com/gag/aD2w0xx)
+ - 😝 [What an unexpected response :&rpar;](http://9gag.com/gag/azxLVXj)
+ - 👉 [7 out of 10 Europeans believe that their country takes in too many migrants. I agree!](http://9gag.com/gag/aLnQP5g)<!-- MEMES:END -->
 
 ---
 

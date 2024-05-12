@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you give the nerdy guy a chance](http://9gag.com/gag/azxLjZq)
- - 😝 [Planted evidence](http://9gag.com/gag/azxLjwZ)
- - 💣 [This view welcomed me 10min ago at Lisbon airport arrival hall. Call me racist but something is not right.](http://9gag.com/gag/awybbA1)
- - 😝 [Serial rapist who raped and left asian girl disabled for life, asked for leniency because &#39;he was just a kid&#39;, got life sentence instead](http://9gag.com/gag/an7XNLq)
- - 👉 [Pakistani driver in Canada tells his passenger that if they were in Pakistan he would kidnap her just because she was a woman and alone. WTF!!!](http://9gag.com/gag/a2vPmmD)<!-- MEMES:END -->
+ - 😝 [This view welcomed me 10min ago at Lisbon airport arrival hall. Call me racist but something is not right.](http://9gag.com/gag/awybbA1)
+ - 😝 [7K Yezidi women and children were kidnapped and sold into slavery by lSlS terrorists. 10K were kiIled in a Genocide for refusing to convert to lsIam. 50 Yezidi women were beheaded. 19 were burned alive. Yet not a single MusIim marched for them!](http://9gag.com/gag/aryee75)
+ - 💣 [Pakistani driver in Canada tells his passenger that if they were in Pakistan he would kidnap her just because she was a woman and alone. WTF!!!](http://9gag.com/gag/a2vPmmD)
+ - 😝 [\u201cEurope, youth, revolution`, French social right takes back Paris.](http://9gag.com/gag/aLnQ25x)
+ - 👉 [What an unexpected response :&rpar;](http://9gag.com/gag/azxLVXj)<!-- MEMES:END -->
 
 ---
 

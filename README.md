@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This view welcomed me 10min ago at Lisbon airport arrival hall. Call me racist but something is not right.](http://9gag.com/gag/awybbA1)
- - 😝 [Planted evidence](http://9gag.com/gag/azxLjwZ)
- - 💣 [Pakistani driver in Canada tells his passenger that if they were in Pakistan he would kidnap her just because she was a woman and alone. WTF!!!](http://9gag.com/gag/a2vPmmD)
- - 😝 [Just walking in his living room, nothing wrong.](http://9gag.com/gag/a0ePjPQ)
- - 👉 [\u201cEurope, youth, revolution`, French social right takes back Paris.](http://9gag.com/gag/aLnQ25x)<!-- MEMES:END -->
+ - 😝 [It&#39;s just a fact.](http://9gag.com/gag/aXPE9w2)
+ - 😝 [Chernobyl&#39;s elephant foot](http://9gag.com/gag/axy2jLb)
+ - 💣 [Dad makes sure his child remains a safe distance from the guard.](http://9gag.com/gag/an7XKRL)
+ - 😝 [Serial rapist who raped and left asian girl disabled for life, asked for leniency because &#39;he was just a kid&#39;, got life sentence instead](http://9gag.com/gag/an7XNLq)
+ - 👉 [Mostly Peaceful](http://9gag.com/gag/agm0Vjq)<!-- MEMES:END -->
 
 ---
 

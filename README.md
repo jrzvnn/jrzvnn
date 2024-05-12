@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Flower Delivery Deals: Last-Minute Floral Bouquets Just in Time for Mother&#39;s Day     - CNET](https://www.cnet.com/deals/best-flower-delivery-deals-top-deals-on-mothers-day-flowers-you-can-order-now/#ftag=CAD590a51e)
+ - [Best Electric Toothbrushes of 2024     - CNET](https://www.cnet.com/health/personal-care/best-electric-toothbrush/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints and Answers: Help for May 12, #336     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hints-answer-help-for-may-12-336/#ftag=CAD590a51e)
  - [Today&#39;s Wordle Hints and Answer: Help for May 12, #1058     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-and-answer-help-for-may-12-1058/#ftag=CAD590a51e)
- - [Best Earplugs for Sleeping in 2024     - CNET](https://www.cnet.com/health/sleep/best-earplugs-for-sleeping/#ftag=CAD590a51e)
- - [The UK government&#39;s new AI safety body releases Inspect, an evaluation tool for AI model capabilities, including models&#39; core knowledge and ability to reason &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240511/p16#a240511p16)
- - [Steam, Epic and GMG are canceling Ghost of Tsushima PC pre-orders in non-PSN countries](https://www.theverge.com/2024/5/11/24154412/steam-refunding-ghost-of-tsushima-preorders-psn-network-unavailable)<!-- TECH:END -->
+ - [Best Earplugs for Sleeping in 2024     - CNET](https://www.cnet.com/health/sleep/best-earplugs-for-sleeping/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

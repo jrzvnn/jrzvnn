@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The neck breaker 4000](http://9gag.com/gag/a1mZYYY)
- - 😝 [Thoughts?](http://9gag.com/gag/aqyZ5Qj)
- - 💣 [Yoink.](http://9gag.com/gag/aRBgVbQ)
- - 😝 [Her: He is propably cheating on me! - Him:](http://9gag.com/gag/aLnQ2Yz)
- - 👉 [It&#39;s just a fact.](http://9gag.com/gag/aXPE9w2)<!-- MEMES:END -->
+ - 😝 [Nadia Murad, a Yezidi, was only 19 when lSlS kidnapped and enslaved her. She was tortured and raped. Her family was killed. Nadia&#39;s book event was cancelled in Canada because \u201cher story could promote Islamophobia\u201d.](http://9gag.com/gag/a9yM7qW)
+ - 😝 [`Football fans` teach robbers a painful lesson.](http://9gag.com/gag/aMVbbwP)
+ - 💣 [Ist that a terrorist state?](http://9gag.com/gag/aAyVVdd)
+ - 😝 [Yoink.](http://9gag.com/gag/aRBgVbQ)
+ - 👉 [What&#39;s this?](http://9gag.com/gag/awybrvQ)<!-- MEMES:END -->
 
 ---
 

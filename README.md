@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nadia Murad, a Yezidi, was only 19 when lSlS kidnapped and enslaved her. She was tortured and raped. Her family was killed. Nadia&#39;s book event was cancelled in Canada because \u201cher story could promote Islamophobia\u201d.](http://9gag.com/gag/a9yM7qW)
+ - 😝 [Hey guys, this is Sarah Andersen the comic artist. You know, that one..](http://9gag.com/gag/aPAyvnn)
+ - 😝 [Germany natives in shock what they see in Frankfurt, Germany](http://9gag.com/gag/agm03ew)
+ - 💣 [If you don&#39;t know what this is, then you&#39;ve never worked with IT!](http://9gag.com/gag/a7oKLRA)
  - 😝 [Before taxes of course...](http://9gag.com/gag/abAq52B)
- - 💣 [What&#39;s this?](http://9gag.com/gag/awybrvQ)
- - 😝 [Thicc Thighs Saves Lives. Post it here!](http://9gag.com/gag/a87bY8Z)
- - 👉 [7K Yezidi women and children were kidnapped and sold into slavery by lSlS terrorists. 10K were kiIled in a Genocide for refusing to convert to lsIam. 50 Yezidi women were beheaded. 19 were burned alive. Yet not a single MusIim marched for them!](http://9gag.com/gag/aryee75)<!-- MEMES:END -->
+ - 👉 [`Football fans` teach robbers a painful lesson.](http://9gag.com/gag/aMVbbwP)<!-- MEMES:END -->
 
 ---
 

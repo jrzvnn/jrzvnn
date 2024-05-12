@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The DJI Pocket 3 is almost everything I wanted my iPhone camera to be](https://www.theverge.com/24152949/dji-osmo-pocket-3-opinion)
  - [A look at the potential successors to Apple&#39;s top executives across all of the company&#39;s major divisions &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240512/p3#a240512p3)
  - [Hisense U8N TV Review: Loaded Package, Shades Required](https://www.wired.com/review/hisense-u8n/)
  - [The rise of the audio-only video game](https://www.theverge.com/24153919/audio-games-papa-sangre-vergecast)
- - [NJ Short Pump Apple Store votes down unionization effort](https://appleinsider.com/articles/24/05/12/nj-short-pump-apple-store-votes-down-unionization-effort?utm_medium=rss)
- - [Gazelle Eclipse Review: A Luxury Dutch Electric Bike](https://www.wired.com/review/gazelle-eclipse/)<!-- TECH:END -->
+ - [NJ Short Pump Apple Store votes down unionization effort](https://appleinsider.com/articles/24/05/12/nj-short-pump-apple-store-votes-down-unionization-effort?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

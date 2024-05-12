@@ -173,10 +173,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just walking in his living room, nothing wrong.](http://9gag.com/gag/a0ePjPQ)
- - 😝 [Planted evidence](http://9gag.com/gag/azxLjwZ)
- - 💣 [Remember when they said it was a shithole.](http://9gag.com/gag/aO8yVdR)
- - 😝 [Teacher](http://9gag.com/gag/aVvQQ1y)
+ - 😝 [When you give the nerdy guy a chance](http://9gag.com/gag/azxLjZq)
+ - 😝 [Bipitty Boppity](http://9gag.com/gag/aMVbQYW)
+ - 💣 [Thicc Thighs Saves Lives. Post it here!](http://9gag.com/gag/a87bY8Z)
+ - 😝 [Remember when they said it was a shithole.](http://9gag.com/gag/aO8yVdR)
  - 👉 [Pakistani driver in Canada tells his passenger that if they were in Pakistan he would kidnap her just because she was a woman and alone. WTF!!!](http://9gag.com/gag/a2vPmmD)<!-- MEMES:END -->
 
 ---

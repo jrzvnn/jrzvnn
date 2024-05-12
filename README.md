@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you give the nerdy guy a chance](http://9gag.com/gag/azxLjZq)
+ - 😝 [Just walking in his living room, nothing wrong.](http://9gag.com/gag/a0ePjPQ)
  - 😝 [Planted evidence](http://9gag.com/gag/azxLjwZ)
- - 💣 [Pakistani driver in Canada tells his passenger that if they were in Pakistan he would kidnap her just because she was a woman and alone. WTF!!!](http://9gag.com/gag/a2vPmmD)
- - 😝 [Remember when they said it was a shithole.](http://9gag.com/gag/aO8yVdR)
- - 👉 [What an unexpected response :&rpar;](http://9gag.com/gag/azxLVXj)<!-- MEMES:END -->
+ - 💣 [Remember when they said it was a shithole.](http://9gag.com/gag/aO8yVdR)
+ - 😝 [Teacher](http://9gag.com/gag/aVvQQ1y)
+ - 👉 [Pakistani driver in Canada tells his passenger that if they were in Pakistan he would kidnap her just because she was a woman and alone. WTF!!!](http://9gag.com/gag/a2vPmmD)<!-- MEMES:END -->
 
 ---
 

@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Abdul finds out. London, UK.](http://9gag.com/gag/awybV78)
  - 😝 [`Football fans` teach robbers a painful lesson.](http://9gag.com/gag/aMVbbwP)
- - 💣 [Where did he go?](http://9gag.com/gag/aQzpqVr)
- - 😝 [Cave Trolls are harder to stop](http://9gag.com/gag/aNDonPb)
- - 👉 [This view welcomed me 10min ago at Lisbon airport arrival hall. Call me racist but something is not right.](http://9gag.com/gag/awybbA1)<!-- MEMES:END -->
+ - 😝 [Where did he go?](http://9gag.com/gag/aQzpqVr)
+ - 💣 [Cave Trolls are harder to stop](http://9gag.com/gag/aNDonPb)
+ - 😝 [This view welcomed me 10min ago at Lisbon airport arrival hall. Call me racist but something is not right.](http://9gag.com/gag/awybbA1)
+ - 👉 [Thicc Thighs Saves Lives. Post it here!](http://9gag.com/gag/a87bY8Z)<!-- MEMES:END -->
 
 ---
 

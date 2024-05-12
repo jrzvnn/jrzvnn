@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Crime blotter: UPS catches Apple product thieves in sting](https://appleinsider.com/articles/24/05/12/crime-blotter-ups-catches-apple-product-thieves-in-sting?utm_medium=rss)
  - [The Best Sheets &lpar;2024&rpar;: Linen, Percale, and Budget Bedding](https://www.wired.com/story/best-bedsheets/)
  - [The new iPad Pro looks like a winner](https://www.theverge.com/24153472/apple-ipad-pro-animal-well-final-cut-camera-installer-newsletter)
  - [Q&amp;A with Oracle CEO Safra Catz on generative AI&#39;s risks and impact, providing cloud infrastructure to TikTok, the importance of workplace diversity, and more &lpar;Keiichi Murayama/Nikkei Asia&rpar;](http://www.techmeme.com/240512/p2#a240512p2)
- - [&#39;Demon Slayer&#39; Season 4: How to Watch the Hashira Training Arc From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/demon-slayer-season-4-how-to-watch-the-hashira-training-arc-from-anywhere/#ftag=CAD590a51e)
- - [Man United vs. Arsenal Livestream: How to Watch English Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/man-united-vs-arsenal-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Demon Slayer&#39; Season 4: How to Watch the Hashira Training Arc From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/demon-slayer-season-4-how-to-watch-the-hashira-training-arc-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

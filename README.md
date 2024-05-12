@@ -174,10 +174,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [That laugh!](http://9gag.com/gag/arye4Vd)
- - 😝 [They seem disappointed](http://9gag.com/gag/axy2d1K)
- - 💣 [What kind of food you like? carrot, tomato, or cucumber?](http://9gag.com/gag/a9yMLAZ)
- - 😝 [Vegan is against nature](http://9gag.com/gag/aXPEXAP)
- - 👉 [The neck breaker 4000](http://9gag.com/gag/a1mZYYY)<!-- MEMES:END -->
+ - 😝 [Baby&#39;s day out](http://9gag.com/gag/a9yMdeL)
+ - 💣 [The Aurora borealis is being seen across the United States!](http://9gag.com/gag/aAyVr10)
+ - 😝 [I dunno, call me crazy but I think there&#39;s a 50% chance she likes me.](http://9gag.com/gag/ayNpp2r)
+ - 👉 [It was a joke until it became reality in Clown World](http://9gag.com/gag/an7XYMb)<!-- MEMES:END -->
 
 ---
 

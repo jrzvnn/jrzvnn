@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [These 12 Tips Can Make Your Next Move a Breeze     - CNET](https://www.cnet.com/home/services/these-12-tips-can-make-your-next-move-a-breeze/#ftag=CAD590a51e)
+ - [Moving Tips for First-Time Renters Embarking on Their New Journey     - CNET](https://www.cnet.com/home/services/moving-tips-for-first-time-renters-embarking-on-their-new-journey/#ftag=CAD590a51e)
  - [Go Passwordless: How to Setup a Passkey on Your Google Account     - CNET](https://www.cnet.com/tech/services-and-software/go-passwordless-how-to-setup-a-passkey-on-your-google-account/#ftag=CAD590a51e)
  - [NASA’s Quest to Touch the Sun](https://www.wired.com/story/parker-solar-probe-sun-solar-energy-magnetism-wind/)
- - [Alibaba leverages computing resources to become a leading AI investor in China; sources: cloud credits made up ~50% of Alibaba&#39;s $800M investment in Moonshot AI &lpar;Financial Times&rpar;](http://www.techmeme.com/240512/p1#a240512p1)
- - [South Korea&#39;s Finance Minister Choi Sang-mok says the government is preparing a $7.3B+ support package for chip investments to win the &quot;war&quot; in the chip sector &lpar;Ju-min Park/Reuters&rpar;](http://www.techmeme.com/240511/p20#a240511p20)
- - [Maryland Apple Store union workers vote to authorize strike over Apple&#39;s alleged refusal to fairly bargain; Short Hills NJ store workers vote against unionizing &lpar;Josh Eidelson/Bloomberg&rpar;](http://www.techmeme.com/240511/p19#a240511p19)<!-- TECH:END -->
+ - [Alibaba leverages computing resources to become a leading AI investor in China; sources: cloud credits made up ~50% of Alibaba&#39;s $800M investment in Moonshot AI &lpar;Financial Times&rpar;](http://www.techmeme.com/240512/p1#a240512p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

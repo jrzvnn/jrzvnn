@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ride](http://9gag.com/gag/an7XBRB)
- - 😝 [Advice from Gabriel](http://9gag.com/gag/aByQrGz)
- - 💣 [Anybody know if she ever found the patient??](http://9gag.com/gag/aD2w0xx)
- - 😝 [What an unexpected response :&rpar;](http://9gag.com/gag/azxLVXj)
- - 👉 [7 out of 10 Europeans believe that their country takes in too many migrants. I agree!](http://9gag.com/gag/aLnQP5g)<!-- MEMES:END -->
+ - 😝 [I love happy endings](http://9gag.com/gag/aXPEbPd)
+ - 😝 [Title is no title](http://9gag.com/gag/aQzppr8)
+ - 💣 [Advice from Gabriel](http://9gag.com/gag/aByQrGz)
+ - 😝 [Thicc Thighs Saves Lives. Post it here!](http://9gag.com/gag/a87bY8Z)
+ - 👉 [Anybody know if she ever found the patient??](http://9gag.com/gag/aD2w0xx)<!-- MEMES:END -->
 
 ---
 

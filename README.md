@@ -173,10 +173,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Remember when they said it was a shithole.](http://9gag.com/gag/aO8yVdR)
- - 😝 [What an unexpected response :&rpar;](http://9gag.com/gag/azxLVXj)
- - 💣 [Just right](http://9gag.com/gag/aqyZZBY)
- - 😝 [\u201cEurope, youth, revolution`, French social right takes back Paris.](http://9gag.com/gag/aLnQ25x)
+ - 😝 [Happy Mothers day to all the Mums that love their children like Marianne Bachmeier, pictured here at the trial of her daughters Rapist.](http://9gag.com/gag/avyZreW)
+ - 😝 [Wish me luck my brothers](http://9gag.com/gag/apRo0QB)
+ - 💣 [Remember when they said it was a shithole.](http://9gag.com/gag/aO8yVdR)
+ - 😝 [Pakistani driver in Canada tells his passenger that if they were in Pakistan he would kidnap her just because she was a woman and alone. WTF!!!](http://9gag.com/gag/a2vPmmD)
  - 👉 [Oh my fckn God!](http://9gag.com/gag/a87bbK1)<!-- MEMES:END -->
 
 ---

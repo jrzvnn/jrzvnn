@@ -166,9 +166,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Following attempts to malign Signal as insecure by Telegram&#39;s CEO and Elon Musk, a look at why Signal is widely regarded by experts as more secure than Telegram &lpar;Matthew Green/@matthew_d_green&rpar;](http://www.techmeme.com/240512/p5#a240512p5)
  - [Solar Storms are disrupting farmer GPS systems during critical planting time](https://www.theverge.com/2024/5/12/24154779/solar-storms-farmer-gps-john-deer)
- - [Say Goodbye to Artificial Sweeteners and Hello to These Natural Healthier Choices     - CNET](https://www.cnet.com/health/nutrition/natural-sugar-alternatives/#ftag=CAD590a51e)
- - [A look at professor-led crypto projects EigenLayer and Babylon, which seek to generate yield from cryptocurrencies, as &quot;professor coins&quot; spur investor interest &lpar;Bloomberg&rpar;](http://www.techmeme.com/240512/p4#a240512p4)
- - [Best MacBook Deals: Save Up to $400 Off MacBook Pro and MacBook Air Models     - CNET](https://www.cnet.com/deals/best-macbook-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Electric Lawn Mower Deals: Save Hundreds on Incredible Mowers From Your Favorite Brands     - CNET](https://www.cnet.com/deals/best-electric-lawnmower-deals/#ftag=CAD590a51e)
+ - [Best Smart Home Devices of 2024     - CNET](https://www.cnet.com/home/smart-home/best-smart-home-devices/#ftag=CAD590a51e)
+ - [Best Coffee Maker Deals: Save Up to $260 on Various Types of Coffee Makers     - CNET](https://www.cnet.com/deals/best-coffee-maker-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

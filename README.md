@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happy Endings, yay](http://9gag.com/gag/ayNp8nq)
+ - 😝 [Advice from Gabriel](http://9gag.com/gag/aByQrGz)
  - 😝 [The world needs more `If you don&#39;t like it don&#39;t watch`](http://9gag.com/gag/a5QNKdg)
- - 💣 [This view welcomed me 10min ago at Lisbon airport arrival hall. Call me racist but something is not right.](http://9gag.com/gag/awybbA1)
- - 😝 [Remember when they said it was a shithole.](http://9gag.com/gag/aO8yVdR)
- - 👉 [Ist that a terrorist state?](http://9gag.com/gag/aAyVVdd)<!-- MEMES:END -->
+ - 💣 [UK student trolls sleeping Palestine camp at his university](http://9gag.com/gag/aGyVR2X)
+ - 😝 [Nadia Murad, a Yezidi, was only 19 when lSlS kidnapped and enslaved her. She was tortured and raped. Her family was killed. Nadia&#39;s book event was cancelled in Canada because \u201cher story could promote Islamophobia\u201d.](http://9gag.com/gag/a9yM7qW)
+ - 👉 [Yoink.](http://9gag.com/gag/aRBgVbQ)<!-- MEMES:END -->
 
 ---
 

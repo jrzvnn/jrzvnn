@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Gazelle Eclipse Review: A Luxury Dutch Electric Bike](https://www.wired.com/review/gazelle-eclipse/)
  - [Reading Has Hurt Me for Years. With a Tablet Holder, It Doesn&#39;t](https://www.wired.com/story/lamicall-kindle-holder-rave/)
  - [Crime blotter: UPS catches Apple product thieves in sting](https://appleinsider.com/articles/24/05/12/crime-blotter-ups-catches-apple-product-thieves-in-sting?utm_medium=rss)
  - [21 Grilling Tools That Are Worth the Money     - CNET](https://www.cnet.com/home/yard-and-outdoors/best-grill-tools-to-buy-for-summer/#ftag=CAD590a51e)
- - [Best Amazon Deals: Score Deep Discounts on Tech Gadgets, Outdoor Gear and More     - CNET](https://www.cnet.com/deals/best-amazon-deals-score-deep-discounts-on-tech-gadgets-outdoor-gear-and-more/#ftag=CAD590a51e)
- - [Asus Zenbook 14 OLED Q425 Review: Lightweight, Long-Running OLED Laptop for Less     - CNET](https://www.cnet.com/tech/computing/asus-zenbook-14-oled-q425-review-lightweight-long-running-oled-laptop-for-less/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Amazon Deals: Score Deep Discounts on Tech Gadgets, Outdoor Gear and More     - CNET](https://www.cnet.com/deals/best-amazon-deals-score-deep-discounts-on-tech-gadgets-outdoor-gear-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

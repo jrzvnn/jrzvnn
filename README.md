@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NJ Short Pump Apple Store votes down unionization effort](https://appleinsider.com/articles/24/05/12/nj-short-pump-apple-store-votes-down-unionization-effort?utm_medium=rss)
  - [Gazelle Eclipse Review: A Luxury Dutch Electric Bike](https://www.wired.com/review/gazelle-eclipse/)
  - [Reading Has Hurt Me for Years. With a Tablet Holder, It Doesn&#39;t](https://www.wired.com/story/lamicall-kindle-holder-rave/)
  - [Crime blotter: UPS catches Apple product thieves in sting](https://appleinsider.com/articles/24/05/12/crime-blotter-ups-catches-apple-product-thieves-in-sting?utm_medium=rss)
- - [21 Grilling Tools That Are Worth the Money     - CNET](https://www.cnet.com/home/yard-and-outdoors/best-grill-tools-to-buy-for-summer/#ftag=CAD590a51e)
- - [Best Amazon Deals: Score Deep Discounts on Tech Gadgets, Outdoor Gear and More     - CNET](https://www.cnet.com/deals/best-amazon-deals-score-deep-discounts-on-tech-gadgets-outdoor-gear-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [21 Grilling Tools That Are Worth the Money     - CNET](https://www.cnet.com/home/yard-and-outdoors/best-grill-tools-to-buy-for-summer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

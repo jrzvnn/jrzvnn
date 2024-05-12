@@ -165,10 +165,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Researcher Sonia Livingstone says constraining tech companies and empowering young people and parents are better alternatives to banning kids from social media &lpar;Henry Mance/Financial Times&rpar;](http://www.techmeme.com/240512/p6#a240512p6)
- - [Best BBQ Sauces for 2024     - CNET](https://www.cnet.com/news/best-bbq-sauces/#ftag=CAD590a51e)
  - [Following attempts to malign Signal as insecure by Telegram&#39;s CEO and Elon Musk, a look at why Signal is widely regarded by experts as more secure than Telegram &lpar;Matthew Green/@matthew_d_green&rpar;](http://www.techmeme.com/240512/p5#a240512p5)
  - [Solar Storms are disrupting farmer GPS systems during critical planting time](https://www.theverge.com/2024/5/12/24154779/solar-storms-farmer-gps-john-deer)
- - [Best Electric Lawn Mower Deals: Save Hundreds on Incredible Mowers From Your Favorite Brands     - CNET](https://www.cnet.com/deals/best-electric-lawnmower-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Electric Lawn Mower Deals: Save Hundreds on Incredible Mowers From Your Favorite Brands     - CNET](https://www.cnet.com/deals/best-electric-lawnmower-deals/#ftag=CAD590a51e)
+ - [Best Smart Home Devices of 2024     - CNET](https://www.cnet.com/home/smart-home/best-smart-home-devices/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Help i accidentaly built a jeep](http://9gag.com/gag/avyZGxM)
- - 😝 [When you give the nerdy guy a chance](http://9gag.com/gag/azxLjZq)
- - 💣 [Friends having fun&lpar;Repost&rpar;](http://9gag.com/gag/azxLAZx)
- - 😝 [When I said I wanted to remodel the bathroom I didn\u2019t realize I was going to make it bigger.](http://9gag.com/gag/aO8yzn2)
- - 👉 [Her: He is propably cheating on me! - Him:](http://9gag.com/gag/aLnQ2Yz)<!-- MEMES:END -->
+ - 😝 [Happy Endings, yay](http://9gag.com/gag/ayNp8nq)
+ - 😝 [`Anime girls have unrealistic proportions`](http://9gag.com/gag/a2vPr6d)
+ - 💣 [Happy Mothers day to all the Mums that love their children like Marianne Bachmeier, pictured here at the trial of her daughters Rapist.](http://9gag.com/gag/avyZreW)
+ - 😝 [Dead inside...](http://9gag.com/gag/aD2wGPK)
+ - 👉 [Calcification on breast-implant](http://9gag.com/gag/a7oK7Yb)<!-- MEMES:END -->
 
 ---
 

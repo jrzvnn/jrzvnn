@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Brad Smith says Microsoft will invest &amp;euro;4B in France, much of the investment would focus on AI, and Microsoft would set up a data center in Mulhouse, France &lpar;Sudip Kar-Gupta/Reuters&rpar;](http://www.techmeme.com/240513/p2#a240513p2)
  - [Sources: Shein steps up preparations for a London listing amid regulatory hurdles for a New York IPO; source: Shein plans to file in London as soon as May &lpar;Reuters&rpar;](http://www.techmeme.com/240513/p1#a240513p1)
  - [Best Multipoint Bluetooth Headphones and Earbuds for 2024     - CNET](https://www.cnet.com/tech/mobile/best-multipoint-bluetooth-headphones-and-earbuds/#ftag=CAD590a51e)
  - [A look at 01.AI, which is launching Wanzhi, a free generative AI assistant focused on the Chinese market; CEO Kai-Fu Lee says 01.AI is nearing profitability &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240512/p10#a240512p10)
- - [Today&#39;s NYT Connections Hints and Answers: Help for May 13, #337     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hint-answer-for-may-13-337/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints and Answer: Help for May 13, #1059     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-and-answer-help-for-may-13-1059/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints and Answers: Help for May 13, #337     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hint-answer-for-may-13-337/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

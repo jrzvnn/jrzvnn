@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI is releasing a ChatGPT app for Mac first, beating Windows](https://appleinsider.com/articles/24/05/13/openai-is-releasing-a-chatgpt-app-for-mac?utm_medium=rss)
- - [Apple is almost ready to sell the Vision Pro outside the US](https://www.theverge.com/2024/5/13/24155552/apple-vision-pro-headset-rumors-global-launch)
- - [Microsoft unveils Places, an AI-powered app to help employees on Outlook and Teams better coordinate in-office time, with Copilot integration coming this year &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240513/p30#a240513p30)
- - [You can already save up to $50 on the forthcoming iPad Pro and iPad Air](https://www.theverge.com/2024/5/13/24155297/apple-ipad-pro-air-2024-beats-solo-4-headphones-deal-sale)
- - [OpenAI’s custom GPT Store is now open to all for free](https://www.theverge.com/2024/5/13/24155582/openai-custom-gpt-store-available-free-subscribers)<!-- TECH:END -->
+ - [Cruise is back driving autonomously for the first time since pedestrian-dragging incident](https://www.theverge.com/2024/5/13/24155559/cruise-robotaxi-return-phoenix-autonomous-safety-driver)
+ - [OpenAI is releasing a ChatGPT app for Mac first, well ahead of Windows](https://appleinsider.com/articles/24/05/13/openai-is-releasing-a-chatgpt-app-for-mac?utm_medium=rss)
+ - [Denon adds Siri to its smart speakers](https://www.theverge.com/2024/5/13/24155420/denon-apple-siri-voice-control-smart-speakers)
+ - [Tile owner Life360 picks satellites over partnering with Apple or Google](https://www.theverge.com/2024/5/13/24155381/tile-hubble-life360-bluetooth-tracking-satellite)
+ - [OpenAI opens its GPT Store to all users for free, including the ability to create custom GPTs &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240513/p31#a240513p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

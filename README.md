@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Planted evidence](http://9gag.com/gag/azxLjwZ)
- - 😝 [Calcification on breast-implant](http://9gag.com/gag/a7oK7Yb)
- - 💣 [Chernobyl&#39;s elephant foot](http://9gag.com/gag/axy2jLb)
+ - 😝 [That shirt is a little low, isn&#39;t it?](http://9gag.com/gag/ae93YOp)
+ - 😝 [Vegan is against nature](http://9gag.com/gag/aXPEXAP)
+ - 💣 [Remember when they said it was a shithole.](http://9gag.com/gag/aO8yVdR)
  - 😝 [When you give the nerdy guy a chance](http://9gag.com/gag/azxLjZq)
- - 👉 [Wish me luck my brothers](http://9gag.com/gag/apRo0QB)<!-- MEMES:END -->
+ - 👉 [Pakistani driver in Canada tells his passenger that if they were in Pakistan he would kidnap her just because she was a woman and alone. WTF!!!](http://9gag.com/gag/a2vPmmD)<!-- MEMES:END -->
 
 ---
 

@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Calcification on breast-implant](http://9gag.com/gag/a7oK7Yb)
- - 😝 [That shirt is a little low, isn&#39;t it?](http://9gag.com/gag/ae93YOp)
- - 💣 [Pakistani driver in Canada tells his passenger that if they were in Pakistan he would kidnap her just because she was a woman and alone. WTF!!!](http://9gag.com/gag/a2vPmmD)
- - 😝 [When you give the nerdy guy a chance](http://9gag.com/gag/azxLjZq)
- - 👉 [Chernobyl&#39;s elephant foot](http://9gag.com/gag/axy2jLb)<!-- MEMES:END -->
+ - 😝 [If we taking things to the extremes](http://9gag.com/gag/aD2wGEx)
+ - 😝 [A ball launcher](http://9gag.com/gag/aXPEwo6)
+ - 💣 [Oh no.. And she at babies...](http://9gag.com/gag/axy2jXK)
+ - 😝 [Nadia Murad, a Yezidi, was only 19 when lSlS kidnapped and enslaved her. She was tortured and raped. Her family was killed. Nadia&#39;s book event was cancelled in Canada because \u201cher story could promote Islamophobia\u201d.](http://9gag.com/gag/a9yM7qW)
+ - 👉 [When you give the nerdy guy a chance](http://9gag.com/gag/azxLjZq)<!-- MEMES:END -->
 
 ---
 

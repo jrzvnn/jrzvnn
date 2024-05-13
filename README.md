@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In Switzerland, a mobile overpass bridge is used to carry out road work without stopping traffic](http://9gag.com/gag/aXPEwg2)
- - 😝 [Task manager to the rescue...](http://9gag.com/gag/aW40q1K)
- - 💣 [Happy Mothers day to all the Mums that love their children like Marianne Bachmeier, pictured here at the trial of her daughters Rapist.](http://9gag.com/gag/avyZreW)
- - 😝 [This is what i see](http://9gag.com/gag/aryebBX)
- - 👉 [Help i accidentaly built a jeep](http://9gag.com/gag/avyZGxM)<!-- MEMES:END -->
+ - 😝 [Morocco&#39;s under 13 vs Guinea&#39;s under 13 and guess who won?](http://9gag.com/gag/aE0GRpK)
+ - 😝 [Chernobyl&#39;s elephant foot](http://9gag.com/gag/axy2jLb)
+ - 💣 [Best kind of propaganda bot](http://9gag.com/gag/arye5oV)
+ - 😝 [Dead inside...](http://9gag.com/gag/aD2wGPK)
+ - 👉 [When I said I wanted to remodel the bathroom I didn\u2019t realize I was going to make it bigger.](http://9gag.com/gag/aO8yzn2)<!-- MEMES:END -->
 
 ---
 

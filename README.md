@@ -173,10 +173,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Morocco&#39;s under 13 vs Guinea&#39;s under 13 and guess who won?](http://9gag.com/gag/aE0GRpK)
- - 😝 [Chernobyl&#39;s elephant foot](http://9gag.com/gag/axy2jLb)
- - 💣 [Best kind of propaganda bot](http://9gag.com/gag/arye5oV)
  - 😝 [Dead inside...](http://9gag.com/gag/aD2wGPK)
+ - 😝 [A normal debate...](http://9gag.com/gag/aQzp9Mq)
+ - 💣 [Calcification on breast-implant](http://9gag.com/gag/a7oK7Yb)
+ - 😝 [Morocco&#39;s under 13 vs Guinea&#39;s under 13 and guess who won?](http://9gag.com/gag/aE0GRpK)
  - 👉 [When I said I wanted to remodel the bathroom I didn\u2019t realize I was going to make it bigger.](http://9gag.com/gag/aO8yzn2)<!-- MEMES:END -->
 
 ---

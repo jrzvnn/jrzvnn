@@ -173,10 +173,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happy Endings, yay](http://9gag.com/gag/ayNp8nq)
- - 😝 [`Anime girls have unrealistic proportions`](http://9gag.com/gag/a2vPr6d)
- - 💣 [Happy Mothers day to all the Mums that love their children like Marianne Bachmeier, pictured here at the trial of her daughters Rapist.](http://9gag.com/gag/avyZreW)
- - 😝 [Dead inside...](http://9gag.com/gag/aD2wGPK)
+ - 😝 [Almost 100 hours... And that&#39;s all he got?](http://9gag.com/gag/aLnQMAx)
+ - 😝 [I love Irish people!](http://9gag.com/gag/abAqZxL)
+ - 💣 [Chernobyl&#39;s elephant foot](http://9gag.com/gag/axy2jLb)
+ - 😝 [What an unexpected response :&rpar;](http://9gag.com/gag/azxLVXj)
  - 👉 [Calcification on breast-implant](http://9gag.com/gag/a7oK7Yb)<!-- MEMES:END -->
 
 ---

@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rumble sues Google, saying it owes Rumble $1B+ in damages for lost ad revenue, and for exploiting its ad tech dominance to hamper Rumble&#39;s ability to compete &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/240513/p40#a240513p40)
  - [iPad Pro OLED HDR color peaking bug to be corrected with software update](https://appleinsider.com/articles/24/05/13/ipad-pro-oled-hdr-color-peaking-bug-to-be-corrected-with-software-update?utm_medium=rss)
  - [The US orders Chinese-linked crypto mining company MineOne to sell property it bought near an Air Force base in Wyoming, citing national security risk &lpar;Reuters&rpar;](http://www.techmeme.com/240513/p39#a240513p39)
  - [Anthropic launches its Claude chatbot and subscription plans in Europe, available to individuals and businesses through the web and via an iPhone app &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240513/p38#a240513p38)
- - [I Am Once Again Asking Our Tech Overlords to Watch the Whole Movie](https://www.wired.com/story/openai-gpt-4o-chatgpt-artificial-intelligence-her-movie/)
- - [New iPad Pro review roundup: impressive performance held back by iPadOS](https://appleinsider.com/articles/24/05/13/new-ipad-pro-review-roundup-impressive-performance-held-back-by-ipados?utm_medium=rss)<!-- TECH:END -->
+ - [I Am Once Again Asking Our Tech Overlords to Watch the Whole Movie](https://www.wired.com/story/openai-gpt-4o-chatgpt-artificial-intelligence-her-movie/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

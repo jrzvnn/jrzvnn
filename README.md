@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One reload for the cost of three](http://9gag.com/gag/aAyVPDE)
- - 😝 [When you give the nerdy guy a chance](http://9gag.com/gag/azxLjZq)
- - 💣 [I love Irish people!](http://9gag.com/gag/abAqZxL)
- - 😝 [Happy Mothers day to all the Mums that love their children like Marianne Bachmeier, pictured here at the trial of her daughters Rapist.](http://9gag.com/gag/avyZreW)
- - 👉 [Chernobyl&#39;s elephant foot](http://9gag.com/gag/axy2jLb)<!-- MEMES:END -->
+ - 😝 [Thicc Thighs Saves Lives. Post it here!](http://9gag.com/gag/a87bY8Z)
+ - 😝 [World&#39;s biggest airplane &lpar;Anotonov AN-225 Mriya&rpar; separates the cloud while landing.](http://9gag.com/gag/aYQpLPv)
+ - 💣 [Dead inside...](http://9gag.com/gag/aD2wGPK)
+ - 😝 [That shirt is a little low, isn&#39;t it?](http://9gag.com/gag/ae93YOp)
+ - 👉 [What an unexpected response :&rpar;](http://9gag.com/gag/azxLVXj)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Connections Hints and Answers: Help for May 13, #337     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hint-answer-for-may-13-337/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints and Answer: Help for May 13, #1059     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-and-answer-help-for-may-13-1059/#ftag=CAD590a51e)
+ - [A look at how Elon Musk uses X to support right-wing world leaders like Narendra Modi who could help secure advantages for his businesses &lpar;New York Times&rpar;](http://www.techmeme.com/240512/p9#a240512p9)
  - [A look at the rise and fall of 2U, which provides online degree programs for top US universities, and is valued at ~$30M today, down from $5B+ in 2018 &lpar;Melissa Korn/Wall Street Journal&rpar;](http://www.techmeme.com/240512/p8#a240512p8)
- - [Best Teeth-Whitening Strips of 2024     - CNET](https://www.cnet.com/health/personal-care/best-teeth-whitening-strips/#ftag=CAD590a51e)
- - [Sources: Apple has met with Hollywood talent representatives to propose a new performance-based compensation regime, as Amazon and Netflix work on similar plans &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/240512/p7#a240512p7)
- - [Best Teeth Whitening Kits in 2024     - CNET](https://www.cnet.com/health/personal-care/best-teeth-whitening-kits/#ftag=CAD590a51e)
- - [Streaming on Max: The 21 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/tech/services-and-software/streaming-on-max-the-21-absolute-best-movies-to-watch-may-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Teeth-Whitening Strips of 2024     - CNET](https://www.cnet.com/health/personal-care/best-teeth-whitening-strips/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

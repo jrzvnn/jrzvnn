@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPad Pro OLED HDR color peaking bug to be corrected with software update](https://appleinsider.com/articles/24/05/13/ipad-pro-oled-hdr-color-peaking-bug-to-be-corrected-with-software-update?utm_medium=rss)
+ - [The US orders Chinese-linked crypto mining company MineOne to sell property it bought near an Air Force base in Wyoming, citing national security risk &lpar;Reuters&rpar;](http://www.techmeme.com/240513/p39#a240513p39)
  - [Anthropic launches its Claude chatbot and subscription plans in Europe, available to individuals and businesses through the web and via an iPhone app &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240513/p38#a240513p38)
  - [I Am Once Again Asking Our Tech Overlords to Watch the Whole Movie](https://www.wired.com/story/openai-gpt-4o-chatgpt-artificial-intelligence-her-movie/)
- - [New iPad Pro review roundup: impressive performance held back by iPadOS](https://appleinsider.com/articles/24/05/13/new-ipad-pro-review-roundup-impressive-performance-held-back-by-ipados?utm_medium=rss)
- - [AI gun detection company name-dropped Disney in its successful pitch to NYC](https://www.theverge.com/2024/5/13/24155861/evolv-scanners-ai-gun-detection-nyc-subway-disney-eric-adams)
- - [Q&amp;A with Walt Mossberg and YouTuber Marques Brownlee on tech reviews, handling pushback, YouTube, the issues with paid content, earning people&#39;s trust, and more &lpar;New York Magazine&rpar;](http://www.techmeme.com/240513/p37#a240513p37)<!-- TECH:END -->
+ - [New iPad Pro review roundup: impressive performance held back by iPadOS](https://appleinsider.com/articles/24/05/13/new-ipad-pro-review-roundup-impressive-performance-held-back-by-ipados?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

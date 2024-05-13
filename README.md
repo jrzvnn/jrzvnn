@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google says Project Starline, its 3D video conferencing platform first unveiled at 2021&#39;s Google I/O, will ship in 2025 with HP as a launch partner &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240513/p25#a240513p25)
+ - [Apple makes breaking your new iPad&#39;s screen a little less painful](https://appleinsider.com/articles/24/05/13/apple-makes-breaking-your-new-ipads-screen-a-little-less-painful?utm_medium=rss)
+ - [VW releases battery and motor details for upcoming ID Buzz electric microbus](https://www.theverge.com/2024/5/13/24155355/vw-id-buzz-us-trim-powertrain-details-launch-first-edition)
  - [Sources: after shelling out billions to acquire US users, Temu is now focusing more on acquiring users in Europe and elsewhere, following TikTok&#39;s US issues &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240513/p24#a240513p24)
- - [Best new iPad Pro and iPad Air accessories to keep your device safe and stylish](https://appleinsider.com/inside/ipad/best/best-new-ipad-pro-and-ipad-air-accessories-to-keep-your-device-safe-and-stylish?utm_medium=rss)
- - [Google is bringing Project Starline’s ‘magic window’ experience to real video calls](https://www.theverge.com/2024/5/13/24155395/google-project-starline-hp-video-conferencing-2025)
- - [Matter 1.3, Brilliant goes under, &amp; Ridge MagSafe wallet on the HomeKit Insider Podcast](https://appleinsider.com/articles/24/05/13/matter-13-brilliant-goes-under-ridge-magsafe-wallet-on-the-homekit-insider-podcast?utm_medium=rss)
- - [Microsoft Places uses AI to find the best time for your next office day](https://www.theverge.com/2024/5/13/24155204/microsoft-places-ai-hybrid-office-feature)<!-- TECH:END -->
+ - [Best new iPad Pro and iPad Air accessories to keep your device safe and stylish](https://appleinsider.com/inside/ipad/best/best-new-ipad-pro-and-ipad-air-accessories-to-keep-your-device-safe-and-stylish?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

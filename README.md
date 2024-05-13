@@ -166,7 +166,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Q&amp;A with Walt Mossberg and YouTuber Marques Brownlee on tech reviews, handling pushback, YouTube, the issues with paid content, earning people&#39;s trust, and more &lpar;New York Magazine&rpar;](http://www.techmeme.com/240513/p37#a240513p37)
  - [New iPad Pro review roundup: impressive performance held back by iPadOS](https://appleinsider.com/articles/24/05/13/new-ipad-pro-review-roundup-impressive-performance-held-back-by-ipados?utm_medium=rss)
- - [Sources: Kyle Vogt, who resigned as CEO of Cruise six months ago, raised $150M for The Bot Company, a household robot startup, at a $550M post-money valuation &lpar;Kenrick Cai/Forbes&rpar;](http://www.techmeme.com/240513/p36#a240513p36)
+ - [Kyle Vogt, who resigned as Cruise CEO six months ago, raised $150M for The Bot Company, a household robot startup, sources say at a $550M post-money valuation &lpar;Kenrick Cai/Forbes&rpar;](http://www.techmeme.com/240513/p36#a240513p36)
  - [Google’s Pixel 9 lineup appears in hands-on photos five months early](https://www.theverge.com/2024/5/13/24155816/google-9-pro-xl-lineup-leaked-images-design)
  - [New iPad Air review roundup: Screen and Apple Pencil Pro are standouts](https://appleinsider.com/articles/24/05/13/new-ipad-air-review-roundup-screen-and-apple-pencil-pro-are-standouts?utm_medium=rss)<!-- TECH:END -->
 

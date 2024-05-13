@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Flagship iPad head-to-head -- M4 iPad Pro vs M2 iPad Pro compared](https://appleinsider.com/inside/ipad-pro/vs/flagship-ipad-head-to-head----m4-ipad-pro-vs-m2-ipad-pro-compared?utm_medium=rss)
+ - [Deals: Apple&#39;s M3 14-inch MacBook Pro with 16GB RAM drops to $1,599](https://appleinsider.com/articles/24/05/13/deals-apples-m3-14-inch-macbook-pro-with-16gb-ram-drops-to-1599?utm_medium=rss)
  - [Sources: Intel is in advanced, exclusive talks for a deal in which Apollo Global Management would supply $11B+ to help the chip giant build a plant in Ireland &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240513/p19#a240513p19)
  - [Stop spam calls at the source by fighting data brokers with Incogni](https://appleinsider.com/articles/24/05/13/stop-spam-calls-at-the-source-by-fighting-data-brokers-with-incogni?utm_medium=rss)
- - [Isambard-AI, the UK&#39;s fastest supercomputer that cost &amp;pound;225M and ranks 129th on the Top500 list, comes online; the system will contain 5,448 Nvidia GH200 chips &lpar;Charlotte Trueman/DatacenterDynamics&rpar;](http://www.techmeme.com/240513/p18#a240513p18)
- - [Twelve South BookArc Flex Review: Unstable and Expensive](https://www.wired.com/review/twelve-south-bookarc-flex-vertical-laptop-stand/)
- - [Nine-core M4 iPad Pro benchmarks leak, still smokes M2](https://appleinsider.com/articles/24/05/13/nine-core-m4-ipad-pro-benchmarks-leak-still-smokes-m2?utm_medium=rss)<!-- TECH:END -->
+ - [Isambard-AI, the UK&#39;s fastest supercomputer that cost &amp;pound;225M and ranks 129th on the Top500 list, comes online; the system will contain 5,448 Nvidia GH200 chips &lpar;Charlotte Trueman/DatacenterDynamics&rpar;](http://www.techmeme.com/240513/p18#a240513p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

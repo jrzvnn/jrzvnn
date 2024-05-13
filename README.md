@@ -173,10 +173,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The new RTX 5090 power connector.](http://9gag.com/gag/amoLr4v)
- - 😝 [What an unexpected response :&rpar;](http://9gag.com/gag/azxLVXj)
- - 💣 [Happy Mothers day to all the Mums that love their children like Marianne Bachmeier, pictured here at the trial of her daughters Rapist.](http://9gag.com/gag/avyZreW)
  - 😝 [Pakistani driver in Canada tells his passenger that if they were in Pakistan he would kidnap her just because she was a woman and alone. WTF!!!](http://9gag.com/gag/a2vPmmD)
+ - 😝 [One reload for the cost of three](http://9gag.com/gag/aAyVPDE)
+ - 💣 [Chernobyl&#39;s elephant foot](http://9gag.com/gag/axy2jLb)
+ - 😝 [The new RTX 5090 power connector.](http://9gag.com/gag/amoLr4v)
  - 👉 [Happy Endings, yay](http://9gag.com/gag/ayNp8nq)<!-- MEMES:END -->
 
 ---

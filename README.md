@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI is releasing a ChatGPT app for Mac](https://appleinsider.com/articles/24/05/13/openai-is-releasing-a-chatgpt-app-for-mac?utm_medium=rss)
+ - [Apple News+ subscribers get a new daily game and a new offline mode](https://appleinsider.com/articles/24/05/13/apple-news-subscribers-get-a-new-daily-game-and-a-new-offline-mode?utm_medium=rss)
  - [OpenAI releases GPT-4o, a faster model that’s free for all ChatGPT users](https://www.theverge.com/2024/5/13/24155493/openai-gpt-4o-launching-free-for-all-chatgpt-users)
  - [Meta announces Travel Mode, in beta, for the Quest 2 and Quest 3 under &quot;Experimental features&quot;, as a way to optimize the headset for use on moving vehicles &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240513/p29#a240513p29)
- - [UK newspapers tell Apple its &#39;web eraser&#39; will put journalism at risk](https://appleinsider.com/articles/24/05/13/uk-newspapers-tell-apple-its-web-eraser-will-put-journalism-at-risk?utm_medium=rss)
- - [Apple&#39;s new macOS 14.5 update is out but brings only bug fixes](https://appleinsider.com/articles/24/05/13/apples-new-macos-145-update-is-out-but-brings-only-bug-fixes?utm_medium=rss)
- - [iPadOS 17.5 now available with support for new iPads](https://appleinsider.com/articles/24/05/13/ipados-175-now-available-with-support-for-new-ipads?utm_medium=rss)<!-- TECH:END -->
+ - [UK newspapers tell Apple its &#39;web eraser&#39; will put journalism at risk](https://appleinsider.com/articles/24/05/13/uk-newspapers-tell-apple-its-web-eraser-will-put-journalism-at-risk?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

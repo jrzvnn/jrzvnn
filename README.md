@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple iPad Pro &lpar;M4, 2024&rpar; Review: Powerful Yet Premature](https://www.wired.com/review/apple-ipad-pro-m4-2024/)
- - [Apple iPad Pro &lpar;2024&rpar; review: the best kind of overkill](https://www.theverge.com/24155440/apple-ipad-pro-2024-review)
- - [The new Apple iPad Air is great — but it’s not the one to get](https://www.theverge.com/24155407/apple-ipad-air-review-2024)
- - [iOS 17.5 is here with Repair State &amp; EU Web Distribution](https://appleinsider.com/articles/24/05/13/ios-175-is-here-with-repair-state-eu-web-distribution?utm_medium=rss)
- - [RFK Jr. sues Meta for ‘election interference’ after it temporarily removed a campaign video](https://www.theverge.com/policy/2024/5/13/24155697/rfk-jr-meta-election-interference-lawsuit)<!-- TECH:END -->
+ - [Sources: Kyle Vogt, who resigned as CEO of Cruise six months ago, raised $150M for The Bot Company, a household robot startup, at a $550M post-money valuation &lpar;Kenrick Cai/Forbes&rpar;](http://www.techmeme.com/240513/p36#a240513p36)
+ - [Google’s Pixel 9 lineup appears in hands-on photos five months early](https://www.theverge.com/2024/5/13/24155816/google-9-pro-xl-lineup-leaked-images-design)
+ - [New iPad Air review roundup: Screen and Apple Pencil Pro are standouts](https://appleinsider.com/articles/24/05/13/new-ipad-air-review-roundup-screen-and-apple-pencil-pro-are-standouts?utm_medium=rss)
+ - [Roku will start streaming live MLB games for free](https://www.theverge.com/2024/5/13/24155774/roku-live-mlb-games-sunday-leadoff)
+ - [Apple iPad Pro &lpar;2024&rpar; review: gorgeous screen, blazing performance with M4, thin, front camera is in the right spot, but iPadOS can&#39;t keep up with the hardware &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240513/p35#a240513p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

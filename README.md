@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Top Features in Apple’s iOS 17 and iPadOS 17: Compatible Devices, Updates](https://www.wired.com/story/apple-iphone-ios-17-ipados-17-new-features/)
+ - [The First Person to Receive a Pig Kidney Transplant Has Died](https://www.wired.com/story/pig-kidney-death-rick-slayman-transplant-animal-xenotransplantation/)
  - [ChatGPT will be able to talk to you like Scarlett Johansson in Her](https://www.theverge.com/2024/5/13/24155652/chatgpt-voice-mode-gpt4o-upgrades)
  - [Zelda: Majora’s Mask is now a native PC game, and every N64 title could follow its lead](https://www.theverge.com/2024/5/13/24155636/n64-recompiled-port-nintendo-games-zelda-majoras-mask)
- - [Apple News Plus is ready to work offline](https://www.theverge.com/2024/5/13/24155638/apple-news-plus-offline-ios-17-5-macos-apple-watch-updates)
- - [OpenAI&#39;s GPT-4o Model Gives ChatGPT a Snappy, Flirty Upgrade](https://www.wired.com/story/openai-gpt-4o-model-gives-chatgpt-a-snappy-flirty-upgrade/)
- - [Denon adds Siri functionality to its lineup of smart speakers](https://appleinsider.com/articles/24/05/13/denon-adds-siri-functionality-to-its-lineup-of-smart-speakers?utm_medium=rss)<!-- TECH:END -->
+ - [Apple News Plus is ready to work offline](https://www.theverge.com/2024/5/13/24155638/apple-news-plus-offline-ios-17-5-macos-apple-watch-updates)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

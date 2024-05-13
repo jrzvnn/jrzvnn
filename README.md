@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A ball launcher](http://9gag.com/gag/aXPEwo6)
- - 😝 [Oh no.. And she at babies...](http://9gag.com/gag/axy2jXK)
- - 💣 [If we taking things to the extremes](http://9gag.com/gag/aD2wGEx)
+ - 😝 [One reload for the cost of three](http://9gag.com/gag/aAyVPDE)
  - 😝 [When you give the nerdy guy a chance](http://9gag.com/gag/azxLjZq)
- - 👉 [Nadia Murad, a Yezidi, was only 19 when lSlS kidnapped and enslaved her. She was tortured and raped. Her family was killed. Nadia&#39;s book event was cancelled in Canada because \u201cher story could promote Islamophobia\u201d.](http://9gag.com/gag/a9yM7qW)<!-- MEMES:END -->
+ - 💣 [I love Irish people!](http://9gag.com/gag/abAqZxL)
+ - 😝 [Happy Mothers day to all the Mums that love their children like Marianne Bachmeier, pictured here at the trial of her daughters Rapist.](http://9gag.com/gag/avyZreW)
+ - 👉 [Chernobyl&#39;s elephant foot](http://9gag.com/gag/axy2jLb)<!-- MEMES:END -->
 
 ---
 

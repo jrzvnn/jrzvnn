@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thicc Thighs Saves Lives. Post it here!](http://9gag.com/gag/a87bY8Z)
- - 😝 [World&#39;s biggest airplane &lpar;Anotonov AN-225 Mriya&rpar; separates the cloud while landing.](http://9gag.com/gag/aYQpLPv)
- - 💣 [Dead inside...](http://9gag.com/gag/aD2wGPK)
- - 😝 [That shirt is a little low, isn&#39;t it?](http://9gag.com/gag/ae93YOp)
- - 👉 [What an unexpected response :&rpar;](http://9gag.com/gag/azxLVXj)<!-- MEMES:END -->
+ - 😝 [Remember when they said it was a shithole.](http://9gag.com/gag/aO8yVdR)
+ - 😝 [BYD owners, cry!](http://9gag.com/gag/a0ePj0z)
+ - 💣 [When you give the nerdy guy a chance](http://9gag.com/gag/azxLjZq)
+ - 😝 [Wish me luck my brothers](http://9gag.com/gag/apRo0QB)
+ - 👉 [That shirt is a little low, isn&#39;t it?](http://9gag.com/gag/ae93YOp)<!-- MEMES:END -->
 
 ---
 

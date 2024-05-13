@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yoink.](http://9gag.com/gag/aRBgVbQ)
- - 😝 [Pakistani driver in Canada tells his passenger that if they were in Pakistan he would kidnap her just because she was a woman and alone. WTF!!!](http://9gag.com/gag/a2vPmmD)
- - 💣 [What an unexpected response :&rpar;](http://9gag.com/gag/azxLVXj)
+ - 😝 [Planted evidence](http://9gag.com/gag/azxLjwZ)
  - 😝 [Calcification on breast-implant](http://9gag.com/gag/a7oK7Yb)
- - 👉 [BYD owners, cry!](http://9gag.com/gag/a0ePj0z)<!-- MEMES:END -->
+ - 💣 [Chernobyl&#39;s elephant foot](http://9gag.com/gag/axy2jLb)
+ - 😝 [When you give the nerdy guy a chance](http://9gag.com/gag/azxLjZq)
+ - 👉 [Wish me luck my brothers](http://9gag.com/gag/apRo0QB)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GPT-4o&#39;s text and image capabilities are rolling out to ChatGPT Plus and Team users; GPT-4o&#39;s voice version is coming soon; mysterious gpt2-chatbot was GPT-4o &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/240513/p34#a240513p34)
- - [Melinda French Gates to leave the Bill &amp; Melinda Gates Foundation](https://www.theverge.com/2024/5/13/24155692/melinda-bill-gates-leave-foundation-philanthropy)
- - [Protesters Are Fighting to Stop AI, but They’re Split on How to Do It](https://www.wired.com/story/protesters-pause-ai-split-stop/)
- - [Google&#39;s rollout of AI generated summaries in search will threaten web publishers; Gartner predicts traffic to the web from search engines will fall 25% by 2026 &lpar;Washington Post&rpar;](http://www.techmeme.com/240513/p33#a240513p33)
- - [Apple finally adds iPhone alerts for third-party Bluetooth trackers](https://www.theverge.com/2024/5/13/24155630/apple-google-airtag-bluetooth-tracker-alert-standard)<!-- TECH:END -->
+ - [RFK Jr. sues Meta for ‘election interference’ after it temporarily removed a campaign video](https://www.theverge.com/policy/2024/5/13/24155697/rfk-jr-meta-election-interference-lawsuit)
+ - [AI Could Be the Key to Making the Smartwatches We Already Own Better     - CNET](https://www.cnet.com/tech/mobile/ai-could-be-the-key-to-making-the-smartwatches-we-already-own-better/#ftag=CAD590a51e)
+ - [Roku Will Stream Sunday MLB Games for Free Starting This Week     - CNET](https://www.cnet.com/tech/services-and-software/roku-will-stream-sunday-mlb-games-for-free-starting-this-week/#ftag=CAD590a51e)
+ - [Moving? Here&#39;s Everywhere You Need to Change Your Address     - CNET](https://www.cnet.com/how-to/moving-heres-everywhere-you-need-to-change-your-address/#ftag=CAD590a51e)
+ - [Make Your New Apartment Feel Like Home: Decor Tips and Tricks     - CNET](https://www.cnet.com/how-to/make-your-new-apartment-feel-like-home-decor-tips-and-tricks/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

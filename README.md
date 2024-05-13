@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Vision Pro expected to arrive in more markets after WWDC](https://appleinsider.com/articles/24/05/13/apple-vision-pro-expected-to-arrive-in-more-markets-after-wwdc?utm_medium=rss)
+ - [How to type special characters on a Windows PC](https://www.theverge.com/22351023/windows-pc-special-characters-how-to)
  - [Meta Quest’s new Travel Mode will put more glassholes on your next flight](https://www.theverge.com/2024/5/13/24155396/meta-quest-airplane-passthrough-travel-mode-experimental-feature)
  - [As crypto flows into Tornado Cash despite sanctions, a look at the trial against its co-founder, who says he cannot prevent abuse of a system beyond his control &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/240513/p26#a240513p26)
- - [Google says Project Starline, its 3D video conferencing platform first unveiled at 2021&#39;s Google I/O, will ship in 2025 with HP as a launch partner &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240513/p25#a240513p25)
- - [Apple makes breaking your new iPad&#39;s screen a little less painful](https://appleinsider.com/articles/24/05/13/apple-makes-breaking-your-new-ipads-screen-a-little-less-painful?utm_medium=rss)
- - [VW releases battery and motor details for upcoming ID Buzz electric microbus](https://www.theverge.com/2024/5/13/24155355/vw-id-buzz-us-trim-powertrain-details-launch-first-edition)<!-- TECH:END -->
+ - [I Tried Cooking Salmon in the Air Fryer and I&#39;m Never Going Back     - CNET](https://www.cnet.com/news/i-tried-cooking-salmon-in-the-air-fryer-and-im-never-going-back/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

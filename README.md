@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google is bringing Project Starline’s ‘magic window’ experience to real video calls](https://www.theverge.com/2024/5/13/24155395/google-project-starline-hp-video-conferencing-2025)
+ - [Matter 1.3, Brilliant goes under, &amp; Ridge MagSafe wallet on the HomeKit Insider Podcast](https://appleinsider.com/articles/24/05/13/matter-13-brilliant-goes-under-ridge-magsafe-wallet-on-the-homekit-insider-podcast?utm_medium=rss)
  - [Microsoft Places uses AI to find the best time for your next office day](https://www.theverge.com/2024/5/13/24155204/microsoft-places-ai-hybrid-office-feature)
  - [Q&amp;A with Adobe CEO Shantanu Narayen on running Adobe since 2007, new AI features, AI investments, Firefly, monetizing AI, copyright, AI misuse, PDFs, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240513/p23#a240513p23)
- - [Get Prepared for Your First New Home or Apartment With These Tips     - CNET](https://www.cnet.com/home/services/get-prepared-for-your-first-new-home-or-apartment-with-these-tips/#ftag=CAD590a51e)
- - [Google Pixel 8a review: 120Hz OLED display, strong battery life, excellent cameras, and great value at $499+, but slow wireless charging and thick bezels &lpar;Sam Rutherford/Engadget&rpar;](http://www.techmeme.com/240513/p22#a240513p22)
- - [Microsoft Word just fixed its default paste option](https://www.theverge.com/2024/5/13/24155312/microsoft-word-default-paste-option-merge-formatting)<!-- TECH:END -->
+ - [Get Prepared for Your First New Home or Apartment With These Tips     - CNET](https://www.cnet.com/home/services/get-prepared-for-your-first-new-home-or-apartment-with-these-tips/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

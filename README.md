@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Melinda French Gates to leave the Bill &amp; Melinda Gates Foundation](https://www.theverge.com/2024/5/13/24155692/melinda-bill-gates-leave-foundation-philanthropy)
  - [Protesters Are Fighting to Stop AI, but They’re Split on How to Do It](https://www.wired.com/story/protesters-pause-ai-split-stop/)
  - [Google&#39;s rollout of AI generated summaries in search will threaten web publishers; Gartner predicts traffic to the web from search engines will fall 25% by 2026 &lpar;Washington Post&rpar;](http://www.techmeme.com/240513/p33#a240513p33)
  - [Apple finally adds iPhone alerts for third-party Bluetooth trackers](https://www.theverge.com/2024/5/13/24155630/apple-google-airtag-bluetooth-tracker-alert-standard)
- - [Square Enix plans to ‘aggressively pursue’ multiplatform game releases](https://www.theverge.com/2024/5/13/24155604/square-enix-multiplatform-games-xbox-pc)
- - [Top Features in Apple’s iOS 17 and iPadOS 17: Compatible Devices, Updates](https://www.wired.com/story/apple-iphone-ios-17-ipados-17-new-features/)<!-- TECH:END -->
+ - [Make Your New Apartment Feel Like Home: Decor Tips and Tricks     - CNET](https://www.cnet.com/how-to/make-your-new-apartment-feel-like-home-decor-tips-and-tricks/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

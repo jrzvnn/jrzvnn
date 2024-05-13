@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Abu Dhabi&#39;s Technology Innovation Institute releases Falcon 2 11B, an open-source LLM to compete with Llama and Gemini that supports five European languages &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/240513/p21#a240513p21)
- - [Amazon’s robotaxi company is under investigation after two crashes with motorcyclists](https://www.theverge.com/2024/5/13/24155272/amazon-zoox-robotaxi-crash-motorcyclists-rear-end)
- - [13-inch tablet power compared -- iPad Pro vs iPad Air](https://appleinsider.com/inside/ipad-pro/vs/13-inch-tablet-power-compared----ipad-pro-vs-ipad-air?utm_medium=rss)
- - [Apple Music launches a top 100 Best Albums list guaranteed to be controversial](https://appleinsider.com/articles/24/05/13/apple-music-launches-a-top-100-best-albums-list-guaranteed-to-be-controversial?utm_medium=rss)
- - [9 Best Sex Toy Deals for Masturbation May: Suction Toys, Vibrators, and More](https://www.wired.com/story/best-sex-toy-deals-for-masturbation-may-2024/)<!-- TECH:END -->
+ - [Google Pixel 8A Review: The Best Smartphone](https://www.wired.com/review/google-pixel-8a/)
+ - [TCL’s new Mini LED TVs offer blazing brightness on a budget](https://www.theverge.com/2024/5/13/24155276/tcl-qm8-qm7-q-s-2024-tvs-price-features)
+ - [The Pixel 8A and the camera you have with you](https://www.theverge.com/24154473/google-pixel-8a-camera-hands-on)
+ - [Why Adobe CEO Shantanu Narayen is confident we’ll all adapt to AI](https://www.theverge.com/24153956/adobe-shantanu-narayen-ai-firefly-premiere-photoshop-pdf-creativity-commerce)
+ - [Abu Dhabi&#39;s Technology Innovation Institute releases Falcon 2 11B, an open-source LLM to compete with Llama and Gemini that supports five European languages &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/240513/p21#a240513p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

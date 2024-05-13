@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple iPad Pro &lpar;M4, 2024&rpar; Review: Powerful Yet Premature](https://www.wired.com/review/apple-ipad-pro-m4-2024/)
+ - [Apple iPad Pro &lpar;2024&rpar; review: the best kind of overkill](https://www.theverge.com/24155440/apple-ipad-pro-2024-review)
+ - [The new Apple iPad Air is great — but it’s not the one to get](https://www.theverge.com/24155407/apple-ipad-air-review-2024)
  - [iOS 17.5 is here with Repair State &amp; EU Web Distribution](https://appleinsider.com/articles/24/05/13/ios-175-is-here-with-repair-state-eu-web-distribution?utm_medium=rss)
- - [RFK Jr. sues Meta for ‘election interference’ after it temporarily removed a campaign video](https://www.theverge.com/policy/2024/5/13/24155697/rfk-jr-meta-election-interference-lawsuit)
- - [AI Could Be the Key to Making the Smartwatches We Already Own Better     - CNET](https://www.cnet.com/tech/mobile/ai-could-be-the-key-to-making-the-smartwatches-we-already-own-better/#ftag=CAD590a51e)
- - [Roku Will Stream Sunday MLB Games for Free Starting This Week     - CNET](https://www.cnet.com/tech/services-and-software/roku-will-stream-sunday-mlb-games-for-free-starting-this-week/#ftag=CAD590a51e)
- - [Moving? Here&#39;s Everywhere You Need to Change Your Address     - CNET](https://www.cnet.com/how-to/moving-heres-everywhere-you-need-to-change-your-address/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [RFK Jr. sues Meta for ‘election interference’ after it temporarily removed a campaign video](https://www.theverge.com/policy/2024/5/13/24155697/rfk-jr-meta-election-interference-lawsuit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

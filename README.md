@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If we taking things to the extremes](http://9gag.com/gag/aD2wGEx)
- - 😝 [A ball launcher](http://9gag.com/gag/aXPEwo6)
- - 💣 [Oh no.. And she at babies...](http://9gag.com/gag/axy2jXK)
+ - 😝 [Serial rapist who raped and left asian girl disabled for life, asked for leniency because &#39;he was just a kid&#39;, got life sentence instead](http://9gag.com/gag/an7XNLq)
+ - 😝 [Oh no.. And she at babies...](http://9gag.com/gag/axy2jXK)
+ - 💣 [Dad makes sure his child remains a safe distance from the guard.](http://9gag.com/gag/an7XKRL)
  - 😝 [Nadia Murad, a Yezidi, was only 19 when lSlS kidnapped and enslaved her. She was tortured and raped. Her family was killed. Nadia&#39;s book event was cancelled in Canada because \u201cher story could promote Islamophobia\u201d.](http://9gag.com/gag/a9yM7qW)
- - 👉 [When you give the nerdy guy a chance](http://9gag.com/gag/azxLjZq)<!-- MEMES:END -->
+ - 👉 [Friends having fun&lpar;Repost&rpar;](http://9gag.com/gag/azxLAZx)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An Australian judge refuses the eSafety commissioner&#39;s request to extend an order for X to hide a video of a religious leader&#39;s stabbing, without giving reasons &lpar;Stuart Condie/Wall Street Journal&rpar;](http://www.techmeme.com/240513/p11#a240513p11)
  - [The EU designates Booking as a DMA gatekeeper, saying &quot;holidaymakers will start benefiting from more choice and hotels will have more business opportunities&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/240513/p10#a240513p10)
  - [SoftBank reports a $4.6B gain on its Vision Fund in the fiscal year to March 2024, the first gain since 2021, after ByteDance and DoorDash rose in value &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/240513/p9#a240513p9)
  - [Inside the Cult of the Haskell Programmer](https://www.wired.com/story/inside-the-cult-of-the-haskell-programmer/)
- - [The US, the EU, and other superpowers have funneled nearly $81B towards supporting chip companies, the first wave of ~$380B earmarked by global governments &lpar;Bloomberg&rpar;](http://www.techmeme.com/240513/p8#a240513p8)
- - [How GPS warfare is affecting civilian populations; an analysis finds ~40M people lived in areas with unreliable GPS for at least half of the past six months &lpar;Financial Times&rpar;](http://www.techmeme.com/240513/p7#a240513p7)<!-- TECH:END -->
+ - [The US, the EU, and other superpowers have funneled nearly $81B towards supporting chip companies, the first wave of ~$380B earmarked by global governments &lpar;Bloomberg&rpar;](http://www.techmeme.com/240513/p8#a240513p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

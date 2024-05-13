@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Adobe CEO Shantanu Narayen on running Adobe since 2007, new AI features, AI investments, Firefly, monetizing AI, copyright, AI misuse, PDFs, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240513/p23#a240513p23)
  - [Google Pixel 8a review: 120Hz OLED display, strong battery life, excellent cameras, and great value at $499+, but slow wireless charging and thick bezels &lpar;Sam Rutherford/Engadget&rpar;](http://www.techmeme.com/240513/p22#a240513p22)
  - [Microsoft Word just fixed its default paste option](https://www.theverge.com/2024/5/13/24155312/microsoft-word-default-paste-option-merge-formatting)
  - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)
- - [The $2.3 Billion Tornado Cash Case Is a Pivotal Moment for Crypto Privacy](https://www.wired.com/story/tornado-cash-money-laundering-case-crypto-privacy/)
- - [Google Pixel 8A Review: The Best Smartphone](https://www.wired.com/review/google-pixel-8a/)<!-- TECH:END -->
+ - [The $2.3 Billion Tornado Cash Case Is a Pivotal Moment for Crypto Privacy](https://www.wired.com/story/tornado-cash-money-laundering-case-crypto-privacy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

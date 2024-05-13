@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anthropic launches its Claude chatbot and subscription plans in Europe, available to individuals and businesses through the web and via an iPhone app &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240513/p38#a240513p38)
+ - [I Am Once Again Asking Our Tech Overlords to Watch the Whole Movie](https://www.wired.com/story/openai-gpt-4o-chatgpt-artificial-intelligence-her-movie/)
  - [New iPad Pro review roundup: impressive performance held back by iPadOS](https://appleinsider.com/articles/24/05/13/new-ipad-pro-review-roundup-impressive-performance-held-back-by-ipados?utm_medium=rss)
  - [AI gun detection company name-dropped Disney in its successful pitch to NYC](https://www.theverge.com/2024/5/13/24155861/evolv-scanners-ai-gun-detection-nyc-subway-disney-eric-adams)
- - [Q&amp;A with Walt Mossberg and YouTuber Marques Brownlee on tech reviews, handling pushback, YouTube, the issues with paid content, earning people&#39;s trust, and more &lpar;New York Magazine&rpar;](http://www.techmeme.com/240513/p37#a240513p37)
- - [Kyle Vogt, who resigned as Cruise CEO six months ago, raised $150M for The Bot Company, a household robot startup, sources say at a $550M post-money valuation &lpar;Kenrick Cai/Forbes&rpar;](http://www.techmeme.com/240513/p36#a240513p36)
- - [Google’s Pixel 9 lineup appears in hands-on photos five months early](https://www.theverge.com/2024/5/13/24155816/google-9-pro-xl-lineup-leaked-images-design)<!-- TECH:END -->
+ - [Q&amp;A with Walt Mossberg and YouTuber Marques Brownlee on tech reviews, handling pushback, YouTube, the issues with paid content, earning people&#39;s trust, and more &lpar;New York Magazine&rpar;](http://www.techmeme.com/240513/p37#a240513p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That shirt is a little low, isn&#39;t it?](http://9gag.com/gag/ae93YOp)
- - 😝 [The new RTX 5090 power connector.](http://9gag.com/gag/amoLr4v)
- - 💣 [Driving test in Afghanistan](http://9gag.com/gag/a9yMYw0)
- - 😝 [Pakistani driver in Canada tells his passenger that if they were in Pakistan he would kidnap her just because she was a woman and alone. WTF!!!](http://9gag.com/gag/a2vPmmD)
- - 👉 [Almost 100 hours... And that&#39;s all he got?](http://9gag.com/gag/aLnQMAx)<!-- MEMES:END -->
+ - 😝 [I love Irish people!](http://9gag.com/gag/abAqZxL)
+ - 😝 [3000 Islamists took to the streets of Hamburg today. The Salafist organization \u201cMuslim Interaktiv\u201d and the protesters called for German law to be replaced with Sharia Law and for the Caliphate to be established in place of the German state.](http://9gag.com/gag/a87bp2O)
+ - 💣 [Happy Endings, yay](http://9gag.com/gag/ayNp8nq)
+ - 😝 [Happy Mothers day to all the Mums that love their children like Marianne Bachmeier, pictured here at the trial of her daughters Rapist.](http://9gag.com/gag/avyZreW)
+ - 👉 [\u201cEurope, youth, revolution`, French social right takes back Paris.](http://9gag.com/gag/aLnQ25x)<!-- MEMES:END -->
 
 ---
 

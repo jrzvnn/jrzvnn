@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple News Plus is ready to work offline](https://www.theverge.com/2024/5/13/24155638/apple-news-plus-offline-ios-17-5-macos-apple-watch-updates)
+ - [OpenAI&#39;s GPT-4o Model Gives ChatGPT a Snappy, Flirty Upgrade](https://www.wired.com/story/openai-gpt-4o-model-gives-chatgpt-a-snappy-flirty-upgrade/)
  - [Denon adds Siri functionality to its lineup of smart speakers](https://appleinsider.com/articles/24/05/13/denon-adds-siri-functionality-to-its-lineup-of-smart-speakers?utm_medium=rss)
  - [Apple releases iOS 17.5 with cross-platform detection of unwanted tracking devices, EU app downloads from websites, Apple News+ features like offline mode, more &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/240513/p32#a240513p32)
- - [Get Your Next Flight for Free With This Travel Card’s Rare Welcome Bonus     - CNET](https://www.cnet.com/personal-finance/a-free-flight-could-be-yours-if-you-make-one-purchase-with-this-card/#ftag=CAD590a51e)
- - [Cruise is back driving autonomously for the first time since pedestrian-dragging incident](https://www.theverge.com/2024/5/13/24155559/cruise-robotaxi-return-phoenix-autonomous-safety-driver)
- - [OpenAI is releasing a ChatGPT app for Mac first, well ahead of Windows](https://appleinsider.com/articles/24/05/13/openai-is-releasing-a-chatgpt-app-for-mac?utm_medium=rss)<!-- TECH:END -->
+ - [Get Your Next Flight for Free With This Travel Card’s Rare Welcome Bonus     - CNET](https://www.cnet.com/personal-finance/a-free-flight-could-be-yours-if-you-make-one-purchase-with-this-card/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

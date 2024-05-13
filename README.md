@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Welcome to the Laser Wars](https://www.wired.com/story/laser-wars-us-military-laser-weapons/)
  - [A look at the growing number of startups offering AI deepfake detection services, with some claiming startling levels of accuracy despite untested capabilities &lpar;Washington Post&rpar;](http://www.techmeme.com/240513/p5#a240513p5)
  - [Sources: the EU is set to issue new antitrust charges against Microsoft over concerns over undermining Teams competitors, despite Microsoft offering concessions &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240513/p4#a240513p4)
  - [The On-Demand iPhone Password Generator You Didn&#39;t Know You Needed     - CNET](https://www.cnet.com/tech/services-and-software/the-on-demand-iphone-password-generator-you-didnt-know-you-needed/#ftag=CAD590a51e)
- - [As VC firms pivot to investing in startups developing defense tech for the US and its allies, some of their business ties with China still linger &lpar;Heather Somerville/Wall Street Journal&rpar;](http://www.techmeme.com/240513/p3#a240513p3)
- - [Is It Cheaper to Hire Movers or Do It Yourself? We Do the Math     - CNET](https://www.cnet.com/home/services/is-it-cheaper-to-hire-movers-or-do-it-yourself-we-do-the-math/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [As VC firms pivot to investing in startups developing defense tech for the US and its allies, some of their business ties with China still linger &lpar;Heather Somerville/Wall Street Journal&rpar;](http://www.techmeme.com/240513/p3#a240513p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

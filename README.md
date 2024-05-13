@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US NHTSA opens an investigation into Amazon&#39;s Zoox after two automated SUVs braked unexpectedly, both causing collisions with motorcyclists &lpar;Keith Laing/Bloomberg&rpar;](http://www.techmeme.com/240513/p14#a240513p14)
  - [The US and China are set to hold their first high-level AI talks on May 14 in Geneva, as the governments seek to prevent disastrous accidents and unintended war &lpar;Eva Dou/Washington Post&rpar;](http://www.techmeme.com/240513/p13#a240513p13)
  - [Christie&#39;s confirms eight auctions will proceed this week after a &quot;technology security issue&quot; on May 9 knocked its website offline, the second breach in a year &lpar;Zachary Small/New York Times&rpar;](http://www.techmeme.com/240513/p12#a240513p12)
  - [Generative AI Doesn’t Make Hardware Less Hard](https://www.wired.com/story/generative-ai-doesnt-make-hardware-less-hard/)
- - [An Australian judge refuses the eSafety commissioner&#39;s request to extend an order for X to hide a video of a religious leader&#39;s stabbing, without giving reasons &lpar;Stuart Condie/Wall Street Journal&rpar;](http://www.techmeme.com/240513/p11#a240513p11)
- - [Bright Future for Renewables: Solar Drives Energy Growth in 2024     - CNET](https://www.cnet.com/home/energy-and-utilities/bright-future-for-renewables-solar-drives-energy-growth-in-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An Australian judge refuses the eSafety commissioner&#39;s request to extend an order for X to hide a video of a religious leader&#39;s stabbing, without giving reasons &lpar;Stuart Condie/Wall Street Journal&rpar;](http://www.techmeme.com/240513/p11#a240513p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

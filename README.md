@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The best is Red Eric](http://9gag.com/gag/aYQpxMV)
- - 😝 [Chernobyl&#39;s elephant foot](http://9gag.com/gag/axy2jLb)
- - 💣 [When I said I wanted to remodel the bathroom I didn\u2019t realize I was going to make it bigger.](http://9gag.com/gag/aO8yzn2)
- - 😝 [Happy Endings, yay](http://9gag.com/gag/ayNp8nq)
- - 👉 [Pakistani driver in Canada tells his passenger that if they were in Pakistan he would kidnap her just because she was a woman and alone. WTF!!!](http://9gag.com/gag/a2vPmmD)<!-- MEMES:END -->
+ - 😝 [This is Poland. What do you notice?](http://9gag.com/gag/a9yMW2o)
+ - 😝 [When I said I wanted to remodel the bathroom I didn\u2019t realize I was going to make it bigger.](http://9gag.com/gag/aO8yzn2)
+ - 💣 [Pakistani driver in Canada tells his passenger that if they were in Pakistan he would kidnap her just because she was a woman and alone. WTF!!!](http://9gag.com/gag/a2vPmmD)
+ - 😝 [\u201cEurope, youth, revolution`, French social right takes back Paris.](http://9gag.com/gag/aLnQ25x)
+ - 👉 [That shirt is a little low, isn&#39;t it?](http://9gag.com/gag/ae93YOp)<!-- MEMES:END -->
 
 ---
 

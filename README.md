@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pakistani driver in Canada tells his passenger that if they were in Pakistan he would kidnap her just because she was a woman and alone. WTF!!!](http://9gag.com/gag/a2vPmmD)
- - 😝 [That shirt is a little low, isn&#39;t it?](http://9gag.com/gag/ae93YOp)
- - 💣 [One reload for the cost of three](http://9gag.com/gag/aAyVPDE)
- - 😝 [Almost 100 hours... And that&#39;s all he got?](http://9gag.com/gag/aLnQMAx)
- - 👉 [You get what you f*cking deserve](http://9gag.com/gag/aW408E2)<!-- MEMES:END -->
+ - 😝 [Help i accidentaly built a jeep](http://9gag.com/gag/avyZGxM)
+ - 😝 [When you give the nerdy guy a chance](http://9gag.com/gag/azxLjZq)
+ - 💣 [Friends having fun&lpar;Repost&rpar;](http://9gag.com/gag/azxLAZx)
+ - 😝 [When I said I wanted to remodel the bathroom I didn\u2019t realize I was going to make it bigger.](http://9gag.com/gag/aO8yzn2)
+ - 👉 [Her: He is propably cheating on me! - Him:](http://9gag.com/gag/aLnQ2Yz)<!-- MEMES:END -->
 
 ---
 

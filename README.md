@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How GPS warfare is affecting civilian populations; an analysis finds ~40M people lived in areas with unreliable GPS for at least half of the past six months &lpar;Financial Times&rpar;](http://www.techmeme.com/240513/p7#a240513p7)
  - [US farmers had to halt their planting operations after the solar storm broke critical GPS and precision farming functionality in tractors and other equipment &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240513/p6#a240513p6)
  - [Welcome to the Laser Wars](https://www.wired.com/story/laser-wars-us-military-laser-weapons/)
  - [A look at the growing number of startups offering AI deepfake detection services, with some claiming startling levels of accuracy despite untested capabilities &lpar;Washington Post&rpar;](http://www.techmeme.com/240513/p5#a240513p5)
- - [Sources: the EU is set to issue new antitrust charges against Microsoft over concerns over undermining Teams competitors, despite Microsoft offering concessions &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240513/p4#a240513p4)
- - [The On-Demand iPhone Password Generator You Didn&#39;t Know You Needed     - CNET](https://www.cnet.com/tech/services-and-software/the-on-demand-iphone-password-generator-you-didnt-know-you-needed/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: the EU is set to issue new antitrust charges against Microsoft over concerns over undermining Teams competitors, despite Microsoft offering concessions &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240513/p4#a240513p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

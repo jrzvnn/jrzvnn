@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony Interactive Entertainment announces two new CEOs: Hermen Hulst, who will lead studios, and Hideaki Nishino, who will lead platforms, effective June 1 &lpar;Christopher Dring/GamesIndustry.biz&rpar;](http://www.techmeme.com/240513/p42#a240513p42)
  - [The Dyson WashG1 Is an All-in-One Wet Floor Cleaner That Doesn’t Use Suction](https://www.wired.com/story/dyson-wash-g1/)
  - [The WashG1 is Dyson’s first mop](https://www.theverge.com/2024/5/13/24155775/dyson-washg1-mop-price-specs-release-date)
  - [Internal emails show how Evolv&#39;s gun-detection AI system made its way to NYC subway stations, despite the company saying it&#39;s not designed for that environment &lpar;Georgia Gee/Wired&rpar;](http://www.techmeme.com/240513/p41#a240513p41)
- - [TikTok is testing AI-generated search results](https://www.theverge.com/2024/5/13/24155875/tiktok-ai-generated-search-results-highlights-chatgpt)
- - [Rumble sues Google, saying it owes Rumble $1B+ in damages for lost ad revenue, and for exploiting its ad tech dominance to hamper Rumble&#39;s ability to compete &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/240513/p40#a240513p40)<!-- TECH:END -->
+ - [TikTok is testing AI-generated search results](https://www.theverge.com/2024/5/13/24155875/tiktok-ai-generated-search-results-highlights-chatgpt)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

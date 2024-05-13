@@ -174,10 +174,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Dead inside...](http://9gag.com/gag/aD2wGPK)
- - 😝 [A normal debate...](http://9gag.com/gag/aQzp9Mq)
- - 💣 [Calcification on breast-implant](http://9gag.com/gag/a7oK7Yb)
- - 😝 [Morocco&#39;s under 13 vs Guinea&#39;s under 13 and guess who won?](http://9gag.com/gag/aE0GRpK)
- - 👉 [When I said I wanted to remodel the bathroom I didn\u2019t realize I was going to make it bigger.](http://9gag.com/gag/aO8yzn2)<!-- MEMES:END -->
+ - 😝 [Chernobyl&#39;s elephant foot](http://9gag.com/gag/axy2jLb)
+ - 💣 [I used to use them.](http://9gag.com/gag/aByQ8d1)
+ - 😝 [When I said I wanted to remodel the bathroom I didn\u2019t realize I was going to make it bigger.](http://9gag.com/gag/aO8yzn2)
+ - 👉 [Where are they boys?](http://9gag.com/gag/aAyVPog)<!-- MEMES:END -->
 
 ---
 

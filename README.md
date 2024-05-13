@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [13-inch tablet power compared -- iPad Pro vs iPad Air](https://appleinsider.com/inside/ipad-pro/vs/13-inch-tablet-power-compared----ipad-pro-vs-ipad-air?utm_medium=rss)
+ - [Sources: in recent months, China asked ByteDance, Tencent, Alibaba, Baidu, and others to cut back on Nvidia purchases in favor of chips made by local companies &lpar;Qianer Liu/The Information&rpar;](http://www.techmeme.com/240513/p20#a240513p20)
+ - [Yamaha NS-600A Review: Tonally Bright, Viscerally Moving](https://www.wired.com/review/yamaha-ns-600a/)
  - [The best apps to turn any iPad into a powerful audio editor](https://appleinsider.com/inside/ipad/best/the-best-apps-to-turn-any-ipad-into-a-powerful-audio-editor?utm_medium=rss)
- - [Flagship iPad head-to-head -- M4 iPad Pro vs M2 iPad Pro compared](https://appleinsider.com/inside/ipad-pro/vs/flagship-ipad-head-to-head----m4-ipad-pro-vs-m2-ipad-pro-compared?utm_medium=rss)
- - [Deals: Apple&#39;s M3 14-inch MacBook Pro with 16GB RAM drops to $1,599](https://appleinsider.com/articles/24/05/13/deals-apples-m3-14-inch-macbook-pro-with-16gb-ram-drops-to-1599?utm_medium=rss)
- - [Sources: Intel is in advanced, exclusive talks for a deal in which Apollo Global Management would supply $11B+ to help the chip giant build a plant in Ireland &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240513/p19#a240513p19)
- - [Stop spam calls at the source by fighting data brokers with Incogni](https://appleinsider.com/articles/24/05/13/stop-spam-calls-at-the-source-by-fighting-data-brokers-with-incogni?utm_medium=rss)<!-- TECH:END -->
+ - [Flagship iPad head-to-head -- M4 iPad Pro vs M2 iPad Pro compared](https://appleinsider.com/inside/ipad-pro/vs/flagship-ipad-head-to-head----m4-ipad-pro-vs-m2-ipad-pro-compared?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

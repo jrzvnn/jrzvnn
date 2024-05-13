@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Calcification on breast-implant](http://9gag.com/gag/a7oK7Yb)
- - 😝 [This is Poland. What do you notice?](http://9gag.com/gag/a9yMW2o)
- - 💣 [The new RTX 5090 power connector.](http://9gag.com/gag/amoLr4v)
- - 😝 [Dead inside...](http://9gag.com/gag/aD2wGPK)
- - 👉 [When I said I wanted to remodel the bathroom I didn\u2019t realize I was going to make it bigger.](http://9gag.com/gag/aO8yzn2)<!-- MEMES:END -->
+ - 😝 [3000 Islamists took to the streets of Hamburg today. The Salafist organization \u201cMuslim Interaktiv\u201d and the protesters called for German law to be replaced with Sharia Law and for the Caliphate to be established in place of the German state.](http://9gag.com/gag/a87bp2O)
+ - 😝 [When I said I wanted to remodel the bathroom I didn\u2019t realize I was going to make it bigger.](http://9gag.com/gag/aO8yzn2)
+ - 💣 [Calcification on breast-implant](http://9gag.com/gag/a7oK7Yb)
+ - 😝 [Chernobyl&#39;s elephant foot](http://9gag.com/gag/axy2jLb)
+ - 👉 [Happy Mothers day to all the Mums that love their children like Marianne Bachmeier, pictured here at the trial of her daughters Rapist.](http://9gag.com/gag/avyZreW)<!-- MEMES:END -->
 
 ---
 

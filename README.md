@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Music launches a top 100 Best Albums list guaranteed to be controversial](https://appleinsider.com/articles/24/05/13/apple-music-launches-a-top-100-best-albums-list-guaranteed-to-be-controversial?utm_medium=rss)
- - [9 Best Sex Toy Deals for Masturbation May: Suction Toys, Vibrators, and More](https://www.wired.com/story/best-sex-toy-deals-for-masturbation-may-2024/)
+ - [Abu Dhabi&#39;s Technology Innovation Institute releases Falcon 2 11B, an open-source LLM to compete with Llama and Gemini that supports five European languages &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/240513/p21#a240513p21)
+ - [Amazon’s robotaxi company is under investigation after two crashes with motorcyclists](https://www.theverge.com/2024/5/13/24155272/amazon-zoox-robotaxi-crash-motorcyclists-rear-end)
  - [13-inch tablet power compared -- iPad Pro vs iPad Air](https://appleinsider.com/inside/ipad-pro/vs/13-inch-tablet-power-compared----ipad-pro-vs-ipad-air?utm_medium=rss)
- - [Sources: in recent months, China asked ByteDance, Tencent, Alibaba, Baidu, and others to cut back on Nvidia purchases in favor of chips made by local companies &lpar;Qianer Liu/The Information&rpar;](http://www.techmeme.com/240513/p20#a240513p20)
- - [Yamaha NS-600A Review: Tonally Bright, Viscerally Moving](https://www.wired.com/review/yamaha-ns-600a/)<!-- TECH:END -->
+ - [Apple Music launches a top 100 Best Albums list guaranteed to be controversial](https://appleinsider.com/articles/24/05/13/apple-music-launches-a-top-100-best-albums-list-guaranteed-to-be-controversial?utm_medium=rss)
+ - [9 Best Sex Toy Deals for Masturbation May: Suction Toys, Vibrators, and More](https://www.wired.com/story/best-sex-toy-deals-for-masturbation-may-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

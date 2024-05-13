@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Internal Emails Show How a Controversial Gun-Detection System Found Its Way to NYC](https://www.wired.com/story/evolv-gun-detection-nyc-subways-emails/)
+ - [Ikea is adding energy monitoring to its Home Smart app](https://www.theverge.com/2024/5/13/24155302/ikea-energy-insights-home-smart-app-feature)
+ - [Live stream of OpenAI&#39;s Spring Update event, where the company says it will demo some ChatGPT and GPT-4 updates &lpar;OpenAI on YouTube&rpar;](http://www.techmeme.com/240513/p27#a240513p27)
  - [Apple Vision Pro expected to arrive in more markets after WWDC](https://appleinsider.com/articles/24/05/13/apple-vision-pro-expected-to-arrive-in-more-markets-after-wwdc?utm_medium=rss)
- - [How to type special characters on a Windows PC](https://www.theverge.com/22351023/windows-pc-special-characters-how-to)
- - [Meta Quest’s new Travel Mode will put more glassholes on your next flight](https://www.theverge.com/2024/5/13/24155396/meta-quest-airplane-passthrough-travel-mode-experimental-feature)
- - [As crypto flows into Tornado Cash despite sanctions, a look at the trial against its co-founder, who says he cannot prevent abuse of a system beyond his control &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/240513/p26#a240513p26)
- - [I Tried Cooking Salmon in the Air Fryer and I&#39;m Never Going Back     - CNET](https://www.cnet.com/news/i-tried-cooking-salmon-in-the-air-fryer-and-im-never-going-back/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to type special characters on a Windows PC](https://www.theverge.com/22351023/windows-pc-special-characters-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

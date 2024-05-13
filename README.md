@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pakistani driver in Canada tells his passenger that if they were in Pakistan he would kidnap her just because she was a woman and alone. WTF!!!](http://9gag.com/gag/a2vPmmD)
- - 😝 [One reload for the cost of three](http://9gag.com/gag/aAyVPDE)
- - 💣 [Chernobyl&#39;s elephant foot](http://9gag.com/gag/axy2jLb)
- - 😝 [The new RTX 5090 power connector.](http://9gag.com/gag/amoLr4v)
- - 👉 [Happy Endings, yay](http://9gag.com/gag/ayNp8nq)<!-- MEMES:END -->
+ - 😝 [This is Poland. What do you notice?](http://9gag.com/gag/a9yMW2o)
+ - 😝 [Chernobyl&#39;s elephant foot](http://9gag.com/gag/axy2jLb)
+ - 💣 [Driving test in Afghanistan](http://9gag.com/gag/a9yMYw0)
+ - 😝 [Almost 100 hours... And that&#39;s all he got?](http://9gag.com/gag/aLnQMAx)
+ - 👉 [Calcification on breast-implant](http://9gag.com/gag/a7oK7Yb)<!-- MEMES:END -->
 
 ---
 

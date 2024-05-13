@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at 01.AI, which is launching Wanzhi, a free generative AI assistant focused on the Chinese market; CEO Kai-Fu Lee says 01.AI is nearing profitability &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240512/p10#a240512p10)
  - [Today&#39;s NYT Connections Hints and Answers: Help for May 13, #337     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hint-answer-for-may-13-337/#ftag=CAD590a51e)
  - [Today&#39;s Wordle Hints and Answer: Help for May 13, #1059     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-and-answer-help-for-may-13-1059/#ftag=CAD590a51e)
  - [A look at how Elon Musk uses X to support right-wing world leaders like Narendra Modi who could help secure advantages for his businesses &lpar;New York Times&rpar;](http://www.techmeme.com/240512/p9#a240512p9)
- - [A look at the rise and fall of 2U, which provides online degree programs for top US universities, and is valued at ~$30M today, down from $5B+ in 2018 &lpar;Melissa Korn/Wall Street Journal&rpar;](http://www.techmeme.com/240512/p8#a240512p8)
- - [Best Teeth-Whitening Strips of 2024     - CNET](https://www.cnet.com/health/personal-care/best-teeth-whitening-strips/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at the rise and fall of 2U, which provides online degree programs for top US universities, and is valued at ~$30M today, down from $5B+ in 2018 &lpar;Melissa Korn/Wall Street Journal&rpar;](http://www.techmeme.com/240512/p8#a240512p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPad, iPad Air, iPad Pro buyer&#39;s guide May 2024: which iPad to buy for any budget](https://appleinsider.com/articles/24/05/10/ipad-ipad-air-ipad-pro-buyers-guide-may-2024-which-ipad-to-buy-for-any-budget?utm_medium=rss)
+ - [Squarespace says private equity firm Permira plans to take the company private in a $6.9B all-cash deal, or $44 per share, a 15.2% premium on Friday&#39;s close &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/240513/p15#a240513p15)
  - [The US NHTSA opens an investigation into Amazon&#39;s Zoox after two automated SUVs braked unexpectedly, both causing collisions with motorcyclists &lpar;Keith Laing/Bloomberg&rpar;](http://www.techmeme.com/240513/p14#a240513p14)
  - [The US and China are set to hold their first high-level AI talks on May 14 in Geneva, as the governments seek to prevent disastrous accidents and unintended war &lpar;Eva Dou/Washington Post&rpar;](http://www.techmeme.com/240513/p13#a240513p13)
- - [Christie&#39;s confirms eight auctions will proceed this week after a &quot;technology security issue&quot; on May 9 knocked its website offline, the second breach in a year &lpar;Zachary Small/New York Times&rpar;](http://www.techmeme.com/240513/p12#a240513p12)
- - [Generative AI Doesn’t Make Hardware Less Hard](https://www.wired.com/story/generative-ai-doesnt-make-hardware-less-hard/)
- - [An Australian judge refuses the eSafety commissioner&#39;s request to extend an order for X to hide a video of a religious leader&#39;s stabbing, without giving reasons &lpar;Stuart Condie/Wall Street Journal&rpar;](http://www.techmeme.com/240513/p11#a240513p11)<!-- TECH:END -->
+ - [Christie&#39;s confirms eight auctions will proceed this week after a &quot;technology security issue&quot; on May 9 knocked its website offline, the second breach in a year &lpar;Zachary Small/New York Times&rpar;](http://www.techmeme.com/240513/p12#a240513p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

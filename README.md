@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [9 Best Sex Toy Deals for Masturbation May: Suction Toys, Vibrators, and More](https://www.wired.com/story/best-sex-toy-deals-for-masturbation-may-2024/)
  - [13-inch tablet power compared -- iPad Pro vs iPad Air](https://appleinsider.com/inside/ipad-pro/vs/13-inch-tablet-power-compared----ipad-pro-vs-ipad-air?utm_medium=rss)
  - [Sources: in recent months, China asked ByteDance, Tencent, Alibaba, Baidu, and others to cut back on Nvidia purchases in favor of chips made by local companies &lpar;Qianer Liu/The Information&rpar;](http://www.techmeme.com/240513/p20#a240513p20)
  - [Yamaha NS-600A Review: Tonally Bright, Viscerally Moving](https://www.wired.com/review/yamaha-ns-600a/)
- - [The best apps to turn any iPad into a powerful audio editor](https://appleinsider.com/inside/ipad/best/the-best-apps-to-turn-any-ipad-into-a-powerful-audio-editor?utm_medium=rss)
- - [Flagship iPad head-to-head -- M4 iPad Pro vs M2 iPad Pro compared](https://appleinsider.com/inside/ipad-pro/vs/flagship-ipad-head-to-head----m4-ipad-pro-vs-m2-ipad-pro-compared?utm_medium=rss)<!-- TECH:END -->
+ - [The best apps to turn any iPad into a powerful audio editor](https://appleinsider.com/inside/ipad/best/the-best-apps-to-turn-any-ipad-into-a-powerful-audio-editor?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

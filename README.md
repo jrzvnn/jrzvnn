@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bad boys what you gonna do?](http://9gag.com/gag/aGyV1b0)
- - 😝 [Eurovision](http://9gag.com/gag/abAqpVX)
- - 💣 [In Switzerland, a mobile overpass bridge is used to carry out road work without stopping traffic](http://9gag.com/gag/aXPEwg2)
  - 😝 [Happy Mothers day to all the Mums that love their children like Marianne Bachmeier, pictured here at the trial of her daughters Rapist.](http://9gag.com/gag/avyZreW)
- - 👉 [This is what i see](http://9gag.com/gag/aryebBX)<!-- MEMES:END -->
+ - 😝 [When you give the nerdy guy a chance](http://9gag.com/gag/azxLjZq)
+ - 💣 [What an unexpected response :&rpar;](http://9gag.com/gag/azxLVXj)
+ - 😝 [When I said I wanted to remodel the bathroom I didn\u2019t realize I was going to make it bigger.](http://9gag.com/gag/aO8yzn2)
+ - 👉 [Dead inside...](http://9gag.com/gag/aD2wGPK)<!-- MEMES:END -->
 
 ---
 

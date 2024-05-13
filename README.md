@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 8A Review: The Best Smartphone](https://www.wired.com/review/google-pixel-8a/)
- - [TCL’s new Mini LED TVs offer blazing brightness on a budget](https://www.theverge.com/2024/5/13/24155276/tcl-qm8-qm7-q-s-2024-tvs-price-features)
- - [The Pixel 8A and the camera you have with you](https://www.theverge.com/24154473/google-pixel-8a-camera-hands-on)
- - [Why Adobe CEO Shantanu Narayen is confident we’ll all adapt to AI](https://www.theverge.com/24153956/adobe-shantanu-narayen-ai-firefly-premiere-photoshop-pdf-creativity-commerce)
- - [Abu Dhabi&#39;s Technology Innovation Institute releases Falcon 2 11B, an open-source LLM to compete with Llama and Gemini that supports five European languages &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/240513/p21#a240513p21)<!-- TECH:END -->
+ - [Google Pixel 8a review: 120Hz OLED display, strong battery life, excellent cameras, and great value at $499+, but slow wireless charging and thick bezels &lpar;Sam Rutherford/Engadget&rpar;](http://www.techmeme.com/240513/p22#a240513p22)
+ - [Microsoft Word just fixed its default paste option](https://www.theverge.com/2024/5/13/24155312/microsoft-word-default-paste-option-merge-formatting)
+ - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)
+ - [The $2.3 Billion Tornado Cash Case Is a Pivotal Moment for Crypto Privacy](https://www.wired.com/story/tornado-cash-money-laundering-case-crypto-privacy/)
+ - [Google Pixel 8A Review: The Best Smartphone](https://www.wired.com/review/google-pixel-8a/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Brazil is not for beginners](http://9gag.com/gag/ayNpx6q)
- - 😝 [Happy Mothers day to all the Mums that love their children like Marianne Bachmeier, pictured here at the trial of her daughters Rapist.](http://9gag.com/gag/avyZreW)
- - 💣 [This is Poland. What do you notice?](http://9gag.com/gag/a9yMW2o)
  - 😝 [A normal debate...](http://9gag.com/gag/aQzp9Mq)
+ - 😝 [Almost 100 hours... And that&#39;s all he got?](http://9gag.com/gag/aLnQMAx)
+ - 💣 [The best is Red Eric](http://9gag.com/gag/aYQpxMV)
+ - 😝 [Happy Mothers day to all the Mums that love their children like Marianne Bachmeier, pictured here at the trial of her daughters Rapist.](http://9gag.com/gag/avyZreW)
  - 👉 [Guy will do anything to get laid on prom night](http://9gag.com/gag/an7XMGo)<!-- MEMES:END -->
 
 ---

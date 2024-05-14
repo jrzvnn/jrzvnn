@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US NHTSA opens an investigation into Alphabet&#39;s Waymo, covering an estimated 444 vehicles and following 22 reports of 22 incidents, including 17 collisions &lpar;Reuters&rpar;](http://www.techmeme.com/240514/p12#a240514p12)
  - [iPad and Mac don&#39;t compete against each other, so buy both says Apple exec](https://appleinsider.com/articles/24/05/14/ipad-and-mac-dont-compete-against-each-other-so-buy-both-says-apple-exec?utm_medium=rss)
  - [Alibaba reports Q4 revenue up 6.6% YoY to ~$30.7B, above $30.4B est., a ~$452M net income, down 86% YoY from ~$3.2B in Q4 2023, and announces a $4B dividend &lpar;Sarah Zheng/Bloomberg&rpar;](http://www.techmeme.com/240514/p11#a240514p11)
  - [There’s Nothing Revolutionary About ‘Morning After the Revolution’](https://www.wired.com/story/morning-after-the-revolution-nellie-bowles-book/)
- - [Source: at a private event, Google demonstrated a Chromium OS build running in a virtual machine on a Pixel 8, but did not say if this build would ever ship &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/240514/p10#a240514p10)
- - [New iPad Pro OLED screens have a HDR color bug](https://appleinsider.com/articles/24/05/13/ipad-pro-oled-hdr-color-peaking-bug-to-be-corrected-with-software-update?utm_medium=rss)<!-- TECH:END -->
+ - [Source: at a private event, Google demonstrated a Chromium OS build running in a virtual machine on a Pixel 8, but did not say if this build would ever ship &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/240514/p10#a240514p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

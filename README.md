@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPads finally get battery health info and adaptive charging, but only the new ones](https://www.theverge.com/2024/5/14/24156362/apple-ipad-pro-air-battery-charge-health-limit-cycle-count)
  - [Eight TikTok creators file their own suit against the divest-or-ban law](https://www.theverge.com/2024/5/14/24156778/tiktok-creators-sue-us-divest-or-ban-law)
  - [Microsoft releases a fix for VPN connection failures on Windows 11, 10, and Server 2008 or later, that was caused by the April 2024 Windows security updates &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240514/p49#a240514p49)
  - [Sonos customers unleash frustrations over redesigned app in community AMA](https://www.theverge.com/2024/5/14/24156703/sonos-app-redesign-new-ama-complaints)
- - [Google’s new LearnLM AI model focuses on education](https://www.theverge.com/2024/5/14/24156438/google-ai-education-model-learnlm)
- - [David Sacks reveals Glue, an employee chat app designed around topic-based threads and embedded GenAI models, and opens a waitlist for companies to sign up &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/240514/p48#a240514p48)<!-- TECH:END -->
+ - [Google’s new LearnLM AI model focuses on education](https://www.theverge.com/2024/5/14/24156438/google-ai-education-model-learnlm)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

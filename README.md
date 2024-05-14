@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google expands its SynthID watermark imprinting system to AI-generated video and text; the tool can already attempt to detect AI-generated images and audio &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/240514/p39#a240514p39)
+ - [Google launches Firebase Genkit, an open-source framework that uses the Apache 2.0 license, in beta to let developers build, deploy, and monitor AI-powered apps &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240514/p38#a240514p38)
+ - [The Blink Mini 2 security cam is an even better value now that it’s on sale for $30](https://www.theverge.com/2024/5/14/24156352/blink-mini-2-security-camera-apple-ipad-10th-gen-deal-sale)
  - [Google says Gemini Nano is now built into Chrome on desktop, with plans to use it to power features like the existing &quot;help me write&quot; tool &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240514/p37#a240514p37)
- - [Google unveils Gemini Pro in Workspace Labs, shipping later this month, that lets users summarize emails by topic and more, like &quot;compare my roof repair bids&quot; &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/240514/p36#a240514p36)
- - [Google unveils additions to Gemma, its family of open models, including Gemma 2, a 27B parameter model, debuting in June, and PaliGemma, a vision language model &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240514/p35#a240514p35)
- - [Google announces Trillium, its new Google Cloud TPU that has 4.7 times better computing performance compared with the TPU v5e and is 67% more energy efficient &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/240514/p34#a240514p34)
- - [&#39;Hades 2&#39; Proves Lightning Can Strike Twice](https://www.wired.com/story/hades-ii-first-impressions/)<!-- TECH:END -->
+ - [Google unveils Gemini Pro in Workspace Labs, shipping later this month, that lets users summarize emails by topic and more, like &quot;compare my roof repair bids&quot; &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/240514/p36#a240514p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

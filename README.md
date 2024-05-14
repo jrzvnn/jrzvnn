@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UK newspapers tell Apple its &#39;web eraser&#39; will put journalism at risk](https://appleinsider.com/articles/24/05/13/uk-newspapers-tell-apple-its-web-eraser-will-put-journalism-at-risk?utm_medium=rss)
+ - [Internal email: Amazon CEO Andy Jassy says AWS CEO Adam Selipsky is stepping down &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/240514/p16#a240514p16)
  - [Amazon Web Services CEO to step down](https://www.theverge.com/2024/5/14/24156306/amazon-web-services-aws-ceo-stepping-down)
  - [Comcast CEO Brian Roberts says Comcast will launch StreamSaver, a bundle with Peacock, Netflix, and Apple TV+, later this month at a &quot;vastly discounted price&quot; &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240514/p15#a240514p15)
- - [Nicolas Cage is back as Spider-Man in live-action Amazon series](https://www.theverge.com/2024/5/14/24156273/nicolas-cage-spider-man-noir-amazon-prime-video)
- - [On The Vergecast: iPad wins, Sonos misses, and right-to-repair tales](https://www.theverge.com/24156263/ipad-pro-sonos-app-right-to-repair-vergecast)
- - [Megalopolis’ first teaser makes it look like everything Coppola dreamt it would be](https://www.theverge.com/24156254/megalopolis-trailer-francis-ford-coppola)<!-- TECH:END -->
+ - [Nicolas Cage is back as Spider-Man in live-action Amazon series](https://www.theverge.com/2024/5/14/24156273/nicolas-cage-spider-man-noir-amazon-prime-video)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [With OpenAI&#39;s Release of GPT-4o, Is ChatGPT Plus Still Worth It?](https://www.wired.com/story/with-gpt-4o-is-chatgpt-plus-still-worth-it/)
+ - [This Turntable Is Perfect for a Beginner Collector     - CNET](https://www.cnet.com/deals/this-turntable-is-the-perfect-pick-for-a-beginner-collector/#ftag=CAD590a51e)
+ - [With OpenAI’s Release of GPT-4o, Is ChatGPT Plus Still Worth It?](https://www.wired.com/story/with-gpt-4o-is-chatgpt-plus-still-worth-it/)
  - [Mexico-based BNPL startup Aplazo raised a $45M Series B led by QED Investors, bringing its total raised to $100M+ in equity and $75M in committed debt &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/240513/p45#a240513p45)
- - [Everything OpenAI Announced at Its Spring Update Event video     - CNET](https://www.cnet.com/videos/everything-openai-announced-at-its-spring-update-event/#ftag=CAD590a51e)
- - [Pepper, which provides tools for order management, invoicing, and more for independent food distributors, raised a $30M Series B led by Iconiq Growth &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/240513/p44#a240513p44)
- - [Today&#39;s Wordle Hints and Answer: Help for May 14, #1060     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-and-answer-help-for-may-14-1060/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Outer Range&#39; Season 2 on Prime Video: Release Date and Time     - CNET](https://www.cnet.com/tech/services-and-software/outer-range-season-2-on-prime-video-release-date-and-time/#ftag=CAD590a51e)
+ - [Everything OpenAI Announced at Its Spring Update Event video     - CNET](https://www.cnet.com/videos/everything-openai-announced-at-its-spring-update-event/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

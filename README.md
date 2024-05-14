@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Nippy](http://9gag.com/gag/aqyZ73v)
+ - 😝 [Claw game so rigged that investigator can&#39;t force a win](http://9gag.com/gag/aD2w1A9)
+ - 💣 [Times Square is seen taken over. I don\u2019t even know what to say about this.](http://9gag.com/gag/aYQpgVx)
  - 😝 [Final destination vibes](http://9gag.com/gag/a5QNMdO)
- - 😝 [The new ChatGPT is `Her`](http://9gag.com/gag/a87b31Q)
- - 💣 [Brazil is not for beginners](http://9gag.com/gag/ayNpx6q)
- - 😝 [A normal debate...](http://9gag.com/gag/aQzp9Mq)
- - 👉 [Guy will do anything to get laid on prom night](http://9gag.com/gag/an7XMGo)<!-- MEMES:END -->
+ - 👉 [Normal day in Australia](http://9gag.com/gag/a34dKR8)<!-- MEMES:END -->
 
 ---
 

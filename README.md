@@ -173,11 +173,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [We do a little spring cleaning.](http://9gag.com/gag/aQzp3PW)
  - 😝 [Happy Mothers day to all the Mums that love their children like Marianne Bachmeier, pictured here at the trial of her daughters Rapist.](http://9gag.com/gag/avyZreW)
- - 😝 [Chernobyl&#39;s elephant foot](http://9gag.com/gag/axy2jLb)
- - 💣 [Calcification on breast-implant](http://9gag.com/gag/a7oK7Yb)
- - 😝 [When I said I wanted to remodel the bathroom I didn\u2019t realize I was going to make it bigger.](http://9gag.com/gag/aO8yzn2)
- - 👉 [A normal debate...](http://9gag.com/gag/aQzp9Mq)<!-- MEMES:END -->
+ - 💣 [When I said I wanted to remodel the bathroom I didn\u2019t realize I was going to make it bigger.](http://9gag.com/gag/aO8yzn2)
+ - 😝 [Help i accidentaly built a jeep](http://9gag.com/gag/avyZGxM)
+ - 👉 [This is what i see](http://9gag.com/gag/aryebBX)<!-- MEMES:END -->
 
 ---
 

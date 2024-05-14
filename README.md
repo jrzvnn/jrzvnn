@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Setapp&#39;s third-party EU app store to launch on May 14](https://appleinsider.com/articles/24/05/14/setapps-third-party-eu-app-store-to-launch-on-may-14?utm_medium=rss)
  - [OpenAI&#39;s new ChatGPT voice assistant jokes, chides, apologizes, pretends to blush, and deals with interruptions, aided by building GPT-4o as a single model &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/240514/p8#a240514p8)
  - [Intel announces another Foundry leadership change, naming Marvell executive Kevin O&#39;Buckley as SVP, replacing longtime executive Stu Pann, in the role a year &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/240514/p7#a240514p7)
  - [The US plans to sharply raise tariffs on imports from China including semiconductors, EVs, and batteries, impacting $18B of products; chip tariffs start in 2025 &lpar;Demetri Sevastopulo/Financial Times&rpar;](http://www.techmeme.com/240514/p6#a240514p6)
- - [Tencent reports Q1 revenue up 6% YoY to ~$22B, above ~$21.95B est., and net profit up 62% YoY to ~$5.8B, above ~$4.8B est., boosted by new WeChat monetization &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/240514/p5#a240514p5)
- - [How to Watch Google I/O 2024, and What to Expect](https://www.wired.com/story/google-io-2024-how-to-watch-what-to-expect/)<!-- TECH:END -->
+ - [Tencent reports Q1 revenue up 6% YoY to ~$22B, above ~$21.95B est., and net profit up 62% YoY to ~$5.8B, above ~$4.8B est., boosted by new WeChat monetization &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/240514/p5#a240514p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

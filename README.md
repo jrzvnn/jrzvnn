@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We do a little spring cleaning.](http://9gag.com/gag/aQzp3PW)
- - 😝 [Happy Mothers day to all the Mums that love their children like Marianne Bachmeier, pictured here at the trial of her daughters Rapist.](http://9gag.com/gag/avyZreW)
- - 💣 [When I said I wanted to remodel the bathroom I didn\u2019t realize I was going to make it bigger.](http://9gag.com/gag/aO8yzn2)
- - 😝 [Help i accidentaly built a jeep](http://9gag.com/gag/avyZGxM)
- - 👉 [This is what i see](http://9gag.com/gag/aryebBX)<!-- MEMES:END -->
+ - 😝 [3000 Islamists took to the streets of Hamburg today. The Salafist organization \u201cMuslim Interaktiv\u201d and the protesters called for German law to be replaced with Sharia Law and for the Caliphate to be established in place of the German state.](http://9gag.com/gag/a87bp2O)
+ - 😝 [Dead inside...](http://9gag.com/gag/aD2wGPK)
+ - 💣 [Almost 100 hours... And that&#39;s all he got?](http://9gag.com/gag/aLnQMAx)
+ - 😝 [Calcification on breast-implant](http://9gag.com/gag/a7oK7Yb)
+ - 👉 [That shirt is a little low, isn&#39;t it?](http://9gag.com/gag/ae93YOp)<!-- MEMES:END -->
 
 ---
 

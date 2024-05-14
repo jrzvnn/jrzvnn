@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Meta plans to shut down its enterprise Workplace tool in September 2025, becoming read-only until May 2026, and will announce the move as soon as today &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240514/p18#a240514p18)
  - [Polymarket, a decentralized prediction and betting market with a focus on elections, has raised $70M across two rounds, the most recent led by Founders Fund &lpar;Bloomberg&rpar;](http://www.techmeme.com/240514/p17#a240514p17)
  - [Ancient trees show how hot summers have gotten](https://www.theverge.com/2024/5/14/24155408/tree-rings-hottest-summer-climate-change-nature-research)
  - [Apple &amp; Samsung tied for top spot in customer satisfaction study](https://appleinsider.com/articles/24/05/14/apple-samsung-tied-for-top-spot-in-customer-satisfaction-study?utm_medium=rss)
- - [Comcast plans cheap Apple TV+, Netflix, Peacock bundle](https://appleinsider.com/articles/24/05/14/comcast-plans-cheap-apple-tv-netflix-peacock-bundle?utm_medium=rss)
- - [US to raise tariffs on EVs, batteries, solar cells, and computer chips from China](https://www.theverge.com/2024/5/14/24156249/us-biden-china-tariffs-ev-solar-battery-semiconductor-critical-minerals)<!-- TECH:END -->
+ - [Comcast plans cheap Apple TV+, Netflix, Peacock bundle](https://appleinsider.com/articles/24/05/14/comcast-plans-cheap-apple-tv-netflix-peacock-bundle?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -162,10 +162,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Sources: Meta plans to shut down its enterprise Workplace tool in September 2025, becoming read-only until May 2026, and will announce the move as soon as today &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240514/p18#a240514p18)
- - [Polymarket, a decentralized prediction and betting market with a focus on elections, has raised $70M across two rounds, the most recent led by Founders Fund &lpar;Bloomberg&rpar;](http://www.techmeme.com/240514/p17#a240514p17)
- - [Ancient trees show how hot summers have gotten](https://www.theverge.com/2024/5/14/24155408/tree-rings-hottest-summer-climate-change-nature-research)
- - [Apple &amp; Samsung tied for top spot in customer satisfaction study](https://appleinsider.com/articles/24/05/14/apple-samsung-tied-for-top-spot-in-customer-satisfaction-study?utm_medium=rss)
- - [Comcast plans cheap Apple TV+, Netflix, Peacock bundle](https://appleinsider.com/articles/24/05/14/comcast-plans-cheap-apple-tv-netflix-peacock-bundle?utm_medium=rss)<!-- TECH:END -->
+ - [Best Savings Rates Today -- Act Now to Maximize Your Interest Earnings, May 14, 2024     - CNET](https://www.cnet.com/personal-finance/todays-best-savings-rates-may-14-2024/#ftag=CAD590a51e)
+ - [Caitlin Clark&#39;s WNBA Debut: How to Watch Her First Game for the Indiana Fever Tonight     - CNET](https://www.cnet.com/tech/services-and-software/caitlin-clark-wnba-debut-how-to-watch-her-first-game-for-the-indiana-fever-tonight/#ftag=CAD590a51e)
+ - [Best CD Rates Today - Don&#39;t Wait to Lock in One of Today&#39;s High APYs, May 14, 2024     - CNET](https://www.cnet.com/personal-finance/cd-rates-today-may-14-2024/#ftag=CAD590a51e)
+ - [How to Stream the Google I/O 2024 Keynote Live     - CNET](https://www.cnet.com/tech/mobile/how-to-stream-the-google-io-2024-keynote-live/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

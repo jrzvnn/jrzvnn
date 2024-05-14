@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Generative AI Is Totally Shameless. I Want to Be It](https://www.wired.com/story/generative-ai-totally-shameless/)
- - [The mission to retrieve a Mars sample is running into turbulence](https://www.theverge.com/2024/5/14/24153047/mars-sample-return-nasa-budget-timeline-extraterrestrial-life)
- - [A Dutch judge finds Tornado Cash developer Alexey Pertsev guilty and sentences him to 64 months; Pertsev was jailed in August 2022 over alleged money laundering &lpar;Camomile Shumba/CoinDesk&rpar;](http://www.techmeme.com/240514/p13#a240514p13)
- - [iPhone 16 Pro may get Apple&#39;s brightest display yet](https://appleinsider.com/articles/24/05/14/iphone-16-pro-may-get-apples-brightest-display-yet?utm_medium=rss)
- - [UK newspapers tell Apple its &#39;web eraser&#39; will put journalism at risk](https://appleinsider.com/articles/24/05/13/uk-newspapers-tell-apple-its-web-eraser-will-put-journalism-at-risk?utm_medium=rss)<!-- TECH:END -->
+ - [The best apps for professional video editing on any iPad](https://appleinsider.com/inside/ipad/best/the-best-video-apps-for-professional-video-editing-on-any-ipad?utm_medium=rss)
+ - [Everything happening at Google’s I/O developer conference 2024](https://www.theverge.com/2024/5/14/24155647/google-io-news-announcements-rumors-gemini-ai)
+ - [Tornado Cash Developer Found Guilty of Laundering $1.2 Billion of Crypto](https://www.wired.com/story/tornado-cash-developer-found-guilty-of-laundering-crypto/)
+ - [How a new generation of tech founders and VCs are quietly pilgrimaging to the Gulf states&#39; sovereign wealth funds, after some shunned Middle Eastern funding &lpar;Washington Post&rpar;](http://www.techmeme.com/240514/p14#a240514p14)
+ - [Google I/O 2024: What to Expect, From AI Updates to Android 15     - CNET](https://www.cnet.com/tech/mobile/google-io-2024-what-to-expect-from-ai-updates-to-android-15/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

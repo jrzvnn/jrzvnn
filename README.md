@@ -165,7 +165,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Dune: Part Two starts streaming on Max next week](https://www.theverge.com/2024/5/14/24156302/dune-part-two-streaming-max-date)
  - [UK newspapers tell Apple its &#39;web eraser&#39; will put journalism at risk](https://appleinsider.com/articles/24/05/13/uk-newspapers-tell-apple-its-web-eraser-will-put-journalism-at-risk?utm_medium=rss)
  - [The 13 Best Hair Dryers &lpar;2024&rpar;: Blow-Dryers, Brushes, and Diffusers](https://www.wired.com/gallery/best-hair-dryers/)
- - [Amazon CEO Andy Jassy says AWS CEO Adam Selipsky is stepping down, replaced by Matt Garman, effective June 3; Selipsky joined AWS in 2005 and became CEO in 2021 &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/240514/p16#a240514p16)<!-- TECH:END -->
+ - [Best LED Floodlight Bulbs of 2024     - CNET](https://www.cnet.com/home/kitchen-and-household/best-led-floodlight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

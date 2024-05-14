@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I used to use them.](http://9gag.com/gag/aByQ8d1)
+ - 😝 [The granddaughter of Shia Iran&#39;s founder Ayatollah Khamenei is in New York wearing a modern dress. Protesters are calling her out:\u00a0 \u201cLook at what Khamenei&#39;s granddaughter is wearing, while our daughters are being killed because of the hijab in Iran.`](http://9gag.com/gag/a9yMrD1)
+ - 😝 [Where are they boys?](http://9gag.com/gag/aAyVPog)
+ - 💣 [I used to use them.](http://9gag.com/gag/aByQ8d1)
  - 😝 [Best kind of propaganda bot](http://9gag.com/gag/arye5oV)
- - 💣 [Nippy](http://9gag.com/gag/aqyZ73v)
- - 😝 [When I said I wanted to remodel the bathroom I didn\u2019t realize I was going to make it bigger.](http://9gag.com/gag/aO8yzn2)
- - 👉 [The best is Red Eric](http://9gag.com/gag/aYQpxMV)<!-- MEMES:END -->
+ - 👉 [`Anime girls have unrealistic proportions`](http://9gag.com/gag/a2vPr6d)<!-- MEMES:END -->
 
 ---
 

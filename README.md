@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google teases Project Astra, a camera-based AI app to process visual data in realtime, and showed a person wearing a pair of smart glasses using the feature &lpar;Cherlynn Low/Engadget&rpar;](http://www.techmeme.com/240514/p30#a240514p30)
+ - [Google debuts Veo, a text-to-video model that outputs at 1080p resolution, and Imagen 3, its highest quality image generation model with improved text rendering &lpar;Devindra Hardawar/Engadget&rpar;](http://www.techmeme.com/240514/p29#a240514p29)
  - [Google announces the Gemini 1.5 Flash AI model, more lightweight than Gemini Pro, with a context window of 1M tokens and the multimodal capabilities of Pro &lpar;Pranav Dixit/Engadget&rpar;](http://www.techmeme.com/240514/p28#a240514p28)
  - [Apple blocked $7 billion in fraud attempts on the App Store](https://appleinsider.com/articles/24/05/14/apple-blocked-7-billion-in-fraud-attempts-on-the-app-store?utm_medium=rss)
- - [Google Photos is getting its own ‘Ask Photos’ assistant this summer](https://www.theverge.com/2024/5/14/24156552/google-photos-ask-gemini-feature-io)
- - [Google announces Ask Photos with Gemini, which can answer user questions like &quot;show me the best photo from each national park I&#39;ve visited&quot; from Google Photos &lpar;Cherlynn Low/Engadget&rpar;](http://www.techmeme.com/240514/p27#a240514p27)
- - [Source: xAI has been talking to Oracle about a multi-year $10B deal to rent cloud servers, which would make xAI one of Oracle&#39;s largest customers &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/240514/p26#a240514p26)<!-- TECH:END -->
+ - [Google Photos is getting its own ‘Ask Photos’ assistant this summer](https://www.theverge.com/2024/5/14/24156552/google-photos-ask-gemini-feature-io)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Morocco&#39;s under 13 vs Guinea&#39;s under 13 and guess who won?](http://9gag.com/gag/aE0GRpK)
- - 😝 [Final destination vibes](http://9gag.com/gag/a5QNMdO)
- - 💣 [The best is Red Eric](http://9gag.com/gag/aYQpxMV)
- - 😝 [Guy will do anything to get laid on prom night](http://9gag.com/gag/an7XMGo)
- - 👉 [Left or right?](http://9gag.com/gag/a2vPoQ1)<!-- MEMES:END -->
+ - 😝 [Nippy](http://9gag.com/gag/aqyZ73v)
+ - 😝 [This looks like Afghanistan, but this is Germany. Civilization is disappearing step by step](http://9gag.com/gag/aKGgxGQ)
+ - 💣 [Apple vs Kitchen](http://9gag.com/gag/aAyV3rp)
+ - 😝 [King of the castle King of the castle](http://9gag.com/gag/azxL9Km)
+ - 👉 [Everything masterpiece has its cheap copy](http://9gag.com/gag/axy2zj2)<!-- MEMES:END -->
 
 ---
 

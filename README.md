@@ -163,9 +163,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Comcast plans cheap Apple TV+, Netflix, Peacock bundle](https://appleinsider.com/articles/24/05/14/comcast-plans-cheap-apple-tv-netflix-peacock-bundle?utm_medium=rss)
  - [US to raise tariffs on EVs, batteries, solar cells, and computer chips from China](https://www.theverge.com/2024/5/14/24156249/us-biden-china-tariffs-ev-solar-battery-semiconductor-critical-minerals)
- - [Neakasa M1 Self-Cleaning Litter Box Review: Automated No-Scoop Cleaning](https://www.wired.com/review/neakasa-m1-litter-box/)
- - [SteelSeries’ new headset provides over 100 game-specific audio presets](https://www.theverge.com/2024/5/14/24155623/steelseries-arctis-nova-5-wireless-gaming-headset-price-availability)
- - [Apple wants iPhone-like touch surfaces to be able to wrap around spheres](https://appleinsider.com/articles/24/05/14/apple-wants-iphone-like-touch-surfaces-to-be-able-to-wrap-around-spheres?utm_medium=rss)<!-- TECH:END -->
+ - [To Buy or Not to Buy a Home? The Decision Is Yours, Not a Real Estate Agent&#39;s     - CNET](https://www.cnet.com/personal-finance/stop-asking-me-if-you-should-wait-to-buy-a-house-im-just-a-real-estate-agent/#ftag=CAD590a51e)
+ - [Pick Up a Google Pixel Tablet for an Incredibly Low $380 Today Only     - CNET](https://www.cnet.com/deals/pick-up-a-google-pixel-tablet-for-an-incredibly-low-380-today-only/#ftag=CAD590a51e)
+ - [Get Yourself a Brand-New Greenworks Electric Pressure Washer With Up to $32 Off     - CNET](https://www.cnet.com/deals/get-yourself-a-brand-new-greenworks-electric-pressure-washer-with-up-to-32-off/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

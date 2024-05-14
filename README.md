@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UN sanctions monitors: North Korea laundered $147.5M of crypto through Tornado Cash in March after stealing it late last year from HTX crypto exchange &lpar;Michelle Nichols/Reuters&rpar;](http://www.techmeme.com/240514/p47#a240514p47)
  - [Reddit launches new tools for its Ask Me Anything Q&amp;A feature, including a dedicated AMA tab, support for up to five guest hosts, and promotional options &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/240514/p46#a240514p46)
  - [Bumble apologizes for its anti-celibacy ad fumble](https://www.theverge.com/2024/5/14/24156746/bumble-dating-app-anti-celibacy-billboard-ad-apology)
  - [Hands on with Setapp&#39;s alternative iOS app store in invite-only beta: currently has 13 apps, installing the store involves a dozen screen interactions, and more &lpar;Callum Booth/The Verge&rpar;](http://www.techmeme.com/240514/p45#a240514p45)
- - [Reddit&#39;s stock closed up 7.13% today, amid a meme stocks rally driven in part by posts on r/WallStreetBets; GameStop closed up 60.10% and AMC up 31.98% &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240514/p44#a240514p44)
- - [Everything Google Announced at I/O 2024: Gemini, Search, Project Astra, Scam Detection](https://www.wired.com/story/everything-google-announced-at-io-2024/)<!-- TECH:END -->
+ - [Reddit&#39;s stock closed up 7.13% today, amid a meme stocks rally driven in part by posts on r/WallStreetBets; GameStop closed up 60.10% and AMC up 31.98% &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240514/p44#a240514p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

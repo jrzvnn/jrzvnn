@@ -163,9 +163,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Watch this screaming, rainbow-clad musician demo Google’s AI DJ](https://www.theverge.com/2024/5/14/24156630/google-ai-io-musician-marc-rebillet-musicfx-dj)
  - [Google announces AI-powered scam call detection on Android, a chatty new voice mode with its Gemini Live feature, and voice and video search with Google Lens &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240514/p43#a240514p43)
- - [The US moves to stop buying uranium from Russia and start producing it at home](https://www.theverge.com/2024/5/14/24156439/us-bans-russian-uranium-nuclear-energy-ukraine-war)
- - [Apple says it prevented $7B+ in &quot;potentially fraudulent transactions&quot; on the App Store from 2020 through 2023, including $1.8B+ in 2023, down from $2B+ in 2022 &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240514/p42#a240514p42)
- - [Google I/O 2024: everything announced](https://www.theverge.com/24153841/google-io-2024-ai-gemini-android-chrome-photos)<!-- TECH:END -->
+ - [Google&#39;s AI Search Tools Brings New Tricks     - CNET](https://www.cnet.com/tech/services-and-software/googles-ai-search-tools-brings-new-tricks/#ftag=CAD590a51e)
+ - [Best Air Purifier Deals: Save Hundreds on Purifiers From Your Favorite Brands     - CNET](https://www.cnet.com/deals/best-air-purifier-deals/#ftag=CAD590a51e)
+ - [22 Best High School Graduation Gifts They&#39;ll Actually Use     - CNET](https://www.cnet.com/news/high-school-graduation-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

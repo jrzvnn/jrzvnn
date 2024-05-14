@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tencent reports Q1 revenue up 6% YoY to ~$22B, above ~$21.95B est., and net profit up 62% YoY to ~$5.8B, above ~$4.8B est., boosted by new WeChat monetization &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/240514/p5#a240514p5)
+ - [How to Watch Google I/O 2024, and What to Expect](https://www.wired.com/story/google-io-2024-how-to-watch-what-to-expect/)
  - [German companies are increasingly experimenting with AI tools to become more productive and efficient, but some say the gains AI promises could be years away &lpar;Nina Kienle/Wall Street Journal&rpar;](http://www.techmeme.com/240514/p4#a240514p4)
  - [Foxconn reports Q1 revenue down 9% YoY to ~$40.9B, net profit up 72% YoY to ~$679M, and consumer electronics was 48% of its revenue while cloud was 28% &lpar;CNBC&rpar;](http://www.techmeme.com/240514/p3#a240514p3)
- - [Sony reports Q4 revenue up 14% YoY to ~$22.4B, above ~$18.5B est., operating profit up 57% YoY to ~$1.5B, and sold 20.8M PS5 units in FY 2023, below guidance &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240514/p2#a240514p2)
- - [Go Passwordless: Setup a Passkey on Your Google Account     - CNET](https://www.cnet.com/tech/services-and-software/go-passwordless-setup-a-passkey-on-your-google-account/#ftag=CAD590a51e)
- - [How to Unsend an Accidental Email on Your iPhone     - CNET](https://www.cnet.com/tech/services-and-software/how-to-unsend-an-accidental-email-on-your-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sony reports Q4 revenue up 14% YoY to ~$22.4B, above ~$18.5B est., operating profit up 57% YoY to ~$1.5B, and sold 20.8M PS5 units in FY 2023, below guidance &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240514/p2#a240514p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

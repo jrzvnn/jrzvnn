@@ -162,10 +162,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A look at OpenAI&#39;s GPT-4o and the decision to let all users access the model, helping to democratize AI and make it more present and connected to human systems &lpar;Ethan Mollick/One Useful Thing&rpar;](http://www.techmeme.com/240514/p21#a240514p21)
+ - [Google I/O 2024 live blog: it’s AI time](https://www.theverge.com/24156147/google-io-2024-live-blog-ai-gemini)
  - [Secrecy Concerns Mount Over Spy Powers Targeting US Data Centers](https://www.wired.com/story/section-702-ecsp-civil-liberties-letter/)
  - [SEC filing: Unity Create CPO and CTO Marc Whitten is stepping down on June 1, less than one year after becoming entangled in the company&#39;s Runtime Fee fiasco &lpar;Chris Kerr/Game Developer&rpar;](http://www.techmeme.com/240514/p20#a240514p20)
- - [Amazon follows Fallout with live-action Tomb Raider show](https://www.theverge.com/2024/5/14/24156397/tomb-raider-series-amazon-phoebe-waller-bridge)
- - [TSMC plans to start building its first European facility in Q4 2024, ahead of production in 2027; TSMC unveiled plans for an $11B factory in Germany last August &lpar;Toby Sterling/Reuters&rpar;](http://www.techmeme.com/240514/p19#a240514p19)<!-- TECH:END -->
+ - [Amazon follows Fallout with live-action Tomb Raider show](https://www.theverge.com/2024/5/14/24156397/tomb-raider-series-amazon-phoebe-waller-bridge)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Sheets of 2024     - CNET](https://www.cnet.com/health/sleep/best-sheets/#ftag=CAD590a51e)
  - [AI startups in the Bay Area raised $27B+ in 2023, more than 50% of global AI funding, up from $14B in 2022 when the region accounted for 29% of all AI funding &lpar;Gen&amp;eacute; Teare/Crunchbase News&rpar;](http://www.techmeme.com/240513/p46#a240513p46)
  - [Join CNET&#39;s Google I/O 2024 Watch Party: See Gemini AI, Android Reveals With Us     - CNET](https://www.cnet.com/tech/mobile/join-cnets-google-io-2024-watch-party-see-gemini-ai-android-reveals-with-us/#ftag=CAD590a51e)
  - [This Turntable Is Perfect for a Beginner Collector     - CNET](https://www.cnet.com/deals/this-turntable-is-the-perfect-pick-for-a-beginner-collector/#ftag=CAD590a51e)
- - [With OpenAI’s Release of GPT-4o, Is ChatGPT Plus Still Worth It?](https://www.wired.com/story/with-gpt-4o-is-chatgpt-plus-still-worth-it/)
- - [Mexico-based BNPL startup Aplazo raised a $45M Series B led by QED Investors, bringing its total raised to $100M+ in equity and $75M in committed debt &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/240513/p45#a240513p45)<!-- TECH:END -->
+ - [With OpenAI’s Release of GPT-4o, Is ChatGPT Plus Still Worth It?](https://www.wired.com/story/with-gpt-4o-is-chatgpt-plus-still-worth-it/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

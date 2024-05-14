@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPads finally get battery health info and adaptive charging, but only the new ones](https://www.theverge.com/2024/5/14/24156362/apple-ipad-pro-air-battery-charge-health-limit-cycle-count)
- - [Eight TikTok creators file their own suit against the divest-or-ban law](https://www.theverge.com/2024/5/14/24156778/tiktok-creators-sue-us-divest-or-ban-law)
- - [Microsoft releases a fix for VPN connection failures on Windows 11, 10, and Server 2008 or later, that was caused by the April 2024 Windows security updates &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240514/p49#a240514p49)
- - [Sonos customers unleash frustrations over redesigned app in community AMA](https://www.theverge.com/2024/5/14/24156703/sonos-app-redesign-new-ama-complaints)
- - [Google’s new LearnLM AI model focuses on education](https://www.theverge.com/2024/5/14/24156438/google-ai-education-model-learnlm)<!-- TECH:END -->
+ - [Android apps will soon let you use your face to control your cursor](https://www.theverge.com/2024/5/14/24156810/google-android-project-gameface-accessibility-io)
+ - [Killer deal: Apple&#39;s iPad Air dips to $399 at Amazon, the lowest price ever](https://appleinsider.com/articles/24/05/14/killer-deal-apples-ipad-air-dips-to-399-at-amazon-the-lowest-price-ever?utm_medium=rss)
+ - [Meta will shut down its Teams competitor Workplace next year](https://www.theverge.com/2024/5/14/24156712/meta-workplace-facebook-work-shutdown)
+ - [Google rolls out a search filter, named &quot;Web&quot;, to show only text-based links in results &lpar;Barry Schwartz/Search Engine Land&rpar;](http://www.techmeme.com/240514/p50#a240514p50)
+ - [Agatha All Along will cast a spell on Disney Plus this September](https://www.theverge.com/24156847/agatha-all-along-premiere-date-disney-plus-marvel)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

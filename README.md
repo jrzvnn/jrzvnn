@@ -165,7 +165,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [New iPad Pro OLED screens have a HDR color bug](https://appleinsider.com/articles/24/05/13/ipad-pro-oled-hdr-color-peaking-bug-to-be-corrected-with-software-update?utm_medium=rss)
  - [Logic Pro for iPad is now out with AI Stem Splitter and Session Players](https://appleinsider.com/articles/24/05/14/logic-pro-for-ipad-is-now-out-with-ai-stem-splitter-and-session-players?utm_medium=rss)
  - [Square Enix falls 16%, the biggest decline in 13 years, after President Takashi Kiryu said sales of its big-budget games, exclusive to PlayStation, fell short &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/240514/p9#a240514p9)
- - [One of the last roadblocks to selling Apple Vision Pro in China has been lifted](https://appleinsider.com/articles/24/05/14/one-of-the-last-roadblocks-to-selling-apple-vision-pro-in-china-has-been-lifted?utm_medium=rss)<!-- TECH:END -->
+ - [Best Smart Speakers for 2024: We Tested Alexa, Google, Apple and Sonos     - CNET](https://www.cnet.com/home/smart-home/best-smart-speaker/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

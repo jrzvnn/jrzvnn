@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The granddaughter of Shia Iran&#39;s founder Ayatollah Khamenei is in New York wearing a modern dress. Protesters are calling her out:\u00a0 \u201cLook at what Khamenei&#39;s granddaughter is wearing, while our daughters are being killed because of the hijab in Iran.`](http://9gag.com/gag/a9yMrD1)
- - 😝 [Where are they boys?](http://9gag.com/gag/aAyVPog)
- - 💣 [I used to use them.](http://9gag.com/gag/aByQ8d1)
- - 😝 [Best kind of propaganda bot](http://9gag.com/gag/arye5oV)
- - 👉 [`Anime girls have unrealistic proportions`](http://9gag.com/gag/a2vPr6d)<!-- MEMES:END -->
+ - 😝 [Asshole in the parking](http://9gag.com/gag/a5QNnnN)
+ - 😝 [Are you happy?](http://9gag.com/gag/abAqzdb)
+ - 💣 [`Anime girls have unrealistic proportions`](http://9gag.com/gag/a2vPr6d)
+ - 😝 [Claw game so rigged that investigator can&#39;t force a win](http://9gag.com/gag/aD2w1A9)
+ - 👉 [A girls first true love is her father.](http://9gag.com/gag/a0ePKQO)<!-- MEMES:END -->
 
 ---
 

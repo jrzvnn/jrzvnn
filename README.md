@@ -164,8 +164,8 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [How Gemini&#39;s and OpenAI&#39;s updates play into Apple&#39;s AI strategy](https://appleinsider.com/articles/24/05/14/how-geminis-and-openais-updates-play-into-apples-ai-strategy?utm_medium=rss)
  - [OpenAI chief scientist Ilya Sutskever is officially leaving](https://www.theverge.com/2024/5/14/24156920/openai-chief-scientist-ilya-sutskever-leaves)
  - [Ilya Sutskever says he will leave OpenAI to work on a &quot;personally meaningful&quot; project; Director of Research Jakub Pachocki will become OpenAI&#39;s chief scientist &lpar;CNBC&rpar;](http://www.techmeme.com/240514/p52#a240514p52)
- - [Ilya and OpenAI are going to part ways. This is very sad to me; Ilya is easily one of the greatest minds of our generation, a guiding light of our field, and a dear friend. His brilliance and vision are well known; his warmth and compassion are less well known but no less &lpar;Sam Altman/@sama&rpar;](http://www.techmeme.com/240514/p51#a240514p51)
- - [NBA Playoffs 2024: How to Watch Knicks vs. Pacers, Nuggets vs. Timberwolves Tonight on TNT     - CNET](https://www.cnet.com/tech/services-and-software/nba-playoffs-2024-how-to-watch-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I Tried Google&#39;s Project Astra video     - CNET](https://www.cnet.com/videos/i-tried-googles-project-astra/#ftag=CAD590a51e)
+ - [Ilya and OpenAI are going to part ways. This is very sad to me; Ilya is easily one of the greatest minds of our generation, a guiding light of our field, and a dear friend. His brilliance and vision are well known; his warmth and compassion are less well known but no less &lpar;Sam Altman/@sama&rpar;](http://www.techmeme.com/240514/p51#a240514p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

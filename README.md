@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nippy](http://9gag.com/gag/aqyZ73v)
- - 😝 [Happy Mothers day to all the Mums that love their children like Marianne Bachmeier, pictured here at the trial of her daughters Rapist.](http://9gag.com/gag/avyZreW)
- - 💣 [The best is Red Eric](http://9gag.com/gag/aYQpxMV)
- - 😝 [Where are they boys?](http://9gag.com/gag/aAyVPog)
+ - 😝 [The best is Red Eric](http://9gag.com/gag/aYQpxMV)
+ - 😝 [Guy will do anything to get laid on prom night](http://9gag.com/gag/an7XMGo)
+ - 💣 [Morocco&#39;s under 13 vs Guinea&#39;s under 13 and guess who won?](http://9gag.com/gag/aE0GRpK)
+ - 😝 [Best kind of propaganda bot](http://9gag.com/gag/arye5oV)
  - 👉 [A normal debate...](http://9gag.com/gag/aQzp9Mq)<!-- MEMES:END -->
 
 ---

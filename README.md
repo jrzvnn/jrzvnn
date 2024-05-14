@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [With Gemini on Android, Google Points to Mobile Computing’s Future—and Past](https://www.wired.com/story/google-io-gemini-on-android-circle-to-search/)
- - [Google’s invisible AI watermark will help identify generative text and video](https://www.theverge.com/2024/5/14/24155927/google-ai-synthid-watermark-text-video-io)
- - [Google will let you create personalized AI chatbots](https://www.theverge.com/2024/5/14/24156511/google-ai-gemini-gems-custom-chatbots)
- - [Google will roll out AI overviews in search to all US users, starting this week, and in more countries soon; they will be available to 1B+ users by end of year &lpar;Barry Schwartz/Search Engine Land&rpar;](http://www.techmeme.com/240514/p32#a240514p32)
- - [Gemini is about to get better at understanding what’s on your phone screen](https://www.theverge.com/2024/5/14/24155497/google-ai-gemini-assistant-android-context-io)<!-- TECH:END -->
+ - [Google says Gemini Nano is now built into Chrome on desktop, with plans to use it to power features like the existing &quot;help me write&quot; tool &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240514/p37#a240514p37)
+ - [Google unveils Gemini Pro in Workspace Labs, shipping later this month, that lets users summarize emails by topic and more, like &quot;compare my roof repair bids&quot; &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/240514/p36#a240514p36)
+ - [Google unveils additions to Gemma, its family of open models, including Gemma 2, a 27B parameter model, debuting in June, and PaliGemma, a vision language model &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240514/p35#a240514p35)
+ - [Google announces Trillium, its new Google Cloud TPU that has 4.7 times better computing performance compared with the TPU v5e and is 67% more energy efficient &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/240514/p34#a240514p34)
+ - [&#39;Hades 2&#39; Proves Lightning Can Strike Twice](https://www.wired.com/story/hades-ii-first-impressions/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

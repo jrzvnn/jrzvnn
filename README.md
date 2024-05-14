@@ -164,11 +164,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [With OpenAI&#39;s Release of GPT-4o, Is ChatGPT Plus Still Worth It?](https://www.wired.com/story/with-gpt-4o-is-chatgpt-plus-still-worth-it/)
+ - [Mexico-based BNPL startup Aplazo raised a $45M Series B led by QED Investors, bringing its total raised to $100M+ in equity and $75M in committed debt &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/240513/p45#a240513p45)
+ - [Pepper, which provides tools for order management, invoicing, and more for independent food distributors, raised a $30M Series B led by Iconiq Growth &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/240513/p44#a240513p44)
  - [Sony names new PlayStation leaders following Jim Ryan’s retirement](https://www.theverge.com/2024/5/13/24155982/sony-playstation-co-ceo-hermen-hulst-hideaki-nishino)
- - [Chinese lidar maker Hesai sues US DOD for adding it to a list of firms accused of aiding China&#39;s military, saying it only serves civilian and commercial market &lpar;Sabrina Willmer/Bloomberg&rpar;](http://www.techmeme.com/240513/p43#a240513p43)
- - [Sony Interactive Entertainment announces two new CEOs: Hermen Hulst, who will lead studios, and Hideaki Nishino, who will lead platforms, effective June 1 &lpar;Christopher Dring/GamesIndustry.biz&rpar;](http://www.techmeme.com/240513/p42#a240513p42)
- - [The Dyson WashG1 Is an All-in-One Wet Floor Cleaner That Doesn’t Use Suction](https://www.wired.com/story/dyson-wash-g1/)
- - [The WashG1 is Dyson’s first mop](https://www.theverge.com/2024/5/13/24155775/dyson-washg1-mop-price-specs-release-date)<!-- TECH:END -->
+ - [Walmart Shoppers Might Be Able to Claim Up to $500 in Settlement Cash     - CNET](https://www.cnet.com/personal-finance/walmart-shoppers-might-be-able-to-claim-up-to-500-in-settlement-cash/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

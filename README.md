@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Generative AI Is Totally Shameless. I Want to Be It](https://www.wired.com/story/generative-ai-totally-shameless/)
+ - [The mission to retrieve a Mars sample is running into turbulence](https://www.theverge.com/2024/5/14/24153047/mars-sample-return-nasa-budget-timeline-extraterrestrial-life)
  - [A Dutch judge finds Tornado Cash developer Alexey Pertsev guilty and sentences him to 64 months; Pertsev was jailed in August 2022 over alleged money laundering &lpar;Camomile Shumba/CoinDesk&rpar;](http://www.techmeme.com/240514/p13#a240514p13)
  - [iPhone 16 Pro may get Apple&#39;s brightest display yet](https://appleinsider.com/articles/24/05/14/iphone-16-pro-may-get-apples-brightest-display-yet?utm_medium=rss)
- - [UK newspapers tell Apple its &#39;web eraser&#39; will put journalism at risk](https://appleinsider.com/articles/24/05/13/uk-newspapers-tell-apple-its-web-eraser-will-put-journalism-at-risk?utm_medium=rss)
- - [The US NHTSA opens an investigation into Alphabet&#39;s Waymo, covering an estimated 444 vehicles and following 22 reports of 22 incidents, including 17 collisions &lpar;Reuters&rpar;](http://www.techmeme.com/240514/p12#a240514p12)
- - [iPad and Mac don&#39;t compete against each other, so buy both says Apple exec](https://appleinsider.com/articles/24/05/14/ipad-and-mac-dont-compete-against-each-other-so-buy-both-says-apple-exec?utm_medium=rss)<!-- TECH:END -->
+ - [UK newspapers tell Apple its &#39;web eraser&#39; will put journalism at risk](https://appleinsider.com/articles/24/05/13/uk-newspapers-tell-apple-its-web-eraser-will-put-journalism-at-risk?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SSDI May Payment: Where Is Your Check?     - CNET](https://www.cnet.com/personal-finance/ssdi-may-payment-where-is-your-check/#ftag=CAD590a51e)
  - [Video game publishers are facing a wave of lawsuits that accuse the industry of profiting from intentionally promoting mass addiction and causing health issues &lpar;Rachel Graf/Bloomberg&rpar;](http://www.techmeme.com/240514/p1#a240514p1)
  - [How to master your Mac menubar](https://appleinsider.com/inside/mac/tips/how-to-master-your-mac-menubar?utm_medium=rss)
  - [Uber announces plans to acquire Delivery Hero&#39;s Foodpanda business in Taiwan for $950M in an all-cash deal, expected to close in the first half of 2025 &lpar;Sarah Zheng/Bloomberg&rpar;](http://www.techmeme.com/240513/p47#a240513p47)
- - [The Best Pillows for Side Sleepers in 2024     - CNET](https://www.cnet.com/health/sleep/best-pillow-for-side-sleepers/#ftag=CAD590a51e)
- - [Best Sheets of 2024     - CNET](https://www.cnet.com/health/sleep/best-sheets/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Pillows for Side Sleepers in 2024     - CNET](https://www.cnet.com/health/sleep/best-pillow-for-side-sleepers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

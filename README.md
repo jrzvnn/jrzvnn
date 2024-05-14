@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best apps for professional video editing on any iPad](https://appleinsider.com/inside/ipad/best/the-best-video-apps-for-professional-video-editing-on-any-ipad?utm_medium=rss)
- - [Everything happening at Google’s I/O developer conference 2024](https://www.theverge.com/2024/5/14/24155647/google-io-news-announcements-rumors-gemini-ai)
- - [Tornado Cash Developer Found Guilty of Laundering $1.2 Billion of Crypto](https://www.wired.com/story/tornado-cash-developer-found-guilty-of-laundering-crypto/)
- - [How a new generation of tech founders and VCs are quietly pilgrimaging to the Gulf states&#39; sovereign wealth funds, after some shunned Middle Eastern funding &lpar;Washington Post&rpar;](http://www.techmeme.com/240514/p14#a240514p14)
- - [Google I/O 2024: What to Expect, From AI Updates to Android 15     - CNET](https://www.cnet.com/tech/mobile/google-io-2024-what-to-expect-from-ai-updates-to-android-15/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [T-Mobile’s new ‘Flex’ plans bring phone upgrades to prepaid subscribers](https://www.theverge.com/2024/5/14/24156256/metro-t-mobile-flex-pre-paid-plans)
+ - [XCOM developers start new studio to take on The Sims](https://www.theverge.com/2024/5/14/24155843/midsummer-studios-next-gen-life-sim-the-sims)
+ - [Setapp Mobile brings a promising new iPhone app experience to the EU](https://www.theverge.com/24155259/setapp-mobile-eu-subscription-app-store-preview)
+ - [Lego Barad-dûr revealed: Sauron’s dark tower from The Lord of the Rings is $460](https://www.theverge.com/2024/5/14/24085240/lego-barad-dur-lord-of-the-rings-set-sauron)
+ - [Amazon drops Apple&#39;s M4 iPad Pro to $949 ahead of tomorrow&#39;s release](https://appleinsider.com/articles/24/05/14/amazon-drops-apples-m4-ipad-pro-to-949-ahead-of-tomorrows-release?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

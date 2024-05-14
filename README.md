@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile’s new ‘Flex’ plans bring phone upgrades to prepaid subscribers](https://www.theverge.com/2024/5/14/24156256/metro-t-mobile-flex-pre-paid-plans)
- - [XCOM developers start new studio to take on The Sims](https://www.theverge.com/2024/5/14/24155843/midsummer-studios-next-gen-life-sim-the-sims)
- - [Setapp Mobile brings a promising new iPhone app experience to the EU](https://www.theverge.com/24155259/setapp-mobile-eu-subscription-app-store-preview)
- - [Lego Barad-dûr revealed: Sauron’s dark tower from The Lord of the Rings is $460](https://www.theverge.com/2024/5/14/24085240/lego-barad-dur-lord-of-the-rings-set-sauron)
- - [Amazon drops Apple&#39;s M4 iPad Pro to $949 ahead of tomorrow&#39;s release](https://appleinsider.com/articles/24/05/14/amazon-drops-apples-m4-ipad-pro-to-949-ahead-of-tomorrows-release?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon Web Services CEO to step down](https://www.theverge.com/2024/5/14/24156306/amazon-web-services-aws-ceo-stepping-down)
+ - [Comcast CEO Brian Roberts says Comcast will launch StreamSaver, a bundle with Peacock, Netflix, and Apple TV+, later this month at a &quot;vastly discounted price&quot; &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240514/p15#a240514p15)
+ - [Nicolas Cage is back as Spider-Man in live-action Amazon series](https://www.theverge.com/2024/5/14/24156273/nicolas-cage-spider-man-noir-amazon-prime-video)
+ - [On The Vergecast: iPad wins, Sonos misses, and right-to-repair tales](https://www.theverge.com/24156263/ipad-pro-sonos-app-right-to-repair-vergecast)
+ - [Megalopolis’ first teaser makes it look like everything Coppola dreamt it would be](https://www.theverge.com/24156254/megalopolis-trailer-francis-ford-coppola)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

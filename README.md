@@ -171,10 +171,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Calcification on breast-implant](http://9gag.com/gag/a7oK7Yb)
+ - 😝 [A normal debate...](http://9gag.com/gag/aQzp9Mq)
+ - 💣 [Best kind of propaganda bot](http://9gag.com/gag/arye5oV)
  - 😝 [When I said I wanted to remodel the bathroom I didn\u2019t realize I was going to make it bigger.](http://9gag.com/gag/aO8yzn2)
- - 💣 [I used to use them.](http://9gag.com/gag/aByQ8d1)
- - 😝 [Best kind of propaganda bot](http://9gag.com/gag/arye5oV)
- - 👉 [Dead inside...](http://9gag.com/gag/aD2wGPK)<!-- MEMES:END -->
+ - 👉 [Morocco&#39;s under 13 vs Guinea&#39;s under 13 and guess who won?](http://9gag.com/gag/aE0GRpK)<!-- MEMES:END -->
 
 ---
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPad and Mac don&#39;t compete against each other, so buy both says Apple exec](https://appleinsider.com/articles/24/05/14/ipad-and-mac-dont-compete-against-each-other-so-buy-both-says-apple-exec?utm_medium=rss)
+ - [Alibaba reports Q4 revenue up 6.6% YoY to ~$30.7B, above $30.4B est., a ~$452M net income, down 86% YoY from ~$3.2B in Q4 2023, and announces a $4B dividend &lpar;Sarah Zheng/Bloomberg&rpar;](http://www.techmeme.com/240514/p11#a240514p11)
+ - [There’s Nothing Revolutionary About ‘Morning After the Revolution’](https://www.wired.com/story/morning-after-the-revolution-nellie-bowles-book/)
  - [Source: at a private event, Google demonstrated a Chromium OS build running in a virtual machine on a Pixel 8, but did not say if this build would ever ship &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/240514/p10#a240514p10)
- - [New iPad Pro OLED screens have a HDR color bug](https://appleinsider.com/articles/24/05/13/ipad-pro-oled-hdr-color-peaking-bug-to-be-corrected-with-software-update?utm_medium=rss)
- - [Logic Pro for iPad is now out with AI Stem Splitter and Session Players](https://appleinsider.com/articles/24/05/14/logic-pro-for-ipad-is-now-out-with-ai-stem-splitter-and-session-players?utm_medium=rss)
- - [Square Enix falls 16%, the biggest decline in 13 years, after President Takashi Kiryu said sales of its big-budget games, exclusive to PlayStation, fell short &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/240514/p9#a240514p9)
- - [Best Smart Speakers for 2024: We Tested Alexa, Google, Apple and Sonos     - CNET](https://www.cnet.com/home/smart-home/best-smart-speaker/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [New iPad Pro OLED screens have a HDR color bug](https://appleinsider.com/articles/24/05/13/ipad-pro-oled-hdr-color-peaking-bug-to-be-corrected-with-software-update?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft releases a fix for VPN connection failures on Windows 11, 10, and Server 2008 or later, that was caused by the April 2024 Windows security updates &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240514/p49#a240514p49)
  - [Sonos customers unleash frustrations over redesigned app in community AMA](https://www.theverge.com/2024/5/14/24156703/sonos-app-redesign-new-ama-complaints)
  - [Google’s new LearnLM AI model focuses on education](https://www.theverge.com/2024/5/14/24156438/google-ai-education-model-learnlm)
  - [David Sacks reveals Glue, an employee chat app designed around topic-based threads and embedded GenAI models, and opens a waitlist for companies to sign up &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/240514/p48#a240514p48)
- - [UN sanctions monitors: North Korea laundered $147.5M of crypto through Tornado Cash in March after stealing it late last year from HTX crypto exchange &lpar;Michelle Nichols/Reuters&rpar;](http://www.techmeme.com/240514/p47#a240514p47)
- - [Reddit launches new tools for its Ask Me Anything Q&amp;A feature, including a dedicated AMA tab, support for up to five guest hosts, and promotional options &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/240514/p46#a240514p46)<!-- TECH:END -->
+ - [UN sanctions monitors: North Korea laundered $147.5M of crypto through Tornado Cash in March after stealing it late last year from HTX crypto exchange &lpar;Michelle Nichols/Reuters&rpar;](http://www.techmeme.com/240514/p47#a240514p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

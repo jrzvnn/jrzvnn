@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google announces Ask Photos with Gemini, which can answer user questions like &quot;show me the best photo from each national park I&#39;ve visited&quot; from Google Photos &lpar;Cherlynn Low/Engadget&rpar;](http://www.techmeme.com/240514/p27#a240514p27)
  - [Source: xAI has been talking to Oracle about a multi-year $10B deal to rent cloud servers, which would make xAI one of Oracle&#39;s largest customers &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/240514/p26#a240514p26)
  - [Sydney-based Data Zoo, maker of automated know your customer software, raised a AU$35M Series A led by Ellerston JAADE &lpar;Matt Ogg/Business News Australia&rpar;](http://www.techmeme.com/240514/p25#a240514p25)
  - [Dell appears to have suffered another data breach where ~30K customer service records were scraped, following its recent breach that affected 49M customers &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240514/p24#a240514p24)
- - [A live stream of the Google I/O 2024 keynote &lpar;Google on YouTube&rpar;](http://www.techmeme.com/240514/p23#a240514p23)
- - [A live blog of Google I/O, where Android 15 updates, new generative AI features for its apps and search, and more are expected &lpar;The Verge&rpar;](http://www.techmeme.com/240514/p22#a240514p22)<!-- TECH:END -->
+ - [A live stream of the Google I/O 2024 keynote &lpar;Google on YouTube&rpar;](http://www.techmeme.com/240514/p23#a240514p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

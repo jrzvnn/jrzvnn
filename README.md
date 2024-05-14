@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I used to use them.](http://9gag.com/gag/aByQ8d1)
- - 😝 [Happy Mothers day to all the Mums that love their children like Marianne Bachmeier, pictured here at the trial of her daughters Rapist.](http://9gag.com/gag/avyZreW)
- - 💣 [Where are they boys?](http://9gag.com/gag/aAyVPog)
- - 😝 [The best is Red Eric](http://9gag.com/gag/aYQpxMV)
- - 👉 [3000 Islamists took to the streets of Hamburg today. The Salafist organization \u201cMuslim Interaktiv\u201d and the protesters called for German law to be replaced with Sharia Law and for the Caliphate to be established in place of the German state.](http://9gag.com/gag/a87bp2O)<!-- MEMES:END -->
+ - 😝 [Smile! You\u2019re at Mr. Smiley\u2019s!](http://9gag.com/gag/amoL73o)
+ - 😝 [Comes late, leaves early still does the same job as 3 of us](http://9gag.com/gag/a87bo5d)
+ - 💣 [This is the way](http://9gag.com/gag/avyZO8n)
+ - 😝 [Asshole in the parking](http://9gag.com/gag/a5QNnnN)
+ - 👉 [Are you happy?](http://9gag.com/gag/abAqzdb)<!-- MEMES:END -->
 
 ---
 

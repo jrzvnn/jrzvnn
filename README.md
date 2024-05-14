@@ -161,7 +161,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Sheets of 2024     - CNET](https://www.cnet.com/health/sleep/best-sheets/#ftag=CAD590a51e)
+ - [Uber announces plans to acquire Delivery Hero&#39;s Foodpanda business in Taiwan for $950M in an all-cash deal, expected to close in the first half of 2025 &lpar;Sarah Zheng/Bloomberg&rpar;](http://www.techmeme.com/240513/p47#a240513p47)
  - [AI startups in the Bay Area raised $27B+ in 2023, more than 50% of global AI funding, up from $14B in 2022 when the region accounted for 29% of all AI funding &lpar;Gen&amp;eacute; Teare/Crunchbase News&rpar;](http://www.techmeme.com/240513/p46#a240513p46)
  - [Join CNET&#39;s Google I/O 2024 Watch Party: See Gemini AI, Android Reveals With Us     - CNET](https://www.cnet.com/tech/mobile/join-cnets-google-io-2024-watch-party-see-gemini-ai-android-reveals-with-us/#ftag=CAD590a51e)
  - [This Turntable Is Perfect for a Beginner Collector     - CNET](https://www.cnet.com/deals/this-turntable-is-the-perfect-pick-for-a-beginner-collector/#ftag=CAD590a51e)

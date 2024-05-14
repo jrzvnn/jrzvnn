@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at OpenAI&#39;s GPT-4o and the decision to let all users access the model, helping to democratize AI and make it more present and connected to human systems &lpar;Ethan Mollick/One Useful Thing&rpar;](http://www.techmeme.com/240514/p21#a240514p21)
+ - [Secrecy Concerns Mount Over Spy Powers Targeting US Data Centers](https://www.wired.com/story/section-702-ecsp-civil-liberties-letter/)
  - [SEC filing: Unity Create CPO and CTO Marc Whitten is stepping down on June 1, less than one year after becoming entangled in the company&#39;s Runtime Fee fiasco &lpar;Chris Kerr/Game Developer&rpar;](http://www.techmeme.com/240514/p20#a240514p20)
  - [Amazon follows Fallout with live-action Tomb Raider show](https://www.theverge.com/2024/5/14/24156397/tomb-raider-series-amazon-phoebe-waller-bridge)
- - [TSMC plans to start building its first European facility in Q4 2024, ahead of production in 2027; TSMC unveiled plans for an $11B factory in Germany last August &lpar;Toby Sterling/Reuters&rpar;](http://www.techmeme.com/240514/p19#a240514p19)
- - [Jeopardy! is making its first-ever streaming spinoff for Prime Video](https://www.theverge.com/2024/5/14/24156287/jeopardy-pop-culture-spinoff-streaming-amazon-prime-video)
- - [Sources: Meta plans to shut down its enterprise Workplace tool in September 2025, becoming read-only until May 2026, and will announce the move as soon as today &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240514/p18#a240514p18)<!-- TECH:END -->
+ - [TSMC plans to start building its first European facility in Q4 2024, ahead of production in 2027; TSMC unveiled plans for an $11B factory in Germany last August &lpar;Toby Sterling/Reuters&rpar;](http://www.techmeme.com/240514/p19#a240514p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

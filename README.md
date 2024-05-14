@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Meta plans to shut down its enterprise Workplace tool in September 2025, becoming read-only until May 2026, and will announce the move as soon as today &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240514/p18#a240514p18)
- - [Best Savings Rates Today -- Act Now to Maximize Your Interest Earnings, May 14, 2024     - CNET](https://www.cnet.com/personal-finance/todays-best-savings-rates-may-14-2024/#ftag=CAD590a51e)
- - [Caitlin Clark&#39;s WNBA Debut: How to Watch Her First Game for the Indiana Fever Tonight     - CNET](https://www.cnet.com/tech/services-and-software/caitlin-clark-wnba-debut-how-to-watch-her-first-game-for-the-indiana-fever-tonight/#ftag=CAD590a51e)
- - [Best CD Rates Today - Don&#39;t Wait to Lock in One of Today&#39;s High APYs, May 14, 2024     - CNET](https://www.cnet.com/personal-finance/cd-rates-today-may-14-2024/#ftag=CAD590a51e)
- - [How to Stream the Google I/O 2024 Keynote Live     - CNET](https://www.cnet.com/tech/mobile/how-to-stream-the-google-io-2024-keynote-live/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [SEC filing: Unity Create CPO and CTO Marc Whitten is stepping down on June 1, less than one year after becoming entangled in the company&#39;s Runtime Fee fiasco &lpar;Chris Kerr/Game Developer&rpar;](http://www.techmeme.com/240514/p20#a240514p20)
+ - [Amazon follows Fallout with live-action Tomb Raider show](https://www.theverge.com/2024/5/14/24156397/tomb-raider-series-amazon-phoebe-waller-bridge)
+ - [TSMC plans to start building its first European facility in Q4 2024, ahead of production in 2027; TSMC unveiled plans for an $11B factory in Germany last August &lpar;Toby Sterling/Reuters&rpar;](http://www.techmeme.com/240514/p19#a240514p19)
+ - [Jeopardy! is making its first-ever streaming spinoff for Prime Video](https://www.theverge.com/2024/5/14/24156287/jeopardy-pop-culture-spinoff-streaming-amazon-prime-video)
+ - [Sources: Meta plans to shut down its enterprise Workplace tool in September 2025, becoming read-only until May 2026, and will announce the move as soon as today &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240514/p18#a240514p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

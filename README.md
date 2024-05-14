@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best kind of propaganda bot](http://9gag.com/gag/arye5oV)
- - 😝 [Happy Mothers day to all the Mums that love their children like Marianne Bachmeier, pictured here at the trial of her daughters Rapist.](http://9gag.com/gag/avyZreW)
- - 💣 [Guy will do anything to get laid on prom night](http://9gag.com/gag/an7XMGo)
- - 😝 [The best is Red Eric](http://9gag.com/gag/aYQpxMV)
- - 👉 [Morocco&#39;s under 13 vs Guinea&#39;s under 13 and guess who won?](http://9gag.com/gag/aE0GRpK)<!-- MEMES:END -->
+ - 😝 [Brazil is not for beginners](http://9gag.com/gag/ayNpx6q)
+ - 😝 [I used to use them.](http://9gag.com/gag/aByQ8d1)
+ - 💣 [Normal day in Australia](http://9gag.com/gag/a34dKR8)
+ - 😝 [Morocco&#39;s under 13 vs Guinea&#39;s under 13 and guess who won?](http://9gag.com/gag/aE0GRpK)
+ - 👉 [Guy will do anything to get laid on prom night](http://9gag.com/gag/an7XMGo)<!-- MEMES:END -->
 
 ---
 

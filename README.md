@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Reddit&#39;s stock closed up 7.13% today, amid a meme stocks rally driven in part by posts on r/WallStreetBets; GameStop closed up 60.10% and AMC up 31.98% &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/240514/p44#a240514p44)
+ - [Everything Google Announced at I/O 2024: Gemini, Search, Project Astra, Scam Detection](https://www.wired.com/story/everything-google-announced-at-io-2024/)
  - [Google’s Gemini video search makes factual error in demo](https://www.theverge.com/2024/5/14/24156729/googles-gemini-video-search-makes-factual-error-in-demo)
  - [Biden Is Trying to Buy EVs Time With New Tariffs on China. It Might Not Work](https://www.wired.com/story/new-ev-china-tariffs-biden/)
- - [Blink and you missed it: Google has a new pair of prototype AR glasses](https://www.theverge.com/2024/5/14/24156518/google-glass-prototype-ar-glasses-io-2024)
- - [Watch this screaming, rainbow-clad musician demo Google’s AI DJ](https://www.theverge.com/2024/5/14/24156630/google-ai-io-musician-marc-rebillet-musicfx-dj)
- - [Google announces AI-powered scam call detection on Android, a chatty new voice mode with its Gemini Live feature, and voice and video search with Google Lens &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240514/p43#a240514p43)<!-- TECH:END -->
+ - [Blink and you missed it: Google has a new pair of prototype AR glasses](https://www.theverge.com/2024/5/14/24156518/google-glass-prototype-ar-glasses-io-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

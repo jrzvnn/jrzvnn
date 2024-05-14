@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NBA Playoffs 2024: How to Watch Knicks vs. Pacers, Nuggets vs. Timberwolves Tonight on TNT     - CNET](https://www.cnet.com/tech/services-and-software/nba-playoffs-2024-how-to-watch-without-cable/#ftag=CAD590a51e)
+ - [Google I/O Was Confusing and That&#39;s a Big Problem     - CNET](https://www.cnet.com/tech/mobile/google-io-was-confusing-and-thats-a-big-problem/#ftag=CAD590a51e)
+ - [California Cuts $2 Billion in Broadband Funding. Here’s What It Means     - CNET](https://www.cnet.com/home/internet/california-cuts-2-billion-in-broadband-funding-heres-what-it-means/#ftag=CAD590a51e)
  - [Android apps will soon let you use your face to control your cursor](https://www.theverge.com/2024/5/14/24156810/google-android-project-gameface-accessibility-io)
- - [Killer deal: Apple&#39;s iPad Air dips to $399 at Amazon, the lowest price ever](https://appleinsider.com/articles/24/05/14/killer-deal-apples-ipad-air-dips-to-399-at-amazon-the-lowest-price-ever?utm_medium=rss)
- - [Meta will shut down its Teams competitor Workplace next year](https://www.theverge.com/2024/5/14/24156712/meta-workplace-facebook-work-shutdown)
- - [Google rolls out a search filter, named &quot;Web&quot;, to show only text-based links in results &lpar;Barry Schwartz/Search Engine Land&rpar;](http://www.techmeme.com/240514/p50#a240514p50)
- - [Agatha All Along will cast a spell on Disney Plus this September](https://www.theverge.com/24156847/agatha-all-along-premiere-date-disney-plus-marvel)<!-- TECH:END -->
+ - [Best Galaxy S24 Deals: Get Up to $1,000 Off a New Phone With Trade-In     - CNET](https://www.cnet.com/deals/best-galaxy-s24-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

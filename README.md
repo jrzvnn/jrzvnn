@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony reports Q4 revenue up 14% YoY to ~$22.4B, above ~$18.5B est., operating profit up 57% YoY to ~$1.5B, and sold 20.8M PS5 units in FY 2023, below guidance &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240514/p2#a240514p2)
  - [SSDI May Payment: Where Is Your Check?     - CNET](https://www.cnet.com/personal-finance/ssdi-may-payment-where-is-your-check/#ftag=CAD590a51e)
  - [Video game publishers are facing a wave of lawsuits that accuse the industry of profiting from intentionally promoting mass addiction and causing health issues &lpar;Rachel Graf/Bloomberg&rpar;](http://www.techmeme.com/240514/p1#a240514p1)
  - [How to master your Mac menubar](https://appleinsider.com/inside/mac/tips/how-to-master-your-mac-menubar?utm_medium=rss)
- - [Uber announces plans to acquire Delivery Hero&#39;s Foodpanda business in Taiwan for $950M in an all-cash deal, expected to close in the first half of 2025 &lpar;Sarah Zheng/Bloomberg&rpar;](http://www.techmeme.com/240513/p47#a240513p47)
- - [The Best Pillows for Side Sleepers in 2024     - CNET](https://www.cnet.com/health/sleep/best-pillow-for-side-sleepers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Uber announces plans to acquire Delivery Hero&#39;s Foodpanda business in Taiwan for $950M in an all-cash deal, expected to close in the first half of 2025 &lpar;Sarah Zheng/Bloomberg&rpar;](http://www.techmeme.com/240513/p47#a240513p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

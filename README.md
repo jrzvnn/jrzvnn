@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google’s Gemini video search makes factual error in demo](https://www.theverge.com/2024/5/14/24156729/googles-gemini-video-search-makes-factual-error-in-demo)
+ - [Biden Is Trying to Buy EVs Time With New Tariffs on China. It Might Not Work](https://www.wired.com/story/new-ev-china-tariffs-biden/)
+ - [Blink and you missed it: Google has a new pair of prototype AR glasses](https://www.theverge.com/2024/5/14/24156518/google-glass-prototype-ar-glasses-io-2024)
  - [Watch this screaming, rainbow-clad musician demo Google’s AI DJ](https://www.theverge.com/2024/5/14/24156630/google-ai-io-musician-marc-rebillet-musicfx-dj)
- - [Google announces AI-powered scam call detection on Android, a chatty new voice mode with its Gemini Live feature, and voice and video search with Google Lens &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240514/p43#a240514p43)
- - [Google&#39;s AI Search Tools Brings New Tricks     - CNET](https://www.cnet.com/tech/services-and-software/googles-ai-search-tools-brings-new-tricks/#ftag=CAD590a51e)
- - [Best Air Purifier Deals: Save Hundreds on Purifiers From Your Favorite Brands     - CNET](https://www.cnet.com/deals/best-air-purifier-deals/#ftag=CAD590a51e)
- - [22 Best High School Graduation Gifts They&#39;ll Actually Use     - CNET](https://www.cnet.com/news/high-school-graduation-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google announces AI-powered scam call detection on Android, a chatty new voice mode with its Gemini Live feature, and voice and video search with Google Lens &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240514/p43#a240514p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

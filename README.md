@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple says it prevented $7B+ in &quot;potentially fraudulent transactions&quot; on the App Store from 2020 through 2023, including $1.8B+ in 2023, down from $2B+ in 2022 &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240514/p42#a240514p42)
+ - [Google I/O 2024: everything announced](https://www.theverge.com/24153841/google-io-2024-ai-gemini-android-chrome-photos)
+ - [The 28 Best Movies on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/best-movies-hbo-max-right-now/)
  - [Google says Circle to Search can now solve physics and math problems, and will expand later this year to diagrams and graphs, powered by LearnLM models &lpar;Julian Chokkattu/Wired&rpar;](http://www.techmeme.com/240514/p41#a240514p41)
- - [Google announces that Gemini Advanced will update with deeper Android integration to answer questions about videos and PDFs being viewed on screen &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240514/p40#a240514p40)
- - [Google expands its SynthID watermark imprinting system to AI-generated video and text; the tool can already attempt to detect AI-generated images and audio &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/240514/p39#a240514p39)
- - [Google launches Firebase Genkit, an open-source framework that uses the Apache 2.0 license, in beta to let developers build, deploy, and monitor AI-powered apps &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240514/p38#a240514p38)
- - [The Blink Mini 2 security cam is an even better value now that it’s on sale for $30](https://www.theverge.com/2024/5/14/24156352/blink-mini-2-security-camera-apple-ipad-10th-gen-deal-sale)<!-- TECH:END -->
+ - [Google announces that Gemini Advanced will update with deeper Android integration to answer questions about videos and PDFs being viewed on screen &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240514/p40#a240514p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

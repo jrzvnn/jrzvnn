@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The best is Red Eric](http://9gag.com/gag/aYQpxMV)
- - 😝 [Happy Mothers day to all the Mums that love their children like Marianne Bachmeier, pictured here at the trial of her daughters Rapist.](http://9gag.com/gag/avyZreW)
- - 💣 [This is Poland. What do you notice?](http://9gag.com/gag/a9yMW2o)
+ - 😝 [Best kind of propaganda bot](http://9gag.com/gag/arye5oV)
+ - 😝 [Chernobyl&#39;s elephant foot](http://9gag.com/gag/axy2jLb)
+ - 💣 [Where are they boys?](http://9gag.com/gag/aAyVPog)
  - 😝 [I used to use them.](http://9gag.com/gag/aByQ8d1)
- - 👉 [When I said I wanted to remodel the bathroom I didn\u2019t realize I was going to make it bigger.](http://9gag.com/gag/aO8yzn2)<!-- MEMES:END -->
+ - 👉 [Dead inside...](http://9gag.com/gag/aD2wGPK)<!-- MEMES:END -->
 
 ---
 

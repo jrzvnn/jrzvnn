@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nippy](http://9gag.com/gag/aqyZ73v)
+ - 😝 [A normal debate...](http://9gag.com/gag/aQzp9Mq)
  - 😝 [A girls first true love is her father.](http://9gag.com/gag/a0ePKQO)
- - 💣 [A normal debate...](http://9gag.com/gag/aQzp9Mq)
- - 😝 [Restoration of a 1950s razor blade sharpener](http://9gag.com/gag/aXPEjrV)
- - 👉 [Refugees welcome to Poland](http://9gag.com/gag/aO8yY7y)<!-- MEMES:END -->
+ - 💣 [Spiderman VS Predator](http://9gag.com/gag/a87b5o1)
+ - 😝 [Refugees welcome to Poland](http://9gag.com/gag/aO8yY7y)
+ - 👉 [We do a little spring cleaning.](http://9gag.com/gag/aQzp3PW)<!-- MEMES:END -->
 
 ---
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Gemini&#39;s and OpenAI&#39;s updates play into Apple&#39;s AI strategy](https://appleinsider.com/articles/24/05/14/how-geminis-and-openais-updates-play-into-apples-ai-strategy?utm_medium=rss)
+ - [OpenAI chief scientist Ilya Sutskever is officially leaving](https://www.theverge.com/2024/5/14/24156920/openai-chief-scientist-ilya-sutskever-leaves)
+ - [Ilya Sutskever says he will leave OpenAI; Director of Research Jakub Pachocki will become OpenAI&#39;s new chief scientist &lpar;CNBC&rpar;](http://www.techmeme.com/240514/p52#a240514p52)
  - [Sam Altman says Ilya Sutskever and OpenAI are going to &quot;part ways&quot;, and Jakub Pachocki is going to be OpenAI&#39;s new chief scientist &lpar;Sam Altman/@sama&rpar;](http://www.techmeme.com/240514/p51#a240514p51)
- - [NBA Playoffs 2024: How to Watch Knicks vs. Pacers, Nuggets vs. Timberwolves Tonight on TNT     - CNET](https://www.cnet.com/tech/services-and-software/nba-playoffs-2024-how-to-watch-without-cable/#ftag=CAD590a51e)
- - [Google I/O Was Confusing and That&#39;s a Big Problem     - CNET](https://www.cnet.com/tech/mobile/google-io-was-confusing-and-thats-a-big-problem/#ftag=CAD590a51e)
- - [California Cuts $2 Billion in Broadband Funding. Here’s What It Means     - CNET](https://www.cnet.com/home/internet/california-cuts-2-billion-in-broadband-funding-heres-what-it-means/#ftag=CAD590a51e)
- - [Android apps will soon let you use your face to control your cursor](https://www.theverge.com/2024/5/14/24156810/google-android-project-gameface-accessibility-io)<!-- TECH:END -->
+ - [NBA Playoffs 2024: How to Watch Knicks vs. Pacers, Nuggets vs. Timberwolves Tonight on TNT     - CNET](https://www.cnet.com/tech/services-and-software/nba-playoffs-2024-how-to-watch-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

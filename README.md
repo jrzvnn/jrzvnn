@@ -163,9 +163,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [How to master your Mac menubar](https://appleinsider.com/inside/mac/tips/how-to-master-your-mac-menubar?utm_medium=rss)
  - [Uber announces plans to acquire Delivery Hero&#39;s Foodpanda business in Taiwan for $950M in an all-cash deal, expected to close in the first half of 2025 &lpar;Sarah Zheng/Bloomberg&rpar;](http://www.techmeme.com/240513/p47#a240513p47)
+ - [The Best Pillows for Side Sleepers in 2024     - CNET](https://www.cnet.com/health/sleep/best-pillow-for-side-sleepers/#ftag=CAD590a51e)
  - [Best Sheets of 2024     - CNET](https://www.cnet.com/health/sleep/best-sheets/#ftag=CAD590a51e)
- - [AI startups in the Bay Area raised $27B+ in 2023, more than 50% of global AI funding, up from $14B in 2022 when the region accounted for 29% of all AI funding &lpar;Gen&amp;eacute; Teare/Crunchbase News&rpar;](http://www.techmeme.com/240513/p46#a240513p46)
- - [Join CNET&#39;s Google I/O 2024 Watch Party: See Gemini AI, Android Reveals With Us     - CNET](https://www.cnet.com/tech/mobile/join-cnets-google-io-2024-watch-party-see-gemini-ai-android-reveals-with-us/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AI startups in the Bay Area raised $27B+ in 2023, more than 50% of global AI funding, up from $14B in 2022 when the region accounted for 29% of all AI funding &lpar;Gen&amp;eacute; Teare/Crunchbase News&rpar;](http://www.techmeme.com/240513/p46#a240513p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Morocco&#39;s under 13 vs Guinea&#39;s under 13 and guess who won?](http://9gag.com/gag/aE0GRpK)
- - 😝 [Best kind of propaganda bot](http://9gag.com/gag/arye5oV)
- - 💣 [Brazil is not for beginners](http://9gag.com/gag/ayNpx6q)
- - 😝 [Calcification on breast-implant](http://9gag.com/gag/a7oK7Yb)
- - 👉 [I used to use them.](http://9gag.com/gag/aByQ8d1)<!-- MEMES:END -->
+ - 😝 [When I said I wanted to remodel the bathroom I didn\u2019t realize I was going to make it bigger.](http://9gag.com/gag/aO8yzn2)
+ - 😝 [A normal debate...](http://9gag.com/gag/aQzp9Mq)
+ - 💣 [Calcification on breast-implant](http://9gag.com/gag/a7oK7Yb)
+ - 😝 [Dead inside...](http://9gag.com/gag/aD2wGPK)
+ - 👉 [Best kind of propaganda bot](http://9gag.com/gag/arye5oV)<!-- MEMES:END -->
 
 ---
 

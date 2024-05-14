@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best kind of propaganda bot](http://9gag.com/gag/arye5oV)
- - 😝 [Chernobyl&#39;s elephant foot](http://9gag.com/gag/axy2jLb)
- - 💣 [Where are they boys?](http://9gag.com/gag/aAyVPog)
- - 😝 [I used to use them.](http://9gag.com/gag/aByQ8d1)
- - 👉 [Dead inside...](http://9gag.com/gag/aD2wGPK)<!-- MEMES:END -->
+ - 😝 [Construction workers\u2019 morning warm up](http://9gag.com/gag/aQzp80d)
+ - 😝 [The best is Red Eric](http://9gag.com/gag/aYQpxMV)
+ - 💣 [I used to use them.](http://9gag.com/gag/aByQ8d1)
+ - 😝 [Morocco&#39;s under 13 vs Guinea&#39;s under 13 and guess who won?](http://9gag.com/gag/aE0GRpK)
+ - 👉 [A normal debate...](http://9gag.com/gag/aQzp9Mq)<!-- MEMES:END -->
 
 ---
 

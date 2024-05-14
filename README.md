@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Dutch judge finds Tornado Cash developer Alexey Pertsev guilty and sentences him to 64 months; Pertsev was jailed in August 2022 over alleged money laundering &lpar;Camomile Shumba/CoinDesk&rpar;](http://www.techmeme.com/240514/p13#a240514p13)
+ - [iPhone 16 Pro may get Apple&#39;s brightest display yet](https://appleinsider.com/articles/24/05/14/iphone-16-pro-may-get-apples-brightest-display-yet?utm_medium=rss)
+ - [UK newspapers tell Apple its &#39;web eraser&#39; will put journalism at risk](https://appleinsider.com/articles/24/05/13/uk-newspapers-tell-apple-its-web-eraser-will-put-journalism-at-risk?utm_medium=rss)
  - [The US NHTSA opens an investigation into Alphabet&#39;s Waymo, covering an estimated 444 vehicles and following 22 reports of 22 incidents, including 17 collisions &lpar;Reuters&rpar;](http://www.techmeme.com/240514/p12#a240514p12)
- - [Spend Just $13 and Get 2 Anker USB-C Fast Chargers at Amazon     - CNET](https://www.cnet.com/deals/spend-just-13-and-get-2-anker-usb-c-fast-chargers-at-amazon/#ftag=CAD590a51e)
- - [Get Microsoft Visio Professional 2021 for Just $20 for the Next Few Days     - CNET](https://www.cnet.com/deals/get-microsoft-visio-professional-2021-for-just-20-for-the-next-few-days/#ftag=CAD590a51e)
- - [iPad and Mac don&#39;t compete against each other, so buy both says Apple exec](https://appleinsider.com/articles/24/05/14/ipad-and-mac-dont-compete-against-each-other-so-buy-both-says-apple-exec?utm_medium=rss)
- - [Alibaba reports Q4 revenue up 6.6% YoY to ~$30.7B, above $30.4B est., a ~$452M net income, down 86% YoY from ~$3.2B in Q4 2023, and announces a $4B dividend &lpar;Sarah Zheng/Bloomberg&rpar;](http://www.techmeme.com/240514/p11#a240514p11)<!-- TECH:END -->
+ - [iPad and Mac don&#39;t compete against each other, so buy both says Apple exec](https://appleinsider.com/articles/24/05/14/ipad-and-mac-dont-compete-against-each-other-so-buy-both-says-apple-exec?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

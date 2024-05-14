@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US plans to sharply raise tariffs on imports from China including semiconductors, EVs, and batteries, impacting $18B of products; chip tariffs start in 2025 &lpar;Demetri Sevastopulo/Financial Times&rpar;](http://www.techmeme.com/240514/p6#a240514p6)
  - [Tencent reports Q1 revenue up 6% YoY to ~$22B, above ~$21.95B est., and net profit up 62% YoY to ~$5.8B, above ~$4.8B est., boosted by new WeChat monetization &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/240514/p5#a240514p5)
  - [How to Watch Google I/O 2024, and What to Expect](https://www.wired.com/story/google-io-2024-how-to-watch-what-to-expect/)
  - [German companies are increasingly experimenting with AI tools to become more productive and efficient, but some say the gains AI promises could be years away &lpar;Nina Kienle/Wall Street Journal&rpar;](http://www.techmeme.com/240514/p4#a240514p4)
- - [Foxconn reports Q1 revenue down 9% YoY to ~$40.9B, net profit up 72% YoY to ~$679M, and consumer electronics was 48% of its revenue while cloud was 28% &lpar;CNBC&rpar;](http://www.techmeme.com/240514/p3#a240514p3)
- - [Sony reports Q4 revenue up 14% YoY to ~$22.4B, above ~$18.5B est., operating profit up 57% YoY to ~$1.5B, and sold 20.8M PS5 units in FY 2023, below guidance &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240514/p2#a240514p2)<!-- TECH:END -->
+ - [Foxconn reports Q1 revenue down 9% YoY to ~$40.9B, net profit up 72% YoY to ~$679M, and consumer electronics was 48% of its revenue while cloud was 28% &lpar;CNBC&rpar;](http://www.techmeme.com/240514/p3#a240514p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

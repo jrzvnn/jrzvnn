@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Construction workers\u2019 morning warm up](http://9gag.com/gag/aQzp80d)
- - 😝 [The best is Red Eric](http://9gag.com/gag/aYQpxMV)
- - 💣 [I used to use them.](http://9gag.com/gag/aByQ8d1)
- - 😝 [Morocco&#39;s under 13 vs Guinea&#39;s under 13 and guess who won?](http://9gag.com/gag/aE0GRpK)
- - 👉 [A normal debate...](http://9gag.com/gag/aQzp9Mq)<!-- MEMES:END -->
+ - 😝 [Best kind of propaganda bot](http://9gag.com/gag/arye5oV)
+ - 😝 [Happy Mothers day to all the Mums that love their children like Marianne Bachmeier, pictured here at the trial of her daughters Rapist.](http://9gag.com/gag/avyZreW)
+ - 💣 [CANCELLED in 1989 due to low ratings &lpar;only 4.3m!&rpar;](http://9gag.com/gag/a9yMpVj)
+ - 😝 [I used to use them.](http://9gag.com/gag/aByQ8d1)
+ - 👉 [Morocco&#39;s under 13 vs Guinea&#39;s under 13 and guess who won?](http://9gag.com/gag/aE0GRpK)<!-- MEMES:END -->
 
 ---
 

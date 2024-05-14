@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nippy](http://9gag.com/gag/aqyZ73v)
+ - 😝 [Times Square is seen taken over. I don\u2019t even know what to say about this.](http://9gag.com/gag/aYQpgVx)
  - 😝 [Claw game so rigged that investigator can&#39;t force a win](http://9gag.com/gag/aD2w1A9)
- - 💣 [Times Square is seen taken over. I don\u2019t even know what to say about this.](http://9gag.com/gag/aYQpgVx)
- - 😝 [Final destination vibes](http://9gag.com/gag/a5QNMdO)
- - 👉 [Normal day in Australia](http://9gag.com/gag/a34dKR8)<!-- MEMES:END -->
+ - 💣 [F**k around, find out.](http://9gag.com/gag/aqyZ70p)
+ - 😝 [I used to use them.](http://9gag.com/gag/aByQ8d1)
+ - 👉 [The best is Red Eric](http://9gag.com/gag/aYQpxMV)<!-- MEMES:END -->
 
 ---
 

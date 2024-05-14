@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nippy](http://9gag.com/gag/aqyZ73v)
- - 😝 [This looks like Afghanistan, but this is Germany. Civilization is disappearing step by step](http://9gag.com/gag/aKGgxGQ)
- - 💣 [Apple vs Kitchen](http://9gag.com/gag/aAyV3rp)
- - 😝 [King of the castle King of the castle](http://9gag.com/gag/azxL9Km)
- - 👉 [Everything masterpiece has its cheap copy](http://9gag.com/gag/axy2zj2)<!-- MEMES:END -->
+ - 😝 [Happy Mothers day to all the Mums that love their children like Marianne Bachmeier, pictured here at the trial of her daughters Rapist.](http://9gag.com/gag/avyZreW)
+ - 😝 [This is Poland. What do you notice?](http://9gag.com/gag/a9yMW2o)
+ - 💣 [Final destination vibes](http://9gag.com/gag/a5QNMdO)
+ - 😝 [Guy will do anything to get laid on prom night](http://9gag.com/gag/an7XMGo)
+ - 👉 [Left or right?](http://9gag.com/gag/a2vPoQ1)<!-- MEMES:END -->
 
 ---
 

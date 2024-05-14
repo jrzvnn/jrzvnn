@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I used to use them.](http://9gag.com/gag/aByQ8d1)
- - 😝 [Morocco&#39;s under 13 vs Guinea&#39;s under 13 and guess who won?](http://9gag.com/gag/aE0GRpK)
- - 💣 [When I said I wanted to remodel the bathroom I didn\u2019t realize I was going to make it bigger.](http://9gag.com/gag/aO8yzn2)
- - 😝 [Happy Mothers day to all the Mums that love their children like Marianne Bachmeier, pictured here at the trial of her daughters Rapist.](http://9gag.com/gag/avyZreW)
- - 👉 [The best is Red Eric](http://9gag.com/gag/aYQpxMV)<!-- MEMES:END -->
+ - 😝 [This is the way](http://9gag.com/gag/avyZO8n)
+ - 😝 [Asshole in the parking](http://9gag.com/gag/a5QNnnN)
+ - 💣 [Are you happy?](http://9gag.com/gag/abAqzdb)
+ - 😝 [`Anime girls have unrealistic proportions`](http://9gag.com/gag/a2vPr6d)
+ - 👉 [Nippy](http://9gag.com/gag/aqyZ73v)<!-- MEMES:END -->
 
 ---
 

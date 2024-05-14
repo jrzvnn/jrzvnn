@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A live stream of the Google I/O 2024 keynote &lpar;Google on YouTube&rpar;](http://www.techmeme.com/240514/p23#a240514p23)
+ - [A live blog of Google I/O, where Android 15 updates, new generative AI features for its apps and search, and more are expected &lpar;The Verge&rpar;](http://www.techmeme.com/240514/p22#a240514p22)
  - [A look at OpenAI&#39;s GPT-4o and the decision to let all users access the model, helping to democratize AI and make it more present and connected to human systems &lpar;Ethan Mollick/One Useful Thing&rpar;](http://www.techmeme.com/240514/p21#a240514p21)
  - [Google I/O 2024 live blog: it’s AI time](https://www.theverge.com/24156147/google-io-2024-live-blog-ai-gemini)
- - [Secrecy Concerns Mount Over Spy Powers Targeting US Data Centers](https://www.wired.com/story/section-702-ecsp-civil-liberties-letter/)
- - [SEC filing: Unity Create CPO and CTO Marc Whitten is stepping down on June 1, less than one year after becoming entangled in the company&#39;s Runtime Fee fiasco &lpar;Chris Kerr/Game Developer&rpar;](http://www.techmeme.com/240514/p20#a240514p20)
- - [Amazon follows Fallout with live-action Tomb Raider show](https://www.theverge.com/2024/5/14/24156397/tomb-raider-series-amazon-phoebe-waller-bridge)<!-- TECH:END -->
+ - [OnePlus 12 Deals: Discounts and Trade-In Deals for All     - CNET](https://www.cnet.com/deals/oneplus-12-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

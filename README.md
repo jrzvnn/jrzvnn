@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A normal debate...](http://9gag.com/gag/aQzp9Mq)
- - 😝 [A girls first true love is her father.](http://9gag.com/gag/a0ePKQO)
- - 💣 [Spiderman VS Predator](http://9gag.com/gag/a87b5o1)
- - 😝 [Refugees welcome to Poland](http://9gag.com/gag/aO8yY7y)
- - 👉 [We do a little spring cleaning.](http://9gag.com/gag/aQzp3PW)<!-- MEMES:END -->
+ - 😝 [Nippy](http://9gag.com/gag/aqyZ73v)
+ - 😝 [Guy will do anything to get laid on prom night](http://9gag.com/gag/an7XMGo)
+ - 💣 [The new ChatGPT is `Her`](http://9gag.com/gag/a87b31Q)
+ - 😝 [Normal day in Australia](http://9gag.com/gag/a34dKR8)
+ - 👉 [When I said I wanted to remodel the bathroom I didn\u2019t realize I was going to make it bigger.](http://9gag.com/gag/aO8yzn2)<!-- MEMES:END -->
 
 ---
 

@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I used to use them.](http://9gag.com/gag/aByQ8d1)
+ - 😝 [This is Poland. What do you notice?](http://9gag.com/gag/a9yMW2o)
  - 😝 [Final destination vibes](http://9gag.com/gag/a5QNMdO)
- - 💣 [A normal debate...](http://9gag.com/gag/aQzp9Mq)
- - 😝 [Guy will do anything to get laid on prom night](http://9gag.com/gag/an7XMGo)
- - 👉 [Where are they boys?](http://9gag.com/gag/aAyVPog)<!-- MEMES:END -->
+ - 💣 [I used to use them.](http://9gag.com/gag/aByQ8d1)
+ - 😝 [Normal day in Australia](http://9gag.com/gag/a34dKR8)
+ - 👉 [Guy will do anything to get laid on prom night](http://9gag.com/gag/an7XMGo)<!-- MEMES:END -->
 
 ---
 

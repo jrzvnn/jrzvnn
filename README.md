@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google teases Project Astra, a camera-based AI app to process visual data in realtime, and showed a person wearing a pair of smart glasses using the feature &lpar;Cherlynn Low/Engadget&rpar;](http://www.techmeme.com/240514/p30#a240514p30)
- - [Google debuts Veo, a text-to-video model that outputs at 1080p resolution, and Imagen 3, its highest quality image generation model with improved text rendering &lpar;Devindra Hardawar/Engadget&rpar;](http://www.techmeme.com/240514/p29#a240514p29)
- - [Google announces the Gemini 1.5 Flash AI model, more lightweight than Gemini Pro, with a context window of 1M tokens and the multimodal capabilities of Pro &lpar;Pranav Dixit/Engadget&rpar;](http://www.techmeme.com/240514/p28#a240514p28)
- - [Apple blocked $7 billion in fraud attempts on the App Store](https://appleinsider.com/articles/24/05/14/apple-blocked-7-billion-in-fraud-attempts-on-the-app-store?utm_medium=rss)
- - [Google Photos is getting its own ‘Ask Photos’ assistant this summer](https://www.theverge.com/2024/5/14/24156552/google-photos-ask-gemini-feature-io)<!-- TECH:END -->
+ - [With Gemini on Android, Google Points to Mobile Computing’s Future—and Past](https://www.wired.com/story/google-io-gemini-on-android-circle-to-search/)
+ - [Google’s invisible AI watermark will help identify generative text and video](https://www.theverge.com/2024/5/14/24155927/google-ai-synthid-watermark-text-video-io)
+ - [Google will let you create personalized AI chatbots](https://www.theverge.com/2024/5/14/24156511/google-ai-gemini-gems-custom-chatbots)
+ - [Google will roll out AI overviews in search to all US users, starting this week, and in more countries soon; they will be available to 1B+ users by end of year &lpar;Barry Schwartz/Search Engine Land&rpar;](http://www.techmeme.com/240514/p32#a240514p32)
+ - [Gemini is about to get better at understanding what’s on your phone screen](https://www.theverge.com/2024/5/14/24155497/google-ai-gemini-assistant-android-context-io)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google announces that Gemini Advanced will update with deeper Android integration to answer questions about videos and PDFs being viewed on screen &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240514/p40#a240514p40)
  - [Google expands its SynthID watermark imprinting system to AI-generated video and text; the tool can already attempt to detect AI-generated images and audio &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/240514/p39#a240514p39)
  - [Google launches Firebase Genkit, an open-source framework that uses the Apache 2.0 license, in beta to let developers build, deploy, and monitor AI-powered apps &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240514/p38#a240514p38)
  - [The Blink Mini 2 security cam is an even better value now that it’s on sale for $30](https://www.theverge.com/2024/5/14/24156352/blink-mini-2-security-camera-apple-ipad-10th-gen-deal-sale)
- - [Google says Gemini Nano is now built into Chrome on desktop, with plans to use it to power features like the existing &quot;help me write&quot; tool &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240514/p37#a240514p37)
- - [Google unveils Gemini Pro in Workspace Labs, shipping later this month, that lets users summarize emails by topic and more, like &quot;compare my roof repair bids&quot; &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/240514/p36#a240514p36)<!-- TECH:END -->
+ - [Google says Gemini Nano is now built into Chrome on desktop, with plans to use it to power features like the existing &quot;help me write&quot; tool &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240514/p37#a240514p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

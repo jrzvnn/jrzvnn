@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Polymarket, a decentralized prediction and betting market with a focus on elections, has raised $70M across two rounds, the most recent led by Founders Fund &lpar;Bloomberg&rpar;](http://www.techmeme.com/240514/p17#a240514p17)
+ - [Ancient trees show how hot summers have gotten](https://www.theverge.com/2024/5/14/24155408/tree-rings-hottest-summer-climate-change-nature-research)
+ - [Apple &amp; Samsung tied for top spot in customer satisfaction study](https://appleinsider.com/articles/24/05/14/apple-samsung-tied-for-top-spot-in-customer-satisfaction-study?utm_medium=rss)
  - [Comcast plans cheap Apple TV+, Netflix, Peacock bundle](https://appleinsider.com/articles/24/05/14/comcast-plans-cheap-apple-tv-netflix-peacock-bundle?utm_medium=rss)
- - [US to raise tariffs on EVs, batteries, solar cells, and computer chips from China](https://www.theverge.com/2024/5/14/24156249/us-biden-china-tariffs-ev-solar-battery-semiconductor-critical-minerals)
- - [To Buy or Not to Buy a Home? The Decision Is Yours, Not a Real Estate Agent&#39;s     - CNET](https://www.cnet.com/personal-finance/stop-asking-me-if-you-should-wait-to-buy-a-house-im-just-a-real-estate-agent/#ftag=CAD590a51e)
- - [Pick Up a Google Pixel Tablet for an Incredibly Low $380 Today Only     - CNET](https://www.cnet.com/deals/pick-up-a-google-pixel-tablet-for-an-incredibly-low-380-today-only/#ftag=CAD590a51e)
- - [Get Yourself a Brand-New Greenworks Electric Pressure Washer With Up to $32 Off     - CNET](https://www.cnet.com/deals/get-yourself-a-brand-new-greenworks-electric-pressure-washer-with-up-to-32-off/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [US to raise tariffs on EVs, batteries, solar cells, and computer chips from China](https://www.theverge.com/2024/5/14/24156249/us-biden-china-tariffs-ev-solar-battery-semiconductor-critical-minerals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

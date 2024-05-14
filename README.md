@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [3000 Islamists took to the streets of Hamburg today. The Salafist organization \u201cMuslim Interaktiv\u201d and the protesters called for German law to be replaced with Sharia Law and for the Caliphate to be established in place of the German state.](http://9gag.com/gag/a87bp2O)
- - 😝 [Dead inside...](http://9gag.com/gag/aD2wGPK)
- - 💣 [Almost 100 hours... And that&#39;s all he got?](http://9gag.com/gag/aLnQMAx)
- - 😝 [Calcification on breast-implant](http://9gag.com/gag/a7oK7Yb)
- - 👉 [That shirt is a little low, isn&#39;t it?](http://9gag.com/gag/ae93YOp)<!-- MEMES:END -->
+ - 😝 [Happy Mothers day to all the Mums that love their children like Marianne Bachmeier, pictured here at the trial of her daughters Rapist.](http://9gag.com/gag/avyZreW)
+ - 😝 [Brazil is not for beginners](http://9gag.com/gag/ayNpx6q)
+ - 💣 [A normal debate...](http://9gag.com/gag/aQzp9Mq)
+ - 😝 [Where are they boys?](http://9gag.com/gag/aAyVPog)
+ - 👉 [Best kind of propaganda bot](http://9gag.com/gag/arye5oV)<!-- MEMES:END -->
 
 ---
 

@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is Poland. What do you notice?](http://9gag.com/gag/a9yMW2o)
- - 😝 [Final destination vibes](http://9gag.com/gag/a5QNMdO)
- - 💣 [I used to use them.](http://9gag.com/gag/aByQ8d1)
+ - 😝 [Best kind of propaganda bot](http://9gag.com/gag/arye5oV)
  - 😝 [Normal day in Australia](http://9gag.com/gag/a34dKR8)
- - 👉 [Guy will do anything to get laid on prom night](http://9gag.com/gag/an7XMGo)<!-- MEMES:END -->
+ - 💣 [This is Poland. What do you notice?](http://9gag.com/gag/a9yMW2o)
+ - 😝 [The best is Red Eric](http://9gag.com/gag/aYQpxMV)
+ - 👉 [Morocco&#39;s under 13 vs Guinea&#39;s under 13 and guess who won?](http://9gag.com/gag/aE0GRpK)<!-- MEMES:END -->
 
 ---
 

@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US moves to stop buying uranium from Russia and start producing it at home](https://www.theverge.com/2024/5/14/24156439/us-bans-russian-uranium-nuclear-energy-ukraine-war)
  - [Apple says it prevented $7B+ in &quot;potentially fraudulent transactions&quot; on the App Store from 2020 through 2023, including $1.8B+ in 2023, down from $2B+ in 2022 &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240514/p42#a240514p42)
  - [Google I/O 2024: everything announced](https://www.theverge.com/24153841/google-io-2024-ai-gemini-android-chrome-photos)
  - [The 28 Best Movies on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/best-movies-hbo-max-right-now/)
- - [Google says Circle to Search can now solve physics and math problems, and will expand later this year to diagrams and graphs, powered by LearnLM models &lpar;Julian Chokkattu/Wired&rpar;](http://www.techmeme.com/240514/p41#a240514p41)
- - [Google announces that Gemini Advanced will update with deeper Android integration to answer questions about videos and PDFs being viewed on screen &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240514/p40#a240514p40)<!-- TECH:END -->
+ - [Google says Circle to Search can now solve physics and math problems, and will expand later this year to diagrams and graphs, powered by LearnLM models &lpar;Julian Chokkattu/Wired&rpar;](http://www.techmeme.com/240514/p41#a240514p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

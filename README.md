@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happy Mothers day to all the Mums that love their children like Marianne Bachmeier, pictured here at the trial of her daughters Rapist.](http://9gag.com/gag/avyZreW)
- - 😝 [This is Poland. What do you notice?](http://9gag.com/gag/a9yMW2o)
- - 💣 [Final destination vibes](http://9gag.com/gag/a5QNMdO)
+ - 😝 [I used to use them.](http://9gag.com/gag/aByQ8d1)
+ - 😝 [Final destination vibes](http://9gag.com/gag/a5QNMdO)
+ - 💣 [A normal debate...](http://9gag.com/gag/aQzp9Mq)
  - 😝 [Guy will do anything to get laid on prom night](http://9gag.com/gag/an7XMGo)
- - 👉 [Left or right?](http://9gag.com/gag/a2vPoQ1)<!-- MEMES:END -->
+ - 👉 [Where are they boys?](http://9gag.com/gag/aAyVPog)<!-- MEMES:END -->
 
 ---
 

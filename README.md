@@ -170,11 +170,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happy Mothers day to all the Mums that love their children like Marianne Bachmeier, pictured here at the trial of her daughters Rapist.](http://9gag.com/gag/avyZreW)
- - 😝 [Brazil is not for beginners](http://9gag.com/gag/ayNpx6q)
- - 💣 [A normal debate...](http://9gag.com/gag/aQzp9Mq)
- - 😝 [Where are they boys?](http://9gag.com/gag/aAyVPog)
- - 👉 [Best kind of propaganda bot](http://9gag.com/gag/arye5oV)<!-- MEMES:END -->
+ - 😝 [Best kind of propaganda bot](http://9gag.com/gag/arye5oV)
+ - 😝 [A normal debate...](http://9gag.com/gag/aQzp9Mq)
+ - 💣 [Where are they boys?](http://9gag.com/gag/aAyVPog)
+ - 😝 [Dead inside...](http://9gag.com/gag/aD2wGPK)
+ - 👉 [Happy Mothers day to all the Mums that love their children like Marianne Bachmeier, pictured here at the trial of her daughters Rapist.](http://9gag.com/gag/avyZreW)<!-- MEMES:END -->
 
 ---
 

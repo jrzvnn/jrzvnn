@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That shirt is a little low, isn&#39;t it?](http://9gag.com/gag/ae93YOp)
- - 😝 [When I said I wanted to remodel the bathroom I didn\u2019t realize I was going to make it bigger.](http://9gag.com/gag/aO8yzn2)
- - 💣 [Dead inside...](http://9gag.com/gag/aD2wGPK)
  - 😝 [Morocco&#39;s under 13 vs Guinea&#39;s under 13 and guess who won?](http://9gag.com/gag/aE0GRpK)
+ - 😝 [Best kind of propaganda bot](http://9gag.com/gag/arye5oV)
+ - 💣 [Brazil is not for beginners](http://9gag.com/gag/ayNpx6q)
+ - 😝 [Calcification on breast-implant](http://9gag.com/gag/a7oK7Yb)
  - 👉 [I used to use them.](http://9gag.com/gag/aByQ8d1)<!-- MEMES:END -->
 
 ---

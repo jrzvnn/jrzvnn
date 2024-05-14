@@ -171,10 +171,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [I dont know but this is intense](http://9gag.com/gag/ayNpBey)
- - 😝 [F**k around, find out.](http://9gag.com/gag/aqyZ70p)
- - 💣 [Dead inside...](http://9gag.com/gag/aD2wGPK)
- - 😝 [The best is Red Eric](http://9gag.com/gag/aYQpxMV)
- - 👉 [I used to use them.](http://9gag.com/gag/aByQ8d1)<!-- MEMES:END -->
+ - 😝 [Best kind of propaganda bot](http://9gag.com/gag/arye5oV)
+ - 💣 [Morocco&#39;s under 13 vs Guinea&#39;s under 13 and guess who won?](http://9gag.com/gag/aE0GRpK)
+ - 😝 [I used to use them.](http://9gag.com/gag/aByQ8d1)
+ - 👉 [Normal day in Australia](http://9gag.com/gag/a34dKR8)<!-- MEMES:END -->
 
 ---
 

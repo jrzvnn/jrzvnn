@@ -170,10 +170,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I dont know but this is intense](http://9gag.com/gag/ayNpBey)
  - 😝 [Best kind of propaganda bot](http://9gag.com/gag/arye5oV)
- - 💣 [Morocco&#39;s under 13 vs Guinea&#39;s under 13 and guess who won?](http://9gag.com/gag/aE0GRpK)
  - 😝 [I used to use them.](http://9gag.com/gag/aByQ8d1)
+ - 💣 [Nippy](http://9gag.com/gag/aqyZ73v)
+ - 😝 [Dead inside...](http://9gag.com/gag/aD2wGPK)
  - 👉 [Normal day in Australia](http://9gag.com/gag/a34dKR8)<!-- MEMES:END -->
 
 ---

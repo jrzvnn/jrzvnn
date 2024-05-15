@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Final destination vibes](http://9gag.com/gag/a5QNMdO)
- - 😝 [Guy will do anything to get laid on prom night](http://9gag.com/gag/an7XMGo)
- - 💣 [Brazil is not for beginners](http://9gag.com/gag/ayNpx6q)
- - 😝 [Not so funny](http://9gag.com/gag/aKGgxNj)
- - 👉 [The best is Red Eric](http://9gag.com/gag/aYQpxMV)<!-- MEMES:END -->
+ - 😝 [I used to use them.](http://9gag.com/gag/aByQ8d1)
+ - 😝 [Claw game so rigged that investigator can&#39;t force a win](http://9gag.com/gag/aD2w1A9)
+ - 💣 [The best is Red Eric](http://9gag.com/gag/aYQpxMV)
+ - 😝 [Movie?](http://9gag.com/gag/aqyZKrZ)
+ - 👉 [Not so funny](http://9gag.com/gag/aKGgxNj)<!-- MEMES:END -->
 
 ---
 

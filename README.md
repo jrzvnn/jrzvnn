@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The arrival of AI search bodes ill for everyone who relied on web search to have their business discovered, or their blog post read, or their journalism funded &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/240515/p7#a240515p7)
  - [USDC issuer Circle, which confidentially filed for a US IPO in January, plans to shift its legal base to the US form Ireland, and may face more onerous taxes &lpar;Ryan Weeks/Bloomberg&rpar;](http://www.techmeme.com/240515/p6#a240515p6)
  - [Adam Mosseri says Threads &quot;recently rolled out&quot; its own fact-checking program after piggybacking on Instagram and Facebook&#39;s network for a few months &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240515/p5#a240515p5)
  - [Huawei is revamping its retail strategy and aggressively opening flagship stores in China, opening four such stores between December 2023 and February 2024 &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/240515/p4#a240515p4)
- - [Foxconn&#39;s Sharp shifts focus to consumer electronics and AI after decision to exit TV display production, and is looking to sell its camera, chip device units &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240515/p3#a240515p3)
- - [Jan Leike, who was co-leading OpenAI&#39;s Superalignment team with Ilya Sutskever to &quot;steer and control&quot; more powerful AI, has also resigned from the company &lpar;The Verge&rpar;](http://www.techmeme.com/240515/p2#a240515p2)<!-- TECH:END -->
+ - [Foxconn&#39;s Sharp shifts focus to consumer electronics and AI after decision to exit TV display production, and is looking to sell its camera, chip device units &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240515/p3#a240515p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

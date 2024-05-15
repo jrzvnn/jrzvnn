@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google opens up its smart home to everyone and will make Google TVs home hubs](https://www.theverge.com/2024/5/15/24157154/google-home-api-matter-smart-home-chromecast-google-tv)
- - [Uber is adding scheduled carpool rides and shuttle service for airports and concerts](https://www.theverge.com/2024/5/15/24156709/uber-shuttle-airport-concert-scheduled-carpool)
- - [Intel’s Thunderbolt Share lets two PCs control each other over a USB cable](https://www.theverge.com/2024/5/15/24156519/intel-thunderbolt-share-app)
- - [Networking infrastructure startup Alkira, which lets users virtualize hybrid cloud assets, raised a $100M Series C led by Tiger, for $176M in total funding &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240515/p33#a240515p33)
- - [There are a lot of new accessibility features coming in iOS 18 and visionOS 2.0](https://appleinsider.com/articles/24/05/15/there-are-a-lot-of-new-accessibility-features-coming-in-ios-18-and-visionos-20?utm_medium=rss)<!-- TECH:END -->
+ - [Google opens early API access to its Google Home platform, letting developers join a waitlist to access 600M+ Matter or Works with Google Home devices &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/240515/p34#a240515p34)
+ - [Eve’s Android app is finally almost here, thanks to Google’s new Home APIs](https://www.theverge.com/2024/5/15/24157241/google-eve-smart-home-android-app-launch-matter)
+ - [ADT’s new security system has facial recognition powered by Google Nest](https://www.theverge.com/2024/5/15/24156573/adt-plus-google-home-smart-security-system-trusted-neighbor)
+ - [Apple’s new accessibility features let you control an iPhone or iPad with your eyes](https://www.theverge.com/2024/5/15/24157271/apple-eye-tracking-speech-motion-sickness-accessibility-features)
+ - [Netflix snagged global streaming rights for NFL Christmas Day games](https://www.theverge.com/2024/5/15/24157289/netflix-nfl-game-streaming-global-christmas-day)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

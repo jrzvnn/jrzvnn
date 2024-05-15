@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`She doth teach the torches to burn bright. As a rich jewel in an Ethiope\u2019s ear.`](http://9gag.com/gag/aW40jm6)
- - 😝 [Normal day in Australia](http://9gag.com/gag/a34dKR8)
- - 💣 [Might be dying. We&#39;ll see. If so, thanks for everything.](http://9gag.com/gag/aAyVeBd)
- - 😝 [Left or right?](http://9gag.com/gag/a2vPoQ1)
- - 👉 [It was not gonna last](http://9gag.com/gag/aPAy7LV)<!-- MEMES:END -->
+ - 😝 [OMG.. KING!!!! F O B*TCH](http://9gag.com/gag/ae93DMv)
+ - 😝 [I don&#39;t even drink and even I&#39;ve experienced this. I don&#39;t like people](http://9gag.com/gag/a5QNWwy)
+ - 💣 [Uncanny](http://9gag.com/gag/aZZW0rX)
+ - 😝 [It&#39;s time for Jeff Bezos to start asking questions.](http://9gag.com/gag/an7XQz0)
+ - 👉 [Looking for work? We need 3 workers](http://9gag.com/gag/aVvQwVv)<!-- MEMES:END -->
 
 ---
 

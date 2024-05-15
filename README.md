@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Networking infrastructure startup Alkira, which lets users virtualize hybrid cloud assets, raised a $100M Series C led by Tiger, for $176M in total funding &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240515/p33#a240515p33)
  - [There are a lot of new accessibility features coming in iOS 18 and visionOS 2.0](https://appleinsider.com/articles/24/05/15/there-are-a-lot-of-new-accessibility-features-coming-in-ios-18-and-visionos-20?utm_medium=rss)
+ - [Max’s Dune prequel series starts streaming this fall](https://www.theverge.com/24157282/dune-prophet-prequel-series-max-trailer)
  - [London-based PolyAI, which makes AI voice assistants for call centres, raised $50M led by Hedosophia, with money from Nvidia and others, at a $500M+ valuation &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/240515/p32#a240515p32)
- - [Deleted images haunt iPhone users in Photos for iOS 17.5](https://appleinsider.com/articles/24/05/15/deleted-images-haunt-iphone-users-in-photos-for-ios-175?utm_medium=rss)
- - [Anthropic hires Instagram and Artifact co-founder Mike Krieger as its chief product officer, after the startup released an iOS app for its Claude chatbot &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240515/p31#a240515p31)
- - [Apple unveils accessibility features, including Eye Tracking, to let users with physical disabilities control iPad or iPhone with their eyes, and Music Haptics &lpar;Cherlynn Low/Engadget&rpar;](http://www.techmeme.com/240515/p30#a240515p30)<!-- TECH:END -->
+ - [Deleted images haunt iPhone users in Photos for iOS 17.5](https://appleinsider.com/articles/24/05/15/deleted-images-haunt-iphone-users-in-photos-for-ios-175?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

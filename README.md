@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not so funny](http://9gag.com/gag/aKGgxNj)
- - 😝 [Might be dying. We&#39;ll see. If so, thanks for everything.](http://9gag.com/gag/aAyVeBd)
- - 💣 [Claw game so rigged that investigator can&#39;t force a win](http://9gag.com/gag/aD2w1A9)
+ - 😝 [I used to use them.](http://9gag.com/gag/aByQ8d1)
+ - 😝 [Normal day in Australia](http://9gag.com/gag/a34dKR8)
+ - 💣 [Spiderman VS Predator](http://9gag.com/gag/a87b5o1)
  - 😝 [Final destination vibes](http://9gag.com/gag/a5QNMdO)
- - 👉 [I used to use them.](http://9gag.com/gag/aByQ8d1)<!-- MEMES:END -->
+ - 👉 [The best is Red Eric](http://9gag.com/gag/aYQpxMV)<!-- MEMES:END -->
 
 ---
 

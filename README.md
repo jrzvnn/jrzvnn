@@ -169,10 +169,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [And their country will be called Chindonesia](http://9gag.com/gag/ajP69xR)
- - 😝 [Guy will do anything to get laid on prom night](http://9gag.com/gag/an7XMGo)
- - 💣 [Final destination vibes](http://9gag.com/gag/a5QNMdO)
- - 😝 [We do a little spring cleaning.](http://9gag.com/gag/aQzp3PW)
- - 👉 [Normal day in Australia](http://9gag.com/gag/a34dKR8)<!-- MEMES:END -->
+ - 😝 [OMG.. KING!!!! F O B*TCH](http://9gag.com/gag/ae93DMv)
+ - 💣 [Movie?](http://9gag.com/gag/aqyZKrZ)
+ - 😝 [Might be dying. We&#39;ll see. If so, thanks for everything.](http://9gag.com/gag/aAyVeBd)
+ - 👉 [Guy will do anything to get laid on prom night](http://9gag.com/gag/an7XMGo)<!-- MEMES:END -->
 
 ---
 

@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sourly](http://9gag.com/gag/an7X4no)
- - 😝 [Cultural Enrichment Type tries to molest woman on train, gets pushed onto tracks and loses an arm](http://9gag.com/gag/aKGg7pO)
- - 💣 [Never forget the legend](http://9gag.com/gag/aW40E8n)
- - 😝 [OMG.. KING!!!! F O B*TCH](http://9gag.com/gag/ae93DMv)
- - 👉 [I don&#39;t even drink and even I&#39;ve experienced this. I don&#39;t like people](http://9gag.com/gag/a5QNWwy)<!-- MEMES:END -->
+ - 😝 [Might be dying. We&#39;ll see. If so, thanks for everything.](http://9gag.com/gag/aAyVeBd)
+ - 😝 [Not so funny](http://9gag.com/gag/aKGgxNj)
+ - 💣 [In a viral video clip on social media it is discovered that a street vendor was cooking pharata in diesel oil and later it was found that he has been cooking it in diesel for almost 35 years](http://9gag.com/gag/ajP6mAp)
+ - 😝 [Movie?](http://9gag.com/gag/aqyZKrZ)
+ - 👉 [OMG.. KING!!!! F O B*TCH](http://9gag.com/gag/ae93DMv)<!-- MEMES:END -->
 
 ---
 

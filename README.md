@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not so funny](http://9gag.com/gag/aKGgxNj)
- - 😝 [Left or right?](http://9gag.com/gag/a2vPoQ1)
- - 💣 [`She doth teach the torches to burn bright. As a rich jewel in an Ethiope\u2019s ear.`](http://9gag.com/gag/aW40jm6)
- - 😝 [OMG.. KING!!!! F O B*TCH](http://9gag.com/gag/ae93DMv)
- - 👉 [Might be dying. We&#39;ll see. If so, thanks for everything.](http://9gag.com/gag/aAyVeBd)<!-- MEMES:END -->
+ - 😝 [Happy fathers day coming...](http://9gag.com/gag/aByQgyx)
+ - 😝 [Raising another list to cleanse your eyes and mind after watching garbage &#39;focus group&#39; movies.](http://9gag.com/gag/an7X9V5)
+ - 💣 [In a viral video clip on social media it is discovered that a street vendor was cooking pharata in diesel oil and later it was found that he has been cooking it in diesel for almost 35 years](http://9gag.com/gag/ajP6mAp)
+ - 😝 [Movie?](http://9gag.com/gag/aqyZKrZ)
+ - 👉 [Not so funny](http://9gag.com/gag/aKGgxNj)<!-- MEMES:END -->
 
 ---
 

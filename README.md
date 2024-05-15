@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kentucky-based PayHOA, a bootstrapped startup that offers software for self-managed homeowner associations, raised a $27.5M Series A and reports 652K+ users &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240515/p20#a240515p20)
+ - [Despite Bird Flu Risk, Raw-Milk Drinkers Are Undaunted](https://www.wired.com/story/raw-milk-drinkers-h5n1-bird-flu/)
  - [A US federal court orders Elon Musk to testify again in an SEC investigation into his $44B Twitter takeover; the SEC sued Musk in October 2023 to testify &lpar;Reuters&rpar;](http://www.techmeme.com/240515/p19#a240515p19)
  - [Comcast has a Netflix, Peacock, and Apple TV Plus bundle coming next month](https://www.theverge.com/2024/5/15/24157137/comcast-netflix-peacock-apple-tv-plus-streaming-bundle)
- - [A study of 2,414,294 people in 168 countries between 2006 and 2021 finds 84.9% of associations between internet connectivity and wellbeing were positive &lpar;University of Oxford&rpar;](http://www.techmeme.com/240515/p18#a240515p18)
- - [Deadspin’s New Owners Reveal Their Plans: Betting Content—but No AI](https://www.wired.com/story/deadspin-new-owners-reveal-plans-betting-content-no-ai/)
- - [Razer Blade 14 vs. Asus Rog Zephyrus G14: uncompromised value](https://www.theverge.com/24155889/razer-blade-14-2024-asus-rog-zephyrus-g14-comparison)<!-- TECH:END -->
+ - [A study of 2,414,294 people in 168 countries between 2006 and 2021 finds 84.9% of associations between internet connectivity and wellbeing were positive &lpar;University of Oxford&rpar;](http://www.techmeme.com/240515/p18#a240515p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

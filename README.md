@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung’s customizable Music Frame speaker is receiving its first discount](https://www.theverge.com/2024/5/15/24156876/samsung-music-frame-speaker-roku-streaming-stick-4k-deal-sale)
+ - [Spotify received a cease-and-desist letter from the National Music Publishers&#39; Association over its use of lyrics in its videos feature, remix tool, and more &lpar;Kristin Robinson/Billboard&rpar;](http://www.techmeme.com/240515/p54#a240515p54)
+ - [The US Election Threats Are Clear. What to Do About Them Is Anything But](https://www.wired.com/story/election-threats-senate-hearing-ai-disinformation-deepfakes/)
  - [Google One&#39;s VPN service will no longer be available as of June 20, 2024; Pixel 7 devices and Pixel Fold will get a built-in VPN via an update on June 3, 2024 &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240515/p53#a240515p53)
- - [Crochet Kit for Beginners     - CNET](https://www.cnet.com/news/crochet-kit-for-beginners-dpnl/#ftag=CAD590a51e)
- - [Best OnePlus 11 Deals: Save Hundreds When You Trade In     - CNET](https://www.cnet.com/deals/oneplus-11-deals/#ftag=CAD590a51e)
- - [Google Sheets’ new formatting feature has Excel switchers excited](https://www.theverge.com/2024/5/15/24157659/google-sheets-tables-formatting)
- - [Diamond Painting Kit     - CNET](https://www.cnet.com/news/diamond-painting-kit/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Crochet Kit for Beginners     - CNET](https://www.cnet.com/news/crochet-kit-for-beginners-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

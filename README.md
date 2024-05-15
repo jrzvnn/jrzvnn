@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And their country will be called Chindonesia](http://9gag.com/gag/ajP69xR)
- - 😝 [OMG.. KING!!!! F O B*TCH](http://9gag.com/gag/ae93DMv)
- - 💣 [`She doth teach the torches to burn bright. As a rich jewel in an Ethiope\u2019s ear.`](http://9gag.com/gag/aW40jm6)
- - 😝 [Don&#39;t forget the director&#39;s.](http://9gag.com/gag/a87bGZY)
- - 👉 [Left or right?](http://9gag.com/gag/a2vPoQ1)<!-- MEMES:END -->
+ - 😝 [Might be dying. We&#39;ll see. If so, thanks for everything.](http://9gag.com/gag/aAyVeBd)
+ - 😝 [Not so funny](http://9gag.com/gag/aKGgxNj)
+ - 💣 [OMG.. KING!!!! F O B*TCH](http://9gag.com/gag/ae93DMv)
+ - 😝 [He&#39;s actually in hospital](http://9gag.com/gag/aGyVpow)
+ - 👉 [In a viral video clip on social media it is discovered that a street vendor was cooking pharata in diesel oil and later it was found that he has been cooking it in diesel for almost 35 years](http://9gag.com/gag/ajP6mAp)<!-- MEMES:END -->
 
 ---
 

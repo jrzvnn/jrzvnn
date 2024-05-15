@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Yemen is holding back repairs on the key AAE-1 internet cable in the Red Sea during a criminal investigation into the cable owners&#39; alleged Houthi militia ties &lpar;Bloomberg&rpar;](http://www.techmeme.com/240515/p13#a240515p13)
  - [AWS details its European &quot;sovereign cloud&quot;, designed to enable greater data residency, starting in Germany, and plans to invest &amp;euro;7.8B in the region by 2040 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240515/p12#a240515p12)
  - [Insiders detail the crypto industry&#39;s lobbying efforts ahead of the 2024 US elections, as crypto-focused PACs shape the outcome of some key congressional races &lpar;Cheyenne Ligon/CoinDesk&rpar;](http://www.techmeme.com/240515/p11#a240515p11)
  - [Research: Southeast Asian scam syndicates, which typically use forced labor to run online scams like pig butchering, are stealing an estimated $64B annually &lpar;James Reddick/The Record&rpar;](http://www.techmeme.com/240515/p10#a240515p10)
- - [You May Get a Boost in SSI Benefits This Year. What to Know     - CNET](https://www.cnet.com/personal-finance/you-may-get-a-boost-in-ssi-benefits-this-year-what-to-know/#ftag=CAD590a51e)
- - [Are You Paying for Moving Boxes? You&#39;re Doing It Wrong     - CNET](https://www.cnet.com/how-to/are-you-paying-for-moving-boxes-youre-doing-it-wrong/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [You May Get a Boost in SSI Benefits This Year. What to Know     - CNET](https://www.cnet.com/personal-finance/you-may-get-a-boost-in-ssi-benefits-this-year-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

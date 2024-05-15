@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AWS details its European &quot;sovereign cloud&quot;, designed to enable greater data residency, starting in Germany, and plans to invest &amp;euro;7.8B in the region by 2040 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240515/p12#a240515p12)
  - [Insiders detail the crypto industry&#39;s lobbying efforts ahead of the 2024 US elections, as crypto-focused PACs shape the outcome of some key congressional races &lpar;Cheyenne Ligon/CoinDesk&rpar;](http://www.techmeme.com/240515/p11#a240515p11)
  - [Research: Southeast Asian scam syndicates, which typically use forced labor to run online scams like pig butchering, are stealing an estimated $64B annually &lpar;James Reddick/The Record&rpar;](http://www.techmeme.com/240515/p10#a240515p10)
- - [Tado adds Matter to new smart heating range](https://www.theverge.com/2024/5/15/24157114/tado-x-matter-thread-smart-heating-europe-price)
- - [Raspberry Pi announces plans for an IPO in London, reporting $265.8M revenue and $43.5M adjusted EBITDA in 2023, and is reportedly seeking a ~$630M valuation &lpar;Olivia Solon/Bloomberg&rpar;](http://www.techmeme.com/240515/p9#a240515p9)
- - [Google releases Project IDX, its next-gen AI-centric browser-based IDE, in open beta, and says that 100,000+ developers tried the service in invite-only phase &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240515/p8#a240515p8)<!-- TECH:END -->
+ - [You May Get a Boost in SSI Benefits This Year. What to Know     - CNET](https://www.cnet.com/personal-finance/you-may-get-a-boost-in-ssi-benefits-this-year-what-to-know/#ftag=CAD590a51e)
+ - [Are You Paying for Moving Boxes? You&#39;re Doing It Wrong     - CNET](https://www.cnet.com/how-to/are-you-paying-for-moving-boxes-youre-doing-it-wrong/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

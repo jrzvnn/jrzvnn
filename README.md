@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I used to use them.](http://9gag.com/gag/aByQ8d1)
- - 😝 [Claw game so rigged that investigator can&#39;t force a win](http://9gag.com/gag/aD2w1A9)
- - 💣 [The best is Red Eric](http://9gag.com/gag/aYQpxMV)
  - 😝 [Movie?](http://9gag.com/gag/aqyZKrZ)
- - 👉 [Not so funny](http://9gag.com/gag/aKGgxNj)<!-- MEMES:END -->
+ - 😝 [When I said I wanted to remodel the bathroom I didn\u2019t realize I was going to make it bigger.](http://9gag.com/gag/aO8yzn2)
+ - 💣 [I used to use them.](http://9gag.com/gag/aByQ8d1)
+ - 😝 [Not so funny](http://9gag.com/gag/aKGgxNj)
+ - 👉 [Left or right?](http://9gag.com/gag/a2vPoQ1)<!-- MEMES:END -->
 
 ---
 

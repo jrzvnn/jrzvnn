@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A study of 2,414,294 people in 168 countries between 2006 and 2021 finds 84.9% of associations between internet connectivity and wellbeing were positive &lpar;University of Oxford&rpar;](http://www.techmeme.com/240515/p18#a240515p18)
+ - [Razer Blade 14 vs. Asus Rog Zephyrus G14: uncompromised value](https://www.theverge.com/24155889/razer-blade-14-2024-asus-rog-zephyrus-g14-comparison)
+ - [How to get VMWare Fusion Pro 13 for free](https://appleinsider.com/inside/macos/tips/how-to-get-vmware-fusion-pro-13-for-free?utm_medium=rss)
  - [A leaked Dell XPS roadmap details Qualcomm&#39;s &quot;Oryon V2&quot; series, possibly named Snapdragon X Gen2 and launching in H2 2025, and &quot;QC Oryon V3&quot;, set for late 2027 &lpar;VideoCardz.com&rpar;](http://www.techmeme.com/240515/p17#a240515p17)
- - [Apple letting the new iPad Pro run macOS would require major tradeoffs and adding touch to Mac would lead to &quot;a lot of flakey software that doesn&#39;t really work&quot; &lpar;Steven Sinofsky/@stevesi&rpar;](http://www.techmeme.com/240515/p16#a240515p16)
- - [TSMC SVP Kevin Zhang says ASML&#39;s new machines, which cost &amp;euro;350M each, are too expensive, and the A16 node, due in late 2026, won&#39;t need to use the new machines &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/240515/p15#a240515p15)
- - [Dell leak details next-gen Windows on Arm chips, 29-hour laptops, and more](https://www.theverge.com/2024/5/15/24157120/dell-windows-on-arm-leak-qualcomm-chips-battery-life)
- - [I Went Undercover as a Secret OnlyFans Chatter. It Wasn&#39;t Pretty](https://www.wired.com/story/i-went-undercover-secret-onlyfans-chatter-wasnt-pretty/)<!-- TECH:END -->
+ - [Apple letting the new iPad Pro run macOS would require major tradeoffs and adding touch to Mac would lead to &quot;a lot of flakey software that doesn&#39;t really work&quot; &lpar;Steven Sinofsky/@stevesi&rpar;](http://www.techmeme.com/240515/p16#a240515p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

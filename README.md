@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Insiders detail the crypto industry&#39;s lobbying efforts ahead of the 2024 US elections, as crypto-focused PACs shape the outcome of some key congressional races &lpar;Cheyenne Ligon/CoinDesk&rpar;](http://www.techmeme.com/240515/p11#a240515p11)
  - [Research: Southeast Asian scam syndicates, which typically use forced labor to run online scams like pig butchering, are stealing an estimated $64B annually &lpar;James Reddick/The Record&rpar;](http://www.techmeme.com/240515/p10#a240515p10)
  - [Tado adds Matter to new smart heating range](https://www.theverge.com/2024/5/15/24157114/tado-x-matter-thread-smart-heating-europe-price)
  - [Raspberry Pi announces plans for an IPO in London, reporting $265.8M revenue and $43.5M adjusted EBITDA in 2023, and is reportedly seeking a ~$630M valuation &lpar;Olivia Solon/Bloomberg&rpar;](http://www.techmeme.com/240515/p9#a240515p9)
- - [Google releases Project IDX, its next-gen AI-centric browser-based IDE, in open beta, and says that 100,000+ developers tried the service in invite-only phase &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240515/p8#a240515p8)
- - [AI search&#39;s arrival bodes ill for everyone who relied on web search to have their business discovered, their blog post read, or their journalism funded &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/240515/p7#a240515p7)<!-- TECH:END -->
+ - [Google releases Project IDX, its next-gen AI-centric browser-based IDE, in open beta, and says that 100,000+ developers tried the service in invite-only phase &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240515/p8#a240515p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We do a little spring cleaning.](http://9gag.com/gag/aQzp3PW)
- - 😝 [Yeyeye, and the west is oikophobic for virtue signal points...](http://9gag.com/gag/a0ePKnv)
- - 💣 [Refugees welcome to Poland](http://9gag.com/gag/aO8yY7y)
- - 😝 [Spiderman VS Predator](http://9gag.com/gag/a87b5o1)
- - 👉 [Smile! You\u2019re at Mr. Smiley\u2019s!](http://9gag.com/gag/amoL73o)<!-- MEMES:END -->
+ - 😝 [Final destination vibes](http://9gag.com/gag/a5QNMdO)
+ - 😝 [A normal debate...](http://9gag.com/gag/aQzp9Mq)
+ - 💣 [Normal day in Australia](http://9gag.com/gag/a34dKR8)
+ - 😝 [I used to use them.](http://9gag.com/gag/aByQ8d1)
+ - 👉 [Might be dying. We&#39;ll see. If so, thanks for everything.](http://9gag.com/gag/aAyVeBd)<!-- MEMES:END -->
 
 ---
 

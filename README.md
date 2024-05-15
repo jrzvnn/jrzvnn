@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
  - [VMware makes its Workstation Pro and Fusion Pro desktop hypervisor products free for personal use &lpar;Dan Robinson/The Register&rpar;](http://www.techmeme.com/240515/p46#a240515p46)
  - [How Much Will the iPhone 16 Cost? Here&#39;s What to Expect     - CNET](https://www.cnet.com/tech/mobile/how-much-will-the-iphone-16-cost-heres-what-to-expect/#ftag=CAD590a51e)
  - [Netflix says its ad tier has 40M MAUs, up from 23M in January, and it will launch its own ad platform and no longer partner with Microsoft for that technology &lpar;CNBC&rpar;](http://www.techmeme.com/240515/p45#a240515p45)
- - [This new app on the App Store emulates 38 different retro game platforms](https://appleinsider.com/articles/24/05/15/this-new-app-on-the-app-store-emulates-38-different-retro-game-platforms?utm_medium=rss)
- - [Netflix renews 3 Body Problem for second season](https://www.theverge.com/2024/5/15/24157514/3-body-problem-season-2-renewal-netflix)<!-- TECH:END -->
+ - [This new app on the App Store emulates 38 different retro game platforms](https://appleinsider.com/articles/24/05/15/this-new-app-on-the-app-store-emulates-38-different-retro-game-platforms?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

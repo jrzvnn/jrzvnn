@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [OMG.. KING!!!! F O B*TCH](http://9gag.com/gag/ae93DMv)
- - 😝 [Left or right?](http://9gag.com/gag/a2vPoQ1)
- - 💣 [He&#39;s actually in hospital](http://9gag.com/gag/aGyVpow)
- - 😝 [We do a little spring cleaning.](http://9gag.com/gag/aQzp3PW)
- - 👉 [In a viral video clip on social media it is discovered that a street vendor was cooking pharata in diesel oil and later it was found that he has been cooking it in diesel for almost 35 years](http://9gag.com/gag/ajP6mAp)<!-- MEMES:END -->
+ - 😝 [Not so funny](http://9gag.com/gag/aKGgxNj)
+ - 😝 [It was not gonna last](http://9gag.com/gag/aPAy7LV)
+ - 💣 [And their country will be called Chindonesia](http://9gag.com/gag/ajP69xR)
+ - 😝 [Normal day in Australia](http://9gag.com/gag/a34dKR8)
+ - 👉 [Guy will do anything to get laid on prom night](http://9gag.com/gag/an7XMGo)<!-- MEMES:END -->
 
 ---
 

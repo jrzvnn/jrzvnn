@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Spiderman VS Predator](http://9gag.com/gag/a87b5o1)
- - 😝 [Works everytime](http://9gag.com/gag/azxL9OZ)
- - 💣 [The new ChatGPT is `Her`](http://9gag.com/gag/a87b31Q)
- - 😝 [Final destination vibes](http://9gag.com/gag/a5QNMdO)
- - 👉 [Raising another list to cleanse your eyes and mind after watching garbage &#39;focus group&#39; movies.](http://9gag.com/gag/an7X9V5)<!-- MEMES:END -->
+ - 😝 [`She doth teach the torches to burn bright. As a rich jewel in an Ethiope\u2019s ear.`](http://9gag.com/gag/aW40jm6)
+ - 😝 [Guy will do anything to get laid on prom night](http://9gag.com/gag/an7XMGo)
+ - 💣 [We do a little spring cleaning.](http://9gag.com/gag/aQzp3PW)
+ - 😝 [Don&#39;t forget the director&#39;s.](http://9gag.com/gag/a87bGZY)
+ - 👉 [Not so funny](http://9gag.com/gag/aKGgxNj)<!-- MEMES:END -->
 
 ---
 

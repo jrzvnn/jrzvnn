@@ -160,10 +160,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The first Assassin’s Creed Shadows trailer shows off dual samurai / ninja action](https://www.theverge.com/24155451/assassins-creed-shadows-release-date-trailer-ubisoft)
+ - [These 12 States Are Banning the Sale of Gas-Powered Cars     - CNET](https://www.cnet.com/roadshow/news/states-banning-new-gas-powered-cars/#ftag=CAD590a51e)
  - [Xbox Cloud Gaming now has mouse and keyboard support in 26 games](https://www.theverge.com/2024/5/15/24157375/xbox-cloud-gaming-mouse-and-keyboard-support-beta)
- - [iPhone owners say the latest iOS update is resurfacing deleted nudes](https://www.theverge.com/2024/5/15/24157284/apple-iphone-ios-17-5-update-deleted-photos-voicemails)
- - [Intel details Thunderbolt Share, a new specification and app to connect two PCs, letting users transfer data at 40Gbps or more, control another PC, and more &lpar;Mark Hachman/PCWorld&rpar;](http://www.techmeme.com/240515/p37#a240515p37)
- - [App Store emulator surge continues, this time for PlayStation Portable games](https://appleinsider.com/articles/24/05/15/app-store-emulator-surge-continues-this-time-for-playstation-portable-games?utm_medium=rss)<!-- TECH:END -->
+ - [Best NAS Deals: Get Yourself $40 Off Network Storage     - CNET](https://www.cnet.com/deals/best-nas-deals/#ftag=CAD590a51e)
+ - [Maxed Out: Inside America&#39;s Credit Card Debt Crisis -- and What We Do Next     - CNET](https://www.cnet.com/personal-finance/credit-cards/features/maxed-out-inside-americas-credit-card-debt-crisis-and-what-we-do-next/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

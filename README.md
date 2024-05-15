@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Pack a Moving Box Like the Pros     - CNET](https://www.cnet.com/how-to/how-to-pack-a-moving-box-like-the-pros/#ftag=CAD590a51e)
  - [Microsoft&#39;s carbon emissions grew 29.1% from 2020 to 2023, as its push to be the global leader in AI puts its goal to be carbon negative by 2030 in peril &lpar;Bloomberg&rpar;](http://www.techmeme.com/240515/p50#a240515p50)
  - [Arizona accuses Amazon of being a monopoly and deceiving consumers with ‘dark patterns’](https://www.theverge.com/2024/5/15/24157542/arizona-amazon-sues-deceptive-practices-antitrust-prime-buy-box)
- - [Developer owes Apple money thanks to critical accounting error for App Store bundles](https://appleinsider.com/articles/24/05/15/developer-owes-apple-money-thanks-to-critical-accounting-error-for-app-store-bundles?utm_medium=rss)
- - [Android 15’s second beta release lets users lock down access to private apps](https://www.theverge.com/2024/5/15/24157574/android-15-beta-2-release-private-space-rich-widgets)
- - [Palo Alto Networks is buying IBM&#39;s QRadar cloud security software assets and moving customers to its own platform; IBM will adopt Palo Alto products internally &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240515/p49#a240515p49)<!-- TECH:END -->
+ - [Inflation Cooled for the First Time in 2024. But Don&#39;t Expect Fed Rate Cuts Any Time Soon     - CNET](https://www.cnet.com/personal-finance/inflation-rates-2/#ftag=CAD590a51e)
+ - [Developer owes Apple money thanks to critical accounting error for App Store bundles](https://appleinsider.com/articles/24/05/15/developer-owes-apple-money-thanks-to-critical-accounting-error-for-app-store-bundles?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

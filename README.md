@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google announces a threat detection capability coming to Android that uses on-device AI to spot malware, analyzing apps&#39; use of permissions and services &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240515/p38#a240515p38)
  - [iPad Air hands on: A return to an affordable large-format iPad](https://appleinsider.com/articles/24/05/15/ipad-air-hands-on-a-return-to-an-affordable-large-format-ipad?utm_medium=rss)
- - [Apple users are keeping their iPads for a very long time](https://appleinsider.com/articles/24/05/15/apple-users-are-keeping-their-ipads-for-a-very-long-time?utm_medium=rss)
- - [Raspberry Pi is going public to expand its range of tiny computers](https://www.theverge.com/2024/5/15/24157355/raspberry-pi-public-ipo-announcement)
- - [The first Assassin’s Creed Shadows trailer shows off dual samurai / ninja action](https://www.theverge.com/24155451/assassins-creed-shadows-release-date-trailer-ubisoft)
- - [Xbox Cloud Gaming now has mouse and keyboard support in 26 games](https://www.theverge.com/2024/5/15/24157375/xbox-cloud-gaming-mouse-and-keyboard-support-beta)<!-- TECH:END -->
+ - [Android 15 Theft Detection Lock Knows When Your Phone Is Stolen](https://www.wired.com/story/android-15-theft-detection-lock/)
+ - [All the New Features Coming to Android Phones, Watches, and TVs This Year](https://www.wired.com/story/google-io-android-ecosystem-updates-new-features/)
+ - [15 Top New Android 15 Features &lpar;2024&rpar;: How to Install, Features, Release Date](https://www.wired.com/story/how-to-download-android-15-and-features/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

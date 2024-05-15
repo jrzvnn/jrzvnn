@@ -168,10 +168,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not so funny](http://9gag.com/gag/aKGgxNj)
+ - 😝 [Guy will do anything to get laid on prom night](http://9gag.com/gag/an7XMGo)
+ - 😝 [Final destination vibes](http://9gag.com/gag/a5QNMdO)
+ - 💣 [Not so funny](http://9gag.com/gag/aKGgxNj)
  - 😝 [Movie?](http://9gag.com/gag/aqyZKrZ)
- - 💣 [Nippy](http://9gag.com/gag/aqyZ73v)
- - 😝 [Normal day in Australia](http://9gag.com/gag/a34dKR8)
  - 👉 [When I said I wanted to remodel the bathroom I didn\u2019t realize I was going to make it bigger.](http://9gag.com/gag/aO8yzn2)<!-- MEMES:END -->
 
 ---

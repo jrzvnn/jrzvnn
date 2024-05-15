@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Might be dying. We&#39;ll see. If so, thanks for everything.](http://9gag.com/gag/aAyVeBd)
- - 😝 [The best is Red Eric](http://9gag.com/gag/aYQpxMV)
- - 💣 [You Smoker?](http://9gag.com/gag/a2vP4WO)
- - 😝 [Final destination vibes](http://9gag.com/gag/a5QNMdO)
- - 👉 [Movie?](http://9gag.com/gag/aqyZKrZ)<!-- MEMES:END -->
+ - 😝 [Not so funny](http://9gag.com/gag/aKGgxNj)
+ - 😝 [Movie?](http://9gag.com/gag/aqyZKrZ)
+ - 💣 [Nippy](http://9gag.com/gag/aqyZ73v)
+ - 😝 [Normal day in Australia](http://9gag.com/gag/a34dKR8)
+ - 👉 [When I said I wanted to remodel the bathroom I didn\u2019t realize I was going to make it bigger.](http://9gag.com/gag/aO8yzn2)<!-- MEMES:END -->
 
 ---
 

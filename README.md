@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Works everytime](http://9gag.com/gag/azxL9OZ)
- - 😝 [There are perfectly beautiful women out there](http://9gag.com/gag/a6ZdN9m)
- - 💣 [Sourly](http://9gag.com/gag/an7X4no)
- - 😝 [Cultural Enrichment Type tries to molest woman on train, gets pushed onto tracks and loses an arm](http://9gag.com/gag/aKGg7pO)
- - 👉 [Never forget the legend](http://9gag.com/gag/aW40E8n)<!-- MEMES:END -->
+ - 😝 [And their country will be called Chindonesia](http://9gag.com/gag/ajP69xR)
+ - 😝 [Guy will do anything to get laid on prom night](http://9gag.com/gag/an7XMGo)
+ - 💣 [Final destination vibes](http://9gag.com/gag/a5QNMdO)
+ - 😝 [We do a little spring cleaning.](http://9gag.com/gag/aQzp3PW)
+ - 👉 [Normal day in Australia](http://9gag.com/gag/a34dKR8)<!-- MEMES:END -->
 
 ---
 

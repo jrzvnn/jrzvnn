@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`She doth teach the torches to burn bright. As a rich jewel in an Ethiope\u2019s ear.`](http://9gag.com/gag/aW40jm6)
- - 😝 [I used to use them.](http://9gag.com/gag/aByQ8d1)
- - 💣 [Movie?](http://9gag.com/gag/aqyZKrZ)
- - 😝 [Final destination vibes](http://9gag.com/gag/a5QNMdO)
- - 👉 [Not so funny](http://9gag.com/gag/aKGgxNj)<!-- MEMES:END -->
+ - 😝 [Works everytime](http://9gag.com/gag/azxL9OZ)
+ - 😝 [There are perfectly beautiful women out there](http://9gag.com/gag/a6ZdN9m)
+ - 💣 [Sourly](http://9gag.com/gag/an7X4no)
+ - 😝 [Cultural Enrichment Type tries to molest woman on train, gets pushed onto tracks and loses an arm](http://9gag.com/gag/aKGg7pO)
+ - 👉 [Never forget the legend](http://9gag.com/gag/aW40E8n)<!-- MEMES:END -->
 
 ---
 

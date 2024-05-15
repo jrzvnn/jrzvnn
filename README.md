@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Might be dying. We&#39;ll see. If so, thanks for everything.](http://9gag.com/gag/aAyVeBd)
- - 😝 [Not so funny](http://9gag.com/gag/aKGgxNj)
- - 💣 [OMG.. KING!!!! F O B*TCH](http://9gag.com/gag/ae93DMv)
- - 😝 [He&#39;s actually in hospital](http://9gag.com/gag/aGyVpow)
- - 👉 [In a viral video clip on social media it is discovered that a street vendor was cooking pharata in diesel oil and later it was found that he has been cooking it in diesel for almost 35 years](http://9gag.com/gag/ajP6mAp)<!-- MEMES:END -->
+ - 😝 [Uncanny](http://9gag.com/gag/aZZW0rX)
+ - 😝 [Not classy food](http://9gag.com/gag/a1mZr8R)
+ - 💣 [It&#39;s time for Jeff Bezos to start asking questions.](http://9gag.com/gag/an7XQz0)
+ - 😝 [Looking for work? We need 3 workers](http://9gag.com/gag/aVvQwVv)
+ - 👉 [Might be dying. We&#39;ll see. If so, thanks for everything.](http://9gag.com/gag/aAyVeBd)<!-- MEMES:END -->
 
 ---
 

@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bipartisan US Senators release a long-awaited plan for AI, calling for spending $32B annually by 2026 on R&amp;D, creating a federal data privacy law, and more &lpar;New York Times&rpar;](http://www.techmeme.com/240515/p21#a240515p21)
- - [Kentucky-based PayHOA, a bootstrapped startup that offers software for self-managed homeowner associations, raised a $27.5M Series A and reports 652K+ users &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240515/p20#a240515p20)
- - [Despite Bird Flu Risk, Raw-Milk Drinkers Are Undaunted](https://www.wired.com/story/raw-milk-drinkers-h5n1-bird-flu/)
- - [A US federal court orders Elon Musk to testify again in an SEC investigation into his $44B Twitter takeover; the SEC sued Musk in October 2023 to testify &lpar;Reuters&rpar;](http://www.techmeme.com/240515/p19#a240515p19)
- - [Comcast has a Netflix, Peacock, and Apple TV Plus bundle coming next month](https://www.theverge.com/2024/5/15/24157137/comcast-netflix-peacock-apple-tv-plus-streaming-bundle)<!-- TECH:END -->
+ - [Humanity Protocol, a blockchain-based identity system that uses scans of people&#39;s palms, raised a $30M seed led by Kingsway Capital at a $1B valuation &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/240515/p23#a240515p23)
+ - [The best alternatives to Apple&#39;s Magic Keyboard for iPad](https://appleinsider.com/inside/ipad/best/the-best-alternatives-to-apples-magic-keyboard-for-ipad?utm_medium=rss)
+ - [As India&#39;s elections run from April 19 to June 1, a look at the BJP&#39;s vast WhatsApp operations, including using the app to campaign free from public scrutiny &lpar;Srishti Jaswal/Rest of World&rpar;](http://www.techmeme.com/240515/p22#a240515p22)
+ - [Microsoft PowerToys Is the Ultimate Windows 11 Customization Tool](https://www.wired.com/story/microsoft-powertoys-ultimate-tweaking-kit-for-windows-11/)
+ - [We gotta stop ignoring AI’s hallucination problem](https://www.theverge.com/2024/5/15/24154808/ai-chatgpt-google-gemini-microsoft-copilot-hallucination-wrong)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

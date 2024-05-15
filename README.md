@@ -168,10 +168,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [F**k around, find out.](http://9gag.com/gag/aqyZ70p)
- - 😝 [I used to use them.](http://9gag.com/gag/aByQ8d1)
- - 💣 [Left or right?](http://9gag.com/gag/a2vPoQ1)
+ - 😝 [Final destination vibes](http://9gag.com/gag/a5QNMdO)
  - 😝 [Guy will do anything to get laid on prom night](http://9gag.com/gag/an7XMGo)
+ - 💣 [Brazil is not for beginners](http://9gag.com/gag/ayNpx6q)
+ - 😝 [Not so funny](http://9gag.com/gag/aKGgxNj)
  - 👉 [The best is Red Eric](http://9gag.com/gag/aYQpxMV)<!-- MEMES:END -->
 
 ---

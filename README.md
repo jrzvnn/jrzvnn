@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And their country will be called Chindonesia](http://9gag.com/gag/ajP69xR)
- - 😝 [OMG.. KING!!!! F O B*TCH](http://9gag.com/gag/ae93DMv)
- - 💣 [Movie?](http://9gag.com/gag/aqyZKrZ)
- - 😝 [Might be dying. We&#39;ll see. If so, thanks for everything.](http://9gag.com/gag/aAyVeBd)
- - 👉 [Guy will do anything to get laid on prom night](http://9gag.com/gag/an7XMGo)<!-- MEMES:END -->
+ - 😝 [Spiderman VS Predator](http://9gag.com/gag/a87b5o1)
+ - 😝 [Works everytime](http://9gag.com/gag/azxL9OZ)
+ - 💣 [The new ChatGPT is `Her`](http://9gag.com/gag/a87b31Q)
+ - 😝 [Final destination vibes](http://9gag.com/gag/a5QNMdO)
+ - 👉 [Raising another list to cleanse your eyes and mind after watching garbage &#39;focus group&#39; movies.](http://9gag.com/gag/an7X9V5)<!-- MEMES:END -->
 
 ---
 

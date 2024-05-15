@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Movie?](http://9gag.com/gag/aqyZKrZ)
- - 😝 [Not so funny](http://9gag.com/gag/aKGgxNj)
- - 💣 [Guy will do anything to get laid on prom night](http://9gag.com/gag/an7XMGo)
- - 😝 [OMG.. KING!!!! F O B*TCH](http://9gag.com/gag/ae93DMv)
- - 👉 [Normal day in Australia](http://9gag.com/gag/a34dKR8)<!-- MEMES:END -->
+ - 😝 [`She doth teach the torches to burn bright. As a rich jewel in an Ethiope\u2019s ear.`](http://9gag.com/gag/aW40jm6)
+ - 😝 [I used to use them.](http://9gag.com/gag/aByQ8d1)
+ - 💣 [Movie?](http://9gag.com/gag/aqyZKrZ)
+ - 😝 [Final destination vibes](http://9gag.com/gag/a5QNMdO)
+ - 👉 [Not so funny](http://9gag.com/gag/aKGgxNj)<!-- MEMES:END -->
 
 ---
 

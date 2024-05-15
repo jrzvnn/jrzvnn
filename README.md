@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft&#39;s carbon emissions grew 29.1% from 2020 to 2023, as its push to be the global leader in AI puts its goal to be carbon negative by 2030 in peril &lpar;Bloomberg&rpar;](http://www.techmeme.com/240515/p50#a240515p50)
+ - [Arizona accuses Amazon of being a monopoly and deceiving consumers with ‘dark patterns’](https://www.theverge.com/2024/5/15/24157542/arizona-amazon-sues-deceptive-practices-antitrust-prime-buy-box)
  - [Developer owes Apple money thanks to critical accounting error for App Store bundles](https://appleinsider.com/articles/24/05/15/developer-owes-apple-money-thanks-to-critical-accounting-error-for-app-store-bundles?utm_medium=rss)
  - [Android 15’s second beta release lets users lock down access to private apps](https://www.theverge.com/2024/5/15/24157574/android-15-beta-2-release-private-space-rich-widgets)
- - [Palo Alto Networks is buying IBM&#39;s QRadar cloud security software assets and moving customers to its own platform; IBM will adopt Palo Alto products internally &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240515/p49#a240515p49)
- - [Microsoft’s AI obsession is jeopardizing its climate ambitions](https://www.theverge.com/2024/5/15/24157496/microsoft-ai-carbon-footprint-greenhouse-gas-emissions-grow-climate-pledge)
- - [Cisco reports Q3 revenue down 13% YoY to $12.7B, vs. $12.53B est., net income down 41% YoY to $1.89B, and forecasts FY 2024 revenue above estimates &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240515/p48#a240515p48)<!-- TECH:END -->
+ - [Palo Alto Networks is buying IBM&#39;s QRadar cloud security software assets and moving customers to its own platform; IBM will adopt Palo Alto products internally &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240515/p49#a240515p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

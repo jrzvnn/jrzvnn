@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PPSSPP brings PSP emulation to the iPhone](https://www.theverge.com/2024/5/15/24157286/ppsspp-playstation-portable-psp-emulator-ios-app-store-iphone-ipad-apple)
+ - [Some iPhone owners say the iOS 17.5 update, which Apple released on Monday, is resurfacing photos they had deleted &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240515/p43#a240515p43)
  - [RetroArch brings its free multisystem emulation to the iOS App Store](https://www.theverge.com/2024/5/15/24157472/retroarch-emulator-ios-app-store-iphone-nintendo-sega-playstation-atari)
- - [The US DOJ indicts two brothers for allegedly stealing $25M in crypto via an exploit of the MEV-Boost software used by some Ethereum validators &lpar;Sam Kessler/CoinDesk&rpar;](http://www.techmeme.com/240515/p42#a240515p42)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [Saunas Are the Next Frontier in Fighting Depression](https://www.wired.com/story/sauna-heat-therapy-depression-cbt-mental-health-trial/)
- - [Senate committee passes three bills to safeguard elections from AI, months before Election Day](https://www.theverge.com/2024/5/15/24157328/senate-rules-committee-ai-election-safeguards-bills)<!-- TECH:END -->
+ - [Best Google Pixel 8A Deals: Preorder the Latest Affordable Pixel Today     - CNET](https://www.cnet.com/deals/best-google-pixel-8a-deals-preorder-the-latest-affordable-pixel-today/#ftag=CAD590a51e)
+ - [The US DOJ indicts two brothers for allegedly stealing $25M in crypto via an exploit of the MEV-Boost software used by some Ethereum validators &lpar;Sam Kessler/CoinDesk&rpar;](http://www.techmeme.com/240515/p42#a240515p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

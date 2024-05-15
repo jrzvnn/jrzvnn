@@ -169,10 +169,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [And their country will be called Chindonesia](http://9gag.com/gag/ajP69xR)
- - 😝 [Embedding between civilians and UN&lpar;wra&rpar; employees while carrying guns. Aerial footage just released from Rafah. Let&#39;s see how leftists/wokies/radicals call this the &#39;good guys&#39;.](http://9gag.com/gag/aByQgVz)
- - 💣 [OMG.. KING!!!! F O B*TCH](http://9gag.com/gag/ae93DMv)
- - 😝 [Guy will do anything to get laid on prom night](http://9gag.com/gag/an7XMGo)
- - 👉 [Diversity Soft strikes again](http://9gag.com/gag/abAqgAv)<!-- MEMES:END -->
+ - 😝 [Might be dying. We&#39;ll see. If so, thanks for everything.](http://9gag.com/gag/aAyVeBd)
+ - 💣 [I see what you did there](http://9gag.com/gag/aKGgm4N)
+ - 😝 [`She doth teach the torches to burn bright. As a rich jewel in an Ethiope\u2019s ear.`](http://9gag.com/gag/aW40jm6)
+ - 👉 [One does not simply walk into Moria](http://9gag.com/gag/aO8y3RD)<!-- MEMES:END -->
 
 ---
 

@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Sheets’ new formatting feature has Excel switchers excited](https://www.theverge.com/2024/5/15/24157659/google-sheets-tables-formatting)
+ - [Samsung&#39;s half-hearted attempt to capitalize on Apple&#39;s Crush ad misses the point](https://appleinsider.com/articles/24/05/15/samsungs-half-hearted-attempt-to-capitalize-on-apples-crush-ad-misses-the-point?utm_medium=rss)
  - [Sony unveils the &amp;pound;1,299 Xperia 1 VI, with a Snapdragon 8 Gen 3 chipset, a 6.5-inch OLED Full HD+ display, and 7.1x optical zoom lens, and the &amp;pound;349 Xperia 10 VI &lpar;Lewis Empson/What Hi-Fi?&rpar;](http://www.techmeme.com/240515/p52#a240515p52)
  - [AT&amp;T and satellite provider AST SpaceMobile announce an agreement to provide a space-based broadband network direct to cell phones; the deal runs through 2030 &lpar;Todd Shields/Bloomberg&rpar;](http://www.techmeme.com/240515/p51#a240515p51)
- - [How to Pack a Moving Box Like the Pros     - CNET](https://www.cnet.com/how-to/how-to-pack-a-moving-box-like-the-pros/#ftag=CAD590a51e)
- - [Microsoft&#39;s carbon emissions grew 29.1% from 2020 to 2023, as its push to be the global leader in AI puts its goal to be carbon negative by 2030 in peril &lpar;Bloomberg&rpar;](http://www.techmeme.com/240515/p50#a240515p50)
- - [Arizona accuses Amazon of being a monopoly and deceiving consumers with ‘dark patterns’](https://www.theverge.com/2024/5/15/24157542/arizona-amazon-sues-deceptive-practices-antitrust-prime-buy-box)<!-- TECH:END -->
+ - [How to Pack a Moving Box Like the Pros     - CNET](https://www.cnet.com/how-to/how-to-pack-a-moving-box-like-the-pros/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

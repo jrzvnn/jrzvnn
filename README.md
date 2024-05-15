@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Uber plans to work with local fleets to add US shuttle bus services to and from airports, concert venues, and sports stadiums, for a fraction of UberX&#39;s cost &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/240515/p35#a240515p35)
  - [Google opens early API access to its Google Home platform, letting developers join a waitlist to access 600M+ Matter or Works with Google Home devices &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/240515/p34#a240515p34)
  - [Eve’s Android app is finally almost here, thanks to Google’s new Home APIs](https://www.theverge.com/2024/5/15/24157241/google-eve-smart-home-android-app-launch-matter)
  - [ADT’s new security system has facial recognition powered by Google Nest](https://www.theverge.com/2024/5/15/24156573/adt-plus-google-home-smart-security-system-trusted-neighbor)
- - [Apple’s new accessibility features let you control an iPhone or iPad with your eyes](https://www.theverge.com/2024/5/15/24157271/apple-eye-tracking-speech-motion-sickness-accessibility-features)
- - [Netflix snagged global streaming rights for NFL Christmas Day games](https://www.theverge.com/2024/5/15/24157289/netflix-nfl-game-streaming-global-christmas-day)<!-- TECH:END -->
+ - [Apple’s new accessibility features let you control an iPhone or iPad with your eyes](https://www.theverge.com/2024/5/15/24157271/apple-eye-tracking-speech-motion-sickness-accessibility-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

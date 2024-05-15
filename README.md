@@ -161,11 +161,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Gemini&#39;s and OpenAI&#39;s updates play into Apple&#39;s AI strategy](https://appleinsider.com/articles/24/05/14/how-geminis-and-openais-updates-play-into-apples-ai-strategy?utm_medium=rss)
- - [OpenAI chief scientist Ilya Sutskever is officially leaving](https://www.theverge.com/2024/5/14/24156920/openai-chief-scientist-ilya-sutskever-leaves)
- - [Ilya Sutskever says he will leave OpenAI to work on a &quot;personally meaningful&quot; project; Director of Research Jakub Pachocki will become OpenAI&#39;s chief scientist &lpar;CNBC&rpar;](http://www.techmeme.com/240514/p52#a240514p52)
- - [I Tried Google&#39;s Project Astra video     - CNET](https://www.cnet.com/videos/i-tried-googles-project-astra/#ftag=CAD590a51e)
- - [Ilya and OpenAI are going to part ways. This is very sad to me; Ilya is easily one of the greatest minds of our generation, a guiding light of our field, and a dear friend. His brilliance and vision are well known; his warmth and compassion are less well known but no less &lpar;Sam Altman/@sama&rpar;](http://www.techmeme.com/240514/p51#a240514p51)<!-- TECH:END -->
+ - [Google now offers ‘web’ search — and an AI opt-out button](https://www.theverge.com/2024/5/14/24074314/google-now-offers-web-search)
+ - [Google unveils Music AI Sandbox, a suite of music AI tools that include the ability to create short audio clips or &quot;stems&quot; based on text prompts &lpar;Ty Pendlebury/CNET&rpar;](http://www.techmeme.com/240514/p55#a240514p55)
+ - [Facebook and Instagram are down for some users](https://appleinsider.com/articles/24/05/15/facebook-and-instagram-are-down-for-some-users?utm_medium=rss)
+ - [OpenAI’s Chief AI Wizard, Ilya Sutskever, Is Leaving the Company](https://www.wired.com/story/openais-chief-ai-wizard-ilya-sutskever-is-leaving-the-company/)
+ - [Google open sources code for Project Gameface, its hands-free gaming &quot;mouse&quot; controlled by head movement and facial gestures, to Android developers &lpar;Sheena Vasani/The Verge&rpar;](http://www.techmeme.com/240514/p54#a240514p54)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

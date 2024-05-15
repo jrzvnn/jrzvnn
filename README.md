@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Movie?](http://9gag.com/gag/aqyZKrZ)
- - 😝 [Nippy](http://9gag.com/gag/aqyZ73v)
- - 💣 [I used to use them.](http://9gag.com/gag/aByQ8d1)
- - 😝 [Guy will do anything to get laid on prom night](http://9gag.com/gag/an7XMGo)
- - 👉 [We do a little spring cleaning.](http://9gag.com/gag/aQzp3PW)<!-- MEMES:END -->
+ - 😝 [Nobody is born a hero. People become heroes when they choose to be brave and do what\u2019s right.](http://9gag.com/gag/amoL759)
+ - 😝 [The interraction that can make a grown man cry](http://9gag.com/gag/a2vPoY9)
+ - 💣 [Final destination vibes](http://9gag.com/gag/a5QNMdO)
+ - 😝 [Normal day in Australia](http://9gag.com/gag/a34dKR8)
+ - 👉 [Guy will do anything to get laid on prom night](http://9gag.com/gag/an7XMGo)<!-- MEMES:END -->
 
 ---
 

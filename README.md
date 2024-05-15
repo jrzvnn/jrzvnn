@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google announces a threat detection capability coming to Android that uses on-device AI to spot malware, analyzing apps&#39; use of permissions and services &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240515/p38#a240515p38)
- - [iPad Air hands on: A return to an affordable large-format iPad](https://appleinsider.com/articles/24/05/15/ipad-air-hands-on-a-return-to-an-affordable-large-format-ipad?utm_medium=rss)
- - [Android 15 Theft Detection Lock Knows When Your Phone Is Stolen](https://www.wired.com/story/android-15-theft-detection-lock/)
- - [All the New Features Coming to Android Phones, Watches, and TVs This Year](https://www.wired.com/story/google-io-android-ecosystem-updates-new-features/)
- - [15 Top New Android 15 Features &lpar;2024&rpar;: How to Install, Features, Release Date](https://www.wired.com/story/how-to-download-android-15-and-features/)<!-- TECH:END -->
+ - [Google unveils Android 15 security features, like Theft Detection Lock, which detects motions associated with theft, and Private Space, to store sensitive data &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240515/p40#a240515p40)
+ - [Airbus debuts its half-plane, half-helicopter to the public](https://www.theverge.com/2024/5/15/24157251/airbus-racer-demonstrator-helicopter-airplane-hybrid)
+ - [Google says Wear OS 5 will consume 20% less battery life and have more useful watch face complications; the Wear OS user base grew by 40% in the last year &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/240515/p39#a240515p39)
+ - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)
+ - [Google announces a threat detection capability coming to Android that uses on-device AI to spot malware, analyzing apps&#39; use of permissions and services &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240515/p38#a240515p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

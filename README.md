@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Xbox Cloud Gaming now has mouse and keyboard support in 26 games](https://www.theverge.com/2024/5/15/24157375/xbox-cloud-gaming-mouse-and-keyboard-support-beta)
+ - [iPhone owners say the latest iOS update is resurfacing deleted nudes](https://www.theverge.com/2024/5/15/24157284/apple-iphone-ios-17-5-update-deleted-photos-voicemails)
  - [Intel details Thunderbolt Share, a new specification and app to connect two PCs, letting users transfer data at 40Gbps or more, control another PC, and more &lpar;Mark Hachman/PCWorld&rpar;](http://www.techmeme.com/240515/p37#a240515p37)
  - [App Store emulator surge continues, this time for PlayStation Portable games](https://appleinsider.com/articles/24/05/15/app-store-emulator-surge-continues-this-time-for-playstation-portable-games?utm_medium=rss)
- - [iPad line streamlining is proceeding according to Apple&#39;s secret plan](https://appleinsider.com/articles/24/05/15/ipad-line-streamlining-is-proceeding-according-to-apples-secret-plan?utm_medium=rss)
- - [The FBI seizes the notorious BreachForums hacking forum used to leak and sell stolen corporate data to other cybercriminals and the website&#39;s Telegram channel &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/240515/p36#a240515p36)
- - [Hands On With Huawei&#39;s Pura 70 Ultra video     - CNET](https://www.cnet.com/videos/hands-on-with-huaweis-pura-70-ultra/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPad line streamlining is proceeding according to Apple&#39;s secret plan](https://appleinsider.com/articles/24/05/15/ipad-line-streamlining-is-proceeding-according-to-apples-secret-plan?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Senate committee passes three bills to safeguard elections from AI, months before Election Day](https://www.theverge.com/2024/5/15/24157328/senate-rules-committee-ai-election-safeguards-bills)
+ - [Google unveils Android for Cars updates: new apps including Max, Peacock, and Angry Birds for select car models, Google Cast for Android Automotive OS, and more &lpar;Lawrence Bonk/Engadget&rpar;](http://www.techmeme.com/240515/p41#a240515p41)
  - [Apple resellers celebrate the launch of 2024 iPads with deals in every category](https://appleinsider.com/articles/24/05/15/apple-resellers-celebrate-the-launch-of-2024-ipads-with-deals-in-every-category?utm_medium=rss)
  - [For self-driving cars, the free ride is over](https://www.theverge.com/24157228/robotaxi-nhtsa-investigations-waymo-tesla-zoox)
- - [Google unveils Android 15 security features, like Theft Detection Lock, which detects motions associated with theft, and Private Space, to store sensitive data &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240515/p40#a240515p40)
- - [Airbus debuts its half-plane, half-helicopter to the public](https://www.theverge.com/2024/5/15/24157251/airbus-racer-demonstrator-helicopter-airplane-hybrid)
- - [Google says Wear OS 5 will consume 20% less battery life and have more useful watch face complications; the Wear OS user base grew by 40% in the last year &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/240515/p39#a240515p39)<!-- TECH:END -->
+ - [Google unveils Android 15 security features, like Theft Detection Lock, which detects motions associated with theft, and Private Space, to store sensitive data &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240515/p40#a240515p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

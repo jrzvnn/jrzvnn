@@ -159,7 +159,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Home Ellipticals in 2024     - CNET](https://www.cnet.com/health/fitness/best-elliptical/#ftag=CAD590a51e)
+ - [Facebook and Instagram was down for some users](https://appleinsider.com/articles/24/05/15/facebook-and-instagram-are-down-for-some-users?utm_medium=rss)
  - [iOS 17.5: Apple Just Gave Your iPhone All These Features     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-5-apple-just-gave-all-these-features-to-your-iphone/#ftag=CAD590a51e)
  - [Eight TikTok creators sued the US government over the law forcing a sale or ban of TikTok, arguing it violates their First Amendment rights &lpar;Washington Post&rpar;](http://www.techmeme.com/240514/p56#a240514p56)
  - [Google now offers ‘web’ search — and an AI opt-out button](https://www.theverge.com/2024/5/14/24074314/google-now-offers-web-search)

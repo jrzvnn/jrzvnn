@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AT&amp;T and satellite provider AST SpaceMobile announce an agreement to provide a space-based broadband network direct to cell phones; the deal runs through 2030 &lpar;Todd Shields/Bloomberg&rpar;](http://www.techmeme.com/240515/p51#a240515p51)
  - [How to Pack a Moving Box Like the Pros     - CNET](https://www.cnet.com/how-to/how-to-pack-a-moving-box-like-the-pros/#ftag=CAD590a51e)
  - [Microsoft&#39;s carbon emissions grew 29.1% from 2020 to 2023, as its push to be the global leader in AI puts its goal to be carbon negative by 2030 in peril &lpar;Bloomberg&rpar;](http://www.techmeme.com/240515/p50#a240515p50)
  - [Arizona accuses Amazon of being a monopoly and deceiving consumers with ‘dark patterns’](https://www.theverge.com/2024/5/15/24157542/arizona-amazon-sues-deceptive-practices-antitrust-prime-buy-box)
- - [Inflation Cooled for the First Time in 2024. But Don&#39;t Expect Fed Rate Cuts Any Time Soon     - CNET](https://www.cnet.com/personal-finance/inflation-rates-2/#ftag=CAD590a51e)
- - [Developer owes Apple money thanks to critical accounting error for App Store bundles](https://appleinsider.com/articles/24/05/15/developer-owes-apple-money-thanks-to-critical-accounting-error-for-app-store-bundles?utm_medium=rss)<!-- TECH:END -->
+ - [Inflation Cooled for the First Time in 2024. But Don&#39;t Expect Fed Rate Cuts Any Time Soon     - CNET](https://www.cnet.com/personal-finance/inflation-rates-2/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

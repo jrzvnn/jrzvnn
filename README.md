@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Adam Mosseri says Threads &quot;recently rolled out&quot; its own fact-checking program after piggybacking on Instagram and Facebook&#39;s network for a few months &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240515/p5#a240515p5)
+ - [Huawei is revamping its retail strategy and aggressively opening flagship stores in China, opening four such stores between December 2023 and February 2024 &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/240515/p4#a240515p4)
+ - [Foxconn&#39;s Sharp shifts focus to consumer electronics and AI after decision to exit TV display production, and is looking to sell its camera, chip device units &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240515/p3#a240515p3)
  - [Jan Leike, who was co-leading OpenAI&#39;s Superalignment team with Ilya Sutskever to &quot;steer and control&quot; more powerful AI, has also resigned from the company &lpar;The Verge&rpar;](http://www.techmeme.com/240515/p2#a240515p2)
- - [Sea reports Q1 revenue up 23% YoY to a record $3.73B and a $23M net loss, Shopee&#39;s revenue grew 31% YoY to a record $2.95B, and expects 2024 to be profitable &lpar;Tsubasa Suruga/Nikkei Asia&rpar;](http://www.techmeme.com/240515/p1#a240515p1)
- - [12 Groomsmen Gifts They&#39;ll Actually Appreciate     - CNET](https://www.cnet.com/news/12-groomsmen-gifts-theyll-actually-appreciate/#ftag=CAD590a51e)
- - [Cheapest Meal Delivery Services of 2024     - CNET](https://www.cnet.com/health/nutrition/cheapest-meal-delivery-service/#ftag=CAD590a51e)
- - [Best Antivirus Software for 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-antivirus/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Want to Donate Furniture Before a Move? These 7 Charities Will Pick It up for Free     - CNET](https://www.cnet.com/home/services/want-to-donate-furniture-before-a-move-these-7-charities-will-pick-it-up-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

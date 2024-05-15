@@ -163,7 +163,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Apple users are keeping their iPads for a very long time](https://appleinsider.com/articles/24/05/15/apple-users-are-keeping-their-ipads-for-a-very-long-time?utm_medium=rss)
  - [Raspberry Pi is going public to expand its range of tiny computers](https://www.theverge.com/2024/5/15/24157355/raspberry-pi-public-ipo-announcement)
  - [The first Assassin’s Creed Shadows trailer shows off dual samurai / ninja action](https://www.theverge.com/24155451/assassins-creed-shadows-release-date-trailer-ubisoft)
- - [These 12 States Are Banning the Sale of Gas-Powered Cars     - CNET](https://www.cnet.com/roadshow/news/states-banning-new-gas-powered-cars/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Xbox Cloud Gaming now has mouse and keyboard support in 26 games](https://www.theverge.com/2024/5/15/24157375/xbox-cloud-gaming-mouse-and-keyboard-support-beta)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

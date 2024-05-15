@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guy will do anything to get laid on prom night](http://9gag.com/gag/an7XMGo)
- - 😝 [Final destination vibes](http://9gag.com/gag/a5QNMdO)
+ - 😝 [Once upon a time\u2026](http://9gag.com/gag/aByQm21)
+ - 😝 [I used to use them.](http://9gag.com/gag/aByQ8d1)
  - 💣 [Not so funny](http://9gag.com/gag/aKGgxNj)
- - 😝 [Movie?](http://9gag.com/gag/aqyZKrZ)
- - 👉 [When I said I wanted to remodel the bathroom I didn\u2019t realize I was going to make it bigger.](http://9gag.com/gag/aO8yzn2)<!-- MEMES:END -->
+ - 😝 [Guy will do anything to get laid on prom night](http://9gag.com/gag/an7XMGo)
+ - 👉 [Movie?](http://9gag.com/gag/aqyZKrZ)<!-- MEMES:END -->
 
 ---
 

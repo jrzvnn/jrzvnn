@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Once upon a time\u2026](http://9gag.com/gag/aByQm21)
+ - 😝 [F**k around, find out.](http://9gag.com/gag/aqyZ70p)
  - 😝 [I used to use them.](http://9gag.com/gag/aByQ8d1)
- - 💣 [Not so funny](http://9gag.com/gag/aKGgxNj)
+ - 💣 [Left or right?](http://9gag.com/gag/a2vPoQ1)
  - 😝 [Guy will do anything to get laid on prom night](http://9gag.com/gag/an7XMGo)
- - 👉 [Movie?](http://9gag.com/gag/aqyZKrZ)<!-- MEMES:END -->
+ - 👉 [The best is Red Eric](http://9gag.com/gag/aYQpxMV)<!-- MEMES:END -->
 
 ---
 

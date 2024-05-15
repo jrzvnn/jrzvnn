@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [London-based PolyAI, which makes AI voice assistants for call centres, raised $50M led by Hedosophia, with money from Nvidia and others, at a $500M+ valuation &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/240515/p32#a240515p32)
+ - [Deleted images haunt iPhone users in Photos for iOS 17.5](https://appleinsider.com/articles/24/05/15/deleted-images-haunt-iphone-users-in-photos-for-ios-175?utm_medium=rss)
+ - [At I/O, Google Talks Up &#39;Responsible AI&#39;. What&#39;s That All About?     - CNET](https://www.cnet.com/tech/services-and-software/at-io-google-talks-up-responsible-ai-whats-that-all-about/#ftag=CAD590a51e)
  - [Anthropic hires Instagram and Artifact co-founder Mike Krieger as its chief product officer, after the startup released an iOS app for its Claude chatbot &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240515/p31#a240515p31)
- - [Apple unveils accessibility features, including Eye Tracking, to let users with physical disabilities control iPad or iPhone with their eyes, and Music Haptics &lpar;Cherlynn Low/Engadget&rpar;](http://www.techmeme.com/240515/p30#a240515p30)
- - [Netflix strikes a deal with the NFL to stream two new Christmas Day games for at least three years, beginning this season &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/240515/p29#a240515p29)
- - [Instagram’s co-founder is Anthropic’s new chief product officer](https://www.theverge.com/2024/5/15/24157240/mike-krieger-anthropic-instagram-ai)
- - [Billionaire tech critic Frank McCourt says he is preparing a &quot;people&#39;s bid&quot; for TikTok to buy and rebuild the app as &quot;a new and better version of the internet&quot; &lpar;Ben Smith/Semafor&rpar;](http://www.techmeme.com/240515/p28#a240515p28)<!-- TECH:END -->
+ - [Apple unveils accessibility features, including Eye Tracking, to let users with physical disabilities control iPad or iPhone with their eyes, and Music Haptics &lpar;Cherlynn Low/Engadget&rpar;](http://www.techmeme.com/240515/p30#a240515p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

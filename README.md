@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iOS 17.5: Apple Just Gave Your iPhone All These Features     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-5-apple-just-gave-all-these-features-to-your-iphone/#ftag=CAD590a51e)
  - [Eight TikTok creators sued the US government over the law forcing a sale or ban of TikTok, arguing it violates their First Amendment rights &lpar;Washington Post&rpar;](http://www.techmeme.com/240514/p56#a240514p56)
  - [Google now offers ‘web’ search — and an AI opt-out button](https://www.theverge.com/2024/5/14/24074314/google-now-offers-web-search)
  - [Google unveils Music AI Sandbox, a suite of music tools that include the ability to create loops via text, without disclosing when it will be publicly available &lpar;Ty Pendlebury/CNET&rpar;](http://www.techmeme.com/240514/p55#a240514p55)
- - [Facebook and Instagram are down for some users](https://appleinsider.com/articles/24/05/15/facebook-and-instagram-are-down-for-some-users?utm_medium=rss)
- - [OpenAI’s Chief AI Wizard, Ilya Sutskever, Is Leaving the Company](https://www.wired.com/story/openais-chief-ai-wizard-ilya-sutskever-is-leaving-the-company/)<!-- TECH:END -->
+ - [Facebook and Instagram are down for some users](https://appleinsider.com/articles/24/05/15/facebook-and-instagram-are-down-for-some-users?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

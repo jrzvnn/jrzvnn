@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Eight TikTok creators sued the US government over the law forcing a sale or ban of TikTok, arguing it violates their First Amendment rights &lpar;Washington Post&rpar;](http://www.techmeme.com/240514/p56#a240514p56)
  - [Google now offers ‘web’ search — and an AI opt-out button](https://www.theverge.com/2024/5/14/24074314/google-now-offers-web-search)
- - [Google unveils Music AI Sandbox, a suite of music AI tools that include the ability to create short audio clips or &quot;stems&quot; based on text prompts &lpar;Ty Pendlebury/CNET&rpar;](http://www.techmeme.com/240514/p55#a240514p55)
+ - [Google unveils Music AI Sandbox, a suite of music tools that include the ability to create loops via text, without disclosing when it will be publicly available &lpar;Ty Pendlebury/CNET&rpar;](http://www.techmeme.com/240514/p55#a240514p55)
  - [Facebook and Instagram are down for some users](https://appleinsider.com/articles/24/05/15/facebook-and-instagram-are-down-for-some-users?utm_medium=rss)
- - [OpenAI’s Chief AI Wizard, Ilya Sutskever, Is Leaving the Company](https://www.wired.com/story/openais-chief-ai-wizard-ilya-sutskever-is-leaving-the-company/)
- - [Google open sources code for Project Gameface, its hands-free gaming &quot;mouse&quot; controlled by head movement and facial gestures, to Android developers &lpar;Sheena Vasani/The Verge&rpar;](http://www.techmeme.com/240514/p54#a240514p54)<!-- TECH:END -->
+ - [OpenAI’s Chief AI Wizard, Ilya Sutskever, Is Leaving the Company](https://www.wired.com/story/openais-chief-ai-wizard-ilya-sutskever-is-leaving-the-company/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

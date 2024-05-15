@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix strikes a deal with the NFL to stream two new Christmas Day games, beginning this season &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/240515/p29#a240515p29)
- - [Instagram’s co-founder is now Anthropic’s new chief product officer](https://www.theverge.com/2024/5/15/24157240/mike-krieger-anthropic-instagram-ai)
- - [Billionaire tech critic Frank McCourt says he is preparing a &quot;people&#39;s bid&quot; for TikTok to buy and rebuild the app as &quot;a new and better version of the internet&quot; &lpar;Ben Smith/Semafor&rpar;](http://www.techmeme.com/240515/p28#a240515p28)
- - [Welcome to Notepad, a newsletter on Microsoft’s era-defining bets by Tom Warren](https://www.theverge.com/2024/5/15/24150911/notepad-newsletter-tom-warren-microsoft)
- - [These Electric School Buses Are on Their Way to Save the Grid](https://www.wired.com/story/these-electric-school-buses-are-on-their-way-to-save-the-grid/)<!-- TECH:END -->
+ - [Anthropic hires Instagram and Artifact co-founder Mike Krieger as its chief product officer, after the startup released an iOS app for its Claude chatbot &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240515/p31#a240515p31)
+ - [Apple unveils accessibility features, including Eye Tracking, to let users with physical disabilities control iPad or iPhone with their eyes, and Music Haptics &lpar;Cherlynn Low/Engadget&rpar;](http://www.techmeme.com/240515/p30#a240515p30)
+ - [Netflix strikes a deal with the NFL to stream two new Christmas Day games for at least three years, beginning this season &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/240515/p29#a240515p29)
+ - [Instagram’s co-founder is Anthropic’s new chief product officer](https://www.theverge.com/2024/5/15/24157240/mike-krieger-anthropic-instagram-ai)
+ - [Billionaire tech critic Frank McCourt says he is preparing a &quot;people&#39;s bid&quot; for TikTok to buy and rebuild the app as &quot;a new and better version of the internet&quot; &lpar;Ben Smith/Semafor&rpar;](http://www.techmeme.com/240515/p28#a240515p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

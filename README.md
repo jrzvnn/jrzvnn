@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TSMC SVP Kevin Zhang says ASML&#39;s new machines, which cost &amp;euro;350M each, are too expensive, and the A16 node, due in late 2026, won&#39;t need to use the new machines &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/240515/p15#a240515p15)
  - [Dell leak details next-gen Windows on Arm chips, 29-hour laptops, and more](https://www.theverge.com/2024/5/15/24157120/dell-windows-on-arm-leak-qualcomm-chips-battery-life)
  - [I Went Undercover as a Secret OnlyFans Chatter. It Wasn&#39;t Pretty](https://www.wired.com/story/i-went-undercover-secret-onlyfans-chatter-wasnt-pretty/)
  - [Sources and documents: Chinese chipmaker CXMT and others are in the early stages of making high bandwidth memory chips, a major step in China&#39;s chip plans &lpar;Reuters&rpar;](http://www.techmeme.com/240515/p14#a240515p14)
- - [Yemen is holding back repairs on the key AAE-1 internet cable in the Red Sea during a criminal investigation into the cable owners&#39; alleged Houthi militia ties &lpar;Bloomberg&rpar;](http://www.techmeme.com/240515/p13#a240515p13)
- - [Best Verizon Phone for 2024     - CNET](https://www.cnet.com/tech/mobile/best-verizon-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Yemen is holding back repairs on the key AAE-1 internet cable in the Red Sea during a criminal investigation into the cable owners&#39; alleged Houthi militia ties &lpar;Bloomberg&rpar;](http://www.techmeme.com/240515/p13#a240515p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

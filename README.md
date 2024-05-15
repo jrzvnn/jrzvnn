@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Intel details Thunderbolt Share, a new specification and app to connect two PCs, letting users transfer data at 40Gbps or more, control another PC, and more &lpar;Mark Hachman/PCWorld&rpar;](http://www.techmeme.com/240515/p37#a240515p37)
  - [App Store emulator surge continues, this time for PlayStation Portable games](https://appleinsider.com/articles/24/05/15/app-store-emulator-surge-continues-this-time-for-playstation-portable-games?utm_medium=rss)
  - [iPad line streamlining is proceeding according to Apple&#39;s secret plan](https://appleinsider.com/articles/24/05/15/ipad-line-streamlining-is-proceeding-according-to-apples-secret-plan?utm_medium=rss)
  - [The FBI seizes the notorious BreachForums hacking forum used to leak and sell stolen corporate data to other cybercriminals and the website&#39;s Telegram channel &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/240515/p36#a240515p36)
- - [Senate unveils $32 billion roadmap for regulating AI](https://www.theverge.com/2024/5/15/24157188/ai-regulation-senate-plan-roadmap)
- - [Uber plans to work with local fleets to add US shuttle bus services to and from airports, concert venues, and sports stadiums, for a fraction of UberX&#39;s cost &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/240515/p35#a240515p35)<!-- TECH:END -->
+ - [Hands On With Huawei&#39;s Pura 70 Ultra video     - CNET](https://www.cnet.com/videos/hands-on-with-huaweis-pura-70-ultra/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

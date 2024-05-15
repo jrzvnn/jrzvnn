@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How fast will A18 in iPhone 16 be? The iPad Pro&#39;s M4 can tell us.](https://appleinsider.com/articles/24/05/15/how-fast-will-a18-in-iphone-16-be-the-ipad-pros-m4-can-tell-us?utm_medium=rss)
+ - [Weka, which offers a parallel file system and data management tools for AI and HPC, raised a $140M Series E led by Valor Equity at a $1.6B post-money valuation &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240515/p27#a240515p27)
  - [Immutable Games launches Guild of Guardians, its flagship mobile fantasy RPG that let players win GOG tokens, NFTs, and more; Immutable raised $200M in 2022 &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/240515/p26#a240515p26)
  - [Best Cheap Electric Bikes Under $2,000 &lpar;2024&rpar;: Commuter, Folding, Cargo](https://www.wired.com/gallery/best-cheap-electric-bikes/)
- - [New iPad Pro has larger magnets in different places and new speakers](https://appleinsider.com/articles/24/05/15/new-ipad-pro-has-larger-magnets-in-different-places-and-new-speakers?utm_medium=rss)
- - [Best VPN for Italy     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-italy/#ftag=CAD590a51e)
- - [Ditch Those Unwanted Garden Guests With This $60 DynaTrap Insect Trap     - CNET](https://www.cnet.com/deals/ditch-those-unwanted-garden-guests-with-this-60-dynatrap-insect-trap/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [New iPad Pro has larger magnets in different places and new speakers](https://appleinsider.com/articles/24/05/15/new-ipad-pro-has-larger-magnets-in-different-places-and-new-speakers?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

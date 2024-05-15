@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [And their country will be called Chindonesia](http://9gag.com/gag/ajP69xR)
  - 😝 [OMG.. KING!!!! F O B*TCH](http://9gag.com/gag/ae93DMv)
- - 😝 [I don&#39;t even drink and even I&#39;ve experienced this. I don&#39;t like people](http://9gag.com/gag/a5QNWwy)
- - 💣 [Uncanny](http://9gag.com/gag/aZZW0rX)
- - 😝 [It&#39;s time for Jeff Bezos to start asking questions.](http://9gag.com/gag/an7XQz0)
- - 👉 [Looking for work? We need 3 workers](http://9gag.com/gag/aVvQwVv)<!-- MEMES:END -->
+ - 💣 [`She doth teach the torches to burn bright. As a rich jewel in an Ethiope\u2019s ear.`](http://9gag.com/gag/aW40jm6)
+ - 😝 [Don&#39;t forget the director&#39;s.](http://9gag.com/gag/a87bGZY)
+ - 👉 [Left or right?](http://9gag.com/gag/a2vPoQ1)<!-- MEMES:END -->
 
 ---
 

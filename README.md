@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The best is Red Eric](http://9gag.com/gag/aYQpxMV)
+ - 😝 [We do a little spring cleaning.](http://9gag.com/gag/aQzp3PW)
+ - 😝 [Yeyeye, and the west is oikophobic for virtue signal points...](http://9gag.com/gag/a0ePKnv)
+ - 💣 [Refugees welcome to Poland](http://9gag.com/gag/aO8yY7y)
  - 😝 [Spiderman VS Predator](http://9gag.com/gag/a87b5o1)
- - 💣 [Guy will do anything to get laid on prom night](http://9gag.com/gag/an7XMGo)
- - 😝 [A normal debate...](http://9gag.com/gag/aQzp9Mq)
- - 👉 [When I said I wanted to remodel the bathroom I didn\u2019t realize I was going to make it bigger.](http://9gag.com/gag/aO8yzn2)<!-- MEMES:END -->
+ - 👉 [Smile! You\u2019re at Mr. Smiley\u2019s!](http://9gag.com/gag/amoL73o)<!-- MEMES:END -->
 
 ---
 

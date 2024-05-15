@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You Smoker?](http://9gag.com/gag/a2vP4WO)
- - 😝 [The new ChatGPT is `Her`](http://9gag.com/gag/a87b31Q)
- - 💣 [`mods will fix it`](http://9gag.com/gag/aPAy9gQ)
- - 😝 [We do a little spring cleaning.](http://9gag.com/gag/aQzp3PW)
- - 👉 [Claw game so rigged that investigator can&#39;t force a win](http://9gag.com/gag/aD2w1A9)<!-- MEMES:END -->
+ - 😝 [Might be dying. We&#39;ll see. If so, thanks for everything.](http://9gag.com/gag/aAyVeBd)
+ - 😝 [Once upon a time\u2026](http://9gag.com/gag/aByQm21)
+ - 💣 [Not so funny](http://9gag.com/gag/aKGgxNj)
+ - 😝 [Movie?](http://9gag.com/gag/aqyZKrZ)
+ - 👉 [Normal day in Australia](http://9gag.com/gag/a34dKR8)<!-- MEMES:END -->
 
 ---
 

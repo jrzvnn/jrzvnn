@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix says its ad tier has 40M MAUs, up from 23M in January, and it will launch its own ad platform and no longer partner with Microsoft for that technology &lpar;CNBC&rpar;](http://www.techmeme.com/240515/p45#a240515p45)
  - [This new app on the App Store emulates 38 different retro game platforms](https://appleinsider.com/articles/24/05/15/this-new-app-on-the-app-store-emulates-38-different-retro-game-platforms?utm_medium=rss)
  - [Netflix renews 3 Body Problem for second season](https://www.theverge.com/2024/5/15/24157514/3-body-problem-season-2-renewal-netflix)
  - [Netflix’s ad tier hits 40 million users](https://www.theverge.com/2024/5/15/24157487/netflixs-ad-tier-40-million-subscribers)
- - [US judge rules Tesla must face claims it misled buyers on self-driving; it&#39;s faced accusations since 2016 when it said new cars had &quot;full self-driving&quot; hardware &lpar;Rachel Graf/Bloomberg&rpar;](http://www.techmeme.com/240515/p44#a240515p44)
- - [PPSSPP brings PSP emulation to the iPhone](https://www.theverge.com/2024/5/15/24157286/ppsspp-playstation-portable-psp-emulator-ios-app-store-iphone-ipad-apple)<!-- TECH:END -->
+ - [US judge rules Tesla must face claims it misled buyers on self-driving; it&#39;s faced accusations since 2016 when it said new cars had &quot;full self-driving&quot; hardware &lpar;Rachel Graf/Bloomberg&rpar;](http://www.techmeme.com/240515/p44#a240515p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,9 +159,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [There are a lot of new accessibility features coming in iOS 18 and visionOS 2.0](https://appleinsider.com/articles/24/05/15/there-are-a-lot-of-new-accessibility-features-coming-in-ios-18-and-visionos-20?utm_medium=rss)
  - [London-based PolyAI, which makes AI voice assistants for call centres, raised $50M led by Hedosophia, with money from Nvidia and others, at a $500M+ valuation &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/240515/p32#a240515p32)
  - [Deleted images haunt iPhone users in Photos for iOS 17.5](https://appleinsider.com/articles/24/05/15/deleted-images-haunt-iphone-users-in-photos-for-ios-175?utm_medium=rss)
- - [At I/O, Google Talks Up &#39;Responsible AI&#39;. What&#39;s That All About?     - CNET](https://www.cnet.com/tech/services-and-software/at-io-google-talks-up-responsible-ai-whats-that-all-about/#ftag=CAD590a51e)
  - [Anthropic hires Instagram and Artifact co-founder Mike Krieger as its chief product officer, after the startup released an iOS app for its Claude chatbot &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240515/p31#a240515p31)
  - [Apple unveils accessibility features, including Eye Tracking, to let users with physical disabilities control iPad or iPhone with their eyes, and Music Haptics &lpar;Cherlynn Low/Engadget&rpar;](http://www.techmeme.com/240515/p30#a240515p30)<!-- TECH:END -->
 

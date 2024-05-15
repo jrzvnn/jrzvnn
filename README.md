@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I used to use them.](http://9gag.com/gag/aByQ8d1)
- - 😝 [Normal day in Australia](http://9gag.com/gag/a34dKR8)
- - 💣 [Spiderman VS Predator](http://9gag.com/gag/a87b5o1)
- - 😝 [Final destination vibes](http://9gag.com/gag/a5QNMdO)
- - 👉 [The best is Red Eric](http://9gag.com/gag/aYQpxMV)<!-- MEMES:END -->
+ - 😝 [Movie?](http://9gag.com/gag/aqyZKrZ)
+ - 😝 [Nippy](http://9gag.com/gag/aqyZ73v)
+ - 💣 [I used to use them.](http://9gag.com/gag/aByQ8d1)
+ - 😝 [Guy will do anything to get laid on prom night](http://9gag.com/gag/an7XMGo)
+ - 👉 [We do a little spring cleaning.](http://9gag.com/gag/aQzp3PW)<!-- MEMES:END -->
 
 ---
 

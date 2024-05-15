@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Developer owes Apple money thanks to critical accounting error for App Store bundles](https://appleinsider.com/articles/24/05/15/developer-owes-apple-money-thanks-to-critical-accounting-error-for-app-store-bundles?utm_medium=rss)
+ - [Android 15’s second beta release lets users lock down access to private apps](https://www.theverge.com/2024/5/15/24157574/android-15-beta-2-release-private-space-rich-widgets)
+ - [Palo Alto Networks is buying IBM&#39;s QRadar cloud security software assets and moving customers to its own platform; IBM will adopt Palo Alto products internally &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240515/p49#a240515p49)
  - [Microsoft’s AI obsession is jeopardizing its climate ambitions](https://www.theverge.com/2024/5/15/24157496/microsoft-ai-carbon-footprint-greenhouse-gas-emissions-grow-climate-pledge)
- - [Cisco reports Q3 revenue down 13% YoY to $12.7B, vs. $12.53B est., net income down 41% YoY to $1.89B, and forecasts FY 2024 revenue above estimates &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240515/p48#a240515p48)
- - [AT&amp;T cuts a deal to launch satellite-to-smartphone service soon](https://www.theverge.com/2024/5/15/24157607/att-ast-spacemobile-satellite-cellular-network)
- - [Best iPad to Buy &lpar;and Some to Avoid&rpar; in 2024](https://www.wired.com/gallery/the-best-ipad/)
- - [Google announces Android 14 for TV, with new energy modes, accessibility features including color correction, picture-in-picture for some TV models, and more &lpar;Andrew Heinzman/How-To Geek&rpar;](http://www.techmeme.com/240515/p47#a240515p47)<!-- TECH:END -->
+ - [Cisco reports Q3 revenue down 13% YoY to $12.7B, vs. $12.53B est., net income down 41% YoY to $1.89B, and forecasts FY 2024 revenue above estimates &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240515/p48#a240515p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

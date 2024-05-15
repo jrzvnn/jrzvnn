@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Final destination vibes](http://9gag.com/gag/a5QNMdO)
- - 😝 [Not so funny](http://9gag.com/gag/aKGgxNj)
- - 💣 [The best is Red Eric](http://9gag.com/gag/aYQpxMV)
- - 😝 [`Anime girls have unrealistic proportions`](http://9gag.com/gag/a2vPr6d)
- - 👉 [I used to use them.](http://9gag.com/gag/aByQ8d1)<!-- MEMES:END -->
+ - 😝 [You Smoker?](http://9gag.com/gag/a2vP4WO)
+ - 😝 [The new ChatGPT is `Her`](http://9gag.com/gag/a87b31Q)
+ - 💣 [`mods will fix it`](http://9gag.com/gag/aPAy9gQ)
+ - 😝 [We do a little spring cleaning.](http://9gag.com/gag/aQzp3PW)
+ - 👉 [Claw game so rigged that investigator can&#39;t force a win](http://9gag.com/gag/aD2w1A9)<!-- MEMES:END -->
 
 ---
 

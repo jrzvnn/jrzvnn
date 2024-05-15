@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Might be dying. We&#39;ll see. If so, thanks for everything.](http://9gag.com/gag/aAyVeBd)
- - 😝 [Once upon a time\u2026](http://9gag.com/gag/aByQm21)
- - 💣 [Not so funny](http://9gag.com/gag/aKGgxNj)
+ - 😝 [Final destination vibes](http://9gag.com/gag/a5QNMdO)
  - 😝 [Movie?](http://9gag.com/gag/aqyZKrZ)
- - 👉 [Normal day in Australia](http://9gag.com/gag/a34dKR8)<!-- MEMES:END -->
+ - 💣 [Normal day in Australia](http://9gag.com/gag/a34dKR8)
+ - 😝 [Best kind of propaganda bot](http://9gag.com/gag/arye5oV)
+ - 👉 [Guy will do anything to get laid on prom night](http://9gag.com/gag/an7XMGo)<!-- MEMES:END -->
 
 ---
 

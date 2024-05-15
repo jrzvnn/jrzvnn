@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Immutable Games launches Guild of Guardians, its flagship mobile fantasy RPG that let players win GOG tokens, NFTs, and more; Immutable raised $200M in 2022 &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/240515/p26#a240515p26)
+ - [Best Cheap Electric Bikes Under $2,000 &lpar;2024&rpar;: Commuter, Folding, Cargo](https://www.wired.com/gallery/best-cheap-electric-bikes/)
  - [New iPad Pro has larger magnets in different places and new speakers](https://appleinsider.com/articles/24/05/15/new-ipad-pro-has-larger-magnets-in-different-places-and-new-speakers?utm_medium=rss)
  - [Social media users are blocking celebs to support Palestine](https://www.theverge.com/2024/5/15/24156496/gaza-palestine-israel-tiktok-instagram-blockout-social-media)
- - [Amazon made its debut pitch at the Upfronts annual ad sales event on May 14, competing with major media networks and highlighting its push beyond digital ads &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/240515/p25#a240515p25)
- - [Sources: Neuralink&#39;s disclosure last week that tiny wires inside its first patient&#39;s brain had pulled out of position is an issue it has known about for years &lpar;Rachael Levy/Reuters&rpar;](http://www.techmeme.com/240515/p24#a240515p24)
- - [Humanity Protocol, a blockchain-based identity system that uses scans of people&#39;s palms, raised a $30M seed led by Kingsway Capital at a $1B valuation &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/240515/p23#a240515p23)<!-- TECH:END -->
+ - [Amazon made its debut pitch at the Upfronts annual ad sales event on May 14, competing with major media networks and highlighting its push beyond digital ads &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/240515/p25#a240515p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

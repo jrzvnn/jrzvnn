@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nobody is born a hero. People become heroes when they choose to be brave and do what\u2019s right.](http://9gag.com/gag/amoL759)
- - 😝 [The interraction that can make a grown man cry](http://9gag.com/gag/a2vPoY9)
- - 💣 [Final destination vibes](http://9gag.com/gag/a5QNMdO)
- - 😝 [Normal day in Australia](http://9gag.com/gag/a34dKR8)
- - 👉 [Guy will do anything to get laid on prom night](http://9gag.com/gag/an7XMGo)<!-- MEMES:END -->
+ - 😝 [Might be dying. We&#39;ll see. If so, thanks for everything.](http://9gag.com/gag/aAyVeBd)
+ - 😝 [The best is Red Eric](http://9gag.com/gag/aYQpxMV)
+ - 💣 [You Smoker?](http://9gag.com/gag/a2vP4WO)
+ - 😝 [Final destination vibes](http://9gag.com/gag/a5QNMdO)
+ - 👉 [Movie?](http://9gag.com/gag/aqyZKrZ)<!-- MEMES:END -->
 
 ---
 

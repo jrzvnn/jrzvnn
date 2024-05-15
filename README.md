@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How fast will A18 in iPhone 16 be? The iPad Pro&#39;s M4 can tell us.](https://appleinsider.com/articles/24/05/15/how-fast-will-a18-in-iphone-16-be-the-ipad-pros-m4-can-tell-us?utm_medium=rss)
- - [Weka, which offers a parallel file system and data management tools for AI and HPC, raised a $140M Series E led by Valor Equity at a $1.6B post-money valuation &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240515/p27#a240515p27)
- - [Immutable Games launches Guild of Guardians, its flagship mobile fantasy RPG that let players win GOG tokens, NFTs, and more; Immutable raised $200M in 2022 &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/240515/p26#a240515p26)
- - [Best Cheap Electric Bikes Under $2,000 &lpar;2024&rpar;: Commuter, Folding, Cargo](https://www.wired.com/gallery/best-cheap-electric-bikes/)
- - [New iPad Pro has larger magnets in different places and new speakers](https://appleinsider.com/articles/24/05/15/new-ipad-pro-has-larger-magnets-in-different-places-and-new-speakers?utm_medium=rss)<!-- TECH:END -->
+ - [Netflix strikes a deal with the NFL to stream two new Christmas Day games, beginning this season &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/240515/p29#a240515p29)
+ - [Instagram’s co-founder is now Anthropic’s new chief product officer](https://www.theverge.com/2024/5/15/24157240/mike-krieger-anthropic-instagram-ai)
+ - [Billionaire tech critic Frank McCourt says he is preparing a &quot;people&#39;s bid&quot; for TikTok to buy and rebuild the app as &quot;a new and better version of the internet&quot; &lpar;Ben Smith/Semafor&rpar;](http://www.techmeme.com/240515/p28#a240515p28)
+ - [Welcome to Notepad, a newsletter on Microsoft’s era-defining bets by Tom Warren](https://www.theverge.com/2024/5/15/24150911/notepad-newsletter-tom-warren-microsoft)
+ - [These Electric School Buses Are on Their Way to Save the Grid](https://www.wired.com/story/these-electric-school-buses-are-on-their-way-to-save-the-grid/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

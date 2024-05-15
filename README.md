@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Raspberry Pi announces plans for a London Stock Exchange IPO; the company was reportedly valued at ~$560M when Arm acquired a minority stake in November 2023 &lpar;Olivia Solon/Bloomberg&rpar;](http://www.techmeme.com/240515/p9#a240515p9)
  - [Google releases Project IDX, its next-gen AI-centric browser-based IDE, in open beta, and says that 100,000+ developers tried the service in invite-only phase &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240515/p8#a240515p8)
  - [The arrival of AI search bodes ill for everyone who relied on web search to have their business discovered, or their blog post read, or their journalism funded &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/240515/p7#a240515p7)
  - [USDC issuer Circle, which confidentially filed for a US IPO in January, plans to shift its legal base to the US from Ireland, and may face more onerous taxes &lpar;Ryan Weeks/Bloomberg&rpar;](http://www.techmeme.com/240515/p6#a240515p6)
- - [Adam Mosseri says Threads &quot;recently rolled out&quot; its own fact-checking program after piggybacking on Instagram and Facebook&#39;s network for a few months &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240515/p5#a240515p5)
- - [Huawei is revamping its retail strategy and aggressively opening flagship stores in China, opening four such stores between December 2023 and February 2024 &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/240515/p4#a240515p4)<!-- TECH:END -->
+ - [Adam Mosseri says Threads &quot;recently rolled out&quot; its own fact-checking program after piggybacking on Instagram and Facebook&#39;s network for a few months &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240515/p5#a240515p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

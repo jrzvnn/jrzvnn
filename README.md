@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not so funny](http://9gag.com/gag/aKGgxNj)
- - 😝 [It was not gonna last](http://9gag.com/gag/aPAy7LV)
- - 💣 [And their country will be called Chindonesia](http://9gag.com/gag/ajP69xR)
+ - 😝 [OMG.. KING!!!! F O B*TCH](http://9gag.com/gag/ae93DMv)
  - 😝 [Normal day in Australia](http://9gag.com/gag/a34dKR8)
- - 👉 [Guy will do anything to get laid on prom night](http://9gag.com/gag/an7XMGo)<!-- MEMES:END -->
+ - 💣 [He&#39;s actually in hospital](http://9gag.com/gag/aGyVpow)
+ - 😝 [Left or right?](http://9gag.com/gag/a2vPoQ1)
+ - 👉 [One does not simply walk into Moria](http://9gag.com/gag/aO8y3RD)<!-- MEMES:END -->
 
 ---
 

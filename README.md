@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`She doth teach the torches to burn bright. As a rich jewel in an Ethiope\u2019s ear.`](http://9gag.com/gag/aW40jm6)
- - 😝 [Guy will do anything to get laid on prom night](http://9gag.com/gag/an7XMGo)
- - 💣 [We do a little spring cleaning.](http://9gag.com/gag/aQzp3PW)
- - 😝 [Don&#39;t forget the director&#39;s.](http://9gag.com/gag/a87bGZY)
- - 👉 [Not so funny](http://9gag.com/gag/aKGgxNj)<!-- MEMES:END -->
+ - 😝 [Sourly](http://9gag.com/gag/an7X4no)
+ - 😝 [Cultural Enrichment Type tries to molest woman on train, gets pushed onto tracks and loses an arm](http://9gag.com/gag/aKGg7pO)
+ - 💣 [Never forget the legend](http://9gag.com/gag/aW40E8n)
+ - 😝 [OMG.. KING!!!! F O B*TCH](http://9gag.com/gag/ae93DMv)
+ - 👉 [I don&#39;t even drink and even I&#39;ve experienced this. I don&#39;t like people](http://9gag.com/gag/a5QNWwy)<!-- MEMES:END -->
 
 ---
 

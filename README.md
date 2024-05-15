@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This new app on the App Store emulates 38 different retro game platforms](https://appleinsider.com/articles/24/05/15/this-new-app-on-the-app-store-emulates-38-different-retro-game-platforms?utm_medium=rss)
+ - [US judge rules Tesla must face claims it misled buyers on self-driving; it&#39;s faced accusations since 2016 when it said new cars had &quot;full self-driving&quot; hardware &lpar;Rachel Graf/Bloomberg&rpar;](http://www.techmeme.com/240515/p44#a240515p44)
  - [PPSSPP brings PSP emulation to the iPhone](https://www.theverge.com/2024/5/15/24157286/ppsspp-playstation-portable-psp-emulator-ios-app-store-iphone-ipad-apple)
  - [Some iPhone owners say the iOS 17.5 update, which Apple released on Monday, is resurfacing photos they had deleted &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240515/p43#a240515p43)
- - [RetroArch brings its free multisystem emulation to the iOS App Store](https://www.theverge.com/2024/5/15/24157472/retroarch-emulator-ios-app-store-iphone-nintendo-sega-playstation-atari)
- - [Best Google Pixel 8A Deals: Preorder the Latest Affordable Pixel Today     - CNET](https://www.cnet.com/deals/best-google-pixel-8a-deals-preorder-the-latest-affordable-pixel-today/#ftag=CAD590a51e)
- - [The US DOJ indicts two brothers for allegedly stealing $25M in crypto via an exploit of the MEV-Boost software used by some Ethereum validators &lpar;Sam Kessler/CoinDesk&rpar;](http://www.techmeme.com/240515/p42#a240515p42)<!-- TECH:END -->
+ - [RetroArch brings its free multisystem emulation to the iOS App Store](https://www.theverge.com/2024/5/15/24157472/retroarch-emulator-ios-app-store-iphone-nintendo-sega-playstation-atari)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

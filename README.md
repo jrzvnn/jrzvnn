@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google announces Android 14 for TV, with new energy modes, accessibility features including color correction, picture-in-picture for some TV models, and more &lpar;Andrew Heinzman/How-To Geek&rpar;](http://www.techmeme.com/240515/p47#a240515p47)
+ - [Microsoft announces the Proteus Controller, a gamepad for Xbox gamers with disabilities](https://www.theverge.com/2024/5/15/24157529/microsoft-proteus-controller-xbox-accessibility)
+ - [Prepare to Get Manipulated by Emotionally Expressive Chatbots](https://www.wired.com/story/prepare-to-get-manipulated-by-emotionally-expressive-chatbots/)
  - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [VMware makes its Workstation Pro and Fusion Pro desktop hypervisor products free for personal use &lpar;Dan Robinson/The Register&rpar;](http://www.techmeme.com/240515/p46#a240515p46)
- - [How Much Will the iPhone 16 Cost? Here&#39;s What to Expect     - CNET](https://www.cnet.com/tech/mobile/how-much-will-the-iphone-16-cost-heres-what-to-expect/#ftag=CAD590a51e)
- - [Netflix says its ad tier has 40M MAUs, up from 23M in January, and it will launch its own ad platform and no longer partner with Microsoft for that technology &lpar;CNBC&rpar;](http://www.techmeme.com/240515/p45#a240515p45)
- - [This new app on the App Store emulates 38 different retro game platforms](https://appleinsider.com/articles/24/05/15/this-new-app-on-the-app-store-emulates-38-different-retro-game-platforms?utm_medium=rss)<!-- TECH:END -->
+ - [VMware makes its Workstation Pro and Fusion Pro desktop hypervisor products free for personal use &lpar;Dan Robinson/The Register&rpar;](http://www.techmeme.com/240515/p46#a240515p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

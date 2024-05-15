@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cisco reports Q3 revenue down 13% YoY to $12.7B, vs. $12.53B est., net income down 41% YoY to $1.89B, and forecasts FY 2024 revenue above estimates &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240515/p48#a240515p48)
+ - [AT&amp;T cuts a deal to launch satellite-to-smartphone service soon](https://www.theverge.com/2024/5/15/24157607/att-ast-spacemobile-satellite-cellular-network)
+ - [Best iPad to Buy &lpar;and Some to Avoid&rpar; in 2024](https://www.wired.com/gallery/the-best-ipad/)
  - [Google announces Android 14 for TV, with new energy modes, accessibility features including color correction, picture-in-picture for some TV models, and more &lpar;Andrew Heinzman/How-To Geek&rpar;](http://www.techmeme.com/240515/p47#a240515p47)
- - [Microsoft announces the Proteus Controller, a gamepad for Xbox gamers with disabilities](https://www.theverge.com/2024/5/15/24157529/microsoft-proteus-controller-xbox-accessibility)
- - [Prepare to Get Manipulated by Emotionally Expressive Chatbots](https://www.wired.com/story/prepare-to-get-manipulated-by-emotionally-expressive-chatbots/)
- - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [VMware makes its Workstation Pro and Fusion Pro desktop hypervisor products free for personal use &lpar;Dan Robinson/The Register&rpar;](http://www.techmeme.com/240515/p46#a240515p46)<!-- TECH:END -->
+ - [Microsoft announces the Proteus Controller, a gamepad for Xbox gamers with disabilities](https://www.theverge.com/2024/5/15/24157529/microsoft-proteus-controller-xbox-accessibility)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

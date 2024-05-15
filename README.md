@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happy fathers day coming...](http://9gag.com/gag/aByQgyx)
- - 😝 [Raising another list to cleanse your eyes and mind after watching garbage &#39;focus group&#39; movies.](http://9gag.com/gag/an7X9V5)
- - 💣 [In a viral video clip on social media it is discovered that a street vendor was cooking pharata in diesel oil and later it was found that he has been cooking it in diesel for almost 35 years](http://9gag.com/gag/ajP6mAp)
- - 😝 [Movie?](http://9gag.com/gag/aqyZKrZ)
- - 👉 [Not so funny](http://9gag.com/gag/aKGgxNj)<!-- MEMES:END -->
+ - 😝 [And their country will be called Chindonesia](http://9gag.com/gag/ajP69xR)
+ - 😝 [Embedding between civilians and UN&lpar;wra&rpar; employees while carrying guns. Aerial footage just released from Rafah. Let&#39;s see how leftists/wokies/radicals call this the &#39;good guys&#39;.](http://9gag.com/gag/aByQgVz)
+ - 💣 [OMG.. KING!!!! F O B*TCH](http://9gag.com/gag/ae93DMv)
+ - 😝 [Guy will do anything to get laid on prom night](http://9gag.com/gag/an7XMGo)
+ - 👉 [Diversity Soft strikes again](http://9gag.com/gag/abAqgAv)<!-- MEMES:END -->
 
 ---
 

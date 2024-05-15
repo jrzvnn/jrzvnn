@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dell leak details next-gen Windows on Arm chips, 29-hour laptops, and more](https://www.theverge.com/2024/5/15/24157120/dell-windows-on-arm-leak-qualcomm-chips-battery-life)
+ - [I Went Undercover as a Secret OnlyFans Chatter. It Wasn&#39;t Pretty](https://www.wired.com/story/i-went-undercover-secret-onlyfans-chatter-wasnt-pretty/)
  - [Sources and documents: Chinese chipmaker CXMT and others are in the early stages of making high bandwidth memory chips, a major step in China&#39;s chip plans &lpar;Reuters&rpar;](http://www.techmeme.com/240515/p14#a240515p14)
  - [Yemen is holding back repairs on the key AAE-1 internet cable in the Red Sea during a criminal investigation into the cable owners&#39; alleged Houthi militia ties &lpar;Bloomberg&rpar;](http://www.techmeme.com/240515/p13#a240515p13)
- - [AWS details its European &quot;sovereign cloud&quot;, designed to enable greater data residency, starting in Germany, and plans to invest &amp;euro;7.8B in the region by 2040 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240515/p12#a240515p12)
- - [Insiders detail the crypto industry&#39;s lobbying efforts ahead of the 2024 US elections, as crypto-focused PACs shape the outcome of some key congressional races &lpar;Cheyenne Ligon/CoinDesk&rpar;](http://www.techmeme.com/240515/p11#a240515p11)
- - [Research: Southeast Asian scam syndicates, which typically use forced labor to run online scams like pig butchering, are stealing an estimated $64B annually &lpar;James Reddick/The Record&rpar;](http://www.techmeme.com/240515/p10#a240515p10)<!-- TECH:END -->
+ - [Best Verizon Phone for 2024     - CNET](https://www.cnet.com/tech/mobile/best-verizon-phone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

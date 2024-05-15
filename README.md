@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Final destination vibes](http://9gag.com/gag/a5QNMdO)
+ - 😝 [Times Square is seen taken over. I don\u2019t even know what to say about this.](http://9gag.com/gag/aYQpgVx)
  - 😝 [Movie?](http://9gag.com/gag/aqyZKrZ)
- - 💣 [Normal day in Australia](http://9gag.com/gag/a34dKR8)
- - 😝 [Best kind of propaganda bot](http://9gag.com/gag/arye5oV)
- - 👉 [Guy will do anything to get laid on prom night](http://9gag.com/gag/an7XMGo)<!-- MEMES:END -->
+ - 💣 [A modern romance story..](http://9gag.com/gag/aGyV1W5)
+ - 😝 [Normal day in Australia](http://9gag.com/gag/a34dKR8)
+ - 👉 [Not so funny](http://9gag.com/gag/aKGgxNj)<!-- MEMES:END -->
 
 ---
 

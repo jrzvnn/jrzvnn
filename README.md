@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google opens up its smart home to everyone and will make Google TVs home hubs](https://www.theverge.com/2024/5/15/24157154/google-home-api-matter-smart-home-chromecast-google-tv)
+ - [Uber is adding scheduled carpool rides and shuttle service for airports and concerts](https://www.theverge.com/2024/5/15/24156709/uber-shuttle-airport-concert-scheduled-carpool)
+ - [Intel’s Thunderbolt Share lets two PCs control each other over a USB cable](https://www.theverge.com/2024/5/15/24156519/intel-thunderbolt-share-app)
  - [Networking infrastructure startup Alkira, which lets users virtualize hybrid cloud assets, raised a $100M Series C led by Tiger, for $176M in total funding &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240515/p33#a240515p33)
- - [There are a lot of new accessibility features coming in iOS 18 and visionOS 2.0](https://appleinsider.com/articles/24/05/15/there-are-a-lot-of-new-accessibility-features-coming-in-ios-18-and-visionos-20?utm_medium=rss)
- - [Max’s Dune prequel series starts streaming this fall](https://www.theverge.com/24157282/dune-prophet-prequel-series-max-trailer)
- - [London-based PolyAI, which makes AI voice assistants for call centres, raised $50M led by Hedosophia, with money from Nvidia and others, at a $500M+ valuation &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/240515/p32#a240515p32)
- - [Deleted images haunt iPhone users in Photos for iOS 17.5](https://appleinsider.com/articles/24/05/15/deleted-images-haunt-iphone-users-in-photos-for-ios-175?utm_medium=rss)<!-- TECH:END -->
+ - [There are a lot of new accessibility features coming in iOS 18 and visionOS 2.0](https://appleinsider.com/articles/24/05/15/there-are-a-lot-of-new-accessibility-features-coming-in-ios-18-and-visionos-20?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

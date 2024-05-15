@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sea reports Q1 revenue up 23% YoY to a record $3.73B and a $23M net loss, Shopee&#39;s revenue grew 31% YoY to a record $2.95B, and expects 2024 to be profitable &lpar;Tsubasa Suruga/Nikkei Asia&rpar;](http://www.techmeme.com/240515/p1#a240515p1)
  - [12 Groomsmen Gifts They&#39;ll Actually Appreciate     - CNET](https://www.cnet.com/news/12-groomsmen-gifts-theyll-actually-appreciate/#ftag=CAD590a51e)
  - [Cheapest Meal Delivery Services of 2024     - CNET](https://www.cnet.com/health/nutrition/cheapest-meal-delivery-service/#ftag=CAD590a51e)
  - [Best Antivirus Software for 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-antivirus/#ftag=CAD590a51e)
- - [Best Meta Quest 2 Accessories for 2024     - CNET](https://www.cnet.com/tech/gaming/best-oculus-quest-2-accessories/#ftag=CAD590a51e)
- - [Best Massage Guns for 2024     - CNET](https://www.cnet.com/health/fitness/best-massage-gun/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Meta Quest 2 Accessories for 2024     - CNET](https://www.cnet.com/tech/gaming/best-oculus-quest-2-accessories/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

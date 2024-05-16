@@ -159,10 +159,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google’s Gemini AI plan for schools promises extra data protection and privacy](https://www.theverge.com/2024/5/16/24158484/google-gemini-ai-workspace-education-school-privacy-accessibility-chromebook)
+ - [Newspaper conglomerate Gannett is adding AI-generated summaries to the top of its articles](https://www.theverge.com/2024/5/16/24158531/gannett-ai-generated-overviews-usa-today-memo)
  - [How Google&#39;s AI Overviews Work, and How to Turn Them Off &lpar;You Can&#39;t&rpar;](https://www.wired.com/story/google-ai-overviews-how-to-use-how-to-turn-off/)
  - [OpenAI strikes Reddit deal to train its AI on your posts](https://www.theverge.com/2024/5/16/24158529/reddit-openai-chatgpt-api-access-advertising)
- - [20 Memorial Day Mattress Deals: Save Hundreds on Your Next Bed     - CNET](https://www.cnet.com/deals/best-memorial-day-mattress-deals-2024/#ftag=CAD590a51e)
- - [My Favorite Sunrise Alarm Clock From Hatch Is Now $30 Cheaper     - CNET](https://www.cnet.com/deals/hatch-restore-memorial-day-2024/#ftag=CAD590a51e)
  - [TikTok is testing hour-long videos](https://www.theverge.com/2024/5/16/24158491/tiktok-hour-long-video-uploads-youtube)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

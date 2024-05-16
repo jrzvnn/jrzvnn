@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One does not simply walk into Moria](http://9gag.com/gag/aO8y3RD)
+ - 😝 [It was not gonna last](http://9gag.com/gag/aPAy7LV)
  - 😝 [\u201cOh wow, that\u2019s a beautiful sunri\u2026\u201d](http://9gag.com/gag/a2vPKNY)
- - 💣 [In a viral video clip on social media it is discovered that a street vendor was cooking pharata in diesel oil and later it was found that he has been cooking it in diesel for almost 35 years](http://9gag.com/gag/ajP6mAp)
- - 😝 [And their country will be called Chindonesia](http://9gag.com/gag/ajP69xR)
- - 👉 [It was not gonna last](http://9gag.com/gag/aPAy7LV)<!-- MEMES:END -->
+ - 💣 [Neill Confidence man](http://9gag.com/gag/a0eP4nO)
+ - 😝 [Don&#39;t forget the director&#39;s.](http://9gag.com/gag/a87bGZY)
+ - 👉 [Accurate](http://9gag.com/gag/aE0G84K)<!-- MEMES:END -->
 
 ---
 

@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Assassin&#39;s Creed Shadows&#39; launches on Mac in November](https://appleinsider.com/articles/24/05/16/assassins-creed-shadows-launches-on-apple-silicon-macs-november-15?utm_medium=rss)
- - [iPhone 16 Pro Max is going to be a bit bigger than the iPhone 15 Pro Max](https://appleinsider.com/articles/24/05/16/iphone-16-pro-max-mockup-shows-size-increase-versus-iphone-15-pro-max?utm_medium=rss)
- - [Google Search Is Growing Up](https://www.wired.com/story/gadget-lab-podcast-644/)
- - [A profile of Noland Arbaugh, who was paralyzed after an accident in mid-2016 and became the first person to receive Neuralink&#39;s brain implant in January 2024 &lpar;Ashlee Vance/Bloomberg&rpar;](http://www.techmeme.com/240516/p19#a240516p19)
- - [Instagram and Facebook under EU investigation for causing child addiction and harm](https://www.theverge.com/2024/5/16/24158046/meta-facebook-instagram-eu-probe-dsa-child-safety-addiction)<!-- TECH:END -->
+ - [Lab-Grown Meat Is on Shelves Now. But There’s a Catch](https://www.wired.com/story/eat-just-good-meat-singapore-cultivated-lab-grown-chicken/)
+ - [How to use iPad as a Mac replacement and why you&#39;d want to](https://appleinsider.com/inside/ipad/tips/how-to-use-ipad-as-a-mac-replacement-and-why-youd-want-to?utm_medium=rss)
+ - [Blackstone agrees to buy a majority stake in Israeli enterprise software company Priority Software, which has 17K clients and 500+ staff, at an $800M valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/240516/p20#a240516p20)
+ - [Google Search&#39;s Video AI Lets Us Be Stupid     - CNET](https://www.cnet.com/tech/mobile/google-searchs-video-ai-lets-us-be-stupid/#ftag=CAD590a51e)
+ - [At a Beverly Hills mansion, where an electric truck is your only source of power](https://www.theverge.com/2024/5/16/24157611/gm-energy-chevy-silverado-ev-v2h-microgrid-battery)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One does not simply walk into Moria](http://9gag.com/gag/aO8y3RD)
- - 😝 [Buckle up it&#39;s going to be a bumpy ride](http://9gag.com/gag/aAyV0gZ)
- - 💣 [It was not gonna last](http://9gag.com/gag/aPAy7LV)
- - 😝 [OMG.. KING!!!! F O B*TCH](http://9gag.com/gag/ae93DMv)
- - 👉 [Accurate](http://9gag.com/gag/aE0G84K)<!-- MEMES:END -->
+ - 😝 [It was not gonna last](http://9gag.com/gag/aPAy7LV)
+ - 😝 [`She doth teach the torches to burn bright. As a rich jewel in an Ethiope\u2019s ear.`](http://9gag.com/gag/aW40jm6)
+ - 💣 [Accurate](http://9gag.com/gag/aE0G84K)
+ - 😝 [It&#39;s important!!](http://9gag.com/gag/adB68qV)
+ - 👉 [OMG.. KING!!!! F O B*TCH](http://9gag.com/gag/ae93DMv)<!-- MEMES:END -->
 
 ---
 

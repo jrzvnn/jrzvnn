@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Looking for work? We need 3 workers](http://9gag.com/gag/aVvQwVv)
- - 😝 [Perrrruuuuuu!](http://9gag.com/gag/aAyVbbg)
- - 💣 [I can wrap anything up](http://9gag.com/gag/a87bE0Y)
- - 😝 [Why do men feel the need to go through things alone?](http://9gag.com/gag/agm0g4x)
- - 👉 [*autistic screeching intensifies*](http://9gag.com/gag/a34d1Me)<!-- MEMES:END -->
+ - 😝 [I can wrap anything up](http://9gag.com/gag/a87bE0Y)
+ - 😝 [Welcome to Napels, Italy](http://9gag.com/gag/aryenz7)
+ - 💣 [Why do men feel the need to go through things alone?](http://9gag.com/gag/agm0g4x)
+ - 😝 [*autistic screeching intensifies*](http://9gag.com/gag/a34d1Me)
+ - 👉 [Looking for work? We need 3 workers](http://9gag.com/gag/aVvQwVv)<!-- MEMES:END -->
 
 ---
 

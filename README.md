@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [X rolls out a revamped version of its Communities feature, which lets users network around topics of interest, including improved discovery tools and search &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240516/p34#a240516p34)
- - [A quantum-entangled photon traveled 35 kilometers under the streets of Boston](https://www.theverge.com/2024/5/16/24158365/quantum-computing-network-aws-amazon-harvard)
- - [Figma is letting staff and early investors sell up to $900M of shares in a tender at a $12.5B valuation, down ~38% from Adobe&#39;s $20B acquisition proposal &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/240516/p33#a240516p33)
- - [Memorial Day 2024 Sales: Early Deals to Get Your Hands on Right Now, Plus What to Know for the Big Weekend     - CNET](https://www.cnet.com/deals/memorial-day-sales/#ftag=CAD590a51e)
- - [As Execs Gush Over AI at Google I/O 2024, Creators and Publishers Left Out to Dry     - CNET](https://www.cnet.com/tech/services-and-software/as-execs-gush-over-ai-at-google-io-2024-creators-and-publishers-left-out-to-dry/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [DOJ charges five people for allegedly duping 300+ US companies into hiring North Korea-linked remote IT workers and helping fund the country&#39;s nuclear program &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240516/p36#a240516p36)
+ - [iPhone 16 September launch on track with production starting in June](https://appleinsider.com/articles/24/05/16/iphone-16-september-launch-on-track-with-production-starting-in-june?utm_medium=rss)
+ - [How Twitch Streamers Could Shape the 2024 Elections](https://www.wired.com/story/hasan-piker-twitch-joe-biden/)
+ - [AI coding startup Replit, which raised $220M+ and was last valued at $1B, lays off 30 employees, or 20% of its staff, and pivots to enterprise sales &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/240516/p35#a240516p35)
+ - [Google’s making it easier for people with low vision to find objects using their phone](https://www.theverge.com/2024/5/16/24158453/google-accessibility-features-android-low-vision)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

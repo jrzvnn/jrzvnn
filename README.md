@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Charlie you son of a](http://9gag.com/gag/a9yM1x0)
- - 😝 [Oh we have a lot of her in Western Europe. That&#39;s why we are how we are today.](http://9gag.com/gag/aryem8p)
- - 💣 [Why do men feel the need to go through things alone?](http://9gag.com/gag/agm0g4x)
- - 😝 [*autistic screeching intensifies*](http://9gag.com/gag/a34d1Me)
- - 👉 [Can&#39;t wait to do this with my daughter. Any Ideas where could I get one?](http://9gag.com/gag/aVvQxqy)<!-- MEMES:END -->
+ - 😝 [It was not gonna last](http://9gag.com/gag/aPAy7LV)
+ - 😝 [What?](http://9gag.com/gag/aW40Gzx)
+ - 💣 [And their country will be called Chindonesia](http://9gag.com/gag/ajP69xR)
+ - 😝 [Don&#39;t forget the director&#39;s.](http://9gag.com/gag/a87bGZY)
+ - 👉 [Dude&#39;s never made it this far before.](http://9gag.com/gag/an7XzEb)<!-- MEMES:END -->
 
 ---
 

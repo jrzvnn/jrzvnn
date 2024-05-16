@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bolt co-founder Ryan Breslow settles with investor Activant Capital, ending a lawsuit that accused Breslow of saddling the company with $30M in personal debt &lpar;Sarah Emerson/Forbes&rpar;](http://www.techmeme.com/240515/p57#a240515p57)
+ - [Google I/O 2024: all the news from the developer conference](https://www.theverge.com/2024/5/14/24155647/google-io-news-announcements-rumors-gemini-ai)
+ - [Source: Stability AI has talked to at least one potential buyer in recent weeks about a sale; it lost $30M+ in Q1 and owes ~$100M to cloud providers and others &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/240515/p56#a240515p56)
  - [App Store bundle error punishes developer for success [u]](https://appleinsider.com/articles/24/05/15/developer-owes-apple-money-thanks-to-critical-accounting-error-for-app-store-bundles?utm_medium=rss)
- - [Assassin&#39;s Creed Shadows launches on Apple Silicon Macs November 15](https://appleinsider.com/articles/24/05/16/assassins-creed-shadows-launches-on-apple-silicon-macs-november-15?utm_medium=rss)
- - [Arizona&#39;s AG sues Amazon, accusing the company of being a monopoly and deceiving consumers in violation of state laws, similar to complaints brought by the FTC &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240515/p55#a240515p55)
- - [11 Best All-Clad Cookware Deals Right Now &lpar;Spring 2024&rpar;](https://www.wired.com/story/all-clad-deals/)
- - [Samsung’s customizable Music Frame speaker is receiving its first discount](https://www.theverge.com/2024/5/15/24156876/samsung-music-frame-speaker-roku-streaming-stick-4k-deal-sale)<!-- TECH:END -->
+ - [Assassin&#39;s Creed Shadows launches on Apple Silicon Macs November 15](https://appleinsider.com/articles/24/05/16/assassins-creed-shadows-launches-on-apple-silicon-macs-november-15?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

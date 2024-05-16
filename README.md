@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with Apple&#39;s Greg Joswiak and John Ternus on the new iPad lineup, the M4 chip, why the iPad and Mac both matter, the iPad as an &quot;AI PC&quot;, and more &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/240516/p7#a240516p7)
  - [Fujifilm’s new X-T50 has a film simulation dial — and a questionable price](https://www.theverge.com/2024/5/16/24157566/fujifilm-xt50-camera-features-specs-price)
  - [Microsoft unveils the Proteus Controller, a $299 modular game controller kit for disabled Xbox and PC gamers by peripheral company ByoWave, shipping in the fall &lpar;Sheena Vasani/The Verge&rpar;](http://www.techmeme.com/240516/p6#a240516p6)
  - [Grab raises its annual forecast for adjusted EBITDA to $250M-$270M, up from $180M-$200M previously, after Q1 net loss narrowed to $104M from $244M a year ago &lpar;Kimberley Kao/Wall Street Journal&rpar;](http://www.techmeme.com/240516/p5#a240516p5)
- - [Consumers protection groups across the EU file coordinated complaints against Temu, accusing the e-commerce platform of a raft of breaches related to the DSA &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240516/p4#a240516p4)
- - [Source: Microsoft is asking about 700 to 800 employees involved in its China-based AI and cloud computing operations to consider relocating to other countries &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240516/p3#a240516p3)<!-- TECH:END -->
+ - [Consumers protection groups across the EU file coordinated complaints against Temu, accusing the e-commerce platform of a raft of breaches related to the DSA &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240516/p4#a240516p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

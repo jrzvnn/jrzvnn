@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [App Store bundle error punished developer for success](https://appleinsider.com/articles/24/05/15/developer-owes-apple-money-thanks-to-critical-accounting-error-for-app-store-bundles?utm_medium=rss)
+ - [Google releases an emergency Chrome update to patch the third zero-day vulnerability exploited within a week, and the seventh zero-day fix in 2024 so far &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240516/p15#a240516p15)
  - [One hedge fund completely bailed out of AAPL, but another more than picked up the slack](https://appleinsider.com/articles/24/05/16/one-hedge-fund-completely-bailed-out-of-aapl-but-another-more-than-picked-up-the-slack?utm_medium=rss)
  - [Baidu reports Q1 revenue up 1% YoY to ~$4.4B, above ~$4.35B est., the slowest growth in over a year, and net income down 6% YoY to ~$755M, above ~$554M est. &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/240516/p14#a240516p14)
- - [The EU opens a formal DSA investigation into Meta, to assess if Facebook, Instagram, and its other apps were reinforcing &quot;rabbit hole&quot; effects and other issues &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240516/p13#a240516p13)
- - [Worker killed in blast at TSMC&#39;s Arizona construction site](https://appleinsider.com/articles/24/05/16/worker-killed-in-blast-at-tsmcs-arizona-construction-site?utm_medium=rss)
- - [Maven Is a New Social Network That Eliminates Followers—and Hopefully Stress](https://www.wired.com/story/maven-social-network-that-eliminates-followers-and-stress/)<!-- TECH:END -->
+ - [The EU opens a formal DSA investigation into Meta, to assess if Facebook, Instagram, and its other apps were reinforcing &quot;rabbit hole&quot; effects and other issues &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240516/p13#a240516p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

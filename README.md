@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best 75-Inch TV in 2024     - CNET](https://www.cnet.com/tech/home-entertainment/best-75-inch-tv/#ftag=CAD590a51e)
+ - [Best Travel Credit Cards for May 2024     - CNET](https://www.cnet.com/personal-finance/best-travel-credit-card/#ftag=CAD590a51e)
+ - [Best Credit Card Welcome Bonuses for May 2024     - CNET](https://www.cnet.com/personal-finance/best-credit-card-welcome-bonus/#ftag=CAD590a51e)
  - [Keychron Q1 HE Review - Near-infinitely adjustable keyboard with impressive design](https://appleinsider.com/articles/24/05/16/keychron-q1-he-review---near-infinitely-adjustable-keyboard-with-impressive-design?utm_medium=rss)
- - [Hugging Face, which is &quot;profitable, or close to profitable&quot;, commits $10M in free shared GPUs to help small developers, academics, and others create AI apps &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/240516/p21#a240516p21)
- - [The ultrathin iPad Pro turns out to be shockingly sturdy](https://www.theverge.com/24158124/apple-ipad-pro-bend-test-durability)
- - [Artiphon Chorda Review: A Nifty Toy for Non-Musicians](https://www.wired.com/review/artiphon-chorda/)
- - [X-Men ‘97 understood the power of perfect timing](https://www.theverge.com/24157272/x-men-97-season-one-finale)<!-- TECH:END -->
+ - [Best Credit Cards for Everyday Use in May 2024     - CNET](https://www.cnet.com/personal-finance/best-credit-cards-for-everyday-use/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

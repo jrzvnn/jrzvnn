@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI and Reddit partner to bring Reddit content to OpenAI products including ChatGPT, enable Reddit to add new AI tools, and make OpenAI a Reddit ad partner &lpar;Arasu Kannagi Basil/Reuters&rpar;](http://www.techmeme.com/240516/p38#a240516p38)
- - [Two brothers accused of stealing $25 million worth of crypto](https://www.theverge.com/2024/5/16/24158398/crypto-ethereum-heist-peraire-bueno-brothers)
- - [Take-Two announces a fall 2025 release date for Grand Theft Auto VI, and reduces its bookings forecast for FY 2025 from $8B+ to $5.55B+ &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/240516/p37#a240516p37)
- - [iPhone 16 launch on track with production starting soon](https://appleinsider.com/articles/24/05/16/iphone-16-september-launch-on-track-with-production-starting-in-june?utm_medium=rss)
- - [DOJ charges five people for allegedly duping 300+ US companies into hiring North Korea-linked remote IT workers and helping fund the country&#39;s nuclear program &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240516/p36#a240516p36)<!-- TECH:END -->
+ - [TikTok is testing hour-long videos](https://www.theverge.com/2024/5/16/24158491/tiktok-hour-long-video-uploads-youtube)
+ - [GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series](https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games)
+ - [Grand Theft Auto VI is launching in fall 2025](https://www.theverge.com/2024/5/16/24158510/gta-6-release-date-fall-2025)
+ - [OpenAI and Reddit partner to bring Reddit content to ChatGPT and more via Reddit&#39;s Data API, bring new AI tools to Reddit, and make OpenAI a Reddit ad partner &lpar;Arasu Kannagi Basil/Reuters&rpar;](http://www.techmeme.com/240516/p38#a240516p38)
+ - [Two brothers accused of stealing $25 million worth of crypto](https://www.theverge.com/2024/5/16/24158398/crypto-ethereum-heist-peraire-bueno-brothers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

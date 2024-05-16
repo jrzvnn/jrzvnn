@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u201cOh wow, that\u2019s a beautiful sunri\u2026\u201d](http://9gag.com/gag/a2vPKNY)
- - 😝 [Buckle up it&#39;s going to be a bumpy ride](http://9gag.com/gag/aAyV0gZ)
- - 💣 [Not so funny](http://9gag.com/gag/aKGgxNj)
- - 😝 [OMG.. KING!!!! F O B*TCH](http://9gag.com/gag/ae93DMv)
- - 👉 [Accurate](http://9gag.com/gag/aE0G84K)<!-- MEMES:END -->
+ - 😝 [Accurate](http://9gag.com/gag/aE0G84K)
+ - 😝 [Might be dying. We&#39;ll see. If so, thanks for everything.](http://9gag.com/gag/aAyVeBd)
+ - 💣 [And their country will be called Chindonesia](http://9gag.com/gag/ajP69xR)
+ - 😝 [It&#39;s important!!](http://9gag.com/gag/adB68qV)
+ - 👉 [Switzerland](http://9gag.com/gag/aByQdpD)<!-- MEMES:END -->
 
 ---
 

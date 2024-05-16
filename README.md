@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s going down. Let&#39;s hope it will keep going down](http://9gag.com/gag/aMVbVjG)
- - 😝 [Damn accurate](http://9gag.com/gag/adB6Bqj)
- - 💣 [I&#39;m in this video and i don&#39;t like it](http://9gag.com/gag/a2vPK9e)
- - 😝 [The Dutch have a new kabinet. Strikt rules for Illigal immigration and hard penalty&#39;s for foreign law breakers. Thanks to Geert Wilders \ud83c\uddf3\ud83c\uddf1](http://9gag.com/gag/aKGgE0g)
- - 👉 [Peabrained](http://9gag.com/gag/aQzpzDK)<!-- MEMES:END -->
+ - 😝 [One does not simply walk into Moria](http://9gag.com/gag/aO8y3RD)
+ - 😝 [In a viral video clip on social media it is discovered that a street vendor was cooking pharata in diesel oil and later it was found that he has been cooking it in diesel for almost 35 years](http://9gag.com/gag/ajP6mAp)
+ - 💣 [Neill Confidence man](http://9gag.com/gag/a0eP4nO)
+ - 😝 [No comment](http://9gag.com/gag/a0ePNNz)
+ - 👉 [\u201cOh wow, that\u2019s a beautiful sunri\u2026\u201d](http://9gag.com/gag/a2vPKNY)<!-- MEMES:END -->
 
 ---
 

@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iMessage is having some issues today](https://www.theverge.com/2024/5/16/24158595/imessage-down-outage-iphone-apple-text-messages)
+ - [Cicada Double Brood Is Coming and Is Already Buzzing in Some Regions     - CNET](https://www.cnet.com/science/cicada-double-brood-is-coming-and-is-already-buzzing-in-some-regions/#ftag=CAD590a51e)
  - [Apple previews Vehicle Motion Cues, which adds animated dots to iPhone and iPad screens to reduce motion sickness for passengers using them in moving vehicles &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/240516/p39#a240516p39)
- - [Google’s Gemini AI plan for schools promises extra data protection and privacy](https://www.theverge.com/2024/5/16/24158484/google-gemini-ai-workspace-education-school-privacy-accessibility-chromebook)
- - [Amazon Is Hosting a Massive Book Sale](https://www.wired.com/story/amazon-book-sale-spring-2024/)
- - [Newspaper conglomerate Gannett is adding AI-generated summaries to the top of its articles](https://www.theverge.com/2024/5/16/24158531/gannett-ai-generated-overviews-usa-today-memo)
- - [How Google’s AI Overviews Work, and How to Turn Them Off &lpar;You Can’t&rpar;](https://www.wired.com/story/google-ai-overviews-how-to-use-how-to-turn-off/)<!-- TECH:END -->
+ - [Watch &#39;RuPaul&#39;s Drag Race All Stars&#39; Season 9 From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/watch-rupauls-drag-race-all-stars-season-9-from-anywhere/#ftag=CAD590a51e)
+ - [Google’s Gemini AI plan for schools promises extra data protection and privacy](https://www.theverge.com/2024/5/16/24158484/google-gemini-ai-workspace-education-school-privacy-accessibility-chromebook)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

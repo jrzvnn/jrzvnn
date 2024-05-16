@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [App Store bundle error punishes developer for success [u]](https://appleinsider.com/articles/24/05/15/developer-owes-apple-money-thanks-to-critical-accounting-error-for-app-store-bundles?utm_medium=rss)
+ - [Assassin&#39;s Creed Shadows launches on Apple Silicon Macs November 15](https://appleinsider.com/articles/24/05/16/assassins-creed-shadows-launches-on-apple-silicon-macs-november-15?utm_medium=rss)
+ - [Arizona&#39;s AG sues Amazon, accusing the company of being a monopoly and deceiving consumers in violation of state laws, similar to complaints brought by the FTC &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240515/p55#a240515p55)
  - [11 Best All-Clad Cookware Deals Right Now &lpar;Spring 2024&rpar;](https://www.wired.com/story/all-clad-deals/)
- - [Samsung’s customizable Music Frame speaker is receiving its first discount](https://www.theverge.com/2024/5/15/24156876/samsung-music-frame-speaker-roku-streaming-stick-4k-deal-sale)
- - [Spotify received a cease-and-desist letter from the National Music Publishers&#39; Association over its use of lyrics in its videos feature, remix tool, and more &lpar;Kristin Robinson/Billboard&rpar;](http://www.techmeme.com/240515/p54#a240515p54)
- - [The US Election Threats Are Clear. What to Do About Them Is Anything But](https://www.wired.com/story/election-threats-senate-hearing-ai-disinformation-deepfakes/)
- - [Google One&#39;s VPN service will no longer be available as of June 20, 2024; Pixel 7 devices and Pixel Fold will get a built-in VPN via an update on June 3, 2024 &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240515/p53#a240515p53)<!-- TECH:END -->
+ - [Samsung’s customizable Music Frame speaker is receiving its first discount](https://www.theverge.com/2024/5/15/24156876/samsung-music-frame-speaker-roku-streaming-stick-4k-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

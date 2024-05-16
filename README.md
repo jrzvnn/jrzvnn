@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It was not gonna last](http://9gag.com/gag/aPAy7LV)
- - 😝 [`She doth teach the torches to burn bright. As a rich jewel in an Ethiope\u2019s ear.`](http://9gag.com/gag/aW40jm6)
- - 💣 [Accurate](http://9gag.com/gag/aE0G84K)
- - 😝 [It&#39;s important!!](http://9gag.com/gag/adB68qV)
- - 👉 [OMG.. KING!!!! F O B*TCH](http://9gag.com/gag/ae93DMv)<!-- MEMES:END -->
+ - 😝 [\u201cOh wow, that\u2019s a beautiful sunri\u2026\u201d](http://9gag.com/gag/a2vPKNY)
+ - 😝 [Buckle up it&#39;s going to be a bumpy ride](http://9gag.com/gag/aAyV0gZ)
+ - 💣 [Not so funny](http://9gag.com/gag/aKGgxNj)
+ - 😝 [OMG.. KING!!!! F O B*TCH](http://9gag.com/gag/ae93DMv)
+ - 👉 [Accurate](http://9gag.com/gag/aE0G84K)<!-- MEMES:END -->
 
 ---
 

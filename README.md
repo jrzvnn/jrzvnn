@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pineapple skin resisting heat emitted by 1000\u00b0C Iron ball](http://9gag.com/gag/abAqAeX)
- - 😝 [Neill Confidence man](http://9gag.com/gag/a0eP4nO)
- - 💣 [And their country will be called Chindonesia](http://9gag.com/gag/ajP69xR)
- - 😝 [No comment](http://9gag.com/gag/a0ePNNz)
- - 👉 [Accurate](http://9gag.com/gag/aE0G84K)<!-- MEMES:END -->
+ - 😝 [Dude&#39;s never made it this far before.](http://9gag.com/gag/an7XzEb)
+ - 😝 [Might be dying. We&#39;ll see. If so, thanks for everything.](http://9gag.com/gag/aAyVeBd)
+ - 💣 [It was not gonna last](http://9gag.com/gag/aPAy7LV)
+ - 😝 [And their country will be called Chindonesia](http://9gag.com/gag/ajP69xR)
+ - 👉 [In a viral video clip on social media it is discovered that a street vendor was cooking pharata in diesel oil and later it was found that he has been cooking it in diesel for almost 35 years](http://9gag.com/gag/ajP6mAp)<!-- MEMES:END -->
 
 ---
 

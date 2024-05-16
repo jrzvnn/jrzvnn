@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to use Startup security in macOS to protect your Mac](https://appleinsider.com/inside/macos/tips/how-to-use-startup-security-in-macos-to-protect-your-mac?utm_medium=rss)
  - [Visa rolls out tech that will allow it to share more data about customers&#39; preferences based on their shopping history with retailers via proprietary &quot;tokens&quot; &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/240515/p59#a240515p59)
  - [From ChatGPT to Gemini: how AI is rewriting the internet](https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai)
  - [Samsung mocks Apple’s crushing iPad Pro ad with its own ‘UnCrush’ pitch](https://www.theverge.com/2024/5/15/24157869/samsung-ipad-crush-ad-uncrush-galaxy-tab-s9)
- - [Oklahoma Governor Kevin Stitt signs a bill protecting bitcoin rights, ensuring the right to self-custody, transact, and mine bitcoin, effective November 1, 2024 &lpar;Susie Violet Ward/Forbes&rpar;](http://www.techmeme.com/240515/p58#a240515p58)
- - [Best Portable Chargers and Power Banks to Buy for Android in 2024     - CNET](https://www.cnet.com/tech/mobile/best-portable-chargers-power-banks-for-android/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Oklahoma Governor Kevin Stitt signs a bill protecting bitcoin rights, ensuring the right to self-custody, transact, and mine bitcoin, effective November 1, 2024 &lpar;Susie Violet Ward/Forbes&rpar;](http://www.techmeme.com/240515/p58#a240515p58)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

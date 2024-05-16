@@ -169,9 +169,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Charlie you son of a](http://9gag.com/gag/a9yM1x0)
- - 😝 [*autistic screeching intensifies*](http://9gag.com/gag/a34d1Me)
- - 💣 [Why do men feel the need to go through things alone?](http://9gag.com/gag/agm0g4x)
  - 😝 [Oh we have a lot of her in Western Europe. That&#39;s why we are how we are today.](http://9gag.com/gag/aryem8p)
+ - 💣 [Why do men feel the need to go through things alone?](http://9gag.com/gag/agm0g4x)
+ - 😝 [*autistic screeching intensifies*](http://9gag.com/gag/a34d1Me)
  - 👉 [Can&#39;t wait to do this with my daughter. Any Ideas where could I get one?](http://9gag.com/gag/aVvQxqy)<!-- MEMES:END -->
 
 ---

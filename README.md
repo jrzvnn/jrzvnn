@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Reddit’s deal with OpenAI will plug its posts into ‘ChatGPT and new products’](https://www.theverge.com/2024/5/16/24158529/reddit-openai-chatgpt-api-access-advertising)
+ - [20 Memorial Day Mattress Deals: Save Hundreds on Your Next Bed     - CNET](https://www.cnet.com/deals/best-memorial-day-mattress-deals-2024/#ftag=CAD590a51e)
+ - [My Favorite Sunrise Alarm Clock From Hatch Is Now $30 Cheaper     - CNET](https://www.cnet.com/deals/hatch-restore-memorial-day-2024/#ftag=CAD590a51e)
  - [TikTok is testing hour-long videos](https://www.theverge.com/2024/5/16/24158491/tiktok-hour-long-video-uploads-youtube)
- - [GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series](https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games)
- - [Grand Theft Auto VI is launching in fall 2025](https://www.theverge.com/2024/5/16/24158510/gta-6-release-date-fall-2025)
- - [OpenAI and Reddit partner to bring Reddit content to ChatGPT and more via Reddit&#39;s Data API, bring new AI tools to Reddit, and make OpenAI a Reddit ad partner &lpar;Arasu Kannagi Basil/Reuters&rpar;](http://www.techmeme.com/240516/p38#a240516p38)
- - [Two brothers accused of stealing $25 million worth of crypto](https://www.theverge.com/2024/5/16/24158398/crypto-ethereum-heist-peraire-bueno-brothers)<!-- TECH:END -->
+ - [The Purple Mattress I Slept on for 5 Years Is on Sale This Memorial Day     - CNET](https://www.cnet.com/deals/purple-mattress-memorial-day-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

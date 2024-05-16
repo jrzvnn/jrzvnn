@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Assassin&#39;s Creed Shadows&#39; launches on Mac in November](https://appleinsider.com/articles/24/05/16/assassins-creed-shadows-launches-on-apple-silicon-macs-november-15?utm_medium=rss)
+ - [iPhone 16 Pro Max is going to be a bit bigger than the iPhone 15 Pro Max](https://appleinsider.com/articles/24/05/16/iphone-16-pro-max-mockup-shows-size-increase-versus-iphone-15-pro-max?utm_medium=rss)
+ - [Google Search Is Growing Up](https://www.wired.com/story/gadget-lab-podcast-644/)
  - [A profile of Noland Arbaugh, who was paralyzed after an accident in mid-2016 and became the first person to receive Neuralink&#39;s brain implant in January 2024 &lpar;Ashlee Vance/Bloomberg&rpar;](http://www.techmeme.com/240516/p19#a240516p19)
- - [Instagram and Facebook under EU investigation for causing child addiction and harm](https://www.theverge.com/2024/5/16/24158046/meta-facebook-instagram-eu-probe-dsa-child-safety-addiction)
- - [Senate hearing: US DNI Avril Haines says foreign adversaries will again seek to influence the upcoming elections, harnessing AI to spread disinformation &lpar;Associated Press&rpar;](http://www.techmeme.com/240516/p18#a240516p18)
- - [Hasan Piker Won’t Tell You to Vote for Joe Biden](https://www.wired.com/story/hasan-piker-twitch-voting-joe-biden/)
- - [World rocked as YouTubers prove you can eventually break an iPad](https://appleinsider.com/articles/24/05/16/world-rocked-as-youtubers-prove-you-can-eventually-break-an-ipad?utm_medium=rss)<!-- TECH:END -->
+ - [Instagram and Facebook under EU investigation for causing child addiction and harm](https://www.theverge.com/2024/5/16/24158046/meta-facebook-instagram-eu-probe-dsa-child-safety-addiction)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

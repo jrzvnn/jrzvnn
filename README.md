@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [World rocked as YouTubers prove you can eventually break an iPad](https://appleinsider.com/articles/24/05/16/world-rocked-as-youtubers-prove-you-can-eventually-break-an-ipad?utm_medium=rss)
+ - [Microsoft&#39;s decisions, like seemingly rowing back on Surface, Start Menu ads, closing studios, and porting AAA games to PS5, show a short-term financial focus &lpar;Jez Corden/Windows Central&rpar;](http://www.techmeme.com/240516/p17#a240516p17)
+ - [Meta Faces Fresh Probe Over &#39;Addictive&#39; Effect on Kids](https://www.wired.com/story/meta-faces-fresh-probe-over-addictive-effect-on-kids/)
  - [Wegovy Can Keep Weight Off for at Least 4 Years, Research Shows](https://www.wired.com/story/weight-loss-from-wegovy-sustained-for-up-to-four-years-trial-shows/)
- - [I touched a prototype Asus ROG Ally X, and it felt better](https://www.theverge.com/2024/5/16/24157533/asus-rog-ally-x-prototype-hands-on)
- - [JD.com reports Q1 revenue up 7% YoY to ~$36B, above ~$35.8B est., and net income up 13.9% YoY to ~$984M, after ramping up shopping perks to attract customers &lpar;Sarah Zheng/Bloomberg&rpar;](http://www.techmeme.com/240516/p16#a240516p16)
- - [App Store bundle error punished developer for success](https://appleinsider.com/articles/24/05/15/developer-owes-apple-money-thanks-to-critical-accounting-error-for-app-store-bundles?utm_medium=rss)
- - [Google releases an emergency Chrome update to patch the third zero-day vulnerability exploited within a week, and the seventh zero-day fix in 2024 so far &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240516/p15#a240516p15)<!-- TECH:END -->
+ - [I touched a prototype Asus ROG Ally X, and it felt better](https://www.theverge.com/2024/5/16/24157533/asus-rog-ally-x-prototype-hands-on)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

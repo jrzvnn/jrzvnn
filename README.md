@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women: \u2615\ufe0f](http://9gag.com/gag/a6ZdK1A)
- - 😝 [I see what you did there](http://9gag.com/gag/aKGgm4N)
- - 💣 [Don&#39;t forget the director&#39;s.](http://9gag.com/gag/a87bGZY)
- - 😝 [It was not gonna last](http://9gag.com/gag/aPAy7LV)
- - 👉 [Not so funny](http://9gag.com/gag/aKGgxNj)<!-- MEMES:END -->
+ - 😝 [`She doth teach the torches to burn bright. As a rich jewel in an Ethiope\u2019s ear.`](http://9gag.com/gag/aW40jm6)
+ - 😝 [Nippy](http://9gag.com/gag/aqyZ73v)
+ - 💣 [In a viral video clip on social media it is discovered that a street vendor was cooking pharata in diesel oil and later it was found that he has been cooking it in diesel for almost 35 years](http://9gag.com/gag/ajP6mAp)
+ - 😝 [OMG.. KING!!!! F O B*TCH](http://9gag.com/gag/ae93DMv)
+ - 👉 [Movie?](http://9gag.com/gag/aqyZKrZ)<!-- MEMES:END -->
 
 ---
 

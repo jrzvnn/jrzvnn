@@ -169,10 +169,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Might be dying. We&#39;ll see. If so, thanks for everything.](http://9gag.com/gag/aAyVeBd)
- - 😝 [\u201cOh wow, that\u2019s a beautiful sunri\u2026\u201d](http://9gag.com/gag/a2vPKNY)
- - 💣 [Oh the humanity](http://9gag.com/gag/aAyVb2Z)
+ - 😝 [It&#39;s important!!](http://9gag.com/gag/adB68qV)
+ - 💣 [One does not simply walk into Moria](http://9gag.com/gag/aO8y3RD)
  - 😝 [Accurate](http://9gag.com/gag/aE0G84K)
- - 👉 [In a viral video clip on social media it is discovered that a street vendor was cooking pharata in diesel oil and later it was found that he has been cooking it in diesel for almost 35 years](http://9gag.com/gag/ajP6mAp)<!-- MEMES:END -->
+ - 👉 [What&#39;s the German tradition here?](http://9gag.com/gag/aqyZygQ)<!-- MEMES:END -->
 
 ---
 

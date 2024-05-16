@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [OMG.. KING!!!! F O B*TCH](http://9gag.com/gag/ae93DMv)
- - 😝 [Pineapple skin resisting heat emitted by 1000\u00b0C Iron ball](http://9gag.com/gag/abAqAeX)
- - 💣 [It&#39;s important!!](http://9gag.com/gag/adB68qV)
- - 😝 [Accurate](http://9gag.com/gag/aE0G84K)
- - 👉 [In a viral video clip on social media it is discovered that a street vendor was cooking pharata in diesel oil and later it was found that he has been cooking it in diesel for almost 35 years](http://9gag.com/gag/ajP6mAp)<!-- MEMES:END -->
+ - 😝 [From viking to legolas](http://9gag.com/gag/adB6gQB)
+ - 😝 [Darth Vader&#39;s apprentice no one talks about](http://9gag.com/gag/ae939Bv)
+ - 💣 [New York City Portal Shut Down After OnlyFans Model Flashes Dublin](http://9gag.com/gag/an7Xz9E)
+ - 😝 [No comment](http://9gag.com/gag/a0ePNNz)
+ - 👉 [47 minute footage.](http://9gag.com/gag/amoLP24)<!-- MEMES:END -->
 
 ---
 

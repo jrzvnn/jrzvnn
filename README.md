@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Accurate](http://9gag.com/gag/aE0G84K)
  - 😝 [What?](http://9gag.com/gag/aW40Gzx)
- - 😝 [\u201cOh wow, that\u2019s a beautiful sunri\u2026\u201d](http://9gag.com/gag/a2vPKNY)
- - 💣 [Accurate](http://9gag.com/gag/aE0G84K)
+ - 💣 [Dude&#39;s never made it this far before.](http://9gag.com/gag/an7XzEb)
  - 😝 [Neill Confidence man](http://9gag.com/gag/a0eP4nO)
- - 👉 [Pineapple skin resisting heat emitted by 1000\u00b0C Iron ball](http://9gag.com/gag/abAqAeX)<!-- MEMES:END -->
+ - 👉 [Switzerland](http://9gag.com/gag/aByQdpD)<!-- MEMES:END -->
 
 ---
 

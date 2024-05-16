@@ -168,10 +168,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [From viking to legolas](http://9gag.com/gag/adB6gQB)
+ - 😝 [No comment](http://9gag.com/gag/a0ePNNz)
+ - 💣 [What?](http://9gag.com/gag/aW40Gzx)
  - 😝 [New York City Portal Shut Down After OnlyFans Model Flashes Dublin](http://9gag.com/gag/an7Xz9E)
- - 😝 [What&#39;s the German tradition here?](http://9gag.com/gag/aqyZygQ)
- - 💣 [550 foot tall building with no windows in lower Manhattan, New York City](http://9gag.com/gag/a2vP7K1)
- - 😝 [Made this so you can use it irresponsibly, get blocked onii-chan](http://9gag.com/gag/abAqGp9)
  - 👉 [In a viral video clip on social media it is discovered that a street vendor was cooking pharata in diesel oil and later it was found that he has been cooking it in diesel for almost 35 years](http://9gag.com/gag/ajP6mAp)<!-- MEMES:END -->
 
 ---

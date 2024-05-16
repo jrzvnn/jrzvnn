@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Israel-based Agora, which develops real estate investment management software, raised a $34M Series B, bringing its total funding to $63M &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/240516/p23#a240516p23)
+ - [Sony’s new Xperia 1 VI flagship zooms in on photography nerds](https://www.theverge.com/2024/5/16/24158174/sony-xperia-1-vi-flagship-smartphone-photography-price-availability)
+ - [RFK Jr. Is Priming His Audience for Election Denialism](https://www.wired.com/story/rfk-jr-election-denialism/)
  - [The Mac vs. PC war is back on](https://www.theverge.com/2024/5/16/24158089/notepad-newsletter-microsoft-windows-on-arm-mac-vs-pc)
- - [Vercel, which develops the Next.js framework, raised a $250M Series E led by Accel at a $3.25B valuation, and says it recently exceeded $100M in annual revenue &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/240516/p22#a240516p22)
- - [Best 75-Inch TV in 2024     - CNET](https://www.cnet.com/tech/home-entertainment/best-75-inch-tv/#ftag=CAD590a51e)
- - [Best Travel Credit Cards for May 2024     - CNET](https://www.cnet.com/personal-finance/best-travel-credit-card/#ftag=CAD590a51e)
- - [Best Credit Card Welcome Bonuses for May 2024     - CNET](https://www.cnet.com/personal-finance/best-credit-card-welcome-bonus/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Vercel, which develops the Next.js framework, raised a $250M Series E led by Accel at a $3.25B valuation, and says it recently exceeded $100M in annual revenue &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/240516/p22#a240516p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

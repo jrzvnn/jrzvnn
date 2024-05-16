@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Movie?](http://9gag.com/gag/aqyZKrZ)
- - 😝 [And their country will be called Chindonesia](http://9gag.com/gag/ajP69xR)
- - 💣 [I see what you did there](http://9gag.com/gag/aKGgm4N)
  - 😝 [Sweet baby Inc killed the Assassin&#39;s Creed franchise.](http://9gag.com/gag/a34d148)
- - 👉 [It&#39;s important!!](http://9gag.com/gag/adB68qV)<!-- MEMES:END -->
+ - 😝 [OMG.. KING!!!! F O B*TCH](http://9gag.com/gag/ae93DMv)
+ - 💣 [It was not gonna last](http://9gag.com/gag/aPAy7LV)
+ - 😝 [Accurate](http://9gag.com/gag/aE0G84K)
+ - 👉 [\u201cOh wow, that\u2019s a beautiful sunri\u2026\u201d](http://9gag.com/gag/a2vPKNY)<!-- MEMES:END -->
 
 ---
 

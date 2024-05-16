@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It was not gonna last](http://9gag.com/gag/aPAy7LV)
- - 😝 [\u201cOh wow, that\u2019s a beautiful sunri\u2026\u201d](http://9gag.com/gag/a2vPKNY)
- - 💣 [Neill Confidence man](http://9gag.com/gag/a0eP4nO)
- - 😝 [Don&#39;t forget the director&#39;s.](http://9gag.com/gag/a87bGZY)
- - 👉 [Accurate](http://9gag.com/gag/aE0G84K)<!-- MEMES:END -->
+ - 😝 [Looking for work? We need 3 workers](http://9gag.com/gag/aVvQwVv)
+ - 😝 [I can wrap anything up](http://9gag.com/gag/a87bE0Y)
+ - 💣 [Charlie you son of a](http://9gag.com/gag/a9yM1x0)
+ - 😝 [Why do men feel the need to go through things alone?](http://9gag.com/gag/agm0g4x)
+ - 👉 [*autistic screeching intensifies*](http://9gag.com/gag/a34d1Me)<!-- MEMES:END -->
 
 ---
 

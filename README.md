@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And their country will be called Chindonesia](http://9gag.com/gag/ajP69xR)
  - 😝 [Might be dying. We&#39;ll see. If so, thanks for everything.](http://9gag.com/gag/aAyVeBd)
- - 💣 [I see what you did there](http://9gag.com/gag/aKGgm4N)
- - 😝 [`She doth teach the torches to burn bright. As a rich jewel in an Ethiope\u2019s ear.`](http://9gag.com/gag/aW40jm6)
- - 👉 [One does not simply walk into Moria](http://9gag.com/gag/aO8y3RD)<!-- MEMES:END -->
+ - 😝 [Diversity Soft strikes again](http://9gag.com/gag/abAqgAv)
+ - 💣 [Sweet baby Inc killed the Assassin&#39;s Creed franchise.](http://9gag.com/gag/a34d148)
+ - 😝 [In a viral video clip on social media it is discovered that a street vendor was cooking pharata in diesel oil and later it was found that he has been cooking it in diesel for almost 35 years](http://9gag.com/gag/ajP6mAp)
+ - 👉 [`She doth teach the torches to burn bright. As a rich jewel in an Ethiope\u2019s ear.`](http://9gag.com/gag/aW40jm6)<!-- MEMES:END -->
 
 ---
 

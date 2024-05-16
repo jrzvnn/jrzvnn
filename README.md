@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Russian Disinfo Campaign Blames Ukraine for Shooting of Slovakia&#39;s Prime Minister](https://www.wired.com/story/russia-blaming-ukraine-slovakia-prime-minister-robert-fico-shooting/)
+ - [Strava will add AI, dark mode, and night heatmaps](https://www.theverge.com/2024/5/16/24158290/strava-ai-dark-mode-night-heat-maps-family-subscription)
+ - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)
  - [The best entertainment of 2024](https://www.theverge.com/entertainment/24090208/best-entertainment-2024-games-film-tv-streaming)
- - [Lorelei and the Laser Eyes has turned me into a puzzle sicko](https://www.theverge.com/24157530/lorelei-and-the-laser-eyes-review-switch-steam)
- - [Sony’s new PlayStation PC overlay is a simple start](https://www.theverge.com/2024/5/16/24158246/sony-playstation-pc-overlay-hands-on)
- - [Sigma Computing, which offers cloud data analytics tools, raised a $200M Series D at a $1.5B valuation, up 60% from 2021, bringing its total funding to $581M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240516/p31#a240516p31)
- - [Apple resellers celebrate the launch of 2024 iPads with deals in every category](https://appleinsider.com/articles/24/05/15/apple-resellers-celebrate-the-launch-of-2024-ipads-with-deals-in-every-category?utm_medium=rss)<!-- TECH:END -->
+ - [Lorelei and the Laser Eyes has turned me into a puzzle sicko](https://www.theverge.com/24157530/lorelei-and-the-laser-eyes-review-switch-steam)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

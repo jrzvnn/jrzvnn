@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s popular 1TB 14-inch MacBook Pro is $250 off today](https://appleinsider.com/articles/24/05/16/apples-popular-1tb-14-inch-macbook-pro-is-250-off-today?utm_medium=rss)
  - [You could be eligible for a piece of Apple’s $35 million iPhone 7 settlement](https://www.theverge.com/2024/5/16/24158169/apple-iphone-7-class-action-settlement-audio-issues)
  - [Server CPU designer Ampere announces that its AmpereOne chip family will grow to 256 cores by next year; Ampere will work with Qualcomm on cloud AI accerlators &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240516/p24#a240516p24)
  - [The new ‘Hulu for Sports’ streaming service has a name: Venu Sports](https://www.theverge.com/2024/5/16/24158201/venu-sports-streaming-service-espn-fox-warner-bros)
- - [Israel-based Agora, which develops real estate investment management software, raised a $34M Series B, bringing its total funding to $63M &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/240516/p23#a240516p23)
- - [Sony’s new Xperia 1 VI flagship zooms in on photography nerds](https://www.theverge.com/2024/5/16/24158174/sony-xperia-1-vi-flagship-smartphone-photography-price-availability)<!-- TECH:END -->
+ - [Israel-based Agora, which develops real estate investment management software, raised a $34M Series B, bringing its total funding to $63M &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/240516/p23#a240516p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

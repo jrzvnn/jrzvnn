@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The ultrathin iPad Pro turns out to be shockingly sturdy](https://www.theverge.com/24158124/apple-ipad-pro-bend-test-durability)
+ - [Artiphon Chorda Review: A Nifty Toy for Non-Musicians](https://www.wired.com/review/artiphon-chorda/)
+ - [X-Men ‘97 understood the power of perfect timing](https://www.theverge.com/24157272/x-men-97-season-one-finale)
  - [AT&amp;T plans satellite voice calls and broadband for 5G iPhones](https://appleinsider.com/articles/24/05/16/att-plans-satellite-voice-calls-and-broadband-for-5g-iphones?utm_medium=rss)
- - [SVS Ultra Evolution Review: Clean Looks, Refined Sound](https://www.wired.com/review/svs-ultra-evolution-bookshelf/)
- - [Bose SoundLink Max review: size-defying sound isn’t cheap](https://www.theverge.com/24157693/bose-soundlink-max-speaker-review)
- - [Hugging Face is sharing $10 million worth of compute to help beat the big AI companies](https://www.theverge.com/2024/5/16/24156755/hugging-face-celement-delangue-free-shared-gpus-ai)
- - [Lab-Grown Meat Is on Shelves Now. But There’s a Catch](https://www.wired.com/story/eat-just-good-meat-singapore-cultivated-lab-grown-chicken/)<!-- TECH:END -->
+ - [SVS Ultra Evolution Review: Clean Looks, Refined Sound](https://www.wired.com/review/svs-ultra-evolution-bookshelf/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

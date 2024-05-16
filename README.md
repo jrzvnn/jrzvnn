@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Looking for work? We need 3 workers](http://9gag.com/gag/aVvQwVv)
- - 😝 [I can wrap anything up](http://9gag.com/gag/a87bE0Y)
- - 💣 [Charlie you son of a](http://9gag.com/gag/a9yM1x0)
- - 😝 [Why do men feel the need to go through things alone?](http://9gag.com/gag/agm0g4x)
- - 👉 [*autistic screeching intensifies*](http://9gag.com/gag/a34d1Me)<!-- MEMES:END -->
+ - 😝 [Switzerland](http://9gag.com/gag/aByQdpD)
+ - 😝 [Might be dying. We&#39;ll see. If so, thanks for everything.](http://9gag.com/gag/aAyVeBd)
+ - 💣 [It&#39;s important!!](http://9gag.com/gag/adB68qV)
+ - 😝 [Not so funny](http://9gag.com/gag/aKGgxNj)
+ - 👉 [It was not gonna last](http://9gag.com/gag/aPAy7LV)<!-- MEMES:END -->
 
 ---
 

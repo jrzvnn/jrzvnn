@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Consumers protection groups across the EU file coordinated complaints against Temu, accusing the e-commerce platform of a raft of breaches related to the DSA &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240516/p4#a240516p4)
+ - [Source: Microsoft is asking about 700 to 800 employees involved in its China-based AI and cloud computing operations to consider relocating to other countries &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240516/p3#a240516p3)
  - [Amazon launches hidden M3 MacBook Air discount, dropping the laptop to $949](https://appleinsider.com/articles/24/05/16/amazon-launches-hidden-m3-macbook-air-discount-dropping-the-laptop-to-949?utm_medium=rss)
  - [YouTube formally launches YouTube Select Creator Takeovers, which will let advertisers buy out the inventory on channels representing top 1% of YouTube content &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240516/p2#a240516p2)
- - [In the first high-level AI talks in Geneva, the US raised concerns about China&#39;s &quot;misuse of AI&quot; while China chided the US over &quot;restrictions and pressure&quot; on AI &lpar;Associated Press&rpar;](http://www.techmeme.com/240516/p1#a240516p1)
- - [How to use Startup security in macOS to protect your Mac](https://appleinsider.com/inside/macos/tips/how-to-use-startup-security-in-macos-to-protect-your-mac?utm_medium=rss)
- - [Today&#39;s Wordle Hints and Answer: Help for May 16, #1062     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-and-answer-help-for-may-16-1062/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [In the first high-level AI talks in Geneva, the US raised concerns about China&#39;s &quot;misuse of AI&quot; while China chided the US over &quot;restrictions and pressure&quot; on AI &lpar;Associated Press&rpar;](http://www.techmeme.com/240516/p1#a240516p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

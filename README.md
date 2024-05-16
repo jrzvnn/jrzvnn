@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sweet baby Inc killed the Assassin&#39;s Creed franchise.](http://9gag.com/gag/a34d148)
- - 😝 [OMG.. KING!!!! F O B*TCH](http://9gag.com/gag/ae93DMv)
+ - 😝 [One does not simply walk into Moria](http://9gag.com/gag/aO8y3RD)
+ - 😝 [Buckle up it&#39;s going to be a bumpy ride](http://9gag.com/gag/aAyV0gZ)
  - 💣 [It was not gonna last](http://9gag.com/gag/aPAy7LV)
- - 😝 [Accurate](http://9gag.com/gag/aE0G84K)
- - 👉 [\u201cOh wow, that\u2019s a beautiful sunri\u2026\u201d](http://9gag.com/gag/a2vPKNY)<!-- MEMES:END -->
+ - 😝 [OMG.. KING!!!! F O B*TCH](http://9gag.com/gag/ae93DMv)
+ - 👉 [Accurate](http://9gag.com/gag/aE0G84K)<!-- MEMES:END -->
 
 ---
 

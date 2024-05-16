@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony’s new PlayStation PC overlay is a simple start](https://www.theverge.com/2024/5/16/24158246/sony-playstation-pc-overlay-hands-on)
  - [Sigma Computing, which offers cloud data analytics tools, raised a $200M Series D at a $1.5B valuation, up 60% from 2021, bringing its total funding to $581M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240516/p31#a240516p31)
  - [Apple resellers celebrate the launch of 2024 iPads with deals in every category](https://appleinsider.com/articles/24/05/15/apple-resellers-celebrate-the-launch-of-2024-ipads-with-deals-in-every-category?utm_medium=rss)
  - [How GM is scrambling to save Cruise, which has become a liability after one of its automated vehicles hit and dragged a pedestrian 20 feet in October 2023 &lpar;Jessica Mathews/Fortune&rpar;](http://www.techmeme.com/240516/p30#a240516p30)
- - [Jane Schoenbrun Wants to Blow Up Your TV](https://www.wired.com/story/i-saw-the-tv-glow-director-jane-schoenbrun/)
- - [The printer company, that makes a camera, prints one more edition](https://www.theverge.com/24158218/ricoh-gr-iii-hdf-full-frame-video)<!-- TECH:END -->
+ - [Jane Schoenbrun Wants to Blow Up Your TV](https://www.wired.com/story/i-saw-the-tv-glow-director-jane-schoenbrun/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best 85-Inch TV for 2024     - CNET](https://www.cnet.com/tech/home-entertainment/best-85-inch-tv/#ftag=CAD590a51e)
- - [Surfing Garden Gnome     - CNET](https://www.cnet.com/news/surfing-garden-gnome-dpnl/#ftag=CAD590a51e)
- - [Is This the End of Plastic? Visa&#39;s New Technology Could Replace Physical Cards     - CNET](https://www.cnet.com/personal-finance/is-this-the-end-of-plastic-visas-new-technology-could-replace-physical-cards/#ftag=CAD590a51e)
+ - [Take-Two announces a fall 2025 release date for Grand Theft Auto VI, and reduces its bookings forecast for FY 2025 from $8B+ to $5.55B+ &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/240516/p37#a240516p37)
  - [iPhone 16 launch on track with production starting soon](https://appleinsider.com/articles/24/05/16/iphone-16-september-launch-on-track-with-production-starting-in-june?utm_medium=rss)
- - [Foldable Pet Pool     - CNET](https://www.cnet.com/home/kitchen-and-household/foldable-pet-pool-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [DOJ charges five people for allegedly duping 300+ US companies into hiring North Korea-linked remote IT workers and helping fund the country&#39;s nuclear program &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240516/p36#a240516p36)
+ - [How Twitch Streamers Could Shape the 2024 Elections](https://www.wired.com/story/hasan-piker-twitch-joe-biden/)
+ - [AI coding startup Replit, which raised $220M+ and was last valued at $1B, lays off 30 employees, or 20% of its staff, and pivots to enterprise sales &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/240516/p35#a240516p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

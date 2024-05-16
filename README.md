@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Noland Arbaugh, who was paralyzed after an accident in mid-2016 and became the first person to receive Neuralink&#39;s brain implant in January 2024 &lpar;Ashlee Vance/Bloomberg&rpar;](http://www.techmeme.com/240516/p19#a240516p19)
  - [Instagram and Facebook under EU investigation for causing child addiction and harm](https://www.theverge.com/2024/5/16/24158046/meta-facebook-instagram-eu-probe-dsa-child-safety-addiction)
  - [Senate hearing: US DNI Avril Haines says foreign adversaries will again seek to influence the upcoming elections, harnessing AI to spread disinformation &lpar;Associated Press&rpar;](http://www.techmeme.com/240516/p18#a240516p18)
  - [Hasan Piker Won’t Tell You to Vote for Joe Biden](https://www.wired.com/story/hasan-piker-twitch-voting-joe-biden/)
- - [World rocked as YouTubers prove you can eventually break an iPad](https://appleinsider.com/articles/24/05/16/world-rocked-as-youtubers-prove-you-can-eventually-break-an-ipad?utm_medium=rss)
- - [Microsoft&#39;s decisions, like seemingly rowing back on Surface, Start Menu ads, closing studios, and porting AAA games to PS5, show a short-term financial focus &lpar;Jez Corden/Windows Central&rpar;](http://www.techmeme.com/240516/p17#a240516p17)<!-- TECH:END -->
+ - [World rocked as YouTubers prove you can eventually break an iPad](https://appleinsider.com/articles/24/05/16/world-rocked-as-youtubers-prove-you-can-eventually-break-an-ipad?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

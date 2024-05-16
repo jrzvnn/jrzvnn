@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best apps to watch any video on iPad](https://appleinsider.com/inside/ipad/best/the-best-apps-to-watch-any-video-on-ipad?utm_medium=rss)
+ - [Epic Games Store’s Mega Sale kicks off with a free Dragon Age: Inquisition download](https://www.theverge.com/2024/5/16/24158138/epic-games-store-mega-sale-dragon-age-inquisition-free-deal)
  - [Russian Disinfo Campaign Blames Ukraine for Shooting of Slovakia&#39;s Prime Minister](https://www.wired.com/story/russia-blaming-ukraine-slovakia-prime-minister-robert-fico-shooting/)
  - [Strava will add AI, dark mode, and night heatmaps](https://www.theverge.com/2024/5/16/24158290/strava-ai-dark-mode-night-heat-maps-family-subscription)
- - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)
- - [The best entertainment of 2024](https://www.theverge.com/entertainment/24090208/best-entertainment-2024-games-film-tv-streaming)
- - [Lorelei and the Laser Eyes has turned me into a puzzle sicko](https://www.theverge.com/24157530/lorelei-and-the-laser-eyes-review-switch-steam)<!-- TECH:END -->
+ - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

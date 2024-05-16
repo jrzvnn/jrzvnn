@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh the humanity](http://9gag.com/gag/aAyVb2Z)
- - 😝 [In a viral video clip on social media it is discovered that a street vendor was cooking pharata in diesel oil and later it was found that he has been cooking it in diesel for almost 35 years](http://9gag.com/gag/ajP6mAp)
- - 💣 [And their country will be called Chindonesia](http://9gag.com/gag/ajP69xR)
- - 😝 [It&#39;s important!!](http://9gag.com/gag/adB68qV)
- - 👉 [It was not gonna last](http://9gag.com/gag/aPAy7LV)<!-- MEMES:END -->
+ - 😝 [Looking for work? We need 3 workers](http://9gag.com/gag/aVvQwVv)
+ - 😝 [Perrrruuuuuu!](http://9gag.com/gag/aAyVbbg)
+ - 💣 [Why do men feel the need to go through things alone?](http://9gag.com/gag/agm0g4x)
+ - 😝 [I can wrap anything up](http://9gag.com/gag/a87bE0Y)
+ - 👉 [That was a good one!](http://9gag.com/gag/apRogMW)<!-- MEMES:END -->
 
 ---
 

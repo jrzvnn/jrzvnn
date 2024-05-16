@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Instagram and Facebook under EU investigation for causing child addiction and harm](https://www.theverge.com/2024/5/16/24158046/meta-facebook-instagram-eu-probe-dsa-child-safety-addiction)
+ - [Senate hearing: US DNI Avril Haines says foreign adversaries will again seek to influence the upcoming elections, harnessing AI to spread disinformation &lpar;Associated Press&rpar;](http://www.techmeme.com/240516/p18#a240516p18)
+ - [Hasan Piker Won’t Tell You to Vote for Joe Biden](https://www.wired.com/story/hasan-piker-twitch-voting-joe-biden/)
  - [World rocked as YouTubers prove you can eventually break an iPad](https://appleinsider.com/articles/24/05/16/world-rocked-as-youtubers-prove-you-can-eventually-break-an-ipad?utm_medium=rss)
- - [Microsoft&#39;s decisions, like seemingly rowing back on Surface, Start Menu ads, closing studios, and porting AAA games to PS5, show a short-term financial focus &lpar;Jez Corden/Windows Central&rpar;](http://www.techmeme.com/240516/p17#a240516p17)
- - [Meta Faces Fresh Probe Over &#39;Addictive&#39; Effect on Kids](https://www.wired.com/story/meta-faces-fresh-probe-over-addictive-effect-on-kids/)
- - [Wegovy Can Keep Weight Off for at Least 4 Years, Research Shows](https://www.wired.com/story/weight-loss-from-wegovy-sustained-for-up-to-four-years-trial-shows/)
- - [I touched a prototype Asus ROG Ally X, and it felt better](https://www.theverge.com/2024/5/16/24157533/asus-rog-ally-x-prototype-hands-on)<!-- TECH:END -->
+ - [Microsoft&#39;s decisions, like seemingly rowing back on Surface, Start Menu ads, closing studios, and porting AAA games to PS5, show a short-term financial focus &lpar;Jez Corden/Windows Central&rpar;](http://www.techmeme.com/240516/p17#a240516p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

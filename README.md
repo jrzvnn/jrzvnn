@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dude&#39;s never made it this far before.](http://9gag.com/gag/an7XzEb)
- - 😝 [Might be dying. We&#39;ll see. If so, thanks for everything.](http://9gag.com/gag/aAyVeBd)
- - 💣 [Accurate](http://9gag.com/gag/aE0G84K)
  - 😝 [`She doth teach the torches to burn bright. As a rich jewel in an Ethiope\u2019s ear.`](http://9gag.com/gag/aW40jm6)
- - 👉 [OMG.. KING!!!! F O B*TCH](http://9gag.com/gag/ae93DMv)<!-- MEMES:END -->
+ - 😝 [What?](http://9gag.com/gag/aW40Gzx)
+ - 💣 [Dude&#39;s never made it this far before.](http://9gag.com/gag/an7XzEb)
+ - 😝 [No comment](http://9gag.com/gag/a0ePNNz)
+ - 👉 [Don&#39;t forget the director&#39;s.](http://9gag.com/gag/a87bGZY)<!-- MEMES:END -->
 
 ---
 

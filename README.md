@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese police in the Sichuan province dismantle an underground bank that used USDT for foreign currency exchanges worth $1.9B+, mainly to smuggle medicine &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/240516/p12#a240516p12)
  - [Ubisoft falls ~15% after warning that Q1 net bookings will be ~&amp;euro;275M, below &amp;euro;376M est., and reporting a &amp;euro;401M adjusted operating income in FY 2024 &lpar;Daniel Zuidijk/Bloomberg&rpar;](http://www.techmeme.com/240516/p11#a240516p11)
  - [ElevenLabs quietly launches ElevenLabs Reader: AI Audio, its first consumer app to read web pages, PDFs and other documents aloud in 11 different voices &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/240516/p10#a240516p10)
  - [An undercover investigation details working as a rotating cast of low-wage workers hired to pretend to be influencer girlfriends on OnlyFans &lpar;Brendan I. Koerner/Wired&rpar;](http://www.techmeme.com/240516/p9#a240516p9)
- - [Gemini AI Is About to Make Your Google Search Look Very Different. Here&#39;s How     - CNET](https://www.cnet.com/tech/services-and-software/gemini-ai-is-about-to-make-your-google-search-look-very-different-heres-how/#ftag=CAD590a51e)
- - [View and Copy a Wi-Fi Password on Your iPhone or iPad in a Snap. Here&#39;s How     - CNET](https://www.cnet.com/tech/services-and-software/view-and-copy-a-wi-fi-password-on-your-iphone-or-ipad-in-a-snap-heres-how/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Gemini AI Is About to Make Your Google Search Look Very Different. Here&#39;s How     - CNET](https://www.cnet.com/tech/services-and-software/gemini-ai-is-about-to-make-your-google-search-look-very-different-heres-how/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Jane Schoenbrun Wants to Blow Up Your TV](https://www.wired.com/story/i-saw-the-tv-glow-director-jane-schoenbrun/)
+ - [The printer company, that makes a camera, prints one more edition](https://www.theverge.com/24158218/ricoh-gr-iii-hdf-full-frame-video)
  - [Google updates its accessibility apps: Lookout, to use a phone to recognize objects, a text-free mode in Look To Speak, and adds Maps wheelchair data on desktop &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/240516/p29#a240516p29)
  - [Google launches a Gemini add-on for educational institutes via Workspace, available in Gemini Education and Education Premium tiers in English for users over 18 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240516/p28#a240516p28)
- - [Meta starts testing TweetDeck-style customizable feeds on Threads that are stacked in a column interface on the web, available to selected users &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240516/p27#a240516p27)
- - [House passes bill that would make ticket sellers show total prices upfront](https://www.theverge.com/2024/5/16/24158227/house-passes-ticket-act-junk-fees-taylor-swift)
- - [Disney, Fox, and WBD unveil the name of their sports streaming venture: Venu Sports, which is set to debut in fall 2024 &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240516/p26#a240516p26)<!-- TECH:END -->
+ - [Meta starts testing TweetDeck-style customizable feeds on Threads that are stacked in a column interface on the web, available to selected users &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240516/p27#a240516p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

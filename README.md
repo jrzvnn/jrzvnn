@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lab-Grown Meat Is on Shelves Now. But There’s a Catch](https://www.wired.com/story/eat-just-good-meat-singapore-cultivated-lab-grown-chicken/)
- - [How to use iPad as a Mac replacement and why you&#39;d want to](https://appleinsider.com/inside/ipad/tips/how-to-use-ipad-as-a-mac-replacement-and-why-youd-want-to?utm_medium=rss)
- - [Blackstone agrees to buy a majority stake in Israeli enterprise software company Priority Software, which has 17K clients and 500+ staff, at an $800M valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/240516/p20#a240516p20)
- - [Google Search&#39;s Video AI Lets Us Be Stupid     - CNET](https://www.cnet.com/tech/mobile/google-searchs-video-ai-lets-us-be-stupid/#ftag=CAD590a51e)
- - [At a Beverly Hills mansion, where an electric truck is your only source of power](https://www.theverge.com/2024/5/16/24157611/gm-energy-chevy-silverado-ev-v2h-microgrid-battery)<!-- TECH:END -->
+ - [AT&amp;T plans satellite voice calls and broadband for 5G iPhones](https://appleinsider.com/articles/24/05/16/att-plans-satellite-voice-calls-and-broadband-for-5g-iphones?utm_medium=rss)
+ - [SVS Ultra Evolution Review: Clean Looks, Refined Sound](https://www.wired.com/review/svs-ultra-evolution-bookshelf/)
+ - [Bose SoundLink Max review: size-defying sound isn’t cheap](https://www.theverge.com/24157693/bose-soundlink-max-speaker-review)
+ - [Hugging Face is sharing $10 million worth of compute to help beat the big AI companies](https://www.theverge.com/2024/5/16/24156755/hugging-face-celement-delangue-free-shared-gpus-ai)
+ - [Lab-Grown Meat Is on Shelves Now. But There’s a Catch](https://www.wired.com/story/eat-just-good-meat-singapore-cultivated-lab-grown-chicken/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

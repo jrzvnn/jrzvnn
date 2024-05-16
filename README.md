@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`She doth teach the torches to burn bright. As a rich jewel in an Ethiope\u2019s ear.`](http://9gag.com/gag/aW40jm6)
- - 😝 [Well well...](http://9gag.com/gag/a0ePZbn)
- - 💣 [Doctor](http://9gag.com/gag/avyZ8od)
- - 😝 [Accurate](http://9gag.com/gag/aE0G84K)
- - 👉 [I see what you did there](http://9gag.com/gag/aKGgm4N)<!-- MEMES:END -->
+ - 😝 [Oh the humanity](http://9gag.com/gag/aAyVb2Z)
+ - 😝 [I see what you did there](http://9gag.com/gag/aKGgm4N)
+ - 💣 [`She doth teach the torches to burn bright. As a rich jewel in an Ethiope\u2019s ear.`](http://9gag.com/gag/aW40jm6)
+ - 😝 [Don&#39;t forget the director&#39;s.](http://9gag.com/gag/a87bGZY)
+ - 👉 [One does not simply walk into Moria](http://9gag.com/gag/aO8y3RD)<!-- MEMES:END -->
 
 ---
 

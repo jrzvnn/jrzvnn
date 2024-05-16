@@ -168,10 +168,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Looking for work? We need 3 workers](http://9gag.com/gag/aVvQwVv)
+ - 😝 [Uncanny](http://9gag.com/gag/aZZW0rX)
  - 😝 [Perrrruuuuuu!](http://9gag.com/gag/aAyVbbg)
- - 💣 [Why do men feel the need to go through things alone?](http://9gag.com/gag/agm0g4x)
- - 😝 [I can wrap anything up](http://9gag.com/gag/a87bE0Y)
+ - 💣 [I can wrap anything up](http://9gag.com/gag/a87bE0Y)
+ - 😝 [*autistic screeching intensifies*](http://9gag.com/gag/a34d1Me)
  - 👉 [That was a good one!](http://9gag.com/gag/apRogMW)<!-- MEMES:END -->
 
 ---

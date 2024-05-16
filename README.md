@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Switzerland](http://9gag.com/gag/aByQdpD)
- - 😝 [Might be dying. We&#39;ll see. If so, thanks for everything.](http://9gag.com/gag/aAyVeBd)
- - 💣 [It&#39;s important!!](http://9gag.com/gag/adB68qV)
- - 😝 [Not so funny](http://9gag.com/gag/aKGgxNj)
- - 👉 [It was not gonna last](http://9gag.com/gag/aPAy7LV)<!-- MEMES:END -->
+ - 😝 [Sweet baby Inc killed the Assassin&#39;s Creed franchise.](http://9gag.com/gag/a34d148)
+ - 😝 [It&#39;s important!!](http://9gag.com/gag/adB68qV)
+ - 💣 [No comment](http://9gag.com/gag/a0ePNNz)
+ - 😝 [Oh the humanity](http://9gag.com/gag/aAyVb2Z)
+ - 👉 [Buckle up it&#39;s going to be a bumpy ride](http://9gag.com/gag/aAyV0gZ)<!-- MEMES:END -->
 
 ---
 

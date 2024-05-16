@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s important!!](http://9gag.com/gag/adB68qV)
+ - 😝 [Women: \u2615\ufe0f](http://9gag.com/gag/a6ZdK1A)
  - 😝 [I see what you did there](http://9gag.com/gag/aKGgm4N)
  - 💣 [Don&#39;t forget the director&#39;s.](http://9gag.com/gag/a87bGZY)
- - 😝 [One does not simply walk into Moria](http://9gag.com/gag/aO8y3RD)
- - 👉 [OMG.. KING!!!! F O B*TCH](http://9gag.com/gag/ae93DMv)<!-- MEMES:END -->
+ - 😝 [It was not gonna last](http://9gag.com/gag/aPAy7LV)
+ - 👉 [Not so funny](http://9gag.com/gag/aKGgxNj)<!-- MEMES:END -->
 
 ---
 

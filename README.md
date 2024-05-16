@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dude&#39;s never made it this far before.](http://9gag.com/gag/an7XzEb)
- - 😝 [\u201cOh wow, that\u2019s a beautiful sunri\u2026\u201d](http://9gag.com/gag/a2vPKNY)
- - 💣 [Neill Confidence man](http://9gag.com/gag/a0eP4nO)
+ - 😝 [OMG.. KING!!!! F O B*TCH](http://9gag.com/gag/ae93DMv)
+ - 😝 [Neill Confidence man](http://9gag.com/gag/a0eP4nO)
+ - 💣 [Accurate](http://9gag.com/gag/aE0G84K)
  - 😝 [In a viral video clip on social media it is discovered that a street vendor was cooking pharata in diesel oil and later it was found that he has been cooking it in diesel for almost 35 years](http://9gag.com/gag/ajP6mAp)
- - 👉 [No comment](http://9gag.com/gag/a0ePNNz)<!-- MEMES:END -->
+ - 👉 [Pineapple skin resisting heat emitted by 1000\u00b0C Iron ball](http://9gag.com/gag/abAqAeX)<!-- MEMES:END -->
 
 ---
 

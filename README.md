@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple previews Vehicle Motion Cues, which adds animated dots to iPhone and iPad screens to reduce motion sickness for passengers using them in moving vehicles &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/240516/p39#a240516p39)
  - [Google’s Gemini AI plan for schools promises extra data protection and privacy](https://www.theverge.com/2024/5/16/24158484/google-gemini-ai-workspace-education-school-privacy-accessibility-chromebook)
+ - [Amazon Is Hosting a Massive Book Sale](https://www.wired.com/story/amazon-book-sale-spring-2024/)
  - [Newspaper conglomerate Gannett is adding AI-generated summaries to the top of its articles](https://www.theverge.com/2024/5/16/24158531/gannett-ai-generated-overviews-usa-today-memo)
- - [How Google&#39;s AI Overviews Work, and How to Turn Them Off &lpar;You Can&#39;t&rpar;](https://www.wired.com/story/google-ai-overviews-how-to-use-how-to-turn-off/)
- - [OpenAI strikes Reddit deal to train its AI on your posts](https://www.theverge.com/2024/5/16/24158529/reddit-openai-chatgpt-api-access-advertising)
- - [TikTok is testing hour-long videos](https://www.theverge.com/2024/5/16/24158491/tiktok-hour-long-video-uploads-youtube)<!-- TECH:END -->
+ - [How Google’s AI Overviews Work, and How to Turn Them Off &lpar;You Can’t&rpar;](https://www.wired.com/story/google-ai-overviews-how-to-use-how-to-turn-off/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Pineapple skin resisting heat emitted by 1000\u00b0C Iron ball](http://9gag.com/gag/abAqAeX)
  - 😝 [Neill Confidence man](http://9gag.com/gag/a0eP4nO)
- - 😝 [\u201cOh wow, that\u2019s a beautiful sunri\u2026\u201d](http://9gag.com/gag/a2vPKNY)
- - 💣 [Pineapple skin resisting heat emitted by 1000\u00b0C Iron ball](http://9gag.com/gag/abAqAeX)
- - 😝 [I see what you did there](http://9gag.com/gag/aKGgm4N)
- - 👉 [It&#39;s important!!](http://9gag.com/gag/adB68qV)<!-- MEMES:END -->
+ - 💣 [And their country will be called Chindonesia](http://9gag.com/gag/ajP69xR)
+ - 😝 [No comment](http://9gag.com/gag/a0ePNNz)
+ - 👉 [Accurate](http://9gag.com/gag/aE0G84K)<!-- MEMES:END -->
 
 ---
 

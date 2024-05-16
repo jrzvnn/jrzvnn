@@ -160,10 +160,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [An undercover investigation details working as a rotating cast of low-wage workers hired to pretend to be influencer girlfriends on OnlyFans &lpar;Brendan I. Koerner/Wired&rpar;](http://www.techmeme.com/240516/p9#a240516p9)
+ - [SSI Beneficiaries: You&#39;re Getting a Second Check In 2 Weeks. Here&#39;s Why     - CNET](https://www.cnet.com/personal-finance/ssi-beneficiaries-youre-getting-a-second-check-in-2-weeks-heres-why/#ftag=CAD590a51e)
  - [US lawmakers are watching to see whether Colorado&#39;s bill for regulating AI, modeled on Connecticut&#39;s now derailed bill, can withstand the tech lobby pressure &lpar;Mallory Culhane/Politico&rpar;](http://www.techmeme.com/240516/p8#a240516p8)
  - [An interview with Apple&#39;s Greg Joswiak and John Ternus on the new iPad lineup, the M4 chip, why the iPad and Mac both matter, the iPad as an &quot;AI PC&quot;, and more &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/240516/p7#a240516p7)
- - [Fujifilm’s new X-T50 has a film simulation dial — and a questionable price](https://www.theverge.com/2024/5/16/24157566/fujifilm-xt50-camera-features-specs-price)
- - [Microsoft unveils the Proteus Controller, a $299 modular game controller kit for disabled Xbox and PC gamers by peripheral company ByoWave, shipping in the fall &lpar;Sheena Vasani/The Verge&rpar;](http://www.techmeme.com/240516/p6#a240516p6)<!-- TECH:END -->
+ - [Fujifilm’s new X-T50 has a film simulation dial — and a questionable price](https://www.theverge.com/2024/5/16/24157566/fujifilm-xt50-camera-features-specs-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

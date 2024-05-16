@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 35 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
  - [Tesla’s Controversial Factory Expansion Is Approved](https://www.wired.com/story/teslas-controversial-factory-expansion-is-approved/)
- - [TikTok is testing 60-minute videos, which would let media companies post full TV show episodes and put TikTok in even more direct competition with YouTube &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240516/p32#a240516p32)
- - [LG’s $100,000 rollable OLED TV is canceled](https://www.theverge.com/2024/5/16/24158263/lg-rollable-oled-r1-r-tv-discontinued)
- - [The best apps to watch any video on iPad](https://appleinsider.com/inside/ipad/best/the-best-apps-to-watch-any-video-on-ipad?utm_medium=rss)
- - [Epic Games Store’s Mega Sale kicks off with a free Dragon Age: Inquisition download](https://www.theverge.com/2024/5/16/24158138/epic-games-store-mega-sale-dragon-age-inquisition-free-deal)<!-- TECH:END -->
+ - [Don&#39;t Get Scammed: How to Safely Purchase Resale Concert Tickets     - CNET](https://www.cnet.com/personal-finance/dont-get-scammed-how-to-safely-purchase-resale-concert-tickets/#ftag=CAD590a51e)
+ - [How to Watch and Stream the 2024 Emilia-Romagna GP     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-and-stream-the-2024-emilia-romagna-gp/#ftag=CAD590a51e)
+ - [TikTok is testing 60-minute videos, which would let media companies post full TV show episodes and put TikTok in even more direct competition with YouTube &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240516/p32#a240516p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

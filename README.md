@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [One hedge fund completely bailed out of AAPL, but another more than picked up the slack](https://appleinsider.com/articles/24/05/16/one-hedge-fund-completely-bailed-out-of-aapl-but-another-more-than-picked-up-the-slack?utm_medium=rss)
+ - [Baidu reports Q1 revenue up 1% YoY to ~$4.4B, above ~$4.35B est., the slowest growth in over a year, and net income down 6% YoY to ~$755M, above ~$554M est. &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/240516/p14#a240516p14)
  - [The EU opens a formal DSA investigation into Meta, to assess if Facebook, Instagram, and its other apps were reinforcing &quot;rabbit hole&quot; effects and other issues &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240516/p13#a240516p13)
  - [Worker killed in blast at TSMC&#39;s Arizona construction site](https://appleinsider.com/articles/24/05/16/worker-killed-in-blast-at-tsmcs-arizona-construction-site?utm_medium=rss)
- - [Maven Is a New Social Network That Eliminates Followers—and Hopefully Stress](https://www.wired.com/story/maven-social-network-that-eliminates-followers-and-stress/)
- - [Chinese police in the Sichuan province dismantle an underground bank that used USDT for foreign currency exchanges worth $1.9B+, mainly to smuggle medicine &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/240516/p12#a240516p12)
- - [Ubisoft falls ~15% after warning that Q1 net bookings will be ~&amp;euro;275M, below &amp;euro;376M est., and reporting a &amp;euro;401M adjusted operating income in FY 2024 &lpar;Daniel Zuidijk/Bloomberg&rpar;](http://www.techmeme.com/240516/p11#a240516p11)<!-- TECH:END -->
+ - [Maven Is a New Social Network That Eliminates Followers—and Hopefully Stress](https://www.wired.com/story/maven-social-network-that-eliminates-followers-and-stress/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

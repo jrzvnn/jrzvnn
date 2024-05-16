@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sweet baby Inc killed the Assassin&#39;s Creed franchise.](http://9gag.com/gag/a34d148)
- - 😝 [It&#39;s important!!](http://9gag.com/gag/adB68qV)
- - 💣 [No comment](http://9gag.com/gag/a0ePNNz)
- - 😝 [Oh the humanity](http://9gag.com/gag/aAyVb2Z)
- - 👉 [Buckle up it&#39;s going to be a bumpy ride](http://9gag.com/gag/aAyV0gZ)<!-- MEMES:END -->
+ - 😝 [Charlie you son of a](http://9gag.com/gag/a9yM1x0)
+ - 😝 [*autistic screeching intensifies*](http://9gag.com/gag/a34d1Me)
+ - 💣 [Why do men feel the need to go through things alone?](http://9gag.com/gag/agm0g4x)
+ - 😝 [Oh we have a lot of her in Western Europe. That&#39;s why we are how we are today.](http://9gag.com/gag/aryem8p)
+ - 👉 [Can&#39;t wait to do this with my daughter. Any Ideas where could I get one?](http://9gag.com/gag/aVvQxqy)<!-- MEMES:END -->
 
 ---
 

@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [OMG.. KING!!!! F O B*TCH](http://9gag.com/gag/ae93DMv)
- - 😝 [No comment](http://9gag.com/gag/a0ePNNz)
- - 💣 [Accurate](http://9gag.com/gag/aE0G84K)
- - 😝 [Man who vanished age 17 is found alive in a hole after being held captive by his neighbour for 27 years](http://9gag.com/gag/a5QNX4y)
- - 👉 [In a viral video clip on social media it is discovered that a street vendor was cooking pharata in diesel oil and later it was found that he has been cooking it in diesel for almost 35 years](http://9gag.com/gag/ajP6mAp)<!-- MEMES:END -->
+ - 😝 [It&#39;s going down. Let&#39;s hope it will keep going down](http://9gag.com/gag/aMVbVjG)
+ - 😝 [Damn accurate](http://9gag.com/gag/adB6Bqj)
+ - 💣 [I&#39;m in this video and i don&#39;t like it](http://9gag.com/gag/a2vPK9e)
+ - 😝 [Of course it&#39;s a feminist with pronouns in her bio. According to insiders at Ubisoft the company has become completely obsessed with DEI and ESG. EU has made ESG reporting mandatory from 2025/2026 for companies with over 250 employees. Now that American crap lands here.](http://9gag.com/gag/a9yMy0o)
+ - 👉 [The Dutch have a new kabinet. Strikt rules for Illigal immigration and hard penalty&#39;s for foreign law breakers. Thanks to Geert Wilders \ud83c\uddf3\ud83c\uddf1](http://9gag.com/gag/aKGgE0g)<!-- MEMES:END -->
 
 ---
 

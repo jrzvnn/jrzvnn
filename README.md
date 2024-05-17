@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Don&#39;t Rinse Your Teeth Immediately After Brushing. Here&#39;s Why     - CNET](https://www.cnet.com/health/personal-care/dont-rinse-your-teeth-immediately-after-brushing-heres-why/#ftag=CAD590a51e)
  - [Twitter is officially X.com now](https://www.theverge.com/2024/5/17/23829098/twitter-x-com-url-links-switch)
  - [Prosus and parent group Naspers appoint Fabricio Bloisi as new CEO, replacing interim CEO Ervin Tu; Bloisi, who was the CEO of iFood, will start on July 1 &lpar;Loni Prinsloo/Bloomberg&rpar;](http://www.techmeme.com/240517/p3#a240517p3)
  - [A look at Maven, a new social network backed by Ev Williams, Sam Altman, and others, where users follow interests and topics instead of accounts &lpar;Matthew Hutson/Wired&rpar;](http://www.techmeme.com/240517/p2#a240517p2)
- - [Record Solar Installations Are Good News for Avoiding Summer Power Outages     - CNET](https://www.cnet.com/home/energy-and-utilities/record-solar-installations-are-good-news-for-avoiding-summer-power-outages/#ftag=CAD590a51e)
- - [How to repurpose an old iPad and make it useful again](https://appleinsider.com/inside/ipad/tips/how-to-repurpose-an-old-ipad-and-make-it-useful-again?utm_medium=rss)<!-- TECH:END -->
+ - [Record Solar Installations Are Good News for Avoiding Summer Power Outages     - CNET](https://www.cnet.com/home/energy-and-utilities/record-solar-installations-are-good-news-for-avoiding-summer-power-outages/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

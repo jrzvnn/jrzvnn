@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Peabrained](http://9gag.com/gag/aQzpzDK)
- - 😝 [I&#39;m in this video and i don&#39;t like it](http://9gag.com/gag/a2vPK9e)
- - 💣 [The Dutch have a new kabinet. Strikt rules for Illigal immigration and hard penalty&#39;s for foreign law breakers. Thanks to Geert Wilders \ud83c\uddf3\ud83c\uddf1](http://9gag.com/gag/aKGgE0g)
- - 😝 [`imma fight for my life, wait.. I am willing to take you as my slave`](http://9gag.com/gag/aGyVL25)
- - 👉 [This one sparks joy.](http://9gag.com/gag/azxL57N)<!-- MEMES:END -->
+ - 😝 [Pineapple skin resisting heat emitted by 1000\u00b0C Iron ball](http://9gag.com/gag/abAqAeX)
+ - 😝 [What&#39;s the German tradition here?](http://9gag.com/gag/aqyZygQ)
+ - 💣 [550 foot tall building with no windows in lower Manhattan, New York City](http://9gag.com/gag/a2vP7K1)
+ - 😝 [Tough question, or is it?](http://9gag.com/gag/axy2oGb)
+ - 👉 [It was not gonna last](http://9gag.com/gag/aPAy7LV)<!-- MEMES:END -->
 
 ---
 

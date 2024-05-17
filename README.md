@@ -161,9 +161,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [iPhone 16 Pro Max to get new battery that could last longer](https://appleinsider.com/articles/24/05/17/iphone-16-pro-max-to-get-new-battery-that-could-last-longer?utm_medium=rss)
  - [Sources: Tesla plans to keep its Chinese FSD training data in the country, a shift from a previous strategy of seeking approval to move data out of China &lpar;Fanny Potkin/Reuters&rpar;](http://www.techmeme.com/240517/p5#a240517p5)
- - [X has officially adopted x.com for all its core systems; testing shows some twitter.com URLs still do not redirect depending on the browser and login status &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240517/p4#a240517p4)
- - [Don&#39;t Rinse Your Teeth Immediately After Brushing. Here&#39;s Why     - CNET](https://www.cnet.com/health/personal-care/dont-rinse-your-teeth-immediately-after-brushing-heres-why/#ftag=CAD590a51e)
- - [Twitter is officially X.com now](https://www.theverge.com/2024/5/17/23829098/twitter-x-com-url-links-switch)<!-- TECH:END -->
+ - [Here&#39;s How You Should Really Be Cleaning Your Shower Head     - CNET](https://www.cnet.com/how-to/your-shower-head-is-probably-super-gross-heres-how-to-clean-it/#ftag=CAD590a51e)
+ - [How to Update Your Address on Your Phone Hassle-Free     - CNET](https://www.cnet.com/home/services/how-to-update-your-address-on-your-phone-hassle-free/#ftag=CAD590a51e)
+ - [X has officially adopted x.com for all its core systems; testing shows some twitter.com URLs still do not redirect depending on the browser and login status &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240517/p4#a240517p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

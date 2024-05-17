@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You Can Now Play Old-School Nintendo Games on Your Apple TV, iPhone or iPad     - CNET](https://www.cnet.com/tech/services-and-software/you-can-now-play-old-school-nintendo-games-on-your-apple-tv-iphone-or-ipad/#ftag=CAD590a51e)
  - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
  - [Google DeepMind releases its Frontier Safety Framework, a set of protocols for analyzing and mitigating future risks posed by advanced AI models &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/240517/p22#a240517p22)
- - [Logitech Pro X 60 Keyboard Review: Best, Brightest, and Now Smaller](https://www.wired.com/review/logitech-pro-x-60/)
- - [Microsoft’s Surface AI event: news, rumors, and lots of Qualcomm laptops](https://www.theverge.com/24159022/microsoft-surface-ai-event-news-rumors-announcements)
- - [65&quot; LG C3 Series TV for Gaming     - CNET](https://www.cnet.com/tech/home-entertainment/65-lg-c3-series-tv-for-gaming-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Free Version of ChatGPT Just Got a Big Upgrade     - CNET](https://www.cnet.com/tech/services-and-software/the-free-version-of-chatgpt-just-got-a-big-upgrade/#ftag=CAD590a51e)
+ - [Logitech Pro X 60 Keyboard Review: Best, Brightest, and Now Smaller](https://www.wired.com/review/logitech-pro-x-60/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

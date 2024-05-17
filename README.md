@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI&#39;s entire Superalignment team, which was focused on the existential dangers of AI, has either resigned or been absorbed into other research groups &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/240517/p13#a240517p13)
  - [New Teslas might lose Steam](https://www.theverge.com/2024/5/17/24158929/tesla-steam-discontinue-new-model-x-delivery-s-cybertruck)
+ - [OpenAI’s Long-Term AI Risk Team Has Disbanded](https://www.wired.com/story/openai-superalignment-team-disbanded/)
  - [The Verge’s 2024 graduation gift guide](https://www.theverge.com/24126218/graduation-grad-gift-ideas-2024-college-high-school-dorm-tech-gadgets)
- - [Berlin Apple Store vandalized by Congo activists](https://appleinsider.com/articles/24/05/17/berlin-apple-store-vandalized-by-congo-activists?utm_medium=rss)
- - [Sony Music warns AI companies against ‘unauthorized use’ of its content](https://www.theverge.com/2024/5/17/24158887/sony-music-ai-training-letter)
- - [Sources: Germany is nearing a decision to strip Huawei and ZTE components from the country&#39;s 5G core network by 2026 for national security reasons &lpar;Michael Nienaber/Bloomberg&rpar;](http://www.techmeme.com/240517/p12#a240517p12)<!-- TECH:END -->
+ - [Berlin Apple Store vandalized by Congo activists](https://appleinsider.com/articles/24/05/17/berlin-apple-store-vandalized-by-congo-activists?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

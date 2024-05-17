@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What&#39;s the German tradition here?](http://9gag.com/gag/aqyZygQ)
- - 😝 [GOTY in cooking....???](http://9gag.com/gag/a7oKOvq)
- - 💣 [This is how soccer is played!](http://9gag.com/gag/an7X7dL)
  - 😝 [From viking to legolas](http://9gag.com/gag/adB6gQB)
- - 👉 [Switzerland](http://9gag.com/gag/aByQdpD)<!-- MEMES:END -->
+ - 😝 [Accurate](http://9gag.com/gag/aE0G84K)
+ - 💣 [Terrifying](http://9gag.com/gag/arye3Q5)
+ - 😝 [Switzerland](http://9gag.com/gag/aByQdpD)
+ - 👉 [\u201cOh wow, that\u2019s a beautiful sunri\u2026\u201d](http://9gag.com/gag/a2vPKNY)<!-- MEMES:END -->
 
 ---
 

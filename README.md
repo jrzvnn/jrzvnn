@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [2023 App Store report shows rise in downloads, developers &amp; removals](https://appleinsider.com/articles/24/05/17/2023-app-store-report-shows-rise-in-downloads-developers-removals?utm_medium=rss)
  - [You Can Now Play Old-School Nintendo Games on Your Apple TV, iPhone or iPad     - CNET](https://www.cnet.com/tech/services-and-software/you-can-now-play-old-school-nintendo-games-on-your-apple-tv-iphone-or-ipad/#ftag=CAD590a51e)
  - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
  - [Google DeepMind releases its Frontier Safety Framework, a set of protocols for analyzing and mitigating future risks posed by advanced AI models &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/240517/p22#a240517p22)
- - [The Free Version of ChatGPT Just Got a Big Upgrade     - CNET](https://www.cnet.com/tech/services-and-software/the-free-version-of-chatgpt-just-got-a-big-upgrade/#ftag=CAD590a51e)
- - [Logitech Pro X 60 Keyboard Review: Best, Brightest, and Now Smaller](https://www.wired.com/review/logitech-pro-x-60/)<!-- TECH:END -->
+ - [The Free Version of ChatGPT Just Got a Big Upgrade     - CNET](https://www.cnet.com/tech/services-and-software/the-free-version-of-chatgpt-just-got-a-big-upgrade/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

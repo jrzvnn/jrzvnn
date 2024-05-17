@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Palestinian student who bigged up the hamas oct7 attack has had her visa revoked....now go home and see how your human rights perform.](http://9gag.com/gag/a87b6ZQ)
- - 😝 [Life Hack!](http://9gag.com/gag/aRBgL22)
- - 💣 [Quite funny.](http://9gag.com/gag/a1mZm4D)
+ - 😝 [Quite funny.](http://9gag.com/gag/a1mZm4D)
  - 😝 [`imma fight for my life, wait.. I am willing to take you as my slave`](http://9gag.com/gag/aGyVL25)
- - 👉 [Sorry for no Potato](http://9gag.com/gag/a7oKomx)<!-- MEMES:END -->
+ - 💣 [Sorry for no Potato](http://9gag.com/gag/a7oKomx)
+ - 😝 [What men should know](http://9gag.com/gag/awybmMR)
+ - 👉 [Sounds familiar?](http://9gag.com/gag/a0ePXyL)<!-- MEMES:END -->
 
 ---
 

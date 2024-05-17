@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [9 Best Coolers WIRED Tested For Every Budget, Any Situation](https://www.wired.com/gallery/best-coolers/)
+ - [No, Apple is not going to delete the Clown emoji from the iPhone](https://appleinsider.com/articles/24/05/17/no-apple-is-not-going-to-delete-the-clown-emoji-from-the-iphone?utm_medium=rss)
  - [Microsoft to add next Call of Duty to Xbox Game Pass, WSJ reports](https://www.theverge.com/2024/5/17/24158934/microsoft-call-of-duty-xbox-game-pass-plans)
- - [Sources: Microsoft plans to add the latest installment of Call of Duty to Xbox Game Pass at launch this fall, a major shakeup of its video game sales strategy &lpar;Sarah E. Needleman/Wall Street Journal&rpar;](http://www.techmeme.com/240517/p11#a240517p11)
- - [Corsair Scimitar Elite Wireless Mouse Review: Custom Gaming Perfection](https://www.wired.com/review/corsair-scimitar-elite-wireless/)
- - [AI assistants are so back](https://www.theverge.com/2024/5/17/24158505/ai-assistant-openai-chatgpt-google-gemini-vergecast)
- - [It’s Time to Believe the AI Hype](https://www.wired.com/story/its-time-to-believe-the-ai-hype/)<!-- TECH:END -->
+ - [Best Monitor Deals: Save Big on Gaming and Work Monitors     - CNET](https://www.cnet.com/deals/best-monitor-deals/#ftag=CAD590a51e)
+ - [Sources: Microsoft plans to add the latest installment of Call of Duty to Xbox Game Pass at launch this fall, a major shakeup of its video game sales strategy &lpar;Sarah E. Needleman/Wall Street Journal&rpar;](http://www.techmeme.com/240517/p11#a240517p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI researcher resigns, claiming safety has taken ‘a backseat to shiny products’](https://www.theverge.com/2024/5/17/24159095/openai-jan-leike-superalignment-sam-altman-ai-safety)
  - [REI’s anniversary sale is slashing prices on some of the best Garmin watches](https://www.theverge.com/2024/5/17/24158267/rei-anniversary-sale-garmin-watch-inreach-mini-2-deal-sale)
  - [Reddit reintroduces the awards system it shut down in 2023, ends the replacement Golden Upvotes system, and expands its Contributor Program to 35 countries &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240517/p19#a240517p19)
  - [DreamCloud Is Offering Up to 50% Off Mattresses This Memorial Day     - CNET](https://www.cnet.com/deals/dreamcloud-memorial-day-deal-2024/#ftag=CAD590a51e)
- - [OLED iPad Pro owners discover grainy display problem](https://appleinsider.com/articles/24/05/17/oled-ipad-pro-owners-discover-grainy-display-problem?utm_medium=rss)
- - [There’s New Hope for an HIV Vaccine](https://www.wired.com/story/hiv-vaccine-broadly-neutralizing-antibodies/)<!-- TECH:END -->
+ - [OLED iPad Pro owners discover grainy display problem](https://appleinsider.com/articles/24/05/17/oled-ipad-pro-owners-discover-grainy-display-problem?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -163,7 +163,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [Delta Emulator changes logo after Adobe legal threat](https://appleinsider.com/articles/24/05/17/delta-emulator-changes-logo-after-adobe-legal-threat?utm_medium=rss)
  - [OpenAI has an unusual, extremely restrictive off-boarding agreement with a lifelong nondisparagement commitment; those who don&#39;t sign it lose all vested equity &lpar;Kelsey Piper/Vox&rpar;](http://www.techmeme.com/240517/p20#a240517p20)
  - [‘iPhone 17 Slim’ rumors point to a redesigned model in 2025](https://www.theverge.com/2024/5/17/24159114/iphone-17-slim-rumor-2025)
- - [The 43 Best Movies on Netflix Right Now &lpar;May 2024&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)<!-- TECH:END -->
+ - [Best Amazon Memorial Day Sales: Score Big Savings on Home, Tech, TVs and More     - CNET](https://www.cnet.com/deals/best-amazon-memorial-day-sales-score-big-savings-on-home-tech-tvs-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

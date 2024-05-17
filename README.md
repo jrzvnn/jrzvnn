@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New Teslas might lose Steam](https://www.theverge.com/2024/5/17/24158929/tesla-steam-discontinue-new-model-x-delivery-s-cybertruck)
  - [The Verge’s 2024 graduation gift guide](https://www.theverge.com/24126218/graduation-grad-gift-ideas-2024-college-high-school-dorm-tech-gadgets)
  - [Berlin Apple Store vandalized by Congo activists](https://appleinsider.com/articles/24/05/17/berlin-apple-store-vandalized-by-congo-activists?utm_medium=rss)
  - [Sony Music warns AI companies against ‘unauthorized use’ of its content](https://www.theverge.com/2024/5/17/24158887/sony-music-ai-training-letter)
- - [Sources: Germany is nearing a decision to strip Huawei and ZTE components from the country&#39;s 5G core network by 2026 for national security reasons &lpar;Michael Nienaber/Bloomberg&rpar;](http://www.techmeme.com/240517/p12#a240517p12)
- - [Best Internet Providers in Huntsville, Alabama     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-huntsville-al/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Germany is nearing a decision to strip Huawei and ZTE components from the country&#39;s 5G core network by 2026 for national security reasons &lpar;Michael Nienaber/Bloomberg&rpar;](http://www.techmeme.com/240517/p12#a240517p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

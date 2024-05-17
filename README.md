@@ -159,7 +159,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cloud GPU provider CoreWeave raised $7.5B in debt financing from investors including Blackstone, Carlyle Group, and BlackRock, two weeks after raising $1.1B &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240517/p7#a240517p7)
+ - [Cloud GPU provider CoreWeave raised $7.5B in debt financing, two weeks after raising $1.1B equity funding at a $19B valuation; it raised $2.3B in debt in 2023 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240517/p7#a240517p7)
  - [Netflix Isn’t About Flicks Anymore](https://www.wired.com/story/netflix-isnt-about-flicks-anymore/)
  - [Kuo: Apple to use higher energy density battery cells for iPhone 16 Pro Max and stainless steel battery cases for better replaceability, an EU requirement &lpar;William Gallagher/AppleInsider&rpar;](http://www.techmeme.com/240517/p6#a240517p6)
  - [How to Use AirDrop to Quickly Send Photos and Files     - CNET](https://www.cnet.com/tech/mobile/how-to-use-airdrop-to-quickly-send-photos-and-files/#ftag=CAD590a51e)

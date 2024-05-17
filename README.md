@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Quite funny.](http://9gag.com/gag/a1mZm4D)
- - 😝 [`imma fight for my life, wait.. I am willing to take you as my slave`](http://9gag.com/gag/aGyVL25)
- - 💣 [Sorry for no Potato](http://9gag.com/gag/a7oKomx)
- - 😝 [What men should know](http://9gag.com/gag/awybmMR)
- - 👉 [Sounds familiar?](http://9gag.com/gag/a0ePXyL)<!-- MEMES:END -->
+ - 😝 [Samsung is mocking Apple again](http://9gag.com/gag/aD2wYdK)
+ - 😝 [Dude&#39;s never made it this far before.](http://9gag.com/gag/an7XzEb)
+ - 💣 [Tough question, or is it?](http://9gag.com/gag/axy2oGb)
+ - 😝 [Irish man Loses his Mind After Losing His Home To Migrants](http://9gag.com/gag/aVvQbVM)
+ - 👉 [Terrifying](http://9gag.com/gag/arye3Q5)<!-- MEMES:END -->
 
 ---
 

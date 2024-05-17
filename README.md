@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Your guide to this year’s summer video game events](https://www.theverge.com/24159055/summer-gaming-events-xbox-showcase-nintendo-direct)
  - [OpenAI researcher resigns, claiming safety has taken ‘a backseat to shiny products’](https://www.theverge.com/2024/5/17/24159095/openai-jan-leike-superalignment-sam-altman-ai-safety)
  - [Buy Your Stamps Now: Prices Will Increase This Summer     - CNET](https://www.cnet.com/personal-finance/buy-your-stamps-now-prices-will-increase-this-summer/#ftag=CAD590a51e)
  - [REI’s anniversary sale is slashing prices on some of the best Garmin watches](https://www.theverge.com/2024/5/17/24158267/rei-anniversary-sale-garmin-watch-inreach-mini-2-deal-sale)
- - [Reddit reintroduces the awards system it shut down in 2023, ends the replacement Golden Upvotes system, and expands its Contributor Program to 35 countries &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240517/p19#a240517p19)
- - [Best Outdoor String Lights for 2022     - CNET](https://www.cnet.com/news/best-outdoor-string-lights/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Reddit reintroduces the awards system it shut down in 2023, ends the replacement Golden Upvotes system, and expands its Contributor Program to 35 countries &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240517/p19#a240517p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kuo: Apple to use higher energy density battery cells for iPhone 16 Pro Max and stainless steel battery cases for better replaceability, an EU requirement &lpar;William Gallagher/AppleInsider&rpar;](http://www.techmeme.com/240517/p6#a240517p6)
  - [The 11 Best Early Memorial Day 2024 Mattress Deals](https://www.wired.com/story/best-mattress-deals/)
  - [Buyer taken for $1,000 by fake Apple badge on eBay](https://appleinsider.com/articles/24/05/17/buyer-taken-for-1000-by-fake-apple-badge-on-ebay?utm_medium=rss)
  - [iPhone 16 Pro Max to get new battery that could last longer](https://appleinsider.com/articles/24/05/17/iphone-16-pro-max-to-get-new-battery-that-could-last-longer?utm_medium=rss)
- - [Sources: Tesla plans to keep its Chinese FSD training data in the country, a shift from a previous strategy of seeking approval to move data out of China &lpar;Fanny Potkin/Reuters&rpar;](http://www.techmeme.com/240517/p5#a240517p5)
- - [Here&#39;s How You Should Really Be Cleaning Your Shower Head     - CNET](https://www.cnet.com/how-to/your-shower-head-is-probably-super-gross-heres-how-to-clean-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Tesla plans to keep its Chinese FSD training data in the country, a shift from a previous strategy of seeking approval to move data out of China &lpar;Fanny Potkin/Reuters&rpar;](http://www.techmeme.com/240517/p5#a240517p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

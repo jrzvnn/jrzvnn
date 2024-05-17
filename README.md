@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What&#39;s the German tradition here?](http://9gag.com/gag/aqyZygQ)
- - 😝 [This is how soccer is played!](http://9gag.com/gag/an7X7dL)
- - 💣 [GOTY in cooking....???](http://9gag.com/gag/a7oKOvq)
- - 😝 [Switzerland](http://9gag.com/gag/aByQdpD)
- - 👉 [From viking to legolas](http://9gag.com/gag/adB6gQB)<!-- MEMES:END -->
+ - 😝 [Sounds familiar?](http://9gag.com/gag/a0ePXyL)
+ - 😝 [Wishing all my fellow Norwegians a happy 17th of May! Drink responsibly.](http://9gag.com/gag/aPAymnq)
+ - 💣 [How the table didn&#39;t break with the weight of his balls?](http://9gag.com/gag/abAqObp)
+ - 😝 [I miss my `nona`!](http://9gag.com/gag/a7oKeRr)
+ - 👉 [Title is working in civil society](http://9gag.com/gag/ayNp3Zq)<!-- MEMES:END -->
 
 ---
 

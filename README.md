@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [New York City Portal Shut Down After OnlyFans Model Flashes Dublin](http://9gag.com/gag/an7Xz9E)
- - 😝 [Our, you scallywag, you got a loicense for that?!?!](http://9gag.com/gag/awybm6R)
- - 💣 [Find Waldo](http://9gag.com/gag/a4P9Pzd)
- - 😝 [Thoughts on this](http://9gag.com/gag/aRBg4Mj)
- - 👉 [Blood clot coughed up by a patient that perfectly shaped the lung\u2019s cavity it filled.](http://9gag.com/gag/aD2w6Ow)<!-- MEMES:END -->
+ - 😝 [I&#39;m still waiting](http://9gag.com/gag/an7Xn6B)
+ - 😝 [How the table didn&#39;t break with the weight of his balls?](http://9gag.com/gag/abAqObp)
+ - 💣 [Testing a 1920 microphone](http://9gag.com/gag/a9yMvw6)
+ - 😝 [Title is working in civil society](http://9gag.com/gag/ayNp3Zq)
+ - 👉 [Bro was honest in his resume](http://9gag.com/gag/aryeA66)<!-- MEMES:END -->
 
 ---
 

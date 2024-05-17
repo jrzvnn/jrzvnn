@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iMessage experienced an outage on Thursday](https://appleinsider.com/articles/24/05/16/imessage-appears-to-be-experiencing-an-outage?utm_medium=rss)
- - [iMessage had an outage, but now it’s back](https://www.theverge.com/2024/5/16/24158595/imessage-down-outage-iphone-apple-text-messages)
- - [Cicada Double Brood Is Coming and Is Already Buzzing in Some Regions     - CNET](https://www.cnet.com/science/cicada-double-brood-is-coming-and-is-already-buzzing-in-some-regions/#ftag=CAD590a51e)
- - [Apple previews Vehicle Motion Cues, which adds animated dots to iPhone and iPad screens to reduce motion sickness for passengers using them in moving vehicles &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/240516/p39#a240516p39)
- - [Watch &#39;RuPaul&#39;s Drag Race All Stars&#39; Season 9 From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/watch-rupauls-drag-race-all-stars-season-9-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Youth advocacy group Encode Justice unveils 22 policy recommendations to ensure AI protects the &quot;lives, rights, and livelihoods&quot; of young people by 2030 &lpar;Cristiano Lima-Strong/Washington Post&rpar;](http://www.techmeme.com/240516/p40#a240516p40)
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
+ - [Hughesnet and Dish Launch Satellite Internet and TV Bundles     - CNET](https://www.cnet.com/home/internet/hughesnet-and-dish-launch-satellite-internet-and-tv-bundles/#ftag=CAD590a51e)
+ - [Home Depot Memorial Day Deals Available Now: Save Big on Grills, Power Tools, Outdoor Furniture and More     - CNET](https://www.cnet.com/deals/home-depot-memorial-day-deals-available-now-save-big-on-grills-power-tools-outdoor-furniture-and-more/#ftag=CAD590a51e)
+ - [iMessage experienced an outage on Thursday](https://appleinsider.com/articles/24/05/16/imessage-appears-to-be-experiencing-an-outage?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

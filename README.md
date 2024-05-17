@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony Music warns AI companies against ‘unauthorized use’ of its content](https://www.theverge.com/2024/5/17/24158887/sony-music-ai-training-letter)
  - [Sources: Germany is nearing a decision to strip Huawei and ZTE components from the country&#39;s 5G core network by 2026 for national security reasons &lpar;Michael Nienaber/Bloomberg&rpar;](http://www.techmeme.com/240517/p12#a240517p12)
  - [Honda expands its risky hydrogen investment with new fuel cell-powered semi truck](https://www.theverge.com/2024/5/17/24158945/honda-hydrogen-truck-concept-fuel-cell-class-8)
  - [Twitter Is Finally Dead. It’s X All the Way Down](https://www.wired.com/story/twitter-dead-x-elon-musk/)
- - [Russell T. Davies turned to fantasy to make Doctor Who think harder](https://www.theverge.com/24154028/doctor-who-russell-t-davies-interview)
- - [9 Best Coolers WIRED Tested For Every Budget, Any Situation](https://www.wired.com/gallery/best-coolers/)<!-- TECH:END -->
+ - [Russell T. Davies turned to fantasy to make Doctor Who think harder](https://www.theverge.com/24154028/doctor-who-russell-t-davies-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

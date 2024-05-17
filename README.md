@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Six-Word Sci-Fi: Stories Written by You](https://www.wired.com/story/six-word-sci-fi/)
+ - [Delta Emulator changes logo after Adobe legal threat](https://appleinsider.com/articles/24/05/17/delta-emulator-changes-logo-after-adobe-legal-threat?utm_medium=rss)
  - [OpenAI has an unusual, extremely restrictive off-boarding agreement with a lifelong nondisparagement commitment; those who don&#39;t sign it lose all vested equity &lpar;Kelsey Piper/Vox&rpar;](http://www.techmeme.com/240517/p20#a240517p20)
  - [‘iPhone 17 Slim’ rumors point to a redesigned model in 2025](https://www.theverge.com/2024/5/17/24159114/iphone-17-slim-rumor-2025)
- - [The 43 Best Movies on Netflix Right Now &lpar;May 2024&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [The 46 Best Shows on Netflix Right Now &lpar;May 2024&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
- - [Your guide to this year’s summer video game events](https://www.theverge.com/24159055/summer-gaming-events-xbox-showcase-nintendo-direct)<!-- TECH:END -->
+ - [The 43 Best Movies on Netflix Right Now &lpar;May 2024&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

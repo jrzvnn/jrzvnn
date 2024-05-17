@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to use RetroArch to play retro games on iPhone and iPad](https://appleinsider.com/inside/ios/tips/how-to-use-retroarch-to-play-retro-games-on-iphone-and-ipad?utm_medium=rss)
+ - [[Thread] Superalignment team co-lead explains why he has left, says OpenAI&#39;s safety culture and processes took a backseat to shiny products over the past years &lpar;Jan Leike/@janleike&rpar;](http://www.techmeme.com/240517/p18#a240517p18)
  - [Apple plans a thinner and more expensive iPhone 17 for 2025](https://appleinsider.com/articles/24/05/17/apple-plans-a-thinner-and-more-expensive-iphone-17-for-2025?utm_medium=rss)
  - [Source: the Superalignment team was promised 20% of OpenAI&#39;s compute resources but requests for a fraction of that were often denied &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240517/p17#a240517p17)
- - [Sources: Apple is working on a significantly slimmer iPhone that could be released concurrently with the iPhone 17, a major redesign, similar to the iPhone X &lpar;The Information&rpar;](http://www.techmeme.com/240517/p16#a240517p16)
- - [Apple&#39;s M3 MacBook Air with 16GB RAM drops to $1,199 with promo code](https://appleinsider.com/articles/24/05/17/apples-m3-macbook-air-with-16gb-ram-drops-to-1199-with-promo-code?utm_medium=rss)
- - [Best iPad Deals: Save on Apple&#39;s Brand-New iPad Pro M4, iPad Air M2 and More     - CNET](https://www.cnet.com/deals/best-ipad-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Apple is working on a significantly slimmer iPhone that could be released concurrently with the iPhone 17, a major redesign, similar to the iPhone X &lpar;The Information&rpar;](http://www.techmeme.com/240517/p16#a240517p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

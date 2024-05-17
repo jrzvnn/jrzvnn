@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sorry for no Potato](http://9gag.com/gag/a7oKomx)
- - 😝 [This is not the revival of art I was expecting.](http://9gag.com/gag/avyZeLb)
- - 💣 [Sounds familiar?](http://9gag.com/gag/a0ePXyL)
- - 😝 [How the table didn&#39;t break with the weight of his balls?](http://9gag.com/gag/abAqObp)
- - 👉 [Wishing all my fellow Norwegians a happy 17th of May! Drink responsibly.](http://9gag.com/gag/aPAymnq)<!-- MEMES:END -->
+ - 😝 [What&#39;s the German tradition here?](http://9gag.com/gag/aqyZygQ)
+ - 😝 [This is how soccer is played!](http://9gag.com/gag/an7X7dL)
+ - 💣 [GOTY in cooking....???](http://9gag.com/gag/a7oKOvq)
+ - 😝 [Switzerland](http://9gag.com/gag/aByQdpD)
+ - 👉 [From viking to legolas](http://9gag.com/gag/adB6gQB)<!-- MEMES:END -->
 
 ---
 

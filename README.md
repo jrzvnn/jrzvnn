@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Neill Confidence man](http://9gag.com/gag/a0eP4nO)
- - 😝 [550 foot tall building with no windows in lower Manhattan, New York City](http://9gag.com/gag/a2vP7K1)
- - 💣 [I see what you did there](http://9gag.com/gag/aKGgm4N)
- - 😝 [It&#39;s important!!](http://9gag.com/gag/adB68qV)
- - 👉 [New York City Portal Shut Down After OnlyFans Model Flashes Dublin](http://9gag.com/gag/an7Xz9E)<!-- MEMES:END -->
+ - 😝 [Peabrained](http://9gag.com/gag/aQzpzDK)
+ - 😝 [Cope](http://9gag.com/gag/a9yMzW0)
+ - 💣 [Stop Defending this BS](http://9gag.com/gag/a34d455)
+ - 😝 [This one sparks joy.](http://9gag.com/gag/azxL57N)
+ - 👉 [Life Hack!](http://9gag.com/gag/aRBgL22)<!-- MEMES:END -->
 
 ---
 

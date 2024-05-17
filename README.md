@@ -169,10 +169,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Darth Vader&#39;s apprentice no one talks about](http://9gag.com/gag/ae939Bv)
- - 😝 [It was not gonna last](http://9gag.com/gag/aPAy7LV)
- - 💣 [One does not simply walk into Moria](http://9gag.com/gag/aO8y3RD)
- - 😝 [`She doth teach the torches to burn bright. As a rich jewel in an Ethiope\u2019s ear.`](http://9gag.com/gag/aW40jm6)
- - 👉 [Tough question, or is it?](http://9gag.com/gag/axy2oGb)<!-- MEMES:END -->
+ - 😝 [Neill Confidence man](http://9gag.com/gag/a0eP4nO)
+ - 💣 [What?](http://9gag.com/gag/aW40Gzx)
+ - 😝 [One does not simply walk into Moria](http://9gag.com/gag/aO8y3RD)
+ - 👉 [550 foot tall building with no windows in lower Manhattan, New York City](http://9gag.com/gag/a2vP7K1)<!-- MEMES:END -->
 
 ---
 

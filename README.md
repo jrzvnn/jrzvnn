@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u201cOh wow, that\u2019s a beautiful sunri\u2026\u201d](http://9gag.com/gag/a2vPKNY)
+ - 😝 [I wanna see the aftermath](http://9gag.com/gag/aD2w2QB)
  - 😝 [Dude&#39;s never made it this far before.](http://9gag.com/gag/an7XzEb)
- - 💣 [From viking to legolas](http://9gag.com/gag/adB6gQB)
+ - 💣 [White knights to the rescue!](http://9gag.com/gag/abAq1gv)
  - 😝 [Man who vanished age 17 is found alive in a hole after being held captive by his neighbour for 27 years](http://9gag.com/gag/a5QNX4y)
  - 👉 [Tough question, or is it?](http://9gag.com/gag/axy2oGb)<!-- MEMES:END -->
 

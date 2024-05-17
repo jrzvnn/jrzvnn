@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stop Defending this BS](http://9gag.com/gag/a34d455)
- - 😝 [This one sparks joy.](http://9gag.com/gag/azxL57N)
- - 💣 [Discipline](http://9gag.com/gag/aZZWnAW)
- - 😝 [Title is working in civil society](http://9gag.com/gag/ayNp3Zq)
- - 👉 [The new Assassin&#39;s Creed be like](http://9gag.com/gag/aW40pEd)<!-- MEMES:END -->
+ - 😝 [Blood clot coughed up by a patient that perfectly shaped the lung\u2019s cavity it filled.](http://9gag.com/gag/aD2w6Ow)
+ - 😝 [550 foot tall building with no windows in lower Manhattan, New York City](http://9gag.com/gag/a2vP7K1)
+ - 💣 [What&#39;s the German tradition here?](http://9gag.com/gag/aqyZygQ)
+ - 😝 [White knights to the rescue!](http://9gag.com/gag/abAq1gv)
+ - 👉 [One does not simply walk into Moria](http://9gag.com/gag/aO8y3RD)<!-- MEMES:END -->
 
 ---
 

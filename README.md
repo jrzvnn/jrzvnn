@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI, game emulators on iPhone, and iPad Pro impressions, on the AppleInsider podcast](https://appleinsider.com/articles/24/05/17/ai-game-emulators-on-iphone-and-ipad-pro-impressions-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Hong Kong launches a pilot program enabling digital yuan payments through major Chinese banks, first deployment of China&#39;s currency beyond the mainland &lpar;Kiuyan Wong/Bloomberg&rpar;](http://www.techmeme.com/240517/p10#a240517p10)
+ - [People Are Using the Oura Ring as a Birth Control Tool. Here&#39;s Why     - CNET](https://www.cnet.com/health/medical/people-are-using-the-oura-ring-as-a-birth-control-tool-heres-why/#ftag=CAD590a51e)
  - [6 Best Cheap Smartphones &lpar;2024&rpar;: iPhone, Android, 5G](https://www.wired.com/story/best-cheap-phones/)
- - [The EU warns Microsoft it could be fined up to 1% of its global annual turnover under DSA after failing to provide risk info about its generative AI tools &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240517/p9#a240517p9)
- - [How to Use ‘Circle to Search’ on an Android Phone](https://www.wired.com/story/how-to-use-circle-to-search-android/)
- - [Microsoft&#39;s partnership with Mistral AI will avoid a UK antitrust probe after the CMA finds Microsoft can&#39;t &quot;materially influence&quot; Mistral&#39;s commercial policy &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/240517/p8#a240517p8)
- - [Merchants in Japan can finally use Tap to Pay for iPhone](https://appleinsider.com/articles/24/05/17/merchants-in-japan-can-finally-use-tap-to-pay-for-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [The EU warns Microsoft it could be fined up to 1% of its global annual turnover under DSA after failing to provide risk info about its generative AI tools &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240517/p9#a240517p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

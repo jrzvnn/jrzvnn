@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft to add next Call of Duty to Xbox Game Pass, WSJ reports](https://www.theverge.com/2024/5/17/24158934/microsoft-call-of-duty-xbox-game-pass-plans)
  - [Sources: Microsoft plans to add the latest installment of Call of Duty to Xbox Game Pass at launch this fall, a major shakeup of its video game sales strategy &lpar;Sarah E. Needleman/Wall Street Journal&rpar;](http://www.techmeme.com/240517/p11#a240517p11)
+ - [Corsair Scimitar Elite Wireless Mouse Review: Custom Gaming Perfection](https://www.wired.com/review/corsair-scimitar-elite-wireless/)
  - [AI assistants are so back](https://www.theverge.com/2024/5/17/24158505/ai-assistant-openai-chatgpt-google-gemini-vergecast)
- - [It’s Time to Believe the AI Hype](https://www.wired.com/story/its-time-to-believe-the-ai-hype/)
- - [AI, game emulators on iPhone, and iPad Pro impressions, on the AppleInsider podcast](https://appleinsider.com/articles/24/05/17/ai-game-emulators-on-iphone-and-ipad-pro-impressions-on-the-appleinsider-podcast?utm_medium=rss)
- - [Hong Kong launches a pilot program enabling digital yuan payments through major Chinese banks, first deployment of China&#39;s currency beyond the mainland &lpar;Kiuyan Wong/Bloomberg&rpar;](http://www.techmeme.com/240517/p10#a240517p10)<!-- TECH:END -->
+ - [It’s Time to Believe the AI Hype](https://www.wired.com/story/its-time-to-believe-the-ai-hype/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

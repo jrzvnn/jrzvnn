@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI assistants are so back](https://www.theverge.com/2024/5/17/24158505/ai-assistant-openai-chatgpt-google-gemini-vergecast)
+ - [It’s Time to Believe the AI Hype](https://www.wired.com/story/its-time-to-believe-the-ai-hype/)
  - [AI, game emulators on iPhone, and iPad Pro impressions, on the AppleInsider podcast](https://appleinsider.com/articles/24/05/17/ai-game-emulators-on-iphone-and-ipad-pro-impressions-on-the-appleinsider-podcast?utm_medium=rss)
  - [Hong Kong launches a pilot program enabling digital yuan payments through major Chinese banks, first deployment of China&#39;s currency beyond the mainland &lpar;Kiuyan Wong/Bloomberg&rpar;](http://www.techmeme.com/240517/p10#a240517p10)
- - [People Are Using the Oura Ring as a Birth Control Tool. Here&#39;s Why     - CNET](https://www.cnet.com/health/medical/people-are-using-the-oura-ring-as-a-birth-control-tool-heres-why/#ftag=CAD590a51e)
- - [6 Best Cheap Smartphones &lpar;2024&rpar;: iPhone, Android, 5G](https://www.wired.com/story/best-cheap-phones/)
- - [The EU warns Microsoft it could be fined up to 1% of its global annual turnover under DSA after failing to provide risk info about its generative AI tools &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240517/p9#a240517p9)<!-- TECH:END -->
+ - [People Are Using the Oura Ring as a Birth Control Tool. Here&#39;s Why     - CNET](https://www.cnet.com/health/medical/people-are-using-the-oura-ring-as-a-birth-control-tool-heres-why/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

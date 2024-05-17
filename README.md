@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [#1 Guinness #2 Internet](http://9gag.com/gag/aVvQE9O)
- - 😝 [Accurate](http://9gag.com/gag/aE0G84K)
- - 💣 [Find Waldo](http://9gag.com/gag/a4P9Pzd)
- - 😝 [What&#39;s the German tradition here?](http://9gag.com/gag/aqyZygQ)
- - 👉 [Irish man Loses his Mind After Losing His Home To Migrants](http://9gag.com/gag/aVvQbVM)<!-- MEMES:END -->
+ - 😝 [Irish man Loses his Mind After Losing His Home To Migrants](http://9gag.com/gag/aVvQbVM)
+ - 😝 [This is how soccer is played!](http://9gag.com/gag/an7X7dL)
+ - 💣 [What&#39;s the German tradition here?](http://9gag.com/gag/aqyZygQ)
+ - 😝 [Blood clot coughed up by a patient that perfectly shaped the lung\u2019s cavity it filled.](http://9gag.com/gag/aD2w6Ow)
+ - 👉 [Switzerland](http://9gag.com/gag/aByQdpD)<!-- MEMES:END -->
 
 ---
 

@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Samsung is mocking Apple again](http://9gag.com/gag/aD2wYdK)
- - 😝 [Dude&#39;s never made it this far before.](http://9gag.com/gag/an7XzEb)
- - 💣 [Tough question, or is it?](http://9gag.com/gag/axy2oGb)
- - 😝 [Irish man Loses his Mind After Losing His Home To Migrants](http://9gag.com/gag/aVvQbVM)
- - 👉 [Terrifying](http://9gag.com/gag/arye3Q5)<!-- MEMES:END -->
+ - 😝 [What&#39;s the German tradition here?](http://9gag.com/gag/aqyZygQ)
+ - 😝 [GOTY in cooking....???](http://9gag.com/gag/a7oKOvq)
+ - 💣 [This is how soccer is played!](http://9gag.com/gag/an7X7dL)
+ - 😝 [From viking to legolas](http://9gag.com/gag/adB6gQB)
+ - 👉 [Switzerland](http://9gag.com/gag/aByQdpD)<!-- MEMES:END -->
 
 ---
 

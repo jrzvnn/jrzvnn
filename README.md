@@ -168,9 +168,9 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Dutch have a new kabinet. Strikt rules for Illigal immigration and hard penalty&#39;s for foreign law breakers. Thanks to Geert Wilders \ud83c\uddf3\ud83c\uddf1](http://9gag.com/gag/aKGgE0g)
- - 😝 [Cope](http://9gag.com/gag/a9yMzW0)
- - 💣 [Peabrained](http://9gag.com/gag/aQzpzDK)
+ - 😝 [Peabrained](http://9gag.com/gag/aQzpzDK)
+ - 😝 [I&#39;m in this video and i don&#39;t like it](http://9gag.com/gag/a2vPK9e)
+ - 💣 [The Dutch have a new kabinet. Strikt rules for Illigal immigration and hard penalty&#39;s for foreign law breakers. Thanks to Geert Wilders \ud83c\uddf3\ud83c\uddf1](http://9gag.com/gag/aKGgE0g)
  - 😝 [`imma fight for my life, wait.. I am willing to take you as my slave`](http://9gag.com/gag/aGyVL25)
  - 👉 [This one sparks joy.](http://9gag.com/gag/azxL57N)<!-- MEMES:END -->
 

@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One does not simply walk into Moria](http://9gag.com/gag/aO8y3RD)
- - 😝 [Accurate](http://9gag.com/gag/aE0G84K)
- - 💣 [What&#39;s the German tradition here?](http://9gag.com/gag/aqyZygQ)
- - 😝 [550 foot tall building with no windows in lower Manhattan, New York City](http://9gag.com/gag/a2vP7K1)
- - 👉 [Tough question, or is it?](http://9gag.com/gag/axy2oGb)<!-- MEMES:END -->
+ - 😝 [What&#39;s the German tradition here?](http://9gag.com/gag/aqyZygQ)
+ - 😝 [Dude&#39;s never made it this far before.](http://9gag.com/gag/an7XzEb)
+ - 💣 [550 foot tall building with no windows in lower Manhattan, New York City](http://9gag.com/gag/a2vP7K1)
+ - 😝 [Tough question, or is it?](http://9gag.com/gag/axy2oGb)
+ - 👉 [From viking to legolas](http://9gag.com/gag/adB6gQB)<!-- MEMES:END -->
 
 ---
 

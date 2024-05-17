@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Delta Emulator is changing its logo after Adobe threatened it](https://www.theverge.com/2024/5/17/24159268/delta-emulator-logo-change-app)
+ - [Meta is working on an Instagram feature called Peek that lets users post unedited, authentic pictures that can only be viewed once &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240517/p21#a240517p21)
  - [Motorola’s next Razr lineup might have bigger front screens for everybody](https://www.theverge.com/2024/5/17/24159259/motorola-razr-ultra-plus-2024-leak-rumor)
  - [Valve’s next game may have just leaked](https://www.theverge.com/2024/5/17/24159222/valve-new-game-deadlock-multiplayer-hero-shooter)
- - [iPhone 16 camera upgrades may be the best reason to upgrade](https://appleinsider.com/articles/24/05/17/iphone-16-camera-upgrades-may-be-the-best-reason-to-upgrade?utm_medium=rss)
- - [Six-Word Sci-Fi: Stories Written by You](https://www.wired.com/story/six-word-sci-fi/)
- - [Delta Emulator changes logo after Adobe legal threat](https://appleinsider.com/articles/24/05/17/delta-emulator-changes-logo-after-adobe-legal-threat?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone 16 camera upgrades may be the best reason to upgrade](https://appleinsider.com/articles/24/05/17/iphone-16-camera-upgrades-may-be-the-best-reason-to-upgrade?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ronnie James Dio recording for JB&#39;s Kickapoo song](http://9gag.com/gag/azxL5GB)
- - 😝 [Find Waldo](http://9gag.com/gag/a4P9Pzd)
- - 💣 [Switzerland](http://9gag.com/gag/aByQdpD)
- - 😝 [Man who vanished age 17 is found alive in a hole after being held captive by his neighbour for 27 years](http://9gag.com/gag/a5QNX4y)
- - 👉 [Our, you scallywag, you got a loicense for that?!?!](http://9gag.com/gag/awybm6R)<!-- MEMES:END -->
+ - 😝 [`fun little song`](http://9gag.com/gag/aYQpE9V)
+ - 😝 [Neill Confidence man](http://9gag.com/gag/a0eP4nO)
+ - 💣 [#1 Guinness #2 Internet](http://9gag.com/gag/aVvQE9O)
+ - 😝 [Our, you scallywag, you got a loicense for that?!?!](http://9gag.com/gag/awybm6R)
+ - 👉 [New York City Portal Shut Down After OnlyFans Model Flashes Dublin](http://9gag.com/gag/an7Xz9E)<!-- MEMES:END -->
 
 ---
 

@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Irish man Loses his Mind After Losing His Home To Migrants](http://9gag.com/gag/aVvQbVM)
- - 😝 [Terrifying](http://9gag.com/gag/arye3Q5)
+ - 😝 [Thoughts on this](http://9gag.com/gag/aRBg4Mj)
+ - 😝 [Our, you scallywag, you got a loicense for that?!?!](http://9gag.com/gag/awybm6R)
  - 💣 [Blood clot coughed up by a patient that perfectly shaped the lung\u2019s cavity it filled.](http://9gag.com/gag/aD2w6Ow)
- - 😝 [Accurate](http://9gag.com/gag/aE0G84K)
- - 👉 [\u201cOh wow, that\u2019s a beautiful sunri\u2026\u201d](http://9gag.com/gag/a2vPKNY)<!-- MEMES:END -->
+ - 😝 [Find Waldo](http://9gag.com/gag/a4P9Pzd)
+ - 👉 [Accurate](http://9gag.com/gag/aE0G84K)<!-- MEMES:END -->
 
 ---
 

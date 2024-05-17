@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Airplane mode is activated.](http://9gag.com/gag/aO8y4ZR)
  - 😝 [Sounds familiar?](http://9gag.com/gag/a0ePXyL)
- - 😝 [Wishing all my fellow Norwegians a happy 17th of May! Drink responsibly.](http://9gag.com/gag/aPAymnq)
- - 💣 [How the table didn&#39;t break with the weight of his balls?](http://9gag.com/gag/abAqObp)
+ - 💣 [Wishing all my fellow Norwegians a happy 17th of May! Drink responsibly.](http://9gag.com/gag/aPAymnq)
  - 😝 [I miss my `nona`!](http://9gag.com/gag/a7oKeRr)
- - 👉 [Title is working in civil society](http://9gag.com/gag/ayNp3Zq)<!-- MEMES:END -->
+ - 👉 [How the table didn&#39;t break with the weight of his balls?](http://9gag.com/gag/abAqObp)<!-- MEMES:END -->
 
 ---
 

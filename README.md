@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u201cOh wow, that\u2019s a beautiful sunri\u2026\u201d](http://9gag.com/gag/a2vPKNY)
- - 😝 [Dude&#39;s never made it this far before.](http://9gag.com/gag/an7XzEb)
- - 💣 [What&#39;s the German tradition here?](http://9gag.com/gag/aqyZygQ)
- - 😝 [Blood clot coughed up by a patient that perfectly shaped the lung\u2019s cavity it filled.](http://9gag.com/gag/aD2w6Ow)
- - 👉 [Tough question, or is it?](http://9gag.com/gag/axy2oGb)<!-- MEMES:END -->
+ - 😝 [What&#39;s the German tradition here?](http://9gag.com/gag/aqyZygQ)
+ - 😝 [Pineapple skin resisting heat emitted by 1000\u00b0C Iron ball](http://9gag.com/gag/abAqAeX)
+ - 💣 [Irish man Loses his Mind After Losing His Home To Migrants](http://9gag.com/gag/aVvQbVM)
+ - 😝 [Tough question, or is it?](http://9gag.com/gag/axy2oGb)
+ - 👉 [From viking to legolas](http://9gag.com/gag/adB6gQB)<!-- MEMES:END -->
 
 ---
 

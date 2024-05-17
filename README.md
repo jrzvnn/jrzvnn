@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ann Arbor, Michigan-based Voxel51, which is developing a visual AI platform to reduce the failure rate of AI projects, raised a $30M Series B led by Bessemer &lpar;Ken Yeung/VentureBeat&rpar;](http://www.techmeme.com/240516/p42#a240516p42)
  - [Analyst briefing: Microsoft will launch its Cobalt 100 chips, announced in November 2023, to Azure clients as a public preview at its Build conference next week &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240516/p41#a240516p41)
  - [Youth advocacy group Encode Justice unveils 22 policy recommendations to ensure AI protects the &quot;lives, rights, and livelihoods&quot; of young people by 2030 &lpar;Cristiano Lima-Strong/Washington Post&rpar;](http://www.techmeme.com/240516/p40#a240516p40)
  - [Optavia Diet Review: Does This Program Really Work for Weight Loss?     - CNET](https://www.cnet.com/health/nutrition/optavia-diet-review/#ftag=CAD590a51e)
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Hughesnet and Dish Launch Satellite Internet and TV Bundles     - CNET](https://www.cnet.com/home/internet/hughesnet-and-dish-launch-satellite-internet-and-tv-bundles/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

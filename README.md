@@ -168,10 +168,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [GOTY in cooking....???](http://9gag.com/gag/a7oKOvq)
- - 😝 [I wanna see the aftermath](http://9gag.com/gag/aD2w2QB)
- - 💣 [Man who vanished age 17 is found alive in a hole after being held captive by his neighbour for 27 years](http://9gag.com/gag/a5QNX4y)
- - 😝 [White knights to the rescue!](http://9gag.com/gag/abAq1gv)
+ - 😝 [Accurate](http://9gag.com/gag/aE0G84K)
+ - 😝 [Man who vanished age 17 is found alive in a hole after being held captive by his neighbour for 27 years](http://9gag.com/gag/a5QNX4y)
+ - 💣 [The real footage of Soviet workers cleaning the roof of the Chernobyl powerplant after its meltdown](http://9gag.com/gag/agm0mbn)
+ - 😝 [New York City Portal Shut Down After OnlyFans Model Flashes Dublin](http://9gag.com/gag/an7Xz9E)
  - 👉 [Tough question, or is it?](http://9gag.com/gag/axy2oGb)<!-- MEMES:END -->
 
 ---

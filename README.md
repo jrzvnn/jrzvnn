@@ -163,7 +163,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [The 46 Best Shows on Netflix Right Now &lpar;May 2024&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
  - [Your guide to this year’s summer video game events](https://www.theverge.com/24159055/summer-gaming-events-xbox-showcase-nintendo-direct)
  - [OpenAI researcher resigns, claiming safety has taken ‘a backseat to shiny products’](https://www.theverge.com/2024/5/17/24159095/openai-jan-leike-superalignment-sam-altman-ai-safety)
- - [REI’s anniversary sale is slashing prices on some of the best Garmin watches](https://www.theverge.com/2024/5/17/24158267/rei-anniversary-sale-garmin-watch-inreach-mini-2-deal-sale)<!-- TECH:END -->
+ - [Buy Your Stamps Now: Prices Will Increase This Summer     - CNET](https://www.cnet.com/personal-finance/buy-your-stamps-now-prices-will-increase-this-summer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

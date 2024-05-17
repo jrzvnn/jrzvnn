@@ -169,10 +169,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Irish man Loses his Mind After Losing His Home To Migrants](http://9gag.com/gag/aVvQbVM)
- - 😝 [This is how soccer is played!](http://9gag.com/gag/an7X7dL)
- - 💣 [What&#39;s the German tradition here?](http://9gag.com/gag/aqyZygQ)
- - 😝 [Blood clot coughed up by a patient that perfectly shaped the lung\u2019s cavity it filled.](http://9gag.com/gag/aD2w6Ow)
- - 👉 [Switzerland](http://9gag.com/gag/aByQdpD)<!-- MEMES:END -->
+ - 😝 [Terrifying](http://9gag.com/gag/arye3Q5)
+ - 💣 [Blood clot coughed up by a patient that perfectly shaped the lung\u2019s cavity it filled.](http://9gag.com/gag/aD2w6Ow)
+ - 😝 [Accurate](http://9gag.com/gag/aE0G84K)
+ - 👉 [\u201cOh wow, that\u2019s a beautiful sunri\u2026\u201d](http://9gag.com/gag/a2vPKNY)<!-- MEMES:END -->
 
 ---
 

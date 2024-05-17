@@ -163,7 +163,7 @@ Go                       1 repo              ░░░░░░░░░░░�
  - [iPad Pro hands on: Luxury technology in an impossibly-thin package](https://appleinsider.com/articles/24/05/17/ipad-pro-hands-on-luxury-technology-in-an-impossibly-thin-package?utm_medium=rss)
  - [25 Best REI Anniversary Sale Deals: Fitness Trackers, Tents, Sleeping Bags, Outdoor Apparel](https://www.wired.com/story/rei-anniversary-sale-may-2024/)
  - [Reddit brings back its old award system — ‘we messed up’](https://www.theverge.com/2024/5/17/24158848/reddit-brings-back-award-system-gold-coins-messed-up)
- - [Cloud GPU provider CoreWeave raised $7.5B in debt financing, two weeks after raising $1.1B equity funding at a $19B valuation; it raised $2.3B in debt in 2023 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240517/p7#a240517p7)<!-- TECH:END -->
+ - [Mortgage Refinance Rates Fall: Mortgage Refinance Rates on May 17, 2024     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-refinance-rates-fall-mortgage-refinance-rates-on-may-17-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

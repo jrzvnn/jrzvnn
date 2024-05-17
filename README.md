@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [‘iPhone 17 Slim’ rumors point to a redesigned model in 2025](https://www.theverge.com/2024/5/17/24159114/iphone-17-slim-rumor-2025)
  - [The 43 Best Movies on Netflix Right Now &lpar;May 2024&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
  - [The 46 Best Shows on Netflix Right Now &lpar;May 2024&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
  - [Your guide to this year’s summer video game events](https://www.theverge.com/24159055/summer-gaming-events-xbox-showcase-nintendo-direct)
- - [OpenAI researcher resigns, claiming safety has taken ‘a backseat to shiny products’](https://www.theverge.com/2024/5/17/24159095/openai-jan-leike-superalignment-sam-altman-ai-safety)
- - [Buy Your Stamps Now: Prices Will Increase This Summer     - CNET](https://www.cnet.com/personal-finance/buy-your-stamps-now-prices-will-increase-this-summer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OpenAI researcher resigns, claiming safety has taken ‘a backseat to shiny products’](https://www.theverge.com/2024/5/17/24159095/openai-jan-leike-superalignment-sam-altman-ai-safety)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: the Superalignment team was promised 20% of OpenAI&#39;s compute resources but requests for a fraction of that were often denied &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240517/p17#a240517p17)
+ - [Sources: Apple is working on a significantly slimmer iPhone that could be released concurrently with the iPhone 17, a major redesign, similar to the iPhone X &lpar;The Information&rpar;](http://www.techmeme.com/240517/p16#a240517p16)
+ - [Apple&#39;s M3 MacBook Air with 16GB RAM drops to $1,199 with promo code](https://appleinsider.com/articles/24/05/17/apples-m3-macbook-air-with-16gb-ram-drops-to-1199-with-promo-code?utm_medium=rss)
  - [Apple limits the development and testing of third-party browser engines to devices physically located in the EU, forcing browser makers to have staff in the EU &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/240517/p15#a240517p15)
- - [ChatGPT lets users upload from Google Drive and OneDrive directly](https://www.theverge.com/2024/5/17/24158970/chatgpt-openai-google-drive-microsoft-onedrive-data)
- - [M4 iPad Pro teardown shows copper logo, highly repairable internals](https://appleinsider.com/articles/24/05/17/m4-ipad-pro-teardown-shows-copper-logo-highly-repairable-internals?utm_medium=rss)
- - [The Race to Buy TikTok Is On—but There Might Not Be a Winner](https://www.wired.com/story/tiktoks-suitors-face-an-uphill-battle/)
- - [Slack confirms it is training some of its AI-powered features, but not its generative AI tool, on user content and uploads, with all users opted-in by default &lpar;Kate Irwin/PCMag&rpar;](http://www.techmeme.com/240517/p14#a240517p14)<!-- TECH:END -->
+ - [ChatGPT lets users upload from Google Drive and OneDrive directly](https://www.theverge.com/2024/5/17/24158970/chatgpt-openai-google-drive-microsoft-onedrive-data)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

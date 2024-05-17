@@ -168,10 +168,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Accurate](http://9gag.com/gag/aE0G84K)
- - 😝 [Man who vanished age 17 is found alive in a hole after being held captive by his neighbour for 27 years](http://9gag.com/gag/a5QNX4y)
- - 💣 [The real footage of Soviet workers cleaning the roof of the Chernobyl powerplant after its meltdown](http://9gag.com/gag/agm0mbn)
- - 😝 [New York City Portal Shut Down After OnlyFans Model Flashes Dublin](http://9gag.com/gag/an7Xz9E)
+ - 😝 [\u201cOh wow, that\u2019s a beautiful sunri\u2026\u201d](http://9gag.com/gag/a2vPKNY)
+ - 😝 [Dude&#39;s never made it this far before.](http://9gag.com/gag/an7XzEb)
+ - 💣 [What&#39;s the German tradition here?](http://9gag.com/gag/aqyZygQ)
+ - 😝 [Blood clot coughed up by a patient that perfectly shaped the lung\u2019s cavity it filled.](http://9gag.com/gag/aD2w6Ow)
  - 👉 [Tough question, or is it?](http://9gag.com/gag/axy2oGb)<!-- MEMES:END -->
 
 ---

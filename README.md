@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dude&#39;s never made it this far before.](http://9gag.com/gag/an7XzEb)
- - 😝 [Neill Confidence man](http://9gag.com/gag/a0eP4nO)
- - 💣 [In a viral video clip on social media it is discovered that a street vendor was cooking pharata in diesel oil and later it was found that he has been cooking it in diesel for almost 35 years](http://9gag.com/gag/ajP6mAp)
- - 😝 [From viking to legolas](http://9gag.com/gag/adB6gQB)
- - 👉 [What&#39;s the German tradition here?](http://9gag.com/gag/aqyZygQ)<!-- MEMES:END -->
+ - 😝 [Life Hack!](http://9gag.com/gag/aRBgL22)
+ - 😝 [I&#39;m in this video and i don&#39;t like it](http://9gag.com/gag/a2vPK9e)
+ - 💣 [The Dutch have a new kabinet. Strikt rules for Illigal immigration and hard penalty&#39;s for foreign law breakers. Thanks to Geert Wilders \ud83c\uddf3\ud83c\uddf1](http://9gag.com/gag/aKGgE0g)
+ - 😝 [Stop Defending this BS](http://9gag.com/gag/a34d455)
+ - 👉 [This one sparks joy.](http://9gag.com/gag/azxL57N)<!-- MEMES:END -->
 
 ---
 

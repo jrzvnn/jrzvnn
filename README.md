@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Motorola’s next Razr lineup might have bigger front screens for everybody](https://www.theverge.com/2024/5/17/24159259/motorola-razr-ultra-plus-2024-leak-rumor)
  - [Valve’s next game may have just leaked](https://www.theverge.com/2024/5/17/24159222/valve-new-game-deadlock-multiplayer-hero-shooter)
  - [iPhone 16 camera upgrades may be the best reason to upgrade](https://appleinsider.com/articles/24/05/17/iphone-16-camera-upgrades-may-be-the-best-reason-to-upgrade?utm_medium=rss)
  - [Six-Word Sci-Fi: Stories Written by You](https://www.wired.com/story/six-word-sci-fi/)
- - [Delta Emulator changes logo after Adobe legal threat](https://appleinsider.com/articles/24/05/17/delta-emulator-changes-logo-after-adobe-legal-threat?utm_medium=rss)
- - [OpenAI has an unusual, extremely restrictive off-boarding agreement with a lifelong nondisparagement commitment; those who don&#39;t sign it lose all vested equity &lpar;Kelsey Piper/Vox&rpar;](http://www.techmeme.com/240517/p20#a240517p20)<!-- TECH:END -->
+ - [Delta Emulator changes logo after Adobe legal threat](https://appleinsider.com/articles/24/05/17/delta-emulator-changes-logo-after-adobe-legal-threat?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

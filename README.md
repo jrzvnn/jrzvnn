@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What&#39;s the German tradition here?](http://9gag.com/gag/aqyZygQ)
- - 😝 [Pineapple skin resisting heat emitted by 1000\u00b0C Iron ball](http://9gag.com/gag/abAqAeX)
- - 💣 [Irish man Loses his Mind After Losing His Home To Migrants](http://9gag.com/gag/aVvQbVM)
- - 😝 [Tough question, or is it?](http://9gag.com/gag/axy2oGb)
- - 👉 [From viking to legolas](http://9gag.com/gag/adB6gQB)<!-- MEMES:END -->
+ - 😝 [Palestinian student who bigged up the hamas oct7 attack has had her visa revoked....now go home and see how your human rights perform.](http://9gag.com/gag/a87b6ZQ)
+ - 😝 [Life Hack!](http://9gag.com/gag/aRBgL22)
+ - 💣 [Quite funny.](http://9gag.com/gag/a1mZm4D)
+ - 😝 [`imma fight for my life, wait.. I am willing to take you as my slave`](http://9gag.com/gag/aGyVL25)
+ - 👉 [Sorry for no Potato](http://9gag.com/gag/a7oKomx)<!-- MEMES:END -->
 
 ---
 

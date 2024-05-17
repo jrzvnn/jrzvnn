@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Berlin Apple Store vandalized by Congo activists](https://appleinsider.com/articles/24/05/17/berlin-apple-store-vandalized-by-congo-activists?utm_medium=rss)
  - [Sony Music warns AI companies against ‘unauthorized use’ of its content](https://www.theverge.com/2024/5/17/24158887/sony-music-ai-training-letter)
  - [Sources: Germany is nearing a decision to strip Huawei and ZTE components from the country&#39;s 5G core network by 2026 for national security reasons &lpar;Michael Nienaber/Bloomberg&rpar;](http://www.techmeme.com/240517/p12#a240517p12)
- - [Honda expands its risky hydrogen investment with new fuel cell-powered semi truck](https://www.theverge.com/2024/5/17/24158945/honda-hydrogen-truck-concept-fuel-cell-class-8)
- - [Twitter Is Finally Dead. It’s X All the Way Down](https://www.wired.com/story/twitter-dead-x-elon-musk/)
- - [Russell T. Davies turned to fantasy to make Doctor Who think harder](https://www.theverge.com/24154028/doctor-who-russell-t-davies-interview)<!-- TECH:END -->
+ - [Best Internet Providers in Huntsville, Alabama     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-huntsville-al/#ftag=CAD590a51e)
+ - [Honda expands its risky hydrogen investment with new fuel cell-powered semi truck](https://www.theverge.com/2024/5/17/24158945/honda-hydrogen-truck-concept-fuel-cell-class-8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

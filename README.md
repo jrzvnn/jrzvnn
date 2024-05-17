@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cloud GPU provider CoreWeave raised $7.5B in debt financing from investors including Blackstone, Carlyle Group, and BlackRock, two weeks after raising $1.1B &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240517/p7#a240517p7)
  - [Netflix Isn’t About Flicks Anymore](https://www.wired.com/story/netflix-isnt-about-flicks-anymore/)
  - [Kuo: Apple to use higher energy density battery cells for iPhone 16 Pro Max and stainless steel battery cases for better replaceability, an EU requirement &lpar;William Gallagher/AppleInsider&rpar;](http://www.techmeme.com/240517/p6#a240517p6)
- - [The 11 Best Early Memorial Day 2024 Mattress Deals](https://www.wired.com/story/best-mattress-deals/)
- - [Buyer taken for $1,000 by fake Apple badge on eBay](https://appleinsider.com/articles/24/05/17/buyer-taken-for-1000-by-fake-apple-badge-on-ebay?utm_medium=rss)
- - [iPhone 16 Pro Max to get new battery that could last longer](https://appleinsider.com/articles/24/05/17/iphone-16-pro-max-to-get-new-battery-that-could-last-longer?utm_medium=rss)<!-- TECH:END -->
+ - [How to Use AirDrop to Quickly Send Photos and Files     - CNET](https://www.cnet.com/tech/mobile/how-to-use-airdrop-to-quickly-send-photos-and-files/#ftag=CAD590a51e)
+ - [The 11 Best Early Memorial Day 2024 Mattress Deals](https://www.wired.com/story/best-mattress-deals/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

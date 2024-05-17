@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [From viking to legolas](http://9gag.com/gag/adB6gQB)
- - 😝 [Accurate](http://9gag.com/gag/aE0G84K)
- - 💣 [Terrifying](http://9gag.com/gag/arye3Q5)
- - 😝 [Switzerland](http://9gag.com/gag/aByQdpD)
- - 👉 [\u201cOh wow, that\u2019s a beautiful sunri\u2026\u201d](http://9gag.com/gag/a2vPKNY)<!-- MEMES:END -->
+ - 😝 [Sorry for no Potato](http://9gag.com/gag/a7oKomx)
+ - 😝 [This is not the revival of art I was expecting.](http://9gag.com/gag/avyZeLb)
+ - 💣 [Sounds familiar?](http://9gag.com/gag/a0ePXyL)
+ - 😝 [How the table didn&#39;t break with the weight of his balls?](http://9gag.com/gag/abAqObp)
+ - 👉 [Wishing all my fellow Norwegians a happy 17th of May! Drink responsibly.](http://9gag.com/gag/aPAymnq)<!-- MEMES:END -->
 
 ---
 

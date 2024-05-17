@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [9 Best Coolers WIRED Tested For Every Budget, Any Situation](https://www.wired.com/gallery/best-coolers/)
- - [No, Apple is not going to delete the Clown emoji from the iPhone](https://appleinsider.com/articles/24/05/17/no-apple-is-not-going-to-delete-the-clown-emoji-from-the-iphone?utm_medium=rss)
- - [Microsoft to add next Call of Duty to Xbox Game Pass, WSJ reports](https://www.theverge.com/2024/5/17/24158934/microsoft-call-of-duty-xbox-game-pass-plans)
- - [Best Monitor Deals: Save Big on Gaming and Work Monitors     - CNET](https://www.cnet.com/deals/best-monitor-deals/#ftag=CAD590a51e)
- - [Sources: Microsoft plans to add the latest installment of Call of Duty to Xbox Game Pass at launch this fall, a major shakeup of its video game sales strategy &lpar;Sarah E. Needleman/Wall Street Journal&rpar;](http://www.techmeme.com/240517/p11#a240517p11)<!-- TECH:END -->
+ - [Sources: Germany is nearing a decision to strip Huawei and ZTE components from the country&#39;s 5G core network by 2026 for national security reasons &lpar;Michael Nienaber/Bloomberg&rpar;](http://www.techmeme.com/240517/p12#a240517p12)
+ - [Honda expands its risky hydrogen investment with new fuel cell-powered semi truck](https://www.theverge.com/2024/5/17/24158945/honda-hydrogen-truck-concept-fuel-cell-class-8)
+ - [Twitter Is Finally Dead. It’s X All the Way Down](https://www.wired.com/story/twitter-dead-x-elon-musk/)
+ - [Russell T. Davies turned to fantasy to make Doctor Who think harder](https://www.theverge.com/24154028/doctor-who-russell-t-davies-interview)
+ - [9 Best Coolers WIRED Tested For Every Budget, Any Situation](https://www.wired.com/gallery/best-coolers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

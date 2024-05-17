@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Airplane mode is activated.](http://9gag.com/gag/aO8y4ZR)
- - 😝 [Sounds familiar?](http://9gag.com/gag/a0ePXyL)
- - 💣 [Wishing all my fellow Norwegians a happy 17th of May! Drink responsibly.](http://9gag.com/gag/aPAymnq)
- - 😝 [I miss my `nona`!](http://9gag.com/gag/a7oKeRr)
- - 👉 [How the table didn&#39;t break with the weight of his balls?](http://9gag.com/gag/abAqObp)<!-- MEMES:END -->
+ - 😝 [#1 Guinness #2 Internet](http://9gag.com/gag/aVvQE9O)
+ - 😝 [Accurate](http://9gag.com/gag/aE0G84K)
+ - 💣 [Find Waldo](http://9gag.com/gag/a4P9Pzd)
+ - 😝 [What&#39;s the German tradition here?](http://9gag.com/gag/aqyZygQ)
+ - 👉 [Irish man Loses his Mind After Losing His Home To Migrants](http://9gag.com/gag/aVvQbVM)<!-- MEMES:END -->
 
 ---
 

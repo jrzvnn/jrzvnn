@@ -159,8 +159,8 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iMessage experienced an outage on Thursday](https://appleinsider.com/articles/24/05/16/imessage-appears-to-be-experiencing-an-outage?utm_medium=rss)
  - [iMessage had an outage, but now it’s back](https://www.theverge.com/2024/5/16/24158595/imessage-down-outage-iphone-apple-text-messages)
- - [iMessage appears to be experiencing an outage](https://appleinsider.com/articles/24/05/16/imessage-appears-to-be-experiencing-an-outage?utm_medium=rss)
  - [Cicada Double Brood Is Coming and Is Already Buzzing in Some Regions     - CNET](https://www.cnet.com/science/cicada-double-brood-is-coming-and-is-already-buzzing-in-some-regions/#ftag=CAD590a51e)
  - [Apple previews Vehicle Motion Cues, which adds animated dots to iPhone and iPad screens to reduce motion sickness for passengers using them in moving vehicles &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/240516/p39#a240516p39)
  - [Watch &#39;RuPaul&#39;s Drag Race All Stars&#39; Season 9 From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/watch-rupauls-drag-race-all-stars-season-9-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->

@@ -160,10 +160,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Microsoft’s Surface AI event: news, rumors, and lots of Qualcomm laptops](https://www.theverge.com/24159022/microsoft-surface-ai-event-news-rumors-announcements)
- - [65&quot; LG C3 Series TV for Gaming     - CNET](https://www.cnet.com/tech/home-entertainment/65-lg-c3-series-tv-for-gaming-dpnl/#ftag=CAD590a51e)
  - [Head of Canada’s intelligence agency warns Canadians not to use TikTok](https://www.theverge.com/2024/5/17/24159310/canadian-security-intelligence-service-tiktok-china-user-data)
- - [Best Phone to Buy for 2024     - CNET](https://www.cnet.com/tech/mobile/best-phone/#ftag=CAD590a51e)
- - [20 Memorial Day Mattress Deals: Save Hundreds on Your Next Bed     - CNET](https://www.cnet.com/deals/best-memorial-day-mattress-deals-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Delta Emulator is changing its logo after Adobe threatened it](https://www.theverge.com/2024/5/17/24159268/delta-emulator-logo-change-app)
+ - [Meta is working on an Instagram feature called Peek that lets users post unedited, authentic pictures that can only be viewed once &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240517/p21#a240517p21)
+ - [Motorola’s next Razr lineup might have bigger front screens for everybody](https://www.theverge.com/2024/5/17/24159259/motorola-razr-ultra-plus-2024-leak-rumor)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cope](http://9gag.com/gag/a9yMzW0)
- - 😝 [Stop Defending this BS](http://9gag.com/gag/a34d455)
- - 💣 [Discipline](http://9gag.com/gag/aZZWnAW)
- - 😝 [This one sparks joy.](http://9gag.com/gag/azxL57N)
- - 👉 [Life Hack!](http://9gag.com/gag/aRBgL22)<!-- MEMES:END -->
+ - 😝 [What?](http://9gag.com/gag/aW40Gzx)
+ - 😝 [550 foot tall building with no windows in lower Manhattan, New York City](http://9gag.com/gag/a2vP7K1)
+ - 💣 [GOTY in cooking....???](http://9gag.com/gag/a7oKOvq)
+ - 😝 [Accurate](http://9gag.com/gag/aE0G84K)
+ - 👉 [Man who vanished age 17 is found alive in a hole after being held captive by his neighbour for 27 years](http://9gag.com/gag/a5QNX4y)<!-- MEMES:END -->
 
 ---
 

@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DreamCloud Is Offering Up to 50% Off Mattresses This Memorial Day     - CNET](https://www.cnet.com/deals/dreamcloud-memorial-day-deal-2024/#ftag=CAD590a51e)
  - [OLED iPad Pro owners discover grainy display problem](https://appleinsider.com/articles/24/05/17/oled-ipad-pro-owners-discover-grainy-display-problem?utm_medium=rss)
  - [There’s New Hope for an HIV Vaccine](https://www.wired.com/story/hiv-vaccine-broadly-neutralizing-antibodies/)
  - [How to use RetroArch to play retro games on iPhone and iPad](https://appleinsider.com/inside/ios/tips/how-to-use-retroarch-to-play-retro-games-on-iphone-and-ipad?utm_medium=rss)
- - [[Thread] Superalignment team co-lead explains why he has left, says OpenAI&#39;s safety culture and processes took a backseat to shiny products over the past years &lpar;Jan Leike/@janleike&rpar;](http://www.techmeme.com/240517/p18#a240517p18)
- - [Apple plans a thinner and more expensive iPhone 17 for 2025](https://appleinsider.com/articles/24/05/17/apple-plans-a-thinner-and-more-expensive-iphone-17-for-2025?utm_medium=rss)<!-- TECH:END -->
+ - [[Thread] Superalignment team co-lead explains why he has left, says OpenAI&#39;s safety culture and processes took a backseat to shiny products over the past years &lpar;Jan Leike/@janleike&rpar;](http://www.techmeme.com/240517/p18#a240517p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

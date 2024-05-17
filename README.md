@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They dont make anime like this anymore](http://9gag.com/gag/a9yM6LZ)
- - 😝 [Quite funny.](http://9gag.com/gag/a1mZm4D)
- - 💣 [Life Hack!](http://9gag.com/gag/aRBgL22)
- - 😝 [Wishing all my fellow Norwegians a happy 17th of May! Drink responsibly.](http://9gag.com/gag/aPAymnq)
- - 👉 [The new Assassin&#39;s Creed be like](http://9gag.com/gag/aW40pEd)<!-- MEMES:END -->
+ - 😝 [One does not simply walk into Moria](http://9gag.com/gag/aO8y3RD)
+ - 😝 [Accurate](http://9gag.com/gag/aE0G84K)
+ - 💣 [White knights to the rescue!](http://9gag.com/gag/abAq1gv)
+ - 😝 [Blood clot coughed up by a patient that perfectly shaped the lung\u2019s cavity it filled.](http://9gag.com/gag/aD2w6Ow)
+ - 👉 [\u201cOh wow, that\u2019s a beautiful sunri\u2026\u201d](http://9gag.com/gag/a2vPKNY)<!-- MEMES:END -->
 
 ---
 

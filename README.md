@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m still waiting](http://9gag.com/gag/an7Xn6B)
- - 😝 [How the table didn&#39;t break with the weight of his balls?](http://9gag.com/gag/abAqObp)
- - 💣 [Testing a 1920 microphone](http://9gag.com/gag/a9yMvw6)
- - 😝 [Title is working in civil society](http://9gag.com/gag/ayNp3Zq)
- - 👉 [Bro was honest in his resume](http://9gag.com/gag/aryeA66)<!-- MEMES:END -->
+ - 😝 [Ronnie James Dio recording for JB&#39;s Kickapoo song](http://9gag.com/gag/azxL5GB)
+ - 😝 [Find Waldo](http://9gag.com/gag/a4P9Pzd)
+ - 💣 [Switzerland](http://9gag.com/gag/aByQdpD)
+ - 😝 [Man who vanished age 17 is found alive in a hole after being held captive by his neighbour for 27 years](http://9gag.com/gag/a5QNX4y)
+ - 👉 [Our, you scallywag, you got a loicense for that?!?!](http://9gag.com/gag/awybm6R)<!-- MEMES:END -->
 
 ---
 

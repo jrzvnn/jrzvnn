@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Blood clot coughed up by a patient that perfectly shaped the lung\u2019s cavity it filled.](http://9gag.com/gag/aD2w6Ow)
- - 😝 [550 foot tall building with no windows in lower Manhattan, New York City](http://9gag.com/gag/a2vP7K1)
- - 💣 [What&#39;s the German tradition here?](http://9gag.com/gag/aqyZygQ)
- - 😝 [White knights to the rescue!](http://9gag.com/gag/abAq1gv)
- - 👉 [One does not simply walk into Moria](http://9gag.com/gag/aO8y3RD)<!-- MEMES:END -->
+ - 😝 [They dont make anime like this anymore](http://9gag.com/gag/a9yM6LZ)
+ - 😝 [Quite funny.](http://9gag.com/gag/a1mZm4D)
+ - 💣 [Life Hack!](http://9gag.com/gag/aRBgL22)
+ - 😝 [Wishing all my fellow Norwegians a happy 17th of May! Drink responsibly.](http://9gag.com/gag/aPAymnq)
+ - 👉 [The new Assassin&#39;s Creed be like](http://9gag.com/gag/aW40pEd)<!-- MEMES:END -->
 
 ---
 

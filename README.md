@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What?](http://9gag.com/gag/aW40Gzx)
+ - 😝 [I see what you did there](http://9gag.com/gag/aKGgm4N)
  - 😝 [550 foot tall building with no windows in lower Manhattan, New York City](http://9gag.com/gag/a2vP7K1)
- - 💣 [GOTY in cooking....???](http://9gag.com/gag/a7oKOvq)
- - 😝 [Accurate](http://9gag.com/gag/aE0G84K)
- - 👉 [Man who vanished age 17 is found alive in a hole after being held captive by his neighbour for 27 years](http://9gag.com/gag/a5QNX4y)<!-- MEMES:END -->
+ - 💣 [What&#39;s the German tradition here?](http://9gag.com/gag/aqyZygQ)
+ - 😝 [In a viral video clip on social media it is discovered that a street vendor was cooking pharata in diesel oil and later it was found that he has been cooking it in diesel for almost 35 years](http://9gag.com/gag/ajP6mAp)
+ - 👉 [Tough question, or is it?](http://9gag.com/gag/axy2oGb)<!-- MEMES:END -->
 
 ---
 

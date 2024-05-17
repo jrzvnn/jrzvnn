@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Peabrained](http://9gag.com/gag/aQzpzDK)
- - 😝 [Cope](http://9gag.com/gag/a9yMzW0)
- - 💣 [Stop Defending this BS](http://9gag.com/gag/a34d455)
- - 😝 [This one sparks joy.](http://9gag.com/gag/azxL57N)
- - 👉 [Life Hack!](http://9gag.com/gag/aRBgL22)<!-- MEMES:END -->
+ - 😝 [One does not simply walk into Moria](http://9gag.com/gag/aO8y3RD)
+ - 😝 [In a viral video clip on social media it is discovered that a street vendor was cooking pharata in diesel oil and later it was found that he has been cooking it in diesel for almost 35 years](http://9gag.com/gag/ajP6mAp)
+ - 💣 [It&#39;s important!!](http://9gag.com/gag/adB68qV)
+ - 😝 [550 foot tall building with no windows in lower Manhattan, New York City](http://9gag.com/gag/a2vP7K1)
+ - 👉 [Oh the humanity](http://9gag.com/gag/aAyVb2Z)<!-- MEMES:END -->
 
 ---
 

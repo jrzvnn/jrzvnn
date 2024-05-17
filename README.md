@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [6 Best Cheap Smartphones &lpar;2024&rpar;: iPhone, Android, 5G](https://www.wired.com/story/best-cheap-phones/)
+ - [The EU warns Microsoft it could be fined up to 1% of its global annual turnover under DSA after failing to provide risk info about its generative AI tools &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240517/p9#a240517p9)
  - [How to Use ‘Circle to Search’ on an Android Phone](https://www.wired.com/story/how-to-use-circle-to-search-android/)
- - [Microsoft partnership with Mistral AI will avoid a UK antitrust probe after the CMA finds Microsoft can&#39;t &quot;materially influence&quot; Mistral&#39;s commercial policy &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/240517/p8#a240517p8)
- - [Merchants in Japan can finally use Tap to Pay for iPhone](https://appleinsider.com/articles/24/05/17/merchants-in-japan-can-finally-use-tap-to-pay-for-iphone?utm_medium=rss)
- - [iPad Pro hands on: Luxury technology in an impossibly-thin package](https://appleinsider.com/articles/24/05/17/ipad-pro-hands-on-luxury-technology-in-an-impossibly-thin-package?utm_medium=rss)
- - [25 Best REI Anniversary Sale Deals: Fitness Trackers, Tents, Sleeping Bags, Outdoor Apparel](https://www.wired.com/story/rei-anniversary-sale-may-2024/)<!-- TECH:END -->
+ - [Microsoft&#39;s partnership with Mistral AI will avoid a UK antitrust probe after the CMA finds Microsoft can&#39;t &quot;materially influence&quot; Mistral&#39;s commercial policy &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/240517/p8#a240517p8)
+ - [Merchants in Japan can finally use Tap to Pay for iPhone](https://appleinsider.com/articles/24/05/17/merchants-in-japan-can-finally-use-tap-to-pay-for-iphone?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

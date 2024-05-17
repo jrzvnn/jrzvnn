@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft’s Surface AI event: news, rumors, and lots of Qualcomm laptops](https://www.theverge.com/24159022/microsoft-surface-ai-event-news-rumors-announcements)
  - [Head of Canada’s intelligence agency warns Canadians not to use TikTok](https://www.theverge.com/2024/5/17/24159310/canadian-security-intelligence-service-tiktok-china-user-data)
  - [The Delta Emulator is changing its logo after Adobe threatened it](https://www.theverge.com/2024/5/17/24159268/delta-emulator-logo-change-app)
  - [Meta is working on an Instagram feature called Peek that lets users post unedited, authentic pictures that can only be viewed once &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240517/p21#a240517p21)
- - [Motorola’s next Razr lineup might have bigger front screens for everybody](https://www.theverge.com/2024/5/17/24159259/motorola-razr-ultra-plus-2024-leak-rumor)
- - [Valve’s next game may have just leaked](https://www.theverge.com/2024/5/17/24159222/valve-new-game-deadlock-multiplayer-hero-shooter)<!-- TECH:END -->
+ - [Motorola’s next Razr lineup might have bigger front screens for everybody](https://www.theverge.com/2024/5/17/24159259/motorola-razr-ultra-plus-2024-leak-rumor)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

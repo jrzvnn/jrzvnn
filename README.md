@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Single-tap passkeys are coming Android 15](https://www.theverge.com/2024/5/17/24158963/gboard-passkeys-android-15-wear-os-5)
  - [OpenAI&#39;s entire Superalignment team, which was focused on the existential dangers of AI, has either resigned or been absorbed into other research groups &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/240517/p13#a240517p13)
  - [New Teslas might lose Steam](https://www.theverge.com/2024/5/17/24158929/tesla-steam-discontinue-new-model-x-delivery-s-cybertruck)
  - [OpenAI’s Long-Term AI Risk Team Has Disbanded](https://www.wired.com/story/openai-superalignment-team-disbanded/)
- - [The Verge’s 2024 graduation gift guide](https://www.theverge.com/24126218/graduation-grad-gift-ideas-2024-college-high-school-dorm-tech-gadgets)
- - [Berlin Apple Store vandalized by Congo activists](https://appleinsider.com/articles/24/05/17/berlin-apple-store-vandalized-by-congo-activists?utm_medium=rss)<!-- TECH:END -->
+ - [The Verge’s 2024 graduation gift guide](https://www.theverge.com/24126218/graduation-grad-gift-ideas-2024-college-high-school-dorm-tech-gadgets)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

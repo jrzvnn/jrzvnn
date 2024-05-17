@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [From viking to legolas](http://9gag.com/gag/adB6gQB)
- - 😝 [Darth Vader&#39;s apprentice no one talks about](http://9gag.com/gag/ae939Bv)
- - 💣 [New York City Portal Shut Down After OnlyFans Model Flashes Dublin](http://9gag.com/gag/an7Xz9E)
- - 😝 [No comment](http://9gag.com/gag/a0ePNNz)
- - 👉 [47 minute footage.](http://9gag.com/gag/amoLP24)<!-- MEMES:END -->
+ - 😝 [The Dutch have a new kabinet. Strikt rules for Illigal immigration and hard penalty&#39;s for foreign law breakers. Thanks to Geert Wilders \ud83c\uddf3\ud83c\uddf1](http://9gag.com/gag/aKGgE0g)
+ - 😝 [Cope](http://9gag.com/gag/a9yMzW0)
+ - 💣 [Peabrained](http://9gag.com/gag/aQzpzDK)
+ - 😝 [`imma fight for my life, wait.. I am willing to take you as my slave`](http://9gag.com/gag/aGyVL25)
+ - 👉 [This one sparks joy.](http://9gag.com/gag/azxL57N)<!-- MEMES:END -->
 
 ---
 

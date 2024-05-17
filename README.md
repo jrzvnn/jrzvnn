@@ -159,11 +159,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Use ‘Circle to Search’ on an Android Phone](https://www.wired.com/story/how-to-use-circle-to-search-android/)
+ - [Microsoft partnership with Mistral AI will avoid a UK antitrust probe after the CMA finds Microsoft can&#39;t &quot;materially influence&quot; Mistral&#39;s commercial policy &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/240517/p8#a240517p8)
  - [Merchants in Japan can finally use Tap to Pay for iPhone](https://appleinsider.com/articles/24/05/17/merchants-in-japan-can-finally-use-tap-to-pay-for-iphone?utm_medium=rss)
  - [iPad Pro hands on: Luxury technology in an impossibly-thin package](https://appleinsider.com/articles/24/05/17/ipad-pro-hands-on-luxury-technology-in-an-impossibly-thin-package?utm_medium=rss)
- - [25 Best REI Anniversary Sale Deals: Fitness Trackers, Tents, Sleeping Bags, Outdoor Apparel](https://www.wired.com/story/rei-anniversary-sale-may-2024/)
- - [Reddit brings back its old award system — ‘we messed up’](https://www.theverge.com/2024/5/17/24158848/reddit-brings-back-award-system-gold-coins-messed-up)
- - [Cloud GPU provider CoreWeave raised $7.5B in debt financing, two weeks after raising $1.1B equity funding at a $19B valuation; it raised $2.3B in debt in 2023 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240517/p7#a240517p7)<!-- TECH:END -->
+ - [25 Best REI Anniversary Sale Deals: Fitness Trackers, Tents, Sleeping Bags, Outdoor Apparel](https://www.wired.com/story/rei-anniversary-sale-may-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

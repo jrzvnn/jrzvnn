@@ -160,10 +160,10 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Slack confirms it is training some of its AI-powered features, but not its generative AI tool, on user content and uploads, with all users opted-in by default &lpar;Kate Irwin/PCMag&rpar;](http://www.techmeme.com/240517/p14#a240517p14)
+ - [Turn Your Old Smartphone Into a Home Security Camera for Free: Here&#39;s How     - CNET](https://www.cnet.com/home/security/turn-your-old-smartphone-into-a-home-security-camera-for-free-heres-how/#ftag=CAD590a51e)
+ - [5 Reasons You Probably Need Renters Insurance     - CNET](https://www.cnet.com/personal-finance/insurance/5-reasons-you-probably-need-renters-insurance/#ftag=CAD590a51e)
  - [Single-tap passkeys are coming to Android 15](https://www.theverge.com/2024/5/17/24158963/gboard-passkeys-android-15-wear-os-5)
- - [OpenAI&#39;s entire Superalignment team, which was focused on the existential dangers of AI, has either resigned or been absorbed into other research groups &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/240517/p13#a240517p13)
- - [New Teslas might lose Steam](https://www.theverge.com/2024/5/17/24158929/tesla-steam-discontinue-new-model-x-delivery-s-cybertruck)
- - [OpenAI’s Long-Term AI Risk Team Has Disbanded](https://www.wired.com/story/openai-superalignment-team-disbanded/)<!-- TECH:END -->
+ - [OpenAI&#39;s entire Superalignment team, which was focused on the existential dangers of AI, has either resigned or been absorbed into other research groups &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/240517/p13#a240517p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ Go                       1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Dutch have a new kabinet. Strikt rules for Illigal immigration and hard penalty&#39;s for foreign law breakers. Thanks to Geert Wilders \ud83c\uddf3\ud83c\uddf1](http://9gag.com/gag/aKGgE0g)
- - 😝 [I&#39;m in this video and i don&#39;t like it](http://9gag.com/gag/a2vPK9e)
- - 💣 [Life Hack!](http://9gag.com/gag/aRBgL22)
- - 😝 [Stop Defending this BS](http://9gag.com/gag/a34d455)
- - 👉 [This one sparks joy.](http://9gag.com/gag/azxL57N)<!-- MEMES:END -->
+ - 😝 [Neill Confidence man](http://9gag.com/gag/a0eP4nO)
+ - 😝 [550 foot tall building with no windows in lower Manhattan, New York City](http://9gag.com/gag/a2vP7K1)
+ - 💣 [I see what you did there](http://9gag.com/gag/aKGgm4N)
+ - 😝 [It&#39;s important!!](http://9gag.com/gag/adB68qV)
+ - 👉 [New York City Portal Shut Down After OnlyFans Model Flashes Dublin](http://9gag.com/gag/an7Xz9E)<!-- MEMES:END -->
 
 ---
 

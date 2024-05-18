@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Netflix co-CEO Greg Peters, who led the company&#39;s successful crackdown on password sharing and is now pushing a focus on live programming &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/240518/p11#a240518p11)
+ - [Apple to increase trade-in value of older iPhones in new promotion](https://appleinsider.com/articles/24/05/18/apple-to-increase-trade-in-value-of-older-iphones-in-new-promotion?utm_medium=rss)
  - [The Preakness Stakes 2024: How to Watch Today&#39;s Race From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/the-preakness-stakes-2024-how-to-watch-todays-race-from-anywhere/#ftag=CAD590a51e)
  - [Eat the Right Type of Sugar With These 6 Natural Alternatives     - CNET](https://www.cnet.com/health/nutrition/eat-the-right-type-of-sugar-with-these-6-natural-alternatives/#ftag=CAD590a51e)
- - [Best Apple Watch Deals: Save on Series 9, Ultra 2, SE and More     - CNET](https://www.cnet.com/deals/best-apple-watch-deals/#ftag=CAD590a51e)
- - [Amazon Book Sale: Snag Stellar Savings on New Books Right Now     - CNET](https://www.cnet.com/deals/amazon-book-sale-snag-stellar-savings-on-new-books-right-now/#ftag=CAD590a51e)
- - [Max: The 34 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/tech/services-and-software/max-the-34-absolute-best-tv-shows-to-stream-may-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Apple Watch Deals: Save on Series 9, Ultra 2, SE and More     - CNET](https://www.cnet.com/deals/best-apple-watch-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -163,8 +163,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Sam Altman says he is embarrassed that there was a provision about potential equity cancellation in exit docs, and OpenAI never took back anyone&#39;s vested equity &lpar;Sam Altman/@sama&rpar;](http://www.techmeme.com/240518/p15#a240518p15)
  - [Blue Origin’s first crewed launch since 2022: Where to watch](https://www.theverge.com/2024/5/18/24159826/blue-origin-first-crewed-launch-since-2022-where-to-watch)
  - [Schiller fails to convince skeptical judge over Apple&#39;s App Store fees](https://appleinsider.com/articles/24/05/18/schiller-fails-to-convince-skeptical-judge-over-apples-app-store-fees?utm_medium=rss)
- - [Despite some skeptics claiming that AI is an industry-wide delusion, last week&#39;s demos from OpenAI and Google show that the rate of AI progress is not slowing &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/240518/p14#a240518p14)
- - [Best Galaxy Watch Deals: Free With Trade-In or Get $60 Off a Galaxy Watch 6, Up to $197 Off Galaxy Watch 5 Pro     - CNET](https://www.cnet.com/deals/best-galaxy-watch-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Amazon Deals: Get Tech Gadgets, Outdoor Gear and More Under $100     - CNET](https://www.cnet.com/deals/best-amazon-deals-get-tech-gadgets-outdoor-gear-and-more-under-100/#ftag=CAD590a51e)
+ - [Despite some skeptics claiming that AI is an industry-wide delusion, last week&#39;s demos from OpenAI and Google show that the rate of AI progress is not slowing &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/240518/p14#a240518p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

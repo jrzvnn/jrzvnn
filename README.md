@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [France](http://9gag.com/gag/aryeydX)
  - 😝 [Gambling 20k like nothing](http://9gag.com/gag/awyb15B)
- - 😝 [Blood clot coughed up by a patient that perfectly shaped the lung\u2019s cavity it filled.](http://9gag.com/gag/aD2w6Ow)
- - 💣 [Inflation](http://9gag.com/gag/aAyV63E)
- - 😝 [Passing the mantle](http://9gag.com/gag/a34d0bQ)
- - 👉 [How about an actual japanese samurai](http://9gag.com/gag/axy23Ob)<!-- MEMES:END -->
+ - 💣 [Can you name all of them?](http://9gag.com/gag/aZZWnzp)
+ - 😝 [How about an actual japanese samurai](http://9gag.com/gag/axy23Ob)
+ - 👉 [Smart people and their wrong predictions](http://9gag.com/gag/aD2w8qZ)<!-- MEMES:END -->
 
 ---
 

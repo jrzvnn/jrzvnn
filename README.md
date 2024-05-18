@@ -161,10 +161,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Replacing the OLED iPad Pro’s battery is easier than ever](https://www.theverge.com/2024/5/18/24159722/ifixit-teardown-apple-oled-ipad-pro-13-inch)
+ - [I Traveled to 36 Countries This Past Year. The Card I Reached for the Most Surprised Me     - CNET](https://www.cnet.com/personal-finance/the-most-useful-card-on-my-8-month-backpacking-trip-around-the-world-wasnt-a-credit-card-at-all/#ftag=CAD590a51e)
  - [Sam Altman and Greg Brockman respond to Jan Leike, say they&#39;ve raised awareness of the risks and opportunities of AGI, will keep doing safety research, and more &lpar;Greg Brockman/@gdb&rpar;](http://www.techmeme.com/240518/p12#a240518p12)
- - [Best iPhone 15 Deals: Get a Free Phone With a Trade-In or New Line     - CNET](https://www.cnet.com/deals/best-iphone-15-deals/#ftag=CAD590a51e)
- - [I Could Never Afford a Home in LA. Then I Discovered Tiny Homes     - CNET](https://www.cnet.com/personal-finance/i-could-never-afford-a-home-in-la-then-i-discovered-tiny-homes/#ftag=CAD590a51e)
- - [Ecobee’s Smart Thermostat Premium is nearly matching its all-time low](https://www.theverge.com/2024/5/18/24159171/ecobee-smart-thermostat-premium-xbox-wireless-controller-deal-sale)<!-- TECH:END -->
+ - [Closed Your Chime Account? You May Be Owed $150     - CNET](https://www.cnet.com/personal-finance/closed-a-chime-account-you-could-get-150-if-you-didnt-get-a-refund-on-time/#ftag=CAD590a51e)
+ - [Best Innerspring Mattresses in 2024     - CNET](https://www.cnet.com/health/sleep/best-innerspring-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -170,10 +170,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Passing the mantle](http://9gag.com/gag/a34d0bQ)
- - 😝 [How about an actual japanese samurai](http://9gag.com/gag/axy23Ob)
+ - 😝 [He ducked a bullet.](http://9gag.com/gag/aD2wZGN)
  - 💣 [Find Waldo](http://9gag.com/gag/a4P9Pzd)
- - 😝 [Inflation](http://9gag.com/gag/aAyV63E)
- - 👉 [France](http://9gag.com/gag/aryeydX)<!-- MEMES:END -->
+ - 😝 [Can you name all of them?](http://9gag.com/gag/aZZWnzp)
+ - 👉 [How about an actual japanese samurai](http://9gag.com/gag/axy23Ob)<!-- MEMES:END -->
 
 ---
 

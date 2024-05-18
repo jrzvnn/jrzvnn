@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Be a better man than your father](http://9gag.com/gag/aNDoBgv)
- - 😝 [Wholesome grandpa doesn&#39;t believe he&#39;s 90+](http://9gag.com/gag/aMVbnXA)
- - 💣 [Facts](http://9gag.com/gag/aGyVM50)
- - 😝 [Polish alphabet](http://9gag.com/gag/a5QNzEg)
- - 👉 [Real creator of the IP left ubisoft after AC Brotherhood](http://9gag.com/gag/ae93xYj)<!-- MEMES:END -->
+ - 😝 [It\u2019s 2024 and i still don\u2019t know how McLovin did this](http://9gag.com/gag/aryex56)
+ - 😝 [How about an actual japanese samurai](http://9gag.com/gag/axy23Ob)
+ - 💣 [Inflation](http://9gag.com/gag/aAyV63E)
+ - 😝 [Blood clot coughed up by a patient that perfectly shaped the lung\u2019s cavity it filled.](http://9gag.com/gag/aD2w6Ow)
+ - 👉 [Passing the mantle](http://9gag.com/gag/a34d0bQ)<!-- MEMES:END -->
 
 ---
 

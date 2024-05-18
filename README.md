@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Razer Fujin Pro Gaming Chair Review: Giving My Back an Extra Life](https://www.wired.com/review/razer-fujin-pro/)
- - [This smart smoker makes barbecuing indoors a breeze](https://www.theverge.com/24159117/ge-profile-smart-indoor-smoker-review)
- - [How bots monopolizing DeviantArt&#39;s promotional and revenue apparatuses and the platform&#39;s unwillingness to address the issue are driving artists to abandon it &lpar;Nitish Pahwa/Slate&rpar;](http://www.techmeme.com/240518/p10#a240518p10)
- - [18 Best Gaming Headsets &lpar;2024&rpar;: Wired, Wireless, for Switch, PC, Xbox, PS5, and PS4](https://www.wired.com/gallery/best-gaming-headsets/)
- - [Best Verizon Plans: How to Choose and Which Ones to Pick in May 2024     - CNET](https://www.cnet.com/tech/mobile/best-verizon-plans/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Preakness Stakes 2024: How to Watch Today&#39;s Race From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/the-preakness-stakes-2024-how-to-watch-todays-race-from-anywhere/#ftag=CAD590a51e)
+ - [Eat the Right Type of Sugar With These 6 Natural Alternatives     - CNET](https://www.cnet.com/health/nutrition/eat-the-right-type-of-sugar-with-these-6-natural-alternatives/#ftag=CAD590a51e)
+ - [Best Apple Watch Deals: Save on Series 9, Ultra 2, SE and More     - CNET](https://www.cnet.com/deals/best-apple-watch-deals/#ftag=CAD590a51e)
+ - [Amazon Book Sale: Snag Stellar Savings on New Books Right Now     - CNET](https://www.cnet.com/deals/amazon-book-sale-snag-stellar-savings-on-new-books-right-now/#ftag=CAD590a51e)
+ - [Max: The 34 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/tech/services-and-software/max-the-34-absolute-best-tv-shows-to-stream-may-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

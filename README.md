@@ -164,7 +164,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Sugar’s big twist was more than a gimmick](https://www.theverge.com/24158879/sugar-apple-tv-plus-finale-review)
  - [Training AI on stereotypical facial expressions is bound to mislead because scientific evidence indicates that there are no universal expressions of emotion &lpar;Lisa Feldman Barrett/Wall Street Journal&rpar;](http://www.techmeme.com/240518/p9#a240518p9)
  - [Best Google Pixel Phone &lpar;2024&rpar;: Which Model to Buy, Cases and Accessories, Feature Drops](https://www.wired.com/story/best-google-pixel-phone/)
- - [Best VPN for Amazon Fire TV Stick in 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-firestick/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Remove Annoying News Widgets From Windows 11](https://www.wired.com/story/how-to-remove-news-articles-from-windows-11-widget-board/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

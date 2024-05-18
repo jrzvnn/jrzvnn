@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can you name all of them?](http://9gag.com/gag/aZZWnzp)
- - 😝 [How about an actual japanese samurai](http://9gag.com/gag/axy23Ob)
- - 💣 [Smart people and their wrong predictions](http://9gag.com/gag/aD2w8qZ)
- - 😝 [Gambling 20k like nothing](http://9gag.com/gag/awyb15B)
- - 👉 [Find Waldo](http://9gag.com/gag/a4P9Pzd)<!-- MEMES:END -->
+ - 😝 [Mentally ill](http://9gag.com/gag/ae93OLj)
+ - 😝 [Bro was honest in his resume](http://9gag.com/gag/aryeA66)
+ - 💣 [I&#39;m still waiting](http://9gag.com/gag/an7Xn6B)
+ - 😝 [Passing the mantle](http://9gag.com/gag/a34d0bQ)
+ - 👉 [I miss my `nona`!](http://9gag.com/gag/a7oKeRr)<!-- MEMES:END -->
 
 ---
 

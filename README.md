@@ -163,8 +163,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Ecobee’s Smart Thermostat Premium is nearly matching its all-time low](https://www.theverge.com/2024/5/18/24159171/ecobee-smart-thermostat-premium-xbox-wireless-controller-deal-sale)
  - [A profile of Netflix co-CEO Greg Peters, who led the company&#39;s successful crackdown on password sharing and is now pushing a focus on live programming &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/240518/p11#a240518p11)
  - [Apple to increase trade-in value of older iPhones in new promotion](https://appleinsider.com/articles/24/05/18/apple-to-increase-trade-in-value-of-older-iphones-in-new-promotion?utm_medium=rss)
- - [The Preakness Stakes 2024: How to Watch Today&#39;s Race From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/the-preakness-stakes-2024-how-to-watch-todays-race-from-anywhere/#ftag=CAD590a51e)
- - [Eat the Right Type of Sugar With These 6 Natural Alternatives     - CNET](https://www.cnet.com/health/nutrition/eat-the-right-type-of-sugar-with-these-6-natural-alternatives/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [7 Techniques to Transform How You Manage Your Depression     - CNET](https://www.cnet.com/health/mental/7-techniques-to-transform-how-you-manage-your-depression/#ftag=CAD590a51e)
+ - [The Preakness Stakes 2024: How to Watch Today&#39;s Race From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/the-preakness-stakes-2024-how-to-watch-todays-race-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What&#39;s going on here?](http://9gag.com/gag/ae931z5)
- - 😝 [Blood clot coughed up by a patient that perfectly shaped the lung\u2019s cavity it filled.](http://9gag.com/gag/aD2w6Ow)
- - 💣 [This one deserves a moment of silence and some respect.](http://9gag.com/gag/aLnQ47z)
- - 😝 [20 years working together. They&#39;re married to different people. Either women aren&#39;t obvious enough or men are truly clueless.](http://9gag.com/gag/aoyZVX3)
- - 👉 [How about an actual japanese samurai](http://9gag.com/gag/axy23Ob)<!-- MEMES:END -->
+ - 😝 [This pedophile was identified when police uncovered his identity by reversing the &#39;swirl&#39; effect he used online](http://9gag.com/gag/awybL48)
+ - 😝 [A god does not care about the opinion of an ant. Mike Tyson owning whatshisface by doing nothing.](http://9gag.com/gag/a9yMvgj)
+ - 💣 [Passing the mantle](http://9gag.com/gag/a34d0bQ)
+ - 😝 [Gambling 20k like nothing](http://9gag.com/gag/awyb15B)
+ - 👉 [Inflation](http://9gag.com/gag/aAyV63E)<!-- MEMES:END -->
 
 ---
 

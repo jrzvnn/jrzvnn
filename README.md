@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Replacing the OLED iPad Pro’s battery is easier than ever](https://www.theverge.com/2024/5/18/24159722/ifixit-teardown-apple-oled-ipad-pro-13-inch)
  - [Sam Altman and Greg Brockman respond to Jan Leike, say they&#39;ve raised awareness of the risks and opportunities of AGI, will keep doing safety research, and more &lpar;Greg Brockman/@gdb&rpar;](http://www.techmeme.com/240518/p12#a240518p12)
  - [Best iPhone 15 Deals: Get a Free Phone With a Trade-In or New Line     - CNET](https://www.cnet.com/deals/best-iphone-15-deals/#ftag=CAD590a51e)
  - [I Could Never Afford a Home in LA. Then I Discovered Tiny Homes     - CNET](https://www.cnet.com/personal-finance/i-could-never-afford-a-home-in-la-then-i-discovered-tiny-homes/#ftag=CAD590a51e)
- - [Ecobee’s Smart Thermostat Premium is nearly matching its all-time low](https://www.theverge.com/2024/5/18/24159171/ecobee-smart-thermostat-premium-xbox-wireless-controller-deal-sale)
- - [Best Galaxy S24 Deals: Save Up to $1,000 Off a New Phone With Trade-In     - CNET](https://www.cnet.com/deals/best-galaxy-s24-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ecobee’s Smart Thermostat Premium is nearly matching its all-time low](https://www.theverge.com/2024/5/18/24159171/ecobee-smart-thermostat-premium-xbox-wireless-controller-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

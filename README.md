@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Smart people and their wrong predictions](http://9gag.com/gag/aD2w8qZ)
  - 😝 [Can you name all of them?](http://9gag.com/gag/aZZWnzp)
- - 💣 [He was in no rush](http://9gag.com/gag/a7oKemA)
- - 😝 [How about an actual japanese samurai](http://9gag.com/gag/axy23Ob)
- - 👉 [Gambling 20k like nothing](http://9gag.com/gag/awyb15B)<!-- MEMES:END -->
+ - 😝 [He ducked a bullet.](http://9gag.com/gag/aD2wZGN)
+ - 💣 [Gambling 20k like nothing](http://9gag.com/gag/awyb15B)
+ - 😝 [#1 Guinness #2 Internet](http://9gag.com/gag/aVvQE9O)
+ - 👉 [How about an actual japanese samurai](http://9gag.com/gag/axy23Ob)<!-- MEMES:END -->
 
 ---
 

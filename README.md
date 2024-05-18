@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It\u2019s 2024 and i still don\u2019t know how McLovin did this](http://9gag.com/gag/aryex56)
- - 😝 [How about an actual japanese samurai](http://9gag.com/gag/axy23Ob)
- - 💣 [Inflation](http://9gag.com/gag/aAyV63E)
- - 😝 [Blood clot coughed up by a patient that perfectly shaped the lung\u2019s cavity it filled.](http://9gag.com/gag/aD2w6Ow)
- - 👉 [Passing the mantle](http://9gag.com/gag/a34d0bQ)<!-- MEMES:END -->
+ - 😝 [Bangladeshi Fruit Vendor Trying to Protect His Grapes from Train Passengers](http://9gag.com/gag/a7oKVmL)
+ - 😝 [Be a better man than your father](http://9gag.com/gag/aNDoBgv)
+ - 💣 [Real creator of the IP left ubisoft after AC Brotherhood](http://9gag.com/gag/ae93xYj)
+ - 😝 [Some people have amazing talent.](http://9gag.com/gag/aO8yDNy)
+ - 👉 [This one sparks joy](http://9gag.com/gag/avyZxAn)<!-- MEMES:END -->
 
 ---
 

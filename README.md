@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [6 Major Sales Left in 2024: Tips to Get the Best Deals From Memorial Day Sales and Beyond     - CNET](https://www.cnet.com/tech/6-major-sales-left-in-2024-tips-to-get-the-best-deals-from-memorial-day-sales-and-beyond/#ftag=CAD590a51e)
  - [The Palantir-sponsored AI Expo for National Competitiveness featured VR headsets for soldiers, a map tool that can &quot;nominate targets of interest&quot;, and more &lpar;Caroline Haskins/The Guardian&rpar;](http://www.techmeme.com/240518/p7#a240518p7)
  - [How Big Dairy Took Over Your TikTok Feed—With Help from Uncle Sam](https://www.wired.com/story/milk-dairy-tiktok-x-instagram-social-feed-takeover/)
  - [Honda plans to invest ~$12.8B in software over the decade up to the FY ending March 2031, as it prepares to join the rapid shift to EVs in markets like China &lpar;Yuichi Shiga/Nikkei Asia&rpar;](http://www.techmeme.com/240518/p6#a240518p6)
- - [Access Now: 2023 was the worst year for internet shutdowns since monitoring began in 2016, with 283 shutdowns across 39 countries, led by India at 116 &lpar;Astha Rajvanshi/TIME&rpar;](http://www.techmeme.com/240518/p5#a240518p5)
- - [A US judge approves Genesis Global Capital&#39;s Chapter 11 repayment plan to return Bitcoin and other tokens to creditors, defeating a challenge by its parent DCG &lpar;Jonathan Randles/Bloomberg&rpar;](http://www.techmeme.com/240518/p4#a240518p4)<!-- TECH:END -->
+ - [Access Now: 2023 was the worst year for internet shutdowns since monitoring began in 2016, with 283 shutdowns across 39 countries, led by India at 116 &lpar;Astha Rajvanshi/TIME&rpar;](http://www.techmeme.com/240518/p5#a240518p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m still waiting](http://9gag.com/gag/an7Xn6B)
- - 😝 [I miss my `nona`!](http://9gag.com/gag/a7oKeRr)
- - 💣 [What men should know](http://9gag.com/gag/awybmMR)
- - 😝 [Passing the mantle](http://9gag.com/gag/a34d0bQ)
- - 👉 [Our, you scallywag, you got a loicense for that?!?!](http://9gag.com/gag/awybm6R)<!-- MEMES:END -->
+ - 😝 [Smart people and their wrong predictions](http://9gag.com/gag/aD2w8qZ)
+ - 😝 [Can you name all of them?](http://9gag.com/gag/aZZWnzp)
+ - 💣 [He was in no rush](http://9gag.com/gag/a7oKemA)
+ - 😝 [How about an actual japanese samurai](http://9gag.com/gag/axy23Ob)
+ - 👉 [Gambling 20k like nothing](http://9gag.com/gag/awyb15B)<!-- MEMES:END -->
 
 ---
 

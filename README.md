@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Passing the mantle](http://9gag.com/gag/a34d0bQ)
- - 😝 [Mentally ill](http://9gag.com/gag/ae93OLj)
- - 💣 [Bro was honest in his resume](http://9gag.com/gag/aryeA66)
+ - 😝 [Testing a 1920 microphone](http://9gag.com/gag/a9yMvw6)
+ - 😝 [Bro was honest in his resume](http://9gag.com/gag/aryeA66)
+ - 💣 [Mentally ill](http://9gag.com/gag/ae93OLj)
  - 😝 [I&#39;m still waiting](http://9gag.com/gag/an7Xn6B)
- - 👉 [I miss my `nona`!](http://9gag.com/gag/a7oKeRr)<!-- MEMES:END -->
+ - 👉 [What men should know](http://9gag.com/gag/awybmMR)<!-- MEMES:END -->
 
 ---
 

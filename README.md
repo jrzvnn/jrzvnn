@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Logitech Casa Pop-Up Desk Review: A Cute Portable Workstation](https://www.wired.com/review/logitech-casa-pop-up-desk/)
+ - [Sugar’s big twist was more than a gimmick](https://www.theverge.com/24158879/sugar-apple-tv-plus-finale-review)
  - [Training AI on stereotypical facial expressions is bound to mislead because scientific evidence indicates that there are no universal expressions of emotion &lpar;Lisa Feldman Barrett/Wall Street Journal&rpar;](http://www.techmeme.com/240518/p9#a240518p9)
  - [Best Google Pixel Phone &lpar;2024&rpar;: Which Model to Buy, Cases and Accessories, Feature Drops](https://www.wired.com/story/best-google-pixel-phone/)
- - [Best VPN for Amazon Fire TV Stick in 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-firestick/#ftag=CAD590a51e)
- - [This Is the Weirdest Camera I&#39;ve Ever Loved: The Hasselblad 907X     - CNET](https://www.cnet.com/tech/computing/this-is-the-weirdest-camera-ive-ever-loved-the-hasselblad-907x/#ftag=CAD590a51e)
- - [Why Google&#39;s Nest Speakers Need Gemini AI to Improve Its Assistant     - CNET](https://www.cnet.com/tech/home-entertainment/why-googles-nest-speakers-need-gemini-ai-to-improve-its-assistant/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best VPN for Amazon Fire TV Stick in 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-firestick/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

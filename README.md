@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Irish man Loses his Mind After Losing His Home To Migrants](http://9gag.com/gag/aVvQbVM)
- - 😝 [So buying a used iphone will now get you free nudes on top](http://9gag.com/gag/ayNp4Rr)
- - 💣 [Today, FC Khimik&#39;s Nikolay Ivanov possibly scored the fastest goal in history](http://9gag.com/gag/aAyV0wp)
  - 😝 [Blood clot coughed up by a patient that perfectly shaped the lung\u2019s cavity it filled.](http://9gag.com/gag/aD2w6Ow)
- - 👉 [Find Waldo](http://9gag.com/gag/a4P9Pzd)<!-- MEMES:END -->
+ - 😝 [#1 Guinness #2 Internet](http://9gag.com/gag/aVvQE9O)
+ - 💣 [Our, you scallywag, you got a loicense for that?!?!](http://9gag.com/gag/awybm6R)
+ - 😝 [Gambling 20k like nothing](http://9gag.com/gag/awyb15B)
+ - 👉 [New York City Portal Shut Down After OnlyFans Model Flashes Dublin](http://9gag.com/gag/an7Xz9E)<!-- MEMES:END -->
 
 ---
 

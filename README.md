@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Blood clot coughed up by a patient that perfectly shaped the lung\u2019s cavity it filled.](http://9gag.com/gag/aD2w6Ow)
- - 😝 [#1 Guinness #2 Internet](http://9gag.com/gag/aVvQE9O)
- - 💣 [Our, you scallywag, you got a loicense for that?!?!](http://9gag.com/gag/awybm6R)
- - 😝 [Gambling 20k like nothing](http://9gag.com/gag/awyb15B)
- - 👉 [New York City Portal Shut Down After OnlyFans Model Flashes Dublin](http://9gag.com/gag/an7Xz9E)<!-- MEMES:END -->
+ - 😝 [You don&#39;t need to understand Dutch for the basics](http://9gag.com/gag/aVvQg9d)
+ - 😝 [So buying a used iphone will now get you free nudes on top](http://9gag.com/gag/ayNp4Rr)
+ - 💣 [Man who vanished age 17 is found alive in a hole after being held captive by his neighbour for 27 years](http://9gag.com/gag/a5QNX4y)
+ - 😝 [Passing the mantle](http://9gag.com/gag/a34d0bQ)
+ - 👉 [Find Waldo](http://9gag.com/gag/a4P9Pzd)<!-- MEMES:END -->
 
 ---
 

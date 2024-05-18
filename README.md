@@ -160,7 +160,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [6 Major Sales Left in 2024: Tips to Get the Best Deals From Memorial Day Sales and Beyond     - CNET](https://www.cnet.com/tech/6-major-sales-left-in-2024-tips-to-get-the-best-deals-from-memorial-day-sales-and-beyond/#ftag=CAD590a51e)
+ - [Behold Ayaneo’s sophisticated takes on the Game Boy and Game Boy Micro](https://www.theverge.com/2024/5/18/24159584/ayaneo-pocket-dmg-micro-ag01-egpu)
  - [The Palantir-sponsored AI Expo for National Competitiveness featured VR headsets for soldiers, a map tool that can &quot;nominate targets of interest&quot;, and more &lpar;Caroline Haskins/The Guardian&rpar;](http://www.techmeme.com/240518/p7#a240518p7)
  - [How Big Dairy Took Over Your TikTok Feed—With Help from Uncle Sam](https://www.wired.com/story/milk-dairy-tiktok-x-instagram-social-feed-takeover/)
  - [Honda plans to invest ~$12.8B in software over the decade up to the FY ending March 2031, as it prepares to join the rapid shift to EVs in markets like China &lpar;Yuichi Shiga/Nikkei Asia&rpar;](http://www.techmeme.com/240518/p6#a240518p6)

@@ -161,10 +161,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Apple Makes It Easier to Stare at Your Phone in the Car](https://www.wired.com/story/apple-vehicle-motion-cues/)
- - [Best T-Mobile Phones for 2024     - CNET](https://www.cnet.com/tech/mobile/best-t-mobile-phones/#ftag=CAD590a51e)
- - [Memorial Day Furniture Sales: Save Hundreds on Top Brands, Bundles and More     - CNET](https://www.cnet.com/deals/memorial-day-furniture-sales/#ftag=CAD590a51e)
- - [Here&#39;s How to Really Clean Your Keurig Machine to Prevent Mold     - CNET](https://www.cnet.com/how-to/heres-how-to-really-clean-your-keurig-machine-to-prevent-mold/#ftag=CAD590a51e)
- - [iOS 17.5 Is Here, but Don&#39;t Forget These iOS 17.2 Features     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-5-is-here-but-dont-forget-these-ios-17-2-features/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [New Student Loan Forgiveness Deadline: You Now Have More Time to Consolidate Your Loans     - CNET](https://www.cnet.com/personal-finance/student-loan-forgiveness-deadline-3-days-left-to-consolidate-your-student-loans/#ftag=CAD590a51e)
+ - [Samsung S95D OLED TV: The Best Picture Quality, Bright Room or Dark     - CNET](https://www.cnet.com/tech/home-entertainment/samsung-s95d-oled-tv-the-best-picture-quality-bright-room-or-dark/#ftag=CAD590a51e)
+ - [The Secret iPhone Feature That Lets You Take Stunning Long-Exposure Photos     - CNET](https://www.cnet.com/tech/mobile/the-secret-iphone-feature-that-lets-you-take-stunning-long-exposure-photos/#ftag=CAD590a51e)
+ - [18 Best Father&#39;s Day Gifts for New Dads and Soon-to-Be Dads     - CNET](https://www.cnet.com/news/fathers-day-gifts-for-new-dads/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

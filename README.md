@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [18 Best Gaming Headsets &lpar;2024&rpar;: Wired, Wireless, for Switch, PC, Xbox, PS5, and PS4](https://www.wired.com/gallery/best-gaming-headsets/)
  - [Logitech Casa Pop-Up Desk Review: A Cute Portable Workstation](https://www.wired.com/review/logitech-casa-pop-up-desk/)
  - [Sugar’s big twist was more than a gimmick](https://www.theverge.com/24158879/sugar-apple-tv-plus-finale-review)
  - [Training AI on stereotypical facial expressions is bound to mislead because scientific evidence indicates that there are no universal expressions of emotion &lpar;Lisa Feldman Barrett/Wall Street Journal&rpar;](http://www.techmeme.com/240518/p9#a240518p9)
- - [Best Google Pixel Phone &lpar;2024&rpar;: Which Model to Buy, Cases and Accessories, Feature Drops](https://www.wired.com/story/best-google-pixel-phone/)
- - [How to Remove Annoying News Widgets From Windows 11](https://www.wired.com/story/how-to-remove-news-articles-from-windows-11-widget-board/)<!-- TECH:END -->
+ - [Best Google Pixel Phone &lpar;2024&rpar;: Which Model to Buy, Cases and Accessories, Feature Drops](https://www.wired.com/story/best-google-pixel-phone/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

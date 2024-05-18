@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US Official Warns a Cell Network Flaw Is Being Exploited for Spying](https://www.wired.com/story/ss7-vulnerability-spies-north-korea-tesla-breachforums/)
- - [The MSI Claw is an embarrassment](https://www.theverge.com/24105991/msi-claw-review)
- - [Despite banning TikTok on government devices, Taiwan isn&#39;t considering a US-style ban, saying the app is just one battle in a war against China&#39;s disinformation &lpar;New York Times&rpar;](http://www.techmeme.com/240518/p8#a240518p8)
- - [Best Cheap Phone of 2024: Most Value for the Money     - CNET](https://www.cnet.com/tech/mobile/best-cheap-phone/#ftag=CAD590a51e)
- - [6 Sneaky Habits That Might Be Sabotaging Your Weight Loss Goals     - CNET](https://www.cnet.com/health/nutrition/6-sneaky-habits-that-might-be-sabotaging-your-weight-loss-goals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best T-Mobile Phones for 2024     - CNET](https://www.cnet.com/tech/mobile/best-t-mobile-phones/#ftag=CAD590a51e)
+ - [Memorial Day Furniture Sales: Save Hundreds on Top Brands, Bundles and More     - CNET](https://www.cnet.com/deals/memorial-day-furniture-sales/#ftag=CAD590a51e)
+ - [Here&#39;s How to Really Clean Your Keurig Machine to Prevent Mold     - CNET](https://www.cnet.com/how-to/heres-how-to-really-clean-your-keurig-machine-to-prevent-mold/#ftag=CAD590a51e)
+ - [iOS 17.5 Is Here, but Don&#39;t Forget These iOS 17.2 Features     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-5-is-here-but-dont-forget-these-ios-17-2-features/#ftag=CAD590a51e)
+ - [US Official Warns a Cell Network Flaw Is Being Exploited for Spying](https://www.wired.com/story/ss7-vulnerability-spies-north-korea-tesla-breachforums/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

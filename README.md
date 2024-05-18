@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Blood clot coughed up by a patient that perfectly shaped the lung\u2019s cavity it filled.](http://9gag.com/gag/aD2w6Ow)
- - 😝 [He ducked a bullet.](http://9gag.com/gag/aD2wZGN)
- - 💣 [How about an actual japanese samurai](http://9gag.com/gag/axy23Ob)
- - 😝 [Can you name all of them?](http://9gag.com/gag/aZZWnzp)
- - 👉 [Gambling 20k like nothing](http://9gag.com/gag/awyb15B)<!-- MEMES:END -->
+ - 😝 [Be a better man than your father](http://9gag.com/gag/aNDoBgv)
+ - 😝 [Wholesome grandpa doesn&#39;t believe he&#39;s 90+](http://9gag.com/gag/aMVbnXA)
+ - 💣 [Facts](http://9gag.com/gag/aGyVM50)
+ - 😝 [Polish alphabet](http://9gag.com/gag/a5QNzEg)
+ - 👉 [Real creator of the IP left ubisoft after AC Brotherhood](http://9gag.com/gag/ae93xYj)<!-- MEMES:END -->
 
 ---
 

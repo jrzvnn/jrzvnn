@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gambling 20k like nothing](http://9gag.com/gag/awyb15B)
+ - 😝 [20 years working together. They&#39;re married to different people. Either women aren&#39;t obvious enough or men are truly clueless.](http://9gag.com/gag/aoyZVX3)
  - 😝 [He ducked a bullet.](http://9gag.com/gag/aD2wZGN)
  - 💣 [Smart people and their wrong predictions](http://9gag.com/gag/aD2w8qZ)
- - 😝 [Blood clot coughed up by a patient that perfectly shaped the lung\u2019s cavity it filled.](http://9gag.com/gag/aD2w6Ow)
+ - 😝 [Gambling 20k like nothing](http://9gag.com/gag/awyb15B)
  - 👉 [How about an actual japanese samurai](http://9gag.com/gag/axy23Ob)<!-- MEMES:END -->
 
 ---

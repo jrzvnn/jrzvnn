@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ping Pong](http://9gag.com/gag/a5QNGyo)
- - 😝 [Mentally ill](http://9gag.com/gag/ae93OLj)
- - 💣 [I&#39;m still waiting](http://9gag.com/gag/an7Xn6B)
+ - 😝 [I&#39;m still waiting](http://9gag.com/gag/an7Xn6B)
  - 😝 [I miss my `nona`!](http://9gag.com/gag/a7oKeRr)
- - 👉 [What men should know](http://9gag.com/gag/awybmMR)<!-- MEMES:END -->
+ - 💣 [What men should know](http://9gag.com/gag/awybmMR)
+ - 😝 [Passing the mantle](http://9gag.com/gag/a34d0bQ)
+ - 👉 [Our, you scallywag, you got a loicense for that?!?!](http://9gag.com/gag/awybm6R)<!-- MEMES:END -->
 
 ---
 

@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Despite banning TikTok on government devices, Taiwan isn&#39;t considering a US-style ban, saying the app is just one battle in a war against China&#39;s disinformation &lpar;New York Times&rpar;](http://www.techmeme.com/240518/p8#a240518p8)
+ - [Best Cheap Phone of 2024: Most Value for the Money     - CNET](https://www.cnet.com/tech/mobile/best-cheap-phone/#ftag=CAD590a51e)
+ - [6 Sneaky Habits That Might Be Sabotaging Your Weight Loss Goals     - CNET](https://www.cnet.com/health/nutrition/6-sneaky-habits-that-might-be-sabotaging-your-weight-loss-goals/#ftag=CAD590a51e)
  - [Can You Turn Off Google Search&#39;s AI Overviews? We Aren&#39;t Sure     - CNET](https://www.cnet.com/tech/services-and-software/can-you-turn-off-google-searchs-ai-overviews-we-arent-sure/#ftag=CAD590a51e)
- - [Behold Ayaneo’s sophisticated takes on the Game Boy and Game Boy Micro](https://www.theverge.com/2024/5/18/24159584/ayaneo-pocket-dmg-micro-ag01-egpu)
- - [6 Major Sales Left in 2024: Tips to Get the Best Deals From Memorial Day Sales and Beyond     - CNET](https://www.cnet.com/tech/6-major-sales-left-in-2024-tips-to-get-the-best-deals-from-memorial-day-sales-and-beyond/#ftag=CAD590a51e)
- - [The Palantir-sponsored AI Expo for National Competitiveness featured VR headsets for soldiers, a map tool that can &quot;nominate targets of interest&quot;, and more &lpar;Caroline Haskins/The Guardian&rpar;](http://www.techmeme.com/240518/p7#a240518p7)
- - [How Big Dairy Took Over Your TikTok Feed—With Help from Uncle Sam](https://www.wired.com/story/milk-dairy-tiktok-x-instagram-social-feed-takeover/)<!-- TECH:END -->
+ - [Behold Ayaneo’s sophisticated takes on the Game Boy and Game Boy Micro](https://www.theverge.com/2024/5/18/24159584/ayaneo-pocket-dmg-micro-ag01-egpu)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

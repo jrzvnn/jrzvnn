@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He ducked a bullet.](http://9gag.com/gag/aD2wZGN)
- - 😝 [Gambling 20k like nothing](http://9gag.com/gag/awyb15B)
- - 💣 [Smart people and their wrong predictions](http://9gag.com/gag/aD2w8qZ)
- - 😝 [How about an actual japanese samurai](http://9gag.com/gag/axy23Ob)
- - 👉 [Passing the mantle](http://9gag.com/gag/a34d0bQ)<!-- MEMES:END -->
+ - 😝 [You have VERY serious issues, Mauricio](http://9gag.com/gag/a34d0WQ)
+ - 😝 [Smart people and their wrong predictions](http://9gag.com/gag/aD2w8qZ)
+ - 💣 [Inflation](http://9gag.com/gag/aAyV63E)
+ - 😝 [Passing the mantle](http://9gag.com/gag/a34d0bQ)
+ - 👉 [How about an actual japanese samurai](http://9gag.com/gag/axy23Ob)<!-- MEMES:END -->
 
 ---
 

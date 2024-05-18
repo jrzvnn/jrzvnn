@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers are working on sophisticated robots that use AI to converse and play games with people suffering from cognitive disorders like dementia &lpar;Cassandra Willyard/MIT Technology Review&rpar;](http://www.techmeme.com/240518/p16#a240518p16)
  - [Sam Altman says he is embarrassed that there was a provision about potential equity cancellation in exit docs, and OpenAI never took back anyone&#39;s vested equity &lpar;Sam Altman/@sama&rpar;](http://www.techmeme.com/240518/p15#a240518p15)
- - [Blue Origin’s first crewed launch since 2022: Where to watch](https://www.theverge.com/2024/5/18/24159826/blue-origin-first-crewed-launch-since-2022-where-to-watch)
- - [Schiller fails to convince skeptical judge over Apple&#39;s App Store fees](https://appleinsider.com/articles/24/05/18/schiller-fails-to-convince-skeptical-judge-over-apples-app-store-fees?utm_medium=rss)
- - [Best Amazon Deals: Get Tech Gadgets, Outdoor Gear and More Under $100     - CNET](https://www.cnet.com/deals/best-amazon-deals-get-tech-gadgets-outdoor-gear-and-more-under-100/#ftag=CAD590a51e)
- - [Despite some skeptics claiming that AI is an industry-wide delusion, last week&#39;s demos from OpenAI and Google show that the rate of AI progress is not slowing &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/240518/p14#a240518p14)<!-- TECH:END -->
+ - [The Purple Mattress I Slept on for 5 Years Is on Sale This Memorial Day     - CNET](https://www.cnet.com/deals/purple-mattress-memorial-day-2024/#ftag=CAD590a51e)
+ - [20 Memorial Day Mattress Deals: Save Hundreds on Your Next Bed     - CNET](https://www.cnet.com/deals/best-memorial-day-mattress-deals-2024/#ftag=CAD590a51e)
+ - [Blue Origin’s first crewed launch since 2022: Where to watch](https://www.theverge.com/2024/5/18/24159826/blue-origin-first-crewed-launch-since-2022-where-to-watch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

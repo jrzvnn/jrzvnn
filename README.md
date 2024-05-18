@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Remove Annoying News Widgets From Windows 11](https://www.wired.com/story/how-to-remove-news-articles-from-windows-11-widget-board/)
+ - [The EV industry can’t shake its human rights abuse problem](https://www.theverge.com/2024/5/18/24158518/ev-critical-mineral-mining-human-rights-abuse-allegations)
  - [Apple Makes It Easier to Stare at Your Phone in the Car](https://www.wired.com/story/apple-vehicle-motion-cues/)
  - [New Student Loan Forgiveness Deadline: You Now Have More Time to Consolidate Your Loans     - CNET](https://www.cnet.com/personal-finance/student-loan-forgiveness-deadline-3-days-left-to-consolidate-your-student-loans/#ftag=CAD590a51e)
- - [Samsung S95D OLED TV: The Best Picture Quality, Bright Room or Dark     - CNET](https://www.cnet.com/tech/home-entertainment/samsung-s95d-oled-tv-the-best-picture-quality-bright-room-or-dark/#ftag=CAD590a51e)
- - [The Secret iPhone Feature That Lets You Take Stunning Long-Exposure Photos     - CNET](https://www.cnet.com/tech/mobile/the-secret-iphone-feature-that-lets-you-take-stunning-long-exposure-photos/#ftag=CAD590a51e)
- - [18 Best Father&#39;s Day Gifts for New Dads and Soon-to-Be Dads     - CNET](https://www.cnet.com/news/fathers-day-gifts-for-new-dads/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung S95D OLED TV: The Best Picture Quality, Bright Room or Dark     - CNET](https://www.cnet.com/tech/home-entertainment/samsung-s95d-oled-tv-the-best-picture-quality-bright-room-or-dark/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

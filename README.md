@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Despite some skeptics claiming that AI is an industry-wide delusion, last week&#39;s demos from OpenAI and Google show that the rate of AI progress is not slowing &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/240518/p14#a240518p14)
+ - [Best Galaxy Watch Deals: Free With Trade-In or Get $60 Off a Galaxy Watch 6, Up to $197 Off Galaxy Watch 5 Pro     - CNET](https://www.cnet.com/deals/best-galaxy-watch-deals/#ftag=CAD590a51e)
  - [Tenway CGO600 Pro Electric Bike review: an great, albeit expensive, bike for a commute to the office](https://appleinsider.com/articles/24/05/18/tenway-cgo600-pro-electric-bike-review-an-great-albeit-expensive-bike-for-a-commute-to-the-office?utm_medium=rss)
- - [MSI Claw handheld review: more comfortable grips than ROG Ally or Legion Go but inexcusably bad performance and battery life, Windows holds back handheld gaming &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240518/p13#a240518p13)
- - [This modder proves everything’s better with a GBA SP screen attached](https://www.theverge.com/2024/5/18/24159721/retrohai-nintendo-ds-lite-game-boy-color-advance-sp-mods)
- - [Apple Pencil Pro is about as repairable as you think it is](https://appleinsider.com/articles/24/05/18/apple-pencil-pro-is-about-as-repairable-as-you-think-it-is?utm_medium=rss)
- - [The 8 Best Grocery Delivery Services in 2024     - CNET](https://www.cnet.com/news/best-grocery-delivery-service/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tyson Fury vs. Oleksandr Usyk Livestream: When It Starts and How to Watch Heavyweight Boxing Fight     - CNET](https://www.cnet.com/tech/services-and-software/tyson-fury-vs-oleksandr-usyk-livestream-when-it-starts-and-how-to-watch-heavyweight-boxing-fight/#ftag=CAD590a51e)
+ - [Best Vitamins for Hair Growth     - CNET](https://www.cnet.com/health/nutrition/vitamins-for-hair-growth/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

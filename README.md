@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Blue Origin’s first crewed launch since 2022: Where to watch](https://www.theverge.com/2024/5/18/24159826/blue-origin-first-crewed-launch-since-2022-where-to-watch)
+ - [Schiller fails to convince skeptical judge over Apple&#39;s App Store fees](https://appleinsider.com/articles/24/05/18/schiller-fails-to-convince-skeptical-judge-over-apples-app-store-fees?utm_medium=rss)
  - [Despite some skeptics claiming that AI is an industry-wide delusion, last week&#39;s demos from OpenAI and Google show that the rate of AI progress is not slowing &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/240518/p14#a240518p14)
  - [Best Galaxy Watch Deals: Free With Trade-In or Get $60 Off a Galaxy Watch 6, Up to $197 Off Galaxy Watch 5 Pro     - CNET](https://www.cnet.com/deals/best-galaxy-watch-deals/#ftag=CAD590a51e)
- - [Tenway CGO600 Pro Electric Bike review: an great, albeit expensive, bike for a commute to the office](https://appleinsider.com/articles/24/05/18/tenway-cgo600-pro-electric-bike-review-an-great-albeit-expensive-bike-for-a-commute-to-the-office?utm_medium=rss)
- - [Tyson Fury vs. Oleksandr Usyk Livestream: When It Starts and How to Watch Heavyweight Boxing Fight     - CNET](https://www.cnet.com/tech/services-and-software/tyson-fury-vs-oleksandr-usyk-livestream-when-it-starts-and-how-to-watch-heavyweight-boxing-fight/#ftag=CAD590a51e)
- - [Best Vitamins for Hair Growth     - CNET](https://www.cnet.com/health/nutrition/vitamins-for-hair-growth/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tenway CGO600 Pro Electric Bike review: an great, albeit expensive, bike for a commute to the office](https://appleinsider.com/articles/24/05/18/tenway-cgo600-pro-electric-bike-review-an-great-albeit-expensive-bike-for-a-commute-to-the-office?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

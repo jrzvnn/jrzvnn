@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can you name all of them?](http://9gag.com/gag/aZZWnzp)
- - 😝 [Smart people and their wrong predictions](http://9gag.com/gag/aD2w8qZ)
- - 💣 [Would...](http://9gag.com/gag/aZZWndV)
+ - 😝 [#1 Guinness #2 Internet](http://9gag.com/gag/aVvQE9O)
  - 😝 [Passing the mantle](http://9gag.com/gag/a34d0bQ)
- - 👉 [Gambling 20k like nothing](http://9gag.com/gag/awyb15B)<!-- MEMES:END -->
+ - 💣 [This is how soccer is played!](http://9gag.com/gag/an7X7dL)
+ - 😝 [How about an actual japanese samurai](http://9gag.com/gag/axy23Ob)
+ - 👉 [Can you name all of them?](http://9gag.com/gag/aZZWnzp)<!-- MEMES:END -->
 
 ---
 

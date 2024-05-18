@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He was in no rush](http://9gag.com/gag/a7oKemA)
- - 😝 [Can you name all of them?](http://9gag.com/gag/aZZWnzp)
- - 💣 [Blood clot coughed up by a patient that perfectly shaped the lung\u2019s cavity it filled.](http://9gag.com/gag/aD2w6Ow)
- - 😝 [Gambling 20k like nothing](http://9gag.com/gag/awyb15B)
- - 👉 [Passing the mantle](http://9gag.com/gag/a34d0bQ)<!-- MEMES:END -->
+ - 😝 [Passing the mantle](http://9gag.com/gag/a34d0bQ)
+ - 😝 [Not all heros wear capes.](http://9gag.com/gag/an7XnOV)
+ - 💣 [Bangladeshi Fruit Vendor Trying to Protect His Grapes from Train Passengers](http://9gag.com/gag/a7oKVmL)
+ - 😝 [Japanese really hate it](http://9gag.com/gag/aryeZ46)
+ - 👉 [I love democracy](http://9gag.com/gag/a9yM80L)<!-- MEMES:END -->
 
 ---
 

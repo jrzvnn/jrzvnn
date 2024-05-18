@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bangladeshi Fruit Vendor Trying to Protect His Grapes from Train Passengers](http://9gag.com/gag/a7oKVmL)
- - 😝 [Real creator of the IP left ubisoft after AC Brotherhood](http://9gag.com/gag/ae93xYj)
- - 💣 [Be a better man than your father](http://9gag.com/gag/aNDoBgv)
- - 😝 [Some people have amazing talent.](http://9gag.com/gag/aO8yDNy)
- - 👉 [This one sparks joy](http://9gag.com/gag/avyZxAn)<!-- MEMES:END -->
+ - 😝 [I miss my `nona`!](http://9gag.com/gag/a7oKeRr)
+ - 😝 [How about an actual japanese samurai](http://9gag.com/gag/axy23Ob)
+ - 💣 [You have VERY serious issues, Mauricio](http://9gag.com/gag/a34d0WQ)
+ - 😝 [Smart people and their wrong predictions](http://9gag.com/gag/aD2w8qZ)
+ - 👉 [Gambling 20k like nothing](http://9gag.com/gag/awyb15B)<!-- MEMES:END -->
 
 ---
 

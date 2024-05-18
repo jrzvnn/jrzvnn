@@ -171,9 +171,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [He ducked a bullet.](http://9gag.com/gag/aD2wZGN)
  - 😝 [Gambling 20k like nothing](http://9gag.com/gag/awyb15B)
- - 💣 [Can you name all of them?](http://9gag.com/gag/aZZWnzp)
- - 😝 [Passing the mantle](http://9gag.com/gag/a34d0bQ)
- - 👉 [How about an actual japanese samurai](http://9gag.com/gag/axy23Ob)<!-- MEMES:END -->
+ - 💣 [Smart people and their wrong predictions](http://9gag.com/gag/aD2w8qZ)
+ - 😝 [How about an actual japanese samurai](http://9gag.com/gag/axy23Ob)
+ - 👉 [Passing the mantle](http://9gag.com/gag/a34d0bQ)<!-- MEMES:END -->
 
 ---
 

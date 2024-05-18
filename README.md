@@ -170,8 +170,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Bangladeshi Fruit Vendor Trying to Protect His Grapes from Train Passengers](http://9gag.com/gag/a7oKVmL)
- - 😝 [Be a better man than your father](http://9gag.com/gag/aNDoBgv)
- - 💣 [Real creator of the IP left ubisoft after AC Brotherhood](http://9gag.com/gag/ae93xYj)
+ - 😝 [Real creator of the IP left ubisoft after AC Brotherhood](http://9gag.com/gag/ae93xYj)
+ - 💣 [Be a better man than your father](http://9gag.com/gag/aNDoBgv)
  - 😝 [Some people have amazing talent.](http://9gag.com/gag/aO8yDNy)
  - 👉 [This one sparks joy](http://9gag.com/gag/avyZxAn)<!-- MEMES:END -->
 

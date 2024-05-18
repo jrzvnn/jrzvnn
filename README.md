@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I miss my `nona`!](http://9gag.com/gag/a7oKeRr)
- - 😝 [How about an actual japanese samurai](http://9gag.com/gag/axy23Ob)
- - 💣 [You have VERY serious issues, Mauricio](http://9gag.com/gag/a34d0WQ)
+ - 😝 [What&#39;s going on here?](http://9gag.com/gag/ae931z5)
  - 😝 [Smart people and their wrong predictions](http://9gag.com/gag/aD2w8qZ)
- - 👉 [Gambling 20k like nothing](http://9gag.com/gag/awyb15B)<!-- MEMES:END -->
+ - 💣 [He ducked a bullet.](http://9gag.com/gag/aD2wZGN)
+ - 😝 [Passing the mantle](http://9gag.com/gag/a34d0bQ)
+ - 👉 [20 years working together. They&#39;re married to different people. Either women aren&#39;t obvious enough or men are truly clueless.](http://9gag.com/gag/aoyZVX3)<!-- MEMES:END -->
 
 ---
 

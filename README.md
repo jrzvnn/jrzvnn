@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is how soccer is played!](http://9gag.com/gag/an7X7dL)
- - 😝 [Our, you scallywag, you got a loicense for that?!?!](http://9gag.com/gag/awybm6R)
- - 💣 [Man who vanished age 17 is found alive in a hole after being held captive by his neighbour for 27 years](http://9gag.com/gag/a5QNX4y)
- - 😝 [Gambling 20k like nothing](http://9gag.com/gag/awyb15B)
- - 👉 [Find Waldo](http://9gag.com/gag/a4P9Pzd)<!-- MEMES:END -->
+ - 😝 [Passing the mantle](http://9gag.com/gag/a34d0bQ)
+ - 😝 [Mentally ill](http://9gag.com/gag/ae93OLj)
+ - 💣 [Bro was honest in his resume](http://9gag.com/gag/aryeA66)
+ - 😝 [I&#39;m still waiting](http://9gag.com/gag/an7Xn6B)
+ - 👉 [I miss my `nona`!](http://9gag.com/gag/a7oKeRr)<!-- MEMES:END -->
 
 ---
 

@@ -161,10 +161,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [18 Best Gaming Headsets &lpar;2024&rpar;: Wired, Wireless, for Switch, PC, Xbox, PS5, and PS4](https://www.wired.com/gallery/best-gaming-headsets/)
- - [Logitech Casa Pop-Up Desk Review: A Cute Portable Workstation](https://www.wired.com/review/logitech-casa-pop-up-desk/)
- - [Sugar’s big twist was more than a gimmick](https://www.theverge.com/24158879/sugar-apple-tv-plus-finale-review)
- - [Training AI on stereotypical facial expressions is bound to mislead because scientific evidence indicates that there are no universal expressions of emotion &lpar;Lisa Feldman Barrett/Wall Street Journal&rpar;](http://www.techmeme.com/240518/p9#a240518p9)
- - [Best Google Pixel Phone &lpar;2024&rpar;: Which Model to Buy, Cases and Accessories, Feature Drops](https://www.wired.com/story/best-google-pixel-phone/)<!-- TECH:END -->
+ - [Best Verizon Plans: How to Choose and Which Ones to Pick in May 2024     - CNET](https://www.cnet.com/tech/mobile/best-verizon-plans/#ftag=CAD590a51e)
+ - [Get Up to $750 Off Top Rowing Machines During Hydrow&#39;s Memorial Day Sale     - CNET](https://www.cnet.com/deals/get-up-to-750-off-top-rowing-machines-from-hydrow/#ftag=CAD590a51e)
+ - [With All the NFL Streaming Services, the First Month Alone Could Cost You at Least $88     - CNET](https://www.cnet.com/tech/services-and-software/with-all-the-nfl-streaming-services-the-first-month-alone-could-cost-you-at-least-88/#ftag=CAD590a51e)
+ - [Bambu Lab A1 Review: The Best Way to Spend Your 3D Printer Money     - CNET](https://www.cnet.com/tech/computing/bambulab-a1-review-as-close-to-perfect-as-ive-ever-used/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

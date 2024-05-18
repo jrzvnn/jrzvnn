@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You have VERY serious issues, Mauricio](http://9gag.com/gag/a34d0WQ)
- - 😝 [Smart people and their wrong predictions](http://9gag.com/gag/aD2w8qZ)
- - 💣 [Inflation](http://9gag.com/gag/aAyV63E)
- - 😝 [Passing the mantle](http://9gag.com/gag/a34d0bQ)
- - 👉 [How about an actual japanese samurai](http://9gag.com/gag/axy23Ob)<!-- MEMES:END -->
+ - 😝 [Ping Pong](http://9gag.com/gag/a5QNGyo)
+ - 😝 [Mentally ill](http://9gag.com/gag/ae93OLj)
+ - 💣 [I&#39;m still waiting](http://9gag.com/gag/an7Xn6B)
+ - 😝 [I miss my `nona`!](http://9gag.com/gag/a7oKeRr)
+ - 👉 [What men should know](http://9gag.com/gag/awybmMR)<!-- MEMES:END -->
 
 ---
 

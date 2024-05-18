@@ -162,9 +162,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Some researchers say GPT-4o&#39;s Chinese token-training data is polluted by spam and porn websites, likely due to inadequate data cleaning &lpar;Zeyi Yang/MIT Technology Review&rpar;](http://www.techmeme.com/240517/p25#a240517p25)
  - [Photo editing and sharing app VSCO says it is now profitable, has a user base of 200M worldwide, and has 160K subscribers for its $59.99/year Pro product &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/240517/p24#a240517p24)
- - [The US SEC will require some financial institutions to notify customers whose personal information was compromised within 30 days of learning about breaches &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240517/p23#a240517p23)
- - [2023 App Store report shows rise in downloads, developers &amp; removals](https://appleinsider.com/articles/24/05/17/2023-app-store-report-shows-rise-in-downloads-developers-removals?utm_medium=rss)
- - [US Government Moves to Reclassify Weed, Citing Medical Uses: What to Know     - CNET](https://www.cnet.com/health/medical/us-government-moves-to-reclassify-weed-citing-medical-uses-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Home Security Cameras of 2024     - CNET](https://www.cnet.com/home/security/best-home-security-camera/#ftag=CAD590a51e)
+ - [Best iPhone 15 and iPhone 15 Pro Cases for 2024     - CNET](https://www.cnet.com/tech/mobile/best-iphone-15-and-iphone-15-pro-cases/#ftag=CAD590a51e)
+ - [The US SEC will require some financial institutions to notify customers whose personal information was compromised within 30 days of learning about breaches &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240517/p23#a240517p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

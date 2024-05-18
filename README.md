@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Passing the mantle](http://9gag.com/gag/a34d0bQ)
  - 😝 [He ducked a bullet.](http://9gag.com/gag/aD2wZGN)
- - 💣 [Find Waldo](http://9gag.com/gag/a4P9Pzd)
- - 😝 [Can you name all of them?](http://9gag.com/gag/aZZWnzp)
+ - 😝 [Gambling 20k like nothing](http://9gag.com/gag/awyb15B)
+ - 💣 [Can you name all of them?](http://9gag.com/gag/aZZWnzp)
+ - 😝 [Passing the mantle](http://9gag.com/gag/a34d0bQ)
  - 👉 [How about an actual japanese samurai](http://9gag.com/gag/axy23Ob)<!-- MEMES:END -->
 
 ---

@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [#1 Guinness #2 Internet](http://9gag.com/gag/aVvQE9O)
- - 😝 [Passing the mantle](http://9gag.com/gag/a34d0bQ)
- - 💣 [This is how soccer is played!](http://9gag.com/gag/an7X7dL)
- - 😝 [How about an actual japanese samurai](http://9gag.com/gag/axy23Ob)
- - 👉 [Can you name all of them?](http://9gag.com/gag/aZZWnzp)<!-- MEMES:END -->
+ - 😝 [Bro was honest in his resume](http://9gag.com/gag/aryeA66)
+ - 😝 [Mentally ill](http://9gag.com/gag/ae93OLj)
+ - 💣 [Passing the mantle](http://9gag.com/gag/a34d0bQ)
+ - 😝 [I miss my `nona`!](http://9gag.com/gag/a7oKeRr)
+ - 👉 [What men should know](http://9gag.com/gag/awybmMR)<!-- MEMES:END -->
 
 ---
 

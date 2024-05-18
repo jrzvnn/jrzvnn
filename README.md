@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Testing a 1920 microphone](http://9gag.com/gag/a9yMvw6)
- - 😝 [Bro was honest in his resume](http://9gag.com/gag/aryeA66)
- - 💣 [Mentally ill](http://9gag.com/gag/ae93OLj)
- - 😝 [I&#39;m still waiting](http://9gag.com/gag/an7Xn6B)
- - 👉 [What men should know](http://9gag.com/gag/awybmMR)<!-- MEMES:END -->
+ - 😝 [Can you name all of them?](http://9gag.com/gag/aZZWnzp)
+ - 😝 [How about an actual japanese samurai](http://9gag.com/gag/axy23Ob)
+ - 💣 [Smart people and their wrong predictions](http://9gag.com/gag/aD2w8qZ)
+ - 😝 [Gambling 20k like nothing](http://9gag.com/gag/awyb15B)
+ - 👉 [Find Waldo](http://9gag.com/gag/a4P9Pzd)<!-- MEMES:END -->
 
 ---
 

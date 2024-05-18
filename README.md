@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Pencil Pro is about as repairable as you think it is](https://appleinsider.com/articles/24/05/18/apple-pencil-pro-is-about-as-repairable-as-you-think-it-is?utm_medium=rss)
  - [Replacing the OLED iPad Pro’s battery is easier than ever](https://www.theverge.com/2024/5/18/24159722/ifixit-teardown-apple-oled-ipad-pro-13-inch)
  - [I Traveled to 36 Countries This Past Year. The Card I Reached for the Most Surprised Me     - CNET](https://www.cnet.com/personal-finance/the-most-useful-card-on-my-8-month-backpacking-trip-around-the-world-wasnt-a-credit-card-at-all/#ftag=CAD590a51e)
  - [Sam Altman and Greg Brockman respond to Jan Leike, say they&#39;ve raised awareness of the risks and opportunities of AGI, will keep doing safety research, and more &lpar;Greg Brockman/@gdb&rpar;](http://www.techmeme.com/240518/p12#a240518p12)
- - [Closed Your Chime Account? You May Be Owed $150     - CNET](https://www.cnet.com/personal-finance/closed-a-chime-account-you-could-get-150-if-you-didnt-get-a-refund-on-time/#ftag=CAD590a51e)
- - [Best Innerspring Mattresses in 2024     - CNET](https://www.cnet.com/health/sleep/best-innerspring-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Closed Your Chime Account? You May Be Owed $150     - CNET](https://www.cnet.com/personal-finance/closed-a-chime-account-you-could-get-150-if-you-didnt-get-a-refund-on-time/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

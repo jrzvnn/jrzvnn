@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can you name all of them?](http://9gag.com/gag/aZZWnzp)
- - 😝 [Find Waldo](http://9gag.com/gag/a4P9Pzd)
- - 💣 [Man who vanished age 17 is found alive in a hole after being held captive by his neighbour for 27 years](http://9gag.com/gag/a5QNX4y)
  - 😝 [Would...](http://9gag.com/gag/aZZWndV)
- - 👉 [Gambling 20k like nothing](http://9gag.com/gag/awyb15B)<!-- MEMES:END -->
+ - 😝 [Thoughts on this](http://9gag.com/gag/aRBg4Mj)
+ - 💣 [Gambling 20k like nothing](http://9gag.com/gag/awyb15B)
+ - 😝 [Find Waldo](http://9gag.com/gag/a4P9Pzd)
+ - 👉 [This one deserves a moment of silence and some respect.](http://9gag.com/gag/aLnQ47z)<!-- MEMES:END -->
 
 ---
 

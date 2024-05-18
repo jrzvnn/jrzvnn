@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tenway CGO600 Pro Electric Bike review: an great, albeit expensive, bike for a commute to the office](https://appleinsider.com/articles/24/05/18/tenway-cgo600-pro-electric-bike-review-an-great-albeit-expensive-bike-for-a-commute-to-the-office?utm_medium=rss)
  - [MSI Claw handheld review: more comfortable grips than ROG Ally or Legion Go but inexcusably bad performance and battery life, Windows holds back handheld gaming &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240518/p13#a240518p13)
  - [This modder proves everything’s better with a GBA SP screen attached](https://www.theverge.com/2024/5/18/24159721/retrohai-nintendo-ds-lite-game-boy-color-advance-sp-mods)
  - [Apple Pencil Pro is about as repairable as you think it is](https://appleinsider.com/articles/24/05/18/apple-pencil-pro-is-about-as-repairable-as-you-think-it-is?utm_medium=rss)
- - [The 8 Best Grocery Delivery Services in 2024     - CNET](https://www.cnet.com/news/best-grocery-delivery-service/#ftag=CAD590a51e)
- - [Replacing the OLED iPad Pro’s battery is easier than ever](https://www.theverge.com/2024/5/18/24159722/ifixit-teardown-apple-oled-ipad-pro-13-inch)<!-- TECH:END -->
+ - [The 8 Best Grocery Delivery Services in 2024     - CNET](https://www.cnet.com/news/best-grocery-delivery-service/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

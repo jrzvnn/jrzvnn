@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can you name all of them?](http://9gag.com/gag/aZZWnzp)
+ - 😝 [Gambling 20k like nothing](http://9gag.com/gag/awyb15B)
  - 😝 [He ducked a bullet.](http://9gag.com/gag/aD2wZGN)
- - 💣 [Gambling 20k like nothing](http://9gag.com/gag/awyb15B)
- - 😝 [#1 Guinness #2 Internet](http://9gag.com/gag/aVvQE9O)
+ - 💣 [Smart people and their wrong predictions](http://9gag.com/gag/aD2w8qZ)
+ - 😝 [Blood clot coughed up by a patient that perfectly shaped the lung\u2019s cavity it filled.](http://9gag.com/gag/aD2w6Ow)
  - 👉 [How about an actual japanese samurai](http://9gag.com/gag/axy23Ob)<!-- MEMES:END -->
 
 ---

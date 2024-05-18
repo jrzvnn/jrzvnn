@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Would...](http://9gag.com/gag/aZZWndV)
  - 😝 [Irish man Loses his Mind After Losing His Home To Migrants](http://9gag.com/gag/aVvQbVM)
- - 😝 [This is Thechikottukavu Ramachandran - India&#39;s tallest elephant - Still alive it age 60 - He has killed a record 15 people and 3 elephants in his lifetime and is branded the most dangerous captive elephant in the state](http://9gag.com/gag/aO8y2yE)
- - 💣 [Passing the mantle](http://9gag.com/gag/a34d0bQ)
- - 😝 [Man who vanished age 17 is found alive in a hole after being held captive by his neighbour for 27 years](http://9gag.com/gag/a5QNX4y)
- - 👉 [Find Waldo](http://9gag.com/gag/a4P9Pzd)<!-- MEMES:END -->
+ - 💣 [Find Waldo](http://9gag.com/gag/a4P9Pzd)
+ - 😝 [Name that game that for you has -](http://9gag.com/gag/a9yMyQ6)
+ - 👉 [Our, you scallywag, you got a loicense for that?!?!](http://9gag.com/gag/awybm6R)<!-- MEMES:END -->
 
 ---
 

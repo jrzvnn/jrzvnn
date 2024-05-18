@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US judge approves Genesis Global Capital&#39;s Chapter 11 repayment plan to return Bitcoin and other tokens to creditors, defeating a challenge by its parent DCG &lpar;Jonathan Randles/Bloomberg&rpar;](http://www.techmeme.com/240518/p4#a240518p4)
  - [A look at an ISIS-affiliated media program called News Harvest, which is using AI-generated news anchors to disseminate extremist propaganda quickly and cheaply &lpar;Pranshu Verma/Washington Post&rpar;](http://www.techmeme.com/240518/p3#a240518p3)
  - [Expedia fires its CTO Rathi Murthy and SVP Sreenivas Rachamadugu due to a &quot;violation of company policy&quot;, days after its annual product and partner conference &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/240518/p2#a240518p2)
  - [The US DOJ charges two arrested Chinese nationals for allegedly orchestrating a crypto pig butchering scam that laundered at least $73M from defrauded victims &lpar;Brendan O&#39;Boyle/Reuters&rpar;](http://www.techmeme.com/240518/p1#a240518p1)
- - [Critics warn the French government&#39;s first-of-its-kind move within the EU to suspend TikTok in New Caledonia amid widespread protests sets a dangerous precedent &lpar;Politico&rpar;](http://www.techmeme.com/240517/p27#a240517p27)
- - [Epic v. Apple: Phil Schiller told a US judge that Apple&#39;s new 27% fee on purchases made outside its App Store are a good-faith attempt to comply with the law &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/240517/p26#a240517p26)<!-- TECH:END -->
+ - [Critics warn the French government&#39;s first-of-its-kind move within the EU to suspend TikTok in New Caledonia amid widespread protests sets a dangerous precedent &lpar;Politico&rpar;](http://www.techmeme.com/240517/p27#a240517p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

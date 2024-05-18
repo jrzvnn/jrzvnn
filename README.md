@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best iPhone 15 Deals: Get a Free Phone With a Trade-In or New Line     - CNET](https://www.cnet.com/deals/best-iphone-15-deals/#ftag=CAD590a51e)
+ - [I Could Never Afford a Home in LA. Then I Discovered Tiny Homes     - CNET](https://www.cnet.com/personal-finance/i-could-never-afford-a-home-in-la-then-i-discovered-tiny-homes/#ftag=CAD590a51e)
  - [Ecobee’s Smart Thermostat Premium is nearly matching its all-time low](https://www.theverge.com/2024/5/18/24159171/ecobee-smart-thermostat-premium-xbox-wireless-controller-deal-sale)
- - [A profile of Netflix co-CEO Greg Peters, who led the company&#39;s successful crackdown on password sharing and is now pushing a focus on live programming &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/240518/p11#a240518p11)
- - [Apple to increase trade-in value of older iPhones in new promotion](https://appleinsider.com/articles/24/05/18/apple-to-increase-trade-in-value-of-older-iphones-in-new-promotion?utm_medium=rss)
- - [7 Techniques to Transform How You Manage Your Depression     - CNET](https://www.cnet.com/health/mental/7-techniques-to-transform-how-you-manage-your-depression/#ftag=CAD590a51e)
- - [The Preakness Stakes 2024: How to Watch Today&#39;s Race From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/the-preakness-stakes-2024-how-to-watch-todays-race-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Galaxy S24 Deals: Save Up to $1,000 Off a New Phone With Trade-In     - CNET](https://www.cnet.com/deals/best-galaxy-s24-deals/#ftag=CAD590a51e)
+ - [A profile of Netflix co-CEO Greg Peters, who led the company&#39;s successful crackdown on password sharing and is now pushing a focus on live programming &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/240518/p11#a240518p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

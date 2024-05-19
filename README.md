@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Some heroes don&#39;t wear a Capes](http://9gag.com/gag/aqyZxAZ)
- - 😝 [Polish alphabet](http://9gag.com/gag/a5QNzEg)
- - 💣 [When you run out of things to do with the cube](http://9gag.com/gag/aW40o53)
+ - 😝 [20 years working together. They&#39;re married to different people. Either women aren&#39;t obvious enough or men are truly clueless.](http://9gag.com/gag/aoyZVX3)
+ - 😝 [When you are literally dying for that Internet attention](http://9gag.com/gag/aAyVM9E)
+ - 💣 [Our, you scallywag, you got a loicense for that?!?!](http://9gag.com/gag/awybm6R)
  - 😝 [How do people like this even exist](http://9gag.com/gag/awybdGW)
- - 👉 [This one deserves a moment of silence and some respect.](http://9gag.com/gag/aLnQ47z)<!-- MEMES:END -->
+ - 👉 [Where do I apply for this job?](http://9gag.com/gag/avyZ6E5)<!-- MEMES:END -->
 
 ---
 

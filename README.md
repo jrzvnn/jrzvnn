@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who cares about the product she&#39;s using, gotta love her excitement.](http://9gag.com/gag/aryeBR0)
- - 😝 [Helicopter carrying Iranian President Raisi crashed, Iranian media reports. &lpar;More informations in comments&rpar;](http://9gag.com/gag/aPAyXPg)
- - 💣 [Welcome to Europe! Its a nice place.](http://9gag.com/gag/aPAyX4P)
- - 😝 [How do people like this even exist](http://9gag.com/gag/awybdGW)
- - 👉 [This video of the meteor in Portugal](http://9gag.com/gag/aAyVXmg)<!-- MEMES:END -->
+ - 😝 [They still know where he lives..](http://9gag.com/gag/aD2wZy9)
+ - 😝 [When you are literally dying for that Internet attention](http://9gag.com/gag/aAyVM9E)
+ - 💣 [Where do I apply for this job?](http://9gag.com/gag/avyZ6E5)
+ - 😝 [WHAT. THE. F**K!](http://9gag.com/gag/azxLRYp)
+ - 👉 [Helicopter carrying Iranian President Raisi crashed, Iranian media reports. &lpar;More informations in comments&rpar;](http://9gag.com/gag/aPAyXPg)<!-- MEMES:END -->
 
 ---
 

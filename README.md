@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [User pays double to make Magic Keyboard that matches the Siri Remote](https://appleinsider.com/articles/24/05/19/user-pays-double-to-make-magic-keyboard-that-matches-the-siri-remote?utm_medium=rss)
  - [Best Internet Providers in Louisville, Kentucky     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-louisville-ky/#ftag=CAD590a51e)
  - [Sonos is teasing its ‘most requested product ever’ on Tuesday](https://www.theverge.com/2024/5/19/24160259/sonos-teasing-new-propduct-announcement-ace-headphones-tuesday-may-21)
  - [At the 2024 Upfronts, streaming services dominated with Amazon Prime Video and Netflix making their debut, and live sports and ad tech were given more attention &lpar;Stephen Battaglio/Los Angeles Times&rpar;](http://www.techmeme.com/240519/p13#a240519p13)
- - [Turn Off FaceTime Reactions by Adjusting This Setting     - CNET](https://www.cnet.com/tech/services-and-software/turn-off-facetime-reactions-by-adjusting-this-setting/#ftag=CAD590a51e)
- - [Best AirPods Deals: Score Apple&#39;s Best Earbuds and Headphones for Up to $99 Off     - CNET](https://www.cnet.com/deals/best-apple-airpods-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Turn Off FaceTime Reactions by Adjusting This Setting     - CNET](https://www.cnet.com/tech/services-and-software/turn-off-facetime-reactions-by-adjusting-this-setting/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

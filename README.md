@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [14 Best Sunglasses for Everyday &lpar;2025&rpar;: Meta Ray-Ban, JINS, and more](https://www.wired.com/gallery/best-sunglasses/)
  - [Mac Pro and Mac Studio refreshes may wait till 2025](https://appleinsider.com/articles/24/05/19/mac-pro-and-mac-studio-refreshes-may-wait-till-2025?utm_medium=rss)
  - [Valoi Easy35 Film-Scanning Kit Review: Fast, Affordable, and Easy to Use](https://www.wired.com/review/valoi-easy35-film-scanning-kit/)
  - [The five-year journey to make an adventure game out of ink and paper](https://www.theverge.com/24155754/the-collage-atlas-interview-steam-hand-drawn)
- - [13 Best Office Chairs &lpar;2024&rpar;: Budget, Luxe, Cushions, Casters, and Mats](https://www.wired.com/gallery/best-office-chairs/)
- - [Best VPNs for Xbox in 2024: Top Picks by Our VPN Experts     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-xbox/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [13 Best Office Chairs &lpar;2024&rpar;: Budget, Luxe, Cushions, Casters, and Mats](https://www.wired.com/gallery/best-office-chairs/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

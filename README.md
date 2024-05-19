@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gambling 20k like nothing](http://9gag.com/gag/awyb15B)
- - 😝 [When you are literally dying for that Internet attention](http://9gag.com/gag/aAyVM9E)
- - 💣 [How do people like this even exist](http://9gag.com/gag/awybdGW)
- - 😝 [Passing the mantle](http://9gag.com/gag/a34d0bQ)
- - 👉 [Some heroes don&#39;t wear a Capes](http://9gag.com/gag/aqyZxAZ)<!-- MEMES:END -->
+ - 😝 [How do people like this even exist](http://9gag.com/gag/awybdGW)
+ - 😝 [This one deserves a moment of silence and some respect.](http://9gag.com/gag/aLnQ47z)
+ - 💣 [He was in no rush](http://9gag.com/gag/a7oKemA)
+ - 😝 [A god does not care about the opinion of an ant. Mike Tyson owning whatshisface by doing nothing.](http://9gag.com/gag/a9yMvgj)
+ - 👉 [20 years working together. They&#39;re married to different people. Either women aren&#39;t obvious enough or men are truly clueless.](http://9gag.com/gag/aoyZVX3)<!-- MEMES:END -->
 
 ---
 

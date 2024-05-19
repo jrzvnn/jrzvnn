@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Some heroes don&#39;t wear a Capes](http://9gag.com/gag/aqyZxAZ)
- - 😝 [Daniel Perry, the convicted murderer of a BLM Protestor, is pardoned by the Governor of Texas](http://9gag.com/gag/a87b2WO)
- - 💣 [Inflation](http://9gag.com/gag/aAyV63E)
+ - 😝 [44 licenses found in shed while cleaning out new home.](http://9gag.com/gag/aVvQmPv)
  - 😝 [What&#39;s going on here?](http://9gag.com/gag/ae931z5)
- - 👉 [My whole life is a lie](http://9gag.com/gag/a6ZdBqR)<!-- MEMES:END -->
+ - 💣 [My fellow 9gaggers, please don&#39;t be rac*st](http://9gag.com/gag/arye387)
+ - 😝 [F me look...](http://9gag.com/gag/aGyVBXZ)
+ - 👉 [Smart people and their wrong predictions](http://9gag.com/gag/aD2w8qZ)<!-- MEMES:END -->
 
 ---
 

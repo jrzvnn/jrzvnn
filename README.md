@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Passing the mantle](http://9gag.com/gag/a34d0bQ)
- - 😝 [This one deserves a moment of silence and some respect.](http://9gag.com/gag/aLnQ47z)
- - 💣 [How do people like this even exist](http://9gag.com/gag/awybdGW)
  - 😝 [Got us in the first half.](http://9gag.com/gag/ae932YW)
- - 👉 [My whole life is a lie](http://9gag.com/gag/a6ZdBqR)<!-- MEMES:END -->
+ - 😝 [How do people like this even exist](http://9gag.com/gag/awybdGW)
+ - 💣 [20 years working together. They&#39;re married to different people. Either women aren&#39;t obvious enough or men are truly clueless.](http://9gag.com/gag/aoyZVX3)
+ - 😝 [Welcome to Europe! Its a nice place.](http://9gag.com/gag/aPAyX4P)
+ - 👉 [A god does not care about the opinion of an ant. Mike Tyson owning whatshisface by doing nothing.](http://9gag.com/gag/a9yMvgj)<!-- MEMES:END -->
 
 ---
 

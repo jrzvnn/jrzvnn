@@ -173,10 +173,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Who cares about the product she&#39;s using, gotta love her excitement.](http://9gag.com/gag/aryeBR0)
- - 😝 [The dog really said](http://9gag.com/gag/a34d2GQ)
- - 💣 [The near invisible effect of painting the chicken wire black](http://9gag.com/gag/awybdW8)
- - 😝 [This is the wholesome non woke ads the rest of the world gets](http://9gag.com/gag/azxLRPb)
- - 👉 [This one deserves a moment of silence and some respect.](http://9gag.com/gag/aLnQ47z)<!-- MEMES:END -->
+ - 😝 [How do people like this even exist](http://9gag.com/gag/awybdGW)
+ - 💣 [F me look...](http://9gag.com/gag/aGyVBXZ)
+ - 😝 [This one deserves a moment of silence and some respect.](http://9gag.com/gag/aLnQ47z)
+ - 👉 [A god does not care about the opinion of an ant. Mike Tyson owning whatshisface by doing nothing.](http://9gag.com/gag/a9yMvgj)<!-- MEMES:END -->
 
 ---
 

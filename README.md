@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Freewrite Alpha Review: For People Who Just Want to Get Stuff Done](https://www.wired.com/review/review-freewrite-alpha/)
- - [The AI assistants are getting better fast](https://www.theverge.com/24158659/ai-assistant-chatgpt-gpt4o-google-search-dyson-washg1-installer)
- - [How to See Your Estimated Monthly Social Security Amount     - CNET](https://www.cnet.com/personal-finance/how-to-see-your-estimated-monthly-social-security-amount/#ftag=CAD590a51e)
- - [It&#39;s Almost Apple&#39;s Turn: iOS 18 Needs to Have These Features     - CNET](https://www.cnet.com/tech/mobile/its-almost-apples-turn-ios-18-needs-to-have-these-features/#ftag=CAD590a51e)
- - [About 38% of webpages that existed in 2013 are unavailable now and 8% of pages from 2023 are unavailable; 23% of news pages have at least one broken link &lpar;Pew Research Center&rpar;](http://www.techmeme.com/240519/p6#a240519p6)<!-- TECH:END -->
+ - [13 Best Office Chairs &lpar;2024&rpar;: Budget, Luxe, Cushions, Casters, and Mats](https://www.wired.com/gallery/best-office-chairs/)
+ - [How to easily see what was talked about at every WWDC session since 2000](https://appleinsider.com/inside/wwdc/tips/how-to-easily-see-what-was-talked-about-at-every-wwdc-session-since-2000?utm_medium=rss)
+ - [How Vermont lawmakers passed a strict online data privacy law despite significant pushback from the tech industry; GOP Gov. Phil Scott is yet to sign the bill &lpar;Alfred Ng/Politico&rpar;](http://www.techmeme.com/240519/p7#a240519p7)
+ - [How Steve Jobs changed the face of retail with the Apple Store](https://appleinsider.com/articles/18/05/15/steve-jobs-changed-the-face-of-apple-and-retail-forever-on-may-15-2001?utm_medium=rss)
+ - [Freewrite Alpha Review: For People Who Just Want to Get Stuff Done](https://www.wired.com/review/review-freewrite-alpha/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

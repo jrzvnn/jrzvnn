@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sonos is teasing its ‘most requested product ever’ on Tuesday](https://www.theverge.com/2024/5/19/24160259/sonos-teasing-new-propduct-announcement-ace-headphones-tuesday-may-21)
+ - [At the 2024 Upfronts, streaming services dominated with Amazon Prime Video and Netflix making their debut, and live sports and ad tech were given more attention &lpar;Stephen Battaglio/Los Angeles Times&rpar;](http://www.techmeme.com/240519/p13#a240519p13)
+ - [Best AirPods Deals: Score Apple&#39;s Best Earbuds and Headphones for Up to $99 Off     - CNET](https://www.cnet.com/deals/best-apple-airpods-deals/#ftag=CAD590a51e)
  - [Memo: Didi co-founder Jean Liu steps down as president and board director, positions she has held since December 2014, and will become a &quot;permanent partner&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/240519/p12#a240519p12)
- - [Amazon slashes Apple&#39;s brand-new iPad Air 6 to $569](https://appleinsider.com/articles/24/05/19/amazon-slashes-apples-brand-new-ipad-air-6-to-569?utm_medium=rss)
- - [Kuo: iPhone 16 Pro replacing blue with rose titanium color](https://appleinsider.com/articles/24/05/19/kuo-iphone-16-pro-replacing-blue-with-rose-titanium-color?utm_medium=rss)
- - [Sources: US officials have told Google, Meta, and others about concerns that undersea cables could be vulnerable to tampering by China-owned repair ships &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240519/p11#a240519p11)
- - [A look at Meta&#39;s AI strategy, which is a bet that open sourcing the tech will drive down competitors&#39; prices and spread Meta&#39;s version of AI more broadly &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240519/p10#a240519p10)<!-- TECH:END -->
+ - [Wake Up to Big Memorial Day Discounts at Atlas for the Coffee Lover in Your Life     - CNET](https://www.cnet.com/deals/score-a-discounted-atlas-subscription-for-the-coffee-lover-in-your-life/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

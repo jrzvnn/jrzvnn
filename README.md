@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This pedophile was identified when police uncovered his identity by reversing the &#39;swirl&#39; effect he used online](http://9gag.com/gag/awybL48)
- - 😝 [A god does not care about the opinion of an ant. Mike Tyson owning whatshisface by doing nothing.](http://9gag.com/gag/a9yMvgj)
- - 💣 [Passing the mantle](http://9gag.com/gag/a34d0bQ)
- - 😝 [Gambling 20k like nothing](http://9gag.com/gag/awyb15B)
- - 👉 [Inflation](http://9gag.com/gag/aAyV63E)<!-- MEMES:END -->
+ - 😝 [Dumb bullies don\u2019t deserve a chance](http://9gag.com/gag/an7XnnL)
+ - 😝 [You have VERY serious issues, Mauricio](http://9gag.com/gag/a34d0WQ)
+ - 💣 [Memory lane - repost #1](http://9gag.com/gag/awybL1x)
+ - 😝 [This one deserves a moment of silence and some respect.](http://9gag.com/gag/aLnQ47z)
+ - 👉 [20 years working together. They&#39;re married to different people. Either women aren&#39;t obvious enough or men are truly clueless.](http://9gag.com/gag/aoyZVX3)<!-- MEMES:END -->
 
 ---
 

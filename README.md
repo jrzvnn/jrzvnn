@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [#1 Guinness #2 Internet](http://9gag.com/gag/aVvQE9O)
- - 😝 [This one deserves a moment of silence and some respect.](http://9gag.com/gag/aLnQ47z)
- - 💣 [Terrorists get smoked](http://9gag.com/gag/a9yM2VW)
- - 😝 [My whole life is a lie](http://9gag.com/gag/a6ZdBqR)
- - 👉 [F me look...](http://9gag.com/gag/aGyVBXZ)<!-- MEMES:END -->
+ - 😝 [It\u2019s 2024 and i still don\u2019t know how McLovin did this](http://9gag.com/gag/aryex56)
+ - 😝 [He was in no rush](http://9gag.com/gag/a7oKemA)
+ - 💣 [Do you even gae bro?](http://9gag.com/gag/agm07Wv)
+ - 😝 [When you are literally dying for that Internet attention](http://9gag.com/gag/aAyVM9E)
+ - 👉 [Terrorists get smoked](http://9gag.com/gag/a9yM2VW)<!-- MEMES:END -->
 
 ---
 

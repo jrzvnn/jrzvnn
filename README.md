@@ -173,10 +173,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Gambling 20k like nothing](http://9gag.com/gag/awyb15B)
- - 😝 [This one deserves a moment of silence and some respect.](http://9gag.com/gag/aLnQ47z)
- - 💣 [When you are literally dying for that Internet attention](http://9gag.com/gag/aAyVM9E)
- - 😝 [Passing the mantle](http://9gag.com/gag/a34d0bQ)
- - 👉 [What&#39;s going on here?](http://9gag.com/gag/ae931z5)<!-- MEMES:END -->
+ - 😝 [He was in no rush](http://9gag.com/gag/a7oKemA)
+ - 💣 [Post](http://9gag.com/gag/adB6nYN)
+ - 😝 [Japanese really hate it](http://9gag.com/gag/aryeZ46)
+ - 👉 [Smart people and their wrong predictions](http://9gag.com/gag/aD2w8qZ)<!-- MEMES:END -->
 
 ---
 

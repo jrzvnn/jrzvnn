@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at UK-based Faculty, which has been awarded UK government contracts for AI safety work without competition, raising questions about its political links &lpar;Politico&rpar;](http://www.techmeme.com/240519/p5#a240519p5)
  - [How a rightwing smear campaign against NPR and its CEO Katherine Maher, who is on Signal Foundation&#39;s board, led Elon Musk to malign Signal &lpar;Renee DiResta/The Guardian&rpar;](http://www.techmeme.com/240519/p4#a240519p4)
  - [The Complex Social Lives of Viruses](https://www.wired.com/story/the-complex-social-lives-of-viruses/)
  - [Culture secretary Lucy Frazer says the UK is working on rules around the use of creative work for training AI after media and arts executives voiced concerns &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/240519/p3#a240519p3)
- - [How China is using AI news anchors to spread its propaganda on social media; Microsoft: some AI anchors were created using ByteDance&#39;s video editing app CapCut &lpar;The Guardian&rpar;](http://www.techmeme.com/240519/p2#a240519p2)
- - [Chinese firms are selling &quot;AI-in-a-box&quot; products for companies to run on premises; Huawei estimates the Chinese market for such machines will hit ~$2.3B in 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/240519/p1#a240519p1)<!-- TECH:END -->
+ - [How China is using AI news anchors to spread its propaganda on social media; Microsoft: some AI anchors were created using ByteDance&#39;s video editing app CapCut &lpar;The Guardian&rpar;](http://www.techmeme.com/240519/p2#a240519p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

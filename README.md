@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [20 years working together. They&#39;re married to different people. Either women aren&#39;t obvious enough or men are truly clueless.](http://9gag.com/gag/aoyZVX3)
- - 😝 [When you are literally dying for that Internet attention](http://9gag.com/gag/aAyVM9E)
- - 💣 [Our, you scallywag, you got a loicense for that?!?!](http://9gag.com/gag/awybm6R)
- - 😝 [How do people like this even exist](http://9gag.com/gag/awybdGW)
- - 👉 [Where do I apply for this job?](http://9gag.com/gag/avyZ6E5)<!-- MEMES:END -->
+ - 😝 [Passing the mantle](http://9gag.com/gag/a34d0bQ)
+ - 😝 [Our, you scallywag, you got a loicense for that?!?!](http://9gag.com/gag/awybm6R)
+ - 💣 [How do people like this even exist](http://9gag.com/gag/awybdGW)
+ - 😝 [Where do I apply for this job?](http://9gag.com/gag/avyZ6E5)
+ - 👉 [20 years working together. They&#39;re married to different people. Either women aren&#39;t obvious enough or men are truly clueless.](http://9gag.com/gag/aoyZVX3)<!-- MEMES:END -->
 
 ---
 

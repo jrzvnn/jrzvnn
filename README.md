@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wait\u2026 I\u2019m the president!](http://9gag.com/gag/aGyVMnZ)
- - 😝 [Blue Just now](http://9gag.com/gag/aGyVA1G)
- - 💣 [Smart people and their wrong predictions](http://9gag.com/gag/aD2w8qZ)
- - 😝 [A god does not care about the opinion of an ant. Mike Tyson owning whatshisface by doing nothing.](http://9gag.com/gag/a9yMvgj)
- - 👉 [What&#39;s going on here?](http://9gag.com/gag/ae931z5)<!-- MEMES:END -->
+ - 😝 [What game has the best main menu music?](http://9gag.com/gag/aByQEeP)
+ - 😝 [Gambling 20k like nothing](http://9gag.com/gag/awyb15B)
+ - 💣 [Assassasins Creed tv commercial. A relic from a kinder past.](http://9gag.com/gag/awyb1X4)
+ - 😝 [What&#39;s going on here?](http://9gag.com/gag/ae931z5)
+ - 👉 [F me look...](http://9gag.com/gag/aGyVBXZ)<!-- MEMES:END -->
 
 ---
 

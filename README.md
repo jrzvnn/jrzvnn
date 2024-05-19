@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Welcome to Europe! Its a nice place.](http://9gag.com/gag/aPAyX4P)
- - 😝 [Every fathers worst nightmare...](http://9gag.com/gag/aLnQXjz)
- - 💣 [F me look...](http://9gag.com/gag/aGyVBXZ)
- - 😝 [We are getting old!](http://9gag.com/gag/a9yMO70)
- - 👉 [Do they knock you out before the op or are you aware of everything? A lot of friends have recommended this to correct my eyesight.](http://9gag.com/gag/amoLmnv)<!-- MEMES:END -->
+ - 😝 [Who cares about the product she&#39;s using, gotta love her excitement.](http://9gag.com/gag/aryeBR0)
+ - 😝 [WHAT. THE. F**K!](http://9gag.com/gag/azxLRYp)
+ - 💣 [This video of the meteor in Portugal](http://9gag.com/gag/aAyVXmg)
+ - 😝 [F me look...](http://9gag.com/gag/aGyVBXZ)
+ - 👉 [Some heroes don&#39;t wear a Capes](http://9gag.com/gag/aqyZxAZ)<!-- MEMES:END -->
 
 ---
 

@@ -173,10 +173,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Passing the mantle](http://9gag.com/gag/a34d0bQ)
- - 😝 [Our, you scallywag, you got a loicense for that?!?!](http://9gag.com/gag/awybm6R)
+ - 😝 [This one deserves a moment of silence and some respect.](http://9gag.com/gag/aLnQ47z)
  - 💣 [How do people like this even exist](http://9gag.com/gag/awybdGW)
- - 😝 [Where do I apply for this job?](http://9gag.com/gag/avyZ6E5)
- - 👉 [20 years working together. They&#39;re married to different people. Either women aren&#39;t obvious enough or men are truly clueless.](http://9gag.com/gag/aoyZVX3)<!-- MEMES:END -->
+ - 😝 [Got us in the first half.](http://9gag.com/gag/ae932YW)
+ - 👉 [My whole life is a lie](http://9gag.com/gag/a6ZdBqR)<!-- MEMES:END -->
 
 ---
 

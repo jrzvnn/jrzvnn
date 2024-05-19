@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My fellow 9gaggers, please don&#39;t be rac*st](http://9gag.com/gag/arye387)
  - 😝 [This one deserves a moment of silence and some respect.](http://9gag.com/gag/aLnQ47z)
- - 💣 [Gambling 20k like nothing](http://9gag.com/gag/awyb15B)
- - 😝 [What&#39;s going on here?](http://9gag.com/gag/ae931z5)
- - 👉 [He was in no rush](http://9gag.com/gag/a7oKemA)<!-- MEMES:END -->
+ - 😝 [He was in no rush](http://9gag.com/gag/a7oKemA)
+ - 💣 [What&#39;s going on here?](http://9gag.com/gag/ae931z5)
+ - 😝 [My fellow 9gaggers, please don&#39;t be rac*st](http://9gag.com/gag/arye387)
+ - 👉 [Gambling 20k like nothing](http://9gag.com/gag/awyb15B)<!-- MEMES:END -->
 
 ---
 

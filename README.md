@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Welcome to Europe! Its a nice place.](http://9gag.com/gag/aPAyX4P)
- - 😝 [20 years working together. They&#39;re married to different people. Either women aren&#39;t obvious enough or men are truly clueless.](http://9gag.com/gag/aoyZVX3)
- - 💣 [A god does not care about the opinion of an ant. Mike Tyson owning whatshisface by doing nothing.](http://9gag.com/gag/a9yMvgj)
- - 😝 [How do people like this even exist](http://9gag.com/gag/awybdGW)
- - 👉 [F me look...](http://9gag.com/gag/aGyVBXZ)<!-- MEMES:END -->
+ - 😝 [My whole life is a lie](http://9gag.com/gag/a6ZdBqR)
+ - 😝 [Where do I apply for this job?](http://9gag.com/gag/avyZ6E5)
+ - 💣 [Who cares about the product she&#39;s using, gotta love her excitement.](http://9gag.com/gag/aryeBR0)
+ - 😝 [They still know where he lives..](http://9gag.com/gag/aD2wZy9)
+ - 👉 [Gambling 20k like nothing](http://9gag.com/gag/awyb15B)<!-- MEMES:END -->
 
 ---
 

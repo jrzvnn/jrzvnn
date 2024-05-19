@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple and OpenAI are preparing a major announcement of their partnership at WWDC; the new AirTag with a better chip is scheduled to arrive by mid-2025 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240519/p8#a240519p8)
  - [The 18 Best PlayStation Plus Games &lpar;May 2024&rpar;](https://www.wired.com/gallery/best-playstation-ps-plus-games-extra-premium/)
  - [The smells and tastes of a great video game](https://www.theverge.com/24158235/gamescent-smellovision-digital-taste-vergecast)
  - [Updated and enhanced AirTag expected in 2025](https://appleinsider.com/articles/24/05/19/updated-and-enhanced-airtag-expected-in-2025?utm_medium=rss)
- - [All the news about Blue Origin’s first crewed flight since 2022](https://www.theverge.com/2024/5/19/24160127/blue-origin-ns-25-new-shepard-6th-crewed-launch)
- - [14 Best Sunglasses for Everyday &lpar;2025&rpar;: Meta Ray-Ban, JINS, and more](https://www.wired.com/gallery/best-sunglasses/)<!-- TECH:END -->
+ - [All the news about Blue Origin’s first crewed flight since 2022](https://www.theverge.com/2024/5/19/24160127/blue-origin-ns-25-new-shepard-6th-crewed-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Internet Providers in Louisville, Kentucky     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-louisville-ky/#ftag=CAD590a51e)
  - [Sonos is teasing its ‘most requested product ever’ on Tuesday](https://www.theverge.com/2024/5/19/24160259/sonos-teasing-new-propduct-announcement-ace-headphones-tuesday-may-21)
  - [At the 2024 Upfronts, streaming services dominated with Amazon Prime Video and Netflix making their debut, and live sports and ad tech were given more attention &lpar;Stephen Battaglio/Los Angeles Times&rpar;](http://www.techmeme.com/240519/p13#a240519p13)
- - [Best AirPods Deals: Score Apple&#39;s Best Earbuds and Headphones for Up to $99 Off     - CNET](https://www.cnet.com/deals/best-apple-airpods-deals/#ftag=CAD590a51e)
- - [Memo: Didi co-founder Jean Liu steps down as president and board director, positions she has held since December 2014, and will become a &quot;permanent partner&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/240519/p12#a240519p12)
- - [Wake Up to Big Memorial Day Discounts at Atlas for the Coffee Lover in Your Life     - CNET](https://www.cnet.com/deals/score-a-discounted-atlas-subscription-for-the-coffee-lover-in-your-life/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Turn Off FaceTime Reactions by Adjusting This Setting     - CNET](https://www.cnet.com/tech/services-and-software/turn-off-facetime-reactions-by-adjusting-this-setting/#ftag=CAD590a51e)
+ - [Best AirPods Deals: Score Apple&#39;s Best Earbuds and Headphones for Up to $99 Off     - CNET](https://www.cnet.com/deals/best-apple-airpods-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

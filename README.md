@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gambling 20k like nothing](http://9gag.com/gag/awyb15B)
- - 😝 [He was in no rush](http://9gag.com/gag/a7oKemA)
- - 💣 [Post](http://9gag.com/gag/adB6nYN)
- - 😝 [Japanese really hate it](http://9gag.com/gag/aryeZ46)
- - 👉 [Smart people and their wrong predictions](http://9gag.com/gag/aD2w8qZ)<!-- MEMES:END -->
+ - 😝 [Ping Pong](http://9gag.com/gag/a5QNGyo)
+ - 😝 [Men be like](http://9gag.com/gag/a34d8RQ)
+ - 💣 [Some heroes don&#39;t wear a Capes](http://9gag.com/gag/aqyZxAZ)
+ - 😝 [Polish alphabet](http://9gag.com/gag/a5QNzEg)
+ - 👉 [This is the wholesome non woke ads the rest of the world gets](http://9gag.com/gag/azxLRPb)<!-- MEMES:END -->
 
 ---
 

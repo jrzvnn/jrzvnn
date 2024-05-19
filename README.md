@@ -164,10 +164,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Mac Pro and Mac Studio refreshes may wait till 2025](https://appleinsider.com/articles/24/05/19/mac-pro-and-mac-studio-refreshes-may-wait-till-2025?utm_medium=rss)
+ - [Valoi Easy35 Film-Scanning Kit Review: Fast, Affordable, and Easy to Use](https://www.wired.com/review/valoi-easy35-film-scanning-kit/)
+ - [The five-year journey to make an adventure game out of ink and paper](https://www.theverge.com/24155754/the-collage-atlas-interview-steam-hand-drawn)
  - [13 Best Office Chairs &lpar;2024&rpar;: Budget, Luxe, Cushions, Casters, and Mats](https://www.wired.com/gallery/best-office-chairs/)
- - [How to easily see what was talked about at every WWDC session since 2000](https://appleinsider.com/inside/wwdc/tips/how-to-easily-see-what-was-talked-about-at-every-wwdc-session-since-2000?utm_medium=rss)
- - [How Vermont lawmakers passed a strict online data privacy law despite significant pushback from the tech industry; GOP Gov. Phil Scott is yet to sign the bill &lpar;Alfred Ng/Politico&rpar;](http://www.techmeme.com/240519/p7#a240519p7)
- - [How Steve Jobs changed the face of retail with the Apple Store](https://appleinsider.com/articles/18/05/15/steve-jobs-changed-the-face-of-apple-and-retail-forever-on-may-15-2001?utm_medium=rss)<!-- TECH:END -->
+ - [Best VPNs for Xbox in 2024: Top Picks by Our VPN Experts     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-xbox/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

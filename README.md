@@ -163,7 +163,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpaceX launches Starlink in Indonesia to improve access in remote parts of the country, starting with three local health centres &lpar;Stefanno Sulaiman/Reuters&rpar;](http://www.techmeme.com/240519/p9#a240519p9)
+ - [SpaceX launches Starlink in Indonesia to improve internet access in remote parts of the country, starting with three local health centres &lpar;Stefanno Sulaiman/Reuters&rpar;](http://www.techmeme.com/240519/p9#a240519p9)
  - [Sources: Apple and OpenAI are preparing a major announcement of their partnership at WWDC; the new AirTag with a better chip is scheduled to arrive by mid-2025 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240519/p8#a240519p8)
  - [The 18 Best PlayStation Plus Games &lpar;May 2024&rpar;](https://www.wired.com/gallery/best-playstation-ps-plus-games-extra-premium/)
  - [The smells and tastes of a great video game](https://www.theverge.com/24158235/gamescent-smellovision-digital-taste-vergecast)

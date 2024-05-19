@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Shoichiro Irimajiri, one of Japan&#39;s most admired business leaders who, as a Sega executive, saved Nvidia in the 1990s with a $5M investment &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/240518/p17#a240518p17)
  - [Researchers are working on sophisticated robots that use AI to converse and play games with people suffering from cognitive disorders like dementia &lpar;Cassandra Willyard/MIT Technology Review&rpar;](http://www.techmeme.com/240518/p16#a240518p16)
  - [Best Running Headphones and Earbuds for 2024     - CNET](https://www.cnet.com/tech/mobile/best-running-headphones/#ftag=CAD590a51e)
  - [Sam Altman says he is embarrassed that there was a provision about potential equity cancellation in exit docs, and OpenAI never took back anyone&#39;s vested equity &lpar;Sam Altman/@sama&rpar;](http://www.techmeme.com/240518/p15#a240518p15)
- - [The Purple Mattress I Slept on for 5 Years Is on Sale This Memorial Day     - CNET](https://www.cnet.com/deals/purple-mattress-memorial-day-2024/#ftag=CAD590a51e)
- - [20 Memorial Day Mattress Deals: Save Hundreds on Your Next Bed     - CNET](https://www.cnet.com/deals/best-memorial-day-mattress-deals-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Purple Mattress I Slept on for 5 Years Is on Sale This Memorial Day     - CNET](https://www.cnet.com/deals/purple-mattress-memorial-day-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 18 Best PlayStation Plus Games &lpar;May 2024&rpar;](https://www.wired.com/gallery/best-playstation-ps-plus-games-extra-premium/)
+ - [The smells and tastes of a great video game](https://www.theverge.com/24158235/gamescent-smellovision-digital-taste-vergecast)
  - [Updated and enhanced AirTag expected in 2025](https://appleinsider.com/articles/24/05/19/updated-and-enhanced-airtag-expected-in-2025?utm_medium=rss)
  - [All the news about Blue Origin’s first crewed flight since 2022](https://www.theverge.com/2024/5/19/24160127/blue-origin-ns-25-new-shepard-6th-crewed-launch)
- - [14 Best Sunglasses for Everyday &lpar;2025&rpar;: Meta Ray-Ban, JINS, and more](https://www.wired.com/gallery/best-sunglasses/)
- - [Mac Pro and Mac Studio refreshes may wait till 2025](https://appleinsider.com/articles/24/05/19/mac-pro-and-mac-studio-refreshes-may-wait-till-2025?utm_medium=rss)
- - [Valoi Easy35 Film-Scanning Kit Review: Fast, Affordable, and Easy to Use](https://www.wired.com/review/valoi-easy35-film-scanning-kit/)<!-- TECH:END -->
+ - [14 Best Sunglasses for Everyday &lpar;2025&rpar;: Meta Ray-Ban, JINS, and more](https://www.wired.com/gallery/best-sunglasses/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Where do I apply for this job?](http://9gag.com/gag/avyZ6E5)
- - 😝 [A god does not care about the opinion of an ant. Mike Tyson owning whatshisface by doing nothing.](http://9gag.com/gag/a9yMvgj)
- - 💣 [Real Money like the old days.](http://9gag.com/gag/a2vPDep)
- - 😝 [Mohammed Asaduzzaman. The new mayor of Brighton &amp; Hove, UK.](http://9gag.com/gag/aO8yDjy)
- - 👉 [Dumb bullies don\u2019t deserve a chance](http://9gag.com/gag/an7XnnL)<!-- MEMES:END -->
+ - 😝 [Gambling 20k like nothing](http://9gag.com/gag/awyb15B)
+ - 😝 [When you are literally dying for that Internet attention](http://9gag.com/gag/aAyVM9E)
+ - 💣 [How do people like this even exist](http://9gag.com/gag/awybdGW)
+ - 😝 [Passing the mantle](http://9gag.com/gag/a34d0bQ)
+ - 👉 [Some heroes don&#39;t wear a Capes](http://9gag.com/gag/aqyZxAZ)<!-- MEMES:END -->
 
 ---
 

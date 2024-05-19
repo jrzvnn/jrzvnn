@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ping Pong](http://9gag.com/gag/a5QNGyo)
- - 😝 [Men be like](http://9gag.com/gag/a34d8RQ)
- - 💣 [Some heroes don&#39;t wear a Capes](http://9gag.com/gag/aqyZxAZ)
- - 😝 [Polish alphabet](http://9gag.com/gag/a5QNzEg)
- - 👉 [This is the wholesome non woke ads the rest of the world gets](http://9gag.com/gag/azxLRPb)<!-- MEMES:END -->
+ - 😝 [#1 Guinness #2 Internet](http://9gag.com/gag/aVvQE9O)
+ - 😝 [This one deserves a moment of silence and some respect.](http://9gag.com/gag/aLnQ47z)
+ - 💣 [Terrorists get smoked](http://9gag.com/gag/a9yM2VW)
+ - 😝 [My whole life is a lie](http://9gag.com/gag/a6ZdBqR)
+ - 👉 [F me look...](http://9gag.com/gag/aGyVBXZ)<!-- MEMES:END -->
 
 ---
 

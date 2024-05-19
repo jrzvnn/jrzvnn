@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My fellow 9gaggers, please don&#39;t be rac*st](http://9gag.com/gag/arye387)
+ - 😝 [What have I told you, ye of little faith](http://9gag.com/gag/aqyZ6Xj)
  - 😝 [What&#39;s going on here?](http://9gag.com/gag/ae931z5)
- - 💣 [This one deserves a moment of silence and some respect.](http://9gag.com/gag/aLnQ47z)
- - 😝 [Inflation](http://9gag.com/gag/aAyV63E)
- - 👉 [20 years working together. They&#39;re married to different people. Either women aren&#39;t obvious enough or men are truly clueless.](http://9gag.com/gag/aoyZVX3)<!-- MEMES:END -->
+ - 💣 [My fellow 9gaggers, please don&#39;t be rac*st](http://9gag.com/gag/arye387)
+ - 😝 [20 years working together. They&#39;re married to different people. Either women aren&#39;t obvious enough or men are truly clueless.](http://9gag.com/gag/aoyZVX3)
+ - 👉 [Inflation](http://9gag.com/gag/aAyV63E)<!-- MEMES:END -->
 
 ---
 

@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It\u2019s 2024 and i still don\u2019t know how McLovin did this](http://9gag.com/gag/aryex56)
- - 😝 [He was in no rush](http://9gag.com/gag/a7oKemA)
- - 💣 [Do you even gae bro?](http://9gag.com/gag/agm07Wv)
- - 😝 [When you are literally dying for that Internet attention](http://9gag.com/gag/aAyVM9E)
- - 👉 [Terrorists get smoked](http://9gag.com/gag/a9yM2VW)<!-- MEMES:END -->
+ - 😝 [When diarrhea strikes](http://9gag.com/gag/aW40oQA)
+ - 😝 [Gambling 20k like nothing](http://9gag.com/gag/awyb15B)
+ - 💣 [Terrorists get smoked](http://9gag.com/gag/a9yM2VW)
+ - 😝 [A god does not care about the opinion of an ant. Mike Tyson owning whatshisface by doing nothing.](http://9gag.com/gag/a9yMvgj)
+ - 👉 [F me look...](http://9gag.com/gag/aGyVBXZ)<!-- MEMES:END -->
 
 ---
 

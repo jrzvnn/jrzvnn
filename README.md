@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Passing the mantle](http://9gag.com/gag/a34d0bQ)
- - 😝 [Who cares about the product she&#39;s using, gotta love her excitement.](http://9gag.com/gag/aryeBR0)
- - 💣 [They still know where he lives..](http://9gag.com/gag/aD2wZy9)
- - 😝 [Do they knock you out before the op or are you aware of everything? A lot of friends have recommended this to correct my eyesight.](http://9gag.com/gag/amoLmnv)
- - 👉 [Welcome to Europe! Its a nice place.](http://9gag.com/gag/aPAyX4P)<!-- MEMES:END -->
+ - 😝 [This one deserves a moment of silence and some respect.](http://9gag.com/gag/aLnQ47z)
+ - 😝 [It\u2019s 2024 and i still don\u2019t know how McLovin did this](http://9gag.com/gag/aryex56)
+ - 💣 [When you are literally dying for that Internet attention](http://9gag.com/gag/aAyVM9E)
+ - 😝 [F me look...](http://9gag.com/gag/aGyVBXZ)
+ - 👉 [Blue Just now](http://9gag.com/gag/aGyVA1G)<!-- MEMES:END -->
 
 ---
 

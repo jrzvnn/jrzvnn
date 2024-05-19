@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Two students find security bug that could let millions do laundry for free](https://www.theverge.com/2024/5/19/24160383/students-security-bug-laundry-machines-csc-serviceworks)
  - [Around 58 countries now offer a digital nomad visa, as governments compete with each other to attract talent; the number of US digital nomads hit 17.3M in 2023 &lpar;Emma Agyemang/Financial Times&rpar;](http://www.techmeme.com/240519/p15#a240519p15)
  - [If you want an iPad Pro Magic Keyboard that matches the Siri Remote, it&#39;ll cost you](https://appleinsider.com/articles/24/05/19/user-pays-double-to-make-magic-keyboard-that-matches-the-siri-remote?utm_medium=rss)
  - [Best E-Reader for 2024     - CNET](https://www.cnet.com/tech/computing/best-e-reader/#ftag=CAD590a51e)
- - [The Mac Pro and Studio won’t get the M4 nod until mid-2025](https://www.theverge.com/2024/5/19/24160117/ipad-pro-m4-single-core-mac-pro-m2-ultra)
- - [Microsoft, Meta, Google and others pitch smaller language models that are cheaper to build and train, to lower costs and hardware requirements for generative AI &lpar;Financial Times&rpar;](http://www.techmeme.com/240519/p14#a240519p14)<!-- TECH:END -->
+ - [The Mac Pro and Studio won’t get the M4 nod until mid-2025](https://www.theverge.com/2024/5/19/24160117/ipad-pro-m4-single-core-mac-pro-m2-ultra)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This one deserves a moment of silence and some respect.](http://9gag.com/gag/aLnQ47z)
- - 😝 [It\u2019s 2024 and i still don\u2019t know how McLovin did this](http://9gag.com/gag/aryex56)
- - 💣 [When you are literally dying for that Internet attention](http://9gag.com/gag/aAyVM9E)
+ - 😝 [Passing the mantle](http://9gag.com/gag/a34d0bQ)
  - 😝 [F me look...](http://9gag.com/gag/aGyVBXZ)
- - 👉 [Blue Just now](http://9gag.com/gag/aGyVA1G)<!-- MEMES:END -->
+ - 💣 [Where do I apply for this job?](http://9gag.com/gag/avyZ6E5)
+ - 😝 [9 pillars of light appear in night sky above coastal Japanese town](http://9gag.com/gag/aGyV2Mz)
+ - 👉 [Welcome to Europe! Its a nice place.](http://9gag.com/gag/aPAyX4P)<!-- MEMES:END -->
 
 ---
 

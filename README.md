@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Passing the mantle](http://9gag.com/gag/a34d0bQ)
- - 😝 [F me look...](http://9gag.com/gag/aGyVBXZ)
- - 💣 [Where do I apply for this job?](http://9gag.com/gag/avyZ6E5)
- - 😝 [9 pillars of light appear in night sky above coastal Japanese town](http://9gag.com/gag/aGyV2Mz)
- - 👉 [Welcome to Europe! Its a nice place.](http://9gag.com/gag/aPAyX4P)<!-- MEMES:END -->
+ - 😝 [The near invisible effect of painting the chicken wire black](http://9gag.com/gag/awybdW8)
+ - 😝 [This is the wholesome non woke ads the rest of the world gets](http://9gag.com/gag/azxLRPb)
+ - 💣 [Abbey did not expect that](http://9gag.com/gag/axy2PVb)
+ - 😝 [Marvel: lets cgi the scene, Christopher Nolan...](http://9gag.com/gag/awyb4pW)
+ - 👉 [Hot coffee!](http://9gag.com/gag/a87bw06)<!-- MEMES:END -->
 
 ---
 

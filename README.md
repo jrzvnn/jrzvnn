@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It\u2019s 2024 and i still don\u2019t know how McLovin did this](http://9gag.com/gag/aryex56)
- - 😝 [A god does not care about the opinion of an ant. Mike Tyson owning whatshisface by doing nothing.](http://9gag.com/gag/a9yMvgj)
- - 💣 [When you are literally dying for that Internet attention](http://9gag.com/gag/aAyVM9E)
  - 😝 [Some heroes don&#39;t wear a Capes](http://9gag.com/gag/aqyZxAZ)
- - 👉 [Passing the mantle](http://9gag.com/gag/a34d0bQ)<!-- MEMES:END -->
+ - 😝 [Ohh poor john](http://9gag.com/gag/ae93VnW)
+ - 💣 [F me look...](http://9gag.com/gag/aGyVBXZ)
+ - 😝 [My whole life is a lie](http://9gag.com/gag/a6ZdBqR)
+ - 👉 [Dumb bullies don\u2019t deserve a chance](http://9gag.com/gag/an7XnnL)<!-- MEMES:END -->
 
 ---
 

@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This one deserves a moment of silence and some respect.](http://9gag.com/gag/aLnQ47z)
- - 😝 [He was in no rush](http://9gag.com/gag/a7oKemA)
- - 💣 [What&#39;s going on here?](http://9gag.com/gag/ae931z5)
- - 😝 [My fellow 9gaggers, please don&#39;t be rac*st](http://9gag.com/gag/arye387)
- - 👉 [Gambling 20k like nothing](http://9gag.com/gag/awyb15B)<!-- MEMES:END -->
+ - 😝 [It\u2019s 2024 and i still don\u2019t know how McLovin did this](http://9gag.com/gag/aryex56)
+ - 😝 [A god does not care about the opinion of an ant. Mike Tyson owning whatshisface by doing nothing.](http://9gag.com/gag/a9yMvgj)
+ - 💣 [When you are literally dying for that Internet attention](http://9gag.com/gag/aAyVM9E)
+ - 😝 [Some heroes don&#39;t wear a Capes](http://9gag.com/gag/aqyZxAZ)
+ - 👉 [Passing the mantle](http://9gag.com/gag/a34d0bQ)<!-- MEMES:END -->
 
 ---
 

@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kuo: iPhone 16 Pro replacing blue with rose titanium color](https://appleinsider.com/articles/24/05/19/kuo-iphone-16-pro-replacing-blue-with-rose-titanium-color?utm_medium=rss)
  - [Sources: US officials have told Google, Meta, and others about concerns that undersea cables could be vulnerable to tampering by China-owned repair ships &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240519/p11#a240519p11)
  - [A look at Meta&#39;s AI strategy, which is a bet that open sourcing the tech will drive down competitors&#39; prices and spread Meta&#39;s version of AI more broadly &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240519/p10#a240519p10)
  - [You Might Need an Electrician to Install a Home EV Charger     - CNET](https://www.cnet.com/roadshow/news/you-might-need-an-electrician-to-install-a-home-ev-charger/#ftag=CAD590a51e)
- - [The Last D&amp;D Campaign Before Everything Changes Is a Wild Ride     - CNET](https://www.cnet.com/culture/entertainment/the-last-d-d-campaign-before-everything-changes-is-a-wild-ride/#ftag=CAD590a51e)
- - [SpaceX launches Starlink in Indonesia to improve internet access in remote parts of the country, starting with three local health centers &lpar;Stefanno Sulaiman/Reuters&rpar;](http://www.techmeme.com/240519/p9#a240519p9)<!-- TECH:END -->
+ - [The Last D&amp;D Campaign Before Everything Changes Is a Wild Ride     - CNET](https://www.cnet.com/culture/entertainment/the-last-d-d-campaign-before-everything-changes-is-a-wild-ride/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

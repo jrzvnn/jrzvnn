@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Some heroes don&#39;t wear a Capes](http://9gag.com/gag/aqyZxAZ)
- - 😝 [Ohh poor john](http://9gag.com/gag/ae93VnW)
- - 💣 [F me look...](http://9gag.com/gag/aGyVBXZ)
- - 😝 [My whole life is a lie](http://9gag.com/gag/a6ZdBqR)
- - 👉 [Dumb bullies don\u2019t deserve a chance](http://9gag.com/gag/an7XnnL)<!-- MEMES:END -->
+ - 😝 [Gambling 20k like nothing](http://9gag.com/gag/awyb15B)
+ - 😝 [This one deserves a moment of silence and some respect.](http://9gag.com/gag/aLnQ47z)
+ - 💣 [When you are literally dying for that Internet attention](http://9gag.com/gag/aAyVM9E)
+ - 😝 [Passing the mantle](http://9gag.com/gag/a34d0bQ)
+ - 👉 [What&#39;s going on here?](http://9gag.com/gag/ae931z5)<!-- MEMES:END -->
 
 ---
 

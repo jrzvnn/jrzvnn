@@ -163,10 +163,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [If you want an iPad Pro Magic Keyboard that matches the Siri Remote, it&#39;ll cost you](https://appleinsider.com/articles/24/05/19/user-pays-double-to-make-magic-keyboard-that-matches-the-siri-remote?utm_medium=rss)
  - [The Mac Pro and Studio won’t get the M4 nod until mid-2025](https://www.theverge.com/2024/5/19/24160117/ipad-pro-m4-single-core-mac-pro-m2-ultra)
  - [Microsoft, Meta, Google and others pitch smaller language models that are cheaper to build and train, to lower costs and hardware requirements for generative AI &lpar;Financial Times&rpar;](http://www.techmeme.com/240519/p14#a240519p14)
  - [What Color Are Your Sunglasses? It May Matter for When You&#39;re Using Them     - CNET](https://www.cnet.com/health/personal-care/what-color-are-your-sunglasses-why-different-colors-have-different-uses/#ftag=CAD590a51e)
- - [User pays double to make Magic Keyboard that matches the Siri Remote](https://appleinsider.com/articles/24/05/19/user-pays-double-to-make-magic-keyboard-that-matches-the-siri-remote?utm_medium=rss)
  - [Best Internet Providers in Louisville, Kentucky     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-louisville-ky/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Last D&amp;D Campaign Before Everything Changes Is a Wild Ride     - CNET](https://www.cnet.com/culture/entertainment/the-last-d-d-campaign-before-everything-changes-is-a-wild-ride/#ftag=CAD590a51e)
  - [SpaceX launches Starlink in Indonesia to improve internet access in remote parts of the country, starting with three local health centers &lpar;Stefanno Sulaiman/Reuters&rpar;](http://www.techmeme.com/240519/p9#a240519p9)
  - [Best Microwave for 2024     - CNET](https://www.cnet.com/home/kitchen-and-household/best-microwaves/#ftag=CAD590a51e)
  - [Sources: Apple and OpenAI are preparing a major announcement of their partnership at WWDC; the new AirTag with a better chip is scheduled to arrive by mid-2025 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240519/p8#a240519p8)
- - [Did the Social Security Administration Send You Too Much Money? What to Do     - CNET](https://www.cnet.com/personal-finance/did-the-social-security-administration-send-you-too-much-money-what-to-do/#ftag=CAD590a51e)
- - [The 18 Best PlayStation Plus Games &lpar;May 2024&rpar;](https://www.wired.com/gallery/best-playstation-ps-plus-games-extra-premium/)<!-- TECH:END -->
+ - [Did the Social Security Administration Send You Too Much Money? What to Do     - CNET](https://www.cnet.com/personal-finance/did-the-social-security-administration-send-you-too-much-money-what-to-do/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Helicopter carrying Iranian President Raisi crashed, Iranian media reports. &lpar;More informations in comments&rpar;](http://9gag.com/gag/aPAyXPg)
  - 😝 [F me look...](http://9gag.com/gag/aGyVBXZ)
- - 😝 [WHAT. THE. F**K!](http://9gag.com/gag/azxLRYp)
- - 💣 [Every fathers worst nightmare...](http://9gag.com/gag/aLnQXjz)
- - 😝 [This one deserves a moment of silence and some respect.](http://9gag.com/gag/aLnQ47z)
- - 👉 [This video of the meteor in Portugal](http://9gag.com/gag/aAyVXmg)<!-- MEMES:END -->
+ - 💣 [Do they knock you out before the op or are you aware of everything? A lot of friends have recommended this to correct my eyesight.](http://9gag.com/gag/amoLmnv)
+ - 😝 [Every fathers worst nightmare...](http://9gag.com/gag/aLnQXjz)
+ - 👉 [Some heroes don&#39;t wear a Capes](http://9gag.com/gag/aqyZxAZ)<!-- MEMES:END -->
 
 ---
 

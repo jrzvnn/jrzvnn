@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Smart people and their wrong predictions](http://9gag.com/gag/aD2w8qZ)
- - 😝 [They still know where he lives..](http://9gag.com/gag/aD2wZy9)
- - 💣 [Do they knock you out before the op or are you aware of everything? A lot of friends have recommended this to correct my eyesight.](http://9gag.com/gag/amoLmnv)
- - 😝 [9 pillars of light appear in night sky above coastal Japanese town](http://9gag.com/gag/aGyV2Mz)
- - 👉 [Welcome to Europe! Its a nice place.](http://9gag.com/gag/aPAyX4P)<!-- MEMES:END -->
+ - 😝 [My whole life is a lie](http://9gag.com/gag/a6ZdBqR)
+ - 😝 [WHAT. THE. F**K!](http://9gag.com/gag/azxLRYp)
+ - 💣 [Every fathers worst nightmare...](http://9gag.com/gag/aLnQXjz)
+ - 😝 [This one deserves a moment of silence and some respect.](http://9gag.com/gag/aLnQ47z)
+ - 👉 [How do people like this even exist](http://9gag.com/gag/awybdGW)<!-- MEMES:END -->
 
 ---
 

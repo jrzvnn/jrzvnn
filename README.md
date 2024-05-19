@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Culture secretary Lucy Frazer says the UK is working on rules around the use of creative work for training AI after media and arts executives voiced concerns &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/240519/p3#a240519p3)
  - [How China is using AI news anchors to spread its propaganda on social media; Microsoft: some AI anchors were created using ByteDance&#39;s video editing app CapCut &lpar;The Guardian&rpar;](http://www.techmeme.com/240519/p2#a240519p2)
  - [Chinese firms are selling &quot;AI-in-a-box&quot; products for companies to run on premises; Huawei estimates the Chinese market for such machines will hit ~$2.3B in 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/240519/p1#a240519p1)
  - [DRAM inventor Robert H. Dennard, who also devised a concept known as Dennard scaling that was complementary to Moore&#39;s Law, died on April 23 at age 91 &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/240518/p18#a240518p18)
- - [Today&#39;s NYT Connections Hints and Answers: Help for May 19, #343     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hints-answer-help-for-may-19-343/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints and Answer: Help for May 19, #1065     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-and-answer-help-for-may-19-1065/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints and Answers: Help for May 19, #343     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hints-answer-help-for-may-19-343/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

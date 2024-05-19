@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thieves steal $400K Rolls-Royce Cullinan in &lt;30 seconds with homemade relay amplifier](http://9gag.com/gag/ayNpWxW)
- - 😝 [20 years working together. They&#39;re married to different people. Either women aren&#39;t obvious enough or men are truly clueless.](http://9gag.com/gag/aoyZVX3)
- - 💣 [He was in no rush](http://9gag.com/gag/a7oKemA)
- - 😝 [Passing the mantle](http://9gag.com/gag/a34d0bQ)
- - 👉 [Right.](http://9gag.com/gag/a87bDXQ)<!-- MEMES:END -->
+ - 😝 [Gambling 20k like nothing](http://9gag.com/gag/awyb15B)
+ - 😝 [Austrian Art](http://9gag.com/gag/ayNp32W)
+ - 💣 [How about an actual japanese samurai](http://9gag.com/gag/axy23Ob)
+ - 😝 [Ohh poor john](http://9gag.com/gag/ae93VnW)
+ - 👉 [A god does not care about the opinion of an ant. Mike Tyson owning whatshisface by doing nothing.](http://9gag.com/gag/a9yMvgj)<!-- MEMES:END -->
 
 ---
 

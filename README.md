@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to See Your Estimated Monthly Social Security Amount     - CNET](https://www.cnet.com/personal-finance/how-to-see-your-estimated-monthly-social-security-amount/#ftag=CAD590a51e)
- - [It&#39;s Almost Apple&#39;s Turn: iOS 18 Needs to Have These Features     - CNET](https://www.cnet.com/tech/mobile/its-almost-apples-turn-ios-18-needs-to-have-these-features/#ftag=CAD590a51e)
  - [About 38% of webpages that existed in 2013 are unavailable now and 8% of pages from 2023 are unavailable; 23% of news pages have at least one broken link &lpar;Pew Research Center&rpar;](http://www.techmeme.com/240519/p6#a240519p6)
  - [iOS 17.5 Is Available Now, but Don&#39;t Miss These iOS 17.4 Features     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-5-is-avilable-now-here-but-dont-miss-these-ios-17-4-features/#ftag=CAD590a51e)
- - [Best Phone Under $500 for 2024: Great Features at Lower Prices     - CNET](https://www.cnet.com/tech/mobile/best-phone-under-500/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Phone Under $500 for 2024: Great Features at Lower Prices     - CNET](https://www.cnet.com/tech/mobile/best-phone-under-500/#ftag=CAD590a51e)
+ - [Best Google Pixel Phone to Buy in 2024     - CNET](https://www.cnet.com/tech/mobile/best-google-pixel-phone/#ftag=CAD590a51e)
+ - [Run Out of Wordle and Connections Games? Try LinkedIn&#39;s 3 New Puzzles     - CNET](https://www.cnet.com/tech/services-and-software/run-out-of-wordle-and-connections-games-try-linkedins-three-new-puzzles/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

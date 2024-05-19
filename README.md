@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The near invisible effect of painting the chicken wire black](http://9gag.com/gag/awybdW8)
- - 😝 [This is the wholesome non woke ads the rest of the world gets](http://9gag.com/gag/azxLRPb)
- - 💣 [Abbey did not expect that](http://9gag.com/gag/axy2PVb)
- - 😝 [Marvel: lets cgi the scene, Christopher Nolan...](http://9gag.com/gag/awyb4pW)
- - 👉 [Hot coffee!](http://9gag.com/gag/a87bw06)<!-- MEMES:END -->
+ - 😝 [They still know where he lives..](http://9gag.com/gag/aD2wZy9)
+ - 😝 [Do they knock you out before the op or are you aware of everything? A lot of friends have recommended this to correct my eyesight.](http://9gag.com/gag/amoLmnv)
+ - 💣 [Where do I apply for this job?](http://9gag.com/gag/avyZ6E5)
+ - 😝 [Helicopter carrying Iranian President Raisi crashed, Iranian media reports. &lpar;More informations in comments&rpar;](http://9gag.com/gag/aPAyXPg)
+ - 👉 [Passing the mantle](http://9gag.com/gag/a34d0bQ)<!-- MEMES:END -->
 
 ---
 

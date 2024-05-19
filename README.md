@@ -173,10 +173,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [F me look...](http://9gag.com/gag/aGyVBXZ)
- - 😝 [They still know where he lives..](http://9gag.com/gag/aD2wZy9)
- - 💣 [WHAT. THE. F**K!](http://9gag.com/gag/azxLRYp)
- - 😝 [Every fathers worst nightmare...](http://9gag.com/gag/aLnQXjz)
- - 👉 [This one deserves a moment of silence and some respect.](http://9gag.com/gag/aLnQ47z)<!-- MEMES:END -->
+ - 😝 [WHAT. THE. F**K!](http://9gag.com/gag/azxLRYp)
+ - 💣 [Every fathers worst nightmare...](http://9gag.com/gag/aLnQXjz)
+ - 😝 [This one deserves a moment of silence and some respect.](http://9gag.com/gag/aLnQ47z)
+ - 👉 [This video of the meteor in Portugal](http://9gag.com/gag/aAyVXmg)<!-- MEMES:END -->
 
 ---
 

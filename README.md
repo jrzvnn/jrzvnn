@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They still know where he lives..](http://9gag.com/gag/aD2wZy9)
- - 😝 [When you are literally dying for that Internet attention](http://9gag.com/gag/aAyVM9E)
- - 💣 [Where do I apply for this job?](http://9gag.com/gag/avyZ6E5)
- - 😝 [WHAT. THE. F**K!](http://9gag.com/gag/azxLRYp)
- - 👉 [Helicopter carrying Iranian President Raisi crashed, Iranian media reports. &lpar;More informations in comments&rpar;](http://9gag.com/gag/aPAyXPg)<!-- MEMES:END -->
+ - 😝 [Passing the mantle](http://9gag.com/gag/a34d0bQ)
+ - 😝 [Who cares about the product she&#39;s using, gotta love her excitement.](http://9gag.com/gag/aryeBR0)
+ - 💣 [They still know where he lives..](http://9gag.com/gag/aD2wZy9)
+ - 😝 [Do they knock you out before the op or are you aware of everything? A lot of friends have recommended this to correct my eyesight.](http://9gag.com/gag/amoLmnv)
+ - 👉 [Welcome to Europe! Its a nice place.](http://9gag.com/gag/aPAyX4P)<!-- MEMES:END -->
 
 ---
 

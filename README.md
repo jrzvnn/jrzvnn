@@ -164,10 +164,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [About 38% of webpages that existed in 2013 are unavailable now and 8% of pages from 2023 are unavailable; 23% of news pages have at least one broken link &lpar;Pew Research Center&rpar;](http://www.techmeme.com/240519/p6#a240519p6)
+ - [iOS 17.5 Is Available Now, but Don&#39;t Miss These iOS 17.4 Features     - CNET](https://www.cnet.com/tech/services-and-software/ios-17-5-is-avilable-now-here-but-dont-miss-these-ios-17-4-features/#ftag=CAD590a51e)
+ - [Best Phone Under $500 for 2024: Great Features at Lower Prices     - CNET](https://www.cnet.com/tech/mobile/best-phone-under-500/#ftag=CAD590a51e)
  - [Best Google Pixel Phone to Buy in 2024     - CNET](https://www.cnet.com/tech/mobile/best-google-pixel-phone/#ftag=CAD590a51e)
- - [Run Out of Wordle and Connections Games? Try LinkedIn&#39;s 3 New Puzzles     - CNET](https://www.cnet.com/tech/services-and-software/run-out-of-wordle-and-connections-games-try-linkedins-three-new-puzzles/#ftag=CAD590a51e)
- - [A look at UK-based Faculty, which has been awarded UK government contracts for AI safety work without competition, raising questions about its political links &lpar;Politico&rpar;](http://www.techmeme.com/240519/p5#a240519p5)
- - [Your iPhone&#39;s Notes App Is a Secret Weapon for Private Conversations. How It Works     - CNET](https://www.cnet.com/tech/services-and-software/your-iphones-notes-app-is-a-secret-weapon-for-private-conversations-how-it-works/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Run Out of Wordle and Connections Games? Try LinkedIn&#39;s 3 New Puzzles     - CNET](https://www.cnet.com/tech/services-and-software/run-out-of-wordle-and-connections-games-try-linkedins-three-new-puzzles/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

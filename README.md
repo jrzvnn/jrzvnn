@@ -164,10 +164,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Updated and enhanced AirTag expected in 2025](https://appleinsider.com/articles/24/05/19/updated-and-enhanced-airtag-expected-in-2025?utm_medium=rss)
+ - [All the news about Blue Origin’s first crewed flight since 2022](https://www.theverge.com/2024/5/19/24160127/blue-origin-ns-25-new-shepard-6th-crewed-launch)
  - [14 Best Sunglasses for Everyday &lpar;2025&rpar;: Meta Ray-Ban, JINS, and more](https://www.wired.com/gallery/best-sunglasses/)
  - [Mac Pro and Mac Studio refreshes may wait till 2025](https://appleinsider.com/articles/24/05/19/mac-pro-and-mac-studio-refreshes-may-wait-till-2025?utm_medium=rss)
- - [Valoi Easy35 Film-Scanning Kit Review: Fast, Affordable, and Easy to Use](https://www.wired.com/review/valoi-easy35-film-scanning-kit/)
- - [The five-year journey to make an adventure game out of ink and paper](https://www.theverge.com/24155754/the-collage-atlas-interview-steam-hand-drawn)<!-- TECH:END -->
+ - [Valoi Easy35 Film-Scanning Kit Review: Fast, Affordable, and Easy to Use](https://www.wired.com/review/valoi-easy35-film-scanning-kit/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

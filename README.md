@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just a reminder](http://9gag.com/gag/a9yMO8Z)
- - 😝 [Welcome to Europe! Its a nice place.](http://9gag.com/gag/aPAyX4P)
- - 💣 [Physics defying pushups](http://9gag.com/gag/ajP6WPx)
- - 😝 [Every fathers worst nightmare...](http://9gag.com/gag/aLnQXjz)
- - 👉 [This video of the meteor in Portugal](http://9gag.com/gag/aAyVXmg)<!-- MEMES:END -->
+ - 😝 [Too early to win the Darwin award of this year?](http://9gag.com/gag/an7XVOV)
+ - 😝 [The circus show has begun!](http://9gag.com/gag/an7XG4L)
+ - 💣 [After living in western countries for many years I&#39;m bit jealous of their boomers. They had life on easiest settings possible.](http://9gag.com/gag/a4P9wvZ)
+ - 😝 [I&#39;m gonna take an 8 hour break](http://9gag.com/gag/a87bK33)
+ - 👉 [Someone&#39;s Happy](http://9gag.com/gag/ae93R2O)<!-- MEMES:END -->
 
 ---
 

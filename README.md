@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Freedom of speech.](http://9gag.com/gag/avyZdjX)
+ - 😝 [How do people like this even exist](http://9gag.com/gag/awybdGW)
  - 😝 [Welcome to Europe! Its a nice place.](http://9gag.com/gag/aPAyX4P)
- - 💣 [We are getting old!](http://9gag.com/gag/a9yMO70)
+ - 💣 [This video of the meteor in Portugal](http://9gag.com/gag/aAyVXmg)
  - 😝 [Tourist grabs lever during flight](http://9gag.com/gag/aByQXe1)
- - 👉 [Every fathers worst nightmare...](http://9gag.com/gag/aLnQXjz)<!-- MEMES:END -->
+ - 👉 [We are getting old!](http://9gag.com/gag/a9yMO70)<!-- MEMES:END -->
 
 ---
 

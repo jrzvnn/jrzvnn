@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [This video of the meteor in Portugal](http://9gag.com/gag/aAyVXmg)
+ - 😝 [It&#39;s a win win for him, I&#39;d say](http://9gag.com/gag/avyZx9E)
+ - 💣 [Got us in the first half.](http://9gag.com/gag/ae932YW)
  - 😝 [Welcome to Europe! Its a nice place.](http://9gag.com/gag/aPAyX4P)
- - 😝 [Some heroes don&#39;t wear a Capes](http://9gag.com/gag/aqyZxAZ)
- - 💣 [We are getting old!](http://9gag.com/gag/a9yMO70)
- - 😝 [Every fathers worst nightmare...](http://9gag.com/gag/aLnQXjz)
- - 👉 [This video of the meteor in Portugal](http://9gag.com/gag/aAyVXmg)<!-- MEMES:END -->
+ - 👉 [Who cares about the product she&#39;s using, gotta love her excitement.](http://9gag.com/gag/aryeBR0)<!-- MEMES:END -->
 
 ---
 

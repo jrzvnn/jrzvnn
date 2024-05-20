@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Acer, Asus, Dell, HP, Samsung, and Lenovo joined Microsoft in debuting laptops featuring Qualcomm&#39;s Snapdragon X Elite or Plus chips and a dedicated Copilot key &lpar;Lawrence Bonk/Engadget&rpar;](http://www.techmeme.com/240520/p29#a240520p29)
+ - [The latest 13-inch MacBook Air has dropped to a new all-time low](https://www.theverge.com/2024/5/20/24160755/apple-macbook-air-13-inch-m3-directvstream-deal-sale)
+ - [A first look at Microsoft’s new Surface Pro with Arm chips inside](https://www.theverge.com/2024/5/20/24160769/microsoft-surface-pro-2024-hands-on-pictures)
  - [Hands-on with the Surface Laptop on Arm](https://www.theverge.com/24160789/microsoft-surface-laptop-6-arm-hands-on-snapdragon-x-elite)
- - [I Make AI Models to Sell Real People Clothes](https://www.wired.com/story/your-next-job-ai-modeling-agent/)
- - [Inside Microsoft’s mission to take down the MacBook Air](https://www.theverge.com/2024/5/20/24160463/microsoft-windows-laptops-copilot-arm-chips-m1)
- - [Acer, Dell, HP, and Lenovo all joined Microsoft in debuting laptops featuring Qualcomm&#39;s Snapdragon X Elite or Plus chips, some promising multi-day battery life &lpar;Brandon Hill/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240520/p28#a240520p28)
- - [Microsoft Surface event: the 6 biggest announcements](https://www.theverge.com/2024/5/20/24160711/microsoft-surface-event-ai-windows-biggest-announcements)<!-- TECH:END -->
+ - [I Make AI Models to Sell Real People Clothes](https://www.wired.com/story/your-next-job-ai-modeling-agent/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

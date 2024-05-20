@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Satya Nadella&#39;s approach to pushing AI at Microsoft, as the company bets big on OpenAI and in-house models, but also on G42, Mistral, Figure, others &lpar;Jeremy Kahn/Fortune&rpar;](http://www.techmeme.com/240520/p18#a240520p18)
- - [Child predators are flocking to AI-generated images of children on TikTok and Instagram, raising questions about how to handle the suggestive, fake images &lpar;Alexandra S. Levine/Forbes&rpar;](http://www.techmeme.com/240520/p17#a240520p17)
- - [Inflection AI, which had ~70 staffers follow Mustafa Sulyman and leave for Microsoft in March, debuts a new leadership team and says it has 18 months of runway &lpar;Matt Marshall/VentureBeat&rpar;](http://www.techmeme.com/240520/p16#a240520p16)
+ - [A live blog of Microsoft&#39;s Surface and Windows AI event, where hardware with Qualcomm&#39;s new Arm chips and new Windows features like AI Explorer are expected &lpar;The Verge&rpar;](http://www.techmeme.com/240520/p19#a240520p19)
+ - [How Apple has steadily been dropping the &#39;i&#39; from its devices for over a decade](https://appleinsider.com/articles/24/05/20/how-apple-has-steadily-been-dropping-the-i-from-its-devices-for-over-a-decade?utm_medium=rss)
  - [Microsoft’s Surface AI event: news, rumors, and lots of Qualcomm laptops](https://www.theverge.com/24159022/microsoft-surface-ai-event-news-rumors-announcements)
- - [Microsoft’s Surface and Windows AI event live blog: it’s Arm time](https://www.theverge.com/2024/5/20/24158827/microsoft-surface-windows-ai-event-live-blog-news-updates)<!-- TECH:END -->
+ - [A look at Satya Nadella&#39;s approach to pushing AI at Microsoft, as the company bets big on OpenAI and in-house models, but also on G42, Mistral, Figure, others &lpar;Jeremy Kahn/Fortune&rpar;](http://www.techmeme.com/240520/p18#a240520p18)
+ - [Child predators are flocking to AI-generated images of children on TikTok and Instagram, raising questions about how to handle the suggestive, fake images &lpar;Alexandra S. Levine/Forbes&rpar;](http://www.techmeme.com/240520/p17#a240520p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

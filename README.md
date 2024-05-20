@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hot coffee!](http://9gag.com/gag/a87bw06)
- - 😝 [Abbey did not expect that](http://9gag.com/gag/axy2PVb)
- - 💣 [Lick](http://9gag.com/gag/awyb4OQ)
- - 😝 [Marvel: lets cgi the scene, Christopher Nolan...](http://9gag.com/gag/awyb4pW)
- - 👉 [Who cares about the product she&#39;s using, gotta love her excitement.](http://9gag.com/gag/aryeBR0)<!-- MEMES:END -->
+ - 😝 [WHAT. THE. F**K!](http://9gag.com/gag/azxLRYp)
+ - 😝 [Who cares about the product she&#39;s using, gotta love her excitement.](http://9gag.com/gag/aryeBR0)
+ - 💣 [Every fathers worst nightmare...](http://9gag.com/gag/aLnQXjz)
+ - 😝 [We are getting old!](http://9gag.com/gag/a9yMO70)
+ - 👉 [Do they knock you out before the op or are you aware of everything? A lot of friends have recommended this to correct my eyesight.](http://9gag.com/gag/amoLmnv)<!-- MEMES:END -->
 
 ---
 

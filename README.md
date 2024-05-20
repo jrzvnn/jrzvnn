@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Physics defying pushups](http://9gag.com/gag/ajP6WPx)
- - 😝 [Lick](http://9gag.com/gag/awyb4OQ)
- - 💣 [Marvel: lets cgi the scene, Christopher Nolan...](http://9gag.com/gag/awyb4pW)
- - 😝 [Abbey did not expect that](http://9gag.com/gag/axy2PVb)
- - 👉 [Who cares about the product she&#39;s using, gotta love her excitement.](http://9gag.com/gag/aryeBR0)<!-- MEMES:END -->
+ - 😝 [How do people like this even exist](http://9gag.com/gag/awybdGW)
+ - 😝 [We are getting old!](http://9gag.com/gag/a9yMO70)
+ - 💣 [8th and 12th and 22nd... all are ground floors :&rpar;](http://9gag.com/gag/aAyVMxE)
+ - 😝 [This video of the meteor in Portugal](http://9gag.com/gag/aAyVXmg)
+ - 👉 [This fish has had enough of this economy \ud83d\udc80](http://9gag.com/gag/ae93xmb)<!-- MEMES:END -->
 
 ---
 

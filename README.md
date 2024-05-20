@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple TV hardware storage limits will keep most emulators away](https://appleinsider.com/articles/24/05/20/apple-tv-hardware-storage-limits-will-keep-most-emulators-away?utm_medium=rss)
  - [Don&#39;t get too excited about new iPhone trade-in bonuses from Apple](https://appleinsider.com/articles/24/05/20/dont-get-too-excited-about-new-iphone-trade-in-bonuses-from-apple?utm_medium=rss)
  - [Apple announces a discount of up to $318 on its Tmall site in China between May 20 and May 28 on select iPhone models amid competition from Huawei and others &lpar;Reuters&rpar;](http://www.techmeme.com/240520/p5#a240520p5)
  - [Indian Voters Are Being Bombarded With Millions of Deepfakes. Political Candidates Approve](https://www.wired.com/story/indian-elections-ai-deepfakes/)
- - [OpenAI pauses the use of the Sky voice in ChatGPT after users said it sounded too much like Scarlett Johansson, says voice was not chosen to be an &quot;imitation&quot; &lpar;Amy Thomson/Bloomberg&rpar;](http://www.techmeme.com/240520/p4#a240520p4)
- - [Best Record Player for 2024     - CNET](https://www.cnet.com/tech/home-entertainment/best-record-player/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OpenAI pauses the use of the Sky voice in ChatGPT after users said it sounded too much like Scarlett Johansson, says voice was not chosen to be an &quot;imitation&quot; &lpar;Amy Thomson/Bloomberg&rpar;](http://www.techmeme.com/240520/p4#a240520p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

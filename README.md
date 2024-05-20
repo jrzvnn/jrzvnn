@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We are getting old!](http://9gag.com/gag/a9yMO70)
- - 😝 [Welcome to Europe! Its a nice place.](http://9gag.com/gag/aPAyX4P)
- - 💣 [Some heroes don&#39;t wear a Capes](http://9gag.com/gag/aqyZxAZ)
- - 😝 [WHAT. THE. F**K!](http://9gag.com/gag/azxLRYp)
- - 👉 [This video of the meteor in Portugal](http://9gag.com/gag/aAyVXmg)<!-- MEMES:END -->
+ - 😝 [How do people like this even exist](http://9gag.com/gag/awybdGW)
+ - 😝 [Imagine the opening battle scene...](http://9gag.com/gag/aE0GWbo)
+ - 💣 [Welcome to Europe! Its a nice place.](http://9gag.com/gag/aPAyX4P)
+ - 😝 [Ohh poor john](http://9gag.com/gag/ae93VnW)
+ - 👉 [My whole life is a lie](http://9gag.com/gag/a6ZdBqR)<!-- MEMES:END -->
 
 ---
 

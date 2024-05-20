@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WikiLeaks&#39; Julian Assange Can Appeal His Extradition to the US, British Court Says](https://www.wired.com/story/julian-assange-court-hearing-appeal-extradition/)
+ - [Meta and LG’s headset partnership is on the rocks](https://www.theverge.com/2024/5/20/24160644/lg-meta-xr-vr-headset-partnership-paused-rumors)
  - [PE firm EQT is in advanced talks to buy video game services company Keywords Studios for &amp;pound;2.2B, or &amp;pound;25.5 per share, a 70%+ premium on Friday&#39;s close &lpar;Financial Times&rpar;](http://www.techmeme.com/240520/p8#a240520p8)
- - [Best VPN for Windows     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-windows/#ftag=CAD590a51e)
- - [A Cellular Apple Watch Series 7 for Just $250? You Won&#39;t Want to Miss This     - CNET](https://www.cnet.com/deals/a-cellular-apple-watch-series-7-for-just-250-you-wont-want-to-miss-this/#ftag=CAD590a51e)
  - [CyberArk acquires machine identity management company Venafi from Thoma Bravo in a deal valued at around $1.54B; Thoma Bravo bought Venafi for $1.15B in 2020 &lpar;Sophie Shulman/CTech&rpar;](http://www.techmeme.com/240520/p7#a240520p7)
- - [Refi Rates Dip Since Last Week: Refinance Rates for May 20, 2024     - CNET](https://www.cnet.com/personal-finance/mortgages/refi-rates-dip-since-last-week-refinance-rates-for-may-20-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [7 Best Video Doorbell Cameras &lpar;2024&rpar;: Smart, Battery, AI, Budget, and Subscription-Free](https://www.wired.com/gallery/best-video-doorbells/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

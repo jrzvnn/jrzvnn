@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I Make AI Models to Sell Real People Clothes](https://www.wired.com/story/your-next-job-ai-modeling-agent/)
+ - [Inside Microsoft’s mission to take down the MacBook Air](https://www.theverge.com/2024/5/20/24160463/microsoft-windows-laptops-copilot-arm-chips-m1)
  - [Acer, Dell, HP, and Lenovo all joined Microsoft in debuting laptops featuring Qualcomm&#39;s Snapdragon X Elite or Plus chips, some promising multi-day battery life &lpar;Brandon Hill/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240520/p28#a240520p28)
  - [Microsoft Surface event: the 6 biggest announcements](https://www.theverge.com/2024/5/20/24160711/microsoft-surface-event-ai-windows-biggest-announcements)
- - [Asus’ first Copilot Plus PC is the Vivobook S 15](https://www.theverge.com/2024/5/20/24159018/asus-vivobook-s-15-qualcomm-snapdragon-x-elite-ai-copilot-pc-laptop)
- - [Jolla, maker of Android variant Sailfish OS, details plans for a privacy-focused AI device, Jolla Mind&amp;sup2;, coming this fall for &amp;euro;699 and a &amp;euro;9.99/mo. subscription &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240520/p27#a240520p27)
- - [Dell debuts a Dell XPS 13 with Snapdragon X Elite, the first time the XPS 13 has not had Intel, alongside new Dell Latitude and Inspiron PCs with Qualcomm chips &lpar;PCWorld&rpar;](http://www.techmeme.com/240520/p26#a240520p26)<!-- TECH:END -->
+ - [Asus’ first Copilot Plus PC is the Vivobook S 15](https://www.theverge.com/2024/5/20/24159018/asus-vivobook-s-15-qualcomm-snapdragon-x-elite-ai-copilot-pc-laptop)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

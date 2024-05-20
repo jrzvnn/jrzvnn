@@ -167,7 +167,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Sources: LG has ended its Meta partnership due to a lack of &quot;synergy&quot;, three months after the companies agreed to develop XR devices; LG may partner with Amazon &lpar;Chae-Yeon Kim/KED Global&rpar;](http://www.techmeme.com/240520/p9#a240520p9)
  - [OpenAI pulls its Scarlett Johansson-like voice for ChatGPT](https://www.theverge.com/2024/5/20/24160621/openai-chatgpt-gpt4o-sky-scarlett-johansson-voice-assistant-her)
  - [What to expect from Microsoft’s Surface event today](https://www.theverge.com/2024/5/20/24160451/microsoft-surface-event-what-to-expect-ai)
- - [WikiLeaks&#39; Julian Assange Can Appeal His Extradition to the US, British Court Says](https://www.wired.com/story/julian-assange-court-hearing-appeal-extradition/)<!-- TECH:END -->
+ - [Save $40 on These Incredible Shokz OpenRun Pro Bone Conduction Headphones     - CNET](https://www.cnet.com/deals/save-40-on-these-incredible-shokz-openrun-pro-bone-conduction-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

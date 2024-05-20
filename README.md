@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Every fathers worst nightmare...](http://9gag.com/gag/aLnQXjz)
- - 😝 [Welcome to Europe! Its a nice place.](http://9gag.com/gag/aPAyX4P)
- - 💣 [Tourist grabs lever during flight](http://9gag.com/gag/aByQXe1)
- - 😝 [We were so close to the truth](http://9gag.com/gag/a34db11)
- - 👉 [When you are literally dying for that Internet attention](http://9gag.com/gag/aAyVM9E)<!-- MEMES:END -->
+ - 😝 [Iranians deserve freedom](http://9gag.com/gag/ayNpP8b)
+ - 😝 [Well, that&#39;s obvious](http://9gag.com/gag/aMVbqdM)
+ - 💣 [Return to the Motherland](http://9gag.com/gag/avyZ9B5)
+ - 😝 [The circus show has begun!](http://9gag.com/gag/an7XG4L)
+ - 👉 [After living in western countries for many years I&#39;m bit jealous of their boomers. They had life on easiest settings possible.](http://9gag.com/gag/a4P9wvZ)<!-- MEMES:END -->
 
 ---
 

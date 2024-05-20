@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Neuralink gets US FDA approval to implant its brain chip in a second person; source: FDA signed off on proposed fixes like embedding wires deeper into the brain &lpar;Rolfe Winkler/Wall Street Journal&rpar;](http://www.techmeme.com/240520/p6#a240520p6)
+ - [iPhone SE 4 rumored to be first Face ID iPhone under $500](https://appleinsider.com/articles/24/05/20/iphone-se-4-rumored-to-be-first-face-id-iphone-under-500?utm_medium=rss)
  - [Craig Wright Lied About Creating Bitcoin And Faked Evidence, Judge Rules](https://www.wired.com/story/craig-wright-lied-faked-evidence-bitcoin-judge-says/)
  - [How to Remove Your Personal Info From Google’s Search Results](https://www.wired.com/story/remove-personal-info-from-google-search-results/)
- - [Apple TV hardware storage limits will keep most emulators away](https://appleinsider.com/articles/24/05/20/apple-tv-hardware-storage-limits-will-keep-most-emulators-away?utm_medium=rss)
- - [Don&#39;t get too excited about new iPhone trade-in bonuses from Apple](https://appleinsider.com/articles/24/05/20/dont-get-too-excited-about-new-iphone-trade-in-bonuses-from-apple?utm_medium=rss)
- - [Apple announces discounts of up to $318 on its Tmall site in China between May 20 and May 28 on select iPhone models amid competition from Huawei and others &lpar;Reuters&rpar;](http://www.techmeme.com/240520/p5#a240520p5)<!-- TECH:END -->
+ - [Apple TV hardware storage limits will keep most emulators away](https://appleinsider.com/articles/24/05/20/apple-tv-hardware-storage-limits-will-keep-most-emulators-away?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

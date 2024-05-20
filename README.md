@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Pencil Pro casts a fake shadow based on which tool you&#39;re using](https://appleinsider.com/articles/24/05/20/apple-pencil-pro-casts-a-fake-shadow-based-on-which-tool-youre-using?utm_medium=rss)
+ - [Aqara M3 hub, Pitaka smart car charger, &amp; hands on with Apple Pencil Pro on HomeKit Insider](https://appleinsider.com/articles/24/05/20/aqara-m3-hub-pitaka-smart-car-charger-hands-on-with-apple-pencil-pro-on-homekit-insider?utm_medium=rss)
+ - [AltStore developers detail the significant hurdles facing those looking to open third-party iOS app stores in Europe; AltStore has had 100K+ downloads in the EU &lpar;Austin Carr/Bloomberg&rpar;](http://www.techmeme.com/240520/p11#a240520p11)
  - [Apple wants all of TSMC&#39;s 2nm chips, so they sent Jeff Williams in secret](https://appleinsider.com/articles/24/05/20/apple-wants-all-of-tsmcs-2nm-chips-so-they-sent-jeff-williams-in-secret?utm_medium=rss)
- - [Google CEO Sundar Pichai on AI-powered search and the future of the web](https://www.theverge.com/24158374/google-ceo-sundar-pichai-ai-search-gemini-future-of-the-internet-web-openai-decoder-interview)
- - [The End of ‘iPhone’](https://www.wired.com/story/the-end-of-iphone/)
- - [If you&#39;re buying a new iPad Pro, your old magnetic stand won&#39;t work](https://appleinsider.com/articles/24/05/20/if-youre-buying-a-new-ipad-pro-your-old-magnetic-stand-wont-work?utm_medium=rss)
- - [Grayscale CEO Michael Sonnenshein resigns, to be replaced by the head of strategy for asset and wealth manager at Goldman Sachs, Peter Mintzberg, on August 15 &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/240520/p10#a240520p10)<!-- TECH:END -->
+ - [Google CEO Sundar Pichai on AI-powered search and the future of the web](https://www.theverge.com/24158374/google-ceo-sundar-pichai-ai-search-gemini-future-of-the-internet-web-openai-decoder-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

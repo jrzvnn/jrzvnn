@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DOJ announces the arrest of a Taiwanese national at JFK Airport who allegedly owned Incognito Market, a dark web site used by 200K+ to buy $100M+ worth of drugs &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240520/p32#a240520p32)
  - [Apple releases iOS 17.5.1 and iPadOS 17.5.1 and says the bug allowing some deleted photos to reappear has now been fixed &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/240520/p31#a240520p31)
  - [Where to preorder Microsoft’s new Surface Laptop and Surface Pro](https://www.theverge.com/24160691/microsoft-2024-surface-laptop-pro-preorder-how-to-buy-release-date-price-availability)
  - [Microsoft Surface Pro &lpar;11th Edition&rpar; and Surface Laptop &lpar;7th Edition&rpar;: Specs, Price, Features, Release Date](https://www.wired.com/story/everything-announced-microsoft-surface-event-2024/)
- - [Core design: Why the iPad Pro can be faster than your Mac](https://appleinsider.com/articles/24/05/20/core-design-why-the-ipad-pro-can-be-faster-than-your-mac?utm_medium=rss)
- - [Microsoft&#39;s new push for Windows PCs with Arm chips promises better emulation for non-native apps and Qualcomm chips that can best an M3 in a MacBook Air &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240520/p30#a240520p30)<!-- TECH:END -->
+ - [Core design: Why the iPad Pro can be faster than your Mac](https://appleinsider.com/articles/24/05/20/core-design-why-the-ipad-pro-can-be-faster-than-your-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

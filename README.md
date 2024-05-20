@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
  - [She sold her bathwater — PayPal took her profits](https://www.theverge.com/2024/5/20/24161207/belle-delphine-bathwater-paypal-adult-content)
  - [Scarlett Johansson says she declined to voice ChatGPT, and when she heard Sky she was &quot;shocked&quot; that Sam Altman would pursue a voice so &quot;eerily similar&quot; to hers &lpar;Kat Tenbarge/NBC News&rpar;](http://www.techmeme.com/240520/p41#a240520p41)
  - [Scarlett Johansson told OpenAI not to use her voice — and she’s not happy they might have anyway](https://www.theverge.com/2024/5/20/24161253/scarlett-johansson-openai-altman-legal-action)
- - [Sources: Anduril has had early discussions to raise ~$1.5B at a $12.5B+ valuation, and told investors it roughly doubled revenue to about $500M last year &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/240520/p40#a240520p40)
- - [Apple needs to explain that bug that resurfaced deleted photos](https://www.theverge.com/2024/5/20/24161152/apple-ios-17-photo-bug)<!-- TECH:END -->
+ - [Sources: Anduril has had early discussions to raise ~$1.5B at a $12.5B+ valuation, and told investors it roughly doubled revenue to about $500M last year &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/240520/p40#a240520p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

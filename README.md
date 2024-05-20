@@ -172,10 +172,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This pedophile was identified when police uncovered his identity by reversing the &#39;swirl&#39; effect he used online](http://9gag.com/gag/awybL48)
- - 😝 [Helicopter carrying Iranian President Raisi crashed, Iranian media reports. &lpar;More informations in comments&rpar;](http://9gag.com/gag/aPAyXPg)
- - 💣 [How do people like this even exist](http://9gag.com/gag/awybdGW)
- - 😝 [Some heroes don&#39;t wear a Capes](http://9gag.com/gag/aqyZxAZ)
+ - 😝 [Mohammed Asaduzzaman. The new mayor of Brighton &amp; Hove, UK.](http://9gag.com/gag/aO8yDjy)
+ - 😝 [How do people like this even exist](http://9gag.com/gag/awybdGW)
+ - 💣 [Do they knock you out before the op or are you aware of everything? A lot of friends have recommended this to correct my eyesight.](http://9gag.com/gag/amoLmnv)
+ - 😝 [This video of the meteor in Portugal](http://9gag.com/gag/aAyVXmg)
  - 👉 [Welcome to Europe! Its a nice place.](http://9gag.com/gag/aPAyX4P)<!-- MEMES:END -->
 
 ---

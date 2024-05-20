@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How do people like this even exist](http://9gag.com/gag/awybdGW)
- - 😝 [Imagine the opening battle scene...](http://9gag.com/gag/aE0GWbo)
- - 💣 [Welcome to Europe! Its a nice place.](http://9gag.com/gag/aPAyX4P)
- - 😝 [Ohh poor john](http://9gag.com/gag/ae93VnW)
- - 👉 [My whole life is a lie](http://9gag.com/gag/a6ZdBqR)<!-- MEMES:END -->
+ - 😝 [Who cares about the product she&#39;s using, gotta love her excitement.](http://9gag.com/gag/aryeBR0)
+ - 😝 [Best ad in history!](http://9gag.com/gag/aD2wVow)
+ - 💣 [Real Money like the old days.](http://9gag.com/gag/a2vPDep)
+ - 😝 [Girls dorm in Kyrgyzstan after 500+ local men broke in and tired to force themselves and abuse the girls. The local police isn&#39;t doing and the government is asking people to no upload the videos online](http://9gag.com/gag/apRoYQn)
+ - 👉 [True love and monogamy](http://9gag.com/gag/avyZxrZ)<!-- MEMES:END -->
 
 ---
 

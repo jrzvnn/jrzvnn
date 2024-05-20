@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This video of the meteor in Portugal](http://9gag.com/gag/aAyVXmg)
- - 😝 [Just a reminder](http://9gag.com/gag/a9yMO8Z)
- - 💣 [Every fathers worst nightmare...](http://9gag.com/gag/aLnQXjz)
- - 😝 [Artur Korneyev&#39;s photo of the Elephant&#39;s Foot, 1996.](http://9gag.com/gag/aMVbvWV)
- - 👉 [Girls dorm in Kyrgyzstan after 500+ local men broke in and tired to force themselves and abuse the girls. The local police isn&#39;t doing and the government is asking people to no upload the videos online](http://9gag.com/gag/apRoYQn)<!-- MEMES:END -->
+ - 😝 [She looks nice innit?](http://9gag.com/gag/aZZWRDQ)
+ - 😝 [Iranians deserve freedom](http://9gag.com/gag/ayNpP8b)
+ - 💣 [Too early to win the Darwin award of this year?](http://9gag.com/gag/an7XVOV)
+ - 😝 [I&#39;m creating Animated series about reverse engineering history of mankind with a religious twist. Let me know what you think.](http://9gag.com/gag/a1mZwbD)
+ - 👉 [Found a malignant tumor in my left kidney, getting it removed today so f*ck you and I&#39;ll see you tomorrow!](http://9gag.com/gag/amoLnQy)<!-- MEMES:END -->
 
 ---
 

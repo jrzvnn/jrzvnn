@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She looks nice innit?](http://9gag.com/gag/aZZWRDQ)
- - 😝 [Too early to win the Darwin award of this year?](http://9gag.com/gag/an7XVOV)
- - 💣 [Every fathers worst nightmare...](http://9gag.com/gag/aLnQXjz)
- - 😝 [Tourist grabs lever during flight](http://9gag.com/gag/aByQXe1)
- - 👉 [Welcome to Europe! Its a nice place.](http://9gag.com/gag/aPAyX4P)<!-- MEMES:END -->
+ - 😝 [Just a reminder](http://9gag.com/gag/a9yMO8Z)
+ - 😝 [Gotta keep trying](http://9gag.com/gag/aXPEKv6)
+ - 💣 [Girls dorm in Kyrgyzstan after 500+ local men broke in and tired to force themselves and abuse the girls. The local police isn&#39;t doing and the government is asking people to no upload the videos online](http://9gag.com/gag/apRoYQn)
+ - 😝 [WHAT. THE. F**K!](http://9gag.com/gag/azxLRYp)
+ - 👉 [Who cares about the product she&#39;s using, gotta love her excitement.](http://9gag.com/gag/aryeBR0)<!-- MEMES:END -->
 
 ---
 

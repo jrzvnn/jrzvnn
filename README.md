@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This video of the meteor in Portugal](http://9gag.com/gag/aAyVXmg)
+ - 😝 [Freedom of speech.](http://9gag.com/gag/avyZdjX)
  - 😝 [Welcome to Europe! Its a nice place.](http://9gag.com/gag/aPAyX4P)
- - 💣 [Girls dorm in Kyrgyzstan after 500+ local men broke in and tired to force themselves and abuse the girls. The local police isn&#39;t doing and the government is asking people to no upload the videos online](http://9gag.com/gag/apRoYQn)
- - 😝 [The near invisible effect of painting the chicken wire black](http://9gag.com/gag/awybdW8)
- - 👉 [Tourist grabs lever during flight](http://9gag.com/gag/aByQXe1)<!-- MEMES:END -->
+ - 💣 [We are getting old!](http://9gag.com/gag/a9yMO70)
+ - 😝 [Tourist grabs lever during flight](http://9gag.com/gag/aByQXe1)
+ - 👉 [Every fathers worst nightmare...](http://9gag.com/gag/aLnQXjz)<!-- MEMES:END -->
 
 ---
 

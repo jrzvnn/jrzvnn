@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This video of the meteor in Portugal](http://9gag.com/gag/aAyVXmg)
- - 😝 [It&#39;s a win win for him, I&#39;d say](http://9gag.com/gag/avyZx9E)
- - 💣 [Got us in the first half.](http://9gag.com/gag/ae932YW)
- - 😝 [Welcome to Europe! Its a nice place.](http://9gag.com/gag/aPAyX4P)
- - 👉 [Who cares about the product she&#39;s using, gotta love her excitement.](http://9gag.com/gag/aryeBR0)<!-- MEMES:END -->
+ - 😝 [Tourist grabs lever during flight](http://9gag.com/gag/aByQXe1)
+ - 😝 [Girls dorm in Kyrgyzstan after 500+ local men broke in and tired to force themselves and abuse the girls. The local police isn&#39;t doing and the government is asking people to no upload the videos online](http://9gag.com/gag/apRoYQn)
+ - 💣 [We are getting old!](http://9gag.com/gag/a9yMO70)
+ - 😝 [Every fathers worst nightmare...](http://9gag.com/gag/aLnQXjz)
+ - 👉 [This video of the meteor in Portugal](http://9gag.com/gag/aAyVXmg)<!-- MEMES:END -->
 
 ---
 

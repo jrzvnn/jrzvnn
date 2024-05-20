@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grayscale CEO Michael Sonnenshein resigns, to be replaced by the head of strategy for asset and wealth manager at Goldman Sachs, Peter Mintzberg, on August 15 &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/240520/p10#a240520p10)
- - [Apple’s next AirTag could arrive in 2025](https://www.theverge.com/2024/5/20/24160666/apple-new-airtag-arrive-2025)
- - [Sources: LG has ended its Meta partnership due to a lack of &quot;synergy&quot;, three months after the companies agreed to develop XR devices; LG may partner with Amazon &lpar;Chae-Yeon Kim/KED Global&rpar;](http://www.techmeme.com/240520/p9#a240520p9)
- - [OpenAI pulls its Scarlett Johansson-like voice for ChatGPT](https://www.theverge.com/2024/5/20/24160621/openai-chatgpt-gpt4o-sky-scarlett-johansson-voice-assistant-her)
- - [What to expect from Microsoft’s Surface event today](https://www.theverge.com/2024/5/20/24160451/microsoft-surface-event-what-to-expect-ai)<!-- TECH:END -->
+ - [Apple wants all of TSMC&#39;s 2nm chips, so they sent Jeff Williams in secret](https://appleinsider.com/articles/24/05/20/apple-wants-all-of-tsmcs-2nm-chips-so-they-sent-jeff-williams-in-secret?utm_medium=rss)
+ - [Google CEO Sundar Pichai on AI-powered search and the future of the web](https://www.theverge.com/24158374/google-ceo-sundar-pichai-ai-search-gemini-future-of-the-internet-web-openai-decoder-interview)
+ - [The End of ‘iPhone’](https://www.wired.com/story/the-end-of-iphone/)
+ - [If you&#39;re buying a new iPad Pro, your old magnetic stand won&#39;t work](https://appleinsider.com/articles/24/05/20/if-youre-buying-a-new-ipad-pro-your-old-magnetic-stand-wont-work?utm_medium=rss)
+ - [Grayscale CEO Michael Sonnenshein resigns, to be replaced by the head of strategy for asset and wealth manager at Goldman Sachs, Peter Mintzberg, on August 15 &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/240520/p10#a240520p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

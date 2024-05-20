@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft debuts the 13.8&quot; and 15&quot; Surface Laptop, with Snapdragon X Elite, up to 22 hours of battery life, Wi-Fi 7, and support for three 4K external monitors &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240520/p23#a240520p23)
+ - [Microsoft announces an Arm-powered Surface Laptop](https://www.theverge.com/2024/5/20/24160498/microsoft-arm-surface-laptop-6-qualcomm-snapdragon-x-elite)
  - [New iOS &amp; iPadOS update fixes reappearing photos bug](https://appleinsider.com/articles/24/05/20/new-ios-ipados-update-fixes-reappearing-photos-bug?utm_medium=rss)
- - [Microsoft unveils Recall for Windows 11, an AI-powered search tool for Copilot+ PCs that keeps track of users&#39; actions and gives them an explorable timeline &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/240520/p22#a240520p22)
- - [Another online pharmacy bypasses the FDA to offer cut-rate weight loss drugs](https://www.theverge.com/2024/5/20/24160884/hims-hers-ozempic-weight-loss-wegovy-pharmacy)
- - [Microsoft unveils Copilot+ PCs as a new class of AI-capable Windows PCs with at least 40 TOPs of NPU performance, with several OEMs and chipmakers on board &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/240520/p21#a240520p21)
- - [Recall is Microsoft’s key to unlocking the future of PCs](https://www.theverge.com/2024/5/20/24159258/microsoft-recall-ai-explorer-windows-11-surface-event)<!-- TECH:END -->
+ - [Do not publish, Vlad test links article     - CNET](https://www.cnet.com/news/do-not-publish-vlad-test-links-article/#ftag=CAD590a51e)
+ - [Microsoft unveils Recall for Windows 11, an AI-powered search tool for Copilot+ PCs that keeps track of users&#39; actions and gives them an explorable timeline &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/240520/p22#a240520p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

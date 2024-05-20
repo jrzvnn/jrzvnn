@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Too early to win the Darwin award of this year?](http://9gag.com/gag/an7XVOV)
- - 😝 [The circus show has begun!](http://9gag.com/gag/an7XG4L)
- - 💣 [After living in western countries for many years I&#39;m bit jealous of their boomers. They had life on easiest settings possible.](http://9gag.com/gag/a4P9wvZ)
- - 😝 [I&#39;m gonna take an 8 hour break](http://9gag.com/gag/a87bK33)
- - 👉 [Someone&#39;s Happy](http://9gag.com/gag/ae93R2O)<!-- MEMES:END -->
+ - 😝 [Every fathers worst nightmare...](http://9gag.com/gag/aLnQXjz)
+ - 😝 [This video of the meteor in Portugal](http://9gag.com/gag/aAyVXmg)
+ - 💣 [Tourist grabs lever during flight](http://9gag.com/gag/aByQXe1)
+ - 😝 [So many years have passed and the feminists are still silent when it comes to womenspreading .... I wonder why... Didn&#39;t they claim to be for equality? Hmmm....](http://9gag.com/gag/abAq23b)
+ - 👉 [Who cares about the product she&#39;s using, gotta love her excitement.](http://9gag.com/gag/aryeBR0)<!-- MEMES:END -->
 
 ---
 

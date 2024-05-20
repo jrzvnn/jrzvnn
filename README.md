@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Core design: Why the iPad Pro can be faster than your Mac](https://appleinsider.com/articles/24/05/20/core-design-why-the-ipad-pro-can-be-faster-than-your-mac?utm_medium=rss)
  - [Microsoft&#39;s new push for Windows PCs with Arm chips promises better emulation for non-native apps and Qualcomm chips that can best an M3 in a MacBook Air &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240520/p30#a240520p30)
  - [Acer, Asus, Dell, HP, Samsung, and Lenovo joined Microsoft in debuting laptops featuring Qualcomm&#39;s Snapdragon X Elite or Plus chips and a dedicated Copilot key &lpar;Lawrence Bonk/Engadget&rpar;](http://www.techmeme.com/240520/p29#a240520p29)
- - [The latest 13-inch MacBook Air has dropped to a new all-time low](https://www.theverge.com/2024/5/20/24160755/apple-macbook-air-13-inch-m3-directvstream-deal-sale)
- - [A first look at Microsoft’s new Surface Pro with Arm chips inside](https://www.theverge.com/2024/5/20/24160769/microsoft-surface-pro-2024-hands-on-pictures)<!-- TECH:END -->
+ - [Microsoft Copilot To Use GPT-4o     - CNET](https://www.cnet.com/tech/services-and-software/microsoft-copilot-to-use-gpt-4o/#ftag=CAD590a51e)
+ - [The latest 13-inch MacBook Air has dropped to a new all-time low](https://www.theverge.com/2024/5/20/24160755/apple-macbook-air-13-inch-m3-directvstream-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

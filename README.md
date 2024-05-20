@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Physics defying pushups](http://9gag.com/gag/ajP6WPx)
- - 😝 [Don&#39;t go in there!](http://9gag.com/gag/aPAy1Kw)
- - 💣 [Gaming in your 30&#39;s](http://9gag.com/gag/a34dW3r)
- - 😝 [Back when you needed talent](http://9gag.com/gag/amoLpo2)
- - 👉 [Well, that&#39;s obvious](http://9gag.com/gag/aMVbqdM)<!-- MEMES:END -->
+ - 😝 [We are getting old!](http://9gag.com/gag/a9yMO70)
+ - 😝 [Girls dorm in Kyrgyzstan after 500+ local men broke in and tired to force themselves and abuse the girls. The local police isn&#39;t doing and the government is asking people to no upload the videos online](http://9gag.com/gag/apRoYQn)
+ - 💣 [Any experienced OP here?](http://9gag.com/gag/agm0xLW)
+ - 😝 [`I am Ella Elikim, Noam&#39;s daughter, 8 years old and I am a prisoner of Hamas`. Unbelievable.](http://9gag.com/gag/ae937GB)
+ - 👉 [A minor bump.](http://9gag.com/gag/awybYXr)<!-- MEMES:END -->
 
 ---
 

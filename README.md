@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tourist grabs lever during flight](http://9gag.com/gag/aByQXe1)
- - 😝 [Helicopter carrying Iranian President Raisi crashed, Iranian media reports. &lpar;More informations in comments&rpar;](http://9gag.com/gag/aPAyXPg)
- - 💣 [My whole life is a lie](http://9gag.com/gag/a6ZdBqR)
- - 😝 [We are getting old!](http://9gag.com/gag/a9yMO70)
- - 👉 [Every fathers worst nightmare...](http://9gag.com/gag/aLnQXjz)<!-- MEMES:END -->
+ - 😝 [Welcome to Europe! Its a nice place.](http://9gag.com/gag/aPAyX4P)
+ - 😝 [Some heroes don&#39;t wear a Capes](http://9gag.com/gag/aqyZxAZ)
+ - 💣 [We are getting old!](http://9gag.com/gag/a9yMO70)
+ - 😝 [Every fathers worst nightmare...](http://9gag.com/gag/aLnQXjz)
+ - 👉 [This video of the meteor in Portugal](http://9gag.com/gag/aAyVXmg)<!-- MEMES:END -->
 
 ---
 

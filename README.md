@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tourist grabs lever during flight](http://9gag.com/gag/aByQXe1)
- - 😝 [If there is no cat living in your house.](http://9gag.com/gag/aVvQRo8)
- - 💣 [We are getting old!](http://9gag.com/gag/a9yMO70)
- - 😝 [Some heroes don&#39;t wear a Capes](http://9gag.com/gag/aqyZxAZ)
- - 👉 [Welcome to Europe! Its a nice place.](http://9gag.com/gag/aPAyX4P)<!-- MEMES:END -->
+ - 😝 [This video of the meteor in Portugal](http://9gag.com/gag/aAyVXmg)
+ - 😝 [Welcome to Europe! Its a nice place.](http://9gag.com/gag/aPAyX4P)
+ - 💣 [Girls dorm in Kyrgyzstan after 500+ local men broke in and tired to force themselves and abuse the girls. The local police isn&#39;t doing and the government is asking people to no upload the videos online](http://9gag.com/gag/apRoYQn)
+ - 😝 [The near invisible effect of painting the chicken wire black](http://9gag.com/gag/awybdW8)
+ - 👉 [Tourist grabs lever during flight](http://9gag.com/gag/aByQXe1)<!-- MEMES:END -->
 
 ---
 

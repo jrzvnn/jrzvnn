@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Every fathers worst nightmare...](http://9gag.com/gag/aLnQXjz)
  - 😝 [This video of the meteor in Portugal](http://9gag.com/gag/aAyVXmg)
- - 💣 [Tourist grabs lever during flight](http://9gag.com/gag/aByQXe1)
- - 😝 [So many years have passed and the feminists are still silent when it comes to womenspreading .... I wonder why... Didn&#39;t they claim to be for equality? Hmmm....](http://9gag.com/gag/abAq23b)
- - 👉 [Who cares about the product she&#39;s using, gotta love her excitement.](http://9gag.com/gag/aryeBR0)<!-- MEMES:END -->
+ - 😝 [Just a reminder](http://9gag.com/gag/a9yMO8Z)
+ - 💣 [Every fathers worst nightmare...](http://9gag.com/gag/aLnQXjz)
+ - 😝 [Artur Korneyev&#39;s photo of the Elephant&#39;s Foot, 1996.](http://9gag.com/gag/aMVbvWV)
+ - 👉 [Girls dorm in Kyrgyzstan after 500+ local men broke in and tired to force themselves and abuse the girls. The local police isn&#39;t doing and the government is asking people to no upload the videos online](http://9gag.com/gag/apRoYQn)<!-- MEMES:END -->
 
 ---
 

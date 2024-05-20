@@ -173,10 +173,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [She looks nice innit?](http://9gag.com/gag/aZZWRDQ)
- - 😝 [Iranians deserve freedom](http://9gag.com/gag/ayNpP8b)
- - 💣 [Too early to win the Darwin award of this year?](http://9gag.com/gag/an7XVOV)
- - 😝 [I&#39;m creating Animated series about reverse engineering history of mankind with a religious twist. Let me know what you think.](http://9gag.com/gag/a1mZwbD)
- - 👉 [Found a malignant tumor in my left kidney, getting it removed today so f*ck you and I&#39;ll see you tomorrow!](http://9gag.com/gag/amoLnQy)<!-- MEMES:END -->
+ - 😝 [Too early to win the Darwin award of this year?](http://9gag.com/gag/an7XVOV)
+ - 💣 [Every fathers worst nightmare...](http://9gag.com/gag/aLnQXjz)
+ - 😝 [Tourist grabs lever during flight](http://9gag.com/gag/aByQXe1)
+ - 👉 [Welcome to Europe! Its a nice place.](http://9gag.com/gag/aPAyX4P)<!-- MEMES:END -->
 
 ---
 

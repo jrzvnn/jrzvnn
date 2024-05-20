@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CyberArk acquires machine identity management company Venafi from Thoma Bravo in a deal valued at around $1.54B; Thoma Bravo bought Venafi for $1.15B in 2020 &lpar;Sophie Shulman/CTech&rpar;](http://www.techmeme.com/240520/p7#a240520p7)
+ - [7 Best Video Doorbell Cameras &lpar;2024&rpar;: Smart, Battery, AI, Budget, and Subscription-Free](https://www.wired.com/gallery/best-video-doorbells/)
+ - [Election officials are role-playing AI threats to keep them from undermining democracy](https://www.theverge.com/24159214/election-officials-role-playing-ai-democracy-arizona-2024)
  - [Neuralink gets US FDA approval to implant its brain chip in a second person; source: FDA signed off on proposed fixes like embedding wires deeper into the brain &lpar;Rolfe Winkler/Wall Street Journal&rpar;](http://www.techmeme.com/240520/p6#a240520p6)
- - [iPhone SE 4 rumored to be first Face ID iPhone under $500](https://appleinsider.com/articles/24/05/20/iphone-se-4-rumored-to-be-first-face-id-iphone-under-500?utm_medium=rss)
- - [Craig Wright Lied About Creating Bitcoin And Faked Evidence, Judge Rules](https://www.wired.com/story/craig-wright-lied-faked-evidence-bitcoin-judge-says/)
- - [How to Remove Your Personal Info From Google’s Search Results](https://www.wired.com/story/remove-personal-info-from-google-search-results/)
- - [Apple TV hardware storage limits will keep most emulators away](https://appleinsider.com/articles/24/05/20/apple-tv-hardware-storage-limits-will-keep-most-emulators-away?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone SE 4 rumored to be first Face ID iPhone under $500](https://appleinsider.com/articles/24/05/20/iphone-se-4-rumored-to-be-first-face-id-iphone-under-500?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

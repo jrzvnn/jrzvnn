@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Composition examples - Photography](http://9gag.com/gag/aqyZYeQ)
- - 😝 [Now you know when your plant is thirsty.](http://9gag.com/gag/aD2wOQG)
- - 💣 [Wake up USA](http://9gag.com/gag/aByQOVN)
- - 😝 [Men can have an entire conversation with 1 nod](http://9gag.com/gag/aPAy1xQ)
- - 👉 [Physics defying pushups](http://9gag.com/gag/ajP6WPx)<!-- MEMES:END -->
+ - 😝 [Tourist grabs lever during flight](http://9gag.com/gag/aByQXe1)
+ - 😝 [Helicopter carrying Iranian President Raisi crashed, Iranian media reports. &lpar;More informations in comments&rpar;](http://9gag.com/gag/aPAyXPg)
+ - 💣 [My whole life is a lie](http://9gag.com/gag/a6ZdBqR)
+ - 😝 [We are getting old!](http://9gag.com/gag/a9yMO70)
+ - 👉 [Every fathers worst nightmare...](http://9gag.com/gag/aLnQXjz)<!-- MEMES:END -->
 
 ---
 

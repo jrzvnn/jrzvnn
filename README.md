@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Snap&#39;s shift towards investing aggressively in AI and AR after revamping its ad business, as it tries to adapt to changing social media habits &lpar;Alex Barinka/Bloomberg&rpar;](http://www.techmeme.com/240520/p2#a240520p2)
  - [An interview with Kokusai Electric CEO Fumiyuki Kanai on KKR&#39;s role in the Japanese chip equipment maker&#39;s IPO, becoming an advocate for PE in Japan, and more &lpar;David Keohane/Financial Times&rpar;](http://www.techmeme.com/240520/p1#a240520p1)
  - [Best Apple AirPods for 2024     - CNET](https://www.cnet.com/tech/mobile/best-apple-airpods/#ftag=CAD590a51e)
  - [Today&#39;s Wordle Hints and Answer: Help for May 20, #1066     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-and-answer-help-for-may-20-1066/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints and Answers: Help for May 20, #344     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hint-answer-for-may-20-344/#ftag=CAD590a51e)
- - [Many outlets have increased reliance on Apple News+; The Daily Beast is set to make $3M-$4M from it in 2024, and Time says it delivers a 7-figure annual revenue &lpar;Max Tani/Semafor&rpar;](http://www.techmeme.com/240519/p17#a240519p17)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints and Answers: Help for May 20, #344     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hint-answer-for-may-20-344/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

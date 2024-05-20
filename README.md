@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mohammed Asaduzzaman. The new mayor of Brighton &amp; Hove, UK.](http://9gag.com/gag/aO8yDjy)
- - 😝 [How do people like this even exist](http://9gag.com/gag/awybdGW)
- - 💣 [Do they knock you out before the op or are you aware of everything? A lot of friends have recommended this to correct my eyesight.](http://9gag.com/gag/amoLmnv)
+ - 😝 [Just a reminder](http://9gag.com/gag/a9yMO8Z)
+ - 😝 [Thick people getting schooled will always be funny. Whilst this is funny it&#39;s also an indication of the stupidity of lefty f*ckwits who dive on any bandwagon without knowing anything about it.](http://9gag.com/gag/abAq2Dp)
+ - 💣 [We are getting old!](http://9gag.com/gag/a9yMO70)
  - 😝 [This video of the meteor in Portugal](http://9gag.com/gag/aAyVXmg)
- - 👉 [Welcome to Europe! Its a nice place.](http://9gag.com/gag/aPAyX4P)<!-- MEMES:END -->
+ - 👉 [Some heroes don&#39;t wear a Capes](http://9gag.com/gag/aqyZxAZ)<!-- MEMES:END -->
 
 ---
 

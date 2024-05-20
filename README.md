@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Many outlets have increased reliance on Apple News+; The Daily Beast is set to make $3M-4M from it in 2024, and Time says it delivers 7-figure annual revenue &lpar;Max Tani/Semafor&rpar;](http://www.techmeme.com/240519/p17#a240519p17)
  - [Best Healthy Meal Delivery Services of 2024, Tested and Reviewed     - CNET](https://www.cnet.com/health/nutrition/best-healthy-meal-delivery-service/#ftag=CAD590a51e)
  - [Best Electric Toothbrushes of 2024     - CNET](https://www.cnet.com/health/personal-care/best-electric-toothbrush/#ftag=CAD590a51e)
  - [How to easily see what was talked about at every WWDC session since 2000](https://appleinsider.com/inside/wwdc/tips/how-to-easily-see-what-was-talked-about-at-every-wwdc-session-since-2000?utm_medium=rss)
- - [A look at Overland AI, Potential, and other startups developing off-road self-driving systems, including for military operations, underground mining, and more &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/240519/p16#a240519p16)
- - [Two students find security bug that could let millions do laundry for free](https://www.theverge.com/2024/5/19/24160383/students-security-bug-laundry-machines-csc-serviceworks)<!-- TECH:END -->
+ - [A look at Overland AI, Potential, and other startups developing off-road self-driving systems, including for military operations, underground mining, and more &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/240519/p16#a240519p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

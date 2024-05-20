@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Sundar Pichai about Google I/O announcements, AI Overviews&#39; high clickthrough rates, competing with OpenAI, future of search, AI advancements, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240520/p12#a240520p12)
+ - [Apple’s time travel comedy Time Bandits starts streaming in July](https://www.theverge.com/2024/5/20/24160764/time-bandits-streaming-release-date-apple-tv-plus)
  - [LG&#39;s 34-inch UltraGear monitor plunges to $549 at Amazon today](https://appleinsider.com/articles/24/05/20/lgs-34-inch-ultragear-monitor-plunges-to-549-at-amazon-today?utm_medium=rss)
  - [Apple Pencil Pro casts a fake shadow based on which tool you&#39;re using](https://appleinsider.com/articles/24/05/20/apple-pencil-pro-casts-a-fake-shadow-based-on-which-tool-youre-using?utm_medium=rss)
- - [Aqara M3 hub, Pitaka smart car charger, &amp; hands on with Apple Pencil Pro on HomeKit Insider](https://appleinsider.com/articles/24/05/20/aqara-m3-hub-pitaka-smart-car-charger-hands-on-with-apple-pencil-pro-on-homekit-insider?utm_medium=rss)
- - [AltStore developers detail the significant hurdles facing those looking to open third-party iOS app stores in Europe; AltStore has had 100K+ downloads in the EU &lpar;Austin Carr/Bloomberg&rpar;](http://www.techmeme.com/240520/p11#a240520p11)
- - [Apple wants all of TSMC&#39;s 2nm chips, so they sent Jeff Williams in secret](https://appleinsider.com/articles/24/05/20/apple-wants-all-of-tsmcs-2nm-chips-so-they-sent-jeff-williams-in-secret?utm_medium=rss)<!-- TECH:END -->
+ - [Aqara M3 hub, Pitaka smart car charger, &amp; hands on with Apple Pencil Pro on HomeKit Insider](https://appleinsider.com/articles/24/05/20/aqara-m3-hub-pitaka-smart-car-charger-hands-on-with-apple-pencil-pro-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

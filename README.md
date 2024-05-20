@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Composition examples - Photography](http://9gag.com/gag/aqyZYeQ)
- - 😝 [Parents showing their moves from the 80s. Dads killed it](http://9gag.com/gag/aQzpORK)
- - 💣 [Physics defying pushups](http://9gag.com/gag/ajP6WPx)
- - 😝 [Marvel: lets cgi the scene, Christopher Nolan...](http://9gag.com/gag/awyb4pW)
- - 👉 [Who cares about the product she&#39;s using, gotta love her excitement.](http://9gag.com/gag/aryeBR0)<!-- MEMES:END -->
+ - 😝 [We are getting old!](http://9gag.com/gag/a9yMO70)
+ - 😝 [Welcome to Europe! Its a nice place.](http://9gag.com/gag/aPAyX4P)
+ - 💣 [Some heroes don&#39;t wear a Capes](http://9gag.com/gag/aqyZxAZ)
+ - 😝 [WHAT. THE. F**K!](http://9gag.com/gag/azxLRYp)
+ - 👉 [This video of the meteor in Portugal](http://9gag.com/gag/aAyVXmg)<!-- MEMES:END -->
 
 ---
 

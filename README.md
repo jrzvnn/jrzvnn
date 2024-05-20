@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple needs to explain that bug that resurfaced deleted photos](https://www.theverge.com/2024/5/20/24161152/apple-ios-17-photo-bug)
  - [The FBI has arrested a man on criminal charges for allegedly producing and distributing AI-generated images of minors engaged in sexually explicit conduct &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/240520/p39#a240520p39)
  - [Apple’s Photo Bug Exposes the Myth of ‘Deleted’](https://www.wired.com/story/apple-photo-bug-resurfaced-fix-icloud/)
  - [Meta approved AI-manipulated Facebook ads during India&#39;s election that spread disinfo and incited religious violence; civil groups submitted them as a test &lpar;Hannah Ellis-Petersen/The Guardian&rpar;](http://www.techmeme.com/240520/p38#a240520p38)
- - [Zoom reports Q1 revenue up 3.2% YoY to $1.14B, vs. $1.13B est., enterprise revenue up 5.3% YoY to $665.7M, and a Q2 sales forecast in line with estimates &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240520/p37#a240520p37)
- - [OpenAI is ‘in conversations’ with Scarlett Johansson over the ChatGPT voice that sounds just like her](https://www.theverge.com/2024/5/20/24161108/openai-scarlett-johanson-chatgpt-her-sky)<!-- TECH:END -->
+ - [Zoom reports Q1 revenue up 3.2% YoY to $1.14B, vs. $1.13B est., enterprise revenue up 5.3% YoY to $665.7M, and a Q2 sales forecast in line with estimates &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240520/p37#a240520p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

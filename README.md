@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple releases iOS 17.5.1 and iPadOS 17.5.1 and says the bug allowing some deleted photos to reappear has now been fixed &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/240520/p31#a240520p31)
+ - [Where to preorder Microsoft’s new Surface Laptop and Surface Pro](https://www.theverge.com/24160691/microsoft-2024-surface-laptop-pro-preorder-how-to-buy-release-date-price-availability)
+ - [Microsoft Surface Pro &lpar;11th Edition&rpar; and Surface Laptop &lpar;7th Edition&rpar;: Specs, Price, Features, Release Date](https://www.wired.com/story/everything-announced-microsoft-surface-event-2024/)
  - [Core design: Why the iPad Pro can be faster than your Mac](https://appleinsider.com/articles/24/05/20/core-design-why-the-ipad-pro-can-be-faster-than-your-mac?utm_medium=rss)
- - [Microsoft&#39;s new push for Windows PCs with Arm chips promises better emulation for non-native apps and Qualcomm chips that can best an M3 in a MacBook Air &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240520/p30#a240520p30)
- - [Acer, Asus, Dell, HP, Samsung, and Lenovo joined Microsoft in debuting laptops featuring Qualcomm&#39;s Snapdragon X Elite or Plus chips and a dedicated Copilot key &lpar;Lawrence Bonk/Engadget&rpar;](http://www.techmeme.com/240520/p29#a240520p29)
- - [Microsoft Copilot To Use GPT-4o     - CNET](https://www.cnet.com/tech/services-and-software/microsoft-copilot-to-use-gpt-4o/#ftag=CAD590a51e)
- - [The latest 13-inch MacBook Air has dropped to a new all-time low](https://www.theverge.com/2024/5/20/24160755/apple-macbook-air-13-inch-m3-directvstream-deal-sale)<!-- TECH:END -->
+ - [Microsoft&#39;s new push for Windows PCs with Arm chips promises better emulation for non-native apps and Qualcomm chips that can best an M3 in a MacBook Air &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240520/p30#a240520p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

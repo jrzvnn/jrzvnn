@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Iranians deserve freedom](http://9gag.com/gag/ayNpP8b)
- - 😝 [Well, that&#39;s obvious](http://9gag.com/gag/aMVbqdM)
- - 💣 [Return to the Motherland](http://9gag.com/gag/avyZ9B5)
- - 😝 [The circus show has begun!](http://9gag.com/gag/an7XG4L)
- - 👉 [After living in western countries for many years I&#39;m bit jealous of their boomers. They had life on easiest settings possible.](http://9gag.com/gag/a4P9wvZ)<!-- MEMES:END -->
+ - 😝 [Physics defying pushups](http://9gag.com/gag/ajP6WPx)
+ - 😝 [WHAT. THE. F**K!](http://9gag.com/gag/azxLRYp)
+ - 💣 [Just a reminder](http://9gag.com/gag/a9yMO8Z)
+ - 😝 [Every fathers worst nightmare...](http://9gag.com/gag/aLnQXjz)
+ - 👉 [How do people like this even exist](http://9gag.com/gag/awybdGW)<!-- MEMES:END -->
 
 ---
 

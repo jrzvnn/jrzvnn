@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft’s Surface and Windows AI event live blog: it’s Arm time](https://www.theverge.com/2024/5/20/24158827/microsoft-surface-windows-ai-event-live-blog-news-updates)
  - [Appfigures: ChatGPT&#39;s iOS and Android apps hit $4.2M in net revenue from May 13 through May 17, as net revenue grew 22% the day of the GPT-4o launch &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240520/p15#a240520p15)
  - [A rundown of what’s new and improved in Android 15 — so far](https://www.theverge.com/24160704/google-android-15-beta-new-features)
  - [NY AG announces a $2B settlement with crypto lender Genesis, after claiming Genesis misled investors about its Gemini Earn program, leading to $1B+ in losses &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/240520/p14#a240520p14)
- - [The CAA partners with Veritone to build a storage system for A-list artists to store their digital assets and get compensated for the use of their AI likeness &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/240520/p13#a240520p13)
- - [12 Best Foods to Keep Your Eyes Healthy     - CNET](https://www.cnet.com/health/personal-care/12-best-foods-to-keep-your-eyes-healthy/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The CAA partners with Veritone to build a storage system for A-list artists to store their digital assets and get compensated for the use of their AI likeness &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/240520/p13#a240520p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

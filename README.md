@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How do people like this even exist](http://9gag.com/gag/awybdGW)
+ - 😝 [Welcome to Europe! Its a nice place.](http://9gag.com/gag/aPAyX4P)
  - 😝 [We are getting old!](http://9gag.com/gag/a9yMO70)
- - 💣 [8th and 12th and 22nd... all are ground floors :&rpar;](http://9gag.com/gag/aAyVMxE)
- - 😝 [This video of the meteor in Portugal](http://9gag.com/gag/aAyVXmg)
- - 👉 [This fish has had enough of this economy \ud83d\udc80](http://9gag.com/gag/ae93xmb)<!-- MEMES:END -->
+ - 💣 [WHAT. THE. F**K!](http://9gag.com/gag/azxLRYp)
+ - 😝 [Some heroes don&#39;t wear a Capes](http://9gag.com/gag/aqyZxAZ)
+ - 👉 [Helicopter carrying Iranian President Raisi crashed, Iranian media reports. &lpar;More informations in comments&rpar;](http://9gag.com/gag/aPAyXPg)<!-- MEMES:END -->
 
 ---
 

@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just saying](http://9gag.com/gag/aNDojv4)
- - 😝 [Gaming in your 30&#39;s](http://9gag.com/gag/a34dW3r)
- - 💣 [How to spot an alien imposter](http://9gag.com/gag/aAyVv7d)
- - 😝 [Back when you needed talent](http://9gag.com/gag/amoLpo2)
- - 👉 [Well, that&#39;s obvious](http://9gag.com/gag/aMVbqdM)<!-- MEMES:END -->
+ - 😝 [Tourist grabs lever during flight](http://9gag.com/gag/aByQXe1)
+ - 😝 [If there is no cat living in your house.](http://9gag.com/gag/aVvQRo8)
+ - 💣 [We are getting old!](http://9gag.com/gag/a9yMO70)
+ - 😝 [Some heroes don&#39;t wear a Capes](http://9gag.com/gag/aqyZxAZ)
+ - 👉 [Welcome to Europe! Its a nice place.](http://9gag.com/gag/aPAyX4P)<!-- MEMES:END -->
 
 ---
 

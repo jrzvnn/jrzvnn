@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google plans to to reuse heat after expanding a data center for AI](https://www.theverge.com/2024/5/20/24160788/google-ai-data-center-expansion-heat-recovery)
- - [Microsoft’s new Surface Pro gets an OLED display for the first time](https://www.theverge.com/2024/5/20/24160743/microsoft-surface-pro-10-oled-screen-new-feature)
- - [The new, faster Surface Pro is Microsoft’s all-purpose AI PC](https://www.theverge.com/2024/5/20/24160707/microsoft-surface-pro-price-release-date-ai)
- - [Microsoft debuts the 13.8&quot; and 15&quot; Surface Laptop, with Snapdragon X Elite, up to 22 hours of battery life, Wi-Fi 7, and support for three 4K external monitors &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240520/p23#a240520p23)
- - [Microsoft announces an Arm-powered Surface Laptop](https://www.theverge.com/2024/5/20/24160498/microsoft-arm-surface-laptop-6-qualcomm-snapdragon-x-elite)<!-- TECH:END -->
+ - [10 Best Deals From the Discover Samsung Sale: TVs, Smartphones, Headphones](https://www.wired.com/story/discover-samsung-summer-event-2024/)
+ - [Apple’s new iPhone and iPad update fixes a bug that resurfaced deleted nudes](https://www.theverge.com/2024/5/20/24160983/apple-iphone-ipad-deleted-photo-reappear-bug-ios-17-5-1)
+ - [Google thinks the public sector can do better than Microsoft’s ‘security failures’](https://www.theverge.com/2024/5/20/24160823/google-microsoft-government-cybersecurity-enterprise-business)
+ - [Microsoft debuts the new Surface Pro, with optional OLED display and 5G, 90% faster than last gen, a new Flex keyboard with haptic feedback, and more &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240520/p24#a240520p24)
+ - [Sensor Tower: ByteDance&#39;s Doubao AI chatbot iOS app had almost 9M downloads this year through April, vs. 8M for Baidu&#39;s Ernie Bot; Doubao has 4M+ MAUs in China &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/240520/p25#a240520p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

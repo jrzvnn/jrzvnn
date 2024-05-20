@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta approved AI-manipulated Facebook ads during India&#39;s election that spread disinfo and incited religious violence; civil groups submitted them as a test &lpar;Hannah Ellis-Petersen/The Guardian&rpar;](http://www.techmeme.com/240520/p38#a240520p38)
  - [Zoom reports Q1 revenue up 3.2% YoY to $1.14B, vs. $1.13B est., enterprise revenue up 5.3% YoY to $665.7M, and a Q2 sales forecast in line with estimates &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240520/p37#a240520p37)
  - [OpenAI is talking to Scarlett Johansson over AI voice concerns](https://www.theverge.com/2024/5/20/24161108/openai-scarlett-johanson-chatgpt-her-sky)
  - [LG denies reports it canceled its partnership with Meta, three months after the companies agreed to develop XR devices, says it&#39;s &quot;controlling its pace&quot; &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/240520/p36#a240520p36)
- - [Intel’s going inside AI PCs, too — its Lunar Lake chip is coming later this year](https://www.theverge.com/2024/5/20/24161095/intel-ai-lunar-lake-cpu-release)
- - [Impressions of Windows 11 AI features Recall, Live Captions, and Cocreator, and a chat with Satya Nadella on how the Copilot+ PC push will outperform MacBooks &lpar;Joanna Stern/Wall Street Journal&rpar;](http://www.techmeme.com/240520/p35#a240520p35)<!-- TECH:END -->
+ - [Intel’s going inside AI PCs, too — its Lunar Lake chip is coming later this year](https://www.theverge.com/2024/5/20/24161095/intel-ai-lunar-lake-cpu-release)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

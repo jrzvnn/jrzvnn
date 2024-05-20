@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This video of the meteor in Portugal](http://9gag.com/gag/aAyVXmg)
- - 😝 [Freedom of speech.](http://9gag.com/gag/avyZdjX)
- - 💣 [We are getting old!](http://9gag.com/gag/a9yMO70)
- - 😝 [Some heroes don&#39;t wear a Capes](http://9gag.com/gag/aqyZxAZ)
- - 👉 [Tourist grabs lever during flight](http://9gag.com/gag/aByQXe1)<!-- MEMES:END -->
+ - 😝 [A minor bump.](http://9gag.com/gag/awybYXr)
+ - 😝 [We are getting old!](http://9gag.com/gag/a9yMO70)
+ - 💣 [Every fathers worst nightmare...](http://9gag.com/gag/aLnQXjz)
+ - 😝 [Girls dorm in Kyrgyzstan after 500+ local men broke in and tired to force themselves and abuse the girls. The local police isn&#39;t doing and the government is asking people to no upload the videos online](http://9gag.com/gag/apRoYQn)
+ - 👉 [My whole life is a lie](http://9gag.com/gag/a6ZdBqR)<!-- MEMES:END -->
 
 ---
 

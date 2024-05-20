@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Truth Social&#39;s parent company, the Trump Media and Technology Group, reports $771K in Q1 revenue, a net loss of $327.6M, and an operating loss of $12.1M &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240520/p33#a240520p33)
  - [All the Copilot Plus PCs announced at Microsoft’s Surface event](https://www.theverge.com/24160974/microsoft-copilot-plus-pcs-acer-asus-dell-hp-lenovo-samsung)
+ - [How Did I Keep an 800+ Credit Score for 10 Years? My Secret May Surprise You      - CNET](https://www.cnet.com/personal-finance/yes-you-can-get-an-800-credit-score-heres-how-i-did-it/#ftag=CAD590a51e)
  - [Samsung’s first Copilot Plus PC comes with a free TV](https://www.theverge.com/2024/5/20/24161018/samsung-copilot-plus-pc-free-tv-preorder)
- - [DOJ announces the arrest of a Taiwanese national at JFK Airport who allegedly owned Incognito Market, a dark web site used by 200K+ to buy $100M+ worth of drugs &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240520/p32#a240520p32)
- - [Apple releases iOS 17.5.1 and iPadOS 17.5.1 and says the bug allowing some deleted photos to reappear has now been fixed &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/240520/p31#a240520p31)
- - [Where to preorder Microsoft’s new Surface Laptop and Surface Pro](https://www.theverge.com/24160691/microsoft-2024-surface-laptop-pro-preorder-how-to-buy-release-date-price-availability)<!-- TECH:END -->
+ - [Apple AirTag 2 Rumored For 2025 With Better Location Tracking     - CNET](https://www.cnet.com/tech/services-and-software/apple-airtag-2-rumored-for-2025-with-better-location-tracking/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

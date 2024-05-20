@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [A rundown of what’s new and improved in Android 15 — so far](https://www.theverge.com/24160704/google-android-15-beta-new-features)
  - [NY AG announces a $2B settlement with crypto lender Genesis, after claiming Genesis misled investors about its Gemini Earn program, leading to $1B+ in losses &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/240520/p14#a240520p14)
  - [The CAA partners with Veritone to build a storage system for A-list artists to store their digital assets and get compensated for the use of their AI likeness &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/240520/p13#a240520p13)
- - [Q&amp;A with Sundar Pichai about Google I/O announcements, AI Overviews&#39; high clickthrough rates, competing with OpenAI, future of search, AI advancements, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240520/p12#a240520p12)
- - [Apple’s time travel comedy Time Bandits starts streaming in July](https://www.theverge.com/2024/5/20/24160764/time-bandits-streaming-release-date-apple-tv-plus)<!-- TECH:END -->
+ - [12 Best Foods to Keep Your Eyes Healthy     - CNET](https://www.cnet.com/health/personal-care/12-best-foods-to-keep-your-eyes-healthy/#ftag=CAD590a51e)
+ - [Best Soft Mattress of 2024     - CNET](https://www.cnet.com/health/sleep/best-soft-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

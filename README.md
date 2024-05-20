@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We are getting old!](http://9gag.com/gag/a9yMO70)
- - 😝 [Helicopter carrying Iranian President Raisi crashed, Iranian media reports. &lpar;More informations in comments&rpar;](http://9gag.com/gag/aPAyXPg)
- - 💣 [Some heroes don&#39;t wear a Capes](http://9gag.com/gag/aqyZxAZ)
- - 😝 [Welcome to Europe! Its a nice place.](http://9gag.com/gag/aPAyX4P)
- - 👉 [How do people like this even exist](http://9gag.com/gag/awybdGW)<!-- MEMES:END -->
+ - 😝 [A minor bump.](http://9gag.com/gag/awybYXr)
+ - 😝 [Do they knock you out before the op or are you aware of everything? A lot of friends have recommended this to correct my eyesight.](http://9gag.com/gag/amoLmnv)
+ - 💣 [We are getting old!](http://9gag.com/gag/a9yMO70)
+ - 😝 [This video of the meteor in Portugal](http://9gag.com/gag/aAyVXmg)
+ - 👉 [Welcome to Europe! Its a nice place.](http://9gag.com/gag/aPAyX4P)<!-- MEMES:END -->
 
 ---
 

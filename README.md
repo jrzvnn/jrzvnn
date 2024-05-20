@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft unveils Recall for Windows 11, an AI-powered search tool for Copilot+ PCs that keeps track of users&#39; actions and gives them an explorable timeline &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/240520/p22#a240520p22)
+ - [Another online pharmacy bypasses the FDA to offer cut-rate weight loss drugs](https://www.theverge.com/2024/5/20/24160884/hims-hers-ozempic-weight-loss-wegovy-pharmacy)
+ - [Microsoft unveils Copilot+ PCs as a new class of AI-capable Windows PCs with at least 40 TOPs of NPU performance, with several OEMs and chipmakers on board &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/240520/p21#a240520p21)
  - [Recall is Microsoft’s key to unlocking the future of PCs](https://www.theverge.com/2024/5/20/24159258/microsoft-recall-ai-explorer-windows-11-surface-event)
- - [Microsoft announces Copilot Plus PCs with built-in AI hardware](https://www.theverge.com/2024/5/20/24160486/microsoft-copilot-plus-ai-arm-chips-pc-surface-event)
- - [UK&#39;s autonomous vehicle legislation becomes law, paving the way for first driverless cars by 2026 and clarifying who is liable in self-driving crashes &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240520/p20#a240520p20)
- - [A live blog of Microsoft&#39;s Surface and Windows AI event, where hardware with Qualcomm&#39;s new Arm chips and new Windows features like AI Explorer are expected &lpar;The Verge&rpar;](http://www.techmeme.com/240520/p19#a240520p19)
- - [How Apple has steadily been dropping the &#39;i&#39; from its devices for over a decade](https://appleinsider.com/articles/24/05/20/how-apple-has-steadily-been-dropping-the-i-from-its-devices-for-over-a-decade?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft announces Copilot Plus PCs with built-in AI hardware](https://www.theverge.com/2024/5/20/24160486/microsoft-copilot-plus-ai-arm-chips-pc-surface-event)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Truth Social&#39;s parent company, the Trump Media and Technology Group, reports $771K in Q1 revenue, a net loss of $327.6M, and an operating loss of $12.1M &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240520/p33#a240520p33)
- - [All the Copilot Plus PCs announced at Microsoft’s Surface event](https://www.theverge.com/24160974/microsoft-copilot-plus-pcs-acer-asus-dell-hp-lenovo-samsung)
- - [How Did I Keep an 800+ Credit Score for 10 Years? My Secret May Surprise You      - CNET](https://www.cnet.com/personal-finance/yes-you-can-get-an-800-credit-score-heres-how-i-did-it/#ftag=CAD590a51e)
- - [Samsung’s first Copilot Plus PC comes with a free TV](https://www.theverge.com/2024/5/20/24161018/samsung-copilot-plus-pc-free-tv-preorder)
- - [Apple AirTag 2 Rumored For 2025 With Better Location Tracking     - CNET](https://www.cnet.com/tech/services-and-software/apple-airtag-2-rumored-for-2025-with-better-location-tracking/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [LG denies reports it canceled its partnership with Meta, three months after the companies agreed to develop XR devices, says it&#39;s &quot;controlling its pace&quot; &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/240520/p36#a240520p36)
+ - [Intel’s going inside AI PCs, too — its Lunar Lake chip is coming later this year](https://www.theverge.com/2024/5/20/24161095/intel-ai-lunar-lake-cpu-release)
+ - [Impressions of Windows 11 AI features Recall, Live Captions, and Cocreator, and a chat with Satya Nadella on how the Copilot+ PC push will outperform MacBooks &lpar;Joanna Stern/Wall Street Journal&rpar;](http://www.techmeme.com/240520/p35#a240520p35)
+ - [Documents: cops in Austin and San Francisco, where police are banned from facial recognition, asked other towns to run photos of suspects through their systems &lpar;Douglas MacMillan/Washington Post&rpar;](http://www.techmeme.com/240520/p34#a240520p34)
+ - [Truth Social&#39;s parent company, the Trump Media and Technology Group, reports $771K in Q1 revenue, a net loss of $327.6M, and an operating loss of $12.1M &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240520/p33#a240520p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

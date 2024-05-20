@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [How do people like this even exist](http://9gag.com/gag/awybdGW)
  - 😝 [Just a reminder](http://9gag.com/gag/a9yMO8Z)
- - 😝 [Gotta keep trying](http://9gag.com/gag/aXPEKv6)
- - 💣 [Girls dorm in Kyrgyzstan after 500+ local men broke in and tired to force themselves and abuse the girls. The local police isn&#39;t doing and the government is asking people to no upload the videos online](http://9gag.com/gag/apRoYQn)
- - 😝 [WHAT. THE. F**K!](http://9gag.com/gag/azxLRYp)
- - 👉 [Who cares about the product she&#39;s using, gotta love her excitement.](http://9gag.com/gag/aryeBR0)<!-- MEMES:END -->
+ - 💣 [He needs to add just 1 more protein](http://9gag.com/gag/aD2wV7N)
+ - 😝 [Girls dorm in Kyrgyzstan after 500+ local men broke in and tired to force themselves and abuse the girls. The local police isn&#39;t doing and the government is asking people to no upload the videos online](http://9gag.com/gag/apRoYQn)
+ - 👉 [We are getting old!](http://9gag.com/gag/a9yMO70)<!-- MEMES:END -->
 
 ---
 

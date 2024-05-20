@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [10 Best Deals From the Discover Samsung Sale: TVs, Smartphones, Headphones](https://www.wired.com/story/discover-samsung-summer-event-2024/)
- - [Apple’s new iPhone and iPad update fixes a bug that resurfaced deleted nudes](https://www.theverge.com/2024/5/20/24160983/apple-iphone-ipad-deleted-photo-reappear-bug-ios-17-5-1)
- - [Google thinks the public sector can do better than Microsoft’s ‘security failures’](https://www.theverge.com/2024/5/20/24160823/google-microsoft-government-cybersecurity-enterprise-business)
- - [Microsoft debuts the new Surface Pro, with optional OLED display and 5G, 90% faster than last gen, a new Flex keyboard with haptic feedback, and more &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240520/p24#a240520p24)
- - [Sensor Tower: ByteDance&#39;s Doubao AI chatbot iOS app had almost 9M downloads this year through April, vs. 8M for Baidu&#39;s Ernie Bot; Doubao has 4M+ MAUs in China &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/240520/p25#a240520p25)<!-- TECH:END -->
+ - [Microsoft Surface event: the 6 biggest announcements](https://www.theverge.com/2024/5/20/24160711/microsoft-surface-event-ai-windows-biggest-announcements)
+ - [Asus’ first Copilot Plus PC is the Vivobook S 15](https://www.theverge.com/2024/5/20/24159018/asus-vivobook-s-15-qualcomm-snapdragon-x-elite-ai-copilot-pc-laptop)
+ - [Jolla, maker of Android variant Sailfish OS, details plans for a privacy-focused AI device, Jolla Mind&amp;sup2;, coming this fall for &amp;euro;699 and a &amp;euro;9.99/mo. subscription &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240520/p27#a240520p27)
+ - [Dell debuts a Dell XPS 13 with Snapdragon X Elite, the first time the XPS 13 has not had Intel, alongside new Dell Latitude and Inspiron PCs with Qualcomm chips &lpar;Mark Hachman/PCWorld&rpar;](http://www.techmeme.com/240520/p26#a240520p26)
+ - [10 Best Deals From the Discover Samsung Sale: TVs, Smartphones, Headphones](https://www.wired.com/story/discover-samsung-summer-event-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

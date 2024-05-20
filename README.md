@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just a reminder](http://9gag.com/gag/a9yMO8Z)
- - 😝 [Thick people getting schooled will always be funny. Whilst this is funny it&#39;s also an indication of the stupidity of lefty f*ckwits who dive on any bandwagon without knowing anything about it.](http://9gag.com/gag/abAq2Dp)
- - 💣 [We are getting old!](http://9gag.com/gag/a9yMO70)
- - 😝 [This video of the meteor in Portugal](http://9gag.com/gag/aAyVXmg)
- - 👉 [Some heroes don&#39;t wear a Capes](http://9gag.com/gag/aqyZxAZ)<!-- MEMES:END -->
+ - 😝 [Composition examples - Photography](http://9gag.com/gag/aqyZYeQ)
+ - 😝 [Now you know when your plant is thirsty.](http://9gag.com/gag/aD2wOQG)
+ - 💣 [Wake up USA](http://9gag.com/gag/aByQOVN)
+ - 😝 [Men can have an entire conversation with 1 nod](http://9gag.com/gag/aPAy1xQ)
+ - 👉 [Physics defying pushups](http://9gag.com/gag/ajP6WPx)<!-- MEMES:END -->
 
 ---
 

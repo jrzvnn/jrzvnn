@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Satya Nadella&#39;s approach to pushing AI at Microsoft, as the company bets big on OpenAI and in-house models, but also on G42, Mistral, Figure, others &lpar;Jeremy Kahn/Fortune&rpar;](http://www.techmeme.com/240520/p18#a240520p18)
+ - [Child predators are flocking to AI-generated images of children on TikTok and Instagram, raising questions about how to handle the suggestive, fake images &lpar;Alexandra S. Levine/Forbes&rpar;](http://www.techmeme.com/240520/p17#a240520p17)
  - [Inflection AI, which had ~70 staffers follow Mustafa Sulyman and leave for Microsoft in March, debuts a new leadership team and says it has 18 months of runway &lpar;Matt Marshall/VentureBeat&rpar;](http://www.techmeme.com/240520/p16#a240520p16)
  - [Microsoft’s Surface AI event: news, rumors, and lots of Qualcomm laptops](https://www.theverge.com/24159022/microsoft-surface-ai-event-news-rumors-announcements)
- - [Microsoft’s Surface and Windows AI event live blog: it’s Arm time](https://www.theverge.com/2024/5/20/24158827/microsoft-surface-windows-ai-event-live-blog-news-updates)
- - [Save Up to $100 on Stunning Grid Studio Exploded Tech Art for Father&#39;s Day     - CNET](https://www.cnet.com/deals/save-up-to-100-on-stunning-grid-studio-exploded-tech-art-for-fathers-day/#ftag=CAD590a51e)
- - [Appfigures: ChatGPT&#39;s iOS and Android apps hit $4.2M in net revenue from May 13 through May 17, as net revenue grew 22% the day of the GPT-4o launch &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240520/p15#a240520p15)<!-- TECH:END -->
+ - [Microsoft’s Surface and Windows AI event live blog: it’s Arm time](https://www.theverge.com/2024/5/20/24158827/microsoft-surface-windows-ai-event-live-blog-news-updates)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

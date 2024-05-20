@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Zoom reports Q1 revenue up 3.2% YoY to $1.14B, vs. $1.13B est., enterprise revenue up 5.3% YoY to $665.7M, and a Q2 sales forecast in line with estimates &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240520/p37#a240520p37)
  - [OpenAI is talking to Scarlett Johansson over AI voice concerns](https://www.theverge.com/2024/5/20/24161108/openai-scarlett-johanson-chatgpt-her-sky)
  - [LG denies reports it canceled its partnership with Meta, three months after the companies agreed to develop XR devices, says it&#39;s &quot;controlling its pace&quot; &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/240520/p36#a240520p36)
  - [Intel’s going inside AI PCs, too — its Lunar Lake chip is coming later this year](https://www.theverge.com/2024/5/20/24161095/intel-ai-lunar-lake-cpu-release)
- - [Impressions of Windows 11 AI features Recall, Live Captions, and Cocreator, and a chat with Satya Nadella on how the Copilot+ PC push will outperform MacBooks &lpar;Joanna Stern/Wall Street Journal&rpar;](http://www.techmeme.com/240520/p35#a240520p35)
- - [Documents: cops in Austin and San Francisco, where police are banned from facial recognition, asked other towns to run photos of suspects through their systems &lpar;Douglas MacMillan/Washington Post&rpar;](http://www.techmeme.com/240520/p34#a240520p34)<!-- TECH:END -->
+ - [Impressions of Windows 11 AI features Recall, Live Captions, and Cocreator, and a chat with Satya Nadella on how the Copilot+ PC push will outperform MacBooks &lpar;Joanna Stern/Wall Street Journal&rpar;](http://www.techmeme.com/240520/p35#a240520p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

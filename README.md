@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Physics defying pushups](http://9gag.com/gag/ajP6WPx)
- - 😝 [WHAT. THE. F**K!](http://9gag.com/gag/azxLRYp)
- - 💣 [Just a reminder](http://9gag.com/gag/a9yMO8Z)
+ - 😝 [Just a reminder](http://9gag.com/gag/a9yMO8Z)
+ - 😝 [Welcome to Europe! Its a nice place.](http://9gag.com/gag/aPAyX4P)
+ - 💣 [Physics defying pushups](http://9gag.com/gag/ajP6WPx)
  - 😝 [Every fathers worst nightmare...](http://9gag.com/gag/aLnQXjz)
- - 👉 [How do people like this even exist](http://9gag.com/gag/awybdGW)<!-- MEMES:END -->
+ - 👉 [This video of the meteor in Portugal](http://9gag.com/gag/aAyVXmg)<!-- MEMES:END -->
 
 ---
 

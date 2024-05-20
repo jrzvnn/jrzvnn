@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google plans to to reuse heat after expanding a data center for AI](https://www.theverge.com/2024/5/20/24160788/google-ai-data-center-expansion-heat-recovery)
+ - [Microsoft’s new Surface Pro gets an OLED display for the first time](https://www.theverge.com/2024/5/20/24160743/microsoft-surface-pro-10-oled-screen-new-feature)
+ - [The new, faster Surface Pro is Microsoft’s all-purpose AI PC](https://www.theverge.com/2024/5/20/24160707/microsoft-surface-pro-price-release-date-ai)
  - [Microsoft debuts the 13.8&quot; and 15&quot; Surface Laptop, with Snapdragon X Elite, up to 22 hours of battery life, Wi-Fi 7, and support for three 4K external monitors &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240520/p23#a240520p23)
- - [Microsoft announces an Arm-powered Surface Laptop](https://www.theverge.com/2024/5/20/24160498/microsoft-arm-surface-laptop-6-qualcomm-snapdragon-x-elite)
- - [New iOS &amp; iPadOS update fixes reappearing photos bug](https://appleinsider.com/articles/24/05/20/new-ios-ipados-update-fixes-reappearing-photos-bug?utm_medium=rss)
- - [Do not publish, Vlad test links article     - CNET](https://www.cnet.com/news/do-not-publish-vlad-test-links-article/#ftag=CAD590a51e)
- - [Microsoft unveils Recall for Windows 11, an AI-powered search tool for Copilot+ PCs that keeps track of users&#39; actions and gives them an explorable timeline &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/240520/p22#a240520p22)<!-- TECH:END -->
+ - [Microsoft announces an Arm-powered Surface Laptop](https://www.theverge.com/2024/5/20/24160498/microsoft-arm-surface-laptop-6-qualcomm-snapdragon-x-elite)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

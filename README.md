@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PE firm EQT is in advanced talks to buy video game services company Keywords Studios for &amp;pound;2.2B, or &amp;pound;25.5 per share, a 70%+ premium on Friday&#39;s close &lpar;Financial Times&rpar;](http://www.techmeme.com/240520/p8#a240520p8)
+ - [Best VPN for Windows     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-windows/#ftag=CAD590a51e)
+ - [A Cellular Apple Watch Series 7 for Just $250? You Won&#39;t Want to Miss This     - CNET](https://www.cnet.com/deals/a-cellular-apple-watch-series-7-for-just-250-you-wont-want-to-miss-this/#ftag=CAD590a51e)
  - [CyberArk acquires machine identity management company Venafi from Thoma Bravo in a deal valued at around $1.54B; Thoma Bravo bought Venafi for $1.15B in 2020 &lpar;Sophie Shulman/CTech&rpar;](http://www.techmeme.com/240520/p7#a240520p7)
- - [7 Best Video Doorbell Cameras &lpar;2024&rpar;: Smart, Battery, AI, Budget, and Subscription-Free](https://www.wired.com/gallery/best-video-doorbells/)
- - [Election officials are role-playing AI threats to keep them from undermining democracy](https://www.theverge.com/24159214/election-officials-role-playing-ai-democracy-arizona-2024)
- - [Neuralink gets US FDA approval to implant its brain chip in a second person; source: FDA signed off on proposed fixes like embedding wires deeper into the brain &lpar;Rolfe Winkler/Wall Street Journal&rpar;](http://www.techmeme.com/240520/p6#a240520p6)
- - [iPhone SE 4 rumored to be first Face ID iPhone under $500](https://appleinsider.com/articles/24/05/20/iphone-se-4-rumored-to-be-first-face-id-iphone-under-500?utm_medium=rss)<!-- TECH:END -->
+ - [Refi Rates Dip Since Last Week: Refinance Rates for May 20, 2024     - CNET](https://www.cnet.com/personal-finance/mortgages/refi-rates-dip-since-last-week-refinance-rates-for-may-20-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Inflection AI, which had ~70 staffers follow Mustafa Sulyman and leave for Microsoft in March, debuts a new leadership team and says it has 18 months of runway &lpar;Matt Marshall/VentureBeat&rpar;](http://www.techmeme.com/240520/p16#a240520p16)
+ - [Microsoft’s Surface AI event: news, rumors, and lots of Qualcomm laptops](https://www.theverge.com/24159022/microsoft-surface-ai-event-news-rumors-announcements)
  - [Microsoft’s Surface and Windows AI event live blog: it’s Arm time](https://www.theverge.com/2024/5/20/24158827/microsoft-surface-windows-ai-event-live-blog-news-updates)
- - [Appfigures: ChatGPT&#39;s iOS and Android apps hit $4.2M in net revenue from May 13 through May 17, as net revenue grew 22% the day of the GPT-4o launch &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240520/p15#a240520p15)
- - [A rundown of what’s new and improved in Android 15 — so far](https://www.theverge.com/24160704/google-android-15-beta-new-features)
- - [NY AG announces a $2B settlement with crypto lender Genesis, after claiming Genesis misled investors about its Gemini Earn program, leading to $1B+ in losses &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/240520/p14#a240520p14)
- - [The CAA partners with Veritone to build a storage system for A-list artists to store their digital assets and get compensated for the use of their AI likeness &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/240520/p13#a240520p13)<!-- TECH:END -->
+ - [Save Up to $100 on Stunning Grid Studio Exploded Tech Art for Father&#39;s Day     - CNET](https://www.cnet.com/deals/save-up-to-100-on-stunning-grid-studio-exploded-tech-art-for-fathers-day/#ftag=CAD590a51e)
+ - [Appfigures: ChatGPT&#39;s iOS and Android apps hit $4.2M in net revenue from May 13 through May 17, as net revenue grew 22% the day of the GPT-4o launch &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240520/p15#a240520p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

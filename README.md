@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Helicopter carrying Iranian President Raisi crashed, Iranian media reports. &lpar;More informations in comments&rpar;](http://9gag.com/gag/aPAyXPg)
- - 😝 [Taiwanese National Assembly: A lawmaker stole a bill form the speaker&#39;s desk and ran away to prevent it from being passed.](http://9gag.com/gag/awyb4N1)
- - 💣 [Do they knock you out before the op or are you aware of everything? A lot of friends have recommended this to correct my eyesight.](http://9gag.com/gag/amoLmnv)
- - 😝 [Every fathers worst nightmare...](http://9gag.com/gag/aLnQXjz)
- - 👉 [Girls dorm in Kyrgyzstan after 500+ local men broke in and tired to force themselves and abuse the girls. The local police isn&#39;t doing and the government is asking people to no upload the videos online](http://9gag.com/gag/apRoYQn)<!-- MEMES:END -->
+ - 😝 [Hot coffee!](http://9gag.com/gag/a87bw06)
+ - 😝 [Abbey did not expect that](http://9gag.com/gag/axy2PVb)
+ - 💣 [Lick](http://9gag.com/gag/awyb4OQ)
+ - 😝 [Marvel: lets cgi the scene, Christopher Nolan...](http://9gag.com/gag/awyb4pW)
+ - 👉 [Who cares about the product she&#39;s using, gotta love her excitement.](http://9gag.com/gag/aryeBR0)<!-- MEMES:END -->
 
 ---
 

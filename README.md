@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google plans to test search and shopping ads in its AI Overviews, drawing from advertisers&#39; existing campaigns; AI Overviews rolled out to US users last week &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/240521/p27#a240521p27)
+ - [Here’s the eight-inch Snapdragon PC for your Windows on Arm experiments](https://www.theverge.com/2024/5/21/24158603/qualcomm-windows-snapdragon-dev-kit-x-elite)
  - [How does the Microsoft Surface Laptop stack up to the MacBook Air?](https://www.theverge.com/24161123/microsoft-surface-vs-macbook-air-comparison)
  - [A live stream of Microsoft&#39;s Build 2024 keynote &lpar;Microsoft Developer on YouTube&rpar;](http://www.techmeme.com/240521/p26#a240521p26)
- - [Google Search’s New AI Overviews Will Soon Have Ads](https://www.wired.com/story/google-search-ai-overviews-ads/)
- - [Google Taps AI to Show Shoppers How Clothes Fit Different Bodies](https://www.wired.com/story/google-ai-shopping-clothes-fit-different-bodies/)
- - [Microsoft ships Azure AI Studio in broad availability, adds support for OpenAI&#39;s GPT-4o, and announces a new multimodal model in its lightweight Phi-3 family &lpar;Kevin Okemwa/Windows Central&rpar;](http://www.techmeme.com/240521/p25#a240521p25)<!-- TECH:END -->
+ - [Google Search’s New AI Overviews Will Soon Have Ads](https://www.wired.com/story/google-search-ai-overviews-ads/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

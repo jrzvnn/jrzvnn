@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Should I give my seat to a women?](http://9gag.com/gag/aMVbWLW)
- - 😝 [Insurance scam](http://9gag.com/gag/aByQvwA)
- - 💣 [Men can have an entire conversation with 1 nod](http://9gag.com/gag/aPAy1xQ)
- - 😝 [This video of the meteor in Portugal](http://9gag.com/gag/aAyVXmg)
- - 👉 [Me too](http://9gag.com/gag/aYQpdKO)<!-- MEMES:END -->
+ - 😝 [Girls dorm in Kyrgyzstan after 500+ local men broke in and tired to force themselves and abuse the girls. The local police isn&#39;t doing and the government is asking people to no upload the videos online](http://9gag.com/gag/apRoYQn)
+ - 😝 [Not mine, thought it was neat.](http://9gag.com/gag/a1mZx0R)
+ - 💣 [Just a reminder](http://9gag.com/gag/a9yMO8Z)
+ - 😝 [The average woman these days](http://9gag.com/gag/aD2wP4O)
+ - 👉 [Insurance scam](http://9gag.com/gag/aByQvwA)<!-- MEMES:END -->
 
 ---
 

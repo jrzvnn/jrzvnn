@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I couldn&#39;t find a non caption video without the music on, but I agree with her.](http://9gag.com/gag/aGyVN5n)
- - 😝 [Enormous Plasma Wall spotted on the Sun](http://9gag.com/gag/azxLDxj)
- - 💣 [The average woman these days](http://9gag.com/gag/aD2wP4O)
- - 😝 [Former Boston Red Sox pitcher Austin Maddox was arrested after he tried to meet an underage girl for sex, but officers caught him.](http://9gag.com/gag/amoLdv6)
- - 👉 [Too early to win the Darwin award of this year?](http://9gag.com/gag/an7XVOV)<!-- MEMES:END -->
+ - 😝 [Obviously these arguments require you to take your clothes off... Right?](http://9gag.com/gag/a7oKpjq)
+ - 😝 [C. can&#39;t tell](http://9gag.com/gag/a1mZwxG)
+ - 💣 [Women&#39;s Studies students spend $60k a year of their parents&#39; money to learn a screaming course against the patriarchy](http://9gag.com/gag/a9yMVbL)
+ - 😝 [My man shot his shot](http://9gag.com/gag/a6ZdGAR)
+ - 👉 [Former Boston Red Sox pitcher Austin Maddox was arrested after he tried to meet an underage girl for sex, but officers caught him.](http://9gag.com/gag/amoLdv6)<!-- MEMES:END -->
 
 ---
 

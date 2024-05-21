@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dancing to the song of thier people](http://9gag.com/gag/a4P9x4Z)
+ - 😝 [Logic](http://9gag.com/gag/avyZD3q)
  - 😝 [It&#39;s in black and white](http://9gag.com/gag/avyZmDO)
  - 💣 [He slept on the couch that day!!](http://9gag.com/gag/amoLdPy)
  - 😝 [How to spot an alien imposter](http://9gag.com/gag/aAyVv7d)
- - 👉 [When the summer is near and you forget you escaped from wars and misery.](http://9gag.com/gag/azxLB4m)<!-- MEMES:END -->
+ - 👉 [I&#39;m gonna take an 8 hour break](http://9gag.com/gag/a87bK33)<!-- MEMES:END -->
 
 ---
 

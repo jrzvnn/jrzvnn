@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Instant karma - hit by car trying to run away](http://9gag.com/gag/a87bX1Y)
- - 😝 [Hurts right in the miau miau](http://9gag.com/gag/aD2wNgZ)
- - 💣 [Should I give my seat to a women?](http://9gag.com/gag/aMVbWLW)
- - 😝 [Insurance scam](http://9gag.com/gag/aByQvwA)
- - 👉 [Gotta keep trying](http://9gag.com/gag/aXPEKv6)<!-- MEMES:END -->
+ - 😝 [I couldn&#39;t find a non caption video without the music on, but I agree with her.](http://9gag.com/gag/aGyVN5n)
+ - 😝 [They never forget](http://9gag.com/gag/aXPEdOD)
+ - 💣 [He slept on the couch that day!!](http://9gag.com/gag/amoLdPy)
+ - 😝 [Me too](http://9gag.com/gag/aYQpdKO)
+ - 👉 [When the summer is near and you forget you escaped from wars and misery.](http://9gag.com/gag/azxLB4m)<!-- MEMES:END -->
 
 ---
 

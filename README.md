@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to stop Google listening to your conversation](http://9gag.com/gag/aMVbN3V)
- - 😝 [It\u2019s good entertainment though](http://9gag.com/gag/an7X8yB)
- - 💣 [This restaurant covered up the `No Tip` option with a sticker to force tipping](http://9gag.com/gag/aD2wOXG)
- - 😝 [Not safe for muslim](http://9gag.com/gag/aKGgNXQ)
- - 👉 [Enormous Plasma Wall spotted on the Sun](http://9gag.com/gag/azxLDxj)<!-- MEMES:END -->
+ - 😝 [This restaurant covered up the `No Tip` option with a sticker to force tipping](http://9gag.com/gag/aD2wOXG)
+ - 😝 [Just a reminder](http://9gag.com/gag/a9yMO8Z)
+ - 💣 [Nice guys finish last](http://9gag.com/gag/aYQpRYV)
+ - 😝 [I miss when Games were made by Gamers for Gamers](http://9gag.com/gag/aD2wNZK)
+ - 👉 [Not safe for muslim](http://9gag.com/gag/aKGgNXQ)<!-- MEMES:END -->
 
 ---
 

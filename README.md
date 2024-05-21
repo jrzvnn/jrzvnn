@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just a reminder](http://9gag.com/gag/a9yMO8Z)
- - 😝 [Me too](http://9gag.com/gag/aYQpdKO)
- - 💣 [Insurance scam](http://9gag.com/gag/aByQvwA)
- - 😝 [Former Boston Red Sox pitcher Austin Maddox was arrested after he tried to meet an underage girl for sex, but officers caught him.](http://9gag.com/gag/amoLdv6)
- - 👉 [9 pillars of light appear in night sky above coastal Japanese town](http://9gag.com/gag/aGyV2Mz)<!-- MEMES:END -->
+ - 😝 [Should I give my seat to a women?](http://9gag.com/gag/aMVbWLW)
+ - 😝 [Insurance scam](http://9gag.com/gag/aByQvwA)
+ - 💣 [Men can have an entire conversation with 1 nod](http://9gag.com/gag/aPAy1xQ)
+ - 😝 [This video of the meteor in Portugal](http://9gag.com/gag/aAyVXmg)
+ - 👉 [Me too](http://9gag.com/gag/aYQpdKO)<!-- MEMES:END -->
 
 ---
 

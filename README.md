@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sonos Roam 2 portable AirPlay speaker gets surprise release](https://appleinsider.com/articles/24/05/21/sonos-releases-updated-roam-2-portable-airplay-speaker?utm_medium=rss)
+ - [Apple Vision Pro&#39;s next &#39;adventure&#39; experience is Parkour in Paris](https://appleinsider.com/articles/24/05/21/apple-vision-pros-next-adventure-experience-is-parkour-in-paris?utm_medium=rss)
  - [11 Best Cheap Laptops &lpar;2024&rpar;: Our Picks for $700 or Less](https://www.wired.com/gallery/best-cheap-laptops/)
  - [For the director of I Saw the TV Glow, Buffy the Vampire Slayer was just the start](https://www.theverge.com/24159054/i-saw-the-tv-glow-jane-schoenbrun-interview)
- - [RetroArch emulator adds support for DOS games, and more](https://appleinsider.com/articles/24/05/21/retroarch-emulator-adds-support-for-dos-games-and-more?utm_medium=rss)
- - [A French AI startup, simply called H and founded by ex-Google DeepMind scientists, raised $220M from Accel and others, and plans a model capable of reasoning &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/240521/p20#a240521p20)
- - [Adobe&#39;s AI-Powered Generative Remove Feature in Lightroom Erases Unsightly Objects in Seconds](https://www.wired.com/story/adobe-lightroom-generative-remove/)<!-- TECH:END -->
+ - [RetroArch emulator adds support for DOS games, and more](https://appleinsider.com/articles/24/05/21/retroarch-emulator-adds-support-for-dos-games-and-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

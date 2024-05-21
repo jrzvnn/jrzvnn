@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI data labeling startup Scale AI raised $1B led by Accel at a ~$14B valuation, up from $7.3B in April 2021; a source says Scale AI had ~$700M in 2023 revenue &lpar;Financial Times&rpar;](http://www.techmeme.com/240521/p14#a240521p14)
  - [Sources: in the event that China invades Taiwan, ASML and TSMC have ways to disable their sophisticated chipmaking machines; ASML reassured Dutch officials &lpar;Bloomberg&rpar;](http://www.techmeme.com/240521/p13#a240521p13)
  - [How Meta, Microsoft, and Google are helping OpenAI develop Triton, a tool to help run code efficiently on AI chips to compete with Nvidia&#39;s CUDA platform &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/240521/p12#a240521p12)
  - [Apple North Carolina campus efforts continue to move at a glacial pace](https://appleinsider.com/articles/24/05/21/apple-north-carolina-campus-efforts-continue-to-move-at-a-glacial-pace?utm_medium=rss)
- - [EU countries vote to approve the landmark EU AI Act, agreed in December 2023, to ensure &quot;trust, transparency, and accountability&quot;, taking effect in June 2024 &lpar;Reuters&rpar;](http://www.techmeme.com/240521/p11#a240521p11)
- - [Eventbrite Promoted Illegal Opioid Sales to People Searching for Addiction Recovery Help](https://www.wired.com/story/sex-drugs-and-eventbrite/)<!-- TECH:END -->
+ - [EU countries vote to approve the landmark EU AI Act, agreed in December 2023, to ensure &quot;trust, transparency, and accountability&quot;, taking effect in June 2024 &lpar;Reuters&rpar;](http://www.techmeme.com/240521/p11#a240521p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

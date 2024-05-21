@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I like trains](http://9gag.com/gag/aZZW2wn)
+ - 😝 [This video of the meteor in Portugal](http://9gag.com/gag/aAyVXmg)
+ - 💣 [If there is no cat living in your house.](http://9gag.com/gag/aVvQRo8)
  - 😝 [We are getting old!](http://9gag.com/gag/a9yMO70)
- - 😝 [Men can have an entire conversation with 1 nod](http://9gag.com/gag/aPAy1xQ)
- - 💣 [Tourist grabs lever during flight](http://9gag.com/gag/aByQXe1)
- - 😝 [Freedom of speech.](http://9gag.com/gag/avyZdjX)
- - 👉 [Physics defying pushups](http://9gag.com/gag/ajP6WPx)<!-- MEMES:END -->
+ - 👉 [9 pillars of light appear in night sky above coastal Japanese town](http://9gag.com/gag/aGyV2Mz)<!-- MEMES:END -->
 
 ---
 

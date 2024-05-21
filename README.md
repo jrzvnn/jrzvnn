@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gotta keep trying](http://9gag.com/gag/aXPEKv6)
- - 😝 [US Navy cost to fire different weapons](http://9gag.com/gag/adB6dpj)
- - 💣 [How do people like this even exist](http://9gag.com/gag/awybdGW)
- - 😝 [Me too](http://9gag.com/gag/aYQpdKO)
- - 👉 [So many years have passed and the feminists are still silent when it comes to womenspreading .... I wonder why... Didn&#39;t they claim to be for equality? Hmmm....](http://9gag.com/gag/abAq23b)<!-- MEMES:END -->
+ - 😝 [Former Boston Red Sox pitcher Austin Maddox was arrested after he tried to meet an underage girl for sex, but officers caught him.](http://9gag.com/gag/amoLdv6)
+ - 😝 [It&#39;s not even his mother](http://9gag.com/gag/aqyZWwZ)
+ - 💣 [Too early to win the Darwin award of this year?](http://9gag.com/gag/an7XVOV)
+ - 😝 [Permanent Motion Sickness](http://9gag.com/gag/aNDoqrG)
+ - 👉 [9 pillars of light appear in night sky above coastal Japanese town](http://9gag.com/gag/aGyV2Mz)<!-- MEMES:END -->
 
 ---
 

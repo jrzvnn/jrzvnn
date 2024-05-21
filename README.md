@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Internet trick you didn\u2019t know](http://9gag.com/gag/aoyZdOg)
- - 😝 [Logic](http://9gag.com/gag/avyZD3q)
- - 💣 [Haven&#39;t seen this one yet](http://9gag.com/gag/aGyVoAX)
- - 😝 [Loyalty!](http://9gag.com/gag/aRBgN2q)
- - 👉 [What a cool dad](http://9gag.com/gag/amoLby9)<!-- MEMES:END -->
+ - 😝 [Women&#39;s Studies students spend $60k a year of their parents&#39; money to learn a screaming course against the patriarchy](http://9gag.com/gag/a9yMVbL)
+ - 😝 [It\u2019s good entertainment though](http://9gag.com/gag/an7X8yB)
+ - 💣 [This restaurant covered up the `No Tip` option with a sticker to force tipping](http://9gag.com/gag/aD2wOXG)
+ - 😝 [Keep this kid off of social media](http://9gag.com/gag/azxLD3Z)
+ - 👉 [Enormous Plasma Wall spotted on the Sun](http://9gag.com/gag/azxLDxj)<!-- MEMES:END -->
 
 ---
 

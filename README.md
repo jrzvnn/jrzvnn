@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Girls dorm in Kyrgyzstan after 500+ local men broke in and tired to force themselves and abuse the girls. The local police isn&#39;t doing and the government is asking people to no upload the videos online](http://9gag.com/gag/apRoYQn)
- - 😝 [Welcome to Europe! Its a nice place.](http://9gag.com/gag/aPAyX4P)
- - 💣 [Gotta keep trying](http://9gag.com/gag/aXPEKv6)
- - 😝 [Every fathers worst nightmare...](http://9gag.com/gag/aLnQXjz)
- - 👉 [This video of the meteor in Portugal](http://9gag.com/gag/aAyVXmg)<!-- MEMES:END -->
+ - 😝 [Found a malignant tumor in my left kidney, getting it removed today so f*ck you and I&#39;ll see you tomorrow!](http://9gag.com/gag/amoLnQy)
+ - 😝 [He slept on the couch that day!!](http://9gag.com/gag/amoLdPy)
+ - 💣 [When the summer is near and you forget you escaped from wars and misery.](http://9gag.com/gag/azxLB4m)
+ - 😝 [It&#39;s in black and white](http://9gag.com/gag/avyZmDO)
+ - 👉 [Me too](http://9gag.com/gag/aYQpdKO)<!-- MEMES:END -->
 
 ---
 

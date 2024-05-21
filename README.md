@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Farcaster, a blockchain-based social media project built on Ethereum, raised $150M in a round led by Paradigm and says it has 350K paid sign-ups &lpar;Bradley Keoun/CoinDesk&rpar;](http://www.techmeme.com/240521/p28#a240521p28)
+ - [Pixar cuts 14 percent of workforce, shifts focus back to feature films](https://www.theverge.com/2024/5/21/24161650/pixar-layoffs-disney-cost-cutting)
  - [Amazon slashes Samsung&#39;s S6 Thunderbolt 4 monitor to $449](https://appleinsider.com/articles/24/05/21/amazon-slashes-samsungs-s6-thunderbolt-4-monitor-to-449?utm_medium=rss)
  - [Google’s AI search results are already getting ads](https://www.theverge.com/2024/5/21/24161724/google-ai-search-results-ads-test)
- - [IGN scoops up Eurogamer, Rock Paper Shotgun, and more](https://www.theverge.com/2024/5/21/24161718/ign-gamer-network-acquisition)
- - [The Absolute Hardest Houseplants to Kill, According to Plant Pros     - CNET](https://www.cnet.com/news/the-absolute-hardest-houseplants-to-kill-according-to-plant-pros/#ftag=CAD590a51e)
- - [Samsung Galaxy Buds 2 Pro Deals: Save Up to $110 at Woot, Walmart and More     - CNET](https://www.cnet.com/deals/best-galaxy-buds-2-pro-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [IGN scoops up Eurogamer, Rock Paper Shotgun, and more](https://www.theverge.com/2024/5/21/24161718/ign-gamer-network-acquisition)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

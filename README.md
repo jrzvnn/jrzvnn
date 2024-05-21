@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The EPA is cracking down on cybersecurity threats](https://www.theverge.com/2024/5/21/24161502/cyberattack-drinking-water-epa-inspection-enforcement-alert)
+ - [Hellblade II: headphones on, heart rate up](https://www.theverge.com/24160999/hellblade-2-headphones-audio-engineering)
  - [Uber and Lyft to stay in Minneapolis after state lowers driver pay requirements](https://www.theverge.com/2024/5/21/24161525/uber-lyft-stay-minneapolis-driver-pay-rates)
  - [Sonos Roam 2 portable AirPlay speaker gets surprise release](https://appleinsider.com/articles/24/05/21/sonos-releases-updated-roam-2-portable-airplay-speaker?utm_medium=rss)
- - [Blackmagic&#39;s Cinema Camera 6K Is Currently $1,000 Off](https://www.wired.com/story/blackmagic-cinema-camera-deal-may-2024/)
- - [Apple Vision Pro&#39;s next &#39;adventure&#39; experience is Parkour in Paris](https://appleinsider.com/articles/24/05/21/apple-vision-pros-next-adventure-experience-is-parkour-in-paris?utm_medium=rss)
- - [11 Best Cheap Laptops &lpar;2024&rpar;: Our Picks for $700 or Less](https://www.wired.com/gallery/best-cheap-laptops/)<!-- TECH:END -->
+ - [Blackmagic&#39;s Cinema Camera 6K Is Currently $1,000 Off](https://www.wired.com/story/blackmagic-cinema-camera-deal-may-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

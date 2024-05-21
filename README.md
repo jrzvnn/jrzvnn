@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google is rolling out a new AI-powered ad format that shows shoppers how items of clothing would look on different skin tones and body types &lpar;Louise Matsakis/Wired&rpar;](http://www.techmeme.com/240521/p34#a240521p34)
+ - [New Music &amp; audio enhancements plus a mysterious &#39;Passthrough&#39; feature are coming at WWDC](https://appleinsider.com/articles/24/05/21/new-music-audio-enhancements-plus-a-mysterious-passthrough-feature-are-coming-at-wwdc?utm_medium=rss)
+ - [This Microsoft-approved website tracks how Windows games play on Arm](https://www.theverge.com/2024/5/21/24161936/windows-on-arm-ready-software-linaro-microsoft-qualcomm)
  - [The best doorbell cameras](https://www.theverge.com/22954554/best-video-doorbell-camera)
- - [Microsoft announces the developer preview of Windows Volumetric Apps, giving access to an API that lets devs put Windows apps in 3D space on Meta Quest headsets &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240521/p33#a240521p33)
- - [Scarlett Johansson &#39;Angered&#39; Over OpenAI&#39;s Chatbot Mimicking &#39;Her&#39; Voice     - CNET](https://www.cnet.com/tech/mobile/scarlett-johansson-angered-over-openais-chatbot-mimicking-her-voice/#ftag=CAD590a51e)
- - [The August smart lock finally gets a fingerprint option](https://www.theverge.com/2024/5/21/24161777/august-smart-lock-yale-keypad-touch-fingerprint-unlock)
- - [Best Cheap Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-cheap-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft announces the developer preview of Windows Volumetric Apps, giving access to an API that lets devs put Windows apps in 3D space on Meta Quest headsets &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240521/p33#a240521p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

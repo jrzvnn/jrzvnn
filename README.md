@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft Build 2024: news and announcements from the developer conference](https://www.theverge.com/2024/5/21/24161221/microsoft-build-2024-news-ai-copilot-plus)
- - [Microsoft Teams is adding a Slack-favorite emoji feature](https://www.theverge.com/2024/5/21/24160828/microsoft-teams-custom-emoji-reactions-preview)
- - [Microsoft Edge will translate and dub YouTube videos as you’re watching them](https://www.theverge.com/2024/5/21/24160664/microsoft-edge-real-time-video-translation-ai)
- - [Microsoft brings out a small language model that can look at pictures](https://www.theverge.com/2024/5/21/24159282/microsoft-ai-small-language-model-phi-3-vision)
- - [Microsoft’s new Copilot AI agents act like virtual employees to automate tasks](https://www.theverge.com/2024/5/21/24158030/microsoft-copilot-ai-automation-agents)<!-- TECH:END -->
+ - [Microsoft ships Azure AI Studio in broad availability, adds support for OpenAI&#39;s GPT-4o, and announces a new multimodal model in its lightweight Phi-3 family &lpar;Kevin Okemwa/Windows Central&rpar;](http://www.techmeme.com/240521/p25#a240521p25)
+ - [Microsoft debuts a new AI feature for Edge to translate spoken content via dubbing and subtitles live, on YouTube, LinkedIn, Coursera, news sites, and more &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240521/p24#a240521p24)
+ - [Microsoft launches Copilot Extension for GitHub, letting developers build third-party skills into Copilot, starting with DataStax, Stripe, MongoDB, and more &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240521/p23#a240521p23)
+ - [Microsoft unveils a Team Copilot for Microsoft Teams, Loop, and Planner that can help run meetings, manage projects, assign tasks, more, coming later this year &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/240521/p22#a240521p22)
+ - [All the new from Microsoft Build 2024](https://www.theverge.com/2024/5/21/24161221/microsoft-build-2024-news-ai-copilot-plus)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

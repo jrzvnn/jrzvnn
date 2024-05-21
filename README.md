@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Should I give my seat to a women?](http://9gag.com/gag/aMVbWLW)
+ - 😝 [Instant karma - hit by car trying to run away](http://9gag.com/gag/a87bX1Y)
+ - 😝 [Hurts right in the miau miau](http://9gag.com/gag/aD2wNgZ)
+ - 💣 [Should I give my seat to a women?](http://9gag.com/gag/aMVbWLW)
  - 😝 [Insurance scam](http://9gag.com/gag/aByQvwA)
- - 💣 [Men can have an entire conversation with 1 nod](http://9gag.com/gag/aPAy1xQ)
- - 😝 [Gotta keep trying](http://9gag.com/gag/aXPEKv6)
- - 👉 [Instant karma - hit by car trying to run away](http://9gag.com/gag/a87bX1Y)<!-- MEMES:END -->
+ - 👉 [Gotta keep trying](http://9gag.com/gag/aXPEKv6)<!-- MEMES:END -->
 
 ---
 

@@ -164,10 +164,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The EPA is cracking down on cybersecurity threats](https://www.theverge.com/2024/5/21/24161502/cyberattack-drinking-water-epa-inspection-enforcement-alert)
+ - [AI Startup GPTZero Wants to Help You Spot AI-Generated Writing     - CNET](https://www.cnet.com/tech/services-and-software/ai-startup-gptzero-wants-to-help-you-spot-ai-generated-writing/#ftag=CAD590a51e)
  - [Hellblade II: headphones on, heart rate up](https://www.theverge.com/24160999/hellblade-2-headphones-audio-engineering)
  - [Uber and Lyft to stay in Minneapolis after state lowers driver pay requirements](https://www.theverge.com/2024/5/21/24161525/uber-lyft-stay-minneapolis-driver-pay-rates)
- - [Sonos Roam 2 portable AirPlay speaker gets surprise release](https://appleinsider.com/articles/24/05/21/sonos-releases-updated-roam-2-portable-airplay-speaker?utm_medium=rss)
- - [Blackmagic&#39;s Cinema Camera 6K Is Currently $1,000 Off](https://www.wired.com/story/blackmagic-cinema-camera-deal-may-2024/)<!-- TECH:END -->
+ - [Sonos Roam 2 portable AirPlay speaker gets surprise release](https://appleinsider.com/articles/24/05/21/sonos-releases-updated-roam-2-portable-airplay-speaker?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

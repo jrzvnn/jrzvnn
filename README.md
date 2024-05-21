@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Physics defying pushups](http://9gag.com/gag/ajP6WPx)
- - 😝 [Just a reminder](http://9gag.com/gag/a9yMO8Z)
- - 💣 [Welcome to Europe! Its a nice place.](http://9gag.com/gag/aPAyX4P)
+ - 😝 [Gotta keep trying](http://9gag.com/gag/aXPEKv6)
+ - 😝 [US Navy cost to fire different weapons](http://9gag.com/gag/adB6dpj)
+ - 💣 [How do people like this even exist](http://9gag.com/gag/awybdGW)
  - 😝 [Me too](http://9gag.com/gag/aYQpdKO)
- - 👉 [RIP](http://9gag.com/gag/aGyVoV0)<!-- MEMES:END -->
+ - 👉 [So many years have passed and the feminists are still silent when it comes to womenspreading .... I wonder why... Didn&#39;t they claim to be for equality? Hmmm....](http://9gag.com/gag/abAq23b)<!-- MEMES:END -->
 
 ---
 

@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US v. Google: Google has preemptively paid damages to the US government, an unusual move aimed at avoiding a jury trial in the DOJ&#39;s antitrust lawsuit &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/240520/p42#a240520p42)
- - [Scarlett Johansson Says OpenAI Ripped Off Her Voice for ChatGPT](https://www.wired.com/story/scarlett-johansson-says-openai-ripped-off-her-voice-for-chatgpt/)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [Memorial Day Appliance Sales 2024: Shop Big Savings on Major Appliances     - CNET](https://www.cnet.com/deals/memorial-day-appliance-sales/#ftag=CAD590a51e)
- - [Best Memorial Day Laptop Deals: Score Big Savings on HP, LG, Apple and More     - CNET](https://www.cnet.com/deals/best-memorial-day-laptop-deals-score-big-savings-on-hp-lg-apple-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Scarlett Johansson told OpenAI not to use her voice — and she’s not happy they might have anyway](https://www.theverge.com/2024/5/20/24161253/scarlett-johansson-openai-altman-legal-action)
+ - [Streaming deal: save 50% on a Paramount Plus &amp; Showtime bundle](https://appleinsider.com/articles/24/05/21/streaming-deal-save-50-on-a-paramount-plus-showtime-bundle?utm_medium=rss)
+ - [Samsung Electronics names Young-Hyun Jun as the head of its semiconductor arm, replacing co-CEO Kye-Hyun Kyung, who will oversee its business planning team &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/240520/p43#a240520p43)
+ - [Volvo teams up with Aurora to reveal an autonomous semi truck](https://www.theverge.com/2024/5/20/24161079/volvo-aurora-autonomous-truck-class-8-production-design)
+ - [Everything Announced at Microsoft&#39;s Surface Copilot + PC Event video     - CNET](https://www.cnet.com/videos/everything-announced-at-microsofts-surface-copilot-pc-event/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft&#39;s Copilot+ PCs event was compelling, the culmination of years of work, and Windows feels revitalized while its hardware is meaningfully differentiated &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/240521/p17#a240521p17)
+ - [Folding iPhone may repair display scratches &amp; dents by itself](https://appleinsider.com/articles/20/10/01/future-folding-iphones-may-repair-scratches-or-dents-in-the-display-by-themselves?utm_medium=rss)
  - [iPhone 16 Pro rumored to get hugely better ultra-wide sensor &amp; optical zoom](https://appleinsider.com/articles/24/05/21/iphone-16-pro-rumored-to-get-hugely-better-ultra-wide-sensor-optical-zoom?utm_medium=rss)
  - [Google, Meta, Microsoft, OpenAI, Amazon, IBM, and 10 other companies commit to safe AI development at the AI Seoul Summit 2024, hosted by South Korea and the UK &lpar;Joyce Lee/Reuters&rpar;](http://www.techmeme.com/240521/p16#a240521p16)
- - [Crypto Astrologers See Price Moves in the Stars](https://www.wired.com/story/crypto-astrologers-predictions/)
- - [Alibaba slashes prices for its AI services by up to 97%, leading Baidu to offer free Ernie AI-based services; ByteDance priced its services cheaply last week &lpar;Bloomberg&rpar;](http://www.techmeme.com/240521/p15#a240521p15)
- - [AI data labeling startup Scale AI raised $1B led by Accel at a ~$14B valuation, up from $7.3B in April 2021; a source says Scale AI had ~$700M in 2023 revenue &lpar;Financial Times&rpar;](http://www.techmeme.com/240521/p14#a240521p14)<!-- TECH:END -->
+ - [Crypto Astrologers See Price Moves in the Stars](https://www.wired.com/story/crypto-astrologers-predictions/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

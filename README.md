@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That sign won&#39;t stop me because I can&#39;t read](http://9gag.com/gag/apRod0n)
- - 😝 [9 pillars of light appear in night sky above coastal Japanese town](http://9gag.com/gag/aGyV2Mz)
- - 💣 [I have waited this, release year 2025.](http://9gag.com/gag/aXPEeqv)
- - 😝 [She&#39;s very supportive](http://9gag.com/gag/aD2wV5K)
- - 👉 [Who doesn&#39;t like democracy. Most disliked game so far this year or what](http://9gag.com/gag/aqyZznM)<!-- MEMES:END -->
+ - 😝 [Just a reminder](http://9gag.com/gag/a9yMO8Z)
+ - 😝 [Where are you touching](http://9gag.com/gag/a4P9WPQ)
+ - 💣 [9 pillars of light appear in night sky above coastal Japanese town](http://9gag.com/gag/aGyV2Mz)
+ - 😝 [We are getting old!](http://9gag.com/gag/a9yMO70)
+ - 👉 [If there is no cat living in your house.](http://9gag.com/gag/aVvQRo8)<!-- MEMES:END -->
 
 ---
 

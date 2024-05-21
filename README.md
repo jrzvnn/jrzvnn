@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elden Ring: Shadow of the Erdtree’s new trailer is a dramatic call to arms](https://www.theverge.com/24161559/elden-ring-shadow-of-the-erdtree-expansion-story-trailer)
+ - [Comcast bundles Netflix, Peacock, and Apple TV Plus for $15 / month](https://www.theverge.com/2024/5/21/24161601/comcast-streamsaver-bundle-netflix-peacock-apple-tv-plus)
+ - [Tech Against Scams, a coalition to fight &quot;pig butchering&quot; ploys with better industry coordination, launches with Meta, Coinbase, Match, Kraken, others on board &lpar;Jeff John Roberts/Fortune&rpar;](http://www.techmeme.com/240521/p21#a240521p21)
  - [AI Is a Black Box. Anthropic Figured Out a Way to Look Inside](https://www.wired.com/story/anthropic-black-box-ai-research-neurons-features/)
- - [The EPA is cracking down on cybersecurity threats](https://www.theverge.com/2024/5/21/24161502/cyberattack-drinking-water-epa-inspection-enforcement-alert)
- - [AI Startup GPTZero Wants to Help You Spot AI-Generated Writing     - CNET](https://www.cnet.com/tech/services-and-software/ai-startup-gptzero-wants-to-help-you-spot-ai-generated-writing/#ftag=CAD590a51e)
- - [8 Best Electric Toothbrushes &lpar;2024&rpar;: Cheap, Smart, Kids, and Alternatives](https://www.wired.com/gallery/best-electric-toothbrushes/)
- - [Hellblade II: headphones on, heart rate up](https://www.theverge.com/24160999/hellblade-2-headphones-audio-engineering)<!-- TECH:END -->
+ - [The EPA is cracking down on cybersecurity threats](https://www.theverge.com/2024/5/21/24161502/cyberattack-drinking-water-epa-inspection-enforcement-alert)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

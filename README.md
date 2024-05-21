@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just breaking news. Nothing to see here.](http://9gag.com/gag/aGyV6L6)
- - 😝 [Mike Tyson at his scariest](http://9gag.com/gag/an7XWwn)
- - 💣 [Enormous Plasma Wall spotted on the Sun](http://9gag.com/gag/azxLDxj)
- - 😝 [How to stop Google listening to your conversation](http://9gag.com/gag/aMVbN3V)
- - 👉 [Not safe for muslim](http://9gag.com/gag/aKGgNXQ)<!-- MEMES:END -->
+ - 😝 [Haven&#39;t seen this one yet](http://9gag.com/gag/aGyVoAX)
+ - 😝 [It really makes me happy watching them playing with old fashion classic games.](http://9gag.com/gag/aGyV6V5)
+ - 💣 [Internet trick you didn\u2019t know](http://9gag.com/gag/aoyZdOg)
+ - 😝 [Loyalty!](http://9gag.com/gag/aRBgN2q)
+ - 👉 [What a cool dad](http://9gag.com/gag/amoLby9)<!-- MEMES:END -->
 
 ---
 

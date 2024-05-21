@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How do people like this even exist](http://9gag.com/gag/awybdGW)
- - 😝 [Just a reminder](http://9gag.com/gag/a9yMO8Z)
- - 💣 [He needs to add just 1 more protein](http://9gag.com/gag/aD2wV7N)
- - 😝 [Girls dorm in Kyrgyzstan after 500+ local men broke in and tired to force themselves and abuse the girls. The local police isn&#39;t doing and the government is asking people to no upload the videos online](http://9gag.com/gag/apRoYQn)
- - 👉 [We are getting old!](http://9gag.com/gag/a9yMO70)<!-- MEMES:END -->
+ - 😝 [Too early to win the Darwin award of this year?](http://9gag.com/gag/an7XVOV)
+ - 😝 [Someone&#39;s Happy](http://9gag.com/gag/ae93R2O)
+ - 💣 [Iranians deserve freedom](http://9gag.com/gag/ayNpP8b)
+ - 😝 [Let the intrusive thoughts &lpar;w&rpar;in](http://9gag.com/gag/ayNpPWr)
+ - 👉 [I&#39;m gonna take an 8 hour break](http://9gag.com/gag/a87bK33)<!-- MEMES:END -->
 
 ---
 

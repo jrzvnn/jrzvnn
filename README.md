@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [C. can&#39;t tell](http://9gag.com/gag/a1mZwxG)
- - 😝 [Gotta keep trying](http://9gag.com/gag/aXPEKv6)
- - 💣 [9 pillars of light appear in night sky above coastal Japanese town](http://9gag.com/gag/aGyV2Mz)
- - 😝 [Insurance scam](http://9gag.com/gag/aByQvwA)
- - 👉 [Every fathers worst nightmare...](http://9gag.com/gag/aLnQXjz)<!-- MEMES:END -->
+ - 😝 [Dancing to the song of thier people](http://9gag.com/gag/a4P9x4Z)
+ - 😝 [It&#39;s in black and white](http://9gag.com/gag/avyZmDO)
+ - 💣 [He slept on the couch that day!!](http://9gag.com/gag/amoLdPy)
+ - 😝 [How to spot an alien imposter](http://9gag.com/gag/aAyVv7d)
+ - 👉 [When the summer is near and you forget you escaped from wars and misery.](http://9gag.com/gag/azxLB4m)<!-- MEMES:END -->
 
 ---
 

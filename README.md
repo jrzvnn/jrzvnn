@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What to Know About IP Ratings Before Your Phone Gets Wet](https://www.wired.com/story/ip-ratings-explained/)
- - [Microsoft&#39;s Copilot+ PCs event was compelling, the culmination of years of work, and Windows feels revitalized while its hardware is meaningfully differentiated &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/240521/p17#a240521p17)
- - [Folding iPhone may repair display scratches &amp; dents by itself](https://appleinsider.com/articles/20/10/01/future-folding-iphones-may-repair-scratches-or-dents-in-the-display-by-themselves?utm_medium=rss)
- - [iPhone 16 Pro rumored to get hugely better ultra-wide sensor &amp; optical zoom](https://appleinsider.com/articles/24/05/21/iphone-16-pro-rumored-to-get-hugely-better-ultra-wide-sensor-optical-zoom?utm_medium=rss)
- - [Google, Meta, Microsoft, OpenAI, Amazon, IBM, and 10 other companies commit to safe AI development at the AI Seoul Summit 2024, hosted by South Korea and the UK &lpar;Joyce Lee/Reuters&rpar;](http://www.techmeme.com/240521/p16#a240521p16)<!-- TECH:END -->
+ - [Vietnam again asks iPhone maker Foxconn to reduce electricity use](https://appleinsider.com/articles/24/05/21/vietnam-again-asks-iphone-maker-foxconn-to-reduce-electricity-use?utm_medium=rss)
+ - [Best Internet Providers in Kentucky     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-kentucky/#ftag=CAD590a51e)
+ - [Drop the Donut and Make Perfect Poached Eggs in 1 Minute in the Microwave. Here&#39;s How     - CNET](https://www.cnet.com/home/kitchen-and-household/make-perfect-poached-eggs-in-1-minute-in-the-microwave-heres-how/#ftag=CAD590a51e)
+ - [Mortgage Rates Take Dips Down: Mortgage Interest Rates for May 21, 2024     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-rates-take-dips-down-mortgage-interest-rates-for-may-21-2024/#ftag=CAD590a51e)
+ - [What to Know About IP Ratings Before Your Phone Gets Wet](https://www.wired.com/story/ip-ratings-explained/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It kinda really definitely sucked when she died](http://9gag.com/gag/aoyZD72)
- - 😝 [Former Boston Red Sox pitcher Austin Maddox was arrested after he tried to meet an underage girl for sex, but officers caught him.](http://9gag.com/gag/amoLdv6)
- - 💣 [Mike Tyson at his scariest](http://9gag.com/gag/an7XWwn)
- - 😝 [Obviously these arguments require you to take your clothes off... Right?](http://9gag.com/gag/a7oKpjq)
- - 👉 [Internet trick you didn\u2019t know](http://9gag.com/gag/aoyZdOg)<!-- MEMES:END -->
+ - 😝 [Internet trick you didn\u2019t know](http://9gag.com/gag/aoyZdOg)
+ - 😝 [Logic](http://9gag.com/gag/avyZD3q)
+ - 💣 [Haven&#39;t seen this one yet](http://9gag.com/gag/aGyVoAX)
+ - 😝 [Loyalty!](http://9gag.com/gag/aRBgN2q)
+ - 👉 [What a cool dad](http://9gag.com/gag/amoLby9)<!-- MEMES:END -->
 
 ---
 

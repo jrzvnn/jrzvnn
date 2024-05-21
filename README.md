@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Aqara’s new smart outlet can lock the door when your phone starts charging](https://www.theverge.com/2024/5/21/24161453/aqara-h2-smart-outlet-scene-automation-real-time-energy-price)
+ - [Sources: ByteDance acquires Chinese earphone maker Oladance, founded five years ago, for ~$50M, bringing on board seasoned ex-Bose engineers &lpar;Bloomberg&rpar;](http://www.techmeme.com/240521/p6#a240521p6)
  - [How Indian politicians are using deepfakes for voter outreach; an estimated 50M+ AI voice calls were made in the two months before the elections in April 2024 &lpar;Wired&rpar;](http://www.techmeme.com/240521/p5#a240521p5)
  - [A look at the use of quantum computing to solve optimization problems, which are devilishly difficult because of the huge number of options they entail &lpar;Bob Henderson/Wall Street Journal&rpar;](http://www.techmeme.com/240521/p4#a240521p4)
- - [SSDI May Payment 2024: Did Your Check Come Yet?     - CNET](https://www.cnet.com/personal-finance/ssdi-may-payment-did-your-check-come-yet/#ftag=CAD590a51e)
- - [Scarlett Johansson &quot;Angered&quot; OpenAI&#39;s Chatbot Sounds Just Like Her     - CNET](https://www.cnet.com/tech/mobile/scarlett-johansson-angered-openais-chatbot-sounds-just-like-her/#ftag=CAD590a51e)
- - [European research labs led by Belgium-based imec will receive &amp;euro;2.5B in funding under European Chips Act to set up a pilot line to develop and test sub-2nm chips &lpar;Toby Sterling/Reuters&rpar;](http://www.techmeme.com/240521/p3#a240521p3)<!-- TECH:END -->
+ - [SSDI May Payment 2024: Did Your Check Come Yet?     - CNET](https://www.cnet.com/personal-finance/ssdi-may-payment-did-your-check-come-yet/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,10 +164,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Minnesota lawmakers reach a compromise with Uber and Lyft, setting a floor for drivers&#39; pay statewide at $1.28/mile and $0.31/minute, effective January 1, 2025 &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/240521/p38#a240521p38)
- - [Google’s new ‘Add to Chromebook’ badge makes web apps easier to find and install](https://www.theverge.com/2024/5/21/24161956/google-add-to-chromebook-badge-button-install-progressive-web-apps-pwa)
- - [Microsoft will soon let businesses build custom Copilot AI agents to automate tasks, and unveils Team Copilot to help with tasks in Teams, Loop, and Planner &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240521/p37#a240521p37)
- - [Apple wants all of TSMC&#39;s 2nm chips, so they sent Jeff Williams in secret](https://appleinsider.com/articles/24/05/20/apple-wants-all-of-tsmcs-2nm-chips-so-they-sent-jeff-williams-in-secret?utm_medium=rss)
- - [Gordon Bell, who helped design several influential minicomputers at Digital Equipment Corporation, including the 12-bit PDP-8, died on May 17 at age 89 &lpar;Glenn Rifkin/New York Times&rpar;](http://www.techmeme.com/240521/p36#a240521p36)<!-- TECH:END -->
+ - [Quantum Fiber Plans: Pricing, Speeds and Availability Compared     - CNET](https://www.cnet.com/home/internet/quantum-fiber-review/#ftag=CAD590a51e)
+ - [Compare Electricity Rates in Texas     - CNET](https://www.cnet.com/how-to/compare-electricity-rates-in-texas/#ftag=CAD590a51e)
+ - [Scoop Up an LG CordZero Vacuum for 30% Off Just in Time for Memorial Day     - CNET](https://www.cnet.com/deals/scoop-up-an-lg-cordzero-vacuum-for-30-off-just-in-time-for-memorial-day/#ftag=CAD590a51e)
+ - [Google’s new ‘Add to Chromebook’ badge makes web apps easier to find and install](https://www.theverge.com/2024/5/21/24161956/google-add-to-chromebook-badge-button-install-progressive-web-apps-pwa)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

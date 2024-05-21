@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Where to preorder the Sonos Ace headphones ahead of June 5th](https://www.theverge.com/24161644/sonos-ace-headphones-preorder-buy-price-availability-release-date)
- - [Farcaster, a blockchain-based social media project built on Ethereum, raised $150M in a round led by Paradigm and says it has 350K paid sign-ups &lpar;Bradley Keoun/CoinDesk&rpar;](http://www.techmeme.com/240521/p28#a240521p28)
- - [Pixar cuts 14 percent of workforce, shifts focus back to feature films](https://www.theverge.com/2024/5/21/24161650/pixar-layoffs-disney-cost-cutting)
- - [Amazon slashes Samsung&#39;s S6 Thunderbolt 4 monitor to $449](https://appleinsider.com/articles/24/05/21/amazon-slashes-samsungs-s6-thunderbolt-4-monitor-to-449?utm_medium=rss)
- - [Google’s AI search results are already getting ads](https://www.theverge.com/2024/5/21/24161724/google-ai-search-results-ads-test)<!-- TECH:END -->
+ - [Coactive, which provides AI tools to categorize visual data, raised a $30M Series B co-led by Emerson Collective and Cherryrock Capital at a $200M valuation &lpar;Kenrick Cai/Forbes&rpar;](http://www.techmeme.com/240521/p30#a240521p30)
+ - [Microsoft announces the general availability of its Phi-3 models, including Phi-3-Silica, a 3.3B parameter model that will be embedded on all Copilot+ PCs &lpar;Ken Yeung/VentureBeat&rpar;](http://www.techmeme.com/240521/p29#a240521p29)
+ - [Microsoft’s new Windows Copilot Runtime aims to win over AI developers](https://www.theverge.com/2024/5/21/24161688/microsoft-windows-copilot-runtime-build-2024)
+ - [tvOS gets a minor update, to version 17.5.1](https://appleinsider.com/articles/24/05/21/tvos-gets-a-minor-update-to-version-1751?utm_medium=rss)
+ - [Where to preorder the Sonos Ace headphones ahead of June 5th](https://www.theverge.com/24161644/sonos-ace-headphones-preorder-buy-price-availability-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

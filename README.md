@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I couldn&#39;t find a non caption video without the music on, but I agree with her.](http://9gag.com/gag/aGyVN5n)
- - 😝 [They never forget](http://9gag.com/gag/aXPEdOD)
- - 💣 [He slept on the couch that day!!](http://9gag.com/gag/amoLdPy)
- - 😝 [Me too](http://9gag.com/gag/aYQpdKO)
- - 👉 [When the summer is near and you forget you escaped from wars and misery.](http://9gag.com/gag/azxLB4m)<!-- MEMES:END -->
+ - 😝 [Nice guys finish last](http://9gag.com/gag/aYQpRYV)
+ - 😝 [I miss when Games were made by Gamers for Gamers](http://9gag.com/gag/aD2wNZK)
+ - 💣 [That is really stupid dude](http://9gag.com/gag/aLnQWAz)
+ - 😝 [Girls dorm in Kyrgyzstan after 500+ local men broke in and tired to force themselves and abuse the girls. The local police isn&#39;t doing and the government is asking people to no upload the videos online](http://9gag.com/gag/apRoYQn)
+ - 👉 [Former Boston Red Sox pitcher Austin Maddox was arrested after he tried to meet an underage girl for sex, but officers caught him.](http://9gag.com/gag/amoLdv6)<!-- MEMES:END -->
 
 ---
 

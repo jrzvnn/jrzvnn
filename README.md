@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coactive, which provides AI tools to categorize visual data, raised a $30M Series B co-led by Emerson Collective and Cherryrock Capital at a $200M valuation &lpar;Kenrick Cai/Forbes&rpar;](http://www.techmeme.com/240521/p30#a240521p30)
- - [Microsoft announces the general availability of its Phi-3 models, including Phi-3-Silica, a 3.3B parameter model that will be embedded on all Copilot+ PCs &lpar;Ken Yeung/VentureBeat&rpar;](http://www.techmeme.com/240521/p29#a240521p29)
- - [Microsoft’s new Windows Copilot Runtime aims to win over AI developers](https://www.theverge.com/2024/5/21/24161688/microsoft-windows-copilot-runtime-build-2024)
- - [tvOS gets a minor update, to version 17.5.1](https://appleinsider.com/articles/24/05/21/tvos-gets-a-minor-update-to-version-1751?utm_medium=rss)
- - [Where to preorder the Sonos Ace headphones ahead of June 5th](https://www.theverge.com/24161644/sonos-ace-headphones-preorder-buy-price-availability-release-date)<!-- TECH:END -->
+ - [Anthropic researchers detail their attempts to peer inside the &quot;black box&quot; of LLMs, to find associations for a given prompt, which has largely been a mystery &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/240521/p32#a240521p32)
+ - [Microsoft is making File Explorer more powerful with version control and 7z compression](https://www.theverge.com/2024/5/21/24161785/microsoft-windows-file-explorer-version-control-7z-tar)
+ - [Apple fires back at DOJ antitrust case, calls for immediate dismissal](https://appleinsider.com/articles/24/05/21/apple-fires-back-at-doj-antitrust-case-calls-for-immediate-dismissal?utm_medium=rss)
+ - [Microsoft partners with Khan Academy, moving the Khanmigo agent, used by 65K+ students, to its Azure OpenAI Service and making it free for US K-12 teachers &lpar;Ken Yeung/VentureBeat&rpar;](http://www.techmeme.com/240521/p31#a240521p31)
+ - [Coactive, which provides AI tools to categorize visual data, raised a $30M Series B co-led by Emerson Collective and Cherryrock Capital at a $200M valuation &lpar;Kenrick Cai/Forbes&rpar;](http://www.techmeme.com/240521/p30#a240521p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

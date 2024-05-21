@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Former Boston Red Sox pitcher Austin Maddox was arrested after he tried to meet an underage girl for sex, but officers caught him.](http://9gag.com/gag/amoLdv6)
- - 😝 [It&#39;s not even his mother](http://9gag.com/gag/aqyZWwZ)
- - 💣 [Too early to win the Darwin award of this year?](http://9gag.com/gag/an7XVOV)
- - 😝 [Permanent Motion Sickness](http://9gag.com/gag/aNDoqrG)
- - 👉 [9 pillars of light appear in night sky above coastal Japanese town](http://9gag.com/gag/aGyV2Mz)<!-- MEMES:END -->
+ - 😝 [We are getting old!](http://9gag.com/gag/a9yMO70)
+ - 😝 [Tourist grabs lever during flight](http://9gag.com/gag/aByQXe1)
+ - 💣 [Men can have an entire conversation with 1 nod](http://9gag.com/gag/aPAy1xQ)
+ - 😝 [Freedom of speech.](http://9gag.com/gag/avyZdjX)
+ - 👉 [Physics defying pushups](http://9gag.com/gag/ajP6WPx)<!-- MEMES:END -->
 
 ---
 

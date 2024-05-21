@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Too early to win the Darwin award of this year?](http://9gag.com/gag/an7XVOV)
- - 😝 [Someone&#39;s Happy](http://9gag.com/gag/ae93R2O)
- - 💣 [Iranians deserve freedom](http://9gag.com/gag/ayNpP8b)
- - 😝 [Let the intrusive thoughts &lpar;w&rpar;in](http://9gag.com/gag/ayNpPWr)
- - 👉 [I&#39;m gonna take an 8 hour break](http://9gag.com/gag/a87bK33)<!-- MEMES:END -->
+ - 😝 [Physics defying pushups](http://9gag.com/gag/ajP6WPx)
+ - 😝 [Just a reminder](http://9gag.com/gag/a9yMO8Z)
+ - 💣 [Welcome to Europe! Its a nice place.](http://9gag.com/gag/aPAyX4P)
+ - 😝 [Me too](http://9gag.com/gag/aYQpdKO)
+ - 👉 [RIP](http://9gag.com/gag/aGyVoV0)<!-- MEMES:END -->
 
 ---
 

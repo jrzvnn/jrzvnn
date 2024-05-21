@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Garmin’s fashion-forward Lily 2 tracker is still on sale for $50 off](https://www.theverge.com/2024/5/21/24161293/garmin-lily-2-fitness-tracker-amazon-fire-tv-cube-deal-sale)
  - [Minnesota lawmakers reach a compromise with Uber and Lyft, setting a floor for drivers&#39; pay statewide at $1.28/mile and $0.31/minute, effective January 1, 2025 &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/240521/p38#a240521p38)
  - [Quantum Fiber Plans: Pricing, Speeds and Availability Compared     - CNET](https://www.cnet.com/home/internet/quantum-fiber-review/#ftag=CAD590a51e)
  - [Compare Electricity Rates in Texas     - CNET](https://www.cnet.com/how-to/compare-electricity-rates-in-texas/#ftag=CAD590a51e)
- - [Scoop Up an LG CordZero Vacuum for 30% Off Just in Time for Memorial Day     - CNET](https://www.cnet.com/deals/scoop-up-an-lg-cordzero-vacuum-for-30-off-just-in-time-for-memorial-day/#ftag=CAD590a51e)
- - [Google’s new ‘Add to Chromebook’ badge makes web apps easier to find and install](https://www.theverge.com/2024/5/21/24161956/google-add-to-chromebook-badge-button-install-progressive-web-apps-pwa)<!-- TECH:END -->
+ - [Scoop Up an LG CordZero Vacuum for 30% Off Just in Time for Memorial Day     - CNET](https://www.cnet.com/deals/scoop-up-an-lg-cordzero-vacuum-for-30-off-just-in-time-for-memorial-day/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

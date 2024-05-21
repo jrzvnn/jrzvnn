@@ -173,10 +173,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Obviously these arguments require you to take your clothes off... Right?](http://9gag.com/gag/a7oKpjq)
- - 😝 [C. can&#39;t tell](http://9gag.com/gag/a1mZwxG)
- - 💣 [Women&#39;s Studies students spend $60k a year of their parents&#39; money to learn a screaming course against the patriarchy](http://9gag.com/gag/a9yMVbL)
- - 😝 [My man shot his shot](http://9gag.com/gag/a6ZdGAR)
- - 👉 [Former Boston Red Sox pitcher Austin Maddox was arrested after he tried to meet an underage girl for sex, but officers caught him.](http://9gag.com/gag/amoLdv6)<!-- MEMES:END -->
+ - 😝 [`I am Ella Elikim, Noam&#39;s daughter, 8 years old and I am a prisoner of Hamas`. Unbelievable.](http://9gag.com/gag/ae937GB)
+ - 💣 [Just a reminder](http://9gag.com/gag/a9yMO8Z)
+ - 😝 [Insurance scam](http://9gag.com/gag/aByQvwA)
+ - 👉 [That&#39;s not water...](http://9gag.com/gag/ae93PWm)<!-- MEMES:END -->
 
 ---
 

@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US v. Google: Google has preemptively paid damages to the US government, an unusual move aimed at avoiding a jury trial in the DOJ&#39;s antitrust lawsuit &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/240520/p42#a240520p42)
  - [Scarlett Johansson Says OpenAI Ripped Off Her Voice for ChatGPT](https://www.wired.com/story/scarlett-johansson-says-openai-ripped-off-her-voice-for-chatgpt/)
  - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [She sold her bathwater — PayPal took her profits](https://www.theverge.com/2024/5/20/24161207/belle-delphine-bathwater-paypal-adult-content)
- - [Scarlett Johansson says she declined to voice ChatGPT, and when she heard Sky she was &quot;shocked&quot; that Sam Altman would pursue a voice so &quot;eerily similar&quot; to hers &lpar;Kat Tenbarge/NBC News&rpar;](http://www.techmeme.com/240520/p41#a240520p41)
- - [Scarlett Johansson told OpenAI not to use her voice — and she’s not happy they might have anyway](https://www.theverge.com/2024/5/20/24161253/scarlett-johansson-openai-altman-legal-action)<!-- TECH:END -->
+ - [Memorial Day Appliance Sales 2024: Shop Big Savings on Major Appliances     - CNET](https://www.cnet.com/deals/memorial-day-appliance-sales/#ftag=CAD590a51e)
+ - [Best Memorial Day Laptop Deals: Score Big Savings on HP, LG, Apple and More     - CNET](https://www.cnet.com/deals/best-memorial-day-laptop-deals-score-big-savings-on-hp-lg-apple-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

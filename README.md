@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft will soon let businesses build custom Copilot AI agents to automate tasks, and unveils Team Copilot to help with tasks in Teams, Loop, and Planner &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240521/p37#a240521p37)
  - [Apple wants all of TSMC&#39;s 2nm chips, so they sent Jeff Williams in secret](https://appleinsider.com/articles/24/05/20/apple-wants-all-of-tsmcs-2nm-chips-so-they-sent-jeff-williams-in-secret?utm_medium=rss)
  - [Gordon Bell, who helped design several influential minicomputers at Digital Equipment Corporation, including the 12-bit PDP-8, died on May 17 at age 89 &lpar;Glenn Rifkin/New York Times&rpar;](http://www.techmeme.com/240521/p36#a240521p36)
  - [Generative AI music startup Suno raised $125M from Lightspeed Venture Partners, Nat Friedman, Daniel Gross, Matrix, Founder Collective, and others &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240521/p35#a240521p35)
- - [Wisconsin man arrested for allegedly creating AI-generated child sexual abuse material](https://www.theverge.com/2024/5/21/24161965/ai-csam-instagram-stable-diffusion-arrest)
- - [Google is rolling out a new AI-powered ad format that shows shoppers how items of clothing would look on different skin tones and body types &lpar;Louise Matsakis/Wired&rpar;](http://www.techmeme.com/240521/p34#a240521p34)<!-- TECH:END -->
+ - [Wisconsin man arrested for allegedly creating AI-generated child sexual abuse material](https://www.theverge.com/2024/5/21/24161965/ai-csam-instagram-stable-diffusion-arrest)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

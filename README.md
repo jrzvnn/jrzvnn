@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They never forget](http://9gag.com/gag/aXPEdOD)
- - 😝 [Healthy kitchen tool](http://9gag.com/gag/aZZWVyW)
- - 💣 [He slept on the couch that day!!](http://9gag.com/gag/amoLdPy)
- - 😝 [I&#39;m gonna take an 8 hour break](http://9gag.com/gag/a87bK33)
- - 👉 [When the summer is near and you forget you escaped from wars and misery.](http://9gag.com/gag/azxLB4m)<!-- MEMES:END -->
+ - 😝 [Should I give my seat to a women?](http://9gag.com/gag/aMVbWLW)
+ - 😝 [Insurance scam](http://9gag.com/gag/aByQvwA)
+ - 💣 [Men can have an entire conversation with 1 nod](http://9gag.com/gag/aPAy1xQ)
+ - 😝 [Gotta keep trying](http://9gag.com/gag/aXPEKv6)
+ - 👉 [Instant karma - hit by car trying to run away](http://9gag.com/gag/a87bX1Y)<!-- MEMES:END -->
 
 ---
 

@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Google is rolling out a new AI-powered ad format that shows shoppers how items of clothing would look on different skin tones and body types &lpar;Louise Matsakis/Wired&rpar;](http://www.techmeme.com/240521/p34#a240521p34)
  - [New Music &amp; audio enhancements plus a mysterious &#39;Passthrough&#39; feature are coming at WWDC](https://appleinsider.com/articles/24/05/21/new-music-audio-enhancements-plus-a-mysterious-passthrough-feature-are-coming-at-wwdc?utm_medium=rss)
  - [This Microsoft-approved website tracks how Windows games play on Arm](https://www.theverge.com/2024/5/21/24161936/windows-on-arm-ready-software-linaro-microsoft-qualcomm)
- - [The best doorbell cameras](https://www.theverge.com/22954554/best-video-doorbell-camera)
- - [Microsoft announces the developer preview of Windows Volumetric Apps, giving access to an API that lets devs put Windows apps in 3D space on Meta Quest headsets &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240521/p33#a240521p33)<!-- TECH:END -->
+ - [Want to Play iPhone and iPad Games With a Controller? Use Your Nintendo Switch Joy-Cons     - CNET](https://www.cnet.com/tech/mobile/want-to-play-iphone-and-ipad-games-with-a-controller-use-your-nintendo-switch-joy-cons/#ftag=CAD590a51e)
+ - [Welcome Home Wooden Birdhouse     - CNET](https://www.cnet.com/news/wooden-birdhouse-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

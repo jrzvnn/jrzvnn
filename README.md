@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [How to look up your App Store purchase history](https://appleinsider.com/inside/app-store/tips/how-to-look-up-your-app-store-purchase-history?utm_medium=rss)
  - [A profile of Alphabet&#39;s moonshot X lab, as it carves out a path in which projects spin off as independent startups, after years of debate and experimentation &lpar;Julia Love/Bloomberg&rpar;](http://www.techmeme.com/240520/p45#a240520p45)
  - [Volvo partners with Aurora Innovation to unveil Volvo VNL Autonomous, a self-driving truck which Aurora plans to use for freight hauling in the next few months &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/240520/p44#a240520p44)
- - [Scarlett Johansson told OpenAI not to use her voice — and she’s not happy they might have anyway](https://www.theverge.com/2024/5/20/24161253/scarlett-johansson-openai-altman-legal-action)
- - [Streaming deal: save 50% on a Paramount Plus &amp; Showtime bundle](https://appleinsider.com/articles/24/05/21/streaming-deal-save-50-on-a-paramount-plus-showtime-bundle?utm_medium=rss)<!-- TECH:END -->
+ - [Best Travel Headphones for 2024     - CNET](https://www.cnet.com/tech/mobile/best-travel-headphones/#ftag=CAD590a51e)
+ - [One of My Favorite Pillow Top Mattresses Is on Sale This Memorial Day     - CNET](https://www.cnet.com/deals/helix-luxe-memorial-day-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

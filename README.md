@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best doorbell cameras](https://www.theverge.com/22954554/best-video-doorbell-camera)
  - [Microsoft announces the developer preview of Windows Volumetric Apps, giving access to an API that lets devs put Windows apps in 3D space on Meta Quest headsets &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240521/p33#a240521p33)
- - [Scarlett Johansson &#39;Angered&#39; Over OpenAI&#39;s Chatbot Mimicking &#39;Her&#39; Voice     - CNET](https://www.cnet.com/tech/mobile/scarlett-johansson-angered-over-openais-chatbot-mimicking-her-voice/#ftag=CAD590a51e)
  - [The August smart lock finally gets a fingerprint option](https://www.theverge.com/2024/5/21/24161777/august-smart-lock-yale-keypad-touch-fingerprint-unlock)
- - [Best Cheap Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-cheap-mattress/#ftag=CAD590a51e)
- - [Memorial Day 2024 Sales: Nab These Early Deals Right Now, Plus What to Know for the Big Event     - CNET](https://www.cnet.com/deals/memorial-day-sales/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [There’s an electric salt spoon that adds umami flavor](https://www.theverge.com/2024/5/21/24161762/electric-salt-spoon-umami-flavor)
+ - [Square Enix will let Kingdom Hearts cook on Steam](https://www.theverge.com/2024/5/21/24161661/kingdom-hearts-steam-release-date-trailer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

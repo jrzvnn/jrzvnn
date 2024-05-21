@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Loyalty!](http://9gag.com/gag/aRBgN2q)
- - 😝 [Logic](http://9gag.com/gag/avyZD3q)
- - 💣 [That&#39;s not water...](http://9gag.com/gag/ae93PWm)
- - 😝 [Women are complicated](http://9gag.com/gag/amoLb4j)
- - 👉 [Haven&#39;t seen this one yet](http://9gag.com/gag/aGyVoAX)<!-- MEMES:END -->
+ - 😝 [Former Boston Red Sox pitcher Austin Maddox was arrested after he tried to meet an underage girl for sex, but officers caught him.](http://9gag.com/gag/amoLdv6)
+ - 😝 [Enormous Plasma Wall spotted on the Sun](http://9gag.com/gag/azxLDxj)
+ - 💣 [If there is no cat living in your house.](http://9gag.com/gag/aVvQRo8)
+ - 😝 [Women&#39;s Studies students spend $60k a year of their parents&#39; money to learn a screaming course against the patriarchy](http://9gag.com/gag/a9yMVbL)
+ - 👉 [Internet trick you didn\u2019t know](http://9gag.com/gag/aoyZdOg)<!-- MEMES:END -->
 
 ---
 

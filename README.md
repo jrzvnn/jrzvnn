@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elden Ring: Shadow of the Erdtree’s new trailer is a dramatic call to arms](https://www.theverge.com/24161559/elden-ring-shadow-of-the-erdtree-expansion-story-trailer)
- - [Comcast bundles Netflix, Peacock, and Apple TV Plus for $15 / month](https://www.theverge.com/2024/5/21/24161601/comcast-streamsaver-bundle-netflix-peacock-apple-tv-plus)
- - [Tech Against Scams, a coalition to fight &quot;pig butchering&quot; ploys with better industry coordination, launches with Meta, Coinbase, Match, Kraken, others on board &lpar;Jeff John Roberts/Fortune&rpar;](http://www.techmeme.com/240521/p21#a240521p21)
- - [AI Is a Black Box. Anthropic Figured Out a Way to Look Inside](https://www.wired.com/story/anthropic-black-box-ai-research-neurons-features/)
- - [The EPA is cracking down on cybersecurity threats](https://www.theverge.com/2024/5/21/24161502/cyberattack-drinking-water-epa-inspection-enforcement-alert)<!-- TECH:END -->
+ - [Microsoft Build 2024: news and announcements from the developer conference](https://www.theverge.com/2024/5/21/24161221/microsoft-build-2024-news-ai-copilot-plus)
+ - [Microsoft Teams is adding a Slack-favorite emoji feature](https://www.theverge.com/2024/5/21/24160828/microsoft-teams-custom-emoji-reactions-preview)
+ - [Microsoft Edge will translate and dub YouTube videos as you’re watching them](https://www.theverge.com/2024/5/21/24160664/microsoft-edge-real-time-video-translation-ai)
+ - [Microsoft brings out a small language model that can look at pictures](https://www.theverge.com/2024/5/21/24159282/microsoft-ai-small-language-model-phi-3-vision)
+ - [Microsoft’s new Copilot AI agents act like virtual employees to automate tasks](https://www.theverge.com/2024/5/21/24158030/microsoft-copilot-ai-automation-agents)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

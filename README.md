@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Epic \ud83e\udd0c\ud83c\udffb](http://9gag.com/gag/aLnQbRv)
- - 😝 [RIP](http://9gag.com/gag/aGyVoV0)
+ - 😝 [We are getting old!](http://9gag.com/gag/a9yMO70)
+ - 😝 [Men can have an entire conversation with 1 nod](http://9gag.com/gag/aPAy1xQ)
  - 💣 [Tourist grabs lever during flight](http://9gag.com/gag/aByQXe1)
- - 😝 [Me too](http://9gag.com/gag/aYQpdKO)
- - 👉 [Girls dorm in Kyrgyzstan after 500+ local men broke in and tired to force themselves and abuse the girls. The local police isn&#39;t doing and the government is asking people to no upload the videos online](http://9gag.com/gag/apRoYQn)<!-- MEMES:END -->
+ - 😝 [Freedom of speech.](http://9gag.com/gag/avyZdjX)
+ - 👉 [Physics defying pushups](http://9gag.com/gag/ajP6WPx)<!-- MEMES:END -->
 
 ---
 

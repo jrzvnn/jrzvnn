@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Girls dorm in Kyrgyzstan after 500+ local men broke in and tired to force themselves and abuse the girls. The local police isn&#39;t doing and the government is asking people to no upload the videos online](http://9gag.com/gag/apRoYQn)
- - 😝 [Not mine, thought it was neat.](http://9gag.com/gag/a1mZx0R)
- - 💣 [Just a reminder](http://9gag.com/gag/a9yMO8Z)
- - 😝 [The average woman these days](http://9gag.com/gag/aD2wP4O)
- - 👉 [Insurance scam](http://9gag.com/gag/aByQvwA)<!-- MEMES:END -->
+ - 😝 [They never forget](http://9gag.com/gag/aXPEdOD)
+ - 😝 [Healthy kitchen tool](http://9gag.com/gag/aZZWVyW)
+ - 💣 [He slept on the couch that day!!](http://9gag.com/gag/amoLdPy)
+ - 😝 [I&#39;m gonna take an 8 hour break](http://9gag.com/gag/a87bK33)
+ - 👉 [When the summer is near and you forget you escaped from wars and misery.](http://9gag.com/gag/azxLB4m)<!-- MEMES:END -->
 
 ---
 

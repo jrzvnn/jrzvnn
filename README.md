@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Logic](http://9gag.com/gag/avyZD3q)
- - 😝 [It&#39;s in black and white](http://9gag.com/gag/avyZmDO)
- - 💣 [He slept on the couch that day!!](http://9gag.com/gag/amoLdPy)
- - 😝 [How to spot an alien imposter](http://9gag.com/gag/aAyVv7d)
- - 👉 [I&#39;m gonna take an 8 hour break](http://9gag.com/gag/a87bK33)<!-- MEMES:END -->
+ - 😝 [Insurance scam](http://9gag.com/gag/aByQvwA)
+ - 😝 [Girls dorm in Kyrgyzstan after 500+ local men broke in and tired to force themselves and abuse the girls. The local police isn&#39;t doing and the government is asking people to no upload the videos online](http://9gag.com/gag/apRoYQn)
+ - 💣 [Former Boston Red Sox pitcher Austin Maddox was arrested after he tried to meet an underage girl for sex, but officers caught him.](http://9gag.com/gag/amoLdv6)
+ - 😝 [Tourist grabs lever during flight](http://9gag.com/gag/aByQXe1)
+ - 👉 [Gotta keep trying](http://9gag.com/gag/aXPEKv6)<!-- MEMES:END -->
 
 ---
 

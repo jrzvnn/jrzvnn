@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [11 Best Cheap Laptops &lpar;2024&rpar;: Our Picks for $700 or Less](https://www.wired.com/gallery/best-cheap-laptops/)
+ - [For the director of I Saw the TV Glow, Buffy the Vampire Slayer was just the start](https://www.theverge.com/24159054/i-saw-the-tv-glow-jane-schoenbrun-interview)
  - [RetroArch emulator adds support for DOS games, and more](https://appleinsider.com/articles/24/05/21/retroarch-emulator-adds-support-for-dos-games-and-more?utm_medium=rss)
  - [A French AI startup, simply called H and founded by ex-Google DeepMind scientists, raised $220M from Accel and others, and plans a model capable of reasoning &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/240521/p20#a240521p20)
- - [Adobe&#39;s AI-Powered Generative Remove Feature in Lightroom Erases Unsightly Objects in Seconds](https://www.wired.com/story/adobe-lightroom-generative-remove/)
- - [Xbox Game Pass Ultimate Deal Gets You Hellblade 2 for Less Than Launch Price     - CNET](https://www.cnet.com/deals/xbox-game-pass-ultimate-deal-gets-you-hellblade-2-for-less-than-launch-price/#ftag=CAD590a51e)
- - [The best entertainment of 2024](https://www.theverge.com/entertainment/24090208/best-entertainment-2024-games-film-tv-streaming)<!-- TECH:END -->
+ - [Adobe&#39;s AI-Powered Generative Remove Feature in Lightroom Erases Unsightly Objects in Seconds](https://www.wired.com/story/adobe-lightroom-generative-remove/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

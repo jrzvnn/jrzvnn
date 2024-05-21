@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Generative AI music startup Suno raised $125M from Lightspeed Venture Partners, Nat Friedman, Daniel Gross, Matrix, Founder Collective, and others &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240521/p35#a240521p35)
+ - [Wisconsin man arrested for allegedly creating AI-generated child sexual abuse material](https://www.theverge.com/2024/5/21/24161965/ai-csam-instagram-stable-diffusion-arrest)
  - [Google is rolling out a new AI-powered ad format that shows shoppers how items of clothing would look on different skin tones and body types &lpar;Louise Matsakis/Wired&rpar;](http://www.techmeme.com/240521/p34#a240521p34)
  - [New Music &amp; audio enhancements plus a mysterious &#39;Passthrough&#39; feature are coming at WWDC](https://appleinsider.com/articles/24/05/21/new-music-audio-enhancements-plus-a-mysterious-passthrough-feature-are-coming-at-wwdc?utm_medium=rss)
- - [This Microsoft-approved website tracks how Windows games play on Arm](https://www.theverge.com/2024/5/21/24161936/windows-on-arm-ready-software-linaro-microsoft-qualcomm)
- - [Want to Play iPhone and iPad Games With a Controller? Use Your Nintendo Switch Joy-Cons     - CNET](https://www.cnet.com/tech/mobile/want-to-play-iphone-and-ipad-games-with-a-controller-use-your-nintendo-switch-joy-cons/#ftag=CAD590a51e)
- - [Welcome Home Wooden Birdhouse     - CNET](https://www.cnet.com/news/wooden-birdhouse-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This Microsoft-approved website tracks how Windows games play on Arm](https://www.theverge.com/2024/5/21/24161936/windows-on-arm-ready-software-linaro-microsoft-qualcomm)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -172,10 +172,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women&#39;s Studies students spend $60k a year of their parents&#39; money to learn a screaming course against the patriarchy](http://9gag.com/gag/a9yMVbL)
+ - 😝 [How to stop Google listening to your conversation](http://9gag.com/gag/aMVbN3V)
  - 😝 [It\u2019s good entertainment though](http://9gag.com/gag/an7X8yB)
  - 💣 [This restaurant covered up the `No Tip` option with a sticker to force tipping](http://9gag.com/gag/aD2wOXG)
- - 😝 [Keep this kid off of social media](http://9gag.com/gag/azxLD3Z)
+ - 😝 [Not safe for muslim](http://9gag.com/gag/aKGgNXQ)
  - 👉 [Enormous Plasma Wall spotted on the Sun](http://9gag.com/gag/azxLDxj)<!-- MEMES:END -->
 
 ---

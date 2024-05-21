@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A French AI startup, simply called H and founded by ex-Google DeepMind scientists, raised $220M from Accel and others, and plans a model capable of reasoning &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/240521/p20#a240521p20)
  - [The best entertainment of 2024](https://www.theverge.com/entertainment/24090208/best-entertainment-2024-games-film-tv-streaming)
  - [Hellblade II’s stunning world is alive with horror](https://www.theverge.com/24161514/hellblade-2-review-xbox-pc)
  - [AWS says it has &quot;fully transitioned&quot; its previous orders for Nvidia&#39;s Grace Hopper chips to the successor Grace Blackwell chips, announced in March 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/240521/p19#a240521p19)
- - [If China invades Taiwan, TSMC can wreck Apple&#39;s chip production line remotely](https://appleinsider.com/articles/24/05/21/if-china-invades-taiwan-tsmc-can-wreck-apples-chip-production-line-remotely?utm_medium=rss)
- - [Microsoft is in its AI PC era](https://www.theverge.com/24161498/microsoft-surface-pro-laptop-gpt-4o-voice-macbook-vergecast)<!-- TECH:END -->
+ - [If China invades Taiwan, TSMC can wreck Apple&#39;s chip production line remotely](https://appleinsider.com/articles/24/05/21/if-china-invades-taiwan-tsmc-can-wreck-apples-chip-production-line-remotely?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

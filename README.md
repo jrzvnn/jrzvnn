@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vietnam again asks iPhone maker Foxconn to reduce electricity use](https://appleinsider.com/articles/24/05/21/vietnam-again-asks-iphone-maker-foxconn-to-reduce-electricity-use?utm_medium=rss)
- - [Best Internet Providers in Kentucky     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-kentucky/#ftag=CAD590a51e)
- - [Drop the Donut and Make Perfect Poached Eggs in 1 Minute in the Microwave. Here&#39;s How     - CNET](https://www.cnet.com/home/kitchen-and-household/make-perfect-poached-eggs-in-1-minute-in-the-microwave-heres-how/#ftag=CAD590a51e)
- - [Mortgage Rates Take Dips Down: Mortgage Interest Rates for May 21, 2024     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-rates-take-dips-down-mortgage-interest-rates-for-may-21-2024/#ftag=CAD590a51e)
- - [What to Know About IP Ratings Before Your Phone Gets Wet](https://www.wired.com/story/ip-ratings-explained/)<!-- TECH:END -->
+ - [Hands on with the new Sonos Ace headphones](https://appleinsider.com/articles/24/05/21/hands-on-with-the-new-sonos-ace-headphones?utm_medium=rss)
+ - [The US Is Forming a Global AI Safety Network With Key Allies](https://www.wired.com/story/us-forming-global-ai-safety-network-key-allies/)
+ - [Sonos Finally Has Headphones and We’re Excited](https://www.wired.com/story/sonos-ace-news/)
+ - [Adobe Lightroom gets a magic eraser, and it’s impressive](https://www.theverge.com/2024/5/21/24161490/adobe-lightroom-generative-remove-object-removal-tool)
+ - [Sonos’ Roam 2 speaker is easier to use and available today for $179](https://www.theverge.com/2024/5/21/24161177/sonos-roam-2-bluetooth-speaker-now-available-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

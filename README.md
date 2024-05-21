@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He slept on the couch that day!!](http://9gag.com/gag/amoLdPy)
- - 😝 [I&#39;m gonna take an 8 hour break](http://9gag.com/gag/a87bK33)
- - 💣 [Logic](http://9gag.com/gag/avyZD3q)
- - 😝 [What a cool dad](http://9gag.com/gag/amoLby9)
- - 👉 [That&#39;s not water...](http://9gag.com/gag/ae93PWm)<!-- MEMES:END -->
+ - 😝 [Loyalty!](http://9gag.com/gag/aRBgN2q)
+ - 😝 [Logic](http://9gag.com/gag/avyZD3q)
+ - 💣 [That&#39;s not water...](http://9gag.com/gag/ae93PWm)
+ - 😝 [Women are complicated](http://9gag.com/gag/amoLb4j)
+ - 👉 [Haven&#39;t seen this one yet](http://9gag.com/gag/aGyVoAX)<!-- MEMES:END -->
 
 ---
 

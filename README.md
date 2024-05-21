@@ -163,10 +163,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SEC filing: Chicago-based Tempus, which uses AI to process medical data, files for an IPO, reporting a $266M net loss on $532M revenue in 2023 and 2,300 staff &lpar;Bailey Lipschultz/Bloomberg&rpar;](http://www.techmeme.com/240521/p8#a240521p8)
  - [Google plans to spend ~&amp;euro;1B to expand its data center in Finland, and will reuse heat from the data center to warm nearby homes, schools, and public buildings &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/240521/p7#a240521p7)
  - [Aqara’s new smart outlet can lock the door when your phone starts charging](https://www.theverge.com/2024/5/21/24161453/aqara-h2-smart-outlet-scene-automation-real-time-energy-price)
  - [Sources: ByteDance acquires Chinese earphone maker Oladance, founded five years ago, for ~$50M, bringing on board seasoned ex-Bose engineers &lpar;Bloomberg&rpar;](http://www.techmeme.com/240521/p6#a240521p6)
- - [Use These Amazon Prime Perks During the Memorial Day Sale     - CNET](https://www.cnet.com/deals/use-these-amazon-prime-perks-during-the-memorial-day-sale/#ftag=CAD590a51e)
  - [How Indian politicians are using deepfakes for voter outreach; an estimated 50M+ AI voice calls were made in the two months before the elections in April 2024 &lpar;Wired&rpar;](http://www.techmeme.com/240521/p5#a240521p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

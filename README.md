@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s in black and white](http://9gag.com/gag/avyZmDO)
- - 😝 [How to spot an alien imposter](http://9gag.com/gag/aAyVv7d)
- - 💣 [He slept on the couch that day!!](http://9gag.com/gag/amoLdPy)
- - 😝 [I&#39;m gonna take an 8 hour break](http://9gag.com/gag/a87bK33)
- - 👉 [When the summer is near and you forget you escaped from wars and misery.](http://9gag.com/gag/azxLB4m)<!-- MEMES:END -->
+ - 😝 [Just a reminder](http://9gag.com/gag/a9yMO8Z)
+ - 😝 [Me too](http://9gag.com/gag/aYQpdKO)
+ - 💣 [Insurance scam](http://9gag.com/gag/aByQvwA)
+ - 😝 [Former Boston Red Sox pitcher Austin Maddox was arrested after he tried to meet an underage girl for sex, but officers caught him.](http://9gag.com/gag/amoLdv6)
+ - 👉 [9 pillars of light appear in night sky above coastal Japanese town](http://9gag.com/gag/aGyV2Mz)<!-- MEMES:END -->
 
 ---
 

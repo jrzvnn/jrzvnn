@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Haven&#39;t seen this one yet](http://9gag.com/gag/aGyVoAX)
- - 😝 [Gotta keep trying](http://9gag.com/gag/aXPEKv6)
- - 💣 [If there is no cat living in your house.](http://9gag.com/gag/aVvQRo8)
- - 😝 [Just a reminder](http://9gag.com/gag/a9yMO8Z)
- - 👉 [We are getting old!](http://9gag.com/gag/a9yMO70)<!-- MEMES:END -->
+ - 😝 [Let the intrusive thoughts &lpar;w&rpar;in](http://9gag.com/gag/ayNpPWr)
+ - 😝 [He slept on the couch that day!!](http://9gag.com/gag/amoLdPy)
+ - 💣 [Me too](http://9gag.com/gag/aYQpdKO)
+ - 😝 [Found a malignant tumor in my left kidney, getting it removed today so f*ck you and I&#39;ll see you tomorrow!](http://9gag.com/gag/amoLnQy)
+ - 👉 [I&#39;m gonna take an 8 hour break](http://9gag.com/gag/a87bK33)<!-- MEMES:END -->
 
 ---
 

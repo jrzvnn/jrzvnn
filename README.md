@@ -164,10 +164,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [iPhone 16 battery could last hugely longer, with new design &amp; materials](https://appleinsider.com/articles/24/05/21/iphone-16-battery-could-last-hugely-longer-with-new-design-materials?utm_medium=rss)
- - [Microsoft is bringing ‘Windows Volumetric Apps’ to Meta Quest headsets](https://www.theverge.com/2024/5/21/24161817/microsoft-windows-volumetric-apps-meta-quest-api)
- - [Elon Musk’s xAI is working on making Grok multimodal](https://www.theverge.com/2024/5/21/24161764/elon-musk-xai-grok-multimodal-ai)
- - [Anthropic researchers detail their attempts to peer inside the &quot;black box&quot; of LLMs, to find associations for a given prompt, which has largely been a mystery &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/240521/p32#a240521p32)
- - [Microsoft is making File Explorer more powerful with version control and 7z compression](https://www.theverge.com/2024/5/21/24161785/microsoft-windows-file-explorer-version-control-7z-tar)<!-- TECH:END -->
+ - [Best Home Exercise Equipment for 2024     - CNET](https://www.cnet.com/health/fitness/best-home-exercise-equipment/#ftag=CAD590a51e)
+ - [Best Massage Guns for 2024     - CNET](https://www.cnet.com/health/fitness/best-massage-gun/#ftag=CAD590a51e)
+ - [Best iPhone VPN of 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-iphone-vpn/#ftag=CAD590a51e)
+ - [Knock 20% Off My Favorite Sleep Number Comforter for Memorial Day     - CNET](https://www.cnet.com/deals/sleep-number-memorial-day-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

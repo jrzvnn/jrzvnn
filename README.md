@@ -164,10 +164,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A look at challenges LA faces as it tries to remain a major tech hub; CB Insights: VC funding of startups in LA totaled $6.9B in 2023, down 73% from 2021 &lpar;Los Angeles Times&rpar;](http://www.techmeme.com/240520/p46#a240520p46)
+ - [Today&#39;s NYT Connections Hints and Answers: Help for May 21, #345     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hints-and-answer-help-for-may-21-345/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints and Answer: Help for May 21, #1067     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-and-answer-help-for-may-21-1067/#ftag=CAD590a51e)
  - [How to look up your App Store purchase history](https://appleinsider.com/inside/app-store/tips/how-to-look-up-your-app-store-purchase-history?utm_medium=rss)
- - [A profile of Alphabet&#39;s moonshot X lab, as it carves out a path in which projects spin off as independent startups, after years of debate and experimentation &lpar;Julia Love/Bloomberg&rpar;](http://www.techmeme.com/240520/p45#a240520p45)
- - [Volvo partners with Aurora Innovation to unveil Volvo VNL Autonomous, a self-driving truck which Aurora plans to use for freight hauling in the next few months &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/240520/p44#a240520p44)
- - [Best Travel Headphones for 2024     - CNET](https://www.cnet.com/tech/mobile/best-travel-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A profile of Alphabet&#39;s moonshot X lab, as it carves out a path in which projects spin off as independent startups, after years of debate and experimentation &lpar;Julia Love/Bloomberg&rpar;](http://www.techmeme.com/240520/p45#a240520p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

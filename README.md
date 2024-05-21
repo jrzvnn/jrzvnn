@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft ships Azure AI Studio in broad availability, adds support for OpenAI&#39;s GPT-4o, and announces a new multimodal model in its lightweight Phi-3 family &lpar;Kevin Okemwa/Windows Central&rpar;](http://www.techmeme.com/240521/p25#a240521p25)
- - [Microsoft debuts a new AI feature for Edge to translate spoken content via dubbing and subtitles live, on YouTube, LinkedIn, Coursera, news sites, and more &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240521/p24#a240521p24)
- - [Microsoft launches Copilot Extension for GitHub, letting developers build third-party skills into Copilot, starting with DataStax, Stripe, MongoDB, and more &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240521/p23#a240521p23)
- - [Microsoft unveils a Team Copilot for Microsoft Teams, Loop, and Planner that can help run meetings, manage projects, assign tasks, more, coming later this year &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/240521/p22#a240521p22)
- - [All the new from Microsoft Build 2024](https://www.theverge.com/2024/5/21/24161221/microsoft-build-2024-news-ai-copilot-plus)<!-- TECH:END -->
+ - [How does the Microsoft Surface Laptop stack up to the MacBook Air?](https://www.theverge.com/24161123/microsoft-surface-vs-macbook-air-comparison)
+ - [A live stream of Microsoft&#39;s Build 2024 keynote &lpar;Microsoft Developer on YouTube&rpar;](http://www.techmeme.com/240521/p26#a240521p26)
+ - [Google Search’s New AI Overviews Will Soon Have Ads](https://www.wired.com/story/google-search-ai-overviews-ads/)
+ - [Google Taps AI to Show Shoppers How Clothes Fit Different Bodies](https://www.wired.com/story/google-ai-shopping-clothes-fit-different-bodies/)
+ - [Microsoft ships Azure AI Studio in broad availability, adds support for OpenAI&#39;s GPT-4o, and announces a new multimodal model in its lightweight Phi-3 family &lpar;Kevin Okemwa/Windows Central&rpar;](http://www.techmeme.com/240521/p25#a240521p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

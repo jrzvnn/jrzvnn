@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Found a malignant tumor in my left kidney, getting it removed today so f*ck you and I&#39;ll see you tomorrow!](http://9gag.com/gag/amoLnQy)
- - 😝 [He slept on the couch that day!!](http://9gag.com/gag/amoLdPy)
- - 💣 [When the summer is near and you forget you escaped from wars and misery.](http://9gag.com/gag/azxLB4m)
- - 😝 [It&#39;s in black and white](http://9gag.com/gag/avyZmDO)
- - 👉 [Me too](http://9gag.com/gag/aYQpdKO)<!-- MEMES:END -->
+ - 😝 [Abbey did not expect that](http://9gag.com/gag/axy2PVb)
+ - 😝 [It\u2019s gonna be tough to pass those English classes.](http://9gag.com/gag/aAyVOOd)
+ - 💣 [Every fathers worst nightmare...](http://9gag.com/gag/aLnQXjz)
+ - 😝 [Former Boston Red Sox pitcher Austin Maddox was arrested after he tried to meet an underage girl for sex, but officers caught him.](http://9gag.com/gag/amoLdv6)
+ - 👉 [That is really stupid dude](http://9gag.com/gag/aLnQWAz)<!-- MEMES:END -->
 
 ---
 

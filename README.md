@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just a reminder](http://9gag.com/gag/a9yMO8Z)
- - 😝 [Should I give my seat to a women?](http://9gag.com/gag/aMVbWLW)
- - 💣 [Tourist grabs lever during flight](http://9gag.com/gag/aByQXe1)
- - 😝 [We are getting old!](http://9gag.com/gag/a9yMO70)
- - 👉 [Gotta keep trying](http://9gag.com/gag/aXPEKv6)<!-- MEMES:END -->
+ - 😝 [It&#39;s in black and white](http://9gag.com/gag/avyZmDO)
+ - 😝 [How to spot an alien imposter](http://9gag.com/gag/aAyVv7d)
+ - 💣 [He slept on the couch that day!!](http://9gag.com/gag/amoLdPy)
+ - 😝 [I&#39;m gonna take an 8 hour break](http://9gag.com/gag/a87bK33)
+ - 👉 [When the summer is near and you forget you escaped from wars and misery.](http://9gag.com/gag/azxLB4m)<!-- MEMES:END -->
 
 ---
 

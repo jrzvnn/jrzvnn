@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Insurance scam](http://9gag.com/gag/aByQvwA)
- - 😝 [This video of the meteor in Portugal](http://9gag.com/gag/aAyVXmg)
- - 💣 [9 pillars of light appear in night sky above coastal Japanese town](http://9gag.com/gag/aGyV2Mz)
  - 😝 [Just a reminder](http://9gag.com/gag/a9yMO8Z)
- - 👉 [Women&#39;s Studies students spend $60k a year of their parents&#39; money to learn a screaming course against the patriarchy](http://9gag.com/gag/a9yMVbL)<!-- MEMES:END -->
+ - 😝 [Should I give my seat to a women?](http://9gag.com/gag/aMVbWLW)
+ - 💣 [Tourist grabs lever during flight](http://9gag.com/gag/aByQXe1)
+ - 😝 [We are getting old!](http://9gag.com/gag/a9yMO70)
+ - 👉 [Gotta keep trying](http://9gag.com/gag/aXPEKv6)<!-- MEMES:END -->
 
 ---
 

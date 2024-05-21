@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft is bringing ‘Windows Volumetric Apps’ to Meta Quest headsets](https://www.theverge.com/2024/5/21/24161817/microsoft-windows-volumetric-apps-meta-quest-api)
  - [Elon Musk’s xAI is working on making Grok multimodal](https://www.theverge.com/2024/5/21/24161764/elon-musk-xai-grok-multimodal-ai)
  - [Anthropic researchers detail their attempts to peer inside the &quot;black box&quot; of LLMs, to find associations for a given prompt, which has largely been a mystery &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/240521/p32#a240521p32)
  - [Microsoft is making File Explorer more powerful with version control and 7z compression](https://www.theverge.com/2024/5/21/24161785/microsoft-windows-file-explorer-version-control-7z-tar)
- - [Apple fires back at DOJ antitrust case, calls for immediate dismissal](https://appleinsider.com/articles/24/05/21/apple-fires-back-at-doj-antitrust-case-calls-for-immediate-dismissal?utm_medium=rss)
- - [Microsoft partners with Khan Academy, moving the Khanmigo agent, used by 65K+ students, to its Azure OpenAI Service and making it free for US K-12 teachers &lpar;Ken Yeung/VentureBeat&rpar;](http://www.techmeme.com/240521/p31#a240521p31)<!-- TECH:END -->
+ - [Apple fires back at DOJ antitrust case, calls for immediate dismissal](https://appleinsider.com/articles/24/05/21/apple-fires-back-at-doj-antitrust-case-calls-for-immediate-dismissal?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

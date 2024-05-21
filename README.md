@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I have waited this, release year 2025.](http://9gag.com/gag/aXPEeqv)
  - 😝 [Former Boston Red Sox pitcher Austin Maddox was arrested after he tried to meet an underage girl for sex, but officers caught him.](http://9gag.com/gag/amoLdv6)
+ - 😝 [This video of the meteor in Portugal](http://9gag.com/gag/aAyVXmg)
  - 💣 [We are getting old!](http://9gag.com/gag/a9yMO70)
- - 😝 [So many years have passed and the feminists are still silent when it comes to womenspreading .... I wonder why... Didn&#39;t they claim to be for equality? Hmmm....](http://9gag.com/gag/abAq23b)
- - 👉 [Tourist grabs lever during flight](http://9gag.com/gag/aByQXe1)<!-- MEMES:END -->
+ - 😝 [Tourist grabs lever during flight](http://9gag.com/gag/aByQXe1)
+ - 👉 [Haven&#39;t seen this one yet](http://9gag.com/gag/aGyVoAX)<!-- MEMES:END -->
 
 ---
 

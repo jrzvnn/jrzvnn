@@ -172,10 +172,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Obviously these arguments require you to take your clothes off... Right?](http://9gag.com/gag/a7oKpjq)
- - 😝 [`I am Ella Elikim, Noam&#39;s daughter, 8 years old and I am a prisoner of Hamas`. Unbelievable.](http://9gag.com/gag/ae937GB)
- - 💣 [Just a reminder](http://9gag.com/gag/a9yMO8Z)
- - 😝 [Insurance scam](http://9gag.com/gag/aByQvwA)
+ - 😝 [He slept on the couch that day!!](http://9gag.com/gag/amoLdPy)
+ - 😝 [I&#39;m gonna take an 8 hour break](http://9gag.com/gag/a87bK33)
+ - 💣 [Logic](http://9gag.com/gag/avyZD3q)
+ - 😝 [What a cool dad](http://9gag.com/gag/amoLby9)
  - 👉 [That&#39;s not water...](http://9gag.com/gag/ae93PWm)<!-- MEMES:END -->
 
 ---

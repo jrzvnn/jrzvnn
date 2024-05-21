@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just a reminder](http://9gag.com/gag/a9yMO8Z)
- - 😝 [Where are you touching](http://9gag.com/gag/a4P9WPQ)
- - 💣 [9 pillars of light appear in night sky above coastal Japanese town](http://9gag.com/gag/aGyV2Mz)
- - 😝 [We are getting old!](http://9gag.com/gag/a9yMO70)
- - 👉 [If there is no cat living in your house.](http://9gag.com/gag/aVvQRo8)<!-- MEMES:END -->
+ - 😝 [Girls dorm in Kyrgyzstan after 500+ local men broke in and tired to force themselves and abuse the girls. The local police isn&#39;t doing and the government is asking people to no upload the videos online](http://9gag.com/gag/apRoYQn)
+ - 😝 [Welcome to Europe! Its a nice place.](http://9gag.com/gag/aPAyX4P)
+ - 💣 [Gotta keep trying](http://9gag.com/gag/aXPEKv6)
+ - 😝 [Every fathers worst nightmare...](http://9gag.com/gag/aLnQXjz)
+ - 👉 [This video of the meteor in Portugal](http://9gag.com/gag/aAyVXmg)<!-- MEMES:END -->
 
 ---
 

@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Volvo partners with Aurora Innovation to unveil Volvo VNL Autonomous, a self-driving truck which Aurora plans to use for freight hauling in the next few months &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/240520/p44#a240520p44)
  - [Scarlett Johansson told OpenAI not to use her voice — and she’s not happy they might have anyway](https://www.theverge.com/2024/5/20/24161253/scarlett-johansson-openai-altman-legal-action)
  - [Streaming deal: save 50% on a Paramount Plus &amp; Showtime bundle](https://appleinsider.com/articles/24/05/21/streaming-deal-save-50-on-a-paramount-plus-showtime-bundle?utm_medium=rss)
  - [Samsung Electronics names Young-Hyun Jun as the head of its semiconductor arm, replacing co-CEO Kye-Hyun Kyung, who will oversee its business planning team &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/240520/p43#a240520p43)
- - [Volvo teams up with Aurora to reveal an autonomous semi truck](https://www.theverge.com/2024/5/20/24161079/volvo-aurora-autonomous-truck-class-8-production-design)
- - [Everything Announced at Microsoft&#39;s Surface Copilot + PC Event video     - CNET](https://www.cnet.com/videos/everything-announced-at-microsofts-surface-copilot-pc-event/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here&#39;s the Average Electric Bill in Texas &lpar;and How to Save&rpar;     - CNET](https://www.cnet.com/home/energy-and-utilities/average-electric-bill-texas/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

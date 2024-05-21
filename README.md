@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [European research labs led by Belgium-based imec will receive &amp;euro;2.5B in funding under European Chips Act to set up a pilot line to develop and test sub-2nm chips &lpar;Toby Sterling/Reuters&rpar;](http://www.techmeme.com/240521/p3#a240521p3)
  - [The World Is Ignoring the Other Deadly Kind of Carbon](https://www.wired.com/story/the-world-is-ignoring-the-other-deadly-kind-of-carbon/)
  - [Inside Oracle&#39;s Cerner acquisition, including issues with Cerner&#39;s EHR system, which Oracle says it wasn&#39;t aware of, and its rollout at the US Veterans Affairs &lpar;Business Insider&rpar;](http://www.techmeme.com/240521/p2#a240521p2)
- - [London-based Zen Educate, an online marketplace that connects schools with teachers, raised a $37M Series B led by Round2 Capital and acquires Aquinas Education &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240521/p1#a240521p1)
- - [A look at challenges LA faces as it tries to remain a major tech hub; CB Insights: VC funding of startups in LA totaled $6.9B in 2023, down 73% from 2021 &lpar;Los Angeles Times&rpar;](http://www.techmeme.com/240520/p46#a240520p46)<!-- TECH:END -->
+ - [Play This Award-Winning Title Now and More Soon on Netflix Games     - CNET](https://www.cnet.com/tech/gaming/play-this-award-winning-title-now-and-more-soon-on-netflix-games/#ftag=CAD590a51e)
+ - [London-based Zen Educate, an online marketplace that connects schools with teachers, raised a $37M Series B led by Round2 Capital and acquires Aquinas Education &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240521/p1#a240521p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I like trains](http://9gag.com/gag/aZZW2wn)
- - 😝 [This video of the meteor in Portugal](http://9gag.com/gag/aAyVXmg)
- - 💣 [If there is no cat living in your house.](http://9gag.com/gag/aVvQRo8)
- - 😝 [We are getting old!](http://9gag.com/gag/a9yMO70)
- - 👉 [9 pillars of light appear in night sky above coastal Japanese town](http://9gag.com/gag/aGyV2Mz)<!-- MEMES:END -->
+ - 😝 [I have waited this, release year 2025.](http://9gag.com/gag/aXPEeqv)
+ - 😝 [Former Boston Red Sox pitcher Austin Maddox was arrested after he tried to meet an underage girl for sex, but officers caught him.](http://9gag.com/gag/amoLdv6)
+ - 💣 [We are getting old!](http://9gag.com/gag/a9yMO70)
+ - 😝 [So many years have passed and the feminists are still silent when it comes to womenspreading .... I wonder why... Didn&#39;t they claim to be for equality? Hmmm....](http://9gag.com/gag/abAq23b)
+ - 👉 [Tourist grabs lever during flight](http://9gag.com/gag/aByQXe1)<!-- MEMES:END -->
 
 ---
 

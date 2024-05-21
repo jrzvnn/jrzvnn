@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Former Boston Red Sox pitcher Austin Maddox was arrested after he tried to meet an underage girl for sex, but officers caught him.](http://9gag.com/gag/amoLdv6)
- - 😝 [This video of the meteor in Portugal](http://9gag.com/gag/aAyVXmg)
- - 💣 [We are getting old!](http://9gag.com/gag/a9yMO70)
- - 😝 [Tourist grabs lever during flight](http://9gag.com/gag/aByQXe1)
- - 👉 [Haven&#39;t seen this one yet](http://9gag.com/gag/aGyVoAX)<!-- MEMES:END -->
+ - 😝 [Haven&#39;t seen this one yet](http://9gag.com/gag/aGyVoAX)
+ - 😝 [Gotta keep trying](http://9gag.com/gag/aXPEKv6)
+ - 💣 [If there is no cat living in your house.](http://9gag.com/gag/aVvQRo8)
+ - 😝 [Just a reminder](http://9gag.com/gag/a9yMO8Z)
+ - 👉 [We are getting old!](http://9gag.com/gag/a9yMO70)<!-- MEMES:END -->
 
 ---
 

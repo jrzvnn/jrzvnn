@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google plans to test search and shopping ads in its AI Overviews, drawing from advertisers&#39; existing campaigns; AI Overviews rolled out to US users last week &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/240521/p27#a240521p27)
- - [Here’s the eight-inch Snapdragon PC for your Windows on Arm experiments](https://www.theverge.com/2024/5/21/24158603/qualcomm-windows-snapdragon-dev-kit-x-elite)
- - [How does the Microsoft Surface Laptop stack up to the MacBook Air?](https://www.theverge.com/24161123/microsoft-surface-vs-macbook-air-comparison)
- - [A live stream of Microsoft&#39;s Build 2024 keynote &lpar;Microsoft Developer on YouTube&rpar;](http://www.techmeme.com/240521/p26#a240521p26)
- - [Google Search’s New AI Overviews Will Soon Have Ads](https://www.wired.com/story/google-search-ai-overviews-ads/)<!-- TECH:END -->
+ - [Amazon slashes Samsung&#39;s S6 Thunderbolt 4 monitor to $449](https://appleinsider.com/articles/24/05/21/amazon-slashes-samsungs-s6-thunderbolt-4-monitor-to-449?utm_medium=rss)
+ - [Google’s AI search results are already getting ads](https://www.theverge.com/2024/5/21/24161724/google-ai-search-results-ads-test)
+ - [IGN scoops up Eurogamer, Rock Paper Shotgun, and more](https://www.theverge.com/2024/5/21/24161718/ign-gamer-network-acquisition)
+ - [The Absolute Hardest Houseplants to Kill, According to Plant Pros     - CNET](https://www.cnet.com/news/the-absolute-hardest-houseplants-to-kill-according-to-plant-pros/#ftag=CAD590a51e)
+ - [Samsung Galaxy Buds 2 Pro Deals: Save Up to $110 at Woot, Walmart and More     - CNET](https://www.cnet.com/deals/best-galaxy-buds-2-pro-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

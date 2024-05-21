@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let the intrusive thoughts &lpar;w&rpar;in](http://9gag.com/gag/ayNpPWr)
- - 😝 [He slept on the couch that day!!](http://9gag.com/gag/amoLdPy)
- - 💣 [Me too](http://9gag.com/gag/aYQpdKO)
- - 😝 [Found a malignant tumor in my left kidney, getting it removed today so f*ck you and I&#39;ll see you tomorrow!](http://9gag.com/gag/amoLnQy)
- - 👉 [I&#39;m gonna take an 8 hour break](http://9gag.com/gag/a87bK33)<!-- MEMES:END -->
+ - 😝 [That sign won&#39;t stop me because I can&#39;t read](http://9gag.com/gag/apRod0n)
+ - 😝 [9 pillars of light appear in night sky above coastal Japanese town](http://9gag.com/gag/aGyV2Mz)
+ - 💣 [I have waited this, release year 2025.](http://9gag.com/gag/aXPEeqv)
+ - 😝 [She&#39;s very supportive](http://9gag.com/gag/aD2wV5K)
+ - 👉 [Who doesn&#39;t like democracy. Most disliked game so far this year or what](http://9gag.com/gag/aqyZznM)<!-- MEMES:END -->
 
 ---
 

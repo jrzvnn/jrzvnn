@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft’s big bet on building a new type of AI computer](https://www.theverge.com/2024/5/21/24161579/microsoft-copilot-plus-pc-ai-npu-push-notepad)
+ - [Microsoft Build 2024: everything announced](https://www.theverge.com/24161636/microsoft-build-2024-ai-copilot-windows-teams-edge)
+ - [Windows now has AI-powered copy and paste](https://www.theverge.com/2024/5/21/24161778/windows-powertoys-advanced-ai-copy-paste)
  - [iPhone 16 battery could last hugely longer, with new design &amp; materials](https://appleinsider.com/articles/24/05/21/iphone-16-battery-could-last-hugely-longer-with-new-design-materials?utm_medium=rss)
- - [Best Home Exercise Equipment for 2024     - CNET](https://www.cnet.com/health/fitness/best-home-exercise-equipment/#ftag=CAD590a51e)
- - [Best Massage Guns for 2024     - CNET](https://www.cnet.com/health/fitness/best-massage-gun/#ftag=CAD590a51e)
- - [Best iPhone VPN of 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-iphone-vpn/#ftag=CAD590a51e)
- - [Knock 20% Off My Favorite Sleep Number Comforter for Memorial Day     - CNET](https://www.cnet.com/deals/sleep-number-memorial-day-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Home Exercise Equipment for 2024     - CNET](https://www.cnet.com/health/fitness/best-home-exercise-equipment/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

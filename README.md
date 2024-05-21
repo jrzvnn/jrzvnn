@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Abbey did not expect that](http://9gag.com/gag/axy2PVb)
- - 😝 [It\u2019s gonna be tough to pass those English classes.](http://9gag.com/gag/aAyVOOd)
- - 💣 [Every fathers worst nightmare...](http://9gag.com/gag/aLnQXjz)
- - 😝 [Former Boston Red Sox pitcher Austin Maddox was arrested after he tried to meet an underage girl for sex, but officers caught him.](http://9gag.com/gag/amoLdv6)
- - 👉 [That is really stupid dude](http://9gag.com/gag/aLnQWAz)<!-- MEMES:END -->
+ - 😝 [C. can&#39;t tell](http://9gag.com/gag/a1mZwxG)
+ - 😝 [Gotta keep trying](http://9gag.com/gag/aXPEKv6)
+ - 💣 [9 pillars of light appear in night sky above coastal Japanese town](http://9gag.com/gag/aGyV2Mz)
+ - 😝 [Insurance scam](http://9gag.com/gag/aByQvwA)
+ - 👉 [Every fathers worst nightmare...](http://9gag.com/gag/aLnQXjz)<!-- MEMES:END -->
 
 ---
 

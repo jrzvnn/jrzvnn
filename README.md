@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple takes EU to court over $2 billion Apple Music fine](https://appleinsider.com/articles/24/05/21/apple-takes-eu-to-court-over-2-billion-apple-music-fine?utm_medium=rss)
+ - [Sources: Apple files a lawsuit at the EU&#39;s General Court to challenge a March 2024 decision to impose a &amp;euro;1.8B fine for thwarting competition in music streaming &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/240521/p10#a240521p10)
  - [London-based Vitesse, which offers a treasury and payment platform for insurance companies, raised a $93M Series C led by KKR, after a $26M Series B in 2022 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240521/p9#a240521p9)
  - [SEC filing: Chicago-based Tempus, which uses AI to process medical data, files for an IPO, reporting a $266M net loss on $532M revenue in 2023 and 2,300 staff &lpar;Bailey Lipschultz/Bloomberg&rpar;](http://www.techmeme.com/240521/p8#a240521p8)
- - [Google plans to spend ~&amp;euro;1B to expand its data center in Finland, and will reuse heat from the data center to warm nearby homes, schools, and public buildings &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/240521/p7#a240521p7)
- - [Aqara’s new smart outlet can lock the door when your phone starts charging](https://www.theverge.com/2024/5/21/24161453/aqara-h2-smart-outlet-scene-automation-real-time-energy-price)
- - [Sources: ByteDance acquires Chinese earphone maker Oladance, founded five years ago, for ~$50M, bringing on board seasoned ex-Bose engineers &lpar;Bloomberg&rpar;](http://www.techmeme.com/240521/p6#a240521p6)<!-- TECH:END -->
+ - [Google plans to spend ~&amp;euro;1B to expand its data center in Finland, and will reuse heat from the data center to warm nearby homes, schools, and public buildings &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/240521/p7#a240521p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

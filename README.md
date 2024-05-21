@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands on with the new Sonos Ace headphones](https://appleinsider.com/articles/24/05/21/hands-on-with-the-new-sonos-ace-headphones?utm_medium=rss)
- - [The US Is Forming a Global AI Safety Network With Key Allies](https://www.wired.com/story/us-forming-global-ai-safety-network-key-allies/)
- - [Sonos Finally Has Headphones and We’re Excited](https://www.wired.com/story/sonos-ace-news/)
- - [Adobe Lightroom gets a magic eraser, and it’s impressive](https://www.theverge.com/2024/5/21/24161490/adobe-lightroom-generative-remove-object-removal-tool)
- - [Sonos’ Roam 2 speaker is easier to use and available today for $179](https://www.theverge.com/2024/5/21/24161177/sonos-roam-2-bluetooth-speaker-now-available-features)<!-- TECH:END -->
+ - [AWS says it has &quot;fully transitioned&quot; its previous orders for Nvidia&#39;s Grace Hopper chips to the successor Grace Blackwell chips, announced in March 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/240521/p19#a240521p19)
+ - [If China invades Taiwan, TSMC can wreck Apple&#39;s chip production line remotely](https://appleinsider.com/articles/24/05/21/if-china-invades-taiwan-tsmc-can-wreck-apples-chip-production-line-remotely?utm_medium=rss)
+ - [Microsoft is in its AI PC era](https://www.theverge.com/24161498/microsoft-surface-pro-laptop-gpt-4o-voice-macbook-vergecast)
+ - [Adobe adds generative AI tools to Lightroom, including Firefly-powered Generative Remove to let users &quot;paint&quot; over unwanted objects, available in early access &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240521/p18#a240521p18)
+ - [Hands on with the new Sonos Ace headphones](https://appleinsider.com/articles/24/05/21/hands-on-with-the-new-sonos-ace-headphones?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

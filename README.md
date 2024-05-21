@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The August smart lock finally gets a fingerprint option](https://www.theverge.com/2024/5/21/24161777/august-smart-lock-yale-keypad-touch-fingerprint-unlock)
  - [There’s an electric salt spoon that adds umami flavor](https://www.theverge.com/2024/5/21/24161762/electric-salt-spoon-umami-flavor)
  - [Square Enix will let Kingdom Hearts cook on Steam](https://www.theverge.com/2024/5/21/24161661/kingdom-hearts-steam-release-date-trailer)
  - [Microsoft’s big bet on building a new type of AI computer](https://www.theverge.com/2024/5/21/24161579/microsoft-copilot-plus-pc-ai-npu-push-notepad)
- - [Microsoft Build 2024: everything announced](https://www.theverge.com/24161636/microsoft-build-2024-ai-copilot-windows-teams-edge)
- - [Windows now has AI-powered copy and paste](https://www.theverge.com/2024/5/21/24161778/windows-powertoys-advanced-ai-copy-paste)<!-- TECH:END -->
+ - [Microsoft Build 2024: everything announced](https://www.theverge.com/24161636/microsoft-build-2024-ai-copilot-windows-teams-edge)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

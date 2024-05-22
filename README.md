@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Memorial Day deals you can already get](https://www.theverge.com/24161521/best-memorial-day-sales-2024-tech-deals-tvs-headphones-robot-vacuums-electronics)
  - [OpenAI’s News Corp deal licenses content from WSJ, New York Post, and more](https://www.theverge.com/2024/5/22/24162782/openai-licensing-deal-wall-street-journal-news-corp)
  - [Apple&#39;s 16-inch MacBook Pro drops to all-time low price of $1,798](https://appleinsider.com/articles/24/05/22/apples-16-inch-macbook-pro-drops-to-all-time-low-price-of-1798?utm_medium=rss)
  - [Google could cut funding to more US news publishers](https://www.theverge.com/2024/5/22/24162684/google-news-initiative-funding-outlets-us)
- - [Bluesky now lets users send DMs and says it&#39;s working on adding support for messages with images and end-to-end encryption &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240522/p29#a240522p29)
- - [Google Meet’s adaptive audio connects mics from multiple laptops for clearer audio](https://www.theverge.com/2024/5/22/24162666/google-meet-workspace-adaptive-audio)<!-- TECH:END -->
+ - [Bluesky now lets users send DMs and says it&#39;s working on adding support for messages with images and end-to-end encryption &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240522/p29#a240522p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

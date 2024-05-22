@@ -164,10 +164,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [An investigation into online ticketing service Eventbrite found 7.4K+ illicit listings, including illegal drug sales, some of which its algorithm recommended &lpar;Wired&rpar;](http://www.techmeme.com/240522/p6#a240522p6)
+ - [Are SSI Recipients Getting More Money This Fall? What to Know     - CNET](https://www.cnet.com/personal-finance/are-ssi-recipients-getting-more-money-this-fall-what-to-know/#ftag=CAD590a51e)
  - [/e/OS Review: This Operating System Is Better Than Android. You Should Try It](https://www.wired.com/story/e-os-review/)
  - [OpenAI&#39;s Scarlett Johansson debacle is merely a reminder of AI&#39;s manifest destiny philosophy: &quot;This is happening, whether you like it or not&quot;, consent be damned &lpar;Charlie Warzel/The Atlantic&rpar;](http://www.techmeme.com/240522/p5#a240522p5)
- - [How Pinecone and other startups use vector databases and retrieval-augmented generation, or RAG, to help businesses link their private data with LLMs &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/240522/p4#a240522p4)
- - [Neuralink’s First User Is ‘Constantly Multitasking’ With His Brain Implant](https://www.wired.com/story/neuralink-first-patient-interview-noland-arbaugh-elon-musk/)<!-- TECH:END -->
+ - [How Pinecone and other startups use vector databases and retrieval-augmented generation, or RAG, to help businesses link their private data with LLMs &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/240522/p4#a240522p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

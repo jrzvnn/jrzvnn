@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Meet’s adaptive audio connects mics from multiple laptops for clearer audio](https://www.theverge.com/2024/5/22/24162666/google-meet-workspace-adaptive-audio)
+ - [Lawyers say OpenAI could be in real trouble with Scarlett Johansson](https://www.theverge.com/2024/5/22/24162429/scarlett-johansson-openai-legal-right-to-publicity-likeness-midler-lawyers)
  - [Snowflake reports Q1 revenue up 33% YoY to $828.7M, product revenue up 34% YoY to $789.6M, vs. $749M est., and projects Q2 product revenue above estimates &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240522/p28#a240522p28)
  - [Nvidia reports Q1 revenue up 262% YoY to $26.04B, vs. $24.65B est., forecasts Q2 revenue above estimates, and announces a 10-for-1 stock split &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240522/p27#a240522p27)
- - [Bluesky now lets you send DMs](https://www.theverge.com/2024/5/22/24162749/bluesky-send-direct-messages)
- - [News Corp and OpenAI announce a multiyear agreement to bring News Corp&#39;s news content to OpenAI; sources: the deal could be worth $250M over five years &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240522/p26#a240522p26)
- - [iRobot halts its Roomba subscription service as it gets a new CEO](https://www.theverge.com/2024/5/22/24162611/roomba-robot-vacuum-irobot-select-subscription-suspended)<!-- TECH:END -->
+ - [Bluesky now lets you send DMs](https://www.theverge.com/2024/5/22/24162749/bluesky-send-direct-messages)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

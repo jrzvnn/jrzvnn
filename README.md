@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zuckerberg creates the Meta Advisory Group with Patrick Collison, Nat Friedman, Tobi L&amp;uuml;tke, and Charlie Songhurst, to advice on tech and growth opportunities &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/240522/p20#a240522p20)
+ - [T-Mobile is raising prices on several of its plans](https://www.theverge.com/2024/5/22/24162490/t-mobile-price-increase-magenta-one-simple-choice-plans)
+ - [15 Best Mattresses You Can Buy Online &lpar;2024&rpar; | Tested and Reviewed](https://www.wired.com/gallery/best-mattresses/)
+ - [Zuckerberg creates the Meta Advisory Group with Patrick Collison, Nat Friedman, Tobi L&amp;uuml;tke, and Charlie Songhurst, to advise on tech and growth opportunities &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/240522/p20#a240522p20)
  - [TikTok launches its Symphony AI suite for brands, using generative AI to let marketers write scripts, produce videos, and enhance current assets &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240522/p19#a240522p19)
- - [Sonos CEO Patrick Spence addresses the company’s divisive app redesign](https://www.theverge.com/2024/5/22/24162168/sonos-ceo-patrick-spence-new-app-design-interview)
- - [Change These 6 Amazon Alexa Settings to Personalize Your Smart Home Experience     - CNET](https://www.cnet.com/home/smart-home/6-amazon-alexa-settings-to-change-for-a-personalized-smart-home-experience/#ftag=CAD590a51e)
- - [Marvel&#39;s &#39;What If...? - an Immersive Story&#39; coming to Apple Vision Pro on May 30](https://appleinsider.com/articles/24/05/22/marvels-what-if---an-immersive-story-coming-to-apple-vision-pro-on-may-30?utm_medium=rss)<!-- TECH:END -->
+ - [Sonos CEO Patrick Spence addresses the company’s divisive app redesign](https://www.theverge.com/2024/5/22/24162168/sonos-ceo-patrick-spence-new-app-design-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

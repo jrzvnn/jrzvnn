@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Logic](http://9gag.com/gag/avyZD3q)
- - 😝 [How to stop Google listening to your conversation](http://9gag.com/gag/aMVbN3V)
- - 💣 [What a cool dad](http://9gag.com/gag/amoLby9)
- - 😝 [Haven&#39;t seen this one yet](http://9gag.com/gag/aGyVoAX)
- - 👉 [Palestine slogan is hate speech](http://9gag.com/gag/aPAyzDg)<!-- MEMES:END -->
+ - 😝 [Not safe for muslim](http://9gag.com/gag/aKGgNXQ)
+ - 😝 [There is no red in this picture; your brain is filling in the red color. The picture is made up entirely of light blue, black, and white.](http://9gag.com/gag/agm0jR1)
+ - 💣 [They never forget](http://9gag.com/gag/aXPEdOD)
+ - 😝 [Just breaking news. Nothing to see here.](http://9gag.com/gag/aGyV6L6)
+ - 👉 [That&#39;s not water...](http://9gag.com/gag/ae93PWm)<!-- MEMES:END -->
 
 ---
 

@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 16 button expansion: what the rumor mill thinks is coming](https://appleinsider.com/articles/24/05/22/iphone-16-button-rumors-what-the-rumor-mill-thinks-is-coming?utm_medium=rss)
+ - [Panasonic wants to play Fujifilm’s filter game with the new Lumix S9](https://www.theverge.com/24161722/panasonic-lumix-s9-full-frame-camera)
+ - [Teslas Can Still Be Stolen With a Cheap Radio Hack—Despite New Keyless Tech](https://www.wired.com/story/tesla-ultra-wideband-radio-relay-attacks/)
  - [Link-in-bio startup Linktree passes 50M users, up from 41M in December 2023 and 47M+ in March 2024, and launches a beta of its social commerce product &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/240522/p15#a240522p15)
- - [Apple Music&#39;s best 100 albums list is done, and it&#39;s controversial](https://appleinsider.com/articles/24/05/22/apple-musics-best-100-albums-list-is-done-and-its-controversial?utm_medium=rss)
- - [Sources: Amazon plans to make Alexa more conversational later in 2024, adding generative AI features, and will charge a fee to offset the cost of the tech &lpar;Kate Rooney/CNBC&rpar;](http://www.techmeme.com/240522/p14#a240522p14)
- - [Waterfield Shield Case for Apple Vision Pro review: Way better for travel than Apple&#39;s case](https://appleinsider.com/articles/24/05/22/waterfield-shield-case-for-apple-vision-pro-review-way-better-for-travel-than-apples-case?utm_medium=rss)
- - [Cologne-based AI translation startup DeepL, which develops its own models, raised $300M led by Index Ventures at a $2B valuation and reports 100K+ customers &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/240522/p13#a240522p13)<!-- TECH:END -->
+ - [Apple Music&#39;s best 100 albums list is done, and it&#39;s controversial](https://appleinsider.com/articles/24/05/22/apple-musics-best-100-albums-list-is-done-and-its-controversial?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

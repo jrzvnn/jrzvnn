@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A review of privacy-focused /e/OS, a fully &quot;deGoogled&quot; OS based on the Android Open Source Project, that combines Micro G, to handle Google APIs, and LineageOS &lpar;Scott Gilbertson/Wired&rpar;](http://www.techmeme.com/240522/p8#a240522p8)
+ - [A Far-Right Indian News Site Posts Racist Conspiracies. US Tech Firms Are Profiting From It](https://www.wired.com/story/india-opindia-google-facebook-advertising/)
+ - [Local Coworking Spaces Thrive Where WeWork Dared Not Go](https://www.wired.com/story/local-coworking-spaces-thrive-where-wework-dared-not-go/)
  - [Cambridge-based Raspberry Pi confirms plans for a London Stock Exchange IPO, aiming to raise $40M and listing in June, and reports $265.8M in 2023 revenue &lpar;Thyagaraju Adinarayan/Bloomberg&rpar;](http://www.techmeme.com/240522/p7#a240522p7)
- - [We Stood on Both Sides of the New York–Dublin Portal and It Was Glorious](https://www.wired.com/story/new-york-dublin-portal-reopening/)
- - [Lofree Edge Mechanical Keyboard Review: A Fantastic Little Travel Keyboard     - CNET](https://www.cnet.com/tech/computing/lofree-edge-mechanical-keyboard-review-a-fantastic-little-travel-keyboard/#ftag=CAD590a51e)
- - [Cut Shipping Fees -- or Avoid Them Altogether -- at Target, Amazon and More     - CNET](https://www.cnet.com/tech/how-to-cut-or-avoid-shipping-fees-at-target-amazon-and-more/#ftag=CAD590a51e)
- - [An investigation into online ticketing service Eventbrite found 7.4K+ illicit listings, including illegal drug sales, some of which its algorithm recommended &lpar;Wired&rpar;](http://www.techmeme.com/240522/p6#a240522p6)<!-- TECH:END -->
+ - [We Stood on Both Sides of the New York–Dublin Portal and It Was Glorious](https://www.wired.com/story/new-york-dublin-portal-reopening/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

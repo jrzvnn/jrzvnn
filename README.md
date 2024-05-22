@@ -174,9 +174,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Logic](http://9gag.com/gag/avyZD3q)
  - 😝 [That&#39;s not water...](http://9gag.com/gag/ae93PWm)
- - 💣 [What a cool dad](http://9gag.com/gag/amoLby9)
- - 😝 [Haven&#39;t seen this one yet](http://9gag.com/gag/aGyVoAX)
- - 👉 [Palestine slogan is hate speech](http://9gag.com/gag/aPAyzDg)<!-- MEMES:END -->
+ - 💣 [Haven&#39;t seen this one yet](http://9gag.com/gag/aGyVoAX)
+ - 😝 [What a cool dad](http://9gag.com/gag/amoLby9)
+ - 👉 [Internet trick you didn\u2019t know](http://9gag.com/gag/aoyZdOg)<!-- MEMES:END -->
 
 ---
 

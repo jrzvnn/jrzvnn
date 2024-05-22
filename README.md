@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [1996 Seoul, a fan climb up the crane, MJ held him from falling the whole time while performing](http://9gag.com/gag/aByQbP2)
- - 😝 [That&#39;s not water...](http://9gag.com/gag/ae93PWm)
- - 💣 [Women&#39;s Studies students spend $60k a year of their parents&#39; money to learn a screaming course against the patriarchy](http://9gag.com/gag/a9yMVbL)
+ - 😝 [No wonder the birth rate are so low](http://9gag.com/gag/amoLbyo)
+ - 😝 [Not safe for muslim](http://9gag.com/gag/aKGgNXQ)
+ - 💣 [Tommy Cooper in his last show. notice the people laughing at the end because they thought it was part of the act but the comedian legend was out... RIP.](http://9gag.com/gag/an7XVr0)
  - 😝 [Feeling old yet? Eminem\u2019s daughter Hailie Jade just got married](http://9gag.com/gag/azxLQNz)
- - 👉 [There is no red in this picture; your brain is filling in the red color. The picture is made up entirely of light blue, black, and white.](http://9gag.com/gag/agm0jR1)<!-- MEMES:END -->
+ - 👉 [Just breaking news. Nothing to see here.](http://9gag.com/gag/aGyV6L6)<!-- MEMES:END -->
 
 ---
 

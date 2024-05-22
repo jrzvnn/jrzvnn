@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Amazon plans to make Alexa more conversational later in 2024, adding generative AI features, and will charge a fee to offset the cost of the tech &lpar;Kate Rooney/CNBC&rpar;](http://www.techmeme.com/240522/p14#a240522p14)
+ - [Waterfield Shield Case for Apple Vision Pro review: Way better for travel than Apple&#39;s case](https://appleinsider.com/articles/24/05/22/waterfield-shield-case-for-apple-vision-pro-review-way-better-for-travel-than-apples-case?utm_medium=rss)
  - [Cologne-based AI translation startup DeepL, which develops its own models, raised $300M led by Index Ventures at a $2B valuation and reports 100K+ customers &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/240522/p13#a240522p13)
  - [The Low-Paid Humans Behind AI’s Smarts Ask Biden to Free Them From ‘Modern Day Slavery’](https://www.wired.com/story/low-paid-humans-ai-biden-modern-day-slavery/)
- - [20 Best Early Memorial Day Mattress Deals &lpar;2024&rpar;](https://www.wired.com/story/best-mattress-deals/)
- - [You Can Bag Apple&#39;s M1 24-inch iMac for Just $750, But You&#39;ll Need to Be Quick     - CNET](https://www.cnet.com/deals/you-can-bag-apples-m1-24-inch-imac-for-just-750-but-youll-need-to-be-quick/#ftag=CAD590a51e)
- - [Small Improvements in Mortgage Rates: Mortgage Interest Rates for May 22, 2024     - CNET](https://www.cnet.com/personal-finance/mortgages/small-improvements-in-mortgage-rates-mortgage-interest-rates-for-may-22-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [20 Best Early Memorial Day Mattress Deals &lpar;2024&rpar;](https://www.wired.com/story/best-mattress-deals/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US House passes the Financial Innovation and Technology for the 21st Century Act, or FIT21, which would create a regulatory framework for digital assets &lpar;Andr&amp;eacute; Beganski/Decrypt&rpar;](http://www.techmeme.com/240522/p30#a240522p30)
  - [Truecaller and Microsoft will let users make an AI voice to answer calls](https://www.theverge.com/2024/5/22/24162753/truecaller-ai-microsoft-azure-voice-assistant)
  - [The best Memorial Day deals you can already get](https://www.theverge.com/24161521/best-memorial-day-sales-2024-tech-deals-tvs-headphones-robot-vacuums-electronics)
  - [OpenAI’s News Corp deal licenses content from WSJ, New York Post, and more](https://www.theverge.com/2024/5/22/24162782/openai-licensing-deal-wall-street-journal-news-corp)
- - [Apple&#39;s 16-inch MacBook Pro drops to all-time low price of $1,798](https://appleinsider.com/articles/24/05/22/apples-16-inch-macbook-pro-drops-to-all-time-low-price-of-1798?utm_medium=rss)
- - [Google could cut funding to more US news publishers](https://www.theverge.com/2024/5/22/24162684/google-news-initiative-funding-outlets-us)<!-- TECH:END -->
+ - [Apple&#39;s 16-inch MacBook Pro drops to all-time low price of $1,798](https://appleinsider.com/articles/24/05/22/apples-16-inch-macbook-pro-drops-to-all-time-low-price-of-1798?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

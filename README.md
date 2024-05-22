@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google TV is getting a ‘find my remote’ feature](https://www.theverge.com/2024/5/22/24162311/google-tv-find-my-remote-android-14-feature)
  - [Google starts rolling out its Magic Editor and other AI tools to all Android and iOS users for free via Photos, offering 10 Magic Editor library saves per month &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240522/p12#a240522p12)
  - [China releases an AI model trained on &quot;Xi Jinping Thought&quot; and other official literature, initially in research testing, a source says before a wider launch &lpar;Financial Times&rpar;](http://www.techmeme.com/240522/p11#a240522p11)
  - [Apple is ignoring Congo&#39;s accusations over conflict materials, say lawyers](https://appleinsider.com/articles/24/05/22/apple-is-ignoring-congos-accusations-over-conflict-materials-say-lawyers?utm_medium=rss)
- - [Microsoft and UAE-based G42 plan to build a $1B geothermal-powered data center in Kenya, opening in about two years, to boost computing capacity in East Africa &lpar;Bloomberg&rpar;](http://www.techmeme.com/240522/p10#a240522p10)
- - [9 Indoor Houseplants that Are Extremely Hard to Kill, According to Experts     - CNET](https://www.cnet.com/news/9-indoor-houseplants-that-are-extremely-hard-to-kill-according-to-experts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft and UAE-based G42 plan to build a $1B geothermal-powered data center in Kenya, opening in about two years, to boost computing capacity in East Africa &lpar;Bloomberg&rpar;](http://www.techmeme.com/240522/p10#a240522p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

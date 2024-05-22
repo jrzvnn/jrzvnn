@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [If You Can&#39;t Pay Your Credit Card Bills This Month, Here&#39;s What You Can Do     - CNET](https://www.cnet.com/personal-finance/credit-cards/if-you-cant-pay-your-credit-card-bills-this-month-heres-what-you-can-do/#ftag=CAD590a51e)
+ - [Apple&#39;s new diversity exec hails from Bank of America](https://appleinsider.com/articles/24/05/22/apples-new-diversity-exec-hails-from-bank-of-america?utm_medium=rss)
  - [VC firm Alicorn agrees to take Glassbox private in a deal worth ~$150M; the analytics software company was valued at ~$500M in June 2021 in its Tel Aviv IPO &lpar;Almog Azar/CTech&rpar;](http://www.techmeme.com/240521/p43#a240521p43)
  - [Humane is looking for a buyer after the AI Pin’s underwhelming debut](https://www.theverge.com/2024/5/21/24162185/humane-seeking-acquisition-rumor-ai-pin)
- - [How to Shop and Compare Electricity Rates in Connecticut     - CNET](https://www.cnet.com/news/how-to-shop-and-compare-electricity-rates-in-connecticut/#ftag=CAD590a51e)
- - [The UK ICO is &quot;making enquiries with Microsoft&quot; over the company&#39;s Recall feature, which some privacy campaigners have called a potential &quot;privacy nightmare&quot; &lpar;Imran Rahman-Jones/BBC&rpar;](http://www.techmeme.com/240521/p42#a240521p42)<!-- TECH:END -->
+ - [The UK ICO is &quot;making enquiries with Microsoft&quot; over the company&#39;s Recall feature, which some privacy campaigners have called a potential &quot;privacy nightmare&quot; &lpar;Imran Rahman-Jones/BBC&rpar;](http://www.techmeme.com/240521/p42#a240521p42)
+ - [WitnessAI, which intercepts employees&#39; use of custom generative AI models and applies safeguards, raised a $27.5M Series A co-led by GV and Ballistic Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240521/p41#a240521p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

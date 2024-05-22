@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China releases an AI model trained on &quot;Xi Jinping Thought&quot; and other official literature, initially in research testing, a source says before a wider launch &lpar;Financial Times&rpar;](http://www.techmeme.com/240522/p11#a240522p11)
  - [Apple is ignoring Congo&#39;s accusations over conflict materials, say lawyers](https://appleinsider.com/articles/24/05/22/apple-is-ignoring-congos-accusations-over-conflict-materials-say-lawyers?utm_medium=rss)
  - [Microsoft and UAE-based G42 plan to build a $1B geothermal-powered data center in Kenya, opening in about two years, to boost computing capacity in East Africa &lpar;Bloomberg&rpar;](http://www.techmeme.com/240522/p10#a240522p10)
- - [What Scarlett Johansson v. OpenAI Could Look Like in Court](https://www.wired.com/story/scarlett-johansson-v-openai-could-look-like-in-court/)
- - [Chinese smartphone maker Honor plans to include Google&#39;s Gemini and Imagen 2, powered by Google Cloud, in upcoming devices, one of the first companies to do so &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/240522/p9#a240522p9)
- - [New Beats Pill speaker rumbles closer after appearance in FCC database](https://appleinsider.com/articles/24/05/22/new-beats-pill-speaker-rumbles-closer-after-appearance-in-fcc-database?utm_medium=rss)<!-- TECH:END -->
+ - [9 Indoor Houseplants that Are Extremely Hard to Kill, According to Experts     - CNET](https://www.cnet.com/news/9-indoor-houseplants-that-are-extremely-hard-to-kill-according-to-experts/#ftag=CAD590a51e)
+ - [Memorial Day 2024: Incredible Early Deals Are Already Live     - CNET](https://www.cnet.com/deals/best-memorial-day-sales/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

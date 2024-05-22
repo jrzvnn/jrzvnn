@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Haven&#39;t seen this one yet](http://9gag.com/gag/aGyVoAX)
- - 😝 [I miss when Games were made by Gamers for Gamers](http://9gag.com/gag/aD2wNZK)
- - 💣 [Just don&#39;t](http://9gag.com/gag/a9yM4Gj)
- - 😝 [Internet trick you didn\u2019t know](http://9gag.com/gag/aoyZdOg)
- - 👉 [Oh no... Sucks to be them right now...](http://9gag.com/gag/aoyZGng)<!-- MEMES:END -->
+ - 😝 [Feeling old yet? Eminem\u2019s daughter Hailie Jade just got married](http://9gag.com/gag/azxLQNz)
+ - 😝 [Just breaking news. Nothing to see here.](http://9gag.com/gag/aGyV6L6)
+ - 💣 [Not everyone can do this](http://9gag.com/gag/aE0GQ3e)
+ - 😝 [There&#39;s no recovering from this.](http://9gag.com/gag/a9yMZb6)
+ - 👉 [Tommy Cooper in his last show. notice the people laughing at the end because they thought it was part of the act but the comedian legend was out... RIP.](http://9gag.com/gag/an7XVr0)<!-- MEMES:END -->
 
 ---
 

@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Toulouse-based OneStock, which provides a cloud-native order management system to retailers, raised $72M from Summit Partners for its continued global expansion &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/240521/p45#a240521p45)
  - [Apple&#39;s 16-inch MacBook Pro drops to all-time low price of $1,798](https://appleinsider.com/articles/24/05/22/apples-16-inch-macbook-pro-drops-to-all-time-low-price-of-1798?utm_medium=rss)
  - [Sources: Snowflake&#39;s talks to acquire Reka AI, which builds LLMs for businesses, for more than $1B have broken down &lpar;Bloomberg&rpar;](http://www.techmeme.com/240521/p44#a240521p44)
- - [Apple&#39;s new diversity exec hails from Bank of America](https://appleinsider.com/articles/24/05/22/apples-new-diversity-exec-hails-from-bank-of-america?utm_medium=rss)
- - [If You Can&#39;t Pay Your Credit Card Bills This Month, Here&#39;s What You Can Do     - CNET](https://www.cnet.com/personal-finance/credit-cards/if-you-cant-pay-your-credit-card-bills-this-month-heres-what-you-can-do/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints and Answer: Help for May 22, #1068     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-and-answer-help-for-may-22-1068/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints and Answers: Help for May 22, #346     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hints-answer-help-for-may-22-346/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

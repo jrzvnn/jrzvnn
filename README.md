@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not safe for muslim](http://9gag.com/gag/aKGgNXQ)
- - 😝 [There is no red in this picture; your brain is filling in the red color. The picture is made up entirely of light blue, black, and white.](http://9gag.com/gag/agm0jR1)
- - 💣 [They never forget](http://9gag.com/gag/aXPEdOD)
+ - 😝 [What a 6000ft drop can do to a plane.](http://9gag.com/gag/aVvQ4z2)
+ - 😝 [Enormous Plasma Wall spotted on the Sun](http://9gag.com/gag/azxLDxj)
+ - 💣 [\ud83d\uddff\ud83d\uddff\ud83d\uddff\ud83d\uddff\ud83d\uddff\ud83d\uddff](http://9gag.com/gag/aNDoqQA)
  - 😝 [Just breaking news. Nothing to see here.](http://9gag.com/gag/aGyV6L6)
- - 👉 [That&#39;s not water...](http://9gag.com/gag/ae93PWm)<!-- MEMES:END -->
+ - 👉 [Not safe for muslim](http://9gag.com/gag/aKGgNXQ)<!-- MEMES:END -->
 
 ---
 

@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Future emoji could include Eye Bags &amp; Shovel](https://appleinsider.com/articles/24/05/22/future-emoji-could-include-eye-bags-shovel?utm_medium=rss)
- - [The OneXPlayer X1 Mini is the most feature-packed handheld gaming PC yet](https://www.theverge.com/2024/5/21/24161887/onexplayer-x1-mini-handheld-gaming-pc-ssd)
- - [Planet Parade: Plan Now to See 6 Planets in the Sky on June 3     - CNET](https://www.cnet.com/science/planet-parade-plan-now-to-see-6-planets-in-the-sky-on-june-3/#ftag=CAD590a51e)
- - [If You Have an Amazon Echo, Try These 5 Alexa Features     - CNET](https://www.cnet.com/home/smart-home/if-you-have-an-amazon-echo-try-these-5-alexa-features/#ftag=CAD590a51e)
- - [Garmin’s fashion-forward Lily 2 tracker is on sale for $50 off](https://www.theverge.com/2024/5/21/24161293/garmin-lily-2-fitness-tracker-amazon-fire-tv-cube-deal-sale)<!-- TECH:END -->
+ - [WitnessAI, which intercepts employees&#39; use of custom generative AI models and applies safeguards, raised a $27.5M Series A co-led by GV and Ballistic Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240521/p41#a240521p41)
+ - [How to Read an EnergyGuide Label     - CNET](https://www.cnet.com/how-to/how-to-read-an-energyguide-label/#ftag=CAD590a51e)
+ - [Sources: Humane is seeking a buyer for its business, after the rocky launch of its AI pin; a source says the startup is seeking a price of between $750M and $1B &lpar;Bloomberg&rpar;](http://www.techmeme.com/240521/p40#a240521p40)
+ - [All-Time Classic Board Game Talisman Gets a 5th Edition, Available for Preorder Today     - CNET](https://www.cnet.com/tech/gaming/all-time-classic-board-game-talisman-gets-a-fifth-edition-available-for-pre-order-today/#ftag=CAD590a51e)
+ - [A look at Paperless Post, a New York-based software company for sending online invitations and events that launched in 2009 and has sent ~650M invitations &lpar;Christopher Barnard/New York Times&rpar;](http://www.techmeme.com/240521/p39#a240521p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

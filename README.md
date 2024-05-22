@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Hurts right in the miau miau](http://9gag.com/gag/aD2wNgZ)
+ - 😝 [What a 6000ft drop can do to a plane.](http://9gag.com/gag/aVvQ4z2)
+ - 💣 [Just breaking news. Nothing to see here.](http://9gag.com/gag/aGyV6L6)
  - 😝 [Insurance scam](http://9gag.com/gag/aByQvwA)
- - 😝 [Tommy Cooper in his last show. notice the people laughing at the end because they thought it was part of the act but the comedian legend was out... RIP.](http://9gag.com/gag/an7XVr0)
- - 💣 [The average woman these days](http://9gag.com/gag/aD2wP4O)
- - 😝 [Just breaking news. Nothing to see here.](http://9gag.com/gag/aGyV6L6)
- - 👉 [Women&#39;s Studies students spend $60k a year of their parents&#39; money to learn a screaming course against the patriarchy](http://9gag.com/gag/a9yMVbL)<!-- MEMES:END -->
+ - 👉 [Tommy Cooper in his last show. notice the people laughing at the end because they thought it was part of the act but the comedian legend was out... RIP.](http://9gag.com/gag/an7XVr0)<!-- MEMES:END -->
 
 ---
 

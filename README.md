@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s 16-inch MacBook Pro drops to all-time low price of $1,798](https://appleinsider.com/articles/24/05/22/apples-16-inch-macbook-pro-drops-to-all-time-low-price-of-1798?utm_medium=rss)
+ - [Google could cut funding to more US news publishers](https://www.theverge.com/2024/5/22/24162684/google-news-initiative-funding-outlets-us)
+ - [Bluesky now lets users send DMs and says it&#39;s working on adding support for messages with images and end-to-end encryption &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240522/p29#a240522p29)
  - [Google Meet’s adaptive audio connects mics from multiple laptops for clearer audio](https://www.theverge.com/2024/5/22/24162666/google-meet-workspace-adaptive-audio)
- - [Lawyers say OpenAI could be in real trouble with Scarlett Johansson](https://www.theverge.com/2024/5/22/24162429/scarlett-johansson-openai-legal-right-to-publicity-likeness-midler-lawyers)
- - [Snowflake reports Q1 revenue up 33% YoY to $828.7M, product revenue up 34% YoY to $789.6M, vs. $749M est., and projects Q2 product revenue above estimates &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240522/p28#a240522p28)
- - [Nvidia reports Q1 revenue up 262% YoY to $26.04B, vs. $24.65B est., forecasts Q2 revenue above estimates, and announces a 10-for-1 stock split &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240522/p27#a240522p27)
- - [Bluesky now lets you send DMs](https://www.theverge.com/2024/5/22/24162749/bluesky-send-direct-messages)<!-- TECH:END -->
+ - [Lawyers say OpenAI could be in real trouble with Scarlett Johansson](https://www.theverge.com/2024/5/22/24162429/scarlett-johansson-openai-legal-right-to-publicity-likeness-midler-lawyers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice guys finish last](http://9gag.com/gag/aYQpRYV)
- - 😝 [Women&#39;s Studies students spend $60k a year of their parents&#39; money to learn a screaming course against the patriarchy](http://9gag.com/gag/a9yMVbL)
- - 💣 [The average woman these days](http://9gag.com/gag/aD2wP4O)
- - 😝 [It\u2019s good entertainment though](http://9gag.com/gag/an7X8yB)
- - 👉 [Women are complicated](http://9gag.com/gag/amoLb4j)<!-- MEMES:END -->
+ - 😝 [What a cool dad](http://9gag.com/gag/amoLby9)
+ - 😝 [5.1 K upvotes and then deleted - did I break a record?](http://9gag.com/gag/ae93d7p)
+ - 💣 [Smashing the old lining of a chimney](http://9gag.com/gag/a0ePxoq)
+ - 😝 [Trust is the only currency](http://9gag.com/gag/a87bXyd)
+ - 👉 [Insurance scam](http://9gag.com/gag/aByQvwA)<!-- MEMES:END -->
 
 ---
 

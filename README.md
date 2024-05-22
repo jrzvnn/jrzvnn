@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Link-in-bio startup Linktree passes 50M users, up from 41M in December 2023 and 47M+ in March 2024, and launches a beta of its social commerce product &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/240522/p15#a240522p15)
+ - [Apple Music&#39;s best 100 albums list is done, and it&#39;s controversial](https://appleinsider.com/articles/24/05/22/apple-musics-best-100-albums-list-is-done-and-its-controversial?utm_medium=rss)
  - [Sources: Amazon plans to make Alexa more conversational later in 2024, adding generative AI features, and will charge a fee to offset the cost of the tech &lpar;Kate Rooney/CNBC&rpar;](http://www.techmeme.com/240522/p14#a240522p14)
  - [Waterfield Shield Case for Apple Vision Pro review: Way better for travel than Apple&#39;s case](https://appleinsider.com/articles/24/05/22/waterfield-shield-case-for-apple-vision-pro-review-way-better-for-travel-than-apples-case?utm_medium=rss)
- - [Cologne-based AI translation startup DeepL, which develops its own models, raised $300M led by Index Ventures at a $2B valuation and reports 100K+ customers &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/240522/p13#a240522p13)
- - [The Low-Paid Humans Behind AI’s Smarts Ask Biden to Free Them From ‘Modern Day Slavery’](https://www.wired.com/story/low-paid-humans-ai-biden-modern-day-slavery/)
- - [20 Best Early Memorial Day Mattress Deals &lpar;2024&rpar;](https://www.wired.com/story/best-mattress-deals/)<!-- TECH:END -->
+ - [Cologne-based AI translation startup DeepL, which develops its own models, raised $300M led by Index Ventures at a $2B valuation and reports 100K+ customers &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/240522/p13#a240522p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

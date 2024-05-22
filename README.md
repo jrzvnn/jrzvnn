@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok launches its Symphony AI suite for brands, using generative AI to let marketers write scripts, produce videos, and enhance current assets &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240522/p19#a240522p19)
  - [Sonos CEO Patrick Spence addresses the company’s divisive app redesign](https://www.theverge.com/2024/5/22/24162168/sonos-ceo-patrick-spence-new-app-design-interview)
  - [Marvel&#39;s &#39;What If...? - an Immersive Story&#39; coming to Apple Vision Pro on May 30](https://appleinsider.com/articles/24/05/22/marvels-what-if---an-immersive-story-coming-to-apple-vision-pro-on-may-30?utm_medium=rss)
  - [Volkswagen is delaying its ID.7 electric sedan in North America](https://www.theverge.com/2024/5/22/24162459/volkswagen-2024-id7-electric-sedan-delay-north-america-us-ev)
- - [Shazam can now run in the background with Live Activities](https://appleinsider.com/articles/24/05/22/shazam-can-now-run-in-the-background-with-live-activities?utm_medium=rss)
- - [Old iPads are a staple in US homes, long after they&#39;ve gone obsolete](https://appleinsider.com/articles/24/05/22/old-ipads-are-a-staple-in-us-homes-long-after-theyve-gone-obsolete?utm_medium=rss)<!-- TECH:END -->
+ - [Shazam can now run in the background with Live Activities](https://appleinsider.com/articles/24/05/22/shazam-can-now-run-in-the-background-with-live-activities?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cambridge-based Raspberry Pi confirms plans for a London Stock Exchange IPO, aiming to raise $40M and listing in June, and reports $265.8M in 2023 revenue &lpar;Thyagaraju Adinarayan/Bloomberg&rpar;](http://www.techmeme.com/240522/p7#a240522p7)
  - [We Stood on Both Sides of the New York–Dublin Portal and It Was Glorious](https://www.wired.com/story/new-york-dublin-portal-reopening/)
- - [An investigation into online ticketing service Eventbrite found 7.4K+ illicit listings, including illegal drug sales, some of which its algorithm recommended &lpar;Wired&rpar;](http://www.techmeme.com/240522/p6#a240522p6)
- - [Are SSI Recipients Getting More Money This Fall? What to Know     - CNET](https://www.cnet.com/personal-finance/are-ssi-recipients-getting-more-money-this-fall-what-to-know/#ftag=CAD590a51e)
- - [/e/OS Review: This Operating System Is Better Than Android. You Should Try It](https://www.wired.com/story/e-os-review/)
- - [OpenAI&#39;s Scarlett Johansson debacle is merely a reminder of AI&#39;s manifest destiny philosophy: &quot;This is happening, whether you like it or not&quot;, consent be damned &lpar;Charlie Warzel/The Atlantic&rpar;](http://www.techmeme.com/240522/p5#a240522p5)<!-- TECH:END -->
+ - [Lofree Edge Mechanical Keyboard Review: A Fantastic Little Travel Keyboard     - CNET](https://www.cnet.com/tech/computing/lofree-edge-mechanical-keyboard-review-a-fantastic-little-travel-keyboard/#ftag=CAD590a51e)
+ - [Cut Shipping Fees -- or Avoid Them Altogether -- at Target, Amazon and More     - CNET](https://www.cnet.com/tech/how-to-cut-or-avoid-shipping-fees-at-target-amazon-and-more/#ftag=CAD590a51e)
+ - [An investigation into online ticketing service Eventbrite found 7.4K+ illicit listings, including illegal drug sales, some of which its algorithm recommended &lpar;Wired&rpar;](http://www.techmeme.com/240522/p6#a240522p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

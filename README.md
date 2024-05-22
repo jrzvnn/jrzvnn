@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The average woman these days](http://9gag.com/gag/aD2wP4O)
- - 😝 [That&#39;s not water...](http://9gag.com/gag/ae93PWm)
- - 💣 [Feeling old yet? Eminem\u2019s daughter Hailie Jade just got married](http://9gag.com/gag/azxLQNz)
- - 😝 [Women&#39;s Studies students spend $60k a year of their parents&#39; money to learn a screaming course against the patriarchy](http://9gag.com/gag/a9yMVbL)
- - 👉 [Not safe for muslim](http://9gag.com/gag/aKGgNXQ)<!-- MEMES:END -->
+ - 😝 [There is no red in this picture; your brain is filling in the red color. The picture is made up entirely of light blue, black, and white.](http://9gag.com/gag/agm0jR1)
+ - 😝 [Hurts right in the miau miau](http://9gag.com/gag/aD2wNgZ)
+ - 💣 [Should I give my seat to a women?](http://9gag.com/gag/aMVbWLW)
+ - 😝 [Feeling old yet? Eminem\u2019s daughter Hailie Jade just got married](http://9gag.com/gag/azxLQNz)
+ - 👉 [Insurance scam](http://9gag.com/gag/aByQvwA)<!-- MEMES:END -->
 
 ---
 

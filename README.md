@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Samsung Galaxy Ring might come with a subscription](https://www.theverge.com/2024/5/22/24162407/samsung-galaxy-ring-price-rumors-subscription)
  - [iPhone 16 button expansion: what the rumor mill thinks is coming](https://appleinsider.com/articles/24/05/22/iphone-16-button-rumors-what-the-rumor-mill-thinks-is-coming?utm_medium=rss)
+ - [Airbnb entices hosts with discounted EV chargers](https://www.theverge.com/2024/5/22/24162372/airbnb-chargepoint-ev-charging-station-discount-install)
  - [Panasonic wants to play Fujifilm’s filter game with the new Lumix S9](https://www.theverge.com/24161722/panasonic-lumix-s9-full-frame-camera)
- - [Teslas Can Still Be Stolen With a Cheap Radio Hack—Despite New Keyless Tech](https://www.wired.com/story/tesla-ultra-wideband-radio-relay-attacks/)
- - [Link-in-bio startup Linktree passes 50M users, up from 41M in December 2023 and 47M+ in March 2024, and launches a beta of its social commerce product &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/240522/p15#a240522p15)
- - [Apple Music&#39;s best 100 albums list is done, and it&#39;s controversial](https://appleinsider.com/articles/24/05/22/apple-musics-best-100-albums-list-is-done-and-its-controversial?utm_medium=rss)<!-- TECH:END -->
+ - [Teslas Can Still Be Stolen With a Cheap Radio Hack—Despite New Keyless Tech](https://www.wired.com/story/tesla-ultra-wideband-radio-relay-attacks/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

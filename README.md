@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple is ignoring Congo&#39;s accusations over conflict materials, say lawyers](https://appleinsider.com/articles/24/05/22/apple-is-ignoring-congos-accusations-over-conflict-materials-say-lawyers?utm_medium=rss)
+ - [Amazon Alexa’s big AI upgrade could require a new subscription](https://www.theverge.com/2024/5/22/24162412/amazon-alexa-ai-upgrade-subscription-fee-extra)
  - [AWS plans to invest &amp;euro;15.7B in data centers in Spain&#39;s Aragon region, replacing a 2021 plan to spend &amp;euro;2.5B; the Aragon government says the deal is over 10 years &lpar;Reuters&rpar;](http://www.techmeme.com/240522/p17#a240522p17)
  - [Super Mario Maker 64 exists, thanks to a new ROM hack](https://www.theverge.com/2024/5/22/24162373/super-mario-maker-builder-64-rom-hack-nintendo)
- - [29 Best REI Anniversary Sale Deals: Fitness Trackers, Tents, Sleeping Bags, Headphones, Electric Bikes](https://www.wired.com/story/rei-anniversary-sale-may-2024/)
- - [Chinese automotive cybersecurity firm GoGoByte demonstrates a cheap and simple relay attack to unlock a Tesla Model 3 despite an ultra-wideband keyless system &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/240522/p16#a240522p16)
- - [The Samsung Galaxy Ring might come with a subscription](https://www.theverge.com/2024/5/22/24162407/samsung-galaxy-ring-price-rumors-subscription)<!-- TECH:END -->
+ - [29 Best REI Anniversary Sale Deals: Fitness Trackers, Tents, Sleeping Bags, Headphones, Electric Bikes](https://www.wired.com/story/rei-anniversary-sale-may-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

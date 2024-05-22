@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Roast me baby one more time](http://9gag.com/gag/aLnQVwv)
- - 😝 [He slept on the couch that day!!](http://9gag.com/gag/amoLdPy)
- - 💣 [Typical](http://9gag.com/gag/aW40N84)
- - 😝 [What a 6000ft drop can do to a plane.](http://9gag.com/gag/aVvQ4z2)
- - 👉 [Ok What Now??](http://9gag.com/gag/aD2wNOG)<!-- MEMES:END -->
+ - 😝 [Full time job!](http://9gag.com/gag/aByQjzP)
+ - 😝 [How to stop Google listening to your conversation](http://9gag.com/gag/aMVbN3V)
+ - 💣 [Palestine slogan is hate speech](http://9gag.com/gag/aPAyzDg)
+ - 😝 [What a cool dad](http://9gag.com/gag/amoLby9)
+ - 👉 [Haven&#39;t seen this one yet](http://9gag.com/gag/aGyVoAX)<!-- MEMES:END -->
 
 ---
 

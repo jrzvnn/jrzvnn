@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Use ALL the cameras](http://9gag.com/gag/aryerE0)
- - 😝 [Full time job!](http://9gag.com/gag/aByQjzP)
- - 💣 [Internet trick you didn\u2019t know](http://9gag.com/gag/aoyZdOg)
+ - 😝 [Logic](http://9gag.com/gag/avyZD3q)
+ - 😝 [How to stop Google listening to your conversation](http://9gag.com/gag/aMVbN3V)
+ - 💣 [What a cool dad](http://9gag.com/gag/amoLby9)
  - 😝 [Haven&#39;t seen this one yet](http://9gag.com/gag/aGyVoAX)
- - 👉 [What a cool dad](http://9gag.com/gag/amoLby9)<!-- MEMES:END -->
+ - 👉 [Palestine slogan is hate speech](http://9gag.com/gag/aPAyzDg)<!-- MEMES:END -->
 
 ---
 

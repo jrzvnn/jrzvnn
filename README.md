@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Garmin’s fashion-forward Lily 2 tracker is on sale for $50 off](https://www.theverge.com/2024/5/21/24161293/garmin-lily-2-fitness-tracker-amazon-fire-tv-cube-deal-sale)
- - [Minnesota lawmakers reach a compromise with Uber and Lyft, setting a floor for drivers&#39; pay statewide at $1.28/mile and $0.31/minute, effective January 1, 2025 &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/240521/p38#a240521p38)
- - [Quantum Fiber Plans: Pricing, Speeds and Availability Compared     - CNET](https://www.cnet.com/home/internet/quantum-fiber-review/#ftag=CAD590a51e)
- - [Compare Electricity Rates in Texas     - CNET](https://www.cnet.com/how-to/compare-electricity-rates-in-texas/#ftag=CAD590a51e)
- - [Scoop Up an LG CordZero Vacuum for 30% Off Just in Time for Memorial Day     - CNET](https://www.cnet.com/deals/scoop-up-an-lg-cordzero-vacuum-for-30-off-just-in-time-for-memorial-day/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Future emoji could include Eye Bags &amp; Shovel](https://appleinsider.com/articles/24/05/22/future-emoji-could-include-eye-bags-shovel?utm_medium=rss)
+ - [The OneXPlayer X1 Mini is the most feature-packed handheld gaming PC yet](https://www.theverge.com/2024/5/21/24161887/onexplayer-x1-mini-handheld-gaming-pc-ssd)
+ - [Planet Parade: Plan Now to See 6 Planets in the Sky on June 3     - CNET](https://www.cnet.com/science/planet-parade-plan-now-to-see-6-planets-in-the-sky-on-june-3/#ftag=CAD590a51e)
+ - [If You Have an Amazon Echo, Try These 5 Alexa Features     - CNET](https://www.cnet.com/home/smart-home/if-you-have-an-amazon-echo-try-these-5-alexa-features/#ftag=CAD590a51e)
+ - [Garmin’s fashion-forward Lily 2 tracker is on sale for $50 off](https://www.theverge.com/2024/5/21/24161293/garmin-lily-2-fitness-tracker-amazon-fire-tv-cube-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

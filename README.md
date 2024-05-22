@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [29 Best REI Anniversary Sale Deals: Fitness Trackers, Tents, Sleeping Bags, Headphones, Electric Bikes](https://www.wired.com/story/rei-anniversary-sale-may-2024/)
+ - [Chinese automotive cybersecurity firm GoGoByte demonstrates a cheap and simple relay attack to unlock a Tesla Model 3 despite an ultra-wideband keyless system &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/240522/p16#a240522p16)
  - [The Samsung Galaxy Ring might come with a subscription](https://www.theverge.com/2024/5/22/24162407/samsung-galaxy-ring-price-rumors-subscription)
  - [iPhone 16 button expansion: what the rumor mill thinks is coming](https://appleinsider.com/articles/24/05/22/iphone-16-button-rumors-what-the-rumor-mill-thinks-is-coming?utm_medium=rss)
- - [Airbnb entices hosts with discounted EV chargers](https://www.theverge.com/2024/5/22/24162372/airbnb-chargepoint-ev-charging-station-discount-install)
- - [Panasonic wants to play Fujifilm’s filter game with the new Lumix S9](https://www.theverge.com/24161722/panasonic-lumix-s9-full-frame-camera)
- - [Teslas Can Still Be Stolen With a Cheap Radio Hack—Despite New Keyless Tech](https://www.wired.com/story/tesla-ultra-wideband-radio-relay-attacks/)<!-- TECH:END -->
+ - [Airbnb entices hosts with discounted EV chargers](https://www.theverge.com/2024/5/22/24162372/airbnb-chargepoint-ev-charging-station-discount-install)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

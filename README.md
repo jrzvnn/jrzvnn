@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Logic](http://9gag.com/gag/avyZD3q)
+ - 😝 [That&#39;s not water...](http://9gag.com/gag/ae93PWm)
+ - 💣 [What a cool dad](http://9gag.com/gag/amoLby9)
  - 😝 [Haven&#39;t seen this one yet](http://9gag.com/gag/aGyVoAX)
- - 😝 [It really makes me happy watching them playing with old fashion classic games.](http://9gag.com/gag/aGyV6V5)
- - 💣 [Internet trick you didn\u2019t know](http://9gag.com/gag/aoyZdOg)
- - 😝 [Loyalty!](http://9gag.com/gag/aRBgN2q)
- - 👉 [What a cool dad](http://9gag.com/gag/amoLby9)<!-- MEMES:END -->
+ - 👉 [Palestine slogan is hate speech](http://9gag.com/gag/aPAyzDg)<!-- MEMES:END -->
 
 ---
 

@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here’s your first look at Liam Hemsworth in The Witcher](https://www.theverge.com/2024/5/22/24162497/the-witcher-netflix-liam-hemsworth)
  - [Spotify begins rolling out Spotify Mix, a new bespoke typeface, replacing the Circular typeface variant on everything from playlists to marketing campaigns &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240522/p18#a240522p18)
  - [Spotify made its own font, and it’s going everywhere inside the app](https://www.theverge.com/2024/5/22/24162464/spotify-mix-typeface-font-announcement-design-update)
  - [Apple is ignoring Congo&#39;s accusations over conflict materials, say lawyers](https://appleinsider.com/articles/24/05/22/apple-is-ignoring-congos-accusations-over-conflict-materials-say-lawyers?utm_medium=rss)
- - [Amazon Alexa’s big AI upgrade could require a new subscription](https://www.theverge.com/2024/5/22/24162412/amazon-alexa-ai-upgrade-subscription-fee-extra)
- - [AWS plans to invest &amp;euro;15.7B in data centers in Spain&#39;s Aragon region, replacing a 2021 plan to spend &amp;euro;2.5B; the Aragon government says the deal is over 10 years &lpar;Reuters&rpar;](http://www.techmeme.com/240522/p17#a240522p17)<!-- TECH:END -->
+ - [Amazon Alexa’s big AI upgrade could require a new subscription](https://www.theverge.com/2024/5/22/24162412/amazon-alexa-ai-upgrade-subscription-fee-extra)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

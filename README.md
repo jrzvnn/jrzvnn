@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This Study Should Make You NERVOUS.](http://9gag.com/gag/apRojyb)
- - 😝 [Tommy Cooper in his last show. notice the people laughing at the end because they thought it was part of the act but the comedian legend was out... RIP.](http://9gag.com/gag/an7XVr0)
- - 💣 [Roast me baby one more time](http://9gag.com/gag/aLnQVwv)
- - 😝 [There is no red in this picture; your brain is filling in the red color. The picture is made up entirely of light blue, black, and white.](http://9gag.com/gag/agm0jR1)
- - 👉 [Just a conspiracy](http://9gag.com/gag/a34dxP8)<!-- MEMES:END -->
+ - 😝 [1996 Seoul, a fan climb up the crane, MJ held him from falling the whole time while performing](http://9gag.com/gag/aByQbP2)
+ - 😝 [Just breaking news. Nothing to see here.](http://9gag.com/gag/aGyV6L6)
+ - 💣 [Tommy Cooper in his last show. notice the people laughing at the end because they thought it was part of the act but the comedian legend was out... RIP.](http://9gag.com/gag/an7XVr0)
+ - 😝 [Just don&#39;t](http://9gag.com/gag/a9yM4Gj)
+ - 👉 [Thats my Justin, keep it up](http://9gag.com/gag/aNDoXAb)<!-- MEMES:END -->
 
 ---
 

@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Feeling old yet? Eminem\u2019s daughter Hailie Jade just got married](http://9gag.com/gag/azxLQNz)
- - 😝 [Tommy Cooper in his last show. notice the people laughing at the end because they thought it was part of the act but the comedian legend was out... RIP.](http://9gag.com/gag/an7XVr0)
- - 💣 [Just breaking news. Nothing to see here.](http://9gag.com/gag/aGyV6L6)
- - 😝 [Not safe for muslim](http://9gag.com/gag/aKGgNXQ)
- - 👉 [Just don&#39;t](http://9gag.com/gag/a9yM4Gj)<!-- MEMES:END -->
+ - 😝 [What a 6000ft drop can do to a plane.](http://9gag.com/gag/aVvQ4z2)
+ - 😝 [1996 Seoul, a fan climb up the crane, MJ held him from falling the whole time while performing](http://9gag.com/gag/aByQbP2)
+ - 💣 [Not safe for muslim](http://9gag.com/gag/aKGgNXQ)
+ - 😝 [Just don&#39;t](http://9gag.com/gag/a9yM4Gj)
+ - 👉 [Tommy Cooper in his last show. notice the people laughing at the end because they thought it was part of the act but the comedian legend was out... RIP.](http://9gag.com/gag/an7XVr0)<!-- MEMES:END -->
 
 ---
 

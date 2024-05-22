@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What a cool dad](http://9gag.com/gag/amoLby9)
- - 😝 [5.1 K upvotes and then deleted - did I break a record?](http://9gag.com/gag/ae93d7p)
- - 💣 [Smashing the old lining of a chimney](http://9gag.com/gag/a0ePxoq)
- - 😝 [Trust is the only currency](http://9gag.com/gag/a87bXyd)
- - 👉 [Insurance scam](http://9gag.com/gag/aByQvwA)<!-- MEMES:END -->
+ - 😝 [How to stop Google listening to your conversation](http://9gag.com/gag/aMVbN3V)
+ - 😝 [That&#39;s not water...](http://9gag.com/gag/ae93PWm)
+ - 💣 [It\u2019s good entertainment though](http://9gag.com/gag/an7X8yB)
+ - 😝 [What a 6000ft drop can do to a plane.](http://9gag.com/gag/aVvQ4z2)
+ - 👉 [Women are complicated](http://9gag.com/gag/amoLb4j)<!-- MEMES:END -->
 
 ---
 

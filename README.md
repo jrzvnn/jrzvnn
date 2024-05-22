@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Paytm&#39;s parent One 97 Communications reports a $66.1M net loss in Q4, up from $20.11M in Q4 2023, on $272.3M revenue, as it grappled with a regulatory clampdown &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240522/p3#a240522p3)
  - [AWS says the transition from Nvidia&#39;s Grace Hopper to Blackwell chips applies only to Project Ceiba, a supercomputer that AWS and Nvidia are building together &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/240522/p2#a240522p2)
  - [London-based LabGenius, which uses ML to find and design antibody therapies to treat cancer, raised a &amp;pound;35M Series B led by Merck&#39;s VC arm, M Ventures &lpar;Mimi Billing/Sifted&rpar;](http://www.techmeme.com/240522/p1#a240522p1)
  - [Toulouse-based OneStock, which provides a cloud-native order management system to retailers, raised $72M from Summit Partners for its continued global expansion &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/240521/p45#a240521p45)
- - [Apple&#39;s 16-inch MacBook Pro drops to all-time low price of $1,798](https://appleinsider.com/articles/24/05/22/apples-16-inch-macbook-pro-drops-to-all-time-low-price-of-1798?utm_medium=rss)
- - [Sources: Snowflake&#39;s talks to acquire Reka AI, which builds LLMs for businesses, for more than $1B have broken down &lpar;Bloomberg&rpar;](http://www.techmeme.com/240521/p44#a240521p44)<!-- TECH:END -->
+ - [Apple&#39;s 16-inch MacBook Pro drops to all-time low price of $1,798](https://appleinsider.com/articles/24/05/22/apples-16-inch-macbook-pro-drops-to-all-time-low-price-of-1798?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

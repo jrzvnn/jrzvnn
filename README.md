@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to stop Google listening to your conversation](http://9gag.com/gag/aMVbN3V)
- - 😝 [That&#39;s not water...](http://9gag.com/gag/ae93PWm)
- - 💣 [It\u2019s good entertainment though](http://9gag.com/gag/an7X8yB)
- - 😝 [What a 6000ft drop can do to a plane.](http://9gag.com/gag/aVvQ4z2)
- - 👉 [Women are complicated](http://9gag.com/gag/amoLb4j)<!-- MEMES:END -->
+ - 😝 [The actual bananas is this?!](http://9gag.com/gag/a5QNyEq)
+ - 😝 [Pro-Hamas professor at UCLA goes completely UNHINGED after seeing a Jewish student holding an Israeli flag.](http://9gag.com/gag/aXPEdqP)
+ - 💣 [Keep this kid off of social media](http://9gag.com/gag/azxLD3Z)
+ - 😝 [It\u2019s good entertainment though](http://9gag.com/gag/an7X8yB)
+ - 👉 [Insurance scam](http://9gag.com/gag/aByQvwA)<!-- MEMES:END -->
 
 ---
 

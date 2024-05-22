@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: AI chip startup Groq has told investors it wants to raise about $300M by the end of month; Groq previously raised more than $367M at a $1B+ valuation &lpar;The Information&rpar;](http://www.techmeme.com/240522/p24#a240522p24)
+ - [Political ads could require AI-generated content disclosures soon](https://www.theverge.com/2024/5/22/24162676/fcc-ai-generated-political-ads-disclosure-federal-communications-commission)
+ - [You can get rid of AI Overviews in Google Search](https://www.theverge.com/24162621/google-search-ai-overviews-get-rid-of)
  - [Intercontinental Exchange, which owns the NYSE, agreed to pay $10M to settle SEC allegations that it failed to immediately tell the agency about a hack in 2021 &lpar;Austin Weinstein/Bloomberg&rpar;](http://www.techmeme.com/240522/p23#a240522p23)
- - [UK court calls man claiming to have invented Bitcoin a liar](https://www.theverge.com/2024/5/22/24162675/craig-wright-bitcoin-satoshi-nakamoto-ruling)
- - [You can now install Windows 11’s next big update early](https://www.theverge.com/2024/5/22/24162671/microsoft-windows-11-24h2-release-preview-download)
- - [Google Pay will start showing credit card benefits at checkout](https://www.theverge.com/2024/5/22/24162601/google-pay-card-benefits-buy-now-later-auto-fill)
- - [Lawmakers debate ending Section 230 in order to save it](https://www.theverge.com/2024/5/22/24161150/section-230-tech-liability-shield-sunset)<!-- TECH:END -->
+ - [UK court calls man claiming to have invented Bitcoin a liar](https://www.theverge.com/2024/5/22/24162675/craig-wright-bitcoin-satoshi-nakamoto-ruling)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

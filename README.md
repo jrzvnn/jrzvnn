@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The actual bananas is this?!](http://9gag.com/gag/a5QNyEq)
- - 😝 [Pro-Hamas professor at UCLA goes completely UNHINGED after seeing a Jewish student holding an Israeli flag.](http://9gag.com/gag/aXPEdqP)
- - 💣 [Keep this kid off of social media](http://9gag.com/gag/azxLD3Z)
  - 😝 [It\u2019s good entertainment though](http://9gag.com/gag/an7X8yB)
- - 👉 [Insurance scam](http://9gag.com/gag/aByQvwA)<!-- MEMES:END -->
+ - 😝 [Obviously these arguments require you to take your clothes off... Right?](http://9gag.com/gag/a7oKpjq)
+ - 💣 [There is no red in this picture; your brain is filling in the red color. The picture is made up entirely of light blue, black, and white.](http://9gag.com/gag/agm0jR1)
+ - 😝 [Cruise ships have graveyards](http://9gag.com/gag/aVvQdww)
+ - 👉 [5.1 K upvotes and then deleted - did I break a record?](http://9gag.com/gag/ae93d7p)<!-- MEMES:END -->
 
 ---
 

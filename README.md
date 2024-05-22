@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese smartphone maker Honor plans to include Google&#39;s Gemini and Imagen 2, powered by Google Cloud, in upcoming devices, one of the first companies to do so &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/240522/p9#a240522p9)
+ - [New Beats Pill speaker rumbles closer after appearance in FCC database](https://appleinsider.com/articles/24/05/22/new-beats-pill-speaker-rumbles-closer-after-appearance-in-fcc-database?utm_medium=rss)
  - [A review of privacy-focused /e/OS, a fully &quot;deGoogled&quot; OS based on the Android Open Source Project, that combines Micro G, to handle Google APIs, and LineageOS &lpar;Scott Gilbertson/Wired&rpar;](http://www.techmeme.com/240522/p8#a240522p8)
  - [A Far-Right Indian News Site Posts Racist Conspiracies. US Tech Firms Are Profiting From It](https://www.wired.com/story/india-opindia-google-facebook-advertising/)
- - [Local Coworking Spaces Thrive Where WeWork Dared Not Go](https://www.wired.com/story/local-coworking-spaces-thrive-where-wework-dared-not-go/)
- - [Cambridge-based Raspberry Pi confirms plans for a London Stock Exchange IPO, aiming to raise $40M and listing in June, and reports $265.8M in 2023 revenue &lpar;Thyagaraju Adinarayan/Bloomberg&rpar;](http://www.techmeme.com/240522/p7#a240522p7)
- - [We Stood on Both Sides of the New York–Dublin Portal and It Was Glorious](https://www.wired.com/story/new-york-dublin-portal-reopening/)<!-- TECH:END -->
+ - [Local Coworking Spaces Thrive Where WeWork Dared Not Go](https://www.wired.com/story/local-coworking-spaces-thrive-where-wework-dared-not-go/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

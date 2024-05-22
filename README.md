@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [NASA’s Psyche mission fires up its futuristic electric engines](https://www.theverge.com/2024/5/22/24162775/nasa-psyche-mission-hall-thruster-asteroid-belt-mars)
  - [Nvidia will now make new AI chips every year](https://www.theverge.com/2024/5/22/24162860/nvidia-ai-chip-every-year-blackwell-rubin)
  - [Portland-based Hydrolix, a data lake service that offers a repository for log data, raised a $35M Series B led by S3 Ventures, bringing its total raised to $68M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240522/p31#a240522p31)
- - [The US House passes the Financial Innovation and Technology for the 21st Century Act, or FIT21, which would create a regulatory framework for digital assets &lpar;Andr&amp;eacute; Beganski/Decrypt&rpar;](http://www.techmeme.com/240522/p30#a240522p30)
- - [Truecaller and Microsoft will let users make an AI voice to answer calls](https://www.theverge.com/2024/5/22/24162753/truecaller-ai-microsoft-azure-voice-assistant)<!-- TECH:END -->
+ - [Apple Updates Maps, Wallet Ahead of the Paris Olympics     - CNET](https://www.cnet.com/tech/mobile/apple-updates-maps-wallet-ahead-of-the-paris-olympics/#ftag=CAD590a51e)
+ - [The US House passes the Financial Innovation and Technology for the 21st Century Act, or FIT21, which would create a regulatory framework for digital assets &lpar;Andr&amp;eacute; Beganski/Decrypt&rpar;](http://www.techmeme.com/240522/p30#a240522p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

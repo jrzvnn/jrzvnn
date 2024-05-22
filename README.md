@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Insurance scam](http://9gag.com/gag/aByQvwA)
+ - 😝 [Just breaking news. Nothing to see here.](http://9gag.com/gag/aGyV6L6)
  - 😝 [Not safe for muslim](http://9gag.com/gag/aKGgNXQ)
- - 💣 [Just breaking news. Nothing to see here.](http://9gag.com/gag/aGyV6L6)
- - 😝 [Just don&#39;t](http://9gag.com/gag/a9yM4Gj)
- - 👉 [Just a conspiracy](http://9gag.com/gag/a34dxP8)<!-- MEMES:END -->
+ - 💣 [Just don&#39;t](http://9gag.com/gag/a9yM4Gj)
+ - 😝 [Feeling old yet? Eminem\u2019s daughter Hailie Jade just got married](http://9gag.com/gag/azxLQNz)
+ - 👉 [Tommy Cooper in his last show. notice the people laughing at the end because they thought it was part of the act but the comedian legend was out... RIP.](http://9gag.com/gag/an7XVr0)<!-- MEMES:END -->
 
 ---
 

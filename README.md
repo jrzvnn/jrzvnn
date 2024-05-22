@@ -167,7 +167,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Sources: AI chip startup Groq has told investors it wants to raise about $300M by the end of month; Groq previously raised more than $367M at a $1B+ valuation &lpar;The Information&rpar;](http://www.techmeme.com/240522/p24#a240522p24)
  - [Political ads could require AI-generated content disclosures soon](https://www.theverge.com/2024/5/22/24162676/fcc-ai-generated-political-ads-disclosure-federal-communications-commission)
  - [You can get rid of AI Overviews in Google Search](https://www.theverge.com/24162621/google-search-ai-overviews-get-rid-of)
- - [Intercontinental Exchange, which owns the NYSE, agreed to pay $10M to settle SEC allegations that it failed to immediately tell the agency about a hack in 2021 &lpar;Austin Weinstein/Bloomberg&rpar;](http://www.techmeme.com/240522/p23#a240522p23)<!-- TECH:END -->
+ - [Humane, Maker of Wearable AI Pin, Is Exploring a Sale, Report Says     - CNET](https://www.cnet.com/tech/mobile/humane-maker-of-wearable-ai-pin-is-exploring-a-sale-report-says/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

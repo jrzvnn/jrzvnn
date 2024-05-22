@@ -164,10 +164,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Sources: Snowflake&#39;s talks to acquire Reka AI, which builds LLMs for businesses, for more than $1B have broken down &lpar;Bloomberg&rpar;](http://www.techmeme.com/240521/p44#a240521p44)
+ - [Today&#39;s Wordle Hints and Answer: Help for May 22, #1068     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-and-answer-help-for-may-22-1068/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints and Answers: Help for May 22, #346     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hints-answer-help-for-may-22-346/#ftag=CAD590a51e)
  - [Apple&#39;s new diversity exec hails from Bank of America](https://appleinsider.com/articles/24/05/22/apples-new-diversity-exec-hails-from-bank-of-america?utm_medium=rss)
- - [If You Can&#39;t Pay Your Credit Card Bills This Month, Here&#39;s What You Can Do     - CNET](https://www.cnet.com/personal-finance/credit-cards/if-you-cant-pay-your-credit-card-bills-this-month-heres-what-you-can-do/#ftag=CAD590a51e)
- - [VC firm Alicorn agrees to take Glassbox private in a deal worth ~$150M; the analytics software company was valued at ~$500M in June 2021 in its Tel Aviv IPO &lpar;Almog Azar/CTech&rpar;](http://www.techmeme.com/240521/p43#a240521p43)
- - [Humane is looking for a buyer after the AI Pin’s underwhelming debut](https://www.theverge.com/2024/5/21/24162185/humane-seeking-acquisition-rumor-ai-pin)<!-- TECH:END -->
+ - [Memorial Day 2024: Over 30 Best Early Deals to Shop Today     - CNET](https://www.cnet.com/deals/best-memorial-day-sales/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

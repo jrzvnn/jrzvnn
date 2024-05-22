@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice guys finish last](http://9gag.com/gag/aYQpRYV)
- - 😝 [Emergency exit row passenger gets kicked off after refusing to acknowledge flight attendant&#39;s pre-flight exit row safety instructions, gets arrested](http://9gag.com/gag/aD2wQ1N)
- - 💣 [What a 6000ft drop can do to a plane.](http://9gag.com/gag/aVvQ4z2)
- - 😝 [If there is no cat living in your house.](http://9gag.com/gag/aVvQRo8)
- - 👉 [Should I give my seat to a women?](http://9gag.com/gag/aMVbWLW)<!-- MEMES:END -->
+ - 😝 [Roast me baby one more time](http://9gag.com/gag/aLnQVwv)
+ - 😝 [He slept on the couch that day!!](http://9gag.com/gag/amoLdPy)
+ - 💣 [Typical](http://9gag.com/gag/aW40N84)
+ - 😝 [What a 6000ft drop can do to a plane.](http://9gag.com/gag/aVvQ4z2)
+ - 👉 [Ok What Now??](http://9gag.com/gag/aD2wNOG)<!-- MEMES:END -->
 
 ---
 

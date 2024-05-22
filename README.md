@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh no... Sucks to be them right now...](http://9gag.com/gag/aoyZGng)
- - 😝 [Based Korea](http://9gag.com/gag/a5QN90L)
- - 💣 [Men these days...](http://9gag.com/gag/aD2wLdK)
- - 😝 [Reasonable fear](http://9gag.com/gag/a9yMevm)
- - 👉 [Gotta save em all](http://9gag.com/gag/aqyZOyY)<!-- MEMES:END -->
+ - 😝 [Just breaking news. Nothing to see here.](http://9gag.com/gag/aGyV6L6)
+ - 😝 [What a 6000ft drop can do to a plane.](http://9gag.com/gag/aVvQ4z2)
+ - 💣 [Thats my Justin, keep it up](http://9gag.com/gag/aNDoXAb)
+ - 😝 [Women&#39;s Studies students spend $60k a year of their parents&#39; money to learn a screaming course against the patriarchy](http://9gag.com/gag/a9yMVbL)
+ - 👉 [That&#39;s what grandmas are for](http://9gag.com/gag/aD2wqZZ)<!-- MEMES:END -->
 
 ---
 

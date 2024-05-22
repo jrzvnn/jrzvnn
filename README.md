@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The average woman these days](http://9gag.com/gag/aD2wP4O)
- - 😝 [Just a conspiracy](http://9gag.com/gag/a34dxP8)
- - 💣 [It\u2019s good entertainment though](http://9gag.com/gag/an7X8yB)
- - 😝 [Insurance scam](http://9gag.com/gag/aByQvwA)
- - 👉 [Just don&#39;t](http://9gag.com/gag/a9yM4Gj)<!-- MEMES:END -->
+ - 😝 [This Study Should Make You NERVOUS.](http://9gag.com/gag/apRojyb)
+ - 😝 [Tommy Cooper in his last show. notice the people laughing at the end because they thought it was part of the act but the comedian legend was out... RIP.](http://9gag.com/gag/an7XVr0)
+ - 💣 [Roast me baby one more time](http://9gag.com/gag/aLnQVwv)
+ - 😝 [There is no red in this picture; your brain is filling in the red color. The picture is made up entirely of light blue, black, and white.](http://9gag.com/gag/agm0jR1)
+ - 👉 [Just a conspiracy](http://9gag.com/gag/a34dxP8)<!-- MEMES:END -->
 
 ---
 

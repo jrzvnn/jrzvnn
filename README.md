@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Volkswagen is delaying its ID.7 electric sedan in North America](https://www.theverge.com/2024/5/22/24162459/volkswagen-2024-id7-electric-sedan-delay-north-america-us-ev)
  - [Shazam can now run in the background with Live Activities](https://appleinsider.com/articles/24/05/22/shazam-can-now-run-in-the-background-with-live-activities?utm_medium=rss)
  - [Old iPads are a staple in US homes, long after they&#39;ve gone obsolete](https://appleinsider.com/articles/24/05/22/old-ipads-are-a-staple-in-us-homes-long-after-theyve-gone-obsolete?utm_medium=rss)
  - [Here’s your first look at Liam Hemsworth in The Witcher](https://www.theverge.com/2024/5/22/24162497/the-witcher-netflix-liam-hemsworth)
- - [Spotify begins rolling out Spotify Mix, a new bespoke font, replacing the Circular typeface variant used in everything from playlists to marketing campaigns &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240522/p18#a240522p18)
- - [Spotify made its own font, and it’s going everywhere inside the app](https://www.theverge.com/2024/5/22/24162464/spotify-mix-typeface-font-announcement-design-update)<!-- TECH:END -->
+ - [Spotify begins rolling out Spotify Mix, a new bespoke font, replacing the Circular typeface variant used in everything from playlists to marketing campaigns &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240522/p18#a240522p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

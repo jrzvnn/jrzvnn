@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Intercontinental Exchange, which owns the NYSE, agreed to pay $10M to settle SEC allegations that it failed to immediately tell the agency about a hack in 2021 &lpar;Austin Weinstein/Bloomberg&rpar;](http://www.techmeme.com/240522/p23#a240522p23)
+ - [UK court calls man claiming to have invented Bitcoin a liar](https://www.theverge.com/2024/5/22/24162675/craig-wright-bitcoin-satoshi-nakamoto-ruling)
  - [You can now install Windows 11’s next big update early](https://www.theverge.com/2024/5/22/24162671/microsoft-windows-11-24h2-release-preview-download)
  - [Google Pay will start showing credit card benefits at checkout](https://www.theverge.com/2024/5/22/24162601/google-pay-card-benefits-buy-now-later-auto-fill)
- - [Lawmakers debate ending Section 230 in order to save it](https://www.theverge.com/2024/5/22/24161150/section-230-tech-liability-shield-sunset)
- - [Techstars CEO Ma&amp;euml;lle Gavet says she is leaving at the end of May for health reasons; Techstars co-founder and board chairman David Cohen will become the new CEO &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/240522/p22#a240522p22)
- - [Best Home Equity Line of Credit &lpar;HELOC&rpar; Rates for May 2024     - CNET](https://www.cnet.com/personal-finance/heloc-rates/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Lawmakers debate ending Section 230 in order to save it](https://www.theverge.com/2024/5/22/24161150/section-230-tech-liability-shield-sunset)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

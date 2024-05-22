@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NASA’s Psyche mission fires up its futuristic electric engines](https://www.theverge.com/2024/5/22/24162775/nasa-psyche-mission-hall-thruster-asteroid-belt-mars)
+ - [Nvidia will now make new AI chips every year](https://www.theverge.com/2024/5/22/24162860/nvidia-ai-chip-every-year-blackwell-rubin)
  - [Portland-based Hydrolix, a data lake service that offers a repository for log data, raised a $35M Series B led by S3 Ventures, bringing its total raised to $68M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240522/p31#a240522p31)
  - [The US House passes the Financial Innovation and Technology for the 21st Century Act, or FIT21, which would create a regulatory framework for digital assets &lpar;Andr&amp;eacute; Beganski/Decrypt&rpar;](http://www.techmeme.com/240522/p30#a240522p30)
- - [Truecaller and Microsoft will let users make an AI voice to answer calls](https://www.theverge.com/2024/5/22/24162753/truecaller-ai-microsoft-azure-voice-assistant)
- - [The best Memorial Day deals you can already get](https://www.theverge.com/24161521/best-memorial-day-sales-2024-tech-deals-tvs-headphones-robot-vacuums-electronics)
- - [23 Tips and Tricks to Maximize Your iPhone Experience     - CNET](https://www.cnet.com/tech/mobile/23-tips-and-tricks-to-maximize-your-iphone-experience/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Truecaller and Microsoft will let users make an AI voice to answer calls](https://www.theverge.com/2024/5/22/24162753/truecaller-ai-microsoft-azure-voice-assistant)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

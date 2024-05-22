@@ -163,10 +163,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AWS says the transition from Nvidia&#39;s Grace Hopper to Blackwell chips applies only to Project Ceiba, a supercomputer that AWS and Nvidia are building together &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/240522/p2#a240522p2)
  - [London-based LabGenius, which uses ML to find and design antibody therapies to treat cancer, raised a &amp;pound;35M Series B led by Merck&#39;s VC arm, M Ventures &lpar;Mimi Billing/Sifted&rpar;](http://www.techmeme.com/240522/p1#a240522p1)
  - [Toulouse-based OneStock, which provides a cloud-native order management system to retailers, raised $72M from Summit Partners for its continued global expansion &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/240521/p45#a240521p45)
  - [Apple&#39;s 16-inch MacBook Pro drops to all-time low price of $1,798](https://appleinsider.com/articles/24/05/22/apples-16-inch-macbook-pro-drops-to-all-time-low-price-of-1798?utm_medium=rss)
- - [Best Weightlifting Shoes for 2024     - CNET](https://www.cnet.com/health/fitness/best-weightlifting-shoes/#ftag=CAD590a51e)
  - [Sources: Snowflake&#39;s talks to acquire Reka AI, which builds LLMs for businesses, for more than $1B have broken down &lpar;Bloomberg&rpar;](http://www.techmeme.com/240521/p44#a240521p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

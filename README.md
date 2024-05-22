@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The average woman these days](http://9gag.com/gag/aD2wP4O)
  - 😝 [What a 6000ft drop can do to a plane.](http://9gag.com/gag/aVvQ4z2)
- - 💣 [That&#39;s not water...](http://9gag.com/gag/ae93PWm)
  - 😝 [Feeling old yet? Eminem\u2019s daughter Hailie Jade just got married](http://9gag.com/gag/azxLQNz)
- - 👉 [Not safe for muslim](http://9gag.com/gag/aKGgNXQ)<!-- MEMES:END -->
+ - 💣 [Not safe for muslim](http://9gag.com/gag/aKGgNXQ)
+ - 😝 [Women&#39;s Studies students spend $60k a year of their parents&#39; money to learn a screaming course against the patriarchy](http://9gag.com/gag/a9yMVbL)
+ - 👉 [Enormous Plasma Wall spotted on the Sun](http://9gag.com/gag/azxLDxj)<!-- MEMES:END -->
 
 ---
 

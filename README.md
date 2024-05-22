@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just don&#39;t](http://9gag.com/gag/a9yM4Gj)
- - 😝 [Women&#39;s Studies students spend $60k a year of their parents&#39; money to learn a screaming course against the patriarchy](http://9gag.com/gag/a9yMVbL)
- - 💣 [1996 Seoul, a fan climb up the crane, MJ held him from falling the whole time while performing](http://9gag.com/gag/aByQbP2)
- - 😝 [Just a conspiracy](http://9gag.com/gag/a34dxP8)
- - 👉 [Living her best life...](http://9gag.com/gag/aQzpB48)<!-- MEMES:END -->
+ - 😝 [Oh no... Sucks to be them right now...](http://9gag.com/gag/aoyZGng)
+ - 😝 [Based Korea](http://9gag.com/gag/a5QN90L)
+ - 💣 [Men these days...](http://9gag.com/gag/aD2wLdK)
+ - 😝 [Reasonable fear](http://9gag.com/gag/a9yMevm)
+ - 👉 [Gotta save em all](http://9gag.com/gag/aqyZOyY)<!-- MEMES:END -->
 
 ---
 

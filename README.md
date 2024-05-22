@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just breaking news. Nothing to see here.](http://9gag.com/gag/aGyV6L6)
  - 😝 [What a 6000ft drop can do to a plane.](http://9gag.com/gag/aVvQ4z2)
- - 💣 [Thats my Justin, keep it up](http://9gag.com/gag/aNDoXAb)
- - 😝 [Women&#39;s Studies students spend $60k a year of their parents&#39; money to learn a screaming course against the patriarchy](http://9gag.com/gag/a9yMVbL)
- - 👉 [That&#39;s what grandmas are for](http://9gag.com/gag/aD2wqZZ)<!-- MEMES:END -->
+ - 😝 [1996 Seoul, a fan climb up the crane, MJ held him from falling the whole time while performing](http://9gag.com/gag/aByQbP2)
+ - 💣 [That&#39;s what grandmas are for](http://9gag.com/gag/aD2wqZZ)
+ - 😝 [Thats my Justin, keep it up](http://9gag.com/gag/aNDoXAb)
+ - 👉 [Living her best life...](http://9gag.com/gag/aQzpB48)<!-- MEMES:END -->
 
 ---
 

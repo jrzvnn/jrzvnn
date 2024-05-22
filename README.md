@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [1996 Seoul, a fan climb up the crane, MJ held him from falling the whole time while performing](http://9gag.com/gag/aByQbP2)
- - 😝 [What a 6000ft drop can do to a plane.](http://9gag.com/gag/aVvQ4z2)
- - 💣 [Feeling old yet? Eminem\u2019s daughter Hailie Jade just got married](http://9gag.com/gag/azxLQNz)
- - 😝 [Just don&#39;t](http://9gag.com/gag/a9yM4Gj)
- - 👉 [That&#39;s what grandmas are for](http://9gag.com/gag/aD2wqZZ)<!-- MEMES:END -->
+ - 😝 [The average woman these days](http://9gag.com/gag/aD2wP4O)
+ - 😝 [Just a conspiracy](http://9gag.com/gag/a34dxP8)
+ - 💣 [It\u2019s good entertainment though](http://9gag.com/gag/an7X8yB)
+ - 😝 [Insurance scam](http://9gag.com/gag/aByQvwA)
+ - 👉 [Just don&#39;t](http://9gag.com/gag/a9yM4Gj)<!-- MEMES:END -->
 
 ---
 

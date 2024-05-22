@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [VC firm Alicorn agrees to take Glassbox private in a deal worth ~$150M; the analytics software company was valued at ~$500M in June 2021 in its Tel Aviv IPO &lpar;Almog Azar/CTech&rpar;](http://www.techmeme.com/240521/p43#a240521p43)
  - [Humane is looking for a buyer after the AI Pin’s underwhelming debut](https://www.theverge.com/2024/5/21/24162185/humane-seeking-acquisition-rumor-ai-pin)
  - [The UK ICO is &quot;making enquiries with Microsoft&quot; over the company&#39;s Recall feature, which some privacy campaigners have called a potential &quot;privacy nightmare&quot; &lpar;Imran Rahman-Jones/BBC&rpar;](http://www.techmeme.com/240521/p42#a240521p42)
  - [WitnessAI, which intercepts employees&#39; use of custom generative AI models and applies safeguards, raised a $27.5M Series A co-led by GV and Ballistic Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240521/p41#a240521p41)
- - [How to Read an EnergyGuide Label     - CNET](https://www.cnet.com/how-to/how-to-read-an-energyguide-label/#ftag=CAD590a51e)
- - [Sources: Humane is seeking a buyer for its business, after the rocky launch of its AI pin; a source says the startup is seeking a price of between $750M and $1B &lpar;Bloomberg&rpar;](http://www.techmeme.com/240521/p40#a240521p40)<!-- TECH:END -->
+ - [How to Read an EnergyGuide Label     - CNET](https://www.cnet.com/how-to/how-to-read-an-energyguide-label/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

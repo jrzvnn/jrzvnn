@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Shazam can now run in the background with Live Activities](https://appleinsider.com/articles/24/05/22/shazam-can-now-run-in-the-background-with-live-activities?utm_medium=rss)
+ - [Old iPads are a staple in US homes, long after they&#39;ve gone obsolete](https://appleinsider.com/articles/24/05/22/old-ipads-are-a-staple-in-us-homes-long-after-theyve-gone-obsolete?utm_medium=rss)
  - [Here’s your first look at Liam Hemsworth in The Witcher](https://www.theverge.com/2024/5/22/24162497/the-witcher-netflix-liam-hemsworth)
- - [Spotify begins rolling out Spotify Mix, a new bespoke typeface, replacing the Circular typeface variant on everything from playlists to marketing campaigns &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240522/p18#a240522p18)
- - [Spotify made its own font, and it’s going everywhere inside the app](https://www.theverge.com/2024/5/22/24162464/spotify-mix-typeface-font-announcement-design-update)
- - [Apple is ignoring Congo&#39;s accusations over conflict materials, say lawyers](https://appleinsider.com/articles/24/05/22/apple-is-ignoring-congos-accusations-over-conflict-materials-say-lawyers?utm_medium=rss)
- - [Amazon Alexa’s big AI upgrade could require a new subscription](https://www.theverge.com/2024/5/22/24162412/amazon-alexa-ai-upgrade-subscription-fee-extra)<!-- TECH:END -->
+ - [Spotify begins rolling out Spotify Mix, a new bespoke font, replacing the Circular typeface variant used in everything from playlists to marketing campaigns &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240522/p18#a240522p18)
+ - [Spotify made its own font, and it’s going everywhere inside the app](https://www.theverge.com/2024/5/22/24162464/spotify-mix-typeface-font-announcement-design-update)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

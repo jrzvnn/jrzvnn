@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Men these days...](http://9gag.com/gag/aD2wLdK)
  - 😝 [1996 Seoul, a fan climb up the crane, MJ held him from falling the whole time while performing](http://9gag.com/gag/aByQbP2)
- - 😝 [Feeling old yet? Eminem\u2019s daughter Hailie Jade just got married](http://9gag.com/gag/azxLQNz)
- - 💣 [Just a conspiracy](http://9gag.com/gag/a34dxP8)
- - 😝 [Thats my Justin, keep it up](http://9gag.com/gag/aNDoXAb)
- - 👉 [Roast me baby one more time](http://9gag.com/gag/aLnQVwv)<!-- MEMES:END -->
+ - 💣 [Diversity Biryani.....](http://9gag.com/gag/aO8ynQy)
+ - 😝 [Gotta save em all](http://9gag.com/gag/aqyZOyY)
+ - 👉 [Oh no... Sucks to be them right now...](http://9gag.com/gag/aoyZGng)<!-- MEMES:END -->
 
 ---
 

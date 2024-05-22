@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You can now install Windows 11’s next big update early](https://www.theverge.com/2024/5/22/24162671/microsoft-windows-11-24h2-release-preview-download)
  - [Google Pay will start showing credit card benefits at checkout](https://www.theverge.com/2024/5/22/24162601/google-pay-card-benefits-buy-now-later-auto-fill)
  - [Lawmakers debate ending Section 230 in order to save it](https://www.theverge.com/2024/5/22/24161150/section-230-tech-liability-shield-sunset)
  - [Techstars CEO Ma&amp;euml;lle Gavet says she is leaving at the end of May for health reasons; Techstars co-founder and board chairman David Cohen will become the new CEO &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/240522/p22#a240522p22)
- - [Big Tech thinks it can plant trees better than everyone else](https://www.theverge.com/2024/5/22/24162428/google-meta-microsoft-salesforce-symbiosis-coalition-nature-carbon-removal-forest-offsets)
- - [Doc: WhatsApp staff warned of traffic analysis flaws where attackers may reveal who is in a conversation; Meta calls them theoretical and not unique to WhatsApp &lpar;Sam Biddle/The Intercept&rpar;](http://www.techmeme.com/240522/p21#a240522p21)<!-- TECH:END -->
+ - [Big Tech thinks it can plant trees better than everyone else](https://www.theverge.com/2024/5/22/24162428/google-meta-microsoft-salesforce-symbiosis-coalition-nature-carbon-removal-forest-offsets)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

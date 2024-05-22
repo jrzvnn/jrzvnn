@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Marvel’s Vision-focused Disney Plus series is coming in 2026](https://www.theverge.com/2024/5/22/24162626/vision-disney-plus-terry-matalas-wandavision)
+ - [Meta’s Ray-Ban glasses will post Instagram stories for you](https://www.theverge.com/2024/5/22/24162590/meta-ray-ban-glasses-instagram-stories-hands-free)
  - [Furiosa is a leaner, meaner Mad Max story](https://www.theverge.com/24161853/furiosa-mad-max-review)
  - [T-Mobile is raising prices on several of its plans](https://www.theverge.com/2024/5/22/24162490/t-mobile-price-increase-magenta-one-simple-choice-plans)
- - [15 Best Mattresses You Can Buy Online &lpar;2024&rpar; | Tested and Reviewed](https://www.wired.com/gallery/best-mattresses/)
- - [Zuckerberg creates the Meta Advisory Group with Patrick Collison, Nat Friedman, Tobi L&amp;uuml;tke, and Charlie Songhurst, to advise on tech and growth opportunities &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/240522/p20#a240522p20)
- - [TikTok launches its Symphony AI suite for brands, using generative AI to let marketers write scripts, produce videos, and enhance current assets &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240522/p19#a240522p19)<!-- TECH:END -->
+ - [15 Best Mattresses You Can Buy Online &lpar;2024&rpar; | Tested and Reviewed](https://www.wired.com/gallery/best-mattresses/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

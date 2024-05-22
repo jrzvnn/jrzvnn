@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Pay will start showing credit card benefits at checkout](https://www.theverge.com/2024/5/22/24162601/google-pay-card-benefits-buy-now-later-auto-fill)
+ - [Lawmakers debate ending Section 230 in order to save it](https://www.theverge.com/2024/5/22/24161150/section-230-tech-liability-shield-sunset)
  - [Techstars CEO Ma&amp;euml;lle Gavet says she is leaving at the end of May for health reasons; Techstars co-founder and board chairman David Cohen will become the new CEO &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/240522/p22#a240522p22)
  - [Big Tech thinks it can plant trees better than everyone else](https://www.theverge.com/2024/5/22/24162428/google-meta-microsoft-salesforce-symbiosis-coalition-nature-carbon-removal-forest-offsets)
- - [Doc: WhatsApp staff warned of traffic analysis flaws where attackers may reveal who is in a conversation; Meta calls them theoretical and not unique to WhatsApp &lpar;Sam Biddle/The Intercept&rpar;](http://www.techmeme.com/240522/p21#a240522p21)
- - [Marvel’s Vision-focused Disney Plus series is coming in 2026](https://www.theverge.com/2024/5/22/24162626/vision-disney-plus-terry-matalas-wandavision)
- - [Meta’s Ray-Ban glasses will post Instagram stories for you](https://www.theverge.com/2024/5/22/24162590/meta-ray-ban-glasses-instagram-stories-hands-free)<!-- TECH:END -->
+ - [Doc: WhatsApp staff warned of traffic analysis flaws where attackers may reveal who is in a conversation; Meta calls them theoretical and not unique to WhatsApp &lpar;Sam Biddle/The Intercept&rpar;](http://www.techmeme.com/240522/p21#a240522p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

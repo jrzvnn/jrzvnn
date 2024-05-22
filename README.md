@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Full time job!](http://9gag.com/gag/aByQjzP)
- - 😝 [How to stop Google listening to your conversation](http://9gag.com/gag/aMVbN3V)
- - 💣 [Palestine slogan is hate speech](http://9gag.com/gag/aPAyzDg)
- - 😝 [What a cool dad](http://9gag.com/gag/amoLby9)
- - 👉 [Haven&#39;t seen this one yet](http://9gag.com/gag/aGyVoAX)<!-- MEMES:END -->
+ - 😝 [The average woman these days](http://9gag.com/gag/aD2wP4O)
+ - 😝 [What a 6000ft drop can do to a plane.](http://9gag.com/gag/aVvQ4z2)
+ - 💣 [That&#39;s not water...](http://9gag.com/gag/ae93PWm)
+ - 😝 [Feeling old yet? Eminem\u2019s daughter Hailie Jade just got married](http://9gag.com/gag/azxLQNz)
+ - 👉 [Not safe for muslim](http://9gag.com/gag/aKGgNXQ)<!-- MEMES:END -->
 
 ---
 

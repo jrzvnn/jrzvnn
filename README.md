@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What a 6000ft drop can do to a plane.](http://9gag.com/gag/aVvQ4z2)
- - 😝 [Enormous Plasma Wall spotted on the Sun](http://9gag.com/gag/azxLDxj)
- - 💣 [\ud83d\uddff\ud83d\uddff\ud83d\uddff\ud83d\uddff\ud83d\uddff\ud83d\uddff](http://9gag.com/gag/aNDoqQA)
- - 😝 [Just breaking news. Nothing to see here.](http://9gag.com/gag/aGyV6L6)
- - 👉 [Not safe for muslim](http://9gag.com/gag/aKGgNXQ)<!-- MEMES:END -->
+ - 😝 [Nice guys finish last](http://9gag.com/gag/aYQpRYV)
+ - 😝 [Emergency exit row passenger gets kicked off after refusing to acknowledge flight attendant&#39;s pre-flight exit row safety instructions, gets arrested](http://9gag.com/gag/aD2wQ1N)
+ - 💣 [What a 6000ft drop can do to a plane.](http://9gag.com/gag/aVvQ4z2)
+ - 😝 [If there is no cat living in your house.](http://9gag.com/gag/aVvQRo8)
+ - 👉 [Should I give my seat to a women?](http://9gag.com/gag/aMVbWLW)<!-- MEMES:END -->
 
 ---
 

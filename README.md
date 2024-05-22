@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Furiosa is a leaner, meaner Mad Max story](https://www.theverge.com/24161853/furiosa-mad-max-review)
  - [T-Mobile is raising prices on several of its plans](https://www.theverge.com/2024/5/22/24162490/t-mobile-price-increase-magenta-one-simple-choice-plans)
  - [15 Best Mattresses You Can Buy Online &lpar;2024&rpar; | Tested and Reviewed](https://www.wired.com/gallery/best-mattresses/)
  - [Zuckerberg creates the Meta Advisory Group with Patrick Collison, Nat Friedman, Tobi L&amp;uuml;tke, and Charlie Songhurst, to advise on tech and growth opportunities &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/240522/p20#a240522p20)
- - [TikTok launches its Symphony AI suite for brands, using generative AI to let marketers write scripts, produce videos, and enhance current assets &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240522/p19#a240522p19)
- - [Sonos CEO Patrick Spence addresses the company’s divisive app redesign](https://www.theverge.com/2024/5/22/24162168/sonos-ceo-patrick-spence-new-app-design-interview)<!-- TECH:END -->
+ - [TikTok launches its Symphony AI suite for brands, using generative AI to let marketers write scripts, produce videos, and enhance current assets &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240522/p19#a240522p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [1996 Seoul, a fan climb up the crane, MJ held him from falling the whole time while performing](http://9gag.com/gag/aByQbP2)
+ - 😝 [What a 6000ft drop can do to a plane.](http://9gag.com/gag/aVvQ4z2)
  - 😝 [Living her best life...](http://9gag.com/gag/aQzpB48)
- - 💣 [What a 6000ft drop can do to a plane.](http://9gag.com/gag/aVvQ4z2)
- - 😝 [Thats my Justin, keep it up](http://9gag.com/gag/aNDoXAb)
- - 👉 [Roast me baby one more time](http://9gag.com/gag/aLnQVwv)<!-- MEMES:END -->
+ - 💣 [Just breaking news. Nothing to see here.](http://9gag.com/gag/aGyV6L6)
+ - 😝 [There&#39;s no recovering from this.](http://9gag.com/gag/a9yMZb6)
+ - 👉 [Just don&#39;t](http://9gag.com/gag/a9yM4Gj)<!-- MEMES:END -->
 
 ---
 

@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Logic](http://9gag.com/gag/avyZD3q)
- - 😝 [That&#39;s not water...](http://9gag.com/gag/ae93PWm)
- - 💣 [Haven&#39;t seen this one yet](http://9gag.com/gag/aGyVoAX)
- - 😝 [What a cool dad](http://9gag.com/gag/amoLby9)
- - 👉 [Internet trick you didn\u2019t know](http://9gag.com/gag/aoyZdOg)<!-- MEMES:END -->
+ - 😝 [Nice guys finish last](http://9gag.com/gag/aYQpRYV)
+ - 😝 [Women&#39;s Studies students spend $60k a year of their parents&#39; money to learn a screaming course against the patriarchy](http://9gag.com/gag/a9yMVbL)
+ - 💣 [The average woman these days](http://9gag.com/gag/aD2wP4O)
+ - 😝 [It\u2019s good entertainment though](http://9gag.com/gag/an7X8yB)
+ - 👉 [Women are complicated](http://9gag.com/gag/amoLb4j)<!-- MEMES:END -->
 
 ---
 

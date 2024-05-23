@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Keep this kid off of social media](http://9gag.com/gag/azxLD3Z)
- - 😝 [Just don&#39;t](http://9gag.com/gag/a9yM4Gj)
- - 💣 [There are over 500 mosques in London, but Muslims pray in front of the 755-year-old Westminster Abbey church. Wake Up!!](http://9gag.com/gag/an7X8bz)
- - 😝 [Just breaking news. Nothing to see here.](http://9gag.com/gag/aGyV6L6)
- - 👉 [1996 Seoul, a fan climb up the crane, MJ held him from falling the whole time while performing](http://9gag.com/gag/aByQbP2)<!-- MEMES:END -->
+ - 😝 [That&#39;s what grandmas are for](http://9gag.com/gag/aD2wqZZ)
+ - 😝 [Thats my Justin, keep it up](http://9gag.com/gag/aNDoXAb)
+ - 💣 [Games have been removed from your library. For an unlisted reason. Excuse me wtf EA?](http://9gag.com/gag/aGyVroZ)
+ - 😝 [Not safe for muslim](http://9gag.com/gag/aKGgNXQ)
+ - 👉 [Hungarian swords from 14th Century. The sword in the middle is 270 cm long.](http://9gag.com/gag/azxLyjb)<!-- MEMES:END -->
 
 ---
 

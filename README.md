@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Roast me baby one more time](http://9gag.com/gag/aLnQVwv)
- - 😝 [Thats my Justin, keep it up](http://9gag.com/gag/aNDoXAb)
- - 💣 [That&#39;s what grandmas are for](http://9gag.com/gag/aD2wqZZ)
- - 😝 [You go first!!!](http://9gag.com/gag/aqyZOzR)
- - 👉 [How Female Brain works](http://9gag.com/gag/aLnQOqP)<!-- MEMES:END -->
+ - 😝 [Polan](http://9gag.com/gag/abAqwZ8)
+ - 😝 [Just don&#39;t](http://9gag.com/gag/a9yM4Gj)
+ - 💣 [How to shut a woke attention seeker.](http://9gag.com/gag/a9yMwL0)
+ - 😝 [Saints on the water](http://9gag.com/gag/amoLwvo)
+ - 👉 [Once upon time there was a dog...](http://9gag.com/gag/a34dDdr)<!-- MEMES:END -->
 
 ---
 

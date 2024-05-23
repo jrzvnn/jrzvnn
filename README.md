@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Che was a racist](http://9gag.com/gag/agm0bKr)
- - 😝 [Men these days...](http://9gag.com/gag/aD2wLdK)
- - 💣 [Gotta save em all](http://9gag.com/gag/aqyZOyY)
- - 😝 [I couldn&#39;t find a non caption video without the music on, but I agree with her.](http://9gag.com/gag/aGyVN5n)
- - 👉 [Just don&#39;t](http://9gag.com/gag/a9yM4Gj)<!-- MEMES:END -->
+ - 😝 [Gassed](http://9gag.com/gag/apRoXwM)
+ - 😝 [Living her best life...](http://9gag.com/gag/aQzpB48)
+ - 💣 [Just an innocent kiss](http://9gag.com/gag/a7oKBDq)
+ - 😝 [That&#39;s what grandmas are for](http://9gag.com/gag/aD2wqZZ)
+ - 👉 [1996 Seoul, a fan climb up the crane, MJ held him from falling the whole time while performing](http://9gag.com/gag/aByQbP2)<!-- MEMES:END -->
 
 ---
 

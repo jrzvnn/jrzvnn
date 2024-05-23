@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [South Korea announces a ~$19B support package for the domestic chip industry and asks the industry ministry to strengthen the country&#39;s non-memory chip sector &lpar;Reuters&rpar;](http://www.techmeme.com/240523/p2#a240523p2)
+ - [Source: the US DOJ and state AGs plan to sue Live Nation on Thursday for illegally abusing its live ticketing monopoly through its 2010 Ticketmaster acquisition &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/240523/p1#a240523p1)
  - [LA-based Aerodome, which uses autonomous drones to help first responders get a view of problems like crimes and fires, raised a $21.5M Series A led by CRV &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240522/p39#a240522p39)
  - [How to answer and end phone and FaceTime calls using Siri](https://appleinsider.com/inside/iphone/tips/how-to-answer-and-end-phone-and-facetime-calls-using-siri?utm_medium=rss)
- - [Today&#39;s Wordle Hints and Answer: Help for May 23, #1069     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-and-answer-help-for-may-23-1069/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints and Answer -- Help for May 23, #347     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hints-answer-help-for-may-23-347/#ftag=CAD590a51e)
- - [Istanbul-based Colendi, which provides digital banking services, raised a $65M Series B at a $700M valuation from Citi Ventures and others &lpar;Inci Ozbek/Bloomberg&rpar;](http://www.techmeme.com/240522/p38#a240522p38)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints and Answer: Help for May 23, #1069     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-and-answer-help-for-may-23-1069/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

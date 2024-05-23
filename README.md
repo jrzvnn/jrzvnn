@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How social e-commerce app Xiaohongshu has defied China&#39;s tech sector crackdown and boomed through a combination of influencers, AI, and soft marketing tactics &lpar;Bloomberg&rpar;](http://www.techmeme.com/240523/p6#a240523p6)
  - [A profile of Sachin Dev Duggal, the CEO of Builder.ai, which offers low-code tools and has raised ~$450M, as sources describe staff retention problems and more &lpar;Financial Times&rpar;](http://www.techmeme.com/240523/p5#a240523p5)
  - [Lenovo reports Q4 revenue up 9% YoY to $13.8B, vs. $13B est., second straight quarter of revenue growth, and net profit up 118% YoY to $248M, vs. $162M est. &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/240523/p4#a240523p4)
  - [US-listed PDD, which runs Temu and Pinduoduo, reports Q1 revenue up 131% YoY to ~$12B and operating profit up 275% YoY to ~$3.6B, as global expansion gains pace &lpar;Sarah Zheng/Bloomberg&rpar;](http://www.techmeme.com/240523/p3#a240523p3)
- - [South Korea announces a ~$19B support package for the domestic chip industry and asks the industry ministry to strengthen the country&#39;s non-memory chip sector &lpar;Reuters&rpar;](http://www.techmeme.com/240523/p2#a240523p2)
- - [Source: the US DOJ and state AGs plan to sue Live Nation on Thursday for illegally abusing its live ticketing monopoly through its 2010 Ticketmaster acquisition &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/240523/p1#a240523p1)<!-- TECH:END -->
+ - [South Korea announces a ~$19B support package for the domestic chip industry and asks the industry ministry to strengthen the country&#39;s non-memory chip sector &lpar;Reuters&rpar;](http://www.techmeme.com/240523/p2#a240523p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

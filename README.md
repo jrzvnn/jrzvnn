@@ -172,10 +172,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You go first!!!](http://9gag.com/gag/aqyZOzR)
+ - 😝 [Roast me baby one more time](http://9gag.com/gag/aLnQVwv)
  - 😝 [Thats my Justin, keep it up](http://9gag.com/gag/aNDoXAb)
- - 💣 [6 series that made me binge watch and exceeded all my expectations.](http://9gag.com/gag/an7XWm0)
- - 😝 [That&#39;s what grandmas are for](http://9gag.com/gag/aD2wqZZ)
+ - 💣 [That&#39;s what grandmas are for](http://9gag.com/gag/aD2wqZZ)
+ - 😝 [You go first!!!](http://9gag.com/gag/aqyZOzR)
  - 👉 [How Female Brain works](http://9gag.com/gag/aLnQOqP)<!-- MEMES:END -->
 
 ---

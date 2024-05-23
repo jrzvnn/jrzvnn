@@ -163,7 +163,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US SEC approves multiple spot Ethereum ETFs, including those from BlackRock, Fidelity, and Grayscale &lpar;The Block&rpar;](http://www.techmeme.com/240523/p37#a240523p37)
+ - [The US SEC approves spot Ethereum ETFs from BlackRock, Fidelity, Grayscale, Bitwise, VanEck, Ark, Invesco Galaxy, and Franklin Templeton &lpar;The Block&rpar;](http://www.techmeme.com/240523/p37#a240523p37)
  - [You can save up to $20 on Anker’s newest Qi2 power banks](https://www.theverge.com/2024/5/23/24163317/anker-maggo-power-bank-10k-6k-qi2-charger-deal-sale)
  - [IRS extends its Free File tax program for five more years](https://www.theverge.com/2024/5/23/24163530/irs-free-file-tax-program-extended)
  - [Faux Rattan Loveseat     - CNET](https://www.cnet.com/news/faux-rattan-loveseat-dpnl/#ftag=CAD590a51e)

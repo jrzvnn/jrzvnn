@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Get ready for a rough hurricane season](https://www.theverge.com/24163211/atlantic-hurricane-season-forecast-record-storm-national-weather-service)
+ - [You can buy an LG OLED TV starting at just $736](https://www.theverge.com/2024/5/23/24162814/ebay-lg-c3-c4-oled-tv-samsung-galaxy-buds-fe-deal-sale)
  - [System Settings getting shuffled again in macOS 15, among other UI tweaks](https://appleinsider.com/articles/24/05/23/system-settings-getting-shuffled-again-in-macos-15-among-other-ui-tweaks?utm_medium=rss)
- - [Apple’s foldable MacBooks rumored to ship in 2026](https://www.theverge.com/2024/5/23/24163198/apple-foldable-macbooks-shipments-2026-kuo)
- - [Leaked contract: Samsung requires independent repair shops to share customer data and disassemble devices that have aftermarket parts after notifying Samsung &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240523/p28#a240523p28)
- - [Atari acquires longtime rival Intellivision](https://www.theverge.com/2024/5/23/24163176/atari-acquires-intellivision-amico-console)
- - [iFixit and Samsung end their partnership; iFixit blames Samsung, saying, &quot;Samsung does not seem interested in enabling repair at scale&quot; &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240523/p27#a240523p27)<!-- TECH:END -->
+ - [22 Best Memorial Day Sales &lpar;2024&rpar;: TVs, Office Chairs, and Ebikes](https://www.wired.com/story/best-memorial-day-sales-2024/)
+ - [Apple’s foldable MacBooks rumored to ship in 2026](https://www.theverge.com/2024/5/23/24163198/apple-foldable-macbooks-shipments-2026-kuo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

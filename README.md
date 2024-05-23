@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gotta save em all](http://9gag.com/gag/aqyZOyY)
- - 😝 [Thats my Justin, keep it up](http://9gag.com/gag/aNDoXAb)
- - 💣 [Reasonable fear](http://9gag.com/gag/a9yMevm)
- - 😝 [Just don&#39;t](http://9gag.com/gag/a9yM4Gj)
- - 👉 [How to shut a woke attention seeker.](http://9gag.com/gag/a9yMwL0)<!-- MEMES:END -->
+ - 😝 [How to shut a woke attention seeker.](http://9gag.com/gag/a9yMwL0)
+ - 😝 [Reasonable fear](http://9gag.com/gag/a9yMevm)
+ - 💣 [Done for day](http://9gag.com/gag/aNDoM74)
+ - 😝 [Polan](http://9gag.com/gag/abAqwZ8)
+ - 👉 [Once upon time there was a dog...](http://9gag.com/gag/a34dDdr)<!-- MEMES:END -->
 
 ---
 

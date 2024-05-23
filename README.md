@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US DOJ and state AGs sue to break up Ticketmaster parent Live Nation over alleged antitrust violations, following a DOJ probe and Taylor Swift fan complaints &lpar;CNBC&rpar;](http://www.techmeme.com/240523/p25#a240523p25)
- - [The US sues Ticketmaster for driving up live event fees](https://www.theverge.com/2024/5/23/24163083/live-nation-ticketmaster-doj-monopoly-lawsuit-break-up)
- - [US Sues to Break Up Ticketmaster and Live Nation, Alleging Monopoly Abuse](https://www.wired.com/story/ticketmaster-live-nation-doj-antitrust-lawsuit/)
- - [All-screen foldable MacBook may come in multiple sizes with M5 processor](https://appleinsider.com/articles/24/05/23/apple-considering-multiple-sizes-for-all-screen-foldable-macbook?utm_medium=rss)
- - [Affinity update adds QR code generator, variable font support](https://appleinsider.com/articles/24/05/23/affinity-update-adds-qr-code-generator-variable-font-support?utm_medium=rss)<!-- TECH:END -->
+ - [7 Best Barbecue and Hot Sauce Subscription Boxes &lpar;2024&rpar;: Small Batch, Award-Winning, Monthly](https://www.wired.com/story/the-best-barbecue-and-hot-sauce-subscription-boxes/)
+ - [iFixit is breaking up with Samsung](https://www.theverge.com/samsung/2024/5/23/24162135/ifixit-end-samsung-repair-parts-deal)
+ - [Kuo: Apple targets a 2026 launch for the full-screen foldable MacBook and is considering 20.25&quot; and 18.8&quot; panels, with an M5 chip and Vision Pro-like price &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/240523/p26#a240523p26)
+ - [X is hiding likes to encourage ‘edgy’ engagement](https://www.theverge.com/2024/5/23/24163155/twitter-x-likes-hide-default)
+ - [US DOJ and state AGs sue to break up Ticketmaster parent Live Nation over alleged antitrust violations, following a DOJ probe and Taylor Swift fan complaints &lpar;CNBC&rpar;](http://www.techmeme.com/240523/p25#a240523p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

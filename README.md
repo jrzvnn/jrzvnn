@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Men these days...](http://9gag.com/gag/aD2wLdK)
- - 😝 [Gotta save em all](http://9gag.com/gag/aqyZOyY)
- - 💣 [Just don&#39;t](http://9gag.com/gag/a9yM4Gj)
- - 😝 [I couldn&#39;t find a non caption video without the music on, but I agree with her.](http://9gag.com/gag/aGyVN5n)
- - 👉 [How to shut a woke attention seeker.](http://9gag.com/gag/a9yMwL0)<!-- MEMES:END -->
+ - 😝 [At least I&#39;m not a virgin..](http://9gag.com/gag/aO8yOwr)
+ - 😝 [6 series that made me binge watch and exceeded all my expectations.](http://9gag.com/gag/an7XWm0)
+ - 💣 [You go first!!!](http://9gag.com/gag/aqyZOzR)
+ - 😝 [12 of the stupidest people on earth](http://9gag.com/gag/a5QNy9g)
+ - 👉 [That&#39;s what grandmas are for](http://9gag.com/gag/aD2wqZZ)<!-- MEMES:END -->
 
 ---
 

@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: a16z, Sequoia Capital, and Tribe Capital commit to joining xAI&#39;s new funding round, in which the company seeks to raise ~$6B at an $18B valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/240523/p33#a240523p33)
+ - [The Samsung right-to-repair story just got worse](https://www.theverge.com/samsung/2024/5/23/24163372/samsung-repair-snitch-aftermarket-parts)
  - [Buy now, pay later services have to act more like credit card providers now](https://www.theverge.com/2024/5/23/24163384/buy-now-pay-later-services-bnpl-credit-card-rules)
  - [Euclid space telescope captures tens of thousands of glittering galaxies](https://www.theverge.com/2024/5/23/24162627/euclid-space-telescope-images-dark-matter-rogue-planet)
- - [Political consultant behind the Joe Biden deepfake robocalls faces $6 million fine](https://www.theverge.com/2024/5/23/24163411/fcc-fine-biden-deepfake-robocalls-steve-kramer-lingo-telecom)
- - [Sources: Helsing, which provides AI tools to militaries, is raising a $400M+ Series C led by General Catalyst at a ~$4B valuation, after raising $200M+ in 2023 &lpar;Forbes&rpar;](http://www.techmeme.com/240523/p32#a240523p32)
- - [Canva tackled digital design — and now the office suite is next](https://www.theverge.com/2024/5/23/24163356/canva-enterprise-announcement-design-platform-redesign)<!-- TECH:END -->
+ - [Political consultant behind the Joe Biden deepfake robocalls faces $6 million fine](https://www.theverge.com/2024/5/23/24163411/fcc-fine-biden-deepfake-robocalls-steve-kramer-lingo-telecom)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

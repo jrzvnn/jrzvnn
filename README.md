@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Taiwan&#39;s ex-Digital Minister Audrey Tang on Plurality, a book on collaboration-enhancing tech she wrote with Microsoft&#39;s internal economist Glen Weyl &lpar;Daniel Kuhn/CoinDesk&rpar;](http://www.techmeme.com/240523/p10#a240523p10)
  - [Box CEO on how generative AI can turn the mostly unstructured data inside enterprises into valuable knowledge, enabling greater automation of workflows and more &lpar;Aaron Levie/@levie&rpar;](http://www.techmeme.com/240523/p9#a240523p9)
  - [SSI Beneficiaries: You&#39;re Getting Another Check Next Week. Here&#39;s Why     - CNET](https://www.cnet.com/personal-finance/ssi-beneficiaries-youre-getting-another-check-next-week-heres-why/#ftag=CAD590a51e)
  - [Meta&#39;s Yann LeCun says LLMs won&#39;t reach human intelligence and instead FAIR is working on a &quot;world modeling&quot; vision, to create AI that can develop common sense &lpar;Financial Times&rpar;](http://www.techmeme.com/240523/p8#a240523p8)
- - [In an interview, Brad Smith says Microsoft&#39;s deal with UAE-based AI firm G42 could eventually involve the transfer of key US chips and AI technology abroad &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/240523/p7#a240523p7)
- - [How social e-commerce app Xiaohongshu has defied China&#39;s tech sector crackdown and boomed through a combination of influencers, AI, and soft marketing tactics &lpar;Bloomberg&rpar;](http://www.techmeme.com/240523/p6#a240523p6)<!-- TECH:END -->
+ - [In an interview, Brad Smith says Microsoft&#39;s deal with UAE-based AI firm G42 could eventually involve the transfer of key US chips and AI technology abroad &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/240523/p7#a240523p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

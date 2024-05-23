@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Roast me baby one more time](http://9gag.com/gag/aLnQVwv)
- - 😝 [No wonder the birth rate are so low](http://9gag.com/gag/amoLbyo)
- - 💣 [12 of the stupidest people on earth](http://9gag.com/gag/a5QNy9g)
- - 😝 [1996 Seoul, a fan climb up the crane, MJ held him from falling the whole time while performing](http://9gag.com/gag/aByQbP2)
- - 👉 [That&#39;s not water...](http://9gag.com/gag/ae93PWm)<!-- MEMES:END -->
+ - 😝 [Gotta save em all](http://9gag.com/gag/aqyZOyY)
+ - 😝 [Thats my Justin, keep it up](http://9gag.com/gag/aNDoXAb)
+ - 💣 [Reasonable fear](http://9gag.com/gag/a9yMevm)
+ - 😝 [Just don&#39;t](http://9gag.com/gag/a9yM4Gj)
+ - 👉 [How to shut a woke attention seeker.](http://9gag.com/gag/a9yMwL0)<!-- MEMES:END -->
 
 ---
 

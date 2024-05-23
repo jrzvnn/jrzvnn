@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Canva tackled digital design — and now the office suite is next](https://www.theverge.com/2024/5/23/24163356/canva-enterprise-announcement-design-platform-redesign)
+ - [The Daylight DC1 is a $799 attempt to build a calmer computer](https://www.theverge.com/2024/5/23/24163225/daylight-dc1-tablet-livepaper)
  - [The sequel to Animal Crossing-like Cozy Grove hits Netflix in June](https://www.theverge.com/2024/5/23/24163281/cozy-grove-camp-spirit-release-date-netflix-gaming)
  - [A bill strengthening the UK Competition and Markets Authority to regulate tech giants like Apple and Google heads toward approval before the UK&#39;s July election &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240523/p31#a240523p31)
- - [Biden&#39;s New Import Rules Will Hit Ebike Batteries Too](https://www.wired.com/story/biden-tariffs-ebike-batteries/)
- - [If I Can&#39;t Carry It, It&#39;s Not a &#39;Portable&#39; Power Station     - CNET](https://www.cnet.com/home/energy-and-utilities/if-i-cant-carry-it-its-not-a-portable-power-station/#ftag=CAD590a51e)
- - [How the FBI built its own smartphone company to hack the criminal underworld](https://www.theverge.com/2024/5/23/24163389/joseph-cox-dark-wire-fbi-phone-startup-anom-criminals-secure-messaging-decoder-interview)<!-- TECH:END -->
+ - [Biden&#39;s New Import Rules Will Hit Ebike Batteries Too](https://www.wired.com/story/biden-tariffs-ebike-batteries/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

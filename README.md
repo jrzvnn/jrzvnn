@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Holy...](http://9gag.com/gag/azxLogB)
- - 😝 [Thats my Justin, keep it up](http://9gag.com/gag/aNDoXAb)
- - 💣 [Just don&#39;t](http://9gag.com/gag/a9yM4Gj)
- - 😝 [Roast me baby one more time](http://9gag.com/gag/aLnQVwv)
- - 👉 [That&#39;s what grandmas are for](http://9gag.com/gag/aD2wqZZ)<!-- MEMES:END -->
+ - 😝 [Keep this kid off of social media](http://9gag.com/gag/azxLD3Z)
+ - 😝 [Just don&#39;t](http://9gag.com/gag/a9yM4Gj)
+ - 💣 [There are over 500 mosques in London, but Muslims pray in front of the 755-year-old Westminster Abbey church. Wake Up!!](http://9gag.com/gag/an7X8bz)
+ - 😝 [Just breaking news. Nothing to see here.](http://9gag.com/gag/aGyV6L6)
+ - 👉 [1996 Seoul, a fan climb up the crane, MJ held him from falling the whole time while performing](http://9gag.com/gag/aByQbP2)<!-- MEMES:END -->
 
 ---
 

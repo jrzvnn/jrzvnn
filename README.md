@@ -164,10 +164,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Pixelmator Pro revamps image editing with AI masking tools](https://appleinsider.com/articles/24/05/23/pixelmator-pro-revamps-image-editing-with-ai-masking-tools?utm_medium=rss)
+ - [5 Best Cooling Mattresses &lpar;2024&rpar;: Hybrid, Soft, Foam, and for Couples](https://www.wired.com/gallery/best-cooling-mattresses/)
+ - [Leica’s fresh D-Lux 8 makes it to the trendy point-and-shoot party](https://www.theverge.com/2024/5/23/24162722/leica-d-lux-8-point-and-shoot-camera-price-release-date)
  - [GM will recycle its EV battery scrap with Tesla co-founder’s company](https://www.theverge.com/2024/5/23/24162480/gm-ultium-redwood-ev-battery-scrap-recycle)
- - [TikTok adds new measures to limit the spread of videos from state-affiliated media accounts, and disrupted 15 influence operations in January to April 2024 &lpar;Sapna Maheshwari/New York Times&rpar;](http://www.techmeme.com/240523/p23#a240523p23)
- - [The best educational apps on iPad for kids and young students](https://appleinsider.com/inside/ipad/best/the-best-educational-apps-on-ipad-for-kids-and-young-students?utm_medium=rss)
- - [Future iPads and iPhones could tell stressed users to calm down](https://appleinsider.com/articles/24/05/23/future-ipads-and-iphones-could-tell-stressed-users-to-calm-down?utm_medium=rss)<!-- TECH:END -->
+ - [TikTok adds new measures to limit the spread of videos from state-affiliated media accounts, and disrupted 15 influence operations in January to April 2024 &lpar;Sapna Maheshwari/New York Times&rpar;](http://www.techmeme.com/240523/p23#a240523p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

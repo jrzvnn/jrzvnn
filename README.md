@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [He Trained Crypto Cops to Fight Crypto Crime—and Allegedly Ran a $100M Dark Web Drug Market](https://www.wired.com/story/lin-rui-siang-incognito-market/)
+ - [Spotify is going to break every Car Thing gadget it ever sold](https://www.theverge.com/2024/5/23/24163383/spotify-car-thing-discontinued-december-2024)
  - [Twitter Is Dead, Long Live the Portal](https://www.wired.com/story/twitter-musk-new-york-dublin-portal/)
  - [TikTok says it disrupted more than a dozen influence campaigns this year](https://www.theverge.com/2024/5/23/24163221/tiktok-political-content-influence-campaign-report-china)
- - [Microsoft outage took down Copilot, DuckDuckGo, and ChatGPT search features](https://www.theverge.com/2024/5/23/24163094/microsoft-bing-search-outage-copilot-duckduckgo-chatgpt)
- - [Best Deals on Earbuds and Headphones: Beats, Skullcandy and More See Reductions     - CNET](https://www.cnet.com/deals/best-headphone-deals/#ftag=CAD590a51e)
- - [Samsung’s smart fridges mistakenly warned users its free TV service was ending](https://www.theverge.com/2024/5/23/24163164/samsung-tv-plus-discontinued-family-hub-smart-fridge)<!-- TECH:END -->
+ - [Microsoft outage took down Copilot, DuckDuckGo, and ChatGPT search features](https://www.theverge.com/2024/5/23/24163094/microsoft-bing-search-outage-copilot-duckduckgo-chatgpt)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

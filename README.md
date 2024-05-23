@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Microsoft CEO Satya Nadella and CTO Kevin Scott on Copilot+ PCs, delivering a consistent experience, OpenAI, integration vs. modularization, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/240523/p17#a240523p17)
+ - [Drivers Are Rising Up Against Uber’s ‘Opaque’ Pay System](https://www.wired.com/story/drivers-are-rising-up-against-ubers-opaque-pay-system/)
  - [UK tech tycoon Mike Lynch is set to take the stand in his own defense against charges of duping HP, a rare and bold decision; Lynch also took the stand in 2019 &lpar;Rachel Graf/Bloomberg&rpar;](http://www.techmeme.com/240523/p16#a240523p16)
  - [Japan could be next to force third-party app stores on Apple](https://appleinsider.com/articles/24/05/23/japan-could-be-next-to-force-third-party-app-stores-on-apple?utm_medium=rss)
- - [Microsoft Bing issue takes down Copilot, DuckDuckGo, and ChatGPT search features](https://www.theverge.com/2024/5/23/24163094/microsoft-bing-search-outage-copilot-duckduckgo-chatgpt)
- - [Xiaomi reports Q1 revenue up 27% YoY to ~$10.4B, above ~$10.3B est., net profit down 1% YoY to ~$588M, above ~$572M est., and smartphone shipments up 34% YoY &lpar;Bloomberg&rpar;](http://www.techmeme.com/240523/p15#a240523p15)
- - [Embracer reports FY2022-23 net sales up 12% YoY to ~$3.9B, PC/console games up 7% YoY to ~$1.3B, and mobile up 2% YoY to $551M; its CFO and deputy CEO step down &lpar;James Batchelor/GamesIndustry.biz&rpar;](http://www.techmeme.com/240523/p14#a240523p14)<!-- TECH:END -->
+ - [Microsoft Bing issue takes down Copilot, DuckDuckGo, and ChatGPT search features](https://www.theverge.com/2024/5/23/24163094/microsoft-bing-search-outage-copilot-duckduckgo-chatgpt)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

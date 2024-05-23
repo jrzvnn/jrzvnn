@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cheers to you mate](http://9gag.com/gag/avyZVmW)
- - 😝 [Based Korea](http://9gag.com/gag/a5QN90L)
- - 💣 [Turns out that all 3 of them are racist,dick sucking 9gaggers. New job is going to be fun.](http://9gag.com/gag/aXPEz7g)
- - 😝 [Che was a racist](http://9gag.com/gag/agm0bKr)
- - 👉 [Just don&#39;t](http://9gag.com/gag/a9yM4Gj)<!-- MEMES:END -->
+ - 😝 [Turns out that all 3 of them are racist,dick sucking 9gaggers. New job is going to be fun.](http://9gag.com/gag/aXPEz7g)
+ - 😝 [Thats my Justin, keep it up](http://9gag.com/gag/aNDoXAb)
+ - 💣 [I couldn&#39;t find a non caption video without the music on, but I agree with her.](http://9gag.com/gag/aGyVN5n)
+ - 😝 [Men these days...](http://9gag.com/gag/aD2wLdK)
+ - 👉 [Che was a racist](http://9gag.com/gag/agm0bKr)<!-- MEMES:END -->
 
 ---
 

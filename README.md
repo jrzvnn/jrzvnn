@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lenovo reports Q4 revenue up 9% YoY to $13.8B, vs. $13B est., second straight quarter of revenue growth, and net profit up 118% YoY to $248M, vs. $162M est. &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/240523/p4#a240523p4)
+ - [US-listed PDD, which runs Temu and Pinduoduo, reports Q1 revenue up 131% YoY to ~$12B and operating profit up 275% YoY to ~$3.6B, as global expansion gains pace &lpar;Sarah Zheng/Bloomberg&rpar;](http://www.techmeme.com/240523/p3#a240523p3)
  - [South Korea announces a ~$19B support package for the domestic chip industry and asks the industry ministry to strengthen the country&#39;s non-memory chip sector &lpar;Reuters&rpar;](http://www.techmeme.com/240523/p2#a240523p2)
  - [Source: the US DOJ and state AGs plan to sue Live Nation on Thursday for illegally abusing its live ticketing monopoly through its 2010 Ticketmaster acquisition &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/240523/p1#a240523p1)
- - [Best Tower Fan for 2024     - CNET](https://www.cnet.com/home/kitchen-and-household/best-tower-fan/#ftag=CAD590a51e)
- - [LA-based Aerodome, which uses autonomous drones to help first responders get a view of problems like crimes and fires, raised a $21.5M Series A led by CRV &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240522/p39#a240522p39)
- - [How to answer and end phone and FaceTime calls using Siri](https://appleinsider.com/inside/iphone/tips/how-to-answer-and-end-phone-and-facetime-calls-using-siri?utm_medium=rss)<!-- TECH:END -->
+ - [Best Tower Fan for 2024     - CNET](https://www.cnet.com/home/kitchen-and-household/best-tower-fan/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

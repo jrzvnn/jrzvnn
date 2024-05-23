@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just breaking news. Nothing to see here.](http://9gag.com/gag/aGyV6L6)
- - 😝 [You go first!!!](http://9gag.com/gag/aqyZOzR)
- - 💣 [Roast me baby one more time](http://9gag.com/gag/aLnQVwv)
- - 😝 [Thats my Justin, keep it up](http://9gag.com/gag/aNDoXAb)
- - 👉 [Man plays football with the Quran in public, while muslims lose their minds around him](http://9gag.com/gag/adB6wx9)<!-- MEMES:END -->
+ - 😝 [The weekend stomp](http://9gag.com/gag/aYQp62v)
+ - 😝 [Polan](http://9gag.com/gag/abAqwZ8)
+ - 💣 [Horny is back\u2026](http://9gag.com/gag/abAqDyb)
+ - 😝 [Lies, deception](http://9gag.com/gag/aQzp5o7)
+ - 👉 [Let\u2019s just try 1/2 and see how it goes.](http://9gag.com/gag/a2vPgX1)<!-- MEMES:END -->
 
 ---
 

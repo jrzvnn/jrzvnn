@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta&#39;s Yann LeCun says LLMs won&#39;t reach human intelligence and instead FAIR is working on a &quot;world modeling&quot; vision, to create AI that can develop common sense &lpar;Financial Times&rpar;](http://www.techmeme.com/240523/p8#a240523p8)
  - [In an interview, Brad Smith says Microsoft&#39;s deal with UAE-based AI firm G42 could eventually involve the transfer of key US chips and AI technology abroad &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/240523/p7#a240523p7)
  - [How social e-commerce app Xiaohongshu has defied China&#39;s tech sector crackdown and boomed through a combination of influencers, AI, and soft marketing tactics &lpar;Bloomberg&rpar;](http://www.techmeme.com/240523/p6#a240523p6)
  - [A profile of Sachin Dev Duggal, the CEO of Builder.ai, which offers low-code tools and has raised ~$450M, as sources describe staff retention problems and more &lpar;Financial Times&rpar;](http://www.techmeme.com/240523/p5#a240523p5)
- - [Lenovo reports Q4 revenue up 9% YoY to $13.8B, vs. $13B est., second straight quarter of revenue growth, and net profit up 118% YoY to $248M, vs. $162M est. &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/240523/p4#a240523p4)
- - [US-listed PDD, which runs Temu and Pinduoduo, reports Q1 revenue up 131% YoY to ~$12B and operating profit up 275% YoY to ~$3.6B, as global expansion gains pace &lpar;Sarah Zheng/Bloomberg&rpar;](http://www.techmeme.com/240523/p3#a240523p3)<!-- TECH:END -->
+ - [Lenovo reports Q4 revenue up 9% YoY to $13.8B, vs. $13B est., second straight quarter of revenue growth, and net profit up 118% YoY to $248M, vs. $162M est. &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/240523/p4#a240523p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,10 +164,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Spotify tells customers that its Car Thing dashboard accessory will stop working on December 9, less than a year after it went on sale, without offering refunds &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240523/p36#a240523p36)
+ - [Memorial Day Sales 2024: We Found the Best Deals at Amazon, Walmart, Best Buy and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-23/#ftag=CAD590a51e)
+ - [Student Loan Forgiveness Update: Biden Administration Cancels Debt for Another 160,000 Borrowers     - CNET](https://www.cnet.com/personal-finance/loans/biden-administration-forgives-student-loan-debt-for-another-160000-borrowers/#ftag=CAD590a51e)
  - [Google promised a better search experience — now it’s telling us to put glue on our pizza](https://www.theverge.com/2024/5/23/24162896/google-ai-overview-hallucinations-glue-in-pizza)
- - [Screenshots of Google&#39;s AI Overview giving bizarre answers go viral, including telling users to add &quot;1/8 cup of non-toxic glue&quot; to make cheese stick on a pizza &lpar;Jyoti Mann/Business Insider&rpar;](http://www.techmeme.com/240523/p35#a240523p35)
- - [Most US TikTok Creators Don’t Think a Ban Will Happen](https://www.wired.com/story/most-us-tiktok-creators-dont-think-a-ban-will-happen/)
- - [Sources: Alphabet and Meta have talked to Hollywood studios about licensing content for AI video generation tools; Disney and Netflix aren&#39;t willing to license &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/240523/p34#a240523p34)<!-- TECH:END -->
+ - [Screenshots of Google&#39;s AI Overview giving bizarre answers go viral, including telling users to add &quot;1/8 cup of non-toxic glue&quot; to make cheese stick on a pizza &lpar;Jyoti Mann/Business Insider&rpar;](http://www.techmeme.com/240523/p35#a240523p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

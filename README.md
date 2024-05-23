@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to shut a woke attention seeker.](http://9gag.com/gag/a9yMwL0)
- - 😝 [Reasonable fear](http://9gag.com/gag/a9yMevm)
- - 💣 [Done for day](http://9gag.com/gag/aNDoM74)
- - 😝 [Polan](http://9gag.com/gag/abAqwZ8)
- - 👉 [Once upon time there was a dog...](http://9gag.com/gag/a34dDdr)<!-- MEMES:END -->
+ - 😝 [You go first!!!](http://9gag.com/gag/aqyZOzR)
+ - 😝 [Thats my Justin, keep it up](http://9gag.com/gag/aNDoXAb)
+ - 💣 [6 series that made me binge watch and exceeded all my expectations.](http://9gag.com/gag/an7XWm0)
+ - 😝 [That&#39;s what grandmas are for](http://9gag.com/gag/aD2wqZZ)
+ - 👉 [How Female Brain works](http://9gag.com/gag/aLnQOqP)<!-- MEMES:END -->
 
 ---
 

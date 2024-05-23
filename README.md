@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thats my Justin, keep it up](http://9gag.com/gag/aNDoXAb)
- - 😝 [There&#39;s no recovering from this.](http://9gag.com/gag/a9yMZb6)
- - 💣 [Games have been removed from your library. For an unlisted reason. Excuse me wtf EA?](http://9gag.com/gag/aGyVroZ)
- - 😝 [6 series that made me binge watch and exceeded all my expectations.](http://9gag.com/gag/an7XWm0)
- - 👉 [12 of the stupidest people on earth](http://9gag.com/gag/a5QNy9g)<!-- MEMES:END -->
+ - 😝 [Che was a racist](http://9gag.com/gag/agm0bKr)
+ - 😝 [Men these days...](http://9gag.com/gag/aD2wLdK)
+ - 💣 [Gotta save em all](http://9gag.com/gag/aqyZOyY)
+ - 😝 [I couldn&#39;t find a non caption video without the music on, but I agree with her.](http://9gag.com/gag/aGyVN5n)
+ - 👉 [Just don&#39;t](http://9gag.com/gag/a9yM4Gj)<!-- MEMES:END -->
 
 ---
 

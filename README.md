@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s what grandmas are for](http://9gag.com/gag/aD2wqZZ)
- - 😝 [Thats my Justin, keep it up](http://9gag.com/gag/aNDoXAb)
- - 💣 [Roast me baby one more time](http://9gag.com/gag/aLnQVwv)
- - 😝 [Just an innocent kiss](http://9gag.com/gag/a7oKBDq)
- - 👉 [Not safe for muslim](http://9gag.com/gag/aKGgNXQ)<!-- MEMES:END -->
+ - 😝 [I couldn&#39;t find a non caption video without the music on, but I agree with her.](http://9gag.com/gag/aGyVN5n)
+ - 😝 [A huge compliment- toddlers love garbage trucks \ud83d\ude04](http://9gag.com/gag/avyZV15)
+ - 💣 [Turns out that all 3 of them are racist,dick sucking 9gaggers. New job is going to be fun.](http://9gag.com/gag/aXPEz7g)
+ - 😝 [Just don&#39;t](http://9gag.com/gag/a9yM4Gj)
+ - 👉 [Che was a racist](http://9gag.com/gag/agm0bKr)<!-- MEMES:END -->
 
 ---
 

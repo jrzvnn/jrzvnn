@@ -163,7 +163,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 16 supercycle to be driven by demand for Apple AI, says analyst](https://appleinsider.com/articles/24/05/23/iphone-16-supercycle-to-be-driven-by-demand-for-apple-ai-says-analyst?utm_medium=rss)
+ - [iPhone 16 demand driven by AI induces Wedbush to hike Apple stock target](https://appleinsider.com/articles/24/05/23/iphone-16-supercycle-to-be-driven-by-demand-for-apple-ai-says-analyst?utm_medium=rss)
  - [You can now share passwords within your Google family group](https://www.theverge.com/2024/5/23/24163560/google-password-manager-share-passwords-family-group)
  - [Resin Dragon Fountain     - CNET](https://www.cnet.com/news/bronze-dragon-fountain-dpnl/#ftag=CAD590a51e)
  - [Memorial Day 2024 Sales: Take Advantage of the Best Deals Right Now     - CNET](https://www.cnet.com/deals/memorial-day-sales/#ftag=CAD590a51e)

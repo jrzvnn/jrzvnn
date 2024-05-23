@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [All-screen foldable MacBook may come in multiple sizes with M5 processor](https://appleinsider.com/articles/24/05/23/apple-considering-multiple-sizes-for-all-screen-foldable-macbook?utm_medium=rss)
  - [Affinity update adds QR code generator, variable font support](https://appleinsider.com/articles/24/05/23/affinity-update-adds-qr-code-generator-variable-font-support?utm_medium=rss)
  - [17 Best Apple Watch Accessories &lpar;2024&rpar;: Bands, Chargers, Cases, and Screen Protectors](https://www.wired.com/gallery/best-apple-watch-accessories/)
  - [Google Pixel 8A review: the sensible choice](https://www.theverge.com/24162073/google-pixel-8a-review-specs-price-camera)
- - [Lumos, which helps companies manage employees&#39; identities and access to apps and systems, raised a $35M Series B led by Scale, taking its total funding to $65M+ &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240523/p24#a240523p24)
- - [Apple considering multiple sizes for all-screen foldable MacBook](https://appleinsider.com/articles/24/05/23/apple-considering-multiple-sizes-for-all-screen-foldable-macbook?utm_medium=rss)<!-- TECH:END -->
+ - [Lumos, which helps companies manage employees&#39; identities and access to apps and systems, raised a $35M Series B led by Scale, taking its total funding to $65M+ &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240523/p24#a240523p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

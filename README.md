@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US SEC approves multiple spot Ethereum ETFs, including those from BlackRock, Fidelity, and Grayscale &lpar;The Block&rpar;](http://www.techmeme.com/240523/p37#a240523p37)
  - [You can save up to $20 on Anker’s newest Qi2 power banks](https://www.theverge.com/2024/5/23/24163317/anker-maggo-power-bank-10k-6k-qi2-charger-deal-sale)
  - [IRS extends its Free File tax program for five more years](https://www.theverge.com/2024/5/23/24163530/irs-free-file-tax-program-extended)
- - [Spotify tells customers that its Car Thing dashboard accessory will stop working on December 9, less than a year after it went on sale, without offering refunds &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240523/p36#a240523p36)
- - [Memorial Day Sales 2024: We Found the Best Deals at Amazon, Walmart, Best Buy and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-23/#ftag=CAD590a51e)
- - [Student Loan Forgiveness Update: Biden Administration Cancels Debt for Another 160,000 Borrowers     - CNET](https://www.cnet.com/personal-finance/loans/biden-administration-forgives-student-loan-debt-for-another-160000-borrowers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Faux Rattan Loveseat     - CNET](https://www.cnet.com/news/faux-rattan-loveseat-dpnl/#ftag=CAD590a51e)
+ - [Best Memorial Day Sleep Deals: Save on Pillows, Comforters and Sheet Sets From Top-Rated Brands     - CNET](https://www.cnet.com/deals/best-memorial-day-sleep-deals-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

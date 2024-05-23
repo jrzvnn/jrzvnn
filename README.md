@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Polan](http://9gag.com/gag/abAqwZ8)
- - 😝 [The weekend stomp](http://9gag.com/gag/aYQp62v)
- - 💣 [Horny is back\u2026](http://9gag.com/gag/abAqDyb)
- - 😝 [Lies, deception](http://9gag.com/gag/aQzp5o7)
- - 👉 [Let\u2019s just try 1/2 and see how it goes.](http://9gag.com/gag/a2vPgX1)<!-- MEMES:END -->
+ - 😝 [Lol.](http://9gag.com/gag/azxLwDq)
+ - 😝 [In Rainforest of Cameroon on 20th July last year, this chimpanzee asked French photographer JC Pierie for his hands to help him drink water and in gratitude washed them thereafter. &#39;A gratitude in silence&#39;,it&#39;s touching indeed! And we thought we are an advanced version of them](http://9gag.com/gag/a87bO21)
+ - 💣 [Let\u2019s just try 1/2 and see how it goes.](http://9gag.com/gag/a2vPgX1)
+ - 😝 [Do you know who I am?!](http://9gag.com/gag/aYQpBBv)
+ - 👉 [Lies, deception](http://9gag.com/gag/aQzp5o7)<!-- MEMES:END -->
 
 ---
 

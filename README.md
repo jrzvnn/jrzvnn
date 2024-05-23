@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X Director of Engineering Haofei Wang says &quot;we are making likes private&quot; in an update happening &quot;soon&quot;, as &quot;public likes are incentivizing the wrong behavior&quot; &lpar;Maxwell Zeff/Gizmodo&rpar;](http://www.techmeme.com/240523/p18#a240523p18)
+ - [&#39;Furiosa&#39; Crystalizes the Power—and Limits—of Cli-Fi](https://www.wired.com/story/furiosa-review-mad-max-climate-change-fiction/)
  - [Q&amp;A with Microsoft CEO Satya Nadella and CTO Kevin Scott on Copilot+ PCs, delivering a consistent experience, OpenAI, integration vs. modularization, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/240523/p17#a240523p17)
  - [Drivers Are Rising Up Against Uber’s ‘Opaque’ Pay System](https://www.wired.com/story/drivers-are-rising-up-against-ubers-opaque-pay-system/)
- - [UK tech tycoon Mike Lynch is set to take the stand in his own defense against charges of duping HP, a rare and bold decision; Lynch also took the stand in 2019 &lpar;Rachel Graf/Bloomberg&rpar;](http://www.techmeme.com/240523/p16#a240523p16)
- - [Japan could be next to force third-party app stores on Apple](https://appleinsider.com/articles/24/05/23/japan-could-be-next-to-force-third-party-app-stores-on-apple?utm_medium=rss)
- - [Microsoft Bing issue takes down Copilot, DuckDuckGo, and ChatGPT search features](https://www.theverge.com/2024/5/23/24163094/microsoft-bing-search-outage-copilot-duckduckgo-chatgpt)<!-- TECH:END -->
+ - [UK tech tycoon Mike Lynch is set to take the stand in his own defense against charges of duping HP, a rare and bold decision; Lynch also took the stand in 2019 &lpar;Rachel Graf/Bloomberg&rpar;](http://www.techmeme.com/240523/p16#a240523p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

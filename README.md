@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft’s new Windows chief on the future of the OS, Surface, and those annoying ads](https://www.theverge.com/24162953/microsoft-pavan-davuluri-windows-surface-interview)
  - [Pixelmator Pro revamps image editing with AI masking tools](https://appleinsider.com/articles/24/05/23/pixelmator-pro-revamps-image-editing-with-ai-masking-tools?utm_medium=rss)
  - [5 Best Cooling Mattresses &lpar;2024&rpar;: Hybrid, Soft, Foam, and for Couples](https://www.wired.com/gallery/best-cooling-mattresses/)
  - [Leica’s fresh D-Lux 8 makes it to the trendy point-and-shoot party](https://www.theverge.com/2024/5/23/24162722/leica-d-lux-8-point-and-shoot-camera-price-release-date)
- - [GM will recycle its EV battery scrap with Tesla co-founder’s company](https://www.theverge.com/2024/5/23/24162480/gm-ultium-redwood-ev-battery-scrap-recycle)
- - [TikTok adds new measures to limit the spread of videos from state-affiliated media accounts, and disrupted 15 influence operations in January to April 2024 &lpar;Sapna Maheshwari/New York Times&rpar;](http://www.techmeme.com/240523/p23#a240523p23)<!-- TECH:END -->
+ - [GM will recycle its EV battery scrap with Tesla co-founder’s company](https://www.theverge.com/2024/5/23/24162480/gm-ultium-redwood-ev-battery-scrap-recycle)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

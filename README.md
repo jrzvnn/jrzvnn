@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US sues Ticketmaster for driving up live event fees](https://www.theverge.com/2024/5/23/24163083/live-nation-ticketmaster-doj-monopoly-lawsuit-break-up)
+ - [US Sues to Break Up Ticketmaster and Live Nation, Alleging Monopoly Abuse](https://www.wired.com/story/ticketmaster-live-nation-doj-antitrust-lawsuit/)
  - [All-screen foldable MacBook may come in multiple sizes with M5 processor](https://appleinsider.com/articles/24/05/23/apple-considering-multiple-sizes-for-all-screen-foldable-macbook?utm_medium=rss)
  - [Affinity update adds QR code generator, variable font support](https://appleinsider.com/articles/24/05/23/affinity-update-adds-qr-code-generator-variable-font-support?utm_medium=rss)
- - [17 Best Apple Watch Accessories &lpar;2024&rpar;: Bands, Chargers, Cases, and Screen Protectors](https://www.wired.com/gallery/best-apple-watch-accessories/)
- - [Google Pixel 8A review: the sensible choice](https://www.theverge.com/24162073/google-pixel-8a-review-specs-price-camera)
- - [Lumos, which helps companies manage employees&#39; identities and access to apps and systems, raised a $35M Series B led by Scale, taking its total funding to $65M+ &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240523/p24#a240523p24)<!-- TECH:END -->
+ - [17 Best Apple Watch Accessories &lpar;2024&rpar;: Bands, Chargers, Cases, and Screen Protectors](https://www.wired.com/gallery/best-apple-watch-accessories/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

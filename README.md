@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Repo man](http://9gag.com/gag/abAqw99)
  - 😝 [The camping of horrors](http://9gag.com/gag/amoLwyV)
- - 😝 [When I find my sisters friends panties](http://9gag.com/gag/ayNprEV)
  - 💣 [`go for him` dude ran to get his half lol](http://9gag.com/gag/amoLwzV)
- - 😝 [Why doesn&#39;t she just send an ambulance immediately?](http://9gag.com/gag/avyZqrW)
- - 👉 [Repo man](http://9gag.com/gag/abAqw99)<!-- MEMES:END -->
+ - 😝 [You go first!!!](http://9gag.com/gag/aqyZOzR)
+ - 👉 [That&#39;s what grandmas are for](http://9gag.com/gag/aD2wqZZ)<!-- MEMES:END -->
 
 ---
 

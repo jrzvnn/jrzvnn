@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Do you know who I am?!](http://9gag.com/gag/aYQpBBv)
- - 😝 [Lies, deception](http://9gag.com/gag/aQzp5o7)
- - 💣 [Lol.](http://9gag.com/gag/azxLwDq)
- - 😝 [Saints on the water](http://9gag.com/gag/amoLwvo)
- - 👉 [Koala diet consists mostly of eucalyptus but they only recognize the leaves as food when on a branch](http://9gag.com/gag/aYQp0wN)<!-- MEMES:END -->
+ - 😝 [Home delivery](http://9gag.com/gag/axy2rzL)
+ - 😝 [The camping of horrors](http://9gag.com/gag/amoLwyV)
+ - 💣 [You go first!!!](http://9gag.com/gag/aqyZOzR)
+ - 😝 [`go for him` dude ran to get his half lol](http://9gag.com/gag/amoLwzV)
+ - 👉 [How Female Brain works](http://9gag.com/gag/aLnQOqP)<!-- MEMES:END -->
 
 ---
 

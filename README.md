@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s what grandmas are for](http://9gag.com/gag/aD2wqZZ)
- - 😝 [Konoha teachers when the bell rings](http://9gag.com/gag/a7oKPz2)
- - 💣 [1996 Seoul, a fan climb up the crane, MJ held him from falling the whole time while performing](http://9gag.com/gag/aByQbP2)
- - 😝 [Just breaking news. Nothing to see here.](http://9gag.com/gag/aGyV6L6)
- - 👉 [Roast me baby one more time](http://9gag.com/gag/aLnQVwv)<!-- MEMES:END -->
+ - 😝 [Cheers to you mate](http://9gag.com/gag/avyZVmW)
+ - 😝 [Based Korea](http://9gag.com/gag/a5QN90L)
+ - 💣 [Turns out that all 3 of them are racist,dick sucking 9gaggers. New job is going to be fun.](http://9gag.com/gag/aXPEz7g)
+ - 😝 [Che was a racist](http://9gag.com/gag/agm0bKr)
+ - 👉 [Just don&#39;t](http://9gag.com/gag/a9yM4Gj)<!-- MEMES:END -->
 
 ---
 

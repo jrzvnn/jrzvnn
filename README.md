@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Leaked contract: Samsung requires independent repair shops to share customer data and disassemble devices that have aftermarket parts after notifying Samsung &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240523/p28#a240523p28)
+ - [Atari acquires longtime rival Intellivision](https://www.theverge.com/2024/5/23/24163176/atari-acquires-intellivision-amico-console)
+ - [iFixit and Samsung end their partnership; iFixit blames Samsung, saying, &quot;Samsung does not seem interested in enabling repair at scale&quot; &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240523/p27#a240523p27)
  - [7 Best Barbecue and Hot Sauce Subscription Boxes &lpar;2024&rpar;: Small Batch, Award-Winning, Monthly](https://www.wired.com/story/the-best-barbecue-and-hot-sauce-subscription-boxes/)
- - [iFixit is breaking up with Samsung](https://www.theverge.com/samsung/2024/5/23/24162135/ifixit-end-samsung-repair-parts-deal)
- - [Kuo: Apple targets a 2026 launch for the full-screen foldable MacBook and is considering 20.25&quot; and 18.8&quot; panels, with an M5 chip and Vision Pro-like price &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/240523/p26#a240523p26)
- - [X is hiding likes to encourage ‘edgy’ engagement](https://www.theverge.com/2024/5/23/24163155/twitter-x-likes-hide-default)
- - [US DOJ and state AGs sue to break up Ticketmaster parent Live Nation over alleged antitrust violations, following a DOJ probe and Taylor Swift fan complaints &lpar;CNBC&rpar;](http://www.techmeme.com/240523/p25#a240523p25)<!-- TECH:END -->
+ - [iFixit is breaking up with Samsung](https://www.theverge.com/samsung/2024/5/23/24162135/ifixit-end-samsung-repair-parts-deal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Polan](http://9gag.com/gag/abAqwZ8)
- - 😝 [Just don&#39;t](http://9gag.com/gag/a9yM4Gj)
- - 💣 [How to shut a woke attention seeker.](http://9gag.com/gag/a9yMwL0)
- - 😝 [Saints on the water](http://9gag.com/gag/amoLwvo)
- - 👉 [Once upon time there was a dog...](http://9gag.com/gag/a34dDdr)<!-- MEMES:END -->
+ - 😝 [What a 6000ft drop can do to a plane.](http://9gag.com/gag/aVvQ4z2)
+ - 😝 [1996 Seoul, a fan climb up the crane, MJ held him from falling the whole time while performing](http://9gag.com/gag/aByQbP2)
+ - 💣 [Horny is back\u2026](http://9gag.com/gag/abAqDyb)
+ - 😝 [Just an innocent kiss](http://9gag.com/gag/a7oKBDq)
+ - 👉 [There&#39;s no recovering from this.](http://9gag.com/gag/a9yMZb6)<!-- MEMES:END -->
 
 ---
 

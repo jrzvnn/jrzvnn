@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [System Settings getting shuffled again in macOS 15, among other UI tweaks](https://appleinsider.com/articles/24/05/23/system-settings-getting-shuffled-again-in-macos-15-among-other-ui-tweaks?utm_medium=rss)
+ - [Apple’s foldable MacBooks rumored to ship in 2026](https://www.theverge.com/2024/5/23/24163198/apple-foldable-macbooks-shipments-2026-kuo)
  - [Leaked contract: Samsung requires independent repair shops to share customer data and disassemble devices that have aftermarket parts after notifying Samsung &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240523/p28#a240523p28)
  - [Atari acquires longtime rival Intellivision](https://www.theverge.com/2024/5/23/24163176/atari-acquires-intellivision-amico-console)
- - [iFixit and Samsung end their partnership; iFixit blames Samsung, saying, &quot;Samsung does not seem interested in enabling repair at scale&quot; &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240523/p27#a240523p27)
- - [7 Best Barbecue and Hot Sauce Subscription Boxes &lpar;2024&rpar;: Small Batch, Award-Winning, Monthly](https://www.wired.com/story/the-best-barbecue-and-hot-sauce-subscription-boxes/)
- - [iFixit is breaking up with Samsung](https://www.theverge.com/samsung/2024/5/23/24162135/ifixit-end-samsung-repair-parts-deal)<!-- TECH:END -->
+ - [iFixit and Samsung end their partnership; iFixit blames Samsung, saying, &quot;Samsung does not seem interested in enabling repair at scale&quot; &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240523/p27#a240523p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Buy now, pay later services have to act more like credit card providers now](https://www.theverge.com/2024/5/23/24163384/buy-now-pay-later-services-bnpl-credit-card-rules)
+ - [Euclid space telescope captures tens of thousands of glittering galaxies](https://www.theverge.com/2024/5/23/24162627/euclid-space-telescope-images-dark-matter-rogue-planet)
+ - [Political consultant behind the Joe Biden deepfake robocalls faces $6 million fine](https://www.theverge.com/2024/5/23/24163411/fcc-fine-biden-deepfake-robocalls-steve-kramer-lingo-telecom)
  - [Sources: Helsing, which provides AI tools to militaries, is raising a $400M+ Series C led by General Catalyst at a ~$4B valuation, after raising $200M+ in 2023 &lpar;Forbes&rpar;](http://www.techmeme.com/240523/p32#a240523p32)
- - [Canva tackled digital design — and now the office suite is next](https://www.theverge.com/2024/5/23/24163356/canva-enterprise-announcement-design-platform-redesign)
- - [The Daylight DC1 is a $799 attempt to build a calmer computer](https://www.theverge.com/2024/5/23/24163225/daylight-dc1-tablet-livepaper)
- - [The sequel to Animal Crossing-like Cozy Grove hits Netflix in June](https://www.theverge.com/2024/5/23/24163281/cozy-grove-camp-spirit-release-date-netflix-gaming)
- - [A bill strengthening the UK Competition and Markets Authority to regulate tech giants like Apple and Google heads toward approval before the UK&#39;s July election &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240523/p31#a240523p31)<!-- TECH:END -->
+ - [Canva tackled digital design — and now the office suite is next](https://www.theverge.com/2024/5/23/24163356/canva-enterprise-announcement-design-platform-redesign)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

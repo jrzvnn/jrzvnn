@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twitter Is Dead, Long Live the Portal](https://www.wired.com/story/twitter-musk-new-york-dublin-portal/)
+ - [TikTok says it disrupted more than a dozen influence campaigns this year](https://www.theverge.com/2024/5/23/24163221/tiktok-political-content-influence-campaign-report-china)
  - [Microsoft outage took down Copilot, DuckDuckGo, and ChatGPT search features](https://www.theverge.com/2024/5/23/24163094/microsoft-bing-search-outage-copilot-duckduckgo-chatgpt)
- - [Samsung’s smart fridges mistakenly warned users its free TV service was ending](https://www.theverge.com/2024/5/23/24163164/samsung-tv-plus-discontinued-family-hub-smart-fridge)
- - [US hospital operator Ascension, which has ~140 hospitals, remains down indefinitely after a May 8 cyberattack, an eerily similar hack to Change Healthcare &lpar;Reed Abelson/New York Times&rpar;](http://www.techmeme.com/240523/p30#a240523p30)
- - [The Nintendo Switch has turned into an excellent Mario RPG machine](https://www.theverge.com/24162364/paper-mario-rpg-nintendo-switch)
- - [Your guide to this year’s summer video game events](https://www.theverge.com/24159055/summer-gaming-events-xbox-showcase-nintendo-direct)<!-- TECH:END -->
+ - [Best Deals on Earbuds and Headphones: Beats, Skullcandy and More See Reductions     - CNET](https://www.cnet.com/deals/best-headphone-deals/#ftag=CAD590a51e)
+ - [Samsung’s smart fridges mistakenly warned users its free TV service was ending](https://www.theverge.com/2024/5/23/24163164/samsung-tv-plus-discontinued-family-hub-smart-fridge)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

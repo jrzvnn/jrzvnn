@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The weekend stomp](http://9gag.com/gag/aYQp62v)
- - 😝 [Polan](http://9gag.com/gag/abAqwZ8)
- - 💣 [Horny is back\u2026](http://9gag.com/gag/abAqDyb)
- - 😝 [Lies, deception](http://9gag.com/gag/aQzp5o7)
- - 👉 [Let\u2019s just try 1/2 and see how it goes.](http://9gag.com/gag/a2vPgX1)<!-- MEMES:END -->
+ - 😝 [Gf marking her territory because presenter is hot](http://9gag.com/gag/a87b9ZV)
+ - 😝 [You go first!!!](http://9gag.com/gag/aqyZOzR)
+ - 💣 [That&#39;s what grandmas are for](http://9gag.com/gag/aD2wqZZ)
+ - 😝 [Roast me baby one more time](http://9gag.com/gag/aLnQVwv)
+ - 👉 [When I find my sisters friends panties](http://9gag.com/gag/ayNprEV)<!-- MEMES:END -->
 
 ---
 

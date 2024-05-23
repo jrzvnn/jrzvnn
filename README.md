@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Biden&#39;s New Import Rules Will Hit Ebike Batteries Too](https://www.wired.com/story/biden-tariffs-ebike-batteries/)
  - [How the FBI built its own smartphone company to hack the criminal underworld](https://www.theverge.com/2024/5/23/24163389/joseph-cox-dark-wire-fbi-phone-startup-anom-criminals-secure-messaging-decoder-interview)
  - [He Trained Crypto Cops to Fight Crypto Crime—and Allegedly Ran a $100M Dark Web Drug Market](https://www.wired.com/story/lin-rui-siang-incognito-market/)
  - [Spotify is going to break every Car Thing gadget it ever sold](https://www.theverge.com/2024/5/23/24163383/spotify-car-thing-discontinued-december-2024)
- - [Twitter Is Dead, Long Live the Portal](https://www.wired.com/story/twitter-musk-new-york-dublin-portal/)
- - [TikTok says it disrupted more than a dozen influence campaigns this year](https://www.theverge.com/2024/5/23/24163221/tiktok-political-content-influence-campaign-report-china)<!-- TECH:END -->
+ - [Twitter Is Dead, Long Live the Portal](https://www.wired.com/story/twitter-musk-new-york-dublin-portal/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,10 +164,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Google increases the Play Store&#39;s app price limit to $999.99 or the local equivalent, a 150% jump from the previous price limit of $400 set in October 2015 &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/240523/p38#a240523p38)
- - [iPhone 16 demand driven by AI induces Wedbush to hike Apple stock target](https://appleinsider.com/articles/24/05/23/iphone-16-supercycle-to-be-driven-by-demand-for-apple-ai-says-analyst?utm_medium=rss)
- - [You can now share passwords within your Google family group](https://www.theverge.com/2024/5/23/24163560/google-password-manager-share-passwords-family-group)
- - [Resin Dragon Fountain     - CNET](https://www.cnet.com/news/bronze-dragon-fountain-dpnl/#ftag=CAD590a51e)
- - [Memorial Day 2024 Sales: Take Advantage of the Best Deals Right Now     - CNET](https://www.cnet.com/deals/memorial-day-sales/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Get a $100 Amazon Gift Card to Save More This Memorial Day Weekend     - CNET](https://www.cnet.com/personal-finance/get-a-100-amazon-gift-card-to-save-more-this-memorial-day-weekend/#ftag=CAD590a51e)
+ - [Best Smart Home Deals: Nab Affordable Upgrades to Live Smarter for Less     - CNET](https://www.cnet.com/deals/best-smart-home-deals/#ftag=CAD590a51e)
+ - [Memorial Day Sales 2024: We Found the Best Deals at Amazon, Walmart, Best Buy and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-23/#ftag=CAD590a51e)
+ - [iPhone 16 demand driven by AI induces Wedbush to hike Apple stock target](https://appleinsider.com/articles/24/05/23/iphone-16-supercycle-to-be-driven-by-demand-for-apple-ai-says-analyst?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

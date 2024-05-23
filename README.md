@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pixelmator Pro revamps image editing with AI masking tools](https://appleinsider.com/articles/24/05/23/pixelmator-pro-revamps-image-editing-with-ai-masking-tools?utm_medium=rss)
+ - [GM will recycle its EV battery scrap with Tesla co-founder’s company](https://www.theverge.com/2024/5/23/24162480/gm-ultium-redwood-ev-battery-scrap-recycle)
+ - [TikTok adds new measures to limit the spread of videos from state-affiliated media accounts, and disrupted 15 influence operations in January to April 2024 &lpar;Sapna Maheshwari/New York Times&rpar;](http://www.techmeme.com/240523/p23#a240523p23)
  - [The best educational apps on iPad for kids and young students](https://appleinsider.com/inside/ipad/best/the-best-educational-apps-on-ipad-for-kids-and-young-students?utm_medium=rss)
- - [Future iPads and iPhones could tell stressed users to calm down](https://appleinsider.com/articles/24/05/23/future-ipads-and-iphones-could-tell-stressed-users-to-calm-down?utm_medium=rss)
- - [Google details Umoja, the first fiber optic cable to directly connect Africa with Australia, starting in Kenya and running via the DRC, Zambia, and South Africa &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240523/p22#a240523p22)
- - [Linus Tech Tips, accused in August 2023 of theft, ethical lapses, and sexual harassment, says an outside investigation found the claims were &quot;largely unfounded&quot; &lpar;Jeremy Gan/Dexerto&rpar;](http://www.techmeme.com/240523/p21#a240523p21)
- - [Everyone&#39;s Pumped About Heat Pumps](https://www.wired.com/story/gadget-lab-podcast-645/)<!-- TECH:END -->
+ - [Future iPads and iPhones could tell stressed users to calm down](https://appleinsider.com/articles/24/05/23/future-ipads-and-iphones-could-tell-stressed-users-to-calm-down?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

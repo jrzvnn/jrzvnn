@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just an innocent kiss](http://9gag.com/gag/a7oKBDq)
- - 😝 [Not safe for muslim](http://9gag.com/gag/aKGgNXQ)
- - 💣 [Just breaking news. Nothing to see here.](http://9gag.com/gag/aGyV6L6)
- - 😝 [Just don&#39;t](http://9gag.com/gag/a9yM4Gj)
- - 👉 [12 of the stupidest people on earth](http://9gag.com/gag/a5QNy9g)<!-- MEMES:END -->
+ - 😝 [Do you know who I am?!](http://9gag.com/gag/aYQpBBv)
+ - 😝 [Once upon time there was a dog...](http://9gag.com/gag/a34dDdr)
+ - 💣 [12 of the stupidest people on earth](http://9gag.com/gag/a5QNy9g)
+ - 😝 [There&#39;s no recovering from this.](http://9gag.com/gag/a9yMZb6)
+ - 👉 [Thats my Justin, keep it up](http://9gag.com/gag/aNDoXAb)<!-- MEMES:END -->
 
 ---
 

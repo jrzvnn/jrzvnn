@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The sequel to Animal Crossing-like Cozy Grove hits Netflix in June](https://www.theverge.com/2024/5/23/24163281/cozy-grove-camp-spirit-release-date-netflix-gaming)
+ - [A bill strengthening the UK Competition and Markets Authority to regulate tech giants like Apple and Google heads toward approval before the UK&#39;s July election &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240523/p31#a240523p31)
  - [Biden&#39;s New Import Rules Will Hit Ebike Batteries Too](https://www.wired.com/story/biden-tariffs-ebike-batteries/)
- - [How the FBI built its own smartphone company to hack the criminal underworld](https://www.theverge.com/2024/5/23/24163389/joseph-cox-dark-wire-fbi-phone-startup-anom-criminals-secure-messaging-decoder-interview)
- - [He Trained Crypto Cops to Fight Crypto Crime—and Allegedly Ran a $100M Dark Web Drug Market](https://www.wired.com/story/lin-rui-siang-incognito-market/)
- - [Spotify is going to break every Car Thing gadget it ever sold](https://www.theverge.com/2024/5/23/24163383/spotify-car-thing-discontinued-december-2024)
- - [Twitter Is Dead, Long Live the Portal](https://www.wired.com/story/twitter-musk-new-york-dublin-portal/)<!-- TECH:END -->
+ - [If I Can&#39;t Carry It, It&#39;s Not a &#39;Portable&#39; Power Station     - CNET](https://www.cnet.com/home/energy-and-utilities/if-i-cant-carry-it-its-not-a-portable-power-station/#ftag=CAD590a51e)
+ - [How the FBI built its own smartphone company to hack the criminal underworld](https://www.theverge.com/2024/5/23/24163389/joseph-cox-dark-wire-fbi-phone-startup-anom-criminals-secure-messaging-decoder-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

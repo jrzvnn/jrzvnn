@@ -164,10 +164,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Q&amp;A with Taiwan&#39;s ex-Digital Minister Audrey Tang on Plurality, a book on collaboration-enhancing tech she wrote with Microsoft&#39;s internal economist Glen Weyl &lpar;Daniel Kuhn/CoinDesk&rpar;](http://www.techmeme.com/240523/p10#a240523p10)
+ - [Memorial Day Sales 2024: Save Big on Early Deals     - CNET](https://www.cnet.com/deals/best-memorial-day-sales/#ftag=CAD590a51e)
+ - [Get Amazon Prime for Free This Memorial Day Weekend With This Simple Trick     - CNET](https://www.cnet.com/tech/mobile/get-amazon-prime-for-free-this-memorial-day-weekend-with-this-simple-trick/#ftag=CAD590a51e)
  - [Box CEO on how generative AI can turn the mostly unstructured data inside enterprises into valuable knowledge, enabling greater automation of workflows and more &lpar;Aaron Levie/@levie&rpar;](http://www.techmeme.com/240523/p9#a240523p9)
- - [SSI Beneficiaries: You&#39;re Getting Another Check Next Week. Here&#39;s Why     - CNET](https://www.cnet.com/personal-finance/ssi-beneficiaries-youre-getting-another-check-next-week-heres-why/#ftag=CAD590a51e)
- - [Meta&#39;s Yann LeCun says LLMs won&#39;t reach human intelligence and instead FAIR is working on a &quot;world modeling&quot; vision, to create AI that can develop common sense &lpar;Financial Times&rpar;](http://www.techmeme.com/240523/p8#a240523p8)
- - [In an interview, Brad Smith says Microsoft&#39;s deal with UAE-based AI firm G42 could eventually involve the transfer of key US chips and AI technology abroad &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/240523/p7#a240523p7)<!-- TECH:END -->
+ - [SSI Beneficiaries: You&#39;re Getting Another Check Next Week. Here&#39;s Why     - CNET](https://www.cnet.com/personal-finance/ssi-beneficiaries-youre-getting-another-check-next-week-heres-why/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

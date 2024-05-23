@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US hospital operator Ascension, which has ~140 hospitals, remains down indefinitely after a May 8 cyberattack, an eerily similar hack to Change Healthcare &lpar;Reed Abelson/New York Times&rpar;](http://www.techmeme.com/240523/p30#a240523p30)
+ - [The Nintendo Switch has turned into an excellent Mario RPG machine](https://www.theverge.com/24162364/paper-mario-rpg-nintendo-switch)
  - [Your guide to this year’s summer video game events](https://www.theverge.com/24159055/summer-gaming-events-xbox-showcase-nintendo-direct)
  - [An interview with Microsoft&#39;s Windows and Surface head Pavan Davuluri on his vision, Copilot AI, Windows Copilot Runtime, streaming Windows to PCs, and more &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240523/p29#a240523p29)
- - [A Leak of Biometric Police Data Is a Sign of Things to Come](https://www.wired.com/story/police-face-recognition-biometrics-leak-india/)
- - [Pocket-Sized AI Models Could Unlock a New Era of Computing](https://www.wired.com/story/pocket-sized-ai-models-unlock-new-era-of-computing/)
- - [USA v. Live Nation-Ticketmaster: all the news on the lawsuit that could take down a giant](https://www.theverge.com/24163157/doj-live-nation-ticketmaster-antitrust-lawsuit)<!-- TECH:END -->
+ - [A Leak of Biometric Police Data Is a Sign of Things to Come](https://www.wired.com/story/police-face-recognition-biometrics-leak-india/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Men these days...](http://9gag.com/gag/aD2wLdK)
- - 😝 [Gotta save em all](http://9gag.com/gag/aqyZOyY)
- - 💣 [I couldn&#39;t find a non caption video without the music on, but I agree with her.](http://9gag.com/gag/aGyVN5n)
+ - 😝 [Just an innocent kiss](http://9gag.com/gag/a7oKBDq)
  - 😝 [Just don&#39;t](http://9gag.com/gag/a9yM4Gj)
- - 👉 [Let\u2019s just try 1/2 and see how it goes.](http://9gag.com/gag/a2vPgX1)<!-- MEMES:END -->
+ - 💣 [Just breaking news. Nothing to see here.](http://9gag.com/gag/aGyV6L6)
+ - 😝 [Why doesn&#39;t she just send an ambulance immediately?](http://9gag.com/gag/avyZqrW)
+ - 👉 [Roast me baby one more time](http://9gag.com/gag/aLnQVwv)<!-- MEMES:END -->
 
 ---
 

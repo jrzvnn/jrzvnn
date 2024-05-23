@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Repo man](http://9gag.com/gag/abAqw99)
- - 😝 [The camping of horrors](http://9gag.com/gag/amoLwyV)
+ - 😝 [What did this fckn animal eat?](http://9gag.com/gag/a9yMep6)
+ - 😝 [How Female Brain works](http://9gag.com/gag/aLnQOqP)
  - 💣 [`go for him` dude ran to get his half lol](http://9gag.com/gag/amoLwzV)
- - 😝 [You go first!!!](http://9gag.com/gag/aqyZOzR)
- - 👉 [That&#39;s what grandmas are for](http://9gag.com/gag/aD2wqZZ)<!-- MEMES:END -->
+ - 😝 [Just don&#39;t](http://9gag.com/gag/a9yM4Gj)
+ - 👉 [You go first!!!](http://9gag.com/gag/aqyZOzR)<!-- MEMES:END -->
 
 ---
 

@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gf marking her territory because presenter is hot](http://9gag.com/gag/a87b9ZV)
- - 😝 [You go first!!!](http://9gag.com/gag/aqyZOzR)
- - 💣 [That&#39;s what grandmas are for](http://9gag.com/gag/aD2wqZZ)
+ - 😝 [`go for him` dude ran to get his half lol](http://9gag.com/gag/amoLwzV)
  - 😝 [Roast me baby one more time](http://9gag.com/gag/aLnQVwv)
- - 👉 [When I find my sisters friends panties](http://9gag.com/gag/ayNprEV)<!-- MEMES:END -->
+ - 💣 [Just don&#39;t](http://9gag.com/gag/a9yM4Gj)
+ - 😝 [Gf marking her territory because presenter is hot](http://9gag.com/gag/a87b9ZV)
+ - 👉 [That&#39;s what grandmas are for](http://9gag.com/gag/aD2wqZZ)<!-- MEMES:END -->
 
 ---
 

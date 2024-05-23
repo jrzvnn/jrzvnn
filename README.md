@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Global foundry revenue rose 12% YoY in Q1 2024, but dropped 5% QoQ; TSMC&#39;s market share rose 1% YoY to 62%, Samsung rose 2% YoY to 13%, and SMIC rose 1% to 6% &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/240523/p11#a240523p11)
  - [Q&amp;A with Taiwan&#39;s ex-Digital Minister Audrey Tang on Plurality, a book on collaboration-enhancing tech she wrote with Microsoft&#39;s internal economist Glen Weyl &lpar;Daniel Kuhn/CoinDesk&rpar;](http://www.techmeme.com/240523/p10#a240523p10)
  - [Memorial Day Sales 2024: Save Big on Early Deals     - CNET](https://www.cnet.com/deals/best-memorial-day-sales/#ftag=CAD590a51e)
  - [Get Amazon Prime for Free This Memorial Day Weekend With This Simple Trick     - CNET](https://www.cnet.com/tech/mobile/get-amazon-prime-for-free-this-memorial-day-weekend-with-this-simple-trick/#ftag=CAD590a51e)
- - [Box CEO on how generative AI can turn the mostly unstructured data inside enterprises into valuable knowledge, enabling greater automation of workflows and more &lpar;Aaron Levie/@levie&rpar;](http://www.techmeme.com/240523/p9#a240523p9)
- - [SSI Beneficiaries: You&#39;re Getting Another Check Next Week. Here&#39;s Why     - CNET](https://www.cnet.com/personal-finance/ssi-beneficiaries-youre-getting-another-check-next-week-heres-why/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Box CEO on how generative AI can turn the mostly unstructured data inside enterprises into valuable knowledge, enabling greater automation of workflows and more &lpar;Aaron Levie/@levie&rpar;](http://www.techmeme.com/240523/p9#a240523p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

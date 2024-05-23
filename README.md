@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Truecaller partners with Microsoft&#39;s Azure AI Speech to let its AI Assistant users create an AI version of their voice to answer calls based on a recorded clip &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240522/p36#a240522p36)
+ - [Google Pay now lets users see their card benefits and perks before selecting a card, use BNPL on more sites, and fill in card details through biometrics or PIN &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240522/p35#a240522p35)
+ - [How Solar Generators Can Keep Your Gadgets Powered While Camping     - CNET](https://www.cnet.com/home/energy-and-utilities/how-solar-generators-can-keep-your-gadgets-powered-while-camping/#ftag=CAD590a51e)
  - [Documents and sources: OpenAI hired an actress to create ChatGPT&#39;s Sky voice months before Sam Altman contacted Scarlett Johansson &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/240522/p34#a240522p34)
- - [Steve Kramer, the political consultant who admitted to commissioning the deepfake robocall of Biden, has been indicted in New Hampshire and faces five counts &lpar;Alex Seitz-Wald/NBC News&rpar;](http://www.techmeme.com/240522/p33#a240522p33)
- - [Leaked OpenAI docs show aggressive tactics toward ex-employees and contradict leadership&#39;s comments about being unaware of provisions about equity cancellation &lpar;Kelsey Piper/Vox&rpar;](http://www.techmeme.com/240522/p32#a240522p32)
- - [Echo Show 8 &lpar;3rd Gen&rpar;     - CNET](https://www.cnet.com/tech/echo-show-8-3rd-gen-dpnl/#ftag=CAD590a51e)
- - [Best Cooler of 2024     - CNET](https://www.cnet.com/home/yard-and-outdoors/best-coolers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Where to Install Your Solar Panels &lpar;And Where You Shouldn&#39;t&rpar;     - CNET](https://www.cnet.com/home/energy-and-utilities/where-to-install-your-solar-panels-and-where-you-shouldnt/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

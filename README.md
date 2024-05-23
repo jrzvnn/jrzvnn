@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify tells customers that its Car Thing dashboard accessory will stop working on December 9, less than a year after it went on sale, without offering refunds &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240523/p36#a240523p36)
+ - [IRS extends its Free File tax program for five more years](https://www.theverge.com/2024/5/23/24163530/irs-free-file-tax-program-extended)
+ - [Faux Rattan Loveseat     - CNET](https://www.cnet.com/news/faux-rattan-loveseat-dpnl/#ftag=CAD590a51e)
+ - [Best Memorial Day Sleep Deals: Save on Pillows, Comforters and Sheet Sets From Top-Rated Brands     - CNET](https://www.cnet.com/deals/best-memorial-day-sleep-deals-2024/#ftag=CAD590a51e)
  - [Memorial Day Sales 2024: We Found the Best Deals at Amazon, Walmart, Best Buy and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-23/#ftag=CAD590a51e)
- - [Student Loan Forgiveness Update: Biden Administration Cancels Debt for Another 160,000 Borrowers     - CNET](https://www.cnet.com/personal-finance/loans/biden-administration-forgives-student-loan-debt-for-another-160000-borrowers/#ftag=CAD590a51e)
- - [Google promised a better search experience — now it’s telling us to put glue on our pizza](https://www.theverge.com/2024/5/23/24162896/google-ai-overview-hallucinations-glue-in-pizza)
- - [Screenshots of Google&#39;s AI Overview giving bizarre answers go viral, including telling users to add &quot;1/8 cup of non-toxic glue&quot; to make cheese stick on a pizza &lpar;Jyoti Mann/Business Insider&rpar;](http://www.techmeme.com/240523/p35#a240523p35)<!-- TECH:END -->
+ - [Don&#39;t Snooze on The Sleepy Girl Mocktail: CNET&#39;s Sleep Expert’s Take on the Viral Sleep Trend     - CNET](https://www.cnet.com/health/sleep/dont-snooze-on-the-sleepy-girl-mocktail/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spotify tells customers that its Car Thing dashboard accessory will stop working on December 9, less than a year after it went on sale, without offering refunds &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240523/p36#a240523p36)
  - [Google promised a better search experience — now it’s telling us to put glue on our pizza](https://www.theverge.com/2024/5/23/24162896/google-ai-overview-hallucinations-glue-in-pizza)
  - [Screenshots of Google&#39;s AI Overview giving bizarre answers go viral, including telling users to add &quot;1/8 cup of non-toxic glue&quot; to make cheese stick on a pizza &lpar;Jyoti Mann/Business Insider&rpar;](http://www.techmeme.com/240523/p35#a240523p35)
  - [Most US TikTok Creators Don’t Think a Ban Will Happen](https://www.wired.com/story/most-us-tiktok-creators-dont-think-a-ban-will-happen/)
- - [Sources: Alphabet and Meta are in talks with Hollywood studios about licensing content for use in AI video generation tools; Disney and Netflix aren&#39;t willing &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/240523/p34#a240523p34)
- - [Leak: the Asus ROG Ally X will have twice the battery at 80Wh and two USB-C ports](https://www.theverge.com/2024/5/23/24163484/asus-rog-ally-x-leak)<!-- TECH:END -->
+ - [Sources: Alphabet and Meta are in talks with Hollywood studios about licensing content for use in AI video generation tools; Disney and Netflix aren&#39;t willing &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/240523/p34#a240523p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

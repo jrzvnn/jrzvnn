@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US SEC approves spot Ethereum ETFs from BlackRock, Fidelity, Grayscale, Bitwise, VanEck, Ark, Invesco Galaxy, and Franklin Templeton &lpar;The Block&rpar;](http://www.techmeme.com/240523/p37#a240523p37)
- - [You can save up to $20 on Anker’s newest Qi2 power banks](https://www.theverge.com/2024/5/23/24163317/anker-maggo-power-bank-10k-6k-qi2-charger-deal-sale)
- - [IRS extends its Free File tax program for five more years](https://www.theverge.com/2024/5/23/24163530/irs-free-file-tax-program-extended)
- - [Faux Rattan Loveseat     - CNET](https://www.cnet.com/news/faux-rattan-loveseat-dpnl/#ftag=CAD590a51e)
- - [Best Memorial Day Sleep Deals: Save on Pillows, Comforters and Sheet Sets From Top-Rated Brands     - CNET](https://www.cnet.com/deals/best-memorial-day-sleep-deals-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [You can now share passwords within your Google family group](https://www.theverge.com/2024/5/23/24163560/google-password-manager-share-passwords-family-group)
+ - [Resin Dragon Fountain     - CNET](https://www.cnet.com/news/bronze-dragon-fountain-dpnl/#ftag=CAD590a51e)
+ - [Memorial Day 2024 Sales: Take Advantage of the Best Deals Right Now     - CNET](https://www.cnet.com/deals/memorial-day-sales/#ftag=CAD590a51e)
+ - [Memorial Day Sales 2024: We Found the Best Deals at Amazon, Walmart, Best Buy and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-23/#ftag=CAD590a51e)
+ - [Solar Garden Turtle     - CNET](https://www.cnet.com/news/solar-garden-turtle-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

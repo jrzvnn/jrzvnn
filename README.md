@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When I find my sisters friends panties](http://9gag.com/gag/ayNprEV)
- - 😝 [Thats my Justin, keep it up](http://9gag.com/gag/aNDoXAb)
- - 💣 [You go first!!!](http://9gag.com/gag/aqyZOzR)
- - 😝 [Repo man](http://9gag.com/gag/abAqw99)
- - 👉 [Why doesn&#39;t she just send an ambulance immediately?](http://9gag.com/gag/avyZqrW)<!-- MEMES:END -->
+ - 😝 [Do you know who I am?!](http://9gag.com/gag/aYQpBBv)
+ - 😝 [Lies, deception](http://9gag.com/gag/aQzp5o7)
+ - 💣 [Lol.](http://9gag.com/gag/azxLwDq)
+ - 😝 [Saints on the water](http://9gag.com/gag/amoLwvo)
+ - 👉 [Koala diet consists mostly of eucalyptus but they only recognize the leaves as food when on a branch](http://9gag.com/gag/aYQp0wN)<!-- MEMES:END -->
 
 ---
 

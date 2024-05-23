@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Living her best life...](http://9gag.com/gag/aQzpB48)
- - 😝 [That&#39;s what grandmas are for](http://9gag.com/gag/aD2wqZZ)
- - 💣 [You go first!!!](http://9gag.com/gag/aqyZOzR)
- - 😝 [There&#39;s no recovering from this.](http://9gag.com/gag/a9yMZb6)
- - 👉 [Roast me baby one more time](http://9gag.com/gag/aLnQVwv)<!-- MEMES:END -->
+ - 😝 [Just breaking news. Nothing to see here.](http://9gag.com/gag/aGyV6L6)
+ - 😝 [You go first!!!](http://9gag.com/gag/aqyZOzR)
+ - 💣 [Roast me baby one more time](http://9gag.com/gag/aLnQVwv)
+ - 😝 [Thats my Justin, keep it up](http://9gag.com/gag/aNDoXAb)
+ - 👉 [Man plays football with the Quran in public, while muslims lose their minds around him](http://9gag.com/gag/adB6wx9)<!-- MEMES:END -->
 
 ---
 

@@ -174,9 +174,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Just an innocent kiss](http://9gag.com/gag/a7oKBDq)
  - 😝 [Just don&#39;t](http://9gag.com/gag/a9yM4Gj)
- - 💣 [Just breaking news. Nothing to see here.](http://9gag.com/gag/aGyV6L6)
- - 😝 [Why doesn&#39;t she just send an ambulance immediately?](http://9gag.com/gag/avyZqrW)
- - 👉 [Roast me baby one more time](http://9gag.com/gag/aLnQVwv)<!-- MEMES:END -->
+ - 💣 [Thats my Justin, keep it up](http://9gag.com/gag/aNDoXAb)
+ - 😝 [That&#39;s what grandmas are for](http://9gag.com/gag/aD2wqZZ)
+ - 👉 [Living her best life...](http://9gag.com/gag/aQzpB48)<!-- MEMES:END -->
 
 ---
 

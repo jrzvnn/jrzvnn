@@ -173,10 +173,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [What did this fckn animal eat?](http://9gag.com/gag/a9yMep6)
- - 😝 [How Female Brain works](http://9gag.com/gag/aLnQOqP)
+ - 😝 [Thats my Justin, keep it up](http://9gag.com/gag/aNDoXAb)
  - 💣 [`go for him` dude ran to get his half lol](http://9gag.com/gag/amoLwzV)
- - 😝 [Just don&#39;t](http://9gag.com/gag/a9yM4Gj)
- - 👉 [You go first!!!](http://9gag.com/gag/aqyZOzR)<!-- MEMES:END -->
+ - 😝 [When I find my sisters friends panties](http://9gag.com/gag/ayNprEV)
+ - 👉 [Why doesn&#39;t she just send an ambulance immediately?](http://9gag.com/gag/avyZqrW)<!-- MEMES:END -->
 
 ---
 

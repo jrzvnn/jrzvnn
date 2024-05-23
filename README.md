@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What a 6000ft drop can do to a plane.](http://9gag.com/gag/aVvQ4z2)
- - 😝 [1996 Seoul, a fan climb up the crane, MJ held him from falling the whole time while performing](http://9gag.com/gag/aByQbP2)
- - 💣 [Horny is back\u2026](http://9gag.com/gag/abAqDyb)
- - 😝 [Just an innocent kiss](http://9gag.com/gag/a7oKBDq)
- - 👉 [There&#39;s no recovering from this.](http://9gag.com/gag/a9yMZb6)<!-- MEMES:END -->
+ - 😝 [Living her best life...](http://9gag.com/gag/aQzpB48)
+ - 😝 [That&#39;s what grandmas are for](http://9gag.com/gag/aD2wqZZ)
+ - 💣 [You go first!!!](http://9gag.com/gag/aqyZOzR)
+ - 😝 [There&#39;s no recovering from this.](http://9gag.com/gag/a9yMZb6)
+ - 👉 [Roast me baby one more time](http://9gag.com/gag/aLnQVwv)<!-- MEMES:END -->
 
 ---
 

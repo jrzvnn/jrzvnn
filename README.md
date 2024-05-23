@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft outage took down Copilot, DuckDuckGo, and ChatGPT search features](https://www.theverge.com/2024/5/23/24163094/microsoft-bing-search-outage-copilot-duckduckgo-chatgpt)
+ - [Samsung’s smart fridges mistakenly warned users its free TV service was ending](https://www.theverge.com/2024/5/23/24163164/samsung-tv-plus-discontinued-family-hub-smart-fridge)
  - [US hospital operator Ascension, which has ~140 hospitals, remains down indefinitely after a May 8 cyberattack, an eerily similar hack to Change Healthcare &lpar;Reed Abelson/New York Times&rpar;](http://www.techmeme.com/240523/p30#a240523p30)
  - [The Nintendo Switch has turned into an excellent Mario RPG machine](https://www.theverge.com/24162364/paper-mario-rpg-nintendo-switch)
- - [Your guide to this year’s summer video game events](https://www.theverge.com/24159055/summer-gaming-events-xbox-showcase-nintendo-direct)
- - [An interview with Microsoft&#39;s Windows and Surface head Pavan Davuluri on his vision, Copilot AI, Windows Copilot Runtime, streaming Windows to PCs, and more &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240523/p29#a240523p29)
- - [A Leak of Biometric Police Data Is a Sign of Things to Come](https://www.wired.com/story/police-face-recognition-biometrics-leak-india/)<!-- TECH:END -->
+ - [Your guide to this year’s summer video game events](https://www.theverge.com/24159055/summer-gaming-events-xbox-showcase-nintendo-direct)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

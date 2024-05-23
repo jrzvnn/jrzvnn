@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Home delivery](http://9gag.com/gag/axy2rzL)
- - 😝 [The camping of horrors](http://9gag.com/gag/amoLwyV)
- - 💣 [You go first!!!](http://9gag.com/gag/aqyZOzR)
- - 😝 [`go for him` dude ran to get his half lol](http://9gag.com/gag/amoLwzV)
- - 👉 [How Female Brain works](http://9gag.com/gag/aLnQOqP)<!-- MEMES:END -->
+ - 😝 [Do you know who I am?!](http://9gag.com/gag/aYQpBBv)
+ - 😝 [Let\u2019s just try 1/2 and see how it goes.](http://9gag.com/gag/a2vPgX1)
+ - 💣 [Gf marking her territory because presenter is hot](http://9gag.com/gag/a87b9ZV)
+ - 😝 [Lemme see your best perky collection](http://9gag.com/gag/avyZj0O)
+ - 👉 [Horny is back\u2026](http://9gag.com/gag/abAqDyb)<!-- MEMES:END -->
 
 ---
 

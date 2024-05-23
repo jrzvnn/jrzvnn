@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Do you know who I am?!](http://9gag.com/gag/aYQpBBv)
- - 😝 [Once upon time there was a dog...](http://9gag.com/gag/a34dDdr)
- - 💣 [12 of the stupidest people on earth](http://9gag.com/gag/a5QNy9g)
+ - 😝 [Thats my Justin, keep it up](http://9gag.com/gag/aNDoXAb)
  - 😝 [There&#39;s no recovering from this.](http://9gag.com/gag/a9yMZb6)
- - 👉 [Thats my Justin, keep it up](http://9gag.com/gag/aNDoXAb)<!-- MEMES:END -->
+ - 💣 [Games have been removed from your library. For an unlisted reason. Excuse me wtf EA?](http://9gag.com/gag/aGyVroZ)
+ - 😝 [6 series that made me binge watch and exceeded all my expectations.](http://9gag.com/gag/an7XWm0)
+ - 👉 [12 of the stupidest people on earth](http://9gag.com/gag/a5QNy9g)<!-- MEMES:END -->
 
 ---
 

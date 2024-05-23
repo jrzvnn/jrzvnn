@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Save $400 on Apple&#39;s M3 Max MacBook Pro 16-inch with 64GB RAM](https://appleinsider.com/articles/24/05/23/save-400-on-apples-m3-max-macbook-pro-16-inch-with-64gb-ram?utm_medium=rss)
  - [Canadian firms finally get Tap to Pay on iPhone](https://appleinsider.com/articles/24/05/23/canadian-firms-finally-get-tap-to-pay-on-iphone?utm_medium=rss)
  - [Get ready for a rough hurricane season](https://www.theverge.com/24163211/atlantic-hurricane-season-forecast-record-storm-national-weather-service)
  - [You can buy an LG OLED TV starting at just $736](https://www.theverge.com/2024/5/23/24162814/ebay-lg-c3-c4-oled-tv-samsung-galaxy-buds-fe-deal-sale)
- - [System Settings getting shuffled again in macOS 15, among other UI tweaks](https://appleinsider.com/articles/24/05/23/system-settings-getting-shuffled-again-in-macos-15-among-other-ui-tweaks?utm_medium=rss)
- - [22 Best Memorial Day Sales &lpar;2024&rpar;: TVs, Office Chairs, and Ebikes](https://www.wired.com/story/best-memorial-day-sales-2024/)<!-- TECH:END -->
+ - [System Settings getting shuffled again in macOS 15, among other UI tweaks](https://appleinsider.com/articles/24/05/23/system-settings-getting-shuffled-again-in-macos-15-among-other-ui-tweaks?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

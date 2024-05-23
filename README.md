@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Just an innocent kiss](http://9gag.com/gag/a7oKBDq)
  - 😝 [That&#39;s what grandmas are for](http://9gag.com/gag/aD2wqZZ)
- - 😝 [Thats my Justin, keep it up](http://9gag.com/gag/aNDoXAb)
- - 💣 [Games have been removed from your library. For an unlisted reason. Excuse me wtf EA?](http://9gag.com/gag/aGyVroZ)
- - 😝 [Not safe for muslim](http://9gag.com/gag/aKGgNXQ)
- - 👉 [Hungarian swords from 14th Century. The sword in the middle is 270 cm long.](http://9gag.com/gag/azxLyjb)<!-- MEMES:END -->
+ - 💣 [Roast me baby one more time](http://9gag.com/gag/aLnQVwv)
+ - 😝 [Just breaking news. Nothing to see here.](http://9gag.com/gag/aGyV6L6)
+ - 👉 [Living her best life...](http://9gag.com/gag/aQzpB48)<!-- MEMES:END -->
 
 ---
 

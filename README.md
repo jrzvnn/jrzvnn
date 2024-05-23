@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [At least I&#39;m not a virgin..](http://9gag.com/gag/aO8yOwr)
- - 😝 [6 series that made me binge watch and exceeded all my expectations.](http://9gag.com/gag/an7XWm0)
- - 💣 [You go first!!!](http://9gag.com/gag/aqyZOzR)
- - 😝 [12 of the stupidest people on earth](http://9gag.com/gag/a5QNy9g)
- - 👉 [That&#39;s what grandmas are for](http://9gag.com/gag/aD2wqZZ)<!-- MEMES:END -->
+ - 😝 [Roast me baby one more time](http://9gag.com/gag/aLnQVwv)
+ - 😝 [No wonder the birth rate are so low](http://9gag.com/gag/amoLbyo)
+ - 💣 [12 of the stupidest people on earth](http://9gag.com/gag/a5QNy9g)
+ - 😝 [1996 Seoul, a fan climb up the crane, MJ held him from falling the whole time while performing](http://9gag.com/gag/aByQbP2)
+ - 👉 [That&#39;s not water...](http://9gag.com/gag/ae93PWm)<!-- MEMES:END -->
 
 ---
 

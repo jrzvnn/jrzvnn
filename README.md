@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Screenshots of Google&#39;s AI Overview giving bizarre answers go viral, including telling users to add &quot;1/8 cup of non-toxic glue&quot; to make cheese stick on a pizza &lpar;Jyoti Mann/Business Insider&rpar;](http://www.techmeme.com/240523/p35#a240523p35)
+ - [Most US TikTok Creators Don’t Think a Ban Will Happen](https://www.wired.com/story/most-us-tiktok-creators-dont-think-a-ban-will-happen/)
  - [Sources: Alphabet and Meta are in talks with Hollywood studios about licensing content for use in AI video generation tools; Disney and Netflix aren&#39;t willing &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/240523/p34#a240523p34)
  - [Leak: the Asus ROG Ally X will have twice the battery at 80Wh and two USB-C ports](https://www.theverge.com/2024/5/23/24163484/asus-rog-ally-x-leak)
- - [The 30 Best Movies on Hulu This Week &lpar;May 2024&rpar;](https://www.wired.com/story/best-movies-hulu-right-now/)
- - [The Kia EV3 will have over 300 miles of range and a ChatGPT-like AI assistant](https://www.theverge.com/2024/5/23/24163271/kia-ev3-electric-suv-launch-korea-europe-us)
- - [Sources: a16z, Sequoia Capital, and Tribe Capital commit to joining xAI&#39;s new funding round, in which the company seeks to raise ~$6B at an $18B valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/240523/p33#a240523p33)<!-- TECH:END -->
+ - [The 30 Best Movies on Hulu This Week &lpar;May 2024&rpar;](https://www.wired.com/story/best-movies-hulu-right-now/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

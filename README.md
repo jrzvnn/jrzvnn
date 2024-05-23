@@ -172,10 +172,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What did this fckn animal eat?](http://9gag.com/gag/a9yMep6)
- - 😝 [Thats my Justin, keep it up](http://9gag.com/gag/aNDoXAb)
- - 💣 [`go for him` dude ran to get his half lol](http://9gag.com/gag/amoLwzV)
  - 😝 [When I find my sisters friends panties](http://9gag.com/gag/ayNprEV)
+ - 😝 [Thats my Justin, keep it up](http://9gag.com/gag/aNDoXAb)
+ - 💣 [You go first!!!](http://9gag.com/gag/aqyZOzR)
+ - 😝 [Repo man](http://9gag.com/gag/abAqw99)
  - 👉 [Why doesn&#39;t she just send an ambulance immediately?](http://9gag.com/gag/avyZqrW)<!-- MEMES:END -->
 
 ---

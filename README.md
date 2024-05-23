@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Japan could be next to force third-party app stores on Apple](https://appleinsider.com/articles/24/05/23/japan-could-be-next-to-force-third-party-app-stores-on-apple?utm_medium=rss)
+ - [Microsoft Bing issue takes down Copilot, DuckDuckGo, and ChatGPT search features](https://www.theverge.com/2024/5/23/24163094/microsoft-bing-search-outage-copilot-duckduckgo-chatgpt)
+ - [Xiaomi reports Q1 revenue up 27% YoY to ~$10.4B, above ~$10.3B est., net profit down 1% YoY to ~$588M, above ~$572M est., and smartphone shipments up 34% YoY &lpar;Bloomberg&rpar;](http://www.techmeme.com/240523/p15#a240523p15)
  - [Embracer reports FY2022-23 net sales up 12% YoY to ~$3.9B, PC/console games up 7% YoY to ~$1.3B, and mobile up 2% YoY to $551M; its CFO and deputy CEO step down &lpar;James Batchelor/GamesIndustry.biz&rpar;](http://www.techmeme.com/240523/p14#a240523p14)
- - [Kia EV3 Electric SUV: Range, Price, Specs, Release Date](https://www.wired.com/story/kia-ev3-electric-suv-price-range-specs-release-date/)
- - [As Nvidia&#39;s business booms, a look at some potential issues: rivals and key customers making their own AI chips, startups struggling to monetize AI, and more &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/240523/p13#a240523p13)
- - [Microsoft users report a massive outage impacting Bing.com, Copilot for web and mobile, Copilot in Windows, and more; ChatGPT and DuckDuckGo have similar issues &lpar;Mayank Parmar/BleepingComputer&rpar;](http://www.techmeme.com/240523/p12#a240523p12)
- - [Global foundry revenue rose 12% YoY in Q1 2024, but dropped 5% QoQ; TSMC&#39;s market share rose 1% YoY to 62%, Samsung rose 2% YoY to 13%, and SMIC rose 1% to 6% &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/240523/p11#a240523p11)<!-- TECH:END -->
+ - [Kia EV3 Electric SUV: Range, Price, Specs, Release Date](https://www.wired.com/story/kia-ev3-electric-suv-price-range-specs-release-date/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

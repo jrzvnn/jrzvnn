@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Documents and sources: OpenAI hired an actress to create ChatGPT&#39;s Sky voice months before Sam Altman contacted Scarlett Johansson &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/240522/p34#a240522p34)
+ - [Steve Kramer, the political consultant who admitted to commissioning the deepfake robocall of Biden, has been indicted in New Hampshire and faces five counts &lpar;Alex Seitz-Wald/NBC News&rpar;](http://www.techmeme.com/240522/p33#a240522p33)
  - [Leaked OpenAI docs show aggressive tactics toward ex-employees and contradict leadership&#39;s comments about being unaware of provisions about equity cancellation &lpar;Kelsey Piper/Vox&rpar;](http://www.techmeme.com/240522/p32#a240522p32)
- - [NASA’s Psyche mission fires up its futuristic electric engines](https://www.theverge.com/2024/5/22/24162775/nasa-psyche-mission-hall-thruster-asteroid-belt-mars)
- - [Nvidia will now make new AI chips every year](https://www.theverge.com/2024/5/22/24162860/nvidia-ai-chip-every-year-blackwell-rubin)
- - [Portland-based Hydrolix, a data lake service that offers a repository for log data, raised a $35M Series B led by S3 Ventures, bringing its total raised to $68M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240522/p31#a240522p31)
- - [Apple Updates Maps, Wallet Ahead of the Paris Olympics     - CNET](https://www.cnet.com/tech/mobile/apple-updates-maps-wallet-ahead-of-the-paris-olympics/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Echo Show 8 &lpar;3rd Gen&rpar;     - CNET](https://www.cnet.com/tech/echo-show-8-3rd-gen-dpnl/#ftag=CAD590a51e)
+ - [Best Cooler of 2024     - CNET](https://www.cnet.com/home/yard-and-outdoors/best-coolers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

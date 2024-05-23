@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [That&#39;s what grandmas are for](http://9gag.com/gag/aD2wqZZ)
+ - 😝 [Thats my Justin, keep it up](http://9gag.com/gag/aNDoXAb)
+ - 💣 [Roast me baby one more time](http://9gag.com/gag/aLnQVwv)
  - 😝 [Just an innocent kiss](http://9gag.com/gag/a7oKBDq)
- - 😝 [Can you guess where this was happening?](http://9gag.com/gag/azxLy7q)
- - 💣 [Horny is back\u2026](http://9gag.com/gag/abAqDyb)
- - 😝 [Just don&#39;t](http://9gag.com/gag/a9yM4Gj)
- - 👉 [Thats my Justin, keep it up](http://9gag.com/gag/aNDoXAb)<!-- MEMES:END -->
+ - 👉 [Not safe for muslim](http://9gag.com/gag/aKGgNXQ)<!-- MEMES:END -->
 
 ---
 

@@ -172,10 +172,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not safe for muslim](http://9gag.com/gag/aKGgNXQ)
- - 😝 [That&#39;s not water...](http://9gag.com/gag/ae93PWm)
- - 💣 [Thats my Justin, keep it up](http://9gag.com/gag/aNDoXAb)
  - 😝 [Holy...](http://9gag.com/gag/azxLogB)
+ - 😝 [Thats my Justin, keep it up](http://9gag.com/gag/aNDoXAb)
+ - 💣 [Just don&#39;t](http://9gag.com/gag/a9yM4Gj)
+ - 😝 [Roast me baby one more time](http://9gag.com/gag/aLnQVwv)
  - 👉 [That&#39;s what grandmas are for](http://9gag.com/gag/aD2wqZZ)<!-- MEMES:END -->
 
 ---

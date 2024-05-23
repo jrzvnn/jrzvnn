@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at China-aligned hacking group Unfading Sea Haze, which has targeted government and military organizations in South China Sea countries since 2018 &lpar;Martin Zugec/Bitdefender Blog&rpar;](http://www.techmeme.com/240523/p20#a240523p20)
  - [Amazon investors vote to reject all 14 resolutions that asked to disclose more on its carbon emissions and directors&#39; donations, form an AI committee, and more &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/240523/p19#a240523p19)
  - [Inside the Reluctant Fight to Ban Deepfake Ads](https://www.wired.com/story/inside-the-lukewarm-fight-to-ban-deepfake-ads/)
  - [X Director of Engineering Haofei Wang says &quot;we are making likes private&quot; in an update happening &quot;soon&quot;, as &quot;public likes are incentivizing the wrong behavior&quot; &lpar;Maxwell Zeff/Gizmodo&rpar;](http://www.techmeme.com/240523/p18#a240523p18)
- - [&#39;Furiosa&#39; Crystalizes the Power—and Limits—of Cli-Fi](https://www.wired.com/story/furiosa-review-mad-max-climate-change-fiction/)
- - [Q&amp;A with Microsoft CEO Satya Nadella and CTO Kevin Scott on Copilot+ PCs, delivering a consistent experience, OpenAI, integration vs. modularization, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/240523/p17#a240523p17)<!-- TECH:END -->
+ - [&#39;Furiosa&#39; Crystalizes the Power—and Limits—of Cli-Fi](https://www.wired.com/story/furiosa-review-mad-max-climate-change-fiction/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

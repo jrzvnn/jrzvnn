@@ -165,9 +165,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [LA-based Aerodome, which uses autonomous drones to help first responders get a view of problems like crimes and fires, raised a $21.5M Series A led by CRV &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240522/p39#a240522p39)
  - [How to answer and end phone and FaceTime calls using Siri](https://appleinsider.com/inside/iphone/tips/how-to-answer-and-end-phone-and-facetime-calls-using-siri?utm_medium=rss)
- - [Istanbul-based Colendi, which provides digital banking services, raised a $65M Series B at a $700M valuation from Citi Ventures and others &lpar;Inci Ozbek/Bloomberg&rpar;](http://www.techmeme.com/240522/p38#a240522p38)
- - [Praktika, which lets users create personalized AI-powered avatars to make learning a language feel more natural, raised a $35.5M Series A led by Blossom Capital &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/240522/p37#a240522p37)
- - [Truecaller partners with Microsoft&#39;s Azure AI Speech to let its AI Assistant users create an AI version of their voice to answer calls based on a recorded clip &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240522/p36#a240522p36)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints and Answer: Help for May 23, #1069     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-and-answer-help-for-may-23-1069/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints and Answer -- Help for May 23, #347     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hints-answer-help-for-may-23-347/#ftag=CAD590a51e)
+ - [Istanbul-based Colendi, which provides digital banking services, raised a $65M Series B at a $700M valuation from Citi Ventures and others &lpar;Inci Ozbek/Bloomberg&rpar;](http://www.techmeme.com/240522/p38#a240522p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

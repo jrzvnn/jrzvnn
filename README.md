@@ -163,11 +163,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Meta is considering charging users for a more advanced version of Meta AI and is developing AI agents that can complete tasks without human supervision &lpar;Kalley Huang/The Information&rpar;](http://www.techmeme.com/240523/p40#a240523p40)
- - [The US SEC approves applications from Nasdaq, Cboe, and NYSE to list spot ether ETFs, potentially paving the way for them to begin trading later this year &lpar;Reuters&rpar;](http://www.techmeme.com/240523/p39#a240523p39)
- - [Google increases the Play Store&#39;s app price limit to $999.99 or the local equivalent, a 150% jump from the previous price limit of $400 set in October 2015 &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/240523/p38#a240523p38)
- - [Get a $100 Amazon Gift Card to Save More This Memorial Day Weekend     - CNET](https://www.cnet.com/personal-finance/get-a-100-amazon-gift-card-to-save-more-this-memorial-day-weekend/#ftag=CAD590a51e)
- - [Best Smart Home Deals: Nab Affordable Upgrades to Live Smarter for Less     - CNET](https://www.cnet.com/deals/best-smart-home-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iOS resurrected photo bug fixed with iOS 17.5.1 detailed by Apple](https://appleinsider.com/articles/24/05/24/ios-resurrected-photo-bug-fixed-with-ios-1751-detailed-by-apple?utm_medium=rss)
+ - [Memorial Day Sales 2024: We&#39;ve Rounded Up the Best Deals at Amazon, Walmart, Best Buy and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-23/#ftag=CAD590a51e)
+ - [Celebrate Memorial Day With 30% Off the Leesa Sapira Chill Mattress     - CNET](https://www.cnet.com/deals/leesa-sapira-chill-hybrid-memorial-day-deal/#ftag=CAD590a51e)
+ - [Call of Duty: Black Ops 6 Officially Announced, Full Reveal on June 9     - CNET](https://www.cnet.com/tech/gaming/call-of-duty-black-ops-6-officially-announced-full-reveal-on-june-9/#ftag=CAD590a51e)
+ - [Celebrate the Incoming Summer by Switching to an E-Bike During This Huge Memorial Day Sale at Upway     - CNET](https://www.cnet.com/roadshow/news/celebrate-the-incoming-summer-by-switching-to-an-e-bike-during-this-huge-memorial-day-sale-at-upway/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

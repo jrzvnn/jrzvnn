@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why the media protect the parasites ? Who owns the media ?](http://9gag.com/gag/aGyV4Ew)
- - 😝 [Lemme see your best perky collection](http://9gag.com/gag/avyZj0O)
- - 💣 [At least the Internet made me believe so](http://9gag.com/gag/apRoZ4B)
- - 😝 [Woman](http://9gag.com/gag/a34dOg5)
- - 👉 [Eyes on the ball...](http://9gag.com/gag/axy2q8K)<!-- MEMES:END -->
+ - 😝 [At least the Internet made me believe so](http://9gag.com/gag/apRoZ4B)
+ - 😝 [Old but gold](http://9gag.com/gag/apRo40p)
+ - 💣 [Woman](http://9gag.com/gag/a34dOg5)
+ - 😝 [Eyes on the ball...](http://9gag.com/gag/axy2q8K)
+ - 👉 [And I am sick of pretending that I don&#39;t.](http://9gag.com/gag/amoLeqv)<!-- MEMES:END -->
 
 ---
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some people with legacy Google Workspace accounts are getting extra storage for free](https://www.theverge.com/2024/5/24/24162742/google-g-suite-legacy-storage-subscription-canceled)
- - [The Last of Us: all the news about the video game franchise turned TV series](https://www.theverge.com/24036366/the-last-of-us-news-video-game-tv-series-trailers)
- - [Best Memorial Day Deals Under $100: Save on Tech, Home Goods, Fitness and More     - CNET](https://www.cnet.com/deals/best-memorial-day-deals-under-100/#ftag=CAD590a51e)
- - [Best Apple Memorial Day Sales: Snag Savings on iPads, Apple Watches, Macs and More     - CNET](https://www.cnet.com/deals/best-apple-memorial-day-sales/#ftag=CAD590a51e)
- - [You can save up to 20 percent on refurbished and like-new Nintendo Switch handhelds](https://www.theverge.com/2024/5/24/24163904/nintendo-switch-lite-console-deal-sale)<!-- TECH:END -->
+ - [Best Memorial Day Mattress Sales: Save Hundreds at Amerisleep, Purple and More     - CNET](https://www.cnet.com/deals/best-memorial-day-mattress-deals-2024/#ftag=CAD590a51e)
+ - [Best Home Security Cameras of 2024     - CNET](https://www.cnet.com/home/security/best-home-security-camera/#ftag=CAD590a51e)
+ - [Best Massage Guns for 2024     - CNET](https://www.cnet.com/health/fitness/best-massage-gun/#ftag=CAD590a51e)
+ - [DreamCloud Is Offering Up to 50% Off Mattresses This Memorial Day     - CNET](https://www.cnet.com/deals/dreamcloud-memorial-day-deal-2024/#ftag=CAD590a51e)
+ - [Some people with legacy Google Workspace accounts are getting extra storage for free](https://www.theverge.com/2024/5/24/24162742/google-g-suite-legacy-storage-subscription-canceled)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

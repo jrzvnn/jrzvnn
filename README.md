@@ -171,10 +171,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oops](http://9gag.com/gag/agm0wPr)
- - 😝 [Father disciplines his daughter](http://9gag.com/gag/aD2wepG)
- - 💣 [Gf marking her territory because presenter is hot](http://9gag.com/gag/a87b9ZV)
- - 😝 [Climbing day](http://9gag.com/gag/aKGgo1g)
+ - 😝 [Does anyone know what kind of stuff this is](http://9gag.com/gag/aByQBNA)
+ - 😝 [You go first!!!](http://9gag.com/gag/aqyZOzR)
+ - 💣 [When I find my sisters friends panties](http://9gag.com/gag/ayNprEV)
+ - 😝 [Lemme see your best perky collection](http://9gag.com/gag/avyZj0O)
  - 👉 [Female gaming PC.](http://9gag.com/gag/awybj18)<!-- MEMES:END -->
 
 ---

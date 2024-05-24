@@ -164,9 +164,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Samsung’s smart fridges mistakenly warned users its free TV service was ending](https://www.theverge.com/2024/5/23/24163164/samsung-tv-plus-discontinued-family-hub-smart-fridge)
  - [Apple says that users&#39; deleted photos that resurfaced after installing iOS 17.5 weren&#39;t synced to iCloud Photos and could have persisted after restoring backups &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240524/p12#a240524p12)
- - [Memorial Day Sales 2024: Get the Best Deals From Amazon, Best Buy, Walmart and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-24/#ftag=CAD590a51e)
  - [Why Are We Seeing These Crazy Northern Lights?](https://www.wired.com/story/the-physics-of-these-crazy-northern-lights-displays/)
- - [Judge doesn’t buy Google’s ‘terrifying world of chaos’ argument in Epic case](https://www.theverge.com/2024/5/24/24163907/google-epic-world-of-chaos-antitrust-monopoly-case)<!-- TECH:END -->
+ - [Judge doesn’t buy Google’s ‘terrifying world of chaos’ argument in Epic case](https://www.theverge.com/2024/5/24/24163907/google-epic-world-of-chaos-antitrust-monopoly-case)
+ - [Samsung Galaxy Watch 7 ‘Ultra’ leaks show a supersized squircle for your wrist](https://www.theverge.com/2024/5/24/24163867/samsung-galaxy-watch7-ultra-leak-square)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -162,8 +162,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Memorial Day Sales 2024: Shop the Very Best Deals at Amazon, Walmart, Best Buy and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-23/#ftag=CAD590a51e)
  - [Fortnite’s new post-apocalyptic season has Fallout, Magneto, and vehicular mayhem](https://www.theverge.com/2024/5/24/24163374/fortnite-chapter-5-season-3-wrecked-battle-pass-fallout-magneto)
- - [Memorial Day Sales 2024: We&#39;ve Rounded Up the Best Deals at Amazon, Walmart, Best Buy and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-23/#ftag=CAD590a51e)
  - [Email: Foursquare lays off 105 employees as the company seeks to &quot;streamline&quot; its operations; source: layoffs represent about 25% of total company employees &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/240524/p3#a240524p3)
  - [Best Memorial Day TV Sales: Save Thousands on Huge Brands Including FireTV, Samsung and More     - CNET](https://www.cnet.com/deals/best-memorial-day-tv-sales/#ftag=CAD590a51e)
  - [Sources: Nvidia cuts price of its China-specific H20 chip, selling it below Huawei&#39;s Ascend 910B, underscoring the challenges Nvidia faces amid US sanctions &lpar;Fanny Potkin/Reuters&rpar;](http://www.techmeme.com/240524/p2#a240524p2)<!-- TECH:END -->

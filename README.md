@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Don’t Believe the Biggest Myth About Heat Pumps](https://www.wired.com/story/myth-heat-pumps-cold-weather-freezing-subzero/)
  - [A Nigerian court adjourns a money laundering trial against Binance and two of its executives to June 20 because one of the defendants Tigran Gambaryan was ill &lpar;Camillus Eboh/Reuters&rpar;](http://www.techmeme.com/240524/p5#a240524p5)
- - [A Texas federal jury orders Micron to pay $445M to computer memory company Netlist for willfully infringing on two parents related to improving memory modules &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/240524/p4#a240524p4)
  - [Memorial Day Sales 2024: Get the Best Deals From Amazon, Best Buy, Walmart and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-24/#ftag=CAD590a51e)
- - [Fortnite’s new post-apocalyptic season has Fallout, Magneto, and vehicular mayhem](https://www.theverge.com/2024/5/24/24163374/fortnite-chapter-5-season-3-wrecked-battle-pass-fallout-magneto)
- - [Email: Foursquare lays off 105 employees as the company seeks to &quot;streamline&quot; its operations; source: layoffs represent about 25% of total company employees &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/240524/p3#a240524p3)<!-- TECH:END -->
+ - [Best Savings Rates Today -- Don&#39;t Miss Out on APYs Up to 5.55%, May 24, 2024     - CNET](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-may-24-2024/#ftag=CAD590a51e)
+ - [A Texas federal jury orders Micron to pay $445M to computer memory company Netlist for willfully infringing on two parents related to improving memory modules &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/240524/p4#a240524p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

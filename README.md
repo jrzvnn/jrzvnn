@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lol.](http://9gag.com/gag/azxLwDq)
- - 😝 [Saints on the water](http://9gag.com/gag/amoLwvo)
- - 💣 [Let\u2019s just try 1/2 and see how it goes.](http://9gag.com/gag/a2vPgX1)
- - 😝 [Koala diet consists mostly of eucalyptus but they only recognize the leaves as food when on a branch](http://9gag.com/gag/aYQp0wN)
- - 👉 [Do you know who I am?!](http://9gag.com/gag/aYQpBBv)<!-- MEMES:END -->
+ - 😝 [Repo man](http://9gag.com/gag/abAqw99)
+ - 😝 [When I find my sisters friends panties](http://9gag.com/gag/ayNprEV)
+ - 💣 [The camping of horrors](http://9gag.com/gag/amoLwyV)
+ - 😝 [`go for him` dude ran to get his half lol](http://9gag.com/gag/amoLwzV)
+ - 👉 [You go first!!!](http://9gag.com/gag/aqyZOzR)<!-- MEMES:END -->
 
 ---
 

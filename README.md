@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You can save up to 20 percent on refurbished and like-new Nintendo Switch handhelds](https://www.theverge.com/2024/5/24/24163904/nintendo-switch-lite-console-deal-sale)
  - [Q&amp;A with Signal President Meredith Whittaker on the clash with Elon Musk, Telegram&#39;s Pavel Durov, &quot;dorm room high-jinks&quot; of OpenAI &quot;edge lords&quot;, and more &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/240524/p13#a240524p13)
  - [Nintendo is opening its second US store in San Francisco](https://www.theverge.com/2024/5/24/24164008/nintendo-next-us-store-san-francisco)
  - [ChatGPT, explained](https://www.theverge.com/24161231/chatgpt-generative-ai-explained)
- - [Ember’s temperature-controlled smart mug is nearly half off today only](https://www.theverge.com/2024/5/24/24163964/ember-smart-mug-2-deal-sale-best-buy)
- - [With smart rings, the right size matters](https://www.theverge.com/24163871/smart-rings-samsung-galaxy-ring-oura-ring-sizing-wearables)<!-- TECH:END -->
+ - [Ember’s temperature-controlled smart mug is nearly half off today only](https://www.theverge.com/2024/5/24/24163964/ember-smart-mug-2-deal-sale-best-buy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

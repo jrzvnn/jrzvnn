@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best 100 albums, iOS 18 Music features, and more iPad Pro on the AppleInsider Podcast](https://appleinsider.com/articles/24/05/24/best-100-albums-ios-18-music-features-and-more-ipad-pro-on-the-appleinsider-podcast?utm_medium=rss)
- - [Google announces plans to invest nearly $350M in Flipkart, as part of a nearly $1B funding round, about $600M of which came from Walmart in 2023 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240524/p7#a240524p7)
- - [A Warp Drive Breakthrough Inches a Tiny Bit Closer to &#39;Star Trek&#39;](https://www.wired.com/story/warp-drive-breakthrough-physics-star-trek/)
- - [Memorial Day Sales 2024: Get the Best Deals From Amazon, Best Buy, Walmart and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-24/#ftag=CAD590a51e)
- - [A profile of Lin Rui-siang, a 23-year-old Taiwanese accused by the US DOJ of running a $100M+ dark-web drug market who had an alter ego as a crypto crime expert &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/240524/p6#a240524p6)<!-- TECH:END -->
+ - [Apple Vision Pro earns prestigious Black Pencil design award](https://appleinsider.com/articles/24/05/24/apple-vision-pro-earns-prestigious-black-pencil-design-award?utm_medium=rss)
+ - [New iPad mini with OLED screen rumored to arrive in 2026](https://appleinsider.com/articles/24/05/24/new-ipad-mini-with-oled-screen-rumored-to-arrive-in-2026?utm_medium=rss)
+ - [Cohere for AI, the nonprofit research arm of AI startup Cohere, announces the open weights release of Aya 23, a family of multilingual language models &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/240524/p8#a240524p8)
+ - [Casper Adjustable Base Max Review: Customized Angles and Massage](https://www.wired.com/review/casper-adjustable-base-max/)
+ - [Best Memorial Day Deals Under $50: Big Savings at Amazon, Best Buy and More     - CNET](https://www.cnet.com/deals/best-memorial-day-deals-under-50/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

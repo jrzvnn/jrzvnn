@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Memorial Day deals you can already get](https://www.theverge.com/24161521/best-memorial-day-sales-2024-tech-deals-tvs-headphones-robot-vacuums-electronics)
  - [Atari buys the Intellivision brand and the rights to 200+ Intellivision Entertainment games, and says the deal &quot;ends the longest running console war in history&quot; &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240524/p19#a240524p19)
  - [An overview of existing deals between news publishers and AI companies and the questions they raise regarding long-term costs, the selection process, and more &lpar;Pete Brown/Columbia Journalism Review&rpar;](http://www.techmeme.com/240524/p18#a240524p18)
  - [Memorial Day Sales 2024: Get the Best Deals From Amazon, Best Buy, Walmart and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-24/#ftag=CAD590a51e)
- - [Best Memorial Day Home Security Sales: Save Money on Safety This Summer     - CNET](https://www.cnet.com/deals/best-memorial-day-home-security-deals/#ftag=CAD590a51e)
- - [NOAA Report: Atlantic Region May Get Up to 7 Major Hurricanes This Year     - CNET](https://www.cnet.com/science/noaa-report-atlantic-region-may-get-up-to-7-major-hurricanes-this-year/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Memorial Day Home Security Sales: Save Money on Safety This Summer     - CNET](https://www.cnet.com/deals/best-memorial-day-home-security-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

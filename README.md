@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let\u2019s just try 1/2 and see how it goes.](http://9gag.com/gag/a2vPgX1)
- - 😝 [Koala diet consists mostly of eucalyptus but they only recognize the leaves as food when on a branch](http://9gag.com/gag/aYQp0wN)
- - 💣 [Next level pick up line](http://9gag.com/gag/aVvQ5nK)
- - 😝 [Do you know who I am?!](http://9gag.com/gag/aYQpBBv)
- - 👉 [If you keep whining about the past and you&#39;ll never move forward.](http://9gag.com/gag/ae93wDp)<!-- MEMES:END -->
+ - 😝 [Why doesn&#39;t she just send an ambulance immediately?](http://9gag.com/gag/avyZqrW)
+ - 😝 [What a terrible day to have eyes](http://9gag.com/gag/aO8yOgD)
+ - 💣 [A group of Muslims cut traffic at rush time to pray in the middle of the street](http://9gag.com/gag/a87bN83)
+ - 😝 [Lemme see your best perky collection](http://9gag.com/gag/avyZj0O)
+ - 👉 [You go first!!!](http://9gag.com/gag/aqyZOzR)<!-- MEMES:END -->
 
 ---
 

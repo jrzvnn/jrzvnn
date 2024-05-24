@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PE firm Hg agrees to buy AuditBoard, a risk and compliance cloud software provider for large businesses, at $3B+ including debt &lpar;Swetha Gopinath/Bloomberg&rpar;](http://www.techmeme.com/240524/p11#a240524p11)
+ - [Best Memorial Day 2024 sales: Apple AirPods, MacBooks, new iPads up to $700 off](https://appleinsider.com/articles/24/05/24/best-memorial-day-2024-sales-apple-airpods-macbooks-new-ipads-up-to-700-off?utm_medium=rss)
  - [The next Knives Out, called Wake Up Dead Man, premieres in 2025](https://www.theverge.com/2024/5/24/24163962/knives-out-sequel-wake-up-dead-man-release-date-netflix)
  - [Google waves around cashier’s check in attempt to avoid jury trial](https://www.theverge.com/2024/5/24/24161882/us-doj-v-google-check-jury-ad-tech-trial)
- - [33 Best REI Anniversary Sale Deals &lpar;2024&rpar;: Fitness Trackers, Tents, Sleeping Bags, Headphones, Electric Bikes](https://www.wired.com/story/rei-anniversary-sale-may-2024/)
- - [Your next iPhone could be the iPad mini - iPhone 15 vs iPad mini showdown](https://appleinsider.com/articles/24/05/24/your-next-iphone-could-be-the-ipad-mini---iphone-15-vs-ipad-mini-showdown?utm_medium=rss)
- - [Hyundai is ‘doubling down’ on EVs despite sales slowdown, CEO says](https://www.theverge.com/24163520/hyundai-randy-parker-interview-ev-sales-ioniq-sales)<!-- TECH:END -->
+ - [33 Best REI Anniversary Sale Deals &lpar;2024&rpar;: Fitness Trackers, Tents, Sleeping Bags, Headphones, Electric Bikes](https://www.wired.com/story/rei-anniversary-sale-may-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

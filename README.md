@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Climbing day](http://9gag.com/gag/aKGgo1g)
+ - 😝 [Woman](http://9gag.com/gag/a34dOg5)
+ - 😝 [The camping of horrors](http://9gag.com/gag/amoLwyV)
+ - 💣 [Father disciplines his daughter](http://9gag.com/gag/aD2wepG)
  - 😝 [Repo man](http://9gag.com/gag/abAqw99)
- - 💣 [Oops](http://9gag.com/gag/agm0wPr)
- - 😝 [Does anyone know what kind of stuff this is](http://9gag.com/gag/aByQBNA)
- - 👉 [Woman](http://9gag.com/gag/a34dOg5)<!-- MEMES:END -->
+ - 👉 [`go for him` dude ran to get his half lol](http://9gag.com/gag/amoLwzV)<!-- MEMES:END -->
 
 ---
 

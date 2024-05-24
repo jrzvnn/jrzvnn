@@ -172,10 +172,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [You go first!!!](http://9gag.com/gag/aqyZOzR)
- - 😝 [Gf marking her territory because presenter is hot](http://9gag.com/gag/a87b9ZV)
- - 💣 [Wild &lpar;Would&rpar;](http://9gag.com/gag/aPAybvP)
- - 😝 [Gassed](http://9gag.com/gag/apRoXwM)
- - 👉 [Oops](http://9gag.com/gag/agm0wPr)<!-- MEMES:END -->
+ - 😝 [Divers call this \u201ca Delta P\u201d, but do you know how dangerous it is for these men?](http://9gag.com/gag/apRoMqb)
+ - 💣 [How Female Brain works](http://9gag.com/gag/aLnQOqP)
+ - 😝 [Wild &lpar;Would&rpar;](http://9gag.com/gag/aPAybvP)
+ - 👉 [Gassed](http://9gag.com/gag/apRoXwM)<!-- MEMES:END -->
 
 ---
 

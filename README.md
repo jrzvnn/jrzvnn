@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why doesn&#39;t she just send an ambulance immediately?](http://9gag.com/gag/avyZqrW)
- - 😝 [Gassed](http://9gag.com/gag/apRoXwM)
- - 💣 [Gf marking her territory because presenter is hot](http://9gag.com/gag/a87b9ZV)
- - 😝 [Divers call this \u201ca Delta P\u201d, but do you know how dangerous it is for these men?](http://9gag.com/gag/apRoMqb)
- - 👉 [When I find my sisters friends panties](http://9gag.com/gag/ayNprEV)<!-- MEMES:END -->
+ - 😝 [Why the media protect the parasites ? Who owns the media ?](http://9gag.com/gag/aGyV4Ew)
+ - 😝 [Lemme see your best perky collection](http://9gag.com/gag/avyZj0O)
+ - 💣 [At least the Internet made me believe so](http://9gag.com/gag/apRoZ4B)
+ - 😝 [Woman](http://9gag.com/gag/a34dOg5)
+ - 👉 [Eyes on the ball...](http://9gag.com/gag/axy2q8K)<!-- MEMES:END -->
 
 ---
 

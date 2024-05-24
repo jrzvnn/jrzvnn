@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [13 Best Electric Kettles &lpar;2024&rpar;: Gooseneck, Temperature Control, Cheap](https://www.wired.com/gallery/best-electric-kettles/)
+ - [ChatGPT has a Scarlett Johansson problem](https://www.theverge.com/2024/5/24/24163869/chatgpt-scarlett-johansson-microsoft-build-surface-vergecast)
  - [Apple Vision Pro earns prestigious Black Pencil design award](https://appleinsider.com/articles/24/05/24/apple-vision-pro-earns-prestigious-black-pencil-design-award?utm_medium=rss)
  - [New iPad mini with OLED screen rumored to arrive in 2026](https://appleinsider.com/articles/24/05/24/new-ipad-mini-with-oled-screen-rumored-to-arrive-in-2026?utm_medium=rss)
- - [Cohere for AI, the nonprofit research arm of AI startup Cohere, announces the open weights release of Aya 23, a family of multilingual language models &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/240524/p8#a240524p8)
- - [Casper Adjustable Base Max Review: Customized Angles and Massage](https://www.wired.com/review/casper-adjustable-base-max/)
- - [Best Memorial Day Deals Under $50: Big Savings at Amazon, Best Buy and More     - CNET](https://www.cnet.com/deals/best-memorial-day-deals-under-50/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Cohere for AI, the nonprofit research arm of AI startup Cohere, announces the open weights release of Aya 23, a family of multilingual language models &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/240524/p8#a240524p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

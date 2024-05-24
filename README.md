@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The White House issues a call to action seeking companies&#39; voluntary commitment to curb the creation, spread, and monetization of nonconsensual sexual AI images &lpar;Associated Press&rpar;](http://www.techmeme.com/240523/p42#a240523p42)
+ - [Even J.Lo in a mech suit can’t save Netflix’s by-the-numbers AI thriller](https://www.theverge.com/24162731/netflix-atlas-review-jennifer-lopez-ai)
+ - [OpenAI releases a majority of past employees from nondisparagement agreements tied to their exit contracts and would not seek to cancel staffers&#39; vested equity &lpar;Bloomberg&rpar;](http://www.techmeme.com/240523/p41#a240523p41)
  - [iOS resurrected photo bug fixed with iOS 17.5.1 detailed by Apple](https://appleinsider.com/articles/24/05/24/ios-resurrected-photo-bug-fixed-with-ios-1751-detailed-by-apple?utm_medium=rss)
- - [Memorial Day Sales 2024: We&#39;ve Rounded Up the Best Deals at Amazon, Walmart, Best Buy and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-23/#ftag=CAD590a51e)
- - [Celebrate Memorial Day With 30% Off the Leesa Sapira Chill Mattress     - CNET](https://www.cnet.com/deals/leesa-sapira-chill-hybrid-memorial-day-deal/#ftag=CAD590a51e)
- - [Call of Duty: Black Ops 6 Officially Announced, Full Reveal on June 9     - CNET](https://www.cnet.com/tech/gaming/call-of-duty-black-ops-6-officially-announced-full-reveal-on-june-9/#ftag=CAD590a51e)
- - [Celebrate the Incoming Summer by Switching to an E-Bike During This Huge Memorial Day Sale at Upway     - CNET](https://www.cnet.com/roadshow/news/celebrate-the-incoming-summer-by-switching-to-an-e-bike-during-this-huge-memorial-day-sale-at-upway/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Memorial Day Sales 2024: We&#39;ve Rounded Up the Best Deals at Amazon, Walmart, Best Buy and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-23/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

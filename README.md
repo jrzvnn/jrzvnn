@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Why Are We Seeing These Crazy Northern Lights?](https://www.wired.com/story/the-physics-of-these-crazy-northern-lights-displays/)
+ - [Judge doesn’t buy Google’s ‘terrifying world of chaos’ argument in Epic case](https://www.theverge.com/2024/5/24/24163907/google-epic-world-of-chaos-antitrust-monopoly-case)
+ - [Samsung Galaxy Watch 7 ‘Ultra’ leaks show a supersized squircle for your wrist](https://www.theverge.com/2024/5/24/24163867/samsung-galaxy-watch7-ultra-leak-square)
  - [SpaceX’s Starship is getting ready to take off again in June](https://www.theverge.com/2024/5/24/24163954/spacex-starship-fourth-test-flight-june)
- - [Logitech Reach Review: Super Camera Arm, Subpar Camera](https://www.wired.com/review/logitech-reach/)
- - [PE firm Hg agrees to buy AuditBoard, a risk and compliance cloud software provider for large businesses, at $3B+ including debt &lpar;Swetha Gopinath/Bloomberg&rpar;](http://www.techmeme.com/240524/p11#a240524p11)
- - [Best Memorial Day 2024 sales: Apple AirPods, MacBooks, new iPads up to $700 off](https://appleinsider.com/articles/24/05/24/best-memorial-day-2024-sales-apple-airpods-macbooks-new-ipads-up-to-700-off?utm_medium=rss)
- - [Best Amazon Memorial Day Sales: Here&#39;s How to Save on Tech, Homeware, Kitchen Gear and More     - CNET](https://www.cnet.com/deals/best-amazon-memorial-day-sales/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Logitech Reach Review: Super Camera Arm, Subpar Camera](https://www.wired.com/review/logitech-reach/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

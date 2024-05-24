@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 34 Best Shows on Amazon Prime Right Now &lpar;May 2024&rpar;](https://www.wired.com/story/best-shows-amazon-prime/)
- - [The 18 Best Movies on Amazon Prime Right Now &lpar;May 2024&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)
+ - [A Delaware federal court overturns a jury&#39;s 2022 decision that Shopify owes $40M to Express Mobile for infringing patents related to website-building tools &lpar;Josh Scott/BetaKit&rpar;](http://www.techmeme.com/240524/p16#a240524p16)
  - [Memorial Day Sales 2024: Get the Best Deals From Amazon, Best Buy, Walmart and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-24/#ftag=CAD590a51e)
- - [Microsoft&#39;s Bing, Copilot, and Copilot in Windows services are back online worldwide after an outage that began around 3 AM ET on May 23 and lasted 24+ hours &lpar;Mayank Parmar/BleepingComputer&rpar;](http://www.techmeme.com/240524/p15#a240524p15)
- - [Bald Head Shaver     - CNET](https://www.cnet.com/health/personal-care/bald-head-shaver-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Memorial Day Weekend Appliance Deals: Save Big on Refrigerators, Dishwashers, Microwaves and More     - CNET](https://www.cnet.com/deals/memorial-day-appliance-sales/#ftag=CAD590a51e)
+ - [Buy Two and Get One Free Sitewide During GNC&#39;s Memorial Day Sale     - CNET](https://www.cnet.com/deals/buy-two-and-get-one-free-sitewide-during-gncs-memorial-day-sale/#ftag=CAD590a51e)
+ - [What Is Google&#39;s AI Overviews, and Why Is It Getting Things Wrong?     - CNET](https://www.cnet.com/tech/services-and-software/what-is-googles-ai-overviews-and-why-is-it-getting-things-wrong/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You go first!!!](http://9gag.com/gag/aqyZOzR)
- - 😝 [How to shut a woke attention seeker.](http://9gag.com/gag/a9yMwL0)
- - 💣 [How Female Brain works](http://9gag.com/gag/aLnQOqP)
- - 😝 [Divers call this \u201ca Delta P\u201d, but do you know how dangerous it is for these men?](http://9gag.com/gag/apRoMqb)
- - 👉 [Thats my Justin, keep it up](http://9gag.com/gag/aNDoXAb)<!-- MEMES:END -->
+ - 😝 [9gaggers](http://9gag.com/gag/agm0p2x)
+ - 😝 [How Roman emperor Nero powered his rotating dining room](http://9gag.com/gag/adB6MYj)
+ - 💣 [I want candy!](http://9gag.com/gag/aVvQ9xd)
+ - 😝 [Good, take them for everything they have](http://9gag.com/gag/aW40yZ3)
+ - 👉 [Today&#39;s wallpaper... Come and get it while it&#39;s hot :&rpar;&rpar;](http://9gag.com/gag/amoLynd)<!-- MEMES:END -->
 
 ---
 

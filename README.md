@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Art studio dumps paint down storm drain](http://9gag.com/gag/ae938Aj)
- - 😝 [This is what happen when caffeine enter your blood](http://9gag.com/gag/a0ePqXX)
- - 💣 [Woman](http://9gag.com/gag/a34dOg5)
- - 😝 [Lemme see your best perky collection](http://9gag.com/gag/avyZj0O)
- - 👉 [Today NGO volunteer that came from western countries to Gaza get surprised that hamas shoot them as they tried cross the border \ud83e\udd21](http://9gag.com/gag/a6Zd0Oq)<!-- MEMES:END -->
+ - 😝 [There are two types of 9gagger](http://9gag.com/gag/a2vP68Z)
+ - 😝 [Climbing day](http://9gag.com/gag/aKGgo1g)
+ - 💣 [Oops](http://9gag.com/gag/agm0wPr)
+ - 😝 [Divers call this \u201ca Delta P\u201d, but do you know how dangerous it is for these men?](http://9gag.com/gag/apRoMqb)
+ - 👉 [Woman](http://9gag.com/gag/a34dOg5)<!-- MEMES:END -->
 
 ---
 

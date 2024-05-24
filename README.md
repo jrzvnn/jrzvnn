@@ -162,10 +162,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Lin Rui-siang, a 23-year-old Taiwanese accused by the US DOJ of running a $100M+ dark-web drug market who had an alter ego as a crypto crime expert &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/240524/p6#a240524p6)
+ - [Scarlett Johansson’s OpenAI Feud Makes Her an Uncanny Folk Hero](https://www.wired.com/story/scarlett-johanssons-openai-feud-makes-her-an-uncanny-folk-hero/)
  - [UK rushes through Digital Markets Act copycat to regulate mostly US big tech](https://appleinsider.com/articles/24/05/24/uk-rushes-through-digital-markets-act-copycat-to-regulate-mostly-us-big-tech?utm_medium=rss)
  - [Here’s why deleted iPhone photos returned to some iOS devices](https://www.theverge.com/2024/5/24/24163826/apple-iphone-ios-17-5-update-deleted-photos-explained)
- - [Don’t Believe the Biggest Myth About Heat Pumps](https://www.wired.com/story/myth-heat-pumps-cold-weather-freezing-subzero/)
- - [A Nigerian court adjourned a money laundering trial against Binance and two of its executives to June 20 due to health issues of one executive, Tigran Gambaryan &lpar;Camillus Eboh/Reuters&rpar;](http://www.techmeme.com/240524/p5#a240524p5)
  - [Memorial Day Sales 2024: Get the Best Deals From Amazon, Best Buy, Walmart and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-24/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

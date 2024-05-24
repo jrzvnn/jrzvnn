@@ -172,10 +172,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Art studio dumps paint down storm drain](http://9gag.com/gag/ae938Aj)
- - 😝 [At least the Internet made me believe so](http://9gag.com/gag/apRoZ4B)
- - 💣 [Eyes on the ball...](http://9gag.com/gag/axy2q8K)
  - 😝 [Why the media protect the parasites ? Who owns the media ?](http://9gag.com/gag/aGyV4Ew)
- - 👉 [Lemme see your best perky collection](http://9gag.com/gag/avyZj0O)<!-- MEMES:END -->
+ - 💣 [Lemme see your best perky collection](http://9gag.com/gag/avyZj0O)
+ - 😝 [At least the Internet made me believe so](http://9gag.com/gag/apRoZ4B)
+ - 👉 [Eyes on the ball...](http://9gag.com/gag/axy2q8K)<!-- MEMES:END -->
 
 ---
 

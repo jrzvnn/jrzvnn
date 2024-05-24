@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lawyers be trippin](http://9gag.com/gag/aD2w569)
- - 😝 [Kazakhstani is a fun language](http://9gag.com/gag/amoLQyo)
- - 💣 [Done for day](http://9gag.com/gag/aNDoM74)
- - 😝 [China launched military drills around Taiwan](http://9gag.com/gag/a87bOmY)
- - 👉 [My not so smart ass](http://9gag.com/gag/a9yM0E1)<!-- MEMES:END -->
+ - 😝 [Studio Ghibli Wallpaper 1](http://9gag.com/gag/a34dgzr)
+ - 😝 [Just a dog having a blast](http://9gag.com/gag/aNDo50G)
+ - 💣 [Today&#39;s wallpaper... Come and get it while it&#39;s hot :&rpar;&rpar;](http://9gag.com/gag/amoLynd)
+ - 😝 [The front fell off](http://9gag.com/gag/a34dOdN)
+ - 👉 [The evil pronouns.](http://9gag.com/gag/aNDoMKv)<!-- MEMES:END -->
 
 ---
 

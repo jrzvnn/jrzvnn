@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s smart fridges mistakenly warned users its free TV service was ending](https://www.theverge.com/2024/5/23/24163164/samsung-tv-plus-discontinued-family-hub-smart-fridge)
- - [Apple says that users&#39; deleted photos that resurfaced after installing iOS 17.5 weren&#39;t synced to iCloud Photos and could have persisted after restoring backups &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240524/p12#a240524p12)
- - [Why Are We Seeing These Crazy Northern Lights?](https://www.wired.com/story/the-physics-of-these-crazy-northern-lights-displays/)
- - [Judge doesn’t buy Google’s ‘terrifying world of chaos’ argument in Epic case](https://www.theverge.com/2024/5/24/24163907/google-epic-world-of-chaos-antitrust-monopoly-case)
- - [Samsung Galaxy Watch 7 ‘Ultra’ leaks show a supersized squircle for your wrist](https://www.theverge.com/2024/5/24/24163867/samsung-galaxy-watch7-ultra-leak-square)<!-- TECH:END -->
+ - [Q&amp;A with Signal President Meredith Whittaker on the clash with Elon Musk, Telegram&#39;s Pavel Durov, &quot;dorm room high-jinks&quot; of OpenAI &quot;edge lords&quot;, and more &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/240524/p13#a240524p13)
+ - [Nintendo is opening its second US store in San Francisco](https://www.theverge.com/2024/5/24/24164008/nintendo-next-us-store-san-francisco)
+ - [ChatGPT, explained](https://www.theverge.com/24161231/chatgpt-generative-ai-explained)
+ - [Ember’s temperature-controlled smart mug is nearly half off today only](https://www.theverge.com/2024/5/24/24163964/ember-smart-mug-2-deal-sale-best-buy)
+ - [With smart rings, the right size matters](https://www.theverge.com/24163871/smart-rings-samsung-galaxy-ring-oura-ring-sizing-wearables)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

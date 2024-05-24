@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In the 1800s, Scottish surgeon Robert Liston became infamous for a surgery that led to an astonishing 300% mortality rate.](http://9gag.com/gag/aXPE1Nd)
- - 😝 [You go first!!!](http://9gag.com/gag/aqyZOzR)
- - 💣 [Wild &lpar;Would&rpar;](http://9gag.com/gag/aPAybvP)
- - 😝 [Climbing day](http://9gag.com/gag/aKGgo1g)
- - 👉 [When I find my sisters friends panties](http://9gag.com/gag/ayNprEV)<!-- MEMES:END -->
+ - 😝 [Yep](http://9gag.com/gag/aRBgpZ5)
+ - 😝 [What you see is no longer possible. The masters have retired, and the young who replaced them hated them. Art has been LOST.](http://9gag.com/gag/avyZwxE)
+ - 💣 [Art studio dumps paint down storm drain](http://9gag.com/gag/ae938Aj)
+ - 😝 [This is what happen when caffeine enter your blood](http://9gag.com/gag/a0ePqXX)
+ - 👉 [Why the media protect the parasites ? Who owns the media ?](http://9gag.com/gag/aGyV4Ew)<!-- MEMES:END -->
 
 ---
 

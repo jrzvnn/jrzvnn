@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft&#39;s Bing, Copilot, and Copilot in Windows services are back online worldwide after an outage that began around 3 AM ET on May 23 and lasted 24+ hours &lpar;Mayank Parmar/BleepingComputer&rpar;](http://www.techmeme.com/240524/p15#a240524p15)
  - [Tesla wants net-zero emissions, but its pollution grew in 2023](https://www.theverge.com/2024/5/24/24163590/tesla-greenhouse-gas-emissions-climate-change-risk-disclosure)
  - [A look at the privacy and security concerns surrounding Microsoft&#39;s Recall, which will record everything users do in Windows for up to three months by default &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/240524/p14#a240524p14)
  - [Best Memorial Day Mattress Sales: Save Hundreds at Amerisleep, Purple and More     - CNET](https://www.cnet.com/deals/best-memorial-day-mattress-deals-2024/#ftag=CAD590a51e)
- - [Best Home Security Cameras of 2024     - CNET](https://www.cnet.com/home/security/best-home-security-camera/#ftag=CAD590a51e)
- - [Best Massage Guns for 2024     - CNET](https://www.cnet.com/health/fitness/best-massage-gun/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Home Security Cameras of 2024     - CNET](https://www.cnet.com/home/security/best-home-security-camera/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

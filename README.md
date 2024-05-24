@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The camping of horrors](http://9gag.com/gag/amoLwyV)
- - 😝 [`go for him` dude ran to get his half lol](http://9gag.com/gag/amoLwzV)
- - 💣 [Let\u2019s just try 1/2 and see how it goes.](http://9gag.com/gag/a2vPgX1)
- - 😝 [Divers call this \u201ca Delta P\u201d, but do you know how dangerous it is for these men?](http://9gag.com/gag/apRoMqb)
- - 👉 [You go first!!!](http://9gag.com/gag/aqyZOzR)<!-- MEMES:END -->
+ - 😝 [The real doge - Kabosu passed away today in the morning. We will miss you](http://9gag.com/gag/aVvQygP)
+ - 😝 [Father is so proud of this kid](http://9gag.com/gag/a87bgvV)
+ - 💣 [If you keep whining about the past and you&#39;ll never move forward.](http://9gag.com/gag/ae93wDp)
+ - 😝 [Why the media protect the parasites ? Who owns the media ?](http://9gag.com/gag/aGyV4Ew)
+ - 👉 [What you see is no longer possible. The masters have retired, and the young who replaced them hated them. Art has been LOST.](http://9gag.com/gag/avyZwxE)<!-- MEMES:END -->
 
 ---
 

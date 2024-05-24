@@ -163,7 +163,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A Texas federal jury orders Micron to pay $445M to computer memory company Netlist for willfully infringing on two parents related to improving memory modules &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/240524/p4#a240524p4)
- - [Memorial Day Sales 2024: Shop the Very Best Deals at Amazon, Walmart, Best Buy and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-23/#ftag=CAD590a51e)
+ - [Memorial Day Sales 2024: Get the Best Deals From Amazon, Best Buy, Walmart and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-24/#ftag=CAD590a51e)
  - [Fortnite’s new post-apocalyptic season has Fallout, Magneto, and vehicular mayhem](https://www.theverge.com/2024/5/24/24163374/fortnite-chapter-5-season-3-wrecked-battle-pass-fallout-magneto)
  - [Email: Foursquare lays off 105 employees as the company seeks to &quot;streamline&quot; its operations; source: layoffs represent about 25% of total company employees &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/240524/p3#a240524p3)
  - [Best Memorial Day TV Sales: Save Thousands on Huge Brands Including FireTV, Samsung and More     - CNET](https://www.cnet.com/deals/best-memorial-day-tv-sales/#ftag=CAD590a51e)<!-- TECH:END -->

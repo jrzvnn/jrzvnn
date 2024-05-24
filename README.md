@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woman](http://9gag.com/gag/a34dOg5)
- - 😝 [The camping of horrors](http://9gag.com/gag/amoLwyV)
- - 💣 [Father disciplines his daughter](http://9gag.com/gag/aD2wepG)
- - 😝 [Repo man](http://9gag.com/gag/abAqw99)
- - 👉 [`go for him` dude ran to get his half lol](http://9gag.com/gag/amoLwzV)<!-- MEMES:END -->
+ - 😝 [Next level pick up line](http://9gag.com/gag/aVvQ5nK)
+ - 😝 [Oops](http://9gag.com/gag/agm0wPr)
+ - 💣 [Woman](http://9gag.com/gag/a34dOg5)
+ - 😝 [Does anyone know what kind of stuff this is](http://9gag.com/gag/aByQBNA)
+ - 👉 [Female gaming PC.](http://9gag.com/gag/awybj18)<!-- MEMES:END -->
 
 ---
 

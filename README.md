@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Repo man](http://9gag.com/gag/abAqw99)
- - 😝 [When I find my sisters friends panties](http://9gag.com/gag/ayNprEV)
- - 💣 [The camping of horrors](http://9gag.com/gag/amoLwyV)
- - 😝 [`go for him` dude ran to get his half lol](http://9gag.com/gag/amoLwzV)
- - 👉 [You go first!!!](http://9gag.com/gag/aqyZOzR)<!-- MEMES:END -->
+ - 😝 [You go first!!!](http://9gag.com/gag/aqyZOzR)
+ - 😝 [How to shut a woke attention seeker.](http://9gag.com/gag/a9yMwL0)
+ - 💣 [How Female Brain works](http://9gag.com/gag/aLnQOqP)
+ - 😝 [Divers call this \u201ca Delta P\u201d, but do you know how dangerous it is for these men?](http://9gag.com/gag/apRoMqb)
+ - 👉 [Thats my Justin, keep it up](http://9gag.com/gag/aNDoXAb)<!-- MEMES:END -->
 
 ---
 

@@ -163,10 +163,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [New iPad mini with OLED screen rumored to arrive in 2026](https://appleinsider.com/articles/24/05/24/new-ipad-mini-with-oled-screen-rumored-to-arrive-in-2026?utm_medium=rss)
- - [Memorial Day Sales 2024: Get the Best Deals From Amazon, Best Buy, Walmart and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-24/#ftag=CAD590a51e)
  - [8 Best Mattresses for Side Sleepers &lpar;2024&rpar;: Budget, Luxe, Tested by Experts](https://www.wired.com/gallery/best-mattresses-for-side-sleepers/)
- - [Get Up to 29% Off on Bose Wireless Headphones, Speakers and More With This Memorial Day Deal     - CNET](https://www.cnet.com/deals/get-up-to-29-off-on-bose-wireless-headphones-speakers-and-more-with-this-memorial-day-deal/#ftag=CAD590a51e)
- - [Grab the Google Pixel 7 Pro at Just $400 at Woot With This Memorial Day Deal     - CNET](https://www.cnet.com/deals/google-pixel-7-pro-down-to-400-woot-memorial-day-deal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ukrainian officials say Russia is deploying more advanced tools to disrupt Starlink, raising questions about its reliability against sophisticated adversaries &lpar;New York Times&rpar;](http://www.techmeme.com/240524/p9#a240524p9)
+ - [The dog from the doge meme has died](https://www.theverge.com/2024/5/24/24163865/doge-meme-shiba-inu-kabosu-dead-crypto)
+ - [13 Best Electric Kettles &lpar;2024&rpar;: Gooseneck, Temperature Control, Cheap](https://www.wired.com/gallery/best-electric-kettles/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

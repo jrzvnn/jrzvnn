@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [AI having a conversation with another AI \u2026. We are toast](http://9gag.com/gag/aQzp5ZW)
- - 😝 [I think my cat is trying to tell me something](http://9gag.com/gag/aD2w9wN)
- - 💣 [Oops](http://9gag.com/gag/agm0wPr)
- - 😝 [Climbing day](http://9gag.com/gag/aKGgo1g)
- - 👉 [Divers call this \u201ca Delta P\u201d, but do you know how dangerous it is for these men?](http://9gag.com/gag/apRoMqb)<!-- MEMES:END -->
+ - 😝 [Okay you&#39;re old, but are you this old?](http://9gag.com/gag/aLnQ5wW)
+ - 😝 [Chocolate is not good for your personality](http://9gag.com/gag/amoLQZj)
+ - 💣 [This woman was arrested on a plane for preventing a take off.](http://9gag.com/gag/ajP6vKp)
+ - 😝 [UK police](http://9gag.com/gag/a4P9gym)
+ - 👉 [What a twist](http://9gag.com/gag/aQzpjAK)<!-- MEMES:END -->
 
 ---
 

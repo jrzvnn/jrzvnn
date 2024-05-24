@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google says the vast majority of AI Overviews provide high-quality information and many of the viral examples have been uncommon queries or have been doctored &lpar;Peter Kafka/Business Insider&rpar;](http://www.techmeme.com/240524/p17#a240524p17)
  - [You can get rid of AI Overviews in Google Search](https://www.theverge.com/24162621/google-search-ai-overviews-get-rid-of)
  - [A Delaware federal court overturns a jury&#39;s 2022 decision that Shopify owes $40M to Express Mobile for infringing patents related to website-building tools &lpar;Josh Scott/BetaKit&rpar;](http://www.techmeme.com/240524/p16#a240524p16)
  - [Memorial Day Sales 2024: Get the Best Deals From Amazon, Best Buy, Walmart and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-24/#ftag=CAD590a51e)
- - [Memorial Day Weekend Appliance Deals: Save Big on Refrigerators, Dishwashers, Microwaves and More     - CNET](https://www.cnet.com/deals/memorial-day-appliance-sales/#ftag=CAD590a51e)
- - [Buy Two and Get One Free Sitewide During GNC&#39;s Memorial Day Sale     - CNET](https://www.cnet.com/deals/buy-two-and-get-one-free-sitewide-during-gncs-memorial-day-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Memorial Day Weekend Appliance Deals: Save Big on Refrigerators, Dishwashers, Microwaves and More     - CNET](https://www.cnet.com/deals/memorial-day-appliance-sales/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

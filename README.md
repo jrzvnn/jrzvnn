@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [At least the Internet made me believe so](http://9gag.com/gag/apRoZ4B)
- - 😝 [Old but gold](http://9gag.com/gag/apRo40p)
- - 💣 [Woman](http://9gag.com/gag/a34dOg5)
- - 😝 [Eyes on the ball...](http://9gag.com/gag/axy2q8K)
- - 👉 [And I am sick of pretending that I don&#39;t.](http://9gag.com/gag/amoLeqv)<!-- MEMES:END -->
+ - 😝 [AI having a conversation with another AI \u2026. We are toast](http://9gag.com/gag/aQzp5ZW)
+ - 😝 [I think my cat is trying to tell me something](http://9gag.com/gag/aD2w9wN)
+ - 💣 [Oops](http://9gag.com/gag/agm0wPr)
+ - 😝 [Climbing day](http://9gag.com/gag/aKGgo1g)
+ - 👉 [Divers call this \u201ca Delta P\u201d, but do you know how dangerous it is for these men?](http://9gag.com/gag/apRoMqb)<!-- MEMES:END -->
 
 ---
 

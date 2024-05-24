@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UK rushes through Digital Markets Act copycat to regulate mostly US big tech](https://appleinsider.com/articles/24/05/24/uk-rushes-through-digital-markets-act-copycat-to-regulate-mostly-us-big-tech?utm_medium=rss)
+ - [Here’s why deleted iPhone photos returned to some iOS devices](https://www.theverge.com/2024/5/24/24163826/apple-iphone-ios-17-5-update-deleted-photos-explained)
  - [Don’t Believe the Biggest Myth About Heat Pumps](https://www.wired.com/story/myth-heat-pumps-cold-weather-freezing-subzero/)
- - [A Nigerian court adjourns a money laundering trial against Binance and two of its executives to June 20 because one of the defendants Tigran Gambaryan was ill &lpar;Camillus Eboh/Reuters&rpar;](http://www.techmeme.com/240524/p5#a240524p5)
- - [Memorial Day Sales 2024: Get the Best Deals From Amazon, Best Buy, Walmart and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-24/#ftag=CAD590a51e)
- - [Best Savings Rates Today -- Don&#39;t Miss Out on APYs Up to 5.55%, May 24, 2024     - CNET](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-may-24-2024/#ftag=CAD590a51e)
- - [A Texas federal jury orders Micron to pay $445M to computer memory company Netlist for willfully infringing on two parents related to improving memory modules &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/240524/p4#a240524p4)<!-- TECH:END -->
+ - [A Nigerian court adjourned a money laundering trial against Binance and two of its executives to June 20 due to health issues of one executive, Tigran Gambaryan &lpar;Camillus Eboh/Reuters&rpar;](http://www.techmeme.com/240524/p5#a240524p5)
+ - [Memorial Day Sales 2024: Get the Best Deals From Amazon, Best Buy, Walmart and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-24/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

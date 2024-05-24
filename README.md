@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best 100 albums, iOS 18 Music features, and more iPad Pro on the AppleInsider Podcast](https://appleinsider.com/articles/24/05/24/best-100-albums-ios-18-music-features-and-more-ipad-pro-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Google announces plans to invest nearly $350M in Flipkart, as part of a nearly $1B funding round, about $600M of which came from Walmart in 2023 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240524/p7#a240524p7)
  - [A Warp Drive Breakthrough Inches a Tiny Bit Closer to &#39;Star Trek&#39;](https://www.wired.com/story/warp-drive-breakthrough-physics-star-trek/)
- - [A profile of Lin Rui-siang, a 23-year-old Taiwanese accused by the US DOJ of running a $100M+ dark-web drug market who had an alter ego as a crypto crime expert &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/240524/p6#a240524p6)
- - [Scarlett Johansson’s OpenAI Feud Makes Her an Uncanny Folk Hero](https://www.wired.com/story/scarlett-johanssons-openai-feud-makes-her-an-uncanny-folk-hero/)
- - [UK rushes through Digital Markets Act copycat to regulate mostly US big tech](https://appleinsider.com/articles/24/05/24/uk-rushes-through-digital-markets-act-copycat-to-regulate-mostly-us-big-tech?utm_medium=rss)
- - [Here’s why deleted iPhone photos returned to some iOS devices](https://www.theverge.com/2024/5/24/24163826/apple-iphone-ios-17-5-update-deleted-photos-explained)<!-- TECH:END -->
+ - [Memorial Day Sales 2024: Get the Best Deals From Amazon, Best Buy, Walmart and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-24/#ftag=CAD590a51e)
+ - [A profile of Lin Rui-siang, a 23-year-old Taiwanese accused by the US DOJ of running a $100M+ dark-web drug market who had an alter ego as a crypto crime expert &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/240524/p6#a240524p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

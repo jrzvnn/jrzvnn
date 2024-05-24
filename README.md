@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Nvidia cuts price of its China-specific H20 chip, selling it below Huawei&#39;s Ascend 910B, underscoring the challenges Nvidia faces amid US sanctions &lpar;Fanny Potkin/Reuters&rpar;](http://www.techmeme.com/240524/p2#a240524p2)
  - [Atropos Health, whose AI chatbot helps clinicians generate observational studies on real world data rapidly and at scale, raised a $33M Series B led by Valtruis &lpar;Heather Landi/Fierce Healthcare ...&rpar;](http://www.techmeme.com/240524/p1#a240524p1)
  - [A look at Daylight Computer&#39;s DC1, a 10.5-inch, $729 tablet that feels like a hybrid of an iPad and a Kindle and runs on a custom Android-based OS called SolOS &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240523/p45#a240523p45)
  - [Memorial Day Sales 2024: We&#39;ve Rounded Up the Best Deals at Amazon, Walmart, Best Buy and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-23/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints and Answer: Help for May 24, #1070     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-and-answer-help-for-may-24-1070/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints and Answers: Help for May 24, #348     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hints-answer-help-for-may-24-348/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints and Answer: Help for May 24, #1070     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-and-answer-help-for-may-24-1070/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

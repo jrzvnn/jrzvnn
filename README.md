@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why doesn&#39;t she just send an ambulance immediately?](http://9gag.com/gag/avyZqrW)
- - 😝 [What a terrible day to have eyes](http://9gag.com/gag/aO8yOgD)
- - 💣 [A group of Muslims cut traffic at rush time to pray in the middle of the street](http://9gag.com/gag/a87bN83)
- - 😝 [Lemme see your best perky collection](http://9gag.com/gag/avyZj0O)
- - 👉 [You go first!!!](http://9gag.com/gag/aqyZOzR)<!-- MEMES:END -->
+ - 😝 [You go first!!!](http://9gag.com/gag/aqyZOzR)
+ - 😝 [Gf marking her territory because presenter is hot](http://9gag.com/gag/a87b9ZV)
+ - 💣 [Wild &lpar;Would&rpar;](http://9gag.com/gag/aPAybvP)
+ - 😝 [Gassed](http://9gag.com/gag/apRoXwM)
+ - 👉 [Oops](http://9gag.com/gag/agm0wPr)<!-- MEMES:END -->
 
 ---
 

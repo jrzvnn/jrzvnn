@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Studio Ghibli Wallpaper 1](http://9gag.com/gag/a34dgzr)
- - 😝 [Just a dog having a blast](http://9gag.com/gag/aNDo50G)
- - 💣 [Today&#39;s wallpaper... Come and get it while it&#39;s hot :&rpar;&rpar;](http://9gag.com/gag/amoLynd)
- - 😝 [The front fell off](http://9gag.com/gag/a34dOdN)
- - 👉 [The evil pronouns.](http://9gag.com/gag/aNDoMKv)<!-- MEMES:END -->
+ - 😝 [In the 1800s, Scottish surgeon Robert Liston became infamous for a surgery that led to an astonishing 300% mortality rate.](http://9gag.com/gag/aXPE1Nd)
+ - 😝 [You go first!!!](http://9gag.com/gag/aqyZOzR)
+ - 💣 [Wild &lpar;Would&rpar;](http://9gag.com/gag/aPAybvP)
+ - 😝 [Climbing day](http://9gag.com/gag/aKGgo1g)
+ - 👉 [When I find my sisters friends panties](http://9gag.com/gag/ayNprEV)<!-- MEMES:END -->
 
 ---
 

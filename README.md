@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You go first!!!](http://9gag.com/gag/aqyZOzR)
- - 😝 [When I find my sisters friends panties](http://9gag.com/gag/ayNprEV)
- - 💣 [Divers call this \u201ca Delta P\u201d, but do you know how dangerous it is for these men?](http://9gag.com/gag/apRoMqb)
- - 😝 [`go for him` dude ran to get his half lol](http://9gag.com/gag/amoLwzV)
- - 👉 [Lemme see your best perky collection](http://9gag.com/gag/avyZj0O)<!-- MEMES:END -->
+ - 😝 [What a terrible day to have eyes](http://9gag.com/gag/aO8yOgD)
+ - 😝 [How Female Brain works](http://9gag.com/gag/aLnQOqP)
+ - 💣 [How to shut a woke attention seeker.](http://9gag.com/gag/a9yMwL0)
+ - 😝 [Thats my Justin, keep it up](http://9gag.com/gag/aNDoXAb)
+ - 👉 [You go first!!!](http://9gag.com/gag/aqyZOzR)<!-- MEMES:END -->
 
 ---
 

@@ -172,11 +172,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Do you know who I am?!](http://9gag.com/gag/aYQpBBv)
- - 😝 [Let\u2019s just try 1/2 and see how it goes.](http://9gag.com/gag/a2vPgX1)
- - 💣 [Gf marking her territory because presenter is hot](http://9gag.com/gag/a87b9ZV)
- - 😝 [Lemme see your best perky collection](http://9gag.com/gag/avyZj0O)
- - 👉 [Horny is back\u2026](http://9gag.com/gag/abAqDyb)<!-- MEMES:END -->
+ - 😝 [You go first!!!](http://9gag.com/gag/aqyZOzR)
+ - 😝 [When I find my sisters friends panties](http://9gag.com/gag/ayNprEV)
+ - 💣 [Why doesn&#39;t she just send an ambulance immediately?](http://9gag.com/gag/avyZqrW)
+ - 😝 [`go for him` dude ran to get his half lol](http://9gag.com/gag/amoLwzV)
+ - 👉 [Gf marking her territory because presenter is hot](http://9gag.com/gag/a87b9ZV)<!-- MEMES:END -->
 
 ---
 

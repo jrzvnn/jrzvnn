@@ -172,10 +172,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [You go first!!!](http://9gag.com/gag/aqyZOzR)
- - 😝 [Do you know who I am?!](http://9gag.com/gag/aYQpBBv)
- - 💣 [`go for him` dude ran to get his half lol](http://9gag.com/gag/amoLwzV)
+ - 😝 [How Female Brain works](http://9gag.com/gag/aLnQOqP)
+ - 💣 [When I find my sisters friends panties](http://9gag.com/gag/ayNprEV)
  - 😝 [Gf marking her territory because presenter is hot](http://9gag.com/gag/a87b9ZV)
- - 👉 [Why doesn&#39;t she just send an ambulance immediately?](http://9gag.com/gag/avyZqrW)<!-- MEMES:END -->
+ - 👉 [Just an innocent kiss](http://9gag.com/gag/a7oKBDq)<!-- MEMES:END -->
 
 ---
 

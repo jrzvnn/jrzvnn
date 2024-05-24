@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You go first!!!](http://9gag.com/gag/aqyZOzR)
- - 😝 [Divers call this \u201ca Delta P\u201d, but do you know how dangerous it is for these men?](http://9gag.com/gag/apRoMqb)
+ - 😝 [Oops](http://9gag.com/gag/agm0wPr)
+ - 😝 [Female gaming PC.](http://9gag.com/gag/awybj18)
  - 💣 [How Female Brain works](http://9gag.com/gag/aLnQOqP)
- - 😝 [Wild &lpar;Would&rpar;](http://9gag.com/gag/aPAybvP)
- - 👉 [Gassed](http://9gag.com/gag/apRoXwM)<!-- MEMES:END -->
+ - 😝 [Why doesn&#39;t she just send an ambulance immediately?](http://9gag.com/gag/avyZqrW)
+ - 👉 [Gf marking her territory because presenter is hot](http://9gag.com/gag/a87b9ZV)<!-- MEMES:END -->
 
 ---
 

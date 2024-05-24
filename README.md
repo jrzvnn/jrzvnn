@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Okay you&#39;re old, but are you this old?](http://9gag.com/gag/aLnQ5wW)
- - 😝 [Chocolate is not good for your personality](http://9gag.com/gag/amoLQZj)
- - 💣 [This woman was arrested on a plane for preventing a take off.](http://9gag.com/gag/ajP6vKp)
- - 😝 [UK police](http://9gag.com/gag/a4P9gym)
- - 👉 [What a twist](http://9gag.com/gag/aQzpjAK)<!-- MEMES:END -->
+ - 😝 [Oops](http://9gag.com/gag/agm0wPr)
+ - 😝 [Woman](http://9gag.com/gag/a34dOg5)
+ - 💣 [The camping of horrors](http://9gag.com/gag/amoLwyV)
+ - 😝 [`go for him` dude ran to get his half lol](http://9gag.com/gag/amoLwzV)
+ - 👉 [Father disciplines his daughter](http://9gag.com/gag/aD2wepG)<!-- MEMES:END -->
 
 ---
 

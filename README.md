@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gassed](http://9gag.com/gag/apRoXwM)
- - 😝 [You go first!!!](http://9gag.com/gag/aqyZOzR)
- - 💣 [How to shut a woke attention seeker.](http://9gag.com/gag/a9yMwL0)
- - 😝 [Horny is back\u2026](http://9gag.com/gag/abAqDyb)
- - 👉 [Let\u2019s just try 1/2 and see how it goes.](http://9gag.com/gag/a2vPgX1)<!-- MEMES:END -->
+ - 😝 [Why doesn&#39;t she just send an ambulance immediately?](http://9gag.com/gag/avyZqrW)
+ - 😝 [Divers call this \u201ca Delta P\u201d, but do you know how dangerous it is for these men?](http://9gag.com/gag/apRoMqb)
+ - 💣 [You go first!!!](http://9gag.com/gag/aqyZOzR)
+ - 😝 [When I find my sisters friends panties](http://9gag.com/gag/ayNprEV)
+ - 👉 [How Female Brain works](http://9gag.com/gag/aLnQOqP)<!-- MEMES:END -->
 
 ---
 

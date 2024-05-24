@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Experience Immersive sizzle reel for Apple Vision Pro updated with new scenes, sports](https://appleinsider.com/articles/24/05/24/experience-immersive-sizzle-reel-for-apple-vision-pro-updated-with-new-scenes-sports?utm_medium=rss)
  - [Sources: Alibaba raised $4.5B from a convertible bond sale in one of the largest such offerings in recent years, after rival JD.com&#39;s recent $1.75B offering &lpar;Bloomberg&rpar;](http://www.techmeme.com/240523/p44#a240523p44)
  - [Memorial Day Sales 2024: We&#39;ve Rounded Up the Best Deals at Amazon, Walmart, Best Buy and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-23/#ftag=CAD590a51e)
  - [Sources: Samsung&#39;s HBM3 chips have yet to pass Nvidia&#39;s tests for use in the US company&#39;s AI processors due to heat and power consumption problems &lpar;Reuters&rpar;](http://www.techmeme.com/240523/p43#a240523p43)
- - [The White House issues a call to action seeking companies&#39; voluntary commitment to curb the creation, spread, and monetization of nonconsensual sexual AI images &lpar;Associated Press&rpar;](http://www.techmeme.com/240523/p42#a240523p42)
- - [Even J.Lo in a mech suit can’t save Netflix’s by-the-numbers AI thriller](https://www.theverge.com/24162731/netflix-atlas-review-jennifer-lopez-ai)<!-- TECH:END -->
+ - [The White House issues a call to action seeking companies&#39; voluntary commitment to curb the creation, spread, and monetization of nonconsensual sexual AI images &lpar;Associated Press&rpar;](http://www.techmeme.com/240523/p42#a240523p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

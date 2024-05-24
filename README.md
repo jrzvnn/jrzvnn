@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Atropos Health, whose AI chatbot helps clinicians generate observational studies on real world data rapidly and at scale, raised a $33M Series B led by Valtruis &lpar;Heather Landi/Fierce Healthcare ...&rpar;](http://www.techmeme.com/240524/p1#a240524p1)
  - [A look at Daylight Computer&#39;s DC1, a 10.5-inch, $729 tablet that feels like a hybrid of an iPad and a Kindle and runs on a custom Android-based OS called SolOS &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240523/p45#a240523p45)
- - [Experience Immersive sizzle reel for Apple Vision Pro updated with new scenes, sports](https://appleinsider.com/articles/24/05/24/experience-immersive-sizzle-reel-for-apple-vision-pro-updated-with-new-scenes-sports?utm_medium=rss)
- - [Sources: Alibaba raised $4.5B from a convertible bond sale in one of the largest such offerings in recent years, after rival JD.com&#39;s recent $1.75B offering &lpar;Bloomberg&rpar;](http://www.techmeme.com/240523/p44#a240523p44)
  - [Memorial Day Sales 2024: We&#39;ve Rounded Up the Best Deals at Amazon, Walmart, Best Buy and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-23/#ftag=CAD590a51e)
- - [Sources: Samsung&#39;s HBM3 chips have yet to pass Nvidia&#39;s tests for use in the US company&#39;s AI processors due to heat and power consumption problems &lpar;Reuters&rpar;](http://www.techmeme.com/240523/p43#a240523p43)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints and Answer: Help for May 24, #1070     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-and-answer-help-for-may-24-1070/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints and Answers: Help for May 24, #348     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hints-answer-help-for-may-24-348/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

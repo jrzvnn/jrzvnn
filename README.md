@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Eyes on the ball...](http://9gag.com/gag/axy2q8K)
- - 😝 [This is what happen when caffeine enter your blood](http://9gag.com/gag/a0ePqXX)
- - 💣 [Lemme see your best perky collection](http://9gag.com/gag/avyZj0O)
+ - 😝 [Repo man](http://9gag.com/gag/abAqw99)
+ - 😝 [Climbing day](http://9gag.com/gag/aKGgo1g)
+ - 💣 [Oops](http://9gag.com/gag/agm0wPr)
  - 😝 [Woman](http://9gag.com/gag/a34dOg5)
- - 👉 [Today NGO volunteer that came from western countries to Gaza get surprised that hamas shoot them as they tried cross the border \ud83e\udd21](http://9gag.com/gag/a6Zd0Oq)<!-- MEMES:END -->
+ - 👉 [Female gaming PC.](http://9gag.com/gag/awybj18)<!-- MEMES:END -->
 
 ---
 

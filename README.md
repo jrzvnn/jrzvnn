@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The real doge - Kabosu passed away today in the morning. We will miss you](http://9gag.com/gag/aVvQygP)
- - 😝 [Father is so proud of this kid](http://9gag.com/gag/a87bgvV)
- - 💣 [If you keep whining about the past and you&#39;ll never move forward.](http://9gag.com/gag/ae93wDp)
- - 😝 [Why the media protect the parasites ? Who owns the media ?](http://9gag.com/gag/aGyV4Ew)
- - 👉 [What you see is no longer possible. The masters have retired, and the young who replaced them hated them. Art has been LOST.](http://9gag.com/gag/avyZwxE)<!-- MEMES:END -->
+ - 😝 [Lawyers be trippin](http://9gag.com/gag/aD2w569)
+ - 😝 [Kazakhstani is a fun language](http://9gag.com/gag/amoLQyo)
+ - 💣 [Done for day](http://9gag.com/gag/aNDoM74)
+ - 😝 [China launched military drills around Taiwan](http://9gag.com/gag/a87bOmY)
+ - 👉 [My not so smart ass](http://9gag.com/gag/a9yM0E1)<!-- MEMES:END -->
 
 ---
 

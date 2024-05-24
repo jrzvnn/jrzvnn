@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some people with legacy Google Workspace accounts are getting extra storage for free](https://www.theverge.com/2024/5/24/24162742/google-g-suite-legacy-storage-subscription-canceled)
  - [The Last of Us: all the news about the video game franchise turned TV series](https://www.theverge.com/24036366/the-last-of-us-news-video-game-tv-series-trailers)
  - [Best Memorial Day Deals Under $100: Save on Tech, Home Goods, Fitness and More     - CNET](https://www.cnet.com/deals/best-memorial-day-deals-under-100/#ftag=CAD590a51e)
  - [Best Apple Memorial Day Sales: Snag Savings on iPads, Apple Watches, Macs and More     - CNET](https://www.cnet.com/deals/best-apple-memorial-day-sales/#ftag=CAD590a51e)
- - [You can save up to 20 percent on refurbished and like-new Nintendo Switch handhelds](https://www.theverge.com/2024/5/24/24163904/nintendo-switch-lite-console-deal-sale)
- - [Q&amp;A with Signal President Meredith Whittaker on the clash with Elon Musk, Telegram&#39;s Pavel Durov, &quot;dorm room high jinks&quot; of OpenAI&#39;s &quot;edge lords&quot;, and more &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/240524/p13#a240524p13)<!-- TECH:END -->
+ - [You can save up to 20 percent on refurbished and like-new Nintendo Switch handhelds](https://www.theverge.com/2024/5/24/24163904/nintendo-switch-lite-console-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

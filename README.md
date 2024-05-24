@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Next level pick up line](http://9gag.com/gag/aVvQ5nK)
- - 😝 [Let\u2019s just try 1/2 and see how it goes.](http://9gag.com/gag/a2vPgX1)
- - 💣 [Koala diet consists mostly of eucalyptus but they only recognize the leaves as food when on a branch](http://9gag.com/gag/aYQp0wN)
+ - 😝 [You go first!!!](http://9gag.com/gag/aqyZOzR)
  - 😝 [Do you know who I am?!](http://9gag.com/gag/aYQpBBv)
- - 👉 [Yep](http://9gag.com/gag/aRBgpZ5)<!-- MEMES:END -->
+ - 💣 [`go for him` dude ran to get his half lol](http://9gag.com/gag/amoLwzV)
+ - 😝 [Gf marking her territory because presenter is hot](http://9gag.com/gag/a87b9ZV)
+ - 👉 [Why doesn&#39;t she just send an ambulance immediately?](http://9gag.com/gag/avyZqrW)<!-- MEMES:END -->
 
 ---
 

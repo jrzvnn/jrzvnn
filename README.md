@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This woman was arrested on a plane for preventing a take off.](http://9gag.com/gag/ajP6vKp)
- - 😝 [Gassed](http://9gag.com/gag/apRoXwM)
- - 💣 [Lemme see your best perky collection](http://9gag.com/gag/avyZj0O)
- - 😝 [Gf marking her territory because presenter is hot](http://9gag.com/gag/a87b9ZV)
- - 👉 [Female gaming PC.](http://9gag.com/gag/awybj18)<!-- MEMES:END -->
+ - 😝 [Art studio dumps paint down storm drain](http://9gag.com/gag/ae938Aj)
+ - 😝 [At least the Internet made me believe so](http://9gag.com/gag/apRoZ4B)
+ - 💣 [Eyes on the ball...](http://9gag.com/gag/axy2q8K)
+ - 😝 [Why the media protect the parasites ? Who owns the media ?](http://9gag.com/gag/aGyV4Ew)
+ - 👉 [Lemme see your best perky collection](http://9gag.com/gag/avyZj0O)<!-- MEMES:END -->
 
 ---
 

@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Saints on the water](http://9gag.com/gag/amoLwvo)
- - 😝 [Lol.](http://9gag.com/gag/azxLwDq)
- - 💣 [Let\u2019s just try 1/2 and see how it goes.](http://9gag.com/gag/a2vPgX1)
- - 😝 [Koala diet consists mostly of eucalyptus but they only recognize the leaves as food when on a branch](http://9gag.com/gag/aYQp0wN)
- - 👉 [Yep](http://9gag.com/gag/aRBgpZ5)<!-- MEMES:END -->
+ - 😝 [Divers call this \u201ca Delta P\u201d, but do you know how dangerous it is for these men?](http://9gag.com/gag/apRoMqb)
+ - 😝 [Why doesn&#39;t she just send an ambulance immediately?](http://9gag.com/gag/avyZqrW)
+ - 💣 [Just an innocent kiss](http://9gag.com/gag/a7oKBDq)
+ - 😝 [Thats my Justin, keep it up](http://9gag.com/gag/aNDoXAb)
+ - 👉 [When I find my sisters friends panties](http://9gag.com/gag/ayNprEV)<!-- MEMES:END -->
 
 ---
 

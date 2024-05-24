@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [8 Best Mattresses for Side Sleepers &lpar;2024&rpar;: Budget, Luxe, Tested by Experts](https://www.wired.com/gallery/best-mattresses-for-side-sleepers/)
  - [New iPad mini with OLED screen rumored to arrive in 2026](https://appleinsider.com/articles/24/05/24/new-ipad-mini-with-oled-screen-rumored-to-arrive-in-2026?utm_medium=rss)
  - [Ukrainian officials say Russia is deploying more advanced tools to disrupt Starlink, raising questions about its reliability against sophisticated adversaries &lpar;New York Times&rpar;](http://www.techmeme.com/240524/p9#a240524p9)
  - [The dog from the doge meme has died](https://www.theverge.com/2024/5/24/24163865/doge-meme-shiba-inu-kabosu-dead-crypto)
- - [13 Best Electric Kettles &lpar;2024&rpar;: Gooseneck, Temperature Control, Cheap](https://www.wired.com/gallery/best-electric-kettles/)
- - [ChatGPT has a Scarlett Johansson problem](https://www.theverge.com/2024/5/24/24163869/chatgpt-scarlett-johansson-microsoft-build-surface-vergecast)<!-- TECH:END -->
+ - [13 Best Electric Kettles &lpar;2024&rpar;: Gooseneck, Temperature Control, Cheap](https://www.wired.com/gallery/best-electric-kettles/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

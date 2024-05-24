@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [9gaggers](http://9gag.com/gag/agm0p2x)
- - 😝 [How Roman emperor Nero powered his rotating dining room](http://9gag.com/gag/adB6MYj)
- - 💣 [I want candy!](http://9gag.com/gag/aVvQ9xd)
- - 😝 [Good, take them for everything they have](http://9gag.com/gag/aW40yZ3)
- - 👉 [Today&#39;s wallpaper... Come and get it while it&#39;s hot :&rpar;&rpar;](http://9gag.com/gag/amoLynd)<!-- MEMES:END -->
+ - 😝 [Gassed](http://9gag.com/gag/apRoXwM)
+ - 😝 [You go first!!!](http://9gag.com/gag/aqyZOzR)
+ - 💣 [How to shut a woke attention seeker.](http://9gag.com/gag/a9yMwL0)
+ - 😝 [Horny is back\u2026](http://9gag.com/gag/abAqDyb)
+ - 👉 [Let\u2019s just try 1/2 and see how it goes.](http://9gag.com/gag/a2vPgX1)<!-- MEMES:END -->
 
 ---
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ring’s Pan-Tilt Indoor Cam hands-on: a fuller view of your home](https://www.theverge.com/24163485/ring-pan-tilt-indoor-cam-smart-security-camera-hands-on)
- - [New iPad mini with OLED screen rumored to arrive in 2026](https://appleinsider.com/articles/24/05/24/new-ipad-mini-with-oled-screen-rumored-to-arrive-in-2026?utm_medium=rss)
- - [8 Best Mattresses for Side Sleepers &lpar;2024&rpar;: Budget, Luxe, Tested by Experts](https://www.wired.com/gallery/best-mattresses-for-side-sleepers/)
- - [Ukrainian officials say Russia is deploying more advanced tools to disrupt Starlink, raising questions about its reliability against sophisticated adversaries &lpar;New York Times&rpar;](http://www.techmeme.com/240524/p9#a240524p9)
- - [The dog from the doge meme has died](https://www.theverge.com/2024/5/24/24163865/doge-meme-shiba-inu-kabosu-dead-crypto)<!-- TECH:END -->
+ - [Your next iPhone could be the iPad mini - iPhone 15 vs iPad mini showdown](https://appleinsider.com/articles/24/05/24/your-next-iphone-could-be-the-ipad-mini---iphone-15-vs-ipad-mini-showdown?utm_medium=rss)
+ - [Hyundai is ‘doubling down’ on EVs despite sales slowdown, CEO says](https://www.theverge.com/24163520/hyundai-randy-parker-interview-ev-sales-ioniq-sales)
+ - [Nvidia CEO Jensen Huang&#39;s 3.5%+ stake in the company grew from $3B to $90B in five years, as the stock grew 28x in five years and more than doubled this year &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240524/p10#a240524p10)
+ - [Samsung S95D QD-OLED Review: A Matte Screen for Reflective Rooms](https://www.wired.com/review/samsung-s95d-qd-oled/)
+ - [Ring’s Pan-Tilt Indoor Cam hands-on: a fuller view of your home](https://www.theverge.com/24163485/ring-pan-tilt-indoor-cam-smart-security-camera-hands-on)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

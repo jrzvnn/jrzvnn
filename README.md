@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Samsung&#39;s HBM3 chips have yet to pass Nvidia&#39;s tests for use in the US company&#39;s AI processors due to heat and power consumption problems &lpar;Reuters&rpar;](http://www.techmeme.com/240523/p43#a240523p43)
+ - [Memorial Day Sales 2024: We&#39;ve Rounded Up the Best Deals at Amazon, Walmart, Best Buy and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-23/#ftag=CAD590a51e)
  - [The White House issues a call to action seeking companies&#39; voluntary commitment to curb the creation, spread, and monetization of nonconsensual sexual AI images &lpar;Associated Press&rpar;](http://www.techmeme.com/240523/p42#a240523p42)
  - [Even J.Lo in a mech suit can’t save Netflix’s by-the-numbers AI thriller](https://www.theverge.com/24162731/netflix-atlas-review-jennifer-lopez-ai)
- - [OpenAI releases a majority of past employees from nondisparagement agreements tied to their exit contracts and would not seek to cancel staffers&#39; vested equity &lpar;Bloomberg&rpar;](http://www.techmeme.com/240523/p41#a240523p41)
- - [iOS resurrected photo bug fixed with iOS 17.5.1 detailed by Apple](https://appleinsider.com/articles/24/05/24/ios-resurrected-photo-bug-fixed-with-ios-1751-detailed-by-apple?utm_medium=rss)
- - [Memorial Day Sales 2024: We&#39;ve Rounded Up the Best Deals at Amazon, Walmart, Best Buy and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-23/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OpenAI releases a majority of past employees from nondisparagement agreements tied to their exit contracts and would not seek to cancel staffers&#39; vested equity &lpar;Bloomberg&rpar;](http://www.techmeme.com/240523/p41#a240523p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

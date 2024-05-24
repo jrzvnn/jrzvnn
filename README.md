@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You go first!!!](http://9gag.com/gag/aqyZOzR)
- - 😝 [How Female Brain works](http://9gag.com/gag/aLnQOqP)
- - 💣 [When I find my sisters friends panties](http://9gag.com/gag/ayNprEV)
+ - 😝 [1996 Seoul, a fan climb up the crane, MJ held him from falling the whole time while performing](http://9gag.com/gag/aByQbP2)
+ - 😝 [Why doesn&#39;t she just send an ambulance immediately?](http://9gag.com/gag/avyZqrW)
+ - 💣 [Thats my Justin, keep it up](http://9gag.com/gag/aNDoXAb)
  - 😝 [Gf marking her territory because presenter is hot](http://9gag.com/gag/a87b9ZV)
- - 👉 [Just an innocent kiss](http://9gag.com/gag/a7oKBDq)<!-- MEMES:END -->
+ - 👉 [That&#39;s what grandmas are for](http://9gag.com/gag/aD2wqZZ)<!-- MEMES:END -->
 
 ---
 

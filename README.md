@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An overview of existing deals between news publishers and AI companies and the questions they raise regarding long-term costs, the selection process, and more &lpar;Pete Brown/Columbia Journalism Review&rpar;](http://www.techmeme.com/240524/p18#a240524p18)
  - [This iPod prototype was hiding Apple’s unreleased Tetris clone](https://www.theverge.com/2024/5/24/24164247/apple-tetris-stacker-ipod-prototype-tony-fadell)
  - [Memorial Day Sales at Home Depot: Rack Up Massive Savings on Outdoor and Home Essentials     - CNET](https://www.cnet.com/deals/home-depot-memorial-day-sales/#ftag=CAD590a51e)
  - [Best Memorial Day Laptop Sales: Save Hundreds at Best Buy, Walmart, Target and More     - CNET](https://www.cnet.com/deals/best-memorial-day-laptop-sales/#ftag=CAD590a51e)
- - [Best Memorial Day Sleep Deals: Save on Pillows, Comforters and Sheet Sets From Top-Rated Brands     - CNET](https://www.cnet.com/deals/best-memorial-day-sleep-deals-2024/#ftag=CAD590a51e)
- - [Save Big on the Best Walmart Memorial Day Sales Across TVs, Laptops, iPads and More     - CNET](https://www.cnet.com/deals/best-walmart-memorial-day-sales/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Memorial Day Sleep Deals: Save on Pillows, Comforters and Sheet Sets From Top-Rated Brands     - CNET](https://www.cnet.com/deals/best-memorial-day-sleep-deals-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

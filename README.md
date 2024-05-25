@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stream Netflix, Hulu and More: Top New TV Shows and Movies to Watch This Week     - CNET](https://www.cnet.com/tech/services-and-software/stream-netflix-hulu-more-top-new-tv-shows-movies-watch-this-week/#ftag=CAD590a51e)
- - [Home Depot Memorial Day Sale: Big Savings on Outdoor Furniture, Appliances and More     - CNET](https://www.cnet.com/deals/home-depot-memorial-day-sales-2024-05-25/#ftag=CAD590a51e)
  - [A US jury finds that Phoenix Digital, which owns the cheat mod site AimJunkies, is guilty of violating Bungie copyrights when it created cheats for Destiny 2 &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240525/p9#a240525p9)
- - [Best Buy Memorial Day Sale: Shop Steep Discounts on Tech, Appliances and More All Weekend     - CNET](https://www.cnet.com/deals/best-buy-memorial-day-sale/#ftag=CAD590a51e)
- - [Best Memorial Day Smart Home Deals: Epic Sales on Google Nest, Robot Vacuums, Smart Lights and More     - CNET](https://www.cnet.com/deals/best-memorial-day-smart-home-sales-05-25/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Memorial Day Smart Home Deals: Epic Sales on Google Nest, Robot Vacuums, Smart Lights and More     - CNET](https://www.cnet.com/deals/best-memorial-day-smart-home-sales-05-25/#ftag=CAD590a51e)
+ - [Save 35% on Comfy Towels, Bedding and More at Cozy Earth Through Memorial Day     - CNET](https://www.cnet.com/deals/save-35-on-comfy-towels-bedding-and-more-at-cozy-earth-through-memorial-day/#ftag=CAD590a51e)
+ - [The 9 Best Fish to Grill This Summer     - CNET](https://www.cnet.com/health/nutrition/the-9-best-fish-to-grill-this-summer/#ftag=CAD590a51e)
+ - [Best Memorial Day Mattress Sales: Save Hundreds on Purple, Casper, Amerisleep and More     - CNET](https://www.cnet.com/deals/best-memorial-day-mattress-sales-save-hundreds-on-purple-casper-amerisleep-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

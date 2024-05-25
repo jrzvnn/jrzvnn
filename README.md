@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That was the real Joe..](http://9gag.com/gag/abAq7GE)
- - 😝 [No wonder Kyoto are banning tourist in some places](http://9gag.com/gag/aAyV9jE)
- - 💣 [A Civil Argument](http://9gag.com/gag/ae93L9v)
- - 😝 [In the 1800s, Scottish surgeon Robert Liston became infamous for a surgery that led to an astonishing 300% mortality rate.](http://9gag.com/gag/aXPE1Nd)
- - 👉 [Lemme see your best perky collection](http://9gag.com/gag/avyZj0O)<!-- MEMES:END -->
+ - 😝 [How to deal with bullies](http://9gag.com/gag/agm0Dzx)
+ - 😝 [Divers call this \u201ca Delta P\u201d, but do you know how dangerous it is for these men?](http://9gag.com/gag/apRoMqb)
+ - 💣 [Lithium battery mad](http://9gag.com/gag/an7X6jL)
+ - 😝 [`Germany is for Germans, foreigners out!` A curious slogan is gaining popularity in Germany.](http://9gag.com/gag/a4P9X2w)
+ - 👉 [In the 1800s, Scottish surgeon Robert Liston became infamous for a surgery that led to an astonishing 300% mortality rate.](http://9gag.com/gag/aXPE1Nd)<!-- MEMES:END -->
 
 ---
 

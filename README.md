@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A jury hands Bungie a victory in a landmark anti-cheating decision](https://www.theverge.com/2024/5/25/24164679/bungie-anti-cheating-lawsuit-jury-trial-aimjunkies-copyright-violation-victory)
+ - [How Threads became a gathering space for young progressives in Taiwan, who now use the app to organize protests against pro-China opposition parties &lpar;Viola Zhou/Rest of World&rpar;](http://www.techmeme.com/240525/p8#a240525p8)
  - [14 Must-Know Amazon Prime Perks You&#39;re Probably Not Using     - CNET](https://www.cnet.com/tech/mobile/13-best-little-known-perks-you-can-get-from-amazon-prime/#ftag=CAD590a51e)
  - [Memorial Day Sales 2024: Shop the Best Deals From Amazon, Best Buy, Walmart and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-25/#ftag=CAD590a51e)
- - [Spend Just $13 and Get 2 Anker USB-C Fast Chargers at Amazon This Memorial Day     - CNET](https://www.cnet.com/deals/spend-just-13-and-get-2-anker-usb-c-fast-chargers-at-amazon-memorial-day/#ftag=CAD590a51e)
- - [Congress has quietly diverted $3.5B from the US CHIPS Act to Secure Enclave, a classified project proposed by Intel to build chips for defense needs &lpar;Christine Mui/Politico&rpar;](http://www.techmeme.com/240525/p7#a240525p7)
- - [Best Memorial Day Smart Home Deals: Epic Sales on Google Nest, Robot Vacuums, Smart Lights and More     - CNET](https://www.cnet.com/deals/best-memorial-day-smart-home-sales-05-25/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Spend Just $13 and Get 2 Anker USB-C Fast Chargers at Amazon This Memorial Day     - CNET](https://www.cnet.com/deals/spend-just-13-and-get-2-anker-usb-c-fast-chargers-at-amazon-memorial-day/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

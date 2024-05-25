@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Congress has quietly diverted $3.5B from the US CHIPS Act to Secure Enclave, a classified project proposed by Intel to build chips for defense needs &lpar;Christine Mui/Politico&rpar;](http://www.techmeme.com/240525/p7#a240525p7)
  - [Apple&#39;s best-selling 14-inch MacBook Pro M3 with 16GB RAM is back on sale for $1,599](https://appleinsider.com/articles/24/05/25/apples-best-selling-14-inch-macbook-pro-m3-with-16gb-ram-is-back-on-sale-for-1599?utm_medium=rss)
  - [ICQ 1996-2024: The first universal messenger had a good run, and is leaving us soon](https://appleinsider.com/articles/24/05/25/icq-1996-2024-the-first-universal-messenger-had-a-good-run-and-is-leaving-us-soon?utm_medium=rss)
  - [One of the Best Four-Player Board Games of the Year is 39% Off This Memorial Day Weekend     - CNET](https://www.cnet.com/culture/entertainment/one-of-the-best-four-player-board-games-of-the-year-is-39-off-this-memorial-day-weekend/#ftag=CAD590a51e)
- - [The best Memorial Day sales happening now](https://www.theverge.com/24161521/best-memorial-day-sales-2024-tech-deals-tvs-headphones-robot-vacuums-electronics)
- - [Get a Great Deal on the Google Pixel Watch 2 This Memorial Day Weekend     - CNET](https://www.cnet.com/deals/get-a-great-deal-on-the-google-pixel-watch-2-this-memorial-day-weekend/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best Memorial Day sales happening now](https://www.theverge.com/24161521/best-memorial-day-sales-2024-tech-deals-tvs-headphones-robot-vacuums-electronics)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

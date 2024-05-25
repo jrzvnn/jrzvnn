@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to deal with bullies](http://9gag.com/gag/agm0Dzx)
- - 😝 [Climbing day](http://9gag.com/gag/aKGgo1g)
- - 💣 [Art studio dumps paint down storm drain](http://9gag.com/gag/ae938Aj)
+ - 😝 [She didn&#39;t need a strong man till that day!](http://9gag.com/gag/a4P9Ozv)
  - 😝 [Today it randomly snowed in mexico &lpar;puebla&rpar;\u2026 in the summer\u2026 during a heatwave. It melted immediately and people\u2019s homes are getting flooded](http://9gag.com/gag/aW40zwK)
- - 👉 [Divers call this \u201ca Delta P\u201d, but do you know how dangerous it is for these men?](http://9gag.com/gag/apRoMqb)<!-- MEMES:END -->
+ - 💣 [Evolution of Mickey Rourke](http://9gag.com/gag/avyZ3GZ)
+ - 😝 [Lithium battery mad](http://9gag.com/gag/an7X6jL)
+ - 👉 [How to deal with bullies](http://9gag.com/gag/agm0Dzx)<!-- MEMES:END -->
 
 ---
 

@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [At least the Internet made me believe so](http://9gag.com/gag/apRoZ4B)
- - 😝 [`Germany is for Germans, foreigners out!` A curious slogan is gaining popularity in Germany.](http://9gag.com/gag/a4P9X2w)
- - 💣 [In the 1800s, Scottish surgeon Robert Liston became infamous for a surgery that led to an astonishing 300% mortality rate.](http://9gag.com/gag/aXPE1Nd)
- - 😝 [Art studio dumps paint down storm drain](http://9gag.com/gag/ae938Aj)
- - 👉 [Someone tried to perform a Daigo parry, 20 years later...](http://9gag.com/gag/a1mZ612)<!-- MEMES:END -->
+ - 😝 [Brainscan](http://9gag.com/gag/a7oKXmm)
+ - 😝 [Woman](http://9gag.com/gag/a34dOg5)
+ - 💣 [Divers call this \u201ca Delta P\u201d, but do you know how dangerous it is for these men?](http://9gag.com/gag/apRoMqb)
+ - 😝 [How to deal with bullies](http://9gag.com/gag/agm0Dzx)
+ - 👉 [Berlin. How are people so calm and let it happen?](http://9gag.com/gag/adB6zj9)<!-- MEMES:END -->
 
 ---
 

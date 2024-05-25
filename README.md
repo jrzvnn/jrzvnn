@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Germany is for Germans, foreigners out!` A curious slogan is gaining popularity in Germany.](http://9gag.com/gag/a4P9X2w)
- - 😝 [Evolution of Mickey Rourke](http://9gag.com/gag/avyZ3GZ)
- - 💣 [Climbing day](http://9gag.com/gag/aKGgo1g)
- - 😝 [Just a prank bro](http://9gag.com/gag/a9yMQPo)
- - 👉 [Today it randomly snowed in mexico &lpar;puebla&rpar;\u2026 in the summer\u2026 during a heatwave. It melted immediately and people\u2019s homes are getting flooded](http://9gag.com/gag/aW40zwK)<!-- MEMES:END -->
+ - 😝 [The better you see today...](http://9gag.com/gag/aPAy5vG)
+ - 😝 [The combo nobody asked but everyone needed](http://9gag.com/gag/aMVb3AP)
+ - 💣 [Thought some of you might need this. How to season a wok](http://9gag.com/gag/aMVb3jP)
+ - 😝 [German Shepard&#39;s reaction to owner coming home after 3 years of being away \ud83d\ude0d](http://9gag.com/gag/adB6m2Z)
+ - 👉 [How to deal with bullies](http://9gag.com/gag/agm0Dzx)<!-- MEMES:END -->
 
 ---
 

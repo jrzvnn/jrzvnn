@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The better you see today...](http://9gag.com/gag/aPAy5vG)
- - 😝 [The combo nobody asked but everyone needed](http://9gag.com/gag/aMVb3AP)
- - 💣 [Thought some of you might need this. How to season a wok](http://9gag.com/gag/aMVb3jP)
- - 😝 [German Shepard&#39;s reaction to owner coming home after 3 years of being away \ud83d\ude0d](http://9gag.com/gag/adB6m2Z)
- - 👉 [How to deal with bullies](http://9gag.com/gag/agm0Dzx)<!-- MEMES:END -->
+ - 😝 [Isack Hadjar escaped the accident with a magnificent reflex.](http://9gag.com/gag/aXPEyod)
+ - 😝 [Just finished watching Blue mountain state + the movie. Great show,happy to hear it&#39;s reportedly coming back](http://9gag.com/gag/aGyVXGG)
+ - 💣 [Its about time to clean out the closet.](http://9gag.com/gag/aPAy5MK)
+ - 😝 [Choose, Karen](http://9gag.com/gag/aMVboNx)
+ - 👉 [Father disciplines his daughter](http://9gag.com/gag/aD2wepG)<!-- MEMES:END -->
 
 ---
 

@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Super Size me](http://9gag.com/gag/a1mZyw2)
- - 😝 [Resident Evil virus infected seagull](http://9gag.com/gag/a9yMgv0)
- - 💣 [That was the real Joe..](http://9gag.com/gag/abAq7GE)
+ - 😝 [How to deal with bullies](http://9gag.com/gag/agm0Dzx)
  - 😝 [Divers call this \u201ca Delta P\u201d, but do you know how dangerous it is for these men?](http://9gag.com/gag/apRoMqb)
- - 👉 [Climbing day](http://9gag.com/gag/aKGgo1g)<!-- MEMES:END -->
+ - 💣 [Berlin. How are people so calm and let it happen?](http://9gag.com/gag/adB6zj9)
+ - 😝 [Today it randomly snowed in mexico &lpar;puebla&rpar;\u2026 in the summer\u2026 during a heatwave. It melted immediately and people\u2019s homes are getting flooded](http://9gag.com/gag/aW40zwK)
+ - 👉 [Resident evil 4?](http://9gag.com/gag/aYQp33v)<!-- MEMES:END -->
 
 ---
 

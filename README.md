@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No fat chicks please](http://9gag.com/gag/aVvQNAd)
- - 😝 [The better you see today...](http://9gag.com/gag/aPAy5vG)
- - 💣 [Thought some of you might need this. How to season a wok](http://9gag.com/gag/aMVb3jP)
- - 😝 [German Shepard&#39;s reaction to owner coming home after 3 years of being away \ud83d\ude0d](http://9gag.com/gag/adB6m2Z)
- - 👉 [How to deal with bullies](http://9gag.com/gag/agm0Dzx)<!-- MEMES:END -->
+ - 😝 [Super Size me](http://9gag.com/gag/a1mZyw2)
+ - 😝 [Evolution of Mickey Rourke](http://9gag.com/gag/avyZ3GZ)
+ - 💣 [That was the real Joe..](http://9gag.com/gag/abAq7GE)
+ - 😝 [How to deal with bullies](http://9gag.com/gag/agm0Dzx)
+ - 👉 [Crimson chin looking ass](http://9gag.com/gag/adB6mZD)<!-- MEMES:END -->
 
 ---
 

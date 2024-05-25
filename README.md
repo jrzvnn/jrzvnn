@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [But he said excuse me](http://9gag.com/gag/azxLwRB)
- - 😝 [Who knows why?](http://9gag.com/gag/ajP64Q8)
- - 💣 [This woman was arrested on a plane for preventing a take off.](http://9gag.com/gag/ajP6vKp)
- - 😝 [Berlin. How are people so calm and let it happen?](http://9gag.com/gag/adB6zj9)
- - 👉 [Someone tried to perform a Daigo parry, 20 years later...](http://9gag.com/gag/a1mZ612)<!-- MEMES:END -->
+ - 😝 [Divers call this \u201ca Delta P\u201d, but do you know how dangerous it is for these men?](http://9gag.com/gag/apRoMqb)
+ - 😝 [Father disciplines his daughter](http://9gag.com/gag/aD2wepG)
+ - 💣 [Pizza man values life over $20 in his wallet.](http://9gag.com/gag/aZZW64Q)
+ - 😝 [Lithium battery mad](http://9gag.com/gag/an7X6jL)
+ - 👉 [Learned his lesson](http://9gag.com/gag/agm0D7K)<!-- MEMES:END -->
 
 ---
 

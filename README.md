@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Memorial Day 2024 Sales: Hot Deals and Low Prices Available Right Now     - CNET](https://www.cnet.com/deals/memorial-day-sales/#ftag=CAD590a51e)
+ - [Memorial Day Sales 2024: Get the Best Deals From Amazon, Best Buy, Walmart and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-24/#ftag=CAD590a51e)
  - [Judge orders Google to calculate the costs of Epic’s biggest Play Store demand](https://www.theverge.com/2024/5/24/24164454/epic-google-catalog-access-library-porting)
  - [A look at the challenges facing AWS&#39; new CEO Matt Garman as the cloud unit battles the perception that it&#39;s falling behind Microsoft and Google in AI rollouts &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/240524/p22#a240524p22)
- - [Memorial Day Sales 2024: Get the Best Deals From Amazon, Best Buy, Walmart and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-24/#ftag=CAD590a51e)
- - [Google says it is &quot;taking swift action&quot; to remove AI Overviews on certain queries &quot;where appropriate under our content policies&quot; &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/240524/p21#a240524p21)
- - [Best Printer for 2024     - CNET](https://www.cnet.com/tech/computing/best-printer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nectar Mattresses Start at $349 This Memorial Day     - CNET](https://www.cnet.com/deals/nectar-memorial-day-deal-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

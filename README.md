@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There are two types of 9gagger](http://9gag.com/gag/a2vP68Z)
- - 😝 [Climbing day](http://9gag.com/gag/aKGgo1g)
- - 💣 [Oops](http://9gag.com/gag/agm0wPr)
- - 😝 [Divers call this \u201ca Delta P\u201d, but do you know how dangerous it is for these men?](http://9gag.com/gag/apRoMqb)
- - 👉 [Woman](http://9gag.com/gag/a34dOg5)<!-- MEMES:END -->
+ - 😝 [But he said excuse me](http://9gag.com/gag/azxLwRB)
+ - 😝 [Who knows why?](http://9gag.com/gag/ajP64Q8)
+ - 💣 [This woman was arrested on a plane for preventing a take off.](http://9gag.com/gag/ajP6vKp)
+ - 😝 [Berlin. How are people so calm and let it happen?](http://9gag.com/gag/adB6zj9)
+ - 👉 [Someone tried to perform a Daigo parry, 20 years later...](http://9gag.com/gag/a1mZ612)<!-- MEMES:END -->
 
 ---
 

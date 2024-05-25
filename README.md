@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [At least the Internet made me believe so](http://9gag.com/gag/apRoZ4B)
- - 😝 [They adopted a baby and this was their reaction when they met him](http://9gag.com/gag/a4P9XeA)
- - 💣 [Someone tried to perform a Daigo parry, 20 years later...](http://9gag.com/gag/a1mZ612)
- - 😝 [Just finished watching Blue mountain state + the movie. Great show,happy to hear it&#39;s reportedly coming back](http://9gag.com/gag/aGyVXGG)
- - 👉 [Lithium battery mad](http://9gag.com/gag/an7X6jL)<!-- MEMES:END -->
+ - 😝 [Learned his lesson](http://9gag.com/gag/agm0D7K)
+ - 😝 [How to deal with bullies](http://9gag.com/gag/agm0Dzx)
+ - 💣 [Resident Evil virus infected seagull](http://9gag.com/gag/a9yMgv0)
+ - 😝 [Father disciplines his daughter](http://9gag.com/gag/aD2wepG)
+ - 👉 [Pest control and fertilization in rice fields](http://9gag.com/gag/aqyZoGj)<!-- MEMES:END -->
 
 ---
 

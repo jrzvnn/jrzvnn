@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A Civil Argument](http://9gag.com/gag/ae93L9v)
  - 😝 [Berlin. How are people so calm and let it happen?](http://9gag.com/gag/adB6zj9)
- - 💣 [Divers call this \u201ca Delta P\u201d, but do you know how dangerous it is for these men?](http://9gag.com/gag/apRoMqb)
- - 😝 [In the 1800s, Scottish surgeon Robert Liston became infamous for a surgery that led to an astonishing 300% mortality rate.](http://9gag.com/gag/aXPE1Nd)
- - 👉 [Does anyone know what kind of stuff this is](http://9gag.com/gag/aByQBNA)<!-- MEMES:END -->
+ - 😝 [`Germany is for Germans, foreigners out!` A curious slogan is gaining popularity in Germany.](http://9gag.com/gag/a4P9X2w)
+ - 💣 [Oops](http://9gag.com/gag/agm0wPr)
+ - 😝 [How to deal with bullies](http://9gag.com/gag/agm0Dzx)
+ - 👉 [In the 1800s, Scottish surgeon Robert Liston became infamous for a surgery that led to an astonishing 300% mortality rate.](http://9gag.com/gag/aXPE1Nd)<!-- MEMES:END -->
 
 ---
 

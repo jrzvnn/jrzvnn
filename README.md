@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Divers call this \u201ca Delta P\u201d, but do you know how dangerous it is for these men?](http://9gag.com/gag/apRoMqb)
- - 😝 [Father disciplines his daughter](http://9gag.com/gag/aD2wepG)
- - 💣 [Pizza man values life over $20 in his wallet.](http://9gag.com/gag/aZZW64Q)
- - 😝 [Lithium battery mad](http://9gag.com/gag/an7X6jL)
- - 👉 [Learned his lesson](http://9gag.com/gag/agm0D7K)<!-- MEMES:END -->
+ - 😝 [Art studio dumps paint down storm drain](http://9gag.com/gag/ae938Aj)
+ - 😝 [Pizza man values life over $20 in his wallet.](http://9gag.com/gag/aZZW64Q)
+ - 💣 [Brainscan](http://9gag.com/gag/a7oKXmm)
+ - 😝 [Repo man](http://9gag.com/gag/abAqw99)
+ - 👉 [Climbing day](http://9gag.com/gag/aKGgo1g)<!-- MEMES:END -->
 
 ---
 

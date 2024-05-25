@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [17 Best Android Phones &lpar;2024&rpar;: Unlocked, Cheap, Foldable](https://www.wired.com/gallery/best-android-phones/)
  - [Your Bike Tires Are Too Skinny. Riding on Fat, Supple Tires Is Just Better](https://www.wired.com/story/fat-bike-tires-are-better-than-skinny-bike-tires/)
  - [I hated Animal Well until I beat the game](https://www.theverge.com/24162572/animal-well-platforming-difficulty-bigmode)
  - [What Is Lyocell Fabric, and Is It Eco-Friendly?](https://www.wired.com/story/what-is-lyocell-fabric/)
- - [Spotify Will Brick Every ‘Car Thing’ It Ever Sold](https://www.wired.com/story/spotify-car-thing-brick/)
- - [Our Favorite TV of 2024 Is Up to $300 With This Memorial Day Deal     - CNET](https://www.cnet.com/deals/tcl-qm8-our-favorite-tv-of-2024-300-off-memorial-day-deal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Memorial Day Deals Under $100: New Price Drops Hit in Time for the Weekend     - CNET](https://www.cnet.com/deals/best-memorial-day-deals-under-100/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,9 +164,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [What Is Lyocell Fabric, and Is It Eco-Friendly?](https://www.wired.com/story/what-is-lyocell-fabric/)
  - [Spotify Will Brick Every ‘Car Thing’ It Ever Sold](https://www.wired.com/story/spotify-car-thing-brick/)
- - [Only the Hardiest Trees Can Survive Today’s Urban Inferno](https://www.wired.com/story/hardiest-trees-urban-inferno-heat-cities/)
- - [An analysis of ChatGPT&#39;s answers to 517 programming questions on Stack Overflow: 52% of answers contain misinformation, 77% are more verbose than human answers &lpar;Sharon Adarlo/Futurism&rpar;](http://www.techmeme.com/240525/p4#a240525p4)
- - [Memorial Day Sales 2024: Get the Best Deals From Amazon, Best Buy, Walmart and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-25/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Our Favorite TV of 2024 Is Up to $300 With This Memorial Day Deal     - CNET](https://www.cnet.com/deals/tcl-qm8-our-favorite-tv-of-2024-300-off-memorial-day-deal/#ftag=CAD590a51e)
+ - [Memorial Day Sales 2024: Get the Best Deals From Amazon, Best Buy, Walmart and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-25/#ftag=CAD590a51e)
+ - [Best Memorial Day Deals Under $25: Weekend Price Cuts Now Live Across Tech, Home and Everyday Essentials     - CNET](https://www.cnet.com/deals/best-memorial-day-deals-under-25/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

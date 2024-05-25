@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Memorial Day TV Sales: Save Thousands on TVs From Sony, Samsung, TCL and More     - CNET](https://www.cnet.com/deals/best-memorial-day-tv-sales-05-25/#ftag=CAD590a51e)
- - [The Best Horror Movies on Max to Watch Right Now     - CNET](https://www.cnet.com/tech/services-and-software/the-best-horror-movies-on-max-may-2024/#ftag=CAD590a51e)
- - [Knock 20% Off My Favorite Sleep Number Comforter for Memorial Day     - CNET](https://www.cnet.com/deals/sleep-number-memorial-day-2024/#ftag=CAD590a51e)
- - [Memorial Day Weekend 2024 Deals: Ultimate Sales and Lowest Prices     - CNET](https://www.cnet.com/deals/memorial-day-sales-05-25/#ftag=CAD590a51e)
- - [A jury hands Bungie a victory in a landmark anti-cheating decision](https://www.theverge.com/2024/5/25/24164679/bungie-anti-cheating-lawsuit-jury-trial-aimjunkies-copyright-violation-victory)<!-- TECH:END -->
+ - [Best Memorial Day Smart Home Deals: Epic Sales on Google Nest, Robot Vacuums, Smart Lights and More     - CNET](https://www.cnet.com/deals/best-memorial-day-smart-home-sales-05-25/#ftag=CAD590a51e)
+ - [Save 35% on Comfy Towels, Bedding and More at Cozy Earth Through Memorial Day     - CNET](https://www.cnet.com/deals/save-35-on-comfy-towels-bedding-and-more-at-cozy-earth-through-memorial-day/#ftag=CAD590a51e)
+ - [The 9 Best Fish to Grill This Summer     - CNET](https://www.cnet.com/health/nutrition/the-9-best-fish-to-grill-this-summer/#ftag=CAD590a51e)
+ - [Best Memorial Day Mattress Sales: Save Hundreds on Purple, Casper, Amerisleep and More     - CNET](https://www.cnet.com/deals/best-memorial-day-mattress-sales-save-hundreds-on-purple-casper-amerisleep-and-more/#ftag=CAD590a51e)
+ - [Transform Your Living Space With $40 Off the Govee Floor Lamp Pro     - CNET](https://www.cnet.com/deals/transform-your-living-space-with-40-off-the-govee-floor-lamp-pro/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

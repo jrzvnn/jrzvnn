@@ -163,10 +163,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Apple Music&#39;s &quot;100 Best Albums&quot; list, based on votes from about 250 employees, artists, and industry executives, is eclectic, unpredictable, and controversial &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/240525/p3#a240525p3)
- - [EcoFlow’s $200 PowerStream is so clever, you might buy a $4,000 solar generator](https://www.theverge.com/24150901/ecoflow-powerstream-review-diy-balcony-solar-microinverter)
+ - [Best Camera Phone of 2024     - CNET](https://www.cnet.com/tech/mobile/best-camera-phone/#ftag=CAD590a51e)
  - [Memorial Day Sales 2024: Get the Best Deals From Amazon, Best Buy, Walmart and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-24/#ftag=CAD590a51e)
- - [Similarweb: Truth Social&#39;s average number of US monthly visits was just over 4M from May 2023 to April 2024, down 39%+ from the prior 12-month period &lpar;Kevin Breuninger/CNBC&rpar;](http://www.techmeme.com/240525/p2#a240525p2)
- - [Memorial Day Weekend Appliance Deals: Save Big on Refrigerators, Dishwashers, Microwaves and More     - CNET](https://www.cnet.com/deals/memorial-day-appliance-sales/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Memorial Day Sleep Deals: Save on Pillows, Comforters and Sheet Sets From Top-Rated Brands     - CNET](https://www.cnet.com/deals/best-memorial-day-sleep-deals-2024/#ftag=CAD590a51e)
+ - [EcoFlow’s $200 PowerStream is so clever, you might buy a $4,000 solar generator](https://www.theverge.com/24150901/ecoflow-powerstream-review-diy-balcony-solar-microinverter)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

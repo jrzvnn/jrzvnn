@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [At least you can turn off the switch](http://9gag.com/gag/amoL3eo)
- - 😝 [The combo nobody asked but everyone needed](http://9gag.com/gag/aMVb3AP)
- - 💣 [Save cats](http://9gag.com/gag/aPAyb2Q)
- - 😝 [Isack Hadjar escaped the accident with a magnificent reflex.](http://9gag.com/gag/aXPEyod)
- - 👉 [Not falling](http://9gag.com/gag/aGyVXAG)<!-- MEMES:END -->
+ - 😝 [How to deal with bullies](http://9gag.com/gag/agm0Dzx)
+ - 😝 [Climbing day](http://9gag.com/gag/aKGgo1g)
+ - 💣 [Art studio dumps paint down storm drain](http://9gag.com/gag/ae938Aj)
+ - 😝 [Today it randomly snowed in mexico &lpar;puebla&rpar;\u2026 in the summer\u2026 during a heatwave. It melted immediately and people\u2019s homes are getting flooded](http://9gag.com/gag/aW40zwK)
+ - 👉 [Divers call this \u201ca Delta P\u201d, but do you know how dangerous it is for these men?](http://9gag.com/gag/apRoMqb)<!-- MEMES:END -->
 
 ---
 

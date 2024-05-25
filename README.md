@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Old but gold](http://9gag.com/gag/apRo40p)
- - 😝 [The real doge - Kabosu passed away today in the morning. We will miss you](http://9gag.com/gag/aVvQygP)
- - 💣 [Eyes on the ball...](http://9gag.com/gag/axy2q8K)
- - 😝 [The better you see today...](http://9gag.com/gag/aPAy5vG)
- - 👉 [Today NGO volunteer that came from western countries to Gaza get surprised that hamas shoot them as they tried cross the border \ud83e\udd21](http://9gag.com/gag/a6Zd0Oq)<!-- MEMES:END -->
+ - 😝 [The lion, the witch and the audacity of this b...](http://9gag.com/gag/a7oKQEx)
+ - 😝 [Art studio dumps paint down storm drain](http://9gag.com/gag/ae938Aj)
+ - 💣 [How to deal with bullies](http://9gag.com/gag/agm0Dzx)
+ - 😝 [Lithium battery mad](http://9gag.com/gag/an7X6jL)
+ - 👉 [Divers call this \u201ca Delta P\u201d, but do you know how dangerous it is for these men?](http://9gag.com/gag/apRoMqb)<!-- MEMES:END -->
 
 ---
 

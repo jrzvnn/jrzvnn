@@ -164,9 +164,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [How to Keep an Old Computer Running](https://www.wired.com/story/how-to-keep-an-old-computer-running/)
  - [A test of 11 WhatsApp-based fact-checking &quot;tip lines&quot; during elections in India finds long delays and inconsistencies in responses &lpar;Rest of World&rpar;](http://www.techmeme.com/240525/p5#a240525p5)
+ - [Memorial Day Deals on Top-Name Grills and Smokers: Save Up to $450     - CNET](https://www.cnet.com/deals/best-memorial-day-grill-sales/#ftag=CAD590a51e)
  - [17 Best Android Phones &lpar;2024&rpar;: Unlocked, Cheap, Foldable](https://www.wired.com/gallery/best-android-phones/)
- - [Your Bike Tires Are Too Skinny. Riding on Fat, Supple Tires Is Just Better](https://www.wired.com/story/fat-bike-tires-are-better-than-skinny-bike-tires/)
- - [I hated Animal Well until I beat the game](https://www.theverge.com/24162572/animal-well-platforming-difficulty-bigmode)<!-- TECH:END -->
+ - [Get this Bruvi Bundle to Instantly Brew Coffee, Espresso and More at Home for $228 this Memorial Day Weekend     - CNET](https://www.cnet.com/deals/save-150-on-this-bruvi-bundle-to-instantly-brew-coffee-espresso-and-more-at-home/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -163,10 +163,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [EcoFlow’s $200 PowerStream is so clever, you might buy a $4,000 solar generator](https://www.theverge.com/24150901/ecoflow-powerstream-review-diy-balcony-solar-microinverter)
+ - [Memorial Day Sales 2024: Get the Best Deals From Amazon, Best Buy, Walmart and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-24/#ftag=CAD590a51e)
  - [Similarweb: Truth Social&#39;s average number of US monthly visits was just over 4M from May 2023 to April 2024, down 39%+ from the prior 12-month period &lpar;Kevin Breuninger/CNBC&rpar;](http://www.techmeme.com/240525/p2#a240525p2)
  - [Memorial Day Weekend Appliance Deals: Save Big on Refrigerators, Dishwashers, Microwaves and More     - CNET](https://www.cnet.com/deals/memorial-day-appliance-sales/#ftag=CAD590a51e)
- - [Two lawsuits filed on behalf of the Uvalde shooting victims allege Activision, Meta, and the gunmaker, Daniel Defense, are responsible for &quot;grooming&quot; the gunman &lpar;Washington Post&rpar;](http://www.techmeme.com/240525/p1#a240525p1)
- - [Memorial Day Sales 2024: Get the Best Deals From Amazon, Best Buy, Walmart and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-24/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Two lawsuits filed on behalf of the Uvalde shooting victims allege Activision, Meta, and the gunmaker, Daniel Defense, are responsible for &quot;grooming&quot; the gunman &lpar;Washington Post&rpar;](http://www.techmeme.com/240525/p1#a240525p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

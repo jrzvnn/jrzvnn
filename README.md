@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s best-selling 14-inch MacBook Pro M3 with 16GB RAM is back on sale for $1,599](https://appleinsider.com/articles/24/05/25/apples-best-selling-14-inch-macbook-pro-m3-with-16gb-ram-is-back-on-sale-for-1599?utm_medium=rss)
  - [ICQ 1996-2024: The first universal messenger had a good run, and is leaving us soon](https://appleinsider.com/articles/24/05/25/icq-1996-2024-the-first-universal-messenger-had-a-good-run-and-is-leaving-us-soon?utm_medium=rss)
+ - [One of the Best Four-Player Board Games of the Year is 39% Off This Memorial Day Weekend     - CNET](https://www.cnet.com/culture/entertainment/one-of-the-best-four-player-board-games-of-the-year-is-39-off-this-memorial-day-weekend/#ftag=CAD590a51e)
  - [The best Memorial Day sales happening now](https://www.theverge.com/24161521/best-memorial-day-sales-2024-tech-deals-tvs-headphones-robot-vacuums-electronics)
- - [Best Memorial Day Laptop Sales: Save Hundreds at Best Buy, Walmart, Target and More     - CNET](https://www.cnet.com/deals/best-memorial-day-laptop-sales-05-25/#ftag=CAD590a51e)
- - [Memorial Day Sales 2024: Get the Best Deals From Amazon, Best Buy, Walmart and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-25/#ftag=CAD590a51e)
- - [How SLMs like Microsoft&#39;s Phi-3, which can run locally on phones or PCs without big compromises, open up new AI use cases by being more responsive and private &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/240525/p6#a240525p6)<!-- TECH:END -->
+ - [Get a Great Deal on the Google Pixel Watch 2 This Memorial Day Weekend     - CNET](https://www.cnet.com/deals/get-a-great-deal-on-the-google-pixel-watch-2-this-memorial-day-weekend/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

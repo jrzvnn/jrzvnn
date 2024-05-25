@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Similarweb: Truth Social&#39;s average number of US monthly visits was just over 4M from May 2023 to April 2024, down 39%+ from the prior 12-month period &lpar;Kevin Breuninger/CNBC&rpar;](http://www.techmeme.com/240525/p2#a240525p2)
  - [Memorial Day Weekend Appliance Deals: Save Big on Refrigerators, Dishwashers, Microwaves and More     - CNET](https://www.cnet.com/deals/memorial-day-appliance-sales/#ftag=CAD590a51e)
  - [Two lawsuits filed on behalf of the Uvalde shooting victims allege Activision, Meta, and the gunmaker, Daniel Defense, are responsible for &quot;grooming&quot; the gunman &lpar;Washington Post&rpar;](http://www.techmeme.com/240525/p1#a240525p1)
  - [Memorial Day Sales 2024: Get the Best Deals From Amazon, Best Buy, Walmart and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-24/#ftag=CAD590a51e)
- - [Best Memorial Day Deals Under $25: Spend Little and Get a Lot With These Home, Fitness and Tech Offers     - CNET](https://www.cnet.com/deals/best-memorial-day-deals-under-25/#ftag=CAD590a51e)
- - [Save Up to $600 Off Your Next Saatva Mattress for Memorial Day     - CNET](https://www.cnet.com/deals/saatva-memorial-day-deal-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Memorial Day Deals Under $25: Spend Little and Get a Lot With These Home, Fitness and Tech Offers     - CNET](https://www.cnet.com/deals/best-memorial-day-deals-under-25/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

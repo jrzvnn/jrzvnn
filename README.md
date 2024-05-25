@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Two lawsuits filed on behalf of the Uvalde shooting victims allege Activision, Meta, and the gunmaker, Daniel Defense, are responsible for &quot;grooming&quot; the gunman &lpar;Washington Post&rpar;](http://www.techmeme.com/240525/p1#a240525p1)
  - [Dell&#39;s stock rose 4.3% to close at $160.18 after reaching a record high on May 24 amid a rally in companies working on generative AI; DELL is up 114.17% in 2024 &lpar;Yuvraj Malik/Reuters&rpar;](http://www.techmeme.com/240524/p23#a240524p23)
- - [Memorial Day 2024 Sales: Hot Deals and Low Prices Available Right Now     - CNET](https://www.cnet.com/deals/memorial-day-sales/#ftag=CAD590a51e)
+ - [Best Memorial Day Deals Under $100: Save on Tech, Home Goods, Fitness and More     - CNET](https://www.cnet.com/deals/best-memorial-day-deals-under-100/#ftag=CAD590a51e)
  - [Memorial Day Sales 2024: Get the Best Deals From Amazon, Best Buy, Walmart and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-24/#ftag=CAD590a51e)
- - [Judge orders Google to calculate the costs of Epic’s biggest Play Store demand](https://www.theverge.com/2024/5/24/24164454/epic-google-catalog-access-library-porting)
- - [A look at the challenges facing AWS&#39; new CEO Matt Garman as the cloud unit battles the perception that it&#39;s falling behind Microsoft and Google in AI rollouts &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/240524/p22#a240524p22)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints and Answers: Help for May 25, #349     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hints-answer-help-for-may-25-349/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google scrambles to manually remove weird AI answers in search](https://www.theverge.com/2024/5/24/24164119/google-ai-overview-mistakes-search-race-openai)
- - [Activision and Meta sued by families of Uvalde school shooting victims](https://www.theverge.com/2024/5/24/24164311/activision-meta-lawsuit-call-of-duty-uvalde-shooting)
- - [The best Memorial Day deals you can already get](https://www.theverge.com/24161521/best-memorial-day-sales-2024-tech-deals-tvs-headphones-robot-vacuums-electronics)
+ - [Google says it is &quot;taking swift action&quot; to remove AI Overviews on certain queries &quot;where appropriate under our content policies&quot; &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/240524/p21#a240524p21)
+ - [Knock 20% Off My Favorite Sleep Number Comforter for Memorial Day     - CNET](https://www.cnet.com/deals/sleep-number-memorial-day-2024/#ftag=CAD590a51e)
+ - [Score Memorial Day Savings on Some of Our Favorite Trackable Wallets     - CNET](https://www.cnet.com/deals/score-memorial-day-savings-on-some-of-our-favorite-trackable-wallets/#ftag=CAD590a51e)
  - [Memorial Day Sales 2024: Get the Best Deals From Amazon, Best Buy, Walmart and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-24/#ftag=CAD590a51e)
- - [Atari buys the Intellivision brand and the rights to 200+ Intellivision Entertainment games, and says the deal &quot;ends the longest running console war in history&quot; &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240524/p19#a240524p19)<!-- TECH:END -->
+ - [Snag 15% Off on Massage Guns for Memorial Day at Therabody     - CNET](https://www.cnet.com/deals/snag-15-off-on-massage-guns-for-memorial-day-at-therabody/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

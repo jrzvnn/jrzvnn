@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What Is Lyocell Fabric, and Is It Eco-Friendly?](https://www.wired.com/story/what-is-lyocell-fabric/)
+ - [Spotify Will Brick Every ‘Car Thing’ It Ever Sold](https://www.wired.com/story/spotify-car-thing-brick/)
  - [Only the Hardiest Trees Can Survive Today’s Urban Inferno](https://www.wired.com/story/hardiest-trees-urban-inferno-heat-cities/)
  - [An analysis of ChatGPT&#39;s answers to 517 programming questions on Stack Overflow: 52% of answers contain misinformation, 77% are more verbose than human answers &lpar;Sharon Adarlo/Futurism&rpar;](http://www.techmeme.com/240525/p4#a240525p4)
- - [Memorial Day Sales 2024: Get the Best Deals From Amazon, Best Buy, Walmart and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-25/#ftag=CAD590a51e)
- - [Microsoft’s New Recall AI Tool May Be a ‘Privacy Nightmare’](https://www.wired.com/story/microsoft-recall-ai-privacy-nightmare-security-roundup/)
- - [Klipsch Flexus Core 100 Review: Great Sound from Single Bar     - CNET](https://www.cnet.com/tech/home-entertainment/klipsch-flexus-core-100-review-great-sound-from-single-bar/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Memorial Day Sales 2024: Get the Best Deals From Amazon, Best Buy, Walmart and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-25/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

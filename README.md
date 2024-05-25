@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The real doge - Kabosu passed away today in the morning. We will miss you](http://9gag.com/gag/aVvQygP)
- - 😝 [Eyes on the ball...](http://9gag.com/gag/axy2q8K)
- - 💣 [Choose, Karen](http://9gag.com/gag/aMVboNx)
- - 😝 [Today NGO volunteer that came from western countries to Gaza get surprised that hamas shoot them as they tried cross the border \ud83e\udd21](http://9gag.com/gag/a6Zd0Oq)
- - 👉 [There are two types of 9gagger](http://9gag.com/gag/a2vP68Z)<!-- MEMES:END -->
+ - 😝 [Lithium battery mad](http://9gag.com/gag/an7X6jL)
+ - 😝 [Climbing day](http://9gag.com/gag/aKGgo1g)
+ - 💣 [Oops](http://9gag.com/gag/agm0wPr)
+ - 😝 [Lemme see your best perky collection](http://9gag.com/gag/avyZj0O)
+ - 👉 [How to deal with bullies](http://9gag.com/gag/agm0Dzx)<!-- MEMES:END -->
 
 ---
 

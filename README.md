@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lithium battery mad](http://9gag.com/gag/an7X6jL)
- - 😝 [Climbing day](http://9gag.com/gag/aKGgo1g)
+ - 😝 [Cops take no chances with hoodlums.](http://9gag.com/gag/awybpR1)
+ - 😝 [They adopted a baby and this was their reaction when they met him](http://9gag.com/gag/a4P9XeA)
  - 💣 [Oops](http://9gag.com/gag/agm0wPr)
- - 😝 [Lemme see your best perky collection](http://9gag.com/gag/avyZj0O)
- - 👉 [How to deal with bullies](http://9gag.com/gag/agm0Dzx)<!-- MEMES:END -->
+ - 😝 [How to deal with bullies](http://9gag.com/gag/agm0Dzx)
+ - 👉 [Climbing day](http://9gag.com/gag/aKGgo1g)<!-- MEMES:END -->
 
 ---
 

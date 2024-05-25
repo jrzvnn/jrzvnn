@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Memorial Day Laptop Sales: Save Hundreds at Best Buy, Walmart, Target and More     - CNET](https://www.cnet.com/deals/best-memorial-day-laptop-sales-05-25/#ftag=CAD590a51e)
+ - [Memorial Day Sales 2024: Get the Best Deals From Amazon, Best Buy, Walmart and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-25/#ftag=CAD590a51e)
  - [How SLMs like Microsoft&#39;s Phi-3, which can run locally on phones or PCs without big compromises, open up new AI use cases by being more responsive and private &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/240525/p6#a240525p6)
- - [The Verge’s 2024 Father’s Day gift guide](https://www.theverge.com/24153276/best-fathers-day-gift-ideas-2024-dad-tech-gadgets)
- - [9 Best Smart Speakers &lpar;2024&rpar;: Alexa, Google Assistant, Siri](https://www.wired.com/story/best-smart-speakers/)
- - [ICQ is shutting down after almost 28 years](https://www.theverge.com/2024/5/25/24164579/icq-shut-down-june)
- - [Memorial Day Sales 2024: Get the Best Deals From Amazon, Best Buy, Walmart and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-25/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [ACP Funds Will Expire By the End of May. These Low-Income Options Can Help     - CNET](https://www.cnet.com/home/internet/acp-funds-expire-soon-these-low-income-options-can-help/#ftag=CAD590a51e)
+ - [Best Drones for 2024     - CNET](https://www.cnet.com/tech/computing/best-drone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [14 Must-Know Amazon Prime Perks You&#39;re Probably Not Using     - CNET](https://www.cnet.com/tech/mobile/13-best-little-known-perks-you-can-get-from-amazon-prime/#ftag=CAD590a51e)
+ - [Memorial Day Sales 2024: Shop the Best Deals From Amazon, Best Buy, Walmart and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-25/#ftag=CAD590a51e)
+ - [Spend Just $13 and Get 2 Anker USB-C Fast Chargers at Amazon This Memorial Day     - CNET](https://www.cnet.com/deals/spend-just-13-and-get-2-anker-usb-c-fast-chargers-at-amazon-memorial-day/#ftag=CAD590a51e)
  - [Congress has quietly diverted $3.5B from the US CHIPS Act to Secure Enclave, a classified project proposed by Intel to build chips for defense needs &lpar;Christine Mui/Politico&rpar;](http://www.techmeme.com/240525/p7#a240525p7)
- - [Apple&#39;s best-selling 14-inch MacBook Pro M3 with 16GB RAM is back on sale for $1,599](https://appleinsider.com/articles/24/05/25/apples-best-selling-14-inch-macbook-pro-m3-with-16gb-ram-is-back-on-sale-for-1599?utm_medium=rss)
- - [ICQ 1996-2024: The first universal messenger had a good run, and is leaving us soon](https://appleinsider.com/articles/24/05/25/icq-1996-2024-the-first-universal-messenger-had-a-good-run-and-is-leaving-us-soon?utm_medium=rss)
- - [One of the Best Four-Player Board Games of the Year is 39% Off This Memorial Day Weekend     - CNET](https://www.cnet.com/culture/entertainment/one-of-the-best-four-player-board-games-of-the-year-is-39-off-this-memorial-day-weekend/#ftag=CAD590a51e)
- - [The best Memorial Day sales happening now](https://www.theverge.com/24161521/best-memorial-day-sales-2024-tech-deals-tvs-headphones-robot-vacuums-electronics)<!-- TECH:END -->
+ - [Best Memorial Day Smart Home Deals: Epic Sales on Google Nest, Robot Vacuums, Smart Lights and More     - CNET](https://www.cnet.com/deals/best-memorial-day-smart-home-sales-05-25/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

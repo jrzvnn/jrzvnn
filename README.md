@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Memorial Day Weekend Appliance Deals: Save Big on Refrigerators, Dishwashers, Microwaves and More     - CNET](https://www.cnet.com/deals/memorial-day-appliance-sales/#ftag=CAD590a51e)
  - [Two lawsuits filed on behalf of the Uvalde shooting victims allege Activision, Meta, and the gunmaker, Daniel Defense, are responsible for &quot;grooming&quot; the gunman &lpar;Washington Post&rpar;](http://www.techmeme.com/240525/p1#a240525p1)
- - [Dell&#39;s stock rose 4.3% to close at $160.18 after reaching a record high on May 24 amid a rally in companies working on generative AI; DELL is up 114.17% in 2024 &lpar;Yuvraj Malik/Reuters&rpar;](http://www.techmeme.com/240524/p23#a240524p23)
- - [Best Memorial Day Deals Under $100: Save on Tech, Home Goods, Fitness and More     - CNET](https://www.cnet.com/deals/best-memorial-day-deals-under-100/#ftag=CAD590a51e)
  - [Memorial Day Sales 2024: Get the Best Deals From Amazon, Best Buy, Walmart and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-24/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints and Answers: Help for May 25, #349     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hints-answer-help-for-may-25-349/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Memorial Day Deals Under $25: Spend Little and Get a Lot With These Home, Fitness and Tech Offers     - CNET](https://www.cnet.com/deals/best-memorial-day-deals-under-25/#ftag=CAD590a51e)
+ - [Save Up to $600 Off Your Next Saatva Mattress for Memorial Day     - CNET](https://www.cnet.com/deals/saatva-memorial-day-deal-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

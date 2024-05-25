@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ICQ 1996-2024: The first universal messenger had a good run, and is leaving us soon](https://appleinsider.com/articles/24/05/25/icq-1996-2024-the-first-universal-messenger-had-a-good-run-and-is-leaving-us-soon?utm_medium=rss)
  - [The best Memorial Day sales happening now](https://www.theverge.com/24161521/best-memorial-day-sales-2024-tech-deals-tvs-headphones-robot-vacuums-electronics)
  - [Best Memorial Day Laptop Sales: Save Hundreds at Best Buy, Walmart, Target and More     - CNET](https://www.cnet.com/deals/best-memorial-day-laptop-sales-05-25/#ftag=CAD590a51e)
  - [Memorial Day Sales 2024: Get the Best Deals From Amazon, Best Buy, Walmart and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-25/#ftag=CAD590a51e)
- - [How SLMs like Microsoft&#39;s Phi-3, which can run locally on phones or PCs without big compromises, open up new AI use cases by being more responsive and private &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/240525/p6#a240525p6)
- - [ACP Funds Will Expire By the End of May. These Low-Income Options Can Help     - CNET](https://www.cnet.com/home/internet/acp-funds-expire-soon-these-low-income-options-can-help/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How SLMs like Microsoft&#39;s Phi-3, which can run locally on phones or PCs without big compromises, open up new AI use cases by being more responsive and private &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/240525/p6#a240525p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

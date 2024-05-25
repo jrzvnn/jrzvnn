@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Insta360 X4 Review: 8K 360 Footage in a Tiny Package](https://www.wired.com/review/insta360-x4-360-camera/)
- - [How to Keep an Old Computer Running](https://www.wired.com/story/how-to-keep-an-old-computer-running/)
- - [A test of 11 WhatsApp-based fact-checking &quot;tip lines&quot; during elections in India finds long delays and inconsistencies in responses &lpar;Rest of World&rpar;](http://www.techmeme.com/240525/p5#a240525p5)
- - [Memorial Day Deals on Top-Name Grills and Smokers: Save Up to $450     - CNET](https://www.cnet.com/deals/best-memorial-day-grill-sales/#ftag=CAD590a51e)
- - [17 Best Android Phones &lpar;2024&rpar;: Unlocked, Cheap, Foldable](https://www.wired.com/gallery/best-android-phones/)<!-- TECH:END -->
+ - [9 Best Smart Speakers &lpar;2024&rpar;: Alexa, Google Assistant, Siri](https://www.wired.com/story/best-smart-speakers/)
+ - [ICQ is shutting down after almost 28 years](https://www.theverge.com/2024/5/25/24164579/icq-shut-down-june)
+ - [Memorial Day Sales 2024: Get the Best Deals From Amazon, Best Buy, Walmart and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-25/#ftag=CAD590a51e)
+ - [Snag a 50-Inch TCL LED 4K TV for an All-Time Memorial Day Low of $220 at Amazon     - CNET](https://www.cnet.com/deals/snag-a-50-inch-tcl-led-4k-tv-for-an-all-time-memorial-day-low-of-220-at-amazon/#ftag=CAD590a51e)
+ - [Insta360 X4 Review: 8K 360 Footage in a Tiny Package](https://www.wired.com/review/insta360-x4-360-camera/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Art studio dumps paint down storm drain](http://9gag.com/gag/ae938Aj)
- - 😝 [Pizza man values life over $20 in his wallet.](http://9gag.com/gag/aZZW64Q)
- - 💣 [Brainscan](http://9gag.com/gag/a7oKXmm)
- - 😝 [Repo man](http://9gag.com/gag/abAqw99)
- - 👉 [Climbing day](http://9gag.com/gag/aKGgo1g)<!-- MEMES:END -->
+ - 😝 [Old but gold](http://9gag.com/gag/apRo40p)
+ - 😝 [The real doge - Kabosu passed away today in the morning. We will miss you](http://9gag.com/gag/aVvQygP)
+ - 💣 [Eyes on the ball...](http://9gag.com/gag/axy2q8K)
+ - 😝 [The better you see today...](http://9gag.com/gag/aPAy5vG)
+ - 👉 [Today NGO volunteer that came from western countries to Gaza get surprised that hamas shoot them as they tried cross the border \ud83e\udd21](http://9gag.com/gag/a6Zd0Oq)<!-- MEMES:END -->
 
 ---
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says it is &quot;taking swift action&quot; to remove AI Overviews on certain queries &quot;where appropriate under our content policies&quot; &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/240524/p21#a240524p21)
- - [Knock 20% Off My Favorite Sleep Number Comforter for Memorial Day     - CNET](https://www.cnet.com/deals/sleep-number-memorial-day-2024/#ftag=CAD590a51e)
- - [Score Memorial Day Savings on Some of Our Favorite Trackable Wallets     - CNET](https://www.cnet.com/deals/score-memorial-day-savings-on-some-of-our-favorite-trackable-wallets/#ftag=CAD590a51e)
+ - [Judge orders Google to calculate the costs of Epic’s biggest Play Store demand](https://www.theverge.com/2024/5/24/24164454/epic-google-catalog-access-library-porting)
+ - [A look at the challenges facing AWS&#39; new CEO Matt Garman as the cloud unit battles the perception that it&#39;s falling behind Microsoft and Google in AI rollouts &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/240524/p22#a240524p22)
  - [Memorial Day Sales 2024: Get the Best Deals From Amazon, Best Buy, Walmart and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-24/#ftag=CAD590a51e)
- - [Snag 15% Off on Massage Guns for Memorial Day at Therabody     - CNET](https://www.cnet.com/deals/snag-15-off-on-massage-guns-for-memorial-day-at-therabody/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google says it is &quot;taking swift action&quot; to remove AI Overviews on certain queries &quot;where appropriate under our content policies&quot; &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/240524/p21#a240524p21)
+ - [Best Printer for 2024     - CNET](https://www.cnet.com/tech/computing/best-printer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

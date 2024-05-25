@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Memorial Day TV Sales: Save Thousands on TVs From Sony, Samsung, TCL and More     - CNET](https://www.cnet.com/deals/best-memorial-day-tv-sales-05-25/#ftag=CAD590a51e)
- - [The Best Horror Movies on Max to Watch Right Now     - CNET](https://www.cnet.com/tech/services-and-software/the-best-horror-movies-on-max-may-2024/#ftag=CAD590a51e)
- - [Knock 20% Off My Favorite Sleep Number Comforter for Memorial Day     - CNET](https://www.cnet.com/deals/sleep-number-memorial-day-2024/#ftag=CAD590a51e)
- - [Memorial Day Weekend 2024 Deals: Ultimate Sales and Lowest Prices     - CNET](https://www.cnet.com/deals/memorial-day-sales-05-25/#ftag=CAD590a51e)
- - [A jury hands Bungie a victory in a landmark anti-cheating decision](https://www.theverge.com/2024/5/25/24164679/bungie-anti-cheating-lawsuit-jury-trial-aimjunkies-copyright-violation-victory)<!-- TECH:END -->
+ - [A jury hands Bungie a victory in a landmark anti-cheating decision](https://www.theverge.com/2024/5/25/24164679/bungie-anti-cheating-lawsuit-jury-trial-aimjunkies-copyright-violation-victory)
+ - [How Threads became a gathering space for young progressives in Taiwan, who now use the app to organize protests against pro-China opposition parties &lpar;Viola Zhou/Rest of World&rpar;](http://www.techmeme.com/240525/p8#a240525p8)
+ - [Best Memorial Day Deals Under $50: Budget-Friendly Offers From Amazon, Walmart, Target and More     - CNET](https://www.cnet.com/deals/best-memorial-day-deals-under-50-05-25/#ftag=CAD590a51e)
+ - [Snag a Pair of Anker ANC Wireless Earbuds for Over 50% Off     - CNET](https://www.cnet.com/deals/snag-a-pair-of-anker-anc-wireless-earbuds-for-over-50-off/#ftag=CAD590a51e)
+ - [Memorial Day Sales 2024: Shop the Best Deals From Amazon, Best Buy, Walmart and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-25/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

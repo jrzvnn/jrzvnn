@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The lion, the witch and the audacity of this b...](http://9gag.com/gag/a7oKQEx)
- - 😝 [Art studio dumps paint down storm drain](http://9gag.com/gag/ae938Aj)
- - 💣 [How to deal with bullies](http://9gag.com/gag/agm0Dzx)
- - 😝 [Lithium battery mad](http://9gag.com/gag/an7X6jL)
- - 👉 [Divers call this \u201ca Delta P\u201d, but do you know how dangerous it is for these men?](http://9gag.com/gag/apRoMqb)<!-- MEMES:END -->
+ - 😝 [Lemme see your best perky collection](http://9gag.com/gag/avyZj0O)
+ - 😝 [Someone tried to perform a Daigo parry, 20 years later...](http://9gag.com/gag/a1mZ612)
+ - 💣 [Group therapy](http://9gag.com/gag/aE0G4OM)
+ - 😝 [How to deal with bullies](http://9gag.com/gag/agm0Dzx)
+ - 👉 [Baan said flash is too slow](http://9gag.com/gag/aryewN6)<!-- MEMES:END -->
 
 ---
 

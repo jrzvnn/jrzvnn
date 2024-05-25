@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cops take no chances with hoodlums.](http://9gag.com/gag/awybpR1)
- - 😝 [They adopted a baby and this was their reaction when they met him](http://9gag.com/gag/a4P9XeA)
- - 💣 [Oops](http://9gag.com/gag/agm0wPr)
  - 😝 [How to deal with bullies](http://9gag.com/gag/agm0Dzx)
- - 👉 [Climbing day](http://9gag.com/gag/aKGgo1g)<!-- MEMES:END -->
+ - 😝 [Divers call this \u201ca Delta P\u201d, but do you know how dangerous it is for these men?](http://9gag.com/gag/apRoMqb)
+ - 💣 [Lithium battery mad](http://9gag.com/gag/an7X6jL)
+ - 😝 [Lemme see your best perky collection](http://9gag.com/gag/avyZj0O)
+ - 👉 [Art studio dumps paint down storm drain](http://9gag.com/gag/ae938Aj)<!-- MEMES:END -->
 
 ---
 

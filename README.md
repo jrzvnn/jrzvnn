@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to deal with bullies](http://9gag.com/gag/agm0Dzx)
- - 😝 [Divers call this \u201ca Delta P\u201d, but do you know how dangerous it is for these men?](http://9gag.com/gag/apRoMqb)
- - 💣 [Lithium battery mad](http://9gag.com/gag/an7X6jL)
- - 😝 [Lemme see your best perky collection](http://9gag.com/gag/avyZj0O)
- - 👉 [Art studio dumps paint down storm drain](http://9gag.com/gag/ae938Aj)<!-- MEMES:END -->
+ - 😝 [A Civil Argument](http://9gag.com/gag/ae93L9v)
+ - 😝 [Berlin. How are people so calm and let it happen?](http://9gag.com/gag/adB6zj9)
+ - 💣 [Divers call this \u201ca Delta P\u201d, but do you know how dangerous it is for these men?](http://9gag.com/gag/apRoMqb)
+ - 😝 [In the 1800s, Scottish surgeon Robert Liston became infamous for a surgery that led to an astonishing 300% mortality rate.](http://9gag.com/gag/aXPE1Nd)
+ - 👉 [Does anyone know what kind of stuff this is](http://9gag.com/gag/aByQBNA)<!-- MEMES:END -->
 
 ---
 

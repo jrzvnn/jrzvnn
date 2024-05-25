@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lemme see your best perky collection](http://9gag.com/gag/avyZj0O)
- - 😝 [Old but gold](http://9gag.com/gag/apRo40p)
- - 💣 [The better you see today...](http://9gag.com/gag/aPAy5vG)
- - 😝 [Today NGO volunteer that came from western countries to Gaza get surprised that hamas shoot them as they tried cross the border \ud83e\udd21](http://9gag.com/gag/a6Zd0Oq)
- - 👉 [The real doge - Kabosu passed away today in the morning. We will miss you](http://9gag.com/gag/aVvQygP)<!-- MEMES:END -->
+ - 😝 [Just finished watching Blue mountain state + the movie. Great show,happy to hear it&#39;s reportedly coming back](http://9gag.com/gag/aGyVXGG)
+ - 😝 [Lithium battery mad](http://9gag.com/gag/an7X6jL)
+ - 💣 [They adopted a baby and this was their reaction when they met him](http://9gag.com/gag/a4P9XeA)
+ - 😝 [Father disciplines his daughter](http://9gag.com/gag/aD2wepG)
+ - 👉 [How to deal with bullies](http://9gag.com/gag/agm0Dzx)<!-- MEMES:END -->
 
 ---
 

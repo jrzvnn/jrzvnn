@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google scrambles to manually remove weird AI answers in search](https://www.theverge.com/2024/5/24/24164119/google-ai-overview-mistakes-search-race-openai)
  - [Activision and Meta sued by families of Uvalde school shooting victims](https://www.theverge.com/2024/5/24/24164311/activision-meta-lawsuit-call-of-duty-uvalde-shooting)
- - [Instant messaging client ICQ will stop working from June 26, recommends users migrate to messaging platforms from parent company VK; ICQ had 100M users in 2001 &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/240524/p20#a240524p20)
  - [The best Memorial Day deals you can already get](https://www.theverge.com/24161521/best-memorial-day-sales-2024-tech-deals-tvs-headphones-robot-vacuums-electronics)
- - [Atari buys the Intellivision brand and the rights to 200+ Intellivision Entertainment games, and says the deal &quot;ends the longest running console war in history&quot; &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240524/p19#a240524p19)
- - [An overview of existing deals between news publishers and AI companies and the questions they raise regarding long-term costs, the selection process, and more &lpar;Pete Brown/Columbia Journalism Review&rpar;](http://www.techmeme.com/240524/p18#a240524p18)<!-- TECH:END -->
+ - [Memorial Day Sales 2024: Get the Best Deals From Amazon, Best Buy, Walmart and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-24/#ftag=CAD590a51e)
+ - [Atari buys the Intellivision brand and the rights to 200+ Intellivision Entertainment games, and says the deal &quot;ends the longest running console war in history&quot; &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240524/p19#a240524p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

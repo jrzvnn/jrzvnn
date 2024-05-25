@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A significant amount of illicit crypto activity still remains in China, highlighting the continuing use of cryptocurrencies despite Beijing&#39;s digital asset ban &lpar;Bloomberg&rpar;](http://www.techmeme.com/240525/p10#a240525p10)
  - [Best Apple Memorial Day Sales: Snag the Top Deals on iPads, Apple Watches, Macs and More     - CNET](https://www.cnet.com/deals/best-apple-memorial-day-sales-2024-05-25/#ftag=CAD590a51e)
  - [The Purple Mattress I Slept on for 5 Years Is on Sale This Memorial Day     - CNET](https://www.cnet.com/deals/purple-mattress-memorial-day-2024/#ftag=CAD590a51e)
  - [This 24,000-mAh Anker Power Bank Is Down to $110 &lpar;$90 With Prime&rpar; in This Amazon Memorial Day Deal     - CNET](https://www.cnet.com/deals/24000-mah-anker-power-bank-memorial-day-deal-prime/#ftag=CAD590a51e)
- - [Memorial Day Sales 2024: Shop the Best Deals From Amazon, Best Buy, Walmart and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-25/#ftag=CAD590a51e)
- - [How Much Does a Heat Pump Cost?     - CNET](https://www.cnet.com/home/energy-and-utilities/how-much-does-a-heat-pump-cost/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Memorial Day Sales 2024: Shop the Best Deals From Amazon, Best Buy, Walmart and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-25/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

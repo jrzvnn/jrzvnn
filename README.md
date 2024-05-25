@@ -172,10 +172,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Lemme see your best perky collection](http://9gag.com/gag/avyZj0O)
- - 😝 [Someone tried to perform a Daigo parry, 20 years later...](http://9gag.com/gag/a1mZ612)
- - 💣 [Group therapy](http://9gag.com/gag/aE0G4OM)
- - 😝 [How to deal with bullies](http://9gag.com/gag/agm0Dzx)
- - 👉 [Baan said flash is too slow](http://9gag.com/gag/aryewN6)<!-- MEMES:END -->
+ - 😝 [Old but gold](http://9gag.com/gag/apRo40p)
+ - 💣 [The better you see today...](http://9gag.com/gag/aPAy5vG)
+ - 😝 [Today NGO volunteer that came from western countries to Gaza get surprised that hamas shoot them as they tried cross the border \ud83e\udd21](http://9gag.com/gag/a6Zd0Oq)
+ - 👉 [The real doge - Kabosu passed away today in the morning. We will miss you](http://9gag.com/gag/aVvQygP)<!-- MEMES:END -->
 
 ---
 

@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woman](http://9gag.com/gag/a34dOg5)
- - 😝 [F**k my life!!!](http://9gag.com/gag/aD2w5dx)
- - 💣 [There are two types of 9gagger](http://9gag.com/gag/a2vP68Z)
- - 😝 [Just want to read your opinion on WFA](http://9gag.com/gag/ae938Gv)
- - 👉 [Genius idea, engine without an engine, but it is real?](http://9gag.com/gag/aE0GmwO)<!-- MEMES:END -->
+ - 😝 [Climbing day](http://9gag.com/gag/aKGgo1g)
+ - 😝 [The camping of horrors](http://9gag.com/gag/amoLwyV)
+ - 💣 [Someone tried to perform a Daigo parry, 20 years later...](http://9gag.com/gag/a1mZ612)
+ - 😝 [In the 1800s, Scottish surgeon Robert Liston became infamous for a surgery that led to an astonishing 300% mortality rate.](http://9gag.com/gag/aXPE1Nd)
+ - 👉 [Its about time to clean out the closet.](http://9gag.com/gag/aPAy5MK)<!-- MEMES:END -->
 
 ---
 

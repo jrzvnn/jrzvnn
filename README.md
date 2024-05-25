@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Super Size me](http://9gag.com/gag/a1mZyw2)
- - 😝 [Evolution of Mickey Rourke](http://9gag.com/gag/avyZ3GZ)
- - 💣 [That was the real Joe..](http://9gag.com/gag/abAq7GE)
+ - 😝 [Young Portuguese girl in Lisbon looks around and doesn&#39;t see any Portuguese.](http://9gag.com/gag/adB6D5Q)
  - 😝 [How to deal with bullies](http://9gag.com/gag/agm0Dzx)
- - 👉 [Crimson chin looking ass](http://9gag.com/gag/adB6mZD)<!-- MEMES:END -->
+ - 💣 [Today it randomly snowed in mexico &lpar;puebla&rpar;\u2026 in the summer\u2026 during a heatwave. It melted immediately and people\u2019s homes are getting flooded](http://9gag.com/gag/aW40zwK)
+ - 😝 [Evolution of Mickey Rourke](http://9gag.com/gag/avyZ3GZ)
+ - 👉 [They adopted a baby and this was their reaction when they met him](http://9gag.com/gag/a4P9XeA)<!-- MEMES:END -->
 
 ---
 

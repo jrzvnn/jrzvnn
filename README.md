@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just finished watching Blue mountain state + the movie. Great show,happy to hear it&#39;s reportedly coming back](http://9gag.com/gag/aGyVXGG)
- - 😝 [Resident evil 4?](http://9gag.com/gag/aYQp33v)
- - 💣 [Father disciplines his daughter](http://9gag.com/gag/aD2wepG)
- - 😝 [Evolution of Mickey Rourke](http://9gag.com/gag/avyZ3GZ)
- - 👉 [How to deal with bullies](http://9gag.com/gag/agm0Dzx)<!-- MEMES:END -->
+ - 😝 [That was the real Joe..](http://9gag.com/gag/abAq7GE)
+ - 😝 [Art studio dumps paint down storm drain](http://9gag.com/gag/ae938Aj)
+ - 💣 [Climbing day](http://9gag.com/gag/aKGgo1g)
+ - 😝 [Today it randomly snowed in mexico &lpar;puebla&rpar;\u2026 in the summer\u2026 during a heatwave. It melted immediately and people\u2019s homes are getting flooded](http://9gag.com/gag/aW40zwK)
+ - 👉 [Resident evil 4?](http://9gag.com/gag/aYQp33v)<!-- MEMES:END -->
 
 ---
 

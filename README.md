@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Learned his lesson](http://9gag.com/gag/agm0D7K)
- - 😝 [How to deal with bullies](http://9gag.com/gag/agm0Dzx)
- - 💣 [Resident Evil virus infected seagull](http://9gag.com/gag/a9yMgv0)
- - 😝 [Father disciplines his daughter](http://9gag.com/gag/aD2wepG)
- - 👉 [Pest control and fertilization in rice fields](http://9gag.com/gag/aqyZoGj)<!-- MEMES:END -->
+ - 😝 [The real doge - Kabosu passed away today in the morning. We will miss you](http://9gag.com/gag/aVvQygP)
+ - 😝 [Eyes on the ball...](http://9gag.com/gag/axy2q8K)
+ - 💣 [Choose, Karen](http://9gag.com/gag/aMVboNx)
+ - 😝 [Today NGO volunteer that came from western countries to Gaza get surprised that hamas shoot them as they tried cross the border \ud83e\udd21](http://9gag.com/gag/a6Zd0Oq)
+ - 👉 [There are two types of 9gagger](http://9gag.com/gag/a2vP68Z)<!-- MEMES:END -->
 
 ---
 

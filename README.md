@@ -163,10 +163,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Memorial Day Sales 2024: Get the Best Deals From Amazon, Best Buy, Walmart and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-25/#ftag=CAD590a51e)
- - [Top Amazon Prime Perks for Memorial Day Weekend Shopping     - CNET](https://www.cnet.com/deals/top-amazon-prime-perks-for-memorial-day-weekend-shopping/#ftag=CAD590a51e)
- - [Apple Music&#39;s &quot;100 Best Albums&quot; list, based on votes from about 250 employees, artists, and industry executives, is eclectic, unpredictable, and controversial &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/240525/p3#a240525p3)
- - [Best Camera Phone of 2024     - CNET](https://www.cnet.com/tech/mobile/best-camera-phone/#ftag=CAD590a51e)
- - [Best Memorial Day Sleep Deals: Save on Pillows, Comforters and Sheet Sets From Top-Rated Brands     - CNET](https://www.cnet.com/deals/best-memorial-day-sleep-deals-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Prepaid Phone of 2024: Value Picks for Cheaper Plans     - CNET](https://www.cnet.com/tech/mobile/best-prepaid-phones/#ftag=CAD590a51e)
+ - [Best Apple Memorial Day Sales: Snag the Best Deals on iPads, Apple Watches, Macs and More     - CNET](https://www.cnet.com/deals/best-apple-memorial-day-sales/#ftag=CAD590a51e)
+ - [Best Memorial Day TV Sales: Save Up to $4,000 on TVs From Samsung, Sony, TCL and More     - CNET](https://www.cnet.com/deals/best-memorial-day-tv-sales/#ftag=CAD590a51e)
+ - [How to Cast Your iPhone or Android Phone Videos to Your TV     - CNET](https://www.cnet.com/tech/mobile/how-to-cast-your-iphone-or-android-phone-videos-to-your-tv/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

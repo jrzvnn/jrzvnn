@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Someone tried to perform a Daigo parry, 20 years later...](http://9gag.com/gag/a1mZ612)
- - 😝 [`Germany is for Germans, foreigners out!` A curious slogan is gaining popularity in Germany.](http://9gag.com/gag/a4P9X2w)
- - 💣 [How to deal with bullies](http://9gag.com/gag/agm0Dzx)
- - 😝 [Resident evil 4?](http://9gag.com/gag/aYQp33v)
- - 👉 [Berlin. How are people so calm and let it happen?](http://9gag.com/gag/adB6zj9)<!-- MEMES:END -->
+ - 😝 [A Civil Argument](http://9gag.com/gag/ae93L9v)
+ - 😝 [After 10 years the DCU&#39;s Flash still has no answer for this classic](http://9gag.com/gag/a4P9DVA)
+ - 💣 [Today it randomly snowed in mexico &lpar;puebla&rpar;\u2026 in the summer\u2026 during a heatwave. It melted immediately and people\u2019s homes are getting flooded](http://9gag.com/gag/aW40zwK)
+ - 😝 [Evolution of Mickey Rourke](http://9gag.com/gag/avyZ3GZ)
+ - 👉 [How to deal with bullies](http://9gag.com/gag/agm0Dzx)<!-- MEMES:END -->
 
 ---
 

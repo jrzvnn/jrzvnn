@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Today it randomly snowed in mexico &lpar;puebla&rpar;\u2026 in the summer\u2026 during a heatwave. It melted immediately and people\u2019s homes are getting flooded](http://9gag.com/gag/aW40zwK)
- - 😝 [Life hacks](http://9gag.com/gag/aZZWGWz)
- - 💣 [Super Size me](http://9gag.com/gag/a1mZyw2)
- - 😝 [Resident evil 4?](http://9gag.com/gag/aYQp33v)
- - 👉 [Foreigners right now in Germany after seeing Germany&#39;s new hit song](http://9gag.com/gag/ae93Xrv)<!-- MEMES:END -->
+ - 😝 [Adorable Hitler gun](http://9gag.com/gag/avyZMwb)
+ - 😝 [Man can&#39;t watch football and has to wash dishes tonight.](http://9gag.com/gag/aMVbpz6)
+ - 💣 [Crimson chin looking ass](http://9gag.com/gag/adB6mZD)
+ - 😝 [Reality check](http://9gag.com/gag/ae93Xpp)
+ - 👉 [This is advanced simping](http://9gag.com/gag/avyZ3eW)<!-- MEMES:END -->
 
 ---
 

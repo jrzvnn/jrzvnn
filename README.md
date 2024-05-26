@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Evolution of Mickey Rourke](http://9gag.com/gag/avyZ3GZ)
- - 😝 [Best bike ride ever](http://9gag.com/gag/a1mZzgb)
- - 💣 [Resident evil 4?](http://9gag.com/gag/aYQp33v)
- - 😝 [How to deal with bullies](http://9gag.com/gag/agm0Dzx)
- - 👉 [Just a prank bro](http://9gag.com/gag/a9yMQPo)<!-- MEMES:END -->
+ - 😝 [Old but gold](http://9gag.com/gag/apRo40p)
+ - 😝 [American U16 women&#39;s basketball team standing next to El Salvador&#39;s U16 team](http://9gag.com/gag/aZZWGxz)
+ - 💣 [Lighting strike obliterated George Floyd&#39;s Mural in Ohio, striking his face](http://9gag.com/gag/ae93onj)
+ - 😝 [Life hacks](http://9gag.com/gag/aZZWGWz)
+ - 👉 [Its about time to clean out the closet.](http://9gag.com/gag/aPAy5MK)<!-- MEMES:END -->
 
 ---
 

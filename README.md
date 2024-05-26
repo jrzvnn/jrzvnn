@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tiger nearly swiping a guy off an elephant](http://9gag.com/gag/a34d965)
- - 😝 [Crimson chin looking ass](http://9gag.com/gag/adB6mZD)
- - 💣 [This is advanced simping](http://9gag.com/gag/avyZ3eW)
- - 😝 [Evolution of Mickey Rourke](http://9gag.com/gag/avyZ3GZ)
- - 👉 [Oh yes...the common BMW driver.](http://9gag.com/gag/aBy39LZ)<!-- MEMES:END -->
+ - 😝 [Lighting strike obliterated George Floyd&#39;s Mural in Ohio, striking his face](http://9gag.com/gag/ae93onj)
+ - 😝 [Mom, may I fly?](http://9gag.com/gag/aAyrBQp)
+ - 💣 [Life hacks](http://9gag.com/gag/aZZWGWz)
+ - 😝 [This is advanced simping](http://9gag.com/gag/avyZ3eW)
+ - 👉 [Evolution of Mickey Rourke](http://9gag.com/gag/avyZ3GZ)<!-- MEMES:END -->
 
 ---
 

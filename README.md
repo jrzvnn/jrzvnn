@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Resident evil 4?](http://9gag.com/gag/aYQp33v)
- - 😝 [Today it randomly snowed in mexico &lpar;puebla&rpar;\u2026 in the summer\u2026 during a heatwave. It melted immediately and people\u2019s homes are getting flooded](http://9gag.com/gag/aW40zwK)
- - 💣 [Welcome to China, a living utopia](http://9gag.com/gag/a87bR11)
- - 😝 [Pizza man values life over $20 in his wallet.](http://9gag.com/gag/aZZW64Q)
- - 👉 [American U16 women&#39;s basketball team standing next to El Salvador&#39;s U16 team](http://9gag.com/gag/aZZWGxz)<!-- MEMES:END -->
+ - 😝 [American U16 women&#39;s basketball team standing next to El Salvador&#39;s U16 team](http://9gag.com/gag/aZZWGxz)
+ - 😝 [Climbing day](http://9gag.com/gag/aKGgo1g)
+ - 💣 [Resident evil 4?](http://9gag.com/gag/aYQp33v)
+ - 😝 [Tesla in self driving mode](http://9gag.com/gag/aVvQn52)
+ - 👉 [Just a prank bro](http://9gag.com/gag/a9yMQPo)<!-- MEMES:END -->
 
 ---
 

@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [FedEx breaks \u2248$14,000 bottle of medicine for the second time.](http://9gag.com/gag/ajP6pQ0)
- - 😝 [Man can&#39;t watch football and has to wash dishes tonight.](http://9gag.com/gag/aMVbpz6)
- - 💣 [Hol up](http://9gag.com/gag/a0eP2Ez)
- - 😝 [Reality check](http://9gag.com/gag/ae93Xpp)
- - 👉 [Crimson chin looking ass](http://9gag.com/gag/adB6mZD)<!-- MEMES:END -->
+ - 😝 [After 25 years this stepdaughter gave her stepdad the best gift](http://9gag.com/gag/aRBgYqA)
+ - 😝 [Choose, Karen](http://9gag.com/gag/aMVboNx)
+ - 💣 [Crimson chin looking ass](http://9gag.com/gag/adB6mZD)
+ - 😝 [American U16 women&#39;s basketball team standing next to El Salvador&#39;s U16 team](http://9gag.com/gag/aZZWGxz)
+ - 👉 [Life hacks](http://9gag.com/gag/aZZWGWz)<!-- MEMES:END -->
 
 ---
 

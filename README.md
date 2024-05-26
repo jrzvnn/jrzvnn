@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Crimson chin looking ass](http://9gag.com/gag/adB6mZD)
- - 😝 [American U16 women&#39;s basketball team standing next to El Salvador&#39;s U16 team](http://9gag.com/gag/aZZWGxz)
- - 💣 [Reality check](http://9gag.com/gag/ae93Xpp)
- - 😝 [This is advanced simping](http://9gag.com/gag/avyZ3eW)
- - 👉 [Evolution of Mickey Rourke](http://9gag.com/gag/avyZ3GZ)<!-- MEMES:END -->
+ - 😝 [Evolution of Mickey Rourke](http://9gag.com/gag/avyZ3GZ)
+ - 😝 [If you need anymore proof that Congress is owned by billionaires\u2026](http://9gag.com/gag/arye6Qy)
+ - 💣 [Crimson chin looking ass](http://9gag.com/gag/adB6mZD)
+ - 😝 [Life hacks](http://9gag.com/gag/aZZWGWz)
+ - 👉 [Resident evil 4?](http://9gag.com/gag/aYQp33v)<!-- MEMES:END -->
 
 ---
 

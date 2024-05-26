@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [American U16 women&#39;s basketball team standing next to El Salvador&#39;s U16 team](http://9gag.com/gag/aZZWGxz)
- - 😝 [Climbing day](http://9gag.com/gag/aKGgo1g)
- - 💣 [Resident evil 4?](http://9gag.com/gag/aYQp33v)
- - 😝 [Tesla in self driving mode](http://9gag.com/gag/aVvQn52)
- - 👉 [Just a prank bro](http://9gag.com/gag/a9yMQPo)<!-- MEMES:END -->
+ - 😝 [Thought some of you might need this. How to season a wok](http://9gag.com/gag/aMVb3jP)
+ - 😝 [Just a prank bro](http://9gag.com/gag/a9yMQPo)
+ - 💣 [German Shepard&#39;s reaction to owner coming home after 3 years of being away \ud83d\ude0d](http://9gag.com/gag/adB6m2Z)
+ - 😝 [How to deal with bullies](http://9gag.com/gag/agm0Dzx)
+ - 👉 [No fat chicks please](http://9gag.com/gag/aVvQNAd)<!-- MEMES:END -->
 
 ---
 

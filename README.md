@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [After 25 years this stepdaughter gave her stepdad the best gift](http://9gag.com/gag/aRBgYqA)
- - 😝 [Choose, Karen](http://9gag.com/gag/aMVboNx)
- - 💣 [Crimson chin looking ass](http://9gag.com/gag/adB6mZD)
- - 😝 [American U16 women&#39;s basketball team standing next to El Salvador&#39;s U16 team](http://9gag.com/gag/aZZWGxz)
- - 👉 [Life hacks](http://9gag.com/gag/aZZWGWz)<!-- MEMES:END -->
+ - 😝 [Year of the D](http://9gag.com/gag/a0ePm5d)
+ - 😝 [After 10 years the DCU&#39;s Flash still has no answer for this classic](http://9gag.com/gag/a4P9DVA)
+ - 💣 [Quack](http://9gag.com/gag/an7XA2B)
+ - 😝 [You know you arrived in Germany when cars go faster than airplanes](http://9gag.com/gag/aoyZBYm)
+ - 👉 [The ball point pen.](http://9gag.com/gag/aryePbp)<!-- MEMES:END -->
 
 ---
 

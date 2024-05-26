@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Shop Cotopaxi&#39;s Memorial Day Sale to Snag Outdoor Gear at Discounted Prices     - CNET](https://www.cnet.com/deals/shop-cotopaxis-memorial-day-sale-to-snag-outdoor-gear-at-discounted-prices/#ftag=CAD590a51e)
  - [Air Purifiers Are Up to 30% Off During Blueair&#39;s Memorial Day Sale     - CNET](https://www.cnet.com/deals/air-purifiers-are-up-to-30-off-during-blueairs-memorial-day-sale/#ftag=CAD590a51e)
  - [I Bought This Awesome RC Car for 50% Off Thanks to Memorial Day Sales and You Should Too     - CNET](https://www.cnet.com/deals/i-bought-this-awesome-rc-car-for-50-off-thanks-to-memorial-day-sales-and-you-should-too/#ftag=CAD590a51e)
  - [Best Mattress for Combination Sleepers for 2024     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-combination-sleepers/#ftag=CAD590a51e)
- - [Memorial Day Sales 2024: Sunday&#39;s Best Memorial Day Deals     - CNET](https://www.cnet.com/deals/memorial-day-sales-2024-05-26/#ftag=CAD590a51e)
- - [Researchers find that GPT-4 outperforms human analysts in predicting future corporate earnings growth even when provided only with financial statements &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240526/p9#a240526p9)<!-- TECH:END -->
+ - [Memorial Day Sales 2024: Sunday&#39;s Best Memorial Day Deals     - CNET](https://www.cnet.com/deals/memorial-day-sales-2024-05-26/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lithium battery mad](http://9gag.com/gag/an7X6jL)
- - 😝 [`Germany is for Germans, foreigners out!` A curious slogan is gaining popularity in Germany.](http://9gag.com/gag/a4P9X2w)
- - 💣 [Reality check](http://9gag.com/gag/ae93Xpp)
- - 😝 [Life hacks](http://9gag.com/gag/aZZWGWz)
- - 👉 [Evolution of Mickey Rourke](http://9gag.com/gag/avyZ3GZ)<!-- MEMES:END -->
+ - 😝 [Best bike ride ever](http://9gag.com/gag/a1mZzgb)
+ - 😝 [Reality check](http://9gag.com/gag/ae93Xpp)
+ - 💣 [`Germany is for Germans, foreigners out!` A curious slogan is gaining popularity in Germany.](http://9gag.com/gag/a4P9X2w)
+ - 😝 [Welcome to China, a living utopia](http://9gag.com/gag/a87bR11)
+ - 👉 [Resident evil 4?](http://9gag.com/gag/aYQp33v)<!-- MEMES:END -->
 
 ---
 

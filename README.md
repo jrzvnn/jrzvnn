@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Buy Memorial Day Sale: Shop Steep Discounts on Airpods, Dyson Vacuums and More     - CNET](https://www.cnet.com/deals/best-buy-memorial-day-sale/#ftag=CAD590a51e)
+ - [App icon customization, new emoji creation coming to iOS 18](https://appleinsider.com/articles/24/05/26/app-icon-customization-new-emoji-creation-coming-to-ios-18?utm_medium=rss)
+ - [Spotify Tips for People Who Like to Listen to Whole Albums](https://www.wired.com/story/how-to-get-spotify-to-play-whole-albums/)
+ - [How Shein and Temu, which are spending billions on digital ads and offering steep discounts or free products, have become big threats to Amazon in the US &lpar;Louise Matsakis/Big Technology&rpar;](http://www.techmeme.com/240526/p6#a240526p6)
  - [Memorial Day Sales 2024: Shop the Top Deals From Your Favorite Retailers     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-26/#ftag=CAD590a51e)
- - [Apple&#39;s Latest iPad Is a Memorial Day Bargain at Just $329 This Weekend     - CNET](https://www.cnet.com/deals/apples-latest-ipad-is-a-memorial-day-bargain-at-just-329-this-weekend/#ftag=CAD590a51e)
- - [Save Up to 30% Off With Satechi&#39;s Memorial Day Accessory Sale, But Do It Soon     - CNET](https://www.cnet.com/deals/save-up-to-30-off-with-satechis-memorial-day-accessory-sale-but-do-it-soon/#ftag=CAD590a51e)
- - [Grab One of My Favorite Video Doorbells for Only $150 on Memorial Day     - CNET](https://www.cnet.com/deals/googles-nest-doorbell-is-the-most-consumer-friendly-model-weve-tested/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Your iPhone Already Has AI-Powered Features on It: Here&#39;s How to Use Them     - CNET](https://www.cnet.com/tech/mobile/apple-already-has-ai-powered-features-on-your-iphone-heres-how-to-use-them/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

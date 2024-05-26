@@ -163,10 +163,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A closer look at Apple&#39;s AI strategy: Project Greymatter, local and cloud LLM data processing, Siri, approach to the chatbot partnership with OpenAI, and more &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240526/p7#a240526p7)
- - [How to Pick the Best Roku Device &lpar;2024&rpar;: A Guide to Each Model](https://www.wired.com/gallery/how-to-pick-the-right-roku/)
- - [Seeing the real world inside a virtual one](https://www.theverge.com/24163918/flight-simulators-video-game-vr-monitors-vergecast)
- - [App icon customization, new emoji creation coming to iOS 18](https://appleinsider.com/articles/24/05/26/app-icon-customization-new-emoji-creation-coming-to-ios-18?utm_medium=rss)
- - [Best Buy Memorial Day Sale: Shop Steep Discounts on Airpods, Dyson Vacuums and More     - CNET](https://www.cnet.com/deals/best-buy-memorial-day-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Stock Up On Coffee and Save On Accessories With Seattle Coffee Gear&#39;s Memorial Day Sale     - CNET](https://www.cnet.com/deals/seattle-coffee-gears-memorial-day-sale/#ftag=CAD590a51e)
+ - [Best Amazon Memorial Day Deals: Deep Discounts on Amazon Products, Other Tech, Kitchenware and More     - CNET](https://www.cnet.com/deals/best-amazon-memorial-day-2024-05-26/#ftag=CAD590a51e)
+ - [Memorial Day Sales 2024: Shop the Top Deals From Your Favorite Retailers     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-26/#ftag=CAD590a51e)
+ - [How to Pick the Best Roku Device &lpar;2024&rpar;: A Guide to Each Model](https://www.wired.com/gallery/how-to-pick-the-right-roku/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

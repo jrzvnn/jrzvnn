@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Life hacks](http://9gag.com/gag/aZZWGWz)
- - 😝 [FedEx breaks \u2248$14,000 bottle of medicine for the second time.](http://9gag.com/gag/ajP6pQ0)
- - 💣 [Lithium battery mad](http://9gag.com/gag/an7X6jL)
+ - 😝 [Just a prank bro](http://9gag.com/gag/a9yMQPo)
  - 😝 [Crimson chin looking ass](http://9gag.com/gag/adB6mZD)
- - 👉 [Best bike ride ever](http://9gag.com/gag/a1mZzgb)<!-- MEMES:END -->
+ - 💣 [FedEx breaks \u2248$14,000 bottle of medicine for the second time.](http://9gag.com/gag/ajP6pQ0)
+ - 😝 [Foreigners right now in Germany after seeing Germany&#39;s new hit song](http://9gag.com/gag/ae93Xrv)
+ - 👉 [Life hacks](http://9gag.com/gag/aZZWGWz)<!-- MEMES:END -->
 
 ---
 

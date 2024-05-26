@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Sea Is Swallowing This Mexican Town](https://www.wired.com/story/the-sea-is-swallowing-this-mexican-town/)
+ - [There’s no easy 3D printer, but Bambu has won me over](https://www.theverge.com/23924708/creality-k1c-bambu-p1p-review)
  - [Four of the top seven best-reviewed games on Metacritic in 2024, not counting remakes, are indies, with Animal Well and Balatro in the top three &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/240526/p5#a240526p5)
  - [Memorial Day Sales 2024: Shop the Top Deals From Your Favorite Retailers     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-26/#ftag=CAD590a51e)
- - [French Open 2024: How to Watch, Stream All the Tennis Live Today From Paris     - CNET](https://www.cnet.com/tech/services-and-software/french-open-2024-how-to-watch-stream-all-the-tennis-live-today-from-paris/#ftag=CAD590a51e)
- - [Ventje turns VW’s ID Buzz into a very charming e-camper](https://www.theverge.com/24158082/id-buzz-ventje-camper-review-price-specs)
- - [LLMs aren&#39;t sentient; they lack the physiological states required for sensations like hunger and pain, and thus can&#39;t have subjective experiences of such states &lpar;TIME&rpar;](http://www.techmeme.com/240526/p4#a240526p4)<!-- TECH:END -->
+ - [French Open 2024: How to Watch, Stream All the Tennis Live Today From Paris     - CNET](https://www.cnet.com/tech/services-and-software/french-open-2024-how-to-watch-stream-all-the-tennis-live-today-from-paris/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

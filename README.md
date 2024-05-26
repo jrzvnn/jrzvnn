@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you are missing the best part of the show...](http://9gag.com/gag/aQz46vd)
- - 😝 [Reclaim what&#39;s yours, no emotional blackmail](http://9gag.com/gag/aPA46yg)
- - 💣 [A person can bear any pain or difficulties if they understand why they are doing it](http://9gag.com/gag/a6ZyrX8)
- - 😝 [Good fences make good neighbors.](http://9gag.com/gag/ayN0ER8)
- - 👉 [The bathroom was full with tampons that had feces on them, empty lube pacs etc. The office manager is a based goth girl and wrote that `they / them can clean it themselfs`](http://9gag.com/gag/amoLD1X)<!-- MEMES:END -->
+ - 😝 [GoldRushHasBegun](http://9gag.com/gag/a1mZ41b)
+ - 😝 [What can I do? I&#39;m a dog.](http://9gag.com/gag/aXPE8Wb)
+ - 💣 [Is it okie dokie?](http://9gag.com/gag/aByQ7oZ)
+ - 😝 [Crimson chin looking ass](http://9gag.com/gag/adB6mZD)
+ - 👉 [Reclaim what&#39;s yours, no emotional blackmail](http://9gag.com/gag/aPA46yg)<!-- MEMES:END -->
 
 ---
 

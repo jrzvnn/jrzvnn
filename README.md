@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [On Sale for Memorial Day, This Rechargeable Mini Lantern Is Great for Camping or Emergencies     - CNET](https://www.cnet.com/deals/on-sale-for-memorial-day-this-rechargeable-mini-lantern-is-great-for-camping-or-emergencies/#ftag=CAD590a51e)
- - [Memorial Day Weekend Appliance Deals: Huge Savings on Refrigerators, Dishwashers, Microwaves and More     - CNET](https://www.cnet.com/deals/best-memorial-day-appliance-sales-2024-05-26/#ftag=CAD590a51e)
- - [Home Depot Memorial Day Sale: Big Savings on Outdoor Furniture, Appliances and More     - CNET](https://www.cnet.com/deals/home-depot-memorial-day-sales-2024-05-26/#ftag=CAD590a51e)
- - [Best Memorial Day Deals Under $50: Price Cuts Across Amazon, Walmart and Beyond     - CNET](https://www.cnet.com/deals/best-memorial-day-deals-under-50-2024-05-26/#ftag=CAD590a51e)
- - [Best Dating Apps for 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-online-dating-apps/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Memorial Day Sales 2024: Shop the Top Deals From Your Favorite Retailers     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-26/#ftag=CAD590a51e)
+ - [Best Memorial Day Home Security Sales: Upgrades on Doorbell Cams and Locks for Less     - CNET](https://www.cnet.com/deals/best-memorial-day-home-security-sales-2024-05-26/#ftag=CAD590a51e)
+ - [Snag a Google Pixel 7 Pro for Only $400 at Woot This Memorial Day Weekend     - CNET](https://www.cnet.com/deals/google-pixel-7-pro-down-to-400-woot-memorial-day-deal/#ftag=CAD590a51e)
+ - [Best Office Chairs of 2024     - CNET](https://www.cnet.com/news/best-office-chairs/#ftag=CAD590a51e)
+ - [Best Memorial Day Smart Home Deals: Save Big on Smart Hubs, Vacuums, Lights and More     - CNET](https://www.cnet.com/deals/best-memorial-day-smart-home-sales-2024-05-26/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

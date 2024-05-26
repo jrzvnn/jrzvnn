@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ventje turns VW’s ID Buzz into a very charming camper](https://www.theverge.com/24158082/id-buzz-ventje-camper-review-price-specs)
  - [Memorial Day Sales 2024: Shop the Top Deals From Your Favorite Retailers     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-25/#ftag=CAD590a51e)
+ - [French Open 2024: How to Watch, Stream All the Tennis Live Today From Paris     - CNET](https://www.cnet.com/tech/services-and-software/french-open-2024-how-to-watch-stream-all-the-tennis-live-today-from-paris/#ftag=CAD590a51e)
+ - [Ventje turns VW’s ID Buzz into a very charming camper](https://www.theverge.com/24158082/id-buzz-ventje-camper-review-price-specs)
  - [LLMs aren&#39;t sentient; they lack the physiological states required for sensations like hunger and pain, and thus can&#39;t have subjective experiences of such states &lpar;TIME&rpar;](http://www.techmeme.com/240526/p4#a240526p4)
- - [IoT Analytics: Nvidia, whose Q1 data center revenue grew 427% YoY to $22.6B, has 90%+ market share for data center GPUs, as Intel and AMD scrap for second place &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240526/p3#a240526p3)
- - [Japanese chipmaker Rapidus plans to build and package chips in the same $32B fab in Hokkaido, setting the company apart from TSMC, Intel, and Samsung &lpar;Anton Shilov/AnandTech&rpar;](http://www.techmeme.com/240526/p2#a240526p2)<!-- TECH:END -->
+ - [IoT Analytics: Nvidia, whose Q1 data center revenue grew 427% YoY to $22.6B, has 90%+ market share for data center GPUs, as Intel and AMD scrap for second place &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240526/p3#a240526p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

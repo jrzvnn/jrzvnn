@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Life hacks](http://9gag.com/gag/aZZWGWz)
- - 😝 [Crimson chin looking ass](http://9gag.com/gag/adB6mZD)
- - 💣 [Reality check](http://9gag.com/gag/ae93Xpp)
- - 😝 [`Germany is for Germans, foreigners out!` A curious slogan is gaining popularity in Germany.](http://9gag.com/gag/a4P9X2w)
- - 👉 [Welcome to Oakland, California](http://9gag.com/gag/aqyZ3d7)<!-- MEMES:END -->
+ - 😝 [Year of the D](http://9gag.com/gag/a0ePm5d)
+ - 😝 [I finally feel like I am making a difference](http://9gag.com/gag/aMVb35P)
+ - 💣 [How to deal with bullies](http://9gag.com/gag/agm0Dzx)
+ - 😝 [Father disciplines his daughter](http://9gag.com/gag/aD2wepG)
+ - 👉 [No fat chicks please](http://9gag.com/gag/aVvQNAd)<!-- MEMES:END -->
 
 ---
 

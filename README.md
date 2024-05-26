@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the UK&#39;s $5.5B gaming industry, as PE firm EQT makes a ~$2.8B purchase offer for Keyword Studios, and other developers shore up their balance sheets &lpar;Financial Times&rpar;](http://www.techmeme.com/240526/p8#a240526p8)
- - [My Favorite Smart Lamp Is 40% Off on Amazon for Memorial Day     - CNET](https://www.cnet.com/deals/my-favorite-smart-lamp-is-40-off-on-amazon-for-memorial-day/#ftag=CAD590a51e)
- - [Grab the Anker Soundcore Bluetooth Speaker for $20 at Amazon This Memorial Day Weekend     - CNET](https://www.cnet.com/deals/grab-the-anker-soundcore-bluetooth-speaker-for-20-at-amazon-this-memorial-day-weekend/#ftag=CAD590a51e)
- - [Best Mattress in a Box for 2024     - CNET](https://www.cnet.com/health/sleep/best-mattress-in-a-box/#ftag=CAD590a51e)
- - [Best Smart Scale for 2024     - CNET](https://www.cnet.com/health/fitness/best-smart-scale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [On Sale for Memorial Day, This Rechargeable Mini Lantern Is Great for Camping or Emergencies     - CNET](https://www.cnet.com/deals/on-sale-for-memorial-day-this-rechargeable-mini-lantern-is-great-for-camping-or-emergencies/#ftag=CAD590a51e)
+ - [Memorial Day Weekend Appliance Deals: Huge Savings on Refrigerators, Dishwashers, Microwaves and More     - CNET](https://www.cnet.com/deals/best-memorial-day-appliance-sales-2024-05-26/#ftag=CAD590a51e)
+ - [Home Depot Memorial Day Sale: Big Savings on Outdoor Furniture, Appliances and More     - CNET](https://www.cnet.com/deals/home-depot-memorial-day-sales-2024-05-26/#ftag=CAD590a51e)
+ - [Best Memorial Day Deals Under $50: Price Cuts Across Amazon, Walmart and Beyond     - CNET](https://www.cnet.com/deals/best-memorial-day-deals-under-50-2024-05-26/#ftag=CAD590a51e)
+ - [Best Dating Apps for 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-online-dating-apps/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

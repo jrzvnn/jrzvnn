@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Art studio dumps paint down storm drain](http://9gag.com/gag/ae938Aj)
- - 😝 [Tesla in self driving mode](http://9gag.com/gag/aVvQn52)
+ - 😝 [Evolution of Mickey Rourke](http://9gag.com/gag/avyZ3GZ)
+ - 😝 [Best bike ride ever](http://9gag.com/gag/a1mZzgb)
  - 💣 [Resident evil 4?](http://9gag.com/gag/aYQp33v)
  - 😝 [How to deal with bullies](http://9gag.com/gag/agm0Dzx)
- - 👉 [Evolution of Mickey Rourke](http://9gag.com/gag/avyZ3GZ)<!-- MEMES:END -->
+ - 👉 [Just a prank bro](http://9gag.com/gag/a9yMQPo)<!-- MEMES:END -->
 
 ---
 

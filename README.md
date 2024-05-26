@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Does String Theory Actually Describe the World? AI May Be Able to Tell](https://www.wired.com/story/ai-starts-to-sift-through-string-theorys-near-endless-possibilities/)
+ - [Shockbuster Season: Why the Death of the Summer Movie Is a Good Thing](https://www.wired.com/story/shockbuster-season-why-the-death-of-the-summer-movie-is-a-good-thing/)
  - [US Offshore Wind Farms Are Being Strangled With Red Tape](https://www.wired.com/story/why-us-offshore-wind-power-is-struggling/)
  - [The Sea Is Swallowing This Mexican Town](https://www.wired.com/story/the-sea-is-swallowing-this-mexican-town/)
- - [There’s no easy 3D printer, but Bambu has won me over](https://www.theverge.com/23924708/creality-k1c-bambu-p1p-review)
- - [Memorial Day Sales 2024: Shop the Top Deals From Your Favorite Retailers     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-26/#ftag=CAD590a51e)
- - [Best AT&amp;T Phones in 2024     - CNET](https://www.cnet.com/tech/mobile/best-at-t-phones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [There’s no easy 3D printer, but Bambu has won me over](https://www.theverge.com/23924708/creality-k1c-bambu-p1p-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

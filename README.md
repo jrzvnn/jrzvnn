@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I finally feel like I am making a difference](http://9gag.com/gag/aMVb35P)
- - 😝 [The ball point pen.](http://9gag.com/gag/aryePbp)
- - 💣 [Year of the D](http://9gag.com/gag/a0ePm5d)
- - 😝 [Father disciplines his daughter](http://9gag.com/gag/aD2wepG)
- - 👉 [No fat chicks please](http://9gag.com/gag/aVvQNAd)<!-- MEMES:END -->
+ - 😝 [American U16 women&#39;s basketball team standing next to El Salvador&#39;s U16 team](http://9gag.com/gag/aZZWGxz)
+ - 😝 [Welcome to Oakland, California](http://9gag.com/gag/aqyZ3d7)
+ - 💣 [Just a prank bro](http://9gag.com/gag/a9yMQPo)
+ - 😝 [`Germany is for Germans, foreigners out!` A curious slogan is gaining popularity in Germany.](http://9gag.com/gag/a4P9X2w)
+ - 👉 [At least the Internet made me believe so](http://9gag.com/gag/apRoZ4B)<!-- MEMES:END -->
 
 ---
 

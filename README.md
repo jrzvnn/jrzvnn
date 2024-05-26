@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nature: `Mercy..? Never heard of her..`](http://9gag.com/gag/ae93vnB)
- - 😝 [Lighting strike obliterated George Floyd&#39;s Mural in Ohio, striking his face](http://9gag.com/gag/ae93onj)
- - 💣 [American U16 women&#39;s basketball team standing next to El Salvador&#39;s U16 team](http://9gag.com/gag/aZZWGxz)
- - 😝 [Foreigners right now in Germany after seeing Germany&#39;s new hit song](http://9gag.com/gag/ae93Xrv)
- - 👉 [Resident evil 4?](http://9gag.com/gag/aYQp33v)<!-- MEMES:END -->
+ - 😝 [UK to force teens to spend a year in the military](http://9gag.com/gag/avyZbqb)
+ - 😝 [Adorable Hitler gun](http://9gag.com/gag/avyZMwb)
+ - 💣 [Left and right flap?](http://9gag.com/gag/aRBgnO2)
+ - 😝 [Just Glue Yourself](http://9gag.com/gag/aGyV3yw)
+ - 👉 [Foreigners right now in Germany after seeing Germany&#39;s new hit song](http://9gag.com/gag/ae93Xrv)<!-- MEMES:END -->
 
 ---
 

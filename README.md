@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Memorial Day Deals Under $25: Weekend Price Cuts Now Live Across Tech, Home and Everyday Essentials     - CNET](https://www.cnet.com/deals/best-memorial-day-deals-under-25/#ftag=CAD590a51e)
+ - [Best Memorial Day Sleep Deals: Save on Pillows, Comforters and Sheet Sets From Top-Rated Brands     - CNET](https://www.cnet.com/deals/best-memorial-day-sleep-deals-2024-05-25/#ftag=CAD590a51e)
  - [Nectar Mattresses Start at $349 This Memorial Day     - CNET](https://www.cnet.com/deals/nectar-memorial-day-deal-2024/#ftag=CAD590a51e)
  - [YouTube Music will let you search by humming into your Android phone](https://www.theverge.com/2024/5/25/24164879/youtube-music-hum-to-search-available-android)
- - [I Love This Portable Car Jump Starter Battery Pack and It&#39;s Over 40% Off for Memorial Day     - CNET](https://www.cnet.com/deals/i-love-this-portable-car-jump-starter-battery-pack-and-its-over-40-off-for-memorial-day/#ftag=CAD590a51e)
- - [Memorial Day Sales 2024: Shop the Top Deals From Home to Tech to Essentials and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-25/#ftag=CAD590a51e)
- - [A significant amount of illicit crypto activity still remains in China, highlighting the continuing use of cryptocurrencies despite Beijing&#39;s digital asset ban &lpar;Bloomberg&rpar;](http://www.techmeme.com/240525/p10#a240525p10)<!-- TECH:END -->
+ - [I Love This Portable Car Jump Starter Battery Pack and It&#39;s Over 40% Off for Memorial Day     - CNET](https://www.cnet.com/deals/i-love-this-portable-car-jump-starter-battery-pack-and-its-over-40-off-for-memorial-day/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

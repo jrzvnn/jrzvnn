@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best bike ride ever](http://9gag.com/gag/a1mZzgb)
- - 😝 [Not all the taxis are the same, especially in the UK](http://9gag.com/gag/agmvrEK)
- - 💣 [This is advanced simping](http://9gag.com/gag/avyZ3eW)
- - 😝 [Crimson chin looking ass](http://9gag.com/gag/adB6mZD)
- - 👉 [Germans having some fun](http://9gag.com/gag/aXPpZ0V)<!-- MEMES:END -->
+ - 😝 [Reality check](http://9gag.com/gag/ae93Xpp)
+ - 😝 [This is advanced simping](http://9gag.com/gag/avyZ3eW)
+ - 💣 [Mom, may I fly?](http://9gag.com/gag/aAyrBQp)
+ - 😝 [American U16 women&#39;s basketball team standing next to El Salvador&#39;s U16 team](http://9gag.com/gag/aZZWGxz)
+ - 👉 [Best bike ride ever](http://9gag.com/gag/a1mZzgb)<!-- MEMES:END -->
 
 ---
 

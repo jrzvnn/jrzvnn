@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Does String Theory Actually Describe the World? AI May Be Able to Tell](https://www.wired.com/story/ai-starts-to-sift-through-string-theorys-near-endless-possibilities/)
- - [Shockbuster Season: Why the Death of the Summer Movie Is a Good Thing](https://www.wired.com/story/shockbuster-season-why-the-death-of-the-summer-movie-is-a-good-thing/)
- - [US Offshore Wind Farms Are Being Strangled With Red Tape](https://www.wired.com/story/why-us-offshore-wind-power-is-struggling/)
+ - [A big list of the best tiny games on the internet](https://www.theverge.com/24163971/best-daily-games-internet-wordle-coffee-golf-connections)
+ - [T-Mobile Raises Rates on Select Legacy Plans, Here&#39;s the Deal     - CNET](https://www.cnet.com/tech/mobile/t-mobile-raises-rates-on-select-legacy-plans-heres-the-deal/#ftag=CAD590a51e)
  - [Memorial Day Sales 2024: Shop the Top Deals From Your Favorite Retailers     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-26/#ftag=CAD590a51e)
- - [Memorial Day Weekend 2024 Sales: New Offers and Huge Savings     - CNET](https://www.cnet.com/deals/memorial-day-sales-2024-05-26/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Memorial Day Deals Under $25: Get a Lot for Less This Weekend     - CNET](https://www.cnet.com/deals/best-memorial-day-deals-under-25-2024-05-26/#ftag=CAD590a51e)
+ - [Grab Essential Phone Accessories at 40% Off With Zagg and Mophie&#39;s Memorial Day Sale     - CNET](https://www.cnet.com/deals/grab-40-off-zagg-mophie-phone-accessories-memorial-day-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

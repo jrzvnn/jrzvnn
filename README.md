@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Japanese chipmaker Rapidus plans to build and package chips in the same $32B fab in Hokkaido, setting the company apart from TSMC, Intel, and Samsung &lpar;Anton Shilov/AnandTech&rpar;](http://www.techmeme.com/240526/p2#a240526p2)
  - [SoftBank&#39;s outlay for AI investments has more than doubled to $8.9B in the 12 months since Masayoshi Son said the firm was ready to go on the &quot;counteroffensive&quot; &lpar;David Keohane/Financial Times&rpar;](http://www.techmeme.com/240526/p1#a240526p1)
  - [Best Treadmills of 2024     - CNET](https://www.cnet.com/health/fitness/best-treadmill/#ftag=CAD590a51e)
  - [Best Furniture Deals at Memorial Day Sales: Save on Beds, Chairs, Desks and More     - CNET](https://www.cnet.com/deals/memorial-day-furniture-sales-05-25/#ftag=CAD590a51e)
- - [Memorial Day Sales 2024: Shop the Top Deals From Your Favorite Retailers     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-25/#ftag=CAD590a51e)
- - [Best Memorial Day Laptop Sales: Save Hundreds at Best Buy, Walmart, Target and More     - CNET](https://www.cnet.com/deals/best-memorial-day-laptop-sales-05-25/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Memorial Day Sales 2024: Shop the Top Deals From Your Favorite Retailers     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-25/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

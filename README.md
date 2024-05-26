@@ -171,10 +171,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Its about time to clean out the closet.](http://9gag.com/gag/aPAy5MK)
+ - 😝 [Welcome to China, a living utopia](http://9gag.com/gag/a87bR11)
  - 😝 [American U16 women&#39;s basketball team standing next to El Salvador&#39;s U16 team](http://9gag.com/gag/aZZWGxz)
- - 💣 [Evolution of Mickey Rourke](http://9gag.com/gag/avyZ3GZ)
- - 😝 [`Germany is for Germans, foreigners out!` A curious slogan is gaining popularity in Germany.](http://9gag.com/gag/a4P9X2w)
+ - 💣 [Today it randomly snowed in mexico &lpar;puebla&rpar;\u2026 in the summer\u2026 during a heatwave. It melted immediately and people\u2019s homes are getting flooded](http://9gag.com/gag/aW40zwK)
+ - 😝 [They adopted a baby and this was their reaction when they met him](http://9gag.com/gag/a4P9XeA)
  - 👉 [Resident evil 4?](http://9gag.com/gag/aYQp33v)<!-- MEMES:END -->
 
 ---

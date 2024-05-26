@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s WWDC may include AI-generated emoji and an OpenAI partnership](https://www.theverge.com/2024/5/26/24165040/apple-wwdc-2024-ai-openai-ios-18-macos-15-iphone-macbook)
- - [A closer look at Apple&#39;s AI strategy: Project Greymatter, local and cloud LLM data processing, Siri, approach to the chatbot partnership with OpenAI, and more &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240526/p7#a240526p7)
- - [Stock Up On Coffee and Save On Accessories With Seattle Coffee Gear&#39;s Memorial Day Sale     - CNET](https://www.cnet.com/deals/seattle-coffee-gears-memorial-day-sale/#ftag=CAD590a51e)
- - [Best Amazon Memorial Day Deals: Deep Discounts on Amazon Products, Other Tech, Kitchenware and More     - CNET](https://www.cnet.com/deals/best-amazon-memorial-day-2024-05-26/#ftag=CAD590a51e)
- - [Memorial Day Sales 2024: Shop the Top Deals From Your Favorite Retailers     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-26/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save Big on the Best Walmart Memorial Day Sales on Home, Tech, TVs and More     - CNET](https://www.cnet.com/deals/best-walmart-memorial-day-sales-2024-05-26/#ftag=CAD590a51e)
+ - [Big Memorial Day Deal: Grab a Free iPhone 15 Plus With a Freebie iPad or Apple Watch SE     - CNET](https://www.cnet.com/deals/big-memorial-day-deal-grab-a-free-iphone-15-plus-with-a-freebie-ipad-or-apple-watch-se/#ftag=CAD590a51e)
+ - [Memorial Day Sales 2024: Shop the Top Deals From Your Favorite Retailers     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-26/#ftag=CAD590a51e)
+ - [Amazon Just Cut Some of Our Favorite Wireless Earbuds for Running by $40     - CNET](https://www.cnet.com/deals/amazon-just-cut-some-of-our-favorite-wireless-earbuds-for-running-by-40/#ftag=CAD590a51e)
+ - [Best Memorial Day Mattress Sales: Score Super Savings on Mattresses, Sleep Bundles and More     - CNET](https://www.cnet.com/deals/best-memorial-day-mattress-deals-2024-05-26/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

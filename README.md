@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Pick the Best Roku Device &lpar;2024&rpar;: A Guide to Each Model](https://www.wired.com/gallery/how-to-pick-the-right-roku/)
+ - [Seeing the real world inside a virtual one](https://www.theverge.com/24163918/flight-simulators-video-game-vr-monitors-vergecast)
  - [App icon customization, new emoji creation coming to iOS 18](https://appleinsider.com/articles/24/05/26/app-icon-customization-new-emoji-creation-coming-to-ios-18?utm_medium=rss)
- - [Spotify Tips for People Who Like to Listen to Whole Albums](https://www.wired.com/story/how-to-get-spotify-to-play-whole-albums/)
- - [How Shein and Temu, which are spending billions on digital ads and offering steep discounts or free products, have become big threats to Amazon in the US &lpar;Louise Matsakis/Big Technology&rpar;](http://www.techmeme.com/240526/p6#a240526p6)
- - [Memorial Day Sales 2024: Shop the Top Deals From Your Favorite Retailers     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-26/#ftag=CAD590a51e)
- - [Your iPhone Already Has AI-Powered Features on It: Here&#39;s How to Use Them     - CNET](https://www.cnet.com/tech/mobile/apple-already-has-ai-powered-features-on-your-iphone-heres-how-to-use-them/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Buy Memorial Day Sale: Shop Steep Discounts on Airpods, Dyson Vacuums and More     - CNET](https://www.cnet.com/deals/best-buy-memorial-day-sale/#ftag=CAD590a51e)
+ - [Memorial Day Sales 2024: Shop the Top Deals From Your Favorite Retailers     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-26/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

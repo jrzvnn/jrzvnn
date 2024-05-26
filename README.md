@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save Big on the Best Walmart Memorial Day Sales on Home, Tech, TVs and More     - CNET](https://www.cnet.com/deals/best-walmart-memorial-day-sales-2024-05-26/#ftag=CAD590a51e)
- - [Big Memorial Day Deal: Grab a Free iPhone 15 Plus With a Freebie iPad or Apple Watch SE     - CNET](https://www.cnet.com/deals/big-memorial-day-deal-grab-a-free-iphone-15-plus-with-a-freebie-ipad-or-apple-watch-se/#ftag=CAD590a51e)
- - [Memorial Day Sales 2024: Shop the Top Deals From Your Favorite Retailers     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-26/#ftag=CAD590a51e)
- - [Amazon Just Cut Some of Our Favorite Wireless Earbuds for Running by $40     - CNET](https://www.cnet.com/deals/amazon-just-cut-some-of-our-favorite-wireless-earbuds-for-running-by-40/#ftag=CAD590a51e)
- - [Best Memorial Day Mattress Sales: Score Super Savings on Mattresses, Sleep Bundles and More     - CNET](https://www.cnet.com/deals/best-memorial-day-mattress-deals-2024-05-26/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [My Favorite Smart Lamp Is 40% Off on Amazon for Memorial Day     - CNET](https://www.cnet.com/deals/my-favorite-smart-lamp-is-40-off-on-amazon-for-memorial-day/#ftag=CAD590a51e)
+ - [Grab the Anker Soundcore Bluetooth Speaker for $20 at Amazon This Memorial Day Weekend     - CNET](https://www.cnet.com/deals/grab-the-anker-soundcore-bluetooth-speaker-for-20-at-amazon-this-memorial-day-weekend/#ftag=CAD590a51e)
+ - [Best Mattress in a Box for 2024     - CNET](https://www.cnet.com/health/sleep/best-mattress-in-a-box/#ftag=CAD590a51e)
+ - [Best Smart Scale for 2024     - CNET](https://www.cnet.com/health/fitness/best-smart-scale/#ftag=CAD590a51e)
+ - [Best Fiber Internet Providers in Your Area     - CNET](https://www.cnet.com/home/internet/fiber-internet-providers-in-your-area/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

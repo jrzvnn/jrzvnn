@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lighting strike obliterated George Floyd&#39;s Mural in Ohio, striking his face](http://9gag.com/gag/ae93onj)
- - 😝 [Mom, may I fly?](http://9gag.com/gag/aAyrBQp)
- - 💣 [Life hacks](http://9gag.com/gag/aZZWGWz)
- - 😝 [This is advanced simping](http://9gag.com/gag/avyZ3eW)
- - 👉 [Evolution of Mickey Rourke](http://9gag.com/gag/avyZ3GZ)<!-- MEMES:END -->
+ - 😝 [Best bike ride ever](http://9gag.com/gag/a1mZzgb)
+ - 😝 [Not all the taxis are the same, especially in the UK](http://9gag.com/gag/agmvrEK)
+ - 💣 [This is advanced simping](http://9gag.com/gag/avyZ3eW)
+ - 😝 [Crimson chin looking ass](http://9gag.com/gag/adB6mZD)
+ - 👉 [Germans having some fun](http://9gag.com/gag/aXPpZ0V)<!-- MEMES:END -->
 
 ---
 

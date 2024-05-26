@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the UK&#39;s $5.5B gaming industry, as PE firm EQT makes a ~$2.8B purchase offer for Keyword Studios, and other developers shore up their balance sheets &lpar;Financial Times&rpar;](http://www.techmeme.com/240526/p8#a240526p8)
  - [My Favorite Smart Lamp Is 40% Off on Amazon for Memorial Day     - CNET](https://www.cnet.com/deals/my-favorite-smart-lamp-is-40-off-on-amazon-for-memorial-day/#ftag=CAD590a51e)
  - [Grab the Anker Soundcore Bluetooth Speaker for $20 at Amazon This Memorial Day Weekend     - CNET](https://www.cnet.com/deals/grab-the-anker-soundcore-bluetooth-speaker-for-20-at-amazon-this-memorial-day-weekend/#ftag=CAD590a51e)
  - [Best Mattress in a Box for 2024     - CNET](https://www.cnet.com/health/sleep/best-mattress-in-a-box/#ftag=CAD590a51e)
- - [Best Smart Scale for 2024     - CNET](https://www.cnet.com/health/fitness/best-smart-scale/#ftag=CAD590a51e)
- - [Best Fiber Internet Providers in Your Area     - CNET](https://www.cnet.com/home/internet/fiber-internet-providers-in-your-area/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Smart Scale for 2024     - CNET](https://www.cnet.com/health/fitness/best-smart-scale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

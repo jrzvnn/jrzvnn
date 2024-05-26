@@ -163,10 +163,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Memorial Day Sales 2024: Shop the Top Deals From Your Favorite Retailers     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-26/#ftag=CAD590a51e)
- - [Best Memorial Day Home Security Sales: Upgrades on Doorbell Cams and Locks for Less     - CNET](https://www.cnet.com/deals/best-memorial-day-home-security-sales-2024-05-26/#ftag=CAD590a51e)
- - [Snag a Google Pixel 7 Pro for Only $400 at Woot This Memorial Day Weekend     - CNET](https://www.cnet.com/deals/google-pixel-7-pro-down-to-400-woot-memorial-day-deal/#ftag=CAD590a51e)
- - [Best Office Chairs of 2024     - CNET](https://www.cnet.com/news/best-office-chairs/#ftag=CAD590a51e)
- - [Best Memorial Day Smart Home Deals: Save Big on Smart Hubs, Vacuums, Lights and More     - CNET](https://www.cnet.com/deals/best-memorial-day-smart-home-sales-2024-05-26/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Buy Memorial Day Sale: Shop Steep Discounts on Airpods, Dyson Vacuums and More     - CNET](https://www.cnet.com/deals/best-buy-memorial-day-sale-24-05-26/#ftag=CAD590a51e)
+ - [Best Target Memorial Day Sales: Can&#39;t-Miss Savings on Headphones, TVs, and More     - CNET](https://www.cnet.com/deals/best-target-memorial-day-sales-2024-05-26/#ftag=CAD590a51e)
+ - [Save Up to 40% on Govee Smart Lights This Memorial Day Weekend     - CNET](https://www.cnet.com/deals/save-up-to-40-on-govee-smart-lights-this-memorial-day-weekend/#ftag=CAD590a51e)
+ - [Best Memorial Day Home Security Sales: Upgrades on Doorbell Cams and Locks for Less     - CNET](https://www.cnet.com/deals/best-memorial-day-home-security-sales-2024-05-26/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

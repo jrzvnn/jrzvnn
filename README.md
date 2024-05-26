@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Evolution of Mickey Rourke](http://9gag.com/gag/avyZ3GZ)
- - 😝 [If you need anymore proof that Congress is owned by billionaires\u2026](http://9gag.com/gag/arye6Qy)
- - 💣 [Crimson chin looking ass](http://9gag.com/gag/adB6mZD)
+ - 😝 [Today it randomly snowed in mexico &lpar;puebla&rpar;\u2026 in the summer\u2026 during a heatwave. It melted immediately and people\u2019s homes are getting flooded](http://9gag.com/gag/aW40zwK)
  - 😝 [Life hacks](http://9gag.com/gag/aZZWGWz)
- - 👉 [Resident evil 4?](http://9gag.com/gag/aYQp33v)<!-- MEMES:END -->
+ - 💣 [Super Size me](http://9gag.com/gag/a1mZyw2)
+ - 😝 [Resident evil 4?](http://9gag.com/gag/aYQp33v)
+ - 👉 [Foreigners right now in Germany after seeing Germany&#39;s new hit song](http://9gag.com/gag/ae93Xrv)<!-- MEMES:END -->
 
 ---
 

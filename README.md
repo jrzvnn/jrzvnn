@@ -172,10 +172,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [American U16 women&#39;s basketball team standing next to El Salvador&#39;s U16 team](http://9gag.com/gag/aZZWGxz)
- - 😝 [Lithium battery mad](http://9gag.com/gag/an7X6jL)
- - 💣 [Old but gold](http://9gag.com/gag/apRo40p)
- - 😝 [Life hacks](http://9gag.com/gag/aZZWGWz)
- - 👉 [Lighting strike obliterated George Floyd&#39;s Mural in Ohio, striking his face](http://9gag.com/gag/ae93onj)<!-- MEMES:END -->
+ - 😝 [No fat chicks please](http://9gag.com/gag/aVvQNAd)
+ - 💣 [Today it randomly snowed in mexico &lpar;puebla&rpar;\u2026 in the summer\u2026 during a heatwave. It melted immediately and people\u2019s homes are getting flooded](http://9gag.com/gag/aW40zwK)
+ - 😝 [Welcome to China, a living utopia](http://9gag.com/gag/a87bR11)
+ - 👉 [Life hacks](http://9gag.com/gag/aZZWGWz)<!-- MEMES:END -->
 
 ---
 

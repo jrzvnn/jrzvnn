@@ -171,10 +171,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Man can&#39;t watch football and has to wash dishes tonight.](http://9gag.com/gag/aMVbpz6)
- - 😝 [Llamas](http://9gag.com/gag/abAqNB8)
- - 💣 [Crimson chin looking ass](http://9gag.com/gag/adB6mZD)
- - 😝 [Today it randomly snowed in mexico &lpar;puebla&rpar;\u2026 in the summer\u2026 during a heatwave. It melted immediately and people\u2019s homes are getting flooded](http://9gag.com/gag/aW40zwK)
+ - 😝 [Crimson chin looking ass](http://9gag.com/gag/adB6mZD)
+ - 😝 [American U16 women&#39;s basketball team standing next to El Salvador&#39;s U16 team](http://9gag.com/gag/aZZWGxz)
+ - 💣 [Reality check](http://9gag.com/gag/ae93Xpp)
+ - 😝 [This is advanced simping](http://9gag.com/gag/avyZ3eW)
  - 👉 [Evolution of Mickey Rourke](http://9gag.com/gag/avyZ3GZ)<!-- MEMES:END -->
 
 ---

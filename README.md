@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thought some of you might need this. How to season a wok](http://9gag.com/gag/aMVb3jP)
+ - 😝 [Tesla in self driving mode](http://9gag.com/gag/aVvQn52)
+ - 😝 [Today it randomly snowed in mexico &lpar;puebla&rpar;\u2026 in the summer\u2026 during a heatwave. It melted immediately and people\u2019s homes are getting flooded](http://9gag.com/gag/aW40zwK)
+ - 💣 [Life hacks](http://9gag.com/gag/aZZWGWz)
  - 😝 [Just a prank bro](http://9gag.com/gag/a9yMQPo)
- - 💣 [German Shepard&#39;s reaction to owner coming home after 3 years of being away \ud83d\ude0d](http://9gag.com/gag/adB6m2Z)
- - 😝 [How to deal with bullies](http://9gag.com/gag/agm0Dzx)
- - 👉 [No fat chicks please](http://9gag.com/gag/aVvQNAd)<!-- MEMES:END -->
+ - 👉 [Welcome to China, a living utopia](http://9gag.com/gag/a87bR11)<!-- MEMES:END -->
 
 ---
 

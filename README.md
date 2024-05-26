@@ -171,10 +171,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Some people remember small things about you and that\u2019s wholesome.](http://9gag.com/gag/adB63MB)
- - 😝 [His face](http://9gag.com/gag/a0eP20d)
- - 💣 [Quack](http://9gag.com/gag/an7XA2B)
+ - 😝 [When you are missing the best part of the show...](http://9gag.com/gag/aQz46vd)
  - 😝 [Reclaim what&#39;s yours, no emotional blackmail](http://9gag.com/gag/aPA46yg)
+ - 💣 [A person can bear any pain or difficulties if they understand why they are doing it](http://9gag.com/gag/a6ZyrX8)
+ - 😝 [Good fences make good neighbors.](http://9gag.com/gag/ayN0ER8)
  - 👉 [The bathroom was full with tampons that had feces on them, empty lube pacs etc. The office manager is a based goth girl and wrote that `they / them can clean it themselfs`](http://9gag.com/gag/amoLD1X)<!-- MEMES:END -->
 
 ---

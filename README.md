@@ -165,8 +165,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Does String Theory Actually Describe the World? AI May Be Able to Tell](https://www.wired.com/story/ai-starts-to-sift-through-string-theorys-near-endless-possibilities/)
  - [Shockbuster Season: Why the Death of the Summer Movie Is a Good Thing](https://www.wired.com/story/shockbuster-season-why-the-death-of-the-summer-movie-is-a-good-thing/)
  - [US Offshore Wind Farms Are Being Strangled With Red Tape](https://www.wired.com/story/why-us-offshore-wind-power-is-struggling/)
- - [The Sea Is Swallowing This Mexican Town](https://www.wired.com/story/the-sea-is-swallowing-this-mexican-town/)
- - [There’s no easy 3D printer, but Bambu has won me over](https://www.theverge.com/23924708/creality-k1c-bambu-p1p-review)<!-- TECH:END -->
+ - [Memorial Day Sales 2024: Shop the Top Deals From Your Favorite Retailers     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-26/#ftag=CAD590a51e)
+ - [Memorial Day Weekend 2024 Sales: New Offers and Huge Savings     - CNET](https://www.cnet.com/deals/memorial-day-sales-2024-05-26/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

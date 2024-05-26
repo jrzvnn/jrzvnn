@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Adorable Hitler gun](http://9gag.com/gag/avyZMwb)
- - 😝 [Man can&#39;t watch football and has to wash dishes tonight.](http://9gag.com/gag/aMVbpz6)
- - 💣 [Crimson chin looking ass](http://9gag.com/gag/adB6mZD)
- - 😝 [Reality check](http://9gag.com/gag/ae93Xpp)
- - 👉 [This is advanced simping](http://9gag.com/gag/avyZ3eW)<!-- MEMES:END -->
+ - 😝 [Nature: `Mercy..? Never heard of her..`](http://9gag.com/gag/ae93vnB)
+ - 😝 [Lighting strike obliterated George Floyd&#39;s Mural in Ohio, striking his face](http://9gag.com/gag/ae93onj)
+ - 💣 [American U16 women&#39;s basketball team standing next to El Salvador&#39;s U16 team](http://9gag.com/gag/aZZWGxz)
+ - 😝 [Foreigners right now in Germany after seeing Germany&#39;s new hit song](http://9gag.com/gag/ae93Xrv)
+ - 👉 [Resident evil 4?](http://9gag.com/gag/aYQp33v)<!-- MEMES:END -->
 
 ---
 

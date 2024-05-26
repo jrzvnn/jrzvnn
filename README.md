@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save Big on the Best Walmart Memorial Day Sales Across TVs, Laptops, iPads and More     - CNET](https://www.cnet.com/deals/best-walmart-memorial-day-sales-05-25/#ftag=CAD590a51e)
- - [Best Buy Memorial Day Sale: Shop Steep Discounts on Tech, Appliances and More All Weekend     - CNET](https://www.cnet.com/deals/best-buy-memorial-day-sale/#ftag=CAD590a51e)
- - [Filings: US pharmaceutical company Cencora notified ~500K individuals since learning about a data breach in February 2024 that exposed health diagnoses and more &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240525/p11#a240525p11)
- - [Best 55-Inch TVs for 2024: Hisense, Samsung and More     - CNET](https://www.cnet.com/tech/home-entertainment/best-55-inch-tv/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints and Answers: Help for May 26, #350     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hints-answer-help-for-may-26-350/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Treadmills of 2024     - CNET](https://www.cnet.com/health/fitness/best-treadmill/#ftag=CAD590a51e)
+ - [Best Furniture Deals at Memorial Day Sales: Save on Beds, Chairs, Desks and More     - CNET](https://www.cnet.com/deals/memorial-day-furniture-sales-05-25/#ftag=CAD590a51e)
+ - [Memorial Day Sales 2024: Shop the Top Deals From Your Favorite Retailers     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-25/#ftag=CAD590a51e)
+ - [Best Memorial Day Laptop Sales: Save Hundreds at Best Buy, Walmart, Target and More     - CNET](https://www.cnet.com/deals/best-memorial-day-laptop-sales-05-25/#ftag=CAD590a51e)
+ - [Save Up to $600 Off Your Next Saatva Mattress for Memorial Day     - CNET](https://www.cnet.com/deals/saatva-memorial-day-deal-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

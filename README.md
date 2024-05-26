@@ -164,9 +164,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [The Sea Is Swallowing This Mexican Town](https://www.wired.com/story/the-sea-is-swallowing-this-mexican-town/)
  - [There’s no easy 3D printer, but Bambu has won me over](https://www.theverge.com/23924708/creality-k1c-bambu-p1p-review)
- - [Four of the top seven best-reviewed games on Metacritic in 2024, not counting remakes, are indies, with Animal Well and Balatro in the top three &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/240526/p5#a240526p5)
  - [Memorial Day Sales 2024: Shop the Top Deals From Your Favorite Retailers     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-26/#ftag=CAD590a51e)
- - [French Open 2024: How to Watch, Stream All the Tennis Live Today From Paris     - CNET](https://www.cnet.com/tech/services-and-software/french-open-2024-how-to-watch-stream-all-the-tennis-live-today-from-paris/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best AT&amp;T Phones in 2024     - CNET](https://www.cnet.com/tech/mobile/best-at-t-phones/#ftag=CAD590a51e)
+ - [Four of the top seven best-reviewed games on Metacritic in 2024, not counting remakes, are indies, with Animal Well and Balatro in the top three &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/240526/p5#a240526p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

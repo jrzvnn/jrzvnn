@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Reality check](http://9gag.com/gag/ae93Xpp)
- - 😝 [This is advanced simping](http://9gag.com/gag/avyZ3eW)
- - 💣 [Mom, may I fly?](http://9gag.com/gag/aAyrBQp)
- - 😝 [American U16 women&#39;s basketball team standing next to El Salvador&#39;s U16 team](http://9gag.com/gag/aZZWGxz)
- - 👉 [Best bike ride ever](http://9gag.com/gag/a1mZzgb)<!-- MEMES:END -->
+ - 😝 [Some people remember small things about you and that\u2019s wholesome.](http://9gag.com/gag/adB63MB)
+ - 😝 [His face](http://9gag.com/gag/a0eP20d)
+ - 💣 [Quack](http://9gag.com/gag/an7XA2B)
+ - 😝 [Reclaim what&#39;s yours, no emotional blackmail](http://9gag.com/gag/aPA46yg)
+ - 👉 [The bathroom was full with tampons that had feces on them, empty lube pacs etc. The office manager is a based goth girl and wrote that `they / them can clean it themselfs`](http://9gag.com/gag/amoLD1X)<!-- MEMES:END -->
 
 ---
 

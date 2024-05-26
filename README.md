@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Its about time to clean out the closet.](http://9gag.com/gag/aPAy5MK)
  - 😝 [American U16 women&#39;s basketball team standing next to El Salvador&#39;s U16 team](http://9gag.com/gag/aZZWGxz)
- - 😝 [Welcome to Oakland, California](http://9gag.com/gag/aqyZ3d7)
- - 💣 [Just a prank bro](http://9gag.com/gag/a9yMQPo)
+ - 💣 [Evolution of Mickey Rourke](http://9gag.com/gag/avyZ3GZ)
  - 😝 [`Germany is for Germans, foreigners out!` A curious slogan is gaining popularity in Germany.](http://9gag.com/gag/a4P9X2w)
- - 👉 [At least the Internet made me believe so](http://9gag.com/gag/apRoZ4B)<!-- MEMES:END -->
+ - 👉 [Resident evil 4?](http://9gag.com/gag/aYQp33v)<!-- MEMES:END -->
 
 ---
 

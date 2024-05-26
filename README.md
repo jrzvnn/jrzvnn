@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Art studio dumps paint down storm drain](http://9gag.com/gag/ae938Aj)
+ - 😝 [American U16 women&#39;s basketball team standing next to El Salvador&#39;s U16 team](http://9gag.com/gag/aZZWGxz)
  - 😝 [Resident evil 4?](http://9gag.com/gag/aYQp33v)
- - 💣 [Give it back to him](http://9gag.com/gag/an7XL0o)
- - 😝 [Lithium battery mad](http://9gag.com/gag/an7X6jL)
- - 👉 [Climbing day](http://9gag.com/gag/aKGgo1g)<!-- MEMES:END -->
+ - 💣 [After 10 years the DCU&#39;s Flash still has no answer for this classic](http://9gag.com/gag/a4P9DVA)
+ - 😝 [Evolution of Mickey Rourke](http://9gag.com/gag/avyZ3GZ)
+ - 👉 [How to deal with bullies](http://9gag.com/gag/agm0Dzx)<!-- MEMES:END -->
 
 ---
 

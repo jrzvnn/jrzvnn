@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Welcome to China, a living utopia](http://9gag.com/gag/a87bR11)
- - 😝 [Resident evil 4?](http://9gag.com/gag/aYQp33v)
- - 💣 [Evolution of Mickey Rourke](http://9gag.com/gag/avyZ3GZ)
+ - 😝 [Art studio dumps paint down storm drain](http://9gag.com/gag/ae938Aj)
  - 😝 [Tesla in self driving mode](http://9gag.com/gag/aVvQn52)
- - 👉 [Reality check](http://9gag.com/gag/ae93Xpp)<!-- MEMES:END -->
+ - 💣 [Resident evil 4?](http://9gag.com/gag/aYQp33v)
+ - 😝 [How to deal with bullies](http://9gag.com/gag/agm0Dzx)
+ - 👉 [Evolution of Mickey Rourke](http://9gag.com/gag/avyZ3GZ)<!-- MEMES:END -->
 
 ---
 

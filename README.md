@@ -171,9 +171,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Year of the D](http://9gag.com/gag/a0ePm5d)
  - 😝 [I finally feel like I am making a difference](http://9gag.com/gag/aMVb35P)
- - 💣 [How to deal with bullies](http://9gag.com/gag/agm0Dzx)
+ - 😝 [The ball point pen.](http://9gag.com/gag/aryePbp)
+ - 💣 [Year of the D](http://9gag.com/gag/a0ePm5d)
  - 😝 [Father disciplines his daughter](http://9gag.com/gag/aD2wepG)
  - 👉 [No fat chicks please](http://9gag.com/gag/aVvQNAd)<!-- MEMES:END -->
 

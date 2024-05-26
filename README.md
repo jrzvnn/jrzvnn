@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Crimson chin looking ass](http://9gag.com/gag/adB6mZD)
- - 😝 [Life hacks](http://9gag.com/gag/aZZWGWz)
- - 💣 [Man can&#39;t watch football and has to wash dishes tonight.](http://9gag.com/gag/aMVbpz6)
- - 😝 [Welcome to China, a living utopia](http://9gag.com/gag/a87bR11)
- - 👉 [Hol up](http://9gag.com/gag/a0eP2Ez)<!-- MEMES:END -->
+ - 😝 [Man can&#39;t watch football and has to wash dishes tonight.](http://9gag.com/gag/aMVbpz6)
+ - 😝 [Llamas](http://9gag.com/gag/abAqNB8)
+ - 💣 [Crimson chin looking ass](http://9gag.com/gag/adB6mZD)
+ - 😝 [Today it randomly snowed in mexico &lpar;puebla&rpar;\u2026 in the summer\u2026 during a heatwave. It melted immediately and people\u2019s homes are getting flooded](http://9gag.com/gag/aW40zwK)
+ - 👉 [Evolution of Mickey Rourke](http://9gag.com/gag/avyZ3GZ)<!-- MEMES:END -->
 
 ---
 

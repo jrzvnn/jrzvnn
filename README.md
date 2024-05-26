@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spotify Tips for People Who Like to Listen to Whole Albums](https://www.wired.com/story/how-to-get-spotify-to-play-whole-albums/)
  - [How Shein and Temu, which are spending billions on digital ads and offering steep discounts or free products, have become big threats to Amazon in the US &lpar;Louise Matsakis/Big Technology&rpar;](http://www.techmeme.com/240526/p6#a240526p6)
  - [7 Best Google Assistant Speakers &lpar;2024&rpar;: Smart Displays, Portable, and Soundbars](https://www.wired.com/gallery/best-google-speakers-buying-guide/)
  - [A big list of the best tiny games on the internet](https://www.theverge.com/24163971/best-daily-games-internet-wordle-coffee-golf-connections)
- - [T-Mobile Raises Rates on Select Legacy Plans, Here&#39;s the Deal     - CNET](https://www.cnet.com/tech/mobile/t-mobile-raises-rates-on-select-legacy-plans-heres-the-deal/#ftag=CAD590a51e)
- - [Memorial Day Sales 2024: Shop the Top Deals From Your Favorite Retailers     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-26/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [T-Mobile Raises Rates on Select Legacy Plans, Here&#39;s the Deal     - CNET](https://www.cnet.com/tech/mobile/t-mobile-raises-rates-on-select-legacy-plans-heres-the-deal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

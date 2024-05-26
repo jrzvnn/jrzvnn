@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Year of the D](http://9gag.com/gag/a0ePm5d)
- - 😝 [After 10 years the DCU&#39;s Flash still has no answer for this classic](http://9gag.com/gag/a4P9DVA)
- - 💣 [Quack](http://9gag.com/gag/an7XA2B)
- - 😝 [You know you arrived in Germany when cars go faster than airplanes](http://9gag.com/gag/aoyZBYm)
- - 👉 [The ball point pen.](http://9gag.com/gag/aryePbp)<!-- MEMES:END -->
+ - 😝 [Crimson chin looking ass](http://9gag.com/gag/adB6mZD)
+ - 😝 [Life hacks](http://9gag.com/gag/aZZWGWz)
+ - 💣 [Man can&#39;t watch football and has to wash dishes tonight.](http://9gag.com/gag/aMVbpz6)
+ - 😝 [Welcome to China, a living utopia](http://9gag.com/gag/a87bR11)
+ - 👉 [Hol up](http://9gag.com/gag/a0eP2Ez)<!-- MEMES:END -->
 
 ---
 

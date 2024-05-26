@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tesla in self driving mode](http://9gag.com/gag/aVvQn52)
- - 😝 [Resident evil 4?](http://9gag.com/gag/aYQp33v)
- - 💣 [Crimson chin looking ass](http://9gag.com/gag/adB6mZD)
- - 😝 [Welcome to China, a living utopia](http://9gag.com/gag/a87bR11)
- - 👉 [No fat chicks please](http://9gag.com/gag/aVvQNAd)<!-- MEMES:END -->
+ - 😝 [Best bike ride ever](http://9gag.com/gag/a1mZzgb)
+ - 😝 [Whites only Fried Rice.](http://9gag.com/gag/arye76d)
+ - 💣 [Evolution of Mickey Rourke](http://9gag.com/gag/avyZ3GZ)
+ - 😝 [Welcome to Oakland, California](http://9gag.com/gag/aqyZ3d7)
+ - 👉 [That was the real Joe..](http://9gag.com/gag/abAq7GE)<!-- MEMES:END -->
 
 ---
 

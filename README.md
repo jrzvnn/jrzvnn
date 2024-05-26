@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Welcome to China, a living utopia](http://9gag.com/gag/a87bR11)
+ - 😝 [Resident evil 4?](http://9gag.com/gag/aYQp33v)
+ - 💣 [Evolution of Mickey Rourke](http://9gag.com/gag/avyZ3GZ)
  - 😝 [Tesla in self driving mode](http://9gag.com/gag/aVvQn52)
- - 😝 [Today it randomly snowed in mexico &lpar;puebla&rpar;\u2026 in the summer\u2026 during a heatwave. It melted immediately and people\u2019s homes are getting flooded](http://9gag.com/gag/aW40zwK)
- - 💣 [Life hacks](http://9gag.com/gag/aZZWGWz)
- - 😝 [Just a prank bro](http://9gag.com/gag/a9yMQPo)
- - 👉 [Welcome to China, a living utopia](http://9gag.com/gag/a87bR11)<!-- MEMES:END -->
+ - 👉 [Reality check](http://9gag.com/gag/ae93Xpp)<!-- MEMES:END -->
 
 ---
 

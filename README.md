@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [American U16 women&#39;s basketball team standing next to El Salvador&#39;s U16 team](http://9gag.com/gag/aZZWGxz)
+ - 😝 [Tesla in self driving mode](http://9gag.com/gag/aVvQn52)
  - 😝 [Resident evil 4?](http://9gag.com/gag/aYQp33v)
- - 💣 [After 10 years the DCU&#39;s Flash still has no answer for this classic](http://9gag.com/gag/a4P9DVA)
- - 😝 [Evolution of Mickey Rourke](http://9gag.com/gag/avyZ3GZ)
- - 👉 [How to deal with bullies](http://9gag.com/gag/agm0Dzx)<!-- MEMES:END -->
+ - 💣 [Crimson chin looking ass](http://9gag.com/gag/adB6mZD)
+ - 😝 [Welcome to China, a living utopia](http://9gag.com/gag/a87bR11)
+ - 👉 [No fat chicks please](http://9gag.com/gag/aVvQNAd)<!-- MEMES:END -->
 
 ---
 

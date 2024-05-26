@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Today it randomly snowed in mexico &lpar;puebla&rpar;\u2026 in the summer\u2026 during a heatwave. It melted immediately and people\u2019s homes are getting flooded](http://9gag.com/gag/aW40zwK)
+ - 😝 [Tiger nearly swiping a guy off an elephant](http://9gag.com/gag/a34d965)
+ - 😝 [Crimson chin looking ass](http://9gag.com/gag/adB6mZD)
+ - 💣 [This is advanced simping](http://9gag.com/gag/avyZ3eW)
  - 😝 [Evolution of Mickey Rourke](http://9gag.com/gag/avyZ3GZ)
- - 💣 [Reality check](http://9gag.com/gag/ae93Xpp)
- - 😝 [Oh yes...the common BMW driver.](http://9gag.com/gag/aBy39LZ)
- - 👉 [Life hacks](http://9gag.com/gag/aZZWGWz)<!-- MEMES:END -->
+ - 👉 [Oh yes...the common BMW driver.](http://9gag.com/gag/aBy39LZ)<!-- MEMES:END -->
 
 ---
 

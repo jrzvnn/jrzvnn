@@ -165,8 +165,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Researchers find that GPT-4 outperforms human analysts in predicting future corporate earnings growth even when provided only with financial statements &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240526/p9#a240526p9)
  - [Flash deal: grab a Babbel lifetime subscription for $139.97 &lpar;$460 off&rpar;](https://appleinsider.com/articles/24/05/26/flash-deal-grab-a-babbel-lifetime-subscription-for-13997-460-off?utm_medium=rss)
  - [Memorial Day Sales 2024: Shop the Top Deals From Your Favorite Retailers     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-26/#ftag=CAD590a51e)
- - [Best Buy Memorial Day Sale: Shop Steep Discounts on Airpods, Dyson Vacuums and More     - CNET](https://www.cnet.com/deals/best-buy-memorial-day-sale-24-05-26/#ftag=CAD590a51e)
- - [Best Target Memorial Day Sales: Can&#39;t-Miss Savings on Headphones, TVs, and More     - CNET](https://www.cnet.com/deals/best-target-memorial-day-sales-2024-05-26/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Walmart Memorial Day Sales 2024: Save Big With Memorial Day Deals on Home, Tech, TVs and More     - CNET](https://www.cnet.com/deals/best-walmart-memorial-day-sales-2024-05-26/#ftag=CAD590a51e)
+ - [Best Buy Memorial Day Sale: Shop Steep Discounts on Airpods, Dyson Vacuums and More     - CNET](https://www.cnet.com/deals/best-buy-memorial-day-sale-24-05-26/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

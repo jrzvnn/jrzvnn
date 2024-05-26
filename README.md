@@ -171,10 +171,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just a prank bro](http://9gag.com/gag/a9yMQPo)
- - 😝 [Crimson chin looking ass](http://9gag.com/gag/adB6mZD)
- - 💣 [FedEx breaks \u2248$14,000 bottle of medicine for the second time.](http://9gag.com/gag/ajP6pQ0)
- - 😝 [Foreigners right now in Germany after seeing Germany&#39;s new hit song](http://9gag.com/gag/ae93Xrv)
+ - 😝 [Today it randomly snowed in mexico &lpar;puebla&rpar;\u2026 in the summer\u2026 during a heatwave. It melted immediately and people\u2019s homes are getting flooded](http://9gag.com/gag/aW40zwK)
+ - 😝 [Evolution of Mickey Rourke](http://9gag.com/gag/avyZ3GZ)
+ - 💣 [Reality check](http://9gag.com/gag/ae93Xpp)
+ - 😝 [Oh yes...the common BMW driver.](http://9gag.com/gag/aBy39LZ)
  - 👉 [Life hacks](http://9gag.com/gag/aZZWGWz)<!-- MEMES:END -->
 
 ---

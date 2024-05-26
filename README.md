@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Save Big on the Best Walmart Memorial Day Sales Across TVs, Laptops, iPads and More     - CNET](https://www.cnet.com/deals/best-walmart-memorial-day-sales-05-25/#ftag=CAD590a51e)
+ - [Best Buy Memorial Day Sale: Shop Steep Discounts on Tech, Appliances and More All Weekend     - CNET](https://www.cnet.com/deals/best-buy-memorial-day-sale/#ftag=CAD590a51e)
  - [Filings: US pharmaceutical company Cencora notified ~500K individuals since learning about a data breach in February 2024 that exposed health diagnoses and more &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240525/p11#a240525p11)
- - [Best Memorial Day Deals Under $25: Weekend Price Cuts Now Live Across Tech, Home and Everyday Essentials     - CNET](https://www.cnet.com/deals/best-memorial-day-deals-under-25/#ftag=CAD590a51e)
- - [Best Memorial Day Sleep Deals: Save on Pillows, Comforters and Sheet Sets From Top-Rated Brands     - CNET](https://www.cnet.com/deals/best-memorial-day-sleep-deals-2024-05-25/#ftag=CAD590a51e)
- - [Nectar Mattresses Start at $349 This Memorial Day     - CNET](https://www.cnet.com/deals/nectar-memorial-day-deal-2024/#ftag=CAD590a51e)
- - [YouTube Music will let you search by humming into your Android phone](https://www.theverge.com/2024/5/25/24164879/youtube-music-hum-to-search-available-android)<!-- TECH:END -->
+ - [Best 55-Inch TVs for 2024: Hisense, Samsung and More     - CNET](https://www.cnet.com/tech/home-entertainment/best-55-inch-tv/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints and Answers: Help for May 26, #350     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hints-answer-help-for-may-26-350/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best bike ride ever](http://9gag.com/gag/a1mZzgb)
- - 😝 [Whites only Fried Rice.](http://9gag.com/gag/arye76d)
- - 💣 [Evolution of Mickey Rourke](http://9gag.com/gag/avyZ3GZ)
- - 😝 [Welcome to Oakland, California](http://9gag.com/gag/aqyZ3d7)
- - 👉 [That was the real Joe..](http://9gag.com/gag/abAq7GE)<!-- MEMES:END -->
+ - 😝 [American U16 women&#39;s basketball team standing next to El Salvador&#39;s U16 team](http://9gag.com/gag/aZZWGxz)
+ - 😝 [Lithium battery mad](http://9gag.com/gag/an7X6jL)
+ - 💣 [Old but gold](http://9gag.com/gag/apRo40p)
+ - 😝 [Life hacks](http://9gag.com/gag/aZZWGWz)
+ - 👉 [Lighting strike obliterated George Floyd&#39;s Mural in Ohio, striking his face](http://9gag.com/gag/ae93onj)<!-- MEMES:END -->
 
 ---
 

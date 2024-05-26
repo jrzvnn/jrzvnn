@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Welcome to China, a living utopia](http://9gag.com/gag/a87bR11)
- - 😝 [American U16 women&#39;s basketball team standing next to El Salvador&#39;s U16 team](http://9gag.com/gag/aZZWGxz)
+ - 😝 [High higher highest](http://9gag.com/gag/a6ZdWZb)
+ - 😝 [If you need anymore proof that Congress is owned by billionaires\u2026](http://9gag.com/gag/arye6Qy)
  - 💣 [Today it randomly snowed in mexico &lpar;puebla&rpar;\u2026 in the summer\u2026 during a heatwave. It melted immediately and people\u2019s homes are getting flooded](http://9gag.com/gag/aW40zwK)
- - 😝 [They adopted a baby and this was their reaction when they met him](http://9gag.com/gag/a4P9XeA)
- - 👉 [Resident evil 4?](http://9gag.com/gag/aYQp33v)<!-- MEMES:END -->
+ - 😝 [Crimson chin looking ass](http://9gag.com/gag/adB6mZD)
+ - 👉 [Evolution of Mickey Rourke](http://9gag.com/gag/avyZ3GZ)<!-- MEMES:END -->
 
 ---
 

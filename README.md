@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best bike ride ever](http://9gag.com/gag/a1mZzgb)
- - 😝 [Reality check](http://9gag.com/gag/ae93Xpp)
- - 💣 [`Germany is for Germans, foreigners out!` A curious slogan is gaining popularity in Germany.](http://9gag.com/gag/a4P9X2w)
- - 😝 [Welcome to China, a living utopia](http://9gag.com/gag/a87bR11)
- - 👉 [Resident evil 4?](http://9gag.com/gag/aYQp33v)<!-- MEMES:END -->
+ - 😝 [Life hacks](http://9gag.com/gag/aZZWGWz)
+ - 😝 [Crimson chin looking ass](http://9gag.com/gag/adB6mZD)
+ - 💣 [Reality check](http://9gag.com/gag/ae93Xpp)
+ - 😝 [`Germany is for Germans, foreigners out!` A curious slogan is gaining popularity in Germany.](http://9gag.com/gag/a4P9X2w)
+ - 👉 [Welcome to Oakland, California](http://9gag.com/gag/aqyZ3d7)<!-- MEMES:END -->
 
 ---
 

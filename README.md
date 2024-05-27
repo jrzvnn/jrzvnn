@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Reality check](http://9gag.com/gag/ae93Xpp)
- - 😝 [Evolution of Mickey Rourke](http://9gag.com/gag/avyZ3GZ)
- - 💣 [Just a prank bro](http://9gag.com/gag/a9yMQPo)
- - 😝 [Germans having some fun](http://9gag.com/gag/aXPpZ0V)
- - 👉 [Alexa, dammit](http://9gag.com/gag/aW40VLx)<!-- MEMES:END -->
+ - 😝 [Have a rest](http://9gag.com/gag/aRBgxqG)
+ - 😝 [American U16 women&#39;s basketball team standing next to El Salvador&#39;s U16 team](http://9gag.com/gag/aZZWGxz)
+ - 💣 [Alexa, dammit](http://9gag.com/gag/aW40VLx)
+ - 😝 [Whacked the dementia out of gramma](http://9gag.com/gag/a0eL8Pv)
+ - 👉 [Crimson chin looking ass](http://9gag.com/gag/adB6mZD)<!-- MEMES:END -->
 
 ---
 

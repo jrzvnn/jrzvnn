@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Evolution of Mickey Rourke](http://9gag.com/gag/avyZ3GZ)
- - 😝 [Celebrating too early, an ancient Monaco edition Christian Horner remembers.](http://9gag.com/gag/aD2wELK)
- - 💣 [Just a prank bro](http://9gag.com/gag/a9yMQPo)
- - 😝 [There\u2019s gotta be context missing. What else did he do?](http://9gag.com/gag/aKGgRZO)
- - 👉 [A trope that has always confused me.](http://9gag.com/gag/aryej76)<!-- MEMES:END -->
+ - 😝 [When you are missing the best part of the show...](http://9gag.com/gag/aQz46vd)
+ - 😝 [Reclaim what&#39;s yours, no emotional blackmail](http://9gag.com/gag/aPA46yg)
+ - 💣 [His face](http://9gag.com/gag/a0eP20d)
+ - 😝 [This is Syria, where more than 300,000 civilian men, women, and children have been killed &lpar;millions more displaced&rpar;. You won&#39;t see college students marching around the world, or screaming about genocide. Why? Because it&#39;s Muslims killing Muslims, which doesn&#39;t fit the narrative.](http://9gag.com/gag/a5QPpog)
+ - 👉 [Helping a bro out](http://9gag.com/gag/aRBP6w2)<!-- MEMES:END -->
 
 ---
 

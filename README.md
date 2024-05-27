@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [35 Best Memorial Day Sales &lpar;2024&rpar;: TVs, Office Chairs, and Ebikes](https://www.wired.com/story/best-memorial-day-sales-2024/)
- - [The best Memorial Day sales happening now](https://www.theverge.com/24161521/best-memorial-day-sales-2024-tech-deals-tvs-headphones-robot-vacuums-electronics)
- - [Liven Up Your Memorial Day Party With Big Savings on the JBL Clip 4 Mini Speaker     - CNET](https://www.cnet.com/deals/liven-up-your-memorial-day-party-with-big-savings-on-the-jbl-clip-4-mini-speaker/#ftag=CAD590a51e)
- - [Memorial Day Sales 2024: Make Huge Savings on TVs, Tech, Furniture and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-27/#ftag=CAD590a51e)
- - [Score the Massive Samsung OLED TV at an Unbeatable Price This Memorial Day     - CNET](https://www.cnet.com/deals/score-massive-samsung-oled-tv-at-an-unbeatable-price-memorial-day/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Elon Musk’s xAI raises $6 billion to fund its race against ChatGPT and all the rest](https://www.theverge.com/2024/5/27/24165619/elon-musk-xai-startup-6-billion-funding)
+ - [Save 20% on Eve Smart Home Products Across Amazon Today     - CNET](https://www.cnet.com/deals/save-20-on-eve-smart-home-products-across-amazon-today/#ftag=CAD590a51e)
+ - [The 8 Best Cooling Comforters of 2024     - CNET](https://www.cnet.com/health/sleep/8-best-cooling-comforters/#ftag=CAD590a51e)
+ - [Get The Best Deal Ever on Apple&#39;s Latest iPad, Now at $329 for Memorial Day Weekend     - CNET](https://www.cnet.com/deals/get-the-best-deal-ever-on-apples-latest-ipad-now-at-329-for-memorial-day-weekend/#ftag=CAD590a51e)
+ - [Memorial Day 2024 Furniture Sales: Biggest Deals on Beds, Sofas, Dressers and More     - CNET](https://www.cnet.com/deals/memorial-day-furniture-sales-2024-05-27/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

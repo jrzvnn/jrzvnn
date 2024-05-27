@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Show me your more bizarre gif](http://9gag.com/gag/ajP0Qv1)
- - 😝 [Crimson chin looking ass](http://9gag.com/gag/adB6mZD)
- - 💣 [Netflix casting done right? or do they need money right now?](http://9gag.com/gag/a0eP2xv)
  - 😝 [I\u2019m an OP so my choice is clear](http://9gag.com/gag/a9yLb4j)
- - 👉 [This is advanced simping](http://9gag.com/gag/avyZ3eW)<!-- MEMES:END -->
+ - 😝 [Hol up](http://9gag.com/gag/a0eP2Ez)
+ - 💣 [Poland: driver just said: Gentelman, can you escort us to hospital because of the baby?](http://9gag.com/gag/a7oyv4b)
+ - 😝 [Germans having some fun](http://9gag.com/gag/aXPpZ0V)
+ - 👉 [Netflix casting done right? or do they need money right now?](http://9gag.com/gag/a0eP2xv)<!-- MEMES:END -->
 
 ---
 

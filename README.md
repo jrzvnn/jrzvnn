@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Change is the only constant](http://9gag.com/gag/a2vYN8D)
- - 😝 [With great power comes great comedy](http://9gag.com/gag/adBYN0j)
- - 💣 [Feminist&#39;s will be furious](http://9gag.com/gag/ae90N3W)
- - 😝 [Poland: driver just said: Gentelman, can you escort us to hospital because of the baby?](http://9gag.com/gag/a7oyv4b)
- - 👉 [I\u2019m an OP so my choice is clear](http://9gag.com/gag/a9yLb4j)<!-- MEMES:END -->
+ - 😝 [Snaxx time](http://9gag.com/gag/aVvWO1O)
+ - 😝 [Mom, may I fly?](http://9gag.com/gag/aAyrBQp)
+ - 💣 [White](http://9gag.com/gag/a9yLbD6)
+ - 😝 [Show me your more bizarre gif](http://9gag.com/gag/ajP0Qv1)
+ - 👉 [Feminist&#39;s will be furious](http://9gag.com/gag/ae90N3W)<!-- MEMES:END -->
 
 ---
 

@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you are missing the best part of the show...](http://9gag.com/gag/aQz46vd)
- - 😝 [Reclaim what&#39;s yours, no emotional blackmail](http://9gag.com/gag/aPA46yg)
- - 💣 [His face](http://9gag.com/gag/a0eP20d)
- - 😝 [This is Syria, where more than 300,000 civilian men, women, and children have been killed &lpar;millions more displaced&rpar;. You won&#39;t see college students marching around the world, or screaming about genocide. Why? Because it&#39;s Muslims killing Muslims, which doesn&#39;t fit the narrative.](http://9gag.com/gag/a5QPpog)
- - 👉 [Helping a bro out](http://9gag.com/gag/aRBP6w2)<!-- MEMES:END -->
+ - 😝 [Mom, may I fly?](http://9gag.com/gag/aAyrBQp)
+ - 😝 [Life hacks](http://9gag.com/gag/aZZWGWz)
+ - 💣 [Evolution of Mickey Rourke](http://9gag.com/gag/avyZ3GZ)
+ - 😝 [100 million dollars from the whole football world.](http://9gag.com/gag/aGyVWEX)
+ - 👉 [American U16 women&#39;s basketball team standing next to El Salvador&#39;s U16 team](http://9gag.com/gag/aZZWGxz)<!-- MEMES:END -->
 
 ---
 

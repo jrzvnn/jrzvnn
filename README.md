@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s MacBook Air with 16GB RAM, 512GB SSD drops to record low $1,269](https://appleinsider.com/articles/24/05/27/apples-macbook-air-with-16gb-ram-512gb-ssd-drops-to-record-low-1269?utm_medium=rss)
  - [A look at the growing importance of ads for video streaming services, as Antenna says that 56% of new subscribers chose the cheaper ad-supported tier in Q1 2024 &lpar;John Koblin/New York Times&rpar;](http://www.techmeme.com/240527/p6#a240527p6)
  - [Target Memorial Day Sale 2024: Can&#39;t Miss Savings on Headphones, TVs and More     - CNET](https://www.cnet.com/deals/target-memorial-day-sale-2024-cant-miss-savings-on-headphones-tvs-and-more/#ftag=CAD590a51e)
  - [Transform Your Space With an Essential Oil Diffuser Before Memorial Day Ends     - CNET](https://www.cnet.com/deals/transform-your-space-with-an-essential-oil-diffuser-before-memorial-day-ends/#ftag=CAD590a51e)
- - [Home Depot Memorial Day Sale: Save Big on Outdoor Furniture, Appliances and More     - CNET](https://www.cnet.com/deals/home-depot-memorial-day-sales-2024-05-27/#ftag=CAD590a51e)
- - [Memorial Day Sales 2024: Make Huge Savings on TVs, Tech, Furniture and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-27/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Home Depot Memorial Day Sale: Save Big on Outdoor Furniture, Appliances and More     - CNET](https://www.cnet.com/deals/home-depot-memorial-day-sales-2024-05-27/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

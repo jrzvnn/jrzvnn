@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta adds safety features to CrowdTangle for use during the EU elections, in a bid to address EU concerns over Meta&#39;s plan to shut down the tool in August 2024 &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240527/p7#a240527p7)
- - [Windows will soon let you grab text from your Android photos](https://www.theverge.com/2024/5/27/24165825/windows-phone-link-select-text-photos)
- - [Best Apple Memorial Day Sales: Save on Apple&#39;s Catalogue of iPads, Macs, AirPods and More     - CNET](https://www.cnet.com/deals/best-apple-memorial-day-sales-2024-05-27/#ftag=CAD590a51e)
+ - [The hacking group RansomHub claims to be behind the attack that hit Christie&#39;s, and threatens to release sensitive information about the auction house&#39;s clients &lpar;Zachary Small/New York Times&rpar;](http://www.techmeme.com/240527/p8#a240527p8)
  - [Memorial Day Sales 2024: Snag Sweet Savings on TVs, Tech, Furniture and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-27/#ftag=CAD590a51e)
- - [Don&#39;t Snooze on These Memorial Day Sleep Savings: The Best Deals on Cooling Pillows, Comforters and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sleep-deals-2024-05-27/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta adds safety features to CrowdTangle for use during the EU elections, in a bid to address EU concerns over Meta&#39;s plan to shut down the tool in August 2024 &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240527/p7#a240527p7)
+ - [Last Chance to Save 40% Off Your MasterClass Subscription This Memorial Day     - CNET](https://www.cnet.com/deals/last-chance-to-save-40-off-your-masterclass-subscription-this-memorial-day/#ftag=CAD590a51e)
+ - [Best Memorial Day Smart Home Deals: Think Smart and Save on Smart Displays, Vacuums, Lights and More     - CNET](https://www.cnet.com/deals/best-memorial-day-smart-home-sales-2024-05-27/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

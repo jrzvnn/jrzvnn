@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Have a rest](http://9gag.com/gag/aRBgxqG)
- - 😝 [American U16 women&#39;s basketball team standing next to El Salvador&#39;s U16 team](http://9gag.com/gag/aZZWGxz)
- - 💣 [Alexa, dammit](http://9gag.com/gag/aW40VLx)
- - 😝 [Whacked the dementia out of gramma](http://9gag.com/gag/a0eL8Pv)
- - 👉 [Crimson chin looking ass](http://9gag.com/gag/adB6mZD)<!-- MEMES:END -->
+ - 😝 [How Good To See You Again So Soon, Mr. Wick.](http://9gag.com/gag/aW4WBq4)
+ - 😝 [Life hacks](http://9gag.com/gag/aZZWGWz)
+ - 💣 [Evolution of Mickey Rourke](http://9gag.com/gag/avyZ3GZ)
+ - 😝 [Mom, may I fly?](http://9gag.com/gag/aAyrBQp)
+ - 👉 [This is advanced simping](http://9gag.com/gag/avyZ3eW)<!-- MEMES:END -->
 
 ---
 

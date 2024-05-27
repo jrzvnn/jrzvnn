@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gentlemen. My fav movie scene.](http://9gag.com/gag/a87YLzV)
- - 😝 [Tiger nearly swiping a guy off an elephant](http://9gag.com/gag/a34d965)
- - 💣 [White](http://9gag.com/gag/a9yLbD6)
- - 😝 [Mom, may I fly?](http://9gag.com/gag/aAyrBQp)
- - 👉 [Have a rest](http://9gag.com/gag/aRBgxqG)<!-- MEMES:END -->
+ - 😝 [Man can&#39;t watch football and has to wash dishes tonight.](http://9gag.com/gag/aMVbpz6)
+ - 😝 [The most successful dictatorship in the world we all should follow the path](http://9gag.com/gag/ary415X)
+ - 💣 [Have a rest](http://9gag.com/gag/aRBgxqG)
+ - 😝 [Can&#39;t they see how cool this style is?](http://9gag.com/gag/aNDZeWb)
+ - 👉 [Feminist&#39;s will be furious](http://9gag.com/gag/ae90N3W)<!-- MEMES:END -->
 
 ---
 

@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Netflix casting done right? or do they need money right now?](http://9gag.com/gag/a0eP2xv)
- - 😝 [Yes, it is](http://9gag.com/gag/aqyZ3LQ)
- - 💣 [Poland: driver just said: Gentelman, can you escort us to hospital because of the baby?](http://9gag.com/gag/a7oyv4b)
- - 😝 [Germans having some fun](http://9gag.com/gag/aXPpZ0V)
- - 👉 [Have a rest](http://9gag.com/gag/aRBgxqG)<!-- MEMES:END -->
+ - 😝 [Hol up](http://9gag.com/gag/a0eP2Ez)
+ - 😝 [Just Glue Yourself](http://9gag.com/gag/aGyV3yw)
+ - 💣 [Just a prank bro](http://9gag.com/gag/a9yMQPo)
+ - 😝 [Poland: driver just said: Gentelman, can you escort us to hospital because of the baby?](http://9gag.com/gag/a7oyv4b)
+ - 👉 [Netflix casting done right? or do they need money right now?](http://9gag.com/gag/a0eP2xv)<!-- MEMES:END -->
 
 ---
 

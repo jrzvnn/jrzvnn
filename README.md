@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Show me your more bizarre gif](http://9gag.com/gag/ajP0Qv1)
- - 😝 [UK to force teens to spend a year in the military](http://9gag.com/gag/avyZbqb)
- - 💣 [Hol up](http://9gag.com/gag/a0eP2Ez)
- - 😝 [White](http://9gag.com/gag/a9yLbD6)
- - 👉 [Gentlemen. My fav movie scene.](http://9gag.com/gag/a87YLzV)<!-- MEMES:END -->
+ - 😝 [This video sums up my brain workings](http://9gag.com/gag/awyK0ZD)
+ - 😝 [Not all the taxis are the same, especially in the UK](http://9gag.com/gag/agmvrEK)
+ - 💣 [Guardian Angels](http://9gag.com/gag/a2vYzKp)
+ - 😝 [I \u2764\ufe0fDemocracy](http://9gag.com/gag/adBY01j)
+ - 👉 [Gentlemen I&#39;m going to unlock a memory](http://9gag.com/gag/a0eLvLq)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [28 Best Early Memorial Day Mattress Deals &lpar;2024&rpar;](https://www.wired.com/story/best-mattress-deals/)
+ - [How Netflix turned from chasing HBO to signing a deal with WWE](https://www.theverge.com/2024/5/27/24165556/netflix-hbo-content-programming-ted-sarandos-interview)
  - [33 Best REI Anniversary Sale Deals &lpar;2024&rpar;: Fitness Trackers, Tents, Sleeping Bags, Headphones, Electric Bikes](https://www.wired.com/story/rei-anniversary-sale-may-2024/)
  - [The Unitree G1 Is a Short Humanoid Robot That Costs Just $16,000](https://www.wired.com/story/unitree-g1-humanoid-robot/)
- - [HBO’s MoviePass doc is a snapshot of how C-suites kill companies](https://www.theverge.com/24160812/moviepass-moviecrash-review)
- - [Memorial Day Sales 2024: Make Huge Savings on TVs, Tech, Furniture and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-27/#ftag=CAD590a51e)
- - [Interview with Ecobee CEO Greg Fyke, affordable home key lock, &amp; Sonos headphones on HomeKit Insider](https://appleinsider.com/articles/24/05/27/interview-with-ecobee-ceo-greg-fyke-affordable-home-key-lock-sonos-headphones-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
+ - [HBO’s MoviePass doc is a snapshot of how C-suites kill companies](https://www.theverge.com/24160812/moviepass-moviecrash-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

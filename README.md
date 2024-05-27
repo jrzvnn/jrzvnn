@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How Good To See You Again So Soon, Mr. Wick.](http://9gag.com/gag/aW4WBq4)
- - 😝 [Life hacks](http://9gag.com/gag/aZZWGWz)
- - 💣 [Evolution of Mickey Rourke](http://9gag.com/gag/avyZ3GZ)
- - 😝 [Mom, may I fly?](http://9gag.com/gag/aAyrBQp)
- - 👉 [This is advanced simping](http://9gag.com/gag/avyZ3eW)<!-- MEMES:END -->
+ - 😝 [Netflix casting done right? or do they need money right now?](http://9gag.com/gag/a0eP2xv)
+ - 😝 [Yes, it is](http://9gag.com/gag/aqyZ3LQ)
+ - 💣 [Poland: driver just said: Gentelman, can you escort us to hospital because of the baby?](http://9gag.com/gag/a7oyv4b)
+ - 😝 [Germans having some fun](http://9gag.com/gag/aXPpZ0V)
+ - 👉 [Have a rest](http://9gag.com/gag/aRBgxqG)<!-- MEMES:END -->
 
 ---
 

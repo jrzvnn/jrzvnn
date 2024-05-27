@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WTF Is With the Pink Pineapples at the Grocery Store?!](https://www.wired.com/story/pink-pineapples-grocery-store-pinkglow-genetically-modified/)
- - [Best Target Memorial Day Sales: Can&#39;t-Miss Savings on Headphones, TVs and More     - CNET](https://www.cnet.com/deals/best-target-memorial-day-sales-2024-05-27/#ftag=CAD590a51e)
- - [Best Memorial Day TV Sales: Grab Massive Savings Today on 4K TVs, OLED Models and More     - CNET](https://www.cnet.com/deals/best-memorial-day-tv-sales-2024-05-27/#ftag=CAD590a51e)
- - [How Many Charging Stations Would We Need to Totally Replace Gas Stations?](https://www.wired.com/story/how-many-charging-stations-would-we-need-to-totally-replace-gas-stations/)
- - [Memorial Day Sales 2024: Make Huge Savings on TVs, Tech, Furniture and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-27/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Data.ai: of the top 20 education apps in the US App Store, five are AI agents that help with school assignments, the two most popular of which are Chinese-owned &lpar;Rita Liao/TechCrunch&rpar;](http://www.techmeme.com/240527/p3#a240527p3)
+ - [Memorial Day Sales 2024: Make Huge Savings on TVs, Tech, Furniture and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-27/#ftag=CAD590a51e)
+ - [Best Memorial Day Home Security Sales: Upgrade Doorbell, Cameras and Locks for Less     - CNET](https://www.cnet.com/deals/best-memorial-day-home-security-sales-2024-05-27/#ftag=CAD590a51e)
+ - [Best Memorial Day Smart Home Deals: Save Big on Smart Displays, Vacuums, Lights and More     - CNET](https://www.cnet.com/deals/best-memorial-day-smart-home-sales-2024-05-27/#ftag=CAD590a51e)
+ - [Best Memorial Day Mattress Sales: Score Steep Savings Today on Mattresses, Sleep Bundles and More     - CNET](https://www.cnet.com/deals/best-memorial-day-mattress-sales-2024-05-27/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

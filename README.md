@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This video sums up my brain workings](http://9gag.com/gag/awyK0ZD)
- - 😝 [Not all the taxis are the same, especially in the UK](http://9gag.com/gag/agmvrEK)
- - 💣 [Guardian Angels](http://9gag.com/gag/a2vYzKp)
- - 😝 [I \u2764\ufe0fDemocracy](http://9gag.com/gag/adBY01j)
- - 👉 [Gentlemen I&#39;m going to unlock a memory](http://9gag.com/gag/a0eLvLq)<!-- MEMES:END -->
+ - 😝 [Can&#39;t they see how cool this style is?](http://9gag.com/gag/aNDZeWb)
+ - 😝 [Mom, may I fly?](http://9gag.com/gag/aAyrBQp)
+ - 💣 [I\u2019m an OP so my choice is clear](http://9gag.com/gag/a9yLb4j)
+ - 😝 [Feminist&#39;s will be furious](http://9gag.com/gag/ae90N3W)
+ - 👉 [Have a rest](http://9gag.com/gag/aRBgxqG)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Unitree G1 Is a Short Humanoid Robot That Costs Just $16,000](https://www.wired.com/story/unitree-g1-humanoid-robot/)
+ - [HBO’s MoviePass doc is a snapshot of how C-suites kill companies](https://www.theverge.com/24160812/moviepass-moviecrash-review)
  - [Memorial Day Sales 2024: Make Huge Savings on TVs, Tech, Furniture and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-27/#ftag=CAD590a51e)
  - [Interview with Ecobee CEO Greg Fyke, affordable home key lock, &amp; Sonos headphones on HomeKit Insider](https://appleinsider.com/articles/24/05/27/interview-with-ecobee-ceo-greg-fyke-affordable-home-key-lock-sonos-headphones-on-homekit-insider?utm_medium=rss)
- - [The Anker 535 Portable Power Station Is Only $350 at Amazon Right Now     - CNET](https://www.cnet.com/deals/the-anker-535-portable-power-station-is-only-350-at-amazon-right-now/#ftag=CAD590a51e)
- - [Save $40 on Our Favorite Smart Display at Best Buy&#39;s Memorial Day Sale     - CNET](https://www.cnet.com/deals/save-40-on-our-favorite-smart-display-at-best-buys-memorial-day-sale/#ftag=CAD590a51e)
- - [Unhappy With a Service You’ve Been Paying For? It Might Be Time for a Breakup](https://www.wired.com/story/how-to-break-up-with-professional-service-providers/)<!-- TECH:END -->
+ - [The Anker 535 Portable Power Station Is Only $350 at Amazon Right Now     - CNET](https://www.cnet.com/deals/the-anker-535-portable-power-station-is-only-350-at-amazon-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

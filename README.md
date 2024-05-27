@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Snaxx time](http://9gag.com/gag/aVvWO1O)
- - 😝 [Why there&#39;s never a Fast And Furious set in Germany..](http://9gag.com/gag/aVvWj3n)
- - 💣 [Feminist&#39;s will be furious](http://9gag.com/gag/ae90N3W)
- - 😝 [White](http://9gag.com/gag/a9yLbD6)
- - 👉 [Mom, may I fly?](http://9gag.com/gag/aAyrBQp)<!-- MEMES:END -->
+ - 😝 [Show me your more bizarre gif](http://9gag.com/gag/ajP0Qv1)
+ - 😝 [Add `&amp;udm=14` to remove the useless AI results.](http://9gag.com/gag/an7KYyq)
+ - 💣 [Have a rest](http://9gag.com/gag/aRBgxqG)
+ - 😝 [Gentlemen. My fav movie scene.](http://9gag.com/gag/a87YLzV)
+ - 👉 [Feminist&#39;s will be furious](http://9gag.com/gag/ae90N3W)<!-- MEMES:END -->
 
 ---
 

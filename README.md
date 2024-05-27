@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mom, may I fly?](http://9gag.com/gag/aAyrBQp)
- - 😝 [Life hacks](http://9gag.com/gag/aZZWGWz)
- - 💣 [Evolution of Mickey Rourke](http://9gag.com/gag/avyZ3GZ)
- - 😝 [100 million dollars from the whole football world.](http://9gag.com/gag/aGyVWEX)
- - 👉 [American U16 women&#39;s basketball team standing next to El Salvador&#39;s U16 team](http://9gag.com/gag/aZZWGxz)<!-- MEMES:END -->
+ - 😝 [Reality check](http://9gag.com/gag/ae93Xpp)
+ - 😝 [Evolution of Mickey Rourke](http://9gag.com/gag/avyZ3GZ)
+ - 💣 [Just a prank bro](http://9gag.com/gag/a9yMQPo)
+ - 😝 [Germans having some fun](http://9gag.com/gag/aXPpZ0V)
+ - 👉 [Alexa, dammit](http://9gag.com/gag/aW40VLx)<!-- MEMES:END -->
 
 ---
 

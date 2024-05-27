@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Show me your more bizarre gif](http://9gag.com/gag/ajP0Qv1)
- - 😝 [Just Glue Yourself](http://9gag.com/gag/aGyV3yw)
+ - 😝 [Just a prank bro](http://9gag.com/gag/a9yMQPo)
+ - 😝 [Reality check](http://9gag.com/gag/ae93Xpp)
  - 💣 [Netflix casting done right? or do they need money right now?](http://9gag.com/gag/a0eP2xv)
- - 😝 [Germans having some fun](http://9gag.com/gag/aXPpZ0V)
- - 👉 [Reality check](http://9gag.com/gag/ae93Xpp)<!-- MEMES:END -->
+ - 😝 [Have a rest](http://9gag.com/gag/aRBgxqG)
+ - 👉 [100 million dollars from the whole football world.](http://9gag.com/gag/aGyVWEX)<!-- MEMES:END -->
 
 ---
 

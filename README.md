@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dating apps are trying to woo Gen Z women by boosting moderation tools and more; Tinder has consistently lost MAUs since 2021 and paid subs fell under 10M in Q1 &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/240527/p5#a240527p5)
  - [This Lego Apple Store model needs votes for a slim chance of getting made](https://appleinsider.com/articles/24/05/27/this-lego-apple-store-model-needs-votes-for-a-slim-chance-of-getting-made?utm_medium=rss)
  - [Elon Musk’s xAI raises $6 billion to fund its race against ChatGPT and all the rest](https://www.theverge.com/2024/5/27/24165619/elon-musk-xai-startup-6-billion-funding)
  - [Save 20% on Eve Smart Home Products Across Amazon Today     - CNET](https://www.cnet.com/deals/save-20-on-eve-smart-home-products-across-amazon-today/#ftag=CAD590a51e)
- - [The 8 Best Cooling Comforters of 2024     - CNET](https://www.cnet.com/health/sleep/8-best-cooling-comforters/#ftag=CAD590a51e)
- - [Get The Best Deal Ever on Apple&#39;s Latest iPad, Now at $329 for Memorial Day Weekend     - CNET](https://www.cnet.com/deals/get-the-best-deal-ever-on-apples-latest-ipad-now-at-329-for-memorial-day-weekend/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 8 Best Cooling Comforters of 2024     - CNET](https://www.cnet.com/health/sleep/8-best-cooling-comforters/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

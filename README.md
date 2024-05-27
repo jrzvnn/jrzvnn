@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Interview with Ecobee CEO Greg Fyke, affordable home key lock, &amp; Sonos headphones on HomeKit Insider](https://appleinsider.com/articles/24/05/27/interview-with-ecobee-ceo-greg-fyke-affordable-home-key-lock-sonos-headphones-on-homekit-insider?utm_medium=rss)
  - [Unhappy With a Service You’ve Been Paying For? It Might Be Time for a Breakup](https://www.wired.com/story/how-to-break-up-with-professional-service-providers/)
  - [AI computer showdown - MacBook Air vs. Microsoft Surface Laptop Copilot+ PC](https://appleinsider.com/articles/24/05/27/ai-computer-showdown---macbook-air-vs-microsoft-surface-laptop-copilot-pc?utm_medium=rss)
  - [Snag a Nintendo Switch This Memorial Day, Starting at Only $161     - CNET](https://www.cnet.com/deals/snag-a-nintendo-switch-this-memorial-day-starting-only-161/#ftag=CAD590a51e)
- - [Apple&#39;s Leather Link Watch Band Is Now Just $35 in Woot&#39;s Memorial Day Sales     - CNET](https://www.cnet.com/deals/apples-leather-link-watch-band-is-now-just-35-in-woots-memorial-day-sales/#ftag=CAD590a51e)
- - [Memorial Day Sales 2024: Make Huge Savings on TVs, Tech, Furniture and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-27/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s Leather Link Watch Band Is Now Just $35 in Woot&#39;s Memorial Day Sales     - CNET](https://www.cnet.com/deals/apples-leather-link-watch-band-is-now-just-35-in-woots-memorial-day-sales/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

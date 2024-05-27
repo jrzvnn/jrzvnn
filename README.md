@@ -167,7 +167,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Apple&#39;s iPad Pro designers talk about thinness and the Apple Pencil shadow](https://appleinsider.com/articles/24/05/27/apples-ipad-pro-designers-talk-about-thinness-and-the-apple-pencil-shadow?utm_medium=rss)
  - [Elon Musk says all of the $6B in xAI&#39;s Series B is new money rather than shares &quot;given&quot; to investors in Musk&#39;s takeover of Twitter &lpar;Axios&rpar;](http://www.techmeme.com/240527/p4#a240527p4)
  - [Memorial Day Sales 2024: Make Huge Savings on TVs, Tech, Furniture and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-27/#ftag=CAD590a51e)
- - [28 Best Early Memorial Day Mattress Deals &lpar;2024&rpar;](https://www.wired.com/story/best-mattress-deals/)
+ - [28 Best Memorial Day Mattress Deals &lpar;2024&rpar;](https://www.wired.com/story/best-mattress-deals/)
  - [How Netflix turned from chasing HBO to signing a deal with WWE](https://www.theverge.com/2024/5/27/24165556/netflix-hbo-content-programming-ted-sarandos-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

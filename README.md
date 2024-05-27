@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s M1 iPad Air Is $200 Off for Memorial Day     - CNET](https://www.cnet.com/deals/apples-m1-ipad-air-is-200-off-for-memorial-day/#ftag=CAD590a51e)
- - [Best Memorial Day Deals Under $50: Save on Top Tech, Home and Health Brands     - CNET](https://www.cnet.com/deals/best-memorial-day-deals-under-50-2024-05-27/#ftag=CAD590a51e)
- - [Score a 20-Watt Anker USB-C Power Strip at Amazon for Only $15 Today     - CNET](https://www.cnet.com/deals/score-a-20w-anker-usb-c-power-strip-at-amazon-for-only-15-today/#ftag=CAD590a51e)
- - [Memorial Day Sales 2024: Make Huge Savings on TVs, Tech, Furniture and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-27/#ftag=CAD590a51e)
- - [Best Memorial Day Smart Home Deals: Save Big on Smart Displays, Vacuums, Lights and More     - CNET](https://www.cnet.com/deals/best-memorial-day-smart-home-sales-2024-05-27/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at the growing importance of ads for video streaming services, as Antenna says that 56% of new subscribers chose the cheaper ad-supported tier in Q1 2024 &lpar;John Koblin/New York Times&rpar;](http://www.techmeme.com/240527/p6#a240527p6)
+ - [Target Memorial Day Sale 2024: Can&#39;t Miss Savings on Headphones, TVs and More     - CNET](https://www.cnet.com/deals/target-memorial-day-sale-2024-cant-miss-savings-on-headphones-tvs-and-more/#ftag=CAD590a51e)
+ - [Transform Your Space With an Essential Oil Diffuser Before Memorial Day Ends     - CNET](https://www.cnet.com/deals/transform-your-space-with-an-essential-oil-diffuser-before-memorial-day-ends/#ftag=CAD590a51e)
+ - [Home Depot Memorial Day Sale: Save Big on Outdoor Furniture, Appliances and More     - CNET](https://www.cnet.com/deals/home-depot-memorial-day-sales-2024-05-27/#ftag=CAD590a51e)
+ - [Memorial Day Sales 2024: Make Huge Savings on TVs, Tech, Furniture and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-27/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

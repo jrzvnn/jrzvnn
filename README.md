@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s iPad Pro designers talk about thinness and the Apple Pencil shadow](https://appleinsider.com/articles/24/05/27/apples-ipad-pro-designers-talk-about-thinness-and-the-apple-pencil-shadow?utm_medium=rss)
  - [Elon Musk says all of the $6B in xAI&#39;s Series B is new money rather than shares &quot;given&quot; to investors in Musk&#39;s takeover of Twitter &lpar;Axios&rpar;](http://www.techmeme.com/240527/p4#a240527p4)
+ - [Memorial Day Sales 2024: Make Huge Savings on TVs, Tech, Furniture and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-27/#ftag=CAD590a51e)
  - [28 Best Early Memorial Day Mattress Deals &lpar;2024&rpar;](https://www.wired.com/story/best-mattress-deals/)
- - [How Netflix turned from chasing HBO to signing a deal with WWE](https://www.theverge.com/2024/5/27/24165556/netflix-hbo-content-programming-ted-sarandos-interview)
- - [33 Best REI Anniversary Sale Deals &lpar;2024&rpar;: Fitness Trackers, Tents, Sleeping Bags, Headphones, Electric Bikes](https://www.wired.com/story/rei-anniversary-sale-may-2024/)
- - [The Unitree G1 Is a Short Humanoid Robot That Costs Just $16,000](https://www.wired.com/story/unitree-g1-humanoid-robot/)<!-- TECH:END -->
+ - [How Netflix turned from chasing HBO to signing a deal with WWE](https://www.theverge.com/2024/5/27/24165556/netflix-hbo-content-programming-ted-sarandos-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

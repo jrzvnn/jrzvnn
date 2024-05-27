@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mom, may I fly?](http://9gag.com/gag/aAyrBQp)
- - 😝 [UK to force teens to spend a year in the military](http://9gag.com/gag/avyZbqb)
- - 💣 [This is advanced simping](http://9gag.com/gag/avyZ3eW)
- - 😝 [Reclaim what&#39;s yours, no emotional blackmail](http://9gag.com/gag/aPA46yg)
- - 👉 [Show me your more bizarre gif](http://9gag.com/gag/ajP0Qv1)<!-- MEMES:END -->
+ - 😝 [If you follow a few simple rules you can achieve your Dreams](http://9gag.com/gag/aVvWOX8)
+ - 😝 [Netflix casting done right? or do they need money right now?](http://9gag.com/gag/a0eP2xv)
+ - 💣 [Show me your more bizarre gif](http://9gag.com/gag/ajP0Qv1)
+ - 😝 [Full Video in Comment Section](http://9gag.com/gag/awyK0P8)
+ - 👉 [This is advanced simping](http://9gag.com/gag/avyZ3eW)<!-- MEMES:END -->
 
 ---
 

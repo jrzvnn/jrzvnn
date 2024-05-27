@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not all the taxis are the same, especially in the UK](http://9gag.com/gag/agmvrEK)
- - 😝 [Hol up](http://9gag.com/gag/a0eP2Ez)
- - 💣 [This is advanced simping](http://9gag.com/gag/avyZ3eW)
- - 😝 [Walt knew what he was up against and he made the best choice, lmao.](http://9gag.com/gag/aoy0EVw)
- - 👉 [Netflix casting done right? or do they need money right now?](http://9gag.com/gag/a0eP2xv)<!-- MEMES:END -->
+ - 😝 [Show me your more bizarre gif](http://9gag.com/gag/ajP0Qv1)
+ - 😝 [Netflix casting done right? or do they need money right now?](http://9gag.com/gag/a0eP2xv)
+ - 💣 [Have a rest](http://9gag.com/gag/aRBgxqG)
+ - 😝 [Poland: driver just said: Gentelman, can you escort us to hospital because of the baby?](http://9gag.com/gag/a7oyv4b)
+ - 👉 [Life hacks](http://9gag.com/gag/aZZWGWz)<!-- MEMES:END -->
 
 ---
 

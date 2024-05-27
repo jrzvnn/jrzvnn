@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s MacBook Pro price war knocks $300 off Apple&#39;s M3 Max 16-inch with 48GB RAM](https://appleinsider.com/articles/24/05/27/todays-macbook-pro-price-war-knocks-300-off-apples-m3-max-16-inch-with-48gb-ram?utm_medium=rss)
+ - [Memorial Day 2024 Furniture Sales: Biggest Deals on Beds, Sofas, Dressers and More     - CNET](https://www.cnet.com/deals/memorial-day-furniture-sales-2024-05-26/#ftag=CAD590a51e)
  - [Memorial Day Sales 2024: Save Big Bucks on Tech, Home, TVs and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-26/#ftag=CAD590a51e)
  - [Best Xbox Cloud Gaming Controllers and Accessories in 2024     - CNET](https://www.cnet.com/tech/mobile/best-controllers-and-accessories-for-xbox-cloud-gaming/#ftag=CAD590a51e)
- - [The Best Sunscreens, Yoga Mats and Weights Now On Sale for Memorial Day     - CNET](https://www.cnet.com/deals/the-best-memorial-day-wellness-deals-to-give-your-health-a-boost/#ftag=CAD590a51e)
- - [An analysis of ChatGPT, Claude, Copilot, Gemini, and Perplexity&#39;s responses to some real-life questions and everyday tasks: Perplexity ranked first overall &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240526/p10#a240526p10)
- - [Best Cordless Vacuums for 2024     - CNET](https://www.cnet.com/home/kitchen-and-household/best-cordless-vacuum/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Sunscreens, Yoga Mats and Weights Now on Sale for Memorial Day     - CNET](https://www.cnet.com/deals/the-best-memorial-day-wellness-deals-to-give-your-health-a-boost/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China set up a new $47.5B state-backed investment fund on May 24 to boost the country&#39;s semiconductor industry &lpar;Reuters&rpar;](http://www.techmeme.com/240526/p11#a240526p11)
  - [Memorial Day Sales 2024: Save Big Bucks on Tech, Home, TVs and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-26/#ftag=CAD590a51e)
  - [Today&#39;s MacBook Pro price war knocks $300 off Apple&#39;s M3 Max 16-inch with 48GB RAM](https://appleinsider.com/articles/24/05/27/todays-macbook-pro-price-war-knocks-300-off-apples-m3-max-16-inch-with-48gb-ram?utm_medium=rss)
  - [Best Memorial Day Deals Under $100: TVs, Speakers, Headphones, Coffee Makers and More     - CNET](https://www.cnet.com/deals/best-memorial-day-deals-under-100-2024-05-26/#ftag=CAD590a51e)
- - [Memorial Day 2024 Furniture Sales: Biggest Deals on Beds, Sofas, Dressers and More     - CNET](https://www.cnet.com/deals/memorial-day-furniture-sales-2024-05-26/#ftag=CAD590a51e)
- - [Best Xbox Cloud Gaming Controllers and Accessories in 2024     - CNET](https://www.cnet.com/tech/mobile/best-controllers-and-accessories-for-xbox-cloud-gaming/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Memorial Day 2024 Furniture Sales: Biggest Deals on Beds, Sofas, Dressers and More     - CNET](https://www.cnet.com/deals/memorial-day-furniture-sales-2024-05-26/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

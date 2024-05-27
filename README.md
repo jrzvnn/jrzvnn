@@ -165,10 +165,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Dating apps are trying to woo Gen Z women by boosting moderation tools and more; Tinder has consistently lost MAUs since 2021 and paid subs fell under 10M in Q1 &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/240527/p5#a240527p5)
- - [This Lego Apple Store model needs votes for a slim chance of getting made](https://appleinsider.com/articles/24/05/27/this-lego-apple-store-model-needs-votes-for-a-slim-chance-of-getting-made?utm_medium=rss)
- - [Elon Musk’s xAI raises $6 billion to fund its race against ChatGPT and all the rest](https://www.theverge.com/2024/5/27/24165619/elon-musk-xai-startup-6-billion-funding)
- - [Save 20% on Eve Smart Home Products Across Amazon Today     - CNET](https://www.cnet.com/deals/save-20-on-eve-smart-home-products-across-amazon-today/#ftag=CAD590a51e)
- - [The 8 Best Cooling Comforters of 2024     - CNET](https://www.cnet.com/health/sleep/8-best-cooling-comforters/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Memorial Day Sales 2024: Make Huge Savings on TVs, Tech, Furniture and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-27/#ftag=CAD590a51e)
+ - [Best Smart Home Gyms for 2024     - CNET](https://www.cnet.com/health/fitness/best-smart-home-gym/#ftag=CAD590a51e)
+ - [Best Creatine Supplements of 2024     - CNET](https://www.cnet.com/health/nutrition/best-creatine-supplements/#ftag=CAD590a51e)
+ - [Apple&#39;s Latest iPad Is Now at a Record Low Price of $299 for Memorial Day     - CNET](https://www.cnet.com/deals/apples-latest-ipad-is-now-at-a-record-low-price-of-299-for-memorial-day/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Poland: driver just said: Gentelman, can you escort us to hospital because of the baby?](http://9gag.com/gag/a7oyv4b)
- - 😝 [Show me your more bizarre gif](http://9gag.com/gag/ajP0Qv1)
- - 💣 [White](http://9gag.com/gag/a9yLbD6)
- - 😝 [Gentlemen. My fav movie scene.](http://9gag.com/gag/a87YLzV)
- - 👉 [Feminist&#39;s will be furious](http://9gag.com/gag/ae90N3W)<!-- MEMES:END -->
+ - 😝 [Add `&amp;udm=14` to remove the useless AI results.](http://9gag.com/gag/an7KYyq)
+ - 😝 [I will beat her lifeless if it\u2019s the last thing I do](http://9gag.com/gag/ae90Nxp)
+ - 💣 [Feminist&#39;s will be furious](http://9gag.com/gag/ae90N3W)
+ - 😝 [White](http://9gag.com/gag/a9yLbD6)
+ - 👉 [Show me your more bizarre gif](http://9gag.com/gag/ajP0Qv1)<!-- MEMES:END -->
 
 ---
 

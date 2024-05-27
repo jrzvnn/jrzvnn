@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Man can&#39;t watch football and has to wash dishes tonight.](http://9gag.com/gag/aMVbpz6)
  - 😝 [Mom, may I fly?](http://9gag.com/gag/aAyrBQp)
- - 💣 [Reality check](http://9gag.com/gag/ae93Xpp)
- - 😝 [Today it randomly snowed in mexico &lpar;puebla&rpar;\u2026 in the summer\u2026 during a heatwave. It melted immediately and people\u2019s homes are getting flooded](http://9gag.com/gag/aW40zwK)
- - 👉 [Foreigners right now in Germany after seeing Germany&#39;s new hit song](http://9gag.com/gag/ae93Xrv)<!-- MEMES:END -->
+ - 😝 [Nature: `Mercy..? Never heard of her..`](http://9gag.com/gag/ae93vnB)
+ - 💣 [Not all the taxis are the same, especially in the UK](http://9gag.com/gag/agmvrEK)
+ - 😝 [No fat chicks please](http://9gag.com/gag/aVvQNAd)
+ - 👉 [Today it randomly snowed in mexico &lpar;puebla&rpar;\u2026 in the summer\u2026 during a heatwave. It melted immediately and people\u2019s homes are getting flooded](http://9gag.com/gag/aW40zwK)<!-- MEMES:END -->
 
 ---
 

@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [White](http://9gag.com/gag/a9yLbD6)
- - 😝 [Lol](http://9gag.com/gag/aAyrR2p)
+ - 😝 [The printer-like method of this artist painting a large mural](http://9gag.com/gag/aAyVnA2)
+ - 😝 [Tiger nearly swiping a guy off an elephant](http://9gag.com/gag/a34d965)
  - 💣 [Feminist&#39;s will be furious](http://9gag.com/gag/ae90N3W)
- - 😝 [Poland: driver just said: Gentelman, can you escort us to hospital because of the baby?](http://9gag.com/gag/a7oyv4b)
- - 👉 [Real](http://9gag.com/gag/aZZxPDV)<!-- MEMES:END -->
+ - 😝 [Show me your more bizarre gif](http://9gag.com/gag/ajP0Qv1)
+ - 👉 [White](http://9gag.com/gag/a9yLbD6)<!-- MEMES:END -->
 
 ---
 

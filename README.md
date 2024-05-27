@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mom, may I fly?](http://9gag.com/gag/aAyrBQp)
- - 😝 [Nature: `Mercy..? Never heard of her..`](http://9gag.com/gag/ae93vnB)
- - 💣 [Not all the taxis are the same, especially in the UK](http://9gag.com/gag/agmvrEK)
- - 😝 [No fat chicks please](http://9gag.com/gag/aVvQNAd)
- - 👉 [Today it randomly snowed in mexico &lpar;puebla&rpar;\u2026 in the summer\u2026 during a heatwave. It melted immediately and people\u2019s homes are getting flooded](http://9gag.com/gag/aW40zwK)<!-- MEMES:END -->
+ - 😝 [Evolution of Mickey Rourke](http://9gag.com/gag/avyZ3GZ)
+ - 😝 [Celebrating too early, an ancient Monaco edition Christian Horner remembers.](http://9gag.com/gag/aD2wELK)
+ - 💣 [Just a prank bro](http://9gag.com/gag/a9yMQPo)
+ - 😝 [There\u2019s gotta be context missing. What else did he do?](http://9gag.com/gag/aKGgRZO)
+ - 👉 [A trope that has always confused me.](http://9gag.com/gag/aryej76)<!-- MEMES:END -->
 
 ---
 

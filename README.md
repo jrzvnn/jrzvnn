@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dating apps are trying to woo Gen Z women by boosting moderation tools and more; Tinder has consistently lost MAUs since 2021 and paid subs fell under 10M in Q1 &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/240527/p5#a240527p5)
+ - [Apple&#39;s M1 iPad Air Is $200 Off for Memorial Day     - CNET](https://www.cnet.com/deals/apples-m1-ipad-air-is-200-off-for-memorial-day/#ftag=CAD590a51e)
+ - [Best Memorial Day Deals Under $50: Save on Top Tech, Home and Health Brands     - CNET](https://www.cnet.com/deals/best-memorial-day-deals-under-50-2024-05-27/#ftag=CAD590a51e)
+ - [Score a 20-Watt Anker USB-C Power Strip at Amazon for Only $15 Today     - CNET](https://www.cnet.com/deals/score-a-20w-anker-usb-c-power-strip-at-amazon-for-only-15-today/#ftag=CAD590a51e)
  - [Memorial Day Sales 2024: Make Huge Savings on TVs, Tech, Furniture and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-27/#ftag=CAD590a51e)
- - [Best Smart Home Gyms for 2024     - CNET](https://www.cnet.com/health/fitness/best-smart-home-gym/#ftag=CAD590a51e)
- - [Best Creatine Supplements of 2024     - CNET](https://www.cnet.com/health/nutrition/best-creatine-supplements/#ftag=CAD590a51e)
- - [Apple&#39;s Latest iPad Is Now at a Record Low Price of $299 for Memorial Day     - CNET](https://www.cnet.com/deals/apples-latest-ipad-is-now-at-a-record-low-price-of-299-for-memorial-day/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Memorial Day Smart Home Deals: Save Big on Smart Displays, Vacuums, Lights and More     - CNET](https://www.cnet.com/deals/best-memorial-day-smart-home-sales-2024-05-27/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,10 +165,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Elon Musk&#39;s xAI says it raised a $6B Series B at a pre-money valuation of $18B from investors including Valor Equity, Vy Capital, a16z, Sequoia, and others &lpar;x.ai&rpar;](http://www.techmeme.com/240527/p1#a240527p1)
- - [China set up a new $47.5B state-backed investment fund on May 24 to boost the country&#39;s semiconductor industry &lpar;Reuters&rpar;](http://www.techmeme.com/240526/p11#a240526p11)
+ - [Get Up to 50% Off DreamCloud Mattresses This Memorial Day     - CNET](https://www.cnet.com/deals/dreamcloud-memorial-day-deal-2024/#ftag=CAD590a51e)
+ - [The Purple Mattress I Slept on for 5 Years Is on Sale This Memorial Day     - CNET](https://www.cnet.com/deals/purple-mattress-memorial-day-2024/#ftag=CAD590a51e)
  - [Memorial Day Sales 2024: Save Big Bucks on Tech, Home, TVs and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-26/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints and Answers: Help for May 27, #351     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hint-answer-for-may-27-351/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints and Answer: Help for May 27, #1073     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-and-answer-help-for-may-27-1073/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [China set up a new $47.5B state-backed investment fund on May 24 to boost the country&#39;s semiconductor industry &lpar;Reuters&rpar;](http://www.techmeme.com/240526/p11#a240526p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

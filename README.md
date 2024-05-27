@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just a prank bro](http://9gag.com/gag/a9yMQPo)
- - 😝 [Reality check](http://9gag.com/gag/ae93Xpp)
+ - 😝 [Show me your more bizarre gif](http://9gag.com/gag/ajP0Qv1)
+ - 😝 [Crimson chin looking ass](http://9gag.com/gag/adB6mZD)
  - 💣 [Netflix casting done right? or do they need money right now?](http://9gag.com/gag/a0eP2xv)
- - 😝 [Have a rest](http://9gag.com/gag/aRBgxqG)
- - 👉 [100 million dollars from the whole football world.](http://9gag.com/gag/aGyVWEX)<!-- MEMES:END -->
+ - 😝 [I\u2019m an OP so my choice is clear](http://9gag.com/gag/a9yLb4j)
+ - 👉 [This is advanced simping](http://9gag.com/gag/avyZ3eW)<!-- MEMES:END -->
 
 ---
 

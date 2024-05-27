@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I\u2019m an OP so my choice is clear](http://9gag.com/gag/a9yLb4j)
+ - 😝 [Gentlemen. My fav movie scene.](http://9gag.com/gag/a87YLzV)
  - 😝 [Tiger nearly swiping a guy off an elephant](http://9gag.com/gag/a34d965)
- - 💣 [Can&#39;t they see how cool this style is?](http://9gag.com/gag/aNDZeWb)
- - 😝 [White](http://9gag.com/gag/a9yLbD6)
- - 👉 [Gentlemen. My fav movie scene.](http://9gag.com/gag/a87YLzV)<!-- MEMES:END -->
+ - 💣 [White](http://9gag.com/gag/a9yLbD6)
+ - 😝 [Mom, may I fly?](http://9gag.com/gag/aAyrBQp)
+ - 👉 [Have a rest](http://9gag.com/gag/aRBgxqG)<!-- MEMES:END -->
 
 ---
 

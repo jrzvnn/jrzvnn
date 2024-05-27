@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lighting strike obliterated George Floyd&#39;s Mural in Ohio, striking his face](http://9gag.com/gag/ae93onj)
- - 😝 [His face](http://9gag.com/gag/a0eP20d)
- - 💣 [This is Syria, where more than 300,000 civilian men, women, and children have been killed &lpar;millions more displaced&rpar;. You won&#39;t see college students marching around the world, or screaming about genocide. Why? Because it&#39;s Muslims killing Muslims, which doesn&#39;t fit the narrative.](http://9gag.com/gag/a5QPpog)
- - 😝 [The bathroom was full with tampons that had feces on them, empty lube pacs etc. The office manager is a based goth girl and wrote that `they / them can clean it themselfs`](http://9gag.com/gag/amoLD1X)
- - 👉 [Helping a bro out](http://9gag.com/gag/aRBP6w2)<!-- MEMES:END -->
+ - 😝 [Man can&#39;t watch football and has to wash dishes tonight.](http://9gag.com/gag/aMVbpz6)
+ - 😝 [Mom, may I fly?](http://9gag.com/gag/aAyrBQp)
+ - 💣 [Reality check](http://9gag.com/gag/ae93Xpp)
+ - 😝 [Today it randomly snowed in mexico &lpar;puebla&rpar;\u2026 in the summer\u2026 during a heatwave. It melted immediately and people\u2019s homes are getting flooded](http://9gag.com/gag/aW40zwK)
+ - 👉 [Foreigners right now in Germany after seeing Germany&#39;s new hit song](http://9gag.com/gag/ae93Xrv)<!-- MEMES:END -->
 
 ---
 

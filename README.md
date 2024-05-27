@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WTF Is With the Pink Pineapples at the Grocery Store?!](https://www.wired.com/story/pink-pineapples-grocery-store-pinkglow-genetically-modified/)
  - [Best Target Memorial Day Sales: Can&#39;t-Miss Savings on Headphones, TVs and More     - CNET](https://www.cnet.com/deals/best-target-memorial-day-sales-2024-05-27/#ftag=CAD590a51e)
  - [Best Memorial Day TV Sales: Grab Massive Savings Today on 4K TVs, OLED Models and More     - CNET](https://www.cnet.com/deals/best-memorial-day-tv-sales-2024-05-27/#ftag=CAD590a51e)
  - [How Many Charging Stations Would We Need to Totally Replace Gas Stations?](https://www.wired.com/story/how-many-charging-stations-would-we-need-to-totally-replace-gas-stations/)
- - [Memorial Day Sales 2024: Make Huge Savings on TVs, Tech, Furniture and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-27/#ftag=CAD590a51e)
- - [Best Walmart Memorial Day Sales 2024: Save Big Today With Deals on Tech, TVs, Home and More     - CNET](https://www.cnet.com/deals/best-walmart-memorial-day-sales-2024-05-27/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Memorial Day Sales 2024: Make Huge Savings on TVs, Tech, Furniture and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-27/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

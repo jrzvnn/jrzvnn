@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Memorial Day Sales 2024: Save Big Bucks on Tech, Home, TVs and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-26/#ftag=CAD590a51e)
+ - [Best Xbox Cloud Gaming Controllers and Accessories in 2024     - CNET](https://www.cnet.com/tech/mobile/best-controllers-and-accessories-for-xbox-cloud-gaming/#ftag=CAD590a51e)
+ - [The Best Sunscreens, Yoga Mats and Weights Now On Sale for Memorial Day     - CNET](https://www.cnet.com/deals/the-best-memorial-day-wellness-deals-to-give-your-health-a-boost/#ftag=CAD590a51e)
  - [An analysis of ChatGPT, Claude, Copilot, Gemini, and Perplexity&#39;s responses to some real-life questions and everyday tasks: Perplexity ranked first overall &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240526/p10#a240526p10)
- - [Shop Cotopaxi&#39;s Memorial Day Sale to Snag Outdoor Gear at Discounted Prices     - CNET](https://www.cnet.com/deals/shop-cotopaxis-memorial-day-sale-to-snag-outdoor-gear-at-discounted-prices/#ftag=CAD590a51e)
- - [Air Purifiers Are Up to 30% Off During Blueair&#39;s Memorial Day Sale     - CNET](https://www.cnet.com/deals/air-purifiers-are-up-to-30-off-during-blueairs-memorial-day-sale/#ftag=CAD590a51e)
- - [I Bought This Awesome RC Car for 50% Off Thanks to Memorial Day Sales and You Should Too     - CNET](https://www.cnet.com/deals/i-bought-this-awesome-rc-car-for-50-off-thanks-to-memorial-day-sales-and-you-should-too/#ftag=CAD590a51e)
- - [Best Mattress for Combination Sleepers for 2024     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-combination-sleepers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Cordless Vacuums for 2024     - CNET](https://www.cnet.com/home/kitchen-and-household/best-cordless-vacuum/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

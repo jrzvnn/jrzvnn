@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OLED iPad Pro screens could hit 9 million shipments in 2024](https://appleinsider.com/articles/24/05/27/oled-ipad-pro-screens-could-hit-9-million-shipments-in-2024?utm_medium=rss)
+ - [The Rebirth of Queer Cruising Apps](https://www.wired.com/story/the-rebirth-of-queer-cruising-apps-sniffies-bkdr-motto/)
  - [Data.ai: of the top 20 education apps in the US App Store, five are AI agents that help with school assignments, the two most popular of which are Chinese-owned &lpar;Rita Liao/TechCrunch&rpar;](http://www.techmeme.com/240527/p3#a240527p3)
  - [Memorial Day Sales 2024: Make Huge Savings on TVs, Tech, Furniture and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-27/#ftag=CAD590a51e)
- - [Best Memorial Day Home Security Sales: Upgrade Doorbell, Cameras and Locks for Less     - CNET](https://www.cnet.com/deals/best-memorial-day-home-security-sales-2024-05-27/#ftag=CAD590a51e)
- - [Best Memorial Day Smart Home Deals: Save Big on Smart Displays, Vacuums, Lights and More     - CNET](https://www.cnet.com/deals/best-memorial-day-smart-home-sales-2024-05-27/#ftag=CAD590a51e)
- - [Best Memorial Day Mattress Sales: Score Steep Savings Today on Mattresses, Sleep Bundles and More     - CNET](https://www.cnet.com/deals/best-memorial-day-mattress-sales-2024-05-27/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Memorial Day Home Security Sales: Upgrade Doorbell, Cameras and Locks for Less     - CNET](https://www.cnet.com/deals/best-memorial-day-home-security-sales-2024-05-27/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

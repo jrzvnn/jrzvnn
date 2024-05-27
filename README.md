@@ -164,7 +164,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s MacBook Air with 16GB RAM, 512GB SSD drops to record low $1,269](https://appleinsider.com/articles/24/05/27/apples-macbook-air-with-16gb-ram-512gb-ssd-drops-to-record-low-1269?utm_medium=rss)
+ - [Apple&#39;s MacBook Air with 16GB RAM, 512GB SSD drops to record low $1,239](https://appleinsider.com/articles/24/05/27/apples-macbook-air-with-16gb-ram-512gb-ssd-drops-to-record-low-1269?utm_medium=rss)
  - [Memorial Day Sales 2024: Make Huge Savings on TVs, Tech, Furniture and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-27/#ftag=CAD590a51e)
  - [Score Up to $1,700 Off This Jackery Portable Power Station and Solar Generator Bundle     - CNET](https://www.cnet.com/deals/score-up-to-1700-off-this-new-jackery-portable-power-station-and-solar-generator-bundle/#ftag=CAD590a51e)
  - [Best Memorial Day Laptop Deals: Save Hundreds on MacBooks, Lenovo, HP and Chromebooks     - CNET](https://www.cnet.com/deals/best-memorial-day-laptop-sales-2024-05-27/#ftag=CAD590a51e)

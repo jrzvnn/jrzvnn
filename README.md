@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Many Charging Stations Would We Need to Totally Replace Gas Stations?](https://www.wired.com/story/how-many-charging-stations-would-we-need-to-totally-replace-gas-stations/)
  - [The Auroras Should Be Spectacular This Summer, Thanks to Solar Maximum](https://www.wired.com/story/solar-maximum-aurora-northern-lights-2024-cme-sunspots/)
  - [Q&amp;A with Netflix&#39;s Ted Sarandos on the state of Hollywood, shifting US tastes, programming strategy, ads, corporate activism, YouTube, live events, AI, and more &lpar;Lulu Garcia-Navarro/New York Times&rpar;](http://www.techmeme.com/240527/p2#a240527p2)
  - [Memorial Day Sales 2024: Make Huge Savings on TVs, Tech, Furniture and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-27/#ftag=CAD590a51e)
- - [Best Memorial Day Mattress Sales: Score Super Savings on Mattresses, Sleep Bundles and More     - CNET](https://www.cnet.com/deals/best-memorial-day-mattress-deals-2024-05-26/#ftag=CAD590a51e)
- - [Elon Musk&#39;s xAI says it raised a $6B Series B at a pre-money valuation of $18B from investors including Valor Equity, Vy Capital, a16z, Sequoia, and others &lpar;x.ai&rpar;](http://www.techmeme.com/240527/p1#a240527p1)<!-- TECH:END -->
+ - [Best Memorial Day Mattress Sales: Score Super Savings on Mattresses, Sleep Bundles and More     - CNET](https://www.cnet.com/deals/best-memorial-day-mattress-deals-2024-05-26/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

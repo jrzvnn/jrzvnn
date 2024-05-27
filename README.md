@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Show me your more bizarre gif](http://9gag.com/gag/ajP0Qv1)
- - 😝 [Netflix casting done right? or do they need money right now?](http://9gag.com/gag/a0eP2xv)
- - 💣 [Have a rest](http://9gag.com/gag/aRBgxqG)
- - 😝 [Poland: driver just said: Gentelman, can you escort us to hospital because of the baby?](http://9gag.com/gag/a7oyv4b)
- - 👉 [Life hacks](http://9gag.com/gag/aZZWGWz)<!-- MEMES:END -->
+ - 😝 [Have a rest](http://9gag.com/gag/aRBgxqG)
+ - 😝 [Alexa, dammit](http://9gag.com/gag/aW40VLx)
+ - 💣 [Just a prank bro](http://9gag.com/gag/a9yMQPo)
+ - 😝 [Evolution of Mickey Rourke](http://9gag.com/gag/avyZ3GZ)
+ - 👉 [American U16 women&#39;s basketball team standing next to El Salvador&#39;s U16 team](http://9gag.com/gag/aZZWGxz)<!-- MEMES:END -->
 
 ---
 

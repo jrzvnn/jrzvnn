@@ -173,10 +173,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Not all the taxis are the same, especially in the UK](http://9gag.com/gag/agmvrEK)
  - 😝 [Hol up](http://9gag.com/gag/a0eP2Ez)
- - 😝 [Just Glue Yourself](http://9gag.com/gag/aGyV3yw)
- - 💣 [Just a prank bro](http://9gag.com/gag/a9yMQPo)
- - 😝 [Poland: driver just said: Gentelman, can you escort us to hospital because of the baby?](http://9gag.com/gag/a7oyv4b)
+ - 💣 [This is advanced simping](http://9gag.com/gag/avyZ3eW)
+ - 😝 [Walt knew what he was up against and he made the best choice, lmao.](http://9gag.com/gag/aoy0EVw)
  - 👉 [Netflix casting done right? or do they need money right now?](http://9gag.com/gag/a0eP2xv)<!-- MEMES:END -->
 
 ---

@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Show me your more bizarre gif](http://9gag.com/gag/ajP0Qv1)
- - 😝 [Add `&amp;udm=14` to remove the useless AI results.](http://9gag.com/gag/an7KYyq)
+ - 😝 [White](http://9gag.com/gag/a9yLbD6)
+ - 😝 [Feminist&#39;s will be furious](http://9gag.com/gag/ae90N3W)
  - 💣 [Have a rest](http://9gag.com/gag/aRBgxqG)
- - 😝 [Gentlemen. My fav movie scene.](http://9gag.com/gag/a87YLzV)
- - 👉 [Feminist&#39;s will be furious](http://9gag.com/gag/ae90N3W)<!-- MEMES:END -->
+ - 😝 [Premium class on the security floor of the baggage compartment? -Boldly.](http://9gag.com/gag/awyKbVr)
+ - 👉 [I will beat her lifeless if it\u2019s the last thing I do](http://9gag.com/gag/ae90Nxp)<!-- MEMES:END -->
 
 ---
 

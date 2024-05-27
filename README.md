@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [-Which allergy do you have? -Yes](http://9gag.com/gag/aQz4P2d)
- - 😝 [Can&#39;t they see how cool this style is?](http://9gag.com/gag/aNDZeWb)
- - 💣 [Mom, may I fly?](http://9gag.com/gag/aAyrBQp)
- - 😝 [Have a rest](http://9gag.com/gag/aRBgxqG)
- - 👉 [Feminist&#39;s will be furious](http://9gag.com/gag/ae90N3W)<!-- MEMES:END -->
+ - 😝 [Feminist&#39;s will be furious](http://9gag.com/gag/ae90N3W)
+ - 😝 [With great power comes great comedy](http://9gag.com/gag/adBYN0j)
+ - 💣 [Lol](http://9gag.com/gag/aAyrR2p)
+ - 😝 [Real](http://9gag.com/gag/aZZxPDV)
+ - 👉 [Poland: driver just said: Gentelman, can you escort us to hospital because of the baby?](http://9gag.com/gag/a7oyv4b)<!-- MEMES:END -->
 
 ---
 

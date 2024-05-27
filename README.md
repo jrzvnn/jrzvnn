@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk says all of the $6B in xAI&#39;s Series B is new money rather than shares &quot;given&quot; to investors in Musk&#39;s takeover of Twitter &lpar;Axios&rpar;](http://www.techmeme.com/240527/p4#a240527p4)
  - [28 Best Early Memorial Day Mattress Deals &lpar;2024&rpar;](https://www.wired.com/story/best-mattress-deals/)
  - [How Netflix turned from chasing HBO to signing a deal with WWE](https://www.theverge.com/2024/5/27/24165556/netflix-hbo-content-programming-ted-sarandos-interview)
  - [33 Best REI Anniversary Sale Deals &lpar;2024&rpar;: Fitness Trackers, Tents, Sleeping Bags, Headphones, Electric Bikes](https://www.wired.com/story/rei-anniversary-sale-may-2024/)
- - [The Unitree G1 Is a Short Humanoid Robot That Costs Just $16,000](https://www.wired.com/story/unitree-g1-humanoid-robot/)
- - [HBO’s MoviePass doc is a snapshot of how C-suites kill companies](https://www.theverge.com/24160812/moviepass-moviecrash-review)<!-- TECH:END -->
+ - [The Unitree G1 Is a Short Humanoid Robot That Costs Just $16,000](https://www.wired.com/story/unitree-g1-humanoid-robot/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

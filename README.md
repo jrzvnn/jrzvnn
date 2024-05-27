@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I\u2019m an OP so my choice is clear](http://9gag.com/gag/a9yLb4j)
- - 😝 [Hol up](http://9gag.com/gag/a0eP2Ez)
- - 💣 [Poland: driver just said: Gentelman, can you escort us to hospital because of the baby?](http://9gag.com/gag/a7oyv4b)
- - 😝 [Germans having some fun](http://9gag.com/gag/aXPpZ0V)
- - 👉 [Netflix casting done right? or do they need money right now?](http://9gag.com/gag/a0eP2xv)<!-- MEMES:END -->
+ - 😝 [Mom, may I fly?](http://9gag.com/gag/aAyrBQp)
+ - 😝 [UK to force teens to spend a year in the military](http://9gag.com/gag/avyZbqb)
+ - 💣 [This is advanced simping](http://9gag.com/gag/avyZ3eW)
+ - 😝 [Reclaim what&#39;s yours, no emotional blackmail](http://9gag.com/gag/aPA46yg)
+ - 👉 [Show me your more bizarre gif](http://9gag.com/gag/ajP0Qv1)<!-- MEMES:END -->
 
 ---
 

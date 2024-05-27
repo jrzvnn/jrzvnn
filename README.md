@@ -165,7 +165,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Q&amp;A with Netflix&#39;s Ted Sarandos on the state of Hollywood, shifting US tastes, programming strategy, ads, corporate activism, YouTube, live events, AI, and more &lpar;Lulu Garcia-Navarro/New York Times&rpar;](http://www.techmeme.com/240527/p2#a240527p2)
- - [Memorial Day Sales 2024: Save Big Bucks on Tech, Home, TVs and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-26/#ftag=CAD590a51e)
+ - [Memorial Day Sales 2024: Make Huge Savings on TVs, Tech, Furniture and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-27/#ftag=CAD590a51e)
  - [Best Memorial Day Mattress Sales: Score Super Savings on Mattresses, Sleep Bundles and More     - CNET](https://www.cnet.com/deals/best-memorial-day-mattress-deals-2024-05-26/#ftag=CAD590a51e)
  - [Elon Musk&#39;s xAI says it raised a $6B Series B at a pre-money valuation of $18B from investors including Valor Equity, Vy Capital, a16z, Sequoia, and others &lpar;x.ai&rpar;](http://www.techmeme.com/240527/p1#a240527p1)
  - [Get Up to 50% Off DreamCloud Mattresses This Memorial Day     - CNET](https://www.cnet.com/deals/dreamcloud-memorial-day-deal-2024/#ftag=CAD590a51e)<!-- TECH:END -->

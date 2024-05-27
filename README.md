@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gentlemen. My fav movie scene.](http://9gag.com/gag/a87YLzV)
- - 😝 [Can&#39;t they see how cool this style is?](http://9gag.com/gag/aNDZeWb)
- - 💣 [Have a rest](http://9gag.com/gag/aRBgxqG)
- - 😝 [White](http://9gag.com/gag/a9yLbD6)
- - 👉 [I will beat her lifeless if it\u2019s the last thing I do](http://9gag.com/gag/ae90Nxp)<!-- MEMES:END -->
+ - 😝 [I\u2019m an OP so my choice is clear](http://9gag.com/gag/a9yLb4j)
+ - 😝 [Poland: driver just said: Gentelman, can you escort us to hospital because of the baby?](http://9gag.com/gag/a7oyv4b)
+ - 💣 [Women](http://9gag.com/gag/aqyNm0Y)
+ - 😝 [HALT!!](http://9gag.com/gag/aqyNmzv)
+ - 👉 [Real](http://9gag.com/gag/aZZxPDV)<!-- MEMES:END -->
 
 ---
 

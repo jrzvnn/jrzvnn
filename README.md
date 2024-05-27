@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [35 Best Memorial Day Sales &lpar;2024&rpar;: TVs, Office Chairs, and Ebikes](https://www.wired.com/story/best-memorial-day-sales-2024/)
  - [The best Memorial Day sales happening now](https://www.theverge.com/24161521/best-memorial-day-sales-2024-tech-deals-tvs-headphones-robot-vacuums-electronics)
- - [Apple&#39;s iPad Pro designers talk about thinness and the Apple Pencil shadow](https://appleinsider.com/articles/24/05/27/apples-ipad-pro-designers-talk-about-thinness-and-the-apple-pencil-shadow?utm_medium=rss)
- - [Elon Musk says all of the $6B in xAI&#39;s Series B is new money rather than shares &quot;given&quot; to investors in Musk&#39;s takeover of Twitter &lpar;Axios&rpar;](http://www.techmeme.com/240527/p4#a240527p4)
+ - [Liven Up Your Memorial Day Party With Big Savings on the JBL Clip 4 Mini Speaker     - CNET](https://www.cnet.com/deals/liven-up-your-memorial-day-party-with-big-savings-on-the-jbl-clip-4-mini-speaker/#ftag=CAD590a51e)
  - [Memorial Day Sales 2024: Make Huge Savings on TVs, Tech, Furniture and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-27/#ftag=CAD590a51e)
- - [28 Best Memorial Day Mattress Deals &lpar;2024&rpar;](https://www.wired.com/story/best-mattress-deals/)<!-- TECH:END -->
+ - [Score the Massive Samsung OLED TV at an Unbeatable Price This Memorial Day     - CNET](https://www.cnet.com/deals/score-massive-samsung-oled-tv-at-an-unbeatable-price-memorial-day/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

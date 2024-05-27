@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best bike ride ever](http://9gag.com/gag/a1mZzgb)
- - 😝 [Foreigners right now in Germany after seeing Germany&#39;s new hit song](http://9gag.com/gag/ae93Xrv)
- - 💣 [Just a prank bro](http://9gag.com/gag/a9yMQPo)
  - 😝 [American U16 women&#39;s basketball team standing next to El Salvador&#39;s U16 team](http://9gag.com/gag/aZZWGxz)
- - 👉 [Poland: driver just said: Gentelman, can you escort us to hospital because of the baby?](http://9gag.com/gag/a7oyv4b)<!-- MEMES:END -->
+ - 😝 [Reclaim what&#39;s yours, no emotional blackmail](http://9gag.com/gag/aPA46yg)
+ - 💣 [Mom, may I fly?](http://9gag.com/gag/aAyrBQp)
+ - 😝 [Left and right flap?](http://9gag.com/gag/aRBgnO2)
+ - 👉 [Foreigners right now in Germany after seeing Germany&#39;s new hit song](http://9gag.com/gag/ae93Xrv)<!-- MEMES:END -->
 
 ---
 

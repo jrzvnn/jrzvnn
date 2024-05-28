@@ -165,10 +165,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A leak purports to show thousands of pages of internal API documentation for Google Search, some of which appear to contradict Google&#39;s public statements &lpar;Rand Fishkin/SparkToro&rpar;](http://www.techmeme.com/240528/p21#a240528p21)
+ - [Memorial Day Sales Aren&#39;t Over Yet: Grab the Last Few Deals Before They&#39;re Gone     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-28/#ftag=CAD590a51e)
  - [Xencelabs Pen Display 16 review: A compact digital art masterpiece](https://appleinsider.com/articles/24/05/28/xencelabs-pen-display-16-review-a-compact-digital-art-masterpiece?utm_medium=rss)
- - [Telegram gets an in-app Copilot bot](https://www.theverge.com/2024/5/28/24166451/telegram-copilot-microsoft-ai-chatbot)
- - [Google won’t comment on a potentially massive leak of its search algorithm documentation](https://www.theverge.com/2024/5/28/24166177/google-search-ranking-algorithm-leak-documents-link-seo)
- - [&#39;Paper Mario: The Thousand-Year Door&#39; Sets the Standard for Classic Game Remakes](https://www.wired.com/story/paper-mario-the-thousand-year-door-sets-the-standard-for-classic-game-remakes/)<!-- TECH:END -->
+ - [iOS 18: Report Says Apple Plans to Add AI Features, but Will It Be Worth the Wait?     - CNET](https://www.cnet.com/tech/services-and-software/ios-18-report-says-apple-plans-to-add-ai-features-but-will-it-be-worth-the-wait/#ftag=CAD590a51e)
+ - [Save Up to 67% on Philips Hue Lighting at Woot Until June 11     - CNET](https://www.cnet.com/deals/save-up-to-67-on-philips-hue-lighting-at-woot-until-june-11/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

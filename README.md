@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Dealroom: in 2023, the combined enterprise value of Spanish startups surpassed &amp;euro;100B, and they raised &amp;euro;2.2B across 850+ funding rounds &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/240528/p2#a240528p2)
  - [Memorial Day Sales Aren&#39;t Over Yet: Find Hefty Deals on TVs, Tech, Furniture and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-27/#ftag=CAD590a51e)
- - [Don&#39;t Snooze on These Memorial Day Sleep Savings: The Best Deals on Cooling Pillows, Comforters and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sleep-deals-2024-05-27/#ftag=CAD590a51e)
  - [How AI demand is driving a rally in old school stocks in the utilities, energy, and materials sectors, which are needed to make and operate AI products &lpar;Charley Grant/Wall Street Journal&rpar;](http://www.techmeme.com/240528/p1#a240528p1)
- - [Apple&#39;s 1TB 14-inch MacBook Pro M3 Pro just dropped to the lowest price ever](https://appleinsider.com/articles/24/05/28/apples-1tb-14-inch-macbook-pro-m3-pro-just-dropped-to-the-lowest-price-ever?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s 1TB 14-inch MacBook Pro M3 Pro just dropped to the lowest price ever](https://appleinsider.com/articles/24/05/28/apples-1tb-14-inch-macbook-pro-m3-pro-just-dropped-to-the-lowest-price-ever?utm_medium=rss)
+ - [Best Apple Memorial Day Sales: Save Big on iPads, Macs, AirPods and More     - CNET](https://www.cnet.com/deals/best-apple-memorial-day-sales-2024-05-27/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

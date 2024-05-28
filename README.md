@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I\u2019m an OP so my choice is clear](http://9gag.com/gag/a9yLb4j)
- - 😝 [Women](http://9gag.com/gag/aqyNm0Y)
- - 💣 [Poland: driver just said: Gentelman, can you escort us to hospital because of the baby?](http://9gag.com/gag/a7oyv4b)
- - 😝 [HALT!!](http://9gag.com/gag/aqyNmzv)
- - 👉 [Real](http://9gag.com/gag/aZZxPDV)<!-- MEMES:END -->
+ - 😝 [Well damnit man](http://9gag.com/gag/ary41L0)
+ - 😝 [White](http://9gag.com/gag/a9yLbD6)
+ - 💣 [Wanting to not be raped, murdered, and replaced by low IQ 3rd worlders is now a `massive racism problem.`Germany\u2019s massive racism problem has been caught on camera again. German elite partying on the luxury island of Sylt were filmed singing `Germany for Germans,foreigners out`](http://9gag.com/gag/a343vne)
+ - 😝 [Feminist&#39;s will be furious](http://9gag.com/gag/ae90N3W)
+ - 👉 [Stable Diffusion users and NSFW](http://9gag.com/gag/azxE71m)<!-- MEMES:END -->
 
 ---
 

@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Grandma and the cat](http://9gag.com/gag/a6Zyyg2)
- - 😝 [Love you long time](http://9gag.com/gag/aoy00K0)
- - 💣 [Facts](http://9gag.com/gag/aRBPP35)
- - 😝 [Best of Danny Devito cameos unless you got better ?](http://9gag.com/gag/aMVrr3G)
- - 👉 [When Democrats Go To Sweden Expecting Their Naivity And Stupidity To Be Valid In The Real World](http://9gag.com/gag/ary44Mp)<!-- MEMES:END -->
+ - 😝 [Gentlemen. My fav movie scene.](http://9gag.com/gag/a87YLzV)
+ - 😝 [Feminist&#39;s will be furious](http://9gag.com/gag/ae90N3W)
+ - 💣 [What Other Scene Would You Recommend?](http://9gag.com/gag/azxELWx)
+ - 😝 [Do it, do it, do it](http://9gag.com/gag/avygp4Z)
+ - 👉 [That moment of realization](http://9gag.com/gag/aoy0z1n)<!-- MEMES:END -->
 
 ---
 

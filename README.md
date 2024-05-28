@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Feminist&#39;s will be furious](http://9gag.com/gag/ae90N3W)
- - 😝 [Dwight: \u201cl walk a different path..\u201d](http://9gag.com/gag/aKGPgKQ)
- - 💣 [Gentlemen. My fav movie scene.](http://9gag.com/gag/a87YLzV)
  - 😝 [Stable Diffusion users and NSFW](http://9gag.com/gag/azxE71m)
- - 👉 [Have a rest](http://9gag.com/gag/aRBgxqG)<!-- MEMES:END -->
+ - 😝 [Mom, may I fly?](http://9gag.com/gag/aAyrBQp)
+ - 💣 [Can&#39;t they see how cool this style is?](http://9gag.com/gag/aNDZeWb)
+ - 😝 [White](http://9gag.com/gag/a9yLbD6)
+ - 👉 [Gentlemen. My fav movie scene.](http://9gag.com/gag/a87YLzV)<!-- MEMES:END -->
 
 ---
 

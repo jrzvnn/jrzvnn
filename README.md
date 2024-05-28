@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Feminist&#39;s will be furious](http://9gag.com/gag/ae90N3W)
  - 😝 [White](http://9gag.com/gag/a9yLbD6)
- - 😝 [-Which allergy do you have? -Yes](http://9gag.com/gag/aQz4P2d)
- - 💣 [Have a rest](http://9gag.com/gag/aRBgxqG)
- - 😝 [I will beat her lifeless if it\u2019s the last thing I do](http://9gag.com/gag/ae90Nxp)
- - 👉 [Well damnit man](http://9gag.com/gag/ary41L0)<!-- MEMES:END -->
+ - 💣 [I will beat her lifeless if it\u2019s the last thing I do](http://9gag.com/gag/ae90Nxp)
+ - 😝 [Well damnit man](http://9gag.com/gag/ary41L0)
+ - 👉 [Gentlemen. My fav movie scene.](http://9gag.com/gag/a87YLzV)<!-- MEMES:END -->
 
 ---
 

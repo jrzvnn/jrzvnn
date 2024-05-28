@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at &quot;prebunking&quot;, exposing people to low doses of misinfo with explanations to develop &quot;mental antibodies&quot; against disinfo, amid AI&#39;s threat to elections &lpar;Washington Post&rpar;](http://www.techmeme.com/240527/p9#a240527p9)
  - [Memorial Day Sales Aren&#39;t Over Yet: Find Hefty Deals on TVs, Tech, Furniture and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-27/#ftag=CAD590a51e)
  - [My Favorite Sunrise Alarm Clock From Hatch Is $30 Cheaper This Memorial Day     - CNET](https://www.cnet.com/deals/hatch-restore-memorial-day-2024/#ftag=CAD590a51e)
  - [Nectar Mattresses Start at $349 This Memorial Day     - CNET](https://www.cnet.com/deals/nectar-memorial-day-deal-2024/#ftag=CAD590a51e)
- - [My Favorite Mattress of 5 Years is On Sale This Memorial Day     - CNET](https://www.cnet.com/deals/purple-mattress-memorial-day-2024/#ftag=CAD590a51e)
- - [Best Buy Memorial Day Sale: Save Big on Apple, Samsung, Dyson, and More     - CNET](https://www.cnet.com/deals/best-buy-memorial-day-sale-24-05-27/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [My Favorite Mattress of 5 Years is On Sale This Memorial Day     - CNET](https://www.cnet.com/deals/purple-mattress-memorial-day-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Memorial Day Sales Aren&#39;t Over Yet: Find Hefty Deals on TVs, Tech, Furniture and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-27/#ftag=CAD590a51e)
  - [How AI demand is driving a rally in old school stocks in the utilities, energy, and materials sectors, which are needed to make and operate AI products &lpar;Charley Grant/Wall Street Journal&rpar;](http://www.techmeme.com/240528/p1#a240528p1)
+ - [Memorial Day Sales Aren&#39;t Over Yet: Find Hefty Deals on TVs, Tech, Furniture and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-27/#ftag=CAD590a51e)
  - [Apple&#39;s 1TB 14-inch MacBook Pro M3 Pro just dropped to the lowest price ever](https://appleinsider.com/articles/24/05/28/apples-1tb-14-inch-macbook-pro-m3-pro-just-dropped-to-the-lowest-price-ever?utm_medium=rss)
- - [Best Apple Memorial Day Sales: Save Big on iPads, Macs, AirPods and More     - CNET](https://www.cnet.com/deals/best-apple-memorial-day-sales-2024-05-27/#ftag=CAD590a51e)
- - [Best Memorial Day Walmart Sales: Save Today With Sales on Tech, TVs, Home and More     - CNET](https://www.cnet.com/deals/walmart-memorial-day-sale-2024-05-27/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Memorial Day Walmart Sales: Save Today With Sales on Tech, TVs, Home and More     - CNET](https://www.cnet.com/deals/walmart-memorial-day-sale-2024-05-27/#ftag=CAD590a51e)
+ - [Best Apple Memorial Day Sales: Save Big on iPads, Macs, AirPods and More     - CNET](https://www.cnet.com/deals/best-apple-memorial-day-sales-2024-05-27/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

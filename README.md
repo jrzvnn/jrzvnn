@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gentlemen. My fav movie scene.](http://9gag.com/gag/a87YLzV)
- - 😝 [Reality check](http://9gag.com/gag/ae93Xpp)
- - 💣 [White](http://9gag.com/gag/a9yLbD6)
- - 😝 [Premium class on the security floor of the baggage compartment? -Boldly.](http://9gag.com/gag/awyKbVr)
- - 👉 [I will beat her lifeless if it\u2019s the last thing I do](http://9gag.com/gag/ae90Nxp)<!-- MEMES:END -->
+ - 😝 [What a great company!](http://9gag.com/gag/a9yLbB6)
+ - 😝 [The acceptance!](http://9gag.com/gag/aRBPwjq)
+ - 💣 [Snaxx time](http://9gag.com/gag/aVvWO1O)
+ - 😝 [Alexa, dammit](http://9gag.com/gag/aW40VLx)
+ - 👉 [Stable Diffusion users and NSFW](http://9gag.com/gag/azxE71m)<!-- MEMES:END -->
 
 ---
 

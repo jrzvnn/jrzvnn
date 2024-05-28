@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Feminist&#39;s will be furious](http://9gag.com/gag/ae90N3W)
- - 😝 [Gentlemen. My fav movie scene.](http://9gag.com/gag/a87YLzV)
- - 💣 [Which movie was great to watch in your teenage years but now feels more depressing?](http://9gag.com/gag/a9yLdj1)
- - 😝 [Do it, do it, do it](http://9gag.com/gag/avygp4Z)
- - 👉 [My fellow 9gaggers](http://9gag.com/gag/aAyrro9)<!-- MEMES:END -->
+ - 😝 [Italian Patriots Tired Of Being Invaded And Destroyed](http://9gag.com/gag/aE01z69)
+ - 😝 [My fellow 9gaggers](http://9gag.com/gag/aAyrro9)
+ - 💣 [Middle craft](http://9gag.com/gag/a9yLLDK)
+ - 😝 [Random](http://9gag.com/gag/ary4Rbd)
+ - 👉 [Well surprise.](http://9gag.com/gag/azxEE5j)<!-- MEMES:END -->
 
 ---
 

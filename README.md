@@ -174,10 +174,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [My fellow 9gaggers](http://9gag.com/gag/aAyrro9)
- - 😝 [THE SAX](http://9gag.com/gag/aPA44OR)
- - 💣 [Meanwhile in Europe \ud83d\udd0a](http://9gag.com/gag/avygLKM)
- - 😝 [Well surprise.](http://9gag.com/gag/azxEE5j)
- - 👉 [Say the line bart](http://9gag.com/gag/aGywwyK)<!-- MEMES:END -->
+ - 😝 [Long story short...](http://9gag.com/gag/aKGPPpg)
+ - 💣 [Snaxx time](http://9gag.com/gag/aVvWO1O)
+ - 😝 [Dwight: \u201cl walk a different path..\u201d](http://9gag.com/gag/aKGPgKQ)
+ - 👉 [Premium class on the security floor of the baggage compartment? -Boldly.](http://9gag.com/gag/awyKbVr)<!-- MEMES:END -->
 
 ---
 

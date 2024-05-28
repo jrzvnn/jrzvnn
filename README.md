@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why there&#39;s never a Fast And Furious set in Germany..](http://9gag.com/gag/aVvWj3n)
- - 😝 [Well damnit man](http://9gag.com/gag/ary41L0)
- - 💣 [Shoulder gunshot wounds are commonly fatal since the brachial artery is typically ruptured.](http://9gag.com/gag/aVvWz3P)
- - 😝 [Premium class on the security floor of the baggage compartment? -Boldly.](http://9gag.com/gag/awyKbVr)
- - 👉 [Dwight: \u201cl walk a different path..\u201d](http://9gag.com/gag/aKGPgKQ)<!-- MEMES:END -->
+ - 😝 [Can&#39;t they see how cool this style is?](http://9gag.com/gag/aNDZeWb)
+ - 😝 [Stable Diffusion users and NSFW](http://9gag.com/gag/azxE71m)
+ - 💣 [Well damnit man](http://9gag.com/gag/ary41L0)
+ - 😝 [Feminist&#39;s will be furious](http://9gag.com/gag/ae90N3W)
+ - 👉 [White](http://9gag.com/gag/a9yLbD6)<!-- MEMES:END -->
 
 ---
 

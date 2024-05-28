@@ -165,10 +165,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [PayPal plans to build an ad sales business around data generated from users and tracking purchases, and hires ex-Uber ad boss Mark Grether as PayPal Ads SVP &lpar;Patrick Coffee/Wall Street Journal&rpar;](http://www.techmeme.com/240528/p7#a240528p7)
+ - [How Researchers Cracked an 11-Year-Old Password to a $3 Million Crypto Wallet](https://www.wired.com/story/roboform-password-3-million-dollar-crypto-wallet/)
  - [How to fill out and sign PDF forms on iPhone and iPad](https://appleinsider.com/inside/iphone/tips/how-to-fill-out-and-sign-pdf-forms-on-iphone-and-ipad?utm_medium=rss)
  - [Chinese government data: foreign-branded smartphone shipments, most of which are iPhones, rose 52% YoY to ~3.5M in April, after stabilizing in March 2024 &lpar;Yuan Gao/Bloomberg&rpar;](http://www.techmeme.com/240528/p6#a240528p6)
- - [Memorial Day Sales Aren&#39;t Over Yet: Grab the Last Few Deals Before They&#39;re Gone     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-28/#ftag=CAD590a51e)
- - [Refinance Rates Tick Higher: Refinance Rates for May 28, 2024     - CNET](https://www.cnet.com/personal-finance/mortgages/refinance-rates-tick-higher-refinance-rates-for-may-28-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Memorial Day Sales Aren&#39;t Over Yet: Grab the Last Few Deals Before They&#39;re Gone     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-28/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

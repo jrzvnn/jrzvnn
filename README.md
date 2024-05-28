@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gentlemen. My fav movie scene.](http://9gag.com/gag/a87YLzV)
+ - 😝 [White](http://9gag.com/gag/a9yLbD6)
+ - 😝 [Dwight: \u201cl walk a different path..\u201d](http://9gag.com/gag/aKGPgKQ)
+ - 💣 [Snaxx time](http://9gag.com/gag/aVvWO1O)
  - 😝 [Feminist&#39;s will be furious](http://9gag.com/gag/ae90N3W)
- - 💣 [What Other Scene Would You Recommend?](http://9gag.com/gag/azxELWx)
- - 😝 [Do it, do it, do it](http://9gag.com/gag/avygp4Z)
- - 👉 [That moment of realization](http://9gag.com/gag/aoy0z1n)<!-- MEMES:END -->
+ - 👉 [Prove me wrong?](http://9gag.com/gag/aPA44vg)<!-- MEMES:END -->
 
 ---
 

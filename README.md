@@ -173,10 +173,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is this true? Swedish pls confirm. Thoughts?](http://9gag.com/gag/ary44WB)
  - 😝 [Facts](http://9gag.com/gag/aRBPP35)
- - 💣 [Old but Gold.](http://9gag.com/gag/a7oyy8q)
  - 😝 [A dangerous song to be singing...](http://9gag.com/gag/awyKb1R)
+ - 💣 [Old but Gold.](http://9gag.com/gag/a7oyy8q)
+ - 😝 [My fellow 9gaggers](http://9gag.com/gag/aAyrro9)
  - 👉 [Love you long time](http://9gag.com/gag/aoy00K0)<!-- MEMES:END -->
 
 ---

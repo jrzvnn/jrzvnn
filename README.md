@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI begins training its new flagship AI model, a process that could take nine months or more, and creates a Safety and Security Committee to explore risks &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/240528/p5#a240528p5)
  - [Apple saw a huge year-over-year iPhone sales recovery in China in April](https://appleinsider.com/articles/24/05/28/apple-saw-a-huge-year-over-year-iphone-sales-recovery-in-china-in-april?utm_medium=rss)
  - [How pro-Russian groups exploit Telegram, which has 41M MAUs in the EU, below the DSA&#39;s 45M threshold, to spread disinformation on Ukraine, immigration, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/240528/p4#a240528p4)
  - [Anduril Is Building Out the Pentagon’s Dream of Deadly Drone Swarms](https://www.wired.com/story/anduril-is-building-out-the-pentagons-dream-of-deadly-drone-swarms/)
- - [Defunct bitcoin exchange Mt. Gox, which collapsed in 2014, moves 140K bitcoin, worth ~$9B, to an unknown address, likely part of a plan to repay creditors &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/240528/p3#a240528p3)
- - [Cops Are Just Trolling Cybercriminals Now](https://www.wired.com/story/cop-cybercriminal-hacker-psyops/)<!-- TECH:END -->
+ - [Defunct bitcoin exchange Mt. Gox, which collapsed in 2014, moves 140K bitcoin, worth ~$9B, to an unknown address, likely part of a plan to repay creditors &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/240528/p3#a240528p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

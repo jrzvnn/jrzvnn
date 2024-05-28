@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dwight: \u201cl walk a different path..\u201d](http://9gag.com/gag/aKGPgKQ)
- - 😝 [Well damnit man](http://9gag.com/gag/ary41L0)
- - 💣 [Gentlemen. My fav movie scene.](http://9gag.com/gag/a87YLzV)
- - 😝 [Have a rest](http://9gag.com/gag/aRBgxqG)
- - 👉 [Premium class on the security floor of the baggage compartment? -Boldly.](http://9gag.com/gag/awyKbVr)<!-- MEMES:END -->
+ - 😝 [I\u2019m an OP so my choice is clear](http://9gag.com/gag/a9yLb4j)
+ - 😝 [Women](http://9gag.com/gag/aqyNm0Y)
+ - 💣 [Poland: driver just said: Gentelman, can you escort us to hospital because of the baby?](http://9gag.com/gag/a7oyv4b)
+ - 😝 [HALT!!](http://9gag.com/gag/aqyNmzv)
+ - 👉 [Real](http://9gag.com/gag/aZZxPDV)<!-- MEMES:END -->
 
 ---
 

@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What Other Scene Would You Recommend?](http://9gag.com/gag/azxELWx)
  - 😝 [Shoulder gunshot wounds are commonly fatal since the brachial artery is typically ruptured.](http://9gag.com/gag/aVvWz3P)
- - 💣 [White](http://9gag.com/gag/a9yLbD6)
- - 😝 [Gentlemen. My fav movie scene.](http://9gag.com/gag/a87YLzV)
- - 👉 [That moment of realization](http://9gag.com/gag/aoy0z1n)<!-- MEMES:END -->
+ - 😝 [Average backpaker things in SEA](http://9gag.com/gag/awyKKOy)
+ - 💣 [All hail Denmark](http://9gag.com/gag/aLnPBOA)
+ - 😝 [Do it, do it, do it](http://9gag.com/gag/avygp4Z)
+ - 👉 [Long story short...](http://9gag.com/gag/aKGPPpg)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft&#39;s Copilot PC and the M3 Mac killer myth](https://appleinsider.com/articles/24/05/28/microsofts-copilot-pc-and-the-m3-mac-killer-myth?utm_medium=rss)
+ - [Logitech Mevo Core Review: Dead Simple Multi-Cam Streaming](https://www.wired.com/review/logitech-mevo-core/)
+ - [T-Mobile plans to acquire most of UScellular, including stores, some of the wireless operator&#39;s spectrum, and its customers, in a $4.4B deal, including $2B debt &lpar;Todd Haselton/CNBC&rpar;](http://www.techmeme.com/240528/p9#a240528p9)
  - [Abu Dhabi-based edtech startup Alef Education, which serves kindergarten to 12th grade, aims to raise up to $515M in an IPO, Abu Dhabi&#39;s first IPO of 2024 &lpar;Julia Fioretti/Bloomberg&rpar;](http://www.techmeme.com/240528/p8#a240528p8)
- - [MacBook Pro with OLED arrival rumor shifts again, this time back to 2026](https://appleinsider.com/articles/24/05/28/macbook-pro-with-oled-arrival-rumor-shifts-again-this-time-back-to-2026?utm_medium=rss)
- - [This 2024 LG OLED TV Got Its First Big Discount for Memorial Day, and the Deal Is Still Live     - CNET](https://www.cnet.com/deals/this-2024-lg-oled-tv-got-its-first-big-discount-for-memorial-day-and-the-deal-is-still-live/#ftag=CAD590a51e)
- - [PayPal plans to build an ad sales business around data generated from users and tracking purchases, and hires ex-Uber ad boss Mark Grether as PayPal Ads SVP &lpar;Patrick Coffee/Wall Street Journal&rpar;](http://www.techmeme.com/240528/p7#a240528p7)
- - [RCS on iPhones Will Make Texting Android Users Feel Less Archaic     - CNET](https://www.cnet.com/tech/mobile/rcs-on-iphones-will-make-texting-android-users-feel-less-archaic/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [MacBook Pro with OLED arrival rumor shifts again, this time back to 2026](https://appleinsider.com/articles/24/05/28/macbook-pro-with-oled-arrival-rumor-shifts-again-this-time-back-to-2026?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

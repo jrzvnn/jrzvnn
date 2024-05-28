@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Feminist&#39;s will be furious](http://9gag.com/gag/ae90N3W)
- - 😝 [White](http://9gag.com/gag/a9yLbD6)
- - 💣 [I will beat her lifeless if it\u2019s the last thing I do](http://9gag.com/gag/ae90Nxp)
- - 😝 [Well damnit man](http://9gag.com/gag/ary41L0)
- - 👉 [Gentlemen. My fav movie scene.](http://9gag.com/gag/a87YLzV)<!-- MEMES:END -->
+ - 😝 [Dwight: \u201cl walk a different path..\u201d](http://9gag.com/gag/aKGPgKQ)
+ - 😝 [Listen to an actually educated person](http://9gag.com/gag/aLnPK7g)
+ - 💣 [Facts](http://9gag.com/gag/aRBPP35)
+ - 😝 [Walt knew what he was up against and he made the best choice, lmao.](http://9gag.com/gag/aoy0EVw)
+ - 👉 [Life is too short to sort socks](http://9gag.com/gag/aKGPzrg)<!-- MEMES:END -->
 
 ---
 

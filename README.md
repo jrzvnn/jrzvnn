@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well damnit man](http://9gag.com/gag/ary41L0)
- - 😝 [Nice one &lpar;not mine&rpar;](http://9gag.com/gag/a9yLb0K)
+ - 😝 [Alexa, dammit](http://9gag.com/gag/aW40VLx)
+ - 😝 [Dwight: \u201cl walk a different path..\u201d](http://9gag.com/gag/aKGPgKQ)
  - 💣 [Stable Diffusion users and NSFW](http://9gag.com/gag/azxE71m)
- - 😝 [Feminist&#39;s will be furious](http://9gag.com/gag/ae90N3W)
- - 👉 [Wanting to not be raped, murdered, and replaced by low IQ 3rd worlders is now a `massive racism problem.`Germany\u2019s massive racism problem has been caught on camera again. German elite partying on the luxury island of Sylt were filmed singing `Germany for Germans,foreigners out`](http://9gag.com/gag/a343vne)<!-- MEMES:END -->
+ - 😝 [Man can&#39;t watch football and has to wash dishes tonight.](http://9gag.com/gag/aMVbpz6)
+ - 👉 [Nice one &lpar;not mine&rpar;](http://9gag.com/gag/a9yLb0K)<!-- MEMES:END -->
 
 ---
 

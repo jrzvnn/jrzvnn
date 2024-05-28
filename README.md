@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Private equity firm Bridgepoint buys a majority stake in LumApps, used by ~700 organizations to build and provision comms and workforce apps, in a $650M deal &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240528/p11#a240528p11)
  - [Apple wants to know if you’re hearing things because of tinnitus](https://www.theverge.com/2024/5/28/24166143/apple-study-tinnitus-research-app-preliminary-data)
  - [Three VR game staples have arrived on Apple Vision Pro](https://appleinsider.com/articles/24/05/28/three-vr-game-staples-have-arrived-on-apple-vision-pro?utm_medium=rss)
  - [Microsoft&#39;s Copilot PC and the M3 Mac killer myth](https://appleinsider.com/articles/24/05/28/microsofts-copilot-pc-and-the-m3-mac-killer-myth?utm_medium=rss)
- - [Top AI tablets: iPad Pro with M4 versus Microsoft&#39;s new Surface Pro](https://appleinsider.com/inside/ipad-pro/vs/top-ai-tablets-ipad-pro-with-m4-versus-microsofts-new-surface-pro?utm_medium=rss)
- - [Take up To 30% Off Air Purifiers During Blueair&#39;s Memorial Day Sale     - CNET](https://www.cnet.com/deals/take-up-to-30-off-air-purifiers-during-blueairs-memorial-day-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Top AI tablets: iPad Pro with M4 versus Microsoft&#39;s new Surface Pro](https://appleinsider.com/inside/ipad-pro/vs/top-ai-tablets-ipad-pro-with-m4-versus-microsofts-new-surface-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mom, may I fly?](http://9gag.com/gag/aAyrBQp)
- - 😝 [What Other Scene Would You Recommend?](http://9gag.com/gag/azxELWx)
- - 💣 [Dwight: \u201cl walk a different path..\u201d](http://9gag.com/gag/aKGPgKQ)
- - 😝 [Gentlemen. My fav movie scene.](http://9gag.com/gag/a87YLzV)
- - 👉 [White](http://9gag.com/gag/a9yLbD6)<!-- MEMES:END -->
+ - 😝 [Is this true? Swedish pls confirm. Thoughts?](http://9gag.com/gag/ary44WB)
+ - 😝 [Facts](http://9gag.com/gag/aRBPP35)
+ - 💣 [Old but Gold.](http://9gag.com/gag/a7oyy8q)
+ - 😝 [A dangerous song to be singing...](http://9gag.com/gag/awyKb1R)
+ - 👉 [Love you long time](http://9gag.com/gag/aoy00K0)<!-- MEMES:END -->
 
 ---
 

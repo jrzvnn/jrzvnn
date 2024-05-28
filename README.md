@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 27 Best Shows on Apple TV+ Right Now &lpar;June 2024&rpar;](https://www.wired.com/story/best-apple-tv-plus-shows/)
  - [Top AI tablets: iPad Pro with M4 versus Microsoft&#39;s new Surface Pro](https://appleinsider.com/inside/ipad-pro/vs/top-ai-tablets-ipad-pro-with-m4-versus-microsofts-new-surface-pro?utm_medium=rss)
  - [More Metal: Apple&#39;s iPad Pro Magic Keyboards, compared](https://appleinsider.com/inside/magic-keyboard/vs/more-metal-apples-ipad-pro-magic-keyboards-compared?utm_medium=rss)
  - [This Lego Apple Store design submission is pitch-perfect](https://www.theverge.com/2024/5/28/24166361/lego-apple-store-build-idea-concept-legotruman-2a2a)
- - [OpenAI researcher who resigned over safety concerns joins Anthropic](https://www.theverge.com/2024/5/28/24166370/jan-leike-openai-anthropic-ai-safety-research)
- - [Apple&#39;s 2024 Design Awards have a new Spatial Computing category](https://appleinsider.com/articles/24/05/28/apples-2024-design-awards-have-a-new-spatial-computing-category?utm_medium=rss)<!-- TECH:END -->
+ - [OpenAI researcher who resigned over safety concerns joins Anthropic](https://www.theverge.com/2024/5/28/24166370/jan-leike-openai-anthropic-ai-safety-research)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

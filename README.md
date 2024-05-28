@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [White](http://9gag.com/gag/a9yLbD6)
- - 😝 [-Which allergy do you have? -Yes](http://9gag.com/gag/aQz4P2d)
- - 💣 [Well damnit man](http://9gag.com/gag/ary41L0)
- - 😝 [Gentlemen. My fav movie scene.](http://9gag.com/gag/a87YLzV)
- - 👉 [Which movie was great to watch in your teenage years but now feels more depressing?](http://9gag.com/gag/a9yLdj1)<!-- MEMES:END -->
+ - 😝 [Grandma and the cat](http://9gag.com/gag/a6Zyyg2)
+ - 😝 [Love you long time](http://9gag.com/gag/aoy00K0)
+ - 💣 [Facts](http://9gag.com/gag/aRBPP35)
+ - 😝 [Best of Danny Devito cameos unless you got better ?](http://9gag.com/gag/aMVrr3G)
+ - 👉 [When Democrats Go To Sweden Expecting Their Naivity And Stupidity To Be Valid In The Real World](http://9gag.com/gag/ary44Mp)<!-- MEMES:END -->
 
 ---
 

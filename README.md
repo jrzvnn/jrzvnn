@@ -165,10 +165,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The hacking group RansomHub claims to be behind the attack that hit Christie&#39;s, and threatens to release sensitive information about the auction house&#39;s clients &lpar;Zachary Small/New York Times&rpar;](http://www.techmeme.com/240527/p8#a240527p8)
- - [Memorial Day Sales 2024: Snag Sweet Savings on TVs, Tech, Furniture and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-27/#ftag=CAD590a51e)
- - [Meta adds safety features to CrowdTangle for use during the EU elections, in a bid to address EU concerns over Meta&#39;s plan to shut down the tool in August 2024 &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240527/p7#a240527p7)
- - [Last Chance to Save 40% Off Your MasterClass Subscription This Memorial Day     - CNET](https://www.cnet.com/deals/last-chance-to-save-40-off-your-masterclass-subscription-this-memorial-day/#ftag=CAD590a51e)
- - [Best Memorial Day Smart Home Deals: Think Smart and Save on Smart Displays, Vacuums, Lights and More     - CNET](https://www.cnet.com/deals/best-memorial-day-smart-home-sales-2024-05-27/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in St. Paul, Minnesota     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-st-paul-mn/#ftag=CAD590a51e)
+ - [Get Them Before They&#39;re Gone: The Best Memorial Day Deals for Under $100     - CNET](https://www.cnet.com/deals/best-memorial-day-deals-under-100-2024-05-27/#ftag=CAD590a51e)
+ - [Memorial Day Sales 2024: Snag Huge Savings on TVs, Tech, Furniture and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-27/#ftag=CAD590a51e)
+ - [Meta adds safety features to CrowdTangle for use during the EU elections, in a bid to address EU concerns over Meta&#39;s plan to shut down the tool in August 2024 &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240527/p7#a240527p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

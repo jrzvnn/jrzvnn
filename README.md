@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What Other Scene Would You Recommend?](http://9gag.com/gag/azxELWx)
  - 😝 [Dwight: \u201cl walk a different path..\u201d](http://9gag.com/gag/aKGPgKQ)
- - 💣 [Online shopping](http://9gag.com/gag/aqyN4Kp)
- - 😝 [-Which allergy do you have? -Yes](http://9gag.com/gag/aQz4P2d)
- - 👉 [Gentlemen. My fav movie scene.](http://9gag.com/gag/a87YLzV)<!-- MEMES:END -->
+ - 😝 [White](http://9gag.com/gag/a9yLbD6)
+ - 💣 [I will beat her lifeless if it\u2019s the last thing I do](http://9gag.com/gag/ae90Nxp)
+ - 😝 [Well damnit man](http://9gag.com/gag/ary41L0)
+ - 👉 [What Other Scene Would You Recommend?](http://9gag.com/gag/azxELWx)<!-- MEMES:END -->
 
 ---
 

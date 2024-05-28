@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Memorial Day Deals for Home Security: Grab Big Savings Before They&#39;re Gone     - CNET](https://www.cnet.com/deals/best-memorial-day-home-security-sales-2024-05-28/#ftag=CAD590a51e)
  - [Microsoft is making Edge faster... starting with this one menu](https://www.theverge.com/2024/5/28/24166556/microsoft-edge-speed-upgrade-webui-2)
- - [In a podcast, former OpenAI board member Helen Toner says the board learned of ChatGPT&#39;s launch on Twitter, criticizes Sam Altman&#39;s leadership on safety, more &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/240528/p22#a240528p22)
- - [A leak purports to show thousands of pages of internal API documentation for Google Search, some of which appear to contradict Google&#39;s public statements &lpar;Rand Fishkin/SparkToro&rpar;](http://www.techmeme.com/240528/p21#a240528p21)
+ - [Best Memorial Day Furniture Deals Still Available: Save on Sofas, Beds and More     - CNET](https://www.cnet.com/deals/memorial-day-furniture-sales-2024-05-28/#ftag=CAD590a51e)
  - [Memorial Day Sales Aren&#39;t Over Yet: Grab the Last Few Deals Before They&#39;re Gone     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-28/#ftag=CAD590a51e)
- - [Xencelabs Pen Display 16 review: A compact digital art masterpiece](https://appleinsider.com/articles/24/05/28/xencelabs-pen-display-16-review-a-compact-digital-art-masterpiece?utm_medium=rss)<!-- TECH:END -->
+ - [In a podcast, former OpenAI board member Helen Toner says the board learned of ChatGPT&#39;s launch on Twitter, criticizes Sam Altman&#39;s leadership on safety, more &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/240528/p22#a240528p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

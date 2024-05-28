@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shoulder gunshot wounds are commonly fatal since the brachial artery is typically ruptured.](http://9gag.com/gag/aVvWz3P)
- - 😝 [Well damnit man](http://9gag.com/gag/ary41L0)
- - 💣 [Stable Diffusion users and NSFW](http://9gag.com/gag/azxE71m)
+ - 😝 [Have a rest](http://9gag.com/gag/aRBgxqG)
+ - 😝 [Feminist&#39;s will be furious](http://9gag.com/gag/ae90N3W)
+ - 💣 [Well damnit man](http://9gag.com/gag/ary41L0)
  - 😝 [White](http://9gag.com/gag/a9yLbD6)
- - 👉 [Have a rest](http://9gag.com/gag/aRBgxqG)<!-- MEMES:END -->
+ - 👉 [Stable Diffusion users and NSFW](http://9gag.com/gag/azxE71m)<!-- MEMES:END -->
 
 ---
 

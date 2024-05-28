@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Telegram gets an in-app Copilot bot](https://www.theverge.com/2024/5/28/24166451/telegram-copilot-microsoft-ai-chatbot)
+ - [Google won’t comment on a potentially massive leak of its search algorithm documentation](https://www.theverge.com/2024/5/28/24166177/google-search-ranking-algorithm-leak-documents-link-seo)
+ - [&#39;Paper Mario: The Thousand-Year Door&#39; Sets the Standard for Classic Game Remakes](https://www.wired.com/story/paper-mario-the-thousand-year-door-sets-the-standard-for-classic-game-remakes/)
  - [HubSpot shares jump 8%+ after CNBC&#39;s David Faber reported that Alphabet is in talks about an all-stock bid for the company &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/240528/p20#a240528p20)
- - [The US will reactivate Trump-era tariffs on June 15 that apply to select imported goods from China, including graphics cards, motherboards, and desktop cases &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/240528/p19#a240528p19)
- - [How to not get taken for $1000 by Apple Pay scammers](https://appleinsider.com/inside/apple-pay/tips/how-to-not-get-taken-for-1000-by-apple-pay-scammers?utm_medium=rss)
- - [Microsoft’s ‘Auto Super Resolution’ DLSS competitor isn’t exclusive to Qualcomm](https://www.theverge.com/2024/5/28/24166413/microsoft-windows-auto-super-resolution-sr-qualcomm-npu-dlss-fsr)
- - [PayPal is building an ad network based on your Venmo data](https://www.theverge.com/2024/5/28/24166381/paypal-building-ad-network-transaction-data)<!-- TECH:END -->
+ - [The US will reactivate Trump-era tariffs on June 15 that apply to select imported goods from China, including graphics cards, motherboards, and desktop cases &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/240528/p19#a240528p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

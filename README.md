@@ -173,10 +173,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well damnit man](http://9gag.com/gag/ary41L0)
- - 😝 [The perfect American wife](http://9gag.com/gag/a2vYqEe)
- - 💣 [White](http://9gag.com/gag/a9yLbD6)
- - 😝 [What Other Scene Would You Recommend?](http://9gag.com/gag/azxELWx)
+ - 😝 [Which movie was great to watch in your teenage years but now feels more depressing?](http://9gag.com/gag/a9yLdj1)
+ - 😝 [Do it, do it, do it](http://9gag.com/gag/avygp4Z)
+ - 💣 [Made in China](http://9gag.com/gag/a6ZyLOm)
+ - 😝 [All hail Denmark](http://9gag.com/gag/aLnPBOA)
  - 👉 [My fellow 9gaggers](http://9gag.com/gag/aAyrro9)<!-- MEMES:END -->
 
 ---

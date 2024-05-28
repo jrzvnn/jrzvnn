@@ -173,9 +173,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Which movie was great to watch in your teenage years but now feels more depressing?](http://9gag.com/gag/a9yLdj1)
- - 😝 [Do it, do it, do it](http://9gag.com/gag/avygp4Z)
- - 💣 [Made in China](http://9gag.com/gag/a6ZyLOm)
+ - 😝 [Made in China](http://9gag.com/gag/a6ZyLOm)
+ - 😝 [What Other Scene Would You Recommend?](http://9gag.com/gag/azxELWx)
+ - 💣 [Gentlemen. My fav movie scene.](http://9gag.com/gag/a87YLzV)
  - 😝 [All hail Denmark](http://9gag.com/gag/aLnPBOA)
  - 👉 [My fellow 9gaggers](http://9gag.com/gag/aAyrro9)<!-- MEMES:END -->
 

@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube rolls out its new Playables games to all users](https://www.theverge.com/2024/5/28/24166363/youtube-games-playables-youtube-premium)
  - [Apple confirms WWDC 2024 keynote timing, but offers no more AI hints](https://appleinsider.com/articles/24/05/28/apple-confirms-wwdc-2024-keynote-timing-but-offers-no-more-ai-hints?utm_medium=rss)
  - [Anthropic hires former OpenAI safety lead Jan Leike to head up a new &quot;superalignment&quot; team &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240528/p17#a240528p17)
  - [In a spat on X, Meta&#39;s Chief AI Scientist Yann LeCun calls out Elon Musk for saying xAI will pursue &quot;truth&quot; as Musk spreads &quot;crazy-ass conspiracy theories&quot; on X &lpar;Maxwell Zeff/Gizmodo&rpar;](http://www.techmeme.com/240528/p16#a240528p16)
- - [Why Epic’s lawsuit against Apple just won’t quit](https://www.theverge.com/2024/5/28/24158911/apple-v-epic-evidentiary-hearing-app-store-payments)
- - [Data compliance startup Transcend raised a $40M Series B led by StepStone Group, bringing its total funding to nearly $90M &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/240528/p15#a240528p15)<!-- TECH:END -->
+ - [Why Epic’s lawsuit against Apple just won’t quit](https://www.theverge.com/2024/5/28/24158911/apple-v-epic-evidentiary-hearing-app-store-payments)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

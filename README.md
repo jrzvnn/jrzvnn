@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI researcher who resigned over safety concerns joins Anthropic](https://www.theverge.com/2024/5/28/24166370/jan-leike-openai-anthropic-ai-safety-research)
+ - [Apple&#39;s 2024 Design Awards have a new Spatial Computing category](https://appleinsider.com/articles/24/05/28/apples-2024-design-awards-have-a-new-spatial-computing-category?utm_medium=rss)
+ - [YouTube&#39;s Playables, a collection of over 75 free games available on mobile and desktop, rolls out to all users &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240528/p18#a240528p18)
  - [YouTube rolls out its new Playables games to all users](https://www.theverge.com/2024/5/28/24166363/youtube-games-playables-youtube-premium)
- - [Apple confirms WWDC 2024 keynote timing, but offers no more AI hints](https://appleinsider.com/articles/24/05/28/apple-confirms-wwdc-2024-keynote-timing-but-offers-no-more-ai-hints?utm_medium=rss)
- - [Anthropic hires former OpenAI safety lead Jan Leike to head up a new &quot;superalignment&quot; team &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240528/p17#a240528p17)
- - [In a spat on X, Meta&#39;s Chief AI Scientist Yann LeCun calls out Elon Musk for saying xAI will pursue &quot;truth&quot; as Musk spreads &quot;crazy-ass conspiracy theories&quot; on X &lpar;Maxwell Zeff/Gizmodo&rpar;](http://www.techmeme.com/240528/p16#a240528p16)
- - [Why Epic’s lawsuit against Apple just won’t quit](https://www.theverge.com/2024/5/28/24158911/apple-v-epic-evidentiary-hearing-app-store-payments)<!-- TECH:END -->
+ - [Apple confirms WWDC 2024 keynote timing, but offers no more AI hints](https://appleinsider.com/articles/24/05/28/apple-confirms-wwdc-2024-keynote-timing-but-offers-no-more-ai-hints?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

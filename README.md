@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Listen to an actually educated person](http://9gag.com/gag/aLnPK7g)
- - 😝 [Walt knew what he was up against and he made the best choice, lmao.](http://9gag.com/gag/aoy0EVw)
- - 💣 [Love you long time](http://9gag.com/gag/aoy00K0)
- - 😝 [Life is too short to sort socks](http://9gag.com/gag/aKGPzrg)
- - 👉 [Facts](http://9gag.com/gag/aRBPP35)<!-- MEMES:END -->
+ - 😝 [What Other Scene Would You Recommend?](http://9gag.com/gag/azxELWx)
+ - 😝 [Dwight: \u201cl walk a different path..\u201d](http://9gag.com/gag/aKGPgKQ)
+ - 💣 [Online shopping](http://9gag.com/gag/aqyN4Kp)
+ - 😝 [-Which allergy do you have? -Yes](http://9gag.com/gag/aQz4P2d)
+ - 👉 [Gentlemen. My fav movie scene.](http://9gag.com/gag/a87YLzV)<!-- MEMES:END -->
 
 ---
 

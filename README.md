@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Alexa, dammit](http://9gag.com/gag/aW40VLx)
- - 😝 [Dwight: \u201cl walk a different path..\u201d](http://9gag.com/gag/aKGPgKQ)
- - 💣 [Stable Diffusion users and NSFW](http://9gag.com/gag/azxE71m)
- - 😝 [Man can&#39;t watch football and has to wash dishes tonight.](http://9gag.com/gag/aMVbpz6)
- - 👉 [Nice one &lpar;not mine&rpar;](http://9gag.com/gag/a9yLb0K)<!-- MEMES:END -->
+ - 😝 [Prove me wrong?](http://9gag.com/gag/aPA44vg)
+ - 😝 [Gentlemen. My fav movie scene.](http://9gag.com/gag/a87YLzV)
+ - 💣 [Not all the taxis are the same, especially in the UK](http://9gag.com/gag/agmvrEK)
+ - 😝 [Stable Diffusion users and NSFW](http://9gag.com/gag/azxE71m)
+ - 👉 [White](http://9gag.com/gag/a9yLbD6)<!-- MEMES:END -->
 
 ---
 

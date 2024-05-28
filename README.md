@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I\u2019m an OP so my choice is clear](http://9gag.com/gag/a9yLb4j)
- - 😝 [Poland: driver just said: Gentelman, can you escort us to hospital because of the baby?](http://9gag.com/gag/a7oyv4b)
- - 💣 [Women](http://9gag.com/gag/aqyNm0Y)
- - 😝 [HALT!!](http://9gag.com/gag/aqyNmzv)
- - 👉 [Real](http://9gag.com/gag/aZZxPDV)<!-- MEMES:END -->
+ - 😝 [Feminist&#39;s will be furious](http://9gag.com/gag/ae90N3W)
+ - 😝 [Can&#39;t they see how cool this style is?](http://9gag.com/gag/aNDZeWb)
+ - 💣 [White](http://9gag.com/gag/a9yLbD6)
+ - 😝 [Premium class on the security floor of the baggage compartment? -Boldly.](http://9gag.com/gag/awyKbVr)
+ - 👉 [Full Video in Comment Section](http://9gag.com/gag/awyK0P8)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Three VR game staples have arrived on Apple Vision Pro](https://appleinsider.com/articles/24/05/28/three-vr-game-staples-have-arrived-on-apple-vision-pro?utm_medium=rss)
+ - [Microsoft&#39;s Copilot PC and the M3 Mac killer myth](https://appleinsider.com/articles/24/05/28/microsofts-copilot-pc-and-the-m3-mac-killer-myth?utm_medium=rss)
+ - [Top AI tablets: iPad Pro with M4 versus Microsoft&#39;s new Surface Pro](https://appleinsider.com/inside/ipad-pro/vs/top-ai-tablets-ipad-pro-with-m4-versus-microsofts-new-surface-pro?utm_medium=rss)
  - [Lego’s first Legend of Zelda set is a 2,500-piece Great Deku Tree](https://www.theverge.com/2024/5/28/24166162/lego-legend-of-zelda-set-preorder-great-deku-tree)
- - [Chromebook Plus laptops are getting Google Gemini](https://www.theverge.com/2024/5/28/24166171/chromebook-plus-gemini-acer-asus-hp)
- - [OpenAI has a new safety team — it’s run by Sam Altman](https://www.theverge.com/2024/5/28/24166105/openai-safety-team-sam-altman)
- - [Microsoft confirms Call of Duty: Black Ops 6 is coming to Xbox Game Pass](https://www.theverge.com/2024/5/28/24166053/call-of-duty-black-ops-6-xbox-game-pass)
- - [If You Closed Your Chime Account, You Might Be Owed $150     - CNET](https://www.cnet.com/personal-finance/closed-a-chime-account-you-could-get-150-if-you-didnt-get-a-refund-on-time/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Chromebook Plus laptops are getting Google Gemini](https://www.theverge.com/2024/5/28/24166171/chromebook-plus-gemini-acer-asus-hp)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

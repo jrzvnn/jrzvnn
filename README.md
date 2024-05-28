@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Abu Dhabi-based edtech startup Alef Education, which serves kindergarten to 12th grade, aims to raise up to $515M in an IPO, Abu Dhabi&#39;s first IPO of 2024 &lpar;Julia Fioretti/Bloomberg&rpar;](http://www.techmeme.com/240528/p8#a240528p8)
+ - [MacBook Pro with OLED arrival rumor shifts again, this time back to 2026](https://appleinsider.com/articles/24/05/28/macbook-pro-with-oled-arrival-rumor-shifts-again-this-time-back-to-2026?utm_medium=rss)
  - [PayPal plans to build an ad sales business around data generated from users and tracking purchases, and hires ex-Uber ad boss Mark Grether as PayPal Ads SVP &lpar;Patrick Coffee/Wall Street Journal&rpar;](http://www.techmeme.com/240528/p7#a240528p7)
  - [How Researchers Cracked an 11-Year-Old Password to a $3 Million Crypto Wallet](https://www.wired.com/story/roboform-password-3-million-dollar-crypto-wallet/)
- - [How to fill out and sign PDF forms on iPhone and iPad](https://appleinsider.com/inside/iphone/tips/how-to-fill-out-and-sign-pdf-forms-on-iphone-and-ipad?utm_medium=rss)
- - [Chinese government data: foreign-branded smartphone shipments, most of which are iPhones, rose 52% YoY to ~3.5M in April, after stabilizing in March 2024 &lpar;Yuan Gao/Bloomberg&rpar;](http://www.techmeme.com/240528/p6#a240528p6)
- - [Memorial Day Sales Aren&#39;t Over Yet: Grab the Last Few Deals Before They&#39;re Gone     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-28/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to fill out and sign PDF forms on iPhone and iPad](https://appleinsider.com/inside/iphone/tips/how-to-fill-out-and-sign-pdf-forms-on-iphone-and-ipad?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

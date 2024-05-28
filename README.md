@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What a great company!](http://9gag.com/gag/a9yLbB6)
- - 😝 [The acceptance!](http://9gag.com/gag/aRBPwjq)
- - 💣 [Snaxx time](http://9gag.com/gag/aVvWO1O)
- - 😝 [Alexa, dammit](http://9gag.com/gag/aW40VLx)
- - 👉 [Stable Diffusion users and NSFW](http://9gag.com/gag/azxE71m)<!-- MEMES:END -->
+ - 😝 [Wanting to not be raped, murdered, and replaced by low IQ 3rd worlders is now a `massive racism problem.`Germany\u2019s massive racism problem has been caught on camera again. German elite partying on the luxury island of Sylt were filmed singing `Germany for Germans,foreigners out`](http://9gag.com/gag/a343vne)
+ - 😝 [Gentlemen. My fav movie scene.](http://9gag.com/gag/a87YLzV)
+ - 💣 [Premium class on the security floor of the baggage compartment? -Boldly.](http://9gag.com/gag/awyKbVr)
+ - 😝 [Have a rest](http://9gag.com/gag/aRBgxqG)
+ - 👉 [Dwight: \u201cl walk a different path..\u201d](http://9gag.com/gag/aKGPgKQ)<!-- MEMES:END -->
 
 ---
 

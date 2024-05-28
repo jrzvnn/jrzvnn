@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Prove me wrong?](http://9gag.com/gag/aPA44vg)
- - 😝 [Gentlemen. My fav movie scene.](http://9gag.com/gag/a87YLzV)
- - 💣 [Not all the taxis are the same, especially in the UK](http://9gag.com/gag/agmvrEK)
- - 😝 [Stable Diffusion users and NSFW](http://9gag.com/gag/azxE71m)
- - 👉 [White](http://9gag.com/gag/a9yLbD6)<!-- MEMES:END -->
+ - 😝 [Why there&#39;s never a Fast And Furious set in Germany..](http://9gag.com/gag/aVvWj3n)
+ - 😝 [White](http://9gag.com/gag/a9yLbD6)
+ - 💣 [Nice one &lpar;not mine&rpar;](http://9gag.com/gag/a9yLb0K)
+ - 😝 [Shoulder gunshot wounds are commonly fatal since the brachial artery is typically ruptured.](http://9gag.com/gag/aVvWz3P)
+ - 👉 [Have a rest](http://9gag.com/gag/aRBgxqG)<!-- MEMES:END -->
 
 ---
 

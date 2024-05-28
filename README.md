@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Verizon’s latest streaming deal is a $10 monthly YouTube Premium subscription](https://www.theverge.com/2024/5/28/24166612/verizon-streaming-deal-youtube-premium-subscription)
  - [Refreshed Beats Pill will reportedly gain Find My, 24-hour battery life, and better sound](https://www.theverge.com/2024/5/28/24166478/apple-beats-pill-2024-rumors-features)
  - [Wu-Tang’s rarest album is getting public play soon, says its NFT group owner](https://www.theverge.com/2024/5/28/24166428/wu-tang-once-upon-a-time-in-shaolin-album-public-play-tasmania-museum-old-new-art)
  - [Vivek Ramaswamy can’t even dunk on Buzzfeed right](https://www.theverge.com/2024/5/28/24166644/vivek-ramaswamy-buzzfeed-letter-shares)
- - [Best Memorial Day Deals for Home Security: Grab Big Savings Before They&#39;re Gone     - CNET](https://www.cnet.com/deals/best-memorial-day-home-security-sales-2024-05-28/#ftag=CAD590a51e)
- - [Microsoft is making Edge faster... starting with this one menu](https://www.theverge.com/2024/5/28/24166556/microsoft-edge-speed-upgrade-webui-2)<!-- TECH:END -->
+ - [Best Memorial Day Deals for Home Security: Grab Big Savings Before They&#39;re Gone     - CNET](https://www.cnet.com/deals/best-memorial-day-home-security-sales-2024-05-28/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

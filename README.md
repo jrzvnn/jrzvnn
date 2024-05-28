@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft’s ‘Auto Super Resolution’ DLSS competitor isn’t exclusive to Qualcomm](https://www.theverge.com/2024/5/28/24166413/microsoft-windows-auto-super-resolution-sr-qualcomm-npu-dlss-fsr)
  - [PayPal is building an ad network based on your Venmo data](https://www.theverge.com/2024/5/28/24166381/paypal-building-ad-network-transaction-data)
  - [The 27 Best Shows on Apple TV+ Right Now &lpar;June 2024&rpar;](https://www.wired.com/story/best-apple-tv-plus-shows/)
  - [Top AI tablets: iPad Pro with M4 versus Microsoft&#39;s new Surface Pro](https://appleinsider.com/inside/ipad-pro/vs/top-ai-tablets-ipad-pro-with-m4-versus-microsofts-new-surface-pro?utm_medium=rss)
- - [More Metal: Apple&#39;s iPad Pro Magic Keyboards, compared](https://appleinsider.com/inside/magic-keyboard/vs/more-metal-apples-ipad-pro-magic-keyboards-compared?utm_medium=rss)
- - [You Can&#39;t Turn Off Google AI Overviews, but There Are Workarounds     - CNET](https://www.cnet.com/tech/services-and-software/you-cant-turn-off-google-ai-overviews-but-there-are-workarounds/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [More Metal: Apple&#39;s iPad Pro Magic Keyboards, compared](https://appleinsider.com/inside/magic-keyboard/vs/more-metal-apples-ipad-pro-magic-keyboards-compared?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

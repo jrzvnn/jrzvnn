@@ -174,10 +174,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Well damnit man](http://9gag.com/gag/ary41L0)
- - 😝 [White](http://9gag.com/gag/a9yLbD6)
- - 💣 [Wanting to not be raped, murdered, and replaced by low IQ 3rd worlders is now a `massive racism problem.`Germany\u2019s massive racism problem has been caught on camera again. German elite partying on the luxury island of Sylt were filmed singing `Germany for Germans,foreigners out`](http://9gag.com/gag/a343vne)
+ - 😝 [Nice one &lpar;not mine&rpar;](http://9gag.com/gag/a9yLb0K)
+ - 💣 [Stable Diffusion users and NSFW](http://9gag.com/gag/azxE71m)
  - 😝 [Feminist&#39;s will be furious](http://9gag.com/gag/ae90N3W)
- - 👉 [Stable Diffusion users and NSFW](http://9gag.com/gag/azxE71m)<!-- MEMES:END -->
+ - 👉 [Wanting to not be raped, murdered, and replaced by low IQ 3rd worlders is now a `massive racism problem.`Germany\u2019s massive racism problem has been caught on camera again. German elite partying on the luxury island of Sylt were filmed singing `Germany for Germans,foreigners out`](http://9gag.com/gag/a343vne)<!-- MEMES:END -->
 
 ---
 

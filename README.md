@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Data compliance startup Transcend raised a $40M Series B round led by StepStone Group, bringing its total funding to nearly $90M &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/240528/p15#a240528p15)
  - [The best Memorial Day deals you can still get](https://www.theverge.com/24161521/best-memorial-day-sales-2024-tech-deals-tvs-headphones-robot-vacuums-electronics)
  - [Opera adds Google’s Gemini to its browsers](https://www.theverge.com/2024/5/28/24166295/opera-google-gemini-aria-read-aloud-ai)
  - [Porsche’s first hybrid 911 ‘deeply’ integrates CarPlay, but not the next-gen kind](https://www.theverge.com/2024/5/28/24166210/porsche-911-carrera-gts-hybrid-apple-carplay)
- - [A US judge sentences former FTX executive Ryan Salame to 7.5 years after he pled guilty to criminal charges over political contributions and more in 2023 &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/240528/p14#a240528p14)
- - [Microsoft confirms Call of Duty: Black Ops 6 will be available day one on Xbox Game Pass and PC Game Pass; Activision typically sells 20M+ copies of a COD game &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240528/p13#a240528p13)<!-- TECH:END -->
+ - [A US judge sentences former FTX executive Ryan Salame to 7.5 years after he pled guilty to criminal charges over political contributions and more in 2023 &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/240528/p14#a240528p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

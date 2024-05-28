@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chromebook Plus laptops are getting Google Gemini](https://www.theverge.com/2024/5/28/24166171/chromebook-plus-gemini-acer-asus-hp)
  - [OpenAI has a new safety team — it’s run by Sam Altman](https://www.theverge.com/2024/5/28/24166105/openai-safety-team-sam-altman)
  - [Microsoft confirms Call of Duty: Black Ops 6 is coming to Xbox Game Pass](https://www.theverge.com/2024/5/28/24166053/call-of-duty-black-ops-6-xbox-game-pass)
- - [Microsoft&#39;s Copilot PC and the M3 Mac killer myth](https://appleinsider.com/articles/24/05/28/microsofts-copilot-pc-and-the-m3-mac-killer-myth?utm_medium=rss)
- - [Google unveils new AI features for Chromebook Plus devices, says new Chromebook Plus users get a free year of Google One AI Premium, and updates old Chromebooks &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240528/p10#a240528p10)
- - [Why Microsoft bet on Surface](https://www.theverge.com/2024/5/28/24166127/microsoft-surface-ai-smart-home-google-vergecast)<!-- TECH:END -->
+ - [If You Closed Your Chime Account, You Might Be Owed $150     - CNET](https://www.cnet.com/personal-finance/closed-a-chime-account-you-could-get-150-if-you-didnt-get-a-refund-on-time/#ftag=CAD590a51e)
+ - [Memorial Day Sales Aren&#39;t Over Yet: Grab the Last Few Deals Before They&#39;re Gone     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-28/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

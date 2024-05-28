@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A leak purports to show thousands of pages of internal API documentation for Google Search, some of which appear to contradict Google&#39;s public statements &lpar;Rand Fishkin/SparkToro&rpar;](http://www.techmeme.com/240528/p21#a240528p21)
  - [Xencelabs Pen Display 16 review: A compact digital art masterpiece](https://appleinsider.com/articles/24/05/28/xencelabs-pen-display-16-review-a-compact-digital-art-masterpiece?utm_medium=rss)
  - [Telegram gets an in-app Copilot bot](https://www.theverge.com/2024/5/28/24166451/telegram-copilot-microsoft-ai-chatbot)
  - [Google won’t comment on a potentially massive leak of its search algorithm documentation](https://www.theverge.com/2024/5/28/24166177/google-search-ranking-algorithm-leak-documents-link-seo)
- - [&#39;Paper Mario: The Thousand-Year Door&#39; Sets the Standard for Classic Game Remakes](https://www.wired.com/story/paper-mario-the-thousand-year-door-sets-the-standard-for-classic-game-remakes/)
- - [HubSpot shares jump 8%+ after CNBC&#39;s David Faber reported that Alphabet is in talks about an all-stock bid for the company &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/240528/p20#a240528p20)<!-- TECH:END -->
+ - [&#39;Paper Mario: The Thousand-Year Door&#39; Sets the Standard for Classic Game Remakes](https://www.wired.com/story/paper-mario-the-thousand-year-door-sets-the-standard-for-classic-game-remakes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

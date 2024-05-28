@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shoulder gunshot wounds are commonly fatal since the brachial artery is typically ruptured.](http://9gag.com/gag/aVvWz3P)
- - 😝 [Average backpaker things in SEA](http://9gag.com/gag/awyKKOy)
- - 💣 [All hail Denmark](http://9gag.com/gag/aLnPBOA)
- - 😝 [Do it, do it, do it](http://9gag.com/gag/avygp4Z)
- - 👉 [Long story short...](http://9gag.com/gag/aKGPPpg)<!-- MEMES:END -->
+ - 😝 [Dwight: \u201cl walk a different path..\u201d](http://9gag.com/gag/aKGPgKQ)
+ - 😝 [What do you think about that?](http://9gag.com/gag/amo00O4)
+ - 💣 [Snaxx time](http://9gag.com/gag/aVvWO1O)
+ - 😝 [All hail Denmark](http://9gag.com/gag/aLnPBOA)
+ - 👉 [My fellow 9gaggers](http://9gag.com/gag/aAyrro9)<!-- MEMES:END -->
 
 ---
 

@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [White](http://9gag.com/gag/a9yLbD6)
  - 😝 [Dwight: \u201cl walk a different path..\u201d](http://9gag.com/gag/aKGPgKQ)
- - 💣 [Snaxx time](http://9gag.com/gag/aVvWO1O)
- - 😝 [Feminist&#39;s will be furious](http://9gag.com/gag/ae90N3W)
- - 👉 [Prove me wrong?](http://9gag.com/gag/aPA44vg)<!-- MEMES:END -->
+ - 😝 [Shoulder gunshot wounds are commonly fatal since the brachial artery is typically ruptured.](http://9gag.com/gag/aVvWz3P)
+ - 💣 [White](http://9gag.com/gag/a9yLbD6)
+ - 😝 [Well damnit man](http://9gag.com/gag/ary41L0)
+ - 👉 [My fellow 9gaggers](http://9gag.com/gag/aAyrro9)<!-- MEMES:END -->
 
 ---
 

@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Made in China](http://9gag.com/gag/a6ZyLOm)
- - 😝 [What Other Scene Would You Recommend?](http://9gag.com/gag/azxELWx)
- - 💣 [Gentlemen. My fav movie scene.](http://9gag.com/gag/a87YLzV)
- - 😝 [All hail Denmark](http://9gag.com/gag/aLnPBOA)
- - 👉 [My fellow 9gaggers](http://9gag.com/gag/aAyrro9)<!-- MEMES:END -->
+ - 😝 [My fellow 9gaggers](http://9gag.com/gag/aAyrro9)
+ - 😝 [THE SAX](http://9gag.com/gag/aPA44OR)
+ - 💣 [Meanwhile in Europe \ud83d\udd0a](http://9gag.com/gag/avygLKM)
+ - 😝 [Well surprise.](http://9gag.com/gag/azxEE5j)
+ - 👉 [Say the line bart](http://9gag.com/gag/aGywwyK)<!-- MEMES:END -->
 
 ---
 

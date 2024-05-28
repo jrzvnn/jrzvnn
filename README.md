@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Italian Patriots Tired Of Being Invaded And Destroyed](http://9gag.com/gag/aE01z69)
- - 😝 [My fellow 9gaggers](http://9gag.com/gag/aAyrro9)
- - 💣 [Middle craft](http://9gag.com/gag/a9yLLDK)
- - 😝 [Random](http://9gag.com/gag/ary4Rbd)
- - 👉 [Well surprise.](http://9gag.com/gag/azxEE5j)<!-- MEMES:END -->
+ - 😝 [Well damnit man](http://9gag.com/gag/ary41L0)
+ - 😝 [The perfect American wife](http://9gag.com/gag/a2vYqEe)
+ - 💣 [White](http://9gag.com/gag/a9yLbD6)
+ - 😝 [What Other Scene Would You Recommend?](http://9gag.com/gag/azxELWx)
+ - 👉 [My fellow 9gaggers](http://9gag.com/gag/aAyrro9)<!-- MEMES:END -->
 
 ---
 

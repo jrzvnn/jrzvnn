@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stable Diffusion users and NSFW](http://9gag.com/gag/azxE71m)
- - 😝 [Mom, may I fly?](http://9gag.com/gag/aAyrBQp)
- - 💣 [Can&#39;t they see how cool this style is?](http://9gag.com/gag/aNDZeWb)
+ - 😝 [Shoulder gunshot wounds are commonly fatal since the brachial artery is typically ruptured.](http://9gag.com/gag/aVvWz3P)
+ - 😝 [Well damnit man](http://9gag.com/gag/ary41L0)
+ - 💣 [Stable Diffusion users and NSFW](http://9gag.com/gag/azxE71m)
  - 😝 [White](http://9gag.com/gag/a9yLbD6)
- - 👉 [Gentlemen. My fav movie scene.](http://9gag.com/gag/a87YLzV)<!-- MEMES:END -->
+ - 👉 [Have a rest](http://9gag.com/gag/aRBgxqG)<!-- MEMES:END -->
 
 ---
 

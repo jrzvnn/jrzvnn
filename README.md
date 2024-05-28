@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Defunct bitcoin exchange Mt. Gox, which collapsed in 2014, moves 140K bitcoin, worth ~$9B, to an unknown address, likely part of a plan to repay creditors &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/240528/p3#a240528p3)
  - [Cops Are Just Trolling Cybercriminals Now](https://www.wired.com/story/cop-cybercriminal-hacker-psyops/)
+ - [Memorial Day Sales Aren&#39;t Over Yet: Grab Last-Minute Deals on TVs, Tech, Furniture and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-28/#ftag=CAD590a51e)
  - [Dealroom: in 2023, the combined enterprise value of Spanish startups surpassed &amp;euro;100B, and they raised &amp;euro;2.2B across 850+ funding rounds &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/240528/p2#a240528p2)
- - [Memorial Day Sales Aren&#39;t Over Yet: Find Hefty Deals on TVs, Tech, Furniture and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-27/#ftag=CAD590a51e)
- - [Don&#39;t Snooze on These Memorial Day Sleep Savings: The Best Deals on Cooling Pillows, Comforters and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sleep-deals-2024-05-27/#ftag=CAD590a51e)
- - [How AI demand is driving a rally in old school stocks in the utilities, energy, and materials sectors, which are needed to make and operate AI products &lpar;Charley Grant/Wall Street Journal&rpar;](http://www.techmeme.com/240528/p1#a240528p1)<!-- TECH:END -->
+ - [Don&#39;t Snooze on These Memorial Day Sleep Savings: The Best Deals on Cooling Pillows, Comforters and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sleep-deals-2024-05-27/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

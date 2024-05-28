@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft is making Edge faster... starting with this one menu](https://www.theverge.com/2024/5/28/24166556/microsoft-edge-speed-upgrade-webui-2)
- - [In a podcast, former OpenAI board member Helen Toner says the board learned of ChatGPT&#39;s launch on Twitter, criticizes Sam Altman&#39;s leadership on safety, more &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/240528/p22#a240528p22)
- - [A leak purports to show thousands of pages of internal API documentation for Google Search, some of which appear to contradict Google&#39;s public statements &lpar;Rand Fishkin/SparkToro&rpar;](http://www.techmeme.com/240528/p21#a240528p21)
- - [Memorial Day Sales Aren&#39;t Over Yet: Grab the Last Few Deals Before They&#39;re Gone     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-28/#ftag=CAD590a51e)
- - [Xencelabs Pen Display 16 review: A compact digital art masterpiece](https://appleinsider.com/articles/24/05/28/xencelabs-pen-display-16-review-a-compact-digital-art-masterpiece?utm_medium=rss)<!-- TECH:END -->
+ - [Refreshed Beats Pill will reportedly gain Find My, 24-hour battery life, and better sound](https://www.theverge.com/2024/5/28/24166478/apple-beats-pill-2024-rumors-features)
+ - [Wu-Tang’s rarest album is getting public play soon, says its NFT group owner](https://www.theverge.com/2024/5/28/24166428/wu-tang-once-upon-a-time-in-shaolin-album-public-play-tasmania-museum-old-new-art)
+ - [Vivek Ramaswamy can’t even dunk on Buzzfeed right](https://www.theverge.com/2024/5/28/24166644/vivek-ramaswamy-buzzfeed-letter-shares)
+ - [Best Memorial Day Deals for Home Security: Grab Big Savings Before They&#39;re Gone     - CNET](https://www.cnet.com/deals/best-memorial-day-home-security-sales-2024-05-28/#ftag=CAD590a51e)
+ - [Microsoft is making Edge faster... starting with this one menu](https://www.theverge.com/2024/5/28/24166556/microsoft-edge-speed-upgrade-webui-2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

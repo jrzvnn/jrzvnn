@@ -173,10 +173,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why there&#39;s never a Fast And Furious set in Germany..](http://9gag.com/gag/aVvWj3n)
- - 😝 [White](http://9gag.com/gag/a9yLbD6)
- - 💣 [Nice one &lpar;not mine&rpar;](http://9gag.com/gag/a9yLb0K)
- - 😝 [Shoulder gunshot wounds are commonly fatal since the brachial artery is typically ruptured.](http://9gag.com/gag/aVvWz3P)
+ - 😝 [Feminist&#39;s will be furious](http://9gag.com/gag/ae90N3W)
+ - 😝 [Dwight: \u201cl walk a different path..\u201d](http://9gag.com/gag/aKGPgKQ)
+ - 💣 [Gentlemen. My fav movie scene.](http://9gag.com/gag/a87YLzV)
+ - 😝 [Stable Diffusion users and NSFW](http://9gag.com/gag/azxE71m)
  - 👉 [Have a rest](http://9gag.com/gag/aRBgxqG)<!-- MEMES:END -->
 
 ---

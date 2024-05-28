@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Why Epic’s lawsuit against Apple just won’t quit](https://www.theverge.com/2024/5/28/24158911/apple-v-epic-evidentiary-hearing-app-store-payments)
  - [Data compliance startup Transcend raised a $40M Series B led by StepStone Group, bringing its total funding to nearly $90M &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/240528/p15#a240528p15)
  - [The best Memorial Day deals you can still get](https://www.theverge.com/24161521/best-memorial-day-sales-2024-tech-deals-tvs-headphones-robot-vacuums-electronics)
  - [Opera adds Google’s Gemini to its browsers](https://www.theverge.com/2024/5/28/24166295/opera-google-gemini-aria-read-aloud-ai)
- - [Porsche’s first hybrid 911 ‘deeply’ integrates CarPlay, but not the next-gen kind](https://www.theverge.com/2024/5/28/24166210/porsche-911-carrera-gts-hybrid-apple-carplay)
- - [Score This Tribit Stormbox Micro 2 Bluetooth Speaker for Just $51 at Amazon Right Now     - CNET](https://www.cnet.com/deals/score-this-tribit-stormbox-micro-2-bluetooth-speaker-for-just-51-at-amazon-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Porsche’s first hybrid 911 ‘deeply’ integrates CarPlay, but not the next-gen kind](https://www.theverge.com/2024/5/28/24166210/porsche-911-carrera-gts-hybrid-apple-carplay)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

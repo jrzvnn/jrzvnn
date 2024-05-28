@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I will beat her lifeless if it\u2019s the last thing I do](http://9gag.com/gag/ae90Nxp)
- - 😝 [Can&#39;t they see how cool this style is?](http://9gag.com/gag/aNDZeWb)
- - 💣 [Gentlemen. My fav movie scene.](http://9gag.com/gag/a87YLzV)
- - 😝 [Feminist&#39;s will be furious](http://9gag.com/gag/ae90N3W)
- - 👉 [White](http://9gag.com/gag/a9yLbD6)<!-- MEMES:END -->
+ - 😝 [But it looks so good](http://9gag.com/gag/aNDZeAK)
+ - 😝 [Well well well](http://9gag.com/gag/aXPpb1v)
+ - 💣 [HALT!!](http://9gag.com/gag/aqyNmzv)
+ - 😝 [Real](http://9gag.com/gag/aZZxPDV)
+ - 👉 [Women](http://9gag.com/gag/aqyNm0Y)<!-- MEMES:END -->
 
 ---
 

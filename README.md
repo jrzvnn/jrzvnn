@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My fellow 9gaggers](http://9gag.com/gag/aAyrro9)
- - 😝 [Long story short...](http://9gag.com/gag/aKGPPpg)
- - 💣 [Snaxx time](http://9gag.com/gag/aVvWO1O)
- - 😝 [Dwight: \u201cl walk a different path..\u201d](http://9gag.com/gag/aKGPgKQ)
- - 👉 [Premium class on the security floor of the baggage compartment? -Boldly.](http://9gag.com/gag/awyKbVr)<!-- MEMES:END -->
+ - 😝 [Average backpaker things in SEA](http://9gag.com/gag/awyKKOy)
+ - 😝 [Is this true? Swedish pls confirm. Thoughts?](http://9gag.com/gag/ary44WB)
+ - 💣 [What do you think about that?](http://9gag.com/gag/amo00O4)
+ - 😝 [All hail Denmark](http://9gag.com/gag/aLnPBOA)
+ - 👉 [My fellow 9gaggers](http://9gag.com/gag/aAyrro9)<!-- MEMES:END -->
 
 ---
 

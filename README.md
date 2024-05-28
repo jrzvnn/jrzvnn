@@ -168,7 +168,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [The best Memorial Day deals you can still get](https://www.theverge.com/24161521/best-memorial-day-sales-2024-tech-deals-tvs-headphones-robot-vacuums-electronics)
  - [Opera adds Google’s Gemini to its browsers](https://www.theverge.com/2024/5/28/24166295/opera-google-gemini-aria-read-aloud-ai)
  - [Porsche’s first hybrid 911 ‘deeply’ integrates CarPlay, but not the next-gen kind](https://www.theverge.com/2024/5/28/24166210/porsche-911-carrera-gts-hybrid-apple-carplay)
- - [A US judge sentences former FTX executive Ryan Salame to 7.5 years after he pled guilty to criminal charges over political contributions and more in 2023 &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/240528/p14#a240528p14)<!-- TECH:END -->
+ - [Score This Tribit Stormbox Micro 2 Bluetooth Speaker for Just $51 at Amazon Right Now     - CNET](https://www.cnet.com/deals/score-this-tribit-stormbox-micro-2-bluetooth-speaker-for-just-51-at-amazon-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

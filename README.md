@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Opera adds Google’s Gemini to its browsers](https://www.theverge.com/2024/5/28/24166295/opera-google-gemini-aria-read-aloud-ai)
+ - [Porsche’s first hybrid 911 ‘deeply’ integrates CarPlay, but not the next-gen kind](https://www.theverge.com/2024/5/28/24166210/porsche-911-carrera-gts-hybrid-apple-carplay)
  - [A US judge sentences former FTX executive Ryan Salame to 7.5 years after he pled guilty to criminal charges over political contributions and more in 2023 &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/240528/p14#a240528p14)
  - [Microsoft confirms Call of Duty: Black Ops 6 will be available day one on Xbox Game Pass and PC Game Pass; Activision typically sells 20M+ copies of a COD game &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240528/p13#a240528p13)
- - [The 10th-gen iPad drops to $300 for the first time](https://www.theverge.com/2024/5/28/24166180/amazon-apple-ipad-samsung-galaxy-buds-2-deal-sale)
- - [A US appeals court sets a fast-track schedule to consider legal challenges to the US law requiring a TikTok ban or sale, with oral arguments in September 2024 &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/240528/p12#a240528p12)
- - [Private equity firm Bridgepoint buys a majority stake in LumApps, used by ~700 organizations to build and provision comms and workforce apps, in a $650M deal &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240528/p11#a240528p11)<!-- TECH:END -->
+ - [The 10th-gen iPad drops to $300 for the first time](https://www.theverge.com/2024/5/28/24166180/amazon-apple-ipad-samsung-galaxy-buds-2-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

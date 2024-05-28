@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Hearing Study rings the alarm on tinnitus](https://appleinsider.com/articles/24/05/28/apple-hearing-study-rings-the-alarm-on-tinnitus?utm_medium=rss)
  - [T-Mobile signs a $4.4 billion deal to buy most of US Cellular](https://www.theverge.com/2024/5/28/24166093/tmobile-us-cellulars-wireless-acquisition-4-billion)
  - [Apple&#39;s iPhone 16 screens are ready to go, except for iPhone 16 Pro Max](https://appleinsider.com/articles/24/05/28/apples-iphone-16-screens-are-ready-to-go-except-for-iphone-16-pro-max?utm_medium=rss)
  - [Torras 360 Spin Stand Case for iPhone 15 Pro Max has a MagSafe-compatible ring stand](https://appleinsider.com/articles/24/05/28/torras-360-spin-stand-case-for-iphone-15-pro-max-has-a-magsafe-compatible-ring-stand?utm_medium=rss)
- - [Microsoft&#39;s Copilot PC and the M3 Mac killer myth](https://appleinsider.com/articles/24/05/28/microsofts-copilot-pc-and-the-m3-mac-killer-myth?utm_medium=rss)
- - [Logitech Mevo Core Review: Dead Simple Multi-Cam Streaming](https://www.wired.com/review/logitech-mevo-core/)<!-- TECH:END -->
+ - [Microsoft&#39;s Copilot PC and the M3 Mac killer myth](https://appleinsider.com/articles/24/05/28/microsofts-copilot-pc-and-the-m3-mac-killer-myth?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

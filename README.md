@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How We Test Fitness Equipment     - CNET](https://www.cnet.com/health/how-we-test-fitness-equipment/#ftag=CAD590a51e)
+ - [Apple confirms WWDC 2024 keynote timing, but offers no more AI hints](https://appleinsider.com/articles/24/05/28/apple-confirms-wwdc-2024-keynote-timing-but-offers-no-more-ai-hints?utm_medium=rss)
+ - [Anthropic hires former OpenAI safety lead Jan Leike to head up a new &quot;superalignment&quot; team &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240528/p17#a240528p17)
  - [In a spat on X, Meta&#39;s Chief AI Scientist Yann LeCun calls out Elon Musk for saying xAI will pursue &quot;truth&quot; as Musk spreads &quot;crazy-ass conspiracy theories&quot; on X &lpar;Maxwell Zeff/Gizmodo&rpar;](http://www.techmeme.com/240528/p16#a240528p16)
  - [Why Epic’s lawsuit against Apple just won’t quit](https://www.theverge.com/2024/5/28/24158911/apple-v-epic-evidentiary-hearing-app-store-payments)
- - [This Special Sapphire Garmin Smartwatch Is Down to Its Lowest Price Ever     - CNET](https://www.cnet.com/deals/this-special-sapphire-garmin-smartwatch-is-down-to-its-lowest-price-ever/#ftag=CAD590a51e)
- - [Here&#39;s the Average Electric Bill in California &lpar;and How to Save&rpar;     - CNET](https://www.cnet.com/home/energy-and-utilities/heres-the-average-electric-bill-in-california-and-how-to-save/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Data compliance startup Transcend raised a $40M Series B led by StepStone Group, bringing its total funding to nearly $90M &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/240528/p15#a240528p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

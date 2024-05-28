@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The hacking group RansomHub claims to be behind the attack that hit Christie&#39;s, and threatens to release sensitive information about the auction house&#39;s clients &lpar;Zachary Small/New York Times&rpar;](http://www.techmeme.com/240527/p8#a240527p8)
- - [Best Internet Providers in St. Paul, Minnesota     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-st-paul-mn/#ftag=CAD590a51e)
- - [Get Them Before They&#39;re Gone: The Best Memorial Day Deals for Under $100     - CNET](https://www.cnet.com/deals/best-memorial-day-deals-under-100-2024-05-27/#ftag=CAD590a51e)
- - [Memorial Day Sales 2024: Snag Huge Savings on TVs, Tech, Furniture and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-27/#ftag=CAD590a51e)
- - [Meta adds safety features to CrowdTangle for use during the EU elections, in a bid to address EU concerns over Meta&#39;s plan to shut down the tool in August 2024 &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240527/p7#a240527p7)<!-- TECH:END -->
+ - [Memorial Day Sales Aren&#39;t Over Yet: Find Hefty Deals on TVs, Tech, Furniture and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-27/#ftag=CAD590a51e)
+ - [My Favorite Sunrise Alarm Clock From Hatch Is $30 Cheaper This Memorial Day     - CNET](https://www.cnet.com/deals/hatch-restore-memorial-day-2024/#ftag=CAD590a51e)
+ - [Nectar Mattresses Start at $349 This Memorial Day     - CNET](https://www.cnet.com/deals/nectar-memorial-day-deal-2024/#ftag=CAD590a51e)
+ - [My Favorite Mattress of 5 Years is On Sale This Memorial Day     - CNET](https://www.cnet.com/deals/purple-mattress-memorial-day-2024/#ftag=CAD590a51e)
+ - [Best Buy Memorial Day Sale: Save Big on Apple, Samsung, Dyson, and More     - CNET](https://www.cnet.com/deals/best-buy-memorial-day-sale-24-05-27/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

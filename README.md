@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Feminist&#39;s will be furious](http://9gag.com/gag/ae90N3W)
- - 😝 [Can&#39;t they see how cool this style is?](http://9gag.com/gag/aNDZeWb)
+ - 😝 [Gentlemen. My fav movie scene.](http://9gag.com/gag/a87YLzV)
+ - 😝 [Reality check](http://9gag.com/gag/ae93Xpp)
  - 💣 [White](http://9gag.com/gag/a9yLbD6)
  - 😝 [Premium class on the security floor of the baggage compartment? -Boldly.](http://9gag.com/gag/awyKbVr)
- - 👉 [Full Video in Comment Section](http://9gag.com/gag/awyK0P8)<!-- MEMES:END -->
+ - 👉 [I will beat her lifeless if it\u2019s the last thing I do](http://9gag.com/gag/ae90Nxp)<!-- MEMES:END -->
 
 ---
 

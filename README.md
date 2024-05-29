@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lady\u2019s is this true ?](http://9gag.com/gag/agmvG31)
- - 😝 [Berlin, Germany](http://9gag.com/gag/an7KKGB)
- - 💣 [Prove me wrong?](http://9gag.com/gag/aPA44vg)
- - 😝 [Average backpaker things in SEA](http://9gag.com/gag/awyKKOy)
- - 👉 [Diversity is our strength](http://9gag.com/gag/aRBPPZQ)<!-- MEMES:END -->
+ - 😝 [Long story short...](http://9gag.com/gag/aKGPPpg)
+ - 😝 [Diversity is our strength](http://9gag.com/gag/aRBPPZQ)
+ - 💣 [Average backpaker things in SEA](http://9gag.com/gag/awyKKOy)
+ - 😝 [Prove me wrong?](http://9gag.com/gag/aPA44vg)
+ - 👉 [Women: \u2615\ufe0f](http://9gag.com/gag/azxEjvx)<!-- MEMES:END -->
 
 ---
 

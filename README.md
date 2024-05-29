@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Me watching gigi posts](http://9gag.com/gag/a9yLYBL)
- - 😝 [This man is driving his car, meanwhile he has a suspended license.](http://9gag.com/gag/ae9065b)
- - 💣 [Meanwhile in Europe \ud83d\udd0a](http://9gag.com/gag/avygLKM)
- - 😝 [NDR now deleted the tweet. Imagine having to pay \u20ac19/month for this news channels like this as a German.](http://9gag.com/gag/an7K1zo)
- - 👉 [Lady\u2019s is this true ?](http://9gag.com/gag/agmvG31)<!-- MEMES:END -->
+ - 😝 [Lady\u2019s is this true ?](http://9gag.com/gag/agmvG31)
+ - 😝 [Berlin, Germany](http://9gag.com/gag/an7KKGB)
+ - 💣 [Prove me wrong?](http://9gag.com/gag/aPA44vg)
+ - 😝 [Average backpaker things in SEA](http://9gag.com/gag/awyKKOy)
+ - 👉 [Diversity is our strength](http://9gag.com/gag/aRBPPZQ)<!-- MEMES:END -->
 
 ---
 

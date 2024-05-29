@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The business behind Unnecessary Inventions’ millions of followers](https://www.theverge.com/24166254/unnecessary-inventions-matty-benedetto-behind-the-scenes-full-frame-creators)
- - [PayPal adds its PayPal USD stablecoin, launched on Ethereum in August 2023 and issued by Paxos, to Solana; PYUSD currently has a nearly $400M market cap &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/240529/p17#a240529p17)
- - [Make the Most of Up to 60% Discounts in Mattress Firm&#39;s Extended Memorial Day Sale     - CNET](https://www.cnet.com/deals/make-the-most-of-up-to-60-discounts-in-mattress-firms-extended-memorial-day-sale/#ftag=CAD590a51e)
- - [Score an Extra $150 Off This Already Discounted Jackery Portable Power Station     - CNET](https://www.cnet.com/deals/score-an-extra-150-off-this-already-discounted-jackery-portable-power-station-memorial-day/#ftag=CAD590a51e)
- - [Memorial Day Sales Aren&#39;t Over Yet: This Could Be the Final Day for These Huge Discounts     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-29/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Brad Pitt &amp; George Clooney are lone &#39;Wolfs&#39; in Apple movie trailer](https://appleinsider.com/articles/24/05/29/brad-pitt-george-clooney-are-lone-wolfs-in-apple-movie-trailer?utm_medium=rss)
+ - [French publishers ask Tim Cook to abandon forthcoming Web Eraser](https://appleinsider.com/articles/24/05/29/french-publishers-ask-tim-cook-to-abandon-forthcoming-web-eraser?utm_medium=rss)
+ - [Beats Solo Buds shipping on June 20, preorders on June 18](https://appleinsider.com/articles/24/05/29/beats-solo-buds-shipping-on-june-20-preorders-on-june-18?utm_medium=rss)
+ - [11 Best USB Microphones &lpar;2024&rpar;: USB-C, USB-A, Wireless, and Mic Accessories](https://www.wired.com/gallery/best-usb-microphones/)
+ - [Fitbit Ace LTE Kids Smartwatch: Specs, Features, Release Date, Price](https://www.wired.com/story/fitbit-ace-lte-kids-smartwatch/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

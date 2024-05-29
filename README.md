@@ -173,10 +173,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Took her a while](http://9gag.com/gag/azxEVAN)
+ - 😝 [Long story short...](http://9gag.com/gag/aKGPPpg)
+ - 😝 [Diversity is our strength](http://9gag.com/gag/aRBPPZQ)
+ - 💣 [Burger](http://9gag.com/gag/aZZxpNQ)
  - 😝 [Average backpaker things in SEA](http://9gag.com/gag/awyKKOy)
- - 💣 [Diversity is our strength](http://9gag.com/gag/aRBPPZQ)
- - 😝 [Burger](http://9gag.com/gag/aZZxpNQ)
  - 👉 [Prove me wrong?](http://9gag.com/gag/aPA44vg)<!-- MEMES:END -->
 
 ---

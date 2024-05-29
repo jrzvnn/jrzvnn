@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Long story short...](http://9gag.com/gag/aKGPPpg)
- - 😝 [Diversity is our strength](http://9gag.com/gag/aRBPPZQ)
- - 💣 [Average backpaker things in SEA](http://9gag.com/gag/awyKKOy)
- - 😝 [Prove me wrong?](http://9gag.com/gag/aPA44vg)
- - 👉 [Women: \u2615\ufe0f](http://9gag.com/gag/azxEjvx)<!-- MEMES:END -->
+ - 😝 [NDR now deleted the tweet. Imagine having to pay \u20ac19/month for this news channels like this as a German.](http://9gag.com/gag/an7K1zo)
+ - 😝 [Meanwhile in Europe \ud83d\udd0a](http://9gag.com/gag/avygLKM)
+ - 💣 [Lady\u2019s is this true ?](http://9gag.com/gag/agmvG31)
+ - 😝 [Me watching gigi posts](http://9gag.com/gag/a9yLYBL)
+ - 👉 [Let\u2019s go again, hopefully it wont get deleted.](http://9gag.com/gag/adBYXKZ)<!-- MEMES:END -->
 
 ---
 

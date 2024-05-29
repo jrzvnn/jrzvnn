@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Long story short...](http://9gag.com/gag/aKGPPpg)
- - 😝 [That moment of realization](http://9gag.com/gag/aoy0z1n)
- - 💣 [My fellow 9gaggers](http://9gag.com/gag/aAyrro9)
+ - 😝 [Feminist&#39;s will be furious](http://9gag.com/gag/ae90N3W)
+ - 😝 [The struggle is real](http://9gag.com/gag/aVvWQyO)
+ - 💣 [Prove me wrong?](http://9gag.com/gag/aPA44vg)
  - 😝 [Women: \u2615\ufe0f](http://9gag.com/gag/azxEjvx)
- - 👉 [I want to know](http://9gag.com/gag/aoy09D0)<!-- MEMES:END -->
+ - 👉 [Average backpaker things in SEA](http://9gag.com/gag/awyKKOy)<!-- MEMES:END -->
 
 ---
 

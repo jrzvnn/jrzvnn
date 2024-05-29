@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Meta open sourcing its Llama models helped make Mark Zuckerberg popular again in Silicon Valley, reversing developer skepticism; Llama 2 has 180M+ downloads &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/240529/p13#a240529p13)
  - [Germany’s Far-Right Party Is Running Hateful Ads on Facebook and Instagram](https://www.wired.com/story/meta-racist-ads-germany-eu-elections/)
  - [Tencent-owned Supercell, the developer behind Clash of Clans, releases Squad Busters, its first title in over five years; Supercell had &amp;euro;1.7B in 2023 revenue &lpar;Richard Milne/Financial Times&rpar;](http://www.techmeme.com/240529/p12#a240529p12)
  - [Sensor Tower: Tencent&#39;s Dungeon &amp; Fighter Mobile generated $140M+ in player spending in its first week in China, and 2.6M iOS users downloaded the game in China &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/240529/p11#a240529p11)
- - [Support for more smart home accessories arriving in iOS 17.6](https://appleinsider.com/articles/24/05/29/support-for-more-smart-home-accessories-arriving-in-ios-176?utm_medium=rss)
- - [Memorial Day Sales Aren&#39;t Over Yet: This Could Be the Final Day for These Huge Discounts     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-29/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Support for more smart home accessories arriving in iOS 17.6](https://appleinsider.com/articles/24/05/29/support-for-more-smart-home-accessories-arriving-in-ios-176?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

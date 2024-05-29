@@ -165,10 +165,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Bigger and brighter: iPhone 16 &amp; iPhone 16 Pro rumored screen changes](https://appleinsider.com/articles/24/05/29/bigger-and-brighter-iphone-16-iphone-16-pro-rumored-screen-changes?utm_medium=rss)
+ - [UiPath CEO Rob Enslin is resigning on June 1, to be replaced by co-founder Daniel Dines, who stepped down as co-CEO on January 31; PATH drops 30%+ after hours &lpar;CNBC&rpar;](http://www.techmeme.com/240529/p31#a240529p31)
  - [HP reports Q2 revenue down 0.8% YoY to $12.8B, vs. $12.6B est., Personal Systems revenue up 3% to $8.43B, vs. $8.28B est., Printing revenue down 8% to $4.37B &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240529/p30#a240529p30)
  - [Final Fantasy VII Rebirth’s first discount takes $15 off](https://www.theverge.com/2024/5/29/24167183/final-fantasy-vii-rebirth-deal-sale-ps5)
- - [Salesforce reports Q1 revenue up 11% YoY to $9.13B, vs. $9.15B est., and forecasts Q2 revenue below expectations; CRM drops 17%+ after hours &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/240529/p29#a240529p29)
- - [How AI could change EV charging](https://www.theverge.com/2024/5/29/24162389/ai-ev-charging-pilot-study-university-of-michigan-utilidata)<!-- TECH:END -->
+ - [Salesforce reports Q1 revenue up 11% YoY to $9.13B, vs. $9.15B est., and forecasts Q2 revenue below expectations; CRM drops 17%+ after hours &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/240529/p29#a240529p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

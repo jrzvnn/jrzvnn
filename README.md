@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [8BitDo’s new IBM-like keyboard is all show but hits me in my mech heart](https://www.theverge.com/2024/5/29/24166972/8bitdo-retro-mechanical-keyboard-m-edition-ibm-announcement-price)
+ - [Apple&#39;s AI plans involves &#39;black box&#39; for cloud data](https://appleinsider.com/articles/24/05/29/apples-ai-plans-involves-black-box-for-cloud-data?utm_medium=rss)
  - [Arm announces its next-generation CPU and GPU designs for flagship smartphones: the Cortex-X925 CPU and Immortalis G925 GPU, likely in smartphones in late 2024 &lpar;Joanna Nelius/The Verge&rpar;](http://www.techmeme.com/240529/p20#a240529p20)
  - [Sony’s next State of Play stream is 30 minutes of PS5 and VR games](https://www.theverge.com/2024/5/29/24167017/sony-playstation-state-of-play-summer-game-fest)
- - [Arm says its next-gen mobile GPU will be its most ‘performant and efficient’](https://www.theverge.com/2024/5/29/24166216/arm-immortalis-g925-cortex-x925-mobile-soc)
- - [Apple&#39;s AI plans involves &#39;black box&#39; for cloud data](https://appleinsider.com/articles/24/05/29/apples-ai-plans-involves-black-box-for-cloud-data?utm_medium=rss)
- - [Best DIY Home Security Systems of 2024     - CNET](https://www.cnet.com/home/security/best-diy-home-security-systems/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Arm says its next-gen mobile GPU will be its most ‘performant and efficient’](https://www.theverge.com/2024/5/29/24166216/arm-immortalis-g925-cortex-x925-mobile-soc)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

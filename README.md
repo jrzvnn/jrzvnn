@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ticketmaster appears to have been breached by hacker group ShinyHunters, which claims it stole 560M customers&#39; sensitive data and is trying to sell it for $500K &lpar;Matt Binder/Mashable&rpar;](http://www.techmeme.com/240529/p28#a240529p28)
  - [Job listing suggests Apple is moving forward with plans for Apple TV on Android](https://appleinsider.com/articles/24/05/29/job-listing-suggests-apple-is-moving-forward-with-plans-for-apple-tv-on-android?utm_medium=rss)
  - [Framework now lets you upgrade its Laptop 13 with a drop-in 120Hz screen, better webcam, and Core Ultra chip](https://www.theverge.com/2024/5/29/24167310/framework-laptop-13-screen-webcam-core-ultra-sd-upgrades)
  - [Apple’s new iPad Pro ad puts the focus back on creators](https://www.theverge.com/2024/5/29/24167204/apple-ipad-pro-ad-creators-worlds-crushing-controversy)
- - [Chrome adds picture-in-picture web browsing for Android apps](https://www.theverge.com/2024/5/29/24167287/google-chrome-picture-in-picture-web-browsing-android-apps)
- - [Apple is seeking a senior engineer to help build a TV and sports app for Android, a sign the company is bringing its TV+ service to the rival platform &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240529/p27#a240529p27)<!-- TECH:END -->
+ - [Chrome adds picture-in-picture web browsing for Android apps](https://www.theverge.com/2024/5/29/24167287/google-chrome-picture-in-picture-web-browsing-android-apps)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

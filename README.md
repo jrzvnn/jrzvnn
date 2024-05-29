@@ -173,7 +173,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women: \u2615\ufe0f](http://9gag.com/gag/azxEjvx)
+ - 😝 [Me watching gigi posts](http://9gag.com/gag/a9yLYBL)
  - 😝 [This man is driving his car, meanwhile he has a suspended license.](http://9gag.com/gag/ae9065b)
  - 💣 [Meanwhile in Europe \ud83d\udd0a](http://9gag.com/gag/avygLKM)
  - 😝 [NDR now deleted the tweet. Imagine having to pay \u20ac19/month for this news channels like this as a German.](http://9gag.com/gag/an7K1zo)

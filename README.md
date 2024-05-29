@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dog sensed its owner&#39;s presence just by her scent.](http://9gag.com/gag/a4PdLP6)
- - 😝 [Ride,ride,ride](http://9gag.com/gag/axyZG4M)
- - 💣 [Stepdaughter asks her stepfather if he wants to adopt her](http://9gag.com/gag/a2vYq99)
- - 😝 [Now is the time...](http://9gag.com/gag/aKGPBnZ)
- - 👉 [It&#39;s not a strength](http://9gag.com/gag/aXPp9Mg)<!-- MEMES:END -->
+ - 😝 [Berlin, Germany](http://9gag.com/gag/an7KKGB)
+ - 😝 [Burger](http://9gag.com/gag/aZZxpNQ)
+ - 💣 [Prove me wrong?](http://9gag.com/gag/aPA44vg)
+ - 😝 [Lady\u2019s is this true ?](http://9gag.com/gag/agmvG31)
+ - 👉 [Diversity is our strength](http://9gag.com/gag/aRBPPZQ)<!-- MEMES:END -->
 
 ---
 

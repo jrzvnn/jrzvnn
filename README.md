@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PayPal adds its PayPal USD stablecoin, launched on Ethereum in August 2023 and issued by Paxos, to Solana; PYUSD currently has a nearly $400M market cap &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/240529/p17#a240529p17)
  - [KVM Monitors Let You Cut Down the Desk Clutter, and I Love It](https://www.wired.com/story/kvm-monitors-built-in-switch/)
  - [Amazon is publishing new open-world racer from former Forza developers](https://www.theverge.com/2024/5/29/24166351/amazon-maverick-games-publishing-deal-forza-ps5-xbox)
  - [The next No Man’s Sky update makes the game lonelier — and more dangerous](https://www.theverge.com/2024/5/29/24166275/no-mans-sky-adrift-update)
- - [Right to repair is now the law in Colorado](https://www.theverge.com/2024/5/29/24166894/colorado-right-to-repair-law-electronics-devices-parts-pairing)
- - [How the Biden administration passed on TikTok&#39;s Project Texas, a proposal to let the US pick its board, veto hires, and more, opting instead for a sale or ban &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/240529/p16#a240529p16)<!-- TECH:END -->
+ - [Right to repair is now the law in Colorado](https://www.theverge.com/2024/5/29/24166894/colorado-right-to-repair-law-electronics-devices-parts-pairing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This is the best look yet at Apple&#39;s immersive video cameras](https://appleinsider.com/articles/24/05/29/this-is-the-best-look-yet-at-apples-immersive-video-cameras?utm_medium=rss)
  - [EU Agency for Cybersecurity head Juhan Lepassaar says disruptive digital attacks, many tied to Russia-backed groups, have doubled in the EU in recent months &lpar;Derek Gatopoulos/Associated Press&rpar;](http://www.techmeme.com/240529/p9#a240529p9)
  - [Sony made a PSVR 2 adapter for PC support](https://www.theverge.com/2024/5/29/24166879/sony-psvr2-pc-support-adapter-certification-filing)
  - [Phil Wizard, Champion Breaker and Olympic Contender, Isn’t Convinced ‘Breakdancing’ Is a Sport](https://www.wired.com/story/big-interview-phil-wizard/)
- - [Brazilian digital bank Nubank hits a $58.2B market cap, surpassing Itau, previously the most valuable financial institution in Latin America, at ~$56B &lpar;Bloomberg&rpar;](http://www.techmeme.com/240529/p8#a240529p8)
- - [Best Memorial Day Deals Still Available Under $25: From Tech to Everyday Essentials     - CNET](https://www.cnet.com/deals/best-memorial-day-deals-under-25-2024-05-29/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Brazilian digital bank Nubank hits a $58.2B market cap, surpassing Itau, previously the most valuable financial institution in Latin America, at ~$56B &lpar;Bloomberg&rpar;](http://www.techmeme.com/240529/p8#a240529p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

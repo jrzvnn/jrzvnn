@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Malaysia plans to allocate at least ~$5.33B over the next 5-10 years under its new National Semiconductor Strategy, which aims to train 60,000 chip engineers &lpar;Norman Goh/Nikkei Asia&rpar;](http://www.techmeme.com/240529/p3#a240529p3)
  - [Google plans to shut down Google Business Profile chat, which let customers reach out to businesses in Maps and Search via text chat, on July 31, 2024 &lpar;Barry Schwartz/Search Engine Land&rpar;](http://www.techmeme.com/240529/p2#a240529p2)
+ - [Best Memorial Day Deals Under $50: Deals You Can Still Get on Tech, Home, Health Products and More     - CNET](https://www.cnet.com/deals/best-memorial-day-deals-under-50-2024-05-28/#ftag=CAD590a51e)
  - [Leaked letter: a US group representing Google, Amazon, and Apple asks India to rethink its DMA-like Digital Competition Bill, saying it could raise user costs &lpar;Reuters&rpar;](http://www.techmeme.com/240529/p1#a240529p1)
- - [Samsung&#39;s labor union said it will carry out its first ever strike after wage negotiations, which have been ongoing since the start of 2024, broke down &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/240528/p28#a240528p28)
- - [Don&#39;t Snooze on These Remaining Memorial Day Sleep Sales: The Best Deals on Cooling Pillows, Comforters and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sleep-deals-2024-05-28/#ftag=CAD590a51e)
- - [Memorial Day Sales Aren&#39;t Over Yet: Grab the Last Few Deals Before They&#39;re Gone     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-28/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Memorial Day Smart Home Deals: Think Smart and Save on Smart Displays, Vacuums, Lights and More     - CNET](https://www.cnet.com/deals/best-memorial-day-smart-home-sales-2024-05-28/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

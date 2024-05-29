@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Crypto exchange Gemini says Gemini Earn users will get $2.18B in crypto back in kind, after the lending program folded in November 2022 &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/240529/p18#a240529p18)
  - [Brad Pitt &amp; George Clooney are lone &#39;Wolfs&#39; in Apple movie trailer](https://appleinsider.com/articles/24/05/29/brad-pitt-george-clooney-are-lone-wolfs-in-apple-movie-trailer?utm_medium=rss)
  - [French publishers ask Tim Cook to abandon forthcoming Web Eraser](https://appleinsider.com/articles/24/05/29/french-publishers-ask-tim-cook-to-abandon-forthcoming-web-eraser?utm_medium=rss)
  - [Beats Solo Buds shipping on June 20, preorders on June 18](https://appleinsider.com/articles/24/05/29/beats-solo-buds-shipping-on-june-20-preorders-on-june-18?utm_medium=rss)
- - [11 Best USB Microphones &lpar;2024&rpar;: USB-C, USB-A, Wireless, and Mic Accessories](https://www.wired.com/gallery/best-usb-microphones/)
- - [Fitbit Ace LTE Kids Smartwatch: Specs, Features, Release Date, Price](https://www.wired.com/story/fitbit-ace-lte-kids-smartwatch/)<!-- TECH:END -->
+ - [11 Best USB Microphones &lpar;2024&rpar;: USB-C, USB-A, Wireless, and Mic Accessories](https://www.wired.com/gallery/best-usb-microphones/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I Spent an Hour in Marvel’s Apple Vision Pro &#39;What If...?&#39; Experience. I’m Still Not Sure Why](https://www.wired.com/story/marvel-apple-vision-pro-what-if/)
+ - [Marvel’s What If…? Vision Pro app is an awkward mix of video game and movie](https://www.theverge.com/24166583/marvel-what-if-immersive-story-apple-vision-pro-interactive)
  - [Mistral AI releases 22B-parameter Codestral, its first generative AI model for coding, trained on 80+ programming languages and prohibited for commercial use &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240529/p25#a240529p25)
- - [Meta says it removed six influence campaigns including those from Israel and China](https://www.theverge.com/2024/5/29/24167164/meta-covert-influence-campaigns-ai-china-israel)
- - [A Nonprofit Tried to Fix Tech Culture—but Lost Control of Its Own](https://www.wired.com/story/integrity-institute-nonprofit-tried-to-fix-tech-culture-lost-control/)
- - [Halide developers launch Kino, a pro video app for the iPhone](https://www.theverge.com/2024/5/29/24167144/kino-iphone-video-app-prores-log)
- - [Sony pulls interview with Neil Druckmann, citing ‘significant errors and inaccuracies’](https://www.theverge.com/2024/5/29/24167052/sony-the-last-of-us-interview-neil-druckmann-retraction)<!-- TECH:END -->
+ - [&#39;The Bear&#39; Season 3 Trailer: Weird Vibes, Non Negotiables and Michelin Stars     - CNET](https://www.cnet.com/tech/services-and-software/the-bear-season-3-trailer-weird-vibes-non-negotiables-and-michelin-stars/#ftag=CAD590a51e)
+ - [Meta says it removed six influence campaigns including those from Israel and China](https://www.theverge.com/2024/5/29/24167164/meta-covert-influence-campaigns-ai-china-israel)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

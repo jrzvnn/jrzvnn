@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US arrests man allegedly behind enormous botnet that enabled cyberattacks and fraud](https://www.theverge.com/2024/5/29/24167094/us-arrests-911-s5-botnet-administrator)
- - [Google announces the $230 Fitbit Ace LTE, a smartwatch for kids ages 7+, with games, messaging, and features for parents like location sharing &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240529/p21#a240529p21)
- - [New Kino app by Halide developer is perfect for novice and pro videomakers](https://appleinsider.com/articles/24/05/29/new-kino-app-by-halide-developer-is-perfect-for-novice-and-pro-videomakers?utm_medium=rss)
- - [Zotac teases OLED gaming handheld to rival the Steam Deck](https://www.theverge.com/2024/5/29/24167109/zotac-zone-gaming-handheld-oled-display)
- - [Vox Media and The Atlantic sign content deals with OpenAI](https://www.theverge.com/2024/5/29/24167072/openai-content-copyright-vox-media-the-atlantic)<!-- TECH:END -->
+ - [Sources: Musk and Trump talk many times/month, on topics like a role in a Trump admin, action on &quot;voter fraud&quot;, and X; Musk is organizing friends against Biden &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240529/p24#a240529p24)
+ - [TerraMaster D8 Hybrid drive enclosure review: Lots of data, not enough bandwidth](https://appleinsider.com/articles/24/05/29/terramaster-d8-hybrid-drive-enclosure-review-lots-of-data-not-enough-bandwidth?utm_medium=rss)
+ - [Two Samsung workers were exposed to radiation, nuclear commission says](https://www.theverge.com/2024/5/29/24167101/samsung-investigated-radiation-factory-workers-exposed-south-korea)
+ - [Discord’s turning the focus back to games with a new redesign](https://www.theverge.com/2024/5/29/24167147/discord-gaming-focus-redesign)
+ - [The US and global partners dismantle the 911 S5 proxy botnet, &quot;likely the world&#39;s largest botnet ever&quot; affecting 19M+ unique IPs, and arrest its administrator &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240529/p23#a240529p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lady\u2019s is this true ?](http://9gag.com/gag/agmvG31)
- - 😝 [Let\u2019s go again, hopefully it wont get deleted.](http://9gag.com/gag/adBYXKZ)
- - 💣 [They terk arr jrbs arrrr](http://9gag.com/gag/amo0rLV)
- - 😝 [Me watching gigi posts](http://9gag.com/gag/a9yLYBL)
- - 👉 [An eagle raised by chickens will thinks like a chicken.](http://9gag.com/gag/ary4NZ6)<!-- MEMES:END -->
+ - 😝 [They terk arr jrbs arrrr](http://9gag.com/gag/amo0rLV)
+ - 😝 [Women: \u2615\ufe0f](http://9gag.com/gag/azxEjvx)
+ - 💣 [Lady\u2019s is this true ?](http://9gag.com/gag/agmvG31)
+ - 😝 [Prove me wrong?](http://9gag.com/gag/aPA44vg)
+ - 👉 [Berlin, Germany](http://9gag.com/gag/an7KKGB)<!-- MEMES:END -->
 
 ---
 

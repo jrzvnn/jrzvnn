@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis: Temu and Pinduoduo parent PDD, whose shares are up 109% over the past year, has a ~$208B market cap, compared with Alibaba&#39;s $196B and JD.com&#39;s $48B &lpar;Sheila Chiang/CNBC&rpar;](http://www.techmeme.com/240529/p4#a240529p4)
  - [Malaysia plans to allocate at least ~$5.33B over the next 5-10 years under its new National Semiconductor Strategy, which aims to train 60,000 chip engineers &lpar;Norman Goh/Nikkei Asia&rpar;](http://www.techmeme.com/240529/p3#a240529p3)
+ - [The 4 Best Gaming Routers of 2024     - CNET](https://www.cnet.com/home/internet/best-gaming-routers/#ftag=CAD590a51e)
  - [Google plans to shut down Google Business Profile chat, which let customers reach out to businesses in Maps and Search via text chat, on July 31, 2024 &lpar;Barry Schwartz/Search Engine Land&rpar;](http://www.techmeme.com/240529/p2#a240529p2)
- - [Best Memorial Day Deals Under $50: Deals You Can Still Get on Tech, Home, Health Products and More     - CNET](https://www.cnet.com/deals/best-memorial-day-deals-under-50-2024-05-28/#ftag=CAD590a51e)
- - [Leaked letter: a US group representing Google, Amazon, and Apple asks India to rethink its DMA-like Digital Competition Bill, saying it could raise user costs &lpar;Reuters&rpar;](http://www.techmeme.com/240529/p1#a240529p1)
- - [Best Memorial Day Smart Home Deals: Think Smart and Save on Smart Displays, Vacuums, Lights and More     - CNET](https://www.cnet.com/deals/best-memorial-day-smart-home-sales-2024-05-28/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Memorial Day Deals for Under $100: You Can Still Save on Tech, Small Appliances and More     - CNET](https://www.cnet.com/deals/best-memorial-day-deals-under-100-2024-05-28/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

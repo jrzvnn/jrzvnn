@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The perfect earrings don\u2019t exi...](http://9gag.com/gag/aZZxMRW)
- - 😝 [Italian Patriots Tired Of Being Invaded And Destroyed](http://9gag.com/gag/aE01z69)
- - 💣 [Best of Danny Devito cameos unless you got better ?](http://9gag.com/gag/aMVrr3G)
- - 😝 [Stepdaughter asks her stepfather if he wants to adopt her](http://9gag.com/gag/a2vYq99)
- - 👉 [Dog sensed its owner&#39;s presence just by her scent.](http://9gag.com/gag/a4PdLP6)<!-- MEMES:END -->
+ - 😝 [Gentlemen. My fav movie scene.](http://9gag.com/gag/a87YLzV)
+ - 😝 [All hail Denmark](http://9gag.com/gag/aLnPBOA)
+ - 💣 [Average backpaker things in SEA](http://9gag.com/gag/awyKKOy)
+ - 😝 [Long story short...](http://9gag.com/gag/aKGPPpg)
+ - 👉 [Feminist&#39;s will be furious](http://9gag.com/gag/ae90N3W)<!-- MEMES:END -->
 
 ---
 

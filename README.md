@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My fellow 9gaggers](http://9gag.com/gag/aAyrro9)
- - 😝 [Burger](http://9gag.com/gag/aZZxpNQ)
- - 💣 [Average backpaker things in SEA](http://9gag.com/gag/awyKKOy)
- - 😝 [Lady\u2019s is this true ?](http://9gag.com/gag/agmvG31)
- - 👉 [Diversity is our strength](http://9gag.com/gag/aRBPPZQ)<!-- MEMES:END -->
+ - 😝 [Women: \u2615\ufe0f](http://9gag.com/gag/azxEjvx)
+ - 😝 [This man is driving his car, meanwhile he has a suspended license.](http://9gag.com/gag/ae9065b)
+ - 💣 [Meanwhile in Europe \ud83d\udd0a](http://9gag.com/gag/avygLKM)
+ - 😝 [NDR now deleted the tweet. Imagine having to pay \u20ac19/month for this news channels like this as a German.](http://9gag.com/gag/an7K1zo)
+ - 👉 [Lady\u2019s is this true ?](http://9gag.com/gag/agmvG31)<!-- MEMES:END -->
 
 ---
 

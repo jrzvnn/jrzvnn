@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US federal court awards Activision $14.4M in a judgment for its 2022 lawsuit accusing EngineOwning of DMCA violation by selling Call of Duty cheat software &lpar;Wesley Yin-Poole/IGN&rpar;](http://www.techmeme.com/240529/p35#a240529p35)
  - [Netflix’s next game show is Million Dollar Secret](https://www.theverge.com/2024/5/29/24167453/netflix-million-dollar-secret-game-show)
  - [Google confirms the authenticity of the 2,500 leaked Search documents filled with details about data the company collects &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/240529/p34#a240529p34)
  - [Fruit Flavor Cookie Assortment     - CNET](https://www.cnet.com/news/fruit-flavor-cookie-assortment-dpnl/#ftag=CAD590a51e)
- - [LocknLock Storage Set     - CNET](https://www.cnet.com/news/locknlock-storage-set-dpnl/#ftag=CAD590a51e)
- - [Don’t Snooze on These Sleep Sales: Last Chance to Save on Cooling Pillows, Sheet Sets, Comforters and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sleep-deals-2024-05-29/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [LocknLock Storage Set     - CNET](https://www.cnet.com/news/locknlock-storage-set-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

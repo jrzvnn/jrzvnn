@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You Can Get Paid to Talk to Friends About Voting](https://www.wired.com/story/you-can-get-paid-to-talk-to-friends-about-voting/)
- - [This is the best look yet at Apple&#39;s immersive video cameras](https://appleinsider.com/articles/24/05/29/this-is-the-best-look-yet-at-apples-immersive-video-cameras?utm_medium=rss)
- - [EU Agency for Cybersecurity head Juhan Lepassaar says disruptive digital attacks, many tied to Russia-backed groups, have doubled in the EU in recent months &lpar;Derek Gatopoulos/Associated Press&rpar;](http://www.techmeme.com/240529/p9#a240529p9)
- - [Sony made a PSVR 2 adapter for PC support](https://www.theverge.com/2024/5/29/24166879/sony-psvr2-pc-support-adapter-certification-filing)
- - [Phil Wizard, Champion Breaker and Olympic Contender, Isn’t Convinced ‘Breakdancing’ Is a Sport](https://www.wired.com/story/big-interview-phil-wizard/)<!-- TECH:END -->
+ - [Support for more smart home accessories arriving in iOS 17.6](https://appleinsider.com/articles/24/05/29/support-for-more-smart-home-accessories-arriving-in-ios-176?utm_medium=rss)
+ - [Memorial Day Sales Aren&#39;t Over Yet: This Could Be the Final Day for These Huge Discounts     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-29/#ftag=CAD590a51e)
+ - [Best Memorial Day Deals Under $50: Deals Still Running on Tech, Home, Health Products and More     - CNET](https://www.cnet.com/deals/best-memorial-day-deals-under-50-2024-05-29/#ftag=CAD590a51e)
+ - [Didi reports Q1 revenue up 15% YoY to ~$6.8B and a ~$190M net loss, in part due to higher sales and marketing costs, as well as higher driver fees &lpar;Bloomberg&rpar;](http://www.techmeme.com/240529/p10#a240529p10)
+ - [You Can Get Paid to Talk to Friends About Voting](https://www.wired.com/story/you-can-get-paid-to-talk-to-friends-about-voting/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [That moment of realization](http://9gag.com/gag/aoy0z1n)
  - 😝 [Berlin, Germany](http://9gag.com/gag/an7KKGB)
- - 😝 [The struggle is real](http://9gag.com/gag/aVvWQyO)
- - 💣 [Average backpaker things in SEA](http://9gag.com/gag/awyKKOy)
+ - 💣 [WTF is even that?](http://9gag.com/gag/axyZ2V1)
  - 😝 [Long story short...](http://9gag.com/gag/aKGPPpg)
- - 👉 [Prove me wrong?](http://9gag.com/gag/aPA44vg)<!-- MEMES:END -->
+ - 👉 [My fellow 9gaggers](http://9gag.com/gag/aAyrro9)<!-- MEMES:END -->
 
 ---
 

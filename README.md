@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Leaked letter: a US group representing Google, Amazon, and Apple asks India to rethink its DMA-like Digital Competition Bill, saying it could raise user costs &lpar;Reuters&rpar;](http://www.techmeme.com/240529/p1#a240529p1)
  - [Samsung&#39;s labor union said it will carry out its first ever strike after wage negotiations, which have been ongoing since the start of 2024, broke down &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/240528/p28#a240528p28)
- - [Don&#39;t Snooze on These Remaining Memorial Day Sleep Sales: The Best Deals on Cooling Pillows, Comforters and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sleep-deals-2024-05-28/#ftag=CAD590a51e)
- - [Memorial Day Sales Aren&#39;t Over Yet: Grab the Last Few Deals Before They&#39;re Gone     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-28/#ftag=CAD590a51e)
- - [Best 55-Inch TVs for 2024: Hisense, Samsung and More     - CNET](https://www.cnet.com/tech/home-entertainment/best-55-inch-tv/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to manage, edit, and store PDFs on an iPad](https://appleinsider.com/inside/ipad/tips/how-to-manage-edit-and-store-pdfs-on-an-ipad?utm_medium=rss)
+ - [Lenovo plans to raise $2B by issuing convertible bonds to Alat, a subsidiary of Saudi Arabia&#39;s PIF, which would convert to ~12.1% of the company&#39;s issued shares &lpar;P.R. Venkat/Wall Street Journal&rpar;](http://www.techmeme.com/240528/p27#a240528p27)
+ - [Apple The Exchange TRX is opening in Malaysia June 22](https://appleinsider.com/articles/24/05/29/apple-the-exchange-trx-is-opening-in-malaysia-june-22?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Arm announces its next-generation CPU and GPU designs for flagship smartphones: the Cortex-X925 CPU and Immortalis G925 GPU, likely in smartphones in late 2024 &lpar;Joanna Nelius/The Verge&rpar;](http://www.techmeme.com/240529/p20#a240529p20)
+ - [Sony’s next State of Play stream is 30 minutes of PS5 and VR games](https://www.theverge.com/2024/5/29/24167017/sony-playstation-state-of-play-summer-game-fest)
+ - [Arm says its next-gen mobile GPU will be its most ‘performant and efficient’](https://www.theverge.com/2024/5/29/24166216/arm-immortalis-g925-cortex-x925-mobile-soc)
  - [Apple&#39;s AI plans involves &#39;black box&#39; for cloud data](https://appleinsider.com/articles/24/05/29/apples-ai-plans-involves-black-box-for-cloud-data?utm_medium=rss)
- - [Sources: to preserve privacy, Apple plans to process data from AI apps in a virtual black box in data centers, making the data impossible for staff to access &lpar;Wayne Ma/The Information&rpar;](http://www.techmeme.com/240529/p19#a240529p19)
- - [Crypto exchange Gemini says Gemini Earn users will get $2.18B in crypto back in kind, after the lending program folded in November 2022 &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/240529/p18#a240529p18)
- - [Brad Pitt &amp; George Clooney are lone &#39;Wolfs&#39; in Apple movie trailer](https://appleinsider.com/articles/24/05/29/brad-pitt-george-clooney-are-lone-wolfs-in-apple-movie-trailer?utm_medium=rss)
- - [French publishers ask Tim Cook to abandon forthcoming Web Eraser](https://appleinsider.com/articles/24/05/29/french-publishers-ask-tim-cook-to-abandon-forthcoming-web-eraser?utm_medium=rss)<!-- TECH:END -->
+ - [Best DIY Home Security Systems of 2024     - CNET](https://www.cnet.com/home/security/best-diy-home-security-systems/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

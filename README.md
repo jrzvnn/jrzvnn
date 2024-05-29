@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The ear is wormed](http://9gag.com/gag/a87YWed)
- - 😝 [Women: \u2615\ufe0f](http://9gag.com/gag/azxEjvx)
- - 💣 [Took her a while](http://9gag.com/gag/azxEVAN)
- - 😝 [All hail Denmark](http://9gag.com/gag/aLnPBOA)
- - 👉 [Burger](http://9gag.com/gag/aZZxpNQ)<!-- MEMES:END -->
+ - 😝 [Dog sensed its owner&#39;s presence just by her scent.](http://9gag.com/gag/a4PdLP6)
+ - 😝 [Ride,ride,ride](http://9gag.com/gag/axyZG4M)
+ - 💣 [Stepdaughter asks her stepfather if he wants to adopt her](http://9gag.com/gag/a2vYq99)
+ - 😝 [Now is the time...](http://9gag.com/gag/aKGPBnZ)
+ - 👉 [It&#39;s not a strength](http://9gag.com/gag/aXPp9Mg)<!-- MEMES:END -->
 
 ---
 

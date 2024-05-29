@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lenovo plans to raise $2B by issuing convertible bonds to Alat, a subsidiary of Saudi Arabia&#39;s PIF, which would convert to ~12.1% of the company&#39;s issued shares &lpar;P.R. Venkat/Wall Street Journal&rpar;](http://www.techmeme.com/240528/p27#a240528p27)
+ - [Apple The Exchange TRX is opening in Malaysia June 22](https://appleinsider.com/articles/24/05/29/apple-the-exchange-trx-is-opening-in-malaysia-june-22?utm_medium=rss)
  - [Sketchy rumor claims iPhone 16 Pro batteries to see modest size increase](https://appleinsider.com/articles/24/05/29/sketchy-rumor-claims-iphone-16-pro-batteries-to-see-modest-size-increase?utm_medium=rss)
  - [The Internet Archive says it has been under an intermittent DDoS attack for the past three days, making access inconsistent, but &quot;the data is not affected&quot; &lpar;Kate Irwin/PCMag&rpar;](http://www.techmeme.com/240528/p26#a240528p26)
- - [Former OpenAI board member explains why they fired Sam Altman](https://www.theverge.com/2024/5/28/24166713/openai-helen-toner-explains-why-sam-altman-was-fired)
- - [Memorial Day Sales Aren&#39;t Over Yet: Grab the Last Few Deals Before They&#39;re Gone     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-28/#ftag=CAD590a51e)
- - [How researchers recovered access to ~$2M worth of bitcoin stored in a software wallet, using a flaw in a decade-old version of the RoboForm password manager &lpar;Kim Zetter/Wired&rpar;](http://www.techmeme.com/240528/p25#a240528p25)<!-- TECH:END -->
+ - [Former OpenAI board member explains why they fired Sam Altman](https://www.theverge.com/2024/5/28/24166713/openai-helen-toner-explains-why-sam-altman-was-fired)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

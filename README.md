@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Brazilian digital bank Nubank hits a $58.2B market cap, surpassing Itau, previously the most valuable financial institution in Latin America, at ~$56B &lpar;Bloomberg&rpar;](http://www.techmeme.com/240529/p8#a240529p8)
  - [PwC plans to roll out ChatGPT Enterprise to its 75K US staff and 26K UK staff, becoming the largest customer and first reseller of OpenAI&#39;s enterprise product &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/240529/p7#a240529p7)
  - [This app put my Apple Home smart devices into an interactive map](https://www.theverge.com/2024/5/29/24166341/apple-home-floor-plan-controller-for-homekit-app-launch-hands-on)
  - [Memorial Day Sales Aren&#39;t Over Yet: This Could Be the Final Day for These Huge Discounts     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-29/#ftag=CAD590a51e)
- - [Secure 1TB of Koofr Cloud Storage for Just $130     - CNET](https://www.cnet.com/deals/secure-1tb-of-koofr-cloud-storage-for-just-130/#ftag=CAD590a51e)
- - [Analysis: food delivery apps Deliveroo, Just Eat Takeaway, Delivery Hero, and DoorDash have racked up $20.3B in combined operating losses since they went public &lpar;Financial Times&rpar;](http://www.techmeme.com/240529/p6#a240529p6)<!-- TECH:END -->
+ - [Secure 1TB of Koofr Cloud Storage for Just $130     - CNET](https://www.cnet.com/deals/secure-1tb-of-koofr-cloud-storage-for-just-130/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Burger](http://9gag.com/gag/aZZxpNQ)
- - 😝 [Women: \u2615\ufe0f](http://9gag.com/gag/azxEjvx)
- - 💣 [All hail Denmark](http://9gag.com/gag/aLnPBOA)
- - 😝 [Berlin, Germany](http://9gag.com/gag/an7KKGB)
- - 👉 [Diversity is our strength](http://9gag.com/gag/aRBPPZQ)<!-- MEMES:END -->
+ - 😝 [But mom](http://9gag.com/gag/axyZD52)
+ - 😝 [NDR now deleted the tweet. Imagine having to pay \u20ac19/month for this news channels like this as a German.](http://9gag.com/gag/an7K1zo)
+ - 💣 [Lady\u2019s is this true ?](http://9gag.com/gag/agmvG31)
+ - 😝 [Let\u2019s go again, hopefully it wont get deleted.](http://9gag.com/gag/adBYXKZ)
+ - 👉 [Me watching gigi posts](http://9gag.com/gag/a9yLYBL)<!-- MEMES:END -->
 
 ---
 

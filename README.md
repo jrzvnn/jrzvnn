@@ -165,10 +165,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Google confirms the authenticity of the 2,500 leaked Search documents filled with details about data the company collects &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/240529/p34#a240529p34)
- - [Google confirms the leaked Search documents are real](https://www.theverge.com/2024/5/29/24167407/google-search-algorithm-documents-leak-confirmation)
- - [Custom GPTs open for free ChatGPT users](https://www.theverge.com/2024/5/29/24167436/chatgpt-4o-custom-gpts-free)
- - [Every M3 iMac 24-inch is up to $200 off, plus get AppleCare savings with coupon](https://appleinsider.com/articles/24/05/29/every-m3-imac-24-inch-is-up-to-200-off-plus-get-applecare-savings-with-coupon?utm_medium=rss)
- - [Google Home is still re-adding audio features it lost due to the Sonos lawsuit](https://www.theverge.com/2024/5/29/24167316/google-home-assistant-group-volume-control-speakers-sonos-lawsuit)<!-- TECH:END -->
+ - [Fruit Flavor Cookie Assortment     - CNET](https://www.cnet.com/news/fruit-flavor-cookie-assortment-dpnl/#ftag=CAD590a51e)
+ - [LocknLock Storage Set     - CNET](https://www.cnet.com/news/locknlock-storage-set-dpnl/#ftag=CAD590a51e)
+ - [Don’t Snooze on These Sleep Sales: Last Chance to Save on Cooling Pillows, Sheet Sets, Comforters and More     - CNET](https://www.cnet.com/deals/best-memorial-day-sleep-deals-2024-05-29/#ftag=CAD590a51e)
+ - [Memorial Day Sales Aren&#39;t Over Yet: This Could Be the Final Day for These Huge Discounts     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-29/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bigger and brighter: iPhone 16 &amp; iPhone 16 Pro rumored screen changes](https://appleinsider.com/articles/24/05/29/bigger-and-brighter-iphone-16-iphone-16-pro-rumored-screen-changes?utm_medium=rss)
  - [AI training data provider Scale AI releases SEAL Leaderboards, which uses private datasets to rank LLMs in domains like coding, instruction following, and math &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/240529/p26#a240529p26)
  - [I Spent an Hour in Marvel’s Apple Vision Pro &#39;What If...?&#39; Experience. I’m Still Not Sure Why](https://www.wired.com/story/marvel-apple-vision-pro-what-if/)
  - [Marvel’s What If…? Vision Pro app is an awkward mix of video game and movie](https://www.theverge.com/24166583/marvel-what-if-immersive-story-apple-vision-pro-interactive)
- - [Mistral AI releases 22B-parameter Codestral, its first generative AI model for coding, trained on 80+ programming languages and prohibited for commercial use &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240529/p25#a240529p25)
- - [Meta says it removed six influence campaigns including those from Israel and China](https://www.theverge.com/2024/5/29/24167164/meta-covert-influence-campaigns-ai-china-israel)<!-- TECH:END -->
+ - [Mistral AI releases 22B-parameter Codestral, its first generative AI model for coding, trained on 80+ programming languages and prohibited for commercial use &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240529/p25#a240529p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung&#39;s labor union said it will carry out its first ever strike after wage negotiations, which have been ongoing since the start of 2024, broke down &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/240528/p28#a240528p28)
  - [How to manage, edit, and store PDFs on an iPad](https://appleinsider.com/inside/ipad/tips/how-to-manage-edit-and-store-pdfs-on-an-ipad?utm_medium=rss)
  - [Lenovo plans to raise $2B by issuing convertible bonds to Alat, a subsidiary of Saudi Arabia&#39;s PIF, which would convert to ~12.1% of the company&#39;s issued shares &lpar;P.R. Venkat/Wall Street Journal&rpar;](http://www.techmeme.com/240528/p27#a240528p27)
  - [Apple The Exchange TRX is opening in Malaysia June 22](https://appleinsider.com/articles/24/05/29/apple-the-exchange-trx-is-opening-in-malaysia-june-22?utm_medium=rss)
- - [Sketchy rumor claims iPhone 16 Pro batteries to see modest size increase](https://appleinsider.com/articles/24/05/29/sketchy-rumor-claims-iphone-16-pro-batteries-to-see-modest-size-increase?utm_medium=rss)
- - [The Internet Archive says it has been under an intermittent DDoS attack for the past three days, making access inconsistent, but &quot;the data is not affected&quot; &lpar;Kate Irwin/PCMag&rpar;](http://www.techmeme.com/240528/p26#a240528p26)<!-- TECH:END -->
+ - [Memorial Day Appliance Deals: Save Big Today on Refrigerators, Microwaves, Dishwashers and More     - CNET](https://www.cnet.com/deals/best-memorial-day-appliance-sales-2024-05-28/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

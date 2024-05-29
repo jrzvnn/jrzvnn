@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Long story short...](http://9gag.com/gag/aKGPPpg)
  - 😝 [Feminist&#39;s will be furious](http://9gag.com/gag/ae90N3W)
- - 😝 [The struggle is real](http://9gag.com/gag/aVvWQyO)
- - 💣 [Prove me wrong?](http://9gag.com/gag/aPA44vg)
+ - 💣 [All hail Denmark](http://9gag.com/gag/aLnPBOA)
  - 😝 [Women: \u2615\ufe0f](http://9gag.com/gag/azxEjvx)
- - 👉 [Average backpaker things in SEA](http://9gag.com/gag/awyKKOy)<!-- MEMES:END -->
+ - 👉 [That moment of realization](http://9gag.com/gag/aoy0z1n)<!-- MEMES:END -->
 
 ---
 

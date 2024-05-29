@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta says it removed six influence campaigns including those from Israel and China](https://www.theverge.com/2024/5/29/24167164/meta-covert-influence-campaigns-ai-china-israel)
  - [A Nonprofit Tried to Fix Tech Culture—but Lost Control of Its Own](https://www.wired.com/story/integrity-institute-nonprofit-tried-to-fix-tech-culture-lost-control/)
  - [Halide developers launch Kino, a pro video app for the iPhone](https://www.theverge.com/2024/5/29/24167144/kino-iphone-video-app-prores-log)
  - [Sony pulls interview with Neil Druckmann, citing ‘significant errors and inaccuracies’](https://www.theverge.com/2024/5/29/24167052/sony-the-last-of-us-interview-neil-druckmann-retraction)
- - [Sources: Musk and Trump talk many times/month, on topics like a role in a Trump admin, action on &quot;voter fraud&quot;, and X; Musk is organizing friends against Biden &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240529/p24#a240529p24)
- - [TerraMaster D8 Hybrid drive enclosure review: Lots of data, not enough bandwidth](https://appleinsider.com/articles/24/05/29/terramaster-d8-hybrid-drive-enclosure-review-lots-of-data-not-enough-bandwidth?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Musk and Trump talk many times/month, on topics like a role in a Trump admin, action on &quot;voter fraud&quot;, and X; Musk is organizing friends against Biden &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240529/p24#a240529p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

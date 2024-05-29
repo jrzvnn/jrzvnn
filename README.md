@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [But mom](http://9gag.com/gag/axyZD52)
- - 😝 [NDR now deleted the tweet. Imagine having to pay \u20ac19/month for this news channels like this as a German.](http://9gag.com/gag/an7K1zo)
- - 💣 [Lady\u2019s is this true ?](http://9gag.com/gag/agmvG31)
- - 😝 [Let\u2019s go again, hopefully it wont get deleted.](http://9gag.com/gag/adBYXKZ)
- - 👉 [Me watching gigi posts](http://9gag.com/gag/a9yLYBL)<!-- MEMES:END -->
+ - 😝 [Burger](http://9gag.com/gag/aZZxpNQ)
+ - 😝 [Berlin, Germany](http://9gag.com/gag/an7KKGB)
+ - 💣 [Notice what&#39;s missing](http://9gag.com/gag/ae906Bb)
+ - 😝 [Prove me wrong?](http://9gag.com/gag/aPA44vg)
+ - 👉 [Average backpaker things in SEA](http://9gag.com/gag/awyKKOy)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple The Exchange TRX is opening in Malaysia June 22](https://appleinsider.com/articles/24/05/29/apple-the-exchange-trx-is-opening-in-malaysia-june-22?utm_medium=rss)
  - [Activision is awarded $14.5 million in a Call of Duty cheating lawsuit](https://www.theverge.com/2024/5/29/24166932/activision-call-of-duty-cheat-creator-lawsuit-engineowning)
  - [Verizon and AST SpaceMobile have a $100 million deal for satellite cellular service](https://www.theverge.com/2024/5/29/24166986/verizon-ast-spacemobile-att-satellite-cellular-deal)
  - [Electric bikes are about to get more expensive, and the timing couldn’t be worse](https://www.theverge.com/2024/5/29/24166934/ebike-battery-china-tariff-price-increase-biden-climate)
- - [8BitDo’s new IBM-like keyboard is all show but hits me in my mech heart](https://www.theverge.com/2024/5/29/24166972/8bitdo-retro-mechanical-keyboard-m-edition-ibm-announcement-price)
- - [Apple&#39;s AI plans involves &#39;black box&#39; for cloud data](https://appleinsider.com/articles/24/05/29/apples-ai-plans-involves-black-box-for-cloud-data?utm_medium=rss)<!-- TECH:END -->
+ - [8BitDo’s new IBM-like keyboard is all show but hits me in my mech heart](https://www.theverge.com/2024/5/29/24166972/8bitdo-retro-mechanical-keyboard-m-edition-ibm-announcement-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -173,10 +173,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Economy goes brrrrr. . .](http://9gag.com/gag/ae90jXQ)
  - 😝 [White](http://9gag.com/gag/a9yLbD6)
- - 💣 [How are you holding up fellow 9gaggers](http://9gag.com/gag/a3433m3)
- - 😝 [Do it, do it, do it](http://9gag.com/gag/avygp4Z)
+ - 😝 [We&#39;ve reached the point where technology isn&#39;t the bottleneck anymore, its the creativity of the devs!](http://9gag.com/gag/aRBPw5y)
+ - 💣 [Gentlemen. My fav movie scene.](http://9gag.com/gag/a87YLzV)
+ - 😝 [Average backpaker things in SEA](http://9gag.com/gag/awyKKOy)
  - 👉 [My fellow 9gaggers](http://9gag.com/gag/aAyrro9)<!-- MEMES:END -->
 
 ---

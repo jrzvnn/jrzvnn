@@ -173,10 +173,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [White](http://9gag.com/gag/a9yLbD6)
- - 😝 [Long story short...](http://9gag.com/gag/aKGPPpg)
- - 💣 [All hail Denmark](http://9gag.com/gag/aLnPBOA)
- - 😝 [That moment of realization](http://9gag.com/gag/aoy0z1n)
+ - 😝 [Berlin, Germany](http://9gag.com/gag/an7KKGB)
+ - 😝 [My fellow 9gaggers](http://9gag.com/gag/aAyrro9)
+ - 💣 [Long story short...](http://9gag.com/gag/aKGPPpg)
+ - 😝 [The struggle is real](http://9gag.com/gag/aVvWQyO)
  - 👉 [Gentlemen. My fav movie scene.](http://9gag.com/gag/a87YLzV)<!-- MEMES:END -->
 
 ---

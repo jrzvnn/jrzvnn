@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Berlin, Germany](http://9gag.com/gag/an7KKGB)
- - 😝 [Do it, do it, do it](http://9gag.com/gag/avygp4Z)
- - 💣 [Made in China](http://9gag.com/gag/a6ZyLOm)
- - 😝 [How are you holding up fellow 9gaggers](http://9gag.com/gag/a3433m3)
- - 👉 [Which movie was great to watch in your teenage years but now feels more depressing?](http://9gag.com/gag/a9yLdj1)<!-- MEMES:END -->
+ - 😝 [Dwight: \u201cl walk a different path..\u201d](http://9gag.com/gag/aKGPgKQ)
+ - 😝 [Average backpaker things in SEA](http://9gag.com/gag/awyKKOy)
+ - 💣 [Titanfall Lopez](http://9gag.com/gag/aRBPQGQ)
+ - 😝 [All hail Denmark](http://9gag.com/gag/aLnPBOA)
+ - 👉 [Long story short...](http://9gag.com/gag/aKGPPpg)<!-- MEMES:END -->
 
 ---
 

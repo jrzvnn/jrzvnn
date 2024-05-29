@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Burger](http://9gag.com/gag/aZZxpNQ)
- - 😝 [Average backpaker things in SEA](http://9gag.com/gag/awyKKOy)
- - 💣 [My fellow 9gaggers](http://9gag.com/gag/aAyrro9)
- - 😝 [Diversity is our strength](http://9gag.com/gag/aRBPPZQ)
- - 👉 [Women: \u2615\ufe0f](http://9gag.com/gag/azxEjvx)<!-- MEMES:END -->
+ - 😝 [The ear is wormed](http://9gag.com/gag/a87YWed)
+ - 😝 [Women: \u2615\ufe0f](http://9gag.com/gag/azxEjvx)
+ - 💣 [Took her a while](http://9gag.com/gag/azxEVAN)
+ - 😝 [All hail Denmark](http://9gag.com/gag/aLnPBOA)
+ - 👉 [Burger](http://9gag.com/gag/aZZxpNQ)<!-- MEMES:END -->
 
 ---
 

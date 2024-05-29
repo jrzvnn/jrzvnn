@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gentlemen. My fav movie scene.](http://9gag.com/gag/a87YLzV)
- - 😝 [All hail Denmark](http://9gag.com/gag/aLnPBOA)
- - 💣 [Average backpaker things in SEA](http://9gag.com/gag/awyKKOy)
+ - 😝 [White](http://9gag.com/gag/a9yLbD6)
  - 😝 [Long story short...](http://9gag.com/gag/aKGPPpg)
- - 👉 [Feminist&#39;s will be furious](http://9gag.com/gag/ae90N3W)<!-- MEMES:END -->
+ - 💣 [All hail Denmark](http://9gag.com/gag/aLnPBOA)
+ - 😝 [That moment of realization](http://9gag.com/gag/aoy0z1n)
+ - 👉 [Gentlemen. My fav movie scene.](http://9gag.com/gag/a87YLzV)<!-- MEMES:END -->
 
 ---
 

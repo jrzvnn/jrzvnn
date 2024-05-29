@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US arrests man allegedly behind enormous botnet that enabled cyberattacks and fraud](https://www.theverge.com/2024/5/29/24167094/us-arrests-911-s5-botnet-administrator)
  - [Google announces the $230 Fitbit Ace LTE, a smartwatch for kids ages 7+, with games, messaging, and features for parents like location sharing &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240529/p21#a240529p21)
  - [New Kino app by Halide developer is perfect for novice and pro videomakers](https://appleinsider.com/articles/24/05/29/new-kino-app-by-halide-developer-is-perfect-for-novice-and-pro-videomakers?utm_medium=rss)
  - [Zotac teases OLED gaming handheld to rival the Steam Deck](https://www.theverge.com/2024/5/29/24167109/zotac-zone-gaming-handheld-oled-display)
- - [Vox Media and The Atlantic sign content deals with OpenAI](https://www.theverge.com/2024/5/29/24167072/openai-content-copyright-vox-media-the-atlantic)
- - [Memorial Day Sales Aren&#39;t Over Yet: This Could Be the Final Day for These Huge Discounts     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-29/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Vox Media and The Atlantic sign content deals with OpenAI](https://www.theverge.com/2024/5/29/24167072/openai-content-copyright-vox-media-the-atlantic)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

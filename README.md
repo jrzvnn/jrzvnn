@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Which movie was great to watch in your teenage years but now feels more depressing?](http://9gag.com/gag/a9yLdj1)
- - 😝 [Long story short...](http://9gag.com/gag/aKGPPpg)
- - 💣 [All hail Denmark](http://9gag.com/gag/aLnPBOA)
+ - 😝 [Berlin, Germany](http://9gag.com/gag/an7KKGB)
  - 😝 [Do it, do it, do it](http://9gag.com/gag/avygp4Z)
- - 👉 [That moment of realization](http://9gag.com/gag/aoy0z1n)<!-- MEMES:END -->
+ - 💣 [Made in China](http://9gag.com/gag/a6ZyLOm)
+ - 😝 [How are you holding up fellow 9gaggers](http://9gag.com/gag/a3433m3)
+ - 👉 [Which movie was great to watch in your teenage years but now feels more depressing?](http://9gag.com/gag/a9yLdj1)<!-- MEMES:END -->
 
 ---
 

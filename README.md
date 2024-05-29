@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That moment of realization](http://9gag.com/gag/aoy0z1n)
- - 😝 [Berlin, Germany](http://9gag.com/gag/an7KKGB)
- - 💣 [WTF is even that?](http://9gag.com/gag/axyZ2V1)
  - 😝 [Long story short...](http://9gag.com/gag/aKGPPpg)
- - 👉 [My fellow 9gaggers](http://9gag.com/gag/aAyrro9)<!-- MEMES:END -->
+ - 😝 [That moment of realization](http://9gag.com/gag/aoy0z1n)
+ - 💣 [My fellow 9gaggers](http://9gag.com/gag/aAyrro9)
+ - 😝 [Women: \u2615\ufe0f](http://9gag.com/gag/azxEjvx)
+ - 👉 [I want to know](http://9gag.com/gag/aoy09D0)<!-- MEMES:END -->
 
 ---
 

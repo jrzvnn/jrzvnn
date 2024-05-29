@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft launches Copilot for Telegram in beta; the bot is limited to text-based requests and cannot generate images for now &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240528/p24#a240528p24)
- - [The US Treasury sanctions three Chinese nationals and three Thailand-based companies linked to a botnet controlling residential proxy service &quot;911 S5&quot; &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240528/p23#a240528p23)
- - [Samsung&#39;s Galaxy Ring: Who&#39;s This Mysterious Health Wearable For?     - CNET](https://www.cnet.com/tech/mobile/samsungs-galaxy-ring-whos-this-mysterious-health-wearable-for/#ftag=CAD590a51e)
- - [Memorial Day Sales Aren&#39;t Over Yet: Grab the Last Few Deals Before They&#39;re Gone     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-28/#ftag=CAD590a51e)
- - [Verizon’s latest streaming deal is a $10 monthly YouTube Premium subscription](https://www.theverge.com/2024/5/28/24166612/verizon-streaming-deal-youtube-premium-subscription)<!-- TECH:END -->
+ - [New Galaxy Z Flip 6 and Galaxy Ring details have leaked, courtesy of the FCC](https://www.theverge.com/2024/5/28/24166632/galaxy-z-flip-6-smart-ring-size-battery-capacity-leaks)
+ - [The 3 Best Juicers of 2024, Tested by CNET Editors     - CNET](https://www.cnet.com/home/kitchen-and-household/best-juicer/#ftag=CAD590a51e)
+ - [My Favorite Sunrise Alarm Clock From Hatch Is Still $30 Cheaper Post-Memorial Day     - CNET](https://www.cnet.com/deals/hatch-restore-memorial-day-2024/#ftag=CAD590a51e)
+ - [Memorial Day Sales 2024: The Best Deals You Can Still Get on Smart Home, Tech, Mattresses and More     - CNET](https://www.cnet.com/deals/memorial-day-sales-2024-05-28/#ftag=CAD590a51e)
+ - [Memorial Day Sales Aren&#39;t Over Yet: Grab the Last Few Deals Before They&#39;re Gone     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-28/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

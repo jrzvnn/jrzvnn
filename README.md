@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tencent-owned Supercell, the developer behind Clash of Clans, releases Squad Busters, its first title in over five years; Supercell had &amp;euro;1.7B in 2023 revenue &lpar;Richard Milne/Financial Times&rpar;](http://www.techmeme.com/240529/p12#a240529p12)
  - [Sensor Tower: Tencent&#39;s Dungeon &amp; Fighter Mobile generated $140M+ in player spending in its first week in China, and 2.6M iOS users downloaded the game in China &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/240529/p11#a240529p11)
  - [Support for more smart home accessories arriving in iOS 17.6](https://appleinsider.com/articles/24/05/29/support-for-more-smart-home-accessories-arriving-in-ios-176?utm_medium=rss)
  - [Memorial Day Sales Aren&#39;t Over Yet: This Could Be the Final Day for These Huge Discounts     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-29/#ftag=CAD590a51e)
- - [Best Memorial Day Deals Under $50: Deals Still Running on Tech, Home, Health Products and More     - CNET](https://www.cnet.com/deals/best-memorial-day-deals-under-50-2024-05-29/#ftag=CAD590a51e)
- - [Didi reports Q1 revenue up 15% YoY to ~$6.8B and a ~$190M net loss, in part due to higher sales and marketing costs, as well as higher driver fees &lpar;Bloomberg&rpar;](http://www.techmeme.com/240529/p10#a240529p10)<!-- TECH:END -->
+ - [Best Memorial Day Deals Under $50: Deals Still Running on Tech, Home, Health Products and More     - CNET](https://www.cnet.com/deals/best-memorial-day-deals-under-50-2024-05-29/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

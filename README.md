@@ -174,10 +174,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Took her a while](http://9gag.com/gag/azxEVAN)
- - 😝 [Prove me wrong?](http://9gag.com/gag/aPA44vg)
- - 💣 [Burger](http://9gag.com/gag/aZZxpNQ)
- - 😝 [Diversity is our strength](http://9gag.com/gag/aRBPPZQ)
- - 👉 [Lady\u2019s is this true ?](http://9gag.com/gag/agmvG31)<!-- MEMES:END -->
+ - 😝 [Average backpaker things in SEA](http://9gag.com/gag/awyKKOy)
+ - 💣 [Diversity is our strength](http://9gag.com/gag/aRBPPZQ)
+ - 😝 [Burger](http://9gag.com/gag/aZZxpNQ)
+ - 👉 [Prove me wrong?](http://9gag.com/gag/aPA44vg)<!-- MEMES:END -->
 
 ---
 

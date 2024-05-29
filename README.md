@@ -173,10 +173,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Berlin, Germany](http://9gag.com/gag/an7KKGB)
- - 😝 [Burger](http://9gag.com/gag/aZZxpNQ)
- - 💣 [Prove me wrong?](http://9gag.com/gag/aPA44vg)
- - 😝 [Lady\u2019s is this true ?](http://9gag.com/gag/agmvG31)
+ - 😝 [Prove me wrong?](http://9gag.com/gag/aPA44vg)
+ - 😝 [Long story short...](http://9gag.com/gag/aKGPPpg)
+ - 💣 [Burger](http://9gag.com/gag/aZZxpNQ)
+ - 😝 [Women: \u2615\ufe0f](http://9gag.com/gag/azxEjvx)
  - 👉 [Diversity is our strength](http://9gag.com/gag/aRBPPZQ)<!-- MEMES:END -->
 
 ---

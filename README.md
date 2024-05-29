@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Vox Media and The Atlantic sign content deals with OpenAI](https://www.theverge.com/2024/5/29/24167072/openai-content-copyright-vox-media-the-atlantic)
  - [Apple&#39;s durability testing is way more than a YouTuber can manage](https://appleinsider.com/articles/24/05/29/apples-durability-testing-is-way-more-than-a-youtuber-can-manage?utm_medium=rss)
  - [Cadillac Optiq, the brand’s most affordable EV, will start at $54,000](https://www.theverge.com/2024/5/29/24166206/cadillac-optiq-ev-price-specs-photos)
  - [Apple The Exchange TRX is opening in Malaysia June 22](https://appleinsider.com/articles/24/05/29/apple-the-exchange-trx-is-opening-in-malaysia-june-22?utm_medium=rss)
- - [Activision is awarded $14.5 million in a Call of Duty cheating lawsuit](https://www.theverge.com/2024/5/29/24166932/activision-call-of-duty-cheat-creator-lawsuit-engineowning)
- - [Verizon and AST SpaceMobile have a $100 million deal for satellite cellular service](https://www.theverge.com/2024/5/29/24166986/verizon-ast-spacemobile-att-satellite-cellular-deal)<!-- TECH:END -->
+ - [Activision is awarded $14.5 million in a Call of Duty cheating lawsuit](https://www.theverge.com/2024/5/29/24166932/activision-call-of-duty-cheat-creator-lawsuit-engineowning)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

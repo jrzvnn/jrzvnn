@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is in my blood](http://9gag.com/gag/aW4WOr6)
- - 😝 [Say the line bart](http://9gag.com/gag/aGywwyK)
+ - 😝 [Took her a while](http://9gag.com/gag/azxEVAN)
+ - 😝 [Prove me wrong?](http://9gag.com/gag/aPA44vg)
  - 💣 [Burger](http://9gag.com/gag/aZZxpNQ)
- - 😝 [I want to know](http://9gag.com/gag/aoy09D0)
- - 👉 [How are you holding up fellow 9gaggers](http://9gag.com/gag/a3433m3)<!-- MEMES:END -->
+ - 😝 [Diversity is our strength](http://9gag.com/gag/aRBPPZQ)
+ - 👉 [Lady\u2019s is this true ?](http://9gag.com/gag/agmvG31)<!-- MEMES:END -->
 
 ---
 

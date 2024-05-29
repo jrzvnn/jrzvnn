@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Memorial Day Sales Aren&#39;t Over Yet: This Could Be the Final Day for These Huge Discounts     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-29/#ftag=CAD590a51e)
+ - [Secure 1TB of Koofr Cloud Storage for Just $130     - CNET](https://www.cnet.com/deals/secure-1tb-of-koofr-cloud-storage-for-just-130/#ftag=CAD590a51e)
  - [Analysis: food delivery apps Deliveroo, Just Eat Takeaway, Delivery Hero, and DoorDash have racked up $20.3B in combined operating losses since they went public &lpar;Financial Times&rpar;](http://www.techmeme.com/240529/p6#a240529p6)
- - [GPD is making a dual-screen OLED laptop that flips and folds](https://www.theverge.com/2024/5/29/24166852/gpd-duo-dual-screen-oled-laptop-teaser)
- - [SSDI June Payment 2024: When Is Your Next Check Coming?     - CNET](https://www.cnet.com/personal-finance/ssdi-june-payment-2024-when-is-your-next-check-coming/#ftag=CAD590a51e)
- - [How Shein, which filed for a US IPO in November 2023, became stuck in US-China tensions; Shein, founded in 2012 in China, has never sold products in the country &lpar;Shen Lu/Wall Street Journal&rpar;](http://www.techmeme.com/240529/p5#a240529p5)
- - [Analysis: Temu and Pinduoduo parent PDD, whose shares are up 109% in the past year, has a ~$208B market cap, compared with Alibaba&#39;s $196B and JD.com&#39;s $48B &lpar;Sheila Chiang/CNBC&rpar;](http://www.techmeme.com/240529/p4#a240529p4)<!-- TECH:END -->
+ - [How Will Android 15 Change the Way You Use Your Phone?     - CNET](https://www.cnet.com/pictures/how-will-android-15-change-the-way-you-use-your-phone/#ftag=CAD590a51e)
+ - [GPD is making a dual-screen OLED laptop that flips and folds](https://www.theverge.com/2024/5/29/24166852/gpd-duo-dual-screen-oled-laptop-teaser)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

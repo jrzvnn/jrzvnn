@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Colorado governor Jared Polis signs a right-to-repair bill that includes a strong ban on parts pairing and takes effect on January 1, 2026 &lpar;Brandon Vigliarolo/The Register&rpar;](http://www.techmeme.com/240529/p32#a240529p32)
- - [How Advertising Broke the World](https://www.wired.com/story/death-of-truth-misinformation-advertising/)
- - [‘Largest Botnet Ever’ Tied to Billions in Stolen Covid-19 Relief Funds](https://www.wired.com/story/911-s5-botnet-arrest/)
- - [Bigger and brighter: iPhone 16 &amp; iPhone 16 Pro rumored screen changes](https://appleinsider.com/articles/24/05/29/bigger-and-brighter-iphone-16-iphone-16-pro-rumored-screen-changes?utm_medium=rss)
- - [UiPath CEO Rob Enslin is resigning on June 1, to be replaced by co-founder Daniel Dines, who stepped down as co-CEO on January 31; PATH drops 30%+ after hours &lpar;CNBC&rpar;](http://www.techmeme.com/240529/p31#a240529p31)<!-- TECH:END -->
+ - [Every M3 iMac 24-inch is up to $200 off, plus get AppleCare savings with coupon](https://appleinsider.com/articles/24/05/29/every-m3-imac-24-inch-is-up-to-200-off-plus-get-applecare-savings-with-coupon?utm_medium=rss)
+ - [Google Home is still re-adding audio features it lost due to the Sonos lawsuit](https://www.theverge.com/2024/5/29/24167316/google-home-assistant-group-volume-control-speakers-sonos-lawsuit)
+ - [The Atlantic and Vox Media sign multi-year licensing and product deals with OpenAI; The Atlantic plans an experimental Atlantic Labs with OpenAI tech &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/240529/p33#a240529p33)
+ - [Eternos Wants to Help You -- or at Least an AI Replica -- Live Forever     - CNET](https://www.cnet.com/tech/services-and-software/eternos-wants-to-help-you-or-at-least-an-ai-replica-live-forever/#ftag=CAD590a51e)
+ - [Memorial Day Sales Aren&#39;t Over Yet: This Could Be the Final Day for These Huge Discounts     - CNET](https://www.cnet.com/deals/best-memorial-day-sales-2024-05-29/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

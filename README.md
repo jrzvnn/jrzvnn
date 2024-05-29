@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Long story short...](http://9gag.com/gag/aKGPPpg)
- - 😝 [Feminist&#39;s will be furious](http://9gag.com/gag/ae90N3W)
- - 💣 [All hail Denmark](http://9gag.com/gag/aLnPBOA)
- - 😝 [Women: \u2615\ufe0f](http://9gag.com/gag/azxEjvx)
- - 👉 [That moment of realization](http://9gag.com/gag/aoy0z1n)<!-- MEMES:END -->
+ - 😝 [I want to know](http://9gag.com/gag/aoy09D0)
+ - 😝 [Is in my blood](http://9gag.com/gag/aW4WOr6)
+ - 💣 [How are you holding up fellow 9gaggers](http://9gag.com/gag/a3433m3)
+ - 😝 [Stepdaughter asks her stepfather if he wants to adopt her](http://9gag.com/gag/a2vYq99)
+ - 👉 [Say the line bart](http://9gag.com/gag/aGywwyK)<!-- MEMES:END -->
 
 ---
 

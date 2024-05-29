@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [White](http://9gag.com/gag/a9yLbD6)
- - 😝 [We&#39;ve reached the point where technology isn&#39;t the bottleneck anymore, its the creativity of the devs!](http://9gag.com/gag/aRBPw5y)
- - 💣 [Gentlemen. My fav movie scene.](http://9gag.com/gag/a87YLzV)
- - 😝 [Average backpaker things in SEA](http://9gag.com/gag/awyKKOy)
- - 👉 [My fellow 9gaggers](http://9gag.com/gag/aAyrro9)<!-- MEMES:END -->
+ - 😝 [The perfect earrings don\u2019t exi...](http://9gag.com/gag/aZZxMRW)
+ - 😝 [Italian Patriots Tired Of Being Invaded And Destroyed](http://9gag.com/gag/aE01z69)
+ - 💣 [Best of Danny Devito cameos unless you got better ?](http://9gag.com/gag/aMVrr3G)
+ - 😝 [Stepdaughter asks her stepfather if he wants to adopt her](http://9gag.com/gag/a2vYq99)
+ - 👉 [Dog sensed its owner&#39;s presence just by her scent.](http://9gag.com/gag/a4PdLP6)<!-- MEMES:END -->
 
 ---
 

@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dwight: \u201cl walk a different path..\u201d](http://9gag.com/gag/aKGPgKQ)
- - 😝 [Average backpaker things in SEA](http://9gag.com/gag/awyKKOy)
- - 💣 [Titanfall Lopez](http://9gag.com/gag/aRBPQGQ)
- - 😝 [All hail Denmark](http://9gag.com/gag/aLnPBOA)
- - 👉 [Long story short...](http://9gag.com/gag/aKGPPpg)<!-- MEMES:END -->
+ - 😝 [Economy goes brrrrr. . .](http://9gag.com/gag/ae90jXQ)
+ - 😝 [White](http://9gag.com/gag/a9yLbD6)
+ - 💣 [How are you holding up fellow 9gaggers](http://9gag.com/gag/a3433m3)
+ - 😝 [Do it, do it, do it](http://9gag.com/gag/avygp4Z)
+ - 👉 [My fellow 9gaggers](http://9gag.com/gag/aAyrro9)<!-- MEMES:END -->
 
 ---
 

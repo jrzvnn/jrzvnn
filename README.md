@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is seeking a senior engineer to help build a TV and sports app for Android, a sign the company is bringing its TV+ service to the rival platform &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240529/p27#a240529p27)
- - [Bigger and brighter: iPhone 16 &amp; iPhone 16 Pro rumored screen changes](https://appleinsider.com/articles/24/05/29/bigger-and-brighter-iphone-16-iphone-16-pro-rumored-screen-changes?utm_medium=rss)
- - [AI training data provider Scale AI releases SEAL Leaderboards, which uses private datasets to rank LLMs in domains like coding, instruction following, and math &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/240529/p26#a240529p26)
- - [I Spent an Hour in Marvel’s Apple Vision Pro &#39;What If...?&#39; Experience. I’m Still Not Sure Why](https://www.wired.com/story/marvel-apple-vision-pro-what-if/)
- - [Marvel’s What If…? Vision Pro app is an awkward mix of video game and movie](https://www.theverge.com/24166583/marvel-what-if-immersive-story-apple-vision-pro-interactive)<!-- TECH:END -->
+ - [Apple’s new iPad Pro ad puts the focus back on creators](https://www.theverge.com/2024/5/29/24167204/apple-ipad-pro-ad-creators-worlds-crushing-controversy)
+ - [Chrome adds picture-in-picture web browsing for Android apps](https://www.theverge.com/2024/5/29/24167287/google-chrome-picture-in-picture-web-browsing-android-apps)
+ - [The US Wants to Break Up Ticketmaster and Live Nation: Everything to Know     - CNET](https://www.cnet.com/tech/services-and-software/the-us-wants-to-break-up-ticketmaster-and-live-nation-everything-to-know/#ftag=CAD590a51e)
+ - [Today Only: Lock in $130 in Savings on the Level Lock+ Connect at Best Buy     - CNET](https://www.cnet.com/deals/today-only-lock-in-130-in-savings-on-the-level-lock-connect-at-best-buy/#ftag=CAD590a51e)
+ - [Apple is seeking a senior engineer to help build a TV and sports app for Android, a sign the company is bringing its TV+ service to the rival platform &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240529/p27#a240529p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

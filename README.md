@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [KVM Monitors Let You Cut Down the Desk Clutter, and I Love It](https://www.wired.com/story/kvm-monitors-built-in-switch/)
+ - [Amazon is publishing new open-world racer from former Forza developers](https://www.theverge.com/2024/5/29/24166351/amazon-maverick-games-publishing-deal-forza-ps5-xbox)
+ - [The next No Man’s Sky update makes the game lonelier — and more dangerous](https://www.theverge.com/2024/5/29/24166275/no-mans-sky-adrift-update)
  - [Right to repair is now the law in Colorado](https://www.theverge.com/2024/5/29/24166894/colorado-right-to-repair-law-electronics-devices-parts-pairing)
- - [How the Biden administration passed on TikTok&#39;s Project Texas, a proposal to let the US pick its board, veto hires, and more, opting instead for a sale or ban &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/240529/p16#a240529p16)
- - [Solutions by Text, which offers conversational messaging tools for businesses to let users pay bills and more via text, raised $110M, after raising $35M in 2021 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240529/p15#a240529p15)
- - [Get Apple&#39;s 10th-gen iPad for a low $299.99 today](https://appleinsider.com/articles/24/05/29/get-apples-10th-gen-ipad-for-just-29999-today?utm_medium=rss)
- - [BlackRock&#39;s iShares Bitcoin Trust becomes the largest bitcoin fund, holding $19.68B to surpass Grayscale&#39;s $19.65B and Fidelity&#39;s $11.1B since its 2024 launch &lpar;Bloomberg&rpar;](http://www.techmeme.com/240529/p14#a240529p14)<!-- TECH:END -->
+ - [How the Biden administration passed on TikTok&#39;s Project Texas, a proposal to let the US pick its board, veto hires, and more, opting instead for a sale or ban &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/240529/p16#a240529p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

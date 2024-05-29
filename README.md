@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Took her a while](http://9gag.com/gag/azxEVAN)
+ - 😝 [My fellow 9gaggers](http://9gag.com/gag/aAyrro9)
  - 😝 [Berlin, Germany](http://9gag.com/gag/an7KKGB)
- - 💣 [Notice what&#39;s missing](http://9gag.com/gag/ae906Bb)
- - 😝 [Average backpaker things in SEA](http://9gag.com/gag/awyKKOy)
- - 👉 [Women: \u2615\ufe0f](http://9gag.com/gag/azxEjvx)<!-- MEMES:END -->
+ - 💣 [Prove me wrong?](http://9gag.com/gag/aPA44vg)
+ - 😝 [Women: \u2615\ufe0f](http://9gag.com/gag/azxEjvx)
+ - 👉 [Notice what&#39;s missing](http://9gag.com/gag/ae906Bb)<!-- MEMES:END -->
 
 ---
 

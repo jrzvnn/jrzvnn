@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Long story short...](http://9gag.com/gag/aKGPPpg)
- - 😝 [Notice what&#39;s missing](http://9gag.com/gag/ae906Bb)
- - 💣 [Took her a while](http://9gag.com/gag/azxEVAN)
- - 😝 [Lady\u2019s is this true ?](http://9gag.com/gag/agmvG31)
- - 👉 [My fellow 9gaggers](http://9gag.com/gag/aAyrro9)<!-- MEMES:END -->
+ - 😝 [Women: \u2615\ufe0f](http://9gag.com/gag/azxEjvx)
+ - 😝 [Burger](http://9gag.com/gag/aZZxpNQ)
+ - 💣 [My fellow 9gaggers](http://9gag.com/gag/aAyrro9)
+ - 😝 [Things you might not get away with. Nr. 16](http://9gag.com/gag/ae90b1v)
+ - 👉 [Lady\u2019s is this true ?](http://9gag.com/gag/agmvG31)<!-- MEMES:END -->
 
 ---
 

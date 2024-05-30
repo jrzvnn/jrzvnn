@@ -174,10 +174,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [I&#39;m afraid to ask, but why did they count the goal at this video?](http://9gag.com/gag/aE01Bd9)
- - 😝 [Notice what&#39;s missing](http://9gag.com/gag/ae906Bb)
- - 💣 [Women: \u2615\ufe0f](http://9gag.com/gag/azxEjvx)
  - 😝 [They found out](http://9gag.com/gag/a2vY4E1)
- - 👉 [Lady\u2019s is this true ?](http://9gag.com/gag/agmvG31)<!-- MEMES:END -->
+ - 💣 [Women: \u2615\ufe0f](http://9gag.com/gag/azxEjvx)
+ - 😝 [Notice what&#39;s missing](http://9gag.com/gag/ae906Bb)
+ - 👉 [Wow you are incredibly bad at this, how did you get through the casting?](http://9gag.com/gag/a6ZyVNe)<!-- MEMES:END -->
 
 ---
 

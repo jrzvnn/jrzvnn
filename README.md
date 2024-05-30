@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Zero is here — now what?](https://www.theverge.com/24167865/google-zero-search-crash-housefresh-ai-overviews-traffic-data-audience)
- - [Source: Elon Musk and Donald Trump are discussing crypto policy, as Trump increasingly highlights bitcoin and other digital assets as a way to reach new voters &lpar;Bloomberg&rpar;](http://www.techmeme.com/240530/p26#a240530p26)
- - [Babylon, which builds infrastructure to let proof-of-stake systems obtain staking capital from bitcoin, raised $70M led by Paradigm, after raising $18M in 2023 &lpar;MK Manoylov/The Block&rpar;](http://www.techmeme.com/240530/p25#a240530p25)
- - [Best Invisible Braces for 2024     - CNET](https://www.cnet.com/health/personal-care/invisible-braces/#ftag=CAD590a51e)
- - [A report details how malware bricked 600K+ routers connected to an autonomous system number belonging to a US ISP in October 2023; ISP seems to be Windstream &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240530/p24#a240530p24)<!-- TECH:END -->
+ - [Anthropic releases a new feature called &quot;tool use&quot; to let users create AI assistants, available via Anthropic Messages API, Amazon Bedrock, and Google Vertex AI &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/240530/p27#a240530p27)
+ - [Elon Musk finally agrees to testify in the SEC’s Twitter investigation](https://www.theverge.com/2024/5/30/24167910/elon-musk-testify-sec-twitter-investigation)
+ - [WeWork Survived Bankruptcy. Now It Has to Make Coworking Pay Off](https://www.wired.com/story/wework-bankruptcy-future-of-work/)
+ - [Ecobee’s smart thermostat can automatically respond to a heatwave](https://www.theverge.com/2024/5/30/24167870/ecobees-smart-thermostat-can-automatically-respond-to-a-heatwave)
+ - [Logitech updates Designed for Mac range with new keyboard and mice](https://appleinsider.com/articles/24/05/30/logitech-updates-designed-for-mac-range-with-new-keyboard-and-mice?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -173,10 +173,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Long story short...](http://9gag.com/gag/aKGPPpg)
- - 😝 [But her Instagram Bio says she&#39;s a strong independent woman.](http://9gag.com/gag/aBy3YxD)
- - 💣 [Diversity is our strength](http://9gag.com/gag/aRBPPZQ)
- - 😝 [My fellow 9gaggers](http://9gag.com/gag/aAyrro9)
+ - 😝 [They terk arr jrbs arrrr](http://9gag.com/gag/amo0rLV)
+ - 😝 [Me watching gigi posts](http://9gag.com/gag/a9yLYBL)
+ - 💣 [An eagle raised by chickens will thinks like a chicken.](http://9gag.com/gag/ary4NZ6)
+ - 😝 [You know the lyrics guys](http://9gag.com/gag/ae906AO)
  - 👉 [Notice what&#39;s missing](http://9gag.com/gag/ae906Bb)<!-- MEMES:END -->
 
 ---

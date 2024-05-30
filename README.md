@@ -174,10 +174,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Move to AUSTRIA they say...](http://9gag.com/gag/aXPp9QD)
- - 😝 [Lady\u2019s is this true ?](http://9gag.com/gag/agmvG31)
- - 💣 [Let me use that line](http://9gag.com/gag/aKGPBx6)
- - 😝 [Gents, make your voices heard to 9GAG](http://9gag.com/gag/a9yLLyW)
- - 👉 [Grandma and the cat](http://9gag.com/gag/a6Zyyg2)<!-- MEMES:END -->
+ - 😝 [They terk arr jrbs arrrr](http://9gag.com/gag/amo0rLV)
+ - 💣 [When your new pokemon use his sperm attack moves](http://9gag.com/gag/aW4W6r2)
+ - 😝 [Average backpaker things in SEA](http://9gag.com/gag/awyKKOy)
+ - 👉 [I want to know](http://9gag.com/gag/aoy09D0)<!-- MEMES:END -->
 
 ---
 

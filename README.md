@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google, Intel, Meta, and others form the Ultra Accelerator Link Promoter Group to promote a new industry standard to connect AI accelerator chips &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240530/p21#a240530p21)
  - [Fidelity raised the value of its X position by 4.4% to $5.51M in April; since Elon Musk&#39;s October 2022 Twitter takeover, the position has been marked down ~72% &lpar;Dana Wollman/Bloomberg&rpar;](http://www.techmeme.com/240530/p20#a240530p20)
  - [SnuzPod4 Bassinet Review: A Great-Looking and Simple Bassinet](https://www.wired.com/review/snuzpod4-bassinet/)
  - [How to watch Sony’s PlayStation State of Play](https://www.theverge.com/2024/5/30/24167237/playstation-state-of-play-may-2024-how-to-watch)
- - [Today I learned there is a messaging service in Google Maps, and now it’s going away](https://www.theverge.com/2024/5/30/24167789/til-google-maps-business-messaging-service-shut-down)
- - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)<!-- TECH:END -->
+ - [Today I learned there is a messaging service in Google Maps, and now it’s going away](https://www.theverge.com/2024/5/30/24167789/til-google-maps-business-messaging-service-shut-down)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [If you had an iPhone 7 with audio problems, your settlement deadline is soon](https://appleinsider.com/articles/24/05/30/if-you-had-an-iphone-7-with-audio-problems-your-settlement-deadline-is-soon?utm_medium=rss)
- - [Sightful Spacetop G1: Specs, Features, Release Date, Price](https://www.wired.com/story/sightful-spacetop-g1-augmented-reality-laptop/)
- - [Motorola Edge 50 Pro Review: A Solid Midrange Android Phone](https://www.wired.com/review/motorola-edge-50-pro/)
- - [SEC filing: Salesforce paid $419M, including $374M in cash, to buy commission management service Spiff in a deal announced in December 2023; Spiff raised $110M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240530/p15#a240530p15)
- - [2024 Is the Year of the Generative AI Election](https://www.wired.com/story/2024-is-the-year-of-generative-ai-elections/)<!-- TECH:END -->
+ - [Deals: Apple&#39;s new 13-inch iPad Pro M4 gets a $120 price cut](https://appleinsider.com/articles/24/05/30/deals-apples-new-13-inch-ipad-pro-m4-gets-a-120-price-cut?utm_medium=rss)
+ - [The FAA approves Amazon&#39;s Prime Air program to fly drones beyond a pilot&#39;s line of sight, letting Amazon expand its delivery area in College Station, Texas &lpar;Lynn Doan/Bloomberg&rpar;](http://www.techmeme.com/240530/p16#a240530p16)
+ - [IWC Pilot’s Chronograph Ceralume 2024: Price, Specs, Availability](https://www.wired.com/story/how-iwc-made-the-most-glow-in-the-dark-watch-ever-for-lewis-hamilton/)
+ - [Klipsch Flexus Core 200 Soundbar Review: Serious Sound for Less](https://www.wired.com/review/klipsch-flexus-core-200/)
+ - [Sony leak allows Destiny 2 players to access The Final Shape expansion early](https://www.theverge.com/2024/5/30/24167768/sony-destiny-2-the-final-shape-leak-expansion-dlc-early-access)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

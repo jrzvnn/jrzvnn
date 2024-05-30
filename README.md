@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Move to AUSTRIA they say...](http://9gag.com/gag/aXPp9QD)
- - 😝 [Diversity is our strength](http://9gag.com/gag/aRBPPZQ)
- - 💣 [Prove me wrong?](http://9gag.com/gag/aPA44vg)
- - 😝 [Notice what&#39;s missing](http://9gag.com/gag/ae906Bb)
- - 👉 [Lady\u2019s is this true ?](http://9gag.com/gag/agmvG31)<!-- MEMES:END -->
+ - 😝 [Let\u2019s go again, hopefully it wont get deleted.](http://9gag.com/gag/adBYXKZ)
+ - 😝 [They terk arr jrbs arrrr](http://9gag.com/gag/amo0rLV)
+ - 💣 [Me watching gigi posts](http://9gag.com/gag/a9yLYBL)
+ - 😝 [An eagle raised by chickens will thinks like a chicken.](http://9gag.com/gag/ary4NZ6)
+ - 👉 [You know the lyrics guys](http://9gag.com/gag/ae906AO)<!-- MEMES:END -->
 
 ---
 

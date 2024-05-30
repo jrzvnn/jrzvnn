@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Move to AUSTRIA they say...](http://9gag.com/gag/aXPp9QD)
- - 😝 [Ok that&#39;s awesome](http://9gag.com/gag/aGywDo0)
- - 💣 [But her Instagram Bio says she&#39;s a strong independent woman.](http://9gag.com/gag/aBy3YxD)
- - 😝 [Women: \u2615\ufe0f](http://9gag.com/gag/azxEjvx)
- - 👉 [Notice what&#39;s missing](http://9gag.com/gag/ae906Bb)<!-- MEMES:END -->
+ - 😝 [Brave Spanish Women Speaks Out About The Decivilization Of Spain And The Imported Mass Crimes.](http://9gag.com/gag/aE01YVn)
+ - 😝 [That damned smile.](http://9gag.com/gag/ae90YLv)
+ - 💣 [What&#39;s European in Arabic?](http://9gag.com/gag/aD23joN)
+ - 😝 [Beacon has been lit and europe will answer](http://9gag.com/gag/awyKVGr)
+ - 👉 [Its fun playing with AI. Still.](http://9gag.com/gag/a4PdbAQ)<!-- MEMES:END -->
 
 ---
 

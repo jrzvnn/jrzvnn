@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tiny fistbumps](http://9gag.com/gag/aYQWezw)
- - 😝 [The pain](http://9gag.com/gag/aW4WqL4)
- - 💣 [They found out](http://9gag.com/gag/a2vY4E1)
- - 😝 [Wow you are incredibly bad at this, how did you get through the casting?](http://9gag.com/gag/a6ZyVNe)
- - 👉 [But her Instagram Bio says she&#39;s a strong independent woman.](http://9gag.com/gag/aBy3YxD)<!-- MEMES:END -->
+ - 😝 [Things you might not get away with. Nr. 16](http://9gag.com/gag/ae90b1v)
+ - 😝 [Father of 3 on his 2nd divorce](http://9gag.com/gag/a9yLW1o)
+ - 💣 [Ok that&#39;s awesome](http://9gag.com/gag/aGywDo0)
+ - 😝 [That\u2019s a lot of empty kitchens](http://9gag.com/gag/aYQWKb0)
+ - 👉 [Hot](http://9gag.com/gag/azxEAgz)<!-- MEMES:END -->
 
 ---
 

@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ok that&#39;s awesome](http://9gag.com/gag/aGywDo0)
- - 😝 [Lady\u2019s is this true ?](http://9gag.com/gag/agmvG31)
- - 💣 [Took her a while](http://9gag.com/gag/azxEVAN)
+ - 😝 [I&#39;m afraid to ask, but why did they count the goal at this video?](http://9gag.com/gag/aE01Bd9)
+ - 😝 [All hail Denmark](http://9gag.com/gag/aLnPBOA)
+ - 💣 [But her Instagram Bio says she&#39;s a strong independent woman.](http://9gag.com/gag/aBy3YxD)
  - 😝 [Women: \u2615\ufe0f](http://9gag.com/gag/azxEjvx)
- - 👉 [But her Instagram Bio says she&#39;s a strong independent woman.](http://9gag.com/gag/aBy3YxD)<!-- MEMES:END -->
+ - 👉 [Lady\u2019s is this true ?](http://9gag.com/gag/agmvG31)<!-- MEMES:END -->
 
 ---
 

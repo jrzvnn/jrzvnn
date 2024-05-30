@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US federal court awards Activision $14.4M in a judgment for its 2022 lawsuit accusing EngineOwning of DMCA violation by selling Call of Duty cheat software &lpar;Wesley Yin-Poole/IGN&rpar;](http://www.techmeme.com/240529/p35#a240529p35)
- - [Netflix’s next game show is Million Dollar Secret](https://www.theverge.com/2024/5/29/24167453/netflix-million-dollar-secret-game-show)
- - [Google confirms the authenticity of the 2,500 leaked Search documents filled with details about data the company collects &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/240529/p34#a240529p34)
- - [Fruit Flavor Cookie Assortment     - CNET](https://www.cnet.com/news/fruit-flavor-cookie-assortment-dpnl/#ftag=CAD590a51e)
- - [LocknLock Storage Set     - CNET](https://www.cnet.com/news/locknlock-storage-set-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple and OpenAI allegedly reach deal to bring ChatGPT functionality to iOS 18](https://appleinsider.com/articles/24/05/30/apple-and-openai-allegedly-reach-deal-to-bring-chatgpt-functionality-to-ios-18?utm_medium=rss)
+ - [Researchers: an ex-Florida deputy sheriff who received asylum in Russia has built a network of 160+ fake news sites with the help of ChatGPT and other AI tools &lpar;Steven Lee Myers/New York Times&rpar;](http://www.techmeme.com/240529/p37#a240529p37)
+ - [Boston-based Maven AGI, which offers AI agents for customer support, comes out of stealth after raising $28M, including a $20M Series A led by M13 &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240529/p36#a240529p36)
+ - [My Favorite Sunrise Alarm Clock From Hatch Is Still $30 Cheaper Post-Memorial Day     - CNET](https://www.cnet.com/deals/hatch-restore-memorial-day-2024/#ftag=CAD590a51e)
+ - [A US federal court awards Activision $14.4M in a judgment for its 2022 lawsuit accusing EngineOwning of DMCA violation by selling Call of Duty cheat software &lpar;Wesley Yin-Poole/IGN&rpar;](http://www.techmeme.com/240529/p35#a240529p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

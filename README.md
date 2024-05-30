@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Zero is here — now what?](https://www.theverge.com/24167865/google-zero-search-crash-housefresh-ai-overviews-traffic-data-audience)
+ - [Source: Elon Musk and Donald Trump are discussing crypto policy, as Trump increasingly highlights bitcoin and other digital assets as a way to reach new voters &lpar;Bloomberg&rpar;](http://www.techmeme.com/240530/p26#a240530p26)
  - [Babylon, which builds infrastructure to let proof-of-stake systems obtain staking capital from bitcoin, raised $70M led by Paradigm, after raising $18M in 2023 &lpar;MK Manoylov/The Block&rpar;](http://www.techmeme.com/240530/p25#a240530p25)
  - [Best Invisible Braces for 2024     - CNET](https://www.cnet.com/health/personal-care/invisible-braces/#ftag=CAD590a51e)
- - [A report details how malware bricked 600K+ routers connected to an autonomous system number belonging to a US ISP in October 2023; ISP seems to be Windstream &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240530/p24#a240530p24)
- - [How to back up and wipe your Windows PC](https://www.theverge.com/24167817/windows-pc-backup-wipe-how-to)
- - [Tel Aviv-based Firefly, which provides cloud asset management with an infrastructure-as-code solution, raised a $23M Series A led by Vertex &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240530/p23#a240530p23)<!-- TECH:END -->
+ - [A report details how malware bricked 600K+ routers connected to an autonomous system number belonging to a US ISP in October 2023; ISP seems to be Windstream &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240530/p24#a240530p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

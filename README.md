@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the US is probing whether chip-equipment maker Ronda Korea has been selling parts using tech made by US&#39; Lam Research to sanctioned Chinese companies &lpar;The Information&rpar;](http://www.techmeme.com/240530/p34#a240530p34)
  - [Save up to $520 on Sonos speakers, soundbars &amp; subwoofers to use with Apple Music](https://appleinsider.com/articles/24/05/30/save-up-to-520-on-sonos-speakers-soundbars-subwoofers-to-use-with-apple-music?utm_medium=rss)
  - [OpenAI disrupted five influence operations in the past three months that accessed its products to covertly manipulate public opinion or shape political outcomes &lpar;Gerrit De Vynck/Washington Post&rpar;](http://www.techmeme.com/240530/p33#a240530p33)
  - [On X, Paul Graham says claims about YC firing Sam Altman are &quot;not true&quot;, and Altman left because he wanted to work full-time on OpenAI as its CEO &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240530/p32#a240530p32)
- - [Google rolls out new features to Android, including editing sent messages in Google Messages, improvements to instant hotspot, a Google Home widget, and more &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240530/p31#a240530p31)
- - [The best Fitbits for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)<!-- TECH:END -->
+ - [Google rolls out new features to Android, including editing sent messages in Google Messages, improvements to instant hotspot, a Google Home widget, and more &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240530/p31#a240530p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Microsoft pushed OpenAI to prioritize commercial products after the attempted coup against Sam Altman in November 2023, amplifying tensions at OpenAI &lpar;Financial Times&rpar;](http://www.techmeme.com/240530/p3#a240530p3)
  - [Sources: Sam Altman and Satya Nadella recently met to discuss Microsoft&#39;s concerns about how OpenAI&#39;s deal with Apple might affect Microsoft&#39;s product ambitions &lpar;The Information&rpar;](http://www.techmeme.com/240530/p2#a240530p2)
  - [Google announces plans to invest $2B in Malaysia, including building its first data center, a new Google Cloud region, and further developing AI &lpar;Kimberley Kao/Wall Street Journal&rpar;](http://www.techmeme.com/240530/p1#a240530p1)
  - [93% of Americans Are Worried About Inflation. How Rising Prices Are Changing How We Spend and Save     - CNET](https://www.cnet.com/personal-finance/banking/93-percent-of-americans-are-worried-about-inflation-how-rising-prices-are-changing-how-we-spend-and-save/#ftag=CAD590a51e)
- - [Best Memorial Day TV Sales Still Available: Save on 4K TVs, OLED Models and More     - CNET](https://www.cnet.com/deals/best-memorial-day-tv-sales-2024-05-29/#ftag=CAD590a51e)
- - [Natural Cycles, an FDA-cleared birth control app with ~3M users, raised a $55M Series C led by Lauxera Capital Partners, bringing its total funding to $95M+ &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/240529/p43#a240529p43)<!-- TECH:END -->
+ - [Best Memorial Day TV Sales Still Available: Save on 4K TVs, OLED Models and More     - CNET](https://www.cnet.com/deals/best-memorial-day-tv-sales-2024-05-29/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

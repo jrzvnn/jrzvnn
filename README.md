@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google and Magic Leap partner to work on building immersive experiences that blend the physical and digital worlds, but offer few details &lpar;Katie Paul/Reuters&rpar;](http://www.techmeme.com/240530/p19#a240530p19)
  - [Hands-on with Fire TV&#39;s Alexa voice search, rolling out now: powered by a custom LLM to take conversational requests, but the results are largely disappointing &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/240530/p18#a240530p18)
  - [NASA’s DART mission punched the Didymos asteroid in 2022 — now it’s time to go back](https://www.theverge.com/2024/5/30/24167787/esa-hera-mission-didymos-asteroid-nasa-dart-testing)
  - [All of Microsoft’s MacBook Air-beating benchmarks](https://www.theverge.com/2024/5/30/24167745/microsoft-macbook-air-benchmarks-surface-laptop-copilot-plus-pc)
- - [13 Best Amazon Echo and Alexa Speakers &lpar;2024&rpar;: Earbuds, Soundbars, Displays](https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers/)
- - [The Best Motorola Phones &lpar;2024&rpar;: Pros and Cons, Top Features](https://www.wired.com/story/best-motorola-phones/)<!-- TECH:END -->
+ - [13 Best Amazon Echo and Alexa Speakers &lpar;2024&rpar;: Earbuds, Soundbars, Displays](https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,10 +165,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [How the Integrity Institute, a nonprofit founded by two ex-Facebook staff to help tech companies create more welcoming spaces, lost control of its own culture &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/240530/p8#a240530p8)
+ - [The 8 Best Chef&#39;s Knives for 2024, Tested and Reviewed     - CNET](https://www.cnet.com/news/best-chefs-knife/#ftag=CAD590a51e)
  - [Best Adjustable Dumbbells for 2024     - CNET](https://www.cnet.com/health/fitness/best-adjustable-dumbbells/#ftag=CAD590a51e)
  - [Six AI and ML experts detail what they learned from building real-world applications on top of LLMs over the past year, including common prompting pitfalls &lpar;O&#39;Reilly Media&rpar;](http://www.techmeme.com/240530/p7#a240530p7)
- - [Amazon extends partnership with Grubhub to let US customers order food delivery inside Amazon&#39;s app through Grubhub and makes Grubhub+ a permanent Prime perk &lpar;Hope King/Axios&rpar;](http://www.techmeme.com/240530/p6#a240530p6)
- - [California Governor Gavin Newsom warns against perils of over-regulating AI, sending a signal to the state&#39;s lawmakers who are advancing dozens of AI bills &lpar;Jeremy B. White/Politico&rpar;](http://www.techmeme.com/240530/p5#a240530p5)<!-- TECH:END -->
+ - [Amazon extends partnership with Grubhub to let US customers order food delivery inside Amazon&#39;s app through Grubhub and makes Grubhub+ a permanent Prime perk &lpar;Hope King/Axios&rpar;](http://www.techmeme.com/240530/p6#a240530p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

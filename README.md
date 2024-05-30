@@ -174,10 +174,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Move to AUSTRIA they say...](http://9gag.com/gag/aXPp9QD)
- - 😝 [They terk arr jrbs arrrr](http://9gag.com/gag/amo0rLV)
- - 💣 [When your new pokemon use his sperm attack moves](http://9gag.com/gag/aW4W6r2)
- - 😝 [Average backpaker things in SEA](http://9gag.com/gag/awyKKOy)
- - 👉 [I want to know](http://9gag.com/gag/aoy09D0)<!-- MEMES:END -->
+ - 😝 [Diversity is our strength](http://9gag.com/gag/aRBPPZQ)
+ - 💣 [Prove me wrong?](http://9gag.com/gag/aPA44vg)
+ - 😝 [Notice what&#39;s missing](http://9gag.com/gag/ae906Bb)
+ - 👉 [Lady\u2019s is this true ?](http://9gag.com/gag/agmvG31)<!-- MEMES:END -->
 
 ---
 

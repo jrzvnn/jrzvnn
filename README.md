@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [But her Instagram Bio says she&#39;s a strong independent woman.](http://9gag.com/gag/aBy3YxD)
- - 😝 [The fastest deescalation in human history](http://9gag.com/gag/aMVrGxP)
- - 💣 [Fever dream](http://9gag.com/gag/aPA4DeP)
+ - 😝 [Ok that&#39;s awesome](http://9gag.com/gag/aGywDo0)
  - 😝 [I&#39;m afraid to ask, but why did they count the goal at this video?](http://9gag.com/gag/aE01Bd9)
- - 👉 [Notice what&#39;s missing](http://9gag.com/gag/ae906Bb)<!-- MEMES:END -->
+ - 💣 [But her Instagram Bio says she&#39;s a strong independent woman.](http://9gag.com/gag/aBy3YxD)
+ - 😝 [Women: \u2615\ufe0f](http://9gag.com/gag/azxEjvx)
+ - 👉 [Happy birthday](http://9gag.com/gag/a343Md1)<!-- MEMES:END -->
 
 ---
 

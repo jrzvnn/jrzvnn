@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ok that&#39;s awesome](http://9gag.com/gag/aGywDo0)
- - 😝 [But her Instagram Bio says she&#39;s a strong independent woman.](http://9gag.com/gag/aBy3YxD)
- - 💣 [Burger](http://9gag.com/gag/aZZxpNQ)
- - 😝 [Diversity is our strength](http://9gag.com/gag/aRBPPZQ)
- - 👉 [I want to know](http://9gag.com/gag/aoy09D0)<!-- MEMES:END -->
+ - 😝 [Burger](http://9gag.com/gag/aZZxpNQ)
+ - 😝 [How are you holding up fellow 9gaggers](http://9gag.com/gag/a3433m3)
+ - 💣 [Best of Danny Devito cameos unless you got better ?](http://9gag.com/gag/aMVrr3G)
+ - 😝 [I want to know](http://9gag.com/gag/aoy09D0)
+ - 👉 [All hail Denmark](http://9gag.com/gag/aLnPBOA)<!-- MEMES:END -->
 
 ---
 

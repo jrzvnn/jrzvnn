@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta begins rolling out TweetDeck-style customizable feeds on Threads globally, following a test that started earlier this month &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240530/p36#a240530p36)
+ - [You Can Buy a Used Tesla for Cheap. Just Be Careful If You Do](https://www.wired.com/story/used-tesla-buying-tips/)
  - [Tesla aims to launch its FSD software in China](https://www.theverge.com/2024/5/30/24167885/tesla-china-fsd-self-driving-software-registration)
  - [The 22 Best Movies on Apple TV+ Right Now &lpar;June 2024&rpar;](https://www.wired.com/story/best-apple-tv-plus-movies/)
- - [Threads’ TweetDeck-style redesign is rolling out to everyone](https://www.theverge.com/2024/5/30/24168059/threads-tweetdeck-style-redesign-rollout)
- - [Ecuador Is Literally Powerless in the Face of Drought](https://www.wired.com/story/ecuador-energy-crisis-water-shortage-hydro/)
- - [CordZero Stick Vacuums Put LG Technology to Work for You     - CNET](https://www.cnet.com/paid-content/news/cordzero-stick-vacuums-put-lg-technology-to-work-for-you/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Threads’ TweetDeck-style redesign is rolling out to everyone](https://www.theverge.com/2024/5/30/24168059/threads-tweetdeck-style-redesign-rollout)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

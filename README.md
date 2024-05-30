@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Things you might not get away with. Nr. 16](http://9gag.com/gag/ae90b1v)
- - 😝 [Father of 3 on his 2nd divorce](http://9gag.com/gag/a9yLW1o)
- - 💣 [Ok that&#39;s awesome](http://9gag.com/gag/aGywDo0)
- - 😝 [That\u2019s a lot of empty kitchens](http://9gag.com/gag/aYQWKb0)
- - 👉 [Hot](http://9gag.com/gag/azxEAgz)<!-- MEMES:END -->
+ - 😝 [That made me smile \u263a](http://9gag.com/gag/aMVrAK6)
+ - 😝 [Best kind of prank](http://9gag.com/gag/an7KbKo)
+ - 💣 [Being single in 37](http://9gag.com/gag/agmvXr1)
+ - 😝 [I&#39;m afraid to ask, but why did they count the goal at this video?](http://9gag.com/gag/aE01Bd9)
+ - 👉 [Bear attempts to eat pigs, little did the bear know, these pigs don\u2019t mess around](http://9gag.com/gag/ary45Bp)<!-- MEMES:END -->
 
 ---
 

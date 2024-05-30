@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alexa’s Fire TV search has a new AI, but it needs some work](https://www.theverge.com/24167294/amazon-ai-powered-search-fire-tv-alexa-hands-on)
- - [Sources: TikTok is working on a clone of its recommendation algorithm for its US users that may result in a version that operates independently of ByteDance &lpar;Reuters&rpar;](http://www.techmeme.com/240530/p37#a240530p37)
- - [Meta begins rolling out TweetDeck-style customizable feeds on Threads globally, following a test that started earlier this month &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240530/p36#a240530p36)
- - [You Can Buy a Used Tesla for Cheap. Just Be Careful If You Do](https://www.wired.com/story/used-tesla-buying-tips/)
- - [Tesla aims to launch its FSD software in China](https://www.theverge.com/2024/5/30/24167885/tesla-china-fsd-self-driving-software-registration)<!-- TECH:END -->
+ - [Sources: US has delayed license requests from chipmakers for AI accelerator shipments to the Middle East and is worried about the tech getting diverted to China &lpar;Bloomberg&rpar;](http://www.techmeme.com/240530/p38#a240530p38)
+ - [Today&#39;s NYT Connections Hints and Answer -- Help for May 30, #354     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hints-answer-help-for-may-30-354/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints and Answer: Help for May 30, #1076     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-and-answer-help-for-may-30-1076/#ftag=CAD590a51e)
+ - [Eat Up, Amazon Prime Customers: You Get Grubhub Plus for Free     - CNET](https://www.cnet.com/tech/services-and-software/amazon-prime-and-grubhub-plus-extend-perk-how-to-get-another-free-year/#ftag=CAD590a51e)
+ - [Alexa’s Fire TV search has a new AI, but it needs some work](https://www.theverge.com/24167294/amazon-ai-powered-search-fire-tv-alexa-hands-on)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A report details how malware bricked 600K+ routers connected to an autonomous system number belonging to a US ISP in October 2023; ISP seems to be Windstream &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240530/p24#a240530p24)
  - [How to back up and wipe your Windows PC](https://www.theverge.com/24167817/windows-pc-backup-wipe-how-to)
  - [Tel Aviv-based Firefly, which provides cloud asset management with an infrastructure-as-code solution, raised a $23M Series A led by Vertex &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240530/p23#a240530p23)
  - [US lawmakers express ‘serious concern’ to NLRB about fired Google contractors](https://www.theverge.com/2024/5/30/24167490/google-cognizant-youtube-music-contractors-fired-nlrb-complaint)
- - [Sonos smart speakers and soundbars are up to 25 percent off for Father’s Day](https://www.theverge.com/2024/5/30/24166558/sonos-smart-speaker-soundbar-era-move-beam-arc-deal-sale)
- - [Amazon’s Prime Air delivery drones can fly even farther after FAA approval](https://www.theverge.com/2024/5/30/24167776/amazon-prime-air-delivery-drones-faa-bvlos-approval)<!-- TECH:END -->
+ - [Sonos smart speakers and soundbars are up to 25 percent off for Father’s Day](https://www.theverge.com/2024/5/30/24166558/sonos-smart-speaker-soundbar-era-move-beam-arc-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

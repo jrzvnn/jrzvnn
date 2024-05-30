@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Me watching gigi posts](http://9gag.com/gag/a9yLYBL)
- - 😝 [An eagle raised by chickens will thinks like a chicken.](http://9gag.com/gag/ary4NZ6)
- - 💣 [That damned smile.](http://9gag.com/gag/ae90YLv)
- - 😝 [You know the lyrics guys](http://9gag.com/gag/ae906AO)
- - 👉 [Notice what&#39;s missing](http://9gag.com/gag/ae906Bb)<!-- MEMES:END -->
+ - 😝 [Long story short...](http://9gag.com/gag/aKGPPpg)
+ - 😝 [Notice what&#39;s missing](http://9gag.com/gag/ae906Bb)
+ - 💣 [Took her a while](http://9gag.com/gag/azxEVAN)
+ - 😝 [Lady\u2019s is this true ?](http://9gag.com/gag/agmvG31)
+ - 👉 [My fellow 9gaggers](http://9gag.com/gag/aAyrro9)<!-- MEMES:END -->
 
 ---
 

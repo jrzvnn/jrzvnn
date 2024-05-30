@@ -175,9 +175,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Ok that&#39;s awesome](http://9gag.com/gag/aGywDo0)
  - 😝 [But her Instagram Bio says she&#39;s a strong independent woman.](http://9gag.com/gag/aBy3YxD)
- - 💣 [My fellow 9gaggers](http://9gag.com/gag/aAyrro9)
- - 😝 [Notice what&#39;s missing](http://9gag.com/gag/ae906Bb)
- - 👉 [Women: \u2615\ufe0f](http://9gag.com/gag/azxEjvx)<!-- MEMES:END -->
+ - 💣 [Burger](http://9gag.com/gag/aZZxpNQ)
+ - 😝 [Diversity is our strength](http://9gag.com/gag/aRBPPZQ)
+ - 👉 [I want to know](http://9gag.com/gag/aoy09D0)<!-- MEMES:END -->
 
 ---
 

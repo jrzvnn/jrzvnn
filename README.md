@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Auction house Christie&#39;s alerts the FBI and UK police about the hack that hobbled its website earlier this month, and begins telling clients of compromised data &lpar;Zachary Small/New York Times&rpar;](http://www.techmeme.com/240530/p30#a240530p30)
  - [Elon Musk agrees to testify in the SEC&#39;s probe of his 2022 Twitter acquisition, after dropping his plan to appeal a court order that he comply with a subpoena &lpar;Jef Feeley/Bloomberg&rpar;](http://www.techmeme.com/240530/p29#a240530p29)
  - [Filing: Terraform Labs and founder Do Kwon reach a tentative settlement with the SEC in its case alleging they misled investors before the collapse of TerraUSD &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/240530/p28#a240530p28)
  - [Anthropic releases a new feature called &quot;tool use&quot; to let users create AI assistants, available via Anthropic Messages API, Amazon Bedrock, and Google Vertex AI &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/240530/p27#a240530p27)
- - [Elon Musk finally agrees to testify in the SEC’s Twitter investigation](https://www.theverge.com/2024/5/30/24167910/elon-musk-testify-sec-twitter-investigation)
- - [WeWork Survived Bankruptcy. Now It Has to Make Coworking Pay Off](https://www.wired.com/story/wework-bankruptcy-future-of-work/)<!-- TECH:END -->
+ - [Elon Musk finally agrees to testify in the SEC’s Twitter investigation](https://www.theverge.com/2024/5/30/24167910/elon-musk-testify-sec-twitter-investigation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

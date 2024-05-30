@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [All hail Denmark](http://9gag.com/gag/aLnPBOA)
- - 😝 [I&#39;m afraid to ask, but why did they count the goal at this video?](http://9gag.com/gag/aE01Bd9)
- - 💣 [But her Instagram Bio says she&#39;s a strong independent woman.](http://9gag.com/gag/aBy3YxD)
- - 😝 [Tom and Jerry full episodes - link in comments](http://9gag.com/gag/aRBPe3G)
- - 👉 [I want to know](http://9gag.com/gag/aoy09D0)<!-- MEMES:END -->
+ - 😝 [That made me smile \u263a](http://9gag.com/gag/aMVrAK6)
+ - 😝 [Beacon has been lit and europe will answer](http://9gag.com/gag/awyKVGr)
+ - 💣 [Them eyes](http://9gag.com/gag/a9yLr0m)
+ - 😝 [Some people don&#39;t understand](http://9gag.com/gag/a343qZr)
+ - 👉 [Its fun playing with AI. Still.](http://9gag.com/gag/a4PdbAQ)<!-- MEMES:END -->
 
 ---
 

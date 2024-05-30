@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [First alternative to Apple Wallet is ready to launch in EU](https://appleinsider.com/articles/24/05/30/first-alternative-to-apple-wallet-is-ready-to-launch-in-eu?utm_medium=rss)
+ - [Modular laptop maker Framework unveils a $269 drop-in 120Hz display, improved $39 webcam, and swappable mainboard to add Intel Core Ultra chips to its laptops &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240530/p11#a240530p11)
  - [You Think You Know How Misinformation Spreads? Welcome to the Hellhole of Programatic Advertising](https://www.wired.com/story/death-of-truth-misinformation-advertising/)
  - [Instagram’s ‘limits’ adds a mute button for everyone other than close friends](https://www.theverge.com/2024/5/30/24167259/instagram-limit-posts-everyone-but-close-friends)
- - [Romanian startup FintechOS, a low-code platform to help banks and insurance companies compete with neobanks, raised a $60M Series B+, after raising $60M in 2021 &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/240530/p10#a240530p10)
- - [Europol says police in Germany, the UK, the US, and others took down botnets that spread ransomware via infected emails, arrested four, and seized 2K+ domains &lpar;Mike Corder/Associated Press&rpar;](http://www.techmeme.com/240530/p9#a240530p9)
- - [How AI Is Impacting the 2024 Elections](https://www.wired.com/story/generative-ai-global-elections/)<!-- TECH:END -->
+ - [Romanian startup FintechOS, a low-code platform to help banks and insurance companies compete with neobanks, raised a $60M Series B+, after raising $60M in 2021 &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/240530/p10#a240530p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

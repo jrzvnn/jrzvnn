@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How AI Is Impacting the 2024 Elections](https://www.wired.com/story/generative-ai-global-elections/)
+ - [AI Election Project Methodology and Submission Information](https://www.wired.com/story/ai-election-project-methodology-and-submission-information/)
  - [How the Integrity Institute, a nonprofit founded by two ex-Facebook staff to help tech companies create more welcoming spaces, lost control of its own culture &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/240530/p8#a240530p8)
- - [The 8 Best Chef&#39;s Knives for 2024, Tested and Reviewed     - CNET](https://www.cnet.com/news/best-chefs-knife/#ftag=CAD590a51e)
  - [Best Adjustable Dumbbells for 2024     - CNET](https://www.cnet.com/health/fitness/best-adjustable-dumbbells/#ftag=CAD590a51e)
- - [Six AI and ML experts detail what they learned from building real-world applications on top of LLMs over the past year, including common prompting pitfalls &lpar;O&#39;Reilly Media&rpar;](http://www.techmeme.com/240530/p7#a240530p7)
- - [Amazon extends partnership with Grubhub to let US customers order food delivery inside Amazon&#39;s app through Grubhub and makes Grubhub+ a permanent Prime perk &lpar;Hope King/Axios&rpar;](http://www.techmeme.com/240530/p6#a240530p6)<!-- TECH:END -->
+ - [Six AI and ML experts detail what they learned from building real-world applications on top of LLMs over the past year, including common prompting pitfalls &lpar;O&#39;Reilly Media&rpar;](http://www.techmeme.com/240530/p7#a240530p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

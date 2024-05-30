@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MongoDB reports Q1 revenue up 22% YoY to $450.6M, vs. $439.91M est., and cuts its Q2 and FY 2025 outlook on slower Atlas demand; MDB drops 25%+ after hours &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/240530/p45#a240530p45)
+ - [Silent Hill 2’s remake hits PS5 and Steam in October](https://www.theverge.com/24168204/silent-hill-2-remake-trailer-date-ps5-steam)
  - [Trump’s Online MAGA Army Calls Guilty Verdict a Declaration of War](https://www.wired.com/story/trump-guilty-verdict-online-maga-fanbase-war/)
  - [Jeep’s Wagoneer S Trailhawk concept teases a fully electric off-roader](https://www.theverge.com/2024/5/30/24168099/jeep-wagoneer-s-trailhawk-concept-ev-off-road)
- - [The first electric Jeep for the US is finally here](https://www.theverge.com/2024/5/30/24166498/jeep-wagoneer-s-ev-price-photos-specs-range)
- - [Twitch is disbanding its Safety Advisory Council and will replace it with streamers](https://www.theverge.com/2024/5/30/24168200/twitch-safety-advisory-council-contract-termination-twitch-ambassadors)
- - [Spotify has initiated a refund process for its discontinued Car Thing dashboard device, as consumers file a lawsuit claiming Spotify misled them &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240530/p44#a240530p44)<!-- TECH:END -->
+ - [The first electric Jeep for the US is finally here](https://www.theverge.com/2024/5/30/24166498/jeep-wagoneer-s-ev-price-photos-specs-range)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

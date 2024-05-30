@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [After a Cruise car hit and dragged a pedestrian, executives say they&#39;re in no rush to get back on the road, as Cruise slows its breakneck development to a crawl &lpar;Yiwen Lu/New York Times&rpar;](http://www.techmeme.com/240530/p13#a240530p13)
  - [An image showing tents in a camp spelling out &quot;All Eyes on Rafah&quot; hits 44M+ shares on Instagram in 48 hours, likely one of the first viral AI activist images &lpar;Kat Tenbarge/NBC News&rpar;](http://www.techmeme.com/240530/p12#a240530p12)
  - [The Unusual Espionage Act Case Against a Drone Photographer](https://www.wired.com/story/fengyun-shi-espionage-act-drone-photography/)
  - [First alternative to Apple Wallet is ready to launch in EU](https://appleinsider.com/articles/24/05/30/first-alternative-to-apple-wallet-is-ready-to-launch-in-eu?utm_medium=rss)
- - [Modular laptop maker Framework unveils a $269 drop-in 120Hz display, improved $39 webcam, and swappable mainboard to add Intel Core Ultra chips to its laptops &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240530/p11#a240530p11)
- - [You Think You Know How Misinformation Spreads? Welcome to the Hellhole of Programatic Advertising](https://www.wired.com/story/death-of-truth-misinformation-advertising/)<!-- TECH:END -->
+ - [Modular laptop maker Framework unveils a $269 drop-in 120Hz display, improved $39 webcam, and swappable mainboard to add Intel Core Ultra chips to its laptops &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240530/p11#a240530p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

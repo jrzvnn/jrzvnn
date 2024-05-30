@@ -174,10 +174,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Move to AUSTRIA they say...](http://9gag.com/gag/aXPp9QD)
- - 😝 [Diversity is our strength](http://9gag.com/gag/aRBPPZQ)
- - 💣 [Prove me wrong?](http://9gag.com/gag/aPA44vg)
- - 😝 [Interesting new technology being developed. Would be an expensive initial investment, but would save on raw material and waste handling costs.](http://9gag.com/gag/aO8bb3v)
- - 👉 [Better than UFC](http://9gag.com/gag/aE011Yp)<!-- MEMES:END -->
+ - 😝 [Lady\u2019s is this true ?](http://9gag.com/gag/agmvG31)
+ - 💣 [Let me use that line](http://9gag.com/gag/aKGPBx6)
+ - 😝 [Gents, make your voices heard to 9GAG](http://9gag.com/gag/a9yLLyW)
+ - 👉 [Grandma and the cat](http://9gag.com/gag/a6Zyyg2)<!-- MEMES:END -->
 
 ---
 

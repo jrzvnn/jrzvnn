@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They found out](http://9gag.com/gag/a2vY4E1)
- - 😝 [Burger](http://9gag.com/gag/aZZxpNQ)
- - 💣 [Wow you are incredibly bad at this, how did you get through the casting?](http://9gag.com/gag/a6ZyVNe)
- - 😝 [Lady\u2019s is this true ?](http://9gag.com/gag/agmvG31)
- - 👉 [I&#39;m afraid to ask, but why did they count the goal at this video?](http://9gag.com/gag/aE01Bd9)<!-- MEMES:END -->
+ - 😝 [Beacon has been lit and europe will answer](http://9gag.com/gag/awyKVGr)
+ - 😝 [The pain](http://9gag.com/gag/aW4WqL4)
+ - 💣 [Them eyes](http://9gag.com/gag/a9yLr0m)
+ - 😝 [Its fun playing with AI. Still.](http://9gag.com/gag/a4PdbAQ)
+ - 👉 [That made me smile \u263a](http://9gag.com/gag/aMVrAK6)<!-- MEMES:END -->
 
 ---
 

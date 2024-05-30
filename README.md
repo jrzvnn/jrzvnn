@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My fellow 9gaggers](http://9gag.com/gag/aAyrro9)
+ - 😝 [The new California](http://9gag.com/gag/aMVrw5X)
  - 😝 [Move to AUSTRIA they say...](http://9gag.com/gag/aXPp9QD)
- - 💣 [Took her a while](http://9gag.com/gag/azxEVAN)
- - 😝 [Average backpaker things in SEA](http://9gag.com/gag/awyKKOy)
- - 👉 [Lady\u2019s is this true ?](http://9gag.com/gag/agmvG31)<!-- MEMES:END -->
+ - 💣 [They terk arr jrbs arrrr](http://9gag.com/gag/amo0rLV)
+ - 😝 [Diversity is our strength](http://9gag.com/gag/aRBPPZQ)
+ - 👉 [Notice what&#39;s missing](http://9gag.com/gag/ae906Bb)<!-- MEMES:END -->
 
 ---
 

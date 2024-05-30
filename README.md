@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Europol says police in Germany, the UK, the US, and others took down a botnet that spread ransomware via infected emails, arrested four, and seized 2K+ domains &lpar;Mike Corder/Associated Press&rpar;](http://www.techmeme.com/240530/p9#a240530p9)
  - [How AI Is Impacting the 2024 Elections](https://www.wired.com/story/generative-ai-global-elections/)
  - [AI Election Project Methodology and Submission Information](https://www.wired.com/story/ai-election-project-methodology-and-submission-information/)
  - [How the Integrity Institute, a nonprofit founded by two ex-Facebook staff to help tech companies create more welcoming spaces, lost control of its own culture &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/240530/p8#a240530p8)
- - [The 8 Best Chef&#39;s Knives for 2024, Tested and Reviewed     - CNET](https://www.cnet.com/news/best-chefs-knife/#ftag=CAD590a51e)
- - [Best Adjustable Dumbbells for 2024     - CNET](https://www.cnet.com/health/fitness/best-adjustable-dumbbells/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 8 Best Chef&#39;s Knives for 2024, Tested and Reviewed     - CNET](https://www.cnet.com/news/best-chefs-knife/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

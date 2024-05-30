@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [All the news from PlayStation’s summer State of Play](https://www.theverge.com/24168001/playstation-state-of-play-may-2024-silent-hill)
+ - [Apple’s Pachinko returns for season 2 in August](https://www.theverge.com/2024/5/30/24167812/pachinko-season-2-apple-tv-plus-release-date)
+ - [Perplexity will research and write reports](https://www.theverge.com/2024/5/30/24167986/perplexity-ai-research-pages-school-report)
  - [Spotify is refunding Car Thing owners before bricking their devices](https://www.theverge.com/2024/5/30/24168081/spotify-car-thing-end-of-life-customer-refund)
- - [Google will roll out Chrome’s new extension spec next week](https://www.theverge.com/2024/5/30/24168057/google-chrome-extension-change-manifest-v3-ad-blockers)
- - [Dell reports Q1 revenue up 6% YoY to $22.24B, vs. 21.64B est., Client revenue flat YoY at $11.97B, and Infrastructure revenue up 22% YoY to $9.23B &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/240530/p41#a240530p41)
- - [Sources and docs: Twitch terminates its Safety Advisory Council, which consisted of experts, streamers and moderators who consulted on trust and safety issues &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/240530/p40#a240530p40)
- - [Sources: Apple plans to overhaul Siri with more advanced AI, a move that will allow Siri to take command of all the features within apps for the first time &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240530/p39#a240530p39)<!-- TECH:END -->
+ - [Google will roll out Chrome’s new extension spec next week](https://www.theverge.com/2024/5/30/24168057/google-chrome-extension-change-manifest-v3-ad-blockers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

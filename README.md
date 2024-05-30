@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Beacon has been lit and europe will answer](http://9gag.com/gag/awyKVGr)
+ - 😝 [Move to AUSTRIA they say...](http://9gag.com/gag/aXPp9QD)
+ - 😝 [Wow you are incredibly bad at this, how did you get through the casting?](http://9gag.com/gag/a6ZyVNe)
+ - 💣 [Save Your Beloved ones from such Evil Animals](http://9gag.com/gag/azxEj4p)
  - 😝 [The pain](http://9gag.com/gag/aW4WqL4)
- - 💣 [Them eyes](http://9gag.com/gag/a9yLr0m)
- - 😝 [Its fun playing with AI. Still.](http://9gag.com/gag/a4PdbAQ)
- - 👉 [That made me smile \u263a](http://9gag.com/gag/aMVrAK6)<!-- MEMES:END -->
+ - 👉 [I want to know](http://9gag.com/gag/aoy09D0)<!-- MEMES:END -->
 
 ---
 

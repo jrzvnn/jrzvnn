@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The new California](http://9gag.com/gag/aMVrw5X)
+ - 😝 [Long story short...](http://9gag.com/gag/aKGPPpg)
  - 😝 [My fellow 9gaggers](http://9gag.com/gag/aAyrro9)
- - 💣 [Burger](http://9gag.com/gag/aZZxpNQ)
- - 😝 [Notice what&#39;s missing](http://9gag.com/gag/ae906Bb)
- - 👉 [Diversity is our strength](http://9gag.com/gag/aRBPPZQ)<!-- MEMES:END -->
+ - 💣 [I want to know](http://9gag.com/gag/aoy09D0)
+ - 😝 [Diversity is our strength](http://9gag.com/gag/aRBPPZQ)
+ - 👉 [Took her a while](http://9gag.com/gag/azxEVAN)<!-- MEMES:END -->
 
 ---
 

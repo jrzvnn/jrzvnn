@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SEC filing: Salespeople paid $419M, including $374M in cash, to buy commission management service Spiff in a deal announced in December 2023; Spiff raised $110M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240530/p15#a240530p15)
- - [2024 Is the Year of the Generative AI Election](https://www.wired.com/story/2024-is-the-year-of-generative-ai-elections/)
- - [How to convert YouTube to MP3 on Mac with iTubeGo](https://appleinsider.com/articles/24/05/30/how-to-convert-youtube-to-mp3-on-mac-with-itubego?utm_medium=rss)
- - [Instagram expands its Limits tool for teens to let them restrict unwanted interactions and limit comments, messages, story replies, and more to Close Friends &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240530/p14#a240530p14)
- - [iOS 18 Project Greymatter will use AI to summarize notifications, articles and much more](https://appleinsider.com/articles/24/05/30/ios-18-project-greymatter-will-use-ai-to-summarize-notifications-articles-and-much-more?utm_medium=rss)<!-- TECH:END -->
+ - [If you had an iPhone 7 with audio problems, your settlement deadline is soon](https://appleinsider.com/articles/24/05/30/if-you-had-an-iphone-7-with-audio-problems-your-settlement-deadline-is-soon?utm_medium=rss)
+ - [Sightful Spacetop G1: Specs, Features, Release Date, Price](https://www.wired.com/story/sightful-spacetop-g1-augmented-reality-laptop/)
+ - [Motorola Edge 50 Pro Review: A Solid Midrange Android Phone](https://www.wired.com/review/motorola-edge-50-pro/)
+ - [SEC filing: Salesforce paid $419M, including $374M in cash, to buy commission management service Spiff in a deal announced in December 2023; Spiff raised $110M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240530/p15#a240530p15)
+ - [2024 Is the Year of the Generative AI Election](https://www.wired.com/story/2024-is-the-year-of-generative-ai-elections/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -174,10 +174,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Long story short...](http://9gag.com/gag/aKGPPpg)
+ - 😝 [But her Instagram Bio says she&#39;s a strong independent woman.](http://9gag.com/gag/aBy3YxD)
+ - 💣 [Diversity is our strength](http://9gag.com/gag/aRBPPZQ)
  - 😝 [My fellow 9gaggers](http://9gag.com/gag/aAyrro9)
- - 💣 [I want to know](http://9gag.com/gag/aoy09D0)
- - 😝 [Diversity is our strength](http://9gag.com/gag/aRBPPZQ)
- - 👉 [Took her a while](http://9gag.com/gag/azxEVAN)<!-- MEMES:END -->
+ - 👉 [Notice what&#39;s missing](http://9gag.com/gag/ae906Bb)<!-- MEMES:END -->
 
 ---
 

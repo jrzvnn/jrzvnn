@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Verge’s 2024 graduation gift guide](https://www.theverge.com/24126218/graduation-grad-gift-ideas-2024-college-high-school-dorm-tech-gadgets)
+ - [Microsoft, Apple, Nvidia, Alphabet, Amazon, and Meta account for 30% of the S&amp;P 500 Index, up from ~26% at the start of the year, after a surge driven by Nvidia &lpar;Bloomberg&rpar;](http://www.techmeme.com/240530/p35#a240530p35)
  - [Sources: the US is probing whether chip-equipment maker Ronda Korea has been selling parts using tech made by US&#39; Lam Research to sanctioned Chinese companies &lpar;The Information&rpar;](http://www.techmeme.com/240530/p34#a240530p34)
  - [Save up to $520 on Sonos speakers, soundbars &amp; subwoofers to use with Apple Music](https://appleinsider.com/articles/24/05/30/save-up-to-520-on-sonos-speakers-soundbars-subwoofers-to-use-with-apple-music?utm_medium=rss)
- - [Best PlayStation VR 2 Deals: Sony Sale Drops VR Unit to Lowest Price Yet     - CNET](https://www.cnet.com/deals/playstation-vr-2-deals/#ftag=CAD590a51e)
- - [OpenAI disrupted five influence operations in the past three months that accessed its products to covertly manipulate public opinion or shape political outcomes &lpar;Gerrit De Vynck/Washington Post&rpar;](http://www.techmeme.com/240530/p33#a240530p33)
- - [You Can Pay Off Your Mortgage in 5 Years. These Homeowners Are Doing It     - CNET](https://www.cnet.com/personal-finance/mortgages/you-can-pay-off-your-mortgage-in-5-years-these-homeowners-are-doing-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best PlayStation VR 2 Deals: Sony Sale Drops VR Unit to Lowest Price Yet     - CNET](https://www.cnet.com/deals/playstation-vr-2-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

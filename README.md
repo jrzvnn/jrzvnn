@@ -174,10 +174,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The new California](http://9gag.com/gag/aMVrw5X)
- - 😝 [Move to AUSTRIA they say...](http://9gag.com/gag/aXPp9QD)
- - 💣 [They terk arr jrbs arrrr](http://9gag.com/gag/amo0rLV)
- - 😝 [Diversity is our strength](http://9gag.com/gag/aRBPPZQ)
- - 👉 [Notice what&#39;s missing](http://9gag.com/gag/ae906Bb)<!-- MEMES:END -->
+ - 😝 [My fellow 9gaggers](http://9gag.com/gag/aAyrro9)
+ - 💣 [Burger](http://9gag.com/gag/aZZxpNQ)
+ - 😝 [Notice what&#39;s missing](http://9gag.com/gag/ae906Bb)
+ - 👉 [Diversity is our strength](http://9gag.com/gag/aRBPPZQ)<!-- MEMES:END -->
 
 ---
 

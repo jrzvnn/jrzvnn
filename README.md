@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let\u2019s go again, hopefully it wont get deleted.](http://9gag.com/gag/adBYXKZ)
- - 😝 [They terk arr jrbs arrrr](http://9gag.com/gag/amo0rLV)
- - 💣 [Me watching gigi posts](http://9gag.com/gag/a9yLYBL)
- - 😝 [An eagle raised by chickens will thinks like a chicken.](http://9gag.com/gag/ary4NZ6)
- - 👉 [You know the lyrics guys](http://9gag.com/gag/ae906AO)<!-- MEMES:END -->
+ - 😝 [My fellow 9gaggers](http://9gag.com/gag/aAyrro9)
+ - 😝 [Move to AUSTRIA they say...](http://9gag.com/gag/aXPp9QD)
+ - 💣 [Took her a while](http://9gag.com/gag/azxEVAN)
+ - 😝 [Average backpaker things in SEA](http://9gag.com/gag/awyKKOy)
+ - 👉 [Lady\u2019s is this true ?](http://9gag.com/gag/agmvG31)<!-- MEMES:END -->
 
 ---
 

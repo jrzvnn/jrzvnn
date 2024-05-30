@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google rolls out new features to Android, including editing sent messages in Google Messages, improvements to instant hotspot, a Google Home widget, and more &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240530/p31#a240530p31)
  - [The best Fitbits for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)
  - [Auction house Christie&#39;s alerts the FBI and UK police about the hack that hobbled its website earlier this month, and begins telling clients of compromised data &lpar;Zachary Small/New York Times&rpar;](http://www.techmeme.com/240530/p30#a240530p30)
- - [Canadian Open 2024: How to Watch and Stream All the PGA Tour Golf From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/canadian-open-2024-how-to-watch-and-stream-all-the-pga-tour-golf-from-anywhere/#ftag=CAD590a51e)
  - [Elon Musk agrees to testify in the SEC&#39;s probe of his 2022 Twitter acquisition, after dropping his plan to appeal a court order that he comply with a subpoena &lpar;Jef Feeley/Bloomberg&rpar;](http://www.techmeme.com/240530/p29#a240530p29)
- - [Best Apple Watch Ultra 2 and Ultra Deals: Save With Discounts, Trade-Ins and More     - CNET](https://www.cnet.com/deals/best-apple-watch-ultra-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Filing: Terraform Labs and founder Do Kwon reach a tentative settlement with the US SEC in its case alleging they misled investors before TerraUSD&#39;s collapse &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/240530/p28#a240530p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

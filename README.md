@@ -174,10 +174,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Ok that&#39;s awesome](http://9gag.com/gag/aGywDo0)
- - 😝 [But her Instagram Bio says she&#39;s a strong independent woman.](http://9gag.com/gag/aBy3YxD)
- - 💣 [Burger](http://9gag.com/gag/aZZxpNQ)
- - 😝 [All hail Denmark](http://9gag.com/gag/aLnPBOA)
- - 👉 [Took her a while](http://9gag.com/gag/azxEVAN)<!-- MEMES:END -->
+ - 😝 [Lady\u2019s is this true ?](http://9gag.com/gag/agmvG31)
+ - 💣 [Took her a while](http://9gag.com/gag/azxEVAN)
+ - 😝 [Women: \u2615\ufe0f](http://9gag.com/gag/azxEjvx)
+ - 👉 [But her Instagram Bio says she&#39;s a strong independent woman.](http://9gag.com/gag/aBy3YxD)<!-- MEMES:END -->
 
 ---
 

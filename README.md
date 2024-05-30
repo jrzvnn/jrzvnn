@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What&#39;s European in Arabic?](http://9gag.com/gag/aD23joN)
- - 😝 [Them eyes](http://9gag.com/gag/a9yLr0m)
- - 💣 [Some people don&#39;t understand](http://9gag.com/gag/a343qZr)
- - 😝 [Beacon has been lit and europe will answer](http://9gag.com/gag/awyKVGr)
- - 👉 [Its fun playing with AI. Still.](http://9gag.com/gag/a4PdbAQ)<!-- MEMES:END -->
+ - 😝 [I&#39;m afraid to ask, but why did they count the goal at this video?](http://9gag.com/gag/aE01Bd9)
+ - 😝 [Women: \u2615\ufe0f](http://9gag.com/gag/azxEjvx)
+ - 💣 [But her Instagram Bio says she&#39;s a strong independent woman.](http://9gag.com/gag/aBy3YxD)
+ - 😝 [Tom and Jerry full episodes - link in comments](http://9gag.com/gag/aRBPe3G)
+ - 👉 [Lady\u2019s is this true ?](http://9gag.com/gag/agmvG31)<!-- MEMES:END -->
 
 ---
 

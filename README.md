@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Brave Spanish Women Speaks Out About The Decivilization Of Spain And The Imported Mass Crimes.](http://9gag.com/gag/aE01YVn)
- - 😝 [That damned smile.](http://9gag.com/gag/ae90YLv)
- - 💣 [What&#39;s European in Arabic?](http://9gag.com/gag/aD23joN)
- - 😝 [Beacon has been lit and europe will answer](http://9gag.com/gag/awyKVGr)
- - 👉 [Its fun playing with AI. Still.](http://9gag.com/gag/a4PdbAQ)<!-- MEMES:END -->
+ - 😝 [The fastest deescalation in human history](http://9gag.com/gag/aMVrGxP)
+ - 😝 [But her Instagram Bio says she&#39;s a strong independent woman.](http://9gag.com/gag/aBy3YxD)
+ - 💣 [Ok that&#39;s awesome](http://9gag.com/gag/aGywDo0)
+ - 😝 [Women: \u2615\ufe0f](http://9gag.com/gag/azxEjvx)
+ - 👉 [I&#39;m afraid to ask, but why did they count the goal at this video?](http://9gag.com/gag/aE01Bd9)<!-- MEMES:END -->
 
 ---
 

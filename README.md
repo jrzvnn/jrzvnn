@@ -168,7 +168,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [The 22 Best Movies on Apple TV+ Right Now &lpar;June 2024&rpar;](https://www.wired.com/story/best-apple-tv-plus-movies/)
  - [Threads’ TweetDeck-style redesign is rolling out to everyone](https://www.theverge.com/2024/5/30/24168059/threads-tweetdeck-style-redesign-rollout)
  - [Ecuador Is Literally Powerless in the Face of Drought](https://www.wired.com/story/ecuador-energy-crisis-water-shortage-hydro/)
- - [The absolute best apps for creating digital art on your iPad](https://appleinsider.com/inside/ipad/best/the-absolute-best-apps-for-creating-digital-art-on-your-ipad?utm_medium=rss)<!-- TECH:END -->
+ - [CordZero Stick Vacuums Put LG Technology to Work for You     - CNET](https://www.cnet.com/paid-content/news/cordzero-stick-vacuums-put-lg-technology-to-work-for-you/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

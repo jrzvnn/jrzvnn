@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [All the news from PlayStation’s summer State of Play](https://www.theverge.com/24168001/playstation-state-of-play-may-2024-silent-hill)
- - [Apple’s Pachinko returns for season 2 in August](https://www.theverge.com/2024/5/30/24167812/pachinko-season-2-apple-tv-plus-release-date)
- - [Perplexity will research and write reports](https://www.theverge.com/2024/5/30/24167986/perplexity-ai-research-pages-school-report)
- - [Spotify is refunding Car Thing owners before bricking their devices](https://www.theverge.com/2024/5/30/24168081/spotify-car-thing-end-of-life-customer-refund)
- - [Google will roll out Chrome’s new extension spec next week](https://www.theverge.com/2024/5/30/24168057/google-chrome-extension-change-manifest-v3-ad-blockers)<!-- TECH:END -->
+ - [Jury finds Trump guilty on all counts in hush money trial](https://www.theverge.com/2024/5/30/24155829/donald-trump-verdict-new-york-hush-money-trial-stormy-daniels)
+ - [iOS 18 &lpar;and AI&rpar; will give Siri much more control over your apps](https://www.theverge.com/2024/5/30/24168175/ios-18-ai-siri-apple-apps)
+ - [Windows 11 is finally getting mouse settings that let you avoid the Control Panel](https://www.theverge.com/2024/5/30/24168191/microsoft-windows-11-mouse-controls-control-panel)
+ - [Sources: X and news network NewsNation plan separate live town halls with Trump and Robert F. Kennedy Jr.; the Biden campaign has not agreed to take part &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/240530/p42#a240530p42)
+ - [All the news from PlayStation’s summer State of Play](https://www.theverge.com/24168001/playstation-state-of-play-may-2024-silent-hill)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

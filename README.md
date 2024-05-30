@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Experience Ragnarök on PC this fall](https://www.theverge.com/24168045/god-of-war-pc-release-date-ps5-state-of-play)
+ - [Foreign Influence Campaigns Don&#39;t Know How to Use AI Yet Either](https://www.wired.com/story/openai-threat-report-china-russia-ai-propaganda/)
+ - [Google finally brings Nest doorbell alerts to the Pixel Tablet](https://www.theverge.com/2024/5/30/24168150/google-nest-doorbell-alerts-pixel-tablet)
  - [Scuf’s Nomad controller for iPhone has full-size drift-free sticks at a competitive price](https://www.theverge.com/2024/5/30/24168172/scuf-nomad-iphone-mobile-controller-hall-effect-specs-price)
- - [Windows adds suggested replies to Phone Link for Android](https://www.theverge.com/2024/5/30/24168171/windows-phone-link-android-suggested-replies)
- - [Sweden-based Doconomy, which helps bank customers measure the carbon footprint of everyday spending, raised a &amp;euro;34M Series B co-led by UBS and CommerzVentures &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240530/p43#a240530p43)
- - [Magic Leap is Google’s new mystery partner for XR headsets](https://www.theverge.com/2024/5/30/24167283/google-magic-leap-deal-optics-manufacturing)
- - [Jury finds Trump guilty on all counts in hush money trial](https://www.theverge.com/2024/5/30/24155829/donald-trump-verdict-new-york-hush-money-trial-stormy-daniels)<!-- TECH:END -->
+ - [Windows adds suggested replies to Phone Link for Android](https://www.theverge.com/2024/5/30/24168171/windows-phone-link-android-suggested-replies)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

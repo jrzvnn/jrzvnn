@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Instagram expands its Limits tool for teens to let them restrict unwanted interactions and limit comments, messages, story replies, and more to Close Friends &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240530/p14#a240530p14)
  - [iOS 18 Project Greymatter will use AI to summarize notifications, articles and much more](https://appleinsider.com/articles/24/05/30/ios-18-project-greymatter-will-use-ai-to-summarize-notifications-articles-and-much-more?utm_medium=rss)
  - [After a Cruise car hit and dragged a pedestrian, executives say they&#39;re in no rush to get back on the road, as Cruise slows its breakneck development to a crawl &lpar;Yiwen Lu/New York Times&rpar;](http://www.techmeme.com/240530/p13#a240530p13)
  - [An image showing tents in a camp spelling out &quot;All Eyes on Rafah&quot; hits 44M+ shares on Instagram in 48 hours, likely one of the first viral AI activist images &lpar;Kat Tenbarge/NBC News&rpar;](http://www.techmeme.com/240530/p12#a240530p12)
- - [The Unusual Espionage Act Case Against a Drone Photographer](https://www.wired.com/story/fengyun-shi-espionage-act-drone-photography/)
- - [First alternative to Apple Wallet is ready to launch in EU](https://appleinsider.com/articles/24/05/30/first-alternative-to-apple-wallet-is-ready-to-launch-in-eu?utm_medium=rss)<!-- TECH:END -->
+ - [The Unusual Espionage Act Case Against a Drone Photographer](https://www.wired.com/story/fengyun-shi-espionage-act-drone-photography/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women logic](http://9gag.com/gag/aD23oE7)
- - 😝 [The fastest deescalation in human history](http://9gag.com/gag/aMVrGxP)
- - 💣 [Ok that&#39;s awesome](http://9gag.com/gag/aGywDo0)
- - 😝 [But her Instagram Bio says she&#39;s a strong independent woman.](http://9gag.com/gag/aBy3YxD)
- - 👉 [Burger](http://9gag.com/gag/aZZxpNQ)<!-- MEMES:END -->
+ - 😝 [What&#39;s European in Arabic?](http://9gag.com/gag/aD23joN)
+ - 😝 [Them eyes](http://9gag.com/gag/a9yLr0m)
+ - 💣 [Some people don&#39;t understand](http://9gag.com/gag/a343qZr)
+ - 😝 [Beacon has been lit and europe will answer](http://9gag.com/gag/awyKVGr)
+ - 👉 [Its fun playing with AI. Still.](http://9gag.com/gag/a4PdbAQ)<!-- MEMES:END -->
 
 ---
 

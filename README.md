@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Move to AUSTRIA they say...](http://9gag.com/gag/aXPp9QD)
- - 😝 [Wow you are incredibly bad at this, how did you get through the casting?](http://9gag.com/gag/a6ZyVNe)
- - 💣 [Save Your Beloved ones from such Evil Animals](http://9gag.com/gag/azxEj4p)
- - 😝 [The pain](http://9gag.com/gag/aW4WqL4)
- - 👉 [I want to know](http://9gag.com/gag/aoy09D0)<!-- MEMES:END -->
+ - 😝 [Here&#39;s your potato](http://9gag.com/gag/ary45zB)
+ - 😝 [Some people don&#39;t understand](http://9gag.com/gag/a343qZr)
+ - 💣 [Its fun playing with AI. Still.](http://9gag.com/gag/a4PdbAQ)
+ - 😝 [That made me smile \u263a](http://9gag.com/gag/aMVrAK6)
+ - 👉 [Best kind of prank](http://9gag.com/gag/an7KbKo)<!-- MEMES:END -->
 
 ---
 

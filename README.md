@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fidelity raised the value of its X position by 4.4% to $5.51M in April; since Elon Musk&#39;s October 2022 Twitter takeover, the position has been marked down ~72% &lpar;Dana Wollman/Bloomberg&rpar;](http://www.techmeme.com/240530/p20#a240530p20)
+ - [SnuzPod4 Bassinet Review: A Great-Looking and Simple Bassinet](https://www.wired.com/review/snuzpod4-bassinet/)
+ - [How to watch Sony’s PlayStation State of Play](https://www.theverge.com/2024/5/30/24167237/playstation-state-of-play-may-2024-how-to-watch)
  - [Today I learned there is a messaging service in Google Maps, and now it’s going away](https://www.theverge.com/2024/5/30/24167789/til-google-maps-business-messaging-service-shut-down)
- - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)
- - [Google and Magic Leap partner to work on building immersive experiences that blend the physical and digital worlds, but offer few details &lpar;Katie Paul/Reuters&rpar;](http://www.techmeme.com/240530/p19#a240530p19)
- - [Hands-on with Fire TV&#39;s Alexa voice search, rolling out now: powered by a custom LLM to take conversational requests, but the results are largely disappointing &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/240530/p18#a240530p18)
- - [NASA’s DART mission punched the Didymos asteroid in 2022 — now it’s time to go back](https://www.theverge.com/2024/5/30/24167787/esa-hera-mission-didymos-asteroid-nasa-dart-testing)<!-- TECH:END -->
+ - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

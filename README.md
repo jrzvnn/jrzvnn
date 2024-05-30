@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SEC filing: Salespeople paid $419M, including $374M in cash, to buy commission management service Spiff in a deal announced in December 2023; Spiff raised $110M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240530/p15#a240530p15)
  - [2024 Is the Year of the Generative AI Election](https://www.wired.com/story/2024-is-the-year-of-generative-ai-elections/)
  - [How to convert YouTube to MP3 on Mac with iTubeGo](https://appleinsider.com/articles/24/05/30/how-to-convert-youtube-to-mp3-on-mac-with-itubego?utm_medium=rss)
  - [Instagram expands its Limits tool for teens to let them restrict unwanted interactions and limit comments, messages, story replies, and more to Close Friends &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240530/p14#a240530p14)
- - [iOS 18 Project Greymatter will use AI to summarize notifications, articles and much more](https://appleinsider.com/articles/24/05/30/ios-18-project-greymatter-will-use-ai-to-summarize-notifications-articles-and-much-more?utm_medium=rss)
- - [After a Cruise car hit and dragged a pedestrian, executives say they&#39;re in no rush to get back on the road, as Cruise slows its breakneck development to a crawl &lpar;Yiwen Lu/New York Times&rpar;](http://www.techmeme.com/240530/p13#a240530p13)<!-- TECH:END -->
+ - [iOS 18 Project Greymatter will use AI to summarize notifications, articles and much more](https://appleinsider.com/articles/24/05/30/ios-18-project-greymatter-will-use-ai-to-summarize-notifications-articles-and-much-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

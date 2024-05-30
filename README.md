@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m afraid to ask, but why did they count the goal at this video?](http://9gag.com/gag/aE01Bd9)
- - 😝 [They found out](http://9gag.com/gag/a2vY4E1)
- - 💣 [Women: \u2615\ufe0f](http://9gag.com/gag/azxEjvx)
- - 😝 [Notice what&#39;s missing](http://9gag.com/gag/ae906Bb)
- - 👉 [Wow you are incredibly bad at this, how did you get through the casting?](http://9gag.com/gag/a6ZyVNe)<!-- MEMES:END -->
+ - 😝 [Tiny fistbumps](http://9gag.com/gag/aYQWezw)
+ - 😝 [The pain](http://9gag.com/gag/aW4WqL4)
+ - 💣 [They found out](http://9gag.com/gag/a2vY4E1)
+ - 😝 [Wow you are incredibly bad at this, how did you get through the casting?](http://9gag.com/gag/a6ZyVNe)
+ - 👉 [But her Instagram Bio says she&#39;s a strong independent woman.](http://9gag.com/gag/aBy3YxD)<!-- MEMES:END -->
 
 ---
 

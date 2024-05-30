@@ -176,8 +176,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Women logic](http://9gag.com/gag/aD23oE7)
  - 😝 [The fastest deescalation in human history](http://9gag.com/gag/aMVrGxP)
  - 💣 [Ok that&#39;s awesome](http://9gag.com/gag/aGywDo0)
- - 😝 [Happy birthday](http://9gag.com/gag/a343Md1)
- - 👉 [But her Instagram Bio says she&#39;s a strong independent woman.](http://9gag.com/gag/aBy3YxD)<!-- MEMES:END -->
+ - 😝 [But her Instagram Bio says she&#39;s a strong independent woman.](http://9gag.com/gag/aBy3YxD)
+ - 👉 [Burger](http://9gag.com/gag/aZZxpNQ)<!-- MEMES:END -->
 
 ---
 

@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women: \u2615\ufe0f](http://9gag.com/gag/azxEjvx)
- - 😝 [How are you holding up fellow 9gaggers](http://9gag.com/gag/a3433m3)
- - 💣 [Burger](http://9gag.com/gag/aZZxpNQ)
- - 😝 [I want to know](http://9gag.com/gag/aoy09D0)
- - 👉 [But her Instagram Bio says she&#39;s a strong independent woman.](http://9gag.com/gag/aBy3YxD)<!-- MEMES:END -->
+ - 😝 [Things you might not get away with. Nr. 16](http://9gag.com/gag/ae90b1v)
+ - 😝 [Took her a while](http://9gag.com/gag/azxEVAN)
+ - 💣 [But her Instagram Bio says she&#39;s a strong independent woman.](http://9gag.com/gag/aBy3YxD)
+ - 😝 [Ok that&#39;s awesome](http://9gag.com/gag/aGywDo0)
+ - 👉 [Burger](http://9gag.com/gag/aZZxpNQ)<!-- MEMES:END -->
 
 ---
 

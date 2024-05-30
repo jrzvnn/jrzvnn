@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Here&#39;s your potato](http://9gag.com/gag/ary45zB)
- - 😝 [Some people don&#39;t understand](http://9gag.com/gag/a343qZr)
- - 💣 [Its fun playing with AI. Still.](http://9gag.com/gag/a4PdbAQ)
- - 😝 [That made me smile \u263a](http://9gag.com/gag/aMVrAK6)
- - 👉 [Best kind of prank](http://9gag.com/gag/an7KbKo)<!-- MEMES:END -->
+ - 😝 [Notice what&#39;s missing](http://9gag.com/gag/ae906Bb)
+ - 😝 [Move to AUSTRIA they say...](http://9gag.com/gag/aXPp9QD)
+ - 💣 [I&#39;m afraid to ask, but why did they count the goal at this video?](http://9gag.com/gag/aE01Bd9)
+ - 😝 [Women: \u2615\ufe0f](http://9gag.com/gag/azxEjvx)
+ - 👉 [Wow you are incredibly bad at this, how did you get through the casting?](http://9gag.com/gag/a6ZyVNe)<!-- MEMES:END -->
 
 ---
 

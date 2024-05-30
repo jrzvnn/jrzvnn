@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix is making an animated Minecraft show](https://www.theverge.com/2024/5/30/24167317/netflix-minecraft-animated-series-microsoft-mojang)
- - [Apple gets another App Store antitrust win, this time in China](https://appleinsider.com/articles/24/05/30/apple-gets-another-app-store-antitrust-win-this-time-in-china?utm_medium=rss)
- - [Hands-on with Sightful&#39;s Spacetop G1, an AR laptop that pairs with XREAL glasses to offer a 100-inch virtual display, shipping in October 2024 for $1,900 &lpar;Julian Chokkattu/Wired&rpar;](http://www.techmeme.com/240530/p17#a240530p17)
- - [Logitech’s best gaming mouse is on sale for its best price to date](https://www.theverge.com/2024/5/30/24166379/logitech-g-pro-x-superlight-2-gaming-mouse-ifixit-pro-tech-toolkit-deal-sale)
- - [Refinance Rates Move Up: Today&#39;s Refinance Rates, May 30, 2024     - CNET](https://www.cnet.com/personal-finance/mortgages/refinance-rates-move-up-todays-refinance-rates-may-30-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [NASA’s DART mission punched the Didymos asteroid in 2022 — now it’s time to go back](https://www.theverge.com/2024/5/30/24167787/esa-hera-mission-didymos-asteroid-nasa-dart-testing)
+ - [All of Microsoft’s MacBook Air-beating benchmarks](https://www.theverge.com/2024/5/30/24167745/microsoft-macbook-air-benchmarks-surface-laptop-copilot-plus-pc)
+ - [13 Best Amazon Echo and Alexa Speakers &lpar;2024&rpar;: Earbuds, Soundbars, Displays](https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers/)
+ - [The Best Motorola Phones &lpar;2024&rpar;: Pros and Cons, Top Features](https://www.wired.com/story/best-motorola-phones/)
+ - [Netflix is making an animated Minecraft show](https://www.theverge.com/2024/5/30/24167317/netflix-minecraft-animated-series-microsoft-mojang)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

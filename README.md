@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Six AI/ML experts detail what they learned from building real-world applications on top of LLMs over the past year, including common pitfalls around prompting &lpar;O&#39;Reilly Media&rpar;](http://www.techmeme.com/240530/p7#a240530p7)
+ - [Amazon partners with Grubhub to let US customers order food delivery inside Amazon&#39;s app through Grubhub and makes Grubhub+ memberships a permanent Prime perk &lpar;Hope King/Axios&rpar;](http://www.techmeme.com/240530/p6#a240530p6)
  - [California Governor Gavin Newsom warns against perils of over-regulating AI, sending a signal to the state&#39;s lawmakers who are advancing dozens of AI bills &lpar;Jeremy B. White/Politico&rpar;](http://www.techmeme.com/240530/p5#a240530p5)
  - [Amazon Prime now comes with free Grubhub food delivery](https://www.theverge.com/2024/5/30/24167678/amazon-prime-grubhub-plus-free-food-delivery)
- - [Policymakers and experts say Hesai and other firms listed as Chinese military entities are rebranding and creating US-domiciled businesses to evade sanctions &lpar;Heather Somerville/Wall Street Journal&rpar;](http://www.techmeme.com/240530/p4#a240530p4)
- - [Source: Microsoft pushed OpenAI to prioritize commercial products after the attempted coup against Sam Altman in November 2023, amplifying tensions at OpenAI &lpar;Financial Times&rpar;](http://www.techmeme.com/240530/p3#a240530p3)
- - [Sources: Sam Altman and Satya Nadella recently met to discuss Microsoft&#39;s concerns about how OpenAI&#39;s deal with Apple might affect Microsoft&#39;s product ambitions &lpar;The Information&rpar;](http://www.techmeme.com/240530/p2#a240530p2)<!-- TECH:END -->
+ - [Policymakers and experts say Hesai and other firms listed as Chinese military entities are rebranding and creating US-domiciled businesses to evade sanctions &lpar;Heather Somerville/Wall Street Journal&rpar;](http://www.techmeme.com/240530/p4#a240530p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple plans to overhaul Siri with more advanced AI, a move that will allow Siri to take command of all the features within apps for the first time &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240530/p39#a240530p39)
  - [Sources: US has delayed license requests from chipmakers for AI accelerator shipments to the Middle East and is worried about the tech getting diverted to China &lpar;Bloomberg&rpar;](http://www.techmeme.com/240530/p38#a240530p38)
  - [Today&#39;s NYT Connections Hints and Answer -- Help for May 30, #354     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hints-answer-help-for-may-30-354/#ftag=CAD590a51e)
  - [Today&#39;s Wordle Hints and Answer: Help for May 30, #1076     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-and-answer-help-for-may-30-1076/#ftag=CAD590a51e)
- - [Eat Up, Amazon Prime Customers: You Get Grubhub Plus for Free     - CNET](https://www.cnet.com/tech/services-and-software/amazon-prime-and-grubhub-plus-extend-perk-how-to-get-another-free-year/#ftag=CAD590a51e)
- - [Alexa’s Fire TV search has a new AI, but it needs some work](https://www.theverge.com/24167294/amazon-ai-powered-search-fire-tv-alexa-hands-on)<!-- TECH:END -->
+ - [Eat Up, Amazon Prime Customers: You Get Grubhub Plus for Free     - CNET](https://www.cnet.com/tech/services-and-software/amazon-prime-and-grubhub-plus-extend-perk-how-to-get-another-free-year/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

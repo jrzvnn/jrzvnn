@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify has initiated a refund process for its discontinued Car Thing dashboard device, as consumers file a lawsuit claiming Spotify misled them &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240530/p44#a240530p44)
- - [The incredibly charming Astro Bot launches on the PS5 in September](https://www.theverge.com/24167370/astro-bot-ps5-sequel-trailer-date)
- - [Monster Hunter Wilds looks very wild in new gameplay trailer](https://www.theverge.com/24167998/monster-hunter-wilds-date-trailer)
- - [Experience Ragnarök on PC this fall](https://www.theverge.com/24168045/god-of-war-pc-release-date-ps5-state-of-play)
- - [Foreign Influence Campaigns Don&#39;t Know How to Use AI Yet Either](https://www.wired.com/story/openai-threat-report-china-russia-ai-propaganda/)<!-- TECH:END -->
+ - [Trump’s Online MAGA Army Calls Guilty Verdict a Declaration of War](https://www.wired.com/story/trump-guilty-verdict-online-maga-fanbase-war/)
+ - [Jeep’s Wagoneer S Trailhawk concept teases a fully electric off-roader](https://www.theverge.com/2024/5/30/24168099/jeep-wagoneer-s-trailhawk-concept-ev-off-road)
+ - [The first electric Jeep for the US is finally here](https://www.theverge.com/2024/5/30/24166498/jeep-wagoneer-s-ev-price-photos-specs-range)
+ - [Twitch is disbanding its Safety Advisory Council and will replace it with streamers](https://www.theverge.com/2024/5/30/24168200/twitch-safety-advisory-council-contract-termination-twitch-ambassadors)
+ - [Spotify has initiated a refund process for its discontinued Car Thing dashboard device, as consumers file a lawsuit claiming Spotify misled them &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240530/p44#a240530p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

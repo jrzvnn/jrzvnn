@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spotify has initiated a refund process for its discontinued Car Thing dashboard device, as consumers file a lawsuit claiming Spotify misled them &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240530/p44#a240530p44)
+ - [The incredibly charming Astro Bot launches on the PS5 in September](https://www.theverge.com/24167370/astro-bot-ps5-sequel-trailer-date)
  - [Monster Hunter Wilds looks very wild in new gameplay trailer](https://www.theverge.com/24167998/monster-hunter-wilds-date-trailer)
  - [Experience Ragnarök on PC this fall](https://www.theverge.com/24168045/god-of-war-pc-release-date-ps5-state-of-play)
- - [Foreign Influence Campaigns Don&#39;t Know How to Use AI Yet Either](https://www.wired.com/story/openai-threat-report-china-russia-ai-propaganda/)
- - [Google finally brings Nest doorbell alerts to the Pixel Tablet](https://www.theverge.com/2024/5/30/24168150/google-nest-doorbell-alerts-pixel-tablet)
- - [Scuf’s Nomad controller for iPhone has full-size drift-free sticks at a competitive price](https://www.theverge.com/2024/5/30/24168172/scuf-nomad-iphone-mobile-controller-hall-effect-specs-price)<!-- TECH:END -->
+ - [Foreign Influence Campaigns Don&#39;t Know How to Use AI Yet Either](https://www.wired.com/story/openai-threat-report-china-russia-ai-propaganda/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

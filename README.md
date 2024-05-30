@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I&#39;m afraid to ask, but why did they count the goal at this video?](http://9gag.com/gag/aE01Bd9)
  - 😝 [Notice what&#39;s missing](http://9gag.com/gag/ae906Bb)
- - 😝 [Move to AUSTRIA they say...](http://9gag.com/gag/aXPp9QD)
- - 💣 [I&#39;m afraid to ask, but why did they count the goal at this video?](http://9gag.com/gag/aE01Bd9)
- - 😝 [Women: \u2615\ufe0f](http://9gag.com/gag/azxEjvx)
- - 👉 [Wow you are incredibly bad at this, how did you get through the casting?](http://9gag.com/gag/a6ZyVNe)<!-- MEMES:END -->
+ - 💣 [Women: \u2615\ufe0f](http://9gag.com/gag/azxEjvx)
+ - 😝 [They found out](http://9gag.com/gag/a2vY4E1)
+ - 👉 [Lady\u2019s is this true ?](http://9gag.com/gag/agmvG31)<!-- MEMES:END -->
 
 ---
 

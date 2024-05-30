@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deals: Apple&#39;s new 13-inch iPad Pro M4 gets a $120 price cut](https://appleinsider.com/articles/24/05/30/deals-apples-new-13-inch-ipad-pro-m4-gets-a-120-price-cut?utm_medium=rss)
- - [The FAA approves Amazon&#39;s Prime Air program to fly drones beyond a pilot&#39;s line of sight, letting Amazon expand its delivery area in College Station, Texas &lpar;Lynn Doan/Bloomberg&rpar;](http://www.techmeme.com/240530/p16#a240530p16)
- - [IWC Pilot’s Chronograph Ceralume 2024: Price, Specs, Availability](https://www.wired.com/story/how-iwc-made-the-most-glow-in-the-dark-watch-ever-for-lewis-hamilton/)
- - [Klipsch Flexus Core 200 Soundbar Review: Serious Sound for Less](https://www.wired.com/review/klipsch-flexus-core-200/)
- - [Sony leak allows Destiny 2 players to access The Final Shape expansion early](https://www.theverge.com/2024/5/30/24167768/sony-destiny-2-the-final-shape-leak-expansion-dlc-early-access)<!-- TECH:END -->
+ - [Netflix is making an animated Minecraft show](https://www.theverge.com/2024/5/30/24167317/netflix-minecraft-animated-series-microsoft-mojang)
+ - [Apple gets another App Store antitrust win, this time in China](https://appleinsider.com/articles/24/05/30/apple-gets-another-app-store-antitrust-win-this-time-in-china?utm_medium=rss)
+ - [Hands-on with Sightful&#39;s Spacetop G1, an AR laptop that pairs with XREAL glasses to offer a 100-inch virtual display, shipping in October 2024 for $1,900 &lpar;Julian Chokkattu/Wired&rpar;](http://www.techmeme.com/240530/p17#a240530p17)
+ - [Logitech’s best gaming mouse is on sale for its best price to date](https://www.theverge.com/2024/5/30/24166379/logitech-g-pro-x-superlight-2-gaming-mouse-ifixit-pro-tech-toolkit-deal-sale)
+ - [Refinance Rates Move Up: Today&#39;s Refinance Rates, May 30, 2024     - CNET](https://www.cnet.com/personal-finance/mortgages/refinance-rates-move-up-todays-refinance-rates-may-30-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

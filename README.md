@@ -165,10 +165,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Natural Cycles, an FDA-cleared birth control app with ~3M users, raised a $55M Series C led by Lauxera Capital Partners, bringing its total funding to $95M+ &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/240529/p43#a240529p43)
+ - [Best Travel Headphones for 2024     - CNET](https://www.cnet.com/tech/mobile/best-travel-headphones/#ftag=CAD590a51e)
  - [Meta removed hundreds of Facebook accounts linked to influence campaigns from China, Israel, Iran, and more, some of which used AI to generate disinformation &lpar;Aisha Counts/Bloomberg&rpar;](http://www.techmeme.com/240529/p42#a240529p42)
  - [Mastercard pilots a P2P network for crypto transactions on Bit2Me, Lirium, and Mercado Bitcoin exchanges in 13 European and Latin American countries &lpar;Elizabeth Napolitano/The Block&rpar;](http://www.techmeme.com/240529/p41#a240529p41)
- - [How to connect just about any vintage Mac to a modern monitor](https://appleinsider.com/inside/mac/tips/how-to-connect-just-about-any-vintage-mac-to-a-modern-monitor?utm_medium=rss)
- - [Home Depot Memorial Day Sale: Last Chance to Get Low Prices on Lawn Mowers, Grills, Appliances and More     - CNET](https://www.cnet.com/deals/home-depot-memorial-day-sales-2024-05-29/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints and Answer: Help for May 30, #1076     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-and-answer-help-for-may-30-1076/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

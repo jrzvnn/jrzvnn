@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tesla aims to launch its FSD software in China](https://www.theverge.com/2024/5/30/24167885/tesla-china-fsd-self-driving-software-registration)
+ - [The 22 Best Movies on Apple TV+ Right Now &lpar;June 2024&rpar;](https://www.wired.com/story/best-apple-tv-plus-movies/)
+ - [Threads’ TweetDeck-style redesign is rolling out to everyone](https://www.theverge.com/2024/5/30/24168059/threads-tweetdeck-style-redesign-rollout)
  - [Ecuador Is Literally Powerless in the Face of Drought](https://www.wired.com/story/ecuador-energy-crisis-water-shortage-hydro/)
- - [The absolute best apps for creating digital art on your iPad](https://appleinsider.com/inside/ipad/best/the-absolute-best-apps-for-creating-digital-art-on-your-ipad?utm_medium=rss)
- - [The Verge’s 2024 graduation gift guide](https://www.theverge.com/24126218/graduation-grad-gift-ideas-2024-college-high-school-dorm-tech-gadgets)
- - [Microsoft, Apple, Nvidia, Alphabet, Amazon, and Meta account for 30% of the S&amp;P 500 Index, up from ~26% at the start of the year, after a surge driven by Nvidia &lpar;Bloomberg&rpar;](http://www.techmeme.com/240530/p35#a240530p35)
- - [Sources: the US is probing whether chip-equipment maker Ronda Korea has been selling parts using tech made by US&#39; Lam Research to sanctioned Chinese companies &lpar;The Information&rpar;](http://www.techmeme.com/240530/p34#a240530p34)<!-- TECH:END -->
+ - [The absolute best apps for creating digital art on your iPad](https://appleinsider.com/inside/ipad/best/the-absolute-best-apps-for-creating-digital-art-on-your-ipad?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

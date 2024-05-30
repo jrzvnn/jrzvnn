@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sweden-based Doconomy, which helps bank customers measure the carbon footprint of everyday spending, raised a &amp;euro;34M Series B co-led by UBS and CommerzVentures &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240530/p43#a240530p43)
  - [Magic Leap is Google’s new mystery partner for XR headsets](https://www.theverge.com/2024/5/30/24167283/google-magic-leap-deal-optics-manufacturing)
  - [Jury finds Trump guilty on all counts in hush money trial](https://www.theverge.com/2024/5/30/24155829/donald-trump-verdict-new-york-hush-money-trial-stormy-daniels)
  - [iOS 18 &lpar;and AI&rpar; will give Siri much more control over your apps](https://www.theverge.com/2024/5/30/24168175/ios-18-ai-siri-apple-apps)
- - [Windows 11 is finally getting mouse settings that let you avoid the Control Panel](https://www.theverge.com/2024/5/30/24168191/microsoft-windows-11-mouse-controls-control-panel)
- - [Sources: X and news network NewsNation plan separate live town halls with Trump and Robert F. Kennedy Jr.; the Biden campaign has not agreed to take part &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/240530/p42#a240530p42)<!-- TECH:END -->
+ - [Windows 11 is finally getting mouse settings that let you avoid the Control Panel](https://www.theverge.com/2024/5/30/24168191/microsoft-windows-11-mouse-controls-control-panel)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

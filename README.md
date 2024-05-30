@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Meta removed hundreds of Facebook accounts linked to influence campaigns from China, Israel, Iran, and more, some of which used AI to generate disinformation &lpar;Aisha Counts/Bloomberg&rpar;](http://www.techmeme.com/240529/p42#a240529p42)
  - [Mastercard pilots a P2P network for crypto transactions on Bit2Me, Lirium, and Mercado Bitcoin exchanges in 13 European and Latin American countries &lpar;Elizabeth Napolitano/The Block&rpar;](http://www.techmeme.com/240529/p41#a240529p41)
- - [Amazon Prime now comes with free Grubhub food delivery](https://www.theverge.com/2024/5/29/24167365/amazon-prime-grubhub-plus-free-food-delivery)
  - [How to connect just about any vintage Mac to a modern monitor](https://appleinsider.com/inside/mac/tips/how-to-connect-just-about-any-vintage-mac-to-a-modern-monitor?utm_medium=rss)
- - [Home Depot Memorial Day Sale: Last Chance to Get Low Prices on Lawn Mowers, Grills, Appliances and More     - CNET](https://www.cnet.com/deals/home-depot-memorial-day-sales-2024-05-29/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Home Depot Memorial Day Sale: Last Chance to Get Low Prices on Lawn Mowers, Grills, Appliances and More     - CNET](https://www.cnet.com/deals/home-depot-memorial-day-sales-2024-05-29/#ftag=CAD590a51e)
+ - [The US Army awards Palantir a $480M contract for work on Maven Smart System, which uses AI and computer vision to help soldiers identify targets, through 2029 &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/240529/p40#a240529p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

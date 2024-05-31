@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I need a new gaming setup](http://9gag.com/gag/ayN0Bvy)
+ - 😝 [Dr. Possible put him in hard place](http://9gag.com/gag/aPA49Mq)
  - 😝 [Title goes here](http://9gag.com/gag/aW4Wqx2)
- - 💣 [Religion explained in 52 seconds.](http://9gag.com/gag/aPA4Y8G)
+ - 💣 [Wow you are incredibly bad at this, how did you get through the casting?](http://9gag.com/gag/a6ZyVNe)
  - 😝 [Watch it in a dark place](http://9gag.com/gag/ary4go7)
- - 👉 [Islamist attacked with a knife in Germany! The conservative politician and anti-Islam activist Michael St\u00fcrzenberger was stabbed during a public meeting in Mannheim. A police officers was also stabbed in the neck. &lpar;Video in comments&rpar; .](http://9gag.com/gag/azxE9zb)<!-- MEMES:END -->
+ - 👉 [Some people don&#39;t understand](http://9gag.com/gag/a343qZr)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tether acquires a $100M stake in US-listed bitcoin miner Bitdeer with an option to purchase an additional $50 million in shares within a year &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/240531/p12#a240531p12)
  - [600,000 routers were bricked in a single cyberattack](https://www.theverge.com/2024/5/31/24168584/cyberattack-us-routers-disabled-2023-windstream)
  - [Sources: Saudi Arabia&#39;s Prosperity7 participated in a ~$400M round in Zhipu AI at a $3B valuation, making it the only foreign investor in Chinese generative AI &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/240531/p11#a240531p11)
  - [OpenAI launches programs making ChatGPT cheaper for schools and nonprofits](https://www.theverge.com/2024/5/31/24168574/openai-chatgpt-schools-nonprofits-discounts)
- - [Blipblox myTracks Review: A Beatmaking Pad for Kids](https://www.wired.com/review/blipblox-mytracks-review/)
- - [This TikTok user got conned by fake AirPods Pro, but you don&#39;t have to get fooled](https://appleinsider.com/articles/24/05/31/this-tiktok-user-got-conned-by-fake-airpods-pro-but-you-dont-have-to-get-fooled?utm_medium=rss)<!-- TECH:END -->
+ - [Blipblox myTracks Review: A Beatmaking Pad for Kids](https://www.wired.com/review/blipblox-mytracks-review/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

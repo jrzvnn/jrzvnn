@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Islamist attacked with a knife in Germany! The conservative politician and anti-Islam activist Michael St\u00fcrzenberger was stabbed during a public meeting in Mannheim. A police officers was also stabbed in the neck. &lpar;Video in comments&rpar; .](http://9gag.com/gag/azxE9zb)
- - 😝 [Watch it in a dark place](http://9gag.com/gag/ary4go7)
- - 💣 [Natalie Reynolds, convinced a mentally ill homeless woman who cant swim to jump in a lake for $20.00. And she is trying to get the footage removed online because she and her squad of simps could get charged with attempted manslaughter.](http://9gag.com/gag/aNDZ16w)
- - 😝 [Not enough](http://9gag.com/gag/a6ZyO0q)
- - 👉 [There are extremist Muslims, and there are Muslims who quietly support this. There are no other Muslims.](http://9gag.com/gag/aVvWY8M)<!-- MEMES:END -->
+ - 😝 [Some people don&#39;t understand](http://9gag.com/gag/a343qZr)
+ - 😝 [It&#39;s an old one, I Apollo-gize](http://9gag.com/gag/amo05Ly)
+ - 💣 [Islamist attacked with a knife in Germany! The conservative politician and anti-Islam activist Michael St\u00fcrzenberger was stabbed during a public meeting in Mannheim. A police officers was also stabbed in the neck. &lpar;Video in comments&rpar; .](http://9gag.com/gag/azxE9zb)
+ - 😝 [Title goes here](http://9gag.com/gag/aW4Wqx2)
+ - 👉 [Meanwhile at the Polish border...](http://9gag.com/gag/a9yLRRL)<!-- MEMES:END -->
 
 ---
 

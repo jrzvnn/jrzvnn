@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Limits of the AI-Generated &#39;Eyes on Rafah&#39; Image](https://www.wired.com/story/the-limits-of-the-ai-generated-eyes-on-rafah-image/)
+ - [iOS 18 Freeform app getting giant navigation &amp; object positioning upgrades](https://appleinsider.com/articles/24/05/31/ios-18-freeform-app-getting-giant-navigation-object-positioning-upgrades?utm_medium=rss)
+ - [Stripe says it will temporarily move to an invite-only model for new account sign-ups in India, as it navigates the country&#39;s evolving regulatory landscape &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240531/p7#a240531p7)
  - [Sources: TikTok pauses plans to launch its e-commerce business in major European markets to focus on growth in the US where it&#39;s fighting a divest-or-ban law &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/240531/p6#a240531p6)
- - [Acer now has a 3D camera for its glasses-free 3D laptops](https://www.theverge.com/2024/5/31/24168537/acer-spatiallabs-eyes-stereo-camera-glasses-free-3d-price-release)
- - [Sony says PS5 generated $106B in revenue in less than four years vs. PS4&#39;s $107B over seven years, PS5 in-game purchases spending up 176% over PS4, and more &lpar;Evgeny Obedkov/Game World Observer&rpar;](http://www.techmeme.com/240531/p5#a240531p5)
- - [Apple iPad Air &lpar;M2, 2024&rpar; Review: Bigger and Slightly Brighter](https://www.wired.com/review/apple-ipad-air-m2-2024/)
- - [France could get Apple Vision Pro at end of June](https://appleinsider.com/articles/24/05/31/france-could-get-apple-vision-pro-at-end-of-june?utm_medium=rss)<!-- TECH:END -->
+ - [Acer now has a 3D camera for its glasses-free 3D laptops](https://www.theverge.com/2024/5/31/24168537/acer-spatiallabs-eyes-stereo-camera-glasses-free-3d-price-release)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

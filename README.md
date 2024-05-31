@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Admits Its New AI Overviews Search Feature Screwed Up](https://www.wired.com/story/google-ai-overview-search-issues/)
+ - [TikTok is reportedly splitting its source code to create a US-only algorithm](https://www.theverge.com/2024/5/30/24168353/tiktok-douyin-algorithm-code-splitting-bytedance-rumor)
+ - [OpenAI is hiring research engineers to rebuild its robotics team; sources: the company plans to develop tech that robot makers will integrate into their systems &lpar;Forbes&rpar;](http://www.techmeme.com/240530/p48#a240530p48)
  - [Google defends AI search results after they told us to put glue on pizza](https://www.theverge.com/2024/5/30/24168344/google-defends-ai-overviews-search-results)
- - [Google explains AI Overviews&#39; viral mistakes and updates its systems, including better detection of nonsensical queries and limiting satire and humor content &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240530/p47#a240530p47)
- - [OpenAI unveils ChatGPT Edu, an &quot;affordable&quot; version for universities, including GPT-4o access, custom GPT creation, and higher message limits than the free tier &lpar;Dan Fitzpatrick/Forbes&rpar;](http://www.techmeme.com/240530/p46#a240530p46)
- - [MongoDB reports Q1 revenue up 22% YoY to $450.6M, vs. $439.91M est., and cuts its Q2 and FY 2025 outlook on slower Atlas demand; MDB drops 25%+ after hours &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/240530/p45#a240530p45)
- - [Silent Hill 2’s remake hits PS5 and Steam in October](https://www.theverge.com/24168204/silent-hill-2-remake-trailer-date-ps5-steam)<!-- TECH:END -->
+ - [Google explains AI Overviews&#39; viral mistakes and updates its systems, including better detection of nonsensical queries and limiting satire and humor content &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240530/p47#a240530p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

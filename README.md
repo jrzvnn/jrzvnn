@@ -174,10 +174,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [That made me smile \u263a](http://9gag.com/gag/aMVrAK6)
- - 😝 [Best kind of prank](http://9gag.com/gag/an7KbKo)
- - 💣 [Being single in 37](http://9gag.com/gag/agmvXr1)
  - 😝 [I&#39;m afraid to ask, but why did they count the goal at this video?](http://9gag.com/gag/aE01Bd9)
- - 👉 [Bear attempts to eat pigs, little did the bear know, these pigs don\u2019t mess around](http://9gag.com/gag/ary45Bp)<!-- MEMES:END -->
+ - 💣 [Best kind of prank](http://9gag.com/gag/an7KbKo)
+ - 😝 [There is still hope](http://9gag.com/gag/aMVrANW)
+ - 👉 [Being single in 37](http://9gag.com/gag/agmvXr1)<!-- MEMES:END -->
 
 ---
 

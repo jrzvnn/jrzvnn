@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ElevenLabs launches Sound Effects, a tool that lets users generate sound effects via prompts and uses an in-house model fine-tuned on Shutterstock&#39;s audio data &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/240531/p15#a240531p15)
- - [Sources: Vista Equity has written off the entire value of its investment in tech learning platform Pluralsight, three years after taking it private for $3.5B &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/240531/p14#a240531p14)
- - [‘Quest 3S’ could be the name of Meta’s more affordable VR headset](https://www.theverge.com/2024/5/31/24168669/meta-quest-3s-vr-headset-leak)
- - [Google’s Pixel Watch 2 is $65 off at Wellbots for a limited time](https://www.theverge.com/2024/5/31/24167116/google-pixel-watch-2-smartwatch-fathers-day-deal-sale)
- - [The US Treasury Department plans to make the IRS&#39; Direct File program permanent from the 2025 tax season and invites all states and Washington DC to participate &lpar;Axios&rpar;](http://www.techmeme.com/240531/p13#a240531p13)<!-- TECH:END -->
+ - [Rest of World retracts an article on WhatsApp misinformation &quot;tip lines&quot; in India after several fact-checking orgs detail how it was &quot;riddled with inaccuracies&quot; &lpar;Joshua Benton/Nieman Lab&rpar;](http://www.techmeme.com/240531/p16#a240531p16)
+ - [Dyson&#39;s Hair Tools, the Airstrait and Airwrap, are $100 Off Right Now](https://www.wired.com/story/dyson-hair-tool-deals-may-2024/)
+ - [The Daylight Tablet Returns Computing to Its Hippie Ideals](https://www.wired.com/story/daylight-tablet-computing-hippie-ideals/)
+ - [Windows on Arm and Copilot Plus could be big for PC gaming](https://www.theverge.com/2024/5/31/24168566/windows-arm-copilot-plus-gaming-pcs-handhelds)
+ - [Gene-Edited Salad Greens Are Coming to US Stores This Fall](https://www.wired.com/story/gene-edited-salad-greens-fall-pairwise-bayer-crispr-gmo/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

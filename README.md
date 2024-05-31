@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the different approaches to AI integration and modularization taken by Google, AWS, Microsoft, Nvidia, Meta, and Databricks, and the implications &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/240531/p1#a240531p1)
  - [Government data: South Korea&#39;s chip inventories fell 33.7% YoY in April, largest drop since 2014, underscoring the pace at which demand is outstripping supply &lpar;Sam Kim/Bloomberg&rpar;](http://www.techmeme.com/240530/p50#a240530p50)
  - [How to set up and manage a guest user to your Mac](https://appleinsider.com/inside/mac/tips/how-to-set-up-and-manage-a-guest-user-to-your-mac?utm_medium=rss)
- - [Valar Labs, which has developed AI models to help predict bladder cancer treatment outcomes, raised a $22M Series A led by DCVC and a16z &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/240530/p49#a240530p49)
- - [How to Find Out if Your Android Phone Is Being Tracked by an AirTag and What to Do     - CNET](https://www.cnet.com/tech/mobile/how-to-find-out-if-your-android-phone-is-being-tracked-by-an-airtag-and-what-to-do/#ftag=CAD590a51e)
- - [Target Circle: What Are All the Perks You Get With the 3 Memberships?     - CNET](https://www.cnet.com/tech/mobile/target-circle-what-are-all-the-perks-you-get-with-the-3-memberships/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints and Answers: Help for May 31, #355     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hints-answers-help-for-may-31-355/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints and Answer: Help for May 31, #1077     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-and-answer-help-for-may-31-1077/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

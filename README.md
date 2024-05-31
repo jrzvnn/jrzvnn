@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Mattresses for Heavy People for 2024     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-heavy-people/#ftag=CAD590a51e)
  - [Google&#39;s AI Overviews Will Always Be Broken. That&#39;s How AI Works](https://www.wired.com/story/google-ai-overviews-broken-how-ai-works/)
- - [Startup Fable Studio announces Showrunner, a streaming service that lets users watch AI-generated series and create their own series by writing prompts &lpar;Winston Cho/The Hollywood Reporter&rpar;](http://www.techmeme.com/240531/p21#a240531p21)
- - [Meta is notifying Instagram and Facebook EU users that it&#39;s using their data to train its AI models, and users can opt out, &quot;if your objection is honoured&quot; &lpar;Ben Lovejoy/9to5Mac&rpar;](http://www.techmeme.com/240531/p20#a240531p20)
- - [Web Hosting Glossary for Hosting Terms to Know     - CNET](https://www.cnet.com/tech/services-and-software/web-hosting-glossary/#ftag=CAD590a51e)
- - [Blue-Eyed Cicada Is Spotted as Cicada-Geddon Double-Brood Event Continues     - CNET](https://www.cnet.com/science/blue-eyed-cicada-is-spotted-as-cicada-geddon-double-brood-event-continues/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Cheap Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-cheap-mattress/#ftag=CAD590a51e)
+ - [This AI Startup Is Bringing 400-Pound Drones to a Farm Near You     - CNET](https://www.cnet.com/tech/services-and-software/this-ai-startup-is-bringing-400-pound-drones-to-a-farm-near-you/#ftag=CAD590a51e)
+ - [Would You Trade Your Private Data for a Fancy Cup of Coffee?     - CNET](https://www.cnet.com/news/privacy/would-you-trade-your-private-data-for-a-fancy-cup-of-coffee/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

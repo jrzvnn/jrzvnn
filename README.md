@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta’s AI is summarizing some bizarre Facebook comment sections](https://www.theverge.com/2024/5/31/24168802/meta-ai-facebook-comments-summaries)
+ - [Apple may add some text effects to iMessage in iOS 18](https://appleinsider.com/articles/24/05/31/apple-may-some-effects-to-text-to-imessage-in-ios-18?utm_medium=rss)
  - [New video highlights ongoing struggles between Apple and union members](https://appleinsider.com/articles/24/05/31/new-video-highlights-ongoing-struggles-between-apple-and-union-members?utm_medium=rss)
- - [FCC ends the Affordable Connectivity Program, which helped low-income Americans afford internet service, after the House failed to approve additional funding &lpar;Brian Fung/CNN&rpar;](http://www.techmeme.com/240531/p19#a240531p19)
- - [A pandemic-era internet subsidy is officially ending](https://www.theverge.com/2024/5/31/24168853/pandemic-internet-subsidy-affordable-connectivity-program-ending)
- - [It&#39;s the AI Election Year](https://www.wired.com/story/ai-election-2024/)
- - [A $25,000 electric Jeep? Challenging but possible, CEO says](https://www.theverge.com/2024/5/31/24168663/jeep-electric-25000-ceo-antonio-filosa-interview)<!-- TECH:END -->
+ - [Save Up to $600 Off Your Next Saatva Mattress With This Extended Memorial Day Sale     - CNET](https://www.cnet.com/deals/saatva-memorial-day-deal-2024/#ftag=CAD590a51e)
+ - [FCC ends the Affordable Connectivity Program, which helped low-income Americans afford internet service, after the House failed to approve additional funding &lpar;Brian Fung/CNN&rpar;](http://www.techmeme.com/240531/p19#a240531p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

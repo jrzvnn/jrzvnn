@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US Treasury Department will make IRS&#39; Direct File program permanent starting with the 2025 tax season and invites all states and Washington DC to participate &lpar;Axios&rpar;](http://www.techmeme.com/240531/p13#a240531p13)
+ - [The biggest findings in the Google Search leak](https://www.theverge.com/2024/5/31/24167119/google-search-algorithm-documents-leak-seo-chrome-clicks)
  - [Temu joins Shein in facing stricter regulation in the EU](https://www.theverge.com/2024/5/31/24168603/temu-digital-services-act-eu-regulations)
  - [Apple loses to Samsung in Q1 global smartphone shipments](https://appleinsider.com/articles/24/05/31/apple-loses-to-samsung-in-q1-global-smartphone-shipments?utm_medium=rss)
- - [Trump Campaign Claims $34.8 Million Windfall After Guilty Verdict](https://www.wired.com/story/trump-campaign-windfall-guilty-verdict/)
- - [Tether acquires a $100M stake in US-listed bitcoin miner Bitdeer with an option to purchase an additional $50 million in shares within a year &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/240531/p12#a240531p12)
- - [600,000 routers were bricked in a single cyberattack](https://www.theverge.com/2024/5/31/24168584/cyberattack-us-routers-disabled-2023-windstream)<!-- TECH:END -->
+ - [Trump Campaign Claims $34.8 Million Windfall After Guilty Verdict](https://www.wired.com/story/trump-campaign-windfall-guilty-verdict/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

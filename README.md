@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The pain](http://9gag.com/gag/aW4WqL4)
- - 😝 [Notice what&#39;s missing](http://9gag.com/gag/ae906Bb)
- - 💣 [Watch it in a dark place](http://9gag.com/gag/ary4go7)
- - 😝 [Immersive gaming set.](http://9gag.com/gag/a7oy3D2)
- - 👉 [I&#39;m afraid to ask, but why did they count the goal at this video?](http://9gag.com/gag/aE01Bd9)<!-- MEMES:END -->
+ - 😝 [They found out](http://9gag.com/gag/a2vY4E1)
+ - 😝 [Yeah this seems \u2018bout right\u2026](http://9gag.com/gag/ae90eGO)
+ - 💣 [The new California](http://9gag.com/gag/aMVrw5X)
+ - 😝 [You can&#39;t park there mate](http://9gag.com/gag/aE01nmN)
+ - 👉 [Watch it in a dark place](http://9gag.com/gag/ary4go7)<!-- MEMES:END -->
 
 ---
 

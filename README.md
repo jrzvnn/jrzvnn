@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Get a year of Peacock streaming on your Apple TV for $19.99](https://appleinsider.com/articles/24/05/31/get-a-year-of-peacock-streaming-on-your-apple-tv-for-1999?utm_medium=rss)
  - [Best Mattresses for Heavy People for 2024     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-heavy-people/#ftag=CAD590a51e)
  - [Google&#39;s AI Overviews Will Always Be Broken. That&#39;s How AI Works](https://www.wired.com/story/google-ai-overviews-broken-how-ai-works/)
  - [Best Cheap Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-cheap-mattress/#ftag=CAD590a51e)
- - [This AI Startup Is Bringing 400-Pound Drones to a Farm Near You     - CNET](https://www.cnet.com/tech/services-and-software/this-ai-startup-is-bringing-400-pound-drones-to-a-farm-near-you/#ftag=CAD590a51e)
- - [Would You Trade Your Private Data for a Fancy Cup of Coffee?     - CNET](https://www.cnet.com/news/privacy/would-you-trade-your-private-data-for-a-fancy-cup-of-coffee/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This AI Startup Is Bringing 400-Pound Drones to a Farm Near You     - CNET](https://www.cnet.com/tech/services-and-software/this-ai-startup-is-bringing-400-pound-drones-to-a-farm-near-you/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

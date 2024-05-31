@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Vista Equity has written off the entire value of its investment in tech learning platform Pluralsight, three years after taking it private for $3.5B &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/240531/p14#a240531p14)
  - [‘Quest 3S’ could be the name of Meta’s more affordable VR headset](https://www.theverge.com/2024/5/31/24168669/meta-quest-3s-vr-headset-leak)
  - [Google’s Pixel Watch 2 is $65 off at Wellbots for a limited time](https://www.theverge.com/2024/5/31/24167116/google-pixel-watch-2-smartwatch-fathers-day-deal-sale)
  - [US Treasury Department will make IRS&#39; Direct File program permanent starting with the 2025 tax season and invites all states and Washington DC to participate &lpar;Axios&rpar;](http://www.techmeme.com/240531/p13#a240531p13)
- - [The biggest findings in the Google Search leak](https://www.theverge.com/2024/5/31/24167119/google-search-algorithm-documents-leak-seo-chrome-clicks)
- - [Temu joins Shein in facing stricter regulation in the EU](https://www.theverge.com/2024/5/31/24168603/temu-digital-services-act-eu-regulations)<!-- TECH:END -->
+ - [The biggest findings in the Google Search leak](https://www.theverge.com/2024/5/31/24167119/google-search-algorithm-documents-leak-seo-chrome-clicks)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

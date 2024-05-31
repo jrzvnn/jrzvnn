@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The power of sandwiches](http://9gag.com/gag/a87YprY)
- - 😝 [Bear attempts to eat pigs, little did the bear know, these pigs don\u2019t mess around](http://9gag.com/gag/ary45Bp)
- - 💣 [Best kind of prank](http://9gag.com/gag/an7KbKo)
- - 😝 [I&#39;m afraid to ask, but why did they count the goal at this video?](http://9gag.com/gag/aE01Bd9)
- - 👉 [Here&#39;s your potato](http://9gag.com/gag/ary45zB)<!-- MEMES:END -->
+ - 😝 [Dr. Possible put him in hard place](http://9gag.com/gag/aPA49Mq)
+ - 😝 [Ok that&#39;s awesome](http://9gag.com/gag/aGywDo0)
+ - 💣 [Watch it in a dark place](http://9gag.com/gag/ary4go7)
+ - 😝 [Wow you are incredibly bad at this, how did you get through the casting?](http://9gag.com/gag/a6ZyVNe)
+ - 👉 [Burger](http://9gag.com/gag/aZZxpNQ)<!-- MEMES:END -->
 
 ---
 

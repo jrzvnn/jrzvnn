@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best kind of prank](http://9gag.com/gag/an7KbKo)
- - 😝 [Bear attempts to eat pigs, little did the bear know, these pigs don\u2019t mess around](http://9gag.com/gag/ary45Bp)
- - 💣 [Here&#39;s your potato](http://9gag.com/gag/ary45zB)
- - 😝 [The power of sandwiches](http://9gag.com/gag/a87YprY)
- - 👉 [I&#39;m afraid to ask, but why did they count the goal at this video?](http://9gag.com/gag/aE01Bd9)<!-- MEMES:END -->
+ - 😝 [The pain](http://9gag.com/gag/aW4WqL4)
+ - 😝 [Title goes here](http://9gag.com/gag/aW4Wqx2)
+ - 💣 [I&#39;m afraid to ask, but why did they count the goal at this video?](http://9gag.com/gag/aE01Bd9)
+ - 😝 [Wow you are incredibly bad at this, how did you get through the casting?](http://9gag.com/gag/a6ZyVNe)
+ - 👉 [Notice what&#39;s missing](http://9gag.com/gag/ae906Bb)<!-- MEMES:END -->
 
 ---
 

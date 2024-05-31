@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [France could get Apple Vision Pro at end of June](https://appleinsider.com/articles/24/05/31/france-could-get-apple-vision-pro-at-end-of-june?utm_medium=rss)
  - [STMicro announces plans to spend &amp;euro;5B on a chips manufacturing plant in Catania, Italy with the government providing &amp;euro;2B in subsidies under European Chips Act &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/240531/p4#a240531p4)
  - [Sources: Tesla prepares to register its FSD with Chinese authorities as it plans a rollout in 2024 and selling the software as a monthly subscription in China &lpar;Reuters&rpar;](http://www.techmeme.com/240531/p3#a240531p3)
  - [Researchers claim just 2,107 US voters, mostly older, white Republican women, accounted for spreading 80% of the fake news on Twitter during the 2020 election &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/240531/p2#a240531p2)
- - [Best Internet Providers in Grand Junction, Colorado     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-grand-junction-co/#ftag=CAD590a51e)
- - [The OnePlus Watch 2 broke the nerdy covenant that smartwatch crowns must scroll](https://www.theverge.com/2024/5/31/24166415/oneplus-watch-2-digital-crown-smartwatches-button-of-the-month)<!-- TECH:END -->
+ - [Best Internet Providers in Grand Junction, Colorado     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-grand-junction-co/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

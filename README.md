@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Global foldable phone shipments were up 49% YoY in Q1, marking its highest rate of increase in six quarters; Huawei led with a 35% share, overtaking Samsung &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/240531/p22#a240531p22)
  - [Massive Ticketmaster, Santander data breaches linked to Snowflake cloud storage](https://www.theverge.com/2024/5/31/24168984/ticketmaster-santander-data-breach-snowflake-cloud-storage)
  - [Sony Days of Play Sale: Consoles, Games, and More](https://www.wired.com/story/sony-days-of-play-sale-2024/)
  - [Get a year of Peacock streaming on your Apple TV for $19.99](https://appleinsider.com/articles/24/05/31/get-a-year-of-peacock-streaming-on-your-apple-tv-for-1999?utm_medium=rss)
- - [Best Tablet Deals: Apple, Samsung and Budget Options for Less     - CNET](https://www.cnet.com/deals/best-tablet-deals/#ftag=CAD590a51e)
- - [Would You Trade Your Private Data for a Fancy Cup of Coffee?     - CNET](https://www.cnet.com/news/privacy/would-you-trade-your-private-data-for-a-fancy-cup-of-coffee/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Tablet Deals: Apple, Samsung and Budget Options for Less     - CNET](https://www.cnet.com/deals/best-tablet-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

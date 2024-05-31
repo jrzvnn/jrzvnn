@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Some people don&#39;t understand](http://9gag.com/gag/a343qZr)
- - 😝 [It&#39;s an old one, I Apollo-gize](http://9gag.com/gag/amo05Ly)
- - 💣 [Islamist attacked with a knife in Germany! The conservative politician and anti-Islam activist Michael St\u00fcrzenberger was stabbed during a public meeting in Mannheim. A police officers was also stabbed in the neck. &lpar;Video in comments&rpar; .](http://9gag.com/gag/azxE9zb)
- - 😝 [Title goes here](http://9gag.com/gag/aW4Wqx2)
- - 👉 [Meanwhile at the Polish border...](http://9gag.com/gag/a9yLRRL)<!-- MEMES:END -->
+ - 😝 [Watch it in a dark place](http://9gag.com/gag/ary4go7)
+ - 😝 [I usually just eat a churro or popcorn at a concer](http://9gag.com/gag/aNDZ0D0)
+ - 💣 [I am sorry. I&#39;d rather be called xenophobe or right wing or whatever if that is the price for living in a save environment.](http://9gag.com/gag/aD23g4B)
+ - 😝 [There are extremist Muslims, and there are Muslims who quietly support this. There are no other Muslims.](http://9gag.com/gag/aVvWY8M)
+ - 👉 [Not enough](http://9gag.com/gag/a6ZyO0q)<!-- MEMES:END -->
 
 ---
 

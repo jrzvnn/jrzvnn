@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tom and Jerry full episodes - link in comments](http://9gag.com/gag/aRBPe3G)
  - 😝 [I&#39;m afraid to ask, but why did they count the goal at this video?](http://9gag.com/gag/aE01Bd9)
- - 💣 [Save Your Beloved ones from such Evil Animals](http://9gag.com/gag/azxEj4p)
- - 😝 [Some people don&#39;t understand](http://9gag.com/gag/a343qZr)
- - 👉 [The pain](http://9gag.com/gag/aW4WqL4)<!-- MEMES:END -->
+ - 😝 [Watch it in a dark place](http://9gag.com/gag/ary4go7)
+ - 💣 [Best kind of prank](http://9gag.com/gag/an7KbKo)
+ - 😝 [There is still hope](http://9gag.com/gag/aMVrANW)
+ - 👉 [Being single in 37](http://9gag.com/gag/agmvXr1)<!-- MEMES:END -->
 
 ---
 

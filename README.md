@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Acer now has a 3D camera for its glasses-free 3D laptops](https://www.theverge.com/2024/5/31/24168537/acer-spatiallabs-eyes-stereo-camera-glasses-free-3d-price-release)
  - [Sony says PS5 generated $106B in revenue in less than four years vs. PS4&#39;s $107B over seven years, PS5 in-game purchases spending up 176% over PS4, and more &lpar;Evgeny Obedkov/Game World Observer&rpar;](http://www.techmeme.com/240531/p5#a240531p5)
  - [Apple iPad Air &lpar;M2, 2024&rpar; Review: Bigger and Slightly Brighter](https://www.wired.com/review/apple-ipad-air-m2-2024/)
  - [France could get Apple Vision Pro at end of June](https://appleinsider.com/articles/24/05/31/france-could-get-apple-vision-pro-at-end-of-june?utm_medium=rss)
- - [I Used ChatGPT to Build My Best Wardrobe Ever, and It Worked     - CNET](https://www.cnet.com/tech/services-and-software/i-tried-chatgpt-to-build-my-best-wardrobe-ever-and-it-actually-worked/#ftag=CAD590a51e)
- - [STMicro announces plans to spend &amp;euro;5B on a chips manufacturing plant in Catania, Italy with the government providing &amp;euro;2B in subsidies under European Chips Act &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/240531/p4#a240531p4)<!-- TECH:END -->
+ - [I Used ChatGPT to Build My Best Wardrobe Ever, and It Worked     - CNET](https://www.cnet.com/tech/services-and-software/i-tried-chatgpt-to-build-my-best-wardrobe-ever-and-it-actually-worked/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

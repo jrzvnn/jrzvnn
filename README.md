@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m afraid to ask, but why did they count the goal at this video?](http://9gag.com/gag/aE01Bd9)
- - 😝 [Best kind of prank](http://9gag.com/gag/an7KbKo)
- - 💣 [There is still hope](http://9gag.com/gag/aMVrANW)
- - 😝 [Bear attempts to eat pigs, little did the bear know, these pigs don\u2019t mess around](http://9gag.com/gag/ary45Bp)
- - 👉 [Being single in 37](http://9gag.com/gag/agmvXr1)<!-- MEMES:END -->
+ - 😝 [What is Rahaf? Pro-Hamas supporters can&#39;t even spell what they are protesting for.](http://9gag.com/gag/ajP0D8x)
+ - 😝 [Things you might not get away with. Nr. 16](http://9gag.com/gag/ae90b1v)
+ - 💣 [I&#39;m afraid to ask, but why did they count the goal at this video?](http://9gag.com/gag/aE01Bd9)
+ - 😝 [Ok that&#39;s awesome](http://9gag.com/gag/aGywDo0)
+ - 👉 [Notice what&#39;s missing](http://9gag.com/gag/ae906Bb)<!-- MEMES:END -->
 
 ---
 

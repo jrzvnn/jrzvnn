@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There is still hope](http://9gag.com/gag/aMVrANW)
- - 😝 [That made me smile \u263a](http://9gag.com/gag/aMVrAK6)
- - 💣 [Best kind of prank](http://9gag.com/gag/an7KbKo)
- - 😝 [Bear attempts to eat pigs, little did the bear know, these pigs don\u2019t mess around](http://9gag.com/gag/ary45Bp)
- - 👉 [Here&#39;s your potato](http://9gag.com/gag/ary45zB)<!-- MEMES:END -->
+ - 😝 [Tom and Jerry full episodes - link in comments](http://9gag.com/gag/aRBPe3G)
+ - 😝 [I&#39;m afraid to ask, but why did they count the goal at this video?](http://9gag.com/gag/aE01Bd9)
+ - 💣 [Save Your Beloved ones from such Evil Animals](http://9gag.com/gag/azxEj4p)
+ - 😝 [Some people don&#39;t understand](http://9gag.com/gag/a343qZr)
+ - 👉 [The pain](http://9gag.com/gag/aW4WqL4)<!-- MEMES:END -->
 
 ---
 

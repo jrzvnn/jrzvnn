@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [How to set up and manage a guest user to your Mac](https://appleinsider.com/inside/mac/tips/how-to-set-up-and-manage-a-guest-user-to-your-mac?utm_medium=rss)
  - [Valar Labs, which has developed AI models to help predict bladder cancer treatment outcomes, raised a $22M Series A led by DCVC and a16z &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/240530/p49#a240530p49)
- - [Google Admits Its AI Overviews Search Feature Screwed Up](https://www.wired.com/story/google-ai-overview-search-issues/)
- - [TikTok is reportedly splitting its source code to create a US-only algorithm](https://www.theverge.com/2024/5/30/24168353/tiktok-douyin-algorithm-code-splitting-bytedance-rumor)
- - [Celebrate Memorial Day With 30% Off the Leesa Sapira Chill Mattress     - CNET](https://www.cnet.com/deals/leesa-sapira-chill-hybrid-memorial-day-deal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Find Out if Your Android Phone Is Being Tracked by an AirTag and What to Do     - CNET](https://www.cnet.com/tech/mobile/how-to-find-out-if-your-android-phone-is-being-tracked-by-an-airtag-and-what-to-do/#ftag=CAD590a51e)
+ - [Target Circle: What Are All the Perks You Get With the 3 Memberships?     - CNET](https://www.cnet.com/tech/mobile/target-circle-what-are-all-the-perks-you-get-with-the-3-memberships/#ftag=CAD590a51e)
+ - [You Can Restore Deleted iPhone Text Messages With a Few Taps – Here&#39;s How     - CNET](https://www.cnet.com/tech/services-and-software/you-can-restore-deleted-iphone-text-messages-with-a-few-taps-heres-how/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This man in the TV show Who Wants to Be a Millionaire, a new morality was expressed](http://9gag.com/gag/aRBP1z2)
+ - 😝 [Hello, hello, leave this man alone, hello hello hello!](http://9gag.com/gag/aE01gXe)
+ - 😝 [Meanwhile at the Polish border...](http://9gag.com/gag/a9yLRRL)
+ - 💣 [You try to stall for time, but your rival sees his opportunity.](http://9gag.com/gag/aBy3gwP)
  - 😝 [Title goes here](http://9gag.com/gag/aW4Wqx2)
- - 💣 [Religion explained in 52 seconds.](http://9gag.com/gag/aPA4Y8G)
- - 😝 [Watch it in a dark place](http://9gag.com/gag/ary4go7)
- - 👉 [Some people don&#39;t understand](http://9gag.com/gag/a343qZr)<!-- MEMES:END -->
+ - 👉 [Watch it in a dark place](http://9gag.com/gag/ary4go7)<!-- MEMES:END -->
 
 ---
 

@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Notice what&#39;s missing](http://9gag.com/gag/ae906Bb)
- - 😝 [Understandable](http://9gag.com/gag/aAyrdMp)
- - 💣 [They found out](http://9gag.com/gag/a2vY4E1)
  - 😝 [Some people don&#39;t understand](http://9gag.com/gag/a343qZr)
- - 👉 [The pain](http://9gag.com/gag/aW4WqL4)<!-- MEMES:END -->
+ - 😝 [Tiny fistbumps](http://9gag.com/gag/aYQWezw)
+ - 💣 [I want to know](http://9gag.com/gag/aoy09D0)
+ - 😝 [The pain](http://9gag.com/gag/aW4WqL4)
+ - 👉 [Women: \u2615\ufe0f](http://9gag.com/gag/azxEjvx)<!-- MEMES:END -->
 
 ---
 

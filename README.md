@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Meta revamped Facebook&#39;s feed to show more posts from outside a person&#39;s network of friends and family, in a move to fight TikTok and win back younger users &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/240531/p10#a240531p10)
+ - [The Daylight Tablet Returns Computing to Its Hippie Ideals](https://www.wired.com/story/daylight-tablet-computing-hippie-ideals/)
+ - [9 Best Earplugs &lpar;2024&rpar;: For Concerts, Sleep, and Listening](https://www.wired.com/gallery/best-earplugs/)
  - [11 Best Organic Mattresses, Toppers, Bedding &lpar;2024&rpar;: Nontoxic and Natural](https://www.wired.com/story/best-organic-mattresses/)
- - [New emoji in iOS 18, iPad Pro, and patented Apple Store trees, on the AppleInsider Podcast](https://appleinsider.com/articles/24/05/31/new-emoji-in-ios-18-ipad-pro-and-patented-apple-store-trees-on-the-appleinsider-podcast?utm_medium=rss)
- - [Microsoft Recall Alternatives That Remember Everything on Your Screen: Windrecorder, Rewind](https://www.wired.com/story/microsoft-recall-alternatives/)
- - [This TikTok user got conned by fake AirPods Pro, but you don&#39;t have to get fooled](https://appleinsider.com/articles/24/05/31/this-tiktok-user-got-conned-by-fake-airpods-pro-but-you-dont-have-to-get-fooled?utm_medium=rss)
- - [European Commission designates Temu as a &quot;very large online platform&quot; and says the company will have to comply with DSA rules by the end of September 2024 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240531/p9#a240531p9)<!-- TECH:END -->
+ - [New emoji in iOS 18, iPad Pro, and patented Apple Store trees, on the AppleInsider Podcast](https://appleinsider.com/articles/24/05/31/new-emoji-in-ios-18-ipad-pro-and-patented-apple-store-trees-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

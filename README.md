@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Japanese crypto exchange DMM Bitcoin says it has lost 4,502.9 bitcoin, worth about $308M, in an &quot;unauthorised leak&quot;, and is investigating the incident &lpar;Reuters&rpar;](http://www.techmeme.com/240531/p18#a240531p18)
  - [Google plans to disable extensions built with the older Manifest V2 framework on June 3, beginning with users of Chrome&#39;s Beta, Dev, and Canary versions &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/240531/p17#a240531p17)
  - [Best Samsung Galaxy Z Fold 5 Deals: Get Big Savings on Trade-Ins     - CNET](https://www.cnet.com/deals/samsung-galaxy-z-fold-5-deals/#ftag=CAD590a51e)
  - [‘Animal Well’ Demonstrates What Gaming Stands to Lose Amid Indie Studio Closures](https://www.wired.com/story/animal-well-future-of-indie-games/)
- - [Windows 11’s new Recall feature has been cracked to run on unsupported hardware](https://www.theverge.com/2024/5/31/24168746/microsoft-windows-11-recall-ai-feature-unsupported-hardware)
- - [Samsung Galaxy S23 Deals: Big Savings on New Lines and Trade-Ins     - CNET](https://www.cnet.com/deals/best-galaxy-s23-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Windows 11’s new Recall feature has been cracked to run on unsupported hardware](https://www.theverge.com/2024/5/31/24168746/microsoft-windows-11-recall-ai-feature-unsupported-hardware)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

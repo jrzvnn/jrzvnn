@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That made me smile \u263a](http://9gag.com/gag/aMVrAK6)
- - 😝 [I&#39;m afraid to ask, but why did they count the goal at this video?](http://9gag.com/gag/aE01Bd9)
- - 💣 [Best kind of prank](http://9gag.com/gag/an7KbKo)
- - 😝 [There is still hope](http://9gag.com/gag/aMVrANW)
- - 👉 [Being single in 37](http://9gag.com/gag/agmvXr1)<!-- MEMES:END -->
+ - 😝 [Notice what&#39;s missing](http://9gag.com/gag/ae906Bb)
+ - 😝 [Understandable](http://9gag.com/gag/aAyrdMp)
+ - 💣 [They found out](http://9gag.com/gag/a2vY4E1)
+ - 😝 [Some people don&#39;t understand](http://9gag.com/gag/a343qZr)
+ - 👉 [The pain](http://9gag.com/gag/aW4WqL4)<!-- MEMES:END -->
 
 ---
 

@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ok that&#39;s awesome](http://9gag.com/gag/aGywDo0)
- - 😝 [I&#39;m afraid to ask, but why did they count the goal at this video?](http://9gag.com/gag/aE01Bd9)
- - 💣 [The pain](http://9gag.com/gag/aW4WqL4)
- - 😝 [`No one can pass, it&#39;s time to pray to Allah, streets are ours!` Denmark, Wake up Europe!!](http://9gag.com/gag/awyKnRr)
- - 👉 [Watch it in a dark place](http://9gag.com/gag/ary4go7)<!-- MEMES:END -->
+ - 😝 [Here&#39;s your potato](http://9gag.com/gag/ary45zB)
+ - 😝 [Female behavior](http://9gag.com/gag/a1mebwD)
+ - 💣 [You son of a b*tch I&#39;m in](http://9gag.com/gag/aGywjP5)
+ - 😝 [Recently divorced. Brought a PS4 from a basement and started a game that never had time to start.](http://9gag.com/gag/azxEqNK)
+ - 👉 [The pain](http://9gag.com/gag/aW4WqL4)<!-- MEMES:END -->
 
 ---
 

@@ -168,7 +168,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [How Meta revamped Facebook&#39;s feed to show more posts from outside a person&#39;s network of friends and family, in a move to fight TikTok and win back younger users &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/240531/p10#a240531p10)
  - [The Daylight Tablet Returns Computing to Its Hippie Ideals](https://www.wired.com/story/daylight-tablet-computing-hippie-ideals/)
  - [9 Best Earplugs &lpar;2024&rpar;: For Concerts, Sleep, and Listening](https://www.wired.com/gallery/best-earplugs/)
- - [11 Best Organic Mattresses, Toppers, Bedding &lpar;2024&rpar;: Nontoxic and Natural](https://www.wired.com/story/best-organic-mattresses/)<!-- TECH:END -->
+ - [Get Into Photo Editing With This Luminar Neo Lifetime Bundle at Just $200     - CNET](https://www.cnet.com/deals/get-into-photo-editing-with-this-luminar-neo-lifetime-bundle-at-just-200/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

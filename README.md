@@ -165,10 +165,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Google plans to disable extensions built with the older Manifest V2 framework on June 3, beginning with users of Chrome&#39;s Beta, Dev, and Canary versions &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/240531/p17#a240531p17)
+ - [Best Samsung Galaxy Z Fold 5 Deals: Get Big Savings on Trade-Ins     - CNET](https://www.cnet.com/deals/samsung-galaxy-z-fold-5-deals/#ftag=CAD590a51e)
  - [‘Animal Well’ Demonstrates What Gaming Stands to Lose Amid Indie Studio Closures](https://www.wired.com/story/animal-well-future-of-indie-games/)
  - [Windows 11’s new Recall feature has been cracked to run on unsupported hardware](https://www.theverge.com/2024/5/31/24168746/microsoft-windows-11-recall-ai-feature-unsupported-hardware)
- - [Rest of World retracts an article on WhatsApp misinformation &quot;tip lines&quot; in India after several fact-checking orgs detail how it was &quot;riddled with inaccuracies&quot; &lpar;Joshua Benton/Nieman Lab&rpar;](http://www.techmeme.com/240531/p16#a240531p16)
- - [Dyson&#39;s Airstrait and Airwrap Hair Tools Are $100 Off Right Now](https://www.wired.com/story/dyson-hair-tool-deals-may-2024/)<!-- TECH:END -->
+ - [Samsung Galaxy S23 Deals: Big Savings on New Lines and Trade-Ins     - CNET](https://www.cnet.com/deals/best-galaxy-s23-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

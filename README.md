@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Inside the Google algorithm](https://www.theverge.com/2024/5/31/24168605/google-search-api-leak-openai-media-vergecast)
  - [How Meta revamped Facebook&#39;s feed to show more posts from outside a person&#39;s network of friends and family, in a move to fight TikTok and win back younger users &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/240531/p10#a240531p10)
  - [The Daylight Tablet Returns Computing to Its Hippie Ideals](https://www.wired.com/story/daylight-tablet-computing-hippie-ideals/)
  - [9 Best Earplugs &lpar;2024&rpar;: For Concerts, Sleep, and Listening](https://www.wired.com/gallery/best-earplugs/)
- - [11 Best Organic Mattresses, Toppers, Bedding &lpar;2024&rpar;: Nontoxic and Natural](https://www.wired.com/story/best-organic-mattresses/)
- - [New emoji in iOS 18, iPad Pro, and patented Apple Store trees, on the AppleInsider Podcast](https://appleinsider.com/articles/24/05/31/new-emoji-in-ios-18-ipad-pro-and-patented-apple-store-trees-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [11 Best Organic Mattresses, Toppers, Bedding &lpar;2024&rpar;: Nontoxic and Natural](https://www.wired.com/story/best-organic-mattresses/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

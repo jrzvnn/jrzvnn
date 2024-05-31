@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Meanwhile at the Polish border...](http://9gag.com/gag/a9yLRRL)
  - 😝 [Watch it in a dark place](http://9gag.com/gag/ary4go7)
- - 😝 [Not enough](http://9gag.com/gag/a6ZyO0q)
- - 💣 [There are extremist Muslims, and there are Muslims who quietly support this. There are no other Muslims.](http://9gag.com/gag/aVvWY8M)
- - 😝 [I am sorry. I&#39;d rather be called xenophobe or right wing or whatever if that is the price for living in a save environment.](http://9gag.com/gag/aD23g4B)
- - 👉 [I need a new gaming setup](http://9gag.com/gag/ayN0Bvy)<!-- MEMES:END -->
+ - 💣 [Some people don&#39;t understand](http://9gag.com/gag/a343qZr)
+ - 😝 [FBI OPEN UP](http://9gag.com/gag/ae905y5)
+ - 👉 [Thats why you buy protective gear](http://9gag.com/gag/aO8b7V6)<!-- MEMES:END -->
 
 ---
 

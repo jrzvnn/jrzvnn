@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wow you are incredibly bad at this, how did you get through the casting?](http://9gag.com/gag/a6ZyVNe)
+ - 😝 [They found out](http://9gag.com/gag/a2vY4E1)
  - 😝 [Immersive gaming set.](http://9gag.com/gag/a7oy3D2)
  - 💣 [The pain](http://9gag.com/gag/aW4WqL4)
- - 😝 [They found out](http://9gag.com/gag/a2vY4E1)
- - 👉 [Watch it in a dark place](http://9gag.com/gag/ary4go7)<!-- MEMES:END -->
+ - 😝 [Watch it in a dark place](http://9gag.com/gag/ary4go7)
+ - 👉 [Notice what&#39;s missing](http://9gag.com/gag/ae906Bb)<!-- MEMES:END -->
 
 ---
 

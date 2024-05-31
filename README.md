@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ElevenLabs’ AI generator makes explosions or other sound effects with just a prompt](https://www.theverge.com/2024/5/31/24168898/elevenlabs-prompt-generative-ai-content)
  - [Meta’s AI is summarizing some bizarre Facebook comment sections](https://www.theverge.com/2024/5/31/24168802/meta-ai-facebook-comments-summaries)
  - [Apple may add some text effects to iMessage in iOS 18](https://appleinsider.com/articles/24/05/31/apple-may-some-effects-to-text-to-imessage-in-ios-18?utm_medium=rss)
  - [New video highlights ongoing struggles between Apple and union members](https://appleinsider.com/articles/24/05/31/new-video-highlights-ongoing-struggles-between-apple-and-union-members?utm_medium=rss)
- - [Save Up to $600 Off Your Next Saatva Mattress With This Extended Memorial Day Sale     - CNET](https://www.cnet.com/deals/saatva-memorial-day-deal-2024/#ftag=CAD590a51e)
- - [FCC ends the Affordable Connectivity Program, which helped low-income Americans afford internet service, after the House failed to approve additional funding &lpar;Brian Fung/CNN&rpar;](http://www.techmeme.com/240531/p19#a240531p19)<!-- TECH:END -->
+ - [Save Up to $600 Off Your Next Saatva Mattress With This Extended Memorial Day Sale     - CNET](https://www.cnet.com/deals/saatva-memorial-day-deal-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

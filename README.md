@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This TikTok user got conned by fake AirPods Pro, but you don&#39;t have to get fooled](https://appleinsider.com/articles/24/05/31/this-tiktok-user-got-conned-by-fake-airpods-pro-but-you-dont-have-to-get-fooled?utm_medium=rss)
  - [Inside the Google algorithm](https://www.theverge.com/2024/5/31/24168605/google-search-api-leak-openai-media-vergecast)
  - [How Meta revamped Facebook&#39;s feed to show more posts from outside a person&#39;s network of friends and family, in a move to fight TikTok and win back younger users &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/240531/p10#a240531p10)
  - [The Daylight Tablet Returns Computing to Its Hippie Ideals](https://www.wired.com/story/daylight-tablet-computing-hippie-ideals/)
- - [9 Best Earplugs &lpar;2024&rpar;: For Concerts, Sleep, and Listening](https://www.wired.com/gallery/best-earplugs/)
- - [Get Into Photo Editing With This Luminar Neo Lifetime Bundle at Just $200     - CNET](https://www.cnet.com/deals/get-into-photo-editing-with-this-luminar-neo-lifetime-bundle-at-just-200/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [9 Best Earplugs &lpar;2024&rpar;: For Concerts, Sleep, and Listening](https://www.wired.com/gallery/best-earplugs/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

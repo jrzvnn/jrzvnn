@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google&#39;s AI Overviews Will Always Be Broken. That&#39;s How AI Works](https://www.wired.com/story/google-ai-overviews-broken-how-ai-works/)
+ - [Startup Fable Studio announces Showrunner, a streaming service that lets users watch AI-generated series and create their own series by writing prompts &lpar;Winston Cho/The Hollywood Reporter&rpar;](http://www.techmeme.com/240531/p21#a240531p21)
  - [Meta is notifying Instagram and Facebook EU users that it&#39;s using their data to train its AI models, and users can opt out, &quot;if your objection is honoured&quot; &lpar;Ben Lovejoy/9to5Mac&rpar;](http://www.techmeme.com/240531/p20#a240531p20)
  - [Web Hosting Glossary for Hosting Terms to Know     - CNET](https://www.cnet.com/tech/services-and-software/web-hosting-glossary/#ftag=CAD590a51e)
- - [Blue-Eyed Cicada Is Spotted as Cicada-Geddon Double-Brood Event Continues     - CNET](https://www.cnet.com/science/blue-eyed-cicada-is-spotted-as-cicada-geddon-double-brood-event-continues/#ftag=CAD590a51e)
- - [ElevenLabs’ AI generator makes explosions or other sound effects with just a prompt](https://www.theverge.com/2024/5/31/24168898/elevenlabs-prompt-generative-ai-content)
- - [Best Internet Providers in Sacramento, California     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-sacramento-ca/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Blue-Eyed Cicada Is Spotted as Cicada-Geddon Double-Brood Event Continues     - CNET](https://www.cnet.com/science/blue-eyed-cicada-is-spotted-as-cicada-geddon-double-brood-event-continues/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

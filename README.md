@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [‘Animal Well’ Demonstrates What Gaming Stands to Lose Amid Indie Studio Closures](https://www.wired.com/story/animal-well-future-of-indie-games/)
  - [Windows 11’s new Recall feature has been cracked to run on unsupported hardware](https://www.theverge.com/2024/5/31/24168746/microsoft-windows-11-recall-ai-feature-unsupported-hardware)
  - [Rest of World retracts an article on WhatsApp misinformation &quot;tip lines&quot; in India after several fact-checking orgs detail how it was &quot;riddled with inaccuracies&quot; &lpar;Joshua Benton/Nieman Lab&rpar;](http://www.techmeme.com/240531/p16#a240531p16)
  - [Dyson&#39;s Airstrait and Airwrap Hair Tools Are $100 Off Right Now](https://www.wired.com/story/dyson-hair-tool-deals-may-2024/)
- - [The Daylight Tablet Returns Computing to Its Hippie Ideals](https://www.wired.com/story/daylight-tablet-computing-hippie-ideals/)
- - [Windows on Arm and Copilot Plus could be big for PC gaming](https://www.theverge.com/2024/5/31/24168566/windows-arm-copilot-plus-gaming-pcs-handhelds)<!-- TECH:END -->
+ - [The Daylight Tablet Returns Computing to Its Hippie Ideals](https://www.wired.com/story/daylight-tablet-computing-hippie-ideals/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

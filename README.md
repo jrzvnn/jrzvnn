@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dr. Possible put him in hard place](http://9gag.com/gag/aPA49Mq)
- - 😝 [Ok that&#39;s awesome](http://9gag.com/gag/aGywDo0)
- - 💣 [Watch it in a dark place](http://9gag.com/gag/ary4go7)
- - 😝 [Wow you are incredibly bad at this, how did you get through the casting?](http://9gag.com/gag/a6ZyVNe)
- - 👉 [Burger](http://9gag.com/gag/aZZxpNQ)<!-- MEMES:END -->
+ - 😝 [Play stupid games, win stupid prizes x2](http://9gag.com/gag/aBy3xPP)
+ - 😝 [Watch it in a dark place](http://9gag.com/gag/ary4go7)
+ - 💣 [Notice what&#39;s missing](http://9gag.com/gag/ae906Bb)
+ - 😝 [Title goes here](http://9gag.com/gag/aW4Wqx2)
+ - 👉 [Wow you are incredibly bad at this, how did you get through the casting?](http://9gag.com/gag/a6ZyVNe)<!-- MEMES:END -->
 
 ---
 

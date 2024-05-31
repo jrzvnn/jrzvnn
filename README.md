@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hacking group ShinyHunters offers to sell alleged data of Santander staff and 30M customers; Santander warned on May 14 that a database had been compromised &lpar;Owen Walker/Financial Times&rpar;](http://www.techmeme.com/240531/p24#a240531p24)
+ - [Alexa will soon lose a popular shopping list feature](https://www.theverge.com/2024/5/31/24168681/amazon-alexa-third-party-shopping-list-integration-going-away)
  - [Filing: Ticketmaster confirms &quot;unauthorized activity within a third-party cloud database&quot;, after a hacking group advertised alleged data of 560M users for sale &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/240531/p23#a240531p23)
  - [Netflix’s Mike Tyson vs. Jake Paul fight is postponed](https://www.theverge.com/2024/5/31/24169091/netflix-mike-tyson-jake-paul-boxing-rescheduled)
- - [Global foldable phone shipments were up 49% YoY in Q1, marking its highest rate of increase in six quarters; Huawei led with a 35% share, overtaking Samsung &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/240531/p22#a240531p22)
- - [Massive Ticketmaster, Santander data breaches linked to Snowflake cloud storage](https://www.theverge.com/2024/5/31/24168984/ticketmaster-santander-data-breach-snowflake-cloud-storage)
- - [Best Printer Deals: Nab Big Savings on Canon, Epson and More     - CNET](https://www.cnet.com/deals/best-printer-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Global foldable phone shipments were up 49% YoY in Q1, marking its highest rate of increase in six quarters; Huawei led with a 35% share, overtaking Samsung &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/240531/p22#a240531p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

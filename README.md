@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: Ticketmaster confirms &quot;unauthorized activity within a third-party cloud database&quot;, after a hacking group advertised alleged data of 560M users for sale &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/240531/p23#a240531p23)
+ - [Netflix’s Mike Tyson vs. Jake Paul fight is postponed](https://www.theverge.com/2024/5/31/24169091/netflix-mike-tyson-jake-paul-boxing-rescheduled)
  - [Global foldable phone shipments were up 49% YoY in Q1, marking its highest rate of increase in six quarters; Huawei led with a 35% share, overtaking Samsung &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/240531/p22#a240531p22)
  - [Massive Ticketmaster, Santander data breaches linked to Snowflake cloud storage](https://www.theverge.com/2024/5/31/24168984/ticketmaster-santander-data-breach-snowflake-cloud-storage)
- - [Best Printer Deals: Nab Big Savings on Canon, Epson and More     - CNET](https://www.cnet.com/deals/best-printer-deals/#ftag=CAD590a51e)
- - [Best Vitamins for Hair Growth in 2024     - CNET](https://www.cnet.com/health/nutrition/best-vitamins-for-hair-growth/#ftag=CAD590a51e)
- - [Sony Days of Play Sale: Consoles, Games, and More](https://www.wired.com/story/sony-days-of-play-sale-2024/)<!-- TECH:END -->
+ - [Best Printer Deals: Nab Big Savings on Canon, Epson and More     - CNET](https://www.cnet.com/deals/best-printer-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Yeah this seems \u2018bout right\u2026](http://9gag.com/gag/ae90eGO)
+ - 😝 [Watch it in a dark place](http://9gag.com/gag/ary4go7)
+ - 💣 [Wow you are incredibly bad at this, how did you get through the casting?](http://9gag.com/gag/a6ZyVNe)
  - 😝 [The pain](http://9gag.com/gag/aW4WqL4)
- - 😝 [Title goes here](http://9gag.com/gag/aW4Wqx2)
- - 💣 [I&#39;m afraid to ask, but why did they count the goal at this video?](http://9gag.com/gag/aE01Bd9)
- - 😝 [Wow you are incredibly bad at this, how did you get through the casting?](http://9gag.com/gag/a6ZyVNe)
- - 👉 [Notice what&#39;s missing](http://9gag.com/gag/ae906Bb)<!-- MEMES:END -->
+ - 👉 [Getting lewd](http://9gag.com/gag/a343jN8)<!-- MEMES:END -->
 
 ---
 

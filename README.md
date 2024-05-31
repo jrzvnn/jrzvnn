@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m afraid to ask, but why did they count the goal at this video?](http://9gag.com/gag/aE01Bd9)
- - 😝 [Watch it in a dark place](http://9gag.com/gag/ary4go7)
- - 💣 [Best kind of prank](http://9gag.com/gag/an7KbKo)
- - 😝 [There is still hope](http://9gag.com/gag/aMVrANW)
- - 👉 [Being single in 37](http://9gag.com/gag/agmvXr1)<!-- MEMES:END -->
+ - 😝 [That made me smile \u263a](http://9gag.com/gag/aMVrAK6)
+ - 😝 [Bear attempts to eat pigs, little did the bear know, these pigs don\u2019t mess around](http://9gag.com/gag/ary45Bp)
+ - 💣 [Here&#39;s your potato](http://9gag.com/gag/ary45zB)
+ - 😝 [Best kind of prank](http://9gag.com/gag/an7KbKo)
+ - 👉 [The power of sandwiches](http://9gag.com/gag/a87YprY)<!-- MEMES:END -->
 
 ---
 

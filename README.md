@@ -173,10 +173,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Wow you are incredibly bad at this, how did you get through the casting?](http://9gag.com/gag/a6ZyVNe)
+ - 😝 [Immersive gaming set.](http://9gag.com/gag/a7oy3D2)
+ - 💣 [The pain](http://9gag.com/gag/aW4WqL4)
  - 😝 [They found out](http://9gag.com/gag/a2vY4E1)
- - 😝 [Yeah this seems \u2018bout right\u2026](http://9gag.com/gag/ae90eGO)
- - 💣 [The new California](http://9gag.com/gag/aMVrw5X)
- - 😝 [You can&#39;t park there mate](http://9gag.com/gag/aE01nmN)
  - 👉 [Watch it in a dark place](http://9gag.com/gag/ary4go7)<!-- MEMES:END -->
 
 ---

@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft Recall Alternatives That Remember Everything on Your Screen: Windrecorder, Rewind](https://www.wired.com/story/microsoft-recall-alternatives/)
+ - [This TikTok user got conned by fake AirPods Pro, but you don&#39;t have to get fooled](https://appleinsider.com/articles/24/05/31/this-tiktok-user-got-conned-by-fake-airpods-pro-but-you-dont-have-to-get-fooled?utm_medium=rss)
  - [European Commission designates Temu as a &quot;very large online platform&quot; and says the company will have to comply with DSA rules by the end of September 2024 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240531/p9#a240531p9)
- - [Touch Controls on Stoves Suck. Knobs Are Way Better](https://www.wired.com/story/touch-controls-on-stoves-suck-knobs-are-way-better/)
- - [Spain&#39;s data protection regulator AEPD bans Meta from launching election features on Facebook and Instagram in the country, citing GDPR concerns &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240531/p8#a240531p8)
- - [The Limits of the AI-Generated &#39;Eyes on Rafah&#39; Image](https://www.wired.com/story/the-limits-of-the-ai-generated-eyes-on-rafah-image/)
- - [iOS 18 Freeform app getting giant navigation &amp; object positioning upgrades](https://appleinsider.com/articles/24/05/31/ios-18-freeform-app-getting-giant-navigation-object-positioning-upgrades?utm_medium=rss)<!-- TECH:END -->
+ - [This Popular Berry Is Known to Have the Most Pesticides of Any Food     - CNET](https://www.cnet.com/news/this-popular-berry-is-found-to-have-the-most-pesticides-of-any-food/#ftag=CAD590a51e)
+ - [Touch Controls on Stoves Suck. Knobs Are Way Better](https://www.wired.com/story/touch-controls-on-stoves-suck-knobs-are-way-better/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

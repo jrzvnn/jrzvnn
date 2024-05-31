@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I need a new gaming setup](http://9gag.com/gag/ayN0Bvy)
- - 😝 [Wow you are incredibly bad at this, how did you get through the casting?](http://9gag.com/gag/a6ZyVNe)
- - 💣 [The pain](http://9gag.com/gag/aW4WqL4)
- - 😝 [Some people don&#39;t understand](http://9gag.com/gag/a343qZr)
- - 👉 [Religion explained in 52 seconds.](http://9gag.com/gag/aPA4Y8G)<!-- MEMES:END -->
+ - 😝 [Islamist attacked with a knife in Germany! The conservative politician and anti-Islam activist Michael St\u00fcrzenberger was stabbed during a public meeting in Mannheim. A police officers was also stabbed in the neck. &lpar;Video in comments&rpar; .](http://9gag.com/gag/azxE9zb)
+ - 😝 [Another Knife attack in Mannheim, Germany. Anti Islam preacher Michael St\u00fcrzenberger, as well as at least two others stabbed live on Youtube on the open street in Mannheim.](http://9gag.com/gag/a5QPMjL)
+ - 💣 [Watch it in a dark place](http://9gag.com/gag/ary4go7)
+ - 😝 [Natalie Reynolds, convinced a mentally ill homeless woman who cant swim to jump in a lake for $20.00. And she is trying to get the footage removed online because she and her squad of simps could get charged with attempted manslaughter.](http://9gag.com/gag/aNDZ16w)
+ - 👉 [Not enough](http://9gag.com/gag/a6ZyO0q)<!-- MEMES:END -->
 
 ---
 

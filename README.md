@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony Days of Play Sale: Consoles, Games, and More](https://www.wired.com/story/sony-days-of-play-sale-2024/)
  - [Get a year of Peacock streaming on your Apple TV for $19.99](https://appleinsider.com/articles/24/05/31/get-a-year-of-peacock-streaming-on-your-apple-tv-for-1999?utm_medium=rss)
+ - [Best Mattresses for Heavy People for 2024     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-heavy-people/#ftag=CAD590a51e)
  - [Google&#39;s AI Overviews Will Always Be Broken. That&#39;s How AI Works](https://www.wired.com/story/google-ai-overviews-broken-how-ai-works/)
- - [Startup Fable Studio announces Showrunner, a streaming service that lets users watch AI-generated series and create their own series by writing prompts &lpar;Winston Cho/The Hollywood Reporter&rpar;](http://www.techmeme.com/240531/p21#a240531p21)
- - [Meta is notifying Instagram and Facebook EU users that it&#39;s using their data to train its AI models, and users can opt out, &quot;if your objection is honoured&quot; &lpar;Ben Lovejoy/9to5Mac&rpar;](http://www.techmeme.com/240531/p20#a240531p20)
- - [Web Hosting Glossary for Hosting Terms to Know     - CNET](https://www.cnet.com/tech/services-and-software/web-hosting-glossary/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Cheap Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-cheap-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

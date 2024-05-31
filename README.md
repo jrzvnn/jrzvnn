@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yeah this seems \u2018bout right\u2026](http://9gag.com/gag/ae90eGO)
- - 😝 [Watch it in a dark place](http://9gag.com/gag/ary4go7)
- - 💣 [Wow you are incredibly bad at this, how did you get through the casting?](http://9gag.com/gag/a6ZyVNe)
- - 😝 [The pain](http://9gag.com/gag/aW4WqL4)
- - 👉 [Getting lewd](http://9gag.com/gag/a343jN8)<!-- MEMES:END -->
+ - 😝 [They found out](http://9gag.com/gag/a2vY4E1)
+ - 😝 [Getting lewd](http://9gag.com/gag/a343jN8)
+ - 💣 [Watch it in a dark place](http://9gag.com/gag/ary4go7)
+ - 😝 [Wow you are incredibly bad at this, how did you get through the casting?](http://9gag.com/gag/a6ZyVNe)
+ - 👉 [`No one can pass, it&#39;s time to pray to Allah, streets are ours!` Denmark, Wake up Europe!!](http://9gag.com/gag/awyKnRr)<!-- MEMES:END -->
 
 ---
 

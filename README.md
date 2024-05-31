@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bear attempts to eat pigs, little did the bear know, these pigs don\u2019t mess around](http://9gag.com/gag/ary45Bp)
- - 😝 [Here&#39;s your potato](http://9gag.com/gag/ary45zB)
- - 💣 [The power of sandwiches](http://9gag.com/gag/a87YprY)
+ - 😝 [Things you might not get away with. Nr. 16](http://9gag.com/gag/ae90b1v)
  - 😝 [I&#39;m afraid to ask, but why did they count the goal at this video?](http://9gag.com/gag/aE01Bd9)
- - 👉 [Female behavior](http://9gag.com/gag/a1mebwD)<!-- MEMES:END -->
+ - 💣 [Ok that&#39;s awesome](http://9gag.com/gag/aGywDo0)
+ - 😝 [Notice what&#39;s missing](http://9gag.com/gag/ae906Bb)
+ - 👉 [Watch it in a dark place](http://9gag.com/gag/ary4go7)<!-- MEMES:END -->
 
 ---
 

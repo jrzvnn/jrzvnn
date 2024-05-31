@@ -173,10 +173,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Here&#39;s your potato](http://9gag.com/gag/ary45zB)
- - 😝 [Female behavior](http://9gag.com/gag/a1mebwD)
- - 💣 [You son of a b*tch I&#39;m in](http://9gag.com/gag/aGywjP5)
- - 😝 [Recently divorced. Brought a PS4 from a basement and started a game that never had time to start.](http://9gag.com/gag/azxEqNK)
+ - 😝 [Islamist attacked with a knife in Germany! The conservative politician and anti-Islam activist Michael St\u00fcrzenberger was stabbed during a public meeting in Mannheim. A police officers was also stabbed in the neck. &lpar;Video in comments&rpar; .](http://9gag.com/gag/azxE9zb)
+ - 😝 [I&#39;m afraid to ask, but why did they count the goal at this video?](http://9gag.com/gag/aE01Bd9)
+ - 💣 [Some people don&#39;t understand](http://9gag.com/gag/a343qZr)
+ - 😝 [Watch it in a dark place](http://9gag.com/gag/ary4go7)
  - 👉 [The pain](http://9gag.com/gag/aW4WqL4)<!-- MEMES:END -->
 
 ---

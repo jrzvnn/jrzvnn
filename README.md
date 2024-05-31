@@ -173,11 +173,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They found out](http://9gag.com/gag/a2vY4E1)
- - 😝 [Getting lewd](http://9gag.com/gag/a343jN8)
- - 💣 [Watch it in a dark place](http://9gag.com/gag/ary4go7)
- - 😝 [Wow you are incredibly bad at this, how did you get through the casting?](http://9gag.com/gag/a6ZyVNe)
- - 👉 [`No one can pass, it&#39;s time to pray to Allah, streets are ours!` Denmark, Wake up Europe!!](http://9gag.com/gag/awyKnRr)<!-- MEMES:END -->
+ - 😝 [Bear attempts to eat pigs, little did the bear know, these pigs don\u2019t mess around](http://9gag.com/gag/ary45Bp)
+ - 😝 [Here&#39;s your potato](http://9gag.com/gag/ary45zB)
+ - 💣 [The power of sandwiches](http://9gag.com/gag/a87YprY)
+ - 😝 [I&#39;m afraid to ask, but why did they count the goal at this video?](http://9gag.com/gag/aE01Bd9)
+ - 👉 [Female behavior](http://9gag.com/gag/a1mebwD)<!-- MEMES:END -->
 
 ---
 

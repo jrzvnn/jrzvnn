@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Tesla prepares to register its FSD with Chinese authorities as it plans a rollout in 2024 and selling the software as a monthly subscription in China &lpar;Reuters&rpar;](http://www.techmeme.com/240531/p3#a240531p3)
  - [Researchers claim just 2,107 US voters, mostly older, white Republican women, accounted for spreading 80% of the fake news on Twitter during the 2020 election &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/240531/p2#a240531p2)
+ - [Best Internet Providers in Grand Junction, Colorado     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-grand-junction-co/#ftag=CAD590a51e)
  - [The OnePlus Watch 2 broke the nerdy covenant that smartwatch crowns must scroll](https://www.theverge.com/2024/5/31/24166415/oneplus-watch-2-digital-crown-smartwatches-button-of-the-month)
- - [Best Internet Providers in Raleigh, North Carolina     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-raleigh-nc/#ftag=CAD590a51e)
- - [A look at the different approaches to AI integration and modularization taken by Google, AWS, Microsoft, Nvidia, Meta, and Databricks, and the implications &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/240531/p1#a240531p1)
- - [Over 600K Routers Were Hacked in Three Days Late Last Year. Here’s What Happened and How We Can Learn From It     - CNET](https://www.cnet.com/home/internet/over-600k-routers-were-hacked-in-three-days-late-last-year-heres-what-happened-and-how-we-can-learn-from-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Raleigh, North Carolina     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-raleigh-nc/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

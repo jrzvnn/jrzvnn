@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix&#39;s Secret Menu Lets You Find Exactly What You Want to Watch     - CNET](https://www.cnet.com/tech/services-and-software/netflixs-secret-menu-lets-you-find-exactly-what-you-want-to-watch/#ftag=CAD590a51e)
  - [Y-Brush DuoBrush Sonic Toothbrush Review: U-Shaped and Sonic Brush Heads](https://www.wired.com/review/y-brush-duobrush/)
- - [Android Now Lets You Edit Text Messages](https://www.wired.com/story/android-now-lets-you-edit-text-messages/)
- - [This walking app let me whack my co-workers with a baseball bat](https://www.theverge.com/24167330/stompers-ios-walking-app-soren-iverson)
- - [Samsung Galaxy A55 Review: A Solid Choice With a Few Key Misses     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-a55-review-a-solid-choice-with-a-few-key-misses/#ftag=CAD590a51e)
- - [TikTok Cults Exist? &#39;Dancing for the Devil&#39; Does a Deep Dive     - CNET](https://www.cnet.com/tech/services-and-software/tiktok-cults-exist-dancing-for-the-devil-does-deep-dive/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Streaming in June 2024 Is Peak TV, So You&#39;ll Need All These Services     - CNET](https://www.cnet.com/tech/services-and-software/streaming-in-june-2024-is-peak-tv-so-youll-need-all-these-services/#ftag=CAD590a51e)
+ - [New Month, New Reminder to Clear Your iPhone Cache     - CNET](https://www.cnet.com/tech/services-and-software/new-month-new-reminder-to-clear-your-iphone-cache/#ftag=CAD590a51e)
+ - [Will Siri Become More Like ChatGPT? All Eyes on Apple&#39;s WWDC     - CNET](https://www.cnet.com/tech/mobile/will-siri-become-more-like-chatgpt-all-eyes-on-apples-wwdc/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

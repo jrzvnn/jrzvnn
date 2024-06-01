@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The see-through Beats Studio Buds Plus have hit their best price of the year](https://www.theverge.com/2024/6/1/24168671/beats-studio-buds-plus-elago-magsafe-ms-w5-charging-stand-deal-sale)
  - [How to watch NASA and Boeing’s first Starliner launch today](https://www.theverge.com/2024/6/1/24169334/boeing-starliner-launch-livestream-how-to-watch)
  - [HMD Vibe Review: OK Performance, Meh Everything Else](https://www.wired.com/review/hmd-vibe/)
  - [The Ticketmaster Data Breach May Be Just the Beginning](https://www.wired.com/story/snowflake-breach-ticketmaster-santander-ticketek-hacked/)
- - [Content creators are amassing audiences of thousands on Twitch by covering political news and raising funds for Palestinians, as other platforms eschew politics &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/240601/p7#a240601p7)
- - [Don&#39;t Feel Good After Eating That Leftover Rice? Here&#39;s Why     - CNET](https://www.cnet.com/how-to/dont-feel-good-after-eating-leftover-rice-heres-why/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Content creators are amassing audiences of thousands on Twitch by covering political news and raising funds for Palestinians, as other platforms eschew politics &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/240601/p7#a240601p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

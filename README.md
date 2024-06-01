@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CISPE denies a report that it was nearing a settlement with Microsoft to withdraw its EU antitrust complaint about Microsoft&#39;s cloud licensing practices &lpar;Reuters&rpar;](http://www.techmeme.com/240601/p11#a240601p11)
  - [How TikTok influencers helped a self-published author sell 1M+ copies of her book, including ~700K on the TikTok shop, showing how TikTok changed book marketing &lpar;Alexandra Alter/New York Times&rpar;](http://www.techmeme.com/240601/p10#a240601p10)
  - [Boeing’s first crewed Starliner launch delayed again over computer issues](https://www.theverge.com/2024/6/1/24169334/boeing-starliner-launch-livestream-how-to-watch)
  - [6 Foods That Are More Hydrating Than Water, According to Science     - CNET](https://www.cnet.com/health/nutrition/6-foods-that-are-more-hydrating-than-water-according-to-experts/#ftag=CAD590a51e)
- - [Best Rowing Machines for 2024     - CNET](https://www.cnet.com/health/fitness/best-rowing-machine/#ftag=CAD590a51e)
- - [Which Plastics Are Actually Recyclable?     - CNET](https://www.cnet.com/science/which-plastics-are-actually-recyclable/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Rowing Machines for 2024     - CNET](https://www.cnet.com/health/fitness/best-rowing-machine/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Ticketmaster Data Breach May Be Just the Beginning](https://www.wired.com/story/snowflake-breach-ticketmaster-santander-ticketek-hacked/)
  - [Content creators are amassing audiences of thousands on Twitch by covering political news and raising funds for Palestinians, as other platforms eschew politics &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/240601/p7#a240601p7)
  - [3 Best Smart Displays &lpar;2024&rpar;: Google Assistant and Amazon Alexa](https://www.wired.com/gallery/best-smart-displays/)
  - [Voices from Gaza are coming through in podcasts](https://www.theverge.com/2024/6/1/24168226/israel-hamas-war-audio-reporting-podcasts-gaza)
- - [Netflix&#39;s Secret Menu Lets You Find Exactly What You Want to Watch     - CNET](https://www.cnet.com/tech/services-and-software/netflixs-secret-menu-lets-you-find-exactly-what-you-want-to-watch/#ftag=CAD590a51e)
- - [Y-Brush DuoBrush Sonic Toothbrush Review: U-Shaped and Sonic Brush Heads](https://www.wired.com/review/y-brush-duobrush/)<!-- TECH:END -->
+ - [Netflix&#39;s Secret Menu Lets You Find Exactly What You Want to Watch     - CNET](https://www.cnet.com/tech/services-and-software/netflixs-secret-menu-lets-you-find-exactly-what-you-want-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

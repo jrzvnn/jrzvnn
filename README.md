@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Talks about the dangers of Islam ... gets stabbed](http://9gag.com/gag/aLnPpp6)
- - 😝 [Today is a great day to censor the truth on 9gag](http://9gag.com/gag/apR0mzD)
- - 💣 [It&#39;s not new but it&#39;s new for me. Been farming for few years now. Bought my first mid size tractor](http://9gag.com/gag/a4Pd3ev)
- - 😝 [\u201cAllah, Allah, who f*ck is Allah\u201d, shout British patriots in London. Also little patriots join in cry.](http://9gag.com/gag/awyKzNR)
- - 👉 [You love cats, right?](http://9gag.com/gag/aKGP67W)<!-- MEMES:END -->
+ - 😝 [Wholesome friendship](http://9gag.com/gag/aqyNngY)
+ - 😝 [Artist dreams of nightmarish tiger, other artists make fan after of it.](http://9gag.com/gag/a0eLNmZ)
+ - 💣 [That moment of realization](http://9gag.com/gag/aqyNnm7)
+ - 😝 [It\u2019s gonna be biblical](http://9gag.com/gag/a4Pd7d6)
+ - 👉 [When you realize why that super hot girl was single and willing to date you was because she&#39;s a psycho maniac](http://9gag.com/gag/aGywp90)<!-- MEMES:END -->
 
 ---
 

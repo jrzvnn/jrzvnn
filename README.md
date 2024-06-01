@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just in case anyone wanted to see the video of that is being suppressed in the media and on 9gag](http://9gag.com/gag/aO8b763)
+ - 😝 [I know you guys would be amazed by this.](http://9gag.com/gag/avygAGW)
  - 😝 [Giving a show for their fans](http://9gag.com/gag/aW4WjOK)
- - 💣 [It is what it is!](http://9gag.com/gag/aO8b32E)
- - 😝 [We do immigration all wrong.](http://9gag.com/gag/amo0Ppo)
- - 👉 [Thought?](http://9gag.com/gag/aGywpD6)<!-- MEMES:END -->
+ - 💣 [Thought?](http://9gag.com/gag/aGywpD6)
+ - 😝 [It is what it is!](http://9gag.com/gag/aO8b32E)
+ - 👉 [We do immigration all wrong.](http://9gag.com/gag/amo0Ppo)<!-- MEMES:END -->
 
 ---
 

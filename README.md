@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AirTag crucial to recovery of $5 million of stolen tools in Metro DC](https://appleinsider.com/articles/24/06/01/airtag-crucial-to-recovery-of-5-million-of-stolen-tools-in-metro-dc?utm_medium=rss)
+ - [The Verge’s 2024 Father’s Day gift guide](https://www.theverge.com/24153276/best-fathers-day-gift-ideas-2024-dad-tech-gadgets)
+ - [Filing: Meta agrees to settle a 2022 lawsuit by Texas accusing Meta of using facial recognition tech to collect biometric data of Texans without their consent &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/240531/p27#a240531p27)
  - [President Biden vetoes a bill overturning SAB 121, a controversial SEC bulletin that establishes accounting standards for companies that custody crypto &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/240531/p26#a240531p26)
- - [Live Nation took 11 days to confirm the massive Ticketmaster data breach](https://www.theverge.com/2024/5/31/24169112/ticketmaster-data-breach-confirmed-details-live-nation)
- - [Alexa will soon lose a popular shopping list feature](https://www.theverge.com/2024/5/31/24168681/amazon-alexa-third-party-shopping-list-integration-going-away)
- - [Researchers say a threat actor claims to have hacked Ticketmaster and Santander using stolen credentials of a Snowflake employee; Snowflake disputes the claims &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240531/p25#a240531p25)
- - [Hacking group ShinyHunters offers to sell alleged data of Santander staff and 30M customers; Santander warned on May 14 that a database had been compromised &lpar;Owen Walker/Financial Times&rpar;](http://www.techmeme.com/240531/p24#a240531p24)<!-- TECH:END -->
+ - [Live Nation took 11 days to confirm the massive Ticketmaster data breach](https://www.theverge.com/2024/5/31/24169112/ticketmaster-data-breach-confirmed-details-live-nation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with the pseudonymous Pliny the Prompter, who is well known in the AI community for jailbreaking leading LLMs, on what motivates them, their goals, and more &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240601/p4#a240601p4)
  - [YC is lobbying in Washington to support &quot;Little Tech&quot; over concerns that AI regulations meant to head off harms will instead help Big Tech maintain its lead &lpar;Politico&rpar;](http://www.techmeme.com/240601/p3#a240601p3)
  - [Sources: Microsoft is discussing a deal with CISPE, which could include a multimillion-euro payment to get the cloud lobby to drop its EU antitrust complaint &lpar;Politico&rpar;](http://www.techmeme.com/240601/p2#a240601p2)
  - [Jio Financial Services, part of Reliance, launches the JioFinance app to provide digital banking, bill payments, and other services in a crowded Indian market &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240601/p1#a240601p1)
- - [LA-based Webtoon, owned by South Korea&#39;s Naver, files for a US IPO; sources: the online comics platform could seek to raise up to $500M at a $3B-$4B valuation &lpar;Michael Hytha/Bloomberg&rpar;](http://www.techmeme.com/240531/p29#a240531p29)
- - [Today&#39;s NYT Connections Hints and Answers: Help for June 1, #356     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hints-answer-help-for-june-1-356/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [LA-based Webtoon, owned by South Korea&#39;s Naver, files for a US IPO; sources: the online comics platform could seek to raise up to $500M at a $3B-$4B valuation &lpar;Michael Hytha/Bloomberg&rpar;](http://www.techmeme.com/240531/p29#a240531p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

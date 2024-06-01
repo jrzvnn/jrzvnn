@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fun in US never stop](http://9gag.com/gag/aRBP0R7)
- - 😝 [Hello, hello, leave this man alone, hello hello hello!](http://9gag.com/gag/aE01gXe)
- - 💣 [Watch it in a dark place](http://9gag.com/gag/ary4go7)
- - 😝 [This is why the Sea Shepard never visited Norway again. The Royal Norwegian Coast Guard don&#39;t mess around.](http://9gag.com/gag/aQz4ddr)
- - 👉 [You try to stall for time, but your rival sees his opportunity.](http://9gag.com/gag/aBy3gwP)<!-- MEMES:END -->
+ - 😝 [Title goes here](http://9gag.com/gag/aW4Wqx2)
+ - 😝 [Some people have too much money.](http://9gag.com/gag/a4PdbD6)
+ - 💣 [Wow you are incredibly bad at this, how did you get through the casting?](http://9gag.com/gag/a6ZyVNe)
+ - 😝 [He has one job](http://9gag.com/gag/a343KD1)
+ - 👉 [This is why the Sea Shepard never visited Norway again. The Royal Norwegian Coast Guard don&#39;t mess around.](http://9gag.com/gag/aQz4ddr)<!-- MEMES:END -->
 
 ---
 

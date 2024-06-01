@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m afraid to ask, but why did they count the goal at this video?](http://9gag.com/gag/aE01Bd9)
- - 😝 [It&#39;s an old one, I Apollo-gize](http://9gag.com/gag/amo05Ly)
- - 💣 [Islamist attacked with a knife in Germany! The conservative politician and anti-Islam activist Michael St\u00fcrzenberger was stabbed during a public meeting in Mannheim. A police officers was also stabbed in the neck. &lpar;Video in comments&rpar; .](http://9gag.com/gag/azxE9zb)
- - 😝 [Taiwan makers almost all high quality chips](http://9gag.com/gag/aE01B1M)
- - 👉 [Meanwhile at the Polish border...](http://9gag.com/gag/a9yLRRL)<!-- MEMES:END -->
+ - 😝 [Watch it in a dark place](http://9gag.com/gag/ary4go7)
+ - 😝 [Thumbs up emoji is evil , as said gen Z](http://9gag.com/gag/aE01gmp)
+ - 💣 [I am sorry. I&#39;d rather be called xenophobe or right wing or whatever if that is the price for living in a save environment.](http://9gag.com/gag/aD23g4B)
+ - 😝 [Congrats, you just played yourself](http://9gag.com/gag/agmvnen)
+ - 👉 [Not enough](http://9gag.com/gag/a6ZyO0q)<!-- MEMES:END -->
 
 ---
 

@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Website Builder for 2024: Reviewed by Our Experts     - CNET](https://www.cnet.com/tech/services-and-software/best-website-builder/#ftag=CAD590a51e)
+ - [Best Chest Strap Heart-Rate Monitors for 2024     - CNET](https://www.cnet.com/health/fitness/best-chest-strap-heart-rate-monitors/#ftag=CAD590a51e)
  - [Sources: a16z and other investors in the fintech Synapse, which filed for bankruptcy in early May, were aware of recordkeeping discrepancies for years &lpar;Michael Roddan/The Information&rpar;](http://www.techmeme.com/240601/p9#a240601p9)
  - [Netflix’s Tomb Raider anime starts streaming in October](https://www.theverge.com/2024/6/1/24168998/netflix-tomb-raider-anime-release-date)
- - [Best Buy&#39;s $400 discount on Apple&#39;s 15-inch MacBook Air ends June 2](https://appleinsider.com/articles/24/06/01/best-buys-400-discount-on-apples-15-inch-macbook-air-ends-june-2?utm_medium=rss)
- - [Five indicted in $12M fake Apple devices fraud case in southern California](https://appleinsider.com/articles/24/06/01/five-indicted-in-12m-fake-apple-devices-fraud-case-in-southern-california?utm_medium=rss)
- - [Get Lifetime Access to This American Sign Language Course for Only $16     - CNET](https://www.cnet.com/deals/get-lifetime-access-to-this-american-sign-language-course-for-only-16/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Score This Ring Video Doorbell and Indoor Cam for $20 Off at Amazon Right Now     - CNET](https://www.cnet.com/deals/score-this-ring-video-doorbell-and-indoor-cam-for-20-off-at-amazon-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

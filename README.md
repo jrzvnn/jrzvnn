@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Natalie Reynolds, convinced a mentally ill homeless woman who cant swim to jump in a lake for $20.00. And she is trying to get the footage removed online because she and her squad of simps could get charged with attempted manslaughter.](http://9gag.com/gag/aNDZ16w)
- - 😝 [That moment of realization](http://9gag.com/gag/aqyNnm7)
- - 💣 [You try to stall for time, but your rival sees his opportunity.](http://9gag.com/gag/aBy3gwP)
  - 😝 [Religion explained in 52 seconds.](http://9gag.com/gag/aPA4Y8G)
- - 👉 [Artist dreams of nightmarish tiger, other artists make fan after of it.](http://9gag.com/gag/a0eLNmZ)<!-- MEMES:END -->
+ - 😝 [Wholesome friendship](http://9gag.com/gag/aqyNngY)
+ - 💣 [Artist dreams of nightmarish tiger, other artists make fan after of it.](http://9gag.com/gag/a0eLNmZ)
+ - 😝 [Natalie Reynolds, convinced a mentally ill homeless woman who cant swim to jump in a lake for $20.00. And she is trying to get the footage removed online because she and her squad of simps could get charged with attempted manslaughter.](http://9gag.com/gag/aNDZ16w)
+ - 👉 [Do we have the name of this inferior human being?](http://9gag.com/gag/a5QPWrr)<!-- MEMES:END -->
 
 ---
 

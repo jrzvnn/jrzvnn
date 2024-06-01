@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Content creators are posting videos on Douyin giving Chinese migrants step-by-step instructions on how to get to the United States through Latin America &lpar;April Xu/Documented&rpar;](http://www.techmeme.com/240601/p6#a240601p6)
+ - [Mysterious Hack Destroyed 600,000 Internet Routers](https://www.wired.com/story/mysterious-hack-600000-routers-destroyed/)
  - [How to Make Espresso at Home &lpar;2024&rpar;](https://www.wired.com/story/how-to-make-espresso/)
- - [Power Grids Under Pressure: US Areas at Risk of Blackouts During the Summer     - CNET](https://www.cnet.com/home/energy-and-utilities/power-grids-under-pressure-us-areas-at-risk-of-blackouts-during-the-summer/#ftag=CAD590a51e)
- - [What to expect at Computex 2024, where the CEOs of Nvidia, AMD, Intel, Qualcomm, and Arm are speaking, as AI hardware products like AI PCs take center stage &lpar;Bloomberg&rpar;](http://www.techmeme.com/240601/p5#a240601p5)
- - [Bluetti SwapSolar review: power and chill with swappable batteries](https://www.theverge.com/24145138/multicooler-ac180t-modular-battery-review-price-specs)
- - [Q&amp;A with the pseudonymous Pliny the Prompter, who is well known in the AI community for jailbreaking leading LLMs, on what motivates them, their goals, and more &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240601/p4#a240601p4)<!-- TECH:END -->
+ - [Save Big This Summer: Energy-Efficient Curtains, Blinds and Drapes     - CNET](https://www.cnet.com/how-to/save-big-this-summer-energy-efficient-curtains-blinds-and-drapes/#ftag=CAD590a51e)
+ - [Power Grids Under Pressure: US Areas at Risk of Blackouts During the Summer     - CNET](https://www.cnet.com/home/energy-and-utilities/power-grids-under-pressure-us-areas-at-risk-of-blackouts-during-the-summer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

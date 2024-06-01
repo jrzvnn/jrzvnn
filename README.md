@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [You try to stall for time, but your rival sees his opportunity.](http://9gag.com/gag/aBy3gwP)
  - 😝 [Religion explained in 52 seconds.](http://9gag.com/gag/aPA4Y8G)
- - 😝 [How to get out of a friend zone.](http://9gag.com/gag/ae905P5)
- - 💣 [Meanwhile at the Polish border...](http://9gag.com/gag/a9yLRRL)
- - 😝 [Title goes here](http://9gag.com/gag/aW4Wqx2)
- - 👉 [Artist dreams of nightmarish tiger, other artists make fan after of it.](http://9gag.com/gag/a0eLNmZ)<!-- MEMES:END -->
+ - 💣 [How does this even happen?](http://9gag.com/gag/a87Y8P6)
+ - 😝 [I need a new gaming setup](http://9gag.com/gag/ayN0Bvy)
+ - 👉 [Natalie Reynolds, convinced a mentally ill homeless woman who cant swim to jump in a lake for $20.00. And she is trying to get the footage removed online because she and her squad of simps could get charged with attempted manslaughter.](http://9gag.com/gag/aNDZ16w)<!-- MEMES:END -->
 
 ---
 

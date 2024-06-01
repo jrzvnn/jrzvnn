@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Giving a show for their fans](http://9gag.com/gag/aW4WjOK)
- - 😝 [It is what it is!](http://9gag.com/gag/aO8b32E)
- - 💣 [Thought?](http://9gag.com/gag/aGywpD6)
- - 😝 [Spot on !](http://9gag.com/gag/an7KgQq)
- - 👉 [Honest and well done work](http://9gag.com/gag/aPA43zw)<!-- MEMES:END -->
+ - 😝 [Oakland CA running wild](http://9gag.com/gag/aPA4Zxq)
+ - 😝 [Wholesome friendship](http://9gag.com/gag/aqyNngY)
+ - 💣 [When you realize why that super hot girl was single and willing to date you was because she&#39;s a psycho maniac](http://9gag.com/gag/aGywp90)
+ - 😝 [One of the greatest moments in documentary history](http://9gag.com/gag/aBy3m41)
+ - 👉 [Natalie Reynolds, convinced a mentally ill homeless woman who cant swim to jump in a lake for $20.00. And she is trying to get the footage removed online because she and her squad of simps could get charged with attempted manslaughter.](http://9gag.com/gag/aNDZ16w)<!-- MEMES:END -->
 
 ---
 

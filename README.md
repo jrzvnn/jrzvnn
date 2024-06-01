@@ -162,9 +162,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [How TikTok influencers helped a self-published author sell 1M+ copies of her book, including ~700K on the TikTok shop, showing how TikTok changed book marketing &lpar;Alexandra Alter/New York Times&rpar;](http://www.techmeme.com/240601/p10#a240601p10)
  - [Boeing’s first crewed Starliner launch delayed again over computer issues](https://www.theverge.com/2024/6/1/24169334/boeing-starliner-launch-livestream-how-to-watch)
- - [Which Plastics Are Actually Recyclable?     - CNET](https://www.cnet.com/science/which-plastics-are-actually-recyclable/#ftag=CAD590a51e)
- - [OpenAI’s ‘Sky’ sounds a lot like ScarJo, according to voice researchers](https://www.theverge.com/2024/6/1/24169407/openai-gpt-4o-scarlett-johansson-voice-analysis-lab)
- - [Best Sports Streaming Service for 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-sports-streaming-service/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [6 Foods That Are More Hydrating Than Water, According to Science     - CNET](https://www.cnet.com/health/nutrition/6-foods-that-are-more-hydrating-than-water-according-to-experts/#ftag=CAD590a51e)
+ - [Best Rowing Machines for 2024     - CNET](https://www.cnet.com/health/fitness/best-rowing-machine/#ftag=CAD590a51e)
+ - [Which Plastics Are Actually Recyclable?     - CNET](https://www.cnet.com/science/which-plastics-are-actually-recyclable/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

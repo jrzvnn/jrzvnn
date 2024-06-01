@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My fellow American... first time?....](http://9gag.com/gag/adBYKjB)
- - 😝 [Religion explained in 52 seconds.](http://9gag.com/gag/aPA4Y8G)
- - 💣 [Thought?](http://9gag.com/gag/aGywpD6)
- - 😝 [You try to stall for time, but your rival sees his opportunity.](http://9gag.com/gag/aBy3gwP)
- - 👉 [Islamist attacked with a knife in Germany! The conservative politician and anti-Islam activist Michael St\u00fcrzenberger was stabbed during a public meeting in Mannheim. A police officers was also stabbed in the neck. &lpar;Video in comments&rpar; .](http://9gag.com/gag/azxE9zb)<!-- MEMES:END -->
+ - 😝 [Just in case anyone wanted to see the video of that is being suppressed in the media and on 9gag](http://9gag.com/gag/aO8b763)
+ - 😝 [Hello, hello, leave this man alone, hello hello hello!](http://9gag.com/gag/aE01gXe)
+ - 💣 [3 Bri&#39;ish got beaten by thai security guards for refusing to pay their bar tabs and telling the guards, `we own this country!` In Pattaya, Thailand](http://9gag.com/gag/aD2349K)
+ - 😝 [Meanwhile at the Polish border...](http://9gag.com/gag/a9yLRRL)
+ - 👉 [I&#39;m afraid to ask, but why did they count the goal at this video?](http://9gag.com/gag/aE01Bd9)<!-- MEMES:END -->
 
 ---
 

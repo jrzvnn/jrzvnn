@@ -160,7 +160,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What to expect at Computex 2024, where the CEOs of Nvidia, AMD, Intel, Qualcomm, and Arm are all speaking, as AI hardware products like AI PCs take center stage &lpar;Bloomberg&rpar;](http://www.techmeme.com/240601/p5#a240601p5)
+ - [What to expect at Computex 2024, where the CEOs of Nvidia, AMD, Intel, Qualcomm, and Arm are speaking, as AI hardware products like AI PCs take center stage &lpar;Bloomberg&rpar;](http://www.techmeme.com/240601/p5#a240601p5)
  - [Bluetti SwapSolar review: power and chill with swappable batteries](https://www.theverge.com/24145138/multicooler-ac180t-modular-battery-review-price-specs)
  - [Q&amp;A with the pseudonymous Pliny the Prompter, who is well known in the AI community for jailbreaking leading LLMs, on what motivates them, their goals, and more &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240601/p4#a240601p4)
  - [YC is lobbying in Washington to support &quot;Little Tech&quot; over concerns that AI regulations meant to head off harms will instead help Big Tech maintain its lead &lpar;Politico&rpar;](http://www.techmeme.com/240601/p3#a240601p3)

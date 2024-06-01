@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to watch NASA and Boeing’s first Starliner launch today](https://www.theverge.com/2024/6/1/24169334/boeing-starliner-launch-livestream-how-to-watch)
+ - [HMD Vibe Review: OK Performance, Meh Everything Else](https://www.wired.com/review/hmd-vibe/)
  - [The Ticketmaster Data Breach May Be Just the Beginning](https://www.wired.com/story/snowflake-breach-ticketmaster-santander-ticketek-hacked/)
  - [Content creators are amassing audiences of thousands on Twitch by covering political news and raising funds for Palestinians, as other platforms eschew politics &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/240601/p7#a240601p7)
- - [3 Best Smart Displays &lpar;2024&rpar;: Google Assistant and Amazon Alexa](https://www.wired.com/gallery/best-smart-displays/)
- - [Voices from Gaza are coming through in podcasts](https://www.theverge.com/2024/6/1/24168226/israel-hamas-war-audio-reporting-podcasts-gaza)
- - [Netflix&#39;s Secret Menu Lets You Find Exactly What You Want to Watch     - CNET](https://www.cnet.com/tech/services-and-software/netflixs-secret-menu-lets-you-find-exactly-what-you-want-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Don&#39;t Feel Good After Eating That Leftover Rice? Here&#39;s Why     - CNET](https://www.cnet.com/how-to/dont-feel-good-after-eating-leftover-rice-heres-why/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

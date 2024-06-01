@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Microsoft is discussing a deal with CISPE, which could include a multimillion-euro payment to get the cloud lobby to drop its EU antitrust complaint &lpar;Politico&rpar;](http://www.techmeme.com/240601/p2#a240601p2)
+ - [Jio Financial Services, part of Reliance, launches the JioFinance app to provide digital banking, bill payments, and other services in a crowded Indian market &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240601/p1#a240601p1)
  - [LA-based Webtoon, owned by South Korea&#39;s Naver, files for a US IPO; sources: the online comics platform could seek to raise up to $500M at a $3B-$4B valuation &lpar;Michael Hytha/Bloomberg&rpar;](http://www.techmeme.com/240531/p29#a240531p29)
- - [The Tribeca Festival and OpenAI plan to feature five short films made using OpenAI&#39;s text-to-video tool Sora on June 15 &lpar;Brian Welk/IndieWire&rpar;](http://www.techmeme.com/240531/p28#a240531p28)
- - [Nectar Mattresses Start at $349 With This Still-Live Memorial Day Sale     - CNET](https://www.cnet.com/deals/nectar-memorial-day-deal-2024/#ftag=CAD590a51e)
- - [AirTag crucial to recovery of $5 million of stolen tools in Metro DC](https://appleinsider.com/articles/24/06/01/airtag-crucial-to-recovery-of-5-million-of-stolen-tools-in-metro-dc?utm_medium=rss)
- - [One of My Favorite Pillow-Top Mattresses Is on Sale     - CNET](https://www.cnet.com/deals/helix-luxe-summer-sale-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints and Answers: Help for June 1, #356     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hints-answer-help-for-june-1-356/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints and Answer: Help for June 1, #1078     - CNET](https://www.cnet.com/news/todays-wordle-hints-and-answer-help-for-june-1-1078/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

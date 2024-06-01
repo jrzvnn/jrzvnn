@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lego’s towering Barad-dûr set is now available for Lego Insiders](https://www.theverge.com/2024/6/1/24168163/lego-lord-of-the-rings-barad-dur-set-sauron-available)
+ - [We Put the Saatva Classic Mattress &lpar;and Our Marriage&rpar; to the Test for 30 Nights     - CNET](https://www.cnet.com/health/sleep/we-put-the-saatva-classic-mattress-and-our-marriage-to-the-test-for-30-nights/#ftag=CAD590a51e)
+ - [Best Amazon Deals: Score Tech Gear, Outdoor Goods and Then Some for Under $100     - CNET](https://www.cnet.com/deals/best-amazon-deals-get-tech-gadgets-outdoor-gear-and-more-under-100/#ftag=CAD590a51e)
  - [The see-through Beats Studio Buds Plus have hit their best price of the year](https://www.theverge.com/2024/6/1/24168671/beats-studio-buds-plus-elago-magsafe-ms-w5-charging-stand-deal-sale)
- - [How to watch NASA and Boeing’s first Starliner launch today](https://www.theverge.com/2024/6/1/24169334/boeing-starliner-launch-livestream-how-to-watch)
- - [HMD Vibe Review: OK Performance, Meh Everything Else](https://www.wired.com/review/hmd-vibe/)
- - [The Ticketmaster Data Breach May Be Just the Beginning](https://www.wired.com/story/snowflake-breach-ticketmaster-santander-ticketek-hacked/)
- - [Content creators are amassing audiences of thousands on Twitch by covering political news and raising funds for Palestinians, as other platforms eschew politics &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/240601/p7#a240601p7)<!-- TECH:END -->
+ - [How to watch NASA and Boeing’s first Starliner launch today](https://www.theverge.com/2024/6/1/24169334/boeing-starliner-launch-livestream-how-to-watch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Giving a show for their fans](http://9gag.com/gag/aW4WjOK)
  - 😝 [It is what it is!](http://9gag.com/gag/aO8b32E)
- - 😝 [When karma hit really bad](http://9gag.com/gag/apR0g3B)
  - 💣 [Thought?](http://9gag.com/gag/aGywpD6)
  - 😝 [Spot on !](http://9gag.com/gag/an7KgQq)
- - 👉 [We do immigration all wrong.](http://9gag.com/gag/amo0Ppo)<!-- MEMES:END -->
+ - 👉 [Honest and well done work](http://9gag.com/gag/aPA43zw)<!-- MEMES:END -->
 
 ---
 

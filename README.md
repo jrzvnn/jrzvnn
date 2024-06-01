@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [11 Best Bookshelf Speakers &lpar;2024&rpar;: Active, Passive, and Hi-Fi](https://www.wired.com/gallery/best-bookshelf-speakers/)
+ - [How a Samsung Washing Machine Chime Triggered a YouTube Copyright Fiasco](https://www.wired.com/story/youtube-content-id-samsung-washing-machine-chime-demonetize/)
  - [Godzilla Minus One got a surprise Netflix release today](https://www.theverge.com/2024/6/1/24169362/godzilla-minus-one-netflix-streaming-digital-buy-rent-apple-tv-amazon-google-play)
  - [Lego’s towering Barad-dûr set is now available for Lego Insiders](https://www.theverge.com/2024/6/1/24168163/lego-lord-of-the-rings-barad-dur-set-sauron-available)
- - [The see-through Beats Studio Buds Plus have hit their best price of the year](https://www.theverge.com/2024/6/1/24168671/beats-studio-buds-plus-elago-magsafe-ms-w5-charging-stand-deal-sale)
- - [How to watch NASA and Boeing’s first Starliner launch today](https://www.theverge.com/2024/6/1/24169334/boeing-starliner-launch-livestream-how-to-watch)
- - [HMD Vibe Review: OK Performance, Meh Everything Else](https://www.wired.com/review/hmd-vibe/)<!-- TECH:END -->
+ - [We Put the Saatva Classic Mattress &lpar;and Our Marriage&rpar; to the Test for 30 Nights     - CNET](https://www.cnet.com/health/sleep/we-put-the-saatva-classic-mattress-and-our-marriage-to-the-test-for-30-nights/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

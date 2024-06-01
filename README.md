@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Today is a great day to censor the truth on 9gag](http://9gag.com/gag/apR0mzD)
- - 😝 [When you realize why that super hot girl was single and willing to date you was because she&#39;s a psycho maniac](http://9gag.com/gag/aGywp90)
- - 💣 [Peta heart attack material](http://9gag.com/gag/aqyNnyL)
- - 😝 [Meanwhile at the Polish border...](http://9gag.com/gag/a9yLRRL)
- - 👉 [Religion explained in 52 seconds.](http://9gag.com/gag/aPA4Y8G)<!-- MEMES:END -->
+ - 😝 [It is what it is!](http://9gag.com/gag/aO8b32E)
+ - 😝 [When karma hit really bad](http://9gag.com/gag/apR0g3B)
+ - 💣 [Thought?](http://9gag.com/gag/aGywpD6)
+ - 😝 [Spot on !](http://9gag.com/gag/an7KgQq)
+ - 👉 [We do immigration all wrong.](http://9gag.com/gag/amo0Ppo)<!-- MEMES:END -->
 
 ---
 

@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Godzilla Minus One got a surprise Netflix release today](https://www.theverge.com/2024/6/1/24169362/godzilla-minus-one-netflix-streaming-digital-buy-rent-apple-tv-amazon-google-play)
  - [Lego’s towering Barad-dûr set is now available for Lego Insiders](https://www.theverge.com/2024/6/1/24168163/lego-lord-of-the-rings-barad-dur-set-sauron-available)
- - [We Put the Saatva Classic Mattress &lpar;and Our Marriage&rpar; to the Test for 30 Nights     - CNET](https://www.cnet.com/health/sleep/we-put-the-saatva-classic-mattress-and-our-marriage-to-the-test-for-30-nights/#ftag=CAD590a51e)
- - [Best Amazon Deals: Score Tech Gear, Outdoor Goods and Then Some for Under $100     - CNET](https://www.cnet.com/deals/best-amazon-deals-get-tech-gadgets-outdoor-gear-and-more-under-100/#ftag=CAD590a51e)
  - [The see-through Beats Studio Buds Plus have hit their best price of the year](https://www.theverge.com/2024/6/1/24168671/beats-studio-buds-plus-elago-magsafe-ms-w5-charging-stand-deal-sale)
- - [How to watch NASA and Boeing’s first Starliner launch today](https://www.theverge.com/2024/6/1/24169334/boeing-starliner-launch-livestream-how-to-watch)<!-- TECH:END -->
+ - [How to watch NASA and Boeing’s first Starliner launch today](https://www.theverge.com/2024/6/1/24169334/boeing-starliner-launch-livestream-how-to-watch)
+ - [HMD Vibe Review: OK Performance, Meh Everything Else](https://www.wired.com/review/hmd-vibe/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

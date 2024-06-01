@@ -161,10 +161,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Lego debuts its first Minecraft set for adults](https://www.theverge.com/2024/6/1/24169526/lego-minecraft-the-crafting-table-15th-anniversary-adult-set)
+ - [Frontier Fiber Plans, Pricing, Speeds and Availability Compared     - CNET](https://www.cnet.com/home/internet/frontier-internet-review/#ftag=CAD590a51e)
  - [Apple&#39;s new M2 iPad Air has a nine-core GPU, despite original claims to the contrary](https://appleinsider.com/articles/24/06/01/apples-new-m2-ipad-air-has-a-nine-core-gpu-despite-original-claims-to-the-contrary?utm_medium=rss)
  - [CISPE denies a report that it was nearing a settlement with Microsoft to withdraw its EU antitrust complaint about Microsoft&#39;s cloud licensing practices &lpar;Reuters&rpar;](http://www.techmeme.com/240601/p11#a240601p11)
- - [Best Cooling Mattress of 2024     - CNET](https://www.cnet.com/health/sleep/best-cooling-mattress/#ftag=CAD590a51e)
- - [Best Leaf Blowers for 2024     - CNET](https://www.cnet.com/news/best-leaf-blowers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Cooling Mattress of 2024     - CNET](https://www.cnet.com/health/sleep/best-cooling-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

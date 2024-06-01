@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s creepy. It looks like they&#39;re playing with ghost](http://9gag.com/gag/aKGPxmb)
- - 😝 [Religion explained in 52 seconds.](http://9gag.com/gag/aPA4Y8G)
- - 💣 [This man in the TV show Who Wants to Be a Millionaire, a new morality was expressed](http://9gag.com/gag/aRBP1z2)
- - 😝 [Dr. Possible put him in hard place](http://9gag.com/gag/aPA49Mq)
- - 👉 [Wow you are incredibly bad at this, how did you get through the casting?](http://9gag.com/gag/a6ZyVNe)<!-- MEMES:END -->
+ - 😝 [Meanwhile at the Polish border...](http://9gag.com/gag/a9yLRRL)
+ - 😝 [You try to stall for time, but your rival sees his opportunity.](http://9gag.com/gag/aBy3gwP)
+ - 💣 [Title goes here](http://9gag.com/gag/aW4Wqx2)
+ - 😝 [Wow you are incredibly bad at this, how did you get through the casting?](http://9gag.com/gag/a6ZyVNe)
+ - 👉 [Time for the thick Thighs boys. Let&#39;s see some in the comments](http://9gag.com/gag/a6ZybDL)<!-- MEMES:END -->
 
 ---
 

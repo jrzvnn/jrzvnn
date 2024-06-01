@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title goes here](http://9gag.com/gag/aW4Wqx2)
  - 😝 [How to get out of a friend zone.](http://9gag.com/gag/ae905P5)
- - 💣 [Religion explained in 52 seconds.](http://9gag.com/gag/aPA4Y8G)
  - 😝 [Meanwhile at the Polish border...](http://9gag.com/gag/a9yLRRL)
- - 👉 [Today is a great day to censor the truth on 9gag](http://9gag.com/gag/apR0mzD)<!-- MEMES:END -->
+ - 💣 [Islamist attacked with a knife in Germany! The conservative politician and anti-Islam activist Michael St\u00fcrzenberger was stabbed during a public meeting in Mannheim. A police officers was also stabbed in the neck. &lpar;Video in comments&rpar; .](http://9gag.com/gag/azxE9zb)
+ - 😝 [Some people don&#39;t understand](http://9gag.com/gag/a343qZr)
+ - 👉 [Religion explained in 52 seconds.](http://9gag.com/gag/aPA4Y8G)<!-- MEMES:END -->
 
 ---
 

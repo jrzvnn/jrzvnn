@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thought?](http://9gag.com/gag/aGywpD6)
- - 😝 [That moment of realization](http://9gag.com/gag/aqyNnm7)
- - 💣 [Why are they so fragile?](http://9gag.com/gag/aqyNgKL)
- - 😝 [Artist dreams of nightmarish tiger, other artists make fan after of it.](http://9gag.com/gag/a0eLNmZ)
- - 👉 [I need a new gaming setup](http://9gag.com/gag/ayN0Bvy)<!-- MEMES:END -->
+ - 😝 [In light of recent events...](http://9gag.com/gag/adBY5XN)
+ - 😝 [You love cats, right?](http://9gag.com/gag/aKGP67W)
+ - 💣 [I need a new gaming setup](http://9gag.com/gag/ayN0Bvy)
+ - 😝 [I usually just eat a churro or popcorn at a concer](http://9gag.com/gag/aNDZ0D0)
+ - 👉 [Meanwhile at the Polish border...](http://9gag.com/gag/a9yLRRL)<!-- MEMES:END -->
 
 ---
 

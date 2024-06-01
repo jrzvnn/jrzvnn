@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Religion explained in 52 seconds.](http://9gag.com/gag/aPA4Y8G)
+ - 😝 [They found out](http://9gag.com/gag/a2vY4E1)
  - 😝 [Title goes here](http://9gag.com/gag/aW4Wqx2)
- - 💣 [Oh, f**k yes.](http://9gag.com/gag/an7K4OL)
- - 😝 [Hello, hello, leave this man alone, hello hello hello!](http://9gag.com/gag/aE01gXe)
- - 👉 [Wow you are incredibly bad at this, how did you get through the casting?](http://9gag.com/gag/a6ZyVNe)<!-- MEMES:END -->
+ - 💣 [You let him hit it raw, you had no second thoughts...](http://9gag.com/gag/axyZ7DL)
+ - 😝 [You try to stall for time, but your rival sees his opportunity.](http://9gag.com/gag/aBy3gwP)
+ - 👉 [Taiwan makers almost all high quality chips](http://9gag.com/gag/aE01B1M)<!-- MEMES:END -->
 
 ---
 

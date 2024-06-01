@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title goes here](http://9gag.com/gag/aW4Wqx2)
+ - 😝 [French police](http://9gag.com/gag/amo0P72)
  - 😝 [Meanwhile at the Polish border...](http://9gag.com/gag/a9yLRRL)
- - 💣 [Peta heart attack material](http://9gag.com/gag/aqyNnyL)
- - 😝 [When you realize why that super hot girl was single and willing to date you was because she&#39;s a psycho maniac](http://9gag.com/gag/aGywp90)
+ - 💣 [Wholesome friendship](http://9gag.com/gag/aqyNngY)
+ - 😝 [Today is a great day to censor the truth on 9gag](http://9gag.com/gag/apR0mzD)
  - 👉 [Artist dreams of nightmarish tiger, other artists make fan after of it.](http://9gag.com/gag/a0eLNmZ)<!-- MEMES:END -->
 
 ---

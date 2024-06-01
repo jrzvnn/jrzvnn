@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They found out](http://9gag.com/gag/a2vY4E1)
- - 😝 [Title goes here](http://9gag.com/gag/aW4Wqx2)
- - 💣 [You let him hit it raw, you had no second thoughts...](http://9gag.com/gag/axyZ7DL)
- - 😝 [You try to stall for time, but your rival sees his opportunity.](http://9gag.com/gag/aBy3gwP)
- - 👉 [Taiwan makers almost all high quality chips](http://9gag.com/gag/aE01B1M)<!-- MEMES:END -->
+ - 😝 [Thought?](http://9gag.com/gag/aGywpD6)
+ - 😝 [That moment of realization](http://9gag.com/gag/aqyNnm7)
+ - 💣 [Why are they so fragile?](http://9gag.com/gag/aqyNgKL)
+ - 😝 [Artist dreams of nightmarish tiger, other artists make fan after of it.](http://9gag.com/gag/a0eLNmZ)
+ - 👉 [I need a new gaming setup](http://9gag.com/gag/ayN0Bvy)<!-- MEMES:END -->
 
 ---
 

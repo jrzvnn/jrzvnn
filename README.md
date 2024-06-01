@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Watch it in a dark place](http://9gag.com/gag/ary4go7)
- - 😝 [Thumbs up emoji is evil , as said gen Z](http://9gag.com/gag/aE01gmp)
- - 💣 [I am sorry. I&#39;d rather be called xenophobe or right wing or whatever if that is the price for living in a save environment.](http://9gag.com/gag/aD23g4B)
- - 😝 [Congrats, you just played yourself](http://9gag.com/gag/agmvnen)
- - 👉 [Not enough](http://9gag.com/gag/a6ZyO0q)<!-- MEMES:END -->
+ - 😝 [Tried stealing a farmers lime harvest but was caught. Now he\u2019s forced to eat it all.](http://9gag.com/gag/aBy3xNO)
+ - 😝 [Remember kids](http://9gag.com/gag/aD23Wn9)
+ - 💣 [Dating in 2024 !](http://9gag.com/gag/aVvWYK2)
+ - 😝 [Time for the thick Thighs boys. Let&#39;s see some in the comments](http://9gag.com/gag/a6ZybDL)
+ - 👉 [How?](http://9gag.com/gag/a6ZyVpL)<!-- MEMES:END -->
 
 ---
 

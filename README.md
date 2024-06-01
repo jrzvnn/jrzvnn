@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zombie Fire Season Is Here in the Arctic](https://www.wired.com/story/zombie-fires-arctic-causes/)
- - [Who Wants to Have Children in a Warming World?](https://www.wired.com/story/babies-warming-world-jade-sasser-climate-change-anxiety/)
- - [Content creators are posting videos on Douyin giving Chinese migrants step-by-step instructions on how to get to the United States through Latin America &lpar;April Xu/Documented&rpar;](http://www.techmeme.com/240601/p6#a240601p6)
- - [Mysterious Hack Destroyed 600,000 Internet Routers](https://www.wired.com/story/mysterious-hack-600000-routers-destroyed/)
- - [How to Remove T-Mobile&#39;s Play Feed From Your Android Phone     - CNET](https://www.cnet.com/tech/mobile/how-to-remove-t-mobiles-play-feed-from-your-android-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Y-Brush DuoBrush Sonic Toothbrush Review: U-Shaped and Sonic Brush Heads](https://www.wired.com/review/y-brush-duobrush/)
+ - [Android Now Lets You Edit Text Messages](https://www.wired.com/story/android-now-lets-you-edit-text-messages/)
+ - [This walking app let me whack my co-workers with a baseball bat](https://www.theverge.com/24167330/stompers-ios-walking-app-soren-iverson)
+ - [Samsung Galaxy A55 Review: A Solid Choice With a Few Key Misses     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-a55-review-a-solid-choice-with-a-few-key-misses/#ftag=CAD590a51e)
+ - [TikTok Cults Exist? &#39;Dancing for the Devil&#39; Does a Deep Dive     - CNET](https://www.cnet.com/tech/services-and-software/tiktok-cults-exist-dancing-for-the-devil-does-deep-dive/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

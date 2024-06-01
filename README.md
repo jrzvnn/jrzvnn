@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI’s ‘Sky’ sounds a lot like ScarJo, according to voice researchers](https://www.theverge.com/2024/6/1/24169407/openai-gpt-4o-scarlett-johansson-voice-analysis-lab)
  - [Best Website Builder for 2024: Reviewed by Our Experts     - CNET](https://www.cnet.com/tech/services-and-software/best-website-builder/#ftag=CAD590a51e)
  - [Best Chest Strap Heart-Rate Monitors for 2024     - CNET](https://www.cnet.com/health/fitness/best-chest-strap-heart-rate-monitors/#ftag=CAD590a51e)
  - [Sources: a16z and other investors in the fintech Synapse, which filed for bankruptcy in early May, were aware of recordkeeping discrepancies for years &lpar;Michael Roddan/The Information&rpar;](http://www.techmeme.com/240601/p9#a240601p9)
- - [Netflix’s Tomb Raider anime starts streaming in October](https://www.theverge.com/2024/6/1/24168998/netflix-tomb-raider-anime-release-date)
- - [Score This Ring Video Doorbell and Indoor Cam for $20 Off at Amazon Right Now     - CNET](https://www.cnet.com/deals/score-this-ring-video-doorbell-and-indoor-cam-for-20-off-at-amazon-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Netflix’s Tomb Raider anime starts streaming in October](https://www.theverge.com/2024/6/1/24168998/netflix-tomb-raider-anime-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

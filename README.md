@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Islamist attacked with a knife in Germany! The conservative politician and anti-Islam activist Michael St\u00fcrzenberger was stabbed during a public meeting in Mannheim. A police officers was also stabbed in the neck. &lpar;Video in comments&rpar; .](http://9gag.com/gag/azxE9zb)
- - 😝 [Today is a great day to censor the truth on 9gag](http://9gag.com/gag/apR0mzD)
- - 💣 [Do we have the name of this inferior human being?](http://9gag.com/gag/a5QPWrr)
- - 😝 [Natalie Reynolds, convinced a mentally ill homeless woman who cant swim to jump in a lake for $20.00. And she is trying to get the footage removed online because she and her squad of simps could get charged with attempted manslaughter.](http://9gag.com/gag/aNDZ16w)
- - 👉 [Meanwhile at the Polish border...](http://9gag.com/gag/a9yLRRL)<!-- MEMES:END -->
+ - 😝 [This is why the Sea Shepard never visited Norway again. The Royal Norwegian Coast Guard don&#39;t mess around.](http://9gag.com/gag/aQz4ddr)
+ - 😝 [Do we have the name of this inferior human being?](http://9gag.com/gag/a5QPWrr)
+ - 💣 [\u201cAllah, Allah, who f*ck is Allah\u201d, shout British patriots in London. Also little patriots join in cry.](http://9gag.com/gag/awyKzNR)
+ - 😝 [Wholesome friendship](http://9gag.com/gag/aqyNngY)
+ - 👉 [When you realize why that super hot girl was single and willing to date you was because she&#39;s a psycho maniac](http://9gag.com/gag/aGywp90)<!-- MEMES:END -->
 
 ---
 

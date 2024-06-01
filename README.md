@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tried stealing a farmers lime harvest but was caught. Now he\u2019s forced to eat it all.](http://9gag.com/gag/aBy3xNO)
- - 😝 [Remember kids](http://9gag.com/gag/aD23Wn9)
- - 💣 [Dating in 2024 !](http://9gag.com/gag/aVvWYK2)
- - 😝 [Time for the thick Thighs boys. Let&#39;s see some in the comments](http://9gag.com/gag/a6ZybDL)
- - 👉 [How?](http://9gag.com/gag/a6ZyVpL)<!-- MEMES:END -->
+ - 😝 [This man in the TV show Who Wants to Be a Millionaire, a new morality was expressed](http://9gag.com/gag/aRBP1z2)
+ - 😝 [Religion explained in 52 seconds.](http://9gag.com/gag/aPA4Y8G)
+ - 💣 [Watch it in a dark place](http://9gag.com/gag/ary4go7)
+ - 😝 [Islamist attacked with a knife in Germany! The conservative politician and anti-Islam activist Michael St\u00fcrzenberger was stabbed during a public meeting in Mannheim. A police officers was also stabbed in the neck. &lpar;Video in comments&rpar; .](http://9gag.com/gag/azxE9zb)
+ - 👉 [Meanwhile at the Polish border...](http://9gag.com/gag/a9yLRRL)<!-- MEMES:END -->
 
 ---
 

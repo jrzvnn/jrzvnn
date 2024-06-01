@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Five indicted in $12M fake Apple devices fraud case in southern California](https://appleinsider.com/articles/24/06/01/five-indicted-in-12m-fake-apple-devices-fraud-case-in-southern-california?utm_medium=rss)
  - [AI search engine Perplexity launches Pages, which will research and create a customizable webpage based on user prompts, aimed at educators, researchers, others &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240601/p8#a240601p8)
  - [11 Best Bookshelf Speakers &lpar;2024&rpar;: Active, Passive, and Hi-Fi](https://www.wired.com/gallery/best-bookshelf-speakers/)
  - [How a Samsung Washing Machine Chime Triggered a YouTube Copyright Fiasco](https://www.wired.com/story/youtube-content-id-samsung-washing-machine-chime-demonetize/)
- - [Godzilla Minus One gets a surprise Netflix release](https://www.theverge.com/2024/6/1/24169362/godzilla-minus-one-netflix-streaming-digital-buy-rent-apple-tv-amazon-google-play)
- - [Daily Savings, Delivered: Join CNET&#39;s Text Group for Deals Under $50 Every Day     - CNET](https://www.cnet.com/tech/services-and-software/daily-savings-delivered-cnet-text-group-deals-under-50-every-day/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Godzilla Minus One gets a surprise Netflix release](https://www.theverge.com/2024/6/1/24169362/godzilla-minus-one-netflix-streaming-digital-buy-rent-apple-tv-amazon-google-play)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

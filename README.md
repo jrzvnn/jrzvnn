@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Religion explained in 52 seconds.](http://9gag.com/gag/aPA4Y8G)
- - 😝 [One of the greatest moments in documentary history](http://9gag.com/gag/aBy3m41)
- - 💣 [Meanwhile at the Polish border...](http://9gag.com/gag/a9yLRRL)
- - 😝 [\u201cAllah, Allah, who f*ck is Allah\u201d, shout British patriots in London. Also little patriots join in cry.](http://9gag.com/gag/awyKzNR)
- - 👉 [Do we have the name of this inferior human being?](http://9gag.com/gag/a5QPWrr)<!-- MEMES:END -->
+ - 😝 [Bro taught entire biology for a sleeping pillow](http://9gag.com/gag/an7KgWL)
+ - 😝 [Thought?](http://9gag.com/gag/aGywpD6)
+ - 💣 [Spot on !](http://9gag.com/gag/an7KgQq)
+ - 😝 [Honest and well done work](http://9gag.com/gag/aPA43zw)
+ - 👉 [We do immigration all wrong.](http://9gag.com/gag/amo0Ppo)<!-- MEMES:END -->
 
 ---
 

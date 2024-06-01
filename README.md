@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to get out of a friend zone.](http://9gag.com/gag/ae905P5)
- - 😝 [Meanwhile at the Polish border...](http://9gag.com/gag/a9yLRRL)
- - 💣 [Islamist attacked with a knife in Germany! The conservative politician and anti-Islam activist Michael St\u00fcrzenberger was stabbed during a public meeting in Mannheim. A police officers was also stabbed in the neck. &lpar;Video in comments&rpar; .](http://9gag.com/gag/azxE9zb)
- - 😝 [Some people don&#39;t understand](http://9gag.com/gag/a343qZr)
- - 👉 [Religion explained in 52 seconds.](http://9gag.com/gag/aPA4Y8G)<!-- MEMES:END -->
+ - 😝 [It&#39;s creepy. It looks like they&#39;re playing with ghost](http://9gag.com/gag/aKGPxmb)
+ - 😝 [Religion explained in 52 seconds.](http://9gag.com/gag/aPA4Y8G)
+ - 💣 [This man in the TV show Who Wants to Be a Millionaire, a new morality was expressed](http://9gag.com/gag/aRBP1z2)
+ - 😝 [Dr. Possible put him in hard place](http://9gag.com/gag/aPA49Mq)
+ - 👉 [Wow you are incredibly bad at this, how did you get through the casting?](http://9gag.com/gag/a6ZyVNe)<!-- MEMES:END -->
 
 ---
 

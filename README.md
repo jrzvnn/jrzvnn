@@ -164,7 +164,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Who Wants to Have Children in a Warming World?](https://www.wired.com/story/babies-warming-world-jade-sasser-climate-change-anxiety/)
  - [Content creators are posting videos on Douyin giving Chinese migrants step-by-step instructions on how to get to the United States through Latin America &lpar;April Xu/Documented&rpar;](http://www.techmeme.com/240601/p6#a240601p6)
  - [Mysterious Hack Destroyed 600,000 Internet Routers](https://www.wired.com/story/mysterious-hack-600000-routers-destroyed/)
- - [How to Make Espresso at Home &lpar;2024&rpar;](https://www.wired.com/story/how-to-make-espresso/)<!-- TECH:END -->
+ - [How to Remove T-Mobile&#39;s Play Feed From Your Android Phone     - CNET](https://www.cnet.com/tech/mobile/how-to-remove-t-mobiles-play-feed-from-your-android-phone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You try to stall for time, but your rival sees his opportunity.](http://9gag.com/gag/aBy3gwP)
- - 😝 [Religion explained in 52 seconds.](http://9gag.com/gag/aPA4Y8G)
- - 💣 [How does this even happen?](http://9gag.com/gag/a87Y8P6)
- - 😝 [I need a new gaming setup](http://9gag.com/gag/ayN0Bvy)
- - 👉 [Natalie Reynolds, convinced a mentally ill homeless woman who cant swim to jump in a lake for $20.00. And she is trying to get the footage removed online because she and her squad of simps could get charged with attempted manslaughter.](http://9gag.com/gag/aNDZ16w)<!-- MEMES:END -->
+ - 😝 [I usually just eat a churro or popcorn at a concer](http://9gag.com/gag/aNDZ0D0)
+ - 😝 [Meanwhile at the Polish border...](http://9gag.com/gag/a9yLRRL)
+ - 💣 [Today is a great day to censor the truth on 9gag](http://9gag.com/gag/apR0mzD)
+ - 😝 [Talks about the dangers of Islam ... gets stabbed](http://9gag.com/gag/aLnPpp6)
+ - 👉 [It&#39;s not new but it&#39;s new for me. Been farming for few years now. Bought my first mid size tractor](http://9gag.com/gag/a4Pd3ev)<!-- MEMES:END -->
 
 ---
 

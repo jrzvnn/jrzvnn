@@ -164,7 +164,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [11 Best Bookshelf Speakers &lpar;2024&rpar;: Active, Passive, and Hi-Fi](https://www.wired.com/gallery/best-bookshelf-speakers/)
  - [How a Samsung Washing Machine Chime Triggered a YouTube Copyright Fiasco](https://www.wired.com/story/youtube-content-id-samsung-washing-machine-chime-demonetize/)
  - [Godzilla Minus One gets a surprise Netflix release](https://www.theverge.com/2024/6/1/24169362/godzilla-minus-one-netflix-streaming-digital-buy-rent-apple-tv-amazon-google-play)
- - [Lego’s towering Barad-dûr set is now available for Lego Insiders](https://www.theverge.com/2024/6/1/24168163/lego-lord-of-the-rings-barad-dur-set-sauron-available)<!-- TECH:END -->
+ - [Daily Savings, Delivered: Join CNET&#39;s Text Group for Deals Under $50 Every Day     - CNET](https://www.cnet.com/tech/services-and-software/daily-savings-delivered-cnet-text-group-deals-under-50-every-day/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

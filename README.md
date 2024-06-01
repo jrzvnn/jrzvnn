@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fun in US never stop](http://9gag.com/gag/aRBP0R7)
- - 😝 [When the players would like a nice little chat with the Ref](http://9gag.com/gag/azxEq8B)
- - 💣 [Religion explained in 52 seconds.](http://9gag.com/gag/aPA4Y8G)
- - 😝 [Hello, hello, leave this man alone, hello hello hello!](http://9gag.com/gag/aE01gXe)
- - 👉 [I&#39;m afraid to ask, but why did they count the goal at this video?](http://9gag.com/gag/aE01Bd9)<!-- MEMES:END -->
+ - 😝 [Just in case anyone wanted to see the video of that is being suppressed in the media and on 9gag](http://9gag.com/gag/aO8b763)
+ - 😝 [There are extremist Muslims, and there are Muslims who quietly support this. There are no other Muslims.](http://9gag.com/gag/aVvWY8M)
+ - 💣 [Natalie Reynolds, convinced a mentally ill homeless woman who cant swim to jump in a lake for $20.00. And she is trying to get the footage removed online because she and her squad of simps could get charged with attempted manslaughter.](http://9gag.com/gag/aNDZ16w)
+ - 😝 [Watch it in a dark place](http://9gag.com/gag/ary4go7)
+ - 👉 [Congrats, you just played yourself](http://9gag.com/gag/agmvnen)<!-- MEMES:END -->
 
 ---
 

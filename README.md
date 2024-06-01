@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI search engine Perplexity launches Pages, which will research and create a customizable webpage based on user prompts, aimed at educators, researchers, others &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240601/p8#a240601p8)
  - [11 Best Bookshelf Speakers &lpar;2024&rpar;: Active, Passive, and Hi-Fi](https://www.wired.com/gallery/best-bookshelf-speakers/)
  - [How a Samsung Washing Machine Chime Triggered a YouTube Copyright Fiasco](https://www.wired.com/story/youtube-content-id-samsung-washing-machine-chime-demonetize/)
- - [Godzilla Minus One got a surprise Netflix release today](https://www.theverge.com/2024/6/1/24169362/godzilla-minus-one-netflix-streaming-digital-buy-rent-apple-tv-amazon-google-play)
- - [Lego’s towering Barad-dûr set is now available for Lego Insiders](https://www.theverge.com/2024/6/1/24168163/lego-lord-of-the-rings-barad-dur-set-sauron-available)
- - [We Put the Saatva Classic Mattress &lpar;and Our Marriage&rpar; to the Test for 30 Nights     - CNET](https://www.cnet.com/health/sleep/we-put-the-saatva-classic-mattress-and-our-marriage-to-the-test-for-30-nights/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Godzilla Minus One gets a surprise Netflix release](https://www.theverge.com/2024/6/1/24169362/godzilla-minus-one-netflix-streaming-digital-buy-rent-apple-tv-amazon-google-play)
+ - [Lego’s towering Barad-dûr set is now available for Lego Insiders](https://www.theverge.com/2024/6/1/24168163/lego-lord-of-the-rings-barad-dur-set-sauron-available)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Zombie Fire Season Is Here in the Arctic](https://www.wired.com/story/zombie-fires-arctic-causes/)
+ - [Who Wants to Have Children in a Warming World?](https://www.wired.com/story/babies-warming-world-jade-sasser-climate-change-anxiety/)
  - [Content creators are posting videos on Douyin giving Chinese migrants step-by-step instructions on how to get to the United States through Latin America &lpar;April Xu/Documented&rpar;](http://www.techmeme.com/240601/p6#a240601p6)
  - [Mysterious Hack Destroyed 600,000 Internet Routers](https://www.wired.com/story/mysterious-hack-600000-routers-destroyed/)
- - [How to Make Espresso at Home &lpar;2024&rpar;](https://www.wired.com/story/how-to-make-espresso/)
- - [Save Big This Summer: Energy-Efficient Curtains, Blinds and Drapes     - CNET](https://www.cnet.com/how-to/save-big-this-summer-energy-efficient-curtains-blinds-and-drapes/#ftag=CAD590a51e)
- - [Power Grids Under Pressure: US Areas at Risk of Blackouts During the Summer     - CNET](https://www.cnet.com/home/energy-and-utilities/power-grids-under-pressure-us-areas-at-risk-of-blackouts-during-the-summer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Make Espresso at Home &lpar;2024&rpar;](https://www.wired.com/story/how-to-make-espresso/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

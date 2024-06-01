@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thought?](http://9gag.com/gag/aGywpD6)
- - 😝 [Wholesome friendship](http://9gag.com/gag/aqyNngY)
- - 💣 [How to get out of a friend zone.](http://9gag.com/gag/ae905P5)
+ - 😝 [Talks about the dangers of Islam ... gets stabbed](http://9gag.com/gag/aLnPpp6)
  - 😝 [Today is a great day to censor the truth on 9gag](http://9gag.com/gag/apR0mzD)
- - 👉 [Natalie Reynolds, convinced a mentally ill homeless woman who cant swim to jump in a lake for $20.00. And she is trying to get the footage removed online because she and her squad of simps could get charged with attempted manslaughter.](http://9gag.com/gag/aNDZ16w)<!-- MEMES:END -->
+ - 💣 [It&#39;s not new but it&#39;s new for me. Been farming for few years now. Bought my first mid size tractor](http://9gag.com/gag/a4Pd3ev)
+ - 😝 [\u201cAllah, Allah, who f*ck is Allah\u201d, shout British patriots in London. Also little patriots join in cry.](http://9gag.com/gag/awyKzNR)
+ - 👉 [You love cats, right?](http://9gag.com/gag/aKGP67W)<!-- MEMES:END -->
 
 ---
 

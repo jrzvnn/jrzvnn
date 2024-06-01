@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hello, hello, leave this man alone, hello hello hello!](http://9gag.com/gag/aE01gXe)
- - 😝 [Why are they so fragile?](http://9gag.com/gag/aqyNgKL)
- - 💣 [Islamist attacked with a knife in Germany! The conservative politician and anti-Islam activist Michael St\u00fcrzenberger was stabbed during a public meeting in Mannheim. A police officers was also stabbed in the neck. &lpar;Video in comments&rpar; .](http://9gag.com/gag/azxE9zb)
- - 😝 [This is why the Sea Shepard never visited Norway again. The Royal Norwegian Coast Guard don&#39;t mess around.](http://9gag.com/gag/aQz4ddr)
- - 👉 [Watch it in a dark place](http://9gag.com/gag/ary4go7)<!-- MEMES:END -->
+ - 😝 [My fellow American... first time?....](http://9gag.com/gag/adBYKjB)
+ - 😝 [Religion explained in 52 seconds.](http://9gag.com/gag/aPA4Y8G)
+ - 💣 [Thought?](http://9gag.com/gag/aGywpD6)
+ - 😝 [You try to stall for time, but your rival sees his opportunity.](http://9gag.com/gag/aBy3gwP)
+ - 👉 [Islamist attacked with a knife in Germany! The conservative politician and anti-Islam activist Michael St\u00fcrzenberger was stabbed during a public meeting in Mannheim. A police officers was also stabbed in the neck. &lpar;Video in comments&rpar; .](http://9gag.com/gag/azxE9zb)<!-- MEMES:END -->
 
 ---
 

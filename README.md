@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You love cats, right?](http://9gag.com/gag/aKGP67W)
- - 😝 [Just in case anyone wanted to see the video of that is being suppressed in the media and on 9gag](http://9gag.com/gag/aO8b763)
- - 💣 [Giving a show for their fans](http://9gag.com/gag/aW4WjOK)
- - 😝 [England for the English - response of the silent majority to the Islamic invasion](http://9gag.com/gag/a0eLZQd)
- - 👉 [We do immigration all wrong.](http://9gag.com/gag/amo0Ppo)<!-- MEMES:END -->
+ - 😝 [Islamist attacked with a knife in Germany! The conservative politician and anti-Islam activist Michael St\u00fcrzenberger was stabbed during a public meeting in Mannheim. A police officers was also stabbed in the neck. &lpar;Video in comments&rpar; .](http://9gag.com/gag/azxE9zb)
+ - 😝 [Today is a great day to censor the truth on 9gag](http://9gag.com/gag/apR0mzD)
+ - 💣 [Do we have the name of this inferior human being?](http://9gag.com/gag/a5QPWrr)
+ - 😝 [Natalie Reynolds, convinced a mentally ill homeless woman who cant swim to jump in a lake for $20.00. And she is trying to get the footage removed online because she and her squad of simps could get charged with attempted manslaughter.](http://9gag.com/gag/aNDZ16w)
+ - 👉 [Meanwhile at the Polish border...](http://9gag.com/gag/a9yLRRL)<!-- MEMES:END -->
 
 ---
 

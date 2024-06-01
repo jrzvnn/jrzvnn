@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just in case anyone wanted to see the video of that is being suppressed in the media and on 9gag](http://9gag.com/gag/aO8b763)
- - 😝 [There are extremist Muslims, and there are Muslims who quietly support this. There are no other Muslims.](http://9gag.com/gag/aVvWY8M)
- - 💣 [Natalie Reynolds, convinced a mentally ill homeless woman who cant swim to jump in a lake for $20.00. And she is trying to get the footage removed online because she and her squad of simps could get charged with attempted manslaughter.](http://9gag.com/gag/aNDZ16w)
- - 😝 [Watch it in a dark place](http://9gag.com/gag/ary4go7)
- - 👉 [Congrats, you just played yourself](http://9gag.com/gag/agmvnen)<!-- MEMES:END -->
+ - 😝 [Hello, hello, leave this man alone, hello hello hello!](http://9gag.com/gag/aE01gXe)
+ - 😝 [Why are they so fragile?](http://9gag.com/gag/aqyNgKL)
+ - 💣 [Islamist attacked with a knife in Germany! The conservative politician and anti-Islam activist Michael St\u00fcrzenberger was stabbed during a public meeting in Mannheim. A police officers was also stabbed in the neck. &lpar;Video in comments&rpar; .](http://9gag.com/gag/azxE9zb)
+ - 😝 [This is why the Sea Shepard never visited Norway again. The Royal Norwegian Coast Guard don&#39;t mess around.](http://9gag.com/gag/aQz4ddr)
+ - 👉 [Watch it in a dark place](http://9gag.com/gag/ary4go7)<!-- MEMES:END -->
 
 ---
 

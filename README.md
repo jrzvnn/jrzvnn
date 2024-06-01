@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Which Plastics Are Actually Recyclable?     - CNET](https://www.cnet.com/science/which-plastics-are-actually-recyclable/#ftag=CAD590a51e)
  - [OpenAI’s ‘Sky’ sounds a lot like ScarJo, according to voice researchers](https://www.theverge.com/2024/6/1/24169407/openai-gpt-4o-scarlett-johansson-voice-analysis-lab)
- - [Best Website Builder for 2024: Reviewed by Our Experts     - CNET](https://www.cnet.com/tech/services-and-software/best-website-builder/#ftag=CAD590a51e)
- - [Best Chest Strap Heart-Rate Monitors for 2024     - CNET](https://www.cnet.com/health/fitness/best-chest-strap-heart-rate-monitors/#ftag=CAD590a51e)
- - [Sources: a16z and other investors in the fintech Synapse, which filed for bankruptcy in early May, were aware of recordkeeping discrepancies for years &lpar;Michael Roddan/The Information&rpar;](http://www.techmeme.com/240601/p9#a240601p9)
- - [Netflix’s Tomb Raider anime starts streaming in October](https://www.theverge.com/2024/6/1/24168998/netflix-tomb-raider-anime-release-date)<!-- TECH:END -->
+ - [Best Sports Streaming Service for 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-sports-streaming-service/#ftag=CAD590a51e)
+ - [Best WordPress Hosting of 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-wordpress-hosting/#ftag=CAD590a51e)
+ - [Save $110 on the JBL Boombox 2 With Our Exclusive Coupon Code This Weekend     - CNET](https://www.cnet.com/deals/save-110-on-the-jbl-boombox-2-with-our-exclusive-coupon-code-this-weekend/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

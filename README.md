@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meanwhile at the Polish border...](http://9gag.com/gag/a9yLRRL)
+ - 😝 [F around and fond out](http://9gag.com/gag/aMVrxx6)
+ - 😝 [Islamist attacked with a knife in Germany! The conservative politician and anti-Islam activist Michael St\u00fcrzenberger was stabbed during a public meeting in Mannheim. A police officers was also stabbed in the neck. &lpar;Video in comments&rpar; .](http://9gag.com/gag/azxE9zb)
+ - 💣 [Meanwhile at the Polish border...](http://9gag.com/gag/a9yLRRL)
  - 😝 [You try to stall for time, but your rival sees his opportunity.](http://9gag.com/gag/aBy3gwP)
- - 💣 [Title goes here](http://9gag.com/gag/aW4Wqx2)
- - 😝 [Wow you are incredibly bad at this, how did you get through the casting?](http://9gag.com/gag/a6ZyVNe)
- - 👉 [Time for the thick Thighs boys. Let&#39;s see some in the comments](http://9gag.com/gag/a6ZybDL)<!-- MEMES:END -->
+ - 👉 [How to get out of a friend zone.](http://9gag.com/gag/ae905P5)<!-- MEMES:END -->
 
 ---
 

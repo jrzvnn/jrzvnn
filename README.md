@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How TikTok influencers helped a self-published author sell 1M+ copies of her book, including ~700K on the TikTok shop, showing how TikTok changed book marketing &lpar;Alexandra Alter/New York Times&rpar;](http://www.techmeme.com/240601/p10#a240601p10)
+ - [How to watch NASA and Boeing’s first Starliner launch](https://www.theverge.com/2024/6/1/24169334/boeing-starliner-launch-livestream-how-to-watch)
  - [Which Plastics Are Actually Recyclable?     - CNET](https://www.cnet.com/science/which-plastics-are-actually-recyclable/#ftag=CAD590a51e)
  - [OpenAI’s ‘Sky’ sounds a lot like ScarJo, according to voice researchers](https://www.theverge.com/2024/6/1/24169407/openai-gpt-4o-scarlett-johansson-voice-analysis-lab)
- - [Best Sports Streaming Service for 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-sports-streaming-service/#ftag=CAD590a51e)
- - [Best WordPress Hosting of 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-wordpress-hosting/#ftag=CAD590a51e)
- - [Save $110 on the JBL Boombox 2 With Our Exclusive Coupon Code This Weekend     - CNET](https://www.cnet.com/deals/save-110-on-the-jbl-boombox-2-with-our-exclusive-coupon-code-this-weekend/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Sports Streaming Service for 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-sports-streaming-service/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

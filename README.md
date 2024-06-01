@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oakland CA running wild](http://9gag.com/gag/aPA4Zxq)
- - 😝 [Wholesome friendship](http://9gag.com/gag/aqyNngY)
- - 💣 [When you realize why that super hot girl was single and willing to date you was because she&#39;s a psycho maniac](http://9gag.com/gag/aGywp90)
+ - 😝 [Religion explained in 52 seconds.](http://9gag.com/gag/aPA4Y8G)
  - 😝 [One of the greatest moments in documentary history](http://9gag.com/gag/aBy3m41)
- - 👉 [Natalie Reynolds, convinced a mentally ill homeless woman who cant swim to jump in a lake for $20.00. And she is trying to get the footage removed online because she and her squad of simps could get charged with attempted manslaughter.](http://9gag.com/gag/aNDZ16w)<!-- MEMES:END -->
+ - 💣 [Meanwhile at the Polish border...](http://9gag.com/gag/a9yLRRL)
+ - 😝 [\u201cAllah, Allah, who f*ck is Allah\u201d, shout British patriots in London. Also little patriots join in cry.](http://9gag.com/gag/awyKzNR)
+ - 👉 [Do we have the name of this inferior human being?](http://9gag.com/gag/a5QPWrr)<!-- MEMES:END -->
 
 ---
 

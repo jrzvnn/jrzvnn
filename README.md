@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is why the Sea Shepard never visited Norway again. The Royal Norwegian Coast Guard don&#39;t mess around.](http://9gag.com/gag/aQz4ddr)
- - 😝 [Do we have the name of this inferior human being?](http://9gag.com/gag/a5QPWrr)
- - 💣 [\u201cAllah, Allah, who f*ck is Allah\u201d, shout British patriots in London. Also little patriots join in cry.](http://9gag.com/gag/awyKzNR)
- - 😝 [Wholesome friendship](http://9gag.com/gag/aqyNngY)
- - 👉 [When you realize why that super hot girl was single and willing to date you was because she&#39;s a psycho maniac](http://9gag.com/gag/aGywp90)<!-- MEMES:END -->
+ - 😝 [Just in case anyone wanted to see the video of that is being suppressed in the media and on 9gag](http://9gag.com/gag/aO8b763)
+ - 😝 [Giving a show for their fans](http://9gag.com/gag/aW4WjOK)
+ - 💣 [It is what it is!](http://9gag.com/gag/aO8b32E)
+ - 😝 [We do immigration all wrong.](http://9gag.com/gag/amo0Ppo)
+ - 👉 [Thought?](http://9gag.com/gag/aGywpD6)<!-- MEMES:END -->
 
 ---
 

@@ -164,11 +164,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hacking group ShinyHunters offers to sell alleged data of Santander staff and 30M customers; Santander warned on May 14 that a database had been compromised &lpar;Owen Walker/Financial Times&rpar;](http://www.techmeme.com/240531/p24#a240531p24)
+ - [President Biden vetoes a bill overturning SAB 121, a controversial SEC bulletin that establishes accounting standards for companies that custody crypto &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/240531/p26#a240531p26)
+ - [Live Nation took 11 days to confirm the massive Ticketmaster data breach](https://www.theverge.com/2024/5/31/24169112/ticketmaster-data-breach-confirmed-details-live-nation)
  - [Alexa will soon lose a popular shopping list feature](https://www.theverge.com/2024/5/31/24168681/amazon-alexa-third-party-shopping-list-integration-going-away)
- - [Filing: Ticketmaster confirms &quot;unauthorized activity within a third-party cloud database&quot;, after a hacking group advertised alleged data of 560M users for sale &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/240531/p23#a240531p23)
- - [Netflix’s Mike Tyson vs. Jake Paul fight is postponed](https://www.theverge.com/2024/5/31/24169091/netflix-mike-tyson-jake-paul-boxing-rescheduled)
- - [Global foldable phone shipments were up 49% YoY in Q1, marking its highest rate of increase in six quarters; Huawei led with a 35% share, overtaking Samsung &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/240531/p22#a240531p22)<!-- TECH:END -->
+ - [Researchers say a threat actor claims to have hacked Ticketmaster and Santander using stolen credentials of a Snowflake employee; Snowflake disputes the claims &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240531/p25#a240531p25)
+ - [Hacking group ShinyHunters offers to sell alleged data of Santander staff and 30M customers; Santander warned on May 14 that a database had been compromised &lpar;Owen Walker/Financial Times&rpar;](http://www.techmeme.com/240531/p24#a240531p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An excerpt from the book The Trolls of Wall Street, which details how r/WallStreetBets fueled a movement that turned millions of young Americans into investors &lpar;Nathaniel Popper/Bloomberg&rpar;](http://www.techmeme.com/240602/p2#a240602p2)
- - [Best iPhone in 2024: Which Apple Phone Should You Buy?     - CNET](https://www.cnet.com/tech/mobile/best-iphone/#ftag=CAD590a51e)
- - [Asus ROG Ally X Gaming Handheld Was Built From Your Wishes     - CNET](https://www.cnet.com/tech/gaming/asus-rog-ally-x-gaming-handheld-was-built-from-your-wishes/#ftag=CAD590a51e)
- - [Asus ROG Ally X Gaming Handheld: First Look video     - CNET](https://www.cnet.com/videos/asus-rog-ally-x-gaming-handheld-first-look/#ftag=CAD590a51e)
- - [The Asus ROG Ally X is official — and I took a peek inside](https://www.theverge.com/2024/6/2/24169709/asus-rog-ally-x-price-release-date-inside-gaming-handheld)<!-- TECH:END -->
+ - [The Hunt for Ultralight Dark Matter](https://www.wired.com/story/the-hunt-for-ultralight-dark-matter/)
+ - [This Hidden iPhone Feature Could Help You Relax or Focus     - CNET](https://www.cnet.com/tech/services-and-software/this-hidden-iphone-feature-could-help-you-relax-or-focus/#ftag=CAD590a51e)
+ - [Best T-Mobile Phones for 2024     - CNET](https://www.cnet.com/tech/mobile/best-t-mobile-phones/#ftag=CAD590a51e)
+ - [Best Phone Under $200: Our Top Pick Checks All the Boxes     - CNET](https://www.cnet.com/tech/mobile/best-phone-under-200/#ftag=CAD590a51e)
+ - [An excerpt from the book The Trolls of Wall Street, which details how r/WallStreetBets fueled a movement that turned millions of young Americans into investors &lpar;Nathaniel Popper/Bloomberg&rpar;](http://www.techmeme.com/240602/p2#a240602p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

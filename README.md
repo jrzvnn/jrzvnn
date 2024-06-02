@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Slick](http://9gag.com/gag/aGywyNZ)
+ - 😝 [I&#39;ll be in my bunk](http://9gag.com/gag/a1mem0Y)
  - 😝 [When you realize why that super hot girl was single and willing to date you was because she&#39;s a psycho maniac](http://9gag.com/gag/aGywp90)
  - 💣 [One of the greatest moments in documentary history](http://9gag.com/gag/aBy3m41)
- - 😝 [The race card against Eminem.](http://9gag.com/gag/a9yLq91)
+ - 😝 [Peta heart attack material](http://9gag.com/gag/aqyNnyL)
  - 👉 [She is the chosen one](http://9gag.com/gag/aRBPXg5)<!-- MEMES:END -->
 
 ---

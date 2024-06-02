@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you realize why that super hot girl was single and willing to date you was because she&#39;s a psycho maniac](http://9gag.com/gag/aGywp90)
+ - 😝 [German police officer Rouven L. is dead!](http://9gag.com/gag/amo0o4v)
  - 😝 [Wholesome friendship](http://9gag.com/gag/aqyNngY)
- - 💣 [Peta heart attack material](http://9gag.com/gag/aqyNnyL)
- - 😝 [Guess who&#39;s responsible??....](http://9gag.com/gag/aMVrEnW)
+ - 💣 [Do we have the name of this inferior human being?](http://9gag.com/gag/a5QPWrr)
+ - 😝 [Peta heart attack material](http://9gag.com/gag/aqyNnyL)
  - 👉 [One of the greatest moments in documentary history](http://9gag.com/gag/aBy3m41)<!-- MEMES:END -->
 
 ---

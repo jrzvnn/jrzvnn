@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We do immigration all wrong.](http://9gag.com/gag/amo0Ppo)
- - 😝 [Do we have the name of this inferior human being?](http://9gag.com/gag/a5QPWrr)
- - 💣 [Artist dreams of nightmarish tiger, other artists make fan after of it.](http://9gag.com/gag/a0eLNmZ)
- - 😝 [French police](http://9gag.com/gag/amo0P72)
- - 👉 [Just in case anyone wanted to see the video of that is being suppressed in the media and on 9gag](http://9gag.com/gag/aO8b763)<!-- MEMES:END -->
+ - 😝 [I can&#39;t stop crying, I need help](http://9gag.com/gag/aLnP07v)
+ - 😝 [Any artist can confirm?](http://9gag.com/gag/ayN0MG8)
+ - 💣 [Oh the irony](http://9gag.com/gag/aQz4EA2)
+ - 😝 [You try to stall for time, but your rival sees his opportunity.](http://9gag.com/gag/aBy3gwP)
+ - 👉 [She is the chosen one](http://9gag.com/gag/aRBPXg5)<!-- MEMES:END -->
 
 ---
 

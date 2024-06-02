@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meanwhile at the Polish border...](http://9gag.com/gag/a9yLRRL)
- - 😝 [She is the chosen one](http://9gag.com/gag/aRBPXg5)
- - 💣 [Wholesome friendship](http://9gag.com/gag/aqyNngY)
- - 😝 [When you realize why that super hot girl was single and willing to date you was because she&#39;s a psycho maniac](http://9gag.com/gag/aGywp90)
+ - 😝 [Perhaps there is hope..](http://9gag.com/gag/avygAvd)
+ - 😝 [Oh the irony](http://9gag.com/gag/aQz4EA2)
+ - 💣 [Hello, hello, leave this man alone, hello hello hello!](http://9gag.com/gag/aE01gXe)
+ - 😝 [Artist dreams of nightmarish tiger, other artists make fan after of it.](http://9gag.com/gag/a0eLNmZ)
  - 👉 [One of the greatest moments in documentary history](http://9gag.com/gag/aBy3m41)<!-- MEMES:END -->
 
 ---

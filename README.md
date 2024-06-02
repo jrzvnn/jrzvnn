@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Any artist can confirm?](http://9gag.com/gag/ayN0MG8)
  - 😝 [Do we have the name of this inferior human being?](http://9gag.com/gag/a5QPWrr)
- - 😝 [How to get out of a friend zone.](http://9gag.com/gag/ae905P5)
- - 💣 [She is the chosen one](http://9gag.com/gag/aRBPXg5)
- - 😝 [Peta heart attack material](http://9gag.com/gag/aqyNnyL)
- - 👉 [Wholesome friendship](http://9gag.com/gag/aqyNngY)<!-- MEMES:END -->
+ - 💣 [When you realize why that super hot girl was single and willing to date you was because she&#39;s a psycho maniac](http://9gag.com/gag/aGywp90)
+ - 😝 [Wholesome friendship](http://9gag.com/gag/aqyNngY)
+ - 👉 [One of the greatest moments in documentary history](http://9gag.com/gag/aBy3m41)<!-- MEMES:END -->
 
 ---
 

@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I can&#39;t stop crying, I need help](http://9gag.com/gag/aLnP07v)
- - 😝 [Any artist can confirm?](http://9gag.com/gag/ayN0MG8)
- - 💣 [Oh the irony](http://9gag.com/gag/aQz4EA2)
- - 😝 [You try to stall for time, but your rival sees his opportunity.](http://9gag.com/gag/aBy3gwP)
- - 👉 [She is the chosen one](http://9gag.com/gag/aRBPXg5)<!-- MEMES:END -->
+ - 😝 [Islamist attacked with a knife in Germany! The conservative politician and anti-Islam activist Michael St\u00fcrzenberger was stabbed during a public meeting in Mannheim. A police officers was also stabbed in the neck. &lpar;Video in comments&rpar; .](http://9gag.com/gag/azxE9zb)
+ - 😝 [He&#39;s the man of focus,commitment and ...sheer f**king will](http://9gag.com/gag/aAyr3Ag)
+ - 💣 [You try to stall for time, but your rival sees his opportunity.](http://9gag.com/gag/aBy3gwP)
+ - 😝 [Wholesome friendship](http://9gag.com/gag/aqyNngY)
+ - 👉 [One of the greatest moments in documentary history](http://9gag.com/gag/aBy3m41)<!-- MEMES:END -->
 
 ---
 

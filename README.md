@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Islamist attacked with a knife in Germany! The conservative politician and anti-Islam activist Michael St\u00fcrzenberger was stabbed during a public meeting in Mannheim. A police officers was also stabbed in the neck. &lpar;Video in comments&rpar; .](http://9gag.com/gag/azxE9zb)
- - 😝 [He&#39;s the man of focus,commitment and ...sheer f**king will](http://9gag.com/gag/aAyr3Ag)
- - 💣 [You try to stall for time, but your rival sees his opportunity.](http://9gag.com/gag/aBy3gwP)
- - 😝 [Wholesome friendship](http://9gag.com/gag/aqyNngY)
- - 👉 [One of the greatest moments in documentary history](http://9gag.com/gag/aBy3m41)<!-- MEMES:END -->
+ - 😝 [And what was he doing?](http://9gag.com/gag/aRBPELM)
+ - 😝 [Bro taught entire biology for a sleeping pillow](http://9gag.com/gag/an7KgWL)
+ - 💣 [We do immigration all wrong.](http://9gag.com/gag/amo0Ppo)
+ - 😝 [Nobody reading this?](http://9gag.com/gag/aXPpn62)
+ - 👉 [Eastren Europe celebrates pride for traditional families ..](http://9gag.com/gag/aAyrGdg)<!-- MEMES:END -->
 
 ---
 

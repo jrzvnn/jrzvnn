@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That moment of realization](http://9gag.com/gag/aqyNnm7)
- - 😝 [Guess who&#39;s responsible??....](http://9gag.com/gag/aMVrEnW)
- - 💣 [One of the greatest moments in documentary history](http://9gag.com/gag/aBy3m41)
+ - 😝 [Do we have the name of this inferior human being?](http://9gag.com/gag/a5QPWrr)
+ - 😝 [Hello, hello, leave this man alone, hello hello hello!](http://9gag.com/gag/aE01gXe)
+ - 💣 [Perhaps there is hope..](http://9gag.com/gag/avygAvd)
  - 😝 [Wholesome friendship](http://9gag.com/gag/aqyNngY)
- - 👉 [Peta heart attack material](http://9gag.com/gag/aqyNnyL)<!-- MEMES:END -->
+ - 👉 [When you realize why that super hot girl was single and willing to date you was because she&#39;s a psycho maniac](http://9gag.com/gag/aGywp90)<!-- MEMES:END -->
 
 ---
 

@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The most powerful navy in the world](http://9gag.com/gag/aO8b89v)
- - 😝 [Headshot confirmed](http://9gag.com/gag/aRBPBK7)
- - 💣 [Lovely guy!!](http://9gag.com/gag/azxEx7p)
- - 😝 [Perfect](http://9gag.com/gag/aqyNyNM)
- - 👉 [This is what should be rewarded...](http://9gag.com/gag/a7oyoLb)<!-- MEMES:END -->
+ - 😝 [Slick](http://9gag.com/gag/aGywyNZ)
+ - 😝 [When you realize why that super hot girl was single and willing to date you was because she&#39;s a psycho maniac](http://9gag.com/gag/aGywp90)
+ - 💣 [One of the greatest moments in documentary history](http://9gag.com/gag/aBy3m41)
+ - 😝 [The race card against Eminem.](http://9gag.com/gag/a9yLq91)
+ - 👉 [She is the chosen one](http://9gag.com/gag/aRBPXg5)<!-- MEMES:END -->
 
 ---
 

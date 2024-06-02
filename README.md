@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [You try to stall for time, but your rival sees his opportunity.](http://9gag.com/gag/aBy3gwP)
+ - 😝 [One of the greatest moments in documentary history](http://9gag.com/gag/aBy3m41)
+ - 💣 [Military Dad sees his transgender son for the first time](http://9gag.com/gag/aPA4Y4K)
  - 😝 [Wholesome friendship](http://9gag.com/gag/aqyNngY)
- - 😝 [Peta heart attack material](http://9gag.com/gag/aqyNnyL)
- - 💣 [I need a new gaming setup](http://9gag.com/gag/ayN0Bvy)
- - 😝 [Artist dreams of nightmarish tiger, other artists make fan after of it.](http://9gag.com/gag/a0eLNmZ)
- - 👉 [I can&#39;t stop crying, I need help](http://9gag.com/gag/aLnP07v)<!-- MEMES:END -->
+ - 👉 [Religion explained in 52 seconds.](http://9gag.com/gag/aPA4Y8G)<!-- MEMES:END -->
 
 ---
 

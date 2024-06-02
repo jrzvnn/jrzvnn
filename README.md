@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never go full retard...](http://9gag.com/gag/aE018Ax)
  - 😝 [Peta heart attack material](http://9gag.com/gag/aqyNnyL)
- - 💣 [Today is a great day to censor the truth on 9gag](http://9gag.com/gag/apR0mzD)
  - 😝 [Meanwhile at the Polish border...](http://9gag.com/gag/a9yLRRL)
- - 👉 [One of the greatest moments in documentary history](http://9gag.com/gag/aBy3m41)<!-- MEMES:END -->
+ - 💣 [Natalie Reynolds, convinced a mentally ill homeless woman who cant swim to jump in a lake for $20.00. And she is trying to get the footage removed online because she and her squad of simps could get charged with attempted manslaughter.](http://9gag.com/gag/aNDZ16w)
+ - 😝 [Today is a great day to censor the truth on 9gag](http://9gag.com/gag/apR0mzD)
+ - 👉 [When you realize why that super hot girl was single and willing to date you was because she&#39;s a psycho maniac](http://9gag.com/gag/aGywp90)<!-- MEMES:END -->
 
 ---
 

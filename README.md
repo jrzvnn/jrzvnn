@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WWDC unlikely to see debuts of any new hardware at all](https://appleinsider.com/articles/24/06/02/wwdc-unlikely-to-see-debuts-of-any-new-hardware-at-all?utm_medium=rss)
+ - [A look at the $799 ROG Ally X, shipping July 22: 24GB RAM, 80 watt-hour battery that doesn&#39;t feel heavy, better and lighter joysticks, and more &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240602/p7#a240602p7)
  - [In a demo, Nvidia shows its G-Assist AI chatbot that could guide users through PC games based on voice queries, configure optimal settings, and more &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240602/p6#a240602p6)
  - [Apple’s non-AI WWDC plans include Settings and Control Center revamps](https://www.theverge.com/2024/6/2/24169802/apple-wwdc-2024-ios-18-mac-os-15-settings-control-center-messages-mail-photos)
- - [Best iPad Deals: Score Discounts on Apple&#39;s Brand-New iPad Pro M4, iPad Air M2 and More     - CNET](https://www.cnet.com/deals/best-ipad-deals/#ftag=CAD590a51e)
- - [One Stat Shows Why LED Lightbulbs Are Worth It     - CNET](https://www.cnet.com/how-to/one-stat-shows-why-led-lightbulbs-are-worth-it/#ftag=CAD590a51e)
- - [The 12 Fruits and Vegetables You Should Really Wash Before Eating     - CNET](https://www.cnet.com/news/the-12-fruits-and-vegetables-you-should-wash-before-eating/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best iPad Deals: Score Discounts on Apple&#39;s Brand-New iPad Pro M4, iPad Air M2 and More     - CNET](https://www.cnet.com/deals/best-ipad-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

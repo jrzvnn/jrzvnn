@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [16 Best Festival Accessories and Gear &lpar;2024&rpar;: Fanny Packs, Inflatable Couches, and More](https://www.wired.com/gallery/best-festival-accessories-and-gear/)
- - [Nvidia said newly announced RTX AI PC laptops from Asus and MSI will have up to GeForce RTX 4070 GPUs and &quot;systems-on-a-chip with Windows 11 AI PC capabilities&quot; &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240602/p5#a240602p5)
- - [Hit-and-run driver busted by AirPod lost after cyclist crashed through window](https://appleinsider.com/articles/24/06/02/hit-and-run-driver-busted-by-airpod-lost-after-cyclist-crashed-through-window?utm_medium=rss)
- - [Nvidia plans to upgrade its AI accelerators annually, and announces a Blackwell Ultra chip for 2025 and a next-gen Rubin AI platform for 2026 that will use HBM4 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240602/p4#a240602p4)
- - [Dyson Supersonic Nural Hair Dryer Review: Fast Drying and New Smart Attachments](https://www.wired.com/review/dyson-supersonic-nural-hair-dryer/)<!-- TECH:END -->
+ - [Apple’s non-AI WWDC plans include Settings and Control Center revamps](https://www.theverge.com/2024/6/2/24169802/apple-wwdc-2024-ios-18-mac-os-15-settings-control-center-messages-mail-photos)
+ - [Best iPad Deals: Score Discounts on Apple&#39;s Brand-New iPad Pro M4, iPad Air M2 and More     - CNET](https://www.cnet.com/deals/best-ipad-deals/#ftag=CAD590a51e)
+ - [One Stat Shows Why LED Lightbulbs Are Worth It     - CNET](https://www.cnet.com/how-to/one-stat-shows-why-led-lightbulbs-are-worth-it/#ftag=CAD590a51e)
+ - [The 12 Fruits and Vegetables You Should Really Wash Before Eating     - CNET](https://www.cnet.com/news/the-12-fruits-and-vegetables-you-should-wash-before-eating/#ftag=CAD590a51e)
+ - [16 Best Festival Accessories and Gear &lpar;2024&rpar;: Fanny Packs, Inflatable Couches, and More](https://www.wired.com/gallery/best-festival-accessories-and-gear/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

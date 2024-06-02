@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And what was he doing?](http://9gag.com/gag/aRBPELM)
- - 😝 [Bro taught entire biology for a sleeping pillow](http://9gag.com/gag/an7KgWL)
- - 💣 [We do immigration all wrong.](http://9gag.com/gag/amo0Ppo)
- - 😝 [Nobody reading this?](http://9gag.com/gag/aXPpn62)
- - 👉 [Eastren Europe celebrates pride for traditional families ..](http://9gag.com/gag/aAyrGdg)<!-- MEMES:END -->
+ - 😝 [Meanwhile at the Polish border...](http://9gag.com/gag/a9yLRRL)
+ - 😝 [She is the chosen one](http://9gag.com/gag/aRBPXg5)
+ - 💣 [Wholesome friendship](http://9gag.com/gag/aqyNngY)
+ - 😝 [When you realize why that super hot girl was single and willing to date you was because she&#39;s a psycho maniac](http://9gag.com/gag/aGywp90)
+ - 👉 [One of the greatest moments in documentary history](http://9gag.com/gag/aBy3m41)<!-- MEMES:END -->
 
 ---
 

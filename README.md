@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Any artist can confirm?](http://9gag.com/gag/ayN0MG8)
- - 😝 [Thought?](http://9gag.com/gag/aGywpD6)
- - 💣 [3 Bri&#39;ish got beaten by thai security guards for refusing to pay their bar tabs and telling the guards, `we own this country!` In Pattaya, Thailand](http://9gag.com/gag/aD2349K)
- - 😝 [Peta heart attack material](http://9gag.com/gag/aqyNnyL)
- - 👉 [Today is a great day to censor the truth on 9gag](http://9gag.com/gag/apR0mzD)<!-- MEMES:END -->
+ - 😝 [Wholesome friendship](http://9gag.com/gag/aqyNngY)
+ - 😝 [Perhaps there is hope..](http://9gag.com/gag/avygAvd)
+ - 💣 [Do we have the name of this inferior human being?](http://9gag.com/gag/a5QPWrr)
+ - 😝 [When you realize why that super hot girl was single and willing to date you was because she&#39;s a psycho maniac](http://9gag.com/gag/aGywp90)
+ - 👉 [\u201cAllah, Allah, who f*ck is Allah\u201d, shout British patriots in London. Also little patriots join in cry.](http://9gag.com/gag/awyKzNR)<!-- MEMES:END -->
 
 ---
 

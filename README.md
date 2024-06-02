@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hyundai’s first US-built EV will be the tax credit-ready Ioniq 5](https://www.theverge.com/2024/6/2/24169926/hyundai-ioniq-5-ev-first-us-made-electric-car-tax-credit-nacs)
  - [Best Meta Quest 3 Deals: Score a Free Game With Your Purchase     - CNET](https://www.cnet.com/deals/best-meta-quest-3-deals/#ftag=CAD590a51e)
  - [Circle to Search Is Now on More Devices -- Here&#39;s the Full List     - CNET](https://www.cnet.com/tech/mobile/circle-to-search-is-now-on-more-devices-heres-the-full-list/#ftag=CAD590a51e)
  - [Best Google Pixel Deals: Score Savings of Up to $1K With Trade-In, New Line or Installment Plan     - CNET](https://www.cnet.com/deals/best-google-pixel-deals/#ftag=CAD590a51e)
- - [Your Visual Guide to Protein: How to Achieve a Daily Serving of Protein by Diet     - CNET](https://www.cnet.com/health/nutrition/your-visual-guide-to-protein-how-to-achieve-a-daily-serving-of-protein-by-diet/#ftag=CAD590a51e)
- - [Off Grid vs. Grid Tied Solar Panel Systems: What&#39;s the Difference?     - CNET](https://www.cnet.com/home/energy-and-utilities/off-grid-solar-systems/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Your Visual Guide to Protein: How to Achieve a Daily Serving of Protein by Diet     - CNET](https://www.cnet.com/health/nutrition/your-visual-guide-to-protein-how-to-achieve-a-daily-serving-of-protein-by-diet/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

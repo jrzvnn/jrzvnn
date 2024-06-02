@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Footage shows Dalia Dippolito reacting to the news that her husband has been murdered. However, the \u2018hitman\u2019 that she hired was actually an undercover cop and this sting was specifically organised just so they could arrest her. Her husband wasn\u2019t harmed.](http://9gag.com/gag/a6Zyq0R)
- - 😝 [Guess who&#39;s responsible??....](http://9gag.com/gag/aMVrEnW)
- - 💣 [This is what should be rewarded...](http://9gag.com/gag/a7oyoLb)
- - 😝 [Wholesome friendship](http://9gag.com/gag/aqyNngY)
- - 👉 [Do we have the name of this inferior human being?](http://9gag.com/gag/a5QPWrr)<!-- MEMES:END -->
+ - 😝 [Bro taught entire biology for a sleeping pillow](http://9gag.com/gag/an7KgWL)
+ - 😝 [Here&#39;s one from the archives. Simpler times.](http://9gag.com/gag/aKGPmbj)
+ - 💣 [And what was he doing?](http://9gag.com/gag/aRBPELM)
+ - 😝 [Eastren Europe celebrates pride for traditional families ..](http://9gag.com/gag/aAyrGdg)
+ - 👉 [England for the English - response of the silent majority to the Islamic invasion](http://9gag.com/gag/a0eLZQd)<!-- MEMES:END -->
 
 ---
 

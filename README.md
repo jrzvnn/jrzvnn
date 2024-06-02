@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon slashes Apple Watch styles by up to $170, prices as low as $189](https://appleinsider.com/articles/24/06/02/amazon-slashes-apple-watch-styles-by-up-to-170-prices-as-low-as-189?utm_medium=rss)
  - [Apple Cider Vinegar: 4 Unexpected Health Benefits and How Much to Drink     - CNET](https://www.cnet.com/health/nutrition/apple-cider-vinegar-4-unexpected-health-benefits-and-how-much-to-drink/#ftag=CAD590a51e)
  - [Best Solar Panel Installation Companies in New York     - CNET](https://www.cnet.com/home/energy-and-utilities/new-york-solar-panels/#ftag=CAD590a51e)
  - [Best Mattress for Stomach Sleepers in 2024     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-stomach-sleepers/#ftag=CAD590a51e)
- - [Hyundai’s first US-built EV will be the tax credit-ready Ioniq 5](https://www.theverge.com/2024/6/2/24169926/hyundai-ioniq-5-ev-first-us-made-electric-car-tax-credit-nacs)
- - [Best Meta Quest 3 Deals: Score a Free Game With Your Purchase     - CNET](https://www.cnet.com/deals/best-meta-quest-3-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Hyundai’s first US-built EV will be the tax credit-ready Ioniq 5](https://www.theverge.com/2024/6/2/24169926/hyundai-ioniq-5-ev-first-us-made-electric-car-tax-credit-nacs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

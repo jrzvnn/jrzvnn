@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SSI Recipients Aren&#39;t Getting a Payment in June. Here&#39;s Why     - CNET](https://www.cnet.com/personal-finance/ssi-recipients-arent-getting-a-payment-in-june-heres-why/#ftag=CAD590a51e)
  - [Today&#39;s Wordle Hints and Answer: Help for June 2, #1079     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-and-answer-help-for-june-2-1079/#ftag=CAD590a51e)
  - [Donald Trump&#39;s campaign joins TikTok, the app he once tried to ban; a TikTok official says there&#39;s a 2:1 ratio of pro-Trump versus pro-Biden content on the app &lpar;Politico&rpar;](http://www.techmeme.com/240602/p1#a240602p1)
  - [Today&#39;s NYT Connections Hints and Answers: Help for June 2, #357     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hints-answer-help-for-june-2-357/#ftag=CAD590a51e)
- - [My Favorite Sunrise Alarm Clock From Hatch Is Still $30 Cheaper Post-Memorial Day     - CNET](https://www.cnet.com/deals/hatch-restore-memorial-day-2024/#ftag=CAD590a51e)
- - [A look at activist groups&#39; efforts to keep Amazon, Google, and Microsoft from building more data centers in Chile, amid a drought expected to last until 2040 &lpar;Rest of World&rpar;](http://www.techmeme.com/240601/p12#a240601p12)<!-- TECH:END -->
+ - [My Favorite Sunrise Alarm Clock From Hatch Is Still $30 Cheaper Post-Memorial Day     - CNET](https://www.cnet.com/deals/hatch-restore-memorial-day-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

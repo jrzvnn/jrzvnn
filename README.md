@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guess who&#39;s responsible??....](http://9gag.com/gag/aMVrEnW)
- - 😝 [Wholesome friendship](http://9gag.com/gag/aqyNngY)
- - 💣 [Footage shows Dalia Dippolito reacting to the news that her husband has been murdered. However, the \u2018hitman\u2019 that she hired was actually an undercover cop and this sting was specifically organised just so they could arrest her. Her husband wasn\u2019t harmed.](http://9gag.com/gag/a6Zyq0R)
- - 😝 [One of the greatest moments in documentary history](http://9gag.com/gag/aBy3m41)
- - 👉 [When you realize why that super hot girl was single and willing to date you was because she&#39;s a psycho maniac](http://9gag.com/gag/aGywp90)<!-- MEMES:END -->
+ - 😝 [The most powerful navy in the world](http://9gag.com/gag/aO8b89v)
+ - 😝 [Headshot confirmed](http://9gag.com/gag/aRBPBK7)
+ - 💣 [Lovely guy!!](http://9gag.com/gag/azxEx7p)
+ - 😝 [Perfect](http://9gag.com/gag/aqyNyNM)
+ - 👉 [This is what should be rewarded...](http://9gag.com/gag/a7oyoLb)<!-- MEMES:END -->
 
 ---
 

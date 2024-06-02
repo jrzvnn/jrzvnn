@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Flap like a butterfly, flop like a fish......](http://9gag.com/gag/agmvnOg)
- - 😝 [One of the greatest moments in documentary history](http://9gag.com/gag/aBy3m41)
- - 💣 [Probably the biggest roast in the history of the internet](http://9gag.com/gag/abAygvL)
- - 😝 [Everybody&#39;s here!](http://9gag.com/gag/aO8bY32)
+ - 😝 [Do we have the name of this inferior human being?](http://9gag.com/gag/a5QPWrr)
+ - 😝 [Imagine running for your life and this is the fastest you can run.](http://9gag.com/gag/aXPpob6)
+ - 💣 [Artist dreams of nightmarish tiger, other artists make fan after of it.](http://9gag.com/gag/a0eLNmZ)
+ - 😝 [Any artist can confirm?](http://9gag.com/gag/ayN0MG8)
  - 👉 [Wholesome friendship](http://9gag.com/gag/aqyNngY)<!-- MEMES:END -->
 
 ---

@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Eastren Europe celebrates pride for traditional families ..](http://9gag.com/gag/aAyrGdg)
- - 😝 [England for the English - response of the silent majority to the Islamic invasion](http://9gag.com/gag/a0eLZQd)
- - 💣 [Headshot confirmed](http://9gag.com/gag/aRBPBK7)
+ - 😝 [When you realize why that super hot girl was single and willing to date you was because she&#39;s a psycho maniac](http://9gag.com/gag/aGywp90)
+ - 😝 [Wholesome friendship](http://9gag.com/gag/aqyNngY)
+ - 💣 [Peta heart attack material](http://9gag.com/gag/aqyNnyL)
  - 😝 [Guess who&#39;s responsible??....](http://9gag.com/gag/aMVrEnW)
- - 👉 [Lovely guy!!](http://9gag.com/gag/azxEx7p)<!-- MEMES:END -->
+ - 👉 [One of the greatest moments in documentary history](http://9gag.com/gag/aBy3m41)<!-- MEMES:END -->
 
 ---
 

@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro taught entire biology for a sleeping pillow](http://9gag.com/gag/an7KgWL)
- - 😝 [Here&#39;s one from the archives. Simpler times.](http://9gag.com/gag/aKGPmbj)
- - 💣 [And what was he doing?](http://9gag.com/gag/aRBPELM)
- - 😝 [Eastren Europe celebrates pride for traditional families ..](http://9gag.com/gag/aAyrGdg)
- - 👉 [England for the English - response of the silent majority to the Islamic invasion](http://9gag.com/gag/a0eLZQd)<!-- MEMES:END -->
+ - 😝 [Wholesome friendship](http://9gag.com/gag/aqyNngY)
+ - 😝 [Meanwhile at the Polish border...](http://9gag.com/gag/a9yLRRL)
+ - 💣 [Peta heart attack material](http://9gag.com/gag/aqyNnyL)
+ - 😝 [When you realize why that super hot girl was single and willing to date you was because she&#39;s a psycho maniac](http://9gag.com/gag/aGywp90)
+ - 👉 [Do we have the name of this inferior human being?](http://9gag.com/gag/a5QPWrr)<!-- MEMES:END -->
 
 ---
 

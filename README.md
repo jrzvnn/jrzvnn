@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You try to stall for time, but your rival sees his opportunity.](http://9gag.com/gag/aBy3gwP)
- - 😝 [One of the greatest moments in documentary history](http://9gag.com/gag/aBy3m41)
- - 💣 [Military Dad sees his transgender son for the first time](http://9gag.com/gag/aPA4Y4K)
- - 😝 [Wholesome friendship](http://9gag.com/gag/aqyNngY)
- - 👉 [Religion explained in 52 seconds.](http://9gag.com/gag/aPA4Y8G)<!-- MEMES:END -->
+ - 😝 [Do we have the name of this inferior human being?](http://9gag.com/gag/a5QPWrr)
+ - 😝 [How to get out of a friend zone.](http://9gag.com/gag/ae905P5)
+ - 💣 [She is the chosen one](http://9gag.com/gag/aRBPXg5)
+ - 😝 [Peta heart attack material](http://9gag.com/gag/aqyNnyL)
+ - 👉 [Wholesome friendship](http://9gag.com/gag/aqyNngY)<!-- MEMES:END -->
 
 ---
 

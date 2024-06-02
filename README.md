@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nubia Flip 5G Review: Cute, Cheap, and Flawed](https://www.wired.com/review/nubia-flip-5g/)
  - [Nvidia and AMD are bringing Microsoft’s Copilot Plus AI features to gaming laptops](https://www.theverge.com/2024/6/2/24169568/microsoft-copilot-plus-gaming-pc-nvidia-amd)
  - [Nvidia’s G-Assist is an AI chatbot that guides you through games and optimizes your PC](https://www.theverge.com/2024/6/2/24169567/nvidias-g-assist-geforce-ai-assistant-chatbot)
  - [Nvidia’s small GPU initiative will keep graphics cards large — but I’m glad it exists](https://www.theverge.com/2024/6/2/24168870/nvidia-sff-ready-enthusiast-geforce-card)
- - [6 Best Linen Sheets &lpar;2024&rpar;: Breathable, Soft, Affordable](https://www.wired.com/gallery/best-linen-sheets/)
- - [A better way to take video on your phone](https://www.theverge.com/2024/6/2/24168881/best-app-phone-video-kino-fitbit-ace-moviepass-installer)<!-- TECH:END -->
+ - [6 Best Linen Sheets &lpar;2024&rpar;: Breathable, Soft, Affordable](https://www.wired.com/gallery/best-linen-sheets/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

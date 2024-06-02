@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Crime blotter: California Apple Store theft suspects in court](https://appleinsider.com/articles/24/06/02/crime-blotter-california-apple-store-theft-suspects-in-court?utm_medium=rss)
  - [Q&amp;A with FTC&#39;s Privacy and Identity Protection executive Ben Wiseman on proposed commercial surveillance rules, connected car industry&#39;s data practices, more &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/240602/p8#a240602p8)
  - [Best Mattress for Adjustable Beds in 2024     - CNET](https://www.cnet.com/health/sleep/best-adjustable-mattress/#ftag=CAD590a51e)
  - [Best Firm Mattress of 2024     - CNET](https://www.cnet.com/health/sleep/best-firm-mattress/#ftag=CAD590a51e)
- - [Best Memory Foam Mattresses for 2024     - CNET](https://www.cnet.com/health/sleep/best-memory-foam-mattress/#ftag=CAD590a51e)
- - [Billionaire who booked a SpaceX flight around the Moon cancels after delays](https://www.theverge.com/2024/6/2/24169972/spacex-starship-billionaire-lunar-flight-dearmoon-canceled-delays-yusaku-maezawa)<!-- TECH:END -->
+ - [Best Memory Foam Mattresses for 2024     - CNET](https://www.cnet.com/health/sleep/best-memory-foam-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

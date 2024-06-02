@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Asus ROG Ally X is official — and I took a peek inside](https://www.theverge.com/2024/6/2/24169709/asus-rog-ally-x-price-release-date-inside-gaming-handheld)
  - [SSI Recipients Aren&#39;t Getting a Payment in June. Here&#39;s Why     - CNET](https://www.cnet.com/personal-finance/ssi-recipients-arent-getting-a-payment-in-june-heres-why/#ftag=CAD590a51e)
  - [Today&#39;s Wordle Hints and Answer: Help for June 2, #1079     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-and-answer-help-for-june-2-1079/#ftag=CAD590a51e)
  - [Donald Trump&#39;s campaign joins TikTok, the app he once tried to ban; a TikTok official says there&#39;s a 2:1 ratio of pro-Trump versus pro-Biden content on the app &lpar;Politico&rpar;](http://www.techmeme.com/240602/p1#a240602p1)
- - [Today&#39;s NYT Connections Hints and Answers: Help for June 2, #357     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hints-answer-help-for-june-2-357/#ftag=CAD590a51e)
- - [My Favorite Sunrise Alarm Clock From Hatch Is Still $30 Cheaper Post-Memorial Day     - CNET](https://www.cnet.com/deals/hatch-restore-memorial-day-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints and Answers: Help for June 2, #357     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hints-answer-help-for-june-2-357/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

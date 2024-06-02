@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia plans to upgrade its AI accelerators annually, and announces a Blackwell Ultra chip for 2025 and a next-gen Rubin AI platform for 2026 that will use HBM4 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240602/p4#a240602p4)
  - [Dyson Supersonic Nural Hair Dryer Review: Fast Drying and New Smart Attachments](https://www.wired.com/review/dyson-supersonic-nural-hair-dryer/)
  - [Jensen Huang said at Computex that Asus, Pegatron, Wistron, and others will deliver cloud, on-prem, embedded, and edge AI systems using Nvidia Blackwell GPUs &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240602/p3#a240602p3)
- - [Nubia Flip 5G Review: Cute, Cheap, and Flawed](https://www.wired.com/review/nubia-flip-5g/)
- - [Nvidia Project G-Assist, SFF PC Standard Arrive at Computex     - CNET](https://www.cnet.com/tech/gaming/nvidia-project-g-assist-sff-pc-standard-arrive-at-computex/#ftag=CAD590a51e)
- - [Nvidia and AMD are bringing Microsoft’s Copilot Plus AI features to gaming laptops](https://www.theverge.com/2024/6/2/24169568/microsoft-copilot-plus-gaming-pc-nvidia-amd)<!-- TECH:END -->
+ - [7 Foods I Now Make Exclusively in the Air Fryer     - CNET](https://www.cnet.com/how-to/7-foods-i-now-make-exclusively-in-an-air-fryer/#ftag=CAD590a51e)
+ - [&#39;Yellowstone&#39;: How to Watch Every Episode of the Hit Drama From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/yellowstone-how-to-watch-every-episode-of-the-hit-drama-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

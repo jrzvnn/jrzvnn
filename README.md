@@ -162,9 +162,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Dyson Supersonic Nural Hair Dryer Review: Fast Drying and New Smart Attachments](https://www.wired.com/review/dyson-supersonic-nural-hair-dryer/)
  - [Jensen Huang said at Computex that Asus, Pegatron, Wistron, and others will deliver cloud, on-prem, embedded, and edge AI systems using Nvidia Blackwell GPUs &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240602/p3#a240602p3)
- - [7 Foods I Now Make Exclusively in the Air Fryer     - CNET](https://www.cnet.com/how-to/7-foods-i-now-make-exclusively-in-an-air-fryer/#ftag=CAD590a51e)
- - [&#39;Yellowstone&#39;: How to Watch Every Episode of the Hit Drama From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/yellowstone-how-to-watch-every-episode-of-the-hit-drama-from-anywhere/#ftag=CAD590a51e)
- - [TikTok Saved My Life. 2 Diabetes Gadgets I Now Use Every Day     - CNET](https://www.cnet.com/health/medical/tiktok-saved-my-life-2-diabetes-gadgets-i-now-use-every-day/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nubia Flip 5G Review: Cute, Cheap, and Flawed](https://www.wired.com/review/nubia-flip-5g/)
+ - [Nvidia Project G-Assist, SFF PC Standard Arrive at Computex     - CNET](https://www.cnet.com/tech/gaming/nvidia-project-g-assist-sff-pc-standard-arrive-at-computex/#ftag=CAD590a51e)
+ - [Nvidia and AMD are bringing Microsoft’s Copilot Plus AI features to gaming laptops](https://www.theverge.com/2024/6/2/24169568/microsoft-copilot-plus-gaming-pc-nvidia-amd)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

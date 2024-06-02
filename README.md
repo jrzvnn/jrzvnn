@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Jensen Huang said at Computex that Asus, Pegatron, Wistron, and others will deliver cloud, on-prem, embedded, and edge AI systems using Nvidia Blackwell GPUs &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240602/p3#a240602p3)
  - [Nubia Flip 5G Review: Cute, Cheap, and Flawed](https://www.wired.com/review/nubia-flip-5g/)
  - [Nvidia Project G-Assist, SFF PC Standard Arrive at Computex     - CNET](https://www.cnet.com/tech/gaming/nvidia-project-g-assist-sff-pc-standard-arrive-at-computex/#ftag=CAD590a51e)
  - [Nvidia and AMD are bringing Microsoft’s Copilot Plus AI features to gaming laptops](https://www.theverge.com/2024/6/2/24169568/microsoft-copilot-plus-gaming-pc-nvidia-amd)
- - [Nvidia’s G-Assist is an AI chatbot that guides you through games and optimizes your PC](https://www.theverge.com/2024/6/2/24169567/nvidias-g-assist-geforce-ai-assistant-chatbot)
- - [Nvidia’s small GPU initiative will keep graphics cards large — but I’m glad it exists](https://www.theverge.com/2024/6/2/24168870/nvidia-sff-ready-enthusiast-geforce-card)<!-- TECH:END -->
+ - [Nvidia’s G-Assist is an AI chatbot that guides you through games and optimizes your PC](https://www.theverge.com/2024/6/2/24169567/nvidias-g-assist-geforce-ai-assistant-chatbot)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

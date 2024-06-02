@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Do we have the name of this inferior human being?](http://9gag.com/gag/a5QPWrr)
- - 😝 [Imagine running for your life and this is the fastest you can run.](http://9gag.com/gag/aXPpob6)
- - 💣 [Artist dreams of nightmarish tiger, other artists make fan after of it.](http://9gag.com/gag/a0eLNmZ)
- - 😝 [Any artist can confirm?](http://9gag.com/gag/ayN0MG8)
- - 👉 [Wholesome friendship](http://9gag.com/gag/aqyNngY)<!-- MEMES:END -->
+ - 😝 [Wholesome friendship](http://9gag.com/gag/aqyNngY)
+ - 😝 [Peta heart attack material](http://9gag.com/gag/aqyNnyL)
+ - 💣 [I need a new gaming setup](http://9gag.com/gag/ayN0Bvy)
+ - 😝 [Artist dreams of nightmarish tiger, other artists make fan after of it.](http://9gag.com/gag/a0eLNmZ)
+ - 👉 [I can&#39;t stop crying, I need help](http://9gag.com/gag/aLnP07v)<!-- MEMES:END -->
 
 ---
 

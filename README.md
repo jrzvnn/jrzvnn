@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro taught entire biology for a sleeping pillow](http://9gag.com/gag/an7KgWL)
+ - 😝 [Any artist can confirm?](http://9gag.com/gag/ayN0MG8)
  - 😝 [Thought?](http://9gag.com/gag/aGywpD6)
- - 💣 [Spot on !](http://9gag.com/gag/an7KgQq)
- - 😝 [Honest and well done work](http://9gag.com/gag/aPA43zw)
- - 👉 [We do immigration all wrong.](http://9gag.com/gag/amo0Ppo)<!-- MEMES:END -->
+ - 💣 [3 Bri&#39;ish got beaten by thai security guards for refusing to pay their bar tabs and telling the guards, `we own this country!` In Pattaya, Thailand](http://9gag.com/gag/aD2349K)
+ - 😝 [Peta heart attack material](http://9gag.com/gag/aqyNnyL)
+ - 👉 [Today is a great day to censor the truth on 9gag](http://9gag.com/gag/apR0mzD)<!-- MEMES:END -->
 
 ---
 

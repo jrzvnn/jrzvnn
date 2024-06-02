@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [16 Best Festival Accessories and Gear &lpar;2024&rpar;: Fanny Packs, Inflatable Couches, and More](https://www.wired.com/gallery/best-festival-accessories-and-gear/)
+ - [Nvidia said newly announced RTX AI PC laptops from Asus and MSI will have up to GeForce RTX 4070 GPUs and &quot;systems-on-a-chip with Windows 11 AI PC capabilities&quot; &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240602/p5#a240602p5)
  - [Hit-and-run driver busted by AirPod lost after cyclist crashed through window](https://appleinsider.com/articles/24/06/02/hit-and-run-driver-busted-by-airpod-lost-after-cyclist-crashed-through-window?utm_medium=rss)
  - [Nvidia plans to upgrade its AI accelerators annually, and announces a Blackwell Ultra chip for 2025 and a next-gen Rubin AI platform for 2026 that will use HBM4 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240602/p4#a240602p4)
- - [Dyson Supersonic Nural Hair Dryer Review: Fast Drying and New Smart Attachments](https://www.wired.com/review/dyson-supersonic-nural-hair-dryer/)
- - [Jensen Huang said at Computex that Asus, Pegatron, Wistron, and others will deliver cloud, on-prem, embedded, and edge AI systems using Nvidia Blackwell GPUs &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240602/p3#a240602p3)
- - [7 Foods I Now Make Exclusively in the Air Fryer     - CNET](https://www.cnet.com/how-to/7-foods-i-now-make-exclusively-in-an-air-fryer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Dyson Supersonic Nural Hair Dryer Review: Fast Drying and New Smart Attachments](https://www.wired.com/review/dyson-supersonic-nural-hair-dryer/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

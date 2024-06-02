@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Perhaps there is hope..](http://9gag.com/gag/avygAvd)
- - 😝 [Oh the irony](http://9gag.com/gag/aQz4EA2)
- - 💣 [Hello, hello, leave this man alone, hello hello hello!](http://9gag.com/gag/aE01gXe)
- - 😝 [Artist dreams of nightmarish tiger, other artists make fan after of it.](http://9gag.com/gag/a0eLNmZ)
- - 👉 [One of the greatest moments in documentary history](http://9gag.com/gag/aBy3m41)<!-- MEMES:END -->
+ - 😝 [Footage shows Dalia Dippolito reacting to the news that her husband has been murdered. However, the \u2018hitman\u2019 that she hired was actually an undercover cop and this sting was specifically organised just so they could arrest her. Her husband wasn\u2019t harmed.](http://9gag.com/gag/a6Zyq0R)
+ - 😝 [Guess who&#39;s responsible??....](http://9gag.com/gag/aMVrEnW)
+ - 💣 [This is what should be rewarded...](http://9gag.com/gag/a7oyoLb)
+ - 😝 [Wholesome friendship](http://9gag.com/gag/aqyNngY)
+ - 👉 [Do we have the name of this inferior human being?](http://9gag.com/gag/a5QPWrr)<!-- MEMES:END -->
 
 ---
 

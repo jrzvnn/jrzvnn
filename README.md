@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is why the Sea Shepard never visited Norway again. The Royal Norwegian Coast Guard don&#39;t mess around.](http://9gag.com/gag/aQz4ddr)
- - 😝 [Do we have the name of this inferior human being?](http://9gag.com/gag/a5QPWrr)
- - 💣 [Artist dreams of nightmarish tiger, other artists make fan after of it.](http://9gag.com/gag/a0eLNmZ)
- - 😝 [French police](http://9gag.com/gag/amo0P72)
- - 👉 [I can&#39;t stop crying, I need help](http://9gag.com/gag/aLnP07v)<!-- MEMES:END -->
+ - 😝 [That moment of realization](http://9gag.com/gag/aqyNnm7)
+ - 😝 [Guess who&#39;s responsible??....](http://9gag.com/gag/aMVrEnW)
+ - 💣 [One of the greatest moments in documentary history](http://9gag.com/gag/aBy3m41)
+ - 😝 [Wholesome friendship](http://9gag.com/gag/aqyNngY)
+ - 👉 [Peta heart attack material](http://9gag.com/gag/aqyNnyL)<!-- MEMES:END -->
 
 ---
 

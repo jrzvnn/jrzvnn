@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Europe 2024](http://9gag.com/gag/a87YqQ6)
- - 😝 [Perfect](http://9gag.com/gag/aqyNyNM)
- - 💣 [When you realize why that super hot girl was single and willing to date you was because she&#39;s a psycho maniac](http://9gag.com/gag/aGywp90)
- - 😝 [Heartbreaking, nearly 4 decades in prison despite being innocent](http://9gag.com/gag/aVvWgY2)
- - 👉 [One of the greatest moments in documentary history](http://9gag.com/gag/aBy3m41)<!-- MEMES:END -->
+ - 😝 [Thought?](http://9gag.com/gag/aGywpD6)
+ - 😝 [Guess who&#39;s responsible??....](http://9gag.com/gag/aMVrEnW)
+ - 💣 [Europe 2024](http://9gag.com/gag/a87YqQ6)
+ - 😝 [Slick](http://9gag.com/gag/aGywyNZ)
+ - 👉 [Heartbreaking, nearly 4 decades in prison despite being innocent](http://9gag.com/gag/aVvWgY2)<!-- MEMES:END -->
 
 ---
 

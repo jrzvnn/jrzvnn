@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Any artist can confirm?](http://9gag.com/gag/ayN0MG8)
+ - 😝 [Islamist attacked with a knife in Germany! The conservative politician and anti-Islam activist Michael St\u00fcrzenberger was stabbed during a public meeting in Mannheim. A police officers was also stabbed in the neck. &lpar;Video in comments&rpar; .](http://9gag.com/gag/azxE9zb)
  - 😝 [Do we have the name of this inferior human being?](http://9gag.com/gag/a5QPWrr)
- - 💣 [When you realize why that super hot girl was single and willing to date you was because she&#39;s a psycho maniac](http://9gag.com/gag/aGywp90)
- - 😝 [Wholesome friendship](http://9gag.com/gag/aqyNngY)
- - 👉 [One of the greatest moments in documentary history](http://9gag.com/gag/aBy3m41)<!-- MEMES:END -->
+ - 💣 [One of the greatest moments in documentary history](http://9gag.com/gag/aBy3m41)
+ - 😝 [Fun in US never stop](http://9gag.com/gag/aRBP0R7)
+ - 👉 [When you realize why that super hot girl was single and willing to date you was because she&#39;s a psycho maniac](http://9gag.com/gag/aGywp90)<!-- MEMES:END -->
 
 ---
 

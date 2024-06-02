@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fun in US never stop](http://9gag.com/gag/aRBP0R7)
+ - 😝 [Do we have the name of this inferior human being?](http://9gag.com/gag/a5QPWrr)
  - 😝 [Meanwhile at the Polish border...](http://9gag.com/gag/a9yLRRL)
- - 💣 [Wholesome friendship](http://9gag.com/gag/aqyNngY)
- - 😝 [When you realize why that super hot girl was single and willing to date you was because she&#39;s a psycho maniac](http://9gag.com/gag/aGywp90)
- - 👉 [Today is a great day to censor the truth on 9gag](http://9gag.com/gag/apR0mzD)<!-- MEMES:END -->
+ - 💣 [Religion explained in 52 seconds.](http://9gag.com/gag/aPA4Y8G)
+ - 😝 [One of the greatest moments in documentary history](http://9gag.com/gag/aBy3m41)
+ - 👉 [She is the chosen one](http://9gag.com/gag/aRBPXg5)<!-- MEMES:END -->
 
 ---
 

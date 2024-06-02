@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Memory Foam Mattresses for 2024     - CNET](https://www.cnet.com/health/sleep/best-memory-foam-mattress/#ftag=CAD590a51e)
  - [Billionaire who booked a SpaceX flight around the Moon cancels after delays](https://www.theverge.com/2024/6/2/24169972/spacex-starship-billionaire-lunar-flight-dearmoon-canceled-delays-yusaku-maezawa)
  - [Amazon slashes Apple Watch styles by up to $170, prices as low as $189](https://appleinsider.com/articles/24/06/02/amazon-slashes-apple-watch-styles-by-up-to-170-prices-as-low-as-189?utm_medium=rss)
- - [Apple Cider Vinegar: 4 Unexpected Health Benefits and How Much to Drink     - CNET](https://www.cnet.com/health/nutrition/apple-cider-vinegar-4-unexpected-health-benefits-and-how-much-to-drink/#ftag=CAD590a51e)
- - [Best Solar Panel Installation Companies in New York     - CNET](https://www.cnet.com/home/energy-and-utilities/new-york-solar-panels/#ftag=CAD590a51e)
- - [Best Mattress for Stomach Sleepers in 2024     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-stomach-sleepers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Washing Machines for 2024     - CNET](https://www.cnet.com/home/kitchen-and-household/best-washing-machine/#ftag=CAD590a51e)
+ - [Prime Video: The 32 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/tech/services-and-software/prime-video-the-32-absolute-best-tv-shows-to-watch-in-june-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

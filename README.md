@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 11 Best Travel Adapters &lpar;2024&rpar;: Plug Adapters and Universal Adapters](https://www.wired.com/gallery/best-travel-adapters/)
- - [The CEO of Zoom wants AI clones in meetings](https://www.theverge.com/2024/6/3/24168733/zoom-ceo-ai-clones-digital-twins-videoconferencing-decoder-interview)
- - [The Verge’s 2024 summer gift guide](https://www.theverge.com/24158599/summer-gift-ideas-2024-tech-gadgets-birthday-anniversary-wedding)
- - [iPhone Fold is on the way, but you&#39;re still going to have to wait a while](https://appleinsider.com/articles/24/06/03/iphone-fold-is-on-the-way-but-youre-still-going-to-have-to-wait-a-while?utm_medium=rss)
- - [Venom and Eddie are on the run in The Last Dance’s first trailer](https://www.theverge.com/24170379/venom-the-last-dance-trailer)<!-- TECH:END -->
+ - [Sony unveils a $60 PC adapter for PlayStation VR2, adding PC support to the PS5-exclusive headset, launching on August 7 with support for all Steam VR games &lpar;Andrew Webster/The Verge&rpar;](http://www.techmeme.com/240603/p15#a240603p15)
+ - [Sony’s PSVR 2 PC adapter launches in August](https://www.theverge.com/2024/6/3/24168060/sony-psvr-2-pc-adapter-ps5)
+ - [Elon Musk is taking on Tesla ‘oathbreakers’ in fight for his $56 billion pay package](https://www.theverge.com/2024/6/3/24170368/elon-musk-tesla-pay-package-shareholder-meeting)
+ - [Daisy recycling robot now smashes iPhones for speed](https://appleinsider.com/articles/24/06/03/daisy-recycling-robot-now-smashes-iphones-for-speed?utm_medium=rss)
+ - [The 11 Best Travel Adapters &lpar;2024&rpar;: Plug Adapters and Universal Adapters](https://www.wired.com/gallery/best-travel-adapters/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

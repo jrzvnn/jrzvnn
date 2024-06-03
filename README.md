@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Big-Tech Clean Energy Crunch Is Here](https://www.wired.com/story/big-tech-datacenter-energy-power-grid/)
  - [Embarrassing Qualcomm ad claims &#39;I&#39;m a Mac&#39; actor is switching to Windows ARM over notifications](https://appleinsider.com/articles/24/06/03/embarrassing-qualcomm-ad-claims-im-a-mac-actor-is-switching-to-windows-arm-over-notifications?utm_medium=rss)
  - [16 Best Cheap Headphones and Earbuds for $100 or Less &lpar;2024&rpar;](https://www.wired.com/gallery/best-headphones-under-100/)
  - [Microsoft plans to invest $3.21B to expand its cloud and AI infrastructure in Sweden over two years, including a pledge to train 250K people with AI skills &lpar;Reuters&rpar;](http://www.techmeme.com/240603/p11#a240603p11)
- - [How to Use Discord: A Beginner’s Guide](https://www.wired.com/story/how-to-use-discord/)
- - [Spotify plans to raise US prices: Premium from $10.99 to $11.99 per month, Duo from $14.99 to $16.99, and Family from $16.99 to $19.99, after a July 2023 hike &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240603/p10#a240603p10)<!-- TECH:END -->
+ - [How to Use Discord: A Beginner’s Guide](https://www.wired.com/story/how-to-use-discord/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s latest MacBook Air with M3 chip, 16GB RAM drops to $1,149](https://appleinsider.com/articles/24/06/03/apples-latest-macbook-air-with-m3-chip-16gb-ram-drops-to-1149?utm_medium=rss)
  - [X has new rules that officially allow porn now](https://www.theverge.com/2024/6/3/24170352/x-xxx-porn-adult-content-terms-of-service-policy-update)
  - [An internal Google database tracking thousands of privacy and security issues from 2013-2018 details a myriad of data management mistakes made at the company &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/240603/p17#a240603p17)
  - [Apple may add Respiration Tracking to the Apple Vision Pro Mindfulness app](https://appleinsider.com/articles/24/06/03/apple-may-add-respiration-tracking-to-the-apple-vision-pro-mindfulness-app?utm_medium=rss)
- - [Q&amp;A with Zoom CEO Eric Yuan on AI features, the AI pitch, video calls, layoffs, LLMs, solving hallucinations, Zoom 6.0, Microsoft Teams, digital twins, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240603/p16#a240603p16)
- - [PlayStation Days of Play Sale: PS5 Deals, PS VR2, Games and More     - CNET](https://www.cnet.com/deals/playstation-days-of-play-sale-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Q&amp;A with Zoom CEO Eric Yuan on AI features, the AI pitch, video calls, layoffs, LLMs, solving hallucinations, Zoom 6.0, Microsoft Teams, digital twins, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240603/p16#a240603p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

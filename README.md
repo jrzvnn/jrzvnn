@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Antenna: Spotify users are the least likely to cancel among major video or audio streaming services in the US, with a ~2% monthly churn rate, similar to Netflix &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/240603/p13#a240603p13)
+ - [How to buy the best mechanical keyboard for your needs](https://appleinsider.com/inside/accessories-and-io/best/how-to-buy-the-best-mechanical-keyboard-for-your-needs?utm_medium=rss)
+ - [Lovense Mini Sex Machine Review: All the Key Features at an Affordable Price](https://www.wired.com/review/lovense-mini-sex-machine/)
  - [X changes its adult content policies, formally letting users post consensual NSFW and AI content provided it is properly labeled and &quot;not prominently displayed&quot; &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240603/p12#a240603p12)
- - [The Big-Tech Clean Energy Crunch Is Here](https://www.wired.com/story/big-tech-datacenter-energy-power-grid/)
- - [Embarrassing Qualcomm ad claims &#39;I&#39;m a Mac&#39; actor is switching to Windows ARM over notifications](https://appleinsider.com/articles/24/06/03/embarrassing-qualcomm-ad-claims-im-a-mac-actor-is-switching-to-windows-arm-over-notifications?utm_medium=rss)
- - [16 Best Cheap Headphones and Earbuds for $100 or Less &lpar;2024&rpar;](https://www.wired.com/gallery/best-headphones-under-100/)
- - [Microsoft plans to invest $3.21B to expand its cloud and AI infrastructure in Sweden over two years, including a pledge to train 250K people with AI skills &lpar;Reuters&rpar;](http://www.techmeme.com/240603/p11#a240603p11)<!-- TECH:END -->
+ - [The Big-Tech Clean Energy Crunch Is Here](https://www.wired.com/story/big-tech-datacenter-energy-power-grid/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

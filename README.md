@@ -163,10 +163,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Sources and filings detail Sam Altman&#39;s investment portfolio as he and his venture funds have invested in 400+ companies and his holdings are worth $2.8B+ &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240603/p2#a240603p2)
- - [AMD says the 3nm EPYC Turin processors will launch in the second half of 2024, based on Zen 5 architecture, and the chips will feature 192 cores and 384 threads &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240603/p1#a240603p1)
+ - [AMD says the 3nm EPYC Turin data center chips will launch in the second half of 2024, based on Zen 5 architecture, featuring up to 192 cores and 384 threads &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240603/p1#a240603p1)
  - [AMD announces a yearly data center GPU release cycle, starting with Instinct MI325X, slated for later in 2024 and meant to best Nvidia H200 in peak performance &lpar;CRN&rpar;](http://www.techmeme.com/240602/p11#a240602p11)
- - [AMD announces two new Ryzen AI 300 series mobile chips, Ryzen AI 9 365 and Ryzen AI 9 HX 370, each with a 50 TOPS NPU, shipping in July &lpar;Mark Hachman/PCWorld&rpar;](http://www.techmeme.com/240602/p10#a240602p10)
- - [AMD unveils four new Ryzen 9000-series chips slated for July, powered by its new Zen 5 microarchitecture, which it says delivers 16% more instructions per cycle &lpar;Gavin Bonshor/AnandTech&rpar;](http://www.techmeme.com/240602/p9#a240602p9)<!-- TECH:END -->
+ - [Watch Everything Announced from AMD Keynote at Computex 2024 video     - CNET](https://www.cnet.com/videos/watch-everything-announced-from-amd-keynote-at-computex-2024/#ftag=CAD590a51e)
+ - [AMD announces two new Ryzen AI 300 series mobile chips, Ryzen AI 9 365 and Ryzen AI 9 HX 370, each with a 50 TOPS NPU, shipping in July &lpar;Mark Hachman/PCWorld&rpar;](http://www.techmeme.com/240602/p10#a240602p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

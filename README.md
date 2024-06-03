@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Instagram confirms it is testing an unskippable ad format with a countdown timer that briefly prevents feed scrolling &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240603/p18#a240603p18)
+ - [Lego’s lunar lander set is available at a rare discount](https://www.theverge.com/2024/6/3/24170539/amazon-lego-creator-expert-10266-nasa-apollo-11-lunar-lander-deal-sale)
  - [You can grab a year of Peacock Premium for just $20 ahead of its impending price hike](https://www.theverge.com/2024/6/3/24167125/peacock-streaming-subscription-belkin-3-in-1-charging-stand-deal-sale)
  - [China’s lunar probe is retrieving samples from the far side of the Moon](https://www.theverge.com/2024/6/3/24170523/china-change-6-probe-moon-landing)
- - [Best Apple Pencil Deals: Get an iPad Stylus for Less     - CNET](https://www.cnet.com/deals/best-apple-pencil-deals/#ftag=CAD590a51e)
- - [Watch the No. 1 Trending Movie on Netflix: &#39;Godzilla Minus One&#39;     - CNET](https://www.cnet.com/tech/services-and-software/watch-the-no-1-trending-movie-on-netflix-godzilla-minus-one/#ftag=CAD590a51e)
- - [Apple may add Respiration Tracking to the Apple Vision Pro Mindfulness app](https://appleinsider.com/articles/24/06/03/apple-may-add-respiration-tracking-to-the-apple-vision-pro-mindfulness-app?utm_medium=rss)<!-- TECH:END -->
+ - [Best Apple Pencil Deals: Get an iPad Stylus for Less     - CNET](https://www.cnet.com/deals/best-apple-pencil-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

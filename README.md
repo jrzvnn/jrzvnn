@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X has new rules that officially allow porn now](https://www.theverge.com/2024/6/3/24170352/x-xxx-porn-adult-content-terms-of-service-policy-update)
+ - [An internal Google database tracking thousands of privacy and security issues from 2013-2018 details a myriad of data management mistakes made at the company &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/240603/p17#a240603p17)
+ - [Apple may add Respiration Tracking to the Apple Vision Pro Mindfulness app](https://appleinsider.com/articles/24/06/03/apple-may-add-respiration-tracking-to-the-apple-vision-pro-mindfulness-app?utm_medium=rss)
  - [Q&amp;A with Zoom CEO Eric Yuan on AI features, the AI pitch, video calls, layoffs, LLMs, solving hallucinations, Zoom 6.0, Microsoft Teams, digital twins, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240603/p16#a240603p16)
- - [Baldur’s Gate 3 mod support is coming in September](https://www.theverge.com/2024/6/3/24170409/baldurs-gate-3-mod-support-pc-consoles)
- - [Sony updates its camera app to offer multi-cam monitoring](https://www.theverge.com/2024/6/3/24170423/sony-monitor-control-app-multicam-final-cut-camera-update)
- - [Sony unveils a $60 PC adapter for the PlayStation VR2, adding PC support to the PS5-exclusive headset, launching on August 7 with support for all Steam VR games &lpar;Andrew Webster/The Verge&rpar;](http://www.techmeme.com/240603/p15#a240603p15)
- - [Sony’s PSVR 2 PC adapter launches in August](https://www.theverge.com/2024/6/3/24168060/sony-psvr-2-pc-adapter-ps5)<!-- TECH:END -->
+ - [PlayStation Days of Play Sale: PS5 Deals, PS VR2, Games and More     - CNET](https://www.cnet.com/deals/playstation-days-of-play-sale-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AMD’s next generation of AI laptop processors have a new name too](https://www.theverge.com/2024/6/2/24168951/amd-ryzen-ai-9-300-series-hx-laptop-processors)
+ - [AMD’s first Zen 5 CPU is the ‘monster’ Ryzen 9 9950X](https://www.theverge.com/2024/6/2/24168544/amd-zen-5-ryzen-9-9950x-cpu-computex-2024)
  - [Best Solar Panel Installation Companies in Colorado     - CNET](https://www.cnet.com/home/energy-and-utilities/colorado-solar-panels/#ftag=CAD590a51e)
  - [Here is what’s happening at Computex 2024](https://www.theverge.com/2024/6/2/24168856/computex-2024-convention-news-announcements)
- - [PewDiePie ‘avenged’ as MrBeast becomes YouTube’s most-subscribed channel](https://www.theverge.com/2024/6/2/24170045/mrbeast-youtube-most-subscribed-channel-t-series-pewdiepie)
- - [Best Solar Panel Installation Companies in Kentucky     - CNET](https://www.cnet.com/home/energy-and-utilities/kentucky-solar-panels/#ftag=CAD590a51e)
- - [Crime blotter: California Apple Store theft suspects in court](https://appleinsider.com/articles/24/06/02/crime-blotter-california-apple-store-theft-suspects-in-court?utm_medium=rss)<!-- TECH:END -->
+ - [PewDiePie ‘avenged’ as MrBeast becomes YouTube’s most-subscribed channel](https://www.theverge.com/2024/6/2/24170045/mrbeast-youtube-most-subscribed-channel-t-series-pewdiepie)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

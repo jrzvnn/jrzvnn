@@ -172,10 +172,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Mannheim knife attacker was illegal in Germany for 9 years. His asylum request was rejected in 2014. In 2023 he had a child with a German woman so he got a residence permit. His YT channel was filled with Taliban propaganda.](http://9gag.com/gag/aE016K9)
+ - 😝 [Nobody reading this?](http://9gag.com/gag/aXPpn62)
+ - 💣 [The police officer from Mannheim died today. Where are the protests?](http://9gag.com/gag/ae904gj)
  - 😝 [Taylor Swift might have finally met her match](http://9gag.com/gag/amo0WM9)
- - 💣 [New Google](http://9gag.com/gag/a6ZyXOq)
- - 😝 [Now this is what I call good Police work, well done!!](http://9gag.com/gag/a4Pdn7A)
- - 👉 [Welp, Kanlaon volcano just erupted, the smoke plume is already 5 km up in the sky, i think this is it bois](http://9gag.com/gag/a0eLXwZ)<!-- MEMES:END -->
+ - 👉 [Well she&#39;s right](http://9gag.com/gag/avygWKq)<!-- MEMES:END -->
 
 ---
 

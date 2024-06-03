@@ -171,10 +171,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is what should be rewarded...](http://9gag.com/gag/a7oyoLb)
- - 😝 [When you realize why that super hot girl was single and willing to date you was because she&#39;s a psycho maniac](http://9gag.com/gag/aGywp90)
- - 💣 [Europe 2024](http://9gag.com/gag/a87YqQ6)
- - 😝 [I know you guys would be amazed by this.](http://9gag.com/gag/avygAGW)
+ - 😝 [The race card against Eminem.](http://9gag.com/gag/a9yLq91)
+ - 😝 [Probably the biggest roast in the history of the internet](http://9gag.com/gag/abAygvL)
+ - 💣 [I&#39;ll be in my bunk](http://9gag.com/gag/a1mem0Y)
+ - 😝 [Guess who&#39;s responsible??....](http://9gag.com/gag/aMVrEnW)
  - 👉 [Looks like they ran over a diver and their `diver in water` warning float](http://9gag.com/gag/a9yLqXZ)<!-- MEMES:END -->
 
 ---

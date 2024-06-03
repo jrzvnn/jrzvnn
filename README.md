@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [German police officer is dead](http://9gag.com/gag/a9yLygm)
- - 😝 [Well she&#39;s right](http://9gag.com/gag/avygWKq)
- - 💣 [As an Asian I can confirm and I feel safe when I see one.](http://9gag.com/gag/aBy3Z5Z)
- - 😝 [Footage shows Dalia Dippolito reacting to the news that her husband has been murdered. However, the \u2018hitman\u2019 that she hired was actually an undercover cop and this sting was specifically organised just so they could arrest her. Her husband wasn\u2019t harmed.](http://9gag.com/gag/a6Zyq0R)
- - 👉 [Looks like they ran over a diver and their `diver in water` warning float](http://9gag.com/gag/a9yLqXZ)<!-- MEMES:END -->
+ - 😝 [I&#39;ll be in my bunk](http://9gag.com/gag/a1mem0Y)
+ - 😝 [Still would](http://9gag.com/gag/a9yL6YL)
+ - 💣 [Footage shows Dalia Dippolito reacting to the news that her husband has been murdered. However, the \u2018hitman\u2019 that she hired was actually an undercover cop and this sting was specifically organised just so they could arrest her. Her husband wasn\u2019t harmed.](http://9gag.com/gag/a6Zyq0R)
+ - 😝 [Look at these male human...](http://9gag.com/gag/a6ZyXXb)
+ - 👉 [Welp, Kanlaon volcano just erupted, the smoke plume is already 5 km up in the sky, i think this is it bois](http://9gag.com/gag/a0eLXwZ)<!-- MEMES:END -->
 
 ---
 

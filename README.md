@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Palmer Luckey is now selling pixel-perfect ultrabright magnesium Game Boys for $199](https://www.theverge.com/2024/6/3/24170572/modretro-chromatic-game-boy-color-palmer-luckey-price-release-date)
  - [Instagram confirms it is testing an unskippable ad format with a countdown timer that briefly prevents feed scrolling &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240603/p18#a240603p18)
  - [Lego’s lunar lander set is available at a rare discount](https://www.theverge.com/2024/6/3/24170539/amazon-lego-creator-expert-10266-nasa-apollo-11-lunar-lander-deal-sale)
  - [You can grab a year of Peacock Premium for just $20 ahead of its impending price hike](https://www.theverge.com/2024/6/3/24167125/peacock-streaming-subscription-belkin-3-in-1-charging-stand-deal-sale)
- - [China’s lunar probe is retrieving samples from the far side of the Moon](https://www.theverge.com/2024/6/3/24170523/china-change-6-probe-moon-landing)
- - [Best Apple Pencil Deals: Get an iPad Stylus for Less     - CNET](https://www.cnet.com/deals/best-apple-pencil-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [China’s lunar probe is retrieving samples from the far side of the Moon](https://www.theverge.com/2024/6/3/24170523/china-change-6-probe-moon-landing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

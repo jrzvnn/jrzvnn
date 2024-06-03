@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The cameraman knows his angle](http://9gag.com/gag/aAyrQEE)
- - 😝 [Heartbreaking, nearly 4 decades in prison despite being innocent](http://9gag.com/gag/aVvWgY2)
- - 💣 [There are the types of women I like...](http://9gag.com/gag/ayN02wX)
- - 😝 [The race card against Eminem.](http://9gag.com/gag/a9yLq91)
- - 👉 [Footage shows Dalia Dippolito reacting to the news that her husband has been murdered. However, the \u2018hitman\u2019 that she hired was actually an undercover cop and this sting was specifically organised just so they could arrest her. Her husband wasn\u2019t harmed.](http://9gag.com/gag/a6Zyq0R)<!-- MEMES:END -->
+ - 😝 [Reporter misidentifying an animal saves her life as she didn&#39;t panic or startled the animal](http://9gag.com/gag/avygyyn)
+ - 😝 [Came out of nowhere](http://9gag.com/gag/aqyNeev)
+ - 💣 [Footage shows Dalia Dippolito reacting to the news that her husband has been murdered. However, the \u2018hitman\u2019 that she hired was actually an undercover cop and this sting was specifically organised just so they could arrest her. Her husband wasn\u2019t harmed.](http://9gag.com/gag/a6Zyq0R)
+ - 😝 [Successfully taught their cat to use the toilet.](http://9gag.com/gag/a1me1OR)
+ - 👉 [The race card against Eminem.](http://9gag.com/gag/a9yLq91)<!-- MEMES:END -->
 
 ---
 

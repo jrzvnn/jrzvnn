@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Zoom CEO Eric Yuan on AI features, the AI pitch, video calls, layoffs, LLMs, solving hallucinations, Zoom 6.0, Microsoft Teams, digital twins, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240603/p16#a240603p16)
  - [Baldur’s Gate 3 mod support is coming in September](https://www.theverge.com/2024/6/3/24170409/baldurs-gate-3-mod-support-pc-consoles)
  - [Sony updates its camera app to offer multi-cam monitoring](https://www.theverge.com/2024/6/3/24170423/sony-monitor-control-app-multicam-final-cut-camera-update)
  - [Sony unveils a $60 PC adapter for PlayStation VR2, adding PC support to the PS5-exclusive headset, launching on August 7 with support for all Steam VR games &lpar;Andrew Webster/The Verge&rpar;](http://www.techmeme.com/240603/p15#a240603p15)
- - [Sony’s PSVR 2 PC adapter launches in August](https://www.theverge.com/2024/6/3/24168060/sony-psvr-2-pc-adapter-ps5)
- - [Elon Musk is taking on Tesla ‘oathbreakers’ in fight for his $56 billion pay package](https://www.theverge.com/2024/6/3/24170368/elon-musk-tesla-pay-package-shareholder-meeting)<!-- TECH:END -->
+ - [Sony’s PSVR 2 PC adapter launches in August](https://www.theverge.com/2024/6/3/24168060/sony-psvr-2-pc-adapter-ps5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

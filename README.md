@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [German police officer is dead](http://9gag.com/gag/a9yLygm)
- - 😝 [This is what should be rewarded...](http://9gag.com/gag/a7oyoLb)
- - 💣 [Perfect](http://9gag.com/gag/aqyNyNM)
- - 😝 [Just some cool af stuff](http://9gag.com/gag/a0eLeqq)
- - 👉 [Hiring a girlfriend translator](http://9gag.com/gag/a1mePmP)<!-- MEMES:END -->
+ - 😝 [When you realize why that super hot girl was single and willing to date you was because she&#39;s a psycho maniac](http://9gag.com/gag/aGywp90)
+ - 😝 [Headshot confirmed](http://9gag.com/gag/aRBPBK7)
+ - 💣 [There are the types of women I like...](http://9gag.com/gag/ayN02wX)
+ - 😝 [The race card against Eminem.](http://9gag.com/gag/a9yLq91)
+ - 👉 [Footage shows Dalia Dippolito reacting to the news that her husband has been murdered. However, the \u2018hitman\u2019 that she hired was actually an undercover cop and this sting was specifically organised just so they could arrest her. Her husband wasn\u2019t harmed.](http://9gag.com/gag/a6Zyq0R)<!-- MEMES:END -->
 
 ---
 

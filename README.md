@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Footage shows Dalia Dippolito reacting to the news that her husband has been murdered. However, the \u2018hitman\u2019 that she hired was actually an undercover cop and this sting was specifically organised just so they could arrest her. Her husband wasn\u2019t harmed.](http://9gag.com/gag/a6Zyq0R)
- - 😝 [Backstory of killdozer](http://9gag.com/gag/aYQWrgx)
- - 💣 [Artist dreams of nightmarish tiger, other artists make fan after of it.](http://9gag.com/gag/a0eLNmZ)
- - 😝 [The race card against Eminem.](http://9gag.com/gag/a9yLq91)
- - 👉 [Guess who&#39;s responsible??....](http://9gag.com/gag/aMVrEnW)<!-- MEMES:END -->
+ - 😝 [Artist dreams of nightmarish tiger, other artists make fan after of it.](http://9gag.com/gag/a0eLNmZ)
+ - 😝 [Game of Thrones was once good. Really good.](http://9gag.com/gag/ajP0gqG)
+ - 💣 [Footage shows Dalia Dippolito reacting to the news that her husband has been murdered. However, the \u2018hitman\u2019 that she hired was actually an undercover cop and this sting was specifically organised just so they could arrest her. Her husband wasn\u2019t harmed.](http://9gag.com/gag/a6Zyq0R)
+ - 😝 [Just in case anyone wanted to see the video of that is being suppressed in the media and on 9gag](http://9gag.com/gag/aO8b763)
+ - 👉 [Turn down for... what?](http://9gag.com/gag/a1me1DD)<!-- MEMES:END -->
 
 ---
 

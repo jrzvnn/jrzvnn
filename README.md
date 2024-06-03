@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We all love our blue deck friend](http://9gag.com/gag/a3434ZQ)
- - 😝 [Guess who&#39;s responsible??....](http://9gag.com/gag/aMVrEnW)
- - 💣 [Still would](http://9gag.com/gag/a9yL6YL)
+ - 😝 [Harry Potter and the Loophole of the Snape](http://9gag.com/gag/a5QP6oE)
+ - 😝 [The race card against Eminem.](http://9gag.com/gag/a9yLq91)
+ - 💣 [There are the types of women I like...](http://9gag.com/gag/ayN02wX)
  - 😝 [As an Asian I can confirm and I feel safe when I see one.](http://9gag.com/gag/aBy3Z5Z)
- - 👉 [German police officer is dead](http://9gag.com/gag/a9yLygm)<!-- MEMES:END -->
+ - 👉 [Repost..](http://9gag.com/gag/azxE2QN)<!-- MEMES:END -->
 
 ---
 

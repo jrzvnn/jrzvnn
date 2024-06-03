@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ahead of WWDC Developer app gets updated, YouTube gets keynote placeholder](https://appleinsider.com/articles/24/06/03/ahead-of-wwdc-developer-app-gets-updated-youtube-gets-keynote-placeholder?utm_medium=rss)
  - [Samsung sues Oura preemptively to block smart ring patent claims](https://www.theverge.com/2024/6/3/24170479/samsung-galaxy-ring-oura-lawsuit-smart-ring-patents)
  - [Palmer Luckey is now selling pixel-perfect ultrabright magnesium Game Boys for $199](https://www.theverge.com/2024/6/3/24170572/modretro-chromatic-game-boy-color-palmer-luckey-price-release-date)
- - [Instagram confirms it is testing an unskippable ad format with a countdown timer that briefly prevents feed scrolling &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240603/p18#a240603p18)
- - [Lego’s lunar lander set is available at a rare discount](https://www.theverge.com/2024/6/3/24170539/amazon-lego-creator-expert-10266-nasa-apollo-11-lunar-lander-deal-sale)
- - [You can grab a year of Peacock Premium for just $20 ahead of its impending price hike](https://www.theverge.com/2024/6/3/24167125/peacock-streaming-subscription-belkin-3-in-1-charging-stand-deal-sale)<!-- TECH:END -->
+ - [Best Apple Watch Deals: Save Big Bucks on Many Different Models     - CNET](https://www.cnet.com/deals/best-apple-watch-deals/#ftag=CAD590a51e)
+ - [Instagram confirms it is testing an unskippable ad format with a countdown timer that briefly prevents feed scrolling &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240603/p18#a240603p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

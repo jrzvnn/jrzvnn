@@ -171,10 +171,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There are the types of women I like...](http://9gag.com/gag/ayN02wX)
- - 😝 [Heartbreaking, nearly 4 decades in prison despite being innocent](http://9gag.com/gag/aVvWgY2)
- - 💣 [Now this is what I call good Police work, well done!!](http://9gag.com/gag/a4Pdn7A)
- - 😝 [Footage shows Dalia Dippolito reacting to the news that her husband has been murdered. However, the \u2018hitman\u2019 that she hired was actually an undercover cop and this sting was specifically organised just so they could arrest her. Her husband wasn\u2019t harmed.](http://9gag.com/gag/a6Zyq0R)
+ - 😝 [Slick](http://9gag.com/gag/aGywyNZ)
+ - 😝 [Any artist can confirm?](http://9gag.com/gag/ayN0MG8)
+ - 💣 [This is what should be rewarded...](http://9gag.com/gag/a7oyoLb)
+ - 😝 [Chaos](http://9gag.com/gag/aO8bQ72)
  - 👉 [Repost..](http://9gag.com/gag/azxE2QN)<!-- MEMES:END -->
 
 ---

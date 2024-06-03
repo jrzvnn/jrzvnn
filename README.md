@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Killer deals: Apple TV 4K drops to $89.99, HomePod 2nd Gen dips to $175](https://appleinsider.com/articles/24/06/03/killer-deals-apple-tv-4k-drops-to-8999-homepod-2nd-gen-dips-to-175?utm_medium=rss)
  - [Sources: Microsoft is laying off hundreds of employees in Azure; one source estimated the Azure for Operators team cuts involved as many as 1,500 staffers &lpar;Ashley Stewart/Business Insider&rpar;](http://www.techmeme.com/240603/p22#a240603p22)
  - [Coinbase says it has donated another $25M to the pro-crypto Fairshake SuperPAC; Fairshake has raised ~$161M for 2024&#39;s US election from a16z, Ripple, and others &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/240603/p21#a240603p21)
  - [Instagram is testing ‘unskippable’ ads that you can’t scroll past](https://www.theverge.com/2024/6/3/24170682/instagram-unskippable-ads-test)
- - [Sources: LoanSnap, an AI mortgage startup that raised ~$100M, has been sued by at least seven creditors, including Wells Fargo, and state and federal agencies &lpar;TechCrunch&rpar;](http://www.techmeme.com/240603/p20#a240603p20)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->
+ - [Sources: LoanSnap, an AI mortgage startup that raised ~$100M, has been sued by at least seven creditors, including Wells Fargo, and state and federal agencies &lpar;TechCrunch&rpar;](http://www.techmeme.com/240603/p20#a240603p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Woman Who Received Pig Kidney Transplant Has It Removed](https://www.wired.com/story/woman-who-received-pig-kidney-has-it-removed/)
+ - [Amazon’s Project PI AI looks for product defects before they ship](https://www.theverge.com/2024/6/3/24170567/amazons-project-pi-product-defect-return-ai-computer-vision)
  - [Ahead of WWDC Developer app gets updated, YouTube gets keynote placeholder](https://appleinsider.com/articles/24/06/03/ahead-of-wwdc-developer-app-gets-updated-youtube-gets-keynote-placeholder?utm_medium=rss)
  - [Samsung sues Oura preemptively to block smart ring patent claims](https://www.theverge.com/2024/6/3/24170479/samsung-galaxy-ring-oura-lawsuit-smart-ring-patents)
- - [Palmer Luckey is now selling pixel-perfect ultrabright magnesium Game Boys for $199](https://www.theverge.com/2024/6/3/24170572/modretro-chromatic-game-boy-color-palmer-luckey-price-release-date)
- - [Best Apple Watch Deals: Save Big Bucks on Many Different Models     - CNET](https://www.cnet.com/deals/best-apple-watch-deals/#ftag=CAD590a51e)
- - [Instagram confirms it is testing an unskippable ad format with a countdown timer that briefly prevents feed scrolling &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240603/p18#a240603p18)<!-- TECH:END -->
+ - [Palmer Luckey is now selling pixel-perfect ultrabright magnesium Game Boys for $199](https://www.theverge.com/2024/6/3/24170572/modretro-chromatic-game-boy-color-palmer-luckey-price-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The cameraman knows his angle](http://9gag.com/gag/aAyrQEE)
- - 😝 [The race card against Eminem.](http://9gag.com/gag/a9yLq91)
- - 💣 [When you realize why that super hot girl was single and willing to date you was because she&#39;s a psycho maniac](http://9gag.com/gag/aGywp90)
- - 😝 [This is what should be rewarded...](http://9gag.com/gag/a7oyoLb)
- - 👉 [She is the chosen one](http://9gag.com/gag/aRBPXg5)<!-- MEMES:END -->
+ - 😝 [Footage shows Dalia Dippolito reacting to the news that her husband has been murdered. However, the \u2018hitman\u2019 that she hired was actually an undercover cop and this sting was specifically organised just so they could arrest her. Her husband wasn\u2019t harmed.](http://9gag.com/gag/a6Zyq0R)
+ - 😝 [Perhaps there is hope..](http://9gag.com/gag/avygAvd)
+ - 💣 [Nicely Done](http://9gag.com/gag/awyKzE4)
+ - 😝 [-`I could, if I wanted to...`](http://9gag.com/gag/aBy322D)
+ - 👉 [When you realize why that super hot girl was single and willing to date you was because she&#39;s a psycho maniac](http://9gag.com/gag/aGywp90)<!-- MEMES:END -->
 
 ---
 

@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They created a monster! Shady is back.](http://9gag.com/gag/agmvQGx)
- - 😝 [I&#39;ll be in my bunk](http://9gag.com/gag/a1mem0Y)
- - 💣 [How big are the odds...](http://9gag.com/gag/aKGPAY6)
- - 😝 [Look at these male human...](http://9gag.com/gag/a6ZyXXb)
- - 👉 [Footage shows Dalia Dippolito reacting to the news that her husband has been murdered. However, the \u2018hitman\u2019 that she hired was actually an undercover cop and this sting was specifically organised just so they could arrest her. Her husband wasn\u2019t harmed.](http://9gag.com/gag/a6Zyq0R)<!-- MEMES:END -->
+ - 😝 [The race card against Eminem.](http://9gag.com/gag/a9yLq91)
+ - 😝 [Footage shows Dalia Dippolito reacting to the news that her husband has been murdered. However, the \u2018hitman\u2019 that she hired was actually an undercover cop and this sting was specifically organised just so they could arrest her. Her husband wasn\u2019t harmed.](http://9gag.com/gag/a6Zyq0R)
+ - 💣 [Look at these male human...](http://9gag.com/gag/a6ZyXXb)
+ - 😝 [British police](http://9gag.com/gag/aE016LN)
+ - 👉 [Harry Potter and the Loophole of the Snape](http://9gag.com/gag/a5QP6oE)<!-- MEMES:END -->
 
 ---
 

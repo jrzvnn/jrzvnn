@@ -163,10 +163,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Samsung sues Oura, seeking a declaratory judgment that the Galaxy Ring, expected to launch in the US &quot;in or around August&quot;, doesn&#39;t infringe on Oura&#39;s patents &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/240603/p26#a240603p26)
- - [ASML opens a test laboratory for its High NA EUV machine with Belgium&#39;s Imec in the Netherlands, and expects customers to use it for manufacturing in 2025-2026 &lpar;Toby Sterling/Reuters&rpar;](http://www.techmeme.com/240603/p25#a240603p25)
- - [YouTube insider access tied to massive leaks](https://www.theverge.com/2024/6/3/24170740/youtube-insider-access-massive-leaks-nintendo)
- - [Peacock Is Offering a Year of Streaming for $20     - CNET](https://www.cnet.com/deals/peacock-is-offering-a-year-of-streaming-for-20/#ftag=CAD590a51e)
- - [Snag Apple Accessories for as Low as $10 at Woot     - CNET](https://www.cnet.com/deals/snag-apple-accessories-for-as-low-as-10-at-woot/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Hardy Houseplants: These 9 Indoor Plants Are Impossible to Kill     - CNET](https://www.cnet.com/news/hardy-houseplants-these-9-indoor-plants-are-impossible-to-kill/#ftag=CAD590a51e)
+ - [Best Senior Phone Plans of 2024     - CNET](https://www.cnet.com/tech/mobile/best-senior-phone-plans/#ftag=CAD590a51e)
+ - [X Updated Its Adult Content Policy. Here&#39;s What to Know and How to Opt Out     - CNET](https://www.cnet.com/news/social-media/x-updated-its-adult-content-policy-heres-what-to-know-and-how-to-opt-out/#ftag=CAD590a51e)
+ - [ASML opens a test laboratory for its High NA EUV machine with Belgium&#39;s Imec in the Netherlands, and expects customers to use it for manufacturing in 2025-2026 &lpar;Toby Sterling/Reuters&rpar;](http://www.techmeme.com/240603/p25#a240603p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

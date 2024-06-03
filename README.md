@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Footage shows Dalia Dippolito reacting to the news that her husband has been murdered. However, the \u2018hitman\u2019 that she hired was actually an undercover cop and this sting was specifically organised just so they could arrest her. Her husband wasn\u2019t harmed.](http://9gag.com/gag/a6Zyq0R)
- - 😝 [Repost..](http://9gag.com/gag/azxE2QN)
- - 💣 [Guess who&#39;s responsible??....](http://9gag.com/gag/aMVrEnW)
- - 😝 [Still would](http://9gag.com/gag/a9yL6YL)
- - 👉 [German police officer is dead](http://9gag.com/gag/a9yLygm)<!-- MEMES:END -->
+ - 😝 [Hiring a girlfriend translator](http://9gag.com/gag/a1mePmP)
+ - 😝 [LGB is ok / T is sometimes ok / Q+ is the where the west hating politics is and are therefore not ok. Q uses `gay` as a political human shield](http://9gag.com/gag/aKGP15j)
+ - 💣 [Still would](http://9gag.com/gag/a9yL6YL)
+ - 😝 [Nobody reading this?](http://9gag.com/gag/aXPpn62)
+ - 👉 [The police officer from Mannheim died today. Where are the protests?](http://9gag.com/gag/ae904gj)<!-- MEMES:END -->
 
 ---
 

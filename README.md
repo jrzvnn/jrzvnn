@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple may add Respiration Tracking to the Apple Vision Pro Mindfulness app](https://appleinsider.com/articles/24/06/03/apple-may-add-respiration-tracking-to-the-apple-vision-pro-mindfulness-app?utm_medium=rss)
- - [Nomad CEO Noah Dentzel talks MagSafe, Qi2, &amp; Find My on HomeKit Insider](https://appleinsider.com/articles/24/06/03/nomad-ceo-noah-dentzel-talks-magsafe-qi2-find-my-on-homekit-insider?utm_medium=rss)
- - [Apple&#39;s latest MacBook Air with M3 chip, 16GB RAM drops to $1,149](https://appleinsider.com/articles/24/06/03/apples-latest-macbook-air-with-m3-chip-16gb-ram-drops-to-1149?utm_medium=rss)
- - [Eero&#39;s Newest Wi-Fi 7 Mesh Routers Hit All-Time Low Prices at Amazon     - CNET](https://www.cnet.com/deals/eeros-newest-wi-fi-7-mesh-routers-hit-all-time-low-prices-at-amazon/#ftag=CAD590a51e)
- - [X has new rules that officially allow porn now](https://www.theverge.com/2024/6/3/24170352/x-xxx-porn-adult-content-terms-of-service-policy-update)<!-- TECH:END -->
+ - [You can grab a year of Peacock Premium for just $20 ahead of its impending price hike](https://www.theverge.com/2024/6/3/24167125/peacock-streaming-subscription-belkin-3-in-1-charging-stand-deal-sale)
+ - [China’s lunar probe is retrieving samples from the far side of the Moon](https://www.theverge.com/2024/6/3/24170523/china-change-6-probe-moon-landing)
+ - [Best Apple Pencil Deals: Get an iPad Stylus for Less     - CNET](https://www.cnet.com/deals/best-apple-pencil-deals/#ftag=CAD590a51e)
+ - [Watch the No. 1 Trending Movie on Netflix: &#39;Godzilla Minus One&#39;     - CNET](https://www.cnet.com/tech/services-and-software/watch-the-no-1-trending-movie-on-netflix-godzilla-minus-one/#ftag=CAD590a51e)
+ - [Apple may add Respiration Tracking to the Apple Vision Pro Mindfulness app](https://appleinsider.com/articles/24/06/03/apple-may-add-respiration-tracking-to-the-apple-vision-pro-mindfulness-app?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

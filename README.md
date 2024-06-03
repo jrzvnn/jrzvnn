@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft plans to invest $3.21B to expand its cloud and AI infrastructure in Sweden over two years, including a pledge to train 250K people with AI skills &lpar;Reuters&rpar;](http://www.techmeme.com/240603/p11#a240603p11)
+ - [How to Use Discord: A Beginner’s Guide](https://www.wired.com/story/how-to-use-discord/)
  - [Spotify plans to raise US prices: Premium from $10.99 to $11.99 per month, Duo from $14.99 to $16.99, and Family from $16.99 to $19.99, after a July 2023 hike &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240603/p10#a240603p10)
  - [Raspberry Pi plans to sell shares at &amp;pound;2.60 to &amp;pound;2.80 each in its London IPO, aiming to raise ~&amp;pound;157M; existing shareholder Arm has agreed to buy $35M of shares &lpar;Swetha Gopinath/Bloomberg&rpar;](http://www.techmeme.com/240603/p9#a240603p9)
- - [Spotify is increasing US prices again](https://www.theverge.com/2024/6/3/24170301/spotify-us-price-increase-plans)
- - [How Donald Trump Could Weaponize US Surveillance in a Second Term](https://www.wired.com/story/trump-second-term-surveillance-state/)
- - [Apple&#39;s iPhone 16 Pro could have world&#39;s thinnest bezels](https://appleinsider.com/articles/24/06/03/apples-iphone-16-pro-could-have-worlds-thinnest-bezels?utm_medium=rss)<!-- TECH:END -->
+ - [Spotify is increasing US prices again](https://www.theverge.com/2024/6/3/24170301/spotify-us-price-increase-plans)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

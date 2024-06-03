@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lovely guy!!](http://9gag.com/gag/azxEx7p)
- - 😝 [The stabbed officer in Mannheim ultimately passed away. At the exact same time, people there held a rally... against `the Right`?! Sadly, a perfect representation of the German public&#39;s current state of mind.](http://9gag.com/gag/a2vYvBD)
- - 💣 [The police officer from Mannheim died today. Where are the protests?](http://9gag.com/gag/ae904gj)
- - 😝 [This is what should be rewarded...](http://9gag.com/gag/a7oyoLb)
- - 👉 [Perfect](http://9gag.com/gag/aqyNyNM)<!-- MEMES:END -->
+ - 😝 [Now this is what I call good Police work, well done!!](http://9gag.com/gag/a4Pdn7A)
+ - 😝 [Slick](http://9gag.com/gag/aGywyNZ)
+ - 💣 [Poor guy](http://9gag.com/gag/aQz4XGd)
+ - 😝 [Perfect](http://9gag.com/gag/aqyNyNM)
+ - 👉 [Footage shows Dalia Dippolito reacting to the news that her husband has been murdered. However, the \u2018hitman\u2019 that she hired was actually an undercover cop and this sting was specifically organised just so they could arrest her. Her husband wasn\u2019t harmed.](http://9gag.com/gag/a6Zyq0R)<!-- MEMES:END -->
 
 ---
 

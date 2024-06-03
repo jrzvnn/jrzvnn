@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Raspberry Pi plans to sell shares at &amp;pound;2.60 to &amp;pound;2.80 each in its London IPO, aiming to raise ~&amp;pound;157M; existing shareholder Arm has agreed to buy $35M of shares &lpar;Swetha Gopinath/Bloomberg&rpar;](http://www.techmeme.com/240603/p9#a240603p9)
+ - [Spotify is increasing US prices again](https://www.theverge.com/2024/6/3/24170301/spotify-us-price-increase-plans)
  - [How Donald Trump Could Weaponize US Surveillance in a Second Term](https://www.wired.com/story/trump-second-term-surveillance-state/)
  - [Apple&#39;s iPhone 16 Pro could have world&#39;s thinnest bezels](https://appleinsider.com/articles/24/06/03/apples-iphone-16-pro-could-have-worlds-thinnest-bezels?utm_medium=rss)
- - [FTX sells its remaining 15M Anthropic shares, netting $450M+ and taking its total haul to $1.3B from its original $500M investment, as legal costs pass $500M &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/240603/p8#a240603p8)
- - [6 Best Cheap Smartphones &lpar;2024&rpar;: iPhone, Android, 5G](https://www.wired.com/story/best-cheap-phones/)
- - [Zara plans to expand live shopping broadcasts in the UK, Europe, and the US between August and October 2024, testing a format that is wildly popular in China &lpar;Reuters&rpar;](http://www.techmeme.com/240603/p7#a240603p7)<!-- TECH:END -->
+ - [FTX sells its remaining 15M Anthropic shares, netting $450M+ and taking its total haul to $1.3B from its original $500M investment, as legal costs pass $500M &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/240603/p8#a240603p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

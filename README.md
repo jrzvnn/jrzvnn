@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ByteDance hires a new global general counsel, John Rogovin, who spent 12 years as Warner Bros.&#39; top lawyer and worked in the US FCC and DOJ &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/240603/p24#a240603p24)
+ - [Qualcomm claims Snapdragon chips will come to &quot;all PC form factors&quot; including desktops, and Snapdragon X Elite has 2.6x the performance per watt vs. Apple&#39;s M3 &lpar;Les Pounder/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240603/p23#a240603p23)
  - [A Former President&#39;s Daughter Used X to Bombard South Africa With Conspiracy Theories](https://www.wired.com/story/south-africa-x-twitter-disinformation/)
  - [Killer deals: Apple TV 4K drops to $89.99, HomePod 2nd Gen dips to $175](https://appleinsider.com/articles/24/06/03/killer-deals-apple-tv-4k-drops-to-8999-homepod-2nd-gen-dips-to-175?utm_medium=rss)
- - [Sources: Microsoft is laying off hundreds of employees in Azure; one source estimated the Azure for Operators team cuts involved as many as 1,500 staffers &lpar;Ashley Stewart/Business Insider&rpar;](http://www.techmeme.com/240603/p22#a240603p22)
- - [Coinbase says it has donated another $25M to the pro-crypto Fairshake SuperPAC; Fairshake has raised ~$161M for 2024&#39;s US election from a16z, Ripple, and others &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/240603/p21#a240603p21)
- - [Instagram is testing ‘unskippable’ ads that you can’t scroll past](https://www.theverge.com/2024/6/3/24170682/instagram-unskippable-ads-test)<!-- TECH:END -->
+ - [Sources: Microsoft is laying off hundreds of employees in Azure; one source estimated the Azure for Operators team cuts involved as many as 1,500 staffers &lpar;Ashley Stewart/Business Insider&rpar;](http://www.techmeme.com/240603/p22#a240603p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

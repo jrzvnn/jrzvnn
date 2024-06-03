@@ -174,8 +174,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Harry Potter and the Loophole of the Snape](http://9gag.com/gag/a5QP6oE)
  - 😝 [How big are the odds...](http://9gag.com/gag/aKGPAY6)
  - 💣 [Bro persisted one day](http://9gag.com/gag/abAyeR9)
- - 😝 [British police](http://9gag.com/gag/aE016LN)
- - 👉 [Footage shows Dalia Dippolito reacting to the news that her husband has been murdered. However, the \u2018hitman\u2019 that she hired was actually an undercover cop and this sting was specifically organised just so they could arrest her. Her husband wasn\u2019t harmed.](http://9gag.com/gag/a6Zyq0R)<!-- MEMES:END -->
+ - 😝 [Footage shows Dalia Dippolito reacting to the news that her husband has been murdered. However, the \u2018hitman\u2019 that she hired was actually an undercover cop and this sting was specifically organised just so they could arrest her. Her husband wasn\u2019t harmed.](http://9gag.com/gag/a6Zyq0R)
+ - 👉 [Welp, Kanlaon volcano just erupted, the smoke plume is already 5 km up in the sky, i think this is it bois](http://9gag.com/gag/a0eLXwZ)<!-- MEMES:END -->
 
 ---
 

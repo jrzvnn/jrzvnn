@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Venom and Eddie are on the run in The Last Dance’s first trailer](https://www.theverge.com/24170379/venom-the-last-dance-trailer)
+ - [Sonos Ace review: the $449 headphones are stylish and comfortable with good sound and ANC, but can&#39;t be grouped with its speakers and TV Audio Swap is glitchy &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240603/p14#a240603p14)
  - [Windows AI feature that screenshots everything labeled a security ‘disaster’](https://www.theverge.com/2024/6/3/24170305/microsoft-windows-recall-ai-screenshots-security-privacy-issues)
  - [Sonos Ace Review: The Most Comfortable Headphones for Travel](https://www.wired.com/review/sonos-ace/)
- - [Sonos Ace review: was it worth it?](https://www.theverge.com/24169086/sonos-ace-headphones-review)
- - [Antenna: Spotify users are the least likely to cancel among major video or audio streaming services in the US, with a ~2% monthly churn rate, similar to Netflix &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/240603/p13#a240603p13)
- - [Best VPN Service 2024: VPNs Tested by Our Experts     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sonos Ace review: was it worth it?](https://www.theverge.com/24169086/sonos-ace-headphones-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

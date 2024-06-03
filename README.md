@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Slick](http://9gag.com/gag/aGywyNZ)
- - 😝 [Any artist can confirm?](http://9gag.com/gag/ayN0MG8)
- - 💣 [This is what should be rewarded...](http://9gag.com/gag/a7oyoLb)
- - 😝 [Chaos](http://9gag.com/gag/aO8bQ72)
- - 👉 [Repost..](http://9gag.com/gag/azxE2QN)<!-- MEMES:END -->
+ - 😝 [Harry Potter and the Loophole of the Snape](http://9gag.com/gag/a5QP6oE)
+ - 😝 [Footage shows Dalia Dippolito reacting to the news that her husband has been murdered. However, the \u2018hitman\u2019 that she hired was actually an undercover cop and this sting was specifically organised just so they could arrest her. Her husband wasn\u2019t harmed.](http://9gag.com/gag/a6Zyq0R)
+ - 💣 [Headshot confirmed](http://9gag.com/gag/aRBPBK7)
+ - 😝 [As an Asian I can confirm and I feel safe when I see one.](http://9gag.com/gag/aBy3Z5Z)
+ - 👉 [Still would](http://9gag.com/gag/a9yL6YL)<!-- MEMES:END -->
 
 ---
 

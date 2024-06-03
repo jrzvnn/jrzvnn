@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Now this is what I call good Police work, well done!!](http://9gag.com/gag/a4Pdn7A)
  - 😝 [Still would](http://9gag.com/gag/a9yL6YL)
- - 💣 [Look at these male human...](http://9gag.com/gag/a6ZyXXb)
  - 😝 [Bro persisted one day](http://9gag.com/gag/abAyeR9)
- - 👉 [Looks like they ran over a diver and their `diver in water` warning float](http://9gag.com/gag/a9yLqXZ)<!-- MEMES:END -->
+ - 💣 [Welp, Kanlaon volcano just erupted, the smoke plume is already 5 km up in the sky, i think this is it bois](http://9gag.com/gag/a0eLXwZ)
+ - 😝 [Footage shows Dalia Dippolito reacting to the news that her husband has been murdered. However, the \u2018hitman\u2019 that she hired was actually an undercover cop and this sting was specifically organised just so they could arrest her. Her husband wasn\u2019t harmed.](http://9gag.com/gag/a6Zyq0R)
+ - 👉 [Repost..](http://9gag.com/gag/azxE2QN)<!-- MEMES:END -->
 
 ---
 

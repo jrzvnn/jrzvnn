@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Instagram is testing ‘unskippable’ ads that you can’t scroll past](https://www.theverge.com/2024/6/3/24170682/instagram-unskippable-ads-test)
  - [Sources: LoanSnap, an AI mortgage startup that raised ~$100M, has been sued by at least seven creditors, including Wells Fargo, and state and federal agencies &lpar;TechCrunch&rpar;](http://www.techmeme.com/240603/p20#a240603p20)
  - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
  - [Amazon details Project PI, which is active in several warehouses and uses computer vision to detect if products are damaged or don&#39;t meet buyers&#39; criteria &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240603/p19#a240603p19)
- - [Apple updates iPadOS, but just to fix something on only the iPad 10](https://appleinsider.com/articles/24/06/03/apple-updates-ipados-but-just-to-fix-something-on-only-the-ipad-10?utm_medium=rss)
- - [Woman Who Received Pig Kidney Transplant Has It Removed](https://www.wired.com/story/woman-who-received-pig-kidney-has-it-removed/)<!-- TECH:END -->
+ - [Apple updates iPadOS, but just to fix something on only the iPad 10](https://appleinsider.com/articles/24/06/03/apple-updates-ipados-but-just-to-fix-something-on-only-the-ipad-10?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro persisted one day](http://9gag.com/gag/abAyeR9)
- - 😝 [Slick](http://9gag.com/gag/aGywyNZ)
- - 💣 [It looks really reasonable](http://9gag.com/gag/a0eLXrz)
- - 😝 [They created a monster! Shady is back.](http://9gag.com/gag/agmvQGx)
- - 👉 [Nicely Done](http://9gag.com/gag/awyKzE4)<!-- MEMES:END -->
+ - 😝 [Mannheim knife attacker was illegal in Germany for 9 years. His asylum request was rejected in 2014. In 2023 he had a child with a German woman so he got a residence permit. His YT channel was filled with Taliban propaganda.](http://9gag.com/gag/aE016K9)
+ - 😝 [Taylor Swift might have finally met her match](http://9gag.com/gag/amo0WM9)
+ - 💣 [New Google](http://9gag.com/gag/a6ZyXOq)
+ - 😝 [Now this is what I call good Police work, well done!!](http://9gag.com/gag/a4Pdn7A)
+ - 👉 [Welp, Kanlaon volcano just erupted, the smoke plume is already 5 km up in the sky, i think this is it bois](http://9gag.com/gag/a0eLXwZ)<!-- MEMES:END -->
 
 ---
 

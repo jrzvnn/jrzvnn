@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Still would](http://9gag.com/gag/a9yL6YL)
- - 😝 [How big are the odds...](http://9gag.com/gag/aKGPAY6)
- - 💣 [Look at these male human...](http://9gag.com/gag/a6ZyXXb)
- - 😝 [Harry Potter and the Loophole of the Snape](http://9gag.com/gag/a5QP6oE)
- - 👉 [Repost..](http://9gag.com/gag/azxE2QN)<!-- MEMES:END -->
+ - 😝 [The cameraman knows his angle](http://9gag.com/gag/aAyrQEE)
+ - 😝 [Guess who&#39;s responsible??....](http://9gag.com/gag/aMVrEnW)
+ - 💣 [Still would](http://9gag.com/gag/a9yL6YL)
+ - 😝 [Look at these male human...](http://9gag.com/gag/a6ZyXXb)
+ - 👉 [Welp, Kanlaon volcano just erupted, the smoke plume is already 5 km up in the sky, i think this is it bois](http://9gag.com/gag/a0eLXwZ)<!-- MEMES:END -->
 
 ---
 

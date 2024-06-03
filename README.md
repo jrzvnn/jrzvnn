@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the uptick of AI-generated videos on TikTok featuring politicians in the UK; Ofcom says TikTok was the fastest growing news source in 2022 and 2023 &lpar;Marianna Spring/BBC&rpar;](http://www.techmeme.com/240603/p5#a240603p5)
  - [A look at OP_CAT, the front-runner in Bitcoin&#39;s software upgrade debate that could add new features, from better coin custody to DeFi apps common on ETH and SOL &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/240603/p4#a240603p4)
  - [A look at the challenges C.C. Wei faces as he becomes TSMC&#39;s chair on June 4, as part of a reorganization that includes preparing a successor to Wei as CEO &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/240603/p3#a240603p3)
  - [Sources and filings detail Sam Altman&#39;s investment portfolio; Altman and his venture funds have invested in 400+ companies, and his holdings are worth $2.8B+ &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240603/p2#a240603p2)
- - [AMD says its new 3nm EPYC Turin data center chips will launch in H2 2024, based on Zen 5 architecture and featuring up to 192 cores and 384 threads &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240603/p1#a240603p1)
- - [AMD announces a yearly data center GPU release cycle, starting with Instinct MI325X, slated for later in 2024 and meant to best Nvidia H200 in peak performance &lpar;CRN&rpar;](http://www.techmeme.com/240602/p11#a240602p11)<!-- TECH:END -->
+ - [AMD says its new 3nm EPYC Turin data center chips will launch in H2 2024, based on Zen 5 architecture and featuring up to 192 cores and 384 threads &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240603/p1#a240603p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

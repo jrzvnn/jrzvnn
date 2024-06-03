@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The race card against Eminem.](http://9gag.com/gag/a9yLq91)
- - 😝 [Probably the biggest roast in the history of the internet](http://9gag.com/gag/abAygvL)
- - 💣 [I&#39;ll be in my bunk](http://9gag.com/gag/a1mem0Y)
- - 😝 [Guess who&#39;s responsible??....](http://9gag.com/gag/aMVrEnW)
- - 👉 [Looks like they ran over a diver and their `diver in water` warning float](http://9gag.com/gag/a9yLqXZ)<!-- MEMES:END -->
+ - 😝 [German police officer is dead](http://9gag.com/gag/a9yLygm)
+ - 😝 [This is what should be rewarded...](http://9gag.com/gag/a7oyoLb)
+ - 💣 [Perfect](http://9gag.com/gag/aqyNyNM)
+ - 😝 [Just some cool af stuff](http://9gag.com/gag/a0eLeqq)
+ - 👉 [Hiring a girlfriend translator](http://9gag.com/gag/a1mePmP)<!-- MEMES:END -->
 
 ---
 

@@ -164,7 +164,7 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [ASML opens a test laboratory for its High NA EUV machine with Belgium&#39;s Imec in the Netherlands, and expects customers to use it for manufacturing in 2025-2026 &lpar;Toby Sterling/Reuters&rpar;](http://www.techmeme.com/240603/p25#a240603p25)
  - [YouTube insider access tied to massive leaks](https://www.theverge.com/2024/6/3/24170740/youtube-insider-access-massive-leaks-nintendo)
- - [The Uncanny Rise of the World&#39;s First AI Beauty Pageant](https://www.wired.com/story/ai-beauty-pageant-world-ai-creator-awards/)
+ - [The Uncanny Rise of the World’s First AI Beauty Pageant](https://www.wired.com/story/ai-beauty-pageant-world-ai-creator-awards/)
  - [ByteDance hires a new global general counsel, John Rogovin, who spent 12 years as Warner Bros.&#39; top lawyer and worked in the US FCC and DOJ &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/240603/p24#a240603p24)
  - [Qualcomm claims Snapdragon chips will come to &quot;all PC form factors&quot; including desktops, and Snapdragon X Elite has 2.6x the performance per watt vs. Apple&#39;s M3 &lpar;Les Pounder/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240603/p23#a240603p23)<!-- TECH:END -->
 

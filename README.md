@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Venom and Eddie are on the run in The Last Dance’s first trailer](https://www.theverge.com/24170379/venom-the-last-dance-trailer)
- - [Sonos Ace review: the $449 headphones are stylish and comfortable with good sound and ANC, but can&#39;t be grouped with its speakers and TV Audio Swap is glitchy &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240603/p14#a240603p14)
- - [Windows AI feature that screenshots everything labeled a security ‘disaster’](https://www.theverge.com/2024/6/3/24170305/microsoft-windows-recall-ai-screenshots-security-privacy-issues)
- - [Sonos Ace Review: The Most Comfortable Headphones for Travel](https://www.wired.com/review/sonos-ace/)
- - [Sonos Ace review: was it worth it?](https://www.theverge.com/24169086/sonos-ace-headphones-review)<!-- TECH:END -->
+ - [The 11 Best Travel Adapters &lpar;2024&rpar;: Plug Adapters and Universal Adapters](https://www.wired.com/gallery/best-travel-adapters/)
+ - [The CEO of Zoom wants AI clones in meetings](https://www.theverge.com/2024/6/3/24168733/zoom-ceo-ai-clones-digital-twins-videoconferencing-decoder-interview)
+ - [The Verge’s 2024 summer gift guide](https://www.theverge.com/24158599/summer-gift-ideas-2024-tech-gadgets-birthday-anniversary-wedding)
+ - [iPhone Fold is on the way, but you&#39;re still going to have to wait a while](https://appleinsider.com/articles/24/06/03/iphone-fold-is-on-the-way-but-youre-still-going-to-have-to-wait-a-while?utm_medium=rss)
+ - [Venom and Eddie are on the run in The Last Dance’s first trailer](https://www.theverge.com/24170379/venom-the-last-dance-trailer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

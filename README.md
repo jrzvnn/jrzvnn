@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;ll be in my bunk](http://9gag.com/gag/a1mem0Y)
- - 😝 [Poor guy](http://9gag.com/gag/aQz4XGd)
- - 💣 [Slick](http://9gag.com/gag/aGywyNZ)
- - 😝 [Oh so that&#39;s why](http://9gag.com/gag/aAyr0pd)
- - 👉 [The race card against Eminem.](http://9gag.com/gag/a9yLq91)<!-- MEMES:END -->
+ - 😝 [The police officer from Mannheim died today. Where are the protests?](http://9gag.com/gag/ae904gj)
+ - 😝 [Heartbreaking, nearly 4 decades in prison despite being innocent](http://9gag.com/gag/aVvWgY2)
+ - 💣 [This is what should be rewarded...](http://9gag.com/gag/a7oyoLb)
+ - 😝 [Homeless man throws rocks onto Los Angeles freeway causing motorcycle to crash.](http://9gag.com/gag/a5QPXpr)
+ - 👉 [Slick](http://9gag.com/gag/aGywyNZ)<!-- MEMES:END -->
 
 ---
 

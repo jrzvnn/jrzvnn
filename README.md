@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [ByteDance hires a new global general counsel, John Rogovin, who spent 12 years as Warner Bros.&#39; top lawyer and worked in the US FCC and DOJ &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/240603/p24#a240603p24)
  - [Qualcomm claims Snapdragon chips will come to &quot;all PC form factors&quot; including desktops, and Snapdragon X Elite has 2.6x the performance per watt vs. Apple&#39;s M3 &lpar;Les Pounder/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240603/p23#a240603p23)
  - [A Former President’s Daughter Used X to Bombard South Africa With Conspiracy Theories](https://www.wired.com/story/south-africa-x-twitter-disinformation/)
- - [Save $300 on a OnePlus Open Foldable Phone at Amazon for a Limited Time     - CNET](https://www.cnet.com/deals/the-oneplus-open-foldable-phone-is-now-300-off-at-amazon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Killer deals: Apple TV 4K drops to $89.99, HomePod 2nd Gen dips to $175](https://appleinsider.com/articles/24/06/03/killer-deals-apple-tv-4k-drops-to-8999-homepod-2nd-gen-dips-to-175?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

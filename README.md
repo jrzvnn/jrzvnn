@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AMD announces a yearly data center GPU release cycle, starting with Instinct MI325X, slated for later in 2024 and meant to best Nvidia H200 in peak performance &lpar;CRN&rpar;](http://www.techmeme.com/240602/p11#a240602p11)
  - [AMD announces two new Ryzen AI 300 series mobile chips, Ryzen AI 9 365 and Ryzen AI 9 HX 370, each with a 50 TOPS NPU, shipping in July &lpar;Mark Hachman/PCWorld&rpar;](http://www.techmeme.com/240602/p10#a240602p10)
  - [AMD unveils four new Ryzen 9000-series chips slated for July, powered by its new Zen 5 microarchitecture, which it says delivers 16% more instructions per cycle &lpar;Gavin Bonshor/AnandTech&rpar;](http://www.techmeme.com/240602/p9#a240602p9)
- - [AMD’s next generation of AI laptop processors have a new name too](https://www.theverge.com/2024/6/2/24168951/amd-ryzen-ai-9-300-series-hx-laptop-processors)
- - [AMD’s first Zen 5 CPU is the ‘monster’ Ryzen 9 9950X](https://www.theverge.com/2024/6/2/24168544/amd-zen-5-ryzen-9-9950x-cpu-computex-2024)
- - [Best Solar Panel Installation Companies in Colorado     - CNET](https://www.cnet.com/home/energy-and-utilities/colorado-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AMD Rebrands Next-Gen Mobile CPUs &#39;Ryzen AI&#39;, Claims 50 TOPS NPUs     - CNET](https://www.cnet.com/tech/computing/amd-rebrands-next-gen-mobile-cpus-ryzen-ai-claims-50-tops-npus/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints and Answers: Help for June 3, #358     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hint-answer-for-june-3-358/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

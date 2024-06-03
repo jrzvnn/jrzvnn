@@ -171,10 +171,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guess who&#39;s responsible??....](http://9gag.com/gag/aMVrEnW)
- - 😝 [Heartbreaking, nearly 4 decades in prison despite being innocent](http://9gag.com/gag/aVvWgY2)
+ - 😝 [Bro persisted one day](http://9gag.com/gag/abAyeR9)
+ - 😝 [Slick](http://9gag.com/gag/aGywyNZ)
  - 💣 [It looks really reasonable](http://9gag.com/gag/a0eLXrz)
- - 😝 [Harry Potter and the Loophole of the Snape](http://9gag.com/gag/a5QP6oE)
+ - 😝 [They created a monster! Shady is back.](http://9gag.com/gag/agmvQGx)
  - 👉 [Nicely Done](http://9gag.com/gag/awyKzE4)<!-- MEMES:END -->
 
 ---

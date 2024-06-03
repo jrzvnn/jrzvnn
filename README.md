@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The cameraman knows his angle](http://9gag.com/gag/aAyrQEE)
- - 😝 [Guess who&#39;s responsible??....](http://9gag.com/gag/aMVrEnW)
- - 💣 [Still would](http://9gag.com/gag/a9yL6YL)
+ - 😝 [They created a monster! Shady is back.](http://9gag.com/gag/agmvQGx)
+ - 😝 [I&#39;ll be in my bunk](http://9gag.com/gag/a1mem0Y)
+ - 💣 [How big are the odds...](http://9gag.com/gag/aKGPAY6)
  - 😝 [Look at these male human...](http://9gag.com/gag/a6ZyXXb)
- - 👉 [Welp, Kanlaon volcano just erupted, the smoke plume is already 5 km up in the sky, i think this is it bois](http://9gag.com/gag/a0eLXwZ)<!-- MEMES:END -->
+ - 👉 [Footage shows Dalia Dippolito reacting to the news that her husband has been murdered. However, the \u2018hitman\u2019 that she hired was actually an undercover cop and this sting was specifically organised just so they could arrest her. Her husband wasn\u2019t harmed.](http://9gag.com/gag/a6Zyq0R)<!-- MEMES:END -->
 
 ---
 

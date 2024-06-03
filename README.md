@@ -172,10 +172,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Footage shows Dalia Dippolito reacting to the news that her husband has been murdered. However, the \u2018hitman\u2019 that she hired was actually an undercover cop and this sting was specifically organised just so they could arrest her. Her husband wasn\u2019t harmed.](http://9gag.com/gag/a6Zyq0R)
- - 😝 [Poor guy](http://9gag.com/gag/aQz4XGd)
- - 💣 [German police officer is dead](http://9gag.com/gag/a9yLygm)
  - 😝 [Repost..](http://9gag.com/gag/azxE2QN)
- - 👉 [Chaos](http://9gag.com/gag/aO8bQ72)<!-- MEMES:END -->
+ - 💣 [Guess who&#39;s responsible??....](http://9gag.com/gag/aMVrEnW)
+ - 😝 [Still would](http://9gag.com/gag/a9yL6YL)
+ - 👉 [German police officer is dead](http://9gag.com/gag/a9yLygm)<!-- MEMES:END -->
 
 ---
 

@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guess who&#39;s responsible??....](http://9gag.com/gag/aMVrEnW)
- - 😝 [Mario](http://9gag.com/gag/a343ZBe)
- - 💣 [Never go full retard...](http://9gag.com/gag/aE018Ax)
  - 😝 [Footage shows Dalia Dippolito reacting to the news that her husband has been murdered. However, the \u2018hitman\u2019 that she hired was actually an undercover cop and this sting was specifically organised just so they could arrest her. Her husband wasn\u2019t harmed.](http://9gag.com/gag/a6Zyq0R)
- - 👉 [When you realize why that super hot girl was single and willing to date you was because she&#39;s a psycho maniac](http://9gag.com/gag/aGywp90)<!-- MEMES:END -->
+ - 😝 [Backstory of killdozer](http://9gag.com/gag/aYQWrgx)
+ - 💣 [Artist dreams of nightmarish tiger, other artists make fan after of it.](http://9gag.com/gag/a0eLNmZ)
+ - 😝 [The race card against Eminem.](http://9gag.com/gag/a9yLq91)
+ - 👉 [Guess who&#39;s responsible??....](http://9gag.com/gag/aMVrEnW)<!-- MEMES:END -->
 
 ---
 

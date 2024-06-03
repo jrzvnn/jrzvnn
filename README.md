@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mannheim knife attacker was illegal in Germany for 9 years. His asylum request was rejected in 2014. In 2023 he had a child with a German woman so he got a residence permit. His YT channel was filled with Taliban propaganda.](http://9gag.com/gag/aE016K9)
- - 😝 [Nobody reading this?](http://9gag.com/gag/aXPpn62)
- - 💣 [The police officer from Mannheim died today. Where are the protests?](http://9gag.com/gag/ae904gj)
- - 😝 [Taylor Swift might have finally met her match](http://9gag.com/gag/amo0WM9)
- - 👉 [Well she&#39;s right](http://9gag.com/gag/avygWKq)<!-- MEMES:END -->
+ - 😝 [Bro persisted one day](http://9gag.com/gag/abAyeR9)
+ - 😝 [Still would](http://9gag.com/gag/a9yL6YL)
+ - 💣 [It looks really reasonable](http://9gag.com/gag/a0eLXrz)
+ - 😝 [How big are the odds...](http://9gag.com/gag/aKGPAY6)
+ - 👉 [Repost..](http://9gag.com/gag/azxE2QN)<!-- MEMES:END -->
 
 ---
 

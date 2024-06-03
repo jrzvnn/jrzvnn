@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung sues Oura, seeking a declaratory judgment that the Galaxy Ring, expected to launch in the US &quot;in or around August&quot;, doesn&#39;t infringe on Oura&#39;s patents &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/240603/p26#a240603p26)
  - [ASML opens a test laboratory for its High NA EUV machine with Belgium&#39;s Imec in the Netherlands, and expects customers to use it for manufacturing in 2025-2026 &lpar;Toby Sterling/Reuters&rpar;](http://www.techmeme.com/240603/p25#a240603p25)
  - [YouTube insider access tied to massive leaks](https://www.theverge.com/2024/6/3/24170740/youtube-insider-access-massive-leaks-nintendo)
  - [Peacock Is Offering a Year of Streaming for $20     - CNET](https://www.cnet.com/deals/peacock-is-offering-a-year-of-streaming-for-20/#ftag=CAD590a51e)
- - [Snag Apple Accessories for as Low as $10 at Woot     - CNET](https://www.cnet.com/deals/snag-apple-accessories-for-as-low-as-10-at-woot/#ftag=CAD590a51e)
- - [The Uncanny Rise of the World’s First AI Beauty Pageant](https://www.wired.com/story/ai-beauty-pageant-world-ai-creator-awards/)<!-- TECH:END -->
+ - [Snag Apple Accessories for as Low as $10 at Woot     - CNET](https://www.cnet.com/deals/snag-apple-accessories-for-as-low-as-10-at-woot/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,9 +164,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Filing: Dapper Labs, maker of NBA Top Shot Moments NFTs, settles a class action lawsuit for $4M that alleged it violated laws by selling unregistered securities &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/240603/p28#a240603p28)
  - [Microsoft layoffs hit HoloLens, Azure cloud teams](https://www.theverge.com/2024/6/3/24170902/microsoft-hololens-2-mixed-reality-azure-layoffs)
- - [In a joint statement, Snowflake, CrowdStrike, and Mandiant say they have not found evidence suggesting Snowflake&#39;s platform was breached to hack Ticketmaster &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/240603/p27#a240603p27)
- - [Snowflake says there’s no evidence attackers breached its platform to hack Ticketmaster](https://www.theverge.com/2024/6/3/24170876/snowflake-ticketmaster-santander-data-breach-details)
- - [Best Flower Delivery Deals: Save on Gorgeous Floral Bouquets Delivered Straight to Your Door     - CNET](https://www.cnet.com/deals/best-flower-delivery-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I Tried Green Chef. See How I Liked These Healthy, Organic Meal Kits     - CNET](https://www.cnet.com/health/nutrition/green-chef-review/#ftag=CAD590a51e)
+ - [Best Hotel Mattresses in 2024     - CNET](https://www.cnet.com/health/sleep/best-hotel-mattresses/#ftag=CAD590a51e)
+ - [In a joint statement, Snowflake, CrowdStrike, and Mandiant say they have not found evidence suggesting Snowflake&#39;s platform was breached to hack Ticketmaster &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/240603/p27#a240603p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

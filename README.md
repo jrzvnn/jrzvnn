@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk says Tesla will likely spend $3B to $4B on Nvidia hardware in 2024 and that half of its formerly noted $10B AI-related capex will be on internal spend &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/240604/p35#a240604p35)
+ - [9 Best Grovemade Deals on Our Favorite Desk Accessories &lpar;2024&rpar;: Anniversary Sale](https://www.wired.com/story/grovemade-deals-anniversary-sale-june-2024/)
  - [Avail, a modular blockchain project building &quot;rollup-centric infrastructure&quot;, raised a $43M Series A, after raising a $27M seed in February 2024 &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/240604/p34#a240604p34)
  - [Washington DC&#39;s AG says Michael Saylor and his company MicroStrategy will pay $40M to settle a tax suit, calling it &quot;the largest income tax recovery&quot; ever in DC &lpar;Kelly Phillips Erb/Forbes&rpar;](http://www.techmeme.com/240604/p33#a240604p33)
- - [You can save 50 percent on a Pixel 8A when you buy any other Pixel 8](https://www.theverge.com/2024/6/4/24171137/google-store-summer-sale-pixel-8-8a-tablet-watch-wearable)
- - [The 50 Best Shows on Disney+ Right Now &lpar;June 2024&rpar;](https://www.wired.com/story/best-shows-disney-plus/)
- - [YouTube’s ‘like’ button is disappearing when you press it](https://www.theverge.com/2024/6/4/24171475/youtube-like-button-thumbs-up-disappearing-bug)<!-- TECH:END -->
+ - [You can save 50 percent on a Pixel 8A when you buy any other Pixel 8](https://www.theverge.com/2024/6/4/24171137/google-store-summer-sale-pixel-8-8a-tablet-watch-wearable)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

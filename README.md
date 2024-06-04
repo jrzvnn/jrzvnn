@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [New Google](http://9gag.com/gag/a6ZyXOq)
- - 😝 [Nobody reading this?](http://9gag.com/gag/aXPpn62)
- - 💣 [Taylor Swift might have finally met her match](http://9gag.com/gag/amo0WM9)
- - 😝 [Now this is what I call good Police work, well done!!](http://9gag.com/gag/a4Pdn7A)
- - 👉 [Well she&#39;s right](http://9gag.com/gag/avygWKq)<!-- MEMES:END -->
+ - 😝 [Harry Potter and the Loophole of the Snape](http://9gag.com/gag/a5QP6oE)
+ - 😝 [As an Asian I can confirm and I feel safe when I see one.](http://9gag.com/gag/aBy3Z5Z)
+ - 💣 [How big are the odds...](http://9gag.com/gag/aKGPAY6)
+ - 😝 [Bro persisted one day](http://9gag.com/gag/abAyeR9)
+ - 👉 [The race card against Eminem.](http://9gag.com/gag/a9yLq91)<!-- MEMES:END -->
 
 ---
 

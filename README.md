@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MSI announces Claw 8 AI+, its next-gen handheld, powered by Intel&#39;s Lunar Lake and comes with an 8&quot; screen, Thunderbolt 4 port, and a larger 80 Wh battery &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240604/p4#a240604p4)
  - [Intel says a standard AI kit featuring its Gaudi 2 chips, introduced in 2022, will cost $65K while a Gaudi 3 kit, unveiled in April 2024, will cost $125K &lpar;Reuters&rpar;](http://www.techmeme.com/240604/p3#a240604p3)
  - [Intel announces Xeon 6 data center chips for AI: series 6700 with 144 efficient and 86 performance cores, and 6900 with 288 efficient and 128 performance cores &lpar;Ken Yeung/VentureBeat&rpar;](http://www.techmeme.com/240604/p2#a240604p2)
  - [Intel unveils Lunar Lake, with a new SoC design, up to 14% faster CPU and 50% more graphics performance than Meteor Lake, and 40+ TOPS of AI performance &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240604/p1#a240604p1)
- - [How to use the Reader Mode in Safari on iPad](https://appleinsider.com/inside/ipados/tips/how-to-use-the-reader-mode-in-safari-on-ipad?utm_medium=rss)
- - [Official: The MSI Claw 8 AI Plus has an Asus-matching 80Wh battery and Intel Lunar Lake](https://www.theverge.com/2024/6/3/24170904/msi-claw-8-ai-plus-lunar-lake-battery-computex)<!-- TECH:END -->
+ - [How to use the Reader Mode in Safari on iPad](https://appleinsider.com/inside/ipados/tips/how-to-use-the-reader-mode-in-safari-on-ipad?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

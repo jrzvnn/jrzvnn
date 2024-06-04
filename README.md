@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [GetWhy, a market research AI company that was founded in 2011 as UserTribe and extracts insights from video interviews, raised a $34.5M Series A &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240604/p31#a240604p31)
+ - [Source: Canadian AI startup Cohere has raised $450M from Nvidia, Salesforce, Cisco, and others and is looking to raise more in the same round at a $5B valuation &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/240604/p32#a240604p32)
  - [How to watch WWDC 2024 on iPhone, iPad, Mac &amp; Apple TV](https://appleinsider.com/inside/wwdc/tips/how-to-watch-wwdc-2024-on-iphone-ipad-mac-apple-tv?utm_medium=rss)
  - [Meta Quest will soon let you watch Netflix from its web browser](https://www.theverge.com/2024/6/4/24171322/meta-quest-3-netflix-browser)
- - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)
- - [The Nintendo Switch OLED is $35 off at Woot on a one-day deal](https://www.theverge.com/good-deals/2024/6/4/24171333/nintendo-switch-oled-console-handheld-woot-deal-sale)
- - [TikTok Hack Targets ‘High-Profile’ Users via DMs](https://www.wired.com/story/tiktok-dm-exploit/)<!-- TECH:END -->
+ - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

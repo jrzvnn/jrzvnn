@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro persisted one day](http://9gag.com/gag/abAyeR9)
- - 😝 [Repost..](http://9gag.com/gag/azxE2QN)
- - 💣 [Slick](http://9gag.com/gag/aGywyNZ)
- - 😝 [Welp, Kanlaon volcano just erupted, the smoke plume is already 5 km up in the sky, i think this is it bois](http://9gag.com/gag/a0eLXwZ)
- - 👉 [How to stitch with ants](http://9gag.com/gag/azxEPpm)<!-- MEMES:END -->
+ - 😝 [Guess who&#39;s responsible??....](http://9gag.com/gag/aMVrEnW)
+ - 😝 [How to stitch with ants](http://9gag.com/gag/azxEPpm)
+ - 💣 [Headshot confirmed](http://9gag.com/gag/aRBPBK7)
+ - 😝 [Footage shows Dalia Dippolito reacting to the news that her husband has been murdered. However, the \u2018hitman\u2019 that she hired was actually an undercover cop and this sting was specifically organised just so they could arrest her. Her husband wasn\u2019t harmed.](http://9gag.com/gag/a6Zyq0R)
+ - 👉 [Still would](http://9gag.com/gag/a9yL6YL)<!-- MEMES:END -->
 
 ---
 

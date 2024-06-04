@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She doesn\u2019t even know the basics about what she claims to \u201csupport` but she did `study` abroad in the Middle East .](http://9gag.com/gag/aGywBew)
- - 😝 [How to stitch with ants](http://9gag.com/gag/azxEPpm)
- - 💣 [Mannheim knife attacker was illegal in Germany for 9 years. His asylum request was rejected in 2014. In 2023 he had a child with a German woman so he got a residence permit. His YT channel was filled with Taliban propaganda.](http://9gag.com/gag/aE016K9)
- - 😝 [Now this is what I call good Police work, well done!!](http://9gag.com/gag/a4Pdn7A)
- - 👉 [Bro persisted one day](http://9gag.com/gag/abAyeR9)<!-- MEMES:END -->
+ - 😝 [Bro persisted one day](http://9gag.com/gag/abAyeR9)
+ - 😝 [How big are the odds...](http://9gag.com/gag/aKGPAY6)
+ - 💣 [This is what happens if you completely give up on sugar for 30 days:](http://9gag.com/gag/avygend)
+ - 😝 [Harry Potter and the Loophole of the Snape](http://9gag.com/gag/a5QP6oE)
+ - 👉 [Bread and butter.](http://9gag.com/gag/a9yLvW0)<!-- MEMES:END -->
 
 ---
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In a joint statement, Snowflake, CrowdStrike, and Mandiant say they have not found evidence suggesting Snowflake&#39;s platform was breached to hack Ticketmaster &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/240603/p27#a240603p27)
+ - [Snowflake says there’s no evidence attackers breached its platform to hack Ticketmaster](https://www.theverge.com/2024/6/3/24170876/snowflake-ticketmaster-santander-data-breach-details)
+ - [Best Sleep Masks for 2024     - CNET](https://www.cnet.com/health/sleep/best-sleep-mask/#ftag=CAD590a51e)
  - [Samsung sues Oura, seeking a declaratory judgment that the Galaxy Ring, expected to launch in the US &quot;in or around August&quot;, doesn&#39;t infringe on Oura&#39;s patents &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/240603/p26#a240603p26)
- - [Hardy Houseplants: These 9 Indoor Plants Are Impossible to Kill     - CNET](https://www.cnet.com/news/hardy-houseplants-these-9-indoor-plants-are-impossible-to-kill/#ftag=CAD590a51e)
- - [Best Senior Phone Plans of 2024     - CNET](https://www.cnet.com/tech/mobile/best-senior-phone-plans/#ftag=CAD590a51e)
- - [X Updated Its Adult Content Policy. Here&#39;s What to Know and How to Opt Out     - CNET](https://www.cnet.com/news/social-media/x-updated-its-adult-content-policy-heres-what-to-know-and-how-to-opt-out/#ftag=CAD590a51e)
- - [ASML opens a test laboratory for its High NA EUV machine with Belgium&#39;s Imec in the Netherlands, and expects customers to use it for manufacturing in 2025-2026 &lpar;Toby Sterling/Reuters&rpar;](http://www.techmeme.com/240603/p25#a240603p25)<!-- TECH:END -->
+ - [Save Up to $500 on Google Pixel Phones, Tablets and Smartwatches for a Limited Time     - CNET](https://www.cnet.com/deals/save-up-to-500-on-google-pixel-phones-tablets-and-smartwatches-for-a-limited-time/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

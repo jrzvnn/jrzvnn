@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Any man will kiss me..](http://9gag.com/gag/aoy0RO3)
- - 😝 [Harry Potter and the Loophole of the Snape](http://9gag.com/gag/a5QP6oE)
- - 💣 [Pet paw cleaner](http://9gag.com/gag/an7Kvqb)
- - 😝 [How big are the odds...](http://9gag.com/gag/aKGPAY6)
- - 👉 [SHOW ME WHAT U GOT](http://9gag.com/gag/a5QPwby)<!-- MEMES:END -->
+ - 😝 [Dude have knees of diamonds](http://9gag.com/gag/a7oyeAe)
+ - 😝 [Pet paw cleaner](http://9gag.com/gag/an7Kvqb)
+ - 💣 [Harry Potter and the Loophole of the Snape](http://9gag.com/gag/a5QP6oE)
+ - 😝 [How to stitch with ants](http://9gag.com/gag/azxEPpm)
+ - 👉 [Bread and butter.](http://9gag.com/gag/a9yLvW0)<!-- MEMES:END -->
 
 ---
 

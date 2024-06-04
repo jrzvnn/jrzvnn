@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ tries to become the first US streamer in China](https://appleinsider.com/articles/24/06/04/apple-tv-tries-to-become-the-first-us-streamer-in-china?utm_medium=rss)
- - [Elon Musk reportedly diverted thousands of AI chips from Tesla to X](https://www.theverge.com/2024/6/4/24171165/elon-musk-tesla-x-nvidia-ai-chips-divert)
+ - [AirPods Max vs. Sonos Ace: premium personal audio, compared](https://appleinsider.com/inside/airpods-max/vs/airpods-max-versus-sonos-ace-premium-personal-audio-compared?utm_medium=rss)
+ - [10 Best Blenders &lpar;2024&rpar;: Jug, Hand, Immersion](https://www.wired.com/gallery/best-blenders/)
+ - [It’s getting cheaper to filter carbon dioxide out of the air](https://www.theverge.com/2024/6/4/24170729/direct-air-capture-carbon-dioxide-removal-climate-tech-climeworks-generation-3)
  - [You can already buy iPhone 16 cases, but you probably shouldn&#39;t](https://appleinsider.com/articles/24/06/04/you-can-already-buy-iphone-16-cases-but-you-probably-shouldnt?utm_medium=rss)
- - [11 Best Computer Speakers &lpar;2024&rpar;: Affordable, Soundbar, Surround Sound, Gaming](https://www.wired.com/gallery/best-computer-speakers/)
- - [Max raises prices across its ad-free plans](https://www.theverge.com/2024/6/4/24171193/max-price-raise-ad-free-plans-hbo)<!-- TECH:END -->
+ - [Apple TV+ tries to become the first US streamer in China](https://appleinsider.com/articles/24/06/04/apple-tv-tries-to-become-the-first-us-streamer-in-china?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

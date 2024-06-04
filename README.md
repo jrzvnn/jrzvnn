@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dude have knees of diamonds](http://9gag.com/gag/a7oyeAe)
- - 😝 [Pet paw cleaner](http://9gag.com/gag/an7Kvqb)
- - 💣 [Harry Potter and the Loophole of the Snape](http://9gag.com/gag/a5QP6oE)
- - 😝 [How to stitch with ants](http://9gag.com/gag/azxEPpm)
- - 👉 [Bread and butter.](http://9gag.com/gag/a9yLvW0)<!-- MEMES:END -->
+ - 😝 [Bad Boys 4 behind the scenes](http://9gag.com/gag/a2vYywZ)
+ - 😝 [The moment!](http://9gag.com/gag/aoy0R62)
+ - 💣 [This is not a election, this is Hunger games irl](http://9gag.com/gag/a0eL0yL)
+ - 😝 [Drugs are bad, mkay ?](http://9gag.com/gag/aW4Wn7d)
+ - 👉 [It&#39;s fun for like the first two weeks.](http://9gag.com/gag/a9yL590)<!-- MEMES:END -->
 
 ---
 

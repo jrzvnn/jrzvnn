@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia staff emails: Elon Musk gave Tesla shareholders an exaggerated picture of Tesla&#39;s chip deals, and diverted &quot;12k of shipped H100 GPUs&quot; for Tesla to X &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/240604/p23#a240604p23)
+ - [Samsung added AI upscaling to its new OLED gaming monitor](https://www.theverge.com/2024/6/4/24171076/samsung-odyssey-oled-g8-gaming-monitor-ai-upscaling-price)
  - [A group of nine current and former OpenAI staff, and two Google DeepMind staff, blow the whistle on what they say is a culture of recklessness and secrecy &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/240604/p22#a240604p22)
  - [13-inch iPad Pro review: hardware of the future running software of the past](https://appleinsider.com/articles/24/06/04/13-inch-ipad-pro-review-hardware-of-the-future-running-software-of-the-past?utm_medium=rss)
- - [Apple is still considering screens for AirPods charging cases](https://appleinsider.com/articles/24/06/04/apple-is-still-considering-screens-for-airpods-charging-cases?utm_medium=rss)
- - [How to Make Restaurant Quality Mac and Cheese in 10 Minutes     - CNET](https://www.cnet.com/how-to/how-to-make-restaurant-quality-mac-and-cheese-in-10-minutes/#ftag=CAD590a51e)
- - [Austria-based Storyblok, which offers a headless CMS, raised an $80M Series C led by Brighton Park, after a $47M Series B in May 2022, and reports 200K+ users &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240604/p21#a240604p21)<!-- TECH:END -->
+ - [Apple is still considering screens for AirPods charging cases](https://appleinsider.com/articles/24/06/04/apple-is-still-considering-screens-for-airpods-charging-cases?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

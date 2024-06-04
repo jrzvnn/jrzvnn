@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Zotac Zone official: this handheld has twin trackpads, jog wheels, adjustable triggers and OLED](https://www.theverge.com/2024/6/4/24171675/zotac-zone-specs-handheld-gaming-pc)
  - [Apple will give up to $200 for Apple Card Family sign ups](https://appleinsider.com/articles/24/06/04/apple-will-give-up-to-200-for-apple-card-family-sign-ups?utm_medium=rss)
  - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
  - [AT&amp;T Is Having an Issue With Calls Not Going Through to Other Carriers     - CNET](https://www.cnet.com/tech/mobile/att-is-having-an-issue-with-calls-not-going-through-to-other-carriers/#ftag=CAD590a51e)
- - [Flying for Summer Vacation? Keep Track of Your Flight Info Within iMessage     - CNET](https://www.cnet.com/tech/mobile/flying-for-summer-vacation-keep-track-of-your-flight-info-within-imessage/#ftag=CAD590a51e)
- - [AT&amp;T says an outage is preventing many customers from completing calls between carriers, but 911 calls are going through; Verizon customers also report issues &lpar;Samantha Murphy Kelly/CNN&rpar;](http://www.techmeme.com/240604/p41#a240604p41)<!-- TECH:END -->
+ - [Flying for Summer Vacation? Keep Track of Your Flight Info Within iMessage     - CNET](https://www.cnet.com/tech/mobile/flying-for-summer-vacation-keep-track-of-your-flight-info-within-imessage/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

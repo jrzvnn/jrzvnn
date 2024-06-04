@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Reese’s Book Club lands exclusive audiobook experience in Apple Books](https://www.theverge.com/2024/6/4/24171536/apple-books-reese-witherspoon-book-club)
+ - [Filing: FTX argues it should pay the IRS a $200M priority tax claim and a $685M subordinated claim; IRS had said FTX owed $44B in taxes then revised to $24B &lpar;MK Manoylov/The Block&rpar;](http://www.techmeme.com/240604/p39#a240604p39)
+ - [CrowdStrike reports Q1 revenue up 33% YoY to $921M, vs. $905M est., forecasts Q2 revenue above estimates, lifts its FY 2025 outlook; CRWD jumps 6%+ after hours &lpar;Emily Bary/MarketWatch&rpar;](http://www.techmeme.com/240604/p38#a240604p38)
  - [Apollo Global agrees to buy 49% equity interest in a joint venture related to Intel&#39;s Fab 34 under construction in Leixlip, Ireland &lpar;Sourasis Bose/Reuters&rpar;](http://www.techmeme.com/240604/p37#a240604p37)
- - [HPE Q2: revenue up 3% YoY to $7.2B, vs. $6.82B est., Server revenue up 18% YoY to $3.87B, helped by availability of Nvidia AI chips; HPE jumps 10%+ after hours &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240604/p36#a240604p36)
- - [Best BBQ Sauces for 2024     - CNET](https://www.cnet.com/news/best-bbq-sauces/#ftag=CAD590a51e)
- - [What Can I Do If My Credit Card Account Is Closed?     - CNET](https://www.cnet.com/personal-finance/credit-cards/what-can-i-do-if-my-credit-card-account-is-closed/#ftag=CAD590a51e)
- - [Best Wi-Fi Extenders of 2024     - CNET](https://www.cnet.com/home/internet/best-wifi-extender/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [HPE Q2: revenue up 3% YoY to $7.2B, vs. $6.82B est., Server revenue up 18% YoY to $3.87B, helped by availability of Nvidia AI chips; HPE jumps 10%+ after hours &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240604/p36#a240604p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

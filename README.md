@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China will be the first to retrieve soil samples from the far side of the Moon](https://www.theverge.com/2024/6/4/24171169/china-lunar-sample-far-side-moon-launch)
- - [Samsung leak reveals a cheaper Galaxy Watch](https://www.theverge.com/2024/6/4/24171225/samsung-galaxy-watch-fe-leak-cheaper)
- - [ChatGPT is down for the second time today](https://www.theverge.com/2024/6/4/24171264/chatgpt-down-outage-errors)
- - [5 Best Phones With Headphone Jacks &lpar;2024&rpar;: Flagship, Budget, and Dongle Recommendations](https://www.wired.com/gallery/best-headphone-jack-phones/)
- - [Sources: TikTok accounts, including brands and celebrities like CNN and Paris Hilton, are getting hacked via a zero-day exploit that only requires opening a DM &lpar;Emily Baker-White/Forbes&rpar;](http://www.techmeme.com/240604/p26#a240604p26)<!-- TECH:END -->
+ - [The new Alien: Romulus trailer channels classic sci-fi horror](https://www.theverge.com/24170776/alien-romulus-trailer-release-date)
+ - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
+ - [Google Cut Back AI Overviews in Search Even Before Its ‘Pizza Glue’ Fiasco](https://www.wired.com/story/google-cut-back-ai-overviews-before-pizza-glue/)
+ - [The Acolyte carves out its own slice of the Star Wars universe](https://www.theverge.com/24171101/the-acolyte-review-star-wars-disney-plus)
+ - [China will be the first to retrieve soil samples from the far side of the Moon](https://www.theverge.com/2024/6/4/24171169/china-lunar-sample-far-side-moon-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

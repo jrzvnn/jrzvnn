@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How China&#39;s chip industry is aiming for self-sufficiency and cutting down on US tools; SEMI estimates China represented 33% of all chip equipment sales in 2023 &lpar;Yoko Kubota/Wall Street Journal&rpar;](http://www.techmeme.com/240604/p14#a240604p14)
  - [At Computex, Intel CEO Pat Gelsinger takes a direct shot at Nvidia CEO Jensen Huang&#39;s claim that traditional CPUs like Intel&#39;s are running out of steam in AI &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/240604/p13#a240604p13)
  - [Netflix is finally killing off support for 2nd and 3rd generation Apple TVs](https://appleinsider.com/articles/24/06/04/netflix-is-finally-killing-off-support-for-2nd-and-3rd-generation-apple-tvs?utm_medium=rss)
  - [Sources and leaked documents detail YouTube&#39;s gaming leak culture, as some staff watch non-public videos and leak info; YouTube has investigated multiple staff &lpar;Tom Henderson/Insider Gaming&rpar;](http://www.techmeme.com/240604/p12#a240604p12)
- - [Sources: E*Trade is considering kicking meme stock leader Keith Gill off its service over stock manipulation concerns; GameStop jumped 60% since Gill reappeared &lpar;AnnaMaria Andriotis/Wall Street Journal&rpar;](http://www.techmeme.com/240604/p11#a240604p11)
- - [How to use Reader Mode in Safari on iPad](https://appleinsider.com/inside/ipados/tips/how-to-use-the-reader-mode-in-safari-on-ipad?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: E*Trade is considering kicking meme stock leader Keith Gill off its service over stock manipulation concerns; GameStop jumped 60% since Gill reappeared &lpar;AnnaMaria Andriotis/Wall Street Journal&rpar;](http://www.techmeme.com/240604/p11#a240604p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

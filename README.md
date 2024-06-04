@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta is fixing three of the Quest 3’s biggest lingering annoyances](https://www.theverge.com/2024/6/4/24171381/meta-quest-3-v66-passthrough-distortion-background-audio-wrist-menu)
- - [Apple Books now offers Reese&#39;s Book Club audiobook recommendations](https://appleinsider.com/articles/24/06/04/apple-books-now-offers-reeses-book-club-audiobook-recommendations?utm_medium=rss)
- - [ChatGPT is back online after an outage](https://www.theverge.com/2024/6/4/24171264/chatgpt-down-outage-errors)
- - [Meta rolls out an update to &quot;significantly&quot; reduce Quest 3 passthrough distortion and warping, an experimental option to use wrist-mounted menu buttons, more &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/240604/p30#a240604p30)
- - [A new Google Maps layer shows public restrooms in NYC](https://www.theverge.com/2024/6/4/24171316/nyc-public-bathroom-google-maps-view-accesibility)<!-- TECH:END -->
+ - [How to watch WWDC 2024 on iPhone, iPad, Mac &amp; Apple TV](https://appleinsider.com/inside/wwdc/tips/how-to-watch-wwdc-2024-on-iphone-ipad-mac-apple-tv?utm_medium=rss)
+ - [Meta Quest will soon let you watch Netflix from its web browser](https://www.theverge.com/2024/6/4/24171322/meta-quest-3-netflix-browser)
+ - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)
+ - [The Nintendo Switch OLED is $35 off at Woot on a one-day deal](https://www.theverge.com/good-deals/2024/6/4/24171333/nintendo-switch-oled-console-handheld-woot-deal-sale)
+ - [TikTok Hack Targets ‘High-Profile’ Users via DMs](https://www.wired.com/story/tiktok-dm-exploit/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

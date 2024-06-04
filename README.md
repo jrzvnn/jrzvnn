@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: E*Trade is considering kicking meme stock leader Keith Gill off its service over stock manipulation concerns; GameStop jumped 60% since Gill reappeared &lpar;AnnaMaria Andriotis/Wall Street Journal&rpar;](http://www.techmeme.com/240604/p11#a240604p11)
+ - [How to use Reader Mode in Safari on iPad](https://appleinsider.com/inside/ipados/tips/how-to-use-the-reader-mode-in-safari-on-ipad?utm_medium=rss)
+ - [Inside the Biggest FBI Sting Operation in History](https://www.wired.com/story/inside-biggest-fbi-sting-operation-in-history/)
  - [OpenAI says ChatGPT has been experiencing a major outage for several hours, starting at around 12:21am PDT; ChatGPT went down for over five hours on May 23 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240604/p10#a240604p10)
- - [Raspberry Pi partners with chipmaker Hailo for its AI Kit, an add-on for the Raspberry Pi 5 that runs Hailo&#39;s Hailo-8L M.2 accelerator, available &quot;soon&quot; for $70 &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240604/p9#a240604p9)
- - [Aptoide is coming to iOS as an EU-only game store](https://www.theverge.com/2024/6/4/24171037/aptoide-ios-game-store-eu-third-party-app-dma)
- - [Daisy recycling robot now smashes iPhones for speed](https://appleinsider.com/articles/24/06/03/daisy-recycling-robot-now-smashes-iphones-for-speed?utm_medium=rss)
- - [Russians Love YouTube. That’s a Problem for the Kremlin](https://www.wired.com/story/youtube-russia-propaganda-censorship-2024/)<!-- TECH:END -->
+ - [Raspberry Pi partners with chipmaker Hailo for its AI Kit, an add-on for the Raspberry Pi 5 that runs Hailo&#39;s Hailo-8L M.2 accelerator, available &quot;soon&quot; for $70 &lpar;Emilia David/The Verge&rpar;](http://www.techmeme.com/240604/p9#a240604p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

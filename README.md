@@ -165,8 +165,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [You can save 50 percent on a Pixel 8A when you buy any other Pixel 8](https://www.theverge.com/2024/6/4/24171137/google-store-summer-sale-pixel-8-8a-tablet-watch-wearable)
  - [The 50 Best Shows on Disney+ Right Now &lpar;June 2024&rpar;](https://www.wired.com/story/best-shows-disney-plus/)
  - [YouTube’s ‘like’ button is disappearing when you press it](https://www.theverge.com/2024/6/4/24171475/youtube-like-button-thumbs-up-disappearing-bug)
- - [GetWhy, a market research AI company that was founded in 2011 as UserTribe and extracts insights from video interviews, raised a $34.5M Series A &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240604/p31#a240604p31)
- - [Source: Canadian AI startup Cohere has raised $450M from Nvidia, Salesforce, Cisco, and others and is looking to raise more in the same round at a $5B valuation &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/240604/p32#a240604p32)<!-- TECH:END -->
+ - [HappyRun Tank G60 Review: Budget-Friendly E-Bike With Mixed Performance     - CNET](https://www.cnet.com/roadshow/news/happyrun-tank-g60-review-budget-friendly-e-bike-with-mixed-performance/#ftag=CAD590a51e)
+ - [Game-Changing AI Tools Allow Content Creators to Level the Playing Field video     - CNET](https://www.cnet.com/videos/game-changing-ai-tools-allow-content-creators-to-level-the-playing-field/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

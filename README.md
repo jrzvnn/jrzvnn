@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: TikTok accounts are being hacked, including big brands and celebrities like CNN and Paris Hilton, via an attack that only requires a DM to be opened &lpar;Emily Baker-White/Forbes&rpar;](http://www.techmeme.com/240604/p26#a240604p26)
  - [OpenAI Employees Warn of a Culture of Risk and Retaliation](https://www.wired.com/story/openai-right-to-warn-open-letter-ai-risk/)
  - [Sources: Apple was in talks last year to debut Apple TV+ in China via a deal with China Mobile, which would make it the only US video streaming service in China &lpar;Wayne Ma/The Information&rpar;](http://www.techmeme.com/240604/p25#a240604p25)
  - [This Hacker Tool Extracts All the Data Collected by Windows’ New Recall AI](https://www.wired.com/story/total-recall-windows-recall-ai/)
- - [AirPods Max vs. Sonos Ace: premium personal audio, compared](https://appleinsider.com/inside/airpods-max/vs/airpods-max-versus-sonos-ace-premium-personal-audio-compared?utm_medium=rss)
- - [10 Best Blenders &lpar;2024&rpar;: Jug, Hand, Immersion](https://www.wired.com/gallery/best-blenders/)<!-- TECH:END -->
+ - [AirPods Max vs. Sonos Ace: premium personal audio, compared](https://appleinsider.com/inside/airpods-max/vs/airpods-max-versus-sonos-ace-premium-personal-audio-compared?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

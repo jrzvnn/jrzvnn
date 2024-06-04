@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Old but gold](http://9gag.com/gag/ae909LB)
- - 😝 [This is what happens if you completely give up on sugar for 30 days:](http://9gag.com/gag/avygend)
- - 💣 [Harry Potter and the Loophole of the Snape](http://9gag.com/gag/a5QP6oE)
- - 😝 [Wow\u2026](http://9gag.com/gag/amo065V)
- - 👉 [She doesn\u2019t even know the basics about what she claims to \u201csupport` but she did `study` abroad in the Middle East .](http://9gag.com/gag/aGywBew)<!-- MEMES:END -->
+ - 😝 [Sixty nine days with her and her husband](http://9gag.com/gag/aLnP46M)
+ - 😝 [Bro persisted one day](http://9gag.com/gag/abAyeR9)
+ - 💣 [Now this is what I call good Police work, well done!!](http://9gag.com/gag/a4Pdn7A)
+ - 😝 [How to stitch with ants](http://9gag.com/gag/azxEPpm)
+ - 👉 [How big are the odds...](http://9gag.com/gag/aKGPAY6)<!-- MEMES:END -->
 
 ---
 

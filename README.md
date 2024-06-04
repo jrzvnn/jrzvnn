@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Austria-based Storyblok, which offers a headless CMS, raised an $80M Series C led by Brighton Park, after a $47M Series B in May 2022, and reports 200K+ users &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240604/p21#a240604p21)
- - [The latest Apple TV 4K is $40 off, which is a discount we seldom see](https://www.theverge.com/2024/6/4/24170439/apple-tv-4k-3rd-gen-amazfit-gtr-4-fitness-tracker-deal-sale)
- - [AirPods Max versus Sonos Ace: premium personal audio, compared](https://appleinsider.com/inside/airpods-max/vs/airpods-max-versus-sonos-ace-premium-personal-audio-compared?utm_medium=rss)
- - [Shutterstock CEO Paul Hennessy says the company&#39;s licensing business with AI companies made $104M in revenue in 2023 &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240604/p20#a240604p20)
- - [AeroPress Clear and Go Plus Review: Colorful, Portable Coffee Makers](https://www.wired.com/review/aeropress-clear-and-go-plus/)<!-- TECH:END -->
+ - [A group of nine current and former OpenAI staff, and two Google DeepMind staff, blow the whistle on what they say is a culture of recklessness and secrecy &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/240604/p22#a240604p22)
+ - [13-inch iPad Pro review: hardware of the future running software of the past](https://appleinsider.com/articles/24/06/04/13-inch-ipad-pro-review-hardware-of-the-future-running-software-of-the-past?utm_medium=rss)
+ - [Apple is still considering screens for AirPods charging cases](https://appleinsider.com/articles/24/06/04/apple-is-still-considering-screens-for-airpods-charging-cases?utm_medium=rss)
+ - [How to Make Restaurant Quality Mac and Cheese in 10 Minutes     - CNET](https://www.cnet.com/how-to/how-to-make-restaurant-quality-mac-and-cheese-in-10-minutes/#ftag=CAD590a51e)
+ - [Austria-based Storyblok, which offers a headless CMS, raised an $80M Series C led by Brighton Park, after a $47M Series B in May 2022, and reports 200K+ users &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240604/p21#a240604p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

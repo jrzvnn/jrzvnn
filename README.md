@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It looks really reasonable](http://9gag.com/gag/a0eLXrz)
- - 😝 [This is what happens if you completely give up on sugar for 30 days:](http://9gag.com/gag/avygend)
- - 💣 [SHOW ME WHAT U GOT](http://9gag.com/gag/a5QPwby)
+ - 😝 [This is not a election, this is Hunger games irl](http://9gag.com/gag/a0eL0yL)
+ - 😝 [As an Asian I can confirm and I feel safe when I see one.](http://9gag.com/gag/aBy3Z5Z)
+ - 💣 [Still would](http://9gag.com/gag/a9yL6YL)
  - 😝 [How to stitch with ants](http://9gag.com/gag/azxEPpm)
- - 👉 [How big are the odds...](http://9gag.com/gag/aKGPAY6)<!-- MEMES:END -->
+ - 👉 [Harry Potter and the Loophole of the Snape](http://9gag.com/gag/a5QP6oE)<!-- MEMES:END -->
 
 ---
 

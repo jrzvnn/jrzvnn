@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sixty nine days with her and her husband](http://9gag.com/gag/aLnP46M)
- - 😝 [Bro persisted one day](http://9gag.com/gag/abAyeR9)
- - 💣 [Now this is what I call good Police work, well done!!](http://9gag.com/gag/a4Pdn7A)
- - 😝 [How to stitch with ants](http://9gag.com/gag/azxEPpm)
- - 👉 [How big are the odds...](http://9gag.com/gag/aKGPAY6)<!-- MEMES:END -->
+ - 😝 [Keep the good work GTA](http://9gag.com/gag/ae90Zej)
+ - 😝 [\u201cThis is our country, and we want it back.\u201d](http://9gag.com/gag/an7KRBL)
+ - 💣 [This will be the most downloaded mod for GoWR on PC](http://9gag.com/gag/azxEPDK)
+ - 😝 [Always has been, but i do get why](http://9gag.com/gag/awyK1yD)
+ - 👉 [Journalist shaming](http://9gag.com/gag/aZZx8D3)<!-- MEMES:END -->
 
 ---
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Aptoide is coming to iOS as an EU-only game store](https://www.theverge.com/2024/6/4/24171037/aptoide-ios-game-store-eu-third-party-app-dma)
  - [Daisy recycling robot now smashes iPhones for speed](https://appleinsider.com/articles/24/06/03/daisy-recycling-robot-now-smashes-iphones-for-speed?utm_medium=rss)
  - [Russians Love YouTube. That’s a Problem for the Kremlin](https://www.wired.com/story/youtube-russia-propaganda-censorship-2024/)
  - [Analysis: China&#39;s internet had 3.9M websites in 2023, down ~27% from 2017; Chinese-language websites were 1.3% of the global total, down 70% from 4.3% in 2013 &lpar;Li Yuan/New York Times&rpar;](http://www.techmeme.com/240604/p8#a240604p8)
- - [A look at the &quot;world&#39;s first beauty pageant for AI creators&quot;, launched in April 2024 by creator platform Fanvue, after 10 semifinalists were announced on June 3 &lpar;Marah Eakin/Wired&rpar;](http://www.techmeme.com/240604/p7#a240604p7)
- - [SSDI June 2024 Payment: Is Your Check Coming This Week?     - CNET](https://www.cnet.com/personal-finance/ssdi-june-2024-payment-is-your-check-coming-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at the &quot;world&#39;s first beauty pageant for AI creators&quot;, launched in April 2024 by creator platform Fanvue, after 10 semifinalists were announced on June 3 &lpar;Marah Eakin/Wired&rpar;](http://www.techmeme.com/240604/p7#a240604p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

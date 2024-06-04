@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Perfect](http://9gag.com/gag/aqyNyNM)
- - 😝 [Repost..](http://9gag.com/gag/azxE2QN)
- - 💣 [Bro persisted one day](http://9gag.com/gag/abAyeR9)
- - 😝 [They created a monster! Shady is back.](http://9gag.com/gag/agmvQGx)
- - 👉 [Welp, Kanlaon volcano just erupted, the smoke plume is already 5 km up in the sky, i think this is it bois](http://9gag.com/gag/a0eLXwZ)<!-- MEMES:END -->
+ - 😝 [Mannheim knife attacker was illegal in Germany for 9 years. His asylum request was rejected in 2014. In 2023 he had a child with a German woman so he got a residence permit. His YT channel was filled with Taliban propaganda.](http://9gag.com/gag/aE016K9)
+ - 😝 [How to stitch with ants](http://9gag.com/gag/azxEPpm)
+ - 💣 [Jessie with her hair down is something](http://9gag.com/gag/ae904oj)
+ - 😝 [This is what happens if you completely give up on sugar for 30 days:](http://9gag.com/gag/avygend)
+ - 👉 [How big are the odds...](http://9gag.com/gag/aKGPAY6)<!-- MEMES:END -->
 
 ---
 

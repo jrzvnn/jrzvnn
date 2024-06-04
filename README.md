@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk reportedly diverted thousands of AI chips from Tesla to X](https://www.theverge.com/2024/6/4/24171165/elon-musk-tesla-x-nvidia-ai-chips-divert)
+ - [You can already buy iPhone 16 cases, but you probably shouldn&#39;t](https://appleinsider.com/articles/24/06/04/you-can-already-buy-iphone-16-cases-but-you-probably-shouldnt?utm_medium=rss)
+ - [11 Best Computer Speakers &lpar;2024&rpar;: Affordable, Soundbar, Surround Sound, Gaming](https://www.wired.com/gallery/best-computer-speakers/)
  - [Max raises prices across its ad-free plans](https://www.theverge.com/2024/6/4/24171193/max-price-raise-ad-free-plans-hbo)
- - [Best iPad to Buy &lpar;and Some to Avoid&rpar; in 2024](https://www.wired.com/gallery/the-best-ipad/)
- - [Apple just corrected the M2 iPad Air’s core count](https://www.theverge.com/2024/6/4/24171100/apple-m2-ipad-air-gpu-core-count-correction)
- - [Netflix will stop working on older Apple TVs](https://www.theverge.com/2024/6/4/24171111/netflix-stop-support-old-apple-tv-2nd-3rd-generation)
- - [Pilotless air taxis? Joby sees the possibility with new acquisition](https://www.theverge.com/2024/6/4/24171086/job-acquire-xwing-autonomous-flight-evtol-air-taxi)<!-- TECH:END -->
+ - [Best iPad to Buy &lpar;and Some to Avoid&rpar; in 2024](https://www.wired.com/gallery/the-best-ipad/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

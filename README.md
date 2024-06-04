@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [To spice up your relationship](http://9gag.com/gag/amo0meX)
- - 😝 [The moment!](http://9gag.com/gag/aoy0R62)
- - 💣 [Professor invited us for hiking. Only two of us showed up](http://9gag.com/gag/aBy3VwD)
- - 😝 [Like tears in rain](http://9gag.com/gag/aZZxQep)
- - 👉 [Clever girl](http://9gag.com/gag/aPA48jq)<!-- MEMES:END -->
+ - 😝 [Smart photographer...](http://9gag.com/gag/aGywMyw)
+ - 😝 [How to stitch with ants](http://9gag.com/gag/azxEPpm)
+ - 💣 [Bad Boys 4 behind the scenes](http://9gag.com/gag/a2vYywZ)
+ - 😝 [This is what happens if you completely give up on sugar for 30 days:](http://9gag.com/gag/avygend)
+ - 👉 [This is not a election, this is Hunger games irl](http://9gag.com/gag/a0eL0yL)<!-- MEMES:END -->
 
 ---
 

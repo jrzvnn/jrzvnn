@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bad Boys 4 behind the scenes](http://9gag.com/gag/a2vYywZ)
+ - 😝 [Pet paw cleaner](http://9gag.com/gag/an7Kvqb)
+ - 😝 [Grim Reaper: It&#39;s time. Freddie: let me sing a final song. Grim Reaper: Okay, I&#39;ll allow it](http://9gag.com/gag/amo0mpd)
+ - 💣 [A win either way](http://9gag.com/gag/abAyWDL)
  - 😝 [How big are the odds...](http://9gag.com/gag/aKGPAY6)
- - 💣 [How to stitch with ants](http://9gag.com/gag/azxEPpm)
- - 😝 [This is what happens if you completely give up on sugar for 30 days:](http://9gag.com/gag/avygend)
- - 👉 [It looks really reasonable](http://9gag.com/gag/a0eLXrz)<!-- MEMES:END -->
+ - 👉 [How to stitch with ants](http://9gag.com/gag/azxEPpm)<!-- MEMES:END -->
 
 ---
 

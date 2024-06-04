@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How big are the odds...](http://9gag.com/gag/aKGPAY6)
- - 😝 [Footage shows Dalia Dippolito reacting to the news that her husband has been murdered. However, the \u2018hitman\u2019 that she hired was actually an undercover cop and this sting was specifically organised just so they could arrest her. Her husband wasn\u2019t harmed.](http://9gag.com/gag/a6Zyq0R)
- - 💣 [Guess who&#39;s responsible??....](http://9gag.com/gag/aMVrEnW)
- - 😝 [Bro persisted one day](http://9gag.com/gag/abAyeR9)
- - 👉 [Looks like they ran over a diver and their `diver in water` warning float](http://9gag.com/gag/a9yLqXZ)<!-- MEMES:END -->
+ - 😝 [It looks really reasonable](http://9gag.com/gag/a0eLXrz)
+ - 😝 [Look at these male human...](http://9gag.com/gag/a6ZyXXb)
+ - 💣 [Bread and butter.](http://9gag.com/gag/a9yLvW0)
+ - 😝 [This is what should be rewarded...](http://9gag.com/gag/a7oyoLb)
+ - 👉 [Bro persisted one day](http://9gag.com/gag/abAyeR9)<!-- MEMES:END -->
 
 ---
 

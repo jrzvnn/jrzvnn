@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How big are the odds...](http://9gag.com/gag/aKGPAY6)
- - 😝 [Bro persisted one day](http://9gag.com/gag/abAyeR9)
- - 💣 [Welp, Kanlaon volcano just erupted, the smoke plume is already 5 km up in the sky, i think this is it bois](http://9gag.com/gag/a0eLXwZ)
- - 😝 [How to stitch with ants](http://9gag.com/gag/azxEPpm)
- - 👉 [This is not a election, this is Hunger games irl](http://9gag.com/gag/a0eL0yL)<!-- MEMES:END -->
+ - 😝 [Nice try buddy](http://9gag.com/gag/avyg1E5)
+ - 😝 [This is what happens if you completely give up on sugar for 30 days:](http://9gag.com/gag/avygend)
+ - 💣 [How to stitch with ants](http://9gag.com/gag/azxEPpm)
+ - 😝 [This is not a election, this is Hunger games irl](http://9gag.com/gag/a0eL0yL)
+ - 👉 [How big are the odds...](http://9gag.com/gag/aKGPAY6)<!-- MEMES:END -->
 
 ---
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Former OpenAI employees say whistleblower protection on AI safety is not enough](https://www.theverge.com/2024/6/4/24171283/openai-safety-open-letter-whistleblower-agi)
+ - [Save up to $350 on every M3 MacBook Pro, plus get up to $80 off AppleCare](https://appleinsider.com/articles/24/02/04/save-up-to-350-on-every-apple-m3-macbook-pro-plus-get-up-to-80-off-applecare?utm_medium=rss)
  - [The new Alien: Romulus trailer channels classic sci-fi horror](https://www.theverge.com/24170776/alien-romulus-trailer-release-date)
  - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
- - [Google Cut Back AI Overviews in Search Even Before Its ‘Pizza Glue’ Fiasco](https://www.wired.com/story/google-cut-back-ai-overviews-before-pizza-glue/)
- - [The Acolyte carves out its own slice of the Star Wars universe](https://www.theverge.com/24171101/the-acolyte-review-star-wars-disney-plus)
- - [China will be the first to retrieve soil samples from the far side of the Moon](https://www.theverge.com/2024/6/4/24171169/china-lunar-sample-far-side-moon-launch)<!-- TECH:END -->
+ - [Google Cut Back AI Overviews in Search Even Before Its ‘Pizza Glue’ Fiasco](https://www.wired.com/story/google-cut-back-ai-overviews-before-pizza-glue/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

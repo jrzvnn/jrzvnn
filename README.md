@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Palmer Luckey unveils the $199 ModRetro Chromatic, a take on the Nintendo Game Boy, with USB-C video out and a 1,000+ nits custom screen, shipping this holiday &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240604/p17#a240604p17)
  - [TSMC Chair C.C. Wei says the company has held talks with customers over moving its plants off Taiwan as China tensions mount but such a move would be impossible &lpar;Reuters&rpar;](http://www.techmeme.com/240604/p16#a240604p16)
  - [WWDC AI announcements will spark iPhone 16 upgrade cycle -- eventually](https://appleinsider.com/articles/24/06/04/wwdc-ai-announcements-will-spark-iphone-16-upgrade-cycle----eventually?utm_medium=rss)
  - [UAE AI Minister Omar Sultan Al Olama says the country is seeking a &quot;marriage&quot; with the US over AI, starting with the Microsoft-G42 deal, to reshape its economy &lpar;Chloe Cornish/Financial Times&rpar;](http://www.techmeme.com/240604/p15#a240604p15)
- - [AI Is Your Coworker Now. Can You Trust It?](https://www.wired.com/story/ai-workplace-privacy-security/)
- - [Enjoy Solid Sound Quality for $60 With This Edifier Headphone Deal     - CNET](https://www.cnet.com/deals/enjoy-solid-sound-quality-for-60-with-this-edifier-headphone-deal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AI Is Your Coworker Now. Can You Trust It?](https://www.wired.com/story/ai-workplace-privacy-security/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

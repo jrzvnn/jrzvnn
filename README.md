@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix Turns Its Back on Older Apple TVs     - CNET](https://www.cnet.com/tech/services-and-software/netflix-turns-its-back-on-older-apple-tvs/#ftag=CAD590a51e)
  - [Zotac Zone official: this handheld has twin trackpads, jog wheels, adjustable triggers and OLED](https://www.theverge.com/2024/6/4/24171675/zotac-zone-specs-handheld-gaming-pc)
- - [Apple will give up to $200 for Apple Card Family sign ups](https://appleinsider.com/articles/24/06/04/apple-will-give-up-to-200-for-apple-card-family-sign-ups?utm_medium=rss)
- - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [AT&amp;T Is Having an Issue With Calls Not Going Through to Other Carriers     - CNET](https://www.cnet.com/tech/mobile/att-is-having-an-issue-with-calls-not-going-through-to-other-carriers/#ftag=CAD590a51e)
- - [Flying for Summer Vacation? Keep Track of Your Flight Info Within iMessage     - CNET](https://www.cnet.com/tech/mobile/flying-for-summer-vacation-keep-track-of-your-flight-info-within-imessage/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Beats Headphone Deals: Save Big Bucks on Your Favorite Beats Models     - CNET](https://www.cnet.com/deals/best-beats-headphone-deals/#ftag=CAD590a51e)
+ - [Best Teeth-Whitening Strips of 2024     - CNET](https://www.cnet.com/health/personal-care/best-teeth-whitening-strips/#ftag=CAD590a51e)
+ - [Apple will give up to $200 for Apple Card Family sign ups](https://appleinsider.com/articles/24/06/04/apple-will-give-up-to-200-for-apple-card-family-sign-ups?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

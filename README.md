@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [They created a monster! Shady is back.](http://9gag.com/gag/agmvQGx)
  - 😝 [Harry Potter and the Loophole of the Snape](http://9gag.com/gag/a5QP6oE)
- - 😝 [As an Asian I can confirm and I feel safe when I see one.](http://9gag.com/gag/aBy3Z5Z)
- - 💣 [How big are the odds...](http://9gag.com/gag/aKGPAY6)
+ - 💣 [Now this is what I call good Police work, well done!!](http://9gag.com/gag/a4Pdn7A)
  - 😝 [Bro persisted one day](http://9gag.com/gag/abAyeR9)
- - 👉 [The race card against Eminem.](http://9gag.com/gag/a9yLq91)<!-- MEMES:END -->
+ - 👉 [Welp, Kanlaon volcano just erupted, the smoke plume is already 5 km up in the sky, i think this is it bois](http://9gag.com/gag/a0eLXwZ)<!-- MEMES:END -->
 
 ---
 

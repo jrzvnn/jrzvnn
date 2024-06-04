@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It used to, but now it&#39;s just for racists, propaganda and sh*t.. it&#39;s a place where people share hatred. I don&#39;t use it much anymore..](http://9gag.com/gag/aNDZ9qG)
- - 😝 [Nobody reading this?](http://9gag.com/gag/aXPpn62)
- - 💣 [The police officer from Mannheim died today. Where are the protests?](http://9gag.com/gag/ae904gj)
+ - 😝 [Bro persisted one day](http://9gag.com/gag/abAyeR9)
+ - 😝 [Repost..](http://9gag.com/gag/azxE2QN)
+ - 💣 [Slick](http://9gag.com/gag/aGywyNZ)
  - 😝 [Welp, Kanlaon volcano just erupted, the smoke plume is already 5 km up in the sky, i think this is it bois](http://9gag.com/gag/a0eLXwZ)
- - 👉 [New Google](http://9gag.com/gag/a6ZyXOq)<!-- MEMES:END -->
+ - 👉 [How to stitch with ants](http://9gag.com/gag/azxEPpm)<!-- MEMES:END -->
 
 ---
 

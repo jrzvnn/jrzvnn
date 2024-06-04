@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Smart photographer...](http://9gag.com/gag/aGywMyw)
- - 😝 [How to stitch with ants](http://9gag.com/gag/azxEPpm)
- - 💣 [Bad Boys 4 behind the scenes](http://9gag.com/gag/a2vYywZ)
- - 😝 [This is what happens if you completely give up on sugar for 30 days:](http://9gag.com/gag/avygend)
- - 👉 [This is not a election, this is Hunger games irl](http://9gag.com/gag/a0eL0yL)<!-- MEMES:END -->
+ - 😝 [Professor invited us for hiking. Only two of us showed up](http://9gag.com/gag/aBy3VwD)
+ - 😝 [The moment!](http://9gag.com/gag/aoy0R62)
+ - 💣 [I had a dog once, who did the same thing. Miss you buddy...](http://9gag.com/gag/apR0P5B)
+ - 😝 [Clever girl](http://9gag.com/gag/aPA48jq)
+ - 👉 [Irish people patrol the streets in Dublin after several Irish women were abused by invaders](http://9gag.com/gag/aD2386x)<!-- MEMES:END -->
 
 ---
 

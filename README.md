@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cisco introduces new AI products and services, including its Nexus HyperFabric AI clusters in partnership with Nvidia, and announces a $1B AI investment fund &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/240604/p40#a240604p40)
- - [Bill Gates is releasing a memoir next year](https://www.theverge.com/2024/6/4/24171573/bill-gates-memoir-source-code-microsoft)
- - [Reese’s Book Club lands exclusive audiobook experience in Apple Books](https://www.theverge.com/2024/6/4/24171536/apple-books-reese-witherspoon-book-club)
- - [Filing: FTX argues it should pay the IRS a $200M priority tax claim and a $685M subordinated claim; IRS had said FTX owed $44B in taxes then revised to $24B &lpar;MK Manoylov/The Block&rpar;](http://www.techmeme.com/240604/p39#a240604p39)
- - [CrowdStrike reports Q1 revenue up 33% YoY to $921M, vs. $905M est., forecasts Q2 revenue above estimates, lifts its FY 2025 outlook; CRWD jumps 6%+ after hours &lpar;Emily Bary/MarketWatch&rpar;](http://www.techmeme.com/240604/p38#a240604p38)<!-- TECH:END -->
+ - [Apple iPhone 16 Pro to Have Thinnest Bezels Yet, Report Says     - CNET](https://www.cnet.com/tech/mobile/apple-iphone-16-pro-to-have-thinnest-bezels-yet-report-says/#ftag=CAD590a51e)
+ - [Best Keurig Coffee Makers for 2024     - CNET](https://www.cnet.com/home/kitchen-and-household/best-keurig-coffee-makers/#ftag=CAD590a51e)
+ - [AT&amp;T Is Having an Outage With Calls Not Going Through to Other Carriers     - CNET](https://www.cnet.com/tech/mobile/att-is-having-an-outage-with-calls-not-going-through-to-other-carriers/#ftag=CAD590a51e)
+ - [It&#39;s Not Just You -- Instagram Is Testing Unskippable Ads and It&#39;s Awful     - CNET](https://www.cnet.com/tech/services-and-software/its-not-just-you-instagram-is-testing-unskippable-ads-and-its-awful/#ftag=CAD590a51e)
+ - [How to Get Your iPhone Out of Emergency SOS Mode     - CNET](https://www.cnet.com/tech/mobile/how-to-get-your-iphone-out-of-sos-mode/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

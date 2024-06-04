@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is not a election, this is Hunger games irl](http://9gag.com/gag/a0eL0yL)
- - 😝 [\u201cThis is our country, and we want it back.\u201d](http://9gag.com/gag/an7KRBL)
- - 💣 [Always has been, but i do get why](http://9gag.com/gag/awyK1yD)
- - 😝 [That&#39;s how borders look like when your neighbours aren&#39;t assholes.](http://9gag.com/gag/aRBPMDQ)
- - 👉 [This will be the most downloaded mod for GoWR on PC](http://9gag.com/gag/azxEPDK)<!-- MEMES:END -->
+ - 😝 [How big are the odds...](http://9gag.com/gag/aKGPAY6)
+ - 😝 [Bro persisted one day](http://9gag.com/gag/abAyeR9)
+ - 💣 [Welp, Kanlaon volcano just erupted, the smoke plume is already 5 km up in the sky, i think this is it bois](http://9gag.com/gag/a0eLXwZ)
+ - 😝 [How to stitch with ants](http://9gag.com/gag/azxEPpm)
+ - 👉 [This is not a election, this is Hunger games irl](http://9gag.com/gag/a0eL0yL)<!-- MEMES:END -->
 
 ---
 

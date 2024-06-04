@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pilotless air taxis? Joby sees the possibility with new acquisition](https://www.theverge.com/2024/6/4/24171086/job-acquire-xwing-autonomous-flight-evtol-air-taxi)
  - [An interview with Sonos CEO Patrick Spence on the Ace headphones, the controversial ground-up app redesign, expanding beyond speakers, and more &lpar;Parker Hall/Wired&rpar;](http://www.techmeme.com/240604/p24#a240604p24)
  - [Netgear Orbi 970 Series Review: Excellent but Exorbitant](https://www.wired.com/review/netgear-orbi-970-series/)
  - [Sonos’ headphones are extremely Sonos](https://www.theverge.com/2024/6/4/24171121/sonos-ace-moviepass-moviecrash-vergecast)
- - [Nvidia staff emails: Elon Musk gave Tesla shareholders an exaggerated picture of Tesla&#39;s chip deals, and diverted &quot;12k of shipped H100 GPUs&quot; for Tesla to X &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/240604/p23#a240604p23)
- - [Samsung added AI upscaling to its new OLED gaming monitor](https://www.theverge.com/2024/6/4/24171076/samsung-odyssey-oled-g8-gaming-monitor-ai-upscaling-price)<!-- TECH:END -->
+ - [Nvidia staff emails: Elon Musk gave Tesla shareholders an exaggerated picture of Tesla&#39;s chip deals, and diverted &quot;12k of shipped H100 GPUs&quot; for Tesla to X &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/240604/p23#a240604p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

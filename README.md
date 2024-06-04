@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Avail, a modular blockchain project building &quot;rollup-centric infrastructure&quot;, raised a $43M Series A, after raising a $27M seed in February 2024 &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/240604/p34#a240604p34)
  - [Washington DC&#39;s AG says Michael Saylor and his company MicroStrategy will pay $40M to settle a tax suit, calling it &quot;the largest income tax recovery&quot; ever in DC &lpar;Kelly Phillips Erb/Forbes&rpar;](http://www.techmeme.com/240604/p33#a240604p33)
  - [You can save 50 percent on a Pixel 8A when you buy any other Pixel 8](https://www.theverge.com/2024/6/4/24171137/google-store-summer-sale-pixel-8-8a-tablet-watch-wearable)
  - [The 50 Best Shows on Disney+ Right Now &lpar;June 2024&rpar;](https://www.wired.com/story/best-shows-disney-plus/)
- - [YouTube’s ‘like’ button is disappearing when you press it](https://www.theverge.com/2024/6/4/24171475/youtube-like-button-thumbs-up-disappearing-bug)
- - [HappyRun Tank G60 Review: Budget-Friendly E-Bike With Mixed Performance     - CNET](https://www.cnet.com/roadshow/news/happyrun-tank-g60-review-budget-friendly-e-bike-with-mixed-performance/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [YouTube’s ‘like’ button is disappearing when you press it](https://www.theverge.com/2024/6/4/24171475/youtube-like-button-thumbs-up-disappearing-bug)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

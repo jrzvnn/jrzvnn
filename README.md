@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Captions added to prevent confusion](http://9gag.com/gag/aQz4QZW)
- - 😝 [Welp, Kanlaon volcano just erupted, the smoke plume is already 5 km up in the sky, i think this is it bois](http://9gag.com/gag/a0eLXwZ)
- - 💣 [Footage shows Dalia Dippolito reacting to the news that her husband has been murdered. However, the \u2018hitman\u2019 that she hired was actually an undercover cop and this sting was specifically organised just so they could arrest her. Her husband wasn\u2019t harmed.](http://9gag.com/gag/a6Zyq0R)
- - 😝 [Bro persisted one day](http://9gag.com/gag/abAyeR9)
- - 👉 [This is what happens if you completely give up on sugar for 30 days:](http://9gag.com/gag/avygend)<!-- MEMES:END -->
+ - 😝 [The police officer from Mannheim died today. Where are the protests?](http://9gag.com/gag/ae904gj)
+ - 😝 [Now this is what I call good Police work, well done!!](http://9gag.com/gag/a4Pdn7A)
+ - 💣 [When 2 heavily armed jihadis tried to attack a draw mohamad&#39; contest, in Texas, they were un-alived within 3 seconds after getting out of their car. No Americans were injured and this was the winning drawing.](http://9gag.com/gag/aGyw8g0)
+ - 😝 [New Google](http://9gag.com/gag/a6ZyXOq)
+ - 👉 [Taylor Swift might have finally met her match](http://9gag.com/gag/amo0WM9)<!-- MEMES:END -->
 
 ---
 

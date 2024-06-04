@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They created a monster! Shady is back.](http://9gag.com/gag/agmvQGx)
- - 😝 [Harry Potter and the Loophole of the Snape](http://9gag.com/gag/a5QP6oE)
- - 💣 [Now this is what I call good Police work, well done!!](http://9gag.com/gag/a4Pdn7A)
- - 😝 [Bro persisted one day](http://9gag.com/gag/abAyeR9)
- - 👉 [Welp, Kanlaon volcano just erupted, the smoke plume is already 5 km up in the sky, i think this is it bois](http://9gag.com/gag/a0eLXwZ)<!-- MEMES:END -->
+ - 😝 [She doesn\u2019t even know the basics about what she claims to \u201csupport` but she did `study` abroad in the Middle East .](http://9gag.com/gag/aGywBew)
+ - 😝 [How to stitch with ants](http://9gag.com/gag/azxEPpm)
+ - 💣 [Mannheim knife attacker was illegal in Germany for 9 years. His asylum request was rejected in 2014. In 2023 he had a child with a German woman so he got a residence permit. His YT channel was filled with Taliban propaganda.](http://9gag.com/gag/aE016K9)
+ - 😝 [Now this is what I call good Police work, well done!!](http://9gag.com/gag/a4Pdn7A)
+ - 👉 [Bro persisted one day](http://9gag.com/gag/abAyeR9)<!-- MEMES:END -->
 
 ---
 

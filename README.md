@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta is fixing three of the Quest 3’s biggest lingering annoyances](https://www.theverge.com/2024/6/4/24171381/meta-quest-3-v66-passthrough-distortion-background-audio-wrist-menu)
+ - [Apple Books now offers Reese&#39;s Book Club audiobook recommendations](https://appleinsider.com/articles/24/06/04/apple-books-now-offers-reeses-book-club-audiobook-recommendations?utm_medium=rss)
  - [ChatGPT is back online after an outage](https://www.theverge.com/2024/6/4/24171264/chatgpt-down-outage-errors)
  - [Meta rolls out an update to &quot;significantly&quot; reduce Quest 3 passthrough distortion and warping, an experimental option to use wrist-mounted menu buttons, more &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/240604/p30#a240604p30)
- - [A new Google Maps layer shows public restrooms in NYC](https://www.theverge.com/2024/6/4/24171316/nyc-public-bathroom-google-maps-view-accesibility)
- - [Google&#39;s chief privacy officer, Keith Enright, will depart the tech giant after 13 years; Matthew Bye, director of competition law, is also leaving &lpar;Forbes&rpar;](http://www.techmeme.com/240604/p29#a240604p29)
- - [BrightEdge: Google&#39;s AI Overviews now appear in less than 15% of search queries but on 63% of healthcare-related queries, more than any other topic &lpar;Danny Goodwin/Search Engine Land&rpar;](http://www.techmeme.com/240604/p28#a240604p28)<!-- TECH:END -->
+ - [A new Google Maps layer shows public restrooms in NYC](https://www.theverge.com/2024/6/4/24171316/nyc-public-bathroom-google-maps-view-accesibility)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

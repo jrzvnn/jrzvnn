@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A new Google Maps layer shows public restrooms in NYC](https://www.theverge.com/2024/6/4/24171316/nyc-public-bathroom-google-maps-view-accesibility)
  - [Google&#39;s chief privacy officer, Keith Enright, will depart the tech giant after 13 years; Matthew Bye, director of competition law, is also leaving &lpar;Forbes&rpar;](http://www.techmeme.com/240604/p29#a240604p29)
  - [BrightEdge: Google&#39;s AI Overviews now appear in less than 15% of search queries but on 63% of healthcare-related queries, more than any other topic &lpar;Danny Goodwin/Search Engine Land&rpar;](http://www.techmeme.com/240604/p28#a240604p28)
  - [Databricks says it will acquire Tabular, a data-management startup that helps companies optimize data with the Apache Iceberg format and more, for over $1B &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240604/p27#a240604p27)
- - [ChatGPT is down for the second time today](https://www.theverge.com/2024/6/4/24171264/chatgpt-down-outage-errors)
- - [Former OpenAI employees say whistleblower protection on AI safety is not enough](https://www.theverge.com/2024/6/4/24171283/openai-safety-open-letter-whistleblower-agi)<!-- TECH:END -->
+ - [ChatGPT is down for the second time today](https://www.theverge.com/2024/6/4/24171264/chatgpt-down-outage-errors)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

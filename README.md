@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with Sonos CEO Patrick Spence on the Ace headphones, the controversial ground-up app redesign, expanding beyond speakers, and more &lpar;Parker Hall/Wired&rpar;](http://www.techmeme.com/240604/p24#a240604p24)
+ - [Netgear Orbi 970 Series Review: Excellent but Exorbitant](https://www.wired.com/review/netgear-orbi-970-series/)
+ - [Sonos’ headphones are extremely Sonos](https://www.theverge.com/2024/6/4/24171121/sonos-ace-moviepass-moviecrash-vergecast)
  - [Nvidia staff emails: Elon Musk gave Tesla shareholders an exaggerated picture of Tesla&#39;s chip deals, and diverted &quot;12k of shipped H100 GPUs&quot; for Tesla to X &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/240604/p23#a240604p23)
- - [Samsung added AI upscaling to its new OLED gaming monitor](https://www.theverge.com/2024/6/4/24171076/samsung-odyssey-oled-g8-gaming-monitor-ai-upscaling-price)
- - [A group of nine current and former OpenAI staff, and two Google DeepMind staff, blow the whistle on what they say is a culture of recklessness and secrecy &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/240604/p22#a240604p22)
- - [13-inch iPad Pro review: hardware of the future running software of the past](https://appleinsider.com/articles/24/06/04/13-inch-ipad-pro-review-hardware-of-the-future-running-software-of-the-past?utm_medium=rss)
- - [Apple is still considering screens for AirPods charging cases](https://appleinsider.com/articles/24/06/04/apple-is-still-considering-screens-for-airpods-charging-cases?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung added AI upscaling to its new OLED gaming monitor](https://www.theverge.com/2024/6/4/24171076/samsung-odyssey-oled-g8-gaming-monitor-ai-upscaling-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

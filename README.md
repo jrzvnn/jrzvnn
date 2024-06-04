@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wow\u2026](http://9gag.com/gag/amo065V)
- - 😝 [How big are the odds...](http://9gag.com/gag/aKGPAY6)
- - 💣 [Any man will kiss me..](http://9gag.com/gag/aoy0RO3)
- - 😝 [How to stitch with ants](http://9gag.com/gag/azxEPpm)
- - 👉 [SHOW ME WHAT U GOT](http://9gag.com/gag/a5QPwby)<!-- MEMES:END -->
+ - 😝 [This is not a election, this is Hunger games irl](http://9gag.com/gag/a0eL0yL)
+ - 😝 [\u201cThis is our country, and we want it back.\u201d](http://9gag.com/gag/an7KRBL)
+ - 💣 [Always has been, but i do get why](http://9gag.com/gag/awyK1yD)
+ - 😝 [That&#39;s how borders look like when your neighbours aren&#39;t assholes.](http://9gag.com/gag/aRBPMDQ)
+ - 👉 [This will be the most downloaded mod for GoWR on PC](http://9gag.com/gag/azxEPDK)<!-- MEMES:END -->
 
 ---
 

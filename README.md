@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [BrightEdge: Google&#39;s AI Overviews now appear in less than 15% of search queries but on 63% of healthcare-related queries, more than any other topic &lpar;Danny Goodwin/Search Engine Land&rpar;](http://www.techmeme.com/240604/p28#a240604p28)
+ - [Databricks says it will acquire Tabular, a data-management startup that helps companies optimize data with the Apache Iceberg format and more, for over $1B &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240604/p27#a240604p27)
+ - [ChatGPT is down for the second time today](https://www.theverge.com/2024/6/4/24171264/chatgpt-down-outage-errors)
  - [Former OpenAI employees say whistleblower protection on AI safety is not enough](https://www.theverge.com/2024/6/4/24171283/openai-safety-open-letter-whistleblower-agi)
- - [Save up to $350 on every M3 MacBook Pro, plus get up to $80 off AppleCare](https://appleinsider.com/articles/24/02/04/save-up-to-350-on-every-apple-m3-macbook-pro-plus-get-up-to-80-off-applecare?utm_medium=rss)
- - [The new Alien: Romulus trailer channels classic sci-fi horror](https://www.theverge.com/24170776/alien-romulus-trailer-release-date)
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
- - [Google Cut Back AI Overviews in Search Even Before Its ‘Pizza Glue’ Fiasco](https://www.wired.com/story/google-cut-back-ai-overviews-before-pizza-glue/)<!-- TECH:END -->
+ - [Save up to $350 on every M3 MacBook Pro, plus get up to $80 off AppleCare](https://appleinsider.com/articles/24/02/04/save-up-to-350-on-every-apple-m3-macbook-pro-plus-get-up-to-80-off-applecare?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: TikTok accounts are being hacked, including big brands and celebrities like CNN and Paris Hilton, via an attack that only requires a DM to be opened &lpar;Emily Baker-White/Forbes&rpar;](http://www.techmeme.com/240604/p26#a240604p26)
+ - [5 Best Phones With Headphone Jacks &lpar;2024&rpar;: Flagship, Budget, and Dongle Recommendations](https://www.wired.com/gallery/best-headphone-jack-phones/)
+ - [Sources: TikTok accounts, including brands and celebrities like CNN and Paris Hilton, are getting hacked via a zero-day exploit that only requires opening a DM &lpar;Emily Baker-White/Forbes&rpar;](http://www.techmeme.com/240604/p26#a240604p26)
  - [OpenAI Employees Warn of a Culture of Risk and Retaliation](https://www.wired.com/story/openai-right-to-warn-open-letter-ai-risk/)
- - [Sources: Apple was in talks last year to debut Apple TV+ in China via a deal with China Mobile, which would make it the only US video streaming service in China &lpar;Wayne Ma/The Information&rpar;](http://www.techmeme.com/240604/p25#a240604p25)
- - [This Hacker Tool Extracts All the Data Collected by Windows’ New Recall AI](https://www.wired.com/story/total-recall-windows-recall-ai/)
- - [AirPods Max vs. Sonos Ace: premium personal audio, compared](https://appleinsider.com/inside/airpods-max/vs/airpods-max-versus-sonos-ace-premium-personal-audio-compared?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Apple was in talks in 2023 to debut Apple TV+ in China via a deal with China Mobile, which would make TV+ the only US video streaming service in China &lpar;Wayne Ma/The Information&rpar;](http://www.techmeme.com/240604/p25#a240604p25)
+ - [This Hacker Tool Extracts All the Data Collected by Windows’ New Recall AI](https://www.wired.com/story/total-recall-windows-recall-ai/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

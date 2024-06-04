@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AeroPress Clear and Go Plus Review: Colorful, Portable Coffee Makers](https://www.wired.com/review/aeropress-clear-and-go-plus/)
- - [AI-powered virtual physical therapy startup Sword Health raised $130M at a $3B valuation, up from $2B in November 2021, taking its total funding to $340M &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/240604/p19#a240604p19)
- - [Sonos Wants to Get Off Your Shelf and Own Audio Everywhere](https://www.wired.com/story/sonos-wants-to-get-off-your-shelf-and-own-audio-everywhere/)
- - [13-inch iPad Pro review: hardware of the future running software of the past](https://appleinsider.com/articles/24/06/04/13-inch-ipad-pro-review-hardware-of-the-future-running-software-of-the-past?utm_medium=rss)
- - [English soccer team Watford is offering 10% digital equity in the club to investors and fans via Republic&#39;s investment platform Seedrs, aiming to raise &amp;pound;17.5M &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/240604/p18#a240604p18)<!-- TECH:END -->
+ - [Austria-based Storyblok, which offers a headless CMS, raised an $80M Series C led by Brighton Park, after a $47M Series B in May 2022, and reports 200K+ users &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240604/p21#a240604p21)
+ - [The latest Apple TV 4K is $40 off, which is a discount we seldom see](https://www.theverge.com/2024/6/4/24170439/apple-tv-4k-3rd-gen-amazfit-gtr-4-fitness-tracker-deal-sale)
+ - [AirPods Max versus Sonos Ace: premium personal audio, compared](https://appleinsider.com/inside/airpods-max/vs/airpods-max-versus-sonos-ace-premium-personal-audio-compared?utm_medium=rss)
+ - [Shutterstock CEO Paul Hennessy says the company&#39;s licensing business with AI companies made $104M in revenue in 2023 &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240604/p20#a240604p20)
+ - [AeroPress Clear and Go Plus Review: Colorful, Portable Coffee Makers](https://www.wired.com/review/aeropress-clear-and-go-plus/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

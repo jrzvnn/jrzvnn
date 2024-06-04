@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Any man will kiss me..](http://9gag.com/gag/aoy0RO3)
- - 😝 [Welp, Kanlaon volcano just erupted, the smoke plume is already 5 km up in the sky, i think this is it bois](http://9gag.com/gag/a0eLXwZ)
- - 💣 [Harry Potter and the Loophole of the Snape](http://9gag.com/gag/a5QP6oE)
- - 😝 [This is what happens if you completely give up on sugar for 30 days:](http://9gag.com/gag/avygend)
- - 👉 [Heartbreaking, nearly 4 decades in prison despite being innocent](http://9gag.com/gag/aVvWgY2)<!-- MEMES:END -->
+ - 😝 [Perfect](http://9gag.com/gag/aqyNyNM)
+ - 😝 [Repost..](http://9gag.com/gag/azxE2QN)
+ - 💣 [Bro persisted one day](http://9gag.com/gag/abAyeR9)
+ - 😝 [They created a monster! Shady is back.](http://9gag.com/gag/agmvQGx)
+ - 👉 [Welp, Kanlaon volcano just erupted, the smoke plume is already 5 km up in the sky, i think this is it bois](http://9gag.com/gag/a0eLXwZ)<!-- MEMES:END -->
 
 ---
 

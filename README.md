@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is not a election, this is Hunger games irl](http://9gag.com/gag/a0eL0yL)
- - 😝 [SHOW ME WHAT U GOT](http://9gag.com/gag/a5QPwby)
- - 💣 [Pet paw cleaner](http://9gag.com/gag/an7Kvqb)
- - 😝 [Harry Potter and the Loophole of the Snape](http://9gag.com/gag/a5QP6oE)
- - 👉 [How to stitch with ants](http://9gag.com/gag/azxEPpm)<!-- MEMES:END -->
+ - 😝 [Vox &lpar;Spanish Political Party&rpar; campaign for EU election. What Europe do you want?](http://9gag.com/gag/aE01Ajx)
+ - 😝 [That&#39;s how borders look like when your neighbours aren&#39;t assholes.](http://9gag.com/gag/aRBPMDQ)
+ - 💣 [This is not a election, this is Hunger games irl](http://9gag.com/gag/a0eL0yL)
+ - 😝 [It&#39;s fun for like the first two weeks.](http://9gag.com/gag/a9yL590)
+ - 👉 [The moment!](http://9gag.com/gag/aoy0R62)<!-- MEMES:END -->
 
 ---
 

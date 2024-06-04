@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro persisted one day](http://9gag.com/gag/abAyeR9)
- - 😝 [This is what happens if you completely give up on sugar for 30 days:](http://9gag.com/gag/avygend)
- - 💣 [SHOW ME WHAT U GOT](http://9gag.com/gag/a5QPwby)
- - 😝 [Pet paw cleaner](http://9gag.com/gag/an7Kvqb)
- - 👉 [German speaking to an immigrant in his own language](http://9gag.com/gag/amo0WV9)<!-- MEMES:END -->
+ - 😝 [This is not a election, this is Hunger games irl](http://9gag.com/gag/a0eL0yL)
+ - 😝 [SHOW ME WHAT U GOT](http://9gag.com/gag/a5QPwby)
+ - 💣 [Pet paw cleaner](http://9gag.com/gag/an7Kvqb)
+ - 😝 [Harry Potter and the Loophole of the Snape](http://9gag.com/gag/a5QP6oE)
+ - 👉 [How to stitch with ants](http://9gag.com/gag/azxEPpm)<!-- MEMES:END -->
 
 ---
 

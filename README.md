@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [This is what happens if you completely give up on sugar for 30 days:](http://9gag.com/gag/avygend)
+ - 😝 [Harry Potter and the Loophole of the Snape](http://9gag.com/gag/a5QP6oE)
+ - 💣 [How to stitch with ants](http://9gag.com/gag/azxEPpm)
  - 😝 [Bad Boys 4 behind the scenes](http://9gag.com/gag/a2vYywZ)
- - 😝 [The moment!](http://9gag.com/gag/aoy0R62)
- - 💣 [This is not a election, this is Hunger games irl](http://9gag.com/gag/a0eL0yL)
- - 😝 [Drugs are bad, mkay ?](http://9gag.com/gag/aW4Wn7d)
- - 👉 [It&#39;s fun for like the first two weeks.](http://9gag.com/gag/a9yL590)<!-- MEMES:END -->
+ - 👉 [Professor invited us for hiking. Only two of us showed up](http://9gag.com/gag/aBy3VwD)<!-- MEMES:END -->
 
 ---
 

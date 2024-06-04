@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The police officer from Mannheim died today. Where are the protests?](http://9gag.com/gag/ae904gj)
- - 😝 [Now this is what I call good Police work, well done!!](http://9gag.com/gag/a4Pdn7A)
- - 💣 [When 2 heavily armed jihadis tried to attack a draw mohamad&#39; contest, in Texas, they were un-alived within 3 seconds after getting out of their car. No Americans were injured and this was the winning drawing.](http://9gag.com/gag/aGyw8g0)
- - 😝 [New Google](http://9gag.com/gag/a6ZyXOq)
- - 👉 [Taylor Swift might have finally met her match](http://9gag.com/gag/amo0WM9)<!-- MEMES:END -->
+ - 😝 [It used to, but now it&#39;s just for racists, propaganda and sh*t.. it&#39;s a place where people share hatred. I don&#39;t use it much anymore..](http://9gag.com/gag/aNDZ9qG)
+ - 😝 [Nobody reading this?](http://9gag.com/gag/aXPpn62)
+ - 💣 [The police officer from Mannheim died today. Where are the protests?](http://9gag.com/gag/ae904gj)
+ - 😝 [Welp, Kanlaon volcano just erupted, the smoke plume is already 5 km up in the sky, i think this is it bois](http://9gag.com/gag/a0eLXwZ)
+ - 👉 [New Google](http://9gag.com/gag/a6ZyXOq)<!-- MEMES:END -->
 
 ---
 

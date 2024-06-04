@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Max raises prices across its ad-free plans](https://www.theverge.com/2024/6/4/24171193/max-price-raise-ad-free-plans-hbo)
  - [Best iPad to Buy &lpar;and Some to Avoid&rpar; in 2024](https://www.wired.com/gallery/the-best-ipad/)
  - [Apple just corrected the M2 iPad Air’s core count](https://www.theverge.com/2024/6/4/24171100/apple-m2-ipad-air-gpu-core-count-correction)
  - [Netflix will stop working on older Apple TVs](https://www.theverge.com/2024/6/4/24171111/netflix-stop-support-old-apple-tv-2nd-3rd-generation)
- - [Pilotless air taxis? Joby sees the possibility with new acquisition](https://www.theverge.com/2024/6/4/24171086/job-acquire-xwing-autonomous-flight-evtol-air-taxi)
- - [An interview with Sonos CEO Patrick Spence on the Ace headphones, the controversial ground-up app redesign, expanding beyond speakers, and more &lpar;Parker Hall/Wired&rpar;](http://www.techmeme.com/240604/p24#a240604p24)<!-- TECH:END -->
+ - [Pilotless air taxis? Joby sees the possibility with new acquisition](https://www.theverge.com/2024/6/4/24171086/job-acquire-xwing-autonomous-flight-evtol-air-taxi)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

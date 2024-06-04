@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The magic of physics..](http://9gag.com/gag/an7Kz3V)
+ - 😝 [New Google](http://9gag.com/gag/a6ZyXOq)
+ - 😝 [Come on do it](http://9gag.com/gag/ary4A1K)
+ - 💣 [Taylor Swift might have finally met her match](http://9gag.com/gag/amo0WM9)
  - 😝 [She doesn\u2019t even know the basics about what she claims to \u201csupport` but she did `study` abroad in the Middle East .](http://9gag.com/gag/aGywBew)
- - 💣 [Welp, Kanlaon volcano just erupted, the smoke plume is already 5 km up in the sky, i think this is it bois](http://9gag.com/gag/a0eLXwZ)
- - 😝 [How to stitch with ants](http://9gag.com/gag/azxEPpm)
- - 👉 [How big are the odds...](http://9gag.com/gag/aKGPAY6)<!-- MEMES:END -->
+ - 👉 [It&#39;s time to VOTE](http://9gag.com/gag/aGyw8GZ)<!-- MEMES:END -->
 
 ---
 

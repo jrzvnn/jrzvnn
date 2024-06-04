@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AeroPress Clear and Go Plus Review: Colorful, Portable Coffee Makers](https://www.wired.com/review/aeropress-clear-and-go-plus/)
+ - [AI-powered virtual physical therapy startup Sword Health raised $130M at a $3B valuation, up from $2B in November 2021, taking its total funding to $340M &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/240604/p19#a240604p19)
+ - [Sonos Wants to Get Off Your Shelf and Own Audio Everywhere](https://www.wired.com/story/sonos-wants-to-get-off-your-shelf-and-own-audio-everywhere/)
  - [13-inch iPad Pro review: hardware of the future running software of the past](https://appleinsider.com/articles/24/06/04/13-inch-ipad-pro-review-hardware-of-the-future-running-software-of-the-past?utm_medium=rss)
- - [English soccer team Watford is offering 10% digital equity in the club to investors and fans via Republic&#39;s investment platform Seedrs, aiming to raise &amp;pound;17.5M &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/240604/p18#a240604p18)
- - [Palmer Luckey unveils the $199 ModRetro Chromatic, a take on the Nintendo Game Boy, with USB-C video out and a 1,000+ nits custom screen, shipping this holiday &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240604/p17#a240604p17)
- - [TSMC Chair C.C. Wei says the company has held talks with customers over moving its plants off Taiwan as China tensions mount but such a move would be impossible &lpar;Reuters&rpar;](http://www.techmeme.com/240604/p16#a240604p16)
- - [WWDC AI announcements will spark iPhone 16 upgrade cycle -- eventually](https://appleinsider.com/articles/24/06/04/wwdc-ai-announcements-will-spark-iphone-16-upgrade-cycle----eventually?utm_medium=rss)<!-- TECH:END -->
+ - [English soccer team Watford is offering 10% digital equity in the club to investors and fans via Republic&#39;s investment platform Seedrs, aiming to raise &amp;pound;17.5M &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/240604/p18#a240604p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

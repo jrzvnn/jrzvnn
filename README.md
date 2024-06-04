@@ -172,10 +172,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Bro persisted one day](http://9gag.com/gag/abAyeR9)
- - 😝 [How big are the odds...](http://9gag.com/gag/aKGPAY6)
+ - 😝 [Welp, Kanlaon volcano just erupted, the smoke plume is already 5 km up in the sky, i think this is it bois](http://9gag.com/gag/a0eLXwZ)
  - 💣 [This is what happens if you completely give up on sugar for 30 days:](http://9gag.com/gag/avygend)
- - 😝 [Harry Potter and the Loophole of the Snape](http://9gag.com/gag/a5QP6oE)
- - 👉 [Bread and butter.](http://9gag.com/gag/a9yLvW0)<!-- MEMES:END -->
+ - 😝 [Now this is what I call good Police work, well done!!](http://9gag.com/gag/a4Pdn7A)
+ - 👉 [How big are the odds...](http://9gag.com/gag/aKGPAY6)<!-- MEMES:END -->
 
 ---
 

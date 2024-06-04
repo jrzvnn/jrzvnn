@@ -172,10 +172,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [New Google](http://9gag.com/gag/a6ZyXOq)
- - 😝 [Come on do it](http://9gag.com/gag/ary4A1K)
+ - 😝 [Nobody reading this?](http://9gag.com/gag/aXPpn62)
  - 💣 [Taylor Swift might have finally met her match](http://9gag.com/gag/amo0WM9)
- - 😝 [She doesn\u2019t even know the basics about what she claims to \u201csupport` but she did `study` abroad in the Middle East .](http://9gag.com/gag/aGywBew)
- - 👉 [It&#39;s time to VOTE](http://9gag.com/gag/aGyw8GZ)<!-- MEMES:END -->
+ - 😝 [Now this is what I call good Police work, well done!!](http://9gag.com/gag/a4Pdn7A)
+ - 👉 [Well she&#39;s right](http://9gag.com/gag/avygWKq)<!-- MEMES:END -->
 
 ---
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AT&amp;T says an outage is preventing many customers from completing calls between carriers, but 911 calls are going through; Verizon customers also report issues &lpar;Samantha Murphy Kelly/CNN&rpar;](http://www.techmeme.com/240604/p41#a240604p41)
  - [Flash sale: learn a new language on your iPhone or Mac with a lifetime of Babbel for $149.97](https://appleinsider.com/articles/24/06/04/flash-sale-learn-a-new-language-on-your-iphone-or-mac-with-a-lifetime-of-babbel-for-14997?utm_medium=rss)
  - [An AT&amp;T and Verizon outage is cutting off phone calls](https://www.theverge.com/2024/6/4/24171656/att-verizon-outage-dropped-calls)
  - [Here’s Jensen Huang signing a woman’s chest](https://www.theverge.com/2024/6/4/24166297/nvidia-jensen-huang-computex-signing)
- - [Apple iPhone 16 Pro to Have Thinnest Bezels Yet, Report Says     - CNET](https://www.cnet.com/tech/mobile/apple-iphone-16-pro-to-have-thinnest-bezels-yet-report-says/#ftag=CAD590a51e)
- - [Best Keurig Coffee Makers for 2024     - CNET](https://www.cnet.com/home/kitchen-and-household/best-keurig-coffee-makers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple iPhone 16 Pro to Have Thinnest Bezels Yet, Report Says     - CNET](https://www.cnet.com/tech/mobile/apple-iphone-16-pro-to-have-thinnest-bezels-yet-report-says/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

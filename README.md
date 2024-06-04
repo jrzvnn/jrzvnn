@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis: China&#39;s internet had 3.9M websites in 2023, down ~27% from 2017; Chinese-language websites were 1.3% of the global total, down 70% from 4.3% in 2013 &lpar;Li Yuan/New York Times&rpar;](http://www.techmeme.com/240604/p8#a240604p8)
  - [A look at the &quot;world&#39;s first beauty pageant for AI creators&quot;, launched in April 2024 by creator platform Fanvue, after 10 semifinalists were announced on June 3 &lpar;Marah Eakin/Wired&rpar;](http://www.techmeme.com/240604/p7#a240604p7)
  - [SSDI June 2024 Payment: Is Your Check Coming This Week?     - CNET](https://www.cnet.com/personal-finance/ssdi-june-2024-payment-is-your-check-coming-this-week/#ftag=CAD590a51e)
  - [Even the Raspberry Pi is getting in on AI](https://www.theverge.com/2024/6/4/24170818/raspberry-pi-ai-chip-hailo-devices)
- - [How new forms of neurotechnology, which uses computerized implants to interact with the brain and nervous system, are helping disabled people walk and more &lpar;Financial Times&rpar;](http://www.techmeme.com/240604/p6#a240604p6)
- - [After nine months with Starlink, the Marubo, an Indigenous Amazon tribe, faces challenges like addiction and concerns about potential loss of cultural identity &lpar;Jack Nicas/New York Times&rpar;](http://www.techmeme.com/240604/p5#a240604p5)<!-- TECH:END -->
+ - [How new forms of neurotechnology, which uses computerized implants to interact with the brain and nervous system, are helping disabled people walk and more &lpar;Financial Times&rpar;](http://www.techmeme.com/240604/p6#a240604p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

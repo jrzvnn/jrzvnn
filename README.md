@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is not a election, this is Hunger games irl](http://9gag.com/gag/a0eL0yL)
- - 😝 [As an Asian I can confirm and I feel safe when I see one.](http://9gag.com/gag/aBy3Z5Z)
- - 💣 [Still would](http://9gag.com/gag/a9yL6YL)
+ - 😝 [Pet paw cleaner](http://9gag.com/gag/an7Kvqb)
+ - 😝 [Harry Potter and the Loophole of the Snape](http://9gag.com/gag/a5QP6oE)
+ - 💣 [Bro persisted one day](http://9gag.com/gag/abAyeR9)
  - 😝 [How to stitch with ants](http://9gag.com/gag/azxEPpm)
- - 👉 [Harry Potter and the Loophole of the Snape](http://9gag.com/gag/a5QP6oE)<!-- MEMES:END -->
+ - 👉 [SHOW ME WHAT U GOT](http://9gag.com/gag/a5QPwby)<!-- MEMES:END -->
 
 ---
 

@@ -171,7 +171,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Keep the good work GTA](http://9gag.com/gag/ae90Zej)
+ - 😝 [Well she&#39;s right](http://9gag.com/gag/avygWKq)
  - 😝 [\u201cThis is our country, and we want it back.\u201d](http://9gag.com/gag/an7KRBL)
  - 💣 [This will be the most downloaded mod for GoWR on PC](http://9gag.com/gag/azxEPDK)
  - 😝 [Always has been, but i do get why](http://9gag.com/gag/awyK1yD)

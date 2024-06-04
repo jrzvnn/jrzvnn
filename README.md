@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI Employees Warn of a Culture of Risk and Retaliation](https://www.wired.com/story/openai-right-to-warn-open-letter-ai-risk/)
+ - [Sources: Apple was in talks last year to debut Apple TV+ in China via a deal with China Mobile, which would make it the only US video streaming service in China &lpar;Wayne Ma/The Information&rpar;](http://www.techmeme.com/240604/p25#a240604p25)
+ - [This Hacker Tool Extracts All the Data Collected by Windows’ New Recall AI](https://www.wired.com/story/total-recall-windows-recall-ai/)
  - [AirPods Max vs. Sonos Ace: premium personal audio, compared](https://appleinsider.com/inside/airpods-max/vs/airpods-max-versus-sonos-ace-premium-personal-audio-compared?utm_medium=rss)
- - [10 Best Blenders &lpar;2024&rpar;: Jug, Hand, Immersion](https://www.wired.com/gallery/best-blenders/)
- - [It’s getting cheaper to filter carbon dioxide out of the air](https://www.theverge.com/2024/6/4/24170729/direct-air-capture-carbon-dioxide-removal-climate-tech-climeworks-generation-3)
- - [You can already buy iPhone 16 cases, but you probably shouldn&#39;t](https://appleinsider.com/articles/24/06/04/you-can-already-buy-iphone-16-cases-but-you-probably-shouldnt?utm_medium=rss)
- - [Apple TV+ tries to become the first US streamer in China](https://appleinsider.com/articles/24/06/04/apple-tv-tries-to-become-the-first-us-streamer-in-china?utm_medium=rss)<!-- TECH:END -->
+ - [10 Best Blenders &lpar;2024&rpar;: Jug, Hand, Immersion](https://www.wired.com/gallery/best-blenders/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

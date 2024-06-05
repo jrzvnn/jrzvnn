@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is not a election, this is Hunger games irl](http://9gag.com/gag/a0eL0yL)
- - 😝 [Aunt May I?](http://9gag.com/gag/aBy3PMZ)
- - 💣 [Difference between men and women](http://9gag.com/gag/aD23Z2G)
- - 😝 [He&#39;s a man of focus &amp; commitment](http://9gag.com/gag/aKGPvmO)
- - 👉 [Parent lets her kids ruin a piano set performance](http://9gag.com/gag/axyZO9K)<!-- MEMES:END -->
+ - 😝 [Scroll of truth](http://9gag.com/gag/amo0mWV)
+ - 😝 [Every year on the anniversary of D-Day, French citizens take sand from Omaha Beach and rub it onto the gravestones of fallen soldiers to create a golden shine. They do this for all 9,386 American soldiers buried there.](http://9gag.com/gag/axyZO4n)
+ - 💣 [Teacher to kid 1980 scenario](http://9gag.com/gag/a87YeP1)
+ - 😝 [Bro&#39;s Got The Rizz](http://9gag.com/gag/a4PdA51)
+ - 👉 [Forgot WiFi Password? Useful information\u2026](http://9gag.com/gag/aO8b9Ev)<!-- MEMES:END -->
 
 ---
 

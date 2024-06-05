@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Asana unveils &quot;AI teammates&quot;, a new feature in beta for select customers to help manage projects and tasks, ahead of general availability later in 2024 &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/240605/p19#a240605p19)
  - [Apple Watch &amp; AirPods still rule the wearables market, despite losing ground](https://appleinsider.com/articles/24/06/05/apple-watch-airpods-still-rule-the-wearables-market-despite-losing-ground?utm_medium=rss)
  - [Apple regains $3 trillion valuation, creeps up on Microsoft](https://appleinsider.com/articles/24/06/05/apple-regains-3-trillion-valuation-creeps-up-on-microsoft?utm_medium=rss)
- - [2024 Ford Mustang Mach-E Rally First Drive: Price, Specs, Availability](https://www.wired.com/story/first-drive-2024-ford-mustang-mach-e-rally/)<!-- TECH:END -->
+ - [Palmetto Solar Review: Our New Top Choice for Going Solar     - CNET](https://www.cnet.com/home/energy-and-utilities/palmetto-solar-review-a-strong-choice-for-going-solar/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u201cIf you can\u2019t handle me at my 15 man bukake then you don\u2019t deserve me and my after work kiss.\u201d -Riley Reid probably](http://9gag.com/gag/aGywMOn)
- - 😝 [USA, UK, France, etc. Useless everywhere. Any discovery or invention? Anyone?](http://9gag.com/gag/ayN01Ap)
- - 💣 [He&#39;s a man of focus &amp; commitment](http://9gag.com/gag/aKGPvmO)
- - 😝 [Absolute cinema](http://9gag.com/gag/a4PdA1A)
- - 👉 [I am starting a new religion](http://9gag.com/gag/ae90Omq)<!-- MEMES:END -->
+ - 😝 [Anti Cat Table](http://9gag.com/gag/aVvWZBn)
+ - 😝 [Forgot WiFi Password? Useful information\u2026](http://9gag.com/gag/aO8b9Ev)
+ - 💣 [Every year on the anniversary of D-Day, French citizens take sand from Omaha Beach and rub it onto the gravestones of fallen soldiers to create a golden shine. They do this for all 9,386 American soldiers buried there.](http://9gag.com/gag/axyZO4n)
+ - 😝 [Remember your training](http://9gag.com/gag/aAyrMVL)
+ - 👉 [Scroll of truth](http://9gag.com/gag/amo0mWV)<!-- MEMES:END -->
 
 ---
 

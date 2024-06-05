@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube, the only major US platform available in Russia, has become a primary source of entertainment for many Russians, making a ban tricky for the Kremlin &lpar;Justin Ling/Wired&rpar;](http://www.techmeme.com/240605/p3#a240605p3)
  - [Australia&#39;s eSafety commissioner ends the legal action asking X to remove a video of a clergyman&#39;s stabbing; Musk labelled the action an assault on free speech &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/240605/p2#a240605p2)
  - [Singapore-based Nium, a B2B cross-border payments infrastructure provider, raised $50M at a $1.4B valuation, down from $2B in 2022, as the firm eyes a 2025 IPO &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240605/p1#a240605p1)
  - [Best Antivirus Software for 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-antivirus/#ftag=CAD590a51e)
- - [Best Solar Panel Installation Companies in California     - CNET](https://www.cnet.com/home/energy-and-utilities/california-solar-panels/#ftag=CAD590a51e)
- - [Switzerland-based Neural Concept, whose 3D product design software uses deep learning to help cut development times, raised a $27M Series B led by Forestay &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/240604/p49#a240604p49)<!-- TECH:END -->
+ - [Best Solar Panel Installation Companies in California     - CNET](https://www.cnet.com/home/energy-and-utilities/california-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

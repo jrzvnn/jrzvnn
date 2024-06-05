@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thunder catapult](http://9gag.com/gag/aZZxjMV)
- - 😝 [Remember your training](http://9gag.com/gag/aAyrMVL)
- - 💣 [Every year on the anniversary of D-Day, French citizens take sand from Omaha Beach and rub it onto the gravestones of fallen soldiers to create a golden shine. They do this for all 9,386 American soldiers buried there.](http://9gag.com/gag/axyZO4n)
- - 😝 [Bro&#39;s Got The Rizz](http://9gag.com/gag/a4PdA51)
- - 👉 [Bad Boys 4 behind the scenes](http://9gag.com/gag/a2vYywZ)<!-- MEMES:END -->
+ - 😝 [Yeah, sure... it must be the fans](http://9gag.com/gag/aZZxjn0)
+ - 😝 [It&#39;s fun for like the first two weeks.](http://9gag.com/gag/a9yL590)
+ - 💣 [\u201cIf you can\u2019t handle me at my 15 man bukake then you don\u2019t deserve me and my after work kiss.\u201d -Riley Reid probably](http://9gag.com/gag/aGywMOn)
+ - 😝 [Aunt May I?](http://9gag.com/gag/aBy3PMZ)
+ - 👉 [Professor invited us for hiking. Only two of us showed up](http://9gag.com/gag/aBy3VwD)<!-- MEMES:END -->
 
 ---
 

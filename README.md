@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pet paw cleaner](http://9gag.com/gag/an7Kvqb)
+ - 😝 [How to stitch with ants](http://9gag.com/gag/azxEPpm)
  - 😝 [Bro&#39;s Got The Rizz](http://9gag.com/gag/a4PdA51)
- - 💣 [Professor invited us for hiking. Only two of us showed up](http://9gag.com/gag/aBy3VwD)
- - 😝 [It&#39;s fun for like the first two weeks.](http://9gag.com/gag/a9yL590)
- - 👉 [I know I shouldn\u2019t stare but damn](http://9gag.com/gag/aW4WLd2)<!-- MEMES:END -->
+ - 💣 [I know I shouldn\u2019t stare but damn](http://9gag.com/gag/aW4WLd2)
+ - 😝 [Aunt May I?](http://9gag.com/gag/aBy3PMZ)
+ - 👉 [He&#39;s a man of focus &amp; commitment](http://9gag.com/gag/aKGPvmO)<!-- MEMES:END -->
 
 ---
 

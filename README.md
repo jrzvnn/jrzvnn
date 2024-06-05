@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Apple&#39;s OpenAI deal, ahead of WWDC; sources say Apple plans to offer AI features as an opt-in service, and is working on LLM-powered robotic devices &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240605/p14#a240605p14)
+ - [Spirit Airlines pays off victim after Apple Watch proves her luggage was stolen](https://appleinsider.com/articles/24/06/05/spirit-airlines-pays-off-victim-after-apple-watch-proves-her-luggage-was-stolen?utm_medium=rss)
  - [Bartender app&#39;s new owner has burnt years of good-will with a lack of transparency](https://appleinsider.com/articles/24/06/05/bartender-apps-new-owner-has-burnt-years-of-good-will-with-a-lack-of-transparency?utm_medium=rss)
  - [Apple plans to fix another Screen Time bug that let kids visit X-rated websites; two researchers say they reported the bug to Apple in March and August 2021 &lpar;Joanna Stern/Wall Street Journal&rpar;](http://www.techmeme.com/240605/p13#a240605p13)
- - [When a Video Game Developer Gets Outed as Abusive, What Happens Next?](https://www.wired.com/story/respec-harassment-gaming/)
- - [How a series of hacks, starting with BlackCat in June 2023, show the challenges facing the UK&#39;s NHS, which employs 1.7M workers and cares for 68M UK residents &lpar;Bloomberg&rpar;](http://www.techmeme.com/240605/p12#a240605p12)
- - [Japanese crypto exchange DMM Bitcoin plans to raise ~$321M to buy back bitcoin and make users whole after an &quot;unauthorized outflow&quot; of 4,503 bitcoin on May 31 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240605/p11#a240605p11)<!-- TECH:END -->
+ - [When a Video Game Developer Gets Outed as Abusive, What Happens Next?](https://www.wired.com/story/respec-harassment-gaming/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

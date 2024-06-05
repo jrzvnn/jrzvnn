@@ -172,10 +172,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [I know I shouldn\u2019t stare but damn](http://9gag.com/gag/aW4WLd2)
- - 😝 [Professor invited us for hiking. Only two of us showed up](http://9gag.com/gag/aBy3VwD)
- - 💣 [Hiking accident, two people missing](http://9gag.com/gag/aMVrP5P)
  - 😝 [Aunt May I?](http://9gag.com/gag/aBy3PMZ)
- - 👉 [Parent lets her kids ruin a piano set performance](http://9gag.com/gag/axyZO9K)<!-- MEMES:END -->
+ - 💣 [Hiking accident, two people missing](http://9gag.com/gag/aMVrP5P)
+ - 😝 [I am starting a new religion](http://9gag.com/gag/ae90Omq)
+ - 👉 [\u201cIf you can\u2019t handle me at my 15 man bukake then you don\u2019t deserve me and my after work kiss.\u201d -Riley Reid probably](http://9gag.com/gag/aGywMOn)<!-- MEMES:END -->
 
 ---
 

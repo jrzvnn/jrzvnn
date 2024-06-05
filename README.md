@@ -163,7 +163,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [YouTube plans to restrict some content pertaining to the real use of guns from viewers under 18 starting on June 18, a year after a watchdog group report &lpar;Will Shanklin/Engadget&rpar;](http://www.techmeme.com/240605/p29#a240605p29)
- - [Marc Andreessen Called Online Safety Teams an Enemy. He Still Wants Walled Gardens for His Kid](https://www.wired.com/story/marc-andreessen-online-safety-enemy-walled-gardens/)
+ - [Marc Andreessen Once Called Online Safety Teams an Enemy. He Still Wants Walled Gardens for Kids](https://www.wired.com/story/marc-andreessen-online-safety-enemy-walled-gardens/)
  - [Stormy servers -- Apple Weather suffered an intermittent outage](https://appleinsider.com/articles/24/06/05/stormy-servers----apple-weather-suffers-an-intermittent-outage?utm_medium=rss)
  - [Home Cooling Costs Expected to Hit 10-Year High This Summer     - CNET](https://www.cnet.com/news/home-cooling-costs-expected-to-hit-10-year-high-this-summer/#ftag=CAD590a51e)
  - [Beware of This New &#39;Get Rich Quick&#39; Scheme on Social Media     - CNET](https://www.cnet.com/personal-finance/banking/beware-of-this-new-get-rich-quick-scheme-on-social-media/#ftag=CAD590a51e)<!-- TECH:END -->

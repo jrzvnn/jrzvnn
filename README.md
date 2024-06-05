@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I said you have to deal with it!.](http://9gag.com/gag/aNDZVp3)
- - 😝 [Every year on the anniversary of D-Day, French citizens take sand from Omaha Beach and rub it onto the gravestones of fallen soldiers to create a golden shine. They do this for all 9,386 American soldiers buried there.](http://9gag.com/gag/axyZO4n)
- - 💣 [A bit cringe talk](http://9gag.com/gag/an7KxM0)
- - 😝 [Irish people patrol the streets in Dublin after several Irish women were abused by invaders](http://9gag.com/gag/aD2386x)
- - 👉 [Bad Boys 4 behind the scenes](http://9gag.com/gag/a2vYywZ)<!-- MEMES:END -->
+ - 😝 [I know I shouldn\u2019t stare but damn](http://9gag.com/gag/aW4WLd2)
+ - 😝 [When Pride Parade clashes with #BLM protesters in Philly](http://9gag.com/gag/aBy3E2Z)
+ - 💣 [Aunt May I?](http://9gag.com/gag/aBy3PMZ)
+ - 😝 [Professor invited us for hiking. Only two of us showed up](http://9gag.com/gag/aBy3VwD)
+ - 👉 [Hiking accident, two people missing](http://9gag.com/gag/aMVrP5P)<!-- MEMES:END -->
 
 ---
 

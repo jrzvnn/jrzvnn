@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UN secretary-general labels humanity as ‘the meteor’ in fiery climate speech](https://www.theverge.com/2024/6/5/24171972/united-nations-climate-change-speech-secretary-general-extreme-weather-record-heat)
+ - [App Store just had its best quarter in four years, is crushing Google Play in spending](https://appleinsider.com/articles/24/06/05/app-store-just-had-its-best-quarter-in-four-years-is-crushing-google-play-in-spending?utm_medium=rss)
  - [The future of Netflix games could look like reality TV](https://www.theverge.com/24171526/netflix-games-too-hot-too-handle-interactive-fiction)
  - [There’s a secret smart home radio in your new Mac](https://www.theverge.com/2024/6/5/24170446/apple-macbook-ipad-imac-thread-radio)
- - [Asana unveils &quot;AI teammates&quot;, a new feature in beta for select customers to help manage projects and tasks, ahead of general availability later in 2024 &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/240605/p19#a240605p19)
- - [Apple Watch &amp; AirPods still rule the wearables market, despite losing ground](https://appleinsider.com/articles/24/06/05/apple-watch-airpods-still-rule-the-wearables-market-despite-losing-ground?utm_medium=rss)
- - [Apple regains $3 trillion valuation, creeps up on Microsoft](https://appleinsider.com/articles/24/06/05/apple-regains-3-trillion-valuation-creeps-up-on-microsoft?utm_medium=rss)<!-- TECH:END -->
+ - [Asana unveils &quot;AI teammates&quot;, a new feature in beta for select customers to help manage projects and tasks, ahead of general availability later in 2024 &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/240605/p19#a240605p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

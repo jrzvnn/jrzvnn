@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Sheets’ new ‘conditional notifications’ easily keep track of small changes](https://www.theverge.com/2024/6/5/24172291/google-sheets-workspace-conditional-notifications-microsoft-excel-airtable)
  - [The Greater Memphis Chamber says xAI plans to develop a new facility in Memphis to house a supercomputer and could receive tax breaks and other incentives &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/240605/p24#a240605p24)
- - [Relax While the Refurb Roomba J7 Plus Cleans Your Floors for Just $290     - CNET](https://www.cnet.com/deals/relax-while-the-refurb-roomba-j7-plus-cleans-your-floors-for-just-290/#ftag=CAD590a51e)
  - [Hands on: Using the Dexcom G7 continuous glucose meter directly with Apple Watch](https://appleinsider.com/articles/24/06/05/hands-on-using-the-dexcom-g7-continuous-glucose-meter-directly-with-apple-watch?utm_medium=rss)
- - [Apple&#39;s Big AI News at WWDC Includes an OpenAI Partnership, Report Says     - CNET](https://www.cnet.com/tech/services-and-software/apples-big-ai-news-at-wwdc-includes-an-openai-partnership-report-says/#ftag=CAD590a51e)
- - [Get a Samsung Credit Worth Up to $300 When You Preorder a 2024 Monitor     - CNET](https://www.cnet.com/deals/get-a-samsung-credit-worth-up-to-300-when-you-preorder-a-2024-monitor/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Stormy servers -- Apple Weather suffers an intermittent outage](https://appleinsider.com/articles/24/06/05/stormy-servers----apple-weather-suffers-an-intermittent-outage?utm_medium=rss)
+ - [Boeing’s Starliner Has Finally Launched a NASA Crew Into Space](https://www.wired.com/story/boeing-starliner-launch-spacex-international-space-station/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

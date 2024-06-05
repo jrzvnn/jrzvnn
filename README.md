@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sixteen Republican lawmakers accuse Nigeria of taking Binance executive Tigran Gambaryan &quot;hostage&quot; and urge Biden to help secure his release in a June 4 letter &lpar;Nduka Orjinmo/Bloomberg&rpar;](http://www.techmeme.com/240605/p16#a240605p16)
+ - [Apple promises to finally fix Screen Time bug that lets children visit blocked sites](https://appleinsider.com/articles/24/06/05/apple-promises-to-finally-fix-screen-time-bug-that-lets-children-visit-blocked-sites?utm_medium=rss)
  - [All of the iPhone 16 Pro Max measurements have been leaked](https://appleinsider.com/articles/24/06/05/all-of-the-iphone-16-pro-max-measurements-have-been-leaked?utm_medium=rss)
  - [13 Best Office Chairs &lpar;2024&rpar;: Budget, Luxe, Cushions, Casters, and Mats](https://www.wired.com/gallery/best-office-chairs/)
- - [Apple will allow users to opt in to ChatGPT services in iOS 18 after deal with OpenAI](https://appleinsider.com/articles/24/06/05/apple-will-allow-users-to-opt-in-to-chatgpt-services-in-ios-18-after-deal-with-openai?utm_medium=rss)
- - [ASML CFO Roger Dassen says TSMC, Intel, and Samsung will all get its &amp;euro;350M high-NA EUV machines by the end of 2024; the machines can print 8nm lines on chips &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/240605/p15#a240605p15)
- - [A look at Apple&#39;s OpenAI deal, ahead of WWDC; sources say Apple plans to offer AI features as an opt-in service, and is working on LLM-powered robotic devices &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240605/p14#a240605p14)<!-- TECH:END -->
+ - [Apple will allow users to opt in to ChatGPT services in iOS 18 after deal with OpenAI](https://appleinsider.com/articles/24/06/05/apple-will-allow-users-to-opt-in-to-chatgpt-services-in-ios-18-after-deal-with-openai?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Antivirus Software for 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-antivirus/#ftag=CAD590a51e)
+ - [Best Solar Panel Installation Companies in California     - CNET](https://www.cnet.com/home/energy-and-utilities/california-solar-panels/#ftag=CAD590a51e)
  - [Switzerland-based Neural Concept, whose 3D product design software uses deep learning to help cut development times, raised a $27M Series B led by Forestay &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/240604/p49#a240604p49)
  - [How to extract audio from video on Mac with built-in tools](https://appleinsider.com/inside/mac/tips/how-to-extract-audio-from-video-on-mac-with-built-in-tools?utm_medium=rss)
- - [Best Travel Headphones for 2024     - CNET](https://www.cnet.com/tech/mobile/best-travel-headphones/#ftag=CAD590a51e)
- - [Former OpenAI researcher Leopold Aschenbrenner says he was fired in April for sharing a memo raising concerns about OpenAI&#39;s security practices with the board &lpar;Shakeel Hashim/Transformer&rpar;](http://www.techmeme.com/240604/p48#a240604p48)
- - [Today&#39;s Wordle Hints and Answer: Help for June 5, #1082     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-and-answer-help-for-june-5-1082/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Travel Headphones for 2024     - CNET](https://www.cnet.com/tech/mobile/best-travel-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

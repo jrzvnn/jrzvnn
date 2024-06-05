@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The moment!](http://9gag.com/gag/aoy0R62)
- - 😝 [Clever girl](http://9gag.com/gag/aPA48jq)
- - 💣 [I had a dog once, who did the same thing. Miss you buddy...](http://9gag.com/gag/apR0P5B)
- - 😝 [Remember your training](http://9gag.com/gag/aAyrMVL)
- - 👉 [I said you have to deal with it!.](http://9gag.com/gag/aNDZVp3)<!-- MEMES:END -->
+ - 😝 [Pet paw cleaner](http://9gag.com/gag/an7Kvqb)
+ - 😝 [Bro&#39;s Got The Rizz](http://9gag.com/gag/a4PdA51)
+ - 💣 [Professor invited us for hiking. Only two of us showed up](http://9gag.com/gag/aBy3VwD)
+ - 😝 [It&#39;s fun for like the first two weeks.](http://9gag.com/gag/a9yL590)
+ - 👉 [I know I shouldn\u2019t stare but damn](http://9gag.com/gag/aW4WLd2)<!-- MEMES:END -->
 
 ---
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twitch says its Twitch Tier 1 subscriptions in the US will increase from $4.99 to $5.99 per month on July 11, the first price rise for US subscribers &lpar;Will Shanklin/Engadget&rpar;](http://www.techmeme.com/240605/p7#a240605p7)
  - [An American Company Enabled a North Korean Scam That Raised Money for WMDs](https://www.wired.com/story/registered-agents-north-korean-scam-wmds/)
  - [Why the EU’s Vice President Isn’t Worried About Moon-Landing Conspiracies on YouTube](https://www.wired.com/story/eu-vice-president-moon-landing-conspiracies-youtube/)
  - [How Uganda&#39;s government under President Yoweri Museveni has increasingly used the country&#39;s biometric identity system to target opponents and consolidate power &lpar;Olivia Solon/Bloomberg&rpar;](http://www.techmeme.com/240605/p6#a240605p6)
- - [An excerpt from the book Dark Wire, which details how the biggest FBI sting operation ran the An&amp;oslash;m encrypted phone network to catch criminals like &quot;Microsoft&quot; &lpar;Joseph Cox/Wired&rpar;](http://www.techmeme.com/240605/p5#a240605p5)
- - [China Miéville Writes a Secret Novel With the Internet’s Boyfriend &lpar;It&#39;s Keanu Reeves&rpar;](https://www.wired.com/story/china-mieville-writes-a-secret-novel-with-the-internets-boyfriend-keanu-reeves/)<!-- TECH:END -->
+ - [An excerpt from the book Dark Wire, which details how the biggest FBI sting operation ran the An&amp;oslash;m encrypted phone network to catch criminals like &quot;Microsoft&quot; &lpar;Joseph Cox/Wired&rpar;](http://www.techmeme.com/240605/p5#a240605p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

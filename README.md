@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Falling US demand means an imminent international rollout for Apple Vision Pro](https://appleinsider.com/articles/24/06/05/falling-us-demand-means-a-faster-international-rollout-for-apple-vision-pro?utm_medium=rss)
  - [Apple is fixing a years-old parental control bug that lets kids avoid web filters](https://www.theverge.com/2024/6/5/24172008/apple-fixing-screen-time-bug-x-rated-sites-parental-controls)
  - [Google is acquiring software virtualization company Cameyo to deeply integrate virtualized Windows app support into ChromeOS, following a partnership last year &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240605/p20#a240605p20)
  - [iPad Air &lpar;2024&rpar; review: Not the cheapest, and not the best, but still great](https://appleinsider.com/articles/24/06/05/ipad-air-2024-review-not-the-cheapest-and-not-the-best-but-still-great?utm_medium=rss)
- - [Nothing’s next phone will be all about AI](https://www.theverge.com/2024/6/5/24172126/nothing-phone-3-ai-demos)
- - [Deals: Apple&#39;s M3 MacBook Air with 24GB RAM, 1TB SSD drops to $1,749](https://appleinsider.com/articles/24/06/05/deals-apples-m3-macbook-air-with-24gb-ram-1tb-ssd-drops-to-1749?utm_medium=rss)<!-- TECH:END -->
+ - [Nothing’s next phone will be all about AI](https://www.theverge.com/2024/6/5/24172126/nothing-phone-3-ai-demos)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

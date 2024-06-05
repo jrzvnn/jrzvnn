@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple has hidden Thread radios in new iPads, MacBooks, and iMacs](https://appleinsider.com/articles/24/06/05/apple-has-hidden-thread-radios-in-new-ipads-macbooks-and-imacs?utm_medium=rss)
  - [Today only, you can save $55 on Amazon’s Fire TV Soundbar](https://www.theverge.com/2024/6/5/24171946/amazon-fire-tv-soundbar-turtle-beach-stealth-700-gen-2-max-deal-sale)
  - [UN secretary-general labels humanity as ‘the meteor’ in fiery climate speech](https://www.theverge.com/2024/6/5/24171972/united-nations-climate-change-speech-secretary-general-extreme-weather-record-heat)
  - [App Store just had its best quarter in four years, is crushing Google Play in spending](https://appleinsider.com/articles/24/06/05/app-store-just-had-its-best-quarter-in-four-years-is-crushing-google-play-in-spending?utm_medium=rss)
- - [The future of Netflix games could look like reality TV](https://www.theverge.com/24171526/netflix-games-too-hot-too-handle-interactive-fiction)
- - [There’s a secret smart home radio in your new Mac](https://www.theverge.com/2024/6/5/24170446/apple-macbook-ipad-imac-thread-radio)<!-- TECH:END -->
+ - [How to Get a Tax Credit or Rebate for a Heat Pump     - CNET](https://www.cnet.com/home/energy-and-utilities/how-to-get-a-tax-credit-or-rebate-for-a-heat-pump/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

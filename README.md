@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I had a dog once, who did the same thing. Miss you buddy...](http://9gag.com/gag/apR0P5B)
- - 😝 [Clever girl](http://9gag.com/gag/aPA48jq)
- - 💣 [Professor invited us for hiking. Only two of us showed up](http://9gag.com/gag/aBy3VwD)
- - 😝 [The moment!](http://9gag.com/gag/aoy0R62)
- - 👉 [I said you have to deal with it!.](http://9gag.com/gag/aNDZVp3)<!-- MEMES:END -->
+ - 😝 [Welp, Kanlaon volcano just erupted, the smoke plume is already 5 km up in the sky, i think this is it bois](http://9gag.com/gag/a0eLXwZ)
+ - 😝 [This is not a election, this is Hunger games irl](http://9gag.com/gag/a0eL0yL)
+ - 💣 [Harry Potter and the Loophole of the Snape](http://9gag.com/gag/a5QP6oE)
+ - 😝 [SHOW ME WHAT U GOT](http://9gag.com/gag/a5QPwby)
+ - 👉 [Hiking accident, two people missing](http://9gag.com/gag/aMVrP5P)<!-- MEMES:END -->
 
 ---
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Stormy servers -- Apple Weather suffered an intermittent outage](https://appleinsider.com/articles/24/06/05/stormy-servers----apple-weather-suffers-an-intermittent-outage?utm_medium=rss)
  - [Home Cooling Costs Expected to Hit 10-Year High This Summer     - CNET](https://www.cnet.com/news/home-cooling-costs-expected-to-hit-10-year-high-this-summer/#ftag=CAD590a51e)
  - [Beware of This New &#39;Get Rich Quick&#39; Scheme on Social Media     - CNET](https://www.cnet.com/personal-finance/banking/beware-of-this-new-get-rich-quick-scheme-on-social-media/#ftag=CAD590a51e)
  - [Apple&#39;s Weather iOS App Was Down, Now Back Up For Some     - CNET](https://www.cnet.com/tech/mobile/apples-weather-ios-app-was-down-now-back-up-for-some/#ftag=CAD590a51e)
- - [NBA Finals 2024: How to Watch Mavericks vs. Celtics Game 1 Thursday Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/nba-finals-2024-how-to-watch-mavericks-vs-celtics-game-1-thursday-without-cable/#ftag=CAD590a51e)
- - [Stop Deleting Your Photos: Check These 2 iOS Settings to Get More iPhone Storage     - CNET](https://www.cnet.com/tech/services-and-software/stop-deleting-your-photos-check-these-two-ios-settings-to-get-more-iphone-storage/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [NBA Finals 2024: How to Watch Mavericks vs. Celtics Game 1 Thursday Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/nba-finals-2024-how-to-watch-mavericks-vs-celtics-game-1-thursday-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -164,9 +164,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Switzerland-based Neural Concept, whose 3D product design software uses deep learning to help cut development times, raised a $27M Series B led by Forestay &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/240604/p49#a240604p49)
  - [How to extract audio from video on Mac with built-in tools](https://appleinsider.com/inside/mac/tips/how-to-extract-audio-from-video-on-mac-with-built-in-tools?utm_medium=rss)
+ - [Best Travel Headphones for 2024     - CNET](https://www.cnet.com/tech/mobile/best-travel-headphones/#ftag=CAD590a51e)
  - [Former OpenAI researcher Leopold Aschenbrenner says he was fired in April for sharing a memo raising concerns about OpenAI&#39;s security practices with the board &lpar;Shakeel Hashim/Transformer&rpar;](http://www.techmeme.com/240604/p48#a240604p48)
- - [Twelve Labs, which provides foundational models to help users search and analyze troves of video, raised a $50M Series A co-led by NEA and Nvidia&#39;s NVentures &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240604/p47#a240604p47)
- - [Best Deals on E-Bikes: Save on RadPower, Juiced, Lectric and More Top-Rated Electric Bikes     - CNET](https://www.cnet.com/roadshow/news/best-e-bike-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints and Answer: Help for June 5, #1082     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-and-answer-help-for-june-5-1082/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

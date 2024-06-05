@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+ - [Wix unveils an AI-powered app builder that creates iOS and Android apps from descriptions provided by users in a chat, coming to its $99/month Branded App plan &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240605/p22#a240605p22)
  - [AirTags used by alleged human smuggler may ultimately provide enough evidence for conviction](https://appleinsider.com/articles/24/06/05/airtags-used-by-alleged-human-smuggler-may-ultimately-provide-enough-evidence-for-conviction?utm_medium=rss)
  - [A new evasive Mac malware strain is stealing crypto](https://appleinsider.com/articles/24/06/05/a-new-evasive-mac-malware-strain-is-stealing-crypto?utm_medium=rss)
- - [Google Maps is making a big privacy change to protect your location history](https://www.theverge.com/2024/6/5/24172204/google-maps-delete-location-history-timeline)
- - [Netflix Games to Add a Slice-of-Life Hobbit Game and More Soon     - CNET](https://www.cnet.com/tech/gaming/netflix-games-to-add-a-slice-of-life-hobbit-game-and-more-soon/#ftag=CAD590a51e)
- - [Best iPhone 15 Deals: Trade-In and Contract Offers Galore     - CNET](https://www.cnet.com/deals/best-iphone-15-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google Maps is making a big privacy change to protect your location history](https://www.theverge.com/2024/6/5/24172204/google-maps-delete-location-history-timeline)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Teacher to kid 1980 scenario](http://9gag.com/gag/a87YeP1)
- - 😝 [Scroll of truth](http://9gag.com/gag/amo0mWV)
+ - 😝 [Thunder catapult](http://9gag.com/gag/aZZxjMV)
+ - 😝 [Remember your training](http://9gag.com/gag/aAyrMVL)
  - 💣 [Every year on the anniversary of D-Day, French citizens take sand from Omaha Beach and rub it onto the gravestones of fallen soldiers to create a golden shine. They do this for all 9,386 American soldiers buried there.](http://9gag.com/gag/axyZO4n)
- - 😝 [Some useful tips for construction workers.](http://9gag.com/gag/aGywAMG)
- - 👉 [Forgot WiFi Password? Useful information\u2026](http://9gag.com/gag/aO8b9Ev)<!-- MEMES:END -->
+ - 😝 [Bro&#39;s Got The Rizz](http://9gag.com/gag/a4PdA51)
+ - 👉 [Bad Boys 4 behind the scenes](http://9gag.com/gag/a2vYywZ)<!-- MEMES:END -->
 
 ---
 

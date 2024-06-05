@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Go to sleep bro!](http://9gag.com/gag/a7oy2Xw)
- - 😝 [To spice up your relationship](http://9gag.com/gag/amo0meX)
- - 💣 [Trying is not torture...](http://9gag.com/gag/aGywAm0)
- - 😝 [A poor young girl being forced to sign a marriage certificate to an older man.](http://9gag.com/gag/a0eLn0q)
- - 👉 [Local dog name Gray saves an unexpected friend. That big smile at the end says it all](http://9gag.com/gag/abAy2bX)<!-- MEMES:END -->
+ - 😝 [Aunt May I?](http://9gag.com/gag/aBy3PMZ)
+ - 😝 [Hiking accident, two people missing](http://9gag.com/gag/aMVrP5P)
+ - 💣 [A poor young girl being forced to sign a marriage certificate to an older man.](http://9gag.com/gag/a0eLn0q)
+ - 😝 [Not stonks](http://9gag.com/gag/axyZ67D)
+ - 👉 [He&#39;s a man of focus &amp; commitment](http://9gag.com/gag/aKGPvmO)<!-- MEMES:END -->
 
 ---
 

@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Where&#39;s John Wick when you need him](http://9gag.com/gag/aXPp4Dz)
+ - 😝 [Pet paw cleaner](http://9gag.com/gag/an7Kvqb)
+ - 💣 [This is not a election, this is Hunger games irl](http://9gag.com/gag/a0eL0yL)
  - 😝 [Professor invited us for hiking. Only two of us showed up](http://9gag.com/gag/aBy3VwD)
- - 😝 [The moment!](http://9gag.com/gag/aoy0R62)
- - 💣 [I had a dog once, who did the same thing. Miss you buddy...](http://9gag.com/gag/apR0P5B)
- - 😝 [Clever girl](http://9gag.com/gag/aPA48jq)
- - 👉 [Irish people patrol the streets in Dublin after several Irish women were abused by invaders](http://9gag.com/gag/aD2386x)<!-- MEMES:END -->
+ - 👉 [Hiking accident, two people missing](http://9gag.com/gag/aMVrP5P)<!-- MEMES:END -->
 
 ---
 

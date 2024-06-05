@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is not a election, this is Hunger games irl](http://9gag.com/gag/a0eL0yL)
- - 😝 [I know I shouldn\u2019t stare but damn](http://9gag.com/gag/aW4WLd2)
- - 💣 [Bad Boys 4 behind the scenes](http://9gag.com/gag/a2vYywZ)
- - 😝 [Parent lets her kids ruin a piano set performance](http://9gag.com/gag/axyZO9K)
- - 👉 [\u201cIf you can\u2019t handle me at my 15 man bukake then you don\u2019t deserve me and my after work kiss.\u201d -Riley Reid probably](http://9gag.com/gag/aGywMOn)<!-- MEMES:END -->
+ - 😝 [I had a dog once, who did the same thing. Miss you buddy...](http://9gag.com/gag/apR0P5B)
+ - 😝 [Clever girl](http://9gag.com/gag/aPA48jq)
+ - 💣 [Professor invited us for hiking. Only two of us showed up](http://9gag.com/gag/aBy3VwD)
+ - 😝 [The moment!](http://9gag.com/gag/aoy0R62)
+ - 👉 [I said you have to deal with it!.](http://9gag.com/gag/aNDZVp3)<!-- MEMES:END -->
 
 ---
 

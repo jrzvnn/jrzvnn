@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Aunt May I?](http://9gag.com/gag/aBy3PMZ)
+ - 😝 [The bearings in Walmart skateboards for kids.](http://9gag.com/gag/aAyr2qL)
  - 😝 [Hiking accident, two people missing](http://9gag.com/gag/aMVrP5P)
- - 💣 [A poor young girl being forced to sign a marriage certificate to an older man.](http://9gag.com/gag/a0eLn0q)
- - 😝 [Not stonks](http://9gag.com/gag/axyZ67D)
- - 👉 [He&#39;s a man of focus &amp; commitment](http://9gag.com/gag/aKGPvmO)<!-- MEMES:END -->
+ - 💣 [He&#39;s a man of focus &amp; commitment](http://9gag.com/gag/aKGPvmO)
+ - 😝 [A poor young girl being forced to sign a marriage certificate to an older man.](http://9gag.com/gag/a0eLn0q)
+ - 👉 [I\u2019m 33 years old and it hurts to know I\u2019m probably never going to experience something like this.](http://9gag.com/gag/aVvWZEy)<!-- MEMES:END -->
 
 ---
 

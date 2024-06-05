@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I know I shouldn\u2019t stare but damn](http://9gag.com/gag/aW4WLd2)
- - 😝 [Aunt May I?](http://9gag.com/gag/aBy3PMZ)
- - 💣 [Hiking accident, two people missing](http://9gag.com/gag/aMVrP5P)
- - 😝 [I am starting a new religion](http://9gag.com/gag/ae90Omq)
- - 👉 [\u201cIf you can\u2019t handle me at my 15 man bukake then you don\u2019t deserve me and my after work kiss.\u201d -Riley Reid probably](http://9gag.com/gag/aGywMOn)<!-- MEMES:END -->
+ - 😝 [I said you have to deal with it!.](http://9gag.com/gag/aNDZVp3)
+ - 😝 [Remember your training](http://9gag.com/gag/aAyrMVL)
+ - 💣 [Every year on the anniversary of D-Day, French citizens take sand from Omaha Beach and rub it onto the gravestones of fallen soldiers to create a golden shine. They do this for all 9,386 American soldiers buried there.](http://9gag.com/gag/axyZO4n)
+ - 😝 [Irish people patrol the streets in Dublin after several Irish women were abused by invaders](http://9gag.com/gag/aD2386x)
+ - 👉 [Bro&#39;s Got The Rizz](http://9gag.com/gag/a4PdA51)<!-- MEMES:END -->
 
 ---
 

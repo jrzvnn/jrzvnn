@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Why the EU’s Vice President Isn’t Worried About Moon-Landing Conspiracies on YouTube](https://www.wired.com/story/eu-vice-president-moon-landing-conspiracies-youtube/)
  - [How Uganda&#39;s government under President Yoweri Museveni has increasingly used the country&#39;s biometric identity system to target opponents and consolidate power &lpar;Olivia Solon/Bloomberg&rpar;](http://www.techmeme.com/240605/p6#a240605p6)
  - [An excerpt from the book Dark Wire, which details how the biggest FBI sting operation ran the An&amp;oslash;m encrypted phone network to catch criminals like &quot;Microsoft&quot; &lpar;Joseph Cox/Wired&rpar;](http://www.techmeme.com/240605/p5#a240605p5)
  - [China Miéville Writes a Secret Novel With the Internet’s Boyfriend &lpar;It&#39;s Keanu Reeves&rpar;](https://www.wired.com/story/china-mieville-writes-a-secret-novel-with-the-internets-boyfriend-keanu-reeves/)
- - [A profile of CoreWeave; the cloud GPU provider plans to spend $2.2B to build three European data centers and repurpose several Core Scientific facilities &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/240605/p4#a240605p4)
- - [YouTube, the only major US platform available in Russia, has become a primary source of entertainment for many Russians, making a ban tricky for the Kremlin &lpar;Justin Ling/Wired&rpar;](http://www.techmeme.com/240605/p3#a240605p3)<!-- TECH:END -->
+ - [A profile of CoreWeave; the cloud GPU provider plans to spend $2.2B to build three European data centers and repurpose several Core Scientific facilities &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/240605/p4#a240605p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

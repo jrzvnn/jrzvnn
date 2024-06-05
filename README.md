@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sixteen Republican lawmakers accuse Nigeria of taking Binance executive Tigran Gambaryan &quot;hostage&quot; and urge Biden to help secure his release in a June 4 letter &lpar;Nduka Orjinmo/Bloomberg&rpar;](http://www.techmeme.com/240605/p16#a240605p16)
- - [Apple promises to finally fix Screen Time bug that lets children visit blocked sites](https://appleinsider.com/articles/24/06/05/apple-promises-to-finally-fix-screen-time-bug-that-lets-children-visit-blocked-sites?utm_medium=rss)
- - [All of the iPhone 16 Pro Max measurements have been leaked](https://appleinsider.com/articles/24/06/05/all-of-the-iphone-16-pro-max-measurements-have-been-leaked?utm_medium=rss)
- - [13 Best Office Chairs &lpar;2024&rpar;: Budget, Luxe, Cushions, Casters, and Mats](https://www.wired.com/gallery/best-office-chairs/)
- - [Apple will allow users to opt in to ChatGPT services in iOS 18 after deal with OpenAI](https://appleinsider.com/articles/24/06/05/apple-will-allow-users-to-opt-in-to-chatgpt-services-in-ios-18-after-deal-with-openai?utm_medium=rss)<!-- TECH:END -->
+ - [Watch Boeing Starliner’s third crewed launch attempt](https://www.theverge.com/2024/6/5/24171939/watch-boeing-starliner-third-crewed-flight-attempt)
+ - [China Miéville Writes a Secret Novel With the Internet’s Boyfriend &lpar;It&#39;s Keanu Reeves&rpar;](https://www.wired.com/story/china-mieville-writes-a-secret-novel-with-the-internets-boyfriend-keanu-reeves/)
+ - [Archer Aviation gets the green light to operate an electric air taxi service](https://www.theverge.com/2024/6/5/24171945/archer-evtol-part-135-certification-faa-midnight)
+ - [Asana’s new ‘AI teammate’ can tell people what to do at work](https://www.theverge.com/2024/6/5/24170480/asana-ai-teammate-workflow-assistant-chatbot)
+ - [What to expect from WWDC 2024&#39;s week of updates](https://appleinsider.com/articles/24/06/05/what-to-expect-from-wwdc-2024s-week-of-updates?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

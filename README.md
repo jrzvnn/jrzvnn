@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft reopens Windows 10 beta testing for ‘new features’ and improvements](https://www.theverge.com/2024/6/5/24171895/microsoft-windows-10-beta-testing-new-features)
+ - [The Age of the Drone Police Is Here](https://www.wired.com/story/the-age-of-the-drone-police-is-here/)
+ - [The Dexcom G7 now lets you monitor real-time blood sugar on the Apple Watch](https://www.theverge.com/2024/6/5/24171481/dexcom-g7-apple-watch-wearables-diabetes-tech)
  - [SAP plans to buy Tel Aviv-based WalkMe, which helps users navigate UIs of other software services, for $1.5B in cash; WalkMe raised $300M ahead of a 2021 IPO &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240605/p8#a240605p8)
- - [Twitch says its Twitch Tier 1 subscriptions in the US will increase from $4.99 to $5.99 per month on July 11, the first price rise for US subscribers &lpar;Will Shanklin/Engadget&rpar;](http://www.techmeme.com/240605/p7#a240605p7)
- - [An American Company Enabled a North Korean Scam That Raised Money for WMDs](https://www.wired.com/story/registered-agents-north-korean-scam-wmds/)
- - [Why the EU’s Vice President Isn’t Worried About Moon-Landing Conspiracies on YouTube](https://www.wired.com/story/eu-vice-president-moon-landing-conspiracies-youtube/)
- - [How Uganda&#39;s government under President Yoweri Museveni has increasingly used the country&#39;s biometric identity system to target opponents and consolidate power &lpar;Olivia Solon/Bloomberg&rpar;](http://www.techmeme.com/240605/p6#a240605p6)<!-- TECH:END -->
+ - [Twitch says its Twitch Tier 1 subscriptions in the US will increase from $4.99 to $5.99 per month on July 11, the first price rise for US subscribers &lpar;Will Shanklin/Engadget&rpar;](http://www.techmeme.com/240605/p7#a240605p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

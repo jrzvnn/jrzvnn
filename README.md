@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Humane tells AI Pin owners that they should &quot;immediately&quot; stop using the charging case, citing issues with a battery cell that &quot;may pose a fire safety risk&quot; &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240605/p27#a240605p27)
+ - [The Last of Us season 2 will be a little bit shorter](https://www.theverge.com/2024/6/5/24172396/the-last-of-us-season-2-episode-count-hbo)
  - [Duolingo deletes LGBTQ+ references in Russia after being warned by the country&#39;s communications regulator that the content is classed as &quot;extremism&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/240605/p26#a240605p26)
  - [Nvidia is now more valuable than Apple at $3.01 trillion](https://www.theverge.com/2024/6/5/24172363/nvidia-apple-market-cap-valuation-trillion-ai)
- - [Humane warns AI Pin owners to ‘immediately’ stop using its charging case](https://www.theverge.com/2024/6/5/24172377/humane-ai-pin-battery-case-issue-warning)
- - [Score Up to 45% Off Fire TV Streaming Devices     - CNET](https://www.cnet.com/deals/score-up-to-45-off-fire-tv-streaming-devices/#ftag=CAD590a51e)
- - [Nvidia hits a $3T market cap and passes Apple as the second most valuable public US company, behind Microsoft &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240605/p25#a240605p25)<!-- TECH:END -->
+ - [Humane warns AI Pin owners to ‘immediately’ stop using its charging case](https://www.theverge.com/2024/6/5/24172377/humane-ai-pin-battery-case-issue-warning)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

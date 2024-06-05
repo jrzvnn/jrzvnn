@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Harry Potter and the Loophole of the Snape](http://9gag.com/gag/a5QP6oE)
  - 😝 [This is not a election, this is Hunger games irl](http://9gag.com/gag/a0eL0yL)
- - 💣 [I know I shouldn\u2019t stare but damn](http://9gag.com/gag/aW4WLd2)
- - 😝 [Bad Boys 4 behind the scenes](http://9gag.com/gag/a2vYywZ)
- - 👉 [Hiking accident, two people missing](http://9gag.com/gag/aMVrP5P)<!-- MEMES:END -->
+ - 😝 [I know I shouldn\u2019t stare but damn](http://9gag.com/gag/aW4WLd2)
+ - 💣 [Bad Boys 4 behind the scenes](http://9gag.com/gag/a2vYywZ)
+ - 😝 [Parent lets her kids ruin a piano set performance](http://9gag.com/gag/axyZO9K)
+ - 👉 [\u201cIf you can\u2019t handle me at my 15 man bukake then you don\u2019t deserve me and my after work kiss.\u201d -Riley Reid probably](http://9gag.com/gag/aGywMOn)<!-- MEMES:END -->
 
 ---
 

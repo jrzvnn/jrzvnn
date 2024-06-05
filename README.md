@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Stormy servers -- Apple Weather suffers an intermittent outage](https://appleinsider.com/articles/24/06/05/stormy-servers----apple-weather-suffers-an-intermittent-outage?utm_medium=rss)
+ - [Coinbase launches its smart wallet, which uses passkeys instead of seed phrases and works without app or extension installs, in a move to simplify onboarding &lpar;Sage D. Young/Unchained&rpar;](http://www.techmeme.com/240605/p23#a240605p23)
  - [T-Mobile is offering its 5G gateway as a backup option for internet outages](https://www.theverge.com/2024/6/5/24172203/t-mobile-5g-home-internet-backup-plan-wifi-outage)
  - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [Wix unveils an AI-powered app builder that creates iOS and Android apps from descriptions provided by users in a chat, coming to its $99/month Branded App plan &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240605/p22#a240605p22)
- - [AirTags used by alleged human smuggler may ultimately provide enough evidence for conviction](https://appleinsider.com/articles/24/06/05/airtags-used-by-alleged-human-smuggler-may-ultimately-provide-enough-evidence-for-conviction?utm_medium=rss)
- - [A new evasive Mac malware strain is stealing crypto](https://appleinsider.com/articles/24/06/05/a-new-evasive-mac-malware-strain-is-stealing-crypto?utm_medium=rss)<!-- TECH:END -->
+ - [Wix unveils an AI-powered app builder that creates iOS and Android apps from descriptions provided by users in a chat, coming to its $99/month Branded App plan &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240605/p22#a240605p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

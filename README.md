@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Smart photographer...](http://9gag.com/gag/aGywMyw)
- - 😝 [Pet paw cleaner](http://9gag.com/gag/an7Kvqb)
+ - 😝 [Difference between men and women](http://9gag.com/gag/aD23Z2G)
+ - 😝 [I know I shouldn\u2019t stare but damn](http://9gag.com/gag/aW4WLd2)
  - 💣 [This is not a election, this is Hunger games irl](http://9gag.com/gag/a0eL0yL)
  - 😝 [Bad Boys 4 behind the scenes](http://9gag.com/gag/a2vYywZ)
- - 👉 [He&#39;s a man of focus &amp; commitment](http://9gag.com/gag/aKGPvmO)<!-- MEMES:END -->
+ - 👉 [Professor invited us for hiking. Only two of us showed up](http://9gag.com/gag/aBy3VwD)<!-- MEMES:END -->
 
 ---
 

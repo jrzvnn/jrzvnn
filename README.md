@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US accuses alleged Russian smuggling network member of using AirTags to stalk his ex-wife](https://www.theverge.com/2024/6/5/24172169/russian-smuggling-network-airtag-stalking)
  - [Falling US demand means an imminent international rollout for Apple Vision Pro](https://appleinsider.com/articles/24/06/05/falling-us-demand-means-a-faster-international-rollout-for-apple-vision-pro?utm_medium=rss)
  - [Apple is fixing a years-old parental control bug that lets kids avoid web filters](https://www.theverge.com/2024/6/5/24172008/apple-fixing-screen-time-bug-x-rated-sites-parental-controls)
  - [Google is acquiring software virtualization company Cameyo to deeply integrate virtualized Windows app support into ChromeOS, following a partnership last year &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240605/p20#a240605p20)
- - [iPad Air &lpar;2024&rpar; review: Not the cheapest, and not the best, but still great](https://appleinsider.com/articles/24/06/05/ipad-air-2024-review-not-the-cheapest-and-not-the-best-but-still-great?utm_medium=rss)
- - [Nothing’s next phone will be all about AI](https://www.theverge.com/2024/6/5/24172126/nothing-phone-3-ai-demos)<!-- TECH:END -->
+ - [Animatronic Grogu     - CNET](https://www.cnet.com/culture/entertainment/animatronic-grogu-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

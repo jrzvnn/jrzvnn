@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yeah, sure... it must be the fans](http://9gag.com/gag/aZZxjn0)
- - 😝 [It&#39;s fun for like the first two weeks.](http://9gag.com/gag/a9yL590)
- - 💣 [\u201cIf you can\u2019t handle me at my 15 man bukake then you don\u2019t deserve me and my after work kiss.\u201d -Riley Reid probably](http://9gag.com/gag/aGywMOn)
+ - 😝 [This is not a election, this is Hunger games irl](http://9gag.com/gag/a0eL0yL)
  - 😝 [Aunt May I?](http://9gag.com/gag/aBy3PMZ)
- - 👉 [Professor invited us for hiking. Only two of us showed up](http://9gag.com/gag/aBy3VwD)<!-- MEMES:END -->
+ - 💣 [Difference between men and women](http://9gag.com/gag/aD23Z2G)
+ - 😝 [He&#39;s a man of focus &amp; commitment](http://9gag.com/gag/aKGPvmO)
+ - 👉 [Parent lets her kids ruin a piano set performance](http://9gag.com/gag/axyZO9K)<!-- MEMES:END -->
 
 ---
 

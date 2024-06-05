@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Taiwan and South Korea are using chip know-how, willpower, and supply networks to stay ahead of the US, offering lower costs and faster construction times &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240605/p10#a240605p10)
+ - [Detroit has high hopes of getting its first Apple Store](https://appleinsider.com/articles/24/06/05/detroit-has-high-hopes-of-getting-its-first-apple-store?utm_medium=rss)
+ - [NXP partners with TSMC-backed Vanguard to build a $7.8B chip wafer plant in Singapore, aiming to begin construction in H2 2024 and production in 2027 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240605/p9#a240605p9)
  - [Microsoft reopens Windows 10 beta testing for ‘new features’ and improvements](https://www.theverge.com/2024/6/5/24171895/microsoft-windows-10-beta-testing-new-features)
- - [The Age of the Drone Police Is Here](https://www.wired.com/story/the-age-of-the-drone-police-is-here/)
- - [The Dexcom G7 now lets you monitor real-time blood sugar on the Apple Watch](https://www.theverge.com/2024/6/5/24171481/dexcom-g7-apple-watch-wearables-diabetes-tech)
- - [SAP plans to buy Tel Aviv-based WalkMe, which helps users navigate UIs of other software services, for $1.5B in cash; WalkMe raised $300M ahead of a 2021 IPO &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240605/p8#a240605p8)
- - [Twitch says its Twitch Tier 1 subscriptions in the US will increase from $4.99 to $5.99 per month on July 11, the first price rise for US subscribers &lpar;Will Shanklin/Engadget&rpar;](http://www.techmeme.com/240605/p7#a240605p7)<!-- TECH:END -->
+ - [The Age of the Drone Police Is Here](https://www.wired.com/story/the-age-of-the-drone-police-is-here/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

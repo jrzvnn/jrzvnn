@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How billionaire investors of the internet era are fighting to determine whether AI&#39;s future will be one of concentrated safety, or of unfettered advancement &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/240604/p42#a240604p42)
- - [Netflix Turns Its Back on Older Apple TVs     - CNET](https://www.cnet.com/tech/services-and-software/netflix-turns-its-back-on-older-apple-tvs/#ftag=CAD590a51e)
- - [Zotac Zone official: this handheld has twin trackpads, jog wheels, adjustable triggers and OLED](https://www.theverge.com/2024/6/4/24171675/zotac-zone-specs-handheld-gaming-pc)
- - [Best Beats Headphone Deals: Save Big Bucks on Your Favorite Beats Models     - CNET](https://www.cnet.com/deals/best-beats-headphone-deals/#ftag=CAD590a51e)
- - [Best Teeth-Whitening Strips of 2024     - CNET](https://www.cnet.com/health/personal-care/best-teeth-whitening-strips/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Pika, which offers AI tools to generate and edit videos, raised $80M from Spark, Lightspeed, and others at a $470M valuation, taking its total funding to $135M &lpar;Gerrit De Vynck/Washington Post&rpar;](http://www.techmeme.com/240604/p45#a240604p45)
+ - [Australia&#39;s privacy regulator sues Medibank over an October 2022 data breach, accusing the health insurer of failing to protect the data of 9.7M customers &lpar;Emilia Terzon/ABC&rpar;](http://www.techmeme.com/240604/p44#a240604p44)
+ - [Compare Electricity Rates in Massachusetts     - CNET](https://www.cnet.com/how-to/electricity-rates-massachusetts/#ftag=CAD590a51e)
+ - [Sources: Joe Benarroch, X&#39;s head of business operations and one of Linda Yaccarino&#39;s most trusted advisers, is leaving the company &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240604/p43#a240604p43)
+ - [The AT&amp;T and Verizon outage that cut off phone calls is over](https://www.theverge.com/2024/6/4/24171656/att-verizon-outage-dropped-calls)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

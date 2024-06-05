@@ -163,10 +163,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Lego’s limited-edition Ominous Isle and British train station are imminently going on sale](https://www.theverge.com/2024/6/5/24172437/lego-bricklink-designer-program-series-2-price-date)
+ - [Star Wars Vinyl Wall Decals     - CNET](https://www.cnet.com/news/star-wars-vinyl-wall-decals-dpnl/#ftag=CAD590a51e)
  - [In a UK compliance statement, Apple revealed that the iPhone 15 Pro Max will receive security updates for a minimum of five years from September 2023 &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/240605/p31#a240605p31)
- - [Stability AI releases Stable Audio Open, a text-to-audio model that generates up to 47 seconds of samples and sound effects, prohibited for commercial use &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240605/p30#a240605p30)
- - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
- - [YouTube plans to restrict some content pertaining to the real use of guns from viewers under 18 starting on June 18, a year after a watchdog group report &lpar;Will Shanklin/Engadget&rpar;](http://www.techmeme.com/240605/p29#a240605p29)<!-- TECH:END -->
+ - [Darth Vader Halo Toaster     - CNET](https://www.cnet.com/home/kitchen-and-household/darth-vader-halo-toaster-dpnl/#ftag=CAD590a51e)
+ - [Pair AirPods with PC on Windows 10     - CNET](https://www.cnet.com/pictures/pair-airpods-with-pc-on-windows-10/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

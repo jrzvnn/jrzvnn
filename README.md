@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bartender app&#39;s new owner has burnt years of good-will with a lack of transparency](https://appleinsider.com/articles/24/06/05/bartender-apps-new-owner-has-burnt-years-of-good-will-with-a-lack-of-transparency?utm_medium=rss)
+ - [Apple plans to fix another Screen Time bug that let kids visit X-rated websites; two researchers say they reported the bug to Apple in March and August 2021 &lpar;Joanna Stern/Wall Street Journal&rpar;](http://www.techmeme.com/240605/p13#a240605p13)
+ - [When a Video Game Developer Gets Outed as Abusive, What Happens Next?](https://www.wired.com/story/respec-harassment-gaming/)
  - [How a series of hacks, starting with BlackCat in June 2023, show the challenges facing the UK&#39;s NHS, which employs 1.7M workers and cares for 68M UK residents &lpar;Bloomberg&rpar;](http://www.techmeme.com/240605/p12#a240605p12)
- - [Japanese crypto exchange DMM Bitcoin plans to raise ~$321M to buy back bitcoin and make users whole after an &quot;unauthorized outflow&quot; of 4,503 bitcoin on May 31 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240605/p11#a240605p11)
- - [Google’s AI Overview Search Results Copied My Original Work](https://www.wired.com/story/google-ai-overview-search-results-copied-my-original-work/)
- - [How Taiwan and South Korea are using chip know-how, willpower, and supply networks to stay ahead of the US, offering lower costs and faster construction times &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240605/p10#a240605p10)
- - [Detroit has high hopes of getting its first Apple Store](https://appleinsider.com/articles/24/06/05/detroit-has-high-hopes-of-getting-its-first-apple-store?utm_medium=rss)<!-- TECH:END -->
+ - [Japanese crypto exchange DMM Bitcoin plans to raise ~$321M to buy back bitcoin and make users whole after an &quot;unauthorized outflow&quot; of 4,503 bitcoin on May 31 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240605/p11#a240605p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Anti Cat Table](http://9gag.com/gag/aVvWZBn)
- - 😝 [Forgot WiFi Password? Useful information\u2026](http://9gag.com/gag/aO8b9Ev)
- - 💣 [Every year on the anniversary of D-Day, French citizens take sand from Omaha Beach and rub it onto the gravestones of fallen soldiers to create a golden shine. They do this for all 9,386 American soldiers buried there.](http://9gag.com/gag/axyZO4n)
- - 😝 [Remember your training](http://9gag.com/gag/aAyrMVL)
- - 👉 [Scroll of truth](http://9gag.com/gag/amo0mWV)<!-- MEMES:END -->
+ - 😝 [Professor invited us for hiking. Only two of us showed up](http://9gag.com/gag/aBy3VwD)
+ - 😝 [Aunt May I?](http://9gag.com/gag/aBy3PMZ)
+ - 💣 [I am starting a new religion](http://9gag.com/gag/ae90Omq)
+ - 😝 [Parent lets her kids ruin a piano set performance](http://9gag.com/gag/axyZO9K)
+ - 👉 [Hiking accident, two people missing](http://9gag.com/gag/aMVrP5P)<!-- MEMES:END -->
 
 ---
 

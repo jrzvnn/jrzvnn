@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple will allow users to opt in to ChatGPT services in iOS 18 after deal with OpenAI](https://appleinsider.com/articles/24/06/05/apple-will-allow-users-to-opt-in-to-chatgpt-services-in-ios-18-after-deal-with-openai?utm_medium=rss)
  - [A look at Apple&#39;s OpenAI deal, ahead of WWDC; sources say Apple plans to offer AI features as an opt-in service, and is working on LLM-powered robotic devices &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240605/p14#a240605p14)
  - [Spirit Airlines pays off victim after Apple Watch proves her luggage was stolen](https://appleinsider.com/articles/24/06/05/spirit-airlines-pays-off-victim-after-apple-watch-proves-her-luggage-was-stolen?utm_medium=rss)
  - [Bartender app&#39;s new owner has burnt years of good-will with a lack of transparency](https://appleinsider.com/articles/24/06/05/bartender-apps-new-owner-has-burnt-years-of-good-will-with-a-lack-of-transparency?utm_medium=rss)
- - [Apple plans to fix another Screen Time bug that let kids visit X-rated websites; two researchers say they reported the bug to Apple in March and August 2021 &lpar;Joanna Stern/Wall Street Journal&rpar;](http://www.techmeme.com/240605/p13#a240605p13)
- - [When a Video Game Developer Gets Outed as Abusive, What Happens Next?](https://www.wired.com/story/respec-harassment-gaming/)<!-- TECH:END -->
+ - [Apple plans to fix another Screen Time bug that let kids visit X-rated websites; two researchers say they reported the bug to Apple in March and August 2021 &lpar;Joanna Stern/Wall Street Journal&rpar;](http://www.techmeme.com/240605/p13#a240605p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

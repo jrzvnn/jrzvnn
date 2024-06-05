@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u201cIf you can\u2019t handle me at my 15 man bukake then you don\u2019t deserve me and my after work kiss.\u201d -Riley Reid probably](http://9gag.com/gag/aGywMOn)
- - 😝 [Hiking accident, two people missing](http://9gag.com/gag/aMVrP5P)
- - 💣 [He&#39;s a man of focus &amp; commitment](http://9gag.com/gag/aKGPvmO)
  - 😝 [Aunt May I?](http://9gag.com/gag/aBy3PMZ)
- - 👉 [Parent lets her kids ruin a piano set performance](http://9gag.com/gag/axyZO9K)<!-- MEMES:END -->
+ - 😝 [F*cking legend](http://9gag.com/gag/a9yL2Vm)
+ - 💣 [Parent lets her kids ruin a piano set performance](http://9gag.com/gag/axyZO9K)
+ - 😝 [I know I shouldn\u2019t stare but damn](http://9gag.com/gag/aW4WLd2)
+ - 👉 [Hiking accident, two people missing](http://9gag.com/gag/aMVrP5P)<!-- MEMES:END -->
 
 ---
 

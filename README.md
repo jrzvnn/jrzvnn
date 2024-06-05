@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Aunt May I?](http://9gag.com/gag/aBy3PMZ)
- - 😝 [F*cking legend](http://9gag.com/gag/a9yL2Vm)
- - 💣 [Parent lets her kids ruin a piano set performance](http://9gag.com/gag/axyZO9K)
+ - 😝 [It&#39;s fun for like the first two weeks.](http://9gag.com/gag/a9yL590)
  - 😝 [I know I shouldn\u2019t stare but damn](http://9gag.com/gag/aW4WLd2)
- - 👉 [Hiking accident, two people missing](http://9gag.com/gag/aMVrP5P)<!-- MEMES:END -->
+ - 💣 [Hiking accident, two people missing](http://9gag.com/gag/aMVrP5P)
+ - 😝 [Aunt May I?](http://9gag.com/gag/aBy3PMZ)
+ - 👉 [F*cking legend](http://9gag.com/gag/a9yL2Vm)<!-- MEMES:END -->
 
 ---
 

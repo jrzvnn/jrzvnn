@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hell yeahhh](http://9gag.com/gag/aKGPWEg)
- - 😝 [Professor invited us for hiking. Only two of us showed up](http://9gag.com/gag/aBy3VwD)
- - 💣 [SHOW ME WHAT U GOT](http://9gag.com/gag/a5QPwby)
- - 😝 [\u201cIf you can\u2019t handle me at my 15 man bukake then you don\u2019t deserve me and my after work kiss.\u201d -Riley Reid probably](http://9gag.com/gag/aGywMOn)
- - 👉 [Pet paw cleaner](http://9gag.com/gag/an7Kvqb)<!-- MEMES:END -->
+ - 😝 [Smart photographer...](http://9gag.com/gag/aGywMyw)
+ - 😝 [Pet paw cleaner](http://9gag.com/gag/an7Kvqb)
+ - 💣 [This is not a election, this is Hunger games irl](http://9gag.com/gag/a0eL0yL)
+ - 😝 [Bad Boys 4 behind the scenes](http://9gag.com/gag/a2vYywZ)
+ - 👉 [He&#39;s a man of focus &amp; commitment](http://9gag.com/gag/aKGPvmO)<!-- MEMES:END -->
 
 ---
 

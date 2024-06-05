@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AirTags used by alleged human smuggler may ultimately provide enough evidence for conviction](https://appleinsider.com/articles/24/06/05/airtags-used-by-alleged-human-smuggler-may-ultimately-provide-enough-evidence-for-conviction?utm_medium=rss)
  - [A new evasive Mac malware strain is stealing crypto](https://appleinsider.com/articles/24/06/05/a-new-evasive-mac-malware-strain-is-stealing-crypto?utm_medium=rss)
  - [Google Maps is making a big privacy change to protect your location history](https://www.theverge.com/2024/6/5/24172204/google-maps-delete-location-history-timeline)
  - [Netflix Games to Add a Slice-of-Life Hobbit Game and More Soon     - CNET](https://www.cnet.com/tech/gaming/netflix-games-to-add-a-slice-of-life-hobbit-game-and-more-soon/#ftag=CAD590a51e)
- - [Best iPhone 15 Deals: Trade-In and Contract Offers Galore     - CNET](https://www.cnet.com/deals/best-iphone-15-deals/#ftag=CAD590a51e)
- - [M^0, a decentralized stablecoin minting protocol, raised a $35M Series A led by Bain Capital Crypto; the round was structured as equity plus tokens &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/240605/p21#a240605p21)<!-- TECH:END -->
+ - [Best iPhone 15 Deals: Trade-In and Contract Offers Galore     - CNET](https://www.cnet.com/deals/best-iphone-15-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple regains $3 trillion valuation, creeps up on Microsoft](https://appleinsider.com/articles/24/06/05/apple-regains-3-trillion-valuation-creeps-up-on-microsoft?utm_medium=rss)
+ - [2024 Ford Mustang Mach-E Rally First Drive: Price, Specs, Availability](https://www.wired.com/story/first-drive-2024-ford-mustang-mach-e-rally/)
  - [The UK&#39;s Competition Appeal Tribunal rules that a class action lawsuit against Google over allegations of abusing its dominance in digital ads can proceed &lpar;Upmanyu Trivedi/Bloomberg&rpar;](http://www.techmeme.com/240605/p18#a240605p18)
  - [Tobiko, which offers a dbt-compatible data transformation service to help teams manage data, raised a $4.5M seed and $17.3M Series A led by Theory Ventures &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240605/p17#a240605p17)
- - [Watch Boeing Starliner’s third crewed launch attempt](https://www.theverge.com/2024/6/5/24171939/watch-boeing-starliner-third-crewed-flight-attempt)
- - [China Miéville Writes a Secret Novel With the Internet’s Boyfriend &lpar;It’s Keanu Reeves&rpar;](https://www.wired.com/story/china-mieville-writes-a-secret-novel-with-the-internets-boyfriend-keanu-reeves/)
- - [Archer Aviation gets the green light to operate an electric air taxi service](https://www.theverge.com/2024/6/5/24171945/archer-evtol-part-135-certification-faa-midnight)<!-- TECH:END -->
+ - [Watch Boeing Starliner’s third crewed launch attempt](https://www.theverge.com/2024/6/5/24171939/watch-boeing-starliner-third-crewed-flight-attempt)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

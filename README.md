@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twelve Labs, which provides foundational models to help users search and analyze troves of video, raised a $50M Series A co-led by NEA and Nvidia&#39;s NVentures &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240604/p47#a240604p47)
  - [Sources: some Chinese AI chip companies, including MetaX and Enflame, are submitting less powerful GPU designs to TSMC to comply with US sanctions &lpar;Fanny Potkin/Reuters&rpar;](http://www.techmeme.com/240604/p46#a240604p46)
  - [Best Extra-Firm Mattress of 2024     - CNET](https://www.cnet.com/health/sleep/best-extra-firm-mattress/#ftag=CAD590a51e)
  - [Best Twin Mattress for 2024     - CNET](https://www.cnet.com/health/sleep/best-twin-mattress/#ftag=CAD590a51e)
- - [Pika, which offers AI tools to generate and edit videos, raised $80M from Spark, Lightspeed, and others at a $470M valuation, taking its total funding to $135M &lpar;Gerrit De Vynck/Washington Post&rpar;](http://www.techmeme.com/240604/p45#a240604p45)
- - [Roast Chicken, Salmon and More Foods I&#39;ll Only Make in the Air Fryer     - CNET](https://www.cnet.com/how-to/roast-chicken-salmon-and-more-foods-ill-only-make-in-the-air-fryer-from-now-on/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Pika, which offers AI tools to generate and edit videos, raised $80M from Spark, Lightspeed, and others at a $470M valuation, taking its total funding to $135M &lpar;Gerrit De Vynck/Washington Post&rpar;](http://www.techmeme.com/240604/p45#a240604p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

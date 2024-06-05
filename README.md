@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [T-Mobile is offering its 5G gateway as a backup option for internet outages](https://www.theverge.com/2024/6/5/24172203/t-mobile-5g-home-internet-backup-plan-wifi-outage)
  - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [Wix unveils an AI-powered app builder that creates iOS and Android apps from descriptions provided by users in a chat, coming to its $99/month Branded App plan &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240605/p22#a240605p22)
- - [AirTags used by alleged human smuggler may ultimately provide enough evidence for conviction](https://appleinsider.com/articles/24/06/05/airtags-used-by-alleged-human-smuggler-may-ultimately-provide-enough-evidence-for-conviction?utm_medium=rss)
- - [A new evasive Mac malware strain is stealing crypto](https://appleinsider.com/articles/24/06/05/a-new-evasive-mac-malware-strain-is-stealing-crypto?utm_medium=rss)
- - [Google Maps is making a big privacy change to protect your location history](https://www.theverge.com/2024/6/5/24172204/google-maps-delete-location-history-timeline)<!-- TECH:END -->
+ - [Today Only: Score an Open-Box Amazon Fire TV Soundbar 2.0 for Only $65 at Woot     - CNET](https://www.cnet.com/deals/today-only-score-an-open-box-amazon-fire-tv-soundbar-2-0-for-only-65-at-woot/#ftag=CAD590a51e)
+ - [Best T-Mobile Plans: How to Choose and Which Ones to Pick in June 2024     - CNET](https://www.cnet.com/tech/mobile/best-t-mobile-plans/#ftag=CAD590a51e)
+ - [Wix unveils an AI-powered app builder that creates iOS and Android apps from descriptions provided by users in a chat, coming to its $99/month Branded App plan &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240605/p22#a240605p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

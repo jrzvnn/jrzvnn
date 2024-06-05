@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix Games to Add a Slice-of-Life Hobbit Game and More Soon     - CNET](https://www.cnet.com/tech/gaming/netflix-games-to-add-a-slice-of-life-hobbit-game-and-more-soon/#ftag=CAD590a51e)
+ - [Best iPhone 15 Deals: Trade-In and Contract Offers Galore     - CNET](https://www.cnet.com/deals/best-iphone-15-deals/#ftag=CAD590a51e)
  - [M^0, a decentralized stablecoin minting protocol, raised a $35M Series A led by Bain Capital Crypto; the round was structured as equity plus tokens &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/240605/p21#a240605p21)
  - [US accuses alleged Russian smuggling network member of using AirTags to stalk his ex-wife](https://www.theverge.com/2024/6/5/24172169/russian-smuggling-network-airtag-stalking)
- - [Falling US demand means an imminent international rollout for Apple Vision Pro](https://appleinsider.com/articles/24/06/05/falling-us-demand-means-a-faster-international-rollout-for-apple-vision-pro?utm_medium=rss)
- - [Apple is fixing a years-old parental control bug that lets kids avoid web filters](https://www.theverge.com/2024/6/5/24172008/apple-fixing-screen-time-bug-x-rated-sites-parental-controls)
- - [Google is acquiring software virtualization company Cameyo to deeply integrate virtualized Windows app support into ChromeOS, following a partnership last year &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240605/p20#a240605p20)<!-- TECH:END -->
+ - [Falling US demand means an imminent international rollout for Apple Vision Pro](https://appleinsider.com/articles/24/06/05/falling-us-demand-means-a-faster-international-rollout-for-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

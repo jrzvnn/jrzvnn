@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Japanese crypto exchange DMM Bitcoin plans to raise ~$321M to buy back bitcoin and make users whole after an &quot;unauthorized outflow&quot; of 4,503 bitcoin on May 31 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240605/p11#a240605p11)
+ - [Google’s AI Overview Search Results Copied My Original Work](https://www.wired.com/story/google-ai-overview-search-results-copied-my-original-work/)
  - [How Taiwan and South Korea are using chip know-how, willpower, and supply networks to stay ahead of the US, offering lower costs and faster construction times &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240605/p10#a240605p10)
  - [Detroit has high hopes of getting its first Apple Store](https://appleinsider.com/articles/24/06/05/detroit-has-high-hopes-of-getting-its-first-apple-store?utm_medium=rss)
- - [NXP partners with TSMC-backed Vanguard to build a $7.8B chip wafer plant in Singapore, aiming to begin construction in H2 2024 and production in 2027 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240605/p9#a240605p9)
- - [Microsoft reopens Windows 10 beta testing for ‘new features’ and improvements](https://www.theverge.com/2024/6/5/24171895/microsoft-windows-10-beta-testing-new-features)
- - [The Age of the Drone Police Is Here](https://www.wired.com/story/the-age-of-the-drone-police-is-here/)<!-- TECH:END -->
+ - [NXP partners with TSMC-backed Vanguard to build a $7.8B chip wafer plant in Singapore, aiming to begin construction in H2 2024 and production in 2027 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240605/p9#a240605p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

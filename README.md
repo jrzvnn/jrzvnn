@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple has hidden Thread radios in new iPads, MacBooks, and iMacs](https://appleinsider.com/articles/24/06/05/apple-has-hidden-thread-radios-in-new-ipads-macbooks-and-imacs?utm_medium=rss)
- - [Today only, you can save $55 on Amazon’s Fire TV Soundbar](https://www.theverge.com/2024/6/5/24171946/amazon-fire-tv-soundbar-turtle-beach-stealth-700-gen-2-max-deal-sale)
- - [UN secretary-general labels humanity as ‘the meteor’ in fiery climate speech](https://www.theverge.com/2024/6/5/24171972/united-nations-climate-change-speech-secretary-general-extreme-weather-record-heat)
- - [App Store just had its best quarter in four years, is crushing Google Play in spending](https://appleinsider.com/articles/24/06/05/app-store-just-had-its-best-quarter-in-four-years-is-crushing-google-play-in-spending?utm_medium=rss)
- - [How to Get a Tax Credit or Rebate for a Heat Pump     - CNET](https://www.cnet.com/home/energy-and-utilities/how-to-get-a-tax-credit-or-rebate-for-a-heat-pump/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Israel reportedly used fake social media accounts to influence US lawmakers](https://www.theverge.com/2024/6/5/24172002/israel-gaza-war-covert-influence-camapaign-meta-openai)
+ - [Bartender app&#39;s new owner has burnt years of good-will with a lack of transparency](https://appleinsider.com/articles/24/06/05/bartender-apps-new-owner-has-burnt-years-of-good-will-with-a-lack-of-transparency?utm_medium=rss)
+ - [Google acquires Cameyo to integrate Windows app virtualization into ChromeOS](https://www.theverge.com/2024/6/5/24171900/google-cameyo-acquisition-chromeos-windows-app-virtualization)
+ - [Third time’s the charm — Boeing’s Starliner crewed flight test has finally launched](https://www.theverge.com/2024/6/5/24172080/boeing-starliner-crewed-flight-test-launch-success)
+ - [Apple has hidden Thread radios in new iPads, MacBooks, and iMacs](https://appleinsider.com/articles/24/06/05/apple-has-hidden-thread-radios-in-new-ipads-macbooks-and-imacs?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Duolingo deletes LGBTQ+ references in Russia after being warned by the country&#39;s communications regulator that the content is classed as &quot;extremism&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/240605/p26#a240605p26)
+ - [Nvidia is now more valuable than Apple at $3.01 trillion](https://www.theverge.com/2024/6/5/24172363/nvidia-apple-market-cap-valuation-trillion-ai)
  - [Humane warns AI Pin owners to ‘immediately’ stop using its charging case](https://www.theverge.com/2024/6/5/24172377/humane-ai-pin-battery-case-issue-warning)
- - [Nvidia hits a $3T market cap and passes Apple as the second most valuable public US company, behind Microsoft &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240605/p25#a240605p25)
- - [Google Sheets’ new ‘conditional notifications’ easily keep track of small changes](https://www.theverge.com/2024/6/5/24172291/google-sheets-workspace-conditional-notifications-microsoft-excel-airtable)
- - [The Greater Memphis Chamber says xAI plans to develop a new facility in Memphis to house a supercomputer and could receive tax breaks and other incentives &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/240605/p24#a240605p24)
- - [Relax While the Refurb Roomba J7 Plus Cleans Your Floors for Just $290     - CNET](https://www.cnet.com/deals/relax-while-the-refurb-roomba-j7-plus-cleans-your-floors-for-just-290/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Score Up to 45% Off Fire TV Streaming Devices     - CNET](https://www.cnet.com/deals/score-up-to-45-off-fire-tv-streaming-devices/#ftag=CAD590a51e)
+ - [Nvidia hits a $3T market cap and passes Apple as the second most valuable public US company, behind Microsoft &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240605/p25#a240605p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

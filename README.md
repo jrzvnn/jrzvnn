@@ -164,7 +164,7 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [An excerpt from the book Dark Wire, which details how the biggest FBI sting operation ran the An&amp;oslash;m encrypted phone network to catch criminals like &quot;Microsoft&quot; &lpar;Joseph Cox/Wired&rpar;](http://www.techmeme.com/240605/p5#a240605p5)
  - [China Miéville Writes a Secret Novel With the Internet’s Boyfriend &lpar;It&#39;s Keanu Reeves&rpar;](https://www.wired.com/story/china-mieville-writes-a-secret-novel-with-the-internets-boyfriend-keanu-reeves/)
- - [A profile of CoreWeave, as the cloud GPU provider reveals plans to build three European data centers for $2.2B and repurpose several Core Scientific facilities &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/240605/p4#a240605p4)
+ - [A profile of CoreWeave; the cloud GPU provider plans to spend $2.2B to build three European data centers and repurpose several Core Scientific facilities &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/240605/p4#a240605p4)
  - [YouTube, the only major US platform available in Russia, has become a primary source of entertainment for many Russians, making a ban tricky for the Kremlin &lpar;Justin Ling/Wired&rpar;](http://www.techmeme.com/240605/p3#a240605p3)
  - [Australia&#39;s eSafety commissioner ends the legal action asking X to remove a video of a clergyman&#39;s stabbing; Musk labelled the action an assault on free speech &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/240605/p2#a240605p2)<!-- TECH:END -->
 

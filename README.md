@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How billionaire investors of the internet era are fighting to determine whether AI&#39;s future will be one of concentrated safety, or of unfettered advancement &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/240604/p42#a240604p42)
  - [Netflix Turns Its Back on Older Apple TVs     - CNET](https://www.cnet.com/tech/services-and-software/netflix-turns-its-back-on-older-apple-tvs/#ftag=CAD590a51e)
  - [Zotac Zone official: this handheld has twin trackpads, jog wheels, adjustable triggers and OLED](https://www.theverge.com/2024/6/4/24171675/zotac-zone-specs-handheld-gaming-pc)
  - [Best Beats Headphone Deals: Save Big Bucks on Your Favorite Beats Models     - CNET](https://www.cnet.com/deals/best-beats-headphone-deals/#ftag=CAD590a51e)
- - [Best Teeth-Whitening Strips of 2024     - CNET](https://www.cnet.com/health/personal-care/best-teeth-whitening-strips/#ftag=CAD590a51e)
- - [Apple will give up to $200 for Apple Card Family sign ups](https://appleinsider.com/articles/24/06/04/apple-will-give-up-to-200-for-apple-card-family-sign-ups?utm_medium=rss)<!-- TECH:END -->
+ - [Best Teeth-Whitening Strips of 2024     - CNET](https://www.cnet.com/health/personal-care/best-teeth-whitening-strips/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

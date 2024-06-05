@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Stability AI releases Stable Audio Open, a text-to-audio model that generates up to 47 seconds of samples and sound effects, prohibited for commercial use &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240605/p30#a240605p30)
  - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
  - [YouTube plans to restrict some content pertaining to the real use of guns from viewers under 18 starting on June 18, a year after a watchdog group report &lpar;Will Shanklin/Engadget&rpar;](http://www.techmeme.com/240605/p29#a240605p29)
  - [Microsoft&#39;s AI Recall Gets Backlash From Security Experts     - CNET](https://www.cnet.com/tech/services-and-software/microsofts-ai-recall-gets-backlash-from-security-experts/#ftag=CAD590a51e)
- - [Best Xbox Cloud Gaming Controllers and Accessories in 2024     - CNET](https://www.cnet.com/tech/mobile/best-controllers-and-accessories-for-xbox-cloud-gaming/#ftag=CAD590a51e)
- - [Marc Andreessen Once Called Online Safety Teams an Enemy. He Still Wants Walled Gardens for Kids](https://www.wired.com/story/marc-andreessen-online-safety-enemy-walled-gardens/)<!-- TECH:END -->
+ - [Best Xbox Cloud Gaming Controllers and Accessories in 2024     - CNET](https://www.cnet.com/tech/mobile/best-controllers-and-accessories-for-xbox-cloud-gaming/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

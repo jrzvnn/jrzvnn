@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPad Air &lpar;2024&rpar; review: Not the cheapest, and not the best, but still great](https://appleinsider.com/articles/24/06/05/ipad-air-2024-review-not-the-cheapest-and-not-the-best-but-still-great?utm_medium=rss)
+ - [Nothing’s next phone will be all about AI](https://www.theverge.com/2024/6/5/24172126/nothing-phone-3-ai-demos)
+ - [Deals: Apple&#39;s M3 MacBook Air with 24GB RAM, 1TB SSD drops to $1,749](https://appleinsider.com/articles/24/06/05/deals-apples-m3-macbook-air-with-24gb-ram-1tb-ssd-drops-to-1749?utm_medium=rss)
  - [Israel reportedly used fake social media accounts to influence US lawmakers](https://www.theverge.com/2024/6/5/24172002/israel-gaza-war-covert-influence-camapaign-meta-openai)
- - [Bartender app&#39;s new owner has burnt years of good-will with a lack of transparency](https://appleinsider.com/articles/24/06/05/bartender-apps-new-owner-has-burnt-years-of-good-will-with-a-lack-of-transparency?utm_medium=rss)
- - [Google acquires Cameyo to integrate Windows app virtualization into ChromeOS](https://www.theverge.com/2024/6/5/24171900/google-cameyo-acquisition-chromeos-windows-app-virtualization)
- - [Third time’s the charm — Boeing’s Starliner crewed flight test has finally launched](https://www.theverge.com/2024/6/5/24172080/boeing-starliner-crewed-flight-test-launch-success)
- - [Apple has hidden Thread radios in new iPads, MacBooks, and iMacs](https://appleinsider.com/articles/24/06/05/apple-has-hidden-thread-radios-in-new-ipads-macbooks-and-imacs?utm_medium=rss)<!-- TECH:END -->
+ - [Bartender app&#39;s new owner has burnt years of good-will with a lack of transparency](https://appleinsider.com/articles/24/06/05/bartender-apps-new-owner-has-burnt-years-of-good-will-with-a-lack-of-transparency?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

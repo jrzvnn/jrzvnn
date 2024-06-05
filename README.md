@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to stitch with ants](http://9gag.com/gag/azxEPpm)
- - 😝 [Hiking accident, two people missing](http://9gag.com/gag/aMVrP5P)
- - 💣 [This is not a election, this is Hunger games irl](http://9gag.com/gag/a0eL0yL)
- - 😝 [Aunt May I?](http://9gag.com/gag/aBy3PMZ)
- - 👉 [\u201cIf you can\u2019t handle me at my 15 man bukake then you don\u2019t deserve me and my after work kiss.\u201d -Riley Reid probably](http://9gag.com/gag/aGywMOn)<!-- MEMES:END -->
+ - 😝 [I said you have to deal with it!.](http://9gag.com/gag/aNDZVp3)
+ - 😝 [Every year on the anniversary of D-Day, French citizens take sand from Omaha Beach and rub it onto the gravestones of fallen soldiers to create a golden shine. They do this for all 9,386 American soldiers buried there.](http://9gag.com/gag/axyZO4n)
+ - 💣 [A bit cringe talk](http://9gag.com/gag/an7KxM0)
+ - 😝 [Irish people patrol the streets in Dublin after several Irish women were abused by invaders](http://9gag.com/gag/aD2386x)
+ - 👉 [Bad Boys 4 behind the scenes](http://9gag.com/gag/a2vYywZ)<!-- MEMES:END -->
 
 ---
 

@@ -171,9 +171,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [F*cking legend](http://9gag.com/gag/a9yL2Vm)
- - 😝 [He&#39;s a man of focus &amp; commitment](http://9gag.com/gag/aKGPvmO)
- - 💣 [Parent lets her kids ruin a piano set performance](http://9gag.com/gag/axyZO9K)
+ - 😝 [The bearings in Walmart skateboards for kids.](http://9gag.com/gag/aAyr2qL)
+ - 😝 [Parent lets her kids ruin a piano set performance](http://9gag.com/gag/axyZO9K)
+ - 💣 [F*cking legend](http://9gag.com/gag/a9yL2Vm)
  - 😝 [Aunt May I?](http://9gag.com/gag/aBy3PMZ)
  - 👉 [Hiking accident, two people missing](http://9gag.com/gag/aMVrP5P)<!-- MEMES:END -->
 

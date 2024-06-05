@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia hits a $3T market cap and passes Apple as the second most valuable public US company, behind Microsoft &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240605/p25#a240605p25)
  - [Google Sheets’ new ‘conditional notifications’ easily keep track of small changes](https://www.theverge.com/2024/6/5/24172291/google-sheets-workspace-conditional-notifications-microsoft-excel-airtable)
  - [The Greater Memphis Chamber says xAI plans to develop a new facility in Memphis to house a supercomputer and could receive tax breaks and other incentives &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/240605/p24#a240605p24)
  - [Hands on: Using the Dexcom G7 continuous glucose meter directly with Apple Watch](https://appleinsider.com/articles/24/06/05/hands-on-using-the-dexcom-g7-continuous-glucose-meter-directly-with-apple-watch?utm_medium=rss)
- - [Stormy servers -- Apple Weather suffers an intermittent outage](https://appleinsider.com/articles/24/06/05/stormy-servers----apple-weather-suffers-an-intermittent-outage?utm_medium=rss)
- - [Boeing’s Starliner Has Finally Launched a NASA Crew Into Space](https://www.wired.com/story/boeing-starliner-launch-spacex-international-space-station/)<!-- TECH:END -->
+ - [Stormy servers -- Apple Weather suffers an intermittent outage](https://appleinsider.com/articles/24/06/05/stormy-servers----apple-weather-suffers-an-intermittent-outage?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

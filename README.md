@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [There’s a secret smart home radio in your new Mac](https://www.theverge.com/2024/6/5/24170446/apple-macbook-ipad-imac-thread-radio)
  - [Asana unveils &quot;AI teammates&quot;, a new feature in beta for select customers to help manage projects and tasks, ahead of general availability later in 2024 &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/240605/p19#a240605p19)
  - [Apple Watch &amp; AirPods still rule the wearables market, despite losing ground](https://appleinsider.com/articles/24/06/05/apple-watch-airpods-still-rule-the-wearables-market-despite-losing-ground?utm_medium=rss)
  - [Apple regains $3 trillion valuation, creeps up on Microsoft](https://appleinsider.com/articles/24/06/05/apple-regains-3-trillion-valuation-creeps-up-on-microsoft?utm_medium=rss)
- - [2024 Ford Mustang Mach-E Rally First Drive: Price, Specs, Availability](https://www.wired.com/story/first-drive-2024-ford-mustang-mach-e-rally/)
- - [The UK&#39;s Competition Appeal Tribunal rules that a class action lawsuit against Google over allegations of abusing its dominance in digital ads can proceed &lpar;Upmanyu Trivedi/Bloomberg&rpar;](http://www.techmeme.com/240605/p18#a240605p18)<!-- TECH:END -->
+ - [2024 Ford Mustang Mach-E Rally First Drive: Price, Specs, Availability](https://www.wired.com/story/first-drive-2024-ford-mustang-mach-e-rally/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

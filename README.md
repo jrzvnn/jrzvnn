@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Welp, Kanlaon volcano just erupted, the smoke plume is already 5 km up in the sky, i think this is it bois](http://9gag.com/gag/a0eLXwZ)
- - 😝 [Bad Boys 4 behind the scenes](http://9gag.com/gag/a2vYywZ)
- - 💣 [This is not a election, this is Hunger games irl](http://9gag.com/gag/a0eL0yL)
- - 😝 [Aunt May I?](http://9gag.com/gag/aBy3PMZ)
- - 👉 [He&#39;s a man of focus &amp; commitment](http://9gag.com/gag/aKGPvmO)<!-- MEMES:END -->
+ - 😝 [The moment!](http://9gag.com/gag/aoy0R62)
+ - 😝 [Clever girl](http://9gag.com/gag/aPA48jq)
+ - 💣 [I had a dog once, who did the same thing. Miss you buddy...](http://9gag.com/gag/apR0P5B)
+ - 😝 [Remember your training](http://9gag.com/gag/aAyrMVL)
+ - 👉 [I said you have to deal with it!.](http://9gag.com/gag/aNDZVp3)<!-- MEMES:END -->
 
 ---
 

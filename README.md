@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to stitch with ants](http://9gag.com/gag/azxEPpm)
- - 😝 [Bro&#39;s Got The Rizz](http://9gag.com/gag/a4PdA51)
- - 💣 [I know I shouldn\u2019t stare but damn](http://9gag.com/gag/aW4WLd2)
- - 😝 [Aunt May I?](http://9gag.com/gag/aBy3PMZ)
- - 👉 [He&#39;s a man of focus &amp; commitment](http://9gag.com/gag/aKGPvmO)<!-- MEMES:END -->
+ - 😝 [SHOW ME WHAT U GOT](http://9gag.com/gag/a5QPwby)
+ - 😝 [Bad Boys 4 behind the scenes](http://9gag.com/gag/a2vYywZ)
+ - 💣 [Aunt May I?](http://9gag.com/gag/aBy3PMZ)
+ - 😝 [Parent lets her kids ruin a piano set performance](http://9gag.com/gag/axyZO9K)
+ - 👉 [Hiking accident, two people missing](http://9gag.com/gag/aMVrP5P)<!-- MEMES:END -->
 
 ---
 

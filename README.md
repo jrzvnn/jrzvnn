@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to extract audio from video on Mac with built-in tools](https://appleinsider.com/inside/mac/tips/how-to-extract-audio-from-video-on-mac-with-built-in-tools?utm_medium=rss)
  - [Former OpenAI researcher Leopold Aschenbrenner says he was fired in April for sharing a memo raising concerns about OpenAI&#39;s security practices with the board &lpar;Shakeel Hashim/Transformer&rpar;](http://www.techmeme.com/240604/p48#a240604p48)
  - [Twelve Labs, which provides foundational models to help users search and analyze troves of video, raised a $50M Series A co-led by NEA and Nvidia&#39;s NVentures &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/240604/p47#a240604p47)
  - [Best Deals on E-Bikes: Save on RadPower, Juiced, Lectric and More Top-Rated Electric Bikes     - CNET](https://www.cnet.com/roadshow/news/best-e-bike-deals/#ftag=CAD590a51e)
- - [Best Solar Panel Installation Companies in Massachusetts     - CNET](https://www.cnet.com/home/energy-and-utilities/massachusetts-solar-panels/#ftag=CAD590a51e)
- - [Sources: some Chinese AI chip companies, including MetaX and Enflame, are submitting less powerful GPU designs to TSMC to comply with US sanctions &lpar;Fanny Potkin/Reuters&rpar;](http://www.techmeme.com/240604/p46#a240604p46)<!-- TECH:END -->
+ - [Best Solar Panel Installation Companies in Massachusetts     - CNET](https://www.cnet.com/home/energy-and-utilities/massachusetts-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

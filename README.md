@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paxos International, a UAE-based affiliate of Paxos, launches Lift Dollar, or USDL, a stablecoin pegged to the US dollar that will pay a ~5% yield to holders &lpar;Ryan Weeks/Bloomberg&rpar;](http://www.techmeme.com/240605/p28#a240605p28)
- - [Samsung’s new MicroLED TVs cost up to $150K for a 114-inch](https://www.theverge.com/2024/6/5/24172262/samsung-microled-tv-89-101-114-inch-2024)
- - [Humane tells Ai Pin owners that they should &quot;immediately&quot; stop using the charging case, citing issues with a battery cell that &quot;may pose a fire safety risk&quot; &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240605/p27#a240605p27)
- - [The Last of Us season 2 will be a little bit shorter](https://www.theverge.com/2024/6/5/24172396/the-last-of-us-season-2-episode-count-hbo)
- - [Duolingo deletes LGBTQ+ references in Russia after being warned by the country&#39;s communications regulator that the content is classed as &quot;extremism&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/240605/p26#a240605p26)<!-- TECH:END -->
+ - [Home Cooling Costs Expected to Hit 10-Year High This Summer     - CNET](https://www.cnet.com/news/home-cooling-costs-expected-to-hit-10-year-high-this-summer/#ftag=CAD590a51e)
+ - [Beware of This New &#39;Get Rich Quick&#39; Scheme on Social Media     - CNET](https://www.cnet.com/personal-finance/banking/beware-of-this-new-get-rich-quick-scheme-on-social-media/#ftag=CAD590a51e)
+ - [Apple&#39;s Weather iOS App Was Down, Now Back Up For Some     - CNET](https://www.cnet.com/tech/mobile/apples-weather-ios-app-was-down-now-back-up-for-some/#ftag=CAD590a51e)
+ - [NBA Finals 2024: How to Watch Mavericks vs. Celtics Game 1 Thursday Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/nba-finals-2024-how-to-watch-mavericks-vs-celtics-game-1-thursday-without-cable/#ftag=CAD590a51e)
+ - [Stop Deleting Your Photos: Check These 2 iOS Settings to Get More iPhone Storage     - CNET](https://www.cnet.com/tech/services-and-software/stop-deleting-your-photos-check-these-two-ios-settings-to-get-more-iphone-storage/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

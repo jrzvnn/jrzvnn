@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bad Boys of Bahia, Brazil. They look like....](http://9gag.com/gag/awyKYNr)
- - 😝 [Name the product](http://9gag.com/gag/a2vYb3D)
- - 💣 [\u201cIf you can\u2019t handle me at my 15 man bukake then you don\u2019t deserve me and my after work kiss.\u201d -Riley Reid probably](http://9gag.com/gag/aGywMOn)
- - 😝 [Pet paw cleaner](http://9gag.com/gag/an7Kvqb)
- - 👉 [A poor young girl being forced to sign a marriage certificate to an older man.](http://9gag.com/gag/a0eLn0q)<!-- MEMES:END -->
+ - 😝 [Parent lets her kids ruin a piano set performance](http://9gag.com/gag/axyZO9K)
+ - 😝 [The bearings in Walmart skateboards for kids.](http://9gag.com/gag/aAyr2qL)
+ - 💣 [A poor young girl being forced to sign a marriage certificate to an older man.](http://9gag.com/gag/a0eLn0q)
+ - 😝 [Aunt May I?](http://9gag.com/gag/aBy3PMZ)
+ - 👉 [F*cking legend](http://9gag.com/gag/a9yL2Vm)<!-- MEMES:END -->
 
 ---
 

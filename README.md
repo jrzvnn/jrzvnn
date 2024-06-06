@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [eBay will no longer accept American Express cards over ‘unacceptably high’ fees](https://www.theverge.com/2024/6/6/24173108/ebay-american-express-payment-fees)
+ - [Sources: Kraken seeks to raise $100M+ in a pre-IPO round; the crypto exchange&#39;s previous attempts to go public were thwarted in part by a dispute with the SEC &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/240606/p37#a240606p37)
+ - [The Case for MDMA&#39;s Approval Is Riddled With Problems](https://www.wired.com/story/mdma-approval-problems-fda-lykos-psychedelic-therapy-mental-health-ptsd/)
  - [Former Autonomy CEO Mike Lynch Cleared in US Fraud Trial](https://www.wired.com/story/former-autonomy-ceo-mike-lynch-cleared-in-us-fraud-trial/)
- - [Adobe faces a backlash over its terms of service that say Adobe may access user content via &quot;automated and manual methods&quot; to improve its services and software &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240606/p36#a240606p36)
- - [The Snowflake Attack May Be Turning Into One of the Largest Data Breaches Ever](https://www.wired.com/story/snowflake-breach-advanced-auto-parts-lendingtree/)
- - [Sounds like Intel’s and AMD’s Copilot Plus PCs won’t have Copilot AI features at launch](https://www.theverge.com/2024/6/6/24173080/intel-amd-nvidia-copilot-plus-pc-ai-exclusivity-qualcomm-2024)
- - [A US federal court finds Mike Lynch not guilty of criminal charges that he duped HP into buying Autonomy for $11B in 2011; he lost a UK civil trial in 2022 &lpar;Rachel Graf/Bloomberg&rpar;](http://www.techmeme.com/240606/p35#a240606p35)<!-- TECH:END -->
+ - [Adobe faces a backlash over its terms of service that say Adobe may access user content via &quot;automated and manual methods&quot; to improve its services and software &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240606/p36#a240606p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

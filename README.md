@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is 100% how dating a latina looks like](http://9gag.com/gag/a343b08)
- - 😝 [Difference between men and women](http://9gag.com/gag/aD23Z2G)
- - 💣 [F*cking legend](http://9gag.com/gag/a9yL2Vm)
+ - 😝 [The bearings in Walmart skateboards for kids.](http://9gag.com/gag/aAyr2qL)
  - 😝 [Parent lets her kids ruin a piano set performance](http://9gag.com/gag/axyZO9K)
- - 👉 [A devoted \u271d\ufe0f police officer unlived, and the state invited Muslim imams to pray at the officer\u2019s memorial and recite the Quran. Humiliation at its finest.](http://9gag.com/gag/aGywABZ)<!-- MEMES:END -->
+ - 💣 [Aunt May I?](http://9gag.com/gag/aBy3PMZ)
+ - 😝 [F*cking legend](http://9gag.com/gag/a9yL2Vm)
+ - 👉 [Oh yes the classic society](http://9gag.com/gag/a9yLOpZ)<!-- MEMES:END -->
 
 ---
 

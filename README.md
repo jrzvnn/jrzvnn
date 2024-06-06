@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mistral introduces AI model customization options, including an SDK for fine-tuning its models on workstations, servers, and small data center nodes &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240605/p38#a240605p38)
  - [Sources detail how Apple fell behind in the AI race due to its AI team struggling to collaborate with other product teams, lacking computing resources, and more &lpar;Aaron Tilley/Wall Street Journal&rpar;](http://www.techmeme.com/240605/p37#a240605p37)
  - [How to optimize your MacBook battery life](https://appleinsider.com/inside/macbook-pro/tips/how-to-optimize-your-macbook-battery-life?utm_medium=rss)
  - [Google will store Maps Timeline data locally on users&#39; devices instead of their Google account starting December 1, after announcing the change in December 2023 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240605/p36#a240605p36)
- - [Brazil-based Kanastra, which supplies back-office technology for asset-backed securities funds, raised a $21M Series A led by Kaszek, following a $13M seed &lpar;Daniel Cancel/Bloomberg&rpar;](http://www.techmeme.com/240605/p35#a240605p35)
- - [Heybike Hero review: sparing almost no expense in a carbon fiber e-bike](https://appleinsider.com/articles/24/06/06/heybike-hero-review-sparing-almost-no-expense-in-a-carbon-fiber-e-bike?utm_medium=rss)<!-- TECH:END -->
+ - [Brazil-based Kanastra, which supplies back-office technology for asset-backed securities funds, raised a $21M Series A led by Kaszek, following a $13M seed &lpar;Daniel Cancel/Bloomberg&rpar;](http://www.techmeme.com/240605/p35#a240605p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

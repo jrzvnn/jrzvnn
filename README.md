@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [All of the active antitrust cases Apple is fighting around the world](https://appleinsider.com/articles/24/06/06/all-of-the-active-antitrust-cases-apple-is-fighting-around-the-world?utm_medium=rss)
- - [Sources: ByteDance has been renting Nvidia&#39;s GPUs from Oracle to bypass US sanctions; China Telecom and other Chinese companies are using the same loophole &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/240606/p24#a240606p24)
- - [Here’s our in-depth Sonos Ace video review](https://www.theverge.com/24172762/sonos-ace-headphones-video-review)
- - [Why the video game industry is such a mess](https://www.theverge.com/24172733/summer-game-fest-video-game-announcements-layoffs-labor-live-service-fortnite)
- - [The Rogue Prince of Persia artfully changes up the roguelike format](https://www.theverge.com/2024/6/6/24172102/the-rogue-prince-of-persia-steam-early-access-impression)<!-- TECH:END -->
+ - [Apple needs an AI-powered folding iPhone to stem its decline in China, says Kuo](https://appleinsider.com/articles/24/06/06/apple-needs-an-ai-iphone-fold-to-stem-its-increasing-decline-in-china?utm_medium=rss)
+ - [Fractal is making another gaming PC case with a wood panel](https://www.theverge.com/2024/6/6/24172263/desktop-gaming-pc-case-fractal-new-chair-headset-computex-2024)
+ - [Adobe&#39;s new terms of service unacceptably gives them access to all of your projects, for free](https://appleinsider.com/articles/24/06/06/adobes-new-terms-of-service-unacceptably-gives-them-access-to-all-of-your-projects-for-free?utm_medium=rss)
+ - [A look at Eric Schmidt&#39;s White Stork, which sources say is poaching employees from Apple, SpaceX, Google, and more to build AI-enabled military drones &lpar;Forbes&rpar;](http://www.techmeme.com/240606/p25#a240606p25)
+ - [Discord is making it easier for app developers to make money](https://www.theverge.com/2024/6/6/24172836/discord-monetization-updates-subscriptions-developers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

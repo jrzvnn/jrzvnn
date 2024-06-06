@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Brazil-based Kanastra, which supplies back-office technology for asset-backed securities funds, raised a $21M Series A led by Kaszek, following a $13M seed &lpar;Daniel Cancel/Bloomberg&rpar;](http://www.techmeme.com/240605/p35#a240605p35)
  - [Heybike Hero review: sparing almost no expense in a carbon fiber e-bike](https://appleinsider.com/articles/24/06/06/heybike-hero-review-sparing-almost-no-expense-in-a-carbon-fiber-e-bike?utm_medium=rss)
  - [Amazon&#39;s robotaxi unit Zoox plans to start testing its autonomous vehicles this summer in Austin and Miami, the company&#39;s fourth and fifth public testing cities &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/240605/p34#a240605p34)
  - [Carl Pei says smartphones will be the main AI form factor of the future, but the UX needs to be redefined, and Phone &lpar;3&rpar; will be Nothing&#39;s first true AI phone &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240605/p33#a240605p33)
- - [Best Continuous Glucose Monitors of 2024     - CNET](https://www.cnet.com/health/medical/best-continuous-glucose-monitors/#ftag=CAD590a51e)
- - [Several hospitals in London face major disruptions after a June 3 ransomware attack on Synnovis, which provides lab services for the UK&#39;s NHS &lpar;Jenny Gross/New York Times&rpar;](http://www.techmeme.com/240605/p32#a240605p32)<!-- TECH:END -->
+ - [Best Continuous Glucose Monitors of 2024     - CNET](https://www.cnet.com/health/medical/best-continuous-glucose-monitors/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

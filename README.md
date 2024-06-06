@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The next Dragon Age is now called The Veilguard](https://www.theverge.com/2024/6/6/24172872/dragon-age-the-veilguard-reveal)
+ - [Discord adds new monetization features for developers and plans to halve the 30% platform fee for the first $1M in cumulative gross sales, from June 6 &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240606/p26#a240606p26)
+ - [SpaceX’s fourth Starship test is the first one to reach splashdown](https://www.theverge.com/2024/6/6/24172689/spacex-starship-fourth-flight-test-launch-success)
  - [Apple needs an AI-powered folding iPhone to stem its decline in China, says Kuo](https://appleinsider.com/articles/24/06/06/apple-needs-an-ai-iphone-fold-to-stem-its-increasing-decline-in-china?utm_medium=rss)
- - [Fractal is making another gaming PC case with a wood panel](https://www.theverge.com/2024/6/6/24172263/desktop-gaming-pc-case-fractal-new-chair-headset-computex-2024)
- - [Adobe&#39;s new terms of service unacceptably gives them access to all of your projects, for free](https://appleinsider.com/articles/24/06/06/adobes-new-terms-of-service-unacceptably-gives-them-access-to-all-of-your-projects-for-free?utm_medium=rss)
- - [A look at Eric Schmidt&#39;s White Stork, which sources say is poaching employees from Apple, SpaceX, Google, and more to build AI-enabled military drones &lpar;Forbes&rpar;](http://www.techmeme.com/240606/p25#a240606p25)
- - [Discord is making it easier for app developers to make money](https://www.theverge.com/2024/6/6/24172836/discord-monetization-updates-subscriptions-developers)<!-- TECH:END -->
+ - [Fractal is making another gaming PC case with a wood panel](https://www.theverge.com/2024/6/6/24172263/desktop-gaming-pc-case-fractal-new-chair-headset-computex-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

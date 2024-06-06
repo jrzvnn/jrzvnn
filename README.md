@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Aunt May I?](http://9gag.com/gag/aBy3PMZ)
- - 😝 [A devoted \u271d\ufe0f police officer unlived, and the state invited Muslim imams to pray at the officer\u2019s memorial and recite the Quran. Humiliation at its finest.](http://9gag.com/gag/aGywABZ)
- - 💣 [F*cking legend](http://9gag.com/gag/a9yL2Vm)
- - 😝 [Try to act surprised and don&#39;t laugh &lpar;too much&rpar;](http://9gag.com/gag/aPA41XV)
- - 👉 [I&#39;m being honest](http://9gag.com/gag/ayN0ROp)<!-- MEMES:END -->
+ - 😝 [This is 100% how dating a latina looks like](http://9gag.com/gag/a343b08)
+ - 😝 [Rage against the Mother](http://9gag.com/gag/a9yLX6D)
+ - 💣 [Based cat.](http://9gag.com/gag/aW4WDOq)
+ - 😝 [Based](http://9gag.com/gag/avygdN5)
+ - 👉 [Is that a frostmourne](http://9gag.com/gag/axyZR8W)<!-- MEMES:END -->
 
 ---
 

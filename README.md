@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just look at them](http://9gag.com/gag/aNDZOe0)
- - 😝 [I\u2019m 33 years old and it hurts to know I\u2019m probably never going to experience something like this.](http://9gag.com/gag/aVvWZEy)
- - 💣 [Gone in 5 minutes](http://9gag.com/gag/aNDZR7v)
- - 😝 [F*cking legend](http://9gag.com/gag/a9yL2Vm)
- - 👉 [The bearings in Walmart skateboards for kids.](http://9gag.com/gag/aAyr2qL)<!-- MEMES:END -->
+ - 😝 [Hypergamy](http://9gag.com/gag/aoy0Lex)
+ - 😝 [A poor young girl being forced to sign a marriage certificate to an older man.](http://9gag.com/gag/a0eLn0q)
+ - 💣 [F*cking legend](http://9gag.com/gag/a9yL2Vm)
+ - 😝 [Oh yes the classic society](http://9gag.com/gag/a9yLOpZ)
+ - 👉 [I&#39;m being honest](http://9gag.com/gag/ayN0ROp)<!-- MEMES:END -->
 
 ---
 

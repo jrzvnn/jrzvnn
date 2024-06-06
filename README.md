@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI releases a research paper by its recently disbanded &quot;superalignment&quot; team on a method for reverse engineering the workings of AI models &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/240606/p32#a240606p32)
- - [Cara, an artist-run, anti-AI social platform, grew from 40K to 650K users in the past week, as some Instagram artists leave over plans to train AI on user data &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/240606/p31#a240606p31)
- - [OpenAI Offers a Peek Inside the Guts of ChatGPT](https://www.wired.com/story/openai-offers-a-peek-inside-the-guts-of-chatgpt/)
- - [Classic game &#39;Sniper Elite 4&#39; heading to Mac and iOS for the holidays](https://appleinsider.com/articles/24/06/06/classic-game-sniper-elite-4-heading-to-mac-and-ios-in-the-holidays?utm_medium=rss)
- - [Best iPhone SE Deals: Free With Trade-In or New Line     - CNET](https://www.cnet.com/deals/best-iphone-se-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta rolls out its Meta Verified program for WhatsApp Business users in Brazil, India, Indonesia and Colombia, with subscription plans starting from $14 a month &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240606/p33#a240606p33)
+ - [Tesla CEO Elon Musk could leave if $56 billion pay package not approved, shareholders warned](https://www.theverge.com/2024/6/6/24173064/tesla-board-chair-warn-elon-musk-leave-pay-shareholders)
+ - [Humane Warns Its AI Pin Charging Case Is a Fire Hazard     - CNET](https://www.cnet.com/tech/services-and-software/humane-warns-its-ai-pin-charging-case-is-a-fire-hazard/#ftag=CAD590a51e)
+ - [Microsoft&#39;s AI Recall Feature May Not Even Hit Your PC, but Here&#39;s How to Disable It     - CNET](https://www.cnet.com/tech/services-and-software/microsofts-ai-recall-feature-may-not-even-hit-your-pc-but-heres-how-to-disable-it/#ftag=CAD590a51e)
+ - [OpenAI releases a research paper by its recently disbanded &quot;superalignment&quot; team on a method for reverse engineering the workings of AI models &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/240606/p32#a240606p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

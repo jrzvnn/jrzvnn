@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto miners are trying to ride the AI boom by converting data centers to rent out to AI companies or by selling computing power directly to AI clients &lpar;David Pan/Bloomberg&rpar;](http://www.techmeme.com/240606/p8#a240606p8)
- - [A look at the now-shuttered news site BNN Breaking, which former staff say mostly published AI-generated content; Microsoft had licensed BNN content for MSN.com &lpar;New York Times&rpar;](http://www.techmeme.com/240606/p7#a240606p7)
- - [Ikea Will Pay You Real Money to Work in Its Virtual Roblox Store](https://www.wired.com/story/ikea-is-hiring-its-next-generation-of-workers-on-roblox/)
- - [How to Lead an Army of Digital Sleuths in the Age of AI](https://www.wired.com/story/how-to-lead-army-of-digital-sleuths-age-of-ai/)
- - [Investigation: 22M+ flight coordinates show how the US&#39; first police drone program, in Chula Vista, California, impacts residents and raises privacy concerns &lpar;Wired&rpar;](http://www.techmeme.com/240606/p6#a240606p6)<!-- TECH:END -->
+ - [A profile of ASML CEO Christophe Fouquet, a 51-year-old Frenchman who sources say supports global tech collaboration, as ASML starts to worry about geopolitics &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240606/p9#a240606p9)
+ - [The Pirate Party Survived Mutiny and Scandal. In the EU Elections, It’s Trying to Rewrite the Rules of the Web](https://www.wired.com/story/pirate-party-european-elections-eu-dma-gdpr-internet/)
+ - [We tested Aptoide, the first free iPhone app store alternative](https://www.theverge.com/24172642/aptoide-ios-game-marketplace-hands-on-europe)
+ - [Watch SpaceX launch its fourth Starship flight test](https://www.theverge.com/2024/6/6/24172677/spacex-starship-fourth-flight-test-launch-window-livestream)
+ - [Vivo&#39;s Slim Foldable Phone Is Launching Globally     - CNET](https://www.cnet.com/tech/mobile/vivos-slim-foldable-phone-is-launching-globally/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

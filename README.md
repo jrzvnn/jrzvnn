@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Seven Samurai is in 4K](https://www.theverge.com/2024/6/6/24173127/seven-samurai-4k-restoration-theatrical-release)
+ - [Sources: Apple plans a dedicated Passwords app in iOS 18 and macOS 15, powered by the iCloud Keychain; Apple will let users import passwords from rival services &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240606/p38#a240606p38)
  - [US National Security Experts Warn AI Giants Aren&#39;t Doing Enough to Protect Their Secrets](https://www.wired.com/story/national-security-experts-warn-ai-giants-secrets/)
  - [eBay will no longer accept American Express cards over ‘unacceptably high’ fees](https://www.theverge.com/2024/6/6/24173108/ebay-american-express-payment-fees)
- - [Sources: Kraken seeks to raise $100M+ in a pre-IPO round; the crypto exchange&#39;s previous attempts to go public were thwarted in part by a dispute with the SEC &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/240606/p37#a240606p37)
- - [The Case for MDMA&#39;s Approval Is Riddled With Problems](https://www.wired.com/story/mdma-approval-problems-fda-lykos-psychedelic-therapy-mental-health-ptsd/)
- - [Former Autonomy CEO Mike Lynch Cleared in US Fraud Trial](https://www.wired.com/story/former-autonomy-ceo-mike-lynch-cleared-in-us-fraud-trial/)<!-- TECH:END -->
+ - [Sources: Kraken seeks to raise $100M+ in a pre-IPO round; the crypto exchange&#39;s previous attempts to go public were thwarted in part by a dispute with the SEC &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/240606/p37#a240606p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

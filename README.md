@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Lead an Army of Digital Sleuths in the Age of AI](https://www.wired.com/story/how-to-lead-army-of-digital-sleuths-age-of-ai/)
  - [An investigation based on 22M+ flight coordinates reveals how the US&#39; first police drone program, in Chula Vista, CA, impacts residents amid privacy concerns &lpar;Wired&rpar;](http://www.techmeme.com/240606/p6#a240606p6)
  - [TSMC&#39;s Taiwan-listed shares hit a new record high after its US-listed stock jumped 6.85% overnight, following a rally by shares of Nvidia, a major TSMC customer &lpar;Sherry Qin/Wall Street Journal&rpar;](http://www.techmeme.com/240606/p5#a240606p5)
  - [Jonathan Kanter, the US DOJ&#39;s assistant AG for antitrust, says he is examining &quot;monopoly choke points and the competitive landscape&quot; in AI and microchips &lpar;Financial Times&rpar;](http://www.techmeme.com/240606/p4#a240606p4)
- - [Apple needs an AI iPhone fold to stem its increasing decline in China](https://appleinsider.com/articles/24/06/06/apple-needs-an-ai-iphone-fold-to-stem-its-increasing-decline-in-china?utm_medium=rss)
- - [An analysis finds 90K+ images of popular anime characters on generative AI image sharing sites; ~2.5K images had multiple similarities to the original artwork &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240606/p3#a240606p3)<!-- TECH:END -->
+ - [Apple needs an AI iPhone fold to stem its increasing decline in China](https://appleinsider.com/articles/24/06/06/apple-needs-an-ai-iphone-fold-to-stem-its-increasing-decline-in-china?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ikea plans to hire 10 people to run its virtual Roblox store, including to help pick out furniture and serve meatballs in the Bistro, and will pay &amp;pound;13.50/hour &lpar;Joshua Robertson/TheGamer&rpar;](http://www.techmeme.com/240606/p11#a240606p11)
+ - [Nicole Shanahan Is Just Getting Started](https://www.wired.com/story/nicole-shanahan-pseudoscience-autism-research/)
  - [eBay emails customers to say the service will drop American Express cards as a payment option because of &quot;unacceptably high fees&quot;, starting on August 17 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240606/p10#a240606p10)
  - [A profile of ASML CEO Christophe Fouquet, a 51-year-old Frenchman who sources say supports global tech collaboration, as ASML starts to worry about geopolitics &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240606/p9#a240606p9)
- - [The Pirate Party Survived Mutiny and Scandal. In the EU Elections, It’s Trying to Rewrite the Rules of the Web](https://www.wired.com/story/pirate-party-european-elections-eu-dma-gdpr-internet/)
- - [We tested Aptoide, the first free iPhone app store alternative](https://www.theverge.com/24172642/aptoide-ios-game-marketplace-hands-on-europe)
- - [Watch SpaceX launch its fourth Starship flight test](https://www.theverge.com/2024/6/6/24172677/spacex-starship-fourth-flight-test-launch-window-livestream)<!-- TECH:END -->
+ - [The Pirate Party Survived Mutiny and Scandal. In the EU Elections, It’s Trying to Rewrite the Rules of the Web](https://www.wired.com/story/pirate-party-european-elections-eu-dma-gdpr-internet/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

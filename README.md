@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hiking accident, two people missing](http://9gag.com/gag/aMVrP5P)
- - 😝 [\u201cIf you can\u2019t handle me at my 15 man bukake then you don\u2019t deserve me and my after work kiss.\u201d -Riley Reid probably](http://9gag.com/gag/aGywMOn)
- - 💣 [It&#39;s fun for like the first two weeks.](http://9gag.com/gag/a9yL590)
- - 😝 [Aunt May I?](http://9gag.com/gag/aBy3PMZ)
- - 👉 [Parent lets her kids ruin a piano set performance](http://9gag.com/gag/axyZO9K)<!-- MEMES:END -->
+ - 😝 [The bearings in Walmart skateboards for kids.](http://9gag.com/gag/aAyr2qL)
+ - 😝 [This is not a election, this is Hunger games irl](http://9gag.com/gag/a0eL0yL)
+ - 💣 [Parent lets her kids ruin a piano set performance](http://9gag.com/gag/axyZO9K)
+ - 😝 [It&#39;s fun for like the first two weeks.](http://9gag.com/gag/a9yL590)
+ - 👉 [A poor young girl being forced to sign a marriage certificate to an older man.](http://9gag.com/gag/a0eLn0q)<!-- MEMES:END -->
 
 ---
 

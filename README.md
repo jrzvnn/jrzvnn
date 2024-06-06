@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is not a election, this is Hunger games irl](http://9gag.com/gag/a0eL0yL)
- - 😝 [Not stonks](http://9gag.com/gag/axyZ67D)
- - 💣 [F*cking legend](http://9gag.com/gag/a9yL2Vm)
- - 😝 [Hiking accident, two people missing](http://9gag.com/gag/aMVrP5P)
- - 👉 [He&#39;s a man of focus &amp; commitment](http://9gag.com/gag/aKGPvmO)<!-- MEMES:END -->
+ - 😝 [He&#39;s a man of focus &amp; commitment](http://9gag.com/gag/aKGPvmO)
+ - 😝 [I\u2019m 33 years old and it hurts to know I\u2019m probably never going to experience something like this.](http://9gag.com/gag/aVvWZEy)
+ - 💣 [Whoever posted this in first place; I want to thank you. Everybody needs to know.](http://9gag.com/gag/a0eLEeB)
+ - 😝 [Parent lets her kids ruin a piano set performance](http://9gag.com/gag/axyZO9K)
+ - 👉 [A devoted \u271d\ufe0f police officer unlived, and the state invited Muslim imams to pray at the officer\u2019s memorial and recite the Quran. Humiliation at its finest.](http://9gag.com/gag/aGywABZ)<!-- MEMES:END -->
 
 ---
 

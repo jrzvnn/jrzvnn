@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look back at Sam Altman&#39;s career, starting as Loopt CEO before moving to YC and founding OpenAI in 2015, as many former allies now view his charm as duplicity &lpar;Ellen Huet/Bloomberg&rpar;](http://www.techmeme.com/240606/p16#a240606p16)
  - [Sources: as Humane&#39;s Ai Pin flopped, with just ~10,000 orders by early April, the startup started talking to HP about a $1B+ sale; Humane has raised $240M &lpar;New York Times&rpar;](http://www.techmeme.com/240606/p15#a240606p15)
  - [The Lords of Silicon Valley Are Thrilled to Present a ‘Handheld Iron Dome’](https://www.wired.com/story/zeromark-handheld-iron-dome-a16z/)
  - [Slack launches Slack Lists, a new feature for paid users to integrate project and task management into the app, including helping to structure conversations &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/240606/p14#a240606p14)
- - [Craig Federighi ignited Apple&#39;s AI efforts after using Microsoft&#39;s Copilot](https://appleinsider.com/articles/24/06/06/craig-federighi-ignited-apples-ai-efforts-after-using-microsofts-copilot?utm_medium=rss)
- - [Coinbase-backed advocacy group Stand with Crypto passes 1M members after targeting voters in swing states, including ~24K members in Georgia and 16K+ in Arizona &lpar;Andrea Shalal/Reuters&rpar;](http://www.techmeme.com/240606/p13#a240606p13)<!-- TECH:END -->
+ - [Craig Federighi ignited Apple&#39;s AI efforts after using Microsoft&#39;s Copilot](https://appleinsider.com/articles/24/06/06/craig-federighi-ignited-apples-ai-efforts-after-using-microsofts-copilot?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

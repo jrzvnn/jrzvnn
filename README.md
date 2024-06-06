@@ -163,10 +163,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Telegram launches Stars, a new in-app currency for the purchase of digital goods and services in Telegram mini apps; developers can convert Stars into TON &lpar;Sander Lutz/Decrypt&rpar;](http://www.techmeme.com/240606/p40#a240606p40)
- - [Score the Belkin BoostCharge 4-Port Extender for $20 on Amazon     - CNET](https://www.cnet.com/deals/score-the-belkin-boostcharge-4-port-extender-for-20-on-amazon/#ftag=CAD590a51e)
- - [Want to Be a Happy Internet Customer? Go Wireless, Says New Survey     - CNET](https://www.cnet.com/home/internet/want-to-be-a-happy-internet-customer-go-wireless-says-new-survey/#ftag=CAD590a51e)
- - [How to Fix the Worst Part of Your Microwave: The Beeping     - CNET](https://www.cnet.com/home/kitchen-and-household/how-to-fix-the-worst-part-of-your-microwave-the-beeping/#ftag=CAD590a51e)
- - [Best Flashlight for 2024     - CNET](https://www.cnet.com/news/best-flashlight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [NY AG sues crypto companies AWS Mining and NovaTechFX for allegedly operating pyramid schemes that targeted Haitian immigrants and bilked investors out of $1B+ &lpar;Cheyenne Ligon/CoinDesk&rpar;](http://www.techmeme.com/240606/p39#a240606p39)
+ - [Best Vacuum Deals: Save Up to $200 Across Dyson, Shark, Roomba and More     - CNET](https://www.cnet.com/deals/best-vacuum-deals-right-now-dyson-bissell-roomba-and-more/#ftag=CAD590a51e)
+ - [These Kitchen Organizers Will Give You Miles of Extra Counter Space     - CNET](https://www.cnet.com/how-to/these-kitchen-organizers-will-give-you-miles-of-more-counter-space/#ftag=CAD590a51e)
+ - [Best 3D Printer Deals: FDM, Resin and All the Accessories You Need at a Cheap Price     - CNET](https://www.cnet.com/deals/best-3d-printer-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

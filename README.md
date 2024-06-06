@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twitch announces a program in which DJs can use copyrighted music in streams by paying a fee; Twitch signed deals with UMG, WMG, Sony Music and indie labels &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/240606/p30#a240606p30)
  - [Grubhub now delivers Starbucks, too](https://www.theverge.com/2024/6/6/24172863/grubhub-starbucks-food-delivery-apps)
  - [Google partners with RapidSOS, a platform for emergency first responders, to let users contact 911 via RCS, starting in winter 2024 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240606/p29#a240606p29)
  - [Hairline cracks on iPhone and Apple Watch no longer covered under warranty](https://www.theverge.com/2024/6/6/24172866/iphone-apple-watch-hairline-crack-warranty)
- - [After Microsoft eroded Windows users&#39; trust with bad practices for years, Recall is a PR disaster, as users remain skeptical despite the company&#39;s assurances &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/240606/p28#a240606p28)
- - [FTC and DOJ reportedly opening antitrust investigations into Microsoft, OpenAI, and Nvidia](https://www.theverge.com/2024/6/6/24172868/ftc-doj-antitrust-openai-microsoft-nvidia-investigations)<!-- TECH:END -->
+ - [After Microsoft eroded Windows users&#39; trust with bad practices for years, Recall is a PR disaster, as users remain skeptical despite the company&#39;s assurances &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/240606/p28#a240606p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

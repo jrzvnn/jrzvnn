@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trying is not torture...](http://9gag.com/gag/aGywAm0)
- - 😝 [Dop dodo dop](http://9gag.com/gag/aVvWLpK)
- - 💣 [He was saved by those last two words](http://9gag.com/gag/ae902gp)
- - 😝 [And\u2026 we\u2019re done with the cottage cheese sandwich](http://9gag.com/gag/aPA4Xpq)
- - 👉 [Is that a frostmourne](http://9gag.com/gag/axyZR8W)<!-- MEMES:END -->
+ - 😝 [Not good in a man&#39;s way. I mean like a woman. I&#39;m concerned.](http://9gag.com/gag/aXPpWj6)
+ - 😝 [He F*cked around, and found out!](http://9gag.com/gag/aBy3Eb2)
+ - 💣 [\u201cIf you can\u2019t handle me at my 15 man bukake then you don\u2019t deserve me and my after work kiss.\u201d -Riley Reid probably](http://9gag.com/gag/aGywMOn)
+ - 😝 [Hiking accident, two people missing](http://9gag.com/gag/aMVrP5P)
+ - 👉 [Aunt May I?](http://9gag.com/gag/aBy3PMZ)<!-- MEMES:END -->
 
 ---
 

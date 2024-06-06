@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [F*cking legend](http://9gag.com/gag/a9yL2Vm)
- - 😝 [Aunt May I?](http://9gag.com/gag/aBy3PMZ)
- - 💣 [A poor young girl being forced to sign a marriage certificate to an older man.](http://9gag.com/gag/a0eLn0q)
- - 😝 [\u201cIf you can\u2019t handle me at my 15 man bukake then you don\u2019t deserve me and my after work kiss.\u201d -Riley Reid probably](http://9gag.com/gag/aGywMOn)
- - 👉 [Title](http://9gag.com/gag/azxEYpN)<!-- MEMES:END -->
+ - 😝 [Try to act surprised and don&#39;t laugh &lpar;too much&rpar;](http://9gag.com/gag/aPA41XV)
+ - 😝 [Is that a frostmourne](http://9gag.com/gag/axyZR8W)
+ - 💣 [F*cking legend](http://9gag.com/gag/a9yL2Vm)
+ - 😝 [Some useful tips for construction workers.](http://9gag.com/gag/aGywAMG)
+ - 👉 [Local dog name Gray saves an unexpected friend. That big smile at the end says it all](http://9gag.com/gag/abAy2bX)<!-- MEMES:END -->
 
 ---
 

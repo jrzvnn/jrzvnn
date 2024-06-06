@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Core Scientific rejects CoreWeave&#39;s $1B buyout offer, worth $5.75 per share, saying the deal undervalues the company; CORZ had jumped ~40% on the buyout news &lpar;Parikshit Mishra/CoinDesk&rpar;](http://www.techmeme.com/240606/p21#a240606p21)
- - [The Bose QuietComfort Ultra Earbuds are on sale for an all-time low of $239](https://www.theverge.com/2024/6/6/24172359/bose-quietcomfort-ultra-earbuds-super-mario-rpg-deal-sale)
- - [Humane is reportedly trying to sell itself to HP for $1 billion](https://www.theverge.com/2024/6/6/24172718/humane-ai-pin-selling-hp-rumor-1-billion)
- - [Watch SpaceX launch its fourth Starship flight test](https://www.theverge.com/2024/6/6/24172677/spacex-starship-fourth-flight-test-launch-window-livestream)
- - [Eargo Link Review: Basic Hearing Aids That Are Too Pricey](https://www.wired.com/review/eargo-link/)<!-- TECH:END -->
+ - [Q&amp;A with AMD CEO Lisa Su on lessons from IBM, working with TSMC, the AMD turnaround, AI, competing with Nvidia, the gaming and PC markets, Zen chips, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/240606/p22#a240606p22)
+ - [Watch SpaceX’s fourth Starship flight test](https://www.theverge.com/2024/6/6/24172677/spacex-starship-fourth-flight-test-launch-window-livestream)
+ - [Poco F6 and F6 Pro Review: Small Price, Big Performance](https://www.wired.com/review/xiaomi-poco-f6-and-f6-pro/)
+ - [Leica’s new app lets your iPhone mimic its cameras and classic lenses](https://www.theverge.com/2024/6/6/24172452/leica-lux-iphone-app-announced-camera-lens-profiles)
+ - [Core Scientific rejects CoreWeave&#39;s $1B buyout offer, worth $5.75 per share, saying the deal undervalues the company; CORZ had jumped ~40% on the buyout news &lpar;Parikshit Mishra/CoinDesk&rpar;](http://www.techmeme.com/240606/p21#a240606p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

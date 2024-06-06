@@ -171,10 +171,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u201cIf you can\u2019t handle me at my 15 man bukake then you don\u2019t deserve me and my after work kiss.\u201d -Riley Reid probably](http://9gag.com/gag/aGywMOn)
+ - 😝 [This is 100% how dating a latina looks like](http://9gag.com/gag/a343b08)
+ - 😝 [Difference between men and women](http://9gag.com/gag/aD23Z2G)
+ - 💣 [F*cking legend](http://9gag.com/gag/a9yL2Vm)
  - 😝 [Parent lets her kids ruin a piano set performance](http://9gag.com/gag/axyZO9K)
- - 💣 [Whoever posted this in first place; I want to thank you. Everybody needs to know.](http://9gag.com/gag/a0eLEeB)
- - 😝 [Bad Boys of Bahia, Brazil. They look like....](http://9gag.com/gag/awyKYNr)
  - 👉 [A devoted \u271d\ufe0f police officer unlived, and the state invited Muslim imams to pray at the officer\u2019s memorial and recite the Quran. Humiliation at its finest.](http://9gag.com/gag/aGywABZ)<!-- MEMES:END -->
 
 ---

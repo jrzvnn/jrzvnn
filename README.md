@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The bearings in Walmart skateboards for kids.](http://9gag.com/gag/aAyr2qL)
+ - 😝 [Don&#39;t give up guys](http://9gag.com/gag/aD23Q3B)
  - 😝 [Try to act surprised and don&#39;t laugh &lpar;too much&rpar;](http://9gag.com/gag/aPA41XV)
- - 💣 [Oh yes the classic society](http://9gag.com/gag/a9yLOpZ)
- - 😝 [Suffered for mankind](http://9gag.com/gag/adBYeAD)
- - 👉 [This is 100% how dating a latina looks like](http://9gag.com/gag/a343b08)<!-- MEMES:END -->
+ - 💣 [Parent lets her kids ruin a piano set performance](http://9gag.com/gag/axyZO9K)
+ - 😝 [Title](http://9gag.com/gag/azxEYpN)
+ - 👉 [A devoted \u271d\ufe0f police officer unlived, and the state invited Muslim imams to pray at the officer\u2019s memorial and recite the Quran. Humiliation at its finest.](http://9gag.com/gag/aGywABZ)<!-- MEMES:END -->
 
 ---
 

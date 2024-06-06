@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s 2024 Design Award winners run the gamut of classic puzzle games to immersive experiences](https://appleinsider.com/articles/24/06/06/apples-2024-design-award-winners-run-the-gamut-of-classic-puzzle-games-to-immersive-experiences?utm_medium=rss)
+ - [Tektonic AI, which wants to build generative AI agents for automating business operations, raised a $10M seed led by Point72 Ventures and Madrona Ventures &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240606/p27#a240606p27)
  - [Apple will provide a minimum of five years of iPhone security updates](https://www.theverge.com/2024/6/6/24172843/apple-iphone-minimum-five-years-security-updates)
  - [You can still get an Apple TV 4K for $89.99 heading into the weekend](https://appleinsider.com/articles/24/06/06/you-can-still-get-an-apple-tv-4k-for-8999-heading-into-the-weekend?utm_medium=rss)
- - [The next Dragon Age is now called The Veilguard](https://www.theverge.com/2024/6/6/24172872/dragon-age-the-veilguard-reveal)
- - [Discord adds new monetization features for developers and plans to halve the 30% platform fee for the first $1M in cumulative gross sales, from June 6 &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240606/p26#a240606p26)
- - [SpaceX’s fourth Starship test is the first one to reach splashdown](https://www.theverge.com/2024/6/6/24172689/spacex-starship-fourth-flight-test-launch-success)<!-- TECH:END -->
+ - [The next Dragon Age is now called The Veilguard](https://www.theverge.com/2024/6/6/24172872/dragon-age-the-veilguard-reveal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

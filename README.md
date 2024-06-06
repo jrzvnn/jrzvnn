@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Slack launches Slack Lists, a new feature for paid users to integrate project and task management into the app, including helping to structure conversations &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/240606/p14#a240606p14)
  - [Craig Federighi ignited Apple&#39;s AI efforts after using Microsoft&#39;s Copilot](https://appleinsider.com/articles/24/06/06/craig-federighi-ignited-apples-ai-efforts-after-using-microsofts-copilot?utm_medium=rss)
  - [Coinbase-backed advocacy group Stand with Crypto passes 1M members after targeting voters in swing states, including ~24K members in Georgia and 16K+ in Arizona &lpar;Andrea Shalal/Reuters&rpar;](http://www.techmeme.com/240606/p13#a240606p13)
  - [Inside the City Policed by Machines](https://www.wired.com/story/inside-the-city-policed-by-machines/)
- - [ASML&#39;s shares jumped 8.1% on July 5 to reach a &amp;euro;377B market cap, passing fashion conglomerate LVMH for the first time; only Novo Nordisk is worth more in Europe &lpar;Bloomberg&rpar;](http://www.techmeme.com/240606/p12#a240606p12)
- - [Ikea plans to hire 10 people to run its virtual Roblox store, including to help pick out furniture and serve meatballs in the Bistro, and will pay &amp;pound;13.50/hour &lpar;Joshua Robertson/TheGamer&rpar;](http://www.techmeme.com/240606/p11#a240606p11)<!-- TECH:END -->
+ - [ASML&#39;s shares jumped 8.1% on July 5 to reach a &amp;euro;377B market cap, passing fashion conglomerate LVMH for the first time; only Novo Nordisk is worth more in Europe &lpar;Bloomberg&rpar;](http://www.techmeme.com/240606/p12#a240606p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

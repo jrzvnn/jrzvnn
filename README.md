@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s 2024 Design Award winners run the gamut of classic puzzle games to immersive experiences](https://appleinsider.com/articles/24/06/06/apples-2024-design-award-winners-run-the-gamut-of-classic-puzzle-games-to-immersive-experiences?utm_medium=rss)
- - [Tektonic AI, which wants to build generative AI agents for automating business operations, raised a $10M seed led by Point72 Ventures and Madrona Ventures &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240606/p27#a240606p27)
- - [Apple will provide a minimum of five years of iPhone security updates](https://www.theverge.com/2024/6/6/24172843/apple-iphone-minimum-five-years-security-updates)
- - [You can still get an Apple TV 4K for $89.99 heading into the weekend](https://appleinsider.com/articles/24/06/06/you-can-still-get-an-apple-tv-4k-for-8999-heading-into-the-weekend?utm_medium=rss)
- - [The next Dragon Age is now called The Veilguard](https://www.theverge.com/2024/6/6/24172872/dragon-age-the-veilguard-reveal)<!-- TECH:END -->
+ - [Google partners with RapidSOS, a platform for emergency first responders, to let users contact 911 via RCS, starting in winter 2024 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240606/p29#a240606p29)
+ - [Hairline cracks on iPhone and Apple Watch no longer covered under warranty](https://www.theverge.com/2024/6/6/24172866/iphone-apple-watch-hairline-crack-warranty)
+ - [After Microsoft eroded Windows users&#39; trust with bad practices for years, Recall is a PR disaster, as users remain skeptical despite the company&#39;s assurances &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/240606/p28#a240606p28)
+ - [FTC and DOJ reportedly opening antitrust investigations into Microsoft, OpenAI, and Nvidia](https://www.theverge.com/2024/6/6/24172868/ftc-doj-antitrust-openai-microsoft-nvidia-investigations)
+ - [Chatbot Teamwork Makes the AI Dream Work](https://www.wired.com/story/chatbot-teamwork-makes-the-ai-dream-work/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

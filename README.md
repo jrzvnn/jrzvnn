@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NY AG sues two crypto companies and their founders for allegedly operating pyramid schemes that targeted Haitian immigrants and defrauded investors out of $1B+ &lpar;Cheyenne Ligon/CoinDesk&rpar;](http://www.techmeme.com/240606/p39#a240606p39)
  - [Apple might reveal a new ‘Passwords’ app next week](https://www.theverge.com/2024/6/6/24173202/apple-password-manager-rumor-1password-lastpass)
  - [Oral-B Sold a $230 Alexa Toothbrush—and Then Pulled the Plug](https://www.wired.com/story/oral-b-guide-alexa-app-brick/)
  - [iOS 18 to debut Apple Passwords app](https://appleinsider.com/articles/24/06/06/ios-18-to-debut-apple-passwords-app?utm_medium=rss)
- - [Seven Samurai is in 4K](https://www.theverge.com/2024/6/6/24173127/seven-samurai-4k-restoration-theatrical-release)
- - [Sources: Apple plans a dedicated Passwords app in iOS 18 and macOS 15, powered by the iCloud Keychain; Apple will let users import passwords from rival services &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240606/p38#a240606p38)<!-- TECH:END -->
+ - [Seven Samurai is in 4K](https://www.theverge.com/2024/6/6/24173127/seven-samurai-4k-restoration-theatrical-release)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cara, an artist-run, anti-AI social platform, grew from 40K to 650K users in the past week, as some Instagram artists leave over plans to train AI on user data &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/240606/p31#a240606p31)
+ - [OpenAI Offers a Peek Inside the Guts of ChatGPT](https://www.wired.com/story/openai-offers-a-peek-inside-the-guts-of-chatgpt/)
  - [Classic game &#39;Sniper Elite 4&#39; heading to Mac and iOS for the holidays](https://appleinsider.com/articles/24/06/06/classic-game-sniper-elite-4-heading-to-mac-and-ios-in-the-holidays?utm_medium=rss)
  - [Suicide Squad left a $200 million hole in WBD’s video game division](https://www.theverge.com/2024/6/6/24172905/suicide-squad-kill-justice-league-200-million-loss-wbd-rocksteady)
- - [Best Buy is shutting down its Samsung repair program](https://www.theverge.com/2024/6/6/24164777/best-buy-ends-samsung-repair-program-geek-squad)
- - [UN calls on tech and media to stop taking fossil fuel ad money — but gets nothing in response](https://www.theverge.com/2024/6/6/24172759/tech-media-fossil-fuel-advertising-ban-united-nations-secretary-general)
- - [Netflix’s latest redesign aims to simplify your homepage](https://www.theverge.com/2024/6/6/24172351/netflix-redesign-homepage-experience-test)<!-- TECH:END -->
+ - [Best Buy is shutting down its Samsung repair program](https://www.theverge.com/2024/6/6/24164777/best-buy-ends-samsung-repair-program-geek-squad)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

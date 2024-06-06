@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [For every action, there is a reaction. And Polish reaction \u2026 is quite a f*** thing.](http://9gag.com/gag/aoy0n5g)
  - 😝 [Title](http://9gag.com/gag/azxEYpN)
- - 💣 [I&#39;m being honest](http://9gag.com/gag/ayN0ROp)
- - 😝 [If this is true Disney has butchered the franchise. Well, they kinda already did. Vote with your wallet folks.](http://9gag.com/gag/avyg9zO)
- - 👉 [Very ouch.](http://9gag.com/gag/aLnPWMx)<!-- MEMES:END -->
+ - 😝 [Tatoo removal](http://9gag.com/gag/aD23X2x)
+ - 💣 [Parent lets her kids ruin a piano set performance](http://9gag.com/gag/axyZO9K)
+ - 😝 [Fire. In space. That&#39;s everything you need to know about the new &#39;Star Wars&#39; series directed by a woke female director.](http://9gag.com/gag/an7KDx0)
+ - 👉 [A poor young girl being forced to sign a marriage certificate to an older man.](http://9gag.com/gag/a0eLn0q)<!-- MEMES:END -->
 
 ---
 

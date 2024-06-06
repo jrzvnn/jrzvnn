@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Adobe faces a backlash over its terms of service that say Adobe may access user content via &quot;automated and manual methods&quot; to improve its services and software &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240606/p36#a240606p36)
+ - [The Snowflake Attack May Be Turning Into One of the Largest Data Breaches Ever](https://www.wired.com/story/snowflake-breach-advanced-auto-parts-lendingtree/)
  - [Sounds like Intel’s and AMD’s Copilot Plus PCs won’t have Copilot AI features at launch](https://www.theverge.com/2024/6/6/24173080/intel-amd-nvidia-copilot-plus-pc-ai-exclusivity-qualcomm-2024)
  - [A US federal court finds Mike Lynch not guilty of criminal charges that he duped HP into buying Autonomy for $11B in 2011; he lost a UK civil trial in 2022 &lpar;Rachel Graf/Bloomberg&rpar;](http://www.techmeme.com/240606/p35#a240606p35)
- - [Meta plans WhatsApp features, including an AI-powered assistant for businesses in India and Singapore, and AI tools to create ads in English-speaking markets &lpar;Aisha Counts/Bloomberg&rpar;](http://www.techmeme.com/240606/p34#a240606p34)
- - [Meta rolls out its Meta Verified program for WhatsApp Business users in Brazil, India, Indonesia and Colombia, with subscription plans starting from $14 a month &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240606/p33#a240606p33)
- - [Tesla CEO Elon Musk could leave if $56 billion pay package not approved, shareholders warned](https://www.theverge.com/2024/6/6/24173064/tesla-board-chair-warn-elon-musk-leave-pay-shareholders)<!-- TECH:END -->
+ - [Meta plans WhatsApp features, including an AI-powered assistant for businesses in India and Singapore, and AI tools to create ads in English-speaking markets &lpar;Aisha Counts/Bloomberg&rpar;](http://www.techmeme.com/240606/p34#a240606p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

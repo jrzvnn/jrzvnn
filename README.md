@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple will provide a minimum of five years of iPhone security updates](https://www.theverge.com/2024/6/6/24172843/apple-iphone-minimum-five-years-security-updates)
+ - [You can still get an Apple TV 4K for $89.99 heading into the weekend](https://appleinsider.com/articles/24/06/06/you-can-still-get-an-apple-tv-4k-for-8999-heading-into-the-weekend?utm_medium=rss)
  - [The next Dragon Age is now called The Veilguard](https://www.theverge.com/2024/6/6/24172872/dragon-age-the-veilguard-reveal)
  - [Discord adds new monetization features for developers and plans to halve the 30% platform fee for the first $1M in cumulative gross sales, from June 6 &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240606/p26#a240606p26)
- - [SpaceX’s fourth Starship test is the first one to reach splashdown](https://www.theverge.com/2024/6/6/24172689/spacex-starship-fourth-flight-test-launch-success)
- - [Apple needs an AI-powered folding iPhone to stem its decline in China, says Kuo](https://appleinsider.com/articles/24/06/06/apple-needs-an-ai-iphone-fold-to-stem-its-increasing-decline-in-china?utm_medium=rss)
- - [Fractal is making another gaming PC case with a wood panel](https://www.theverge.com/2024/6/6/24172263/desktop-gaming-pc-case-fractal-new-chair-headset-computex-2024)<!-- TECH:END -->
+ - [SpaceX’s fourth Starship test is the first one to reach splashdown](https://www.theverge.com/2024/6/6/24172689/spacex-starship-fourth-flight-test-launch-success)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

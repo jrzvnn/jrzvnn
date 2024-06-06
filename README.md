@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Very ouch.](http://9gag.com/gag/aLnPWMx)
- - 😝 [Don&#39;t give up guys](http://9gag.com/gag/aD23Q3B)
- - 💣 [Air Canada. Engine compressor stall on takeoff.](http://9gag.com/gag/aAyrv6o)
- - 😝 [A poor young girl being forced to sign a marriage certificate to an older man.](http://9gag.com/gag/a0eLn0q)
- - 👉 [Tatoo removal](http://9gag.com/gag/aD23X2x)<!-- MEMES:END -->
+ - 😝 [Bad Boys of Bahia, Brazil. They look like....](http://9gag.com/gag/awyKYNr)
+ - 😝 [They call it a \u201cswiftie\u201d](http://9gag.com/gag/axyZO3Y)
+ - 💣 [Tatoo removal](http://9gag.com/gag/aD23X2x)
+ - 😝 [USA, UK, France, etc. Useless everywhere. Any discovery or invention? Anyone?](http://9gag.com/gag/ayN01Ap)
+ - 👉 [Fire. In space. That&#39;s everything you need to know about the new &#39;Star Wars&#39; series directed by a woke female director.](http://9gag.com/gag/an7KDx0)<!-- MEMES:END -->
 
 ---
 

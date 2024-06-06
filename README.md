@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t give up guys](http://9gag.com/gag/aD23Q3B)
+ - 😝 [Parent lets her kids ruin a piano set performance](http://9gag.com/gag/axyZO9K)
  - 😝 [Try to act surprised and don&#39;t laugh &lpar;too much&rpar;](http://9gag.com/gag/aPA41XV)
- - 💣 [Parent lets her kids ruin a piano set performance](http://9gag.com/gag/axyZO9K)
- - 😝 [Title](http://9gag.com/gag/azxEYpN)
- - 👉 [A devoted \u271d\ufe0f police officer unlived, and the state invited Muslim imams to pray at the officer\u2019s memorial and recite the Quran. Humiliation at its finest.](http://9gag.com/gag/aGywABZ)<!-- MEMES:END -->
+ - 💣 [A devoted \u271d\ufe0f police officer unlived, and the state invited Muslim imams to pray at the officer\u2019s memorial and recite the Quran. Humiliation at its finest.](http://9gag.com/gag/aGywABZ)
+ - 😝 [Air Canada. Engine compressor stall on takeoff.](http://9gag.com/gag/aAyrv6o)
+ - 👉 [Title](http://9gag.com/gag/azxEYpN)<!-- MEMES:END -->
 
 ---
 

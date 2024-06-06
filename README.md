@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Watch SpaceX launch its fourth Starship flight test](https://www.theverge.com/2024/6/6/24172677/spacex-starship-fourth-flight-test-launch-window-livestream)
- - [iOS 18 Mail app will get huge AI enhancements &amp; summarizations with &#39;Project Blackpearl&#39;](https://appleinsider.com/articles/24/06/06/ios-18-mail-app-will-get-huge-ai-enhancements-summarizations-with-project-blackpearl?utm_medium=rss)
- - [The FBI urges LockBit ransomware victims to come forward after obtaining 7,000+ decryption keys to recover data; police seized 2,500+ keys in February 2024 &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240606/p19#a240606p19)
- - [Sennheiser Accentum True Wireless Earbuds Review: Bland and Forgettable](https://www.wired.com/review/review-sennheiser-accentum-true-wireless/)
- - [Google rolls out its Gemini-powered note-taking assistant NotebookLM to 200+ new countries, including Brazil and the UK, and adds Slides and web URLs as sources &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/240606/p18#a240606p18)<!-- TECH:END -->
+ - [Amazon acquires key assets of Indian video streaming service MX Player; a source says the deal values the streamer at $100M, below its $500M valuation in 2019 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240606/p20#a240606p20)
+ - [Learning to Live With Google&#39;s AI Overviews](https://www.wired.com/story/gadget-lab-podcast-646/)
+ - [It’s Nerf darts or nothing for these slick new blasters](https://www.theverge.com/2024/6/6/24172656/nerf-n-series-blasters-darts-price-release-date)
+ - [The US doesn’t make bicycles anymore — here’s how to change that](https://www.theverge.com/2024/6/6/24172279/us-bicycle-ebike-tariffs-manufacturing-blumenauer-bill)
+ - [Watch SpaceX launch its fourth Starship flight test](https://www.theverge.com/2024/6/6/24172677/spacex-starship-fourth-flight-test-launch-window-livestream)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

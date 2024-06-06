@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not good in a man&#39;s way. I mean like a woman. I&#39;m concerned.](http://9gag.com/gag/aXPpWj6)
- - 😝 [He F*cked around, and found out!](http://9gag.com/gag/aBy3Eb2)
+ - 😝 [Bad Boys of Bahia, Brazil. They look like....](http://9gag.com/gag/awyKYNr)
+ - 😝 [Name the product](http://9gag.com/gag/a2vYb3D)
  - 💣 [\u201cIf you can\u2019t handle me at my 15 man bukake then you don\u2019t deserve me and my after work kiss.\u201d -Riley Reid probably](http://9gag.com/gag/aGywMOn)
- - 😝 [Hiking accident, two people missing](http://9gag.com/gag/aMVrP5P)
- - 👉 [Aunt May I?](http://9gag.com/gag/aBy3PMZ)<!-- MEMES:END -->
+ - 😝 [Pet paw cleaner](http://9gag.com/gag/an7Kvqb)
+ - 👉 [A poor young girl being forced to sign a marriage certificate to an older man.](http://9gag.com/gag/a0eLn0q)<!-- MEMES:END -->
 
 ---
 

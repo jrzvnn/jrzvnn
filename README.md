@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hiking accident, two people missing](http://9gag.com/gag/aMVrP5P)
- - 😝 [A bit cringe talk](http://9gag.com/gag/an7KxM0)
- - 💣 [The bearings in Walmart skateboards for kids.](http://9gag.com/gag/aAyr2qL)
- - 😝 [Parent lets her kids ruin a piano set performance](http://9gag.com/gag/axyZO9K)
- - 👉 [F*cking legend](http://9gag.com/gag/a9yL2Vm)<!-- MEMES:END -->
+ - 😝 [Trying is not torture...](http://9gag.com/gag/aGywAm0)
+ - 😝 [Dop dodo dop](http://9gag.com/gag/aVvWLpK)
+ - 💣 [He was saved by those last two words](http://9gag.com/gag/ae902gp)
+ - 😝 [And\u2026 we\u2019re done with the cottage cheese sandwich](http://9gag.com/gag/aPA4Xpq)
+ - 👉 [Is that a frostmourne](http://9gag.com/gag/axyZR8W)<!-- MEMES:END -->
 
 ---
 

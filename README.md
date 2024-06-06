@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is not a election, this is Hunger games irl](http://9gag.com/gag/a0eL0yL)
- - 😝 [\u201cIf you can\u2019t handle me at my 15 man bukake then you don\u2019t deserve me and my after work kiss.\u201d -Riley Reid probably](http://9gag.com/gag/aGywMOn)
- - 💣 [The bearings in Walmart skateboards for kids.](http://9gag.com/gag/aAyr2qL)
- - 😝 [It&#39;s fun for like the first two weeks.](http://9gag.com/gag/a9yL590)
- - 👉 [A poor young girl being forced to sign a marriage certificate to an older man.](http://9gag.com/gag/a0eLn0q)<!-- MEMES:END -->
+ - 😝 [A poor young girl being forced to sign a marriage certificate to an older man.](http://9gag.com/gag/a0eLn0q)
+ - 😝 [Go to sleep bro!](http://9gag.com/gag/a7oy2Xw)
+ - 💣 [Rage against the Mother](http://9gag.com/gag/a9yLX6D)
+ - 😝 [I\u2018ve seen many memes but this.. this put a smile on my face](http://9gag.com/gag/amo0MK4)
+ - 👉 [Trying is not torture...](http://9gag.com/gag/aGywAm0)<!-- MEMES:END -->
 
 ---
 

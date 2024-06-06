@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Squeeze that cat](http://9gag.com/gag/aYQWMOq)
+ - 😝 [Hands off](http://9gag.com/gag/avyg69O)
+ - 💣 [F*cking legend](http://9gag.com/gag/a9yL2Vm)
  - 😝 [A poor young girl being forced to sign a marriage certificate to an older man.](http://9gag.com/gag/a0eLn0q)
- - 😝 [Go to sleep bro!](http://9gag.com/gag/a7oy2Xw)
- - 💣 [Rage against the Mother](http://9gag.com/gag/a9yLX6D)
- - 😝 [I\u2018ve seen many memes but this.. this put a smile on my face](http://9gag.com/gag/amo0MK4)
- - 👉 [Trying is not torture...](http://9gag.com/gag/aGywAm0)<!-- MEMES:END -->
+ - 👉 [This is not a election, this is Hunger games irl](http://9gag.com/gag/a0eL0yL)<!-- MEMES:END -->
 
 ---
 

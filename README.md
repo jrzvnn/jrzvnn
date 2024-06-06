@@ -172,10 +172,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Hiking accident, two people missing](http://9gag.com/gag/aMVrP5P)
- - 😝 [A devoted \u271d\ufe0f police officer unlived, and the state invited Muslim imams to pray at the officer\u2019s memorial and recite the Quran. Humiliation at its finest.](http://9gag.com/gag/aGywABZ)
- - 💣 [The bearings in Walmart skateboards for kids.](http://9gag.com/gag/aAyr2qL)
- - 😝 [A poor young girl being forced to sign a marriage certificate to an older man.](http://9gag.com/gag/a0eLn0q)
- - 👉 [Tatoo removal](http://9gag.com/gag/aD23X2x)<!-- MEMES:END -->
+ - 😝 [\u201cIf you can\u2019t handle me at my 15 man bukake then you don\u2019t deserve me and my after work kiss.\u201d -Riley Reid probably](http://9gag.com/gag/aGywMOn)
+ - 💣 [It&#39;s fun for like the first two weeks.](http://9gag.com/gag/a9yL590)
+ - 😝 [Aunt May I?](http://9gag.com/gag/aBy3PMZ)
+ - 👉 [Parent lets her kids ruin a piano set performance](http://9gag.com/gag/axyZO9K)<!-- MEMES:END -->
 
 ---
 

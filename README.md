@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The bearings in Walmart skateboards for kids.](http://9gag.com/gag/aAyr2qL)
- - 😝 [Hypergamy](http://9gag.com/gag/aoy0Lex)
- - 💣 [This is 100% how dating a latina looks like](http://9gag.com/gag/a343b08)
- - 😝 [Oh yes the classic society](http://9gag.com/gag/a9yLOpZ)
- - 👉 [Bad Boys 4 behind the scenes](http://9gag.com/gag/a2vYywZ)<!-- MEMES:END -->
+ - 😝 [F*cking legend](http://9gag.com/gag/a9yL2Vm)
+ - 😝 [Aunt May I?](http://9gag.com/gag/aBy3PMZ)
+ - 💣 [A poor young girl being forced to sign a marriage certificate to an older man.](http://9gag.com/gag/a0eLn0q)
+ - 😝 [\u201cIf you can\u2019t handle me at my 15 man bukake then you don\u2019t deserve me and my after work kiss.\u201d -Riley Reid probably](http://9gag.com/gag/aGywMOn)
+ - 👉 [Title](http://9gag.com/gag/azxEYpN)<!-- MEMES:END -->
 
 ---
 

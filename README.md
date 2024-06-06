@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: ByteDance has been renting Nvidia&#39;s GPUs from Oracle to bypass US sanctions; China Telecom and other Chinese companies are using the same loophole &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/240606/p24#a240606p24)
  - [Here’s our in-depth Sonos Ace video review](https://www.theverge.com/24172762/sonos-ace-headphones-video-review)
  - [Why the video game industry is such a mess](https://www.theverge.com/24172733/summer-game-fest-video-game-announcements-layoffs-labor-live-service-fortnite)
  - [The Rogue Prince of Persia artfully changes up the roguelike format](https://www.theverge.com/2024/6/6/24172102/the-rogue-prince-of-persia-steam-early-access-impression)
- - [Watch SpaceX’s fourth Starship flight test](https://www.theverge.com/2024/6/6/24172677/spacex-starship-fourth-flight-test-launch-window-livestream)
- - [How Suicide Squad became the biggest video game flop of 2024 so far, including a tumultuous and delayed development; Warner Bros. took a $200M loss on the game &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/240606/p23#a240606p23)<!-- TECH:END -->
+ - [Watch SpaceX’s fourth Starship flight test](https://www.theverge.com/2024/6/6/24172677/spacex-starship-fourth-flight-test-launch-window-livestream)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

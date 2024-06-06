@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Parent lets her kids ruin a piano set performance](http://9gag.com/gag/axyZO9K)
- - 😝 [The bearings in Walmart skateboards for kids.](http://9gag.com/gag/aAyr2qL)
- - 💣 [A poor young girl being forced to sign a marriage certificate to an older man.](http://9gag.com/gag/a0eLn0q)
- - 😝 [Aunt May I?](http://9gag.com/gag/aBy3PMZ)
- - 👉 [F*cking legend](http://9gag.com/gag/a9yL2Vm)<!-- MEMES:END -->
+ - 😝 [Just look at them](http://9gag.com/gag/aNDZOe0)
+ - 😝 [I\u2019m 33 years old and it hurts to know I\u2019m probably never going to experience something like this.](http://9gag.com/gag/aVvWZEy)
+ - 💣 [Gone in 5 minutes](http://9gag.com/gag/aNDZR7v)
+ - 😝 [F*cking legend](http://9gag.com/gag/a9yL2Vm)
+ - 👉 [The bearings in Walmart skateboards for kids.](http://9gag.com/gag/aAyr2qL)<!-- MEMES:END -->
 
 ---
 

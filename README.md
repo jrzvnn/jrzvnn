@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Aunt May I?](http://9gag.com/gag/aBy3PMZ)
- - 😝 [The bearings in Walmart skateboards for kids.](http://9gag.com/gag/aAyr2qL)
- - 💣 [A devoted \u271d\ufe0f police officer unlived, and the state invited Muslim imams to pray at the officer\u2019s memorial and recite the Quran. Humiliation at its finest.](http://9gag.com/gag/aGywABZ)
- - 😝 [Parent lets her kids ruin a piano set performance](http://9gag.com/gag/axyZO9K)
- - 👉 [He&#39;s a man of focus &amp; commitment](http://9gag.com/gag/aKGPvmO)<!-- MEMES:END -->
+ - 😝 [Absolute cinema](http://9gag.com/gag/a4PdA1A)
+ - 😝 [Hiking accident, two people missing](http://9gag.com/gag/aMVrP5P)
+ - 💣 [The bearings in Walmart skateboards for kids.](http://9gag.com/gag/aAyr2qL)
+ - 😝 [A poor young girl being forced to sign a marriage certificate to an older man.](http://9gag.com/gag/a0eLn0q)
+ - 👉 [A devoted \u271d\ufe0f police officer unlived, and the state invited Muslim imams to pray at the officer\u2019s memorial and recite the Quran. Humiliation at its finest.](http://9gag.com/gag/aGywABZ)<!-- MEMES:END -->
 
 ---
 

@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A devoted \u271d\ufe0f police officer unlived, and the state invited Muslim imams to pray at the officer\u2019s memorial and recite the Quran. Humiliation at its finest.](http://9gag.com/gag/aGywABZ)
  - 😝 [The bearings in Walmart skateboards for kids.](http://9gag.com/gag/aAyr2qL)
- - 💣 [A poor young girl being forced to sign a marriage certificate to an older man.](http://9gag.com/gag/a0eLn0q)
- - 😝 [I&#39;m being honest](http://9gag.com/gag/ayN0ROp)
- - 👉 [Fire. In space. That&#39;s everything you need to know about the new &#39;Star Wars&#39; series directed by a woke female director.](http://9gag.com/gag/an7KDx0)<!-- MEMES:END -->
+ - 😝 [Try to act surprised and don&#39;t laugh &lpar;too much&rpar;](http://9gag.com/gag/aPA41XV)
+ - 💣 [Oh yes the classic society](http://9gag.com/gag/a9yLOpZ)
+ - 😝 [Suffered for mankind](http://9gag.com/gag/adBYeAD)
+ - 👉 [This is 100% how dating a latina looks like](http://9gag.com/gag/a343b08)<!-- MEMES:END -->
 
 ---
 

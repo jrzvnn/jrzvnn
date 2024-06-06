@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Try to act surprised and don&#39;t laugh &lpar;too much&rpar;](http://9gag.com/gag/aPA41XV)
- - 😝 [Is that a frostmourne](http://9gag.com/gag/axyZR8W)
- - 💣 [F*cking legend](http://9gag.com/gag/a9yL2Vm)
- - 😝 [Some useful tips for construction workers.](http://9gag.com/gag/aGywAMG)
- - 👉 [Local dog name Gray saves an unexpected friend. That big smile at the end says it all](http://9gag.com/gag/abAy2bX)<!-- MEMES:END -->
+ - 😝 [Fire. In space. That&#39;s everything you need to know about the new &#39;Star Wars&#39; series directed by a woke female director.](http://9gag.com/gag/an7KDx0)
+ - 😝 [A poor young girl being forced to sign a marriage certificate to an older man.](http://9gag.com/gag/a0eLn0q)
+ - 💣 [Parent lets her kids ruin a piano set performance](http://9gag.com/gag/axyZO9K)
+ - 😝 [Title](http://9gag.com/gag/azxEYpN)
+ - 👉 [A devoted \u271d\ufe0f police officer unlived, and the state invited Muslim imams to pray at the officer\u2019s memorial and recite the Quran. Humiliation at its finest.](http://9gag.com/gag/aGywABZ)<!-- MEMES:END -->
 
 ---
 

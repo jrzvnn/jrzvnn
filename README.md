@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Classic game Sniper Elite 4 heading to Mac and iOS in the holidays](https://appleinsider.com/articles/24/06/06/classic-game-sniper-elite-4-heading-to-mac-and-ios-in-the-holidays?utm_medium=rss)
+ - [Suicide Squad left a $200 million hole in WBD’s video game division](https://www.theverge.com/2024/6/6/24172905/suicide-squad-kill-justice-league-200-million-loss-wbd-rocksteady)
+ - [Best Buy is shutting down its Samsung repair program](https://www.theverge.com/2024/6/6/24164777/best-buy-ends-samsung-repair-program-geek-squad)
  - [UN calls on tech and media to stop taking fossil fuel ad money — but gets nothing in response](https://www.theverge.com/2024/6/6/24172759/tech-media-fossil-fuel-advertising-ban-united-nations-secretary-general)
- - [Netflix’s latest redesign aims to simplify your homepage](https://www.theverge.com/2024/6/6/24172351/netflix-redesign-homepage-experience-test)
- - [Starship’s Successful Test Moves SpaceX One Step Closer to Mars](https://www.wired.com/story/spacex-starship-superheavy-mars-launch-elon-musk/)
- - [Twitch announces a program in which DJs can use copyrighted music in streams by paying a fee; Twitch signed deals with UMG, WMG, Sony Music and indie labels &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/240606/p30#a240606p30)
- - [Grubhub now delivers Starbucks, too](https://www.theverge.com/2024/6/6/24172863/grubhub-starbucks-food-delivery-apps)<!-- TECH:END -->
+ - [Netflix’s latest redesign aims to simplify your homepage](https://www.theverge.com/2024/6/6/24172351/netflix-redesign-homepage-experience-test)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

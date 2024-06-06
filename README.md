@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Try to act surprised and don&#39;t laugh &lpar;too much&rpar;](http://9gag.com/gag/aPA41XV)
- - 😝 [Respect for this guard](http://9gag.com/gag/aD23XyN)
- - 💣 [A devoted \u271d\ufe0f police officer unlived, and the state invited Muslim imams to pray at the officer\u2019s memorial and recite the Quran. Humiliation at its finest.](http://9gag.com/gag/aGywABZ)
- - 😝 [Fire. In space. That&#39;s everything you need to know about the new &#39;Star Wars&#39; series directed by a woke female director.](http://9gag.com/gag/an7KDx0)
- - 👉 [A poor young girl being forced to sign a marriage certificate to an older man.](http://9gag.com/gag/a0eLn0q)<!-- MEMES:END -->
+ - 😝 [A devoted \u271d\ufe0f police officer unlived, and the state invited Muslim imams to pray at the officer\u2019s memorial and recite the Quran. Humiliation at its finest.](http://9gag.com/gag/aGywABZ)
+ - 😝 [Air Canada. Engine compressor stall on takeoff.](http://9gag.com/gag/aAyrv6o)
+ - 💣 [Don&#39;t give up guys](http://9gag.com/gag/aD23Q3B)
+ - 😝 [F*cking legend](http://9gag.com/gag/a9yL2Vm)
+ - 👉 [Very ouch.](http://9gag.com/gag/aLnPWMx)<!-- MEMES:END -->
 
 ---
 

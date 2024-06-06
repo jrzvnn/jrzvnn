@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Parent lets her kids ruin a piano set performance](http://9gag.com/gag/axyZO9K)
- - 😝 [This is not a election, this is Hunger games irl](http://9gag.com/gag/a0eL0yL)
- - 💣 [F*cking legend](http://9gag.com/gag/a9yL2Vm)
- - 😝 [It&#39;s fun for like the first two weeks.](http://9gag.com/gag/a9yL590)
- - 👉 [Hiking accident, two people missing](http://9gag.com/gag/aMVrP5P)<!-- MEMES:END -->
+ - 😝 [\u201cIf you can\u2019t handle me at my 15 man bukake then you don\u2019t deserve me and my after work kiss.\u201d -Riley Reid probably](http://9gag.com/gag/aGywMOn)
+ - 😝 [Hiking accident, two people missing](http://9gag.com/gag/aMVrP5P)
+ - 💣 [Parent lets her kids ruin a piano set performance](http://9gag.com/gag/axyZO9K)
+ - 😝 [Aunt May I?](http://9gag.com/gag/aBy3PMZ)
+ - 👉 [It&#39;s fun for like the first two weeks.](http://9gag.com/gag/a9yL590)<!-- MEMES:END -->
 
 ---
 

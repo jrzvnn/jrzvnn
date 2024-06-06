@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon acquires key assets of Indian video streaming service MX Player; a source says the deal values the streamer at $100M, below its $500M valuation in 2019 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240606/p20#a240606p20)
- - [Learning to Live With Google&#39;s AI Overviews](https://www.wired.com/story/gadget-lab-podcast-646/)
- - [It’s Nerf darts or nothing for these slick new blasters](https://www.theverge.com/2024/6/6/24172656/nerf-n-series-blasters-darts-price-release-date)
- - [The US doesn’t make bicycles anymore — here’s how to change that](https://www.theverge.com/2024/6/6/24172279/us-bicycle-ebike-tariffs-manufacturing-blumenauer-bill)
- - [Watch SpaceX launch its fourth Starship flight test](https://www.theverge.com/2024/6/6/24172677/spacex-starship-fourth-flight-test-launch-window-livestream)<!-- TECH:END -->
+ - [Core Scientific rejects CoreWeave&#39;s $1B buyout offer, worth $5.75 per share, saying the deal undervalues the company; CORZ had jumped ~40% on the buyout news &lpar;Parikshit Mishra/CoinDesk&rpar;](http://www.techmeme.com/240606/p21#a240606p21)
+ - [The Bose QuietComfort Ultra Earbuds are on sale for an all-time low of $239](https://www.theverge.com/2024/6/6/24172359/bose-quietcomfort-ultra-earbuds-super-mario-rpg-deal-sale)
+ - [Humane is reportedly trying to sell itself to HP for $1 billion](https://www.theverge.com/2024/6/6/24172718/humane-ai-pin-selling-hp-rumor-1-billion)
+ - [Watch SpaceX launch its fourth Starship flight test](https://www.theverge.com/2024/6/6/24172677/spacex-starship-fourth-flight-test-launch-window-livestream)
+ - [Eargo Link Review: Basic Hearing Aids That Are Too Pricey](https://www.wired.com/review/eargo-link/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

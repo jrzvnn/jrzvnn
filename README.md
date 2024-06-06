@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US FTC opens an antitrust probe of Microsoft&#39;s deal with Inflection AI that included hiring Mustafa Suleyman and paying $650M to resell Inflection&#39;s tech &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240606/p1#a240606p1)
  - [Which States Have Community Solar? Find Out Here     - CNET](https://www.cnet.com/home/energy-and-utilities/which-states-have-community-solar-find-out-here/#ftag=CAD590a51e)
  - [Mistral introduces AI model customization options, including an SDK for fine-tuning its models on workstations, servers, and small data center nodes &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240605/p38#a240605p38)
  - [What Is a Heat Pump Water Heater?     - CNET](https://www.cnet.com/how-to/what-is-a-heat-pump-water-heater/#ftag=CAD590a51e)
- - [Sources detail how Apple fell behind in the AI race due to its AI team struggling to collaborate with other product teams, lacking computing resources, and more &lpar;Aaron Tilley/Wall Street Journal&rpar;](http://www.techmeme.com/240605/p37#a240605p37)
- - [Samsung Adds Smaller but Still Pricey microLED TV Offerings Starting at $110,000     - CNET](https://www.cnet.com/tech/home-entertainment/samsung-adds-smaller-but-still-pricey-microled-tv-offerings-starting-at-110000/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources detail how Apple fell behind in the AI race due to its AI team struggling to collaborate with other product teams, lacking computing resources, and more &lpar;Aaron Tilley/Wall Street Journal&rpar;](http://www.techmeme.com/240605/p37#a240605p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

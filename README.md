@@ -163,10 +163,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [NY AG sues crypto companies AWS Mining and NovaTechFX for allegedly operating pyramid schemes that targeted Haitian immigrants and bilked investors out of $1B+ &lpar;Cheyenne Ligon/CoinDesk&rpar;](http://www.techmeme.com/240606/p39#a240606p39)
- - [Apple might reveal a new ‘Passwords’ app next week](https://www.theverge.com/2024/6/6/24173202/apple-password-manager-rumor-1password-lastpass)
- - [Oral-B Sold a $230 Alexa Toothbrush—and Then Pulled the Plug](https://www.wired.com/story/oral-b-guide-alexa-app-brick/)
- - [iOS 18 to debut Apple Passwords app](https://appleinsider.com/articles/24/06/06/ios-18-to-debut-apple-passwords-app?utm_medium=rss)
- - [Seven Samurai is in 4K](https://www.theverge.com/2024/6/6/24173127/seven-samurai-4k-restoration-theatrical-release)<!-- TECH:END -->
+ - [Best Vacuum Deals: Save Up to $200 Across Dyson, Shark, Roomba and More     - CNET](https://www.cnet.com/deals/best-vacuum-deals-right-now-dyson-bissell-roomba-and-more/#ftag=CAD590a51e)
+ - [These Kitchen Organizers Will Give You Miles of Extra Counter Space     - CNET](https://www.cnet.com/how-to/these-kitchen-organizers-will-give-you-miles-of-more-counter-space/#ftag=CAD590a51e)
+ - [Best 3D Printer Deals: FDM, Resin and All the Accessories You Need at a Cheap Price     - CNET](https://www.cnet.com/deals/best-3d-printer-deals/#ftag=CAD590a51e)
+ - [Apple might reveal a new ‘Passwords’ app next week](https://www.theverge.com/2024/6/6/24173202/apple-password-manager-rumor-1password-lastpass)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

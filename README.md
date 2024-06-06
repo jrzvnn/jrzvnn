@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple might reveal a new ‘Passwords’ app next week](https://www.theverge.com/2024/6/6/24173202/apple-password-manager-rumor-1password-lastpass)
+ - [Oral-B Sold a $230 Alexa Toothbrush—and Then Pulled the Plug](https://www.wired.com/story/oral-b-guide-alexa-app-brick/)
+ - [iOS 18 to debut Apple Passwords app](https://appleinsider.com/articles/24/06/06/ios-18-to-debut-apple-passwords-app?utm_medium=rss)
  - [Seven Samurai is in 4K](https://www.theverge.com/2024/6/6/24173127/seven-samurai-4k-restoration-theatrical-release)
- - [Sources: Apple plans a dedicated Passwords app in iOS 18 and macOS 15, powered by the iCloud Keychain; Apple will let users import passwords from rival services &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240606/p38#a240606p38)
- - [US National Security Experts Warn AI Giants Aren&#39;t Doing Enough to Protect Their Secrets](https://www.wired.com/story/national-security-experts-warn-ai-giants-secrets/)
- - [eBay will no longer accept American Express cards over ‘unacceptably high’ fees](https://www.theverge.com/2024/6/6/24173108/ebay-american-express-payment-fees)
- - [Sources: Kraken seeks to raise $100M+ in a pre-IPO round; the crypto exchange&#39;s previous attempts to go public were thwarted in part by a dispute with the SEC &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/240606/p37#a240606p37)<!-- TECH:END -->
+ - [Sources: Apple plans a dedicated Passwords app in iOS 18 and macOS 15, powered by the iCloud Keychain; Apple will let users import passwords from rival services &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240606/p38#a240606p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

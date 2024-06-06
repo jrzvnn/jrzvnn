@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The bearings in Walmart skateboards for kids.](http://9gag.com/gag/aAyr2qL)
- - 😝 [Parent lets her kids ruin a piano set performance](http://9gag.com/gag/axyZO9K)
- - 💣 [Aunt May I?](http://9gag.com/gag/aBy3PMZ)
- - 😝 [F*cking legend](http://9gag.com/gag/a9yL2Vm)
- - 👉 [Oh yes the classic society](http://9gag.com/gag/a9yLOpZ)<!-- MEMES:END -->
+ - 😝 [Last moment of Kabosu. The meme dog](http://9gag.com/gag/a9yLOXD)
+ - 😝 [He was saved by those last two words](http://9gag.com/gag/ae902gp)
+ - 💣 [And\u2026 we\u2019re done with the cottage cheese sandwich](http://9gag.com/gag/aPA4Xpq)
+ - 😝 [Based cat.](http://9gag.com/gag/aW4WDOq)
+ - 👉 [Rage against the Mother](http://9gag.com/gag/a9yLX6D)<!-- MEMES:END -->
 
 ---
 

@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is 100% how dating a latina looks like](http://9gag.com/gag/a343b08)
- - 😝 [Rage against the Mother](http://9gag.com/gag/a9yLX6D)
- - 💣 [Based cat.](http://9gag.com/gag/aW4WDOq)
- - 😝 [Based](http://9gag.com/gag/avygdN5)
- - 👉 [Is that a frostmourne](http://9gag.com/gag/axyZR8W)<!-- MEMES:END -->
+ - 😝 [The bearings in Walmart skateboards for kids.](http://9gag.com/gag/aAyr2qL)
+ - 😝 [Hypergamy](http://9gag.com/gag/aoy0Lex)
+ - 💣 [This is 100% how dating a latina looks like](http://9gag.com/gag/a343b08)
+ - 😝 [Oh yes the classic society](http://9gag.com/gag/a9yLOpZ)
+ - 👉 [Bad Boys 4 behind the scenes](http://9gag.com/gag/a2vYywZ)<!-- MEMES:END -->
 
 ---
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google rolls out its Gemini-powered note-taking assistant NotebookLM to 200+ new countries, including Brazil and the UK, and adds Slides and web URLs as sources &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/240606/p18#a240606p18)
  - [Robinhood plans to acquire crypto exchange Bitstamp for $200M, in a deal expected to close in H1 2025, and says Bitstamp will still operate under its own brand &lpar;Caitlin Ostroff/Wall Street Journal&rpar;](http://www.techmeme.com/240606/p17#a240606p17)
  - [Apple WWDC 2024: What to Expect for Software and Hardware](https://www.wired.com/story/apple-wwdc-2024-what-to-expect/)
  - [Google makes its note-taking AI NotebookLM more useful](https://www.theverge.com/2024/6/6/24172422/google-notebooklm-ai-gemini-pro-chatbot)
- - [A look back at Sam Altman&#39;s career, starting as Loopt CEO before moving to YC and founding OpenAI in 2015, as many former allies now view his charm as duplicity &lpar;Ellen Huet/Bloomberg&rpar;](http://www.techmeme.com/240606/p16#a240606p16)
- - [Sources: as Humane&#39;s Ai Pin flopped, with just ~10,000 orders by early April, the startup started talking to HP about a $1B+ sale; Humane has raised $240M &lpar;New York Times&rpar;](http://www.techmeme.com/240606/p15#a240606p15)<!-- TECH:END -->
+ - [A look back at Sam Altman&#39;s career, starting as Loopt CEO before moving to YC and founding OpenAI in 2015, as many former allies now view his charm as duplicity &lpar;Ellen Huet/Bloomberg&rpar;](http://www.techmeme.com/240606/p16#a240606p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

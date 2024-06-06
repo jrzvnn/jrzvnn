@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An analysis finds 90K+ images of popular anime characters on generative AI image sharing sites; ~2.5K images had multiple similarities to the original artwork &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240606/p3#a240606p3)
  - [Sources: the US DOJ will take the lead in investigating whether Nvidia has violated antitrust laws; the FTC will lead the inquiries into OpenAI and Microsoft &lpar;David McCabe/New York Times&rpar;](http://www.techmeme.com/240606/p2#a240606p2)
  - [The US FTC opens an antitrust probe of Microsoft&#39;s deal with Inflection AI that included hiring Mustafa Suleyman and paying $650M to resell Inflection&#39;s tech &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240606/p1#a240606p1)
  - [Which States Have Community Solar? Find Out Here     - CNET](https://www.cnet.com/home/energy-and-utilities/which-states-have-community-solar-find-out-here/#ftag=CAD590a51e)
- - [Mistral introduces AI model customization options, including an SDK for fine-tuning its models on workstations, servers, and small data center nodes &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240605/p38#a240605p38)
- - [What Is a Heat Pump Water Heater?     - CNET](https://www.cnet.com/how-to/what-is-a-heat-pump-water-heater/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mistral introduces AI model customization options, including an SDK for fine-tuning its models on workstations, servers, and small data center nodes &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240605/p38#a240605p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

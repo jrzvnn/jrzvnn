@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Telegram launches Stars, a new in-app currency for the purchase of digital goods and services in Telegram mini apps; developers can convert Stars into TON &lpar;Sander Lutz/Decrypt&rpar;](http://www.techmeme.com/240606/p40#a240606p40)
  - [Score the Belkin BoostCharge 4-Port Extender for $20 on Amazon     - CNET](https://www.cnet.com/deals/score-the-belkin-boostcharge-4-port-extender-for-20-on-amazon/#ftag=CAD590a51e)
  - [Want to Be a Happy Internet Customer? Go Wireless, Says New Survey     - CNET](https://www.cnet.com/home/internet/want-to-be-a-happy-internet-customer-go-wireless-says-new-survey/#ftag=CAD590a51e)
  - [How to Fix the Worst Part of Your Microwave: The Beeping     - CNET](https://www.cnet.com/home/kitchen-and-household/how-to-fix-the-worst-part-of-your-microwave-the-beeping/#ftag=CAD590a51e)
- - [Best Flashlight for 2024     - CNET](https://www.cnet.com/news/best-flashlight/#ftag=CAD590a51e)
- - [Join CNET&#39;s Live WWDC 2024 Watch Party: All the Expected iOS 18 and AI Reveals     - CNET](https://www.cnet.com/tech/mobile/join-cnets-live-wwdc-2024-watch-party-all-the-expected-ios-18-and-ai-reveals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Flashlight for 2024     - CNET](https://www.cnet.com/news/best-flashlight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

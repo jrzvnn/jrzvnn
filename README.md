@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Get a Thunderbolt dock with 1TB of fast storage for your Mac for $129.99 today](https://appleinsider.com/articles/24/06/07/get-a-thunderbolt-dock-with-1tb-of-fast-storage-for-your-mac-for-12999-today?utm_medium=rss)
+ - [Google Gemini and Microsoft&#39;s Copilot won&#39;t return results on any elections globally or historical US elections, and refuse to confirm that Biden won in 2020 &lpar;David Gilbert/Wired&rpar;](http://www.techmeme.com/240607/p16#a240607p16)
  - [Meta rolls out standalone Messenger group chats](https://www.theverge.com/2024/6/7/24173785/messenger-communities-chats-facebook)
  - [NYC’s Congestion Pricing Should Have Been the Future](https://www.wired.com/story/new-york-city-congestion-pricing-should-have-been-the-future/)
- - [Roaring Kitty Is Playing With Fire](https://www.wired.com/story/roaring-kitty-is-playing-with-fire/)
- - [The 7-inch MSI Claw will get Lunar Lake, too — and Claw 2, Claw 3, Claw 4 are coming](https://www.theverge.com/2024/6/7/24173763/msi-claw-7-lunar-lake-roadmap-claw-2-claw-3-claw-4)
- - [This Company Says Its Solar Cell is 33% Efficient, But Don&#39;t Expect to See It on Your House     - CNET](https://www.cnet.com/home/energy-and-utilities/this-company-says-its-solar-cell-is-33-efficient-but-dont-expect-to-see-it-on-your-house/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Roaring Kitty Is Playing With Fire](https://www.wired.com/story/roaring-kitty-is-playing-with-fire/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

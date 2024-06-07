@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Take a look at the Miss Poland contestants. Noticing anything?](http://9gag.com/gag/aqyNdjR)
- - 😝 [Title](http://9gag.com/gag/aqyNDAR)
- - 💣 [Sexy Austrian accent](http://9gag.com/gag/ae90WBQ)
- - 😝 [Oh yes the classic society](http://9gag.com/gag/a9yLOpZ)
- - 👉 [Pebbles got some pebbles](http://9gag.com/gag/ayN0zbX)<!-- MEMES:END -->
+ - 😝 [Nostalgia + Upgrade](http://9gag.com/gag/aYQWAQw)
+ - 😝 [Help your neighbour &#39;till it hurts](http://9gag.com/gag/ae90REW)
+ - 💣 [He was indeed in Floridugh\u2026](http://9gag.com/gag/aKGPKWg)
+ - 😝 [Pebbles got some pebbles](http://9gag.com/gag/ayN0zbX)
+ - 👉 [Trying to steal the tip jar, bro should get a promotion.](http://9gag.com/gag/apR0jBb)<!-- MEMES:END -->
 
 ---
 

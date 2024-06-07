@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft explains how its DLSS competitor uses AI to improve any game](https://www.theverge.com/2024/6/7/24173474/microsoft-windows-auto-super-resolution-sr-dlss-gaming)
+ - [An AI Cartoon May Interview You for Your Next Job](https://www.wired.com/story/ai-cartoon-next-job/)
  - [Over a dozen video game professionals discuss the Summer Game Fest, amid concerns about the event&#39;s high entry fees, opaqueness, celebritization, and more &lpar;Adam Morgan/Esquire&rpar;](http://www.techmeme.com/240607/p3#a240607p3)
  - [A website for cybercriminals lists 500+ allegedly stolen Snowflake customer credentials, including for environments belonging to Santander and Ticketmaster &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240607/p2#a240607p2)
- - [US VC firms are putting pressure on tech startups to ask their Chinese backers to divest as VCs anticipate tighter controls on foreign ownership from Washington &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/240607/p1#a240607p1)
- - [Boston-based Seven AI, which uses AI to help companies combat cyberattacks, emerged from stealth and raised $36M led by Greylock at a ~$100M valuation &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240606/p46#a240606p46)
- - [How to emulate the original PlayStation and Nintendo 64 on Mac](https://appleinsider.com/inside/apple-silicon/tips/how-to-emulate-the-original-playstation-and-nintendo-64-on-mac?utm_medium=rss)<!-- TECH:END -->
+ - [US VC firms are putting pressure on tech startups to ask their Chinese backers to divest as VCs anticipate tighter controls on foreign ownership from Washington &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/240607/p1#a240607p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

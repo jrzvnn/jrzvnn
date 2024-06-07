@@ -162,10 +162,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Signia Silk 7X Review: Fuss-Free, Super Expensive Hearing Aids](https://www.wired.com/review/signia-silk-7x/)
  - [What to expect at WWDC 2024: plans to integrate AI into its apps with a new opt-in service called Apple Intelligence, iOS 18, macOS 15, visionOS 2, and more &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240607/p5#a240607p5)
  - [The World’s Largest Fungarium May Unlock the Mysteries of Carbon Capture](https://www.wired.com/story/mushrooms-fungi-carbon-capture-kew/)
  - [No, Drake&#39;s Cover of &#39;Hey There Delilah&#39; Isn&#39;t AI](https://www.wired.com/story/drake-plain-white-ts-ai-wah-gwan-delilah/)
- - [WWDC 2024 Is Just Days Away and We Found Easter Eggs in Apple&#39;s Invite     - CNET](https://www.cnet.com/tech/mobile/wwdc-2024-is-just-days-away-and-we-found-easter-eggs-in-apples-invite/#ftag=CAD590a51e)
  - [Apple hosts an industry program for students from historically Black colleges and universities](https://appleinsider.com/articles/24/06/07/apple-hosts-an-industry-program-for-students-from-historically-black-colleges-and-universities?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good for her](http://9gag.com/gag/aXPpdjg)
+ - 😝 [Great game](http://9gag.com/gag/apR08V8)
  - 😝 [He was indeed in Floridugh\u2026](http://9gag.com/gag/aKGPKWg)
- - 💣 [Air Canada. Engine compressor stall on takeoff.](http://9gag.com/gag/aAyrv6o)
- - 😝 [Witch!](http://9gag.com/gag/azxEB2m)
- - 👉 [Muh Weed!](http://9gag.com/gag/abAy2O9)<!-- MEMES:END -->
+ - 💣 [Good for her](http://9gag.com/gag/aXPpdjg)
+ - 😝 [Take a look at the Miss Poland contestants. Noticing anything?](http://9gag.com/gag/aqyNdjR)
+ - 👉 [Air Canada. Engine compressor stall on takeoff.](http://9gag.com/gag/aAyrv6o)<!-- MEMES:END -->
 
 ---
 

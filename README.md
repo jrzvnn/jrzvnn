@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Excel finals](http://9gag.com/gag/a6ZyjOb)
  - 😝 [Great game](http://9gag.com/gag/apR08V8)
- - 💣 [Bad Boys of Bahia, Brazil. They look like....](http://9gag.com/gag/awyKYNr)
- - 😝 [Air Canada. Engine compressor stall on takeoff.](http://9gag.com/gag/aAyrv6o)
- - 👉 [Muh Weed!](http://9gag.com/gag/abAy2O9)<!-- MEMES:END -->
+ - 😝 [Sexy Austrian accent](http://9gag.com/gag/ae90WBQ)
+ - 💣 [She couldn&#39;t enjoy her pizza after a long day.](http://9gag.com/gag/aNDZOVG)
+ - 😝 [Good for her](http://9gag.com/gag/aXPpdjg)
+ - 👉 [Tatoo removal](http://9gag.com/gag/aD23X2x)<!-- MEMES:END -->
 
 ---
 

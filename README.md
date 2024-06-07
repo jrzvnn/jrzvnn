@@ -171,10 +171,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Very ouch.](http://9gag.com/gag/aLnPWMx)
- - 😝 [Air Canada. Engine compressor stall on takeoff.](http://9gag.com/gag/aAyrv6o)
+ - 😝 [Activities](http://9gag.com/gag/a5QPD0N)
+ - 😝 [Google `Centennial Olympic Park bombing`](http://9gag.com/gag/a4PdwXA)
  - 💣 [F*cking legend](http://9gag.com/gag/a9yL2Vm)
- - 😝 [Title](http://9gag.com/gag/aqyNDAR)
+ - 😝 [Great game](http://9gag.com/gag/apR08V8)
  - 👉 [Tatoo removal](http://9gag.com/gag/aD23X2x)<!-- MEMES:END -->
 
 ---

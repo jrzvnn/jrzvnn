@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/aqyNDAR)
- - 😝 [Fire. In space. That&#39;s everything you need to know about the new &#39;Star Wars&#39; series directed by a woke female director.](http://9gag.com/gag/an7KDx0)
- - 💣 [Air Canada. Engine compressor stall on takeoff.](http://9gag.com/gag/aAyrv6o)
- - 😝 [The bearings in Walmart skateboards for kids.](http://9gag.com/gag/aAyr2qL)
- - 👉 [Title](http://9gag.com/gag/azxEYpN)<!-- MEMES:END -->
+ - 😝 [The Venom horse goes crazy](http://9gag.com/gag/aNDZRz6)
+ - 😝 [The mental state of Germany](http://9gag.com/gag/a6ZyG2m)
+ - 💣 [Whoever posted this in first place; I want to thank you. Everybody needs to know.](http://9gag.com/gag/a0eLEeB)
+ - 😝 [Title](http://9gag.com/gag/azxEYpN)
+ - 👉 [Major Hut Life](http://9gag.com/gag/aYQW1Kq)<!-- MEMES:END -->
 
 ---
 

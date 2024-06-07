@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok is testing a streaks feature, which has become a status symbol on Snapchat, with select users in limited markets in order to increase engagement &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240606/p44#a240606p44)
  - [The National Samsung Electronics Union, which has ~28,400 workers, goes on a strike for the first time in the company&#39;s history for one day over a pay dispute &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/240606/p43#a240606p43)
- - [Confidence in a Cream Set     - CNET](https://www.cnet.com/health/personal-care/confidence-in-a-cream-set-dpnl/#ftag=CAD590a51e)
- - [Best Phone to Buy for 2024     - CNET](https://www.cnet.com/tech/mobile/best-phone/#ftag=CAD590a51e)
- - [Microsoft&#39;s Recall Feature Is Even More Hackable Than You Thought](https://www.wired.com/story/microsoft-windows-recall-privilege-escalation/)
- - [Amazon&#39;s best Apple Studio Display deal is back at $1,299.99](https://appleinsider.com/articles/24/06/07/amazons-best-apple-studio-display-deal-is-back-at-129999?utm_medium=rss)<!-- TECH:END -->
+ - [WEN Intensive Treatment Oil     - CNET](https://www.cnet.com/health/personal-care/wen-intensive-treatment-oil-dpnl/#ftag=CAD590a51e)
+ - [Best Camera Phone of 2024     - CNET](https://www.cnet.com/tech/mobile/best-camera-phone/#ftag=CAD590a51e)
+ - [Confidence in a Cream Set     - CNET](https://www.cnet.com/health/personal-care/confidence-in-a-cream-set-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

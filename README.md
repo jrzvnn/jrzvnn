@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iOS 18 to debut Apple Passwords app](https://appleinsider.com/articles/24/06/06/ios-18-to-debut-apple-passwords-app?utm_medium=rss)
+ - [How to emulate the original PlayStation and Nintendo 64 on Mac](https://appleinsider.com/inside/apple-silicon/tips/how-to-emulate-the-original-playstation-and-nintendo-64-on-mac?utm_medium=rss)
  - [The British Independent Retailers Association files a &amp;pound;1.1B lawsuit against Amazon for allegedly misusing members&#39; proprietary data for competitive purposes &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240607/p10#a240607p10)
  - [10 Best Beard Trimmers &lpar;2024&rpar;: Full Beard, Stubble, Body](https://www.wired.com/gallery/best-beard-trimmers/)
- - [‘Apple Intelligence’ will automatically choose between on-device and cloud-powered AI](https://www.theverge.com/2024/6/7/24173528/apple-intelligence-ai-features-openai-chatbot)
- - [Apple’s AI moment is coming](https://www.theverge.com/24173538/apple-wwdc-2024-ai-siri-vergecast)
- - [An ex-AWS worker says Amazon breached UK sanctions by providing the Russian company VisionLabs with its facial recognition tech after Russia&#39;s Ukraine invasion &lpar;Financial Times&rpar;](http://www.techmeme.com/240607/p9#a240607p9)<!-- TECH:END -->
+ - [‘Apple Intelligence’ will automatically choose between on-device and cloud-powered AI](https://www.theverge.com/2024/6/7/24173528/apple-intelligence-ai-features-openai-chatbot)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

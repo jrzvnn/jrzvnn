@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh yes the classic society](http://9gag.com/gag/a9yLOpZ)
+ - 😝 [Excel finals](http://9gag.com/gag/a6ZyjOb)
  - 😝 [Great game](http://9gag.com/gag/apR08V8)
- - 💣 [Witch!](http://9gag.com/gag/azxEB2m)
- - 😝 [Good for her](http://9gag.com/gag/aXPpdjg)
- - 👉 [Air Canada. Engine compressor stall on takeoff.](http://9gag.com/gag/aAyrv6o)<!-- MEMES:END -->
+ - 💣 [Bad Boys of Bahia, Brazil. They look like....](http://9gag.com/gag/awyKYNr)
+ - 😝 [Air Canada. Engine compressor stall on takeoff.](http://9gag.com/gag/aAyrv6o)
+ - 👉 [Muh Weed!](http://9gag.com/gag/abAy2O9)<!-- MEMES:END -->
 
 ---
 

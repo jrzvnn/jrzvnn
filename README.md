@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nostalgia + Upgrade](http://9gag.com/gag/aYQWAQw)
- - 😝 [Help your neighbour &#39;till it hurts](http://9gag.com/gag/ae90REW)
- - 💣 [He was indeed in Floridugh\u2026](http://9gag.com/gag/aKGPKWg)
- - 😝 [Pebbles got some pebbles](http://9gag.com/gag/ayN0zbX)
- - 👉 [Trying to steal the tip jar, bro should get a promotion.](http://9gag.com/gag/apR0jBb)<!-- MEMES:END -->
+ - 😝 [This is 100% how dating a latina looks like](http://9gag.com/gag/a343b08)
+ - 😝 [Yaaay Let&#39;s Mix Oil With Water](http://9gag.com/gag/aGywbQ0)
+ - 💣 [Title](http://9gag.com/gag/azxEYpN)
+ - 😝 [Big Brain Moment](http://9gag.com/gag/aqyNYjY)
+ - 👉 [He was indeed in Floridugh\u2026](http://9gag.com/gag/aKGPKWg)<!-- MEMES:END -->
 
 ---
 

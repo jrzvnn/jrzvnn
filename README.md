@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m being honest](http://9gag.com/gag/ayN0ROp)
- - 😝 [Rapeugees welcome!](http://9gag.com/gag/abAy2Gb)
- - 💣 [Very ouch.](http://9gag.com/gag/aLnPWMx)
- - 😝 [Fire. In space. That&#39;s everything you need to know about the new &#39;Star Wars&#39; series directed by a woke female director.](http://9gag.com/gag/an7KDx0)
- - 👉 [He&#39;s hearing popping sounds](http://9gag.com/gag/amo0MEd)<!-- MEMES:END -->
+ - 😝 [Suffered for mankind](http://9gag.com/gag/adBYeAD)
+ - 😝 [Trying is not torture...](http://9gag.com/gag/aGywAm0)
+ - 💣 [I&#39;m being honest](http://9gag.com/gag/ayN0ROp)
+ - 😝 [I\u2018ve seen many memes but this.. this put a smile on my face](http://9gag.com/gag/amo0MK4)
+ - 👉 [Tatoo removal](http://9gag.com/gag/aD23X2x)<!-- MEMES:END -->
 
 ---
 

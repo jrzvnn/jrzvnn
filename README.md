@@ -171,10 +171,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Oh yes the classic society](http://9gag.com/gag/a9yLOpZ)
  - 😝 [Great game](http://9gag.com/gag/apR08V8)
- - 😝 [He was indeed in Floridugh\u2026](http://9gag.com/gag/aKGPKWg)
- - 💣 [Good for her](http://9gag.com/gag/aXPpdjg)
- - 😝 [Take a look at the Miss Poland contestants. Noticing anything?](http://9gag.com/gag/aqyNdjR)
+ - 💣 [Witch!](http://9gag.com/gag/azxEB2m)
+ - 😝 [Good for her](http://9gag.com/gag/aXPpdjg)
  - 👉 [Air Canada. Engine compressor stall on takeoff.](http://9gag.com/gag/aAyrv6o)<!-- MEMES:END -->
 
 ---

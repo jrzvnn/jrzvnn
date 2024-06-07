@@ -164,9 +164,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Source: Harvey, which builds generative AI tools for law firms, is in talks to raise $600M at a $2B+ valuation and mulls buying legal research company vLex &lpar;The Information&rpar;](http://www.techmeme.com/240607/p20#a240607p20)
  - [Valorant is finally coming to consoles](https://www.theverge.com/2024/6/7/24173544/valorant-ps5-xbox-release-date-riot)
+ - [Alan Wake II DLC, Night Springs, Will Be Available June 8     - CNET](https://www.cnet.com/tech/gaming/alan-wake-ii-dlc-night-springs-will-be-available-june-8/#ftag=CAD590a51e)
  - [The future of the smart kitchen: robots, apps, and AI, oh my!](https://www.theverge.com/24173645/smart-kitchen-summit-gadgets-apps-future)
- - [Here’s our first look at the Among Us animated series](https://www.theverge.com/24172053/among-us-animated-series-trailer-summer-game-fest)
- - [Google’s $2.3 million check helped the company get a trial by judge instead of jury](https://www.theverge.com/2024/6/7/24173981/google-ad-monopoly-antitrust-lawsuit-damages)<!-- TECH:END -->
+ - [Here’s our first look at the Among Us animated series](https://www.theverge.com/24172053/among-us-animated-series-trailer-summer-game-fest)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

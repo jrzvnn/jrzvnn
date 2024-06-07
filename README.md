@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 7-inch MSI Claw will get Lunar Lake, too — and Claw 2, Claw 3, Claw 4 are coming](https://www.theverge.com/2024/6/7/24173763/msi-claw-7-lunar-lake-roadmap-claw-2-claw-3-claw-4)
  - [The Verge’s 2024 Father’s Day gift guide](https://www.theverge.com/24153276/best-fathers-day-gift-ideas-2024-dad-tech-gadgets)
  - [The Best Hearing Aids of 2024, Reviewed by Experts](https://www.wired.com/gallery/best-hearing-aids/)
  - [LinkedIn will no longer allow advertisers to target EU users based on data obtained from their participation in LinkedIn Groups, following a complaint to the EU &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240607/p15#a240607p15)
- - [TikTok says it has fixed a vulnerability that allowed user accounts to be hijacked after clicking on a malware-laced DM &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/240607/p14#a240607p14)
- - [Master Coding With This 2024 Python Certification for Only $20     - CNET](https://www.cnet.com/deals/master-coding-with-this-2024-python-certification-for-only-20/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [TikTok says it has fixed a vulnerability that allowed user accounts to be hijacked after clicking on a malware-laced DM &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/240607/p14#a240607p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

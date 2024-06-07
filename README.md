@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He was indeed in Floridugh\u2026](http://9gag.com/gag/aKGPKWg)
- - 😝 [Air Canada. Engine compressor stall on takeoff.](http://9gag.com/gag/aAyrv6o)
- - 💣 [Title](http://9gag.com/gag/azxEYpN)
- - 😝 [Heroes of highways.](http://9gag.com/gag/aO8bP62)
- - 👉 [I&#39;m being honest](http://9gag.com/gag/ayN0ROp)<!-- MEMES:END -->
+ - 😝 [Witty sound on](http://9gag.com/gag/axyZAop)
+ - 😝 [Make sure to save it and never watch it again.](http://9gag.com/gag/ayN0PEq)
+ - 💣 [The Waifu in the Cupboard](http://9gag.com/gag/a343nbe)
+ - 😝 [Good for her](http://9gag.com/gag/aXPpdjg)
+ - 👉 [Before passing away to illness, his best friend recorded his best man speech to be a part of their big day](http://9gag.com/gag/a2vYOed)<!-- MEMES:END -->
 
 ---
 

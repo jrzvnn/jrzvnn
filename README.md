@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [‘Apple Intelligence’ will automatically choose between on-device and cloud-powered AI](https://www.theverge.com/2024/6/7/24173528/apple-intelligence-ai-features-openai-chatbot)
+ - [Apple’s AI moment is coming](https://www.theverge.com/24173538/apple-wwdc-2024-ai-siri-vergecast)
  - [An ex-AWS worker says Amazon breached UK sanctions by providing the Russian company VisionLabs with its facial recognition tech after Russia&#39;s Ukraine invasion &lpar;Financial Times&rpar;](http://www.techmeme.com/240607/p9#a240607p9)
  - [Don’t Let Mistrust of Tech Companies Blind You to the Power of AI](https://www.wired.com/story/dont-let-mistrust-of-tech-companies-blind-you-power-of-ai/)
- - [What to expect at Apple’s WWDC 2024](https://www.theverge.com/24172139/wwdc-2024-what-to-expect-news-rumors)
- - [PowerSchool, which provides software that helps educational institutions manage operations, is being taken private by Bain Capital in a $5.6B deal &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240607/p8#a240607p8)
- - [In depth with iPad Air, iPad Pro and the future of iPadOS on the AppleInsider podcast](https://appleinsider.com/articles/24/06/07/in-depth-with-ipad-air-ipad-pro-and-the-future-of-ipados-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [What to expect at Apple’s WWDC 2024](https://www.theverge.com/24172139/wwdc-2024-what-to-expect-news-rumors)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

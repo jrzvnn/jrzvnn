@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Good for her](http://9gag.com/gag/aXPpdjg)
  - 😝 [Very ouch.](http://9gag.com/gag/aLnPWMx)
- - 😝 [Major Hut Life](http://9gag.com/gag/aYQW1Kq)
- - 💣 [Before passing away to illness, his best friend recorded his best man speech to be a part of their big day](http://9gag.com/gag/a2vYOed)
- - 😝 [Title](http://9gag.com/gag/azxEYpN)
- - 👉 [Fire. In space. That&#39;s everything you need to know about the new &#39;Star Wars&#39; series directed by a woke female director.](http://9gag.com/gag/an7KDx0)<!-- MEMES:END -->
+ - 💣 [Tatoo removal](http://9gag.com/gag/aD23X2x)
+ - 😝 [Don&#39;t give up guys](http://9gag.com/gag/aD23Q3B)
+ - 👉 [Air Canada. Engine compressor stall on takeoff.](http://9gag.com/gag/aAyrv6o)<!-- MEMES:END -->
 
 ---
 

@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Last moment of Kabosu. The meme dog](http://9gag.com/gag/a9yLOXD)
- - 😝 [Title](http://9gag.com/gag/azxEYpN)
- - 💣 [This is 100% how dating a latina looks like](http://9gag.com/gag/a343b08)
- - 😝 [Air Canada. Engine compressor stall on takeoff.](http://9gag.com/gag/aAyrv6o)
- - 👉 [The bearings in Walmart skateboards for kids.](http://9gag.com/gag/aAyr2qL)<!-- MEMES:END -->
+ - 😝 [I&#39;m being honest](http://9gag.com/gag/ayN0ROp)
+ - 😝 [Rapeugees welcome!](http://9gag.com/gag/abAy2Gb)
+ - 💣 [Very ouch.](http://9gag.com/gag/aLnPWMx)
+ - 😝 [Fire. In space. That&#39;s everything you need to know about the new &#39;Star Wars&#39; series directed by a woke female director.](http://9gag.com/gag/an7KDx0)
+ - 👉 [He&#39;s hearing popping sounds](http://9gag.com/gag/amo0MEd)<!-- MEMES:END -->
 
 ---
 

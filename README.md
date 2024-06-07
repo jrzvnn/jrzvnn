@@ -172,10 +172,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Good for her](http://9gag.com/gag/aXPpdjg)
- - 😝 [Very ouch.](http://9gag.com/gag/aLnPWMx)
- - 💣 [Tatoo removal](http://9gag.com/gag/aD23X2x)
- - 😝 [Don&#39;t give up guys](http://9gag.com/gag/aD23Q3B)
- - 👉 [Air Canada. Engine compressor stall on takeoff.](http://9gag.com/gag/aAyrv6o)<!-- MEMES:END -->
+ - 😝 [He was indeed in Floridugh\u2026](http://9gag.com/gag/aKGPKWg)
+ - 💣 [Air Canada. Engine compressor stall on takeoff.](http://9gag.com/gag/aAyrv6o)
+ - 😝 [Witch!](http://9gag.com/gag/azxEB2m)
+ - 👉 [Muh Weed!](http://9gag.com/gag/abAy2O9)<!-- MEMES:END -->
 
 ---
 

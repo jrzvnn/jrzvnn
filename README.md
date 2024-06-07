@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sexy Austrian accent](http://9gag.com/gag/ae90WBQ)
- - 😝 [Activities](http://9gag.com/gag/a5QPD0N)
- - 💣 [I&#39;m being honest](http://9gag.com/gag/ayN0ROp)
- - 😝 [Great game](http://9gag.com/gag/apR08V8)
- - 👉 [Title](http://9gag.com/gag/azxEYpN)<!-- MEMES:END -->
+ - 😝 [He was indeed in Floridugh\u2026](http://9gag.com/gag/aKGPKWg)
+ - 😝 [Air Canada. Engine compressor stall on takeoff.](http://9gag.com/gag/aAyrv6o)
+ - 💣 [Tatoo removal](http://9gag.com/gag/aD23X2x)
+ - 😝 [Good for her](http://9gag.com/gag/aXPpdjg)
+ - 👉 [Just look at them](http://9gag.com/gag/aNDZOe0)<!-- MEMES:END -->
 
 ---
 

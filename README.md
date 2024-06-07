@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok confirms that it has fixed a flaw that let the accounts of CNN and Sony be hacked &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/240607/p14#a240607p14)
  - [Apple’s last-gen iPad Pros with M2 chips are up to $400 off](https://www.theverge.com/2024/6/7/24173591/apple-ipad-pro-m2-tablet-value-deal-sale)
  - [Microsoft will make Recall an opt-in feature, encrypt its search index database, and require Windows Hello authentication and proof of presence to view timeline &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240607/p13#a240607p13)
  - [How hard is it to break into the Apple coding world?](https://appleinsider.com/articles/24/06/07/how-hard-is-it-to-break-into-the-apple-coding-world?utm_medium=rss)
- - [Microsoft Will Switch Off Recall by Default After Security Backlash](https://www.wired.com/story/microsoft-recall-off-default-security-concerns/)
- - [Windows won’t take screenshots of everything you do after all — unless you opt in](https://www.theverge.com/2024/6/7/24173499/microsoft-windows-recall-response-security-concerns)<!-- TECH:END -->
+ - [Microsoft Will Switch Off Recall by Default After Security Backlash](https://www.wired.com/story/microsoft-recall-off-default-security-concerns/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

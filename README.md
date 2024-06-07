@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Florida cops watched the batman movies and uses their strap on technique...](http://9gag.com/gag/aNDZOq4)
- - 😝 [This is 100% how dating a latina looks like](http://9gag.com/gag/a343b08)
- - 💣 [Last moment of Kabosu. The meme dog](http://9gag.com/gag/a9yLOXD)
- - 😝 [If you get this you are old.](http://9gag.com/gag/aAyrOY2)
- - 👉 [Suffered for mankind](http://9gag.com/gag/adBYeAD)<!-- MEMES:END -->
+ - 😝 [A devoted \u271d\ufe0f police officer unlived, and the state invited Muslim imams to pray at the officer\u2019s memorial and recite the Quran. Humiliation at its finest.](http://9gag.com/gag/aGywABZ)
+ - 😝 [She couldn&#39;t enjoy her pizza after a long day.](http://9gag.com/gag/aNDZOVG)
+ - 💣 [Who said you need a wook to make a good fried rice](http://9gag.com/gag/aE01OQn)
+ - 😝 [Very ouch.](http://9gag.com/gag/aLnPWMx)
+ - 👉 [Respect for this guard](http://9gag.com/gag/aD23XyN)<!-- MEMES:END -->
 
 ---
 

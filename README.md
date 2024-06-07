@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WWDC 2024 Is Just Days Away and We Found Easter Eggs in Apple&#39;s Invite     - CNET](https://www.cnet.com/tech/mobile/wwdc-2024-is-just-days-away-and-we-found-easter-eggs-in-apples-invite/#ftag=CAD590a51e)
  - [Apple hosts an industry program for students from historically Black colleges and universities](https://appleinsider.com/articles/24/06/07/apple-hosts-an-industry-program-for-students-from-historically-black-colleges-and-universities?utm_medium=rss)
- - [Q&amp;A with Bellingcat founder Eliot Higgins on running the world&#39;s foremost open source intelligence agency, AI-generated content, legal accountability, and more &lpar;Samanth Subramanian/Wired&rpar;](http://www.techmeme.com/240607/p4#a240607p4)
- - [Microsoft explains how its DLSS competitor uses AI to improve any game](https://www.theverge.com/2024/6/7/24173474/microsoft-windows-auto-super-resolution-sr-dlss-gaming)
- - [An AI Cartoon May Interview You for Your Next Job](https://www.wired.com/story/ai-cartoon-next-job/)
- - [There&#39;s Only a Few Days Left To Get a PS5 at a Discounted Price     - CNET](https://www.cnet.com/deals/theres-only-a-few-days-left-to-get-a-ps5-at-a-discounted-price/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Take Long Screenshots on Your iPhone and Save Them to Your Photos     - CNET](https://www.cnet.com/tech/mobile/how-to-take-long-screenshots-on-your-iphone-and-save-them-to-your-photos/#ftag=CAD590a51e)
+ - [Yes, You Can Lose Your Social Security Benefits. Here Are 3 Ways It Can Happen     - CNET](https://www.cnet.com/personal-finance/yes-you-can-lose-your-social-security-benefits-here-are-3-ways-it-can-happen/#ftag=CAD590a51e)
+ - [Q&amp;A with Bellingcat founder Eliot Higgins on running the world&#39;s foremost open source intelligence agency, AI-generated content, legal accountability, and more &lpar;Samanth Subramanian/Wired&rpar;](http://www.techmeme.com/240607/p4#a240607p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bad Boys of Bahia, Brazil. They look like....](http://9gag.com/gag/awyKYNr)
- - 😝 [They call it a \u201cswiftie\u201d](http://9gag.com/gag/axyZO3Y)
- - 💣 [Tatoo removal](http://9gag.com/gag/aD23X2x)
- - 😝 [USA, UK, France, etc. Useless everywhere. Any discovery or invention? Anyone?](http://9gag.com/gag/ayN01Ap)
- - 👉 [Fire. In space. That&#39;s everything you need to know about the new &#39;Star Wars&#39; series directed by a woke female director.](http://9gag.com/gag/an7KDx0)<!-- MEMES:END -->
+ - 😝 [Some useful tips for construction workers.](http://9gag.com/gag/aGywAMG)
+ - 😝 [Local dog name Gray saves an unexpected friend. That big smile at the end says it all](http://9gag.com/gag/abAy2bX)
+ - 💣 [Before passing away to illness, his best friend recorded his best man speech to be a part of their big day](http://9gag.com/gag/a2vYOed)
+ - 😝 [My fellow scholar](http://9gag.com/gag/aQz4OW8)
+ - 👉 [Quack](http://9gag.com/gag/aKGPKzO)<!-- MEMES:END -->
 
 ---
 

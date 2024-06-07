@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to emulate the original PlayStation and Nintendo 64 on Mac](https://appleinsider.com/inside/apple-silicon/tips/how-to-emulate-the-original-playstation-and-nintendo-64-on-mac?utm_medium=rss)
  - [Life360, owner of Bluetooth tracking device brand Tile, held onto its $27 per share offer price on its Nasdaq debut, after raising $155.3M in its US IPO &lpar;Amy Or/Bloomberg&rpar;](http://www.techmeme.com/240606/p45#a240606p45)
  - [TikTok is testing a streaks feature, which has become a status symbol on Snapchat, with select users in limited markets in order to increase engagement &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240606/p44#a240606p44)
  - [The National Samsung Electronics Union, which has ~28,400 workers, goes on a strike for the first time in the company&#39;s history for one day over a pay dispute &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/240606/p43#a240606p43)
- - [WEN Intensive Treatment Oil     - CNET](https://www.cnet.com/health/personal-care/wen-intensive-treatment-oil-dpnl/#ftag=CAD590a51e)
- - [Best Camera Phone of 2024     - CNET](https://www.cnet.com/tech/mobile/best-camera-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Josie Maran EveryBODY Wash Duo     - CNET](https://www.cnet.com/health/personal-care/josie-maran-argan-oil-duo-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

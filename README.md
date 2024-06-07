@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Saucy everything](http://9gag.com/gag/ary4zVp)
  - 😝 [Very ouch.](http://9gag.com/gag/aLnPWMx)
- - 😝 [A man rescues a bird and later gets an amazing surprise](http://9gag.com/gag/axyZPGM)
- - 💣 [Oh yes the classic society](http://9gag.com/gag/a9yLOpZ)
- - 😝 [Tatoo removal](http://9gag.com/gag/aD23X2x)
- - 👉 [Don&#39;t give up guys](http://9gag.com/gag/aD23Q3B)<!-- MEMES:END -->
+ - 💣 [Title](http://9gag.com/gag/aqyNDAR)
+ - 😝 [Title](http://9gag.com/gag/azxEYpN)
+ - 👉 [Tatoo removal](http://9gag.com/gag/aD23X2x)<!-- MEMES:END -->
 
 ---
 

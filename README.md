@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The British Independent Retailers Association files a &amp;pound;1.1B lawsuit against Amazon for allegedly misusing members&#39; proprietary data for competitive purposes &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240607/p10#a240607p10)
+ - [10 Best Beard Trimmers &lpar;2024&rpar;: Full Beard, Stubble, Body](https://www.wired.com/gallery/best-beard-trimmers/)
  - [‘Apple Intelligence’ will automatically choose between on-device and cloud-powered AI](https://www.theverge.com/2024/6/7/24173528/apple-intelligence-ai-features-openai-chatbot)
  - [Apple’s AI moment is coming](https://www.theverge.com/24173538/apple-wwdc-2024-ai-siri-vergecast)
- - [An ex-AWS worker says Amazon breached UK sanctions by providing the Russian company VisionLabs with its facial recognition tech after Russia&#39;s Ukraine invasion &lpar;Financial Times&rpar;](http://www.techmeme.com/240607/p9#a240607p9)
- - [Don’t Let Mistrust of Tech Companies Blind You to the Power of AI](https://www.wired.com/story/dont-let-mistrust-of-tech-companies-blind-you-power-of-ai/)
- - [What to expect at Apple’s WWDC 2024](https://www.theverge.com/24172139/wwdc-2024-what-to-expect-news-rumors)<!-- TECH:END -->
+ - [An ex-AWS worker says Amazon breached UK sanctions by providing the Russian company VisionLabs with its facial recognition tech after Russia&#39;s Ukraine invasion &lpar;Financial Times&rpar;](http://www.techmeme.com/240607/p9#a240607p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

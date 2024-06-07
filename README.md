@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Electronics workers strike for the first time ever](https://www.theverge.com/2024/6/7/24173592/samsung-strike-ai-chips-labor)
+ - [This handheld gaming PC is made to be modded](https://www.theverge.com/2024/6/7/24173179/adata-xpg-gaming-handheld-modded-lpcamm2)
  - [WhatsApp Channels, which has 500M+ MAUs, relies on community guidelines to tackle election interference, instead of specific rules like on Facebook or Threads &lpar;Rebecca Kern/Politico&rpar;](http://www.techmeme.com/240607/p12#a240607p12)
  - [14 Best Subscription Boxes for Kids &lpar;2024&rpar;: STEM, Books, Snacks](https://www.wired.com/gallery/best-subscription-boxes-for-kids/)
- - [AI Killed Images. Legacy Russell Knows How We Can Revive Them](https://www.wired.com/story/dial-up-legacy-russell-black-meme/)
- - [iPhone 16 Pro: Top 5 features that will matter the most to users &amp; upgraders](https://appleinsider.com/articles/24/06/07/iphone-16-pro-top-5-features-that-will-matter-the-most-to-users-upgraders?utm_medium=rss)
- - [Netflix’s Mike Tyson vs. Jake Paul fight pushed back to November](https://www.theverge.com/2024/6/7/24173618/netflix-mike-tyson-jake-paul-boxing-match-new-date)<!-- TECH:END -->
+ - [AI Killed Images. Legacy Russell Knows How We Can Revive Them](https://www.wired.com/story/dial-up-legacy-russell-black-meme/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

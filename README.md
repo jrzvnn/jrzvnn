@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Saucy everything](http://9gag.com/gag/ary4zVp)
- - 😝 [Very ouch.](http://9gag.com/gag/aLnPWMx)
- - 💣 [Title](http://9gag.com/gag/aqyNDAR)
- - 😝 [Title](http://9gag.com/gag/azxEYpN)
- - 👉 [Tatoo removal](http://9gag.com/gag/aD23X2x)<!-- MEMES:END -->
+ - 😝 [The Waifu in the Cupboard](http://9gag.com/gag/a343nbe)
+ - 😝 [The beauty of their women and the taste of their food make brits the best sailors in the world](http://9gag.com/gag/aYQWRz7)
+ - 💣 [Last moment of Kabosu. The meme dog](http://9gag.com/gag/a9yLOXD)
+ - 😝 [Based](http://9gag.com/gag/avygdN5)
+ - 👉 [Make sure to save it and never watch it again.](http://9gag.com/gag/ayN0PEq)<!-- MEMES:END -->
 
 ---
 

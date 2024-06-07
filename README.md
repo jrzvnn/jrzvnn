@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Respect for this guard](http://9gag.com/gag/aD23XyN)
  - 😝 [He was indeed in Floridugh\u2026](http://9gag.com/gag/aKGPKWg)
- - 💣 [Great game](http://9gag.com/gag/apR08V8)
- - 😝 [Good for her](http://9gag.com/gag/aXPpdjg)
- - 👉 [Title](http://9gag.com/gag/azxEYpN)<!-- MEMES:END -->
+ - 😝 [Air Canada. Engine compressor stall on takeoff.](http://9gag.com/gag/aAyrv6o)
+ - 💣 [Very ouch.](http://9gag.com/gag/aLnPWMx)
+ - 😝 [Take a look at the Miss Poland contestants. Noticing anything?](http://9gag.com/gag/aqyNdjR)
+ - 👉 [Great game](http://9gag.com/gag/apR08V8)<!-- MEMES:END -->
 
 ---
 

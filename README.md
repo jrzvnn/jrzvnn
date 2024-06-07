@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Witch!](http://9gag.com/gag/azxEB2m)
- - 😝 [Don&#39;t give up guys](http://9gag.com/gag/aD23Q3B)
- - 💣 [Relationship](http://9gag.com/gag/a9yLV1L)
- - 😝 [Witty sound on](http://9gag.com/gag/axyZAop)
- - 👉 [Title](http://9gag.com/gag/aqyNDAR)<!-- MEMES:END -->
+ - 😝 [Respect for this guard](http://9gag.com/gag/aD23XyN)
+ - 😝 [He was indeed in Floridugh\u2026](http://9gag.com/gag/aKGPKWg)
+ - 💣 [Great game](http://9gag.com/gag/apR08V8)
+ - 😝 [Good for her](http://9gag.com/gag/aXPpdjg)
+ - 👉 [Title](http://9gag.com/gag/azxEYpN)<!-- MEMES:END -->
 
 ---
 

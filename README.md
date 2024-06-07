@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 18 to debut Apple Passwords app](https://appleinsider.com/articles/24/06/06/ios-18-to-debut-apple-passwords-app?utm_medium=rss)
- - [How to emulate the original PlayStation and Nintendo 64 on Mac](https://appleinsider.com/inside/apple-silicon/tips/how-to-emulate-the-original-playstation-and-nintendo-64-on-mac?utm_medium=rss)
- - [The British Independent Retailers Association files a &amp;pound;1.1B lawsuit against Amazon for allegedly misusing members&#39; proprietary data for competitive purposes &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240607/p10#a240607p10)
- - [10 Best Beard Trimmers &lpar;2024&rpar;: Full Beard, Stubble, Body](https://www.wired.com/gallery/best-beard-trimmers/)
- - [‘Apple Intelligence’ will automatically choose between on-device and cloud-powered AI](https://www.theverge.com/2024/6/7/24173528/apple-intelligence-ai-features-openai-chatbot)<!-- TECH:END -->
+ - [Netflix faces $170 million lawsuit over Baby Reindeer stalker depiction](https://www.theverge.com/2024/6/7/24173540/baby-reindeer-lawsuit-netflix-stalker)
+ - [Meta is rolling out a new Communities feature on Messenger to all users globally, allowing up to 5,000 people to join a Community through shareable invites &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240607/p11#a240607p11)
+ - [Anker’s 3-in-1 Qi2 charger is $30 off in its first sale](https://www.theverge.com/2024/6/7/24173276/anker-qi2-maggo-charging-station-deal-sale)
+ - [How to watch the Summer Game Fest 2024](https://www.theverge.com/2024/6/7/24171636/summer-game-fest-2024-how-to-watch)
+ - [Google and Microsoft’s AI Chatbots Refuse to Say Who Won the 2020 US Election](https://www.wired.com/story/google-and-microsofts-chatbots-refuse-election-questions/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

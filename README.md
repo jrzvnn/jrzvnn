@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here’s our first look at the Among Us animated series](https://www.theverge.com/24172053/among-us-animated-series-trailer-summer-game-fest)
+ - [Google’s $2.3 million check helped the company get a trial by judge instead of jury](https://www.theverge.com/2024/6/7/24173981/google-ad-monopoly-antitrust-lawsuit-damages)
  - [Killer deal: 16-inch MacBook Pro with M2 Max chip, 32GB RAM drops to $2,599](https://appleinsider.com/articles/24/06/07/killer-deal-16-inch-macbook-pro-with-m2-max-chip-32gb-ram-drops-to-2599?utm_medium=rss)
- - [Civilization 7 is launching in 2025](https://www.theverge.com/24173575/civilization-7-summer-game-fest-2k-firaxis-trailer)
- - [Horizon gets playful with new Lego spinoff](https://www.theverge.com/2024/6/7/24172801/lego-horizon-adventures-ps5-trailer-summer-game-fest)
- - [YouTuber arrested on federal charges for his Lamborghini helicopter firework stunt](https://www.theverge.com/2024/6/7/24173845/youtube-alex-choi-arrested-lamborghini-helicopter-fireworks-federal-charges)
- - [A judge, not a jury, will give the verdict in the antitrust trial about Google&#39;s ad business, after Google paid $2.3M to cover US government&#39;s monetary damages &lpar;Matthew Barakat/Associated Press&rpar;](http://www.techmeme.com/240607/p19#a240607p19)<!-- TECH:END -->
+ - [Civilization 7 Confirmed at Summer Game Fest. Watch the Trailer Here     - CNET](https://www.cnet.com/tech/gaming/civilization-7-confirmed-at-summer-game-fest-watch-the-trailer-here/#ftag=CAD590a51e)
+ - [Civilization 7 is launching in 2025](https://www.theverge.com/24173575/civilization-7-summer-game-fest-2k-firaxis-trailer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

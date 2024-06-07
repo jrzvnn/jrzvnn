@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix’s Mike Tyson vs. Jake Paul fight pushed back to November](https://www.theverge.com/2024/6/7/24173618/netflix-mike-tyson-jake-paul-boxing-match-new-date)
  - [iOS 18 &amp; macOS 15 are going to look to the past for new wallpapers](https://appleinsider.com/articles/24/06/07/ios-18-macos-15-are-going-to-look-to-the-past-for-new-wallpapers?utm_medium=rss)
  - [Ahead of WWDC, Apple highlights its collection of developer resources](https://appleinsider.com/articles/24/06/07/ahead-of-wwdc-apple-highlights-its-collection-of-developer-resources?utm_medium=rss)
- - [Beis Makes the Viral Suitcase I Want to Take Everywhere](https://www.wired.com/story/beis-luggage-rave/)
- - [Netflix faces $170 million lawsuit over Baby Reindeer stalker depiction](https://www.theverge.com/2024/6/7/24173540/baby-reindeer-lawsuit-netflix-stalker)
- - [Meta is rolling out a new Communities feature on Messenger to all users globally, allowing up to 5,000 people to join a Community through shareable invites &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240607/p11#a240607p11)<!-- TECH:END -->
+ - [Will AirPods Beat Out OTC Hearing Aids as Devices More People Will Use?     - CNET](https://www.cnet.com/health/medical/will-airpods-beat-out-otc-hearing-aids-as-devices-more-people-will-use/#ftag=CAD590a51e)
+ - [Beis Makes the Viral Suitcase I Want to Take Everywhere](https://www.wired.com/story/beis-luggage-rave/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

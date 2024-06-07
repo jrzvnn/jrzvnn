@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Witty sound on](http://9gag.com/gag/axyZAop)
- - 😝 [Make sure to save it and never watch it again.](http://9gag.com/gag/ayN0PEq)
- - 💣 [The Waifu in the Cupboard](http://9gag.com/gag/a343nbe)
- - 😝 [Good for her](http://9gag.com/gag/aXPpdjg)
- - 👉 [Before passing away to illness, his best friend recorded his best man speech to be a part of their big day](http://9gag.com/gag/a2vYOed)<!-- MEMES:END -->
+ - 😝 [Very ouch.](http://9gag.com/gag/aLnPWMx)
+ - 😝 [Major Hut Life](http://9gag.com/gag/aYQW1Kq)
+ - 💣 [Before passing away to illness, his best friend recorded his best man speech to be a part of their big day](http://9gag.com/gag/a2vYOed)
+ - 😝 [Title](http://9gag.com/gag/azxEYpN)
+ - 👉 [Fire. In space. That&#39;s everything you need to know about the new &#39;Star Wars&#39; series directed by a woke female director.](http://9gag.com/gag/an7KDx0)<!-- MEMES:END -->
 
 ---
 

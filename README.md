@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Air Canada. Engine compressor stall on takeoff.](http://9gag.com/gag/aAyrv6o)
- - 😝 [Very ouch.](http://9gag.com/gag/aLnPWMx)
- - 💣 [A man rescues a bird and later gets an amazing surprise](http://9gag.com/gag/axyZPGM)
- - 😝 [Try to act surprised and don&#39;t laugh &lpar;too much&rpar;](http://9gag.com/gag/aPA41XV)
- - 👉 [I&#39;m being honest](http://9gag.com/gag/ayN0ROp)<!-- MEMES:END -->
+ - 😝 [Local dog name Gray saves an unexpected friend. That big smile at the end says it all](http://9gag.com/gag/abAy2bX)
+ - 😝 [Make sure to save it and never watch it again.](http://9gag.com/gag/ayN0PEq)
+ - 💣 [Quack](http://9gag.com/gag/aKGPKzO)
+ - 😝 [Title](http://9gag.com/gag/azxEYpN)
+ - 👉 [Based](http://9gag.com/gag/avygdN5)<!-- MEMES:END -->
 
 ---
 

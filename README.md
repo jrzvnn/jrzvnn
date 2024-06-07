@@ -171,9 +171,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/azxEYpN)
- - 😝 [The bearings in Walmart skateboards for kids.](http://9gag.com/gag/aAyr2qL)
- - 💣 [A man rescues a bird and later gets an amazing surprise](http://9gag.com/gag/axyZPGM)
+ - 😝 [This is 100% how dating a latina looks like](http://9gag.com/gag/a343b08)
+ - 😝 [After handling 5 Sailors at once](http://9gag.com/gag/aW4WbA6)
+ - 💣 [Not good in a man&#39;s way. I mean like a woman. I&#39;m concerned.](http://9gag.com/gag/aXPpWj6)
  - 😝 [I&#39;m being honest](http://9gag.com/gag/ayN0ROp)
  - 👉 [Tatoo removal](http://9gag.com/gag/aD23X2x)<!-- MEMES:END -->
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Horizon gets playful with new Lego spinoff](https://www.theverge.com/2024/6/7/24172801/lego-horizon-adventures-ps5-trailer-summer-game-fest)
+ - [YouTuber arrested on federal charges for his Lamborghini helicopter firework stunt](https://www.theverge.com/2024/6/7/24173845/youtube-alex-choi-arrested-lamborghini-helicopter-fireworks-federal-charges)
+ - [A judge, not a jury, will give the verdict in the antitrust trial about Google&#39;s ad business, after Google paid $2.3M to cover US government&#39;s monetary damages &lpar;Matthew Barakat/Associated Press&rpar;](http://www.techmeme.com/240607/p19#a240607p19)
  - [There&#39;s Still Time to Snag the 75k Welcome Bonus for CNET&#39;s Favorite Travel Card     - CNET](https://www.cnet.com/personal-finance/dont-miss-it-chases-75000-point-limited-time-welcome-bonus-is-here-but-not-for-long/#ftag=CAD590a51e)
- - [How ex-FTC commissioner Joshua Wright became the tech industry&#39;s fixer, while allegedly juggling inappropriate relationships and skirting conflicts of interests &lpar;Brody Mullins/Wall Street Journal&rpar;](http://www.techmeme.com/240607/p18#a240607p18)
- - [Best Streaming Services for Reality TV     - CNET](https://www.cnet.com/tech/services-and-software/best-streaming-services-for-reality-tv/#ftag=CAD590a51e)
- - [Today&#39;s the Day: Watch &#39;Power Book II: Ghost&#39; Season 4 From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/today-the-day-watch-power-book-ii-ghost-season-4-from-anywhere/#ftag=CAD590a51e)
- - [Summer Game Fest 2024: all the news, trailers, and announcements](https://www.theverge.com/24170561/summer-game-fest-2024-trailers-news-geoff-keighley)<!-- TECH:END -->
+ - [How ex-FTC commissioner Joshua Wright became the tech industry&#39;s fixer, while allegedly juggling inappropriate relationships and skirting conflicts of interests &lpar;Brody Mullins/Wall Street Journal&rpar;](http://www.techmeme.com/240607/p18#a240607p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

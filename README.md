@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sexy Austrian accent](http://9gag.com/gag/ae90WBQ)
- - 😝 [Title](http://9gag.com/gag/azxEYpN)
- - 💣 [A man rescues a bird and later gets an amazing surprise](http://9gag.com/gag/axyZPGM)
- - 😝 [I&#39;m being honest](http://9gag.com/gag/ayN0ROp)
- - 👉 [F*cking legend](http://9gag.com/gag/a9yL2Vm)<!-- MEMES:END -->
+ - 😝 [....and proud ify it. WTF](http://9gag.com/gag/aLnPrVP)
+ - 😝 [Based](http://9gag.com/gag/avygdN5)
+ - 💣 [The Waifu in the Cupboard](http://9gag.com/gag/a343nbe)
+ - 😝 [Make sure to save it and never watch it again.](http://9gag.com/gag/ayN0PEq)
+ - 👉 [Activities](http://9gag.com/gag/a5QPD0N)<!-- MEMES:END -->
 
 ---
 

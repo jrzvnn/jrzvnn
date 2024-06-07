@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Waifu in the Cupboard](http://9gag.com/gag/a343nbe)
- - 😝 [The beauty of their women and the taste of their food make brits the best sailors in the world](http://9gag.com/gag/aYQWRz7)
- - 💣 [Last moment of Kabosu. The meme dog](http://9gag.com/gag/a9yLOXD)
- - 😝 [Based](http://9gag.com/gag/avygdN5)
- - 👉 [Make sure to save it and never watch it again.](http://9gag.com/gag/ayN0PEq)<!-- MEMES:END -->
+ - 😝 [Very ouch.](http://9gag.com/gag/aLnPWMx)
+ - 😝 [Air Canada. Engine compressor stall on takeoff.](http://9gag.com/gag/aAyrv6o)
+ - 💣 [F*cking legend](http://9gag.com/gag/a9yL2Vm)
+ - 😝 [Title](http://9gag.com/gag/aqyNDAR)
+ - 👉 [Tatoo removal](http://9gag.com/gag/aD23X2x)<!-- MEMES:END -->
 
 ---
 

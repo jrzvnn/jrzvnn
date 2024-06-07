@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Suffered for mankind](http://9gag.com/gag/adBYeAD)
- - 😝 [Trying is not torture...](http://9gag.com/gag/aGywAm0)
- - 💣 [I&#39;m being honest](http://9gag.com/gag/ayN0ROp)
- - 😝 [I\u2018ve seen many memes but this.. this put a smile on my face](http://9gag.com/gag/amo0MK4)
- - 👉 [Tatoo removal](http://9gag.com/gag/aD23X2x)<!-- MEMES:END -->
+ - 😝 [Air Canada. Engine compressor stall on takeoff.](http://9gag.com/gag/aAyrv6o)
+ - 😝 [Very ouch.](http://9gag.com/gag/aLnPWMx)
+ - 💣 [A man rescues a bird and later gets an amazing surprise](http://9gag.com/gag/axyZPGM)
+ - 😝 [Try to act surprised and don&#39;t laugh &lpar;too much&rpar;](http://9gag.com/gag/aPA41XV)
+ - 👉 [I&#39;m being honest](http://9gag.com/gag/ayN0ROp)<!-- MEMES:END -->
 
 ---
 

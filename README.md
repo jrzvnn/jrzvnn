@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Harvey, which builds generative AI tools for law firms, is in talks to raise $600M at a $2B+ valuation and mulls buying legal research company vLex &lpar;The Information&rpar;](http://www.techmeme.com/240607/p20#a240607p20)
  - [Valorant is finally coming to consoles](https://www.theverge.com/2024/6/7/24173544/valorant-ps5-xbox-release-date-riot)
  - [The future of the smart kitchen: robots, apps, and AI, oh my!](https://www.theverge.com/24173645/smart-kitchen-summit-gadgets-apps-future)
  - [Here’s our first look at the Among Us animated series](https://www.theverge.com/24172053/among-us-animated-series-trailer-summer-game-fest)
- - [Google’s $2.3 million check helped the company get a trial by judge instead of jury](https://www.theverge.com/2024/6/7/24173981/google-ad-monopoly-antitrust-lawsuit-damages)
- - [Killer deal: 16-inch MacBook Pro with M2 Max chip, 32GB RAM drops to $2,599](https://appleinsider.com/articles/24/06/07/killer-deal-16-inch-macbook-pro-with-m2-max-chip-32gb-ram-drops-to-2599?utm_medium=rss)<!-- TECH:END -->
+ - [Google’s $2.3 million check helped the company get a trial by judge instead of jury](https://www.theverge.com/2024/6/7/24173981/google-ad-monopoly-antitrust-lawsuit-damages)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Venom horse goes crazy](http://9gag.com/gag/aNDZRz6)
- - 😝 [The mental state of Germany](http://9gag.com/gag/a6ZyG2m)
- - 💣 [Whoever posted this in first place; I want to thank you. Everybody needs to know.](http://9gag.com/gag/a0eLEeB)
+ - 😝 [Last moment of Kabosu. The meme dog](http://9gag.com/gag/a9yLOXD)
  - 😝 [Title](http://9gag.com/gag/azxEYpN)
- - 👉 [Major Hut Life](http://9gag.com/gag/aYQW1Kq)<!-- MEMES:END -->
+ - 💣 [This is 100% how dating a latina looks like](http://9gag.com/gag/a343b08)
+ - 😝 [Air Canada. Engine compressor stall on takeoff.](http://9gag.com/gag/aAyrv6o)
+ - 👉 [The bearings in Walmart skateboards for kids.](http://9gag.com/gag/aAyr2qL)<!-- MEMES:END -->
 
 ---
 

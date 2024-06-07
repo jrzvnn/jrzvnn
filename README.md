@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t give up guys](http://9gag.com/gag/aD23Q3B)
- - 😝 [Sick Liberal Daughter Wife Groomer!](http://9gag.com/gag/aPA4X0g)
- - 💣 [Bad Boys of Bahia, Brazil. They look like....](http://9gag.com/gag/awyKYNr)
+ - 😝 [Title](http://9gag.com/gag/aqyNDAR)
+ - 😝 [Very ouch.](http://9gag.com/gag/aLnPWMx)
+ - 💣 [Tatoo removal](http://9gag.com/gag/aD23X2x)
  - 😝 [A devoted \u271d\ufe0f police officer unlived, and the state invited Muslim imams to pray at the officer\u2019s memorial and recite the Quran. Humiliation at its finest.](http://9gag.com/gag/aGywABZ)
- - 👉 [Major Hut Life](http://9gag.com/gag/aYQW1Kq)<!-- MEMES:END -->
+ - 👉 [Title](http://9gag.com/gag/azxEYpN)<!-- MEMES:END -->
 
 ---
 

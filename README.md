@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How ex-FTC commissioner Joshua Wright became the tech industry&#39;s fixer, while allegedly juggling inappropriate relationships and skirting conflicts of interests &lpar;Brody Mullins/Wall Street Journal&rpar;](http://www.techmeme.com/240607/p18#a240607p18)
+ - [Summer Game Fest 2024: all the news, trailers, and announcements](https://www.theverge.com/24170561/summer-game-fest-2024-trailers-news-geoff-keighley)
  - [The Biden administration relaxes another vehicle emission rule](https://www.theverge.com/2024/6/7/24173862/us-fuel-economy-nhtsa-cafe-emissions-biden-epa)
  - [Adobe’s new terms of service aren’t the problem — it’s the trust](https://www.theverge.com/2024/6/7/24173838/adobe-tos-update-firefly-generative-ai-trust)
- - [Sources: Bakkt, Intercontinental Exchange&#39;s digital-asset marketplace launched in 2018, explores a sale, after issuing a going concern warning earlier in 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240607/p17#a240607p17)
- - [Each of the Past 12 Months Broke Temperature Records](https://www.wired.com/story/record-temperature-months-full-year/)
- - [Elden Ring: The Best Weapons and Where to Find Them     - CNET](https://www.cnet.com/tech/gaming/elden-ring-the-best-weapons-and-where-to-find-them/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Adobe Defends Terms-of-Service Changes Amid Gen AI &#39;Explosion&#39;     - CNET](https://www.cnet.com/tech/services-and-software/adobe-defends-terms-of-service-changes-amid-gen-ai-explosion/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

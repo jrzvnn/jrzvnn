@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Some useful tips for construction workers.](http://9gag.com/gag/aGywAMG)
- - 😝 [Local dog name Gray saves an unexpected friend. That big smile at the end says it all](http://9gag.com/gag/abAy2bX)
- - 💣 [My fellow scholar](http://9gag.com/gag/aQz4OW8)
- - 😝 [Title](http://9gag.com/gag/azxEYpN)
- - 👉 [Quack](http://9gag.com/gag/aKGPKzO)<!-- MEMES:END -->
+ - 😝 [Florida cops watched the batman movies and uses their strap on technique...](http://9gag.com/gag/aNDZOq4)
+ - 😝 [This is 100% how dating a latina looks like](http://9gag.com/gag/a343b08)
+ - 💣 [Last moment of Kabosu. The meme dog](http://9gag.com/gag/a9yLOXD)
+ - 😝 [If you get this you are old.](http://9gag.com/gag/aAyrOY2)
+ - 👉 [Suffered for mankind](http://9gag.com/gag/adBYeAD)<!-- MEMES:END -->
 
 ---
 

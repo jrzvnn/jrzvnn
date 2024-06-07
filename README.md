@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A devoted \u271d\ufe0f police officer unlived, and the state invited Muslim imams to pray at the officer\u2019s memorial and recite the Quran. Humiliation at its finest.](http://9gag.com/gag/aGywABZ)
- - 😝 [She couldn&#39;t enjoy her pizza after a long day.](http://9gag.com/gag/aNDZOVG)
- - 💣 [Who said you need a wook to make a good fried rice](http://9gag.com/gag/aE01OQn)
- - 😝 [Very ouch.](http://9gag.com/gag/aLnPWMx)
- - 👉 [Respect for this guard](http://9gag.com/gag/aD23XyN)<!-- MEMES:END -->
+ - 😝 [When she is hungry for something different](http://9gag.com/gag/a5QP5oq)
+ - 😝 [This is 100% how dating a latina looks like](http://9gag.com/gag/a343b08)
+ - 💣 [The bearings in Walmart skateboards for kids.](http://9gag.com/gag/aAyr2qL)
+ - 😝 [I&#39;m being honest](http://9gag.com/gag/ayN0ROp)
+ - 👉 [Tatoo removal](http://9gag.com/gag/aD23X2x)<!-- MEMES:END -->
 
 ---
 

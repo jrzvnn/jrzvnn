@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Some useful tips for construction workers.](http://9gag.com/gag/aGywAMG)
- - 😝 [Local dog name Gray saves an unexpected friend. That big smile at the end says it all](http://9gag.com/gag/abAy2bX)
- - 💣 [Before passing away to illness, his best friend recorded his best man speech to be a part of their big day](http://9gag.com/gag/a2vYOed)
- - 😝 [My fellow scholar](http://9gag.com/gag/aQz4OW8)
- - 👉 [Quack](http://9gag.com/gag/aKGPKzO)<!-- MEMES:END -->
+ - 😝 [Don&#39;t give up guys](http://9gag.com/gag/aD23Q3B)
+ - 😝 [Sick Liberal Daughter Wife Groomer!](http://9gag.com/gag/aPA4X0g)
+ - 💣 [Bad Boys of Bahia, Brazil. They look like....](http://9gag.com/gag/awyKYNr)
+ - 😝 [A devoted \u271d\ufe0f police officer unlived, and the state invited Muslim imams to pray at the officer\u2019s memorial and recite the Quran. Humiliation at its finest.](http://9gag.com/gag/aGywABZ)
+ - 👉 [Major Hut Life](http://9gag.com/gag/aYQW1Kq)<!-- MEMES:END -->
 
 ---
 

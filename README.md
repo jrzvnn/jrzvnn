@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Bakkt, Intercontinental Exchange&#39;s digital-asset marketplace launched in 2018, explores a sale, after issuing a going concern warning earlier in 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240607/p17#a240607p17)
+ - [Each of the Past 12 Months Broke Temperature Records](https://www.wired.com/story/record-temperature-months-full-year/)
+ - [Elden Ring: The Best Weapons and Where to Find Them     - CNET](https://www.cnet.com/tech/gaming/elden-ring-the-best-weapons-and-where-to-find-them/#ftag=CAD590a51e)
  - [Get a Thunderbolt dock with 1TB of fast storage for your Mac for $129.99 today](https://appleinsider.com/articles/24/06/07/get-a-thunderbolt-dock-with-1tb-of-fast-storage-for-your-mac-for-12999-today?utm_medium=rss)
- - [Google Gemini and Microsoft&#39;s Copilot won&#39;t return results on any elections globally or historical US elections, and refuse to confirm that Biden won in 2020 &lpar;David Gilbert/Wired&rpar;](http://www.techmeme.com/240607/p16#a240607p16)
- - [Meta rolls out standalone Messenger group chats](https://www.theverge.com/2024/6/7/24173785/messenger-communities-chats-facebook)
- - [NYC’s Congestion Pricing Should Have Been the Future](https://www.wired.com/story/new-york-city-congestion-pricing-should-have-been-the-future/)
- - [Roaring Kitty Is Playing With Fire](https://www.wired.com/story/roaring-kitty-is-playing-with-fire/)<!-- TECH:END -->
+ - [Elden Ring: How to Defeat Starscourge Radahn     - CNET](https://www.cnet.com/tech/gaming/elden-ring-how-to-defeat-starscourge-radahn/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

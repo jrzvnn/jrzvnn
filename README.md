@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [....and proud ify it. WTF](http://9gag.com/gag/aLnPrVP)
- - 😝 [Based](http://9gag.com/gag/avygdN5)
- - 💣 [The Waifu in the Cupboard](http://9gag.com/gag/a343nbe)
- - 😝 [Make sure to save it and never watch it again.](http://9gag.com/gag/ayN0PEq)
- - 👉 [Activities](http://9gag.com/gag/a5QPD0N)<!-- MEMES:END -->
+ - 😝 [Oh yes the classic society](http://9gag.com/gag/a9yLOpZ)
+ - 😝 [Air Canada. Engine compressor stall on takeoff.](http://9gag.com/gag/aAyrv6o)
+ - 💣 [Title](http://9gag.com/gag/azxEYpN)
+ - 😝 [Great game](http://9gag.com/gag/apR08V8)
+ - 👉 [He was indeed in Floridugh\u2026](http://9gag.com/gag/aKGPKWg)<!-- MEMES:END -->
 
 ---
 

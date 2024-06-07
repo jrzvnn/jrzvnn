@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Make sure to save it and never watch it again.](http://9gag.com/gag/ayN0PEq)
- - 😝 [Quack](http://9gag.com/gag/aKGPKzO)
- - 💣 [Title](http://9gag.com/gag/azxEYpN)
- - 😝 [Based](http://9gag.com/gag/avygdN5)
- - 👉 [Last moment of Kabosu. The meme dog](http://9gag.com/gag/a9yLOXD)<!-- MEMES:END -->
+ - 😝 [Title](http://9gag.com/gag/azxEYpN)
+ - 😝 [The bearings in Walmart skateboards for kids.](http://9gag.com/gag/aAyr2qL)
+ - 💣 [A man rescues a bird and later gets an amazing surprise](http://9gag.com/gag/axyZPGM)
+ - 😝 [I&#39;m being honest](http://9gag.com/gag/ayN0ROp)
+ - 👉 [Tatoo removal](http://9gag.com/gag/aD23X2x)<!-- MEMES:END -->
 
 ---
 

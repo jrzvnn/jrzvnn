@@ -163,10 +163,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [iOS 18 AI boost could be called &#39;Apple Intelligence&#39;](https://appleinsider.com/articles/24/06/07/ios-18-ai-boost-could-be-called-apple-intelligence?utm_medium=rss)
- - [Signia Silk 7X Review: Fuss-Free, Super Expensive Hearing Aids](https://www.wired.com/review/signia-silk-7x/)
- - [What to expect at WWDC 2024: plans to integrate AI into its apps with a new opt-in service called Apple Intelligence, iOS 18, macOS 15, visionOS 2, and more &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240607/p5#a240607p5)
- - [The World’s Largest Fungarium May Unlock the Mysteries of Carbon Capture](https://www.wired.com/story/mushrooms-fungi-carbon-capture-kew/)
- - [No, Drake&#39;s Cover of &#39;Hey There Delilah&#39; Isn&#39;t AI](https://www.wired.com/story/drake-plain-white-ts-ai-wah-gwan-delilah/)<!-- TECH:END -->
+ - [Adobe&#39;s new terms of service unacceptably gives them access to all of your projects, for free](https://appleinsider.com/articles/24/06/06/adobes-new-terms-of-service-unacceptably-gives-them-access-to-all-of-your-projects-for-free?utm_medium=rss)
+ - [Adobe has clarified controversial shrinkwrap license terms, but the damage may have already been done](https://appleinsider.com/articles/24/06/07/adobe-has-clarified-controversial-shrinkwrap-license-terms-but-the-damage-may-have-already-been-done?utm_medium=rss)
+ - [Adobe clarifies its terms, saying it does not train Firefly Gen AI models on customer content and will never assume ownership of a customer&#39;s work &lpar;Ben Lovejoy/9to5Mac&rpar;](http://www.techmeme.com/240607/p6#a240607p6)
+ - [Apple Vision Pro will get a polish, not an overhaul at WWDC](https://appleinsider.com/articles/24/06/07/apple-vision-pro-will-get-a-polish-not-an-overhaul-at-wwdc?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta rolls out standalone Messenger group chats](https://www.theverge.com/2024/6/7/24173785/messenger-communities-chats-facebook)
+ - [NYC’s Congestion Pricing Should Have Been the Future](https://www.wired.com/story/new-york-city-congestion-pricing-should-have-been-the-future/)
+ - [Roaring Kitty Is Playing With Fire](https://www.wired.com/story/roaring-kitty-is-playing-with-fire/)
  - [The 7-inch MSI Claw will get Lunar Lake, too — and Claw 2, Claw 3, Claw 4 are coming](https://www.theverge.com/2024/6/7/24173763/msi-claw-7-lunar-lake-roadmap-claw-2-claw-3-claw-4)
- - [The Verge’s 2024 Father’s Day gift guide](https://www.theverge.com/24153276/best-fathers-day-gift-ideas-2024-dad-tech-gadgets)
- - [The Best Hearing Aids of 2024, Reviewed by Experts](https://www.wired.com/gallery/best-hearing-aids/)
- - [LinkedIn will no longer allow advertisers to target EU users based on data obtained from their participation in LinkedIn Groups, following a complaint to the EU &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240607/p15#a240607p15)
- - [TikTok says it has fixed a vulnerability that allowed user accounts to be hijacked after clicking on a malware-laced DM &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/240607/p14#a240607p14)<!-- TECH:END -->
+ - [This Company Says Its Solar Cell is 33% Efficient, But Don&#39;t Expect to See It on Your House     - CNET](https://www.cnet.com/home/energy-and-utilities/this-company-says-its-solar-cell-is-33-efficient-but-dont-expect-to-see-it-on-your-house/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

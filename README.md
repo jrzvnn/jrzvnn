@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PowerSchool, which provides software that helps educational institutions manage operations, is being taken private by Bain Capital in a $5.6B deal &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240607/p8#a240607p8)
+ - [In depth with iPad Air, iPad Pro and the future of iPadOS on the AppleInsider podcast](https://appleinsider.com/articles/24/06/07/in-depth-with-ipad-air-ipad-pro-and-the-future-of-ipados-on-the-appleinsider-podcast?utm_medium=rss)
  - [iOS 18 AI boost could be called &#39;Apple Intelligence&#39;](https://appleinsider.com/articles/24/06/07/ios-18-ai-boost-could-be-called-apple-intelligence?utm_medium=rss)
- - [Adobe&#39;s new terms of service unacceptably gives them access to all of your projects, for free](https://appleinsider.com/articles/24/06/06/adobes-new-terms-of-service-unacceptably-gives-them-access-to-all-of-your-projects-for-free?utm_medium=rss)
- - [Adobe has clarified controversial shrinkwrap license terms, but the damage may have already been done](https://appleinsider.com/articles/24/06/07/adobe-has-clarified-controversial-shrinkwrap-license-terms-but-the-damage-may-have-already-been-done?utm_medium=rss)
- - [Adobe clarifies its terms, saying it does not train Firefly Gen AI models on customer content and will never assume ownership of a customer&#39;s work &lpar;Ben Lovejoy/9to5Mac&rpar;](http://www.techmeme.com/240607/p6#a240607p6)
- - [Apple Vision Pro will get a polish, not an overhaul at WWDC](https://appleinsider.com/articles/24/06/07/apple-vision-pro-will-get-a-polish-not-an-overhaul-at-wwdc?utm_medium=rss)<!-- TECH:END -->
+ - [Microwave Poached Eggs Are the Best Breakfast Hack Since Sliced Bread     - CNET](https://www.cnet.com/home/kitchen-and-household/microwave-poached-eggs-are-the-best-breakfast-hack-since-sliced-bread/#ftag=CAD590a51e)
+ - [The US Veterans Affairs&#39; internal survey: fewer than 1 in 5 VA health employees say Oracle Health&#39;s products enable them to deliver &quot;high-quality care&quot; &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240607/p7#a240607p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

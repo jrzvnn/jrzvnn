@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US VC firms are putting pressure on tech startups to ask their Chinese backers to divest as VCs anticipate tighter controls on foreign ownership from Washington &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/240607/p1#a240607p1)
  - [Boston-based Seven AI, which uses AI to help companies combat cyberattacks, emerged from stealth and raised $36M led by Greylock at a ~$100M valuation &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240606/p46#a240606p46)
  - [How to emulate the original PlayStation and Nintendo 64 on Mac](https://appleinsider.com/inside/apple-silicon/tips/how-to-emulate-the-original-playstation-and-nintendo-64-on-mac?utm_medium=rss)
  - [Today&#39;s NYT Connections Hints and Answers: Help for June 7, #362     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hints-answers-help-for-june-7-362/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints and Answer: Help for June 7, #1084     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-and-answer-help-for-june-7-1084/#ftag=CAD590a51e)
- - [Life360, owner of Bluetooth tracking device brand Tile, held onto its $27 per share offer price on its Nasdaq debut, after raising $155.3M in its US IPO &lpar;Amy Or/Bloomberg&rpar;](http://www.techmeme.com/240606/p45#a240606p45)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints and Answer: Help for June 7, #1084     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-and-answer-help-for-june-7-1084/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

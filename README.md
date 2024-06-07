@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Q&amp;A with Bellingcat founder Eliot Higgins on running the world&#39;s foremost open source intelligence agency, AI-generated content, legal accountability, and more &lpar;Samanth Subramanian/Wired&rpar;](http://www.techmeme.com/240607/p4#a240607p4)
  - [Microsoft explains how its DLSS competitor uses AI to improve any game](https://www.theverge.com/2024/6/7/24173474/microsoft-windows-auto-super-resolution-sr-dlss-gaming)
  - [An AI Cartoon May Interview You for Your Next Job](https://www.wired.com/story/ai-cartoon-next-job/)
- - [Over a dozen video game professionals discuss the Summer Game Fest, amid concerns about the event&#39;s high entry fees, opaqueness, celebritization, and more &lpar;Adam Morgan/Esquire&rpar;](http://www.techmeme.com/240607/p3#a240607p3)<!-- TECH:END -->
+ - [There&#39;s Only a Few Days Left To Get a PS5 at a Discounted Price     - CNET](https://www.cnet.com/deals/theres-only-a-few-days-left-to-get-a-ps5-at-a-discounted-price/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LinkedIn will no longer allow advertisers to target EU users based on data obtained from their participation in LinkedIn Groups, following a complaint to the EU &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240607/p15#a240607p15)
  - [TikTok says it has fixed a vulnerability that allowed user accounts to be hijacked after clicking on a malware-laced DM &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/240607/p14#a240607p14)
+ - [Master Coding With This 2024 Python Certification for Only $20     - CNET](https://www.cnet.com/deals/master-coding-with-this-2024-python-certification-for-only-20/#ftag=CAD590a51e)
  - [Apple’s last-gen iPad Pros with M2 chips are up to $400 off](https://www.theverge.com/2024/6/7/24173591/apple-ipad-pro-m2-tablet-value-deal-sale)
- - [Microsoft will make Recall an opt-in feature, encrypt its search index database, and require Windows Hello authentication and proof of presence to view timeline &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240607/p13#a240607p13)
- - [How hard is it to break into the Apple coding world?](https://appleinsider.com/articles/24/06/07/how-hard-is-it-to-break-into-the-apple-coding-world?utm_medium=rss)
- - [Microsoft Will Switch Off Recall by Default After Security Backlash](https://www.wired.com/story/microsoft-recall-off-default-security-concerns/)<!-- TECH:END -->
+ - [Best VPN Deals: Incredible Discounts on One- and Two-Year Subscriptions     - CNET](https://www.cnet.com/deals/best-vpn-sales-and-deals-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

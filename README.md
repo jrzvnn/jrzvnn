@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Take a look at the Miss Poland contestants. Noticing anything?](http://9gag.com/gag/aqyNdjR)
  - 😝 [Witch!](http://9gag.com/gag/azxEB2m)
- - 💣 [He was indeed in Floridugh\u2026](http://9gag.com/gag/aKGPKWg)
- - 😝 [Air Canada. Engine compressor stall on takeoff.](http://9gag.com/gag/aAyrv6o)
- - 👉 [Great game](http://9gag.com/gag/apR08V8)<!-- MEMES:END -->
+ - 😝 [Don&#39;t give up guys](http://9gag.com/gag/aD23Q3B)
+ - 💣 [Relationship](http://9gag.com/gag/a9yLV1L)
+ - 😝 [Witty sound on](http://9gag.com/gag/axyZAop)
+ - 👉 [Title](http://9gag.com/gag/aqyNDAR)<!-- MEMES:END -->
 
 ---
 

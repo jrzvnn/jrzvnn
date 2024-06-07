@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 16 Pro: Top 5 features that will matter the most to users &amp; upgraders](https://appleinsider.com/articles/24/06/07/iphone-16-pro-top-5-features-that-will-matter-the-most-to-users-upgraders?utm_medium=rss)
  - [Netflix’s Mike Tyson vs. Jake Paul fight pushed back to November](https://www.theverge.com/2024/6/7/24173618/netflix-mike-tyson-jake-paul-boxing-match-new-date)
  - [iOS 18 &amp; macOS 15 are going to look to the past for new wallpapers](https://appleinsider.com/articles/24/06/07/ios-18-macos-15-are-going-to-look-to-the-past-for-new-wallpapers?utm_medium=rss)
  - [Ahead of WWDC, Apple highlights its collection of developer resources](https://appleinsider.com/articles/24/06/07/ahead-of-wwdc-apple-highlights-its-collection-of-developer-resources?utm_medium=rss)
- - [Will AirPods Beat Out OTC Hearing Aids as Devices More People Will Use?     - CNET](https://www.cnet.com/health/medical/will-airpods-beat-out-otc-hearing-aids-as-devices-more-people-will-use/#ftag=CAD590a51e)
- - [Beis Makes the Viral Suitcase I Want to Take Everywhere](https://www.wired.com/story/beis-luggage-rave/)<!-- TECH:END -->
+ - [Will AirPods Beat Out OTC Hearing Aids as Devices More People Will Use?     - CNET](https://www.cnet.com/health/medical/will-airpods-beat-out-otc-hearing-aids-as-devices-more-people-will-use/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [There&#39;s Still Time to Snag the 75k Welcome Bonus for CNET&#39;s Favorite Travel Card     - CNET](https://www.cnet.com/personal-finance/dont-miss-it-chases-75000-point-limited-time-welcome-bonus-is-here-but-not-for-long/#ftag=CAD590a51e)
  - [How ex-FTC commissioner Joshua Wright became the tech industry&#39;s fixer, while allegedly juggling inappropriate relationships and skirting conflicts of interests &lpar;Brody Mullins/Wall Street Journal&rpar;](http://www.techmeme.com/240607/p18#a240607p18)
- - [Summer Game Fest 2024: all the news, trailers, and announcements](https://www.theverge.com/24170561/summer-game-fest-2024-trailers-news-geoff-keighley)
- - [The Biden administration relaxes another vehicle emission rule](https://www.theverge.com/2024/6/7/24173862/us-fuel-economy-nhtsa-cafe-emissions-biden-epa)
- - [Adobe’s new terms of service aren’t the problem — it’s the trust](https://www.theverge.com/2024/6/7/24173838/adobe-tos-update-firefly-generative-ai-trust)
- - [Adobe Defends Terms-of-Service Changes Amid Gen AI &#39;Explosion&#39;     - CNET](https://www.cnet.com/tech/services-and-software/adobe-defends-terms-of-service-changes-amid-gen-ai-explosion/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Streaming Services for Reality TV     - CNET](https://www.cnet.com/tech/services-and-software/best-streaming-services-for-reality-tv/#ftag=CAD590a51e)
+ - [Today&#39;s the Day: Watch &#39;Power Book II: Ghost&#39; Season 4 From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/today-the-day-watch-power-book-ii-ghost-season-4-from-anywhere/#ftag=CAD590a51e)
+ - [Summer Game Fest 2024: all the news, trailers, and announcements](https://www.theverge.com/24170561/summer-game-fest-2024-trailers-news-geoff-keighley)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

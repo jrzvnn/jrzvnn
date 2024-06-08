@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Logan is so annoyed in the third Deadpool &amp; Wolverine trailer](https://www.theverge.com/2024/6/8/24174358/deadpool-wolverine-trailer-3-marvel-hugh-jackman-ryan-reynolds-x-men)
  - [The best photo editing apps for iPad](https://appleinsider.com/inside/ipad/best/the-best-photo-editing-apps-for-ipad?utm_medium=rss)
  - [The New York Times confirms its internal source code and data leaked on 4chan after being stolen using an exposed GitHub token in January 2024 &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/240608/p6#a240608p6)
  - [iPhone 16: The Most Exciting Rumors     - CNET](https://www.cnet.com/tech/mobile/iphone-16-the-most-exciting-rumors/#ftag=CAD590a51e)
- - [Who Needs the Most Water and 4 Rules of Thumb for Getting Hydrated     - CNET](https://www.cnet.com/health/medical/who-needs-the-most-water-and-4-rules-of-thumb-for-getting-hydrated/#ftag=CAD590a51e)
- - [The cutest games from Wholesome Direct 2024](https://www.theverge.com/24171620/wholesome-direct-2024-sgf-trailers-news)<!-- TECH:END -->
+ - [Who Needs the Most Water and 4 Rules of Thumb for Getting Hydrated     - CNET](https://www.cnet.com/health/medical/who-needs-the-most-water-and-4-rules-of-thumb-for-getting-hydrated/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anker recalls its 321 Power Bank due to fire risk](https://www.theverge.com/2024/6/8/24174271/anker-321-power-bank-powercore-5k-a1112-recall)
+ - [Rest Easy: The Best Sleeping Positions for 12 Health Conditions     - CNET](https://www.cnet.com/health/sleep/best-sleeping-positions-common-health-conditions/#ftag=CAD590a51e)
  - [Sources detail Siri&#39;s new capabilities, along with the prompts Apple used to test the software, in apps like Camera, Mail, Safari, Notes, and Photos &lpar;Marko Zivkovic/AppleInsider&rpar;](http://www.techmeme.com/240608/p5#a240608p5)
- - [Nanoleaf’s modular Skylight panels are on sale for the first time](https://www.theverge.com/2024/6/8/24172828/nanoleaf-skylight-smarter-kit-blink-wired-floodlight-camera-deal-sale)
- - [The biggest movie trailers for the first week of June](https://www.theverge.com/2024/6/8/24174246/biggest-movie-trailers-venom-last-dance-alien-romulus-maxxxine-june-2024-first-week)
- - [Raycon The Magic Power Bank 5-in-1 Review: My New Favorite Portable Charger](https://www.wired.com/review/raycon-the-magic-power-bank-5-in-1/)
- - [6 of the Best Pull-Up Bars for Your Home Gym in 2024     - CNET](https://www.cnet.com/health/fitness/best-pull-up-bars/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Cordless Vacuums for 2024     - CNET](https://www.cnet.com/home/kitchen-and-household/best-cordless-vacuum/#ftag=CAD590a51e)
+ - [Nanoleaf’s modular Skylight panels are on sale for the first time](https://www.theverge.com/2024/6/8/24172828/nanoleaf-skylight-smarter-kit-blink-wired-floodlight-camera-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

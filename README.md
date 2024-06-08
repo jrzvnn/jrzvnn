@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Harvey, which builds generative AI tools for law firms, is in talks to raise $600M at a $2B+ valuation and mulls buying legal research company vLex &lpar;The Information&rpar;](http://www.techmeme.com/240607/p20#a240607p20)
- - [Valorant is finally coming to consoles](https://www.theverge.com/2024/6/7/24173544/valorant-ps5-xbox-release-date-riot)
- - [Alan Wake II DLC, Night Springs, Will Be Available June 8     - CNET](https://www.cnet.com/tech/gaming/alan-wake-ii-dlc-night-springs-will-be-available-june-8/#ftag=CAD590a51e)
- - [The future of the smart kitchen: robots, apps, and AI, oh my!](https://www.theverge.com/24173645/smart-kitchen-summit-gadgets-apps-future)
- - [Here’s our first look at the Among Us animated series](https://www.theverge.com/24172053/among-us-animated-series-trailer-summer-game-fest)<!-- TECH:END -->
+ - [NY passes legislation to ban social media platforms from using &quot;addictive&quot; recommendation algorithms for users under 18; Gov. Hochul is likely to sign the bill &lpar;Kat Tenbarge/NBC News&rpar;](http://www.techmeme.com/240607/p22#a240607p22)
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
+ - [Devolver’s indie game showcase had yakuza, cults, and a creepy reality TV show](https://www.theverge.com/24171195/devolver-digital-direct-2024-summer-game-fest-news-trailers)
+ - [AI search engine Perplexity is republishing parts of stories by Forbes and others, with nearly identical words and inadequate attribution, on its Pages feature &lpar;Forbes&rpar;](http://www.techmeme.com/240607/p21#a240607p21)
+ - [The 10 best games from the Day of the Devs showcase](https://www.theverge.com/24171651/day-of-the-devs-showcase-summer-game-fest-2024-best)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

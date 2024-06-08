@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [SpaceX did it, amazing footage](http://9gag.com/gag/aQz4OYr)
- - 😝 [Brazil.exe](http://9gag.com/gag/ae90PA5)
- - 💣 [Sexy Austrian accent](http://9gag.com/gag/ae90WBQ)
  - 😝 [Title](http://9gag.com/gag/azxEYpN)
- - 👉 [Take a look at the Miss Poland contestants. Noticing anything?](http://9gag.com/gag/aqyNdjR)<!-- MEMES:END -->
+ - 😝 [True love](http://9gag.com/gag/azxEDXB)
+ - 💣 [Good for her](http://9gag.com/gag/aXPpdjg)
+ - 😝 [Wonder Woman](http://9gag.com/gag/aVvW17P)
+ - 👉 [Brazil.exe](http://9gag.com/gag/ae90PA5)<!-- MEMES:END -->
 
 ---
 

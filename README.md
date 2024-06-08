@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sexy Austrian accent](http://9gag.com/gag/ae90WBQ)
- - 😝 [Wonder Woman](http://9gag.com/gag/aVvW17P)
- - 💣 [Trying to steal the tip jar, bro should get a promotion.](http://9gag.com/gag/apR0jBb)
- - 😝 [He was indeed in Floridugh\u2026](http://9gag.com/gag/aKGPKWg)
- - 👉 [If this is true Disney has butchered the franchise. Well, they kinda already did. Vote with your wallet folks.](http://9gag.com/gag/avyg9zO)<!-- MEMES:END -->
+ - 😝 [Wallpaper](http://9gag.com/gag/aVvWVwy)
+ - 😝 [My favorite candy as a kid was a Kinder surprise egg. Today I bought my son his first one &lpar;this stupid version of it was all I could find&rpar;, the `surprise` he got was this lame bracelet. The world sucks now.](http://9gag.com/gag/amo0Re2)
+ - 💣 [How A Human Body Implodes at 3800 Metres Below Sea Level](http://9gag.com/gag/aNDZjd0)
+ - 😝 [I coded a free AI tool to help indie-devs make 3D textures from a PC! No sever, no subscriptions, no tokens. Textured this model in just a few minutes. Go make awesome games!! :D](http://9gag.com/gag/aXPpKzD)
+ - 👉 [Florida cops watched the batman movies and uses their strap on technique...](http://9gag.com/gag/aNDZOq4)<!-- MEMES:END -->
 
 ---
 

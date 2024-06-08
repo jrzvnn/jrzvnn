@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Adulthood can be brutal](http://9gag.com/gag/a343ePQ)
- - 😝 [Wonder Woman](http://9gag.com/gag/aVvW17P)
- - 💣 [Numbers sorted alphabetically in different languages](http://9gag.com/gag/a5QPyWL)
- - 😝 [Poor kid didn&#39;t deserve this](http://9gag.com/gag/aBy3NDP)
- - 👉 [Christianity was in africa before europe...](http://9gag.com/gag/aRBPRL2)<!-- MEMES:END -->
+ - 😝 [Don&#39;t give up guys](http://9gag.com/gag/aD23Q3B)
+ - 😝 [Great game](http://9gag.com/gag/apR08V8)
+ - 💣 [Wtf](http://9gag.com/gag/avygXBE)
+ - 😝 [Good for her](http://9gag.com/gag/aXPpdjg)
+ - 👉 [God damnit... *unzips*](http://9gag.com/gag/abAymDX)<!-- MEMES:END -->
 
 ---
 

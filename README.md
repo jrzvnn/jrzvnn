@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She&#39;s been through hell for 8 months, but now she is safe and back home!](http://9gag.com/gag/aVvW42n)
- - 😝 [Just trying to do their job](http://9gag.com/gag/aW4WNg3)
- - 💣 [Wtf](http://9gag.com/gag/avygXBE)
- - 😝 [Take a look at the Miss Poland contestants. Noticing anything?](http://9gag.com/gag/aqyNdjR)
- - 👉 [God damnit... *unzips*](http://9gag.com/gag/abAymDX)<!-- MEMES:END -->
+ - 😝 [True love](http://9gag.com/gag/azxEDXB)
+ - 😝 [Go buy some coke.](http://9gag.com/gag/a6Zy3gb)
+ - 💣 [Brazil.exe](http://9gag.com/gag/ae90PA5)
+ - 😝 [Air Canada. Engine compressor stall on takeoff.](http://9gag.com/gag/aAyrv6o)
+ - 👉 [Duhhh](http://9gag.com/gag/ary4rj6)<!-- MEMES:END -->
 
 ---
 

@@ -173,9 +173,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Take a look at the Miss Poland contestants. Noticing anything?](http://9gag.com/gag/aqyNdjR)
  - 😝 [Poor kid didn&#39;t deserve this](http://9gag.com/gag/aBy3NDP)
- - 💣 [Stop the music](http://9gag.com/gag/agmvpq6)
- - 😝 [Wtf](http://9gag.com/gag/avygXBE)
- - 👉 [Just trying to do their job](http://9gag.com/gag/aW4WNg3)<!-- MEMES:END -->
+ - 💣 [Wtf](http://9gag.com/gag/avygXBE)
+ - 😝 [Just trying to do their job](http://9gag.com/gag/aW4WNg3)
+ - 👉 [Thee exes to go then ...](http://9gag.com/gag/a5QPxbL)<!-- MEMES:END -->
 
 ---
 

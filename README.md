@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Raycon The Magic Power Bank 5-in-1 Review: My New Favorite Portable Charger](https://www.wired.com/review/raycon-the-magic-power-bank-5-in-1/)
+ - [The Acolyte took Star Wars back in time by taking things away](https://www.theverge.com/24172264/the-acolyte-high-republic-star-wars-design-interview)
  - [Why AI gadgets and wearables won&#39;t replace smartphones anytime soon](https://appleinsider.com/articles/24/06/08/why-ai-gadgets-and-wearables-wont-replace-smartphones-anytime-soon?utm_medium=rss)
  - [Q&amp;A with Arm CEO Rene Haas about Microsoft&#39;s big push with Arm-based PCs, AI wearables, Arm&#39;s adoption in the cloud, competition from RISC-V and Intel, and more &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/240608/p4#a240608p4)
- - [Is Apple about to finally launch the real Siri?](https://www.theverge.com/2024/6/8/24172902/apple-siri-ai-2024-wwdc)
- - [24 Best Gifts for Dad &lpar;2024&rpar;: Grilling Gear, Coffee, Mitts](https://www.wired.com/gallery/gifts-for-dads/)
- - [&#39;The Acolyte&#39; Release Schedule and How to Stream the Series From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/the-acolyte-release-schedule-and-how-to-stream-the-series-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Is Apple about to finally launch the real Siri?](https://www.theverge.com/2024/6/8/24172902/apple-siri-ai-2024-wwdc)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

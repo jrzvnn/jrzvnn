@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Just trying to do their job](http://9gag.com/gag/aW4WNg3)
  - 😝 [Adulthood can be brutal](http://9gag.com/gag/a343ePQ)
- - 😝 [One chip\u2026](http://9gag.com/gag/agmvjWn)
- - 💣 [Good for her](http://9gag.com/gag/aXPpdjg)
- - 😝 [Sexy Austrian accent](http://9gag.com/gag/ae90WBQ)
- - 👉 [Take a look at the Miss Poland contestants. Noticing anything?](http://9gag.com/gag/aqyNdjR)<!-- MEMES:END -->
+ - 💣 [Take a look at the Miss Poland contestants. Noticing anything?](http://9gag.com/gag/aqyNdjR)
+ - 😝 [Yaaay Let&#39;s Mix Oil With Water](http://9gag.com/gag/aGywbQ0)
+ - 👉 [Missing pixels](http://9gag.com/gag/aVvWdqP)<!-- MEMES:END -->
 
 ---
 

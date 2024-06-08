@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Internet Providers in Houston, Texas     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-houston-tx/#ftag=CAD590a51e)
+ - [WWDC 2024: Siri Could Get an AI Glow Up to Better Compete With ChatGPT and Gemini     - CNET](https://www.cnet.com/tech/mobile/wwdc-2024-siri-could-get-an-ai-glow-up-to-better-compete-with-chatgpt-and-gemini/#ftag=CAD590a51e)
  - [Renewable Energy Is Getting Cheaper. Why Aren&#39;t Power Bills?     - CNET](https://www.cnet.com/home/energy-and-utilities/renewable-energy-is-getting-cheaper-why-arent-power-bills/#ftag=CAD590a51e)
  - [Your Monthly Social Security 2024 Benefits and How to Keep Them     - CNET](https://www.cnet.com/personal-finance/your-monthly-social-security-2024-benefits-and-how-to-keep-them/#ftag=CAD590a51e)
- - [Spain vs. Northern Ireland Livestream: How to Watch International Friendly Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/spain-vs-northern-ireland-livestream-how-to-watch-international-friendly-soccer-from-anywhere/#ftag=CAD590a51e)
- - [X remains a popular destination for people highly engaged in politics, with DC insiders reluctantly buying blue checks and candidates paying for cheap ads &lpar;NOTUS&rpar;](http://www.techmeme.com/240608/p7#a240608p7)
- - [Logan is so annoyed in the third Deadpool &amp; Wolverine trailer](https://www.theverge.com/2024/6/8/24174358/deadpool-wolverine-trailer-3-marvel-hugh-jackman-ryan-reynolds-x-men)<!-- TECH:END -->
+ - [Spain vs. Northern Ireland Livestream: How to Watch International Friendly Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/spain-vs-northern-ireland-livestream-how-to-watch-international-friendly-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

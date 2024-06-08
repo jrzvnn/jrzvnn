@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Things Keep Getting Worse for the Humane Ai Pin](https://www.wired.com/story/things-keep-getting-worse-for-the-humane-ai-pin/)
  - [Siri is reborn in iOS 18 -- everything Apple&#39;s voice assistant will be able to do](https://appleinsider.com/articles/24/06/08/siri-is-reborn-in-ios-18----everything-apples-voice-assistant-will-be-able-to-do?utm_medium=rss)
  - [With So Much Bird Flu Around, Are Eggs, Chicken, and Milk Still Safe to Consume?](https://www.wired.com/story/bird-flu-how-safe-are-eggs-chicken-milk-h5n1-h5n2/)
  - [iPhone 16 Pro: Top 5 features that will matter the most to users &amp; upgraders](https://appleinsider.com/articles/24/06/07/iphone-16-pro-top-5-features-that-will-matter-the-most-to-users-upgraders?utm_medium=rss)
- - [The 44 Best Movies on Netflix Right Now &lpar;June 2024&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [The End of El Niño Might Make the Weather Even More Extreme](https://www.wired.com/story/el-nino-la-nina-extreme-weather-heat-2024/)<!-- TECH:END -->
+ - [The 44 Best Movies on Netflix Right Now &lpar;June 2024&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

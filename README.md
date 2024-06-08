@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Take a look at the Miss Poland contestants. Noticing anything?](http://9gag.com/gag/aqyNdjR)
- - 😝 [N excellence at full display](http://9gag.com/gag/ae90PBj)
- - 💣 [Just trying to do their job](http://9gag.com/gag/aW4WNg3)
- - 😝 [Wonder Woman](http://9gag.com/gag/aVvW17P)
- - 👉 [Wtf](http://9gag.com/gag/avygXBE)<!-- MEMES:END -->
+ - 😝 [Go buy some coke.](http://9gag.com/gag/a6Zy3gb)
+ - 😝 [Just trying to do their job](http://9gag.com/gag/aW4WNg3)
+ - 💣 [Crash and huff](http://9gag.com/gag/aAyrmeL)
+ - 😝 [God damnit... *unzips*](http://9gag.com/gag/abAymDX)
+ - 👉 [This idiot teased a girl. Later when he was arrested, police beat him so bad he was not able to walk.](http://9gag.com/gag/aD23rNZ)<!-- MEMES:END -->
 
 ---
 

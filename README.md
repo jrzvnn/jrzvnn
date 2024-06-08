@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wonder Woman](http://9gag.com/gag/aVvW17P)
- - 😝 [Just trying to do their job](http://9gag.com/gag/aW4WNg3)
- - 💣 [Go buy some coke.](http://9gag.com/gag/a6Zy3gb)
- - 😝 [Great game](http://9gag.com/gag/apR08V8)
- - 👉 [Missing pixels](http://9gag.com/gag/aVvWdqP)<!-- MEMES:END -->
+ - 😝 [Dude just earned the right to keep that dog](http://9gag.com/gag/aBy3NnP)
+ - 😝 [He was indeed in Floridugh\u2026](http://9gag.com/gag/aKGPKWg)
+ - 💣 [If this is true Disney has butchered the franchise. Well, they kinda already did. Vote with your wallet folks.](http://9gag.com/gag/avyg9zO)
+ - 😝 [God damnit... *unzips*](http://9gag.com/gag/abAymDX)
+ - 👉 [Just trying to do their job](http://9gag.com/gag/aW4WNg3)<!-- MEMES:END -->
 
 ---
 

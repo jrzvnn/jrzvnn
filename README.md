@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [24 Best Gifts for Dad &lpar;2024&rpar;: Grilling Gear, Coffee, Mitts](https://www.wired.com/gallery/gifts-for-dads/)
  - [Things Keep Getting Worse for the Humane Ai Pin](https://www.wired.com/story/things-keep-getting-worse-for-the-humane-ai-pin/)
  - [Siri is reborn in iOS 18 -- everything Apple&#39;s voice assistant will be able to do](https://appleinsider.com/articles/24/06/08/siri-is-reborn-in-ios-18----everything-apples-voice-assistant-will-be-able-to-do?utm_medium=rss)
- - [With So Much Bird Flu Around, Are Eggs, Chicken, and Milk Still Safe to Consume?](https://www.wired.com/story/bird-flu-how-safe-are-eggs-chicken-milk-h5n1-h5n2/)
- - [iPhone 16 Pro: Top 5 features that will matter the most to users &amp; upgraders](https://appleinsider.com/articles/24/06/07/iphone-16-pro-top-5-features-that-will-matter-the-most-to-users-upgraders?utm_medium=rss)
- - [The 44 Best Movies on Netflix Right Now &lpar;June 2024&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)<!-- TECH:END -->
+ - [Belmont Stakes 2024: How to Watch Today&#39;s Race From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/belmont-stakes-2024-how-to-watch-todays-race-from-anywhere/#ftag=CAD590a51e)
+ - [Apple&#39;s WWDC 2024: Everything We Expect to See and How to Watch It Live     - CNET](https://www.cnet.com/tech/mobile/apples-wwdc-2024-everything-we-expect-to-see-and-how-to-watch-it-live/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meituan reports Q1 revenue up 25% YoY to ~$10.1B and profit up ~60% YoY to ~$745M, boosted by gains from its core local commerce operations led by food delivery &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/240607/p23#a240607p23)
  - [Best Photo Books for 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-photo-books/#ftag=CAD590a51e)
  - [Best Online Glasses and Contacts Deals: Save on Designer Frames and Top Brand Contact Lenses     - CNET](https://www.cnet.com/deals/best-online-glasses-and-contacts-deals/#ftag=CAD590a51e)
  - [NY passes legislation to ban social media platforms from using &quot;addictive&quot; recommendation algorithms for users under 18; Gov. Hochul is likely to sign the bill &lpar;Kat Tenbarge/NBC News&rpar;](http://www.techmeme.com/240607/p22#a240607p22)
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Don&#39;t Fall for This &#39;Get Rich Quick Scheme&#39; on Social Media     - CNET](https://www.cnet.com/personal-finance/stop-with-the-mlms-already-watch-out-for-this-predatory-new-instagram-and-tiktok-scam/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

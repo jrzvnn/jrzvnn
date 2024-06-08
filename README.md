@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If this is true Disney has butchered the franchise. Well, they kinda already did. Vote with your wallet folks.](http://9gag.com/gag/avyg9zO)
- - 😝 [Crash and huff](http://9gag.com/gag/aAyrmeL)
- - 💣 [Brazil.exe](http://9gag.com/gag/ae90PA5)
- - 😝 [Take a look at the Miss Poland contestants. Noticing anything?](http://9gag.com/gag/aqyNdjR)
- - 👉 [Good for her](http://9gag.com/gag/aXPpdjg)<!-- MEMES:END -->
+ - 😝 [Good news everyone ! 4 abductees were found and released from gaza.](http://9gag.com/gag/aZZxo1n)
+ - 😝 [Don&#39;t give up guys](http://9gag.com/gag/aD23Q3B)
+ - 💣 [Gentlemen\u2026 I am officially \u201cBee Keeping Age\u201d.](http://9gag.com/gag/an7Kddo)
+ - 😝 [Title](http://9gag.com/gag/aqyNDAR)
+ - 👉 [Cyberlord](http://9gag.com/gag/apR088W)<!-- MEMES:END -->
 
 ---
 

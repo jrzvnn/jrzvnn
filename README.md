@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X remains a popular destination for people highly engaged in politics, with DC insiders reluctantly buying blue checks and candidates paying for cheap ads &lpar;NOTUS&rpar;](http://www.techmeme.com/240608/p7#a240608p7)
  - [Logan is so annoyed in the third Deadpool &amp; Wolverine trailer](https://www.theverge.com/2024/6/8/24174358/deadpool-wolverine-trailer-3-marvel-hugh-jackman-ryan-reynolds-x-men)
  - [Upgrade Your Summer Dishes With This Father&#39;s Day BOGO Deal at Savory Spices Until June 16     - CNET](https://www.cnet.com/deals/upgrade-your-summer-dishes-with-this-fathers-day-bogo-deal-at-savory-spices-until-june-16/#ftag=CAD590a51e)
  - [The best photo editing apps for iPad](https://appleinsider.com/inside/ipad/best/the-best-photo-editing-apps-for-ipad?utm_medium=rss)
- - [The New York Times confirms its internal source code and data leaked on 4chan after being stolen using an exposed GitHub token in January 2024 &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/240608/p6#a240608p6)
- - [iPhone 16: The Most Exciting Rumors     - CNET](https://www.cnet.com/tech/mobile/iphone-16-the-most-exciting-rumors/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The New York Times confirms its internal source code and data leaked on 4chan after being stolen using an exposed GitHub token in January 2024 &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/240608/p6#a240608p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

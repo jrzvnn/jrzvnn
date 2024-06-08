@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t give up guys](http://9gag.com/gag/aD23Q3B)
+ - 😝 [Wtf](http://9gag.com/gag/avygXBE)
  - 😝 [Great game](http://9gag.com/gag/apR08V8)
- - 💣 [Wtf](http://9gag.com/gag/avygXBE)
- - 😝 [Good for her](http://9gag.com/gag/aXPpdjg)
- - 👉 [God damnit... *unzips*](http://9gag.com/gag/abAymDX)<!-- MEMES:END -->
+ - 💣 [Good for her](http://9gag.com/gag/aXPpdjg)
+ - 😝 [Witch!](http://9gag.com/gag/azxEB2m)
+ - 👉 [Crash and huff](http://9gag.com/gag/aAyrmeL)<!-- MEMES:END -->
 
 ---
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best photo editing apps for iPad](https://appleinsider.com/inside/ipad/best/the-best-photo-editing-apps-for-ipad?utm_medium=rss)
  - [The New York Times confirms its internal source code and data leaked on 4chan after being stolen using an exposed GitHub token in January 2024 &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/240608/p6#a240608p6)
  - [The cutest games from Wholesome Direct 2024](https://www.theverge.com/24171620/wholesome-direct-2024-sgf-trailers-news)
  - [Apple&#39;s Mac mini M2 just dropped to $479 in latest price war](https://appleinsider.com/articles/24/06/08/apples-mac-mini-m2-just-dropped-to-479-in-latest-price-war?utm_medium=rss)
- - [Anker recalls its 321 Power Bank due to fire risk](https://www.theverge.com/2024/6/8/24174271/anker-321-power-bank-powercore-5k-a1112-recall)
- - [Portugal vs. Croatia Livestream: How to Watch International Friendly Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/portugal-vs-croatia-livestream-how-to-watch-international-friendly-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Anker recalls its 321 Power Bank due to fire risk](https://www.theverge.com/2024/6/8/24174271/anker-321-power-bank-powercore-5k-a1112-recall)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

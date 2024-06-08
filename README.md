@@ -172,10 +172,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Take a look at the Miss Poland contestants. Noticing anything?](http://9gag.com/gag/aqyNdjR)
- - 😝 [1890s woman getting photographed for the first time](http://9gag.com/gag/avyg91Z)
- - 💣 [Dude just earned the right to keep that dog](http://9gag.com/gag/aBy3NnP)
- - 😝 [Crash and huff](http://9gag.com/gag/aAyrmeL)
- - 👉 [N excellence at full display](http://9gag.com/gag/ae90PBj)<!-- MEMES:END -->
+ - 😝 [N excellence at full display](http://9gag.com/gag/ae90PBj)
+ - 💣 [Just trying to do their job](http://9gag.com/gag/aW4WNg3)
+ - 😝 [Wonder Woman](http://9gag.com/gag/aVvW17P)
+ - 👉 [Wtf](http://9gag.com/gag/avygXBE)<!-- MEMES:END -->
 
 ---
 

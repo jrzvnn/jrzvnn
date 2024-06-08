@@ -171,10 +171,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [4 Israeli hostages were rescued by the IDF special forces in a super complicated operation, inside highly populated area in central Gaza](http://9gag.com/gag/aLnPVzA)
+ - 😝 [Why?](http://9gag.com/gag/aXPpmx6)
+ - 😝 [Go buy some coke.](http://9gag.com/gag/a6Zy3gb)
+ - 💣 [Welcome back guys, we will try to bring the others as well.](http://9gag.com/gag/aPA4z1B)
  - 😝 [The 80&#39;s. When the coke was pure, white people had rhythm and they all dressed like they were to a corporate meeting.](http://9gag.com/gag/aXPpmoP)
- - 💣 [Take a break from prop*ganda](http://9gag.com/gag/awyK95D)
- - 😝 [Welcome back guys, we will try to bring the others as well.](http://9gag.com/gag/aPA4z1B)
  - 👉 [No way. where is my straw?](http://9gag.com/gag/azxEoRz)<!-- MEMES:END -->
 
 ---

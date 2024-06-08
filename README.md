@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If this is true Disney has butchered the franchise. Well, they kinda already did. Vote with your wallet folks.](http://9gag.com/gag/avyg9zO)
- - 😝 [Christianity was in africa before europe...](http://9gag.com/gag/aRBPRL2)
- - 💣 [Just trying to do their job](http://9gag.com/gag/aW4WNg3)
- - 😝 [Good for her](http://9gag.com/gag/aXPpdjg)
- - 👉 [Crash and huff](http://9gag.com/gag/aAyrmeL)<!-- MEMES:END -->
+ - 😝 [Exam-passing pen](http://9gag.com/gag/an7K8Kb)
+ - 😝 [I love living in this place](http://9gag.com/gag/aAyrNQL)
+ - 💣 [Why government matters](http://9gag.com/gag/aZZxV0n)
+ - 😝 [NOA Has been rescued along with 5 more](http://9gag.com/gag/a343eAe)
+ - 👉 [Think Europe think](http://9gag.com/gag/aLnPV9x)<!-- MEMES:END -->
 
 ---
 

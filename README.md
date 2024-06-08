@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [1890s woman getting photographed for the first time](http://9gag.com/gag/avyg91Z)
- - 😝 [Florida cops watched the batman movies and uses their strap on technique...](http://9gag.com/gag/aNDZOq4)
- - 💣 [Car parked near railroad gets smashed by oncoming train in Vietnam](http://9gag.com/gag/aBy3OxN)
- - 😝 [She couldn&#39;t enjoy her pizza after a long day.](http://9gag.com/gag/aNDZOVG)
- - 👉 [Gone in 5 minutes](http://9gag.com/gag/aNDZR7v)<!-- MEMES:END -->
+ - 😝 [Witty sound on](http://9gag.com/gag/axyZAop)
+ - 😝 [Witch!](http://9gag.com/gag/azxEB2m)
+ - 💣 [Relationship](http://9gag.com/gag/a9yLV1L)
+ - 😝 [Good for her](http://9gag.com/gag/aXPpdjg)
+ - 👉 [Don&#39;t give up guys](http://9gag.com/gag/aD23Q3B)<!-- MEMES:END -->
 
 ---
 

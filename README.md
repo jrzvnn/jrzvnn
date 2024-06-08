@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Take a look at the Miss Poland contestants. Noticing anything?](http://9gag.com/gag/aqyNdjR)
- - 😝 [Poor kid didn&#39;t deserve this](http://9gag.com/gag/aBy3NDP)
- - 💣 [Wtf](http://9gag.com/gag/avygXBE)
- - 😝 [Just trying to do their job](http://9gag.com/gag/aW4WNg3)
- - 👉 [Thee exes to go then ...](http://9gag.com/gag/a5QPxbL)<!-- MEMES:END -->
+ - 😝 [Now this is too far](http://9gag.com/gag/aoy0d40)
+ - 😝 [True love](http://9gag.com/gag/azxEDXB)
+ - 💣 [Just trying to do their job](http://9gag.com/gag/aW4WNg3)
+ - 😝 [Skydiving is always a question of whether everything is fine and error-free.](http://9gag.com/gag/aZZxvxV)
+ - 👉 [Take a look at the Miss Poland contestants. Noticing anything?](http://9gag.com/gag/aqyNdjR)<!-- MEMES:END -->
 
 ---
 

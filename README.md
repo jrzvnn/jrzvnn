@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Crash and huff](http://9gag.com/gag/aAyrmeL)
- - 😝 [Brazil.exe](http://9gag.com/gag/ae90PA5)
- - 💣 [Witch!](http://9gag.com/gag/azxEB2m)
- - 😝 [If this is true Disney has butchered the franchise. Well, they kinda already did. Vote with your wallet folks.](http://9gag.com/gag/avyg9zO)
- - 👉 [Wonder Woman](http://9gag.com/gag/aVvW17P)<!-- MEMES:END -->
+ - 😝 [Wonder Woman](http://9gag.com/gag/aVvW17P)
+ - 😝 [Just trying to do their job](http://9gag.com/gag/aW4WNg3)
+ - 💣 [Go buy some coke.](http://9gag.com/gag/a6Zy3gb)
+ - 😝 [Great game](http://9gag.com/gag/apR08V8)
+ - 👉 [Missing pixels](http://9gag.com/gag/aVvWdqP)<!-- MEMES:END -->
 
 ---
 

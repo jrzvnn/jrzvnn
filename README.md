@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Activities](http://9gag.com/gag/a5QPD0N)
- - 😝 [Take a look at the Miss Poland contestants. Noticing anything?](http://9gag.com/gag/aqyNdjR)
- - 💣 [Missing pixels](http://9gag.com/gag/aVvWdqP)
- - 😝 [He was indeed in Floridugh\u2026](http://9gag.com/gag/aKGPKWg)
- - 👉 [Crash and huff](http://9gag.com/gag/aAyrmeL)<!-- MEMES:END -->
+ - 😝 [Christianity was in africa before europe...](http://9gag.com/gag/aRBPRL2)
+ - 😝 [Dude just earned the right to keep that dog](http://9gag.com/gag/aBy3NnP)
+ - 💣 [She couldn&#39;t enjoy her pizza after a long day.](http://9gag.com/gag/aNDZOVG)
+ - 😝 [True love](http://9gag.com/gag/azxEDXB)
+ - 👉 [6000 police officers, firefighters, customs officers, security service at funeral march in Berlin](http://9gag.com/gag/a343pem)<!-- MEMES:END -->
 
 ---
 

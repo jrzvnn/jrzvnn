@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The End of El Niño Might Make the Weather Even More Extreme](https://www.wired.com/story/el-nino-la-nina-extreme-weather-heat-2024/)
+ - [The 44 Best Movies on Netflix Right Now &lpar;June 2024&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [The 48 Best Shows on Netflix Right Now &lpar;June 2024&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
  - [A look at Japan&#39;s role in the global chip battle; Omdia: Japanese companies account for nearly half of the world&#39;s six crucial semiconductor materials &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240608/p3#a240608p3)
- - [Apple Is Coming for Your Password Manager](https://www.wired.com/story/apple-passwords-password-manager-wwdc-security-roundup/)
- - [MSI Claw after more updates: nope, it’s still a dud](https://www.theverge.com/2024/6/8/24174086/msi-claw-updates-review-addendum)
- - [How to Use ChatGPT to Write a Cover Letter     - CNET](https://www.cnet.com/tech/services-and-software/how-to-use-chatgpt-to-write-a-cover-letter/#ftag=CAD590a51e)
- - [Best iPhone in 2024: Which Apple Phone Should You Buy?     - CNET](https://www.cnet.com/tech/mobile/best-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Is Coming for Your Password Manager](https://www.wired.com/story/apple-passwords-password-manager-wwdc-security-roundup/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

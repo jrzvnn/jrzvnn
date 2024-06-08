@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dude just earned the right to keep that dog](http://9gag.com/gag/aBy3NnP)
+ - 😝 [Activities](http://9gag.com/gag/a5QPD0N)
+ - 😝 [Take a look at the Miss Poland contestants. Noticing anything?](http://9gag.com/gag/aqyNdjR)
+ - 💣 [Missing pixels](http://9gag.com/gag/aVvWdqP)
  - 😝 [He was indeed in Floridugh\u2026](http://9gag.com/gag/aKGPKWg)
- - 💣 [If this is true Disney has butchered the franchise. Well, they kinda already did. Vote with your wallet folks.](http://9gag.com/gag/avyg9zO)
- - 😝 [God damnit... *unzips*](http://9gag.com/gag/abAymDX)
- - 👉 [Just trying to do their job](http://9gag.com/gag/aW4WNg3)<!-- MEMES:END -->
+ - 👉 [Crash and huff](http://9gag.com/gag/aAyrmeL)<!-- MEMES:END -->
 
 ---
 

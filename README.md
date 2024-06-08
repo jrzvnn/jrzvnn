@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Numbers sorted alphabetically in different languages](http://9gag.com/gag/a5QPyWL)
- - 😝 [Dude just earned the right to keep that dog](http://9gag.com/gag/aBy3NnP)
- - 💣 [Witch!](http://9gag.com/gag/azxEB2m)
+ - 😝 [Crash and huff](http://9gag.com/gag/aAyrmeL)
  - 😝 [Brazil.exe](http://9gag.com/gag/ae90PA5)
- - 👉 [True love](http://9gag.com/gag/azxEDXB)<!-- MEMES:END -->
+ - 💣 [Witch!](http://9gag.com/gag/azxEB2m)
+ - 😝 [If this is true Disney has butchered the franchise. Well, they kinda already did. Vote with your wallet folks.](http://9gag.com/gag/avyg9zO)
+ - 👉 [Wonder Woman](http://9gag.com/gag/aVvW17P)<!-- MEMES:END -->
 
 ---
 

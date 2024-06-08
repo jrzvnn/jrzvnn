@@ -164,9 +164,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Is Apple about to finally launch the real Siri?](https://www.theverge.com/2024/6/8/24172902/apple-siri-ai-2024-wwdc)
  - [24 Best Gifts for Dad &lpar;2024&rpar;: Grilling Gear, Coffee, Mitts](https://www.wired.com/gallery/gifts-for-dads/)
- - [&#39;The Acolyte&#39; Release Schedule and How to Stream the Series From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/the-acolyte-release-schedule-and-how-to-stream-the-series-from-anywhere/#ftag=CAD590a51e)
- - [Fujifilm X100VI: My Travels With an iPhone and TikTok&#39;s Favorite Camera video     - CNET](https://www.cnet.com/videos/fujifilm-x100vi-my-travels-with-an-iphone-and-tiktoks-favorite-camera/#ftag=CAD590a51e)
- - [Things Keep Getting Worse for the Humane Ai Pin](https://www.wired.com/story/things-keep-getting-worse-for-the-humane-ai-pin/)<!-- TECH:END -->
+ - [Things Keep Getting Worse for the Humane Ai Pin](https://www.wired.com/story/things-keep-getting-worse-for-the-humane-ai-pin/)
+ - [Siri is reborn in iOS 18 -- everything Apple&#39;s voice assistant will be able to do](https://appleinsider.com/articles/24/06/08/siri-is-reborn-in-ios-18----everything-apples-voice-assistant-will-be-able-to-do?utm_medium=rss)
+ - [Belmont Stakes 2024: How to Watch Today&#39;s Race From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/belmont-stakes-2024-how-to-watch-todays-race-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

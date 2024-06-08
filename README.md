@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just trying to do their job](http://9gag.com/gag/aW4WNg3)
  - 😝 [Adulthood can be brutal](http://9gag.com/gag/a343ePQ)
- - 💣 [Take a look at the Miss Poland contestants. Noticing anything?](http://9gag.com/gag/aqyNdjR)
- - 😝 [Yaaay Let&#39;s Mix Oil With Water](http://9gag.com/gag/aGywbQ0)
- - 👉 [Missing pixels](http://9gag.com/gag/aVvWdqP)<!-- MEMES:END -->
+ - 😝 [Wonder Woman](http://9gag.com/gag/aVvW17P)
+ - 💣 [Numbers sorted alphabetically in different languages](http://9gag.com/gag/a5QPyWL)
+ - 😝 [Poor kid didn&#39;t deserve this](http://9gag.com/gag/aBy3NDP)
+ - 👉 [Christianity was in africa before europe...](http://9gag.com/gag/aRBPRL2)<!-- MEMES:END -->
 
 ---
 

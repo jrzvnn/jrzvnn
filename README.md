@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Air Canada. Engine compressor stall on takeoff.](http://9gag.com/gag/aAyrv6o)
- - 😝 [Poor kid didn&#39;t deserve this](http://9gag.com/gag/aBy3NDP)
- - 💣 [Wtf is wrong with the cops in England ?](http://9gag.com/gag/a343pX5)
- - 😝 [Wtf](http://9gag.com/gag/avygXBE)
- - 👉 [Crash and huff](http://9gag.com/gag/aAyrmeL)<!-- MEMES:END -->
+ - 😝 [If this is true Disney has butchered the franchise. Well, they kinda already did. Vote with your wallet folks.](http://9gag.com/gag/avyg9zO)
+ - 😝 [Crash and huff](http://9gag.com/gag/aAyrmeL)
+ - 💣 [Brazil.exe](http://9gag.com/gag/ae90PA5)
+ - 😝 [Take a look at the Miss Poland contestants. Noticing anything?](http://9gag.com/gag/aqyNdjR)
+ - 👉 [Good for her](http://9gag.com/gag/aXPpdjg)<!-- MEMES:END -->
 
 ---
 

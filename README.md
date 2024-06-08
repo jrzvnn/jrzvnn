@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 16 Pro: Top 5 features that will matter the most to users &amp; upgraders](https://appleinsider.com/articles/24/06/07/iphone-16-pro-top-5-features-that-will-matter-the-most-to-users-upgraders?utm_medium=rss)
  - [The End of El Niño Might Make the Weather Even More Extreme](https://www.wired.com/story/el-nino-la-nina-extreme-weather-heat-2024/)
  - [The 44 Best Movies on Netflix Right Now &lpar;June 2024&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
  - [The 48 Best Shows on Netflix Right Now &lpar;June 2024&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
- - [A look at Japan&#39;s role in the global chip battle; Omdia: Japanese companies account for nearly half of the world&#39;s six crucial semiconductor materials &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240608/p3#a240608p3)
- - [Apple Is Coming for Your Password Manager](https://www.wired.com/story/apple-passwords-password-manager-wwdc-security-roundup/)<!-- TECH:END -->
+ - [A look at Japan&#39;s role in the global chip battle; Omdia: Japanese companies account for nearly half of the world&#39;s six crucial semiconductor materials &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240608/p3#a240608p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

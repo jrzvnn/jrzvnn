@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She couldn&#39;t enjoy her pizza after a long day.](http://9gag.com/gag/aNDZOVG)
- - 😝 [Slim shady](http://9gag.com/gag/aYQWm1q)
+ - 😝 [Sexy Austrian accent](http://9gag.com/gag/ae90WBQ)
+ - 😝 [Wonder Woman](http://9gag.com/gag/aVvW17P)
  - 💣 [Trying to steal the tip jar, bro should get a promotion.](http://9gag.com/gag/apR0jBb)
- - 😝 [Great game](http://9gag.com/gag/apR08V8)
- - 👉 [Twitter Now Be Like](http://9gag.com/gag/apR082n)<!-- MEMES:END -->
+ - 😝 [He was indeed in Floridugh\u2026](http://9gag.com/gag/aKGPKWg)
+ - 👉 [If this is true Disney has butchered the franchise. Well, they kinda already did. Vote with your wallet folks.](http://9gag.com/gag/avyg9zO)<!-- MEMES:END -->
 
 ---
 

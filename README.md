@@ -171,9 +171,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Numbers sorted alphabetically in different languages](http://9gag.com/gag/a5QPyWL)
  - 😝 [Thee exes to go then ...](http://9gag.com/gag/a5QPxbL)
- - 😝 [Poor kid didn&#39;t deserve this](http://9gag.com/gag/aBy3NDP)
- - 💣 [Mariners, Ariel](http://9gag.com/gag/ayN0ZEX)
+ - 💣 [Brazil.exe](http://9gag.com/gag/ae90PA5)
  - 😝 [Wtf](http://9gag.com/gag/avygXBE)
  - 👉 [Crash and huff](http://9gag.com/gag/aAyrmeL)<!-- MEMES:END -->
 

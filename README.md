@@ -172,10 +172,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Thee exes to go then ...](http://9gag.com/gag/a5QPxbL)
- - 😝 [Just trying to do their job](http://9gag.com/gag/aW4WNg3)
- - 💣 [Brazil.exe](http://9gag.com/gag/ae90PA5)
- - 😝 [Take a look at the Miss Poland contestants. Noticing anything?](http://9gag.com/gag/aqyNdjR)
- - 👉 [Mariners, Ariel](http://9gag.com/gag/ayN0ZEX)<!-- MEMES:END -->
+ - 😝 [Poor kid didn&#39;t deserve this](http://9gag.com/gag/aBy3NDP)
+ - 💣 [Mariners, Ariel](http://9gag.com/gag/ayN0ZEX)
+ - 😝 [Wtf](http://9gag.com/gag/avygXBE)
+ - 👉 [Crash and huff](http://9gag.com/gag/aAyrmeL)<!-- MEMES:END -->
 
 ---
 

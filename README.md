@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wtf is wrong with the cops in England ?](http://9gag.com/gag/a343pX5)
- - 😝 [Dude just earned the right to keep that dog](http://9gag.com/gag/aBy3NnP)
- - 💣 [Lol](http://9gag.com/gag/aZZxv86)
- - 😝 [Crash and huff](http://9gag.com/gag/aAyrmeL)
- - 👉 [Mariners, Ariel](http://9gag.com/gag/ayN0ZEX)<!-- MEMES:END -->
+ - 😝 [4 Israeli hostages were rescued by the IDF special forces in a super complicated operation, inside highly populated area in central Gaza](http://9gag.com/gag/aLnPVzA)
+ - 😝 [The 80&#39;s. When the coke was pure, white people had rhythm and they all dressed like they were to a corporate meeting.](http://9gag.com/gag/aXPpmoP)
+ - 💣 [Take a break from prop*ganda](http://9gag.com/gag/awyK95D)
+ - 😝 [Welcome back guys, we will try to bring the others as well.](http://9gag.com/gag/aPA4z1B)
+ - 👉 [No way. where is my straw?](http://9gag.com/gag/azxEoRz)<!-- MEMES:END -->
 
 ---
 

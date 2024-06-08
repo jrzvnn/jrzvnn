@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Poor kid didn&#39;t deserve this](http://9gag.com/gag/aBy3NDP)
  - 😝 [Take a look at the Miss Poland contestants. Noticing anything?](http://9gag.com/gag/aqyNdjR)
- - 💣 [Crash and huff](http://9gag.com/gag/aAyrmeL)
- - 😝 [Thee exes to go then ...](http://9gag.com/gag/a5QPxbL)
- - 👉 [Wtf](http://9gag.com/gag/avygXBE)<!-- MEMES:END -->
+ - 😝 [1890s woman getting photographed for the first time](http://9gag.com/gag/avyg91Z)
+ - 💣 [Dude just earned the right to keep that dog](http://9gag.com/gag/aBy3NnP)
+ - 😝 [Crash and huff](http://9gag.com/gag/aAyrmeL)
+ - 👉 [N excellence at full display](http://9gag.com/gag/ae90PBj)<!-- MEMES:END -->
 
 ---
 

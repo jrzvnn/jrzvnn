@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/azxEYpN)
- - 😝 [True love](http://9gag.com/gag/azxEDXB)
- - 💣 [Good for her](http://9gag.com/gag/aXPpdjg)
- - 😝 [Wonder Woman](http://9gag.com/gag/aVvW17P)
- - 👉 [Brazil.exe](http://9gag.com/gag/ae90PA5)<!-- MEMES:END -->
+ - 😝 [Oh yes the classic society](http://9gag.com/gag/a9yLOpZ)
+ - 😝 [He was indeed in Floridugh\u2026](http://9gag.com/gag/aKGPKWg)
+ - 💣 [Brazil.exe](http://9gag.com/gag/ae90PA5)
+ - 😝 [Car parked near railroad gets smashed by oncoming train in Vietnam](http://9gag.com/gag/aBy3OxN)
+ - 👉 [If this is true Disney has butchered the franchise. Well, they kinda already did. Vote with your wallet folks.](http://9gag.com/gag/avyg9zO)<!-- MEMES:END -->
 
 ---
 

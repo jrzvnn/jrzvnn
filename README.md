@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The cutest games from Wholesome Direct 2024](https://www.theverge.com/24171620/wholesome-direct-2024-sgf-trailers-news)
  - [Apple&#39;s Mac mini M2 just dropped to $479 in latest price war](https://appleinsider.com/articles/24/06/08/apples-mac-mini-m2-just-dropped-to-479-in-latest-price-war?utm_medium=rss)
  - [Anker recalls its 321 Power Bank due to fire risk](https://www.theverge.com/2024/6/8/24174271/anker-321-power-bank-powercore-5k-a1112-recall)
  - [Portugal vs. Croatia Livestream: How to Watch International Friendly Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/portugal-vs-croatia-livestream-how-to-watch-international-friendly-soccer-from-anywhere/#ftag=CAD590a51e)
- - [This Weekend Only: Score Discounts on iPhone, iWatch, iPad and More at Best Buy&#39;s Apple Sale     - CNET](https://www.cnet.com/deals/huge-apple-sale-at-best-buy-discounts-mac-ipad-apple-watch-and-more-this-weekend-only/#ftag=CAD590a51e)
- - [Best Fiber Internet Providers in Your Area: AT&amp;T to Ziply Fiber     - CNET](https://www.cnet.com/home/internet/fiber-internet-providers-in-your-area/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This Weekend Only: Score Discounts on iPhone, iWatch, iPad and More at Best Buy&#39;s Apple Sale     - CNET](https://www.cnet.com/deals/huge-apple-sale-at-best-buy-discounts-mac-ipad-apple-watch-and-more-this-weekend-only/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

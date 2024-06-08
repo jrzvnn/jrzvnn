@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [True love](http://9gag.com/gag/azxEDXB)
  - 😝 [Go buy some coke.](http://9gag.com/gag/a6Zy3gb)
- - 💣 [Brazil.exe](http://9gag.com/gag/ae90PA5)
- - 😝 [Air Canada. Engine compressor stall on takeoff.](http://9gag.com/gag/aAyrv6o)
- - 👉 [Duhhh](http://9gag.com/gag/ary4rj6)<!-- MEMES:END -->
+ - 😝 [97 year old WW2 veteran gets his lifetime dream come true!](http://9gag.com/gag/aPA4rQK)
+ - 💣 [Christianity was in africa before europe...](http://9gag.com/gag/aRBPRL2)
+ - 😝 [God damnit... *unzips*](http://9gag.com/gag/abAymDX)
+ - 👉 [Just trying to do their job](http://9gag.com/gag/aW4WNg3)<!-- MEMES:END -->
 
 ---
 

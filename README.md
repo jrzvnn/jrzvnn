@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Numbers sorted alphabetically in different languages](http://9gag.com/gag/a5QPyWL)
  - 😝 [Thee exes to go then ...](http://9gag.com/gag/a5QPxbL)
- - 💣 [Brazil.exe](http://9gag.com/gag/ae90PA5)
- - 😝 [Wtf](http://9gag.com/gag/avygXBE)
- - 👉 [Crash and huff](http://9gag.com/gag/aAyrmeL)<!-- MEMES:END -->
+ - 😝 [Poor kid didn&#39;t deserve this](http://9gag.com/gag/aBy3NDP)
+ - 💣 [Wtf](http://9gag.com/gag/avygXBE)
+ - 😝 [Take a look at the Miss Poland contestants. Noticing anything?](http://9gag.com/gag/aqyNdjR)
+ - 👉 [Just trying to do their job](http://9gag.com/gag/aW4WNg3)<!-- MEMES:END -->
 
 ---
 

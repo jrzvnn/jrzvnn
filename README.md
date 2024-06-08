@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Go buy some coke.](http://9gag.com/gag/a6Zy3gb)
- - 😝 [Just trying to do their job](http://9gag.com/gag/aW4WNg3)
- - 💣 [Crash and huff](http://9gag.com/gag/aAyrmeL)
- - 😝 [God damnit... *unzips*](http://9gag.com/gag/abAymDX)
- - 👉 [This idiot teased a girl. Later when he was arrested, police beat him so bad he was not able to walk.](http://9gag.com/gag/aD23rNZ)<!-- MEMES:END -->
+ - 😝 [Would you judge?](http://9gag.com/gag/ae90y2B)
+ - 😝 [Dude just earned the right to keep that dog](http://9gag.com/gag/aBy3NnP)
+ - 💣 [Go buy some coke.](http://9gag.com/gag/a6Zy3gb)
+ - 😝 [This idiot teased a girl. Later when he was arrested, police beat him so bad he was not able to walk.](http://9gag.com/gag/aD23rNZ)
+ - 👉 [Good for her](http://9gag.com/gag/aXPpdjg)<!-- MEMES:END -->
 
 ---
 

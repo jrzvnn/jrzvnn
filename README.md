@@ -171,10 +171,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Air Canada. Engine compressor stall on takeoff.](http://9gag.com/gag/aAyrv6o)
+ - 😝 [Poor kid didn&#39;t deserve this](http://9gag.com/gag/aBy3NDP)
+ - 💣 [Wtf is wrong with the cops in England ?](http://9gag.com/gag/a343pX5)
  - 😝 [Wtf](http://9gag.com/gag/avygXBE)
- - 😝 [Great game](http://9gag.com/gag/apR08V8)
- - 💣 [Good for her](http://9gag.com/gag/aXPpdjg)
- - 😝 [Witch!](http://9gag.com/gag/azxEB2m)
  - 👉 [Crash and huff](http://9gag.com/gag/aAyrmeL)<!-- MEMES:END -->
 
 ---

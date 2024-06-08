@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why government matters](http://9gag.com/gag/aZZxV0n)
- - 😝 [Relationship](http://9gag.com/gag/a9yLV1L)
- - 💣 [I love living in this place](http://9gag.com/gag/aAyrNQL)
- - 😝 [Good for her](http://9gag.com/gag/aXPpdjg)
- - 👉 [Don&#39;t give up guys](http://9gag.com/gag/aD23Q3B)<!-- MEMES:END -->
+ - 😝 [Just trying to do their job](http://9gag.com/gag/aW4WNg3)
+ - 😝 [True love](http://9gag.com/gag/azxEDXB)
+ - 💣 [Great game](http://9gag.com/gag/apR08V8)
+ - 😝 [Know your worth, fellas](http://9gag.com/gag/aE01E8n)
+ - 👉 [Good for her](http://9gag.com/gag/aXPpdjg)<!-- MEMES:END -->
 
 ---
 

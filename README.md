@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wallpaper](http://9gag.com/gag/aVvWVwy)
- - 😝 [My favorite candy as a kid was a Kinder surprise egg. Today I bought my son his first one &lpar;this stupid version of it was all I could find&rpar;, the `surprise` he got was this lame bracelet. The world sucks now.](http://9gag.com/gag/amo0Re2)
- - 💣 [How A Human Body Implodes at 3800 Metres Below Sea Level](http://9gag.com/gag/aNDZjd0)
- - 😝 [I coded a free AI tool to help indie-devs make 3D textures from a PC! No sever, no subscriptions, no tokens. Textured this model in just a few minutes. Go make awesome games!! :D](http://9gag.com/gag/aXPpKzD)
- - 👉 [Florida cops watched the batman movies and uses their strap on technique...](http://9gag.com/gag/aNDZOq4)<!-- MEMES:END -->
+ - 😝 [Ate speech](http://9gag.com/gag/adBYd9N)
+ - 😝 [Don&#39;t give up guys](http://9gag.com/gag/aD23Q3B)
+ - 💣 [Roasted](http://9gag.com/gag/adBYdeZ)
+ - 😝 [Title](http://9gag.com/gag/aqyNDAR)
+ - 👉 [Take a look at the Miss Poland contestants. Noticing anything?](http://9gag.com/gag/aqyNdjR)<!-- MEMES:END -->
 
 ---
 

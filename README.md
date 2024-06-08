@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Nanoleaf’s modular Skylight panels are on sale for the first time](https://www.theverge.com/2024/6/8/24172828/nanoleaf-skylight-smarter-kit-blink-wired-floodlight-camera-deal-sale)
  - [The biggest movie trailers for the first week of June](https://www.theverge.com/2024/6/8/24174246/biggest-movie-trailers-venom-last-dance-alien-romulus-maxxxine-june-2024-first-week)
  - [Raycon The Magic Power Bank 5-in-1 Review: My New Favorite Portable Charger](https://www.wired.com/review/raycon-the-magic-power-bank-5-in-1/)
- - [The Acolyte took Star Wars back in time by taking things away](https://www.theverge.com/24172264/the-acolyte-high-republic-star-wars-design-interview)<!-- TECH:END -->
+ - [6 of the Best Pull-Up Bars for Your Home Gym in 2024     - CNET](https://www.cnet.com/health/fitness/best-pull-up-bars/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

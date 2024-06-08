@@ -164,9 +164,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Apple&#39;s Mac mini M2 just dropped to $479 in latest price war](https://appleinsider.com/articles/24/06/08/apples-mac-mini-m2-just-dropped-to-479-in-latest-price-war?utm_medium=rss)
  - [Anker recalls its 321 Power Bank due to fire risk](https://www.theverge.com/2024/6/8/24174271/anker-321-power-bank-powercore-5k-a1112-recall)
- - [Rest Easy: The Best Sleeping Positions for 12 Health Conditions     - CNET](https://www.cnet.com/health/sleep/best-sleeping-positions-common-health-conditions/#ftag=CAD590a51e)
- - [Sources detail Siri&#39;s new capabilities, along with the prompts Apple used to test the software, in apps like Camera, Mail, Safari, Notes, and Photos &lpar;Marko Zivkovic/AppleInsider&rpar;](http://www.techmeme.com/240608/p5#a240608p5)
- - [Best Cordless Vacuums for 2024     - CNET](https://www.cnet.com/home/kitchen-and-household/best-cordless-vacuum/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Portugal vs. Croatia Livestream: How to Watch International Friendly Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/portugal-vs-croatia-livestream-how-to-watch-international-friendly-soccer-from-anywhere/#ftag=CAD590a51e)
+ - [This Weekend Only: Score Discounts on iPhone, iWatch, iPad and More at Best Buy&#39;s Apple Sale     - CNET](https://www.cnet.com/deals/huge-apple-sale-at-best-buy-discounts-mac-ipad-apple-watch-and-more-this-weekend-only/#ftag=CAD590a51e)
+ - [Best Fiber Internet Providers in Your Area: AT&amp;T to Ziply Fiber     - CNET](https://www.cnet.com/home/internet/fiber-internet-providers-in-your-area/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The New York Times confirms its internal source code and data leaked on 4chan after being stolen using an exposed GitHub token in January 2024 &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/240608/p6#a240608p6)
  - [The cutest games from Wholesome Direct 2024](https://www.theverge.com/24171620/wholesome-direct-2024-sgf-trailers-news)
  - [Apple&#39;s Mac mini M2 just dropped to $479 in latest price war](https://appleinsider.com/articles/24/06/08/apples-mac-mini-m2-just-dropped-to-479-in-latest-price-war?utm_medium=rss)
  - [Anker recalls its 321 Power Bank due to fire risk](https://www.theverge.com/2024/6/8/24174271/anker-321-power-bank-powercore-5k-a1112-recall)
- - [Portugal vs. Croatia Livestream: How to Watch International Friendly Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/portugal-vs-croatia-livestream-how-to-watch-international-friendly-soccer-from-anywhere/#ftag=CAD590a51e)
- - [This Weekend Only: Score Discounts on iPhone, iWatch, iPad and More at Best Buy&#39;s Apple Sale     - CNET](https://www.cnet.com/deals/huge-apple-sale-at-best-buy-discounts-mac-ipad-apple-watch-and-more-this-weekend-only/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Portugal vs. Croatia Livestream: How to Watch International Friendly Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/portugal-vs-croatia-livestream-how-to-watch-international-friendly-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

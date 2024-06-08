@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ate speech](http://9gag.com/gag/adBYd9N)
- - 😝 [Don&#39;t give up guys](http://9gag.com/gag/aD23Q3B)
- - 💣 [Roasted](http://9gag.com/gag/adBYdeZ)
- - 😝 [Title](http://9gag.com/gag/aqyNDAR)
- - 👉 [Take a look at the Miss Poland contestants. Noticing anything?](http://9gag.com/gag/aqyNdjR)<!-- MEMES:END -->
+ - 😝 [Why government matters](http://9gag.com/gag/aZZxV0n)
+ - 😝 [Relationship](http://9gag.com/gag/a9yLV1L)
+ - 💣 [I love living in this place](http://9gag.com/gag/aAyrNQL)
+ - 😝 [Good for her](http://9gag.com/gag/aXPpdjg)
+ - 👉 [Don&#39;t give up guys](http://9gag.com/gag/aD23Q3B)<!-- MEMES:END -->
 
 ---
 

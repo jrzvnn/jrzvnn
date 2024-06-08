@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Exam-passing pen](http://9gag.com/gag/an7K8Kb)
- - 😝 [I love living in this place](http://9gag.com/gag/aAyrNQL)
- - 💣 [Why government matters](http://9gag.com/gag/aZZxV0n)
- - 😝 [NOA Has been rescued along with 5 more](http://9gag.com/gag/a343eAe)
- - 👉 [Think Europe think](http://9gag.com/gag/aLnPV9x)<!-- MEMES:END -->
+ - 😝 [She&#39;s been through hell for 8 months, but now she is safe and back home!](http://9gag.com/gag/aVvW42n)
+ - 😝 [Just trying to do their job](http://9gag.com/gag/aW4WNg3)
+ - 💣 [Wtf](http://9gag.com/gag/avygXBE)
+ - 😝 [Take a look at the Miss Poland contestants. Noticing anything?](http://9gag.com/gag/aqyNdjR)
+ - 👉 [God damnit... *unzips*](http://9gag.com/gag/abAymDX)<!-- MEMES:END -->
 
 ---
 

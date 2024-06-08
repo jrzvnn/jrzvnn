@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Japan&#39;s role in the global chip battle; Omdia: Japanese companies account for nearly half of the world&#39;s six crucial semiconductor materials &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240608/p3#a240608p3)
+ - [Apple Is Coming for Your Password Manager](https://www.wired.com/story/apple-passwords-password-manager-wwdc-security-roundup/)
  - [MSI Claw after more updates: nope, it’s still a dud](https://www.theverge.com/2024/6/8/24174086/msi-claw-updates-review-addendum)
  - [How to Use ChatGPT to Write a Cover Letter     - CNET](https://www.cnet.com/tech/services-and-software/how-to-use-chatgpt-to-write-a-cover-letter/#ftag=CAD590a51e)
- - [Best iPhone in 2024: Which Apple Phone Should You Buy?     - CNET](https://www.cnet.com/tech/mobile/best-iphone/#ftag=CAD590a51e)
- - [NHL Playoffs 2024: How to Watch Oilers vs. Panthers in the Stanley Cup Final Tonight     - CNET](https://www.cnet.com/tech/services-and-software/nhl-playoffs-2024-how-to-watch-oilers-vs-panthers-in-the-stanley-cup-final/#ftag=CAD590a51e)
- - [Social Security Check June 2024: When Is Your Payment Coming?     - CNET](https://www.cnet.com/personal-finance/social-security-check-june-2024-when-is-your-payment-coming/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best iPhone in 2024: Which Apple Phone Should You Buy?     - CNET](https://www.cnet.com/tech/mobile/best-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

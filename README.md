@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good for her](http://9gag.com/gag/aXPpdjg)
- - 😝 [Poor kid didn&#39;t deserve this](http://9gag.com/gag/aBy3NDP)
- - 💣 [Wtf](http://9gag.com/gag/avygXBE)
- - 😝 [Take a look at the Miss Poland contestants. Noticing anything?](http://9gag.com/gag/aqyNdjR)
- - 👉 [Crash and huff](http://9gag.com/gag/aAyrmeL)<!-- MEMES:END -->
+ - 😝 [Wtf is wrong with the cops in England ?](http://9gag.com/gag/a343pX5)
+ - 😝 [Dude just earned the right to keep that dog](http://9gag.com/gag/aBy3NnP)
+ - 💣 [Lol](http://9gag.com/gag/aZZxv86)
+ - 😝 [Crash and huff](http://9gag.com/gag/aAyrmeL)
+ - 👉 [Mariners, Ariel](http://9gag.com/gag/ayN0ZEX)<!-- MEMES:END -->
 
 ---
 

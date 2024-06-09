@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [God damnit... *unzips*](http://9gag.com/gag/abAymDX)
- - 😝 [Duhhh](http://9gag.com/gag/ary4rj6)
- - 💣 [The whole Palestinian victim mentality in one picture. No understanding of cause and effect, consequences and accountability, just like children. It\u2019s always the evil Jews. #FAFO](http://9gag.com/gag/adBYMYQ)
- - 😝 [I&#39;m so sorry dear, nothing in this life is free.](http://9gag.com/gag/aAyrNq0)
- - 👉 [Mariners, Ariel](http://9gag.com/gag/ayN0ZEX)<!-- MEMES:END -->
+ - 😝 [You have stolen my dreams, and my childhood!](http://9gag.com/gag/axyZQOD)
+ - 😝 [I wonder why....](http://9gag.com/gag/a2vYA8d)
+ - 💣 [She&#39;s been through hell for 8 months, but now she is safe and back home!](http://9gag.com/gag/aVvW42n)
+ - 😝 [Mariners, Ariel](http://9gag.com/gag/ayN0ZEX)
+ - 👉 [Wtf](http://9gag.com/gag/avygXBE)<!-- MEMES:END -->
 
 ---
 

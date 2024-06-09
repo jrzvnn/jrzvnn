@@ -164,7 +164,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Ikea will pay 10 Roblox players to roleplay as employees in its virtual store](https://www.theverge.com/2024/6/9/24174713/ikea-hiring-roblox-virtual-reality-store)
  - [&#39;Apple Intelligence&#39; at the core of next-gen Apple hardware, services](https://appleinsider.com/articles/24/06/09/apple-intelligence-at-the-core-of-next-gen-apple-hardware-services?utm_medium=rss)
  - [Keychron Q1 HE Review: Hall Effect Goes Mainstream](https://www.wired.com/review/keychron-q1-he/)
- - [Apple&#39;s AI push isn&#39;t so much about its current devices, but enabling its next wave of AI-intensive devices that may eventually supplant a smartphone &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240609/p5#a240609p5)<!-- TECH:END -->
+ - [Don’t Just Throw out Your Old Bed. 8 Ways to Properly Dispose of It     - CNET](https://www.cnet.com/health/sleep/dont-just-throw-out-your-old-bed-8-ways-to-properly-dispose-of-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

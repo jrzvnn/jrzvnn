@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What&#39;s wrong with them?](http://9gag.com/gag/a0eLzOO)
- - 😝 [The whole Palestinian victim mentality in one picture. No understanding of cause and effect, consequences and accountability, just like children. It\u2019s always the evil Jews. #FAFO](http://9gag.com/gag/adBYMYQ)
- - 💣 [God damnit... *unzips*](http://9gag.com/gag/abAymDX)
- - 😝 [I&#39;m so sorry dear, nothing in this life is free.](http://9gag.com/gag/aAyrNq0)
- - 👉 [Ryanair do not land, they arrive](http://9gag.com/gag/awyK8ex)<!-- MEMES:END -->
+ - 😝 [Ryanair do not land, they arrive](http://9gag.com/gag/awyK8ex)
+ - 😝 [I wonder why....](http://9gag.com/gag/a2vYA8d)
+ - 💣 [And just like that\u2026.](http://9gag.com/gag/ary40eK)
+ - 😝 [Mariners, Ariel](http://9gag.com/gag/ayN0ZEX)
+ - 👉 [The whole Palestinian victim mentality in one picture. No understanding of cause and effect, consequences and accountability, just like children. It\u2019s always the evil Jews. #FAFO](http://9gag.com/gag/adBYMYQ)<!-- MEMES:END -->
 
 ---
 

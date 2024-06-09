@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iOS 18 is getting the ability to lock apps with Face ID &amp; a dark mode expansion](https://appleinsider.com/articles/24/06/09/ios-18-is-getting-the-ability-to-lock-apps-with-face-id-dark-mode-on-the-lock-screen?utm_medium=rss)
+ - [Apple needs to show us the other half of the iPad Pro](https://www.theverge.com/2024/6/9/24169016/apple-ipad-pro-ipados-18-wwdc-ai-features)
  - [The best alternatives to Adobe Photoshop, Illustrator, InDesign, and more](https://appleinsider.com/inside/mac/best/the-best-alternatives-to-adobe-photoshop-illustrator-indesign-and-more?utm_medium=rss)
  - [16 Best Coffee Subscriptions to Keep You Wired &lpar;2024&rpar;: Blends, Single-Origin, Small Batch, and Local Roasters](https://www.wired.com/gallery/best-coffee-subscriptions/)
- - [Smartphones May Affect Sleep—but Not Because of Blue Light](https://www.wired.com/story/blue-light-smartphone-screen-sleep/)
- - [An AI PC you’ll want to tinker with](https://www.theverge.com/24173628/ai-pc-raspberry-pi-hit-man-rivian-chromatic-installer)
- - [T20 Cricket World Cup Livestream: How to Watch India vs. Pakistan From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/t20-cricket-world-cup-livestream-how-to-watch-india-vs-pakistan-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Juul E-Cigarette Ban Reversed Pending FDA Review     - CNET](https://www.cnet.com/health/juul-e-cigarette-ban-reversed-pending-fda-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

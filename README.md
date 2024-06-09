@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [MACRON IS DISSOLVING THE ASSEMBLY ! New legislative elections to be held June 30 and July 7.](http://9gag.com/gag/avygqdb)
  - 😝 [You have stolen my dreams, and my childhood!](http://9gag.com/gag/axyZQOD)
- - 😝 [Duhhh](http://9gag.com/gag/ary4rj6)
- - 💣 [Just trying to do their job](http://9gag.com/gag/aW4WNg3)
- - 😝 [So basically GTA Vice City](http://9gag.com/gag/a7oygMr)
- - 👉 [Nope](http://9gag.com/gag/aRBP8W5)<!-- MEMES:END -->
+ - 💣 [German green party lost almost half their voters in the EU elections - Look at their faces!](http://9gag.com/gag/ajP0vZQ)
+ - 😝 [She&#39;s been through hell for 8 months, but now she is safe and back home!](http://9gag.com/gag/aVvW42n)
+ - 👉 [So basically GTA Vice City](http://9gag.com/gag/a7oygMr)<!-- MEMES:END -->
 
 ---
 

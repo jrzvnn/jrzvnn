@@ -161,10 +161,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [How Chinese hedge fund High-Flyer Capital Management developed its DeepSeek-V2 open-source LLM that costs less than rivals and ranks among the top in the world &lpar;Financial Times&rpar;](http://www.techmeme.com/240609/p8#a240609p8)
- - [Best Internet Providers in Katy, Texas     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-katy-tx/#ftag=CAD590a51e)
- - [How to fully restore a 10th generation Mac mini to like-new condition](https://appleinsider.com/inside/mac-mini/tips/how-to-fully-restore-a-10th-generation-mac-mini-to-like-new-condition?utm_medium=rss)
- - [WWDC 2024: How to Watch and What to Expect, From iOS 18 to &#39;Apple Intelligence&#39;     - CNET](https://www.cnet.com/tech/mobile/wwdc-2024-how-to-watch-and-what-to-expect-from-ios-18-to-apple-intelligence/#ftag=CAD590a51e)
- - [Revive That Scorched Cast-Iron Skillet With This Pantry Staple     - CNET](https://www.cnet.com/how-to/revive-that-scorched-cast-iron-skillet-with-this-pantry-staple/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Truth About Food Expiration: Why You Might Be Tossing Perfectly Good Eats     - CNET](https://www.cnet.com/news/the-truth-about-food-expiration-dates-and-why-you-might-be-tossing-edible-eats/#ftag=CAD590a51e)
+ - [Best Wi-Fi Wireless Speaker of 2024     - CNET](https://www.cnet.com/tech/home-entertainment/best-wi-fi-wireless-speakers/#ftag=CAD590a51e)
+ - [Best Internet Providers in South Carolina     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-south-carolina/#ftag=CAD590a51e)
+ - [Best Internet Providers in Katy, Texas     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-katy-tx/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

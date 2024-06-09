@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [MACRON IS DISSOLVING THE ASSEMBLY ! New legislative elections to be held June 30 and July 7.](http://9gag.com/gag/avygqdb)
- - 😝 [You have stolen my dreams, and my childhood!](http://9gag.com/gag/axyZQOD)
- - 💣 [German green party lost almost half their voters in the EU elections - Look at their faces!](http://9gag.com/gag/ajP0vZQ)
- - 😝 [She&#39;s been through hell for 8 months, but now she is safe and back home!](http://9gag.com/gag/aVvW42n)
- - 👉 [So basically GTA Vice City](http://9gag.com/gag/a7oygMr)<!-- MEMES:END -->
+ - 😝 [What kind of subhuman civilization do you have come from to need to take classes to learn that you should not rape women ??????](http://9gag.com/gag/amo0Q2y)
+ - 😝 [Quest for the holy Grail!](http://9gag.com/gag/a7oygew)
+ - 💣 [The real entrepreneur](http://9gag.com/gag/aRBPWwj)
+ - 😝 [Look at this dress](http://9gag.com/gag/aKGPyoO)
+ - 👉 [European elections](http://9gag.com/gag/a9yLwEK)<!-- MEMES:END -->
 
 ---
 

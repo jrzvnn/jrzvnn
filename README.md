@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [God damnit... *unzips*](http://9gag.com/gag/abAymDX)
+ - 😝 [You have stolen my dreams, and my childhood!](http://9gag.com/gag/axyZQOD)
  - 😝 [Wtf](http://9gag.com/gag/avygXBE)
- - 💣 [Thee exes to go then ...](http://9gag.com/gag/a5QPxbL)
- - 😝 [Mariners, Ariel](http://9gag.com/gag/ayN0ZEX)
- - 👉 [Take a look at the Miss Poland contestants. Noticing anything?](http://9gag.com/gag/aqyNdjR)<!-- MEMES:END -->
+ - 💣 [What will u slap her from?](http://9gag.com/gag/a2vY9zD)
+ - 😝 [True love](http://9gag.com/gag/azxEDXB)
+ - 👉 [Mariners, Ariel](http://9gag.com/gag/ayN0ZEX)<!-- MEMES:END -->
 
 ---
 

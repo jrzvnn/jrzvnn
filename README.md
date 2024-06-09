@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Smartphones May Affect Sleep—but Not Because of Blue Light](https://www.wired.com/story/blue-light-smartphone-screen-sleep/)
+ - [An AI PC you’ll want to tinker with](https://www.theverge.com/24173628/ai-pc-raspberry-pi-hit-man-rivian-chromatic-installer)
  - [T20 Cricket World Cup Livestream: How to Watch India vs. Pakistan From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/t20-cricket-world-cup-livestream-how-to-watch-india-vs-pakistan-from-anywhere/#ftag=CAD590a51e)
  - [Google Pixel 9 and 9 Pro Rumors: Pixel XL, New Design, Tensor G4     - CNET](https://www.cnet.com/tech/mobile/google-pixel-9-and-9-pro-rumors-pixel-xl-new-designs-tensor-g4/#ftag=CAD590a51e)
- - [French Open Men&#39;s Final 2024: How to Watch, Stream Zverev vs. Alcaraz From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/french-open-mens-final-2024-how-to-watch-stream-zverev-vs-alcaraz-from-anywhere/#ftag=CAD590a51e)
- - [The Science of Having a Great Conversation](https://www.wired.com/story/the-science-of-having-a-great-conversation-research-social-connection/)
- - [How Game Theory Can Make AI More Reliable](https://www.wired.com/story/game-theory-can-make-ai-more-correct-and-efficient/)<!-- TECH:END -->
+ - [French Open Men&#39;s Final 2024: How to Watch, Stream Zverev vs. Alcaraz From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/french-open-mens-final-2024-how-to-watch-stream-zverev-vs-alcaraz-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

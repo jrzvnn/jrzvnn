@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Whatever this is I&#39;m in](http://9gag.com/gag/an7K04n)
- - 😝 [Brazil.exe](http://9gag.com/gag/ae90PA5)
- - 💣 [Duhhh](http://9gag.com/gag/ary4rj6)
- - 😝 [German green party lost almost half their voters in the EU elections - Look at their faces!](http://9gag.com/gag/ajP0vZQ)
- - 👉 [Which arrow will penetrate riot shields?](http://9gag.com/gag/ayN0r7p)<!-- MEMES:END -->
+ - 😝 [You have stolen my dreams, and my childhood!](http://9gag.com/gag/axyZQOD)
+ - 😝 [Duhhh](http://9gag.com/gag/ary4rj6)
+ - 💣 [Just trying to do their job](http://9gag.com/gag/aW4WNg3)
+ - 😝 [So basically GTA Vice City](http://9gag.com/gag/a7oygMr)
+ - 👉 [Nope](http://9gag.com/gag/aRBP8W5)<!-- MEMES:END -->
 
 ---
 

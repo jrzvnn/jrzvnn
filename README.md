@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Doom: The Dark Ages is launching in 2025](https://www.theverge.com/24172041/doom-the-dark-ages-xbox-summer-game-fest-trailer)
- - [Call of Duty: Black Ops 6 arrives on October 25th](https://www.theverge.com/2024/6/9/24173669/call-of-duty-black-ops-6-release-date-october-25th)
- - [Summer Game Fest 2024: all the news, trailers, and announcements](https://www.theverge.com/24170561/summer-game-fest-2024-trailers-news-geoff-keighley)
- - [France vs. Canada Livestream: How to Watch International Friendly Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/france-vs-canada-livestream-how-to-watch-international-friendly-soccer-from-anywhere/#ftag=CAD590a51e)
- - [Best Internet Providers in Dallas, Texas     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-dallas-tx/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Fallout 76’s first map expansion is coming soon — and next year, you can play as a ghoul](https://www.theverge.com/24173587/fallout-76-skyline-valley-expansion-trailer-date-playable-ghoul)
+ - [&#39;Apple Intelligence&#39; at the core of next-gen Apple hardware, services](https://appleinsider.com/articles/24/06/09/apple-intelligence-at-the-core-of-next-gen-apple-hardware-services?utm_medium=rss)
+ - [Here’s your first look at Starfield’s big expansion](https://www.theverge.com/24172097/starfield-shattered-space-expansion-xbox-bethesda-release-date-trailer-date)
+ - [Apple has drawn a fuzzy line about what counts as console emulation on iPhone](https://appleinsider.com/articles/24/06/09/apple-appears-to-have-drawn-a-fuzzy-line-for-iphone-about-what-counts-as-console-emulation?utm_medium=rss)
+ - [Doom: The Dark Ages is launching in 2025](https://www.theverge.com/24172041/doom-the-dark-ages-xbox-summer-game-fest-trailer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

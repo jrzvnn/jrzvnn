@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Call of Duty: Black Ops 6 arrives on October 25th](https://www.theverge.com/2024/6/9/24173669/call-of-duty-black-ops-6-release-date-october-25th)
  - [Summer Game Fest 2024: all the news, trailers, and announcements](https://www.theverge.com/24170561/summer-game-fest-2024-trailers-news-geoff-keighley)
  - [Xbox Games Showcase 2024: all the news, trailers, and announcements](https://www.theverge.com/24173601/xbox-games-showcase-june-2024-microsoft)
  - [7 Ways Gen Zers and Boomers Spend Money Differently. Who&#39;s Saving More?     - CNET](https://www.cnet.com/personal-finance/boomers-love-saying-back-in-my-day-it-was-cheaper-but-was-it/#ftag=CAD590a51e)
- - [Act Fast to Snag a Lifetime License to Microsoft Visual Studio Professional for $460 Off     - CNET](https://www.cnet.com/deals/act-fast-to-snag-a-lifetime-license-to-microsoft-visual-studio-professional-for-460-off/#ftag=CAD590a51e)
- - [What Is Matter? We Explain the New Smart Home Standard &lpar;2024&rpar;](https://www.wired.com/story/what-is-matter/)<!-- TECH:END -->
+ - [Act Fast to Snag a Lifetime License to Microsoft Visual Studio Professional for $460 Off     - CNET](https://www.cnet.com/deals/act-fast-to-snag-a-lifetime-license-to-microsoft-visual-studio-professional-for-460-off/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

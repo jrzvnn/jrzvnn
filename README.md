@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Saucy everything](http://9gag.com/gag/ary4zVp)
+ - 😝 [Great game](http://9gag.com/gag/apR08V8)
+ - 😝 [What will u slap her from?](http://9gag.com/gag/a2vY9zD)
+ - 💣 [Brazil.exe](http://9gag.com/gag/ae90PA5)
  - 😝 [Whatever this is I&#39;m in](http://9gag.com/gag/an7K04n)
- - 💣 [Mariners, Ariel](http://9gag.com/gag/ayN0ZEX)
- - 😝 [What is the proper way to make an entry? ` Ohh, the two dudes in front of me got shot. I better go in, too.`](http://9gag.com/gag/a5QP9xo)
- - 👉 [She&#39;s been through hell for 8 months, but now she is safe and back home!](http://9gag.com/gag/aVvW42n)<!-- MEMES:END -->
+ - 👉 [This idiot teased a girl. Later when he was arrested, police beat him so bad he was not able to walk.](http://9gag.com/gag/aD23rNZ)<!-- MEMES:END -->
 
 ---
 

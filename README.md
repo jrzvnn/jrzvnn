@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [4 Israeli hostages were rescued by the IDF special forces in a super complicated operation, inside highly populated area in central Gaza](http://9gag.com/gag/aLnPVzA)
- - 😝 [No way. where is my straw?](http://9gag.com/gag/azxEoRz)
- - 💣 [Welcome back guys, we will try to bring the others as well.](http://9gag.com/gag/aPA4z1B)
- - 😝 [She&#39;s been through hell for 8 months, but now she is safe and back home!](http://9gag.com/gag/aVvW42n)
- - 👉 [Whatever this is I&#39;m in](http://9gag.com/gag/an7K04n)<!-- MEMES:END -->
+ - 😝 [Another company making another overwatch game.](http://9gag.com/gag/avyg4PX)
+ - 😝 [Poor kid didn&#39;t deserve this](http://9gag.com/gag/aBy3NDP)
+ - 💣 [Alright watching again](http://9gag.com/gag/aE01yGp)
+ - 😝 [Whatever this is I&#39;m in](http://9gag.com/gag/an7K04n)
+ - 👉 [This idiot teased a girl. Later when he was arrested, police beat him so bad he was not able to walk.](http://9gag.com/gag/aD23rNZ)<!-- MEMES:END -->
 
 ---
 

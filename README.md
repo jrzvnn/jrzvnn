@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here’s our first look at the new Perfect Dark game](https://www.theverge.com/24174839/perfect-dark-reboot-xbox-microsoft)
  - [Fallout 76’s first map expansion is coming soon — and next year, you can play as a ghoul](https://www.theverge.com/24173587/fallout-76-skyline-valley-expansion-trailer-date-playable-ghoul)
  - [&#39;Apple Intelligence&#39; at the core of next-gen Apple hardware, services](https://appleinsider.com/articles/24/06/09/apple-intelligence-at-the-core-of-next-gen-apple-hardware-services?utm_medium=rss)
  - [Here’s your first look at Starfield’s big expansion](https://www.theverge.com/24172097/starfield-shattered-space-expansion-xbox-bethesda-release-date-trailer-date)
- - [Apple has drawn a fuzzy line about what counts as console emulation on iPhone](https://appleinsider.com/articles/24/06/09/apple-appears-to-have-drawn-a-fuzzy-line-for-iphone-about-what-counts-as-console-emulation?utm_medium=rss)
- - [Doom: The Dark Ages is launching in 2025](https://www.theverge.com/24172041/doom-the-dark-ages-xbox-summer-game-fest-trailer)<!-- TECH:END -->
+ - [Apple has drawn a fuzzy line about what counts as console emulation on iPhone](https://appleinsider.com/articles/24/06/09/apple-appears-to-have-drawn-a-fuzzy-line-for-iphone-about-what-counts-as-console-emulation?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

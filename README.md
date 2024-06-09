@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thee exes to go then ...](http://9gag.com/gag/a5QPxbL)
- - 😝 [Lore Accurate](http://9gag.com/gag/aGywoRG)
- - 💣 [Take a look at the Miss Poland contestants. Noticing anything?](http://9gag.com/gag/aqyNdjR)
- - 😝 [I&#39;m so sorry dear, nothing in this life is free.](http://9gag.com/gag/aAyrNq0)
- - 👉 [You have stolen my dreams, and my childhood!](http://9gag.com/gag/axyZQOD)<!-- MEMES:END -->
+ - 😝 [Wtf](http://9gag.com/gag/avygXBE)
+ - 😝 [You have stolen my dreams, and my childhood!](http://9gag.com/gag/axyZQOD)
+ - 💣 [Legolas the Stoic](http://9gag.com/gag/ary4d56)
+ - 😝 [Brazil.exe](http://9gag.com/gag/ae90PA5)
+ - 👉 [Traffic collision in Kobe, Japan results in car being flattened to a thickness of 30cm between two trucks](http://9gag.com/gag/aMVr0pV)<!-- MEMES:END -->
 
 ---
 

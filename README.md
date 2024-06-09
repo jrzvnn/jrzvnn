@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: iOS 18 will let users lock built-in iPhone apps behind Face ID, and it is likely that the feature will also work with Touch ID or an iPhone&#39;s passcode &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/240609/p1#a240609p1)
  - [Peak and Off-Peak Energy Explainer: Here’s the Cheapest Time to Use Electricity     - CNET](https://www.cnet.com/how-to/peak-and-off-peak-energy-explainer-heres-the-cheapest-time-to-use-electricity/#ftag=CAD590a51e)
  - [Best Mattress to Buy on Amazon in 2024     - CNET](https://www.cnet.com/health/sleep/best-amazon-mattress/#ftag=CAD590a51e)
  - [The first Tales of the TMNT trailer reveals an August 9th release](https://www.theverge.com/2024/6/8/24174515/tales-of-the-teenage-mutant-ninja-turtles-trailer-paramount-plus)
- - [The Best Horror Films on Prime Video to Watch Right Now     - CNET](https://www.cnet.com/tech/services-and-software/the-best-horror-films-on-prime-video-june-2024/#ftag=CAD590a51e)
- - [Did an in-game MLB interview cause a player to miss a catch?](https://www.theverge.com/2024/6/8/24174447/mlb-baseball-in-game-interview-live-apple-tv-kike-hernandez-dodgers-yankees)<!-- TECH:END -->
+ - [The Best Horror Films on Prime Video to Watch Right Now     - CNET](https://www.cnet.com/tech/services-and-software/the-best-horror-films-on-prime-video-june-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

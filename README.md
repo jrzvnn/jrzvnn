@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mariners, Ariel](http://9gag.com/gag/ayN0ZEX)
- - 😝 [Duhhh](http://9gag.com/gag/ary4rj6)
- - 💣 [The whole Palestinian victim mentality in one picture. No understanding of cause and effect, consequences and accountability, just like children. It\u2019s always the evil Jews. #FAFO](http://9gag.com/gag/adBYMYQ)
- - 😝 [What&#39;s wrong with them?](http://9gag.com/gag/a0eLzOO)
- - 👉 [The flashlight in the daytime is all you need to determine their IQ .](http://9gag.com/gag/ayN0Ap8)<!-- MEMES:END -->
+ - 😝 [Just trying to do their job](http://9gag.com/gag/aW4WNg3)
+ - 😝 [Dude just earned the right to keep that dog](http://9gag.com/gag/aBy3NnP)
+ - 💣 [Duhhh](http://9gag.com/gag/ary4rj6)
+ - 😝 [I&#39;m so sorry dear, nothing in this life is free.](http://9gag.com/gag/aAyrNq0)
+ - 👉 [Crash and huff](http://9gag.com/gag/aAyrmeL)<!-- MEMES:END -->
 
 ---
 

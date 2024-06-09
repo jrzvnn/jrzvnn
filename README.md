@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [MACRON IS DISSOLVING THE ASSEMBLY ! New legislative elections to be held June 30 and July 7.](http://9gag.com/gag/avygqdb)
- - 😝 [German green party lost almost half their voters in the EU elections - Look at their faces!](http://9gag.com/gag/ajP0vZQ)
- - 💣 [You have stolen my dreams, and my childhood!](http://9gag.com/gag/axyZQOD)
- - 😝 [She&#39;s been through hell for 8 months, but now she is safe and back home!](http://9gag.com/gag/aVvW42n)
- - 👉 [Nope](http://9gag.com/gag/aRBP8W5)<!-- MEMES:END -->
+ - 😝 [Ok, it seems legit](http://9gag.com/gag/aKGPNLb)
+ - 😝 [Nope](http://9gag.com/gag/aRBP8W5)
+ - 💣 [In Marseille, a young man got out of his car and calmly subdued a violent individual in front of two municipal policewomen who tried to stop him on Boulevard de la Lib\u00e9ration, saying: `Madame, shall I catch him for you?`](http://9gag.com/gag/a5QPg0L)
+ - 😝 [So basically GTA Vice City](http://9gag.com/gag/a7oygMr)
+ - 👉 [She&#39;s been through hell for 8 months, but now she is safe and back home!](http://9gag.com/gag/aVvW42n)<!-- MEMES:END -->
 
 ---
 

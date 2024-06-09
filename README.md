@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Buy slashes iPad Air 5 &amp; M2 iPad Pro prices by up to $400 today only](https://appleinsider.com/articles/24/06/09/best-buy-slashes-ipad-air-5-m2-ipad-pro-prices-by-up-to-400-today-only?utm_medium=rss)
+ - [Xbox announces Gears of War: E-Day](https://www.theverge.com/24172052/gears-6-xbox-summer-game-fest-trailer)
  - [Data suggests Project Green Light, Google&#39;s AI system deployed in 14 cities to adjust traffic light timing, reduced stop-and-go traffic at intersections by 30% &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/240609/p6#a240609p6)
  - [Microsoft announces a disc-less Xbox Series X console in white](https://www.theverge.com/2024/6/9/24174793/microsoft-xbox-series-x-white-digital-edition)
- - [How to fully restore a 10th generation Mac mini to like-new condition](https://appleinsider.com/inside/mac-mini/tips/how-to-fully-restore-a-10th-generation-mac-mini-to-like-new-condition?utm_medium=rss)
- - [Microsoft Flight Simulator 2024 launches on November 19th](https://www.theverge.com/2024/6/9/24173672/microsoft-flight-simulator-2024-november-19th-release-date-trailer)
- - [Xbox’s new Fable game is coming in 2025](https://www.theverge.com/2024/6/9/24173655/xbox-fable-game-release-date-2025-trailer)<!-- TECH:END -->
+ - [How to fully restore a 10th generation Mac mini to like-new condition](https://appleinsider.com/inside/mac-mini/tips/how-to-fully-restore-a-10th-generation-mac-mini-to-like-new-condition?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

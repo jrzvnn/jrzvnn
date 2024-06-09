@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Whatever this is I&#39;m in](http://9gag.com/gag/an7K04n)
- - 😝 [What is the proper way to make an entry? ` Ohh, the two dudes in front of me got shot. I better go in, too.`](http://9gag.com/gag/a5QP9xo)
- - 💣 [Wtf](http://9gag.com/gag/avygXBE)
- - 😝 [Mariners, Ariel](http://9gag.com/gag/ayN0ZEX)
- - 👉 [Without the video, the man would be looking at 3-5 in prison and a $17 million civil settlement.](http://9gag.com/gag/aPA4V0B)<!-- MEMES:END -->
+ - 😝 [Lore Accurate](http://9gag.com/gag/aGywoRG)
+ - 😝 [Wtf](http://9gag.com/gag/avygXBE)
+ - 💣 [Thee exes to go then ...](http://9gag.com/gag/a5QPxbL)
+ - 😝 [Crash and huff](http://9gag.com/gag/aAyrmeL)
+ - 👉 [Take a look at the Miss Poland contestants. Noticing anything?](http://9gag.com/gag/aqyNdjR)<!-- MEMES:END -->
 
 ---
 

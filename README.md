@@ -170,10 +170,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [I&#39;m so sorry dear, nothing in this life is free.](http://9gag.com/gag/aAyrNq0)
- - 😝 [The primary reason to raise Social Security&#39;s normal retirement age is to reduce the long-term deficit..](http://9gag.com/gag/a9yLed6)
- - 💣 [Whatever this is I&#39;m in](http://9gag.com/gag/an7K04n)
- - 😝 [The flashlight in the daytime is all you need to determine their IQ .](http://9gag.com/gag/ayN0Ap8)
- - 👉 [The whole Palestinian victim mentality in one picture. No understanding of cause and effect, consequences and accountability, just like children. It\u2019s always the evil Jews. #FAFO](http://9gag.com/gag/adBYMYQ)<!-- MEMES:END -->
+ - 😝 [Trust me, I&#39;m a engineer](http://9gag.com/gag/aAyrLAg)
+ - 💣 [A group of psychiatrists studied 400 movies and identified 126 psychopathic characters. They chose Javier Bardem in \u201cNo Country for Old Men\u201d as the most clinically accurate portrayal of a psychopath.](http://9gag.com/gag/axyZ8Ln)
+ - 😝 [She&#39;s been through hell for 8 months, but now she is safe and back home!](http://9gag.com/gag/aVvW42n)
+ - 👉 [Duhhh](http://9gag.com/gag/ary4rj6)<!-- MEMES:END -->
 
 ---
 

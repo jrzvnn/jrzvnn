@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rumors and body-shaming spread through a Vermont high school after students signed up for Fizz, an anonymous message board app for schools that has raised $40M+ &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/240609/p3#a240609p3)
  - [Sources: Bharti Airtel&#39;s JV with Eutelsat OneWeb could launch satellite internet services in India in June, and Reliance expects to follow later this year &lpar;Financial Times&rpar;](http://www.techmeme.com/240609/p2#a240609p2)
  - [Sources: iOS 18 will let users lock built-in iPhone apps behind Face ID, and it is likely that the feature will also work with Touch ID or an iPhone&#39;s passcode &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/240609/p1#a240609p1)
  - [Best AirPods Deals: Snag Apple&#39;s Best Earbuds and Headphones With Deep Discounts     - CNET](https://www.cnet.com/deals/best-apple-airpods-deals/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints and Answer: Help for June 9, #1086     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-and-answer-help-for-june-9-1086/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints and Answers: Help for June 9, #364     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hints-answer-help-for-june-9-364/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints and Answer: Help for June 9, #1086     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-and-answer-help-for-june-9-1086/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

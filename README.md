@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Say what?](http://9gag.com/gag/a5QPg1o)
- - 😝 [German green party lost almost half their voters in the EU elections - Look at their faces!](http://9gag.com/gag/ajP0vZQ)
- - 💣 [The flashlight in the daytime is all you need to determine their IQ .](http://9gag.com/gag/ayN0Ap8)
- - 😝 [Wtf](http://9gag.com/gag/avygXBE)
- - 👉 [So basically GTA Vice City](http://9gag.com/gag/a7oygMr)<!-- MEMES:END -->
+ - 😝 [Mariners, Ariel](http://9gag.com/gag/ayN0ZEX)
+ - 😝 [She&#39;s been through hell for 8 months, but now she is safe and back home!](http://9gag.com/gag/aVvW42n)
+ - 💣 [You have stolen my dreams, and my childhood!](http://9gag.com/gag/axyZQOD)
+ - 😝 [MACRON IS DISSOLVING THE ASSEMBLY ! New legislative elections to be held June 30 and July 7.](http://9gag.com/gag/avygqdb)
+ - 👉 [German green party lost almost half their voters in the EU elections - Look at their faces!](http://9gag.com/gag/ajP0vZQ)<!-- MEMES:END -->
 
 ---
 

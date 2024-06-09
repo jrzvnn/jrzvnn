@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What kind of subhuman civilization do you have come from to need to take classes to learn that you should not rape women ??????](http://9gag.com/gag/amo0Q2y)
- - 😝 [Wtf](http://9gag.com/gag/avygXBE)
- - 💣 [Nope](http://9gag.com/gag/aRBP8W5)
- - 😝 [Duhhh](http://9gag.com/gag/ary4rj6)
- - 👉 [I&#39;m so sorry dear, nothing in this life is free.](http://9gag.com/gag/aAyrNq0)<!-- MEMES:END -->
+ - 😝 [Whatever this is I&#39;m in](http://9gag.com/gag/an7K04n)
+ - 😝 [Brazil.exe](http://9gag.com/gag/ae90PA5)
+ - 💣 [Duhhh](http://9gag.com/gag/ary4rj6)
+ - 😝 [German green party lost almost half their voters in the EU elections - Look at their faces!](http://9gag.com/gag/ajP0vZQ)
+ - 👉 [Which arrow will penetrate riot shields?](http://9gag.com/gag/ayN0r7p)<!-- MEMES:END -->
 
 ---
 

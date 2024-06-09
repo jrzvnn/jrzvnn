@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s AI catch-up ends at WWDC and with the iPhone 16, says Kuo](https://appleinsider.com/articles/24/06/09/apples-ai-catch-up-ends-at-wwdc-and-with-the-iphone-16-says-kuo?utm_medium=rss)
  - [Apple’s next nebulous idea: smart home robots](https://www.theverge.com/2024/6/9/24174800/apple-intelligence-ai-smart-home-robot-rumors)
  - [Xbox Summer Showcase Liveblog: Everything Microsoft Announced at SGF     - CNET](https://www.cnet.com/tech/gaming/xbox-summer-showcase-liveblog-everything-microsoft-announced-at-sgf/#ftag=CAD590a51e)
  - [Microsoft announces a white disc-less Xbox Series X for $449.99, and a 2TB Galaxy Black model of the original Xbox Series X for $599.99, coming holiday 2024 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240609/p7#a240609p7)
- - [Best Buy slashes iPad Air 5 &amp; M2 iPad Pro prices by up to $400 today only](https://appleinsider.com/articles/24/06/09/best-buy-slashes-ipad-air-5-m2-ipad-pro-prices-by-up-to-400-today-only?utm_medium=rss)
- - [Xbox announces Gears of War: E-Day](https://www.theverge.com/24172052/gears-6-xbox-summer-game-fest-trailer)<!-- TECH:END -->
+ - [Best Buy slashes iPad Air 5 &amp; M2 iPad Pro prices by up to $400 today only](https://appleinsider.com/articles/24/06/09/best-buy-slashes-ipad-air-5-m2-ipad-pro-prices-by-up-to-400-today-only?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

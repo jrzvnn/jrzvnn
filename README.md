@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why don&#39;t women like to share?](http://9gag.com/gag/amo0y2V)
- - 😝 [Wtf](http://9gag.com/gag/avygXBE)
- - 💣 [Duhhh](http://9gag.com/gag/ary4rj6)
- - 😝 [Mariners, Ariel](http://9gag.com/gag/ayN0ZEX)
- - 👉 [The flashlight in the daytime is all you need to determine their IQ .](http://9gag.com/gag/ayN0Ap8)<!-- MEMES:END -->
+ - 😝 [I&#39;m so sorry dear, nothing in this life is free.](http://9gag.com/gag/aAyrNq0)
+ - 😝 [The primary reason to raise Social Security&#39;s normal retirement age is to reduce the long-term deficit..](http://9gag.com/gag/a9yLed6)
+ - 💣 [Whatever this is I&#39;m in](http://9gag.com/gag/an7K04n)
+ - 😝 [The flashlight in the daytime is all you need to determine their IQ .](http://9gag.com/gag/ayN0Ap8)
+ - 👉 [The whole Palestinian victim mentality in one picture. No understanding of cause and effect, consequences and accountability, just like children. It\u2019s always the evil Jews. #FAFO](http://9gag.com/gag/adBYMYQ)<!-- MEMES:END -->
 
 ---
 

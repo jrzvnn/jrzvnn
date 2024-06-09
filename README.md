@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You have stolen my dreams, and my childhood!](http://9gag.com/gag/axyZQOD)
+ - 😝 [Which arrow will penetrate riot shields?](http://9gag.com/gag/ayN0r7p)
  - 😝 [I wonder why....](http://9gag.com/gag/a2vYA8d)
- - 💣 [She&#39;s been through hell for 8 months, but now she is safe and back home!](http://9gag.com/gag/aVvW42n)
+ - 💣 [I&#39;m so sorry dear, nothing in this life is free.](http://9gag.com/gag/aAyrNq0)
  - 😝 [Mariners, Ariel](http://9gag.com/gag/ayN0ZEX)
- - 👉 [Wtf](http://9gag.com/gag/avygXBE)<!-- MEMES:END -->
+ - 👉 [She&#39;s been through hell for 8 months, but now she is safe and back home!](http://9gag.com/gag/aVvW42n)<!-- MEMES:END -->
 
 ---
 

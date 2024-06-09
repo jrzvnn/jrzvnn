@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NBA Finals 2024: How to Watch, Stream Mavericks vs. Celtics Game 2 Tonight on ABC     - CNET](https://www.cnet.com/tech/services-and-software/nba-finals-2024-how-to-watch-stream-mavericks-vs-celtics-tonight-on-abc/#ftag=CAD590a51e)
+ - [No Plunger? No Problem. Unclog Any Toilet With These Household Items     - CNET](https://www.cnet.com/how-to/no-plunger-no-problem-unclog-any-toilet-with-these-household-items/#ftag=CAD590a51e)
  - [How Chinese hedge fund High-Flyer Capital Management developed its DeepSeek-V2 open-source LLM that costs less than rivals and ranks among the top in the world &lpar;Financial Times&rpar;](http://www.techmeme.com/240609/p8#a240609p8)
  - [The Truth About Food Expiration: Why You Might Be Tossing Perfectly Good Eats     - CNET](https://www.cnet.com/news/the-truth-about-food-expiration-dates-and-why-you-might-be-tossing-edible-eats/#ftag=CAD590a51e)
- - [Best Wi-Fi Wireless Speaker of 2024     - CNET](https://www.cnet.com/tech/home-entertainment/best-wi-fi-wireless-speakers/#ftag=CAD590a51e)
- - [Best Internet Providers in South Carolina     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-south-carolina/#ftag=CAD590a51e)
- - [Best Internet Providers in Katy, Texas     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-katy-tx/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Wi-Fi Wireless Speaker of 2024     - CNET](https://www.cnet.com/tech/home-entertainment/best-wi-fi-wireless-speakers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

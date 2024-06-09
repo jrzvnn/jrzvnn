@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The flashlight in the daytime is all you need to determine their IQ .](http://9gag.com/gag/ayN0Ap8)
- - 😝 [Conservatives don\u2019t \u201clove the status quo\u201d, they\u2019re just skeptical of your utopian ideas.](http://9gag.com/gag/axyZQXM)
- - 💣 [Never thought I&#39;d see the day where the Taliban defend Germany better than Germany defends itself](http://9gag.com/gag/aQz4BBK)
- - 😝 [Kid is not even asian](http://9gag.com/gag/aQz4Db7)
- - 👉 [A title](http://9gag.com/gag/a87YQPV)<!-- MEMES:END -->
+ - 😝 [God damnit... *unzips*](http://9gag.com/gag/abAymDX)
+ - 😝 [I&#39;m so sorry dear, nothing in this life is free.](http://9gag.com/gag/aAyrNq0)
+ - 💣 [You have stolen my dreams, and my childhood!](http://9gag.com/gag/axyZQOD)
+ - 😝 [Duhhh](http://9gag.com/gag/ary4rj6)
+ - 👉 [Poor kid didn&#39;t deserve this](http://9gag.com/gag/aBy3NDP)<!-- MEMES:END -->
 
 ---
 

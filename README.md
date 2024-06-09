@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ryanair do not land, they arrive](http://9gag.com/gag/awyK8ex)
- - 😝 [Take a look at the Miss Poland contestants. Noticing anything?](http://9gag.com/gag/aqyNdjR)
- - 💣 [Wtf](http://9gag.com/gag/avygXBE)
+ - 😝 [Thee exes to go then ...](http://9gag.com/gag/a5QPxbL)
  - 😝 [Lore Accurate](http://9gag.com/gag/aGywoRG)
- - 👉 [Mariners, Ariel](http://9gag.com/gag/ayN0ZEX)<!-- MEMES:END -->
+ - 💣 [Take a look at the Miss Poland contestants. Noticing anything?](http://9gag.com/gag/aqyNdjR)
+ - 😝 [I&#39;m so sorry dear, nothing in this life is free.](http://9gag.com/gag/aAyrNq0)
+ - 👉 [You have stolen my dreams, and my childhood!](http://9gag.com/gag/axyZQOD)<!-- MEMES:END -->
 
 ---
 

@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [God damnit... *unzips*](http://9gag.com/gag/abAymDX)
- - 😝 [I&#39;m so sorry dear, nothing in this life is free.](http://9gag.com/gag/aAyrNq0)
- - 💣 [You have stolen my dreams, and my childhood!](http://9gag.com/gag/axyZQOD)
- - 😝 [Duhhh](http://9gag.com/gag/ary4rj6)
- - 👉 [Poor kid didn&#39;t deserve this](http://9gag.com/gag/aBy3NDP)<!-- MEMES:END -->
+ - 😝 [Ryanair do not land, they arrive](http://9gag.com/gag/awyK8ex)
+ - 😝 [Ok, it seems legit](http://9gag.com/gag/aKGPNLb)
+ - 💣 [I&#39;m so sorry dear, nothing in this life is free.](http://9gag.com/gag/aAyrNq0)
+ - 😝 [The whole Palestinian victim mentality in one picture. No understanding of cause and effect, consequences and accountability, just like children. It\u2019s always the evil Jews. #FAFO](http://9gag.com/gag/adBYMYQ)
+ - 👉 [Numbers sorted alphabetically in different languages](http://9gag.com/gag/a5QPyWL)<!-- MEMES:END -->
 
 ---
 

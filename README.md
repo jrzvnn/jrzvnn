@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You have stolen my dreams, and my childhood!](http://9gag.com/gag/axyZQOD)
- - 😝 [Wtf](http://9gag.com/gag/avygXBE)
- - 💣 [What will u slap her from?](http://9gag.com/gag/a2vY9zD)
- - 😝 [True love](http://9gag.com/gag/azxEDXB)
- - 👉 [Mariners, Ariel](http://9gag.com/gag/ayN0ZEX)<!-- MEMES:END -->
+ - 😝 [I&#39;m so sorry dear, nothing in this life is free.](http://9gag.com/gag/aAyrNq0)
+ - 😝 [Duhhh](http://9gag.com/gag/ary4rj6)
+ - 💣 [Mariners, Ariel](http://9gag.com/gag/ayN0ZEX)
+ - 😝 [Just trying to do their job](http://9gag.com/gag/aW4WNg3)
+ - 👉 [God damnit... *unzips*](http://9gag.com/gag/abAymDX)<!-- MEMES:END -->
 
 ---
 

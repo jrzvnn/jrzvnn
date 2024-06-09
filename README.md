@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ryanair do not land, they arrive](http://9gag.com/gag/awyK8ex)
+ - 😝 [I&#39;ve seen a lot of Karaoke videos lately so thought of this](http://9gag.com/gag/abAyoXL)
  - 😝 [I wonder why....](http://9gag.com/gag/a2vYA8d)
- - 💣 [And just like that\u2026.](http://9gag.com/gag/ary40eK)
- - 😝 [Mariners, Ariel](http://9gag.com/gag/ayN0ZEX)
- - 👉 [The whole Palestinian victim mentality in one picture. No understanding of cause and effect, consequences and accountability, just like children. It\u2019s always the evil Jews. #FAFO](http://9gag.com/gag/adBYMYQ)<!-- MEMES:END -->
+ - 💣 [Mariners, Ariel](http://9gag.com/gag/ayN0ZEX)
+ - 😝 [And just like that\u2026.](http://9gag.com/gag/ary40eK)
+ - 👉 [She&#39;s been through hell for 8 months, but now she is safe and back home!](http://9gag.com/gag/aVvW42n)<!-- MEMES:END -->
 
 ---
 

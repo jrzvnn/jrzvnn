@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m so sorry dear, nothing in this life is free.](http://9gag.com/gag/aAyrNq0)
- - 😝 [The whole Palestinian victim mentality in one picture. No understanding of cause and effect, consequences and accountability, just like children. It\u2019s always the evil Jews. #FAFO](http://9gag.com/gag/adBYMYQ)
- - 💣 [Crash and huff](http://9gag.com/gag/aAyrmeL)
- - 😝 [Lore Accurate](http://9gag.com/gag/aGywoRG)
- - 👉 [Mariners, Ariel](http://9gag.com/gag/ayN0ZEX)<!-- MEMES:END -->
+ - 😝 [The flashlight in the daytime is all you need to determine their IQ .](http://9gag.com/gag/ayN0Ap8)
+ - 😝 [Conservatives don\u2019t \u201clove the status quo\u201d, they\u2019re just skeptical of your utopian ideas.](http://9gag.com/gag/axyZQXM)
+ - 💣 [Never thought I&#39;d see the day where the Taliban defend Germany better than Germany defends itself](http://9gag.com/gag/aQz4BBK)
+ - 😝 [Kid is not even asian](http://9gag.com/gag/aQz4Db7)
+ - 👉 [A title](http://9gag.com/gag/a87YQPV)<!-- MEMES:END -->
 
 ---
 

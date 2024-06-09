@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Apple Intelligence&#39; at the core of next-gen Apple hardware, services](https://appleinsider.com/articles/24/06/09/apple-intelligence-at-the-core-of-next-gen-apple-hardware-services?utm_medium=rss)
  - [Keychron Q1 HE Review: Hall Effect Goes Mainstream](https://www.wired.com/review/keychron-q1-he/)
  - [Apple&#39;s AI push isn&#39;t so much about its current devices, but enabling its next wave of AI-intensive devices that may eventually supplant a smartphone &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240609/p5#a240609p5)
  - [It&#39;s Your Last Day to Save on an iPhone, Watch, iPad and More at Best Buy&#39;s Apple Sale     - CNET](https://www.cnet.com/deals/its-your-last-day-to-save-on-an-iphone-iwatch-ipad-and-more-at-best-buys-apple-sale/#ftag=CAD590a51e)
- - [5 Best Kids&#39; Bikes &lpar;2024&rpar;: Balance, Pedal, Coaster](https://www.wired.com/gallery/best-kids-bikes/)
- - [How to watch Microsoft’s 2024 Xbox and Call of Duty showcase](https://www.theverge.com/2024/6/9/24173683/xbox-games-showcase-call-of-duty-direct-2024-date-live-stream)<!-- TECH:END -->
+ - [5 Best Kids&#39; Bikes &lpar;2024&rpar;: Balance, Pedal, Coaster](https://www.wired.com/gallery/best-kids-bikes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

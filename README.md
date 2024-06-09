@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m so sorry dear, nothing in this life is free.](http://9gag.com/gag/aAyrNq0)
- - 😝 [Mariners, Ariel](http://9gag.com/gag/ayN0ZEX)
- - 💣 [Duhhh](http://9gag.com/gag/ary4rj6)
  - 😝 [The flashlight in the daytime is all you need to determine their IQ .](http://9gag.com/gag/ayN0Ap8)
- - 👉 [She&#39;s been through hell for 8 months, but now she is safe and back home!](http://9gag.com/gag/aVvW42n)<!-- MEMES:END -->
+ - 😝 [Why don&#39;t women like to share?](http://9gag.com/gag/amo0y2V)
+ - 💣 [You have stolen my dreams, and my childhood!](http://9gag.com/gag/axyZQOD)
+ - 😝 [Which arrow will penetrate riot shields?](http://9gag.com/gag/ayN0r7p)
+ - 👉 [What kind of subhuman civilization do you have come from to need to take classes to learn that you should not rape women ??????](http://9gag.com/gag/amo0Q2y)<!-- MEMES:END -->
 
 ---
 

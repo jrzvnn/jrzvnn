@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why?](http://9gag.com/gag/aXPpmx6)
- - 😝 [Go buy some coke.](http://9gag.com/gag/a6Zy3gb)
- - 💣 [Welcome back guys, we will try to bring the others as well.](http://9gag.com/gag/aPA4z1B)
- - 😝 [The 80&#39;s. When the coke was pure, white people had rhythm and they all dressed like they were to a corporate meeting.](http://9gag.com/gag/aXPpmoP)
- - 👉 [No way. where is my straw?](http://9gag.com/gag/azxEoRz)<!-- MEMES:END -->
+ - 😝 [Saucy everything](http://9gag.com/gag/ary4zVp)
+ - 😝 [Whatever this is I&#39;m in](http://9gag.com/gag/an7K04n)
+ - 💣 [Mariners, Ariel](http://9gag.com/gag/ayN0ZEX)
+ - 😝 [What is the proper way to make an entry? ` Ohh, the two dudes in front of me got shot. I better go in, too.`](http://9gag.com/gag/a5QP9xo)
+ - 👉 [She&#39;s been through hell for 8 months, but now she is safe and back home!](http://9gag.com/gag/aVvW42n)<!-- MEMES:END -->
 
 ---
 

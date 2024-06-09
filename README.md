@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Science of Having a Great Conversation](https://www.wired.com/story/the-science-of-having-a-great-conversation-research-social-connection/)
+ - [How Game Theory Can Make AI More Reliable](https://www.wired.com/story/game-theory-can-make-ai-more-correct-and-efficient/)
  - [iOS 18: WWDC 2024 Is Tomorrow. Here&#39;s What We Want Apple to Announce     - CNET](https://www.cnet.com/tech/mobile/ios-18-wwdc-2024-is-tomorrow-heres-what-we-want-apple-to-announce/#ftag=CAD590a51e)
  - [Best Phones Under $300 in 2024     - CNET](https://www.cnet.com/tech/mobile/best-phones-under-300/#ftag=CAD590a51e)
- - [How Uber-owned Careem went from Pakistan&#39;s ride-hailing leader to a distant third player after deprioritizing the country due to its unstable economy &lpar;Zuha Siddiqui/Rest of World&rpar;](http://www.techmeme.com/240609/p4#a240609p4)
- - [iOS 17: Easily Turn Your Pet Into a Cute Live Sticker on Your iPhone     - CNET](https://www.cnet.com/tech/mobile/ios-17-easily-turn-your-pet-into-a-cute-live-sticker-on-your-iphone/#ftag=CAD590a51e)
- - [Starlink vs. T-Mobile Home Internet: Comparing 2 Top Rural ISPs     - CNET](https://www.cnet.com/home/internet/starlink-vs-t-mobile-home-internet/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How Uber-owned Careem went from Pakistan&#39;s ride-hailing leader to a distant third player after deprioritizing the country due to its unstable economy &lpar;Zuha Siddiqui/Rest of World&rpar;](http://www.techmeme.com/240609/p4#a240609p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

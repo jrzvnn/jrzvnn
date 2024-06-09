@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to fully restore a 10th generation Mac mini to like-new condition](https://appleinsider.com/inside/mac-mini/tips/how-to-fully-restore-a-10th-generation-mac-mini-to-like-new-condition?utm_medium=rss)
+ - [Revive That Scorched Cast-Iron Skillet With This Pantry Staple     - CNET](https://www.cnet.com/how-to/revive-that-scorched-cast-iron-skillet-with-this-pantry-staple/#ftag=CAD590a51e)
  - [Apple&#39;s AI catch-up ends at WWDC and with the iPhone 16, says Kuo](https://appleinsider.com/articles/24/06/09/apples-ai-catch-up-ends-at-wwdc-and-with-the-iphone-16-says-kuo?utm_medium=rss)
- - [Apple’s next nebulous idea: smart home robots](https://www.theverge.com/2024/6/9/24174800/apple-intelligence-ai-smart-home-robot-rumors)
- - [Xbox Summer Showcase Liveblog: Everything Microsoft Announced at SGF     - CNET](https://www.cnet.com/tech/gaming/xbox-summer-showcase-liveblog-everything-microsoft-announced-at-sgf/#ftag=CAD590a51e)
- - [Microsoft announces a white disc-less Xbox Series X for $449.99, and a 2TB Galaxy Black model of the original Xbox Series X for $599.99, coming holiday 2024 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240609/p7#a240609p7)
- - [Best Buy slashes iPad Air 5 &amp; M2 iPad Pro prices by up to $400 today only](https://appleinsider.com/articles/24/06/09/best-buy-slashes-ipad-air-5-m2-ipad-pro-prices-by-up-to-400-today-only?utm_medium=rss)<!-- TECH:END -->
+ - [Everything Announced at Microsoft&#39;s Xbox Showcase Event video     - CNET](https://www.cnet.com/videos/everything-announced-at-microsofts-xbox-showcase-event/#ftag=CAD590a51e)
+ - [Best iPhone Deals 2024: Save Up to $1,000 on an iPhone SE, 14 or 15     - CNET](https://www.cnet.com/deals/best-iphone-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

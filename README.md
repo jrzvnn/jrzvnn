@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best alternatives to Adobe Photoshop, Illustrator, InDesign, and more](https://appleinsider.com/inside/mac/best/the-best-alternatives-to-adobe-photoshop-illustrator-indesign-and-more?utm_medium=rss)
  - [16 Best Coffee Subscriptions to Keep You Wired &lpar;2024&rpar;: Blends, Single-Origin, Small Batch, and Local Roasters](https://www.wired.com/gallery/best-coffee-subscriptions/)
  - [Smartphones May Affect Sleep—but Not Because of Blue Light](https://www.wired.com/story/blue-light-smartphone-screen-sleep/)
  - [An AI PC you’ll want to tinker with](https://www.theverge.com/24173628/ai-pc-raspberry-pi-hit-man-rivian-chromatic-installer)
- - [T20 Cricket World Cup Livestream: How to Watch India vs. Pakistan From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/t20-cricket-world-cup-livestream-how-to-watch-india-vs-pakistan-from-anywhere/#ftag=CAD590a51e)
- - [Google Pixel 9 and 9 Pro Rumors: Pixel XL, New Design, Tensor G4     - CNET](https://www.cnet.com/tech/mobile/google-pixel-9-and-9-pro-rumors-pixel-xl-new-designs-tensor-g4/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [T20 Cricket World Cup Livestream: How to Watch India vs. Pakistan From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/t20-cricket-world-cup-livestream-how-to-watch-india-vs-pakistan-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

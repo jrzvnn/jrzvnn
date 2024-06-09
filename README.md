@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just trying to do their job](http://9gag.com/gag/aW4WNg3)
- - 😝 [Dude just earned the right to keep that dog](http://9gag.com/gag/aBy3NnP)
- - 💣 [Duhhh](http://9gag.com/gag/ary4rj6)
- - 😝 [I&#39;m so sorry dear, nothing in this life is free.](http://9gag.com/gag/aAyrNq0)
- - 👉 [Crash and huff](http://9gag.com/gag/aAyrmeL)<!-- MEMES:END -->
+ - 😝 [She&#39;s been through hell for 8 months, but now she is safe and back home!](http://9gag.com/gag/aVvW42n)
+ - 😝 [The flashlight in the daytime is all you need to determine their IQ .](http://9gag.com/gag/ayN0Ap8)
+ - 💣 [I&#39;m so sorry dear, nothing in this life is free.](http://9gag.com/gag/aAyrNq0)
+ - 😝 [And just like that\u2026.](http://9gag.com/gag/ary40eK)
+ - 👉 [You have stolen my dreams, and my childhood!](http://9gag.com/gag/axyZQOD)<!-- MEMES:END -->
 
 ---
 

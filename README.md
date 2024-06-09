@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Internet Providers in Katy, Texas     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-katy-tx/#ftag=CAD590a51e)
  - [How to fully restore a 10th generation Mac mini to like-new condition](https://appleinsider.com/inside/mac-mini/tips/how-to-fully-restore-a-10th-generation-mac-mini-to-like-new-condition?utm_medium=rss)
+ - [WWDC 2024: How to Watch and What to Expect, From iOS 18 to &#39;Apple Intelligence&#39;     - CNET](https://www.cnet.com/tech/mobile/wwdc-2024-how-to-watch-and-what-to-expect-from-ios-18-to-apple-intelligence/#ftag=CAD590a51e)
  - [Revive That Scorched Cast-Iron Skillet With This Pantry Staple     - CNET](https://www.cnet.com/how-to/revive-that-scorched-cast-iron-skillet-with-this-pantry-staple/#ftag=CAD590a51e)
- - [Apple&#39;s AI catch-up ends at WWDC and with the iPhone 16, says Kuo](https://appleinsider.com/articles/24/06/09/apples-ai-catch-up-ends-at-wwdc-and-with-the-iphone-16-says-kuo?utm_medium=rss)
- - [Everything Announced at Microsoft&#39;s Xbox Showcase Event video     - CNET](https://www.cnet.com/videos/everything-announced-at-microsofts-xbox-showcase-event/#ftag=CAD590a51e)
- - [Best iPhone Deals 2024: Save Up to $1,000 on an iPhone SE, 14 or 15     - CNET](https://www.cnet.com/deals/best-iphone-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s AI catch-up ends at WWDC and with the iPhone 16, says Kuo](https://appleinsider.com/articles/24/06/09/apples-ai-catch-up-ends-at-wwdc-and-with-the-iphone-16-says-kuo?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Data suggests Project Green Light, Google&#39;s AI system deployed in 14 cities to adjust traffic light timing, reduced stop-and-go traffic at intersections by 30% &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/240609/p6#a240609p6)
+ - [Microsoft announces a disc-less Xbox Series X console in white](https://www.theverge.com/2024/6/9/24174793/microsoft-xbox-series-x-white-digital-edition)
+ - [How to fully restore a 10th generation Mac mini to like-new condition](https://appleinsider.com/inside/mac-mini/tips/how-to-fully-restore-a-10th-generation-mac-mini-to-like-new-condition?utm_medium=rss)
  - [Microsoft Flight Simulator 2024 launches on November 19th](https://www.theverge.com/2024/6/9/24173672/microsoft-flight-simulator-2024-november-19th-release-date-trailer)
- - [Xbox’s new Fable game is coming in 2025](https://www.theverge.com/2024/6/9/24173655/xbox-fable-game-release-date-2025-trailer)
- - [Here’s our first look at the new Perfect Dark game](https://www.theverge.com/24174839/perfect-dark-reboot-xbox-microsoft)
- - [Fallout 76’s first map expansion is coming soon — and next year, you can play as a ghoul](https://www.theverge.com/24173587/fallout-76-skyline-valley-expansion-trailer-date-playable-ghoul)
- - [&#39;Apple Intelligence&#39; at the core of next-gen Apple hardware, services](https://appleinsider.com/articles/24/06/09/apple-intelligence-at-the-core-of-next-gen-apple-hardware-services?utm_medium=rss)<!-- TECH:END -->
+ - [Xbox’s new Fable game is coming in 2025](https://www.theverge.com/2024/6/9/24173655/xbox-fable-game-release-date-2025-trailer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

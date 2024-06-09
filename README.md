@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What kind of subhuman civilization do you have come from to need to take classes to learn that you should not rape women ??????](http://9gag.com/gag/amo0Q2y)
- - 😝 [Quest for the holy Grail!](http://9gag.com/gag/a7oygew)
- - 💣 [The real entrepreneur](http://9gag.com/gag/aRBPWwj)
- - 😝 [Look at this dress](http://9gag.com/gag/aKGPyoO)
- - 👉 [European elections](http://9gag.com/gag/a9yLwEK)<!-- MEMES:END -->
+ - 😝 [Say what?](http://9gag.com/gag/a5QPg1o)
+ - 😝 [German green party lost almost half their voters in the EU elections - Look at their faces!](http://9gag.com/gag/ajP0vZQ)
+ - 💣 [The flashlight in the daytime is all you need to determine their IQ .](http://9gag.com/gag/ayN0Ap8)
+ - 😝 [Wtf](http://9gag.com/gag/avygXBE)
+ - 👉 [So basically GTA Vice City](http://9gag.com/gag/a7oygMr)<!-- MEMES:END -->
 
 ---
 

@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Summer Game Fest 2024: all the news, trailers, and announcements](https://www.theverge.com/24170561/summer-game-fest-2024-trailers-news-geoff-keighley)
  - [Xbox Games Showcase 2024: all the news, trailers, and announcements](https://www.theverge.com/24173601/xbox-games-showcase-june-2024-microsoft)
  - [7 Ways Gen Zers and Boomers Spend Money Differently. Who&#39;s Saving More?     - CNET](https://www.cnet.com/personal-finance/boomers-love-saying-back-in-my-day-it-was-cheaper-but-was-it/#ftag=CAD590a51e)
  - [Act Fast to Snag a Lifetime License to Microsoft Visual Studio Professional for $460 Off     - CNET](https://www.cnet.com/deals/act-fast-to-snag-a-lifetime-license-to-microsoft-visual-studio-professional-for-460-off/#ftag=CAD590a51e)
- - [What Is Matter? We Explain the New Smart Home Standard &lpar;2024&rpar;](https://www.wired.com/story/what-is-matter/)
- - [Ikea will pay 10 Roblox players to roleplay as employees in its virtual store](https://www.theverge.com/2024/6/9/24174713/ikea-hiring-roblox-virtual-reality-store)<!-- TECH:END -->
+ - [What Is Matter? We Explain the New Smart Home Standard &lpar;2024&rpar;](https://www.wired.com/story/what-is-matter/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

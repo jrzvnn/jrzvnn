@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iOS 18: WWDC 2024 Is Tomorrow. Here&#39;s What We Want Apple to Announce     - CNET](https://www.cnet.com/tech/mobile/ios-18-wwdc-2024-is-tomorrow-heres-what-we-want-apple-to-announce/#ftag=CAD590a51e)
+ - [Best Phones Under $300 in 2024     - CNET](https://www.cnet.com/tech/mobile/best-phones-under-300/#ftag=CAD590a51e)
  - [How Uber-owned Careem went from Pakistan&#39;s ride-hailing leader to a distant third player after deprioritizing the country due to its unstable economy &lpar;Zuha Siddiqui/Rest of World&rpar;](http://www.techmeme.com/240609/p4#a240609p4)
- - [Alarming New Gas Stove Study Suggests Leaks Are Undetectable by Smell Alone     - CNET](https://www.cnet.com/news/alarming-new-study-suggests-some-gas-stove-leaks-are-undetectable-by-human-nose/#ftag=CAD590a51e)
- - [Reactions to Rivian&#39;s New R1T Truck Praise Range, Power: &#39;The Cybertruck I Wanted&#39;     - CNET](https://www.cnet.com/roadshow/news/reactions-to-rivians-new-r1t-truck-praise-range-power-the-cybertruck-i-wanted/#ftag=CAD590a51e)
- - [Best Samsung Phone of 2024     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-phone/#ftag=CAD590a51e)
- - [You Can Crash the Car. But if You Use Dish Soap in the Dishwasher, You&#39;re Grounded for Life     - CNET](https://www.cnet.com/how-to/you-can-crash-the-car-but-if-you-use-dish-soap-in-the-dishwasher-youre-grounded-for-life/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iOS 17: Easily Turn Your Pet Into a Cute Live Sticker on Your iPhone     - CNET](https://www.cnet.com/tech/mobile/ios-17-easily-turn-your-pet-into-a-cute-live-sticker-on-your-iphone/#ftag=CAD590a51e)
+ - [Starlink vs. T-Mobile Home Internet: Comparing 2 Top Rural ISPs     - CNET](https://www.cnet.com/home/internet/starlink-vs-t-mobile-home-internet/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

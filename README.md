@@ -161,10 +161,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [How Uber-owned Careem went from Pakistan&#39;s ride-hailing leader to a distant third player after deprioritizing the country due to its unstable economy &lpar;Zuha Siddiqui/Rest of World&rpar;](http://www.techmeme.com/240609/p4#a240609p4)
- - [The EU Is Taking on Big Tech. It May Be Outmatched](https://www.wired.com/story/european-commission-big-tech-regulation-outlook/)
- - [Apple&#39;s M3 MacBook Air plunges to $899, the lowest price ever](https://appleinsider.com/articles/24/06/09/apples-m3-macbook-air-plunges-to-899-the-lowest-price-ever?utm_medium=rss)
- - [Rumors and body-shaming spread through a Vermont high school after students signed up for Fizz, an anonymous message board app for schools that has raised $40M+ &lpar;Julie Jargon/Wall Street Journal&rpar;](http://www.techmeme.com/240609/p3#a240609p3)
- - [Sources: Bharti Airtel&#39;s JV with Eutelsat OneWeb could launch satellite internet services in India in June, and Reliance expects to follow later this year &lpar;Financial Times&rpar;](http://www.techmeme.com/240609/p2#a240609p2)<!-- TECH:END -->
+ - [Alarming New Gas Stove Study Suggests Leaks Are Undetectable by Smell Alone     - CNET](https://www.cnet.com/news/alarming-new-study-suggests-some-gas-stove-leaks-are-undetectable-by-human-nose/#ftag=CAD590a51e)
+ - [Reactions to Rivian&#39;s New R1T Truck Praise Range, Power: &#39;The Cybertruck I Wanted&#39;     - CNET](https://www.cnet.com/roadshow/news/reactions-to-rivians-new-r1t-truck-praise-range-power-the-cybertruck-i-wanted/#ftag=CAD590a51e)
+ - [Best Samsung Phone of 2024     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-phone/#ftag=CAD590a51e)
+ - [You Can Crash the Car. But if You Use Dish Soap in the Dishwasher, You&#39;re Grounded for Life     - CNET](https://www.cnet.com/how-to/you-can-crash-the-car-but-if-you-use-dish-soap-in-the-dishwasher-youre-grounded-for-life/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

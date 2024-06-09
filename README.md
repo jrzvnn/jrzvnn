@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m so sorry dear, nothing in this life is free.](http://9gag.com/gag/aAyrNq0)
- - 😝 [Duhhh](http://9gag.com/gag/ary4rj6)
- - 💣 [Mariners, Ariel](http://9gag.com/gag/ayN0ZEX)
- - 😝 [Just trying to do their job](http://9gag.com/gag/aW4WNg3)
- - 👉 [God damnit... *unzips*](http://9gag.com/gag/abAymDX)<!-- MEMES:END -->
+ - 😝 [Ryanair do not land, they arrive](http://9gag.com/gag/awyK8ex)
+ - 😝 [Take a look at the Miss Poland contestants. Noticing anything?](http://9gag.com/gag/aqyNdjR)
+ - 💣 [Wtf](http://9gag.com/gag/avygXBE)
+ - 😝 [Lore Accurate](http://9gag.com/gag/aGywoRG)
+ - 👉 [Mariners, Ariel](http://9gag.com/gag/ayN0ZEX)<!-- MEMES:END -->
 
 ---
 

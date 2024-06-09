@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Welcome back guys, we will try to bring the others as well.](http://9gag.com/gag/aPA4z1B)
- - 😝 [She&#39;s been through hell for 8 months, but now she is safe and back home!](http://9gag.com/gag/aVvW42n)
- - 💣 [Conservatives don\u2019t \u201clove the status quo\u201d, they\u2019re just skeptical of your utopian ideas.](http://9gag.com/gag/axyZQXM)
- - 😝 [No way. where is my straw?](http://9gag.com/gag/azxEoRz)
- - 👉 [Never thought I&#39;d see the day where the Taliban defend Germany better than Germany defends itself](http://9gag.com/gag/aQz4BBK)<!-- MEMES:END -->
+ - 😝 [I&#39;m so sorry dear, nothing in this life is free.](http://9gag.com/gag/aAyrNq0)
+ - 😝 [Ryanair do not land, they arrive](http://9gag.com/gag/awyK8ex)
+ - 💣 [Duhhh](http://9gag.com/gag/ary4rj6)
+ - 😝 [The whole Palestinian victim mentality in one picture. No understanding of cause and effect, consequences and accountability, just like children. It\u2019s always the evil Jews. #FAFO](http://9gag.com/gag/adBYMYQ)
+ - 👉 [Lore Accurate](http://9gag.com/gag/aGywoRG)<!-- MEMES:END -->
 
 ---
 

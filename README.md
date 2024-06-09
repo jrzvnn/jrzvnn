@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Great game](http://9gag.com/gag/apR08V8)
- - 😝 [What will u slap her from?](http://9gag.com/gag/a2vY9zD)
- - 💣 [Brazil.exe](http://9gag.com/gag/ae90PA5)
- - 😝 [Whatever this is I&#39;m in](http://9gag.com/gag/an7K04n)
- - 👉 [This idiot teased a girl. Later when he was arrested, police beat him so bad he was not able to walk.](http://9gag.com/gag/aD23rNZ)<!-- MEMES:END -->
+ - 😝 [4 Israeli hostages were rescued by the IDF special forces in a super complicated operation, inside highly populated area in central Gaza](http://9gag.com/gag/aLnPVzA)
+ - 😝 [No way. where is my straw?](http://9gag.com/gag/azxEoRz)
+ - 💣 [Welcome back guys, we will try to bring the others as well.](http://9gag.com/gag/aPA4z1B)
+ - 😝 [She&#39;s been through hell for 8 months, but now she is safe and back home!](http://9gag.com/gag/aVvW42n)
+ - 👉 [Whatever this is I&#39;m in](http://9gag.com/gag/an7K04n)<!-- MEMES:END -->
 
 ---
 

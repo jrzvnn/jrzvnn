@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wtf](http://9gag.com/gag/avygXBE)
- - 😝 [You have stolen my dreams, and my childhood!](http://9gag.com/gag/axyZQOD)
- - 💣 [Legolas the Stoic](http://9gag.com/gag/ary4d56)
- - 😝 [Brazil.exe](http://9gag.com/gag/ae90PA5)
- - 👉 [Traffic collision in Kobe, Japan results in car being flattened to a thickness of 30cm between two trucks](http://9gag.com/gag/aMVr0pV)<!-- MEMES:END -->
+ - 😝 [Welcome back guys, we will try to bring the others as well.](http://9gag.com/gag/aPA4z1B)
+ - 😝 [She&#39;s been through hell for 8 months, but now she is safe and back home!](http://9gag.com/gag/aVvW42n)
+ - 💣 [Conservatives don\u2019t \u201clove the status quo\u201d, they\u2019re just skeptical of your utopian ideas.](http://9gag.com/gag/axyZQXM)
+ - 😝 [No way. where is my straw?](http://9gag.com/gag/azxEoRz)
+ - 👉 [Never thought I&#39;d see the day where the Taliban defend Germany better than Germany defends itself](http://9gag.com/gag/aQz4BBK)<!-- MEMES:END -->
 
 ---
 

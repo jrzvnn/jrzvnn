@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [4 Israeli hostages were rescued by the IDF special forces in a super complicated operation, inside highly populated area in central Gaza](http://9gag.com/gag/aLnPVzA)
- - 😝 [Welcome back guys, we will try to bring the others as well.](http://9gag.com/gag/aPA4z1B)
- - 💣 [She&#39;s been through hell for 8 months, but now she is safe and back home!](http://9gag.com/gag/aVvW42n)
- - 😝 [No way. where is my straw?](http://9gag.com/gag/azxEoRz)
- - 👉 [Conservatives don\u2019t \u201clove the status quo\u201d, they\u2019re just skeptical of your utopian ideas.](http://9gag.com/gag/axyZQXM)<!-- MEMES:END -->
+ - 😝 [Whatever this is I&#39;m in](http://9gag.com/gag/an7K04n)
+ - 😝 [Ok, it seems legit](http://9gag.com/gag/aKGPNLb)
+ - 💣 [Thee exes to go then ...](http://9gag.com/gag/a5QPxbL)
+ - 😝 [What is the proper way to make an entry? ` Ohh, the two dudes in front of me got shot. I better go in, too.`](http://9gag.com/gag/a5QP9xo)
+ - 👉 [Duhhh](http://9gag.com/gag/ary4rj6)<!-- MEMES:END -->
 
 ---
 

@@ -161,10 +161,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Sources: iOS 18 will let users lock built-in iPhone apps behind Face ID, and it is likely that the feature will also work with Touch ID or an iPhone&#39;s passcode &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/240609/p1#a240609p1)
- - [Peak and Off-Peak Energy Explainer: Here’s the Cheapest Time to Use Electricity     - CNET](https://www.cnet.com/how-to/peak-and-off-peak-energy-explainer-heres-the-cheapest-time-to-use-electricity/#ftag=CAD590a51e)
- - [Best Mattress to Buy on Amazon in 2024     - CNET](https://www.cnet.com/health/sleep/best-amazon-mattress/#ftag=CAD590a51e)
- - [The first Tales of the TMNT trailer reveals an August 9th release](https://www.theverge.com/2024/6/8/24174515/tales-of-the-teenage-mutant-ninja-turtles-trailer-paramount-plus)
- - [The Best Horror Films on Prime Video to Watch Right Now     - CNET](https://www.cnet.com/tech/services-and-software/the-best-horror-films-on-prime-video-june-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best AirPods Deals: Snag Apple&#39;s Best Earbuds and Headphones With Deep Discounts     - CNET](https://www.cnet.com/deals/best-apple-airpods-deals/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints and Answer: Help for June 9, #1086     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-and-answer-help-for-june-9-1086/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints and Answers: Help for June 9, #364     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hints-answer-help-for-june-9-364/#ftag=CAD590a51e)
+ - [Peak and Off-Peak Energy Explainer: Here’s the Cheapest Time to Use Electricity     - CNET](https://www.cnet.com/how-to/peak-and-off-peak-energy-explainer-heres-the-cheapest-time-to-use-electricity/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

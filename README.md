@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [T20 Cricket World Cup Livestream: How to Watch India vs. Pakistan From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/t20-cricket-world-cup-livestream-how-to-watch-india-vs-pakistan-from-anywhere/#ftag=CAD590a51e)
+ - [Google Pixel 9 and 9 Pro Rumors: Pixel XL, New Design, Tensor G4     - CNET](https://www.cnet.com/tech/mobile/google-pixel-9-and-9-pro-rumors-pixel-xl-new-designs-tensor-g4/#ftag=CAD590a51e)
+ - [French Open Men&#39;s Final 2024: How to Watch, Stream Zverev vs. Alcaraz From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/french-open-mens-final-2024-how-to-watch-stream-zverev-vs-alcaraz-from-anywhere/#ftag=CAD590a51e)
  - [The Science of Having a Great Conversation](https://www.wired.com/story/the-science-of-having-a-great-conversation-research-social-connection/)
- - [How Game Theory Can Make AI More Reliable](https://www.wired.com/story/game-theory-can-make-ai-more-correct-and-efficient/)
- - [iOS 18: WWDC 2024 Is Tomorrow. Here&#39;s What We Want Apple to Announce     - CNET](https://www.cnet.com/tech/mobile/ios-18-wwdc-2024-is-tomorrow-heres-what-we-want-apple-to-announce/#ftag=CAD590a51e)
- - [Best Phones Under $300 in 2024     - CNET](https://www.cnet.com/tech/mobile/best-phones-under-300/#ftag=CAD590a51e)
- - [How Uber-owned Careem went from Pakistan&#39;s ride-hailing leader to a distant third player after deprioritizing the country due to its unstable economy &lpar;Zuha Siddiqui/Rest of World&rpar;](http://www.techmeme.com/240609/p4#a240609p4)<!-- TECH:END -->
+ - [How Game Theory Can Make AI More Reliable](https://www.wired.com/story/game-theory-can-make-ai-more-correct-and-efficient/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

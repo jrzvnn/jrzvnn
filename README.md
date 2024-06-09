@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Take a look at the Miss Poland contestants. Noticing anything?](http://9gag.com/gag/aqyNdjR)
- - 😝 [This idiot teased a girl. Later when he was arrested, police beat him so bad he was not able to walk.](http://9gag.com/gag/aD23rNZ)
- - 💣 [Poor kid didn&#39;t deserve this](http://9gag.com/gag/aBy3NDP)
- - 😝 [Without the video, the man would be looking at 3-5 in prison and a $17 million civil settlement.](http://9gag.com/gag/aPA4V0B)
- - 👉 [What will u slap her from?](http://9gag.com/gag/a2vY9zD)<!-- MEMES:END -->
+ - 😝 [4 Israeli hostages were rescued by the IDF special forces in a super complicated operation, inside highly populated area in central Gaza](http://9gag.com/gag/aLnPVzA)
+ - 😝 [Welcome back guys, we will try to bring the others as well.](http://9gag.com/gag/aPA4z1B)
+ - 💣 [She&#39;s been through hell for 8 months, but now she is safe and back home!](http://9gag.com/gag/aVvW42n)
+ - 😝 [No way. where is my straw?](http://9gag.com/gag/azxEoRz)
+ - 👉 [Conservatives don\u2019t \u201clove the status quo\u201d, they\u2019re just skeptical of your utopian ideas.](http://9gag.com/gag/axyZQXM)<!-- MEMES:END -->
 
 ---
 

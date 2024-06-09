@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Another company making another overwatch game.](http://9gag.com/gag/avyg4PX)
- - 😝 [Poor kid didn&#39;t deserve this](http://9gag.com/gag/aBy3NDP)
- - 💣 [Alright watching again](http://9gag.com/gag/aE01yGp)
- - 😝 [Whatever this is I&#39;m in](http://9gag.com/gag/an7K04n)
- - 👉 [This idiot teased a girl. Later when he was arrested, police beat him so bad he was not able to walk.](http://9gag.com/gag/aD23rNZ)<!-- MEMES:END -->
+ - 😝 [Take a look at the Miss Poland contestants. Noticing anything?](http://9gag.com/gag/aqyNdjR)
+ - 😝 [This idiot teased a girl. Later when he was arrested, police beat him so bad he was not able to walk.](http://9gag.com/gag/aD23rNZ)
+ - 💣 [Poor kid didn&#39;t deserve this](http://9gag.com/gag/aBy3NDP)
+ - 😝 [Without the video, the man would be looking at 3-5 in prison and a $17 million civil settlement.](http://9gag.com/gag/aPA4V0B)
+ - 👉 [What will u slap her from?](http://9gag.com/gag/a2vY9zD)<!-- MEMES:END -->
 
 ---
 

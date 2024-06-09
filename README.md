@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She&#39;s been through hell for 8 months, but now she is safe and back home!](http://9gag.com/gag/aVvW42n)
- - 😝 [The flashlight in the daytime is all you need to determine their IQ .](http://9gag.com/gag/ayN0Ap8)
- - 💣 [I&#39;m so sorry dear, nothing in this life is free.](http://9gag.com/gag/aAyrNq0)
- - 😝 [And just like that\u2026.](http://9gag.com/gag/ary40eK)
- - 👉 [You have stolen my dreams, and my childhood!](http://9gag.com/gag/axyZQOD)<!-- MEMES:END -->
+ - 😝 [I&#39;ve seen a lot of Karaoke videos lately so thought of this](http://9gag.com/gag/abAyoXL)
+ - 😝 [Mariners, Ariel](http://9gag.com/gag/ayN0ZEX)
+ - 💣 [She&#39;s been through hell for 8 months, but now she is safe and back home!](http://9gag.com/gag/aVvW42n)
+ - 😝 [I wonder why....](http://9gag.com/gag/a2vYA8d)
+ - 👉 [And just like that\u2026.](http://9gag.com/gag/ary40eK)<!-- MEMES:END -->
 
 ---
 

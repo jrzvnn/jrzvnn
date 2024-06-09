@@ -160,7 +160,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft announces a white disc-less Xbox Series X for $449.99, and a 2TB Galaxy Black model of the original Xbox Series X for $599.99, coming later this year &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240609/p7#a240609p7)
+ - [Microsoft announces a white disc-less Xbox Series X for $449.99, and a 2TB Galaxy Black model of the original Xbox Series X for $599.99, coming holiday 2024 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240609/p7#a240609p7)
  - [Best Buy slashes iPad Air 5 &amp; M2 iPad Pro prices by up to $400 today only](https://appleinsider.com/articles/24/06/09/best-buy-slashes-ipad-air-5-m2-ipad-pro-prices-by-up-to-400-today-only?utm_medium=rss)
  - [Xbox announces Gears of War: E-Day](https://www.theverge.com/24172052/gears-6-xbox-summer-game-fest-trailer)
  - [Data suggests Project Green Light, Google&#39;s AI system deployed in 14 cities to adjust traffic light timing, reduced stop-and-go traffic at intersections by 30% &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/240609/p6#a240609p6)

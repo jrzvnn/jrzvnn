@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Live stream of Apple&#39;s 2024 WWDC keynote &lpar;Apple on YouTube&rpar;](http://www.techmeme.com/240610/p14#a240610p14)
- - [A live blog of WWDC 2024, where Apple&#39;s AI plans, iOS 18, macOS 15, and more are expected &lpar;The Verge&rpar;](http://www.techmeme.com/240610/p13#a240610p13)
- - [Apple Store unexpectedly goes down ahead of WWDC](https://appleinsider.com/articles/24/06/10/apple-store-unexpectedly-goes-down-ahead-of-wwdc?utm_medium=rss)
- - [Abbott gets FDA clearance for over-the-counter continuous glucose monitors](https://www.theverge.com/2024/6/10/24175352/abbott-lingo-libre-rio-fda-cgm-diabetes-wearables)
- - [You can grab an Echo Pop speaker for $19.99 just in time for Father’s Day](https://www.theverge.com/2024/6/10/24175355/amazon-echo-pop-smart-speaker-fathers-day-deal-sale)<!-- TECH:END -->
+ - [visionOS 2.0 gets big upgrades with photo 3d processing, multiple 4K Mac screens &amp; more](https://appleinsider.com/articles/24/06/10/visionos-20-gets-big-upgrades-with-photo-3d-processing-multiple-4k-mac-screens-more?utm_medium=rss)
+ - [Apple announces iOS 18 with more customizable homescreen](https://www.theverge.com/2024/6/10/24172132/apple-ios-18-new-features-ai)
+ - [Apple is finally launching the Vision Pro outside the US](https://www.theverge.com/2024/6/10/24173749/apple-wwdc-vision-pro-international-sales-availability-launch-price)
+ - [Apple announces visionOS 2, with 3D photo transformations and ultrawide Mac display](https://www.theverge.com/2024/6/10/24171950/apple-vision-pro-wwdc-2024-visionos-2-first-party-native-apps)
+ - [Apple teases new seasons of Severance and Silo](https://www.theverge.com/2024/6/10/24175308/apple-tv-plus-severance-silo-teaser-wwdc-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

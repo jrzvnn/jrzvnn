@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The whole Palestinian victim mentality in one picture. No understanding of cause and effect, consequences and accountability, just like children. It\u2019s always the evil Jews. #FAFO](http://9gag.com/gag/adBYMYQ)
+ - 😝 [German green party lost almost half their voters in the EU elections - Look at their faces!](http://9gag.com/gag/ajP0vZQ)
  - 😝 [I wonder why....](http://9gag.com/gag/a2vYA8d)
  - 💣 [So basically GTA Vice City](http://9gag.com/gag/a7oygMr)
- - 😝 [Hehe..](http://9gag.com/gag/azxEvdx)
- - 👉 [Which arrow will penetrate riot shields?](http://9gag.com/gag/ayN0r7p)<!-- MEMES:END -->
+ - 😝 [Which arrow will penetrate riot shields?](http://9gag.com/gag/ayN0r7p)
+ - 👉 [Nope](http://9gag.com/gag/aRBP8W5)<!-- MEMES:END -->
 
 ---
 

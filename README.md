@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fortinet announces it has reached an agreement to acquire cloud security company Lacework; Lacework had raised $1.8B and was valued at $8.3B in 2021 &lpar;Kyle Alspach/CRN&rpar;](http://www.techmeme.com/240610/p36#a240610p36)
  - [iOS 18 will let you record calls — and tells everyone for their privacy](https://www.theverge.com/2024/6/10/24175684/ios-18-record-calls-privacy-apple-intelligence)
  - [Craig Federighi &amp; John Giannandrea talk Apple Intelligence at WWDC](https://appleinsider.com/articles/24/06/10/craig-federighi-john-giannandrea-talk-apple-intelligence-at-wwdc?utm_medium=rss)
  - [Apple Intelligence brings live recording and transcription to the Phone app in iOS 18](https://appleinsider.com/articles/24/06/10/apple-intelligence-brings-live-recording-and-transcription-to-the-phone-app-in-ios-18?utm_medium=rss)
- - [During an interview, Craig Federighi says Apple looks forward to &quot;doing integrations&quot; with other AI models, including Google Gemini, &quot;in the future&quot; &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240610/p35#a240610p35)
- - [Elon Musk&#39;s latest anti-Apple tirade is about a ChatGPT feature that doesn&#39;t exist](https://appleinsider.com/articles/24/06/10/elon-musks-latest-anti-apple-tirade-is-about-a-chatgpt-feature-that-doesnt-exist?utm_medium=rss)<!-- TECH:END -->
+ - [During an interview, Craig Federighi says Apple looks forward to &quot;doing integrations&quot; with other AI models, including Google Gemini, &quot;in the future&quot; &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240610/p35#a240610p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

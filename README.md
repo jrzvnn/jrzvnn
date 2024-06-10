@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You have stolen my dreams, and my childhood!](http://9gag.com/gag/axyZQOD)
- - 😝 [Took him 5 years](http://9gag.com/gag/avygqM5)
- - 💣 [Russel](http://9gag.com/gag/aQz4KOW)
  - 😝 [Wouldn&#39;t it make more sense to not warn people you&#39;re about to make false accusations against them?](http://9gag.com/gag/ayN0r6r)
- - 👉 [Duhhh](http://9gag.com/gag/ary4rj6)<!-- MEMES:END -->
+ - 😝 [Transaction of the century](http://9gag.com/gag/aPA4LRg)
+ - 💣 [You have stolen my dreams, and my childhood!](http://9gag.com/gag/axyZQOD)
+ - 😝 [She&#39;s been through hell for 8 months, but now she is safe and back home!](http://9gag.com/gag/aVvW42n)
+ - 👉 [So basically GTA Vice City](http://9gag.com/gag/a7oygMr)<!-- MEMES:END -->
 
 ---
 

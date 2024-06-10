@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple to release Vision Pro in China, Japan, and Singapore on June 28 and then Australia, Canada, France, Germany, and the UK on July 12 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240610/p17#a240610p17)
- - [Apple unveils iOS 18, adding more Home Screen customization, a Dark Mode for app icons, an updated Control Center, scheduled send for Messages, and more &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240610/p16#a240610p16)
- - [Apple unveils visionOS 2, with a higher-res, ultra-wide Mac Virtual Display option later in 2024, regular photos gaining spatial depth, new gestures, and more &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/240610/p15#a240610p15)
- - [iOS 18 is here to help with more customization, Messages improvements &amp; more](https://appleinsider.com/articles/24/06/10/ios-18-is-here-to-help-with-more-customization-messages-improvements-more?utm_medium=rss)
- - [Apple Vision Pro is coming to eight more countries very soon](https://appleinsider.com/articles/24/06/10/apple-vision-pro-is-coming-to-eight-more-countries-very-soon?utm_medium=rss)<!-- TECH:END -->
+ - [Canon made a special lens for the Apple Vision Pro’s spatial videos](https://www.theverge.com/2024/6/10/24175468/canon-eos-spatial-lens-apple-wwdc-2024-announcement)
+ - [Apple Vision Pro is coming to eight more countries very soon](https://appleinsider.com/articles/24/06/10/apple-vision-pro-is-coming-to-eight-more-countries-very-soon?utm_medium=rss)
+ - [The iPhone’s new Game Mode makes it faster and more responsive](https://www.theverge.com/2024/6/10/24175466/iphone-game-mode-performance-frame-rate-optimization-wwdc-2024)
+ - [Apple is finally bringing RCS to the iPhone](https://www.theverge.com/2024/6/10/24171315/apple-messages-rcs-ios-18-imessage-green-bubble)
+ - [Apple to release Vision Pro in China, Japan, and Singapore on June 28 and then Australia, Canada, France, Germany, and the UK on July 12 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240610/p17#a240610p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

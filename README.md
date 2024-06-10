@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You Might Not Want To Install Apple&#39;s iOS 18 Developer Beta for iPhone Just Yet. Here&#39;s Why     - CNET](https://www.cnet.com/tech/services-and-software/you-might-not-want-to-install-apples-ios-18-developer-beta-for-iphone-just-yet-heres-why/#ftag=CAD590a51e)
- - [When Will the Cicadas Be Gone? The Two Broods Won&#39;t Be Around Much Longer     - CNET](https://www.cnet.com/science/blue-eyed-cicada-is-spotted-as-cicada-geddon-double-brood-event-continues/#ftag=CAD590a51e)
- - [Apple&#39;s RCS Texting Experience Gets Its First Look, and It&#39;s All Green     - CNET](https://www.cnet.com/tech/mobile/apples-rcs-texting-experience-gets-its-first-look-and-its-all-green/#ftag=CAD590a51e)
- - [Thoughts on Apple Intelligence&#39;s ability to outsource compute to Apple&#39;s servers with cryptographic guarantees of privacy, prompt injection risks, and more &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/240610/p33#a240610p33)
- - [The Apple Watch Series 9 and Google Pixel Watch 2 Are on Sale](https://www.wired.com/story/apple-watch-series-9-and-google-pixel-watch-2-deals/)<!-- TECH:END -->
+ - [Summer Game Fest 2024: all the news, trailers, and announcements](https://www.theverge.com/24170561/summer-game-fest-2024-trailers-news-geoff-keighley)
+ - [iPadOS 18 gets Math Notes, your own handwriting, and a Calculator](https://appleinsider.com/articles/24/06/10/ipados-18-gets-math-notes-your-own-handwriting-and-a-calculator?utm_medium=rss)
+ - [Apple&#39;s Journal app is getting new features in iOS 18, but it&#39;s still not on iPad](https://appleinsider.com/articles/24/06/10/apples-journal-app-is-getting-new-features-in-ios-18-but-its-still-not-on-ipad?utm_medium=rss)
+ - [iOS 18 RCS rollout coming in the fall to bridge Apple &amp; Android messaging gap](https://appleinsider.com/articles/24/06/10/ios-18-rcs-rollout-coming-in-the-fall-to-bridge-apple-android-messaging-gap?utm_medium=rss)
+ - [Users will be able to send messages via satellite in iOS 18](https://appleinsider.com/articles/24/06/10/users-will-be-able-to-send-messages-via-satellite-in-ios-18?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

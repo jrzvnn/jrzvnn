@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wouldn&#39;t it make more sense to not warn people you&#39;re about to make false accusations against them?](http://9gag.com/gag/ayN0r6r)
- - 😝 [That one friend who doesn&#39;t take anything seriously.](http://9gag.com/gag/aW4W5XA)
- - 💣 [Trust me, I&#39;m a engineer](http://9gag.com/gag/aAyrLAg)
- - 😝 [Well, well, well how the turntables](http://9gag.com/gag/aAyr9Bd)
- - 👉 [California Round Stingray](http://9gag.com/gag/aD23LrG)<!-- MEMES:END -->
+ - 😝 [Which arrow will penetrate riot shields?](http://9gag.com/gag/ayN0r7p)
+ - 😝 [Random Indian tour guide speaking Japanese](http://9gag.com/gag/aZZx5RQ)
+ - 💣 [The story behind this assassination is insane. Apparently the assassins didn\u2019t know they were killing somebody. They were hired to do pranks for a YouTube channel, a channel created by North Korean intel.](http://9gag.com/gag/aZZx5BW)
+ - 😝 [People in ground recording a Helicopter shooting to the ground](http://9gag.com/gag/ajP0wNx)
+ - 👉 [Nope](http://9gag.com/gag/aRBP8W5)<!-- MEMES:END -->
 
 ---
 

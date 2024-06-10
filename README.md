@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Genmoji will allow custom AI-created emojis in iOS 18, and might resurrect Memoji](https://appleinsider.com/articles/24/06/10/genmoji-will-allow-custom-ai-created-emojis-in-ios-18-and-might-resurrect-memoji?utm_medium=rss)
+ - [iPadOS 18 gets Math Notes, your own handwriting, and a Calculator](https://appleinsider.com/articles/24/06/10/ipados-18-gets-math-notes-your-own-handwriting-and-a-calculator?utm_medium=rss)
+ - [Here’s 12 minutes of Assassin’s Creed Shadows gameplay](https://www.theverge.com/24172151/assassins-creed-shadows-gameplay-trailer-ubisoft-forward-2024)
  - [Apple Intelligence - what Macs, iPads, and iPhones are required](https://appleinsider.com/articles/24/06/10/apple-intelligence---what-macs-ipads-and-iphones-are-required?utm_medium=rss)
- - [Adobe overhauls terms of service to say it won’t train AI on customers’ work](https://www.theverge.com/2024/6/10/24175416/adobe-overhauls-terms-of-service-update-firefly)
- - [Apple Intelligence &amp; Private Cloud Compute are Apple&#39;s answer to generative AI](https://appleinsider.com/articles/24/06/10/apple-intelligence-private-cloud-compute-are-apples-answer-to-generative-ai?utm_medium=rss)
- - [Which Mac models are needed to run macOS 15](https://appleinsider.com/articles/24/06/10/which-mac-models-are-needed-to-run-macos-15?utm_medium=rss)
- - [visionOS 2.0 gets big upgrades with photo 3D processing, multiple 4K Mac screens &amp; more](https://appleinsider.com/articles/24/06/10/visionos-20-gets-big-upgrades-with-photo-3d-processing-multiple-4k-mac-screens-more?utm_medium=rss)<!-- TECH:END -->
+ - [Adobe overhauls terms of service to say it won’t train AI on customers’ work](https://www.theverge.com/2024/6/10/24175416/adobe-overhauls-terms-of-service-update-firefly)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

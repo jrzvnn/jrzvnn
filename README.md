@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [visionOS 2.0 gets big upgrades with photo 3d processing, multiple 4K Mac screens &amp; more](https://appleinsider.com/articles/24/06/10/visionos-20-gets-big-upgrades-with-photo-3d-processing-multiple-4k-mac-screens-more?utm_medium=rss)
- - [Apple Intelligence: every new AI feature coming to the iPhone and Mac](https://www.theverge.com/2024/6/10/24175405/wwdc-apple-ai-news-features-ios-18-macos-15-iphone-ipad-mac)
- - [Apple Vision Pro is coming to eight more countries very soon](https://appleinsider.com/articles/24/06/10/apple-vision-pro-is-coming-to-eight-more-countries-very-soon?utm_medium=rss)
- - [Apple’s InSight feature for Apple TV Plus will tell you who that actor is](https://www.theverge.com/2024/6/10/24175423/apple-tv-plus-features-tvos-wwdc)
- - [Apple unveils macOS Sequoia, with iPhone mirroring, audio streaming, and notifications even while the iPhone is locked, Safari AI-powered highlights, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240610/p24#a240610p24)<!-- TECH:END -->
+ - [macOS Sequoia brings iPhone remote control and new Passwords app](https://appleinsider.com/articles/24/06/10/macos-sequoia-brings-iphone-remote-control-and-new-passwords-app?utm_medium=rss)
+ - [Apple Intelligence &amp; Private Cloud Compute are Apple&#39;s answer to generative AI](https://appleinsider.com/articles/24/06/10/apple-intelligence-private-cloud-compute-are-apples-answer-to-generative-ai?utm_medium=rss)
+ - [Apple says Messages will support RCS in iOS 18, replacing SMS as the default communication protocol between Android and iOS devices, but gives few details &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240610/p27#a240610p27)
+ - [Apple updates Siri, powered by Apple Intelligence: more personal, on-screen awareness, a new API for third-party apps, and more, coming &quot;over the next year&quot; &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240610/p28#a240610p28)
+ - [Apple unveils Passwords, an app to let users save logins, create passwords, import passwords from third-party services, across platforms including Windows PCs &lpar;Kerry Wan/ZDNet&rpar;](http://www.techmeme.com/240610/p26#a240610p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

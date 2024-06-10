@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [macOS Sequoia brings iPhone remote control and new Passwords app](https://appleinsider.com/articles/24/06/10/macos-sequoia-brings-iphone-remote-control-and-new-passwords-app?utm_medium=rss)
- - [Apple Intelligence &amp; Private Cloud Compute are Apple&#39;s answer to generative AI](https://appleinsider.com/articles/24/06/10/apple-intelligence-private-cloud-compute-are-apples-answer-to-generative-ai?utm_medium=rss)
- - [Apple says Messages will support RCS in iOS 18, replacing SMS as the default communication protocol between Android and iOS devices, but gives few details &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240610/p27#a240610p27)
- - [Apple updates Siri, powered by Apple Intelligence: more personal, on-screen awareness, a new API for third-party apps, and more, coming &quot;over the next year&quot; &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/240610/p28#a240610p28)
- - [Apple unveils Passwords, an app to let users save logins, create passwords, import passwords from third-party services, across platforms including Windows PCs &lpar;Kerry Wan/ZDNet&rpar;](http://www.techmeme.com/240610/p26#a240610p26)<!-- TECH:END -->
+ - [Apple announces Genmoji, an Apple Intelligence-powered iOS 18 feature to let users create their own custom emoji using text prompts in the Messages app &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/240610/p29#a240610p29)
+ - [Apple updates Siri, powered by Apple Intelligence: more personal, on-screen awareness, a new API for third-party apps, and more, coming &quot;over the next year&quot; &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/240610/p30#a240610p30)
+ - [Apple’s standalone Passwords app works across iOS, iPad, Mac, and Windows](https://www.theverge.com/2024/6/10/24175505/apple-password-app-passkey-manager-windows-mac-icloud)
+ - [Siri is superpowered with Apple Intelligence](https://appleinsider.com/articles/24/06/10/siri-is-superpowered-with-apple-intelligence?utm_medium=rss)
+ - [macOS Sequoia brings iPhone remote control and new Passwords app](https://appleinsider.com/articles/24/06/10/macos-sequoia-brings-iphone-remote-control-and-new-passwords-app?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

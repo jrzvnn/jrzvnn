@@ -171,10 +171,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Finger painting](http://9gag.com/gag/aYQW0O7)
  - 😝 [Day 2 of vacation in Thailand](http://9gag.com/gag/aVvW678)
- - 💣 [People in ground recording a Helicopter shooting to the ground](http://9gag.com/gag/ajP0wNx)
- - 😝 [The fentanyl gave him powers.](http://9gag.com/gag/aO8bW66)
+ - 😝 [If it&#39;s black...](http://9gag.com/gag/aKGPMd1)
+ - 💣 [So basically GTA Vice City](http://9gag.com/gag/a7oygMr)
+ - 😝 [People in ground recording a Helicopter shooting to the ground](http://9gag.com/gag/ajP0wNx)
  - 👉 [Peter Porco, who, after being struck 16 times with an axe, regained consciousness, got out of bed, went through his morning routine, retrieved the morning paper, locked himself out of the house, and let himself back in with a spare key before eventually falling dead in the foyer.](http://9gag.com/gag/apR07vM)<!-- MEMES:END -->
 
 ---

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Jersey-based IT provider Cognizant agrees to acquire digital engineering company Belcan, which employs 10K across 60 locations, for $1.3B in cash and stock &lpar;Milana Vinn/Reuters&rpar;](http://www.techmeme.com/240610/p8#a240610p8)
- - [Which Mac models are needed to run macOS 15](https://appleinsider.com/articles/24/06/10/which-mac-models-are-needed-to-run-macos-15?utm_medium=rss)
- - [Sources: Shein recorded $32.2B in sales in 2023, up 40% YoY, compared with 37% YoY growth in 2022, and doubled its net profit to $1.6B, for a 5% profit margin &lpar;Jing Yang/The Information&rpar;](http://www.techmeme.com/240610/p7#a240610p7)
- - [7 Best Water Bottles We&#39;ve Tested &lpar;2024&rpar;: Owala, Hydro Flask, Yeti](https://www.wired.com/gallery/best-reusable-water-bottles/)
- - [It&#39;s Fed Week. So, What the Heck Is Happening With Interest Rates?      - CNET](https://www.cnet.com/personal-finance/banking/its-fed-week-so-what-the-heck-is-happening-with-interest-rates/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [SCOTUS declines to question the FCC&#39;s $8B annual subsidy to help cover telecom costs for poor people and residents of rural area, turning away two appeals &lpar;Greg Stohr/Bloomberg&rpar;](http://www.techmeme.com/240610/p9#a240610p9)
+ - [Steve Jobs screamed advice at Starbucks CEO, who wishes he&#39;d listened](https://appleinsider.com/articles/24/06/10/steve-jobs-screamed-advice-at-starbucks-ceo-who-wishes-hed-listened?utm_medium=rss)
+ - [8 Best Smart Bulbs &lpar;2024&rpar;: Color, Ambient, Filament, and More](https://www.wired.com/gallery/best-smart-bulbs/)
+ - [Ransomware Is ‘More Brutal’ Than Ever in 2024](https://www.wired.com/story/state-of-ransomware-2024/)
+ - [WWDC 24 preview, Flair Vents, &amp; a portable Apple TV on HomeKit Insider](https://appleinsider.com/articles/24/06/10/wwdc-24-preview-flair-vents-a-portable-apple-tv-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

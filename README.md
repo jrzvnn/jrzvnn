@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In Marseille, a young man got out of his car and calmly subdued a violent individual in front of two municipal policewomen who tried to stop him on Boulevard de la Lib\u00e9ration, saying: `Madame, shall I catch him for you?`](http://9gag.com/gag/a5QPg0L)
- - 😝 [The whole Palestinian victim mentality in one picture. No understanding of cause and effect, consequences and accountability, just like children. It\u2019s always the evil Jews. #FAFO](http://9gag.com/gag/adBYMYQ)
- - 💣 [Nope](http://9gag.com/gag/aRBP8W5)
- - 😝 [The story behind this assassination is insane. Apparently the assassins didn\u2019t know they were killing somebody. They were hired to do pranks for a YouTube channel, a channel created by North Korean intel.](http://9gag.com/gag/aZZx5BW)
- - 👉 [Which arrow will penetrate riot shields?](http://9gag.com/gag/ayN0r7p)<!-- MEMES:END -->
+ - 😝 [What a cat\u2026](http://9gag.com/gag/aqyNwej)
+ - 😝 [That one friend who doesn&#39;t take anything seriously.](http://9gag.com/gag/aW4W5XA)
+ - 💣 [Too much anger and frustration on this site. Here, have a wet pupper.](http://9gag.com/gag/amo0ypy)
+ - 😝 [German green party lost almost half their voters in the EU elections - Look at their faces!](http://9gag.com/gag/ajP0vZQ)
+ - 👉 [In Marseille, a young man got out of his car and calmly subdued a violent individual in front of two municipal policewomen who tried to stop him on Boulevard de la Lib\u00e9ration, saying: `Madame, shall I catch him for you?`](http://9gag.com/gag/a5QPg0L)<!-- MEMES:END -->
 
 ---
 

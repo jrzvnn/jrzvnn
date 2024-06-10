@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the problems of building AI products, like inaccurate answers, and potential solutions, like focusing on narrow domains and abstracting the outputs &lpar;Benedict Evans&rpar;](http://www.techmeme.com/240610/p5#a240610p5)
  - [Best iPhone 14 Fast Chargers at the Lowest Prices We Can Find     - CNET](https://www.cnet.com/tech/mobile/best-iphone-13-usb-c-fast-charger/#ftag=CAD590a51e)
  - [Xbox boss: ‘I think we should have a handheld, too’](https://www.theverge.com/2024/6/10/24175149/xbox-handheld-phil-spencer-interview-2024)
  - [Xbox chief confirms more games are coming to other platforms](https://www.theverge.com/2024/6/10/24174977/xbox-phil-spencer-games-ps5-interview)
- - [Best MagSafe Accessories for iPhone in 2024     - CNET](https://www.cnet.com/tech/mobile/best-magsafe-and-magnetic-iphone-accessories/#ftag=CAD590a51e)
- - [Apple&#39;s M3 Pro MacBook Pro plunges to $1,699](https://appleinsider.com/articles/24/06/10/apples-m3-pro-macbook-pro-plunges-to-1699?utm_medium=rss)<!-- TECH:END -->
+ - [Best MagSafe Accessories for iPhone in 2024     - CNET](https://www.cnet.com/tech/mobile/best-magsafe-and-magnetic-iphone-accessories/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

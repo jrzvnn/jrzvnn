@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Leaked Google Pixel Watch 3 renders suggest it will get thicker but not bigger](https://www.theverge.com/2024/6/10/24175247/google-pixel-watch-3-leak-renders-rumors-41mm)
  - [Amazon slashes M3 MacBook Air 15-inch to $1,129, crushing competition during WWDC](https://appleinsider.com/articles/24/06/10/amazon-slashes-m3-macbook-air-15-inch-to-1129-crushing-competition-during-wwdc?utm_medium=rss)
  - [This is the ‘world’s first’ phone call made using spatial audio](https://www.theverge.com/2024/6/10/24175231/nokia-3d-spatial-audio-5g-phone-call-advanced)
  - [SCOTUS agrees to hear Facebook&#39;s bid to scuttle a private securities fraud lawsuit over allegedly misleading investors on Cambridge Analytica in 2017 and 2018 &lpar;John Kruzel/Reuters&rpar;](http://www.techmeme.com/240610/p10#a240610p10)
- - [AI will make money sooner than you’d think, says Cohere CEO Aidan Gomez](https://www.theverge.com/24173858/ai-cohere-aidan-gomez-money-revenue-llm-transformers-enterprise-stochastic-parrot)
- - [Which Mac models are needed to run macOS 15](https://appleinsider.com/articles/24/06/10/which-mac-models-are-needed-to-run-macos-15?utm_medium=rss)<!-- TECH:END -->
+ - [AI will make money sooner than you’d think, says Cohere CEO Aidan Gomez](https://www.theverge.com/24173858/ai-cohere-aidan-gomez-money-revenue-llm-transformers-enterprise-stochastic-parrot)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Thoughts on Apple Intelligence&#39;s ability to outsource compute to Apple&#39;s servers with cryptographic guarantees of privacy, prompt injection risks, and more &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/240610/p33#a240610p33)
+ - [AirPods software update will let you refuse a telemarker&#39;s call by shaking your head](https://appleinsider.com/articles/24/06/10/airpods-software-update-will-let-you-refuse-a-telemarkers-call-by-shaking-your-head?utm_medium=rss)
  - [Genmoji will allow custom AI-created emojis in iOS 18, and might resurrect Memoji](https://appleinsider.com/articles/24/06/10/genmoji-will-allow-custom-ai-created-emojis-in-ios-18-and-might-resurrect-memoji?utm_medium=rss)
  - [iPadOS 18 gets Math Notes, your own handwriting, and a Calculator](https://appleinsider.com/articles/24/06/10/ipados-18-gets-math-notes-your-own-handwriting-and-a-calculator?utm_medium=rss)
- - [Here’s 12 minutes of Assassin’s Creed Shadows gameplay](https://www.theverge.com/24172151/assassins-creed-shadows-gameplay-trailer-ubisoft-forward-2024)
- - [Apple Intelligence - what Macs, iPads, and iPhones are required](https://appleinsider.com/articles/24/06/10/apple-intelligence---what-macs-ipads-and-iphones-are-required?utm_medium=rss)
- - [Adobe overhauls terms of service to say it won’t train AI on customers’ work](https://www.theverge.com/2024/6/10/24175416/adobe-overhauls-terms-of-service-update-firefly)<!-- TECH:END -->
+ - [Here’s 12 minutes of Assassin’s Creed Shadows gameplay](https://www.theverge.com/24172151/assassins-creed-shadows-gameplay-trailer-ubisoft-forward-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

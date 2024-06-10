@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Shein recorded $32.2B in sales in 2023, up 40% YoY, compared with 37% YoY growth in 2022, and doubled its net profit to $1.6B, for a 5% profit margin &lpar;Jing Yang/The Information&rpar;](http://www.techmeme.com/240610/p7#a240610p7)
+ - [7 Best Water Bottles We&#39;ve Tested &lpar;2024&rpar;: Owala, Hydro Flask, Yeti](https://www.wired.com/gallery/best-reusable-water-bottles/)
  - [It&#39;s Fed Week. So, What the Heck Is Happening With Interest Rates?      - CNET](https://www.cnet.com/personal-finance/banking/its-fed-week-so-what-the-heck-is-happening-with-interest-rates/#ftag=CAD590a51e)
  - [Nokia CEO Pekka Lundmark made a phone call using new &quot;immersive audio and video&quot; tech that uses 3D sound on a 5G smartphone, as part of the 5G Advanced standard &lpar;Supantha Mukherjee/Reuters&rpar;](http://www.techmeme.com/240610/p6#a240610p6)
- - [Best VPN for Windows     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-windows/#ftag=CAD590a51e)
- - [You May Not Be Able to Smell Your Gas Stove Leaking, New Data Shows     - CNET](https://www.cnet.com/news/you-may-not-be-able-to-smell-your-gas-stove-leaking-new-data-shows/#ftag=CAD590a51e)
- - [Which iPhone models are needed to run iOS 18](https://appleinsider.com/articles/24/06/10/which-iphone-models-are-needed-to-run-ios-18?utm_medium=rss)<!-- TECH:END -->
+ - [Best VPN for Windows     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn-for-windows/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

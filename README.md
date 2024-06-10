@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s M3 Pro MacBook Pro plunges to $1,699](https://appleinsider.com/articles/24/06/10/apples-m3-pro-macbook-pro-plunges-to-1699?utm_medium=rss)
  - [Q&amp;A with Index Ventures&#39; Dan Rimer on generative AI favoring the incumbents, concentration of returns, M&amp;A in a challenging regulatory environment, and more &lpar;John Thornhill/Financial Times&rpar;](http://www.techmeme.com/240610/p4#a240610p4)
  - [Dealroom analysis of European startups: as of May 2024, the UK had 785 startups with at least $25M of annual revenue, France had 309, and Germany had 255 &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/240610/p3#a240610p3)
  - [Your Apple Watch is Probably Pretty Gross. Here&#39;s How to Clean It     - CNET](https://www.cnet.com/tech/your-apple-watch-is-probably-pretty-gross-heres-how-to-clean-it/#ftag=CAD590a51e)
- - [Human Rights Watch finds LAION-5B AI training dataset scraped 170+ images and personal info of Brazilian children without consent; LAION pledges to remove them &lpar;Vittoria Elliott/Wired&rpar;](http://www.techmeme.com/240610/p2#a240610p2)
- - [Researchers find malicious Microsoft Visual Studio Code extensions with millions of installs and also easily create their own, which trended in the marketplace &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240610/p1#a240610p1)<!-- TECH:END -->
+ - [Human Rights Watch finds LAION-5B AI training dataset scraped 170+ images and personal info of Brazilian children without consent; LAION pledges to remove them &lpar;Vittoria Elliott/Wired&rpar;](http://www.techmeme.com/240610/p2#a240610p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

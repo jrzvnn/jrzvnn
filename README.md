@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Regulators in Canada and the UK launch a joint probe to assess what customer info was exposed in 23andMe&#39;s 2023 breach and if proper safeguards were in place &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240610/p11#a240610p11)
  - [Which Apple Watch models will be supported on watchOS 11](https://appleinsider.com/articles/24/06/10/which-apple-watch-models-will-be-supported-on-watchos-11?utm_medium=rss)
  - [Leaked Google Pixel Watch 3 renders suggest it will get thicker but not bigger](https://www.theverge.com/2024/6/10/24175247/google-pixel-watch-3-leak-renders-rumors-41mm)
  - [Amazon slashes M3 MacBook Air 15-inch to $1,129, crushing competition during WWDC](https://appleinsider.com/articles/24/06/10/amazon-slashes-m3-macbook-air-15-inch-to-1129-crushing-competition-during-wwdc?utm_medium=rss)
- - [If You Defaulted on Your Student Loans, You May Qualify for This Debt Relief Program     - CNET](https://www.cnet.com/personal-finance/did-you-default-on-your-student-loans-you-may-qualify-for-this-debt-relief-program/#ftag=CAD590a51e)
- - [How the Fed Will Impact Mortgage Rates at This Week&#39;s Meeting     - CNET](https://www.cnet.com/personal-finance/mortgages/how-the-federal-reserve-affects-mortgage-rates/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [If You Defaulted on Your Student Loans, You May Qualify for This Debt Relief Program     - CNET](https://www.cnet.com/personal-finance/did-you-default-on-your-student-loans-you-may-qualify-for-this-debt-relief-program/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

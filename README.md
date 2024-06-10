@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You have stolen my dreams, and my childhood!](http://9gag.com/gag/axyZQOD)
- - 😝 [Which arrow will penetrate riot shields?](http://9gag.com/gag/ayN0r7p)
- - 💣 [Nope](http://9gag.com/gag/aRBP8W5)
- - 😝 [SWAT Sniper shoots through a computer monitor to take out armed man with 2 hostages inside Florida bank &lpar;blurred&rpar;](http://9gag.com/gag/a87YO4O)
- - 👉 [Mariners, Ariel](http://9gag.com/gag/ayN0ZEX)<!-- MEMES:END -->
+ - 😝 [Real time Virtual streamer - The eye movement is crazy.](http://9gag.com/gag/aXPpQ4b)
+ - 😝 [German green party lost almost half their voters in the EU elections - Look at their faces!](http://9gag.com/gag/ajP0vZQ)
+ - 💣 [What will u slap her from?](http://9gag.com/gag/a2vY9zD)
+ - 😝 [OSHA approved](http://9gag.com/gag/axyZQYn)
+ - 👉 [She&#39;s been through hell for 8 months, but now she is safe and back home!](http://9gag.com/gag/aVvW42n)<!-- MEMES:END -->
 
 ---
 

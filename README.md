@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple says its Private Cloud Compute for AI processing is built with custom Apple silicon, and independent experts can inspect the code that runs on its servers &lpar;Kyle Orland/Ars Technica&rpar;](http://www.techmeme.com/240610/p38#a240610p38)
+ - [Apple&#39;s Biggest AI Challenge? Making It Behave](https://www.wired.com/story/apple-intelligence-ios-macos-ai-openai/)
  - [Google is ready to fill free streaming TV channels with ads](https://www.theverge.com/2024/6/10/24175676/google-fast-ads-streaming-tv-network)
  - [Apple says iOS 18 will let users record and transcribe phone calls, and call participants will be automatically notified that they&#39;re being recorded &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240610/p37#a240610p37)
- - [Safari 18 includes a new Highlights feature for summarizing articles and more](https://appleinsider.com/articles/24/06/10/safari-18-includes-a-new-highlights-feature-for-summarizing-articles-and-more?utm_medium=rss)
- - [Where to preorder Star Wars Outlaws &lpar;and what’s included in each edition&rpar;](https://www.theverge.com/24125268/star-wars-outlaws-preorder-guide-bonus-skins-dlc-missions-extras-deal)
- - [Fortinet announces it has reached an agreement to acquire cloud security company Lacework; Lacework had raised $1.8B and was valued at $8.3B in 2021 &lpar;Kyle Alspach/CRN&rpar;](http://www.techmeme.com/240610/p36#a240610p36)<!-- TECH:END -->
+ - [Safari 18 includes a new Highlights feature for summarizing articles and more](https://appleinsider.com/articles/24/06/10/safari-18-includes-a-new-highlights-feature-for-summarizing-articles-and-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

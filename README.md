@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Which iPhone models are needed to run iOS 18](https://appleinsider.com/articles/24/06/10/which-iphone-models-are-needed-to-run-ios-18?utm_medium=rss)
+ - [Apple’s AI opportunity is all about the big picture](https://www.theverge.com/2024/6/10/24171615/apple-ai-siri-wwdc-2024)
  - [Which iPads will work with iPadOS 18, and what&#39;s getting left behind](https://appleinsider.com/articles/24/06/10/which-ipads-will-work-with-ipados-18-and-whats-getting-left-behind?utm_medium=rss)
  - [Don&#39;t install Apple&#39;s new betas -- let others risk their devices](https://appleinsider.com/articles/24/06/10/dont-install-apples-new-betas----let-others-risk-their-devices?utm_medium=rss)
- - [Who’s Afraid of &#39;Skibidi Toilet&#39;?](https://www.wired.com/story/whos-afraid-of-skibidi-toilet/)
- - [How to watch Apple’s 2024 WWDC](https://www.theverge.com/2024/6/10/24171216/apple-wwdc-2024-date-time-how-to-watch)
- - [Best Internet Providers in Texas     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-texas/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Who’s Afraid of &#39;Skibidi Toilet&#39;?](https://www.wired.com/story/whos-afraid-of-skibidi-toilet/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

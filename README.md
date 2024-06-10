@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why don&#39;t women like to share?](http://9gag.com/gag/amo0y2V)
  - 😝 [You have stolen my dreams, and my childhood!](http://9gag.com/gag/axyZQOD)
- - 💣 [The flashlight in the daytime is all you need to determine their IQ .](http://9gag.com/gag/ayN0Ap8)
- - 😝 [Nope](http://9gag.com/gag/aRBP8W5)
- - 👉 [Which arrow will penetrate riot shields?](http://9gag.com/gag/ayN0r7p)<!-- MEMES:END -->
+ - 😝 [Which arrow will penetrate riot shields?](http://9gag.com/gag/ayN0r7p)
+ - 💣 [Nope](http://9gag.com/gag/aRBP8W5)
+ - 😝 [SWAT Sniper shoots through a computer monitor to take out armed man with 2 hostages inside Florida bank &lpar;blurred&rpar;](http://9gag.com/gag/a87YO4O)
+ - 👉 [Mariners, Ariel](http://9gag.com/gag/ayN0ZEX)<!-- MEMES:END -->
 
 ---
 

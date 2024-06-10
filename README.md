@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You Might Not Want To Install Apple&#39;s iOS 18 Developer Beta for iPhone Just Yet. Here&#39;s Why     - CNET](https://www.cnet.com/tech/services-and-software/you-might-not-want-to-install-apples-ios-18-developer-beta-for-iphone-just-yet-heres-why/#ftag=CAD590a51e)
+ - [When Will the Cicadas Be Gone? The Two Broods Won&#39;t Be Around Much Longer     - CNET](https://www.cnet.com/science/blue-eyed-cicada-is-spotted-as-cicada-geddon-double-brood-event-continues/#ftag=CAD590a51e)
+ - [Apple&#39;s RCS Texting Experience Gets Its First Look, and It&#39;s All Green     - CNET](https://www.cnet.com/tech/mobile/apples-rcs-texting-experience-gets-its-first-look-and-its-all-green/#ftag=CAD590a51e)
  - [Thoughts on Apple Intelligence&#39;s ability to outsource compute to Apple&#39;s servers with cryptographic guarantees of privacy, prompt injection risks, and more &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/240610/p33#a240610p33)
- - [The Apple Watch Series 9 and Google Pixel Watch 2 Are on Sale](https://www.wired.com/story/apple-watch-series-9-and-google-pixel-watch-2-deals/)
- - [Everything Apple Announced at WWDC 2024: AI Features, New Siri, Genmoji](https://www.wired.com/story/everything-apple-announced-wwdc-2024/)
- - [AirPods software update will let you refuse a telemarker&#39;s call by shaking your head](https://appleinsider.com/articles/24/06/10/airpods-software-update-will-let-you-refuse-a-telemarkers-call-by-shaking-your-head?utm_medium=rss)
- - [Genmoji will allow custom AI-created emojis in iOS 18, and might resurrect Memoji](https://appleinsider.com/articles/24/06/10/genmoji-will-allow-custom-ai-created-emojis-in-ios-18-and-might-resurrect-memoji?utm_medium=rss)<!-- TECH:END -->
+ - [The Apple Watch Series 9 and Google Pixel Watch 2 Are on Sale](https://www.wired.com/story/apple-watch-series-9-and-google-pixel-watch-2-deals/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

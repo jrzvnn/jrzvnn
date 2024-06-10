@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Live stream of Apple&#39;s 2024 WWDC keynote &lpar;Apple on YouTube&rpar;](http://www.techmeme.com/240610/p14#a240610p14)
+ - [A live blog of WWDC 2024, where Apple&#39;s AI plans, iOS 18, macOS 15, and more are expected &lpar;The Verge&rpar;](http://www.techmeme.com/240610/p13#a240610p13)
  - [Apple Store unexpectedly goes down ahead of WWDC](https://appleinsider.com/articles/24/06/10/apple-store-unexpectedly-goes-down-ahead-of-wwdc?utm_medium=rss)
- - [Live blog: Apple’s AI plans, iOS 18, and more at WWDC 2024](https://www.theverge.com/2024/6/10/24173603/wwdc-2024-live-blog-apple-event-ios-18-ai)
- - [Spotify flexes knowledge of your music taste with in-app suggestions](https://www.theverge.com/2024/6/10/24175331/spotify-flexes-knowledge-music-taste-personalization)
- - [Mandiant, which is helping Snowflake investigate its recent cyber attacks, says the two companies have notified ~165 organizations of potential exposure &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240610/p12#a240610p12)
- - [&#39;Resident Evil 7: Biohazard&#39; coming to iPad, iPhone, and Mac](https://appleinsider.com/articles/24/06/10/resident-evil-7-biohazard-coming-to-ipad-iphone-and-mac?utm_medium=rss)<!-- TECH:END -->
+ - [Abbott gets FDA clearance for over-the-counter continuous glucose monitors](https://www.theverge.com/2024/6/10/24175352/abbott-lingo-libre-rio-fda-cgm-diabetes-wearables)
+ - [You can grab an Echo Pop speaker for $19.99 just in time for Father’s Day](https://www.theverge.com/2024/6/10/24175355/amazon-echo-pop-smart-speaker-fathers-day-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

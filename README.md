@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple made an iPad calculator app after 14 years](https://www.theverge.com/2024/6/10/24175487/ipad-calculator-app-ipados18-pencil-apple-wwdc2024)
- - [iPadOS 18 gets Math Notes, your own handwriting, and a Calculator](https://appleinsider.com/articles/24/06/10/ipados-18-gets-math-notes-your-own-handwriting-and-a-calculator?utm_medium=rss)
  - [visionOS 2.0 gets big upgrades with photo 3d processing, multiple 4K Mac screens &amp; more](https://appleinsider.com/articles/24/06/10/visionos-20-gets-big-upgrades-with-photo-3d-processing-multiple-4k-mac-screens-more?utm_medium=rss)
- - [iOS 18 is here to help with more customization, Messages improvements &amp; more](https://appleinsider.com/articles/24/06/10/ios-18-is-here-to-help-with-more-customization-messages-improvements-more?utm_medium=rss)
- - [Apple announces watchOS 11, adding a training mode that analyzes personal workout data, live activities, a new Vitals app, new safety features, and more &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/240610/p20#a240610p20)<!-- TECH:END -->
+ - [Apple Intelligence: every new AI feature coming to the iPhone and Mac](https://www.theverge.com/2024/6/10/24175405/wwdc-apple-ai-news-features-ios-18-macos-15-iphone-ipad-mac)
+ - [Apple Vision Pro is coming to eight more countries very soon](https://appleinsider.com/articles/24/06/10/apple-vision-pro-is-coming-to-eight-more-countries-very-soon?utm_medium=rss)
+ - [Apple’s InSight feature for Apple TV Plus will tell you who that actor is](https://www.theverge.com/2024/6/10/24175423/apple-tv-plus-features-tvos-wwdc)
+ - [Apple unveils macOS Sequoia, with iPhone mirroring, audio streaming, and notifications even while the iPhone is locked, Safari AI-powered highlights, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240610/p24#a240610p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

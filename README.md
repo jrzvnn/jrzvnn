@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [No, your Apple TV, Apple Watch, and Apple Vision Pro aren&#39;t getting Apple Intelligence](https://appleinsider.com/articles/24/06/10/no-your-apple-tv-apple-watch-and-apple-vision-pro-arent-getting-apple-intelligence?utm_medium=rss)
- - [Apple&#39;s Image Playground is a new system-wide AI-powered image generation tool](https://appleinsider.com/articles/24/06/10/apples-image-playground-is-a-new-system-wide-ai-powered-image-generation-tool?utm_medium=rss)
- - [Which Mac models are needed to run macOS Sequoia](https://appleinsider.com/articles/24/06/10/which-mac-models-are-needed-to-run-macos-15?utm_medium=rss)
- - [Don&#39;t install Apple&#39;s new betas -- let others risk their devices](https://appleinsider.com/articles/24/06/10/dont-install-apples-new-betas----let-others-risk-their-devices?utm_medium=rss)
- - [Summer Game Fest 2024: all the news, trailers, and announcements](https://www.theverge.com/24170561/summer-game-fest-2024-trailers-news-geoff-keighley)<!-- TECH:END -->
+ - [Will Your iPhone Support iOS 18 and Apple Intelligence? Here&#39;s What You Need to Know     - CNET](https://www.cnet.com/tech/services-and-software/will-your-iphone-support-ios-18-and-apple-intelligence-heres-what-you-need-to-know/#ftag=CAD590a51e)
+ - [I Lost Nearly $1K by Renting a Router From My Internet Provider. Here&#39;s What I Learned     - CNET](https://www.cnet.com/home/internet/i-lost-1k-by-renting-a-router-from-my-internet-provider-heres-what-i-learned/#ftag=CAD590a51e)
+ - [Apple&#39;s New &#39;Tap to Cash&#39; Feature Coming in iOS 18     - CNET](https://www.cnet.com/tech/services-and-software/apples-new-tap-to-cash-feature-coming-in-ios-18/#ftag=CAD590a51e)
+ - [Pro Electric Scooter for Kids     - CNET](https://www.cnet.com/culture/entertainment/pro-electric-scooter-for-kids-dpnl/#ftag=CAD590a51e)
+ - [Cooling Cotton Blanket     - CNET](https://www.cnet.com/news/cooling-cotton-blanket-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The flashlight in the daytime is all you need to determine their IQ .](http://9gag.com/gag/ayN0Ap8)
- - 😝 [So basically GTA Vice City](http://9gag.com/gag/a7oygMr)
- - 💣 [California Round Stingray](http://9gag.com/gag/aD23LrG)
- - 😝 [Hehe..](http://9gag.com/gag/azxEvdx)
- - 👉 [Well, well, well how the turntables](http://9gag.com/gag/aAyr9Bd)<!-- MEMES:END -->
+ - 😝 [Wouldn&#39;t it make more sense to not warn people you&#39;re about to make false accusations against them?](http://9gag.com/gag/ayN0r6r)
+ - 😝 [That one friend who doesn&#39;t take anything seriously.](http://9gag.com/gag/aW4W5XA)
+ - 💣 [Trust me, I&#39;m a engineer](http://9gag.com/gag/aAyrLAg)
+ - 😝 [Well, well, well how the turntables](http://9gag.com/gag/aAyr9Bd)
+ - 👉 [California Round Stingray](http://9gag.com/gag/aD23LrG)<!-- MEMES:END -->
 
 ---
 

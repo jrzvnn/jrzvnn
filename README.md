@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wouldn&#39;t it make more sense to not warn people you&#39;re about to make false accusations against them?](http://9gag.com/gag/ayN0r6r)
- - 😝 [Transaction of the century](http://9gag.com/gag/aPA4LRg)
- - 💣 [You have stolen my dreams, and my childhood!](http://9gag.com/gag/axyZQOD)
- - 😝 [She&#39;s been through hell for 8 months, but now she is safe and back home!](http://9gag.com/gag/aVvW42n)
- - 👉 [So basically GTA Vice City](http://9gag.com/gag/a7oygMr)<!-- MEMES:END -->
+ - 😝 [You have stolen my dreams, and my childhood!](http://9gag.com/gag/axyZQOD)
+ - 😝 [The flashlight in the daytime is all you need to determine their IQ .](http://9gag.com/gag/ayN0Ap8)
+ - 💣 [So basically GTA Vice City](http://9gag.com/gag/a7oygMr)
+ - 😝 [Nope](http://9gag.com/gag/aRBP8W5)
+ - 👉 [Mariners, Ariel](http://9gag.com/gag/ayN0ZEX)<!-- MEMES:END -->
 
 ---
 

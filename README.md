@@ -164,9 +164,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Apple announces Genmoji, an Apple Intelligence-powered iOS 18 feature to let users create their own custom emoji using text prompts in the Messages app &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/240610/p29#a240610p29)
  - [Apple updates Siri, powered by Apple Intelligence: more personal, on-screen awareness, a new API for third-party apps, and more, coming &quot;over the next year&quot; &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/240610/p30#a240610p30)
- - [Apple’s standalone Passwords app works across iOS, iPad, Mac, and Windows](https://www.theverge.com/2024/6/10/24175505/apple-password-app-passkey-manager-windows-mac-icloud)
- - [Siri is superpowered with Apple Intelligence](https://appleinsider.com/articles/24/06/10/siri-is-superpowered-with-apple-intelligence?utm_medium=rss)
- - [macOS Sequoia brings iPhone remote control and new Passwords app](https://appleinsider.com/articles/24/06/10/macos-sequoia-brings-iphone-remote-control-and-new-passwords-app?utm_medium=rss)<!-- TECH:END -->
+ - [Apple’s AI can make custom emoji and images](https://www.theverge.com/2024/6/10/24175523/apple-ai-custom-emoji-images-ios18-wwdc)
+ - [Apple is putting ChatGPT in Siri for free later this year](https://www.theverge.com/2024/6/10/24174786/apple-openai-partnership-chatgpt-wwdc)
+ - [Apple’s standalone Passwords app works across iOS, iPad, Mac, and Windows](https://www.theverge.com/2024/6/10/24175505/apple-password-app-passkey-manager-windows-mac-icloud)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

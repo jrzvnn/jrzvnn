@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So basically GTA Vice City](http://9gag.com/gag/a7oygMr)
- - 😝 [SWAT Sniper shoots through a computer monitor to take out armed man with 2 hostages inside Florida bank &lpar;blurred&rpar;](http://9gag.com/gag/a87YO4O)
- - 💣 [Which arrow will penetrate riot shields?](http://9gag.com/gag/ayN0r7p)
- - 😝 [California Round Stingray](http://9gag.com/gag/aD23LrG)
- - 👉 [In Marseille, a young man got out of his car and calmly subdued a violent individual in front of two municipal policewomen who tried to stop him on Boulevard de la Lib\u00e9ration, saying: `Madame, shall I catch him for you?`](http://9gag.com/gag/a5QPg0L)<!-- MEMES:END -->
+ - 😝 [You have stolen my dreams, and my childhood!](http://9gag.com/gag/axyZQOD)
+ - 😝 [Which arrow will penetrate riot shields?](http://9gag.com/gag/ayN0r7p)
+ - 💣 [In Marseille, a young man got out of his car and calmly subdued a violent individual in front of two municipal policewomen who tried to stop him on Boulevard de la Lib\u00e9ration, saying: `Madame, shall I catch him for you?`](http://9gag.com/gag/a5QPg0L)
+ - 😝 [She&#39;s been through hell for 8 months, but now she is safe and back home!](http://9gag.com/gag/aVvW42n)
+ - 👉 [The story behind this assassination is insane. Apparently the assassins didn\u2019t know they were killing somebody. They were hired to do pranks for a YouTube channel, a channel created by North Korean intel.](http://9gag.com/gag/aZZx5BW)<!-- MEMES:END -->
 
 ---
 

@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I identify as a black male](http://9gag.com/gag/aZZxX7n)
- - 😝 [This is the only way from now on](http://9gag.com/gag/aRBPdwy)
- - 💣 [Which arrow will penetrate riot shields?](http://9gag.com/gag/ayN0r7p)
- - 😝 [Too much anger and frustration on this site. Here, have a wet pupper.](http://9gag.com/gag/amo0ypy)
- - 👉 [Took him 5 years](http://9gag.com/gag/avygqM5)<!-- MEMES:END -->
+ - 😝 [The flashlight in the daytime is all you need to determine their IQ .](http://9gag.com/gag/ayN0Ap8)
+ - 😝 [Which arrow will penetrate riot shields?](http://9gag.com/gag/ayN0r7p)
+ - 💣 [Nope](http://9gag.com/gag/aRBP8W5)
+ - 😝 [California Round Stingray](http://9gag.com/gag/aD23LrG)
+ - 👉 [What&#39;s wrong with them?](http://9gag.com/gag/a0eLzOO)<!-- MEMES:END -->
 
 ---
 

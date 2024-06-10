@@ -163,10 +163,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Thoughts on Apple Intelligence&#39;s ability to outsource compute to Apple&#39;s servers with cryptographic guarantees of privacy, prompt injection risks, and more &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/240610/p33#a240610p33)
+ - [The Apple Watch Series 9 and Google Pixel Watch 2 Are on Sale](https://www.wired.com/story/apple-watch-series-9-and-google-pixel-watch-2-deals/)
+ - [Everything Apple Announced at WWDC 2024: AI Features, New Siri, Genmoji](https://www.wired.com/story/everything-apple-announced-wwdc-2024/)
  - [AirPods software update will let you refuse a telemarker&#39;s call by shaking your head](https://appleinsider.com/articles/24/06/10/airpods-software-update-will-let-you-refuse-a-telemarkers-call-by-shaking-your-head?utm_medium=rss)
- - [Genmoji will allow custom AI-created emojis in iOS 18, and might resurrect Memoji](https://appleinsider.com/articles/24/06/10/genmoji-will-allow-custom-ai-created-emojis-in-ios-18-and-might-resurrect-memoji?utm_medium=rss)
- - [iPadOS 18 gets Math Notes, your own handwriting, and a Calculator](https://appleinsider.com/articles/24/06/10/ipados-18-gets-math-notes-your-own-handwriting-and-a-calculator?utm_medium=rss)
- - [Here’s 12 minutes of Assassin’s Creed Shadows gameplay](https://www.theverge.com/24172151/assassins-creed-shadows-gameplay-trailer-ubisoft-forward-2024)<!-- TECH:END -->
+ - [Genmoji will allow custom AI-created emojis in iOS 18, and might resurrect Memoji](https://appleinsider.com/articles/24/06/10/genmoji-will-allow-custom-ai-created-emojis-in-ios-18-and-might-resurrect-memoji?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

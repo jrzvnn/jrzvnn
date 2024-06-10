@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Frontier hackers threaten to release private data for at least 750,000 customers](https://www.theverge.com/2024/6/10/24175169/frontier-communications-hack-cyberattack-data-breach-ransom)
+ - [Apple WWDC 2024 Live Blog: All the News as It Happens](https://www.wired.com/live/apple-wwdc-2024-live-blog/)
  - [A look at the problems of building AI products, like inaccurate answers, and potential solutions, like focusing on narrow domains and abstracting the outputs &lpar;Benedict Evans&rpar;](http://www.techmeme.com/240610/p5#a240610p5)
- - [Best iPhone 14 Fast Chargers at the Lowest Prices We Can Find     - CNET](https://www.cnet.com/tech/mobile/best-iphone-13-usb-c-fast-charger/#ftag=CAD590a51e)
- - [Xbox boss: ‘I think we should have a handheld, too’](https://www.theverge.com/2024/6/10/24175149/xbox-handheld-phil-spencer-interview-2024)
- - [Xbox chief confirms more games are coming to other platforms](https://www.theverge.com/2024/6/10/24174977/xbox-phil-spencer-games-ps5-interview)
- - [Best MagSafe Accessories for iPhone in 2024     - CNET](https://www.cnet.com/tech/mobile/best-magsafe-and-magnetic-iphone-accessories/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Prepaid Phone of 2024: Value Picks for Cheaper Plans     - CNET](https://www.cnet.com/tech/mobile/best-prepaid-phones/#ftag=CAD590a51e)
+ - [Best CD Rates Today, June 10, 2024: Maximize Your Earnings With APYs Up to 5.35%     - CNET](https://www.cnet.com/personal-finance/banking/cd-rates-today-june-10-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

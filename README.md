@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She&#39;s been through hell for 8 months, but now she is safe and back home!](http://9gag.com/gag/aVvW42n)
- - 😝 [So basically GTA Vice City](http://9gag.com/gag/a7oygMr)
- - 💣 [The whole Palestinian victim mentality in one picture. No understanding of cause and effect, consequences and accountability, just like children. It\u2019s always the evil Jews. #FAFO](http://9gag.com/gag/adBYMYQ)
- - 😝 [Hehe..](http://9gag.com/gag/azxEvdx)
- - 👉 [Trust me, I&#39;m a engineer](http://9gag.com/gag/aAyrLAg)<!-- MEMES:END -->
+ - 😝 [I identify as a black male](http://9gag.com/gag/aZZxX7n)
+ - 😝 [This is the only way from now on](http://9gag.com/gag/aRBPdwy)
+ - 💣 [Which arrow will penetrate riot shields?](http://9gag.com/gag/ayN0r7p)
+ - 😝 [Too much anger and frustration on this site. Here, have a wet pupper.](http://9gag.com/gag/amo0ypy)
+ - 👉 [Took him 5 years](http://9gag.com/gag/avygqM5)<!-- MEMES:END -->
 
 ---
 

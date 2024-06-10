@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Canon made a special lens for the Apple Vision Pro’s spatial videos](https://www.theverge.com/2024/6/10/24175468/canon-eos-spatial-lens-apple-wwdc-2024-announcement)
- - [Apple Vision Pro is coming to eight more countries very soon](https://appleinsider.com/articles/24/06/10/apple-vision-pro-is-coming-to-eight-more-countries-very-soon?utm_medium=rss)
- - [The iPhone’s new Game Mode makes it faster and more responsive](https://www.theverge.com/2024/6/10/24175466/iphone-game-mode-performance-frame-rate-optimization-wwdc-2024)
- - [Apple is finally bringing RCS to the iPhone](https://www.theverge.com/2024/6/10/24171315/apple-messages-rcs-ios-18-imessage-green-bubble)
- - [Apple to release Vision Pro in China, Japan, and Singapore on June 28 and then Australia, Canada, France, Germany, and the UK on July 12 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240610/p17#a240610p17)<!-- TECH:END -->
+ - [Apple unveils tvOS 18, with InSight to offer Amazon X-ray like details on content, 21:9 projector support, an ML-powered Enhance Dialogue feature, and more &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/240610/p19#a240610p19)
+ - [OpenAI hires Sarah Friar, the former CFO of Nextdoor, as its first CFO, and former Instagram and Twitter product chief Kevin Weil as its chief product officer &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/240610/p18#a240610p18)
+ - [tvOS 18 &amp; homePod OS thankfully processes dialog better &amp; borrows Amazon&#39;s Xray feature](https://appleinsider.com/articles/24/06/10/tvos-18-homepod-os-thankfully-processes-dialog-better-borrows-amazons-xray-feature?utm_medium=rss)
+ - [iOS 18 introduces satellite capabilities to its iMessage app](https://www.theverge.com/2024/6/10/24175479/ios-18-satellite-imessage-wwdc-2024)
+ - [Apple announces watchOS 11 and a new training mode](https://www.theverge.com/2024/6/10/24170653/apple-watch-watchos-11-features-updates-wwdc)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

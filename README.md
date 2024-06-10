@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple announces Genmoji, an Apple Intelligence-powered iOS 18 feature to let users create their own custom emoji using text prompts in the Messages app &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/240610/p29#a240610p29)
- - [Apple updates Siri, powered by Apple Intelligence: more personal, on-screen awareness, a new API for third-party apps, and more, coming &quot;over the next year&quot; &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/240610/p30#a240610p30)
- - [Apple’s AI can make custom emoji and images](https://www.theverge.com/2024/6/10/24175523/apple-ai-custom-emoji-images-ios18-wwdc)
- - [Apple is putting ChatGPT in Siri for free later this year](https://www.theverge.com/2024/6/10/24174786/apple-openai-partnership-chatgpt-wwdc)
- - [Apple’s standalone Passwords app works across iOS, iPad, Mac, and Windows](https://www.theverge.com/2024/6/10/24175505/apple-password-app-passkey-manager-windows-mac-icloud)<!-- TECH:END -->
+ - [ChatGPT coming to iOS 18 for free later in 2024](https://appleinsider.com/articles/24/06/10/chatgpt-coming-to-ios-18-for-free-later-in-2024?utm_medium=rss)
+ - [macOS Sequoia brings iPhone remote control and new Passwords app](https://appleinsider.com/articles/24/06/10/macos-sequoia-brings-iphone-remote-control-and-new-passwords-app?utm_medium=rss)
+ - [Apple WWDC 2024: the 13 biggest announcements](https://www.theverge.com/24171190/apple-wwdc-2024-biggest-announcements)
+ - [Apple Intelligence &amp; Private Cloud Compute are Apple&#39;s answer to generative AI](https://appleinsider.com/articles/24/06/10/apple-intelligence-private-cloud-compute-are-apples-answer-to-generative-ai?utm_medium=rss)
+ - [Apple Home now supports robot vacuums](https://www.theverge.com/2024/6/10/24172054/apple-home-homekit-robot-vacuum-support-smart-locks-wwdc24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

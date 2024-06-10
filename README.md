@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Store unexpectedly goes down ahead of WWDC](https://appleinsider.com/articles/24/06/10/apple-store-unexpectedly-goes-down-ahead-of-wwdc?utm_medium=rss)
  - [Live blog: Apple’s AI plans, iOS 18, and more at WWDC 2024](https://www.theverge.com/2024/6/10/24173603/wwdc-2024-live-blog-apple-event-ios-18-ai)
  - [Spotify flexes knowledge of your music taste with in-app suggestions](https://www.theverge.com/2024/6/10/24175331/spotify-flexes-knowledge-music-taste-personalization)
  - [Mandiant, which is helping Snowflake investigate its recent cyber attacks, says the two companies have notified ~165 organizations of potential exposure &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240610/p12#a240610p12)
- - [&#39;Resident Evil 7: Biohazard&#39; coming to iPad, iPhone, and Mac](https://appleinsider.com/articles/24/06/10/resident-evil-7-biohazard-coming-to-ipad-iphone-and-mac?utm_medium=rss)
- - [iPhone Fold screen may wrap around the case](https://appleinsider.com/articles/24/06/10/iphone-fold-screen-may-wrap-around-the-case?utm_medium=rss)<!-- TECH:END -->
+ - [&#39;Resident Evil 7: Biohazard&#39; coming to iPad, iPhone, and Mac](https://appleinsider.com/articles/24/06/10/resident-evil-7-biohazard-coming-to-ipad-iphone-and-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

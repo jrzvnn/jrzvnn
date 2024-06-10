@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Intelligence &amp; Private Cloud Compute are Apple&#39;s answer to generative AI](https://appleinsider.com/articles/24/06/10/apple-intelligence-private-cloud-compute-are-apples-answer-to-generative-ai?utm_medium=rss)
  - [Which Mac models are needed to run macOS 15](https://appleinsider.com/articles/24/06/10/which-mac-models-are-needed-to-run-macos-15?utm_medium=rss)
  - [visionOS 2.0 gets big upgrades with photo 3D processing, multiple 4K Mac screens &amp; more](https://appleinsider.com/articles/24/06/10/visionos-20-gets-big-upgrades-with-photo-3d-processing-multiple-4k-mac-screens-more?utm_medium=rss)
  - [iOS 18 is here to help with Apple Intelligence, Messages improvements &amp; more](https://appleinsider.com/articles/24/06/10/ios-18-is-here-to-help-with-more-customization-messages-improvements-more?utm_medium=rss)
- - [Apple&#39;s first developer betas for its fall OS updates have arrived](https://appleinsider.com/articles/24/06/10/apples-first-developer-betas-for-its-fall-os-updates-have-arrived?utm_medium=rss)
- - [macOS Sequoia brings iPhone remote control and new Passwords app](https://appleinsider.com/articles/24/06/10/macos-sequoia-brings-iphone-remote-control-and-new-passwords-app?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s first developer betas for its fall OS updates have arrived](https://appleinsider.com/articles/24/06/10/apples-first-developer-betas-for-its-fall-os-updates-have-arrived?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

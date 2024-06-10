@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [No, your Apple TV, Apple Watch, and Apple Vision Pro aren&#39;t getting Apple Intelligence](https://appleinsider.com/articles/24/06/10/no-your-apple-tv-apple-watch-and-apple-vision-pro-arent-getting-apple-intelligence?utm_medium=rss)
  - [Apple&#39;s Image Playground is a new system-wide AI-powered image generation tool](https://appleinsider.com/articles/24/06/10/apples-image-playground-is-a-new-system-wide-ai-powered-image-generation-tool?utm_medium=rss)
  - [Which Mac models are needed to run macOS Sequoia](https://appleinsider.com/articles/24/06/10/which-mac-models-are-needed-to-run-macos-15?utm_medium=rss)
  - [Don&#39;t install Apple&#39;s new betas -- let others risk their devices](https://appleinsider.com/articles/24/06/10/dont-install-apples-new-betas----let-others-risk-their-devices?utm_medium=rss)
- - [Summer Game Fest 2024: all the news, trailers, and announcements](https://www.theverge.com/24170561/summer-game-fest-2024-trailers-news-geoff-keighley)
- - [iPadOS 18 gets Math Notes, your own handwriting, and a Calculator](https://appleinsider.com/articles/24/06/10/ipados-18-gets-math-notes-your-own-handwriting-and-a-calculator?utm_medium=rss)<!-- TECH:END -->
+ - [Summer Game Fest 2024: all the news, trailers, and announcements](https://www.theverge.com/24170561/summer-game-fest-2024-trailers-news-geoff-keighley)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Which arrow will penetrate riot shields?](http://9gag.com/gag/ayN0r7p)
  - 😝 [She&#39;s been through hell for 8 months, but now she is safe and back home!](http://9gag.com/gag/aVvW42n)
- - 💣 [The story behind this assassination is insane. Apparently the assassins didn\u2019t know they were killing somebody. They were hired to do pranks for a YouTube channel, a channel created by North Korean intel.](http://9gag.com/gag/aZZx5BW)
- - 😝 [Nope](http://9gag.com/gag/aRBP8W5)
- - 👉 [California Round Stingray](http://9gag.com/gag/aD23LrG)<!-- MEMES:END -->
+ - 😝 [So basically GTA Vice City](http://9gag.com/gag/a7oygMr)
+ - 💣 [The whole Palestinian victim mentality in one picture. No understanding of cause and effect, consequences and accountability, just like children. It\u2019s always the evil Jews. #FAFO](http://9gag.com/gag/adBYMYQ)
+ - 😝 [Hehe..](http://9gag.com/gag/azxEvdx)
+ - 👉 [Trust me, I&#39;m a engineer](http://9gag.com/gag/aAyrLAg)<!-- MEMES:END -->
 
 ---
 

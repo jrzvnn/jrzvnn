@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So basically GTA Vice City](http://9gag.com/gag/a7oygMr)
- - 😝 [The flashlight in the daytime is all you need to determine their IQ .](http://9gag.com/gag/ayN0Ap8)
- - 💣 [Time comes when there are going to be no rules.](http://9gag.com/gag/ayN0rbV)
- - 😝 [Which arrow will penetrate riot shields?](http://9gag.com/gag/ayN0r7p)
- - 👉 [People in ground recording a Helicopter shooting to the ground](http://9gag.com/gag/ajP0wNx)<!-- MEMES:END -->
+ - 😝 [Traveling not driving](http://9gag.com/gag/a9yLG6Z)
+ - 😝 [Day 2 of vacation in Thailand](http://9gag.com/gag/aVvW678)
+ - 💣 [Doom: The Dark Ages - I just came](http://9gag.com/gag/aZZxX8Q)
+ - 😝 [Hiker saves a woman struggling on the edge of a trail](http://9gag.com/gag/a87YgPY)
+ - 👉 [We&#39;re in the wrong timeline boys](http://9gag.com/gag/aZZxYv9)<!-- MEMES:END -->
 
 ---
 

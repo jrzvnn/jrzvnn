@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dealroom analysis of European startups: as of May 2024, the UK had 785 startups with at least $25M of annual revenue, France had 309, and Germany had 255 &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/240610/p3#a240610p3)
+ - [Your Apple Watch is Probably Pretty Gross. Here&#39;s How to Clean It     - CNET](https://www.cnet.com/tech/your-apple-watch-is-probably-pretty-gross-heres-how-to-clean-it/#ftag=CAD590a51e)
  - [Human Rights Watch finds LAION-5B AI training dataset scraped 170+ images and personal info of Brazilian children without consent; LAION pledges to remove them &lpar;Vittoria Elliott/Wired&rpar;](http://www.techmeme.com/240610/p2#a240610p2)
  - [Researchers find malicious Microsoft Visual Studio Code extensions with millions of installs and also easily create their own, which trended in the marketplace &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240610/p1#a240610p1)
- - [AI Tools Are Secretly Training on Real Images of Children](https://www.wired.com/story/ai-tools-are-secretly-training-on-real-childrens-faces/)
- - [Today&#39;s NYT Connections Hints and Answers: Help for June 10, #365     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hint-answer-for-june-10-365/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints and Answer: Help for June 10, #1087     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-and-answer-help-for-june-10-1087/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AI Tools Are Secretly Training on Real Images of Children](https://www.wired.com/story/ai-tools-are-secretly-training-on-real-childrens-faces/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

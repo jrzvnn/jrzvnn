@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That one friend who doesn&#39;t take anything seriously.](http://9gag.com/gag/aW4W5XA)
- - 😝 [In Marseille, a young man got out of his car and calmly subdued a violent individual in front of two municipal policewomen who tried to stop him on Boulevard de la Lib\u00e9ration, saying: `Madame, shall I catch him for you?`](http://9gag.com/gag/a5QPg0L)
+ - 😝 [Finger painting](http://9gag.com/gag/aYQW0O7)
+ - 😝 [Day 2 of vacation in Thailand](http://9gag.com/gag/aVvW678)
  - 💣 [People in ground recording a Helicopter shooting to the ground](http://9gag.com/gag/ajP0wNx)
- - 😝 [Which arrow will penetrate riot shields?](http://9gag.com/gag/ayN0r7p)
- - 👉 [California Round Stingray](http://9gag.com/gag/aD23LrG)<!-- MEMES:END -->
+ - 😝 [The fentanyl gave him powers.](http://9gag.com/gag/aO8bW66)
+ - 👉 [Peter Porco, who, after being struck 16 times with an axe, regained consciousness, got out of bed, went through his morning routine, retrieved the morning paper, locked himself out of the house, and let himself back in with a spare key before eventually falling dead in the foyer.](http://9gag.com/gag/apR07vM)<!-- MEMES:END -->
 
 ---
 

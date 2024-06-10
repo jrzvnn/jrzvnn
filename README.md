@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Whatever this is I&#39;m in](http://9gag.com/gag/an7K04n)
+ - 😝 [The flashlight in the daytime is all you need to determine their IQ .](http://9gag.com/gag/ayN0Ap8)
  - 😝 [So basically GTA Vice City](http://9gag.com/gag/a7oygMr)
  - 💣 [California Round Stingray](http://9gag.com/gag/aD23LrG)
- - 😝 [Well, well, well how the turntables](http://9gag.com/gag/aAyr9Bd)
- - 👉 [This is a map of the E.U. election results in France tonight. The brown is for the `far-right` parties](http://9gag.com/gag/ae90w3Q)<!-- MEMES:END -->
+ - 😝 [Hehe..](http://9gag.com/gag/azxEvdx)
+ - 👉 [Well, well, well how the turntables](http://9gag.com/gag/aAyr9Bd)<!-- MEMES:END -->
 
 ---
 

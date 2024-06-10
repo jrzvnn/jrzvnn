@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [German green party lost almost half their voters in the EU elections - Look at their faces!](http://9gag.com/gag/ajP0vZQ)
- - 😝 [I wonder why....](http://9gag.com/gag/a2vYA8d)
- - 💣 [So basically GTA Vice City](http://9gag.com/gag/a7oygMr)
- - 😝 [Which arrow will penetrate riot shields?](http://9gag.com/gag/ayN0r7p)
- - 👉 [Nope](http://9gag.com/gag/aRBP8W5)<!-- MEMES:END -->
+ - 😝 [I identify as a black male](http://9gag.com/gag/aZZxX7n)
+ - 😝 [Oh no, the consequence of my actions](http://9gag.com/gag/a9yLwVW)
+ - 💣 [This is the only way from now on](http://9gag.com/gag/aRBPdwy)
+ - 😝 [This is a map of the E.U. election results in France tonight. The brown is for the `far-right` parties](http://9gag.com/gag/ae90w3Q)
+ - 👉 [Which arrow will penetrate riot shields?](http://9gag.com/gag/ayN0r7p)<!-- MEMES:END -->
 
 ---
 

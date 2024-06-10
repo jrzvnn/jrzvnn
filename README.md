@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ok, it seems legit](http://9gag.com/gag/aKGPNLb)
- - 😝 [Nope](http://9gag.com/gag/aRBP8W5)
- - 💣 [In Marseille, a young man got out of his car and calmly subdued a violent individual in front of two municipal policewomen who tried to stop him on Boulevard de la Lib\u00e9ration, saying: `Madame, shall I catch him for you?`](http://9gag.com/gag/a5QPg0L)
- - 😝 [So basically GTA Vice City](http://9gag.com/gag/a7oygMr)
- - 👉 [She&#39;s been through hell for 8 months, but now she is safe and back home!](http://9gag.com/gag/aVvW42n)<!-- MEMES:END -->
+ - 😝 [You have stolen my dreams, and my childhood!](http://9gag.com/gag/axyZQOD)
+ - 😝 [Took him 5 years](http://9gag.com/gag/avygqM5)
+ - 💣 [Russel](http://9gag.com/gag/aQz4KOW)
+ - 😝 [Wouldn&#39;t it make more sense to not warn people you&#39;re about to make false accusations against them?](http://9gag.com/gag/ayN0r6r)
+ - 👉 [Duhhh](http://9gag.com/gag/ary4rj6)<!-- MEMES:END -->
 
 ---
 

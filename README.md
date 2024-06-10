@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nokia CEO Pekka Lundmark made a phone call using new &quot;immersive audio and video&quot; tech that uses 3D sound on a 5G smartphone, as part of the 5G Advanced standard &lpar;Supantha Mukherjee/Reuters&rpar;](http://www.techmeme.com/240610/p6#a240610p6)
  - [Which iPhone models are needed to run iOS 18](https://appleinsider.com/articles/24/06/10/which-iphone-models-are-needed-to-run-ios-18?utm_medium=rss)
  - [Apple’s AI opportunity is all about the big picture](https://www.theverge.com/2024/6/10/24171615/apple-ai-siri-wwdc-2024)
  - [Which iPads will work with iPadOS 18, and what&#39;s getting left behind](https://appleinsider.com/articles/24/06/10/which-ipads-will-work-with-ipados-18-and-whats-getting-left-behind?utm_medium=rss)
- - [Don&#39;t install Apple&#39;s new betas -- let others risk their devices](https://appleinsider.com/articles/24/06/10/dont-install-apples-new-betas----let-others-risk-their-devices?utm_medium=rss)
- - [Who’s Afraid of &#39;Skibidi Toilet&#39;?](https://www.wired.com/story/whos-afraid-of-skibidi-toilet/)<!-- TECH:END -->
+ - [Best Solar Companies of June 2024     - CNET](https://www.cnet.com/home/energy-and-utilities/best-solar-companies/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Intelligence brings live recording and transcription to the Phone app in iOS 18](https://appleinsider.com/articles/24/06/10/apple-intelligence-brings-live-recording-and-transcription-to-the-phone-app-in-ios-18?utm_medium=rss)
  - [During an interview, Craig Federighi says Apple looks forward to &quot;doing integrations&quot; with other AI models, including Google Gemini, &quot;in the future&quot; &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240610/p35#a240610p35)
  - [Elon Musk&#39;s latest anti-Apple tirade is about a ChatGPT feature that doesn&#39;t exist](https://appleinsider.com/articles/24/06/10/elon-musks-latest-anti-apple-tirade-is-about-a-chatgpt-feature-that-doesnt-exist?utm_medium=rss)
  - [Apple introduces Messages via satellite on iOS 18, letting users send texts without a Wi-Fi or cellular connection, available on the iPhone 14 or later &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/240610/p34#a240610p34)
- - [Will Your iPhone Support iOS 18 and Apple Intelligence? Here&#39;s What You Need to Know     - CNET](https://www.cnet.com/tech/services-and-software/will-your-iphone-support-ios-18-and-apple-intelligence-heres-what-you-need-to-know/#ftag=CAD590a51e)
- - [I Lost Nearly $1K by Renting a Router From My Internet Provider. Here&#39;s What I Learned     - CNET](https://www.cnet.com/home/internet/i-lost-1k-by-renting-a-router-from-my-internet-provider-heres-what-i-learned/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Will Your iPhone Support iOS 18 and Apple Intelligence? Here&#39;s What You Need to Know     - CNET](https://www.cnet.com/tech/services-and-software/will-your-iphone-support-ios-18-and-apple-intelligence-heres-what-you-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

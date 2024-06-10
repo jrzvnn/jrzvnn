@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google is ready to fill free streaming TV channels with ads](https://www.theverge.com/2024/6/10/24175676/google-fast-ads-streaming-tv-network)
  - [Apple says iOS 18 will let users record and transcribe phone calls, and call participants will be automatically notified that they&#39;re being recorded &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240610/p37#a240610p37)
  - [Safari 18 includes a new Highlights feature for summarizing articles and more](https://appleinsider.com/articles/24/06/10/safari-18-includes-a-new-highlights-feature-for-summarizing-articles-and-more?utm_medium=rss)
  - [Where to preorder Star Wars Outlaws &lpar;and what’s included in each edition&rpar;](https://www.theverge.com/24125268/star-wars-outlaws-preorder-guide-bonus-skins-dlc-missions-extras-deal)
- - [Fortinet announces it has reached an agreement to acquire cloud security company Lacework; Lacework had raised $1.8B and was valued at $8.3B in 2021 &lpar;Kyle Alspach/CRN&rpar;](http://www.techmeme.com/240610/p36#a240610p36)
- - [iOS 18 will let you record calls — and tells everyone for their privacy](https://www.theverge.com/2024/6/10/24175684/ios-18-record-calls-privacy-apple-intelligence)<!-- TECH:END -->
+ - [Fortinet announces it has reached an agreement to acquire cloud security company Lacework; Lacework had raised $1.8B and was valued at $8.3B in 2021 &lpar;Kyle Alspach/CRN&rpar;](http://www.techmeme.com/240610/p36#a240610p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

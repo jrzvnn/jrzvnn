@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [People in ground recording a Helicopter shooting to the ground](http://9gag.com/gag/ajP0wNx)
- - 😝 [The flashlight in the daytime is all you need to determine their IQ .](http://9gag.com/gag/ayN0Ap8)
- - 💣 [So basically GTA Vice City](http://9gag.com/gag/a7oygMr)
- - 😝 [Which arrow will penetrate riot shields?](http://9gag.com/gag/ayN0r7p)
- - 👉 [Hehe..](http://9gag.com/gag/azxEvdx)<!-- MEMES:END -->
+ - 😝 [Well, well, well how the turntables](http://9gag.com/gag/aAyr9Bd)
+ - 😝 [Say what?](http://9gag.com/gag/a5QPg1o)
+ - 💣 [Which arrow will penetrate riot shields?](http://9gag.com/gag/ayN0r7p)
+ - 😝 [So basically GTA Vice City](http://9gag.com/gag/a7oygMr)
+ - 👉 [Nope](http://9gag.com/gag/aRBP8W5)<!-- MEMES:END -->
 
 ---
 

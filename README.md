@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Which arrow will penetrate riot shields?](http://9gag.com/gag/ayN0r7p)
- - 😝 [This is the only way from now on](http://9gag.com/gag/aRBPdwy)
- - 💣 [Too much anger and frustration on this site. Here, have a wet pupper.](http://9gag.com/gag/amo0ypy)
- - 😝 [German green party lost almost half their voters in the EU elections - Look at their faces!](http://9gag.com/gag/ajP0vZQ)
- - 👉 [In Marseille, a young man got out of his car and calmly subdued a violent individual in front of two municipal policewomen who tried to stop him on Boulevard de la Lib\u00e9ration, saying: `Madame, shall I catch him for you?`](http://9gag.com/gag/a5QPg0L)<!-- MEMES:END -->
+ - 😝 [The story behind this assassination is insane. Apparently the assassins didn\u2019t know they were killing somebody. They were hired to do pranks for a YouTube channel, a channel created by North Korean intel.](http://9gag.com/gag/aZZx5BW)
+ - 😝 [Random Indian tour guide speaking Japanese](http://9gag.com/gag/aZZx5RQ)
+ - 💣 [So basically GTA Vice City](http://9gag.com/gag/a7oygMr)
+ - 😝 [Nope](http://9gag.com/gag/aRBP8W5)
+ - 👉 [This is a map of the E.U. election results in France tonight. The brown is for the `far-right` parties](http://9gag.com/gag/ae90w3Q)<!-- MEMES:END -->
 
 ---
 

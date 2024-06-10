@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI Tools Are Secretly Training on Real Images of Children](https://www.wired.com/story/ai-tools-are-secretly-training-on-real-childrens-faces/)
  - [Today&#39;s NYT Connections Hints and Answers: Help for June 10, #365     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hint-answer-for-june-10-365/#ftag=CAD590a51e)
  - [Today&#39;s Wordle Hints and Answer: Help for June 10, #1087     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-and-answer-help-for-june-10-1087/#ftag=CAD590a51e)
  - [Push from governments to develop AI locally and train LLMs in their native languages and on their citizens&#39; data, is a new growth opportunity for Nvidia, others &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240609/p9#a240609p9)
- - [Microsoft&#39;s Discless Xbox Series X Revealed video     - CNET](https://www.cnet.com/videos/microsofts-discless-xbox-series-x-revealed/#ftag=CAD590a51e)
- - [NBA Finals 2024: How to Watch, Stream Mavericks vs. Celtics Game 2 Tonight on ABC     - CNET](https://www.cnet.com/tech/services-and-software/nba-finals-2024-how-to-watch-stream-mavericks-vs-celtics-tonight-on-abc/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft&#39;s Discless Xbox Series X Revealed video     - CNET](https://www.cnet.com/videos/microsofts-discless-xbox-series-x-revealed/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

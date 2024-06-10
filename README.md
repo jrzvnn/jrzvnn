@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fireproof Document Box     - CNET](https://www.cnet.com/news/fireproof-document-box-dpnl/#ftag=CAD590a51e)
- - [Bungie teases Destiny 2 codenamed ‘Frontiers’ for 2025](https://www.theverge.com/24175322/bungie-destiny-2-frontier-teaser)
- - [Regulators in Canada and the UK launch a joint probe to assess what customer info was exposed in 23andMe&#39;s 2023 breach and if proper safeguards were in place &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240610/p11#a240610p11)
- - [Motorola Razr and Razr Plus Hit New Lows With Savings of Up to $350     - CNET](https://www.cnet.com/deals/motorola-razr-and-razr-plus-hit-new-lows-with-savings-of-up-to-350/#ftag=CAD590a51e)
- - [Which Apple Watch models will be supported on watchOS 11](https://appleinsider.com/articles/24/06/10/which-apple-watch-models-will-be-supported-on-watchos-11?utm_medium=rss)<!-- TECH:END -->
+ - [Mandiant, which is helping Snowflake investigate its recent cyber attacks, says the two companies have notified ~165 organizations of potential exposure &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240610/p12#a240610p12)
+ - [&#39;Resident Evil 7: Biohazard&#39; coming to iPad, iPhone, and Mac](https://appleinsider.com/articles/24/06/10/resident-evil-7-biohazard-coming-to-ipad-iphone-and-mac?utm_medium=rss)
+ - [iPhone Fold screen may wrap around the case](https://appleinsider.com/articles/24/06/10/iphone-fold-screen-may-wrap-around-the-case?utm_medium=rss)
+ - [The Beats Solo 4 headphones are on sale for their best price to date](https://www.theverge.com/2024/6/10/24175211/beats-solo-4-headphones-oneplus-nord-n30-5g-phone-deal-sale)
+ - [WWDC 2024: iOS 18 with AI, macOS 15, and more](https://www.theverge.com/2024/6/10/24171999/apple-wwdc-2024-news-rumors-announcements-ios-18-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to watch WWDC 2024 on iPhone, iPad, Mac &amp; Apple TV](https://appleinsider.com/inside/wwdc/tips/how-to-watch-wwdc-2024-on-iphone-ipad-mac-apple-tv?utm_medium=rss)
  - [Frontier hackers threaten to release private data for at least 750,000 customers](https://www.theverge.com/2024/6/10/24175169/frontier-communications-hack-cyberattack-data-breach-ransom)
  - [Apple WWDC 2024 Live Blog: All the News as It Happens](https://www.wired.com/live/apple-wwdc-2024-live-blog/)
  - [A look at the problems of building AI products, like inaccurate answers, and potential solutions, like focusing on narrow domains and abstracting the outputs &lpar;Benedict Evans&rpar;](http://www.techmeme.com/240610/p5#a240610p5)
- - [Best Prepaid Phone of 2024: Value Picks for Cheaper Plans     - CNET](https://www.cnet.com/tech/mobile/best-prepaid-phones/#ftag=CAD590a51e)
- - [Best CD Rates Today, June 10, 2024: Maximize Your Earnings With APYs Up to 5.35%     - CNET](https://www.cnet.com/personal-finance/banking/cd-rates-today-june-10-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Prepaid Phone of 2024: Value Picks for Cheaper Plans     - CNET](https://www.cnet.com/tech/mobile/best-prepaid-phones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

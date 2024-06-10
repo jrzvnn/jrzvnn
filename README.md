@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SCOTUS declines to question the FCC&#39;s $8B annual subsidy to help cover telecom costs for poor people and residents of rural area, turning away two appeals &lpar;Greg Stohr/Bloomberg&rpar;](http://www.techmeme.com/240610/p9#a240610p9)
- - [Steve Jobs screamed advice at Starbucks CEO, who wishes he&#39;d listened](https://appleinsider.com/articles/24/06/10/steve-jobs-screamed-advice-at-starbucks-ceo-who-wishes-hed-listened?utm_medium=rss)
- - [8 Best Smart Bulbs &lpar;2024&rpar;: Color, Ambient, Filament, and More](https://www.wired.com/gallery/best-smart-bulbs/)
- - [Ransomware Is ‘More Brutal’ Than Ever in 2024](https://www.wired.com/story/state-of-ransomware-2024/)
- - [WWDC 24 preview, Flair Vents, &amp; a portable Apple TV on HomeKit Insider](https://appleinsider.com/articles/24/06/10/wwdc-24-preview-flair-vents-a-portable-apple-tv-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
+ - [This is the ‘world’s first’ phone call made using spatial audio](https://www.theverge.com/2024/6/10/24175231/nokia-3d-spatial-audio-5g-phone-call-advanced)
+ - [SCOTUS agrees to hear Facebook&#39;s bid to scuttle a private securities fraud lawsuit over allegedly misleading investors on Cambridge Analytica in 2017 and 2018 &lpar;John Kruzel/Reuters&rpar;](http://www.techmeme.com/240610/p10#a240610p10)
+ - [AI will make money sooner than you’d think, says Cohere CEO Aidan Gomez](https://www.theverge.com/24173858/ai-cohere-aidan-gomez-money-revenue-llm-transformers-enterprise-stochastic-parrot)
+ - [Which Mac models are needed to run macOS 15](https://appleinsider.com/articles/24/06/10/which-mac-models-are-needed-to-run-macos-15?utm_medium=rss)
+ - [SCOTUS declines to question the FCC&#39;s $8B annual subsidy to help cover telecom costs for poor people and residents of rural area, turning away two appeals &lpar;Greg Stohr/Bloomberg&rpar;](http://www.techmeme.com/240610/p9#a240610p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

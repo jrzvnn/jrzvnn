@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple unveils tvOS 18, with InSight to offer Amazon X-ray like details on content, 21:9 projector support, an ML-powered Enhance Dialogue feature, and more &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/240610/p19#a240610p19)
- - [OpenAI hires Sarah Friar, the former CFO of Nextdoor, as its first CFO, and former Instagram and Twitter product chief Kevin Weil as its chief product officer &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/240610/p18#a240610p18)
- - [tvOS 18 &amp; homePod OS thankfully processes dialog better &amp; borrows Amazon&#39;s Xray feature](https://appleinsider.com/articles/24/06/10/tvos-18-homepod-os-thankfully-processes-dialog-better-borrows-amazons-xray-feature?utm_medium=rss)
- - [iOS 18 introduces satellite capabilities to its iMessage app](https://www.theverge.com/2024/6/10/24175479/ios-18-satellite-imessage-wwdc-2024)
- - [Apple announces watchOS 11 and a new training mode](https://www.theverge.com/2024/6/10/24170653/apple-watch-watchos-11-features-updates-wwdc)<!-- TECH:END -->
+ - [Apple made an iPad calculator app after 14 years](https://www.theverge.com/2024/6/10/24175487/ipad-calculator-app-ipados18-pencil-apple-wwdc2024)
+ - [iPadOS 18 gets Math Notes, your own handwriting, and a Calculator](https://appleinsider.com/articles/24/06/10/ipados-18-gets-math-notes-your-own-handwriting-and-a-calculator?utm_medium=rss)
+ - [visionOS 2.0 gets big upgrades with photo 3d processing, multiple 4K Mac screens &amp; more](https://appleinsider.com/articles/24/06/10/visionos-20-gets-big-upgrades-with-photo-3d-processing-multiple-4k-mac-screens-more?utm_medium=rss)
+ - [iOS 18 is here to help with more customization, Messages improvements &amp; more](https://appleinsider.com/articles/24/06/10/ios-18-is-here-to-help-with-more-customization-messages-improvements-more?utm_medium=rss)
+ - [Apple announces watchOS 11, adding a training mode that analyzes personal workout data, live activities, a new Vitals app, new safety features, and more &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/240610/p20#a240610p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

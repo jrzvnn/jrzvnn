@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So basically GTA Vice City](http://9gag.com/gag/a7oygMr)
- - 😝 [In Marseille, a young man got out of his car and calmly subdued a violent individual in front of two municipal policewomen who tried to stop him on Boulevard de la Lib\u00e9ration, saying: `Madame, shall I catch him for you?`](http://9gag.com/gag/a5QPg0L)
- - 💣 [I&#39;ve seen a lot of Karaoke videos lately so thought of this](http://9gag.com/gag/abAyoXL)
- - 😝 [Hehe..](http://9gag.com/gag/azxEvdx)
- - 👉 [I wonder why....](http://9gag.com/gag/a2vYA8d)<!-- MEMES:END -->
+ - 😝 [People in ground recording a Helicopter shooting to the ground](http://9gag.com/gag/ajP0wNx)
+ - 😝 [The flashlight in the daytime is all you need to determine their IQ .](http://9gag.com/gag/ayN0Ap8)
+ - 💣 [So basically GTA Vice City](http://9gag.com/gag/a7oygMr)
+ - 😝 [Which arrow will penetrate riot shields?](http://9gag.com/gag/ayN0r7p)
+ - 👉 [Hehe..](http://9gag.com/gag/azxEvdx)<!-- MEMES:END -->
 
 ---
 

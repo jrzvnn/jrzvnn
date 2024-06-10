@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [macOS Sequoia brings iPhone remote control and new Passwords app](https://appleinsider.com/articles/24/06/10/macos-sequoia-brings-iphone-remote-control-and-new-passwords-app?utm_medium=rss)
+ - [Apple fixes FaceTime sync &amp; keyboard issues with visionOS 1.2 release](https://appleinsider.com/articles/24/06/10/apple-fixes-facetime-sync-keyboard-issues-with-visionos-12-release?utm_medium=rss)
+ - [iOS 18 is here to help with more customization, Messages improvements &amp; more](https://appleinsider.com/articles/24/06/10/ios-18-is-here-to-help-with-more-customization-messages-improvements-more?utm_medium=rss)
+ - [watchOS 11 introduces improved health tracking &amp; Smart Stack widgets](https://appleinsider.com/articles/24/06/10/watchos-11-introduces-improved-health-tracking-rcs-support?utm_medium=rss)
  - [Apple Intelligence &amp; Private Cloud Compute are Apple&#39;s answer to generative AI](https://appleinsider.com/articles/24/06/10/apple-intelligence-private-cloud-compute-are-apples-answer-to-generative-ai?utm_medium=rss)
- - [Apple says Apple Intelligence is free and works with iOS 18 on iPhone 15 Pro, and macOS 15 and iPadOS 17 on devices with M1 or up; Vision Pro is not supported &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/240610/p32#a240610p32)
- - [Apple unveils its OpenAI deal, bringing ChatGPT&#39;s &quot;expertise&quot; to Siri and its other apps as an option, rolling out in 2024; users don&#39;t need an OpenAI account &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240610/p31#a240610p31)
- - [ChatGPT coming to iOS 18 for free later in 2024](https://appleinsider.com/articles/24/06/10/chatgpt-coming-to-ios-18-for-free-later-in-2024?utm_medium=rss)<!-- TECH:END -->
+ - [Game Porting Kit 2 is coming to the Mac, and so are more new big games](https://appleinsider.com/articles/24/06/10/game-porting-kit-2-is-coming-to-the-mac-and-so-are-more-new-big-games?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Real time Virtual streamer - The eye movement is crazy.](http://9gag.com/gag/aXPpQ4b)
- - 😝 [German green party lost almost half their voters in the EU elections - Look at their faces!](http://9gag.com/gag/ajP0vZQ)
- - 💣 [What will u slap her from?](http://9gag.com/gag/a2vY9zD)
- - 😝 [OSHA approved](http://9gag.com/gag/axyZQYn)
- - 👉 [She&#39;s been through hell for 8 months, but now she is safe and back home!](http://9gag.com/gag/aVvW42n)<!-- MEMES:END -->
+ - 😝 [The whole Palestinian victim mentality in one picture. No understanding of cause and effect, consequences and accountability, just like children. It\u2019s always the evil Jews. #FAFO](http://9gag.com/gag/adBYMYQ)
+ - 😝 [I wonder why....](http://9gag.com/gag/a2vYA8d)
+ - 💣 [So basically GTA Vice City](http://9gag.com/gag/a7oygMr)
+ - 😝 [Hehe..](http://9gag.com/gag/azxEvdx)
+ - 👉 [Which arrow will penetrate riot shields?](http://9gag.com/gag/ayN0r7p)<!-- MEMES:END -->
 
 ---
 

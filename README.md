@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [visionOS 2.0 gets big upgrades with photo 3d processing, multiple 4K Mac screens &amp; more](https://appleinsider.com/articles/24/06/10/visionos-20-gets-big-upgrades-with-photo-3d-processing-multiple-4k-mac-screens-more?utm_medium=rss)
- - [Apple announces iOS 18 with more customizable homescreen](https://www.theverge.com/2024/6/10/24172132/apple-ios-18-new-features-ai)
- - [Apple is finally launching the Vision Pro outside the US](https://www.theverge.com/2024/6/10/24173749/apple-wwdc-vision-pro-international-sales-availability-launch-price)
- - [Apple announces visionOS 2, with 3D photo transformations and ultrawide Mac display](https://www.theverge.com/2024/6/10/24171950/apple-vision-pro-wwdc-2024-visionos-2-first-party-native-apps)
- - [Apple teases new seasons of Severance and Silo](https://www.theverge.com/2024/6/10/24175308/apple-tv-plus-severance-silo-teaser-wwdc-2024)<!-- TECH:END -->
+ - [Apple to release Vision Pro in China, Japan, and Singapore on June 28 and then Australia, Canada, France, Germany, and the UK on July 12 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240610/p17#a240610p17)
+ - [Apple unveils iOS 18, adding more Home Screen customization, a Dark Mode for app icons, an updated Control Center, scheduled send for Messages, and more &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240610/p16#a240610p16)
+ - [Apple unveils visionOS 2, with a higher-res, ultra-wide Mac Virtual Display option later in 2024, regular photos gaining spatial depth, new gestures, and more &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/240610/p15#a240610p15)
+ - [iOS 18 is here to help with more customization, Messages improvements &amp; more](https://appleinsider.com/articles/24/06/10/ios-18-is-here-to-help-with-more-customization-messages-improvements-more?utm_medium=rss)
+ - [Apple Vision Pro is coming to eight more countries very soon](https://appleinsider.com/articles/24/06/10/apple-vision-pro-is-coming-to-eight-more-countries-very-soon?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

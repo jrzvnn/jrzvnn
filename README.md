@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The story behind this assassination is insane. Apparently the assassins didn\u2019t know they were killing somebody. They were hired to do pranks for a YouTube channel, a channel created by North Korean intel.](http://9gag.com/gag/aZZx5BW)
- - 😝 [She&#39;s been through hell for 8 months, but now she is safe and back home!](http://9gag.com/gag/aVvW42n)
- - 💣 [California Round Stingray](http://9gag.com/gag/aD23LrG)
- - 😝 [SWAT Sniper shoots through a computer monitor to take out armed man with 2 hostages inside Florida bank &lpar;blurred&rpar;](http://9gag.com/gag/a87YO4O)
- - 👉 [Nope](http://9gag.com/gag/aRBP8W5)<!-- MEMES:END -->
+ - 😝 [I identify as a black male](http://9gag.com/gag/aZZxX7n)
+ - 😝 [Oh no, the consequence of my actions](http://9gag.com/gag/a9yLwVW)
+ - 💣 [Which arrow will penetrate riot shields?](http://9gag.com/gag/ayN0r7p)
+ - 😝 [This is the only way from now on](http://9gag.com/gag/aRBPdwy)
+ - 👉 [This is a map of the E.U. election results in France tonight. The brown is for the `far-right` parties](http://9gag.com/gag/ae90w3Q)<!-- MEMES:END -->
 
 ---
 

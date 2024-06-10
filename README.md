@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I wonder why....](http://9gag.com/gag/a2vYA8d)
- - 😝 [Duhhh](http://9gag.com/gag/ary4rj6)
- - 💣 [You have stolen my dreams, and my childhood!](http://9gag.com/gag/axyZQOD)
- - 😝 [She&#39;s been through hell for 8 months, but now she is safe and back home!](http://9gag.com/gag/aVvW42n)
- - 👉 [Nope](http://9gag.com/gag/aRBP8W5)<!-- MEMES:END -->
+ - 😝 [Nope](http://9gag.com/gag/aRBP8W5)
+ - 😝 [The flashlight in the daytime is all you need to determine their IQ .](http://9gag.com/gag/ayN0Ap8)
+ - 💣 [Mariners, Ariel](http://9gag.com/gag/ayN0ZEX)
+ - 😝 [You have stolen my dreams, and my childhood!](http://9gag.com/gag/axyZQOD)
+ - 👉 [She&#39;s been through hell for 8 months, but now she is safe and back home!](http://9gag.com/gag/aVvW42n)<!-- MEMES:END -->
 
 ---
 

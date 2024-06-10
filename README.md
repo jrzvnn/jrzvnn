@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Whatever this is I&#39;m in](http://9gag.com/gag/an7K04n)
  - 😝 [So basically GTA Vice City](http://9gag.com/gag/a7oygMr)
- - 😝 [The whole Palestinian victim mentality in one picture. No understanding of cause and effect, consequences and accountability, just like children. It\u2019s always the evil Jews. #FAFO](http://9gag.com/gag/adBYMYQ)
- - 💣 [My weekend movie recommendation: The Raid 1 &lpar;2011&rpar; and The Raid 2 &lpar;2014&rpar;. Watch these foreign films in their original language with subtitles rather than the English dub. They inspired the John Wick series and are fast-paced, R-rated martial arts action movies.](http://9gag.com/gag/amo0O29)
- - 😝 [Which arrow will penetrate riot shields?](http://9gag.com/gag/ayN0r7p)
- - 👉 [Nope](http://9gag.com/gag/aRBP8W5)<!-- MEMES:END -->
+ - 💣 [California Round Stingray](http://9gag.com/gag/aD23LrG)
+ - 😝 [Well, well, well how the turntables](http://9gag.com/gag/aAyr9Bd)
+ - 👉 [This is a map of the E.U. election results in France tonight. The brown is for the `far-right` parties](http://9gag.com/gag/ae90w3Q)<!-- MEMES:END -->
 
 ---
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [All I Do Is Scroll Netflix Forever. Does That Count as Entertainment?](https://www.wired.com/story/cloud-support-all-i-do-is-scroll-netflix-does-that-count-as-entertainment/)
- - [How to watch WWDC 2024 on iPhone, iPad, Mac &amp; Apple TV](https://appleinsider.com/inside/wwdc/tips/how-to-watch-wwdc-2024-on-iphone-ipad-mac-apple-tv?utm_medium=rss)
- - [Frontier hackers threaten to release private data for at least 750,000 customers](https://www.theverge.com/2024/6/10/24175169/frontier-communications-hack-cyberattack-data-breach-ransom)
- - [Apple WWDC 2024 Live Blog: All the News as It Happens](https://www.wired.com/live/apple-wwdc-2024-live-blog/)
- - [A look at the problems of building AI products, like inaccurate answers, and potential solutions, like focusing on narrow domains and abstracting the outputs &lpar;Benedict Evans&rpar;](http://www.techmeme.com/240610/p5#a240610p5)<!-- TECH:END -->
+ - [Don&#39;t install Apple&#39;s new betas -- let others risk their devices](https://appleinsider.com/articles/24/06/10/dont-install-apples-new-betas----let-others-risk-their-devices?utm_medium=rss)
+ - [Who’s Afraid of &#39;Skibidi Toilet&#39;?](https://www.wired.com/story/whos-afraid-of-skibidi-toilet/)
+ - [How to watch Apple’s 2024 WWDC](https://www.theverge.com/2024/6/10/24171216/apple-wwdc-2024-date-time-how-to-watch)
+ - [Best Internet Providers in Texas     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-texas/#ftag=CAD590a51e)
+ - [PlayStation Days of Play Sale: Great Savings on the PS5 and Games, but Only for a Couple More Days     - CNET](https://www.cnet.com/deals/playstation-days-of-play-sale-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

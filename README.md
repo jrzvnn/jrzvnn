@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nope](http://9gag.com/gag/aRBP8W5)
- - 😝 [The whole Palestinian victim mentality in one picture. No understanding of cause and effect, consequences and accountability, just like children. It\u2019s always the evil Jews. #FAFO](http://9gag.com/gag/adBYMYQ)
- - 💣 [The primary reason to raise Social Security&#39;s normal retirement age is to reduce the long-term deficit..](http://9gag.com/gag/a9yLed6)
- - 😝 [We&#39;re in the wrong timeline boys](http://9gag.com/gag/aZZxYv9)
- - 👉 [Trust me, I&#39;m a engineer](http://9gag.com/gag/aAyrLAg)<!-- MEMES:END -->
+ - 😝 [So basically GTA Vice City](http://9gag.com/gag/a7oygMr)
+ - 😝 [The flashlight in the daytime is all you need to determine their IQ .](http://9gag.com/gag/ayN0Ap8)
+ - 💣 [Time comes when there are going to be no rules.](http://9gag.com/gag/ayN0rbV)
+ - 😝 [Which arrow will penetrate riot shields?](http://9gag.com/gag/ayN0r7p)
+ - 👉 [People in ground recording a Helicopter shooting to the ground](http://9gag.com/gag/ajP0wNx)<!-- MEMES:END -->
 
 ---
 

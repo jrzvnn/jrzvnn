@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Say what?](http://9gag.com/gag/a5QPg1o)
- - 😝 [Worker saves kitten from trash cutting machine](http://9gag.com/gag/ae908QW)
- - 💣 [California Round Stingray](http://9gag.com/gag/aD23LrG)
+ - 😝 [California Round Stingray](http://9gag.com/gag/aD23LrG)
+ - 😝 [Day 2 of vacation in Thailand](http://9gag.com/gag/aVvW678)
+ - 💣 [Hiker saves a woman struggling on the edge of a trail](http://9gag.com/gag/a87YgPY)
  - 😝 [Norwegian news was reporting on the success of far-right parties in Europe while the reason why was happening right behind him. These people have no respect.](http://9gag.com/gag/avygKrd)
- - 👉 [Who would\u2019ve thought that targeting the 3% of your audience and alienating your fanbase wouldn\u2019t make money. What a shocker. Die Disney!](http://9gag.com/gag/aqyNo87)<!-- MEMES:END -->
+ - 👉 [Which arrow will penetrate riot shields?](http://9gag.com/gag/ayN0r7p)<!-- MEMES:END -->
 
 ---
 

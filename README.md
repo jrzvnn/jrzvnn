@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Finger painting](http://9gag.com/gag/aYQW0O7)
- - 😝 [Be Honest](http://9gag.com/gag/amo04nX)
- - 💣 [Don&#39;t stop me now](http://9gag.com/gag/aD23eOO)
- - 😝 [Hard to find love nowadays](http://9gag.com/gag/an7KPGE)
- - 👉 [She kiIIed a 3-year-old white chiId and is now laughing about it in court. She deserves the chair. Nothing less.](http://9gag.com/gag/ae908pj)<!-- MEMES:END -->
+ - 😝 [The story behind this assassination is insane. Apparently the assassins didn\u2019t know they were killing somebody. They were hired to do pranks for a YouTube channel, a channel created by North Korean intel.](http://9gag.com/gag/aZZx5BW)
+ - 😝 [College liberals in France are not coping well with their party&#39;s recent crushing election defeat](http://9gag.com/gag/an7KPNB)
+ - 💣 [People in ground recording a Helicopter shooting to the ground](http://9gag.com/gag/ajP0wNx)
+ - 😝 [Transaction of the century](http://9gag.com/gag/aPA4LRg)
+ - 👉 [Vegan meth microdosing](http://9gag.com/gag/avygqvb)<!-- MEMES:END -->
 
 ---
 

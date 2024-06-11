@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Vision Pro, while a remarkable piece of tech, needs updates to avoid gathering dust, and WWDC&#39;s new features like 3D &quot;spatial photos&quot; are modest tweaks &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/240611/p9#a240611p9)
  - [UAE-based Tenderd, which uses AI to help reduce emissions, raised $30M led by Danish firm A.P. Moller, following a Peter Thiel-backed $5.8M seed in 2019 &lpar;Fahad Abuljadayel/Bloomberg&rpar;](http://www.techmeme.com/240611/p8#a240611p8)
  - [The Titan Submersible Disaster Shocked the World. The Exclusive Inside Story Is More Disturbing Than Anyone Imagined](https://www.wired.com/story/titan-submersible-disaster-inside-story-oceangate-files/)
  - [Apple details two Apple Intelligence models: a ~3B parameter on-device language model and a larger server-based model available with Private Cloud Compute &lpar;Apple Machine Learning Research&rpar;](http://www.techmeme.com/240611/p7#a240611p7)
- - [Apple&#39;s OpenAI partnership took up just two minutes of its one hour and 45 minute WWDC keynote, as the company focused on its own Apple Intelligence products &lpar;Nick Turner/Bloomberg&rpar;](http://www.techmeme.com/240611/p6#a240611p6)
- - [Raspberry Pi jumps by up to 39% on its London trading debut, hitting a &amp;pound;542M market cap, after pricing shares at &amp;pound;2.80, and expects to ship 8.4M PCs in 2024 &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/240611/p5#a240611p5)<!-- TECH:END -->
+ - [Apple&#39;s OpenAI partnership took up just two minutes of its one hour and 45 minute WWDC keynote, as the company focused on its own Apple Intelligence products &lpar;Nick Turner/Bloomberg&rpar;](http://www.techmeme.com/240611/p6#a240611p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

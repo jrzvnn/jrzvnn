@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [All three game console makers have now abandoned X](https://www.theverge.com/2024/6/11/24175932/nintendo-switch-console-x-twitter-integration-removed)
+ - [The Tech World’s Greatest Living Novelist, Robin Sloan, Goes Meta](https://www.wired.com/story/the-tech-worlds-greatest-living-novelist-robin-sloan-goes-meta/)
  - [iOS 18 gives iPhone 15 more charging limit tiers to protect the battery](https://appleinsider.com/articles/24/06/11/ios-18-gives-iphone-15-more-charging-limit-tiers-to-protect-the-battery?utm_medium=rss)
  - [Apple Vision Pro, while a remarkable piece of tech, needs updates to avoid gathering dust, and WWDC&#39;s new features like 3D &quot;spatial photos&quot; are modest tweaks &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/240611/p9#a240611p9)
- - [UAE-based Tenderd, which uses AI to help reduce emissions, raised $30M led by Danish firm A.P. Moller, following a Peter Thiel-backed $5.8M seed in 2019 &lpar;Fahad Abuljadayel/Bloomberg&rpar;](http://www.techmeme.com/240611/p8#a240611p8)
- - [The Titan Submersible Disaster Shocked the World. The Exclusive Inside Story Is More Disturbing Than Anyone Imagined](https://www.wired.com/story/titan-submersible-disaster-inside-story-oceangate-files/)
- - [Apple details two Apple Intelligence models: a ~3B parameter on-device language model and a larger server-based model available with Private Cloud Compute &lpar;Apple Machine Learning Research&rpar;](http://www.techmeme.com/240611/p7#a240611p7)<!-- TECH:END -->
+ - [UAE-based Tenderd, which uses AI to help reduce emissions, raised $30M led by Danish firm A.P. Moller, following a Peter Thiel-backed $5.8M seed in 2019 &lpar;Fahad Abuljadayel/Bloomberg&rpar;](http://www.techmeme.com/240611/p8#a240611p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

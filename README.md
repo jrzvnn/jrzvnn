@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Connections Hints and Answers: Help for June 11, #366     - CNET](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-and-answer-help-for-june-11-366/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints and Answer: Help for June 11, #1088     - CNET](https://www.cnet.com/tech/gaming/todays-wordle-hints-and-answer-help-for-june-11-1088/#ftag=CAD590a51e)
  - [As US federal lawmakers drag out AI regulation, states make a push with a flurry of bills; TechNet: state lawmakers have proposed ~400 AI laws in recent months &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/240610/p42#a240610p42)
  - [Apple Intelligence: What To Know About Apple&#39;s Gen AI video     - CNET](https://www.cnet.com/videos/apple-intelligence-what-to-know-about-apples-gen-ai/#ftag=CAD590a51e)
- - [Google lets advertisers serve targeted ads across Google TV&#39;s 125+ free channels, and reports 20M+ US monthly active Google TV and Android TV OS devices in 2023 &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/240610/p41#a240610p41)
- - [AI Is Apple’s Best Shot at Getting You to Upgrade Your iPhone](https://www.wired.com/story/ai-is-apples-best-shot-at-getting-you-to-upgrade-your-phone/)
- - [WWDC 2024 Recap: Apple Intelligence, iPhone Mirroring and more on the AppleInsider podcast](https://appleinsider.com/articles/24/06/11/wwdc-2024-recap-apple-intelligence-iphone-mirroring-and-more-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [Google lets advertisers serve targeted ads across Google TV&#39;s 125+ free channels, and reports 20M+ US monthly active Google TV and Android TV OS devices in 2023 &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/240610/p41#a240610p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How iOS 18 lets you neatly rearrange app icons and home screen widgets](https://appleinsider.com/articles/24/06/11/how-ios-18-lets-you-neatly-rearrange-app-icons-and-home-screen-widgets?utm_medium=rss)
+ - [Mobile driver’s licenses are coming to New York state starting June 11th](https://www.theverge.com/2024/6/11/24175681/new-york-state-mobile-id-drivers-license-now-available)
+ - [Tether&#39;s investment arm says it aims to invest $1B+ in financial infrastructure, AI, and biotech over the next year, after spending ~$2B over the past two years &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/240611/p19#a240611p19)
  - [Blackmagic Design has developed the first end-to-end solution for shooting Apple Vision Pro 3D content](https://appleinsider.com/articles/24/06/11/blackmagic-design-has-developed-the-first-end-to-end-solution-for-shooting-apple-vision-pro-3d-content?utm_medium=rss)
- - [Dragon Age: The Veilguard has more magic, color, and customizations](https://www.theverge.com/24176102/dragon-age-the-veilguard-preview-summer-game-fest-bioware)
- - [The Light Phone 3 is a little less light — but a lot more useful](https://www.theverge.com/2024/6/11/24176026/light-phone-3-launch-price-release-date)
- - [Microsoft’s new Outlook security changes impact third-party apps and Gmail integration](https://www.theverge.com/2024/6/11/24175917/microsoft-outlook-security-changes-secure-future-initiative)
- - [How iOS 18 lets you neatly rearrange app icons and home screen widgets](https://appleinsider.com/articles/24/06/11/how-ios-18-lets-you-neatly-rearrange-app-icons-and-home-screen-widgets?utm_medium=rss)<!-- TECH:END -->
+ - [Dragon Age: The Veilguard has more magic, color, and customizations](https://www.theverge.com/24176102/dragon-age-the-veilguard-preview-summer-game-fest-bioware)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

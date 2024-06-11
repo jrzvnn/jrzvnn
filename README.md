@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google&#39;s June Pixel drop brings Gemini Nano to Pixel 8 and 8a, updated HDR+ support for Pixel 6 and newer devices, car crash detection for Pixel Watch 2, more &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240611/p24#a240611p24)
  - [Sources: Intel plans a &quot;temporary&quot; construction delay on its $25B plant in Israel, as the company works to pace its investments in factories planned globally &lpar;Bloomberg&rpar;](http://www.techmeme.com/240611/p23#a240611p23)
  - [The latest Backbone One smartphone gamepad is $20 off for Father’s Day](https://www.theverge.com/2024/6/11/24175498/backbone-one-smartphone-iphone-android-game-controller-deal-sale)
  - [Ionna, the EV charging company backed by seven automakers, is beginning to take shape](https://www.theverge.com/24176160/ionna-ev-charging-dc-fast-headquarters-network)
- - [Apple’s new custom emoji come with climate costs](https://www.theverge.com/24176049/apple-ai-emoji-image-generation-climate-change)
- - [Apple says iOS 18, iPadOS 18, macOS Sequoia, and watchOS 11 will rebrand Apple ID to Apple Account &quot;for a consistent sign-in experience across Apple services&quot; &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/240611/p22#a240611p22)<!-- TECH:END -->
+ - [Apple’s new custom emoji come with climate costs](https://www.theverge.com/24176049/apple-ai-emoji-image-generation-climate-change)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The perfect keychain doesn&#39;t exi...](http://9gag.com/gag/aAyrzMp)
- - 😝 [Well, well, well how the turntables](http://9gag.com/gag/aAyr9Bd)
- - 💣 [Finished the job boss](http://9gag.com/gag/aoy07ew)
- - 😝 [We&#39;re in the wrong timeline boys](http://9gag.com/gag/aZZxYv9)
- - 👉 [Unexpected](http://9gag.com/gag/aO8bWm3)<!-- MEMES:END -->
+ - 😝 [Say what?](http://9gag.com/gag/a5QPg1o)
+ - 😝 [Worker saves kitten from trash cutting machine](http://9gag.com/gag/ae908QW)
+ - 💣 [California Round Stingray](http://9gag.com/gag/aD23LrG)
+ - 😝 [Norwegian news was reporting on the success of far-right parties in Europe while the reason why was happening right behind him. These people have no respect.](http://9gag.com/gag/avygKrd)
+ - 👉 [Who would\u2019ve thought that targeting the 3% of your audience and alienating your fanbase wouldn\u2019t make money. What a shocker. Die Disney!](http://9gag.com/gag/aqyNo87)<!-- MEMES:END -->
 
 ---
 

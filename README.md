@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Verge’s 2024 Father’s Day gift guide](https://www.theverge.com/24153276/best-fathers-day-gift-ideas-2024-dad-tech-gadgets)
  - [Google still recommends glue for your pizza](https://www.theverge.com/2024/6/11/24176490/mm-delicious-glue)
  - [iPad finally has a Calculator app - Here&#39;s everything it can do](https://appleinsider.com/articles/24/06/11/ipad-finally-has-a-calculator-app---heres-everything-it-can-do?utm_medium=rss)
  - [Can we artificially cool the planet? A major environmental group is spending millions to find out](https://www.theverge.com/2024/6/11/24176006/solar-geoengineering-envrionmental-defense-fund)
- - [Sonos&#39; Highly-Anticipated Ace Headphones Let You Take Immersive Sound Everywhere     - CNET](https://www.cnet.com/paid-content/news/sonos-highly-anticipated-ace-headphones-let-you-take-immersive-sound-everywhere/#ftag=CAD590a51e)
- - [Best TV Sales: Big Savings on LG, Samsung, Fire TVs and More     - CNET](https://www.cnet.com/deals/best-tv-sales/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sonos&#39; Highly-Anticipated Ace Headphones Let You Take Immersive Sound Everywhere     - CNET](https://www.cnet.com/paid-content/news/sonos-highly-anticipated-ace-headphones-let-you-take-immersive-sound-everywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

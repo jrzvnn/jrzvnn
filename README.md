@@ -171,10 +171,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The story behind this assassination is insane. Apparently the assassins didn\u2019t know they were killing somebody. They were hired to do pranks for a YouTube channel, a channel created by North Korean intel.](http://9gag.com/gag/aZZx5BW)
- - 😝 [People in ground recording a Helicopter shooting to the ground](http://9gag.com/gag/ajP0wNx)
- - 💣 [I know she&#39;s a witch and she might eat me, but...](http://9gag.com/gag/adBYwQV)
- - 😝 [American cheese doesn&#39;t split when melting](http://9gag.com/gag/azxE31p)
+ - 😝 [Say what?](http://9gag.com/gag/a5QPg1o)
+ - 😝 [I know she&#39;s a witch and she might eat me, but...](http://9gag.com/gag/adBYwQV)
+ - 💣 [Woman who randomly stabbed 3yo white boy smirked and mocked the victim&#39;s family in court](http://9gag.com/gag/aMVrMGP)
+ - 😝 [Didn&#39;t go as planned](http://9gag.com/gag/ajP042w)
  - 👉 [College liberals in France are not coping well with their party&#39;s recent crushing election defeat](http://9gag.com/gag/an7KPNB)<!-- MEMES:END -->
 
 ---

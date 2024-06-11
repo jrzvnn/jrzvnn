@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [GM pumps $850 million in Cruise to keep struggling robotaxi company afloat](https://www.theverge.com/2024/6/11/24176206/gm-cruise-invest-850-million-operational-cost-houston)
+ - [Sherlocked by Sequoia: What apps Apple may have killed in macOS and iOS 18](https://appleinsider.com/articles/24/06/11/sherlocked-by-sequoia-what-apps-apple-may-have-killed-in-macos-and-ios-18?utm_medium=rss)
  - [New Settings in iOS 18 will take some getting used to](https://appleinsider.com/inside/ios-18/tips/new-settings-in-ios-18-will-take-some-getting-used-to?utm_medium=rss)
  - [As it turns out, Apple Watch heart rate monitoring can be used on lions too](https://appleinsider.com/articles/24/06/11/as-it-turns-out-apple-watch-heart-rate-monitoring-can-be-used-on-lions-too?utm_medium=rss)
- - [Behind That Viral LA Billboard That Trolled Microsoft and Other Game Companies](https://www.wired.com/story/viral-billboard-troll-summer-game-fest/)
- - [Google&#39;s June Pixel drop brings Gemini Nano to Pixel 8 and 8a, updated HDR+ support for Pixel 6 and newer devices, car crash detection for Pixel Watch 2, more &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240611/p24#a240611p24)
- - [Best Deals on Earbuds and Headphones: Score Big Savings on Beats, Skullcandy and More     - CNET](https://www.cnet.com/deals/best-headphone-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Behind That Viral LA Billboard That Trolled Microsoft and Other Game Companies](https://www.wired.com/story/viral-billboard-troll-summer-game-fest/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

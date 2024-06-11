@@ -163,10 +163,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Tech execs and experts say Arm and Qualcomm&#39;s contract dispute could halt the shipment of new Arm-based PCs; the trial is scheduled to begin in December 2024 &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/240611/p4#a240611p4)
+ - [SSDI June 2024 Payment: Will Your Money Come This Week?     - CNET](https://www.cnet.com/personal-finance/ssdi-june-2024-payment-will-your-money-come-this-week/#ftag=CAD590a51e)
  - [Zero-knowledge cryptography firm Nexus Labs raised a $25M Series A co-led by Lightspeed Venture Partners and Pantera Capital &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/240611/p3#a240611p3)
- - [Atos chose a group led by Onepoint, its top shareholder, to take over the IT company; the group will invest &amp;euro;250M and convert &amp;euro;2.9B of Atos&#39; debt into shares &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/240611/p2#a240611p2)
- - [Danish Media Threatens to Sue OpenAI](https://www.wired.com/story/danish-media-demands-a-deal-with-openai-or-else/)
- - [A California administrative judge rejects Tesla&#39;s appeal to dismiss claims by CA&#39;s DMV alleging the company overstated its vehicles&#39; self-driving capabilities &lpar;Rachel Graf/Bloomberg&rpar;](http://www.techmeme.com/240611/p1#a240611p1)<!-- TECH:END -->
+ - [Atos picks a group led by Onepoint, its top shareholder, to take over the IT company; the group will invest &amp;euro;250M and convert &amp;euro;2.9B of Atos&#39; debt into shares &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/240611/p2#a240611p2)
+ - [Danish Media Threatens to Sue OpenAI](https://www.wired.com/story/danish-media-demands-a-deal-with-openai-or-else/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

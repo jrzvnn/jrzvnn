@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Time comes when there are going to be no rules.](http://9gag.com/gag/ayN0rbV)
- - 😝 [Random Indian tour guide speaking Japanese](http://9gag.com/gag/aZZx5RQ)
- - 💣 [Gay maker](http://9gag.com/gag/aYQW5Dw)
- - 😝 [She&#39;s so proud of herself for murdering a 3 year old.](http://9gag.com/gag/aMVrM2R)
- - 👉 [Peregrine Falcon, the fastest member of animal kingdom can reach a speed of 320 km/hr or 200 mph.](http://9gag.com/gag/amo0wdd)<!-- MEMES:END -->
+ - 😝 [That&#39;s fine](http://9gag.com/gag/aYQWX4w)
+ - 😝 [American cheese doesn&#39;t split when melting](http://9gag.com/gag/azxE31p)
+ - 💣 [California Round Stingray](http://9gag.com/gag/aD23LrG)
+ - 😝 [Which arrow will penetrate riot shields?](http://9gag.com/gag/ayN0r7p)
+ - 👉 [Well, well, well how the turntables](http://9gag.com/gag/aAyr9Bd)<!-- MEMES:END -->
 
 ---
 

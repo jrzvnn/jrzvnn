@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well this is awkward](http://9gag.com/gag/aD235DO)
- - 😝 [College liberals in France are not coping well with their party&#39;s recent crushing election defeat](http://9gag.com/gag/an7KPNB)
- - 💣 [Definitely has a point](http://9gag.com/gag/aW4W3GK)
- - 😝 [Traveling not driving](http://9gag.com/gag/a9yLG6Z)
- - 👉 [Vegan meth microdosing](http://9gag.com/gag/avygqvb)<!-- MEMES:END -->
+ - 😝 [Well, well, well how the turntables](http://9gag.com/gag/aAyr9Bd)
+ - 😝 [The science behind why your remote car key has a longer range when held to your head/body &lpar;or to a jar of water&rpar;](http://9gag.com/gag/aYQW3Em)
+ - 💣 [American cheese doesn&#39;t split when melting](http://9gag.com/gag/azxE31p)
+ - 😝 [People in ground recording a Helicopter shooting to the ground](http://9gag.com/gag/ajP0wNx)
+ - 👉 [Didn&#39;t go as planned](http://9gag.com/gag/ajP042w)<!-- MEMES:END -->
 
 ---
 

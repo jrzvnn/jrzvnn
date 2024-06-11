@@ -162,7 +162,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [All three game console makers have now abandoned X](https://www.theverge.com/2024/6/11/24175932/nintendo-switch-console-x-twitter-integration-removed)
+ - [All three game console makers have now abandoned X integration](https://www.theverge.com/2024/6/11/24175932/nintendo-switch-console-x-twitter-integration-removed)
  - [The Tech World’s Greatest Living Novelist, Robin Sloan, Goes Meta](https://www.wired.com/story/the-tech-worlds-greatest-living-novelist-robin-sloan-goes-meta/)
  - [iOS 18 gives iPhone 15 more charging limit tiers to protect the battery](https://appleinsider.com/articles/24/06/11/ios-18-gives-iphone-15-more-charging-limit-tiers-to-protect-the-battery?utm_medium=rss)
  - [Apple Vision Pro, while a remarkable piece of tech, needs updates to avoid gathering dust, and WWDC&#39;s new features like 3D &quot;spatial photos&quot; are modest tweaks &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/240611/p9#a240611p9)

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPad finally has a Calculator app - Here&#39;s everything it can do](https://appleinsider.com/articles/24/06/11/ipad-finally-has-a-calculator-app---heres-everything-it-can-do?utm_medium=rss)
  - [Can we artificially cool the planet? A major environmental group is spending millions to find out](https://www.theverge.com/2024/6/11/24176006/solar-geoengineering-envrionmental-defense-fund)
  - [Apple shares closed up 7.3% at $207.15 in their biggest one-day jump since November 2022, giving the company a $3.18T market cap, just under Microsoft&#39;s $3.22T &lpar;Ryan Vlastelica/Bloomberg&rpar;](http://www.techmeme.com/240611/p34#a240611p34)
  - [Elon Musk drops lawsuit against OpenAI](https://www.theverge.com/2024/6/11/24176462/elon-musk-openai-lawsuit-sam-altman-dropped)
- - [Paramount’s rumored merger with Skydance is off](https://www.theverge.com/2024/6/11/24148052/paramount-skydance-deal-not-happening)
- - [A profile of French secondhand tech marketplace Back Market, which has raised &amp;euro;930M+, generated &amp;euro;320M in 2023 sales, up 45% YoY, and had 4.5M new users in 2023 &lpar;Sarah Butler/The Guardian&rpar;](http://www.techmeme.com/240611/p33#a240611p33)<!-- TECH:END -->
+ - [Paramount’s rumored merger with Skydance is off](https://www.theverge.com/2024/6/11/24148052/paramount-skydance-deal-not-happening)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

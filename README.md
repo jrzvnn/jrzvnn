@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GM is investing another $850M into Cruise to help cover its operational costs as it slowly resumes testing its self-driving vehicles in some US cities &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/240611/p25#a240611p25)
+ - [X is about to start hiding all likes](https://www.theverge.com/2024/6/11/24176247/x-likes-hidden-private-rollout)
+ - [GM is investing another $850M into Cruise to help cover the startup&#39;s operational costs as it slowly resumes testing its self-driving vehicles in some US cities &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/240611/p25#a240611p25)
  - [SharePlay is coming to Apple TV, HomePods, and Bluetooth speakers](https://www.theverge.com/2024/6/11/24176146/apple-shareplay-homepod-apple-music-wwdc24)
  - [The best trailers of Summer Game Fest 2024](https://www.theverge.com/2024/6/11/24175240/summer-game-fest-2024-best-trailers)
- - [Best MacBook Deals: Save Hundreds on a MacBook Pro or MacBook Air Right Now     - CNET](https://www.cnet.com/deals/best-macbook-deals/#ftag=CAD590a51e)
- - [Amazon Prime Day 2024: Here&#39;s What You Need to Know About Amazon&#39;s Next Big Sale     - CNET](https://www.cnet.com/deals/amazon-prime-day/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best MacBook Deals: Save Hundreds on a MacBook Pro or MacBook Air Right Now     - CNET](https://www.cnet.com/deals/best-macbook-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

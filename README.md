@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Which arrow will penetrate riot shields?](http://9gag.com/gag/ayN0r7p)
  - 😝 [People in ground recording a Helicopter shooting to the ground](http://9gag.com/gag/ajP0wNx)
- - 💣 [American cheese doesn&#39;t split when melting](http://9gag.com/gag/azxE31p)
- - 😝 [Does fentanyl give you superpowers now?](http://9gag.com/gag/a4PdOqy)
- - 👉 [College liberals in France are not coping well with their party&#39;s recent crushing election defeat](http://9gag.com/gag/an7KPNB)<!-- MEMES:END -->
+ - 😝 [American cheese doesn&#39;t split when melting](http://9gag.com/gag/azxE31p)
+ - 💣 [Which arrow will penetrate riot shields?](http://9gag.com/gag/ayN0r7p)
+ - 😝 [College liberals in France are not coping well with their party&#39;s recent crushing election defeat](http://9gag.com/gag/an7KPNB)
+ - 👉 [Does fentanyl give you superpowers now?](http://9gag.com/gag/a4PdOqy)<!-- MEMES:END -->
 
 ---
 

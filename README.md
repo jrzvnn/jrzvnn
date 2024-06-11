@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Say what?](http://9gag.com/gag/a5QPg1o)
- - 😝 [I know she&#39;s a witch and she might eat me, but...](http://9gag.com/gag/adBYwQV)
- - 💣 [Woman who randomly stabbed 3yo white boy smirked and mocked the victim&#39;s family in court](http://9gag.com/gag/aMVrMGP)
- - 😝 [Didn&#39;t go as planned](http://9gag.com/gag/ajP042w)
- - 👉 [College liberals in France are not coping well with their party&#39;s recent crushing election defeat](http://9gag.com/gag/an7KPNB)<!-- MEMES:END -->
+ - 😝 [Finger painting](http://9gag.com/gag/aYQW0O7)
+ - 😝 [Be Honest](http://9gag.com/gag/amo04nX)
+ - 💣 [Don&#39;t stop me now](http://9gag.com/gag/aD23eOO)
+ - 😝 [Hard to find love nowadays](http://9gag.com/gag/an7KPGE)
+ - 👉 [She kiIIed a 3-year-old white chiId and is now laughing about it in court. She deserves the chair. Nothing less.](http://9gag.com/gag/ae908pj)<!-- MEMES:END -->
 
 ---
 

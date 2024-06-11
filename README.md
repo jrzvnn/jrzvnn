@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [French patriots: \u201cIslam out of Europe!\u201d Do you agree?](http://9gag.com/gag/a0eLqwB)
- - 😝 [We&#39;re in the wrong timeline boys](http://9gag.com/gag/aZZxYv9)
- - 💣 [People in ground recording a Helicopter shooting to the ground](http://9gag.com/gag/ajP0wNx)
- - 😝 [College liberals in France are not coping well with their party&#39;s recent crushing election defeat](http://9gag.com/gag/an7KPNB)
- - 👉 [Norwegian news was reporting on the success of far-right parties in Europe while the reason why was happening right behind him. These people have no respect.](http://9gag.com/gag/avygKrd)<!-- MEMES:END -->
+ - 😝 [Got it in two\u2026](http://9gag.com/gag/aYQWXXm)
+ - 😝 [People in ground recording a Helicopter shooting to the ground](http://9gag.com/gag/ajP0wNx)
+ - 💣 [Didn&#39;t go as planned](http://9gag.com/gag/ajP042w)
+ - 😝 [Meanwhile, Germany after the elections...](http://9gag.com/gag/azxEWmK)
+ - 👉 [Does fentanyl give you superpowers now?](http://9gag.com/gag/a4PdOqy)<!-- MEMES:END -->
 
 ---
 

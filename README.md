@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WWDC 2024 Recap: Apple Intelligence, iPhone Mirroring and more on the AppleInsider podcast](https://appleinsider.com/articles/24/06/11/wwdc-2024-recap-apple-intelligence-iphone-mirroring-and-more-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Q&amp;A with Phil Spencer on the Xbox Games Showcase 2024, studio closures and layoffs, multi-platform games, Game Pass, a possible Xbox handheld, and more &lpar;Wesley Yin-Poole/IGN&rpar;](http://www.techmeme.com/240610/p40#a240610p40)
+ - [In posts that seem to misunderstand Apple&#39;s deal with OpenAI, Elon Musk threatens to ban Apple devices from his companies over Apple&#39;s ChatGPT integrations &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240610/p39#a240610p39)
  - [Apple says its Private Cloud Compute for AI processing is built with custom Apple silicon, and independent experts can inspect the code that runs on its servers &lpar;Kyle Orland/Ars Technica&rpar;](http://www.techmeme.com/240610/p38#a240610p38)
- - [Apple&#39;s Biggest AI Challenge? Making It Behave](https://www.wired.com/story/apple-intelligence-ios-macos-ai-openai/)
- - [Google is ready to fill free streaming TV channels with ads](https://www.theverge.com/2024/6/10/24175676/google-fast-ads-streaming-tv-network)
- - [Apple says iOS 18 will let users record and transcribe phone calls, and call participants will be automatically notified that they&#39;re being recorded &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240610/p37#a240610p37)
- - [Safari 18 includes a new Highlights feature for summarizing articles and more](https://appleinsider.com/articles/24/06/10/safari-18-includes-a-new-highlights-feature-for-summarizing-articles-and-more?utm_medium=rss)<!-- TECH:END -->
+ - [Apple’s Biggest AI Challenge? Making It Behave](https://www.wired.com/story/apple-intelligence-ios-macos-ai-openai/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

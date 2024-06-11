@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Norwegian news was reporting on the success of far-right parties in Europe while the reason why was happening right behind him. These people have no respect.](http://9gag.com/gag/avygKrd)
- - 😝 [Why don&#39;t women like to share?](http://9gag.com/gag/amo0y2V)
- - 💣 [Which arrow will penetrate riot shields?](http://9gag.com/gag/ayN0r7p)
- - 😝 [People in ground recording a Helicopter shooting to the ground](http://9gag.com/gag/ajP0wNx)
- - 👉 [Day 2 of vacation in Thailand](http://9gag.com/gag/aVvW678)<!-- MEMES:END -->
+ - 😝 [Time comes when there are going to be no rules.](http://9gag.com/gag/ayN0rbV)
+ - 😝 [Random Indian tour guide speaking Japanese](http://9gag.com/gag/aZZx5RQ)
+ - 💣 [Gay maker](http://9gag.com/gag/aYQW5Dw)
+ - 😝 [She&#39;s so proud of herself for murdering a 3 year old.](http://9gag.com/gag/aMVrM2R)
+ - 👉 [Peregrine Falcon, the fastest member of animal kingdom can reach a speed of 320 km/hr or 200 mph.](http://9gag.com/gag/amo0wdd)<!-- MEMES:END -->
 
 ---
 

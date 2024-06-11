@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [17 Best Wireless Earbuds, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-wirefree-earbuds/)
- - [Spotify’s HiFi add-on could cost an extra $5 per month](https://www.theverge.com/2024/6/11/24175980/spotify-hifi-add-on-cost-extra-lossless-audio-supremium)
- - [Yahoo Mail is adding more AI to simplify desktop email](https://www.theverge.com/2024/6/11/24175280/yahoo-mail-generative-ai-gmail)
- - [Q&amp;A with Tim Cook on how AI will help users &quot;save time&quot;, sticking to Apple&#39;s values, the Apple Intelligence name, hallucinations, OpenAI, journalism, and more &lpar;Josh Tyrangiel/Washington Post&rpar;](http://www.techmeme.com/240611/p14#a240611p14)
- - [Apple&#39;s AI features are quintessentially Apple and probably take the right approach, but many won&#39;t launch until 2025; new Siri is missing from the iOS 18 beta &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240611/p13#a240611p13)<!-- TECH:END -->
+ - [Apple ID is getting a rebrand starting with the release of iOS 18](https://appleinsider.com/articles/24/06/11/starting-with-the-release-of-ios-18-apple-id-is-getting-a-rebrand?utm_medium=rss)
+ - [Tiled window management comes to macOS Sequoia, but it&#39;s hidden](https://appleinsider.com/articles/24/06/11/tiled-window-management-comes-to-macos-sequoia-but-its-hidden?utm_medium=rss)
+ - [How to adjust the flashlight&#39;s focus and beam shape in iOS 18](https://appleinsider.com/inside/ios-18/tips/how-to-adjust-the-flashlights-focus-and-beam-shape-in-ios-18?utm_medium=rss)
+ - [As the EU&#39;s MiCA crypto regulation takes effect on June 30, the industry remains uncertain about the ramifications; some stablecoin rules arrive in late 2024 &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/240611/p15#a240611p15)
+ - [17 Best Wireless Earbuds, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-wirefree-earbuds/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

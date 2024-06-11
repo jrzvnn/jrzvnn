@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Intelligence, iPhones, and the rest of WWDC 2024](https://www.theverge.com/2024/6/11/24176008/apple-intelligence-siri-iphone-ipad-wwdc-2024)
  - [Apple ID is getting a rebrand starting with the release of iOS 18](https://appleinsider.com/articles/24/06/11/starting-with-the-release-of-ios-18-apple-id-is-getting-a-rebrand?utm_medium=rss)
+ - [Cyberhaven, which uses AI to help companies predict employee behavior and avoid insider threats, raised $88M led by Adams Street Partners at a $488M valuation &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/240611/p16#a240611p16)
  - [Tiled window management comes to macOS Sequoia, but it&#39;s hidden](https://appleinsider.com/articles/24/06/11/tiled-window-management-comes-to-macos-sequoia-but-its-hidden?utm_medium=rss)
- - [How to adjust the flashlight&#39;s focus and beam shape in iOS 18](https://appleinsider.com/inside/ios-18/tips/how-to-adjust-the-flashlights-focus-and-beam-shape-in-ios-18?utm_medium=rss)
- - [As the EU&#39;s MiCA crypto regulation takes effect on June 30, the industry remains uncertain about the ramifications; some stablecoin rules arrive in late 2024 &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/240611/p15#a240611p15)
- - [17 Best Wireless Earbuds, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-wirefree-earbuds/)<!-- TECH:END -->
+ - [How to adjust the flashlight&#39;s focus and beam shape in iOS 18](https://appleinsider.com/inside/ios-18/tips/how-to-adjust-the-flashlights-focus-and-beam-shape-in-ios-18?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

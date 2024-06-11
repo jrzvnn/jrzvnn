@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [IT\u2019S MONDAY!!](http://9gag.com/gag/amo0ZQo)
- - 😝 [Hiker saves a woman struggling on the edge of a trail](http://9gag.com/gag/a87YgPY)
- - 💣 [Norwegian news was reporting on the success of far-right parties in Europe while the reason why was happening right behind him. These people have no respect.](http://9gag.com/gag/avygKrd)
- - 😝 [Day 2 of vacation in Thailand](http://9gag.com/gag/aVvW678)
- - 👉 [Don&#39;t let Spidey down. Hold nothing back.](http://9gag.com/gag/aAyrz5L)<!-- MEMES:END -->
+ - 😝 [Worker saves kitten from trash cutting machine](http://9gag.com/gag/ae908QW)
+ - 😝 [Don&#39;t let Spidey down. Hold nothing back.](http://9gag.com/gag/aAyrz5L)
+ - 💣 [Well, well, well how the turntables](http://9gag.com/gag/aAyr9Bd)
+ - 😝 [People in ground recording a Helicopter shooting to the ground](http://9gag.com/gag/ajP0wNx)
+ - 👉 [Didn&#39;t go as planned](http://9gag.com/gag/ajP042w)<!-- MEMES:END -->
 
 ---
 

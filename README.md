@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple IDs are becoming Apple Accounts](https://www.theverge.com/2024/6/11/24176140/apple-ids-accounts-wwdc-2024)
- - [Paris-based photo-sharing app BeReal has been acquired by video game and app developer Voodoo for &amp;euro;500M; Voodoo&#39;s Aymeric Roff&amp;eacute; will become BeReal&#39;s CEO &lpar;Financial Times&rpar;](http://www.techmeme.com/240611/p20#a240611p20)
- - [Apple skipped over the best visionOS 2 updates](https://www.theverge.com/2024/6/11/24175689/apple-vision-pro-2-wwdc-2024-keynote-best-updates)
- - [Arcane gets a trailer for its second and final  season](https://www.theverge.com/24172175/arcane-league-of-legends-season-2-trailer-netflix)
- - [Here’s 15 minutes of Dragon Age: The Veilguard gameplay](https://www.theverge.com/24176005/dragon-age-the-veilguard-gameplay-trailer-summer-game-fest-2024)<!-- TECH:END -->
+ - [Apple’s new custom emoji come with climate costs](https://www.theverge.com/24176049/apple-ai-emoji-image-generation-climate-change)
+ - [Apple says iOS 18, iPadOS 18, macOS Sequoia, and watchOS 11 will rebrand Apple ID to Apple Account &quot;for a consistent sign-in experience across Apple services&quot; &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/240611/p22#a240611p22)
+ - [US Leaders Dodge Questions About Israel’s Influence Campaign](https://www.wired.com/story/israel-us-disinformation-us-lawmakers/)
+ - [The Top New Features in Apple’s iOS 18 and iPadOS 18](https://www.wired.com/story/apple-iphone-ios-18-ipados-18-new-features/)
+ - [Best Google Pixel Phone &lpar;2024&rpar;: Which Model to Buy, Cases and Accessories, Feature Drops](https://www.wired.com/story/best-google-pixel-phone/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

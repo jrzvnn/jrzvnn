@@ -171,10 +171,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Worker saves kitten from trash cutting machine](http://9gag.com/gag/ae908QW)
+ - 😝 [Random Indian tour guide speaking Japanese](http://9gag.com/gag/aZZx5RQ)
+ - 😝 [Transaction of the century](http://9gag.com/gag/aPA4LRg)
+ - 💣 [People in ground recording a Helicopter shooting to the ground](http://9gag.com/gag/ajP0wNx)
  - 😝 [Don&#39;t let Spidey down. Hold nothing back.](http://9gag.com/gag/aAyrz5L)
- - 💣 [Well, well, well how the turntables](http://9gag.com/gag/aAyr9Bd)
- - 😝 [People in ground recording a Helicopter shooting to the ground](http://9gag.com/gag/ajP0wNx)
  - 👉 [Didn&#39;t go as planned](http://9gag.com/gag/ajP042w)<!-- MEMES:END -->
 
 ---

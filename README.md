@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UAE-based Tenderd, which uses AI to help reduce emissions, raised $30M led by Danish firm A.P. Moller, following a Peter Thiel-backed $5.8M seed in 2019 &lpar;Fahad Abuljadayel/Bloomberg&rpar;](http://www.techmeme.com/240611/p8#a240611p8)
+ - [The Titan Submersible Disaster Shocked the World. The Exclusive Inside Story Is More Disturbing Than Anyone Imagined](https://www.wired.com/story/titan-submersible-disaster-inside-story-oceangate-files/)
  - [Apple details two Apple Intelligence models: a ~3B parameter on-device language model and a larger server-based model available with Private Cloud Compute &lpar;Apple Machine Learning Research&rpar;](http://www.techmeme.com/240611/p7#a240611p7)
  - [Apple&#39;s OpenAI partnership took up just two minutes of its one hour and 45 minute WWDC keynote, as the company focused on its own Apple Intelligence products &lpar;Nick Turner/Bloomberg&rpar;](http://www.techmeme.com/240611/p6#a240611p6)
- - [Raspberry Pi jumps by up to 39% on its London trading debut, hitting a &amp;pound;542M market cap, after pricing shares at &amp;pound;2.80, and expects to ship 8.4M PCs in 2024 &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/240611/p5#a240611p5)
- - [The best thing about Jabra’s new earbuds is the case](https://www.theverge.com/2024/6/11/24175608/jabra-elite-10-8-active-gen-2-case-features)
- - [Tech execs and experts say Arm and Qualcomm&#39;s contract dispute could halt the shipment of new Arm-based PCs; the trial is scheduled to begin in December 2024 &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/240611/p4#a240611p4)<!-- TECH:END -->
+ - [Raspberry Pi jumps by up to 39% on its London trading debut, hitting a &amp;pound;542M market cap, after pricing shares at &amp;pound;2.80, and expects to ship 8.4M PCs in 2024 &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/240611/p5#a240611p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

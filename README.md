@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That one friend who doesn&#39;t take anything seriously.](http://9gag.com/gag/aW4W5XA)
- - 😝 [Day 2 of vacation in Thailand](http://9gag.com/gag/aVvW678)
- - 💣 [Woman who randomly stabbed 3yo white boy smirked and mocked the victim&#39;s family in court](http://9gag.com/gag/aMVrMGP)
- - 😝 [College liberals in France are not coping well with their party&#39;s recent crushing election defeat](http://9gag.com/gag/an7KPNB)
- - 👉 [American cheese doesn&#39;t split when melting](http://9gag.com/gag/azxE31p)<!-- MEMES:END -->
+ - 😝 [She kiIIed a 3-year-old white chiId and is now laughing about it in court. She deserves the chair. Nothing less.](http://9gag.com/gag/ae908pj)
+ - 😝 [Worker saves kitten from trash cutting machine](http://9gag.com/gag/ae908QW)
+ - 💣 [Don&#39;t stop me now](http://9gag.com/gag/aD23eOO)
+ - 😝 [Be Honest](http://9gag.com/gag/amo04nX)
+ - 👉 [Hard to find love nowadays](http://9gag.com/gag/an7KPGE)<!-- MEMES:END -->
 
 ---
 

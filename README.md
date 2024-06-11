@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok Shop is huge for the beauty industry](https://www.theverge.com/2024/6/11/24176221/tiktok-shop-beauty-wellness-industry-growth-ecommerce)
+ - [Did startup Flow Computing just make CPUs 100x faster? Here’s the white paper and FAQs](https://www.theverge.com/2024/6/11/24176304/flow-computing-startup-parallel-processing-accelerator)
  - [Current and former OpenAI staff are increasingly worried about the company&#39;s power over their equity, with no IPO in sight, restrictive company policies, more &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/240611/p28#a240611p28)
  - [YouTube will finally let creators test multiple thumbnails at once](https://www.theverge.com/2024/6/11/24176325/youtube-thumbnails-test-compare-a-b)
- - [Microsoft is removing the Custom GPT Builder feature from the consumer version of Copilot Pro on July 10, just three months after launching the feature &lpar;Usama Jawad/XDA Developers&rpar;](http://www.techmeme.com/240611/p27#a240611p27)
- - [Dutch agencies: 20K+ FortiGate systems were hacked in a Chinese cyber-espionage campaign in 2022 and 2023, at least two months before FortiGate noted the flaw &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240611/p26#a240611p26)
- - [The 30 Best Movies on Max &lpar;aka HBO Max&rpar; Right Now &lpar;June 2024&rpar;](https://www.wired.com/story/best-movies-hbo-max-right-now/)<!-- TECH:END -->
+ - [Microsoft is removing the Custom GPT Builder feature from the consumer version of Copilot Pro on July 10, just three months after launching the feature &lpar;Usama Jawad/XDA Developers&rpar;](http://www.techmeme.com/240611/p27#a240611p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

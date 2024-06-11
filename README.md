@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [People in ground recording a Helicopter shooting to the ground](http://9gag.com/gag/ajP0wNx)
- - 😝 [American cheese doesn&#39;t split when melting](http://9gag.com/gag/azxE31p)
- - 💣 [Which arrow will penetrate riot shields?](http://9gag.com/gag/ayN0r7p)
- - 😝 [College liberals in France are not coping well with their party&#39;s recent crushing election defeat](http://9gag.com/gag/an7KPNB)
- - 👉 [Does fentanyl give you superpowers now?](http://9gag.com/gag/a4PdOqy)<!-- MEMES:END -->
+ - 😝 [IT\u2019S MONDAY!!](http://9gag.com/gag/amo0ZQo)
+ - 😝 [Hiker saves a woman struggling on the edge of a trail](http://9gag.com/gag/a87YgPY)
+ - 💣 [Norwegian news was reporting on the success of far-right parties in Europe while the reason why was happening right behind him. These people have no respect.](http://9gag.com/gag/avygKrd)
+ - 😝 [Day 2 of vacation in Thailand](http://9gag.com/gag/aVvW678)
+ - 👉 [Don&#39;t let Spidey down. Hold nothing back.](http://9gag.com/gag/aAyrz5L)<!-- MEMES:END -->
 
 ---
 

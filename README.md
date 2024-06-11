@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Which arrow will penetrate riot shields?](http://9gag.com/gag/ayN0r7p)
+ - 😝 [People in ground recording a Helicopter shooting to the ground](http://9gag.com/gag/ajP0wNx)
+ - 💣 [American cheese doesn&#39;t split when melting](http://9gag.com/gag/azxE31p)
  - 😝 [Does fentanyl give you superpowers now?](http://9gag.com/gag/a4PdOqy)
- - 😝 [Hiker saves a woman struggling on the edge of a trail](http://9gag.com/gag/a87YgPY)
- - 💣 [Vegan meth microdosing](http://9gag.com/gag/avygqvb)
- - 😝 [College liberals in France are not coping well with their party&#39;s recent crushing election defeat](http://9gag.com/gag/an7KPNB)
- - 👉 [Didn&#39;t go as planned](http://9gag.com/gag/ajP042w)<!-- MEMES:END -->
+ - 👉 [College liberals in France are not coping well with their party&#39;s recent crushing election defeat](http://9gag.com/gag/an7KPNB)<!-- MEMES:END -->
 
 ---
 

@@ -171,10 +171,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well, well, well how the turntables](http://9gag.com/gag/aAyr9Bd)
- - 😝 [The science behind why your remote car key has a longer range when held to your head/body &lpar;or to a jar of water&rpar;](http://9gag.com/gag/aYQW3Em)
- - 💣 [American cheese doesn&#39;t split when melting](http://9gag.com/gag/azxE31p)
- - 😝 [People in ground recording a Helicopter shooting to the ground](http://9gag.com/gag/ajP0wNx)
+ - 😝 [American cheese doesn&#39;t split when melting](http://9gag.com/gag/azxE31p)
+ - 😝 [College liberals in France are not coping well with their party&#39;s recent crushing election defeat](http://9gag.com/gag/an7KPNB)
+ - 💣 [Day 2 of vacation in Thailand](http://9gag.com/gag/aVvW678)
+ - 😝 [Bad Prank](http://9gag.com/gag/aZZx613)
  - 👉 [Didn&#39;t go as planned](http://9gag.com/gag/ajP042w)<!-- MEMES:END -->
 
 ---

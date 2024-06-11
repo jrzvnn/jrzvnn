@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Day 2 of vacation in Thailand](http://9gag.com/gag/aVvW678)
- - 😝 [American cheese doesn&#39;t split when melting](http://9gag.com/gag/azxE31p)
+ - 😝 [If it&#39;s black...](http://9gag.com/gag/aKGPMd1)
+ - 😝 [Does fentanyl give you superpowers now?](http://9gag.com/gag/a4PdOqy)
  - 💣 [Woman who randomly stabbed 3yo white boy smirked and mocked the victim&#39;s family in court](http://9gag.com/gag/aMVrMGP)
- - 😝 [College liberals in France are not coping well with their party&#39;s recent crushing election defeat](http://9gag.com/gag/an7KPNB)
- - 👉 [People in ground recording a Helicopter shooting to the ground](http://9gag.com/gag/ajP0wNx)<!-- MEMES:END -->
+ - 😝 [The story behind this assassination is insane. Apparently the assassins didn\u2019t know they were killing somebody. They were hired to do pranks for a YouTube channel, a channel created by North Korean intel.](http://9gag.com/gag/aZZx5BW)
+ - 👉 [Didn&#39;t go as planned](http://9gag.com/gag/ajP042w)<!-- MEMES:END -->
 
 ---
 

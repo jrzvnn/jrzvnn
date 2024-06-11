@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Tim Cook on how AI will help users &quot;save time&quot;, sticking to Apple&#39;s values, the Apple Intelligence name, hallucinations, OpenAI, journalism, and more &lpar;Josh Tyrangiel/Washington Post&rpar;](http://www.techmeme.com/240611/p14#a240611p14)
+ - [Apple&#39;s AI features are quintessentially Apple and probably take the right approach, but many won&#39;t launch until 2025; new Siri is missing from the iOS 18 beta &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240611/p13#a240611p13)
  - [7 Best External Hard Drives &lpar;2024&rpar;: SSDs, Hard Drives, Rugged](https://www.wired.com/story/best-portable-external-storage-drives/)
  - [What&#39;s new with macOS Sequoia&#39;s System Settings](https://appleinsider.com/articles/24/06/11/whats-new-with-macos-sequoias-system-settings?utm_medium=rss)
- - [Sources: Spotify plans to launch a higher-priced premium monthly plan later in 2024, charging $5+ more for better audio, playlist and library tools, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/240611/p12#a240611p12)
- - [iOS 18 Passwords app can&#39;t import passwords, but macOS can](https://appleinsider.com/articles/24/06/11/ios-18-passwords-app-cant-import-passwords-but-macos-can?utm_medium=rss)
- - [Paris-based AI startup Mistral raised &amp;euro;600M led by General Catalyst, sources say comprising &amp;euro;468M in equity and &amp;euro;132M in debt at a &amp;euro;5.8B valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/240611/p11#a240611p11)<!-- TECH:END -->
+ - [Sources: Spotify plans to launch a higher-priced premium monthly plan later in 2024, charging $5+ more for better audio, playlist and library tools, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/240611/p12#a240611p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

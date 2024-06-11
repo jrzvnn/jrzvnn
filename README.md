@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tim Cook spills the beans on Apple Intelligence&#39;s use of OpenAI, and AI hallucinations](https://appleinsider.com/articles/24/06/11/tim-cook-spills-the-beans-on-apple-intelligences-use-of-openai-and-ai-hallucinations?utm_medium=rss)
  - [Discord’s Rythm music bot returns with a mission to overhaul shared listening](https://www.theverge.com/2024/6/11/24175920/discord-rythm-music-bot-returns-shared-listening)
  - [Tim Cook is ‘not 100 percent’ sure Apple can stop AI hallucinations](https://www.theverge.com/2024/6/11/24176035/tim-cook-apple-stop-ai-hallucinations)
  - [How to install the iOS 18 and iPadOS developer betas](https://www.theverge.com/24175976/ios-18-developer-public-betas-install-how-to)
- - [There&#39;s an AI Candidate Running for Parliament in the UK](https://www.wired.com/story/ai-candidate-running-for-parliament-uk/)
- - [Zack Snyder’s Rebel Moon director’s cut hits Netflix in August](https://www.theverge.com/2024/6/11/24176041/zack-snyder-rebel-moon-directors-cut-netflix-date)<!-- TECH:END -->
+ - [There’s an AI Candidate Running for Parliament in the UK](https://www.wired.com/story/ai-candidate-running-for-parliament-uk/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

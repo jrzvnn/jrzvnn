@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Got it in two\u2026](http://9gag.com/gag/aYQWXXm)
- - 😝 [People in ground recording a Helicopter shooting to the ground](http://9gag.com/gag/ajP0wNx)
- - 💣 [Didn&#39;t go as planned](http://9gag.com/gag/ajP042w)
- - 😝 [Meanwhile, Germany after the elections...](http://9gag.com/gag/azxEWmK)
- - 👉 [Does fentanyl give you superpowers now?](http://9gag.com/gag/a4PdOqy)<!-- MEMES:END -->
+ - 😝 [Day 2 of vacation in Thailand](http://9gag.com/gag/aVvW678)
+ - 😝 [American cheese doesn&#39;t split when melting](http://9gag.com/gag/azxE31p)
+ - 💣 [Woman who randomly stabbed 3yo white boy smirked and mocked the victim&#39;s family in court](http://9gag.com/gag/aMVrMGP)
+ - 😝 [College liberals in France are not coping well with their party&#39;s recent crushing election defeat](http://9gag.com/gag/an7KPNB)
+ - 👉 [People in ground recording a Helicopter shooting to the ground](http://9gag.com/gag/ajP0wNx)<!-- MEMES:END -->
 
 ---
 

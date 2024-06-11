@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple stock hits new record high after Apple Intelligence reveals](https://appleinsider.com/articles/24/06/11/apple-stock-hits-new-record-high-after-apple-intelligence-reveals?utm_medium=rss)
- - [It’s time to BeAcquired for €500 million](https://www.theverge.com/2024/6/11/24176333/bereal-acquired-500-million-voodoo)
- - [Apple Mail in iOS 18 introduces on-device email categorization, Smart Replies, and summaries](https://appleinsider.com/articles/24/06/11/apple-mail-in-ios-18-introduces-on-device-email-categorization-smart-replies-and-summaries?utm_medium=rss)
- - [Best Buy is laying off more employees as it reckons with falling sales](https://www.theverge.com/2024/6/11/24174810/best-buy-layoffs-sales-teams)
- - [TikTok Shop is huge for the beauty industry](https://www.theverge.com/2024/6/11/24176221/tiktok-shop-beauty-wellness-industry-growth-ecommerce)<!-- TECH:END -->
+ - [Elon Musk drops lawsuit against OpenAI](https://www.theverge.com/2024/6/11/24176462/elon-musk-openai-lawsuit-sam-altman-dropped)
+ - [Paramount’s rumored merger with Skydance is off](https://www.theverge.com/2024/6/11/24148052/paramount-skydance-deal-not-happening)
+ - [A profile of French secondhand tech marketplace Back Market, which has raised &amp;euro;930M+, generated &amp;euro;320M in 2023 sales, up 45% YoY, and had 4.5M new users in 2023 &lpar;Sarah Butler/The Guardian&rpar;](http://www.techmeme.com/240611/p33#a240611p33)
+ - [Apple AirPods fall to $79.99, grab discounts of up to $100 off](https://appleinsider.com/articles/24/06/11/apple-airpods-fall-to-7999-grab-discounts-of-up-to-100-off?utm_medium=rss)
+ - [Elon Musk withdraws his lawsuit against OpenAI, Sam Altman, and Greg Brockman, filed in California court in February, for breach of contract and fiduciary duty &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/240611/p32#a240611p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

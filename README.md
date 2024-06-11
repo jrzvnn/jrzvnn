@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo drops X support from the Switch via a new firmware update, following Sony and Microsoft doing the same in 2023 after X began charging for API usage &lpar;Wesley Yin-Poole/IGN&rpar;](http://www.techmeme.com/240611/p10#a240611p10)
- - [Fitbit Ace LTE Review: The Best Kid&#39;s Smartwatch](https://www.wired.com/review/fitbit-ace-lte/)
- - [All three game console makers have now abandoned X integration](https://www.theverge.com/2024/6/11/24175932/nintendo-switch-console-x-twitter-integration-removed)
- - [The Tech World’s Greatest Living Novelist, Robin Sloan, Goes Meta](https://www.wired.com/story/the-tech-worlds-greatest-living-novelist-robin-sloan-goes-meta/)
- - [iOS 18 gives iPhone 15 more charging limit tiers to protect the battery](https://appleinsider.com/articles/24/06/11/ios-18-gives-iphone-15-more-charging-limit-tiers-to-protect-the-battery?utm_medium=rss)<!-- TECH:END -->
+ - [7 Best External Hard Drives &lpar;2024&rpar;: SSDs, Hard Drives, Rugged](https://www.wired.com/story/best-portable-external-storage-drives/)
+ - [What&#39;s new with macOS Sequoia&#39;s System Settings](https://appleinsider.com/articles/24/06/11/whats-new-with-macos-sequoias-system-settings?utm_medium=rss)
+ - [Sources: Spotify plans to launch a higher-priced premium monthly plan later in 2024, charging $5+ more for better audio, playlist and library tools, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/240611/p12#a240611p12)
+ - [iOS 18 Passwords app can&#39;t import passwords, but macOS can](https://appleinsider.com/articles/24/06/11/ios-18-passwords-app-cant-import-passwords-but-macos-can?utm_medium=rss)
+ - [Paris-based AI startup Mistral raised &amp;euro;600M led by General Catalyst, sources say comprising &amp;euro;468M in equity and &amp;euro;132M in debt at a &amp;euro;5.8B valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/240611/p11#a240611p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

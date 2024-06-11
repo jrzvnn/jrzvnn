@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GM pumps $850 million in Cruise to keep struggling robotaxi company afloat](https://www.theverge.com/2024/6/11/24176206/gm-cruise-invest-850-million-operational-cost-houston)
- - [Sherlocked by Sequoia: What apps Apple may have killed in macOS and iOS 18](https://appleinsider.com/articles/24/06/11/sherlocked-by-sequoia-what-apps-apple-may-have-killed-in-macos-and-ios-18?utm_medium=rss)
- - [New Settings in iOS 18 will take some getting used to](https://appleinsider.com/inside/ios-18/tips/new-settings-in-ios-18-will-take-some-getting-used-to?utm_medium=rss)
- - [As it turns out, Apple Watch heart rate monitoring can be used on lions too](https://appleinsider.com/articles/24/06/11/as-it-turns-out-apple-watch-heart-rate-monitoring-can-be-used-on-lions-too?utm_medium=rss)
- - [Behind That Viral LA Billboard That Trolled Microsoft and Other Game Companies](https://www.wired.com/story/viral-billboard-troll-summer-game-fest/)<!-- TECH:END -->
+ - [GM is investing another $850M into Cruise to help cover its operational costs as it slowly resumes testing its self-driving vehicles in some US cities &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/240611/p25#a240611p25)
+ - [SharePlay is coming to Apple TV, HomePods, and Bluetooth speakers](https://www.theverge.com/2024/6/11/24176146/apple-shareplay-homepod-apple-music-wwdc24)
+ - [The best trailers of Summer Game Fest 2024](https://www.theverge.com/2024/6/11/24175240/summer-game-fest-2024-best-trailers)
+ - [Best MacBook Deals: Save Hundreds on a MacBook Pro or MacBook Air Right Now     - CNET](https://www.cnet.com/deals/best-macbook-deals/#ftag=CAD590a51e)
+ - [Amazon Prime Day 2024: Here&#39;s What You Need to Know About Amazon&#39;s Next Big Sale     - CNET](https://www.cnet.com/deals/amazon-prime-day/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

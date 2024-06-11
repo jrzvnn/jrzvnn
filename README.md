@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [California Round Stingray](http://9gag.com/gag/aD23LrG)
- - 😝 [So basically GTA Vice City](http://9gag.com/gag/a7oygMr)
- - 💣 [Definitely has a point](http://9gag.com/gag/aW4W3GK)
- - 😝 [I have 2 dogs](http://9gag.com/gag/aMVr5rX)
- - 👉 [People in ground recording a Helicopter shooting to the ground](http://9gag.com/gag/ajP0wNx)<!-- MEMES:END -->
+ - 😝 [The perfect keychain doesn&#39;t exi...](http://9gag.com/gag/aAyrzMp)
+ - 😝 [That one friend who doesn&#39;t take anything seriously.](http://9gag.com/gag/aW4W5XA)
+ - 💣 [Well, well, well how the turntables](http://9gag.com/gag/aAyr9Bd)
+ - 😝 [Finished the job boss](http://9gag.com/gag/aoy07ew)
+ - 👉 [She kiIIed a 3-year-old white chiId and is now laughing about it in court. She deserves the chair. Nothing less.](http://9gag.com/gag/ae908pj)<!-- MEMES:END -->
 
 ---
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [X is about to start hiding all likes](https://www.theverge.com/2024/6/11/24176247/x-likes-hidden-private-rollout)
- - [GM is investing another $850M into Cruise to help cover the startup&#39;s operational costs as it slowly resumes testing its self-driving vehicles in some US cities &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/240611/p25#a240611p25)
- - [SharePlay is coming to Apple TV, HomePods, and Bluetooth speakers](https://www.theverge.com/2024/6/11/24176146/apple-shareplay-homepod-apple-music-wwdc24)
- - [The best trailers of Summer Game Fest 2024](https://www.theverge.com/2024/6/11/24175240/summer-game-fest-2024-best-trailers)
- - [Best MacBook Deals: Save Hundreds on a MacBook Pro or MacBook Air Right Now     - CNET](https://www.cnet.com/deals/best-macbook-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [YouTube will finally let creators test multiple thumbnails at once](https://www.theverge.com/2024/6/11/24176325/youtube-thumbnails-test-compare-a-b)
+ - [Microsoft is removing the Custom GPT Builder feature from the consumer version of Copilot Pro on July 10, just three months after launching the feature &lpar;Usama Jawad/XDA Developers&rpar;](http://www.techmeme.com/240611/p27#a240611p27)
+ - [Dutch agencies: 20K+ FortiGate systems were hacked in a Chinese cyber-espionage campaign in 2022 and 2023, at least two months before FortiGate noted the flaw &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240611/p26#a240611p26)
+ - [The 30 Best Movies on Max &lpar;aka HBO Max&rpar; Right Now &lpar;June 2024&rpar;](https://www.wired.com/story/best-movies-hbo-max-right-now/)
+ - [For a Limited Time Only, Get 60% Off This 7-in-1 USB-C Hub     - CNET](https://www.cnet.com/deals/for-a-limited-time-only-get-60-off-this-7-in-1-usb-c-hub/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

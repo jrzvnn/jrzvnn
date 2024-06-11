@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple skipped over the best visionOS 2 updates](https://www.theverge.com/2024/6/11/24175689/apple-vision-pro-2-wwdc-2024-keynote-best-updates)
+ - [Arcane gets a trailer for its second and final  season](https://www.theverge.com/24172175/arcane-league-of-legends-season-2-trailer-netflix)
+ - [Here’s 15 minutes of Dragon Age: The Veilguard gameplay](https://www.theverge.com/24176005/dragon-age-the-veilguard-gameplay-trailer-summer-game-fest-2024)
  - [How iOS 18 lets you neatly rearrange app icons and home screen widgets](https://appleinsider.com/articles/24/06/11/how-ios-18-lets-you-neatly-rearrange-app-icons-and-home-screen-widgets?utm_medium=rss)
- - [Mobile driver’s licenses are coming to New York state starting June 11th](https://www.theverge.com/2024/6/11/24175681/new-york-state-mobile-id-drivers-license-now-available)
- - [Tether&#39;s investment arm says it aims to invest $1B+ in financial infrastructure, AI, and biotech over the next year, after spending ~$2B over the past two years &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/240611/p19#a240611p19)
- - [Blackmagic Design has developed the first end-to-end solution for shooting Apple Vision Pro 3D content](https://appleinsider.com/articles/24/06/11/blackmagic-design-has-developed-the-first-end-to-end-solution-for-shooting-apple-vision-pro-3d-content?utm_medium=rss)
- - [Dragon Age: The Veilguard has more magic, color, and customizations](https://www.theverge.com/24176102/dragon-age-the-veilguard-preview-summer-game-fest-bioware)<!-- TECH:END -->
+ - [Mobile driver’s licenses are coming to New York state starting June 11th](https://www.theverge.com/2024/6/11/24175681/new-york-state-mobile-id-drivers-license-now-available)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New Settings in iOS 18 will take some getting used to](https://appleinsider.com/inside/ios-18/tips/new-settings-in-ios-18-will-take-some-getting-used-to?utm_medium=rss)
+ - [As it turns out, Apple Watch heart rate monitoring can be used on lions too](https://appleinsider.com/articles/24/06/11/as-it-turns-out-apple-watch-heart-rate-monitoring-can-be-used-on-lions-too?utm_medium=rss)
+ - [Behind That Viral LA Billboard That Trolled Microsoft and Other Game Companies](https://www.wired.com/story/viral-billboard-troll-summer-game-fest/)
  - [Google&#39;s June Pixel drop brings Gemini Nano to Pixel 8 and 8a, updated HDR+ support for Pixel 6 and newer devices, car crash detection for Pixel Watch 2, more &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240611/p24#a240611p24)
- - [Best Deals on Earbuds and Headphones: Score Big Savings on Beats, Skullcandy and More     - CNET](https://www.cnet.com/deals/best-headphone-deals/#ftag=CAD590a51e)
- - [Sources: Intel plans a &quot;temporary&quot; construction delay on its $25B plant in Israel, as the company works to pace its investments in factories planned globally &lpar;Bloomberg&rpar;](http://www.techmeme.com/240611/p23#a240611p23)
- - [The latest Backbone One smartphone gamepad is $20 off for Father’s Day](https://www.theverge.com/2024/6/11/24175498/backbone-one-smartphone-iphone-android-game-controller-deal-sale)
- - [Apple Intelligence Is the Future: So Why Isn&#39;t It on Apple&#39;s Most Futuristic Product Yet?     - CNET](https://www.cnet.com/tech/computing/apple-intelligence-is-the-future-so-why-is-it-not-on-apples-most-futuristic-product-yet/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Deals on Earbuds and Headphones: Score Big Savings on Beats, Skullcandy and More     - CNET](https://www.cnet.com/deals/best-headphone-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

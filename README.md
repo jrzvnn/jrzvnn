@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Raspberry Pi jumps by up to 39% on its London trading debut, hitting a &amp;pound;542M market cap, after pricing shares at &amp;pound;2.80, and expects to ship 8.4M PCs in 2024 &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/240611/p5#a240611p5)
  - [The best thing about Jabra’s new earbuds is the case](https://www.theverge.com/2024/6/11/24175608/jabra-elite-10-8-active-gen-2-case-features)
  - [Tech execs and experts say Arm and Qualcomm&#39;s contract dispute could halt the shipment of new Arm-based PCs; the trial is scheduled to begin in December 2024 &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/240611/p4#a240611p4)
  - [Apple Just Made AI on Phones Relevant. Google Needs to Take Note     - CNET](https://www.cnet.com/tech/services-and-software/apple-just-made-ai-on-phones-relevant-google-needs-to-take-notes/#ftag=CAD590a51e)
- - [SSDI June 2024 Payment: Will Your Money Come This Week?     - CNET](https://www.cnet.com/personal-finance/ssdi-june-2024-payment-will-your-money-come-this-week/#ftag=CAD590a51e)
- - [Zero-knowledge cryptography firm Nexus Labs raised a $25M Series A co-led by Lightspeed Venture Partners and Pantera Capital &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/240611/p3#a240611p3)<!-- TECH:END -->
+ - [SSDI June 2024 Payment: Will Your Money Come This Week?     - CNET](https://www.cnet.com/personal-finance/ssdi-june-2024-payment-will-your-money-come-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -171,10 +171,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I\u2019m Im doing ma part. Vote^^ empower your future](http://9gag.com/gag/aBy3zdz)
  - 😝 [Day 2 of vacation in Thailand](http://9gag.com/gag/aVvW678)
- - 😝 [Worker saves kitten from trash cutting machine](http://9gag.com/gag/ae908QW)
- - 💣 [College liberals in France are not coping well with their party&#39;s recent crushing election defeat](http://9gag.com/gag/an7KPNB)
- - 😝 [Norwegian news was reporting on the success of far-right parties in Europe while the reason why was happening right behind him. These people have no respect.](http://9gag.com/gag/avygKrd)
+ - 💣 [Norwegian news was reporting on the success of far-right parties in Europe while the reason why was happening right behind him. These people have no respect.](http://9gag.com/gag/avygKrd)
+ - 😝 [Self-leveling Concrete Waves](http://9gag.com/gag/ae90zWb)
  - 👉 [People in ground recording a Helicopter shooting to the ground](http://9gag.com/gag/ajP0wNx)<!-- MEMES:END -->
 
 ---

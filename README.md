@@ -171,10 +171,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [California Round Stingray](http://9gag.com/gag/aD23LrG)
- - 😝 [Day 2 of vacation in Thailand](http://9gag.com/gag/aVvW678)
- - 💣 [Hiker saves a woman struggling on the edge of a trail](http://9gag.com/gag/a87YgPY)
- - 😝 [Norwegian news was reporting on the success of far-right parties in Europe while the reason why was happening right behind him. These people have no respect.](http://9gag.com/gag/avygKrd)
+ - 😝 [Hiker saves a woman struggling on the edge of a trail](http://9gag.com/gag/a87YgPY)
+ - 😝 [Oh Canada... As usual...](http://9gag.com/gag/a6Zy6bq)
+ - 💣 [Norwegian news was reporting on the success of far-right parties in Europe while the reason why was happening right behind him. These people have no respect.](http://9gag.com/gag/avygKrd)
+ - 😝 [Tired of this shit.](http://9gag.com/gag/aAyrzLd)
  - 👉 [Which arrow will penetrate riot shields?](http://9gag.com/gag/ayN0r7p)<!-- MEMES:END -->
 
 ---

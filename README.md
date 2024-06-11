@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oregon rodeo bull jumps into crowd](http://9gag.com/gag/abAyn1p)
- - 😝 [Definitely has a point](http://9gag.com/gag/aW4W3GK)
- - 💣 [Peter Porco, who, after being struck 16 times with an axe, regained consciousness, got out of bed, went through his morning routine, retrieved the morning paper, locked himself out of the house, and let himself back in with a spare key before eventually falling dead in the foyer.](http://9gag.com/gag/apR07vM)
- - 😝 [Day 2 of vacation in Thailand](http://9gag.com/gag/aVvW678)
- - 👉 [American cheese doesn&#39;t split when melting](http://9gag.com/gag/azxE31p)<!-- MEMES:END -->
+ - 😝 [California Round Stingray](http://9gag.com/gag/aD23LrG)
+ - 😝 [So basically GTA Vice City](http://9gag.com/gag/a7oygMr)
+ - 💣 [Definitely has a point](http://9gag.com/gag/aW4W3GK)
+ - 😝 [I have 2 dogs](http://9gag.com/gag/aMVr5rX)
+ - 👉 [People in ground recording a Helicopter shooting to the ground](http://9gag.com/gag/ajP0wNx)<!-- MEMES:END -->
 
 ---
 

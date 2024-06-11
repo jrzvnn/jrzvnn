@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Well this is awkward](http://9gag.com/gag/aD235DO)
  - 😝 [College liberals in France are not coping well with their party&#39;s recent crushing election defeat](http://9gag.com/gag/an7KPNB)
- - 😝 [When the game&#39;s AI is playing with you. A 10-year old game w/ better AI than today&#39;s releases.](http://9gag.com/gag/aE014x9)
- - 💣 [French patriots: \u201cIslam out of Europe!\u201d Do you agree?](http://9gag.com/gag/a0eLqwB)
- - 😝 [Day 2 of vacation in Thailand](http://9gag.com/gag/aVvW678)
- - 👉 [IT\u2019S MONDAY!!](http://9gag.com/gag/amo0ZQo)<!-- MEMES:END -->
+ - 💣 [Definitely has a point](http://9gag.com/gag/aW4W3GK)
+ - 😝 [Traveling not driving](http://9gag.com/gag/a9yLG6Z)
+ - 👉 [Vegan meth microdosing](http://9gag.com/gag/avygqvb)<!-- MEMES:END -->
 
 ---
 

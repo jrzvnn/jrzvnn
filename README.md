@@ -163,10 +163,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Sources: Samsung is combining its AI-focused research centers in Toronto and Mountain View to improve operations; ex-Apple exec Murat Akbacak will run the group &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240611/p35#a240611p35)
+ - [Best OnePlus Open Deals: Save $300 or More on This Sleek Foldable     - CNET](https://www.cnet.com/deals/best-oneplus-open-deals/#ftag=CAD590a51e)
  - [The Verge’s 2024 Father’s Day gift guide](https://www.theverge.com/24153276/best-fathers-day-gift-ideas-2024-dad-tech-gadgets)
- - [Google still recommends glue for your pizza](https://www.theverge.com/2024/6/11/24176490/mm-delicious-glue)
- - [iPad finally has a Calculator app - Here&#39;s everything it can do](https://appleinsider.com/articles/24/06/11/ipad-finally-has-a-calculator-app---heres-everything-it-can-do?utm_medium=rss)
- - [Can we artificially cool the planet? A major environmental group is spending millions to find out](https://www.theverge.com/2024/6/11/24176006/solar-geoengineering-envrionmental-defense-fund)<!-- TECH:END -->
+ - [18 Best Father&#39;s Day Gifts for New Dads and Soon-to-Be Dads     - CNET](https://www.cnet.com/news/fathers-day-gifts-for-new-dads/#ftag=CAD590a51e)
+ - [Google still recommends glue for your pizza](https://www.theverge.com/2024/6/11/24176490/mm-delicious-glue)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

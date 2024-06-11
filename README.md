@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best thing about Jabra’s new earbuds is the case](https://www.theverge.com/2024/6/11/24175608/jabra-elite-10-8-active-gen-2-case-features)
  - [Tech execs and experts say Arm and Qualcomm&#39;s contract dispute could halt the shipment of new Arm-based PCs; the trial is scheduled to begin in December 2024 &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/240611/p4#a240611p4)
+ - [Apple Just Made AI on Phones Relevant. Google Needs to Take Note     - CNET](https://www.cnet.com/tech/services-and-software/apple-just-made-ai-on-phones-relevant-google-needs-to-take-notes/#ftag=CAD590a51e)
  - [SSDI June 2024 Payment: Will Your Money Come This Week?     - CNET](https://www.cnet.com/personal-finance/ssdi-june-2024-payment-will-your-money-come-this-week/#ftag=CAD590a51e)
- - [Zero-knowledge cryptography firm Nexus Labs raised a $25M Series A co-led by Lightspeed Venture Partners and Pantera Capital &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/240611/p3#a240611p3)
- - [Atos picks a group led by Onepoint, its top shareholder, to take over the IT company; the group will invest &amp;euro;250M and convert &amp;euro;2.9B of Atos&#39; debt into shares &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/240611/p2#a240611p2)
- - [Danish Media Threatens to Sue OpenAI](https://www.wired.com/story/danish-media-demands-a-deal-with-openai-or-else/)<!-- TECH:END -->
+ - [Zero-knowledge cryptography firm Nexus Labs raised a $25M Series A co-led by Lightspeed Venture Partners and Pantera Capital &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/240611/p3#a240611p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

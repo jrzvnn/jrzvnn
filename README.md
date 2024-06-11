@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok Shop is huge for the beauty industry](https://www.theverge.com/2024/6/11/24176221/tiktok-shop-beauty-wellness-industry-growth-ecommerce)
- - [Did startup Flow Computing just make CPUs 100x faster? Here’s the white paper and FAQs](https://www.theverge.com/2024/6/11/24176304/flow-computing-startup-parallel-processing-accelerator)
- - [Current and former OpenAI staff are increasingly worried about the company&#39;s power over their equity, with no IPO in sight, restrictive company policies, more &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/240611/p28#a240611p28)
- - [YouTube will finally let creators test multiple thumbnails at once](https://www.theverge.com/2024/6/11/24176325/youtube-thumbnails-test-compare-a-b)
- - [Microsoft is removing the Custom GPT Builder feature from the consumer version of Copilot Pro on July 10, just three months after launching the feature &lpar;Usama Jawad/XDA Developers&rpar;](http://www.techmeme.com/240611/p27#a240611p27)<!-- TECH:END -->
+ - [Apple stock hits new record high after Apple Intelligence reveals](https://appleinsider.com/articles/24/06/11/apple-stock-hits-new-record-high-after-apple-intelligence-reveals?utm_medium=rss)
+ - [It’s time to BeAcquired for €500 million](https://www.theverge.com/2024/6/11/24176333/bereal-acquired-500-million-voodoo)
+ - [Apple Mail in iOS 18 introduces on-device email categorization, Smart Replies, and summaries](https://appleinsider.com/articles/24/06/11/apple-mail-in-ios-18-introduces-on-device-email-categorization-smart-replies-and-summaries?utm_medium=rss)
+ - [Best Buy is laying off more employees as it reckons with falling sales](https://www.theverge.com/2024/6/11/24174810/best-buy-layoffs-sales-teams)
+ - [TikTok Shop is huge for the beauty industry](https://www.theverge.com/2024/6/11/24176221/tiktok-shop-beauty-wellness-industry-growth-ecommerce)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

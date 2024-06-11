@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Finished the job boss](http://9gag.com/gag/aoy07ew)
- - 😝 [We&#39;re in the wrong timeline boys](http://9gag.com/gag/aZZxYv9)
- - 💣 [The perfect keychain doesn&#39;t exi...](http://9gag.com/gag/aAyrzMp)
- - 😝 [Unexpected](http://9gag.com/gag/aO8bWm3)
- - 👉 [Finger painting](http://9gag.com/gag/aYQW0O7)<!-- MEMES:END -->
+ - 😝 [Transaction of the century](http://9gag.com/gag/aPA4LRg)
+ - 😝 [Worker saves kitten from trash cutting machine](http://9gag.com/gag/ae908QW)
+ - 💣 [Why are you like this](http://9gag.com/gag/a5QP31V)
+ - 😝 [California Round Stingray](http://9gag.com/gag/aD23LrG)
+ - 👉 [American cheese doesn&#39;t split when melting](http://9gag.com/gag/azxE31p)<!-- MEMES:END -->
 
 ---
 

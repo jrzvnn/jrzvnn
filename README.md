@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Traveling not driving](http://9gag.com/gag/a9yLG6Z)
  - 😝 [Day 2 of vacation in Thailand](http://9gag.com/gag/aVvW678)
- - 💣 [Doom: The Dark Ages - I just came](http://9gag.com/gag/aZZxX8Q)
- - 😝 [Hiker saves a woman struggling on the edge of a trail](http://9gag.com/gag/a87YgPY)
- - 👉 [We&#39;re in the wrong timeline boys](http://9gag.com/gag/aZZxYv9)<!-- MEMES:END -->
+ - 😝 [This is a map of the E.U. election results in France tonight. The brown is for the `far-right` parties](http://9gag.com/gag/ae90w3Q)
+ - 💣 [The story behind this assassination is insane. Apparently the assassins didn\u2019t know they were killing somebody. They were hired to do pranks for a YouTube channel, a channel created by North Korean intel.](http://9gag.com/gag/aZZx5BW)
+ - 😝 [People in ground recording a Helicopter shooting to the ground](http://9gag.com/gag/ajP0wNx)
+ - 👉 [Well, well, well how the turntables](http://9gag.com/gag/aAyr9Bd)<!-- MEMES:END -->
 
 ---
 

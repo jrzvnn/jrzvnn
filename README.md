@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Be Honest](http://9gag.com/gag/amo04nX)
- - 😝 [Don&#39;t stop me now](http://9gag.com/gag/aD23eOO)
- - 💣 [She kiIIed a 3-year-old white chiId and is now laughing about it in court. She deserves the chair. Nothing less.](http://9gag.com/gag/ae908pj)
- - 😝 [Hard to find love nowadays](http://9gag.com/gag/an7KPGE)
- - 👉 [Comedy is just timing](http://9gag.com/gag/aGyw4dX)<!-- MEMES:END -->
+ - 😝 [French patriots: \u201cIslam out of Europe!\u201d Do you agree?](http://9gag.com/gag/a0eLqwB)
+ - 😝 [We&#39;re in the wrong timeline boys](http://9gag.com/gag/aZZxYv9)
+ - 💣 [People in ground recording a Helicopter shooting to the ground](http://9gag.com/gag/ajP0wNx)
+ - 😝 [College liberals in France are not coping well with their party&#39;s recent crushing election defeat](http://9gag.com/gag/an7KPNB)
+ - 👉 [Norwegian news was reporting on the success of far-right parties in Europe while the reason why was happening right behind him. These people have no respect.](http://9gag.com/gag/avygKrd)<!-- MEMES:END -->
 
 ---
 

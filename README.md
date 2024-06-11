@@ -163,10 +163,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Google&#39;s June Pixel drop brings Gemini Nano to Pixel 8 and 8a, updated HDR+ support for Pixel 6 and newer devices, car crash detection for Pixel Watch 2, more &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240611/p24#a240611p24)
+ - [Best Deals on Earbuds and Headphones: Score Big Savings on Beats, Skullcandy and More     - CNET](https://www.cnet.com/deals/best-headphone-deals/#ftag=CAD590a51e)
  - [Sources: Intel plans a &quot;temporary&quot; construction delay on its $25B plant in Israel, as the company works to pace its investments in factories planned globally &lpar;Bloomberg&rpar;](http://www.techmeme.com/240611/p23#a240611p23)
  - [The latest Backbone One smartphone gamepad is $20 off for Father’s Day](https://www.theverge.com/2024/6/11/24175498/backbone-one-smartphone-iphone-android-game-controller-deal-sale)
- - [Ionna, the EV charging company backed by seven automakers, is beginning to take shape](https://www.theverge.com/24176160/ionna-ev-charging-dc-fast-headquarters-network)
- - [Apple’s new custom emoji come with climate costs](https://www.theverge.com/24176049/apple-ai-emoji-image-generation-climate-change)<!-- TECH:END -->
+ - [Apple Intelligence Is the Future: So Why Isn&#39;t It on Apple&#39;s Most Futuristic Product Yet?     - CNET](https://www.cnet.com/tech/computing/apple-intelligence-is-the-future-so-why-is-it-not-on-apples-most-futuristic-product-yet/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

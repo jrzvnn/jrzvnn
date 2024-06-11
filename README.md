@@ -172,10 +172,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The perfect keychain doesn&#39;t exi...](http://9gag.com/gag/aAyrzMp)
- - 😝 [That one friend who doesn&#39;t take anything seriously.](http://9gag.com/gag/aW4W5XA)
- - 💣 [Well, well, well how the turntables](http://9gag.com/gag/aAyr9Bd)
- - 😝 [Finished the job boss](http://9gag.com/gag/aoy07ew)
- - 👉 [She kiIIed a 3-year-old white chiId and is now laughing about it in court. She deserves the chair. Nothing less.](http://9gag.com/gag/ae908pj)<!-- MEMES:END -->
+ - 😝 [Well, well, well how the turntables](http://9gag.com/gag/aAyr9Bd)
+ - 💣 [Finished the job boss](http://9gag.com/gag/aoy07ew)
+ - 😝 [We&#39;re in the wrong timeline boys](http://9gag.com/gag/aZZxYv9)
+ - 👉 [Unexpected](http://9gag.com/gag/aO8bWm3)<!-- MEMES:END -->
 
 ---
 

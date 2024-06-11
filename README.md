@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well, well, well how the turntables](http://9gag.com/gag/aAyr9Bd)
- - 😝 [Norwegian news was reporting on the success of far-right parties in Europe while the reason why was happening right behind him. These people have no respect.](http://9gag.com/gag/avygKrd)
- - 💣 [California Round Stingray](http://9gag.com/gag/aD23LrG)
- - 😝 [Peter Porco, who, after being struck 16 times with an axe, regained consciousness, got out of bed, went through his morning routine, retrieved the morning paper, locked himself out of the house, and let himself back in with a spare key before eventually falling dead in the foyer.](http://9gag.com/gag/apR07vM)
- - 👉 [American cheese doesn&#39;t split when melting](http://9gag.com/gag/azxE31p)<!-- MEMES:END -->
+ - 😝 [That one friend who doesn&#39;t take anything seriously.](http://9gag.com/gag/aW4W5XA)
+ - 😝 [Transaction of the century](http://9gag.com/gag/aPA4LRg)
+ - 💣 [People in ground recording a Helicopter shooting to the ground](http://9gag.com/gag/ajP0wNx)
+ - 😝 [American cheese doesn&#39;t split when melting](http://9gag.com/gag/azxE31p)
+ - 👉 [Norwegian news was reporting on the success of far-right parties in Europe while the reason why was happening right behind him. These people have no respect.](http://9gag.com/gag/avygKrd)<!-- MEMES:END -->
 
 ---
 

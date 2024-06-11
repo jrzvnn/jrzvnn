@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ionna, the EV charging company backed by seven automakers, is beginning to take shape](https://www.theverge.com/24176160/ionna-ev-charging-dc-fast-headquarters-network)
  - [Apple’s new custom emoji come with climate costs](https://www.theverge.com/24176049/apple-ai-emoji-image-generation-climate-change)
  - [Apple says iOS 18, iPadOS 18, macOS Sequoia, and watchOS 11 will rebrand Apple ID to Apple Account &quot;for a consistent sign-in experience across Apple services&quot; &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/240611/p22#a240611p22)
  - [US Leaders Dodge Questions About Israel’s Influence Campaign](https://www.wired.com/story/israel-us-disinformation-us-lawmakers/)
- - [The Top New Features in Apple’s iOS 18 and iPadOS 18](https://www.wired.com/story/apple-iphone-ios-18-ipados-18-new-features/)
- - [Best Google Pixel Phone &lpar;2024&rpar;: Which Model to Buy, Cases and Accessories, Feature Drops](https://www.wired.com/story/best-google-pixel-phone/)<!-- TECH:END -->
+ - [The Top New Features in Apple’s iOS 18 and iPadOS 18](https://www.wired.com/story/apple-iphone-ios-18-ipados-18-new-features/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

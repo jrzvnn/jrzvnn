@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Activists rally at Apple Park for reinstatement of child safety features](https://appleinsider.com/articles/24/06/11/activists-rally-at-apple-park-for-reinstatement-of-child-safety-features?utm_medium=rss)
  - [TechInsights: Nvidia shipped ~3.76M data center GPUs in 2023, up from 2.64M in 2022; the total data center GPU market was 3.85M in 2023, up from ~2.67M in 2022 &lpar;Agam Shah/HPCwire&rpar;](http://www.techmeme.com/240611/p17#a240611p17)
  - [Apple Intelligence, iPhones, and the rest of WWDC 2024](https://www.theverge.com/2024/6/11/24176008/apple-intelligence-siri-iphone-ipad-wwdc-2024)
  - [Apple ID is getting a rebrand starting with the release of iOS 18](https://appleinsider.com/articles/24/06/11/starting-with-the-release-of-ios-18-apple-id-is-getting-a-rebrand?utm_medium=rss)
- - [Cyberhaven, which uses AI to help companies predict employee behavior and avoid insider threats, raised $88M led by Adams Street Partners at a $488M valuation &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/240611/p16#a240611p16)
- - [Tiled window management comes to macOS Sequoia, but it&#39;s hidden](https://appleinsider.com/articles/24/06/11/tiled-window-management-comes-to-macos-sequoia-but-its-hidden?utm_medium=rss)<!-- TECH:END -->
+ - [Cyberhaven, which uses AI to help companies predict employee behavior and avoid insider threats, raised $88M led by Adams Street Partners at a $488M valuation &lpar;Sarah McBride/Bloomberg&rpar;](http://www.techmeme.com/240611/p16#a240611p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

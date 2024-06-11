@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hiker saves a woman struggling on the edge of a trail](http://9gag.com/gag/a87YgPY)
- - 😝 [Oh Canada... As usual...](http://9gag.com/gag/a6Zy6bq)
- - 💣 [Norwegian news was reporting on the success of far-right parties in Europe while the reason why was happening right behind him. These people have no respect.](http://9gag.com/gag/avygKrd)
- - 😝 [Tired of this shit.](http://9gag.com/gag/aAyrzLd)
- - 👉 [Which arrow will penetrate riot shields?](http://9gag.com/gag/ayN0r7p)<!-- MEMES:END -->
+ - 😝 [Finished the job boss](http://9gag.com/gag/aoy07ew)
+ - 😝 [We&#39;re in the wrong timeline boys](http://9gag.com/gag/aZZxYv9)
+ - 💣 [The perfect keychain doesn&#39;t exi...](http://9gag.com/gag/aAyrzMp)
+ - 😝 [Unexpected](http://9gag.com/gag/aO8bWm3)
+ - 👉 [Finger painting](http://9gag.com/gag/aYQW0O7)<!-- MEMES:END -->
 
 ---
 

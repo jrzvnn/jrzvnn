@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Day 2 of vacation in Thailand](http://9gag.com/gag/aVvW678)
+ - 😝 [Accessibility making big moves](http://9gag.com/gag/apR0X5p)
+ - 😝 [Al Jazeera Journalist Killed by Israelis Was Holding 3 Israeli Hostages in His Home](http://9gag.com/gag/a4PdgMv)
+ - 💣 [Agree or not ?](http://9gag.com/gag/a343gVv)
  - 😝 [This is a map of the E.U. election results in France tonight. The brown is for the `far-right` parties](http://9gag.com/gag/ae90w3Q)
- - 💣 [The story behind this assassination is insane. Apparently the assassins didn\u2019t know they were killing somebody. They were hired to do pranks for a YouTube channel, a channel created by North Korean intel.](http://9gag.com/gag/aZZx5BW)
- - 😝 [People in ground recording a Helicopter shooting to the ground](http://9gag.com/gag/ajP0wNx)
- - 👉 [Well, well, well how the turntables](http://9gag.com/gag/aAyr9Bd)<!-- MEMES:END -->
+ - 👉 [Which arrow will penetrate riot shields?](http://9gag.com/gag/ayN0r7p)<!-- MEMES:END -->
 
 ---
 

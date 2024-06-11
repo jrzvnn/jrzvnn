@@ -171,8 +171,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Time comes when there are going to be no rules.](http://9gag.com/gag/ayN0rbV)
- - 😝 [Peter Porco, who, after being struck 16 times with an axe, regained consciousness, got out of bed, went through his morning routine, retrieved the morning paper, locked himself out of the house, and let himself back in with a spare key before eventually falling dead in the foyer.](http://9gag.com/gag/apR07vM)
+ - 😝 [Norwegian news was reporting on the success of far-right parties in Europe while the reason why was happening right behind him. These people have no respect.](http://9gag.com/gag/avygKrd)
+ - 😝 [Why don&#39;t women like to share?](http://9gag.com/gag/amo0y2V)
  - 💣 [Which arrow will penetrate riot shields?](http://9gag.com/gag/ayN0r7p)
  - 😝 [People in ground recording a Helicopter shooting to the ground](http://9gag.com/gag/ajP0wNx)
  - 👉 [Day 2 of vacation in Thailand](http://9gag.com/gag/aVvW678)<!-- MEMES:END -->

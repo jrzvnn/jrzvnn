@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Paris-based photo-sharing app BeReal has been acquired by video game and app developer Voodoo for &amp;euro;500M; Voodoo&#39;s Aymeric Roff&amp;eacute; will become BeReal&#39;s CEO &lpar;Financial Times&rpar;](http://www.techmeme.com/240611/p20#a240611p20)
  - [Apple skipped over the best visionOS 2 updates](https://www.theverge.com/2024/6/11/24175689/apple-vision-pro-2-wwdc-2024-keynote-best-updates)
  - [Arcane gets a trailer for its second and final  season](https://www.theverge.com/24172175/arcane-league-of-legends-season-2-trailer-netflix)
  - [Here’s 15 minutes of Dragon Age: The Veilguard gameplay](https://www.theverge.com/24176005/dragon-age-the-veilguard-gameplay-trailer-summer-game-fest-2024)
- - [How iOS 18 lets you neatly rearrange app icons and home screen widgets](https://appleinsider.com/articles/24/06/11/how-ios-18-lets-you-neatly-rearrange-app-icons-and-home-screen-widgets?utm_medium=rss)
- - [Mobile driver’s licenses are coming to New York state starting June 11th](https://www.theverge.com/2024/6/11/24175681/new-york-state-mobile-id-drivers-license-now-available)<!-- TECH:END -->
+ - [How iOS 18 lets you neatly rearrange app icons and home screen widgets](https://appleinsider.com/articles/24/06/11/how-ios-18-lets-you-neatly-rearrange-app-icons-and-home-screen-widgets?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

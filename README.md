@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Canon&#39;s RF-S dual fisheye lens will help produce Apple Vision Pro video](https://appleinsider.com/articles/24/06/11/canons-rf-s-dual-fisheye-lens-will-help-produce-apple-vision-pro-video?utm_medium=rss)
- - [15 Best Soundbars, Editor Tested and Reviewed &lpar;2024&rpar;: Sonos, Samsung, Yamaha, Sony](https://www.wired.com/gallery/best-soundbars/)
- - [Netgear’s new Orbi mesh and Nighthawk routers are a cheaper way into Wi-Fi 7](https://www.theverge.com/2024/6/11/24175947/netgear-orbi-mesh-nighthawk-wi-fi-7-router)
- - [Customer service automation startup Cognigy, whose AI agents can talk to tens of thousands of users at once, raised a $100M Series C and reports ~175 clients &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240611/p18#a240611p18)
- - [Activists rally at Apple Park for reinstatement of child safety features](https://appleinsider.com/articles/24/06/11/activists-rally-at-apple-park-for-reinstatement-of-child-safety-features?utm_medium=rss)<!-- TECH:END -->
+ - [Tim Cook is ‘not 100 percent’ sure Apple can stop AI hallucinations](https://www.theverge.com/2024/6/11/24176035/tim-cook-apple-stop-ai-hallucinations)
+ - [How to install the iOS 18 and iPadOS developer betas](https://www.theverge.com/24175976/ios-18-developer-public-betas-install-how-to)
+ - [There&#39;s an AI Candidate Running for Parliament in the UK](https://www.wired.com/story/ai-candidate-running-for-parliament-uk/)
+ - [Zack Snyder’s Rebel Moon director’s cut hits Netflix in August](https://www.theverge.com/2024/6/11/24176041/zack-snyder-rebel-moon-directors-cut-netflix-date)
+ - [Canon&#39;s RF-S dual fisheye lens will help produce Apple Vision Pro video](https://appleinsider.com/articles/24/06/11/canons-rf-s-dual-fisheye-lens-will-help-produce-apple-vision-pro-video?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

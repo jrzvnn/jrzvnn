@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never google...](http://9gag.com/gag/a9yLx9m)
- - 😝 [IT\u2019S MONDAY!!](http://9gag.com/gag/amo0ZQo)
- - 💣 [Qatar blatantly cheated to defeat India 2-1 in World Cup qualifiers.](http://9gag.com/gag/ae90L95)
- - 😝 [NSFW Fresh be like](http://9gag.com/gag/a4PdvpZ)
- - 👉 [When you ask if you can pay later...](http://9gag.com/gag/a2vYeEp)<!-- MEMES:END -->
+ - 😝 [She kiIIed a 3-year-old white chiId and is now laughing about it in court. She deserves the chair. Nothing less.](http://9gag.com/gag/ae908pj)
+ - 😝 [Does fentanyl give you superpowers now?](http://9gag.com/gag/a4PdOqy)
+ - 💣 [Sigh.](http://9gag.com/gag/aBy3AV2)
+ - 😝 [When you ask if you can pay later...](http://9gag.com/gag/a2vYeEp)
+ - 👉 [Beautiful](http://9gag.com/gag/ae90vzW)<!-- MEMES:END -->
 
 ---
 

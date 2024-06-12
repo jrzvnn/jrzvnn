@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Microsoft Surface: Which Models to Buy or Avoid &lpar;2024&rpar;](https://www.wired.com/story/microsoft-surface-buying-guide/)
  - [Revamped Photos app in iOS 18 makes searching better, but hides a key sharing control](https://appleinsider.com/articles/24/06/12/revamped-photos-app-in-ios-18-makes-searching-better-but-hides-a-key-sharing-control?utm_medium=rss)
  - [Four more states are jumping onto the DOJ&#39;s antitrust suit against Apple](https://appleinsider.com/articles/24/06/12/four-more-states-are-jumping-onto-the-dojs-antitrust-suit-against-apple?utm_medium=rss)
  - [How to Choose a Camera &lpar;2024&rpar;: Sensors, Megapixels, Terms](https://www.wired.com/story/how-to-choose-a-camera/)
- - [The AI upgrade cycle is here](https://www.theverge.com/2024/6/12/24176494/apple-intelligence-ai-upgrade-cycle-here)
- - [Waymo issues a software update to its 672 vehicles after one collided with a telephone pole in Phoenix on May 21, marking Waymo&#39;s second recall ever &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/240612/p20#a240612p20)<!-- TECH:END -->
+ - [The AI upgrade cycle is here](https://www.theverge.com/2024/6/12/24176494/apple-intelligence-ai-upgrade-cycle-here)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

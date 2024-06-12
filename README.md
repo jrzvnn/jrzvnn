@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best small updates Apple didn’t mention at WWDC](https://www.theverge.com/24176837/apple-ios-18-macos-sequoia-beta-updates-wwdc-2024)
+ - [How to lock apps, hide apps, and find them again in iOS 18](https://appleinsider.com/inside/ios-18/tips/how-to-lock-apps-hide-apps-and-find-them-again-in-ios-18?utm_medium=rss)
  - [New visionOS 2 updates are more significant than Apple initially implied](https://appleinsider.com/articles/24/06/12/new-visionos-2-updates-are-more-significant-than-apple-initially-implied?utm_medium=rss)
  - [Epic Games database leak hints at a trove of unannounced games](https://www.theverge.com/2024/6/12/24176964/epic-games-database-leak-unannounced-games)
- - [Life360 confirms a hacker stole Tile tracker IDs and customer info](https://www.theverge.com/2024/6/12/24176889/tile-life360-customer-data-breach-hacker-extortion)
- - [Jabra’s earbuds are going away, but the impact they made isn’t](https://www.theverge.com/24176836/jabra-earbuds-retrospective-65t-75t-apple-sony)
- - [Warner Bros. is beefing up its animation slate with even more Adventure Time](https://www.theverge.com/2024/6/12/24176988/cartoon-network-studios-adventure-time-movie-fosters-funtime)<!-- TECH:END -->
+ - [Life360 confirms a hacker stole Tile tracker IDs and customer info](https://www.theverge.com/2024/6/12/24176889/tile-life360-customer-data-breach-hacker-extortion)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

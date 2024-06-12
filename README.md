@@ -163,10 +163,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A January 6 Rioter Is Leading an Armed National Militia From Prison](https://www.wired.com/story/january-6-rioter-leading-armed-national-militia-from-prison/)
+ - [YouTube plans to roll out its Thumbnail Test &amp; Compare tool to all creators &quot;in the coming weeks&quot;, letting them test video thumbnails &quot;evenly&quot; across audiences &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240612/p18#a240612p18)
  - [GameStop raised ~$2.14B from a share sale program capitalizing on a stock rally fueled by Keith Gill&#39;s YouTube return, selling 75M shares for ~$28.49 on average &lpar;Bailey Lipschultz/Bloomberg&rpar;](http://www.techmeme.com/240612/p17#a240612p17)
  - [An AI Bot Is &lpar;Sort of&rpar; Running for Mayor in Wyoming](https://www.wired.com/story/ai-bot-running-for-mayor-wyoming/)
- - [Worried About AI Killing Art? This App Offers a Refuge—If Its Founder Can Keep the Lights On](https://www.wired.com/story/cara-portfolio-app-artificial-intelligence-jingna-zhang/)
- - [Apple honors original icon designer Susan Kare in macOS Sequoia wallpaper](https://appleinsider.com/articles/24/06/12/apple-honors-original-icon-designer-susan-kare-in-macos-sequoia-wallpaper?utm_medium=rss)<!-- TECH:END -->
+ - [Worried About AI Killing Art? This App Offers a Refuge—If Its Founder Can Keep the Lights On](https://www.wired.com/story/cara-portfolio-app-artificial-intelligence-jingna-zhang/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Cohere CEO Aidan Gomez on co-authoring the &quot;Attention is all you need&quot; paper at Google, focusing on enterprise, whether there&#39;s an AI bubble, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240612/p6#a240612p6)
  - [China&#39;s Ministry of Commerce issues a policy for expanding the nation&#39;s cross-border e-commerce industry and to promote the construction of offshore warehouses &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/240612/p5#a240612p5)
  - [In an interview, OpenAI CTO Mira Murati responded to Elon Musk&#39;s denouncement of Apple&#39;s OpenAI deal, saying OpenAI cares deeply about user privacy and security &lpar;Verne Kopytoff/Fortune&rpar;](http://www.techmeme.com/240612/p4#a240612p4)
  - [X says the social network will make likes private for everyone this week; users on X will no longer be able to see who liked someone else&#39;s post &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/240612/p3#a240612p3)
- - [Today&#39;s Wordle Hints, Answer and Help for June 12, #1089     - CNET](https://www.cnet.com/tech/gaming/todays-wordle-hints-and-answer-help-for-june-12-1089/#ftag=CAD590a51e)
- - [&quot;Tap-to-earn&quot; games like Hamster Kombat, a mini-app with more than 31M followers on Telegram, could become the defining trend of the current crypto bull market &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/240612/p2#a240612p2)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for June 12, #1089     - CNET](https://www.cnet.com/tech/gaming/todays-wordle-hints-and-answer-help-for-june-12-1089/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In an interview, OpenAI CTO Mira Murati responded to Elon Musk&#39;s denouncement of Apple&#39;s OpenAI deal, saying OpenAI cares deeply about user privacy and security &lpar;Verne Kopytoff/Fortune&rpar;](http://www.techmeme.com/240612/p4#a240612p4)
  - [X says the social network will make likes private for everyone this week; users on X will no longer be able to see who liked someone else&#39;s post &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/240612/p3#a240612p3)
  - [&quot;Tap-to-earn&quot; games like Hamster Kombat, a mini-app with more than 31M followers on Telegram, could become the defining trend of the current crypto bull market &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/240612/p2#a240612p2)
  - [Sources: US-based AI startups Opus Clip and HeyGen, founded by China-born entrepreneurs, are scrambling to sever China ties by relocating China-based engineers &lpar;The Information&rpar;](http://www.techmeme.com/240612/p1#a240612p1)
- - [Elon Musk has unusual relationships with women at SpaceX, WSJ reports](https://www.theverge.com/2024/6/12/24176705/spacex-elon-musk-gwynne-shotwell-sexual-relationships)
- - [Sources and documents detail how Elon Musk blurred boundaries with female employees at SpaceX, including having sex with an employee and a former intern &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240611/p37#a240611p37)<!-- TECH:END -->
+ - [Elon Musk has unusual relationships with women at SpaceX, WSJ reports](https://www.theverge.com/2024/6/12/24176705/spacex-elon-musk-gwynne-shotwell-sexual-relationships)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

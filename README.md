@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bad Prank](http://9gag.com/gag/aZZx613)
- - 😝 [NSFW Fresh be like](http://9gag.com/gag/a4PdvpZ)
- - 💣 [IT\u2019S MONDAY!!](http://9gag.com/gag/amo0ZQo)
  - 😝 [Didn&#39;t go as planned](http://9gag.com/gag/ajP042w)
- - 👉 [When you ask if you can pay later...](http://9gag.com/gag/a2vYeEp)<!-- MEMES:END -->
+ - 😝 [NSFW Fresh be like](http://9gag.com/gag/a4PdvpZ)
+ - 💣 [She kiIIed a 3-year-old white chiId and is now laughing about it in court. She deserves the chair. Nothing less.](http://9gag.com/gag/ae908pj)
+ - 😝 [When you ask if you can pay later...](http://9gag.com/gag/a2vYeEp)
+ - 👉 [IT\u2019S MONDAY!!](http://9gag.com/gag/amo0ZQo)<!-- MEMES:END -->
 
 ---
 

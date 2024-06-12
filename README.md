@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Didn&#39;t go as planned](http://9gag.com/gag/ajP042w)
- - 😝 [NSFW Fresh be like](http://9gag.com/gag/a4PdvpZ)
- - 💣 [She kiIIed a 3-year-old white chiId and is now laughing about it in court. She deserves the chair. Nothing less.](http://9gag.com/gag/ae908pj)
- - 😝 [When you ask if you can pay later...](http://9gag.com/gag/a2vYeEp)
- - 👉 [IT\u2019S MONDAY!!](http://9gag.com/gag/amo0ZQo)<!-- MEMES:END -->
+ - 😝 [No title needed](http://9gag.com/gag/awyKw94)
+ - 😝 [Happy pride](http://9gag.com/gag/aNDZE4K)
+ - 💣 [`I need your clothes, your boots, and your insurance information. I&#39;ll be back`.](http://9gag.com/gag/aAyroMd)
+ - 😝 [Faster, harder...](http://9gag.com/gag/aMVr3gV)
+ - 👉 [Based AF. Wilders says exactly what needs to be said.](http://9gag.com/gag/a9yL99W)<!-- MEMES:END -->
 
 ---
 

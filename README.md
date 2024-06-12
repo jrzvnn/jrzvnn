@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Gemini, explained](https://www.theverge.com/24176860/google-gemini-explained-ai-assistant)
- - [A survey of 10,287 US adults on Facebook, Instagram, X, and TikTok: most see news content, but fewer say news is why they are on the platforms, except for X &lpar;Pew Research Center&rpar;](http://www.techmeme.com/240612/p24#a240612p24)
- - [This macOS Sequoia wallpaper pays tribute to classic Macintosh icons](https://www.theverge.com/2024/6/12/24176917/macos-sequoia-wallpaper-classic-macintosh-icons-susan-kare)
- - [The EU slaps additional tariffs on Chinese EV imports](https://www.theverge.com/2024/6/12/24176871/eu-additional-tariffs-chinese-ev-imports)
- - [Japan&#39;s parliament has approved a law that will force third party App Stores on Apple &amp; Google](https://appleinsider.com/articles/24/06/12/japans-parliament-has-approved-a-law-that-will-force-third-party-app-stores-on-apple-google?utm_medium=rss)<!-- TECH:END -->
+ - [Today&#39;s top deals: Buy one, get one 50% off on Apple&#39;s HomePod mini, M1 MacBook Pro $619](https://appleinsider.com/articles/24/06/12/todays-top-deals-buy-one-get-one-50-off-on-apples-homepod-mini-m1-macbook-pro-619?utm_medium=rss)
+ - [Apple Intelligence inches closer to Apple&#39;s 1987 Knowledge Navigator](https://appleinsider.com/articles/24/06/12/apple-intelligence-inches-closer-to-apples-1987-knowledge-navigator?utm_medium=rss)
+ - [Metallica is headlining Fortnite’s next concert](https://www.theverge.com/2024/6/12/24176228/metallica-fortnite-concert)
+ - [Fed Watch Live Blog: Breaking Down Today&#39;s Federal Reserve Meeting     - CNET](https://www.cnet.com/personal-finance/banking/federal-reserve-meeting-live-blog-june-2024/#ftag=CAD590a51e)
+ - [12 US States Are Planning to Ban the Sale of Gas-Powered Cars     - CNET](https://www.cnet.com/roadshow/news/states-banning-new-gas-powered-cars/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

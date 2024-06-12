@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google says ChromeOS will soon be developed on portions of the Android stack, including its Linux kernel and frameworks, to bring AI features to users faster &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240612/p32#a240612p32)
  - [Netflix will settle 15 years of Chestnut vs. Kobayashi with a live hot dog-eating contest](https://www.theverge.com/2024/6/12/24177277/netflix-chestnut-kobayashi-unfinished-beef-hot-dogs)
  - [AI search engine Perplexity says it was working on revenue-sharing deals with publishers when Forbes criticized it for misusing content from Forbes and others &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/240612/p31#a240612p31)
  - [Sources: OpenAI&#39;s annualized revenue has hit $3.4B, up from $1.6B in late 2023 and $1B last summer; $3.2B comes from subscriptions to its chatbots and API fees &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/240612/p30#a240612p30)
- - [There’s a new 35mm film camera coming this year, and it looks pretty good](https://www.theverge.com/2024/6/12/24177217/mint-rollei-35af-35mm-film-camera-waitlist-release-announcement)
- - [OpenAI to use Oracle’s chips for more AI compute](https://www.theverge.com/2024/6/12/24177188/openai-oracle-ai-chips-microsoft)<!-- TECH:END -->
+ - [There’s a new 35mm film camera coming this year, and it looks pretty good](https://www.theverge.com/2024/6/12/24177217/mint-rollei-35af-35mm-film-camera-waitlist-release-announcement)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

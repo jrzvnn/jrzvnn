@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Night shift at it best](http://9gag.com/gag/a7oyzEq)
- - 😝 [Big Brother Energy](http://9gag.com/gag/awyK6XB)
- - 💣 [No title needed](http://9gag.com/gag/awyKw94)
- - 😝 [Happy pride](http://9gag.com/gag/aNDZE4K)
- - 👉 [Dog just returned from surgery, cat hasn&#39;t left his side since](http://9gag.com/gag/axyZXjn)<!-- MEMES:END -->
+ - 😝 [Bad Prank](http://9gag.com/gag/aZZx613)
+ - 😝 [NSFW Fresh be like](http://9gag.com/gag/a4PdvpZ)
+ - 💣 [IT\u2019S MONDAY!!](http://9gag.com/gag/amo0ZQo)
+ - 😝 [Didn&#39;t go as planned](http://9gag.com/gag/ajP042w)
+ - 👉 [When you ask if you can pay later...](http://9gag.com/gag/a2vYeEp)<!-- MEMES:END -->
 
 ---
 

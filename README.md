@@ -171,10 +171,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Qatar blatantly cheated to defeat India 2-1 in World Cup qualifiers.](http://9gag.com/gag/ae90L95)
- - 😝 [Please follow through this time](http://9gag.com/gag/aqyNPKY)
- - 💣 [One day, someone will have to explain to me how having your country&#39;s flag without having your country is fascist or racist](http://9gag.com/gag/ayN0jOr)
- - 😝 [NSFW Fresh be like](http://9gag.com/gag/a4PdvpZ)
+ - 😝 [Based AF. Wilders says exactly what needs to be said.](http://9gag.com/gag/a9yL99W)
+ - 😝 [Never google...](http://9gag.com/gag/a9yLx9m)
+ - 💣 [Does fentanyl give you superpowers now?](http://9gag.com/gag/a4PdOqy)
+ - 😝 [Beautiful](http://9gag.com/gag/ae90vzW)
  - 👉 [Bad Prank](http://9gag.com/gag/aZZx613)<!-- MEMES:END -->
 
 ---

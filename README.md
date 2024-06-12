@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to tell if there are alligators are in the water](http://9gag.com/gag/aO8bwZy)
- - 😝 [NSFW Fresh be like](http://9gag.com/gag/a4PdvpZ)
- - 💣 [Police aren\u2019t playing around anymore with Hamas supporters &lpar;SOUND ON&rpar;](http://9gag.com/gag/ayN0bjV)
- - 😝 [Qatar blatantly cheated to defeat India 2-1 in World Cup qualifiers.](http://9gag.com/gag/ae90L95)
- - 👉 [Bad Prank](http://9gag.com/gag/aZZx613)<!-- MEMES:END -->
+ - 😝 [Happy pride](http://9gag.com/gag/aNDZE4K)
+ - 😝 [`I need your clothes, your boots, and your insurance information. I&#39;ll be back`.](http://9gag.com/gag/aAyroMd)
+ - 💣 [Faster, harder...](http://9gag.com/gag/aMVr3gV)
+ - 😝 [No title needed](http://9gag.com/gag/awyKw94)
+ - 👉 [Beautiful](http://9gag.com/gag/ae90vzW)<!-- MEMES:END -->
 
 ---
 

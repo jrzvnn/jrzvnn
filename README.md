@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She kiIIed a 3-year-old white chiId and is now laughing about it in court. She deserves the chair. Nothing less.](http://9gag.com/gag/ae908pj)
- - 😝 [Does fentanyl give you superpowers now?](http://9gag.com/gag/a4PdOqy)
- - 💣 [Sigh.](http://9gag.com/gag/aBy3AV2)
- - 😝 [When you ask if you can pay later...](http://9gag.com/gag/a2vYeEp)
- - 👉 [Beautiful](http://9gag.com/gag/ae90vzW)<!-- MEMES:END -->
+ - 😝 [Night shift at it best](http://9gag.com/gag/a7oyzEq)
+ - 😝 [Big Brother Energy](http://9gag.com/gag/awyK6XB)
+ - 💣 [No title needed](http://9gag.com/gag/awyKw94)
+ - 😝 [Happy pride](http://9gag.com/gag/aNDZE4K)
+ - 👉 [Dog just returned from surgery, cat hasn&#39;t left his side since](http://9gag.com/gag/axyZXjn)<!-- MEMES:END -->
 
 ---
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A summary of the apps that Apple &quot;Sherlocked&quot; at WWDC 2024, like 1Password and LastPass, call recording and transcription apps, and the Newji custom emoji app &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240612/p21#a240612p21)
+ - [Databricks launches AI/BI, a visualization tool to let users type questions about their data to build charts and graphs, competing with Microsoft and Salesforce &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240612/p22#a240612p22)
  - [What&#39;s new in Apple Music for iOS 18](https://appleinsider.com/inside/apple-music/tips/whats-new-in-apple-music-for-ios-18?utm_medium=rss)
- - [10 Best Smartwatches, Editor Tested and Reviewed &lpar;2024&rpar;: Apple Watch, Wear OS, Hybrid Watches, Kids&#39; Watches](https://www.wired.com/gallery/best-smartwatches/)
- - [The surprisingly not so doomed effort to force US drivers to stop speeding](https://www.theverge.com/2024/6/12/24176403/intelligent-speed-assistance-iihs-safety-limiters-governor)
- - [Inflation Flatlines in May, Bolstering Hopes That the Fed Could Cut Interest Rates by July      - CNET](https://www.cnet.com/personal-finance/banking/inflation-flatlines-in-may-bolstering-hopes-that-the-fed-could-cut-interest-rates-by-july/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Use Your Smartphone to Cope With Hearing Loss &lpar;2024&rpar;: Tips for iPhone, Android](https://www.wired.com/story/smartphone-features-deaf-hard-of-hearing/)
+ - [Spreadsheet Superstars](https://www.theverge.com/c/24133822/microsoft-excel-spreadsheet-competition-chapmionship)
+ - [A summary of the apps that Apple &quot;Sherlocked&quot; at WWDC 2024, like 1Password and LastPass, call recording and transcription apps, and the Newji custom emoji app &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240612/p21#a240612p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

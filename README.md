@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tim Cook talks Apple Intelligence, OpenAI, and iconic Apple products with MKBHD](https://appleinsider.com/articles/24/06/12/tim-cook-talks-apple-intelligence-openai-and-iconic-apple-products-with-mkbhd?utm_medium=rss)
+ - [Xbox June update adds better backgrounds and saves more than one Wi-Fi network](https://www.theverge.com/2024/6/12/24177026/xbox-june-update-customize-homepage-game-art)
  - [A hacker says they breached Tile internal tools, including one for processing data for cops, and stole customer data like phone numbers, addresses, and Tile IDs &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/240612/p26#a240612p26)
  - [Zack Snyder’s animated series Twilight of the Gods hits Netflix in September](https://www.theverge.com/24177030/zack-snyder-twilight-of-the-gods-netflix-trailer-release-date)
- - [Amazon’s note-taking Kindle Scribe has returned to its best price to date](https://www.theverge.com/2024/6/12/24176914/amazon-kindle-scribe-jbl-authentics-200-smart-speaker-deal-sale)
- - [The best small updates Apple didn’t mention at WWDC](https://www.theverge.com/24176837/apple-ios-18-macos-sequoia-beta-updates-wwdc-2024)
- - [How to lock apps, hide apps, and find them again in iOS 18](https://appleinsider.com/inside/ios-18/tips/how-to-lock-apps-hide-apps-and-find-them-again-in-ios-18?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon’s note-taking Kindle Scribe has returned to its best price to date](https://www.theverge.com/2024/6/12/24176914/amazon-kindle-scribe-jbl-authentics-200-smart-speaker-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

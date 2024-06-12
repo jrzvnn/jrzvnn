@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [IT\u2019S MONDAY!!](http://9gag.com/gag/amo0ZQo)
- - 😝 [Norwegian news was reporting on the success of far-right parties in Europe while the reason why was happening right behind him. These people have no respect.](http://9gag.com/gag/avygKrd)
- - 💣 [Hiker saves a woman struggling on the edge of a trail](http://9gag.com/gag/a87YgPY)
- - 😝 [Happy pride](http://9gag.com/gag/aNDZE4K)
- - 👉 [American cheese doesn&#39;t split when melting](http://9gag.com/gag/azxE31p)<!-- MEMES:END -->
+ - 😝 [Be Honest](http://9gag.com/gag/amo04nX)
+ - 😝 [She kiIIed a 3-year-old white chiId and is now laughing about it in court. She deserves the chair. Nothing less.](http://9gag.com/gag/ae908pj)
+ - 💣 [Don&#39;t stop me now](http://9gag.com/gag/aD23eOO)
+ - 😝 [Worker saves kitten from trash cutting machine](http://9gag.com/gag/ae908QW)
+ - 👉 [Hard to find love nowadays](http://9gag.com/gag/an7KPGE)<!-- MEMES:END -->
 
 ---
 

@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just stop it\u2026. #savestarwars](http://9gag.com/gag/axyZxmY)
- - 😝 [NSFW Fresh be like](http://9gag.com/gag/a4PdvpZ)
- - 💣 [IdkMustBeOnStartup](http://9gag.com/gag/avygN6M)
+ - 😝 [How to tell if there are alligators are in the water](http://9gag.com/gag/aO8bwZy)
  - 😝 [Woman who randomly stabbed 3yo white boy smirked and mocked the victim&#39;s family in court](http://9gag.com/gag/aMVrMGP)
- - 👉 [When you ask if you can pay later...](http://9gag.com/gag/a2vYeEp)<!-- MEMES:END -->
+ - 💣 [A stiff upper lip](http://9gag.com/gag/aQz4wy8)
+ - 😝 [IdkMustBeOnStartup](http://9gag.com/gag/avygN6M)
+ - 👉 [Qatar blatantly cheated to defeat India 2-1 in World Cup qualifiers.](http://9gag.com/gag/ae90L95)<!-- MEMES:END -->
 
 ---
 

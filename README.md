@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Please follow through this time](http://9gag.com/gag/aqyNPKY)
- - 😝 [Bad Prank](http://9gag.com/gag/aZZx613)
- - 💣 [One day, someone will have to explain to me how having your country&#39;s flag without having your country is fascist or racist](http://9gag.com/gag/ayN0jOr)
- - 😝 [Never google...](http://9gag.com/gag/a9yLx9m)
- - 👉 [Didn&#39;t go as planned](http://9gag.com/gag/ajP042w)<!-- MEMES:END -->
+ - 😝 [This won&#39;t end well for Michael.](http://9gag.com/gag/a4PdXBy)
+ - 😝 [What a prick.](http://9gag.com/gag/aGywWYw)
+ - 💣 [Didn&#39;t go as planned](http://9gag.com/gag/ajP042w)
+ - 😝 [Woman who randomly stabbed 3yo white boy smirked and mocked the victim&#39;s family in court](http://9gag.com/gag/aMVrMGP)
+ - 👉 [Don&#39;t let Spidey down. Hold nothing back.](http://9gag.com/gag/aAyrz5L)<!-- MEMES:END -->
 
 ---
 

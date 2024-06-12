@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Feeling nostalgia yet](http://9gag.com/gag/aGyw5o0)
- - 😝 [Never google...](http://9gag.com/gag/a9yLx9m)
- - 💣 [Didn&#39;t go as planned](http://9gag.com/gag/ajP042w)
- - 😝 [Bad Prank](http://9gag.com/gag/aZZx613)
- - 👉 [NSFW Fresh be like](http://9gag.com/gag/a4PdvpZ)<!-- MEMES:END -->
+ - 😝 [How to tell if there are alligators are in the water](http://9gag.com/gag/aO8bwZy)
+ - 😝 [Sigh.](http://9gag.com/gag/aBy3AV2)
+ - 💣 [IT\u2019S MONDAY!!](http://9gag.com/gag/amo0ZQo)
+ - 😝 [NSFW Fresh be like](http://9gag.com/gag/a4PdvpZ)
+ - 👉 [Bad Prank](http://9gag.com/gag/aZZx613)<!-- MEMES:END -->
 
 ---
 

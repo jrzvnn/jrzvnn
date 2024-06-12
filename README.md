@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Says Its AI Sets a &#39;New Standard&#39; for Privacy and Invites Security Experts to Test It     - CNET](https://www.cnet.com/tech/services-and-software/apple-says-its-ai-sets-a-new-standard-for-privacy-invites-security-experts-to-test-it/#ftag=CAD590a51e)
+ - [Elon Musk Uses X to Air His Grievances Over Apple-OpenAI Partnership. Here&#39;s Why     - CNET](https://www.cnet.com/tech/mobile/elon-musk-uses-x-to-air-his-grievances-over-apple-openai-partnership-heres-why/#ftag=CAD590a51e)
  - [Raleigh, NC-based Relay, which makes walkie-talkies that can provide real-time location data, do live translation, and more, raised a $35M Series B led by G2 &lpar;Zachery Eanes/Axios&rpar;](http://www.techmeme.com/240611/p36#a240611p36)
  - [Don&#39;t Expect Interest Rate Cuts Tomorrow. But What About July?     - CNET](https://www.cnet.com/personal-finance/could-the-fed-cut-interest-rates-in-july-yes-say-these-experts/#ftag=CAD590a51e)
- - [Savings and CD Rates Are as High as They&#39;ll Get in 2024, Experts Say     - CNET](https://www.cnet.com/personal-finance/banking/savings-and-cd-rates-are-as-high-as-theyll-get-in-2024-experts-say/#ftag=CAD590a51e)
- - [Sources: Samsung is combining its AI-focused research centers in Toronto and Mountain View to improve operations; ex-Apple exec Murat Akbacak will run the group &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240611/p35#a240611p35)
- - [Mars Volcanoes Are Holding Something Unexpected: Water Frost     - CNET](https://www.cnet.com/science/mars-volcanoes-are-holding-something-unexpected-water-frost/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Savings and CD Rates Are as High as They&#39;ll Get in 2024, Experts Say     - CNET](https://www.cnet.com/personal-finance/banking/savings-and-cd-rates-are-as-high-as-theyll-get-in-2024-experts-say/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

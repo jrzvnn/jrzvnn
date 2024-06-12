@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources detail struggles at Koo, an Indian rival to X, including laying off ~80% of its workforce in recent months and being unable to raise more funds &lpar;Varsha Bansal/Rest of World&rpar;](http://www.techmeme.com/240612/p9#a240612p9)
  - [Four Indian retailer associations representing 90K grocery shops say monthly sales are dropping by 10% to 60% for some due to the rise of quick commerce apps &lpar;Reuters&rpar;](http://www.techmeme.com/240612/p8#a240612p8)
  - [How some people are using the term &quot;slop&quot; as a descriptor for low-grade AI material, after emerging in reaction to the release of AI art generators in 2022 &lpar;Benjamin Hoffman/New York Times&rpar;](http://www.techmeme.com/240612/p7#a240612p7)
  - [Q&amp;A with Cohere CEO Aidan Gomez on co-authoring the &quot;Attention is all you need&quot; paper at Google, focusing on enterprise, whether there&#39;s an AI bubble, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240612/p6#a240612p6)
- - [Today&#39;s NYT Strands Hints and Answers: Help for June 12, #101     - CNET](https://www.cnet.com/tech/gaming/todays-nyt-strands-hint-answer/#ftag=CAD590a51e)
- - [China&#39;s Ministry of Commerce issues a policy for expanding the nation&#39;s cross-border e-commerce industry and to promote the construction of offshore warehouses &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/240612/p5#a240612p5)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints and Answers: Help for June 12, #101     - CNET](https://www.cnet.com/tech/gaming/todays-nyt-strands-hint-answer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -163,10 +163,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A January 6 Rioter Is Leading an Armed National Militia From Prison](https://www.wired.com/story/january-6-rioter-leading-armed-national-militia-from-prison/)
+ - [Filings: Michael Dell plans to sell 10M Dell shares worth $1.3B, after selling $1.6B in shares earlier in 2024; Dell sold $1.7B in 1999 before the bubble burst &lpar;Diana Li/Bloomberg&rpar;](http://www.techmeme.com/240612/p15#a240612p15)
+ - [Medical-Targeted Ransomware Is Breaking Records After Change Healthcare’s $22M Payout](https://www.wired.com/story/change-healthcare-22-million-payment-ransomware-spike/)
  - [Swatch Drops Three New Earth-Based MoonSwatches &lpar;We Want Two Of Them&rpar;](https://www.wired.com/story/swatch-drops-three-new-earth-based-moonswatches-we-want-two-of-them/)
- - [Amazon plans to invest $1.4B to build or maintain 14K affordable houses near its offices, on top of its prior $2.2B housing investment in 2021 in WA, VA, and TN &lpar;Haleluya Hadero/Associated Press&rpar;](http://www.techmeme.com/240612/p14#a240612p14)
- - [iOS 18 gains new slow charger warning in battery settings](https://appleinsider.com/articles/24/06/12/ios-18-gains-new-slow-charger-warning-in-battery-settings?utm_medium=rss)
- - [Silicon Valley’s Fanciest Stolen Bikes Are Getting Trafficked by One Mastermind in Jalisco, Mexico](https://www.wired.com/story/silicon-valleys-fanciest-stolen-bikes-trafficked-mastermind-jalisco-mexico/)<!-- TECH:END -->
+ - [Amazon plans to invest $1.4B to build or maintain 14K affordable houses near its offices, on top of its prior $2.2B housing investment in 2021 in WA, VA, and TN &lpar;Haleluya Hadero/Associated Press&rpar;](http://www.techmeme.com/240612/p14#a240612p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

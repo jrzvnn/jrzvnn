@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to tell if there are alligators are in the water](http://9gag.com/gag/aO8bwZy)
- - 😝 [Never google...](http://9gag.com/gag/a9yLx9m)
- - 💣 [Ghost boat which the crew disappeared on April 4, 2023 seen adrift with a broken mast and no one on board by a Norwegian Cruise Liner.](http://9gag.com/gag/aE01LvK)
- - 😝 [IdkMustBeOnStartup](http://9gag.com/gag/avygN6M)
- - 👉 [Qatar blatantly cheated to defeat India 2-1 in World Cup qualifiers.](http://9gag.com/gag/ae90L95)<!-- MEMES:END -->
+ - 😝 [Qatar blatantly cheated to defeat India 2-1 in World Cup qualifiers.](http://9gag.com/gag/ae90L95)
+ - 😝 [Please follow through this time](http://9gag.com/gag/aqyNPKY)
+ - 💣 [One day, someone will have to explain to me how having your country&#39;s flag without having your country is fascist or racist](http://9gag.com/gag/ayN0jOr)
+ - 😝 [NSFW Fresh be like](http://9gag.com/gag/a4PdvpZ)
+ - 👉 [Bad Prank](http://9gag.com/gag/aZZx613)<!-- MEMES:END -->
 
 ---
 

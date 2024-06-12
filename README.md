@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Beautiful](http://9gag.com/gag/ae90vzW)
- - 😝 [Bad Prank](http://9gag.com/gag/aZZx613)
- - 💣 [She kiIIed a 3-year-old white chiId and is now laughing about it in court. She deserves the chair. Nothing less.](http://9gag.com/gag/ae908pj)
- - 😝 [When you ask if you can pay later...](http://9gag.com/gag/a2vYeEp)
- - 👉 [Qatar blatantly cheated to defeat India 2-1 in World Cup qualifiers.](http://9gag.com/gag/ae90L95)<!-- MEMES:END -->
+ - 😝 [Just stop it\u2026. #savestarwars](http://9gag.com/gag/axyZxmY)
+ - 😝 [NSFW Fresh be like](http://9gag.com/gag/a4PdvpZ)
+ - 💣 [IdkMustBeOnStartup](http://9gag.com/gag/avygN6M)
+ - 😝 [Woman who randomly stabbed 3yo white boy smirked and mocked the victim&#39;s family in court](http://9gag.com/gag/aMVrMGP)
+ - 👉 [When you ask if you can pay later...](http://9gag.com/gag/a2vYeEp)<!-- MEMES:END -->
 
 ---
 

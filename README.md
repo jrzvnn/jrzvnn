@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Meanwhile, Germany after the elections...](http://9gag.com/gag/azxEWmK)
  - 😝 [Bad Prank](http://9gag.com/gag/aZZx613)
- - 😝 [American cheese doesn&#39;t split when melting](http://9gag.com/gag/azxE31p)
- - 💣 [One day, someone will have to explain to me how having your country&#39;s flag without having your country is fascist or racist](http://9gag.com/gag/ayN0jOr)
- - 😝 [Don&#39;t let Spidey down. Hold nothing back.](http://9gag.com/gag/aAyrz5L)
- - 👉 [Does fentanyl give you superpowers now?](http://9gag.com/gag/a4PdOqy)<!-- MEMES:END -->
+ - 💣 [Sigh.](http://9gag.com/gag/aBy3AV2)
+ - 😝 [When you ask if you can pay later...](http://9gag.com/gag/a2vYeEp)
+ - 👉 [IT\u2019S MONDAY!!](http://9gag.com/gag/amo0ZQo)<!-- MEMES:END -->
 
 ---
 

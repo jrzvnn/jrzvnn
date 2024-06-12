@@ -163,10 +163,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A January 6 Rioter Is Leading an Armed National Militia From Prison](https://www.wired.com/story/january-6-rioter-leading-armed-national-militia-from-prison/)
+ - [Swatch Drops Three New Earth-Based MoonSwatches &lpar;We Want Two Of Them&rpar;](https://www.wired.com/story/swatch-drops-three-new-earth-based-moonswatches-we-want-two-of-them/)
+ - [Amazon plans to invest $1.4B to build or maintain 14K affordable houses near its offices, on top of its prior $2.2B housing investment in 2021 in WA, VA, and TN &lpar;Haleluya Hadero/Associated Press&rpar;](http://www.techmeme.com/240612/p14#a240612p14)
  - [iOS 18 gains new slow charger warning in battery settings](https://appleinsider.com/articles/24/06/12/ios-18-gains-new-slow-charger-warning-in-battery-settings?utm_medium=rss)
- - [Silicon Valley’s Fanciest Stolen Bikes Are Getting Trafficked by One Mastermind in Jalisco, Mexico](https://www.wired.com/story/silicon-valleys-fanciest-stolen-bikes-trafficked-mastermind-jalisco-mexico/)
- - [Waymo issues software and mapping recall after robotaxi crashes into a telephone pole](https://www.theverge.com/2024/6/12/24175489/waymo-recall-telephone-poll-crash-phoenix-software-map)
- - [German startup Black Semiconductor raised &amp;euro;254M, comprising &amp;euro;229M in public grants and &amp;euro;26M in equity, to build chips using graphene for mass production in 2031 &lpar;Arno Schuetze/Bloomberg&rpar;](http://www.techmeme.com/240612/p13#a240612p13)<!-- TECH:END -->
+ - [Silicon Valley’s Fanciest Stolen Bikes Are Getting Trafficked by One Mastermind in Jalisco, Mexico](https://www.wired.com/story/silicon-valleys-fanciest-stolen-bikes-trafficked-mastermind-jalisco-mexico/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

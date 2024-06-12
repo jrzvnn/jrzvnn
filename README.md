@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bad Prank](http://9gag.com/gag/aZZx613)
- - 😝 [People in ground recording a Helicopter shooting to the ground](http://9gag.com/gag/ajP0wNx)
- - 💣 [College liberals in France are not coping well with their party&#39;s recent crushing election defeat](http://9gag.com/gag/an7KPNB)
- - 😝 [Does fentanyl give you superpowers now?](http://9gag.com/gag/a4PdOqy)
- - 👉 [I know she&#39;s a witch and she might eat me, but...](http://9gag.com/gag/adBYwQV)<!-- MEMES:END -->
+ - 😝 [IT\u2019S MONDAY!!](http://9gag.com/gag/amo0ZQo)
+ - 😝 [Norwegian news was reporting on the success of far-right parties in Europe while the reason why was happening right behind him. These people have no respect.](http://9gag.com/gag/avygKrd)
+ - 💣 [Hiker saves a woman struggling on the edge of a trail](http://9gag.com/gag/a87YgPY)
+ - 😝 [Happy pride](http://9gag.com/gag/aNDZE4K)
+ - 👉 [American cheese doesn&#39;t split when melting](http://9gag.com/gag/azxE31p)<!-- MEMES:END -->
 
 ---
 

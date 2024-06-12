@@ -171,10 +171,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Bad Prank](http://9gag.com/gag/aZZx613)
  - 😝 [Didn&#39;t go as planned](http://9gag.com/gag/ajP042w)
- - 😝 [Sigh.](http://9gag.com/gag/aBy3AV2)
- - 💣 [Bad Prank](http://9gag.com/gag/aZZx613)
- - 😝 [NSFW Fresh be like](http://9gag.com/gag/a4PdvpZ)
+ - 💣 [When you ask if you can pay later...](http://9gag.com/gag/a2vYeEp)
+ - 😝 [`I need your clothes, your boots, and your insurance information. I&#39;ll be back`.](http://9gag.com/gag/aAyroMd)
  - 👉 [Qatar blatantly cheated to defeat India 2-1 in World Cup qualifiers.](http://9gag.com/gag/ae90L95)<!-- MEMES:END -->
 
 ---

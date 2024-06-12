@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google is putting more Android in ChromeOS](https://www.theverge.com/2024/6/12/24177311/google-chromeos-android-ai)
+ - [Japan passes a law that prohibits Apple and Google from limiting the sale of third-party apps and services that compete with native iOS and Android offerings &lpar;Kyodo News&rpar;](http://www.techmeme.com/240612/p33#a240612p33)
  - [Remove objects in Photos with Clean Up in iOS 18](https://appleinsider.com/articles/24/06/12/remove-objects-in-photos-with-clean-up-in-ios-18?utm_medium=rss)
  - [Google says ChromeOS will soon be developed on portions of the Android stack, including its Linux kernel and frameworks, to bring AI features to users faster &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240612/p32#a240612p32)
- - [Alexa Smart Home Starter Kit     - CNET](https://www.cnet.com/home/smart-home/alexa-smart-home-starter-kit-dpnl/#ftag=CAD590a51e)
- - [Beats Studio Pro     - CNET](https://www.cnet.com/tech/mobile/beats-studio-pro1-dpnl/#ftag=CAD590a51e)
- - [PS5 Console &lpar;1TB, Slim&rpar;     - CNET](https://www.cnet.com/tech/gaming/ps5-console-slim-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Alexa Smart Home Starter Kit     - CNET](https://www.cnet.com/home/smart-home/alexa-smart-home-starter-kit-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

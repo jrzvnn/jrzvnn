@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&quot;Tap-to-earn&quot; games like Hamster Kombat, a mini-app with more than 31M followers on Telegram, could become the defining trend of the current crypto bull market &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/240612/p2#a240612p2)
  - [Sources: US-based AI startups Opus Clip and HeyGen, founded by China-born entrepreneurs, are scrambling to sever China ties by relocating China-based engineers &lpar;The Information&rpar;](http://www.techmeme.com/240612/p1#a240612p1)
  - [Elon Musk has unusual relationships with women at SpaceX, WSJ reports](https://www.theverge.com/2024/6/12/24176705/spacex-elon-musk-gwynne-shotwell-sexual-relationships)
  - [Sources and documents detail how Elon Musk blurred boundaries with female employees at SpaceX, including having sex with an employee and a former intern &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240611/p37#a240611p37)
- - [Today&#39;s NYT Connections Hints, Answers and Help for June 12, #367     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hints-answer-help-for-june-12-367/#ftag=CAD590a51e)
- - [PNY Elite-X Type-C Drive review: Small size, huge convenience](https://appleinsider.com/articles/24/06/12/pny-elite-x-type-c-drive-review-small-size-huge-convenience?utm_medium=rss)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for June 12, #367     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hints-answer-help-for-june-12-367/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

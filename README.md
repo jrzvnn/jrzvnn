@@ -163,10 +163,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A January 6 Rioter Is Leading an Armed National Militia From Prison](https://www.wired.com/story/january-6-rioter-leading-armed-national-militia-from-prison/)
- - [Apple honors original icon designer Susan Kare in macOS Sequoia wallpaper](https://appleinsider.com/articles/24/06/12/apple-honors-original-icon-designer-susan-kare-in-macos-sequoia-wallpaper?utm_medium=rss)
- - [Apple developer documentation: macOS 15 Sequoia will let virtual machine users sign into iCloud and Apple ID-related services, which was previously not possible &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/240612/p16#a240612p16)
- - [Filings: Michael Dell plans to sell 10M Dell shares worth $1.3B, after selling $1.6B in shares earlier in 2024; Dell sold $1.7B in 1999 before the bubble burst &lpar;Diana Li/Bloomberg&rpar;](http://www.techmeme.com/240612/p15#a240612p15)
- - [Medical-Targeted Ransomware Is Breaking Records After Change Healthcare’s $22M Payout](https://www.wired.com/story/change-healthcare-22-million-payment-ransomware-spike/)<!-- TECH:END -->
+ - [GameStop raised ~$2.14B from a share sale program capitalizing on a stock rally fueled by Keith Gill&#39;s YouTube return, selling 75M shares for ~$28.49 on average &lpar;Bailey Lipschultz/Bloomberg&rpar;](http://www.techmeme.com/240612/p17#a240612p17)
+ - [An AI Bot Is &lpar;Sort of&rpar; Running for Mayor in Wyoming](https://www.wired.com/story/ai-bot-running-for-mayor-wyoming/)
+ - [Worried About AI Killing Art? This App Offers a Refuge—If Its Founder Can Keep the Lights On](https://www.wired.com/story/cara-portfolio-app-artificial-intelligence-jingna-zhang/)
+ - [Apple honors original icon designer Susan Kare in macOS Sequoia wallpaper](https://appleinsider.com/articles/24/06/12/apple-honors-original-icon-designer-susan-kare-in-macos-sequoia-wallpaper?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

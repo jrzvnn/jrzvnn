@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Epic Games database leak hints at a trove of unannounced games](https://www.theverge.com/2024/6/12/24176964/epic-games-database-leak-unannounced-games)
+ - [New visionOS 2 updates are more significant than Apple initially implied](https://appleinsider.com/articles/24/06/12/new-visionos-2-updates-are-more-significant-than-apple-initially-implied?utm_medium=rss)
+ - [Life360 confirms a hacker stole Tile tracker IDs and customer info](https://www.theverge.com/2024/6/12/24176889/tile-life360-customer-data-breach-hacker-extortion)
  - [Jabra’s earbuds are going away, but the impact they made isn’t](https://www.theverge.com/24176836/jabra-earbuds-retrospective-65t-75t-apple-sony)
- - [Warner Bros. is beefing up its animation slate with even more Adventure Time](https://www.theverge.com/2024/6/12/24176988/cartoon-network-studios-adventure-time-movie-fosters-funtime)
- - [Stability AI releases Stable Diffusion 3 Medium, intended to be a smaller yet capable model on consumer GPUs, with 2B parameters, compared to SD3 Large&#39;s 8B &lpar;Sean Michael Kerner/VentureBeat&rpar;](http://www.techmeme.com/240612/p25#a240612p25)
- - [Moment Warehouse Sale: Deals on Cameras, Lenses, and Accessories](https://www.wired.com/story/moment-warehouse-sale-camera-deals/)
- - [Today&#39;s top deals: Buy one, get one 50% off on Apple&#39;s HomePod mini, M1 MacBook Pro $619](https://appleinsider.com/articles/24/06/12/todays-top-deals-buy-one-get-one-50-off-on-apples-homepod-mini-m1-macbook-pro-619?utm_medium=rss)<!-- TECH:END -->
+ - [Warner Bros. is beefing up its animation slate with even more Adventure Time](https://www.theverge.com/2024/6/12/24176988/cartoon-network-studios-adventure-time-movie-fosters-funtime)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

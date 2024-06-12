@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What&#39;s new in Apple Music for iOS 18](https://appleinsider.com/inside/apple-music/tips/whats-new-in-apple-music-for-ios-18?utm_medium=rss)
+ - [10 Best Smartwatches, Editor Tested and Reviewed &lpar;2024&rpar;: Apple Watch, Wear OS, Hybrid Watches, Kids&#39; Watches](https://www.wired.com/gallery/best-smartwatches/)
+ - [The surprisingly not so doomed effort to force US drivers to stop speeding](https://www.theverge.com/2024/6/12/24176403/intelligent-speed-assistance-iihs-safety-limiters-governor)
  - [Best Microsoft Surface: Which Models to Buy or Avoid &lpar;2024&rpar;](https://www.wired.com/story/microsoft-surface-buying-guide/)
- - [Revamped Photos app in iOS 18 makes searching better, but hides a key sharing control](https://appleinsider.com/articles/24/06/12/revamped-photos-app-in-ios-18-makes-searching-better-but-hides-a-key-sharing-control?utm_medium=rss)
- - [Four more states are jumping onto the DOJ&#39;s antitrust suit against Apple](https://appleinsider.com/articles/24/06/12/four-more-states-are-jumping-onto-the-dojs-antitrust-suit-against-apple?utm_medium=rss)
- - [How to Choose a Camera &lpar;2024&rpar;: Sensors, Megapixels, Terms](https://www.wired.com/story/how-to-choose-a-camera/)
- - [The AI upgrade cycle is here](https://www.theverge.com/2024/6/12/24176494/apple-intelligence-ai-upgrade-cycle-here)<!-- TECH:END -->
+ - [Revamped Photos app in iOS 18 makes searching better, but hides a key sharing control](https://appleinsider.com/articles/24/06/12/revamped-photos-app-in-ios-18-makes-searching-better-but-hides-a-key-sharing-control?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

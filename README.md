@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She kiIIed a 3-year-old white chiId and is now laughing about it in court. She deserves the chair. Nothing less.](http://9gag.com/gag/ae908pj)
- - 😝 [Never google...](http://9gag.com/gag/a9yLx9m)
- - 💣 [Bad Prank](http://9gag.com/gag/aZZx613)
- - 😝 [IT\u2019S MONDAY!!](http://9gag.com/gag/amo0ZQo)
- - 👉 [Don&#39;t let Spidey down. Hold nothing back.](http://9gag.com/gag/aAyrz5L)<!-- MEMES:END -->
+ - 😝 [Some people only want to watch the world burn](http://9gag.com/gag/ae90BpB)
+ - 😝 [You want `pizza`?](http://9gag.com/gag/amo0ZqX)
+ - 💣 [American cheese doesn&#39;t split when melting](http://9gag.com/gag/azxE31p)
+ - 😝 [Didn&#39;t go as planned](http://9gag.com/gag/ajP042w)
+ - 👉 [NSFW Fresh be like](http://9gag.com/gag/a4PdvpZ)<!-- MEMES:END -->
 
 ---
 

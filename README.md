@@ -171,10 +171,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This won&#39;t end well for Michael.](http://9gag.com/gag/a4PdXBy)
+ - 😝 [Never google...](http://9gag.com/gag/a9yLx9m)
+ - 😝 [One day, someone will have to explain to me how having your country&#39;s flag without having your country is fascist or racist](http://9gag.com/gag/ayN0jOr)
+ - 💣 [NSFW Fresh be like](http://9gag.com/gag/a4PdvpZ)
  - 😝 [She kiIIed a 3-year-old white chiId and is now laughing about it in court. She deserves the chair. Nothing less.](http://9gag.com/gag/ae908pj)
- - 💣 [When you ask if you can pay later...](http://9gag.com/gag/a2vYeEp)
- - 😝 [Bad Prank](http://9gag.com/gag/aZZx613)
  - 👉 [Didn&#39;t go as planned](http://9gag.com/gag/ajP042w)<!-- MEMES:END -->
 
 ---

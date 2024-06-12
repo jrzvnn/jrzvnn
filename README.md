@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk has unusual relationships with women at SpaceX, WSJ reports](https://www.theverge.com/2024/6/12/24176705/spacex-elon-musk-gwynne-shotwell-sexual-relationships)
  - [Sources and documents detail how Elon Musk blurred boundaries with female employees at SpaceX, including having sex with an employee and a former intern &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240611/p37#a240611p37)
  - [Today&#39;s NYT Connections Hints, Answers and Help for June 12, #367     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hints-answer-help-for-june-12-367/#ftag=CAD590a51e)
  - [PNY Elite-X Type-C Drive review: Small size, huge convenience](https://appleinsider.com/articles/24/06/12/pny-elite-x-type-c-drive-review-small-size-huge-convenience?utm_medium=rss)
- - [The Light Phone 3 Wants To Be Your Digital Detox Companion     - CNET](https://www.cnet.com/tech/mobile/the-light-phone-3-wants-to-be-your-digital-detox-companion/#ftag=CAD590a51e)
- - [Best Earbuds for Phone Calls for 2024     - CNET](https://www.cnet.com/tech/mobile/best-wireless-earbuds-and-bluetooth-headphones-for-making-calls/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Light Phone 3 Wants To Be Your Digital Detox Companion     - CNET](https://www.cnet.com/tech/mobile/the-light-phone-3-wants-to-be-your-digital-detox-companion/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

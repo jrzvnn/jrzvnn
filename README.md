@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SK Telecom says South Korean AI chip developers Rebellions and Sapeon Korea are pursuing a merger, in a bid to boost chip share in the next two to three years &lpar;Joyce Lee/Reuters&rpar;](http://www.techmeme.com/240612/p12#a240612p12)
  - [Rubrik reports Q1 revenue up 38% YoY to $187.3M, above $171.5M est., and ARR up 46% YoY to $856.1M, in the cybersecurity company&#39;s inaugural post-IPO earnings &lpar;Charles Gorrivan/Bloomberg&rpar;](http://www.techmeme.com/240612/p11#a240612p11)
  - [The $50 Billion Musk Referendum](https://www.wired.com/story/the-dollar50-billion-musk-referendum/)
  - [Jabra kills off its consumer earbuds after launching new Elite models](https://www.theverge.com/2024/6/12/24176764/jabra-exits-consumer-earbud-market-elite-talk-wireless-bluetooth)
- - [UAE Minister of AI and Digital Economy Omar Al Olama says fears over China using Middle Eastern countries to overcome US sanctions on AI chips are &quot;valid&quot; &lpar;Tobias Mann/The Register&rpar;](http://www.techmeme.com/240612/p10#a240612p10)
- - [Sources detail struggles at Koo, an Indian rival to X, including laying off ~80% of its workforce in recent months and being unable to raise more funds &lpar;Varsha Bansal/Rest of World&rpar;](http://www.techmeme.com/240612/p9#a240612p9)<!-- TECH:END -->
+ - [UAE Minister of AI and Digital Economy Omar Al Olama says fears over China using Middle Eastern countries to overcome US sanctions on AI chips are &quot;valid&quot; &lpar;Tobias Mann/The Register&rpar;](http://www.techmeme.com/240612/p10#a240612p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Roku TV owners complain that motion smoothing is stuck ‘on’ after an update](https://www.theverge.com/2024/6/12/24177117/tcl-roku-tv-motion-smoothing-streaming)
  - [The Windows on Arm chip race heats up with a challenger to Qualcomm](https://www.theverge.com/2024/6/12/24177129/mediatek-arm-windows-chip-snapdragon-x-elite-competitor)
  - [Apple&#39;s core Calendar and Reminders apps can finally talk to each other with iOS 18](https://appleinsider.com/articles/24/06/12/apples-core-calendar-and-reminders-apps-can-finally-talk-to-each-other-with-ios-18?utm_medium=rss)
  - [Smart Script impressively forges handwriting in iPadOS 18 Notes app](https://appleinsider.com/articles/24/06/12/smart-script-impressively-forges-handwriting-in-ipados-18-notes-app?utm_medium=rss)
- - [Sony buys Alamo Drafthouse Cinema](https://www.theverge.com/2024/6/12/24177124/sony-buys-acquires-alamo-drafthouse-cinema)
- - [Tesla’s $50 billion question comes down to the wire](https://www.theverge.com/2024/6/12/24177128/tesla-elon-musk-pay-package-shareholder-vote)<!-- TECH:END -->
+ - [Sony buys Alamo Drafthouse Cinema](https://www.theverge.com/2024/6/12/24177124/sony-buys-acquires-alamo-drafthouse-cinema)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Raleigh, NC-based Relay, which makes walkie-talkies that can provide real-time location data, do live translation, and more, raised a $35M Series B led by G2 &lpar;Zachery Eanes/Axios&rpar;](http://www.techmeme.com/240611/p36#a240611p36)
+ - [Don&#39;t Expect Interest Rate Cuts Tomorrow. But What About July?     - CNET](https://www.cnet.com/personal-finance/could-the-fed-cut-interest-rates-in-july-yes-say-these-experts/#ftag=CAD590a51e)
+ - [Savings and CD Rates Are as High as They&#39;ll Get in 2024, Experts Say     - CNET](https://www.cnet.com/personal-finance/banking/savings-and-cd-rates-are-as-high-as-theyll-get-in-2024-experts-say/#ftag=CAD590a51e)
  - [Sources: Samsung is combining its AI-focused research centers in Toronto and Mountain View to improve operations; ex-Apple exec Murat Akbacak will run the group &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240611/p35#a240611p35)
- - [Best OnePlus Open Deals: Save $300 or More on This Sleek Foldable     - CNET](https://www.cnet.com/deals/best-oneplus-open-deals/#ftag=CAD590a51e)
- - [The Verge’s 2024 Father’s Day gift guide](https://www.theverge.com/24153276/best-fathers-day-gift-ideas-2024-dad-tech-gadgets)
- - [18 Best Father&#39;s Day Gifts for New Dads and Soon-to-Be Dads     - CNET](https://www.cnet.com/news/fathers-day-gifts-for-new-dads/#ftag=CAD590a51e)
- - [Google still recommends glue for your pizza](https://www.theverge.com/2024/6/11/24176490/mm-delicious-glue)<!-- TECH:END -->
+ - [Mars Volcanoes Are Holding Something Unexpected: Water Frost     - CNET](https://www.cnet.com/science/mars-volcanoes-are-holding-something-unexpected-water-frost/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

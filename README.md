@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Stability AI releases Stable Diffusion 3 Medium, intended to be a smaller yet capable model on consumer GPUs, with 2B parameters, compared to SD3 Large&#39;s 8B &lpar;Sean Michael Kerner/VentureBeat&rpar;](http://www.techmeme.com/240612/p25#a240612p25)
  - [Moment Warehouse Sale: Deals on Cameras, Lenses, and Accessories](https://www.wired.com/story/moment-warehouse-sale-camera-deals/)
  - [Today&#39;s top deals: Buy one, get one 50% off on Apple&#39;s HomePod mini, M1 MacBook Pro $619](https://appleinsider.com/articles/24/06/12/todays-top-deals-buy-one-get-one-50-off-on-apples-homepod-mini-m1-macbook-pro-619?utm_medium=rss)
  - [Apple Intelligence inches closer to Apple&#39;s 1987 Knowledge Navigator](https://appleinsider.com/articles/24/06/12/apple-intelligence-inches-closer-to-apples-1987-knowledge-navigator?utm_medium=rss)
- - [Metallica is headlining Fortnite’s next concert](https://www.theverge.com/2024/6/12/24176228/metallica-fortnite-concert)
- - [Fed Watch Live Blog: Breaking Down Today&#39;s Federal Reserve Meeting     - CNET](https://www.cnet.com/personal-finance/banking/federal-reserve-meeting-live-blog-june-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Metallica is headlining Fortnite’s next concert](https://www.theverge.com/2024/6/12/24176228/metallica-fortnite-concert)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

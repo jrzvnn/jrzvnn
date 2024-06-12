@@ -171,7 +171,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Faster, harder...](http://9gag.com/gag/aMVr3gV)
+ - 😝 [Back by popular demand](http://9gag.com/gag/a3439Dv)
  - 😝 [Beautiful](http://9gag.com/gag/ae90vzW)
  - 💣 [Jerry had zero fu*cks left to give.](http://9gag.com/gag/aO8bXwN)
  - 😝 [`We do not tolerate associations in which our social order is devalued and calls are made to combat them.` Germany: Muslim community banned and dissolved. Raids in Braunschweig and Berlin. All social media channels were immediately shut down and club assets confiscated.](http://9gag.com/gag/axyZxqn)

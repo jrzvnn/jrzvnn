@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Night shift at it best](http://9gag.com/gag/a7oyzEq)
  - 😝 [Bad Prank](http://9gag.com/gag/aZZx613)
- - 😝 [Didn&#39;t go as planned](http://9gag.com/gag/ajP042w)
- - 💣 [When you ask if you can pay later...](http://9gag.com/gag/a2vYeEp)
- - 😝 [`I need your clothes, your boots, and your insurance information. I&#39;ll be back`.](http://9gag.com/gag/aAyroMd)
- - 👉 [Qatar blatantly cheated to defeat India 2-1 in World Cup qualifiers.](http://9gag.com/gag/ae90L95)<!-- MEMES:END -->
+ - 💣 [Police aren\u2019t playing around anymore with Hamas supporters &lpar;SOUND ON&rpar;](http://9gag.com/gag/ayN0bjV)
+ - 😝 [Tired of this shit.](http://9gag.com/gag/aAyrzLd)
+ - 👉 [`I need your clothes, your boots, and your insurance information. I&#39;ll be back`.](http://9gag.com/gag/aAyroMd)<!-- MEMES:END -->
 
 ---
 

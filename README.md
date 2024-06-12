@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix will settle 15 years of Chestnut vs. Kobayashi with a live hot dog-eating contest](https://www.theverge.com/2024/6/12/24177277/netflix-chestnut-kobayashi-unfinished-beef-hot-dogs)
  - [AI search engine Perplexity says it was working on revenue-sharing deals with publishers when Forbes criticized it for misusing content from Forbes and others &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/240612/p31#a240612p31)
  - [Sources: OpenAI&#39;s annualized revenue has hit $3.4B, up from $1.6B in late 2023 and $1B last summer; $3.2B comes from subscriptions to its chatbots and API fees &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/240612/p30#a240612p30)
  - [There’s a new 35mm film camera coming this year, and it looks pretty good](https://www.theverge.com/2024/6/12/24177217/mint-rollei-35af-35mm-film-camera-waitlist-release-announcement)
- - [OpenAI to use Oracle’s chips for more AI compute](https://www.theverge.com/2024/6/12/24177188/openai-oracle-ai-chips-microsoft)
- - [Broadcom reports Q2 revenue up 43% YoY to $12.49B, vs. $12.01B est., raises FY 2024 revenue forecast, announces a 10:1 stock split; AVGO jumps 9%+ after hours &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/240612/p29#a240612p29)<!-- TECH:END -->
+ - [OpenAI to use Oracle’s chips for more AI compute](https://www.theverge.com/2024/6/12/24177188/openai-oracle-ai-chips-microsoft)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

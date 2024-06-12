@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meanwhile, Germany after the elections...](http://9gag.com/gag/azxEWmK)
+ - 😝 [Feeling nostalgia yet](http://9gag.com/gag/aGyw5o0)
+ - 😝 [Never google...](http://9gag.com/gag/a9yLx9m)
+ - 💣 [Didn&#39;t go as planned](http://9gag.com/gag/ajP042w)
  - 😝 [Bad Prank](http://9gag.com/gag/aZZx613)
- - 💣 [Sigh.](http://9gag.com/gag/aBy3AV2)
- - 😝 [When you ask if you can pay later...](http://9gag.com/gag/a2vYeEp)
- - 👉 [IT\u2019S MONDAY!!](http://9gag.com/gag/amo0ZQo)<!-- MEMES:END -->
+ - 👉 [NSFW Fresh be like](http://9gag.com/gag/a4PdvpZ)<!-- MEMES:END -->
 
 ---
 

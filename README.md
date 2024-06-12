@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Be Honest](http://9gag.com/gag/amo04nX)
+ - 😝 [This won&#39;t end well for Michael.](http://9gag.com/gag/a4PdXBy)
  - 😝 [She kiIIed a 3-year-old white chiId and is now laughing about it in court. She deserves the chair. Nothing less.](http://9gag.com/gag/ae908pj)
- - 💣 [Don&#39;t stop me now](http://9gag.com/gag/aD23eOO)
- - 😝 [Worker saves kitten from trash cutting machine](http://9gag.com/gag/ae908QW)
- - 👉 [Hard to find love nowadays](http://9gag.com/gag/an7KPGE)<!-- MEMES:END -->
+ - 💣 [When you ask if you can pay later...](http://9gag.com/gag/a2vYeEp)
+ - 😝 [Bad Prank](http://9gag.com/gag/aZZx613)
+ - 👉 [Didn&#39;t go as planned](http://9gag.com/gag/ajP042w)<!-- MEMES:END -->
 
 ---
 

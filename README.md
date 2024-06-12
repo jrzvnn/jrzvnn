@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Japan&#39;s parliament has approved a law that will force third party App Stores on Apple &amp; Google](https://appleinsider.com/articles/24/06/12/japans-parliament-has-approved-a-law-that-will-force-third-party-app-stores-on-apple-google?utm_medium=rss)
+ - [Q&amp;A with Jingna Zhang, the founder of anti-AI social platform Cara, about its focus on artists, crossing 900K users, the positives of generative AI, and more &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/240612/p23#a240612p23)
  - [Databricks launches AI/BI, a visualization tool to let users type questions about their data to build charts and graphs, competing with Microsoft and Salesforce &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240612/p22#a240612p22)
  - [What&#39;s new in Apple Music for iOS 18](https://appleinsider.com/inside/apple-music/tips/whats-new-in-apple-music-for-ios-18?utm_medium=rss)
- - [How to Use Your Smartphone to Cope With Hearing Loss &lpar;2024&rpar;: Tips for iPhone, Android](https://www.wired.com/story/smartphone-features-deaf-hard-of-hearing/)
- - [Spreadsheet Superstars](https://www.theverge.com/c/24133822/microsoft-excel-spreadsheet-competition-chapmionship)
- - [A summary of the apps that Apple &quot;Sherlocked&quot; at WWDC 2024, like 1Password and LastPass, call recording and transcription apps, and the Newji custom emoji app &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240612/p21#a240612p21)<!-- TECH:END -->
+ - [How to Use Your Smartphone to Cope With Hearing Loss &lpar;2024&rpar;: Tips for iPhone, Android](https://www.wired.com/story/smartphone-features-deaf-hard-of-hearing/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

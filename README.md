@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t let Spidey down. Hold nothing back.](http://9gag.com/gag/aAyrz5L)
+ - 😝 [A new born baby abondoned](http://9gag.com/gag/avygjmM)
  - 😝 [She kiIIed a 3-year-old white chiId and is now laughing about it in court. She deserves the chair. Nothing less.](http://9gag.com/gag/ae908pj)
- - 💣 [Comedy is just timing](http://9gag.com/gag/aGyw4dX)
- - 😝 [Please follow through this time](http://9gag.com/gag/aqyNPKY)
- - 👉 [Police aren\u2019t playing around anymore with Hamas supporters &lpar;SOUND ON&rpar;](http://9gag.com/gag/ayN0bjV)<!-- MEMES:END -->
+ - 💣 [Does fentanyl give you superpowers now?](http://9gag.com/gag/a4PdOqy)
+ - 😝 [Which is worst? The acting or the writing?](http://9gag.com/gag/a87Yxxd)
+ - 👉 [If it&#39;s black...](http://9gag.com/gag/aKGPMd1)<!-- MEMES:END -->
 
 ---
 

@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This won&#39;t end well for Michael.](http://9gag.com/gag/a4PdXBy)
- - 😝 [What a prick.](http://9gag.com/gag/aGywWYw)
- - 💣 [Didn&#39;t go as planned](http://9gag.com/gag/ajP042w)
- - 😝 [Woman who randomly stabbed 3yo white boy smirked and mocked the victim&#39;s family in court](http://9gag.com/gag/aMVrMGP)
- - 👉 [Don&#39;t let Spidey down. Hold nothing back.](http://9gag.com/gag/aAyrz5L)<!-- MEMES:END -->
+ - 😝 [IT\u2019S MONDAY!!](http://9gag.com/gag/amo0ZQo)
+ - 😝 [Bad Prank](http://9gag.com/gag/aZZx613)
+ - 💣 [Woman who randomly stabbed 3yo white boy smirked and mocked the victim&#39;s family in court](http://9gag.com/gag/aMVrMGP)
+ - 😝 [She kiIIed a 3-year-old white chiId and is now laughing about it in court. She deserves the chair. Nothing less.](http://9gag.com/gag/ae908pj)
+ - 👉 [Didn&#39;t go as planned](http://9gag.com/gag/ajP042w)<!-- MEMES:END -->
 
 ---
 

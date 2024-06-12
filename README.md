@@ -172,8 +172,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [How to tell if there are alligators are in the water](http://9gag.com/gag/aO8bwZy)
- - 😝 [Woman who randomly stabbed 3yo white boy smirked and mocked the victim&#39;s family in court](http://9gag.com/gag/aMVrMGP)
- - 💣 [A stiff upper lip](http://9gag.com/gag/aQz4wy8)
+ - 😝 [Never google...](http://9gag.com/gag/a9yLx9m)
+ - 💣 [Ghost boat which the crew disappeared on April 4, 2023 seen adrift with a broken mast and no one on board by a Norwegian Cruise Liner.](http://9gag.com/gag/aE01LvK)
  - 😝 [IdkMustBeOnStartup](http://9gag.com/gag/avygN6M)
  - 👉 [Qatar blatantly cheated to defeat India 2-1 in World Cup qualifiers.](http://9gag.com/gag/ae90L95)<!-- MEMES:END -->
 

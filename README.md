@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A new born baby abondoned](http://9gag.com/gag/avygjmM)
- - 😝 [She kiIIed a 3-year-old white chiId and is now laughing about it in court. She deserves the chair. Nothing less.](http://9gag.com/gag/ae908pj)
- - 💣 [Does fentanyl give you superpowers now?](http://9gag.com/gag/a4PdOqy)
- - 😝 [Which is worst? The acting or the writing?](http://9gag.com/gag/a87Yxxd)
- - 👉 [If it&#39;s black...](http://9gag.com/gag/aKGPMd1)<!-- MEMES:END -->
+ - 😝 [Worker saves kitten from trash cutting machine](http://9gag.com/gag/ae908QW)
+ - 😝 [Tired of this shit.](http://9gag.com/gag/aAyrzLd)
+ - 💣 [American cheese doesn&#39;t split when melting](http://9gag.com/gag/azxE31p)
+ - 😝 [Norwegian news was reporting on the success of far-right parties in Europe while the reason why was happening right behind him. These people have no respect.](http://9gag.com/gag/avygKrd)
+ - 👉 [IT\u2019S MONDAY!!](http://9gag.com/gag/amo0ZQo)<!-- MEMES:END -->
 
 ---
 

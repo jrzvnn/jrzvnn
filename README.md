@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [IBM and Xerox PARC engineer Lynn Conway, who helped shape the way chips are designed and undertook a gender transition in 1968, died last weekend at age 86 &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/240612/p19#a240612p19)
+ - [Our favorite features so far in iOS 18 from Control Center to Genmoji](https://appleinsider.com/articles/24/06/12/our-favorite-features-so-far-in-ios-18-from-control-center-to-genmoji?utm_medium=rss)
  - [A January 6 Rioter Is Leading an Armed National Militia From Prison](https://www.wired.com/story/january-6-rioter-leading-armed-national-militia-from-prison/)
- - [YouTube plans to roll out its Thumbnail Test &amp; Compare tool to all creators &quot;in the coming weeks&quot;, letting them test video thumbnails &quot;evenly&quot; across audiences &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240612/p18#a240612p18)
- - [GameStop raised ~$2.14B from a share sale program capitalizing on a stock rally fueled by Keith Gill&#39;s YouTube return, selling 75M shares for ~$28.49 on average &lpar;Bailey Lipschultz/Bloomberg&rpar;](http://www.techmeme.com/240612/p17#a240612p17)
- - [An AI Bot Is &lpar;Sort of&rpar; Running for Mayor in Wyoming](https://www.wired.com/story/ai-bot-running-for-mayor-wyoming/)
- - [Worried About AI Killing Art? This App Offers a Refuge—If Its Founder Can Keep the Lights On](https://www.wired.com/story/cara-portfolio-app-artificial-intelligence-jingna-zhang/)<!-- TECH:END -->
+ - [Bento breakdown: What&#39;s new in macOS Sequoia](https://appleinsider.com/articles/24/06/12/bento-breakdown-whats-new-in-macos-sequoia?utm_medium=rss)
+ - [YouTube plans to roll out its Thumbnail Test &amp; Compare tool to all creators &quot;in the coming weeks&quot;, letting them test video thumbnails &quot;evenly&quot; across audiences &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240612/p18#a240612p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

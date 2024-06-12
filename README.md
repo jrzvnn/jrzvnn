@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happy pride](http://9gag.com/gag/aNDZE4K)
- - 😝 [`I need your clothes, your boots, and your insurance information. I&#39;ll be back`.](http://9gag.com/gag/aAyroMd)
- - 💣 [Faster, harder...](http://9gag.com/gag/aMVr3gV)
- - 😝 [No title needed](http://9gag.com/gag/awyKw94)
- - 👉 [Beautiful](http://9gag.com/gag/ae90vzW)<!-- MEMES:END -->
+ - 😝 [Didn&#39;t go as planned](http://9gag.com/gag/ajP042w)
+ - 😝 [When you ask if you can pay later...](http://9gag.com/gag/a2vYeEp)
+ - 💣 [She kiIIed a 3-year-old white chiId and is now laughing about it in court. She deserves the chair. Nothing less.](http://9gag.com/gag/ae908pj)
+ - 😝 [Woman who randomly stabbed 3yo white boy smirked and mocked the victim&#39;s family in court](http://9gag.com/gag/aMVrMGP)
+ - 👉 [NSFW Fresh be like](http://9gag.com/gag/a4PdvpZ)<!-- MEMES:END -->
 
 ---
 

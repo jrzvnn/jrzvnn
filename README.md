@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Based AF. Wilders says exactly what needs to be said.](http://9gag.com/gag/a9yL99W)
- - 😝 [Never google...](http://9gag.com/gag/a9yLx9m)
- - 💣 [Does fentanyl give you superpowers now?](http://9gag.com/gag/a4PdOqy)
+ - 😝 [Faster, harder...](http://9gag.com/gag/aMVr3gV)
  - 😝 [Beautiful](http://9gag.com/gag/ae90vzW)
- - 👉 [Bad Prank](http://9gag.com/gag/aZZx613)<!-- MEMES:END -->
+ - 💣 [Jerry had zero fu*cks left to give.](http://9gag.com/gag/aO8bXwN)
+ - 😝 [`We do not tolerate associations in which our social order is devalued and calls are made to combat them.` Germany: Muslim community banned and dissolved. Raids in Braunschweig and Berlin. All social media channels were immediately shut down and club assets confiscated.](http://9gag.com/gag/axyZxqn)
+ - 👉 [World finally resetting for greater good , or is this just some kind of agenda for internet points. .?](http://9gag.com/gag/ajP0bY0)<!-- MEMES:END -->
 
 ---
 

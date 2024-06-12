@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon’s note-taking Kindle Scribe has returned to its best price to date](https://www.theverge.com/2024/6/12/24176914/amazon-kindle-scribe-jbl-authentics-200-smart-speaker-deal-sale)
  - [The best small updates Apple didn’t mention at WWDC](https://www.theverge.com/24176837/apple-ios-18-macos-sequoia-beta-updates-wwdc-2024)
  - [How to lock apps, hide apps, and find them again in iOS 18](https://appleinsider.com/inside/ios-18/tips/how-to-lock-apps-hide-apps-and-find-them-again-in-ios-18?utm_medium=rss)
- - [New visionOS 2 updates are more significant than Apple initially implied](https://appleinsider.com/articles/24/06/12/new-visionos-2-updates-are-more-significant-than-apple-initially-implied?utm_medium=rss)
- - [Epic Games database leak hints at a trove of unannounced games](https://www.theverge.com/2024/6/12/24176964/epic-games-database-leak-unannounced-games)
- - [Life360 confirms a hacker stole Tile tracker IDs and customer info](https://www.theverge.com/2024/6/12/24176889/tile-life360-customer-data-breach-hacker-extortion)<!-- TECH:END -->
+ - [Best VPN Deals: Great Discounts on Subscriptions     - CNET](https://www.cnet.com/deals/best-vpn-sales-and-deals-right-now/#ftag=CAD590a51e)
+ - [New visionOS 2 updates are more significant than Apple initially implied](https://appleinsider.com/articles/24/06/12/new-visionos-2-updates-are-more-significant-than-apple-initially-implied?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

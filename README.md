@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [IT\u2019S MONDAY!!](http://9gag.com/gag/amo0ZQo)
- - 😝 [Qatar blatantly cheated to defeat India 2-1 in World Cup qualifiers.](http://9gag.com/gag/ae90L95)
- - 💣 [Didn&#39;t go as planned](http://9gag.com/gag/ajP042w)
- - 😝 [Please follow through this time](http://9gag.com/gag/aqyNPKY)
- - 👉 [Women](http://9gag.com/gag/aQz4Gxq)<!-- MEMES:END -->
+ - 😝 [Woman who randomly stabbed 3yo white boy smirked and mocked the victim&#39;s family in court](http://9gag.com/gag/aMVrMGP)
+ - 😝 [American cheese doesn&#39;t split when melting](http://9gag.com/gag/azxE31p)
+ - 💣 [IT\u2019S MONDAY!!](http://9gag.com/gag/amo0ZQo)
+ - 😝 [Does fentanyl give you superpowers now?](http://9gag.com/gag/a4PdOqy)
+ - 👉 [NSFW Fresh be like](http://9gag.com/gag/a4PdvpZ)<!-- MEMES:END -->
 
 ---
 

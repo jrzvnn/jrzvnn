@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A summary of the apps that Apple &quot;Sherlocked&quot; at WWDC 2024, like 1Password and LastPass, call recording and transcription apps, and the Newji custom emoji app &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240612/p21#a240612p21)
  - [What&#39;s new in Apple Music for iOS 18](https://appleinsider.com/inside/apple-music/tips/whats-new-in-apple-music-for-ios-18?utm_medium=rss)
  - [10 Best Smartwatches, Editor Tested and Reviewed &lpar;2024&rpar;: Apple Watch, Wear OS, Hybrid Watches, Kids&#39; Watches](https://www.wired.com/gallery/best-smartwatches/)
  - [The surprisingly not so doomed effort to force US drivers to stop speeding](https://www.theverge.com/2024/6/12/24176403/intelligent-speed-assistance-iihs-safety-limiters-governor)
- - [Best Microsoft Surface: Which Models to Buy or Avoid &lpar;2024&rpar;](https://www.wired.com/story/microsoft-surface-buying-guide/)
- - [Revamped Photos app in iOS 18 makes searching better, but hides a key sharing control](https://appleinsider.com/articles/24/06/12/revamped-photos-app-in-ios-18-makes-searching-better-but-hides-a-key-sharing-control?utm_medium=rss)<!-- TECH:END -->
+ - [Inflation Flatlines in May, Bolstering Hopes That the Fed Could Cut Interest Rates by July      - CNET](https://www.cnet.com/personal-finance/banking/inflation-flatlines-in-may-bolstering-hopes-that-the-fed-could-cut-interest-rates-by-july/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

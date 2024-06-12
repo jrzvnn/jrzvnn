@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Everything Apple wants you to know that is coming to iOS 18](https://appleinsider.com/articles/24/06/12/everything-apple-wants-you-to-know-that-is-coming-to-ios-18?utm_medium=rss)
  - [Canary Technologies, which offers tools for hotel guest management, raised a $50M Series C led by Insight Partners, bringing its total raised to nearly $100M &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/240612/p28#a240612p28)
+ - [How Apple&#39;s Safari Highlights Compares With Google&#39;s AI Overviews     - CNET](https://www.cnet.com/tech/services-and-software/how-apples-safari-highlights-compares-with-googles-ai-overviews/#ftag=CAD590a51e)
  - [Roku TV owners complain that motion smoothing is stuck ‘on’ after an update](https://www.theverge.com/2024/6/12/24177117/tcl-roku-tv-motion-smoothing-streaming)
- - [The Windows on Arm chip race heats up with a challenger to Qualcomm](https://www.theverge.com/2024/6/12/24177129/mediatek-arm-windows-chip-snapdragon-x-elite-competitor)
- - [Apple&#39;s core Calendar and Reminders apps can finally talk to each other with iOS 18](https://appleinsider.com/articles/24/06/12/apples-core-calendar-and-reminders-apps-can-finally-talk-to-each-other-with-ios-18?utm_medium=rss)
- - [Smart Script impressively forges handwriting in iPadOS 18 Notes app](https://appleinsider.com/articles/24/06/12/smart-script-impressively-forges-handwriting-in-ipados-18-notes-app?utm_medium=rss)<!-- TECH:END -->
+ - [Best Google Pixel 8A Deals: Save With a Trade-In, New Lines or a New Contract     - CNET](https://www.cnet.com/deals/best-google-pixel-8a-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

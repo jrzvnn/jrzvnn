@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Smart Script impressively forges handwriting in iPadOS 18 Notes app](https://appleinsider.com/articles/24/06/12/smart-script-impressively-forges-handwriting-in-ipados-18-notes-app?utm_medium=rss)
+ - [Sony buys Alamo Drafthouse Cinema](https://www.theverge.com/2024/6/12/24177124/sony-buys-acquires-alamo-drafthouse-cinema)
  - [Tesla’s $50 billion question comes down to the wire](https://www.theverge.com/2024/6/12/24177128/tesla-elon-musk-pay-package-shareholder-vote)
  - [Terraform Labs and co-founder Do Kwon agree to pay $4.47B to resolve a US SEC lawsuit, after a jury in April found them liable for fraud following a civil trial &lpar;Bloomberg&rpar;](http://www.techmeme.com/240612/p27#a240612p27)
- - [Fired SpaceX workers sue Elon Musk for sexual harassment and retaliation](https://www.theverge.com/2024/6/12/24177095/spacex-elon-musk-sexual-harassment-lawsuit)
- - [A growing number of Americans are getting their news from TikTok](https://www.theverge.com/2024/6/12/24177053/tiktok-news-pew-social-media-study-x-facebook-instagram)
- - [Tim Cook talks Apple Intelligence, OpenAI, and iconic Apple products with MKBHD](https://appleinsider.com/articles/24/06/12/tim-cook-talks-apple-intelligence-openai-and-iconic-apple-products-with-mkbhd?utm_medium=rss)<!-- TECH:END -->
+ - [Fired SpaceX workers sue Elon Musk for sexual harassment and retaliation](https://www.theverge.com/2024/6/12/24177095/spacex-elon-musk-sexual-harassment-lawsuit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

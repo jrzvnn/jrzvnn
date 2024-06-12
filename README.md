@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woman who randomly stabbed 3yo white boy smirked and mocked the victim&#39;s family in court](http://9gag.com/gag/aMVrMGP)
- - 😝 [American cheese doesn&#39;t split when melting](http://9gag.com/gag/azxE31p)
- - 💣 [IT\u2019S MONDAY!!](http://9gag.com/gag/amo0ZQo)
- - 😝 [Does fentanyl give you superpowers now?](http://9gag.com/gag/a4PdOqy)
- - 👉 [NSFW Fresh be like](http://9gag.com/gag/a4PdvpZ)<!-- MEMES:END -->
+ - 😝 [Police aren\u2019t playing around anymore with Hamas supporters &lpar;SOUND ON&rpar;](http://9gag.com/gag/ayN0bjV)
+ - 😝 [Tired of this shit.](http://9gag.com/gag/aAyrzLd)
+ - 💣 [Did you toe about Aragorn?](http://9gag.com/gag/a4PdDNd)
+ - 😝 [Night shift at it best](http://9gag.com/gag/a7oyzEq)
+ - 👉 [Big Brother Energy](http://9gag.com/gag/awyK6XB)<!-- MEMES:END -->
 
 ---
 

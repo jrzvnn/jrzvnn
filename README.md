@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Gemini, explained](https://www.theverge.com/24176860/google-gemini-explained-ai-assistant)
+ - [A survey of 10,287 US adults on Facebook, Instagram, X, and TikTok: most see news content, but fewer say news is why they are on the platforms, except for X &lpar;Pew Research Center&rpar;](http://www.techmeme.com/240612/p24#a240612p24)
  - [This macOS Sequoia wallpaper pays tribute to classic Macintosh icons](https://www.theverge.com/2024/6/12/24176917/macos-sequoia-wallpaper-classic-macintosh-icons-susan-kare)
  - [The EU slaps additional tariffs on Chinese EV imports](https://www.theverge.com/2024/6/12/24176871/eu-additional-tariffs-chinese-ev-imports)
- - [Japan&#39;s parliament has approved a law that will force third party App Stores on Apple &amp; Google](https://appleinsider.com/articles/24/06/12/japans-parliament-has-approved-a-law-that-will-force-third-party-app-stores-on-apple-google?utm_medium=rss)
- - [Q&amp;A with Jingna Zhang, the founder of anti-AI social platform Cara, about its focus on artists, crossing 900K users, the positives of generative AI, and more &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/240612/p23#a240612p23)
- - [Databricks launches AI/BI, a visualization tool to let users type questions about their data to build charts and graphs, competing with Microsoft and Salesforce &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240612/p22#a240612p22)<!-- TECH:END -->
+ - [Japan&#39;s parliament has approved a law that will force third party App Stores on Apple &amp; Google](https://appleinsider.com/articles/24/06/12/japans-parliament-has-approved-a-law-that-will-force-third-party-app-stores-on-apple-google?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

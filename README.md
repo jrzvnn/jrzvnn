@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Police aren\u2019t playing around anymore with Hamas supporters &lpar;SOUND ON&rpar;](http://9gag.com/gag/ayN0bjV)
- - 😝 [Tired of this shit.](http://9gag.com/gag/aAyrzLd)
- - 💣 [Did you toe about Aragorn?](http://9gag.com/gag/a4PdDNd)
- - 😝 [Night shift at it best](http://9gag.com/gag/a7oyzEq)
- - 👉 [Big Brother Energy](http://9gag.com/gag/awyK6XB)<!-- MEMES:END -->
+ - 😝 [Never google...](http://9gag.com/gag/a9yLx9m)
+ - 😝 [IT\u2019S MONDAY!!](http://9gag.com/gag/amo0ZQo)
+ - 💣 [Qatar blatantly cheated to defeat India 2-1 in World Cup qualifiers.](http://9gag.com/gag/ae90L95)
+ - 😝 [NSFW Fresh be like](http://9gag.com/gag/a4PdvpZ)
+ - 👉 [When you ask if you can pay later...](http://9gag.com/gag/a2vYeEp)<!-- MEMES:END -->
 
 ---
 

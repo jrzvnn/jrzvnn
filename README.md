@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources and documents detail how Elon Musk blurred boundaries with female employees at SpaceX, including having sex with an employee and a former intern &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240611/p37#a240611p37)
  - [PNY Elite-X Type-C Drive review: Small size, huge convenience](https://appleinsider.com/articles/24/06/12/pny-elite-x-type-c-drive-review-small-size-huge-convenience?utm_medium=rss)
- - [Apple Says Its AI Sets a &#39;New Standard&#39; for Privacy and Invites Security Experts to Test It     - CNET](https://www.cnet.com/tech/services-and-software/apple-says-its-ai-sets-a-new-standard-for-privacy-invites-security-experts-to-test-it/#ftag=CAD590a51e)
- - [Elon Musk Uses X to Air His Grievances Over Apple-OpenAI Partnership. Here&#39;s Why     - CNET](https://www.cnet.com/tech/mobile/elon-musk-uses-x-to-air-his-grievances-over-apple-openai-partnership-heres-why/#ftag=CAD590a51e)
- - [Raleigh, NC-based Relay, which makes walkie-talkies that can provide real-time location data, do live translation, and more, raised a $35M Series B led by G2 &lpar;Zachery Eanes/Axios&rpar;](http://www.techmeme.com/240611/p36#a240611p36)
- - [Don&#39;t Expect Interest Rate Cuts Tomorrow. But What About July?     - CNET](https://www.cnet.com/personal-finance/could-the-fed-cut-interest-rates-in-july-yes-say-these-experts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Light Phone 3 Wants To Be Your Digital Detox Companion     - CNET](https://www.cnet.com/tech/mobile/the-light-phone-3-wants-to-be-your-digital-detox-companion/#ftag=CAD590a51e)
+ - [Best Earbuds for Phone Calls for 2024     - CNET](https://www.cnet.com/tech/mobile/best-wireless-earbuds-and-bluetooth-headphones-for-making-calls/#ftag=CAD590a51e)
+ - [Best Internet Providers in New Jersey     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-new-jersey/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

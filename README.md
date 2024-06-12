@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SK Telecom says South Korean AI chip developers Rebellions and Sapeon Korea are pursuing a merger, in a bid to boost chip share in the next two to three years &lpar;Joyce Lee/Reuters&rpar;](http://www.techmeme.com/240612/p12#a240612p12)
- - [Rubrik reports Q1 revenue up 38% YoY to $187.3M, above $171.5M est., and ARR up 46% YoY to $856.1M, in the cybersecurity company&#39;s inaugural post-IPO earnings &lpar;Charles Gorrivan/Bloomberg&rpar;](http://www.techmeme.com/240612/p11#a240612p11)
- - [The $50 Billion Musk Referendum](https://www.wired.com/story/the-dollar50-billion-musk-referendum/)
- - [Jabra kills off its consumer earbuds after launching new Elite models](https://www.theverge.com/2024/6/12/24176764/jabra-exits-consumer-earbud-market-elite-talk-wireless-bluetooth)
- - [UAE Minister of AI and Digital Economy Omar Al Olama says fears over China using Middle Eastern countries to overcome US sanctions on AI chips are &quot;valid&quot; &lpar;Tobias Mann/The Register&rpar;](http://www.techmeme.com/240612/p10#a240612p10)<!-- TECH:END -->
+ - [A January 6 Rioter Is Leading an Armed National Militia From Prison](https://www.wired.com/story/january-6-rioter-leading-armed-national-militia-from-prison/)
+ - [iOS 18 gains new slow charger warning in battery settings](https://appleinsider.com/articles/24/06/12/ios-18-gains-new-slow-charger-warning-in-battery-settings?utm_medium=rss)
+ - [Silicon Valley’s Fanciest Stolen Bikes Are Getting Trafficked by One Mastermind in Jalisco, Mexico](https://www.wired.com/story/silicon-valleys-fanciest-stolen-bikes-trafficked-mastermind-jalisco-mexico/)
+ - [Waymo issues software and mapping recall after robotaxi crashes into a telephone pole](https://www.theverge.com/2024/6/12/24175489/waymo-recall-telephone-poll-crash-phoenix-software-map)
+ - [German startup Black Semiconductor raised &amp;euro;254M, comprising &amp;euro;229M in public grants and &amp;euro;26M in equity, to build chips using graphene for mass production in 2031 &lpar;Arno Schuetze/Bloomberg&rpar;](http://www.techmeme.com/240612/p13#a240612p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rubrik reports Q1 revenue up 38% YoY to $187.3M, above $171.5M est., and ARR up 46% YoY to $856.1M, in the cybersecurity company&#39;s inaugural post-IPO earnings &lpar;Charles Gorrivan/Bloomberg&rpar;](http://www.techmeme.com/240612/p11#a240612p11)
+ - [The $50 Billion Musk Referendum](https://www.wired.com/story/the-dollar50-billion-musk-referendum/)
+ - [Jabra kills off its consumer earbuds after launching new Elite models](https://www.theverge.com/2024/6/12/24176764/jabra-exits-consumer-earbud-market-elite-talk-wireless-bluetooth)
  - [UAE Minister of AI and Digital Economy Omar Al Olama says fears over China using Middle Eastern countries to overcome US sanctions on AI chips are &quot;valid&quot; &lpar;Tobias Mann/The Register&rpar;](http://www.techmeme.com/240612/p10#a240612p10)
- - [Sources detail struggles at Koo, an Indian rival to X, including laying off ~80% of its workforce in recent months and being unable to raise more funds &lpar;Varsha Bansal/Rest of World&rpar;](http://www.techmeme.com/240612/p9#a240612p9)
- - [Four Indian retailer associations representing 90K grocery shops say monthly sales are dropping by 10% to 60% for some due to the rise of quick commerce apps &lpar;Reuters&rpar;](http://www.techmeme.com/240612/p8#a240612p8)
- - [How some people are using the term &quot;slop&quot; as a descriptor for low-grade AI material, after emerging in reaction to the release of AI art generators in 2022 &lpar;Benjamin Hoffman/New York Times&rpar;](http://www.techmeme.com/240612/p7#a240612p7)
- - [Q&amp;A with Cohere CEO Aidan Gomez on co-authoring the &quot;Attention is all you need&quot; paper at Google, focusing on enterprise, whether there&#39;s an AI bubble, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240612/p6#a240612p6)<!-- TECH:END -->
+ - [Sources detail struggles at Koo, an Indian rival to X, including laying off ~80% of its workforce in recent months and being unable to raise more funds &lpar;Varsha Bansal/Rest of World&rpar;](http://www.techmeme.com/240612/p9#a240612p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

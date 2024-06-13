@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rip Anastazja I&#39;m Sorry Europe Imported So Many Savages](http://9gag.com/gag/ae90XLm)
- - 😝 [Such kindest in the reply! \u201cSo close!\u201d](http://9gag.com/gag/aQz4wXK)
- - 💣 [No title needed](http://9gag.com/gag/awyKw94)
- - 😝 [Post your wallpapers here, not a screenshot of your wallpaper.](http://9gag.com/gag/aYQWzNO)
- - 👉 [Beautiful](http://9gag.com/gag/ae90vzW)<!-- MEMES:END -->
+ - 😝 [This one liar.](http://9gag.com/gag/aByr9z1)
+ - 😝 [What does Disney wants to tell us by this?](http://9gag.com/gag/a87jdjO)
+ - 💣 [Rip Anastazja I&#39;m Sorry Europe Imported So Many Savages](http://9gag.com/gag/ae90XLm)
+ - 😝 [Can&#39;t wait to see her](http://9gag.com/gag/a343oy3)
+ - 👉 [Star What?](http://9gag.com/gag/azxV7Vp)<!-- MEMES:END -->
 
 ---
 

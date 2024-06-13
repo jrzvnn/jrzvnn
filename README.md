@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s WWDC demos, with the integration of generative AI across its products, show the value of seeing AI as a feature rather than a standalone app or device &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/240613/p26#a240613p26)
  - [The 38 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now &lpar;June 2024&rpar;](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
  - [Eye Tracking lets you navigate iOS 18 without touching your iPhone](https://appleinsider.com/articles/24/06/13/eye-tracking-lets-you-navigate-ios-18-without-touching-your-iphone?utm_medium=rss)
  - [Best Treadmills of 2024     - CNET](https://www.cnet.com/health/fitness/best-treadmill/#ftag=CAD590a51e)
- - [Google releases patches for 50 security vulnerabilities impacting its Pixel devices, including a zero-day that has been exploited in targeted attacks &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240613/p25#a240613p25)
- - [The 8 Best Grocery Delivery Services to Use in 2024     - CNET](https://www.cnet.com/news/best-grocery-delivery-service/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google releases patches for 50 security vulnerabilities impacting its Pixel devices, including a zero-day that has been exploited in targeted attacks &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240613/p25#a240613p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -172,10 +172,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Cute and sexy](http://9gag.com/gag/ae9082q)
- - 😝 [How to tell if there are alligators are in the water](http://9gag.com/gag/aO8bwZy)
- - 💣 [Bad Prank](http://9gag.com/gag/aZZx613)
- - 😝 [Qatar blatantly cheated to defeat India 2-1 in World Cup qualifiers.](http://9gag.com/gag/ae90L95)
- - 👉 [No title needed](http://9gag.com/gag/awyKw94)<!-- MEMES:END -->
+ - 😝 [NSFW Fresh be like](http://9gag.com/gag/a4PdvpZ)
+ - 💣 [Inflation](http://9gag.com/gag/ajP0zzp)
+ - 😝 [Heard you guys like him too](http://9gag.com/gag/aQz4LPq)
+ - 👉 [Did anybody else try this?](http://9gag.com/gag/amo0ery)<!-- MEMES:END -->
 
 ---
 

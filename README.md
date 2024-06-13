@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As Chinese companies test driverless cars, with government and public support, state media seldom reports crashes or incidents, and online posts are censored &lpar;Keith Bradsher/New York Times&rpar;](http://www.techmeme.com/240613/p16#a240613p16)
+ - [Thinking Different About Apple AI](https://www.wired.com/story/gadget-lab-podcast-647/)
+ - [Samsung’s Galaxy Watch FE is its new entry-level smartwatch](https://www.theverge.com/2024/6/13/24176939/samsung-galaxy-watch-fe-price-specs)
  - [Former Microsoft employee Andrew Harris says the company dismissed his warnings about a critical flaw that led to the 2021 SolarWinds hack; Harris left in 2020 &lpar;ProPublica&rpar;](http://www.techmeme.com/240613/p15#a240613p15)
- - [A Billionaire Has a Plan to Save the Internet—Buying TikTok Is the Next Step](https://www.wired.com/story/frank-mccourt-save-the-internet-buy-tiktok/)
- - [Alpine&#39;s A290 EV Has a Built-In Gran Turismo-Style Driving Instructor](https://www.wired.com/story/alpines-hot-hatch-ev-has-a-built-in-gran-turismo-style-driving-instructor/)
- - [Sony rolls out an update to Discord on PS5 to integrate the app into the console&#39;s dashboard and let users join calls directly, starting in Japan and Asia &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240613/p14#a240613p14)
- - [Apple and OpenAI aren’t paying each other yet, says Bloomberg](https://www.theverge.com/2024/6/13/24177550/apple-openai-chatgpt-deal-payment-revenue-sharing-chatbot)<!-- TECH:END -->
+ - [A Billionaire Has a Plan to Save the Internet—Buying TikTok Is the Next Step](https://www.wired.com/story/frank-mccourt-save-the-internet-buy-tiktok/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

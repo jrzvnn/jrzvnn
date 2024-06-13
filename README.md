@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Post your wallpapers here, not a screenshot of your wallpaper.](http://9gag.com/gag/aYQWzNO)
- - 😝 [Dont blink...](http://9gag.com/gag/azxV7zj)
- - 💣 [Such kindest in the reply! \u201cSo close!\u201d](http://9gag.com/gag/aQz4wXK)
+ - 😝 [I&#39;m not American. Today I discovered why they have so much problems with police officers.](http://9gag.com/gag/aGywWen)
  - 😝 [He couldn\u2019t hit the nail if his life depended on it. Swinging harder \u2260 accuracy](http://9gag.com/gag/ayN0Gvr)
- - 👉 [Tatoo](http://9gag.com/gag/aqy24gZ)<!-- MEMES:END -->
+ - 💣 [Post your wallpapers here, not a screenshot of your wallpaper.](http://9gag.com/gag/aYQWzNO)
+ - 😝 [Amy Winehouse interview backstage at the 2008 BRIT Awards](http://9gag.com/gag/aE01rWN)
+ - 👉 [Sure ya did](http://9gag.com/gag/aGyRK7n)<!-- MEMES:END -->
 
 ---
 

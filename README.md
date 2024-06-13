@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He couldn\u2019t hit the nail if his life depended on it. Swinging harder \u2260 accuracy](http://9gag.com/gag/ayN0Gvr)
- - 😝 [Qatar blatantly cheated to defeat India 2-1 in World Cup qualifiers.](http://9gag.com/gag/ae90L95)
- - 💣 [When you ask if you can pay later...](http://9gag.com/gag/a2vYeEp)
- - 😝 [Rip Anastazja I&#39;m Sorry Europe Imported So Many Savages](http://9gag.com/gag/ae90XLm)
- - 👉 [Post your wallpapers here, not a screenshot of your wallpaper.](http://9gag.com/gag/aYQWzNO)<!-- MEMES:END -->
+ - 😝 [The deep second chance](http://9gag.com/gag/a1me9Xw)
+ - 😝 [Such kindest in the reply! \u201cSo close!\u201d](http://9gag.com/gag/aQz4wXK)
+ - 💣 [He couldn\u2019t hit the nail if his life depended on it. Swinging harder \u2260 accuracy](http://9gag.com/gag/ayN0Gvr)
+ - 😝 [NSFW Fresh be like](http://9gag.com/gag/a4PdvpZ)
+ - 👉 [No title needed](http://9gag.com/gag/awyKw94)<!-- MEMES:END -->
 
 ---
 

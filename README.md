@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Everybody act normal, and boys gather around him don&#39;t leave him at the edge.](http://9gag.com/gag/a9yPb16)
- - 😝 [Ghost boat which the crew disappeared on April 4, 2023 seen adrift with a broken mast and no one on board by a Norwegian Cruise Liner.](http://9gag.com/gag/aE01LvK)
- - 💣 [Tapeworm found during colcolonoscop.](http://9gag.com/gag/aYQW80m)
- - 😝 [Sure ya did](http://9gag.com/gag/aGyRK7n)
- - 👉 [Beautiful](http://9gag.com/gag/ae90vzW)<!-- MEMES:END -->
+ - 😝 [Amy Winehouse interview backstage at the 2008 BRIT Awards](http://9gag.com/gag/aE01rWN)
+ - 😝 [Tatoo](http://9gag.com/gag/aqy24gZ)
+ - 💣 [Sure ya did](http://9gag.com/gag/aGyRK7n)
+ - 😝 [No title needed](http://9gag.com/gag/awyKw94)
+ - 👉 [Rip Anastazja I&#39;m Sorry Europe Imported So Many Savages](http://9gag.com/gag/ae90XLm)<!-- MEMES:END -->
 
 ---
 

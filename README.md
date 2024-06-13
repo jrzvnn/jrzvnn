@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Beats Studio Pro are down to $180, nearly matching their all-time low](https://www.theverge.com/2024/6/13/24177606/beats-studio-pro-headphones-motorola-razr-plus-deal-sale)
- - [Donald Trump met ~12 Bitcoin mining executives in Florida, and says he wants &quot;all the remaining Bitcoin to be made in the USA&quot; to help US be &quot;energy dominant&quot; &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/240613/p21#a240613p21)
- - [The Fight Against AI Comes to a Foundational Data Set](https://www.wired.com/story/the-fight-against-ai-comes-to-a-foundational-data-set/)
- - [All of your presentations will get better in macOS Sequoia](https://appleinsider.com/articles/24/06/13/all-of-your-presentations-will-get-better-in-macos-sequoia?utm_medium=rss)
- - [iOS 18 adds quick-access Text Effects to Messages](https://appleinsider.com/articles/24/06/13/ios-18-adds-quick-access-text-effects-to-messages?utm_medium=rss)<!-- TECH:END -->
+ - [New trailer for Netflix’s The Imaginary is for friends and believers](https://www.theverge.com/2024/6/13/24177695/the-imaginary-trailer-netflix-ponoc)
+ - [Android’s leadership team just got another shake-up](https://www.theverge.com/2024/6/13/24177722/google-android-leadership-team-shakeup-dave-burke)
+ - [How to Use Your Smartphone to Counteract Vision Loss &lpar;2024&rpar;: iPhone, Android, Apps](https://www.wired.com/story/smartphone-features-blind-vision-impairment/)
+ - [Price drop: grab Apple&#39;s M2 MacBook Air 13&quot; for $829](https://appleinsider.com/articles/24/06/13/price-drop-grab-apples-m2-macbook-air-13-for-829?utm_medium=rss)
+ - [WhatsApp updates calling by increasing the limit for video calls to up to 32 people, and adding screen sharing with audio support and a speaker spotlight tool &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/240613/p22#a240613p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

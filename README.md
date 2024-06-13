@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ant Group spent a record ~$2.9B on research in 2023, as the Alibaba affiliate develops its BaiLing LLM; Ant and affiliate MYbank served 87M businesses by 2023 &lpar;Xinyi Luo/Bloomberg&rpar;](http://www.techmeme.com/240613/p10#a240613p10)
  - [Apple is the most valuable company in the US -- again](https://appleinsider.com/articles/24/06/13/apple-is-the-most-valuable-company-in-the-us----again?utm_medium=rss)
  - [You’ll soon be able to join Discord calls directly from your PS5](https://www.theverge.com/2024/6/13/24177548/discord-ps5-integration-calls-from-console)
  - [Sellers Call Amazon’s Buy Box ‘Abusive.’ Now They’re Suing](https://www.wired.com/story/amazon-buy-box-under-attack-again/)
- - [Sources detail Amazon&#39;s struggles to build a new generative AI-powered Alexa, including privacy concerns keeping Alexa&#39;s teams from using Anthropic&#39;s Claude &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/240613/p9#a240613p9)
- - [An interview with Brex co-founders Henrique Dubugras and Pedro Franceschi, who is now its sole CEO, on restructuring, being cash-flow positive by 2025, and more &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240613/p8#a240613p8)<!-- TECH:END -->
+ - [Sources detail Amazon&#39;s struggles to build a new generative AI-powered Alexa, including privacy concerns keeping Alexa&#39;s teams from using Anthropic&#39;s Claude &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/240613/p9#a240613p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

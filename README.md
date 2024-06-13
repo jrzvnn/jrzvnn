@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI adds retired US Army General Paul Nakasone, who led the NSA and US Cyber Command, to its board of directors and its Safety and Security Committee &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/240613/p29#a240613p29)
  - [Google extends repair program for Pixel 8 phones plagued by a pink vertical line](https://www.theverge.com/2024/6/13/24177946/google-pixel-8-repair-program-extension-vertical-line-screen-glitch)
  - [Tesla shareholders approve Elon Musk’s massive pay package — was there ever any doubt?](https://www.theverge.com/2024/6/13/24177656/tesla-shareholders-approve-elon-musks-massive-pay-package-was-there-ever-any-doubt)
  - [Tesla Shareholders Approve Elon Musk&#39;s Big Payday](https://www.wired.com/story/elon-musk-pay-package-approved-tesla-shareholders/)
- - [Adobe Q2: revenue up 10% YoY to $5.31B, vs. $5.29B est., Digital Media revenue up 11% to $3.91B, Digital Experience revenue up 9%; ADBE jumps 14%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240613/p28#a240613p28)
- - [Fastest VPN of 2024     - CNET](https://www.cnet.com/tech/services-and-software/fastest-vpn/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Adobe Q2: revenue up 10% YoY to $5.31B, vs. $5.29B est., Digital Media revenue up 11% to $3.91B, Digital Experience revenue up 9%; ADBE jumps 14%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240613/p28#a240613p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you ask if you can pay later...](http://9gag.com/gag/a2vYeEp)
- - 😝 [Eat the rich...](http://9gag.com/gag/ary4PDK)
- - 💣 [Post your wallpapers here, not a screenshot of your wallpaper.](http://9gag.com/gag/aYQWzNO)
- - 😝 [What a prick.](http://9gag.com/gag/aGywWYw)
- - 👉 [Girls after one sip of alcohol](http://9gag.com/gag/aYQW3LN)<!-- MEMES:END -->
+ - 😝 [Based AF. Wilders says exactly what needs to be said.](http://9gag.com/gag/a9yL99W)
+ - 😝 [The original one died in fresh for ... indian issues. So, here it is again, but now formally correct, more readable and without fake names and personal stories.](http://9gag.com/gag/a4PdvKZ)
+ - 💣 [Qatar blatantly cheated to defeat India 2-1 in World Cup qualifiers.](http://9gag.com/gag/ae90L95)
+ - 😝 [If you think nobody will miss you](http://9gag.com/gag/a5QP8BV)
+ - 👉 [Just stop it\u2026. #savestarwars](http://9gag.com/gag/axyZxmY)<!-- MEMES:END -->
 
 ---
 

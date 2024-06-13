@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Qatar blatantly cheated to defeat India 2-1 in World Cup qualifiers.](http://9gag.com/gag/ae90L95)
- - 😝 [When you ask if you can pay later...](http://9gag.com/gag/a2vYeEp)
- - 💣 [Bad Prank](http://9gag.com/gag/aZZx613)
- - 😝 [Please arrive at airport terminal on time and be accountable for your own actions](http://9gag.com/gag/aYQWzAv)
- - 👉 [He couldn\u2019t hit the nail if his life depended on it. Swinging harder \u2260 accuracy](http://9gag.com/gag/ayN0Gvr)<!-- MEMES:END -->
+ - 😝 [Xena, the warrior hero of the 90s, and now! She&#39;s still so beautiful!](http://9gag.com/gag/aO8b6b6)
+ - 😝 [World finally resetting for greater good , or is this just some kind of agenda for internet points. .?](http://9gag.com/gag/ajP0bY0)
+ - 💣 [If you think nobody will miss you](http://9gag.com/gag/a5QP8BV)
+ - 😝 [A stiff upper lip](http://9gag.com/gag/aQz4wy8)
+ - 👉 [Adobe literally said, `you made this? I made this`.](http://9gag.com/gag/aNDZyQr)<!-- MEMES:END -->
 
 ---
 

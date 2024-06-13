@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [House of the Dragon is coming back for season 3](https://www.theverge.com/2024/6/13/24177781/house-of-the-dragon-season-3-renewal-hbo-game-of-thrones)
+ - [AI Chatbots Are Running for Office Now](https://www.wired.com/story/ai-chatbots-running-for-office/)
  - [New trailer for Netflix’s The Imaginary is for friends and believers](https://www.theverge.com/2024/6/13/24177695/the-imaginary-trailer-netflix-ponoc)
  - [Android’s leadership team just got another shake-up](https://www.theverge.com/2024/6/13/24177722/google-android-leadership-team-shakeup-dave-burke)
- - [How to Use Your Smartphone to Counteract Vision Loss &lpar;2024&rpar;: iPhone, Android, Apps](https://www.wired.com/story/smartphone-features-blind-vision-impairment/)
- - [Price drop: grab Apple&#39;s M2 MacBook Air 13&quot; for $829](https://appleinsider.com/articles/24/06/13/price-drop-grab-apples-m2-macbook-air-13-for-829?utm_medium=rss)
- - [WhatsApp updates calling by increasing the limit for video calls to up to 32 people, and adding screen sharing with audio support and a speaker spotlight tool &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/240613/p22#a240613p22)<!-- TECH:END -->
+ - [How to Use Your Smartphone to Counteract Vision Loss &lpar;2024&rpar;: iPhone, Android, Apps](https://www.wired.com/story/smartphone-features-blind-vision-impairment/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

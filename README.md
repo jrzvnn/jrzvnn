@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the Microsoft Excel World Championship, an annual tournament hosted by Financial Modeling World Cup where competitors solve Excel puzzles for prizes &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240613/p7#a240613p7)
+ - [Japanese trade data: at least 50% of chipmaking equipment exports went to China for three straight quarters through Q1, driven by demand for less advanced gear &lpar;Hirofumi Kanaoka/Nikkei Asia&rpar;](http://www.techmeme.com/240613/p6#a240613p6)
  - [OpenAI says it has expanded its global affairs team from three at the start of 2023 to 35, stationed strategically in locations where AI legislation is advanced &lpar;Financial Times&rpar;](http://www.techmeme.com/240613/p5#a240613p5)
  - [Samsung announces plans to speed up the delivery of AI chips for clients by integrating its memory chip, foundry, and chip packaging services &lpar;Reuters&rpar;](http://www.techmeme.com/240613/p4#a240613p4)
- - [Long-time Android Engineering VP Dave Burke steps down to explore &quot;AI/bio&quot; projects within Alphabet; sources say Platforms &amp; Devices team is undergoing a reorg &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240613/p3#a240613p3)
- - [Sources: at an all-hands, X CEO Linda Yaccarino urged staff to discuss xAI&#39;s Grok with advertisers; questions about delayed promotions were largely unaddressed &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/240613/p2#a240613p2)
- - [MLCommons shares results from its MLPerf 4.0 training benchmarks, which added Google&#39;s and Intel&#39;s AI accelerators; Nvidia H100 GPUs topped all nine benchmarks &lpar;Samuel K. Moore/IEEE Spectrum&rpar;](http://www.techmeme.com/240613/p1#a240613p1)<!-- TECH:END -->
+ - [Long-time Android Engineering VP Dave Burke steps down to explore &quot;AI/bio&quot; projects within Alphabet; sources say Platforms &amp; Devices team is undergoing a reorg &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240613/p3#a240613p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

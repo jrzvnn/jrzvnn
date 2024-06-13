@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Developers can now nominate apps and updates for App Store promotions](https://appleinsider.com/articles/24/06/13/developers-can-now-nominate-apps-and-updates-for-app-store-promotions?utm_medium=rss)
  - [LinkedIn expands its AI job-hunting features for Premium subscribers](https://www.theverge.com/2024/6/13/24177986/linkedin-ai-job-hunting-features-premium-subscribers)
  - [OpenAI adds retired US Army General Paul Nakasone, who led the NSA and US Cyber Command, to its board of directors and its Safety and Security Committee &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/240613/p29#a240613p29)
  - [Google extends repair program for Pixel 8 phones plagued by a pink vertical line](https://www.theverge.com/2024/6/13/24177946/google-pixel-8-repair-program-extension-vertical-line-screen-glitch)
- - [Tesla shareholders approve Elon Musk’s massive pay package — was there ever any doubt?](https://www.theverge.com/2024/6/13/24177656/tesla-shareholders-approve-elon-musks-massive-pay-package-was-there-ever-any-doubt)
- - [Tesla Shareholders Approve Elon Musk&#39;s Big Payday](https://www.wired.com/story/elon-musk-pay-package-approved-tesla-shareholders/)<!-- TECH:END -->
+ - [Tesla shareholders approve Elon Musk’s massive pay package](https://www.theverge.com/2024/6/13/24177656/tesla-shareholders-approve-elon-musks-massive-pay-package-was-there-ever-any-doubt)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

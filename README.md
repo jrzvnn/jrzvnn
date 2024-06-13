@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Paradigm says it raised $850M for its third fund, which will focus on early-stage crypto projects; it previously launched a $2.5B crypto fund in November 2021 &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/240613/p30#a240613p30)
+ - [Feds arrest Adderall telehealth CEO under Controlled Substances Act](https://www.theverge.com/2024/6/13/24178049/done-adhd-telehealth-controlled-substances-act-doj-fraud)
  - [Amazon is reportedly way behind on its new Alexa](https://www.theverge.com/2024/6/13/24177664/amazon-llm-alexa-delayed-fortune)
  - [Apple’s Sunny makes everyone seem like a suspect in new trailer](https://www.theverge.com/24177191/apple-tv-sunny-trailer)
- - [We Asked an Expert About the Hardest Houseplants to Kill     - CNET](https://www.cnet.com/news/we-asked-an-expert-about-the-hardest-houseplants-to-kill/#ftag=CAD590a51e)
- - [Developers can now nominate apps and updates for App Store promotions](https://appleinsider.com/articles/24/06/13/developers-can-now-nominate-apps-and-updates-for-app-store-promotions?utm_medium=rss)
- - [LinkedIn expands its AI job-hunting features for Premium subscribers](https://www.theverge.com/2024/6/13/24177986/linkedin-ai-job-hunting-features-premium-subscribers)<!-- TECH:END -->
+ - [We Asked an Expert About the Hardest Houseplants to Kill     - CNET](https://www.cnet.com/news/we-asked-an-expert-about-the-hardest-houseplants-to-kill/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

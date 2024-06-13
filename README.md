@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Record, summarize, and transcribe audio with Apple Notes on iOS 18](https://appleinsider.com/articles/24/06/13/record-summarize-and-transcribe-audio-with-apple-notes-on-ios-18?utm_medium=rss)
+ - [Apple offers a first look at upcoming Messages via satellite feature](https://appleinsider.com/articles/24/06/13/apple-offers-a-first-look-at-upcoming-messages-via-satellite-feature?utm_medium=rss)
  - [iOS 18 will let you use Apple Pay on desktop Chrome by scanning a code](https://www.theverge.com/2024/6/13/24177851/apple-ios-18-pay-chrome-scanning-code-wwdc-2024)
  - [Apple&#39;s WWDC demos, with the integration of generative AI across its products, show the value of seeing AI as a feature rather than a standalone app or device &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/240613/p26#a240613p26)
- - [The 38 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now &lpar;June 2024&rpar;](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
- - [Eye Tracking lets you navigate iOS 18 without touching your iPhone](https://appleinsider.com/articles/24/06/13/eye-tracking-lets-you-navigate-ios-18-without-touching-your-iphone?utm_medium=rss)
- - [Best Treadmills of 2024     - CNET](https://www.cnet.com/health/fitness/best-treadmill/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 38 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now &lpar;June 2024&rpar;](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

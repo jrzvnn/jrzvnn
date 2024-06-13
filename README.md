@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s time to get back to sea, boys !](http://9gag.com/gag/agmvM1x)
- - 😝 [Jerry had zero fu*cks left to give.](http://9gag.com/gag/aO8bXwN)
- - 💣 [Based AF. Wilders says exactly what needs to be said.](http://9gag.com/gag/a9yL99W)
- - 😝 [`We do not tolerate associations in which our social order is devalued and calls are made to combat them.` Germany: Muslim community banned and dissolved. Raids in Braunschweig and Berlin. All social media channels were immediately shut down and club assets confiscated.](http://9gag.com/gag/axyZxqn)
- - 👉 [Back by popular demand](http://9gag.com/gag/a3439Dv)<!-- MEMES:END -->
+ - 😝 [When you ask if you can pay later...](http://9gag.com/gag/a2vYeEp)
+ - 😝 [IdkMustBeOnStartup](http://9gag.com/gag/avygN6M)
+ - 💣 [Unskippable ads are a crime against humanity](http://9gag.com/gag/aoy0BpX)
+ - 😝 [He couldn\u2019t hit the nail if his life depended on it. Swinging harder \u2260 accuracy](http://9gag.com/gag/ayN0Gvr)
+ - 👉 [Qatar blatantly cheated to defeat India 2-1 in World Cup qualifiers.](http://9gag.com/gag/ae90L95)<!-- MEMES:END -->
 
 ---
 

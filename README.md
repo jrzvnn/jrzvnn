@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung unveils the $199+ Galaxy Watch FE in a single 40mm size with a 1.2&quot; OLED display, Exynos W920 chip, NFC, GPS, and 16GB of storage, on sale from June 24 &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/240613/p17#a240613p17)
- - [The 12 Best Hair Dryers That We&#39;ve Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-hair-dryers/)
- - [As Chinese companies test driverless cars, with government and public support, state media seldom reports crashes or incidents, and online posts are censored &lpar;Keith Bradsher/New York Times&rpar;](http://www.techmeme.com/240613/p16#a240613p16)
- - [Thinking Different About Apple AI](https://www.wired.com/story/gadget-lab-podcast-647/)
- - [Samsung’s Galaxy Watch FE is its new entry-level smartwatch](https://www.theverge.com/2024/6/13/24176939/samsung-galaxy-watch-fe-price-specs)<!-- TECH:END -->
+ - [Apple is paying OpenAI with exposure, not cash](https://appleinsider.com/articles/24/06/13/apple-paying-openai-with-exposure-not-money?utm_medium=rss)
+ - [LinkedIn’s AI Career Coaches Will See You Now](https://www.wired.com/story/linkedin-ai-features-career-coach-chatbot/)
+ - [Artifact’s DNA Lives on in Yahoo’s Revamped AI-Powered News App](https://www.wired.com/story/yahoo-news-app-relaunch-artifact/)
+ - [Bumblebee joins Optimus Prime as the next Transformers Lego set](https://www.theverge.com/24177038/lego-transformers-bumblebee-set-beetle)
+ - [This security system lets you disarm it with your doorbell](https://www.theverge.com/2024/6/13/24177251/arlo-smart-security-system-nfc-tag-launches)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Proposed class action lawsuit accuses Apple of underpaying women](https://appleinsider.com/articles/24/06/13/proposed-class-action-lawsuit-accuses-apple-of-underpaying-women?utm_medium=rss)
+ - [These 7 Houseplants Will Keep Bugs Away     - CNET](https://www.cnet.com/news/these-7-houseplants-are-known-to-repel-bugs/#ftag=CAD590a51e)
  - [Former head of NSA joins OpenAI board](https://www.theverge.com/2024/6/13/24178079/openai-board-paul-nakasone-nsa-safety)
- - [Paradigm says it raised $850M for its third fund, which will focus on early-stage crypto projects; it previously launched a $2.5B crypto fund in November 2021 &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/240613/p30#a240613p30)
- - [Feds arrest Adderall telehealth CEO under Controlled Substances Act](https://www.theverge.com/2024/6/13/24178049/done-adhd-telehealth-controlled-substances-act-doj-fraud)
- - [Amazon is reportedly way behind on its new Alexa](https://www.theverge.com/2024/6/13/24177664/amazon-llm-alexa-delayed-fortune)
- - [Apple’s Sunny makes everyone seem like a suspect in new trailer](https://www.theverge.com/24177191/apple-tv-sunny-trailer)<!-- TECH:END -->
+ - [Too Many Emails? This New Gmail AI Feature Can Help     - CNET](https://www.cnet.com/tech/mobile/too-many-emails-this-new-gmail-ai-feature-can-help/#ftag=CAD590a51e)
+ - [These Appliances Could Cost You $100 a Year for No Reason     - CNET](https://www.cnet.com/how-to/these-appliances-could-cost-you-100-a-year-for-no-reason/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

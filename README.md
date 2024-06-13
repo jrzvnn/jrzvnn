@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US authorities arrest and charge the founder and the head doctor of telehealth company Done Global for an alleged scheme to profit from Adderall prescriptions &lpar;Rolfe Winkler/Wall Street Journal&rpar;](http://www.techmeme.com/240613/p27#a240613p27)
+ - [Six-Word Sci-Fi: Stories Written by You](https://www.wired.com/story/six-word-sci-fi/)
+ - [Ring Video Doorbell     - CNET](https://www.cnet.com/home/smart-home/ring-video-doorbell1-dpnl/#ftag=CAD590a51e)
  - [Maybe we don’t have to capture so much carbon, study suggests](https://www.theverge.com/2024/6/13/24177104/limit-carbon-dioxide-removal-beccs-bioenergy-aviation-agriculture-industry)
- - [GuliKit’s anti-drift Hall effect sticks are coming for your PS5, PS4, Xbox, and Switch Pro gamepads](https://www.theverge.com/2024/6/13/24177912/gulikit-hall-effect-dualsense-dualshock-4-xbox-series-switch-joystick)
- - [Record, summarize, and transcribe audio with Apple Notes on iOS 18](https://appleinsider.com/articles/24/06/13/record-summarize-and-transcribe-audio-with-apple-notes-on-ios-18?utm_medium=rss)
- - [Apple offers a first look at upcoming Messages via satellite feature](https://appleinsider.com/articles/24/06/13/apple-offers-a-first-look-at-upcoming-messages-via-satellite-feature?utm_medium=rss)
- - [iOS 18 will let you use Apple Pay on desktop Chrome by scanning a code](https://www.theverge.com/2024/6/13/24177851/apple-ios-18-pay-chrome-scanning-code-wwdc-2024)<!-- TECH:END -->
+ - [Best VPN Service 2024: VPNs Tested by Our Experts     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

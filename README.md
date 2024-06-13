@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Snowflake plans to close an internal probe into recent cyberattacks after not detecting any unauthorized access into customer accounts since early last week &lpar;Bloomberg&rpar;](http://www.techmeme.com/240613/p24#a240613p24)
+ - [Ford slims down dealership EV requirements after pushback](https://www.theverge.com/2024/6/13/24177715/ford-model-e-dealership-ev-certification-discontinued)
  - [SCOTUS upholds abortion pill access — for now](https://www.theverge.com/2024/6/13/24177827/scotus-mifepristone-abortion-pill-lawsuit-fda-supreme-court)
- - [The Pentagon renews a contract with SpaceX to provide Starlink internet services in Ukraine until November 30 at a cost of $14.1M &lpar;Anthony Capaccio/Bloomberg&rpar;](http://www.techmeme.com/240613/p23#a240613p23)
- - [Man ludicrously blames Apple for his wife catching him communicating with prostitutes](https://appleinsider.com/articles/24/06/13/man-ludicrously-blames-apple-for-his-wife-catching-him-communicating-with-prostitutes?utm_medium=rss)
- - [WhatsApp’s video call upgrades make it even more Zoom-like](https://www.theverge.com/2024/6/13/24177802/whatsapp-video-call-more-zoom-like)
- - [This Startup Wants to Make Video Creation a Breeze for Everyone     - CNET](https://www.cnet.com/tech/services-and-software/this-startup-wants-to-make-video-creation-a-breeze-for-you-and-me/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Prime Members Can Score the OnePlus Watch 2 for $50 Less Right Now     - CNET](https://www.cnet.com/deals/prime-members-can-score-the-oneplus-watch-2-for-50-less-right-now/#ftag=CAD590a51e)
+ - [Best Creatine Supplements of 2024     - CNET](https://www.cnet.com/health/nutrition/best-creatine-supplements/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

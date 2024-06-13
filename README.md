@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This LED mask hides your face behind a creepy pixelated smile](https://www.theverge.com/2024/6/13/24177741/mask-led-qudimask2-emotive-emoji)
+ - [Finally, the Apple Watch will let you rest](https://www.theverge.com/2024/6/13/24175506/apple-watch-watchos-11-rest-days-wearables)
  - [Snowflake plans to close an internal probe into recent cyberattacks after not detecting any unauthorized access into customer accounts since early last week &lpar;Bloomberg&rpar;](http://www.techmeme.com/240613/p24#a240613p24)
  - [Ford slims down dealership EV requirements after pushback](https://www.theverge.com/2024/6/13/24177715/ford-model-e-dealership-ev-certification-discontinued)
- - [SCOTUS upholds abortion pill access — for now](https://www.theverge.com/2024/6/13/24177827/scotus-mifepristone-abortion-pill-lawsuit-fda-supreme-court)
- - [Prime Members Can Score the OnePlus Watch 2 for $50 Less Right Now     - CNET](https://www.cnet.com/deals/prime-members-can-score-the-oneplus-watch-2-for-50-less-right-now/#ftag=CAD590a51e)
- - [Best Creatine Supplements of 2024     - CNET](https://www.cnet.com/health/nutrition/best-creatine-supplements/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [SCOTUS upholds abortion pill access — for now](https://www.theverge.com/2024/6/13/24177827/scotus-mifepristone-abortion-pill-lawsuit-fda-supreme-court)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

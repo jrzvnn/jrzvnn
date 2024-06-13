@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Stanford Internet Observatory is winding down after five years and won&#39;t conduct research into any future elections; Stanford may retain SIO&#39;s branding &lpar;Platformer&rpar;](http://www.techmeme.com/240613/p32#a240613p32)
  - [Brad Smith tells a US House committee that Microsoft &quot;accepts responsibility&quot; for security errors, its business in China served US interests, and more &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/240613/p31#a240613p31)
  - [Proposed class action lawsuit accuses Apple of underpaying women](https://appleinsider.com/articles/24/06/13/proposed-class-action-lawsuit-accuses-apple-of-underpaying-women?utm_medium=rss)
  - [These 7 Houseplants Will Keep Bugs Away     - CNET](https://www.cnet.com/news/these-7-houseplants-are-known-to-repel-bugs/#ftag=CAD590a51e)
- - [Former head of NSA joins OpenAI board](https://www.theverge.com/2024/6/13/24178079/openai-board-paul-nakasone-nsa-safety)
- - [Too Many Emails? This New Gmail AI Feature Can Help     - CNET](https://www.cnet.com/tech/mobile/too-many-emails-this-new-gmail-ai-feature-can-help/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Former head of NSA joins OpenAI board](https://www.theverge.com/2024/6/13/24178079/openai-board-paul-nakasone-nsa-safety)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

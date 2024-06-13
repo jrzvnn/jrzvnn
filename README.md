@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: at an all-hands, X CEO Linda Yaccarino urged staff to discuss xAI&#39;s Grok with advertisers; questions about delayed promotions were largely unaddressed &lpar;Kylie Robison/The Verge&rpar;](http://www.techmeme.com/240613/p2#a240613p2)
  - [MLCommons shares results from its MLPerf 4.0 training benchmarks, which added Google&#39;s and Intel&#39;s AI accelerators; Nvidia H100 GPUs topped all nine benchmarks &lpar;Samuel K. Moore/IEEE Spectrum&rpar;](http://www.techmeme.com/240613/p1#a240613p1)
  - [X all-hands leaves staff with few answers on delayed promotions](https://www.theverge.com/2024/6/12/24172268/x-twitter-all-hands-linda-yaccarino-layoffs-promotions)
  - [Sources: Indian rapid grocery delivery startup Zepto plans to raise ~$650M co-led by Nexus and StepStone at a valuation of $3.5B, up from $1.4B in August 2023 &lpar;Moneycontrol&rpar;](http://www.techmeme.com/240612/p37#a240612p37)
- - [Today&#39;s NYT Connections Hints, Answers, and Help for June 13, #368     - CNET](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answer-help-for-june-13-368/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for June 13, #1090     - CNET](https://www.cnet.com/tech/gaming/todays-wordle-hints-and-answer-help-for-june-13-1090/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers, and Help for June 13, #368     - CNET](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answer-help-for-june-13-368/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bad Prank](http://9gag.com/gag/aZZx613)
- - 😝 [NSFW Fresh be like](http://9gag.com/gag/a4PdvpZ)
- - 💣 [Sigh.](http://9gag.com/gag/aBy3AV2)
- - 😝 [Never google...](http://9gag.com/gag/a9yLx9m)
- - 👉 [Beautiful](http://9gag.com/gag/ae90vzW)<!-- MEMES:END -->
+ - 😝 [Nice design](http://9gag.com/gag/aRBPxzj)
+ - 😝 [Xena, the warrior hero of the 90s, and now! She&#39;s still so beautiful!](http://9gag.com/gag/aO8b6b6)
+ - 💣 [`We do not tolerate associations in which our social order is devalued and calls are made to combat them.` Germany: Muslim community banned and dissolved. Raids in Braunschweig and Berlin. All social media channels were immediately shut down and club assets confiscated.](http://9gag.com/gag/axyZxqn)
+ - 😝 [Spanish patriots: \u201cSpain is Christian, not Muslim!\u201d Do you agree?](http://9gag.com/gag/aAyrnwZ)
+ - 👉 [Back by popular demand](http://9gag.com/gag/a3439Dv)<!-- MEMES:END -->
 
 ---
 

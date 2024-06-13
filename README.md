@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon is reportedly way behind on its new Alexa](https://www.theverge.com/2024/6/13/24177664/amazon-llm-alexa-delayed-fortune)
+ - [Apple’s Sunny makes everyone seem like a suspect in new trailer](https://www.theverge.com/24177191/apple-tv-sunny-trailer)
+ - [We Asked an Expert About the Hardest Houseplants to Kill     - CNET](https://www.cnet.com/news/we-asked-an-expert-about-the-hardest-houseplants-to-kill/#ftag=CAD590a51e)
  - [Developers can now nominate apps and updates for App Store promotions](https://appleinsider.com/articles/24/06/13/developers-can-now-nominate-apps-and-updates-for-app-store-promotions?utm_medium=rss)
- - [LinkedIn expands its AI job-hunting features for Premium subscribers](https://www.theverge.com/2024/6/13/24177986/linkedin-ai-job-hunting-features-premium-subscribers)
- - [OpenAI adds retired US Army General Paul Nakasone, who led the NSA and US Cyber Command, to its board of directors and its Safety and Security Committee &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/240613/p29#a240613p29)
- - [Google extends repair program for Pixel 8 phones plagued by a pink vertical line](https://www.theverge.com/2024/6/13/24177946/google-pixel-8-repair-program-extension-vertical-line-screen-glitch)
- - [Tesla shareholders approve Elon Musk’s massive pay package](https://www.theverge.com/2024/6/13/24177656/tesla-shareholders-approve-elon-musks-massive-pay-package-was-there-ever-any-doubt)<!-- TECH:END -->
+ - [LinkedIn expands its AI job-hunting features for Premium subscribers](https://www.theverge.com/2024/6/13/24177986/linkedin-ai-job-hunting-features-premium-subscribers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

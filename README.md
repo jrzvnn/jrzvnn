@@ -172,9 +172,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Please arrive at airport terminal on time and be accountable for your own actions](http://9gag.com/gag/aYQWzAv)
- - 😝 [Unskippable ads are a crime against humanity](http://9gag.com/gag/aoy0BpX)
- - 💣 [He couldn\u2019t hit the nail if his life depended on it. Swinging harder \u2260 accuracy](http://9gag.com/gag/ayN0Gvr)
- - 😝 [When you ask if you can pay later...](http://9gag.com/gag/a2vYeEp)
+ - 😝 [Eat the rich...](http://9gag.com/gag/ary4PDK)
+ - 💣 [When you ask if you can pay later...](http://9gag.com/gag/a2vYeEp)
+ - 😝 [NSFW Fresh be like](http://9gag.com/gag/a4PdvpZ)
  - 👉 [Qatar blatantly cheated to defeat India 2-1 in World Cup qualifiers.](http://9gag.com/gag/ae90L95)<!-- MEMES:END -->
 
 ---

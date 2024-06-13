@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Xena, the warrior hero of the 90s, and now! She&#39;s still so beautiful!](http://9gag.com/gag/aO8b6b6)
- - 😝 [World finally resetting for greater good , or is this just some kind of agenda for internet points. .?](http://9gag.com/gag/ajP0bY0)
- - 💣 [If you think nobody will miss you](http://9gag.com/gag/a5QP8BV)
- - 😝 [A stiff upper lip](http://9gag.com/gag/aQz4wy8)
- - 👉 [Adobe literally said, `you made this? I made this`.](http://9gag.com/gag/aNDZyQr)<!-- MEMES:END -->
+ - 😝 [When you ask if you can pay later...](http://9gag.com/gag/a2vYeEp)
+ - 😝 [Eat the rich...](http://9gag.com/gag/ary4PDK)
+ - 💣 [Post your wallpapers here, not a screenshot of your wallpaper.](http://9gag.com/gag/aYQWzNO)
+ - 😝 [What a prick.](http://9gag.com/gag/aGywWYw)
+ - 👉 [Girls after one sip of alcohol](http://9gag.com/gag/aYQW3LN)<!-- MEMES:END -->
 
 ---
 

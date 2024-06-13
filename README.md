@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cute and sexy](http://9gag.com/gag/ae9082q)
- - 😝 [Just stop it\u2026. #savestarwars](http://9gag.com/gag/axyZxmY)
- - 💣 [That sure looks delicious](http://9gag.com/gag/azxEp3z)
- - 😝 [Qatar blatantly cheated to defeat India 2-1 in World Cup qualifiers.](http://9gag.com/gag/ae90L95)
- - 👉 [NSFW Fresh be like](http://9gag.com/gag/a4PdvpZ)<!-- MEMES:END -->
+ - 😝 [It&#39;s time to get back to sea, boys !](http://9gag.com/gag/agmvM1x)
+ - 😝 [Jerry had zero fu*cks left to give.](http://9gag.com/gag/aO8bXwN)
+ - 💣 [Based AF. Wilders says exactly what needs to be said.](http://9gag.com/gag/a9yL99W)
+ - 😝 [`We do not tolerate associations in which our social order is devalued and calls are made to combat them.` Germany: Muslim community banned and dissolved. Raids in Braunschweig and Berlin. All social media channels were immediately shut down and club assets confiscated.](http://9gag.com/gag/axyZxqn)
+ - 👉 [Back by popular demand](http://9gag.com/gag/a3439Dv)<!-- MEMES:END -->
 
 ---
 

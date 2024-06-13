@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [NSFW Fresh be like](http://9gag.com/gag/a4PdvpZ)
- - 😝 [Female psychology in 15 seconds](http://9gag.com/gag/ae908vQ)
- - 💣 [When you ask if you can pay later...](http://9gag.com/gag/a2vYeEp)
- - 😝 [Post your wallpapers here, not a screenshot of your wallpaper.](http://9gag.com/gag/aYQWzNO)
- - 👉 [Qatar blatantly cheated to defeat India 2-1 in World Cup qualifiers.](http://9gag.com/gag/ae90L95)<!-- MEMES:END -->
+ - 😝 [World finally resetting for greater good , or is this just some kind of agenda for internet points. .?](http://9gag.com/gag/ajP0bY0)
+ - 😝 [Jerry had zero fu*cks left to give.](http://9gag.com/gag/aO8bXwN)
+ - 💣 [`We do not tolerate associations in which our social order is devalued and calls are made to combat them.` Germany: Muslim community banned and dissolved. Raids in Braunschweig and Berlin. All social media channels were immediately shut down and club assets confiscated.](http://9gag.com/gag/axyZxqn)
+ - 😝 [Adobe literally said, `you made this? I made this`.](http://9gag.com/gag/aNDZyQr)
+ - 👉 [Based AF. Wilders says exactly what needs to be said.](http://9gag.com/gag/a9yL99W)<!-- MEMES:END -->
 
 ---
 

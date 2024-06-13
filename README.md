@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rip Anastazja I&#39;m Sorry Europe Imported So Many Savages](http://9gag.com/gag/ae90XLm)
- - 😝 [True words](http://9gag.com/gag/aBy3pOQ)
- - 💣 [He couldn\u2019t hit the nail if his life depended on it. Swinging harder \u2260 accuracy](http://9gag.com/gag/ayN0Gvr)
  - 😝 [Amy Winehouse interview backstage at the 2008 BRIT Awards](http://9gag.com/gag/aE01rWN)
- - 👉 [Sure ya did](http://9gag.com/gag/aGyRK7n)<!-- MEMES:END -->
+ - 😝 [Everybody act normal, and boys gather around him don&#39;t leave him at the edge.](http://9gag.com/gag/a9yPb16)
+ - 💣 [Dont blink...](http://9gag.com/gag/azxV7zj)
+ - 😝 [Tapeworm found during colcolonoscop.](http://9gag.com/gag/aYQW80m)
+ - 👉 [Rip Anastazja I&#39;m Sorry Europe Imported So Many Savages](http://9gag.com/gag/ae90XLm)<!-- MEMES:END -->
 
 ---
 

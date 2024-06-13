@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to lock apps, hide apps, and find them again in iOS 18](https://appleinsider.com/inside/ios-18/tips/how-to-lock-apps-hide-apps-and-find-them-again-in-ios-18?utm_medium=rss)
  - [How China is testing more driverless cars than any other country, with 16+ cities letting 19+ companies test vehicles on public roads, aided by government help &lpar;Keith Bradsher/New York Times&rpar;](http://www.techmeme.com/240613/p12#a240613p12)
  - [Bento breakdown: what Apple wants you to know about watchOS 11](https://appleinsider.com/articles/24/06/13/bento-breakdown-what-apple-wants-you-to-know-about-watchos-11?utm_medium=rss)
  - [Dublin-based AccountsIQ, which offers AI-powered bookkeeping, raised &amp;euro;60M, after raising just &amp;euro;12.7M in its nearly 20 year history, and reports 1,000 clients &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240613/p11#a240613p11)
- - [If Ray Kurzweil Is Right &lpar;Again&rpar;, You’ll Meet His Immortal Soul in the Cloud](https://www.wired.com/story/big-interview-ray-kurzweil/)
- - [The Secret to Living Past 120 Years Old? Nanobots](https://www.wired.com/story/the-singularity-is-nearer-book-ray-kurzweil/)<!-- TECH:END -->
+ - [If Ray Kurzweil Is Right &lpar;Again&rpar;, You’ll Meet His Immortal Soul in the Cloud](https://www.wired.com/story/big-interview-ray-kurzweil/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

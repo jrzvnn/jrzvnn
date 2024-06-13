@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iOS 18 adds quick-access Text Effects to Messages](https://appleinsider.com/articles/24/06/13/ios-18-adds-quick-access-text-effects-to-messages?utm_medium=rss)
+ - [TikTok’s latest feature for musicians is a glossy video series](https://www.theverge.com/2024/6/13/24175408/tiktok-off-the-record-music-album-releases-video-series)
+ - [How to watch Tesla’s annual stockholder meeting](https://www.theverge.com/2024/6/13/24177635/tesla-shareholder-how-to-watch-livestream-elon-musk-pay-package)
  - [Oracle plans to shut down Oracle Advertising, as revenue in the ad business came in at $300M in the 2024 fiscal year, down from a reported $2B in 2022 &lpar;Catherine Perloff/Adweek&rpar;](http://www.techmeme.com/240613/p20#a240613p20)
- - [How to turn off Windows’ aging activity tracker](https://www.theverge.com/24177605/microsoft-windows-recall-activity-tracker-recall-how-to)
- - [Supreme Court Upholds Access to Abortion Pill in Unanimous Vote](https://www.wired.com/story/supreme-court-upholds-access-to-abortion-pill-mifepristone/)
- - [Lux vs. Lumens and Explaining Other Lighting Gear Terms as You Shop &lpar;2024&rpar;](https://www.wired.com/story/what-lumens-lux-and-other-lighting-gear-terms-mean/)
- - [Here’s how Apple’s AI model tries to keep your data private](https://www.theverge.com/2024/6/13/24175985/apple-intelligence-ai-model-local-cloud-privacy-how-it-works)<!-- TECH:END -->
+ - [How to turn off Windows’ aging activity tracker](https://www.theverge.com/24177605/microsoft-windows-recall-activity-tracker-recall-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

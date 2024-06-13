@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Databricks tells investors its annualized revenue is expected to reach $2.4B through July 2024, or the first half of its FY 2025, up 60% from a year earlier &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240612/p36#a240612p36)
  - [A look at Satya Nadella&#39;s AI efforts; source: some future Microsoft AI products may be switched from OpenAI tech to the model being developed by Suleyman&#39;s team &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240612/p35#a240612p35)
  - [Save 50% on PDF Expert Premium for Mac with coupon](https://appleinsider.com/articles/24/06/13/save-50-on-pdf-expert-premium-for-mac-with-coupon?utm_medium=rss)
  - [70,000 People Lose Their Social Security Benefits Each Year for These Reasons     - CNET](https://www.cnet.com/personal-finance/70000-people-lose-their-social-security-benefits-each-year-for-these-reasons/#ftag=CAD590a51e)
- - [We Sleep on Beds for a Living: Here&#39;s How We Test Mattresses     - CNET](https://www.cnet.com/health/sleep/how-cnet-tests-mattresses/#ftag=CAD590a51e)
- - [Apple paying OpenAI with exposure, not money](https://appleinsider.com/articles/24/06/13/apple-paying-openai-with-exposure-not-money?utm_medium=rss)<!-- TECH:END -->
+ - [We Sleep on Beds for a Living: Here&#39;s How We Test Mattresses     - CNET](https://www.cnet.com/health/sleep/how-cnet-tests-mattresses/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

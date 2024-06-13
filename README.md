@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple fined in South Korea for collecting users&#39; data without their consent](https://appleinsider.com/articles/24/06/13/apple-fined-in-south-korea-for-collecting-users-data-without-their-consent?utm_medium=rss)
  - [After a major leak of unannounced games, Epic releases an update &quot;so third-party tools can&#39;t surface any new unpublished product titles&quot; from the Games Store &lpar;Aernout van de Velde/Wccftech&rpar;](http://www.techmeme.com/240613/p19#a240613p19)
  - [How Control Center&#39;s new design in iOS 18 makes it faster to use and customize](https://appleinsider.com/articles/24/06/13/how-control-centers-new-design-in-ios-18-makes-it-faster-to-use-and-customize?utm_medium=rss)
  - [Apple and Google won’t be able to stop third-party app stores in Japan](https://www.theverge.com/2024/6/13/24177599/apple-google-japan-law-third-party-app-stores-competition)
- - [Yahoo debuts a revamped version of the free Yahoo News app powered by Artifact&#39;s tech, after buying the Instagram co-founders&#39; news app in April 2024 &lpar;Boone Ashworth/Wired&rpar;](http://www.techmeme.com/240613/p18#a240613p18)
- - [Apple is paying OpenAI with exposure, not cash](https://appleinsider.com/articles/24/06/13/apple-paying-openai-with-exposure-not-money?utm_medium=rss)<!-- TECH:END -->
+ - [Yahoo debuts a revamped version of the free Yahoo News app powered by Artifact&#39;s tech, after buying the Instagram co-founders&#39; news app in April 2024 &lpar;Boone Ashworth/Wired&rpar;](http://www.techmeme.com/240613/p18#a240613p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

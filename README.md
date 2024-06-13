@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Eye Tracking lets you navigate iOS 18 without touching your iPhone](https://appleinsider.com/articles/24/06/13/eye-tracking-lets-you-navigate-ios-18-without-touching-your-iphone?utm_medium=rss)
+ - [Best Treadmills of 2024     - CNET](https://www.cnet.com/health/fitness/best-treadmill/#ftag=CAD590a51e)
  - [Google releases patches for 50 security vulnerabilities impacting its Pixel devices, including a zero-day that has been exploited in targeted attacks &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240613/p25#a240613p25)
- - [This LED mask hides your face behind a creepy pixelated smile](https://www.theverge.com/2024/6/13/24177741/mask-led-qudimask2-emotive-emoji)
- - [Finally, the Apple Watch will let you rest](https://www.theverge.com/2024/6/13/24175506/apple-watch-watchos-11-rest-days-wearables)
- - [Snowflake plans to close an internal probe into recent cyberattacks after not detecting any unauthorized access into customer accounts since early last week &lpar;Bloomberg&rpar;](http://www.techmeme.com/240613/p24#a240613p24)
- - [Ford slims down dealership EV requirements after pushback](https://www.theverge.com/2024/6/13/24177715/ford-model-e-dealership-ev-certification-discontinued)<!-- TECH:END -->
+ - [The 8 Best Grocery Delivery Services to Use in 2024     - CNET](https://www.cnet.com/news/best-grocery-delivery-service/#ftag=CAD590a51e)
+ - [This LED mask hides your face behind a creepy pixelated smile](https://www.theverge.com/2024/6/13/24177741/mask-led-qudimask2-emotive-emoji)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

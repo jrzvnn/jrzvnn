@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Indian rapid grocery delivery startup Zepto plans to raise ~$650M co-led by Nexus and StepStone at a valuation of $3.5B, up from $1.4B in August 2023 &lpar;Moneycontrol&rpar;](http://www.techmeme.com/240612/p37#a240612p37)
  - [Databricks tells investors its annualized revenue is expected to reach $2.4B through July 2024, or the first half of its FY 2025, up 60% from a year earlier &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240612/p36#a240612p36)
  - [A look at Satya Nadella&#39;s AI efforts; source: some future Microsoft AI products may be switched from OpenAI tech to the model being developed by Suleyman&#39;s team &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240612/p35#a240612p35)
  - [Best Internet Providers in Ontario, California     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-ontario-ca/#ftag=CAD590a51e)
- - [Best Internet Providers in Santa Clarita, California     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-santa-clarita-ca/#ftag=CAD590a51e)
- - [Save 50% on PDF Expert Premium for Mac with coupon](https://appleinsider.com/articles/24/06/13/save-50-on-pdf-expert-premium-for-mac-with-coupon?utm_medium=rss)<!-- TECH:END -->
+ - [Best Internet Providers in Santa Clarita, California     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-santa-clarita-ca/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rip Anastazja I&#39;m Sorry Europe Imported So Many Savages](http://9gag.com/gag/ae90XLm)
- - 😝 [How to tell if there are alligators are in the water](http://9gag.com/gag/aO8bwZy)
- - 💣 [He couldn\u2019t hit the nail if his life depended on it. Swinging harder \u2260 accuracy](http://9gag.com/gag/ayN0Gvr)
- - 😝 [No title needed](http://9gag.com/gag/awyKw94)
- - 👉 [NSFW Fresh be like](http://9gag.com/gag/a4PdvpZ)<!-- MEMES:END -->
+ - 😝 [Never google...](http://9gag.com/gag/a9yLx9m)
+ - 😝 [Inflation](http://9gag.com/gag/ajP0zzp)
+ - 💣 [Post your wallpapers here, not a screenshot of your wallpaper.](http://9gag.com/gag/aYQWzNO)
+ - 😝 [Qatar blatantly cheated to defeat India 2-1 in World Cup qualifiers.](http://9gag.com/gag/ae90L95)
+ - 👉 [Just give him some time to come back from store ffs](http://9gag.com/gag/aYQwjgN)<!-- MEMES:END -->
 
 ---
 

@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Inflation](http://9gag.com/gag/ajP0zzp)
  - 😝 [When you ask if you can pay later...](http://9gag.com/gag/a2vYeEp)
- - 😝 [Bad Prank](http://9gag.com/gag/aZZx613)
- - 💣 [NSFW Fresh be like](http://9gag.com/gag/a4PdvpZ)
- - 😝 [Cute and sexy](http://9gag.com/gag/ae9082q)
- - 👉 [Qatar blatantly cheated to defeat India 2-1 in World Cup qualifiers.](http://9gag.com/gag/ae90L95)<!-- MEMES:END -->
+ - 💣 [IdkMustBeOnStartup](http://9gag.com/gag/avygN6M)
+ - 😝 [Qatar blatantly cheated to defeat India 2-1 in World Cup qualifiers.](http://9gag.com/gag/ae90L95)
+ - 👉 [Cute and sexy](http://9gag.com/gag/ae9082q)<!-- MEMES:END -->
 
 ---
 

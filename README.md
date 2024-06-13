@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tesla investors sue Elon Musk for launching a rival AI company](https://www.theverge.com/2024/6/13/24177975/tesla-shareholder-lawsuit-elon-musk-xai-rival-compete)
+ - [Tesla’s 2024 shareholder meeting: all the news about Elon Musk’s $50 billion payday](https://www.theverge.com/2024/6/13/24177816/tesla-shareholder-elon-musk-pay-package-vote-news)
  - [US authorities arrest and charge the founder and the head doctor of telehealth company Done Global for an alleged scheme to profit from Adderall prescriptions &lpar;Rolfe Winkler/Wall Street Journal&rpar;](http://www.techmeme.com/240613/p27#a240613p27)
  - [Six-Word Sci-Fi: Stories Written by You](https://www.wired.com/story/six-word-sci-fi/)
- - [Ring Video Doorbell     - CNET](https://www.cnet.com/home/smart-home/ring-video-doorbell1-dpnl/#ftag=CAD590a51e)
- - [Maybe we don’t have to capture so much carbon, study suggests](https://www.theverge.com/2024/6/13/24177104/limit-carbon-dioxide-removal-beccs-bioenergy-aviation-agriculture-industry)
- - [Best VPN Service 2024: VPNs Tested by Our Experts     - CNET](https://www.cnet.com/tech/services-and-software/best-vpn/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ring Video Doorbell     - CNET](https://www.cnet.com/home/smart-home/ring-video-doorbell1-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

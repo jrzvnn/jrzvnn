@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [World finally resetting for greater good , or is this just some kind of agenda for internet points. .?](http://9gag.com/gag/ajP0bY0)
- - 😝 [Jerry had zero fu*cks left to give.](http://9gag.com/gag/aO8bXwN)
- - 💣 [`We do not tolerate associations in which our social order is devalued and calls are made to combat them.` Germany: Muslim community banned and dissolved. Raids in Braunschweig and Berlin. All social media channels were immediately shut down and club assets confiscated.](http://9gag.com/gag/axyZxqn)
- - 😝 [Adobe literally said, `you made this? I made this`.](http://9gag.com/gag/aNDZyQr)
- - 👉 [Based AF. Wilders says exactly what needs to be said.](http://9gag.com/gag/a9yL99W)<!-- MEMES:END -->
+ - 😝 [Back by popular demand](http://9gag.com/gag/a3439Dv)
+ - 😝 [`We do not tolerate associations in which our social order is devalued and calls are made to combat them.` Germany: Muslim community banned and dissolved. Raids in Braunschweig and Berlin. All social media channels were immediately shut down and club assets confiscated.](http://9gag.com/gag/axyZxqn)
+ - 💣 [World finally resetting for greater good , or is this just some kind of agenda for internet points. .?](http://9gag.com/gag/ajP0bY0)
+ - 😝 [If you think nobody will miss you](http://9gag.com/gag/a5QP8BV)
+ - 👉 [Can&#39;t wait to see her](http://9gag.com/gag/a343oy3)<!-- MEMES:END -->
 
 ---
 

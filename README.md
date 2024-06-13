@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [No way it could have been Ghandi. No sh!t was ever found at the crime scenes](http://9gag.com/gag/ae90XPO)
  - 😝 [Rip Anastazja I&#39;m Sorry Europe Imported So Many Savages](http://9gag.com/gag/ae90XLm)
- - 😝 [Just give him some time to come back from store ffs](http://9gag.com/gag/aYQwjgN)
- - 💣 [How to tell if there are alligators are in the water](http://9gag.com/gag/aO8bwZy)
- - 😝 [Qatar blatantly cheated to defeat India 2-1 in World Cup qualifiers.](http://9gag.com/gag/ae90L95)
- - 👉 [IdkMustBeOnStartup](http://9gag.com/gag/avygN6M)<!-- MEMES:END -->
+ - 💣 [He couldn\u2019t hit the nail if his life depended on it. Swinging harder \u2260 accuracy](http://9gag.com/gag/ayN0Gvr)
+ - 😝 [IdkMustBeOnStartup](http://9gag.com/gag/avygN6M)
+ - 👉 [I&#39;m not American. Today I discovered why they have so much problems with police officers.](http://9gag.com/gag/aGywWen)<!-- MEMES:END -->
 
 ---
 

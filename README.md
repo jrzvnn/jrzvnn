@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Former Microsoft employee Andrew Harris says the company dismissed his warnings about a critical flaw that led to the 2021 SolarWinds hack; Harris left in 2020 &lpar;ProPublica&rpar;](http://www.techmeme.com/240613/p15#a240613p15)
  - [A Billionaire Has a Plan to Save the Internet—Buying TikTok Is the Next Step](https://www.wired.com/story/frank-mccourt-save-the-internet-buy-tiktok/)
  - [Alpine&#39;s A290 EV Has a Built-In Gran Turismo-Style Driving Instructor](https://www.wired.com/story/alpines-hot-hatch-ev-has-a-built-in-gran-turismo-style-driving-instructor/)
  - [Sony rolls out an update to Discord on PS5 to integrate the app into the console&#39;s dashboard and let users join calls directly, starting in Japan and Asia &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240613/p14#a240613p14)
- - [Apple and OpenAI aren’t paying each other yet, says Bloomberg](https://www.theverge.com/2024/6/13/24177550/apple-openai-chatgpt-deal-payment-revenue-sharing-chatbot)
- - [Amazon and telecom Vrio plan to launch a satellite internet service in Argentina, Brazil, Chile, Uruguay, Peru, Ecuador, and Colombia, coming online in mid-2025 &lpar;Eliana Raszewski/Reuters&rpar;](http://www.techmeme.com/240613/p13#a240613p13)<!-- TECH:END -->
+ - [Apple and OpenAI aren’t paying each other yet, says Bloomberg](https://www.theverge.com/2024/6/13/24177550/apple-openai-chatgpt-deal-payment-revenue-sharing-chatbot)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

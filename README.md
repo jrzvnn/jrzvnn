@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple dancing with Microsoft for most valuable company in the US crown](https://appleinsider.com/articles/24/06/13/apple-is-the-most-valuable-company-in-the-us----again?utm_medium=rss)
- - [Ant Group spent a record ~$2.9B on research in 2023, as the Alibaba affiliate develops its BaiLing LLM; Ant and affiliate MYbank served 87M businesses by 2023 &lpar;Xinyi Luo/Bloomberg&rpar;](http://www.techmeme.com/240613/p10#a240613p10)
- - [You’ll soon be able to join Discord calls directly from your PS5](https://www.theverge.com/2024/6/13/24177548/discord-ps5-integration-calls-from-console)
- - [Sellers Call Amazon’s Buy Box ‘Abusive.’ Now They’re Suing](https://www.wired.com/story/amazon-buy-box-under-attack-again/)
- - [Sources detail Amazon&#39;s struggles to build a new generative AI-powered Alexa, including privacy concerns keeping Alexa&#39;s teams from using Anthropic&#39;s Claude &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/240613/p9#a240613p9)<!-- TECH:END -->
+ - [Bento breakdown: what Apple wants you to know about watchOS 11](https://appleinsider.com/articles/24/06/13/bento-breakdown-what-apple-wants-you-to-know-about-watchos-11?utm_medium=rss)
+ - [Dublin-based AccountsIQ, which offers AI-powered bookkeeping, raised &amp;euro;60M, after raising just &amp;euro;12.7M in its nearly 20 year history, and reports 1,000 clients &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240613/p11#a240613p11)
+ - [If Ray Kurzweil Is Right &lpar;Again&rpar;, You’ll Meet His Immortal Soul in the Cloud](https://www.wired.com/story/big-interview-ray-kurzweil/)
+ - [The Secret to Living Past 120 Years Old? Nanobots](https://www.wired.com/story/the-singularity-is-nearer-book-ray-kurzweil/)
+ - [Apple dancing with Microsoft for most valuable company in the US crown](https://appleinsider.com/articles/24/06/13/apple-is-the-most-valuable-company-in-the-us----again?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

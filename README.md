@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Oracle plans to shut down Oracle Advertising, as revenue in the ad business came in at $300M in the 2024 fiscal year, down from a reported $2B in 2022 &lpar;Catherine Perloff/Adweek&rpar;](http://www.techmeme.com/240613/p20#a240613p20)
+ - [How to turn off Windows’ aging activity tracker](https://www.theverge.com/24177605/microsoft-windows-recall-activity-tracker-recall-how-to)
  - [Supreme Court Upholds Access to Abortion Pill in Unanimous Vote](https://www.wired.com/story/supreme-court-upholds-access-to-abortion-pill-mifepristone/)
  - [Lux vs. Lumens and Explaining Other Lighting Gear Terms as You Shop &lpar;2024&rpar;](https://www.wired.com/story/what-lumens-lux-and-other-lighting-gear-terms-mean/)
- - [Here’s how Apple’s AI model tries to keep your data private](https://www.theverge.com/2024/6/13/24175985/apple-intelligence-ai-model-local-cloud-privacy-how-it-works)
- - [Apple fined in South Korea for collecting users&#39; data without their consent](https://appleinsider.com/articles/24/06/13/apple-fined-in-south-korea-for-collecting-users-data-without-their-consent?utm_medium=rss)
- - [After a major leak of unannounced games, Epic releases an update &quot;so third-party tools can&#39;t surface any new unpublished product titles&quot; from its Games Store &lpar;Aernout van de Velde/Wccftech&rpar;](http://www.techmeme.com/240613/p19#a240613p19)<!-- TECH:END -->
+ - [Here’s how Apple’s AI model tries to keep your data private](https://www.theverge.com/2024/6/13/24175985/apple-intelligence-ai-model-local-cloud-privacy-how-it-works)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Qatar blatantly cheated to defeat India 2-1 in World Cup qualifiers.](http://9gag.com/gag/ae90L95)
  - 😝 [Post your wallpapers here, not a screenshot of your wallpaper.](http://9gag.com/gag/aYQWzNO)
- - 💣 [Beautiful](http://9gag.com/gag/ae90vzW)
- - 😝 [IdkMustBeOnStartup](http://9gag.com/gag/avygN6M)
- - 👉 [Sure ya did](http://9gag.com/gag/aGyRK7n)<!-- MEMES:END -->
+ - 😝 [Dont blink...](http://9gag.com/gag/azxV7zj)
+ - 💣 [Such kindest in the reply! \u201cSo close!\u201d](http://9gag.com/gag/aQz4wXK)
+ - 😝 [He couldn\u2019t hit the nail if his life depended on it. Swinging harder \u2260 accuracy](http://9gag.com/gag/ayN0Gvr)
+ - 👉 [Tatoo](http://9gag.com/gag/aqy24gZ)<!-- MEMES:END -->
 
 ---
 

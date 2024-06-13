@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rip Anastazja I&#39;m Sorry Europe Imported So Many Savages](http://9gag.com/gag/ae90XLm)
+ - 😝 [This is me every day!](http://9gag.com/gag/a5QKp1y)
  - 😝 [Amy Winehouse interview backstage at the 2008 BRIT Awards](http://9gag.com/gag/aE01rWN)
- - 💣 [ItWorks](http://9gag.com/gag/aZZxe66)
- - 😝 [Post your wallpapers here, not a screenshot of your wallpaper.](http://9gag.com/gag/aYQWzNO)
- - 👉 [Sure ya did](http://9gag.com/gag/aGyRK7n)<!-- MEMES:END -->
+ - 💣 [Dont blink...](http://9gag.com/gag/azxV7zj)
+ - 😝 [This site used to be for memes and funny stuff](http://9gag.com/gag/aE0zd5N)
+ - 👉 [Beautiful](http://9gag.com/gag/ae90vzW)<!-- MEMES:END -->
 
 ---
 

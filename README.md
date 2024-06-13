@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A stiff upper lip](http://9gag.com/gag/aQz4wy8)
+ - 😝 [Rip Anastazja I&#39;m Sorry Europe Imported So Many Savages](http://9gag.com/gag/ae90XLm)
+ - 😝 [How to tell if there are alligators are in the water](http://9gag.com/gag/aO8bwZy)
+ - 💣 [He couldn\u2019t hit the nail if his life depended on it. Swinging harder \u2260 accuracy](http://9gag.com/gag/ayN0Gvr)
  - 😝 [No title needed](http://9gag.com/gag/awyKw94)
- - 💣 [How to tell if there are alligators are in the water](http://9gag.com/gag/aO8bwZy)
- - 😝 [When you ask if you can pay later...](http://9gag.com/gag/a2vYeEp)
- - 👉 [Such kindest in the reply! \u201cSo close!\u201d](http://9gag.com/gag/aQz4wXK)<!-- MEMES:END -->
+ - 👉 [NSFW Fresh be like](http://9gag.com/gag/a4PdvpZ)<!-- MEMES:END -->
 
 ---
 

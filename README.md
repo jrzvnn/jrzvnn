@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you ask if you can pay later...](http://9gag.com/gag/a2vYeEp)
- - 😝 [IdkMustBeOnStartup](http://9gag.com/gag/avygN6M)
- - 💣 [Unskippable ads are a crime against humanity](http://9gag.com/gag/aoy0BpX)
- - 😝 [He couldn\u2019t hit the nail if his life depended on it. Swinging harder \u2260 accuracy](http://9gag.com/gag/ayN0Gvr)
- - 👉 [Qatar blatantly cheated to defeat India 2-1 in World Cup qualifiers.](http://9gag.com/gag/ae90L95)<!-- MEMES:END -->
+ - 😝 [Bad Prank](http://9gag.com/gag/aZZx613)
+ - 😝 [NSFW Fresh be like](http://9gag.com/gag/a4PdvpZ)
+ - 💣 [Sigh.](http://9gag.com/gag/aBy3AV2)
+ - 😝 [Never google...](http://9gag.com/gag/a9yLx9m)
+ - 👉 [Beautiful](http://9gag.com/gag/ae90vzW)<!-- MEMES:END -->
 
 ---
 

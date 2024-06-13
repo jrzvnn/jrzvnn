@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [House of the Dragon is coming back for season 3](https://www.theverge.com/2024/6/13/24177781/house-of-the-dragon-season-3-renewal-hbo-game-of-thrones)
- - [AI Chatbots Are Running for Office Now](https://www.wired.com/story/ai-chatbots-running-for-office/)
- - [New trailer for Netflix’s The Imaginary is for friends and believers](https://www.theverge.com/2024/6/13/24177695/the-imaginary-trailer-netflix-ponoc)
- - [Android’s leadership team just got another shake-up](https://www.theverge.com/2024/6/13/24177722/google-android-leadership-team-shakeup-dave-burke)
- - [How to Use Your Smartphone to Counteract Vision Loss &lpar;2024&rpar;: iPhone, Android, Apps](https://www.wired.com/story/smartphone-features-blind-vision-impairment/)<!-- TECH:END -->
+ - [WhatsApp’s video call upgrades make it even more Zoom-like](https://www.theverge.com/2024/6/13/24177802/whatsapp-video-call-more-zoom-like)
+ - [This Startup Wants to Make Video Creation a Breeze for Everyone     - CNET](https://www.cnet.com/tech/services-and-software/this-startup-wants-to-make-video-creation-a-breeze-for-you-and-me/#ftag=CAD590a51e)
+ - [Best PlayStation VR 2 Deals: Save $100 on the Horizon PSVR 2 Bundle     - CNET](https://www.cnet.com/deals/playstation-vr-2-deals/#ftag=CAD590a51e)
+ - [Best Wi-Fi 6 Routers of 2024     - CNET](https://www.cnet.com/home/internet/best-wi-fi-6-routers/#ftag=CAD590a51e)
+ - [House of the Dragon is coming back for season 3](https://www.theverge.com/2024/6/13/24177781/house-of-the-dragon-season-3-renewal-hbo-game-of-thrones)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google extends repair program for Pixel 8 phones plagued by a pink vertical line](https://www.theverge.com/2024/6/13/24177946/google-pixel-8-repair-program-extension-vertical-line-screen-glitch)
+ - [Tesla shareholders approve Elon Musk’s massive pay package — was there ever any doubt?](https://www.theverge.com/2024/6/13/24177656/tesla-shareholders-approve-elon-musks-massive-pay-package-was-there-ever-any-doubt)
+ - [Tesla Shareholders Approve Elon Musk&#39;s Big Payday](https://www.wired.com/story/elon-musk-pay-package-approved-tesla-shareholders/)
  - [Adobe Q2: revenue up 10% YoY to $5.31B, vs. $5.29B est., Digital Media revenue up 11% to $3.91B, Digital Experience revenue up 9%; ADBE jumps 14%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/240613/p28#a240613p28)
- - [Tesla investors sue Elon Musk for launching a rival AI company](https://www.theverge.com/2024/6/13/24177975/tesla-shareholder-lawsuit-elon-musk-xai-rival-compete)
- - [Tesla’s 2024 shareholder meeting: all the news about Elon Musk’s $50 billion payday](https://www.theverge.com/2024/6/13/24177816/tesla-shareholder-elon-musk-pay-package-vote-news)
- - [US authorities arrest and charge the founder and the head doctor of telehealth company Done Global for an alleged scheme to profit from Adderall prescriptions &lpar;Rolfe Winkler/Wall Street Journal&rpar;](http://www.techmeme.com/240613/p27#a240613p27)
- - [Six-Word Sci-Fi: Stories Written by You](https://www.wired.com/story/six-word-sci-fi/)<!-- TECH:END -->
+ - [Fastest VPN of 2024     - CNET](https://www.cnet.com/tech/services-and-software/fastest-vpn/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

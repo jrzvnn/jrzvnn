@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sellers Call Amazon’s Buy Box ‘Abusive.’ Now They’re Suing](https://www.wired.com/story/amazon-buy-box-under-attack-again/)
  - [Sources detail Amazon&#39;s struggles to build a new generative AI-powered Alexa, including privacy concerns keeping Alexa&#39;s teams from using Anthropic&#39;s Claude &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/240613/p9#a240613p9)
  - [An interview with Brex co-founders Henrique Dubugras and Pedro Franceschi, who is now its sole CEO, on restructuring, being cash-flow positive by 2025, and more &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240613/p8#a240613p8)
  - [Today&#39;s NYT Strands Hints, Answers, and Help for June 13, #102     - CNET](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints and Answers: Help for June 12, #101     - CNET](https://www.cnet.com/tech/gaming/todays-nyt-strands-hint-answer-june-12-101/#ftag=CAD590a51e)
- - [A look at the Microsoft Excel World Championship, an annual tournament hosted by Financial Modeling World Cup where competitors solve Excel puzzles for prizes &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240613/p7#a240613p7)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints and Answers: Help for June 12, #101     - CNET](https://www.cnet.com/tech/gaming/todays-nyt-strands-hint-answer-june-12-101/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

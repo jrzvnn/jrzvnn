@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to tell if there are alligators are in the water](http://9gag.com/gag/aO8bwZy)
- - 😝 [Just give him some time to come back from store ffs](http://9gag.com/gag/aYQwjgN)
- - 💣 [This won&#39;t end well for Michael.](http://9gag.com/gag/a4PdXBy)
- - 😝 [Such kindest in the reply! \u201cSo close!\u201d](http://9gag.com/gag/aQz4wXK)
- - 👉 [Rip Anastazja I&#39;m Sorry Europe Imported So Many Savages](http://9gag.com/gag/ae90XLm)<!-- MEMES:END -->
+ - 😝 [A stiff upper lip](http://9gag.com/gag/aQz4wy8)
+ - 😝 [No title needed](http://9gag.com/gag/awyKw94)
+ - 💣 [How to tell if there are alligators are in the water](http://9gag.com/gag/aO8bwZy)
+ - 😝 [When you ask if you can pay later...](http://9gag.com/gag/a2vYeEp)
+ - 👉 [Such kindest in the reply! \u201cSo close!\u201d](http://9gag.com/gag/aQz4wXK)<!-- MEMES:END -->
 
 ---
 

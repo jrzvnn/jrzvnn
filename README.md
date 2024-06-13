@@ -172,10 +172,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Rip Anastazja I&#39;m Sorry Europe Imported So Many Savages](http://9gag.com/gag/ae90XLm)
- - 😝 [This site used to be for memes and funny stuff](http://9gag.com/gag/aE0zd5N)
- - 💣 [No time to explain, get in the mini-van](http://9gag.com/gag/adBp0pD)
- - 😝 [Can&#39;t wait to see her](http://9gag.com/gag/a343oy3)
- - 👉 [This one liar.](http://9gag.com/gag/aByr9z1)<!-- MEMES:END -->
+ - 😝 [True words](http://9gag.com/gag/aBy3pOQ)
+ - 💣 [He couldn\u2019t hit the nail if his life depended on it. Swinging harder \u2260 accuracy](http://9gag.com/gag/ayN0Gvr)
+ - 😝 [Amy Winehouse interview backstage at the 2008 BRIT Awards](http://9gag.com/gag/aE01rWN)
+ - 👉 [Sure ya did](http://9gag.com/gag/aGyRK7n)<!-- MEMES:END -->
 
 ---
 

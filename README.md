@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`I need your clothes, your boots, and your insurance information. I&#39;ll be back`.](http://9gag.com/gag/aAyroMd)
  - 😝 [This guy enjoying sex](http://9gag.com/gag/a87jLw6)
- - 💣 [Beautiful](http://9gag.com/gag/ae90vzW)
- - 😝 [Just give him some time to come back from store ffs](http://9gag.com/gag/aYQwjgN)
- - 👉 [Social score up](http://9gag.com/gag/a7ob53w)<!-- MEMES:END -->
+ - 😝 [Sure ya did](http://9gag.com/gag/aGyRK7n)
+ - 💣 [Unskippable ads are a crime against humanity](http://9gag.com/gag/aoy0BpX)
+ - 😝 [Post your wallpapers here, not a screenshot of your wallpaper.](http://9gag.com/gag/aYQWzNO)
+ - 👉 [Tapeworm found during colcolonoscop.](http://9gag.com/gag/aYQW80m)<!-- MEMES:END -->
 
 ---
 

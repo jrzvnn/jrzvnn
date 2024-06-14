@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best DNA Test for 2024     - CNET](https://www.cnet.com/health/medical/best-dna-test/#ftag=CAD590a51e)
  - [Freeform in iOS 18 is enormously easier to work inside and navigate](https://appleinsider.com/articles/24/06/14/freeform-in-ios-18-is-enormously-easier-to-work-inside-and-navigate?utm_medium=rss)
+ - [The Magic of Compound Interest Is Helping Double My Savings in One Year     - CNET](https://www.cnet.com/personal-finance/banking/yes-compound-interest-is-magic-watch-me-double-my-savings-in-one-year/#ftag=CAD590a51e)
  - [13 Best Couches You Can Buy Online &lpar;2024&rpar;: Sectionals, Sofas, Sleepers, and More](https://www.wired.com/gallery/best-couches/)
- - [Apple and OpenAI make a deal](https://www.theverge.com/2024/6/14/24178387/apple-openai-chatgpt-intelligence-xbox-handheld-vergecast)
- - [The crypto industry has amassed a $160M war chest to bolster pro-crypto US candidates, which could be pivotal in handing the Senate majority to GOP in November &lpar;Steven T. Dennis/Bloomberg&rpar;](http://www.techmeme.com/240614/p4#a240614p4)
- - [No Matter How You Package It, Apple Intelligence Is AI](https://www.wired.com/story/plaintext-apple-intelligence-is-ai/)<!-- TECH:END -->
+ - [Best Budget 3D Printers of 2024     - CNET](https://www.cnet.com/tech/computing/best-budget-3d-printer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

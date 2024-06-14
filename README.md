@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Real-time speed of an airplane take off](http://9gag.com/gag/azxVb2p)
- - 😝 [Yes I do sex every day](http://9gag.com/gag/avyL0Kn)
- - 💣 [Tapeworm found during colcolonoscop.](http://9gag.com/gag/aYQW80m)
- - 😝 [Just give him some time to come back from store ffs](http://9gag.com/gag/aYQwjgN)
- - 👉 [No words necessary](http://9gag.com/gag/aryRpzd)<!-- MEMES:END -->
+ - 😝 [Age discrimination in USA](http://9gag.com/gag/aGyR9q7)
+ - 😝 [This is me every day!](http://9gag.com/gag/a5QKp1y)
+ - 💣 [If your chick looks at another man like this, you aren&#39;t her first choice](http://9gag.com/gag/aPAGvng)
+ - 😝 [We &lpar;should&rpar; post memes here, sir](http://9gag.com/gag/ae90ooW)
+ - 👉 [Amy Winehouse interview backstage at the 2008 BRIT Awards](http://9gag.com/gag/aE01rWN)<!-- MEMES:END -->
 
 ---
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Sakana AI, a Tokyo-based LLM developer founded last year by Google alumni, is raising ~$100M at a $1B valuation in a round led by NEA, Khosla, and Lux &lpar;The Information&rpar;](http://www.techmeme.com/240614/p12#a240614p12)
+ - [Shovel Knight is getting a sequel in a ‘new dimension’](https://www.theverge.com/2024/6/14/24178773/shovel-knight-sequel-new-dimension-3d)
  - [The best smartphone you can buy for under $500](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
  - [Best Internet Providers in Orange, California     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-orange-ca/#ftag=CAD590a51e)
- - [It&#39;s Hot This Summer. But Don&#39;t Think About Sleeping Naked     - CNET](https://www.cnet.com/health/sleep/its-hot-this-summer-but-dont-think-about-sleeping-naked/#ftag=CAD590a51e)
- - [I&#39;ve Been Reviewing AI Chatbots for 4 Months and They&#39;ve Rewired My Brain     - CNET](https://www.cnet.com/tech/services-and-software/ive-been-reviewing-ai-chatbots-for-4-months-and-theyve-rewired-my-brain/#ftag=CAD590a51e)
- - [Best Reading Glasses for 2024     - CNET](https://www.cnet.com/health/personal-care/best-reading-glasses/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [It&#39;s Hot This Summer. But Don&#39;t Think About Sleeping Naked     - CNET](https://www.cnet.com/health/sleep/its-hot-this-summer-but-dont-think-about-sleeping-naked/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

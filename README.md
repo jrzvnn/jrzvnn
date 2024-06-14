@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A kind gesture - The way these Italian officers faces light up when they receive a photo](http://9gag.com/gag/abAbXnp)
- - 😝 [No time to explain, get in the mini-van](http://9gag.com/gag/adBp0pD)
- - 💣 [This one liar.](http://9gag.com/gag/aByr9z1)
- - 😝 [When engineering meet birds poop](http://9gag.com/gag/aoyjmA0)
- - 👉 [This site used to be for memes and funny stuff](http://9gag.com/gag/aE0zd5N)<!-- MEMES:END -->
+ - 😝 [Rip Anastazja I&#39;m Sorry Europe Imported So Many Savages](http://9gag.com/gag/ae90XLm)
+ - 😝 [This guy enjoying sex](http://9gag.com/gag/a87jLw6)
+ - 💣 [Tapeworm found during colcolonoscop.](http://9gag.com/gag/aYQW80m)
+ - 😝 [Social score up](http://9gag.com/gag/a7ob53w)
+ - 👉 [I love this game!](http://9gag.com/gag/a7obL3b)<!-- MEMES:END -->
 
 ---
 

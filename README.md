@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rip Anastazja I&#39;m Sorry Europe Imported So Many Savages](http://9gag.com/gag/ae90XLm)
- - 😝 [Post your wallpapers here, not a screenshot of your wallpaper.](http://9gag.com/gag/aYQWzNO)
- - 💣 [No words necessary](http://9gag.com/gag/aryRpzd)
- - 😝 [So original, so brave](http://9gag.com/gag/ajPn6D0)
- - 👉 [You can read the comic, there&#39;s only 70++ issue &amp; way better than the tv series](http://9gag.com/gag/aPAGv8Q)<!-- MEMES:END -->
+ - 😝 [Real-time speed of an airplane take off](http://9gag.com/gag/azxVb2p)
+ - 😝 [Show me your power nine gagger](http://9gag.com/gag/azxVgBb)
+ - 💣 [Shut up and take my money!](http://9gag.com/gag/aYQwbrx)
+ - 😝 [This guy enjoying sex](http://9gag.com/gag/a87jLw6)
+ - 👉 [Tatoo](http://9gag.com/gag/aqy24gZ)<!-- MEMES:END -->
 
 ---
 

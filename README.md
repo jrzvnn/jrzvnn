@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Let’s speculate wildly about Tesla’s three mystery vehicles](https://www.theverge.com/2024/6/14/24178404/tesla-vehicles-robotaxi-van-model-2-shareholder-shrouded)
+ - [Sources: Shein tries to suppress its chair&#39;s claim that the retailer is American, amid fears it could annoy China, which needs to approve Shein&#39;s London IPO &lpar;Financial Times&rpar;](http://www.techmeme.com/240614/p5#a240614p5)
+ - [A major disinformation research center’s future looks uncertain](https://www.theverge.com/2024/6/14/24178375/stanford-internet-observatory-misinformation-covid-vaccines-elections-republicans)
  - [This 27-inch LG OLED gaming monitor is on sale for $340 off](https://www.theverge.com/2024/6/14/24178351/lg-oled-27gr95qe-gaming-monitor-qhd-nordvpn-vpn-deal-sale)
- - [Best features in watchOS 11 for Apple Watch](https://appleinsider.com/articles/24/06/14/best-features-in-watchos-11-for-apple-watch?utm_medium=rss)
- - [Arc’s live calendar button makes it hard to miss your next meeting](https://www.theverge.com/2024/6/14/24178381/arc-live-calendar-google-meeting-join-button)
- - [Disney brings playable ‘advergames’ to Hulu and ESPN](https://www.theverge.com/2024/6/14/24178373/disney-advergames-shoppable-ads-hulu-espn)
- - [Best DNA Test for 2024     - CNET](https://www.cnet.com/health/medical/best-dna-test/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best features in watchOS 11 for Apple Watch](https://appleinsider.com/articles/24/06/14/best-features-in-watchos-11-for-apple-watch?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

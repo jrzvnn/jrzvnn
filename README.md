@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Real-time speed of an airplane take off](http://9gag.com/gag/azxVb2p)
- - 😝 [Tatoo](http://9gag.com/gag/aqy24gZ)
- - 💣 [Just give him some time to come back from store ffs](http://9gag.com/gag/aYQwjgN)
- - 😝 [Sure ya did](http://9gag.com/gag/aGyRK7n)
- - 👉 [We &lpar;should&rpar; post memes here, sir](http://9gag.com/gag/ae90ooW)<!-- MEMES:END -->
+ - 😝 [When you see The acolyte](http://9gag.com/gag/aoyjzRn)
+ - 😝 [Who cares... I mean.](http://9gag.com/gag/awy7rNy)
+ - 💣 [You can read the comic, there&#39;s only 70++ issue &amp; way better than the tv series](http://9gag.com/gag/aPAGv8Q)
+ - 😝 [Age discrimination in USA](http://9gag.com/gag/aGyR9q7)
+ - 👉 [I died before now but yeab](http://9gag.com/gag/aXPXbRV)<!-- MEMES:END -->
 
 ---
 

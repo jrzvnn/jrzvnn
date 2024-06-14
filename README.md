@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kind Man Takes In 2 Kittens](http://9gag.com/gag/aE0zvzp)
- - 😝 [Can&#39;t wait to see her](http://9gag.com/gag/a343oy3)
- - 💣 [This one liar.](http://9gag.com/gag/aByr9z1)
- - 😝 [No time to explain, get in the mini-van](http://9gag.com/gag/adBp0pD)
- - 👉 [This site used to be for memes and funny stuff](http://9gag.com/gag/aE0zd5N)<!-- MEMES:END -->
+ - 😝 [Just give him some time to come back from store ffs](http://9gag.com/gag/aYQwjgN)
+ - 😝 [This must hurt](http://9gag.com/gag/aAypROL)
+ - 💣 [This site used to be for memes and funny stuff](http://9gag.com/gag/aE0zd5N)
+ - 😝 [I love this game!](http://9gag.com/gag/a7obL3b)
+ - 👉 [Post your wallpapers here, not a screenshot of your wallpaper.](http://9gag.com/gag/aYQWzNO)<!-- MEMES:END -->
 
 ---
 

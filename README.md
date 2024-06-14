@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sonos faces a backlash after removing a line from its privacy policy in the US that said Sonos &quot;does not and will not sell personal information&quot; of its users &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240614/p8#a240614p8)
+ - [Samsung Galaxy Z Fold 6 prototype points to a squared-off design](https://www.theverge.com/2024/6/14/24178509/samsung-galaxy-z-fold-6-prototype-boxier-design)
+ - [Did Apple just Sherlock our favorite password managers?](https://www.theverge.com/2024/6/14/24178564/apple-password-managers-lastpass-sherlock)
  - [EU is reportedly going to fine Apple over failure to comply with the Digital Markets Act](https://appleinsider.com/articles/24/06/14/eu-is-reportedly-going-to-fine-apple-over-failure-to-comply-with-the-digital-markets-act?utm_medium=rss)
- - [Your electricity bill is forecast to climb with the summer heat](https://www.theverge.com/2024/6/14/24178413/summer-bill-electricity-heat-forecast)
- - [Save up to $180 on Sonos speakers with weekend deals at Best Buy](https://appleinsider.com/articles/24/06/14/save-up-to-180-on-sonos-speakers-with-weekend-deals-at-best-buy?utm_medium=rss)
- - [Sources: the EU has determined that Apple&#39;s anti-steering rules for developers do not comply with the DMA, and plans charges against Apple in the coming weeks &lpar;Financial Times&rpar;](http://www.techmeme.com/240614/p7#a240614p7)
- - [Best Last-Minute Father&#39;s Day Gifts You Can Still Buy     - CNET](https://www.cnet.com/tech/last-minute-fathers-day-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Your electricity bill is forecast to climb with the summer heat](https://www.theverge.com/2024/6/14/24178413/summer-bill-electricity-heat-forecast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

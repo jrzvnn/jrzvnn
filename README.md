@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Beautiful](http://9gag.com/gag/ae90vzW)
- - 😝 [Post your wallpapers here, not a screenshot of your wallpaper.](http://9gag.com/gag/aYQWzNO)
- - 💣 [This site used to be for memes and funny stuff](http://9gag.com/gag/aE0zd5N)
- - 😝 [I love this game!](http://9gag.com/gag/a7obL3b)
- - 👉 [I&#39;m not American. Today I discovered why they have so much problems with police officers.](http://9gag.com/gag/aGywWen)<!-- MEMES:END -->
+ - 😝 [Thank you India!](http://9gag.com/gag/aE0zdZ9)
+ - 😝 [This must hurt](http://9gag.com/gag/aAypROL)
+ - 💣 [Just give him some time to come back from store ffs](http://9gag.com/gag/aYQwjgN)
+ - 😝 [I&#39;m not American. Today I discovered why they have so much problems with police officers.](http://9gag.com/gag/aGywWen)
+ - 👉 [This site used to be for memes and funny stuff](http://9gag.com/gag/aE0zd5N)<!-- MEMES:END -->
 
 ---
 

@@ -171,10 +171,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just give him some time to come back from store ffs](http://9gag.com/gag/aYQwjgN)
- - 😝 [This must hurt](http://9gag.com/gag/aAypROL)
- - 💣 [This site used to be for memes and funny stuff](http://9gag.com/gag/aE0zd5N)
  - 😝 [I love this game!](http://9gag.com/gag/a7obL3b)
+ - 😝 [Tatoo](http://9gag.com/gag/aqy24gZ)
+ - 💣 [Indeed it is...](http://9gag.com/gag/aNDZxq6)
+ - 😝 [A Harp has 7 pedals that control the pitch of each note!](http://9gag.com/gag/aKGP0qg)
  - 👉 [Post your wallpapers here, not a screenshot of your wallpaper.](http://9gag.com/gag/aYQWzNO)<!-- MEMES:END -->
 
 ---

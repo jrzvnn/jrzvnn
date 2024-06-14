@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Lightspeed wants to become a registered investment adviser, letting it use more than 20% of its funds, the cap for VC firms, to trade secondary markets &lpar;Tabby Kinder/Financial Times&rpar;](http://www.techmeme.com/240614/p3#a240614p3)
  - [The Indie Horror Game That Launched a Surprising Queer Hopepunk Revolution](https://www.wired.com/story/signalis-queer-fandom-revolution/)
  - [iOS 18 solves iCloud&#39;s irritating habit of offloading the file you need](https://appleinsider.com/articles/24/06/14/ios-18-solves-iclouds-irritating-habit-of-offloading-the-file-you-need?utm_medium=rss)
  - [A Blatant Attempt to Generate a &#39;House of the Dragon&#39; AI Overview](https://www.wired.com/story/a-blatant-attempt-to-generate-a-house-of-the-dragon-ai-overview/)
- - [Jon Stewart reveals the moment thing went bad with Apple](https://appleinsider.com/articles/24/06/14/jon-stewart-reveals-the-moment-thing-went-bad-with-apple?utm_medium=rss)
- - [Best PlayStation VR 2 Deals: Amazon Discounts on Bundles and the Base Model     - CNET](https://www.cnet.com/deals/playstation-vr-2-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Jon Stewart reveals the moment thing went bad with Apple](https://appleinsider.com/articles/24/06/14/jon-stewart-reveals-the-moment-thing-went-bad-with-apple?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

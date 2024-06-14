@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple and OpenAI make a deal](https://www.theverge.com/2024/6/14/24178387/apple-openai-chatgpt-intelligence-xbox-handheld-vergecast)
+ - [The crypto industry has amassed a $160M war chest to bolster pro-crypto US candidates, which could be pivotal in handing the Senate majority to GOP in November &lpar;Steven T. Dennis/Bloomberg&rpar;](http://www.techmeme.com/240614/p4#a240614p4)
+ - [No Matter How You Package It, Apple Intelligence Is AI](https://www.wired.com/story/plaintext-apple-intelligence-is-ai/)
  - [How to back up and wipe your Chromebook](https://www.theverge.com/24177893/how-to-back-up-and-wipe-your-chromebook)
- - [I’m a New Homeowner, and Here’s How to BYO Smart Home](https://www.wired.com/story/you-should-byo-smart-home-rant/)
- - [WWDC, macOS Sequoia, iOS 18, and Apple Intelligence on the AppleInsider Podcast](https://appleinsider.com/articles/24/06/14/wwdc-macos-sequoia-ios-18-and-apple-intelligence-on-the-appleinsider-podcast?utm_medium=rss)
- - [Reduce AI Hallucinations With This Neat Software Trick](https://www.wired.com/story/reduce-ai-hallucinations-with-rag/)
- - [The much-needed reinvention of the voice assistant is almost here](https://www.theverge.com/2024/6/14/24177991/apple-intelligence-siri-voice-assistant-amazon-alexa-generative-ai)<!-- TECH:END -->
+ - [T20 Cricket World Cup Livestream: USA vs. Ireland From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/t20-cricket-world-cup-livestream-usa-v-ireland-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

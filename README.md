@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Age discrimination in USA](http://9gag.com/gag/aGyR9q7)
- - 😝 [This is me every day!](http://9gag.com/gag/a5QKp1y)
- - 💣 [If your chick looks at another man like this, you aren&#39;t her first choice](http://9gag.com/gag/aPAGvng)
- - 😝 [We &lpar;should&rpar; post memes here, sir](http://9gag.com/gag/ae90ooW)
- - 👉 [Amy Winehouse interview backstage at the 2008 BRIT Awards](http://9gag.com/gag/aE01rWN)<!-- MEMES:END -->
+ - 😝 [When you see The acolyte](http://9gag.com/gag/aoyjzRn)
+ - 😝 [Brave people of Scotland](http://9gag.com/gag/aLnBKxx)
+ - 💣 [You can read the comic, there&#39;s only 70++ issue &amp; way better than the tv series](http://9gag.com/gag/aPAGv8Q)
+ - 😝 [I died before now but yeab](http://9gag.com/gag/aXPXbRV)
+ - 👉 [48lbs/22kg down since Jan. This fat f*ck still has a long way to go, but at least it&#39;s the right direction. Clawing my way back to a life worth living again. F*ck you all and I&#39;ll see you tomorrow.](http://9gag.com/gag/a87jLOO)<!-- MEMES:END -->
 
 ---
 

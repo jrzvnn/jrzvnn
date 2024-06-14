@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [If your chick looks at another man like this, you aren&#39;t her first choice](http://9gag.com/gag/aPAGvng)
  - 😝 [Shut up and take my money!](http://9gag.com/gag/aYQwbrx)
- - 😝 [Just give him some time to come back from store ffs](http://9gag.com/gag/aYQwjgN)
- - 💣 [This site used to be for memes and funny stuff](http://9gag.com/gag/aE0zd5N)
- - 😝 [Real-time speed of an airplane take off](http://9gag.com/gag/azxVb2p)
- - 👉 [Sure ya did](http://9gag.com/gag/aGyRK7n)<!-- MEMES:END -->
+ - 💣 [Real-time speed of an airplane take off](http://9gag.com/gag/azxVb2p)
+ - 😝 [Sure ya did](http://9gag.com/gag/aGyRK7n)
+ - 👉 [No words necessary](http://9gag.com/gag/aryRpzd)<!-- MEMES:END -->
 
 ---
 

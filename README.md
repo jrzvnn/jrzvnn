@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Show me your power nine gagger](http://9gag.com/gag/azxVgBb)
  - 😝 [Amy Winehouse interview backstage at the 2008 BRIT Awards](http://9gag.com/gag/aE01rWN)
- - 😝 [Beautiful](http://9gag.com/gag/ae90vzW)
- - 💣 [This site used to be for memes and funny stuff](http://9gag.com/gag/aE0zd5N)
- - 😝 [Tapeworm found during colcolonoscop.](http://9gag.com/gag/aYQW80m)
- - 👉 [Sure ya did](http://9gag.com/gag/aGyRK7n)<!-- MEMES:END -->
+ - 💣 [Crazy](http://9gag.com/gag/adBp0NV)
+ - 😝 [Rip Anastazja I&#39;m Sorry Europe Imported So Many Savages](http://9gag.com/gag/ae90XLm)
+ - 👉 [This guy enjoying sex](http://9gag.com/gag/a87jLw6)<!-- MEMES:END -->
 
 ---
 

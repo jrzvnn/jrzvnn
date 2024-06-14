@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you see The acolyte](http://9gag.com/gag/aoyjzRn)
- - 😝 [Who cares... I mean.](http://9gag.com/gag/awy7rNy)
- - 💣 [You can read the comic, there&#39;s only 70++ issue &amp; way better than the tv series](http://9gag.com/gag/aPAGv8Q)
- - 😝 [Age discrimination in USA](http://9gag.com/gag/aGyR9q7)
- - 👉 [I died before now but yeab](http://9gag.com/gag/aXPXbRV)<!-- MEMES:END -->
+ - 😝 [Adobe literally said, `you made this? I made this`.](http://9gag.com/gag/aNDZyQr)
+ - 😝 [Tapeworm found during colcolonoscop.](http://9gag.com/gag/aYQW80m)
+ - 💣 [Shut up and take my money!](http://9gag.com/gag/aYQwbrx)
+ - 😝 [Real-time speed of an airplane take off](http://9gag.com/gag/azxVb2p)
+ - 👉 [What movie do you think this is behind the scenes of?](http://9gag.com/gag/aKGB46Z)<!-- MEMES:END -->
 
 ---
 

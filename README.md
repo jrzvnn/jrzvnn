@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You can read the comic, there&#39;s only 70++ issue &amp; way better than the tv series](http://9gag.com/gag/aPAGv8Q)
- - 😝 [No words necessary](http://9gag.com/gag/aryRpzd)
- - 💣 [Post your wallpapers here, not a screenshot of your wallpaper.](http://9gag.com/gag/aYQWzNO)
+ - 😝 [Just give him some time to come back from store ffs](http://9gag.com/gag/aYQwjgN)
+ - 😝 [Sure ya did](http://9gag.com/gag/aGyRK7n)
+ - 💣 [No words necessary](http://9gag.com/gag/aryRpzd)
  - 😝 [So original, so brave](http://9gag.com/gag/ajPn6D0)
- - 👉 [Sure ya did](http://9gag.com/gag/aGyRK7n)<!-- MEMES:END -->
+ - 👉 [Real-time speed of an airplane take off](http://9gag.com/gag/azxVb2p)<!-- MEMES:END -->
 
 ---
 

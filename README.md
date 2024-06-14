@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Brave people of Scotland](http://9gag.com/gag/aLnBKxx)
- - 😝 [48lbs/22kg down since Jan. This fat f*ck still has a long way to go, but at least it&#39;s the right direction. Clawing my way back to a life worth living again. F*ck you all and I&#39;ll see you tomorrow.](http://9gag.com/gag/a87jLOO)
- - 💣 [And that, my friends, is how you spot a citizen of the US of A](http://9gag.com/gag/amo8XKV)
- - 😝 [277](http://9gag.com/gag/aMVQ1qA)
- - 👉 [So original, so brave](http://9gag.com/gag/ajPn6D0)<!-- MEMES:END -->
+ - 😝 [Remember the goat](http://9gag.com/gag/aXPXEwv)
+ - 😝 [No words necessary](http://9gag.com/gag/aryRpzd)
+ - 💣 [Black Myth Wukong devs refuse to pay 7m$ to Sweet Baby Inc, so iGN start writing hit piece about the developers](http://9gag.com/gag/an7BXgL)
+ - 😝 [This must hurt](http://9gag.com/gag/aAypROL)
+ - 👉 [Shut up and take my money!](http://9gag.com/gag/aYQwbrx)<!-- MEMES:END -->
 
 ---
 

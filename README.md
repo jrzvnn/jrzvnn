@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This 27-inch LG OLED gaming monitor is on sale for $340 off](https://www.theverge.com/2024/6/14/24178351/lg-oled-27gr95qe-gaming-monitor-qhd-nordvpn-vpn-deal-sale)
  - [Best features in watchOS 11 for Apple Watch](https://appleinsider.com/articles/24/06/14/best-features-in-watchos-11-for-apple-watch?utm_medium=rss)
  - [Arc’s live calendar button makes it hard to miss your next meeting](https://www.theverge.com/2024/6/14/24178381/arc-live-calendar-google-meeting-join-button)
  - [Disney brings playable ‘advergames’ to Hulu and ESPN](https://www.theverge.com/2024/6/14/24178373/disney-advergames-shoppable-ads-hulu-espn)
- - [Best DNA Test for 2024     - CNET](https://www.cnet.com/health/medical/best-dna-test/#ftag=CAD590a51e)
- - [Freeform in iOS 18 is enormously easier to work inside and navigate](https://appleinsider.com/articles/24/06/14/freeform-in-ios-18-is-enormously-easier-to-work-inside-and-navigate?utm_medium=rss)<!-- TECH:END -->
+ - [Best DNA Test for 2024     - CNET](https://www.cnet.com/health/medical/best-dna-test/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

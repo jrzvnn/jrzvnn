@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Reduce AI Hallucinations With This Neat Software Trick](https://www.wired.com/story/reduce-ai-hallucinations-with-rag/)
+ - [The much-needed reinvention of the voice assistant is almost here](https://www.theverge.com/2024/6/14/24177991/apple-intelligence-siri-voice-assistant-amazon-alexa-generative-ai)
+ - [HomeKit now lets you manually set what device is your Home Hub in iOS 18](https://appleinsider.com/articles/24/06/14/homekit-now-lets-you-manually-set-what-device-is-your-home-hub-in-ios-18?utm_medium=rss)
  - [Sources: Lightspeed wants to become a registered investment adviser, letting it use more than 20% of its funds, the cap for VC firms, to trade secondary markets &lpar;Tabby Kinder/Financial Times&rpar;](http://www.techmeme.com/240614/p3#a240614p3)
- - [The Indie Horror Game That Launched a Surprising Queer Hopepunk Revolution](https://www.wired.com/story/signalis-queer-fandom-revolution/)
- - [iOS 18 solves iCloud&#39;s irritating habit of offloading the file you need](https://appleinsider.com/articles/24/06/14/ios-18-solves-iclouds-irritating-habit-of-offloading-the-file-you-need?utm_medium=rss)
- - [A Blatant Attempt to Generate a &#39;House of the Dragon&#39; AI Overview](https://www.wired.com/story/a-blatant-attempt-to-generate-a-house-of-the-dragon-ai-overview/)
- - [Jon Stewart reveals the moment thing went bad with Apple](https://appleinsider.com/articles/24/06/14/jon-stewart-reveals-the-moment-thing-went-bad-with-apple?utm_medium=rss)<!-- TECH:END -->
+ - [The Indie Horror Game That Launched a Surprising Queer Hopepunk Revolution](https://www.wired.com/story/signalis-queer-fandom-revolution/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

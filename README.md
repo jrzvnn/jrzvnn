@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I Spent a Week Eating Discarded Restaurant Food. But Was It Really Going to Waste?](https://www.wired.com/story/too-good-to-go-app-week-food-waste/)
+ - [3 Cheap and Easy Ways to Keep Your AC&#39;s Cool Air Indoors     - CNET](https://www.cnet.com/how-to/3-cheap-and-easy-ways-to-keep-your-acs-cool-air-indoors/#ftag=CAD590a51e)
  - [As Google Targets Advertisers, It Could Learn a Lot From Bing](https://www.wired.com/story/as-google-ai-overview-targets-advertisers-it-could-learn-a-lot-from-bing/)
- - [Honor&#39;s Flip Phone Has the World&#39;s Biggest and Brightest Cover Screen     - CNET](https://www.cnet.com/tech/mobile/honors-v-flip-phone-makes-mobile-history-in-more-ways-than-one/#ftag=CAD590a51e)
- - [Best Space Heaters to Use in 2024     - CNET](https://www.cnet.com/home/kitchen-and-household/best-space-heater/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers, and Help for June 14, #103     - CNET](https://www.cnet.com/tech/gaming/todays-nyt-strands-hint-answer-help/#ftag=CAD590a51e)
- - [A deep dive into the Snapdragon X Elite/Plus architecture including Oryon, Qualcomm&#39;s custom-built Arm CPU cores, as first laptops with the SoC ship next week &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/240614/p1#a240614p1)<!-- TECH:END -->
+ - [Best Savings Rates Today -- Act Now to Earn APYs as High as 5.55%, June 14, 2024     - CNET](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-june-14-2024/#ftag=CAD590a51e)
+ - [Honor&#39;s Flip Phone Has the World&#39;s Biggest and Brightest Cover Screen     - CNET](https://www.cnet.com/tech/mobile/honors-v-flip-phone-makes-mobile-history-in-more-ways-than-one/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

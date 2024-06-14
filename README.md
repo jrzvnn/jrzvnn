@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Adobe literally said, `you made this? I made this`.](http://9gag.com/gag/aNDZyQr)
- - 😝 [Tapeworm found during colcolonoscop.](http://9gag.com/gag/aYQW80m)
- - 💣 [Shut up and take my money!](http://9gag.com/gag/aYQwbrx)
+ - 😝 [Shut up and take my money!](http://9gag.com/gag/aYQwbrx)
+ - 😝 [Just give him some time to come back from store ffs](http://9gag.com/gag/aYQwjgN)
+ - 💣 [This site used to be for memes and funny stuff](http://9gag.com/gag/aE0zd5N)
  - 😝 [Real-time speed of an airplane take off](http://9gag.com/gag/azxVb2p)
- - 👉 [What movie do you think this is behind the scenes of?](http://9gag.com/gag/aKGB46Z)<!-- MEMES:END -->
+ - 👉 [Sure ya did](http://9gag.com/gag/aGyRK7n)<!-- MEMES:END -->
 
 ---
 

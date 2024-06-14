@@ -171,10 +171,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If your chick looks at another man like this, you aren&#39;t her first choice](http://9gag.com/gag/aPAGvng)
- - 😝 [Shut up and take my money!](http://9gag.com/gag/aYQwbrx)
- - 💣 [Real-time speed of an airplane take off](http://9gag.com/gag/azxVb2p)
- - 😝 [Sure ya did](http://9gag.com/gag/aGyRK7n)
+ - 😝 [Real-time speed of an airplane take off](http://9gag.com/gag/azxVb2p)
+ - 😝 [Yes I do sex every day](http://9gag.com/gag/avyL0Kn)
+ - 💣 [Tapeworm found during colcolonoscop.](http://9gag.com/gag/aYQW80m)
+ - 😝 [Just give him some time to come back from store ffs](http://9gag.com/gag/aYQwjgN)
  - 👉 [No words necessary](http://9gag.com/gag/aryRpzd)<!-- MEMES:END -->
 
 ---

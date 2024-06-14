@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The DJI Mini 3 is only $329 right now, its best price yet](https://www.theverge.com/2024/6/14/24178604/dji-mini-3-deal-sale)
+ - [Sources: the EU plans to charge Meta under the DMA, focusing on its pay or consent model where users pay a subscription for an ad-free Facebook and Instagram &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240614/p10#a240614p10)
+ - [Remote workers using ‘mouse-mover’ technology are getting caught](https://www.theverge.com/2024/6/14/24178582/remote-work-mouse-jiggler-mover-wellsfargo)
  - [Meta says European regulators are ruining its AI bot](https://www.theverge.com/2024/6/14/24178591/meta-ai-assistant-europe-ireland-privacy-objections)
- - [Dell XPS 14 review: good yet underwhelming improvements](https://www.theverge.com/2024/6/14/24178083/dell-xps-14-2024-review)
- - [&#39;Cities: Skylines II&#39; Found a Solution for High Rents: Get Rid of Landlords](https://www.wired.com/story/cities-skylines-ii-found-a-solution-for-high-rents-removing-landlords/)
- - [Gemini will return ~$50M of digital assets to investors who were locked out of their accounts when Gemini Earn collapsed, to settle a lawsuit by New York&#39;s AG &lpar;Bloomberg&rpar;](http://www.techmeme.com/240614/p9#a240614p9)
- - [Apple gives Apple Home users something they’ve been begging for](https://www.theverge.com/2024/6/14/24178482/apple-home-ios18-preferred-home-hub)<!-- TECH:END -->
+ - [Dell XPS 14 review: good yet underwhelming improvements](https://www.theverge.com/2024/6/14/24178083/dell-xps-14-2024-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

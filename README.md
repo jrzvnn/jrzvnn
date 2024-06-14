@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EU is reportedly going to fine Apple over failure to comply with the Digital Markets Act](https://appleinsider.com/articles/24/06/14/eu-is-reportedly-going-to-fine-apple-over-failure-to-comply-with-the-digital-markets-act?utm_medium=rss)
+ - [Your electricity bill is forecast to climb with the summer heat](https://www.theverge.com/2024/6/14/24178413/summer-bill-electricity-heat-forecast)
  - [Save up to $180 on Sonos speakers with weekend deals at Best Buy](https://appleinsider.com/articles/24/06/14/save-up-to-180-on-sonos-speakers-with-weekend-deals-at-best-buy?utm_medium=rss)
  - [Sources: the EU has determined that Apple&#39;s anti-steering rules for developers do not comply with the DMA, and plans charges against Apple in the coming weeks &lpar;Financial Times&rpar;](http://www.techmeme.com/240614/p7#a240614p7)
- - [The Best Gaming Headsets—We Tested Over Hundreds of Hours &lpar;2024&rpar;](https://www.wired.com/gallery/best-gaming-headsets/)
- - [Meta will not launch Meta AI in Europe after the Irish DPC asked it to delay training its LLMs using the public Facebook and Instagram content of adult EU users &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240614/p6#a240614p6)
- - [The Anderson Cooper of Black Twitter Believes Journalism Can Survive Influencers](https://www.wired.com/story/dial-up-phil-lewis/)<!-- TECH:END -->
+ - [Best Last-Minute Father&#39;s Day Gifts You Can Still Buy     - CNET](https://www.cnet.com/tech/last-minute-fathers-day-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

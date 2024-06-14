@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is me every day!](http://9gag.com/gag/a5QKp1y)
- - 😝 [Amy Winehouse interview backstage at the 2008 BRIT Awards](http://9gag.com/gag/aE01rWN)
- - 💣 [Dont blink...](http://9gag.com/gag/azxV7zj)
- - 😝 [This site used to be for memes and funny stuff](http://9gag.com/gag/aE0zd5N)
- - 👉 [Beautiful](http://9gag.com/gag/ae90vzW)<!-- MEMES:END -->
+ - 😝 [Kind Man Takes In 2 Kittens](http://9gag.com/gag/aE0zvzp)
+ - 😝 [Can&#39;t wait to see her](http://9gag.com/gag/a343oy3)
+ - 💣 [This one liar.](http://9gag.com/gag/aByr9z1)
+ - 😝 [No time to explain, get in the mini-van](http://9gag.com/gag/adBp0pD)
+ - 👉 [This site used to be for memes and funny stuff](http://9gag.com/gag/aE0zd5N)<!-- MEMES:END -->
 
 ---
 

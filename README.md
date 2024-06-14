@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rip Anastazja I&#39;m Sorry Europe Imported So Many Savages](http://9gag.com/gag/ae90XLm)
+ - 😝 [Beautiful](http://9gag.com/gag/ae90vzW)
  - 😝 [This guy enjoying sex](http://9gag.com/gag/a87jLw6)
- - 💣 [Tapeworm found during colcolonoscop.](http://9gag.com/gag/aYQW80m)
- - 😝 [Social score up](http://9gag.com/gag/a7ob53w)
- - 👉 [I love this game!](http://9gag.com/gag/a7obL3b)<!-- MEMES:END -->
+ - 💣 [Post your wallpapers here, not a screenshot of your wallpaper.](http://9gag.com/gag/aYQWzNO)
+ - 😝 [I love this game!](http://9gag.com/gag/a7obL3b)
+ - 👉 [Tapeworm found during colcolonoscop.](http://9gag.com/gag/aYQW80m)<!-- MEMES:END -->
 
 ---
 

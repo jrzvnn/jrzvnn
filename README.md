@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Whatever Elon wants, Tesla gets](https://www.theverge.com/2024/6/14/24178617/musk-tesla-pay-shareholder-vote)
  - [Anthony Bourdain’s Get Jiro! comic is getting an animated adaptation](https://www.theverge.com/24178567/adult-swim-get-jiro-anthony-bourdain-super-mutant-magic-academy)
  - [Blowout deals: Apple&#39;s M1 iMac falls to $949](https://appleinsider.com/articles/24/06/14/blowout-deals-apples-m1-imac-falls-to-949?utm_medium=rss)
- - [Sonos faces a backlash after removing a line from its privacy policy in the US that said Sonos &quot;does not and will not sell personal information&quot; of its users &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240614/p8#a240614p8)
- - [Samsung Galaxy Z Fold 6 prototype points to a squared-off design](https://www.theverge.com/2024/6/14/24178509/samsung-galaxy-z-fold-6-prototype-boxier-design)
- - [Did Apple just Sherlock our favorite password managers?](https://www.theverge.com/2024/6/14/24178564/apple-password-managers-lastpass-sherlock)<!-- TECH:END -->
+ - [Sonos faces a backlash after removing a line from its US privacy policy that said Sonos &quot;does not and will not sell personal information about our customers&quot; &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240614/p8#a240614p8)
+ - [Samsung Galaxy Z Fold 6 prototype points to a squared-off design](https://www.theverge.com/2024/6/14/24178509/samsung-galaxy-z-fold-6-prototype-boxier-design)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

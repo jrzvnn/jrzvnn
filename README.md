@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Real-time speed of an airplane take off](http://9gag.com/gag/azxVb2p)
- - 😝 [No words necessary](http://9gag.com/gag/aryRpzd)
- - 💣 [Shut up and take my money!](http://9gag.com/gag/aYQwbrx)
- - 😝 [So original, so brave](http://9gag.com/gag/ajPn6D0)
- - 👉 [Social score up](http://9gag.com/gag/a7ob53w)<!-- MEMES:END -->
+ - 😝 [Brave people of Scotland](http://9gag.com/gag/aLnBKxx)
+ - 😝 [48lbs/22kg down since Jan. This fat f*ck still has a long way to go, but at least it&#39;s the right direction. Clawing my way back to a life worth living again. F*ck you all and I&#39;ll see you tomorrow.](http://9gag.com/gag/a87jLOO)
+ - 💣 [And that, my friends, is how you spot a citizen of the US of A](http://9gag.com/gag/amo8XKV)
+ - 😝 [277](http://9gag.com/gag/aMVQ1qA)
+ - 👉 [So original, so brave](http://9gag.com/gag/ajPn6D0)<!-- MEMES:END -->
 
 ---
 

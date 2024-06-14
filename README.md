@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you see The acolyte](http://9gag.com/gag/aoyjzRn)
- - 😝 [Brave people of Scotland](http://9gag.com/gag/aLnBKxx)
- - 💣 [You can read the comic, there&#39;s only 70++ issue &amp; way better than the tv series](http://9gag.com/gag/aPAGv8Q)
- - 😝 [I died before now but yeab](http://9gag.com/gag/aXPXbRV)
- - 👉 [48lbs/22kg down since Jan. This fat f*ck still has a long way to go, but at least it&#39;s the right direction. Clawing my way back to a life worth living again. F*ck you all and I&#39;ll see you tomorrow.](http://9gag.com/gag/a87jLOO)<!-- MEMES:END -->
+ - 😝 [Environmental activists were flashbanged.](http://9gag.com/gag/an7BeKn)
+ - 😝 [Tatoo](http://9gag.com/gag/aqy24gZ)
+ - 💣 [Shut up and take my money!](http://9gag.com/gag/aYQwbrx)
+ - 😝 [Unskippable ads are a crime against humanity](http://9gag.com/gag/aoy0BpX)
+ - 👉 [I&#39;ve been seeing a lot more rage comics so imma do my part as well.](http://9gag.com/gag/aLnBRm5)<!-- MEMES:END -->
 
 ---
 

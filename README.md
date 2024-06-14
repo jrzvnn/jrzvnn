@@ -165,7 +165,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Save up to $180 on Sonos speakers with weekend deals at Best Buy](https://appleinsider.com/articles/24/06/14/save-up-to-180-on-sonos-speakers-with-weekend-deals-at-best-buy?utm_medium=rss)
  - [Sources: the EU has determined that Apple&#39;s anti-steering rules for developers do not comply with the DMA, and plans charges against Apple in the coming weeks &lpar;Financial Times&rpar;](http://www.techmeme.com/240614/p7#a240614p7)
  - [The Best Gaming Headsets—We Tested Over Hundreds of Hours &lpar;2024&rpar;](https://www.wired.com/gallery/best-gaming-headsets/)
- - [Meta will not launch Meta AI in Europe after the Irish DPC asked it to delay training its LLMs using the public Facebook and Instagram content of EU users &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240614/p6#a240614p6)
+ - [Meta will not launch Meta AI in Europe after the Irish DPC asked it to delay training its LLMs using the public Facebook and Instagram content of adult EU users &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240614/p6#a240614p6)
  - [The Anderson Cooper of Black Twitter Believes Journalism Can Survive Influencers](https://www.wired.com/story/dial-up-phil-lewis/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

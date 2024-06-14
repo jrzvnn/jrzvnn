@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh no!](http://9gag.com/gag/ae9p3Vv)
- - 😝 [Brave people of Scotland](http://9gag.com/gag/aLnBKxx)
- - 💣 [And that, my friends, is how you spot a citizen of the US of A](http://9gag.com/gag/amo8XKV)
- - 😝 [So original, so brave](http://9gag.com/gag/ajPn6D0)
- - 👉 [277](http://9gag.com/gag/aMVQ1qA)<!-- MEMES:END -->
+ - 😝 [You can read the comic, there&#39;s only 70++ issue &amp; way better than the tv series](http://9gag.com/gag/aPAGv8Q)
+ - 😝 [Splash](http://9gag.com/gag/aGyRVm7)
+ - 💣 [Just give him some time to come back from store ffs](http://9gag.com/gag/aYQwjgN)
+ - 😝 [No words necessary](http://9gag.com/gag/aryRpzd)
+ - 👉 [Sure ya did](http://9gag.com/gag/aGyRK7n)<!-- MEMES:END -->
 
 ---
 

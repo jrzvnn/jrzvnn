@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta says European regulators are ruining its AI bot](https://www.theverge.com/2024/6/14/24178591/meta-ai-assistant-europe-ireland-privacy-objections)
+ - [Dell XPS 14 review: good yet underwhelming improvements](https://www.theverge.com/2024/6/14/24178083/dell-xps-14-2024-review)
+ - [&#39;Cities: Skylines II&#39; Found a Solution for High Rents: Get Rid of Landlords](https://www.wired.com/story/cities-skylines-ii-found-a-solution-for-high-rents-removing-landlords/)
  - [Gemini will return ~$50M of digital assets to investors who were locked out of their accounts when Gemini Earn collapsed, to settle a lawsuit by New York&#39;s AG &lpar;Bloomberg&rpar;](http://www.techmeme.com/240614/p9#a240614p9)
- - [Apple gives Apple Home users something they’ve been begging for](https://www.theverge.com/2024/6/14/24178482/apple-home-ios18-preferred-home-hub)
- - [EU is reportedly going to fine Apple over failure to comply with the Digital Markets Act](https://appleinsider.com/articles/24/06/14/eu-is-reportedly-going-to-fine-apple-over-failure-to-comply-with-the-digital-markets-act?utm_medium=rss)
- - [Whatever Elon wants, Tesla gets](https://www.theverge.com/2024/6/14/24178617/musk-tesla-pay-shareholder-vote)
- - [2 Type 1 Diabetes Gadgets I Want Everyone to Know About     - CNET](https://www.cnet.com/health/medical/tiktok-saved-my-life-2-diabetes-gadgets-i-now-use-every-day/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple gives Apple Home users something they’ve been begging for](https://www.theverge.com/2024/6/14/24178482/apple-home-ios18-preferred-home-hub)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

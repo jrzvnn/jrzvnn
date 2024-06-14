@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iOS 18 isn&#39;t any more of a cheater&#39;s operating system than Android has been](https://appleinsider.com/articles/24/06/14/ios-18-isnt-any-more-of-a-cheaters-operating-system-than-android-has-been?utm_medium=rss)
  - [The DJI Mini 3 is only $329 right now, its best price yet](https://www.theverge.com/2024/6/14/24178604/dji-mini-3-deal-sale)
  - [Sources: the EU plans to charge Meta under the DMA, focusing on its pay or consent model where users pay a subscription for an ad-free Facebook and Instagram &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240614/p10#a240614p10)
  - [Remote workers using ‘mouse-mover’ technology are getting caught](https://www.theverge.com/2024/6/14/24178582/remote-work-mouse-jiggler-mover-wellsfargo)
- - [Meta says European regulators are ruining its AI bot](https://www.theverge.com/2024/6/14/24178591/meta-ai-assistant-europe-ireland-privacy-objections)
- - [Dell XPS 14 review: good yet underwhelming improvements](https://www.theverge.com/2024/6/14/24178083/dell-xps-14-2024-review)<!-- TECH:END -->
+ - [Meta says European regulators are ruining its AI bot](https://www.theverge.com/2024/6/14/24178591/meta-ai-assistant-europe-ireland-privacy-objections)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Show me your power nine gagger](http://9gag.com/gag/azxVgBb)
- - 😝 [Amy Winehouse interview backstage at the 2008 BRIT Awards](http://9gag.com/gag/aE01rWN)
- - 💣 [Crazy](http://9gag.com/gag/adBp0NV)
- - 😝 [Rip Anastazja I&#39;m Sorry Europe Imported So Many Savages](http://9gag.com/gag/ae90XLm)
- - 👉 [This guy enjoying sex](http://9gag.com/gag/a87jLw6)<!-- MEMES:END -->
+ - 😝 [`I need your clothes, your boots, and your insurance information. I&#39;ll be back`.](http://9gag.com/gag/aAyroMd)
+ - 😝 [This guy enjoying sex](http://9gag.com/gag/a87jLw6)
+ - 💣 [Beautiful](http://9gag.com/gag/ae90vzW)
+ - 😝 [Just give him some time to come back from store ffs](http://9gag.com/gag/aYQwjgN)
+ - 👉 [Social score up](http://9gag.com/gag/a7ob53w)<!-- MEMES:END -->
 
 ---
 

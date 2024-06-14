@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Apple&#39;s technical approach to AI, including core model performance, alignment strategies, and adapter and on-device strategy &lpar;Nathan Lambert/Interconnects&rpar;](http://www.techmeme.com/240613/p39#a240613p39)
  - [What&#39;s coming soon to tvOS 18, HomeKit, and AirPods](https://appleinsider.com/articles/24/06/14/whats-coming-soon-to-tvos-18-homekit-and-airpods?utm_medium=rss)
- - [Luma debuts Dream Machine, an AI model to generate high-quality videos from text and images, and plans to release APIs and plugins for popular creative software &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240613/p38#a240613p38)
- - [US hospital operator Ascension says a May ransomware attack was caused by an employee downloading a malicious file, and has no proof data was taken from its EHR &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240613/p37#a240613p37)
- - [A UK judge lays out how Greek payments company Viva Wallet should be valued, ending a legal battle between its CEO and part-owner JPMorgan &lpar;Owen Walker/Financial Times&rpar;](http://www.techmeme.com/240613/p36#a240613p36)
- - [Filing: Clearview AI proposes to settle a class action suit by collectively giving a 23% company stake worth ~$52M to Americans whose faces are in its database &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/240613/p35#a240613p35)<!-- TECH:END -->
+ - [Cut Your Water Heating Bill With This Exact Temperature Setting     - CNET](https://www.cnet.com/home/energy-and-utilities/this-exact-temperature-setting-can-cut-your-water-heating-bill/#ftag=CAD590a51e)
+ - [The 5 Best Multivitamins for Men in 2024     - CNET](https://www.cnet.com/health/nutrition/best-multivitamins-for-men/#ftag=CAD590a51e)
+ - [Luma debuts Dream Machine, an AI model to generate high-quality videos from text and images, and plans to release APIs and plugins for popular creative software &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240613/p38#a240613p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

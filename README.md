@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 25 Very Best Gifts for Dad, Picked By a Picky Dad &lpar;2024&rpar;](https://www.wired.com/gallery/best-gifts-for-dads/)
  - [Tim Cook may have met with Trump during WWDC to discuss second term priorities](https://appleinsider.com/articles/24/06/14/tim-cook-may-have-met-with-trump-during-wwdc-to-discuss-second-term-priorities?utm_medium=rss)
  - [Tempus AI&#39;s shares closed up 8.8% at $40.25 in the company&#39;s Nasdaq debut, giving it a market value of about $6.6B, after raising $410.7M in its IPO &lpar;Riley de Le&amp;oacute;n/CNBC&rpar;](http://www.techmeme.com/240614/p13#a240614p13)
  - [Jon Stewart reveals the moment things went bad with Apple](https://appleinsider.com/articles/24/06/14/jon-stewart-reveals-the-moment-thing-went-bad-with-apple?utm_medium=rss)
- - [Save up to $180 on Sonos speakers with weekend deals at Best Buy](https://appleinsider.com/articles/24/06/14/save-up-to-180-on-sonos-speakers-with-weekend-deals-at-best-buy?utm_medium=rss)
- - [How Asus is overhauling its customer support after Gamers Nexus investigation](https://www.theverge.com/2024/6/14/24178785/asus-customer-support-gamers-nexus)<!-- TECH:END -->
+ - [Save up to $180 on Sonos speakers with weekend deals at Best Buy](https://appleinsider.com/articles/24/06/14/save-up-to-180-on-sonos-speakers-with-weekend-deals-at-best-buy?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

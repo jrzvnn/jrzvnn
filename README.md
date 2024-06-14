@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tempus, which uses AI to process medical data, raised $410.7M after pricing its IPO at $37 a share, the top of a marketed range, giving it a $6.1B market value &lpar;Amy Or/Bloomberg&rpar;](http://www.techmeme.com/240613/p33#a240613p33)
+ - [Yahoo resurrects Artifact inside a new AI-powered News app](https://www.theverge.com/2024/6/13/24177980/yahoo-news-app-launch-artifact-ai-architecture)
+ - [Microsoft’s all-knowing Recall AI feature is being delayed](https://www.theverge.com/2024/6/13/24178144/microsoft-windows-ai-recall-feature-delay)
  - [Sources: Stanford Internet Observatory is winding down after five years and won&#39;t conduct research into any future elections; Stanford may retain SIO&#39;s branding &lpar;Platformer&rpar;](http://www.techmeme.com/240613/p32#a240613p32)
- - [Brad Smith tells a US House committee that Microsoft &quot;accepts responsibility&quot; for security errors, its business in China served US interests, and more &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/240613/p31#a240613p31)
- - [Proposed class action lawsuit accuses Apple of underpaying women](https://appleinsider.com/articles/24/06/13/proposed-class-action-lawsuit-accuses-apple-of-underpaying-women?utm_medium=rss)
- - [These 7 Houseplants Will Keep Bugs Away     - CNET](https://www.cnet.com/news/these-7-houseplants-are-known-to-repel-bugs/#ftag=CAD590a51e)
- - [Former head of NSA joins OpenAI board](https://www.theverge.com/2024/6/13/24178079/openai-board-paul-nakasone-nsa-safety)<!-- TECH:END -->
+ - [Best Internet Providers in Eugene, Oregon     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-eugene-or/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

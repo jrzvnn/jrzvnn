@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Crazy](http://9gag.com/gag/adBp0NV)
- - 😝 [This must hurt](http://9gag.com/gag/aAypROL)
+ - 😝 [Such kindest in the reply! \u201cSo close!\u201d](http://9gag.com/gag/aQz4wXK)
+ - 😝 [Just give him some time to come back from store ffs](http://9gag.com/gag/aYQwjgN)
  - 💣 [This site used to be for memes and funny stuff](http://9gag.com/gag/aE0zd5N)
- - 😝 [Real-time speed of an airplane take off](http://9gag.com/gag/azxVb2p)
- - 👉 [Sure ya did](http://9gag.com/gag/aGyRK7n)<!-- MEMES:END -->
+ - 😝 [We &lpar;should&rpar; post memes here, sir](http://9gag.com/gag/ae90ooW)
+ - 👉 [What movie do you think this is behind the scenes of?](http://9gag.com/gag/aKGB46Z)<!-- MEMES:END -->
 
 ---
 

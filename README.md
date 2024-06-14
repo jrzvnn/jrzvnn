@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Everybody act normal, and boys gather around him don&#39;t leave him at the edge.](http://9gag.com/gag/a9yPb16)
- - 😝 [Post your wallpapers here, not a screenshot of your wallpaper.](http://9gag.com/gag/aYQWzNO)
+ - 😝 [Amy Winehouse interview backstage at the 2008 BRIT Awards](http://9gag.com/gag/aE01rWN)
+ - 😝 [Beautiful](http://9gag.com/gag/ae90vzW)
  - 💣 [This site used to be for memes and funny stuff](http://9gag.com/gag/aE0zd5N)
- - 😝 [Jerry had zero fu*cks left to give.](http://9gag.com/gag/aO8bXwN)
- - 👉 [Rip Anastazja I&#39;m Sorry Europe Imported So Many Savages](http://9gag.com/gag/ae90XLm)<!-- MEMES:END -->
+ - 😝 [Tapeworm found during colcolonoscop.](http://9gag.com/gag/aYQW80m)
+ - 👉 [Sure ya did](http://9gag.com/gag/aGyRK7n)<!-- MEMES:END -->
 
 ---
 

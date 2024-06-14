@@ -171,10 +171,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Sure ya did](http://9gag.com/gag/aGyRK7n)
  - 😝 [No words necessary](http://9gag.com/gag/aryRpzd)
- - 😝 [We &lpar;should&rpar; post memes here, sir](http://9gag.com/gag/ae90ooW)
- - 💣 [Black Myth Wukong devs refuse to pay 7m$ to Sweet Baby Inc, so iGN start writing hit piece about the developers](http://9gag.com/gag/an7BXgL)
- - 😝 [Rip Anastazja I&#39;m Sorry Europe Imported So Many Savages](http://9gag.com/gag/ae90XLm)
+ - 💣 [Post your wallpapers here, not a screenshot of your wallpaper.](http://9gag.com/gag/aYQWzNO)
+ - 😝 [So original, so brave](http://9gag.com/gag/ajPn6D0)
  - 👉 [Real-time speed of an airplane take off](http://9gag.com/gag/azxVb2p)<!-- MEMES:END -->
 
 ---

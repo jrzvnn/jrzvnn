@@ -165,8 +165,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Apple says it doesn&#39;t use users&#39; private data or user interactions to train its models, and uses both licensed materials and publicly available online data &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/240613/p40#a240613p40)
  - [A look at Apple&#39;s technical approach to AI, including core model performance, alignment strategies, and adapter and on-device strategy &lpar;Nathan Lambert/Interconnects&rpar;](http://www.techmeme.com/240613/p39#a240613p39)
  - [What&#39;s coming soon to tvOS 18, HomeKit, and AirPods](https://appleinsider.com/articles/24/06/14/whats-coming-soon-to-tvos-18-homekit-and-airpods?utm_medium=rss)
- - [Cut Your Water Heating Bill With This Exact Temperature Setting     - CNET](https://www.cnet.com/home/energy-and-utilities/this-exact-temperature-setting-can-cut-your-water-heating-bill/#ftag=CAD590a51e)
- - [The 5 Best Multivitamins for Men in 2024     - CNET](https://www.cnet.com/health/nutrition/best-multivitamins-for-men/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for June 14, #1091     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-and-answer-help-for-june-14-1091/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers, and Help for June 14, #369     - CNET](https://www.cnet.com/tech/services-and-software/todays-nyt-connections-hints-answers-help-for-june-14-369/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

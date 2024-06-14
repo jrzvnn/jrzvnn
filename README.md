@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I’m a New Homeowner, and Here’s How to BYO Smart Home](https://www.wired.com/story/you-should-byo-smart-home-rant/)
+ - [WWDC, macOS Sequoia, iOS 18, and Apple Intelligence on the AppleInsider Podcast](https://appleinsider.com/articles/24/06/14/wwdc-macos-sequoia-ios-18-and-apple-intelligence-on-the-appleinsider-podcast?utm_medium=rss)
  - [Reduce AI Hallucinations With This Neat Software Trick](https://www.wired.com/story/reduce-ai-hallucinations-with-rag/)
  - [The much-needed reinvention of the voice assistant is almost here](https://www.theverge.com/2024/6/14/24177991/apple-intelligence-siri-voice-assistant-amazon-alexa-generative-ai)
- - [HomeKit now lets you manually set what device is your Home Hub in iOS 18](https://appleinsider.com/articles/24/06/14/homekit-now-lets-you-manually-set-what-device-is-your-home-hub-in-ios-18?utm_medium=rss)
- - [Sources: Lightspeed wants to become a registered investment adviser, letting it use more than 20% of its funds, the cap for VC firms, to trade secondary markets &lpar;Tabby Kinder/Financial Times&rpar;](http://www.techmeme.com/240614/p3#a240614p3)
- - [The Indie Horror Game That Launched a Surprising Queer Hopepunk Revolution](https://www.wired.com/story/signalis-queer-fandom-revolution/)<!-- TECH:END -->
+ - [HomeKit now lets you manually set what device is your Home Hub in iOS 18](https://appleinsider.com/articles/24/06/14/homekit-now-lets-you-manually-set-what-device-is-your-home-hub-in-ios-18?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple and Meta could face charges for violating EU tech rules](https://www.theverge.com/2024/6/14/24178724/apple-meta-eu-charges-dma)
- - [What happened to Safari Web Eraser -- the controversy, and what it looked like](https://appleinsider.com/articles/24/06/14/what-happened-to-safari-web-eraser----the-controversy-and-what-it-looked-like?utm_medium=rss)
- - [Sources: Mustafa Suleyman&#39;s presence at Microsoft is causing some awkwardness with OpenAI, as he looks at the algorithms behind models like GPT-4 &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/240614/p11#a240614p11)
- - [Nap Queen Mattresses Recalled Due to Fire Hazard. What You Should Know     - CNET](https://www.cnet.com/health/sleep/nap-queen-mattresses-recalled-due-to-fire-hazard-what-you-should-know/#ftag=CAD590a51e)
- - [iOS 18 isn&#39;t any more of a cheater&#39;s operating system than Android has been](https://appleinsider.com/articles/24/06/14/ios-18-isnt-any-more-of-a-cheaters-operating-system-than-android-has-been?utm_medium=rss)<!-- TECH:END -->
+ - [The best smartphone you can buy for under $500](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
+ - [Best Internet Providers in Orange, California     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-orange-ca/#ftag=CAD590a51e)
+ - [It&#39;s Hot This Summer. But Don&#39;t Think About Sleeping Naked     - CNET](https://www.cnet.com/health/sleep/its-hot-this-summer-but-dont-think-about-sleeping-naked/#ftag=CAD590a51e)
+ - [I&#39;ve Been Reviewing AI Chatbots for 4 Months and They&#39;ve Rewired My Brain     - CNET](https://www.cnet.com/tech/services-and-software/ive-been-reviewing-ai-chatbots-for-4-months-and-theyve-rewired-my-brain/#ftag=CAD590a51e)
+ - [Best Reading Glasses for 2024     - CNET](https://www.cnet.com/health/personal-care/best-reading-glasses/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

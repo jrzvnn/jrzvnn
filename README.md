@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As Google Targets Advertisers, It Could Learn a Lot From Bing](https://www.wired.com/story/as-google-ai-overview-targets-advertisers-it-could-learn-a-lot-from-bing/)
  - [Today&#39;s NYT Strands Hints, Answers, and Help for June 14, #103     - CNET](https://www.cnet.com/tech/gaming/todays-nyt-strands-hint-answer-help/#ftag=CAD590a51e)
  - [A deep dive into the Snapdragon X Elite/Plus architecture including Oryon, Qualcomm&#39;s custom-built Arm CPU cores, as first laptops with the SoC ship next week &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/240614/p1#a240614p1)
  - [Apple says it doesn&#39;t use users&#39; private data or user interactions to train its models, and uses both licensed materials and publicly available online data &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/240613/p40#a240613p40)
- - [A look at Apple&#39;s technical approach to AI, including core model performance, alignment strategies, and adapter and on-device strategy &lpar;Nathan Lambert/Interconnects&rpar;](http://www.techmeme.com/240613/p39#a240613p39)
- - [What&#39;s coming soon to tvOS 18, HomeKit, and AirPods](https://appleinsider.com/articles/24/06/14/whats-coming-soon-to-tvos-18-homekit-and-airpods?utm_medium=rss)<!-- TECH:END -->
+ - [A look at Apple&#39;s technical approach to AI, including core model performance, alignment strategies, and adapter and on-device strategy &lpar;Nathan Lambert/Interconnects&rpar;](http://www.techmeme.com/240613/p39#a240613p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

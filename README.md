@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can&#39;t wait to see her](http://9gag.com/gag/a343oy3)
- - 😝 [No time to explain, get in the mini-van](http://9gag.com/gag/adBp0pD)
- - 💣 [This one liar.](http://9gag.com/gag/aByr9z1)
+ - 😝 [Show me your power nine gagger](http://9gag.com/gag/azxVgBb)
  - 😝 [This site used to be for memes and funny stuff](http://9gag.com/gag/aE0zd5N)
- - 👉 [When engineering meet birds poop](http://9gag.com/gag/aoyjmA0)<!-- MEMES:END -->
+ - 💣 [I love this game!](http://9gag.com/gag/a7obL3b)
+ - 😝 [Beautiful](http://9gag.com/gag/ae90vzW)
+ - 👉 [Just give him some time to come back from store ffs](http://9gag.com/gag/aYQwjgN)<!-- MEMES:END -->
 
 ---
 

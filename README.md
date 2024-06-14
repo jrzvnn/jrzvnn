@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Real-time speed of an airplane take off](http://9gag.com/gag/azxVb2p)
  - 😝 [No words necessary](http://9gag.com/gag/aryRpzd)
- - 😝 [So original, so brave](http://9gag.com/gag/ajPn6D0)
  - 💣 [Shut up and take my money!](http://9gag.com/gag/aYQwbrx)
- - 😝 [Post your wallpapers here, not a screenshot of your wallpaper.](http://9gag.com/gag/aYQWzNO)
- - 👉 [Tapeworm found during colcolonoscop.](http://9gag.com/gag/aYQW80m)<!-- MEMES:END -->
+ - 😝 [So original, so brave](http://9gag.com/gag/ajPn6D0)
+ - 👉 [Social score up](http://9gag.com/gag/a7ob53w)<!-- MEMES:END -->
 
 ---
 

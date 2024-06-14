@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [You can read the comic, there&#39;s only 70++ issue &amp; way better than the tv series](http://9gag.com/gag/aPAGv8Q)
  - 😝 [Amy Winehouse interview backstage at the 2008 BRIT Awards](http://9gag.com/gag/aE01rWN)
- - 😝 [A stiff upper lip](http://9gag.com/gag/aQz4wy8)
- - 💣 [We &lpar;should&rpar; post memes here, sir](http://9gag.com/gag/ae90ooW)
- - 😝 [Rip Anastazja I&#39;m Sorry Europe Imported So Many Savages](http://9gag.com/gag/ae90XLm)
- - 👉 [Tapeworm found during colcolonoscop.](http://9gag.com/gag/aYQW80m)<!-- MEMES:END -->
+ - 💣 [This is me every day!](http://9gag.com/gag/a5QKp1y)
+ - 😝 [Real-time speed of an airplane take off](http://9gag.com/gag/azxVb2p)
+ - 👉 [We &lpar;should&rpar; post memes here, sir](http://9gag.com/gag/ae90ooW)<!-- MEMES:END -->
 
 ---
 

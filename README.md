@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [277](http://9gag.com/gag/aMVQ1qA)
- - 😝 [Just give him some time to come back from store ffs](http://9gag.com/gag/aYQwjgN)
- - 💣 [Tapeworm found during colcolonoscop.](http://9gag.com/gag/aYQW80m)
- - 😝 [Beautiful](http://9gag.com/gag/ae90vzW)
- - 👉 [Real-time speed of an airplane take off](http://9gag.com/gag/azxVb2p)<!-- MEMES:END -->
+ - 😝 [Real-time speed of an airplane take off](http://9gag.com/gag/azxVb2p)
+ - 😝 [Tatoo](http://9gag.com/gag/aqy24gZ)
+ - 💣 [Just give him some time to come back from store ffs](http://9gag.com/gag/aYQwjgN)
+ - 😝 [Sure ya did](http://9gag.com/gag/aGyRK7n)
+ - 👉 [We &lpar;should&rpar; post memes here, sir](http://9gag.com/gag/ae90ooW)<!-- MEMES:END -->
 
 ---
 

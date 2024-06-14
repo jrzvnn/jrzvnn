@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple and Meta could face charges for violating EU tech rules](https://www.theverge.com/2024/6/14/24178724/apple-meta-eu-charges-dma)
  - [What happened to Safari Web Eraser -- the controversy, and what it looked like](https://appleinsider.com/articles/24/06/14/what-happened-to-safari-web-eraser----the-controversy-and-what-it-looked-like?utm_medium=rss)
  - [Sources: Mustafa Suleyman&#39;s presence at Microsoft is causing some awkwardness with OpenAI, as he looks at the algorithms behind models like GPT-4 &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/240614/p11#a240614p11)
  - [Nap Queen Mattresses Recalled Due to Fire Hazard. What You Should Know     - CNET](https://www.cnet.com/health/sleep/nap-queen-mattresses-recalled-due-to-fire-hazard-what-you-should-know/#ftag=CAD590a51e)
- - [iOS 18 isn&#39;t any more of a cheater&#39;s operating system than Android has been](https://appleinsider.com/articles/24/06/14/ios-18-isnt-any-more-of-a-cheaters-operating-system-than-android-has-been?utm_medium=rss)
- - [Stamp Prices Are Increasing Next Month. Here&#39;s What to Know     - CNET](https://www.cnet.com/personal-finance/stamp-prices-are-increasing-next-month-heres-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iOS 18 isn&#39;t any more of a cheater&#39;s operating system than Android has been](https://appleinsider.com/articles/24/06/14/ios-18-isnt-any-more-of-a-cheaters-operating-system-than-android-has-been?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

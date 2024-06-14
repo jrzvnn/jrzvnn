@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best features in watchOS 11 for Apple Watch](https://appleinsider.com/articles/24/06/14/best-features-in-watchos-11-for-apple-watch?utm_medium=rss)
+ - [Arc’s live calendar button makes it hard to miss your next meeting](https://www.theverge.com/2024/6/14/24178381/arc-live-calendar-google-meeting-join-button)
  - [Disney brings playable ‘advergames’ to Hulu and ESPN](https://www.theverge.com/2024/6/14/24178373/disney-advergames-shoppable-ads-hulu-espn)
  - [Best DNA Test for 2024     - CNET](https://www.cnet.com/health/medical/best-dna-test/#ftag=CAD590a51e)
- - [Freeform in iOS 18 is enormously easier to work inside and navigate](https://appleinsider.com/articles/24/06/14/freeform-in-ios-18-is-enormously-easier-to-work-inside-and-navigate?utm_medium=rss)
- - [The Magic of Compound Interest Is Helping Double My Savings in One Year     - CNET](https://www.cnet.com/personal-finance/banking/yes-compound-interest-is-magic-watch-me-double-my-savings-in-one-year/#ftag=CAD590a51e)
- - [13 Best Couches You Can Buy Online &lpar;2024&rpar;: Sectionals, Sofas, Sleepers, and More](https://www.wired.com/gallery/best-couches/)<!-- TECH:END -->
+ - [Freeform in iOS 18 is enormously easier to work inside and navigate](https://appleinsider.com/articles/24/06/14/freeform-in-ios-18-is-enormously-easier-to-work-inside-and-navigate?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

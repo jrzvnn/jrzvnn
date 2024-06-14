@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Beautiful](http://9gag.com/gag/ae90vzW)
- - 😝 [This guy enjoying sex](http://9gag.com/gag/a87jLw6)
- - 💣 [Post your wallpapers here, not a screenshot of your wallpaper.](http://9gag.com/gag/aYQWzNO)
- - 😝 [I love this game!](http://9gag.com/gag/a7obL3b)
- - 👉 [Tapeworm found during colcolonoscop.](http://9gag.com/gag/aYQW80m)<!-- MEMES:END -->
+ - 😝 [Everybody act normal, and boys gather around him don&#39;t leave him at the edge.](http://9gag.com/gag/a9yPb16)
+ - 😝 [Post your wallpapers here, not a screenshot of your wallpaper.](http://9gag.com/gag/aYQWzNO)
+ - 💣 [This site used to be for memes and funny stuff](http://9gag.com/gag/aE0zd5N)
+ - 😝 [Jerry had zero fu*cks left to give.](http://9gag.com/gag/aO8bXwN)
+ - 👉 [Rip Anastazja I&#39;m Sorry Europe Imported So Many Savages](http://9gag.com/gag/ae90XLm)<!-- MEMES:END -->
 
 ---
 

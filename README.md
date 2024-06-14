@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Beautiful](http://9gag.com/gag/ae90vzW)
+ - 😝 [Post your wallpapers here, not a screenshot of your wallpaper.](http://9gag.com/gag/aYQWzNO)
+ - 💣 [This site used to be for memes and funny stuff](http://9gag.com/gag/aE0zd5N)
  - 😝 [I love this game!](http://9gag.com/gag/a7obL3b)
- - 😝 [Tatoo](http://9gag.com/gag/aqy24gZ)
- - 💣 [Indeed it is...](http://9gag.com/gag/aNDZxq6)
- - 😝 [A Harp has 7 pedals that control the pitch of each note!](http://9gag.com/gag/aKGP0qg)
- - 👉 [Post your wallpapers here, not a screenshot of your wallpaper.](http://9gag.com/gag/aYQWzNO)<!-- MEMES:END -->
+ - 👉 [I&#39;m not American. Today I discovered why they have so much problems with police officers.](http://9gag.com/gag/aGywWen)<!-- MEMES:END -->
 
 ---
 

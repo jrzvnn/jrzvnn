@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;ve been seeing a lot more rage comics so imma do my part as well.](http://9gag.com/gag/aLnBRm5)
- - 😝 [Just give him some time to come back from store ffs](http://9gag.com/gag/aYQwjgN)
+ - 😝 [No words necessary](http://9gag.com/gag/aryRpzd)
+ - 😝 [We &lpar;should&rpar; post memes here, sir](http://9gag.com/gag/ae90ooW)
  - 💣 [Black Myth Wukong devs refuse to pay 7m$ to Sweet Baby Inc, so iGN start writing hit piece about the developers](http://9gag.com/gag/an7BXgL)
- - 😝 [Shut up and take my money!](http://9gag.com/gag/aYQwbrx)
- - 👉 [Tapeworm found during colcolonoscop.](http://9gag.com/gag/aYQW80m)<!-- MEMES:END -->
+ - 😝 [Rip Anastazja I&#39;m Sorry Europe Imported So Many Savages](http://9gag.com/gag/ae90XLm)
+ - 👉 [Real-time speed of an airplane take off](http://9gag.com/gag/azxVb2p)<!-- MEMES:END -->
 
 ---
 

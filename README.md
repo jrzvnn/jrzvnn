@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Gaming Headsets—We Tested Over Hundreds of Hours &lpar;2024&rpar;](https://www.wired.com/gallery/best-gaming-headsets/)
  - [Meta will not launch Meta AI in Europe after the Irish DPC asked it to delay training its LLMs using the public Facebook and Instagram content of EU users &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240614/p6#a240614p6)
  - [The Anderson Cooper of Black Twitter Believes Journalism Can Survive Influencers](https://www.wired.com/story/dial-up-phil-lewis/)
  - [Sonos draws more customer anger — this time for its privacy policy](https://www.theverge.com/2024/6/14/24178433/sonos-privacy-policy-customer-data-controversy)
- - [Let’s speculate wildly about Tesla’s three mystery vehicles](https://www.theverge.com/2024/6/14/24178404/tesla-vehicles-robotaxi-van-model-2-shareholder-shrouded)
- - [Sources: Shein tries to suppress its chair&#39;s claim that the retailer is American, amid fears it could annoy China, which needs to approve Shein&#39;s London IPO &lpar;Financial Times&rpar;](http://www.techmeme.com/240614/p5#a240614p5)<!-- TECH:END -->
+ - [Let’s speculate wildly about Tesla’s three mystery vehicles](https://www.theverge.com/2024/6/14/24178404/tesla-vehicles-robotaxi-van-model-2-shareholder-shrouded)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

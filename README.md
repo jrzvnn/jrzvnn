@@ -164,9 +164,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [US prosecutors charge two men with operating Empire Market, a dark web marketplace for illicit goods and services that did $430M+ in sales between 2018 and 2020 &lpar;Jake Bleiberg/Bloomberg&rpar;](http://www.techmeme.com/240614/p14#a240614p14)
  - [Intel says it still doesn’t have the true fix for its crashing i9 desktop chips](https://www.theverge.com/2024/6/14/24178751/intel-raptor-lake-crash-fix-etvb-not-yet)
- - [The 25 Very Best Gifts for Dad, Picked By a Picky Dad &lpar;2024&rpar;](https://www.wired.com/gallery/best-gifts-for-dads/)
- - [Tim Cook may have met with Trump during WWDC to discuss second term priorities](https://appleinsider.com/articles/24/06/14/tim-cook-may-have-met-with-trump-during-wwdc-to-discuss-second-term-priorities?utm_medium=rss)
- - [Tempus AI&#39;s shares closed up 8.8% at $40.25 in the company&#39;s Nasdaq debut, giving it a market value of about $6.6B, after raising $410.7M in its IPO &lpar;Riley de Le&amp;oacute;n/CNBC&rpar;](http://www.techmeme.com/240614/p13#a240614p13)<!-- TECH:END -->
+ - [Best Internet Providers in Allentown, Pennsylvania     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-allentown-pa/#ftag=CAD590a51e)
+ - [Some Instagram Users Say They&#39;ll Delete App Over Unskippable Ads     - CNET](https://www.cnet.com/tech/services-and-software/some-instagram-users-say-theyll-delete-app-over-unskippable-ads/#ftag=CAD590a51e)
+ - [Best Electric Toothbrushes of 2024     - CNET](https://www.cnet.com/health/personal-care/best-electric-toothbrush/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

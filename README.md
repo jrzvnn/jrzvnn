@@ -163,10 +163,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Sources: Mustafa Suleyman&#39;s presence at Microsoft is causing some awkwardness with OpenAI, as he looks at the algorithms behind models like GPT-4 &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/240614/p11#a240614p11)
+ - [Nap Queen Mattresses Recalled Due to Fire Hazard. What You Should Know     - CNET](https://www.cnet.com/health/sleep/nap-queen-mattresses-recalled-due-to-fire-hazard-what-you-should-know/#ftag=CAD590a51e)
  - [iOS 18 isn&#39;t any more of a cheater&#39;s operating system than Android has been](https://appleinsider.com/articles/24/06/14/ios-18-isnt-any-more-of-a-cheaters-operating-system-than-android-has-been?utm_medium=rss)
- - [The DJI Mini 3 is only $329 right now, its best price yet](https://www.theverge.com/2024/6/14/24178604/dji-mini-3-deal-sale)
- - [Sources: the EU plans to charge Meta under the DMA, focusing on its pay or consent model where users pay a subscription for an ad-free Facebook and Instagram &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240614/p10#a240614p10)
- - [Remote workers using ‘mouse-mover’ technology are getting caught](https://www.theverge.com/2024/6/14/24178582/remote-work-mouse-jiggler-mover-wellsfargo)<!-- TECH:END -->
+ - [Stamp Prices Are Increasing Next Month. Here&#39;s What to Know     - CNET](https://www.cnet.com/personal-finance/stamp-prices-are-increasing-next-month-heres-what-to-know/#ftag=CAD590a51e)
+ - [The DJI Mini 3 is only $329 right now, its best price yet](https://www.theverge.com/2024/6/14/24178604/dji-mini-3-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

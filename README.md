@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Jon Stewart reveals the moment thing went bad with Apple](https://appleinsider.com/articles/24/06/14/jon-stewart-reveals-the-moment-thing-went-bad-with-apple?utm_medium=rss)
  - [Boulder, Colorado-based Enveda, which combines AI with ancient remedies for drug discovery, raised a $55M Series B extension from investors including Microsoft &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/240614/p2#a240614p2)
  - [Picsart teams up with Getty to take on Adobe’s ‘commercially-safe’ AI](https://www.theverge.com/2024/6/14/24178333/picsart-getty-commercially-safe-ai-image-tool-adobe)
  - [I Spent a Week Eating Discarded Restaurant Food. But Was It Really Going to Waste?](https://www.wired.com/story/too-good-to-go-app-week-food-waste/)
- - [As Google Targets Advertisers, It Could Learn a Lot From Bing](https://www.wired.com/story/as-google-ai-overview-targets-advertisers-it-could-learn-a-lot-from-bing/)
- - [Honor&#39;s Flip Phone Has the World&#39;s Biggest and Brightest Cover Screen     - CNET](https://www.cnet.com/tech/mobile/honors-v-flip-phone-makes-mobile-history-in-more-ways-than-one/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [3 Cheap and Easy Ways to Keep Your AC&#39;s Cool Air Indoors     - CNET](https://www.cnet.com/how-to/3-cheap-and-easy-ways-to-keep-your-acs-cool-air-indoors/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

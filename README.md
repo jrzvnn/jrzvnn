@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Giorgia Meloni clearly doesn&#39;t like Emmanuel Macron](http://9gag.com/gag/awy7K0r)
- - 😝 [One Wheel Bike Stunt While Jumping Rope!](http://9gag.com/gag/a0eY8XQ)
- - 💣 [Is this real life?](http://9gag.com/gag/aXPXEED)
- - 😝 [Customers find card skimmer at 7/11](http://9gag.com/gag/avyLgxn)
- - 👉 [Yes I do sex every day](http://9gag.com/gag/avyL0Kn)<!-- MEMES:END -->
+ - 😝 [Immortality only brings sadness](http://9gag.com/gag/ajPnrK0)
+ - 😝 [Show me your power nine gagger](http://9gag.com/gag/azxVgBb)
+ - 💣 [How cotton is harvested](http://9gag.com/gag/aXPXbzg)
+ - 😝 [Riding a bike in the Netherlands](http://9gag.com/gag/a7oby8m)
+ - 👉 [Social score up](http://9gag.com/gag/a7ob53w)<!-- MEMES:END -->
 
 ---
 

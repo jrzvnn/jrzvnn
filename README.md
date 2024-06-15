@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is beautiful](http://9gag.com/gag/a9yPbbm)
+ - 😝 [Customers find card skimmer at 7/11](http://9gag.com/gag/avyLgxn)
  - 😝 [Splash](http://9gag.com/gag/aGyRVm7)
- - 💣 [What movie do you think this is behind the scenes of?](http://9gag.com/gag/aKGB46Z)
- - 😝 [Tatoo](http://9gag.com/gag/aqy24gZ)
- - 👉 [A kind gesture - The way these Italian officers faces light up when they receive a photo](http://9gag.com/gag/abAbXnp)<!-- MEMES:END -->
+ - 💣 [No words necessary](http://9gag.com/gag/aryRpzd)
+ - 😝 [Real-time speed of an airplane take off](http://9gag.com/gag/azxVb2p)
+ - 👉 [What movie do you think this is behind the scenes of?](http://9gag.com/gag/aKGB46Z)<!-- MEMES:END -->
 
 ---
 

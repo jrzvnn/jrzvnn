@@ -171,9 +171,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You can read the comic, there&#39;s only 70++ issue &amp; way better than the tv series](http://9gag.com/gag/aPAGv8Q)
- - 😝 [Real-time speed of an airplane take off](http://9gag.com/gag/azxVb2p)
- - 💣 [Camping 101](http://9gag.com/gag/aW4OOpZ)
+ - 😝 [You know that was comming...](http://9gag.com/gag/agmNNqr)
+ - 😝 [Camping 101](http://9gag.com/gag/aW4OOpZ)
+ - 💣 [Real-time speed of an airplane take off](http://9gag.com/gag/azxVb2p)
  - 😝 [This is Kim Belaira. She is the reason why video games are bad. Spread this.](http://9gag.com/gag/a34LL38)
  - 👉 [So original, so brave](http://9gag.com/gag/ajPn6D0)<!-- MEMES:END -->
 

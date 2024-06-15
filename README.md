@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Special WWDC Edition: Interviewing Setapp developer Oleksandr Kosovan on the AppleInsider Podcast](https://appleinsider.com/articles/24/06/15/special-wwdc-edition-interviewing-setapp-developer-oleksandr-kosovan-on-the-appleinsider-podcast?utm_medium=rss)
+ - [A Guide to RCS, Why Apple’s Adopting It, and How It Makes Texting Better](https://www.wired.com/story/guide-to-rcs-why-it-makes-texting-better/)
  - [How to Avoid Getting Sick This Summer](https://www.wired.com/story/summer-sickness-illness-flu-germs-backyard-water/)
  - [T20 Cricket World Cup Livestream: How to Watch India vs. Canada From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/t20-cricket-world-cup-livestream-how-to-watch-india-vs-canada-from-anywhere/#ftag=CAD590a51e)
- - [RCS Support on iPhones Was Barely Mentioned During Apple&#39;s WWDC Keynote. I&#39;m Disappointed     - CNET](https://www.cnet.com/tech/mobile/rcs-support-on-iphones-was-barely-mentioned-during-apples-wwdc-keynote-im-disappointed/#ftag=CAD590a51e)
- - [Try This Ceiling Fan Hack to Save Big on AC This Summer     - CNET](https://www.cnet.com/how-to/try-this-ceiling-fan-hack-to-save-big-on-ac-this-summer/#ftag=CAD590a51e)
- - [Apple Intelligence Won’t Work on Hundreds of Millions of iPhones—but Maybe It Could](https://www.wired.com/story/apple-intelligence-wont-work-on-100s-of-millions-of-iphones-but-maybe-it-could/)<!-- TECH:END -->
+ - [RCS Support on iPhones Was Barely Mentioned During Apple&#39;s WWDC Keynote. I&#39;m Disappointed     - CNET](https://www.cnet.com/tech/mobile/rcs-support-on-iphones-was-barely-mentioned-during-apples-wwdc-keynote-im-disappointed/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Indie games were the real stars of the Summer Game Fest 2024; the top 10 bestselling games of 2024 so far on Steam in terms of units sold are almost all indie &lpar;Keza MacDonald/The Guardian&rpar;](http://www.techmeme.com/240615/p1#a240615p1)
  - [Today&#39;s NYT Connections Hints, Answers and Help for June 15, #370     - CNET](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answer-help-for-june-15-370/#ftag=CAD590a51e)
  - [Today&#39;s Wordle Hints, Answer and Help for June 15, #1092     - CNET](https://www.cnet.com/news/todays-wordle-hints-and-answer-help-for-june-15-1092/#ftag=CAD590a51e)
  - [Nigeria drops tax evasion charges against Binance executives Tigran Gambaryan and Nadeem Anjarwalla, who still face money laundering charges &lpar;Camomile Shumba/CoinDesk&rpar;](http://www.techmeme.com/240614/p17#a240614p17)
- - [Nvidia announces Nemotron-4 340B, a family of models that developers can use to generate synthetic data for training LLMs for commercial applications &lpar;Ankit Patel/NVIDIA Blog&rpar;](http://www.techmeme.com/240614/p16#a240614p16)
- - [Source: Sam Altman recently told some investors that OpenAI is considering changing to a for-profit benefit corporation that its nonprofit board doesn&#39;t control &lpar;The Information&rpar;](http://www.techmeme.com/240614/p15#a240614p15)<!-- TECH:END -->
+ - [Nvidia announces Nemotron-4 340B, a family of models that developers can use to generate synthetic data for training LLMs for commercial applications &lpar;Ankit Patel/NVIDIA Blog&rpar;](http://www.techmeme.com/240614/p16#a240614p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

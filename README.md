@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ransomware Attacks Are Getting Worse](https://www.wired.com/story/security-news-this-week-ransomware-attacks-are-getting-worse/)
  - [Best T-Mobile Phones for 2024     - CNET](https://www.cnet.com/tech/mobile/best-t-mobile-phones/#ftag=CAD590a51e)
  - [Social Security Checks Are Coming a Day Early This Week. Here&#39;s Why     - CNET](https://www.cnet.com/personal-finance/social-security-checks-are-coming-a-day-early-this-week-heres-why/#ftag=CAD590a51e)
  - [Today&#39;s NYT Strands Hints, Answers and Help for June 15, #104     - CNET](https://www.cnet.com/tech/gaming/todays-nyt-strands-hint-answer-help/#ftag=CAD590a51e)
- - [Indie games were the real stars of the Summer Game Fest 2024; the top 10 bestselling games of 2024 so far on Steam in terms of units sold are almost all indie &lpar;Keza MacDonald/The Guardian&rpar;](http://www.techmeme.com/240615/p1#a240615p1)
- - [Today&#39;s Wordle Hints, Answer and Help for June 15, #1092     - CNET](https://www.cnet.com/news/todays-wordle-hints-and-answer-help-for-june-15-1092/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Indie games were the real stars of the Summer Game Fest 2024; the top 10 bestselling games of 2024 so far on Steam in terms of units sold are almost all indie &lpar;Keza MacDonald/The Guardian&rpar;](http://www.techmeme.com/240615/p1#a240615p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

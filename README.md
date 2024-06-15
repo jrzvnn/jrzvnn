@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lowest price ever: 1TB MacBook Pro 16-inch drops to $1,899](https://appleinsider.com/articles/24/06/15/lowest-price-ever-1tb-macbook-pro-16-inch-drops-to-1899?utm_medium=rss)
  - [A profile of game publisher Devolver Digital, which gives indie studios immense creative freedom, doesn&#39;t take IP rights from them, and is turning 15 on June 25 &lpar;Rollo Romig/New York Times&rpar;](http://www.techmeme.com/240615/p5#a240615p5)
  - [Philips Hue’s jaunty sunrise smart lamp is called the Twilight](https://www.theverge.com/2024/6/15/24179119/philips-hue-smart-lamp-twilight-solo-lightstrip)
  - [Sharge’s cute, Macintosh-inspired 67W charger is nearly half off right now](https://www.theverge.com/2024/6/15/24177773/sharge-retro-67-usb-c-charger-sonos-speaker-soundbar-deal-sale)
- - [Apple may not be bringing Apple Intelligence to iPhone 15, which has 6GB of RAM vs. iPhone 15 Pro&#39;s 8GB, due to RAM requirements for on-device AI processing &lpar;Andrew Williams/Wired&rpar;](http://www.techmeme.com/240615/p4#a240615p4)
- - [How to Watch Euro 2024: Italy vs. Albania Livestream Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-euro-2024-italy-vs-albania-livestream-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple may not be bringing Apple Intelligence to iPhone 15, which has 6GB of RAM vs. iPhone 15 Pro&#39;s 8GB, due to RAM requirements for on-device AI processing &lpar;Andrew Williams/Wired&rpar;](http://www.techmeme.com/240615/p4#a240615p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

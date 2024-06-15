@@ -171,10 +171,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Shut up and take my money!](http://9gag.com/gag/aYQwbrx)
+ - 😝 [Real-time speed of an airplane take off](http://9gag.com/gag/azxVb2p)
+ - 💣 [No words necessary](http://9gag.com/gag/aryRpzd)
  - 😝 [Title](http://9gag.com/gag/ajPn0x1)
- - 😝 [No words necessary](http://9gag.com/gag/aryRpzd)
- - 💣 [Dont blink...](http://9gag.com/gag/azxV7zj)
- - 😝 [What movie do you think this is behind the scenes of?](http://9gag.com/gag/aKGB46Z)
  - 👉 [You can read the comic, there&#39;s only 70++ issue &amp; way better than the tv series](http://9gag.com/gag/aPAGv8Q)<!-- MEMES:END -->
 
 ---

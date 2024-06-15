@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Intelligence Won’t Work on Hundreds of Millions of iPhones—but Maybe It Could](https://www.wired.com/story/apple-intelligence-wont-work-on-100s-of-millions-of-iphones-but-maybe-it-could/)
- - [Panerai’s Submersible Elux Lab-ID Dive Watch Generates Its Own Light Show](https://www.wired.com/story/panerai-submersible-elux-lab-id/)
- - [Ukrainian Sailors Are Using Telegram to Avoid Being Tricked Into Smuggling Oil for Russia](https://www.wired.com/story/shadow-fleet-shipping-russia-ukraine-climate-change/)
- - [How disabled people use Apple Vision Pro for work, entertainment, and more, and interviews with some disabled Apple staff who built the accessibility features &lpar;Andrew Leland/New York Magazine&rpar;](http://www.techmeme.com/240615/p2#a240615p2)
- - [Ransomware Attacks Are Getting Worse](https://www.wired.com/story/security-news-this-week-ransomware-attacks-are-getting-worse/)<!-- TECH:END -->
+ - [How to Avoid Getting Sick This Summer](https://www.wired.com/story/summer-sickness-illness-flu-germs-backyard-water/)
+ - [T20 Cricket World Cup Livestream: How to Watch India vs. Canada From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/t20-cricket-world-cup-livestream-how-to-watch-india-vs-canada-from-anywhere/#ftag=CAD590a51e)
+ - [RCS Support on iPhones Was Barely Mentioned During Apple&#39;s WWDC Keynote. I&#39;m Disappointed     - CNET](https://www.cnet.com/tech/mobile/rcs-support-on-iphones-was-barely-mentioned-during-apples-wwdc-keynote-im-disappointed/#ftag=CAD590a51e)
+ - [Try This Ceiling Fan Hack to Save Big on AC This Summer     - CNET](https://www.cnet.com/how-to/try-this-ceiling-fan-hack-to-save-big-on-ac-this-summer/#ftag=CAD590a51e)
+ - [Apple Intelligence Won’t Work on Hundreds of Millions of iPhones—but Maybe It Could](https://www.wired.com/story/apple-intelligence-wont-work-on-100s-of-millions-of-iphones-but-maybe-it-could/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

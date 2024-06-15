@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Shop Like a Pro During Amazon Prime Day - July 2024](https://www.wired.com/story/amazon-prime-day-2024-tips-to-find-best-deals/)
+ - [The 34 Best Shows on Amazon Prime Right Now &lpar;June 2024&rpar;](https://www.wired.com/story/best-shows-amazon-prime/)
+ - [Apple announced RCS with a whimper when it should have been a bang](https://www.theverge.com/2024/6/15/24178470/apple-rcs-support-wwdc-announcement-android-imessage)
  - [Special WWDC Edition: Interviewing Setapp developer Oleksandr Kosovan on the AppleInsider Podcast](https://appleinsider.com/articles/24/06/15/special-wwdc-edition-interviewing-setapp-developer-oleksandr-kosovan-on-the-appleinsider-podcast?utm_medium=rss)
- - [A Guide to RCS, Why Apple’s Adopting It, and How It Makes Texting Better](https://www.wired.com/story/guide-to-rcs-why-it-makes-texting-better/)
- - [How to Avoid Getting Sick This Summer](https://www.wired.com/story/summer-sickness-illness-flu-germs-backyard-water/)
- - [T20 Cricket World Cup Livestream: How to Watch India vs. Canada From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/t20-cricket-world-cup-livestream-how-to-watch-india-vs-canada-from-anywhere/#ftag=CAD590a51e)
- - [RCS Support on iPhones Was Barely Mentioned During Apple&#39;s WWDC Keynote. I&#39;m Disappointed     - CNET](https://www.cnet.com/tech/mobile/rcs-support-on-iphones-was-barely-mentioned-during-apples-wwdc-keynote-im-disappointed/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A Guide to RCS, Why Apple’s Adopting It, and How It Makes Texting Better](https://www.wired.com/story/guide-to-rcs-why-it-makes-texting-better/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

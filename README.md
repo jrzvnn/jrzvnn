@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [April Vs April](http://9gag.com/gag/aryRR4X)
- - 😝 [Who needs a man?](http://9gag.com/gag/a34Ld3m)
- - 💣 [Show me your power nine gagger](http://9gag.com/gag/azxVgBb)
+ - 😝 [R.I.P](http://9gag.com/gag/aZZNNb9)
+ - 😝 [277](http://9gag.com/gag/aMVQ1qA)
+ - 💣 [On the road, anything can be expected](http://9gag.com/gag/amo80y2)
  - 😝 [Florida USA](http://9gag.com/gag/a2vqqKd)
- - 👉 [No words necessary](http://9gag.com/gag/aryRpzd)<!-- MEMES:END -->
+ - 👉 [Real-time speed of an airplane take off](http://9gag.com/gag/azxVb2p)<!-- MEMES:END -->
 
 ---
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Philips Hue’s jaunty sunrise smart lamp is called the Twilight](https://www.theverge.com/2024/6/15/24179119/philips-hue-smart-lamp-twilight-solo-lightstrip)
  - [Sharge’s cute, Macintosh-inspired 67W charger is nearly half off right now](https://www.theverge.com/2024/6/15/24177773/sharge-retro-67-usb-c-charger-sonos-speaker-soundbar-deal-sale)
  - [Apple may not be bringing Apple Intelligence to iPhone 15, which has 6GB of RAM vs. iPhone 15 Pro&#39;s 8GB, due to RAM requirements for on-device AI processing &lpar;Andrew Williams/Wired&rpar;](http://www.techmeme.com/240615/p4#a240615p4)
  - [How to make boot media for PowerPC Macs on modern hardware](https://appleinsider.com/inside/mac/tips/how-to-make-boot-media-for-powerpc-macs-on-modern-hardware?utm_medium=rss)
- - [What happened to Safari Web Eraser -- the controversy, and what it looked like](https://appleinsider.com/articles/24/06/14/what-happened-to-safari-web-eraser----the-controversy-and-what-it-looked-like?utm_medium=rss)
- - [Apple Cider Vinegar: 4 Reasons to Use It to Aid Your Wellness     - CNET](https://www.cnet.com/health/nutrition/apple-cider-vinegar-4-reasons-to-use-it-to-aid-your-wellness/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What happened to Safari Web Eraser -- the controversy, and what it looked like](https://appleinsider.com/articles/24/06/14/what-happened-to-safari-web-eraser----the-controversy-and-what-it-looked-like?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

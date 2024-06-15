@@ -171,10 +171,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So original, so brave](http://9gag.com/gag/ajPn6D0)
- - 😝 [Yes I do sex every day](http://9gag.com/gag/avyL0Kn)
- - 💣 [I love this game!](http://9gag.com/gag/a7obL3b)
- - 😝 [Black Myth Wukong devs refuse to pay 7m$ to Sweet Baby Inc, so iGN start writing hit piece about the developers](http://9gag.com/gag/an7BXgL)
+ - 😝 [Baltimore police release bodycam footage of an officer involved shooting on May 24th.](http://9gag.com/gag/aZZNx6p)
+ - 😝 [Terry Crews with a Balogne Sandwich](http://9gag.com/gag/a9yPd40)
+ - 💣 [Just give him some time to come back from store ffs](http://9gag.com/gag/aYQwjgN)
+ - 😝 [Now that looks tasty.](http://9gag.com/gag/aoyjzD3)
  - 👉 [No words necessary](http://9gag.com/gag/aryRpzd)<!-- MEMES:END -->
 
 ---

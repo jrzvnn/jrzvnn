@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Customers find card skimmer at 7/11](http://9gag.com/gag/avyLgxn)
- - 😝 [Shut up and take my money!](http://9gag.com/gag/aYQwbrx)
- - 💣 [You can read the comic, there&#39;s only 70++ issue &amp; way better than the tv series](http://9gag.com/gag/aPAGv8Q)
- - 😝 [A new jewelry store opens in Sunnyvale, California and this immediately happens](http://9gag.com/gag/aAyprx0)
- - 👉 [This site used to be for memes and funny stuff](http://9gag.com/gag/aE0zd5N)<!-- MEMES:END -->
+ - 😝 [Taxi driver cancels the charge for parents taking their son to the children&#39;s hospital](http://9gag.com/gag/ae9pNd5)
+ - 😝 [Everybody act normal, and boys gather around him don&#39;t leave him at the edge.](http://9gag.com/gag/a9yPb16)
+ - 💣 [They even found it in the balls](http://9gag.com/gag/a6ZLrgA)
+ - 😝 [What movie do you think this is behind the scenes of?](http://9gag.com/gag/aKGB46Z)
+ - 👉 [Immortality only brings sadness](http://9gag.com/gag/ajPnrK0)<!-- MEMES:END -->
 
 ---
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Intelligence Won’t Work on Hundreds of Millions of iPhones—but Maybe It Could](https://www.wired.com/story/apple-intelligence-wont-work-on-100s-of-millions-of-iphones-but-maybe-it-could/)
  - [Panerai’s Submersible Elux Lab-ID Dive Watch Generates Its Own Light Show](https://www.wired.com/story/panerai-submersible-elux-lab-id/)
  - [Ukrainian Sailors Are Using Telegram to Avoid Being Tricked Into Smuggling Oil for Russia](https://www.wired.com/story/shadow-fleet-shipping-russia-ukraine-climate-change/)
  - [How disabled people use Apple Vision Pro for work, entertainment, and more, and interviews with some disabled Apple staff who built the accessibility features &lpar;Andrew Leland/New York Magazine&rpar;](http://www.techmeme.com/240615/p2#a240615p2)
- - [Ransomware Attacks Are Getting Worse](https://www.wired.com/story/security-news-this-week-ransomware-attacks-are-getting-worse/)
- - [How to Watch Euro 2024: Hungary vs. Switzerland Livestream Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-euro-2024-hungary-vs-switzerland-livestream-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ransomware Attacks Are Getting Worse](https://www.wired.com/story/security-news-this-week-ransomware-attacks-are-getting-worse/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

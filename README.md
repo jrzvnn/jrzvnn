@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Customers find card skimmer at 7/11](http://9gag.com/gag/avyLgxn)
- - 😝 [Splash](http://9gag.com/gag/aGyRVm7)
- - 💣 [No words necessary](http://9gag.com/gag/aryRpzd)
- - 😝 [Real-time speed of an airplane take off](http://9gag.com/gag/azxVb2p)
- - 👉 [What movie do you think this is behind the scenes of?](http://9gag.com/gag/aKGB46Z)<!-- MEMES:END -->
+ - 😝 [Brave people of Scotland](http://9gag.com/gag/aLnBKxx)
+ - 😝 [And that, my friends, is how you spot a citizen of the US of A](http://9gag.com/gag/amo8XKV)
+ - 💣 [48lbs/22kg down since Jan. This fat f*ck still has a long way to go, but at least it&#39;s the right direction. Clawing my way back to a life worth living again. F*ck you all and I&#39;ll see you tomorrow.](http://9gag.com/gag/a87jLOO)
+ - 😝 [277](http://9gag.com/gag/aMVQ1qA)
+ - 👉 [So original, so brave](http://9gag.com/gag/ajPn6D0)<!-- MEMES:END -->
 
 ---
 

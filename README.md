@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Splash](http://9gag.com/gag/aGyRVm7)
- - 😝 [48lbs/22kg down since Jan. This fat f*ck still has a long way to go, but at least it&#39;s the right direction. Clawing my way back to a life worth living again. F*ck you all and I&#39;ll see you tomorrow.](http://9gag.com/gag/a87jLOO)
- - 💣 [Some stories just write themselves. EU the land of opportunity](http://9gag.com/gag/a0eYPnX)
- - 😝 [277](http://9gag.com/gag/aMVQ1qA)
- - 👉 [So original, so brave](http://9gag.com/gag/ajPn6D0)<!-- MEMES:END -->
+ - 😝 [Would](http://9gag.com/gag/a9yPdg1)
+ - 😝 [Sure ya did](http://9gag.com/gag/aGyRK7n)
+ - 💣 [The Princess of Bulgaria](http://9gag.com/gag/aMVQrOM)
+ - 😝 [Is this real life?](http://9gag.com/gag/aXPXEED)
+ - 👉 [I\u2019ve had many nightmares take place in similar elevators](http://9gag.com/gag/aGyRwY0)<!-- MEMES:END -->
 
 ---
 

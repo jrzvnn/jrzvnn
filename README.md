@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to make boot media for PowerPC Macs on modern hardware](https://appleinsider.com/inside/mac/tips/how-to-make-boot-media-for-powerpc-macs-on-modern-hardware?utm_medium=rss)
  - [What happened to Safari Web Eraser -- the controversy, and what it looked like](https://appleinsider.com/articles/24/06/14/what-happened-to-safari-web-eraser----the-controversy-and-what-it-looked-like?utm_medium=rss)
  - [18 Best Camera Bags, Slings, Straps, and Backpacks &lpar;2024&rpar;](https://www.wired.com/gallery/best-camera-bags-backpacks-straps-inserts/)
  - [Nintendo’s first US commercial might be this 1980 ad](https://www.theverge.com/2024/6/15/24179080/nintendo-first-us-commercial-game-and-watch-toss-up-mego)
- - [HiGround Opal Base 65 Keyboard Review: More Hype Than Substance](https://www.wired.com/review/higround-opal-base-65-keyboard/)
- - [How the launch of AI search chatbots such as Bing Copilot is affecting advertisers, as they look for new ways to target users with relevant ads &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/240615/p3#a240615p3)<!-- TECH:END -->
+ - [HiGround Opal Base 65 Keyboard Review: More Hype Than Substance](https://www.wired.com/review/higround-opal-base-65-keyboard/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

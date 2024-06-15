@@ -164,9 +164,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Leaked documents reveal life-threatening issues at Amazon&#39;s primary-care service One Medical, raising concerns about Amazon&#39;s frugal approach to health care &lpar;Caroline O&#39;Donovan/Washington Post&rpar;](http://www.techmeme.com/240615/p8#a240615p8)
  - [NASA says Voyager 1 is fully back online months after it stopped making sense](https://www.theverge.com/2024/6/15/24179265/voyager-1-functioning-again-nasa-deep-space)
- - [Sonos removes a promise to not sell personal data, gets busted by users](https://appleinsider.com/articles/24/06/15/sonos-removes-a-promise-to-not-sell-personal-data-gets-busted-by-users?utm_medium=rss)
- - [You Can Renew Your Passport Online, but Only if You Act Quickly     - CNET](https://www.cnet.com/tech/services-and-software/you-can-renew-your-passport-online-but-only-if-you-act-quickly/#ftag=CAD590a51e)
- - [Apple added a Vocal Shortcuts accessibility feature in iOS 18 that lets users give Siri a new wake word, such as &quot;hello, computer&quot; &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/240615/p7#a240615p7)<!-- TECH:END -->
+ - [Best Laser Cutters and Engravers of 2024     - CNET](https://www.cnet.com/tech/computing/the-best-laser-cutters-and-engravers/#ftag=CAD590a51e)
+ - [Save up to $300 and Score Freebies During LG&#39;s Current Sale     - CNET](https://www.cnet.com/deals/save-up-to-300-and-score-freebies-during-lgs-current-sale/#ftag=CAD590a51e)
+ - [Sonos removes a promise to not sell personal data, gets busted by users](https://appleinsider.com/articles/24/06/15/sonos-removes-a-promise-to-not-sell-personal-data-gets-busted-by-users?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

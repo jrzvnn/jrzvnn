@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You know that was comming...](http://9gag.com/gag/agmNNqr)
- - 😝 [Camping 101](http://9gag.com/gag/aW4OOpZ)
- - 💣 [Real-time speed of an airplane take off](http://9gag.com/gag/azxVb2p)
+ - 😝 [Japnese kids doing their assignment](http://9gag.com/gag/aO8mq1r)
+ - 😝 [Smol guy meets the pack](http://9gag.com/gag/aByrr21)
+ - 💣 [Age discrimination in USA](http://9gag.com/gag/aGyR9q7)
  - 😝 [This is Kim Belaira. She is the reason why video games are bad. Spread this.](http://9gag.com/gag/a34LL38)
- - 👉 [So original, so brave](http://9gag.com/gag/ajPn6D0)<!-- MEMES:END -->
+ - 👉 [When Coca Cola announced it sold 4 times more than Pepsi in 2001, Pepsi responded with this commercial](http://9gag.com/gag/aNDKZ1K)<!-- MEMES:END -->
 
 ---
 

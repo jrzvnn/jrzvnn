@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shut up and take my money!](http://9gag.com/gag/aYQwbrx)
- - 😝 [Yes I do sex every day](http://9gag.com/gag/avyL0Kn)
- - 💣 [Customers find card skimmer at 7/11](http://9gag.com/gag/avyLgxn)
- - 😝 [Real-time speed of an airplane take off](http://9gag.com/gag/azxVb2p)
- - 👉 [Title](http://9gag.com/gag/ajPn0x1)<!-- MEMES:END -->
+ - 😝 [Social score up](http://9gag.com/gag/a7ob53w)
+ - 😝 [Well... fck...](http://9gag.com/gag/aVvXj7y)
+ - 💣 [You can read the comic, there&#39;s only 70++ issue &amp; way better than the tv series](http://9gag.com/gag/aPAGv8Q)
+ - 😝 [This guy enjoying sex](http://9gag.com/gag/a87jLw6)
+ - 👉 [Real-time speed of an airplane take off](http://9gag.com/gag/azxVb2p)<!-- MEMES:END -->
 
 ---
 

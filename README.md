@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Another TV show ruined](http://9gag.com/gag/aD2m31O)
- - 😝 [Nice reaction](http://9gag.com/gag/aVvXWd8)
+ - 😝 [Who needs a man?](http://9gag.com/gag/a34Ld3m)
+ - 😝 [Riding a bike in the Netherlands](http://9gag.com/gag/a7oby8m)
  - 💣 [Florida USA](http://9gag.com/gag/a2vqqKd)
- - 😝 [When you trust your tofu building so much.](http://9gag.com/gag/aAyppQo)
- - 👉 [Oof](http://9gag.com/gag/ae9ppoq)<!-- MEMES:END -->
+ - 😝 [Real-time speed of an airplane take off](http://9gag.com/gag/azxVb2p)
+ - 👉 [Good job,we had time to take a look.](http://9gag.com/gag/aNDKKxK)<!-- MEMES:END -->
 
 ---
 

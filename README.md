@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is this real life?](http://9gag.com/gag/aXPXEED)
- - 😝 [Shut up and take my money!](http://9gag.com/gag/aYQwbrx)
- - 💣 [No words necessary](http://9gag.com/gag/aryRpzd)
- - 😝 [Yes I do sex every day](http://9gag.com/gag/avyL0Kn)
- - 👉 [Nice kick...oh wait](http://9gag.com/gag/an7BKGn)<!-- MEMES:END -->
+ - 😝 [Sure ya did](http://9gag.com/gag/aGyRK7n)
+ - 😝 [Real-time speed of an airplane take off](http://9gag.com/gag/azxVb2p)
+ - 💣 [Title](http://9gag.com/gag/ajPn0x1)
+ - 😝 [Customers find card skimmer at 7/11](http://9gag.com/gag/avyLgxn)
+ - 👉 [This is Kim Belaira. She is the reason why video games are bad. Spread this.](http://9gag.com/gag/a34LL38)<!-- MEMES:END -->
 
 ---
 

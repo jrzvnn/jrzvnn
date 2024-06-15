@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [R.I.P](http://9gag.com/gag/aZZNNb9)
- - 😝 [277](http://9gag.com/gag/aMVQ1qA)
- - 💣 [On the road, anything can be expected](http://9gag.com/gag/amo80y2)
+ - 😝 [Splash](http://9gag.com/gag/aGyRVm7)
+ - 😝 [Real-time speed of an airplane take off](http://9gag.com/gag/azxVb2p)
+ - 💣 [Size Accurate Super-Girl](http://9gag.com/gag/a0eY9RB)
  - 😝 [Florida USA](http://9gag.com/gag/a2vqqKd)
- - 👉 [Real-time speed of an airplane take off](http://9gag.com/gag/azxVb2p)<!-- MEMES:END -->
+ - 👉 [Water Vortex](http://9gag.com/gag/aGyRY3Z)<!-- MEMES:END -->
 
 ---
 

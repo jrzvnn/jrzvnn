@@ -163,10 +163,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Apple added a Vocal Shortcuts accessibility feature in iOS 18 that lets users give Siri a new wake word, such as &quot;hello, computer&quot; &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/240615/p7#a240615p7)
+ - [You Can Renew Your Passport Online, but Only if You Act Quickly     - CNET](https://www.cnet.com/tech/services-and-software/you-can-renew-your-passport-online-but-only-if-you-act-quickly/#ftag=CAD590a51e)
+ - [Find Your Estimated Monthly Social Security Benefit Amount Online     - CNET](https://www.cnet.com/personal-finance/find-your-estimated-monthly-social-security-benefit-amount-online/#ftag=CAD590a51e)
  - [How Duolingo uses streaks and notifications to keep users coming back to the app; 5M of Duolingo&#39;s 30M+ DAUs have one year streaks and 70% have weeklong streaks &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/240615/p6#a240615p6)
- - [Lowest price ever: 1TB MacBook Pro 16-inch drops to $1,899](https://appleinsider.com/articles/24/06/15/lowest-price-ever-1tb-macbook-pro-16-inch-drops-to-1899?utm_medium=rss)
- - [You Have 2 Days Left to Score Major Deals at Best Buy&#39;s Father&#39;s Day Sale     - CNET](https://www.cnet.com/deals/you-have-2-days-left-to-score-major-deals-at-best-buys-fathers-day-sale/#ftag=CAD590a51e)
- - [Best Pillows for 2024     - CNET](https://www.cnet.com/health/sleep/best-pillow/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Inside Out 2&#39; Review: Another Tale Your Inner Child May Appreciate     - CNET](https://www.cnet.com/tech/services-and-software/inside-out-2-offers-another-tale-your-inner-child-may-appreciate/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

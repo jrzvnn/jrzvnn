@@ -165,8 +165,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Apple may not be bringing Apple Intelligence to iPhone 15, which has 6GB of RAM vs. iPhone 15 Pro&#39;s 8GB, due to RAM requirements for on-device AI processing &lpar;Andrew Williams/Wired&rpar;](http://www.techmeme.com/240615/p4#a240615p4)
  - [How to make boot media for PowerPC Macs on modern hardware](https://appleinsider.com/inside/mac/tips/how-to-make-boot-media-for-powerpc-macs-on-modern-hardware?utm_medium=rss)
  - [What happened to Safari Web Eraser -- the controversy, and what it looked like](https://appleinsider.com/articles/24/06/14/what-happened-to-safari-web-eraser----the-controversy-and-what-it-looked-like?utm_medium=rss)
- - [18 Best Camera Bags, Slings, Straps, and Backpacks &lpar;2024&rpar;](https://www.wired.com/gallery/best-camera-bags-backpacks-straps-inserts/)
- - [Nintendo’s first US commercial might be this 1980 ad](https://www.theverge.com/2024/6/15/24179080/nintendo-first-us-commercial-game-and-watch-toss-up-mego)<!-- TECH:END -->
+ - [Apple Cider Vinegar: 4 Reasons to Use It to Aid Your Wellness     - CNET](https://www.cnet.com/health/nutrition/apple-cider-vinegar-4-reasons-to-use-it-to-aid-your-wellness/#ftag=CAD590a51e)
+ - [18 Best Camera Bags, Slings, Straps, and Backpacks &lpar;2024&rpar;](https://www.wired.com/gallery/best-camera-bags-backpacks-straps-inserts/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

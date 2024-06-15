@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hehe](http://9gag.com/gag/a5QKKDg)
- - 😝 [Tv show modern family had some funny skits](http://9gag.com/gag/aGyRxRw)
- - 💣 [Camping 101](http://9gag.com/gag/aW4OOpZ)
- - 😝 [Smol guy meets the pack](http://9gag.com/gag/aByrr21)
- - 👉 [3..2..1](http://9gag.com/gag/avyLLrX)<!-- MEMES:END -->
+ - 😝 [Shut up and take my money!](http://9gag.com/gag/aYQwbrx)
+ - 😝 [Another TV show ruined](http://9gag.com/gag/aD2m31O)
+ - 💣 [Oof](http://9gag.com/gag/ae9ppoq)
+ - 😝 [Riding a bike in the Netherlands](http://9gag.com/gag/a7oby8m)
+ - 👉 [Social score up](http://9gag.com/gag/a7ob53w)<!-- MEMES:END -->
 
 ---
 

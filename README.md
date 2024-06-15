@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Warehouse Cat](http://9gag.com/gag/aVvXzoy)
- - 😝 [One Wheel Bike Stunt While Jumping Rope!](http://9gag.com/gag/a0eY8XQ)
- - 💣 [This site used to be for memes and funny stuff](http://9gag.com/gag/aE0zd5N)
- - 😝 [Riding a bike in the Netherlands](http://9gag.com/gag/a7oby8m)
- - 👉 [I&#39;ve been seeing a lot more rage comics so imma do my part as well.](http://9gag.com/gag/aLnBRm5)<!-- MEMES:END -->
+ - 😝 [The fear is real](http://9gag.com/gag/avyLpEZ)
+ - 😝 [Girl dances around the campfire](http://9gag.com/gag/abAbXX8)
+ - 💣 [Shut up and take my money!](http://9gag.com/gag/aYQwbrx)
+ - 😝 [Jesus Christ That&#39;s Jason Bourne](http://9gag.com/gag/adBp6XQ)
+ - 👉 [This is bananas](http://9gag.com/gag/aByrRqZ)<!-- MEMES:END -->
 
 ---
 

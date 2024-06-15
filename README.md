@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice kick...oh wait](http://9gag.com/gag/an7BKGn)
+ - 😝 [Is this real life?](http://9gag.com/gag/aXPXEED)
+ - 😝 [Shut up and take my money!](http://9gag.com/gag/aYQwbrx)
+ - 💣 [No words necessary](http://9gag.com/gag/aryRpzd)
  - 😝 [Yes I do sex every day](http://9gag.com/gag/avyL0Kn)
- - 💣 [So original, so brave](http://9gag.com/gag/ajPn6D0)
- - 😝 [Real-time speed of an airplane take off](http://9gag.com/gag/azxVb2p)
- - 👉 [Is this real life?](http://9gag.com/gag/aXPXEED)<!-- MEMES:END -->
+ - 👉 [Nice kick...oh wait](http://9gag.com/gag/an7BKGn)<!-- MEMES:END -->
 
 ---
 

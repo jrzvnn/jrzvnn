@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Some stories just write themselves. EU the land of opportunity](http://9gag.com/gag/a0eYPnX)
- - 😝 [Japnese kids doing their assignment](http://9gag.com/gag/aO8mq1r)
- - 💣 [When Coca Cola announced it sold 4 times more than Pepsi in 2001, Pepsi responded with this commercial](http://9gag.com/gag/aNDKZ1K)
- - 😝 [Social score up](http://9gag.com/gag/a7ob53w)
- - 👉 [Age discrimination in USA](http://9gag.com/gag/aGyR9q7)<!-- MEMES:END -->
+ - 😝 [Is this real life?](http://9gag.com/gag/aXPXEED)
+ - 😝 [Riding a bike in the Netherlands](http://9gag.com/gag/a7oby8m)
+ - 💣 [Splash](http://9gag.com/gag/aGyRVm7)
+ - 😝 [If your chick looks at another man like this, you aren&#39;t her first choice](http://9gag.com/gag/aPAGvng)
+ - 👉 [Customers find card skimmer at 7/11](http://9gag.com/gag/avyLgxn)<!-- MEMES:END -->
 
 ---
 

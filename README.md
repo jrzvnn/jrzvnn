@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Splash](http://9gag.com/gag/aGyRVm7)
- - 😝 [Real-time speed of an airplane take off](http://9gag.com/gag/azxVb2p)
- - 💣 [Size Accurate Super-Girl](http://9gag.com/gag/a0eY9RB)
- - 😝 [Florida USA](http://9gag.com/gag/a2vqqKd)
- - 👉 [Water Vortex](http://9gag.com/gag/aGyRY3Z)<!-- MEMES:END -->
+ - 😝 [Japnese kids doing their assignment](http://9gag.com/gag/aO8mq1r)
+ - 😝 [Age discrimination in USA](http://9gag.com/gag/aGyR9q7)
+ - 💣 [Smol guy meets the pack](http://9gag.com/gag/aByrr21)
+ - 😝 [3..2..1](http://9gag.com/gag/avyLLrX)
+ - 👉 [When Coca Cola announced it sold 4 times more than Pepsi in 2001, Pepsi responded with this commercial](http://9gag.com/gag/aNDKZ1K)<!-- MEMES:END -->
 
 ---
 

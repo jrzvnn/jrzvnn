@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [HiGround Opal Base 65 Keyboard Review: More Hype Than Substance](https://www.wired.com/review/higround-opal-base-65-keyboard/)
  - [How the launch of AI search chatbots such as Bing Copilot is affecting advertisers, as they look for new ways to target users with relevant ads &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/240615/p3#a240615p3)
  - [Barnes and Noble Nook 9-Inch Lenovo Tablet Review: Affordable and Capable](https://www.wired.com/review/nook-9-lenovo-tablet/)
  - [The iPad should fold in half](https://www.theverge.com/2024/6/15/24177306/apple-foldable-phone-ipados-18)
- - [The Best Gender-Neutral Clothing Brands &lpar;2024&rpar;: Tested and Reviewed](https://www.wired.com/story/best-gender-neutral-clothing-brands/)
- - [How to Shop Like a Pro During Amazon Prime Day - July 2024](https://www.wired.com/story/amazon-prime-day-2024-tips-to-find-best-deals/)<!-- TECH:END -->
+ - [The Best Gender-Neutral Clothing Brands &lpar;2024&rpar;: Tested and Reviewed](https://www.wired.com/story/best-gender-neutral-clothing-brands/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

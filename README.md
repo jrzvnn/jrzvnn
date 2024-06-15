@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Baltimore police release bodycam footage of an officer involved shooting on May 24th.](http://9gag.com/gag/aZZNx6p)
  - 😝 [Terry Crews with a Balogne Sandwich](http://9gag.com/gag/a9yPd40)
- - 💣 [Just give him some time to come back from store ffs](http://9gag.com/gag/aYQwjgN)
- - 😝 [Now that looks tasty.](http://9gag.com/gag/aoyjzD3)
- - 👉 [No words necessary](http://9gag.com/gag/aryRpzd)<!-- MEMES:END -->
+ - 😝 [Just give him some time to come back from store ffs](http://9gag.com/gag/aYQwjgN)
+ - 💣 [Now that looks tasty.](http://9gag.com/gag/aoyjzD3)
+ - 😝 [No words necessary](http://9gag.com/gag/aryRpzd)
+ - 👉 [Rip Anastazja I&#39;m Sorry Europe Imported So Many Savages](http://9gag.com/gag/ae90XLm)<!-- MEMES:END -->
 
 ---
 

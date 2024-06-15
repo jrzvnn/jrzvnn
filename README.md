@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Gender-Neutral Clothing Brands &lpar;2024&rpar;: Tested and Reviewed](https://www.wired.com/story/best-gender-neutral-clothing-brands/)
  - [How to Shop Like a Pro During Amazon Prime Day - July 2024](https://www.wired.com/story/amazon-prime-day-2024-tips-to-find-best-deals/)
  - [The 34 Best Shows on Amazon Prime Right Now &lpar;June 2024&rpar;](https://www.wired.com/story/best-shows-amazon-prime/)
  - [Apple announced RCS with a whimper when it should have been a bang](https://www.theverge.com/2024/6/15/24178470/apple-rcs-support-wwdc-announcement-android-imessage)
- - [Special WWDC Edition: Interviewing Setapp developer Oleksandr Kosovan on the AppleInsider Podcast](https://appleinsider.com/articles/24/06/15/special-wwdc-edition-interviewing-setapp-developer-oleksandr-kosovan-on-the-appleinsider-podcast?utm_medium=rss)
- - [A Guide to RCS, Why Apple’s Adopting It, and How It Makes Texting Better](https://www.wired.com/story/guide-to-rcs-why-it-makes-texting-better/)<!-- TECH:END -->
+ - [Special WWDC Edition: Interviewing Setapp developer Oleksandr Kosovan on the AppleInsider Podcast](https://appleinsider.com/articles/24/06/15/special-wwdc-edition-interviewing-setapp-developer-oleksandr-kosovan-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

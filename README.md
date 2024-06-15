@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Would](http://9gag.com/gag/a9yPdg1)
- - 😝 [Sure ya did](http://9gag.com/gag/aGyRK7n)
- - 💣 [The Princess of Bulgaria](http://9gag.com/gag/aMVQrOM)
- - 😝 [Is this real life?](http://9gag.com/gag/aXPXEED)
- - 👉 [I\u2019ve had many nightmares take place in similar elevators](http://9gag.com/gag/aGyRwY0)<!-- MEMES:END -->
+ - 😝 [This is me every day!](http://9gag.com/gag/a5QKp1y)
+ - 😝 [Customers find card skimmer at 7/11](http://9gag.com/gag/avyLgxn)
+ - 💣 [So original, so brave](http://9gag.com/gag/ajPn6D0)
+ - 😝 [How tall are you?](http://9gag.com/gag/a7obvdb)
+ - 👉 [Shut up and take my money!](http://9gag.com/gag/aYQwbrx)<!-- MEMES:END -->
 
 ---
 

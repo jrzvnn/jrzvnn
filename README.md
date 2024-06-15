@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The fear is real](http://9gag.com/gag/avyLpEZ)
- - 😝 [Girl dances around the campfire](http://9gag.com/gag/abAbXX8)
- - 💣 [Shut up and take my money!](http://9gag.com/gag/aYQwbrx)
- - 😝 [Jesus Christ That&#39;s Jason Bourne](http://9gag.com/gag/adBp6XQ)
- - 👉 [This is bananas](http://9gag.com/gag/aByrRqZ)<!-- MEMES:END -->
+ - 😝 [Customers find card skimmer at 7/11](http://9gag.com/gag/avyLgxn)
+ - 😝 [Shut up and take my money!](http://9gag.com/gag/aYQwbrx)
+ - 💣 [You can read the comic, there&#39;s only 70++ issue &amp; way better than the tv series](http://9gag.com/gag/aPAGv8Q)
+ - 😝 [A new jewelry store opens in Sunnyvale, California and this immediately happens](http://9gag.com/gag/aAyprx0)
+ - 👉 [This site used to be for memes and funny stuff](http://9gag.com/gag/aE0zd5N)<!-- MEMES:END -->
 
 ---
 

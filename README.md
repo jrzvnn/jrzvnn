@@ -163,10 +163,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Sonos removes a promise to not sell personal data, gets busted by users](https://appleinsider.com/articles/24/06/15/sonos-removes-a-promise-to-not-sell-personal-data-gets-busted-by-users?utm_medium=rss)
- - [You Can Renew Your Passport Online, but Only if You Act Quickly     - CNET](https://www.cnet.com/tech/services-and-software/you-can-renew-your-passport-online-but-only-if-you-act-quickly/#ftag=CAD590a51e)
  - [Apple added a Vocal Shortcuts accessibility feature in iOS 18 that lets users give Siri a new wake word, such as &quot;hello, computer&quot; &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/240615/p7#a240615p7)
- - [Save $500 on This Refurbished Anker Solix F3800 at Wellbots With Our Exclusive Code     - CNET](https://www.cnet.com/deals/save-500-on-this-refurbished-anker-solix-f3800-at-wellbots-with-our-exclusive-code/#ftag=CAD590a51e)
- - [Best Internet Providers in Greenville, North Carolina     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-greenville-nc/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [You Can Renew Your Passport Online, but Only if You Act Quickly     - CNET](https://www.cnet.com/tech/services-and-software/you-can-renew-your-passport-online-but-only-if-you-act-quickly/#ftag=CAD590a51e)
+ - [Find Your Estimated Monthly Social Security Benefit Amount Online     - CNET](https://www.cnet.com/personal-finance/find-your-estimated-monthly-social-security-benefit-amount-online/#ftag=CAD590a51e)
+ - [How Duolingo uses streaks and notifications to keep users coming back to the app; 5M of Duolingo&#39;s 30M+ DAUs have one year streaks and 70% have weeklong streaks &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/240615/p6#a240615p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

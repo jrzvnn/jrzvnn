@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Terry Crews with a Balogne Sandwich](http://9gag.com/gag/a9yPd40)
- - 😝 [Just give him some time to come back from store ffs](http://9gag.com/gag/aYQwjgN)
- - 💣 [Now that looks tasty.](http://9gag.com/gag/aoyjzD3)
- - 😝 [No words necessary](http://9gag.com/gag/aryRpzd)
- - 👉 [Rip Anastazja I&#39;m Sorry Europe Imported So Many Savages](http://9gag.com/gag/ae90XLm)<!-- MEMES:END -->
+ - 😝 [Giorgia Meloni clearly doesn&#39;t like Emmanuel Macron](http://9gag.com/gag/awy7K0r)
+ - 😝 [One Wheel Bike Stunt While Jumping Rope!](http://9gag.com/gag/a0eY8XQ)
+ - 💣 [Is this real life?](http://9gag.com/gag/aXPXEED)
+ - 😝 [Customers find card skimmer at 7/11](http://9gag.com/gag/avyLgxn)
+ - 👉 [Yes I do sex every day](http://9gag.com/gag/avyL0Kn)<!-- MEMES:END -->
 
 ---
 

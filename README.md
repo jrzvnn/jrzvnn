@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I\u2019ve had many nightmares take place in similar elevators](http://9gag.com/gag/aGyRwY0)
- - 😝 [Shut up and take my money!](http://9gag.com/gag/aYQwbrx)
- - 💣 [Riding a bike in the Netherlands](http://9gag.com/gag/a7oby8m)
- - 😝 [Hard to cancel the one who cancel](http://9gag.com/gag/a9yPd4m)
- - 👉 [Another TV show ruined](http://9gag.com/gag/aD2m31O)<!-- MEMES:END -->
+ - 😝 [The land where the sun does not rise: Svalbard](http://9gag.com/gag/a4PL44d)
+ - 😝 [Real-time speed of an airplane take off](http://9gag.com/gag/azxVb2p)
+ - 💣 [Another TV show ruined](http://9gag.com/gag/aD2m31O)
+ - 😝 [Oof](http://9gag.com/gag/ae9ppoq)
+ - 👉 [Riding a bike in the Netherlands](http://9gag.com/gag/a7oby8m)<!-- MEMES:END -->
 
 ---
 

@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Japnese kids doing their assignment](http://9gag.com/gag/aO8mq1r)
- - 😝 [Age discrimination in USA](http://9gag.com/gag/aGyR9q7)
- - 💣 [Smol guy meets the pack](http://9gag.com/gag/aByrr21)
- - 😝 [3..2..1](http://9gag.com/gag/avyLLrX)
- - 👉 [When Coca Cola announced it sold 4 times more than Pepsi in 2001, Pepsi responded with this commercial](http://9gag.com/gag/aNDKZ1K)<!-- MEMES:END -->
+ - 😝 [When you trust your tofu building so much.](http://9gag.com/gag/aAyppQo)
+ - 😝 [Riding a bike in the Netherlands](http://9gag.com/gag/a7oby8m)
+ - 💣 [She is gonna make him stay after class](http://9gag.com/gag/amo8Lo9)
+ - 😝 [Who needs a man?](http://9gag.com/gag/a34Ld3m)
+ - 👉 [Social score up](http://9gag.com/gag/a7ob53w)<!-- MEMES:END -->
 
 ---
 

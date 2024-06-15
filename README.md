@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of game publisher Devolver Digital, which gives indie studios immense creative freedom, doesn&#39;t take IP rights from them, and is turning 15 on June 25 &lpar;Rollo Romig/New York Times&rpar;](http://www.techmeme.com/240615/p5#a240615p5)
  - [Philips Hue’s jaunty sunrise smart lamp is called the Twilight](https://www.theverge.com/2024/6/15/24179119/philips-hue-smart-lamp-twilight-solo-lightstrip)
  - [Sharge’s cute, Macintosh-inspired 67W charger is nearly half off right now](https://www.theverge.com/2024/6/15/24177773/sharge-retro-67-usb-c-charger-sonos-speaker-soundbar-deal-sale)
  - [Apple may not be bringing Apple Intelligence to iPhone 15, which has 6GB of RAM vs. iPhone 15 Pro&#39;s 8GB, due to RAM requirements for on-device AI processing &lpar;Andrew Williams/Wired&rpar;](http://www.techmeme.com/240615/p4#a240615p4)
- - [How to Watch Euro 2024: Italy vs. Albania Livestream Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-euro-2024-italy-vs-albania-livestream-soccer-from-anywhere/#ftag=CAD590a51e)
- - [Fitness Expert Reveals How to Break Out of a Weight Loss Plateau     - CNET](https://www.cnet.com/health/fitness-expert-reveals-how-to-break-out-of-a-weight-loss-plateau/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Watch Euro 2024: Italy vs. Albania Livestream Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-euro-2024-italy-vs-albania-livestream-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

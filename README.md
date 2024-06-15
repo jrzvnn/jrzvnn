@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Immortality only brings sadness](http://9gag.com/gag/ajPnrK0)
- - 😝 [Show me your power nine gagger](http://9gag.com/gag/azxVgBb)
- - 💣 [How cotton is harvested](http://9gag.com/gag/aXPXbzg)
+ - 😝 [Warehouse Cat](http://9gag.com/gag/aVvXzoy)
+ - 😝 [One Wheel Bike Stunt While Jumping Rope!](http://9gag.com/gag/a0eY8XQ)
+ - 💣 [This site used to be for memes and funny stuff](http://9gag.com/gag/aE0zd5N)
  - 😝 [Riding a bike in the Netherlands](http://9gag.com/gag/a7oby8m)
- - 👉 [Social score up](http://9gag.com/gag/a7ob53w)<!-- MEMES:END -->
+ - 👉 [I&#39;ve been seeing a lot more rage comics so imma do my part as well.](http://9gag.com/gag/aLnBRm5)<!-- MEMES:END -->
 
 ---
 

@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Another TV show ruined](http://9gag.com/gag/aD2m31O)
+ - 😝 [Nice reaction](http://9gag.com/gag/aVvXWd8)
+ - 💣 [Florida USA](http://9gag.com/gag/a2vqqKd)
  - 😝 [When you trust your tofu building so much.](http://9gag.com/gag/aAyppQo)
- - 😝 [Riding a bike in the Netherlands](http://9gag.com/gag/a7oby8m)
- - 💣 [She is gonna make him stay after class](http://9gag.com/gag/amo8Lo9)
- - 😝 [Who needs a man?](http://9gag.com/gag/a34Ld3m)
- - 👉 [Social score up](http://9gag.com/gag/a7ob53w)<!-- MEMES:END -->
+ - 👉 [Oof](http://9gag.com/gag/ae9ppoq)<!-- MEMES:END -->
 
 ---
 

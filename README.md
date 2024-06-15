@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Japnese kids doing their assignment](http://9gag.com/gag/aO8mq1r)
- - 😝 [Smol guy meets the pack](http://9gag.com/gag/aByrr21)
- - 💣 [Age discrimination in USA](http://9gag.com/gag/aGyR9q7)
- - 😝 [This is Kim Belaira. She is the reason why video games are bad. Spread this.](http://9gag.com/gag/a34LL38)
- - 👉 [When Coca Cola announced it sold 4 times more than Pepsi in 2001, Pepsi responded with this commercial](http://9gag.com/gag/aNDKZ1K)<!-- MEMES:END -->
+ - 😝 [April Vs April](http://9gag.com/gag/aryRR4X)
+ - 😝 [Who needs a man?](http://9gag.com/gag/a34Ld3m)
+ - 💣 [Show me your power nine gagger](http://9gag.com/gag/azxVgBb)
+ - 😝 [Florida USA](http://9gag.com/gag/a2vqqKd)
+ - 👉 [No words necessary](http://9gag.com/gag/aryRpzd)<!-- MEMES:END -->
 
 ---
 

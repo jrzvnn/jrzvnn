@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who needs a man?](http://9gag.com/gag/a34Ld3m)
- - 😝 [Shut up and take my money!](http://9gag.com/gag/aYQwbrx)
- - 💣 [Another TV show ruined](http://9gag.com/gag/aD2m31O)
- - 😝 [Social score up](http://9gag.com/gag/a7ob53w)
- - 👉 [Oof](http://9gag.com/gag/ae9ppoq)<!-- MEMES:END -->
+ - 😝 [Hehe](http://9gag.com/gag/a5QKKDg)
+ - 😝 [Tv show modern family had some funny skits](http://9gag.com/gag/aGyRxRw)
+ - 💣 [Camping 101](http://9gag.com/gag/aW4OOpZ)
+ - 😝 [Smol guy meets the pack](http://9gag.com/gag/aByrr21)
+ - 👉 [3..2..1](http://9gag.com/gag/avyLLrX)<!-- MEMES:END -->
 
 ---
 

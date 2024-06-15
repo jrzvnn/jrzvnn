@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Smol guy meets the pack](http://9gag.com/gag/aByrr21)
- - 😝 [Camping 101](http://9gag.com/gag/aW4OOpZ)
- - 💣 [3..2..1](http://9gag.com/gag/avyLLrX)
- - 😝 [Dad reacts after daughter wins 4 awards at school](http://9gag.com/gag/aoyjjrX)
- - 👉 [Honest house renovation](http://9gag.com/gag/aLnBBbv)<!-- MEMES:END -->
+ - 😝 [Shut up and take my money!](http://9gag.com/gag/aYQwbrx)
+ - 😝 [Would](http://9gag.com/gag/a9yPdg1)
+ - 💣 [Oof](http://9gag.com/gag/ae9ppoq)
+ - 😝 [Who would have thought?](http://9gag.com/gag/aMVQGxM)
+ - 👉 [You know that was comming...](http://9gag.com/gag/agmNNqr)<!-- MEMES:END -->
 
 ---
 

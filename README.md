@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Taxi driver cancels the charge for parents taking their son to the children&#39;s hospital](http://9gag.com/gag/ae9pNd5)
- - 😝 [Everybody act normal, and boys gather around him don&#39;t leave him at the edge.](http://9gag.com/gag/a9yPb16)
- - 💣 [They even found it in the balls](http://9gag.com/gag/a6ZLrgA)
- - 😝 [What movie do you think this is behind the scenes of?](http://9gag.com/gag/aKGB46Z)
- - 👉 [Immortality only brings sadness](http://9gag.com/gag/ajPnrK0)<!-- MEMES:END -->
+ - 😝 [Splash](http://9gag.com/gag/aGyRVm7)
+ - 😝 [48lbs/22kg down since Jan. This fat f*ck still has a long way to go, but at least it&#39;s the right direction. Clawing my way back to a life worth living again. F*ck you all and I&#39;ll see you tomorrow.](http://9gag.com/gag/a87jLOO)
+ - 💣 [Some stories just write themselves. EU the land of opportunity](http://9gag.com/gag/a0eYPnX)
+ - 😝 [277](http://9gag.com/gag/aMVQ1qA)
+ - 👉 [So original, so brave](http://9gag.com/gag/ajPn6D0)<!-- MEMES:END -->
 
 ---
 

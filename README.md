@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sure ya did](http://9gag.com/gag/aGyRK7n)
- - 😝 [Real-time speed of an airplane take off](http://9gag.com/gag/azxVb2p)
- - 💣 [Title](http://9gag.com/gag/ajPn0x1)
- - 😝 [Customers find card skimmer at 7/11](http://9gag.com/gag/avyLgxn)
- - 👉 [This is Kim Belaira. She is the reason why video games are bad. Spread this.](http://9gag.com/gag/a34LL38)<!-- MEMES:END -->
+ - 😝 [Jesus Christ died only for him.](http://9gag.com/gag/agmNvYv)
+ - 😝 [The Princess of Bulgaria](http://9gag.com/gag/aMVQrOM)
+ - 💣 [You can read the comic, there&#39;s only 70++ issue &amp; way better than the tv series](http://9gag.com/gag/aPAGv8Q)
+ - 😝 [Nice kick...oh wait](http://9gag.com/gag/an7BKGn)
+ - 👉 [Shut up and take my money!](http://9gag.com/gag/aYQwbrx)<!-- MEMES:END -->
 
 ---
 

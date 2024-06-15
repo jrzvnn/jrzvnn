@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who needs a man?](http://9gag.com/gag/a34Ld3m)
- - 😝 [Riding a bike in the Netherlands](http://9gag.com/gag/a7oby8m)
- - 💣 [Florida USA](http://9gag.com/gag/a2vqqKd)
- - 😝 [Real-time speed of an airplane take off](http://9gag.com/gag/azxVb2p)
- - 👉 [Good job,we had time to take a look.](http://9gag.com/gag/aNDKKxK)<!-- MEMES:END -->
+ - 😝 [I\u2019ve had many nightmares take place in similar elevators](http://9gag.com/gag/aGyRwY0)
+ - 😝 [Shut up and take my money!](http://9gag.com/gag/aYQwbrx)
+ - 💣 [Riding a bike in the Netherlands](http://9gag.com/gag/a7oby8m)
+ - 😝 [Hard to cancel the one who cancel](http://9gag.com/gag/a9yPd4m)
+ - 👉 [Another TV show ruined](http://9gag.com/gag/aD2m31O)<!-- MEMES:END -->
 
 ---
 

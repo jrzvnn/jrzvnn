@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is this real life?](http://9gag.com/gag/aXPXEED)
- - 😝 [Riding a bike in the Netherlands](http://9gag.com/gag/a7oby8m)
- - 💣 [Splash](http://9gag.com/gag/aGyRVm7)
- - 😝 [If your chick looks at another man like this, you aren&#39;t her first choice](http://9gag.com/gag/aPAGvng)
- - 👉 [Customers find card skimmer at 7/11](http://9gag.com/gag/avyLgxn)<!-- MEMES:END -->
+ - 😝 [You can read the comic, there&#39;s only 70++ issue &amp; way better than the tv series](http://9gag.com/gag/aPAGv8Q)
+ - 😝 [Real-time speed of an airplane take off](http://9gag.com/gag/azxVb2p)
+ - 💣 [Camping 101](http://9gag.com/gag/aW4OOpZ)
+ - 😝 [This is Kim Belaira. She is the reason why video games are bad. Spread this.](http://9gag.com/gag/a34LL38)
+ - 👉 [So original, so brave](http://9gag.com/gag/ajPn6D0)<!-- MEMES:END -->
 
 ---
 

@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [This is Kim Belaira. She is the reason why video games are bad. Spread this.](http://9gag.com/gag/a34LL38)
+ - 😝 [I love this game!](http://9gag.com/gag/a7obL3b)
+ - 💣 [When Coca Cola announced it sold 4 times more than Pepsi in 2001, Pepsi responded with this commercial](http://9gag.com/gag/aNDKZ1K)
  - 😝 [Social score up](http://9gag.com/gag/a7ob53w)
- - 😝 [Well... fck...](http://9gag.com/gag/aVvXj7y)
- - 💣 [You can read the comic, there&#39;s only 70++ issue &amp; way better than the tv series](http://9gag.com/gag/aPAGv8Q)
- - 😝 [This guy enjoying sex](http://9gag.com/gag/a87jLw6)
- - 👉 [Real-time speed of an airplane take off](http://9gag.com/gag/azxVb2p)<!-- MEMES:END -->
+ - 👉 [Dont blink...](http://9gag.com/gag/azxV7zj)<!-- MEMES:END -->
 
 ---
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nigeria drops tax evasion charges against Binance executives Tigran Gambaryan and Nadeem Anjarwalla, who still face money laundering charges &lpar;Camomile Shumba/CoinDesk&rpar;](http://www.techmeme.com/240614/p17#a240614p17)
  - [Nvidia announces Nemotron-4 340B, a family of models that developers can use to generate synthetic data for training LLMs for commercial applications &lpar;Ankit Patel/NVIDIA&rpar;](http://www.techmeme.com/240614/p16#a240614p16)
  - [Source: Sam Altman recently told some investors that OpenAI is considering changing to a for-profit benefit corporation that its nonprofit board doesn&#39;t control &lpar;The Information&rpar;](http://www.techmeme.com/240614/p15#a240614p15)
- - [US prosecutors charge two men with operating Empire Market, a dark web marketplace for illicit goods and services that did $430M+ in sales between 2018 and 2020 &lpar;Jake Bleiberg/Bloomberg&rpar;](http://www.techmeme.com/240614/p14#a240614p14)
- - [NBA Finals 2024: How to Watch, Stream Celtics vs. Mavericks Game 4 Tonight on ABC     - CNET](https://www.cnet.com/tech/services-and-software/nba-finals-2024-how-to-watch-stream-celtics-vs-mavericks-game-4-on-abc/#ftag=CAD590a51e)
- - [Intel says it still doesn’t have the true fix for its crashing i9 desktop chips](https://www.theverge.com/2024/6/14/24178751/intel-raptor-lake-crash-fix-etvb-not-yet)<!-- TECH:END -->
+ - [How to Reset Your Router: The Quick Fix That Solves Most Internet Issues     - CNET](https://www.cnet.com/home/internet/how-to-reset-your-router-the-quick-fix-that-solves-most-internet-issues/#ftag=CAD590a51e)
+ - [US prosecutors charge two men with operating Empire Market, a dark web marketplace for illicit goods and services that did $430M+ in sales between 2018 and 2020 &lpar;Jake Bleiberg/Bloomberg&rpar;](http://www.techmeme.com/240614/p14#a240614p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

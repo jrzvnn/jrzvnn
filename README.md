@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When Coca Cola announced it sold 4 times more than Pepsi in 2001, Pepsi responded with this commercial](http://9gag.com/gag/aNDKZ1K)
- - 😝 [What movie do you think this is behind the scenes of?](http://9gag.com/gag/aKGB46Z)
- - 💣 [Title](http://9gag.com/gag/ajPn0x1)
- - 😝 [How cotton is harvested](http://9gag.com/gag/aXPXbzg)
- - 👉 [Other peoples kids](http://9gag.com/gag/ae9pjNB)<!-- MEMES:END -->
+ - 😝 [Shut up and take my money!](http://9gag.com/gag/aYQwbrx)
+ - 😝 [Yes I do sex every day](http://9gag.com/gag/avyL0Kn)
+ - 💣 [Customers find card skimmer at 7/11](http://9gag.com/gag/avyLgxn)
+ - 😝 [Real-time speed of an airplane take off](http://9gag.com/gag/azxVb2p)
+ - 👉 [Title](http://9gag.com/gag/ajPn0x1)<!-- MEMES:END -->
 
 ---
 

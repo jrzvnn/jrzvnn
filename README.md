@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [On the road, anything can be expected](http://9gag.com/gag/amo80y2)
- - 😝 [Camping 101](http://9gag.com/gag/aW4OOpZ)
- - 💣 [Shut up and take my money!](http://9gag.com/gag/aYQwbrx)
- - 😝 [Title](http://9gag.com/gag/ajPn0x1)
- - 👉 [So original, so brave](http://9gag.com/gag/ajPn6D0)<!-- MEMES:END -->
+ - 😝 [Some stories just write themselves. EU the land of opportunity](http://9gag.com/gag/a0eYPnX)
+ - 😝 [Japnese kids doing their assignment](http://9gag.com/gag/aO8mq1r)
+ - 💣 [When Coca Cola announced it sold 4 times more than Pepsi in 2001, Pepsi responded with this commercial](http://9gag.com/gag/aNDKZ1K)
+ - 😝 [Social score up](http://9gag.com/gag/a7ob53w)
+ - 👉 [Age discrimination in USA](http://9gag.com/gag/aGyR9q7)<!-- MEMES:END -->
 
 ---
 

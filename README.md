@@ -172,10 +172,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [A very beautiful Czech policewoman](http://9gag.com/gag/a9yPLGZ)
- - 😝 [I really hope this is true](http://9gag.com/gag/aVvXe0d)
- - 💣 [German man saves a little German boy who was being robbed and attacked by two subsaharans.](http://9gag.com/gag/aXPXwED)
  - 😝 [A nice family dinner!!!](http://9gag.com/gag/aoyjjzm)
- - 👉 [Hollywood sex ring](http://9gag.com/gag/aRBVAeA)<!-- MEMES:END -->
+ - 💣 [R.I.P](http://9gag.com/gag/aZZNNb9)
+ - 😝 [I don&#39;t go abroad because there is no bidet.](http://9gag.com/gag/aAypwPp)
+ - 👉 [Deadliest Aviation Accident Ever - The Tenerife Airport Disaster](http://9gag.com/gag/aRBVPyM)<!-- MEMES:END -->
 
 ---
 

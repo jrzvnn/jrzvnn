@@ -171,10 +171,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dad reacts after daughter wins 4 awards at school](http://9gag.com/gag/aoyjjrX)
- - 😝 [Drunk guys save choking raccoon](http://9gag.com/gag/azxVAEx)
- - 💣 [Hollywood sex ring](http://9gag.com/gag/aRBVAeA)
- - 😝 [See...all you need is confidence](http://9gag.com/gag/adBpjW2)
+ - 😝 [She is gonna make him stay after class](http://9gag.com/gag/amo8Lo9)
+ - 😝 [Who needs a man?](http://9gag.com/gag/a34Ld3m)
+ - 💣 [Another TV show ruined](http://9gag.com/gag/aD2m31O)
+ - 😝 [Riding a bike in the Netherlands](http://9gag.com/gag/a7oby8m)
  - 👉 [German man saves a little German boy who was being robbed and attacked by two subsaharans.](http://9gag.com/gag/aXPXwED)<!-- MEMES:END -->
 
 ---

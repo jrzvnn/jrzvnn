@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good job,we had time to take a look.](http://9gag.com/gag/aNDKKxK)
- - 😝 [A meme in it&#39;s natural habitat...](http://9gag.com/gag/a1mYXd8)
- - 💣 [A very beautiful Czech policewoman](http://9gag.com/gag/a9yPLGZ)
- - 😝 [Riding a bike in the Netherlands](http://9gag.com/gag/a7oby8m)
- - 👉 [I don&#39;t go abroad because there is no bidet.](http://9gag.com/gag/aAypwPp)<!-- MEMES:END -->
+ - 😝 [German man saves a little German boy who was being robbed and attacked by two subsaharans.](http://9gag.com/gag/aXPXwED)
+ - 😝 [The show&#39;s ruined. I can&#39;t look at the screen when she&#39;s on. I mean why? After you&#39;ve won the genetic lottery. Just to confine to some stupid plastic beauty standards. Sorry for the rant.](http://9gag.com/gag/aZZNNrz)
+ - 💣 [A meme in it&#39;s natural habitat...](http://9gag.com/gag/a1mYXd8)
+ - 😝 [Another TV show ruined](http://9gag.com/gag/aD2m31O)
+ - 👉 [A very beautiful Czech policewoman](http://9gag.com/gag/a9yPLGZ)<!-- MEMES:END -->
 
 ---
 

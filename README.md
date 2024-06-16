@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A meme in it&#39;s natural habitat...](http://9gag.com/gag/a1mYXd8)
  - 😝 [Riding a bike in the Netherlands](http://9gag.com/gag/a7oby8m)
- - 💣 [I don&#39;t go abroad because there is no bidet.](http://9gag.com/gag/aAypwPp)
- - 😝 [A nice family dinner!!!](http://9gag.com/gag/aoyjjzm)
- - 👉 [Good job,we had time to take a look.](http://9gag.com/gag/aNDKKxK)<!-- MEMES:END -->
+ - 😝 [Deadliest Aviation Accident Ever - The Tenerife Airport Disaster](http://9gag.com/gag/aRBVPyM)
+ - 💣 [German man saves a little German boy who was being robbed and attacked by two subsaharans.](http://9gag.com/gag/aXPXwED)
+ - 😝 [Just in case...](http://9gag.com/gag/a5QK77o)
+ - 👉 [A meme in it&#39;s natural habitat...](http://9gag.com/gag/a1mYXd8)<!-- MEMES:END -->
 
 ---
 

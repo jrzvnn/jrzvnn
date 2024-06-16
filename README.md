@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who would have thought?](http://9gag.com/gag/aMVQGxM)
- - 😝 [Nice kick...oh wait](http://9gag.com/gag/an7BKGn)
- - 💣 [She is gonna make him stay after class](http://9gag.com/gag/amo8Lo9)
- - 😝 [Another TV show ruined](http://9gag.com/gag/aD2m31O)
- - 👉 [On the road, anything can be expected](http://9gag.com/gag/amo80y2)<!-- MEMES:END -->
+ - 😝 [No words necessary](http://9gag.com/gag/aryRpzd)
+ - 😝 [Woke agenda made fans quit Boys season 4 after just one episode. Yes, it&#39;s them again. Strong black female character who also identifies as `smartest person on the planet`. Show creators tell fans to `watch something else`.](http://9gag.com/gag/aAypY9R)
+ - 💣 [Hah....](http://9gag.com/gag/ae9ppAO)
+ - 😝 [R.I.P](http://9gag.com/gag/aZZNNb9)
+ - 👉 [Good job,we had time to take a look.](http://9gag.com/gag/aNDKKxK)<!-- MEMES:END -->
 
 ---
 

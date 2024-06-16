@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hollywood sex ring](http://9gag.com/gag/aRBVAeA)
- - 😝 [Honest house renovation](http://9gag.com/gag/aLnBBbv)
- - 💣 [Tv show modern family had some funny skits](http://9gag.com/gag/aGyRxRw)
- - 😝 [I was sceptical at first but it turned out dope](http://9gag.com/gag/aVvXPQP)
- - 👉 [Dad reacts after daughter wins 4 awards at school](http://9gag.com/gag/aoyjjrX)<!-- MEMES:END -->
+ - 😝 [Marines perform boarding exercises with jetpacks and landing on a high-speed ship.](http://9gag.com/gag/ae9p3Pq)
+ - 😝 [Hard to cancel the one who cancel](http://9gag.com/gag/a9yPd4m)
+ - 💣 [Is this real life?](http://9gag.com/gag/aXPXEED)
+ - 😝 [She is gonna make him stay after class](http://9gag.com/gag/amo8Lo9)
+ - 👉 [German man saves a little German boy who was being robbed and attacked by two subsaharans.](http://9gag.com/gag/aXPXwED)<!-- MEMES:END -->
 
 ---
 

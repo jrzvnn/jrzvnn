@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Florida USA](http://9gag.com/gag/a2vqqKd)
- - 😝 [On the road, anything can be expected](http://9gag.com/gag/amo80y2)
- - 💣 [A meme in it&#39;s natural habitat...](http://9gag.com/gag/a1mYXd8)
- - 😝 [Another TV show ruined](http://9gag.com/gag/aD2m31O)
- - 👉 [German man saves a little German boy who was being robbed and attacked by two subsaharans.](http://9gag.com/gag/aXPXwED)<!-- MEMES:END -->
+ - 😝 [OMG so funny and so true ! Boom \ud83d\udca5](http://9gag.com/gag/aQznnx7)
+ - 😝 [See...all you need is confidence](http://9gag.com/gag/adBpjW2)
+ - 💣 [Wait, so it&#39;s not???](http://9gag.com/gag/aZZNpq0)
+ - 😝 [Shiet got real](http://9gag.com/gag/an7BNvE)
+ - 👉 [And the Oscar goes to...](http://9gag.com/gag/adBpjYN)<!-- MEMES:END -->
 
 ---
 

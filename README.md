@@ -163,10 +163,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A Texas federal jury orders Amazon to pay nearly $122M to adtech company AlmondNet for infringing on two patents related to personalized ad targeting &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/240616/p5#a240616p5)
+ - [How to Watch Euro 2024: Serbia vs. England Livestream Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-euro-2024-serbia-vs-england-livestream-soccer-from-anywhere/#ftag=CAD590a51e)
  - [Apple won’t wait until next year for some Siri improvements](https://www.theverge.com/2024/6/16/24179526/apple-intelligence-siri-natural-language-upgrade-ios-18)
- - [The Best Electric Bikes of 2024 That We&#39;ve Tested and Reviewed](https://www.wired.com/gallery/best-electric-bikes/)
- - [How to Stream &#39;House of the Dragon&#39; Season 2 Tonight From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/how-to-stream-house-of-the-dragon-season-2-tonight-from-anywhere/#ftag=CAD590a51e)
- - [NZXT Relay Headset and SwitchMix Review: Innovative Convenience](https://www.wired.com/review/nzxt-relay-headset-and-switchmix/)<!-- TECH:END -->
+ - [Best Internet Providers in Akron, Ohio     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-akron-oh/#ftag=CAD590a51e)
+ - [An Italian Chef Calls Out the Biggest Pasta Mistakes We&#39;re All Making     - CNET](https://www.cnet.com/how-to/an-italian-chef-calls-out-the-biggest-pasta-mistakes-were-all-guilty-of/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [German man saves a little German boy who was being robbed and attacked by two subsaharans.](http://9gag.com/gag/aXPXwED)
- - 😝 [Another TV show ruined](http://9gag.com/gag/aD2m31O)
- - 💣 [Good job,we had time to take a look.](http://9gag.com/gag/aNDKKxK)
- - 😝 [Who would have thought?](http://9gag.com/gag/aMVQGxM)
- - 👉 [She is gonna make him stay after class](http://9gag.com/gag/amo8Lo9)<!-- MEMES:END -->
+ - 😝 [Honest house renovation](http://9gag.com/gag/aLnBBbv)
+ - 😝 [See...all you need is confidence](http://9gag.com/gag/adBpjW2)
+ - 💣 [Hollywood sex ring](http://9gag.com/gag/aRBVAeA)
+ - 😝 [Tv show modern family had some funny skits](http://9gag.com/gag/aGyRxRw)
+ - 👉 [I was sceptical at first but it turned out dope](http://9gag.com/gag/aVvXPQP)<!-- MEMES:END -->
 
 ---
 

@@ -164,9 +164,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [How to Spot a Business Email Compromise Scam](https://www.wired.com/story/how-to-spot-business-email-compromise-scam/)
  - [The super simple gadget trying to replace your phone](https://www.theverge.com/2024/6/16/24178592/light-phone-3-yahoo-news-apple-passwords-installer)
- - [Light-Based Chips Could Help Slake AI&#39;s Ever-Growing Thirst for Energy](https://www.wired.com/story/ai-needs-enormous-computing-power-could-light-based-chips-help/)
- - [Despite disinformation concerns during India&#39;s elections, political parties largely used AI, including deepfakes, constructively, primarily for voter outreach &lpar;The Conversation&rpar;](http://www.techmeme.com/240616/p2#a240616p2)
- - [How to Watch Euro 2024: Poland vs. Netherlands Livestream Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-euro-2024-poland-vs-netherlands-livestream-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [RCS on iOS 18 Will Make Texting Between iPhone and Android Users Feel Less Archaic     - CNET](https://www.cnet.com/tech/mobile/rcs-on-ios-18-will-make-texting-between-iphone-and-android-users-feel-less-archaic/#ftag=CAD590a51e)
+ - [I Saw the iPhone&#39;s Most Underrated iOS 18 Feature. We Should Be Talking About It More     - CNET](https://www.cnet.com/tech/mobile/i-saw-iphones-most-underrated-ios-18-feature-we-should-be-talking-about-it-more/#ftag=CAD590a51e)
+ - [Clean Your Gross Apple Watch With This Simple Routine     - CNET](https://www.cnet.com/tech/clean-your-gross-apple-watch-with-this-simple-routine/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A nice family dinner!!!](http://9gag.com/gag/aoyjjzm)
- - 😝 [A meme in it&#39;s natural habitat...](http://9gag.com/gag/a1mYXd8)
- - 💣 [The show&#39;s ruined. I can&#39;t look at the screen when she&#39;s on. I mean why? After you&#39;ve won the genetic lottery. Just to confine to some stupid plastic beauty standards. Sorry for the rant.](http://9gag.com/gag/aZZNNrz)
- - 😝 [Being an ATM til the end](http://9gag.com/gag/avyLnbn)
- - 👉 [German man saves a little German boy who was being robbed and attacked by two subsaharans.](http://9gag.com/gag/aXPXwED)<!-- MEMES:END -->
+ - 😝 [I don&#39;t go abroad because there is no bidet.](http://9gag.com/gag/aAypwPp)
+ - 😝 [Who would have thought?](http://9gag.com/gag/aMVQGxM)
+ - 💣 [Hollywood sex ring](http://9gag.com/gag/aRBVAeA)
+ - 😝 [German man saves a little German boy who was being robbed and attacked by two subsaharans.](http://9gag.com/gag/aXPXwED)
+ - 👉 [A nice family dinner!!!](http://9gag.com/gag/aoyjjzm)<!-- MEMES:END -->
 
 ---
 

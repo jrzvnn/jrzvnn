@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shut up and take my money!](http://9gag.com/gag/aYQwbrx)
- - 😝 [Would](http://9gag.com/gag/a9yPdg1)
- - 💣 [Oof](http://9gag.com/gag/ae9ppoq)
- - 😝 [Who would have thought?](http://9gag.com/gag/aMVQGxM)
- - 👉 [You know that was comming...](http://9gag.com/gag/agmNNqr)<!-- MEMES:END -->
+ - 😝 [Bacterial nanomotors spin at around 20,000 rpm and are also almost 100% Efficient, while even the most advanced motors of today are nowhere near it](http://9gag.com/gag/aLnB2gW)
+ - 😝 [Another TV show ruined](http://9gag.com/gag/aD2m31O)
+ - 💣 [She is gonna make him stay after class](http://9gag.com/gag/amo8Lo9)
+ - 😝 [German man saves a little German boy who was being robbed and attacked by two subsaharans.](http://9gag.com/gag/aXPXwED)
+ - 👉 [Just in case...](http://9gag.com/gag/a5QK77o)<!-- MEMES:END -->
 
 ---
 

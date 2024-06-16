@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Despite disinformation concerns during India&#39;s elections, political parties largely used AI, including deepfakes, constructively, primarily for voter outreach &lpar;The Conversation&rpar;](http://www.techmeme.com/240616/p2#a240616p2)
  - [Let Slip the Robot Dogs of War](https://www.wired.com/story/let-slip-the-robot-dogs-of-war/)
  - [Best Cookware Sets for 2024     - CNET](https://www.cnet.com/news/best-cookware-sets/#ftag=CAD590a51e)
  - [Today&#39;s NYT Strands Hints, Answers and Help for June 16, #105     - CNET](https://www.cnet.com/tech/gaming/todays-nyt-strands-hint-answer-help/#ftag=CAD590a51e)
- - [The Best Gourmet Dog Treats We&#39;d Totally Taste Test Ourselves     - CNET](https://www.cnet.com/home/kitchen-and-household/best-gourmet-dog-treats/#ftag=CAD590a51e)
- - [Q&amp;A with FTC Chair Lina Khan about scrutinizing Big Tech&#39;s &quot;innovations in potential lawbreaking&quot; with AI deals, use of AI at FTC, startups, acquisitions, more &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/240616/p1#a240616p1)<!-- TECH:END -->
+ - [The Best Gourmet Dog Treats We&#39;d Totally Taste Test Ourselves     - CNET](https://www.cnet.com/home/kitchen-and-household/best-gourmet-dog-treats/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

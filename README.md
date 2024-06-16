@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kids are interacting with AI in school and online, serving as testers for a new generation of tech, making them the ones to experience some of its worst effects &lpar;Caroline Mimbs Nyce/The Atlantic&rpar;](http://www.techmeme.com/240616/p6#a240616p6)
  - [Steven Spielberg rattled by false &#39;hard fall&#39; Apple Watch warning](https://appleinsider.com/articles/24/06/16/steven-spielberg-rattled-by-false-hard-fall-apple-watch-warning?utm_medium=rss)
- - [Best Plug-In Hybrid EVs for 2024     - CNET](https://www.cnet.com/roadshow/news/best-plug-in-hybrid-evs-for-2024/#ftag=CAD590a51e)
- - [Best Internet Providers in South Dakota     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-south-dakota/#ftag=CAD590a51e)
- - [Here&#39;s How to Quickly Pair Your AirPods With Your Windows PC     - CNET](https://www.cnet.com/tech/mobile/how-to-pair-apple-airpods-with-your-windows-10-pc-in-less-than-a-minute/#ftag=CAD590a51e)
- - [Best Internet Providers in California     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-california/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Should You Trust Those Food Expiration Dates? Here&#39;s What the Experts Say     - CNET](https://www.cnet.com/news/should-you-trust-those-food-expiration-dates-heres-what-the-experts-say/#ftag=CAD590a51e)
+ - [Save Hundreds on Refurbished Samsung TVs at Woot for a Limited Time     - CNET](https://www.cnet.com/deals/save-hundreds-on-refurbished-samsung-tvs-at-woot-for-a-limited-time/#ftag=CAD590a51e)
+ - [Best Plug-In Hybrid EVs for 2024     - CNET](https://www.cnet.com/roadshow/news/best-plug-in-hybrid-evs-for-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

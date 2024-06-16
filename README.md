@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [OMG so funny and so true ! Boom \ud83d\udca5](http://9gag.com/gag/aQznnx7)
+ - 😝 [When Coca Cola announced it sold 4 times more than Pepsi in 2001, Pepsi responded with this commercial](http://9gag.com/gag/aNDKZ1K)
  - 😝 [See...all you need is confidence](http://9gag.com/gag/adBpjW2)
  - 💣 [Wait, so it&#39;s not???](http://9gag.com/gag/aZZNpq0)
- - 😝 [Shiet got real](http://9gag.com/gag/an7BNvE)
- - 👉 [And the Oscar goes to...](http://9gag.com/gag/adBpjYN)<!-- MEMES:END -->
+ - 😝 [Hollywood sex ring](http://9gag.com/gag/aRBVAeA)
+ - 👉 [Shiet got real](http://9gag.com/gag/an7BNvE)<!-- MEMES:END -->
 
 ---
 

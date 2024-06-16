@@ -164,9 +164,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [McDonald’s will stop testing AI to take drive-thru orders, for now](https://www.theverge.com/2024/6/16/24179679/mcdonalds-ending-ai-chatbot-drive-thru-ordering-test-ibm)
  - [Kids are interacting with AI in school and online, serving as testers for a new generation of tech, making them the ones to experience some of its worst effects &lpar;Caroline Mimbs Nyce/The Atlantic&rpar;](http://www.techmeme.com/240616/p6#a240616p6)
+ - [Switching Phones? Transfer Your Data to Your New iPhone     - CNET](https://www.cnet.com/tech/mobile/switching-phones-transfer-your-data-to-your-new-iphone/#ftag=CAD590a51e)
  - [Steven Spielberg rattled by false &#39;hard fall&#39; Apple Watch warning](https://appleinsider.com/articles/24/06/16/steven-spielberg-rattled-by-false-hard-fall-apple-watch-warning?utm_medium=rss)
- - [Should You Trust Those Food Expiration Dates? Here&#39;s What the Experts Say     - CNET](https://www.cnet.com/news/should-you-trust-those-food-expiration-dates-heres-what-the-experts-say/#ftag=CAD590a51e)
- - [Save Hundreds on Refurbished Samsung TVs at Woot for a Limited Time     - CNET](https://www.cnet.com/deals/save-hundreds-on-refurbished-samsung-tvs-at-woot-for-a-limited-time/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Should You Trust Those Food Expiration Dates? Here&#39;s What the Experts Say     - CNET](https://www.cnet.com/news/should-you-trust-those-food-expiration-dates-heres-what-the-experts-say/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

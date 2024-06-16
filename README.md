@@ -173,8 +173,8 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Dating pool at 40](http://9gag.com/gag/a0eYdoL)
  - 😝 [A kid walks by a dog trainer](http://9gag.com/gag/an7BygB)
- - 💣 [Gotta love the energy](http://9gag.com/gag/aZZNB19)
- - 😝 [Unexpected](http://9gag.com/gag/a2vqd0p)
+ - 💣 [Unexpected](http://9gag.com/gag/a2vqd0p)
+ - 😝 [Gotta love the energy](http://9gag.com/gag/aZZNB19)
  - 👉 [The Best Strawberry in The World](http://9gag.com/gag/ae9pYzq)<!-- MEMES:END -->
 
 ---

@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oof](http://9gag.com/gag/ae9ppoq)
- - 😝 [German man saves a little German boy who was being robbed and attacked by two subsaharans.](http://9gag.com/gag/aXPXwED)
- - 💣 [Riding a bike in the Netherlands](http://9gag.com/gag/a7oby8m)
- - 😝 [Another TV show ruined](http://9gag.com/gag/aD2m31O)
- - 👉 [A nice family dinner!!!](http://9gag.com/gag/aoyjjzm)<!-- MEMES:END -->
+ - 😝 [She is gonna make him stay after class](http://9gag.com/gag/amo8Lo9)
+ - 😝 [R.I.P](http://9gag.com/gag/aZZNNb9)
+ - 💣 [Good job,we had time to take a look.](http://9gag.com/gag/aNDKKxK)
+ - 😝 [Riding a bike in the Netherlands](http://9gag.com/gag/a7oby8m)
+ - 👉 [German man saves a little German boy who was being robbed and attacked by two subsaharans.](http://9gag.com/gag/aXPXwED)<!-- MEMES:END -->
 
 ---
 

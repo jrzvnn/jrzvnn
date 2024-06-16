@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dating pool at 40](http://9gag.com/gag/a0eYdoL)
- - 😝 [A kid walks by a dog trainer](http://9gag.com/gag/an7BygB)
- - 💣 [Unexpected](http://9gag.com/gag/a2vqd0p)
- - 😝 [Gotta love the energy](http://9gag.com/gag/aZZNB19)
- - 👉 [The Best Strawberry in The World](http://9gag.com/gag/ae9pYzq)<!-- MEMES:END -->
+ - 😝 [A very beautiful Czech policewoman](http://9gag.com/gag/a9yPLGZ)
+ - 😝 [I really hope this is true](http://9gag.com/gag/aVvXe0d)
+ - 💣 [German man saves a little German boy who was being robbed and attacked by two subsaharans.](http://9gag.com/gag/aXPXwED)
+ - 😝 [A nice family dinner!!!](http://9gag.com/gag/aoyjjzm)
+ - 👉 [Hollywood sex ring](http://9gag.com/gag/aRBVAeA)<!-- MEMES:END -->
 
 ---
 

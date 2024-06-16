@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Not all new Apple Intelligence features will be available in the fall](https://appleinsider.com/articles/24/06/16/not-all-new-apple-intelligence-features-will-be-available-in-the-fall?utm_medium=rss)
  - [Analog Photography: The Beginner’s Guide to Film Cameras &lpar;2024&rpar;](https://www.wired.com/story/film-photography-beginners-guide/)
  - [Apple Crime blotter: Tracked iPad helps catch kids who stole their teacher&#39;s car](https://appleinsider.com/articles/24/06/16/crime-blotter-tracked-ipad-helps-catch-kids-who-stole-their-teachers-car?utm_medium=rss)
  - [Report: alleged ringleader of the Scattered Spider hacking group was arrested in Spain; sources: the accused is a 22-year-old Scottish man named Tyler Buchanan &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/240616/p3#a240616p3)
- - [The 14 Best Pillows We Found After Months of Night-Time Testing &lpar;2024&rpar;](https://www.wired.com/gallery/best-pillows/)
- - [Apple plans slimmest iPhone 17 &amp; MacBook Pro designs following iPad Pro success](https://appleinsider.com/articles/24/06/16/apple-plans-slimmest-iphone-17-macbook-pro-designs-following-ipad-pro-success?utm_medium=rss)<!-- TECH:END -->
+ - [The 14 Best Pillows We Found After Months of Night-Time Testing &lpar;2024&rpar;](https://www.wired.com/gallery/best-pillows/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

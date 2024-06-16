@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Light-Based Chips Could Help Slake AI&#39;s Ever-Growing Thirst for Energy](https://www.wired.com/story/ai-needs-enormous-computing-power-could-light-based-chips-help/)
  - [Despite disinformation concerns during India&#39;s elections, political parties largely used AI, including deepfakes, constructively, primarily for voter outreach &lpar;The Conversation&rpar;](http://www.techmeme.com/240616/p2#a240616p2)
  - [&#39;House of the Dragon&#39; Season 2 Airs Tonight: How to Watch Season 2 From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/house-of-the-dragon-how-to-watch-season-2-from-anywhere/#ftag=CAD590a51e)
  - [Best Smart Locks of 2024     - CNET](https://www.cnet.com/home/security/best-smart-locks/#ftag=CAD590a51e)
- - [Ready for iOS 18 and Apple Intelligence? Your iPhone Might Not Get Both     - CNET](https://www.cnet.com/tech/services-and-software/will-your-iphone-support-ios-18-and-apple-intelligence-heres-what-you-need-to-know/#ftag=CAD590a51e)
- - [Let Slip the Robot Dogs of War](https://www.wired.com/story/let-slip-the-robot-dogs-of-war/)<!-- TECH:END -->
+ - [Ready for iOS 18 and Apple Intelligence? Your iPhone Might Not Get Both     - CNET](https://www.cnet.com/tech/services-and-software/will-your-iphone-support-ios-18-and-apple-intelligence-heres-what-you-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

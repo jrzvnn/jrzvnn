@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Spot a Business Email Compromise Scam](https://www.wired.com/story/how-to-spot-business-email-compromise-scam/)
+ - [The super simple gadget trying to replace your phone](https://www.theverge.com/2024/6/16/24178592/light-phone-3-yahoo-news-apple-passwords-installer)
  - [Light-Based Chips Could Help Slake AI&#39;s Ever-Growing Thirst for Energy](https://www.wired.com/story/ai-needs-enormous-computing-power-could-light-based-chips-help/)
  - [Despite disinformation concerns during India&#39;s elections, political parties largely used AI, including deepfakes, constructively, primarily for voter outreach &lpar;The Conversation&rpar;](http://www.techmeme.com/240616/p2#a240616p2)
- - [How to Watch Euro 2024: Poland vs. Netherlands Livestream Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-euro-2024-poland-vs-netherlands-livestream-soccer-from-anywhere/#ftag=CAD590a51e)
- - [Best Amazon Deals: Secure Savings on Tech Gear, Home Goods and More     - CNET](https://www.cnet.com/deals/best-amazon-deals-secure-savings-on-tech-gear-home-goods-and-more-under-100/#ftag=CAD590a51e)
- - [Here&#39;s the Sneaky Way Pro Chefs Tell When Steak Is Done Cooking     - CNET](https://www.cnet.com/how-to/heres-the-sneaky-way-pro-chefs-tell-when-steak-is-done-cooking/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Watch Euro 2024: Poland vs. Netherlands Livestream Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-euro-2024-poland-vs-netherlands-livestream-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

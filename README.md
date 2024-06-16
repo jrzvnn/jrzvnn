@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who needs a man?](http://9gag.com/gag/a34Ld3m)
+ - 😝 [Another TV show ruined](http://9gag.com/gag/aD2m31O)
  - 😝 [German man saves a little German boy who was being robbed and attacked by two subsaharans.](http://9gag.com/gag/aXPXwED)
- - 💣 [A nice family dinner!!!](http://9gag.com/gag/aoyjjzm)
- - 😝 [Riding a bike in the Netherlands](http://9gag.com/gag/a7oby8m)
- - 👉 [Who would have thought?](http://9gag.com/gag/aMVQGxM)<!-- MEMES:END -->
+ - 💣 [On the road, anything can be expected](http://9gag.com/gag/amo80y2)
+ - 😝 [A nice family dinner!!!](http://9gag.com/gag/aoyjjzm)
+ - 👉 [Riding a bike in the Netherlands](http://9gag.com/gag/a7oby8m)<!-- MEMES:END -->
 
 ---
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with FTC Chair Lina Khan about scrutinizing Big Tech&#39;s &quot;innovations in potential lawbreaking&quot; with AI deals, use of AI at FTC, startups, acquisitions, more &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/240616/p1#a240616p1)
  - [DefiLlama: crypto startup funding has crossed $100B since 2014; The Block Research: Coinbase Ventures has made 443 investments or ~4% of all deals since 2017 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240615/p10#a240615p10)
  - [Today&#39;s NYT Connections Hints and Answers: Help for June 16, #371     - CNET](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answer-help-for-june-16-371/#ftag=CAD590a51e)
  - [Today&#39;s Wordle Hints and Answer: Help for June 16, #1093     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-and-answer-help-for-june-16-1093/#ftag=CAD590a51e)
- - [Nectar Premier Copper Mattress Review 2024: A Step Above the Brand’s Flagship Bed     - CNET](https://www.cnet.com/health/sleep/nectar-premier-copper-mattress-review/#ftag=CAD590a51e)
- - [A look at tech companies&#39; investments in AI startups: Nvidia and NVentures completed a total of 32 deals in 2023, while Microsoft and M12 made 21 investments &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/240615/p9#a240615p9)<!-- TECH:END -->
+ - [Nectar Premier Copper Mattress Review 2024: A Step Above the Brand’s Flagship Bed     - CNET](https://www.cnet.com/health/sleep/nectar-premier-copper-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

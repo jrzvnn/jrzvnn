@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When Coca Cola announced it sold 4 times more than Pepsi in 2001, Pepsi responded with this commercial](http://9gag.com/gag/aNDKZ1K)
- - 😝 [See...all you need is confidence](http://9gag.com/gag/adBpjW2)
- - 💣 [Wait, so it&#39;s not???](http://9gag.com/gag/aZZNpq0)
- - 😝 [Hollywood sex ring](http://9gag.com/gag/aRBVAeA)
- - 👉 [Shiet got real](http://9gag.com/gag/an7BNvE)<!-- MEMES:END -->
+ - 😝 [Who needs a man?](http://9gag.com/gag/a34Ld3m)
+ - 😝 [German man saves a little German boy who was being robbed and attacked by two subsaharans.](http://9gag.com/gag/aXPXwED)
+ - 💣 [A nice family dinner!!!](http://9gag.com/gag/aoyjjzm)
+ - 😝 [Riding a bike in the Netherlands](http://9gag.com/gag/a7oby8m)
+ - 👉 [Who would have thought?](http://9gag.com/gag/aMVQGxM)<!-- MEMES:END -->
 
 ---
 

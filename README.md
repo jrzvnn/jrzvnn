@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He&#39;s right. Time for the cycle to start over again.](http://9gag.com/gag/aryRN87)
- - 😝 [No title](http://9gag.com/gag/aXPXw52)
- - 💣 [Drunk guys save choking raccoon](http://9gag.com/gag/azxVAEx)
- - 😝 [*Tin foil hat intensifies*](http://9gag.com/gag/a9yPYRm)
- - 👉 [German man saves a little German boy who was being robbed and attacked by two subsaharans.](http://9gag.com/gag/aXPXwED)<!-- MEMES:END -->
+ - 😝 [Florida USA](http://9gag.com/gag/a2vqqKd)
+ - 😝 [German man saves a little German boy who was being robbed and attacked by two subsaharans.](http://9gag.com/gag/aXPXwED)
+ - 💣 [Good job,we had time to take a look.](http://9gag.com/gag/aNDKKxK)
+ - 😝 [A meme in it&#39;s natural habitat...](http://9gag.com/gag/a1mYXd8)
+ - 👉 [Deadliest Aviation Accident Ever - The Tenerife Airport Disaster](http://9gag.com/gag/aRBVPyM)<!-- MEMES:END -->
 
 ---
 

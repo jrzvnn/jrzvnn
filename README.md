@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is Kim Belaira. She is the reason why video games are bad. Spread this.](http://9gag.com/gag/a34LL38)
- - 😝 [Camping 101](http://9gag.com/gag/aW4OOpZ)
- - 💣 [Dad reacts after daughter wins 4 awards at school](http://9gag.com/gag/aoyjjrX)
- - 😝 [Shiet got real](http://9gag.com/gag/an7BNvE)
- - 👉 [Age discrimination in USA](http://9gag.com/gag/aGyR9q7)<!-- MEMES:END -->
+ - 😝 [Hollywood sex ring](http://9gag.com/gag/aRBVAeA)
+ - 😝 [Honest house renovation](http://9gag.com/gag/aLnBBbv)
+ - 💣 [Tv show modern family had some funny skits](http://9gag.com/gag/aGyRxRw)
+ - 😝 [I was sceptical at first but it turned out dope](http://9gag.com/gag/aVvXPQP)
+ - 👉 [Dad reacts after daughter wins 4 awards at school](http://9gag.com/gag/aoyjjrX)<!-- MEMES:END -->
 
 ---
 

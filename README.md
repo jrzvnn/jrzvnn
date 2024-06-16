@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Honest house renovation](http://9gag.com/gag/aLnBBbv)
- - 😝 [See...all you need is confidence](http://9gag.com/gag/adBpjW2)
- - 💣 [Hollywood sex ring](http://9gag.com/gag/aRBVAeA)
- - 😝 [Tv show modern family had some funny skits](http://9gag.com/gag/aGyRxRw)
- - 👉 [I was sceptical at first but it turned out dope](http://9gag.com/gag/aVvXPQP)<!-- MEMES:END -->
+ - 😝 [Who would have thought?](http://9gag.com/gag/aMVQGxM)
+ - 😝 [Nice kick...oh wait](http://9gag.com/gag/an7BKGn)
+ - 💣 [She is gonna make him stay after class](http://9gag.com/gag/amo8Lo9)
+ - 😝 [Another TV show ruined](http://9gag.com/gag/aD2m31O)
+ - 👉 [On the road, anything can be expected](http://9gag.com/gag/amo80y2)<!-- MEMES:END -->
 
 ---
 

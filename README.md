@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Florida USA](http://9gag.com/gag/a2vqqKd)
- - 😝 [Oof](http://9gag.com/gag/ae9ppoq)
- - 💣 [German man saves a little German boy who was being robbed and attacked by two subsaharans.](http://9gag.com/gag/aXPXwED)
- - 😝 [Who would have thought?](http://9gag.com/gag/aMVQGxM)
- - 👉 [Another TV show ruined](http://9gag.com/gag/aD2m31O)<!-- MEMES:END -->
+ - 😝 [Hollywood sex ring](http://9gag.com/gag/aRBVAeA)
+ - 😝 [OMG so funny and so true ! Boom \ud83d\udca5](http://9gag.com/gag/aQznnx7)
+ - 💣 [See...all you need is confidence](http://9gag.com/gag/adBpjW2)
+ - 😝 [*Tin foil hat intensifies*](http://9gag.com/gag/a9yPYRm)
+ - 👉 [Shiet got real](http://9gag.com/gag/an7BNvE)<!-- MEMES:END -->
 
 ---
 

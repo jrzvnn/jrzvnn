@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A very beautiful Czech policewoman](http://9gag.com/gag/a9yPLGZ)
+ - 😝 [Just in case...](http://9gag.com/gag/a5QK77o)
+ - 😝 [Orcas surround woman](http://9gag.com/gag/aPAGD8q)
+ - 💣 [I really hope this is true](http://9gag.com/gag/aVvXe0d)
  - 😝 [A nice family dinner!!!](http://9gag.com/gag/aoyjjzm)
- - 💣 [R.I.P](http://9gag.com/gag/aZZNNb9)
- - 😝 [I don&#39;t go abroad because there is no bidet.](http://9gag.com/gag/aAypwPp)
- - 👉 [Deadliest Aviation Accident Ever - The Tenerife Airport Disaster](http://9gag.com/gag/aRBVPyM)<!-- MEMES:END -->
+ - 👉 [Hollywood sex ring](http://9gag.com/gag/aRBVAeA)<!-- MEMES:END -->
 
 ---
 

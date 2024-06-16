@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Florida USA](http://9gag.com/gag/a2vqqKd)
- - 😝 [German man saves a little German boy who was being robbed and attacked by two subsaharans.](http://9gag.com/gag/aXPXwED)
- - 💣 [Good job,we had time to take a look.](http://9gag.com/gag/aNDKKxK)
+ - 😝 [Good job,we had time to take a look.](http://9gag.com/gag/aNDKKxK)
  - 😝 [A meme in it&#39;s natural habitat...](http://9gag.com/gag/a1mYXd8)
- - 👉 [Deadliest Aviation Accident Ever - The Tenerife Airport Disaster](http://9gag.com/gag/aRBVPyM)<!-- MEMES:END -->
+ - 💣 [A very beautiful Czech policewoman](http://9gag.com/gag/a9yPLGZ)
+ - 😝 [Riding a bike in the Netherlands](http://9gag.com/gag/a7oby8m)
+ - 👉 [I don&#39;t go abroad because there is no bidet.](http://9gag.com/gag/aAypwPp)<!-- MEMES:END -->
 
 ---
 

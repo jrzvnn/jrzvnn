@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hard to cancel the one who cancel](http://9gag.com/gag/a9yPd4m)
- - 😝 [Good job,we had time to take a look.](http://9gag.com/gag/aNDKKxK)
- - 💣 [Another TV show ruined](http://9gag.com/gag/aD2m31O)
- - 😝 [Riding a bike in the Netherlands](http://9gag.com/gag/a7oby8m)
- - 👉 [German man saves a little German boy who was being robbed and attacked by two subsaharans.](http://9gag.com/gag/aXPXwED)<!-- MEMES:END -->
+ - 😝 [Florida USA](http://9gag.com/gag/a2vqqKd)
+ - 😝 [Oof](http://9gag.com/gag/ae9ppoq)
+ - 💣 [German man saves a little German boy who was being robbed and attacked by two subsaharans.](http://9gag.com/gag/aXPXwED)
+ - 😝 [Who would have thought?](http://9gag.com/gag/aMVQGxM)
+ - 👉 [Another TV show ruined](http://9gag.com/gag/aD2m31O)<!-- MEMES:END -->
 
 ---
 

@@ -162,9 +162,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Steven Spielberg rattled by false &#39;hard fall&#39; Apple Watch warning](https://appleinsider.com/articles/24/06/16/steven-spielberg-rattled-by-false-hard-fall-apple-watch-warning?utm_medium=rss)
  - [Best Plug-In Hybrid EVs for 2024     - CNET](https://www.cnet.com/roadshow/news/best-plug-in-hybrid-evs-for-2024/#ftag=CAD590a51e)
  - [Best Internet Providers in South Dakota     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-south-dakota/#ftag=CAD590a51e)
- - [Steven Spielberg rattled by false &quot;hard fall&quot; Apple Watch warning](https://appleinsider.com/articles/24/06/16/steven-spielberg-rattled-by-false-hard-fall-apple-watch-warning?utm_medium=rss)
  - [Here&#39;s How to Quickly Pair Your AirPods With Your Windows PC     - CNET](https://www.cnet.com/tech/mobile/how-to-pair-apple-airpods-with-your-windows-10-pc-in-less-than-a-minute/#ftag=CAD590a51e)
  - [Best Internet Providers in California     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-california/#ftag=CAD590a51e)<!-- TECH:END -->
 

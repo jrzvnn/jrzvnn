@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DefiLlama: crypto startup funding has crossed $100B since 2014; The Block Research: Coinbase Ventures has made 443 investments or ~4% of all deals since 2017 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240615/p10#a240615p10)
  - [A look at tech companies&#39; investments in AI startups: Nvidia and NVentures completed a total of 32 deals in 2023, while Microsoft and M12 made 21 investments &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/240615/p9#a240615p9)
  - [Leaked documents reveal life-threatening issues at Amazon&#39;s primary-care service One Medical, raising concerns about Amazon&#39;s frugal approach to health care &lpar;Caroline O&#39;Donovan/Washington Post&rpar;](http://www.techmeme.com/240615/p8#a240615p8)
  - [NASA says Voyager 1 is fully back online months after it stopped making sense](https://www.theverge.com/2024/6/15/24179265/voyager-1-functioning-again-nasa-deep-space)
- - [Best Laser Cutters and Engravers of 2024     - CNET](https://www.cnet.com/tech/computing/the-best-laser-cutters-and-engravers/#ftag=CAD590a51e)
- - [Save up to $300 and Score Freebies During LG&#39;s Current Sale     - CNET](https://www.cnet.com/deals/save-up-to-300-and-score-freebies-during-lgs-current-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Laser Cutters and Engravers of 2024     - CNET](https://www.cnet.com/tech/computing/the-best-laser-cutters-and-engravers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

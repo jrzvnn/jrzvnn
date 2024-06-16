@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [German man saves a little German boy who was being robbed and attacked by two subsaharans.](http://9gag.com/gag/aXPXwED)
- - 😝 [Age discrimination in USA](http://9gag.com/gag/aGyR9q7)
- - 💣 [I was sceptical at first but it turned out dope](http://9gag.com/gag/aVvXPQP)
- - 😝 [See...all you need is confidence](http://9gag.com/gag/adBpjW2)
- - 👉 [Dad reacts after daughter wins 4 awards at school](http://9gag.com/gag/aoyjjrX)<!-- MEMES:END -->
+ - 😝 [Camping 101](http://9gag.com/gag/aW4OOpZ)
+ - 😝 [She is gonna make him stay after class](http://9gag.com/gag/amo8Lo9)
+ - 💣 [Hard to cancel the one who cancel](http://9gag.com/gag/a9yPd4m)
+ - 😝 [Riding a bike in the Netherlands](http://9gag.com/gag/a7oby8m)
+ - 👉 [German man saves a little German boy who was being robbed and attacked by two subsaharans.](http://9gag.com/gag/aXPXwED)<!-- MEMES:END -->
 
 ---
 

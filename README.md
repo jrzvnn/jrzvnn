@@ -172,10 +172,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [German man saves a little German boy who was being robbed and attacked by two subsaharans.](http://9gag.com/gag/aXPXwED)
- - 😝 [What a mad lad!](http://9gag.com/gag/aGyRx8K)
- - 💣 [Woke agenda made fans quit Boys season 4 after just one episode. Yes, it&#39;s them again. Strong black female character who also identifies as `smartest person on the planet`. Show creators tell fans to `watch something else`.](http://9gag.com/gag/aAypY9R)
+ - 😝 [Another TV show ruined](http://9gag.com/gag/aD2m31O)
+ - 💣 [Good job,we had time to take a look.](http://9gag.com/gag/aNDKKxK)
  - 😝 [Who would have thought?](http://9gag.com/gag/aMVQGxM)
- - 👉 [Just in case...](http://9gag.com/gag/a5QK77o)<!-- MEMES:END -->
+ - 👉 [She is gonna make him stay after class](http://9gag.com/gag/amo8Lo9)<!-- MEMES:END -->
 
 ---
 

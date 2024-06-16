@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Crime blotter: Tracked iPad helps catch kids who stole their teacher&#39;s car](https://appleinsider.com/articles/24/06/16/crime-blotter-tracked-ipad-helps-catch-kids-who-stole-their-teachers-car?utm_medium=rss)
+ - [Sorry, VR: The Meta Ray-Ban Wayfarers Are the Best Face Computer](https://www.wired.com/story/the-ray-ban-meta-wayfarers-are-the-best-face-computer/)
  - [How to Spot a Business Email Compromise Scam](https://www.wired.com/story/how-to-spot-business-email-compromise-scam/)
  - [The super simple gadget trying to replace your phone](https://www.theverge.com/2024/6/16/24178592/light-phone-3-yahoo-news-apple-passwords-installer)
- - [RCS on iOS 18 Will Make Texting Between iPhone and Android Users Feel Less Archaic     - CNET](https://www.cnet.com/tech/mobile/rcs-on-ios-18-will-make-texting-between-iphone-and-android-users-feel-less-archaic/#ftag=CAD590a51e)
- - [I Saw the iPhone&#39;s Most Underrated iOS 18 Feature. We Should Be Talking About It More     - CNET](https://www.cnet.com/tech/mobile/i-saw-iphones-most-underrated-ios-18-feature-we-should-be-talking-about-it-more/#ftag=CAD590a51e)
- - [Clean Your Gross Apple Watch With This Simple Routine     - CNET](https://www.cnet.com/tech/clean-your-gross-apple-watch-with-this-simple-routine/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [RCS on iOS 18 Will Make Texting Between iPhone and Android Users Feel Less Archaic     - CNET](https://www.cnet.com/tech/mobile/rcs-on-ios-18-will-make-texting-between-iphone-and-android-users-feel-less-archaic/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

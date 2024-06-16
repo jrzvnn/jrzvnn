@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple won’t wait until next year for some Siri improvements](https://www.theverge.com/2024/6/16/24179526/apple-intelligence-siri-natural-language-upgrade-ios-18)
  - [The Best Electric Bikes of 2024 That We&#39;ve Tested and Reviewed](https://www.wired.com/gallery/best-electric-bikes/)
  - [NZXT Relay Headset and SwitchMix Review: Innovative Convenience](https://www.wired.com/review/nzxt-relay-headset-and-switchmix/)
  - [A look at Apple&#39;s slow rollout of AI features, impressive visionOS 2 beta, plans for thinnest, lightest devices in tech, including a phone in the iPhone 17 line &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240616/p4#a240616p4)
- - [Not all new Apple Intelligence features will be available in the fall](https://appleinsider.com/articles/24/06/16/not-all-new-apple-intelligence-features-will-be-available-in-the-fall?utm_medium=rss)
- - [Analog Photography: The Beginner’s Guide to Film Cameras &lpar;2024&rpar;](https://www.wired.com/story/film-photography-beginners-guide/)<!-- TECH:END -->
+ - [Not all new Apple Intelligence features will be available in the fall](https://appleinsider.com/articles/24/06/16/not-all-new-apple-intelligence-features-will-be-available-in-the-fall?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

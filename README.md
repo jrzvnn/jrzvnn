@@ -164,9 +164,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [The OLED iPad Pro was only the beginning for Apple’s return to thin devices](https://www.theverge.com/2024/6/16/24179598/iphone-17-slim-apple-thinness-ipad-pro-macbook-apple-watch)
  - [Firefighter credits Apple Watch for live-saving intervention](https://appleinsider.com/articles/24/06/16/firefighter-credits-apple-watch-for-live-saving-intervention?utm_medium=rss)
+ - [Best Internet Providers in Valdosta, Georgia     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-valdosta-ga/#ftag=CAD590a51e)
  - [A Texas federal jury orders Amazon to pay nearly $122M to adtech company AlmondNet for infringing on two patents related to personalized ad targeting &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/240616/p5#a240616p5)
- - [How to Watch Euro 2024: Serbia vs. England Livestream Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-euro-2024-serbia-vs-england-livestream-soccer-from-anywhere/#ftag=CAD590a51e)
- - [Apple won’t wait until next year for some Siri improvements](https://www.theverge.com/2024/6/16/24179526/apple-intelligence-siri-natural-language-upgrade-ios-18)<!-- TECH:END -->
+ - [How to Watch Euro 2024: Serbia vs. England Livestream Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-euro-2024-serbia-vs-england-livestream-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

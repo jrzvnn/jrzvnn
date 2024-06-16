@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A very beautiful Czech policewoman](http://9gag.com/gag/a9yPLGZ)
- - 😝 [Who would have thought?](http://9gag.com/gag/aMVQGxM)
- - 💣 [The show&#39;s ruined. I can&#39;t look at the screen when she&#39;s on. I mean why? After you&#39;ve won the genetic lottery. Just to confine to some stupid plastic beauty standards. Sorry for the rant.](http://9gag.com/gag/aZZNNrz)
- - 😝 [Hollywood sex ring](http://9gag.com/gag/aRBVAeA)
- - 👉 [I don&#39;t go abroad because there is no bidet.](http://9gag.com/gag/aAypwPp)<!-- MEMES:END -->
+ - 😝 [I don&#39;t go abroad because there is no bidet.](http://9gag.com/gag/aAypwPp)
+ - 😝 [Good job,we had time to take a look.](http://9gag.com/gag/aNDKKxK)
+ - 💣 [A meme in it&#39;s natural habitat...](http://9gag.com/gag/a1mYXd8)
+ - 😝 [A nice family dinner!!!](http://9gag.com/gag/aoyjjzm)
+ - 👉 [Who would have thought?](http://9gag.com/gag/aMVQGxM)<!-- MEMES:END -->
 
 ---
 

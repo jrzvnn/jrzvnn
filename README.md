@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Apple added support for automatic transcript generation in the Podcast app, a feature highly requested by both disabled users and podcast creators &lpar;Ari Saperstein/The Guardian&rpar;](http://www.techmeme.com/240616/p7#a240616p7)
  - [McLaren Artura Spider Hybrid 2024 Review: Performance Party](https://www.wired.com/review/review-mclaren-artura-spider-hybrid-2024/)
  - [Chrome on Android can read webpages out loud from within the app](https://www.theverge.com/2024/6/16/24179757/google-chrome-android-listen-to-this-page-website-reader)
  - [Best Hotel Mattresses in 2024     - CNET](https://www.cnet.com/health/sleep/best-hotel-mattresses/#ftag=CAD590a51e)
- - [McDonald’s will stop testing AI to take drive-thru orders, for now](https://www.theverge.com/2024/6/16/24179679/mcdonalds-ending-ai-chatbot-drive-thru-ordering-test-ibm)
- - [Kids are interacting with AI in school and online, serving as testers for a new generation of tech, making them the ones to experience some of its worst effects &lpar;Caroline Mimbs Nyce/The Atlantic&rpar;](http://www.techmeme.com/240616/p6#a240616p6)<!-- TECH:END -->
+ - [McDonald’s will stop testing AI to take drive-thru orders, for now](https://www.theverge.com/2024/6/16/24179679/mcdonalds-ending-ai-chatbot-drive-thru-ordering-test-ibm)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

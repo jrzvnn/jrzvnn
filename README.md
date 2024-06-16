@@ -171,10 +171,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Marines perform boarding exercises with jetpacks and landing on a high-speed ship.](http://9gag.com/gag/ae9p3Pq)
- - 😝 [Hard to cancel the one who cancel](http://9gag.com/gag/a9yPd4m)
- - 💣 [Is this real life?](http://9gag.com/gag/aXPXEED)
- - 😝 [She is gonna make him stay after class](http://9gag.com/gag/amo8Lo9)
+ - 😝 [Who needs a man?](http://9gag.com/gag/a34Ld3m)
+ - 😝 [Good job,we had time to take a look.](http://9gag.com/gag/aNDKKxK)
+ - 💣 [Another TV show ruined](http://9gag.com/gag/aD2m31O)
+ - 😝 [Who would have thought?](http://9gag.com/gag/aMVQGxM)
  - 👉 [German man saves a little German boy who was being robbed and attacked by two subsaharans.](http://9gag.com/gag/aXPXwED)<!-- MEMES:END -->
 
 ---

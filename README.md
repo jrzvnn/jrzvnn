@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Gourmet Dog Treats We&#39;d Totally Taste Test Ourselves     - CNET](https://www.cnet.com/home/kitchen-and-household/best-gourmet-dog-treats/#ftag=CAD590a51e)
  - [Q&amp;A with FTC Chair Lina Khan about scrutinizing Big Tech&#39;s &quot;innovations in potential lawbreaking&quot; with AI deals, use of AI at FTC, startups, acquisitions, more &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/240616/p1#a240616p1)
  - [DefiLlama: crypto startup funding has crossed $100B since 2014; The Block Research: Coinbase Ventures has made 443 investments or ~4% of all deals since 2017 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240615/p10#a240615p10)
- - [Today&#39;s NYT Connections Hints and Answers: Help for June 16, #371     - CNET](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answer-help-for-june-16-371/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints and Answer: Help for June 16, #1093     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-and-answer-help-for-june-16-1093/#ftag=CAD590a51e)
- - [Nectar Premier Copper Mattress Review 2024: A Step Above the Brand’s Flagship Bed     - CNET](https://www.cnet.com/health/sleep/nectar-premier-copper-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 8 Best Chef&#39;s Knives for 2024, Tested and Reviewed     - CNET](https://www.cnet.com/news/best-chefs-knife/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints and Answers: Help for June 16, #371     - CNET](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answer-help-for-june-16-371/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Texas federal jury orders Amazon to pay nearly $122M to adtech company AlmondNet for infringing on two patents related to personalized ad targeting &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/240616/p5#a240616p5)
  - [Apple won’t wait until next year for some Siri improvements](https://www.theverge.com/2024/6/16/24179526/apple-intelligence-siri-natural-language-upgrade-ios-18)
  - [The Best Electric Bikes of 2024 That We&#39;ve Tested and Reviewed](https://www.wired.com/gallery/best-electric-bikes/)
  - [How to Stream &#39;House of the Dragon&#39; Season 2 Tonight From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/how-to-stream-house-of-the-dragon-season-2-tonight-from-anywhere/#ftag=CAD590a51e)
- - [NZXT Relay Headset and SwitchMix Review: Innovative Convenience](https://www.wired.com/review/nzxt-relay-headset-and-switchmix/)
- - [A look at Apple&#39;s slow rollout of AI features, impressive visionOS 2 beta, plans for thinnest, lightest devices in tech, including a phone in the iPhone 17 line &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240616/p4#a240616p4)<!-- TECH:END -->
+ - [NZXT Relay Headset and SwitchMix Review: Innovative Convenience](https://www.wired.com/review/nzxt-relay-headset-and-switchmix/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

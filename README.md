@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I don&#39;t go abroad because there is no bidet.](http://9gag.com/gag/aAypwPp)
- - 😝 [Good job,we had time to take a look.](http://9gag.com/gag/aNDKKxK)
- - 💣 [A meme in it&#39;s natural habitat...](http://9gag.com/gag/a1mYXd8)
- - 😝 [A nice family dinner!!!](http://9gag.com/gag/aoyjjzm)
- - 👉 [Who would have thought?](http://9gag.com/gag/aMVQGxM)<!-- MEMES:END -->
+ - 😝 [Dating pool at 40](http://9gag.com/gag/a0eYdoL)
+ - 😝 [A kid walks by a dog trainer](http://9gag.com/gag/an7BygB)
+ - 💣 [Gotta love the energy](http://9gag.com/gag/aZZNB19)
+ - 😝 [Unexpected](http://9gag.com/gag/a2vqd0p)
+ - 👉 [The Best Strawberry in The World](http://9gag.com/gag/ae9pYzq)<!-- MEMES:END -->
 
 ---
 

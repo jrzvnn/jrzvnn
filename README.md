@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A very beautiful Czech policewoman](http://9gag.com/gag/a9yPLGZ)
- - 😝 [Good job,we had time to take a look.](http://9gag.com/gag/aNDKKxK)
- - 💣 [Another TV show ruined](http://9gag.com/gag/aD2m31O)
- - 😝 [German man saves a little German boy who was being robbed and attacked by two subsaharans.](http://9gag.com/gag/aXPXwED)
- - 👉 [A nice family dinner!!!](http://9gag.com/gag/aoyjjzm)<!-- MEMES:END -->
+ - 😝 [Being an ATM til the end](http://9gag.com/gag/avyLnbn)
+ - 😝 [A meme in it&#39;s natural habitat...](http://9gag.com/gag/a1mYXd8)
+ - 💣 [Riding a bike in the Netherlands](http://9gag.com/gag/a7oby8m)
+ - 😝 [A nice family dinner!!!](http://9gag.com/gag/aoyjjzm)
+ - 👉 [The show&#39;s ruined. I can&#39;t look at the screen when she&#39;s on. I mean why? After you&#39;ve won the genetic lottery. Just to confine to some stupid plastic beauty standards. Sorry for the rant.](http://9gag.com/gag/aZZNNrz)<!-- MEMES:END -->
 
 ---
 

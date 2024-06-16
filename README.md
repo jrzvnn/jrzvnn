@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Let Slip the Robot Dogs of War](https://www.wired.com/story/let-slip-the-robot-dogs-of-war/)
  - [Today&#39;s NYT Strands Hints, Answers and Help for June 16, #105     - CNET](https://www.cnet.com/tech/gaming/todays-nyt-strands-hint-answer-help/#ftag=CAD590a51e)
  - [The Best Gourmet Dog Treats We&#39;d Totally Taste Test Ourselves     - CNET](https://www.cnet.com/home/kitchen-and-household/best-gourmet-dog-treats/#ftag=CAD590a51e)
  - [Q&amp;A with FTC Chair Lina Khan about scrutinizing Big Tech&#39;s &quot;innovations in potential lawbreaking&quot; with AI deals, use of AI at FTC, startups, acquisitions, more &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/240616/p1#a240616p1)
- - [DefiLlama: crypto startup funding has crossed $100B since 2014; The Block Research: Coinbase Ventures has made 443 investments or ~4% of all deals since 2017 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240615/p10#a240615p10)
- - [The 8 Best Chef&#39;s Knives for 2024, Tested and Reviewed     - CNET](https://www.cnet.com/news/best-chefs-knife/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [DefiLlama: crypto startup funding has crossed $100B since 2014; The Block Research: Coinbase Ventures has made 443 investments or ~4% of all deals since 2017 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240615/p10#a240615p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

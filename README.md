@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sims competitor Life by You has been canceled](https://www.theverge.com/2024/6/17/24180574/life-by-you-canceled-sims)
  - [Apple&#39;s back to school 2024 promotion begins this week](https://appleinsider.com/articles/24/06/17/apples-back-to-school-2024-promotion-begins-this-week?utm_medium=rss)
  - [Inside Snapchat&#39;s teen opioid crisis: law-enforcement sources and parents allege that the company has helped fuel an overdose epidemic across the US &lpar;Paul Solotaroff/Rolling Stone&rpar;](http://www.techmeme.com/240617/p30#a240617p30)
  - [Tesla reportedly delays Cybertruck deliveries because of windshield wiper issues](https://www.theverge.com/2024/6/17/24180519/tesla-cybertruck-deliveries-windshield-wiper-issue)
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Check out these new ‘HeatRisk’ tools to stay up to date on US heatwaves](https://www.theverge.com/2024/6/17/24093587/heatwave-forecast-health-risks-online-tool-national-weather-service-cdc)<!-- TECH:END -->
+ - [I&#39;d Love to Have These 3 Android Features on iOS 18 This Fall     - CNET](https://www.cnet.com/tech/services-and-software/id-love-to-have-these-3-android-features-on-ios-18-this-fall/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

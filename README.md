@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I don&#39;t go abroad because there is no bidet.](http://9gag.com/gag/aAypwPp)
- - 😝 [Just in case...](http://9gag.com/gag/a5QK77o)
- - 💣 [I really hope this is true](http://9gag.com/gag/aVvXe0d)
+ - 😝 [I really hope this is true](http://9gag.com/gag/aVvXe0d)
  - 😝 [Sometimes you learn the hard way](http://9gag.com/gag/aD2mowG)
- - 👉 [Panic after getting into an accident](http://9gag.com/gag/aoyjpG2)<!-- MEMES:END -->
+ - 💣 [Good job,we had time to take a look.](http://9gag.com/gag/aNDKKxK)
+ - 😝 [Coastguards of Greece](http://9gag.com/gag/a34LME3)
+ - 👉 [I don&#39;t go abroad because there is no bidet.](http://9gag.com/gag/aAypwPp)<!-- MEMES:END -->
 
 ---
 

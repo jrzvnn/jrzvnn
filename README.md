@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber says &quot;tens of thousands of riders&quot; in Phoenix have matched with a &quot;Waymo &lpar;AI&rpar; driver&quot; and have given &quot;a nearly 4.9 average star rating&quot; &lpar;Alan Ohnsman/Forbes&rpar;](http://www.techmeme.com/240617/p21#a240617p21)
+ - [iOS 18 dramatically accelerates iPhone 15 Pro Max neural processing](https://appleinsider.com/articles/24/06/17/ios-18-dramatically-accelerates-iphone-15-pro-max-neural-processing?utm_medium=rss)
+ - [Still Wakes the Deep makes the terror of the ocean more tactile](https://www.theverge.com/24180103/still-wakes-the-deep-review-xbox-ps5-pc)
+ - [Uber says &quot;tens of thousands of riders&quot; in Phoenix have matched with a &quot;Waymo &lpar;AI&rpar; driver&quot; and have given &quot;a nearly 4.9 average star rating&quot; since the launch &lpar;Alan Ohnsman/Forbes&rpar;](http://www.techmeme.com/240617/p21#a240617p21)
  - [Logitech unveils the MX Ink, a $130 stylus coming in September for the Meta Quest 2, Quest 3, and &quot;future headsets&quot;, the Quest&#39;s first third-party input device &lpar;Scott Stein/CNET&rpar;](http://www.techmeme.com/240617/p20#a240617p20)
- - [Logitech’s first Meta Quest stylus helps artists work in 3D](https://www.theverge.com/2024/6/17/24180060/logitech-mx-ink-stylus-meta-quest-vr-ar)
- - [This loaded M2 Max MacBook Pro is $1,000 off, delivering the lowest price on record](https://appleinsider.com/articles/24/06/17/this-loaded-m2-max-macbook-pro-is-1000-off-delivering-the-lowest-price-on-record?utm_medium=rss)
- - [The US DOJ sues Adobe for allegedly harming &quot;consumers by enrolling them in its default, most lucrative subscription plan without clearly disclosing&quot; plan terms &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240617/p19#a240617p19)<!-- TECH:END -->
+ - [Logitech’s first Meta Quest stylus helps artists work in 3D](https://www.theverge.com/2024/6/17/24180060/logitech-mx-ink-stylus-meta-quest-vr-ar)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

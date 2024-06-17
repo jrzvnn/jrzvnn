@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alex Jones Is Now Trying to Divert Money to His Father&#39;s Supplements Business](https://www.wired.com/story/alex-jones-bankruptcy-money-dr-jones-supplement-business/)
+ - [Apple restarts its developer beta process for iOS 17.6 and other operating systems](https://appleinsider.com/articles/24/06/17/apple-restarts-its-developer-beta-process-for-ios-176-and-other-operating-systems?utm_medium=rss)
+ - [Is Apple Intelligence artificial?](https://appleinsider.com/articles/24/06/17/is-apple-intelligence-artificial?utm_medium=rss)
  - [iOS 18 dramatically accelerates iPhone 15 Pro Max neural processing](https://appleinsider.com/articles/24/06/17/ios-18-dramatically-accelerates-iphone-15-pro-max-neural-processing?utm_medium=rss)
- - [Still Wakes the Deep makes the terror of the ocean more tactile](https://www.theverge.com/24180103/still-wakes-the-deep-review-xbox-ps5-pc)
- - [Uber says &quot;tens of thousands of riders&quot; in Phoenix have matched with a &quot;Waymo &lpar;AI&rpar; driver&quot; and have given &quot;a nearly 4.9 average star rating&quot; since the launch &lpar;Alan Ohnsman/Forbes&rpar;](http://www.techmeme.com/240617/p21#a240617p21)
- - [Logitech unveils the MX Ink, a $130 stylus coming in September for the Meta Quest 2, Quest 3, and &quot;future headsets&quot;, the Quest&#39;s first third-party input device &lpar;Scott Stein/CNET&rpar;](http://www.techmeme.com/240617/p20#a240617p20)
- - [Logitech’s first Meta Quest stylus helps artists work in 3D](https://www.theverge.com/2024/6/17/24180060/logitech-mx-ink-stylus-meta-quest-vr-ar)<!-- TECH:END -->
+ - [Still Wakes the Deep makes the terror of the ocean more tactile](https://www.theverge.com/24180103/still-wakes-the-deep-review-xbox-ps5-pc)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -163,10 +163,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Is Apple Intelligence artificial?](https://appleinsider.com/articles/24/06/17/is-apple-intelligence-artificial?utm_medium=rss)
+ - [Microsoft shakes up Xbox marketing as key exec departs for Roblox](https://www.theverge.com/2024/6/17/24180277/microsoft-xbox-marketing-jerret-west-leaving-roblox)
  - [Apple starts testing first visionOS 1.3 beta](https://appleinsider.com/articles/24/06/17/apple-starts-testing-first-visionos-13-beta?utm_medium=rss)
  - [Alex Jones Is Now Trying to Divert Money to His Father&#39;s Supplements Business](https://www.wired.com/story/alex-jones-bankruptcy-money-dr-jones-supplement-business/)
- - [Apple restarts its developer beta process for iOS 17.6 and other operating systems](https://appleinsider.com/articles/24/06/17/apple-restarts-its-developer-beta-process-for-ios-176-and-other-operating-systems?utm_medium=rss)
- - [iOS 18 dramatically accelerates iPhone 15 Pro Max neural processing](https://appleinsider.com/articles/24/06/17/ios-18-dramatically-accelerates-iphone-15-pro-max-neural-processing?utm_medium=rss)<!-- TECH:END -->
+ - [Apple restarts its developer beta process for iOS 17.6 and other operating systems](https://appleinsider.com/articles/24/06/17/apple-restarts-its-developer-beta-process-for-ios-176-and-other-operating-systems?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

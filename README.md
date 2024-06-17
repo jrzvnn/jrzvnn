@@ -163,10 +163,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [How Apple added support for automatic transcript generation in the Podcast app, a feature highly requested by both disabled users and podcast creators &lpar;Ari Saperstein/The Guardian&rpar;](http://www.techmeme.com/240616/p7#a240616p7)
+ - [Get Ready To See a Sky Explosion That Only Happens Once Every 80 Years     - CNET](https://www.cnet.com/science/get-ready-to-see-a-sky-explosion-that-only-happens-once-every-80-years/#ftag=CAD590a51e)
  - [McLaren Artura Spider Hybrid 2024 Review: Performance Party](https://www.wired.com/review/review-mclaren-artura-spider-hybrid-2024/)
  - [Chrome on Android can read webpages out loud from within the app](https://www.theverge.com/2024/6/16/24179757/google-chrome-android-listen-to-this-page-website-reader)
- - [Best Hotel Mattresses in 2024     - CNET](https://www.cnet.com/health/sleep/best-hotel-mattresses/#ftag=CAD590a51e)
- - [McDonald’s will stop testing AI to take drive-thru orders, for now](https://www.theverge.com/2024/6/16/24179679/mcdonalds-ending-ai-chatbot-drive-thru-ordering-test-ibm)<!-- TECH:END -->
+ - [Best Hotel Mattresses in 2024     - CNET](https://www.cnet.com/health/sleep/best-hotel-mattresses/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

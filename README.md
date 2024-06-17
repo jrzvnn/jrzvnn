@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This multi-purpose wheelbarrow](http://9gag.com/gag/aD2mzGN)
- - 😝 [The only thing holding the structure is paint](http://9gag.com/gag/axyG0xb)
- - 💣 [Never trust people who cry for the camera and choose to post it....](http://9gag.com/gag/a4PLbey)
- - 😝 [Let&#39;s dance](http://9gag.com/gag/a34LKL7)
- - 👉 [Sand people logic](http://9gag.com/gag/adBp9YN)<!-- MEMES:END -->
+ - 😝 [Jet Ski Driver Dodged Shockwave by Jumping into Water Just in Time After Explosion in Beirut!](http://9gag.com/gag/aByr8mO)
+ - 😝 [I really hope this is true](http://9gag.com/gag/aVvXe0d)
+ - 💣 [Happy Father&#39;s day..](http://9gag.com/gag/aGyR1Mz)
+ - 😝 [Dunno which is stupider, throwing away a drink that you bought or smashing someone&#39;s windshield in front of a camera.](http://9gag.com/gag/ae9pbnb)
+ - 👉 [Coastguards of Greece](http://9gag.com/gag/a34LME3)<!-- MEMES:END -->
 
 ---
 

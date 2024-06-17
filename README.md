@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google begins rolling out a &quot;Listen to this page&quot; feature on Chrome for Android, letting the browser read text-heavy web pages &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240617/p6#a240617p6)
  - [Apple Watch Series 10 to be thinner and have larger screen size](https://appleinsider.com/articles/24/06/17/apple-watch-series-10-to-be-thinner-and-have-larger-screen-size?utm_medium=rss)
  - [McDonald&#39;s ends its two-year IBM partnership to test automated Drive Thru order taking and plans to remove the tech from 100+ restaurants by July 26 &lpar;Jonathan Maze/Restaurant Business&rpar;](http://www.techmeme.com/240617/p5#a240617p5)
  - [Hackers Detail How They Allegedly Stole Ticketmaster Data From Snowflake](https://www.wired.com/story/epam-snowflake-ticketmaster-breach-shinyhunters/)
- - [Experts say generative AI is set to make certain skills in finance and accounting redundant and free up time for workers to focus more on value-added tasks &lpar;Seb Murray/Financial Times&rpar;](http://www.techmeme.com/240617/p4#a240617p4)
- - [SSDI Beneficiaries Are Getting Their Checks Early This Week. Here&#39;s Why     - CNET](https://www.cnet.com/personal-finance/ssdi-beneficiaries-are-getting-their-checks-early-this-week-heres-why/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Experts say generative AI is set to make certain skills in finance and accounting redundant and free up time for workers to focus more on value-added tasks &lpar;Seb Murray/Financial Times&rpar;](http://www.techmeme.com/240617/p4#a240617p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

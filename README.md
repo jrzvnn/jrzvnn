@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Panic after getting into an accident](http://9gag.com/gag/aoyjpG2)
+ - 😝 [I really hope this is true](http://9gag.com/gag/aVvXe0d)
+ - 😝 [A meme in it&#39;s natural habitat...](http://9gag.com/gag/a1mYXd8)
+ - 💣 [Who would have thought?](http://9gag.com/gag/aMVQGxM)
  - 😝 [Just in case...](http://9gag.com/gag/a5QK77o)
- - 💣 [Physics left the chat!](http://9gag.com/gag/azxVjVK)
- - 😝 [Sometimes you learn the hard way](http://9gag.com/gag/aD2mowG)
- - 👉 [So close...](http://9gag.com/gag/aXPXqDv)<!-- MEMES:END -->
+ - 👉 [Good job,we had time to take a look.](http://9gag.com/gag/aNDKKxK)<!-- MEMES:END -->
 
 ---
 

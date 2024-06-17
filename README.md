@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s back to school 2024 promotion begins this week](https://appleinsider.com/articles/24/06/17/apples-back-to-school-2024-promotion-begins-this-week?utm_medium=rss)
  - [Inside Snapchat&#39;s teen opioid crisis: law-enforcement sources and parents allege that the company has helped fuel an overdose epidemic across the US &lpar;Paul Solotaroff/Rolling Stone&rpar;](http://www.techmeme.com/240617/p30#a240617p30)
  - [Tesla reportedly delays Cybertruck deliveries because of windshield wiper issues](https://www.theverge.com/2024/6/17/24180519/tesla-cybertruck-deliveries-windshield-wiper-issue)
  - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Check out these new ‘HeatRisk’ tools to stay up to date on US heatwaves](https://www.theverge.com/2024/6/17/24093587/heatwave-forecast-health-risks-online-tool-national-weather-service-cdc)
- - [Real-time data analytics startup Tinybird raised a $30M Series B, at a &quot;significantly higher&quot; valuation than its $37M Series A; source: it&#39;s now valued at $240M &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/240617/p29#a240617p29)<!-- TECH:END -->
+ - [Check out these new ‘HeatRisk’ tools to stay up to date on US heatwaves](https://www.theverge.com/2024/6/17/24093587/heatwave-forecast-health-risks-online-tool-national-weather-service-cdc)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

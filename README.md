@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [German man saves a little German boy who was being robbed and attacked by two subsaharans.](http://9gag.com/gag/aXPXwED)
- - 😝 [True.](http://9gag.com/gag/aQzneLK)
+ - 😝 [The only thing holding the structure is paint](http://9gag.com/gag/axyG0xb)
+ - 😝 [Dunno which is stupider, throwing away a drink that you bought or smashing someone&#39;s windshield in front of a camera.](http://9gag.com/gag/ae9pbnb)
  - 💣 [Somewhere in a train station in Chile](http://9gag.com/gag/aryRgKy)
  - 😝 [Jet Ski Driver Dodged Shockwave by Jumping into Water Just in Time After Explosion in Beirut!](http://9gag.com/gag/aByr8mO)
- - 👉 [The only thing holding the structure is paint](http://9gag.com/gag/axyG0xb)<!-- MEMES:END -->
+ - 👉 [What are the odds?](http://9gag.com/gag/aMVQ8oW)<!-- MEMES:END -->
 
 ---
 

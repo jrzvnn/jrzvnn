@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to change Siri&#39;s name in iOS 18 to anything you like with Vocal Shortcuts](https://appleinsider.com/inside/ios-18/tips/how-to-change-siris-name-in-ios-18-to-anything-you-like-with-vocal-shortcuts?utm_medium=rss)
  - [Naver-owned online comics platform Webtoon aims to raise up to $315M in a US IPO, offering shares for $18 to $21 each and targeting an up to $2.67B valuation &lpar;Arasu Kannagi Basil/Reuters&rpar;](http://www.techmeme.com/240617/p18#a240617p18)
  - [Runway unveils Gen-3 Alpha, a model to generate high-quality, detailed, highly realistic video clips of 10 seconds in length, after releasing Gen-2 in June 2023 &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240617/p17#a240617p17)
  - [WWDC 2024 Apple Home news roundup on the HomeKit Insider podcast](https://appleinsider.com/articles/24/06/17/wwdc-2024-apple-home-news-roundup-on-the-homekit-insider-podcast?utm_medium=rss)
- - [Apple details how the Apple Podcast transcripts came to be](https://appleinsider.com/articles/24/06/17/apple-details-how-the-apple-podcast-transcripts-came-to-be?utm_medium=rss)
- - [Nintendo will detail its holiday 2024 Switch lineup in new Direct](https://www.theverge.com/2024/6/17/24175226/nintendo-direct-june-2024-switch-holiday-lineup)<!-- TECH:END -->
+ - [Apple details how the Apple Podcast transcripts came to be](https://appleinsider.com/articles/24/06/17/apple-details-how-the-apple-podcast-transcripts-came-to-be?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

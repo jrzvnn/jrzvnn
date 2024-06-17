@@ -173,9 +173,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [What are the odds?](http://9gag.com/gag/aMVQ8oW)
  - 😝 [The strongest female characters in fiction](http://9gag.com/gag/aqy21NP)
- - 💣 [This multi-purpose wheelbarrow](http://9gag.com/gag/aD2mzGN)
- - 😝 [Human pandas](http://9gag.com/gag/aRBVKGQ)
- - 👉 [So close...](http://9gag.com/gag/aXPXqDv)<!-- MEMES:END -->
+ - 💣 [Human pandas](http://9gag.com/gag/aRBVKGQ)
+ - 😝 [So close...](http://9gag.com/gag/aXPXqDv)
+ - 👉 [This multi-purpose wheelbarrow](http://9gag.com/gag/aD2mzGN)<!-- MEMES:END -->
 
 ---
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tether, the top stablecoin provider, says it made a new synthetic dollar that is backed by gold and will trade as aUSDT via smart contracts on Ethereum Mainnet &lpar;Mar&amp;iacute;a Paula Mijares Torres/Bloomberg&rpar;](http://www.techmeme.com/240617/p26#a240617p26)
+ - [How Apple will label AI-generated images made with Image Playground](https://appleinsider.com/articles/24/06/17/how-apple-will-label-ai-generated-images-made-with-image-playground?utm_medium=rss)
  - [Mandiant: up to 10 companies breached in a campaign targeting Snowflake customers have been extorted with stolen data and face ransom demands from $300K to $5M &lpar;Bloomberg&rpar;](http://www.techmeme.com/240617/p25#a240617p25)
- - [T-Mobile asked to stop advertising its ‘Price Lock’ claim with 5G home internet service](https://www.theverge.com/2024/6/17/24180177/t-mobile-price-lock-stop-advertising-5g-home-internet-service)
- - [Apple’s fancy new CarPlay will only work wirelessly](https://www.theverge.com/2024/6/17/24180353/apple-carplay-wireless-system-features)
- - [DeepMind is developing AI tech to take raw pixels of videos and generate synced soundtracks; it&#39;s not too convincing, and there are no plans to release publicly &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240617/p24#a240617p24)
- - [Apple Pay Later is getting killed in favor of third-party loan integration](https://appleinsider.com/articles/24/06/17/apple-pay-later-is-getting-killed-in-favor-of-third-party-loan-integration?utm_medium=rss)<!-- TECH:END -->
+ - [T-Mobile asked to stop advertising ‘price lock’ guarantee that doesn’t lock your prices](https://www.theverge.com/2024/6/17/24180177/t-mobile-price-lock-stop-advertising-5g-home-internet-service)
+ - [Apple’s fancy new CarPlay will only work wirelessly](https://www.theverge.com/2024/6/17/24180353/apple-carplay-wireless-system-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

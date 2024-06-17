@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Spanish Lesson with Ana](http://9gag.com/gag/agmNG6K)
- - 😝 [Gotta love the energy](http://9gag.com/gag/aZZNB19)
- - 💣 [Unexpected](http://9gag.com/gag/a2vqd0p)
- - 😝 [The Best Strawberry in The World](http://9gag.com/gag/ae9pYzq)
- - 👉 [Ladies and Gentlemen... we got him &lpar;back&rpar;](http://9gag.com/gag/a5QKbeG)<!-- MEMES:END -->
+ - 😝 [I don&#39;t go abroad because there is no bidet.](http://9gag.com/gag/aAypwPp)
+ - 😝 [A meme in it&#39;s natural habitat...](http://9gag.com/gag/a1mYXd8)
+ - 💣 [I really hope this is true](http://9gag.com/gag/aVvXe0d)
+ - 😝 [Who would have thought?](http://9gag.com/gag/aMVQGxM)
+ - 👉 [Good job,we had time to take a look.](http://9gag.com/gag/aNDKKxK)<!-- MEMES:END -->
 
 ---
 

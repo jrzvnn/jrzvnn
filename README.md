@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google begins rolling out a &quot;Listen to this page&quot; feature on Chrome for Android, letting the browser read text-heavy web pages &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240617/p6#a240617p6)
- - [Apple Watch Series 10 to be thinner and have larger screen size](https://appleinsider.com/articles/24/06/17/apple-watch-series-10-to-be-thinner-and-have-larger-screen-size?utm_medium=rss)
- - [McDonald&#39;s ends its two-year IBM partnership to test automated Drive Thru order taking and plans to remove the tech from 100+ restaurants by July 26 &lpar;Jonathan Maze/Restaurant Business&rpar;](http://www.techmeme.com/240617/p5#a240617p5)
- - [Hackers Detail How They Allegedly Stole Ticketmaster Data From Snowflake](https://www.wired.com/story/epam-snowflake-ticketmaster-breach-shinyhunters/)
- - [Experts say generative AI is set to make certain skills in finance and accounting redundant and free up time for workers to focus more on value-added tasks &lpar;Seb Murray/Financial Times&rpar;](http://www.techmeme.com/240617/p4#a240617p4)<!-- TECH:END -->
+ - [Kuo: the Apple Watch Series 10 will be thinner and its screen will grow from 41mm to 45mm and 45mm to 49mm; Apple will use 3D printing to make some components &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/240617/p8#a240617p8)
+ - [Don&#39;t toss your Apple Watch away if you get a hard fall warning, like Steven Spielberg did](https://appleinsider.com/articles/24/06/16/steven-spielberg-rattled-by-false-hard-fall-apple-watch-warning?utm_medium=rss)
+ - [Logitech unveils the MX Ink, a stylus for Meta Quest 2 and Quest 3, plus &quot;future headsets&quot;, the Quest&#39;s first third-party input device, shipping in September &lpar;Scott Hayden/Road to VR&rpar;](http://www.techmeme.com/240617/p7#a240617p7)
+ - [AI Is Coming for Big Tech Jobs—but Not in the Way You Think](https://www.wired.com/story/ai-is-coming-for-big-tech-jobs-but-not-in-the-way-you-think/)
+ - [Google begins rolling out a &quot;Listen to this page&quot; feature on Chrome for Android, letting the browser read text-heavy web pages &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240617/p6#a240617p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

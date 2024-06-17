@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Special WWDC Edition: Interviewing MacPaw&#39;s Oleksandr Kosovan on the AppleInsider Podcast](https://appleinsider.com/articles/24/06/15/special-wwdc-edition-interviewing-setapp-developer-oleksandr-kosovan-on-the-appleinsider-podcast?utm_medium=rss)
- - [Interviews with ~12 sources detail Google&#39;s decision to create the Google DeepMind &quot;super-unit&quot; in April 2023, shifting the AI lab from research to products &lpar;Bloomberg&rpar;](http://www.techmeme.com/240617/p14#a240617p14)
- - [Vietnam&#39;s state media says three of its five active international undersea internet cables are down, impacting connections with the US, Europe, and Asia &lpar;Khanh Vu/Reuters&rpar;](http://www.techmeme.com/240617/p13#a240617p13)
- - [Orkut’s Founder Is Still Dreaming of a Social Media Utopia](https://www.wired.com/story/orkut-founder-social-media-utopia/)
- - [Nikon’s new $2,500 Z6 III has the world’s first partially stacked CMOS sensor](https://www.theverge.com/2024/6/17/24178637/nikons-new-2500-z6-iii-has-the-worlds-first-partially-stacked-cmos-sensor)<!-- TECH:END -->
+ - [YouTube is testing Notes, an experimental crowdsourced tool to let users add context to videos, similar to X&#39;s Community Notes, on mobile in the US in English &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240617/p15#a240617p15)
+ - [The US surgeon general wants tobacco-like warning labels on social media](https://www.theverge.com/2024/6/17/24180005/surgeon-general-warning-labels-social-media-mental-health)
+ - [Review: WaterField Shinjuku iPad Messenger Bag](https://www.wired.com/review/waterfield-shinjuku-ipad-messenger-bag/)
+ - [TikTok ads may soon contain AI-generated avatars of your favorite creators](https://www.theverge.com/2024/6/17/24179971/tiktok-ads-ai-generated-avatars-creators-language-dubbing)
+ - [Should Expired Food Always Be Thrown Out? Here&#39;s What You Need to Know     - CNET](https://www.cnet.com/news/should-expired-food-always-be-thrown-out-heres-what-you-should-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

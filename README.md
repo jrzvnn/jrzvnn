@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple’s fancy new CarPlay will only work wirelessly](https://www.theverge.com/2024/6/17/24180353/apple-carplay-wireless-system-features)
  - [DeepMind is developing AI tech to take raw pixels of videos and generate synced soundtracks; it&#39;s not too convincing, and there are no plans to release publicly &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240617/p24#a240617p24)
  - [Apple Pay Later is getting killed in favor of third-party loan integration](https://appleinsider.com/articles/24/06/17/apple-pay-later-is-getting-killed-in-favor-of-third-party-loan-integration?utm_medium=rss)
  - [Apple details how Apple Podcast transcripts came to be](https://appleinsider.com/articles/24/06/17/apple-details-how-the-apple-podcast-transcripts-came-to-be?utm_medium=rss)
- - [Apple is shutting down Apple Pay Later just months after launch](https://www.theverge.com/2024/6/17/24180340/apple-pay-later-shutting-down-months-after-launch)
- - [Should You Replace Your Router? How to Tell When It&#39;s Time for an Upgrade     - CNET](https://www.cnet.com/home/internet/should-you-replace-your-router-how-to-tell-when-its-time-for-an-upgrade/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple is shutting down Apple Pay Later just months after launch](https://www.theverge.com/2024/6/17/24180340/apple-pay-later-shutting-down-months-after-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Beats teases a new Beats Pill that could arrive June 25](https://appleinsider.com/articles/24/06/17/beats-teases-a-new-beats-pill-that-could-arrive-june-25?utm_medium=rss)
  - [Adobe unveils Firefly-powered image generation in Acrobat, and support for analysis of multiple documents, including non-PDF files, in Acrobat AI Assistant &lpar;Calvin Wankhede/Android Authority&rpar;](http://www.techmeme.com/240617/p31#a240617p31)
  - [Sims competitor Life by You has been canceled](https://www.theverge.com/2024/6/17/24180574/life-by-you-canceled-sims)
  - [Apple&#39;s back to school 2024 promotion begins this week](https://appleinsider.com/articles/24/06/17/apples-back-to-school-2024-promotion-begins-this-week?utm_medium=rss)
- - [Inside Snapchat&#39;s teen opioid crisis: law-enforcement sources and parents allege that the company has helped fuel an overdose epidemic across the US &lpar;Paul Solotaroff/Rolling Stone&rpar;](http://www.techmeme.com/240617/p30#a240617p30)
- - [Tesla reportedly delays Cybertruck deliveries because of windshield wiper issues](https://www.theverge.com/2024/6/17/24180519/tesla-cybertruck-deliveries-windshield-wiper-issue)<!-- TECH:END -->
+ - [Inside Snapchat&#39;s teen opioid crisis: law-enforcement sources and parents allege that the company has helped fuel an overdose epidemic across the US &lpar;Paul Solotaroff/Rolling Stone&rpar;](http://www.techmeme.com/240617/p30#a240617p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

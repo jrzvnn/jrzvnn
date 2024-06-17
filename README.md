@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Dunno which is stupider, throwing away a drink that you bought or smashing someone&#39;s windshield in front of a camera.](http://9gag.com/gag/ae9pbnb)
+ - 😝 [Just in case...](http://9gag.com/gag/a5QK77o)
+ - 💣 [Good job,we had time to take a look.](http://9gag.com/gag/aNDKKxK)
  - 😝 [What are the odds?](http://9gag.com/gag/aMVQ8oW)
- - 😝 [The strongest female characters in fiction](http://9gag.com/gag/aqy21NP)
- - 💣 [Human pandas](http://9gag.com/gag/aRBVKGQ)
- - 😝 [So close...](http://9gag.com/gag/aXPXqDv)
- - 👉 [This multi-purpose wheelbarrow](http://9gag.com/gag/aD2mzGN)<!-- MEMES:END -->
+ - 👉 [German man saves a little German boy who was being robbed and attacked by two subsaharans.](http://9gag.com/gag/aXPXwED)<!-- MEMES:END -->
 
 ---
 

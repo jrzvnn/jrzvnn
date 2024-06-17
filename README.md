@@ -163,10 +163,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The US Surgeon General says platforms should add a &quot;warning label&quot; saying that &quot;social media is associated with significant mental health harms for adolescents&quot; &lpar;Vivek H. Murthy/New York Times&rpar;](http://www.techmeme.com/240617/p11#a240617p11)
+ - [Strava Is the Last Good Social Media App](https://www.wired.com/story/strava-race-denver-airport-last-good-place/)
  - [Hacking group ShinyHunters claims to have breached contractor EPAM Systems to steal data from Ticketmaster and ~165 other Snowflake users; EPAM denies the claim &lpar;Kim Zetter/Wired&rpar;](http://www.techmeme.com/240617/p10#a240617p10)
  - [OpenAI-Backed Nonprofits Have Gone Back on Their Transparency Pledges](https://www.wired.com/story/openai-backed-nonprofits-transparency-pledges/)
- - [Rudimentary RCS support is in the iOS 18 beta -- with some big caveats](https://appleinsider.com/articles/24/06/17/rudimentary-rcs-support-is-in-the-ios-18-beta----with-some-big-caveats?utm_medium=rss)
- - [How Terray Therapeutics uses AI to discover and develop drugs, generating 50TB of raw data daily, part of a wave of startups looking to harness AI in medicine &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/240617/p9#a240617p9)<!-- TECH:END -->
+ - [Rudimentary RCS support is in the iOS 18 beta -- with some big caveats](https://appleinsider.com/articles/24/06/17/rudimentary-rcs-support-is-in-the-ios-18-beta----with-some-big-caveats?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

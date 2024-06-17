@@ -162,9 +162,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
  - [Check out these new ‘HeatRisk’ tools to stay up to date on US heatwaves](https://www.theverge.com/2024/6/17/24093587/heatwave-forecast-health-risks-online-tool-national-weather-service-cdc)
  - [Real-time data analytics startup Tinybird raised a $30M Series B, at a &quot;significantly higher&quot; valuation than its $37M Series A; source: it&#39;s now valued at $240M &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/240617/p29#a240617p29)
- - [Starlink Mini Dish Release Appears to Be Imminent as New Images Surface     - CNET](https://www.cnet.com/tech/starlink-mini-dish-release-appears-to-be-imminent-as-new-images-surface/#ftag=CAD590a51e)
  - [Coinbase debuts &quot;pre-launch markets&quot; on its global and advanced exchanges outside the US, UK, and Canada, for positions on tokens before they hit spot exchanges &lpar;Lawrence Lewitinn/The Block&rpar;](http://www.techmeme.com/240617/p28#a240617p28)
  - [The Pixelbot 3000 turns simple AI prompts into Lego mosaic masterpieces](https://www.theverge.com/2024/6/17/24180250/lego-printer-pixel-art-artificial-intelligence)<!-- TECH:END -->
 

@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pepsi](http://9gag.com/gag/a9yP7Pm)
- - 😝 [Being an ATM til the end](http://9gag.com/gag/avyLnbn)
- - 💣 [A meme in it&#39;s natural habitat...](http://9gag.com/gag/a1mYXd8)
  - 😝 [I really hope this is true](http://9gag.com/gag/aVvXe0d)
- - 👉 [Just in case...](http://9gag.com/gag/a5QK77o)<!-- MEMES:END -->
+ - 😝 [I don&#39;t go abroad because there is no bidet.](http://9gag.com/gag/aAypwPp)
+ - 💣 [What are the odds?](http://9gag.com/gag/aMVQ8oW)
+ - 😝 [A meme in it&#39;s natural habitat...](http://9gag.com/gag/a1mYXd8)
+ - 👉 [Good job,we had time to take a look.](http://9gag.com/gag/aNDKKxK)<!-- MEMES:END -->
 
 ---
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WWDC 2024 Apple Home news roundup on the HomeKit Insider podcast](https://appleinsider.com/articles/24/06/17/wwdc-2024-apple-home-news-roundup-on-the-homekit-insider-podcast?utm_medium=rss)
+ - [Apple details how the Apple Podcast transcripts came to be](https://appleinsider.com/articles/24/06/17/apple-details-how-the-apple-podcast-transcripts-came-to-be?utm_medium=rss)
  - [Nintendo will detail its holiday 2024 Switch lineup in new Direct](https://www.theverge.com/2024/6/17/24175226/nintendo-direct-june-2024-switch-holiday-lineup)
  - [M4 Macs, iPhone 16, and more: What Apple has planned for the rest of 2024](https://appleinsider.com/articles/24/06/17/m4-macs-iphone-16-and-more-what-apple-has-planned-for-the-rest-of-2024?utm_medium=rss)
- - [Why Tubi CEO Anjali Sud thinks free TV can win again](https://www.theverge.com/24178580/tubi-ceo-free-tv-streaming-ads-decoder-podcast-interview)
- - [TikTok expands its Symphony ad suite, adding AI dubbing and custom or stock Digital Avatars based on paid actors or created to resemble specific creators &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240617/p16#a240617p16)
- - [Shortcuts are easier to make and more productive with iOS 18 redesign](https://appleinsider.com/articles/24/06/17/shortcuts-are-easier-to-make-and-more-productive-with-ios-18-redesign?utm_medium=rss)<!-- TECH:END -->
+ - [Why Tubi CEO Anjali Sud thinks free TV can win again](https://www.theverge.com/24178580/tubi-ceo-free-tv-streaming-ads-decoder-podcast-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

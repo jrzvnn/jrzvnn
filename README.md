@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple is shutting down Apple Pay Later just months after launch](https://www.theverge.com/2024/6/17/24180340/apple-pay-later-shutting-down-months-after-launch)
  - [Sonos says its privacy policy change wasn’t for dubious reasons](https://www.theverge.com/2024/6/17/24180295/sonos-privacy-policy-controversy-response-statement)
  - [Apple says it will no longer offer Apple Pay Later, the BNPL service launched in the US in 2023, and will focus on installment loan features coming this year &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240617/p23#a240617p23)
  - [A mystery Google gadget with 60GHz Soli radar just crossed the FCC](https://www.theverge.com/2024/6/17/24180262/google-fcc-wireless-device-60ghz-radar-leak)
- - [FTC targets Adobe for deceiving consumers about early termination fees](https://appleinsider.com/articles/24/06/17/ftc-targets-adobe-for-deceiving-consumers-about-early-termination-fees?utm_medium=rss)
- - [Finaloop, which offers accounting tools to e-commerce businesses, raised a $35M Series A led by Lightspeed and says its customer base grew 400% in the last year &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240617/p22#a240617p22)<!-- TECH:END -->
+ - [FTC targets Adobe for deceiving consumers about early termination fees](https://appleinsider.com/articles/24/06/17/ftc-targets-adobe-for-deceiving-consumers-about-early-termination-fees?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

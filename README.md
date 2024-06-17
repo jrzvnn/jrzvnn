@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is Apple Intelligence artificial?](https://appleinsider.com/articles/24/06/17/is-apple-intelligence-artificial?utm_medium=rss)
+ - [This loaded M2 Max MacBook Pro is $1,000 off, delivering the lowest price on record](https://appleinsider.com/articles/24/06/17/this-loaded-m2-max-macbook-pro-is-1000-off-delivering-the-lowest-price-on-record?utm_medium=rss)
+ - [The US DOJ sues Adobe for allegedly harming &quot;consumers by enrolling them in its default, most lucrative subscription plan without clearly disclosing&quot; plan terms &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240617/p19#a240617p19)
  - [M4 Macs, iPhone 16, and more: What Apple has planned for the rest of 2024](https://appleinsider.com/articles/24/06/17/m4-macs-iphone-16-and-more-what-apple-has-planned-for-the-rest-of-2024?utm_medium=rss)
- - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [The Samsung Galaxy Buds 2 Pro are selling for a new all-time low of $119.99](https://www.theverge.com/2024/6/17/24180018/samsung-galaxy-buds-2-pro-anc-earbuds-blink-mini-deal-sale)<!-- TECH:END -->
+ - [US sues Adobe for ‘deceiving’ subscriptions that are too hard to cancel](https://www.theverge.com/2024/6/17/24180196/adobe-us-ftc-doj-sues-subscriptions-cancel)
+ - [Is Apple Intelligence artificial?](https://appleinsider.com/articles/24/06/17/is-apple-intelligence-artificial?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

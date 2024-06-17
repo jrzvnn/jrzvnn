@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok expands its Symphony ad suite, adding AI dubbing and custom or stock Digital Avatars based on paid actors or created to resemble specific creators &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240617/p16#a240617p16)
+ - [Shortcuts are easier to make and more productive with iOS 18 redesign](https://appleinsider.com/articles/24/06/17/shortcuts-are-easier-to-make-and-more-productive-with-ios-18-redesign?utm_medium=rss)
  - [YouTube is testing Notes, an experimental crowdsourced tool to let users add context to videos, similar to X&#39;s Community Notes, on mobile in the US in English &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240617/p15#a240617p15)
  - [The US surgeon general wants tobacco-like warning labels on social media](https://www.theverge.com/2024/6/17/24180005/surgeon-general-warning-labels-social-media-mental-health)
- - [Review: WaterField Shinjuku iPad Messenger Bag](https://www.wired.com/review/waterfield-shinjuku-ipad-messenger-bag/)
- - [TikTok ads may soon contain AI-generated avatars of your favorite creators](https://www.theverge.com/2024/6/17/24179971/tiktok-ads-ai-generated-avatars-creators-language-dubbing)
- - [Should Expired Food Always Be Thrown Out? Here&#39;s What You Need to Know     - CNET](https://www.cnet.com/news/should-expired-food-always-be-thrown-out-heres-what-you-should-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Review: WaterField Shinjuku iPad Messenger Bag](https://www.wired.com/review/waterfield-shinjuku-ipad-messenger-bag/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -165,8 +165,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
  - [The Samsung Galaxy Buds 2 Pro are selling for a new all-time low of $119.99](https://www.theverge.com/2024/6/17/24180018/samsung-galaxy-buds-2-pro-anc-earbuds-blink-mini-deal-sale)
  - [19 Best Portable Battery Chargers &lpar;2024&rpar;: For Phones, iPads, Laptops, and Apple Watch](https://www.wired.com/gallery/best-portable-chargers-power-banks/)
- - [You&#39;re Reheating Steak Wrong. Here&#39;s How to Do It so It Doesn&#39;t Dry Out     - CNET](https://www.cnet.com/how-to/youre-reheating-steak-wrong-heres-how-to-do-it-so-it-doesnt-dry-out/#ftag=CAD590a51e)
- - [YouTube will soon ask audiences to add context to videos](https://www.theverge.com/2024/6/17/24180058/youtube-notes-test-community-sourced-context-videos)<!-- TECH:END -->
+ - [YouTube will soon ask audiences to add context to videos](https://www.theverge.com/2024/6/17/24180058/youtube-notes-test-community-sourced-context-videos)
+ - [How to change Siri&#39;s name in iOS 18 to anything you like with Vocal Shortcuts](https://appleinsider.com/inside/ios-18/tips/how-to-change-siris-name-in-ios-18-to-anything-you-like-with-vocal-shortcuts?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

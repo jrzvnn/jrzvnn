@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Black founders are creating AI models like ChatBlackGPT and Latimer.ai that cater to Black and brown communities, as current AI models lack cultural nuance &lpar;TechCrunch&rpar;](http://www.techmeme.com/240617/p2#a240617p2)
  - [Structure Research: tech companies&#39; data center plans in India will push the nation from the sixth place to the top spot in Asia Pacific for self-built capacity &lpar;Financial Times&rpar;](http://www.techmeme.com/240617/p1#a240617p1)
  - [&#39;House of the Dragon&#39; Season 2 Premiere Recap: Rage Unleashed in &#39;A Son for a Son&#39;     - CNET](https://www.cnet.com/tech/services-and-software/house-of-the-dragon-season-2-premiere-recap-rage-unleashed-in-a-son-for-a-son/#ftag=CAD590a51e)
  - [Sources: activist fund Starboard Value has taken a ~$500M stake in Autodesk and spoken to its board over concerns regarding a probe that led to its CFO&#39;s ouster &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/240616/p11#a240616p11)
- - [Sources: Wells Fargo&#39;s credit card with fintech startup Bilt, rewarding rent payments and gaining 1M+ signups in 18 months, costs the bank up to $10M per month &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240616/p10#a240616p10)
- - [Today&#39;s NYT Connections Hints, Answers and Help for June 17, #372     - CNET](https://www.cnet.com/tech/gaming/todays-nyt-connections-hint-answer-for-june-17-372/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Wells Fargo&#39;s credit card with fintech startup Bilt, rewarding rent payments and gaining 1M+ signups in 18 months, costs the bank up to $10M per month &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240616/p10#a240616p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

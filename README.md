@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Being an ATM til the end](http://9gag.com/gag/avyLnbn)
- - 😝 [Just in case...](http://9gag.com/gag/a5QK77o)
- - 💣 [When you trust your tofu building so much.](http://9gag.com/gag/aAyppQo)
- - 😝 [Ladies and Gentlemen... we got him &lpar;back&rpar;](http://9gag.com/gag/a5QKbeG)
- - 👉 [Sometimes you learn the hard way](http://9gag.com/gag/aD2mowG)<!-- MEMES:END -->
+ - 😝 [Florida USA](http://9gag.com/gag/a2vqqKd)
+ - 😝 [Tron wouldn&#39;t be so amazing without its music.](http://9gag.com/gag/azxVjzz)
+ - 💣 [Right in the white pants](http://9gag.com/gag/a9yP7MK)
+ - 😝 [Why?](http://9gag.com/gag/amo8YqV)
+ - 👉 [Some of you would still say would](http://9gag.com/gag/ayNnnvX)<!-- MEMES:END -->
 
 ---
 

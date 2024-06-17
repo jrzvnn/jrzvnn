@@ -171,10 +171,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [My fellow 30 years old virgin 9gaggers](http://9gag.com/gag/aNDKAyw)
  - 😝 [German man saves a little German boy who was being robbed and attacked by two subsaharans.](http://9gag.com/gag/aXPXwED)
- - 😝 [Sounds easy enough](http://9gag.com/gag/aByr8gO)
- - 💣 [Who would have thought?](http://9gag.com/gag/aMVQGxM)
- - 😝 [Coastguards of Greece](http://9gag.com/gag/a34LME3)
+ - 💣 [Good job,we had time to take a look.](http://9gag.com/gag/aNDKKxK)
+ - 😝 [What are the odds?](http://9gag.com/gag/aMVQ8oW)
  - 👉 [I really hope this is true](http://9gag.com/gag/aVvXe0d)<!-- MEMES:END -->
 
 ---

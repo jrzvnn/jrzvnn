@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rudimentary RCS support is in the iOS 18 beta -- with some big caveats](https://appleinsider.com/articles/24/06/17/rudimentary-rcs-support-is-in-the-ios-18-beta----with-some-big-caveats?utm_medium=rss)
  - [How Terray Therapeutics uses AI to discover and develop drugs, generating 50TB of raw data daily, part of a wave of startups looking to harness AI in medicine &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/240617/p9#a240617p9)
  - [Banks Are Finally Realizing What Climate Change Will Do to Housing](https://www.wired.com/story/banks-are-finally-realizing-what-climate-change-will-do-to-housing/)
  - [Kuo: the Apple Watch Series 10 will be thinner and its screen will grow from 41mm to 45mm and 45mm to 49mm; Apple will use 3D printing to make some components &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/240617/p8#a240617p8)
- - [Don&#39;t toss your Apple Watch away if you get a hard fall warning, like Steven Spielberg did](https://appleinsider.com/articles/24/06/16/steven-spielberg-rattled-by-false-hard-fall-apple-watch-warning?utm_medium=rss)
- - [Logitech unveils the MX Ink, a stylus for Meta Quest 2 and Quest 3, plus &quot;future headsets&quot;, the Quest&#39;s first third-party input device, shipping in September &lpar;Scott Hayden/Road to VR&rpar;](http://www.techmeme.com/240617/p7#a240617p7)<!-- TECH:END -->
+ - [Don&#39;t toss your Apple Watch away if you get a hard fall warning, like Steven Spielberg did](https://appleinsider.com/articles/24/06/16/steven-spielberg-rattled-by-false-hard-fall-apple-watch-warning?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

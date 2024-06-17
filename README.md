@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;House of the Dragon&#39; Season 2 Premiere Recap: Rage Unleashed in &#39;A Son for a Son&#39;     - CNET](https://www.cnet.com/tech/services-and-software/house-of-the-dragon-season-2-premiere-recap-rage-unleashed-in-a-son-for-a-son/#ftag=CAD590a51e)
  - [Sources: activist fund Starboard Value has taken a ~$500M stake in Autodesk and spoken to its board over concerns regarding a probe that led to its CFO&#39;s ouster &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/240616/p11#a240616p11)
  - [Sources: Wells Fargo&#39;s credit card with fintech startup Bilt, which gets points on rent payments and saw 1M+ signups in 18 months, costs the bank up to $10M/mo. &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240616/p10#a240616p10)
- - [With new logos for Siri and Apple Intelligence, Apple joins OpenAI and others in AI branding that is non-threatening, simple, and non-anthropomorphic &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/240616/p9#a240616p9)
- - [Survey: 52% of US and 63% of UK respondents say they would be uneasy with news produced mostly using AI; 59% worry about false news content online, up 3% YoY &lpar;Sheila Dang/Reuters&rpar;](http://www.techmeme.com/240616/p8#a240616p8)
- - [How Apple added support for automatic transcript generation in the Podcast app, a feature highly requested by both disabled users and podcast creators &lpar;Ari Saperstein/The Guardian&rpar;](http://www.techmeme.com/240616/p7#a240616p7)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for June 17, #372     - CNET](https://www.cnet.com/tech/gaming/todays-nyt-connections-hint-answer-for-june-17-372/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for June 17, #1094     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-and-answer-help-for-june-17-1094/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

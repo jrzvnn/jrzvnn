@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [German man saves a little German boy who was being robbed and attacked by two subsaharans.](http://9gag.com/gag/aXPXwED)
- - 😝 [Good job,we had time to take a look.](http://9gag.com/gag/aNDKKxK)
- - 💣 [Just in case...](http://9gag.com/gag/a5QK77o)
- - 😝 [Idiot driver ruins trip to Wendys](http://9gag.com/gag/axyGV81)
- - 👉 [Who would have thought?](http://9gag.com/gag/aMVQGxM)<!-- MEMES:END -->
+ - 😝 [Panic after getting into an accident](http://9gag.com/gag/aoyjpG2)
+ - 😝 [Just in case...](http://9gag.com/gag/a5QK77o)
+ - 💣 [Physics left the chat!](http://9gag.com/gag/azxVjVK)
+ - 😝 [Sometimes you learn the hard way](http://9gag.com/gag/aD2mowG)
+ - 👉 [So close...](http://9gag.com/gag/aXPXqDv)<!-- MEMES:END -->
 
 ---
 

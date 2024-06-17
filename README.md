@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Somewhere in a train station in Chile](http://9gag.com/gag/aryRgKy)
- - 😝 [Dunno which is stupider, throwing away a drink that you bought or smashing someone&#39;s windshield in front of a camera.](http://9gag.com/gag/ae9pbnb)
- - 💣 [The only thing holding the structure is paint](http://9gag.com/gag/axyG0xb)
- - 😝 [Jet Ski Driver Dodged Shockwave by Jumping into Water Just in Time After Explosion in Beirut!](http://9gag.com/gag/aByr8mO)
- - 👉 [Comparing body count](http://9gag.com/gag/aVvXM4d)<!-- MEMES:END -->
+ - 😝 [So close...](http://9gag.com/gag/aXPXqDv)
+ - 😝 [The only thing holding the structure is paint](http://9gag.com/gag/axyG0xb)
+ - 💣 [Would you still have eaten it?](http://9gag.com/gag/ae9pMQp)
+ - 😝 [A star is born](http://9gag.com/gag/a2vq431)
+ - 👉 [Jet Ski Driver Dodged Shockwave by Jumping into Water Just in Time After Explosion in Beirut!](http://9gag.com/gag/aByr8mO)<!-- MEMES:END -->
 
 ---
 

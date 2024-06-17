@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I really hope this is true](http://9gag.com/gag/aVvXe0d)
- - 😝 [The liberal left vs the conservative right](http://9gag.com/gag/a0eY5jZ)
- - 💣 [I don&#39;t go abroad because there is no bidet.](http://9gag.com/gag/aAypwPp)
- - 😝 [A meme in it&#39;s natural habitat...](http://9gag.com/gag/a1mYXd8)
- - 👉 [So close...](http://9gag.com/gag/aXPXqDv)<!-- MEMES:END -->
+ - 😝 [I don&#39;t go abroad because there is no bidet.](http://9gag.com/gag/aAypwPp)
+ - 😝 [The only thing holding the structure is paint](http://9gag.com/gag/axyG0xb)
+ - 💣 [Sounds easy enough](http://9gag.com/gag/aByr8gO)
+ - 😝 [So close...](http://9gag.com/gag/aXPXqDv)
+ - 👉 [Dunno which is stupider, throwing away a drink that you bought or smashing someone&#39;s windshield in front of a camera.](http://9gag.com/gag/ae9pbnb)<!-- MEMES:END -->
 
 ---
 

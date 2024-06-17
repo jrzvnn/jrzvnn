@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Coinbase debuts &quot;pre-launch markets&quot; on its global and advanced exchanges outside the US, UK, and Canada, for positions on tokens before they hit spot exchanges &lpar;Lawrence Lewitinn/The Block&rpar;](http://www.techmeme.com/240617/p28#a240617p28)
+ - [The Pixelbot 3000 turns simple AI prompts into Lego mosaic masterpieces](https://www.theverge.com/2024/6/17/24180250/lego-printer-pixel-art-artificial-intelligence)
  - [Sleep Number finally offers an affordable smart mattress](https://www.theverge.com/2024/6/17/24180247/sleep-number-c1-smart-bed-eight-sleep-smart-home)
- - [Microsoft says the latest version of Windows 11, version 24H2 now in the Release Preview Channel, is &quot;only available for Copilot+ PCs devices&quot; &lpar;Mark Hachman/PCWorld&rpar;](http://www.techmeme.com/240617/p27#a240617p27)
- - [Pentax’s new $500 film camera prioritizes style over quality](https://www.theverge.com/2024/6/17/24178347/pentax-17-35mm-film-analog-half-frame-camera-announcement-price-specs)
- - [How Apple will label AI-generated images made with Image Playground](https://appleinsider.com/articles/24/06/17/how-apple-will-label-ai-generated-images-made-with-image-playground?utm_medium=rss)
- - [Tether, the top stablecoin provider, says it made a new synthetic dollar that is backed by gold and will trade as aUSDT via smart contracts on Ethereum Mainnet &lpar;Mar&amp;iacute;a Paula Mijares Torres/Bloomberg&rpar;](http://www.techmeme.com/240617/p26#a240617p26)<!-- TECH:END -->
+ - [Apple Pay Later Is Shutting Down, Report Says     - CNET](https://www.cnet.com/tech/services-and-software/apple-pay-later-is-shutting-down-report-says/#ftag=CAD590a51e)
+ - [Microsoft says the latest version of Windows 11, version 24H2 now in the Release Preview Channel, is &quot;only available for Copilot+ PCs devices&quot; &lpar;Mark Hachman/PCWorld&rpar;](http://www.techmeme.com/240617/p27#a240617p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

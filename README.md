@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What are the odds?](http://9gag.com/gag/aMVQ8oW)
- - 😝 [Human pandas](http://9gag.com/gag/aRBVKGQ)
- - 💣 [The strongest female characters in fiction](http://9gag.com/gag/aqy21NP)
+ - 😝 [The liberal left vs the conservative right](http://9gag.com/gag/a0eY5jZ)
  - 😝 [So close...](http://9gag.com/gag/aXPXqDv)
- - 👉 [This multi-purpose wheelbarrow](http://9gag.com/gag/aD2mzGN)<!-- MEMES:END -->
+ - 💣 [Dunno which is stupider, throwing away a drink that you bought or smashing someone&#39;s windshield in front of a camera.](http://9gag.com/gag/ae9pbnb)
+ - 😝 [Who would have thought?](http://9gag.com/gag/aMVQGxM)
+ - 👉 [What are the odds?](http://9gag.com/gag/aMVQ8oW)<!-- MEMES:END -->
 
 ---
 

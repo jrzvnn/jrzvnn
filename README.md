@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The liberal left vs the conservative right](http://9gag.com/gag/a0eY5jZ)
- - 😝 [So close...](http://9gag.com/gag/aXPXqDv)
- - 💣 [Dunno which is stupider, throwing away a drink that you bought or smashing someone&#39;s windshield in front of a camera.](http://9gag.com/gag/ae9pbnb)
+ - 😝 [I really hope this is true](http://9gag.com/gag/aVvXe0d)
+ - 😝 [Sometimes you learn the hard way](http://9gag.com/gag/aD2mowG)
+ - 💣 [A meme in it&#39;s natural habitat...](http://9gag.com/gag/a1mYXd8)
  - 😝 [Who would have thought?](http://9gag.com/gag/aMVQGxM)
- - 👉 [What are the odds?](http://9gag.com/gag/aMVQ8oW)<!-- MEMES:END -->
+ - 👉 [Dunno which is stupider, throwing away a drink that you bought or smashing someone&#39;s windshield in front of a camera.](http://9gag.com/gag/ae9pbnb)<!-- MEMES:END -->
 
 ---
 

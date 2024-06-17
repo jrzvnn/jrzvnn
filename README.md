@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tether, the top stablecoin provider, says it made a new synthetic dollar that is backed by gold and will trade as aUSDT via smart contracts on Ethereum Mainnet &lpar;Mar&amp;iacute;a Paula Mijares Torres/Bloomberg&rpar;](http://www.techmeme.com/240617/p26#a240617p26)
+ - [Microsoft says the latest version of Windows 11, version 24H2 now in the Release Preview Channel, is &quot;only available for Copilot+ PCs devices&quot; &lpar;Mark Hachman/PCWorld&rpar;](http://www.techmeme.com/240617/p27#a240617p27)
+ - [Pentax’s new 35mm film camera prioritizes style over quality](https://www.theverge.com/2024/6/17/24178347/pentax-17-35mm-film-analog-half-frame-camera-announcement-price-specs)
  - [How Apple will label AI-generated images made with Image Playground](https://appleinsider.com/articles/24/06/17/how-apple-will-label-ai-generated-images-made-with-image-playground?utm_medium=rss)
- - [Mandiant: up to 10 companies breached in a campaign targeting Snowflake customers have been extorted with stolen data and face ransom demands from $300K to $5M &lpar;Bloomberg&rpar;](http://www.techmeme.com/240617/p25#a240617p25)
- - [T-Mobile asked to stop advertising ‘price lock’ guarantee that doesn’t lock your prices](https://www.theverge.com/2024/6/17/24180177/t-mobile-price-lock-stop-advertising-5g-home-internet-service)
- - [Apple’s fancy new CarPlay will only work wirelessly](https://www.theverge.com/2024/6/17/24180353/apple-carplay-wireless-system-features)<!-- TECH:END -->
+ - [Tether, the top stablecoin provider, says it made a new synthetic dollar that is backed by gold and will trade as aUSDT via smart contracts on Ethereum Mainnet &lpar;Mar&amp;iacute;a Paula Mijares Torres/Bloomberg&rpar;](http://www.techmeme.com/240617/p26#a240617p26)
+ - [Mandiant: up to 10 companies breached in a campaign targeting Snowflake customers have been extorted with stolen data and face ransom demands from $300K to $5M &lpar;Bloomberg&rpar;](http://www.techmeme.com/240617/p25#a240617p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

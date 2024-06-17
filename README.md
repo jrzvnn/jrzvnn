@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The only thing holding the structure is paint](http://9gag.com/gag/axyG0xb)
  - 😝 [German man saves a little German boy who was being robbed and attacked by two subsaharans.](http://9gag.com/gag/aXPXwED)
- - 😝 [I don&#39;t understand what she wanted to do](http://9gag.com/gag/a34LK18)
- - 💣 [So close...](http://9gag.com/gag/aXPXqDv)
+ - 💣 [I don&#39;t go abroad because there is no bidet.](http://9gag.com/gag/aAypwPp)
  - 😝 [Jet Ski Driver Dodged Shockwave by Jumping into Water Just in Time After Explosion in Beirut!](http://9gag.com/gag/aByr8mO)
- - 👉 [The only thing holding the structure is paint](http://9gag.com/gag/axyG0xb)<!-- MEMES:END -->
+ - 👉 [So close...](http://9gag.com/gag/aXPXqDv)<!-- MEMES:END -->
 
 ---
 

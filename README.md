@@ -172,10 +172,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [I really hope this is true](http://9gag.com/gag/aVvXe0d)
- - 😝 [Dunno which is stupider, throwing away a drink that you bought or smashing someone&#39;s windshield in front of a camera.](http://9gag.com/gag/ae9pbnb)
- - 💣 [What are the odds?](http://9gag.com/gag/aMVQ8oW)
- - 😝 [German man saves a little German boy who was being robbed and attacked by two subsaharans.](http://9gag.com/gag/aXPXwED)
- - 👉 [Who would have thought?](http://9gag.com/gag/aMVQGxM)<!-- MEMES:END -->
+ - 😝 [The liberal left vs the conservative right](http://9gag.com/gag/a0eY5jZ)
+ - 💣 [I don&#39;t go abroad because there is no bidet.](http://9gag.com/gag/aAypwPp)
+ - 😝 [A meme in it&#39;s natural habitat...](http://9gag.com/gag/a1mYXd8)
+ - 👉 [So close...](http://9gag.com/gag/aXPXqDv)<!-- MEMES:END -->
 
 ---
 

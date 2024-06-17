@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Special WWDC Edition: Interviewing MacPaw&#39;s Oleksandr Kosovan on the AppleInsider Podcast](https://appleinsider.com/articles/24/06/15/special-wwdc-edition-interviewing-setapp-developer-oleksandr-kosovan-on-the-appleinsider-podcast?utm_medium=rss)
  - [Interviews with ~12 sources detail Google&#39;s decision to create the Google DeepMind &quot;super-unit&quot; in April 2023, shifting the AI lab from research to products &lpar;Bloomberg&rpar;](http://www.techmeme.com/240617/p14#a240617p14)
  - [Vietnam&#39;s state media says three of its five active international undersea internet cables are down, impacting connections with the US, Europe, and Asia &lpar;Khanh Vu/Reuters&rpar;](http://www.techmeme.com/240617/p13#a240617p13)
  - [Orkut’s Founder Is Still Dreaming of a Social Media Utopia](https://www.wired.com/story/orkut-founder-social-media-utopia/)
- - [Nikon’s new $2,500 Z6 III has the world’s first partially stacked CMOS sensor](https://www.theverge.com/2024/6/17/24178637/nikons-new-2500-z6-iii-has-the-worlds-first-partially-stacked-cmos-sensor)
- - [Firefighter credits Apple Watch for life-saving intervention](https://appleinsider.com/articles/24/06/16/firefighter-credits-apple-watch-for-live-saving-intervention?utm_medium=rss)<!-- TECH:END -->
+ - [Nikon’s new $2,500 Z6 III has the world’s first partially stacked CMOS sensor](https://www.theverge.com/2024/6/17/24178637/nikons-new-2500-z6-iii-has-the-worlds-first-partially-stacked-cmos-sensor)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

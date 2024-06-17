@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Firefighter credits Apple Watch for life-saving intervention](https://appleinsider.com/articles/24/06/16/firefighter-credits-apple-watch-for-live-saving-intervention?utm_medium=rss)
+ - [Swiss privacy-focused app developer Proton establishes the Proton Foundation to transition to a nonprofit foundation model, similar to Signal and Mozilla &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240617/p12#a240617p12)
+ - [Xgrid lives -- a new project resurrects the promise of Apple&#39;s dead clustering software](https://appleinsider.com/articles/24/06/17/xgrid-lives----a-new-project-resurrects-the-promise-of-apples-dead-clustering-software?utm_medium=rss)
  - [The US Surgeon General says platforms should add a &quot;warning label&quot; saying that &quot;social media is associated with significant mental health harms for adolescents&quot; &lpar;Vivek H. Murthy/New York Times&rpar;](http://www.techmeme.com/240617/p11#a240617p11)
- - [Strava Is the Last Good Social Media App](https://www.wired.com/story/strava-race-denver-airport-last-good-place/)
- - [Hacking group ShinyHunters claims to have breached contractor EPAM Systems to steal data from Ticketmaster and ~165 other Snowflake users; EPAM denies the claim &lpar;Kim Zetter/Wired&rpar;](http://www.techmeme.com/240617/p10#a240617p10)
- - [OpenAI-Backed Nonprofits Have Gone Back on Their Transparency Pledges](https://www.wired.com/story/openai-backed-nonprofits-transparency-pledges/)
- - [Rudimentary RCS support is in the iOS 18 beta -- with some big caveats](https://appleinsider.com/articles/24/06/17/rudimentary-rcs-support-is-in-the-ios-18-beta----with-some-big-caveats?utm_medium=rss)<!-- TECH:END -->
+ - [Strava Is the Last Good Social Media App](https://www.wired.com/story/strava-race-denver-airport-last-good-place/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

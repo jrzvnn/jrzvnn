@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Real-time data analytics startup Tinybird raised a $30M Series B, at a &quot;significantly higher&quot; valuation than its $37M Series A; source: it&#39;s now valued at $240M &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/240617/p29#a240617p29)
  - [Coinbase debuts &quot;pre-launch markets&quot; on its global and advanced exchanges outside the US, UK, and Canada, for positions on tokens before they hit spot exchanges &lpar;Lawrence Lewitinn/The Block&rpar;](http://www.techmeme.com/240617/p28#a240617p28)
  - [The Pixelbot 3000 turns simple AI prompts into Lego mosaic masterpieces](https://www.theverge.com/2024/6/17/24180250/lego-printer-pixel-art-artificial-intelligence)
  - [Sleep Number finally offers an affordable smart mattress](https://www.theverge.com/2024/6/17/24180247/sleep-number-c1-smart-bed-eight-sleep-smart-home)
- - [Apple Pay Later Is Shutting Down, Report Says     - CNET](https://www.cnet.com/tech/services-and-software/apple-pay-later-is-shutting-down-report-says/#ftag=CAD590a51e)
- - [Microsoft says the latest version of Windows 11, version 24H2 now in the Release Preview Channel, is &quot;only available for Copilot+ PCs devices&quot; &lpar;Mark Hachman/PCWorld&rpar;](http://www.techmeme.com/240617/p27#a240617p27)<!-- TECH:END -->
+ - [Apple Pay Later Is Shutting Down, Report Says     - CNET](https://www.cnet.com/tech/services-and-software/apple-pay-later-is-shutting-down-report-says/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

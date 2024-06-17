@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [M4 Macs, iPhone 16, and more: What Apple has planned for the rest of 2024](https://appleinsider.com/articles/24/06/17/m4-macs-iphone-16-and-more-what-apple-has-planned-for-the-rest-of-2024?utm_medium=rss)
  - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
  - [The Samsung Galaxy Buds 2 Pro are selling for a new all-time low of $119.99](https://www.theverge.com/2024/6/17/24180018/samsung-galaxy-buds-2-pro-anc-earbuds-blink-mini-deal-sale)
  - [19 Best Portable Battery Chargers &lpar;2024&rpar;: For Phones, iPads, Laptops, and Apple Watch](https://www.wired.com/gallery/best-portable-chargers-power-banks/)
- - [YouTube will soon ask audiences to add context to videos](https://www.theverge.com/2024/6/17/24180058/youtube-notes-test-community-sourced-context-videos)
- - [How to change Siri&#39;s name in iOS 18 to anything you like with Vocal Shortcuts](https://appleinsider.com/inside/ios-18/tips/how-to-change-siris-name-in-ios-18-to-anything-you-like-with-vocal-shortcuts?utm_medium=rss)<!-- TECH:END -->
+ - [YouTube will soon ask audiences to add context to videos](https://www.theverge.com/2024/6/17/24180058/youtube-notes-test-community-sourced-context-videos)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

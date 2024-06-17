@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [German man saves a little German boy who was being robbed and attacked by two subsaharans.](http://9gag.com/gag/aXPXwED)
- - 😝 [Just in case...](http://9gag.com/gag/a5QK77o)
- - 💣 [And the Oscar goes to...](http://9gag.com/gag/adBpjYN)
- - 😝 [Ladies and Gentlemen... we got him &lpar;back&rpar;](http://9gag.com/gag/a5QKbeG)
- - 👉 [Who would have thought?](http://9gag.com/gag/aMVQGxM)<!-- MEMES:END -->
+ - 😝 [Being an ATM til the end](http://9gag.com/gag/avyLnbn)
+ - 😝 [Andhra Tribe Share Local Knowledge - A Tree That Stores Water, This phenomenon was not known to the forest officials](http://9gag.com/gag/aMVQGzR)
+ - 💣 [You know that was comming...](http://9gag.com/gag/agmNNqr)
+ - 😝 [I really hope this is true](http://9gag.com/gag/aVvXe0d)
+ - 👉 [Good job,we had time to take a look.](http://9gag.com/gag/aNDKKxK)<!-- MEMES:END -->
 
 ---
 

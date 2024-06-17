@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [The Samsung Galaxy Buds 2 Pro are selling for a new all-time low of $119.99](https://www.theverge.com/2024/6/17/24180018/samsung-galaxy-buds-2-pro-anc-earbuds-blink-mini-deal-sale)
  - [19 Best Portable Battery Chargers &lpar;2024&rpar;: For Phones, iPads, Laptops, and Apple Watch](https://www.wired.com/gallery/best-portable-chargers-power-banks/)
- - [YouTube will soon ask audiences to add context to videos](https://www.theverge.com/2024/6/17/24180058/youtube-notes-test-community-sourced-context-videos)
- - [How to change Siri&#39;s name in iOS 18 to anything you like with Vocal Shortcuts](https://appleinsider.com/inside/ios-18/tips/how-to-change-siris-name-in-ios-18-to-anything-you-like-with-vocal-shortcuts?utm_medium=rss)
- - [Naver-owned online comics platform Webtoon aims to raise up to $315M in a US IPO, offering shares for $18 to $21 each and targeting an up to $2.67B valuation &lpar;Arasu Kannagi Basil/Reuters&rpar;](http://www.techmeme.com/240617/p18#a240617p18)
- - [Runway unveils Gen-3 Alpha, a model to generate high-quality, detailed, highly realistic video clips of 10 seconds in length, after releasing Gen-2 in June 2023 &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240617/p17#a240617p17)<!-- TECH:END -->
+ - [You&#39;re Reheating Steak Wrong. Here&#39;s How to Do It so It Doesn&#39;t Dry Out     - CNET](https://www.cnet.com/how-to/youre-reheating-steak-wrong-heres-how-to-do-it-so-it-doesnt-dry-out/#ftag=CAD590a51e)
+ - [YouTube will soon ask audiences to add context to videos](https://www.theverge.com/2024/6/17/24180058/youtube-notes-test-community-sourced-context-videos)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

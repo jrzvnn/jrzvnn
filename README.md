@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Being an ATM til the end](http://9gag.com/gag/avyLnbn)
- - 😝 [Andhra Tribe Share Local Knowledge - A Tree That Stores Water, This phenomenon was not known to the forest officials](http://9gag.com/gag/aMVQGzR)
- - 💣 [You know that was comming...](http://9gag.com/gag/agmNNqr)
- - 😝 [I really hope this is true](http://9gag.com/gag/aVvXe0d)
- - 👉 [Good job,we had time to take a look.](http://9gag.com/gag/aNDKKxK)<!-- MEMES:END -->
+ - 😝 [A very beautiful Czech policewoman](http://9gag.com/gag/a9yPLGZ)
+ - 😝 [Ladies and Gentlemen... we got him &lpar;back&rpar;](http://9gag.com/gag/a5QKbeG)
+ - 💣 [Oof](http://9gag.com/gag/ae9ppoq)
+ - 😝 [Who would have thought?](http://9gag.com/gag/aMVQGxM)
+ - 👉 [I really hope this is true](http://9gag.com/gag/aVvXe0d)<!-- MEMES:END -->
 
 ---
 

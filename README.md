@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I really hope this is true](http://9gag.com/gag/aVvXe0d)
+ - 😝 [Dunno which is stupider, throwing away a drink that you bought or smashing someone&#39;s windshield in front of a camera.](http://9gag.com/gag/ae9pbnb)
+ - 💣 [What are the odds?](http://9gag.com/gag/aMVQ8oW)
  - 😝 [German man saves a little German boy who was being robbed and attacked by two subsaharans.](http://9gag.com/gag/aXPXwED)
- - 😝 [So close...](http://9gag.com/gag/aXPXqDv)
- - 💣 [Just in case...](http://9gag.com/gag/a5QK77o)
- - 😝 [A star is born](http://9gag.com/gag/a2vq431)
- - 👉 [A short story titled `NAFO`](http://9gag.com/gag/a2vqm5Z)<!-- MEMES:END -->
+ - 👉 [Who would have thought?](http://9gag.com/gag/aMVQGxM)<!-- MEMES:END -->
 
 ---
 

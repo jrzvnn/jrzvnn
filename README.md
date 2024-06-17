@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A very beautiful Czech policewoman](http://9gag.com/gag/a9yPLGZ)
+ - 😝 [Being an ATM til the end](http://9gag.com/gag/avyLnbn)
+ - 😝 [Just in case...](http://9gag.com/gag/a5QK77o)
+ - 💣 [When you trust your tofu building so much.](http://9gag.com/gag/aAyppQo)
  - 😝 [Ladies and Gentlemen... we got him &lpar;back&rpar;](http://9gag.com/gag/a5QKbeG)
- - 💣 [Oof](http://9gag.com/gag/ae9ppoq)
- - 😝 [Who would have thought?](http://9gag.com/gag/aMVQGxM)
- - 👉 [I really hope this is true](http://9gag.com/gag/aVvXe0d)<!-- MEMES:END -->
+ - 👉 [Sometimes you learn the hard way](http://9gag.com/gag/aD2mowG)<!-- MEMES:END -->
 
 ---
 

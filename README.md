@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I don&#39;t go abroad because there is no bidet.](http://9gag.com/gag/aAypwPp)
- - 😝 [Sometimes you learn the hard way](http://9gag.com/gag/aD2mowG)
+ - 😝 [German man saves a little German boy who was being robbed and attacked by two subsaharans.](http://9gag.com/gag/aXPXwED)
+ - 😝 [Sounds easy enough](http://9gag.com/gag/aByr8gO)
  - 💣 [Who would have thought?](http://9gag.com/gag/aMVQGxM)
- - 😝 [So close...](http://9gag.com/gag/aXPXqDv)
- - 👉 [Beautiful welding](http://9gag.com/gag/aLnB8gW)<!-- MEMES:END -->
+ - 😝 [Coastguards of Greece](http://9gag.com/gag/a34LME3)
+ - 👉 [I really hope this is true](http://9gag.com/gag/aVvXe0d)<!-- MEMES:END -->
 
 ---
 

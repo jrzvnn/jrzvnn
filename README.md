@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I don&#39;t go abroad because there is no bidet.](http://9gag.com/gag/aAypwPp)
- - 😝 [A meme in it&#39;s natural habitat...](http://9gag.com/gag/a1mYXd8)
- - 💣 [I really hope this is true](http://9gag.com/gag/aVvXe0d)
- - 😝 [Who would have thought?](http://9gag.com/gag/aMVQGxM)
- - 👉 [Good job,we had time to take a look.](http://9gag.com/gag/aNDKKxK)<!-- MEMES:END -->
+ - 😝 [Knockout](http://9gag.com/gag/a1mYM2D)
+ - 😝 [Oof](http://9gag.com/gag/ae9ppoq)
+ - 💣 [Good job,we had time to take a look.](http://9gag.com/gag/aNDKKxK)
+ - 😝 [Just in case...](http://9gag.com/gag/a5QK77o)
+ - 👉 [A meme in it&#39;s natural habitat...](http://9gag.com/gag/a1mYXd8)<!-- MEMES:END -->
 
 ---
 

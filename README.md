@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Good job,we had time to take a look.](http://9gag.com/gag/aNDKKxK)
+ - 😝 [Idiot driver ruins trip to Wendys](http://9gag.com/gag/axyGV81)
+ - 💣 [Just in case...](http://9gag.com/gag/a5QK77o)
  - 😝 [I really hope this is true](http://9gag.com/gag/aVvXe0d)
- - 😝 [A meme in it&#39;s natural habitat...](http://9gag.com/gag/a1mYXd8)
- - 💣 [Who would have thought?](http://9gag.com/gag/aMVQGxM)
- - 😝 [Just in case...](http://9gag.com/gag/a5QK77o)
- - 👉 [Good job,we had time to take a look.](http://9gag.com/gag/aNDKKxK)<!-- MEMES:END -->
+ - 👉 [German man saves a little German boy who was being robbed and attacked by two subsaharans.](http://9gag.com/gag/aXPXwED)<!-- MEMES:END -->
 
 ---
 

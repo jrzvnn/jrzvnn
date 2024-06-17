@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Firefighter credits Apple Watch for life-saving intervention](https://appleinsider.com/articles/24/06/16/firefighter-credits-apple-watch-for-live-saving-intervention?utm_medium=rss)
- - [Swiss privacy-focused app developer Proton establishes the Proton Foundation to transition to a nonprofit foundation model, similar to Signal and Mozilla &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240617/p12#a240617p12)
- - [Xgrid lives -- a new project resurrects the promise of Apple&#39;s dead clustering software](https://appleinsider.com/articles/24/06/17/xgrid-lives----a-new-project-resurrects-the-promise-of-apples-dead-clustering-software?utm_medium=rss)
- - [The US Surgeon General says platforms should add a &quot;warning label&quot; saying that &quot;social media is associated with significant mental health harms for adolescents&quot; &lpar;Vivek H. Murthy/New York Times&rpar;](http://www.techmeme.com/240617/p11#a240617p11)
- - [Strava Is the Last Good Social Media App](https://www.wired.com/story/strava-race-denver-airport-last-good-place/)<!-- TECH:END -->
+ - [Interviews with ~12 sources detail Google&#39;s decision to create the Google DeepMind &quot;super-unit&quot; in April 2023, shifting the AI lab from research to products &lpar;Bloomberg&rpar;](http://www.techmeme.com/240617/p14#a240617p14)
+ - [Vietnam&#39;s state media says three of its five active international undersea internet cables are down, impacting connections with the US, Europe, and Asia &lpar;Khanh Vu/Reuters&rpar;](http://www.techmeme.com/240617/p13#a240617p13)
+ - [Orkut’s Founder Is Still Dreaming of a Social Media Utopia](https://www.wired.com/story/orkut-founder-social-media-utopia/)
+ - [Nikon’s new $2,500 Z6 III has the world’s first partially stacked CMOS sensor](https://www.theverge.com/2024/6/17/24178637/nikons-new-2500-z6-iii-has-the-worlds-first-partially-stacked-cmos-sensor)
+ - [Firefighter credits Apple Watch for life-saving intervention](https://appleinsider.com/articles/24/06/16/firefighter-credits-apple-watch-for-live-saving-intervention?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

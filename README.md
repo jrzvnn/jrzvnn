@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good job,we had time to take a look.](http://9gag.com/gag/aNDKKxK)
- - 😝 [Idiot driver ruins trip to Wendys](http://9gag.com/gag/axyGV81)
- - 💣 [Just in case...](http://9gag.com/gag/a5QK77o)
+ - 😝 [Sometimes you learn the hard way](http://9gag.com/gag/aD2mowG)
  - 😝 [I really hope this is true](http://9gag.com/gag/aVvXe0d)
- - 👉 [German man saves a little German boy who was being robbed and attacked by two subsaharans.](http://9gag.com/gag/aXPXwED)<!-- MEMES:END -->
+ - 💣 [I don&#39;t go abroad because there is no bidet.](http://9gag.com/gag/aAypwPp)
+ - 😝 [So close...](http://9gag.com/gag/aXPXqDv)
+ - 👉 [Just in case...](http://9gag.com/gag/a5QK77o)<!-- MEMES:END -->
 
 ---
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Logitech unveils the MX Ink, a $130 stylus coming in September for the Meta Quest 2, Quest 3, and &quot;future headsets&quot;, the Quest&#39;s first third-party input device &lpar;Scott Stein/CNET&rpar;](http://www.techmeme.com/240617/p20#a240617p20)
  - [Logitech’s first Meta Quest stylus helps artists work in 3D](https://www.theverge.com/2024/6/17/24180060/logitech-mx-ink-stylus-meta-quest-vr-ar)
  - [This loaded M2 Max MacBook Pro is $1,000 off, delivering the lowest price on record](https://appleinsider.com/articles/24/06/17/this-loaded-m2-max-macbook-pro-is-1000-off-delivering-the-lowest-price-on-record?utm_medium=rss)
  - [The US DOJ sues Adobe for allegedly harming &quot;consumers by enrolling them in its default, most lucrative subscription plan without clearly disclosing&quot; plan terms &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240617/p19#a240617p19)
- - [M4 Macs, iPhone 16, and more: What Apple has planned for the rest of 2024](https://appleinsider.com/articles/24/06/17/m4-macs-iphone-16-and-more-what-apple-has-planned-for-the-rest-of-2024?utm_medium=rss)
- - [US sues Adobe for ‘deceiving’ subscriptions that are too hard to cancel](https://www.theverge.com/2024/6/17/24180196/adobe-us-ftc-doj-sues-subscriptions-cancel)<!-- TECH:END -->
+ - [M4 Macs, iPhone 16, and more: What Apple has planned for the rest of 2024](https://appleinsider.com/articles/24/06/17/m4-macs-iphone-16-and-more-what-apple-has-planned-for-the-rest-of-2024?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

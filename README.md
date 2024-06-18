@@ -175,7 +175,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Sand people logic](http://9gag.com/gag/adBp9YN)
  - 💣 [Three for the same price!](http://9gag.com/gag/a2vqo81)
  - 😝 [Sounds easy enough](http://9gag.com/gag/aByr8gO)
- - 👉 [Coastguards of Greece](http://9gag.com/gag/a34LME3)<!-- MEMES:END -->
+ - 👉 [Thank god we have paper straws](http://9gag.com/gag/aW4O1QA)<!-- MEMES:END -->
 
 ---
 

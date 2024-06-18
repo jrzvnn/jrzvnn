@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So close...](http://9gag.com/gag/aXPXqDv)
- - 😝 [The only thing holding the structure is paint](http://9gag.com/gag/axyG0xb)
- - 💣 [Would you still have eaten it?](http://9gag.com/gag/ae9pMQp)
- - 😝 [A star is born](http://9gag.com/gag/a2vq431)
- - 👉 [Jet Ski Driver Dodged Shockwave by Jumping into Water Just in Time After Explosion in Beirut!](http://9gag.com/gag/aByr8mO)<!-- MEMES:END -->
+ - 😝 [Never trust people who cry for the camera and choose to post it....](http://9gag.com/gag/a4PLbey)
+ - 😝 [Sand people logic](http://9gag.com/gag/adBp9YN)
+ - 💣 [Three for the same price!](http://9gag.com/gag/a2vqo81)
+ - 😝 [Sounds easy enough](http://9gag.com/gag/aByr8gO)
+ - 👉 [Coastguards of Greece](http://9gag.com/gag/a34LME3)<!-- MEMES:END -->
 
 ---
 

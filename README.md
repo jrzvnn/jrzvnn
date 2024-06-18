@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I just leave this here.](http://9gag.com/gag/a9yPK3m)
- - 😝 [Killing In The Name but with Shamisen](http://9gag.com/gag/aNDKg00)
- - 💣 [Bro, he lost the fight and his dignity](http://9gag.com/gag/a1mYWZv)
- - 😝 [UK What Happened?](http://9gag.com/gag/aKGBd5b)
- - 👉 [Gotta love the rangers](http://9gag.com/gag/apRBmjb)<!-- MEMES:END -->
+ - 😝 [What are the odds?](http://9gag.com/gag/aMVQ8oW)
+ - 😝 [Anime recommendations](http://9gag.com/gag/a2vqZje)
+ - 💣 [Comparing body count](http://9gag.com/gag/aVvXM4d)
+ - 😝 [JURATHICC WORLD !](http://9gag.com/gag/a34LK8N)
+ - 👉 [Oh my ... !](http://9gag.com/gag/aByrm2A)<!-- MEMES:END -->
 
 ---
 

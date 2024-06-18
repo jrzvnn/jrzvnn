@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Anime recommendations](http://9gag.com/gag/a2vqZje)
- - 😝 [Work hard, not smart](http://9gag.com/gag/awy7B0R)
- - 💣 [I just leave this here.](http://9gag.com/gag/a9yPK3m)
- - 😝 [Bro, he lost the fight and his dignity](http://9gag.com/gag/a1mYWZv)
- - 👉 [Gotta love the rangers](http://9gag.com/gag/apRBmjb)<!-- MEMES:END -->
+ - 😝 [Jet Ski Driver Dodged Shockwave by Jumping into Water Just in Time After Explosion in Beirut!](http://9gag.com/gag/aByr8mO)
+ - 😝 [300 day&#39;s](http://9gag.com/gag/a5QKRpG)
+ - 💣 [JURATHICC WORLD !](http://9gag.com/gag/a34LK8N)
+ - 😝 [Oh my ... !](http://9gag.com/gag/aByrm2A)
+ - 👉 [Would you still have eaten it?](http://9gag.com/gag/ae9pMQp)<!-- MEMES:END -->
 
 ---
 

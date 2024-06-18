@@ -164,9 +164,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Q&amp;A with Tubi CEO Anjali Sud, who joined from Vimeo in September 2023, on the streaming industry, working within Fox, subscription fatigue, copyright, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240617/p33#a240617p33)
  - [Constructor, which provides an AI-powered product discovery and search service for e-commerce companies, raised a $25M Series B at a $550M valuation &lpar;Abhinaya Prabhu/Tech Funding News&rpar;](http://www.techmeme.com/240617/p32#a240617p32)
- - [Beats teases a new Beats Pill that could arrive June 25](https://appleinsider.com/articles/24/06/17/beats-teases-a-new-beats-pill-that-could-arrive-june-25?utm_medium=rss)
- - [Adobe unveils Firefly-powered image generation in Acrobat, and support for analysis of multiple documents, including non-PDF files, in Acrobat AI Assistant &lpar;Calvin Wankhede/Android Authority&rpar;](http://www.techmeme.com/240617/p31#a240617p31)
- - [Sims competitor Life by You has been canceled](https://www.theverge.com/2024/6/17/24180574/life-by-you-canceled-sims)<!-- TECH:END -->
+ - [Ricoh Shoots Back Into Film Cameras With Pentax 17 Half-Frame 35mm Camera     - CNET](https://www.cnet.com/tech/computing/ricoh-shoots-back-into-film-cameras-with-pentax-17-half-frame-35mm-camera/#ftag=CAD590a51e)
+ - [Best Internet Providers in Dover, Ohio     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-dover-oh/#ftag=CAD590a51e)
+ - [Beats teases a new Beats Pill that could arrive June 25](https://appleinsider.com/articles/24/06/17/beats-teases-a-new-beats-pill-that-could-arrive-june-25?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

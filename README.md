@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Streamer Sneako gets his teeth broken after trying to bully Security Guard](http://9gag.com/gag/amo8BY6)
+ - 😝 [Happy Father&#39;s day..](http://9gag.com/gag/aGyR1Mz)
  - 😝 [So close...](http://9gag.com/gag/aXPXqDv)
- - 💣 [Would you still have eaten it?](http://9gag.com/gag/ae9pMQp)
- - 😝 [True.](http://9gag.com/gag/aQzneLK)
- - 👉 [Hello](http://9gag.com/gag/aQzn388)<!-- MEMES:END -->
+ - 💣 [Hello](http://9gag.com/gag/aQzn388)
+ - 😝 [Would you still have eaten it?](http://9gag.com/gag/ae9pMQp)
+ - 👉 [Idiot driver ruins trip to Wendys](http://9gag.com/gag/axyGV81)<!-- MEMES:END -->
 
 ---
 

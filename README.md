@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instead of Mining the Deep Sea, Maybe People Should Just Fix Stuff](https://www.wired.com/story/instead-of-mining-the-deep-sea-maybe-people-should-just-fix-stuff/)
- - [A look at Shein&#39;s efforts to diversify away from fast fashion, as the company struggles to get third-party merchants to sign up for its marketplace &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/240618/p6#a240618p6)
- - [Down-ballot campaigns in the US are experimenting with AI, which can help them save money and time, while also raising fears about the threats of AI deepfakes &lpar;Associated Press&rpar;](http://www.techmeme.com/240618/p5#a240618p5)
- - [A look at India&#39;s quick commerce market, which has become an important distribution channel for Indian food brands, as Zepto and others expand beyond groceries &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240618/p4#a240618p4)
- - [Google launches Gemini app for Android in India, supporting English and nine other languages; Gemini will be available via Google app on iOS in the coming weeks &lpar;Amar Subramanya/Google&rpar;](http://www.techmeme.com/240618/p3#a240618p3)<!-- TECH:END -->
+ - [Social media creators say earning a decent, reliable income is getting harder, as platforms pay less for popular posts and brands get pickier about partnerships &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240618/p7#a240618p7)
+ - [Crypto Scammers Are Targeting Trump’s MAGA Supporters](https://www.wired.com/story/maga-crypto-scammers-donald-trump/)
+ - [Best Internet Providers in Portland, Maine     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-portland-me/#ftag=CAD590a51e)
+ - [Logitech&#39;s Keys-to-Go 2 Keyboard Grows Up But Is Still Very Lightweight and Slim     - CNET](https://www.cnet.com/tech/mobile/logitechs-keys-to-go-2-keyboard-grows-up-but-is-still-very-lightweight-and-slim/#ftag=CAD590a51e)
+ - [Instead of Mining the Deep Sea, Maybe People Should Just Fix Stuff](https://www.wired.com/story/instead-of-mining-the-deep-sea-maybe-people-should-just-fix-stuff/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

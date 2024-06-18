@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Future HomeKit could track you through your house and predict your needs](https://appleinsider.com/articles/23/02/07/future-homekit-could-track-you-through-your-house-and-predict-your-needs?utm_medium=rss)
- - [There are now two ways to stream Steam VR games to Apple Vision Pro](https://appleinsider.com/articles/24/06/18/there-are-now-two-ways-to-stream-steam-vr-games-to-apple-vision-pro?utm_medium=rss)
- - [Sources: Apple is set to settle a long-running EU antitrust investigation over payments, after the EU accepted measures that Apple committed to in January 2024 &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240618/p14#a240618p14)
- - [Airbnb&#39;s Olympics Push Could Help it Win Over Paris](https://www.wired.com/story/airbnbs-olympics-push-paris/)
- - [Amazon Labor Union members vote to join forces with the 1.3M-member Teamsters union; ALU President Christian Smalls says Teamsters allocated $8M for organizing &lpar;Noam Scheiber/New York Times&rpar;](http://www.techmeme.com/240618/p13#a240618p13)<!-- TECH:END -->
+ - [How Apple will label AI-generated images made with Image Playground](https://appleinsider.com/articles/24/06/17/how-apple-will-label-ai-generated-images-made-with-image-playground?utm_medium=rss)
+ - [Autonomous trucking startup Waabi raised a $200M Series B led by Uber and Khosla Ventures, after an $83.5M Series A in 2021, and aims for a full launch in 2025 &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/240618/p15#a240618p15)
+ - [WhatsApp reunites Modern Family for ad about green bubble friends](https://www.theverge.com/2024/6/18/24180839/whatsapp-modern-family-ad-meta-green-bubbles-rcs)
+ - [Factor Review: Satisfying but Slimy](https://www.wired.com/review/factor/)
+ - [My Favorite Affordable Sheets Are Discounted Right Now](https://www.wired.com/story/my-favorite-affordable-sheets-are-discounted-right-now/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

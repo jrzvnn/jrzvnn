@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The only thing holding the structure is paint](http://9gag.com/gag/axyG0xb)
- - 😝 [Would you still have eaten it?](http://9gag.com/gag/ae9pMQp)
- - 💣 [So close...](http://9gag.com/gag/aXPXqDv)
- - 😝 [Comparing body count](http://9gag.com/gag/aVvXM4d)
- - 👉 [Anime recommendations](http://9gag.com/gag/a2vqZje)<!-- MEMES:END -->
+ - 😝 [300 day&#39;s](http://9gag.com/gag/a5QKRpG)
+ - 😝 [Somewhere in a train station in Chile](http://9gag.com/gag/aryRgKy)
+ - 💣 [Hello](http://9gag.com/gag/aQzn388)
+ - 😝 [Well that escalated quickly](http://9gag.com/gag/aMVQ8YV)
+ - 👉 [I&#39;m sure there were no repurcusions](http://9gag.com/gag/aYQwK90)<!-- MEMES:END -->
 
 ---
 

@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Score!](http://9gag.com/gag/aoyje2n)
- - 😝 [What are the odds?](http://9gag.com/gag/aMVQ8oW)
- - 💣 [Hello](http://9gag.com/gag/aQzn388)
- - 😝 [Dunno which is stupider, throwing away a drink that you bought or smashing someone&#39;s windshield in front of a camera.](http://9gag.com/gag/ae9pbnb)
- - 👉 [I&#39;m sure there were no repurcusions](http://9gag.com/gag/aYQwK90)<!-- MEMES:END -->
+ - 😝 [Hello](http://9gag.com/gag/aQzn388)
+ - 😝 [Jet Ski Driver Dodged Shockwave by Jumping into Water Just in Time After Explosion in Beirut!](http://9gag.com/gag/aByr8mO)
+ - 💣 [A star is born](http://9gag.com/gag/a2vq431)
+ - 😝 [The only thing holding the structure is paint](http://9gag.com/gag/axyG0xb)
+ - 👉 [What are the odds?](http://9gag.com/gag/aMVQ8oW)<!-- MEMES:END -->
 
 ---
 

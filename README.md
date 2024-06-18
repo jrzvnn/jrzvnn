@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well that escalated quickly](http://9gag.com/gag/aMVQ8YV)
- - 😝 [Would you still have eaten it?](http://9gag.com/gag/ae9pMQp)
- - 💣 [Comparing body count](http://9gag.com/gag/aVvXM4d)
- - 😝 [True.](http://9gag.com/gag/aQzneLK)
- - 👉 [Dunno which is stupider, throwing away a drink that you bought or smashing someone&#39;s windshield in front of a camera.](http://9gag.com/gag/ae9pbnb)<!-- MEMES:END -->
+ - 😝 [The only thing holding the structure is paint](http://9gag.com/gag/axyG0xb)
+ - 😝 [Streamer Sneako gets his teeth broken after trying to bully Security Guard](http://9gag.com/gag/amo8BY6)
+ - 💣 [Dunno which is stupider, throwing away a drink that you bought or smashing someone&#39;s windshield in front of a camera.](http://9gag.com/gag/ae9pbnb)
+ - 😝 [Comparing body count](http://9gag.com/gag/aVvXM4d)
+ - 👉 [Well that escalated quickly](http://9gag.com/gag/aMVQ8YV)<!-- MEMES:END -->
 
 ---
 

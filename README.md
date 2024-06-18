@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Xreal unveils the $199+ Beam Pro, a 6.5-inch device that powers Xreal&#39;s glasses, runs Android 14-based NebulaOS, uses a Snapdragon chip, and has two USB-C ports &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240618/p18#a240618p18)
  - [Nintendo Direct June 2024: all the news and trailers](https://www.theverge.com/2024/6/18/24180183/nintendo-direct-june-2024-news-trailers)
  - [Maryland-based Huntress, an SMB-focused managed security platform, raised a $150M Series D led by Kleiner Perkins, Meritech, and Sapphire at a $1.5B+ valuation &lpar;James Rundle/Wall Street Journal&rpar;](http://www.techmeme.com/240618/p17#a240618p17)
  - [Google DeepMind’s new AI tool uses video pixels and text prompts to generate soundtracks](https://www.theverge.com/2024/6/18/24180854/google-deepmind-ai-video-pixels-text-prompts-generate-video-soundtracks)
- - [Tesla’s big, epic, confusing future](https://www.theverge.com/2024/6/18/24180863/tesla-future-robots-ai-apple-watch-rest-days-vergecast)
- - [Apple Developer Academy gets new Artificial Intelligence curriculum](https://appleinsider.com/articles/24/06/18/apple-developer-academy-gets-new-artificial-intelligence-curriculum?utm_medium=rss)<!-- TECH:END -->
+ - [Tesla’s big, epic, confusing future](https://www.theverge.com/2024/6/18/24180863/tesla-future-robots-ai-apple-watch-rest-days-vergecast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

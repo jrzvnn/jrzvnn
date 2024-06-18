@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple is set to settle a long-running EU antitrust investigation over payments, after the EU accepted measures that Apple committed to in January 2024 &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240618/p14#a240618p14)
+ - [Airbnb&#39;s Olympics Push Could Help it Win Over Paris](https://www.wired.com/story/airbnbs-olympics-push-paris/)
  - [Amazon Labor Union members vote to join forces with the 1.3M-member Teamsters union; ALU President Christian Smalls says Teamsters allocated $8M for organizing &lpar;Noam Scheiber/New York Times&rpar;](http://www.techmeme.com/240618/p13#a240618p13)
  - [Margrethe Vestager says Apple has a number of &quot;very serious&quot; issues under the EU&#39;s DMA, and the conclusions of an investigation will arrive &quot;hopefully soon&quot; &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/240618/p12#a240618p12)
- - [EU has very serious issues with Apple, says competition chief](https://appleinsider.com/articles/24/06/18/eu-has-very-serious-issues-with-apple-says-competition-chief?utm_medium=rss)
- - [Some Google users, frustrated by the results, turn to Reddit as a search alternative; a weeklong test finds Reddit is best for product recommendations and more &lpar;Ann-Marie Alc&amp;aacute;ntara/Wall Street Journal&rpar;](http://www.techmeme.com/240618/p11#a240618p11)
- - [Sources: Huawei is considering taking a cut of in-app purchases on its Harmony OS, and has discussed a ~20% fee with developers, below Apple and Google&#39;s 30% &lpar;Pei Li/Bloomberg&rpar;](http://www.techmeme.com/240618/p10#a240618p10)<!-- TECH:END -->
+ - [Mortgage Rates Take Dips Down: Current Mortgage Rates for June 18, 2024     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-rates-take-dips-down-current-mortgage-rates-for-june-18-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [JURATHICC WORLD !](http://9gag.com/gag/a34LK8N)
+ - 😝 [So close...](http://9gag.com/gag/aXPXqDv)
  - 😝 [Comparing body count](http://9gag.com/gag/aVvXM4d)
- - 💣 [Anime recommendations](http://9gag.com/gag/a2vqZje)
- - 😝 [Would you still have eaten it?](http://9gag.com/gag/ae9pMQp)
- - 👉 [What are the odds?](http://9gag.com/gag/aMVQ8oW)<!-- MEMES:END -->
+ - 💣 [Score!](http://9gag.com/gag/aoyje2n)
+ - 😝 [Racing a supercar on public roads and not knowing how to handle it](http://9gag.com/gag/a1mYRgw)
+ - 👉 [Anime recommendations](http://9gag.com/gag/a2vqZje)<!-- MEMES:END -->
 
 ---
 

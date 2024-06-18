@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Would you still have eaten it?](http://9gag.com/gag/ae9pMQp)
- - 😝 [Its so hard to find this in this generation.](http://9gag.com/gag/axyGgBL)
- - 💣 [I wonder why the critics score is consistent but audience score declining.](http://9gag.com/gag/a87jyYd)
- - 😝 [Hello](http://9gag.com/gag/aQzn388)
- - 👉 [A star is born](http://9gag.com/gag/a2vq431)<!-- MEMES:END -->
+ - 😝 [9gager on the date](http://9gag.com/gag/an7BM9V)
+ - 😝 [Live another day..](http://9gag.com/gag/aYQwgbN)
+ - 💣 [Beautiful welding](http://9gag.com/gag/aLnB8gW)
+ - 😝 [Sounds easy enough](http://9gag.com/gag/aByr8gO)
+ - 👉 [The ultimate stick](http://9gag.com/gag/a0eYKpn)<!-- MEMES:END -->
 
 ---
 

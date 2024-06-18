@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [HPE and Nvidia unveil private cloud offerings for generative AI workloads coming this fall, including HPE Private Cloud AI, a co-developed &quot;turnkey&quot; option &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/240618/p26#a240618p26)
+ - [Adobe’s new terms of service say it won’t use your work to train AI](https://www.theverge.com/2024/6/18/24181001/adobe-updated-terms-of-service-wont-train-ai-on-work)
  - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
  - [Nvidia passes Microsoft during intraday trading to become the most valuable public company, with a ~$3.33T market cap; NVDA is up over 9x since January 2023 &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240618/p25#a240618p25)
- - [Logitech&#39;s new stylus for Oculus is what we want for Apple Vision Pro](https://appleinsider.com/articles/24/06/18/logitechs-new-stylus-for-oculus-is-what-we-want-for-apple-vision-pro?utm_medium=rss)
- - [Filings: X is still working on a Venmo-like payments feature, with a 2024 US launch target; X had $1.48B in revenue in first six months of 2023, down ~40% YoY &lpar;Bloomberg&rpar;](http://www.techmeme.com/240618/p24#a240618p24)
- - [Netflix House will fill the voids left by dead department stores](https://www.theverge.com/2024/6/18/24181027/netflix-house-retail-dallas-king-of-prussia-2025)<!-- TECH:END -->
+ - [Logitech&#39;s new stylus for Oculus is what we want for Apple Vision Pro](https://appleinsider.com/articles/24/06/18/logitechs-new-stylus-for-oculus-is-what-we-want-for-apple-vision-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

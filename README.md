@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI search engine startup Genspark launches, offering a Sparkpage overview for queries, and raised a $60M seed led by Lanchi at a $260M post-money valuation &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240618/p23#a240618p23)
  - [You can grab a Blink Video Doorbell with a Sync Module 2 for just $42 right now](https://www.theverge.com/2024/6/18/24180106/amazon-blink-video-doorbell-anker-747-charger-deal-sale)
  - [Apple Vision Pro sequel stalls as work on cheaper consumer headset continues](https://appleinsider.com/articles/24/06/18/apple-vision-pro-sequel-stalls-as-work-on-cheaper-consumer-headset-continues?utm_medium=rss)
  - [ASUS VivoBook S 15 Copilot+ PC review: Snapdragon X Elite is incredible, all day battery life, gorgeous 15.6&quot; OLED screen, and $1,299 for 1TB SSD and 16GB RAM &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/240618/p22#a240618p22)
- - [Source: Apple told at least one supplier it has suspended work on the next Apple Vision Pro; sources: it&#39;s still aiming to debut a cheaper model by end of 2025 &lpar;The Information&rpar;](http://www.techmeme.com/240618/p21#a240618p21)
- - [JP Morgan raises Apple stock target to $245 on AI announcements](https://appleinsider.com/articles/24/06/18/jp-morgan-raises-apple-stock-target-to-245-on-ai-announcements?utm_medium=rss)<!-- TECH:END -->
+ - [Best Reading Glasses for 2024     - CNET](https://www.cnet.com/health/personal-care/best-reading-glasses/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

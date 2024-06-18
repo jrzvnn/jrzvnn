@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Noam Chomsky isn’t dead yet](https://www.theverge.com/2024/6/18/24181373/noam-chomsky-not-dead-yet)
  - [Apple&#39;s new &#39;Help Me Choose&#39; quiz helps users find the right Mac](https://appleinsider.com/articles/24/06/18/apples-new-help-me-choose-quiz-helps-users-find-the-right-mac?utm_medium=rss)
- - [Luma promoted its AI video generator with some very familiar incorporated monsters](https://www.theverge.com/2024/6/18/24181375/luma-ai-monster-camp-monsters-inc-pixar)
- - [Qilin, a cohort of Russian-speaking hackers, claims responsibility for the ransomware attack impacting London hospitals for weeks and demands $50M to end it &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/240618/p34#a240618p34)
- - [Amazon union workers and the Teamsters have inked a deal](https://www.theverge.com/2024/6/18/24181246/amazon-labor-union-teamsters-affiliate-agreement-warehouse-workers)
- - [Hue launches a pricey new sunrise lamp](https://www.theverge.com/2024/6/18/24181145/philips-hue-new-products-twilight-bedside-lamp-price-release-date)<!-- TECH:END -->
+ - [An AI video tool just launched, and it’s already copying Disney’s IP](https://www.theverge.com/2024/6/18/24181375/luma-ai-monster-camp-monsters-inc-pixar)
+ - [Best Wireless Mouse Deals: Nab Discounts on Logitech, Corsair and More     - CNET](https://www.cnet.com/deals/best-wireless-mouse-deals/#ftag=CAD590a51e)
+ - [Qilin, a cohort of Russian-speaking hackers, claims responsibility for the ransomware attack impacting London hospitals for weeks and demands $50M to end it &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/240618/p34#a240618p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

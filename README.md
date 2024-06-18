@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happy Father&#39;s day..](http://9gag.com/gag/aGyR1Mz)
- - 😝 [So close...](http://9gag.com/gag/aXPXqDv)
- - 💣 [Hello](http://9gag.com/gag/aQzn388)
  - 😝 [Would you still have eaten it?](http://9gag.com/gag/ae9pMQp)
- - 👉 [Idiot driver ruins trip to Wendys](http://9gag.com/gag/axyGV81)<!-- MEMES:END -->
+ - 😝 [Thank god we have paper straws](http://9gag.com/gag/aW4O1QA)
+ - 💣 [Three for the same price!](http://9gag.com/gag/a2vqo81)
+ - 😝 [Sand people logic](http://9gag.com/gag/adBp9YN)
+ - 👉 [Never trust people who cry for the camera and choose to post it....](http://9gag.com/gag/a4PLbey)<!-- MEMES:END -->
 
 ---
 

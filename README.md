@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What are the odds?](http://9gag.com/gag/aMVQ8oW)
- - 😝 [Idiot driver ruins trip to Wendys](http://9gag.com/gag/axyGV81)
- - 💣 [Score!](http://9gag.com/gag/aoyje2n)
- - 😝 [Gotta love the rangers](http://9gag.com/gag/apRBmjb)
- - 👉 [Hello](http://9gag.com/gag/aQzn388)<!-- MEMES:END -->
+ - 😝 [Dunno which is stupider, throwing away a drink that you bought or smashing someone&#39;s windshield in front of a camera.](http://9gag.com/gag/ae9pbnb)
+ - 😝 [The only thing holding the structure is paint](http://9gag.com/gag/axyG0xb)
+ - 💣 [A star is born](http://9gag.com/gag/a2vq431)
+ - 😝 [Comparing body count](http://9gag.com/gag/aVvXM4d)
+ - 👉 [Well that escalated quickly](http://9gag.com/gag/aMVQ8YV)<!-- MEMES:END -->
 
 ---
 

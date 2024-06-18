@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Would you still have eaten it?](http://9gag.com/gag/ae9pMQp)
+ - 😝 [A star is born](http://9gag.com/gag/a2vq431)
+ - 😝 [Anime recommendations](http://9gag.com/gag/a2vqZje)
+ - 💣 [So close...](http://9gag.com/gag/aXPXqDv)
  - 😝 [What are the odds?](http://9gag.com/gag/aMVQ8oW)
- - 💣 [Just finish this with my daughters &lpar;7 and 8 yo&rpar; and they absolute loved it. Can you recomend a anime like that, without sexual content?](http://9gag.com/gag/a4PL7P6)
- - 😝 [Comparing body count](http://9gag.com/gag/aVvXM4d)
- - 👉 [So close...](http://9gag.com/gag/aXPXqDv)<!-- MEMES:END -->
+ - 👉 [Well that escalated quickly](http://9gag.com/gag/aMVQ8YV)<!-- MEMES:END -->
 
 ---
 

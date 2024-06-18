@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta launches its much-awaited Threads API, letting developer publish posts, fetch content, manage replies, and view analytics, after an API beta in March 2024 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240618/p8#a240618p8)
+ - [I Am Laura Kipnis-Bot, and I Will Make Reading Sexy and Tragic Again](https://www.wired.com/story/i-am-laura-kipnis-bot-and-i-will-make-reading-sexy-and-tragic-again/)
  - [Meta releases Threads API for developers to build ‘unique integrations’](https://www.theverge.com/2024/6/18/24180794/meta-threads-api-developers-launch-availability)
  - [Social media creators say earning a decent, reliable income is getting harder, as platforms pay less for popular posts and brands get pickier about partnerships &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240618/p7#a240618p7)
- - [Crypto Scammers Are Targeting Trump’s MAGA Supporters](https://www.wired.com/story/maga-crypto-scammers-donald-trump/)
- - [Best Internet Providers in Portland, Maine     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-portland-me/#ftag=CAD590a51e)
- - [Logitech&#39;s Keys-to-Go 2 Keyboard Grows Up But Is Still Very Lightweight and Slim     - CNET](https://www.cnet.com/tech/mobile/logitechs-keys-to-go-2-keyboard-grows-up-but-is-still-very-lightweight-and-slim/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Crypto Scammers Are Targeting Trump’s MAGA Supporters](https://www.wired.com/story/maga-crypto-scammers-donald-trump/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

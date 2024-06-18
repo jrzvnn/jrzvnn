@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Android 15 just reached a major milestone](https://www.theverge.com/2024/6/18/24181150/android-15-beta-3-platform-stability-passkeys)
+ - [Forbes demands Perplexity not infringe on Forbes IP and drop Forbes-sourced articles; Perplexity-made content remains without attribution, including on YouTube &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/240618/p28#a240618p28)
+ - [Sphero’s Bolt Plus robot has a screen parents would want their kids to look at](https://www.theverge.com/2024/6/18/24181166/sphero-bolt-plus-toy-programming-stem-robot)
  - [TikTok is copying Instagram again with Whee](https://www.theverge.com/2024/6/18/24181215/tiktok-whee-app-instagram)
- - [AIs are coming for social networks](https://www.theverge.com/2024/6/18/24181196/butterflies-app-ai-chatbots-social-media)
- - [Sony’s PlayStation Portal update adds public Wi-Fi support](https://www.theverge.com/2024/6/18/24181118/sony-playstation-portal-public-wifi-battery-touchpads-software-update)
- - [M4 MacBook Pro upgrade could arrive by end of 2024](https://appleinsider.com/articles/24/06/18/m4-macbook-pro-upgrade-could-arrive-by-end-of-2024?utm_medium=rss)
- - [Devs say Apple is denying or delaying notarization of iOS apps, including emulators and AltStore apps, to enforce its rules, defeating the point of the EU&#39;s DMA &lpar;Jason Snell/Six Colors&rpar;](http://www.techmeme.com/240618/p27#a240618p27)<!-- TECH:END -->
+ - [AIs are coming for social networks](https://www.theverge.com/2024/6/18/24181196/butterflies-app-ai-chatbots-social-media)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

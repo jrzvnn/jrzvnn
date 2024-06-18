@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sand people logic](http://9gag.com/gag/adBp9YN)
- - 😝 [Sounds easy enough](http://9gag.com/gag/aByr8gO)
- - 💣 [Never trust people who cry for the camera and choose to post it....](http://9gag.com/gag/a4PLbey)
- - 😝 [When insane people make a very important decisions.](http://9gag.com/gag/ae9przq)
- - 👉 [Coastguards of Greece](http://9gag.com/gag/a34LME3)<!-- MEMES:END -->
+ - 😝 [Hello](http://9gag.com/gag/aQzn388)
+ - 😝 [Dunno which is stupider, throwing away a drink that you bought or smashing someone&#39;s windshield in front of a camera.](http://9gag.com/gag/ae9pbnb)
+ - 💣 [Would you still have eaten it?](http://9gag.com/gag/ae9pMQp)
+ - 😝 [Anime recommendations](http://9gag.com/gag/a2vqZje)
+ - 👉 [Comparing body count](http://9gag.com/gag/aVvXM4d)<!-- MEMES:END -->
 
 ---
 

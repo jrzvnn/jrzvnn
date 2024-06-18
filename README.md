@@ -164,9 +164,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Finbourne, which helps financial companies organize and use their data in AI and other models, raised a &amp;pound;55M Series B at a valuation just over &amp;pound;280M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240617/p34#a240617p34)
  - [Q&amp;A with Tubi CEO Anjali Sud, who joined from Vimeo in September 2023, on the streaming industry, working within Fox, subscription fatigue, copyright, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240617/p33#a240617p33)
- - [Constructor, which provides an AI-powered product discovery and search service for e-commerce companies, raised a $25M Series B at a $550M valuation &lpar;Abhinaya Prabhu/Tech Funding News&rpar;](http://www.techmeme.com/240617/p32#a240617p32)
- - [Ricoh Shoots Back Into Film Cameras With Pentax 17 Half-Frame 35mm Camera     - CNET](https://www.cnet.com/tech/computing/ricoh-shoots-back-into-film-cameras-with-pentax-17-half-frame-35mm-camera/#ftag=CAD590a51e)
- - [Best Internet Providers in Dover, Ohio     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-dover-oh/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Your Phone Needs to Chill: How to Keep It From Overheating     - CNET](https://www.cnet.com/tech/mobile/your-phone-needs-to-chill-how-to-keep-it-from-overheating/#ftag=CAD590a51e)
+ - [Best Internet Providers in Wisconsin     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-wisconsin/#ftag=CAD590a51e)
+ - [Constructor, which provides an AI-powered product discovery and search service for e-commerce companies, raised a $25M Series B at a $550M valuation &lpar;Abhinaya Prabhu/Tech Funding News&rpar;](http://www.techmeme.com/240617/p32#a240617p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

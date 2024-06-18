@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Score!](http://9gag.com/gag/aoyje2n)
- - 😝 [I&#39;m sure there were no repurcusions](http://9gag.com/gag/aYQwK90)
- - 💣 [What are the odds?](http://9gag.com/gag/aMVQ8oW)
- - 😝 [Well that escalated quickly](http://9gag.com/gag/aMVQ8YV)
- - 👉 [Would you still have eaten it?](http://9gag.com/gag/ae9pMQp)<!-- MEMES:END -->
+ - 😝 [What are the odds?](http://9gag.com/gag/aMVQ8oW)
+ - 😝 [Idiot driver ruins trip to Wendys](http://9gag.com/gag/axyGV81)
+ - 💣 [Score!](http://9gag.com/gag/aoyje2n)
+ - 😝 [Gotta love the rangers](http://9gag.com/gag/apRBmjb)
+ - 👉 [Hello](http://9gag.com/gag/aQzn388)<!-- MEMES:END -->
 
 ---
 

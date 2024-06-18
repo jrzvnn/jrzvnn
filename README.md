@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A star is born](http://9gag.com/gag/a2vq431)
- - 😝 [Anime recommendations](http://9gag.com/gag/a2vqZje)
- - 💣 [So close...](http://9gag.com/gag/aXPXqDv)
- - 😝 [What are the odds?](http://9gag.com/gag/aMVQ8oW)
- - 👉 [Well that escalated quickly](http://9gag.com/gag/aMVQ8YV)<!-- MEMES:END -->
+ - 😝 [Sand people logic](http://9gag.com/gag/adBp9YN)
+ - 😝 [Sounds easy enough](http://9gag.com/gag/aByr8gO)
+ - 💣 [Never trust people who cry for the camera and choose to post it....](http://9gag.com/gag/a4PLbey)
+ - 😝 [When insane people make a very important decisions.](http://9gag.com/gag/ae9przq)
+ - 👉 [Coastguards of Greece](http://9gag.com/gag/a34LME3)<!-- MEMES:END -->
 
 ---
 

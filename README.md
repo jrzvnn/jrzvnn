@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Qilin, a cohort of Russian-speaking hackers, claims responsibility for the ransomware attack impacting London hospitals for weeks and demands $50M to end it &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/240618/p34#a240618p34)
  - [Amazon union workers and the Teamsters have inked a deal](https://www.theverge.com/2024/6/18/24181246/amazon-labor-union-teamsters-affiliate-agreement-warehouse-workers)
  - [Hue launches a pricey new sunrise lamp](https://www.theverge.com/2024/6/18/24181145/philips-hue-new-products-twilight-bedside-lamp-price-release-date)
  - [Qualcomm agrees to pay $75M to resolve a suit from shareholders accusing it defrauding them by hiding its alleged anticompetitive sales and licensing practices &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/240618/p33#a240618p33)
- - [&#39;Metroid Prime 4&#39; Gets a Release Date After Years of Troubled Development](https://www.wired.com/story/metroid-prime-4-release-date-gameplay-trailer/)
- - [AMD says it is looking into claims that company information was stolen in a hack, after a user on BreachForums said they breached AMD&#39;s systems &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/240618/p32#a240618p32)<!-- TECH:END -->
+ - [&#39;Metroid Prime 4&#39; Gets a Release Date After Years of Troubled Development](https://www.wired.com/story/metroid-prime-4-release-date-gameplay-trailer/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

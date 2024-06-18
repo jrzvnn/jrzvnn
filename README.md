@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So close...](http://9gag.com/gag/aXPXqDv)
- - 😝 [Comparing body count](http://9gag.com/gag/aVvXM4d)
- - 💣 [2024 junior world champion launching his F1D, total flight time 22 minutes](http://9gag.com/gag/azxVXgj)
- - 😝 [What are the odds?](http://9gag.com/gag/aMVQ8oW)
- - 👉 [JURATHICC WORLD !](http://9gag.com/gag/a34LK8N)<!-- MEMES:END -->
+ - 😝 [Anime recommendations](http://9gag.com/gag/a2vqZje)
+ - 😝 [Work hard, not smart](http://9gag.com/gag/awy7B0R)
+ - 💣 [I just leave this here.](http://9gag.com/gag/a9yPK3m)
+ - 😝 [Bro, he lost the fight and his dignity](http://9gag.com/gag/a1mYWZv)
+ - 👉 [Gotta love the rangers](http://9gag.com/gag/apRBmjb)<!-- MEMES:END -->
 
 ---
 

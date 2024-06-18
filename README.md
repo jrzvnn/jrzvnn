@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So close...](http://9gag.com/gag/aXPXqDv)
- - 😝 [Anime recommendations](http://9gag.com/gag/a2vqZje)
- - 💣 [Comparing body count](http://9gag.com/gag/aVvXM4d)
- - 😝 [What are the odds?](http://9gag.com/gag/aMVQ8oW)
- - 👉 [Hello](http://9gag.com/gag/aQzn388)<!-- MEMES:END -->
+ - 😝 [300 day&#39;s](http://9gag.com/gag/a5QKRpG)
+ - 😝 [It&#39;s never their fault, of course.](http://9gag.com/gag/aKGBdwO)
+ - 💣 [The design is very human](http://9gag.com/gag/a34LQg7)
+ - 😝 [Mind your Manners](http://9gag.com/gag/apRB5wb)
+ - 👉 [When insane people make a very important decisions.](http://9gag.com/gag/ae9przq)<!-- MEMES:END -->
 
 ---
 

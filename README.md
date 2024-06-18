@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A study of 10 chatbots, including from Perplexity and OpenAI, shows how often they repeat Russian disinfo and cite fugitive John Dougan&#39;s fake local news sites &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/240618/p20#a240618p20)
  - [Beats Solo Buds review: Apple&#39;s best wireless audio bargain yet](https://appleinsider.com/articles/24/06/18/beats-solo-buds-review-apples-best-wireless-audio-bargain-yet?utm_medium=rss)
  - [Staggering $300 discount hits Apple&#39;s M2 MacBook Air with 16GB RAM, 512GB SSD](https://appleinsider.com/articles/24/06/18/staggering-300-discount-hits-apples-m2-macbook-air-with-16gb-ram-512gb-ssd?utm_medium=rss)
  - [Nintendo shares the first gameplay trailer for Metroid Prime 4: Beyond](https://www.theverge.com/23768041/metroid-prime-4-nintendo-direct-trailer)
- - [EV Maker Fisker Files for Bankruptcy](https://www.wired.com/story/fisker-reaches-end-of-the-road-files-for-bankruptcy/)
- - [Mario &amp; Luigi: Brothership is a brand-new Mario RPG for Switch](https://www.theverge.com/24180608/mario-and-luigi-brothership-release-date-nintendo-direct)<!-- TECH:END -->
+ - [EV Maker Fisker Files for Bankruptcy](https://www.wired.com/story/fisker-reaches-end-of-the-road-files-for-bankruptcy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

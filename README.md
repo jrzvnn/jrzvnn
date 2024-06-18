@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I cant wait to never hear from this again](http://9gag.com/gag/ae9pbYW)
- - 😝 [True.](http://9gag.com/gag/aQzneLK)
- - 💣 [Life by the German proper Gender](http://9gag.com/gag/apRBQrp)
- - 😝 [300 day&#39;s](http://9gag.com/gag/a5QKRpG)
- - 👉 [Comparing body count](http://9gag.com/gag/aVvXM4d)<!-- MEMES:END -->
+ - 😝 [What are the odds?](http://9gag.com/gag/aMVQ8oW)
+ - 😝 [Comparing body count](http://9gag.com/gag/aVvXM4d)
+ - 💣 [Hello](http://9gag.com/gag/aQzn388)
+ - 😝 [Girls, always do the Hawk Tuah](http://9gag.com/gag/aKGBxpN)
+ - 👉 [Anime recommendations](http://9gag.com/gag/a2vqZje)<!-- MEMES:END -->
 
 ---
 

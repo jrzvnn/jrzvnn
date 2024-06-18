@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EV Maker Fisker Files for Bankruptcy](https://www.wired.com/story/fisker-reaches-end-of-the-road-files-for-bankruptcy/)
  - [Mario &amp; Luigi: Brothership is a brand-new Mario RPG for Switch](https://www.theverge.com/24180608/mario-and-luigi-brothership-release-date-nintendo-direct)
  - [Beats Solo Buds review: Apple&#39;s best wireless audio bargain yet](https://appleinsider.com/articles/24/06/18/beats-solo-buds-review-apples-best-wireless-audio-bargain-yet?utm_medium=rss)
  - [The Beats Solo Buds have a great look and an even better price](https://www.theverge.com/24180840/beats-solo-buds-earbuds-hands-on)
- - [Shadow of the Erdtree reintroduced me to Elden Ring by kicking my ass](https://www.theverge.com/24180536/shadow-of-the-erdtree-review-elden-ring-dlc)
- - [London-based SurrealDB, which helps developers consolidate their databases, raised $20M led by FirstMark and Georgian, taking its total funding to $26M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240618/p19#a240618p19)<!-- TECH:END -->
+ - [Shadow of the Erdtree reintroduced me to Elden Ring by kicking my ass](https://www.theverge.com/24180536/shadow-of-the-erdtree-review-elden-ring-dlc)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

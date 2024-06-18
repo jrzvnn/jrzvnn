@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This universal remote wants to control your smart home sans hub](https://www.theverge.com/2024/6/18/24181245/cantata-haptique-rs90-rs90x-universal-remote-smart-home-controller)
  - [Nvidia overtakes Microsoft as the world’s most valuable company](https://www.theverge.com/2024/6/18/24181393/nvidia-most-valuable-company-microsoft-apple-google)
  - [Noam Chomsky isn’t dead yet](https://www.theverge.com/2024/6/18/24181373/noam-chomsky-not-dead-yet)
  - [Apple&#39;s new &#39;Help Me Choose&#39; quiz helps users find the right Mac](https://appleinsider.com/articles/24/06/18/apples-new-help-me-choose-quiz-helps-users-find-the-right-mac?utm_medium=rss)
- - [An AI video tool just launched, and it’s already copying Disney’s IP](https://www.theverge.com/2024/6/18/24181375/luma-ai-monster-camp-monsters-inc-pixar)
- - [Best Wireless Mouse Deals: Nab Discounts on Logitech, Corsair and More     - CNET](https://www.cnet.com/deals/best-wireless-mouse-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An AI video tool just launched, and it’s already copying Disney’s IP](https://www.theverge.com/2024/6/18/24181375/luma-ai-monster-camp-monsters-inc-pixar)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dunno which is stupider, throwing away a drink that you bought or smashing someone&#39;s windshield in front of a camera.](http://9gag.com/gag/ae9pbnb)
+ - 😝 [The only thing holding the structure is paint](http://9gag.com/gag/axyG0xb)
  - 😝 [Would you still have eaten it?](http://9gag.com/gag/ae9pMQp)
- - 💣 [What are the odds?](http://9gag.com/gag/aMVQ8oW)
- - 😝 [So close...](http://9gag.com/gag/aXPXqDv)
- - 👉 [Comparing body count](http://9gag.com/gag/aVvXM4d)<!-- MEMES:END -->
+ - 💣 [So close...](http://9gag.com/gag/aXPXqDv)
+ - 😝 [Comparing body count](http://9gag.com/gag/aVvXM4d)
+ - 👉 [Anime recommendations](http://9gag.com/gag/a2vqZje)<!-- MEMES:END -->
 
 ---
 

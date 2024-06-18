@@ -173,8 +173,8 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [What are the odds?](http://9gag.com/gag/aMVQ8oW)
  - 😝 [Anime recommendations](http://9gag.com/gag/a2vqZje)
- - 💣 [Hello](http://9gag.com/gag/aQzn388)
- - 😝 [Girls, always do the Hawk Tuah](http://9gag.com/gag/aKGBxpN)
+ - 💣 [Girls, always do the Hawk Tuah](http://9gag.com/gag/aKGBxpN)
+ - 😝 [Would you still have eaten it?](http://9gag.com/gag/ae9pMQp)
  - 👉 [Comparing body count](http://9gag.com/gag/aVvXM4d)<!-- MEMES:END -->
 
 ---

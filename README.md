@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Appfigures: iOS 18 could &quot;Sherlock&quot; trail apps, grammar helpers, math solvers, password managers, and emoji apps that have an estimated $393M in annual revenue &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240618/p31#a240618p31)
+ - [An effort to fund an internet subsidy program just got thwarted again](https://www.theverge.com/2024/6/18/24181011/spectrum-legislation-postponed-affordable-connectivity-program)
  - [The US FTC says it has referred a complaint to the DOJ against TikTok and ByteDance over potential violations of the Children&#39;s Online Privacy Act &lpar;Reuters&rpar;](http://www.techmeme.com/240618/p30#a240618p30)
  - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [The Framework Laptop 13 is about to become one of the world’s first RISC-V laptops](https://www.theverge.com/2024/6/18/24181278/framework-laptop-risc-v-laptop-isa-arm-amd-intel-x86)
- - [An ex-Snap engineer debuts Butterflies, a social network where users can create AI personas that then interact with users and other AIs via posts and DMs &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240618/p29#a240618p29)
- - [STEM Students Refuse to Work at Google and Amazon Over Project Nimbus](https://www.wired.com/story/stem-students-refuse-to-work-at-google-and-amazon-over-project-nimbus/)<!-- TECH:END -->
+ - [The Framework Laptop 13 is about to become one of the world’s first RISC-V laptops](https://www.theverge.com/2024/6/18/24181278/framework-laptop-risc-v-laptop-isa-arm-amd-intel-x86)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

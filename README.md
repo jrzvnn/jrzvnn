@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AMD is investigating claims of stolen company data](https://www.theverge.com/2024/6/18/24181406/amd-investigating-claims-stolen-company-data-sale-intelbroker)
  - [This universal remote wants to control your smart home sans hub](https://www.theverge.com/2024/6/18/24181245/cantata-haptique-rs90-rs90x-universal-remote-smart-home-controller)
  - [Nvidia overtakes Microsoft as the world’s most valuable company](https://www.theverge.com/2024/6/18/24181393/nvidia-most-valuable-company-microsoft-apple-google)
  - [Noam Chomsky isn’t dead yet](https://www.theverge.com/2024/6/18/24181373/noam-chomsky-not-dead-yet)
- - [Apple&#39;s new &#39;Help Me Choose&#39; quiz helps users find the right Mac](https://appleinsider.com/articles/24/06/18/apples-new-help-me-choose-quiz-helps-users-find-the-right-mac?utm_medium=rss)
- - [An AI video tool just launched, and it’s already copying Disney’s IP](https://www.theverge.com/2024/6/18/24181375/luma-ai-monster-camp-monsters-inc-pixar)<!-- TECH:END -->
+ - [Amazon&#39;s RxPass Extends to Medicare Recipients: How To Use the Online Pharmacy Perk     - CNET](https://www.cnet.com/health/medical/amazons-rxpass-extends-to-medicare-recipients-how-to-use-the-online-pharmacy-perk/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

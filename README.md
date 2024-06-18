@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mind your Manners](http://9gag.com/gag/apRB5wb)
- - 😝 [300 day&#39;s](http://9gag.com/gag/a5QKRpG)
- - 💣 [I just leave this here.](http://9gag.com/gag/a9yPK3m)
- - 😝 [Europe What Are You Doing?](http://9gag.com/gag/aqy2gwQ)
- - 👉 [Girls, always do the Hawk Tuah](http://9gag.com/gag/aKGBxpN)<!-- MEMES:END -->
+ - 😝 [JURATHICC WORLD !](http://9gag.com/gag/a34LK8N)
+ - 😝 [Comparing body count](http://9gag.com/gag/aVvXM4d)
+ - 💣 [Anime recommendations](http://9gag.com/gag/a2vqZje)
+ - 😝 [Would you still have eaten it?](http://9gag.com/gag/ae9pMQp)
+ - 👉 [What are the odds?](http://9gag.com/gag/aMVQ8oW)<!-- MEMES:END -->
 
 ---
 

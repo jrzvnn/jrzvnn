@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So close...](http://9gag.com/gag/aXPXqDv)
- - 😝 [Comparing body count](http://9gag.com/gag/aVvXM4d)
- - 💣 [Score!](http://9gag.com/gag/aoyje2n)
- - 😝 [Racing a supercar on public roads and not knowing how to handle it](http://9gag.com/gag/a1mYRgw)
- - 👉 [Anime recommendations](http://9gag.com/gag/a2vqZje)<!-- MEMES:END -->
+ - 😝 [300 day&#39;s](http://9gag.com/gag/a5QKRpG)
+ - 😝 [I just leave this here.](http://9gag.com/gag/a9yPK3m)
+ - 💣 [When insane people make a very important decisions.](http://9gag.com/gag/ae9przq)
+ - 😝 [Mind your Manners](http://9gag.com/gag/apRB5wb)
+ - 👉 [Girls, always do the Hawk Tuah](http://9gag.com/gag/aKGBxpN)<!-- MEMES:END -->
 
 ---
 

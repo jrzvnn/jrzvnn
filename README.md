@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Anime recommendations](http://9gag.com/gag/a2vqZje)
- - 😝 [Hello](http://9gag.com/gag/aQzn388)
- - 💣 [3 Year Old Girl Getting Flown Into Sky After Getting Caught In Kite](http://9gag.com/gag/awy7nY1)
- - 😝 [Norilsk. It has 35% of world palladium production](http://9gag.com/gag/aoyj5Ze)
- - 👉 [Somewhere in a train station in Chile](http://9gag.com/gag/aryRgKy)<!-- MEMES:END -->
+ - 😝 [So close...](http://9gag.com/gag/aXPXqDv)
+ - 😝 [Comparing body count](http://9gag.com/gag/aVvXM4d)
+ - 💣 [2024 junior world champion launching his F1D, total flight time 22 minutes](http://9gag.com/gag/azxVXgj)
+ - 😝 [What are the odds?](http://9gag.com/gag/aMVQ8oW)
+ - 👉 [JURATHICC WORLD !](http://9gag.com/gag/a34LK8N)<!-- MEMES:END -->
 
 ---
 

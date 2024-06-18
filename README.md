@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [There are now two ways to stream Steam VR games to Apple Vision Pro](https://appleinsider.com/articles/24/06/18/there-are-now-two-ways-to-stream-steam-vr-games-to-apple-vision-pro?utm_medium=rss)
  - [Sources: Apple is set to settle a long-running EU antitrust investigation over payments, after the EU accepted measures that Apple committed to in January 2024 &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240618/p14#a240618p14)
  - [Airbnb&#39;s Olympics Push Could Help it Win Over Paris](https://www.wired.com/story/airbnbs-olympics-push-paris/)
  - [Amazon Labor Union members vote to join forces with the 1.3M-member Teamsters union; ALU President Christian Smalls says Teamsters allocated $8M for organizing &lpar;Noam Scheiber/New York Times&rpar;](http://www.techmeme.com/240618/p13#a240618p13)
- - [Margrethe Vestager says Apple has a number of &quot;very serious&quot; issues under the EU&#39;s DMA, and the conclusions of an investigation will arrive &quot;hopefully soon&quot; &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/240618/p12#a240618p12)
- - [Mortgage Rates Take Dips Down: Current Mortgage Rates for June 18, 2024     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-rates-take-dips-down-current-mortgage-rates-for-june-18-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Margrethe Vestager says Apple has a number of &quot;very serious&quot; issues under the EU&#39;s DMA, and the conclusions of an investigation will arrive &quot;hopefully soon&quot; &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/240618/p12#a240618p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

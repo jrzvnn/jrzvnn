@@ -164,9 +164,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [An ex-Snap engineer debuts Butterflies, a social network where users can create AI personas that then interact with users and other AIs via posts and DMs &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240618/p29#a240618p29)
  - [STEM Students Refuse to Work at Google and Amazon Over Project Nimbus](https://www.wired.com/story/stem-students-refuse-to-work-at-google-and-amazon-over-project-nimbus/)
- - [Fisker tried to out Tesla Tesla, and now it’s bankrupt](https://www.theverge.com/2024/6/18/24181228/fisker-bankrupt-chapter-11-ev-ocean-tesla-playbook-musk)
- - [M4 MacBook Pro upgrade could arrive by end of 2024](https://appleinsider.com/articles/24/06/18/m4-macbook-pro-upgrade-could-arrive-by-end-of-2024?utm_medium=rss)
- - [Android 15 just reached a major milestone](https://www.theverge.com/2024/6/18/24181150/android-15-beta-3-platform-stability-passkeys)<!-- TECH:END -->
+ - [Exclusive Clip from Apple TV&#39;s &#39;Dark Matter&#39; video     - CNET](https://www.cnet.com/videos/exclusive-clip-from-apple-tvs-dark-matter/#ftag=CAD590a51e)
+ - [The Best Keurig Deals: Make Your Daily Cup of Joe at Home With Tons of Hot Deals     - CNET](https://www.cnet.com/deals/best-keurig-deals/#ftag=CAD590a51e)
+ - [Fisker tried to out Tesla Tesla, and now it’s bankrupt](https://www.theverge.com/2024/6/18/24181228/fisker-bankrupt-chapter-11-ev-ocean-tesla-playbook-musk)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

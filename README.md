@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never trust people who cry for the camera and choose to post it....](http://9gag.com/gag/a4PLbey)
- - 😝 [Sand people logic](http://9gag.com/gag/adBp9YN)
- - 💣 [Three for the same price!](http://9gag.com/gag/a2vqo81)
- - 😝 [Sounds easy enough](http://9gag.com/gag/aByr8gO)
- - 👉 [Thank god we have paper straws](http://9gag.com/gag/aW4O1QA)<!-- MEMES:END -->
+ - 😝 [Would you still have eaten it?](http://9gag.com/gag/ae9pMQp)
+ - 😝 [Its so hard to find this in this generation.](http://9gag.com/gag/axyGgBL)
+ - 💣 [I wonder why the critics score is consistent but audience score declining.](http://9gag.com/gag/a87jyYd)
+ - 😝 [Hello](http://9gag.com/gag/aQzn388)
+ - 👉 [A star is born](http://9gag.com/gag/a2vq431)<!-- MEMES:END -->
 
 ---
 

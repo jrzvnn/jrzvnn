@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU to settle Apple Pay NFC probe after Apple&#39;s concessions](https://appleinsider.com/articles/24/06/18/eu-to-settle-apple-pay-nfc-probe-after-apples-concessions?utm_medium=rss)
- - [Blackstone plans to buy Japanese digital comic provider Infocom in a ~$1.7B deal, in its biggest private equity transaction in Japan to date &lpar;Lisa Du/Bloomberg&rpar;](http://www.techmeme.com/240618/p16#a240618p16)
- - [20 Amazon Prime Perks You Might Not Be Using](https://www.wired.com/story/amazon-prime-perks/)
- - [How Apple will label AI-generated images made with Image Playground](https://appleinsider.com/articles/24/06/17/how-apple-will-label-ai-generated-images-made-with-image-playground?utm_medium=rss)
- - [Autonomous trucking startup Waabi raised a $200M Series B led by Uber and Khosla Ventures, after an $83.5M Series A in 2021, and aims for a full launch in 2025 &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/240618/p15#a240618p15)<!-- TECH:END -->
+ - [Apple Developer Academy gets new Artificial Intelligence curriculum](https://appleinsider.com/articles/24/06/18/apple-developer-academy-gets-new-artificial-intelligence-curriculum?utm_medium=rss)
+ - [How to Turn Your Phone Into a Webcam &lpar;2024&rpar;: Mac, Windows, iPhone, Android](https://www.wired.com/story/use-your-phone-as-webcam/)
+ - [Blink and you won’t miss these Moments](https://www.theverge.com/2024/6/18/24180359/blink-smart-security-camera-moments-cross-camera-tracking)
+ - [Xreal’s new gadget is a phone-sized Android tablet just for your AR glasses](https://www.theverge.com/2024/6/18/24180298/xreal-beam-pro-ar-glasses-usb-c-launch)
+ - [EU to settle Apple Pay NFC probe after Apple&#39;s concessions](https://appleinsider.com/articles/24/06/18/eu-to-settle-apple-pay-nfc-probe-after-apples-concessions?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

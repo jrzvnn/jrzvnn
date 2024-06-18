@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Internal memo: Meta merges its Reality Labs teams into the &quot;Metaverse&quot; product group that now includes Quest, and the AR product group, now called &quot;Wearables&quot; &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240618/p35#a240618p35)
  - [AMD is investigating claims of stolen company data](https://www.theverge.com/2024/6/18/24181406/amd-investigating-claims-stolen-company-data-sale-intelbroker)
  - [This universal remote wants to control your smart home sans hub](https://www.theverge.com/2024/6/18/24181245/cantata-haptique-rs90-rs90x-universal-remote-smart-home-controller)
  - [Nvidia overtakes Microsoft as the world’s most valuable company](https://www.theverge.com/2024/6/18/24181393/nvidia-most-valuable-company-microsoft-apple-google)
- - [Noam Chomsky isn’t dead yet](https://www.theverge.com/2024/6/18/24181373/noam-chomsky-not-dead-yet)
- - [Amazon&#39;s RxPass Extends to Medicare Recipients: How To Use the Online Pharmacy Perk     - CNET](https://www.cnet.com/health/medical/amazons-rxpass-extends-to-medicare-recipients-how-to-use-the-online-pharmacy-perk/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Noam Chomsky isn’t dead yet](https://www.theverge.com/2024/6/18/24181373/noam-chomsky-not-dead-yet)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [300 day&#39;s](http://9gag.com/gag/a5QKRpG)
- - 😝 [It&#39;s never their fault, of course.](http://9gag.com/gag/aKGBdwO)
- - 💣 [The design is very human](http://9gag.com/gag/a34LQg7)
  - 😝 [Mind your Manners](http://9gag.com/gag/apRB5wb)
- - 👉 [When insane people make a very important decisions.](http://9gag.com/gag/ae9przq)<!-- MEMES:END -->
+ - 😝 [300 day&#39;s](http://9gag.com/gag/a5QKRpG)
+ - 💣 [I just leave this here.](http://9gag.com/gag/a9yPK3m)
+ - 😝 [Europe What Are You Doing?](http://9gag.com/gag/aqy2gwQ)
+ - 👉 [Girls, always do the Hawk Tuah](http://9gag.com/gag/aKGBxpN)<!-- MEMES:END -->
 
 ---
 

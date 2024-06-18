@@ -171,10 +171,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How would you fix this one](http://9gag.com/gag/aMVQ96P)
+ - 😝 [So close...](http://9gag.com/gag/aXPXqDv)
+ - 😝 [Streamer Sneako gets his teeth broken after trying to bully Security Guard](http://9gag.com/gag/amo8BY6)
+ - 💣 [Well that escalated quickly](http://9gag.com/gag/aMVQ8YV)
  - 😝 [Comparing body count](http://9gag.com/gag/aVvXM4d)
- - 💣 [What are the odds?](http://9gag.com/gag/aMVQ8oW)
- - 😝 [Dunno which is stupider, throwing away a drink that you bought or smashing someone&#39;s windshield in front of a camera.](http://9gag.com/gag/ae9pbnb)
  - 👉 [Irl streamer BennyMac gets knocked out by very tolerate dude.](http://9gag.com/gag/awy7Xqr)<!-- MEMES:END -->
 
 ---

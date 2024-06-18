@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [300 day&#39;s](http://9gag.com/gag/a5QKRpG)
- - 😝 [I just leave this here.](http://9gag.com/gag/a9yPK3m)
- - 💣 [When insane people make a very important decisions.](http://9gag.com/gag/ae9przq)
- - 😝 [Mind your Manners](http://9gag.com/gag/apRB5wb)
- - 👉 [Girls, always do the Hawk Tuah](http://9gag.com/gag/aKGBxpN)<!-- MEMES:END -->
+ - 😝 [This f**ks with my brain.](http://9gag.com/gag/aVvX3jO)
+ - 😝 [Jet Ski Driver Dodged Shockwave by Jumping into Water Just in Time After Explosion in Beirut!](http://9gag.com/gag/aByr8mO)
+ - 💣 [2024 junior world champion launching his F1D, total flight time 22 minutes](http://9gag.com/gag/azxVXgj)
+ - 😝 [Bro, he lost the fight and his dignity](http://9gag.com/gag/a1mYWZv)
+ - 👉 [A star is born](http://9gag.com/gag/a2vq431)<!-- MEMES:END -->
 
 ---
 

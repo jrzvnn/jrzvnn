@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hello](http://9gag.com/gag/aQzn388)
- - 😝 [Jet Ski Driver Dodged Shockwave by Jumping into Water Just in Time After Explosion in Beirut!](http://9gag.com/gag/aByr8mO)
- - 💣 [A star is born](http://9gag.com/gag/a2vq431)
- - 😝 [The only thing holding the structure is paint](http://9gag.com/gag/axyG0xb)
- - 👉 [What are the odds?](http://9gag.com/gag/aMVQ8oW)<!-- MEMES:END -->
+ - 😝 [I cant wait to never hear from this again](http://9gag.com/gag/ae9pbYW)
+ - 😝 [True.](http://9gag.com/gag/aQzneLK)
+ - 💣 [Life by the German proper Gender](http://9gag.com/gag/apRBQrp)
+ - 😝 [300 day&#39;s](http://9gag.com/gag/a5QKRpG)
+ - 👉 [Comparing body count](http://9gag.com/gag/aVvXM4d)<!-- MEMES:END -->
 
 ---
 

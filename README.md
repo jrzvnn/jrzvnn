@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Apple&#39;s upcoming CarPlay updates, which aim to be &quot;a design toolkit for automakers&quot;, including feature &quot;layers&quot;, &quot;remote UI&quot;, and &quot;punch-through UI&quot; &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240618/p9#a240618p9)
+ - [My Favorite Affordable Sheets Are Discounted Right Now](https://www.wired.com/story/my-favorite-affordable-sheets-are-discounted-right-now/)
  - [Meta launches its much-awaited Threads API, letting developer publish posts, fetch content, manage replies, and view analytics, after an API beta in March 2024 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240618/p8#a240618p8)
  - [I Am Laura Kipnis-Bot, and I Will Make Reading Sexy and Tragic Again](https://www.wired.com/story/i-am-laura-kipnis-bot-and-i-will-make-reading-sexy-and-tragic-again/)
- - [Meta releases Threads API for developers to build ‘unique integrations’](https://www.theverge.com/2024/6/18/24180794/meta-threads-api-developers-launch-availability)
- - [Social media creators say earning a decent, reliable income is getting harder, as platforms pay less for popular posts and brands get pickier about partnerships &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240618/p7#a240618p7)
- - [Crypto Scammers Are Targeting Trump’s MAGA Supporters](https://www.wired.com/story/maga-crypto-scammers-donald-trump/)<!-- TECH:END -->
+ - [Meta releases Threads API for developers to build ‘unique integrations’](https://www.theverge.com/2024/6/18/24180794/meta-threads-api-developers-launch-availability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

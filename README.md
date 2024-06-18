@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at India&#39;s quick commerce market, which has become an important distribution channel for Indian food brands, as Zepto and others expand beyond groceries &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240618/p4#a240618p4)
  - [Google launches Gemini app for Android in India, supporting English and nine other languages; Gemini will be available via Google app on iOS in the coming weeks &lpar;Amar Subramanya/Google&rpar;](http://www.techmeme.com/240618/p3#a240618p3)
  - [Cambridge-based CuspAI, which is developing AI-powered tech for designing new materials, raised a $30M seed and has added Geoffrey Hinton to its advisory board &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/240618/p2#a240618p2)
  - [Signal president Meredith Whittaker warns the EU&#39;s recent &quot;upload moderation&quot; proposal to detect CSAM &quot;fundamentally undermines encryption&quot; of messaging apps &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240618/p1#a240618p1)
- - [B&amp;H&#39;s MacBook Pro Mega Deal Zone knocks up to $550 off](https://appleinsider.com/articles/24/06/18/bhs-macbook-pro-mega-deal-zone-knocks-up-to-550-off?utm_medium=rss)
- - [Dockcase Studio Smart USB-C Hub 8-in-1 Review - Powerful hub with perplexing features.](https://appleinsider.com/articles/24/06/18/dockcase-studio-smart-usb-c-hub-8-in-1-review---powerful-hub-with-perplexing-features?utm_medium=rss)<!-- TECH:END -->
+ - [B&amp;H&#39;s MacBook Pro Mega Deal Zone knocks up to $550 off](https://appleinsider.com/articles/24/06/18/bhs-macbook-pro-mega-deal-zone-knocks-up-to-550-off?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

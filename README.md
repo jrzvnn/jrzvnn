@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Margrethe Vestager says Apple has a number of &quot;very serious&quot; issues under the EU&#39;s DMA, and the conclusions of an investigation will arrive &quot;hopefully soon&quot; &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/240618/p12#a240618p12)
  - [EU has very serious issues with Apple, says competition chief](https://appleinsider.com/articles/24/06/18/eu-has-very-serious-issues-with-apple-says-competition-chief?utm_medium=rss)
  - [Some Google users, frustrated by the results, turn to Reddit as a search alternative; a weeklong test finds Reddit is best for product recommendations and more &lpar;Ann-Marie Alc&amp;aacute;ntara/Wall Street Journal&rpar;](http://www.techmeme.com/240618/p11#a240618p11)
  - [ISIS Created Fake CNN and Al Jazeera Broadcasts](https://www.wired.com/story/isis-created-fake-cnn-and-al-jazeera-broadcasts/)
- - [Sources: Huawei is considering taking a cut of in-app purchases on its Harmony OS, and has discussed a ~20% fee with developers, below Apple and Google&#39;s 30% &lpar;Pei Li/Bloomberg&rpar;](http://www.techmeme.com/240618/p10#a240618p10)
- - [A look at Apple&#39;s upcoming CarPlay updates, which aim to be &quot;a design toolkit for automakers&quot;, including feature &quot;layers&quot;, &quot;remote UI&quot;, and &quot;punch-through UI&quot; &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240618/p9#a240618p9)<!-- TECH:END -->
+ - [Sources: Huawei is considering taking a cut of in-app purchases on its Harmony OS, and has discussed a ~20% fee with developers, below Apple and Google&#39;s 30% &lpar;Pei Li/Bloomberg&rpar;](http://www.techmeme.com/240618/p10#a240618p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

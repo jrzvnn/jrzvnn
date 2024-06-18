@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This f**ks with my brain.](http://9gag.com/gag/aVvX3jO)
- - 😝 [Jet Ski Driver Dodged Shockwave by Jumping into Water Just in Time After Explosion in Beirut!](http://9gag.com/gag/aByr8mO)
- - 💣 [2024 junior world champion launching his F1D, total flight time 22 minutes](http://9gag.com/gag/azxVXgj)
- - 😝 [Bro, he lost the fight and his dignity](http://9gag.com/gag/a1mYWZv)
- - 👉 [A star is born](http://9gag.com/gag/a2vq431)<!-- MEMES:END -->
+ - 😝 [Anime recommendations](http://9gag.com/gag/a2vqZje)
+ - 😝 [Hello](http://9gag.com/gag/aQzn388)
+ - 💣 [3 Year Old Girl Getting Flown Into Sky After Getting Caught In Kite](http://9gag.com/gag/awy7nY1)
+ - 😝 [Norilsk. It has 35% of world palladium production](http://9gag.com/gag/aoyj5Ze)
+ - 👉 [Somewhere in a train station in Chile](http://9gag.com/gag/aryRgKy)<!-- MEMES:END -->
 
 ---
 

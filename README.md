@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Would you still have eaten it?](http://9gag.com/gag/ae9pMQp)
- - 😝 [Thank god we have paper straws](http://9gag.com/gag/aW4O1QA)
- - 💣 [Three for the same price!](http://9gag.com/gag/a2vqo81)
- - 😝 [Sand people logic](http://9gag.com/gag/adBp9YN)
- - 👉 [Never trust people who cry for the camera and choose to post it....](http://9gag.com/gag/a4PLbey)<!-- MEMES:END -->
+ - 😝 [How would you fix this one](http://9gag.com/gag/aMVQ96P)
+ - 😝 [Comparing body count](http://9gag.com/gag/aVvXM4d)
+ - 💣 [What are the odds?](http://9gag.com/gag/aMVQ8oW)
+ - 😝 [Dunno which is stupider, throwing away a drink that you bought or smashing someone&#39;s windshield in front of a camera.](http://9gag.com/gag/ae9pbnb)
+ - 👉 [Irl streamer BennyMac gets knocked out by very tolerate dude.](http://9gag.com/gag/awy7Xqr)<!-- MEMES:END -->
 
 ---
 

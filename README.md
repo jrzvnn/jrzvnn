@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Somewhere in a train station in Chile](http://9gag.com/gag/aryRgKy)
- - 😝 [Panic after getting into an accident](http://9gag.com/gag/aoyjpG2)
- - 💣 [Dunno which is stupider, throwing away a drink that you bought or smashing someone&#39;s windshield in front of a camera.](http://9gag.com/gag/ae9pbnb)
- - 😝 [Would you still have eaten it?](http://9gag.com/gag/ae9pMQp)
- - 👉 [I&#39;m sure there were no repurcusions](http://9gag.com/gag/aYQwK90)<!-- MEMES:END -->
+ - 😝 [Streamer Sneako gets his teeth broken after trying to bully Security Guard](http://9gag.com/gag/amo8BY6)
+ - 😝 [So close...](http://9gag.com/gag/aXPXqDv)
+ - 💣 [Would you still have eaten it?](http://9gag.com/gag/ae9pMQp)
+ - 😝 [True.](http://9gag.com/gag/aQzneLK)
+ - 👉 [Hello](http://9gag.com/gag/aQzn388)<!-- MEMES:END -->
 
 ---
 

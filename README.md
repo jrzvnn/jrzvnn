@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AIs are coming for social networks](https://www.theverge.com/2024/6/18/24181196/butterflies-app-ai-chatbots-social-media)
  - [Sony’s PlayStation Portal update adds public Wi-Fi support](https://www.theverge.com/2024/6/18/24181118/sony-playstation-portal-public-wifi-battery-touchpads-software-update)
  - [M4 MacBook Pro upgrade could arrive by end of 2024](https://appleinsider.com/articles/24/06/18/m4-macbook-pro-upgrade-could-arrive-by-end-of-2024?utm_medium=rss)
  - [Devs say Apple is denying or delaying notarization of iOS apps, including emulators and AltStore apps, to enforce its rules, defeating the point of the EU&#39;s DMA &lpar;Jason Snell/Six Colors&rpar;](http://www.techmeme.com/240618/p27#a240618p27)
- - [Athletes sound warning about extreme heat at Summer Olympics](https://www.theverge.com/2024/6/18/24181004/summer-paris-olympics-heatwave-athletes-report)
- - [HPE and Nvidia unveil private cloud offerings for generative AI workloads coming this fall, including HPE Private Cloud AI, a co-developed &quot;turnkey&quot; option &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/240618/p26#a240618p26)<!-- TECH:END -->
+ - [Athletes sound warning about extreme heat at Summer Olympics](https://www.theverge.com/2024/6/18/24181004/summer-paris-olympics-heatwave-athletes-report)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

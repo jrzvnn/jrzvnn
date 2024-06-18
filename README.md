@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Future HomeKit could track you through your house and predict your needs](https://appleinsider.com/articles/23/02/07/future-homekit-could-track-you-through-your-house-and-predict-your-needs?utm_medium=rss)
  - [There are now two ways to stream Steam VR games to Apple Vision Pro](https://appleinsider.com/articles/24/06/18/there-are-now-two-ways-to-stream-steam-vr-games-to-apple-vision-pro?utm_medium=rss)
  - [Sources: Apple is set to settle a long-running EU antitrust investigation over payments, after the EU accepted measures that Apple committed to in January 2024 &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240618/p14#a240618p14)
  - [Airbnb&#39;s Olympics Push Could Help it Win Over Paris](https://www.wired.com/story/airbnbs-olympics-push-paris/)
- - [Amazon Labor Union members vote to join forces with the 1.3M-member Teamsters union; ALU President Christian Smalls says Teamsters allocated $8M for organizing &lpar;Noam Scheiber/New York Times&rpar;](http://www.techmeme.com/240618/p13#a240618p13)
- - [Margrethe Vestager says Apple has a number of &quot;very serious&quot; issues under the EU&#39;s DMA, and the EU will reveal conclusions of its investigation &quot;hopefully soon&quot; &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/240618/p12#a240618p12)<!-- TECH:END -->
+ - [Amazon Labor Union members vote to join forces with the 1.3M-member Teamsters union; ALU President Christian Smalls says Teamsters allocated $8M for organizing &lpar;Noam Scheiber/New York Times&rpar;](http://www.techmeme.com/240618/p13#a240618p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

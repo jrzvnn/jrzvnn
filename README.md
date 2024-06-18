@@ -162,10 +162,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon Labor Union members vote to join forces with the 1.3M-member Teamsters union; ALU President Christian Smalls says Teamsters allocated $8M for organizing &lpar;Noam Scheiber/New York Times&rpar;](http://www.techmeme.com/240618/p13#a240618p13)
  - [Margrethe Vestager says Apple has a number of &quot;very serious&quot; issues under the EU&#39;s DMA, and the conclusions of an investigation will arrive &quot;hopefully soon&quot; &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/240618/p12#a240618p12)
  - [EU has very serious issues with Apple, says competition chief](https://appleinsider.com/articles/24/06/18/eu-has-very-serious-issues-with-apple-says-competition-chief?utm_medium=rss)
  - [Some Google users, frustrated by the results, turn to Reddit as a search alternative; a weeklong test finds Reddit is best for product recommendations and more &lpar;Ann-Marie Alc&amp;aacute;ntara/Wall Street Journal&rpar;](http://www.techmeme.com/240618/p11#a240618p11)
- - [ISIS Created Fake CNN and Al Jazeera Broadcasts](https://www.wired.com/story/isis-created-fake-cnn-and-al-jazeera-broadcasts/)
  - [Sources: Huawei is considering taking a cut of in-app purchases on its Harmony OS, and has discussed a ~20% fee with developers, below Apple and Google&#39;s 30% &lpar;Pei Li/Bloomberg&rpar;](http://www.techmeme.com/240618/p10#a240618p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

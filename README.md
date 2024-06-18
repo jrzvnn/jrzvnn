@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [B&amp;H&#39;s MacBook Pro Mega Deal Zone knocks up to $550 off](https://appleinsider.com/articles/24/06/18/bhs-macbook-pro-mega-deal-zone-knocks-up-to-550-off?utm_medium=rss)
  - [Dockcase Studio Smart USB-C Hub 8-in-1 Review - Powerful hub with perplexing features.](https://appleinsider.com/articles/24/06/18/dockcase-studio-smart-usb-c-hub-8-in-1-review---powerful-hub-with-perplexing-features?utm_medium=rss)
  - [Sources: Shein CEO Xu Yangtian has deliberately kept a low profile for fear of attracting unwanted public attention; Shein has never published any photos of him &lpar;Wency Chen/South China Morning Post&rpar;](http://www.techmeme.com/240617/p35#a240617p35)
- - [Finbourne, which helps financial companies organize and use their data in AI and other models, raised a &amp;pound;55M Series B at a valuation just over &amp;pound;280M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240617/p34#a240617p34)
- - [Q&amp;A with Tubi CEO Anjali Sud, who joined from Vimeo in September 2023, on the streaming industry, working within Fox, subscription fatigue, copyright, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240617/p33#a240617p33)
- - [Your Phone Needs to Chill: How to Keep It From Overheating     - CNET](https://www.cnet.com/tech/mobile/your-phone-needs-to-chill-how-to-keep-it-from-overheating/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints and Answer: Help for June 18, #1095     - CNET](https://www.cnet.com/tech/gaming/todays-wordle-hints-and-answer-help-for-june-18-1095/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints and Answers: Help for June 18, #373     - CNET](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-and-answer-help-for-june-18-373/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

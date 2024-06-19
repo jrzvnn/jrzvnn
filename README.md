@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Nvidia agrees to buy Shoreline, which helps automate fixing software problems, in a deal that values Shoreline at ~$100M; Shoreline has raised ~$57M &lpar;Bloomberg&rpar;](http://www.techmeme.com/240619/p17#a240619p17)
+ - [Fans of ‘Interview With the Vampire’ Say the Stakes Have Never Been Higher](https://www.wired.com/story/how-amc-ended-up-fighting-interview-with-the-vampire-fans-on-x/)
  - [Pornhub parent Aylo tells local news outlets in Kentucky and Indiana that local IP address are set to be geo-blocked in mid-July due to age verification laws &lpar;Michael McGrady Jr/AVN Industry News&rpar;](http://www.techmeme.com/240619/p16#a240619p16)
  - [The UK CMA opens a merger inquiry into HPE&#39;s $14B acquisition of Juniper Networks, setting an August 14 deadline to decide on opening a full investigation &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/240619/p15#a240619p15)
- - [How to Take the Perfect Soccer Penalty](https://www.wired.com/story/how-to-take-the-perfect-soccer-penalty/)
- - [Decagon, which uses generative AI to replace or augment a company&#39;s customer support staff, raised a $35M Series A led by Accel, with participation from a16z &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/240619/p14#a240619p14)
- - [Apple researchers add 20 more open-source models to improve text and image AI](https://appleinsider.com/articles/24/06/19/apple-researchers-add-20-more-open-source-models-to-improve-text-and-image-ai?utm_medium=rss)<!-- TECH:END -->
+ - [How to Take the Perfect Soccer Penalty](https://www.wired.com/story/how-to-take-the-perfect-soccer-penalty/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

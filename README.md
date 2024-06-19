@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This guy&#39;s patience level](http://9gag.com/gag/aqy2nLL)
- - 😝 [Imagine looking after your body and eating extremely clean in order to compete in a beauty pageant and then lose to THAT. My heart aches for the other participants. The US is cooked.](http://9gag.com/gag/aKGB6A1)
- - 💣 [Anime recommendations](http://9gag.com/gag/a2vqZje)
- - 😝 [This belongs here](http://9gag.com/gag/aryRnpV)
- - 👉 [Completely normal behavior](http://9gag.com/gag/ayNnonr)<!-- MEMES:END -->
+ - 😝 [As if love triangles weren\u2019t bad enough, they had to go create a love square](http://9gag.com/gag/avyLowO)
+ - 😝 [Hammer time](http://9gag.com/gag/ajPngQQ)
+ - 💣 [JURATHICC WORLD !](http://9gag.com/gag/a34LK8N)
+ - 😝 [Woman does a live stream to let everyone know the guy is broke cos he took her to Starbucks for a date](http://9gag.com/gag/ae9prQm)
+ - 👉 [Girls, always do the Hawk Tuah](http://9gag.com/gag/aKGBxpN)<!-- MEMES:END -->
 
 ---
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mommy](http://9gag.com/gag/aoyjP9m)
- - 😝 [Girls, always do the Hawk Tuah](http://9gag.com/gag/aKGBxpN)
- - 💣 [They went to allah](http://9gag.com/gag/awy7zPx)
- - 😝 [Amazing card work](http://9gag.com/gag/a7obWjq)
- - 👉 [Don\u2019t you just love the new neighbors?](http://9gag.com/gag/avyL58M)<!-- MEMES:END -->
+ - 😝 [300 day&#39;s](http://9gag.com/gag/a5QKRpG)
+ - 😝 [Hell of a first job&#39;s day](http://9gag.com/gag/an7BgY0)
+ - 💣 [Amazing card work](http://9gag.com/gag/a7obWjq)
+ - 😝 [Woman does a live stream to let everyone know the guy is broke cos he took her to Starbucks for a date](http://9gag.com/gag/ae9prQm)
+ - 👉 [9gaggers...](http://9gag.com/gag/aVvX04K)<!-- MEMES:END -->
 
 ---
 

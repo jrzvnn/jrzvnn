@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon plans to invest &amp;euro;10B to expand cloud and logistics in Germany, including &amp;euro;8.8B by 2026 on AWS, taking its total planned German investment to &amp;euro;17.8B &lpar;Reuters&rpar;](http://www.techmeme.com/240619/p22#a240619p22)
+ - [Pornhub to block two more states over age verification laws](https://www.theverge.com/2024/6/19/24181690/pornhub-indiana-kentucky-block-age-verification)
  - [Fusion Sparks an Energy Revolution](https://www.wired.com/story/fusion-sparks-an-energy-revolution/)
  - [4 great games I played at Summer Game Fest 2024](https://www.theverge.com/2024/6/19/24180304/summer-game-fest-2024-best-games)
- - [Panasonic unveils the Toughbook 40 Mk2, a 14-inch rugged laptop aimed at police and others, with up to Intel Core Ultra 7, 5G, and IP66, on sale now for $4,699+ &lpar;Jo&amp;atilde;o Carrasqueira/XDA Developers&rpar;](http://www.techmeme.com/240619/p21#a240619p21)
- - [Best Xbox Game Pass Deals: Save Big Money on Subscriptions of All Lengths     - CNET](https://www.cnet.com/deals/best-game-pass-and-xbox-live-deals/#ftag=CAD590a51e)
- - [&#39;Kung Fu Panda 4&#39; Streaming on Peacock: Release Date and Time     - CNET](https://www.cnet.com/tech/services-and-software/kung-fu-panda-4-streaming-on-peacock-release-date-and-time/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Panasonic unveils the Toughbook 40 Mk2, a 14-inch rugged laptop aimed at police and others, with up to Intel Core Ultra 7, 5G, and IP66, on sale now for $4,699+ &lpar;Jo&amp;atilde;o Carrasqueira/XDA Developers&rpar;](http://www.techmeme.com/240619/p21#a240619p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU chat control law proposes scanning your messages — even encrypted ones](https://www.theverge.com/2024/6/19/24181214/eu-chat-control-law-propose-scanning-encrypted-messages-csam)
- - [Amazon plans to invest &amp;euro;10B to expand cloud and logistics in Germany, including &amp;euro;8.8B by 2026 on AWS, taking its total planned German investment to &amp;euro;17.8B &lpar;Reuters&rpar;](http://www.techmeme.com/240619/p22#a240619p22)
- - [Pornhub to block two more states over age verification laws](https://www.theverge.com/2024/6/19/24181690/pornhub-indiana-kentucky-block-age-verification)
- - [Fusion Sparks an Energy Revolution](https://www.wired.com/story/fusion-sparks-an-energy-revolution/)
- - [4 great games I played at Summer Game Fest 2024](https://www.theverge.com/2024/6/19/24180304/summer-game-fest-2024-best-games)<!-- TECH:END -->
+ - [Greener Is Getting Going](https://www.wired.com/story/greener-is-getting-going/)
+ - [Analysis: Perplexity seems to scrape sites using surreptitious methods, ignoring robots.txt, with a Perplexity-tied machine doing so on Wired and other sites &lpar;Wired&rpar;](http://www.techmeme.com/240619/p23#a240619p23)
+ - [Sizzling Savings: Get a $200 Restaurant.com Credit for Just $35 Right Now     - CNET](https://www.cnet.com/deals/sizzling-savings-get-a-200-restaurant-com-credit-for-just-35-right-now/#ftag=CAD590a51e)
+ - [Tempur-Pedic Adapt Mattress Review: Reasons to Buy or Not Buy video     - CNET](https://www.cnet.com/videos/tempur-pedic-adapt-mattress-review-reasons-to-buy-or-not-buy/#ftag=CAD590a51e)
+ - [Best Solar Panel Installation Companies in San Francisco     - CNET](https://www.cnet.com/home/energy-and-utilities/san-francisco-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

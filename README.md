@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mommy](http://9gag.com/gag/aoyjP9m)
- - 😝 [Rip Maria](http://9gag.com/gag/a6ZLEON)
- - 💣 [Woman does a live stream to let everyone know the guy is broke cos he took her to Starbucks for a date](http://9gag.com/gag/ae9prQm)
+ - 😝 [The gaming crash is closer than ever](http://9gag.com/gag/a6ZLE79)
+ - 😝 [Would you still have eaten it?](http://9gag.com/gag/ae9pMQp)
+ - 💣 [Mommy](http://9gag.com/gag/aoyjP9m)
  - 😝 [Oh my ... !](http://9gag.com/gag/aByrm2A)
- - 👉 [Anime recommendations](http://9gag.com/gag/a2vqZje)<!-- MEMES:END -->
+ - 👉 [Hello](http://9gag.com/gag/aQzn388)<!-- MEMES:END -->
 
 ---
 

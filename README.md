@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best AirPods Deals: Score Apple AirPods at Major Discounts     - CNET](https://www.cnet.com/deals/best-apple-airpods-deals/#ftag=CAD590a51e)
  - [How to use an original Apple Pencil with a new iPad](https://appleinsider.com/inside/apple-pencil/tips/how-to-use-an-original-apple-pencil-with-a-new-ipad?utm_medium=rss)
- - [Three Apple internal tools allegedly stolen following June server breach](https://appleinsider.com/articles/24/06/19/three-apple-internal-tools-allegedly-stolen-following-june-server-breach?utm_medium=rss)
- - [OpenAI’s former chief scientist is starting a new AI company](https://www.theverge.com/2024/6/19/24181870/openai-former-chief-scientist-ilya-sutskever-ssi-safe-superintelligence)
- - [Adobe Says It Won&#39;t Train AI Using Artists&#39; Work. Creatives Aren&#39;t Convinced](https://www.wired.com/story/adobe-says-it-wont-train-ai-using-artists-work-creatives-arent-convinced/)
- - [Congress votes to advance nuclear energy development in the US](https://www.theverge.com/2024/6/19/24181808/congress-pass-nuclear-energy-bill-biden-signature)<!-- TECH:END -->
+ - [Apple Intelligence Will Label AI-Generated Images in Metadata     - CNET](https://www.cnet.com/tech/apple-intelligence-will-label-ai-generated-images-in-metadata/#ftag=CAD590a51e)
+ - [Best Camera Phone of 2024     - CNET](https://www.cnet.com/tech/mobile/best-camera-phone/#ftag=CAD590a51e)
+ - [Hopes for ACP Renewal Fade as Senate Cancels Vote. These Alternatives Remain     - CNET](https://www.cnet.com/home/internet/hopes-for-acp-renewal-fade-as-senate-cancels-vote-these-alternatives-remain/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

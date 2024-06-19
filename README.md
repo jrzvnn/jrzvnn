@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh my ... !](http://9gag.com/gag/aByrm2A)
- - 😝 [Would you still have eaten it?](http://9gag.com/gag/ae9pMQp)
- - 💣 [JURATHICC WORLD !](http://9gag.com/gag/a34LK8N)
- - 😝 [True.](http://9gag.com/gag/aQzneLK)
- - 👉 [The liberal left vs the conservative right](http://9gag.com/gag/a0eY5jZ)<!-- MEMES:END -->
+ - 😝 [When insane people make a very important decisions.](http://9gag.com/gag/ae9przq)
+ - 😝 [9gaggers...](http://9gag.com/gag/aVvX04K)
+ - 💣 [Wait for it,](http://9gag.com/gag/aZZNy3Q)
+ - 😝 [Mind your Manners](http://9gag.com/gag/apRB5wb)
+ - 👉 [Girls, always do the Hawk Tuah](http://9gag.com/gag/aKGBxpN)<!-- MEMES:END -->
 
 ---
 

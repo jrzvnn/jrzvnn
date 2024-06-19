@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gen X dads will get it](http://9gag.com/gag/aAypGV9)
- - 😝 [The reality of life.](http://9gag.com/gag/abAbVp8)
- - 💣 [They should teach useful Stuff at School](http://9gag.com/gag/ajPnmvp)
- - 😝 [Breizh da viken](http://9gag.com/gag/axyGBd1)
- - 👉 [How to become a cybersecurity professional](http://9gag.com/gag/a34LE2m)<!-- MEMES:END -->
+ - 😝 [This guy&#39;s patience level](http://9gag.com/gag/aqy2nLL)
+ - 😝 [Imagine looking after your body and eating extremely clean in order to compete in a beauty pageant and then lose to THAT. My heart aches for the other participants. The US is cooked.](http://9gag.com/gag/aKGB6A1)
+ - 💣 [Anime recommendations](http://9gag.com/gag/a2vqZje)
+ - 😝 [This belongs here](http://9gag.com/gag/aryRnpV)
+ - 👉 [Completely normal behavior](http://9gag.com/gag/ayNnonr)<!-- MEMES:END -->
 
 ---
 

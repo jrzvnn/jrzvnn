@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [6 Best Toasters &lpar;2024&rpar;: Tested and Reviewed](https://www.wired.com/gallery/best-toasters/)
+ - [You’ll need to buy a new smart lock if you want Apple Home to ‘magically’ unlock your door](https://www.theverge.com/2024/6/19/24180813/apple-home-hands-free-unlock-smart-lock-uwb-wwdc-2024)
+ - [Apple Intelligence impresses now, and it&#39;s still very early](https://appleinsider.com/articles/24/06/19/apple-intelligence-impresses-now-and-its-still-very-early?utm_medium=rss)
  - [Sources: Nvidia agrees to buy Shoreline, which helps automate fixing software problems, in a deal that values Shoreline at ~$100M; Shoreline has raised ~$57M &lpar;Bloomberg&rpar;](http://www.techmeme.com/240619/p17#a240619p17)
- - [Fans of ‘Interview With the Vampire’ Say the Stakes Have Never Been Higher](https://www.wired.com/story/how-amc-ended-up-fighting-interview-with-the-vampire-fans-on-x/)
- - [Pornhub parent Aylo tells local news outlets in Kentucky and Indiana that local IP address are set to be geo-blocked in mid-July due to age verification laws &lpar;Michael McGrady Jr/AVN Industry News&rpar;](http://www.techmeme.com/240619/p16#a240619p16)
- - [The UK CMA opens a merger inquiry into HPE&#39;s $14B acquisition of Juniper Networks, setting an August 14 deadline to decide on opening a full investigation &lpar;Katharine Gemmell/Bloomberg&rpar;](http://www.techmeme.com/240619/p15#a240619p15)
- - [How to Take the Perfect Soccer Penalty](https://www.wired.com/story/how-to-take-the-perfect-soccer-penalty/)<!-- TECH:END -->
+ - [Fans of ‘Interview With the Vampire’ Say the Stakes Have Never Been Higher](https://www.wired.com/story/how-amc-ended-up-fighting-interview-with-the-vampire-fans-on-x/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

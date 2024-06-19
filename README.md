@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ilya Sutskever discloses his plans for Safe Superintelligence, says &quot;we mean safe like nuclear safety as opposed to safe as in &#39;trust and safety&#39;&quot;, and more &lpar;Ashlee Vance/Bloomberg&rpar;](http://www.techmeme.com/240619/p26#a240619p26)
- - [Best Buy slashes Apple&#39;s iPad Air 5 to $399.99, save $200](https://appleinsider.com/articles/24/06/19/best-buy-slashes-apples-ipad-air-5-to-39999-save-200?utm_medium=rss)
- - [Ilya Sutskever, Daniel Gross, and Daniel Levy announce Safe Superintelligence, an American company &quot;with one goal and one product: a safe superintelligence&quot; &lpar;Safe Superintelligence Inc.&rpar;](http://www.techmeme.com/240619/p25#a240619p25)
- - [How Apple&#39;s Game Mode is expanding to iOS and iPadOS -- and how to turn it off](https://appleinsider.com/inside/ios-18/tips/how-apples-game-mode-is-expanding-to-ios-and-ipados----and-how-to-turn-it-off?utm_medium=rss)
- - [A look at Nvidia&#39;s 591,078% rise since its IPO in 1999; long-time investors in Nvidia have had to stomach three annual collapses of 50% or more in the stock &lpar;Bloomberg&rpar;](http://www.techmeme.com/240619/p24#a240619p24)<!-- TECH:END -->
+ - [Three Apple internal tools allegedly stolen following June server breach](https://appleinsider.com/articles/24/06/19/three-apple-internal-tools-allegedly-stolen-following-june-server-breach?utm_medium=rss)
+ - [OpenAI’s former chief scientist is starting a new AI company](https://www.theverge.com/2024/6/19/24181870/openai-former-chief-scientist-ilya-sutskever-ssi-safe-superintelligence)
+ - [Adobe Says It Won&#39;t Train AI Using Artists&#39; Work. Creatives Aren&#39;t Convinced](https://www.wired.com/story/adobe-says-it-wont-train-ai-using-artists-work-creatives-arent-convinced/)
+ - [Congress votes to advance nuclear energy development in the US](https://www.theverge.com/2024/6/19/24181808/congress-pass-nuclear-energy-bill-biden-signature)
+ - [Ilya Sutskever discloses his plans for Safe Superintelligence, says &quot;we mean safe like nuclear safety as opposed to safe as in &#39;trust and safety&#39;&quot;, and more &lpar;Ashlee Vance/Bloomberg&rpar;](http://www.techmeme.com/240619/p26#a240619p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

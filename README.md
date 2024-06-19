@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Girls, always do the Hawk Tuah](http://9gag.com/gag/aKGBxpN)
- - 😝 [Woman does a live stream to let everyone know the guy is broke cos he took her to Starbucks for a date](http://9gag.com/gag/ae9prQm)
- - 💣 [Would you still have eaten it?](http://9gag.com/gag/ae9pMQp)
+ - 😝 [Catching piranhas.......... Huh, wtf](http://9gag.com/gag/awy7XKy)
  - 😝 [Mommy](http://9gag.com/gag/aoyjP9m)
- - 👉 [JURATHICC WORLD !](http://9gag.com/gag/a34LK8N)<!-- MEMES:END -->
+ - 💣 [Girls, always do the Hawk Tuah](http://9gag.com/gag/aKGBxpN)
+ - 😝 [Snaxx Time](http://9gag.com/gag/aryRVvd)
+ - 👉 [Find the CAT](http://9gag.com/gag/aE0zgLe)<!-- MEMES:END -->
 
 ---
 

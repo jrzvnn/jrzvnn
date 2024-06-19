@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [On its Korean website, Samsung says its new Snapdragon-powered Galaxy Book 4 Edge is not compatible with or cannot install some Adobe apps, Fortnite, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240619/p18#a240619p18)
+ - [Safari&#39;s Reader mode is improved in iOS 18, even without Apple Intelligence](https://appleinsider.com/articles/24/06/19/safaris-reader-mode-is-improved-in-ios-18-even-without-apple-intelligence?utm_medium=rss)
+ - [LG Gram Pro 17 Review: Ultralight and Ultra Hot](https://www.wired.com/review/lg-gram-pro-17/)
  - [6 Best Toasters &lpar;2024&rpar;: Tested and Reviewed](https://www.wired.com/gallery/best-toasters/)
- - [You’ll need to buy a new smart lock if you want Apple Home to ‘magically’ unlock your door](https://www.theverge.com/2024/6/19/24180813/apple-home-hands-free-unlock-smart-lock-uwb-wwdc-2024)
- - [Apple Intelligence impresses now, and it&#39;s still very early](https://appleinsider.com/articles/24/06/19/apple-intelligence-impresses-now-and-its-still-very-early?utm_medium=rss)
- - [Sources: Nvidia agrees to buy Shoreline, which helps automate fixing software problems, in a deal that values Shoreline at ~$100M; Shoreline has raised ~$57M &lpar;Bloomberg&rpar;](http://www.techmeme.com/240619/p17#a240619p17)
- - [Fans of ‘Interview With the Vampire’ Say the Stakes Have Never Been Higher](https://www.wired.com/story/how-amc-ended-up-fighting-interview-with-the-vampire-fans-on-x/)<!-- TECH:END -->
+ - [You’ll need a new smart lock if you want Apple Home to ‘magically’ unlock your door](https://www.theverge.com/2024/6/19/24180813/apple-home-hands-free-unlock-smart-lock-uwb-wwdc-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

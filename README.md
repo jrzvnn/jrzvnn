@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to perfect your home screen with iPadOS 18 customization options](https://appleinsider.com/inside/ipados-18/tips/how-to-perfect-your-home-screen-with-ipados-18-customization-options?utm_medium=rss)
  - [The Evergoods Civic Panel Loader 24L Is a Well-Made Minimalist Backpack](https://www.wired.com/review/evergoods-civic-panel-loader-24l-backpack/)
- - [AI Startup Perplexity Is a Bullshit Machine](https://www.wired.com/story/perplexity-is-a-bullshit-machine/)
+ - [Perplexity Is a Bullshit Machine](https://www.wired.com/story/perplexity-is-a-bullshit-machine/)
  - [On its Korean website, Samsung says its new Snapdragon-powered Galaxy Book 4 Edge is not compatible with or cannot install some Adobe apps, Fortnite, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240619/p18#a240619p18)
- - [Safari&#39;s Reader mode is improved in iOS 18, even without Apple Intelligence](https://appleinsider.com/articles/24/06/19/safaris-reader-mode-is-improved-in-ios-18-even-without-apple-intelligence?utm_medium=rss)
- - [LG Gram Pro 17 Review: Ultralight and Ultra Hot](https://www.wired.com/review/lg-gram-pro-17/)<!-- TECH:END -->
+ - [Refi Rates Are Finally in the 6% Range Again After Fed Week: Refi Rates on June 19, 2024     - CNET](https://www.cnet.com/personal-finance/refi-rates-tick-even-lower-mortgage-refinance-rates-on-june-19-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

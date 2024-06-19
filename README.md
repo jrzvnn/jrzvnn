@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mind your Manners](http://9gag.com/gag/apRB5wb)
- - 😝 [9gaggers...](http://9gag.com/gag/aVvX04K)
- - 💣 [Wait for it,](http://9gag.com/gag/aZZNy3Q)
- - 😝 [If these drivers were buddies, there is no recovering from this](http://9gag.com/gag/a4PLE9y)
- - 👉 [Today collected 15kg of garbage, total is 3260kg.Today is little anniversary this is my 75st clean up. Thank you all for supporting. Your Cleaning Guy.](http://9gag.com/gag/aoyj55n)<!-- MEMES:END -->
+ - 😝 [Pork is love, pork is life](http://9gag.com/gag/aQzneyz)
+ - 😝 [JURATHICC WORLD !](http://9gag.com/gag/a34LK8N)
+ - 💣 [Woman does a live stream to let everyone know the guy is broke cos he took her to Starbucks for a date](http://9gag.com/gag/ae9prQm)
+ - 😝 [Hello](http://9gag.com/gag/aQzn388)
+ - 👉 [Would you still have eaten it?](http://9gag.com/gag/ae9pMQp)<!-- MEMES:END -->
 
 ---
 

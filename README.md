@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good one](http://9gag.com/gag/an7Bgxb)
- - 😝 [Diplomatic misadventures](http://9gag.com/gag/ayNn9A8)
- - 💣 [Hungarian fans singing the German summer hit](http://9gag.com/gag/ajPngwg)
- - 😝 [Girls, always do the Hawk Tuah](http://9gag.com/gag/aKGBxpN)
- - 👉 [9gaggers...](http://9gag.com/gag/aVvX04K)<!-- MEMES:END -->
+ - 😝 [Based Frenchman:](http://9gag.com/gag/azxVevx)
+ - 😝 [Scotland fans help an ederly person in Germany](http://9gag.com/gag/a2vq14w)
+ - 💣 [This guy&#39;s patience level](http://9gag.com/gag/aqy2nLL)
+ - 😝 [If these drivers were buddies, there is no recovering from this](http://9gag.com/gag/a4PLE9y)
+ - 👉 [Old friends](http://9gag.com/gag/abAbVxO)<!-- MEMES:END -->
 
 ---
 

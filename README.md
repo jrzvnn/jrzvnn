@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No more plastics in your balls](http://9gag.com/gag/a9yPpPZ)
- - 😝 [Oh my ... !](http://9gag.com/gag/aByrm2A)
- - 💣 [Hello](http://9gag.com/gag/aQzn388)
- - 😝 [300 day&#39;s](http://9gag.com/gag/a5QKRpG)
- - 👉 [9gaggers...](http://9gag.com/gag/aVvX04K)<!-- MEMES:END -->
+ - 😝 [Score!](http://9gag.com/gag/aoyje2n)
+ - 😝 [Would you still have eaten it?](http://9gag.com/gag/ae9pMQp)
+ - 💣 [Oh my ... !](http://9gag.com/gag/aByrm2A)
+ - 😝 [JURATHICC WORLD !](http://9gag.com/gag/a34LK8N)
+ - 👉 [Mommy](http://9gag.com/gag/aoyjP9m)<!-- MEMES:END -->
 
 ---
 

@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Comparing body count](http://9gag.com/gag/aVvXM4d)
- - 😝 [Anime recommendations](http://9gag.com/gag/a2vqZje)
- - 💣 [A star is born](http://9gag.com/gag/a2vq431)
- - 😝 [Oh my ... !](http://9gag.com/gag/aByrm2A)
- - 👉 [Woman does a live stream to let everyone know the guy is broke cos he took her to Starbucks for a date](http://9gag.com/gag/ae9prQm)<!-- MEMES:END -->
+ - 😝 [Find the CAT](http://9gag.com/gag/aE0zgLe)
+ - 💣 [2024 junior world champion launching his F1D, total flight time 22 minutes](http://9gag.com/gag/azxVXgj)
+ - 😝 [Woman does a live stream to let everyone know the guy is broke cos he took her to Starbucks for a date](http://9gag.com/gag/ae9prQm)
+ - 👉 [Oh my ... !](http://9gag.com/gag/aByrm2A)<!-- MEMES:END -->
 
 ---
 

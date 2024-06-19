@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A star is born](http://9gag.com/gag/a2vq431)
  - 😝 [Oh my ... !](http://9gag.com/gag/aByrm2A)
- - 💣 [Mommy](http://9gag.com/gag/aoyjP9m)
- - 😝 [True.](http://9gag.com/gag/aQzneLK)
- - 👉 [Spotted in Toronto.](http://9gag.com/gag/a2vq7gZ)<!-- MEMES:END -->
+ - 😝 [Can&#39;t wait for the cake](http://9gag.com/gag/avyLoEd)
+ - 💣 [Imagine looking after your body and eating extremely clean in order to compete in a beauty pageant and then lose to THAT. My heart aches for the other participants. The US is cooked.](http://9gag.com/gag/aKGB6A1)
+ - 😝 [JURATHICC WORLD !](http://9gag.com/gag/a34LK8N)
+ - 👉 [Would you still have eaten it?](http://9gag.com/gag/ae9pMQp)<!-- MEMES:END -->
 
 ---
 

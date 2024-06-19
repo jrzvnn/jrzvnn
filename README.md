@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [No more plastics in your balls](http://9gag.com/gag/a9yPpPZ)
  - 😝 [Oh my ... !](http://9gag.com/gag/aByrm2A)
- - 😝 [Can&#39;t wait for the cake](http://9gag.com/gag/avyLoEd)
- - 💣 [Imagine looking after your body and eating extremely clean in order to compete in a beauty pageant and then lose to THAT. My heart aches for the other participants. The US is cooked.](http://9gag.com/gag/aKGB6A1)
- - 😝 [JURATHICC WORLD !](http://9gag.com/gag/a34LK8N)
- - 👉 [Would you still have eaten it?](http://9gag.com/gag/ae9pMQp)<!-- MEMES:END -->
+ - 💣 [Hello](http://9gag.com/gag/aQzn388)
+ - 😝 [300 day&#39;s](http://9gag.com/gag/a5QKRpG)
+ - 👉 [9gaggers...](http://9gag.com/gag/aVvX04K)<!-- MEMES:END -->
 
 ---
 

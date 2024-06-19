@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Panasonic unveils the Toughbook 40 Mk2, a 14-inch rugged laptop aimed at police and others, with up to Intel Core Ultra 7, 5G, and IP66, on sale now for $4,699+ &lpar;Jo&amp;atilde;o Carrasqueira/XDA Developers&rpar;](http://www.techmeme.com/240619/p21#a240619p21)
  - [China plans new measures to encourage venture capital into its tech sector, including letting investors set up yuan funds; 2023 VC investment fell 7% to $69.9B &lpar;Foster Wong/Bloomberg&rpar;](http://www.techmeme.com/240619/p20#a240619p20)
  - [AT&amp;T is raising prices on old ‘unlimited’ plans](https://www.theverge.com/2024/6/19/24181668/att-raise-price-unlimited-plan-retired)
  - [We&#39;ve Tested the 9 Best TV Streaming Devices for 4K and HD](https://www.wired.com/gallery/best-4k-streaming-devices/)
- - [VR game studio Another Axiom says Gorilla Tag passed $100M in revenue since its early 2021 launch, one of the most successful VR games ever, and has 3M MAUs &lpar;Ben Lang/Road to VR&rpar;](http://www.techmeme.com/240619/p19#a240619p19)
- - [How to perfect your home screen with iPadOS 18 customization options](https://appleinsider.com/inside/ipados-18/tips/how-to-perfect-your-home-screen-with-ipados-18-customization-options?utm_medium=rss)<!-- TECH:END -->
+ - [VR game studio Another Axiom says Gorilla Tag passed $100M in revenue since its early 2021 launch, one of the most successful VR games ever, and has 3M MAUs &lpar;Ben Lang/Road to VR&rpar;](http://www.techmeme.com/240619/p19#a240619p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

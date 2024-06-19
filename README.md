@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix plans to open two permanent in-person experience venues, in Dallas and near Philadelphia, in 2025, a continuation of its previous pop-ups &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240619/p10#a240619p10)
  - [How generative AI model providers can create business models that reward copyright holders and content creators, much like what has happened on the web &lpar;Tim O&#39;Reilly/O&#39;Reilly Media&rpar;](http://www.techmeme.com/240619/p9#a240619p9)
  - [The US surgeon general&#39;s call for social media warning labels seems to ignore evidence and may feed into a moral panic, similar to prior panics over video games &lpar;Mike Masnick/The Daily Beast&rpar;](http://www.techmeme.com/240619/p8#a240619p8)
  - [As Nvidia passes Microsoft&#39;s market cap, John Chambers, who was the CEO when Cisco passed Microsoft during the dot-com boom, says the situation now is different &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/240619/p7#a240619p7)
- - [Sources: Huawei, which is considering taking a cut of in-app purchases on HarmonyOS, nears a deal with Tencent to exclude WeChat from revenue sharing &lpar;Pei Li/Bloomberg&rpar;](http://www.techmeme.com/240619/p6#a240619p6)
- - [A Google DeepMind study involving 20 professional comedians who already use AI in their work finds LLMs struggled to produce material that was original or funny &lpar;Rhiannon Williams/MIT Technology Review&rpar;](http://www.techmeme.com/240619/p5#a240619p5)<!-- TECH:END -->
+ - [Sources: Huawei, which is considering taking a cut of in-app purchases on HarmonyOS, nears a deal with Tencent to exclude WeChat from revenue sharing &lpar;Pei Li/Bloomberg&rpar;](http://www.techmeme.com/240619/p6#a240619p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

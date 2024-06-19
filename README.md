@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gotta love the rangers](http://9gag.com/gag/apRBmjb)
- - 😝 [This f**ks with my brain.](http://9gag.com/gag/aVvX3jO)
- - 💣 [JURATHICC WORLD !](http://9gag.com/gag/a34LK8N)
- - 😝 [When insane people make a very important decisions.](http://9gag.com/gag/ae9przq)
- - 👉 [Exercise and diet sure worked well for me](http://9gag.com/gag/a9yPARD)<!-- MEMES:END -->
+ - 😝 [Only on the boat on the way over and they already started the work](http://9gag.com/gag/apRBQDM)
+ - 😝 [Was it the heart?](http://9gag.com/gag/aYQwgpN)
+ - 💣 [Hello](http://9gag.com/gag/aQzn388)
+ - 😝 [Score!](http://9gag.com/gag/aoyje2n)
+ - 👉 [Gotta love the rangers](http://9gag.com/gag/apRBmjb)<!-- MEMES:END -->
 
 ---
 

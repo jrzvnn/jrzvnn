@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Girls, always do the Hawk Tuah](http://9gag.com/gag/aKGBxpN)
- - 😝 [Killing In The Name but with Shamisen](http://9gag.com/gag/aNDKg00)
- - 💣 [Wait for it,](http://9gag.com/gag/aZZNy3Q)
- - 😝 [UK What Happened?](http://9gag.com/gag/aKGBd5b)
- - 👉 [Gotta love the rangers](http://9gag.com/gag/apRBmjb)<!-- MEMES:END -->
+ - 😝 [Gotta love the rangers](http://9gag.com/gag/apRBmjb)
+ - 😝 [This f**ks with my brain.](http://9gag.com/gag/aVvX3jO)
+ - 💣 [JURATHICC WORLD !](http://9gag.com/gag/a34LK8N)
+ - 😝 [When insane people make a very important decisions.](http://9gag.com/gag/ae9przq)
+ - 👉 [Exercise and diet sure worked well for me](http://9gag.com/gag/a9yPARD)<!-- MEMES:END -->
 
 ---
 

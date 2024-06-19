@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The only thing holding the structure is paint](http://9gag.com/gag/axyG0xb)
+ - 😝 [Hmmmm](http://9gag.com/gag/aoyjPwx)
+ - 😝 [No more plastics in your balls](http://9gag.com/gag/a9yPpPZ)
+ - 💣 [Oh my ... !](http://9gag.com/gag/aByrm2A)
  - 😝 [Woman does a live stream to let everyone know the guy is broke cos he took her to Starbucks for a date](http://9gag.com/gag/ae9prQm)
- - 💣 [Comparing body count](http://9gag.com/gag/aVvXM4d)
- - 😝 [The gaming crash is closer than ever](http://9gag.com/gag/a6ZLE79)
- - 👉 [Hmmmm](http://9gag.com/gag/aoyjPwx)<!-- MEMES:END -->
+ - 👉 [JURATHICC WORLD !](http://9gag.com/gag/a34LK8N)<!-- MEMES:END -->
 
 ---
 

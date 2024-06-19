@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Google DeepMind study involving 20 professional comedians who already use AI in their work finds LLMs struggled to produce material that was original or funny &lpar;Rhiannon Williams/MIT Technology Review&rpar;](http://www.techmeme.com/240619/p5#a240619p5)
  - [Fengate Asset Management acquires over two-thirds stake in eStruxture, which operates data centers in 15 locations in four Canadian cities, in a $1.3B deal &lpar;Paul Vieira/Wall Street Journal&rpar;](http://www.techmeme.com/240619/p4#a240619p4)
  - [Japan is looking to lure AI investment away from Europe and elsewhere by adopting a light-touch, industry-led approach to regulating AI &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240619/p3#a240619p3)
  - [Sources: Google and OpenAI have stepped up staff vetting over Chinese espionage threat; Sequoia has encouraged some portfolio companies to tighten staff vetting &lpar;Financial Times&rpar;](http://www.techmeme.com/240619/p2#a240619p2)
- - [A look at Mozilla&#39;s acquisition of Anonym, which offers &quot;privacy-preserving&quot; ad tools, and how Anonym might interact with a user base that tends to block ads &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/240619/p1#a240619p1)
- - [Best Internet Providers in El Paso, Texas     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-el-paso-tx/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at Mozilla&#39;s acquisition of Anonym, which offers &quot;privacy-preserving&quot; ad tools, and how Anonym might interact with a user base that tends to block ads &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/240619/p1#a240619p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mommy](http://9gag.com/gag/aoyjP9m)
- - 😝 [Spotted in Toronto.](http://9gag.com/gag/a2vq7gZ)
- - 💣 [And one day for no reason at all...](http://9gag.com/gag/a2vqRQ9)
+ - 😝 [Good one](http://9gag.com/gag/an7Bgxb)
+ - 😝 [Diplomatic misadventures](http://9gag.com/gag/ayNn9A8)
+ - 💣 [Hungarian fans singing the German summer hit](http://9gag.com/gag/ajPngwg)
  - 😝 [Girls, always do the Hawk Tuah](http://9gag.com/gag/aKGBxpN)
- - 👉 [Woman does a live stream to let everyone know the guy is broke cos he took her to Starbucks for a date](http://9gag.com/gag/ae9prQm)<!-- MEMES:END -->
+ - 👉 [9gaggers...](http://9gag.com/gag/aVvX04K)<!-- MEMES:END -->
 
 ---
 

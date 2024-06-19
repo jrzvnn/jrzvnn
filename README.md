@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [At Augmented World Expo, Palmer Luckey says he&#39;s building a new headset &quot;driven by military requirements&quot; that will also be used for &quot;non-military stuff&quot; &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/240619/p31#a240619p31)
  - [Here&#39;s which features Apple changed ahead of their WWDC 2024 debut](https://appleinsider.com/articles/24/06/19/heres-which-features-apple-changed-ahead-of-their-wwdc-2024-debut?utm_medium=rss)
  - [Best Internet Providers in Bloomington, Indiana     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-bloomington-in/#ftag=CAD590a51e)
  - [Best Samsung Galaxy Tab S9 Deals: Save Up to $800 With Trade-In Discounts and More     - CNET](https://www.cnet.com/deals/samsung-galaxy-tab-s9-deals/#ftag=CAD590a51e)
- - [Best Mattress Deals: Save Hundreds on Top-Rated Brands     - CNET](https://www.cnet.com/deals/best-mattress-sales/#ftag=CAD590a51e)
- - [Arvind Mithal, a prolific computer scientist and longtime MIT professor who led the Computation Structures Group in MIT CSAIL, died on June 17 at age 77 &lpar;Adam Zewe/MIT News&rpar;](http://www.techmeme.com/240619/p30#a240619p30)<!-- TECH:END -->
+ - [Best Mattress Deals: Save Hundreds on Top-Rated Brands     - CNET](https://www.cnet.com/deals/best-mattress-sales/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

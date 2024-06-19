@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Qualcomm agrees to pay $75 million to end lawsuit linked to Apple complaints](https://www.theverge.com/2024/6/19/24181753/qualcomm-75-million-settlement-lawsuit-apple-complaints)
  - [Greener Is Getting Going](https://www.wired.com/story/greener-is-getting-going/)
  - [Analysis: Perplexity seems to scrape sites using surreptitious methods, ignoring robots.txt, with a Perplexity-tied machine doing so on Wired and other sites &lpar;Wired&rpar;](http://www.techmeme.com/240619/p23#a240619p23)
  - [Sizzling Savings: Get a $200 Restaurant.com Credit for Just $35 Right Now     - CNET](https://www.cnet.com/deals/sizzling-savings-get-a-200-restaurant-com-credit-for-just-35-right-now/#ftag=CAD590a51e)
- - [Tempur-Pedic Adapt Mattress Review: Reasons to Buy or Not Buy video     - CNET](https://www.cnet.com/videos/tempur-pedic-adapt-mattress-review-reasons-to-buy-or-not-buy/#ftag=CAD590a51e)
- - [Best Solar Panel Installation Companies in San Francisco     - CNET](https://www.cnet.com/home/energy-and-utilities/san-francisco-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tempur-Pedic Adapt Mattress Review: Reasons to Buy or Not Buy video     - CNET](https://www.cnet.com/videos/tempur-pedic-adapt-mattress-review-reasons-to-buy-or-not-buy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

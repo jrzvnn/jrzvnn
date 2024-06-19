@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ilya Sutskever discloses his plans for Safe Superintelligence, says &quot;we mean safe like nuclear safety as opposed to safe as in &#39;trust and safety&#39;&quot;, and more &lpar;Ashlee Vance/Bloomberg&rpar;](http://www.techmeme.com/240619/p26#a240619p26)
  - [Best Buy slashes Apple&#39;s iPad Air 5 to $399.99, save $200](https://appleinsider.com/articles/24/06/19/best-buy-slashes-apples-ipad-air-5-to-39999-save-200?utm_medium=rss)
  - [Ilya Sutskever, Daniel Gross, and Daniel Levy announce Safe Superintelligence, an American company &quot;with one goal and one product: a safe superintelligence&quot; &lpar;Safe Superintelligence Inc.&rpar;](http://www.techmeme.com/240619/p25#a240619p25)
  - [How Apple&#39;s Game Mode is expanding to iOS and iPadOS -- and how to turn it off](https://appleinsider.com/inside/ios-18/tips/how-apples-game-mode-is-expanding-to-ios-and-ipados----and-how-to-turn-it-off?utm_medium=rss)
- - [A look at Nvidia&#39;s 591,078% rise since its IPO in 1999; long-time investors in Nvidia have had to stomach three annual collapses of 50% or more in the stock &lpar;Bloomberg&rpar;](http://www.techmeme.com/240619/p24#a240619p24)
- - [New QVC Customers Can Save $30 on Orders of $60 or More     - CNET](https://www.cnet.com/deals/new-qvc-customers-can-save-30-on-orders-of-60-or-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at Nvidia&#39;s 591,078% rise since its IPO in 1999; long-time investors in Nvidia have had to stomach three annual collapses of 50% or more in the stock &lpar;Bloomberg&rpar;](http://www.techmeme.com/240619/p24#a240619p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Consensys says the US SEC is &quot;closing its investigation into Ethereum 2.0&quot; and &quot;will not bring charges alleging that sales of ETH are securities transactions&quot; &lpar;Ryan Ozawa/Decrypt&rpar;](http://www.techmeme.com/240618/p37#a240618p37)
  - [The California Labor Commissioner&#39;s Office fines Amazon $5.9M for violating a 2022 state law by failing to properly inform workers of quotas at two warehouses &lpar;Caroline O&#39;Donovan/Washington Post&rpar;](http://www.techmeme.com/240618/p36#a240618p36)
- - [Internal memo: Meta merges its Reality Labs teams into the &quot;Metaverse&quot; product group that now includes Quest, and the AR product group, now called &quot;Wearables&quot; &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240618/p35#a240618p35)
- - [Xbox Game Pass: You Can Play My Time at Sandrock, FC 24 and More Soon     - CNET](https://www.cnet.com/tech/gaming/xbox-game-pass-you-can-play-my-time-at-sandrock-fc-24-and-more-soon/#ftag=CAD590a51e)
- - [3 Anti-Aging Exercises to Help You Stay Active     - CNET](https://www.cnet.com/health/fitness/3-anti-aging-exercises-to-help-you-stay-active/#ftag=CAD590a51e)
- - [AMD is investigating claims of stolen company data](https://www.theverge.com/2024/6/18/24181406/amd-investigating-claims-stolen-company-data-sale-intelbroker)<!-- TECH:END -->
+ - [US Government Sues Adobe Over &#39;Convoluted&#39; Cancellation Process     - CNET](https://www.cnet.com/tech/services-and-software/us-government-sues-adobe-over-convoluted-cancellation-process/#ftag=CAD590a51e)
+ - [Lift Weights to Lose Weight: How Strength Training Burns Fat     - CNET](https://www.cnet.com/health/fitness/lift-weights-to-lose-weight-how-strength-training-burns-fat/#ftag=CAD590a51e)
+ - [What&#39;s This About Spectrum Raising Prices in July? Here&#39;s What You Need to Know     - CNET](https://www.cnet.com/home/internet/whats-this-about-spectrum-raising-prices-in-july-heres-what-you-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

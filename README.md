@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to use an original Apple Pencil with a new iPad](https://appleinsider.com/inside/apple-pencil/tips/how-to-use-an-original-apple-pencil-with-a-new-ipad?utm_medium=rss)
  - [Three Apple internal tools allegedly stolen following June server breach](https://appleinsider.com/articles/24/06/19/three-apple-internal-tools-allegedly-stolen-following-june-server-breach?utm_medium=rss)
  - [OpenAI’s former chief scientist is starting a new AI company](https://www.theverge.com/2024/6/19/24181870/openai-former-chief-scientist-ilya-sutskever-ssi-safe-superintelligence)
  - [Adobe Says It Won&#39;t Train AI Using Artists&#39; Work. Creatives Aren&#39;t Convinced](https://www.wired.com/story/adobe-says-it-wont-train-ai-using-artists-work-creatives-arent-convinced/)
- - [Congress votes to advance nuclear energy development in the US](https://www.theverge.com/2024/6/19/24181808/congress-pass-nuclear-energy-bill-biden-signature)
- - [Ilya Sutskever discloses his plans for Safe Superintelligence, says &quot;we mean safe like nuclear safety as opposed to safe as in &#39;trust and safety&#39;&quot;, and more &lpar;Ashlee Vance/Bloomberg&rpar;](http://www.techmeme.com/240619/p26#a240619p26)<!-- TECH:END -->
+ - [Congress votes to advance nuclear energy development in the US](https://www.theverge.com/2024/6/19/24181808/congress-pass-nuclear-energy-bill-biden-signature)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

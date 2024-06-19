@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh my ... !](http://9gag.com/gag/aByrm2A)
- - 😝 [Comparing body count](http://9gag.com/gag/aVvXM4d)
- - 💣 [Mommy](http://9gag.com/gag/aoyjP9m)
- - 😝 [JURATHICC WORLD !](http://9gag.com/gag/a34LK8N)
- - 👉 [Woman does a live stream to let everyone know the guy is broke cos he took her to Starbucks for a date](http://9gag.com/gag/ae9prQm)<!-- MEMES:END -->
+ - 😝 [9gaggers...](http://9gag.com/gag/aVvX04K)
+ - 😝 [True.](http://9gag.com/gag/aQzneLK)
+ - 💣 [2024 junior world champion launching his F1D, total flight time 22 minutes](http://9gag.com/gag/azxVXgj)
+ - 😝 [Mommy](http://9gag.com/gag/aoyjP9m)
+ - 👉 [The surprise face though](http://9gag.com/gag/abAbzPp)<!-- MEMES:END -->
 
 ---
 

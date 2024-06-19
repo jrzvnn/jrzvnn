@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Finn was friend-zoned.](http://9gag.com/gag/abAbgDX)
- - 😝 [Find the CAT](http://9gag.com/gag/aE0zgLe)
- - 💣 [Amazing card work](http://9gag.com/gag/a7obWjq)
- - 😝 [And one day for no reason at all...](http://9gag.com/gag/a2vqRQ9)
- - 👉 [Woman does a live stream to let everyone know the guy is broke cos he took her to Starbucks for a date](http://9gag.com/gag/ae9prQm)<!-- MEMES:END -->
+ - 😝 [Mommy](http://9gag.com/gag/aoyjP9m)
+ - 😝 [Girls, always do the Hawk Tuah](http://9gag.com/gag/aKGBxpN)
+ - 💣 [They went to allah](http://9gag.com/gag/awy7zPx)
+ - 😝 [Amazing card work](http://9gag.com/gag/a7obWjq)
+ - 👉 [Don\u2019t you just love the new neighbors?](http://9gag.com/gag/avyL58M)<!-- MEMES:END -->
 
 ---
 

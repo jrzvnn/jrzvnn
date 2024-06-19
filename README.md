@@ -171,8 +171,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Spotted in Toronto.](http://9gag.com/gag/a2vq7gZ)
  - 😝 [Oh my ... !](http://9gag.com/gag/aByrm2A)
  - 💣 [Mommy](http://9gag.com/gag/aoyjP9m)
- - 😝 [Woman does a live stream to let everyone know the guy is broke cos he took her to Starbucks for a date](http://9gag.com/gag/ae9prQm)
- - 👉 [9gaggers...](http://9gag.com/gag/aVvX04K)<!-- MEMES:END -->
+ - 😝 [9gaggers...](http://9gag.com/gag/aVvX04K)
+ - 👉 [What does a 5000 year old monument have to do with oil, what a bunch of Cee You Next Tuesdays.](http://9gag.com/gag/adBpgB2)<!-- MEMES:END -->
 
 ---
 

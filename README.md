@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Based Frenchman:](http://9gag.com/gag/azxVevx)
- - 😝 [Scotland fans help an ederly person in Germany](http://9gag.com/gag/a2vq14w)
- - 💣 [This guy&#39;s patience level](http://9gag.com/gag/aqy2nLL)
- - 😝 [If these drivers were buddies, there is no recovering from this](http://9gag.com/gag/a4PLE9y)
- - 👉 [Old friends](http://9gag.com/gag/abAbVxO)<!-- MEMES:END -->
+ - 😝 [Spotted in Toronto.](http://9gag.com/gag/a2vq7gZ)
+ - 😝 [Mommy](http://9gag.com/gag/aoyjP9m)
+ - 💣 [Girls, always do the Hawk Tuah](http://9gag.com/gag/aKGBxpN)
+ - 😝 [Amazing card work](http://9gag.com/gag/a7obWjq)
+ - 👉 [And one day for no reason at all...](http://9gag.com/gag/a2vqRQ9)<!-- MEMES:END -->
 
 ---
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AT&amp;T is raising prices on old ‘unlimited’ plans](https://www.theverge.com/2024/6/19/24181668/att-raise-price-unlimited-plan-retired)
+ - [We&#39;ve Tested the 9 Best TV Streaming Devices for 4K and HD](https://www.wired.com/gallery/best-4k-streaming-devices/)
  - [VR game studio Another Axiom says Gorilla Tag passed $100M in revenue since its early 2021 launch, one of the most successful VR games ever, and has 3M MAUs &lpar;Ben Lang/Road to VR&rpar;](http://www.techmeme.com/240619/p19#a240619p19)
  - [How to perfect your home screen with iPadOS 18 customization options](https://appleinsider.com/inside/ipados-18/tips/how-to-perfect-your-home-screen-with-ipados-18-customization-options?utm_medium=rss)
- - [The Evergoods Civic Panel Loader 24L Is a Well-Made Minimalist Backpack](https://www.wired.com/review/evergoods-civic-panel-loader-24l-backpack/)
- - [Perplexity Is a Bullshit Machine](https://www.wired.com/story/perplexity-is-a-bullshit-machine/)
- - [On its Korean website, Samsung says its new Snapdragon-powered Galaxy Book 4 Edge is not compatible with or cannot install some Adobe apps, Fortnite, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240619/p18#a240619p18)<!-- TECH:END -->
+ - [The Evergoods Civic Panel Loader 24L Is a Well-Made Minimalist Backpack](https://www.wired.com/review/evergoods-civic-panel-loader-24l-backpack/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

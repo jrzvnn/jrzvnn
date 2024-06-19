@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Evergoods Civic Panel Loader 24L Is a Well-Made Minimalist Backpack](https://www.wired.com/review/evergoods-civic-panel-loader-24l-backpack/)
+ - [AI Startup Perplexity Is a Bullshit Machine](https://www.wired.com/story/perplexity-is-a-bullshit-machine/)
  - [On its Korean website, Samsung says its new Snapdragon-powered Galaxy Book 4 Edge is not compatible with or cannot install some Adobe apps, Fortnite, and more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240619/p18#a240619p18)
  - [Safari&#39;s Reader mode is improved in iOS 18, even without Apple Intelligence](https://appleinsider.com/articles/24/06/19/safaris-reader-mode-is-improved-in-ios-18-even-without-apple-intelligence?utm_medium=rss)
- - [LG Gram Pro 17 Review: Ultralight and Ultra Hot](https://www.wired.com/review/lg-gram-pro-17/)
- - [6 Best Toasters &lpar;2024&rpar;: Tested and Reviewed](https://www.wired.com/gallery/best-toasters/)
- - [You’ll need a new smart lock if you want Apple Home to ‘magically’ unlock your door](https://www.theverge.com/2024/6/19/24180813/apple-home-hands-free-unlock-smart-lock-uwb-wwdc-2024)<!-- TECH:END -->
+ - [LG Gram Pro 17 Review: Ultralight and Ultra Hot](https://www.wired.com/review/lg-gram-pro-17/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

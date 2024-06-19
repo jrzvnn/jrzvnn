@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pork is love, pork is life](http://9gag.com/gag/aQzneyz)
- - 😝 [JURATHICC WORLD !](http://9gag.com/gag/a34LK8N)
- - 💣 [Woman does a live stream to let everyone know the guy is broke cos he took her to Starbucks for a date](http://9gag.com/gag/ae9prQm)
- - 😝 [Hello](http://9gag.com/gag/aQzn388)
- - 👉 [Would you still have eaten it?](http://9gag.com/gag/ae9pMQp)<!-- MEMES:END -->
+ - 😝 [Girls, always do the Hawk Tuah](http://9gag.com/gag/aKGBxpN)
+ - 😝 [Woman does a live stream to let everyone know the guy is broke cos he took her to Starbucks for a date](http://9gag.com/gag/ae9prQm)
+ - 💣 [Would you still have eaten it?](http://9gag.com/gag/ae9pMQp)
+ - 😝 [Mommy](http://9gag.com/gag/aoyjP9m)
+ - 👉 [JURATHICC WORLD !](http://9gag.com/gag/a34LK8N)<!-- MEMES:END -->
 
 ---
 

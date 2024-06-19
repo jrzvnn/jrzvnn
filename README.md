@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When insane people make a very important decisions.](http://9gag.com/gag/ae9przq)
- - 😝 [Hello](http://9gag.com/gag/aQzn388)
- - 💣 [Comparing body count](http://9gag.com/gag/aVvXM4d)
- - 😝 [True.](http://9gag.com/gag/aQzneLK)
- - 👉 [Girls, always do the Hawk Tuah](http://9gag.com/gag/aKGBxpN)<!-- MEMES:END -->
+ - 😝 [Comparing body count](http://9gag.com/gag/aVvXM4d)
+ - 😝 [Anime recommendations](http://9gag.com/gag/a2vqZje)
+ - 💣 [A star is born](http://9gag.com/gag/a2vq431)
+ - 😝 [Oh my ... !](http://9gag.com/gag/aByrm2A)
+ - 👉 [Woman does a live stream to let everyone know the guy is broke cos he took her to Starbucks for a date](http://9gag.com/gag/ae9prQm)<!-- MEMES:END -->
 
 ---
 

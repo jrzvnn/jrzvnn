@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How generative AI model providers can create business models that reward copyright holders and content creators, much like what has happened on the web &lpar;Tim O&#39;Reilly/O&#39;Reilly Media&rpar;](http://www.techmeme.com/240619/p9#a240619p9)
  - [The US surgeon general&#39;s call for social media warning labels seems to ignore evidence and may feed into a moral panic, similar to prior panics over video games &lpar;Mike Masnick/The Daily Beast&rpar;](http://www.techmeme.com/240619/p8#a240619p8)
  - [As Nvidia passes Microsoft&#39;s market cap, John Chambers, who was the CEO when Cisco passed Microsoft during the dot-com boom, says the situation now is different &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/240619/p7#a240619p7)
  - [Sources: Huawei, which is considering taking a cut of in-app purchases on HarmonyOS, nears a deal with Tencent to exclude WeChat from revenue sharing &lpar;Pei Li/Bloomberg&rpar;](http://www.techmeme.com/240619/p6#a240619p6)
- - [A Google DeepMind study involving 20 professional comedians who already use AI in their work finds LLMs struggled to produce material that was original or funny &lpar;Rhiannon Williams/MIT Technology Review&rpar;](http://www.techmeme.com/240619/p5#a240619p5)
- - [Fengate Asset Management acquires over two-thirds stake in eStruxture, which operates data centers in 15 locations in four Canadian cities, in a $1.3B deal &lpar;Paul Vieira/Wall Street Journal&rpar;](http://www.techmeme.com/240619/p4#a240619p4)<!-- TECH:END -->
+ - [A Google DeepMind study involving 20 professional comedians who already use AI in their work finds LLMs struggled to produce material that was original or funny &lpar;Rhiannon Williams/MIT Technology Review&rpar;](http://www.techmeme.com/240619/p5#a240619p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

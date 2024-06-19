@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 16 Best Messenger Bags, Crossbody Bags, Slings and Shoulder Bags &lpar;2024&rpar;](https://www.wired.com/gallery/best-messenger-bags/)
+ - [A look at Rebind, a mysterious startup that turns Margaret Atwood and other authors&#39; voices into AI reading companions, and an interview with CEO John Dubuque &lpar;Laura Kipnis/Wired&rpar;](http://www.techmeme.com/240619/p12#a240619p12)
+ - [This Is What Would Happen if China Invaded Taiwan](https://www.wired.com/story/this-is-what-would-happen-if-china-invaded-taiwan/)
  - [Framework partners with DeepComputing to build a RISC-V mainboard for its Laptop 13, set to become one of the first RISC-V laptops; price and release are TBC &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240619/p11#a240619p11)
- - [Netflix plans to open two permanent in-person experience venues, in Dallas and near Philadelphia, in 2025, a continuation of its previous pop-ups &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240619/p10#a240619p10)
- - [Best Internet Providers in Boise, Idaho     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-boise-id/#ftag=CAD590a51e)
- - [How generative AI model providers can create business models that reward copyright holders and content creators, much like what has happened on the web &lpar;Tim O&#39;Reilly/O&#39;Reilly Media&rpar;](http://www.techmeme.com/240619/p9#a240619p9)
- - [The US surgeon general&#39;s call for social media warning labels seems to ignore evidence and may feed into a moral panic, similar to prior panics over video games &lpar;Mike Masnick/The Daily Beast&rpar;](http://www.techmeme.com/240619/p8#a240619p8)<!-- TECH:END -->
+ - [Best Internet Providers in Morgantown, West Virginia     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-morgantown-wv/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

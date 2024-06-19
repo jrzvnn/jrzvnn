@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The California Labor Commissioner&#39;s Office fines Amazon $5.9M for violating a 2022 state law by failing to properly inform workers of quotas at two warehouses &lpar;Caroline O&#39;Donovan/Washington Post&rpar;](http://www.techmeme.com/240618/p36#a240618p36)
  - [Internal memo: Meta merges its Reality Labs teams into the &quot;Metaverse&quot; product group that now includes Quest, and the AR product group, now called &quot;Wearables&quot; &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240618/p35#a240618p35)
- - [AMD is investigating claims of stolen company data](https://www.theverge.com/2024/6/18/24181406/amd-investigating-claims-stolen-company-data-sale-intelbroker)
- - [This universal remote wants to control your smart home sans hub](https://www.theverge.com/2024/6/18/24181245/cantata-haptique-rs90-rs90x-universal-remote-smart-home-controller)
- - [Nvidia overtakes Microsoft as the world’s most valuable company](https://www.theverge.com/2024/6/18/24181393/nvidia-most-valuable-company-microsoft-apple-google)
- - [Noam Chomsky isn’t dead yet](https://www.theverge.com/2024/6/18/24181373/noam-chomsky-not-dead-yet)<!-- TECH:END -->
+ - [Xbox Game Pass: You Can Play My Time at Sandrock, FC 24 and More Soon     - CNET](https://www.cnet.com/tech/gaming/xbox-game-pass-you-can-play-my-time-at-sandrock-fc-24-and-more-soon/#ftag=CAD590a51e)
+ - [3 Anti-Aging Exercises to Help You Stay Active     - CNET](https://www.cnet.com/health/fitness/3-anti-aging-exercises-to-help-you-stay-active/#ftag=CAD590a51e)
+ - [AMD is investigating claims of stolen company data](https://www.theverge.com/2024/6/18/24181406/amd-investigating-claims-stolen-company-data-sale-intelbroker)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

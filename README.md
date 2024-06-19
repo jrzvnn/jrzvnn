@@ -161,9 +161,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Update your Windows PC to avoid a serious Wi-Fi vulnerability](https://www.theverge.com/2024/6/19/24181908/microsoft-windows-pc-update-wi-fi-vulnerability)
  - [China&#39;s top-valued AI startup, Moonshot AI, recently debuted a role-play chat app and music maker app in the US; Chinese rival MiniMax also expanded to the US &lpar;The Information&rpar;](http://www.techmeme.com/240619/p27#a240619p27)
- - [Best AirPods Deals: Score Apple AirPods at Major Discounts     - CNET](https://www.cnet.com/deals/best-apple-airpods-deals/#ftag=CAD590a51e)
- - [How to use an original Apple Pencil with a new iPad](https://appleinsider.com/inside/apple-pencil/tips/how-to-use-an-original-apple-pencil-with-a-new-ipad?utm_medium=rss)
- - [Apple Intelligence Will Label AI-Generated Images in Metadata     - CNET](https://www.cnet.com/tech/apple-intelligence-will-label-ai-generated-images-in-metadata/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Online Glasses and Contacts Deals: Start Summer With New Lenses or Glasses at a Great Price     - CNET](https://www.cnet.com/deals/best-online-glasses-and-contacts-deals/#ftag=CAD590a51e)
+ - [Hopes for ACP Renewal Fade as Senate Cancels Vote. These Alternatives Remain     - CNET](https://www.cnet.com/home/internet/hopes-for-acp-renewal-fade-as-senate-cancels-vote-these-alternatives-remain/#ftag=CAD590a51e)
+ - [Optimum Internet Review: Comparing Pricing, Speeds and Availability     - CNET](https://www.cnet.com/home/internet/optimum-internet-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

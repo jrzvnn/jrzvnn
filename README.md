@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Decagon, which uses generative AI to replace or augment a company&#39;s customer support staff, raised a $35M Series A led by Accel, with participation from a16z &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/240619/p14#a240619p14)
  - [Apple researchers add 20 more open-source models to improve text and image AI](https://appleinsider.com/articles/24/06/19/apple-researchers-add-20-more-open-source-models-to-improve-text-and-image-ai?utm_medium=rss)
  - [Sources detail how Jensen Huang and Nvidia are guarding against slowing chip sales, including offering more cloud services and designing custom server racks &lpar;The Information&rpar;](http://www.techmeme.com/240619/p13#a240619p13)
  - [The 16 Best Messenger Bags, Crossbody Bags, Slings and Shoulder Bags &lpar;2024&rpar;](https://www.wired.com/gallery/best-messenger-bags/)
- - [A look at Rebind, a mysterious startup that turns Margaret Atwood and other authors&#39; voices into AI reading companions, and an interview with CEO John Dubuque &lpar;Laura Kipnis/Wired&rpar;](http://www.techmeme.com/240619/p12#a240619p12)
- - [This Is What Would Happen if China Invaded Taiwan](https://www.wired.com/story/this-is-what-would-happen-if-china-invaded-taiwan/)<!-- TECH:END -->
+ - [A look at Rebind, a mysterious startup that turns Margaret Atwood and other authors&#39; voices into AI reading companions, and an interview with CEO John Dubuque &lpar;Laura Kipnis/Wired&rpar;](http://www.techmeme.com/240619/p12#a240619p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

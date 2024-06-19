@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Google and OpenAI have stepped up staff vetting over Chinese espionage threat; Sequoia has encouraged some portfolio companies to tighten staff vetting &lpar;Financial Times&rpar;](http://www.techmeme.com/240619/p2#a240619p2)
  - [A look at Mozilla&#39;s acquisition of Anonym, which offers &quot;privacy-preserving&quot; ad tools, and how Anonym might interact with a user base that tends to block ads &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/240619/p1#a240619p1)
- - [How to schedule messages in iOS 18 using &#39;Send Later&#39;](https://appleinsider.com/inside/ios-18/tips/how-to-schedule-messages-in-ios-18-using-send-later?utm_medium=rss)
- - [FOI documents: eight UK train stations scanned passenger faces for two years as part of AI trials; Amazon software was used to predict age, gender, and emotions &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/240618/p38#a240618p38)
- - [Helix Plus Mattress Receives the Helix Treatment. Helix Plus Mattress Review video     - CNET](https://www.cnet.com/videos/helix-plus-mattress-receives-the-helix-treatment-helix-plus-mattress-review/#ftag=CAD590a51e)
- - [Consensys says the US SEC is &quot;closing its investigation into Ethereum 2.0&quot; and &quot;will not bring charges alleging that sales of ETH are securities transactions&quot; &lpar;Ryan Ozawa/Decrypt&rpar;](http://www.techmeme.com/240618/p37#a240618p37)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for June 19, #108     - CNET](https://www.cnet.com/tech/gaming/todays-nyt-strands-hint-answer-help/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for June 19, #374     - CNET](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answer-help-for-june-19-374/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for June 19, #1096     - CNET](https://www.cnet.com/tech/gaming/todays-wordle-hints-and-answer-help-for-june-19-1096/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

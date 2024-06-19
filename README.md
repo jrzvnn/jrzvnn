@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Only on the boat on the way over and they already started the work](http://9gag.com/gag/apRBQDM)
- - 😝 [Was it the heart?](http://9gag.com/gag/aYQwgpN)
- - 💣 [Hello](http://9gag.com/gag/aQzn388)
- - 😝 [Score!](http://9gag.com/gag/aoyje2n)
- - 👉 [Gotta love the rangers](http://9gag.com/gag/apRBmjb)<!-- MEMES:END -->
+ - 😝 [Oh my ... !](http://9gag.com/gag/aByrm2A)
+ - 😝 [Would you still have eaten it?](http://9gag.com/gag/ae9pMQp)
+ - 💣 [JURATHICC WORLD !](http://9gag.com/gag/a34LK8N)
+ - 😝 [True.](http://9gag.com/gag/aQzneLK)
+ - 👉 [The liberal left vs the conservative right](http://9gag.com/gag/a0eY5jZ)<!-- MEMES:END -->
 
 ---
 

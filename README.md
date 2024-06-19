@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [9gaggers...](http://9gag.com/gag/aVvX04K)
+ - 😝 [A star is born](http://9gag.com/gag/a2vq431)
+ - 😝 [Oh my ... !](http://9gag.com/gag/aByrm2A)
+ - 💣 [Mommy](http://9gag.com/gag/aoyjP9m)
  - 😝 [True.](http://9gag.com/gag/aQzneLK)
- - 💣 [2024 junior world champion launching his F1D, total flight time 22 minutes](http://9gag.com/gag/azxVXgj)
- - 😝 [Mommy](http://9gag.com/gag/aoyjP9m)
- - 👉 [The surprise face though](http://9gag.com/gag/abAbzPp)<!-- MEMES:END -->
+ - 👉 [Spotted in Toronto.](http://9gag.com/gag/a2vq7gZ)<!-- MEMES:END -->
 
 ---
 

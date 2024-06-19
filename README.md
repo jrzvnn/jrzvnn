@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh my ... !](http://9gag.com/gag/aByrm2A)
- - 😝 [Imagine looking after your body and eating extremely clean in order to compete in a beauty pageant and then lose to THAT. My heart aches for the other participants. The US is cooked.](http://9gag.com/gag/aKGB6A1)
- - 💣 [Snaxx Time](http://9gag.com/gag/aryRVvd)
+ - 😝 [Mommy](http://9gag.com/gag/aoyjP9m)
+ - 😝 [Spotted in Toronto.](http://9gag.com/gag/a2vq7gZ)
+ - 💣 [And one day for no reason at all...](http://9gag.com/gag/a2vqRQ9)
  - 😝 [Girls, always do the Hawk Tuah](http://9gag.com/gag/aKGBxpN)
  - 👉 [Woman does a live stream to let everyone know the guy is broke cos he took her to Starbucks for a date](http://9gag.com/gag/ae9prQm)<!-- MEMES:END -->
 

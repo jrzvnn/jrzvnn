@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CDK Global, which provides SaaS tools for over 15,000 car dealerships in North America, shuts down most of its systems following a cyberattack &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/240619/p28#a240619p28)
- - [Update your Windows PC to avoid a serious Wi-Fi vulnerability](https://www.theverge.com/2024/6/19/24181908/microsoft-windows-pc-update-wi-fi-vulnerability)
- - [China&#39;s top-valued AI startup, Moonshot AI, recently debuted a role-play chat app and music maker app in the US; Chinese rival MiniMax also expanded to the US &lpar;The Information&rpar;](http://www.techmeme.com/240619/p27#a240619p27)
- - [Best Online Glasses and Contacts Deals: Start Summer With New Lenses or Glasses at a Great Price     - CNET](https://www.cnet.com/deals/best-online-glasses-and-contacts-deals/#ftag=CAD590a51e)
- - [Hopes for ACP Renewal Fade as Senate Cancels Vote. These Alternatives Remain     - CNET](https://www.cnet.com/home/internet/hopes-for-acp-renewal-fade-as-senate-cancels-vote-these-alternatives-remain/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Snap agrees to a $15M settlement with California after a three-year probe into employees&#39; allegations of discrimination, retaliation, and sexual harassment &lpar;Lara Korte/Politico&rpar;](http://www.techmeme.com/240619/p29#a240619p29)
+ - [Stainless Mixing Bowls with Lids     - CNET](https://www.cnet.com/news/stainless-mixing-bowls-with-lids/#ftag=CAD590a51e)
+ - [Want to Play Squid Game? New Netflix House Locations Let You Do Just That     - CNET](https://www.cnet.com/tech/services-and-software/want-to-play-squid-game-new-netflix-house-locations-let-you-do-just-that/#ftag=CAD590a51e)
+ - [Mini Bluetooth Speaker     - CNET](https://www.cnet.com/tech/home-entertainment/mini-bluetooth-speaker-dpnl/#ftag=CAD590a51e)
+ - [Handheld Mini Fan     - CNET](https://www.cnet.com/health/handheld-mini-fan1-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

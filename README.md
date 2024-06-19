@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Nvidia&#39;s 591,078% rally since its IPO in 1999; long-time investors in Nvidia have had to stomach three annual collapses of 50% or more in the stock &lpar;Bloomberg&rpar;](http://www.techmeme.com/240619/p24#a240619p24)
  - [Xbox Game Pass Ultimate subscriptions are more than 40 percent off right now](https://www.theverge.com/2024/6/19/24180384/xbox-game-pass-ultimate-subscription-apple-watch-ultra-2-deal-sale)
  - [Apple researchers add 20 more open-source models to improve text and image AI](https://appleinsider.com/articles/24/06/19/apple-researchers-add-20-more-open-source-models-to-improve-text-and-image-ai?utm_medium=rss)
  - [17 Management and City-Building Games for Armchair Tycoons](https://www.wired.com/gallery/best-management-city-building-games/)
- - [California’s governor is trying to crack down on smartphones in schools](https://www.theverge.com/2024/6/19/24181719/california-governor-gavin-newsom-smartphone-school-legislation)
- - [Power Up Wherever You Go With This Discounted Baseus Power Bank, Now Almost 70% Off     - CNET](https://www.cnet.com/deals/power-up-wherever-you-go-with-this-discounted-baseus-power-bank-now-almost-70-off/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [California’s governor is trying to crack down on smartphones in schools](https://www.theverge.com/2024/6/19/24181719/california-governor-gavin-newsom-smartphone-school-legislation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

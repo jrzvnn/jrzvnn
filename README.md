@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple researchers add 20 more open-source models to improve text and image AI](https://appleinsider.com/articles/24/06/19/apple-researchers-add-20-more-open-source-models-to-improve-text-and-image-ai?utm_medium=rss)
+ - [Sources detail how Jensen Huang and Nvidia are guarding against slowing chip sales, including offering more cloud services and designing custom server racks &lpar;The Information&rpar;](http://www.techmeme.com/240619/p13#a240619p13)
  - [The 16 Best Messenger Bags, Crossbody Bags, Slings and Shoulder Bags &lpar;2024&rpar;](https://www.wired.com/gallery/best-messenger-bags/)
  - [A look at Rebind, a mysterious startup that turns Margaret Atwood and other authors&#39; voices into AI reading companions, and an interview with CEO John Dubuque &lpar;Laura Kipnis/Wired&rpar;](http://www.techmeme.com/240619/p12#a240619p12)
- - [This Is What Would Happen if China Invaded Taiwan](https://www.wired.com/story/this-is-what-would-happen-if-china-invaded-taiwan/)
- - [Framework partners with DeepComputing to build a RISC-V mainboard for its Laptop 13, set to become one of the first RISC-V laptops; price and release are TBC &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240619/p11#a240619p11)
- - [Best Internet Providers in Morgantown, West Virginia     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-morgantown-wv/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This Is What Would Happen if China Invaded Taiwan](https://www.wired.com/story/this-is-what-would-happen-if-china-invaded-taiwan/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

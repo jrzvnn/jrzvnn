@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh my ... !](http://9gag.com/gag/aByrm2A)
- - 😝 [Woman does a live stream to let everyone know the guy is broke cos he took her to Starbucks for a date](http://9gag.com/gag/ae9prQm)
- - 💣 [9gaggers...](http://9gag.com/gag/aVvX04K)
- - 😝 [Just finish this with my daughters &lpar;7 and 8 yo&rpar; and they absolute loved it. Can you recomend a anime like that, without sexual content?](http://9gag.com/gag/a4PL7P6)
- - 👉 [Girls, always do the Hawk Tuah](http://9gag.com/gag/aKGBxpN)<!-- MEMES:END -->
+ - 😝 [Oh beth ordered!!!](http://9gag.com/gag/avyLzWO)
+ - 😝 [Girls, always do the Hawk Tuah](http://9gag.com/gag/aKGBxpN)
+ - 💣 [Killing In The Name but with Shamisen](http://9gag.com/gag/aNDKg00)
+ - 😝 [Wait for it,](http://9gag.com/gag/aZZNy3Q)
+ - 👉 [Mind your Manners](http://9gag.com/gag/apRB5wb)<!-- MEMES:END -->
 
 ---
 

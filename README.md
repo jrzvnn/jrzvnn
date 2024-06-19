@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here&#39;s which features Apple changed ahead of their WWDC 2024 debut](https://appleinsider.com/articles/24/06/19/heres-which-features-apple-changed-ahead-of-their-wwdc-2024-debut?utm_medium=rss)
  - [Arvind Mithal, a prolific computer scientist and longtime MIT professor who led the Computation Structures Group in MIT CSAIL, died on June 17 at age 77 &lpar;Adam Zewe/MIT News&rpar;](http://www.techmeme.com/240619/p30#a240619p30)
  - [Snapchat AI turns prompts into new lens](https://www.theverge.com/2024/6/19/24181965/snapchat-ai-prompt-custom-lens)
  - [Snap agrees to a $15M settlement with California after a three-year probe into employees&#39; allegations of discrimination, retaliation, and sexual harassment &lpar;Lara Korte/Politico&rpar;](http://www.techmeme.com/240619/p29#a240619p29)
- - [Best Vacuum Deals: Swoop Up Savings of Up to $200 on Dyson, Tineco, Roomba and More     - CNET](https://www.cnet.com/deals/best-vacuum-deals/#ftag=CAD590a51e)
- - [Best 16 Amazon Prime Perks You Might Not Know About     - CNET](https://www.cnet.com/tech/mobile/best-16-amazon-prime-perks-you-might-not-know-about/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Vacuum Deals: Swoop Up Savings of Up to $200 on Dyson, Tineco, Roomba and More     - CNET](https://www.cnet.com/deals/best-vacuum-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

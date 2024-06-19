@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Anime recommendations](http://9gag.com/gag/a2vqZje)
- - 😝 [Amazing card work](http://9gag.com/gag/a7obWjq)
- - 💣 [Girls, always do the Hawk Tuah](http://9gag.com/gag/aKGBxpN)
+ - 😝 [Completely normal behavior](http://9gag.com/gag/ayNnonr)
+ - 😝 [And one day for no reason at all...](http://9gag.com/gag/a2vqRQ9)
+ - 💣 [Arabian husky](http://9gag.com/gag/aByr04A)
  - 😝 [9gaggers...](http://9gag.com/gag/aVvX04K)
- - 👉 [And one day for no reason at all...](http://9gag.com/gag/a2vqRQ9)<!-- MEMES:END -->
+ - 👉 [Woman does a live stream to let everyone know the guy is broke cos he took her to Starbucks for a date](http://9gag.com/gag/ae9prQm)<!-- MEMES:END -->
 
 ---
 

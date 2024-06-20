@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon is getting rid of plastic air pillows in North America](https://www.theverge.com/2024/6/20/24182372/amazon-replace-plastic-air-pillows-paper-filler-north-america)
+ - [Here’s how to save on Elden Ring Shadow of the Erdtree in time for launch](https://www.theverge.com/2024/6/20/24182307/elden-ring-shadow-erdtree-dlc-expansion-deal-sale)
+ - [LA-based GrayMatter Robotics, which develops AI-powered robotic cells for the manufacturing industry, raised a $45M Series B led by Wellington Management &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/240620/p17#a240620p17)
  - [Instagram rolls out Live broadcasts for close friends](https://www.theverge.com/2024/6/20/24180239/instagram-live-close-friends-only-broadcasts)
- - [Gynger, which lets companies &quot;finance, pay, and manage&quot; their tech purchases, raised a $20M Series A led by PayPal Ventures, bringing its total raised to $31.7M &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240620/p16#a240620p16)
- - [Inside the players and politics of the modern AI industry](https://www.theverge.com/24182381/ai-industry-politics-openai-anthropic-elon-musk-xai-decoder-podcast-interview)
- - [Lull Original Premium Mattress Review: A Cut Above Lull&#39;s Original Bed video     - CNET](https://www.cnet.com/videos/lull-original-premium-mattress-review-a-cut-above-lulls-original-bed/#ftag=CAD590a51e)
- - [Nolah Signature Mattress Review: Best Bed for Side Sleepers? video     - CNET](https://www.cnet.com/videos/nolah-signature-mattress-review-best-bed-for-side-sleepers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Gynger, which lets companies &quot;finance, pay, and manage&quot; their tech purchases, raised a $20M Series A led by PayPal Ventures, bringing its total raised to $31.7M &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240620/p16#a240620p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hello there!](http://9gag.com/gag/ayNn2dp)
+ - 😝 [Mommy](http://9gag.com/gag/aoyjP9m)
+ - 😝 [Imagine looking after your body and eating extremely clean in order to compete in a beauty pageant and then lose to THAT. My heart aches for the other participants. The US is cooked.](http://9gag.com/gag/aKGB6A1)
+ - 💣 [Hello there!](http://9gag.com/gag/ayNn2dp)
  - 😝 [Girls, always do the Hawk Tuah](http://9gag.com/gag/aKGBxpN)
- - 💣 [As if love triangles weren\u2019t bad enough, they had to go create a love square](http://9gag.com/gag/avyLowO)
- - 😝 [And one day for no reason at all...](http://9gag.com/gag/a2vqRQ9)
- - 👉 [9gaggers...](http://9gag.com/gag/aVvX04K)<!-- MEMES:END -->
+ - 👉 [Somebody sue the doctor!](http://9gag.com/gag/apRBNr8)<!-- MEMES:END -->
 
 ---
 

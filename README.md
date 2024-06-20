@@ -162,8 +162,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Sources: Apple held talks with Baidu, Alibaba, Baichuan AI, and others to help offer Apple Intelligence in China as ChatGPT isn&#39;t available in the country &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240619/p34#a240619p34)
  - [How to brainstorm and mind-map in Freeform](https://appleinsider.com/articles/24/06/20/how-to-brainstorm-and-mind-map-in-freeform?utm_medium=rss)
  - [Accel and Dealroom: out of 221 generative AI startups in Europe and Israel, 27% were created in London, 13% in Tel Aviv, 12% in Berlin, and 10% in Paris &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240619/p33#a240619p33)
- - [Paris-based C12, which is developing a carbon nanotube-based quantum computer, raised &amp;euro;18M led by Varsity, EIC, and Verve, after raising a ~&amp;euro;9M seed in 2021 &lpar;Lucy Adams/Tech.eu&rpar;](http://www.techmeme.com/240619/p32#a240619p32)
- - [At Augmented World Expo, Palmer Luckey says he&#39;s building a new headset &quot;driven by military requirements&quot; that will also be used for &quot;non-military stuff&quot; &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/240619/p31#a240619p31)<!-- TECH:END -->
+ - [Best Internet Providers in Arlington, Texas     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-arlington-tx/#ftag=CAD590a51e)
+ - [Paris-based C12, which is developing a carbon nanotube-based quantum computer, raised &amp;euro;18M led by Varsity, EIC, and Verve, after raising a ~&amp;euro;9M seed in 2021 &lpar;Lucy Adams/Tech.eu&rpar;](http://www.techmeme.com/240619/p32#a240619p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Biden administration to ban Russian company’s antivirus software](https://www.theverge.com/2024/6/20/24182531/kaspersky-lab-antivirus-software-banned-us-biden-russia)
- - [Sources: Revolut plans to sell ~$50M worth of existing shares, including those held by employees, at a $40B+ valuation, up from $33B during a 2021 fundraising &lpar;Financial Times&rpar;](http://www.techmeme.com/240620/p22#a240620p22)
- - [Here are some small but helpful tips for starting Shadow of the Erdtree](https://www.theverge.com/24182462/tips-for-starting-shadow-of-the-erdtree-elden-ring)
- - [Elden Ring: all of the updates about FromSoftware’s open-world hit](https://www.theverge.com/2022/2/28/22955370/elden-ring-fromsoftware-open-world)
- - [Final Cut Pro updates for iPad and Mac are now available](https://appleinsider.com/articles/24/06/20/final-cut-pro-updates-for-ipad-and-mac-are-now-available?utm_medium=rss)<!-- TECH:END -->
+ - [Anker’s new dual-headed USB-C cable charges two devices at once](https://www.theverge.com/2024/6/20/24182414/anker-charging-cable-usb-c-power)
+ - [Car dealerships hit with massive computer system outage](https://www.theverge.com/2024/6/20/24182484/car-dealerships-massive-computer-system-outage-cdk-global)
+ - [Final Cut Pro updates for iPad and Mac are now available](https://appleinsider.com/articles/24/06/20/final-cut-pro-updates-for-ipad-and-mac-are-now-available?utm_medium=rss)
+ - [The new Apple Pencil Pro has received its first significant discount](https://www.theverge.com/2024/6/20/24182472/amazon-apple-pencil-pro-deal-sale)
+ - [Save Up to 49% on These Beats Earbuds and Headphones     - CNET](https://www.cnet.com/deals/save-up-to-49-on-these-beats-earbuds-and-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

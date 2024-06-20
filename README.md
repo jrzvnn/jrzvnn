@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [9gaggers...](http://9gag.com/gag/aVvX04K)
- - 😝 [And one day for no reason at all...](http://9gag.com/gag/a2vqRQ9)
- - 💣 [New Zealand Women&#39;s Soccer player scores own goal 3x in 30 minutes...](http://9gag.com/gag/aW4OGL3)
- - 😝 [I wanna say `english MF`, but I&#39;m not sure](http://9gag.com/gag/awy7ze4)
- - 👉 [Somebody sue the doctor!](http://9gag.com/gag/apRBNr8)<!-- MEMES:END -->
+ - 😝 [The rare Galaxy Frog. Despite its bright colors it\u2019s not poisonous. Unlike most frogs it does not communicate via sound and males do not have a vocal sac.](http://9gag.com/gag/aryRm40)
+ - 😝 [Amazing card work](http://9gag.com/gag/a7obWjq)
+ - 💣 [Mommy](http://9gag.com/gag/aoyjP9m)
+ - 😝 [Imagine looking after your body and eating extremely clean in order to compete in a beauty pageant and then lose to THAT. My heart aches for the other participants. The US is cooked.](http://9gag.com/gag/aKGB6A1)
+ - 👉 [As if love triangles weren\u2019t bad enough, they had to go create a love square](http://9gag.com/gag/avyLowO)<!-- MEMES:END -->
 
 ---
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hidden in front of our eyes](http://9gag.com/gag/a7obwnw)
+ - 😝 [Hell of a first job&#39;s day](http://9gag.com/gag/an7BgY0)
  - 😝 [9gaggers...](http://9gag.com/gag/aVvX04K)
- - 💣 [And one day for no reason at all...](http://9gag.com/gag/a2vqRQ9)
- - 😝 [Somebody sue the doctor!](http://9gag.com/gag/apRBNr8)
- - 👉 [An architect\u2019s dream is an engineer\u2019s nightmare!](http://9gag.com/gag/agmN5pn)<!-- MEMES:END -->
+ - 💣 [Somebody sue the doctor!](http://9gag.com/gag/apRBNr8)
+ - 😝 [Woman does a live stream to let everyone know the guy is broke cos he took her to Starbucks for a date](http://9gag.com/gag/ae9prQm)
+ - 👉 [Hello there!](http://9gag.com/gag/ayNn2dp)<!-- MEMES:END -->
 
 ---
 

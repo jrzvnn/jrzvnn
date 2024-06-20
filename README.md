@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Embracer Group believes AI will ‘empower’ game developers](https://www.theverge.com/2024/6/20/24182557/embracer-group-ai-empower-developers)
  - [Claude 3.5 Sonnet appears to be a tremendous leap for Anthropic and LLMs generally, and shows that AI model makers&#39; performance gains are not slowing down &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240620/p25#a240620p25)
  - [New York bans ‘addictive feeds’ for teens](https://www.theverge.com/2024/6/20/24182396/new-york-governor-social-media-law-parental-consent-algorithms)
  - [Apple Intelligence will face a big uphill battle to launch in China](https://appleinsider.com/articles/24/06/20/apple-intelligence-will-face-a-big-uphill-battle-to-launch-in-china?utm_medium=rss)
- - [These Fruits and Vegetables Should Always Be Washed Before Eating     - CNET](https://www.cnet.com/news/these-fruits-and-vegetables-should-always-be-washed-before-eating/#ftag=CAD590a51e)
- - [The 8 Best Indoor Smart Gardens for 2024     - CNET](https://www.cnet.com/home/smart-home/best-indoor-garden/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [These Fruits and Vegetables Should Always Be Washed Before Eating     - CNET](https://www.cnet.com/news/these-fruits-and-vegetables-should-always-be-washed-before-eating/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

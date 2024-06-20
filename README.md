@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is this true ?](http://9gag.com/gag/aByryVD)
- - 😝 [Stop oil protestors targeted Taylor swift private jet](http://9gag.com/gag/a2vqvne)
- - 💣 [9gaggers...](http://9gag.com/gag/adBpgRd)
- - 😝 [Canada](http://9gag.com/gag/aVvXboP)
- - 👉 [She loves me](http://9gag.com/gag/aByrnKA)<!-- MEMES:END -->
+ - 😝 [Crushing big tick with car](http://9gag.com/gag/aAypyz9)
+ - 😝 [A woman&#39;s worth....](http://9gag.com/gag/aGyRz26)
+ - 💣 [A keeper.](http://9gag.com/gag/a5QKQrg)
+ - 😝 [Satisfying hoof trimming](http://9gag.com/gag/aPAGxQQ)
+ - 👉 [AhH yEs ThE sEgs](http://9gag.com/gag/aqy2ybp)<!-- MEMES:END -->
 
 ---
 

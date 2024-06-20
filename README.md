@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A woman&#39;s worth....](http://9gag.com/gag/aGyRz26)
- - 😝 [Just a small time criminal](http://9gag.com/gag/ayNnNeM)
- - 💣 [Hello there!](http://9gag.com/gag/ayNn2dp)
- - 😝 [You can&#39;t win](http://9gag.com/gag/axyG9nW)
- - 👉 [They went to allah](http://9gag.com/gag/awy7zPx)<!-- MEMES:END -->
+ - 😝 [How much for that? Asking for friend](http://9gag.com/gag/avyLyd5)
+ - 😝 [Is this true ?](http://9gag.com/gag/aByryVD)
+ - 💣 [A woman&#39;s worth....](http://9gag.com/gag/aGyRz26)
+ - 😝 [Canada](http://9gag.com/gag/aVvXboP)
+ - 👉 [9gaggers...](http://9gag.com/gag/adBpgRd)<!-- MEMES:END -->
 
 ---
 

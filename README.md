@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Girls, always do the Hawk Tuah](http://9gag.com/gag/aKGBxpN)
- - 😝 [Hello there!](http://9gag.com/gag/ayNn2dp)
- - 💣 [True !](http://9gag.com/gag/aryRoPy)
- - 😝 [Snaxx Time](http://9gag.com/gag/aryRVvd)
- - 👉 [Dude&#39;s a gentleman for walking her back when he figured out she wasn&#39;t it](http://9gag.com/gag/ae9p53p)<!-- MEMES:END -->
+ - 😝 [Hell of a first job&#39;s day](http://9gag.com/gag/an7BgY0)
+ - 😝 [9gaggers...](http://9gag.com/gag/aVvX04K)
+ - 💣 [Finn was friend-zoned.](http://9gag.com/gag/abAbgDX)
+ - 😝 [Spotted in Toronto.](http://9gag.com/gag/a2vq7gZ)
+ - 👉 [Somebody sue the doctor!](http://9gag.com/gag/apRBNr8)<!-- MEMES:END -->
 
 ---
 

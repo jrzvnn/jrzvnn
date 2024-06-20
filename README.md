@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [She loves me](http://9gag.com/gag/aByrnKA)
- - 😝 [New Zealand Women&#39;s Soccer player scores own goal 3x in 30 minutes...](http://9gag.com/gag/aW4OGL3)
- - 💣 [9gaggers...](http://9gag.com/gag/aVvX04K)
- - 😝 [Somebody sue the doctor!](http://9gag.com/gag/apRBNr8)
- - 👉 [And one day for no reason at all...](http://9gag.com/gag/a2vqRQ9)<!-- MEMES:END -->
+ - 😝 [A woman&#39;s worth....](http://9gag.com/gag/aGyRz26)
+ - 💣 [Somebody sue the doctor!](http://9gag.com/gag/apRBNr8)
+ - 😝 [Don\u2019t you just love the new neighbors?](http://9gag.com/gag/avyL58M)
+ - 👉 [9gaggers...](http://9gag.com/gag/adBpgRd)<!-- MEMES:END -->
 
 ---
 

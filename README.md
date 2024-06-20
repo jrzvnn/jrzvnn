@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hell of a first job&#39;s day](http://9gag.com/gag/an7BgY0)
- - 😝 [Imagine looking after your body and eating extremely clean in order to compete in a beauty pageant and then lose to THAT. My heart aches for the other participants. The US is cooked.](http://9gag.com/gag/aKGB6A1)
- - 💣 [Somebody sue the doctor!](http://9gag.com/gag/apRBNr8)
- - 😝 [Is this true ?](http://9gag.com/gag/aByryVD)
- - 👉 [Satisfying hoof trimming](http://9gag.com/gag/aPAGxQQ)<!-- MEMES:END -->
+ - 😝 [Missing the 80s](http://9gag.com/gag/aE0zqgN)
+ - 😝 [Somebody sue the doctor!](http://9gag.com/gag/apRBNr8)
+ - 💣 [She loves me](http://9gag.com/gag/aByrnKA)
+ - 😝 [A gentleman shutting down a dumb reporter.](http://9gag.com/gag/aLnBzM6)
+ - 👉 [Crushing big tick with car](http://9gag.com/gag/aAypyz9)<!-- MEMES:END -->
 
 ---
 

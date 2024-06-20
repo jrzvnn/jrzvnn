@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A look at the many lawsuits against RealPage, the rent-fixing software company accused of artificially inflating the real estate rental prices across the US &lpar;Maureen Tkacik/American Prospect&rpar;](http://www.techmeme.com/240620/p5#a240620p5)
+ - [Taylor Swift Challenges Land on TikTok With Digital Collectibles Up for Grabs     - CNET](https://www.cnet.com/tech/services-and-software/taylor-swift-challenges-land-on-tiktok-with-digital-collectibles-up-for-grabs/#ftag=CAD590a51e)
  - [An investigation details how Chinese gangs, Chinese officials, and Myanmar&#39;s Junta made Myanmar&#39;s Kokang region a key hub in the global online scam industry &lpar;Washington Post&rpar;](http://www.techmeme.com/240620/p4#a240620p4)
  - [Software vendors like Salesforce are getting left behind in the AI boom, as most AI spending at this point is going toward hardware or cloud infrastructure &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240620/p3#a240620p3)
- - [Europe Scrambles for Relevance in the Age of AI](https://www.wired.com/story/europe-scrambles-relevance-ai/)
- - [Q&amp;A with Meta Oversight Board co-chair Helle-Thorning Schmidt on AI deepfakes, Meta rejecting the board&#39;s decision on former Cambodian PM Hun Sen, and more &lpar;Murad Ahmed/Financial Times&rpar;](http://www.techmeme.com/240620/p2#a240620p2)<!-- TECH:END -->
+ - [Europe Scrambles for Relevance in the Age of AI](https://www.wired.com/story/europe-scrambles-relevance-ai/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

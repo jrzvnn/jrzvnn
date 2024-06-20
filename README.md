@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rafah before and after](http://9gag.com/gag/a2vqv1e)
- - 😝 [She loves me](http://9gag.com/gag/aByrnKA)
- - 💣 [A woman&#39;s worth....](http://9gag.com/gag/aGyRz26)
- - 😝 [9gaggers...](http://9gag.com/gag/adBpgRd)
- - 👉 [Canada](http://9gag.com/gag/aVvXboP)<!-- MEMES:END -->
+ - 😝 [Satisfying hoof trimming](http://9gag.com/gag/aPAGxQQ)
+ - 😝 [They aren&#39;t even worth a brick](http://9gag.com/gag/aE0z0yp)
+ - 💣 [Ha... hehehe, I&#39;m in danger](http://9gag.com/gag/a9yPzq1)
+ - 😝 [A truck driver&#39;s happiness when trains respond when he honks](http://9gag.com/gag/amo8Wzv)
+ - 👉 [Spotted in Toronto.](http://9gag.com/gag/a2vq7gZ)<!-- MEMES:END -->
 
 ---
 

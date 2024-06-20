@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US Bans Kaspersky Software](https://www.wired.com/story/us-bans-kaspersky-software/)
+ - [Bugatti’s Tourbillon 2024: Price, Specs, Availability](https://www.wired.com/story/bugatti-tourbillon-2024/)
  - [London-based PQShield, which is developing tools for implementing post-quantum cryptography, raised a $37M Series B, taking its total funding to $57M+ &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/240620/p27#a240620p27)
- - [NY Governor signs two bills to protect minors, banning &quot;addictive feeds&quot;, limiting data collection, limiting social media notifications overnight, and more &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240620/p26#a240620p26)
- - [Embracer Group believes AI will ‘empower’ game developers](https://www.theverge.com/2024/6/20/24182557/embracer-group-ai-empower-developers)
- - [Claude 3.5 Sonnet appears to be a tremendous leap for Anthropic and LLMs generally, and shows that AI model makers&#39; performance gains are not slowing down &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240620/p25#a240620p25)
- - [New York bans ‘addictive feeds’ for teens](https://www.theverge.com/2024/6/20/24182396/new-york-governor-social-media-law-parental-consent-algorithms)<!-- TECH:END -->
+ - [Tempur-Pedic Mattress Review for 2024: Is the Brand Worth the Price Tag?     - CNET](https://www.cnet.com/health/sleep/tempurpedic-mattress-review/#ftag=CAD590a51e)
+ - [Move Over, Wordle and Connections. This Taylor Swift Eras Tour Game Has Me Hooked     - CNET](https://www.cnet.com/tech/services-and-software/move-over-wordle-and-connections-this-taylor-swift-eras-tour-game-has-me-hooked/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

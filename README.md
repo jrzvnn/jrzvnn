@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She loves me](http://9gag.com/gag/aByrnKA)
- - 😝 [Don\u2019t you just love the new neighbors?](http://9gag.com/gag/avyL58M)
- - 💣 [Is this true ?](http://9gag.com/gag/aByryVD)
- - 😝 [Canada](http://9gag.com/gag/aVvXboP)
- - 👉 [Amazing card work](http://9gag.com/gag/a7obWjq)<!-- MEMES:END -->
+ - 😝 [And one day for no reason at all...](http://9gag.com/gag/a2vqRQ9)
+ - 😝 [A woman&#39;s worth....](http://9gag.com/gag/aGyRz26)
+ - 💣 [She loves me](http://9gag.com/gag/aByrnKA)
+ - 😝 [A keeper.](http://9gag.com/gag/a5QKQrg)
+ - 👉 [Somebody sue the doctor!](http://9gag.com/gag/apRBNr8)<!-- MEMES:END -->
 
 ---
 

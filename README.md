@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are some small but helpful tips for starting Shadow of the Erdtree](https://www.theverge.com/24182462/tips-for-starting-shadow-of-the-erdtree-elden-ring)
+ - [Elden Ring: all of the updates about FromSoftware’s open-world hit](https://www.theverge.com/2022/2/28/22955370/elden-ring-fromsoftware-open-world)
+ - [Final Cut Pro updates for iPad and Mac are now available](https://appleinsider.com/articles/24/06/20/final-cut-pro-updates-for-ipad-and-mac-are-now-available?utm_medium=rss)
  - [Deals: save up to $155 on the M4 iPad Pro, plus Apple Pencil Pro falls to $119](https://appleinsider.com/articles/24/06/20/deals-save-up-to-155-on-the-m4-ipad-pro-plus-apple-pencil-pro-falls-to-119?utm_medium=rss)
- - [Source: The CFTC is investigating the Chicago-based trading firm Jump&#39;s involvement in crypto, including inquiries into its trading and investing activity &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/240620/p21#a240620p21)
- - [Best MicroSD Card Deals: Get Amazing MicroSD Cards for Less     - CNET](https://www.cnet.com/deals/best-microsd-card-deals/#ftag=CAD590a51e)
- - [New Jersey-based Semperis, which offers tools to protect enterprises using Microsoft Active Directory, raised $125M and says it now has a $1B valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240620/p20#a240620p20)
- - [Refi Rates Hold Steady Below 7% After Fed Meeting. Today&#39;s Refi Rates for June 20, 2024     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-refinance-rates-fall-refinance-rates-for-june-20-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Source: The CFTC is investigating the Chicago-based trading firm Jump&#39;s involvement in crypto, including inquiries into its trading and investing activity &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/240620/p21#a240620p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hell of a first job&#39;s day](http://9gag.com/gag/an7BgY0)
- - 😝 [Somebody sue the doctor!](http://9gag.com/gag/apRBNr8)
- - 💣 [Don\u2019t you just love the new neighbors?](http://9gag.com/gag/avyL58M)
- - 😝 [Canada](http://9gag.com/gag/aVvXboP)
- - 👉 [Crushing big tick with car](http://9gag.com/gag/aAypyz9)<!-- MEMES:END -->
+ - 😝 [She loves me](http://9gag.com/gag/aByrnKA)
+ - 😝 [Rafah before and after](http://9gag.com/gag/a2vqv1e)
+ - 💣 [9gaggers...](http://9gag.com/gag/adBpgRd)
+ - 😝 [Don\u2019t you just love the new neighbors?](http://9gag.com/gag/avyL58M)
+ - 👉 [Somebody sue the doctor!](http://9gag.com/gag/apRBNr8)<!-- MEMES:END -->
 
 ---
 

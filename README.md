@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Somebody sue the doctor!](http://9gag.com/gag/apRBNr8)
- - 😝 [When insane people make a very important decisions.](http://9gag.com/gag/ae9przq)
- - 💣 [And one day for no reason at all...](http://9gag.com/gag/a2vqRQ9)
- - 😝 [Mommy](http://9gag.com/gag/aoyjP9m)
- - 👉 [You can&#39;t win](http://9gag.com/gag/axyG9nW)<!-- MEMES:END -->
+ - 😝 [Girls, always do the Hawk Tuah](http://9gag.com/gag/aKGBxpN)
+ - 😝 [Hello there!](http://9gag.com/gag/ayNn2dp)
+ - 💣 [True !](http://9gag.com/gag/aryRoPy)
+ - 😝 [Snaxx Time](http://9gag.com/gag/aryRVvd)
+ - 👉 [Dude&#39;s a gentleman for walking her back when he figured out she wasn&#39;t it](http://9gag.com/gag/ae9p53p)<!-- MEMES:END -->
 
 ---
 

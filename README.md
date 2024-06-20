@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iOS 18 changes just about everything about lock screen controls](https://appleinsider.com/inside/ios-18/tips/ios-18-changes-just-about-everything-about-lock-screen-controls?utm_medium=rss)
+ - [Acer Chromebook Plus Spin 714 Review: A Premium Chromebook](https://www.wired.com/review/acer-chromebook-plus-spin-714/)
  - [Daydream, which is building a search engine for personalized shopping using GenAI, ML, and computer vision, raised a $50M seed co-led by Forerunner and Index &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240620/p12#a240620p12)
  - [Good Search Borrows, Great Search … Steals?](https://www.wired.com/story/gadget-lab-podcast-648/)
- - [EU diplomats: a scheduled EU Council vote to amend a draft law that may force WhatsApp and Signal to scan images and links for CSAM was removed from the agenda &lpar;Clothilde Goujard/Politico&rpar;](http://www.techmeme.com/240620/p11#a240620p11)
- - [Apple&#39;s Education Store is down ahead of Back to School offers](https://appleinsider.com/articles/24/06/20/apples-education-store-is-down-ahead-of-back-to-school-offers?utm_medium=rss)
- - [Apple&#39;s Back to School offers are live -- but there are better deals to be had](https://appleinsider.com/articles/24/06/20/apples-back-to-school-offers-are-live----but-there-are-better-deals-to-be-had?utm_medium=rss)<!-- TECH:END -->
+ - [EU diplomats: a scheduled EU Council vote to amend a draft law that may force WhatsApp and Signal to scan images and links for CSAM was removed from the agenda &lpar;Clothilde Goujard/Politico&rpar;](http://www.techmeme.com/240620/p11#a240620p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Biden administration to ban Russian company’s antivirus software](https://www.theverge.com/2024/6/20/24182531/kaspersky-lab-antivirus-software-banned-us-biden-russia)
+ - [Sources: Revolut plans to sell ~$50M worth of existing shares, including those held by employees, at a $40B+ valuation, up from $33B during a 2021 fundraising &lpar;Financial Times&rpar;](http://www.techmeme.com/240620/p22#a240620p22)
  - [Here are some small but helpful tips for starting Shadow of the Erdtree](https://www.theverge.com/24182462/tips-for-starting-shadow-of-the-erdtree-elden-ring)
  - [Elden Ring: all of the updates about FromSoftware’s open-world hit](https://www.theverge.com/2022/2/28/22955370/elden-ring-fromsoftware-open-world)
- - [Final Cut Pro updates for iPad and Mac are now available](https://appleinsider.com/articles/24/06/20/final-cut-pro-updates-for-ipad-and-mac-are-now-available?utm_medium=rss)
- - [Deals: save up to $155 on the M4 iPad Pro, plus Apple Pencil Pro falls to $119](https://appleinsider.com/articles/24/06/20/deals-save-up-to-155-on-the-m4-ipad-pro-plus-apple-pencil-pro-falls-to-119?utm_medium=rss)
- - [Source: The CFTC is investigating the Chicago-based trading firm Jump&#39;s involvement in crypto, including inquiries into its trading and investing activity &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/240620/p21#a240620p21)<!-- TECH:END -->
+ - [Final Cut Pro updates for iPad and Mac are now available](https://appleinsider.com/articles/24/06/20/final-cut-pro-updates-for-ipad-and-mac-are-now-available?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

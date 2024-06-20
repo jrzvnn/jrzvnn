@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AMD says hackers accessed limited information related to assembling of certain AMD products on a third-party vendor site and expects no material business impact &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/240620/p1#a240620p1)
  - [Sources: Apple held talks with Baidu, Alibaba, Baichuan AI, and others to help offer Apple Intelligence in China as ChatGPT isn&#39;t available in the country &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240619/p34#a240619p34)
  - [How to brainstorm and mind-map in Freeform](https://appleinsider.com/articles/24/06/20/how-to-brainstorm-and-mind-map-in-freeform?utm_medium=rss)
- - [Accel and Dealroom: out of 221 generative AI startups in Europe and Israel, 27% were created in London, 13% in Tel Aviv, 12% in Berlin, and 10% in Paris &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240619/p33#a240619p33)
- - [Best Internet Providers in Arlington, Texas     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-arlington-tx/#ftag=CAD590a51e)
- - [Paris-based C12, which is developing a carbon nanotube-based quantum computer, raised &amp;euro;18M led by Varsity, EIC, and Verve, after raising a ~&amp;euro;9M seed in 2021 &lpar;Lucy Adams/Tech.eu&rpar;](http://www.techmeme.com/240619/p32#a240619p32)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for June 20, #109     - CNET](https://www.cnet.com/tech/gaming/todays-nyt-strands-hint-answer-help/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers, and Help for June 20, #375     - CNET](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answer-help-for-june-20-375/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

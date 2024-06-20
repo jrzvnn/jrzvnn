@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New Jersey-based Semperis, which offers tools to protect enterprises using Microsoft Active Directory, raised $125M and says it now has a $1B valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240620/p20#a240620p20)
  - [Apple&#39;s talks with FIFA have faltered, Club World Cup tournament at risk](https://appleinsider.com/articles/24/06/20/apples-talks-with-fifa-have-faltered-club-world-cup-tournament-at-risk?utm_medium=rss)
  - [PayPal hires one of Walmart&#39;s top tech executives Srini Venkatesan as its CTO, effective June 24, replacing Archie Deskus, who will leave the company in July &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/240620/p19#a240620p19)
  - [Microsoft’s embarrassing Recall](https://www.theverge.com/2024/6/20/24182350/microsoft-windows-recall-launch-on-arm)
- - [Have we been overthinking EV sounds?](https://www.theverge.com/24182348/ev-sounds-low-speed-survey-non-tonal-white-noise)
- - [Meta rolls out the ability for users to restrict their Instagram Lives to Close Friends, with the option for three other users to join the broadcast &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/240620/p18#a240620p18)<!-- TECH:END -->
+ - [Have we been overthinking EV sounds?](https://www.theverge.com/24182348/ev-sounds-low-speed-survey-non-tonal-white-noise)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

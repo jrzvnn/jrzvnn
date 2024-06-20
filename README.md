@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hello there!](http://9gag.com/gag/ayNn2dp)
- - 😝 [9gaggers...](http://9gag.com/gag/aVvX04K)
- - 💣 [New Zealand Women&#39;s Soccer player scores own goal 3x in 30 minutes...](http://9gag.com/gag/aW4OGL3)
- - 😝 [Somebody sue the doctor!](http://9gag.com/gag/apRBNr8)
- - 👉 [As if love triangles weren\u2019t bad enough, they had to go create a love square](http://9gag.com/gag/avyLowO)<!-- MEMES:END -->
+ - 😝 [New Zealand Women&#39;s Soccer player scores own goal 3x in 30 minutes...](http://9gag.com/gag/aW4OGL3)
+ - 😝 [Hmmmm](http://9gag.com/gag/aoyjPwx)
+ - 💣 [Hello there!](http://9gag.com/gag/ayNn2dp)
+ - 😝 [And one day for no reason at all...](http://9gag.com/gag/a2vqRQ9)
+ - 👉 [9gaggers...](http://9gag.com/gag/adBpgRd)<!-- MEMES:END -->
 
 ---
 

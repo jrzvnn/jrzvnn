@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What features Apple changed ahead of the WWDC 2024 debut](https://appleinsider.com/articles/24/06/19/heres-which-features-apple-changed-ahead-of-their-wwdc-2024-debut?utm_medium=rss)
  - [Tests show Instagram continues to recommend sexual videos to accounts with ages listed as 13; Snapchat and TikTok did not produce the same sexualized content &lpar;Jeff Horwitz/Wall Street Journal&rpar;](http://www.techmeme.com/240620/p9#a240620p9)
  - [Rumpl’s Amazingly Versatile Outdoor Blanket Is on a Rare Monthlong Sale](https://www.wired.com/story/rumpl-original-blanket-sale-2024/)
  - [Tencent removes hit game Dungeon &amp; Fighter from select Android app stores after its contracts expired; local media says the app stores include Huawei and Oppo &lpar;Reuters&rpar;](http://www.techmeme.com/240620/p8#a240620p8)
- - [We Put Air Conditioners to the Test, and These Are Our 7 Favorites](https://www.wired.com/gallery/best-window-air-conditioners/)
- - [Apple reveals first Malaysian store ahead of opening](https://appleinsider.com/articles/24/06/20/apple-reveals-first-malaysian-store-ahead-of-opening?utm_medium=rss)<!-- TECH:END -->
+ - [We Put Air Conditioners to the Test, and These Are Our 7 Favorites](https://www.wired.com/gallery/best-window-air-conditioners/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

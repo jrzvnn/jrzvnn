@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Former OpenAI Exec Launches AI Startup With Goal of Safety Over Profits     - CNET](https://www.cnet.com/tech/services-and-software/former-openai-exec-launches-ai-startup-with-goal-of-safety-over-profits/#ftag=CAD590a51e)
+ - [Sources: US DOJ won&#39;t pursue FTC&#39;s claim that TikTok misled US consumers on data security in a forthcoming suit accusing TikTok of children&#39;s privacy violations &lpar;Bloomberg&rpar;](http://www.techmeme.com/240620/p31#a240620p31)
  - [SpaceX unveils Starlink Mini, a compact version of its satellite internet antenna &quot;that can easily fit in a backpack&quot;, offering a &quot;limited number&quot; for $599 each &lpar;Michael Sheetz/CNBC&rpar;](http://www.techmeme.com/240620/p30#a240620p30)
  - [TikTok makes its First Amendment case](https://www.theverge.com/2024/6/20/24182551/tiktok-v-garland-creators-brief-first-amendment)
- - [Do You Rinse Your Mouth Right After Brushing? Experts Say You Shouldn&#39;t     - CNET](https://www.cnet.com/health/personal-care/do-you-rinse-your-teeth-right-after-brushing-experts-say-you-shouldnt/#ftag=CAD590a51e)
- - [How to Boost Your Phone Signal for Better Reception on iPhone or Android     - CNET](https://www.cnet.com/tech/mobile/how-to-boost-your-phone-signal-for-better-reception-on-iphone-or-android/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung Galaxy Buds 3 leak shows off AirPods-like design](https://www.theverge.com/2024/6/20/24182744/samsung-galaxy-buds-3-leak-airpods-design)
+ - [Get Outside and See This Weekend&#39;s Stunning Strawberry Moon     - CNET](https://www.cnet.com/science/get-outside-and-see-this-weekends-stunning-strawberry-moon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

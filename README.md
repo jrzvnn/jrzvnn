@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s Education Store is down ahead of Back to School offers](https://appleinsider.com/articles/24/06/20/apples-education-store-is-down-ahead-of-back-to-school-offers?utm_medium=rss)
  - [Apple&#39;s Back to School offers are live -- but there are better deals to be had](https://appleinsider.com/articles/24/06/20/apples-back-to-school-offers-are-live----but-there-are-better-deals-to-be-had?utm_medium=rss)
  - [Kenya ends a year-long investigation into Worldcoin with &quot;no further police action&quot; and says the startup must register its business, acquire licenses, and more &lpar;TechCrunch&rpar;](http://www.techmeme.com/240620/p10#a240620p10)
  - [Big Tech Is Giving Campaigns Both the Venom and the Antidote for GenAI](https://www.wired.com/story/big-tech-microsoft-google-gen-ai-campaigns/)
- - [What features Apple changed ahead of the WWDC 2024 debut](https://appleinsider.com/articles/24/06/19/heres-which-features-apple-changed-ahead-of-their-wwdc-2024-debut?utm_medium=rss)
- - [Tests show Instagram continues to recommend sexual videos to accounts with ages listed as 13; Snapchat and TikTok did not produce the same sexualized content &lpar;Jeff Horwitz/Wall Street Journal&rpar;](http://www.techmeme.com/240620/p9#a240620p9)<!-- TECH:END -->
+ - [What features Apple changed ahead of the WWDC 2024 debut](https://appleinsider.com/articles/24/06/19/heres-which-features-apple-changed-ahead-of-their-wwdc-2024-debut?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

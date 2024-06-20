@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Inside the players and politics of the modern AI industry](https://www.theverge.com/24182381/ai-industry-politics-openai-anthropic-elon-musk-xai-decoder-podcast-interview)
  - [Anthropic adds Artifacts, a feature that lets users see and interact with the results of their Claude requests, signaling its long-term vision for Claude &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240620/p15#a240620p15)
  - [Anthropic launches Claude 3.5 Sonnet, which beats its flagship Claude 3 Opus model and outperforms GPT-4o in some tasks, available for free on the web and iOS &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240620/p14#a240620p14)
  - [Lenovo squeezed eight speakers into its chonky new tablet](https://www.theverge.com/2024/6/20/24182290/lenovo-tab-plus-tablet-android-bluetooth-speaker)
- - [We’re Still Waiting for the Next Big Leap in AI](https://www.wired.com/story/were-still-waiting-for-the-next-big-leap-in-ai/)
- - [Honor 200 Pro Review: Midrange Mixed Bag](https://www.wired.com/review/honor-200-pro/)<!-- TECH:END -->
+ - [We’re Still Waiting for the Next Big Leap in AI](https://www.wired.com/story/were-still-waiting-for-the-next-big-leap-in-ai/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

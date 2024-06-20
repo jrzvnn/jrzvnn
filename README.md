@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Canada](http://9gag.com/gag/aVvXboP)
- - 😝 [She loves me](http://9gag.com/gag/aByrnKA)
- - 💣 [Amazing card work](http://9gag.com/gag/a7obWjq)
- - 😝 [Somebody sue the doctor!](http://9gag.com/gag/apRBNr8)
- - 👉 [9gaggers...](http://9gag.com/gag/adBpgRd)<!-- MEMES:END -->
+ - 😝 [Behold Cthulhu swimming apparently](http://9gag.com/gag/aZZNZzV)
+ - 😝 [It\u2019s literally just a bunch of rocks.](http://9gag.com/gag/a9yPyV0)
+ - 💣 [A keeper.](http://9gag.com/gag/a5QKQrg)
+ - 😝 [They aren&#39;t even worth a brick](http://9gag.com/gag/aE0z0yp)
+ - 👉 [Secret beach in Morocco](http://9gag.com/gag/aByry52)<!-- MEMES:END -->
 
 ---
 

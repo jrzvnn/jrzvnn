@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Claude 3.5 Sonnet appears to be a tremendous leap for Anthropic and LLMs generally, and shows that AI model makers&#39; performance gains are not slowing down &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240620/p25#a240620p25)
+ - [New York bans ‘addictive feeds’ for teens](https://www.theverge.com/2024/6/20/24182396/new-york-governor-social-media-law-parental-consent-algorithms)
+ - [Apple Intelligence will face a big uphill battle to launch in China](https://appleinsider.com/articles/24/06/20/apple-intelligence-will-face-a-big-uphill-battle-to-launch-in-china?utm_medium=rss)
  - [Sources: Poolside, co-founded by ex-GitHub CTO Jason Warner to build AI tools to speed up software development, is raising $400M+ at a $2B+ post-money valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240620/p24#a240620p24)
- - [Anker’s fastest power bank is matching its lowest price](https://www.theverge.com/2024/6/20/24182460/anker-prime-27650mah-250w-portable-charger-power-bank-deal-sale)
- - [How some Meta users in the US are turning to small claims court, often successfully, to recover their Facebook or Instagram accounts; some won financial damages &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/240620/p23#a240620p23)
- - [Watch the trailer for Beyond Good &amp; Evil 20th Anniversary Edition — coming June 25th](https://www.theverge.com/24182577/beyond-good-evil-20th-anniversary-game-trailer-release-date)
- - [Kingdom of the Planet of the Apes ‘Raw Cut’ shows the movie pre-VFX](https://www.theverge.com/2024/6/20/24182452/kingdom-of-the-planet-of-the-apes-raw-cut-blu-ray-release-date)<!-- TECH:END -->
+ - [Anker’s fastest power bank is matching its lowest price](https://www.theverge.com/2024/6/20/24182460/anker-prime-27650mah-250w-portable-charger-power-bank-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

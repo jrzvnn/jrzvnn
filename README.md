@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok launches an in-app experience to celebrate Taylor Swift&#39;s Eras Tour, giving prizes to users who complete 11 weeks of tasks, following Instagram in April &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/240620/p7#a240620p7)
+ - [Potatoes Are the Perfect Vegetable—but You’re Eating Them Wrong](https://www.wired.com/story/potatoes-are-the-perfect-vegetable-but-youre-eating-them-wrong/)
  - [Apple&#39;s Education Store is down ahead of Back to School offers](https://appleinsider.com/articles/24/06/20/apples-education-store-is-down-ahead-of-back-to-school-offers?utm_medium=rss)
- - [Neo-Nazis Are All-In On AI](https://www.wired.com/story/neo-nazis-are-all-in-on-ai/)
- - [A history of the Lambda School: burning through $120M, why income share agreements failed, how one developer turned journalist ended the fraud, and more &lpar;Benjamin Sandofsky/Sandofsky&rpar;](http://www.techmeme.com/240620/p6#a240620p6)
- - [A look at the many lawsuits against RealPage, the rent-fixing software company accused of artificially inflating the real estate rental prices across the US &lpar;Maureen Tkacik/American Prospect&rpar;](http://www.techmeme.com/240620/p5#a240620p5)
- - [Taylor Swift Challenges Land on TikTok With Digital Collectibles Up for Grabs     - CNET](https://www.cnet.com/tech/services-and-software/taylor-swift-challenges-land-on-tiktok-with-digital-collectibles-up-for-grabs/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best iPhone in 2024: Which Apple Phone Should You Buy?     - CNET](https://www.cnet.com/tech/mobile/best-iphone/#ftag=CAD590a51e)
+ - [Motorola Edge &lpar;2024&rpar; Goes on Sale for $550 With a Bumped Up Battery     - CNET](https://www.cnet.com/tech/mobile/motorola-edge-2024-goes-on-sale-for-550-with-a-bumped-up-battery/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

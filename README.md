@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anthropic adds Artifacts, a feature that lets users see and interact with the results of their Claude requests, signaling its long-term vision for Claude &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240620/p15#a240620p15)
+ - [Anthropic launches Claude 3.5 Sonnet, which beats its flagship Claude 3 Opus model and outperforms GPT-4o in some tasks, available for free on the web and iOS &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240620/p14#a240620p14)
  - [Lenovo squeezed eight speakers into its chonky new tablet](https://www.theverge.com/2024/6/20/24182290/lenovo-tab-plus-tablet-android-bluetooth-speaker)
  - [We’re Still Waiting for the Next Big Leap in AI](https://www.wired.com/story/were-still-waiting-for-the-next-big-leap-in-ai/)
- - [Honor 200 Pro Review: Midrange Mixed Bag](https://www.wired.com/review/honor-200-pro/)
- - [Anthropic has a fast new AI model — and a clever new way to interact with chatbots](https://www.theverge.com/2024/6/20/24181961/anthropic-claude-35-sonnet-model-ai-launch)
- - [Apple wants you to be able to just point at things to learn about them](https://appleinsider.com/articles/24/06/20/apple-wants-you-to-be-able-to-just-point-at-things-to-learn-about-them?utm_medium=rss)<!-- TECH:END -->
+ - [Honor 200 Pro Review: Midrange Mixed Bag](https://www.wired.com/review/honor-200-pro/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

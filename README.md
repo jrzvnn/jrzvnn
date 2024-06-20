@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Accel and Dealroom: out of 221 generative AI startups in Europe and Israel, 27% were created in London, 13% in Tel Aviv, 12% in Berlin, and 10% in Paris &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240619/p33#a240619p33)
  - [Paris-based C12, which is developing a carbon nanotube-based quantum computer, raised &amp;euro;18M led by Varsity, EIC, and Verve, after raising a ~&amp;euro;9M seed in 2021 &lpar;Lucy Adams/Tech.eu&rpar;](http://www.techmeme.com/240619/p32#a240619p32)
  - [At Augmented World Expo, Palmer Luckey says he&#39;s building a new headset &quot;driven by military requirements&quot; that will also be used for &quot;non-military stuff&quot; &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/240619/p31#a240619p31)
  - [T20 Cricket World Cup Livestream: How to Watch West Indies vs. England From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/t20-cricket-world-cup-livestream-how-to-watch-west-indies-vs-england-from-anywhere/#ftag=CAD590a51e)
- - [The 9 Best Dutch Ovens for 2024     - CNET](https://www.cnet.com/home/kitchen-and-household/best-dutch-oven/#ftag=CAD590a51e)
- - [Best Mineral Sunscreen of 2024     - CNET](https://www.cnet.com/health/personal-care/best-mineral-sunscreens/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 9 Best Dutch Ovens for 2024     - CNET](https://www.cnet.com/home/kitchen-and-household/best-dutch-oven/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

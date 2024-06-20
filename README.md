@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Deals: save up to $155 on the M4 iPad Pro, plus Apple Pencil Pro falls to $119](https://appleinsider.com/articles/24/06/20/deals-save-up-to-155-on-the-m4-ipad-pro-plus-apple-pencil-pro-falls-to-119?utm_medium=rss)
  - [Source: The CFTC is investigating the Chicago-based trading firm Jump&#39;s involvement in crypto, including inquiries into its trading and investing activity &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/240620/p21#a240620p21)
  - [Best MicroSD Card Deals: Get Amazing MicroSD Cards for Less     - CNET](https://www.cnet.com/deals/best-microsd-card-deals/#ftag=CAD590a51e)
  - [New Jersey-based Semperis, which offers tools to protect enterprises using Microsoft Active Directory, raised $125M and says it now has a $1B valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240620/p20#a240620p20)
- - [Refi Rates Hold Steady Below 7% After Fed Meeting. Today&#39;s Refi Rates for June 20, 2024     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-refinance-rates-fall-refinance-rates-for-june-20-2024/#ftag=CAD590a51e)
- - [&#39;The Boys&#39; Season 4, Episode 4 Recap: Just About Everyone Chooses Violence     - CNET](https://www.cnet.com/tech/services-and-software/the-boys-season-4-episode-4-recap-just-about-everyone-chooses-violence/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Refi Rates Hold Steady Below 7% After Fed Meeting. Today&#39;s Refi Rates for June 20, 2024     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-refinance-rates-fall-refinance-rates-for-june-20-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

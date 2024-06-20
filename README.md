@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I dont usually like ig shit, but his one cracked me up,lmao](http://9gag.com/gag/aByrnNZ)
- - 😝 [A woman&#39;s worth....](http://9gag.com/gag/aGyRz26)
- - 💣 [9gaggers...](http://9gag.com/gag/adBpgRd)
- - 😝 [Crushing big tick with car](http://9gag.com/gag/aAypyz9)
- - 👉 [Rafah before and after](http://9gag.com/gag/a2vqv1e)<!-- MEMES:END -->
+ - 😝 [The animators had balls making this scene](http://9gag.com/gag/ajPn7Qw)
+ - 😝 [It\u2019s literally just a bunch of rocks.](http://9gag.com/gag/a9yPyV0)
+ - 💣 [AhH yEs ThE sEgs](http://9gag.com/gag/aqy2ybp)
+ - 😝 [A truck driver&#39;s happiness when trains respond when he honks](http://9gag.com/gag/amo8Wzv)
+ - 👉 [Secret beach in Morocco](http://9gag.com/gag/aByry52)<!-- MEMES:END -->
 
 ---
 

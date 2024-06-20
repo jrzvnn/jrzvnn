@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hell of a first job&#39;s day](http://9gag.com/gag/an7BgY0)
- - 😝 [9gaggers...](http://9gag.com/gag/aVvX04K)
- - 💣 [Somebody sue the doctor!](http://9gag.com/gag/apRBNr8)
- - 😝 [Woman does a live stream to let everyone know the guy is broke cos he took her to Starbucks for a date](http://9gag.com/gag/ae9prQm)
- - 👉 [Hello there!](http://9gag.com/gag/ayNn2dp)<!-- MEMES:END -->
+ - 😝 [Somebody sue the doctor!](http://9gag.com/gag/apRBNr8)
+ - 😝 [When insane people make a very important decisions.](http://9gag.com/gag/ae9przq)
+ - 💣 [And one day for no reason at all...](http://9gag.com/gag/a2vqRQ9)
+ - 😝 [Mommy](http://9gag.com/gag/aoyjP9m)
+ - 👉 [You can&#39;t win](http://9gag.com/gag/axyG9nW)<!-- MEMES:END -->
 
 ---
 

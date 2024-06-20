@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Commerce Department bans Kaspersky antivirus sales in the US, says Kaspersky threatens national security and users&#39; privacy because it is based in Russia &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240620/p28#a240620p28)
  - [US Bans Kaspersky Software](https://www.wired.com/story/us-bans-kaspersky-software/)
  - [Bugatti’s Tourbillon 2024: Price, Specs, Availability](https://www.wired.com/story/bugatti-tourbillon-2024/)
  - [London-based PQShield, which is developing tools for implementing post-quantum cryptography, raised a $37M Series B, taking its total funding to $57M+ &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/240620/p27#a240620p27)
- - [Tempur-Pedic Mattress Review for 2024: Is the Brand Worth the Price Tag?     - CNET](https://www.cnet.com/health/sleep/tempurpedic-mattress-review/#ftag=CAD590a51e)
- - [Move Over, Wordle and Connections. This Taylor Swift Eras Tour Game Has Me Hooked     - CNET](https://www.cnet.com/tech/services-and-software/move-over-wordle-and-connections-this-taylor-swift-eras-tour-game-has-me-hooked/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tempur-Pedic Mattress Review for 2024: Is the Brand Worth the Price Tag?     - CNET](https://www.cnet.com/health/sleep/tempurpedic-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

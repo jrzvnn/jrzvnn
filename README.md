@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The real pirates of the Caribbean](http://9gag.com/gag/aGyRzKn)
+ - 😝 [Hello there!](http://9gag.com/gag/ayNn2dp)
+ - 😝 [They went to allah](http://9gag.com/gag/awy7zPx)
+ - 💣 [Can&#39;t wait for the cake](http://9gag.com/gag/avyLoEd)
  - 😝 [Somebody sue the doctor!](http://9gag.com/gag/apRBNr8)
- - 💣 [Hello there!](http://9gag.com/gag/ayNn2dp)
- - 😝 [And one day for no reason at all...](http://9gag.com/gag/a2vqRQ9)
- - 👉 [Anime recommendations](http://9gag.com/gag/a2vqZje)<!-- MEMES:END -->
+ - 👉 [And one day for no reason at all...](http://9gag.com/gag/a2vqRQ9)<!-- MEMES:END -->
 
 ---
 

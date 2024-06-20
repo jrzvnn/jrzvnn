@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [9gaggers...](http://9gag.com/gag/adBpgRd)
- - 😝 [Caitylin Jenner?](http://9gag.com/gag/a5QKXLy)
- - 💣 [New Zealand Women&#39;s Soccer player scores own goal 3x in 30 minutes...](http://9gag.com/gag/aW4OGL3)
- - 😝 [Somebody sue the doctor!](http://9gag.com/gag/apRBNr8)
- - 👉 [This guy&#39;s patience level](http://9gag.com/gag/aqy2nLL)<!-- MEMES:END -->
+ - 😝 [A woman&#39;s worth....](http://9gag.com/gag/aGyRz26)
+ - 😝 [She loves me](http://9gag.com/gag/aByrnKA)
+ - 💣 [9gaggers...](http://9gag.com/gag/aVvX04K)
+ - 😝 [You can&#39;t win](http://9gag.com/gag/axyG9nW)
+ - 👉 [9gaggers...](http://9gag.com/gag/adBpgRd)<!-- MEMES:END -->
 
 ---
 

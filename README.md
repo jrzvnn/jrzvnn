@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mommy](http://9gag.com/gag/aoyjP9m)
- - 😝 [Imagine looking after your body and eating extremely clean in order to compete in a beauty pageant and then lose to THAT. My heart aches for the other participants. The US is cooked.](http://9gag.com/gag/aKGB6A1)
+ - 😝 [The real pirates of the Caribbean](http://9gag.com/gag/aGyRzKn)
+ - 😝 [Somebody sue the doctor!](http://9gag.com/gag/apRBNr8)
  - 💣 [Hello there!](http://9gag.com/gag/ayNn2dp)
- - 😝 [Girls, always do the Hawk Tuah](http://9gag.com/gag/aKGBxpN)
- - 👉 [Somebody sue the doctor!](http://9gag.com/gag/apRBNr8)<!-- MEMES:END -->
+ - 😝 [And one day for no reason at all...](http://9gag.com/gag/a2vqRQ9)
+ - 👉 [Anime recommendations](http://9gag.com/gag/a2vqZje)<!-- MEMES:END -->
 
 ---
 

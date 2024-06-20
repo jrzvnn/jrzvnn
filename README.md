@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [HeyGen, which uses AI to let users create realistic-looking avatars, raised $60M led by Benchmark at a $500M valuation, taking its total funding to $74M &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/240620/p13#a240620p13)
  - [How to Avoid Scams and Shoddy Wares on Amazon](https://www.wired.com/story/how-shop-safe-amazon/)
+ - [Shop 40 of the Hottest Walmart Plus Week Deals Right Now     - CNET](https://www.cnet.com/deals/best-walmart-plus-week-deals/#ftag=CAD590a51e)
  - [iOS 18 changes just about everything about lock screen controls](https://appleinsider.com/inside/ios-18/tips/ios-18-changes-just-about-everything-about-lock-screen-controls?utm_medium=rss)
- - [Acer Chromebook Plus Spin 714 Review: A Premium Chromebook](https://www.wired.com/review/acer-chromebook-plus-spin-714/)
- - [Daydream, which is building a search engine for personalized shopping using GenAI, ML, and computer vision, raised a $50M seed co-led by Forerunner and Index &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240620/p12#a240620p12)
- - [Good Search Borrows, Great Search … Steals?](https://www.wired.com/story/gadget-lab-podcast-648/)<!-- TECH:END -->
+ - [Save Over $400 on a Lifetime Babbel Subscription and Learn a New Language for Less     - CNET](https://www.cnet.com/deals/save-over-400-on-a-lifetime-babbel-subscription-and-learn-a-new-language-for-less/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

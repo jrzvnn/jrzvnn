@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Crushing big tick with car](http://9gag.com/gag/aAypyz9)
- - 😝 [Handcrafted Hat](http://9gag.com/gag/azxVmYq)
- - 💣 [Mommy](http://9gag.com/gag/aoyjP9m)
- - 😝 [Hell of a first job&#39;s day](http://9gag.com/gag/an7BgY0)
- - 👉 [Is this true ?](http://9gag.com/gag/aByryVD)<!-- MEMES:END -->
+ - 😝 [Wait for it,](http://9gag.com/gag/aZZNy3Q)
+ - 😝 [Somebody sue the doctor!](http://9gag.com/gag/apRBNr8)
+ - 💣 [The real pirates of the Caribbean](http://9gag.com/gag/aGyRzKn)
+ - 😝 [Mommy](http://9gag.com/gag/aoyjP9m)
+ - 👉 [Amazing card work](http://9gag.com/gag/a7obWjq)<!-- MEMES:END -->
 
 ---
 

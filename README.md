@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The rare Galaxy Frog. Despite its bright colors it\u2019s not poisonous. Unlike most frogs it does not communicate via sound and males do not have a vocal sac.](http://9gag.com/gag/aryRm40)
- - 😝 [Amazing card work](http://9gag.com/gag/a7obWjq)
- - 💣 [Mommy](http://9gag.com/gag/aoyjP9m)
- - 😝 [Imagine looking after your body and eating extremely clean in order to compete in a beauty pageant and then lose to THAT. My heart aches for the other participants. The US is cooked.](http://9gag.com/gag/aKGB6A1)
- - 👉 [As if love triangles weren\u2019t bad enough, they had to go create a love square](http://9gag.com/gag/avyLowO)<!-- MEMES:END -->
+ - 😝 [Genuine men are willing to make sacrifices](http://9gag.com/gag/aGyRpYZ)
+ - 😝 [Somebody sue the doctor!](http://9gag.com/gag/apRBNr8)
+ - 💣 [Spotted in Toronto.](http://9gag.com/gag/a2vq7gZ)
+ - 😝 [Wile E. Coyote and Road Runner in `Ready, Set, Zoom!`, full toon. Released 30 April 1955. The sixth Coyote/Road Runner short. Enjoy!](http://9gag.com/gag/aE0zpYK)
+ - 👉 [Don\u2019t you just love the new neighbors?](http://9gag.com/gag/avyL58M)<!-- MEMES:END -->
 
 ---
 

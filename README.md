@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SpaceX unveils Starlink Mini, a compact version of its satellite internet antenna &quot;that can easily fit in a backpack&quot;, offering a &quot;limited number&quot; for $599 each &lpar;Michael Sheetz/CNBC&rpar;](http://www.techmeme.com/240620/p30#a240620p30)
  - [TikTok makes its First Amendment case](https://www.theverge.com/2024/6/20/24182551/tiktok-v-garland-creators-brief-first-amendment)
  - [Samsung Galaxy Buds 3 leak shows off AirPods-like design](https://www.theverge.com/2024/6/20/24182744/samsung-galaxy-buds-3-leak-airpods-design)
- - [YouTube is canceling Premium subscriptions bought using spoofed locations](https://www.theverge.com/2024/6/20/24182686/youtube-premium-subscriptions-vpn-canceled)
- - [I&#39;d Never Make it Through a Summer Heatwave Without this Kitchen Tool     - CNET](https://www.cnet.com/news/id-never-make-it-through-a-summer-heatwave-without-this-kitchen-tool/#ftag=CAD590a51e)
- - [The restrictions on Kaspersky will stop new sales of its antivirus software in the US from July 20 and bar software updates to US customers after September 29 &lpar;Alexandra Alper/Reuters&rpar;](http://www.techmeme.com/240620/p29#a240620p29)<!-- TECH:END -->
+ - [Get Outside and See This Weekend&#39;s Stunning Strawberry Moon     - CNET](https://www.cnet.com/science/get-outside-and-see-this-weekends-stunning-strawberry-moon/#ftag=CAD590a51e)
+ - [Best Wireless Home Security Cameras of 2024     - CNET](https://www.cnet.com/home/security/best-wireless-home-security-cameras/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

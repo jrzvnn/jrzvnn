@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She loves me](http://9gag.com/gag/aByrnKA)
- - 😝 [A woman&#39;s worth....](http://9gag.com/gag/aGyRz26)
- - 💣 [Somebody sue the doctor!](http://9gag.com/gag/apRBNr8)
- - 😝 [Don\u2019t you just love the new neighbors?](http://9gag.com/gag/avyL58M)
- - 👉 [9gaggers...](http://9gag.com/gag/adBpgRd)<!-- MEMES:END -->
+ - 😝 [Caitylin Jenner?](http://9gag.com/gag/a5QKXLy)
+ - 😝 [Somebody sue the doctor!](http://9gag.com/gag/apRBNr8)
+ - 💣 [And one day for no reason at all...](http://9gag.com/gag/a2vqRQ9)
+ - 😝 [9gaggers...](http://9gag.com/gag/aVvX04K)
+ - 👉 [Wait for it,](http://9gag.com/gag/aZZNy3Q)<!-- MEMES:END -->
 
 ---
 

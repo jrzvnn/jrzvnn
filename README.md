@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is this true ?](http://9gag.com/gag/aByryVD)
- - 😝 [Somebody sue the doctor!](http://9gag.com/gag/apRBNr8)
- - 💣 [It ain&#39;t much but my wife made it. Please be brutal](http://9gag.com/gag/aByrZEZ)
+ - 😝 [Hell of a first job&#39;s day](http://9gag.com/gag/an7BgY0)
  - 😝 [Imagine looking after your body and eating extremely clean in order to compete in a beauty pageant and then lose to THAT. My heart aches for the other participants. The US is cooked.](http://9gag.com/gag/aKGB6A1)
- - 👉 [9gaggers...](http://9gag.com/gag/adBpgRd)<!-- MEMES:END -->
+ - 💣 [Somebody sue the doctor!](http://9gag.com/gag/apRBNr8)
+ - 😝 [Is this true ?](http://9gag.com/gag/aByryVD)
+ - 👉 [Satisfying hoof trimming](http://9gag.com/gag/aPAGxQQ)<!-- MEMES:END -->
 
 ---
 

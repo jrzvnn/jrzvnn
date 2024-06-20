@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anker’s fastest power bank is matching its lowest price](https://www.theverge.com/2024/6/20/24182460/anker-prime-27650mah-250w-portable-charger-power-bank-deal-sale)
  - [How some Meta users in the US are turning to small claims court, often successfully, to recover their Facebook or Instagram accounts; some won financial damages &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/240620/p23#a240620p23)
  - [Watch the trailer for Beyond Good &amp; Evil 20th Anniversary Edition — coming June 25th](https://www.theverge.com/24182577/beyond-good-evil-20th-anniversary-game-trailer-release-date)
  - [Kingdom of the Planet of the Apes ‘Raw Cut’ shows the movie pre-VFX](https://www.theverge.com/2024/6/20/24182452/kingdom-of-the-planet-of-the-apes-raw-cut-blu-ray-release-date)
- - [Anker’s new dual-headed USB-C cable charges two devices at once](https://www.theverge.com/2024/6/20/24182414/anker-charging-cable-usb-c-power)
- - [Car dealerships hit with massive computer system outage](https://www.theverge.com/2024/6/20/24182484/car-dealerships-massive-computer-system-outage-cdk-global)<!-- TECH:END -->
+ - [Anker’s new dual-headed USB-C cable charges two devices at once](https://www.theverge.com/2024/6/20/24182414/anker-charging-cable-usb-c-power)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

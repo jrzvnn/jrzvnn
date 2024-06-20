@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can&#39;t wait for the cake](http://9gag.com/gag/avyLoEd)
- - 😝 [Hello there!](http://9gag.com/gag/ayNn2dp)
- - 💣 [Spotted in Toronto.](http://9gag.com/gag/a2vq7gZ)
+ - 😝 [9gaggers...](http://9gag.com/gag/aVvX04K)
  - 😝 [And one day for no reason at all...](http://9gag.com/gag/a2vqRQ9)
+ - 💣 [New Zealand Women&#39;s Soccer player scores own goal 3x in 30 minutes...](http://9gag.com/gag/aW4OGL3)
+ - 😝 [I wanna say `english MF`, but I&#39;m not sure](http://9gag.com/gag/awy7ze4)
  - 👉 [Somebody sue the doctor!](http://9gag.com/gag/apRBNr8)<!-- MEMES:END -->
 
 ---

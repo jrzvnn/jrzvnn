@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple wants you to be able to just point at things to learn about them](https://appleinsider.com/articles/24/06/20/apple-wants-you-to-be-able-to-just-point-at-things-to-learn-about-them?utm_medium=rss)
- - [Snap agrees to pay $15 million to settle gender discrimination lawsuit](https://www.theverge.com/2024/6/20/24182303/snap-gender-discrimination-settlement-california)
+ - [Lenovo squeezed eight speakers into its chonky new tablet](https://www.theverge.com/2024/6/20/24182290/lenovo-tab-plus-tablet-android-bluetooth-speaker)
  - [We’re Still Waiting for the Next Big Leap in AI](https://www.wired.com/story/were-still-waiting-for-the-next-big-leap-in-ai/)
- - [HeyGen, which uses AI to let users create realistic-looking avatars, raised $60M led by Benchmark at a $500M valuation, taking its total funding to $74M &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/240620/p13#a240620p13)
- - [How to Avoid Scams and Shoddy Wares on Amazon](https://www.wired.com/story/how-shop-safe-amazon/)<!-- TECH:END -->
+ - [Honor 200 Pro Review: Midrange Mixed Bag](https://www.wired.com/review/honor-200-pro/)
+ - [Anthropic has a fast new AI model — and a clever new way to interact with chatbots](https://www.theverge.com/2024/6/20/24181961/anthropic-claude-35-sonnet-model-ai-launch)
+ - [Apple wants you to be able to just point at things to learn about them](https://appleinsider.com/articles/24/06/20/apple-wants-you-to-be-able-to-just-point-at-things-to-learn-about-them?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

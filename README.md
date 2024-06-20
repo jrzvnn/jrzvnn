@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s Education Store is down ahead of Back to School offers](https://appleinsider.com/articles/24/06/20/apples-education-store-is-down-ahead-of-back-to-school-offers?utm_medium=rss)
  - [Neo-Nazis Are All-In On AI](https://www.wired.com/story/neo-nazis-are-all-in-on-ai/)
  - [A history of the Lambda School: burning through $120M, why income share agreements failed, how one developer turned journalist ended the fraud, and more &lpar;Benjamin Sandofsky/Sandofsky&rpar;](http://www.techmeme.com/240620/p6#a240620p6)
  - [A look at the many lawsuits against RealPage, the rent-fixing software company accused of artificially inflating the real estate rental prices across the US &lpar;Maureen Tkacik/American Prospect&rpar;](http://www.techmeme.com/240620/p5#a240620p5)
- - [Taylor Swift Challenges Land on TikTok With Digital Collectibles Up for Grabs     - CNET](https://www.cnet.com/tech/services-and-software/taylor-swift-challenges-land-on-tiktok-with-digital-collectibles-up-for-grabs/#ftag=CAD590a51e)
- - [An investigation details how Chinese gangs, Chinese officials, and Myanmar&#39;s Junta made Myanmar&#39;s Kokang region a key hub in the global online scam industry &lpar;Washington Post&rpar;](http://www.techmeme.com/240620/p4#a240620p4)<!-- TECH:END -->
+ - [Taylor Swift Challenges Land on TikTok With Digital Collectibles Up for Grabs     - CNET](https://www.cnet.com/tech/services-and-software/taylor-swift-challenges-land-on-tiktok-with-digital-collectibles-up-for-grabs/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

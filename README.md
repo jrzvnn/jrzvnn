@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: The CFTC is investigating the Chicago-based trading firm Jump&#39;s involvement in crypto, including inquiries into its trading and investing activity &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/240620/p21#a240620p21)
+ - [Best MicroSD Card Deals: Get Amazing MicroSD Cards for Less     - CNET](https://www.cnet.com/deals/best-microsd-card-deals/#ftag=CAD590a51e)
  - [New Jersey-based Semperis, which offers tools to protect enterprises using Microsoft Active Directory, raised $125M and says it now has a $1B valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240620/p20#a240620p20)
- - [Apple&#39;s talks with FIFA have faltered, Club World Cup tournament at risk](https://appleinsider.com/articles/24/06/20/apples-talks-with-fifa-have-faltered-club-world-cup-tournament-at-risk?utm_medium=rss)
- - [PayPal hires one of Walmart&#39;s top tech executives Srini Venkatesan as its CTO, effective June 24, replacing Archie Deskus, who will leave the company in July &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/240620/p19#a240620p19)
- - [Microsoft’s embarrassing Recall](https://www.theverge.com/2024/6/20/24182350/microsoft-windows-recall-launch-on-arm)
- - [Have we been overthinking EV sounds?](https://www.theverge.com/24182348/ev-sounds-low-speed-survey-non-tonal-white-noise)<!-- TECH:END -->
+ - [Refi Rates Hold Steady Below 7% After Fed Meeting. Today&#39;s Refi Rates for June 20, 2024     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-refinance-rates-fall-refinance-rates-for-june-20-2024/#ftag=CAD590a51e)
+ - [&#39;The Boys&#39; Season 4, Episode 4 Recap: Just About Everyone Chooses Violence     - CNET](https://www.cnet.com/tech/services-and-software/the-boys-season-4-episode-4-recap-just-about-everyone-chooses-violence/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

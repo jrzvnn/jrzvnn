@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Instagram rolls out Live broadcasts for close friends](https://www.theverge.com/2024/6/20/24180239/instagram-live-close-friends-only-broadcasts)
  - [Gynger, which lets companies &quot;finance, pay, and manage&quot; their tech purchases, raised a $20M Series A led by PayPal Ventures, bringing its total raised to $31.7M &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240620/p16#a240620p16)
  - [Inside the players and politics of the modern AI industry](https://www.theverge.com/24182381/ai-industry-politics-openai-anthropic-elon-musk-xai-decoder-podcast-interview)
- - [Anthropic adds Artifacts, a feature that lets users see and interact with the results of their Claude requests, signaling its long-term vision for Claude &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/240620/p15#a240620p15)
- - [Anthropic launches Claude 3.5 Sonnet, which beats its flagship model Claude 3 Opus and outperforms GPT-4o in some tests, available for free on the web and iOS &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240620/p14#a240620p14)
- - [Lenovo squeezed eight speakers into its chonky new tablet](https://www.theverge.com/2024/6/20/24182290/lenovo-tab-plus-tablet-android-bluetooth-speaker)<!-- TECH:END -->
+ - [Lull Original Premium Mattress Review: A Cut Above Lull&#39;s Original Bed video     - CNET](https://www.cnet.com/videos/lull-original-premium-mattress-review-a-cut-above-lulls-original-bed/#ftag=CAD590a51e)
+ - [Nolah Signature Mattress Review: Best Bed for Side Sleepers? video     - CNET](https://www.cnet.com/videos/nolah-signature-mattress-review-best-bed-for-side-sleepers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

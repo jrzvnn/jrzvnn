@@ -163,7 +163,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [PayPal hires one of Walmart&#39;s top tech executives Srini Venkatesan as its CTO, effective June 24, replacing Archie Deskus, who will leave the company in July &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/240620/p19#a240620p19)
  - [Microsoft’s embarrassing Recall](https://www.theverge.com/2024/6/20/24182350/microsoft-windows-recall-launch-on-arm)
  - [Have we been overthinking EV sounds?](https://www.theverge.com/24182348/ev-sounds-low-speed-survey-non-tonal-white-noise)
- - [Meta rolls out the ability for users to restrict their Instagram Lives to Close Friends, with the option for three other users to join the broadcast &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/240620/p18#a240620p18)<!-- TECH:END -->
+ - [How Much Energy Does an Air Conditioner Use?     - CNET](https://www.cnet.com/home/energy-and-utilities/how-much-energy-does-an-air-conditioner-use/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

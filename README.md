@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Caitylin Jenner?](http://9gag.com/gag/a5QKXLy)
- - 😝 [Somebody sue the doctor!](http://9gag.com/gag/apRBNr8)
- - 💣 [And one day for no reason at all...](http://9gag.com/gag/a2vqRQ9)
- - 😝 [9gaggers...](http://9gag.com/gag/aVvX04K)
- - 👉 [Wait for it,](http://9gag.com/gag/aZZNy3Q)<!-- MEMES:END -->
+ - 😝 [AhH yEs ThE sEgs](http://9gag.com/gag/aqy2ybp)
+ - 😝 [A.I. prank.](http://9gag.com/gag/an7BzYL)
+ - 💣 [Old friends](http://9gag.com/gag/abAbVxO)
+ - 😝 [A keeper.](http://9gag.com/gag/a5QKQrg)
+ - 👉 [It\u2019s his Stand power](http://9gag.com/gag/aAypyYd)<!-- MEMES:END -->
 
 ---
 

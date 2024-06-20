@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta rolls out the ability for users to restrict their Instagram Lives to Close Friends, with the option for three other users to join the broadcast &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/240620/p18#a240620p18)
+ - [Far Right Militias Are Back](https://www.wired.com/story/far-right-militias-extremism/)
  - [Amazon is getting rid of plastic air pillows in North America](https://www.theverge.com/2024/6/20/24182372/amazon-replace-plastic-air-pillows-paper-filler-north-america)
  - [Here’s how to save on Elden Ring Shadow of the Erdtree in time for launch](https://www.theverge.com/2024/6/20/24182307/elden-ring-shadow-erdtree-dlc-expansion-deal-sale)
- - [LA-based GrayMatter Robotics, which develops AI-powered robotic cells for the manufacturing industry, raised a $45M Series B led by Wellington Management &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/240620/p17#a240620p17)
- - [Instagram rolls out Live broadcasts for close friends](https://www.theverge.com/2024/6/20/24180239/instagram-live-close-friends-only-broadcasts)
- - [Gynger, which lets companies &quot;finance, pay, and manage&quot; their tech purchases, raised a $20M Series A led by PayPal Ventures, bringing its total raised to $31.7M &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240620/p16#a240620p16)<!-- TECH:END -->
+ - [LA-based GrayMatter Robotics, which develops AI-powered robotic cells for the manufacturing industry, raised a $45M Series B led by Wellington Management &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/240620/p17#a240620p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Behold Cthulhu swimming apparently](http://9gag.com/gag/aZZNZzV)
- - 😝 [It\u2019s literally just a bunch of rocks.](http://9gag.com/gag/a9yPyV0)
- - 💣 [A keeper.](http://9gag.com/gag/a5QKQrg)
- - 😝 [They aren&#39;t even worth a brick](http://9gag.com/gag/aE0z0yp)
- - 👉 [Secret beach in Morocco](http://9gag.com/gag/aByry52)<!-- MEMES:END -->
+ - 😝 [Hell of a first job&#39;s day](http://9gag.com/gag/an7BgY0)
+ - 😝 [Somebody sue the doctor!](http://9gag.com/gag/apRBNr8)
+ - 💣 [Don\u2019t you just love the new neighbors?](http://9gag.com/gag/avyL58M)
+ - 😝 [Canada](http://9gag.com/gag/aVvXboP)
+ - 👉 [Crushing big tick with car](http://9gag.com/gag/aAypyz9)<!-- MEMES:END -->
 
 ---
 

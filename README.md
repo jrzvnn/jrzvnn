@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Somebody sue the doctor!](http://9gag.com/gag/apRBNr8)
- - 😝 [Imagine looking after your body and eating extremely clean in order to compete in a beauty pageant and then lose to THAT. My heart aches for the other participants. The US is cooked.](http://9gag.com/gag/aKGB6A1)
- - 💣 [Spotted in Toronto.](http://9gag.com/gag/a2vq7gZ)
- - 😝 [The trust level when 2 people obsessed with bombs decide who gets in the car first](http://9gag.com/gag/axyGM2M)
- - 👉 [9gaggers...](http://9gag.com/gag/aVvX04K)<!-- MEMES:END -->
+ - 😝 [9gaggers...](http://9gag.com/gag/adBpgRd)
+ - 😝 [This belongs here](http://9gag.com/gag/aryRnpV)
+ - 💣 [Old friends](http://9gag.com/gag/abAbVxO)
+ - 😝 [Rip Maria](http://9gag.com/gag/a6ZLEON)
+ - 👉 [Bruh](http://9gag.com/gag/aAypGN0)<!-- MEMES:END -->
 
 ---
 

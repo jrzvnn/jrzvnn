@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EU diplomats: a scheduled EU Council vote to amend a draft law that may force WhatsApp and Signal to scan images and links for CSAM was removed from the agenda &lpar;Clothilde Goujard/Politico&rpar;](http://www.techmeme.com/240620/p11#a240620p11)
  - [Apple&#39;s Education Store is down ahead of Back to School offers](https://appleinsider.com/articles/24/06/20/apples-education-store-is-down-ahead-of-back-to-school-offers?utm_medium=rss)
  - [Apple&#39;s Back to School offers are live -- but there are better deals to be had](https://appleinsider.com/articles/24/06/20/apples-back-to-school-offers-are-live----but-there-are-better-deals-to-be-had?utm_medium=rss)
  - [Kenya ends a year-long investigation into Worldcoin with &quot;no further police action&quot; and says the startup must register its business, acquire licenses, and more &lpar;TechCrunch&rpar;](http://www.techmeme.com/240620/p10#a240620p10)
- - [Big Tech Is Giving Campaigns Both the Venom and the Antidote for GenAI](https://www.wired.com/story/big-tech-microsoft-google-gen-ai-campaigns/)
- - [What features Apple changed ahead of the WWDC 2024 debut](https://appleinsider.com/articles/24/06/19/heres-which-features-apple-changed-ahead-of-their-wwdc-2024-debut?utm_medium=rss)<!-- TECH:END -->
+ - [Big Tech Is Giving Campaigns Both the Venom and the Antidote for GenAI](https://www.wired.com/story/big-tech-microsoft-google-gen-ai-campaigns/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

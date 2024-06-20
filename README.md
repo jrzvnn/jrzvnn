@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And one day for no reason at all...](http://9gag.com/gag/a2vqRQ9)
- - 😝 [A woman&#39;s worth....](http://9gag.com/gag/aGyRz26)
- - 💣 [She loves me](http://9gag.com/gag/aByrnKA)
- - 😝 [A keeper.](http://9gag.com/gag/a5QKQrg)
- - 👉 [Somebody sue the doctor!](http://9gag.com/gag/apRBNr8)<!-- MEMES:END -->
+ - 😝 [Crushing big tick with car](http://9gag.com/gag/aAypyz9)
+ - 😝 [Handcrafted Hat](http://9gag.com/gag/azxVmYq)
+ - 💣 [Mommy](http://9gag.com/gag/aoyjP9m)
+ - 😝 [Hell of a first job&#39;s day](http://9gag.com/gag/an7BgY0)
+ - 👉 [Is this true ?](http://9gag.com/gag/aByryVD)<!-- MEMES:END -->
 
 ---
 

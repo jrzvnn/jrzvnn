@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok makes its First Amendment case](https://www.theverge.com/2024/6/20/24182551/tiktok-v-garland-creators-brief-first-amendment)
+ - [Samsung Galaxy Buds 3 leak shows off AirPods-like design](https://www.theverge.com/2024/6/20/24182744/samsung-galaxy-buds-3-leak-airpods-design)
  - [YouTube is canceling Premium subscriptions bought using spoofed locations](https://www.theverge.com/2024/6/20/24182686/youtube-premium-subscriptions-vpn-canceled)
  - [I&#39;d Never Make it Through a Summer Heatwave Without this Kitchen Tool     - CNET](https://www.cnet.com/news/id-never-make-it-through-a-summer-heatwave-without-this-kitchen-tool/#ftag=CAD590a51e)
- - [The restrictions on Kaspersky will stop new sales of its antivirus software in the US from July 20 and bar software updates to US customers after September 29 &lpar;Alexandra Alper/Reuters&rpar;](http://www.techmeme.com/240620/p29#a240620p29)
- - [The Commerce Department bans Kaspersky antivirus sales in the US, says Kaspersky threatens national security and users&#39; privacy because it is based in Russia &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240620/p28#a240620p28)
- - [Best Adjustable Dumbbells for 2024     - CNET](https://www.cnet.com/health/fitness/best-adjustable-dumbbells/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The restrictions on Kaspersky will stop new sales of its antivirus software in the US from July 20 and bar software updates to US customers after September 29 &lpar;Alexandra Alper/Reuters&rpar;](http://www.techmeme.com/240620/p29#a240620p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Crushing big tick with car](http://9gag.com/gag/aAypyz9)
- - 😝 [A woman&#39;s worth....](http://9gag.com/gag/aGyRz26)
- - 💣 [A keeper.](http://9gag.com/gag/a5QKQrg)
- - 😝 [Satisfying hoof trimming](http://9gag.com/gag/aPAGxQQ)
- - 👉 [AhH yEs ThE sEgs](http://9gag.com/gag/aqy2ybp)<!-- MEMES:END -->
+ - 😝 [Canada](http://9gag.com/gag/aVvXboP)
+ - 😝 [Rafah before and after](http://9gag.com/gag/a2vqv1e)
+ - 💣 [Somebody sue the doctor!](http://9gag.com/gag/apRBNr8)
+ - 😝 [It ain&#39;t much but my wife made it. Please be brutal](http://9gag.com/gag/aByrZEZ)
+ - 👉 [Don\u2019t you just love the new neighbors?](http://9gag.com/gag/avyL58M)<!-- MEMES:END -->
 
 ---
 

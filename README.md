@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wait for it,](http://9gag.com/gag/aZZNy3Q)
+ - 😝 [Canada](http://9gag.com/gag/aVvXboP)
+ - 😝 [She loves me](http://9gag.com/gag/aByrnKA)
+ - 💣 [Amazing card work](http://9gag.com/gag/a7obWjq)
  - 😝 [Somebody sue the doctor!](http://9gag.com/gag/apRBNr8)
- - 💣 [The real pirates of the Caribbean](http://9gag.com/gag/aGyRzKn)
- - 😝 [Mommy](http://9gag.com/gag/aoyjP9m)
- - 👉 [Amazing card work](http://9gag.com/gag/a7obWjq)<!-- MEMES:END -->
+ - 👉 [9gaggers...](http://9gag.com/gag/adBpgRd)<!-- MEMES:END -->
 
 ---
 

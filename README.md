@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Satisfying hoof trimming](http://9gag.com/gag/aPAGxQQ)
- - 😝 [They aren&#39;t even worth a brick](http://9gag.com/gag/aE0z0yp)
- - 💣 [Ha... hehehe, I&#39;m in danger](http://9gag.com/gag/a9yPzq1)
- - 😝 [A truck driver&#39;s happiness when trains respond when he honks](http://9gag.com/gag/amo8Wzv)
- - 👉 [Spotted in Toronto.](http://9gag.com/gag/a2vq7gZ)<!-- MEMES:END -->
+ - 😝 [Stop oil protestors targeted Taylor swift private jet](http://9gag.com/gag/a2vqvne)
+ - 😝 [A keeper.](http://9gag.com/gag/a5QKQrg)
+ - 💣 [Its Alien....](http://9gag.com/gag/aVvXxr2)
+ - 😝 [It ain&#39;t much but my wife made it. Please be brutal](http://9gag.com/gag/aByrZEZ)
+ - 👉 [A woman&#39;s worth....](http://9gag.com/gag/aGyRz26)<!-- MEMES:END -->
 
 ---
 

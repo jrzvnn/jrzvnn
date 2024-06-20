@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She loves me](http://9gag.com/gag/aByrnKA)
- - 😝 [Rafah before and after](http://9gag.com/gag/a2vqv1e)
+ - 😝 [I dont usually like ig shit, but his one cracked me up,lmao](http://9gag.com/gag/aByrnNZ)
+ - 😝 [A woman&#39;s worth....](http://9gag.com/gag/aGyRz26)
  - 💣 [9gaggers...](http://9gag.com/gag/adBpgRd)
- - 😝 [Don\u2019t you just love the new neighbors?](http://9gag.com/gag/avyL58M)
- - 👉 [Somebody sue the doctor!](http://9gag.com/gag/apRBNr8)<!-- MEMES:END -->
+ - 😝 [Crushing big tick with car](http://9gag.com/gag/aAypyz9)
+ - 👉 [Rafah before and after](http://9gag.com/gag/a2vqv1e)<!-- MEMES:END -->
 
 ---
 

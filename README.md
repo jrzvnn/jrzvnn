@@ -169,9 +169,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [New Zealand Women&#39;s Soccer player scores own goal 3x in 30 minutes...](http://9gag.com/gag/aW4OGL3)
- - 😝 [Hmmmm](http://9gag.com/gag/aoyjPwx)
- - 💣 [Hello there!](http://9gag.com/gag/ayNn2dp)
- - 😝 [And one day for no reason at all...](http://9gag.com/gag/a2vqRQ9)
+ - 😝 [9gaggers...](http://9gag.com/gag/aVvX04K)
+ - 💣 [A keeper.](http://9gag.com/gag/a5QKQrg)
+ - 😝 [Don\u2019t you just love the new neighbors?](http://9gag.com/gag/avyL58M)
  - 👉 [9gaggers...](http://9gag.com/gag/adBpgRd)<!-- MEMES:END -->
 
 ---

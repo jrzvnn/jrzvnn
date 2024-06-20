@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stop oil protestors targeted Taylor swift private jet](http://9gag.com/gag/a2vqvne)
- - 😝 [A keeper.](http://9gag.com/gag/a5QKQrg)
- - 💣 [Its Alien....](http://9gag.com/gag/aVvXxr2)
- - 😝 [It ain&#39;t much but my wife made it. Please be brutal](http://9gag.com/gag/aByrZEZ)
- - 👉 [A woman&#39;s worth....](http://9gag.com/gag/aGyRz26)<!-- MEMES:END -->
+ - 😝 [Is this true ?](http://9gag.com/gag/aByryVD)
+ - 😝 [Somebody sue the doctor!](http://9gag.com/gag/apRBNr8)
+ - 💣 [It ain&#39;t much but my wife made it. Please be brutal](http://9gag.com/gag/aByrZEZ)
+ - 😝 [Imagine looking after your body and eating extremely clean in order to compete in a beauty pageant and then lose to THAT. My heart aches for the other participants. The US is cooked.](http://9gag.com/gag/aKGB6A1)
+ - 👉 [9gaggers...](http://9gag.com/gag/adBpgRd)<!-- MEMES:END -->
 
 ---
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How much for that? Asking for friend](http://9gag.com/gag/avyLyd5)
- - 😝 [Is this true ?](http://9gag.com/gag/aByryVD)
- - 💣 [A woman&#39;s worth....](http://9gag.com/gag/aGyRz26)
+ - 😝 [She loves me](http://9gag.com/gag/aByrnKA)
+ - 😝 [Don\u2019t you just love the new neighbors?](http://9gag.com/gag/avyL58M)
+ - 💣 [Is this true ?](http://9gag.com/gag/aByryVD)
  - 😝 [Canada](http://9gag.com/gag/aVvXboP)
- - 👉 [9gaggers...](http://9gag.com/gag/adBpgRd)<!-- MEMES:END -->
+ - 👉 [Amazing card work](http://9gag.com/gag/a7obWjq)<!-- MEMES:END -->
 
 ---
 

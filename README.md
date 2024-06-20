@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [9gaggers...](http://9gag.com/gag/adBpgRd)
- - 😝 [This belongs here](http://9gag.com/gag/aryRnpV)
- - 💣 [Old friends](http://9gag.com/gag/abAbVxO)
- - 😝 [Rip Maria](http://9gag.com/gag/a6ZLEON)
- - 👉 [Bruh](http://9gag.com/gag/aAypGN0)<!-- MEMES:END -->
+ - 😝 [Hello there!](http://9gag.com/gag/ayNn2dp)
+ - 😝 [Girls, always do the Hawk Tuah](http://9gag.com/gag/aKGBxpN)
+ - 💣 [As if love triangles weren\u2019t bad enough, they had to go create a love square](http://9gag.com/gag/avyLowO)
+ - 😝 [And one day for no reason at all...](http://9gag.com/gag/a2vqRQ9)
+ - 👉 [9gaggers...](http://9gag.com/gag/aVvX04K)<!-- MEMES:END -->
 
 ---
 

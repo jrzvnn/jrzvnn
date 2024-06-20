@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tests show Instagram continues to recommend sexual videos to accounts with ages listed as 13; Snapchat and TikTok did not produce the same sexualized content &lpar;Jeff Horwitz/Wall Street Journal&rpar;](http://www.techmeme.com/240620/p9#a240620p9)
+ - [Rumpl’s Amazingly Versatile Outdoor Blanket Is on a Rare Monthlong Sale](https://www.wired.com/story/rumpl-original-blanket-sale-2024/)
  - [Tencent removes hit game Dungeon &amp; Fighter from select Android app stores after its contracts expired; local media says the app stores include Huawei and Oppo &lpar;Reuters&rpar;](http://www.techmeme.com/240620/p8#a240620p8)
  - [We Put Air Conditioners to the Test, and These Are Our 7 Favorites](https://www.wired.com/gallery/best-window-air-conditioners/)
- - [Apple reveals first Malaysian store ahead of opening](https://appleinsider.com/articles/24/06/20/apple-reveals-first-malaysian-store-ahead-of-opening?utm_medium=rss)
- - [TikTok launches an in-app experience to celebrate Taylor Swift&#39;s Eras Tour, giving prizes to users who complete 11 weeks of tasks, following Instagram in April &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/240620/p7#a240620p7)
- - [Potatoes Are the Perfect Vegetable—but You’re Eating Them Wrong](https://www.wired.com/story/potatoes-are-the-perfect-vegetable-but-youre-eating-them-wrong/)<!-- TECH:END -->
+ - [Apple reveals first Malaysian store ahead of opening](https://appleinsider.com/articles/24/06/20/apple-reveals-first-malaysian-store-ahead-of-opening?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

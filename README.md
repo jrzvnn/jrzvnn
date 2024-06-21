@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iOS 18 brings a new API called AccessorySetupKit, letting third-party accessory makers build the same quick pairing experience as Apple accessories like AirPods &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/240620/p33#a240620p33)
+ - [Source: AI chipmaker Cerebras confidentially filed for a US IPO; filing: in early June, it authorized new shares at a steep discount to its 2021 funding round &lpar;The Information&rpar;](http://www.techmeme.com/240620/p32#a240620p32)
  - [Sources: US DOJ won&#39;t pursue FTC&#39;s claim that TikTok misled US consumers on data security in a forthcoming suit accusing TikTok of children&#39;s privacy violations &lpar;Bloomberg&rpar;](http://www.techmeme.com/240620/p31#a240620p31)
- - [Former OpenAI Exec Launches AI Startup With Goal of Safety Over Profits     - CNET](https://www.cnet.com/tech/services-and-software/former-openai-exec-launches-ai-startup-with-goal-of-safety-over-profits/#ftag=CAD590a51e)
- - [SpaceX unveils Starlink Mini, a compact version of its satellite internet antenna &quot;that can easily fit in a backpack&quot;, offering a &quot;limited number&quot; for $599 each &lpar;Michael Sheetz/CNBC&rpar;](http://www.techmeme.com/240620/p30#a240620p30)
- - [TikTok makes its First Amendment case](https://www.theverge.com/2024/6/20/24182551/tiktok-v-garland-creators-brief-first-amendment)
- - [Do You Rinse Your Mouth Right After Brushing? Experts Say You Shouldn&#39;t     - CNET](https://www.cnet.com/health/personal-care/do-you-rinse-your-teeth-right-after-brushing-experts-say-you-shouldnt/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How Much Do Home Generators Cost and Are They Worth It?     - CNET](https://www.cnet.com/home/energy-and-utilities/how-much-do-home-generators-cost-and-are-they-worth-it/#ftag=CAD590a51e)
+ - [Former OpenAI Exec Launches AI Startup With Goal of Safety Over Profits     - CNET](https://www.cnet.com/tech/services-and-software/former-openai-exec-launches-ai-startup-with-goal-of-safety-over-profits/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

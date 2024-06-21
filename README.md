@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Muslims in Japan waiting to pray in mosque. No street praying like Europe](http://9gag.com/gag/an7B72o)
- - 😝 [Most popular girl in all of pride month](http://9gag.com/gag/aD2m6rO)
- - 💣 [A gentleman shutting down a dumb reporter.](http://9gag.com/gag/aLnBzM6)
- - 😝 [Crushing big tick with car](http://9gag.com/gag/aAypyz9)
+ - 😝 [Small oversight](http://9gag.com/gag/a1mY74P)
+ - 😝 [Its Alien....](http://9gag.com/gag/aVvXxr2)
+ - 💣 [Muslims in Japan waiting to pray in mosque. No street praying like Europe](http://9gag.com/gag/an7B72o)
+ - 😝 [A keeper.](http://9gag.com/gag/a5QKQrg)
  - 👉 [9gaggers...](http://9gag.com/gag/adBpgRd)<!-- MEMES:END -->
 
 ---

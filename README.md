@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to run Xbox 360 games on macOS Sequoia](https://appleinsider.com/inside/macos-sequoia/tips/how-to-run-xbox-360-games-on-macos-sequoia?utm_medium=rss)
  - [In a filing, ByteDance urged a US court to strike down a law that could ban TikTok in the US, recounting lengthy talks that it says the US ended in August 2022 &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/240620/p34#a240620p34)
  - [Best Internet Providers in Warwick, Rhode Island     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-warwick-ri/#ftag=CAD590a51e)
  - [Which Type of Heat Pump Is Right for Your Home?     - CNET](https://www.cnet.com/home/energy-and-utilities/which-type-of-heat-pump-is-right-for-your-home/#ftag=CAD590a51e)
- - [Best Pillow-Top Mattresses for 2024     - CNET](https://www.cnet.com/health/sleep/best-pillow-top-mattress/#ftag=CAD590a51e)
- - [iOS 18 brings a new API called AccessorySetupKit, letting third-party accessory makers build the same quick pairing experience as Apple accessories like AirPods &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/240620/p33#a240620p33)<!-- TECH:END -->
+ - [Best Pillow-Top Mattresses for 2024     - CNET](https://www.cnet.com/health/sleep/best-pillow-top-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

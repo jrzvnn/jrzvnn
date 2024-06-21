@@ -168,7 +168,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meme dump 20 : Rage Comic edition](http://9gag.com/gag/aXPXNgv)
+ - 😝 [Most popular girl in all of pride month](http://9gag.com/gag/aD2m6rO)
  - 😝 [Lmao](http://9gag.com/gag/aLnBe1g)
  - 💣 [Euro 2024 anthem &lpar;you know the song&rpar; - 20 June 2024](http://9gag.com/gag/aW4OL24)
  - 😝 [What really happened](http://9gag.com/gag/ajPnOxq)

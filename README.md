@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Got a job as a cashier, despite NOT BEING ABLE TO COUNT.](http://9gag.com/gag/an7B7nE)
- - 😝 [Dodge a bullet](http://9gag.com/gag/a9yPvnZ)
- - 💣 [Lotr](http://9gag.com/gag/aByrVdZ)
- - 😝 [A gentleman shutting down a dumb reporter.](http://9gag.com/gag/aLnBzM6)
- - 👉 [Canada](http://9gag.com/gag/aVvXboP)<!-- MEMES:END -->
+ - 😝 [Meme dump 20 : Rage Comic edition](http://9gag.com/gag/aXPXNgv)
+ - 😝 [Lmao](http://9gag.com/gag/aLnBe1g)
+ - 💣 [Euro 2024 anthem &lpar;you know the song&rpar; - 20 June 2024](http://9gag.com/gag/aW4OL24)
+ - 😝 [What really happened](http://9gag.com/gag/ajPnOxq)
+ - 👉 [It ain&#39;t much but my wife made it. Please be brutal](http://9gag.com/gag/aByrZEZ)<!-- MEMES:END -->
 
 ---
 

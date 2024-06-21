@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meme dump 20 : Rage Comic edition](http://9gag.com/gag/aXPXNgv)
- - 😝 [Can&#39;t wait for Summer](http://9gag.com/gag/aYQwOxv)
- - 💣 [A keeper.](http://9gag.com/gag/a5QKQrg)
- - 😝 [What really happened](http://9gag.com/gag/ajPnOxq)
- - 👉 [Will she choose the man or the bear?](http://9gag.com/gag/a4PL6rA)<!-- MEMES:END -->
+ - 😝 [Lmao](http://9gag.com/gag/aLnBe1g)
+ - 😝 [Is this true ?](http://9gag.com/gag/aByryVD)
+ - 💣 [Euro 2024 anthem &lpar;you know the song&rpar; - 20 June 2024](http://9gag.com/gag/aW4OL24)
+ - 😝 [Disney: \u201cThere\u2019s no way we\u2019re hiring a white male.\u201d](http://9gag.com/gag/a4PLzed)
+ - 👉 [The moment of realization](http://9gag.com/gag/a2vqwp9)<!-- MEMES:END -->
 
 ---
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon’s new AI-powered Alexa might cost up to $10 per month](https://www.theverge.com/2024/6/21/24183013/amazon-alexa-ai-subscription)
  - [TikTok confirms it offered the US a &quot;kill switch&quot; in 2022 to shut down the app in the US at the government&#39;s discretion if TikTok did not follow certain rules &lpar;Imran Rahman-Jones/BBC&rpar;](http://www.techmeme.com/240621/p7#a240621p7)
  - [My Memories Are Just Meta&#39;s Training Data Now](https://www.wired.com/story/my-memories-are-just-meta-training-data-now/)
  - [Dnsys X1 Exoskeleton Review: A Great Idea In Need of Finesse](https://www.wired.com/review/review-dnsys-x1-exoskeleton/)
- - [It&#39;s Long Past Time to Deep Clean Your Silverware. Here&#39;s How     - CNET](https://www.cnet.com/news/its-long-past-time-to-deep-clean-your-silverware-heres-how/#ftag=CAD590a51e)
- - [Need a Project Manager? Here&#39;s How AI Can Help     - CNET](https://www.cnet.com/tech/services-and-software/need-a-project-manager-heres-how-ai-can-help/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [It&#39;s Long Past Time to Deep Clean Your Silverware. Here&#39;s How     - CNET](https://www.cnet.com/news/its-long-past-time-to-deep-clean-your-silverware-heres-how/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

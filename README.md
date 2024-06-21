@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Apple Watch &lpar;2024&rpar;: Which Model Should You Buy?](https://www.wired.com/gallery/best-apple-watch/)
  - [Deep inside iOS 18&#39;s best new features and improvements on the AppleInsider Podcast](https://appleinsider.com/articles/24/06/21/deep-inside-ios-18s-best-new-features-and-improvements-on-the-appleinsider-podcast?utm_medium=rss)
  - [Mac App Store&#39;s new game sale has big discounts on major titles](https://appleinsider.com/articles/24/06/21/mac-app-stores-new-game-sale-has-big-discounts-on-major-titles?utm_medium=rss)
  - [Green Chef&#39;s Meal Kit Makes Dinner Delicious—and Organic](https://www.wired.com/review/green-chef-review/)
- - [Estonia blocks an EU VAT reform that would have imposed new liabilities on short-term rental services like Airbnb and passenger transport services like Bolt &lpar;Bloomberg&rpar;](http://www.techmeme.com/240621/p6#a240621p6)
- - [7 Questions to Ask an Energy Provider Before Signing Up     - CNET](https://www.cnet.com/how-to/7-questions-to-ask-an-energy-provider-before-signing-up/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Estonia blocks an EU VAT reform that would have imposed new liabilities on short-term rental services like Airbnb and passenger transport services like Bolt &lpar;Bloomberg&rpar;](http://www.techmeme.com/240621/p6#a240621p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

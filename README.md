@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Relationship &amp; Dating](http://9gag.com/gag/azxVxYK)
- - 😝 [They are nice and salty](http://9gag.com/gag/aE0z86p)
- - 💣 [Stop oil protestors targeted Taylor swift private jet](http://9gag.com/gag/a2vqvne)
- - 😝 [I volunteer](http://9gag.com/gag/ae9pQyW)
- - 👉 [Crushing big tick with car](http://9gag.com/gag/aAypyz9)<!-- MEMES:END -->
+ - 😝 [F**ker died.](http://9gag.com/gag/ayNn3xq)
+ - 😝 [When your stomach acid rises, but you are told to lead.](http://9gag.com/gag/agmNmYr)
+ - 💣 [Rafah before and after](http://9gag.com/gag/a2vqv1e)
+ - 😝 [Crushing big tick with car](http://9gag.com/gag/aAypyz9)
+ - 👉 [Sea world, cage of sea creatures](http://9gag.com/gag/a5QK6XG)<!-- MEMES:END -->
 
 ---
 

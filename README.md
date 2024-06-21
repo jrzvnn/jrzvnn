@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple will withhold the release of Apple Intelligence, iPhone Mirroring, and more in the EU this year, citing concerns about DMA&#39;s interoperability requirements &lpar;Bloomberg&rpar;](http://www.techmeme.com/240621/p16#a240621p16)
  - [A Las Vegas jury convicts five men for operating Jetflicks, which charged $9.99 per month and officials say was one of the largest illegal streamers in the US &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240621/p15#a240621p15)
  - [There&#39;s a new classic arcade game streaming service coming to iPhone](https://appleinsider.com/articles/24/06/21/theres-a-new-classic-arcade-game-streaming-service-coming-to-iphone?utm_medium=rss)
- - [The US Department of the Treasury announces sanctions against twelve executives of Kaspersky; founder and CEO Eugene Kaspersky is not included in the sanctions &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240621/p14#a240621p14)
- - [Spotify’s $10.99 ‘Basic’ plan drops the audiobooks](https://www.theverge.com/2024/6/21/24183161/spotify-basic-plan-drops-audiobooks)
- - [Google pauses plans to allow real-money games on the Play Store, as supporting such apps in markets without a central licensing framework proves difficult &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240621/p13#a240621p13)<!-- TECH:END -->
+ - [The US Department of the Treasury announces sanctions against 12 Kaspersky executives; the company and its founder and CEO Eugene Kaspersky were not included &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240621/p14#a240621p14)
+ - [Spotify’s $10.99 ‘Basic’ plan drops the audiobooks](https://www.theverge.com/2024/6/21/24183161/spotify-basic-plan-drops-audiobooks)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

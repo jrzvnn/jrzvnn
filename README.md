@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It ain&#39;t much but my wife made it. Please be brutal](http://9gag.com/gag/aByrZEZ)
- - 😝 [Accident](http://9gag.com/gag/an7BO2q)
- - 💣 [This is a built-in calculator on iOS 18 &lpar;beta&rpar;](http://9gag.com/gag/agmNg8r)
- - 😝 [US situation](http://9gag.com/gag/aXPXLOg)
- - 👉 [Muslims in Japan waiting to pray in mosque. No street praying like Europe](http://9gag.com/gag/an7B72o)<!-- MEMES:END -->
+ - 😝 [When your stomach acid rises, but you are told to lead.](http://9gag.com/gag/agmNmYr)
+ - 😝 [Crushing big tick with car](http://9gag.com/gag/aAypyz9)
+ - 💣 [US situation](http://9gag.com/gag/aXPXLOg)
+ - 😝 [Satisfying hoof trimming](http://9gag.com/gag/aPAGxQQ)
+ - 👉 [Title](http://9gag.com/gag/a9yPqR6)<!-- MEMES:END -->
 
 ---
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lmao](http://9gag.com/gag/aLnBe1g)
- - 😝 [Is this true ?](http://9gag.com/gag/aByryVD)
- - 💣 [Euro 2024 anthem &lpar;you know the song&rpar; - 20 June 2024](http://9gag.com/gag/aW4OL24)
- - 😝 [Disney: \u201cThere\u2019s no way we\u2019re hiring a white male.\u201d](http://9gag.com/gag/a4PLzed)
- - 👉 [The moment of realization](http://9gag.com/gag/a2vqwp9)<!-- MEMES:END -->
+ - 😝 [Meme dump 20 : Rage Comic edition](http://9gag.com/gag/aXPXNgv)
+ - 😝 [Got a job as a cashier, despite NOT BEING ABLE TO COUNT.](http://9gag.com/gag/an7B7nE)
+ - 💣 [Will she choose the man or the bear?](http://9gag.com/gag/a4PL6rA)
+ - 😝 [Maybe he&#39;s got three hands](http://9gag.com/gag/a34LANr)
+ - 👉 [This is fully congruent with pride tbh...](http://9gag.com/gag/a4PLNRp)<!-- MEMES:END -->
 
 ---
 

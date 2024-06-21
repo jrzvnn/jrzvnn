@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A keeper.](http://9gag.com/gag/a5QKQrg)
- - 😝 [Small oversight](http://9gag.com/gag/a1mY74P)
- - 💣 [She loves me](http://9gag.com/gag/aByrnKA)
- - 😝 [My fellow 9gaggers](http://9gag.com/gag/an7BRnb)
- - 👉 [A gentleman shutting down a dumb reporter.](http://9gag.com/gag/aLnBzM6)<!-- MEMES:END -->
+ - 😝 [Title](http://9gag.com/gag/a9yPqR6)
+ - 😝 [Muslims in Japan waiting to pray in mosque. No street praying like Europe](http://9gag.com/gag/an7B72o)
+ - 💣 [The animators had balls making this scene](http://9gag.com/gag/ajPn7Qw)
+ - 😝 [Will she choose the man or the bear?](http://9gag.com/gag/a4PL6rA)
+ - 👉 [My fellow 9gaggers](http://9gag.com/gag/an7BRnb)<!-- MEMES:END -->
 
 ---
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Got a job as a cashier, despite NOT BEING ABLE TO COUNT.](http://9gag.com/gag/an7B7nE)
+ - 😝 [Dodge a bullet](http://9gag.com/gag/a9yPvnZ)
+ - 💣 [Lotr](http://9gag.com/gag/aByrVdZ)
  - 😝 [A gentleman shutting down a dumb reporter.](http://9gag.com/gag/aLnBzM6)
- - 😝 [This is fully congruent with pride tbh...](http://9gag.com/gag/a4PLNRp)
- - 💣 [Got a job as a cashier, despite NOT BEING ABLE TO COUNT.](http://9gag.com/gag/an7B7nE)
- - 😝 [Will she choose the man or the bear?](http://9gag.com/gag/a4PL6rA)
- - 👉 [What really happened](http://9gag.com/gag/ajPnOxq)<!-- MEMES:END -->
+ - 👉 [Canada](http://9gag.com/gag/aVvXboP)<!-- MEMES:END -->
 
 ---
 

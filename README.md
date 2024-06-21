@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [My neigbour&#39;s dog would break it](http://9gag.com/gag/aAypEYR)
- - 😝 [Canada](http://9gag.com/gag/aVvXboP)
- - 💣 [My friends uncle is a Gynecologist and claims he&#39;s seen some truly disgusting things](http://9gag.com/gag/aZZN1eV)
- - 😝 [Muslims in Japan waiting to pray in mosque. No street praying like Europe](http://9gag.com/gag/an7B72o)
- - 👉 [Most popular girl in all of pride month](http://9gag.com/gag/aD2m6rO)<!-- MEMES:END -->
+ - 😝 [Crushing big tick with car](http://9gag.com/gag/aAypyz9)
+ - 💣 [Most popular girl in all of pride month](http://9gag.com/gag/aD2m6rO)
+ - 😝 [Meme dump 20 : Rage Comic edition](http://9gag.com/gag/aXPXNgv)
+ - 👉 [Development aid has finally reached Africa.](http://9gag.com/gag/a9yPv7o)<!-- MEMES:END -->
 
 ---
 

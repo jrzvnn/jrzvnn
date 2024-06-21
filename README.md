@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [8 reasons for Apple users to switch to UPDF Editor: AI PDF Assistant](https://appleinsider.com/articles/24/06/21/8-reasons-for-apple-users-to-switch-to-updf-editor-ai-pdf-assistant?utm_medium=rss)
+ - [Huawei says around 900M gadgets are now running on its HarmonyOS and sales of premium Huawei smartphones climbed 72% in the first five months of 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240621/p5#a240621p5)
  - [Qilin, hackers behind the London hospitals hack, published ~400GB of patient data on their darknet site and Telegram channel; the NHS is investigating the claim &lpar;Joe Tidy/BBC&rpar;](http://www.techmeme.com/240621/p4#a240621p4)
- - [Microsoft makes Copilot less useful on new Copilot Plus PCs](https://www.theverge.com/2024/6/21/24182979/microsoft-copilot-key-keyboard-shortcut-pwa)
- - [A look at Congress&#39; absurd plan to ban DJI drones in the US, even as the company adds restrictions and features to comply with US government regulations &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240621/p3#a240621p3)
- - [Starlink Mini brings space internet to backpackers](https://www.theverge.com/2024/6/21/24182970/starlink-mini-usb-power-specs-price)
- - [Indian grocery delivery startup Zepto raised $665M Series F co-led by Glade Brook, Nexus, and StepStone Group at a $3.6B valuation, up from $1.4B in August 2023 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240621/p2#a240621p2)<!-- TECH:END -->
+ - [4 New Things I Saw at AWE 2024 That Will Make You Want AR and VR in Your Life     - CNET](https://www.cnet.com/tech/computing/4-new-things-i-saw-at-awe-2024-that-will-make-you-want-ar-and-vr-in-your-life/#ftag=CAD590a51e)
+ - [Best Samsung Phone of 2024     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-phone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

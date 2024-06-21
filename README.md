@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SharePlay upgrades &amp; iPhone Screen Mirroring coming to the betas on Monday](https://appleinsider.com/articles/24/06/21/shareplay-upgrades-iphone-screen-mirroring-coming-to-the-betas-on-monday?utm_medium=rss)
  - [Apple Intelligence &amp; iPhone mirroring aren&#39;t coming to EU because of the DMA](https://appleinsider.com/articles/24/06/21/apple-intelligence-iphone-mirroring-arent-coming-to-eu-because-of-the-dma?utm_medium=rss)
  - [Microsoft&#39;s Copilot key on the new Copilot+ PCs launches a PWA version of Copilot, which doesn&#39;t integrate into Windows like the previous Copilot experience &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240621/p24#a240621p24)
  - [US sanctions Kaspersky Lab executives, board members over ‘cooperation’ with Russia](https://www.theverge.com/2024/6/21/24183274/kaspersky-lab-sanctions-treasury-department-russia)
- - [Youth plaintiffs in Hawaii reach historic climate deal](https://www.theverge.com/2024/6/21/24183261/hawaii-transportation-youth-climate-change-lawsuit-historic-settlement)
- - [Last Chance to Save $200 on One of Our Favorite Treadmills     - CNET](https://www.cnet.com/deals/last-chance-to-save-200-on-one-of-our-favorite-treadmills/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Youth plaintiffs in Hawaii reach historic climate deal](https://www.theverge.com/2024/6/21/24183261/hawaii-transportation-youth-climate-change-lawsuit-historic-settlement)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

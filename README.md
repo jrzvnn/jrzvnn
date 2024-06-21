@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pepsi advertisement.](http://9gag.com/gag/amo81QX)
- - 😝 [Is this true ?](http://9gag.com/gag/aByryVD)
- - 💣 [What really happened](http://9gag.com/gag/ajPnOxq)
- - 😝 [The moment of realization](http://9gag.com/gag/a2vqwp9)
- - 👉 [Most popular girl in all of pride month](http://9gag.com/gag/aD2m6rO)<!-- MEMES:END -->
+ - 😝 [A gentleman shutting down a dumb reporter.](http://9gag.com/gag/aLnBzM6)
+ - 😝 [Crushing big tick with car](http://9gag.com/gag/aAypyz9)
+ - 💣 [Muslims in Japan waiting to pray in mosque. No street praying like Europe](http://9gag.com/gag/an7B72o)
+ - 😝 [Can&#39;t wait for Summer](http://9gag.com/gag/aYQwOxv)
+ - 👉 [Title](http://9gag.com/gag/a9yPqR6)<!-- MEMES:END -->
 
 ---
 

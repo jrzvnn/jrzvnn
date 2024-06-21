@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meme dump 20 : Rage Comic edition](http://9gag.com/gag/aXPXNgv)
- - 😝 [Got a job as a cashier, despite NOT BEING ABLE TO COUNT.](http://9gag.com/gag/an7B7nE)
- - 💣 [Will she choose the man or the bear?](http://9gag.com/gag/a4PL6rA)
- - 😝 [Maybe he&#39;s got three hands](http://9gag.com/gag/a34LANr)
- - 👉 [This is fully congruent with pride tbh...](http://9gag.com/gag/a4PLNRp)<!-- MEMES:END -->
+ - 😝 [A gentleman shutting down a dumb reporter.](http://9gag.com/gag/aLnBzM6)
+ - 😝 [This is fully congruent with pride tbh...](http://9gag.com/gag/a4PLNRp)
+ - 💣 [Got a job as a cashier, despite NOT BEING ABLE TO COUNT.](http://9gag.com/gag/an7B7nE)
+ - 😝 [Will she choose the man or the bear?](http://9gag.com/gag/a4PL6rA)
+ - 👉 [What really happened](http://9gag.com/gag/ajPnOxq)<!-- MEMES:END -->
 
 ---
 

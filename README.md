@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When your stomach acid rises, but you are told to lead.](http://9gag.com/gag/agmNmYr)
- - 😝 [Crushing big tick with car](http://9gag.com/gag/aAypyz9)
- - 💣 [US situation](http://9gag.com/gag/aXPXLOg)
- - 😝 [Satisfying hoof trimming](http://9gag.com/gag/aPAGxQQ)
- - 👉 [Title](http://9gag.com/gag/a9yPqR6)<!-- MEMES:END -->
+ - 😝 [F**ker died.](http://9gag.com/gag/ayNn3xq)
+ - 😝 [US situation](http://9gag.com/gag/aXPXLOg)
+ - 💣 [Hello there!](http://9gag.com/gag/ayNn2dp)
+ - 😝 [A gentleman shutting down a dumb reporter.](http://9gag.com/gag/aLnBzM6)
+ - 👉 [Don\u2019t you just love the new neighbors?](http://9gag.com/gag/avyL58M)<!-- MEMES:END -->
 
 ---
 

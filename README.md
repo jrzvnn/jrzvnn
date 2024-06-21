@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [F**ker died.](http://9gag.com/gag/ayNn3xq)
- - 😝 [When your stomach acid rises, but you are told to lead.](http://9gag.com/gag/agmNmYr)
- - 💣 [Rafah before and after](http://9gag.com/gag/a2vqv1e)
+ - 😝 [They are nice and salty](http://9gag.com/gag/aE0z86p)
+ - 😝 [Is this true ?](http://9gag.com/gag/aByryVD)
+ - 💣 [Canada](http://9gag.com/gag/aVvXboP)
  - 😝 [Crushing big tick with car](http://9gag.com/gag/aAypyz9)
- - 👉 [Sea world, cage of sea creatures](http://9gag.com/gag/a5QK6XG)<!-- MEMES:END -->
+ - 👉 [Title](http://9gag.com/gag/a9yPqR6)<!-- MEMES:END -->
 
 ---
 

@@ -163,7 +163,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [X plans to make the ability to create live streams a premium feature, making it the only major social platform to charge for the feature &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/240621/p22#a240621p22)
  - [How to manage deleted files on Windows and Android](https://www.theverge.com/24183303/windows-android-deleted-files-how-to)
  - [Retro game streamer Antstream plans to launch on the App Store with 1,300 titles, the first such launch after Apple allowed game streaming services on iPhone &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/240621/p21#a240621p21)
- - [Yes, You Should Deep Clean Your Silverware. Here&#39;s How     - CNET](https://www.cnet.com/news/yes-you-should-deep-clean-your-silverware-heres-how/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Change Healthcare says the February ransomware attack on its systems resulted in the theft of medical records of a &quot;substantial proportion of people&quot; in the US &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240621/p20#a240621p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

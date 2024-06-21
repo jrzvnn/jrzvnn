@@ -163,7 +163,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Apple Intelligence &amp; iPhone mirroring aren&#39;t coming to EU because of the DMA](https://appleinsider.com/articles/24/06/21/apple-intelligence-iphone-mirroring-arent-coming-to-eu-because-of-the-dma?utm_medium=rss)
  - [Apple may delay AI features in the EU because of its big tech law](https://www.theverge.com/2024/6/21/24183251/apple-eu-delay-ai-screen-mirroring-shareplay-dma)
  - [Sources: Amazon has considered a $5 to $10 monthly price tag for a revamped Alexa with generative AI features, dubbed &quot;Remarkable Alexa&quot; &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/240621/p19#a240621p19)
- - [Perplexity Plagiarized Our Story About How Perplexity Is a Bullshit Machine](https://www.wired.com/story/perplexity-plagiarized-our-story-about-how-perplexity-is-a-bullshit-machine/)<!-- TECH:END -->
+ - [Best Internet Providers in Riverside, California     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-riverside-ca/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A truck driver&#39;s happiness when trains respond when he honks](http://9gag.com/gag/amo8Wzv)
- - 😝 [A little story](http://9gag.com/gag/a0eYe7X)
- - 💣 [Satisfying hoof trimming](http://9gag.com/gag/aPAGxQQ)
- - 😝 [Euro 2024: Dutch supporters disguised as Ruud Gullit accused of \u201cblackface\u201d and \u201cracism\u201d by leftists, the ex-player himself responds by saying he is \u201chonored\u201d](http://9gag.com/gag/a1mY7zY)
- - 👉 [Donald Sutherland passed away at age 88.](http://9gag.com/gag/aKGB1OW)<!-- MEMES:END -->
+ - 😝 [It ain&#39;t much but my wife made it. Please be brutal](http://9gag.com/gag/aByrZEZ)
+ - 😝 [Accident](http://9gag.com/gag/an7BO2q)
+ - 💣 [This is a built-in calculator on iOS 18 &lpar;beta&rpar;](http://9gag.com/gag/agmNg8r)
+ - 😝 [US situation](http://9gag.com/gag/aXPXLOg)
+ - 👉 [Muslims in Japan waiting to pray in mosque. No street praying like Europe](http://9gag.com/gag/an7B72o)<!-- MEMES:END -->
 
 ---
 

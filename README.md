@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is this true ?](http://9gag.com/gag/aByryVD)
- - 😝 [Rafah before and after](http://9gag.com/gag/a2vqv1e)
- - 💣 [It got personal for him](http://9gag.com/gag/a9yP6Aj)
- - 😝 [Title](http://9gag.com/gag/a9yPqR6)
+ - 😝 [Relationship &amp; Dating](http://9gag.com/gag/azxVxYK)
+ - 😝 [They are nice and salty](http://9gag.com/gag/aE0z86p)
+ - 💣 [Stop oil protestors targeted Taylor swift private jet](http://9gag.com/gag/a2vqvne)
+ - 😝 [I volunteer](http://9gag.com/gag/ae9pQyW)
  - 👉 [Crushing big tick with car](http://9gag.com/gag/aAypyz9)<!-- MEMES:END -->
 
 ---

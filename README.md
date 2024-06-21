@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Is this true ?](http://9gag.com/gag/aByryVD)
+ - 😝 [9gaggers...](http://9gag.com/gag/adBpgRd)
+ - 💣 [Fast and furious berlin](http://9gag.com/gag/aQzngPW)
  - 😝 [Meme dump 20 : Rage Comic edition](http://9gag.com/gag/aXPXNgv)
- - 😝 [A gentleman shutting down a dumb reporter.](http://9gag.com/gag/aLnBzM6)
- - 💣 [Muslims in Japan waiting to pray in mosque. No street praying like Europe](http://9gag.com/gag/an7B72o)
- - 😝 [Fast and furious berlin](http://9gag.com/gag/aQzngPW)
- - 👉 [Its Alien....](http://9gag.com/gag/aVvXxr2)<!-- MEMES:END -->
+ - 👉 [Canada](http://9gag.com/gag/aVvXboP)<!-- MEMES:END -->
 
 ---
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What kind of sorcery is this](http://9gag.com/gag/azxVPXj)
- - 😝 [Wholesome](http://9gag.com/gag/a5QK6dq)
- - 💣 [Development aid has finally reached Africa.](http://9gag.com/gag/a9yPv7o)
- - 😝 [Meme dump 20 : Rage Comic edition](http://9gag.com/gag/aXPXNgv)
- - 👉 [Pepsi advertisement.](http://9gag.com/gag/amo81QX)<!-- MEMES:END -->
+ - 😝 [A gentleman shutting down a dumb reporter.](http://9gag.com/gag/aLnBzM6)
+ - 😝 [Here come the wee woos!](http://9gag.com/gag/aPAGAyn)
+ - 💣 [Fast and furious berlin](http://9gag.com/gag/aQzngPW)
+ - 😝 [What really happened](http://9gag.com/gag/ajPnOxq)
+ - 👉 [Title](http://9gag.com/gag/a9yPqR6)<!-- MEMES:END -->
 
 ---
 

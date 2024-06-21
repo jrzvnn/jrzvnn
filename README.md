@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A gentleman shutting down a dumb reporter.](http://9gag.com/gag/aLnBzM6)
- - 😝 [True love...](http://9gag.com/gag/a0eY4ZQ)
- - 💣 [A woman&#39;s worth....](http://9gag.com/gag/aGyRz26)
- - 😝 [It\u2019s his Stand power](http://9gag.com/gag/aAypyYd)
- - 👉 [French couple that stole artifacts in Indonesia is facing jail time](http://9gag.com/gag/adBpBRV)<!-- MEMES:END -->
+ - 😝 [Crushing big tick with car](http://9gag.com/gag/aAypyz9)
+ - 😝 [Muslims in Japan waiting to pray in mosque. No street praying like Europe](http://9gag.com/gag/an7B72o)
+ - 💣 [9gaggers...](http://9gag.com/gag/adBpgRd)
+ - 😝 [Is this true ?](http://9gag.com/gag/aByryVD)
+ - 👉 [Canada](http://9gag.com/gag/aVvXboP)<!-- MEMES:END -->
 
 ---
 

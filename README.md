@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Intelligence &amp; iPhone mirroring aren&#39;t coming to EU because of the DMA](https://appleinsider.com/articles/24/06/21/apple-intelligence-iphone-mirroring-arent-coming-to-eu-because-of-the-dma?utm_medium=rss)
  - [Microsoft&#39;s Copilot key on the new Copilot+ PCs launches a PWA version of Copilot, which doesn&#39;t integrate into Windows like the previous Copilot experience &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240621/p24#a240621p24)
  - [US sanctions Kaspersky Lab executives, board members over ‘cooperation’ with Russia](https://www.theverge.com/2024/6/21/24183274/kaspersky-lab-sanctions-treasury-department-russia)
  - [Youth plaintiffs in Hawaii reach historic climate deal](https://www.theverge.com/2024/6/21/24183261/hawaii-transportation-youth-climate-change-lawsuit-historic-settlement)
- - [Save up to $650 on Apple&#39;s latest 14-inch MacBook Pro with M3 Pro, M3 Max chip](https://appleinsider.com/articles/24/06/21/save-up-to-650-on-apples-latest-14-inch-macbook-pro-with-m3-pro-m3-max-chip?utm_medium=rss)
- - [Source: Stability AI hired ex- CEO of Weta Digital Prem Akkaraju as new CEO; Akkaraju and Sean Parker are among investors that have stepped in to save Stability &lpar;The Information&rpar;](http://www.techmeme.com/240621/p23#a240621p23)<!-- TECH:END -->
+ - [Save up to $650 on Apple&#39;s latest 14-inch MacBook Pro with M3 Pro, M3 Max chip](https://appleinsider.com/articles/24/06/21/save-up-to-650-on-apples-latest-14-inch-macbook-pro-with-m3-pro-m3-max-chip?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

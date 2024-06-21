@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [AT&amp;T is still on the hook for offering landline service in California](https://www.theverge.com/2024/6/21/24183435/att-provide-landline-service-california-colr)
- - [The Internet Might Actually Be Good for Us After All     - CNET](https://www.cnet.com/home/internet/the-internet-might-actually-be-good-for-us-after-all/#ftag=CAD590a51e)
- - [Wireless Internet Surpasses Cable and Fiber in New Customer Satisfaction Survey     - CNET](https://www.cnet.com/home/internet/wireless-internet-surpasses-cable-and-fiber-in-new-customer-satisfaction-survey/#ftag=CAD590a51e)
  - [The California Public Utilities Commission rejects AT&amp;T&#39;s request to end its landline phone obligations and urges AT&amp;T to upgrade copper facilities to fiber &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/240621/p27#a240621p27)
- - [Redbox missed a multimillion-dollar payment it couldn’t afford to miss](https://www.theverge.com/2024/6/21/24183454/redbox-universal-missed-payment-17-million)<!-- TECH:END -->
+ - [Redbox missed a multimillion-dollar payment it couldn’t afford to miss](https://www.theverge.com/2024/6/21/24183454/redbox-universal-missed-payment-17-million)
+ - [Arizona toddler rescued after getting trapped in a Tesla with a dead battery](https://www.theverge.com/2024/6/21/24183439/tesla-model-y-arizona-toddler-trapped-rescued)
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

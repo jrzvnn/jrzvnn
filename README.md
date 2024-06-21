@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [How to run Xbox 360 games on macOS Sequoia](https://appleinsider.com/inside/macos-sequoia/tips/how-to-run-xbox-360-games-on-macos-sequoia?utm_medium=rss)
+ - [The Best Pixar Movies Ranked, From &#39;Inside Out 2&#39; to &#39;Toy Story&#39;     - CNET](https://www.cnet.com/tech/services-and-software/the-best-pixar-movies-ranked-from-inside-out-2-to-toy-story/#ftag=CAD590a51e)
+ - [Why Your Home&#39;s Energy System Efficiency Isn&#39;t 100%     - CNET](https://www.cnet.com/home/energy-and-utilities/why-your-homes-energy-system-isnt-100-efficient/#ftag=CAD590a51e)
  - [In a filing, ByteDance urged a US court to strike down a law that could ban TikTok in the US, recounting lengthy talks that it says the US ended in August 2022 &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/240620/p34#a240620p34)
- - [Best Internet Providers in Warwick, Rhode Island     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-warwick-ri/#ftag=CAD590a51e)
- - [Which Type of Heat Pump Is Right for Your Home?     - CNET](https://www.cnet.com/home/energy-and-utilities/which-type-of-heat-pump-is-right-for-your-home/#ftag=CAD590a51e)
- - [Best Pillow-Top Mattresses for 2024     - CNET](https://www.cnet.com/health/sleep/best-pillow-top-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Apple TV Deals: Discounted Streaming Boxes and Accessories     - CNET](https://www.cnet.com/deals/best-apple-tv-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

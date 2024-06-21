@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Canada](http://9gag.com/gag/aVvXboP)
- - 😝 [Fast and furious berlin](http://9gag.com/gag/aQzngPW)
- - 💣 [A gentleman shutting down a dumb reporter.](http://9gag.com/gag/aLnBzM6)
- - 😝 [Can&#39;t wait for Summer](http://9gag.com/gag/aYQwOxv)
- - 👉 [A keeper.](http://9gag.com/gag/a5QKQrg)<!-- MEMES:END -->
+ - 😝 [9gaggers...](http://9gag.com/gag/adBpgRd)
+ - 😝 [Muslims in Japan waiting to pray in mosque. No street praying like Europe](http://9gag.com/gag/an7B72o)
+ - 💣 [Title](http://9gag.com/gag/a9yPqR6)
+ - 😝 [Small oversight](http://9gag.com/gag/a1mY74P)
+ - 👉 [Will she choose the man or the bear?](http://9gag.com/gag/a4PL6rA)<!-- MEMES:END -->
 
 ---
 

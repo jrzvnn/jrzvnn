@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is a built-in calculator on iOS 18 &lpar;beta&rpar;](http://9gag.com/gag/agmNg8r)
- - 😝 [Canada](http://9gag.com/gag/aVvXboP)
- - 💣 [She loves me](http://9gag.com/gag/aByrnKA)
- - 😝 [Muslims in Japan waiting to pray in mosque. No street praying like Europe](http://9gag.com/gag/an7B72o)
- - 👉 [It ain&#39;t much but my wife made it. Please be brutal](http://9gag.com/gag/aByrZEZ)<!-- MEMES:END -->
+ - 😝 [Rafah before and after](http://9gag.com/gag/a2vqv1e)
+ - 😝 [She loves me](http://9gag.com/gag/aByrnKA)
+ - 💣 [Hell of a first job&#39;s day](http://9gag.com/gag/an7BgY0)
+ - 😝 [Imagine looking after your body and eating extremely clean in order to compete in a beauty pageant and then lose to THAT. My heart aches for the other participants. The US is cooked.](http://9gag.com/gag/aKGB6A1)
+ - 👉 [Is this true ?](http://9gag.com/gag/aByryVD)<!-- MEMES:END -->
 
 ---
 

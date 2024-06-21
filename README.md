@@ -163,7 +163,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Redbox missed a multimillion-dollar payment it couldn’t afford to miss](https://www.theverge.com/2024/6/21/24183454/redbox-universal-missed-payment-17-million)
  - [Arizona toddler rescued after getting trapped in a Tesla with a dead battery](https://www.theverge.com/2024/6/21/24183439/tesla-model-y-arizona-toddler-trapped-rescued)
  - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [Source: a group that claims to have hacked car dealership software provider CDK Global has demanded tens of millions of dollars in ransom, and CDK plans to pay &lpar;Craig Trudell/Bloomberg&rpar;](http://www.techmeme.com/240621/p26#a240621p26)<!-- TECH:END -->
+ - [4 Ways Online Entrepreneurship Helps Me Live a Wealthy, Well-Traveled Life     - CNET](https://www.cnet.com/personal-finance/4-ways-online-entrepreneurship-helps-me-live-a-wealthy-well-traveled-life/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple will withhold the release of Apple Intelligence, iPhone Mirroring, and more in the EU this year, citing concerns about DMA&#39;s interoperability requirements &lpar;Bloomberg&rpar;](http://www.techmeme.com/240621/p16#a240621p16)
- - [A Las Vegas jury convicts five men for operating Jetflicks, which charged $9.99 per month and officials say was one of the largest illegal streamers in the US &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/240621/p15#a240621p15)
- - [There&#39;s a new classic arcade game streaming service coming to iPhone](https://appleinsider.com/articles/24/06/21/theres-a-new-classic-arcade-game-streaming-service-coming-to-iphone?utm_medium=rss)
- - [The US Department of the Treasury announces sanctions against 12 Kaspersky executives; the company and its founder and CEO Eugene Kaspersky were not included &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240621/p14#a240621p14)
- - [Spotify’s $10.99 ‘Basic’ plan drops the audiobooks](https://www.theverge.com/2024/6/21/24183161/spotify-basic-plan-drops-audiobooks)<!-- TECH:END -->
+ - [Apple Intelligence &amp; iPhone mirroring aren&#39;t coming to EU because of the DMA](https://appleinsider.com/articles/24/06/21/apple-intelligence-iphone-mirroring-arent-coming-to-eu-because-of-the-dma?utm_medium=rss)
+ - [OpenAI’s first acquisition is an enterprise data startup](https://www.theverge.com/2024/6/21/24183216/openai-rockset-acquisition-enterprise-data-startup)
+ - [TikTok is looking more and more like Yelp](https://www.theverge.com/2024/6/21/24183085/tiktok-location-page-categories-travel-recommendations)
+ - [Sources: Sony is making deep cuts to funding for VR games, with only two PSVR 2 games in development; Sony released just three PSVR 2 games last year &lpar;Nicholas Sutrich/Android Central&rpar;](http://www.techmeme.com/240621/p18#a240621p18)
+ - [The US publishes targeted draft rules to ban or require notification of US investments in AI and other key technology sectors in China &lpar;Reuters&rpar;](http://www.techmeme.com/240621/p17#a240621p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

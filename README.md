@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Change Healthcare says the February ransomware attack on its systems resulted in the theft of medical records of a &quot;substantial proportion of people&quot; in the US &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240621/p20#a240621p20)
- - [Apple Intelligence &amp; iPhone mirroring aren&#39;t coming to EU because of the DMA](https://appleinsider.com/articles/24/06/21/apple-intelligence-iphone-mirroring-arent-coming-to-eu-because-of-the-dma?utm_medium=rss)
- - [Apple may delay AI features in the EU because of its big tech law](https://www.theverge.com/2024/6/21/24183251/apple-eu-delay-ai-screen-mirroring-shareplay-dma)
- - [Sources: Amazon has considered a $5 to $10 monthly price tag for a revamped Alexa with generative AI features, dubbed &quot;Remarkable Alexa&quot; &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/240621/p19#a240621p19)
- - [Best Internet Providers in Riverside, California     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-riverside-ca/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Retro game streamer Antstream plans to launch on the App Store with 1,300 titles, the first such launch after Apple allowed game streaming services on iPhone &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/240621/p21#a240621p21)
+ - [Yes, You Should Deep Clean Your Silverware. Here&#39;s How     - CNET](https://www.cnet.com/news/yes-you-should-deep-clean-your-silverware-heres-how/#ftag=CAD590a51e)
+ - [Best Apple Cider Vinegar Drinks     - CNET](https://www.cnet.com/news/best-apple-cider-vinegar-drinks/#ftag=CAD590a51e)
+ - [Battery Dead? Here&#39;s How to Get Out of a Locked Tesla     - CNET](https://www.cnet.com/roadshow/news/battery-dead-heres-how-to-get-out-of-a-locked-tesla/#ftag=CAD590a51e)
+ - [Change Healthcare says the February ransomware attack on its systems resulted in the theft of medical records of a &quot;substantial proportion of people&quot; in the US &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240621/p20#a240621p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

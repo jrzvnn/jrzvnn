@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Change Healthcare says the February ransomware attack on its systems resulted in the theft of medical records of a &quot;substantial proportion of people&quot; in the US &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240621/p20#a240621p20)
  - [Apple Intelligence &amp; iPhone mirroring aren&#39;t coming to EU because of the DMA](https://appleinsider.com/articles/24/06/21/apple-intelligence-iphone-mirroring-arent-coming-to-eu-because-of-the-dma?utm_medium=rss)
  - [Apple may delay AI features in the EU because of its big tech law](https://www.theverge.com/2024/6/21/24183251/apple-eu-delay-ai-screen-mirroring-shareplay-dma)
  - [Sources: Amazon has considered a $5 to $10 monthly price tag for a revamped Alexa with generative AI features, dubbed &quot;Remarkable Alexa&quot; &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/240621/p19#a240621p19)
- - [Perplexity Plagiarized Our Story About How Perplexity Is a Bullshit Machine](https://www.wired.com/story/perplexity-plagiarized-our-story-about-how-perplexity-is-a-bullshit-machine/)
- - [OpenAI’s first acquisition is an enterprise data startup](https://www.theverge.com/2024/6/21/24183216/openai-rockset-acquisition-enterprise-data-startup)<!-- TECH:END -->
+ - [Perplexity Plagiarized Our Story About How Perplexity Is a Bullshit Machine](https://www.wired.com/story/perplexity-plagiarized-our-story-about-how-perplexity-is-a-bullshit-machine/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

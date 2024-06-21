@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The moment of realization](http://9gag.com/gag/a2vqwp9)
- - 😝 [F**ker died.](http://9gag.com/gag/ayNn3xq)
- - 💣 [Title](http://9gag.com/gag/a9yPqR6)
- - 😝 [My friends uncle is a Gynecologist and claims he&#39;s seen some truly disgusting things](http://9gag.com/gag/aZZN1eV)
- - 👉 [Small oversight](http://9gag.com/gag/a1mY74P)<!-- MEMES:END -->
+ - 😝 [A keeper.](http://9gag.com/gag/a5QKQrg)
+ - 😝 [Small oversight](http://9gag.com/gag/a1mY74P)
+ - 💣 [She loves me](http://9gag.com/gag/aByrnKA)
+ - 😝 [My fellow 9gaggers](http://9gag.com/gag/an7BRnb)
+ - 👉 [A gentleman shutting down a dumb reporter.](http://9gag.com/gag/aLnBzM6)<!-- MEMES:END -->
 
 ---
 

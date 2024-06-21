@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk has another secret child with exec at his brain implant company](https://www.theverge.com/2024/6/21/24183083/elon-musk-secret-child-shivon-zilis-exec-neuralink)
+ - [7 Best Mechanical Keyboards &lpar;2024&rpar;: Tested and Reviewed](https://www.wired.com/gallery/best-mechanical-keyboards/)
  - [Tidal is revamping its lossless and immersive audio formats](https://www.theverge.com/2024/6/21/24183037/tidal-mqa-flac-dolby-atmos-spatial-audio)
  - [You can save hundreds on Samsung’s last-gen The Frame TV](https://www.theverge.com/2024/6/21/24182398/woot-samsung-the-frame-tv-polaroid-go-deal-sale)
- - [OpenAI buys Rockset, an enterprise search and analytics startup that raised $105M, integrating both the tech and staff of an acquisition for the first time &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/240621/p12#a240621p12)
- - [Some users say Meta is tagging real photos with the Made with AI label, possibly because AI-powered tools were used to edit, rather than create, the images &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240621/p11#a240621p11)
- - [The first iPhone game streaming service brings hundreds of licensed retro games](https://www.theverge.com/2024/6/21/24183027/antstream-emulator-apple-iphone-retro-games-ipad-streaming)<!-- TECH:END -->
+ - [OpenAI buys Rockset, an enterprise search and analytics startup that raised $105M, integrating both the tech and staff of an acquisition for the first time &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/240621/p12#a240621p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

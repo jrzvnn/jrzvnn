@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can&#39;t wait for Summer](http://9gag.com/gag/aYQwOxv)
- - 😝 [Its Alien....](http://9gag.com/gag/aVvXxr2)
- - 💣 [A gentleman shutting down a dumb reporter.](http://9gag.com/gag/aLnBzM6)
- - 😝 [A keeper.](http://9gag.com/gag/a5QKQrg)
- - 👉 [Got a job as a cashier, despite NOT BEING ABLE TO COUNT.](http://9gag.com/gag/an7B7nE)<!-- MEMES:END -->
+ - 😝 [Pepsi advertisement.](http://9gag.com/gag/amo81QX)
+ - 😝 [Is this true ?](http://9gag.com/gag/aByryVD)
+ - 💣 [What really happened](http://9gag.com/gag/ajPnOxq)
+ - 😝 [The moment of realization](http://9gag.com/gag/a2vqwp9)
+ - 👉 [Most popular girl in all of pride month](http://9gag.com/gag/aD2m6rO)<!-- MEMES:END -->
 
 ---
 

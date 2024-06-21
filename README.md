@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple announces new, expanded Milton Keynes store in the UK](https://appleinsider.com/articles/24/06/21/apple-announces-new-expanded-milton-keynes-store-in-the-uk?utm_medium=rss)
  - [Before Smartphones, an Army of Real People Helped You Find Stuff on Google](https://www.wired.com/story/google-search-118-118-aqa/)
  - [Science Is Full of Errors. Bounty Hunters Are Here to Find Them](https://www.wired.com/story/bounty-hunters-are-here-to-save-academia-bug-bounty/)
  - [Somehow, Concerts Are the Biggest Memes of the Summer](https://www.wired.com/story/somehow-concerts-are-the-biggest-memes-of-the-summer/)
- - [New AirPods Pro beta feature allows users to tailor noise cancellation](https://appleinsider.com/articles/24/06/21/new-airpods-pro-beta-feature-allows-users-to-tailor-noise-cancellation?utm_medium=rss)
- - [8 reasons for Apple users to switch to UPDF Editor: AI PDF Assistant](https://appleinsider.com/articles/24/06/21/8-reasons-for-apple-users-to-switch-to-updf-editor-ai-pdf-assistant?utm_medium=rss)<!-- TECH:END -->
+ - [New AirPods Pro beta feature allows users to tailor noise cancellation](https://appleinsider.com/articles/24/06/21/new-airpods-pro-beta-feature-allows-users-to-tailor-noise-cancellation?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

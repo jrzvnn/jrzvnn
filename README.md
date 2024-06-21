@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Crushing big tick with car](http://9gag.com/gag/aAypyz9)
- - 😝 [Muslims in Japan waiting to pray in mosque. No street praying like Europe](http://9gag.com/gag/an7B72o)
- - 💣 [9gaggers...](http://9gag.com/gag/adBpgRd)
  - 😝 [Is this true ?](http://9gag.com/gag/aByryVD)
- - 👉 [Canada](http://9gag.com/gag/aVvXboP)<!-- MEMES:END -->
+ - 😝 [Rafah before and after](http://9gag.com/gag/a2vqv1e)
+ - 💣 [It got personal for him](http://9gag.com/gag/a9yP6Aj)
+ - 😝 [Title](http://9gag.com/gag/a9yPqR6)
+ - 👉 [Crushing big tick with car](http://9gag.com/gag/aAypyz9)<!-- MEMES:END -->
 
 ---
 

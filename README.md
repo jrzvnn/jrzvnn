@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Got a job as a cashier, despite NOT BEING ABLE TO COUNT.](http://9gag.com/gag/an7B7nE)
- - 😝 [Development aid has finally reached Africa.](http://9gag.com/gag/a9yPv7o)
- - 💣 [A gentleman shutting down a dumb reporter.](http://9gag.com/gag/aLnBzM6)
- - 😝 [Will she choose the man or the bear?](http://9gag.com/gag/a4PL6rA)
- - 👉 [Meme dump 20 : Rage Comic edition](http://9gag.com/gag/aXPXNgv)<!-- MEMES:END -->
+ - 😝 [Meme dump 20 : Rage Comic edition](http://9gag.com/gag/aXPXNgv)
+ - 😝 [Can&#39;t wait for Summer](http://9gag.com/gag/aYQwOxv)
+ - 💣 [A keeper.](http://9gag.com/gag/a5QKQrg)
+ - 😝 [What really happened](http://9gag.com/gag/ajPnOxq)
+ - 👉 [Will she choose the man or the bear?](http://9gag.com/gag/a4PL6rA)<!-- MEMES:END -->
 
 ---
 

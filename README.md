@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A gentleman shutting down a dumb reporter.](http://9gag.com/gag/aLnBzM6)
- - 😝 [Crushing big tick with car](http://9gag.com/gag/aAypyz9)
- - 💣 [Muslims in Japan waiting to pray in mosque. No street praying like Europe](http://9gag.com/gag/an7B72o)
- - 😝 [Can&#39;t wait for Summer](http://9gag.com/gag/aYQwOxv)
- - 👉 [Title](http://9gag.com/gag/a9yPqR6)<!-- MEMES:END -->
+ - 😝 [Canada](http://9gag.com/gag/aVvXboP)
+ - 😝 [Fast and furious berlin](http://9gag.com/gag/aQzngPW)
+ - 💣 [Meme dump 20 : Rage Comic edition](http://9gag.com/gag/aXPXNgv)
+ - 😝 [Will she choose the man or the bear?](http://9gag.com/gag/a4PL6rA)
+ - 👉 [Got a job as a cashier, despite NOT BEING ABLE TO COUNT.](http://9gag.com/gag/an7B7nE)<!-- MEMES:END -->
 
 ---
 

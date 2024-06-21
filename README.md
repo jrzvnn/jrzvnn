@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [9gaggers...](http://9gag.com/gag/adBpgRd)
- - 😝 [Muslims in Japan waiting to pray in mosque. No street praying like Europe](http://9gag.com/gag/an7B72o)
- - 💣 [Title](http://9gag.com/gag/a9yPqR6)
- - 😝 [Small oversight](http://9gag.com/gag/a1mY74P)
- - 👉 [Will she choose the man or the bear?](http://9gag.com/gag/a4PL6rA)<!-- MEMES:END -->
+ - 😝 [What kind of sorcery is this](http://9gag.com/gag/azxVPXj)
+ - 😝 [Wholesome](http://9gag.com/gag/a5QK6dq)
+ - 💣 [Development aid has finally reached Africa.](http://9gag.com/gag/a9yPv7o)
+ - 😝 [Meme dump 20 : Rage Comic edition](http://9gag.com/gag/aXPXNgv)
+ - 👉 [Pepsi advertisement.](http://9gag.com/gag/amo81QX)<!-- MEMES:END -->
 
 ---
 

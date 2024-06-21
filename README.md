@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My neigbour&#39;s dog would break it](http://9gag.com/gag/aAypEYR)
+ - 😝 [Muslims in Japan waiting to pray in mosque. No street praying like Europe](http://9gag.com/gag/an7B72o)
+ - 😝 [Most popular girl in all of pride month](http://9gag.com/gag/aD2m6rO)
+ - 💣 [A gentleman shutting down a dumb reporter.](http://9gag.com/gag/aLnBzM6)
  - 😝 [Crushing big tick with car](http://9gag.com/gag/aAypyz9)
- - 💣 [Most popular girl in all of pride month](http://9gag.com/gag/aD2m6rO)
- - 😝 [Meme dump 20 : Rage Comic edition](http://9gag.com/gag/aXPXNgv)
- - 👉 [Development aid has finally reached Africa.](http://9gag.com/gag/a9yPv7o)<!-- MEMES:END -->
+ - 👉 [9gaggers...](http://9gag.com/gag/adBpgRd)<!-- MEMES:END -->
 
 ---
 

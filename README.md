@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stop oil protestors targeted Taylor swift private jet](http://9gag.com/gag/a2vqvne)
- - 😝 [They went to allah](http://9gag.com/gag/awy7zPx)
- - 💣 [New Zealand Women&#39;s Soccer player scores own goal 3x in 30 minutes...](http://9gag.com/gag/aW4OGL3)
- - 😝 [Most popular girl in all of pride month](http://9gag.com/gag/aD2m6rO)
- - 👉 [A gentleman shutting down a dumb reporter.](http://9gag.com/gag/aLnBzM6)<!-- MEMES:END -->
+ - 😝 [My neigbour&#39;s dog would break it](http://9gag.com/gag/aAypEYR)
+ - 😝 [Canada](http://9gag.com/gag/aVvXboP)
+ - 💣 [My friends uncle is a Gynecologist and claims he&#39;s seen some truly disgusting things](http://9gag.com/gag/aZZN1eV)
+ - 😝 [Muslims in Japan waiting to pray in mosque. No street praying like Europe](http://9gag.com/gag/an7B72o)
+ - 👉 [Most popular girl in all of pride month](http://9gag.com/gag/aD2m6rO)<!-- MEMES:END -->
 
 ---
 

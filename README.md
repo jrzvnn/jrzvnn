@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Can&#39;t wait for Summer](http://9gag.com/gag/aYQwOxv)
- - 😝 [Canada](http://9gag.com/gag/aVvXboP)
- - 💣 [Fast and furious berlin](http://9gag.com/gag/aQzngPW)
- - 😝 [9gaggers...](http://9gag.com/gag/adBpgRd)
- - 👉 [Its Alien....](http://9gag.com/gag/aVvXxr2)<!-- MEMES:END -->
+ - 😝 [Its Alien....](http://9gag.com/gag/aVvXxr2)
+ - 💣 [A gentleman shutting down a dumb reporter.](http://9gag.com/gag/aLnBzM6)
+ - 😝 [A keeper.](http://9gag.com/gag/a5QKQrg)
+ - 👉 [Got a job as a cashier, despite NOT BEING ABLE TO COUNT.](http://9gag.com/gag/an7B7nE)<!-- MEMES:END -->
 
 ---
 

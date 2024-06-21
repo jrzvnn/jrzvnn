@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify introduces a new Basic streaming plan in the US, which costs $10.99/month and includes all the benefits of Premium besides audiobook listening time &lpar;Spotify&rpar;](http://www.techmeme.com/240621/p10#a240621p10)
- - [Polyend Tracker+ Review: Powerful but Niche](https://www.wired.com/review/polyend-tracker-plus/)
- - [Squarespace agrees to sell its restaurant reservation service Tock to American Express for $400M, the exact amount that it paid for Tock in 2021 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240621/p9#a240621p9)
- - [AI-powered language-learning app Speak raised a $20M Series B extension led by Buckley, bringing its total funding to $84M and doubling its valuation to $500M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240621/p8#a240621p8)
- - [Sony Bravia 7 mini LED TV Review: A Lovely Screen From Center Stage](https://www.wired.com/review/sony-bravia-7-mini-led/)<!-- TECH:END -->
+ - [OpenAI buys Rockset, an enterprise search and analytics startup that raised $105M, integrating both the tech and staff of an acquisition for the first time &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/240621/p12#a240621p12)
+ - [Some users say Meta is tagging real photos with the Made with AI label, possibly because AI-powered tools were used to edit, rather than create, the images &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240621/p11#a240621p11)
+ - [The first iPhone game streaming service brings hundreds of licensed retro games](https://www.theverge.com/2024/6/21/24183027/antstream-emulator-apple-iphone-retro-games-ipad-streaming)
+ - [What Game of Thrones did to the media](https://www.theverge.com/24181763/game-of-thrones-journalism-media-recaps)
+ - [Apple announces new, expanded Milton Keynes store in the UK](https://appleinsider.com/articles/24/06/21/apple-announces-new-expanded-milton-keynes-store-in-the-uk?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

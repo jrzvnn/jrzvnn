@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They are nice and salty](http://9gag.com/gag/aE0z86p)
- - 😝 [Is this true ?](http://9gag.com/gag/aByryVD)
- - 💣 [Canada](http://9gag.com/gag/aVvXboP)
- - 😝 [Crushing big tick with car](http://9gag.com/gag/aAypyz9)
- - 👉 [Title](http://9gag.com/gag/a9yPqR6)<!-- MEMES:END -->
+ - 😝 [The moment of realization](http://9gag.com/gag/a2vqwp9)
+ - 😝 [F**ker died.](http://9gag.com/gag/ayNn3xq)
+ - 💣 [Title](http://9gag.com/gag/a9yPqR6)
+ - 😝 [My friends uncle is a Gynecologist and claims he&#39;s seen some truly disgusting things](http://9gag.com/gag/aZZN1eV)
+ - 👉 [Small oversight](http://9gag.com/gag/a1mY74P)<!-- MEMES:END -->
 
 ---
 

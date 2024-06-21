@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Apple Watch &lpar;2024&rpar;: Which Model Should You Buy?](https://www.wired.com/gallery/best-apple-watch/)
- - [Deep inside iOS 18&#39;s best new features and improvements on the AppleInsider Podcast](https://appleinsider.com/articles/24/06/21/deep-inside-ios-18s-best-new-features-and-improvements-on-the-appleinsider-podcast?utm_medium=rss)
- - [Mac App Store&#39;s new game sale has big discounts on major titles](https://appleinsider.com/articles/24/06/21/mac-app-stores-new-game-sale-has-big-discounts-on-major-titles?utm_medium=rss)
- - [Green Chef&#39;s Meal Kit Makes Dinner Delicious—and Organic](https://www.wired.com/review/green-chef-review/)
- - [Estonia blocks an EU VAT reform that would have imposed new liabilities on short-term rental services like Airbnb and passenger transport services like Bolt &lpar;Bloomberg&rpar;](http://www.techmeme.com/240621/p6#a240621p6)<!-- TECH:END -->
+ - [TikTok confirms it offered the US a &quot;kill switch&quot; in 2022 to shut down the app in the US at the government&#39;s discretion if TikTok did not follow certain rules &lpar;Imran Rahman-Jones/BBC&rpar;](http://www.techmeme.com/240621/p7#a240621p7)
+ - [My Memories Are Just Meta&#39;s Training Data Now](https://www.wired.com/story/my-memories-are-just-meta-training-data-now/)
+ - [Dnsys X1 Exoskeleton Review: A Great Idea In Need of Finesse](https://www.wired.com/review/review-dnsys-x1-exoskeleton/)
+ - [It&#39;s Long Past Time to Deep Clean Your Silverware. Here&#39;s How     - CNET](https://www.cnet.com/news/its-long-past-time-to-deep-clean-your-silverware-heres-how/#ftag=CAD590a51e)
+ - [Need a Project Manager? Here&#39;s How AI Can Help     - CNET](https://www.cnet.com/tech/services-and-software/need-a-project-manager-heres-how-ai-can-help/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

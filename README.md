@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Crushing big tick with car](http://9gag.com/gag/aAypyz9)
- - 😝 [The way this wooden roller coaster structure swayed. Roller coaster structures are meant to flex in order to properly absorb g-forces, as being too stationary could snap them apart](http://9gag.com/gag/amo8POv)
- - 💣 [Don\u2019t you just love the new neighbors?](http://9gag.com/gag/avyL58M)
- - 😝 [It got personal for him](http://9gag.com/gag/a9yP6Aj)
- - 👉 [Rafah before and after](http://9gag.com/gag/a2vqv1e)<!-- MEMES:END -->
+ - 😝 [A truck driver&#39;s happiness when trains respond when he honks](http://9gag.com/gag/amo8Wzv)
+ - 😝 [A little story](http://9gag.com/gag/a0eYe7X)
+ - 💣 [Satisfying hoof trimming](http://9gag.com/gag/aPAGxQQ)
+ - 😝 [Euro 2024: Dutch supporters disguised as Ruud Gullit accused of \u201cblackface\u201d and \u201cracism\u201d by leftists, the ex-player himself responds by saying he is \u201chonored\u201d](http://9gag.com/gag/a1mY7zY)
+ - 👉 [Donald Sutherland passed away at age 88.](http://9gag.com/gag/aKGB1OW)<!-- MEMES:END -->
 
 ---
 

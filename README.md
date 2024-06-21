@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is this true ?](http://9gag.com/gag/aByryVD)
- - 😝 [9gaggers...](http://9gag.com/gag/adBpgRd)
+ - 😝 [Can&#39;t wait for Summer](http://9gag.com/gag/aYQwOxv)
+ - 😝 [Canada](http://9gag.com/gag/aVvXboP)
  - 💣 [Fast and furious berlin](http://9gag.com/gag/aQzngPW)
- - 😝 [Meme dump 20 : Rage Comic edition](http://9gag.com/gag/aXPXNgv)
- - 👉 [Canada](http://9gag.com/gag/aVvXboP)<!-- MEMES:END -->
+ - 😝 [9gaggers...](http://9gag.com/gag/adBpgRd)
+ - 👉 [Its Alien....](http://9gag.com/gag/aVvXxr2)<!-- MEMES:END -->
 
 ---
 

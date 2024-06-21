@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A keeper.](http://9gag.com/gag/a5QKQrg)
  - 😝 [This is fully congruent with pride tbh...](http://9gag.com/gag/a4PLNRp)
- - 💣 [Got a job as a cashier, despite NOT BEING ABLE TO COUNT.](http://9gag.com/gag/an7B7nE)
- - 😝 [Kathleen Kennedy AKA The World Destroyer](http://9gag.com/gag/aYQwDdV)
- - 👉 [What really happened](http://9gag.com/gag/ajPnOxq)<!-- MEMES:END -->
+ - 😝 [A gentleman shutting down a dumb reporter.](http://9gag.com/gag/aLnBzM6)
+ - 💣 [Relationship &amp; Dating](http://9gag.com/gag/azxVxYK)
+ - 😝 [When the Injury is so bad that everyone felt it...](http://9gag.com/gag/aKGB9g3)
+ - 👉 [A keeper.](http://9gag.com/gag/a5QKQrg)<!-- MEMES:END -->
 
 ---
 

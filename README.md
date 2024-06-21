@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Polyend Tracker+ Review: Powerful but Niche](https://www.wired.com/review/polyend-tracker-plus/)
  - [Squarespace agrees to sell its restaurant reservation service Tock to American Express for $400M, the exact amount that it paid for Tock in 2021 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240621/p9#a240621p9)
  - [AI-powered language-learning app Speak raised a $20M Series B extension led by Buckley, bringing its total funding to $84M and doubling its valuation to $500M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240621/p8#a240621p8)
  - [Sony Bravia 7 mini LED TV Review: A Lovely Screen From Center Stage](https://www.wired.com/review/sony-bravia-7-mini-led/)
- - [There&#39;s Not Long Left to Get Massive Savings on This Handy Bissell Deluxe Pet Cleaner     - CNET](https://www.cnet.com/deals/theres-not-long-left-to-get-massive-savings-on-this-handy-bissell-deluxe-pet-cleaner/#ftag=CAD590a51e)
- - [Eager for iOS 18? What You Should Know Before Downloading the Beta Version     - CNET](https://www.cnet.com/tech/services-and-software/eager-for-ios-18-what-you-should-know-before-downloading-the-beta-version/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [There&#39;s Not Long Left to Get Massive Savings on This Handy Bissell Deluxe Pet Cleaner     - CNET](https://www.cnet.com/deals/theres-not-long-left-to-get-massive-savings-on-this-handy-bissell-deluxe-pet-cleaner/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

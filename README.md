@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Australia&#39;s eSafety Commissioner waters down child abuse and terror content detection rules on E2E encrypted services, after a push back from tech companies &lpar;Josh Taylor/The Guardian&rpar;](http://www.techmeme.com/240621/p1#a240621p1)
  - [How to run Xbox 360 games on macOS Sequoia](https://appleinsider.com/inside/macos-sequoia/tips/how-to-run-xbox-360-games-on-macos-sequoia?utm_medium=rss)
- - [The Best Pixar Movies Ranked, From &#39;Inside Out 2&#39; to &#39;Toy Story&#39;     - CNET](https://www.cnet.com/tech/services-and-software/the-best-pixar-movies-ranked-from-inside-out-2-to-toy-story/#ftag=CAD590a51e)
- - [Why Your Home&#39;s Energy System Efficiency Isn&#39;t 100%     - CNET](https://www.cnet.com/home/energy-and-utilities/why-your-homes-energy-system-isnt-100-efficient/#ftag=CAD590a51e)
- - [In a filing, ByteDance urged a US court to strike down a law that could ban TikTok in the US, recounting lengthy talks that it says the US ended in August 2022 &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/240620/p34#a240620p34)
- - [Best Apple TV Deals: Discounted Streaming Boxes and Accessories     - CNET](https://www.cnet.com/deals/best-apple-tv-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for June 21, #110     - CNET](https://www.cnet.com/tech/gaming/todays-nyt-strands-hint-answer-help/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for June 21, #376     - CNET](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-help-for-june-21-376/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for June 21, #1098     - CNET](https://www.cnet.com/tech/gaming/todays-wordle-hints-and-answer-help-for-june-21-1098/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

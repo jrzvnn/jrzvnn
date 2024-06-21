@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Most popular girl in all of pride month](http://9gag.com/gag/aD2m6rO)
- - 😝 [Lmao](http://9gag.com/gag/aLnBe1g)
- - 💣 [Euro 2024 anthem &lpar;you know the song&rpar; - 20 June 2024](http://9gag.com/gag/aW4OL24)
- - 😝 [What really happened](http://9gag.com/gag/ajPnOxq)
- - 👉 [It ain&#39;t much but my wife made it. Please be brutal](http://9gag.com/gag/aByrZEZ)<!-- MEMES:END -->
+ - 😝 [A keeper.](http://9gag.com/gag/a5QKQrg)
+ - 😝 [This is fully congruent with pride tbh...](http://9gag.com/gag/a4PLNRp)
+ - 💣 [Got a job as a cashier, despite NOT BEING ABLE TO COUNT.](http://9gag.com/gag/an7B7nE)
+ - 😝 [Kathleen Kennedy AKA The World Destroyer](http://9gag.com/gag/aYQwDdV)
+ - 👉 [What really happened](http://9gag.com/gag/ajPnOxq)<!-- MEMES:END -->
 
 ---
 

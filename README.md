@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rafah before and after](http://9gag.com/gag/a2vqv1e)
- - 😝 [She loves me](http://9gag.com/gag/aByrnKA)
- - 💣 [Hell of a first job&#39;s day](http://9gag.com/gag/an7BgY0)
- - 😝 [Imagine looking after your body and eating extremely clean in order to compete in a beauty pageant and then lose to THAT. My heart aches for the other participants. The US is cooked.](http://9gag.com/gag/aKGB6A1)
- - 👉 [Is this true ?](http://9gag.com/gag/aByryVD)<!-- MEMES:END -->
+ - 😝 [A gentleman shutting down a dumb reporter.](http://9gag.com/gag/aLnBzM6)
+ - 😝 [True love...](http://9gag.com/gag/a0eY4ZQ)
+ - 💣 [A woman&#39;s worth....](http://9gag.com/gag/aGyRz26)
+ - 😝 [It\u2019s his Stand power](http://9gag.com/gag/aAypyYd)
+ - 👉 [French couple that stole artifacts in Indonesia is facing jail time](http://9gag.com/gag/adBpBRV)<!-- MEMES:END -->
 
 ---
 

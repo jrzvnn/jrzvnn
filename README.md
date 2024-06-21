@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Stability AI hired ex- CEO of Weta Digital Prem Akkaraju as new CEO; Akkaraju and Sean Parker are among investors that have stepped in to save Stability &lpar;The Information&rpar;](http://www.techmeme.com/240621/p23#a240621p23)
+ - [X plans to make the ability to create live streams a premium feature, making it the only major social platform to charge for the feature &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/240621/p22#a240621p22)
+ - [How to manage deleted files on Windows and Android](https://www.theverge.com/24183303/windows-android-deleted-files-how-to)
  - [Retro game streamer Antstream plans to launch on the App Store with 1,300 titles, the first such launch after Apple allowed game streaming services on iPhone &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/240621/p21#a240621p21)
- - [Yes, You Should Deep Clean Your Silverware. Here&#39;s How     - CNET](https://www.cnet.com/news/yes-you-should-deep-clean-your-silverware-heres-how/#ftag=CAD590a51e)
- - [Best Apple Cider Vinegar Drinks     - CNET](https://www.cnet.com/news/best-apple-cider-vinegar-drinks/#ftag=CAD590a51e)
- - [Battery Dead? Here&#39;s How to Get Out of a Locked Tesla     - CNET](https://www.cnet.com/roadshow/news/battery-dead-heres-how-to-get-out-of-a-locked-tesla/#ftag=CAD590a51e)
- - [Change Healthcare says the February ransomware attack on its systems resulted in the theft of medical records of a &quot;substantial proportion of people&quot; in the US &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240621/p20#a240621p20)<!-- TECH:END -->
+ - [Yes, You Should Deep Clean Your Silverware. Here&#39;s How     - CNET](https://www.cnet.com/news/yes-you-should-deep-clean-your-silverware-heres-how/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

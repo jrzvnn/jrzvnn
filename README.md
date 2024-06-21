@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A woman&#39;s worth....](http://9gag.com/gag/aGyRz26)
- - 😝 [Spit on that thang](http://9gag.com/gag/a1mYr5G)
- - 💣 [Woman starting to be racist...sigh](http://9gag.com/gag/ajPn7W0)
- - 😝 [Crushing big tick with car](http://9gag.com/gag/aAypyz9)
- - 👉 [Don\u2019t you just love the new neighbors?](http://9gag.com/gag/avyL58M)<!-- MEMES:END -->
+ - 😝 [This is a built-in calculator on iOS 18 &lpar;beta&rpar;](http://9gag.com/gag/agmNg8r)
+ - 😝 [Canada](http://9gag.com/gag/aVvXboP)
+ - 💣 [She loves me](http://9gag.com/gag/aByrnKA)
+ - 😝 [Muslims in Japan waiting to pray in mosque. No street praying like Europe](http://9gag.com/gag/an7B72o)
+ - 👉 [It ain&#39;t much but my wife made it. Please be brutal](http://9gag.com/gag/aByrZEZ)<!-- MEMES:END -->
 
 ---
 

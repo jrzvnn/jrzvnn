@@ -159,8 +159,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Perplexity Plagiarized Our Story About How Perplexity Is a Bullshit Machine](https://www.wired.com/story/perplexity-plagiarized-our-story-about-how-perplexity-is-a-bullshit-machine/)
  - [Apple Intelligence &amp; iPhone mirroring aren&#39;t coming to EU because of the DMA](https://appleinsider.com/articles/24/06/21/apple-intelligence-iphone-mirroring-arent-coming-to-eu-because-of-the-dma?utm_medium=rss)
+ - [Perplexity Plagiarized Our Story About How Perplexity Is a Bullshit Machine](https://www.wired.com/story/perplexity-plagiarized-our-story-about-how-perplexity-is-a-bullshit-machine/)
  - [OpenAI’s first acquisition is an enterprise data startup](https://www.theverge.com/2024/6/21/24183216/openai-rockset-acquisition-enterprise-data-startup)
  - [TikTok is looking more and more like Yelp](https://www.theverge.com/2024/6/21/24183085/tiktok-location-page-categories-travel-recommendations)
  - [Sources: Sony is making deep cuts to funding for VR games, with only two PSVR 2 games in development; Sony released just three PSVR 2 games last year &lpar;Nicholas Sutrich/Android Central&rpar;](http://www.techmeme.com/240621/p18#a240621p18)<!-- TECH:END -->

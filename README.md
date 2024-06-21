@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The DOJ has convicted five men for running a Netflix clone full of pirated TV shows](https://www.theverge.com/2024/6/21/24183100/jetflicks-conviction-netflix-clone-doj-piracy)
  - [Elon Musk has another secret child with exec at his brain implant company](https://www.theverge.com/2024/6/21/24183083/elon-musk-secret-child-shivon-zilis-exec-neuralink)
  - [7 Best Mechanical Keyboards &lpar;2024&rpar;: Tested and Reviewed](https://www.wired.com/gallery/best-mechanical-keyboards/)
  - [Tidal is revamping its lossless and immersive audio formats](https://www.theverge.com/2024/6/21/24183037/tidal-mqa-flac-dolby-atmos-spatial-audio)
- - [You can save hundreds on Samsung’s last-gen The Frame TV](https://www.theverge.com/2024/6/21/24182398/woot-samsung-the-frame-tv-polaroid-go-deal-sale)
- - [OpenAI buys Rockset, an enterprise search and analytics startup that raised $105M, integrating both the tech and staff of an acquisition for the first time &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/240621/p12#a240621p12)<!-- TECH:END -->
+ - [You can save hundreds on Samsung’s last-gen The Frame TV](https://www.theverge.com/2024/6/21/24182398/woot-samsung-the-frame-tv-polaroid-go-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

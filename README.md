@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [There&#39;s a new classic arcade game streaming service coming to iPhone](https://appleinsider.com/articles/24/06/21/theres-a-new-classic-arcade-game-streaming-service-coming-to-iphone?utm_medium=rss)
+ - [The US Department of the Treasury announces sanctions against twelve executives of Kaspersky; founder and CEO Eugene Kaspersky is not included in the sanctions &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240621/p14#a240621p14)
+ - [Spotify’s $10.99 ‘Basic’ plan drops the audiobooks](https://www.theverge.com/2024/6/21/24183161/spotify-basic-plan-drops-audiobooks)
  - [Google pauses plans to allow real-money games on the Play Store, as supporting such apps in markets without a central licensing framework proves difficult &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240621/p13#a240621p13)
- - [The DOJ has convicted five men for running a Netflix clone full of pirated TV shows](https://www.theverge.com/2024/6/21/24183100/jetflicks-conviction-netflix-clone-doj-piracy)
- - [Elon Musk has another secret child with exec at his brain implant company](https://www.theverge.com/2024/6/21/24183083/elon-musk-secret-child-shivon-zilis-exec-neuralink)
- - [7 Best Mechanical Keyboards &lpar;2024&rpar;: Tested and Reviewed](https://www.wired.com/gallery/best-mechanical-keyboards/)
- - [Tidal is revamping its lossless and immersive audio formats](https://www.theverge.com/2024/6/21/24183037/tidal-mqa-flac-dolby-atmos-spatial-audio)<!-- TECH:END -->
+ - [The DOJ has convicted five men for running a Netflix clone full of pirated TV shows](https://www.theverge.com/2024/6/21/24183100/jetflicks-conviction-netflix-clone-doj-piracy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

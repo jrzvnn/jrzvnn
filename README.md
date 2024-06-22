@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wholesome](http://9gag.com/gag/aD2mVjw)
- - 😝 [What really happened](http://9gag.com/gag/ajPnOxq)
- - 💣 [This is fully congruent with pride tbh...](http://9gag.com/gag/a4PLNRp)
- - 😝 [She knows](http://9gag.com/gag/ae9pO0W)
- - 👉 [Maybe he&#39;s got three hands](http://9gag.com/gag/a34LANr)<!-- MEMES:END -->
+ - 😝 [Hate man spreading](http://9gag.com/gag/a5QKw4O)
+ - 😝 [When you enter enemy camp but you have max charisma](http://9gag.com/gag/azxVGvK)
+ - 💣 [Will she choose the man or the bear?](http://9gag.com/gag/a4PL6rA)
+ - 😝 [Nice](http://9gag.com/gag/apRBxPE)
+ - 👉 [Wholesome](http://9gag.com/gag/aD2mVjw)<!-- MEMES:END -->
 
 ---
 

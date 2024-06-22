@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is fully congruent with pride tbh...](http://9gag.com/gag/a4PLNRp)
- - 😝 [Got a job as a cashier, despite NOT BEING ABLE TO COUNT.](http://9gag.com/gag/an7B7nE)
- - 💣 [A keeper.](http://9gag.com/gag/a5QKQrg)
- - 😝 [When the Injury is so bad that everyone felt it...](http://9gag.com/gag/aKGB9g3)
- - 👉 [Dodge a bullet](http://9gag.com/gag/a9yPvnZ)<!-- MEMES:END -->
+ - 😝 [Maybe he&#39;s got three hands](http://9gag.com/gag/a34LANr)
+ - 😝 [French couple that stole artifacts in Indonesia is facing jail time](http://9gag.com/gag/adBpBRV)
+ - 💣 [Dodge a bullet](http://9gag.com/gag/a9yPvnZ)
+ - 😝 [I can confirm this...](http://9gag.com/gag/aoyj3Zg)
+ - 👉 [When the Injury is so bad that everyone felt it...](http://9gag.com/gag/aKGB9g3)<!-- MEMES:END -->
 
 ---
 

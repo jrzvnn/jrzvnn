@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In response to plagiarism allegations, Perplexity CEO Aravind Srinivas says the company &quot;is not ignoring&quot; robots.txt, but does rely on third-party web crawlers &lpar;Mark Sullivan/Fast Company&rpar;](http://www.techmeme.com/240621/p29#a240621p29)
  - [A history of text games and interactive fiction, from Infocom to 80 Days, and the roles of MUDs, Usenet, and open source in the 50 years of interactive fiction &lpar;Anna Washenko/Ars Technica&rpar;](http://www.techmeme.com/240621/p28#a240621p28)
  - [Fortnite OG Returns With Reload Mode Featuring Tilted Towers     - CNET](https://www.cnet.com/tech/gaming/fortnite-og-returns-with-reload-mode-featuring-tilted-towers/#ftag=CAD590a51e)
  - [Starlink Internet Review: Is It Worth the Cost?     - CNET](https://www.cnet.com/home/internet/starlink-internet-review/#ftag=CAD590a51e)
- - [Best Antivirus Software for 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-antivirus/#ftag=CAD590a51e)
- - [Best Cheap Gaming Laptop of 2024     - CNET](https://www.cnet.com/tech/computing/best-cheap-gaming-laptop/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Antivirus Software for 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-antivirus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [For export to USA Sir do not redeem](http://9gag.com/gag/ayNnq9r)
+ - 😝 [What really happened](http://9gag.com/gag/ajPnOxq)
  - 😝 [When you enter enemy camp but you have max charisma](http://9gag.com/gag/azxVGvK)
- - 💣 [This is fully congruent with pride tbh...](http://9gag.com/gag/a4PLNRp)
- - 😝 [Kathleen Kennedy AKA The World Destroyer](http://9gag.com/gag/aYQwDdV)
+ - 💣 [When the Injury is so bad that everyone felt it...](http://9gag.com/gag/aKGB9g3)
+ - 😝 [This is fully congruent with pride tbh...](http://9gag.com/gag/a4PLNRp)
  - 👉 [Yooo they found her](http://9gag.com/gag/aMVQB9R)<!-- MEMES:END -->
 
 ---

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is fully congruent with pride tbh...](http://9gag.com/gag/a4PLNRp)
- - 😝 [A gentleman shutting down a dumb reporter.](http://9gag.com/gag/aLnBzM6)
- - 💣 [Will she choose the man or the bear?](http://9gag.com/gag/a4PL6rA)
- - 😝 [Got a job as a cashier, despite NOT BEING ABLE TO COUNT.](http://9gag.com/gag/an7B7nE)
- - 👉 [Maybe he&#39;s got three hands](http://9gag.com/gag/a34LANr)<!-- MEMES:END -->
+ - 😝 [Bro sacrificed himself for a quality meme.](http://9gag.com/gag/a7obqgq)
+ - 😝 [Stop oil protestors targeted Taylor swift private jet](http://9gag.com/gag/a2vqvne)
+ - 💣 [Got a job as a cashier, despite NOT BEING ABLE TO COUNT.](http://9gag.com/gag/an7B7nE)
+ - 😝 [We&#39;re not the same](http://9gag.com/gag/axyGy0p)
+ - 👉 [Dodge a bullet](http://9gag.com/gag/a9yPvnZ)<!-- MEMES:END -->
 
 ---
 

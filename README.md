@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Go Netherlands! You are Europe&#39;s hope!](http://9gag.com/gag/a87jD4p)
- - 😝 [Ssival](http://9gag.com/gag/a87jeee)
- - 💣 [This is fully congruent with pride tbh...](http://9gag.com/gag/a4PLNRp)
- - 😝 [Oops!](http://9gag.com/gag/awy7L6r)
- - 👉 [They told their wives they&#39;re going outside with the kids.](http://9gag.com/gag/aoyjxZg)<!-- MEMES:END -->
+ - 😝 [A woman stands in a narrow cell with her arms strapped to the wall,circa 1890. She is undergoing treatment for mental illness in 19th century Germany.](http://9gag.com/gag/aXPXM2P)
+ - 😝 [This is fully congruent with pride tbh...](http://9gag.com/gag/a4PLNRp)
+ - 💣 [When the Injury is so bad that everyone felt it...](http://9gag.com/gag/aKGB9g3)
+ - 😝 [Maybe he&#39;s got three hands](http://9gag.com/gag/a34LANr)
+ - 👉 [It\u2019s whippin\u2019 time!](http://9gag.com/gag/aE0zAOK)<!-- MEMES:END -->
 
 ---
 

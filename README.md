@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Court filings show how Zuckerberg and other Meta execs played down risks to young users, while rejecting staff pleas to bolster guardrails and hire more staff &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/240622/p7#a240622p7)
  - [Q&amp;A with AMD executive Forrest Norrod on increasing AI investments, releasing accelerator chips at a faster cadence, AMD&#39;s open standards approach, and more &lpar;Dylan Martin/CRN&rpar;](http://www.techmeme.com/240622/p6#a240622p6)
  - [Best Internet Providers in Chesapeake, Virginia     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-chesapeake-va/#ftag=CAD590a51e)
  - [Eager for iOS 18? What You Should Know Before Downloading the Beta Version     - CNET](https://www.cnet.com/tech/services-and-software/eager-for-ios-18-what-you-should-know-before-downloading-the-beta-version/#ftag=CAD590a51e)
- - [Analysis: the AI frenzy is expected to drive the global data center energy consumption to 1,580 TWh by 2034, about as much as is used by all of India currently &lpar;Bloomberg&rpar;](http://www.techmeme.com/240622/p5#a240622p5)
- - [As power needs of AI push emissions up, tech companies explore experimental clean energy projects such as atomic fusion and futuristic geothermal power plants &lpar;Washington Post&rpar;](http://www.techmeme.com/240622/p4#a240622p4)<!-- TECH:END -->
+ - [Analysis: the AI frenzy is expected to drive the global data center energy consumption to 1,580 TWh by 2034, about as much as is used by all of India currently &lpar;Bloomberg&rpar;](http://www.techmeme.com/240622/p5#a240622p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

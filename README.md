@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is fully congruent with pride tbh...](http://9gag.com/gag/a4PLNRp)
- - 😝 [Got a job as a cashier, despite NOT BEING ABLE TO COUNT.](http://9gag.com/gag/an7B7nE)
- - 💣 [What really happened](http://9gag.com/gag/ajPnOxq)
- - 😝 [Will she choose the man or the bear?](http://9gag.com/gag/a4PL6rA)
+ - 😝 [Can&#39;t wait for Summer](http://9gag.com/gag/aYQwOxv)
+ - 😝 [What really happened](http://9gag.com/gag/ajPnOxq)
+ - 💣 [Will she choose the man or the bear?](http://9gag.com/gag/a4PL6rA)
+ - 😝 [Dodge a bullet](http://9gag.com/gag/a9yPvnZ)
  - 👉 [Maybe he&#39;s got three hands](http://9gag.com/gag/a34LANr)<!-- MEMES:END -->
 
 ---

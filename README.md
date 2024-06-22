@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Crushing big tick with car](http://9gag.com/gag/aAypyz9)
- - 😝 [This is fully congruent with pride tbh...](http://9gag.com/gag/a4PLNRp)
- - 💣 [When you enter enemy camp but you have max charisma](http://9gag.com/gag/azxVGvK)
- - 😝 [Dodge a bullet](http://9gag.com/gag/a9yPvnZ)
- - 👉 [Maybe he&#39;s got three hands](http://9gag.com/gag/a34LANr)<!-- MEMES:END -->
+ - 😝 [For export to USA Sir do not redeem](http://9gag.com/gag/ayNnq9r)
+ - 😝 [When you enter enemy camp but you have max charisma](http://9gag.com/gag/azxVGvK)
+ - 💣 [This is fully congruent with pride tbh...](http://9gag.com/gag/a4PLNRp)
+ - 😝 [Kathleen Kennedy AKA The World Destroyer](http://9gag.com/gag/aYQwDdV)
+ - 👉 [Yooo they found her](http://9gag.com/gag/aMVQB9R)<!-- MEMES:END -->
 
 ---
 

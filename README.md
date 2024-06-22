@@ -172,7 +172,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Ssival](http://9gag.com/gag/a87jeee)
  - 💣 [This is fully congruent with pride tbh...](http://9gag.com/gag/a4PLNRp)
  - 😝 [Oops!](http://9gag.com/gag/awy7L6r)
- - 👉 [Result speaks for itself](http://9gag.com/gag/a5QKzLg)<!-- MEMES:END -->
+ - 👉 [They told their wives they&#39;re going outside with the kids.](http://9gag.com/gag/aoyjxZg)<!-- MEMES:END -->
 
 ---
 

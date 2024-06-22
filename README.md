@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What really happened](http://9gag.com/gag/ajPnOxq)
- - 😝 [It\u2019s whippin\u2019 time!](http://9gag.com/gag/aE0zAOK)
- - 💣 [Is this true ?](http://9gag.com/gag/aByryVD)
- - 😝 [Most popular girl in all of pride month](http://9gag.com/gag/aD2m6rO)
- - 👉 [`Breakfast from 5 am till 7 am`](http://9gag.com/gag/abAb4Zv)<!-- MEMES:END -->
+ - 😝 [Yooo they found her](http://9gag.com/gag/aMVQB9R)
+ - 😝 [Facts](http://9gag.com/gag/a34LG1r)
+ - 💣 [What kind of sorcery is this](http://9gag.com/gag/azxVPXj)
+ - 😝 [Will she choose the man or the bear?](http://9gag.com/gag/a4PL6rA)
+ - 👉 [I was too young to understand how epic this moment was](http://9gag.com/gag/aMVQV6X)<!-- MEMES:END -->
 
 ---
 

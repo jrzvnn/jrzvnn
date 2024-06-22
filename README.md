@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dodge a bullet](http://9gag.com/gag/a9yPvnZ)
- - 😝 [Fast and furious berlin](http://9gag.com/gag/aQzngPW)
- - 💣 [What really happened](http://9gag.com/gag/ajPnOxq)
+ - 😝 [Maybe he&#39;s got three hands](http://9gag.com/gag/a34LANr)
+ - 😝 [When you enter enemy camp but you have max charisma](http://9gag.com/gag/azxVGvK)
+ - 💣 [This is fully congruent with pride tbh...](http://9gag.com/gag/a4PLNRp)
  - 😝 [Will she choose the man or the bear?](http://9gag.com/gag/a4PL6rA)
- - 👉 [This is fully congruent with pride tbh...](http://9gag.com/gag/a4PLNRp)<!-- MEMES:END -->
+ - 👉 [Kathleen Kennedy AKA The World Destroyer](http://9gag.com/gag/aYQwDdV)<!-- MEMES:END -->
 
 ---
 

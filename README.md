@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Even Elden Ring’s game director knows Erdtree is too hard](https://www.theverge.com/24183692/hidetaka-miyazaki-interview-shadow-of-the-erdtree-difficulty)
- - [How the Internet Archive plans to defend its digital lending practices as it appeals a US court&#39;s 2023 ruling; IA says it was forced to remove over 500K books &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/240622/p9#a240622p9)
- - [My 3D Printer Is Making My Swimming Pool Cleaner Than Ever     - CNET](https://www.cnet.com/news/a-3d-printer-is-making-my-swimming-pool-cleaner-than-ever/#ftag=CAD590a51e)
- - [The 3 Best Workouts for Weight Loss, and Why They Work     - CNET](https://www.cnet.com/health/fitness/best-workouts-for-weight-loss/#ftag=CAD590a51e)
- - [6 Expert-Approved Foods That Will Help You Hack Your Hydration During the Heat Wave     - CNET](https://www.cnet.com/health/nutrition/6-expert-approved-foods-that-will-help-you-hack-your-hydration-during-the-heat-wave/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at Switzerland&#39;s push to lead the global race to tokenize assets, as officials try to change perceptions around its diminished banking industry &lpar;Bloomberg&rpar;](http://www.techmeme.com/240622/p10#a240622p10)
+ - [Social Security Payment June 2024: When Is Your Money Coming?     - CNET](https://www.cnet.com/personal-finance/social-security-payment-june-2024-when-is-your-money-coming/#ftag=CAD590a51e)
+ - [8 Ways to Keep Your Kitchen Cool During a Heatwave     - CNET](https://www.cnet.com/home/smart-home/8-ways-to-keep-your-kitchen-cool-during-a-heatwave/#ftag=CAD590a51e)
+ - [How to Watch Euro 2024: Turkey vs. Portugal Livestream Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-euro-2024-turkey-vs-portugal-livestream-soccer-from-anywhere/#ftag=CAD590a51e)
+ - [Leesa Reserve vs Tempur-Pedic: Which Memory Foam Bed Is Best for You? video     - CNET](https://www.cnet.com/videos/leesa-reserve-vs-tempur-pedic-which-memory-foam-bed-is-best-for-you/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

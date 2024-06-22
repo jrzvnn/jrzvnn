@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Even Elden Ring’s game director knows Erdtree is too hard](https://www.theverge.com/24183692/hidetaka-miyazaki-interview-shadow-of-the-erdtree-difficulty)
  - [How the Internet Archive plans to defend its digital lending practices as it appeals a US court&#39;s 2023 ruling; IA says it was forced to remove over 500K books &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/240622/p9#a240622p9)
  - [These Are the Best Laptop Backpacks We&#39;ve Tried and Tested](https://www.wired.com/gallery/the-best-backpacks-for-work/)
  - [Walmart Plus Week Ends Tomorrow: 45 of the Hottest Deals Left     - CNET](https://www.cnet.com/deals/best-walmart-plus-week-deals/#ftag=CAD590a51e)
- - [This Apple AirTag 4-Pack Is Discounted for a Limited Time Thanks to Walmart Plus Week     - CNET](https://www.cnet.com/deals/this-apple-airtag-4-pack-is-discounted-for-a-limited-time-thanks-to-walmart-plus-week/#ftag=CAD590a51e)
- - [Walmart Week Plus Reduces Roku 4K Streaming Stick to Just $39 for the Next 24 Hours     - CNET](https://www.cnet.com/deals/walmart-week-plus-reduces-roku-4k-streaming-stick-to-just-39-for-the-next-24-hours/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This Apple AirTag 4-Pack Is Discounted for a Limited Time Thanks to Walmart Plus Week     - CNET](https://www.cnet.com/deals/this-apple-airtag-4-pack-is-discounted-for-a-limited-time-thanks-to-walmart-plus-week/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

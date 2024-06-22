@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Muslims in Japan waiting to pray in mosque. No street praying like Europe](http://9gag.com/gag/an7B72o)
- - 😝 [Woman starting to be racist...sigh](http://9gag.com/gag/ajPn7W0)
- - 💣 [Accident](http://9gag.com/gag/an7BO2q)
- - 😝 [This is fully congruent with pride tbh...](http://9gag.com/gag/a4PLNRp)
- - 👉 [Yooo they found her](http://9gag.com/gag/aMVQB9R)<!-- MEMES:END -->
+ - 😝 [Is this true ?](http://9gag.com/gag/aByryVD)
+ - 😝 [Lmao](http://9gag.com/gag/aLnBe1g)
+ - 💣 [It ain&#39;t much but my wife made it. Please be brutal](http://9gag.com/gag/aByrZEZ)
+ - 😝 [Hells kitchen](http://9gag.com/gag/an7B2Lq)
+ - 👉 [It\u2019s whippin\u2019 time!](http://9gag.com/gag/aE0zAOK)<!-- MEMES:END -->
 
 ---
 

@@ -161,9 +161,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [How the Internet Archive plans to defend its digital lending practices as it appeals a US court&#39;s 2023 ruling; IA says it was forced to remove over 500K books &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/240622/p9#a240622p9)
  - [These Are the Best Laptop Backpacks We&#39;ve Tried and Tested](https://www.wired.com/gallery/the-best-backpacks-for-work/)
- - [How Embracer&#39;s layoffs and project cancellations gutted Fishlabs, a promising studio that now lives on as a cross-dev team supporting other Embracer companies &lpar;Edwin Evans-Thirlwell/Rock, Paper ...&rpar;](http://www.techmeme.com/240622/p8#a240622p8)
- - [Jabra Enhance Select 500 Review: Excellent Hearing Aids](https://www.wired.com/review/jabra-enhance-select-500/)
- - [Inside Netflix’s bet on advanced video encoding](https://www.theverge.com/2024/6/22/24171581/netflix-bet-advanced-encoding-anne-aaron)<!-- TECH:END -->
+ - [Walmart Plus Week Ends Tomorrow: 45 of the Hottest Deals Left     - CNET](https://www.cnet.com/deals/best-walmart-plus-week-deals/#ftag=CAD590a51e)
+ - [This Apple AirTag 4-Pack Is Discounted for a Limited Time Thanks to Walmart Plus Week     - CNET](https://www.cnet.com/deals/this-apple-airtag-4-pack-is-discounted-for-a-limited-time-thanks-to-walmart-plus-week/#ftag=CAD590a51e)
+ - [Walmart Week Plus Reduces Roku 4K Streaming Stick to Just $39 for the Next 24 Hours     - CNET](https://www.cnet.com/deals/walmart-week-plus-reduces-roku-4k-streaming-stick-to-just-39-for-the-next-24-hours/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

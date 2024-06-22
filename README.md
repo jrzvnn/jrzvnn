@@ -163,7 +163,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [The 46 Best Movies on Netflix Right Now &lpar;June 2024&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
  - [The 49 Best Shows on Netflix Right Now &lpar;June 2024&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
  - [A Catastrophic Hospital Hack Ends in a Leak of 300M Patient Records](https://www.wired.com/story/hospital-hack-300-million-patient-records-leaked/)
- - [Court filings show how Zuckerberg and other Meta execs played down risks to young users, while rejecting staff pleas to bolster guardrails and hire more staff &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/240622/p7#a240622p7)<!-- TECH:END -->
+ - [Social Security 2024: Maximum Amount of Money You Can Get Each Month     - CNET](https://www.cnet.com/personal-finance/social-security-2024-maximum-amount-of-money-you-can-get-each-month/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

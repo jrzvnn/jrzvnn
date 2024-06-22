@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Interviews with several journalists who helped saturate the web with Game of Thrones coverage, leveraging fans&#39; obsessions for traffic via SEO and social media &lpar;Kevin Nguyen/The Verge&rpar;](http://www.techmeme.com/240622/p14#a240622p14)
  - [Best Soda Makers to Buy in 2024     - CNET](https://www.cnet.com/news/best-soda-water-maker/#ftag=CAD590a51e)
  - [Best Hybrid Mattresses for 2024: Save Up to 50% on DreamCloud, Saatva and More     - CNET](https://www.cnet.com/health/sleep/best-hybrid-mattresses/#ftag=CAD590a51e)
  - [Nectar Premier Copper Mattress Review 2024: A Step Above the Brand’s Flagship Bed     - CNET](https://www.cnet.com/health/sleep/nectar-premier-copper-mattress-review/#ftag=CAD590a51e)
- - [How Sweden&#39;s push to go cashless has left consumers and the country vulnerable to online fraud; value of fraudulent transactions has doubled since 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240622/p13#a240622p13)
- - [10 Sunscreen Myths to Stop Believing This Summer     - CNET](https://www.cnet.com/health/personal-care/10-sunscreen-myths-to-stop-believing-this-summer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How Sweden&#39;s push to go cashless has left consumers and the country vulnerable to online fraud; value of fraudulent transactions has doubled since 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240622/p13#a240622p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

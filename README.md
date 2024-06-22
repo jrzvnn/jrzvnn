@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Most popular girl in all of pride month](http://9gag.com/gag/aD2m6rO)
- - 😝 [The moment of realization](http://9gag.com/gag/a2vqwp9)
- - 💣 [It\u2019s whippin\u2019 time!](http://9gag.com/gag/aE0zAOK)
- - 😝 [What really happened](http://9gag.com/gag/ajPnOxq)
- - 👉 [Is this true ?](http://9gag.com/gag/aByryVD)<!-- MEMES:END -->
+ - 😝 [`Breakfast from 5 am till 7 am`](http://9gag.com/gag/abAb4Zv)
+ - 😝 [It ain&#39;t much but my wife made it. Please be brutal](http://9gag.com/gag/aByrZEZ)
+ - 💣 [Disney: \u201cThere\u2019s no way we\u2019re hiring a white male.\u201d](http://9gag.com/gag/a4PLzed)
+ - 😝 [Dutch football supporters on their way to the stadium in Leipzig, Germany.](http://9gag.com/gag/abAb41X)
+ - 👉 [Hells kitchen](http://9gag.com/gag/an7B2Lq)<!-- MEMES:END -->
 
 ---
 

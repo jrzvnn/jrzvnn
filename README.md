@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [When you enter enemy camp but you have max charisma](http://9gag.com/gag/azxVGvK)
- - 😝 [God, just do 5 minutes of basic research](http://9gag.com/gag/ayNn638)
- - 💣 [This is fully congruent with pride tbh...](http://9gag.com/gag/a4PLNRp)
- - 😝 [Dodge a bullet](http://9gag.com/gag/a9yPvnZ)
- - 👉 [Maybe he&#39;s got three hands](http://9gag.com/gag/a34LANr)<!-- MEMES:END -->
+ - 😝 [What really happened](http://9gag.com/gag/ajPnOxq)
+ - 💣 [Dodge a bullet](http://9gag.com/gag/a9yPvnZ)
+ - 😝 [Cranston Female Police officer claims driver was going to run her over... despite she was standing beside his car....](http://9gag.com/gag/abAbWEr)
+ - 👉 [This is fully congruent with pride tbh...](http://9gag.com/gag/a4PLNRp)<!-- MEMES:END -->
 
 ---
 

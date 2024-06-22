@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [These Are the Best Laptop Backpacks We&#39;ve Tried and Tested](https://www.wired.com/gallery/the-best-backpacks-for-work/)
  - [How Embracer&#39;s layoffs and project cancellations gutted Fishlabs, a promising studio that now lives on as a cross-dev team supporting other Embracer companies &lpar;Edwin Evans-Thirlwell/Rock, Paper ...&rpar;](http://www.techmeme.com/240622/p8#a240622p8)
  - [Jabra Enhance Select 500 Review: Excellent Hearing Aids](https://www.wired.com/review/jabra-enhance-select-500/)
  - [Inside Netflix’s bet on advanced video encoding](https://www.theverge.com/2024/6/22/24171581/netflix-bet-advanced-encoding-anne-aaron)
- - [These 7 Houseplants Can Help Cool Your Home During a Heatwave     - CNET](https://www.cnet.com/news/these-7-houseplants-can-help-cool-your-home-during-a-heatwave/#ftag=CAD590a51e)
- - [The 6 Best Linen Sheets for Cool and Comfy Summer Sleeping &lpar;2024&rpar;](https://www.wired.com/gallery/best-linen-sheets/)<!-- TECH:END -->
+ - [These 7 Houseplants Can Help Cool Your Home During a Heatwave     - CNET](https://www.cnet.com/news/these-7-houseplants-can-help-cool-your-home-during-a-heatwave/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

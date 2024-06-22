@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I have a plan, Arthur!](http://9gag.com/gag/a6ZLD2A)
+ - 😝 [Dodge a bullet](http://9gag.com/gag/a9yPvnZ)
+ - 😝 [Fast and furious berlin](http://9gag.com/gag/aQzngPW)
+ - 💣 [What really happened](http://9gag.com/gag/ajPnOxq)
  - 😝 [Will she choose the man or the bear?](http://9gag.com/gag/a4PL6rA)
- - 💣 [Maybe he&#39;s got three hands](http://9gag.com/gag/a34LANr)
- - 😝 [This is fully congruent with pride tbh...](http://9gag.com/gag/a4PLNRp)
- - 👉 [Fast and furious berlin](http://9gag.com/gag/aQzngPW)<!-- MEMES:END -->
+ - 👉 [This is fully congruent with pride tbh...](http://9gag.com/gag/a4PLNRp)<!-- MEMES:END -->
 
 ---
 

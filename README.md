@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yooo they found her](http://9gag.com/gag/aMVQB9R)
- - 😝 [What happend?](http://9gag.com/gag/a0eYVQv)
- - 💣 [Dodge a bullet](http://9gag.com/gag/a9yPvnZ)
- - 😝 [Laughter of embarrassment](http://9gag.com/gag/a87jAXp)
- - 👉 [Facts!](http://9gag.com/gag/awy71GD)<!-- MEMES:END -->
+ - 😝 [Can&#39;t wait for Summer](http://9gag.com/gag/aYQwOxv)
+ - 😝 [When you enter enemy camp but you have max charisma](http://9gag.com/gag/azxVGvK)
+ - 💣 [Maybe he&#39;s got three hands](http://9gag.com/gag/a34LANr)
+ - 😝 [This is fully congruent with pride tbh...](http://9gag.com/gag/a4PLNRp)
+ - 👉 [Will she choose the man or the bear?](http://9gag.com/gag/a4PL6rA)<!-- MEMES:END -->
 
 ---
 

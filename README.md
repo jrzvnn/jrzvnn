@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AT&amp;T is still on the hook for offering landline service in California](https://www.theverge.com/2024/6/21/24183435/att-provide-landline-service-california-colr)
- - [The Internet Might Actually Be Good for Us After All     - CNET](https://www.cnet.com/home/internet/the-internet-might-actually-be-good-for-us-after-all/#ftag=CAD590a51e)
- - [Wireless Internet Surpasses Cable and Fiber in New Customer Satisfaction Survey     - CNET](https://www.cnet.com/home/internet/wireless-internet-surpasses-cable-and-fiber-in-new-customer-satisfaction-survey/#ftag=CAD590a51e)
- - [The California Public Utilities Commission rejects AT&amp;T&#39;s request to end its landline phone obligations and urges AT&amp;T to upgrade copper facilities to fiber &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/240621/p27#a240621p27)
- - [Redbox missed a multimillion-dollar payment it couldn’t afford to miss](https://www.theverge.com/2024/6/21/24183454/redbox-universal-missed-payment-17-million)<!-- TECH:END -->
+ - [A history of text games and interactive fiction, from Infocom to 80 Days, and the roles of MUDs, Usenet, and open source in the 50 years of interactive fiction &lpar;Anna Washenko/Ars Technica&rpar;](http://www.techmeme.com/240621/p28#a240621p28)
+ - [Fortnite OG Returns With Reload Mode Featuring Tilted Towers     - CNET](https://www.cnet.com/tech/gaming/fortnite-og-returns-with-reload-mode-featuring-tilted-towers/#ftag=CAD590a51e)
+ - [Starlink Internet Review: Is It Worth the Cost?     - CNET](https://www.cnet.com/home/internet/starlink-internet-review/#ftag=CAD590a51e)
+ - [Best Antivirus Software for 2024     - CNET](https://www.cnet.com/tech/services-and-software/best-antivirus/#ftag=CAD590a51e)
+ - [Best Cheap Gaming Laptop of 2024     - CNET](https://www.cnet.com/tech/computing/best-cheap-gaming-laptop/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

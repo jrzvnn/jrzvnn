@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you enter enemy camp but you have max charisma](http://9gag.com/gag/azxVGvK)
- - 😝 [Facts!](http://9gag.com/gag/awy71GD)
- - 💣 [She knows](http://9gag.com/gag/ae9pO0W)
- - 😝 [Maybe he&#39;s got three hands](http://9gag.com/gag/a34LANr)
- - 👉 [Will she choose the man or the bear?](http://9gag.com/gag/a4PL6rA)<!-- MEMES:END -->
+ - 😝 [Go Netherlands! You are Europe&#39;s hope!](http://9gag.com/gag/a87jD4p)
+ - 😝 [Ssival](http://9gag.com/gag/a87jeee)
+ - 💣 [This is fully congruent with pride tbh...](http://9gag.com/gag/a4PLNRp)
+ - 😝 [Oops!](http://9gag.com/gag/awy7L6r)
+ - 👉 [Result speaks for itself](http://9gag.com/gag/a5QKzLg)<!-- MEMES:END -->
 
 ---
 

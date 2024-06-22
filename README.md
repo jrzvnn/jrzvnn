@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Embracer&#39;s layoffs and project cancellations gutted Fishlabs, a promising studio that now lives on as a cross-dev team supporting other Embracer companies &lpar;Edwin Evans-Thirlwell/Rock, Paper ...&rpar;](http://www.techmeme.com/240622/p8#a240622p8)
+ - [Jabra Enhance Select 500 Review: Excellent Hearing Aids](https://www.wired.com/review/jabra-enhance-select-500/)
+ - [Inside Netflix’s bet on advanced video encoding](https://www.theverge.com/2024/6/22/24171581/netflix-bet-advanced-encoding-anne-aaron)
  - [The 6 Best Linen Sheets for Cool and Comfy Summer Sleeping &lpar;2024&rpar;](https://www.wired.com/gallery/best-linen-sheets/)
- - [How to Exercise Safely During a Heat Wave](https://www.wired.com/story/how-to-exercise-safely-during-a-heat-wave/)
- - [Typing to AI assistants might be the way to go](https://www.theverge.com/2024/6/22/24180362/type-to-siri-ios-18-ai-assistants)
- - [T20 Cricket World Cup Livestream: How to Watch India vs. Bangladesh From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/t20-cricket-world-cup-livestream-how-to-watch-india-vs-bangladesh-from-anywhere/#ftag=CAD590a51e)
- - [Brace for Impact: A Stellar Explosion Is About to Light Up Earth&#39;s Sky     - CNET](https://www.cnet.com/science/brace-for-impact-a-stellar-explosion-is-about-to-light-up-earths-sky/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Exercise Safely During a Heat Wave](https://www.wired.com/story/how-to-exercise-safely-during-a-heat-wave/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

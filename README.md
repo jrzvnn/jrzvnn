@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Soda Makers to Buy in 2024     - CNET](https://www.cnet.com/news/best-soda-water-maker/#ftag=CAD590a51e)
+ - [Best Hybrid Mattresses for 2024: Save Up to 50% on DreamCloud, Saatva and More     - CNET](https://www.cnet.com/health/sleep/best-hybrid-mattresses/#ftag=CAD590a51e)
+ - [Nectar Premier Copper Mattress Review 2024: A Step Above the Brand’s Flagship Bed     - CNET](https://www.cnet.com/health/sleep/nectar-premier-copper-mattress-review/#ftag=CAD590a51e)
  - [How Sweden&#39;s push to go cashless has left consumers and the country vulnerable to online fraud; value of fraudulent transactions has doubled since 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240622/p13#a240622p13)
- - [10 Sunscreen Myths to Stop Believing This Summer     - CNET](https://www.cnet.com/health/personal-care/10-sunscreen-myths-to-stop-believing-this-summer/#ftag=CAD590a51e)
- - [An interview with Netflix&#39;s senior encoding technology director Anne Aaron about the company&#39;s cutting-edge codecs, preparing for livestreaming, and more &lpar;Janko Roettgers/The Verge&rpar;](http://www.techmeme.com/240622/p12#a240622p12)
- - [Deals: Amazon drops Apple Watch Series 9 to $299, Apple Watch Ultra 2 to $714](https://appleinsider.com/articles/24/06/22/deals-amazon-drops-apple-watch-series-9-to-299-apple-watch-ultra-2-to-714?utm_medium=rss)
- - [Best TV Sales: Score a Sony, Samsung, LG TV for Way Less     - CNET](https://www.cnet.com/deals/best-tv-sales/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [10 Sunscreen Myths to Stop Believing This Summer     - CNET](https://www.cnet.com/health/personal-care/10-sunscreen-myths-to-stop-believing-this-summer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

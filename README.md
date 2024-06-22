@@ -168,8 +168,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Facts!](http://9gag.com/gag/awy71GD)
  - 😝 [When you enter enemy camp but you have max charisma](http://9gag.com/gag/azxVGvK)
- - 😝 [Will she choose the man or the bear?](http://9gag.com/gag/a4PL6rA)
  - 💣 [Maybe he&#39;s got three hands](http://9gag.com/gag/a34LANr)
  - 😝 [This is fully congruent with pride tbh...](http://9gag.com/gag/a4PLNRp)
  - 👉 [When the Injury is so bad that everyone felt it...](http://9gag.com/gag/aKGB9g3)<!-- MEMES:END -->

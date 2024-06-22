@@ -161,9 +161,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [An interview with Netflix&#39;s senior encoding technology director Anne Aaron about the company&#39;s cutting-edge codecs, preparing for livestreaming, and more &lpar;Janko Roettgers/The Verge&rpar;](http://www.techmeme.com/240622/p12#a240622p12)
  - [Deals: Amazon drops Apple Watch Series 9 to $299, Apple Watch Ultra 2 to $714](https://appleinsider.com/articles/24/06/22/deals-amazon-drops-apple-watch-series-9-to-299-apple-watch-ultra-2-to-714?utm_medium=rss)
- - [Despite a $3T+ valuation, Nvidia remains a little-known brand outside gaming and tech industries due to the speed of its ascent and lack of consumer contact &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240622/p11#a240622p11)
- - [Apple is still looking for partners to bring Apple Intelligence to China](https://appleinsider.com/articles/24/06/22/apple-is-still-looking-for-partners-to-bring-apple-intelligence-to-china?utm_medium=rss)
- - [Ends Tomorrow: Score a Pair of Second-Gen AirPods Pro for Only $190 During Walmart Week     - CNET](https://www.cnet.com/deals/ends-tomorrow-score-a-pair-of-2nd-gen-airpods-pro-for-only-190-during-walmart-week/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Carlsbad, California     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-carlsbad-ca/#ftag=CAD590a51e)
+ - [Weekends Are Mine Again, Lawn Looks Great: How Robot Lawn Mowers Changed My Life     - CNET](https://www.cnet.com/news/i-deployed-a-fleet-of-lawn-robots-to-save-me-time/#ftag=CAD590a51e)
+ - [Despite a $3T+ valuation, Nvidia remains a little-known brand outside gaming and tech industries due to the speed of its ascent and lack of consumer contact &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240622/p11#a240622p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

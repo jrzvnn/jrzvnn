@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Breakfast from 5 am till 7 am`](http://9gag.com/gag/abAb4Zv)
- - 😝 [It ain&#39;t much but my wife made it. Please be brutal](http://9gag.com/gag/aByrZEZ)
- - 💣 [Disney: \u201cThere\u2019s no way we\u2019re hiring a white male.\u201d](http://9gag.com/gag/a4PLzed)
- - 😝 [Dutch football supporters on their way to the stadium in Leipzig, Germany.](http://9gag.com/gag/abAb41X)
- - 👉 [Hells kitchen](http://9gag.com/gag/an7B2Lq)<!-- MEMES:END -->
+ - 😝 [This is fully congruent with pride tbh...](http://9gag.com/gag/a4PLNRp)
+ - 😝 [Got a job as a cashier, despite NOT BEING ABLE TO COUNT.](http://9gag.com/gag/an7B7nE)
+ - 💣 [What really happened](http://9gag.com/gag/ajPnOxq)
+ - 😝 [Will she choose the man or the bear?](http://9gag.com/gag/a4PL6rA)
+ - 👉 [Maybe he&#39;s got three hands](http://9gag.com/gag/a34LANr)<!-- MEMES:END -->
 
 ---
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yooo they found her](http://9gag.com/gag/aMVQB9R)
- - 😝 [Facts](http://9gag.com/gag/a34LG1r)
- - 💣 [What kind of sorcery is this](http://9gag.com/gag/azxVPXj)
+ - 😝 [Got a job as a cashier, despite NOT BEING ABLE TO COUNT.](http://9gag.com/gag/an7B7nE)
+ - 😝 [Again and again](http://9gag.com/gag/aD2m6nx)
+ - 💣 [Muslims in Japan waiting to pray in mosque. No street praying like Europe](http://9gag.com/gag/an7B72o)
  - 😝 [Will she choose the man or the bear?](http://9gag.com/gag/a4PL6rA)
- - 👉 [I was too young to understand how epic this moment was](http://9gag.com/gag/aMVQV6X)<!-- MEMES:END -->
+ - 👉 [When the Injury is so bad that everyone felt it...](http://9gag.com/gag/aKGB9g3)<!-- MEMES:END -->
 
 ---
 

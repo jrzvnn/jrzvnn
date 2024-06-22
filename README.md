@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Everything’s About to Get a Hell of a Lot More Expensive Due to Climate Change](https://www.wired.com/story/everythings-about-to-get-a-hell-of-a-lot-more-expensive-due-to-climate-change/)
+ - [The 46 Best Movies on Netflix Right Now &lpar;June 2024&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [The 49 Best Shows on Netflix Right Now &lpar;June 2024&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
  - [A Catastrophic Hospital Hack Ends in a Leak of 300M Patient Records](https://www.wired.com/story/hospital-hack-300-million-patient-records-leaked/)
- - [Court filings show how Zuckerberg and other Meta execs played down risks to young users, while rejecting staff pleas to bolster guardrails and hire more staff &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/240622/p7#a240622p7)
- - [Q&amp;A with AMD executive Forrest Norrod on increasing AI investments, releasing accelerator chips at a faster cadence, AMD&#39;s open standards approach, and more &lpar;Dylan Martin/CRN&rpar;](http://www.techmeme.com/240622/p6#a240622p6)
- - [Best Google Pixel Phone to Buy in 2024     - CNET](https://www.cnet.com/tech/mobile/best-google-pixel-phone/#ftag=CAD590a51e)
- - [Best Internet Providers in Chesapeake, Virginia     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-chesapeake-va/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Court filings show how Zuckerberg and other Meta execs played down risks to young users, while rejecting staff pleas to bolster guardrails and hire more staff &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/240622/p7#a240622p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

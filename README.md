@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ssival](http://9gag.com/gag/a87jeee)
- - 😝 [Shit happens](http://9gag.com/gag/aqy2Q3v)
- - 💣 [Go Netherlands! You are Europe&#39;s hope!](http://9gag.com/gag/a87jD4p)
- - 😝 [Oops!](http://9gag.com/gag/awy7L6r)
- - 👉 [This is fully congruent with pride tbh...](http://9gag.com/gag/a4PLNRp)<!-- MEMES:END -->
+ - 😝 [F**ker died.](http://9gag.com/gag/ayNn3xq)
+ - 😝 [Yooo they found her](http://9gag.com/gag/aMVQB9R)
+ - 💣 [Can&#39;t wait for Summer](http://9gag.com/gag/aYQwOxv)
+ - 😝 [Cranston Female Police officer claims driver was going to run her over... despite she was standing beside his car....](http://9gag.com/gag/abAbWEr)
+ - 👉 [Facts!](http://9gag.com/gag/awy71GD)<!-- MEMES:END -->
 
 ---
 

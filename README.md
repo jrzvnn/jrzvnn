@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She knows](http://9gag.com/gag/ae9pO0W)
- - 😝 [Dodge a bullet](http://9gag.com/gag/a9yPvnZ)
- - 💣 [What really happened](http://9gag.com/gag/ajPnOxq)
- - 😝 [Facts!](http://9gag.com/gag/awy71GD)
+ - 😝 [What really happened](http://9gag.com/gag/ajPnOxq)
+ - 😝 [Nice](http://9gag.com/gag/apRBxPE)
+ - 💣 [Facts!](http://9gag.com/gag/awy71GD)
+ - 😝 [This is fully congruent with pride tbh...](http://9gag.com/gag/a4PLNRp)
  - 👉 [Maybe he&#39;s got three hands](http://9gag.com/gag/a34LANr)<!-- MEMES:END -->
 
 ---

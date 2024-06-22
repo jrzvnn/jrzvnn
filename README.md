@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is this true ?](http://9gag.com/gag/aByryVD)
- - 😝 [Lmao](http://9gag.com/gag/aLnBe1g)
- - 💣 [It ain&#39;t much but my wife made it. Please be brutal](http://9gag.com/gag/aByrZEZ)
- - 😝 [Hells kitchen](http://9gag.com/gag/an7B2Lq)
- - 👉 [It\u2019s whippin\u2019 time!](http://9gag.com/gag/aE0zAOK)<!-- MEMES:END -->
+ - 😝 [Maybe he&#39;s got three hands](http://9gag.com/gag/a34LANr)
+ - 😝 [Can&#39;t wait for Summer](http://9gag.com/gag/aYQwOxv)
+ - 💣 [Finally some good shit.](http://9gag.com/gag/ayNnqOr)
+ - 😝 [Got a job as a cashier, despite NOT BEING ABLE TO COUNT.](http://9gag.com/gag/an7B7nE)
+ - 👉 [Dodge a bullet](http://9gag.com/gag/a9yPvnZ)<!-- MEMES:END -->
 
 ---
 

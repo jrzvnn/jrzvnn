@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Maybe he&#39;s got three hands](http://9gag.com/gag/a34LANr)
- - 😝 [French couple that stole artifacts in Indonesia is facing jail time](http://9gag.com/gag/adBpBRV)
- - 💣 [Dodge a bullet](http://9gag.com/gag/a9yPvnZ)
- - 😝 [I can confirm this...](http://9gag.com/gag/aoyj3Zg)
- - 👉 [When the Injury is so bad that everyone felt it...](http://9gag.com/gag/aKGB9g3)<!-- MEMES:END -->
+ - 😝 [What really happened](http://9gag.com/gag/ajPnOxq)
+ - 😝 [It\u2019s whippin\u2019 time!](http://9gag.com/gag/aE0zAOK)
+ - 💣 [Is this true ?](http://9gag.com/gag/aByryVD)
+ - 😝 [Most popular girl in all of pride month](http://9gag.com/gag/aD2m6rO)
+ - 👉 [`Breakfast from 5 am till 7 am`](http://9gag.com/gag/abAb4Zv)<!-- MEMES:END -->
 
 ---
 

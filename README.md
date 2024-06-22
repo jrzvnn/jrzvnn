@@ -161,9 +161,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Despite a $3T+ valuation, Nvidia remains a little-known brand outside gaming and tech industries due to the speed of its ascent and lack of consumer contact &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240622/p11#a240622p11)
  - [Apple is still looking for partners to bring Apple Intelligence to China](https://appleinsider.com/articles/24/06/22/apple-is-still-looking-for-partners-to-bring-apple-intelligence-to-china?utm_medium=rss)
- - [How Much Water Do You Really Need to Drink to Stay Hydrated? 4 Rules to Stay Healthy     - CNET](https://www.cnet.com/health/medical/how-much-water-do-you-really-need-to-drink-to-stay-hydrated-4-rules-to-stay-healthy/#ftag=CAD590a51e)
- - [&#39;The Boys&#39; Season 4 Gets More Interactive With This Prime Video Feature     - CNET](https://www.cnet.com/tech/services-and-software/the-boys-season-4-gets-more-interactive-with-this-prime-video-feature/#ftag=CAD590a51e)
- - [A look at Switzerland&#39;s push to lead the global race to tokenize assets, as officials try to change perceptions around its diminished banking industry &lpar;Bloomberg&rpar;](http://www.techmeme.com/240622/p10#a240622p10)<!-- TECH:END -->
+ - [Ends Tomorrow: Score a Pair of Second-Gen AirPods Pro for Only $190 During Walmart Week     - CNET](https://www.cnet.com/deals/ends-tomorrow-score-a-pair-of-2nd-gen-airpods-pro-for-only-190-during-walmart-week/#ftag=CAD590a51e)
+ - [Why Diabetes, High Blood Pressure and More Conditions Can Make Heatwaves Dangerous     - CNET](https://www.cnet.com/health/medical/why-diabetes-high-blood-pressure-and-more-conditions-can-make-heatwaves-dangerous/#ftag=CAD590a51e)
+ - [Best Internet Providers in Fayetteville, Arkansas     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-fayetteville-ar/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

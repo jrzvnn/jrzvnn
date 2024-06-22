@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Will she choose the man or the bear?](http://9gag.com/gag/a4PL6rA)
- - 😝 [The policeman got hit in the head with a beer bottle. The answer was interesting.](http://9gag.com/gag/awy7L34)
- - 💣 [What happend?](http://9gag.com/gag/a0eYVQv)
- - 😝 [She knows](http://9gag.com/gag/ae9pO0W)
- - 👉 [When you enter enemy camp but you have max charisma](http://9gag.com/gag/azxVGvK)<!-- MEMES:END -->
+ - 😝 [Ssival](http://9gag.com/gag/a87jeee)
+ - 😝 [Shit happens](http://9gag.com/gag/aqy2Q3v)
+ - 💣 [Go Netherlands! You are Europe&#39;s hope!](http://9gag.com/gag/a87jD4p)
+ - 😝 [Oops!](http://9gag.com/gag/awy7L6r)
+ - 👉 [This is fully congruent with pride tbh...](http://9gag.com/gag/a4PLNRp)<!-- MEMES:END -->
 
 ---
 

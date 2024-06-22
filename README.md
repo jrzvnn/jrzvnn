@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 6 Best Linen Sheets for Cool and Comfy Summer Sleeping &lpar;2024&rpar;](https://www.wired.com/gallery/best-linen-sheets/)
  - [How to Exercise Safely During a Heat Wave](https://www.wired.com/story/how-to-exercise-safely-during-a-heat-wave/)
  - [Typing to AI assistants might be the way to go](https://www.theverge.com/2024/6/22/24180362/type-to-siri-ios-18-ai-assistants)
- - [The 46 Best Movies on Netflix Right Now &lpar;June 2024&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
  - [Everything’s About to Get a Hell of a Lot More Expensive Due to Climate Change](https://www.wired.com/story/everythings-about-to-get-a-hell-of-a-lot-more-expensive-due-to-climate-change/)
- - [The 49 Best Shows on Netflix Right Now &lpar;June 2024&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
+ - [The 46 Best Movies on Netflix Right Now &lpar;June 2024&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Interviews with several journalists who helped saturate the web with Game of Thrones coverage, leveraging fans&#39; obsessions for traffic via SEO and social media &lpar;Kevin Nguyen/The Verge&rpar;](http://www.techmeme.com/240622/p14#a240622p14)
+ - [Best Internet Providers in Hickory, North Carolina     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-hickory-nc/#ftag=CAD590a51e)
+ - [Copa America 2024 Soccer: Livestream Mexico vs. Jamaica From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/copa-america-2024-soccer-livestream-mexico-vs-jamaica-from-anywhere/#ftag=CAD590a51e)
  - [Best Soda Makers to Buy in 2024     - CNET](https://www.cnet.com/news/best-soda-water-maker/#ftag=CAD590a51e)
- - [Best Hybrid Mattresses for 2024: Save Up to 50% on DreamCloud, Saatva and More     - CNET](https://www.cnet.com/health/sleep/best-hybrid-mattresses/#ftag=CAD590a51e)
- - [Nectar Premier Copper Mattress Review 2024: A Step Above the Brand’s Flagship Bed     - CNET](https://www.cnet.com/health/sleep/nectar-premier-copper-mattress-review/#ftag=CAD590a51e)
- - [How Sweden&#39;s push to go cashless has left consumers and the country vulnerable to online fraud; value of fraudulent transactions has doubled since 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240622/p13#a240622p13)<!-- TECH:END -->
+ - [Best Hybrid Mattresses for 2024: Save Up to 50% on DreamCloud, Saatva and More     - CNET](https://www.cnet.com/health/sleep/best-hybrid-mattresses/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

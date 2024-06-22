@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you enter enemy camp but you have max charisma](http://9gag.com/gag/azxVGvK)
- - 😝 [What really happened](http://9gag.com/gag/ajPnOxq)
+ - 😝 [Yooo they found her](http://9gag.com/gag/aMVQB9R)
+ - 😝 [What happend?](http://9gag.com/gag/a0eYVQv)
  - 💣 [Dodge a bullet](http://9gag.com/gag/a9yPvnZ)
- - 😝 [Cranston Female Police officer claims driver was going to run her over... despite she was standing beside his car....](http://9gag.com/gag/abAbWEr)
- - 👉 [This is fully congruent with pride tbh...](http://9gag.com/gag/a4PLNRp)<!-- MEMES:END -->
+ - 😝 [Laughter of embarrassment](http://9gag.com/gag/a87jAXp)
+ - 👉 [Facts!](http://9gag.com/gag/awy71GD)<!-- MEMES:END -->
 
 ---
 

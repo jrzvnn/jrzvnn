@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with AMD executive Forrest Norrod on increasing AI investments, releasing accelerator chips at a faster cadence, AMD&#39;s open standards approach, and more &lpar;Dylan Martin/CRN&rpar;](http://www.techmeme.com/240622/p6#a240622p6)
  - [Eager for iOS 18? What You Should Know Before Downloading the Beta Version     - CNET](https://www.cnet.com/tech/services-and-software/eager-for-ios-18-what-you-should-know-before-downloading-the-beta-version/#ftag=CAD590a51e)
  - [Analysis: the AI frenzy is expected to drive the global data center energy consumption to 1,580 TWh by 2034, about as much as is used by all of India currently &lpar;Bloomberg&rpar;](http://www.techmeme.com/240622/p5#a240622p5)
  - [As power needs of AI push emissions up, tech companies explore experimental clean energy projects such as atomic fusion and futuristic geothermal power plants &lpar;Washington Post&rpar;](http://www.techmeme.com/240622/p4#a240622p4)
- - [Research: the number of freelance jobs on platforms like Upwork, in areas where generative AI excels, have dropped by as much as 21% since ChatGPT&#39;s debut &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/240622/p3#a240622p3)
- - [A look at Singapore&#39;s vital role in the global semiconductor industry: the city-state accounts for ~10% of chip output and 20% of chip-equipment production &lpar;Reuters&rpar;](http://www.techmeme.com/240622/p2#a240622p2)<!-- TECH:END -->
+ - [Research: the number of freelance jobs on platforms like Upwork, in areas where generative AI excels, have dropped by as much as 21% since ChatGPT&#39;s debut &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/240622/p3#a240622p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [10 Sunscreen Myths to Stop Believing This Summer     - CNET](https://www.cnet.com/health/personal-care/10-sunscreen-myths-to-stop-believing-this-summer/#ftag=CAD590a51e)
  - [An interview with Netflix&#39;s senior encoding technology director Anne Aaron about the company&#39;s cutting-edge codecs, preparing for livestreaming, and more &lpar;Janko Roettgers/The Verge&rpar;](http://www.techmeme.com/240622/p12#a240622p12)
  - [Deals: Amazon drops Apple Watch Series 9 to $299, Apple Watch Ultra 2 to $714](https://appleinsider.com/articles/24/06/22/deals-amazon-drops-apple-watch-series-9-to-299-apple-watch-ultra-2-to-714?utm_medium=rss)
- - [Best Internet Providers in Carlsbad, California     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-carlsbad-ca/#ftag=CAD590a51e)
- - [Weekends Are Mine Again, Lawn Looks Great: How Robot Lawn Mowers Changed My Life     - CNET](https://www.cnet.com/news/i-deployed-a-fleet-of-lawn-robots-to-save-me-time/#ftag=CAD590a51e)
- - [Despite a $3T+ valuation, Nvidia remains a little-known brand outside gaming and tech industries due to the speed of its ascent and lack of consumer contact &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240622/p11#a240622p11)<!-- TECH:END -->
+ - [Best TV Sales: Score a Sony, Samsung, LG TV for Way Less     - CNET](https://www.cnet.com/deals/best-tv-sales/#ftag=CAD590a51e)
+ - [Best Internet Providers in Carlsbad, California     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-carlsbad-ca/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

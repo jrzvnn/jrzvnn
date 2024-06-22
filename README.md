@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro sacrificed himself for a quality meme.](http://9gag.com/gag/a7obqgq)
- - 😝 [Stop oil protestors targeted Taylor swift private jet](http://9gag.com/gag/a2vqvne)
- - 💣 [Got a job as a cashier, despite NOT BEING ABLE TO COUNT.](http://9gag.com/gag/an7B7nE)
- - 😝 [We&#39;re not the same](http://9gag.com/gag/axyGy0p)
+ - 😝 [This is fully congruent with pride tbh...](http://9gag.com/gag/a4PLNRp)
+ - 😝 [Got a job as a cashier, despite NOT BEING ABLE TO COUNT.](http://9gag.com/gag/an7B7nE)
+ - 💣 [A keeper.](http://9gag.com/gag/a5QKQrg)
+ - 😝 [When the Injury is so bad that everyone felt it...](http://9gag.com/gag/aKGB9g3)
  - 👉 [Dodge a bullet](http://9gag.com/gag/a9yPvnZ)<!-- MEMES:END -->
 
 ---

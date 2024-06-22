@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [F**ker died.](http://9gag.com/gag/ayNn3xq)
- - 😝 [Yooo they found her](http://9gag.com/gag/aMVQB9R)
- - 💣 [Can&#39;t wait for Summer](http://9gag.com/gag/aYQwOxv)
- - 😝 [Cranston Female Police officer claims driver was going to run her over... despite she was standing beside his car....](http://9gag.com/gag/abAbWEr)
- - 👉 [Facts!](http://9gag.com/gag/awy71GD)<!-- MEMES:END -->
+ - 😝 [She knows](http://9gag.com/gag/ae9pO0W)
+ - 😝 [Dodge a bullet](http://9gag.com/gag/a9yPvnZ)
+ - 💣 [What really happened](http://9gag.com/gag/ajPnOxq)
+ - 😝 [Facts!](http://9gag.com/gag/awy71GD)
+ - 👉 [Maybe he&#39;s got three hands](http://9gag.com/gag/a34LANr)<!-- MEMES:END -->
 
 ---
 

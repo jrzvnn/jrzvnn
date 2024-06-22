@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Got a job as a cashier, despite NOT BEING ABLE TO COUNT.](http://9gag.com/gag/an7B7nE)
- - 😝 [Again and again](http://9gag.com/gag/aD2m6nx)
- - 💣 [Muslims in Japan waiting to pray in mosque. No street praying like Europe](http://9gag.com/gag/an7B72o)
- - 😝 [Will she choose the man or the bear?](http://9gag.com/gag/a4PL6rA)
- - 👉 [When the Injury is so bad that everyone felt it...](http://9gag.com/gag/aKGB9g3)<!-- MEMES:END -->
+ - 😝 [Muslims in Japan waiting to pray in mosque. No street praying like Europe](http://9gag.com/gag/an7B72o)
+ - 😝 [Woman starting to be racist...sigh](http://9gag.com/gag/ajPn7W0)
+ - 💣 [Accident](http://9gag.com/gag/an7BO2q)
+ - 😝 [This is fully congruent with pride tbh...](http://9gag.com/gag/a4PLNRp)
+ - 👉 [Yooo they found her](http://9gag.com/gag/aMVQB9R)<!-- MEMES:END -->
 
 ---
 

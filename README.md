@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A woman stands in a narrow cell with her arms strapped to the wall,circa 1890. She is undergoing treatment for mental illness in 19th century Germany.](http://9gag.com/gag/aXPXM2P)
- - 😝 [This is fully congruent with pride tbh...](http://9gag.com/gag/a4PLNRp)
- - 💣 [When the Injury is so bad that everyone felt it...](http://9gag.com/gag/aKGB9g3)
- - 😝 [Maybe he&#39;s got three hands](http://9gag.com/gag/a34LANr)
- - 👉 [It\u2019s whippin\u2019 time!](http://9gag.com/gag/aE0zAOK)<!-- MEMES:END -->
+ - 😝 [Wholesome](http://9gag.com/gag/aD2mVjw)
+ - 😝 [What really happened](http://9gag.com/gag/ajPnOxq)
+ - 💣 [This is fully congruent with pride tbh...](http://9gag.com/gag/a4PLNRp)
+ - 😝 [She knows](http://9gag.com/gag/ae9pO0W)
+ - 👉 [Maybe he&#39;s got three hands](http://9gag.com/gag/a34LANr)<!-- MEMES:END -->
 
 ---
 

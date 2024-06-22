@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Most popular girl in all of pride month](http://9gag.com/gag/aD2m6rO)
+ - 😝 [The moment of realization](http://9gag.com/gag/a2vqwp9)
+ - 💣 [It\u2019s whippin\u2019 time!](http://9gag.com/gag/aE0zAOK)
  - 😝 [What really happened](http://9gag.com/gag/ajPnOxq)
- - 😝 [For export to USA Sir do not redeem](http://9gag.com/gag/ayNnq9r)
- - 💣 [Got a job as a cashier, despite NOT BEING ABLE TO COUNT.](http://9gag.com/gag/an7B7nE)
- - 😝 [Yooo they found her](http://9gag.com/gag/aMVQB9R)
- - 👉 [Dodge a bullet](http://9gag.com/gag/a9yPvnZ)<!-- MEMES:END -->
+ - 👉 [Is this true ?](http://9gag.com/gag/aByryVD)<!-- MEMES:END -->
 
 ---
 

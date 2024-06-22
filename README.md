@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hate man spreading](http://9gag.com/gag/a5QKw4O)
- - 😝 [When you enter enemy camp but you have max charisma](http://9gag.com/gag/azxVGvK)
- - 💣 [Will she choose the man or the bear?](http://9gag.com/gag/a4PL6rA)
+ - 😝 [Title](http://9gag.com/gag/aoyjVK2)
  - 😝 [Nice](http://9gag.com/gag/apRBxPE)
- - 👉 [Wholesome](http://9gag.com/gag/aD2mVjw)<!-- MEMES:END -->
+ - 💣 [She knows](http://9gag.com/gag/ae9pO0W)
+ - 😝 [Wholesome](http://9gag.com/gag/aD2mVjw)
+ - 👉 [Facts!](http://9gag.com/gag/awy71GD)<!-- MEMES:END -->
 
 ---
 

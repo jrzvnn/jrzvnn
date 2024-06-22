@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis: the AI frenzy is expected to drive the global energy consumption by data centers to 1,580 TWh by 2034, about as much as is used by all of India &lpar;Bloomberg&rpar;](http://www.techmeme.com/240622/p5#a240622p5)
+ - [As power needs of AI push emissions up, tech companies explore experimental clean energy projects such as atomic fusion and futuristic geothermal power plants &lpar;Washington Post&rpar;](http://www.techmeme.com/240622/p4#a240622p4)
  - [Research: the number of freelance jobs on platforms like Upwork, in areas where generative AI excels, have dropped by as much as 21% since ChatGPT&#39;s debut &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/240622/p3#a240622p3)
  - [A look at Singapore&#39;s vital role in the global semiconductor industry: the city-state accounts for ~10% of chip output and 20% of chip-equipment production &lpar;Reuters&rpar;](http://www.techmeme.com/240622/p2#a240622p2)
- - [Data provider Syntun: total GMV during China&#39;s 618 online shopping event fell 7% YoY to $102B, in first-ever drop; Alibaba, JD, and PDD didn&#39;t release GMV data &lpar;Financial Times&rpar;](http://www.techmeme.com/240622/p1#a240622p1)
- - [Huawei announces HarmonyOS Next, to be used in all of its devices, Harmony Intelligence, to integrate AI onto its devices, and Pangu 5.0, a family of four LLMs &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/240621/p30#a240621p30)
- - [How To Start Elden Ring: Shadow of the Erdtree DLC     - CNET](https://www.cnet.com/tech/gaming/how-to-start-elden-ring-shadow-of-the-erdtree-dlc/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Data provider Syntun: total GMV during China&#39;s 618 online shopping event fell 7% YoY to $102B, in first-ever drop; Alibaba, JD, and PDD didn&#39;t release GMV data &lpar;Financial Times&rpar;](http://www.techmeme.com/240622/p1#a240622p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

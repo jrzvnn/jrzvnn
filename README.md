@@ -161,9 +161,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Even Elden Ring’s game director knows Erdtree is too hard](https://www.theverge.com/24183692/hidetaka-miyazaki-interview-shadow-of-the-erdtree-difficulty)
  - [How the Internet Archive plans to defend its digital lending practices as it appeals a US court&#39;s 2023 ruling; IA says it was forced to remove over 500K books &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/240622/p9#a240622p9)
- - [These Are the Best Laptop Backpacks We&#39;ve Tried and Tested](https://www.wired.com/gallery/the-best-backpacks-for-work/)
- - [Walmart Plus Week Ends Tomorrow: 45 of the Hottest Deals Left     - CNET](https://www.cnet.com/deals/best-walmart-plus-week-deals/#ftag=CAD590a51e)
- - [This Apple AirTag 4-Pack Is Discounted for a Limited Time Thanks to Walmart Plus Week     - CNET](https://www.cnet.com/deals/this-apple-airtag-4-pack-is-discounted-for-a-limited-time-thanks-to-walmart-plus-week/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [My 3D Printer Is Making My Swimming Pool Cleaner Than Ever     - CNET](https://www.cnet.com/news/a-3d-printer-is-making-my-swimming-pool-cleaner-than-ever/#ftag=CAD590a51e)
+ - [The 3 Best Workouts for Weight Loss, and Why They Work     - CNET](https://www.cnet.com/health/fitness/best-workouts-for-weight-loss/#ftag=CAD590a51e)
+ - [6 Expert-Approved Foods That Will Help You Hack Your Hydration During the Heat Wave     - CNET](https://www.cnet.com/health/nutrition/6-expert-approved-foods-that-will-help-you-hack-your-hydration-during-the-heat-wave/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

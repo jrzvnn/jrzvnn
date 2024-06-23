@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The Best Pickleball Paddles, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-pickleball-paddles/)
+ - [Best Latex Mattresses of 2024     - CNET](https://www.cnet.com/health/sleep/best-latex-mattress/#ftag=CAD590a51e)
  - [Today is your last chance to sign up for a seven-day Max trial](https://www.theverge.com/2024/6/23/24183275/hbo-max-subscription-free-trial-ue-wonderboom-3-speaker-deal-sale)
  - [A look at Apple&#39;s plans for Vision headsets and AR glasses, M4 Macs, reasons for limiting Apple Intelligence to the latest iPhones and delaying it in the EU &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240623/p5#a240623p5)
- - [Max: The 34 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/tech/services-and-software/max-the-34-absolute-best-tv-shows-to-watch-june-2024/#ftag=CAD590a51e)
- - [28 Best Nintendo Switch Games for Every Player &lpar;2024&rpar;](https://www.wired.com/gallery/best-nintendo-switch-games/)<!-- TECH:END -->
+ - [Max: The 34 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/tech/services-and-software/max-the-34-absolute-best-tv-shows-to-watch-june-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

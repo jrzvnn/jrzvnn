@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s a simpin&#39; time](http://9gag.com/gag/aqy28wM)
  - 😝 [This is how my sis in law treats her husband. Shes a divorcee now](http://9gag.com/gag/aO8m9o2)
+ - 😝 [Cranston Female Police officer claims driver was going to run her over... despite she was standing beside his car....](http://9gag.com/gag/abAbWEr)
  - 💣 [Facts!](http://9gag.com/gag/awy71GD)
- - 😝 [Wholesome](http://9gag.com/gag/aD2mVjw)
- - 👉 [Nice](http://9gag.com/gag/apRBxPE)<!-- MEMES:END -->
+ - 😝 [Dodge a bullet](http://9gag.com/gag/a9yPvnZ)
+ - 👉 [Maybe he&#39;s got three hands](http://9gag.com/gag/a34LANr)<!-- MEMES:END -->
 
 ---
 

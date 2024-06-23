@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is how my sis in law treats her husband. Shes a divorcee now](http://9gag.com/gag/aO8m9o2)
- - 😝 [Cranston Female Police officer claims driver was going to run her over... despite she was standing beside his car....](http://9gag.com/gag/abAbWEr)
- - 💣 [Facts!](http://9gag.com/gag/awy71GD)
- - 😝 [Dodge a bullet](http://9gag.com/gag/a9yPvnZ)
- - 👉 [Maybe he&#39;s got three hands](http://9gag.com/gag/a34LANr)<!-- MEMES:END -->
+ - 😝 [Mother nature `here takes my hands`](http://9gag.com/gag/amo8GXo)
+ - 😝 [It&#39;s a simpin&#39; time](http://9gag.com/gag/aqy28wM)
+ - 💣 [Dog Lets Owner Know It Wants To Travel By Getting Into The Luggage](http://9gag.com/gag/aAypKVL)
+ - 😝 [Fully accepted and welcomed](http://9gag.com/gag/apRBbR8)
+ - 👉 [Hate man spreading](http://9gag.com/gag/a5QKw4O)<!-- MEMES:END -->
 
 ---
 

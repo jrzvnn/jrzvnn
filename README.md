@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One Apple a day, keeps the IT problems away](http://9gag.com/gag/aRBVo8G)
- - 😝 [When you didn&#39;t know you need something.](http://9gag.com/gag/a2vqy8e)
- - 💣 [Hate man spreading](http://9gag.com/gag/a5QKw4O)
- - 😝 [I didn&#39;t understand the hype so far. But...](http://9gag.com/gag/a87jeXV)
- - 👉 [What really happened](http://9gag.com/gag/ajPnOxq)<!-- MEMES:END -->
+ - 😝 [Title this](http://9gag.com/gag/adBp2yN)
+ - 😝 [Look into my eyes, son of...](http://9gag.com/gag/adBp2jD)
+ - 💣 [Wholesome](http://9gag.com/gag/aD2mVjw)
+ - 😝 [Kathleen Kennedy AKA The World Destroyer](http://9gag.com/gag/aYQwDdV)
+ - 👉 [Hate man spreading](http://9gag.com/gag/a5QKw4O)<!-- MEMES:END -->
 
 ---
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at efforts by Google DeepMind, Anthropic, xAI, and other companies to make their chatbots funnier and keep users engaged with them at home and at work &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/240623/p2#a240623p2)
  - [Sources detail growing tensions between Elon Musk and Linda Yaccarino, stemming from her struggle to steady X&#39;s financial health a year after being named CEO &lpar;Financial Times&rpar;](http://www.techmeme.com/240623/p1#a240623p1)
  - [Today&#39;s NYT Strands Hints, Answers and Help for June 23, #112     - CNET](https://www.cnet.com/tech/gaming/todays-nyt-strands-hint-answer-help/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints and Answers: Help for June 23, #378     - CNET](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answer-help-for-june-23-378/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for June 23, #1100     - CNET](https://www.cnet.com/tech/gaming/todays-wordle-hints-and-answer-help-for-june-23-1100/#ftag=CAD590a51e)
- - [A look at pre-smartphone services like GOOG-411 and AQA, which used to employ humans to answer questions with witty responses and encyclopedic knowledge &lpar;Amelia Tait/Wired&rpar;](http://www.techmeme.com/240622/p15#a240622p15)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for June 23, #1100     - CNET](https://www.cnet.com/tech/gaming/todays-wordle-hints-and-answer-help-for-june-23-1100/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

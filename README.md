@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mother nature `here takes my hands`](http://9gag.com/gag/amo8GXo)
- - 😝 [It&#39;s a simpin&#39; time](http://9gag.com/gag/aqy28wM)
- - 💣 [Dog Lets Owner Know It Wants To Travel By Getting Into The Luggage](http://9gag.com/gag/aAypKVL)
- - 😝 [Fully accepted and welcomed](http://9gag.com/gag/apRBbR8)
- - 👉 [Hate man spreading](http://9gag.com/gag/a5QKw4O)<!-- MEMES:END -->
+ - 😝 [She knows](http://9gag.com/gag/ae9pO0W)
+ - 😝 [Title](http://9gag.com/gag/aoyjVK2)
+ - 💣 [When the Injury is so bad that everyone felt it...](http://9gag.com/gag/aKGB9g3)
+ - 😝 [Wake TF up you Twarts!!!](http://9gag.com/gag/a7obeOm)
+ - 👉 [Kathleen Kennedy AKA The World Destroyer](http://9gag.com/gag/aYQwDdV)<!-- MEMES:END -->
 
 ---
 

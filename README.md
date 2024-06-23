@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I didn&#39;t understand the hype so far. But...](http://9gag.com/gag/a87jeXV)
+ - 😝 [New Toyota Corolla blows engine and goes up in flames](http://9gag.com/gag/ajPnZBq)
+ - 😝 [Blade Runners keep cutting down the new ULEZ carbon tracking cameras in London](http://9gag.com/gag/a9yPO2Z)
+ - 💣 [The hate within](http://9gag.com/gag/aAypXx9)
  - 😝 [Nobody bought it except the influencers](http://9gag.com/gag/aQznOxr)
- - 💣 [Fully accepted and welcomed](http://9gag.com/gag/apRBbR8)
- - 😝 [One Apple a day, keeps the IT problems away](http://9gag.com/gag/aRBVo8G)
- - 👉 [Wholesome](http://9gag.com/gag/aD2mVjw)<!-- MEMES:END -->
+ - 👉 [When you didn&#39;t know you need something.](http://9gag.com/gag/a2vqy8e)<!-- MEMES:END -->
 
 ---
 

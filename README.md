@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Israel just asked all the countries to remove their planes and ships from Lebanon territory and ports... And to stop using Lebanon airspace... Here we go again...](http://9gag.com/gag/ayNnQ9b)
  - 😝 [New Toyota Corolla blows engine and goes up in flames](http://9gag.com/gag/ajPnZBq)
- - 😝 [The hate within](http://9gag.com/gag/aAypXx9)
- - 💣 [Nobody bought it except the influencers](http://9gag.com/gag/aQznOxr)
+ - 💣 [I don&#39;t think that&#39;s the problem](http://9gag.com/gag/aByrO1P)
  - 😝 [When you didn&#39;t know you need something.](http://9gag.com/gag/a2vqy8e)
- - 👉 [Cristiano](http://9gag.com/gag/aYQwqvv)<!-- MEMES:END -->
+ - 👉 [Nobody bought it except the influencers](http://9gag.com/gag/aQznOxr)<!-- MEMES:END -->
 
 ---
 

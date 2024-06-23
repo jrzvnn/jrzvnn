@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple is still working on smart glasses, but it&#39;s going to be a long wait](https://appleinsider.com/articles/24/06/23/apple-is-still-working-on-smart-glasses-but-its-going-to-be-a-long-wait?utm_medium=rss)
  - [Late 2025 for M4 Mac Studio &amp; Mac Pro seems more certain now](https://appleinsider.com/articles/24/06/23/late-2025-for-m4-mac-studio-mac-pro-seems-more-certain-now?utm_medium=rss)
  - [Neoplants Neo Px Review: This Plant Isn&#39;t as Good as an Air Purifier](https://www.wired.com/review/neoplants-neo-px/)
  - [The new Final Cut Pro hooked me on iPad video editing](https://www.theverge.com/24183158/final-cut-pro-for-ipad-2-final-cut-camera-review)
- - [Asus Vivobook S 15 Copilot+ PC Review: Promising Battery Life](https://www.wired.com/review/asus-vivobook-s-15-copilot-pc-2024/)
- - [I regret buying the PSVR 2](https://www.theverge.com/2024/6/23/24183482/psvr-2-regret)<!-- TECH:END -->
+ - [How I Made a Video of the Most Difficult Drive of My Life     - CNET](https://www.cnet.com/tech/computing/how-i-made-a-video-of-the-most-difficult-drive-of-my-life/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

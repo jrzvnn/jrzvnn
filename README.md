@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Wholesome](http://9gag.com/gag/aD2mVjw)
- - 😝 [Dodge a bullet](http://9gag.com/gag/a9yPvnZ)
- - 💣 [Facts!](http://9gag.com/gag/awy71GD)
- - 😝 [This is fully congruent with pride tbh...](http://9gag.com/gag/a4PLNRp)
- - 👉 [What really happened](http://9gag.com/gag/ajPnOxq)<!-- MEMES:END -->
+ - 😝 [Cranston Female Police officer claims driver was going to run her over... despite she was standing beside his car....](http://9gag.com/gag/abAbWEr)
+ - 💣 [Hate man spreading](http://9gag.com/gag/a5QKw4O)
+ - 😝 [What really happened](http://9gag.com/gag/ajPnOxq)
+ - 👉 [Facts!](http://9gag.com/gag/awy71GD)<!-- MEMES:END -->
 
 ---
 

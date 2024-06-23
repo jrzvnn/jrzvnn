@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Late 2025 for M4 Mac Studio &amp; Mac Pro seems more certain now](https://appleinsider.com/articles/24/06/23/late-2025-for-m4-mac-studio-mac-pro-seems-more-certain-now?utm_medium=rss)
+ - [Neoplants Neo Px Review: This Plant Isn&#39;t as Good as an Air Purifier](https://www.wired.com/review/neoplants-neo-px/)
+ - [The new Final Cut Pro hooked me on iPad video editing](https://www.theverge.com/24183158/final-cut-pro-for-ipad-2-final-cut-camera-review)
  - [Asus Vivobook S 15 Copilot+ PC Review: Promising Battery Life](https://www.wired.com/review/asus-vivobook-s-15-copilot-pc-2024/)
- - [I regret buying the PSVR 2](https://www.theverge.com/2024/6/23/24183482/psvr-2-regret)
- - [The new and improved Windows PCs are finally here](https://www.theverge.com/2024/6/23/24183235/copilot-pcs-elden-ring-erdtree-hank-green-installer)
- - [I&#39;m Obsessed with Making 1-Minute Microwave Poached Eggs for Breakfast     - CNET](https://www.cnet.com/home/kitchen-and-household/im-obsessed-with-making-1-minute-microwave-poached-eggs-for-breakfast/#ftag=CAD590a51e)
- - [Qualcomm makes its AI models, which are optimized for 45 TOPS Hexagon NPU, available to developers for building AI-enabled apps for Snapdragon X Elite devices &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240623/p3#a240623p3)<!-- TECH:END -->
+ - [I regret buying the PSVR 2](https://www.theverge.com/2024/6/23/24183482/psvr-2-regret)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

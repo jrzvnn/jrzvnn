@@ -159,8 +159,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple may be in talks with Meta to add another generative AI provider to iOS 18](https://appleinsider.com/articles/24/06/23/apple-may-be-in-talks-with-meta-to-add-another-generative-ai-provider-to-ios-18?utm_medium=rss)
  - [Apple is still working on smart glasses, but it&#39;s going to be a long wait](https://appleinsider.com/articles/24/06/23/apple-is-still-working-on-smart-glasses-but-its-going-to-be-a-long-wait?utm_medium=rss)
+ - [Apple may be in talks with Meta to add another generative AI provider to iOS 18](https://appleinsider.com/articles/24/06/23/apple-may-be-in-talks-with-meta-to-add-another-generative-ai-provider-to-ios-18?utm_medium=rss)
  - [Late 2025 for M4 Mac Studio &amp; Mac Pro seems more certain now](https://appleinsider.com/articles/24/06/23/late-2025-for-m4-mac-studio-mac-pro-seems-more-certain-now?utm_medium=rss)
  - [Neoplants Neo Px Review: This Plant Isn&#39;t as Good as an Air Purifier](https://www.wired.com/review/neoplants-neo-px/)
  - [The new Final Cut Pro hooked me on iPad video editing](https://www.theverge.com/24183158/final-cut-pro-for-ipad-2-final-cut-camera-review)<!-- TECH:END -->

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Cranston Female Police officer claims driver was going to run her over... despite she was standing beside his car....](http://9gag.com/gag/abAbWEr)
  - 😝 [Title](http://9gag.com/gag/aoyjVK2)
- - 😝 [Nice](http://9gag.com/gag/apRBxPE)
- - 💣 [She knows](http://9gag.com/gag/ae9pO0W)
- - 😝 [Wholesome](http://9gag.com/gag/aD2mVjw)
- - 👉 [Facts!](http://9gag.com/gag/awy71GD)<!-- MEMES:END -->
+ - 💣 [Hate man spreading](http://9gag.com/gag/a5QKw4O)
+ - 😝 [Maybe he&#39;s got three hands](http://9gag.com/gag/a34LANr)
+ - 👉 [Will she choose the man or the bear?](http://9gag.com/gag/a4PL6rA)<!-- MEMES:END -->
 
 ---
 

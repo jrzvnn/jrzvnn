@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hate man spreading](http://9gag.com/gag/a5QKw4O)
- - 😝 [Wholesome](http://9gag.com/gag/aD2mVjw)
- - 💣 [This is how my sis in law treats her husband. Shes a divorcee now](http://9gag.com/gag/aO8m9o2)
- - 😝 [Facts!](http://9gag.com/gag/awy71GD)
- - 👉 [When you enter enemy camp but you have max charisma](http://9gag.com/gag/azxVGvK)<!-- MEMES:END -->
+ - 😝 [When you enter enemy camp but you have max charisma](http://9gag.com/gag/azxVGvK)
+ - 😝 [Two thieves fight to steal a package as its delivered.](http://9gag.com/gag/ae9pZzW)
+ - 💣 [Win stupid prizes playing stupid ganes](http://9gag.com/gag/aZZN83X)
+ - 😝 [Maybe he&#39;s got three hands](http://9gag.com/gag/a34LANr)
+ - 👉 [Dodge a bullet](http://9gag.com/gag/a9yPvnZ)<!-- MEMES:END -->
 
 ---
 

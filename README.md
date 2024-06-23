@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hate man spreading](http://9gag.com/gag/a5QKw4O)
- - 😝 [Cranston Female Police officer claims driver was going to run her over... despite she was standing beside his car....](http://9gag.com/gag/abAbWEr)
- - 💣 [Facts!](http://9gag.com/gag/awy71GD)
- - 😝 [Wholesome](http://9gag.com/gag/aD2mVjw)
- - 👉 [Kathleen Kennedy AKA The World Destroyer](http://9gag.com/gag/aYQwDdV)<!-- MEMES:END -->
+ - 😝 [7 years of an abusive marriage, 4 years in court, legal fees of $30k+. I got primary custody of my children. I even had her on video attacking me and it still wasn&#39;t enough. Their mom gets them 10 days a month. US family justice system is a joke. Fellows father&#39;s, Don&#39;t give up.](http://9gag.com/gag/aW4Ob73)
+ - 😝 [Sorry for the emoji](http://9gag.com/gag/aByrPjP)
+ - 💣 [What a majestic human being](http://9gag.com/gag/a9yPXOm)
+ - 😝 [My opinion, this is the last film from star wars world.](http://9gag.com/gag/amo8Vwj)
+ - 👉 [Movies these days](http://9gag.com/gag/aAypXy0)<!-- MEMES:END -->
 
 ---
 

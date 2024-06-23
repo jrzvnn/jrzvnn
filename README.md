@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Starliner Faces an Indefinite Wait in Space While NASA Investigates Its Faults](https://www.wired.com/story/starliner-faces-an-indefinite-wait-in-space-while-nasa-investigates-its-faults/)
- - [These Are the Best Smart Devices for Amazon Alexa in 2024     - CNET](https://www.cnet.com/home/smart-home/best-alexa-devices/#ftag=CAD590a51e)
- - [Y Combinator and 140 AI startups sign a letter opposing California&#39;s AI safety bill, saying the bill could harm California&#39;s ability to retain its AI talent &lpar;Politico&rpar;](http://www.techmeme.com/240623/p6#a240623p6)
- - [4 Ways Your Nightly Drink Is Sabotaging Your Sleep. What to Do About It     - CNET](https://www.cnet.com/health/sleep/4-ways-your-nightly-drink-is-sabotaging-your-sleep-what-to-do-about-it/#ftag=CAD590a51e)
- - [This $50 Kitchen Tool Will Save You from Overheating During a Heatwave     - CNET](https://www.cnet.com/news/this-50-kitchen-tool-will-save-you-from-overheating-during-a-heatwave/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Flint, Michigan     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-flint-mi/#ftag=CAD590a51e)
+ - [Walmart Plus Week Deals Still Up for Grabs, Sale Ends Tonight     - CNET](https://www.cnet.com/deals/best-walmart-plus-week-deals/#ftag=CAD590a51e)
+ - [Last Chance to Save Up to $130 on This Ninja Woodfire 8-in-1 Outdoor Oven and Smoker     - CNET](https://www.cnet.com/deals/last-chance-to-save-up-to-130-on-this-ninja-woodfire-8-in-1-outdoor-oven-and-smoker/#ftag=CAD590a51e)
+ - [Copa America 2024 Soccer: Livestream USA vs. Bolivia From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/copa-america-2024-soccer-livestream-united-states-vs-bolivia-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

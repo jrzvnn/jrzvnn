@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [7 years of an abusive marriage, 4 years in court, legal fees of $30k+. I got primary custody of my children. I even had her on video attacking me and it still wasn&#39;t enough. Their mom gets them 10 days a month. US family justice system is a joke. Fellows father&#39;s, Don&#39;t give up.](http://9gag.com/gag/aW4Ob73)
- - 😝 [Sorry for the emoji](http://9gag.com/gag/aByrPjP)
- - 💣 [What a majestic human being](http://9gag.com/gag/a9yPXOm)
- - 😝 [My opinion, this is the last film from star wars world.](http://9gag.com/gag/amo8Vwj)
- - 👉 [Movies these days](http://9gag.com/gag/aAypXy0)<!-- MEMES:END -->
+ - 😝 [The hate within](http://9gag.com/gag/aAypXx9)
+ - 😝 [Goat](http://9gag.com/gag/axyGPw1)
+ - 💣 [Movies these days](http://9gag.com/gag/aAypXy0)
+ - 😝 [12 viewers on Twitch, what&#39;s up?](http://9gag.com/gag/aE0zOnK)
+ - 👉 [My opinion, this is the last film from star wars world.](http://9gag.com/gag/amo8Vwj)<!-- MEMES:END -->
 
 ---
 

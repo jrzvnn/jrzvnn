@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cranston Female Police officer claims driver was going to run her over... despite she was standing beside his car....](http://9gag.com/gag/abAbWEr)
- - 😝 [When you enter enemy camp but you have max charisma](http://9gag.com/gag/azxVGvK)
- - 💣 [This is how my sis in law treats her husband. Shes a divorcee now](http://9gag.com/gag/aO8m9o2)
- - 😝 [Nice](http://9gag.com/gag/apRBxPE)
- - 👉 [7 years of an abusive marriage, 4 years in court, legal fees of $30k+. I got primary custody of my children. I even had her on video attacking me and it still wasn&#39;t enough. Their mom gets them 10 days a month. US family justice system is a joke. Fellows father&#39;s, Don&#39;t give up.](http://9gag.com/gag/aW4Ob73)<!-- MEMES:END -->
+ - 😝 [Wholesome](http://9gag.com/gag/aD2mVjw)
+ - 😝 [Hate man spreading](http://9gag.com/gag/a5QKw4O)
+ - 💣 [Cranston Female Police officer claims driver was going to run her over... despite she was standing beside his car....](http://9gag.com/gag/abAbWEr)
+ - 😝 [Mother nature `here takes my hands`](http://9gag.com/gag/amo8GXo)
+ - 👉 [Nice](http://9gag.com/gag/apRBxPE)<!-- MEMES:END -->
 
 ---
 

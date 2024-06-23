@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Y Combinator and 140 AI startups sign a letter opposing California&#39;s AI safety bill, saying the bill could harm California&#39;s ability to retain its AI talent &lpar;Politico&rpar;](http://www.techmeme.com/240623/p6#a240623p6)
+ - [4 Ways Your Nightly Drink Is Sabotaging Your Sleep. What to Do About It     - CNET](https://www.cnet.com/health/sleep/4-ways-your-nightly-drink-is-sabotaging-your-sleep-what-to-do-about-it/#ftag=CAD590a51e)
  - [This $50 Kitchen Tool Will Save You from Overheating During a Heatwave     - CNET](https://www.cnet.com/news/this-50-kitchen-tool-will-save-you-from-overheating-during-a-heatwave/#ftag=CAD590a51e)
  - [How to Make Homemade Frosé in a Blender with 4 Ingredients     - CNET](https://www.cnet.com/how-to/how-to-make-homemade-frose-with-4-indgredients/#ftag=CAD590a51e)
- - [How to Watch Euro 2024: Scotland vs. Hungary Livestream Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-euro-2024-scotland-vs-hungary-livestream-soccer-from-anywhere/#ftag=CAD590a51e)
- - [How to Watch Euro 2024: Switzerland vs. Germany Livestream Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-euro-2024-switzerland-vs-germany-livestream-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Watch Euro 2024: Scotland vs. Hungary Livestream Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-euro-2024-scotland-vs-hungary-livestream-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

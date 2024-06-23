@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She knows](http://9gag.com/gag/ae9pO0W)
- - 😝 [Title](http://9gag.com/gag/aoyjVK2)
- - 💣 [When the Injury is so bad that everyone felt it...](http://9gag.com/gag/aKGB9g3)
- - 😝 [Wake TF up you Twarts!!!](http://9gag.com/gag/a7obeOm)
+ - 😝 [Hate man spreading](http://9gag.com/gag/a5QKw4O)
+ - 😝 [When you enter enemy camp but you have max charisma](http://9gag.com/gag/azxVGvK)
+ - 💣 [She knows](http://9gag.com/gag/ae9pO0W)
+ - 😝 [Fully accepted and welcomed](http://9gag.com/gag/apRBbR8)
  - 👉 [Kathleen Kennedy AKA The World Destroyer](http://9gag.com/gag/aYQwDdV)<!-- MEMES:END -->
 
 ---

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you enter enemy camp but you have max charisma](http://9gag.com/gag/azxVGvK)
- - 😝 [Cristiano](http://9gag.com/gag/aYQwqvv)
- - 💣 [Wholesome](http://9gag.com/gag/aD2mVjw)
- - 😝 [Title this](http://9gag.com/gag/adBp2yN)
- - 👉 [Kathleen Kennedy AKA The World Destroyer](http://9gag.com/gag/aYQwDdV)<!-- MEMES:END -->
+ - 😝 [Kathleen Kennedy AKA The World Destroyer](http://9gag.com/gag/aYQwDdV)
+ - 😝 [Look into my eyes, son of...](http://9gag.com/gag/adBp2jD)
+ - 💣 [Good guy A.I.](http://9gag.com/gag/a87jepV)
+ - 😝 [Cranston Female Police officer claims driver was going to run her over... despite she was standing beside his car....](http://9gag.com/gag/abAbWEr)
+ - 👉 [Wholesome](http://9gag.com/gag/aD2mVjw)<!-- MEMES:END -->
 
 ---
 

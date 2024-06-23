@@ -161,9 +161,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Interviews with ~12 media executives, including Brian Roberts, John Malone, Barry Diller, and Ted Sarandos, about the future of streaming, bundling, ads, more &lpar;New York Times&rpar;](http://www.techmeme.com/240623/p7#a240623p7)
  - [Twitch banned Dr Disrespect after viewing messages sent to a minor, say former employees](https://www.theverge.com/2024/6/23/24183875/dr-disrespect-twitch-ban-explanation)
- - [Starliner Faces an Indefinite Wait in Space While NASA Investigates Its Faults](https://www.wired.com/story/starliner-faces-an-indefinite-wait-in-space-while-nasa-investigates-its-faults/)
- - [Best Internet Providers in Flint, Michigan     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-flint-mi/#ftag=CAD590a51e)
- - [Walmart Plus Week Deals Still Up for Grabs, Sale Ends Tonight     - CNET](https://www.cnet.com/deals/best-walmart-plus-week-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Aiken, South Carolina     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-aiken-sc/#ftag=CAD590a51e)
+ - [Best Treadmills of 2024     - CNET](https://www.cnet.com/health/fitness/best-treadmill/#ftag=CAD590a51e)
+ - [Make Your iPhone Battery Last Longer With These 2 Hacks     - CNET](https://www.cnet.com/tech/mobile/iphone-hacks-boost-your-battery-life-with-these-2-tweaks/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

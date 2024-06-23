@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Movies these days](http://9gag.com/gag/aAypXy0)
  - 😝 [The hate within](http://9gag.com/gag/aAypXx9)
- - 😝 [Goat](http://9gag.com/gag/axyGPw1)
- - 💣 [Movies these days](http://9gag.com/gag/aAypXy0)
- - 😝 [12 viewers on Twitch, what&#39;s up?](http://9gag.com/gag/aE0zOnK)
+ - 💣 [I don&#39;t think that&#39;s the problem](http://9gag.com/gag/aByrO1P)
+ - 😝 [What a majestic human being](http://9gag.com/gag/a9yPXOm)
  - 👉 [My opinion, this is the last film from star wars world.](http://9gag.com/gag/amo8Vwj)<!-- MEMES:END -->
 
 ---

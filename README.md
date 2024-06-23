@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cameraman saves a reporter from getting nailed by a baseball](http://9gag.com/gag/aZZNE6V)
- - 😝 [My fellow gamer](http://9gag.com/gag/aZZNjL6)
- - 💣 [Because why not?](http://9gag.com/gag/aVvXZ0P)
- - 😝 [Sorry for my English.... But I feel no regrets. I serve my chonkers.](http://9gag.com/gag/a0eYEQX)
- - 👉 [Life really does come down to \u201ctaking responsibility and learning more valuable skills\u201d. This is the secret to making everything better.](http://9gag.com/gag/a1mY2YP)<!-- MEMES:END -->
+ - 😝 [When you enter enemy camp but you have max charisma](http://9gag.com/gag/azxVGvK)
+ - 😝 [This is how my sis in law treats her husband. Shes a divorcee now](http://9gag.com/gag/aO8m9o2)
+ - 💣 [Kathleen Kennedy AKA The World Destroyer](http://9gag.com/gag/aYQwDdV)
+ - 😝 [Wholesome](http://9gag.com/gag/aD2mVjw)
+ - 👉 [Maybe he&#39;s got three hands](http://9gag.com/gag/a34LANr)<!-- MEMES:END -->
 
 ---
 

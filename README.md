@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you enter enemy camp but you have max charisma](http://9gag.com/gag/azxVGvK)
- - 😝 [Win stupid prizes playing stupid ganes](http://9gag.com/gag/aZZN83X)
- - 💣 [Title this](http://9gag.com/gag/adBp2yN)
- - 😝 [Wholesome](http://9gag.com/gag/aD2mVjw)
- - 👉 [Fully accepted and welcomed](http://9gag.com/gag/apRBbR8)<!-- MEMES:END -->
+ - 😝 [Look into my eyes, son of...](http://9gag.com/gag/adBp2jD)
+ - 😝 [Hate man spreading](http://9gag.com/gag/a5QKw4O)
+ - 💣 [The hate within](http://9gag.com/gag/aAypXx9)
+ - 😝 [This is fully congruent with pride tbh...](http://9gag.com/gag/a4PLNRp)
+ - 👉 [Facts!](http://9gag.com/gag/awy71GD)<!-- MEMES:END -->
 
 ---
 

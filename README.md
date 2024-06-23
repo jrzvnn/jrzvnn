@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Hate man spreading](http://9gag.com/gag/a5QKw4O)
- - 😝 [When you enter enemy camp but you have max charisma](http://9gag.com/gag/azxVGvK)
- - 💣 [She knows](http://9gag.com/gag/ae9pO0W)
- - 😝 [Fully accepted and welcomed](http://9gag.com/gag/apRBbR8)
- - 👉 [Kathleen Kennedy AKA The World Destroyer](http://9gag.com/gag/aYQwDdV)<!-- MEMES:END -->
+ - 😝 [Wholesome](http://9gag.com/gag/aD2mVjw)
+ - 💣 [This is how my sis in law treats her husband. Shes a divorcee now](http://9gag.com/gag/aO8m9o2)
+ - 😝 [Facts!](http://9gag.com/gag/awy71GD)
+ - 👉 [When you enter enemy camp but you have max charisma](http://9gag.com/gag/azxVGvK)<!-- MEMES:END -->
 
 ---
 

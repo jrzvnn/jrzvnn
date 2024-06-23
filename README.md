@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you enter enemy camp but you have max charisma](http://9gag.com/gag/azxVGvK)
- - 😝 [This is how my sis in law treats her husband. Shes a divorcee now](http://9gag.com/gag/aO8m9o2)
- - 💣 [Kathleen Kennedy AKA The World Destroyer](http://9gag.com/gag/aYQwDdV)
- - 😝 [Wholesome](http://9gag.com/gag/aD2mVjw)
- - 👉 [Maybe he&#39;s got three hands](http://9gag.com/gag/a34LANr)<!-- MEMES:END -->
+ - 😝 [One Apple a day, keeps the IT problems away](http://9gag.com/gag/aRBVo8G)
+ - 😝 [When you didn&#39;t know you need something.](http://9gag.com/gag/a2vqy8e)
+ - 💣 [Hate man spreading](http://9gag.com/gag/a5QKw4O)
+ - 😝 [I didn&#39;t understand the hype so far. But...](http://9gag.com/gag/a87jeXV)
+ - 👉 [What really happened](http://9gag.com/gag/ajPnOxq)<!-- MEMES:END -->
 
 ---
 

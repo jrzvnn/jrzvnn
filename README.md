@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The micro nuclear reactor that is being developed RollsRoyce will provide constant electrical energy &lpar;up to 10 MW of power&rpar;, scalable, reliable and emission-free, will be transportable in a small truck &lpar;about 3 meters long&rpar;, will operate without human intervention](http://9gag.com/gag/aVvX2Wd)
- - 😝 [Can I touch you ?](http://9gag.com/gag/aAyp2KL)
- - 💣 [I don&#39;t think that&#39;s the problem](http://9gag.com/gag/aByrO1P)
- - 😝 [New Toyota Corolla blows engine and goes up in flames](http://9gag.com/gag/ajPnZBq)
- - 👉 [Look into my eyes, son of...](http://9gag.com/gag/adBp2jD)<!-- MEMES:END -->
+ - 😝 [I didn&#39;t understand the hype so far. But...](http://9gag.com/gag/a87jeXV)
+ - 😝 [Nobody bought it except the influencers](http://9gag.com/gag/aQznOxr)
+ - 💣 [Fully accepted and welcomed](http://9gag.com/gag/apRBbR8)
+ - 😝 [One Apple a day, keeps the IT problems away](http://9gag.com/gag/aRBVo8G)
+ - 👉 [Wholesome](http://9gag.com/gag/aD2mVjw)<!-- MEMES:END -->
 
 ---
 

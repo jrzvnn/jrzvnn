@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cristiano](http://9gag.com/gag/aYQwqvv)
+ - 😝 [Hate man spreading](http://9gag.com/gag/a5QKw4O)
+ - 😝 [Cranston Female Police officer claims driver was going to run her over... despite she was standing beside his car....](http://9gag.com/gag/abAbWEr)
+ - 💣 [Facts!](http://9gag.com/gag/awy71GD)
  - 😝 [Wholesome](http://9gag.com/gag/aD2mVjw)
- - 💣 [Title this](http://9gag.com/gag/adBp2yN)
- - 😝 [Kathleen Kennedy AKA The World Destroyer](http://9gag.com/gag/aYQwDdV)
- - 👉 [The hate within](http://9gag.com/gag/aAypXx9)<!-- MEMES:END -->
+ - 👉 [Kathleen Kennedy AKA The World Destroyer](http://9gag.com/gag/aYQwDdV)<!-- MEMES:END -->
 
 ---
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Clean That Filthy Apple Watch With This Five-Minute Routine     - CNET](https://www.cnet.com/tech/clean-that-filthy-apple-watch-with-this-five-minute-routine/#ftag=CAD590a51e)
- - [How to Find Good, Cheap Wine According to a Sommelier     - CNET](https://www.cnet.com/how-to/how-to-find-great-wine-for-cheap/#ftag=CAD590a51e)
- - [Best iPhone 15 Deals: Save Big When You Trade In     - CNET](https://www.cnet.com/deals/best-iphone-15-deals/#ftag=CAD590a51e)
- - [9 Poses to Try to Harness the Power of Yoga for Sleep     - CNET](https://www.cnet.com/health/sleep/9-poses-to-try-to-harness-the-power-of-yoga-for-sleep/#ftag=CAD590a51e)
- - [Interviews with ~12 media executives, including Brian Roberts, John Malone, Barry Diller, and Ted Sarandos, about the future of streaming, bundling, ads, more &lpar;New York Times&rpar;](http://www.techmeme.com/240623/p7#a240623p7)<!-- TECH:END -->
+ - [Interviews with ~12 media executives, including Brian Roberts, John Malone, Barry Diller, and Ted Sarandos, about the future of streaming, bundling, ads, more &lpar;New York Times&rpar;](http://www.techmeme.com/240623/p7#a240623p7)
+ - [Best AirPods Deals: Snag Apple AirPods for Less     - CNET](https://www.cnet.com/deals/best-apple-airpods-deals/#ftag=CAD590a51e)
+ - [Twitch banned Dr Disrespect after viewing messages sent to a minor, say former employees](https://www.theverge.com/2024/6/23/24183875/dr-disrespect-twitch-ban-explanation)
+ - [Best Internet Providers in Aiken, South Carolina     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-aiken-sc/#ftag=CAD590a51e)
+ - [Best Treadmills of 2024     - CNET](https://www.cnet.com/health/fitness/best-treadmill/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

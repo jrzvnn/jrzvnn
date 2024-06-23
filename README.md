@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hate man spreading](http://9gag.com/gag/a5QKw4O)
- - 😝 [This is how my sis in law treats her husband. Shes a divorcee now](http://9gag.com/gag/aO8m9o2)
- - 💣 [Wholesome](http://9gag.com/gag/aD2mVjw)
+ - 😝 [Wholesome](http://9gag.com/gag/aD2mVjw)
  - 😝 [Dodge a bullet](http://9gag.com/gag/a9yPvnZ)
- - 👉 [The micro nuclear reactor that is being developed RollsRoyce will provide constant electrical energy &lpar;up to 10 MW of power&rpar;, scalable, reliable and emission-free, will be transportable in a small truck &lpar;about 3 meters long&rpar;, will operate without human intervention](http://9gag.com/gag/aVvX2Wd)<!-- MEMES:END -->
+ - 💣 [Facts!](http://9gag.com/gag/awy71GD)
+ - 😝 [This is fully congruent with pride tbh...](http://9gag.com/gag/a4PLNRp)
+ - 👉 [What really happened](http://9gag.com/gag/ajPnOxq)<!-- MEMES:END -->
 
 ---
 

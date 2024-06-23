@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Pickleball Paddles, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-pickleball-paddles/)
- - [Best Latex Mattresses of 2024     - CNET](https://www.cnet.com/health/sleep/best-latex-mattress/#ftag=CAD590a51e)
- - [Today is your last chance to sign up for a seven-day Max trial](https://www.theverge.com/2024/6/23/24183275/hbo-max-subscription-free-trial-ue-wonderboom-3-speaker-deal-sale)
- - [A look at Apple&#39;s plans for Vision headsets and AR glasses, M4 Macs, reasons for limiting Apple Intelligence to the latest iPhones and delaying it in the EU &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240623/p5#a240623p5)
- - [Max: The 34 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/tech/services-and-software/max-the-34-absolute-best-tv-shows-to-watch-june-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This $50 Kitchen Tool Will Save You from Overheating During a Heatwave     - CNET](https://www.cnet.com/news/this-50-kitchen-tool-will-save-you-from-overheating-during-a-heatwave/#ftag=CAD590a51e)
+ - [How to Make Homemade Frosé in a Blender with 4 Ingredients     - CNET](https://www.cnet.com/how-to/how-to-make-homemade-frose-with-4-indgredients/#ftag=CAD590a51e)
+ - [How to Watch Euro 2024: Scotland vs. Hungary Livestream Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-euro-2024-scotland-vs-hungary-livestream-soccer-from-anywhere/#ftag=CAD590a51e)
+ - [How to Watch Euro 2024: Switzerland vs. Germany Livestream Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-euro-2024-switzerland-vs-germany-livestream-soccer-from-anywhere/#ftag=CAD590a51e)
+ - [This Is How You Know It&#39;s Time to Replace Your Router     - CNET](https://www.cnet.com/home/internet/this-is-how-you-know-its-time-to-replace-your-router/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

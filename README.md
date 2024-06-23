@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The micro nuclear reactor that is being developed RollsRoyce will provide constant electrical energy &lpar;up to 10 MW of power&rpar;, scalable, reliable and emission-free, will be transportable in a small truck &lpar;about 3 meters long&rpar;, will operate without human intervention](http://9gag.com/gag/aVvX2Wd)
+ - 😝 [He may have lost the battle, but he won the war](http://9gag.com/gag/azxVZAb)
+ - 💣 [Result speaks for itself](http://9gag.com/gag/a5QKzLg)
  - 😝 [Sorry for the emoji](http://9gag.com/gag/aByrPjP)
- - 😝 [Result speaks for itself](http://9gag.com/gag/a5QKzLg)
- - 💣 [He may have lost the battle, but he won the war](http://9gag.com/gag/azxVZAb)
- - 😝 [Guy throws a beer to someone on a large boat. Boat acknowledges accomplishment](http://9gag.com/gag/ayNnQ0X)
- - 👉 [7 years of an abusive marriage, 4 years in court, legal fees of $30k+. I got primary custody of my children. I even had her on video attacking me and it still wasn&#39;t enough. Their mom gets them 10 days a month. US family justice system is a joke. Fellows father&#39;s, Don&#39;t give up.](http://9gag.com/gag/aW4Ob73)<!-- MEMES:END -->
+ - 👉 [We like things easy.](http://9gag.com/gag/adBp262)<!-- MEMES:END -->
 
 ---
 

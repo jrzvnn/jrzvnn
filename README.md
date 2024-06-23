@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I didn&#39;t understand the hype so far. But...](http://9gag.com/gag/a87jeXV)
- - 😝 [Wholesome](http://9gag.com/gag/aD2mVjw)
- - 💣 [Doesn&#39;t sound shady at all](http://9gag.com/gag/aKGB81Q)
+ - 😝 [It&#39;s a simpin&#39; time](http://9gag.com/gag/aqy28wM)
  - 😝 [This is how my sis in law treats her husband. Shes a divorcee now](http://9gag.com/gag/aO8m9o2)
- - 👉 [Kathleen Kennedy AKA The World Destroyer](http://9gag.com/gag/aYQwDdV)<!-- MEMES:END -->
+ - 💣 [Facts!](http://9gag.com/gag/awy71GD)
+ - 😝 [Wholesome](http://9gag.com/gag/aD2mVjw)
+ - 👉 [Nice](http://9gag.com/gag/apRBxPE)<!-- MEMES:END -->
 
 ---
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qualcomm makes its AI models, which are optimized for 45 TOPS Hexagon NPU, available to developers for building AI-enabled apps for Snapdragon X Elite devices &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240623/p3#a240623p3)
- - [What Came Before the Big Bang?](https://www.wired.com/story/what-came-before-the-big-bang/)
- - [Best Amazon Deals: Pick Up Budget-Friendly Tech Gear, Home Goods and More     - CNET](https://www.cnet.com/deals/best-amazon-deals-pick-up-budget-friendly-tech-gear-home-goods-and-more-under-100/#ftag=CAD590a51e)
- - [How to Keep Your Home Cool and Your Energy Bills Low This Summer     - CNET](https://www.cnet.com/how-to/how-to-keep-your-home-cool-and-your-energy-bills-low-this-summer/#ftag=CAD590a51e)
- - [Recluse Spider Season Is a Myth](https://www.wired.com/story/fiddler-spider-season-myth-recluse-violin-loxosceles-arachnid-mexico/)<!-- TECH:END -->
+ - [Asus Vivobook S 15 Copilot+ PC Review: Promising Battery Life](https://www.wired.com/review/asus-vivobook-s-15-copilot-pc-2024/)
+ - [I regret buying the PSVR 2](https://www.theverge.com/2024/6/23/24183482/psvr-2-regret)
+ - [The new and improved Windows PCs are finally here](https://www.theverge.com/2024/6/23/24183235/copilot-pcs-elden-ring-erdtree-hank-green-installer)
+ - [I&#39;m Obsessed with Making 1-Minute Microwave Poached Eggs for Breakfast     - CNET](https://www.cnet.com/home/kitchen-and-household/im-obsessed-with-making-1-minute-microwave-poached-eggs-for-breakfast/#ftag=CAD590a51e)
+ - [Qualcomm makes its AI models, which are optimized for 45 TOPS Hexagon NPU, available to developers for building AI-enabled apps for Snapdragon X Elite devices &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240623/p3#a240623p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

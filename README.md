@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today is your last chance to sign up for a seven-day Max trial](https://www.theverge.com/2024/6/23/24183275/hbo-max-subscription-free-trial-ue-wonderboom-3-speaker-deal-sale)
  - [A look at Apple&#39;s plans for Vision headsets and AR glasses, M4 Macs, reasons for limiting Apple Intelligence to the latest iPhones and delaying it in the EU &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240623/p5#a240623p5)
  - [28 Best Nintendo Switch Games for Every Player &lpar;2024&rpar;](https://www.wired.com/gallery/best-nintendo-switch-games/)
  - [An Apple Vision Pro successor may need to be tethered to an iPhone or Mac](https://appleinsider.com/articles/24/06/23/an-apple-vision-pro-successor-may-need-to-be-tethered-to-an-iphone-or-mac?utm_medium=rss)
- - [Sources: Meta has held discussions with Apple to integrate its AI model into Apple Intelligence; Anthropic and Perplexity also discussed integrations with Apple &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240623/p4#a240623p4)
- - [Apple is still working on smart glasses, but it&#39;s going to be a long wait](https://appleinsider.com/articles/24/06/23/apple-is-still-working-on-smart-glasses-but-its-going-to-be-a-long-wait?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: Meta has held discussions with Apple to integrate its AI model into Apple Intelligence; Anthropic and Perplexity also discussed integrations with Apple &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240623/p4#a240623p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

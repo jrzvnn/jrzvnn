@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The micro nuclear reactor that is being developed RollsRoyce will provide constant electrical energy &lpar;up to 10 MW of power&rpar;, scalable, reliable and emission-free, will be transportable in a small truck &lpar;about 3 meters long&rpar;, will operate without human intervention](http://9gag.com/gag/aVvX2Wd)
- - 😝 [He may have lost the battle, but he won the war](http://9gag.com/gag/azxVZAb)
- - 💣 [Result speaks for itself](http://9gag.com/gag/a5QKzLg)
- - 😝 [Sorry for the emoji](http://9gag.com/gag/aByrPjP)
- - 👉 [We like things easy.](http://9gag.com/gag/adBp262)<!-- MEMES:END -->
+ - 😝 [When you enter enemy camp but you have max charisma](http://9gag.com/gag/azxVGvK)
+ - 😝 [Cristiano](http://9gag.com/gag/aYQwqvv)
+ - 💣 [Wholesome](http://9gag.com/gag/aD2mVjw)
+ - 😝 [Title this](http://9gag.com/gag/adBp2yN)
+ - 👉 [Kathleen Kennedy AKA The World Destroyer](http://9gag.com/gag/aYQwDdV)<!-- MEMES:END -->
 
 ---
 

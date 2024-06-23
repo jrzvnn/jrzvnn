@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wholesome](http://9gag.com/gag/aD2mVjw)
- - 😝 [Cranston Female Police officer claims driver was going to run her over... despite she was standing beside his car....](http://9gag.com/gag/abAbWEr)
- - 💣 [Hate man spreading](http://9gag.com/gag/a5QKw4O)
- - 😝 [What really happened](http://9gag.com/gag/ajPnOxq)
- - 👉 [Facts!](http://9gag.com/gag/awy71GD)<!-- MEMES:END -->
+ - 😝 [Cameraman saves a reporter from getting nailed by a baseball](http://9gag.com/gag/aZZNE6V)
+ - 😝 [My fellow gamer](http://9gag.com/gag/aZZNjL6)
+ - 💣 [Because why not?](http://9gag.com/gag/aVvXZ0P)
+ - 😝 [Sorry for my English.... But I feel no regrets. I serve my chonkers.](http://9gag.com/gag/a0eYEQX)
+ - 👉 [Life really does come down to \u201ctaking responsibility and learning more valuable skills\u201d. This is the secret to making everything better.](http://9gag.com/gag/a1mY2YP)<!-- MEMES:END -->
 
 ---
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fully accepted and welcomed](http://9gag.com/gag/apRBbR8)
- - 😝 [This is how my sis in law treats her husband. Shes a divorcee now](http://9gag.com/gag/aO8m9o2)
- - 💣 [I didn&#39;t understand the hype so far. But...](http://9gag.com/gag/a87jeXV)
- - 😝 [She knows](http://9gag.com/gag/ae9pO0W)
- - 👉 [Nice](http://9gag.com/gag/apRBxPE)<!-- MEMES:END -->
+ - 😝 [Dodge a bullet](http://9gag.com/gag/a9yPvnZ)
+ - 😝 [Someone stuck his d!ck in crazy and is about to find out. Fu&lpar;king mind games](http://9gag.com/gag/aoyjVvX)
+ - 💣 [Nice](http://9gag.com/gag/apRBxPE)
+ - 😝 [Just one wrong move...](http://9gag.com/gag/a7ob0Lm)
+ - 👉 [Hate man spreading](http://9gag.com/gag/a5QKw4O)<!-- MEMES:END -->
 
 ---
 

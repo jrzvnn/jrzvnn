@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Movies these days](http://9gag.com/gag/aAypXy0)
- - 😝 [The hate within](http://9gag.com/gag/aAypXx9)
- - 💣 [I don&#39;t think that&#39;s the problem](http://9gag.com/gag/aByrO1P)
+ - 😝 [Took some time to admit](http://9gag.com/gag/aYQwAVx)
  - 😝 [What a majestic human being](http://9gag.com/gag/a9yPXOm)
- - 👉 [My opinion, this is the last film from star wars world.](http://9gag.com/gag/amo8Vwj)<!-- MEMES:END -->
+ - 💣 [My opinion, this is the last film from star wars world.](http://9gag.com/gag/amo8Vwj)
+ - 😝 [I don&#39;t think that&#39;s the problem](http://9gag.com/gag/aByrO1P)
+ - 👉 [Sorry for my English.... But I feel no regrets. I serve my chonkers.](http://9gag.com/gag/a0eYEQX)<!-- MEMES:END -->
 
 ---
 

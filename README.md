@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cranston Female Police officer claims driver was going to run her over... despite she was standing beside his car....](http://9gag.com/gag/abAbWEr)
- - 😝 [When you didn&#39;t know you need something.](http://9gag.com/gag/a2vqy8e)
- - 💣 [I don&#39;t think that&#39;s the problem](http://9gag.com/gag/aByrO1P)
- - 😝 [Wholesome](http://9gag.com/gag/aD2mVjw)
- - 👉 [WTF is happening](http://9gag.com/gag/amo8p5o)<!-- MEMES:END -->
+ - 😝 [WTF is happening](http://9gag.com/gag/amo8p5o)
+ - 😝 [Look into my eyes, son of...](http://9gag.com/gag/adBp2jD)
+ - 💣 [U.S. sprinter Noah Lyles pulled out a Yu-Gi-Oh trading card before winning his 100-meter dash at the U.S. track and field qualifiers.](http://9gag.com/gag/ajPnWWg)
+ - 😝 [Day 9 - The ORIGINAL Taxi movie, with a superhot french actress :p](http://9gag.com/gag/adBp2OM)
+ - 👉 [I don&#39;t think that&#39;s the problem](http://9gag.com/gag/aByrO1P)<!-- MEMES:END -->
 
 ---
 

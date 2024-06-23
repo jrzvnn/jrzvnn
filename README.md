@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I didn&#39;t understand the hype so far. But...](http://9gag.com/gag/a87jeXV)
  - 😝 [Wholesome](http://9gag.com/gag/aD2mVjw)
- - 😝 [Hate man spreading](http://9gag.com/gag/a5QKw4O)
- - 💣 [Cranston Female Police officer claims driver was going to run her over... despite she was standing beside his car....](http://9gag.com/gag/abAbWEr)
- - 😝 [Mother nature `here takes my hands`](http://9gag.com/gag/amo8GXo)
- - 👉 [Nice](http://9gag.com/gag/apRBxPE)<!-- MEMES:END -->
+ - 💣 [Doesn&#39;t sound shady at all](http://9gag.com/gag/aKGB81Q)
+ - 😝 [This is how my sis in law treats her husband. Shes a divorcee now](http://9gag.com/gag/aO8m9o2)
+ - 👉 [Kathleen Kennedy AKA The World Destroyer](http://9gag.com/gag/aYQwDdV)<!-- MEMES:END -->
 
 ---
 

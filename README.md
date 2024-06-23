@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Took some time to admit](http://9gag.com/gag/aYQwAVx)
- - 😝 [What a majestic human being](http://9gag.com/gag/a9yPXOm)
- - 💣 [My opinion, this is the last film from star wars world.](http://9gag.com/gag/amo8Vwj)
  - 😝 [I don&#39;t think that&#39;s the problem](http://9gag.com/gag/aByrO1P)
+ - 😝 [Goat](http://9gag.com/gag/axyGPw1)
+ - 💣 [My opinion, this is the last film from star wars world.](http://9gag.com/gag/amo8Vwj)
+ - 😝 [What a majestic human being](http://9gag.com/gag/a9yPXOm)
  - 👉 [Sorry for my English.... But I feel no regrets. I serve my chonkers.](http://9gag.com/gag/a0eYEQX)<!-- MEMES:END -->
 
 ---

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Two thieves fight to steal a package as its delivered.](http://9gag.com/gag/ae9pZzW)
- - 😝 [The micro nuclear reactor that is being developed RollsRoyce will provide constant electrical energy &lpar;up to 10 MW of power&rpar;, scalable, reliable and emission-free, will be transportable in a small truck &lpar;about 3 meters long&rpar;, will operate without human intervention](http://9gag.com/gag/aVvX2Wd)
- - 💣 [This is how my sis in law treats her husband. Shes a divorcee now](http://9gag.com/gag/aO8m9o2)
- - 😝 [Facts!](http://9gag.com/gag/awy71GD)
- - 👉 [Hate man spreading](http://9gag.com/gag/a5QKw4O)<!-- MEMES:END -->
+ - 😝 [When you enter enemy camp but you have max charisma](http://9gag.com/gag/azxVGvK)
+ - 😝 [Win stupid prizes playing stupid ganes](http://9gag.com/gag/aZZN83X)
+ - 💣 [Title this](http://9gag.com/gag/adBp2yN)
+ - 😝 [Wholesome](http://9gag.com/gag/aD2mVjw)
+ - 👉 [Fully accepted and welcomed](http://9gag.com/gag/apRBbR8)<!-- MEMES:END -->
 
 ---
 

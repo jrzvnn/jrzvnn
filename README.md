@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Traveling This Summer? Boost Your iPhone&#39;s Battery Life With 2 Easy Hacks     - CNET](https://www.cnet.com/tech/mobile/traveling-this-summer-boost-your-iphones-battery-life-with-2-easy-hacks/#ftag=CAD590a51e)
  - [Apple says no to PC emulators on iOS](https://www.theverge.com/2024/6/24/24185066/apple-pc-dos-emulators-ios-rejection)
+ - [iPhone Rollback: How to Revert to iOS 17 from the iOS 18 Beta     - CNET](https://www.cnet.com/tech/mobile/iphone-rollback-how-to-revert-to-ios-17-from-the-ios-18-beta/#ftag=CAD590a51e)
  - [The entry-level Steam Deck is cheaper than ever ahead of Steam’s Summer Sale](https://www.theverge.com/2024/6/24/24185077/valve-steam-summer-sale-steam-deck-lcd-pc-deal-sale)
- - [SharePlay in Apple Music gets more shareable in iPadOS 18](https://appleinsider.com/articles/24/06/24/shareplay-in-apple-music-gets-more-shareable-in-ipados-18?utm_medium=rss)
- - [Auto industry pleads with Biden administration to ‘reconsider’ automatic braking rule](https://www.theverge.com/2024/6/24/24185107/aeb-nhtsa-reconsider-auto-industry)
- - [Whistleblower claims to have nearly died because of illegal chemical exposure from Apple](https://appleinsider.com/articles/24/06/24/whistleblower-claims-to-have-nearly-died-because-of-illegal-chemical-exposure-from-apple?utm_medium=rss)<!-- TECH:END -->
+ - [SharePlay in Apple Music gets more shareable in iPadOS 18](https://appleinsider.com/articles/24/06/24/shareplay-in-apple-music-gets-more-shareable-in-ipados-18?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

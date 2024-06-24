@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Wedbush: Apple will lead consumer AI amidst iPhone 16 super cycle](https://appleinsider.com/articles/24/06/24/wedbush-apple-will-lead-consumer-ai-amidst-iphone-super-cycle?utm_medium=rss)
+ - [Apple&#39;s Core Technology Fee at the core of EU&#39;s first DMA violation investigation](https://appleinsider.com/articles/24/06/24/eu-takes-aim-at-apples-core-technology-fee-in-non-compliance-investigations?utm_medium=rss)
  - [An interview with Open Source Initiative executive director Stefano Maffulli on what makes an AI open source, creating the Open Source AI Definition, and more &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240624/p5#a240624p5)
  - [EU says Apple&#39;s App Store Is in Breach of Rules](https://www.wired.com/story/apple-hits-a-major-roadblock-as-eu-targets-app-store/)
- - [Apple is first company charged with violating EU’s DMA rules](https://www.theverge.com/2024/6/24/24184629/apple-dma-steering-infringement-ruling)
- - [EU takes aim at Apple&#39;s Core Technology Fee in DMA non-compliance investigations](https://appleinsider.com/articles/24/06/24/eu-takes-aim-at-apples-core-technology-fee-in-non-compliance-investigations?utm_medium=rss)
- - [Apple&#39;s RCS Texting Previews All New Features for Green Bubble Texts     - CNET](https://www.cnet.com/tech/mobile/apples-rcs-texting-previews-all-new-features-for-green-bubble-texts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple is first company charged with violating EU’s DMA rules](https://www.theverge.com/2024/6/24/24184629/apple-dma-steering-infringement-ruling)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

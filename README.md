@@ -171,10 +171,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One Apple a day, keeps the IT problems away](http://9gag.com/gag/aRBVo8G)
- - 😝 [Can I touch you ?](http://9gag.com/gag/aAyp2KL)
+ - 😝 [Yay school&#39;s out for summer - or ever?](http://9gag.com/gag/aVvXBOM)
+ - 😝 [Title](http://9gag.com/gag/aO8mpZv)
  - 💣 [Nobody bought it except the influencers](http://9gag.com/gag/aQznOxr)
- - 😝 [Fully accepted and welcomed](http://9gag.com/gag/apRBbR8)
+ - 😝 [I don&#39;t think that&#39;s the problem](http://9gag.com/gag/aByrO1P)
  - 👉 [Say it!](http://9gag.com/gag/aVvXVdP)<!-- MEMES:END -->
 
 ---

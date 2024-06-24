@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Internet Providers in Sugar Land, Texas     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-sugar-land-tx/#ftag=CAD590a51e)
  - [Food delivery apps are contending with plunging orders and frustrated drivers, after raising fees in NYC and Seattle due to wage-increase laws for gig workers &lpar;Preetika Rana/Wall Street Journal&rpar;](http://www.techmeme.com/240623/p8#a240623p8)
  - [Clean That Filthy Apple Watch With This Five-Minute Routine     - CNET](https://www.cnet.com/tech/clean-that-filthy-apple-watch-with-this-five-minute-routine/#ftag=CAD590a51e)
  - [How to Find Good, Cheap Wine According to a Sommelier     - CNET](https://www.cnet.com/how-to/how-to-find-great-wine-for-cheap/#ftag=CAD590a51e)
- - [Best iPhone 15 Deals: Save Big When You Trade In     - CNET](https://www.cnet.com/deals/best-iphone-15-deals/#ftag=CAD590a51e)
- - [9 Poses to Try to Harness the Power of Yoga for Sleep     - CNET](https://www.cnet.com/health/sleep/9-poses-to-try-to-harness-the-power-of-yoga-for-sleep/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best iPhone 15 Deals: Save Big When You Trade In     - CNET](https://www.cnet.com/deals/best-iphone-15-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

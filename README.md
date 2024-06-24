@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Open-source supremacy](http://9gag.com/gag/aNDKOy4)
- - 😝 [Cranston Female Police officer claims driver was going to run her over... despite she was standing beside his car....](http://9gag.com/gag/abAbWEr)
- - 💣 [Canopy comes off airplane right after takeoff](http://9gag.com/gag/ae9pRrm)
- - 😝 [Muntjacs are a genus of deer native to South and Southeast Asia.](http://9gag.com/gag/aGyROd0)
- - 👉 [Say it!](http://9gag.com/gag/aVvXVdP)<!-- MEMES:END -->
+ - 😝 [This Guy Can Cancel The Cancel Culture](http://9gag.com/gag/aoyjYPx)
+ - 😝 [Goat](http://9gag.com/gag/axyGPw1)
+ - 💣 [Best hangover scene ever](http://9gag.com/gag/an7Br1z)
+ - 😝 [The hate within](http://9gag.com/gag/aAypXx9)
+ - 👉 [Sleeping here would be godly](http://9gag.com/gag/a2vqLdZ)<!-- MEMES:END -->
 
 ---
 

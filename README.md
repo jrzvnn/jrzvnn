@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [U.S. sprinter Noah Lyles pulled out a Yu-Gi-Oh trading card before winning his 100-meter dash at the U.S. track and field qualifiers.](http://9gag.com/gag/ajPnWWg)
- - 😝 [Cristiano](http://9gag.com/gag/aYQwqvv)
- - 💣 [When you didn&#39;t know you need something.](http://9gag.com/gag/a2vqy8e)
- - 😝 [Nobody bought it except the influencers](http://9gag.com/gag/aQznOxr)
- - 👉 [I don&#39;t think that&#39;s the problem](http://9gag.com/gag/aByrO1P)<!-- MEMES:END -->
+ - 😝 [Two-way traffic insult](http://9gag.com/gag/aPAGQoK)
+ - 😝 [Day 9 - The ORIGINAL Taxi movie, with a superhot french actress :p](http://9gag.com/gag/adBp2OM)
+ - 💣 [Got to go, time to help your mom to sleep.](http://9gag.com/gag/amo8mRX)
+ - 😝 [Title this](http://9gag.com/gag/adBp2yN)
+ - 👉 [When you didn&#39;t know you need something.](http://9gag.com/gag/a2vqy8e)<!-- MEMES:END -->
 
 ---
 

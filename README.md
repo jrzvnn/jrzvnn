@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple and Meta not in discussions over AI chatbot, report claims](https://appleinsider.com/articles/24/06/24/apple-and-meta-not-in-discussions-over-ai-chatbot-report-claims?utm_medium=rss)
+ - [Game studio co-founded by Dr Disrespect ‘immediately’ terminating relationship with the streamer](https://www.theverge.com/2024/6/24/24185172/dr-disrespect-midnight-society-termination)
  - [Sources: Google has been developing a product to create customizable chatbots, which could be modeled on celebrities, and plans to launch it as soon as 2024 &lpar;The Information&rpar;](http://www.techmeme.com/240624/p24#a240624p24)
  - [Sources: Apple rejected Meta&#39;s overtures to integrate Llama into the iPhone months ago, in part because it sees Meta&#39;s privacy practices as not stringent enough &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240624/p23#a240624p23)
- - [Sources: Amazon is working on an AI chatbot, codenamed Metis, designed to compete directly with ChatGPT; source: it&#39;s tentatively slated for a September launch &lpar;Eugene Kim/Business Insider&rpar;](http://www.techmeme.com/240624/p22#a240624p22)
- - [Traveling This Summer? Boost Your iPhone&#39;s Battery Life With 2 Easy Hacks     - CNET](https://www.cnet.com/tech/mobile/traveling-this-summer-boost-your-iphones-battery-life-with-2-easy-hacks/#ftag=CAD590a51e)
- - [Apple says no to PC emulators on iOS](https://www.theverge.com/2024/6/24/24185066/apple-pc-dos-emulators-ios-rejection)<!-- TECH:END -->
+ - [Sources: Amazon is working on an AI chatbot, codenamed Metis, designed to compete directly with ChatGPT; source: it&#39;s tentatively slated for a September launch &lpar;Eugene Kim/Business Insider&rpar;](http://www.techmeme.com/240624/p22#a240624p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

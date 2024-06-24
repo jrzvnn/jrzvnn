@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [U.S. sprinter Noah Lyles pulled out a Yu-Gi-Oh trading card before winning his 100-meter dash at the U.S. track and field qualifiers.](http://9gag.com/gag/ajPnWWg)
- - 😝 [Say it!](http://9gag.com/gag/aVvXVdP)
- - 💣 [I don&#39;t think that&#39;s the problem](http://9gag.com/gag/aByrO1P)
- - 😝 [Guys, is this true ?](http://9gag.com/gag/adBpoA2)
- - 👉 [Fully accepted and welcomed](http://9gag.com/gag/apRBbR8)<!-- MEMES:END -->
+ - 😝 [I\u2019ve been to India\u2026.disgusting](http://9gag.com/gag/a9yPO6W)
+ - 😝 [I don&#39;t think that&#39;s the problem](http://9gag.com/gag/aByrO1P)
+ - 💣 [WTF is happening](http://9gag.com/gag/amo8p5o)
+ - 😝 [Your delivery has arrived](http://9gag.com/gag/agmNKYW)
+ - 👉 [Open-source supremacy](http://9gag.com/gag/aNDKOy4)<!-- MEMES:END -->
 
 ---
 

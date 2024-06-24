@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guys, is this true ?](http://9gag.com/gag/adBpoA2)
- - 😝 [Say it!](http://9gag.com/gag/aVvXVdP)
- - 💣 [One Apple a day, keeps the IT problems away](http://9gag.com/gag/aRBVo8G)
- - 😝 [Can I touch you ?](http://9gag.com/gag/aAyp2KL)
- - 👉 [I don&#39;t think that&#39;s the problem](http://9gag.com/gag/aByrO1P)<!-- MEMES:END -->
+ - 😝 [I don&#39;t think that&#39;s the problem](http://9gag.com/gag/aByrO1P)
+ - 😝 [Fully accepted and welcomed](http://9gag.com/gag/apRBbR8)
+ - 💣 [Say it!](http://9gag.com/gag/aVvXVdP)
+ - 😝 [Canopy comes off airplane right after takeoff](http://9gag.com/gag/ae9pRrm)
+ - 👉 [Can I touch you ?](http://9gag.com/gag/aAyp2KL)<!-- MEMES:END -->
 
 ---
 

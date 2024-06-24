@@ -163,10 +163,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [How to get started with iPhone Mirroring in iOS 18 and macOS Sequoia](https://appleinsider.com/inside/macos-sequoia/tips/how-to-get-started-with-iphone-mirroring-in-ios-18-and-macos-sequoia?utm_medium=rss)
- - [Best Outdoor Home Security Cameras for 2024     - CNET](https://www.cnet.com/home/security/best-outdoor-home-security-cameras/#ftag=CAD590a51e)
- - [Save 25% on an Anker Soundcore Motion X600 at Amazon Right Now     - CNET](https://www.cnet.com/deals/save-25-on-an-anker-soundcore-motion-x600-at-amazon-right-now/#ftag=CAD590a51e)
- - [Best Mineral Sunscreen of 2024     - CNET](https://www.cnet.com/health/personal-care/best-mineral-sunscreens/#ftag=CAD590a51e)
- - [The 3 Best Workouts for Weight Loss, and Why They Work     - CNET](https://www.cnet.com/health/fitness/best-workouts-for-weight-loss/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [First alternative app store support for iPad is in the second iPadOS 18 beta](https://appleinsider.com/articles/24/06/24/first-alternative-app-store-support-for-ipad-is-in-the-second-ipados-18-beta?utm_medium=rss)
+ - [Meta is incorrectly marking real photos as ‘Made by AI’](https://www.theverge.com/2024/6/24/24184795/meta-instagram-incorrect-made-by-ai-photo-labels)
+ - [Amazon has the Sabrent Thunderbolt 4 KVM Switch in stock for $299.97](https://appleinsider.com/articles/24/06/24/amazon-has-the-sabrent-thunderbolt-4-kvm-switch-in-stock-for-29997?utm_medium=rss)
+ - [Paramount Plus is getting yet another price hike](https://www.theverge.com/2024/6/24/24184979/paramount-plus-price-hike-august-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

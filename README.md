@@ -171,9 +171,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One Apple a day, keeps the IT problems away](http://9gag.com/gag/aRBVo8G)
- - 😝 [Say it!](http://9gag.com/gag/aVvXVdP)
- - 💣 [Guys, is this true ?](http://9gag.com/gag/adBpoA2)
+ - 😝 [Guys, is this true ?](http://9gag.com/gag/adBpoA2)
+ - 😝 [What is my godamn superpower ?](http://9gag.com/gag/aLnBbn6)
+ - 💣 [Say it!](http://9gag.com/gag/aVvXVdP)
  - 😝 [Title](http://9gag.com/gag/aO8mpZv)
  - 👉 [Muntjacs are a genus of deer native to South and Southeast Asia.](http://9gag.com/gag/aGyROd0)<!-- MEMES:END -->
 

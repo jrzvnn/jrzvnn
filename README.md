@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I\u2019ve been to India\u2026.disgusting](http://9gag.com/gag/a9yPO6W)
- - 😝 [I don&#39;t think that&#39;s the problem](http://9gag.com/gag/aByrO1P)
- - 💣 [WTF is happening](http://9gag.com/gag/amo8p5o)
- - 😝 [Your delivery has arrived](http://9gag.com/gag/agmNKYW)
- - 👉 [Open-source supremacy](http://9gag.com/gag/aNDKOy4)<!-- MEMES:END -->
+ - 😝 [Maybe](http://9gag.com/gag/aPAGXXn)
+ - 😝 [Goat](http://9gag.com/gag/axyGPw1)
+ - 💣 [The hate within](http://9gag.com/gag/aAypXx9)
+ - 😝 [Best hangover scene ever](http://9gag.com/gag/an7Br1z)
+ - 👉 [This Guy Can Cancel The Cancel Culture](http://9gag.com/gag/aoyjYPx)<!-- MEMES:END -->
 
 ---
 

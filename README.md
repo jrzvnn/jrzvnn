@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple rejected overtures by Meta to integrate its Llama chatbot into the iPhone months ago, in part because of Meta&#39;s privacy practices &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240624/p23#a240624p23)
  - [Sources: Amazon is working on an AI chatbot, codenamed Metis, designed to compete directly with ChatGPT; source: it&#39;s tentatively slated for a September launch &lpar;Eugene Kim/Business Insider&rpar;](http://www.techmeme.com/240624/p22#a240624p22)
  - [Traveling This Summer? Boost Your iPhone&#39;s Battery Life With 2 Easy Hacks     - CNET](https://www.cnet.com/tech/mobile/traveling-this-summer-boost-your-iphones-battery-life-with-2-easy-hacks/#ftag=CAD590a51e)
  - [Apple says no to PC emulators on iOS](https://www.theverge.com/2024/6/24/24185066/apple-pc-dos-emulators-ios-rejection)
- - [iPhone Rollback: How to Revert to iOS 17 from the iOS 18 Beta     - CNET](https://www.cnet.com/tech/mobile/iphone-rollback-how-to-revert-to-ios-17-from-the-ios-18-beta/#ftag=CAD590a51e)
- - [The entry-level Steam Deck is cheaper than ever ahead of Steam’s Summer Sale](https://www.theverge.com/2024/6/24/24185077/valve-steam-summer-sale-steam-deck-lcd-pc-deal-sale)<!-- TECH:END -->
+ - [iPhone Rollback: How to Revert to iOS 17 from the iOS 18 Beta     - CNET](https://www.cnet.com/tech/mobile/iphone-rollback-how-to-revert-to-ios-17-from-the-ios-18-beta/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

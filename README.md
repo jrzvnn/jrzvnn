@@ -165,8 +165,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Sources: Google has been developing a product to create customizable chatbots, which could be modeled on celebrities, and plans to launch it as soon as 2024 &lpar;The Information&rpar;](http://www.techmeme.com/240624/p24#a240624p24)
  - [Sources: Apple rejected Meta&#39;s overtures to integrate Llama into the iPhone months ago, in part because it sees Meta&#39;s privacy practices as not stringent enough &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240624/p23#a240624p23)
  - [Sources: Amazon is working on an AI chatbot, codenamed Metis, designed to compete directly with ChatGPT; source: it&#39;s tentatively slated for a September launch &lpar;Eugene Kim/Business Insider&rpar;](http://www.techmeme.com/240624/p22#a240624p22)
- - [Will Your iPhone Be Compatible With Both iOS 18 and Apple Intelligence? Find Out Here     - CNET](https://www.cnet.com/tech/services-and-software/will-your-iphone-be-compatible-with-both-ios-18-and-apple-intelligence-find-out-here/#ftag=CAD590a51e)
- - [Save Up to 42% With Jackery&#39;s Major Sales Until June 30: We&#39;ll Show You How     - CNET](https://www.cnet.com/deals/save-up-to-42-with-jackerys-major-sales-until-june-30-well-show-you-how/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Traveling This Summer? Boost Your iPhone&#39;s Battery Life With 2 Easy Hacks     - CNET](https://www.cnet.com/tech/mobile/traveling-this-summer-boost-your-iphones-battery-life-with-2-easy-hacks/#ftag=CAD590a51e)
+ - [Apple says no to PC emulators on iOS](https://www.theverge.com/2024/6/24/24185066/apple-pc-dos-emulators-ios-rejection)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

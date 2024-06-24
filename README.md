@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Free charge](http://9gag.com/gag/axyGm61)
- - 😝 [Why r u geh](http://9gag.com/gag/aVvXBW8)
- - 💣 [Can I touch you ?](http://9gag.com/gag/aAyp2KL)
  - 😝 [Say it!](http://9gag.com/gag/aVvXVdP)
- - 👉 [Canopy comes off airplane right after takeoff](http://9gag.com/gag/ae9pRrm)<!-- MEMES:END -->
+ - 😝 [Fully accepted and welcomed](http://9gag.com/gag/apRBbR8)
+ - 💣 [Title](http://9gag.com/gag/aO8mpZv)
+ - 😝 [Yay school&#39;s out for summer - or ever?](http://9gag.com/gag/aVvXBOM)
+ - 👉 [Muntjacs are a genus of deer native to South and Southeast Asia.](http://9gag.com/gag/aGyROd0)<!-- MEMES:END -->
 
 ---
 

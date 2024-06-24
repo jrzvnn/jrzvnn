@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nobody bought it except the influencers](http://9gag.com/gag/aQznOxr)
- - 😝 [Say it!](http://9gag.com/gag/aVvXVdP)
- - 💣 [Canopy comes off airplane right after takeoff](http://9gag.com/gag/ae9pRrm)
- - 😝 [Can I touch you ?](http://9gag.com/gag/aAyp2KL)
- - 👉 [Muntjacs are a genus of deer native to South and Southeast Asia.](http://9gag.com/gag/aGyROd0)<!-- MEMES:END -->
+ - 😝 [Guys, is this true ?](http://9gag.com/gag/adBpoA2)
+ - 😝 [Fully accepted and welcomed](http://9gag.com/gag/apRBbR8)
+ - 💣 [Can I touch you ?](http://9gag.com/gag/aAyp2KL)
+ - 😝 [Your superpower: you can see the number showing probability you two sleeping together](http://9gag.com/gag/a87jVvZ)
+ - 👉 [One Apple a day, keeps the IT problems away](http://9gag.com/gag/aRBVo8G)<!-- MEMES:END -->
 
 ---
 

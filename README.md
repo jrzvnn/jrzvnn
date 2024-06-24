@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia stock is down ~15% from June 20, losing ~$500B in market cap, after becoming the most valuable company on June 18; its CEO recently sold ~$95M in shares &lpar;Financial Times&rpar;](http://www.techmeme.com/240624/p17#a240624p17)
+ - [Apple&#39;s second wave of fall update betas adds iPhone Mirroring](https://appleinsider.com/articles/24/06/24/apples-second-wave-of-fall-update-betas-adds-iphone-mirroring?utm_medium=rss)
+ - [SteelSeries refurbished Arctis Nova Pro Wireless headset is down to just $179.99](https://www.theverge.com/2024/6/24/24184700/steelseries-arctis-nova-pro-wireless-gaming-headset-tapo-mini-smart-plugs-deal-sale)
  - [Whistleblower claims to have nearly died because of illegal chemical exposure from Apple](https://appleinsider.com/articles/24/06/24/whistleblower-claims-to-have-nearly-died-because-of-illegal-chemical-exposure-from-apple?utm_medium=rss)
- - [Best Internet Providers in North Las Vegas, Nevada     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-north-las-vegas-nv/#ftag=CAD590a51e)
- - [The Last SSDI Payment for June Is on It&#39;s Way     - CNET](https://www.cnet.com/personal-finance/the-last-ssdi-payment-for-june-is-on-its-way/#ftag=CAD590a51e)
- - [Meta has seemingly stopped trying as hard to moderate its services, overrun with AI spam and scams; X gutting safety staff may have lowered the industry&#39;s bar &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240624/p16#a240624p16)
- - [The Bear Season 3 Is Arriving Early: Here&#39;s When and Where to Stream     - CNET](https://www.cnet.com/tech/services-and-software/the-bear-season-3-is-arriving-early-heres-when-and-where-to-stream/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta has seemingly stopped trying as hard to moderate its services, overrun with AI spam and scams; X gutting safety staff may have lowered the industry&#39;s bar &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240624/p16#a240624p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

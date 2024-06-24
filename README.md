@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [More M4: When the Mac will get upgraded with the latest Apple Silicon](https://appleinsider.com/articles/24/06/24/more-m4-when-the-mac-will-get-upgraded-with-the-latest-apple-silicon?utm_medium=rss)
  - [The Surface Laptop 7 and Surface Pro 11 receive a repairability score of 8 out of 10, far better than the first Surface Laptop, which got a 0 &lpar;Shahram Mokhtari/iFixit News&rpar;](http://www.techmeme.com/240624/p15#a240624p15)
  - [Vampire is the word in Nosferatu’s new teaser trailer](https://www.theverge.com/24184823/nosferatu-trailer-date-robert-eggers)
- - [More M4: When the Mac will get upgraded with the latest Apple Silicon](https://appleinsider.com/articles/24/06/24/more-m4-when-the-mac-will-get-upgraded-with-the-latest-apple-silicon?utm_medium=rss)
- - [The RIAA sues AI music services Suno and Udio over alleged mass copyright infringement and claims they have tried to hide the scope of their infringement &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/240624/p14#a240624p14)
- - [Best Sonos Deals: Save on Speakers, Soundbars and More     - CNET](https://www.cnet.com/deals/best-sonos-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Watch Euro 2024: Albania vs. Spain Livestream Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-euro-2024-albania-vs-spain-livestream-soccer-from-anywhere/#ftag=CAD590a51e)
+ - [How to Watch Euro 2024: Croatia vs. Italy Livestream Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-euro-2024-croatia-vs-italy-livestream-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

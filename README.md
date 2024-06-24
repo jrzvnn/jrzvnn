@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New Hue lights, tvOS 18, Qi2 chargers, &amp; more on the HomeKit Insider Podcast](https://appleinsider.com/articles/24/06/24/new-hue-lights-tvos-18-qi2-chargers-more-on-the-homekit-insider-podcast?utm_medium=rss)
  - [Apple&#39;s Core Technology Fee at the center of EU&#39;s first DMA violation investigation](https://appleinsider.com/articles/24/06/24/eu-takes-aim-at-apples-core-technology-fee-in-non-compliance-investigations?utm_medium=rss)
  - [Sources describe Apple&#39;s efforts to fully automate iPhone assembly lines, helping it reduce its reliance on China, including by buying startups like DarwinAI &lpar;Wayne Ma/The Information&rpar;](http://www.techmeme.com/240624/p11#a240624p11)
  - [Shopify unveils AI-focused updates for merchants, including reply suggestions for customer chats, and launches its AI chatbot Sidekick in early access &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240624/p10#a240624p10)
- - [The 9 Best TVs We’ve Reviewed, Plus Buying Advice for Normies &lpar;2024&rpar;](https://www.wired.com/gallery/best-tvs/)
- - [Shopify’s AI ‘Sidekick’ chatbot for merchants is now in early access](https://www.theverge.com/2024/6/24/24183504/shopify-ai-sidekick-chatbot-merchants-summer-edition)<!-- TECH:END -->
+ - [The 9 Best TVs We’ve Reviewed, Plus Buying Advice for Normies &lpar;2024&rpar;](https://www.wired.com/gallery/best-tvs/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

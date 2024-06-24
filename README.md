@@ -171,10 +171,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can I touch you ?](http://9gag.com/gag/aAyp2KL)
  - 😝 [This is the best joke in the entire movie...](http://9gag.com/gag/a7obnge)
- - 💣 [Say it!](http://9gag.com/gag/aVvXVdP)
- - 😝 [One Apple a day, keeps the IT problems away](http://9gag.com/gag/aRBVo8G)
+ - 😝 [Say it!](http://9gag.com/gag/aVvXVdP)
+ - 💣 [Canopy comes off airplane right after takeoff](http://9gag.com/gag/ae9pRrm)
+ - 😝 [Fully accepted and welcomed](http://9gag.com/gag/apRBbR8)
  - 👉 [Title](http://9gag.com/gag/aO8mpZv)<!-- MEMES:END -->
 
 ---

@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Say it!](http://9gag.com/gag/aVvXVdP)
- - 😝 [One Apple a day, keeps the IT problems away](http://9gag.com/gag/aRBVo8G)
- - 💣 [Canopy comes off airplane right after takeoff](http://9gag.com/gag/ae9pRrm)
- - 😝 [Muntjacs are a genus of deer native to South and Southeast Asia.](http://9gag.com/gag/aGyROd0)
- - 👉 [Cat Walk](http://9gag.com/gag/aQznAKw)<!-- MEMES:END -->
+ - 😝 [Fully accepted and welcomed](http://9gag.com/gag/apRBbR8)
+ - 😝 [Day 9 - The ORIGINAL Taxi movie, with a superhot french actress :p](http://9gag.com/gag/adBp2OM)
+ - 💣 [Say it!](http://9gag.com/gag/aVvXVdP)
+ - 😝 [M&#39;erica](http://9gag.com/gag/a9yPXd0)
+ - 👉 [Canopy comes off airplane right after takeoff](http://9gag.com/gag/ae9pRrm)<!-- MEMES:END -->
 
 ---
 

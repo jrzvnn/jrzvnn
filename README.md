@@ -164,9 +164,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Apple is first company charged with violating EU’s DMA rules](https://www.theverge.com/2024/6/24/24184629/apple-dma-steering-infringement-ruling)
  - [EU takes aim at Apple&#39;s Core Technology Fee in DMA non-compliance investigations](https://appleinsider.com/articles/24/06/24/eu-takes-aim-at-apples-core-technology-fee-in-non-compliance-investigations?utm_medium=rss)
+ - [Apple&#39;s RCS Texting Previews All New Features for Green Bubble Texts     - CNET](https://www.cnet.com/tech/mobile/apples-rcs-texting-previews-all-new-features-for-green-bubble-texts/#ftag=CAD590a51e)
  - [The Eternal Truth of Markdown](https://www.wired.com/story/the-eternal-truth-of-markdown/)
- - [Red Tape Is Making Hospital Ransomware Attacks Worse](https://www.wired.com/story/ransomware-health-care-assurance-letters/)
- - [In preliminary findings, EU says Apple&#39;s anti-steering rules breached DMA; EU is also investigating whether Apple&#39;s developer fees comply with EU rules &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240624/p4#a240624p4)<!-- TECH:END -->
+ - [Less Than 3% of Households Can Afford a Mortgage in This California City     - CNET](https://www.cnet.com/personal-finance/mortgages/less-than-3-of-households-can-afford-a-mortgage-in-this-california-city/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

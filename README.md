@@ -164,9 +164,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [A look at Apple Intelligence, an umbrella for dozens of models running on-device or in carbon neutral data centers, and why Vision Pro is not getting it yet &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/240624/p3#a240624p3)
  - [Sources: the EU plans to charge Apple for alleged anti-competitive conduct and Microsoft on suspicions of taking advantage of its market dominance this week &lpar;Financial Times&rpar;](http://www.techmeme.com/240624/p2#a240624p2)
+ - [Best Internet Providers in Cary, North Carolina     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-cary-nc/#ftag=CAD590a51e)
  - [Sources: ByteDance is working with Broadcom on a US sanctions compliant 5nm AI chip, to be made by TSMC, with manufacturing not expected to start this year &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/240624/p1#a240624p1)
- - [Best Internet Providers in Bryan, Texas     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-bryan-tx/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for June 24, #113     - CNET](https://www.cnet.com/tech/gaming/todays-nyt-strands-hint-answer-help/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Bryan, Texas     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-bryan-tx/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

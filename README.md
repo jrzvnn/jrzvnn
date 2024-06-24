@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [The 9 Best TVs We’ve Reviewed, Plus Buying Advice for Normies &lpar;2024&rpar;](https://www.wired.com/gallery/best-tvs/)
  - [Shopify’s AI ‘Sidekick’ chatbot for merchants is now in early access](https://www.theverge.com/2024/6/24/24183504/shopify-ai-sidekick-chatbot-merchants-summer-edition)
  - [How to make an EV tire that won’t pollute the environment](https://www.theverge.com/2024/6/24/24183327/ev-tire-pollution-enso-us-factory-investment)
- - [Turkish grocery delivery startup Getir agrees to a restructuring that will see Mubadala lead a $250M injection and acquire control of Getir&#39;s grocery operations &lpar;Ivan Levingston/Financial Times&rpar;](http://www.techmeme.com/240624/p9#a240624p9)<!-- TECH:END -->
+ - [Whole-Body Deodorant: Is It Safe, Necessary and How Does It Work?     - CNET](https://www.cnet.com/health/personal-care/whole-body-deodorant-is-it-safe-necessary-how-does-it-work/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

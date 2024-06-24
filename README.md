@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Whistleblower claims to have nearly died because of illegal chemical exposure from Apple](https://appleinsider.com/articles/24/06/24/whistleblower-claims-to-have-nearly-died-because-of-illegal-chemical-exposure-from-apple?utm_medium=rss)
+ - [Best Internet Providers in North Las Vegas, Nevada     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-north-las-vegas-nv/#ftag=CAD590a51e)
+ - [The Last SSDI Payment for June Is on It&#39;s Way     - CNET](https://www.cnet.com/personal-finance/the-last-ssdi-payment-for-june-is-on-its-way/#ftag=CAD590a51e)
  - [Meta has seemingly stopped trying as hard to moderate its services, overrun with AI spam and scams; X gutting safety staff may have lowered the industry&#39;s bar &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240624/p16#a240624p16)
- - [More M4: When the Mac will get upgraded with the latest Apple Silicon](https://appleinsider.com/articles/24/06/24/more-m4-when-the-mac-will-get-upgraded-with-the-latest-apple-silicon?utm_medium=rss)
- - [The Surface Laptop 7 and Surface Pro 11 receive a repairability score of 8 out of 10, far better than the first Surface Laptop, which got a 0 &lpar;Shahram Mokhtari/iFixit News&rpar;](http://www.techmeme.com/240624/p15#a240624p15)
- - [Vampire is the word in Nosferatu’s new teaser trailer](https://www.theverge.com/24184823/nosferatu-trailer-date-robert-eggers)
- - [How to Watch Euro 2024: Albania vs. Spain Livestream Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/how-to-watch-euro-2024-albania-vs-spain-livestream-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Bear Season 3 Is Arriving Early: Here&#39;s When and Where to Stream     - CNET](https://www.cnet.com/tech/services-and-software/the-bear-season-3-is-arriving-early-heres-when-and-where-to-stream/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

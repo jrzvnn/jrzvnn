@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Auto industry pleads with Biden administration to ‘reconsider’ automatic braking rule](https://www.theverge.com/2024/6/24/24185107/aeb-nhtsa-reconsider-auto-industry)
+ - [Whistleblower claims to have nearly died because of illegal chemical exposure from Apple](https://appleinsider.com/articles/24/06/24/whistleblower-claims-to-have-nearly-died-because-of-illegal-chemical-exposure-from-apple?utm_medium=rss)
+ - [Source: OpenAI has changed its policies towards secondary share sales to let current and former employees participate equally in its annual tender offers &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/240624/p21#a240624p21)
  - [Thwarting cyberattacks from China is DHS’s top infrastructure security priority](https://www.theverge.com/2024/6/24/24185013/homeland-security-china-artificial-intelligence-priorities-memo-mayorkas)
- - [Emergence, which is building &quot;agent-based&quot; systems that orchestrate tasks by routing them to first- and third-party AI systems, emerges from stealth with $97.2M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240624/p20#a240624p20)
- - [How to get started with iPhone Mirroring in iOS 18 and macOS Sequoia](https://appleinsider.com/inside/macos-sequoia/tips/how-to-get-started-with-iphone-mirroring-in-ios-18-and-macos-sequoia?utm_medium=rss)
- - [Best Outdoor Home Security Cameras for 2024     - CNET](https://www.cnet.com/home/security/best-outdoor-home-security-cameras/#ftag=CAD590a51e)
- - [Save 25% on an Anker Soundcore Motion X600 at Amazon Right Now     - CNET](https://www.cnet.com/deals/save-25-on-an-anker-soundcore-motion-x600-at-amazon-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Emergence, which is building &quot;agent-based&quot; systems that orchestrate tasks by routing them to first- and third-party AI systems, emerges from stealth with $97.2M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240624/p20#a240624p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

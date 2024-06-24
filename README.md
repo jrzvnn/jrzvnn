@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fully accepted and welcomed](http://9gag.com/gag/apRBbR8)
- - 😝 [Day 9 - The ORIGINAL Taxi movie, with a superhot french actress :p](http://9gag.com/gag/adBp2OM)
- - 💣 [Say it!](http://9gag.com/gag/aVvXVdP)
- - 😝 [M&#39;erica](http://9gag.com/gag/a9yPXd0)
- - 👉 [Canopy comes off airplane right after takeoff](http://9gag.com/gag/ae9pRrm)<!-- MEMES:END -->
+ - 😝 [Mmmm I wonder why](http://9gag.com/gag/apRBYe5)
+ - 😝 [I don&#39;t think that&#39;s the problem](http://9gag.com/gag/aByrO1P)
+ - 💣 [The hate within](http://9gag.com/gag/aAypXx9)
+ - 😝 [Nobody bought it except the influencers](http://9gag.com/gag/aQznOxr)
+ - 👉 [Fully accepted and welcomed](http://9gag.com/gag/apRBbR8)<!-- MEMES:END -->
 
 ---
 

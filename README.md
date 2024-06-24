@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Maybe](http://9gag.com/gag/aPAGXXn)
  - 😝 [Goat](http://9gag.com/gag/axyGPw1)
- - 💣 [The hate within](http://9gag.com/gag/aAypXx9)
- - 😝 [Best hangover scene ever](http://9gag.com/gag/an7Br1z)
- - 👉 [This Guy Can Cancel The Cancel Culture](http://9gag.com/gag/aoyjYPx)<!-- MEMES:END -->
+ - 😝 [Canopy comes off airplane right after takeoff](http://9gag.com/gag/ae9pRrm)
+ - 💣 [Best hangover scene ever](http://9gag.com/gag/an7Br1z)
+ - 😝 [This Guy Can Cancel The Cancel Culture](http://9gag.com/gag/aoyjYPx)
+ - 👉 [The hate within](http://9gag.com/gag/aAypXx9)<!-- MEMES:END -->
 
 ---
 

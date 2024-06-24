@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to get started with iPhone Mirroring in iOS 18 and macOS Sequoia](https://appleinsider.com/inside/macos-sequoia/tips/how-to-get-started-with-iphone-mirroring-in-ios-18-and-macos-sequoia?utm_medium=rss)
  - [First alternative app store support for iPad is in the second iPadOS 18 beta](https://appleinsider.com/articles/24/06/24/first-alternative-app-store-support-for-ipad-is-in-the-second-ipados-18-beta?utm_medium=rss)
  - [Meta is incorrectly marking real photos as ‘Made by AI’](https://www.theverge.com/2024/6/24/24184795/meta-instagram-incorrect-made-by-ai-photo-labels)
  - [Amazon has the Sabrent Thunderbolt 4 KVM Switch in stock for $299.97](https://appleinsider.com/articles/24/06/24/amazon-has-the-sabrent-thunderbolt-4-kvm-switch-in-stock-for-29997?utm_medium=rss)
- - [Paramount Plus is getting yet another price hike](https://www.theverge.com/2024/6/24/24184979/paramount-plus-price-hike-august-2024)
- - [Deals: Amazon drops Apple Watch Series 9 to $299, Apple Watch Ultra 2 to $714](https://appleinsider.com/articles/24/06/22/deals-amazon-drops-apple-watch-series-9-to-299-apple-watch-ultra-2-to-714?utm_medium=rss)<!-- TECH:END -->
+ - [Paramount Plus is getting yet another price hike](https://www.theverge.com/2024/6/24/24184979/paramount-plus-price-hike-august-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

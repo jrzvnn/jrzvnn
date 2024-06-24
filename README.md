@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Qatari telecom group Ooredoo: Nvidia agreed to deploy AI tech in Ooredoo datacenters in five Middle Eastern countries, Nvidia&#39;s first major launch in the region &lpar;Andrew Mills/Reuters&rpar;](http://www.techmeme.com/240623/p10#a240623p10)
  - [Meta launches its Meta AI chatbot in India with support for English only, a week after Google&#39;s Gemini app on Android debuted with support for 9 local languages &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240623/p9#a240623p9)
  - [Best Internet Providers in Clearwater, Florida     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-clearwater-fl/#ftag=CAD590a51e)
  - [Best Internet Providers in Sugar Land, Texas     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-sugar-land-tx/#ftag=CAD590a51e)
- - [Food delivery apps are contending with plunging orders and frustrated drivers, after raising fees in NYC and Seattle due to wage-increase laws for gig workers &lpar;Preetika Rana/Wall Street Journal&rpar;](http://www.techmeme.com/240623/p8#a240623p8)
- - [Clean That Filthy Apple Watch With This Five-Minute Routine     - CNET](https://www.cnet.com/tech/clean-that-filthy-apple-watch-with-this-five-minute-routine/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Food delivery apps are contending with plunging orders and frustrated drivers, after raising fees in NYC and Seattle due to wage-increase laws for gig workers &lpar;Preetika Rana/Wall Street Journal&rpar;](http://www.techmeme.com/240623/p8#a240623p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

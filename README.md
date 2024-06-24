@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I don&#39;t think that&#39;s the problem](http://9gag.com/gag/aByrO1P)
- - 😝 [Fully accepted and welcomed](http://9gag.com/gag/apRBbR8)
- - 💣 [Say it!](http://9gag.com/gag/aVvXVdP)
- - 😝 [Canopy comes off airplane right after takeoff](http://9gag.com/gag/ae9pRrm)
- - 👉 [Can I touch you ?](http://9gag.com/gag/aAyp2KL)<!-- MEMES:END -->
+ - 😝 [12 viewers on Twitch, what&#39;s up?](http://9gag.com/gag/aE0zOnK)
+ - 😝 [Wait! I thought people hated strong female leads.](http://9gag.com/gag/aByr4eP)
+ - 💣 [Singlehandedly](http://9gag.com/gag/agmN201)
+ - 😝 [Ghibli dreams](http://9gag.com/gag/a87jVA3)
+ - 👉 [This is the best joke in the entire movie...](http://9gag.com/gag/a7obnge)<!-- MEMES:END -->
 
 ---
 

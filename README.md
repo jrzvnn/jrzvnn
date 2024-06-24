@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Your superpower: you can see the number showing probability you two sleeping together](http://9gag.com/gag/a87jVvZ)
- - 😝 [Best hangover scene ever](http://9gag.com/gag/an7Br1z)
- - 💣 [Ghibli dreams](http://9gag.com/gag/a87jVA3)
- - 😝 [This is on another level.](http://9gag.com/gag/ayNnv9X)
- - 👉 [Hawk Tuah! Throw garbage at that thing.](http://9gag.com/gag/aQzn2Wq)<!-- MEMES:END -->
+ - 😝 [Canopy comes off airplane right after takeoff](http://9gag.com/gag/ae9pRrm)
+ - 😝 [Say it!](http://9gag.com/gag/aVvXVdP)
+ - 💣 [Fully accepted and welcomed](http://9gag.com/gag/apRBbR8)
+ - 😝 [Muntjacs are a genus of deer native to South and Southeast Asia.](http://9gag.com/gag/aGyROd0)
+ - 👉 [Can I touch you ?](http://9gag.com/gag/aAyp2KL)<!-- MEMES:END -->
 
 ---
 

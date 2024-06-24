@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mmmm I wonder why](http://9gag.com/gag/apRBYe5)
- - 😝 [I don&#39;t think that&#39;s the problem](http://9gag.com/gag/aByrO1P)
- - 💣 [The hate within](http://9gag.com/gag/aAypXx9)
- - 😝 [Nobody bought it except the influencers](http://9gag.com/gag/aQznOxr)
- - 👉 [Fully accepted and welcomed](http://9gag.com/gag/apRBbR8)<!-- MEMES:END -->
+ - 😝 [Guys, is this true ?](http://9gag.com/gag/adBpoA2)
+ - 😝 [Say it!](http://9gag.com/gag/aVvXVdP)
+ - 💣 [Weather forecast today](http://9gag.com/gag/aMVQXmA)
+ - 😝 [Your superpower: you can see the number showing probability you two sleeping together](http://9gag.com/gag/a87jVvZ)
+ - 👉 [Free charge](http://9gag.com/gag/axyGm61)<!-- MEMES:END -->
 
 ---
 

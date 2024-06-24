@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Surface Laptop 7 and Surface Pro 11 receive a repairability score of 8 out of 10, far better than the first Surface Laptop, which got a 0 &lpar;Shahram Mokhtari/iFixit News&rpar;](http://www.techmeme.com/240624/p15#a240624p15)
+ - [Vampire is the word in Nosferatu’s new teaser trailer](https://www.theverge.com/24184823/nosferatu-trailer-date-robert-eggers)
  - [More M4: When the Mac will get upgraded with the latest Apple Silicon](https://appleinsider.com/articles/24/06/24/more-m4-when-the-mac-will-get-upgraded-with-the-latest-apple-silicon?utm_medium=rss)
  - [The RIAA sues AI music services Suno and Udio over alleged mass copyright infringement and claims they have tried to hide the scope of their infringement &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/240624/p14#a240624p14)
- - [Best Sonos Deals: Save on Speakers, Soundbars and More     - CNET](https://www.cnet.com/deals/best-sonos-deals/#ftag=CAD590a51e)
- - [US Record Labels Sue AI Music Generators Suno and Udio for Copyright Infringement](https://www.wired.com/story/ai-music-generators-suno-and-udio-sued-for-copyright-infringement/)
- - [Best Internet Providers in Torrance, California     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-torrance-ca/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Sonos Deals: Save on Speakers, Soundbars and More     - CNET](https://www.cnet.com/deals/best-sonos-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

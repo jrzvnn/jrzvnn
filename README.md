@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This Guy Can Cancel The Cancel Culture](http://9gag.com/gag/aoyjYPx)
- - 😝 [Goat](http://9gag.com/gag/axyGPw1)
- - 💣 [Best hangover scene ever](http://9gag.com/gag/an7Br1z)
- - 😝 [The hate within](http://9gag.com/gag/aAypXx9)
- - 👉 [Sleeping here would be godly](http://9gag.com/gag/a2vqLdZ)<!-- MEMES:END -->
+ - 😝 [Say it!](http://9gag.com/gag/aVvXVdP)
+ - 😝 [One Apple a day, keeps the IT problems away](http://9gag.com/gag/aRBVo8G)
+ - 💣 [Canopy comes off airplane right after takeoff](http://9gag.com/gag/ae9pRrm)
+ - 😝 [Muntjacs are a genus of deer native to South and Southeast Asia.](http://9gag.com/gag/aGyROd0)
+ - 👉 [Cat Walk](http://9gag.com/gag/aQznAKw)<!-- MEMES:END -->
 
 ---
 

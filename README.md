@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Da best buddy](http://9gag.com/gag/aNDK3g3)
- - 😝 [Canopy comes off airplane right after takeoff](http://9gag.com/gag/ae9pRrm)
- - 💣 [She&#39;s a good mother wanting the best for her child](http://9gag.com/gag/avyLmOq)
- - 😝 [This is the best joke in the entire movie...](http://9gag.com/gag/a7obnge)
- - 👉 [When you see your gym crush..](http://9gag.com/gag/aVvXRNd)<!-- MEMES:END -->
+ - 😝 [Nobody bought it except the influencers](http://9gag.com/gag/aQznOxr)
+ - 😝 [Fully accepted and welcomed](http://9gag.com/gag/apRBbR8)
+ - 💣 [Can I touch you ?](http://9gag.com/gag/aAyp2KL)
+ - 😝 [Title](http://9gag.com/gag/aO8mpZv)
+ - 👉 [Say it!](http://9gag.com/gag/aVvXVdP)<!-- MEMES:END -->
 
 ---
 

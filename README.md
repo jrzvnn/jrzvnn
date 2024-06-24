@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US Record Labels Sue AI Music Generators Suno and Udio for Copyright Infringement](https://www.wired.com/story/ai-music-generators-suno-and-udio-sued-for-copyright-infringement/)
+ - [Major record labels sue AI company behind ‘BBL Drizzy’](https://www.theverge.com/2024/6/24/24184710/riaa-ai-lawsuit-suno-udio-copyright-umg-sony-warner)
  - [Diplomats and others fear a rift between SoftBank and Naver over the ownership of messaging app Line could put stress on ties between Japan and South Korea &lpar;River Akira Davis/New York Times&rpar;](http://www.techmeme.com/240624/p13#a240624p13)
  - [Dozens of Tesla Cybertrucks vandalized by someone who really doesn’t like Elon Musk](https://www.theverge.com/2024/6/24/24184698/tesla-cybertruck-vandal-deface-elon-musk)
- - [Apple&#39;s iPhone assembly automation goal has hit some bumps in the road](https://appleinsider.com/articles/24/06/24/as-apple-embraces-automation-it-plans-to-scale-back-workers-on-its-production-lines?utm_medium=rss)
- - [A look at the rise of financial sextortion of minors; US NCMEC received an average of 812 sextortion reports per week between August 2022 and August 2023 &lpar;Issie Lapowsky/Fast Company&rpar;](http://www.techmeme.com/240624/p12#a240624p12)
- - [SwitchBot’s cheap universal remote can control your smart home, too](https://www.theverge.com/2024/6/24/24184673/switchbot-smart-home-universal-remote-matter-bluetooth)<!-- TECH:END -->
+ - [Apple&#39;s iPhone assembly automation goal has hit some bumps in the road](https://appleinsider.com/articles/24/06/24/as-apple-embraces-automation-it-plans-to-scale-back-workers-on-its-production-lines?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

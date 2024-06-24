@@ -163,10 +163,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Cozey Ciello XL Couch: Fine—If You’ve Got the Space for It](https://www.wired.com/review/cozey-ciello-xl/)
+ - [Best Mattress Deals: Early Fourth of July Sales Bring Big Savings     - CNET](https://www.cnet.com/deals/best-mattress-sales/#ftag=CAD590a51e)
  - [Apple and Meta not in discussions over AI chatbot, report claims](https://appleinsider.com/articles/24/06/24/apple-and-meta-not-in-discussions-over-ai-chatbot-report-claims?utm_medium=rss)
  - [Game studio co-founded by Dr Disrespect ‘immediately’ terminating relationship with the streamer](https://www.theverge.com/2024/6/24/24185172/dr-disrespect-midnight-society-termination)
- - [Sources: Google has been developing a product to create customizable chatbots, which could be modeled on celebrities, and plans to launch it as soon as 2024 &lpar;The Information&rpar;](http://www.techmeme.com/240624/p24#a240624p24)
- - [Sources: Apple rejected Meta&#39;s overtures to integrate Llama into the iPhone months ago, in part because it sees Meta&#39;s privacy practices as not stringent enough &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240624/p23#a240624p23)<!-- TECH:END -->
+ - [Best Apple Watch Deals: Score Discounts on All Models     - CNET](https://www.cnet.com/deals/best-apple-watch-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

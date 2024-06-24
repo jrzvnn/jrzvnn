@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As Apple embraces automation, it plans to scale back workers on its production lines](https://appleinsider.com/articles/24/06/24/as-apple-embraces-automation-it-plans-to-scale-back-workers-on-its-production-lines?utm_medium=rss)
+ - [Apple&#39;s iPhone assembly automation goal has hit some bumps in the road](https://appleinsider.com/articles/24/06/24/as-apple-embraces-automation-it-plans-to-scale-back-workers-on-its-production-lines?utm_medium=rss)
+ - [A look at the rise of financial sextortion of minors; US NCMEC received an average of 812 sextortion reports per week between August 2022 and August 2023 &lpar;Issie Lapowsky/Fast Company&rpar;](http://www.techmeme.com/240624/p12#a240624p12)
  - [SwitchBot’s cheap universal remote can control your smart home, too](https://www.theverge.com/2024/6/24/24184673/switchbot-smart-home-universal-remote-matter-bluetooth)
  - [4 Best Chromebooks &lpar;2024&rpar;: Tested and Reviewed](https://www.wired.com/gallery/best-chromebooks/)
- - [Netflix’s Greg Peters on a new culture memo and where ads, AI, and games fit in](https://www.theverge.com/24182520/netflix-co-ceo-memo-ads-subscription-price-decoder-podcast-interview)
- - [New Hue lights, tvOS 18, Qi2 chargers, &amp; more on the HomeKit Insider Podcast](https://appleinsider.com/articles/24/06/24/new-hue-lights-tvos-18-qi2-chargers-more-on-the-homekit-insider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [Netflix’s Greg Peters on a new culture memo and where ads, AI, and games fit in](https://www.theverge.com/24182520/netflix-co-ceo-memo-ads-subscription-price-decoder-podcast-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

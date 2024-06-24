@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: ByteDance is working with Broadcom on a US sanctions compliant 5nm AI chip, to be made by TSMC, with manufacturing not expected to start this year &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/240624/p1#a240624p1)
  - [Qatari telecom group Ooredoo: Nvidia agreed to deploy AI tech in Ooredoo datacenters in five Middle Eastern countries, Nvidia&#39;s first major launch in the region &lpar;Andrew Mills/Reuters&rpar;](http://www.techmeme.com/240623/p10#a240623p10)
  - [That Leftover Rice Could Be Making You Sick – Here&#39;s Why     - CNET](https://www.cnet.com/how-to/that-leftover-rice-could-be-making-you-sick-heres-why/#ftag=CAD590a51e)
  - [The Netflix Secret Menu Is Your Key To Unlocking Hundreds of New Movies     - CNET](https://www.cnet.com/tech/services-and-software/the-netflix-secret-menu-is-your-key-to-unlocking-hundreds-of-new-movies/#ftag=CAD590a51e)
- - [Meta launches its Meta AI chatbot in India with support for English only, a week after Google&#39;s Gemini app on Android debuted with support for 9 local languages &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240623/p9#a240623p9)
- - [Best Internet Providers in Clearwater, Florida     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-clearwater-fl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta launches its Meta AI chatbot in India with support for English only, a week after Google&#39;s Gemini app on Android debuted with support for 9 local languages &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240623/p9#a240623p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

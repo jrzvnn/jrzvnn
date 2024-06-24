@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can I touch you ?](http://9gag.com/gag/aAyp2KL)
- - 😝 [Title](http://9gag.com/gag/aO8mpZv)
- - 💣 [One Apple a day, keeps the IT problems away](http://9gag.com/gag/aRBVo8G)
- - 😝 [Shinji a real man.](http://9gag.com/gag/a9yPX1W)
- - 👉 [Say it!](http://9gag.com/gag/aVvXVdP)<!-- MEMES:END -->
+ - 😝 [Da best buddy](http://9gag.com/gag/aNDK3g3)
+ - 😝 [Canopy comes off airplane right after takeoff](http://9gag.com/gag/ae9pRrm)
+ - 💣 [This is the best joke in the entire movie...](http://9gag.com/gag/a7obnge)
+ - 😝 [She&#39;s a good mother wanting the best for her child](http://9gag.com/gag/avyLmOq)
+ - 👉 [When you see your gym crush..](http://9gag.com/gag/aVvXRNd)<!-- MEMES:END -->
 
 ---
 

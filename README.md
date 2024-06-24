@@ -162,7 +162,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In preliminary findings, EU says Apple&#39;s anti-steering rules violated DMA, says it is investigating whether Apple&#39;s developer fees breached EU rules too &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240624/p4#a240624p4)
+ - [In preliminary findings, EU says Apple&#39;s anti-steering rules breached DMA; EU is also investigating whether Apple&#39;s developer fees comply with EU rules &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240624/p4#a240624p4)
  - [Revolutionary Alzheimer’s Treatments Can’t Help Patients Who Go Undiagnosed](https://www.wired.com/story/wired-health-hilary-evans-dementia-alzheimers/)
  - [Post-Pandemic Recovery Isn’t Guaranteed](https://www.wired.com/story/wired-health-disaster-planning-lucy-easthope-pandemic/)
  - [Best Internet Providers in Roseville, California     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-roseville-ca/#ftag=CAD590a51e)

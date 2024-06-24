@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 15 Pro Max somehow fails to survive having a 90lb dumbbell dropped on it](https://appleinsider.com/articles/24/06/24/iphone-15-pro-max-somehow-fails-to-survive-having-a-90lb-dumbbell-dropped-on-it?utm_medium=rss)
- - [Apple&#39;s Core Technology Fee at the core of EU&#39;s first DMA violation investigation](https://appleinsider.com/articles/24/06/24/eu-takes-aim-at-apples-core-technology-fee-in-non-compliance-investigations?utm_medium=rss)
- - [We Tried HelloFresh and It Was Easy and Delicious](https://www.wired.com/review/hellofresh/)
- - [Apple is the first big tech company to be charged under the DMA rules and could be fined up to 10% of its annual global revenue, or $38B based on 2023 numbers &lpar;Thomas Ricker/The Verge&rpar;](http://www.techmeme.com/240624/p7#a240624p7)
- - [Unwelcome at the Debate, RFK Jr.&#39;s Star Shines on TikTok Live](https://www.wired.com/story/tiktok-livestream-town-hall-rfk-jr/)<!-- TECH:END -->
+ - [Turkish grocery delivery startup Getir agrees to a restructuring that will see Mubadala lead a $250M injection and acquire control of Getir&#39;s grocery operations &lpar;Ivan Levingston/Financial Times&rpar;](http://www.techmeme.com/240624/p9#a240624p9)
+ - [Microsoft Surface Pro &lpar;11th Edition&rpar; Review: An Overpriced 2-in-1](https://www.wired.com/review/microsoft-surface-pro-11th-edition-2024/)
+ - [Prosus, the largest external investor in Byju&#39;s with a 9.6% stake, says its stake in the Indian edtech giant is now worth zero; Prosus invested a total of $570M &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240624/p8#a240624p8)
+ - [iPhone 16 leaks and rumors explained: what to expect in the fall of 2024](https://appleinsider.com/articles/24/06/24/iphone-16-leaks-and-rumors-explained-what-to-expect-in-the-fall-of-2024?utm_medium=rss)
+ - [iPhone 15 Pro Max somehow fails to survive having a 90lb dumbbell dropped on it](https://appleinsider.com/articles/24/06/24/iphone-15-pro-max-somehow-fails-to-survive-having-a-90lb-dumbbell-dropped-on-it?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

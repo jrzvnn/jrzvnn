@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Say it!](http://9gag.com/gag/aVvXVdP)
- - 😝 [Fully accepted and welcomed](http://9gag.com/gag/apRBbR8)
- - 💣 [Title](http://9gag.com/gag/aO8mpZv)
+ - 😝 [Gorgeous views](http://9gag.com/gag/aD2mV9d)
+ - 😝 [This is the best joke in the entire movie...](http://9gag.com/gag/a7obnge)
+ - 💣 [Can I touch you ?](http://9gag.com/gag/aAyp2KL)
  - 😝 [Yay school&#39;s out for summer - or ever?](http://9gag.com/gag/aVvXBOM)
- - 👉 [Muntjacs are a genus of deer native to South and Southeast Asia.](http://9gag.com/gag/aGyROd0)<!-- MEMES:END -->
+ - 👉 [Say it!](http://9gag.com/gag/aVvXVdP)<!-- MEMES:END -->
 
 ---
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Sonos Deals: Save on Speakers, Soundbars and More     - CNET](https://www.cnet.com/deals/best-sonos-deals/#ftag=CAD590a51e)
  - [US Record Labels Sue AI Music Generators Suno and Udio for Copyright Infringement](https://www.wired.com/story/ai-music-generators-suno-and-udio-sued-for-copyright-infringement/)
+ - [Best Internet Providers in Torrance, California     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-torrance-ca/#ftag=CAD590a51e)
  - [Major record labels sue AI company behind ‘BBL Drizzy’](https://www.theverge.com/2024/6/24/24184710/riaa-ai-lawsuit-suno-udio-copyright-umg-sony-warner)
- - [Diplomats and others fear a rift between SoftBank and Naver over the ownership of messaging app Line could put stress on ties between Japan and South Korea &lpar;River Akira Davis/New York Times&rpar;](http://www.techmeme.com/240624/p13#a240624p13)
- - [Dozens of Tesla Cybertrucks vandalized by someone who really doesn’t like Elon Musk](https://www.theverge.com/2024/6/24/24184698/tesla-cybertruck-vandal-deface-elon-musk)
- - [Apple&#39;s iPhone assembly automation goal has hit some bumps in the road](https://appleinsider.com/articles/24/06/24/as-apple-embraces-automation-it-plans-to-scale-back-workers-on-its-production-lines?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Broke the Law With Its App Store Rules, EU Says     - CNET](https://www.cnet.com/tech/services-and-software/apple-broke-the-law-with-its-app-store-rules-eu-says/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

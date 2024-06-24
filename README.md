@@ -172,10 +172,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Guys, is this true ?](http://9gag.com/gag/adBpoA2)
- - 😝 [Fully accepted and welcomed](http://9gag.com/gag/apRBbR8)
- - 💣 [Can I touch you ?](http://9gag.com/gag/aAyp2KL)
- - 😝 [Your superpower: you can see the number showing probability you two sleeping together](http://9gag.com/gag/a87jVvZ)
- - 👉 [One Apple a day, keeps the IT problems away](http://9gag.com/gag/aRBVo8G)<!-- MEMES:END -->
+ - 😝 [Say it!](http://9gag.com/gag/aVvXVdP)
+ - 💣 [One Apple a day, keeps the IT problems away](http://9gag.com/gag/aRBVo8G)
+ - 😝 [Can I touch you ?](http://9gag.com/gag/aAyp2KL)
+ - 👉 [I don&#39;t think that&#39;s the problem](http://9gag.com/gag/aByrO1P)<!-- MEMES:END -->
 
 ---
 

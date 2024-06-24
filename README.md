@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Swifties aren&#39;t gonna like this.](http://9gag.com/gag/aD2mMQZ)
- - 😝 [One Apple a day, keeps the IT problems away](http://9gag.com/gag/aRBVo8G)
- - 💣 [Cristiano](http://9gag.com/gag/aYQwqvv)
- - 😝 [The hate within](http://9gag.com/gag/aAypXx9)
- - 👉 [Your superpower: you can see the number showing probability you two sleeping together](http://9gag.com/gag/a87jVvZ)<!-- MEMES:END -->
+ - 😝 [That means somethings are truly bizarre. No joke.](http://9gag.com/gag/aRBVRG2)
+ - 😝 [You can tell the Second this boy became a man](http://9gag.com/gag/aXPXeGP)
+ - 💣 [I&#39;m old school I like my women without the peenus](http://9gag.com/gag/aKGBpXb)
+ - 😝 [Party among friends](http://9gag.com/gag/aZZNdP9)
+ - 👉 [He is a man of focus meme](http://9gag.com/gag/avyLDLn)<!-- MEMES:END -->
 
 ---
 

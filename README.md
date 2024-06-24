@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guys, is this true ?](http://9gag.com/gag/adBpoA2)
- - 😝 [Say it!](http://9gag.com/gag/aVvXVdP)
- - 💣 [Weather forecast today](http://9gag.com/gag/aMVQXmA)
  - 😝 [Your superpower: you can see the number showing probability you two sleeping together](http://9gag.com/gag/a87jVvZ)
- - 👉 [Free charge](http://9gag.com/gag/axyGm61)<!-- MEMES:END -->
+ - 😝 [Best hangover scene ever](http://9gag.com/gag/an7Br1z)
+ - 💣 [Ghibli dreams](http://9gag.com/gag/a87jVA3)
+ - 😝 [This is on another level.](http://9gag.com/gag/ayNnv9X)
+ - 👉 [Hawk Tuah! Throw garbage at that thing.](http://9gag.com/gag/aQzn2Wq)<!-- MEMES:END -->
 
 ---
 

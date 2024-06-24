@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Shein confidentially filed with UK&#39;s markets regulator in early June for a potential London IPO; it was valued at $66B in a 2023 fundraising round &lpar;Reuters&rpar;](http://www.techmeme.com/240624/p6#a240624p6)
  - [Wedbush: Apple will lead consumer AI amidst iPhone 16 super cycle](https://appleinsider.com/articles/24/06/24/wedbush-apple-will-lead-consumer-ai-amidst-iphone-super-cycle?utm_medium=rss)
  - [Apple&#39;s Core Technology Fee at the core of EU&#39;s first DMA violation investigation](https://appleinsider.com/articles/24/06/24/eu-takes-aim-at-apples-core-technology-fee-in-non-compliance-investigations?utm_medium=rss)
  - [An interview with Open Source Initiative executive director Stefano Maffulli on what makes an AI open source, creating the Open Source AI Definition, and more &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240624/p5#a240624p5)
- - [Shower Running Cold? It Might Be Time for a New Water Heater     - CNET](https://www.cnet.com/home/energy-and-utilities/shower-running-cold-it-might-be-time-for-a-new-water-heater/#ftag=CAD590a51e)
- - [EU says Apple&#39;s App Store Is in Breach of Rules](https://www.wired.com/story/apple-hits-a-major-roadblock-as-eu-targets-app-store/)<!-- TECH:END -->
+ - [Shower Running Cold? It Might Be Time for a New Water Heater     - CNET](https://www.cnet.com/home/energy-and-utilities/shower-running-cold-it-might-be-time-for-a-new-water-heater/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

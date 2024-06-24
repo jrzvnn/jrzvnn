@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Hue lights, tvOS 18, Qi2 chargers, &amp; more on the HomeKit Insider Podcast](https://appleinsider.com/articles/24/06/24/new-hue-lights-tvos-18-qi2-chargers-more-on-the-homekit-insider-podcast?utm_medium=rss)
- - [Apple&#39;s Core Technology Fee at the center of EU&#39;s first DMA violation investigation](https://appleinsider.com/articles/24/06/24/eu-takes-aim-at-apples-core-technology-fee-in-non-compliance-investigations?utm_medium=rss)
- - [Sources describe Apple&#39;s efforts to fully automate iPhone assembly lines, helping it reduce its reliance on China, including by buying startups like DarwinAI &lpar;Wayne Ma/The Information&rpar;](http://www.techmeme.com/240624/p11#a240624p11)
- - [Shopify unveils AI-focused updates for merchants, including reply suggestions for customer chats, and launches its AI chatbot Sidekick in early access &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240624/p10#a240624p10)
- - [The 9 Best TVs We’ve Reviewed, Plus Buying Advice for Normies &lpar;2024&rpar;](https://www.wired.com/gallery/best-tvs/)<!-- TECH:END -->
+ - [As Apple embraces automation, it plans to scale back workers on its production lines](https://appleinsider.com/articles/24/06/24/as-apple-embraces-automation-it-plans-to-scale-back-workers-on-its-production-lines?utm_medium=rss)
+ - [SwitchBot’s cheap universal remote can control your smart home, too](https://www.theverge.com/2024/6/24/24184673/switchbot-smart-home-universal-remote-matter-bluetooth)
+ - [4 Best Chromebooks &lpar;2024&rpar;: Tested and Reviewed](https://www.wired.com/gallery/best-chromebooks/)
+ - [Netflix’s Greg Peters on a new culture memo and where ads, AI, and games fit in](https://www.theverge.com/24182520/netflix-co-ceo-memo-ads-subscription-price-decoder-podcast-interview)
+ - [New Hue lights, tvOS 18, Qi2 chargers, &amp; more on the HomeKit Insider Podcast](https://appleinsider.com/articles/24/06/24/new-hue-lights-tvos-18-qi2-chargers-more-on-the-homekit-insider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Klarity, which uses AI to let companies automate reviews of invoices and other documents, raised a $70M Series B led by Nat Friedman and Daniel Gross &lpar;Kalley Huang/The Information&rpar;](http://www.techmeme.com/240624/p19#a240624p19)
- - [More M4: When the Mac will get upgraded with the latest Apple Silicon](https://appleinsider.com/articles/24/06/24/more-m4-when-the-mac-will-get-upgraded-with-the-latest-apple-silicon?utm_medium=rss)
- - [Blackmagic’s free camera app is now available on Android, but there’s a catch](https://www.theverge.com/2024/6/24/24184789/blackmagic-design-free-camera-app-android-samsung-galaxy-google-pixel)
- - [Uber has begun locking NYC drivers out of its app during low demand periods to fight a local rule that requires drivers be paid for idle time between rides &lpar;Evan Gorelick/Bloomberg&rpar;](http://www.techmeme.com/240624/p18#a240624p18)
- - [iPhone mirroring is now available for developers to try](https://www.theverge.com/2024/6/24/24184882/apple-iphone-mirroring-ios-18-macos-sequoia-developer-beta)<!-- TECH:END -->
+ - [First alternative app store support for iPad is in the second iPadOS 18 beta](https://appleinsider.com/articles/24/06/24/first-alternative-app-store-support-for-ipad-is-in-the-second-ipados-18-beta?utm_medium=rss)
+ - [Meta is incorrectly marking real photos as ‘Made by AI’](https://www.theverge.com/2024/6/24/24184795/meta-instagram-incorrect-made-by-ai-photo-labels)
+ - [Amazon has the Sabrent Thunderbolt 4 KVM Switch in stock for $299.97](https://appleinsider.com/articles/24/06/24/amazon-has-the-sabrent-thunderbolt-4-kvm-switch-in-stock-for-29997?utm_medium=rss)
+ - [Paramount Plus is getting yet another price hike](https://www.theverge.com/2024/6/24/24184979/paramount-plus-price-hike-august-2024)
+ - [Deals: Amazon drops Apple Watch Series 9 to $299, Apple Watch Ultra 2 to $714](https://appleinsider.com/articles/24/06/22/deals-amazon-drops-apple-watch-series-9-to-299-apple-watch-ultra-2-to-714?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

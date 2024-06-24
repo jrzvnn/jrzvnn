@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple says no to PC emulators on iOS](https://www.theverge.com/2024/6/24/24185066/apple-pc-dos-emulators-ios-rejection)
+ - [The entry-level Steam Deck is cheaper than ever ahead of Steam’s Summer Sale](https://www.theverge.com/2024/6/24/24185077/valve-steam-summer-sale-steam-deck-lcd-pc-deal-sale)
  - [SharePlay in Apple Music gets more shareable in iPadOS 18](https://appleinsider.com/articles/24/06/24/shareplay-in-apple-music-gets-more-shareable-in-ipados-18?utm_medium=rss)
  - [Auto industry pleads with Biden administration to ‘reconsider’ automatic braking rule](https://www.theverge.com/2024/6/24/24185107/aeb-nhtsa-reconsider-auto-industry)
- - [Whistleblower claims to have nearly died because of illegal chemical exposure from Apple](https://appleinsider.com/articles/24/06/24/whistleblower-claims-to-have-nearly-died-because-of-illegal-chemical-exposure-from-apple?utm_medium=rss)
- - [Source: OpenAI has changed its policies towards secondary share sales to let current and former employees participate equally in its annual tender offers &lpar;Hayden Field/CNBC&rpar;](http://www.techmeme.com/240624/p21#a240624p21)
- - [Thwarting cyberattacks from China is DHS’s top infrastructure security priority](https://www.theverge.com/2024/6/24/24185013/homeland-security-china-artificial-intelligence-priorities-memo-mayorkas)<!-- TECH:END -->
+ - [Whistleblower claims to have nearly died because of illegal chemical exposure from Apple](https://appleinsider.com/articles/24/06/24/whistleblower-claims-to-have-nearly-died-because-of-illegal-chemical-exposure-from-apple?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

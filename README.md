@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tired of BS propaganda, Hawk tuak, and other sh*t. Reposting old memes !](http://9gag.com/gag/aLnBr1A)
- - 😝 [Don&#39;t know who you are sir, but I concur.](http://9gag.com/gag/agmNj5g)
- - 💣 [That means somethings are truly bizarre. No joke.](http://9gag.com/gag/aRBVRG2)
- - 😝 [I&#39;m old school I like my women without the peenus](http://9gag.com/gag/aKGBpXb)
- - 👉 [When you see your gym crush..](http://9gag.com/gag/aVvXRNd)<!-- MEMES:END -->
+ - 😝 [Guys, is this true ?](http://9gag.com/gag/adBpoA2)
+ - 😝 [Can I touch you ?](http://9gag.com/gag/aAyp2KL)
+ - 💣 [Say it!](http://9gag.com/gag/aVvXVdP)
+ - 😝 [Muntjacs are a genus of deer native to South and Southeast Asia.](http://9gag.com/gag/aGyROd0)
+ - 👉 [Swifties aren&#39;t gonna like this.](http://9gag.com/gag/aD2mMQZ)<!-- MEMES:END -->
 
 ---
 

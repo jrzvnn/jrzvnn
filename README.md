@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yay school&#39;s out for summer - or ever?](http://9gag.com/gag/aVvXBOM)
- - 😝 [Title](http://9gag.com/gag/aO8mpZv)
- - 💣 [Nobody bought it except the influencers](http://9gag.com/gag/aQznOxr)
- - 😝 [I don&#39;t think that&#39;s the problem](http://9gag.com/gag/aByrO1P)
- - 👉 [Say it!](http://9gag.com/gag/aVvXVdP)<!-- MEMES:END -->
+ - 😝 [Weather forecast today](http://9gag.com/gag/aMVQXmA)
+ - 😝 [Are Germans the ultimate cucks?](http://9gag.com/gag/a9yPB50)
+ - 💣 [Your superpower: you can see the number showing probability you two sleeping together](http://9gag.com/gag/a87jVvZ)
+ - 😝 [One Apple a day, keeps the IT problems away](http://9gag.com/gag/aRBVo8G)
+ - 👉 [Fully accepted and welcomed](http://9gag.com/gag/apRBbR8)<!-- MEMES:END -->
 
 ---
 

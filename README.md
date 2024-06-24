@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [12 viewers on Twitch, what&#39;s up?](http://9gag.com/gag/aE0zOnK)
- - 😝 [Wait! I thought people hated strong female leads.](http://9gag.com/gag/aByr4eP)
- - 💣 [Singlehandedly](http://9gag.com/gag/agmN201)
- - 😝 [Ghibli dreams](http://9gag.com/gag/a87jVA3)
- - 👉 [This is the best joke in the entire movie...](http://9gag.com/gag/a7obnge)<!-- MEMES:END -->
+ - 😝 [Free charge](http://9gag.com/gag/axyGm61)
+ - 😝 [Why r u geh](http://9gag.com/gag/aVvXBW8)
+ - 💣 [Can I touch you ?](http://9gag.com/gag/aAyp2KL)
+ - 😝 [Say it!](http://9gag.com/gag/aVvXVdP)
+ - 👉 [Canopy comes off airplane right after takeoff](http://9gag.com/gag/ae9pRrm)<!-- MEMES:END -->
 
 ---
 

@@ -171,10 +171,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gorgeous views](http://9gag.com/gag/aD2mV9d)
- - 😝 [This is the best joke in the entire movie...](http://9gag.com/gag/a7obnge)
+ - 😝 [Henry Cavill brothers! There&#39;s more of him? Oh...](http://9gag.com/gag/azxVQAj)
+ - 😝 [Fully accepted and welcomed](http://9gag.com/gag/apRBbR8)
  - 💣 [Can I touch you ?](http://9gag.com/gag/aAyp2KL)
- - 😝 [Yay school&#39;s out for summer - or ever?](http://9gag.com/gag/aVvXBOM)
+ - 😝 [Canopy comes off airplane right after takeoff](http://9gag.com/gag/ae9pRrm)
  - 👉 [Say it!](http://9gag.com/gag/aVvXVdP)<!-- MEMES:END -->
 
 ---

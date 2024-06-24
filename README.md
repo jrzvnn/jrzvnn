@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Klarity, which uses AI to let companies automate reviews of invoices and other documents, raised a $70M Series B led by Nat Friedman and Daniel Gross &lpar;Kalley Huang/The Information&rpar;](http://www.techmeme.com/240624/p19#a240624p19)
  - [More M4: When the Mac will get upgraded with the latest Apple Silicon](https://appleinsider.com/articles/24/06/24/more-m4-when-the-mac-will-get-upgraded-with-the-latest-apple-silicon?utm_medium=rss)
  - [Blackmagic’s free camera app is now available on Android, but there’s a catch](https://www.theverge.com/2024/6/24/24184789/blackmagic-design-free-camera-app-android-samsung-galaxy-google-pixel)
  - [Uber has begun locking NYC drivers out of its app during low demand periods to fight a local rule that requires drivers be paid for idle time between rides &lpar;Evan Gorelick/Bloomberg&rpar;](http://www.techmeme.com/240624/p18#a240624p18)
- - [iPhone mirroring is now available for developers to try](https://www.theverge.com/2024/6/24/24184882/apple-iphone-mirroring-ios-18-macos-sequoia-developer-beta)
- - [Nvidia stock is down ~15% from June 20, losing ~$500B in market cap, after becoming the most valuable company on June 18; its CEO recently sold ~$95M in shares &lpar;Financial Times&rpar;](http://www.techmeme.com/240624/p17#a240624p17)<!-- TECH:END -->
+ - [iPhone mirroring is now available for developers to try](https://www.theverge.com/2024/6/24/24184882/apple-iphone-mirroring-ios-18-macos-sequoia-developer-beta)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

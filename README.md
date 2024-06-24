@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 15 Pro Max somehow fails to survive having a 90lb dumbbell dropped on it](https://appleinsider.com/articles/24/06/24/iphone-15-pro-max-somehow-fails-to-survive-having-a-90lb-dumbbell-dropped-on-it?utm_medium=rss)
+ - [Apple&#39;s Core Technology Fee at the core of EU&#39;s first DMA violation investigation](https://appleinsider.com/articles/24/06/24/eu-takes-aim-at-apples-core-technology-fee-in-non-compliance-investigations?utm_medium=rss)
+ - [We Tried HelloFresh and It Was Easy and Delicious](https://www.wired.com/review/hellofresh/)
  - [Apple is the first big tech company to be charged under the DMA rules and could be fined up to 10% of its annual global revenue, or $38B based on 2023 numbers &lpar;Thomas Ricker/The Verge&rpar;](http://www.techmeme.com/240624/p7#a240624p7)
- - [Unwelcome at the Debate, RFK Jr.&#39;s Star Shines on TikTok Live](https://www.wired.com/story/tiktok-livestream-town-hall-rfk-jr/)
- - [Sources: Shein confidentially filed with UK&#39;s markets regulator in early June for a potential London IPO; it was valued at $66B in a 2023 fundraising round &lpar;Reuters&rpar;](http://www.techmeme.com/240624/p6#a240624p6)
- - [Wedbush: Apple will lead consumer AI amidst iPhone 16 super cycle](https://appleinsider.com/articles/24/06/24/wedbush-apple-will-lead-consumer-ai-amidst-iphone-super-cycle?utm_medium=rss)
- - [Apple&#39;s Core Technology Fee at the core of EU&#39;s first DMA violation investigation](https://appleinsider.com/articles/24/06/24/eu-takes-aim-at-apples-core-technology-fee-in-non-compliance-investigations?utm_medium=rss)<!-- TECH:END -->
+ - [Unwelcome at the Debate, RFK Jr.&#39;s Star Shines on TikTok Live](https://www.wired.com/story/tiktok-livestream-town-hall-rfk-jr/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

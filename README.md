@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is the best joke in the entire movie...](http://9gag.com/gag/a7obnge)
- - 😝 [Say it!](http://9gag.com/gag/aVvXVdP)
+ - 😝 [Guys, is this true ?](http://9gag.com/gag/adBpoA2)
+ - 😝 [Title](http://9gag.com/gag/aO8mpZv)
  - 💣 [Canopy comes off airplane right after takeoff](http://9gag.com/gag/ae9pRrm)
- - 😝 [Fully accepted and welcomed](http://9gag.com/gag/apRBbR8)
- - 👉 [Title](http://9gag.com/gag/aO8mpZv)<!-- MEMES:END -->
+ - 😝 [Say it!](http://9gag.com/gag/aVvXVdP)
+ - 👉 [Muntjacs are a genus of deer native to South and Southeast Asia.](http://9gag.com/gag/aGyROd0)<!-- MEMES:END -->
 
 ---
 

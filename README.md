@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Muntjacs are a genus of deer native to South and Southeast Asia.](http://9gag.com/gag/aGyROd0)
- - 😝 [Free charge](http://9gag.com/gag/axyGm61)
- - 💣 [I don&#39;t think that&#39;s the problem](http://9gag.com/gag/aByrO1P)
- - 😝 [Title](http://9gag.com/gag/aO8mpZv)
- - 👉 [Say it!](http://9gag.com/gag/aVvXVdP)<!-- MEMES:END -->
+ - 😝 [Can I touch you ?](http://9gag.com/gag/aAyp2KL)
+ - 😝 [This is the best joke in the entire movie...](http://9gag.com/gag/a7obnge)
+ - 💣 [Say it!](http://9gag.com/gag/aVvXVdP)
+ - 😝 [One Apple a day, keeps the IT problems away](http://9gag.com/gag/aRBVo8G)
+ - 👉 [Title](http://9gag.com/gag/aO8mpZv)<!-- MEMES:END -->
 
 ---
 

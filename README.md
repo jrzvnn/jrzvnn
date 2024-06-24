@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Canopy comes off airplane right after takeoff](http://9gag.com/gag/ae9pRrm)
  - 😝 [Nobody bought it except the influencers](http://9gag.com/gag/aQznOxr)
- - 😝 [Fully accepted and welcomed](http://9gag.com/gag/apRBbR8)
- - 💣 [Can I touch you ?](http://9gag.com/gag/aAyp2KL)
- - 😝 [Title](http://9gag.com/gag/aO8mpZv)
- - 👉 [Say it!](http://9gag.com/gag/aVvXVdP)<!-- MEMES:END -->
+ - 💣 [Fully accepted and welcomed](http://9gag.com/gag/apRBbR8)
+ - 😝 [Your superpower: you can see the number showing probability you two sleeping together](http://9gag.com/gag/a87jVvZ)
+ - 👉 [Title](http://9gag.com/gag/aO8mpZv)<!-- MEMES:END -->
 
 ---
 

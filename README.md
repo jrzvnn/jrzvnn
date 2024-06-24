@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Weather forecast today](http://9gag.com/gag/aMVQXmA)
- - 😝 [Are Germans the ultimate cucks?](http://9gag.com/gag/a9yPB50)
- - 💣 [Your superpower: you can see the number showing probability you two sleeping together](http://9gag.com/gag/a87jVvZ)
- - 😝 [One Apple a day, keeps the IT problems away](http://9gag.com/gag/aRBVo8G)
- - 👉 [Fully accepted and welcomed](http://9gag.com/gag/apRBbR8)<!-- MEMES:END -->
+ - 😝 [Da best buddy](http://9gag.com/gag/aNDK3g3)
+ - 😝 [She&#39;s a good mother wanting the best for her child](http://9gag.com/gag/avyLmOq)
+ - 💣 [Don&#39;t know who you are sir, but I concur.](http://9gag.com/gag/agmNj5g)
+ - 😝 [When you see your gym crush..](http://9gag.com/gag/aVvXRNd)
+ - 👉 [That means somethings are truly bizarre. No joke.](http://9gag.com/gag/aRBVRG2)<!-- MEMES:END -->
 
 ---
 

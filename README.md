@@ -171,10 +171,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sorry for the emoji](http://9gag.com/gag/aByrPjP)
- - 😝 [One Apple a day, keeps the IT problems away](http://9gag.com/gag/aRBVo8G)
- - 💣 [It&#39;s all your fault.](http://9gag.com/gag/a5QK2ZO)
  - 😝 [U.S. sprinter Noah Lyles pulled out a Yu-Gi-Oh trading card before winning his 100-meter dash at the U.S. track and field qualifiers.](http://9gag.com/gag/ajPnWWg)
+ - 😝 [Say it!](http://9gag.com/gag/aVvXVdP)
+ - 💣 [I don&#39;t think that&#39;s the problem](http://9gag.com/gag/aByrO1P)
+ - 😝 [Guys, is this true ?](http://9gag.com/gag/adBpoA2)
  - 👉 [Fully accepted and welcomed](http://9gag.com/gag/apRBbR8)<!-- MEMES:END -->
 
 ---

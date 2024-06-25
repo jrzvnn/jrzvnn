@@ -172,10 +172,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Title](http://9gag.com/gag/aO8mpZv)
- - 😝 [Surgical lights cast no visible shadow](http://9gag.com/gag/amo8d32)
+ - 😝 [Fascinating](http://9gag.com/gag/aPAGrYn)
  - 💣 [Your superpower: you can see the number showing probability you two sleeping together](http://9gag.com/gag/a87jVvZ)
- - 😝 [Crossing the Ganges](http://9gag.com/gag/a87jzw3)
- - 👉 [What is my godamn superpower ?](http://9gag.com/gag/aLnBbn6)<!-- MEMES:END -->
+ - 😝 [What is my godamn superpower ?](http://9gag.com/gag/aLnBbn6)
+ - 👉 [Is that a bazooka are you holding?](http://9gag.com/gag/an7BWQn)<!-- MEMES:END -->
 
 ---
 

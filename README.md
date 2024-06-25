@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Uber Freight will use Aurora&#39;s driverless trucks on routes between Dallas and Houston as part of a new long-term deal, following a three-year commercial pilot &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/240625/p10#a240625p10)
  - [The Best Instant Coffees &lpar;2024&rpar;: Tested and Reviewed](https://www.wired.com/gallery/best-instant-coffee/)
  - [Sources: Meituan considers raising $1B+ via a bond offering this year as the food delivery and shopping platform seeks to repay some debt and fund its expansion &lpar;Bloomberg&rpar;](http://www.techmeme.com/240625/p9#a240625p9)
  - [Apple and Meta iOS 18 AI chatbot integration discussions ended long ago](https://appleinsider.com/articles/24/06/24/apple-and-meta-not-in-discussions-over-ai-chatbot-report-claims?utm_medium=rss)
- - [Apple&#39;s on-device email categorization is a feature years in the making](https://appleinsider.com/articles/24/06/25/apples-on-device-email-categorization-is-a-feature-years-in-the-making?utm_medium=rss)
- - [Tesla Cybertuck recalled again, this time over faulty wiper and trim](https://www.theverge.com/2024/6/25/24185472/tesla-cybertruck-recall-faulty-wiper-trim)<!-- TECH:END -->
+ - [Apple&#39;s on-device email categorization is a feature years in the making](https://appleinsider.com/articles/24/06/25/apples-on-device-email-categorization-is-a-feature-years-in-the-making?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

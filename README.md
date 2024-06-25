@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My fellow tech bros...](http://9gag.com/gag/aMVQDwA)
- - 😝 [Fascinating](http://9gag.com/gag/aPAGrYn)
- - 💣 [Guys Literally Only Want One Thing And It&#39;s F**king Disgusting](http://9gag.com/gag/a2vqGjO)
- - 😝 [What is my godamn superpower ?](http://9gag.com/gag/aLnBbn6)
- - 👉 [Swifties aren&#39;t gonna like this.](http://9gag.com/gag/aD2mMQZ)<!-- MEMES:END -->
+ - 😝 [Swifties aren&#39;t gonna like this.](http://9gag.com/gag/aD2mMQZ)
+ - 😝 [Crossing the Ganges](http://9gag.com/gag/a87jzw3)
+ - 💣 [The highest court in Israel decided these guys have to go into military service from now on.](http://9gag.com/gag/aW4ONXd)
+ - 😝 [Surgical lights cast no visible shadow](http://9gag.com/gag/amo8d32)
+ - 👉 [What is my godamn superpower ?](http://9gag.com/gag/aLnBbn6)<!-- MEMES:END -->
 
 ---
 

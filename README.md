@@ -171,10 +171,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Swifties aren&#39;t gonna like this.](http://9gag.com/gag/aD2mMQZ)
- - 😝 [Surgical lights cast no visible shadow](http://9gag.com/gag/amo8d32)
- - 💣 [And indeed a hundred thousand](http://9gag.com/gag/a9yPOoD)
- - 😝 [What is my godamn superpower ?](http://9gag.com/gag/aLnBbn6)
+ - 😝 [Truly a beautiful human inside and out...we can learn from her](http://9gag.com/gag/a34Le6Q)
+ - 😝 [Only the most professional people get hired](http://9gag.com/gag/abAbR6r)
+ - 💣 [Zooming](http://9gag.com/gag/ayNnV18)
+ - 😝 [Is that a bazooka are you holding?](http://9gag.com/gag/an7BWQn)
  - 👉 [The highest court in Israel decided these guys have to go into military service from now on.](http://9gag.com/gag/aW4ONXd)<!-- MEMES:END -->
 
 ---

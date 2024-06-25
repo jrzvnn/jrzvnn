@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China’s lunar probe returns to Earth with first-ever samples from the far side of the Moon](https://www.theverge.com/2024/6/25/24185575/china-lunar-probe-lands-earth-first-moon-far-side-sample)
+ - [Google announces surprise Pixel hardware event in August](https://www.theverge.com/2024/6/25/24185767/google-pixel-hardware-ai-event-august-date)
  - [Elgato’s jumbo-sized Stream Deck XL is $50 off](https://www.theverge.com/2024/6/25/24185518/elgato-stream-deck-xl-twitch-stream-controller-nest-thermostat-deal-sale)
  - [Mattel is making games like Uno more accessible for colorblind players](https://www.theverge.com/2024/6/25/24185625/mattel-board-card-games-colorblind-accessible-uno-blokus-phase-ten-skip-bo)
- - [Threads will let users like and see replies to their posts showing on federated social networks like Mastodon, and expands fediverse support to 100+ countries &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240625/p19#a240625p19)
- - [Stability AI says it closed a new funding round; sources: investors committed $80M to take over the company, and some suppliers have forgiven debt obligations &lpar;Deepa Seetharaman/Wall Street Journal&rpar;](http://www.techmeme.com/240625/p18#a240625p18)
- - [You can own Steve Jobs&#39; iconic 1984 Macintosh ad suit -- but it&#39;ll cost you](https://appleinsider.com/articles/24/06/25/you-can-own-steve-jobs-iconic-1984-macintosh-ad-suit----but-itll-cost-you?utm_medium=rss)<!-- TECH:END -->
+ - [Threads will let users like and see replies to their posts showing on federated social networks like Mastodon, and expands fediverse support to 100+ countries &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240625/p19#a240625p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

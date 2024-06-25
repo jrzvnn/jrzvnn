@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [VW will invest $5 billion in Rivian as part of new joint venture](https://www.theverge.com/2024/6/25/24185946/vw-rivian-joint-venture-investment-software-r2)
  - [New firmware available for AirPods, AirPods Pro, &amp; AirPods Max](https://appleinsider.com/articles/24/06/25/new-firmware-available-for-airpods-airpods-pro-airpods-max?utm_medium=rss)
  - [This Matter-enabled smart ceiling light costs under $100](https://www.theverge.com/2024/6/25/24185684/lifx-super-color-ceiling-light-matter-price-specs)
  - [Dr Disrespect’s Twitch ban, explained](https://www.theverge.com/24185864/dr-disrespect-twitch-ban)
- - [Users of the popular AI chatbot platform Character.AI are reporting that their bots&#39; personalities changed a few days ago and aren&#39;t as fun as they once were &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/240625/p24#a240625p24)
- - [The 29 Best Shows on Apple TV+ Right Now &lpar;July 2024&rpar;](https://www.wired.com/story/best-apple-tv-plus-shows/)<!-- TECH:END -->
+ - [Users of the popular AI chatbot platform Character.AI are reporting that their bots&#39; personalities changed a few days ago and aren&#39;t as fun as they once were &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/240625/p24#a240625p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fascinating](http://9gag.com/gag/aPAGrYn)
- - 😝 [Swifties aren&#39;t gonna like this.](http://9gag.com/gag/aD2mMQZ)
- - 💣 [Yay school&#39;s out for summer - or ever?](http://9gag.com/gag/aVvXBOM)
+ - 😝 [I don&#39;t think that&#39;s the problem](http://9gag.com/gag/aByrO1P)
  - 😝 [Your superpower: you can see the number showing probability you two sleeping together](http://9gag.com/gag/a87jVvZ)
- - 👉 [Tired of BS propaganda, Hawk tuak, and other sh*t. Reposting old memes !](http://9gag.com/gag/aLnBr1A)<!-- MEMES:END -->
+ - 💣 [Swifties aren&#39;t gonna like this.](http://9gag.com/gag/aD2mMQZ)
+ - 😝 [Muntjacs are a genus of deer native to South and Southeast Asia.](http://9gag.com/gag/aGyROd0)
+ - 👉 [Fascinating](http://9gag.com/gag/aPAGrYn)<!-- MEMES:END -->
 
 ---
 

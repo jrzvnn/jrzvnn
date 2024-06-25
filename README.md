@@ -172,10 +172,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Surgical lights cast no visible shadow](http://9gag.com/gag/amo8d32)
- - 😝 [Your superpower: you can see the number showing probability you two sleeping together](http://9gag.com/gag/a87jVvZ)
- - 💣 [Canopy comes off airplane right after takeoff](http://9gag.com/gag/ae9pRrm)
+ - 😝 [Guys Literally Only Want One Thing And It&#39;s F**king Disgusting](http://9gag.com/gag/a2vqGjO)
+ - 💣 [Deliveryyy](http://9gag.com/gag/aGyRO3n)
  - 😝 [And indeed a hundred thousand](http://9gag.com/gag/a9yPOoD)
- - 👉 [Title](http://9gag.com/gag/aO8mpZv)<!-- MEMES:END -->
+ - 👉 [Hawk Tuah! Throw garbage at that thing.](http://9gag.com/gag/aQzn2Wq)<!-- MEMES:END -->
 
 ---
 

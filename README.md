@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Seven things I learned about the Sony car while playing Gran Turismo inside one](https://www.theverge.com/2024/6/24/24185255/sony-afeela-gran-turismo-privacy-wheel)
+ - [Sources: US is probing China Mobile, China Telecom, and China Unicom over concerns they are providing Americans&#39; data to Beijing through their US cloud services &lpar;Alexandra Alper/Reuters&rpar;](http://www.techmeme.com/240624/p26#a240624p26)
+ - [Julian Assange is ‘free,’ will plead guilty to leaking national security secrets](https://www.theverge.com/2024/6/24/24185279/wikileaks-julian-assange-plea-agreement)
  - [Q&amp;A with Netflix co-CEO Greg Peters on updating the company&#39;s famous culture memo, its advertising ambitions, bundling, game streaming, AI, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240624/p25#a240624p25)
- - [Today&#39;s Wordle Hints, Answer and Help for June 25, #1102     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-answer-and-help-for-june-25-1102/#ftag=CAD590a51e)
- - [Gmail’s Gemini AI sidebar and email summaries are rolling out now](https://www.theverge.com/2024/6/24/24185277/google-gmail-gemini-ai-sidebar)
- - [Best Internet Providers in Lubbock, Texas     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-lubbock-tx/#ftag=CAD590a51e)
- - [Cozey Ciello XL Couch: Fine—If You’ve Got the Space for It](https://www.wired.com/review/cozey-ciello-xl/)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for June 25, #1102     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-answer-and-help-for-june-25-1102/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

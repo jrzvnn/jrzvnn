@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ChatGPT’s Mac app is here, but its flirty advanced voice mode has been delayed](https://www.theverge.com/2024/6/25/24186032/openai-chatgpt-mac-app-advanced-voice-mode-delayed)
  - [Chicago-based Formic, which provides robots-as-a-service automation to US manufacturers, raised $27.4M, bringing its total Series A funding to $52M+ &lpar;Brianna Wessling/The Robot Report&rpar;](http://www.techmeme.com/240625/p31#a240625p31)
  - [Forza Horizon 4 will be delisted from Microsoft stores and Steam in December](https://www.theverge.com/2024/6/25/24185972/forza-horizon-4-xbox-pc-microsoft-steam-delisted)
  - [OpenAI delays the release of its advanced Voice Mode for ChatGPT by a month to address safety issues and plans to roll out the feature to Plus users in the fall &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/240625/p30#a240625p30)
- - [Reddit says it will update its robots.txt &quot;to be as clear as possible&quot; that companies using an automated agent to access Reddit need to abide by its terms &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/240625/p29#a240625p29)
- - [8BitDo’s $29.99 Ultimate 2C controller adds two more shoulder buttons](https://www.theverge.com/2024/6/25/24185806/gaming-8bitdo-controller-ultimate-2c-hall-effect)<!-- TECH:END -->
+ - [Reddit says it will update its robots.txt &quot;to be as clear as possible&quot; that companies using an automated agent to access Reddit need to abide by its terms &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/240625/p29#a240625p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

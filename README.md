@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Swifties aren&#39;t gonna like this.](http://9gag.com/gag/aD2mMQZ)
- - 😝 [Crossing the Ganges](http://9gag.com/gag/a87jzw3)
- - 💣 [The highest court in Israel decided these guys have to go into military service from now on.](http://9gag.com/gag/aW4ONXd)
- - 😝 [Surgical lights cast no visible shadow](http://9gag.com/gag/amo8d32)
- - 👉 [What is my godamn superpower ?](http://9gag.com/gag/aLnBbn6)<!-- MEMES:END -->
+ - 😝 [Title](http://9gag.com/gag/aKGBN61)
+ - 😝 [WikiLeaks Founder Julian Assange has just reached a plea deal with the U.S. Justice Department of Justice allowing him to be released from prison.](http://9gag.com/gag/a4PLrGZ)
+ - 💣 [Mamma Mia](http://9gag.com/gag/aVvX4Ow)
+ - 😝 [Not another repost.](http://9gag.com/gag/aO8mA92)
+ - 👉 [They are living with us, near you, maybe they are your neighbours...or maybe it&#39;s you !](http://9gag.com/gag/a9yPNXj)<!-- MEMES:END -->
 
 ---
 

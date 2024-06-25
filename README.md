@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Are Germans the ultimate cucks?](http://9gag.com/gag/a9yPB50)
- - 😝 [Guys Literally Only Want One Thing And It&#39;s F**king Disgusting](http://9gag.com/gag/a2vqGjO)
- - 💣 [Ultra reaction](http://9gag.com/gag/aByrvdN)
- - 😝 [Fascinating](http://9gag.com/gag/aPAGrYn)
- - 👉 [And indeed a hundred thousand](http://9gag.com/gag/a9yPOoD)<!-- MEMES:END -->
+ - 😝 [Nobody bought it except the influencers](http://9gag.com/gag/aQznOxr)
+ - 😝 [Title](http://9gag.com/gag/aKGBN61)
+ - 💣 [Guys, is this true ?](http://9gag.com/gag/adBpoA2)
+ - 😝 [What is my godamn superpower ?](http://9gag.com/gag/aLnBbn6)
+ - 👉 [Surgical lights cast no visible shadow](http://9gag.com/gag/amo8d32)<!-- MEMES:END -->
 
 ---
 

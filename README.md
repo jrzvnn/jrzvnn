@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Hear me out... `](http://9gag.com/gag/amo8beo)
- - 😝 [What is my godamn superpower ?](http://9gag.com/gag/aLnBbn6)
- - 💣 [Your superpower: you can see the number showing probability you two sleeping together](http://9gag.com/gag/a87jVvZ)
- - 😝 [Crossing the Ganges](http://9gag.com/gag/a87jzw3)
- - 👉 [The highest court in Israel decided these guys have to go into military service from now on.](http://9gag.com/gag/aW4ONXd)<!-- MEMES:END -->
+ - 😝 [The highest court in Israel decided these guys have to go into military service from now on.](http://9gag.com/gag/aW4ONXd)
+ - 😝 [Say it!](http://9gag.com/gag/aVvXVdP)
+ - 💣 [What is my godamn superpower ?](http://9gag.com/gag/aLnBbn6)
+ - 😝 [And indeed a hundred thousand](http://9gag.com/gag/a9yPOoD)
+ - 👉 [Crossing the Ganges](http://9gag.com/gag/a87jzw3)<!-- MEMES:END -->
 
 ---
 

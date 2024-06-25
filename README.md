@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta&#39;s Quest v67 PTC update adds an experimental option to let users freely position and resize 2D windows as well as &quot;take any window fullscreen&quot; &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/240625/p20#a240625p20)
  - [This prototype turns your car’s windshield into a giant AR display](https://www.theverge.com/24185134/distance-technologies-car-hud-prototype-awe-hands-on)
  - [China’s lunar probe returns to Earth with first-ever samples from the far side of the Moon](https://www.theverge.com/2024/6/25/24185575/china-lunar-probe-lands-earth-first-moon-far-side-sample)
  - [Google announces surprise Pixel hardware event in August](https://www.theverge.com/2024/6/25/24185767/google-pixel-hardware-ai-event-august-date)
- - [Elgato’s jumbo-sized Stream Deck XL is $50 off](https://www.theverge.com/2024/6/25/24185518/elgato-stream-deck-xl-twitch-stream-controller-nest-thermostat-deal-sale)
- - [Mattel is making games like Uno more accessible for colorblind players](https://www.theverge.com/2024/6/25/24185625/mattel-board-card-games-colorblind-accessible-uno-blokus-phase-ten-skip-bo)<!-- TECH:END -->
+ - [Elgato’s jumbo-sized Stream Deck XL is $50 off](https://www.theverge.com/2024/6/25/24185518/elgato-stream-deck-xl-twitch-stream-controller-nest-thermostat-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

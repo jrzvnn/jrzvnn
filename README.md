@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Swifties aren&#39;t gonna like this.](http://9gag.com/gag/aD2mMQZ)
+ - 😝 [What is my godamn superpower ?](http://9gag.com/gag/aLnBbn6)
  - 😝 [Guys, is this true ?](http://9gag.com/gag/adBpoA2)
- - 💣 [We all know what the outcome would be](http://9gag.com/gag/awy74yx)
- - 😝 [Guys Literally Only Want One Thing And It&#39;s F**king Disgusting](http://9gag.com/gag/a2vqGjO)
- - 👉 [Ultra reaction](http://9gag.com/gag/aByrvdN)<!-- MEMES:END -->
+ - 💣 [Say it!](http://9gag.com/gag/aVvXVdP)
+ - 😝 [It\u2019s outrageous! It\u2019s unfair!](http://9gag.com/gag/a4PLqZ6)
+ - 👉 [And indeed a hundred thousand](http://9gag.com/gag/a9yPOoD)<!-- MEMES:END -->
 
 ---
 

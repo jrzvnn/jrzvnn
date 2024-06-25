@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EvolutionaryScale releases AI models called ESM3 to create novel proteins and raised $142M in seed funding led by Nat Friedman, Daniel Gross, and Lux Capital &lpar;Reuters&rpar;](http://www.techmeme.com/240625/p8#a240625p8)
- - [Microsoft charged with EU antitrust violations for bundling Teams](https://www.theverge.com/2024/6/25/24185467/microsoft-teams-eu-bundling-antitrust-violations)
- - [Pooping on the Moon Is a Messy Business](https://www.wired.com/story/pooping-on-the-moon-is-a-messy-business/)
- - [Xbox Game Pass: You Can Play My Time at Sandrock and FC 24 Now     - CNET](https://www.cnet.com/tech/gaming/xbox-game-pass-you-can-play-my-time-at-sandrock-and-fc-24-now-more-soon/#ftag=CAD590a51e)
- - [Apple Watch Ultra 2 vs. Apple Watch Ultra: Comparing the Rugged Watches     - CNET](https://www.cnet.com/tech/mobile/apple-watch-ultra-2-vs-apple-watch-ultra-comparing-the-rugged-watches/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s on-device email categorization is a feature years in the making](https://appleinsider.com/articles/24/06/25/apples-on-device-email-categorization-is-a-feature-years-in-the-making?utm_medium=rss)
+ - [Tesla Cybertuck recalled again, this time over faulty wiper and trim](https://www.theverge.com/2024/6/25/24185472/tesla-cybertruck-recall-faulty-wiper-trim)
+ - [The Mystery of AI Gunshot-Detection Accuracy Is Finally Unraveling](https://www.wired.com/story/ai-gunshot-detection-accuracy-san-jose-nyc/)
+ - [Uber and Aurora announce ‘long-term’ driverless truck deal after successful pilot](https://www.theverge.com/2024/6/25/24184973/uber-freight-aurora-driverless-truck-deal)
+ - [EvolutionaryScale releases AI models called ESM3 to create novel proteins and raised $142M in seed funding led by Nat Friedman, Daniel Gross, and Lux Capital &lpar;Reuters&rpar;](http://www.techmeme.com/240625/p8#a240625p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

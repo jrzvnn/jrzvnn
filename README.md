@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pure instinct\u2019s\u2026](http://9gag.com/gag/aLnBbeg)
- - 😝 [Tired of BS propaganda, Hawk tuak, and other sh*t. Reposting old memes !](http://9gag.com/gag/aLnBr1A)
- - 💣 [Your superpower: you can see the number showing probability you two sleeping together](http://9gag.com/gag/a87jVvZ)
- - 😝 [Brazilian apllying for an international job](http://9gag.com/gag/aAypmj0)
- - 👉 [Surgical lights cast no visible shadow](http://9gag.com/gag/amo8d32)<!-- MEMES:END -->
+ - 😝 [Your superpower: you can see the number showing probability you two sleeping together](http://9gag.com/gag/a87jVvZ)
+ - 😝 [Ultra reaction](http://9gag.com/gag/aByrvdN)
+ - 💣 [Surgical lights cast no visible shadow](http://9gag.com/gag/amo8d32)
+ - 😝 [Crossing the Ganges](http://9gag.com/gag/a87jzw3)
+ - 👉 [Girlfriends](http://9gag.com/gag/apRBYd8)<!-- MEMES:END -->
 
 ---
 

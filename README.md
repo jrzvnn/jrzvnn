@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cozey Ciello XL Couch: Fine—If You’ve Got the Space for It](https://www.wired.com/review/cozey-ciello-xl/)
- - [Best Mattress Deals: Early Fourth of July Sales Bring Big Savings     - CNET](https://www.cnet.com/deals/best-mattress-sales/#ftag=CAD590a51e)
- - [Apple and Meta not in discussions over AI chatbot, report claims](https://appleinsider.com/articles/24/06/24/apple-and-meta-not-in-discussions-over-ai-chatbot-report-claims?utm_medium=rss)
- - [Game studio co-founded by Dr Disrespect ‘immediately’ terminating relationship with the streamer](https://www.theverge.com/2024/6/24/24185172/dr-disrespect-midnight-society-termination)
- - [Best Apple Watch Deals: Score Discounts on All Models     - CNET](https://www.cnet.com/deals/best-apple-watch-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Q&amp;A with Netflix co-CEO Greg Peters on updating the company&#39;s famous culture memo, its advertising ambitions, bundling, game streaming, AI, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240624/p25#a240624p25)
+ - [Today&#39;s Wordle Hints, Answer and Help for June 25, #1102     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-answer-and-help-for-june-25-1102/#ftag=CAD590a51e)
+ - [Gmail’s Gemini AI sidebar and email summaries are rolling out now](https://www.theverge.com/2024/6/24/24185277/google-gmail-gemini-ai-sidebar)
+ - [Best Internet Providers in Lubbock, Texas     - CNET](https://www.cnet.com/home/internet/best-internet-providers-in-lubbock-tx/#ftag=CAD590a51e)
+ - [Cozey Ciello XL Couch: Fine—If You’ve Got the Space for It](https://www.wired.com/review/cozey-ciello-xl/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

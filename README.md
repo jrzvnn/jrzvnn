@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Xbox Game Pass: You Can Play My Time at Sandrock and FC 24 Now     - CNET](https://www.cnet.com/tech/gaming/xbox-game-pass-you-can-play-my-time-at-sandrock-and-fc-24-now-more-soon/#ftag=CAD590a51e)
+ - [Apple Watch Ultra 2 vs. Apple Watch Ultra: Comparing the Rugged Watches     - CNET](https://www.cnet.com/tech/mobile/apple-watch-ultra-2-vs-apple-watch-ultra-comparing-the-rugged-watches/#ftag=CAD590a51e)
  - [Deepfake Creators Are Revictimizing GirlsDoPorn Sex Trafficking Survivors](https://www.wired.com/story/girlsdoporn-deepfake-victim-videos/)
  - [In preliminary findings, the EU charges Microsoft with antitrust violations over concerns that it gave Teams an &quot;undue advantage&quot; by bundling it with Office &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240625/p7#a240625p7)
- - [Chinese state media: OpenAI told Chinese developers that they will lose API access from July 9 as they are in a &quot;region that OpenAI does not currently support&quot; &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/240625/p6#a240625p6)
- - [The US Is Being Flooded by Chinese Vapes](https://www.wired.com/story/the-us-is-being-flooded-by-chinese-vapes/)
- - [A look at the privacy concerns surrounding apps targeting women&#39;s health; PitchBook: femtech startups raised almost $4.9B between March 2021 and March 2024 &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/240625/p5#a240625p5)<!-- TECH:END -->
+ - [Chinese state media: OpenAI told Chinese developers that they will lose API access from July 9 as they are in a &quot;region that OpenAI does not currently support&quot; &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/240625/p6#a240625p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

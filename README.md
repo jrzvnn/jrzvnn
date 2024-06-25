@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This prototype turns your car’s windshield into a giant AR display](https://www.theverge.com/24185134/distance-technologies-car-hud-prototype-awe-hands-on)
  - [China’s lunar probe returns to Earth with first-ever samples from the far side of the Moon](https://www.theverge.com/2024/6/25/24185575/china-lunar-probe-lands-earth-first-moon-far-side-sample)
  - [Google announces surprise Pixel hardware event in August](https://www.theverge.com/2024/6/25/24185767/google-pixel-hardware-ai-event-august-date)
  - [Elgato’s jumbo-sized Stream Deck XL is $50 off](https://www.theverge.com/2024/6/25/24185518/elgato-stream-deck-xl-twitch-stream-controller-nest-thermostat-deal-sale)
- - [Mattel is making games like Uno more accessible for colorblind players](https://www.theverge.com/2024/6/25/24185625/mattel-board-card-games-colorblind-accessible-uno-blokus-phase-ten-skip-bo)
- - [Threads will let users like and see replies to their posts showing on federated social networks like Mastodon, and expands fediverse support to 100+ countries &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240625/p19#a240625p19)<!-- TECH:END -->
+ - [Mattel is making games like Uno more accessible for colorblind players](https://www.theverge.com/2024/6/25/24185625/mattel-board-card-games-colorblind-accessible-uno-blokus-phase-ten-skip-bo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

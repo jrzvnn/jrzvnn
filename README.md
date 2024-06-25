@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Muntjacs are a genus of deer native to South and Southeast Asia.](http://9gag.com/gag/aGyROd0)
- - 😝 [Swifties aren&#39;t gonna like this.](http://9gag.com/gag/aD2mMQZ)
- - 💣 [What is my godamn superpower ?](http://9gag.com/gag/aLnBbn6)
- - 😝 [And indeed a hundred thousand](http://9gag.com/gag/a9yPOoD)
- - 👉 [Fascinating](http://9gag.com/gag/aPAGrYn)<!-- MEMES:END -->
+ - 😝 [Your superpower: you can see the number showing probability you two sleeping together](http://9gag.com/gag/a87jVvZ)
+ - 😝 [Title](http://9gag.com/gag/aO8mpZv)
+ - 💣 [Surgical lights cast no visible shadow](http://9gag.com/gag/amo8d32)
+ - 😝 [What is my godamn superpower ?](http://9gag.com/gag/aLnBbn6)
+ - 👉 [Crossing the Ganges](http://9gag.com/gag/a87jzw3)<!-- MEMES:END -->
 
 ---
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s iMac is on sale today, with discounts of up to $1,050 off](https://appleinsider.com/articles/24/06/25/apples-imac-is-on-sale-today-with-discounts-of-up-to-1050-off?utm_medium=rss)
  - [Waymo drops its waitlist in San Francisco, letting anyone download its app and hail a robotaxi; in Phoenix, Waymo has been open to the public since 2020 &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/240625/p17#a240625p17)
  - [Apple working out how to use Mac in parallel with iPhone or iPad to process big jobs](https://appleinsider.com/articles/24/06/25/apple-working-out-how-to-use-mac-in-parallel-with-iphone-or-ipad-to-process-big-jobs?utm_medium=rss)
  - [The best Etsy alternatives for selling your crafts](https://www.theverge.com/23013610/etsy-crafts-sell-creative-amazon-shopify-how-to)
- - [The MTV News archive has been taken offline](https://www.theverge.com/2024/6/25/24185548/mtv-news-archived-offline-paramount-global)
- - [We’ve Spent Hours Reading and These Are Our Favorite E-Readers](https://www.wired.com/gallery/best-ereaders/)<!-- TECH:END -->
+ - [The MTV News archive has been taken offline](https://www.theverge.com/2024/6/25/24185548/mtv-news-archived-offline-paramount-global)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

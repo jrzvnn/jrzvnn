@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/aKGBN61)
- - 😝 [Mamma Mia](http://9gag.com/gag/aVvX4Ow)
- - 💣 [Title](http://9gag.com/gag/a87jXgd)
- - 😝 [Not another repost.](http://9gag.com/gag/aO8mA92)
- - 👉 [They are living with us, near you, maybe they are your neighbours...or maybe it&#39;s you !](http://9gag.com/gag/a9yPNXj)<!-- MEMES:END -->
+ - 😝 [Ultra reaction](http://9gag.com/gag/aByrvdN)
+ - 😝 [Zooming](http://9gag.com/gag/ayNnV18)
+ - 💣 [Is that a bazooka are you holding?](http://9gag.com/gag/an7BWQn)
+ - 😝 [It&#39;s 2007 and you just decided to take a break from the LAN party and head upstairs to help your friend&#39;s sister prepare the potato salad.](http://9gag.com/gag/aAypmjp)
+ - 👉 [Female Police Officer pulls gun during traffic stop. Warranted or not?](http://9gag.com/gag/aAypmD9)<!-- MEMES:END -->
 
 ---
 

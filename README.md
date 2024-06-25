@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NYC-based Norm Ai, which uses AI to help organizations automate compliance tasks, raised a $27M Series A led by Coatue, bringing its total funding to $38M+ &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/240625/p34#a240625p34)
  - [The owner of Toys ‘R’ Us just used OpenAI’s Sora to animate the zombie brand](https://www.theverge.com/2024/6/25/24186051/toys-r-us-openai-sora-brand-film)
  - [Samsung schedules its next Galaxy Unpacked event for July 10 at 9AM ET in Paris, where Galaxy AI updates, the Galaxy Z Fold 6, and Z Flip 6 are expected &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240625/p33#a240625p33)
  - [Samsung just announced a date for its next Unpacked](https://www.theverge.com/2024/6/25/24178801/samsung-unpacked-summer-2024-galaxy-z-fold-6-ring)
- - [Some iPhone users running the latest iOS 18 beta report being able to send and receive RCS messages on select US carriers &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/240625/p32#a240625p32)
- - [Select US carriers introduce support for RCS on iOS 18 beta](https://appleinsider.com/articles/24/06/25/select-us-carriers-introduce-support-for-rcs-on-ios-18-beta?utm_medium=rss)<!-- TECH:END -->
+ - [Some iPhone users running the latest iOS 18 beta report being able to send and receive RCS messages on select US carriers &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/240625/p32#a240625p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

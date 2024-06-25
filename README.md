@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft Faces EU Charges Over ‘Abusive’ Bundling](https://www.wired.com/story/microsoft-faces-eu-charges-over-abusive-bundling/)
- - [The Boox Palma is an amazing gadget I didn’t even know I wanted](https://www.theverge.com/24184777/boox-palma-e-ink-smartphone-reader)
- - [Bright Machines, which automates manufacturing with AI and robotics, raised a $126M Series C from Nvidia, Microsoft, and others, including $20M in debt &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/240625/p14#a240625p14)
- - [k-ID, a platform that helps game developers comply with child safety and data privacy regulations, raised a $45M Series A led by a16z and Lightspeed &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/240625/p13#a240625p13)
- - [New chips, new screens, new gadgets](https://www.theverge.com/2024/6/25/24185527/boox-palma-surface-pro-laptop-qualcomm-ai-vergecast)<!-- TECH:END -->
+ - [Married women face hiring challenges at Foxconn plants in India](https://appleinsider.com/articles/24/06/25/married-women-face-hiring-challenges-at-foxconn-plants-in-india?utm_medium=rss)
+ - [Taiwan press talks up iffy rumor about a new local Apple datacenter](https://appleinsider.com/articles/24/06/25/taiwan-press-talks-up-iffy-rumor-about-a-new-local-apple-datacenter?utm_medium=rss)
+ - [Beats Pill review: Premium, but worth the money](https://appleinsider.com/articles/24/06/25/beats-pill-review-premium-but-worth-the-money?utm_medium=rss)
+ - [The Beats Pill speaker is back — now with 24-hour battery life and USB-C audio](https://www.theverge.com/2024/6/25/24185530/beats-pill-2024-features-price)
+ - [Beats Pill review: much easier to swallow this time](https://www.theverge.com/24185290/beats-pill-2024-bluetooth-speaker-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

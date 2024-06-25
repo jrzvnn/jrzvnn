@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [With an economy hobbled by Western sanctions and inflation, desperate Iranians are flocking to &quot;tap-to-earn&quot; crypto mini apps in Telegram like Hamster Kombat &lpar;Associated Press&rpar;](http://www.techmeme.com/240625/p12#a240625p12)
- - [Linner Mars Review: Great Hearing Aids for Streaming Media](https://www.wired.com/review/linner-mars/)
- - [Patreon is going to let you gift subscriptions](https://www.theverge.com/2024/6/25/24185454/patreon-gifted-subscriptions-countdown-timer-features)
- - [The Nintendo Switch isn’t going out quietly](https://www.theverge.com/24185022/nintendo-switch-2024-game-lineup-zelda-echoes-of-wisdom)
- - [If Apple&#39;s research pans out, an iPhone could be a portable science lab](https://appleinsider.com/articles/24/06/25/if-apples-research-pans-out-an-iphone-could-be-a-portable-science-lab?utm_medium=rss)<!-- TECH:END -->
+ - [Bright Machines, which automates manufacturing with AI and robotics, raised a $126M Series C from Nvidia, Microsoft, and others, including $20M in debt &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/240625/p14#a240625p14)
+ - [k-ID, a platform that helps game developers comply with child safety and data privacy regulations, raised a $45M Series A led by a16z and Lightspeed &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/240625/p13#a240625p13)
+ - [New chips, new screens, new gadgets](https://www.theverge.com/2024/6/25/24185527/boox-palma-surface-pro-laptop-qualcomm-ai-vergecast)
+ - [The Julian Assange Saga Is Finally Over](https://www.wired.com/story/julian-assange-wikileaks-plea-deal/)
+ - [With an economy hobbled by Western sanctions and inflation, desperate Iranians are flocking to &quot;tap-to-earn&quot; crypto mini apps in Telegram like Hamster Kombat &lpar;Associated Press&rpar;](http://www.techmeme.com/240625/p12#a240625p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

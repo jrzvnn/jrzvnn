@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US Is Being Flooded by Chinese Vapes](https://www.wired.com/story/the-us-is-being-flooded-by-chinese-vapes/)
  - [A look at the privacy concerns surrounding apps targeting women&#39;s health; PitchBook: femtech startups raised almost $4.9B between March 2021 and March 2024 &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/240625/p5#a240625p5)
- - [Here’s how much Google says it’d cost to fulfill Epic’s biggest demands](https://www.theverge.com/policy/2024/6/25/24185450/epic-google-catalog-access-library-porting-estimated-cost)
- - [Logitech’s affordable new low-profile keyboard also fits Cherry MX-style keycaps](https://www.theverge.com/2024/6/25/24185020/logitech-keyboard-mx-keycaps-gaming)
- - [Boring Architecture Is Starving Your Brain](https://www.wired.com/story/modern-architecture-starving-public-stimulation-thomas-heatherwick-cities-design-wired-health/)
- - [Best Seafood Delivery Services for 2024     - CNET](https://www.cnet.com/health/nutrition/best-seafood-delivery/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Prime Day 2024: Confirmed Date and Everything You Need to Know About Amazon&#39;s Next Big Sale     - CNET](https://www.cnet.com/deals/amazon-prime-day/#ftag=CAD590a51e)
+ - [Amazon Prime Day 2024 Dates Officially Announced, What You Should Expect     - CNET](https://www.cnet.com/deals/amazon-prime-day-2024-dates-officially-announced-what-you-should-expect/#ftag=CAD590a51e)
+ - [Here’s how much Google says it’d cost to fulfill Epic’s biggest demands](https://www.theverge.com/policy/2024/6/25/24185450/epic-google-catalog-access-library-porting-estimated-cost)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

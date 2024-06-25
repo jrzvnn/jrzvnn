@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Snapchat announces updates to its account blocking functionality and enhanced friending safeguards, making it difficult for strangers to contact its users &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/240625/p16#a240625p16)
  - [Windows 11 changed the initial setup process to enable automatic backup of folders to OneDrive without asking permission, annoying and confusing many users &lpar;Taras Buria/Neowin&rpar;](http://www.techmeme.com/240625/p15#a240625p15)
  - [Married women face hiring challenges at Foxconn plants in India](https://appleinsider.com/articles/24/06/25/married-women-face-hiring-challenges-at-foxconn-plants-in-india?utm_medium=rss)
  - [Taiwan press talks up iffy rumor about a new local Apple datacenter](https://appleinsider.com/articles/24/06/25/taiwan-press-talks-up-iffy-rumor-about-a-new-local-apple-datacenter?utm_medium=rss)
- - [Beats Pill review: Premium, but worth the money](https://appleinsider.com/articles/24/06/25/beats-pill-review-premium-but-worth-the-money?utm_medium=rss)
- - [Beats Pill Bluetooth Speaker Review: Back From the Dead and Improved in a Few Key Ways     - CNET](https://www.cnet.com/tech/home-entertainment/beats-pill-bluetooth-speaker-review-back-from-the-dead-and-improved-in-a-few-key-ways/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Beats Pill review: Premium, but worth the money](https://appleinsider.com/articles/24/06/25/beats-pill-review-premium-but-worth-the-money?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

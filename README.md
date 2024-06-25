@@ -172,10 +172,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Pure instinct\u2019s\u2026](http://9gag.com/gag/aLnBbeg)
- - 😝 [What is my godamn superpower ?](http://9gag.com/gag/aLnBbn6)
- - 💣 [Tired of BS propaganda, Hawk tuak, and other sh*t. Reposting old memes !](http://9gag.com/gag/aLnBr1A)
- - 😝 [Your superpower: you can see the number showing probability you two sleeping together](http://9gag.com/gag/a87jVvZ)
- - 👉 [Brazilian apllying for an international job](http://9gag.com/gag/aAypmj0)<!-- MEMES:END -->
+ - 😝 [Tired of BS propaganda, Hawk tuak, and other sh*t. Reposting old memes !](http://9gag.com/gag/aLnBr1A)
+ - 💣 [Your superpower: you can see the number showing probability you two sleeping together](http://9gag.com/gag/a87jVvZ)
+ - 😝 [Brazilian apllying for an international job](http://9gag.com/gag/aAypmj0)
+ - 👉 [Surgical lights cast no visible shadow](http://9gag.com/gag/amo8d32)<!-- MEMES:END -->
 
 ---
 

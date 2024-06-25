@@ -171,10 +171,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Judge giving justice](http://9gag.com/gag/aRBV8eG)
+ - 😝 [What is my godamn superpower ?](http://9gag.com/gag/aLnBbn6)
+ - 😝 [Surgical lights cast no visible shadow](http://9gag.com/gag/amo8d32)
+ - 💣 [The highest court in Israel decided these guys have to go into military service from now on.](http://9gag.com/gag/aW4ONXd)
  - 😝 [Is that a bazooka are you holding?](http://9gag.com/gag/an7BWQn)
- - 💣 [Surveillance video shows the moment lithium batteries exploded at a battery plant in Hwaseong, South Korea, on Monday morning, sparking a fire. The incident left at least 23 dead and eight injured.](http://9gag.com/gag/awy790r)
- - 😝 [Crossing the Ganges](http://9gag.com/gag/a87jzw3)
  - 👉 [Ultra reaction](http://9gag.com/gag/aByrvdN)<!-- MEMES:END -->
 
 ---

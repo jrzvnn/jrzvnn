@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft Faces EU Charges Over ‘Abusive’ Bundling](https://www.wired.com/story/microsoft-faces-eu-charges-over-abusive-bundling/)
+ - [The Boox Palma is an amazing gadget I didn’t even know I wanted](https://www.theverge.com/24184777/boox-palma-e-ink-smartphone-reader)
  - [Bright Machines, which automates manufacturing with AI and robotics, raised a $126M Series C from Nvidia, Microsoft, and others, including $20M in debt &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/240625/p14#a240625p14)
  - [k-ID, a platform that helps game developers comply with child safety and data privacy regulations, raised a $45M Series A led by a16z and Lightspeed &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/240625/p13#a240625p13)
- - [New chips, new screens, new gadgets](https://www.theverge.com/2024/6/25/24185527/boox-palma-surface-pro-laptop-qualcomm-ai-vergecast)
- - [The Julian Assange Saga Is Finally Over](https://www.wired.com/story/julian-assange-wikileaks-plea-deal/)
- - [With an economy hobbled by Western sanctions and inflation, desperate Iranians are flocking to &quot;tap-to-earn&quot; crypto mini apps in Telegram like Hamster Kombat &lpar;Associated Press&rpar;](http://www.techmeme.com/240625/p12#a240625p12)<!-- TECH:END -->
+ - [New chips, new screens, new gadgets](https://www.theverge.com/2024/6/25/24185527/boox-palma-surface-pro-laptop-qualcomm-ai-vergecast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

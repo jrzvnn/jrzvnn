@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best GoPro Deals: Lowest Prices From Hero 12 to Hero Max     - CNET](https://www.cnet.com/deals/best-gopro-deals/#ftag=CAD590a51e)
+ - [EcoFlow’s new solar generator is a portable powerhouse](https://www.theverge.com/2024/6/24/24182250/ecoflow-delta-pro-3-price-specs-blackout-generator-van-rv)
  - [Seven things I learned about the Sony car while playing Gran Turismo inside one](https://www.theverge.com/2024/6/24/24185255/sony-afeela-gran-turismo-privacy-wheel)
- - [Sources: US is probing China Mobile, China Telecom, and China Unicom over concerns they are providing Americans&#39; data to Beijing through their US cloud services &lpar;Alexandra Alper/Reuters&rpar;](http://www.techmeme.com/240624/p26#a240624p26)
- - [Julian Assange is ‘free,’ will plead guilty to leaking national security secrets](https://www.theverge.com/2024/6/24/24185279/wikileaks-julian-assange-plea-agreement)
- - [Q&amp;A with Netflix co-CEO Greg Peters on updating the company&#39;s famous culture memo, its advertising ambitions, bundling, game streaming, AI, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240624/p25#a240624p25)
- - [Today&#39;s Wordle Hints, Answer and Help for June 25, #1102     - CNET](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-answer-and-help-for-june-25-1102/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Luggage Deals: Save on Suitcases from Away, Monos, Delsey, Samsonite and More     - CNET](https://www.cnet.com/deals/best-luggage-deals/#ftag=CAD590a51e)
+ - [Sources: US is probing China Mobile, China Telecom, and China Unicom over concerns they are providing Americans&#39; data to Beijing through their US cloud services &lpar;Alexandra Alper/Reuters&rpar;](http://www.techmeme.com/240624/p26#a240624p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

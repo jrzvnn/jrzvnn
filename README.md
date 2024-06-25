@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Surface Laptop review: Microsoft’s best MacBook Air competitor yet](https://www.theverge.com/2024/6/25/24185462/microsoft-surface-laptop-7th-edition-review)
- - [How to sign up for Amazon Prime](https://www.theverge.com/21493780/amazon-prime-sign-up-day-deals-sale-price-free)
- - [Apple&#39;s iMac is on sale today, with discounts of up to $1,050 off](https://appleinsider.com/articles/24/06/25/apples-imac-is-on-sale-today-with-discounts-of-up-to-1050-off?utm_medium=rss)
- - [Waymo drops its waitlist in San Francisco, letting anyone download its app and hail a robotaxi; in Phoenix, Waymo has been open to the public since 2020 &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/240625/p17#a240625p17)
- - [Apple working out how to use Mac in parallel with iPhone or iPad to process big jobs](https://appleinsider.com/articles/24/06/25/apple-working-out-how-to-use-mac-in-parallel-with-iphone-or-ipad-to-process-big-jobs?utm_medium=rss)<!-- TECH:END -->
+ - [You can own Steve Jobs&#39; iconic 1984 Macintosh ad suit -- but it&#39;ll cost you](https://appleinsider.com/articles/24/06/25/you-can-own-steve-jobs-iconic-1984-macintosh-ad-suit----but-itll-cost-you?utm_medium=rss)
+ - [Meta is connecting Threads more deeply with the fediverse](https://www.theverge.com/2024/6/25/24185226/meta-threads-fediverse-likes-replies)
+ - [Motorola Razr and Razr+ &lpar;2024&rpar;: Specs, Features, Price, Release Date](https://www.wired.com/story/motorola-razr-and-razr-plus-2024/)
+ - [The Moto Tag is an AirTag for Android](https://www.theverge.com/2024/6/25/24185612/motorola-moto-tag-android-find-my-device)
+ - [Motorola’s 2024 Razr phones are ready to make a splash](https://www.theverge.com/2024/6/25/24185177/motorola-razr-plus-2024-flip-phone-screen-battery-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

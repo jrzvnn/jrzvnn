@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nobody bought it except the influencers](http://9gag.com/gag/aQznOxr)
- - 😝 [Title](http://9gag.com/gag/aKGBN61)
- - 💣 [Guys, is this true ?](http://9gag.com/gag/adBpoA2)
- - 😝 [What is my godamn superpower ?](http://9gag.com/gag/aLnBbn6)
- - 👉 [Surgical lights cast no visible shadow](http://9gag.com/gag/amo8d32)<!-- MEMES:END -->
+ - 😝 [Brazilian apllying for an international job](http://9gag.com/gag/aAypmj0)
+ - 😝 [Are Germans the ultimate cucks?](http://9gag.com/gag/a9yPB50)
+ - 💣 [Say it!](http://9gag.com/gag/aVvXVdP)
+ - 😝 [Surgical lights cast no visible shadow](http://9gag.com/gag/amo8d32)
+ - 👉 [What is my godamn superpower ?](http://9gag.com/gag/aLnBbn6)<!-- MEMES:END -->
 
 ---
 

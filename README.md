@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Users of the popular AI chatbot platform Character.AI are reporting that their bots&#39; personalities changed a few days ago and aren&#39;t as fun as they once were &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/240625/p24#a240625p24)
+ - [The 29 Best Shows on Apple TV+ Right Now &lpar;July 2024&rpar;](https://www.wired.com/story/best-apple-tv-plus-shows/)
+ - [This tiny tablet is a smart upgrade for AR glasses](https://www.theverge.com/24185094/xreal-beam-pro-awe-ar-tablet-hands-on)
  - [Dr Disrespect finally shares why he was banned from Twitch](https://www.theverge.com/2024/6/25/24185821/dr-disrespect-twitch-ban-explanation-inappropriate-messages)
- - [Epomaker’s TH80 Pro, one of our top mechanical keyboard picks, is at its best price](https://www.theverge.com/2024/6/25/24185762/amazon-epomaker-th80-pro-deal-sale)
- - [The RIAA&#39;s lawsuit against generative music startups will be the bloodbath AI needs and an object lesson in hubris for similarly unethical AI companies &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/240625/p23#a240625p23)
- - [Google will hold a Pixel event on August 13 at 10AM PT in Mountain View, where the Pixel 9, Pixel 9 Pro, Pixel 9 Pro Fold, and Pixel Watch 3 are expected &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240625/p22#a240625p22)
- - [Google is killing infinite scroll on search results](https://www.theverge.com/2024/6/25/24185727/google-search-continuous-scrolling-doomscrolling-graveyard)<!-- TECH:END -->
+ - [Epomaker’s TH80 Pro, one of our top mechanical keyboard picks, is at its best price](https://www.theverge.com/2024/6/25/24185762/amazon-epomaker-th80-pro-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tired of BS propaganda, Hawk tuak, and other sh*t. Reposting old memes !](http://9gag.com/gag/aLnBr1A)
+ - 😝 [Guys Literally Only Want One Thing And It&#39;s F**king Disgusting](http://9gag.com/gag/a2vqGjO)
  - 😝 [Muntjacs are a genus of deer native to South and Southeast Asia.](http://9gag.com/gag/aGyROd0)
- - 💣 [Surgical lights cast no visible shadow](http://9gag.com/gag/amo8d32)
- - 😝 [What a great target](http://9gag.com/gag/aE0zOOx)
- - 👉 [And indeed a hundred thousand](http://9gag.com/gag/a9yPOoD)<!-- MEMES:END -->
+ - 💣 [Swifties aren&#39;t gonna like this.](http://9gag.com/gag/aD2mMQZ)
+ - 😝 [Surgical lights cast no visible shadow](http://9gag.com/gag/amo8d32)
+ - 👉 [Crossing the Ganges](http://9gag.com/gag/a87jzw3)<!-- MEMES:END -->
 
 ---
 

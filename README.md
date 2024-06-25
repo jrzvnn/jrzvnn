@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Muntjacs are a genus of deer native to South and Southeast Asia.](http://9gag.com/gag/aGyROd0)
- - 😝 [Weather forecast today](http://9gag.com/gag/aMVQXmA)
- - 💣 [Ultra reaction](http://9gag.com/gag/aByrvdN)
+ - 😝 [Fascinating](http://9gag.com/gag/aPAGrYn)
  - 😝 [Swifties aren&#39;t gonna like this.](http://9gag.com/gag/aD2mMQZ)
- - 👉 [WikiLeaks Founder Julian Assange has just reached a plea deal with the U.S. Justice Department of Justice allowing him to be released from prison.](http://9gag.com/gag/a4PLrGZ)<!-- MEMES:END -->
+ - 💣 [Muntjacs are a genus of deer native to South and Southeast Asia.](http://9gag.com/gag/aGyROd0)
+ - 😝 [Brazilian apllying for an international job](http://9gag.com/gag/aAypmj0)
+ - 👉 [What is my godamn superpower ?](http://9gag.com/gag/aLnBbn6)<!-- MEMES:END -->
 
 ---
 

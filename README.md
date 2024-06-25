@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ultra reaction](http://9gag.com/gag/aByrvdN)
- - 😝 [Zooming](http://9gag.com/gag/ayNnV18)
- - 💣 [Is that a bazooka are you holding?](http://9gag.com/gag/an7BWQn)
- - 😝 [It&#39;s 2007 and you just decided to take a break from the LAN party and head upstairs to help your friend&#39;s sister prepare the potato salad.](http://9gag.com/gag/aAypmjp)
- - 👉 [Female Police Officer pulls gun during traffic stop. Warranted or not?](http://9gag.com/gag/aAypmD9)<!-- MEMES:END -->
+ - 😝 [Judge giving justice](http://9gag.com/gag/aRBV8eG)
+ - 😝 [Is that a bazooka are you holding?](http://9gag.com/gag/an7BWQn)
+ - 💣 [Surveillance video shows the moment lithium batteries exploded at a battery plant in Hwaseong, South Korea, on Monday morning, sparking a fire. The incident left at least 23 dead and eight injured.](http://9gag.com/gag/awy790r)
+ - 😝 [Crossing the Ganges](http://9gag.com/gag/a87jzw3)
+ - 👉 [Ultra reaction](http://9gag.com/gag/aByrvdN)<!-- MEMES:END -->
 
 ---
 

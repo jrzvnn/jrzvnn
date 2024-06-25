@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI says the ChatGPT macOS app is now available to all users, after initially rolling it out to Plus subscribers &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240625/p28#a240625p28)
+ - [ChatGPT for Mac now available for everyone](https://appleinsider.com/articles/24/06/25/chatgpt-for-mac-now-available-for-everyone?utm_medium=rss)
+ - [Google is dropping continuous scroll in Search, saying it didn&#39;t lead to significantly higher user satisfaction and pagination enables serving results faster &lpar;Barry Schwartz/Search Engine Land&rpar;](http://www.techmeme.com/240625/p27#a240625p27)
  - [Cruise names Marc Whitten, a former Amazon and Microsoft executive, as its new CEO &lpar;Michael Wayland/CNBC&rpar;](http://www.techmeme.com/240625/p26#a240625p26)
- - [Anthropic debuts Projects, letting Claude.ai Pro and Team users work with chats, docs, code, and more in one place; each project includes a 200K context window &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240625/p25#a240625p25)
- - [VW will invest up to $5 billion in Rivian as part of new EV joint venture](https://www.theverge.com/2024/6/25/24185946/vw-rivian-joint-venture-investment-software-r2)
- - [New firmware available for AirPods, AirPods Pro, &amp; AirPods Max](https://appleinsider.com/articles/24/06/25/new-firmware-available-for-airpods-airpods-pro-airpods-max?utm_medium=rss)
- - [Best AirPods Pro 2 Deals: Save Up to $50 on Apple&#39;s Best Wireless Earbuds Plus Free Services](https://www.cnet.com/deals/best-airpods-pro-2nd-generation-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Anthropic debuts Projects, letting Claude.ai Pro and Team users work with chats, docs, code, and more in one place; each project includes a 200K context window &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240625/p25#a240625p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This Matter-enabled smart ceiling light costs under $100](https://www.theverge.com/2024/6/25/24185684/lifx-super-color-ceiling-light-matter-price-specs)
+ - [Dr Disrespect’s Twitch ban, explained](https://www.theverge.com/24185864/dr-disrespect-twitch-ban)
  - [Users of the popular AI chatbot platform Character.AI are reporting that their bots&#39; personalities changed a few days ago and aren&#39;t as fun as they once were &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/240625/p24#a240625p24)
  - [The 29 Best Shows on Apple TV+ Right Now &lpar;July 2024&rpar;](https://www.wired.com/story/best-apple-tv-plus-shows/)
- - [This tiny tablet is a smart upgrade for AR glasses](https://www.theverge.com/24185094/xreal-beam-pro-awe-ar-tablet-hands-on)
- - [Dr Disrespect finally shares why he was banned from Twitch](https://www.theverge.com/2024/6/25/24185821/dr-disrespect-twitch-ban-explanation-inappropriate-messages)
- - [Epomaker’s TH80 Pro, one of our top mechanical keyboard picks, is at its best price](https://www.theverge.com/2024/6/25/24185762/amazon-epomaker-th80-pro-deal-sale)<!-- TECH:END -->
+ - [Best Cheap Home Security Cameras for 2024     - CNET](https://www.cnet.com/home/security/best-cheap-home-security-cameras/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

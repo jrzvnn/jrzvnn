@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Are Germans the ultimate cucks?](http://9gag.com/gag/a9yPB50)
+ - 😝 [Pure instinct\u2019s\u2026](http://9gag.com/gag/aLnBbeg)
+ - 😝 [What is my godamn superpower ?](http://9gag.com/gag/aLnBbn6)
+ - 💣 [Tired of BS propaganda, Hawk tuak, and other sh*t. Reposting old memes !](http://9gag.com/gag/aLnBr1A)
  - 😝 [Your superpower: you can see the number showing probability you two sleeping together](http://9gag.com/gag/a87jVvZ)
- - 💣 [Title](http://9gag.com/gag/aO8mpZv)
- - 😝 [Say it!](http://9gag.com/gag/aVvXVdP)
- - 👉 [Tired of BS propaganda, Hawk tuak, and other sh*t. Reposting old memes !](http://9gag.com/gag/aLnBr1A)<!-- MEMES:END -->
+ - 👉 [Brazilian apllying for an international job](http://9gag.com/gag/aAypmj0)<!-- MEMES:END -->
 
 ---
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI delays the release of its advanced Voice Mode for ChatGPT by a month to address safety issues and plans to roll out the feature to Plus users in the fall &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/240625/p30#a240625p30)
  - [Reddit says it will update its robots.txt &quot;to be as clear as possible&quot; that companies using an automated agent to access Reddit need to abide by its terms &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/240625/p29#a240625p29)
  - [8BitDo’s $29.99 Ultimate 2C controller adds two more shoulder buttons](https://www.theverge.com/2024/6/25/24185806/gaming-8bitdo-controller-ultimate-2c-hall-effect)
  - [OpenAI says the ChatGPT macOS app is now available to all users, after initially rolling it out to Plus subscribers &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240625/p28#a240625p28)
- - [ChatGPT for Mac now available for everyone](https://appleinsider.com/articles/24/06/25/chatgpt-for-mac-now-available-for-everyone?utm_medium=rss)
- - [Google is dropping continuous scroll in Search, saying it didn&#39;t lead to significantly higher user satisfaction and pagination enables serving results faster &lpar;Barry Schwartz/Search Engine Land&rpar;](http://www.techmeme.com/240625/p27#a240625p27)<!-- TECH:END -->
+ - [ChatGPT for Mac now available for everyone](https://appleinsider.com/articles/24/06/25/chatgpt-for-mac-now-available-for-everyone?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

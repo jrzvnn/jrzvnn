@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guys Literally Only Want One Thing And It&#39;s F**king Disgusting](http://9gag.com/gag/a2vqGjO)
- - 😝 [Muntjacs are a genus of deer native to South and Southeast Asia.](http://9gag.com/gag/aGyROd0)
- - 💣 [Swifties aren&#39;t gonna like this.](http://9gag.com/gag/aD2mMQZ)
+ - 😝 [Guys, is this true ?](http://9gag.com/gag/adBpoA2)
  - 😝 [Surgical lights cast no visible shadow](http://9gag.com/gag/amo8d32)
- - 👉 [Crossing the Ganges](http://9gag.com/gag/a87jzw3)<!-- MEMES:END -->
+ - 💣 [Let them fight i say](http://9gag.com/gag/aZZNV10)
+ - 😝 [Swifties aren&#39;t gonna like this.](http://9gag.com/gag/aD2mMQZ)
+ - 👉 [Fascinating](http://9gag.com/gag/aPAGrYn)<!-- MEMES:END -->
 
 ---
 

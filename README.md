@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [VW will invest $5 billion in Rivian as part of new joint venture](https://www.theverge.com/2024/6/25/24185946/vw-rivian-joint-venture-investment-software-r2)
+ - [VW will invest $5 billion in Rivian as part of new EV joint venture](https://www.theverge.com/2024/6/25/24185946/vw-rivian-joint-venture-investment-software-r2)
  - [New firmware available for AirPods, AirPods Pro, &amp; AirPods Max](https://appleinsider.com/articles/24/06/25/new-firmware-available-for-airpods-airpods-pro-airpods-max?utm_medium=rss)
- - [This Matter-enabled smart ceiling light costs under $100](https://www.theverge.com/2024/6/25/24185684/lifx-super-color-ceiling-light-matter-price-specs)
- - [Dr Disrespect’s Twitch ban, explained](https://www.theverge.com/24185864/dr-disrespect-twitch-ban)
- - [Users of the popular AI chatbot platform Character.AI are reporting that their bots&#39; personalities changed a few days ago and aren&#39;t as fun as they once were &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/240625/p24#a240625p24)<!-- TECH:END -->
+ - [Best AirPods Pro 2 Deals: Save Up to $50 on Apple&#39;s Best Wireless Earbuds Plus Free Services](https://www.cnet.com/deals/best-airpods-pro-2nd-generation-deals/#ftag=CAD590a51e)
+ - [Best iPad Air Deals: Save on Apple&#39;s Latest Model With Discounts, Freebies and More](https://www.cnet.com/deals/best-ipad-air-6-deals/#ftag=CAD590a51e)
+ - [IPad &lpar;10th Gen&rpar; Deals: Get Apple&#39;s Entry-Level Tablet for Less Plus Trade-In Savings and More](https://www.cnet.com/deals/ipad-10th-generation-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

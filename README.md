@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung just announced a date for its next Unpacked](https://www.theverge.com/2024/6/25/24178801/samsung-unpacked-summer-2024-galaxy-z-fold-6-ring)
+ - [Some iPhone users running the latest iOS 18 beta report being able to send and receive RCS messages on select US carriers &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/240625/p32#a240625p32)
  - [Select US carriers introduce support for RCS on iOS 18 beta](https://appleinsider.com/articles/24/06/25/select-us-carriers-introduce-support-for-rcs-on-ios-18-beta?utm_medium=rss)
  - [ChatGPT’s Mac app is here, but its flirty advanced voice mode has been delayed](https://www.theverge.com/2024/6/25/24186032/openai-chatgpt-mac-app-advanced-voice-mode-delayed)
- - [Chicago-based Formic, which provides robots-as-a-service automation to US manufacturers, raised $27.4M, bringing its total Series A funding to $52M+ &lpar;Brianna Wessling/The Robot Report&rpar;](http://www.techmeme.com/240625/p31#a240625p31)
- - [Forza Horizon 4 will be delisted from Microsoft stores and Steam in December](https://www.theverge.com/2024/6/25/24185972/forza-horizon-4-xbox-pc-microsoft-steam-delisted)
- - [OpenAI delays the release of its advanced Voice Mode for ChatGPT by a month to address safety issues and plans to roll out the feature to Plus users in the fall &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/240625/p30#a240625p30)<!-- TECH:END -->
+ - [Chicago-based Formic, which provides robots-as-a-service automation to US manufacturers, raised $27.4M, bringing its total Series A funding to $52M+ &lpar;Brianna Wessling/The Robot Report&rpar;](http://www.techmeme.com/240625/p31#a240625p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

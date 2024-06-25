@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta&#39;s Quest v67 PTC update adds an experimental option to let users freely position and resize 2D windows as well as &quot;take any window fullscreen&quot; &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/240625/p20#a240625p20)
- - [Fourth of July Sales vs. Amazon Prime Day Deals: What Should You Buy and When?     - CNET](https://www.cnet.com/deals/amazon-prime-day-deals-vs-fourth-of-july-sales/#ftag=CAD590a51e)
- - [Play Cozy Grove: Camp Spirit Now and Other Titles Soon on Netflix Games     - CNET](https://www.cnet.com/tech/gaming/play-cozy-grove-camp-spirit-now-and-other-titles-soon-on-netflix-games/#ftag=CAD590a51e)
- - [Best Pillow for Neck Pain in 2024     - CNET](https://www.cnet.com/health/sleep/best-pillow-for-neck-pain/#ftag=CAD590a51e)
- - [Saatva Rx Mattress Review 2024: Our Favorite Pillow-Top Bed Designed for Chronic Health Conditions     - CNET](https://www.cnet.com/health/sleep/saatva-rx-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The RIAA&#39;s lawsuit against generative music startups will be the bloodbath AI needs and an object lesson in hubris for similarly unethical AI companies &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/240625/p23#a240625p23)
+ - [Google will hold a Pixel event on August 13 at 10AM PT in Mountain View, where the Pixel 9, Pixel 9 Pro, Pixel 9 Pro Fold, and Pixel Watch 3 are expected &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240625/p22#a240625p22)
+ - [Google is killing infinite scroll on search results](https://www.theverge.com/2024/6/25/24185727/google-search-continuous-scrolling-doomscrolling-graveyard)
+ - [ElevenLabs debuts its first iOS app, which turns any English-language text, including from PDFs and ePubs, into narrations by one of its &quot;human-like voices&quot; &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240625/p21#a240625p21)
+ - [Meta&#39;s Quest v67 PTC update adds an experimental option to let users freely position and resize 2D windows as well as &quot;take any window fullscreen&quot; &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/240625/p20#a240625p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What is my godamn superpower ?](http://9gag.com/gag/aLnBbn6)
- - 😝 [Guys, is this true ?](http://9gag.com/gag/adBpoA2)
- - 💣 [Say it!](http://9gag.com/gag/aVvXVdP)
- - 😝 [It\u2019s outrageous! It\u2019s unfair!](http://9gag.com/gag/a4PLqZ6)
- - 👉 [And indeed a hundred thousand](http://9gag.com/gag/a9yPOoD)<!-- MEMES:END -->
+ - 😝 [Say it!](http://9gag.com/gag/aVvXVdP)
+ - 😝 [And indeed a hundred thousand](http://9gag.com/gag/a9yPOoD)
+ - 💣 [Your superpower: you can see the number showing probability you two sleeping together](http://9gag.com/gag/a87jVvZ)
+ - 😝 [Canopy comes off airplane right after takeoff](http://9gag.com/gag/ae9pRrm)
+ - 👉 [Swifties aren&#39;t gonna like this.](http://9gag.com/gag/aD2mMQZ)<!-- MEMES:END -->
 
 ---
 

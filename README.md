@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Married women face hiring challenges at Foxconn plants in India](https://appleinsider.com/articles/24/06/25/married-women-face-hiring-challenges-at-foxconn-plants-in-india?utm_medium=rss)
  - [Taiwan press talks up iffy rumor about a new local Apple datacenter](https://appleinsider.com/articles/24/06/25/taiwan-press-talks-up-iffy-rumor-about-a-new-local-apple-datacenter?utm_medium=rss)
  - [Beats Pill review: Premium, but worth the money](https://appleinsider.com/articles/24/06/25/beats-pill-review-premium-but-worth-the-money?utm_medium=rss)
- - [The Beats Pill speaker is back — now with 24-hour battery life and USB-C audio](https://www.theverge.com/2024/6/25/24185530/beats-pill-2024-features-price)<!-- TECH:END -->
+ - [Beats Pill Bluetooth Speaker Review: Back From the Dead and Improved in a Few Key Ways     - CNET](https://www.cnet.com/tech/home-entertainment/beats-pill-bluetooth-speaker-review-back-from-the-dead-and-improved-in-a-few-key-ways/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

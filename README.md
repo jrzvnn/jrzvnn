@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Say it!](http://9gag.com/gag/aVvXVdP)
- - 😝 [And indeed a hundred thousand](http://9gag.com/gag/a9yPOoD)
- - 💣 [Your superpower: you can see the number showing probability you two sleeping together](http://9gag.com/gag/a87jVvZ)
- - 😝 [Canopy comes off airplane right after takeoff](http://9gag.com/gag/ae9pRrm)
- - 👉 [Swifties aren&#39;t gonna like this.](http://9gag.com/gag/aD2mMQZ)<!-- MEMES:END -->
+ - 😝 [Fascinating](http://9gag.com/gag/aPAGrYn)
+ - 😝 [Swifties aren&#39;t gonna like this.](http://9gag.com/gag/aD2mMQZ)
+ - 💣 [Yay school&#39;s out for summer - or ever?](http://9gag.com/gag/aVvXBOM)
+ - 😝 [Your superpower: you can see the number showing probability you two sleeping together](http://9gag.com/gag/a87jVvZ)
+ - 👉 [Tired of BS propaganda, Hawk tuak, and other sh*t. Reposting old memes !](http://9gag.com/gag/aLnBr1A)<!-- MEMES:END -->
 
 ---
 

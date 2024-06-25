@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [If Apple&#39;s research pans out, an iPhone could be a portable science lab](https://appleinsider.com/articles/24/06/25/if-apples-research-pans-out-an-iphone-could-be-a-portable-science-lab?utm_medium=rss)
  - [Etched, which is building Sohu, an inferencing chip that only runs transformer AI models, raised a $120M Series A, bringing its total funding to $125.36M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240625/p11#a240625p11)
  - [Tropf-Blumat Watering System Review: Key to My Gardening Success](https://www.wired.com/review/tropf-blumat-watering-system/)
  - [Uber Freight will use Aurora&#39;s driverless trucks on routes between Dallas and Houston as part of a new long-term deal, following a three-year commercial pilot &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/240625/p10#a240625p10)
- - [The Best Instant Coffees &lpar;2024&rpar;: Tested and Reviewed](https://www.wired.com/gallery/best-instant-coffee/)
- - [Sources: Meituan considers raising $1B+ via a bond offering this year as the food delivery and shopping platform seeks to repay some debt and fund its expansion &lpar;Bloomberg&rpar;](http://www.techmeme.com/240625/p9#a240625p9)<!-- TECH:END -->
+ - [The Best Instant Coffees &lpar;2024&rpar;: Tested and Reviewed](https://www.wired.com/gallery/best-instant-coffee/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

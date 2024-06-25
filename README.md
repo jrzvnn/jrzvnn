@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cruise names Marc Whitten, a former Amazon and Microsoft executive, as its new CEO &lpar;Michael Wayland/CNBC&rpar;](http://www.techmeme.com/240625/p26#a240625p26)
+ - [Anthropic debuts Projects, letting Claude.ai Pro and Team users work with chats, docs, code, and more in one place; each project includes a 200K context window &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240625/p25#a240625p25)
  - [VW will invest $5 billion in Rivian as part of new EV joint venture](https://www.theverge.com/2024/6/25/24185946/vw-rivian-joint-venture-investment-software-r2)
  - [New firmware available for AirPods, AirPods Pro, &amp; AirPods Max](https://appleinsider.com/articles/24/06/25/new-firmware-available-for-airpods-airpods-pro-airpods-max?utm_medium=rss)
- - [Best AirPods Pro 2 Deals: Save Up to $50 on Apple&#39;s Best Wireless Earbuds Plus Free Services](https://www.cnet.com/deals/best-airpods-pro-2nd-generation-deals/#ftag=CAD590a51e)
- - [Best iPad Air Deals: Save on Apple&#39;s Latest Model With Discounts, Freebies and More](https://www.cnet.com/deals/best-ipad-air-6-deals/#ftag=CAD590a51e)
- - [IPad &lpar;10th Gen&rpar; Deals: Get Apple&#39;s Entry-Level Tablet for Less Plus Trade-In Savings and More](https://www.cnet.com/deals/ipad-10th-generation-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best AirPods Pro 2 Deals: Save Up to $50 on Apple&#39;s Best Wireless Earbuds Plus Free Services](https://www.cnet.com/deals/best-airpods-pro-2nd-generation-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

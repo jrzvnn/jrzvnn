@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dr Disrespect finally shares why he was banned from Twitch](https://www.theverge.com/2024/6/25/24185821/dr-disrespect-twitch-ban-explanation-inappropriate-messages)
  - [Epomaker’s TH80 Pro, one of our top mechanical keyboard picks, is at its best price](https://www.theverge.com/2024/6/25/24185762/amazon-epomaker-th80-pro-deal-sale)
  - [The RIAA&#39;s lawsuit against generative music startups will be the bloodbath AI needs and an object lesson in hubris for similarly unethical AI companies &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/240625/p23#a240625p23)
  - [Google will hold a Pixel event on August 13 at 10AM PT in Mountain View, where the Pixel 9, Pixel 9 Pro, Pixel 9 Pro Fold, and Pixel Watch 3 are expected &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240625/p22#a240625p22)
- - [Google is killing infinite scroll on search results](https://www.theverge.com/2024/6/25/24185727/google-search-continuous-scrolling-doomscrolling-graveyard)
- - [ElevenLabs debuts its first iOS app, which turns any English-language text, including from PDFs and ePubs, into narrations by one of its &quot;human-like voices&quot; &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/240625/p21#a240625p21)<!-- TECH:END -->
+ - [Google is killing infinite scroll on search results](https://www.theverge.com/2024/6/25/24185727/google-search-continuous-scrolling-doomscrolling-graveyard)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

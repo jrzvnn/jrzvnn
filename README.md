@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That means somethings are truly bizarre. No joke.](http://9gag.com/gag/aRBVRG2)
- - 😝 [You can tell the Second this boy became a man](http://9gag.com/gag/aXPXeGP)
- - 💣 [I&#39;m old school I like my women without the peenus](http://9gag.com/gag/aKGBpXb)
- - 😝 [Party among friends](http://9gag.com/gag/aZZNdP9)
- - 👉 [He is a man of focus meme](http://9gag.com/gag/avyLDLn)<!-- MEMES:END -->
+ - 😝 [Say it!](http://9gag.com/gag/aVvXVdP)
+ - 😝 [Fascinating](http://9gag.com/gag/aPAGrYn)
+ - 💣 [Your superpower: you can see the number showing probability you two sleeping together](http://9gag.com/gag/a87jVvZ)
+ - 😝 [Muntjacs are a genus of deer native to South and Southeast Asia.](http://9gag.com/gag/aGyROd0)
+ - 👉 [Canopy comes off airplane right after takeoff](http://9gag.com/gag/ae9pRrm)<!-- MEMES:END -->
 
 ---
 

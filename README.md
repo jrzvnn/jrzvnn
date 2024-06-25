@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tired of BS propaganda, Hawk tuak, and other sh*t. Reposting old memes !](http://9gag.com/gag/aLnBr1A)
- - 😝 [This is the best joke in the entire movie...](http://9gag.com/gag/a7obnge)
- - 💣 [Are Germans the ultimate cucks?](http://9gag.com/gag/a9yPB50)
- - 😝 [Crossing the Ganges](http://9gag.com/gag/a87jzw3)
- - 👉 [Muntjacs are a genus of deer native to South and Southeast Asia.](http://9gag.com/gag/aGyROd0)<!-- MEMES:END -->
+ - 😝 [Muntjacs are a genus of deer native to South and Southeast Asia.](http://9gag.com/gag/aGyROd0)
+ - 😝 [Weather forecast today](http://9gag.com/gag/aMVQXmA)
+ - 💣 [Ultra reaction](http://9gag.com/gag/aByrvdN)
+ - 😝 [Swifties aren&#39;t gonna like this.](http://9gag.com/gag/aD2mMQZ)
+ - 👉 [WikiLeaks Founder Julian Assange has just reached a plea deal with the U.S. Justice Department of Justice allowing him to be released from prison.](http://9gag.com/gag/a4PLrGZ)<!-- MEMES:END -->
 
 ---
 

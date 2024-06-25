@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snapchat announces updates to its account blocking functionality and enhanced friending safeguards, making it difficult for strangers to contact its users &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/240625/p16#a240625p16)
- - [Windows 11 changed the initial setup process to enable automatic backup of folders to OneDrive without asking permission, annoying and confusing many users &lpar;Taras Buria/Neowin&rpar;](http://www.techmeme.com/240625/p15#a240625p15)
- - [Married women face hiring challenges at Foxconn plants in India](https://appleinsider.com/articles/24/06/25/married-women-face-hiring-challenges-at-foxconn-plants-in-india?utm_medium=rss)
- - [Taiwan press talks up iffy rumor about a new local Apple datacenter](https://appleinsider.com/articles/24/06/25/taiwan-press-talks-up-iffy-rumor-about-a-new-local-apple-datacenter?utm_medium=rss)
- - [Beats Pill review: Premium, but worth the money](https://appleinsider.com/articles/24/06/25/beats-pill-review-premium-but-worth-the-money?utm_medium=rss)<!-- TECH:END -->
+ - [Waymo drops its waitlist in San Francisco, letting anyone download its app and hail a robotaxi; in Phoenix, Waymo has been open to the public since 2020 &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/240625/p17#a240625p17)
+ - [Apple working out how to use Mac in parallel with iPhone or iPad to process big jobs](https://appleinsider.com/articles/24/06/25/apple-working-out-how-to-use-mac-in-parallel-with-iphone-or-ipad-to-process-big-jobs?utm_medium=rss)
+ - [The best Etsy alternatives for selling your crafts](https://www.theverge.com/23013610/etsy-crafts-sell-creative-amazon-shopify-how-to)
+ - [The MTV News archive has been taken offline](https://www.theverge.com/2024/6/25/24185548/mtv-news-archived-offline-paramount-global)
+ - [We’ve Spent Hours Reading and These Are Our Favorite E-Readers](https://www.wired.com/gallery/best-ereaders/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

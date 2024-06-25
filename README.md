@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Surgical lights cast no visible shadow](http://9gag.com/gag/amo8d32)
  - 😝 [Spielberg Humiliates Kathleen Kennedy](http://9gag.com/gag/a6ZL4p8)
- - 😝 [Let them fight i say](http://9gag.com/gag/aZZNV10)
- - 💣 [Title](http://9gag.com/gag/a87jXgd)
- - 😝 [Judge giving justice](http://9gag.com/gag/aRBV8eG)
- - 👉 [All nations should learn from Winston Churchill](http://9gag.com/gag/aO8mN1D)<!-- MEMES:END -->
+ - 💣 [What is my godamn superpower ?](http://9gag.com/gag/aLnBbn6)
+ - 😝 [Ultra reaction](http://9gag.com/gag/aByrvdN)
+ - 👉 [You just can&#39;t make this up](http://9gag.com/gag/aVvX9DO)<!-- MEMES:END -->
 
 ---
 

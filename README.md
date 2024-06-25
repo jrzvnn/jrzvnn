@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fascinating](http://9gag.com/gag/aPAGrYn)
- - 😝 [Swifties aren&#39;t gonna like this.](http://9gag.com/gag/aD2mMQZ)
- - 💣 [Muntjacs are a genus of deer native to South and Southeast Asia.](http://9gag.com/gag/aGyROd0)
- - 😝 [Brazilian apllying for an international job](http://9gag.com/gag/aAypmj0)
- - 👉 [What is my godamn superpower ?](http://9gag.com/gag/aLnBbn6)<!-- MEMES:END -->
+ - 😝 [Tired of BS propaganda, Hawk tuak, and other sh*t. Reposting old memes !](http://9gag.com/gag/aLnBr1A)
+ - 😝 [Muntjacs are a genus of deer native to South and Southeast Asia.](http://9gag.com/gag/aGyROd0)
+ - 💣 [Surgical lights cast no visible shadow](http://9gag.com/gag/amo8d32)
+ - 😝 [What a great target](http://9gag.com/gag/aE0zOOx)
+ - 👉 [And indeed a hundred thousand](http://9gag.com/gag/a9yPOoD)<!-- MEMES:END -->
 
 ---
 

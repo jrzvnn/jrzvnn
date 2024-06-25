@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Meituan considers raising $1B+ via a bond offering this year as the food delivery and shopping platform seeks to repay some debt and fund its expansion &lpar;Bloomberg&rpar;](http://www.techmeme.com/240625/p9#a240625p9)
+ - [Apple and Meta iOS 18 AI chatbot integration discussions ended long ago](https://appleinsider.com/articles/24/06/24/apple-and-meta-not-in-discussions-over-ai-chatbot-report-claims?utm_medium=rss)
  - [Apple&#39;s on-device email categorization is a feature years in the making](https://appleinsider.com/articles/24/06/25/apples-on-device-email-categorization-is-a-feature-years-in-the-making?utm_medium=rss)
  - [Tesla Cybertuck recalled again, this time over faulty wiper and trim](https://www.theverge.com/2024/6/25/24185472/tesla-cybertruck-recall-faulty-wiper-trim)
- - [The Mystery of AI Gunshot-Detection Accuracy Is Finally Unraveling](https://www.wired.com/story/ai-gunshot-detection-accuracy-san-jose-nyc/)
- - [Uber and Aurora announce ‘long-term’ driverless truck deal after successful pilot](https://www.theverge.com/2024/6/25/24184973/uber-freight-aurora-driverless-truck-deal)
- - [EvolutionaryScale releases AI models called ESM3 to create novel proteins and raised $142M in seed funding led by Nat Friedman, Daniel Gross, and Lux Capital &lpar;Reuters&rpar;](http://www.techmeme.com/240625/p8#a240625p8)<!-- TECH:END -->
+ - [The Mystery of AI Gunshot-Detection Accuracy Is Finally Unraveling](https://www.wired.com/story/ai-gunshot-detection-accuracy-san-jose-nyc/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

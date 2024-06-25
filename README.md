@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Stability AI says it closed a new funding round; sources: investors committed $80M to take over the company, and some suppliers have forgiven debt obligations &lpar;Deepa Seetharaman/Wall Street Journal&rpar;](http://www.techmeme.com/240625/p18#a240625p18)
  - [You can own Steve Jobs&#39; iconic 1984 Macintosh ad suit -- but it&#39;ll cost you](https://appleinsider.com/articles/24/06/25/you-can-own-steve-jobs-iconic-1984-macintosh-ad-suit----but-itll-cost-you?utm_medium=rss)
  - [Meta is connecting Threads more deeply with the fediverse](https://www.theverge.com/2024/6/25/24185226/meta-threads-fediverse-likes-replies)
- - [Motorola Razr and Razr+ &lpar;2024&rpar;: Specs, Features, Price, Release Date](https://www.wired.com/story/motorola-razr-and-razr-plus-2024/)
- - [The Moto Tag is an AirTag for Android](https://www.theverge.com/2024/6/25/24185612/motorola-moto-tag-android-find-my-device)
- - [Motorola’s 2024 Razr phones are ready to make a splash](https://www.theverge.com/2024/6/25/24185177/motorola-razr-plus-2024-flip-phone-screen-battery-price)<!-- TECH:END -->
+ - [Motorola Razr Plus: Big Camera and Cover Screen Upgrades, Moto AI and Moto Tag     - CNET](https://www.cnet.com/tech/mobile/motorola-razr-plus-big-camera-and-cover-screen-upgrades-moto-ai-and-moto-tag/#ftag=CAD590a51e)
+ - [Supervive Hands-On: An Intimidatingly Ambitious Blend of Apex and League of Legends     - CNET](https://www.cnet.com/tech/gaming/supervive-hands-on-excitingly-unique-but-intimidatingly-ambitious/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

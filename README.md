@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guys, is this true ?](http://9gag.com/gag/adBpoA2)
  - 😝 [Surgical lights cast no visible shadow](http://9gag.com/gag/amo8d32)
- - 💣 [Let them fight i say](http://9gag.com/gag/aZZNV10)
- - 😝 [Swifties aren&#39;t gonna like this.](http://9gag.com/gag/aD2mMQZ)
- - 👉 [Fascinating](http://9gag.com/gag/aPAGrYn)<!-- MEMES:END -->
+ - 😝 [Fascinating](http://9gag.com/gag/aPAGrYn)
+ - 💣 [Swifties aren&#39;t gonna like this.](http://9gag.com/gag/aD2mMQZ)
+ - 😝 [Your superpower: you can see the number showing probability you two sleeping together](http://9gag.com/gag/a87jVvZ)
+ - 👉 [Title](http://9gag.com/gag/aO8mpZv)<!-- MEMES:END -->
 
 ---
 

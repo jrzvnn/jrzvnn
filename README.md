@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EvolutionaryScale releases AI models called ESM3 to create novel proteins and raised $142M in seed funding led by Nat Friedman, Daniel Gross, and Lux Capital &lpar;Reuters&rpar;](http://www.techmeme.com/240625/p8#a240625p8)
  - [Microsoft charged with EU antitrust violations for bundling Teams](https://www.theverge.com/2024/6/25/24185467/microsoft-teams-eu-bundling-antitrust-violations)
  - [Pooping on the Moon Is a Messy Business](https://www.wired.com/story/pooping-on-the-moon-is-a-messy-business/)
- - [Xbox Game Pass: You Can Play My Time at Sandrock and FC 24 Now     - CNET](https://www.cnet.com/tech/gaming/xbox-game-pass-you-can-play-my-time-at-sandrock-and-fc-24-now-more-soon/#ftag=CAD590a51e)
- - [Apple Watch Ultra 2 vs. Apple Watch Ultra: Comparing the Rugged Watches     - CNET](https://www.cnet.com/tech/mobile/apple-watch-ultra-2-vs-apple-watch-ultra-comparing-the-rugged-watches/#ftag=CAD590a51e)
- - [Deepfake Creators Are Revictimizing GirlsDoPorn Sex Trafficking Survivors](https://www.wired.com/story/girlsdoporn-deepfake-victim-videos/)<!-- TECH:END -->
+ - [Deepfake Creators Are Revictimizing GirlsDoPorn Sex Trafficking Survivors](https://www.wired.com/story/girlsdoporn-deepfake-victim-videos/)
+ - [In preliminary findings, the EU charges Microsoft with antitrust violations over concerns that it gave Teams an &quot;undue advantage&quot; by bundling it with Office &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240625/p7#a240625p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

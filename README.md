@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Surgical lights cast no visible shadow](http://9gag.com/gag/amo8d32)
- - 😝 [Spielberg Humiliates Kathleen Kennedy](http://9gag.com/gag/a6ZL4p8)
- - 💣 [What is my godamn superpower ?](http://9gag.com/gag/aLnBbn6)
- - 😝 [Ultra reaction](http://9gag.com/gag/aByrvdN)
- - 👉 [You just can&#39;t make this up](http://9gag.com/gag/aVvX9DO)<!-- MEMES:END -->
+ - 😝 [`Hear me out... `](http://9gag.com/gag/amo8beo)
+ - 😝 [My fellow tech bros...](http://9gag.com/gag/aMVQDwA)
+ - 💣 [The highest court in Israel decided these guys have to go into military service from now on.](http://9gag.com/gag/aW4ONXd)
+ - 😝 [Voluptuous Latina](http://9gag.com/gag/aO8mAQR)
+ - 👉 [Judge giving justice](http://9gag.com/gag/aRBV8eG)<!-- MEMES:END -->
 
 ---
 

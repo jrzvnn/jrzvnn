@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Say it!](http://9gag.com/gag/aVvXVdP)
- - 😝 [Fascinating](http://9gag.com/gag/aPAGrYn)
- - 💣 [Your superpower: you can see the number showing probability you two sleeping together](http://9gag.com/gag/a87jVvZ)
- - 😝 [Muntjacs are a genus of deer native to South and Southeast Asia.](http://9gag.com/gag/aGyROd0)
- - 👉 [Canopy comes off airplane right after takeoff](http://9gag.com/gag/ae9pRrm)<!-- MEMES:END -->
+ - 😝 [Surgical lights cast no visible shadow](http://9gag.com/gag/amo8d32)
+ - 😝 [Your superpower: you can see the number showing probability you two sleeping together](http://9gag.com/gag/a87jVvZ)
+ - 💣 [Canopy comes off airplane right after takeoff](http://9gag.com/gag/ae9pRrm)
+ - 😝 [And indeed a hundred thousand](http://9gag.com/gag/a9yPOoD)
+ - 👉 [Title](http://9gag.com/gag/aO8mpZv)<!-- MEMES:END -->
 
 ---
 

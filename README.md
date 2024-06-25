@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon plans to hold Prime Day 2024 on July 16 and July 17 in 24 countries including the US, the UK, and Japan; India will receive a separate event later &lpar;Quentyn Kennemer/The Verge&rpar;](http://www.techmeme.com/240625/p2#a240625p2)
  - [Amazon Prime Day 2024 will take place on July 16th and 17th](https://www.theverge.com/2024/6/25/24145258/amazon-prime-day-dates-july-2024-sale)
  - [Belgium-based TechWolf, which provides AI-powered internal talent management software, has raised a $42.75M Series B led by Felix Capital at a $150M valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240625/p1#a240625p1)
  - [Today&#39;s NYT Strands Hints, Answers and Help for June 25, #114     - CNET](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-25-114/#ftag=CAD590a51e)
- - [Student Loan Forgiveness Deadline: 5 Days Left to Maximize Your Debt Relief     - CNET](https://www.cnet.com/personal-finance/loans/student-loan-forgiveness-deadline-5-days-left-to-maximize-your-debt-relief/#ftag=CAD590a51e)
- - [NBA Draft 2024: Start Time, Draft Order and How to Watch, Stream From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/nba-draft-2024-start-time-draft-order-and-how-to-watch-stream-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Student Loan Forgiveness Deadline: 5 Days Left to Maximize Your Debt Relief     - CNET](https://www.cnet.com/personal-finance/loans/student-loan-forgiveness-deadline-5-days-left-to-maximize-your-debt-relief/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

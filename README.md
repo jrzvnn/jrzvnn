@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Surgical lights cast no visible shadow](http://9gag.com/gag/amo8d32)
+ - 😝 [Shinji a real man.](http://9gag.com/gag/a9yPX1W)
+ - 😝 [Your superpower: you can see the number showing probability you two sleeping together](http://9gag.com/gag/a87jVvZ)
+ - 💣 [Say it!](http://9gag.com/gag/aVvXVdP)
  - 😝 [Guys Literally Only Want One Thing And It&#39;s F**king Disgusting](http://9gag.com/gag/a2vqGjO)
- - 💣 [Deliveryyy](http://9gag.com/gag/aGyRO3n)
- - 😝 [And indeed a hundred thousand](http://9gag.com/gag/a9yPOoD)
- - 👉 [Hawk Tuah! Throw garbage at that thing.](http://9gag.com/gag/aQzn2Wq)<!-- MEMES:END -->
+ - 👉 [And indeed a hundred thousand](http://9gag.com/gag/a9yPOoD)<!-- MEMES:END -->
 
 ---
 

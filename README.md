@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers in Rabbit R1&#39;s jailbreaking community say Rabbit left critical API keys hardcoded in its code, which would let hackers use Rabbit&#39;s internal systems &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240626/p36#a240626p36)
+ - [At Nvidia&#39;s first shareholder meeting since the recent stock surge, CEO Jensen Huang laid out Nvidia&#39;s strategy to maintain its position amid rising competition &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240626/p35#a240626p35)
+ - [Celebrate Fourth of July with 30% Off the Leesa Sapira Chill Mattress](https://www.cnet.com/deals/leesa-sapira-chill-hybrid-fourth-of-july-deal/#ftag=CAD590a51e)
  - [Snap adds new warnings and region blocks to address teen ‘sextortion’ scams](https://www.theverge.com/2024/6/26/24186546/snapchat-friend-request-blocks-sextortion-scams-teens)
- - [Erdtree gets a little easier with new Elden Ring update](https://www.theverge.com/2024/6/26/24186473/elden-ring-dlc-shadow-of-the-erdtree-update-difficulty-nerf)
- - [Slides shown to Chinese sellers: Amazon plans to launch a Temu-like section featuring cheap items that ship directly from China to overseas consumers &lpar;The Information&rpar;](http://www.techmeme.com/240626/p34#a240626p34)
- - [Microsoft’s canceled Xbox cloud console gets detailed in new patent](https://www.theverge.com/2024/6/26/24186639/microsoft-xbox-cloud-console-keystone-patent-images)
- - [War Crime Prosecutions Enter a New Digital Age](https://www.wired.com/story/icc-investigation-digital-media/)<!-- TECH:END -->
+ - [Supreme Court OKs Biden Administration Contact With Social Media Companies](https://www.cnet.com/news/social-media/supreme-court-oks-biden-administration-contact-with-social-media-companies/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

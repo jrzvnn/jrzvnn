@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Russian Propaganda Network Is Promoting an AI-Manipulated Biden Video](https://www.wired.com/story/russia-disinformation-network-ai-generated-biden-video/)
- - [Onehouse, which offers a fully managed data lakehouse that helps companies deploy Apache Hudi, raised a $35M Series B, bringing its total funding to $68M &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240626/p30#a240626p30)
- - [Figma announces big redesign with AI](https://www.theverge.com/2024/6/26/24183730/figma-ai-tools-app-redesign-slides)
- - [Rivian teases four new vehicles, and I have no idea what they are](https://www.theverge.com/2024/6/26/24186332/rivian-tease-mystery-vehicle-r1-r2-r3-shareholder-letter)
- - [How to use CarPlay&#39;s handy new features in iOS 18](https://appleinsider.com/inside/carplay/tips/how-to-use-carplays-handy-new-features-in-ios-18?utm_medium=rss)<!-- TECH:END -->
+ - [Everything you need to know about the tech at the Paris Olympics](https://www.theverge.com/24186212/olympics-paris-2024-summer-news-updates)
+ - [NBC’s Paris Olympics coverage will have AI-generated recaps, split screen, and more](https://www.theverge.com/2024/6/26/24185940/olympics-nbc-peacock-watch-stream-paris-2024)
+ - [An AI version of Al Michaels will deliver Olympic recaps on Peacock](https://www.theverge.com/2024/6/26/24185774/olympics-ai-al-michaels-voice-recaps)
+ - [Intel shows off a fully integrated bidirectional optical compute interconnect chiplet, which enables higher-bandwidth data transfers for AI workloads &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/240626/p31#a240626p31)
+ - [A Russian Propaganda Network Is Promoting an AI-Manipulated Biden Video](https://www.wired.com/story/russia-disinformation-network-ai-generated-biden-video/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

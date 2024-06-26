@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just wanted to share some life hack for summer](http://9gag.com/gag/a6ZLe9N)
+ - 😝 [Surgical lights cast no visible shadow](http://9gag.com/gag/amo8d32)
  - 😝 [The highest court in Israel decided these guys have to go into military service from now on.](http://9gag.com/gag/aW4ONXd)
- - 💣 [Judge giving justice](http://9gag.com/gag/aRBV8eG)
+ - 💣 [They are living with us, near you, maybe they are your neighbours...or maybe it&#39;s you !](http://9gag.com/gag/a9yPNXj)
  - 😝 [Voluptuous Latina](http://9gag.com/gag/aO8mAQR)
- - 👉 [Your superpower: you can see the number showing probability you two sleeping together](http://9gag.com/gag/a87jVvZ)<!-- MEMES:END -->
+ - 👉 [Judge giving justice](http://9gag.com/gag/aRBV8eG)<!-- MEMES:END -->
 
 ---
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon Prime Day starts July 16, but you can grab Apple deals for as low as $24 today](https://appleinsider.com/articles/24/06/26/amazon-prime-day-starts-july-16-but-you-can-grab-apple-deals-for-as-low-as-24-today?utm_medium=rss)
+ - [Apple’s M2-powered Mac Mini is down to one of its best prices](https://www.theverge.com/2024/6/26/24185646/amazon-apple-mac-mini-blink-video-doorbell-deal-sale)
  - [SCOTUS Rules That US Government Can Continue Talking to Social Media Companies](https://www.wired.com/story/scotus-us-government-talk-social-media-companies/)
  - [Apple touts its device longevity in a whitepaper and says True Tone and battery health data will be available for third-party replacement parts later in 2024 &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240626/p28#a240626p28)
- - [Verizon’s new V logo arrives as the lines blur between 5G, Fios, and streaming](https://www.theverge.com/2024/6/26/24186373/verizon-new-logo-myhome-internet-plans)
- - [Sources: an ID verification service that handles ID photos and is used by TikTok, X, Uber, and others, left admin credentials exposed online for over a year &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/240626/p27#a240626p27)
- - [Formation Bio, which uses AI to co-develops drugs with biotech and pharma companies, raised a $372M Series D led by a16z, bringing its total funding to $600M+ &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240626/p26#a240626p26)<!-- TECH:END -->
+ - [Verizon’s new V logo arrives as the lines blur between 5G, Fios, and streaming](https://www.theverge.com/2024/6/26/24186373/verizon-new-logo-myhome-internet-plans)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An overview of China&#39;s Dragonbridge multiyear disinfo campaign that uses AI-generated content and spans several social networks to target geopolitical rivals &lpar;Zak Butler/The Keyword&rpar;](http://www.techmeme.com/240626/p39#a240626p39)
+ - [Know the price-matching policies for Best Buy, Target, Walmart, and others](https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft)
+ - [Best Apple Studio Display Deals: Save Up to $100 on This State-of-the-Art 27-Inch 5K Monitor](https://www.cnet.com/deals/best-studio-display-deals/#ftag=CAD590a51e)
  - [Activist investor Jana Partners announces an investment in Rapid7; sources say Jana plans to push the cybersecurity company to sell itself &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/240626/p38#a240626p38)
- - [A group of R1 jailbreakers found a massive security flaw in Rabbit’s code](https://www.theverge.com/2024/6/26/24186614/rabbit-r1-security-flaw-api-key-codebase)
- - [Steam’s new native gameplay recording tool also works on the Steam Deck](https://www.theverge.com/2024/6/26/24186716/valve-steam-native-game-recording-tool-deck)
- - [Don’t Miss Mattress Firm’s Fourth of July Sale Happening Now](https://www.cnet.com/deals/mattress-firm-4th-of-july-2024/#ftag=CAD590a51e)
- - [This Is the Fastest Way to Make Crispy Bacon](https://www.cnet.com/how-to/this-is-the-fastest-way-to-make-crispy-bacon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A group of R1 jailbreakers found a massive security flaw in Rabbit’s code](https://www.theverge.com/2024/6/26/24186614/rabbit-r1-security-flaw-api-key-codebase)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

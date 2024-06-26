@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [BMW M5 gets its first plug — and gains a lot of weight](https://www.theverge.com/2024/6/26/24186750/2025-bmw-m5-plug-in-hybrid)
  - [Crypto investment app Abra and CEO William Barhydt settle with 25 US states for operating without proper licenses and will return up to $82.1M to US customers &lpar;Cheyenne Ligon/CoinDesk&rpar;](http://www.techmeme.com/240626/p43#a240626p43)
  - [You will never guess Wordle’s terrible, hilarious original name](https://www.theverge.com/24186786/wordle-original-name-mr-bugs-wordy-nugz-wardle)
  - [Watching &#39;The Boys&#39; Season 4? This Prime Video Feature Is a Treat](https://www.cnet.com/tech/services-and-software/watching-the-boys-season-4-this-prime-video-feature-is-a-treat/#ftag=CAD590a51e)
- - [Best MacBook Deals: Big Savings on MacBook Pro and MacBook Air Models](https://www.cnet.com/deals/best-macbook-deals/#ftag=CAD590a51e)
- - [Best Internet Providers in Irving, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-irving-tx/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best MacBook Deals: Big Savings on MacBook Pro and MacBook Air Models](https://www.cnet.com/deals/best-macbook-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

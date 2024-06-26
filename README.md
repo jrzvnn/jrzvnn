@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hands-on with Ray-Ban Meta&#39;s new AI translation feature, which is too rudimentary and buggy to be anything more than a novelty &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/240626/p42#a240626p42)
  - [Japan’s Olympic athletes will wear outfits designed to block infrared cameras](https://www.theverge.com/2024/6/26/24186660/olympics-athletes-mizuno-privacy-photography-paris)
  - [An AI-designed horse purse is tearing apart this small but passionate community](https://www.theverge.com/2024/6/26/24186635/baggu-collina-strada-collaboration-ai-purses-art)
  - [Samsung is offering a $50 credit when you reserve the next Galaxy Z Flip or Z Fold](https://www.theverge.com/2024/6/26/24186419/samsung-galaxy-z-fold-flip-6-reservation-preorder-credit-deal-promo)
- - [New Chrome mobile shortcuts let you call a restaurant from your address bar](https://www.theverge.com/2024/6/26/24186783/google-chrome-android-ios-mobile-shortcuts-restaurant)
- - [Micron reports Q3 revenue up 82% YoY to $6.81B, vs. $6.67B est., and forecasts Q4 revenue in line with estimates &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240626/p41#a240626p41)<!-- TECH:END -->
+ - [New Chrome mobile shortcuts let you call a restaurant from your address bar](https://www.theverge.com/2024/6/26/24186783/google-chrome-android-ios-mobile-shortcuts-restaurant)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

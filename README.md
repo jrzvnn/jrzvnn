@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The highest court in Israel decided these guys have to go into military service from now on.](http://9gag.com/gag/aW4ONXd)
- - 😝 [Holy shit I thought for sure you were all exaggerating](http://9gag.com/gag/an7B05o)
- - 💣 [Largest alligator ever recorded in North America](http://9gag.com/gag/aRBV8jQ)
- - 😝 [Just wanted to share some life hack for summer](http://9gag.com/gag/a6ZLe9N)
- - 👉 [Is that a bazooka are you holding?](http://9gag.com/gag/an7BWQn)<!-- MEMES:END -->
+ - 😝 [Bro missed](http://9gag.com/gag/avyLqm5)
+ - 😝 [That&#39;s a strange mystery](http://9gag.com/gag/aqy2OQP)
+ - 💣 [How to light according to the function of the room](http://9gag.com/gag/aVvX8Ld)
+ - 😝 [No more butt hurt](http://9gag.com/gag/a6ZLeeA)
+ - 👉 [Make Europe European Again!](http://9gag.com/gag/a87j97Z)<!-- MEMES:END -->
 
 ---
 

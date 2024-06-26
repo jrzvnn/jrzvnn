@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In a rare admission of ad fraud, Yahoo Japan to waive $189M ad revenue, or ~1.6% of parent company LY Corp&#39;s FY 2023 revenue, after detecting fraudulent clicks &lpar;Laura Dobberstein/The Register&rpar;](http://www.techmeme.com/240626/p7#a240626p7)
  - [Rimac Verne Robotaxi: prices, availability, specs](https://www.wired.com/story/rimacs-super-sleek-robotaxi-has-more-room-than-a-rolls-royce/)
  - [Rimac is shifting from electric supercars to robotaxis](https://www.theverge.com/2024/6/26/24185735/rimac-verne-robotaxi-croatia-mobileye-autonomous)
  - [With AI Tools, Scientists Can Crack the Code of Life](https://www.wired.com/story/wired-health-pushmeet-kohli-deepmind-ai-google/)
- - [Amazon Prime Day 2024: How to Sign Up for Prime Before the Big Sale](https://www.cnet.com/tech/amazon-prime-day-2024-how-to-sign-up-for-prime-before-the-big-sale/#ftag=CAD590a51e)
- - [Ultimate Ears announces new Everboom speaker, Boom 4 with USB-C, and more](https://www.theverge.com/2024/6/26/24185957/ue-everboom-boom-4-wonderboom-megaboom-features)<!-- TECH:END -->
+ - [Amazon Prime Day 2024: How to Sign Up for Prime Before the Big Sale](https://www.cnet.com/tech/amazon-prime-day-2024-how-to-sign-up-for-prime-before-the-big-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

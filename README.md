@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Windows on Arm finally has legs](https://www.theverge.com/2024/6/26/24186432/microsoft-windows-on-arm-qualcomm-copilot-plus-pcs-prism-emulator)
  - [PDF organizer Stack is the latest app to hit the Google graveyard](https://www.theverge.com/24186376/google-stack-pdf-graveyard-android-app)
  - [Apple will soon offer better support for third-party iPhone displays and batteries](https://www.theverge.com/2024/6/26/24186429/apple-iphone-batteries-displays-batteries-third-party-true-tone-metrics)
  - [Supreme Court decision means Biden administration can keep talking to social media companies](https://www.theverge.com/2024/6/26/24166529/supreme-court-ruling-murthy-v-missouri-social-media-coercion-persuasion)
- - [How LED Face Masks and Red Light Therapy Work to Reverse Wrinkles &lpar;2024&rpar;](https://www.wired.com/story/led-face-masks-and-red-light-therapy/)
- - [SCOTUS declines to impose limits on the way the Biden administration may communicate with social media platforms, overturning a lower court&#39;s 2023 decision &lpar;Andrew Chung/Reuters&rpar;](http://www.techmeme.com/240626/p25#a240626p25)<!-- TECH:END -->
+ - [How LED Face Masks and Red Light Therapy Work to Reverse Wrinkles &lpar;2024&rpar;](https://www.wired.com/story/led-face-masks-and-red-light-therapy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

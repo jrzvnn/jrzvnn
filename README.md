@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Snap adds new warnings and region blocks to address teen ‘sextortion’ scams](https://www.theverge.com/2024/6/26/24186546/snapchat-friend-request-blocks-sextortion-scams-teens)
  - [Erdtree gets a little easier with new Elden Ring update](https://www.theverge.com/2024/6/26/24186473/elden-ring-dlc-shadow-of-the-erdtree-update-difficulty-nerf)
  - [Slides shown to Chinese sellers: Amazon plans to launch a Temu-like section featuring cheap items that ship directly from China to overseas consumers &lpar;The Information&rpar;](http://www.techmeme.com/240626/p34#a240626p34)
  - [Microsoft’s canceled Xbox cloud console gets detailed in new patent](https://www.theverge.com/2024/6/26/24186639/microsoft-xbox-cloud-console-keystone-patent-images)
- - [War Crime Prosecutions Enter a New Digital Age](https://www.wired.com/story/icc-investigation-digital-media/)
- - [Google is testing facial recognition tech for campus security at an office near Seattle; people entering the building will not be able to opt out &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/240626/p33#a240626p33)<!-- TECH:END -->
+ - [War Crime Prosecutions Enter a New Digital Age](https://www.wired.com/story/icc-investigation-digital-media/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

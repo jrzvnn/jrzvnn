@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Activist investor Jana Partners announces an investment in Rapid7; sources say Jana plans to push the cybersecurity company to sell itself &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/240626/p38#a240626p38)
+ - [A group of R1 jailbreakers found a massive security flaw in Rabbit’s code](https://www.theverge.com/2024/6/26/24186614/rabbit-r1-security-flaw-api-key-codebase)
  - [Steam’s new native gameplay recording tool also works on the Steam Deck](https://www.theverge.com/2024/6/26/24186716/valve-steam-native-game-recording-tool-deck)
  - [Don’t Miss Mattress Firm’s Fourth of July Sale Happening Now](https://www.cnet.com/deals/mattress-firm-4th-of-july-2024/#ftag=CAD590a51e)
- - [This Is the Fastest Way to Make Crispy Bacon](https://www.cnet.com/how-to/this-is-the-fastest-way-to-make-crispy-bacon/#ftag=CAD590a51e)
- - [Dish Network Now Offers Free Netflix for New and Returning Customers](https://www.cnet.com/tech/services-and-software/dish-network-now-offers-free-netflix-for-new-and-returning-customers/#ftag=CAD590a51e)
- - [Steam is getting an official controller, but Valve isn’t making it](https://www.theverge.com/2024/6/26/24186645/valve-steam-controller-officially-licensed-wireless-horipad-announcement-specs)<!-- TECH:END -->
+ - [This Is the Fastest Way to Make Crispy Bacon](https://www.cnet.com/how-to/this-is-the-fastest-way-to-make-crispy-bacon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

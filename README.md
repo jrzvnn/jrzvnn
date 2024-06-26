@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro missed](http://9gag.com/gag/avyLqm5)
- - 😝 [That&#39;s a strange mystery](http://9gag.com/gag/aqy2OQP)
- - 💣 [How to light according to the function of the room](http://9gag.com/gag/aVvX8Ld)
- - 😝 [No more butt hurt](http://9gag.com/gag/a6ZLeeA)
- - 👉 [Make Europe European Again!](http://9gag.com/gag/a87j97Z)<!-- MEMES:END -->
+ - 😝 [Is that a bazooka are you holding?](http://9gag.com/gag/an7BWQn)
+ - 😝 [Judge giving justice](http://9gag.com/gag/aRBV8eG)
+ - 💣 [Voluptuous Latina](http://9gag.com/gag/aO8mAQR)
+ - 😝 [I\u2019m sure most people will think this is a scam, or weird, or whatever. But if anyone is feeling depressed please contact me. I\u2019m happy to chit-chat about any issues and offer advice. I\u2019m old now. Will delete if this gets a shit ton of trolls.](http://9gag.com/gag/a4PL8jm)
+ - 👉 [Just wanted to share some life hack for summer](http://9gag.com/gag/a6ZLe9N)<!-- MEMES:END -->
 
 ---
 

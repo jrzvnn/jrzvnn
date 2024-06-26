@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Windows on Arm finally has legs](https://www.theverge.com/2024/6/26/24186432/microsoft-windows-on-arm-qualcomm-copilot-plus-pcs-prism-emulator)
- - [PDF organizer Stack is the latest app to hit the Google graveyard](https://www.theverge.com/24186376/google-stack-pdf-graveyard-android-app)
- - [Apple will soon offer better support for third-party iPhone displays and batteries](https://www.theverge.com/2024/6/26/24186429/apple-iphone-batteries-displays-batteries-third-party-true-tone-metrics)
- - [Supreme Court decision means Biden administration can keep talking to social media companies](https://www.theverge.com/2024/6/26/24166529/supreme-court-ruling-murthy-v-missouri-social-media-coercion-persuasion)
- - [How LED Face Masks and Red Light Therapy Work to Reverse Wrinkles &lpar;2024&rpar;](https://www.wired.com/story/led-face-masks-and-red-light-therapy/)<!-- TECH:END -->
+ - [Apple touts its device longevity in a whitepaper and says True Tone and battery health data will be available for third-party replacement parts later in 2024 &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240626/p28#a240626p28)
+ - [Verizon’s new V logo arrives as the lines blur between 5G, Fios, and streaming](https://www.theverge.com/2024/6/26/24186373/verizon-new-logo-myhome-internet-plans)
+ - [Sources: an ID verification service that handles ID photos and is used by TikTok, X, Uber, and others, left admin credentials exposed online for over a year &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/240626/p27#a240626p27)
+ - [Formation Bio, which uses AI to co-develops drugs with biotech and pharma companies, raised a $372M Series D led by a16z, bringing its total funding to $600M+ &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240626/p26#a240626p26)
+ - [Google will address Android’s Find My Device network issues ‘over the coming weeks’](https://www.theverge.com/2024/6/26/24186381/google-find-my-device-tracking-pixel-android)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

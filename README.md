@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple expands its diagnostics tool for self-service repairs from the US to 32 countries in Europe, including the UK, and plans to launch in Canada next year &lpar;Ben Lovejoy/9to5Mac&rpar;](http://www.techmeme.com/240626/p23#a240626p23)
  - [Apple dominates the US tablet market, and Mac sales are surging](https://appleinsider.com/articles/24/06/26/apple-dominates-the-us-tablet-market-and-mac-sales-are-surging?utm_medium=rss)
  - [India sold 141MHz of spectrum for ~$1.3B in an auction, down from $19B in 2022, as the country&#39;s three remaining private operators rein in capital spending &lpar;Bloomberg&rpar;](http://www.techmeme.com/240626/p22#a240626p22)
  - [Why AAA games promoted by Apple flop in the App Store](https://appleinsider.com/articles/24/06/26/why-aaa-games-promoted-by-apple-flop-in-the-app-store?utm_medium=rss)
- - [The 13 Best Wi-Fi Routers, Tested and Reviewed by Experts &lpar;2024&rpar;](https://www.wired.com/gallery/best-wifi-routers/)
- - [Rainforest, which helps software companies &quot;build and optimize&quot; embedded financial services, raised a $20M Series A, bringing its total funding to $31.75M &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240626/p21#a240626p21)<!-- TECH:END -->
+ - [The 13 Best Wi-Fi Routers, Tested and Reviewed by Experts &lpar;2024&rpar;](https://www.wired.com/gallery/best-wifi-routers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

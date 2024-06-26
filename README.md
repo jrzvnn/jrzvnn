@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Advantest CEO Douglas Lefever, whose company has a 54% share of the chip testing equipment market, says China will remain an important market despite US curbs &lpar;Bloomberg&rpar;](http://www.techmeme.com/240626/p9#a240626p9)
+ - [BCG, McKinsey, KPMG, and other consultants see rising demand for AI advisory services; BCG earns 20% of its revenue from AI-related work vs. 0% two years ago &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/240626/p8#a240626p8)
  - [How to Navigate Summer Holiday Travel Like a Pro](https://www.wired.com/story/how-to-navigate-summer-holiday-travel-like-a-pro/)
  - [I Wore Meta Ray-Bans in Montreal to Test Their AI Translation Skills. It Did Not Go Well](https://www.wired.com/story/meta-ray-ban-ai-translation-skills-do-not-work-well/)
- - [In a rare admission of ad fraud, Yahoo Japan to waive $189M ad revenue, or ~1.6% of parent company LY Corp&#39;s FY 2023 revenue, after detecting fraudulent clicks &lpar;Laura Dobberstein/The Register&rpar;](http://www.techmeme.com/240626/p7#a240626p7)
- - [Rimac Verne Robotaxi: prices, availability, specs](https://www.wired.com/story/rimacs-super-sleek-robotaxi-has-more-room-than-a-rolls-royce/)
- - [Rimac is shifting from electric supercars to robotaxis](https://www.theverge.com/2024/6/26/24185735/rimac-verne-robotaxi-croatia-mobileye-autonomous)<!-- TECH:END -->
+ - [In a rare admission of ad fraud, Yahoo Japan to waive $189M ad revenue, or ~1.6% of parent company LY Corp&#39;s FY 2023 revenue, after detecting fraudulent clicks &lpar;Laura Dobberstein/The Register&rpar;](http://www.techmeme.com/240626/p7#a240626p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

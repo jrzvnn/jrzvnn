@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SCOTUS declines to impose limits on the way the Biden administration may communicate with social media platforms, overturning a lower court&#39;s 2023 decision &lpar;Andrew Chung/Reuters&rpar;](http://www.techmeme.com/240626/p25#a240626p25)
+ - [Meta says &quot;an error&quot; is causing Instagram and Threads to turn on a setting that limits political content from people who users don&#39;t follow, upon every app open &lpar;Gaby Del Valle/The Verge&rpar;](http://www.techmeme.com/240626/p24#a240626p24)
+ - [The 17 Best Hair Straighteners We Tested: Flat Irons, Hot Combs, and Straightening Brushes](https://www.wired.com/gallery/best-hair-straighteners/)
  - [Apple expands its diagnostics tool for self-service repairs from the US to 32 countries in Europe, including the UK, and plans to launch in Canada next year &lpar;Ben Lovejoy/9to5Mac&rpar;](http://www.techmeme.com/240626/p23#a240626p23)
- - [Apple dominates the US tablet market, and Mac sales are surging](https://appleinsider.com/articles/24/06/26/apple-dominates-the-us-tablet-market-and-mac-sales-are-surging?utm_medium=rss)
- - [India sold 141MHz of spectrum for ~$1.3B in an auction, down from $19B in 2022, as the country&#39;s three remaining private operators rein in capital spending &lpar;Bloomberg&rpar;](http://www.techmeme.com/240626/p22#a240626p22)
- - [Why AAA games promoted by Apple flop in the App Store](https://appleinsider.com/articles/24/06/26/why-aaa-games-promoted-by-apple-flop-in-the-app-store?utm_medium=rss)
- - [The 13 Best Wi-Fi Routers, Tested and Reviewed by Experts &lpar;2024&rpar;](https://www.wired.com/gallery/best-wifi-routers/)<!-- TECH:END -->
+ - [Apple dominates the US tablet market, and Mac sales are surging](https://appleinsider.com/articles/24/06/26/apple-dominates-the-us-tablet-market-and-mac-sales-are-surging?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

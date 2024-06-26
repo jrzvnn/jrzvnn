@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Activists Disrupt Amazon Conference Over $1.2 Billion Contract With Israel](https://www.wired.com/story/amazon-aws-project-nimbus-conference-protest-israel-gaza/)
- - [Apple Pay malfunctioning in Hungary, users experiencing unexplained charges](https://appleinsider.com/articles/24/06/26/apple-pay-malfunctioning-in-hungary-users-experiencing-unexplained-charges?utm_medium=rss)
- - [Hands-on with Ray-Ban Meta&#39;s new AI translation feature, which is too rudimentary and buggy to be anything more than a novelty &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/240626/p42#a240626p42)
- - [Japan’s Olympic athletes will wear outfits designed to block infrared cameras](https://www.theverge.com/2024/6/26/24186660/olympics-athletes-mizuno-privacy-photography-paris)
- - [An AI-designed horse purse is tearing apart this small but passionate community](https://www.theverge.com/2024/6/26/24186635/baggu-collina-strada-collaboration-ai-purses-art)<!-- TECH:END -->
+ - [Crypto investment app Abra and CEO William Barhydt settle with 25 US states for operating without proper licenses and will return up to $82.1M to US customers &lpar;Cheyenne Ligon/CoinDesk&rpar;](http://www.techmeme.com/240626/p43#a240626p43)
+ - [You will never guess Wordle’s terrible, hilarious original name](https://www.theverge.com/24186786/wordle-original-name-mr-bugs-wordy-nugz-wardle)
+ - [Watching &#39;The Boys&#39; Season 4? This Prime Video Feature Is a Treat](https://www.cnet.com/tech/services-and-software/watching-the-boys-season-4-this-prime-video-feature-is-a-treat/#ftag=CAD590a51e)
+ - [Best MacBook Deals: Big Savings on MacBook Pro and MacBook Air Models](https://www.cnet.com/deals/best-macbook-deals/#ftag=CAD590a51e)
+ - [Best Internet Providers in Irving, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-irving-tx/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

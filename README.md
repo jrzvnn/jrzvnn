@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Seven content-licensing sellers of music, image, and other AI training datasets form the Dataset Providers Alliance to advocate for &quot;ethical data sourcing&quot; &lpar;Katie Paul/Reuters&rpar;](http://www.techmeme.com/240626/p12#a240626p12)
  - [Inside Apple hardware prototype and development stages](https://appleinsider.com/articles/24/06/26/inside-apple-hardware-prototype-and-development-stages?utm_medium=rss)
  - [New leaked illustrations claim Apple Watch X has a bigger screen than Apple Watch Ultra](https://appleinsider.com/articles/24/06/26/new-leaked-illustrations-claim-apple-watch-x-has-a-bigger-screen-than-apple-watch-ultra?utm_medium=rss)
- - [Atos says a consortium led by its largest shareholder Onepoint has withdrawn from bail-out talks and that EPEI has expressed interest in restarting discussions &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/240626/p11#a240626p11)<!-- TECH:END -->
+ - [Verizon Brings Streaming Perks to Home Internet Customers, Unveils New Logo](https://www.cnet.com/tech/mobile/verizon-brings-streaming-perks-to-home-internet-customers-unveils-new-logo/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

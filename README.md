@@ -165,8 +165,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [How to use Reference Mode on the iPad Pro](https://appleinsider.com/inside/ipad-pro/tips/how-to-use-reference-mode-on-the-ipad-pro?utm_medium=rss)
  - [Inside Apple hardware prototype and development stages](https://appleinsider.com/articles/24/06/26/inside-apple-hardware-prototype-and-development-stages?utm_medium=rss)
  - [New leaked illustrations claim Apple Watch X has a bigger screen than Apple Watch Ultra](https://appleinsider.com/articles/24/06/26/new-leaked-illustrations-claim-apple-watch-x-has-a-bigger-screen-than-apple-watch-ultra?utm_medium=rss)
- - [Atos says a consortium led by its largest shareholder Onepoint has withdrawn from bail-out talks and that EPEI has expressed interest in restarting discussions &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/240626/p11#a240626p11)
- - [How to Renew Your US Passport Online](https://www.wired.com/story/how-to-renew-passport-online/)<!-- TECH:END -->
+ - [Verizon Brings Streaming Perks to Home Internet Customers, Unveils New Logo](https://www.cnet.com/tech/mobile/verizon-brings-streaming-perks-to-home-internet-customers-unveils-new-logo/#ftag=CAD590a51e)
+ - [Physics Says Interdimensional Travel Like in &#39;Dark Matter&#39; Could Work](https://www.cnet.com/tech/services-and-software/physics-says-interdimensional-travel-like-in-dark-matter-could-work/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

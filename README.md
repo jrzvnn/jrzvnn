@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Don’t Miss Mattress Firm’s Fourth of July Sale Happening Now](https://www.cnet.com/deals/mattress-firm-4th-of-july-2024/#ftag=CAD590a51e)
+ - [This Is the Fastest Way to Make Crispy Bacon](https://www.cnet.com/how-to/this-is-the-fastest-way-to-make-crispy-bacon/#ftag=CAD590a51e)
+ - [Dish Network Now Offers Free Netflix for New and Returning Customers](https://www.cnet.com/tech/services-and-software/dish-network-now-offers-free-netflix-for-new-and-returning-customers/#ftag=CAD590a51e)
  - [Steam is getting an official controller, but Valve isn’t making it](https://www.theverge.com/2024/6/26/24186645/valve-steam-controller-officially-licensed-wireless-horipad-announcement-specs)
- - [A look at YouTube&#39;s growing dominance as Nielsen says it had ~10% of all viewership on connected and traditional TVs in the US in May, ahead of Netflix&#39;s 7.6% &lpar;Alex Sherman/CNBC&rpar;](http://www.techmeme.com/240626/p37#a240626p37)
- - [Playing Super Monkey Ball with a monkey in a ball just makes sense](https://www.theverge.com/2024/6/26/24186503/super-monkey-ball-hack-gaming-controller-tom-tilley)
- - [Researchers in Rabbit R1&#39;s jailbreaking community say Rabbit left critical API keys hardcoded in its code, which would let hackers use Rabbit&#39;s internal systems &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/240626/p36#a240626p36)
- - [At Nvidia&#39;s first shareholder meeting since the recent stock surge, CEO Jensen Huang laid out Nvidia&#39;s strategy to maintain its position amid rising competition &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/240626/p35#a240626p35)<!-- TECH:END -->
+ - [A look at YouTube&#39;s growing dominance as Nielsen says it had ~10% of all viewership on connected and traditional TVs in the US in May, ahead of Netflix&#39;s 7.6% &lpar;Alex Sherman/CNBC&rpar;](http://www.techmeme.com/240626/p37#a240626p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

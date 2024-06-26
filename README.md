@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vienna-based Prewave, which helps companies monitor their supply chain risks, raised a &amp;euro;63M Series B led by Hedosophia, bringing its total funding to &amp;euro;90M+ &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/240625/p37#a240625p37)
- - [Best Internet Providers in New York](https://www.cnet.com/home/internet/best-internet-providers-in-new-york/#ftag=CAD590a51e)
- - [Best Internet Providers in Iowa City, Iowa](https://www.cnet.com/home/internet/best-internet-providers-in-iowa-city-ia/#ftag=CAD590a51e)
- - [Best Internet Providers in Manchester, New Hampshire](https://www.cnet.com/home/internet/best-internet-providers-in-manchester-nh/#ftag=CAD590a51e)
- - [Stanford Internet Observatory&#39;s former research director details the online rumor mill that led to SIO ending its rapid-response election observation work &lpar;Ren&amp;eacute;e DiResta/New York Times&rpar;](http://www.techmeme.com/240625/p36#a240625p36)<!-- TECH:END -->
+ - [How to use Reference Mode on the iPad Pro](https://appleinsider.com/inside/ipad-pro/tips/how-to-use-reference-mode-on-the-ipad-pro?utm_medium=rss)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for June 26, #381](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-26-381/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for June 26, #1103](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-answer-and-help-for-june-26-1103/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for June 26, #115](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-26-115/#ftag=CAD590a51e)
+ - [7 Ways Remote Workers Can Lower Their Energy Bills](https://www.cnet.com/home/energy-and-utilities/7-ways-remote-workers-can-lower-their-energy-bills/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

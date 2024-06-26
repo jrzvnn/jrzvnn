@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Google and others have carefully rewritten their terms and conditions to include words like AI, as tech companies look to train their AI models on user data &lpar;Eli Tan/New York Times&rpar;](http://www.techmeme.com/240626/p10#a240626p10)
  - [Advantest CEO Douglas Lefever, whose company has a 54% share of the chip testing equipment market, says China will remain an important market despite US curbs &lpar;Bloomberg&rpar;](http://www.techmeme.com/240626/p9#a240626p9)
  - [The Secret Telegram Channels Providing Refuge for LGBTQ+ People in Russia](https://www.wired.com/story/telegram-lgbtq-russia-refuge/)
  - [BCG, McKinsey, KPMG, and other consultants see rising demand for AI advisory services; BCG earns 20% of its revenue from AI-related work vs. 0% two years ago &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/240626/p8#a240626p8)
- - [How to Navigate Summer Holiday Travel Like a Pro](https://www.wired.com/story/how-to-navigate-summer-holiday-travel-like-a-pro/)
- - [I Wore Meta Ray-Bans in Montreal to Test Their AI Translation Skills. It Did Not Go Well](https://www.wired.com/story/meta-ray-ban-ai-translation-skills-do-not-work-well/)<!-- TECH:END -->
+ - [Xbox Game Pass: You Can Play My Time at Sandrock and FC 24 Now](https://www.cnet.com/tech/gaming/xbox-game-pass-you-can-play-my-time-at-sandrock-and-fc-24-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

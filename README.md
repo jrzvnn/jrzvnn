@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As growth slows, Chinese tech companies are squeezing more hours out of fewer staff, as some in the industry view PDD&#39;s grueling hours as a model to emulate &lpar;Financial Times&rpar;](http://www.techmeme.com/240626/p2#a240626p2)
  - [A look at Tencent&#39;s removal of hit game Dungeon &amp; Fighter from Android app stores in China, some of which have default sales split of 50% on games revenue &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/240626/p1#a240626p1)
  - [Sources: Huawei is struggling to ramp up production of its Ascend AI server chip, China&#39;s leading alternative to Nvidia&#39;s A100, due to a new US crackdown &lpar;The Information&rpar;](http://www.techmeme.com/240625/p39#a240625p39)
  - [Adonis, which provides healthcare revenue cycle automation services, raised a $31M Series B led by Point72 Private Investments, taking its total funding to $54M &lpar;Jessica Hagen/MobiHealthNews&rpar;](http://www.techmeme.com/240625/p38#a240625p38)
- - [How to use Reference Mode on the iPad Pro](https://appleinsider.com/inside/ipad-pro/tips/how-to-use-reference-mode-on-the-ipad-pro?utm_medium=rss)
- - [Today&#39;s NYT Connections Hints, Answers and Help for June 26, #381](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-26-381/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to use Reference Mode on the iPad Pro](https://appleinsider.com/inside/ipad-pro/tips/how-to-use-reference-mode-on-the-ipad-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

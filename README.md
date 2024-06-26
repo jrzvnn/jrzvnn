@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Animoca Brands, which was valued at $6B in 2022, is considering an IPO in Hong Kong or the Middle East in 2025, four years after it was delisted in Australia &lpar;Yueqi Yang/The Information&rpar;](http://www.techmeme.com/240626/p20#a240626p20)
- - [Indian e-commerce giant Flipkart quietly rolls out its own payments app, Super.money, after separating from India&#39;s largest payments app PhonePe in 2022 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240626/p19#a240626p19)
- - [Apple&#39;s iPhone &amp; Mac self-service repair program is expanding to Europe](https://appleinsider.com/articles/24/06/26/apples-iphone-mac-self-service-repair-program-is-expanding-to-europe?utm_medium=rss)
- - [Sources: YouTube is in talks with Sony, Warner, and Universal to license their songs for an AI music generation tool that mimics popular singers &lpar;Financial Times&rpar;](http://www.techmeme.com/240626/p18#a240626p18)
- - [Fetcherr, which wants to let airlines provide dynamic pricing by using AI to forecast demand, raised a $90M Series B, bringing its total funding to $114.5M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240626/p17#a240626p17)<!-- TECH:END -->
+ - [Why AAA games promoted by Apple flop in the App Store](https://appleinsider.com/articles/24/06/26/why-aaa-games-promoted-by-apple-flop-in-the-app-store?utm_medium=rss)
+ - [The 13 Best Wi-Fi Routers, Tested and Reviewed by Experts &lpar;2024&rpar;](https://www.wired.com/gallery/best-wifi-routers/)
+ - [Rainforest, which helps software companies &quot;build and optimize&quot; embedded financial services, raised a $20M Series A, bringing its total funding to $31.75M &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240626/p21#a240626p21)
+ - [Oops, a Meta ‘error’ limited political content on Instagram and Threads](https://www.theverge.com/2024/6/26/24186388/instagram-threads-meta-political-content-filter-setting-stuck)
+ - [Animoca Brands, which was valued at $6B in 2022, is considering an IPO in Hong Kong or the Middle East in 2025, four years after it was delisted in Australia &lpar;Yueqi Yang/The Information&rpar;](http://www.techmeme.com/240626/p20#a240626p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

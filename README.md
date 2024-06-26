@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Dangers in Their Lust](http://9gag.com/gag/adBp42M)
- - 😝 [Zooming](http://9gag.com/gag/ayNnV18)
- - 💣 [Truly a beautiful human inside and out...we can learn from her](http://9gag.com/gag/a34Le6Q)
- - 😝 [9gagger](http://9gag.com/gag/apRBjdW)
- - 👉 [`Hear me out... `](http://9gag.com/gag/amo8beo)<!-- MEMES:END -->
+ - 😝 [My fellow tech bros...](http://9gag.com/gag/aMVQDwA)
+ - 😝 [Are Germans the ultimate cucks?](http://9gag.com/gag/a9yPB50)
+ - 💣 [What is my godamn superpower ?](http://9gag.com/gag/aLnBbn6)
+ - 😝 [Just wanted to share some life hack for summer](http://9gag.com/gag/a6ZLe9N)
+ - 👉 [The highest court in Israel decided these guys have to go into military service from now on.](http://9gag.com/gag/aW4ONXd)<!-- MEMES:END -->
 
 ---
 

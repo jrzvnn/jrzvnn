@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Adonis, which provides healthcare revenue cycle automation services, raised a $31M Series B led by Point72 Private Investments, taking its total funding to $54M &lpar;Jessica Hagen/MobiHealthNews&rpar;](http://www.techmeme.com/240625/p38#a240625p38)
  - [How to use Reference Mode on the iPad Pro](https://appleinsider.com/inside/ipad-pro/tips/how-to-use-reference-mode-on-the-ipad-pro?utm_medium=rss)
  - [Today&#39;s NYT Connections Hints, Answers and Help for June 26, #381](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-26-381/#ftag=CAD590a51e)
  - [Today&#39;s Wordle Hints, Answer and Help for June 26, #1103](https://www.cnet.com/tech/services-and-software/todays-wordle-hints-answer-and-help-for-june-26-1103/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for June 26, #115](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-26-115/#ftag=CAD590a51e)
- - [7 Ways Remote Workers Can Lower Their Energy Bills](https://www.cnet.com/home/energy-and-utilities/7-ways-remote-workers-can-lower-their-energy-bills/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for June 26, #115](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-26-115/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

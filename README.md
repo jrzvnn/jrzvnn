@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Results are recorded... so it&#39;s science...](http://9gag.com/gag/axyGepD)
- - 😝 [No more butt hurt](http://9gag.com/gag/a6ZLeeA)
- - 💣 [Is this true?](http://9gag.com/gag/abAboW8)
- - 😝 [How to light according to the function of the room](http://9gag.com/gag/aVvX8Ld)
- - 👉 [That&#39;s a strange mystery](http://9gag.com/gag/aqy2OQP)<!-- MEMES:END -->
+ - 😝 [Judge giving justice](http://9gag.com/gag/aRBV8eG)
+ - 😝 [Master with severe depression, PhD with slight burnout. But I got it!](http://9gag.com/gag/azxVv7m)
+ - 💣 [I\u2019m sure most people will think this is a scam, or weird, or whatever. But if anyone is feeling depressed please contact me. I\u2019m happy to chit-chat about any issues and offer advice. I\u2019m old now. Will delete if this gets a shit ton of trolls.](http://9gag.com/gag/a4PL8jm)
+ - 😝 [Holy shit I thought for sure you were all exaggerating](http://9gag.com/gag/an7B05o)
+ - 👉 [Largest alligator ever recorded in North America](http://9gag.com/gag/aRBV8jQ)<!-- MEMES:END -->
 
 ---
 

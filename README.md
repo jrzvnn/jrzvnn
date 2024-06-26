@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Voluptuous Latina](http://9gag.com/gag/aO8mAQR)
- - 😝 [`Hear me out... `](http://9gag.com/gag/amo8beo)
- - 💣 [The Dangers in Their Lust](http://9gag.com/gag/adBp42M)
- - 😝 [The highest court in Israel decided these guys have to go into military service from now on.](http://9gag.com/gag/aW4ONXd)
- - 👉 [Is that a bazooka are you holding?](http://9gag.com/gag/an7BWQn)<!-- MEMES:END -->
+ - 😝 [Ultra reaction](http://9gag.com/gag/aByrvdN)
+ - 😝 [Fill up the other tiers lol.](http://9gag.com/gag/a4PLrPp)
+ - 💣 [Football team scores without touching the ball](http://9gag.com/gag/a0eYD7q)
+ - 😝 [I always told people i&#39;ve been to Iraq but never told them about how i got sent home. It feels good to get it out of my chest after 20 years.](http://9gag.com/gag/a4PLV7y)
+ - 👉 [The highest court in Israel decided these guys have to go into military service from now on.](http://9gag.com/gag/aW4ONXd)<!-- MEMES:END -->
 
 ---
 

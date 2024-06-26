@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NYC-based Norm Ai, which uses AI to help organizations automate compliance tasks, raised a $27M Series A led by Coatue, bringing its total funding to $38M+ &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/240625/p34#a240625p34)
- - [The owner of Toys ‘R’ Us just used OpenAI’s Sora to animate the zombie brand](https://www.theverge.com/2024/6/25/24186051/toys-r-us-openai-sora-brand-film)
- - [Samsung schedules its next Galaxy Unpacked event for July 10 at 9AM ET in Paris, where Galaxy AI updates, the Galaxy Z Fold 6, and Z Flip 6 are expected &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/240625/p33#a240625p33)
- - [Samsung just announced a date for its next Unpacked](https://www.theverge.com/2024/6/25/24178801/samsung-unpacked-summer-2024-galaxy-z-fold-6-ring)
- - [Some iPhone users running the latest iOS 18 beta report being able to send and receive RCS messages on select US carriers &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/240625/p32#a240625p32)<!-- TECH:END -->
+ - [Best Internet Providers in Rochester, Minnesota](https://www.cnet.com/home/internet/best-internet-providers-in-rochester-mn/#ftag=CAD590a51e)
+ - [Route: TikTok Shop saw a 13% jump in orders from April to May, as TikTok appears to be hiring hundreds of employees in the US to support its e-commerce efforts &lpar;Alexandra S. Levine/Forbes&rpar;](http://www.techmeme.com/240625/p35#a240625p35)
+ - [Meta tests Vision Pro-like freeform virtual screen placement for Quest headsets](https://www.theverge.com/2024/6/25/24185869/meta-quest-vr-virtual-screen-placement)
+ - [Prebiotic Drinks: What Are They, and Should You Be Drinking Them?](https://www.cnet.com/health/prebiotic-drinks-what-are-they-and-should-you-be-drinking-them/#ftag=CAD590a51e)
+ - [Roku Express](https://www.cnet.com/tech/home-entertainment/roku-express-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

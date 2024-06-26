@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use Reference Mode on the iPad Pro](https://appleinsider.com/inside/ipad-pro/tips/how-to-use-reference-mode-on-the-ipad-pro?utm_medium=rss)
- - [Seven content-licensing sellers of music, image, and other AI training datasets form the Dataset Providers Alliance to advocate for &quot;ethical data sourcing&quot; &lpar;Katie Paul/Reuters&rpar;](http://www.techmeme.com/240626/p12#a240626p12)
- - [Inside Apple hardware prototype and development stages](https://appleinsider.com/articles/24/06/26/inside-apple-hardware-prototype-and-development-stages?utm_medium=rss)
- - [New leaked illustrations claim Apple Watch X has a bigger screen than Apple Watch Ultra](https://appleinsider.com/articles/24/06/26/new-leaked-illustrations-claim-apple-watch-x-has-a-bigger-screen-than-apple-watch-ultra?utm_medium=rss)
- - [Verizon Brings Streaming Perks to Home Internet Customers, Unveils New Logo](https://www.cnet.com/tech/mobile/verizon-brings-streaming-perks-to-home-internet-customers-unveils-new-logo/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Kaiko: spot bitcoin ETFs&#39; launch in the US helped Bybit double its market share to 16% in March, crossing Coinbase to become the world&#39;s second-largest exchange &lpar;Benjamin Taubman/Bloomberg&rpar;](http://www.techmeme.com/240626/p14#a240626p14)
+ - [Sensi, which uses AI to analyze audio and let home care agencies virtually monitor seniors, raised a $31M Series B, bringing its total funding to $53M &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/240626/p13#a240626p13)
+ - [9 Best Heart Rate Monitors &lpar;2024&rpar;: Chest Straps, EKG, Watches](https://www.wired.com/gallery/best-heart-rate-monitors/)
+ - [The Best Travel Strollers for Your Summer Adventures &lpar;2024&rpar;](https://www.wired.com/gallery/best-travel-strollers/)
+ - [What the RIAA lawsuits mean for AI and copyright](https://www.theverge.com/24186085/riaa-lawsuits-udio-suno-copyright-fair-use-music)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

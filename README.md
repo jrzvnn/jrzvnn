@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Pay malfunctioning in Hungary, users experiencing unexplained charges](https://appleinsider.com/articles/24/06/26/apple-pay-malfunctioning-in-hungary-users-experiencing-unexplained-charges?utm_medium=rss)
  - [Hands-on with Ray-Ban Meta&#39;s new AI translation feature, which is too rudimentary and buggy to be anything more than a novelty &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/240626/p42#a240626p42)
  - [Japan’s Olympic athletes will wear outfits designed to block infrared cameras](https://www.theverge.com/2024/6/26/24186660/olympics-athletes-mizuno-privacy-photography-paris)
  - [An AI-designed horse purse is tearing apart this small but passionate community](https://www.theverge.com/2024/6/26/24186635/baggu-collina-strada-collaboration-ai-purses-art)
- - [Samsung is offering a $50 credit when you reserve the next Galaxy Z Flip or Z Fold](https://www.theverge.com/2024/6/26/24186419/samsung-galaxy-z-fold-flip-6-reservation-preorder-credit-deal-promo)
- - [New Chrome mobile shortcuts let you call a restaurant from your address bar](https://www.theverge.com/2024/6/26/24186783/google-chrome-android-ios-mobile-shortcuts-restaurant)<!-- TECH:END -->
+ - [Samsung is offering a $50 credit when you reserve the next Galaxy Z Flip or Z Fold](https://www.theverge.com/2024/6/26/24186419/samsung-galaxy-z-fold-flip-6-reservation-preorder-credit-deal-promo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

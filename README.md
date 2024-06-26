@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Crossing the Ganges](http://9gag.com/gag/a87jzw3)
- - 😝 [The Dangers in Their Lust](http://9gag.com/gag/adBp42M)
- - 💣 [My fellow tech bros...](http://9gag.com/gag/aMVQDwA)
- - 😝 [You just can&#39;t make this up](http://9gag.com/gag/aVvX9DO)
- - 👉 [No more butt hurt](http://9gag.com/gag/a6ZLeeA)<!-- MEMES:END -->
+ - 😝 [Swifties aren&#39;t gonna like this.](http://9gag.com/gag/aD2mMQZ)
+ - 😝 [Is that a bazooka are you holding?](http://9gag.com/gag/an7BWQn)
+ - 💣 [`Hear me out... `](http://9gag.com/gag/amo8beo)
+ - 😝 [Football team scores without touching the ball](http://9gag.com/gag/a0eYD7q)
+ - 👉 [The highest court in Israel decided these guys have to go into military service from now on.](http://9gag.com/gag/aW4ONXd)<!-- MEMES:END -->
 
 ---
 

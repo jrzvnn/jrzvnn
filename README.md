@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s iPhone &amp; Mac self-service repair program is expanding to Europe](https://appleinsider.com/articles/24/06/26/apples-iphone-mac-self-service-repair-program-is-expanding-to-europe?utm_medium=rss)
+ - [Sources: YouTube is in talks with Sony, Warner, and Universal to license their songs for an AI music generation tool that mimics popular singers &lpar;Financial Times&rpar;](http://www.techmeme.com/240626/p18#a240626p18)
+ - [Fetcherr, which wants to let airlines provide dynamic pricing by using AI to forecast demand, raised a $90M Series B, bringing its total funding to $114.5M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240626/p17#a240626p17)
  - [Creatio, which offers a no-code CRM and workflow automation platform, raised $200M led by Sapphire Ventures at a $1.2B valuation &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/240626/p16#a240626p16)
- - [Data connectivity software provider CData raised ~$350M led by Warburg Pincus, source says at a $800M+ valuation, and says it expects $100M in ARR by 2024 end &lpar;Reuters&rpar;](http://www.techmeme.com/240626/p15#a240626p15)
- - [Kaiko: spot bitcoin ETFs&#39; launch in the US helped Bybit double its market share to 16% in March, crossing Coinbase to become the world&#39;s second-largest exchange &lpar;Benjamin Taubman/Bloomberg&rpar;](http://www.techmeme.com/240626/p14#a240626p14)
- - [The Best Travel Mugs to Keep Drinks Hot or Cold](https://www.wired.com/gallery/best-travel-mugs/)
- - [Sensi, which uses AI to analyze audio and let home care agencies virtually monitor seniors, raised a $31M Series B, bringing its total funding to $53M &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/240626/p13#a240626p13)<!-- TECH:END -->
+ - [Data connectivity software provider CData raised ~$350M led by Warburg Pincus, source says at a $800M+ valuation, and says it expects $100M in ARR by 2024 end &lpar;Reuters&rpar;](http://www.techmeme.com/240626/p15#a240626p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

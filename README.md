@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Hear me out... `](http://9gag.com/gag/amo8beo)
- - 😝 [My fellow tech bros...](http://9gag.com/gag/aMVQDwA)
- - 💣 [The highest court in Israel decided these guys have to go into military service from now on.](http://9gag.com/gag/aW4ONXd)
+ - 😝 [Just wanted to share some life hack for summer](http://9gag.com/gag/a6ZLe9N)
+ - 😝 [The highest court in Israel decided these guys have to go into military service from now on.](http://9gag.com/gag/aW4ONXd)
+ - 💣 [Judge giving justice](http://9gag.com/gag/aRBV8eG)
  - 😝 [Voluptuous Latina](http://9gag.com/gag/aO8mAQR)
- - 👉 [Judge giving justice](http://9gag.com/gag/aRBV8eG)<!-- MEMES:END -->
+ - 👉 [Your superpower: you can see the number showing probability you two sleeping together](http://9gag.com/gag/a87jVvZ)<!-- MEMES:END -->
 
 ---
 

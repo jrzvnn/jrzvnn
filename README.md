@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SCOTUS declines to impose limits on the way the Biden administration may communicate with social media platforms, overturning a lower court&#39;s 2023 decision &lpar;Andrew Chung/Reuters&rpar;](http://www.techmeme.com/240626/p25#a240626p25)
- - [Meta says &quot;an error&quot; is causing Instagram and Threads to turn on a setting that limits political content from people who users don&#39;t follow, upon every app open &lpar;Gaby Del Valle/The Verge&rpar;](http://www.techmeme.com/240626/p24#a240626p24)
- - [The 17 Best Hair Straighteners We Tested: Flat Irons, Hot Combs, and Straightening Brushes](https://www.wired.com/gallery/best-hair-straighteners/)
- - [Apple expands its diagnostics tool for self-service repairs from the US to 32 countries in Europe, including the UK, and plans to launch in Canada next year &lpar;Ben Lovejoy/9to5Mac&rpar;](http://www.techmeme.com/240626/p23#a240626p23)
- - [Apple dominates the US tablet market, and Mac sales are surging](https://appleinsider.com/articles/24/06/26/apple-dominates-the-us-tablet-market-and-mac-sales-are-surging?utm_medium=rss)<!-- TECH:END -->
+ - [PDF organizer Stack is the latest app to hit the Google graveyard](https://www.theverge.com/24186376/google-stack-pdf-graveyard-android-app)
+ - [Apple will soon offer better support for third-party iPhone displays and batteries](https://www.theverge.com/2024/6/26/24186429/apple-iphone-batteries-displays-batteries-third-party-true-tone-metrics)
+ - [Supreme Court decision means Biden administration can keep talking to social media companies](https://www.theverge.com/2024/6/26/24166529/supreme-court-ruling-murthy-v-missouri-social-media-coercion-persuasion)
+ - [How LED Face Masks and Red Light Therapy Work to Reverse Wrinkles &lpar;2024&rpar;](https://www.wired.com/story/led-face-masks-and-red-light-therapy/)
+ - [SCOTUS declines to impose limits on the way the Biden administration may communicate with social media platforms, overturning a lower court&#39;s 2023 decision &lpar;Andrew Chung/Reuters&rpar;](http://www.techmeme.com/240626/p25#a240626p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Judge giving justice](http://9gag.com/gag/aRBV8eG)
- - 😝 [My All Time Favorite Krazy Karen](http://9gag.com/gag/aD2mq39)
- - 💣 [Is that a bazooka are you holding?](http://9gag.com/gag/an7BWQn)
- - 😝 [You just can&#39;t make this up](http://9gag.com/gag/aVvX9DO)
- - 👉 [This Italian girl&#39;s name is Desir\u00e9e Mariottini. Desir\u00e9e was 16 years old. One night, she missed the bus on her way home. She didn&#39;t have money to take a taxi and had to walk. On the way back, 4 Senegalese immigrants attacked Desir\u00e9e and took her to a ruined house.](http://9gag.com/gag/ajPnGmq)<!-- MEMES:END -->
+ - 😝 [Good old days](http://9gag.com/gag/a9yP4MD)
+ - 😝 [Spielberg Humiliates Kathleen Kennedy](http://9gag.com/gag/a6ZL4p8)
+ - 💣 [Wow](http://9gag.com/gag/an7B0LB)
+ - 😝 [The Dangers in Their Lust](http://9gag.com/gag/adBp42M)
+ - 👉 [Master with severe depression, PhD with slight burnout. But I got it!](http://9gag.com/gag/azxVv7m)<!-- MEMES:END -->
 
 ---
 

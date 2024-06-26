@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Everything you need to know about the tech at the Paris Olympics](https://www.theverge.com/24186212/olympics-paris-2024-summer-news-updates)
- - [NBC’s Paris Olympics coverage will have AI-generated recaps, split screen, and more](https://www.theverge.com/2024/6/26/24185940/olympics-nbc-peacock-watch-stream-paris-2024)
- - [An AI version of Al Michaels will deliver Olympic recaps on Peacock](https://www.theverge.com/2024/6/26/24185774/olympics-ai-al-michaels-voice-recaps)
- - [Intel shows off a fully integrated bidirectional optical compute interconnect chiplet, which enables higher-bandwidth data transfers for AI workloads &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/240626/p31#a240626p31)
- - [A Russian Propaganda Network Is Promoting an AI-Manipulated Biden Video](https://www.wired.com/story/russia-disinformation-network-ai-generated-biden-video/)<!-- TECH:END -->
+ - [How to Shop Like a Pro During Amazon Prime Day - July 2024](https://www.wired.com/story/amazon-prime-day-2024-tips-to-find-best-deals/)
+ - [Apple&#39;s &#39;longevity by design&#39; initiative is a balance between repairability &amp; secure engineering](https://appleinsider.com/articles/24/06/26/apples-longevity-by-design-initiative-is-a-balance-between-repairability-secure-engineering?utm_medium=rss)
+ - [NBCU says an AI-generated voice of legendary sportscaster Al Michaels is going to give daily, personalized recaps of the Paris Olympics on its streamer Peacock &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240626/p32#a240626p32)
+ - [Peacock Will Use an AI Version of Al Michaels To Create Personalized Olympic Recaps](https://www.cnet.com/tech/services-and-software/peacock-will-use-an-ai-version-of-al-michaels-to-create-personalized-olympic-recaps/#ftag=CAD590a51e)
+ - [HostGator Review: A Simple Host for Simple Sites](https://www.cnet.com/tech/services-and-software/hostgator-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

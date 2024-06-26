@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Dangers in Their Lust](http://9gag.com/gag/adBp42M)
- - 😝 [You just can&#39;t make this up](http://9gag.com/gag/aVvX9DO)
- - 💣 [Holy shit I thought for sure you were all exaggerating](http://9gag.com/gag/an7B05o)
- - 😝 [Master with severe depression, PhD with slight burnout. But I got it!](http://9gag.com/gag/azxVv7m)
- - 👉 [No more butt hurt](http://9gag.com/gag/a6ZLeeA)<!-- MEMES:END -->
+ - 😝 [Results are recorded... so it&#39;s science...](http://9gag.com/gag/axyGepD)
+ - 😝 [No more butt hurt](http://9gag.com/gag/a6ZLeeA)
+ - 💣 [Is this true?](http://9gag.com/gag/abAboW8)
+ - 😝 [How to light according to the function of the room](http://9gag.com/gag/aVvX8Ld)
+ - 👉 [That&#39;s a strange mystery](http://9gag.com/gag/aqy2OQP)<!-- MEMES:END -->
 
 ---
 

@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Judge giving justice](http://9gag.com/gag/aRBV8eG)
  - 😝 [The highest court in Israel decided these guys have to go into military service from now on.](http://9gag.com/gag/aW4ONXd)
- - 😝 [Voluptuous Latina](http://9gag.com/gag/aO8mAQR)
- - 💣 [Zooming](http://9gag.com/gag/ayNnV18)
- - 😝 [Is that a bazooka are you holding?](http://9gag.com/gag/an7BWQn)
- - 👉 [Just wanted to share some life hack for summer](http://9gag.com/gag/a6ZLe9N)<!-- MEMES:END -->
+ - 💣 [Crossing the Ganges](http://9gag.com/gag/a87jzw3)
+ - 😝 [My fellow tech bros...](http://9gag.com/gag/aMVQDwA)
+ - 👉 [You just can&#39;t make this up](http://9gag.com/gag/aVvX9DO)<!-- MEMES:END -->
 
 ---
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon reaches a $2T market valuation for the first time; its shares have whipsawed since the company&#39;s Q1 earnings and gained 27% so far this year &lpar;Carmen Reinicke/Bloomberg&rpar;](http://www.techmeme.com/240626/p40#a240626p40)
  - [Arkansas AG lawsuit claims the number one mobile shopping app is ‘dangerous malware’](https://www.theverge.com/2024/6/26/24186673/arkansas-ag-lawsuit-temu-pinduoduo-malware)
  - [An overview of China&#39;s Dragonbridge multiyear disinfo campaign that uses AI-generated content and spans several social networks to target geopolitical rivals &lpar;Zak Butler/The Keyword&rpar;](http://www.techmeme.com/240626/p39#a240626p39)
  - [Know the price-matching policies for Best Buy, Target, Walmart, and others](https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft)
- - [Best Apple Studio Display Deals: Save Up to $100 on This State-of-the-Art 27-Inch 5K Monitor](https://www.cnet.com/deals/best-studio-display-deals/#ftag=CAD590a51e)
- - [Activist investor Jana Partners announces an investment in Rapid7; sources say Jana plans to push the cybersecurity company to sell itself &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/240626/p38#a240626p38)<!-- TECH:END -->
+ - [Best Apple Studio Display Deals: Save Up to $100 on This State-of-the-Art 27-Inch 5K Monitor](https://www.cnet.com/deals/best-studio-display-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

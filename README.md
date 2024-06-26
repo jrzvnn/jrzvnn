@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft’s canceled Xbox cloud console gets detailed in new patent](https://www.theverge.com/2024/6/26/24186639/microsoft-xbox-cloud-console-keystone-patent-images)
+ - [War Crime Prosecutions Enter a New Digital Age](https://www.wired.com/story/icc-investigation-digital-media/)
  - [Google is testing facial recognition tech for campus security at an office near Seattle; people entering the building will not be able to opt out &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/240626/p33#a240626p33)
  - [How to Shop Like a Pro During Amazon Prime Day - July 2024](https://www.wired.com/story/amazon-prime-day-2024-tips-to-find-best-deals/)
- - [Apple&#39;s &#39;longevity by design&#39; initiative is a balance between repairability &amp; secure engineering](https://appleinsider.com/articles/24/06/26/apples-longevity-by-design-initiative-is-a-balance-between-repairability-secure-engineering?utm_medium=rss)
- - [NBCU says an AI-generated voice of legendary sportscaster Al Michaels is going to give daily, personalized recaps of the Paris Olympics on its streamer Peacock &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240626/p32#a240626p32)
- - [Everything you need to know about the tech at the Paris Olympics](https://www.theverge.com/24186212/olympics-paris-2024-summer-news-updates)<!-- TECH:END -->
+ - [Apple&#39;s &#39;longevity by design&#39; initiative is a balance between repairability &amp; secure engineering](https://appleinsider.com/articles/24/06/26/apples-longevity-by-design-initiative-is-a-balance-between-repairability-secure-engineering?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

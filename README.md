@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I think I downloaded the wrong episode of Clarkson&#39;s farm](http://9gag.com/gag/aAypLR2)
- - 😝 [Football team scores without touching the ball](http://9gag.com/gag/a0eYD7q)
- - 💣 [Just wanted to share some life hack for summer](http://9gag.com/gag/a6ZLe9N)
- - 😝 [Voluptuous Latina](http://9gag.com/gag/aO8mAQR)
- - 👉 [Female Police Officer pulls gun during traffic stop. Warranted or not?](http://9gag.com/gag/aAypmD9)<!-- MEMES:END -->
+ - 😝 [Mama Mia](http://9gag.com/gag/azxVoKp)
+ - 😝 [Spielberg Humiliates Kathleen Kennedy](http://9gag.com/gag/a6ZL4p8)
+ - 💣 [Judge giving justice](http://9gag.com/gag/aRBV8eG)
+ - 😝 [Let them fight i say](http://9gag.com/gag/aZZNV10)
+ - 👉 [All nations should learn from Winston Churchill](http://9gag.com/gag/aO8mN1D)<!-- MEMES:END -->
 
 ---
 

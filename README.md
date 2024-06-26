@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ORA, a blockchain project to incorporate AI into decentralized apps, raised a $20M Series A from Polychain, HF0, HashKey Capital, and others &lpar;Bradley Keoun/CoinDesk&rpar;](http://www.techmeme.com/240626/p45#a240626p45)
  - [Figma debuts a major UI redesign, new generative AI tools, and a built-in slideshow feature, which is free in beta but will be a paid product at official launch &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240626/p44#a240626p44)
  - [Best Solar Companies of June 2024](https://www.cnet.com/home/energy-and-utilities/best-solar-companies/#ftag=CAD590a51e)
  - [NBA Draft 2024: How to Watch First Round Tonight From Anyway](https://www.cnet.com/tech/services-and-software/nba-draft-2024-how-to-watch-first-round-tonight-from-anyway/#ftag=CAD590a51e)
- - [BMW M5 gets its first plug — and gains a lot of weight](https://www.theverge.com/2024/6/26/24186750/2025-bmw-m5-plug-in-hybrid)
- - [RCS Is Making Its iPhone Debut, Starting With iOS 18 Beta 2. How It&#39;ll Change Texting](https://www.cnet.com/tech/mobile/rcs-is-making-its-iphone-debut-starting-with-ios-18-beta-2-how-itll-change-texting/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [BMW M5 gets its first plug — and gains a lot of weight](https://www.theverge.com/2024/6/26/24186750/2025-bmw-m5-plug-in-hybrid)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

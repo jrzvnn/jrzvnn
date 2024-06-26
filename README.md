@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Surgical lights cast no visible shadow](http://9gag.com/gag/amo8d32)
- - 😝 [The highest court in Israel decided these guys have to go into military service from now on.](http://9gag.com/gag/aW4ONXd)
- - 💣 [They are living with us, near you, maybe they are your neighbours...or maybe it&#39;s you !](http://9gag.com/gag/a9yPNXj)
+ - 😝 [I think I downloaded the wrong episode of Clarkson&#39;s farm](http://9gag.com/gag/aAypLR2)
+ - 😝 [Football team scores without touching the ball](http://9gag.com/gag/a0eYD7q)
+ - 💣 [Just wanted to share some life hack for summer](http://9gag.com/gag/a6ZLe9N)
  - 😝 [Voluptuous Latina](http://9gag.com/gag/aO8mAQR)
- - 👉 [Judge giving justice](http://9gag.com/gag/aRBV8eG)<!-- MEMES:END -->
+ - 👉 [Female Police Officer pulls gun during traffic stop. Warranted or not?](http://9gag.com/gag/aAypmD9)<!-- MEMES:END -->
 
 ---
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to use Reference Mode on the iPad Pro](https://appleinsider.com/inside/ipad-pro/tips/how-to-use-reference-mode-on-the-ipad-pro?utm_medium=rss)
+ - [Inside Apple hardware prototype and development stages](https://appleinsider.com/articles/24/06/26/inside-apple-hardware-prototype-and-development-stages?utm_medium=rss)
  - [New leaked illustrations claim Apple Watch X has a bigger screen than Apple Watch Ultra](https://appleinsider.com/articles/24/06/26/new-leaked-illustrations-claim-apple-watch-x-has-a-bigger-screen-than-apple-watch-ultra?utm_medium=rss)
- - [How Google and others have carefully rewritten their terms and conditions to include words like AI, as tech companies look to train their AI models on user data &lpar;Eli Tan/New York Times&rpar;](http://www.techmeme.com/240626/p10#a240626p10)
- - [Advantest CEO Douglas Lefever, whose company has a 54% share of the chip testing equipment market, says China will remain an important market despite US curbs &lpar;Bloomberg&rpar;](http://www.techmeme.com/240626/p9#a240626p9)
- - [The Secret Telegram Channels Providing Refuge for LGBTQ+ People in Russia](https://www.wired.com/story/telegram-lgbtq-russia-refuge/)
- - [BCG, McKinsey, KPMG, and other consultants see rising demand for AI advisory services; BCG earns 20% of its revenue from AI-related work vs. 0% two years ago &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/240626/p8#a240626p8)<!-- TECH:END -->
+ - [Atos says a consortium led by its largest shareholder Onepoint has withdrawn from bail-out talks and that EPEI has expressed interest in restarting discussions &lpar;Benoit Berthelot/Bloomberg&rpar;](http://www.techmeme.com/240626/p11#a240626p11)
+ - [How to Renew Your US Passport Online](https://www.wired.com/story/how-to-renew-passport-online/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My fellow tech bros...](http://9gag.com/gag/aMVQDwA)
- - 😝 [Results are recorded... so it&#39;s science...](http://9gag.com/gag/axyGepD)
- - 💣 [Swifties aren&#39;t gonna like this.](http://9gag.com/gag/aD2mMQZ)
- - 😝 [Just wanted to share some life hack for summer](http://9gag.com/gag/a6ZLe9N)
- - 👉 [The Dangers in Their Lust](http://9gag.com/gag/adBp42M)<!-- MEMES:END -->
+ - 😝 [Star Wars then vs Star Wars now](http://9gag.com/gag/a2vqGAe)
+ - 😝 [Football team scores without touching the ball](http://9gag.com/gag/a0eYD7q)
+ - 💣 [Crossing the Ganges](http://9gag.com/gag/a87jzw3)
+ - 😝 [No more butt hurt](http://9gag.com/gag/a6ZLeeA)
+ - 👉 [What is my godamn superpower ?](http://9gag.com/gag/aLnBbn6)<!-- MEMES:END -->
 
 ---
 

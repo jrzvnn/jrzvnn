@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rimac is shifting from electric supercars to robotaxis](https://www.theverge.com/2024/6/26/24185735/rimac-verne-robotaxi-croatia-mobileye-autonomous)
  - [With AI Tools, Scientists Can Crack the Code of Life](https://www.wired.com/story/wired-health-pushmeet-kohli-deepmind-ai-google/)
  - [Amazon Prime Day 2024: How to Sign Up for Prime Before the Big Sale](https://www.cnet.com/tech/amazon-prime-day-2024-how-to-sign-up-for-prime-before-the-big-sale/#ftag=CAD590a51e)
  - [Ultimate Ears announces new Everboom speaker, Boom 4 with USB-C, and more](https://www.theverge.com/2024/6/26/24185957/ue-everboom-boom-4-wonderboom-megaboom-features)
- - [Air So Polluted It Can Kill Isn’t Being Taken Seriously Enough](https://www.wired.com/story/wired-health-rosamund-adoo-kissi-debrah-clean-air-pollution/)
- - [Some CIOs say getting full value out of AI tools like Copilot for Microsoft 365 requires heavy lifting, as enterprise data isn&#39;t always accurate and up-to-date &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/240626/p6#a240626p6)<!-- TECH:END -->
+ - [Air So Polluted It Can Kill Isn’t Being Taken Seriously Enough](https://www.wired.com/story/wired-health-rosamund-adoo-kissi-debrah-clean-air-pollution/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

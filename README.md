@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Spielberg Humiliates Kathleen Kennedy](http://9gag.com/gag/a6ZL4p8)
  - 😝 [Just wanted to share some life hack for summer](http://9gag.com/gag/a6ZLe9N)
- - 💣 [The Dangers in Their Lust](http://9gag.com/gag/adBp42M)
- - 😝 [Holy shit I thought for sure you were all exaggerating](http://9gag.com/gag/an7B05o)
- - 👉 [You just can&#39;t make this up](http://9gag.com/gag/aVvX9DO)<!-- MEMES:END -->
+ - 😝 [Results are recorded... so it&#39;s science...](http://9gag.com/gag/axyGepD)
+ - 💣 [Good old days](http://9gag.com/gag/a9yP4MD)
+ - 😝 [That&#39;s a strange mystery](http://9gag.com/gag/aqy2OQP)
+ - 👉 [No more butt hurt](http://9gag.com/gag/a6ZLeeA)<!-- MEMES:END -->
 
 ---
 

@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is this true?](http://9gag.com/gag/abAboW8)
- - 😝 [Nice cop](http://9gag.com/gag/ajPn3w0)
- - 💣 [Results are recorded... so it&#39;s science...](http://9gag.com/gag/axyGepD)
- - 😝 [Good old days](http://9gag.com/gag/a9yP4MD)
- - 👉 [Just wanted to share some life hack for summer](http://9gag.com/gag/a6ZLe9N)<!-- MEMES:END -->
+ - 😝 [Master with severe depression, PhD with slight burnout. But I got it!](http://9gag.com/gag/azxVv7m)
+ - 😝 [The Dangers in Their Lust](http://9gag.com/gag/adBp42M)
+ - 💣 [Just wanted to share some life hack for summer](http://9gag.com/gag/a6ZLe9N)
+ - 😝 [They are living with us, near you, maybe they are your neighbours...or maybe it&#39;s you !](http://9gag.com/gag/a9yPNXj)
+ - 👉 [Holy shit I thought for sure you were all exaggerating](http://9gag.com/gag/an7B05o)<!-- MEMES:END -->
 
 ---
 

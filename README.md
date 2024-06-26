@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Judge giving justice](http://9gag.com/gag/aRBV8eG)
- - 😝 [The highest court in Israel decided these guys have to go into military service from now on.](http://9gag.com/gag/aW4ONXd)
- - 💣 [Crossing the Ganges](http://9gag.com/gag/a87jzw3)
- - 😝 [My fellow tech bros...](http://9gag.com/gag/aMVQDwA)
- - 👉 [You just can&#39;t make this up](http://9gag.com/gag/aVvX9DO)<!-- MEMES:END -->
+ - 😝 [The Dangers in Their Lust](http://9gag.com/gag/adBp42M)
+ - 😝 [Zooming](http://9gag.com/gag/ayNnV18)
+ - 💣 [Truly a beautiful human inside and out...we can learn from her](http://9gag.com/gag/a34Le6Q)
+ - 😝 [9gagger](http://9gag.com/gag/apRBjdW)
+ - 👉 [`Hear me out... `](http://9gag.com/gag/amo8beo)<!-- MEMES:END -->
 
 ---
 

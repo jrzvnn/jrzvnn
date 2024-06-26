@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stanford Internet Observatory&#39;s former research director details the online rumor mill that led to SIO ending its rapid-response election observation work &lpar;Ren&amp;eacute;e DiResta/New York Times&rpar;](http://www.techmeme.com/240625/p36#a240625p36)
- - [Best Internet Providers in Rochester, Minnesota](https://www.cnet.com/home/internet/best-internet-providers-in-rochester-mn/#ftag=CAD590a51e)
- - [Route: TikTok Shop saw a 13% jump in orders from April to May, as TikTok appears to be hiring hundreds of employees in the US to support its e-commerce efforts &lpar;Alexandra S. Levine/Forbes&rpar;](http://www.techmeme.com/240625/p35#a240625p35)
- - [Meta tests Vision Pro-like freeform virtual screen placement for Quest headsets](https://www.theverge.com/2024/6/25/24185869/meta-quest-vr-virtual-screen-placement)
- - [Prebiotic Drinks: What Are They, and Should You Be Drinking Them?](https://www.cnet.com/health/prebiotic-drinks-what-are-they-and-should-you-be-drinking-them/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Vienna-based Prewave, which helps companies monitor their supply chain risks, raised a &amp;euro;63M Series B led by Hedosophia, bringing its total funding to &amp;euro;90M+ &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/240625/p37#a240625p37)
+ - [Best Internet Providers in New York](https://www.cnet.com/home/internet/best-internet-providers-in-new-york/#ftag=CAD590a51e)
+ - [Best Internet Providers in Iowa City, Iowa](https://www.cnet.com/home/internet/best-internet-providers-in-iowa-city-ia/#ftag=CAD590a51e)
+ - [Best Internet Providers in Manchester, New Hampshire](https://www.cnet.com/home/internet/best-internet-providers-in-manchester-nh/#ftag=CAD590a51e)
+ - [Stanford Internet Observatory&#39;s former research director details the online rumor mill that led to SIO ending its rapid-response election observation work &lpar;Ren&amp;eacute;e DiResta/New York Times&rpar;](http://www.techmeme.com/240625/p36#a240625p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Star Wars then vs Star Wars now](http://9gag.com/gag/a2vqGAe)
- - 😝 [Football team scores without touching the ball](http://9gag.com/gag/a0eYD7q)
- - 💣 [Crossing the Ganges](http://9gag.com/gag/a87jzw3)
- - 😝 [No more butt hurt](http://9gag.com/gag/a6ZLeeA)
- - 👉 [What is my godamn superpower ?](http://9gag.com/gag/aLnBbn6)<!-- MEMES:END -->
+ - 😝 [Surgical lights cast no visible shadow](http://9gag.com/gag/amo8d32)
+ - 😝 [You just can&#39;t make this up](http://9gag.com/gag/aVvX9DO)
+ - 💣 [Is that a bazooka are you holding?](http://9gag.com/gag/an7BWQn)
+ - 😝 [The Dangers in Their Lust](http://9gag.com/gag/adBp42M)
+ - 👉 [Tired of BS propaganda, Hawk tuak, and other sh*t. Reposting old memes !](http://9gag.com/gag/aLnBr1A)<!-- MEMES:END -->
 
 ---
 

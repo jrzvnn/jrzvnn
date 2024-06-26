@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Surgical lights cast no visible shadow](http://9gag.com/gag/amo8d32)
- - 😝 [You just can&#39;t make this up](http://9gag.com/gag/aVvX9DO)
- - 💣 [Is that a bazooka are you holding?](http://9gag.com/gag/an7BWQn)
- - 😝 [The Dangers in Their Lust](http://9gag.com/gag/adBp42M)
- - 👉 [Tired of BS propaganda, Hawk tuak, and other sh*t. Reposting old memes !](http://9gag.com/gag/aLnBr1A)<!-- MEMES:END -->
+ - 😝 [All nations should learn from Winston Churchill](http://9gag.com/gag/aO8mN1D)
+ - 😝 [I\u2019m sure most people will think this is a scam, or weird, or whatever. But if anyone is feeling depressed please contact me. I\u2019m happy to chit-chat about any issues and offer advice. I\u2019m old now. Will delete if this gets a shit ton of trolls.](http://9gag.com/gag/a4PL8jm)
+ - 💣 [The perfect Pokemon figure doesn&#39;t exi...](http://9gag.com/gag/a5QKAoq)
+ - 😝 [Not another repost.](http://9gag.com/gag/aO8mA92)
+ - 👉 [Everyone born in the 1985-1995](http://9gag.com/gag/abAbmwv)<!-- MEMES:END -->
 
 ---
 

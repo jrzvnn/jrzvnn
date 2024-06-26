@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Steam’s new native gameplay recording tool also works on the Steam Deck](https://www.theverge.com/2024/6/26/24186716/valve-steam-native-game-recording-tool-deck)
  - [Don’t Miss Mattress Firm’s Fourth of July Sale Happening Now](https://www.cnet.com/deals/mattress-firm-4th-of-july-2024/#ftag=CAD590a51e)
  - [This Is the Fastest Way to Make Crispy Bacon](https://www.cnet.com/how-to/this-is-the-fastest-way-to-make-crispy-bacon/#ftag=CAD590a51e)
  - [Dish Network Now Offers Free Netflix for New and Returning Customers](https://www.cnet.com/tech/services-and-software/dish-network-now-offers-free-netflix-for-new-and-returning-customers/#ftag=CAD590a51e)
- - [Steam is getting an official controller, but Valve isn’t making it](https://www.theverge.com/2024/6/26/24186645/valve-steam-controller-officially-licensed-wireless-horipad-announcement-specs)
- - [A look at YouTube&#39;s growing dominance as Nielsen says it had ~10% of all viewership on connected and traditional TVs in the US in May, ahead of Netflix&#39;s 7.6% &lpar;Alex Sherman/CNBC&rpar;](http://www.techmeme.com/240626/p37#a240626p37)<!-- TECH:END -->
+ - [Steam is getting an official controller, but Valve isn’t making it](https://www.theverge.com/2024/6/26/24186645/valve-steam-controller-officially-licensed-wireless-horipad-announcement-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

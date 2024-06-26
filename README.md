@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Swifties aren&#39;t gonna like this.](http://9gag.com/gag/aD2mMQZ)
- - 😝 [Is that a bazooka are you holding?](http://9gag.com/gag/an7BWQn)
- - 💣 [`Hear me out... `](http://9gag.com/gag/amo8beo)
- - 😝 [Football team scores without touching the ball](http://9gag.com/gag/a0eYD7q)
- - 👉 [The highest court in Israel decided these guys have to go into military service from now on.](http://9gag.com/gag/aW4ONXd)<!-- MEMES:END -->
+ - 😝 [My fellow tech bros...](http://9gag.com/gag/aMVQDwA)
+ - 😝 [Results are recorded... so it&#39;s science...](http://9gag.com/gag/axyGepD)
+ - 💣 [Swifties aren&#39;t gonna like this.](http://9gag.com/gag/aD2mMQZ)
+ - 😝 [Just wanted to share some life hack for summer](http://9gag.com/gag/a6ZLe9N)
+ - 👉 [The Dangers in Their Lust](http://9gag.com/gag/adBp42M)<!-- MEMES:END -->
 
 ---
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Erdtree gets a little easier with new Elden Ring update](https://www.theverge.com/2024/6/26/24186473/elden-ring-dlc-shadow-of-the-erdtree-update-difficulty-nerf)
+ - [Slides shown to Chinese sellers: Amazon plans to launch a Temu-like section featuring cheap items that ship directly from China to overseas consumers &lpar;The Information&rpar;](http://www.techmeme.com/240626/p34#a240626p34)
  - [Microsoft’s canceled Xbox cloud console gets detailed in new patent](https://www.theverge.com/2024/6/26/24186639/microsoft-xbox-cloud-console-keystone-patent-images)
  - [War Crime Prosecutions Enter a New Digital Age](https://www.wired.com/story/icc-investigation-digital-media/)
- - [Google is testing facial recognition tech for campus security at an office near Seattle; people entering the building will not be able to opt out &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/240626/p33#a240626p33)
- - [How to Shop Like a Pro During Amazon Prime Day - July 2024](https://www.wired.com/story/amazon-prime-day-2024-tips-to-find-best-deals/)
- - [Apple&#39;s &#39;longevity by design&#39; initiative is a balance between repairability &amp; secure engineering](https://appleinsider.com/articles/24/06/26/apples-longevity-by-design-initiative-is-a-balance-between-repairability-secure-engineering?utm_medium=rss)<!-- TECH:END -->
+ - [Google is testing facial recognition tech for campus security at an office near Seattle; people entering the building will not be able to opt out &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/240626/p33#a240626p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

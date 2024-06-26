@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Zooming](http://9gag.com/gag/ayNnV18)
- - 😝 [Voluptuous Latina](http://9gag.com/gag/aO8mAQR)
- - 💣 [No more butt hurt](http://9gag.com/gag/a6ZLeeA)
- - 😝 [The highest court in Israel decided these guys have to go into military service from now on.](http://9gag.com/gag/aW4ONXd)
- - 👉 [I\u2019m sure most people will think this is a scam, or weird, or whatever. But if anyone is feeling depressed please contact me. I\u2019m happy to chit-chat about any issues and offer advice. I\u2019m old now. Will delete if this gets a shit ton of trolls.](http://9gag.com/gag/a4PL8jm)<!-- MEMES:END -->
+ - 😝 [Judge giving justice](http://9gag.com/gag/aRBV8eG)
+ - 😝 [My All Time Favorite Krazy Karen](http://9gag.com/gag/aD2mq39)
+ - 💣 [Is that a bazooka are you holding?](http://9gag.com/gag/an7BWQn)
+ - 😝 [You just can&#39;t make this up](http://9gag.com/gag/aVvX9DO)
+ - 👉 [This Italian girl&#39;s name is Desir\u00e9e Mariottini. Desir\u00e9e was 16 years old. One night, she missed the bus on her way home. She didn&#39;t have money to take a taxi and had to walk. On the way back, 4 Senegalese immigrants attacked Desir\u00e9e and took her to a ruined house.](http://9gag.com/gag/ajPnGmq)<!-- MEMES:END -->
 
 ---
 

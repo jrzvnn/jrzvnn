@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They are living with us, near you, maybe they are your neighbours...or maybe it&#39;s you !](http://9gag.com/gag/a9yPNXj)
- - 😝 [Let them fight i say](http://9gag.com/gag/aZZNV10)
- - 💣 [Judge giving justice](http://9gag.com/gag/aRBV8eG)
+ - 😝 [Crossing the Ganges](http://9gag.com/gag/a87jzw3)
+ - 😝 [The Dangers in Their Lust](http://9gag.com/gag/adBp42M)
+ - 💣 [My fellow tech bros...](http://9gag.com/gag/aMVQDwA)
  - 😝 [You just can&#39;t make this up](http://9gag.com/gag/aVvX9DO)
- - 👉 [Everyone born in the 1985-1995](http://9gag.com/gag/abAbmwv)<!-- MEMES:END -->
+ - 👉 [No more butt hurt](http://9gag.com/gag/a6ZLeeA)<!-- MEMES:END -->
 
 ---
 

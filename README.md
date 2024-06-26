@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You just can&#39;t make this up](http://9gag.com/gag/aVvX9DO)
- - 😝 [Judge giving justice](http://9gag.com/gag/aRBV8eG)
- - 💣 [No more butt hurt](http://9gag.com/gag/a6ZLeeA)
- - 😝 [What is my godamn superpower ?](http://9gag.com/gag/aLnBbn6)
- - 👉 [Is that a bazooka are you holding?](http://9gag.com/gag/an7BWQn)<!-- MEMES:END -->
+ - 😝 [Tired of BS propaganda, Hawk tuak, and other sh*t. Reposting old memes !](http://9gag.com/gag/aLnBr1A)
+ - 😝 [The Dangers in Their Lust](http://9gag.com/gag/adBp42M)
+ - 💣 [Just wanted to share some life hack for summer](http://9gag.com/gag/a6ZLe9N)
+ - 😝 [No more butt hurt](http://9gag.com/gag/a6ZLeeA)
+ - 👉 [Ultra reaction](http://9gag.com/gag/aByrvdN)<!-- MEMES:END -->
 
 ---
 

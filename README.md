@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mama Mia](http://9gag.com/gag/azxVoKp)
- - 😝 [Spielberg Humiliates Kathleen Kennedy](http://9gag.com/gag/a6ZL4p8)
- - 💣 [Judge giving justice](http://9gag.com/gag/aRBV8eG)
- - 😝 [Let them fight i say](http://9gag.com/gag/aZZNV10)
- - 👉 [All nations should learn from Winston Churchill](http://9gag.com/gag/aO8mN1D)<!-- MEMES:END -->
+ - 😝 [The highest court in Israel decided these guys have to go into military service from now on.](http://9gag.com/gag/aW4ONXd)
+ - 😝 [Voluptuous Latina](http://9gag.com/gag/aO8mAQR)
+ - 💣 [Zooming](http://9gag.com/gag/ayNnV18)
+ - 😝 [Is that a bazooka are you holding?](http://9gag.com/gag/an7BWQn)
+ - 👉 [Just wanted to share some life hack for summer](http://9gag.com/gag/a6ZLe9N)<!-- MEMES:END -->
 
 ---
 

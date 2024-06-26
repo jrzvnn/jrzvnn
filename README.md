@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers: polyfill.io domain, which offers JavaScript polyfills, is being used to infect 100K+ websites with malware after a Chinese CDN bought it in 2024 &lpar;Jessica Lyons/The Register&rpar;](http://www.techmeme.com/240626/p29#a240626p29)
  - [Amazon Prime Day starts July 16, but you can grab Apple deals for as low as $24 today](https://appleinsider.com/articles/24/06/26/amazon-prime-day-starts-july-16-but-you-can-grab-apple-deals-for-as-low-as-24-today?utm_medium=rss)
  - [Apple’s M2-powered Mac Mini is down to one of its best prices](https://www.theverge.com/2024/6/26/24185646/amazon-apple-mac-mini-blink-video-doorbell-deal-sale)
  - [SCOTUS Rules That US Government Can Continue Talking to Social Media Companies](https://www.wired.com/story/scotus-us-government-talk-social-media-companies/)
- - [Apple touts its device longevity in a whitepaper and says True Tone and battery health data will be available for third-party replacement parts later in 2024 &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240626/p28#a240626p28)
- - [Verizon’s new V logo arrives as the lines blur between 5G, Fios, and streaming](https://www.theverge.com/2024/6/26/24186373/verizon-new-logo-myhome-internet-plans)<!-- TECH:END -->
+ - [Apple touts its device longevity in a white paper and says True Tone and battery health data will be available for third-party replacement parts later in 2024 &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240626/p28#a240626p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

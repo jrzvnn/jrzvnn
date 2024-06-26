@@ -163,10 +163,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Figma debuts a major UI redesign, new generative AI tools, and a built-in slideshow feature, which is free in beta but will be a paid product at official launch &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240626/p44#a240626p44)
+ - [Best Solar Companies of June 2024](https://www.cnet.com/home/energy-and-utilities/best-solar-companies/#ftag=CAD590a51e)
+ - [NBA Draft 2024: How to Watch First Round Tonight From Anyway](https://www.cnet.com/tech/services-and-software/nba-draft-2024-how-to-watch-first-round-tonight-from-anyway/#ftag=CAD590a51e)
  - [BMW M5 gets its first plug — and gains a lot of weight](https://www.theverge.com/2024/6/26/24186750/2025-bmw-m5-plug-in-hybrid)
- - [Crypto investment app Abra and CEO William Barhydt settle with 25 US states for operating without proper licenses and will return up to $82.1M to US customers &lpar;Cheyenne Ligon/CoinDesk&rpar;](http://www.techmeme.com/240626/p43#a240626p43)
- - [You will never guess Wordle’s terrible, hilarious original name](https://www.theverge.com/24186786/wordle-original-name-mr-bugs-wordy-nugz-wardle)
- - [Watching &#39;The Boys&#39; Season 4? This Prime Video Feature Is a Treat](https://www.cnet.com/tech/services-and-software/watching-the-boys-season-4-this-prime-video-feature-is-a-treat/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [RCS Is Making Its iPhone Debut, Starting With iOS 18 Beta 2. How It&#39;ll Change Texting](https://www.cnet.com/tech/mobile/rcs-is-making-its-iphone-debut-starting-with-ios-18-beta-2-how-itll-change-texting/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

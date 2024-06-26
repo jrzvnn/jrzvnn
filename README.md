@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ultra reaction](http://9gag.com/gag/aByrvdN)
- - 😝 [Fill up the other tiers lol.](http://9gag.com/gag/a4PLrPp)
- - 💣 [Football team scores without touching the ball](http://9gag.com/gag/a0eYD7q)
- - 😝 [I always told people i&#39;ve been to Iraq but never told them about how i got sent home. It feels good to get it out of my chest after 20 years.](http://9gag.com/gag/a4PLV7y)
- - 👉 [The highest court in Israel decided these guys have to go into military service from now on.](http://9gag.com/gag/aW4ONXd)<!-- MEMES:END -->
+ - 😝 [They are living with us, near you, maybe they are your neighbours...or maybe it&#39;s you !](http://9gag.com/gag/a9yPNXj)
+ - 😝 [Not another repost.](http://9gag.com/gag/aO8mA92)
+ - 💣 [Judge giving justice](http://9gag.com/gag/aRBV8eG)
+ - 😝 [Let them fight i say](http://9gag.com/gag/aZZNV10)
+ - 👉 [You just can&#39;t make this up](http://9gag.com/gag/aVvX9DO)<!-- MEMES:END -->
 
 ---
 

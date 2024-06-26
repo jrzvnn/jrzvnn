@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just wanted to share some life hack for summer](http://9gag.com/gag/a6ZLe9N)
- - 😝 [Results are recorded... so it&#39;s science...](http://9gag.com/gag/axyGepD)
- - 💣 [Good old days](http://9gag.com/gag/a9yP4MD)
- - 😝 [That&#39;s a strange mystery](http://9gag.com/gag/aqy2OQP)
- - 👉 [No more butt hurt](http://9gag.com/gag/a6ZLeeA)<!-- MEMES:END -->
+ - 😝 [How to light according to the function of the room](http://9gag.com/gag/aVvX8Ld)
+ - 😝 [Sound off](http://9gag.com/gag/a87j9G1)
+ - 💣 [Results are recorded... so it&#39;s science...](http://9gag.com/gag/axyGepD)
+ - 😝 [Beware of the dog](http://9gag.com/gag/a6ZLzrm)
+ - 👉 [That&#39;s a strange mystery](http://9gag.com/gag/aqy2OQP)<!-- MEMES:END -->
 
 ---
 

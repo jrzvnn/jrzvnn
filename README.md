@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Voluptuous Latina](http://9gag.com/gag/aO8mAQR)
- - 😝 [Judge giving justice](http://9gag.com/gag/aRBV8eG)
- - 💣 [No more butt hurt](http://9gag.com/gag/a6ZLeeA)
- - 😝 [The Dangers in Their Lust](http://9gag.com/gag/adBp42M)
- - 👉 [Is that a bazooka are you holding?](http://9gag.com/gag/an7BWQn)<!-- MEMES:END -->
+ - 😝 [Is that a bazooka are you holding?](http://9gag.com/gag/an7BWQn)
+ - 😝 [`Hear me out... `](http://9gag.com/gag/amo8beo)
+ - 💣 [Judge giving justice](http://9gag.com/gag/aRBV8eG)
+ - 😝 [Just wanted to share some life hack for summer](http://9gag.com/gag/a6ZLe9N)
+ - 👉 [Voluptuous Latina](http://9gag.com/gag/aO8mAQR)<!-- MEMES:END -->
 
 ---
 

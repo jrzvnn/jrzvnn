@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A New &#39;Trustmark&#39; Could Show Music Uses AI Responsibly](https://www.cnet.com/tech/services-and-software/a-new-trustmark-could-show-music-uses-ai-responsibly/#ftag=CAD590a51e)
- - [Crunchyroll Game Vault Is More Than Doubling Its Size Soon](https://www.cnet.com/tech/gaming/crunchyroll-game-vault-is-more-than-doubling-its-size-soon/#ftag=CAD590a51e)
- - [One of My Favorite Pillow-Top Mattresses Is on Sale This Fourth of July](https://www.cnet.com/deals/one-of-my-favorite-pillow-top-mattresses-is-on-sale-this-fourth-of-july/#ftag=CAD590a51e)
+ - [PortSwigger, the company behind the Burp Suite of security testing tools founded by security expert &quot;Daf&quot;, raised $112M, its first outside investment &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240627/p19#a240627p19)
+ - [Bitcoin falls after a wallet tagged to the US government moved ~3,940 BTC, worth ~$240M and originally seized from a Silk Road vendor, to Coinbase Prime &lpar;Aoyon Ashraf/CoinDesk&rpar;](http://www.techmeme.com/240627/p18#a240627p18)
  - [These smart lights could solve the kitchen cabinet problem](https://www.theverge.com/2024/6/27/24186861/ge-lighting-cync-reveal-undercabinet-fixtures-smart-lights)
- - [KarmaCheck, which uses AI for conducting background checks and was founded by LinkedIn&#39;s Eric Ly, raised a $45M Series B, bringing total funding to $60M &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/240627/p17#a240627p17)<!-- TECH:END -->
+ - [KarmaCheck, which uses AI for conducting background checks and was founded by LinkedIn&#39;s Eric Ly, raised a $45M Series B, bringing total funding to $60M &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/240627/p17#a240627p17)
+ - [Camera Face-Off: We Pit Smartphones From Xiaomi, Oppo, and Honor to Find a Winner](https://www.wired.com/story/xiaomi-14-ultra-honor-magic-6-pro-oppo-find-x7-ultra-camera-shootout/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

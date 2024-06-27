@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No more butt hurt](http://9gag.com/gag/a6ZLeeA)
- - 😝 [I apologise ma&#39;am or sir.](http://9gag.com/gag/avyLBjq)
- - 💣 [Wow](http://9gag.com/gag/an7B0LB)
- - 😝 [Where are this kind of teachers when im in school??](http://9gag.com/gag/a87jgDd)
- - 👉 [Here you go, a longer version from the Hawk Tuah girl &lpar;Hailey welch&rpar;](http://9gag.com/gag/aQznKjd)<!-- MEMES:END -->
+ - 😝 [Judged by color](http://9gag.com/gag/ayNnAy8)
+ - 😝 [Bro missed](http://9gag.com/gag/avyLqm5)
+ - 💣 [Footage of the Roman Empire using Midjourney and the Luma Dream Machine](http://9gag.com/gag/aByr5q2)
+ - 😝 [Texas lady is not amused](http://9gag.com/gag/a2vqpVE)
+ - 👉 [Racoon](http://9gag.com/gag/aNDKMGv)<!-- MEMES:END -->
 
 ---
 

@@ -164,9 +164,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [The New York Times’ excellent word search game is now in its Games app](https://www.theverge.com/2024/6/27/24187656/new-york-times-strands-word-search-games-app)
  - [Meta releases LLM Compiler, a family of models built on Code Llama specifically designed for code optimization tasks, available with 7B and 13B parameters &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240627/p35#a240627p35)
- - [A meeting to consider a bipartisan privacy bill just crumbled](https://www.theverge.com/2024/6/27/24187313/house-energy-commerce-committee-cancels-apra-privacy-bill-markup)
- - [The FCC wants to make it easier to unlock cellphones](https://www.theverge.com/2024/6/27/24187651/fcc-cell-phone-unlock-rules-60-days)
- - [Perplexity’s grand theft AI](https://www.theverge.com/2024/6/27/24187405/perplexity-ai-twitter-lie-plagiarism)<!-- TECH:END -->
+ - [Microsoft&#39;s New Copilot Plus PCs Are Here to Supercharge Your Creativity](https://www.cnet.com/paid-content/news/microsofts-new-copilot-plus-pcs-are-here-to-supercharge-your-creativity/#ftag=CAD590a51e)
+ - [Best AirPods Deals: Get Apple&#39;s Wireless Audio Gear for Less](https://www.cnet.com/deals/best-apple-airpods-deals/#ftag=CAD590a51e)
+ - [Brooklyn Bedding&#39;s Answer to the Firmest Flippable Mattress: Plank Firm Luxe Review video](https://www.cnet.com/videos/brooklyn-beddings-answer-to-the-firmest-flippable-mattress-plank-firm-luxe-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Travelers, Rejoice: Google Translate Adds 110 New Languages, Thanks to AI](https://www.cnet.com/tech/mobile/travelers-rejoice-google-translate-adds-110-new-languages-thanks-to-ai/#ftag=CAD590a51e)
  - [Google Translate is getting support for more than 110 new languages](https://www.theverge.com/2024/6/27/24186223/google-translate-110-new-languages)
  - [Blancpain Fifty Fathoms Bathyscaphe Quantieme Complet Phase de Lune: price, specs, availability](https://www.wired.com/story/blancpain-fifty-fathoms-bathyscaphe-quantieme-complet-phase-de-lune-ceramic-bracelet/)
  - [Telegram, used by half of Russia&#39;s 140M residents, has become a refuge for LGBTQ+ citizens, who routinely create new channels to avoid government surveillance &lpar;Sassafras Lowrey/Wired&rpar;](http://www.techmeme.com/240627/p9#a240627p9)
- - [Testing ChatGPT, Vacay, and Mindtrip to plan a Norway trip shows none were perfect, but the AI chatbots streamlined travel decisions complementing one another &lpar;Ceylan Ye&amp;gbreve;insu/New York Times&rpar;](http://www.techmeme.com/240627/p8#a240627p8)<!-- TECH:END -->
+ - [Testing ChatGPT, Vacay, and Mindtrip to plan a Norway trip shows none were perfect, but the AI chatbots streamlined travel decisions complementing one another &lpar;Ceylan Ye&amp;gbreve;insu/New York Times&rpar;](http://www.techmeme.com/240627/p8#a240627p8)
+ - [Google announces faster Sheets calculations on Chrome and Edge browsers on desktop, doubling speeds for running formulas, creating pivot tables, and more &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/240627/p7#a240627p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

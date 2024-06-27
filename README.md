@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Okey...](http://9gag.com/gag/aAyp5K9)
- - 😝 [No more butt hurt](http://9gag.com/gag/a6ZLeeA)
- - 💣 [I mean, Who wouldn&#39;t take the cookies?](http://9gag.com/gag/a4PLye6)
- - 😝 [Street performers in London these days](http://9gag.com/gag/avyLjLO)
- - 👉 [This Italian girl&#39;s name is Desir\u00e9e Mariottini. Desir\u00e9e was 16 years old. One night, she missed the bus on her way home. She didn&#39;t have money to take a taxi and had to walk. On the way back, 4 Senegalese immigrants attacked Desir\u00e9e and took her to a ruined house.](http://9gag.com/gag/ajPnGmq)<!-- MEMES:END -->
+ - 😝 [Facts](http://9gag.com/gag/aryRwzK)
+ - 😝 [Racoon](http://9gag.com/gag/aNDKMGv)
+ - 💣 [When a 9gagger occasionally leaves his home.](http://9gag.com/gag/aLnBovM)
+ - 😝 [Bro missed](http://9gag.com/gag/avyLqm5)
+ - 👉 [Texas lady is not amused](http://9gag.com/gag/a2vqpVE)<!-- MEMES:END -->
 
 ---
 

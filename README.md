@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta&#39;s Oversight Board says it issued 53 decisions in 2023 and that Meta has fully or partially implemented 75 out of 266 recommendations since January 2021 &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/240627/p14#a240627p14)
  - [SoftBank announces AI healthcare joint venture SB TEMPUS with Tempus AI, which recently listed on Nasdaq; Softbank invested ~$200M in Tempus&#39; Series G in April &lpar;Anton Bridge/Reuters&rpar;](http://www.techmeme.com/240627/p13#a240627p13)
  - [Trump–Biden Debate Conspiracies Have Already Flooded the Internet](https://www.wired.com/story/trump-biden-debate-conspiracies-online/)
  - [Traveling for the Fourth of July? Save Money by Borrowing an AirTag](https://www.cnet.com/tech/mobile/traveling-for-the-fourth-of-july-save-money-by-borrowing-an-airtag/#ftag=CAD590a51e)
- - [Xbox Game Pass: Play My Time at Sandrock, FC 24 and More Now](https://www.cnet.com/tech/gaming/xbox-game-pass-play-my-time-at-sandrock-fc-24-and-more-now/#ftag=CAD590a51e)
- - [‘SimCity’ Isn’t a Model of Reality. It’s a Libertarian Toy Land](https://www.wired.com/story/simcity-libertarian-toy-land/)<!-- TECH:END -->
+ - [Xbox Game Pass: Play My Time at Sandrock, FC 24 and More Now](https://www.cnet.com/tech/gaming/xbox-game-pass-play-my-time-at-sandrock-fc-24-and-more-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

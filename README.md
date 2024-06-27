@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We do](http://9gag.com/gag/a1mYjmY)
- - 😝 [Facts](http://9gag.com/gag/aryRwzK)
- - 💣 [When supervisor doesn&#39;t show up to work for a day](http://9gag.com/gag/apRBwKb)
- - 😝 [Judged by color](http://9gag.com/gag/ayNnAy8)
- - 👉 [Texas lady is not amused](http://9gag.com/gag/a2vqpVE)<!-- MEMES:END -->
+ - 😝 [Master with severe depression, PhD with slight burnout. But I got it!](http://9gag.com/gag/azxVv7m)
+ - 😝 [Judge giving justice](http://9gag.com/gag/aRBV8eG)
+ - 💣 [Truly a beautiful human inside and out...we can learn from her](http://9gag.com/gag/a34Le6Q)
+ - 😝 [Holy shit I thought for sure you were all exaggerating](http://9gag.com/gag/an7B05o)
+ - 👉 [`Hear me out... `](http://9gag.com/gag/amo8beo)<!-- MEMES:END -->
 
 ---
 

@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ahoy, mateys! yarrr!](http://9gag.com/gag/aByrjgP)
- - 😝 [No more butt hurt](http://9gag.com/gag/a6ZLeeA)
- - 💣 [Master with severe depression, PhD with slight burnout. But I got it!](http://9gag.com/gag/azxVv7m)
- - 😝 [Judged by color](http://9gag.com/gag/ayNnAy8)
- - 👉 [Atlanta Dog fights 13 coyotes attacking his sheep. Kills 8 on the spot. Goes missing 4 days. Comes home after killing the remaining 5.](http://9gag.com/gag/a87jNBO)<!-- MEMES:END -->
+ - 😝 [The Dangers in Their Lust](http://9gag.com/gag/adBp42M)
+ - 😝 [Zooming](http://9gag.com/gag/ayNnV18)
+ - 💣 [They are living with us, near you, maybe they are your neighbours...or maybe it&#39;s you !](http://9gag.com/gag/a9yPNXj)
+ - 😝 [This Italian girl&#39;s name is Desir\u00e9e Mariottini. Desir\u00e9e was 16 years old. One night, she missed the bus on her way home. She didn&#39;t have money to take a taxi and had to walk. On the way back, 4 Senegalese immigrants attacked Desir\u00e9e and took her to a ruined house.](http://9gag.com/gag/ajPnGmq)
+ - 👉 [Holy shit I thought for sure you were all exaggerating](http://9gag.com/gag/an7B05o)<!-- MEMES:END -->
 
 ---
 

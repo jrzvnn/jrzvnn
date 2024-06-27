@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [More YouTube Premium plans are coming](https://www.theverge.com/2024/6/27/24187590/youtube-premium-subscription-more-plans)
+ - [The best Prime Day deals you can already get](https://www.theverge.com/24186583/amazon-prime-day-2024-best-tech-deals-sales)
+ - [There are drastic steps to take, if your tattoo is hampering your Apple Watch](https://appleinsider.com/articles/24/06/27/there-are-drastic-steps-to-take-if-your-tattoo-is-hampering-your-apple-watch?utm_medium=rss)
  - [Valve reveals the most-played Steam Deck games](https://www.theverge.com/2024/6/27/24187519/valve-steam-deck-top-100-games-chart)
- - [Samsung’s next smartwatches and earbuds fully revealed in new leak](https://www.theverge.com/2024/6/27/24187522/samsung-galaxy-watch-7-ultra-buds-3-pro-official-leak)
- - [Google touts ‘enterprise-ready’ AI with more facts and less make-believe](https://www.theverge.com/2024/6/27/24187534/google-vertex-ai-developer-search-features-third-party-data)
- - [The 21 Best Movies on Apple TV+ Right Now &lpar;July 2024&rpar;](https://www.wired.com/story/best-apple-tv-plus-movies/)
- - [In an interview, Mark Zuckerberg says there will not be &quot;just one AI&quot;, disparages closed-source AI competitors as trying to &quot;create God&quot;, and more &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240627/p34#a240627p34)<!-- TECH:END -->
+ - [Samsung’s next smartwatches and earbuds fully revealed in new leak](https://www.theverge.com/2024/6/27/24187522/samsung-galaxy-watch-7-ultra-buds-3-pro-official-leak)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI&#39;s move to cut off API access to Chinese developers sets the stage for a Chinese industry shakeup and will accentuate the divide between China and the US &lpar;Bloomberg&rpar;](http://www.techmeme.com/240627/p4#a240627p4)
  - [The chair of the India Cellular and Electronics Association says thousands of Chinese engineers and technicians are struggling to obtain Indian work visas &lpar;John Reed/Financial Times&rpar;](http://www.techmeme.com/240627/p3#a240627p3)
  - [Top German antitrust official Andreas Mundt says AI is a &quot;first-class fire accelerator&quot; for anticompetitive tactics and &quot;will make all the problems only worse&quot; &lpar;Karin Matussek/Bloomberg&rpar;](http://www.techmeme.com/240627/p2#a240627p2)
  - [Progress Software discloses a critical vulnerability in the MOVEit SFTP module; hackers exploited a similar flaw in MOVEit last year to breach ~1,800 networks &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240627/p1#a240627p1)
- - [A look at the pro-crypto Fairshake super PAC, which raised $169M from Coinbase, Ripple, a16z, and more, and has backed 20+ US congressional primary wins in 2024 &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/240626/p50#a240626p50)
- - [Today&#39;s NYT Connections Hints, Answers and Help for June 27, #382](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-27-382/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at the pro-crypto Fairshake super PAC, which raised $169M from Coinbase, Ripple, a16z, and more, and has backed 20+ US congressional primary wins in 2024 &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/240626/p50#a240626p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

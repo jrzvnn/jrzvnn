@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Football team scores without touching the ball](http://9gag.com/gag/a0eYD7q)
+ - 😝 [Ahoy, mateys! yarrr!](http://9gag.com/gag/aByrjgP)
+ - 😝 [No more butt hurt](http://9gag.com/gag/a6ZLeeA)
+ - 💣 [Master with severe depression, PhD with slight burnout. But I got it!](http://9gag.com/gag/azxVv7m)
  - 😝 [Judged by color](http://9gag.com/gag/ayNnAy8)
- - 💣 [No more butt hurt](http://9gag.com/gag/a6ZLeeA)
- - 😝 [You just can&#39;t make this up](http://9gag.com/gag/aVvX9DO)
- - 👉 [Wow](http://9gag.com/gag/an7B0LB)<!-- MEMES:END -->
+ - 👉 [Atlanta Dog fights 13 coyotes attacking his sheep. Kills 8 on the spot. Goes missing 4 days. Comes home after killing the remaining 5.](http://9gag.com/gag/a87jNBO)<!-- MEMES:END -->
 
 ---
 

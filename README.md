@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US AT&amp;T, Verizon, T-Mobile users overseas hit by major outage](https://appleinsider.com/articles/24/06/27/us-att-verizon-t-mobile-users-overseas-hit-by-major-outage?utm_medium=rss)
- - [Odaseva, which provides data protection services for large Salesforce customers, raised a $54M Series C, bringing its total funding to $90M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240627/p16#a240627p16)
- - [Is Dr. Phil a Bigger Political Stage for Candidates Than CNN?](https://www.wired.com/story/dr-phil-cnn-presidential-debates/)
- - [Citizen Lab: Microsoft censors its Bing translation service more extensively in China than its competitors like Baidu Translate and Tencent Machine Translation &lpar;Joanna Chiu/Rest of World&rpar;](http://www.techmeme.com/240627/p15#a240627p15)
- - [Best Internet Providers in Arkansas](https://www.cnet.com/home/internet/best-internet-providers-in-arkansas/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Have Trouble Keeping Plants Alive? These 9 Species Are Impossible to Kill](https://www.cnet.com/news/have-trouble-keeping-plants-alive-these-9-species-are-impossible-to-kill/#ftag=CAD590a51e)
+ - [Samsung&#39;s Galaxy Unpacked Summer Event: How to Watch and What to Expect](https://www.cnet.com/tech/mobile/samsungs-galaxy-unpacked-summer-event-how-to-watch-and-what-to-expect/#ftag=CAD590a51e)
+ - [I&#39;ve Saved Around $650 Making My Own Foaming Hand Soap Refills &lpar;Seriously!&rpar;](https://www.cnet.com/how-to/ive-saved-around-650-making-my-own-foaming-hand-soap-refills-seriously/#ftag=CAD590a51e)
+ - [Samsung Devices to Expect in 2024: Galaxy Z Flip 6, Galaxy Ring and More](https://www.cnet.com/tech/mobile/galaxy-s24-is-here-but-were-expecting-more-from-samsung-in-2024/#ftag=CAD590a51e)
+ - [The Secret Hero of Home Safety Is the Humble Leak Detector](https://www.cnet.com/home/security/secret-hero-of-home-safety-is-the-humble-leak-detector/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

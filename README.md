@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Portable Mini Bluetooth Speakers for 2024: Top Compact Waterproof Wireless Speakers](https://www.cnet.com/tech/home-entertainment/best-portable-mini-bluetooth-speaker/#ftag=CAD590a51e)
  - [ORA, a blockchain project to incorporate AI into decentralized apps, raised a $20M Series A from Polychain, HF0, HashKey Capital, and others &lpar;Bradley Keoun/CoinDesk&rpar;](http://www.techmeme.com/240626/p45#a240626p45)
- - [Figma debuts a major UI redesign, new generative AI tools, and a built-in slideshow feature, which is free in beta but will be a paid product at official launch &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240626/p44#a240626p44)
- - [Best Solar Companies of June 2024](https://www.cnet.com/home/energy-and-utilities/best-solar-companies/#ftag=CAD590a51e)
- - [NBA Draft 2024: How to Watch First Round Tonight From Anyway](https://www.cnet.com/tech/services-and-software/nba-draft-2024-how-to-watch-first-round-tonight-from-anyway/#ftag=CAD590a51e)
- - [BMW M5 gets its first plug — and gains a lot of weight](https://www.theverge.com/2024/6/26/24186750/2025-bmw-m5-plug-in-hybrid)<!-- TECH:END -->
+ - [This AI Biographer Wants to Help You Tell Your Life Story](https://www.cnet.com/tech/services-and-software/this-ai-biographer-wants-to-help-you-tell-your-life-story/#ftag=CAD590a51e)
+ - [Best Laptop of 2024](https://www.cnet.com/tech/computing/best-laptop/#ftag=CAD590a51e)
+ - [Figma debuts a major UI redesign, new generative AI tools, and a built-in slideshow feature, which is free in beta but will be a paid product at official launch &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240626/p44#a240626p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Verizon, AT&amp;T, and T-Mobile customers roaming internationally can’t connect](https://www.theverge.com/2024/6/27/24187281/verizon-att-t-mobile-international-roaming-calling-data-outage)
- - [Amazon’s latest Fire TV Cube is $79.99 for a refurbished model](https://www.theverge.com/2024/6/27/24187249/amazon-fire-tv-cube-third-gen-refurbished-deal-sale)
- - [Character.AI now lets users talk to AI characters over calls in multiple languages, including English and Chinese, says 3M users made 20M+ calls during testing &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240627/p26#a240627p26)
- - [The Mystery Ranch Coulee 30 is Everything You Need in Day Pack](https://www.wired.com/review/mystery-ranch-coulee-30/)
- - [Save Up to $800 With Purple&#39;s Hot Fourth of July Sale](https://www.cnet.com/deals/purple-4th-of-july-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Buy takes on Prime Day with its Member Deals Days sale that starts now](https://appleinsider.com/articles/24/06/27/best-buy-takes-on-prime-day-with-its-member-deals-days-sale-that-starts-now?utm_medium=rss)
+ - [Google says Gemma 2 will be available to researchers and developers through Vertex AI starting next month, including with a new 9B-parameter model &lpar;Ken Yeung/VentureBeat&rpar;](http://www.techmeme.com/240627/p28#a240627p28)
+ - [As tech companies grapple with the limited availability of Nvidia chips globally, Chinese companies like Alibaba face a tougher situation due to US restrictions &lpar;The Information&rpar;](http://www.techmeme.com/240627/p27#a240627p27)
+ - [Deepfakes Are Evolving. This Company Wants to Catch Them All](https://www.wired.com/story/deepfake-detection-get-real-labs/)
+ - [Windows on Arm puts Intel on notice](https://www.theverge.com/2024/6/27/24187343/intel-windows-on-arm-microsoft-qualcomm-notepad)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

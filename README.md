@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Beijing Academy of Artificial Intelligence&#39;s Zhang Hongjiang on becoming one of China&#39;s leading advocates for AI regulation, US export curbs, and more &lpar;Financial Times&rpar;](http://www.techmeme.com/240627/p6#a240627p6)
  - [How landlords are using AI tools to communicate with tenants, track the use of common areas, monitor energy use, and more &lpar;Julie Weed/New York Times&rpar;](http://www.techmeme.com/240627/p5#a240627p5)
  - [OpenAI&#39;s move to cut off API access to Chinese developers sets the stage for a Chinese industry shakeup and will accentuate the divide between China and the US &lpar;Bloomberg&rpar;](http://www.techmeme.com/240627/p4#a240627p4)
  - [The chair of the India Cellular and Electronics Association says thousands of Chinese engineers and technicians are struggling to obtain Indian work visas &lpar;John Reed/Financial Times&rpar;](http://www.techmeme.com/240627/p3#a240627p3)
- - [Top German antitrust official Andreas Mundt says AI is a &quot;first-class fire accelerator&quot; for anticompetitive tactics and &quot;will make all the problems only worse&quot; &lpar;Karin Matussek/Bloomberg&rpar;](http://www.techmeme.com/240627/p2#a240627p2)
- - [Progress Software discloses a critical vulnerability in the MOVEit SFTP module; hackers exploited a similar flaw in MOVEit last year to breach ~1,800 networks &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240627/p1#a240627p1)<!-- TECH:END -->
+ - [Top German antitrust official Andreas Mundt says AI is a &quot;first-class fire accelerator&quot; for anticompetitive tactics and &quot;will make all the problems only worse&quot; &lpar;Karin Matussek/Bloomberg&rpar;](http://www.techmeme.com/240627/p2#a240627p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

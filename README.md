@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI Wants AI to Help Humans Train AI](https://www.wired.com/story/openai-rlhf-ai-training/)
  - [Glued iPhone batteries may be a thing of the past, if this new tech works out](https://appleinsider.com/articles/24/06/27/apple-gluing-down-batteries-may-be-a-thing-of-the-past-if-this-new-tech-works-out?utm_medium=rss)
- - [MegaLabs, the developer behind the Ethereum scaling protocol MegaETH that it claims is a &quot;real-time blockchain&quot;, raised $20M in seed funding led by Dragonfly &lpar;Margaux Nijkerk/CoinDesk&rpar;](http://www.techmeme.com/240627/p31#a240627p31)
- - [Meta starts testing user-created AI chatbots on Instagram in the US; Mark Zuckerberg says the chatbots, made using Meta AI studio, will be clearly labeled as AI &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240627/p30#a240627p30)
- - [Apple wants to help you open real-world locks just by looking at them](https://appleinsider.com/articles/24/06/27/apple-wants-to-help-you-open-real-world-locks-just-by-looking-at-them?utm_medium=rss)
- - [Axelera, which is building AI processing units to run computer vision inference workloads on the edge, raised a $68M Series B, taking its total funding to $120M &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/240627/p29#a240627p29)<!-- TECH:END -->
+ - [Best Internet Providers in Wilmington, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-wilmington-nc/#ftag=CAD590a51e)
+ - [Puffy Lux Mattress Review: A Marshmallowy Mattress for Side Sleepers](https://www.cnet.com/health/sleep/puffy-lux-mattress-review/#ftag=CAD590a51e)
+ - [The Steam Summer Sale Has Arrived. Here&#39;s a List of All Steam Sales](https://www.cnet.com/tech/services-and-software/when-are-steam-sales/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

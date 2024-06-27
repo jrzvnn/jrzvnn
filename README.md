@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I mean, Who wouldn&#39;t take the cookies?](http://9gag.com/gag/a4PLye6)
- - 😝 [Truly a beautiful human inside and out...we can learn from her](http://9gag.com/gag/a34Le6Q)
- - 💣 [Football team scores without touching the ball](http://9gag.com/gag/a0eYD7q)
- - 😝 [Holy shit I thought for sure you were all exaggerating](http://9gag.com/gag/an7B05o)
- - 👉 [I wish I were half the man HE is\u2026.](http://9gag.com/gag/amo8Zz2)<!-- MEMES:END -->
+ - 😝 [Some random store Guess the Country](http://9gag.com/gag/aQznb4r)
+ - 😝 [You just can&#39;t make this up](http://9gag.com/gag/aVvX9DO)
+ - 💣 [Woodstock 1969 - Artist salary breakdown](http://9gag.com/gag/aXPXmW6)
+ - 😝 [I wish I were half the man HE is\u2026.](http://9gag.com/gag/amo8Zz2)
+ - 👉 [Wow](http://9gag.com/gag/an7B0LB)<!-- MEMES:END -->
 
 ---
 

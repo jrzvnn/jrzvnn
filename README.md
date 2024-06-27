@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon is investigating Perplexity over whether the AI search startup is violating AWS rules by scraping websites that attempted to prevent it from doing so &lpar;Wired&rpar;](http://www.techmeme.com/240627/p39#a240627p39)
  - [Nokia agrees to acquire Infinera, which provides networking hardware and software to mobile phone operators and others, for $2.3B in a cash-and-stock deal &lpar;Bloomberg&rpar;](http://www.techmeme.com/240627/p38#a240627p38)
  - [macOS Sequoia adds headphone accommodations for AirPods](https://appleinsider.com/articles/24/06/27/macos-sequoia-adds-headphone-accommodations-for-airpods?utm_medium=rss)
  - [Sunday Ticket jury orders NFL to pay fans $4.7 billion in damages](https://www.theverge.com/2024/6/27/24187708/nfl-sunday-ticket-class-action-antitrust-lawsuit-verdict-damages)
- - [Naver-owned Webtoon shares closed up 9.5% at $23 in the online comics company&#39;s Nasdaq debut, giving it a market value of ~$2.9B, after an IPO that raised $315M &lpar;Bloomberg&rpar;](http://www.techmeme.com/240627/p37#a240627p37)
- - [Amazon Is Investigating Perplexity Over Claims of Scraping Abuse](https://www.wired.com/story/aws-perplexity-bot-scraping-investigation/)<!-- TECH:END -->
+ - [Naver-owned Webtoon shares closed up 9.5% at $23 in the online comics company&#39;s Nasdaq debut, giving it a market value of ~$2.9B, after an IPO that raised $315M &lpar;Bloomberg&rpar;](http://www.techmeme.com/240627/p37#a240627p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

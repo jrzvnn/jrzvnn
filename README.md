@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Naver-owned online comics platform Webtoon raised $315M in its Nasdaq IPO at $21 per share, the top of its $18-$21 marketed range, valuing the company at $2.7B &lpar;Song Jung-a/Financial Times&rpar;](http://www.techmeme.com/240627/p11#a240627p11)
- - [An interview with Netflix&#39;s VP of external games Leanne Loombe on its push into gaming, focusing on narrative games without ads or in-app purchases, and more &lpar;Gene Park/Washington Post&rpar;](http://www.techmeme.com/240627/p10#a240627p10)
- - [Aging Might Not Be Inevitable](https://www.wired.com/story/aging-might-not-be-inevitable-wired-health-venki-ramakrishnan/)
- - [Travelers, Rejoice: Google Translate Adds 110 New Languages, Thanks to AI](https://www.cnet.com/tech/mobile/travelers-rejoice-google-translate-adds-110-new-languages-thanks-to-ai/#ftag=CAD590a51e)
- - [Google Translate is getting support for more than 110 new languages](https://www.theverge.com/2024/6/27/24186223/google-translate-110-new-languages)<!-- TECH:END -->
+ - [Traveling for the Fourth of July? Save Money by Borrowing an AirTag](https://www.cnet.com/tech/mobile/traveling-for-the-fourth-of-july-save-money-by-borrowing-an-airtag/#ftag=CAD590a51e)
+ - [Xbox Game Pass: Play My Time at Sandrock, FC 24 and More Now](https://www.cnet.com/tech/gaming/xbox-game-pass-play-my-time-at-sandrock-fc-24-and-more-now/#ftag=CAD590a51e)
+ - [‘SimCity’ Isn’t a Model of Reality. It’s a Libertarian Toy Land](https://www.wired.com/story/simcity-libertarian-toy-land/)
+ - [Uber will pay you $1,000 to ditch your car for five weeks](https://www.theverge.com/2024/6/27/24186713/uber-ditch-car-challenge-cities-rules)
+ - [Google adds support for 110 new languages in Translate, up from 133 languages before this update, its largest expansion ever, aided by the company&#39;s PaLM 2 LLM &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240627/p12#a240627p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

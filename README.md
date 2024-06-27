@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netherlands-based Innatera Nanosystems, which unveiled an energy-efficient AI chip for sensor-edge applications in January, raised a $21M Series A &lpar;Paul Gillin/SiliconANGLE&rpar;](http://www.techmeme.com/240627/p23#a240627p23)
  - [Forget folding screens, Apple is working on stretchable ones](https://appleinsider.com/articles/24/06/27/forget-folding-screens-apple-is-working-on-stretchable-ones?utm_medium=rss)
  - [Google Cloud announces deals, including with Moody&#39;s, Thomson Reuters, and ZoomInfo, to &quot;ground&quot; responses from its enterprise AI chatbots in real-world facts &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/240627/p22#a240627p22)
- - [The rise of shadow lobbying and its influence on decades of US policy](https://www.theverge.com/24187255/wolves-of-k-street-brody-mullins-lobbying-us-policy-politics-decoder-podcast)
- - [Xbox Cloud Gaming is coming to Amazon’s Fire TV Sticks in July](https://www.theverge.com/2024/6/27/24187164/xbox-cloud-gaming-tv-app-fire-tv-stick-amazon-launch)
- - [How one of the biggest political TikTokers actually makes a living](https://www.theverge.com/24186494/under-the-desk-news-tiktok-full-frame-creators)<!-- TECH:END -->
+ - [Tiptop Helps You Trade In Your Old Stuff to Pay for New Stuff](https://www.wired.com/story/tiptop-trade-in-service-for-online-shopping/)
+ - [The rise of shadow lobbying and its influence on decades of US policy](https://www.theverge.com/24187255/wolves-of-k-street-brody-mullins-lobbying-us-policy-politics-decoder-podcast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

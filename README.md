@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Atlanta Dog fights 13 coyotes attacking his sheep. Kills 8 on the spot. Goes missing 4 days. Comes home after killing the remaining 5.](http://9gag.com/gag/a87jNBO)
- - 😝 [9gagger](http://9gag.com/gag/apRBjdW)
- - 💣 [Nice cop](http://9gag.com/gag/ajPn3w0)
- - 😝 [Hippo eats a Coconut](http://9gag.com/gag/apRBX25)
- - 👉 [You just can&#39;t make this up](http://9gag.com/gag/aVvX9DO)<!-- MEMES:END -->
+ - 😝 [Football team scores without touching the ball](http://9gag.com/gag/a0eYD7q)
+ - 😝 [Judged by color](http://9gag.com/gag/ayNnAy8)
+ - 💣 [No more butt hurt](http://9gag.com/gag/a6ZLeeA)
+ - 😝 [You just can&#39;t make this up](http://9gag.com/gag/aVvX9DO)
+ - 👉 [Wow](http://9gag.com/gag/an7B0LB)<!-- MEMES:END -->
 
 ---
 

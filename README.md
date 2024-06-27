@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Progress Software discloses a critical vulnerability in the MOVEit SFTP module; hackers exploited a similar flaw in MOVEit last year to breach ~1,800 networks &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240627/p1#a240627p1)
  - [A look at the pro-crypto Fairshake super PAC, which raised $169M from Coinbase, Ripple, a16z, and more, and has backed 20+ US congressional primary wins in 2024 &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/240626/p50#a240626p50)
  - [Today&#39;s NYT Connections Hints, Answers and Help for June 27, #382](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-27-382/#ftag=CAD590a51e)
  - [Today&#39;s NYT Strands Hints, Answers and Help for June 27, #116](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-27-116/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for June 27, #1104](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-june-27-1104/#ftag=CAD590a51e)
- - [Many key apps are now native for Windows on Arm, like Photoshop, Dropbox, Zoom, Chrome, and Spotify; Prism emulation is good but struggles with heavyweight apps &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240626/p49#a240626p49)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for June 27, #1104](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-june-27-1104/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

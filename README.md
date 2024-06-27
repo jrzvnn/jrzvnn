@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US AT&amp;T, Verizon, T-Mobile users overseas hit by major outage](https://appleinsider.com/articles/24/06/27/us-att-verizon-t-mobile-users-overseas-hit-by-major-outage?utm_medium=rss)
+ - [Odaseva, which provides data protection services for large Salesforce customers, raised a $54M Series C, bringing its total funding to $90M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240627/p16#a240627p16)
  - [Is Dr. Phil a Bigger Political Stage for Candidates Than CNN?](https://www.wired.com/story/dr-phil-cnn-presidential-debates/)
  - [Citizen Lab: Microsoft censors its Bing translation service more extensively in China than its competitors like Baidu Translate and Tencent Machine Translation &lpar;Joanna Chiu/Rest of World&rpar;](http://www.techmeme.com/240627/p15#a240627p15)
- - [Best Internet Providers in Arkansas](https://www.cnet.com/home/internet/best-internet-providers-in-arkansas/#ftag=CAD590a51e)
- - [YouTube is trying to make AI music deals with major record labels](https://www.theverge.com/2024/6/27/24187151/youtube-ai-music-deals-licensing-record-labels-sony-umg-warner)
- - [Meta&#39;s Oversight Board says it issued 53 decisions in 2023 and that Meta has fully or partially implemented 75 out of 266 recommendations since January 2021 &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/240627/p14#a240627p14)<!-- TECH:END -->
+ - [Best Internet Providers in Arkansas](https://www.cnet.com/home/internet/best-internet-providers-in-arkansas/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

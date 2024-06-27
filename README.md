@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SoftBank announces AI healthcare joint venture SB TEMPUS with Tempus AI, which recently listed on Nasdaq; Softbank invested ~$200M in Tempus&#39; Series G in April &lpar;Anton Bridge/Reuters&rpar;](http://www.techmeme.com/240627/p13#a240627p13)
  - [Traveling for the Fourth of July? Save Money by Borrowing an AirTag](https://www.cnet.com/tech/mobile/traveling-for-the-fourth-of-july-save-money-by-borrowing-an-airtag/#ftag=CAD590a51e)
  - [Xbox Game Pass: Play My Time at Sandrock, FC 24 and More Now](https://www.cnet.com/tech/gaming/xbox-game-pass-play-my-time-at-sandrock-fc-24-and-more-now/#ftag=CAD590a51e)
  - [‘SimCity’ Isn’t a Model of Reality. It’s a Libertarian Toy Land](https://www.wired.com/story/simcity-libertarian-toy-land/)
- - [Uber will pay you $1,000 to ditch your car for five weeks](https://www.theverge.com/2024/6/27/24186713/uber-ditch-car-challenge-cities-rules)
- - [Google adds support for 110 new languages in Translate, up from 133 languages before this update, its largest expansion ever, aided by the company&#39;s PaLM 2 LLM &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240627/p12#a240627p12)<!-- TECH:END -->
+ - [Uber will pay you $1,000 to ditch your car for five weeks](https://www.theverge.com/2024/6/27/24186713/uber-ditch-car-challenge-cities-rules)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

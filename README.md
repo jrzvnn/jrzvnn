@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sunday Ticket jury orders NFL to pay fans $4.7 billion in damages](https://www.theverge.com/2024/6/27/24187708/nfl-sunday-ticket-class-action-antitrust-lawsuit-verdict-damages)
  - [Naver-owned Webtoon shares closed up 9.5% at $23 in the online comics company&#39;s Nasdaq debut, giving it a market value of ~$2.9B, after an IPO that raised $315M &lpar;Bloomberg&rpar;](http://www.techmeme.com/240627/p37#a240627p37)
+ - [Amazon Is Investigating Perplexity Over Claims of Scraping Abuse](https://www.wired.com/story/aws-perplexity-bot-scraping-investigation/)
  - [Uber and Lyft agree to pay drivers in Massachusetts a minimum wage and give them some benefits, and pay a combined $175M to the state to settle a 2020 lawsuit &lpar;Chris Lisinski/State House News Service&rpar;](http://www.techmeme.com/240627/p36#a240627p36)
- - [The New York Times’ excellent word search game is now in its Games app](https://www.theverge.com/2024/6/27/24187656/new-york-times-strands-word-search-games-app)
- - [Meta releases LLM Compiler, a family of models built on Code Llama specifically designed for code optimization tasks, available with 7B and 13B parameters &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240627/p35#a240627p35)
- - [Microsoft&#39;s New Copilot Plus PCs Are Here to Supercharge Your Creativity](https://www.cnet.com/paid-content/news/microsofts-new-copilot-plus-pcs-are-here-to-supercharge-your-creativity/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Apple Watch Ultra 2 and Ultra Deals: Save With Direct Discounts, Trade-Ins and More](https://www.cnet.com/deals/best-apple-watch-ultra-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

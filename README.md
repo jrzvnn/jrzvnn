@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Texas lady is not amused](http://9gag.com/gag/a2vqpVE)
- - 😝 [Judged by color](http://9gag.com/gag/ayNnAy8)
- - 💣 [Bro missed](http://9gag.com/gag/avyLqm5)
- - 😝 [When a 9gagger occasionally leaves his home.](http://9gag.com/gag/aLnBovM)
- - 👉 [Footage of the Roman Empire using Midjourney and the Luma Dream Machine](http://9gag.com/gag/aByr5q2)<!-- MEMES:END -->
+ - 😝 [Holy shit I thought for sure you were all exaggerating](http://9gag.com/gag/an7B05o)
+ - 😝 [Just wanted to share some life hack for summer](http://9gag.com/gag/a6ZLe9N)
+ - 💣 [Texas lady is not amused](http://9gag.com/gag/a2vqpVE)
+ - 😝 [Truly a beautiful human inside and out...we can learn from her](http://9gag.com/gag/a34Le6Q)
+ - 👉 [Absolutely shameless](http://9gag.com/gag/a6ZL68b)<!-- MEMES:END -->
 
 ---
 

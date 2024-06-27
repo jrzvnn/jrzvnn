@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Make Europe European Again!](http://9gag.com/gag/a87j97Z)
- - 😝 [He did it](http://9gag.com/gag/aByrMxA)
- - 💣 [When supervisor doesn&#39;t show up to work for a day](http://9gag.com/gag/apRBwKb)
- - 😝 [I\u2019m sure most people will think this is a scam, or weird, or whatever. But if anyone is feeling depressed please contact me. I\u2019m happy to chit-chat about any issues and offer advice. I\u2019m old now. Will delete if this gets a shit ton of trolls.](http://9gag.com/gag/a4PL8jm)
- - 👉 [AM I RIGHT ?](http://9gag.com/gag/axyGKmL)<!-- MEMES:END -->
+ - 😝 [Atlanta Dog fights 13 coyotes attacking his sheep. Kills 8 on the spot. Goes missing 4 days. Comes home after killing the remaining 5.](http://9gag.com/gag/a87jNBO)
+ - 😝 [9gagger](http://9gag.com/gag/apRBjdW)
+ - 💣 [Nice cop](http://9gag.com/gag/ajPn3w0)
+ - 😝 [Hippo eats a Coconut](http://9gag.com/gag/apRBX25)
+ - 👉 [You just can&#39;t make this up](http://9gag.com/gag/aVvX9DO)<!-- MEMES:END -->
 
 ---
 

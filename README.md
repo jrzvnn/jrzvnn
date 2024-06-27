@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon’s latest Fire TV Cube is $79.99 for a refurbished model](https://www.theverge.com/2024/6/27/24187249/amazon-fire-tv-cube-third-gen-refurbished-deal-sale)
  - [Character.AI now lets users talk to AI characters over calls in multiple languages, including English and Chinese, says 3M users made 20M+ calls during testing &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240627/p26#a240627p26)
- - [The Mystery Ranch Coulee 30 is Everything You Need in Day Pack](https://www.wired.com/review/mystery-ranch-coulee-30/)
- - [Save Up to $800 With Purple&#39;s Hot Fourth of July Sale](https://www.cnet.com/deals/purple-4th-of-july-2024/#ftag=CAD590a51e)
  - [These smart binoculars can identify thousands of stars and over a million landmarks](https://www.theverge.com/2024/6/27/24187221/unistellar-smart-binoculars-augmented-reality)
- - [Clay, which develops AI tools focused on sales and marketing for businesses, raised $46M at a $500M valuation, bringing its total funding to $66M &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240627/p25#a240627p25)<!-- TECH:END -->
+ - [Clay, which develops AI tools focused on sales and marketing for businesses, raised $46M at a $500M valuation, bringing its total funding to $66M &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240627/p25#a240627p25)
+ - [SCOTUS pauses EPA plan to keep smog from drifting across state lines](https://www.theverge.com/2024/6/27/24186454/ohio-v-epa-nox-good-neighbor-plan-smog-pollution-stay)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

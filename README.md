@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [No more butt hurt](http://9gag.com/gag/a6ZLeeA)
  - 😝 [This Italian girl&#39;s name is Desir\u00e9e Mariottini. Desir\u00e9e was 16 years old. One night, she missed the bus on her way home. She didn&#39;t have money to take a taxi and had to walk. On the way back, 4 Senegalese immigrants attacked Desir\u00e9e and took her to a ruined house.](http://9gag.com/gag/ajPnGmq)
- - 😝 [Judge giving justice](http://9gag.com/gag/aRBV8eG)
- - 💣 [Holy shit I thought for sure you were all exaggerating](http://9gag.com/gag/an7B05o)
- - 😝 [The highest court in Israel decided these guys have to go into military service from now on.](http://9gag.com/gag/aW4ONXd)
- - 👉 [Master with severe depression, PhD with slight burnout. But I got it!](http://9gag.com/gag/azxVv7m)<!-- MEMES:END -->
+ - 💣 [You just can&#39;t make this up](http://9gag.com/gag/aVvX9DO)
+ - 😝 [Holy shit I thought for sure you were all exaggerating](http://9gag.com/gag/an7B05o)
+ - 👉 [The Dangers in Their Lust](http://9gag.com/gag/adBp42M)<!-- MEMES:END -->
 
 ---
 

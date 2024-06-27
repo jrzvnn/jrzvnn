@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You just can&#39;t make this up](http://9gag.com/gag/aVvX9DO)
- - 😝 [Just wanted to share some life hack for summer](http://9gag.com/gag/a6ZLe9N)
- - 💣 [No more butt hurt](http://9gag.com/gag/a6ZLeeA)
- - 😝 [Lisa gets it](http://9gag.com/gag/a7obg5e)
- - 👉 [Wow](http://9gag.com/gag/an7B0LB)<!-- MEMES:END -->
+ - 😝 [Judged by color](http://9gag.com/gag/ayNnAy8)
+ - 😝 [Bro missed](http://9gag.com/gag/avyLqm5)
+ - 💣 [Food thief has been defeated](http://9gag.com/gag/aryRL5K)
+ - 😝 [Footage of the Roman Empire using Midjourney and the Luma Dream Machine](http://9gag.com/gag/aByr5q2)
+ - 👉 [Racoon](http://9gag.com/gag/aNDKMGv)<!-- MEMES:END -->
 
 ---
 

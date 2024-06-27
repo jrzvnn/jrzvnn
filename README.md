@@ -163,10 +163,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A look at the pro-crypto Fairshake super PAC, which raised $169M from Coinbase, Ripple, a16z, and more, and has backed 20+ US congressional primary wins in 2024 &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/240626/p50#a240626p50)
- - [Many key apps are now native for Windows on Arm, like Photoshop, Dropbox, Zoom, Chrome, and Spotify; Prism emulation is good but struggles with heavyweight apps &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240626/p49#a240626p49)
- - [New evidence suggests that Gery Shalon, mastermind of the 2014 JPMorgan hack, built a massive new fraud empire in Europe while he was cooperating with the FBI &lpar;Bloomberg&rpar;](http://www.techmeme.com/240626/p48#a240626p48)
- - [The US DOJ indicts a Russian national, who remains at large, for his alleged involvement in the WhisperGate malware attack on Ukrainian systems in January 2022 &lpar;Katie Mettler/Washington Post&rpar;](http://www.techmeme.com/240626/p47#a240626p47)
- - [Former CEO of digital pharma ad company Outcome Health is sentenced to seven and a half years in prison, after being found guilty of a ~$1B fraud in April 2023 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240626/p46#a240626p46)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for June 27, #382](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-27-382/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for June 27, #116](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-27-116/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for June 27, #1104](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-june-27-1104/#ftag=CAD590a51e)
+ - [Many key apps are now native for Windows on Arm, like Photoshop, Dropbox, Zoom, Chrome, and Spotify; Prism emulation is good but struggles with heavyweight apps &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240626/p49#a240626p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

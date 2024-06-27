@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A meeting to consider a bipartisan privacy bill just crumbled](https://www.theverge.com/2024/6/27/24187313/house-energy-commerce-committee-cancels-apra-privacy-bill-markup)
+ - [The FCC wants to make it easier to unlock cellphones](https://www.theverge.com/2024/6/27/24187651/fcc-cell-phone-unlock-rules-60-days)
  - [Perplexity’s grand theft AI](https://www.theverge.com/2024/6/27/24187405/perplexity-ai-twitter-lie-plagiarism)
  - [ACLU challenges Section 702 surveillance in neo-Nazi’s prosecution](https://www.theverge.com/2024/6/27/24187555/aclu-section-702-surveillance-brandon-russell-atomwaffen-baltimore)
- - [All the tech news from the 2024 election](https://www.theverge.com/24187615/2024-us-election-biden-trump-president)
- - [The Hyundai Inster is a cool, small EV — so of course it’s not coming to the US](https://www.theverge.com/2024/6/27/24187409/hyundai-inster-small-ev-compact-price-specs-us)
- - [More YouTube Premium plans are coming](https://www.theverge.com/2024/6/27/24187590/youtube-premium-subscription-more-plans)<!-- TECH:END -->
+ - [All the tech news from the 2024 election](https://www.theverge.com/24187615/2024-us-election-biden-trump-president)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

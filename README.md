@@ -173,8 +173,8 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Judged by color](http://9gag.com/gag/ayNnAy8)
  - 😝 [Bro missed](http://9gag.com/gag/avyLqm5)
- - 💣 [Food thief has been defeated](http://9gag.com/gag/aryRL5K)
- - 😝 [Footage of the Roman Empire using Midjourney and the Luma Dream Machine](http://9gag.com/gag/aByr5q2)
+ - 💣 [Footage of the Roman Empire using Midjourney and the Luma Dream Machine](http://9gag.com/gag/aByr5q2)
+ - 😝 [Food thief has been defeated](http://9gag.com/gag/aryRL5K)
  - 👉 [Racoon](http://9gag.com/gag/aNDKMGv)<!-- MEMES:END -->
 
 ---

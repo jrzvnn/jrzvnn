@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In an interview, Mark Zuckerberg says there will not be &quot;just one AI&quot;, disparages closed-source AI competitors as trying to &quot;create God&quot;, and more &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240627/p34#a240627p34)
  - [Instagram is starting to let some creators make AI versions of themselves](https://www.theverge.com/2024/6/27/24187502/instagram-ai-studio-versions-chatbot)
  - [OpenAI details CriticGPT, a model based on GPT-4 to catch errors in ChatGPT&#39;s code output, assisting human trainers in assessing and spotting errors &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/240627/p33#a240627p33)
  - [TP-Link’s first Wi-Fi 7 gaming router costs $600](https://www.theverge.com/2024/6/27/24187362/tp-link-router-wifi-7-ge800-be19000-gaming)
- - [10 Tips to Sleep Cool This Summer Even Without AC](https://www.cnet.com/health/sleep/10-tips-to-sleep-cool-this-summer-even-without-ac/#ftag=CAD590a51e)
- - [Beautyrest Mattress Review: Testing Premium Beds From a Top-Rated Industry Veteran](https://www.cnet.com/health/sleep/beautyrest-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [10 Tips to Sleep Cool This Summer Even Without AC](https://www.cnet.com/health/sleep/10-tips-to-sleep-cool-this-summer-even-without-ac/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

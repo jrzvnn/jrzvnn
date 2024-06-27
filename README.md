@@ -171,10 +171,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Holy shit I thought for sure you were all exaggerating](http://9gag.com/gag/an7B05o)
- - 😝 [Just wanted to share some life hack for summer](http://9gag.com/gag/a6ZLe9N)
- - 💣 [Texas lady is not amused](http://9gag.com/gag/a2vqpVE)
- - 😝 [Truly a beautiful human inside and out...we can learn from her](http://9gag.com/gag/a34Le6Q)
+ - 😝 [Mum got his back and is smart.](http://9gag.com/gag/aXPX1ev)
+ - 😝 [You just can&#39;t make this up](http://9gag.com/gag/aVvX9DO)
+ - 💣 [Here you go, a longer version from the Hawk Tuah girl &lpar;Hailey welch&rpar;](http://9gag.com/gag/aQznKjd)
+ - 😝 [Texas lady is not amused](http://9gag.com/gag/a2vqpVE)
  - 👉 [Absolutely shameless](http://9gag.com/gag/a6ZL68b)<!-- MEMES:END -->
 
 ---

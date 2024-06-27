@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta starts testing user-created AI chatbots on Instagram in the US; Zuckerberg says the chatbots, made using Meta AI studio, will be clearly labeled as AI &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240627/p30#a240627p30)
+ - [Apple wants to help you open real-world locks just by looking at them](https://appleinsider.com/articles/24/06/27/apple-wants-to-help-you-open-real-world-locks-just-by-looking-at-them?utm_medium=rss)
  - [Axelera, which is building AI processing units to run computer vision inference workloads on the edge, raised a $68M Series B, taking its total funding to $120M &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/240627/p29#a240627p29)
  - [Best Buy takes on Prime Day with its Member Deals Days sale that starts now](https://appleinsider.com/articles/24/06/27/best-buy-takes-on-prime-day-with-its-member-deals-days-sale-that-starts-now?utm_medium=rss)
- - [Google says Gemma 2 will be available to researchers and developers through Vertex AI starting next month, including with a new 9B-parameter model &lpar;Ken Yeung/VentureBeat&rpar;](http://www.techmeme.com/240627/p28#a240627p28)
- - [As tech companies grapple with the limited availability of Nvidia chips globally, Chinese companies like Alibaba face a tougher situation due to US restrictions &lpar;The Information&rpar;](http://www.techmeme.com/240627/p27#a240627p27)
- - [Deepfakes Are Evolving. This Company Wants to Catch Them All](https://www.wired.com/story/deepfake-detection-get-real-labs/)<!-- TECH:END -->
+ - [Google says Gemma 2 will be available to researchers and developers through Vertex AI from July, as a new 9B-parameter model and the prior 27B-parameter model &lpar;Ken Yeung/VentureBeat&rpar;](http://www.techmeme.com/240627/p28#a240627p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

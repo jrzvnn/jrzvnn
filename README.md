@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 21 Best Movies on Apple TV+ Right Now &lpar;July 2024&rpar;](https://www.wired.com/story/best-apple-tv-plus-movies/)
- - [In an interview, Mark Zuckerberg says there will not be &quot;just one AI&quot;, disparages closed-source AI competitors as trying to &quot;create God&quot;, and more &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240627/p34#a240627p34)
- - [Instagram is starting to let some creators make AI versions of themselves](https://www.theverge.com/2024/6/27/24187502/instagram-ai-studio-versions-chatbot)
- - [Why Streaming Services Keep Screwing Up Binge-Watching](https://www.wired.com/story/streaming-services-keep-screwing-up-binge-watching/)
- - [OpenAI details CriticGPT, a model based on GPT-4 to catch errors in ChatGPT&#39;s code output, assisting human trainers in assessing and spotting errors &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/240627/p33#a240627p33)<!-- TECH:END -->
+ - [Google touts ‘enterprise-ready’ AI with more facts and less make-believe](https://www.theverge.com/2024/6/27/24187534/google-vertex-ai-developer-search-features-third-party-data)
+ - [You Can Estimate Your Monthly Social Security Benefit Amount With This Online Tool](https://www.cnet.com/personal-finance/you-can-estimate-your-monthly-social-security-benefit-amount-with-this-online-tool/#ftag=CAD590a51e)
+ - [Copa America 2024 Soccer: Livestream Panama vs. United States From Anywhere](https://www.cnet.com/tech/services-and-software/copa-america-2024-soccer-livestream-venezuela-vs-mexico-from-anywhere/#ftag=CAD590a51e)
+ - [This Ancient Home Hack Could Be Your Best Answer for Porch Pirates](https://www.cnet.com/home/security/this-ancient-home-hack-could-be-your-best-answer-for-porch-pirates/#ftag=CAD590a51e)
+ - [Hulu Plus Live TV Review: For Cord-Cutters Who Enjoy Premium Channels With Perks](https://www.cnet.com/tech/services-and-software/hulu-plus-live-tv-review-for-cord-cutters-who-enjoy-premium-channels-perks/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

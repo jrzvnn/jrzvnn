@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro missed](http://9gag.com/gag/avyLqm5)
- - 😝 [Worth a Try](http://9gag.com/gag/aYQw0g7)
- - 💣 [This man&#39;s a legend](http://9gag.com/gag/apRBMG8)
- - 😝 [Texas lady is not amused](http://9gag.com/gag/a2vqpVE)
- - 👉 [Footage of the Roman Empire using Midjourney and the Luma Dream Machine](http://9gag.com/gag/aByr5q2)<!-- MEMES:END -->
+ - 😝 [Lisa gets it](http://9gag.com/gag/a7obg5e)
+ - 😝 [I\u2019m sure most people will think this is a scam, or weird, or whatever. But if anyone is feeling depressed please contact me. I\u2019m happy to chit-chat about any issues and offer advice. I\u2019m old now. Will delete if this gets a shit ton of trolls.](http://9gag.com/gag/a4PL8jm)
+ - 💣 [Wow](http://9gag.com/gag/an7B0LB)
+ - 😝 [Where are this kind of teachers when im in school??](http://9gag.com/gag/a87jgDd)
+ - 👉 [London situation](http://9gag.com/gag/aRBVp5A)<!-- MEMES:END -->
 
 ---
 

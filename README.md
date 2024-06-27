@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New evidence suggests that Gery Shalon, mastermind of the 2014 JPMorgan hack, built a massive new fraud empire in Europe while he was cooperating with the FBI &lpar;Bloomberg&rpar;](http://www.techmeme.com/240626/p48#a240626p48)
  - [The US DOJ indicts a Russian national, who remains at large, for his alleged involvement in the WhisperGate malware attack on Ukrainian systems in January 2022 &lpar;Katie Mettler/Washington Post&rpar;](http://www.techmeme.com/240626/p47#a240626p47)
  - [Former CEO of digital pharma ad company Outcome Health is sentenced to seven and a half years in prison, after being found guilty of a ~$1B fraud in April 2023 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240626/p46#a240626p46)
  - [Best Blood Pressure Monitors to Consider in 2024](https://www.cnet.com/health/medical/best-blood-pressure-monitor/#ftag=CAD590a51e)
- - [Best Solar Panel Installation Companies in Vermont](https://www.cnet.com/home/energy-and-utilities/vermont-solar-panels/#ftag=CAD590a51e)
- - [Best Portable Mini Bluetooth Speakers for 2024: Top Compact Waterproof Wireless Speakers](https://www.cnet.com/tech/home-entertainment/best-portable-mini-bluetooth-speaker/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Solar Panel Installation Companies in Vermont](https://www.cnet.com/home/energy-and-utilities/vermont-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

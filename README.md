@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My All Time Favorite Krazy Karen](http://9gag.com/gag/aD2mq39)
- - 😝 [Holy shit I thought for sure you were all exaggerating](http://9gag.com/gag/an7B05o)
- - 💣 [I\u2019m sure most people will think this is a scam, or weird, or whatever. But if anyone is feeling depressed please contact me. I\u2019m happy to chit-chat about any issues and offer advice. I\u2019m old now. Will delete if this gets a shit ton of trolls.](http://9gag.com/gag/a4PL8jm)
- - 😝 [Lisa gets it](http://9gag.com/gag/a7obg5e)
- - 👉 [Oh look, a rope](http://9gag.com/gag/aRBVWYM)<!-- MEMES:END -->
+ - 😝 [No more butt hurt](http://9gag.com/gag/a6ZLeeA)
+ - 😝 [I apologise ma&#39;am or sir.](http://9gag.com/gag/avyLBjq)
+ - 💣 [Wow](http://9gag.com/gag/an7B0LB)
+ - 😝 [Where are this kind of teachers when im in school??](http://9gag.com/gag/a87jgDd)
+ - 👉 [Here you go, a longer version from the Hawk Tuah girl &lpar;Hailey welch&rpar;](http://9gag.com/gag/aQznKjd)<!-- MEMES:END -->
 
 ---
 

@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Coinbase files two lawsuits against the US SEC and the FDIC for not complying with FOIA requests; one FOIA request to the SEC concerns its views on ether &lpar;Sarah Wynn/The Block&rpar;](http://www.techmeme.com/240627/p20#a240627p20)
  - [How to watch Biden vs. Trump in the first 2024 presidential debate](https://www.theverge.com/2024/6/27/24186831/presidential-debate-watch-start-time-biden-trump)
  - [PortSwigger, the company behind the Burp Suite of security testing tools founded by security expert &quot;Daf&quot;, raised $112M, its first outside investment &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/240627/p19#a240627p19)
  - [Bitcoin falls after a wallet tagged to the US government moved ~3,940 BTC, worth ~$240M and originally seized from a Silk Road vendor, to Coinbase Prime &lpar;Aoyon Ashraf/CoinDesk&rpar;](http://www.techmeme.com/240627/p18#a240627p18)
- - [A New &#39;Trustmark&#39; Could Show Music Uses AI Responsibly](https://www.cnet.com/tech/services-and-software/a-new-trustmark-could-show-music-uses-ai-responsibly/#ftag=CAD590a51e)
- - [Crunchyroll Game Vault Is More Than Doubling Its Size Soon](https://www.cnet.com/tech/gaming/crunchyroll-game-vault-is-more-than-doubling-its-size-soon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A New &#39;Trustmark&#39; Could Show Music Uses AI Responsibly](https://www.cnet.com/tech/services-and-software/a-new-trustmark-could-show-music-uses-ai-responsibly/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

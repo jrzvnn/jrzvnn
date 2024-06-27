@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just wanted to share some life hack for summer](http://9gag.com/gag/a6ZLe9N)
+ - 😝 [I mean, Who wouldn&#39;t take the cookies?](http://9gag.com/gag/a4PLye6)
+ - 😝 [Truly a beautiful human inside and out...we can learn from her](http://9gag.com/gag/a34Le6Q)
+ - 💣 [Football team scores without touching the ball](http://9gag.com/gag/a0eYD7q)
  - 😝 [Holy shit I thought for sure you were all exaggerating](http://9gag.com/gag/an7B05o)
- - 💣 [I mean, Who wouldn&#39;t take the cookies?](http://9gag.com/gag/a4PLye6)
- - 😝 [Gyms in 2024](http://9gag.com/gag/aryRwZV)
- - 👉 [Judge giving justice](http://9gag.com/gag/aRBV8eG)<!-- MEMES:END -->
+ - 👉 [I wish I were half the man HE is\u2026.](http://9gag.com/gag/amo8Zz2)<!-- MEMES:END -->
 
 ---
 

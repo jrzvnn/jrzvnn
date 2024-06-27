@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with Netflix&#39;s VP of external games Leanne Loombe on its push into gaming, focusing on narrative games without ads or in-app purchases, and more &lpar;Gene Park/Washington Post&rpar;](http://www.techmeme.com/240627/p10#a240627p10)
  - [Aging Might Not Be Inevitable](https://www.wired.com/story/aging-might-not-be-inevitable-wired-health-venki-ramakrishnan/)
  - [Travelers, Rejoice: Google Translate Adds 110 New Languages, Thanks to AI](https://www.cnet.com/tech/mobile/travelers-rejoice-google-translate-adds-110-new-languages-thanks-to-ai/#ftag=CAD590a51e)
  - [Google Translate is getting support for more than 110 new languages](https://www.theverge.com/2024/6/27/24186223/google-translate-110-new-languages)
- - [Blancpain Fifty Fathoms Bathyscaphe Quantieme Complet Phase de Lune: price, specs, availability](https://www.wired.com/story/blancpain-fifty-fathoms-bathyscaphe-quantieme-complet-phase-de-lune-ceramic-bracelet/)
- - [Telegram, used by half of Russia&#39;s 140M residents, has become a refuge for LGBTQ+ citizens, who routinely create new channels to avoid government surveillance &lpar;Sassafras Lowrey/Wired&rpar;](http://www.techmeme.com/240627/p9#a240627p9)<!-- TECH:END -->
+ - [Blancpain Fifty Fathoms Bathyscaphe Quantieme Complet Phase de Lune: price, specs, availability](https://www.wired.com/story/blancpain-fifty-fathoms-bathyscaphe-quantieme-complet-phase-de-lune-ceramic-bracelet/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

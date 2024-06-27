@@ -165,8 +165,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Valve reveals the most-played Steam Deck games](https://www.theverge.com/2024/6/27/24187519/valve-steam-deck-top-100-games-chart)
  - [Samsung’s next smartwatches and earbuds fully revealed in new leak](https://www.theverge.com/2024/6/27/24187522/samsung-galaxy-watch-7-ultra-buds-3-pro-official-leak)
  - [Google touts ‘enterprise-ready’ AI with more facts and less make-believe](https://www.theverge.com/2024/6/27/24187534/google-vertex-ai-developer-search-features-third-party-data)
- - [You Can Estimate Your Monthly Social Security Benefit Amount With This Online Tool](https://www.cnet.com/personal-finance/you-can-estimate-your-monthly-social-security-benefit-amount-with-this-online-tool/#ftag=CAD590a51e)
- - [Copa America 2024 Soccer: Livestream Panama vs. United States From Anywhere](https://www.cnet.com/tech/services-and-software/copa-america-2024-soccer-livestream-venezuela-vs-mexico-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 21 Best Movies on Apple TV+ Right Now &lpar;July 2024&rpar;](https://www.wired.com/story/best-apple-tv-plus-movies/)
+ - [In an interview, Mark Zuckerberg says there will not be &quot;just one AI&quot;, disparages closed-source AI competitors as trying to &quot;create God&quot;, and more &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240627/p34#a240627p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Judged by color](http://9gag.com/gag/ayNnAy8)
  - 😝 [Bro missed](http://9gag.com/gag/avyLqm5)
- - 💣 [Footage of the Roman Empire using Midjourney and the Luma Dream Machine](http://9gag.com/gag/aByr5q2)
- - 😝 [Food thief has been defeated](http://9gag.com/gag/aryRL5K)
- - 👉 [Racoon](http://9gag.com/gag/aNDKMGv)<!-- MEMES:END -->
+ - 😝 [Worth a Try](http://9gag.com/gag/aYQw0g7)
+ - 💣 [This man&#39;s a legend](http://9gag.com/gag/apRBMG8)
+ - 😝 [Texas lady is not amused](http://9gag.com/gag/a2vqpVE)
+ - 👉 [Footage of the Roman Empire using Midjourney and the Luma Dream Machine](http://9gag.com/gag/aByr5q2)<!-- MEMES:END -->
 
 ---
 

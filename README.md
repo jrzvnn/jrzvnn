@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Perplexity’s grand theft AI](https://www.theverge.com/2024/6/27/24187405/perplexity-ai-twitter-lie-plagiarism)
+ - [ACLU challenges Section 702 surveillance in neo-Nazi’s prosecution](https://www.theverge.com/2024/6/27/24187555/aclu-section-702-surveillance-brandon-russell-atomwaffen-baltimore)
+ - [All the tech news from the 2024 election](https://www.theverge.com/24187615/2024-us-election-biden-trump-president)
  - [The Hyundai Inster is a cool, small EV — so of course it’s not coming to the US](https://www.theverge.com/2024/6/27/24187409/hyundai-inster-small-ev-compact-price-specs-us)
- - [More YouTube Premium plans are coming](https://www.theverge.com/2024/6/27/24187590/youtube-premium-subscription-more-plans)
- - [The best Prime Day deals you can already get](https://www.theverge.com/24186583/amazon-prime-day-2024-best-tech-deals-sales)
- - [There are drastic steps to take, if your tattoo is hampering your Apple Watch](https://appleinsider.com/articles/24/06/27/there-are-drastic-steps-to-take-if-your-tattoo-is-hampering-your-apple-watch?utm_medium=rss)
- - [Valve reveals the most-played Steam Deck games](https://www.theverge.com/2024/6/27/24187519/valve-steam-deck-top-100-games-chart)<!-- TECH:END -->
+ - [More YouTube Premium plans are coming](https://www.theverge.com/2024/6/27/24187590/youtube-premium-subscription-more-plans)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

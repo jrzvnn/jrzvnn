@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Atlanta Dog fights 13 coyotes attacking his sheep. Kills 8 on the spot. Goes missing 4 days. Comes home after killing the remaining 5.](http://9gag.com/gag/a87jNBO)
- - 😝 [I mean, Who wouldn&#39;t take the cookies?](http://9gag.com/gag/a4PLye6)
- - 💣 [I\u2019m sure most people will think this is a scam, or weird, or whatever. But if anyone is feeling depressed please contact me. I\u2019m happy to chit-chat about any issues and offer advice. I\u2019m old now. Will delete if this gets a shit ton of trolls.](http://9gag.com/gag/a4PL8jm)
- - 😝 [Wow](http://9gag.com/gag/an7B0LB)
- - 👉 [Just wanted to share some life hack for summer](http://9gag.com/gag/a6ZLe9N)<!-- MEMES:END -->
+ - 😝 [No more butt hurt](http://9gag.com/gag/a6ZLeeA)
+ - 😝 [Truly a beautiful human inside and out...we can learn from her](http://9gag.com/gag/a34Le6Q)
+ - 💣 [You just can&#39;t make this up](http://9gag.com/gag/aVvX9DO)
+ - 😝 [Oh look, a rope](http://9gag.com/gag/aRBVWYM)
+ - 👉 [Lisa gets it](http://9gag.com/gag/a7obg5e)<!-- MEMES:END -->
 
 ---
 

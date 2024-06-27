@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I\u2019m sure most people will think this is a scam, or weird, or whatever. But if anyone is feeling depressed please contact me. I\u2019m happy to chit-chat about any issues and offer advice. I\u2019m old now. Will delete if this gets a shit ton of trolls.](http://9gag.com/gag/a4PL8jm)
- - 😝 [London situation](http://9gag.com/gag/aRBVp5A)
- - 💣 [Bruh!!\ud83d\ude02](http://9gag.com/gag/aVvXyD8)
- - 😝 [Wow](http://9gag.com/gag/an7B0LB)
- - 👉 [Where are this kind of teachers when im in school??](http://9gag.com/gag/a87jgDd)<!-- MEMES:END -->
+ - 😝 [Some random store Guess the Country](http://9gag.com/gag/aQznb4r)
+ - 😝 [Hmm](http://9gag.com/gag/aAyp9xZ)
+ - 💣 [London situation](http://9gag.com/gag/aRBVp5A)
+ - 😝 [Bruh!!\ud83d\ude02](http://9gag.com/gag/aVvXyD8)
+ - 👉 [Oh look, a rope](http://9gag.com/gag/aRBVWYM)<!-- MEMES:END -->
 
 ---
 

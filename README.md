@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh look, a rope](http://9gag.com/gag/aRBVWYM)
- - 😝 [I\u2019m sure most people will think this is a scam, or weird, or whatever. But if anyone is feeling depressed please contact me. I\u2019m happy to chit-chat about any issues and offer advice. I\u2019m old now. Will delete if this gets a shit ton of trolls.](http://9gag.com/gag/a4PL8jm)
- - 💣 [We do](http://9gag.com/gag/a1mYjmY)
- - 😝 [Texas lady is not amused](http://9gag.com/gag/a2vqpVE)
- - 👉 [When supervisor doesn&#39;t show up to work for a day](http://9gag.com/gag/apRBwKb)<!-- MEMES:END -->
+ - 😝 [My All Time Favorite Krazy Karen](http://9gag.com/gag/aD2mq39)
+ - 😝 [Gyms in 2024](http://9gag.com/gag/aryRwZV)
+ - 💣 [Holy shit I thought for sure you were all exaggerating](http://9gag.com/gag/an7B05o)
+ - 😝 [Ahoy, mateys! yarrr!](http://9gag.com/gag/aByrjgP)
+ - 👉 [Master with severe depression, PhD with slight burnout. But I got it!](http://9gag.com/gag/azxVv7m)<!-- MEMES:END -->
 
 ---
 

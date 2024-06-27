@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [ICantBeliveThatWorked](http://9gag.com/gag/a4PLgw1)
- - 😝 [I mean, Who wouldn&#39;t take the cookies?](http://9gag.com/gag/a4PLye6)
- - 💣 [Just wanted to share some life hack for summer](http://9gag.com/gag/a6ZLe9N)
- - 😝 [Master with severe depression, PhD with slight burnout. But I got it!](http://9gag.com/gag/azxVv7m)
- - 👉 [You just can&#39;t make this up](http://9gag.com/gag/aVvX9DO)<!-- MEMES:END -->
+ - 😝 [Texas lady is not amused](http://9gag.com/gag/a2vqpVE)
+ - 😝 [Judged by color](http://9gag.com/gag/ayNnAy8)
+ - 💣 [Bro missed](http://9gag.com/gag/avyLqm5)
+ - 😝 [When a 9gagger occasionally leaves his home.](http://9gag.com/gag/aLnBovM)
+ - 👉 [Footage of the Roman Empire using Midjourney and the Luma Dream Machine](http://9gag.com/gag/aByr5q2)<!-- MEMES:END -->
 
 ---
 

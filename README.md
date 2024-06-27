@@ -163,10 +163,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Verizon, AT&amp;T, and T-Mobile customers roaming internationally can’t connect](https://www.theverge.com/2024/6/27/24187281/verizon-att-t-mobile-international-roaming-calling-data-outage)
- - [The Best Fire Pits to Get Your S&#39;mores On This Summer &lpar;2024&rpar;](https://www.wired.com/gallery/best-fire-pits/)
  - [Amazon’s latest Fire TV Cube is $79.99 for a refurbished model](https://www.theverge.com/2024/6/27/24187249/amazon-fire-tv-cube-third-gen-refurbished-deal-sale)
  - [Character.AI now lets users talk to AI characters over calls in multiple languages, including English and Chinese, says 3M users made 20M+ calls during testing &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240627/p26#a240627p26)
- - [The Mystery Ranch Coulee 30 is Everything You Need in Day Pack](https://www.wired.com/review/mystery-ranch-coulee-30/)<!-- TECH:END -->
+ - [The Mystery Ranch Coulee 30 is Everything You Need in Day Pack](https://www.wired.com/review/mystery-ranch-coulee-30/)
+ - [Save Up to $800 With Purple&#39;s Hot Fourth of July Sale](https://www.cnet.com/deals/purple-4th-of-july-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

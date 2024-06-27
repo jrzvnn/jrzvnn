@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My All Time Favorite Krazy Karen](http://9gag.com/gag/aD2mq39)
- - 😝 [Gyms in 2024](http://9gag.com/gag/aryRwZV)
- - 💣 [Holy shit I thought for sure you were all exaggerating](http://9gag.com/gag/an7B05o)
- - 😝 [Ahoy, mateys! yarrr!](http://9gag.com/gag/aByrjgP)
- - 👉 [Master with severe depression, PhD with slight burnout. But I got it!](http://9gag.com/gag/azxVv7m)<!-- MEMES:END -->
+ - 😝 [We do](http://9gag.com/gag/a1mYjmY)
+ - 😝 [Facts](http://9gag.com/gag/aryRwzK)
+ - 💣 [When supervisor doesn&#39;t show up to work for a day](http://9gag.com/gag/apRBwKb)
+ - 😝 [Judged by color](http://9gag.com/gag/ayNnAy8)
+ - 👉 [Texas lady is not amused](http://9gag.com/gag/a2vqpVE)<!-- MEMES:END -->
 
 ---
 

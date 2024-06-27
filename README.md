@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [KarmaCheck, which uses AI for conducting background checks and was founded by LinkedIn&#39;s Eric Ly, raised a $45M Series B, bringing total funding to $60M &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/240627/p17#a240627p17)
- - [Camera Face-Off: We Pit Smartphones From Xiaomi, Oppo, and Honor to Find a Winner](https://www.wired.com/story/xiaomi-14-ultra-honor-magic-6-pro-oppo-find-x7-ultra-camera-shootout/)
- - [Have Trouble Keeping Plants Alive? These 9 Species Are Impossible to Kill](https://www.cnet.com/news/have-trouble-keeping-plants-alive-these-9-species-are-impossible-to-kill/#ftag=CAD590a51e)
- - [Samsung&#39;s Galaxy Unpacked Summer Event: How to Watch and What to Expect](https://www.cnet.com/tech/mobile/samsungs-galaxy-unpacked-summer-event-how-to-watch-and-what-to-expect/#ftag=CAD590a51e)
- - [I&#39;ve Saved Around $650 Making My Own Foaming Hand Soap Refills &lpar;Seriously!&rpar;](https://www.cnet.com/how-to/ive-saved-around-650-making-my-own-foaming-hand-soap-refills-seriously/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A New &#39;Trustmark&#39; Could Show Music Uses AI Responsibly](https://www.cnet.com/tech/services-and-software/a-new-trustmark-could-show-music-uses-ai-responsibly/#ftag=CAD590a51e)
+ - [Crunchyroll Game Vault Is More Than Doubling Its Size Soon](https://www.cnet.com/tech/gaming/crunchyroll-game-vault-is-more-than-doubling-its-size-soon/#ftag=CAD590a51e)
+ - [One of My Favorite Pillow-Top Mattresses Is on Sale This Fourth of July](https://www.cnet.com/deals/one-of-my-favorite-pillow-top-mattresses-is-on-sale-this-fourth-of-july/#ftag=CAD590a51e)
+ - [These smart lights could solve the kitchen cabinet problem](https://www.theverge.com/2024/6/27/24186861/ge-lighting-cync-reveal-undercabinet-fixtures-smart-lights)
+ - [KarmaCheck, which uses AI for conducting background checks and was founded by LinkedIn&#39;s Eric Ly, raised a $45M Series B, bringing total funding to $60M &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/240627/p17#a240627p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

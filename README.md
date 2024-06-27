@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Instagram is starting to let some creators make AI versions of themselves](https://www.theverge.com/2024/6/27/24187502/instagram-ai-studio-versions-chatbot)
  - [OpenAI details CriticGPT, a model based on GPT-4 to catch errors in ChatGPT&#39;s code output, assisting human trainers in assessing and spotting errors &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/240627/p33#a240627p33)
  - [TP-Link’s first Wi-Fi 7 gaming router costs $600](https://www.theverge.com/2024/6/27/24187362/tp-link-router-wifi-7-ge800-be19000-gaming)
- - [Amazon folds its Amazon Clinic telehealth service into One Medical, with more affordable per-visit pricing: $49 for a video call or $29 to text a doctor &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/240627/p32#a240627p32)
- - [Pixar Put an Easter Egg for Its Next Movie in &#39;Inside Out 2.&#39; Did You Catch It?](https://www.wired.com/story/pixar-put-an-easter-egg-for-its-next-movie-in-inside-out-2/)
- - [OpenAI Wants AI to Help Humans Train AI](https://www.wired.com/story/openai-rlhf-ai-training/)<!-- TECH:END -->
+ - [10 Tips to Sleep Cool This Summer Even Without AC](https://www.cnet.com/health/sleep/10-tips-to-sleep-cool-this-summer-even-without-ac/#ftag=CAD590a51e)
+ - [Beautyrest Mattress Review: Testing Premium Beds From a Top-Rated Industry Veteran](https://www.cnet.com/health/sleep/beautyrest-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

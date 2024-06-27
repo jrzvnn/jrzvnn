@@ -171,10 +171,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Some random store Guess the Country](http://9gag.com/gag/aQznb4r)
- - 😝 [Hmm](http://9gag.com/gag/aAyp9xZ)
- - 💣 [London situation](http://9gag.com/gag/aRBVp5A)
- - 😝 [Bruh!!\ud83d\ude02](http://9gag.com/gag/aVvXyD8)
+ - 😝 [I just wanna be loved](http://9gag.com/gag/a34LD73)
+ - 😝 [Yoo..wtf](http://9gag.com/gag/agmNwqW)
+ - 💣 [Monty Python Souls](http://9gag.com/gag/a0eYgPq)
+ - 😝 [Hippo eats a Coconut](http://9gag.com/gag/apRBX25)
  - 👉 [Oh look, a rope](http://9gag.com/gag/aRBVWYM)<!-- MEMES:END -->
 
 ---

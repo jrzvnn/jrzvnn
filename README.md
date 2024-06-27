@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pixar Put an Easter Egg for Its Next Movie in &#39;Inside Out 2.&#39; Did You Catch It?](https://www.wired.com/story/pixar-put-an-easter-egg-for-its-next-movie-in-inside-out-2/)
  - [OpenAI Wants AI to Help Humans Train AI](https://www.wired.com/story/openai-rlhf-ai-training/)
  - [Glued iPhone batteries may be a thing of the past, if this new tech works out](https://appleinsider.com/articles/24/06/27/apple-gluing-down-batteries-may-be-a-thing-of-the-past-if-this-new-tech-works-out?utm_medium=rss)
- - [Best Internet Providers in Wilmington, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-wilmington-nc/#ftag=CAD590a51e)
- - [Puffy Lux Mattress Review: A Marshmallowy Mattress for Side Sleepers](https://www.cnet.com/health/sleep/puffy-lux-mattress-review/#ftag=CAD590a51e)
- - [The Steam Summer Sale Has Arrived. Here&#39;s a List of All Steam Sales](https://www.cnet.com/tech/services-and-software/when-are-steam-sales/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [MegaLabs, the developer behind the Ethereum scaling protocol MegaETH that it claims is a &quot;real-time blockchain&quot;, raised $20M in seed funding led by Dragonfly &lpar;Margaux Nijkerk/CoinDesk&rpar;](http://www.techmeme.com/240627/p31#a240627p31)
+ - [How the Developer of &#39;Among Us&#39; Is Helping Indie Studios Survive Gaming’s Current Tumult](https://www.wired.com/story/outersloth-innersloth-among-us-indie-games-survival/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good old days](http://9gag.com/gag/a9yP4MD)
- - 😝 [Spielberg Humiliates Kathleen Kennedy](http://9gag.com/gag/a6ZL4p8)
- - 💣 [Wow](http://9gag.com/gag/an7B0LB)
- - 😝 [The Dangers in Their Lust](http://9gag.com/gag/adBp42M)
- - 👉 [Master with severe depression, PhD with slight burnout. But I got it!](http://9gag.com/gag/azxVv7m)<!-- MEMES:END -->
+ - 😝 [Make Europe European Again!](http://9gag.com/gag/a87j97Z)
+ - 😝 [He did it](http://9gag.com/gag/aByrMxA)
+ - 💣 [When supervisor doesn&#39;t show up to work for a day](http://9gag.com/gag/apRBwKb)
+ - 😝 [I\u2019m sure most people will think this is a scam, or weird, or whatever. But if anyone is feeling depressed please contact me. I\u2019m happy to chit-chat about any issues and offer advice. I\u2019m old now. Will delete if this gets a shit ton of trolls.](http://9gag.com/gag/a4PL8jm)
+ - 👉 [AM I RIGHT ?](http://9gag.com/gag/axyGKmL)<!-- MEMES:END -->
 
 ---
 

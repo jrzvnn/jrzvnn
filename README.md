@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kleiner Perkins has raised more than $2B for two new funds: $825M for a fund targeting young startups and $1.2B for a later-stage fund &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240628/p15#a240628p15)
+ - [YouTube is stopping Dr Disrespect’s channel from making money](https://www.theverge.com/2024/6/28/24188157/dr-disrespect-youtube-channel-demonetization-partner-program)
  - [How to use Vehicle Motion Cues in iOS 18 to reduce motion sickness](https://appleinsider.com/inside/ios-18/tips/how-to-use-vehicle-motion-cues-in-ios-18-to-reduce-motion-sickness?utm_medium=rss)
- - [AT&amp;T Next Up Anytime lets you get three phone upgrades per year, but it’s not cheap](https://www.theverge.com/2024/6/28/24188060/att-smartphones-next-up-anytime-upgrade)
- - [The Verge’s summer ‘in’ / ‘out’ list](https://www.theverge.com/24188055/the-verge-summer-in-out-list-trends)
- - [Best MacBook Accessories We’ve Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/story/best-macbook-accessories/)
- - [Frost Bank: 2024 Home Equity Review](https://www.cnet.com/personal-finance/mortgages/frost-bank/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Your Thermostat Can Save You Money This Summer: Here&#39;s How](https://www.cnet.com/home/energy-and-utilities/your-thermostat-can-save-you-money-this-summer-heres-how/#ftag=CAD590a51e)
+ - [Don&#39;t Fall for These 10 Sneaky Banking Scams](https://www.cnet.com/personal-finance/banking/dont-fall-for-these-10-sneaky-banking-scams/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

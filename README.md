@@ -172,10 +172,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Nuff Said](http://9gag.com/gag/aVvXp8n)
- - 😝 [Lol.](http://9gag.com/gag/aGyRm8Z)
- - 💣 [Israeli Supreme Court rules that the military must begin drafting ultra-Orthodox men. First drafts are already in progress.](http://9gag.com/gag/aGyRX9G)
- - 😝 [We do](http://9gag.com/gag/a1mYjmY)
- - 👉 [Bloody Btsh](http://9gag.com/gag/aKGBoW6)<!-- MEMES:END -->
+ - 😝 [Bloody Btsh](http://9gag.com/gag/aKGBoW6)
+ - 💣 [Where are this kind of teachers when im in school??](http://9gag.com/gag/a87jgDd)
+ - 😝 [I don&#39;t think he knows what he said](http://9gag.com/gag/aZZN6jp)
+ - 👉 [Cringe but wood](http://9gag.com/gag/apRBOND)<!-- MEMES:END -->
 
 ---
 

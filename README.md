@@ -164,9 +164,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [ZeroEyes, a gun detection video analytics and alert service, raised a $53M Series B led by Sorenson Capital, and says it has ~400 clients in 42 US states &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/240628/p19#a240628p19)
  - [The 19 Best Movies on Amazon Prime Right Now &lpar;July 2024&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)
- - [Microsoft&#39;s AI CEO Mustafa Suleyman says content on the open web is &quot;freeware&quot; that anyone can copy or use to reproduce, due to the fair use &quot;social contract&quot; &lpar;Sean Endicott/Windows Central&rpar;](http://www.techmeme.com/240628/p18#a240628p18)
- - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
- - [Apple Ring: Two decades of rumors and speculation about a smart ring](https://appleinsider.com/articles/24/06/28/apple-ring-two-decades-of-rumors-and-speculation-about-a-smart-ring?utm_medium=rss)<!-- TECH:END -->
+ - [Nectar Memory Foam Mattress Review: Contouring Comfort at an Affordable Price](https://www.cnet.com/health/sleep/nectar-mattress-review/#ftag=CAD590a51e)
+ - [Best Melatonin Supplements of 2024](https://www.cnet.com/health/nutrition/best-melatonin-supplements/#ftag=CAD590a51e)
+ - [Best Internet Providers in Waterbury, Connecticut](https://www.cnet.com/home/internet/best-internet-providers-in-waterbury-ct/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

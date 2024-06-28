@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What SCOTUS just did to broadband, the right to repair, the environment, and more](https://www.theverge.com/24188365/chevron-scotus-net-neutrality-dmca-visa-fcc-ftc-epa)
  - [ZeroEyes, a gun detection video analytics and alert service, raised a $53M Series B led by Sorenson Capital, and says it has ~400 clients in 42 US states &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/240628/p19#a240628p19)
  - [The 19 Best Movies on Amazon Prime Right Now &lpar;July 2024&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)
  - [Nectar Memory Foam Mattress Review: Contouring Comfort at an Affordable Price](https://www.cnet.com/health/sleep/nectar-mattress-review/#ftag=CAD590a51e)
- - [Best Melatonin Supplements of 2024](https://www.cnet.com/health/nutrition/best-melatonin-supplements/#ftag=CAD590a51e)
- - [Best Internet Providers in Waterbury, Connecticut](https://www.cnet.com/home/internet/best-internet-providers-in-waterbury-ct/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Melatonin Supplements of 2024](https://www.cnet.com/health/nutrition/best-melatonin-supplements/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

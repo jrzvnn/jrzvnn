@@ -162,7 +162,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Surface Pro Copilot+ review: the best Microsoft tablet yet, with a versatile Flex keyboard and powerful AI features but has noticeable heat and fan noise issues &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/240628/p5#a240628p5)
+ - [Q&amp;A with VP of Amazon Games on focusing on AAA games over mobile games, transmedia IP strategy, effect of AI on the gaming industry, monetization, and more &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/240628/p5#a240628p5)
  - [An in-depth look at the development of Google DeepMind&#39;s AlphaFold, which had the biggest AI breakthrough in science by accurately predicting protein structures &lpar;Yasemin Saplakoglu/Quanta Magazine&rpar;](http://www.techmeme.com/240628/p4#a240628p4)
  - [French AI Startups Felt Unstoppable. Then Came the Election](https://www.wired.com/story/french-ai-startups-felt-unstoppable-then-came-the-election/)
  - [Tencent&#39;s shares are up 28% so far in 2024 after the strong debut of Dungeon &amp; Fighter Mobile, adding $91B in market value, more than any other Chinese company &lpar;Jeanny Yu/Bloomberg&rpar;](http://www.techmeme.com/240628/p3#a240628p3)

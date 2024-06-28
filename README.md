@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EU explores an antitrust probe into Microsoft&#39;s OpenAI partnership, after the EC dropped a merger review due to lack of evidence that Microsoft controls OpenAI &lpar;Financial Times&rpar;](http://www.techmeme.com/240628/p14#a240628p14)
  - [Steam’s Summer Sale drops games like Baldur’s Gate 3 to their best price](https://www.theverge.com/2024/6/28/24187641/steam-summer-sale-baldurs-gate-3-dave-the-diver-deal-sale)
  - [Supreme Court ruling kneecaps federal regulators](https://www.theverge.com/2024/6/28/24180118/supreme-court-chevron-deference-decision-opinion)
- - [If Betelgeuse Explodes, Just How Bright Will It Get?](https://www.wired.com/story/if-betelgeuse-explodes-how-bright-will-it-get/)
- - [Best Desks of 2024](https://www.cnet.com/news/best-desks/#ftag=CAD590a51e)
- - [Best Tower Fan for 2024](https://www.cnet.com/home/kitchen-and-household/best-tower-fan/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [MyQ Smart Garage Door Opener Review: Quiet and Fun to Use](https://www.wired.com/review/myq-smart-garage-door-opener-review/)
+ - [If Betelgeuse Explodes, Just How Bright Will It Get?](https://www.wired.com/story/if-betelgeuse-explodes-how-bright-will-it-get/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

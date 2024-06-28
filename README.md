@@ -165,8 +165,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Deadpool &amp; Wolverine’s latest trailer teases yet another X-villain cameo](https://www.theverge.com/2024/6/28/24188275/deadpool-wolverine-sabretooth)
  - [There are more signs of iPhone sales recovery in China](https://appleinsider.com/articles/24/06/28/there-are-more-signs-of-iphone-sales-recovery-in-china?utm_medium=rss)
  - [The US SEC sues Consensys over its MetaMask service, alleging the wallet tool was an unregistered broker that &quot;engaged in the offer and sale of securities&quot; &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/240628/p16#a240628p16)
- - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)
- - [The first-gen Nomad Base One Max 3-in-1 MagSafe charger is $55 off](https://www.theverge.com/2024/6/28/24188181/nomad-base-3in1-magsafe-charger-iphone-apple-watch-airpods-deal-sale)<!-- TECH:END -->
+ - [Best Internet Providers in Tampa, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-tampa-fl/#ftag=CAD590a51e)
+ - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bruh!!\ud83d\ude02](http://9gag.com/gag/aVvXyD8)
- - 😝 [J.K. Trolling](http://9gag.com/gag/abAbnNL)
- - 💣 [What did he did just say? Something about border?](http://9gag.com/gag/a4PLX76)
- - 😝 [We do](http://9gag.com/gag/a1mYjmY)
- - 👉 [Where are this kind of teachers when im in school??](http://9gag.com/gag/a87jgDd)<!-- MEMES:END -->
+ - 😝 [I mean, Who wouldn&#39;t take the cookies?](http://9gag.com/gag/a4PLye6)
+ - 😝 [What did he did just say? Something about border?](http://9gag.com/gag/a4PLX76)
+ - 💣 [Aren\u2019t we tired of Biden/Trump election already?](http://9gag.com/gag/aZZN6d9)
+ - 😝 [I wish I were half the man HE is\u2026.](http://9gag.com/gag/amo8Zz2)
+ - 👉 [Based on a true story](http://9gag.com/gag/aRBVbOq)<!-- MEMES:END -->
 
 ---
 

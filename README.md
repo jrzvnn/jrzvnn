@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon hires the CEO and co-founders of Adept, which builds AI agents that automate enterprise workflows, to join its AGI team and will use some of Adept&#39;s tech &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/240628/p21#a240628p21)
  - [Microsoft’s AI boss thinks it’s perfectly OK to steal content if it’s on the open web](https://www.theverge.com/2024/6/28/24188391/microsoft-ai-suleyman-social-contract-freeware)
  - [Quora-owned AI chatbot platform Poe is providing users with downloadable HTML files of paywalled articles from outlets including NYT, Forbes, and The Atlantic &lpar;Tim Marchman/Wired&rpar;](http://www.techmeme.com/240628/p20#a240628p20)
  - [Best Standing Desks of 2024](https://www.cnet.com/news/best-standing-desk/#ftag=CAD590a51e)
- - [Best Internet Providers in Largo, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-largo-fl/#ftag=CAD590a51e)
- - [Only 5 Big Sales Left in 2024: Here&#39;s What You Need to Know Going Into the Fourth of July](https://www.cnet.com/tech/only-5-big-sales-left-in-2024-heres-what-you-need-to-know-going-into-the-fourth-of-july/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Largo, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-largo-fl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

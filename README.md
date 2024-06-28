@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I mean, Who wouldn&#39;t take the cookies?](http://9gag.com/gag/a4PLye6)
  - 😝 [J.K. Trolling](http://9gag.com/gag/abAbnNL)
+ - 😝 [ICantBeliveThatWorked](http://9gag.com/gag/a4PLgw1)
  - 💣 [If you don\u2019t believe me, just try it out\u2026](http://9gag.com/gag/ae9p88O)
- - 😝 [Oh look, a rope](http://9gag.com/gag/aRBVWYM)
- - 👉 [We do](http://9gag.com/gag/a1mYjmY)<!-- MEMES:END -->
+ - 😝 [Wtf](http://9gag.com/gag/an7Bmjb)
+ - 👉 [Where are this kind of teachers when im in school??](http://9gag.com/gag/a87jgDd)<!-- MEMES:END -->
 
 ---
 

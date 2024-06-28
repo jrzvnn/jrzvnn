@@ -163,10 +163,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Margrethe Vestager says Apple&#39;s decision not to launch its AI features in the EU is a &quot;stunning, open declaration&quot; of its anticompetitive behavior &lpar;Eliza Gkritsi/Euractiv&rpar;](http://www.techmeme.com/240628/p6#a240628p6)
+ - [It&#39;s a Good Idea to Download Google Maps Offline. Here&#39;s How to Do It](https://www.cnet.com/tech/services-and-software/its-a-good-idea-to-download-google-maps-offline-heres-how-to-do-it/#ftag=CAD590a51e)
  - [Q&amp;A with VP of Amazon Games on focusing on AAA games over mobile games, transmedia IP strategy, effect of AI on the gaming industry, monetization, and more &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/240628/p5#a240628p5)
  - [An in-depth look at the development of Google DeepMind&#39;s AlphaFold, which had the biggest AI breakthrough in science by accurately predicting protein structures &lpar;Yasemin Saplakoglu/Quanta Magazine&rpar;](http://www.techmeme.com/240628/p4#a240628p4)
- - [French AI Startups Felt Unstoppable. Then Came the Election](https://www.wired.com/story/french-ai-startups-felt-unstoppable-then-came-the-election/)
- - [Tencent&#39;s shares are up 28% so far in 2024 after the strong debut of Dungeon &amp; Fighter Mobile, adding $91B in market value, more than any other Chinese company &lpar;Jeanny Yu/Bloomberg&rpar;](http://www.techmeme.com/240628/p3#a240628p3)<!-- TECH:END -->
+ - [French AI Startups Felt Unstoppable. Then Came the Election](https://www.wired.com/story/french-ai-startups-felt-unstoppable-then-came-the-election/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

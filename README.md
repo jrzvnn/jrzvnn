@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I mean, Who wouldn&#39;t take the cookies?](http://9gag.com/gag/a4PLye6)
  - 😝 [Where are this kind of teachers when im in school??](http://9gag.com/gag/a87jgDd)
- - 💣 [We do](http://9gag.com/gag/a1mYjmY)
- - 😝 [Absolutely shameless](http://9gag.com/gag/a6ZL68b)
- - 👉 [Oh look, a rope](http://9gag.com/gag/aRBVWYM)<!-- MEMES:END -->
+ - 😝 [If you don\u2019t believe me, just try it out\u2026](http://9gag.com/gag/ae9p88O)
+ - 💣 [Which hawk do you prefer?](http://9gag.com/gag/aXPX316)
+ - 😝 [Israeli Supreme Court rules that the military must begin drafting ultra-Orthodox men. First drafts are already in progress.](http://9gag.com/gag/aGyRX9G)
+ - 👉 [I don&#39;t think he knows what he said](http://9gag.com/gag/aZZN6jp)<!-- MEMES:END -->
 
 ---
 

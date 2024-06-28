@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Deadpool &amp; Wolverine’s latest trailer teases yet another X-villain cameo](https://www.theverge.com/2024/6/28/24188275/deadpool-wolverine-sabretooth)
+ - [There are more signs of iPhone sales recovery in China](https://appleinsider.com/articles/24/06/28/there-are-more-signs-of-iphone-sales-recovery-in-china?utm_medium=rss)
+ - [The US SEC sues Consensys over its MetaMask service, alleging the wallet tool was an unregistered broker that &quot;engaged in the offer and sale of securities&quot; &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/240628/p16#a240628p16)
  - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)
- - [The first-gen Nomad Base One Max 3-in-1 MagSafe charger is $55 off](https://www.theverge.com/2024/6/28/24188181/nomad-base-3in1-magsafe-charger-iphone-apple-watch-airpods-deal-sale)
- - [Kleiner Perkins has raised more than $2B for two new funds: $825M for a fund targeting young startups and $1.2B for a later-stage fund &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/240628/p15#a240628p15)
- - [YouTube is stopping Dr Disrespect’s channel from making money](https://www.theverge.com/2024/6/28/24188157/dr-disrespect-youtube-channel-demonetization-partner-program)
- - [How to use Vehicle Motion Cues in iOS 18 to reduce motion sickness](https://appleinsider.com/inside/ios-18/tips/how-to-use-vehicle-motion-cues-in-ios-18-to-reduce-motion-sickness?utm_medium=rss)<!-- TECH:END -->
+ - [The first-gen Nomad Base One Max 3-in-1 MagSafe charger is $55 off](https://www.theverge.com/2024/6/28/24188181/nomad-base-3in1-magsafe-charger-iphone-apple-watch-airpods-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

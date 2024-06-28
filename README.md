@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TeamViewer warns that its corporate environment was breached in a cyberattack on June 26; NCC Group claims that TeamViewer was breached by an APT hacking group &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/240628/p10#a240628p10)
- - [Apple Vision Pro finally on sale outside the US](https://appleinsider.com/articles/24/06/28/apple-vision-pro-finally-on-sale-outside-the-us?utm_medium=rss)
- - [Baidu unveils an upgraded version of its AI model, Ernie 4.0 Turbo, and says Ernie has reached 300M users since its launch &lpar;Reuters&rpar;](http://www.techmeme.com/240628/p9#a240628p9)
- - [Here’s our best look yet at Samsung’s latest Galaxy Z foldables](https://www.theverge.com/2024/6/28/24188017/samsung-galaxy-z-flip-fold-6-leak-renders-colors-unpacked)
- - [Fix This Embarrassing iPhone Photo Bug by Updating to iOS 17.5.1](https://www.cnet.com/tech/services-and-software/fix-this-embarassing-iphone-photo-bug-by-updating-to-ios-17-5-1/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Weather&#39;s heatwave predictions probably won&#39;t apply to you](https://appleinsider.com/articles/24/06/28/apple-weathers-heatwave-predictions-probably-wont-apply-to-you?utm_medium=rss)
+ - [Beats Pill, Final Cut Camera, and even beta RCS are out now on the AppleInsider Podcast](https://appleinsider.com/articles/24/06/28/beats-pill-final-cut-camera-and-even-beta-rcs-are-out-now-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Home Generator Buying Guide: What to Consider to Get the Best Power Backup](https://www.cnet.com/home/energy-and-utilities/home-generator-buying-guide/#ftag=CAD590a51e)
+ - [EQT agrees to sell 70% stake in Idealista to PE firm Cinven in a deal valuing the property classifieds site at &amp;euro;2.9B; EQT bought Idealista for &amp;euro;1.3B in 2020 &lpar;Swetha Gopinath/Bloomberg&rpar;](http://www.techmeme.com/240628/p11#a240628p11)
+ - [Best Apple Watch Deals: Score Discounts Across the Entire Lineup](https://www.cnet.com/deals/best-apple-watch-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

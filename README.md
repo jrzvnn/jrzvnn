@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Amazon prime](http://9gag.com/gag/aRBVbnM)
- - 😝 [Wtf](http://9gag.com/gag/an7Bmjb)
- - 💣 [Israeli Supreme Court rules that the military must begin drafting ultra-Orthodox men. First drafts are already in progress.](http://9gag.com/gag/aGyRX9G)
  - 😝 [I don&#39;t think he knows what he said](http://9gag.com/gag/aZZN6jp)
- - 👉 [Yoo..wtf](http://9gag.com/gag/agmNwqW)<!-- MEMES:END -->
+ - 😝 [I wish I were half the man HE is\u2026.](http://9gag.com/gag/amo8Zz2)
+ - 💣 [Based on a true story](http://9gag.com/gag/aRBVbOq)
+ - 😝 [Amazon prime](http://9gag.com/gag/aRBVbnM)
+ - 👉 [Hmmmmm](http://9gag.com/gag/aByrAAO)<!-- MEMES:END -->
 
 ---
 

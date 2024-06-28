@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wow](http://9gag.com/gag/an7B0LB)
- - 😝 [When she&#39;s safe](http://9gag.com/gag/aAyp7mR)
- - 💣 [Hippo eats a Coconut](http://9gag.com/gag/apRBX25)
- - 😝 [Lisa gets it](http://9gag.com/gag/a7obg5e)
- - 👉 [Here you go, a longer version from the Hawk Tuah girl &lpar;Hailey welch&rpar;](http://9gag.com/gag/aQznKjd)<!-- MEMES:END -->
+ - 😝 [This man&#39;s a legend](http://9gag.com/gag/apRBMG8)
+ - 😝 [Bro missed](http://9gag.com/gag/avyLqm5)
+ - 💣 [Texas lady is not amused](http://9gag.com/gag/a2vqpVE)
+ - 😝 [Footage of the Roman Empire using Midjourney and the Luma Dream Machine](http://9gag.com/gag/aByr5q2)
+ - 👉 [Food thief has been defeated](http://9gag.com/gag/aryRL5K)<!-- MEMES:END -->
 
 ---
 

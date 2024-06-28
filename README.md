@@ -171,10 +171,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bloody Btsh](http://9gag.com/gag/aKGBoW6)
+ - 😝 [Cringe but wood](http://9gag.com/gag/apRBOND)
+ - 😝 [What happens when you get infected with Guinea worm. Credit : Zack D. Films](http://9gag.com/gag/ajPnzMq)
+ - 💣 [Bloody Btsh](http://9gag.com/gag/aKGBoW6)
  - 😝 [Israeli Supreme Court rules that the military must begin drafting ultra-Orthodox men. First drafts are already in progress.](http://9gag.com/gag/aGyRX9G)
- - 💣 [If you don\u2019t believe me, just try it out\u2026](http://9gag.com/gag/ae9p88O)
- - 😝 [Mom had enough and kicked 20yo college daughter out of her house for trying to &#39;educate&#39; her family about their straight white privileges](http://9gag.com/gag/avyLKBX)
  - 👉 [I don&#39;t think he knows what he said](http://9gag.com/gag/aZZN6jp)<!-- MEMES:END -->
 
 ---

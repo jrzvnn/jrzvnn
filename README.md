@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If you don\u2019t believe me, just try it out\u2026](http://9gag.com/gag/ae9p88O)
- - 😝 [I don&#39;t think he knows what he said](http://9gag.com/gag/aZZN6jp)
- - 💣 [Oh look, a rope](http://9gag.com/gag/aRBVWYM)
- - 😝 [Wtf](http://9gag.com/gag/an7Bmjb)
- - 👉 [Lisa gets it](http://9gag.com/gag/a7obg5e)<!-- MEMES:END -->
+ - 😝 [Bruh!!\ud83d\ude02](http://9gag.com/gag/aVvXyD8)
+ - 😝 [J.K. Trolling](http://9gag.com/gag/abAbnNL)
+ - 💣 [What did he did just say? Something about border?](http://9gag.com/gag/a4PLX76)
+ - 😝 [We do](http://9gag.com/gag/a1mYjmY)
+ - 👉 [Where are this kind of teachers when im in school??](http://9gag.com/gag/a87jgDd)<!-- MEMES:END -->
 
 ---
 

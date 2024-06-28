@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [eBay&#39;s 4th of July coupon knocks 20% off popular tech](https://appleinsider.com/articles/24/06/28/ebays-4th-of-july-coupon-knocks-20-off-popular-tech?utm_medium=rss)
  - [Here comes a Meta Ray-Bans challenger with ChatGPT-4o and a camera](https://www.theverge.com/2024/6/28/24188457/solos-airgo-vision-glasses-chatgpt-ray-ban-meta-competitor)
  - [Infosys McCamish Systems, which provides consulting, IT, and outsourcing services, says LockBit stole sensitive info of 6M+ people in a 2023 ransomware attack &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240628/p22#a240628p22)
  - [Amazon hires the CEO and co-founders of Adept, which builds AI agents that automate enterprise workflows, to join its AGI team and will use some of Adept&#39;s tech &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/240628/p21#a240628p21)
- - [Microsoft’s AI boss thinks it’s perfectly OK to steal content if it’s on the open web](https://www.theverge.com/2024/6/28/24188391/microsoft-ai-suleyman-social-contract-freeware)
- - [Quora-owned AI chatbot platform Poe is providing users with downloadable HTML files of paywalled articles from outlets including NYT, Forbes, and The Atlantic &lpar;Tim Marchman/Wired&rpar;](http://www.techmeme.com/240628/p20#a240628p20)<!-- TECH:END -->
+ - [Microsoft’s AI boss thinks it’s perfectly OK to steal content if it’s on the open web](https://www.theverge.com/2024/6/28/24188391/microsoft-ai-suleyman-social-contract-freeware)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

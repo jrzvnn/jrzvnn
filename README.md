@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cheers](http://9gag.com/gag/aKGBMw1)
- - 😝 [If you don\u2019t believe me, just try it out\u2026](http://9gag.com/gag/ae9p88O)
+ - 😝 [Amazon prime](http://9gag.com/gag/aRBVbnM)
+ - 😝 [Wtf](http://9gag.com/gag/an7Bmjb)
  - 💣 [Israeli Supreme Court rules that the military must begin drafting ultra-Orthodox men. First drafts are already in progress.](http://9gag.com/gag/aGyRX9G)
- - 😝 [Volley ball coach gets caught tryna get with a minor, and the camera man films it as smooth as a dolly.](http://9gag.com/gag/aNDKNDr)
- - 👉 [Wtf](http://9gag.com/gag/an7Bmjb)<!-- MEMES:END -->
+ - 😝 [I don&#39;t think he knows what he said](http://9gag.com/gag/aZZN6jp)
+ - 👉 [Yoo..wtf](http://9gag.com/gag/agmNwqW)<!-- MEMES:END -->
 
 ---
 

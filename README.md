@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Impressive clouds](http://9gag.com/gag/a7obRee)
- - 😝 [Bro missed](http://9gag.com/gag/avyLqm5)
- - 💣 [Food thief has been defeated](http://9gag.com/gag/aryRL5K)
- - 😝 [This man&#39;s a legend](http://9gag.com/gag/apRBMG8)
- - 👉 [Atlanta Dog fights 13 coyotes attacking his sheep. Kills 8 on the spot. Goes missing 4 days. Comes home after killing the remaining 5.](http://9gag.com/gag/a87jNBO)<!-- MEMES:END -->
+ - 😝 [Turn on CNN, Biden is getting clobbered like seal](http://9gag.com/gag/agmNDq6)
+ - 😝 [J.K. Trolling](http://9gag.com/gag/abAbnNL)
+ - 💣 [What did he did just say? Something about border?](http://9gag.com/gag/a4PLX76)
+ - 😝 [Oh look, a rope](http://9gag.com/gag/aRBVWYM)
+ - 👉 [Lisa gets it](http://9gag.com/gag/a7obg5e)<!-- MEMES:END -->
 
 ---
 

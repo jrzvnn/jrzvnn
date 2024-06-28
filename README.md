@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Weather&#39;s heatwave predictions probably won&#39;t apply to you](https://appleinsider.com/articles/24/06/28/apple-weathers-heatwave-predictions-probably-wont-apply-to-you?utm_medium=rss)
- - [Beats Pill, Final Cut Camera, and even beta RCS are out now on the AppleInsider Podcast](https://appleinsider.com/articles/24/06/28/beats-pill-final-cut-camera-and-even-beta-rcs-are-out-now-on-the-appleinsider-podcast?utm_medium=rss)
- - [Home Generator Buying Guide: What to Consider to Get the Best Power Backup](https://www.cnet.com/home/energy-and-utilities/home-generator-buying-guide/#ftag=CAD590a51e)
- - [EQT agrees to sell 70% stake in Idealista to PE firm Cinven in a deal valuing the property classifieds site at &amp;euro;2.9B; EQT bought Idealista for &amp;euro;1.3B in 2020 &lpar;Swetha Gopinath/Bloomberg&rpar;](http://www.techmeme.com/240628/p11#a240628p11)
- - [Best Apple Watch Deals: Score Discounts Across the Entire Lineup](https://www.cnet.com/deals/best-apple-watch-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [EVs still have major quality problems, and it’s mostly about the software](https://www.theverge.com/2024/6/28/24188027/evs-still-have-major-quality-problems-and-its-mostly-about-the-software)
+ - [Sources: Apple may use electrically induced adhesive debonding to make batteries easier to replace, starting with one iPhone 16 model, to comply with EU rules &lpar;The Information&rpar;](http://www.techmeme.com/240628/p12#a240628p12)
+ - [Conspiracy Theorists Aren’t Even Bothering With Biden’s Debate Performance](https://www.wired.com/story/trump-biden-debate-conspiracy/)
+ - [The 5 Best Kitchen Scales Rated by a Former Chocolatier &lpar;2024&rpar;](https://www.wired.com/gallery/best-kitchen-scales/)
+ - [Apple Weather&#39;s heatwave predictions probably won&#39;t apply to you](https://appleinsider.com/articles/24/06/28/apple-weathers-heatwave-predictions-probably-wont-apply-to-you?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

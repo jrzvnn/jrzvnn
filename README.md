@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
+ - [Margrethe Vestager says the EU is seeking information &quot;to better understand&quot; Google&#39;s deal with Samsung to pre-install Gemini Nano on certain Samsung devices &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240628/p24#a240628p24)
  - [Sources: Lambda, which rents out servers powered by Nvidia&#39;s AI chips, is in talks to raise $800M, after a $320M Series C at a $1.5B valuation in February &lpar;Financial Times&rpar;](http://www.techmeme.com/240628/p23#a240628p23)
  - [Copa America 2024 Soccer: Livestream Paraguay vs. Brazil From Anywhere](https://www.cnet.com/tech/services-and-software/copa-america-2024-soccer-livestream-paraguay-vs-brazil-from-anywhere/#ftag=CAD590a51e)
- - [Best Internet Providers in Aurora, Illinois](https://www.cnet.com/home/internet/best-internet-providers-in-aurora-il/#ftag=CAD590a51e)
- - [Best Washing Machines for 2024](https://www.cnet.com/home/kitchen-and-household/best-washing-machine/#ftag=CAD590a51e)
- - [Best Massage Guns for 2024](https://www.cnet.com/health/fitness/best-massage-gun/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Aurora, Illinois](https://www.cnet.com/home/internet/best-internet-providers-in-aurora-il/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

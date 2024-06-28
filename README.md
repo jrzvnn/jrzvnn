@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I just wanna be loved](http://9gag.com/gag/a34LD73)
- - 😝 [Yoo..wtf](http://9gag.com/gag/agmNwqW)
- - 💣 [Monty Python Souls](http://9gag.com/gag/a0eYgPq)
- - 😝 [Hippo eats a Coconut](http://9gag.com/gag/apRBX25)
- - 👉 [Oh look, a rope](http://9gag.com/gag/aRBVWYM)<!-- MEMES:END -->
+ - 😝 [Bruh!!\ud83d\ude02](http://9gag.com/gag/aVvXyD8)
+ - 😝 [I\u2019m sure most people will think this is a scam, or weird, or whatever. But if anyone is feeling depressed please contact me. I\u2019m happy to chit-chat about any issues and offer advice. I\u2019m old now. Will delete if this gets a shit ton of trolls.](http://9gag.com/gag/a4PL8jm)
+ - 💣 [ICantBeliveThatWorked](http://9gag.com/gag/a4PLgw1)
+ - 😝 [We do](http://9gag.com/gag/a1mYjmY)
+ - 👉 [Where are this kind of teachers when im in school??](http://9gag.com/gag/a87jgDd)<!-- MEMES:END -->
 
 ---
 

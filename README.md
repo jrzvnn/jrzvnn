@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Israeli Supreme Court rules that the military must begin drafting ultra-Orthodox men. First drafts are already in progress.](http://9gag.com/gag/aGyRX9G)
- - 😝 [Absolutely shameless](http://9gag.com/gag/a6ZL68b)
- - 💣 [Bruh!!\ud83d\ude02](http://9gag.com/gag/aVvXyD8)
- - 😝 [Where are this kind of teachers when im in school??](http://9gag.com/gag/a87jgDd)
- - 👉 [Lisa gets it](http://9gag.com/gag/a7obg5e)<!-- MEMES:END -->
+ - 😝 [J.K. Trolling](http://9gag.com/gag/abAbnNL)
+ - 😝 [Cheers](http://9gag.com/gag/aKGBMw1)
+ - 💣 [Israeli Supreme Court rules that the military must begin drafting ultra-Orthodox men. First drafts are already in progress.](http://9gag.com/gag/aGyRX9G)
+ - 😝 [Oh look, a rope](http://9gag.com/gag/aRBVWYM)
+ - 👉 [Where are this kind of teachers when im in school??](http://9gag.com/gag/a87jgDd)<!-- MEMES:END -->
 
 ---
 

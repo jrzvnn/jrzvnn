@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Turn on CNN, Biden is getting clobbered like seal](http://9gag.com/gag/agmNDq6)
  - 😝 [J.K. Trolling](http://9gag.com/gag/abAbnNL)
- - 💣 [What did he did just say? Something about border?](http://9gag.com/gag/a4PLX76)
- - 😝 [Oh look, a rope](http://9gag.com/gag/aRBVWYM)
- - 👉 [Lisa gets it](http://9gag.com/gag/a7obg5e)<!-- MEMES:END -->
+ - 😝 [Hmm](http://9gag.com/gag/aAyp9xZ)
+ - 💣 [I actually laughed at this one. Well done cap!](http://9gag.com/gag/aE0z5dM)
+ - 😝 [For me this is peak cinema](http://9gag.com/gag/ajPnj8x)
+ - 👉 [Yoo..wtf](http://9gag.com/gag/agmNwqW)<!-- MEMES:END -->
 
 ---
 

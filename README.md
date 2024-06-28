@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I mean, Who wouldn&#39;t take the cookies?](http://9gag.com/gag/a4PLye6)
- - 😝 [What did he did just say? Something about border?](http://9gag.com/gag/a4PLX76)
- - 💣 [Aren\u2019t we tired of Biden/Trump election already?](http://9gag.com/gag/aZZN6d9)
- - 😝 [I wish I were half the man HE is\u2026.](http://9gag.com/gag/amo8Zz2)
- - 👉 [Based on a true story](http://9gag.com/gag/aRBVbOq)<!-- MEMES:END -->
+ - 😝 [Israeli Supreme Court rules that the military must begin drafting ultra-Orthodox men. First drafts are already in progress.](http://9gag.com/gag/aGyRX9G)
+ - 😝 [Absolutely shameless](http://9gag.com/gag/a6ZL68b)
+ - 💣 [Bruh!!\ud83d\ude02](http://9gag.com/gag/aVvXyD8)
+ - 😝 [Where are this kind of teachers when im in school??](http://9gag.com/gag/a87jgDd)
+ - 👉 [Lisa gets it](http://9gag.com/gag/a7obg5e)<!-- MEMES:END -->
 
 ---
 

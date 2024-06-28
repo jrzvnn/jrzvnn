@@ -162,8 +162,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Italy launched a probe into Google in 2022 for &amp;euro;1B in unpaid taxes and penalties from 2018 to 2022, seven years after settling another tax dispute &lpar;Emilio Parodi/Reuters&rpar;](http://www.techmeme.com/240628/p13#a240628p13)
  - [Beats Pill, Final Cut Camera, and beta RCS are all out now on the AppleInsider Podcast](https://appleinsider.com/articles/24/06/28/beats-pill-final-cut-camera-and-even-beta-rcs-are-out-now-on-the-appleinsider-podcast?utm_medium=rss)
- - [8 Best Fitbit &lpar;2024&rpar;: Trackers, Watches, GPS, Health](https://www.wired.com/gallery/the-best-fitbits/)
  - [The music industry’s AI fight](https://www.theverge.com/2024/6/28/24188062/music-industry-ai-riaa-udio-suno-motorola-razr-google-pixel-vergecast)
  - [Best NAS Deals: Save Up to $60 Off Network Storage](https://www.cnet.com/deals/best-nas-deals/#ftag=CAD590a51e)
  - [He Helped Invent Generative AI. Now He Wants to Save It](https://www.wired.com/story/user-owned-ai-illia-polosukhin-open-source-web3/)<!-- TECH:END -->

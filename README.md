@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
  - [Apple Ring: Two decades of rumors and speculation about a smart ring](https://appleinsider.com/articles/24/06/28/apple-ring-two-decades-of-rumors-and-speculation-about-a-smart-ring?utm_medium=rss)
  - [The White House will host the first-ever White House Creator Economy Conference in August to &quot;emphasize the Administration&#39;s commitment to creators&quot; &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/240628/p17#a240628p17)
- - [The Center for Investigative Reporting is suing OpenAI and Microsoft](https://www.theverge.com/2024/6/28/24188239/openai-microsoft-center-for-investigative-reporting-lawsuit)
- - [Quora’s Chatbot Platform Poe Allows Users to Download Paywalled Articles on Demand](https://www.wired.com/story/quora-chatbot-poe-download-paywalled-articles/)
- - [Deadpool &amp; Wolverine’s latest trailer teases yet another X-villain cameo](https://www.theverge.com/2024/6/28/24188275/deadpool-wolverine-sabretooth)<!-- TECH:END -->
+ - [&#39;A Quiet Place: Day One&#39; Is in Theaters, but Here&#39;s How To Stream the First Two Films](https://www.cnet.com/tech/services-and-software/a-quiet-place-day-one-is-in-theaters-but-heres-how-to-stream-the-first-two-films/#ftag=CAD590a51e)
+ - [Tempur-Pedic Luxe Breeze Review 2024: Maximum Cooling at a Premium Price](https://www.cnet.com/health/sleep/tempur-pedic-luxe-breeze-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

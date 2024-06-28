@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EVs still have major quality problems, and it’s mostly about the software](https://www.theverge.com/2024/6/28/24188027/ev-quality-software-probalems-electric-vehicles)
- - [Sources: Apple may use electrically induced adhesive debonding to make batteries easier to replace, starting with one iPhone 16 model, to comply with EU rules &lpar;The Information&rpar;](http://www.techmeme.com/240628/p12#a240628p12)
- - [Conspiracy Theorists Aren’t Even Bothering With Biden’s Debate Performance](https://www.wired.com/story/trump-biden-debate-conspiracy/)
- - [The 5 Best Kitchen Scales Rated by a Former Chocolatier &lpar;2024&rpar;](https://www.wired.com/gallery/best-kitchen-scales/)
- - [Apple Weather&#39;s heatwave predictions probably won&#39;t apply to you](https://appleinsider.com/articles/24/06/28/apple-weathers-heatwave-predictions-probably-wont-apply-to-you?utm_medium=rss)<!-- TECH:END -->
+ - [The music industry’s AI fight](https://www.theverge.com/2024/6/28/24188062/music-industry-ai-riaa-udio-suno-motorola-razr-google-pixel-vergecast)
+ - [Best NAS Deals: Save Up to $60 Off Network Storage](https://www.cnet.com/deals/best-nas-deals/#ftag=CAD590a51e)
+ - [He Helped Invent Generative AI. Now He Wants to Save It](https://www.wired.com/story/user-owned-ai-illia-polosukhin-open-source-web3/)
+ - [Nectar’s Fourth of July Sale Will Save You Up to 40% on Popular Beds](https://www.cnet.com/deals/nectar-4th-of-july-2024/#ftag=CAD590a51e)
+ - [EVs still have major quality problems, and it’s mostly about the software](https://www.theverge.com/2024/6/28/24188027/ev-quality-software-probalems-electric-vehicles)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

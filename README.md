@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Beats Pill, Final Cut Camera, and beta RCS are all out now on the AppleInsider Podcast](https://appleinsider.com/articles/24/06/28/beats-pill-final-cut-camera-and-even-beta-rcs-are-out-now-on-the-appleinsider-podcast?utm_medium=rss)
+ - [8 Best Fitbit &lpar;2024&rpar;: Trackers, Watches, GPS, Health](https://www.wired.com/gallery/the-best-fitbits/)
  - [The music industry’s AI fight](https://www.theverge.com/2024/6/28/24188062/music-industry-ai-riaa-udio-suno-motorola-razr-google-pixel-vergecast)
  - [Best NAS Deals: Save Up to $60 Off Network Storage](https://www.cnet.com/deals/best-nas-deals/#ftag=CAD590a51e)
- - [Nectar’s Fourth of July Sale Will Save You Up to 40% on Popular Beds](https://www.cnet.com/deals/nectar-4th-of-july-2024/#ftag=CAD590a51e)
- - [EVs still have major quality problems, and it’s mostly about the software](https://www.theverge.com/2024/6/28/24188027/ev-quality-software-probalems-electric-vehicles)
- - [Refi Rates Ride High: Today&#39;s Refinance Rates, June 28, 2024](https://www.cnet.com/personal-finance/mortgages/refi-rates-ride-high-todays-refinance-rates-june-28-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [He Helped Invent Generative AI. Now He Wants to Save It](https://www.wired.com/story/user-owned-ai-illia-polosukhin-open-source-web3/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

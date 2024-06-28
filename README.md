@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [J.K. Trolling](http://9gag.com/gag/abAbnNL)
- - 😝 [An American company owner not being greedy but instead thinking about his fellow man what an odd find...](http://9gag.com/gag/a34Lmrv)
- - 💣 [All hail the white dragon](http://9gag.com/gag/azxVW5j)
- - 😝 [`He&#39;s fine.....`](http://9gag.com/gag/aryRY3p)
- - 👉 [Be comfortable!](http://9gag.com/gag/agmNDL6)<!-- MEMES:END -->
+ - 😝 [My fellow virgin](http://9gag.com/gag/aW4O5vq)
+ - 😝 [I don&#39;t think he knows what he said](http://9gag.com/gag/aZZN6jp)
+ - 💣 [Not today](http://9gag.com/gag/agmNWz1)
+ - 😝 [Mom had enough and kicked 20yo college daughter out of her house for trying to &#39;educate&#39; her family about their straight white privileges](http://9gag.com/gag/avyLKBX)
+ - 👉 [Yoo..wtf](http://9gag.com/gag/agmNwqW)<!-- MEMES:END -->
 
 ---
 

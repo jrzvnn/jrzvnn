@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Surface Pro Copilot+ review: the best Microsoft tablet yet, with a versatile Flex keyboard and decent AI features, but has noticeable heat and fan noise issues &lpar;Devindra Hardawar/Engadget&rpar;](http://www.techmeme.com/240628/p8#a240628p8)
  - [EU hits back at Apple withholding Apple Intelligence from the region](https://appleinsider.com/articles/24/06/28/eu-hits-back-at-apple-withholding-apple-intelligence-from-the-region?utm_medium=rss)
- - [Download Offline Maps on Your iPhone Before Traveling for the Fourth of July](https://www.cnet.com/tech/mobile/download-offline-maps-on-your-iphone-before-traveling-for-the-fourth-of-july/#ftag=CAD590a51e)
+ - [Inside a Violent Gang&#39;s Ruthless Crypto-Stealing Home Invasion Spree](https://www.wired.com/story/crypto-home-invasion-crime-ring/)
  - [This Viral AI Chatbot Will Lie and Say It’s Human](https://www.wired.com/story/bland-ai-chatbot-human/)
- - [Apple launches the Vision Pro in mainland China, Hong Kong, Japan, and Singapore, the first time the device has been officially available outside of the US &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/240628/p7#a240628p7)
- - [You Can Get Windows 11 Pro for Just $23, but You&#39;ll Have to Be Quick](https://www.cnet.com/deals/you-can-get-windows-11-pro-just-23-but-be-quick/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple launches the Vision Pro in mainland China, Hong Kong, Japan, and Singapore, the first time the device has been officially available outside of the US &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/240628/p7#a240628p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

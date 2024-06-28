@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon is investigating Perplexity over whether the AI search startup is violating AWS rules by scraping websites that attempted to prevent it from doing so &lpar;Wired&rpar;](http://www.techmeme.com/240627/p39#a240627p39)
- - [Don&#39;t Put Your Amazon Echo Speaker in These 5 Risky Locations](https://www.cnet.com/home/smart-home/dont-put-your-amazon-echo-speaker-in-these-5-risky-locations/#ftag=CAD590a51e)
- - [How Powerful Should Your Home Battery Be?](https://www.cnet.com/home/energy-and-utilities/how-powerful-should-your-home-battery-be/#ftag=CAD590a51e)
- - [21 Grilling Tools That Are Worth the Money](https://www.cnet.com/home/yard-and-outdoors/best-grill-tools-to-buy-for-summer/#ftag=CAD590a51e)
- - [Tempur-Pedic ProAdapt Mattress Review 2024: The Most Versatile Tempur Mattress](https://www.cnet.com/health/sleep/tempurpedic-pro-adapt/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Hebbia, which is developing an AI-powered document search tool, raised a nearly $100M Series B led by a16z at a valuation between $700M and $800M &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/240627/p41#a240627p41)
+ - [Helix Mattresses Review 2024: Options for All Sleeper Types](https://www.cnet.com/health/sleep/helix-mattress-reviews/#ftag=CAD590a51e)
+ - [A look at Dubai-based Bybit, whose co-founder says it became the world&#39;s second largest crypto exchange by volume partly by serving former FTX users &lpar;Ryan Weeks/Bloomberg&rpar;](http://www.techmeme.com/240627/p40#a240627p40)
+ - [Best Fourth of July Mattress Deals](https://www.cnet.com/deals/best-4th-of-july-mattress-deals/#ftag=CAD590a51e)
+ - [Perplexity AI: the answer engine with a lot of question marks](https://www.theverge.com/24187792/perplexity-ai-news-updates)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

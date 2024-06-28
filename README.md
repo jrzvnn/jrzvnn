@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Center for Investigative Reporting is suing OpenAI and Microsoft](https://www.theverge.com/2024/6/28/24188239/openai-microsoft-center-for-investigative-reporting-lawsuit)
+ - [Quora’s Chatbot Platform Poe Allows Users to Download Paywalled Articles on Demand](https://www.wired.com/story/quora-chatbot-poe-download-paywalled-articles/)
  - [Deadpool &amp; Wolverine’s latest trailer teases yet another X-villain cameo](https://www.theverge.com/2024/6/28/24188275/deadpool-wolverine-sabretooth)
  - [There are more signs of iPhone sales recovery in China](https://appleinsider.com/articles/24/06/28/there-are-more-signs-of-iphone-sales-recovery-in-china?utm_medium=rss)
- - [The US SEC sues Consensys over its MetaMask service, alleging the wallet tool was an unregistered broker that &quot;engaged in the offer and sale of securities&quot; &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/240628/p16#a240628p16)
- - [Best Internet Providers in Tampa, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-tampa-fl/#ftag=CAD590a51e)
- - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)<!-- TECH:END -->
+ - [The US SEC sues Consensys over its MetaMask service, alleging the wallet tool was an unregistered broker that &quot;engaged in the offer and sale of securities&quot; &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/240628/p16#a240628p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

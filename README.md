@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Download Offline Maps on Your iPhone Before Traveling for the Fourth of July](https://www.cnet.com/tech/mobile/download-offline-maps-on-your-iphone-before-traveling-for-the-fourth-of-july/#ftag=CAD590a51e)
+ - [EU hits back at Apple withholding Apple Intelligence from the region](https://appleinsider.com/articles/24/06/28/eu-hits-back-at-apple-withholding-apple-intelligence-from-the-region?utm_medium=rss)
  - [This Viral AI Chatbot Will Lie and Say It’s Human](https://www.wired.com/story/bland-ai-chatbot-human/)
  - [Apple launches the Vision Pro in mainland China, Hong Kong, Japan, and Singapore, the first time the device has been officially available outside of the US &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/240628/p7#a240628p7)
- - [You Can Get Windows 11 Pro for Just $23, but You&#39;ll Have to Be Quick](https://www.cnet.com/deals/you-can-get-windows-11-pro-just-23-but-be-quick/#ftag=CAD590a51e)
- - [Margrethe Vestager says Apple&#39;s decision not to launch its AI features in the EU is a &quot;stunning, open declaration&quot; of its anticompetitive behavior &lpar;Eliza Gkritsi/Euractiv&rpar;](http://www.techmeme.com/240628/p6#a240628p6)<!-- TECH:END -->
+ - [Margrethe Vestager says Apple&#39;s decision not to launch its AI features in the EU is a &quot;stunning, open declaration&quot; of its anticompetitive behavior &lpar;Eliza Gkritsi/Euractiv&rpar;](http://www.techmeme.com/240628/p6#a240628p6)
+ - [It&#39;s a Good Idea to Download Google Maps Offline. Here&#39;s How to Do It](https://www.cnet.com/tech/services-and-software/its-a-good-idea-to-download-google-maps-offline-heres-how-to-do-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

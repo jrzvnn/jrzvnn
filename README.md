@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AT&amp;T Next Up Anytime lets you get three phone upgrades per year, but it’s not cheap](https://www.theverge.com/2024/6/28/24188060/att-smartphones-next-up-anytime-upgrade)
  - [The Verge’s summer ‘in’ / ‘out’ list](https://www.theverge.com/24188055/the-verge-summer-in-out-list-trends)
+ - [Best MacBook Accessories We’ve Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/story/best-macbook-accessories/)
  - [Frost Bank: 2024 Home Equity Review](https://www.cnet.com/personal-finance/mortgages/frost-bank/#ftag=CAD590a51e)
- - [Rise Science Review: Is This Sleep App Really Worth It?](https://www.cnet.com/health/sleep/rise-science-review/#ftag=CAD590a51e)
- - [These Southwest Credit Card Offers Could Earn You Up to 120K Points](https://www.cnet.com/personal-finance/credit-cards/these-southwest-credit-card-offers-could-earn-you-up-to-120k-points/#ftag=CAD590a51e)
- - [EU explores an antitrust probe into Microsoft&#39;s OpenAI partnership, after the EC dropped a merger review due to lack of evidence that Microsoft controls OpenAI &lpar;Financial Times&rpar;](http://www.techmeme.com/240628/p14#a240628p14)<!-- TECH:END -->
+ - [Rise Science Review: Is This Sleep App Really Worth It?](https://www.cnet.com/health/sleep/rise-science-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

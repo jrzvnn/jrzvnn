@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If you don\u2019t believe me, just try it out\u2026](http://9gag.com/gag/ae9p88O)
- - 😝 [What did he did just say? Something about border?](http://9gag.com/gag/a4PLX76)
- - 💣 [Wtf](http://9gag.com/gag/an7Bmjb)
- - 😝 [Man shows how to interact with strangers easily](http://9gag.com/gag/a4PLOrm)
- - 👉 [Yoo..wtf](http://9gag.com/gag/agmNwqW)<!-- MEMES:END -->
+ - 😝 [Wtf](http://9gag.com/gag/an7Bmjb)
+ - 😝 [Street performers in London these days](http://9gag.com/gag/avyLjLO)
+ - 💣 [Bruh!!\ud83d\ude02](http://9gag.com/gag/aVvXyD8)
+ - 😝 [I don&#39;t think he knows what he said](http://9gag.com/gag/aZZN6jp)
+ - 👉 [Oh look, a rope](http://9gag.com/gag/aRBVWYM)<!-- MEMES:END -->
 
 ---
 

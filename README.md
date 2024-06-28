@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What happens when you get infected with Guinea worm. Credit : Zack D. Films](http://9gag.com/gag/ajPnzMq)
- - 😝 [Cheers](http://9gag.com/gag/aKGBMw1)
- - 💣 [Israeli Supreme Court rules that the military must begin drafting ultra-Orthodox men. First drafts are already in progress.](http://9gag.com/gag/aGyRX9G)
- - 😝 [Where are this kind of teachers when im in school??](http://9gag.com/gag/a87jgDd)
- - 👉 [I don&#39;t think he knows what he said](http://9gag.com/gag/aZZN6jp)<!-- MEMES:END -->
+ - 😝 [I don&#39;t think he knows what he said](http://9gag.com/gag/aZZN6jp)
+ - 😝 [I wish I were half the man HE is\u2026.](http://9gag.com/gag/amo8Zz2)
+ - 💣 [Based on a true story](http://9gag.com/gag/aRBVbOq)
+ - 😝 [Amazon prime](http://9gag.com/gag/aRBVbnM)
+ - 👉 [This could be a nice Toyota advertisement](http://9gag.com/gag/a87jZd1)<!-- MEMES:END -->
 
 ---
 

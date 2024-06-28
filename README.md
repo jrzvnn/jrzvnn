@@ -163,10 +163,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Sources: Lambda, which rents out servers powered by Nvidia&#39;s AI chips, is in talks to raise $800M, after a $320M Series C at a $1.5B valuation in February &lpar;Financial Times&rpar;](http://www.techmeme.com/240628/p23#a240628p23)
- - [eBay&#39;s 4th of July coupon knocks 20% off popular tech](https://appleinsider.com/articles/24/06/28/ebays-4th-of-july-coupon-knocks-20-off-popular-tech?utm_medium=rss)
- - [Here comes a Meta Ray-Bans challenger with ChatGPT-4o and a camera](https://www.theverge.com/2024/6/28/24188457/solos-airgo-vision-glasses-chatgpt-ray-ban-meta-competitor)
- - [Infosys McCamish Systems, which provides consulting, IT, and outsourcing services, says LockBit stole sensitive info of 6M+ people in a 2023 ransomware attack &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240628/p22#a240628p22)
- - [Best Internet Providers in Oakland, California](https://www.cnet.com/home/internet/best-internet-providers-in-oakland-ca/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Copa America 2024 Soccer: Livestream Paraguay vs. Brazil From Anywhere](https://www.cnet.com/tech/services-and-software/copa-america-2024-soccer-livestream-paraguay-vs-brazil-from-anywhere/#ftag=CAD590a51e)
+ - [Best Internet Providers in Aurora, Illinois](https://www.cnet.com/home/internet/best-internet-providers-in-aurora-il/#ftag=CAD590a51e)
+ - [Best Washing Machines for 2024](https://www.cnet.com/home/kitchen-and-household/best-washing-machine/#ftag=CAD590a51e)
+ - [Best Massage Guns for 2024](https://www.cnet.com/health/fitness/best-massage-gun/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

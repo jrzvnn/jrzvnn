@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Friday mood](http://9gag.com/gag/a34LmOQ)
- - 😝 [Cringe but wood](http://9gag.com/gag/apRBOND)
- - 💣 [Wtf](http://9gag.com/gag/an7Bmjb)
- - 😝 [I don&#39;t think he knows what he said](http://9gag.com/gag/aZZN6jp)
- - 👉 [Bloody Btsh](http://9gag.com/gag/aKGBoW6)<!-- MEMES:END -->
+ - 😝 [J.K. Trolling](http://9gag.com/gag/abAbnNL)
+ - 😝 [An American company owner not being greedy but instead thinking about his fellow man what an odd find...](http://9gag.com/gag/a34Lmrv)
+ - 💣 [All hail the white dragon](http://9gag.com/gag/azxVW5j)
+ - 😝 [`He&#39;s fine.....`](http://9gag.com/gag/aryRY3p)
+ - 👉 [Be comfortable!](http://9gag.com/gag/agmNDL6)<!-- MEMES:END -->
 
 ---
 

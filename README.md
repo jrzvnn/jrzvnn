@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [ICantBeliveThatWorked](http://9gag.com/gag/a4PLgw1)
- - 😝 [Wtf](http://9gag.com/gag/an7Bmjb)
- - 💣 [Absolutely shameless](http://9gag.com/gag/a6ZL68b)
- - 😝 [Atlanta Dog fights 13 coyotes attacking his sheep. Kills 8 on the spot. Goes missing 4 days. Comes home after killing the remaining 5.](http://9gag.com/gag/a87jNBO)
- - 👉 [Oh look, a rope](http://9gag.com/gag/aRBVWYM)<!-- MEMES:END -->
+ - 😝 [Be comfortable!](http://9gag.com/gag/agmNDL6)
+ - 😝 [Judged by color](http://9gag.com/gag/ayNnAy8)
+ - 💣 [Texas lady is not amused](http://9gag.com/gag/a2vqpVE)
+ - 😝 [What did he did just say? Something about border?](http://9gag.com/gag/a4PLX76)
+ - 👉 [Racoon](http://9gag.com/gag/aNDKMGv)<!-- MEMES:END -->
 
 ---
 

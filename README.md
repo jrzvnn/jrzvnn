@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Lambda, which rents out servers powered by Nvidia&#39;s AI chips, is in talks to raise $800M, after a $320M Series C at a $1.5B valuation in February &lpar;Financial Times&rpar;](http://www.techmeme.com/240628/p23#a240628p23)
  - [eBay&#39;s 4th of July coupon knocks 20% off popular tech](https://appleinsider.com/articles/24/06/28/ebays-4th-of-july-coupon-knocks-20-off-popular-tech?utm_medium=rss)
  - [Here comes a Meta Ray-Bans challenger with ChatGPT-4o and a camera](https://www.theverge.com/2024/6/28/24188457/solos-airgo-vision-glasses-chatgpt-ray-ban-meta-competitor)
  - [Infosys McCamish Systems, which provides consulting, IT, and outsourcing services, says LockBit stole sensitive info of 6M+ people in a 2023 ransomware attack &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/240628/p22#a240628p22)
- - [Best Internet Providers in Oakland, California](https://www.cnet.com/home/internet/best-internet-providers-in-oakland-ca/#ftag=CAD590a51e)
- - [To Escape Six-Figure Student Loan Debt, This Mom Turned to Social Media](https://www.cnet.com/personal-finance/loans/to-escape-six-figure-student-loan-debt-this-mom-turned-to-social-media/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Oakland, California](https://www.cnet.com/home/internet/best-internet-providers-in-oakland-ca/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

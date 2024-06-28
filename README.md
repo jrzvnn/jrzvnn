@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [J.K. Trolling](http://9gag.com/gag/abAbnNL)
- - 😝 [Hmm](http://9gag.com/gag/aAyp9xZ)
- - 💣 [I actually laughed at this one. Well done cap!](http://9gag.com/gag/aE0z5dM)
- - 😝 [For me this is peak cinema](http://9gag.com/gag/ajPnj8x)
- - 👉 [Yoo..wtf](http://9gag.com/gag/agmNwqW)<!-- MEMES:END -->
+ - 😝 [ICantBeliveThatWorked](http://9gag.com/gag/a4PLgw1)
+ - 😝 [Wtf](http://9gag.com/gag/an7Bmjb)
+ - 💣 [Absolutely shameless](http://9gag.com/gag/a6ZL68b)
+ - 😝 [Atlanta Dog fights 13 coyotes attacking his sheep. Kills 8 on the spot. Goes missing 4 days. Comes home after killing the remaining 5.](http://9gag.com/gag/a87jNBO)
+ - 👉 [Oh look, a rope](http://9gag.com/gag/aRBVWYM)<!-- MEMES:END -->
 
 ---
 

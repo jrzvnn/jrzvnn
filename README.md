@@ -164,9 +164,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Here’s our best look yet at Samsung’s latest Galaxy Z foldables](https://www.theverge.com/2024/6/28/24188017/samsung-galaxy-z-flip-fold-6-leak-renders-colors-unpacked)
  - [Fix This Embarrassing iPhone Photo Bug by Updating to iOS 17.5.1](https://www.cnet.com/tech/services-and-software/fix-this-embarassing-iphone-photo-bug-by-updating-to-ios-17-5-1/#ftag=CAD590a51e)
+ - [&#39;The Acolyte&#39; and the Long-Awaited Death of Review-Bombing](https://www.wired.com/story/the-acolyte-and-the-long-awaited-death-of-review-bombing/)
  - [Best Internet Providers in Asheville, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-asheville-nc/#ftag=CAD590a51e)
- - [Framework Laptop 16, six months later](https://www.theverge.com/24185827/framework-laptop-16-six-months-later-review)
- - [6 Ways to Lower Your Energy Bills in a Texas Summer](https://www.cnet.com/how-to/6-ways-to-lower-your-energy-bills-in-a-texas-summer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Framework Laptop 16, six months later](https://www.theverge.com/24185827/framework-laptop-16-six-months-later-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

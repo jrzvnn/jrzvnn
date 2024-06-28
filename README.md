@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The EFF, the Center for Democracy &amp; Technology, and others file a brief saying the US law forcing ByteDance to sell TikTok or face a ban is unconstitutional &lpar;Electronic Frontier Foundation&rpar;](http://www.techmeme.com/240628/p1#a240628p1)
  - [Today&#39;s NYT Connections Hints, Answers and Help for June 28, #383](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-28-383/#ftag=CAD590a51e)
  - [Today&#39;s Wordle Hints, Answer and Help for June 28, #1105](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-june-28-1105/#ftag=CAD590a51e)
  - [Today&#39;s NYT Strands Hints, Answers and Help for June 28, #117](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-28-117/#ftag=CAD590a51e)
- - [UGreen Nexode Pro Charger review roundup: Small fast-charging companions](https://appleinsider.com/articles/24/06/28/ugreen-nexode-pro-charger-review-roundup-small-fast-charging-companions?utm_medium=rss)
- - [Apple&#39;s M3 MacBook Pro 14-inch with 16GB RAM drops to $1,599](https://appleinsider.com/articles/24/06/28/apples-m3-macbook-pro-14-inch-with-16gb-ram-drops-to-1599?utm_medium=rss)<!-- TECH:END -->
+ - [UGreen Nexode Pro Charger review roundup: Small fast-charging companions](https://appleinsider.com/articles/24/06/28/ugreen-nexode-pro-charger-review-roundup-small-fast-charging-companions?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

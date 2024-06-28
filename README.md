@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU explores an antitrust probe into Microsoft&#39;s OpenAI partnership, after the EC dropped a merger review due to lack of evidence that Microsoft controls OpenAI &lpar;Financial Times&rpar;](http://www.techmeme.com/240628/p14#a240628p14)
- - [Steam’s Summer Sale drops games like Baldur’s Gate 3 to their best price](https://www.theverge.com/2024/6/28/24187641/steam-summer-sale-baldurs-gate-3-dave-the-diver-deal-sale)
- - [Supreme Court ruling kneecaps federal regulators](https://www.theverge.com/2024/6/28/24180118/supreme-court-chevron-deference-decision-opinion)
- - [MyQ Smart Garage Door Opener Review: Quiet and Fun to Use](https://www.wired.com/review/myq-smart-garage-door-opener-review/)
- - [If Betelgeuse Explodes, Just How Bright Will It Get?](https://www.wired.com/story/if-betelgeuse-explodes-how-bright-will-it-get/)<!-- TECH:END -->
+ - [The Verge’s summer ‘in’ / ‘out’ list](https://www.theverge.com/24188055/the-verge-summer-in-out-list-trends)
+ - [Frost Bank: 2024 Home Equity Review](https://www.cnet.com/personal-finance/mortgages/frost-bank/#ftag=CAD590a51e)
+ - [Rise Science Review: Is This Sleep App Really Worth It?](https://www.cnet.com/health/sleep/rise-science-review/#ftag=CAD590a51e)
+ - [These Southwest Credit Card Offers Could Earn You Up to 120K Points](https://www.cnet.com/personal-finance/credit-cards/these-southwest-credit-card-offers-could-earn-you-up-to-120k-points/#ftag=CAD590a51e)
+ - [EU explores an antitrust probe into Microsoft&#39;s OpenAI partnership, after the EC dropped a merger review due to lack of evidence that Microsoft controls OpenAI &lpar;Financial Times&rpar;](http://www.techmeme.com/240628/p14#a240628p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

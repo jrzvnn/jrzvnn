@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [If Betelgeuse Explodes, Just How Bright Will It Get?](https://www.wired.com/story/if-betelgeuse-explodes-how-bright-will-it-get/)
  - [Best Desks of 2024](https://www.cnet.com/news/best-desks/#ftag=CAD590a51e)
  - [Best Tower Fan for 2024](https://www.cnet.com/home/kitchen-and-household/best-tower-fan/#ftag=CAD590a51e)
  - [Sources: Italy launched a probe into Google in 2022 for &amp;euro;1B in unpaid taxes and penalties from 2018 to 2022, seven years after settling another tax dispute &lpar;Emilio Parodi/Reuters&rpar;](http://www.techmeme.com/240628/p13#a240628p13)
- - [Refi Rates Increase But Stay Below 7%: Today&#39;s Refinance Rates, June 28, 2024](https://www.cnet.com/personal-finance/refi-rates-ride-high-todays-refinance-rates-june-28-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Refi Rates Increase But Stay Below 7%: Today&#39;s Refinance Rates, June 28, 2024](https://www.cnet.com/personal-finance/refi-rates-ride-high-todays-refinance-rates-june-28-2024/#ftag=CAD590a51e)
+ - [Nab a Lifetime Subscription to OneAir Elite for Only $70 Today](https://www.cnet.com/deals/nab-a-lifetime-subscription-to-oneair-elite-for-only-70-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

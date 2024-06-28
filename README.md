@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Using reverse psychology on dog lol](http://9gag.com/gag/azxVWdx)
- - 😝 [I mean, Who wouldn&#39;t take the cookies?](http://9gag.com/gag/a4PLye6)
- - 💣 [Based on a true story](http://9gag.com/gag/aRBVbOq)
- - 😝 [What did he did just say? Something about border?](http://9gag.com/gag/a4PLX76)
- - 👉 [I wish I were half the man HE is\u2026.](http://9gag.com/gag/amo8Zz2)<!-- MEMES:END -->
+ - 😝 [If you don\u2019t believe me, just try it out\u2026](http://9gag.com/gag/ae9p88O)
+ - 😝 [I don&#39;t think he knows what he said](http://9gag.com/gag/aZZN6jp)
+ - 💣 [Oh look, a rope](http://9gag.com/gag/aRBVWYM)
+ - 😝 [Wtf](http://9gag.com/gag/an7Bmjb)
+ - 👉 [Lisa gets it](http://9gag.com/gag/a7obg5e)<!-- MEMES:END -->
 
 ---
 

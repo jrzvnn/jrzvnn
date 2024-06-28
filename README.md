@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wtf](http://9gag.com/gag/an7Bmjb)
- - 😝 [Street performers in London these days](http://9gag.com/gag/avyLjLO)
- - 💣 [Bruh!!\ud83d\ude02](http://9gag.com/gag/aVvXyD8)
+ - 😝 [Employees block woman trying to leave without paying](http://9gag.com/gag/ajPnwy0)
+ - 😝 [If you don\u2019t believe me, just try it out\u2026](http://9gag.com/gag/ae9p88O)
+ - 💣 [Judged by color](http://9gag.com/gag/ayNnAy8)
  - 😝 [I don&#39;t think he knows what he said](http://9gag.com/gag/aZZN6jp)
- - 👉 [Oh look, a rope](http://9gag.com/gag/aRBVWYM)<!-- MEMES:END -->
+ - 👉 [Where are this kind of teachers when im in school??](http://9gag.com/gag/a87jgDd)<!-- MEMES:END -->
 
 ---
 

@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Be comfortable!](http://9gag.com/gag/agmNDL6)
- - 😝 [Judged by color](http://9gag.com/gag/ayNnAy8)
- - 💣 [Texas lady is not amused](http://9gag.com/gag/a2vqpVE)
- - 😝 [What did he did just say? Something about border?](http://9gag.com/gag/a4PLX76)
- - 👉 [Racoon](http://9gag.com/gag/aNDKMGv)<!-- MEMES:END -->
+ - 😝 [Bruh!!\ud83d\ude02](http://9gag.com/gag/aVvXyD8)
+ - 😝 [If you don\u2019t believe me, just try it out\u2026](http://9gag.com/gag/ae9p88O)
+ - 💣 [What did he did just say? Something about border?](http://9gag.com/gag/a4PLX76)
+ - 😝 [Turkish wives pranks their husbands let them wearing same clothes](http://9gag.com/gag/a9yPeQZ)
+ - 👉 [J.K. Trolling](http://9gag.com/gag/abAbnNL)<!-- MEMES:END -->
 
 ---
 

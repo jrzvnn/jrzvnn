@@ -162,10 +162,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TeamViewer warns that its corporate environment was breached in a cyberattack on June 26; NCC Group claims that TeamViewer was breached by an APT hacking group &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/240628/p10#a240628p10)
  - [Apple Vision Pro finally on sale outside the US](https://appleinsider.com/articles/24/06/28/apple-vision-pro-finally-on-sale-outside-the-us?utm_medium=rss)
  - [Baidu unveils an upgraded version of its AI model, Ernie 4.0 Turbo, and says Ernie has reached 300M users since its launch &lpar;Reuters&rpar;](http://www.techmeme.com/240628/p9#a240628p9)
  - [Here’s our best look yet at Samsung’s latest Galaxy Z foldables](https://www.theverge.com/2024/6/28/24188017/samsung-galaxy-z-flip-fold-6-leak-renders-colors-unpacked)
- - [Fix This Embarrassing iPhone Photo Bug by Updating to iOS 17.5.1](https://www.cnet.com/tech/services-and-software/fix-this-embarassing-iphone-photo-bug-by-updating-to-ios-17-5-1/#ftag=CAD590a51e)
  - [&#39;The Acolyte&#39; and the Long-Awaited Death of Review-Bombing](https://www.wired.com/story/the-acolyte-and-the-long-awaited-death-of-review-bombing/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

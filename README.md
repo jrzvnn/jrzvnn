@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Atlanta Dog fights 13 coyotes attacking his sheep. Kills 8 on the spot. Goes missing 4 days. Comes home after killing the remaining 5.](http://9gag.com/gag/a87jNBO)
- - 😝 [Summertime](http://9gag.com/gag/axyGqBM)
- - 💣 [I mean, Who wouldn&#39;t take the cookies?](http://9gag.com/gag/a4PLye6)
- - 😝 [J.K. Trolling](http://9gag.com/gag/abAbnNL)
- - 👉 [What did he did just say? Something about border?](http://9gag.com/gag/a4PLX76)<!-- MEMES:END -->
+ - 😝 [If you don\u2019t believe me, just try it out\u2026](http://9gag.com/gag/ae9p88O)
+ - 😝 [What did he did just say? Something about border?](http://9gag.com/gag/a4PLX76)
+ - 💣 [Wtf](http://9gag.com/gag/an7Bmjb)
+ - 😝 [Man shows how to interact with strangers easily](http://9gag.com/gag/a4PLOrm)
+ - 👉 [Yoo..wtf](http://9gag.com/gag/agmNwqW)<!-- MEMES:END -->
 
 ---
 

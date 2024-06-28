@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I don&#39;t think he knows what he said](http://9gag.com/gag/aZZN6jp)
- - 😝 [I wish I were half the man HE is\u2026.](http://9gag.com/gag/amo8Zz2)
- - 💣 [Based on a true story](http://9gag.com/gag/aRBVbOq)
- - 😝 [Amazon prime](http://9gag.com/gag/aRBVbnM)
- - 👉 [This could be a nice Toyota advertisement](http://9gag.com/gag/a87jZd1)<!-- MEMES:END -->
+ - 😝 [Cheers](http://9gag.com/gag/aKGBMw1)
+ - 😝 [If you don\u2019t believe me, just try it out\u2026](http://9gag.com/gag/ae9p88O)
+ - 💣 [Israeli Supreme Court rules that the military must begin drafting ultra-Orthodox men. First drafts are already in progress.](http://9gag.com/gag/aGyRX9G)
+ - 😝 [Volley ball coach gets caught tryna get with a minor, and the camera man films it as smooth as a dolly.](http://9gag.com/gag/aNDKNDr)
+ - 👉 [Wtf](http://9gag.com/gag/an7Bmjb)<!-- MEMES:END -->
 
 ---
 

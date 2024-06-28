@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Amazon prime](http://9gag.com/gag/aRBVbnM)
- - 😝 [Wtf](http://9gag.com/gag/an7Bmjb)
- - 💣 [Democrats after the Biden-Trump debate!](http://9gag.com/gag/an7B6VE)
- - 😝 [This could be a nice Toyota advertisement](http://9gag.com/gag/a87jZd1)
- - 👉 [Hmmmmm](http://9gag.com/gag/aByrAAO)<!-- MEMES:END -->
+ - 😝 [Based on a true story](http://9gag.com/gag/aRBVbOq)
+ - 😝 [J.K. Trolling](http://9gag.com/gag/abAbnNL)
+ - 💣 [Hmmmmm](http://9gag.com/gag/aByrAAO)
+ - 😝 [`extra credits`](http://9gag.com/gag/apRBO4D)
+ - 👉 [All hail the white dragon](http://9gag.com/gag/azxVW5j)<!-- MEMES:END -->
 
 ---
 

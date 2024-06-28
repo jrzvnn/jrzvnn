@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cringe but wood](http://9gag.com/gag/apRBOND)
- - 😝 [What happens when you get infected with Guinea worm. Credit : Zack D. Films](http://9gag.com/gag/ajPnzMq)
- - 💣 [Bloody Btsh](http://9gag.com/gag/aKGBoW6)
- - 😝 [Israeli Supreme Court rules that the military must begin drafting ultra-Orthodox men. First drafts are already in progress.](http://9gag.com/gag/aGyRX9G)
- - 👉 [I don&#39;t think he knows what he said](http://9gag.com/gag/aZZN6jp)<!-- MEMES:END -->
+ - 😝 [Nuff Said](http://9gag.com/gag/aVvXp8n)
+ - 😝 [Lol.](http://9gag.com/gag/aGyRm8Z)
+ - 💣 [Israeli Supreme Court rules that the military must begin drafting ultra-Orthodox men. First drafts are already in progress.](http://9gag.com/gag/aGyRX9G)
+ - 😝 [We do](http://9gag.com/gag/a1mYjmY)
+ - 👉 [Bloody Btsh](http://9gag.com/gag/aKGBoW6)<!-- MEMES:END -->
 
 ---
 

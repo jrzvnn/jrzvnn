@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Where are this kind of teachers when im in school??](http://9gag.com/gag/a87jgDd)
- - 😝 [If you don\u2019t believe me, just try it out\u2026](http://9gag.com/gag/ae9p88O)
- - 💣 [Which hawk do you prefer?](http://9gag.com/gag/aXPX316)
- - 😝 [Israeli Supreme Court rules that the military must begin drafting ultra-Orthodox men. First drafts are already in progress.](http://9gag.com/gag/aGyRX9G)
- - 👉 [I don&#39;t think he knows what he said](http://9gag.com/gag/aZZN6jp)<!-- MEMES:END -->
+ - 😝 [3.. 2.. 1..](http://9gag.com/gag/a1mYj0w)
+ - 😝 [Cheers](http://9gag.com/gag/aKGBMw1)
+ - 💣 [If you don\u2019t believe me, just try it out\u2026](http://9gag.com/gag/ae9p88O)
+ - 😝 [Cringe but wood](http://9gag.com/gag/apRBOND)
+ - 👉 [Yoo..wtf](http://9gag.com/gag/agmNwqW)<!-- MEMES:END -->
 
 ---
 

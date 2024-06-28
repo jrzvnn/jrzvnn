@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [3.. 2.. 1..](http://9gag.com/gag/a1mYj0w)
- - 😝 [Cheers](http://9gag.com/gag/aKGBMw1)
- - 💣 [If you don\u2019t believe me, just try it out\u2026](http://9gag.com/gag/ae9p88O)
- - 😝 [Cringe but wood](http://9gag.com/gag/apRBOND)
- - 👉 [Yoo..wtf](http://9gag.com/gag/agmNwqW)<!-- MEMES:END -->
+ - 😝 [Based on a true story](http://9gag.com/gag/aRBVbOq)
+ - 😝 [Amazon prime](http://9gag.com/gag/aRBVbnM)
+ - 💣 [Wtf](http://9gag.com/gag/an7Bmjb)
+ - 😝 [This could be a nice Toyota advertisement](http://9gag.com/gag/a87jZd1)
+ - 👉 [Hmmmmm](http://9gag.com/gag/aByrAAO)<!-- MEMES:END -->
 
 ---
 

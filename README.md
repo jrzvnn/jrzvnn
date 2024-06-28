@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Israeli Supreme Court rules that the military must begin drafting ultra-Orthodox men. First drafts are already in progress.](http://9gag.com/gag/aGyRX9G)
- - 😝 [I don&#39;t think he knows what he said](http://9gag.com/gag/aZZN6jp)
- - 💣 [Not today](http://9gag.com/gag/agmNWz1)
- - 😝 [Bruh!!\ud83d\ude02](http://9gag.com/gag/aVvXyD8)
- - 👉 [Bloody Btsh](http://9gag.com/gag/aKGBoW6)<!-- MEMES:END -->
+ - 😝 [Amazon prime](http://9gag.com/gag/aRBVbnM)
+ - 😝 [Wtf](http://9gag.com/gag/an7Bmjb)
+ - 💣 [Democrats after the Biden-Trump debate!](http://9gag.com/gag/an7B6VE)
+ - 😝 [This could be a nice Toyota advertisement](http://9gag.com/gag/a87jZd1)
+ - 👉 [Hmmmmm](http://9gag.com/gag/aByrAAO)<!-- MEMES:END -->
 
 ---
 

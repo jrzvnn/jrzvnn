@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Absolutely shameless](http://9gag.com/gag/a6ZL68b)
- - 😝 [Bruh!!\ud83d\ude02](http://9gag.com/gag/aVvXyD8)
- - 💣 [London situation](http://9gag.com/gag/aRBVp5A)
- - 😝 [Wtf](http://9gag.com/gag/an7Bmjb)
- - 👉 [Oh look, a rope](http://9gag.com/gag/aRBVWYM)<!-- MEMES:END -->
+ - 😝 [Racoon](http://9gag.com/gag/aNDKMGv)
+ - 😝 [Bro missed](http://9gag.com/gag/avyLqm5)
+ - 💣 [Texas lady is not amused](http://9gag.com/gag/a2vqpVE)
+ - 😝 [Footage of the Roman Empire using Midjourney and the Luma Dream Machine](http://9gag.com/gag/aByr5q2)
+ - 👉 [Food thief has been defeated](http://9gag.com/gag/aryRL5K)<!-- MEMES:END -->
 
 ---
 

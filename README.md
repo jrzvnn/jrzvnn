@@ -164,9 +164,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [ChatGPT and Microsoft&#39;s Copilot seemingly drew on conservative misinformation to repeat a false claim about CNN&#39;s debate broadcast being on a &quot;1-2 minute delay&quot; &lpar;Ben Goggin/NBC News&rpar;](http://www.techmeme.com/240628/p2#a240628p2)
  - [The EFF, the Center for Democracy &amp; Technology, and others file a brief saying the US law forcing ByteDance to sell TikTok or face a ban is unconstitutional &lpar;Electronic Frontier Foundation&rpar;](http://www.techmeme.com/240628/p1#a240628p1)
+ - [Toys &#39;R&#39; Us Kids Meet AI in a Video Using Sora From OpenAI](https://www.cnet.com/tech/services-and-software/toys-r-us-kids-meet-ai-in-a-video-using-sora-from-openai/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for June 28, #383](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-28-383/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for June 28, #1105](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-june-28-1105/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for June 28, #117](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-28-117/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for June 28, #1105](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-june-28-1105/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -162,7 +162,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EVs still have major quality problems, and it’s mostly about the software](https://www.theverge.com/2024/6/28/24188027/evs-still-have-major-quality-problems-and-its-mostly-about-the-software)
+ - [EVs still have major quality problems, and it’s mostly about the software](https://www.theverge.com/2024/6/28/24188027/ev-quality-software-probalems-electric-vehicles)
  - [Sources: Apple may use electrically induced adhesive debonding to make batteries easier to replace, starting with one iPhone 16 model, to comply with EU rules &lpar;The Information&rpar;](http://www.techmeme.com/240628/p12#a240628p12)
  - [Conspiracy Theorists Aren’t Even Bothering With Biden’s Debate Performance](https://www.wired.com/story/trump-biden-debate-conspiracy/)
  - [The 5 Best Kitchen Scales Rated by a Former Chocolatier &lpar;2024&rpar;](https://www.wired.com/gallery/best-kitchen-scales/)

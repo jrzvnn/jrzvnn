@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Surface Pro Copilot+ review: the best Microsoft tablet yet, with a versatile Flex keyboard and decent AI features, but has noticeable heat and fan noise issues &lpar;Devindra Hardawar/Engadget&rpar;](http://www.techmeme.com/240628/p8#a240628p8)
- - [EU hits back at Apple withholding Apple Intelligence from the region](https://appleinsider.com/articles/24/06/28/eu-hits-back-at-apple-withholding-apple-intelligence-from-the-region?utm_medium=rss)
- - [Inside a Violent Gang&#39;s Ruthless Crypto-Stealing Home Invasion Spree](https://www.wired.com/story/crypto-home-invasion-crime-ring/)
- - [This Viral AI Chatbot Will Lie and Say It’s Human](https://www.wired.com/story/bland-ai-chatbot-human/)
- - [Apple launches the Vision Pro in mainland China, Hong Kong, Japan, and Singapore, the first time the device has been officially available outside of the US &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/240628/p7#a240628p7)<!-- TECH:END -->
+ - [Here’s our best look yet at Samsung’s latest Galaxy Z foldables](https://www.theverge.com/2024/6/28/24188017/samsung-galaxy-z-flip-fold-6-leak-renders-colors-unpacked)
+ - [Fix This Embarrassing iPhone Photo Bug by Updating to iOS 17.5.1](https://www.cnet.com/tech/services-and-software/fix-this-embarassing-iphone-photo-bug-by-updating-to-ios-17-5-1/#ftag=CAD590a51e)
+ - [Best Internet Providers in Asheville, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-asheville-nc/#ftag=CAD590a51e)
+ - [Framework Laptop 16, six months later](https://www.theverge.com/24185827/framework-laptop-16-six-months-later-review)
+ - [6 Ways to Lower Your Energy Bills in a Texas Summer](https://www.cnet.com/how-to/6-ways-to-lower-your-energy-bills-in-a-texas-summer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

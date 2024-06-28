@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Based on a true story](http://9gag.com/gag/aRBVbOq)
- - 😝 [J.K. Trolling](http://9gag.com/gag/abAbnNL)
- - 💣 [Hmmmmm](http://9gag.com/gag/aByrAAO)
- - 😝 [`extra credits`](http://9gag.com/gag/apRBO4D)
- - 👉 [All hail the white dragon](http://9gag.com/gag/azxVW5j)<!-- MEMES:END -->
+ - 😝 [Friday mood](http://9gag.com/gag/a34LmOQ)
+ - 😝 [Cringe but wood](http://9gag.com/gag/apRBOND)
+ - 💣 [Wtf](http://9gag.com/gag/an7Bmjb)
+ - 😝 [I don&#39;t think he knows what he said](http://9gag.com/gag/aZZN6jp)
+ - 👉 [Bloody Btsh](http://9gag.com/gag/aKGBoW6)<!-- MEMES:END -->
 
 ---
 

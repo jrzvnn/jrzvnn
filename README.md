@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Racoon](http://9gag.com/gag/aNDKMGv)
+ - 😝 [Impressive clouds](http://9gag.com/gag/a7obRee)
  - 😝 [Bro missed](http://9gag.com/gag/avyLqm5)
- - 💣 [Texas lady is not amused](http://9gag.com/gag/a2vqpVE)
- - 😝 [Footage of the Roman Empire using Midjourney and the Luma Dream Machine](http://9gag.com/gag/aByr5q2)
- - 👉 [Food thief has been defeated](http://9gag.com/gag/aryRL5K)<!-- MEMES:END -->
+ - 💣 [Food thief has been defeated](http://9gag.com/gag/aryRL5K)
+ - 😝 [This man&#39;s a legend](http://9gag.com/gag/apRBMG8)
+ - 👉 [Atlanta Dog fights 13 coyotes attacking his sheep. Kills 8 on the spot. Goes missing 4 days. Comes home after killing the remaining 5.](http://9gag.com/gag/a87jNBO)<!-- MEMES:END -->
 
 ---
 

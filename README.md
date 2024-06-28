@@ -162,11 +162,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [We Spent Thousands of Hours Listening to Find the Best Wireless Headphones &lpar;2024&rpar;](https://www.wired.com/gallery/best-wireless-headphones/)
  - [AT&amp;T Next Up Anytime lets you get three phone upgrades per year, but it’s not cheap](https://www.theverge.com/2024/6/28/24188060/att-smartphones-next-up-anytime-upgrade)
  - [The Verge’s summer ‘in’ / ‘out’ list](https://www.theverge.com/24188055/the-verge-summer-in-out-list-trends)
  - [Best MacBook Accessories We’ve Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/story/best-macbook-accessories/)
- - [Frost Bank: 2024 Home Equity Review](https://www.cnet.com/personal-finance/mortgages/frost-bank/#ftag=CAD590a51e)
- - [Rise Science Review: Is This Sleep App Really Worth It?](https://www.cnet.com/health/sleep/rise-science-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Frost Bank: 2024 Home Equity Review](https://www.cnet.com/personal-finance/mortgages/frost-bank/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

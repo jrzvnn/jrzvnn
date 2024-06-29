@@ -171,11 +171,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nuff Said](http://9gag.com/gag/aVvXp8n)
- - 😝 [Bloody Btsh](http://9gag.com/gag/aKGBoW6)
- - 💣 [Where are this kind of teachers when im in school??](http://9gag.com/gag/a87jgDd)
- - 😝 [I don&#39;t think he knows what he said](http://9gag.com/gag/aZZN6jp)
- - 👉 [Cringe but wood](http://9gag.com/gag/apRBOND)<!-- MEMES:END -->
+ - 😝 [Where are this kind of teachers when im in school??](http://9gag.com/gag/a87jgDd)
+ - 😝 [Cheers](http://9gag.com/gag/aKGBMw1)
+ - 💣 [There is no way\u2026](http://9gag.com/gag/azxV0gZ)
+ - 😝 [Cringe but wood](http://9gag.com/gag/apRBOND)
+ - 👉 [Mom had enough and kicked 20yo college daughter out of her house for trying to &#39;educate&#39; her family about their straight white privileges](http://9gag.com/gag/avyLKBX)<!-- MEMES:END -->
 
 ---
 

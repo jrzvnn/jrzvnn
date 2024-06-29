@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [All hail the white dragon](http://9gag.com/gag/azxVW5j)
- - 😝 [J.K. Trolling](http://9gag.com/gag/abAbnNL)
- - 💣 [Be comfortable!](http://9gag.com/gag/agmNDL6)
- - 😝 [The council of men approved...](http://9gag.com/gag/azxVnwK)
- - 👉 [There is no way\u2026](http://9gag.com/gag/azxV0gZ)<!-- MEMES:END -->
+ - 😝 [Israeli Supreme Court rules that the military must begin drafting ultra-Orthodox men. First drafts are already in progress.](http://9gag.com/gag/aGyRX9G)
+ - 😝 [Nuff Said](http://9gag.com/gag/aVvXp8n)
+ - 💣 [Cheers](http://9gag.com/gag/aKGBMw1)
+ - 😝 [This part was not shown to the audience at the end of the debate](http://9gag.com/gag/aYQw93m)
+ - 👉 [That\u2019s one way to un alive your self](http://9gag.com/gag/a5QK4Bq)<!-- MEMES:END -->
 
 ---
 

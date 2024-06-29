@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t waste your time, you can&#39;t fix her](http://9gag.com/gag/azxVNEm)
- - 😝 [Where are this kind of teachers when im in school??](http://9gag.com/gag/a87jgDd)
- - 💣 [Mom had enough and kicked 20yo college daughter out of her house for trying to &#39;educate&#39; her family about their straight white privileges](http://9gag.com/gag/avyLKBX)
- - 😝 [LOL! This is an actual magazine cover.](http://9gag.com/gag/abAb9dO)
- - 👉 [There is no way\u2026](http://9gag.com/gag/azxV0gZ)<!-- MEMES:END -->
+ - 😝 [Mom had enough and kicked 20yo college daughter out of her house for trying to &#39;educate&#39; her family about their straight white privileges](http://9gag.com/gag/avyLKBX)
+ - 😝 [And nobody else posts memes about it as much either](http://9gag.com/gag/abAbnQv)
+ - 💣 [Oh man...](http://9gag.com/gag/amo8ez4)
+ - 😝 [Be comfortable!](http://9gag.com/gag/agmNDL6)
+ - 👉 [Friday mood](http://9gag.com/gag/a34LmOQ)<!-- MEMES:END -->
 
 ---
 

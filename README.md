@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Imagine if this is canon](http://9gag.com/gag/aQznLwd)
+ - 😝 [I don&#39;t think he knows what he said](http://9gag.com/gag/aZZN6jp)
  - 😝 [This part was not shown to the audience at the end of the debate](http://9gag.com/gag/aYQw93m)
  - 💣 [Which one of you was that?](http://9gag.com/gag/avyLbXM)
- - 😝 [J.K. Trolling](http://9gag.com/gag/abAbnNL)
+ - 😝 [What is that supposed to be?](http://9gag.com/gag/aPAGOXg)
  - 👉 [Entitled douche](http://9gag.com/gag/aXPXD3d)<!-- MEMES:END -->
 
 ---

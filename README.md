@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alphabet&#39;s Verily closes its R&amp;D centers in Israel after launching them in August 2021, as part of Alphabet&#39;s decision to concentrate all R&amp;D activity in the US &lpar;CTech&rpar;](http://www.techmeme.com/240629/p12#a240629p12)
  - [Save 51% on Beats Studio Pro Headphones at Woot Right Now](https://www.cnet.com/deals/save-51on-beats-studio-pro-headphones-at-woot-right-now/#ftag=CAD590a51e)
  - [6 Foods You Should Never Cook in the Air Fryer](https://www.cnet.com/how-to/6-foods-you-should-never-cook-in-an-air-fryer/#ftag=CAD590a51e)
  - [Uber and Lyft now required to pay Massachusetts rideshare drivers $32 an hour](https://www.theverge.com/2024/6/29/24188851/uber-lyft-driver-minimum-wage-settlement-massachusetts-benefits-healthcare-sick-leave)
- - [Is There Hidden Mold in Your Home? Check These 7 Common Places](https://www.cnet.com/how-to/is-there-hidden-mold-in-your-home-check-these-7-common-places/#ftag=CAD590a51e)
- - [Don&#39;t Miss Mattress Firm&#39;s Fourth of July Sale Happening Now](https://www.cnet.com/deals/mattress-firm-4th-of-july-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Is There Hidden Mold in Your Home? Check These 7 Common Places](https://www.cnet.com/how-to/is-there-hidden-mold-in-your-home-check-these-7-common-places/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

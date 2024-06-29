@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wyd](http://9gag.com/gag/adBpGVB)
- - 😝 [There is no way\u2026](http://9gag.com/gag/azxV0gZ)
- - 💣 [Man went on a dating show, says he is a cop and immediately half the women refuse to date him because `I want to stick with the Code`](http://9gag.com/gag/adBpmGN)
- - 😝 [Israeli Supreme Court rules that the military must begin drafting ultra-Orthodox men. First drafts are already in progress.](http://9gag.com/gag/aGyRX9G)
- - 👉 [Oh man...](http://9gag.com/gag/amo8ez4)<!-- MEMES:END -->
+ - 😝 [Cringe but wood](http://9gag.com/gag/apRBOND)
+ - 😝 [Bruh!!\ud83d\ude02](http://9gag.com/gag/aVvXyD8)
+ - 💣 [There is no way\u2026](http://9gag.com/gag/azxV0gZ)
+ - 😝 [Bloody Btsh](http://9gag.com/gag/aKGBoW6)
+ - 👉 [This part was not shown to the audience at the end of the debate](http://9gag.com/gag/aYQw93m)<!-- MEMES:END -->
 
 ---
 

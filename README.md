@@ -161,10 +161,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Filings and DOJ officials describe how a gang threatened, assaulted, and tortured 11 victims in likely the worst crypto-focused serial extortion case in the US &lpar;Wired&rpar;](http://www.techmeme.com/240629/p6#a240629p6)
- - [Security News This Week: Google Is Piloting Face Recognition for Office Security](https://www.wired.com/story/google-face-recognition-office-safety-security-roundup/)
  - [Best Amazon Deals: Save Big on New Tech, Home Goods, Outdoor Gear and More](https://www.cnet.com/deals/best-amazon-deals-save-big-on-new-tech-home-goods-outdoor-gear-under-100/#ftag=CAD590a51e)
  - [You Asked How to Use iPhone&#39;s iMessage on Windows. We Have Answers](https://www.cnet.com/tech/services-and-software/you-asked-how-to-use-iphones-imessage-on-windows-we-have-answers/#ftag=CAD590a51e)
- - [Before iOS 18 Is Released This Fall, Don&#39;t Miss These iOS 17.2 Features](https://www.cnet.com/tech/services-and-software/before-ios-18-is-released-this-fall-dont-miss-these-ios-17-2-features/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Before iOS 18 Is Released This Fall, Don&#39;t Miss These iOS 17.2 Features](https://www.cnet.com/tech/services-and-software/before-ios-18-is-released-this-fall-dont-miss-these-ios-17-2-features/#ftag=CAD590a51e)
+ - [27 Best Fourth of July Sales on WIRED-Approved Gear &lpar;2024&rpar;](https://www.wired.com/story/4th-of-july-sales-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

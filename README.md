@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Every now and then I rewatch this](http://9gag.com/gag/aAypnwR)
- - 😝 [I think i made a new friend. Racism uniting people.](http://9gag.com/gag/avyLYnX)
- - 💣 [Don&#39;t waste your time, you can&#39;t fix her](http://9gag.com/gag/azxVNEm)
- - 😝 [This actually explains a lot](http://9gag.com/gag/aAypWEE)
- - 👉 [Pressing reset button in racing game be like](http://9gag.com/gag/aByrqo2)<!-- MEMES:END -->
+ - 😝 [He&#39;s not the one, And I know you&#39;re not.](http://9gag.com/gag/ae9poxB)
+ - 😝 [Uh oh....](http://9gag.com/gag/agmNWVK)
+ - 💣 [How to ruin everybodys day](http://9gag.com/gag/aPAGOvn)
+ - 😝 [Nuff Said](http://9gag.com/gag/aVvXp8n)
+ - 👉 [Man went on a dating show, says he is a cop and immediately half the women refuse to date him because `I want to stick with the Code`](http://9gag.com/gag/adBpmGN)<!-- MEMES:END -->
 
 ---
 

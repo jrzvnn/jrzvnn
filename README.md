@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nuff Said](http://9gag.com/gag/aVvXp8n)
- - 😝 [Uh oh....](http://9gag.com/gag/agmNWVK)
- - 💣 [If you don\u2019t believe me, just try it out\u2026](http://9gag.com/gag/ae9p88O)
- - 😝 [Entitled douche](http://9gag.com/gag/aXPXD3d)
- - 👉 [That\u2019s one way to un alive your self](http://9gag.com/gag/a5QK4Bq)<!-- MEMES:END -->
+ - 😝 [Powerful](http://9gag.com/gag/aD2mB1Z)
+ - 😝 [I think i made a new friend. Racism uniting people.](http://9gag.com/gag/avyLYnX)
+ - 💣 [This actually explains a lot](http://9gag.com/gag/aAypWEE)
+ - 😝 [Which one of you was that?](http://9gag.com/gag/avyLbXM)
+ - 👉 [Pressing reset button in racing game be like](http://9gag.com/gag/aByrqo2)<!-- MEMES:END -->
 
 ---
 

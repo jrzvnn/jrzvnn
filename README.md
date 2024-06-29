@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save Money on AC This Summer by Setting Your Thermostat Higher Than Usual](https://www.cnet.com/home/energy-and-utilities/save-money-on-ac-this-summer-by-setting-your-thermostat-higher-than-usual/#ftag=CAD590a51e)
- - [Coldplay at Glastonbury 2024: Livestream Their Headline Festival Set From Anywhere](https://www.cnet.com/tech/services-and-software/coldplay-at-glastonbury-2024-livestream-their-headline-festival-set-from-anywhere/#ftag=CAD590a51e)
- - [What Color Are Your Sunglass Lenses? It Matters More Than You Think](https://www.cnet.com/health/personal-care/the-color-of-your-sunglasses-lenses-matters/#ftag=CAD590a51e)
+ - [18 Best Fourth of July Mattress Deals &lpar;2024&rpar;](https://www.wired.com/story/best-mattress-deals-july-2024/)
  - [The 10 Best Mesh Wi-Fi Routers of 2024](https://www.wired.com/story/best-mesh-wifi-routers/)
- - [You’re Using Your Electric Toothbrush Wrong. Common Mistakes and How to Do It Right](https://www.cnet.com/health/personal-care/youre-using-your-electric-toothbrush-wrong-common-mistakes-and-how-to-do-it-right/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to manage deleted files on iOS, iPadOS, and macOS](https://www.theverge.com/24188104/ios-icloud-iphone-mac-delete-files)
+ - [How some doctors are using the Apple Watch to diagnose and help their patients manage medical conditions, despite the availability of FDA-approved devices &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/240629/p7#a240629p7)
+ - [I’m Obsessed With My Water Bottle Bag](https://www.wired.com/story/water-bottle-bag-rave/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

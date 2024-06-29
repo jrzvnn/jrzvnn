@@ -170,10 +170,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Nuff Said](http://9gag.com/gag/aVvXp8n)
- - 😝 [How to ruin everybodys day](http://9gag.com/gag/aPAGOvn)
- - 💣 [A phone bot far m in action](http://9gag.com/gag/adBpm1D)
- - 😝 [Man went on a dating show, says he is a cop and immediately half the women refuse to date him because `I want to stick with the Code`](http://9gag.com/gag/adBpmGN)
- - 👉 [Mom had enough and kicked 20yo college daughter out of her house for trying to &#39;educate&#39; her family about their straight white privileges](http://9gag.com/gag/avyLKBX)<!-- MEMES:END -->
+ - 😝 [Uh oh....](http://9gag.com/gag/agmNWVK)
+ - 💣 [If you don\u2019t believe me, just try it out\u2026](http://9gag.com/gag/ae9p88O)
+ - 😝 [Entitled douche](http://9gag.com/gag/aXPXD3d)
+ - 👉 [That\u2019s one way to un alive your self](http://9gag.com/gag/a5QK4Bq)<!-- MEMES:END -->
 
 ---
 

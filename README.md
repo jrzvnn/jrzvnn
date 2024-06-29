@@ -172,8 +172,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [All hail the white dragon](http://9gag.com/gag/azxVW5j)
  - 😝 [The council of men approved...](http://9gag.com/gag/azxVnwK)
  - 💣 [Sauron&#39;s new ring that cannot be destroyed even on the Mount of Doom](http://9gag.com/gag/adBpmq9)
- - 😝 [J.K. Trolling](http://9gag.com/gag/abAbnNL)
- - 👉 [Be comfortable!](http://9gag.com/gag/agmNDL6)<!-- MEMES:END -->
+ - 😝 [Be comfortable!](http://9gag.com/gag/agmNDL6)
+ - 👉 [J.K. Trolling](http://9gag.com/gag/abAbnNL)<!-- MEMES:END -->
 
 ---
 

@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Redbox&#39;s owner, Chicken Soup for the Soul Entertainment, files for bankruptcy protection; Chicken Soup took on $325M in debt when it acquired Redbox in 2022 &lpar;Janko Roettgers/The Verge&rpar;](http://www.techmeme.com/240629/p9#a240629p9)
+ - [Redbox’s owner files for bankruptcy after repeatedly missing payments and payroll](https://www.theverge.com/2024/6/29/24188785/redbox-bankruptcy-filing-dvds-chicken-soup-soul-entertainment)
+ - [The US finalizes rules requiring custodial crypto platforms to report user transaction info to the IRS; DeFi platforms are exempt amid fierce crypto lobbying &lpar;Paul Kiernan/Wall Street Journal&rpar;](http://www.techmeme.com/240629/p8#a240629p8)
  - [18 Best Fourth of July Mattress Deals &lpar;2024&rpar;](https://www.wired.com/story/best-mattress-deals-july-2024/)
- - [Save Money on AC This Summer by Setting Your Thermostat Higher Than Usual](https://www.cnet.com/home/energy-and-utilities/save-money-on-ac-this-summer-by-setting-your-thermostat-higher-than-usual/#ftag=CAD590a51e)
- - [Coldplay at Glastonbury 2024: Livestream Their Headline Festival Set From Anywhere](https://www.cnet.com/tech/services-and-software/coldplay-at-glastonbury-2024-livestream-their-headline-festival-set-from-anywhere/#ftag=CAD590a51e)
- - [What Color Are Your Sunglass Lenses? It Matters More Than You Think](https://www.cnet.com/health/personal-care/the-color-of-your-sunglasses-lenses-matters/#ftag=CAD590a51e)
- - [The 10 Best Mesh Wi-Fi Routers of 2024](https://www.wired.com/story/best-mesh-wifi-routers/)<!-- TECH:END -->
+ - [Save Money on AC This Summer by Setting Your Thermostat Higher Than Usual](https://www.cnet.com/home/energy-and-utilities/save-money-on-ac-this-summer-by-setting-your-thermostat-higher-than-usual/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

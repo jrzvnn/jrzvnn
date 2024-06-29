@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cringe but wood](http://9gag.com/gag/apRBOND)
- - 😝 [The face you make when normies start infesting your niche hobbie](http://9gag.com/gag/apRBZMb)
- - 💣 [The wordplay coming out of M&amp;M\u2019s mouth is insane!](http://9gag.com/gag/adBpDWB)
  - 😝 [There is no way\u2026](http://9gag.com/gag/azxV0gZ)
- - 👉 [Mom had enough and kicked 20yo college daughter out of her house for trying to &#39;educate&#39; her family about their straight white privileges](http://9gag.com/gag/avyLKBX)<!-- MEMES:END -->
+ - 😝 [Bloody Btsh](http://9gag.com/gag/aKGBoW6)
+ - 💣 [SBI is a pest of gaming community](http://9gag.com/gag/aqy2qoY)
+ - 😝 [Cringe but wood](http://9gag.com/gag/apRBOND)
+ - 👉 [Israeli Supreme Court rules that the military must begin drafting ultra-Orthodox men. First drafts are already in progress.](http://9gag.com/gag/aGyRX9G)<!-- MEMES:END -->
 
 ---
 

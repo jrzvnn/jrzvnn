@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Phone to Buy for 2024](https://www.cnet.com/tech/mobile/best-phone/#ftag=CAD590a51e)
- - [Tour de France 2024: How to Watch a Free Livestream](https://www.cnet.com/tech/services-and-software/tour-de-france-2024-how-to-watch-a-free-livestream/#ftag=CAD590a51e)
- - [A look at the disastrous launch of Stable Diffusion 3, which struggles to generate correct human anatomy, and concerns over the tool&#39;s new and different license &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/240629/p5#a240629p5)
- - [Microsoft Surface Laptop 7th Edition review: great native app performance but emulated apps can be more battery intensive, and AI features feel gimmicky &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240629/p4#a240629p4)
- - [Hugging Face unveils Open LLM Leaderboard v2 that tests models across six benchmarks; Chinese models dominate the top 10 with Alibaba&#39;s Qwen taking the top spot &lpar;Dallin Grimm/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240629/p3#a240629p3)<!-- TECH:END -->
+ - [Best Amazon Deals: Save Big on New Tech, Home Goods, Outdoor Gear and More](https://www.cnet.com/deals/best-amazon-deals-save-big-on-new-tech-home-goods-outdoor-gear-under-100/#ftag=CAD590a51e)
+ - [You Asked How to Use iPhone&#39;s iMessage on Windows. We Have Answers](https://www.cnet.com/tech/services-and-software/you-asked-how-to-use-iphones-imessage-on-windows-we-have-answers/#ftag=CAD590a51e)
+ - [Before iOS 18 Is Released This Fall, Don&#39;t Miss These iOS 17.2 Features](https://www.cnet.com/tech/services-and-software/before-ios-18-is-released-this-fall-dont-miss-these-ios-17-2-features/#ftag=CAD590a51e)
+ - [27 Best Fourth of July Sales on WIRED-Approved Gear &lpar;2024&rpar;](https://www.wired.com/story/4th-of-july-sales-2024/)
+ - [Amazon Prime Invite-Only Deals Are Back for Prime Day 2024: What to Know](https://www.cnet.com/tech/amazon-prime-invite-only-deals-are-back-for-prime-day-2024-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

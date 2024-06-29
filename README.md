@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He&#39;s not the one, And I know you&#39;re not.](http://9gag.com/gag/ae9poxB)
- - 😝 [Uh oh....](http://9gag.com/gag/agmNWVK)
- - 💣 [How to ruin everybodys day](http://9gag.com/gag/aPAGOvn)
  - 😝 [Nuff Said](http://9gag.com/gag/aVvXp8n)
- - 👉 [Man went on a dating show, says he is a cop and immediately half the women refuse to date him because `I want to stick with the Code`](http://9gag.com/gag/adBpmGN)<!-- MEMES:END -->
+ - 😝 [How to ruin everybodys day](http://9gag.com/gag/aPAGOvn)
+ - 💣 [A phone bot far m in action](http://9gag.com/gag/adBpm1D)
+ - 😝 [Man went on a dating show, says he is a cop and immediately half the women refuse to date him because `I want to stick with the Code`](http://9gag.com/gag/adBpmGN)
+ - 👉 [Mom had enough and kicked 20yo college daughter out of her house for trying to &#39;educate&#39; her family about their straight white privileges](http://9gag.com/gag/avyLKBX)<!-- MEMES:END -->
 
 ---
 

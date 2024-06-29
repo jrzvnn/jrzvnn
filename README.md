@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [And nobody else posts memes about it as much either](http://9gag.com/gag/abAbnQv)
+ - 😝 [He&#39;s not the one, And I know you&#39;re not.](http://9gag.com/gag/ae9poxB)
+ - 💣 [LOL! This is an actual magazine cover.](http://9gag.com/gag/abAb9dO)
  - 😝 [Cringe but wood](http://9gag.com/gag/apRBOND)
- - 😝 [Mom had enough and kicked 20yo college daughter out of her house for trying to &#39;educate&#39; her family about their straight white privileges](http://9gag.com/gag/avyLKBX)
- - 💣 [This part was not shown to the audience at the end of the debate](http://9gag.com/gag/aYQw93m)
- - 😝 [Uh oh....](http://9gag.com/gag/agmNWVK)
- - 👉 [Bloody Btsh](http://9gag.com/gag/aKGBoW6)<!-- MEMES:END -->
+ - 👉 [That\u2019s one way to un alive your self](http://9gag.com/gag/a5QK4Bq)<!-- MEMES:END -->
 
 ---
 

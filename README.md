@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fortnite’s Metallica concert showed how sprawling the game has become](https://www.theverge.com/2024/6/29/24187226/fortnite-metallica-concert-interview)
- - [We Tried EveryPlate and Here&#39;s How It Compares to Other Meal Kits](https://www.wired.com/review/everyplate-meal-kit/)
- - [How NASA Is Using Machine Learning to Predict and Fight Wildfires](https://www.cnet.com/science/climate/how-nasa-is-using-machine-learning-to-predict-and-fight-wildfires/#ftag=CAD590a51e)
- - [Heat Waves Are Sweeping Across the US. This Clickable Map Provides a New Warning System](https://www.cnet.com/science/heat-waves-are-sweeping-across-the-us-this-clickable-map-provides-a-new-warning-system/#ftag=CAD590a51e)
- - [iPhone 16 Camera Rumors: Bigger Sensors, Better Wide-Angle and More](https://www.cnet.com/tech/mobile/iphone-16-camera-rumors-big-sensors-better-wide-angle-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Watch Euro 2024: Switzerland vs. Italy – Livestream Soccer From Anywhere](https://www.cnet.com/tech/services-and-software/how-to-watch-euro-2024-switzerland-vs-italy-livestream-soccer-from-anywhere/#ftag=CAD590a51e)
+ - [&#39;House of the Dragon&#39; Season 2 Release Schedule and How to Stream From Anywhere](https://www.cnet.com/tech/services-and-software/house-of-the-dragon-season-2-release-schedule-how-to-stream-from-anywhere/#ftag=CAD590a51e)
+ - [Best Streaming Deals for Students on Spotify, Hulu, Peacock and More](https://www.cnet.com/deals/best-streaming-deals-for-students-on-spotify-hulu-peacock-and-more/#ftag=CAD590a51e)
+ - [Say Hello to Creator-Built AI Chatbots on Instagram](https://www.wired.com/story/instagram-meta-creator-built-ai-chatbots/)
+ - [We Put 7 Food Steamers to the Test With Veggies and Dumplings &lpar;2024&rpar;](https://www.wired.com/story/best-food-steamers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

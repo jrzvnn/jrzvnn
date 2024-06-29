@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A chinese 4x4 tiger stoped working after hitting a curb during the bolivian coup of yesterday](http://9gag.com/gag/aoyjQEm)
- - 😝 [There is no way\u2026](http://9gag.com/gag/azxV0gZ)
- - 💣 [Cringe but wood](http://9gag.com/gag/apRBOND)
- - 😝 [What happens when you get infected with Guinea worm. Credit : Zack D. Films](http://9gag.com/gag/ajPnzMq)
- - 👉 [Mom had enough and kicked 20yo college daughter out of her house for trying to &#39;educate&#39; her family about their straight white privileges](http://9gag.com/gag/avyLKBX)<!-- MEMES:END -->
+ - 😝 [Bamboozled](http://9gag.com/gag/a87jBde)
+ - 😝 [Hmmmmm](http://9gag.com/gag/aByrAAO)
+ - 💣 [Democrats after the Biden-Trump debate!](http://9gag.com/gag/an7B6VE)
+ - 😝 [All hail the white dragon](http://9gag.com/gag/azxVW5j)
+ - 👉 [`extra credits`](http://9gag.com/gag/apRBO4D)<!-- MEMES:END -->
 
 ---
 

@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [All hail the white dragon](http://9gag.com/gag/azxVW5j)
- - 😝 [The council of men approved...](http://9gag.com/gag/azxVnwK)
- - 💣 [Sauron&#39;s new ring that cannot be destroyed even on the Mount of Doom](http://9gag.com/gag/adBpmq9)
- - 😝 [Be comfortable!](http://9gag.com/gag/agmNDL6)
- - 👉 [J.K. Trolling](http://9gag.com/gag/abAbnNL)<!-- MEMES:END -->
+ - 😝 [Where are this kind of teachers when im in school??](http://9gag.com/gag/a87jgDd)
+ - 😝 [LOL! This is an actual magazine cover.](http://9gag.com/gag/abAb9dO)
+ - 💣 [There is no way\u2026](http://9gag.com/gag/azxV0gZ)
+ - 😝 [Bloody Btsh](http://9gag.com/gag/aKGBoW6)
+ - 👉 [Don&#39;t waste your time, you can&#39;t fix her](http://9gag.com/gag/azxVNEm)<!-- MEMES:END -->
 
 ---
 

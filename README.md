@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A phone bot far m in action](http://9gag.com/gag/adBpm1D)
- - 😝 [LOL! This is an actual magazine cover.](http://9gag.com/gag/abAb9dO)
- - 💣 [Priority](http://9gag.com/gag/aAyp9DZ)
- - 😝 [Bloody Btsh](http://9gag.com/gag/aKGBoW6)
- - 👉 [There is no way\u2026](http://9gag.com/gag/azxV0gZ)<!-- MEMES:END -->
+ - 😝 [All hail the white dragon](http://9gag.com/gag/azxVW5j)
+ - 😝 [The council of men approved...](http://9gag.com/gag/azxVnwK)
+ - 💣 [Sauron&#39;s new ring that cannot be destroyed even on the Mount of Doom](http://9gag.com/gag/adBpmq9)
+ - 😝 [J.K. Trolling](http://9gag.com/gag/abAbnNL)
+ - 👉 [Be comfortable!](http://9gag.com/gag/agmNDL6)<!-- MEMES:END -->
 
 ---
 

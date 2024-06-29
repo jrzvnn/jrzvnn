@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [SBI is a pest of gaming community](http://9gag.com/gag/aqy2qoY)
- - 😝 [This part was not shown to the audience at the end of the debate](http://9gag.com/gag/aYQw93m)
- - 💣 [Malfunctioning fire suppression system has led to the release of hundreds of gallons of fire-fighting foam at the Vermont National Guard base in South Burlington.](http://9gag.com/gag/a1mY606)
- - 😝 [A phone bot far m in action](http://9gag.com/gag/adBpm1D)
- - 👉 [Nuff Said](http://9gag.com/gag/aVvXp8n)<!-- MEMES:END -->
+ - 😝 [What happens when you get infected with Guinea worm. Credit : Zack D. Films](http://9gag.com/gag/ajPnzMq)
+ - 😝 [Cops](http://9gag.com/gag/an7BoZE)
+ - 💣 [There is no way\u2026](http://9gag.com/gag/azxV0gZ)
+ - 😝 [Nuff Said](http://9gag.com/gag/aVvXp8n)
+ - 👉 [Cringe but wood](http://9gag.com/gag/apRBOND)<!-- MEMES:END -->
 
 ---
 

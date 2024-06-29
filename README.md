@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I don&#39;t think he knows what he said](http://9gag.com/gag/aZZN6jp)
+ - 😝 [Pressing reset button in racing game be like](http://9gag.com/gag/aByrqo2)
  - 😝 [There is no way\u2026](http://9gag.com/gag/azxV0gZ)
- - 💣 [Good news](http://9gag.com/gag/a7ob4y2)
- - 😝 [Nuff Said](http://9gag.com/gag/aVvXp8n)
- - 👉 [Cringe but wood](http://9gag.com/gag/apRBOND)<!-- MEMES:END -->
+ - 💣 [Don&#39;t waste your time, you can&#39;t fix her](http://9gag.com/gag/azxVNEm)
+ - 😝 [Entitled douche](http://9gag.com/gag/aXPXD3d)
+ - 👉 [I think i made a new friend. Racism uniting people.](http://9gag.com/gag/avyLYnX)<!-- MEMES:END -->
 
 ---
 

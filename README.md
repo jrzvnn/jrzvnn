@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple may be already lining up suppliers for a second Apple Vision headset](https://appleinsider.com/articles/24/06/29/apple-may-be-already-lining-up-suppliers-for-a-second-apple-vision-headset?utm_medium=rss)
- - [How to Make Google Maps Work for You While Traveling This Summer](https://www.cnet.com/tech/services-and-software/how-to-make-google-maps-work-for-you-while-traveling-this-summer/#ftag=CAD590a51e)
- - [The Ultimate Visual Guide to Protein: Making Sure You Eat Enough Each Day](https://www.cnet.com/health/nutrition/the-ultimate-visual-guide-to-protein-making-sure-you-eat-enough-eachd-ay/#ftag=CAD590a51e)
- - [Alphabet&#39;s Verily closes its R&amp;D centers in Israel after launching them in August 2021, as part of Alphabet&#39;s decision to concentrate all R&amp;D activity in the US &lpar;CTech&rpar;](http://www.techmeme.com/240629/p12#a240629p12)
- - [Save 51% on Beats Studio Pro Headphones at Woot Right Now](https://www.cnet.com/deals/save-51on-beats-studio-pro-headphones-at-woot-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Fourth of July Deal: Save Up to $1,000 on Samsung Partial-Sun TVs, Up to $3,500 on Full-Sun TVs](https://www.cnet.com/deals/fourth-of-july-deal-save-up-to-1000-on-samsung-partial-sun-tvs-up-to-3500-on-full-sun-tvs/#ftag=CAD590a51e)
+ - [Best Indoor Security Cameras for 2024](https://www.cnet.com/home/security/best-indoor-home-security-cameras/#ftag=CAD590a51e)
+ - [Best Air Fryer Toaster Ovens for 2024](https://www.cnet.com/home/kitchen-and-household/best-countertop-oven-and-air-fryer/#ftag=CAD590a51e)
+ - [Best Internet Providers in Savannah, Georgia](https://www.cnet.com/home/internet/best-internet-providers-in-savannah-ga/#ftag=CAD590a51e)
+ - [Apple may be already lining up suppliers for a second Apple Vision headset](https://appleinsider.com/articles/24/06/29/apple-may-be-already-lining-up-suppliers-for-a-second-apple-vision-headset?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

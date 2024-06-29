@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Uber and Lyft now required to pay Massachusetts rideshare drivers $32 an hour](https://www.theverge.com/2024/6/29/24188851/uber-lyft-driver-minimum-wage-settlement-massachusetts-benefits-healthcare-sick-leave)
+ - [Is There Hidden Mold in Your Home? Check These 7 Common Places](https://www.cnet.com/how-to/is-there-hidden-mold-in-your-home-check-these-7-common-places/#ftag=CAD590a51e)
+ - [Don&#39;t Miss Mattress Firm&#39;s Fourth of July Sale Happening Now](https://www.cnet.com/deals/mattress-firm-4th-of-july-2024/#ftag=CAD590a51e)
  - [An interview with Illia Polosukhin, a co-author of Google&#39;s Attention Is All You Need paper, on open-source AI, his Web3 company Near, &quot;user-owned AI&quot;, and more &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/240629/p11#a240629p11)
- - [Amazon’s last-gen Kindle Paperwhite is on sale for 50 bucks right now](https://www.theverge.com/2024/6/29/24188551/amazon-kindle-paperwhite-2018-10th-gen-ipad-deal-sale)
- - [Weekend specials: Cellular iPad 9th Gen drops to $189, OWC Thunderbolt Hub on sale for $118](https://appleinsider.com/articles/24/06/29/weekend-specials-cellular-ipad-9th-gen-drops-to-189-owc-thunderbolt-hub-on-sale-for-118?utm_medium=rss)
- - [Get a Cool 54% Off the Vtoman FlashSpeed 1000 Portable Power Station at Amazon](https://www.cnet.com/deals/get-a-cool-54-off-the-vtoman-flashspeed-1000-portable-power-station-at-amazon/#ftag=CAD590a51e)
- - [3 Anti-Aging Exercises That Will Help Boost and Maintain Your Health](https://www.cnet.com/health/fitness/anti-aging-exercises/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon’s last-gen Kindle Paperwhite is on sale for 50 bucks right now](https://www.theverge.com/2024/6/29/24188551/amazon-kindle-paperwhite-2018-10th-gen-ipad-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

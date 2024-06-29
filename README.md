@@ -169,9 +169,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Entitled douche](http://9gag.com/gag/aXPXD3d)
- - 😝 [I don&#39;t think he knows what he said](http://9gag.com/gag/aZZN6jp)
- - 💣 [Mom had enough and kicked 20yo college daughter out of her house for trying to &#39;educate&#39; her family about their straight white privileges](http://9gag.com/gag/avyLKBX)
+ - 😝 [Man went on a dating show, says he is a cop and immediately half the women refuse to date him because `I want to stick with the Code`](http://9gag.com/gag/adBpmGN)
+ - 😝 [Good news](http://9gag.com/gag/a7ob4y2)
+ - 💣 [LOL! This is an actual magazine cover.](http://9gag.com/gag/abAb9dO)
  - 😝 [This part was not shown to the audience at the end of the debate](http://9gag.com/gag/aYQw93m)
  - 👉 [He&#39;s not the one, And I know you&#39;re not.](http://9gag.com/gag/ae9poxB)<!-- MEMES:END -->
 

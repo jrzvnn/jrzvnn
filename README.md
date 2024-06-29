@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A phone bot far m in action](http://9gag.com/gag/adBpm1D)
+ - 😝 [If you don\u2019t believe me, just try it out\u2026](http://9gag.com/gag/ae9p88O)
  - 😝 [How to ruin everybodys day](http://9gag.com/gag/aPAGOvn)
- - 💣 [The debates.](http://9gag.com/gag/amo8jV9)
- - 😝 [Lol](http://9gag.com/gag/a87jBM1)
- - 👉 [Nuff Said](http://9gag.com/gag/aVvXp8n)<!-- MEMES:END -->
+ - 💣 [A phone bot far m in action](http://9gag.com/gag/adBpm1D)
+ - 😝 [That\u2019s one way to un alive your self](http://9gag.com/gag/a5QK4Bq)
+ - 👉 [Entitled douche](http://9gag.com/gag/aXPXD3d)<!-- MEMES:END -->
 
 ---
 

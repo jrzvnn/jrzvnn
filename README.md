@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Power Book II: Ghost&#39; Actors Discuss Diana and Dru Running for Their Lives](https://www.cnet.com/tech/services-and-software/power-book-ii-ghost-actors-discuss-diana-and-dru-running-for-their-lives/#ftag=CAD590a51e)
  - [Q&amp;A with Center for AI Safety&#39;s Dan Hendrycks about his work on California&#39;s AI safety bill, the backlash against the bill, advising xAI on safety, and more &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/240628/p28#a240628p28)
+ - [10 Tech Gifts My 5 Young-Adult Kids Loved](https://www.cnet.com/deals/10-tech-gifts-my-5-young-adult-kids-loved/#ftag=CAD590a51e)
  - [&#39;Zenless Zone Zero&#39; officially lands on iPhone &amp; iPad on July 4](https://appleinsider.com/articles/24/06/29/zenless-zone-zero-officially-lands-on-iphone-ipad-on-july-4?utm_medium=rss)
- - [Best iPhone 12 Cases for 2024](https://www.cnet.com/tech/mobile/best-iphone-12-cases/#ftag=CAD590a51e)
- - [Source: Microsoft told over a dozen Texas agencies and public universities that their emails were exposed in the Russian hack of Microsoft, disclosed in January &lpar;Jake Bleiberg/Bloomberg&rpar;](http://www.techmeme.com/240628/p27#a240628p27)
- - [A look at the possible impact of SCOTUS overturning Chevron deference and curbing federal agencies&#39; power on net neutrality, Big Tech regulation, and more &lpar;The Verge&rpar;](http://www.techmeme.com/240628/p26#a240628p26)<!-- TECH:END -->
+ - [Best iPhone 12 Cases for 2024](https://www.cnet.com/tech/mobile/best-iphone-12-cases/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

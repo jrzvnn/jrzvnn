@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Phone to Buy for 2024](https://www.cnet.com/tech/mobile/best-phone/#ftag=CAD590a51e)
  - [Tour de France 2024: How to Watch a Free Livestream](https://www.cnet.com/tech/services-and-software/tour-de-france-2024-how-to-watch-a-free-livestream/#ftag=CAD590a51e)
  - [A look at the disastrous launch of Stable Diffusion 3, which struggles to generate correct human anatomy, and concerns over the tool&#39;s new and different license &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/240629/p5#a240629p5)
  - [Microsoft Surface Laptop 7th Edition review: great native app performance but emulated apps can be more battery intensive, and AI features feel gimmicky &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240629/p4#a240629p4)
- - [Hugging Face unveils Open LLM leaderboard v2 that tests models across six benchmarks; Chinese models dominate the top 10 with Alibaba&#39;s Qwen taking the top spot &lpar;Dallin Grimm/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240629/p3#a240629p3)<!-- TECH:END -->
+ - [Hugging Face unveils Open LLM leaderboard v2 that tests models across six benchmarks; Chinese models dominate the top 10 with Alibaba&#39;s Qwen taking the top spot &lpar;Dallin Grimm/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240629/p3#a240629p3)
+ - [Indonesia&#39;s government declines to pay the $8M demanded by LockBit 3.0 for the ransomware attack that affected hundreds of ministries and public institutions &lpar;Chandra Asmara/Bloomberg&rpar;](http://www.techmeme.com/240629/p2#a240629p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

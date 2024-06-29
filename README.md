@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Amazon plans to use a controversial trade rule used by Temu and Shein, which exempts packages worth $800 or less from tariffs, for its discount section &lpar;The Information&rpar;](http://www.techmeme.com/240629/p10#a240629p10)
  - [How to Watch Euro 2024: Germany vs. Denmark – Livestream Soccer From Anywhere](https://www.cnet.com/tech/services-and-software/how-to-watch-euro-2024-germany-vs-denmark-livestream-soccer-from-anywhere/#ftag=CAD590a51e)
  - [Best Internet Providers in Winston-Salem, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-winston-salem-nc/#ftag=CAD590a51e)
  - [Best Electric Kettles of 2024](https://www.cnet.com/home/kitchen-and-household/best-electric-kettle/#ftag=CAD590a51e)
- - [Redbox&#39;s owner, Chicken Soup for the Soul Entertainment, files for bankruptcy protection; Chicken Soup took on $325M in debt when it acquired Redbox in 2022 &lpar;Janko Roettgers/The Verge&rpar;](http://www.techmeme.com/240629/p9#a240629p9)
- - [Redbox’s owner files for bankruptcy after repeatedly missing payments and payroll](https://www.theverge.com/2024/6/29/24188785/redbox-bankruptcy-filing-dvds-chicken-soup-soul-entertainment)<!-- TECH:END -->
+ - [Redbox&#39;s owner, Chicken Soup for the Soul Entertainment, files for bankruptcy protection; Chicken Soup took on $325M in debt when it acquired Redbox in 2022 &lpar;Janko Roettgers/The Verge&rpar;](http://www.techmeme.com/240629/p9#a240629p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fortnite’s Metallica concert showed how sprawling the game has become](https://www.theverge.com/2024/6/29/24187226/fortnite-metallica-concert-interview)
  - [We Tried EveryPlate and Here&#39;s How It Compares to Other Meal Kits](https://www.wired.com/review/everyplate-meal-kit/)
  - [How NASA Is Using Machine Learning to Predict and Fight Wildfires](https://www.cnet.com/science/climate/how-nasa-is-using-machine-learning-to-predict-and-fight-wildfires/#ftag=CAD590a51e)
  - [Heat Waves Are Sweeping Across the US. This Clickable Map Provides a New Warning System](https://www.cnet.com/science/heat-waves-are-sweeping-across-the-us-this-clickable-map-provides-a-new-warning-system/#ftag=CAD590a51e)
- - [iPhone 16 Camera Rumors: Bigger Sensors, Better Wide-Angle and More](https://www.cnet.com/tech/mobile/iphone-16-camera-rumors-big-sensors-better-wide-angle-and-more/#ftag=CAD590a51e)
- - [Samsung Galaxy A55 Review: This Cheap Phone Has Some Flaws](https://www.cnet.com/tech/mobile/samsung-galaxy-a55-review-this-cheap-phone-has-some-flaws/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone 16 Camera Rumors: Bigger Sensors, Better Wide-Angle and More](https://www.cnet.com/tech/mobile/iphone-16-camera-rumors-big-sensors-better-wide-angle-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

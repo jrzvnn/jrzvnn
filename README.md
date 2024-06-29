@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US judge rules the SEC has plausibly alleged Binance, Binance.US, and Changpeng Zhao violated federal securities laws, but dismisses secondary sales charges &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/240629/p1#a240629p1)
  - [Today&#39;s NYT Connections Hints, Answers and Help for June 29, #384](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-29-384/#ftag=CAD590a51e)
  - [Today&#39;s NYT Strands Hints, Answers and Help for June 29, #118](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-29-118/#ftag=CAD590a51e)
  - [Today&#39;s Wordle Hints, Answer and Help for June 29, #1106](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-june-29-1106/#ftag=CAD590a51e)
- - [Collagen Supplements: The Scoop on Healthy Hair, Skin and Nails](https://www.cnet.com/health/nutrition/collagen-supplements-hair-skin-nails/#ftag=CAD590a51e)
- - [&#39;Power Book II: Ghost&#39; Actors Discuss Diana and Dru Running for Their Lives](https://www.cnet.com/tech/services-and-software/power-book-ii-ghost-actors-discuss-diana-and-dru-running-for-their-lives/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Collagen Supplements: The Scoop on Healthy Hair, Skin and Nails](https://www.cnet.com/health/nutrition/collagen-supplements-hair-skin-nails/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Powerful](http://9gag.com/gag/aD2mB1Z)
- - 😝 [I think i made a new friend. Racism uniting people.](http://9gag.com/gag/avyLYnX)
- - 💣 [This actually explains a lot](http://9gag.com/gag/aAypWEE)
- - 😝 [Which one of you was that?](http://9gag.com/gag/avyLbXM)
- - 👉 [Pressing reset button in racing game be like](http://9gag.com/gag/aByrqo2)<!-- MEMES:END -->
+ - 😝 [J.K. Trolling](http://9gag.com/gag/abAbnNL)
+ - 😝 [There is no way\u2026](http://9gag.com/gag/azxV0gZ)
+ - 💣 [Bring more of them to Europe](http://9gag.com/gag/a87jPne)
+ - 😝 [Lol](http://9gag.com/gag/a87jBM1)
+ - 👉 [This part was not shown to the audience at the end of the debate](http://9gag.com/gag/aYQw93m)<!-- MEMES:END -->
 
 ---
 

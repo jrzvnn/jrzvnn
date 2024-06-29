@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bloody Btsh](http://9gag.com/gag/aKGBoW6)
- - 😝 [This part was not shown to the audience at the end of the debate](http://9gag.com/gag/aYQw93m)
- - 💣 [Man went on a dating show, says he is a cop and immediately half the women refuse to date him because `I want to stick with the Code`](http://9gag.com/gag/adBpmGN)
- - 😝 [Bruh!!\ud83d\ude02](http://9gag.com/gag/aVvXyD8)
- - 👉 [Mom had enough and kicked 20yo college daughter out of her house for trying to &#39;educate&#39; her family about their straight white privileges](http://9gag.com/gag/avyLKBX)<!-- MEMES:END -->
+ - 😝 [He&#39;s not the one, And I know you&#39;re not.](http://9gag.com/gag/ae9poxB)
+ - 😝 [Man went on a dating show, says he is a cop and immediately half the women refuse to date him because `I want to stick with the Code`](http://9gag.com/gag/adBpmGN)
+ - 💣 [The debates.](http://9gag.com/gag/amo8jV9)
+ - 😝 [Uh oh....](http://9gag.com/gag/agmNWVK)
+ - 👉 [This part was not shown to the audience at the end of the debate](http://9gag.com/gag/aYQw93m)<!-- MEMES:END -->
 
 ---
 

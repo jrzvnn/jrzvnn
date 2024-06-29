@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Weekend specials: Cellular iPad 9th Gen drops to $189, OWC Thunderbolt Hub on sale for $118](https://appleinsider.com/articles/24/06/29/weekend-specials-cellular-ipad-9th-gen-drops-to-189-owc-thunderbolt-hub-on-sale-for-118?utm_medium=rss)
  - [The best Android phones for everyone](https://www.theverge.com/23674658/best-android-phone)
  - [Don&#39;t Skip the SPF This Summer: A Dermatologist Shares Sun Safety Tips](https://www.cnet.com/health/personal-care/dont-skip-the-spf-this-summer-a-dermatologist-shares-sun-safety-tips/#ftag=CAD590a51e)
  - [Source: Amazon plans to use a controversial trade rule used by Temu and Shein, which exempts packages worth $800 or less from tariffs, for its discount section &lpar;The Information&rpar;](http://www.techmeme.com/240629/p10#a240629p10)
- - [Flip This Switch on Your Ceiling Fan to Cool Your Home and Save Money on AC](https://www.cnet.com/how-to/flip-this-switch-on-your-ceiling-fan-to-cool-your-home-and-save-money-on-ac/#ftag=CAD590a51e)
- - [How to Watch Euro 2024: Germany vs. Denmark – Livestream Soccer From Anywhere](https://www.cnet.com/tech/services-and-software/how-to-watch-euro-2024-germany-vs-denmark-livestream-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Flip This Switch on Your Ceiling Fan to Cool Your Home and Save Money on AC](https://www.cnet.com/how-to/flip-this-switch-on-your-ceiling-fan-to-cool-your-home-and-save-money-on-ac/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Israeli Supreme Court rules that the military must begin drafting ultra-Orthodox men. First drafts are already in progress.](http://9gag.com/gag/aGyRX9G)
- - 😝 [Nuff Said](http://9gag.com/gag/aVvXp8n)
- - 💣 [Cheers](http://9gag.com/gag/aKGBMw1)
- - 😝 [This part was not shown to the audience at the end of the debate](http://9gag.com/gag/aYQw93m)
- - 👉 [That\u2019s one way to un alive your self](http://9gag.com/gag/a5QK4Bq)<!-- MEMES:END -->
+ - 😝 [Cringe but wood](http://9gag.com/gag/apRBOND)
+ - 😝 [The face you make when normies start infesting your niche hobbie](http://9gag.com/gag/apRBZMb)
+ - 💣 [The wordplay coming out of M&amp;M\u2019s mouth is insane!](http://9gag.com/gag/adBpDWB)
+ - 😝 [There is no way\u2026](http://9gag.com/gag/azxV0gZ)
+ - 👉 [Mom had enough and kicked 20yo college daughter out of her house for trying to &#39;educate&#39; her family about their straight white privileges](http://9gag.com/gag/avyLKBX)<!-- MEMES:END -->
 
 ---
 

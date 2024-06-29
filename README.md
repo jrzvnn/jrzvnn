@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to manage deleted files on iOS, iPadOS, and macOS](https://www.theverge.com/24188104/ios-icloud-iphone-mac-delete-files)
  - [How some doctors are using the Apple Watch to diagnose and help their patients manage medical conditions, despite the availability of FDA-approved devices &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/240629/p7#a240629p7)
+ - [I’m Obsessed With My Water Bottle Bag](https://www.wired.com/story/water-bottle-bag-rave/)
  - [How to Watch Euro 2024: Switzerland vs. Italy – Livestream Soccer From Anywhere](https://www.cnet.com/tech/services-and-software/how-to-watch-euro-2024-switzerland-vs-italy-livestream-soccer-from-anywhere/#ftag=CAD590a51e)
- - [&#39;House of the Dragon&#39; Season 2 Release Schedule and How to Stream From Anywhere](https://www.cnet.com/tech/services-and-software/house-of-the-dragon-season-2-release-schedule-how-to-stream-from-anywhere/#ftag=CAD590a51e)
- - [Best Streaming Deals for Students on Spotify, Hulu, Peacock and More](https://www.cnet.com/deals/best-streaming-deals-for-students-on-spotify-hulu-peacock-and-more/#ftag=CAD590a51e)
- - [Say Hello to Creator-Built AI Chatbots on Instagram](https://www.wired.com/story/instagram-meta-creator-built-ai-chatbots/)<!-- TECH:END -->
+ - [&#39;House of the Dragon&#39; Season 2 Release Schedule and How to Stream From Anywhere](https://www.cnet.com/tech/services-and-software/house-of-the-dragon-season-2-release-schedule-how-to-stream-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

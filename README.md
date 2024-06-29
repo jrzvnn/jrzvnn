@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bamboozled](http://9gag.com/gag/a87jBde)
- - 😝 [Hmmmmm](http://9gag.com/gag/aByrAAO)
- - 💣 [Democrats after the Biden-Trump debate!](http://9gag.com/gag/an7B6VE)
- - 😝 [All hail the white dragon](http://9gag.com/gag/azxVW5j)
- - 👉 [`extra credits`](http://9gag.com/gag/apRBO4D)<!-- MEMES:END -->
+ - 😝 [Bloody Btsh](http://9gag.com/gag/aKGBoW6)
+ - 😝 [This part was not shown to the audience at the end of the debate](http://9gag.com/gag/aYQw93m)
+ - 💣 [Jwayne Johnson](http://9gag.com/gag/a7obRwA)
+ - 😝 [Cheers](http://9gag.com/gag/aKGBMw1)
+ - 👉 [The Platypus Is Possibly The Weirdest Animal: It&#39;s A Mammal But Lays Eggs, Its Duck-Billed, beaver-Tailed, Otter-Footed And Venomous. it Has Electroreceptors For Locating Prey, Eyes With Double Cones, No Stomach, And 10 chromosomes. it&#39;s Fluorescent And Glows Under UV Light](http://9gag.com/gag/aYQwXPw)<!-- MEMES:END -->
 
 ---
 

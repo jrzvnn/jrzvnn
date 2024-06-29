@@ -163,8 +163,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Redbox&#39;s owner, Chicken Soup for the Soul Entertainment, files for bankruptcy protection; Chicken Soup took on $325M in debt when it acquired Redbox in 2022 &lpar;Janko Roettgers/The Verge&rpar;](http://www.techmeme.com/240629/p9#a240629p9)
  - [Redbox’s owner files for bankruptcy after repeatedly missing payments and payroll](https://www.theverge.com/2024/6/29/24188785/redbox-bankruptcy-filing-dvds-chicken-soup-soul-entertainment)
  - [The US finalizes rules requiring custodial crypto platforms to report user transaction info to the IRS; DeFi platforms are exempt amid fierce crypto lobbying &lpar;Paul Kiernan/Wall Street Journal&rpar;](http://www.techmeme.com/240629/p8#a240629p8)
- - [18 Best Fourth of July Mattress Deals &lpar;2024&rpar;](https://www.wired.com/story/best-mattress-deals-july-2024/)
- - [Save Money on AC This Summer by Setting Your Thermostat Higher Than Usual](https://www.cnet.com/home/energy-and-utilities/save-money-on-ac-this-summer-by-setting-your-thermostat-higher-than-usual/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Cut Your Summer Energy Bills While Keeping Your Home Cool](https://www.cnet.com/how-to/how-to-cut-your-summer-energy-bills-while-keeping-your-home-cool/#ftag=CAD590a51e)
+ - [The Best OTC Hearing Aids &lpar;2024&rpar;: Tested and Reviewed](https://www.wired.com/gallery/best-over-the-counter-hearing-aids/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

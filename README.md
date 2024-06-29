@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [J.K. Trolling](http://9gag.com/gag/abAbnNL)
- - 😝 [There is no way\u2026](http://9gag.com/gag/azxV0gZ)
- - 💣 [Bring more of them to Europe](http://9gag.com/gag/a87jPne)
+ - 😝 [A phone bot far m in action](http://9gag.com/gag/adBpm1D)
+ - 😝 [How to ruin everybodys day](http://9gag.com/gag/aPAGOvn)
+ - 💣 [The debates.](http://9gag.com/gag/amo8jV9)
  - 😝 [Lol](http://9gag.com/gag/a87jBM1)
- - 👉 [This part was not shown to the audience at the end of the debate](http://9gag.com/gag/aYQw93m)<!-- MEMES:END -->
+ - 👉 [Nuff Said](http://9gag.com/gag/aVvXp8n)<!-- MEMES:END -->
 
 ---
 

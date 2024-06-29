@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Planning to Travel Abroad? You Can Now Renew Your US Passport Online](https://www.cnet.com/tech/services-and-software/planning-to-travel-abroad-you-can-now-renew-your-us-passport-online/#ftag=CAD590a51e)
- - [EV Charging vs. Gas Prices: How Much Can You Really Save With an Electric Vehicle?](https://www.cnet.com/roadshow/news/ev-charging-vs-gas-prices-how-much-can-you-really-save-with-an-electric-vehicle/#ftag=CAD590a51e)
- - [Apple&#39;s Hidden iOS Trick to Make Your iPhone Calls Much Clearer](https://www.cnet.com/tech/services-and-software/apples-hidden-ios-trick-to-make-your-iphone-calls-much-clearer/#ftag=CAD590a51e)
- - [Best Internet Providers in Durham, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-durham-nc/#ftag=CAD590a51e)
- - [Filings and DOJ officials describe how a gang threatened, assaulted, and tortured 11 victims in likely the worst crypto-focused serial extortion case in the US &lpar;Wired&rpar;](http://www.techmeme.com/240629/p6#a240629p6)<!-- TECH:END -->
+ - [Extreme Hail Storms Are Wrecking Solar Farms—but Defending Them May Be Easier Than It Seems](https://www.wired.com/story/solar-energy-hale-protection/)
+ - [Filings and DOJ officials describe how a gang threatened, assaulted, and tortured 11 victims in likely the worst crypto-focused serial extortion case in the US &lpar;Wired&rpar;](http://www.techmeme.com/240629/p6#a240629p6)
+ - [Security News This Week: Google Is Piloting Face Recognition for Office Security](https://www.wired.com/story/google-face-recognition-office-safety-security-roundup/)
+ - [Best Amazon Deals: Save Big on New Tech, Home Goods, Outdoor Gear and More](https://www.cnet.com/deals/best-amazon-deals-save-big-on-new-tech-home-goods-outdoor-gear-under-100/#ftag=CAD590a51e)
+ - [You Asked How to Use iPhone&#39;s iMessage on Windows. We Have Answers](https://www.cnet.com/tech/services-and-software/you-asked-how-to-use-iphones-imessage-on-windows-we-have-answers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

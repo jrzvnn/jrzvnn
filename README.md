@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [LOL! This is an actual magazine cover.](http://9gag.com/gag/abAb9dO)
  - 😝 [A phone bot far m in action](http://9gag.com/gag/adBpm1D)
- - 💣 [This is elder abuse, his wife and his staffers are despicable](http://9gag.com/gag/aLnByVV)
- - 😝 [SBI is a pest of gaming community](http://9gag.com/gag/aqy2qoY)
- - 👉 [Bloody Btsh](http://9gag.com/gag/aKGBoW6)<!-- MEMES:END -->
+ - 😝 [LOL! This is an actual magazine cover.](http://9gag.com/gag/abAb9dO)
+ - 💣 [Priority](http://9gag.com/gag/aAyp9DZ)
+ - 😝 [Bloody Btsh](http://9gag.com/gag/aKGBoW6)
+ - 👉 [There is no way\u2026](http://9gag.com/gag/azxV0gZ)<!-- MEMES:END -->
 
 ---
 

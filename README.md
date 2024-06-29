@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [J.K. Trolling](http://9gag.com/gag/abAbnNL)
  - 😝 [Mom had enough and kicked 20yo college daughter out of her house for trying to &#39;educate&#39; her family about their straight white privileges](http://9gag.com/gag/avyLKBX)
- - 😝 [And nobody else posts memes about it as much either](http://9gag.com/gag/abAbnQv)
- - 💣 [Oh man...](http://9gag.com/gag/amo8ez4)
- - 😝 [Be comfortable!](http://9gag.com/gag/agmNDL6)
- - 👉 [Friday mood](http://9gag.com/gag/a34LmOQ)<!-- MEMES:END -->
+ - 💣 [He&#39;s not the one, And I know you&#39;re not.](http://9gag.com/gag/ae9poxB)
+ - 😝 [If you don\u2019t believe me, just try it out\u2026](http://9gag.com/gag/ae9p88O)
+ - 👉 [SBI is a pest of gaming community](http://9gag.com/gag/aqy2qoY)<!-- MEMES:END -->
 
 ---
 

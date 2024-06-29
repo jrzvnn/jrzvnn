@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [LOL! This is an actual magazine cover.](http://9gag.com/gag/abAb9dO)
- - 😝 [Entitled douche](http://9gag.com/gag/aXPXD3d)
- - 💣 [Mom had enough and kicked 20yo college daughter out of her house for trying to &#39;educate&#39; her family about their straight white privileges](http://9gag.com/gag/avyLKBX)
- - 😝 [Man went on a dating show, says he is a cop and immediately half the women refuse to date him because `I want to stick with the Code`](http://9gag.com/gag/adBpmGN)
- - 👉 [That\u2019s one way to un alive your self](http://9gag.com/gag/a5QK4Bq)<!-- MEMES:END -->
+ - 😝 [That escalated quickly..](http://9gag.com/gag/avyLYe5)
+ - 😝 [Don&#39;t waste your time, you can&#39;t fix her](http://9gag.com/gag/azxVNEm)
+ - 💣 [I think i made a new friend. Racism uniting people.](http://9gag.com/gag/avyLYnX)
+ - 😝 [This actually explains a lot](http://9gag.com/gag/aAypWEE)
+ - 👉 [Pressing reset button in racing game be like](http://9gag.com/gag/aByrqo2)<!-- MEMES:END -->
 
 ---
 

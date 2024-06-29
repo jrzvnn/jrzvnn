@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There is no way\u2026](http://9gag.com/gag/azxV0gZ)
- - 😝 [Bloody Btsh](http://9gag.com/gag/aKGBoW6)
- - 💣 [SBI is a pest of gaming community](http://9gag.com/gag/aqy2qoY)
- - 😝 [Cringe but wood](http://9gag.com/gag/apRBOND)
- - 👉 [Israeli Supreme Court rules that the military must begin drafting ultra-Orthodox men. First drafts are already in progress.](http://9gag.com/gag/aGyRX9G)<!-- MEMES:END -->
+ - 😝 [LOL! This is an actual magazine cover.](http://9gag.com/gag/abAb9dO)
+ - 😝 [A phone bot far m in action](http://9gag.com/gag/adBpm1D)
+ - 💣 [This is elder abuse, his wife and his staffers are despicable](http://9gag.com/gag/aLnByVV)
+ - 😝 [SBI is a pest of gaming community](http://9gag.com/gag/aqy2qoY)
+ - 👉 [Bloody Btsh](http://9gag.com/gag/aKGBoW6)<!-- MEMES:END -->
 
 ---
 

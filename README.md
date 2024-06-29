@@ -162,9 +162,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Hugging Face unveils Open LLM leaderboard v2 that tests models across six benchmarks; Chinese models dominate the top 10 with Alibaba&#39;s Qwen taking the top spot &lpar;Dallin Grimm/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240629/p3#a240629p3)
  - [Indonesia&#39;s government declines to pay the $8M demanded by LockBit 3.0 for the ransomware attack that affected hundreds of ministries and public institutions &lpar;Chandra Asmara/Bloomberg&rpar;](http://www.techmeme.com/240629/p2#a240629p2)
+ - [Best Internet Providers in Hayward, California](https://www.cnet.com/home/internet/best-internet-providers-in-hayward-ca/#ftag=CAD590a51e)
  - [A US judge rules the SEC has plausibly alleged Binance, Binance.US, and Changpeng Zhao violated federal securities laws, but dismisses secondary sales charges &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/240629/p1#a240629p1)
- - [Today&#39;s NYT Connections Hints, Answers and Help for June 29, #384](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-29-384/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for June 29, #118](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-29-118/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for June 29, #384](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-29-384/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

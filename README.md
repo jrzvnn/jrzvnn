@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with Illia Polosukhin, a co-author of Google&#39;s Attention Is All You Need paper, on open-source AI, his Web3 company Near, &quot;user-owned AI&quot;, and more &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/240629/p11#a240629p11)
+ - [Amazon’s last-gen Kindle Paperwhite is on sale for 50 bucks right now](https://www.theverge.com/2024/6/29/24188551/amazon-kindle-paperwhite-2018-10th-gen-ipad-deal-sale)
  - [Weekend specials: Cellular iPad 9th Gen drops to $189, OWC Thunderbolt Hub on sale for $118](https://appleinsider.com/articles/24/06/29/weekend-specials-cellular-ipad-9th-gen-drops-to-189-owc-thunderbolt-hub-on-sale-for-118?utm_medium=rss)
- - [The best Android phones for everyone](https://www.theverge.com/23674658/best-android-phone)
- - [Don&#39;t Skip the SPF This Summer: A Dermatologist Shares Sun Safety Tips](https://www.cnet.com/health/personal-care/dont-skip-the-spf-this-summer-a-dermatologist-shares-sun-safety-tips/#ftag=CAD590a51e)
- - [Source: Amazon plans to use a controversial trade rule used by Temu and Shein, which exempts packages worth $800 or less from tariffs, for its discount section &lpar;The Information&rpar;](http://www.techmeme.com/240629/p10#a240629p10)
- - [Flip This Switch on Your Ceiling Fan to Cool Your Home and Save Money on AC](https://www.cnet.com/how-to/flip-this-switch-on-your-ceiling-fan-to-cool-your-home-and-save-money-on-ac/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Get a Cool 54% Off the Vtoman FlashSpeed 1000 Portable Power Station at Amazon](https://www.cnet.com/deals/get-a-cool-54-off-the-vtoman-flashspeed-1000-portable-power-station-at-amazon/#ftag=CAD590a51e)
+ - [3 Anti-Aging Exercises That Will Help Boost and Maintain Your Health](https://www.cnet.com/health/fitness/anti-aging-exercises/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

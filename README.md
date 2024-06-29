@@ -169,9 +169,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That escalated quickly..](http://9gag.com/gag/avyLYe5)
- - 😝 [Don&#39;t waste your time, you can&#39;t fix her](http://9gag.com/gag/azxVNEm)
- - 💣 [I think i made a new friend. Racism uniting people.](http://9gag.com/gag/avyLYnX)
+ - 😝 [Every now and then I rewatch this](http://9gag.com/gag/aAypnwR)
+ - 😝 [I think i made a new friend. Racism uniting people.](http://9gag.com/gag/avyLYnX)
+ - 💣 [Don&#39;t waste your time, you can&#39;t fix her](http://9gag.com/gag/azxVNEm)
  - 😝 [This actually explains a lot](http://9gag.com/gag/aAypWEE)
  - 👉 [Pressing reset button in racing game be like](http://9gag.com/gag/aByrqo2)<!-- MEMES:END -->
 

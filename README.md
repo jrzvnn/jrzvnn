@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [SBI is a pest of gaming community](http://9gag.com/gag/aqy2qoY)
- - 😝 [What is that supposed to be?](http://9gag.com/gag/aPAGOXg)
- - 💣 [Nuff Said](http://9gag.com/gag/aVvXp8n)
- - 😝 [This part was not shown to the audience at the end of the debate](http://9gag.com/gag/aYQw93m)
- - 👉 [Why people don&#39;t make such good movies anymore.](http://9gag.com/gag/aW4Ow32)<!-- MEMES:END -->
+ - 😝 [Risk it all](http://9gag.com/gag/aO8mgXr)
+ - 😝 [The guy doesn&#39;t believe it when he meets a sane woman](http://9gag.com/gag/aZZNAX0)
+ - 💣 [Uh oh....](http://9gag.com/gag/agmNWVK)
+ - 😝 [Good news](http://9gag.com/gag/a7ob4y2)
+ - 👉 [What is that supposed to be?](http://9gag.com/gag/aPAGOXg)<!-- MEMES:END -->
 
 ---
 

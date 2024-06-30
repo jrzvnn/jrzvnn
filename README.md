@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Internet Providers in Fayetteville, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-fayetteville-nc/#ftag=CAD590a51e)
+ - [Best Internet Providers in Juneau, Alaska](https://www.cnet.com/home/internet/best-internet-providers-in-juneau-ak/#ftag=CAD590a51e)
  - [Atos reaches a deal in principle with its creditors that restructures its debt, including injecting &amp;euro;233M in equity, and lets the creditors take control of Atos &lpar;Irene Garcia Perez/Bloomberg&rpar;](http://www.techmeme.com/240630/p9#a240630p9)
  - [Best Chest Strap Heart-Rate Monitors for 2024](https://www.cnet.com/health/fitness/best-chest-strap-heart-rate-monitors/#ftag=CAD590a51e)
- - [Best Internet Providers in Midland, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-midland-tx/#ftag=CAD590a51e)
- - [A look at the history of and challenges facing Meta&#39;s Oversight Board as it works on its second act: a body to help social media platforms comply with EU&#39;s DSA &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/240630/p8#a240630p8)
- - [Best Solar Generators of 2024](https://www.cnet.com/home/energy-and-utilities/best-solar-generators/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Midland, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-midland-tx/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

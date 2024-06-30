@@ -161,10 +161,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [This new Mac app uses animated flies to tell you when to take out the trash](https://www.theverge.com/2024/6/30/24189505/bananabin-app-flies-trash-macos-sonoma)
- - [The Vision Pro will get Apple Intelligence and “Go Deeper” in-store demos](https://www.theverge.com/2024/6/30/24189328/vision-pro-apple-intelligence-in-store-demo-cheaper-version)
- - [Apple Ring: Two decades of rumors and speculation about a smart ring](https://appleinsider.com/articles/24/06/28/apple-ring-two-decades-of-rumors-and-speculation-about-a-smart-ring?utm_medium=rss)
- - [Best Internet Providers in Charlotte, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-charlotte-nc/#ftag=CAD590a51e)
- - [The best mechanical keyboards to buy right now](https://www.theverge.com/23384750/best-mechanical-keyboard-wired-wireless-75-percent-layout-cheap-bluetooth)<!-- TECH:END -->
+ - [Best Foldable Phones in 2024: Samsung Galaxy Z Fold, Z Flip, Moto Razr, Pixel Fold](https://www.cnet.com/tech/mobile/best-foldable-phones/#ftag=CAD590a51e)
+ - [Best Internet Providers in Vancouver, Washington](https://www.cnet.com/home/internet/best-internet-providers-in-vancouver-wa/#ftag=CAD590a51e)
+ - [Best WordPress Hosting of 2024](https://www.cnet.com/tech/services-and-software/best-wordpress-hosting/#ftag=CAD590a51e)
+ - [Best Dehumidifier for 2024](https://www.cnet.com/home/kitchen-and-household/best-dehumidifier/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

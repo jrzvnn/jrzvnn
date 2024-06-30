@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Want a Cooler House? Buying These Houseplants Can Help](https://www.cnet.com/news/want-a-cooler-house-buying-these-houseplants-can-help/#ftag=CAD590a51e)
+ - [SZA at Glastonbury 2024: Livestream Her Headline Festival Set From Anywhere](https://www.cnet.com/tech/services-and-software/sza-at-glastonbury-2024-livestream-her-headline-festival-set-from-anywhere/#ftag=CAD590a51e)
  - [Sources: Apple is actively working to bring the AI features to Vision Pro, rejiggers Vision Pro&#39;s retail demos, and starts developing 2025&#39;s operating systems &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240630/p6#a240630p6)
  - [Apple is already working on iOS 19, iPadOS 19, macOS 16, and more](https://appleinsider.com/articles/24/06/30/apple-is-already-working-on-ios-19-ipados-19-and-macos-16?utm_medium=rss)
- - [A MacBook Pro design refresh is probably years away](https://appleinsider.com/articles/24/06/30/a-macbook-pro-design-refresh-is-probably-years-away?utm_medium=rss)
- - [Apple Intelligence may be coming to Vision Pro -- but not soon](https://appleinsider.com/articles/24/06/30/apple-intelligence-may-be-coming-to-vision-pro----but-not-soon?utm_medium=rss)
- - [How to Watch Euro 2024: England vs. Slovakia – Livestream Soccer From Anywhere](https://www.cnet.com/tech/services-and-software/how-to-watch-euro-2024-england-vs-slovakia-livestream-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A MacBook Pro design refresh is probably years away](https://appleinsider.com/articles/24/06/30/a-macbook-pro-design-refresh-is-probably-years-away?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

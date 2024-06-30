@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [European fintech execs say financial services are shunning AI over job loss and regulatory fears, despite evidence that AI will boost productivity and cut costs &lpar;Financial Times&rpar;](http://www.techmeme.com/240630/p2#a240630p2)
  - [Last Call: This Key Student Loan Forgiveness Deadline Ends Today](https://www.cnet.com/personal-finance/loans/last-call-this-key-student-loan-forgiveness-deadline-ends-today/#ftag=CAD590a51e)
  - [Solera, which offers SaaS tools for integrated vehicle lifecycle and fleet management, files for a US IPO; sources: Solera may seek to raise as much as $1.5B &lpar;Bloomberg&rpar;](http://www.techmeme.com/240630/p1#a240630p1)
  - [Best Internet Providers in Charlottesville, Virginia](https://www.cnet.com/home/internet/best-internet-providers-in-charlottesville-va/#ftag=CAD590a51e)
- - [Save Up to $800 With Purple&#39;s Hot Fourth of July Sale](https://www.cnet.com/deals/purple-4th-of-july-2024/#ftag=CAD590a51e)
- - [Chime buys enterprise employee rewards company Salt Labs, sources say in a deal worth up to $173M; Salt Labs had raised $18M and was valued at $80M in December &lpar;Luisa Beltran/Fortune&rpar;](http://www.techmeme.com/240629/p15#a240629p15)<!-- TECH:END -->
+ - [Save Up to $800 With Purple&#39;s Hot Fourth of July Sale](https://www.cnet.com/deals/purple-4th-of-july-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

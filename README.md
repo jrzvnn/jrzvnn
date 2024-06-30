@@ -161,10 +161,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Crime blotter: &#39;Meatball&#39; pleads guilty in Apple Store looting case, and more!](https://appleinsider.com/articles/24/06/30/crime-blotter-meatball-pleads-guilty-in-apple-store-looting-case-and-more?utm_medium=rss)
- - [Kuo: Apple plans to mass produce new AirPods with camera modules by 2026, which will include an IR camera similar to the iPhone Face ID receiver &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240630/p7#a240630p7)
- - [Apple may want to monetize advanced Apple Intelligence features in the future](https://appleinsider.com/articles/24/06/30/apple-may-want-to-monetize-advanced-apple-intelligence-features-in-the-future?utm_medium=rss)
- - [Want a Cooler House? Buying These Houseplants Can Help](https://www.cnet.com/news/want-a-cooler-house-buying-these-houseplants-can-help/#ftag=CAD590a51e)
- - [SZA at Glastonbury 2024: Livestream Her Headline Festival Set From Anywhere](https://www.cnet.com/tech/services-and-software/sza-at-glastonbury-2024-livestream-her-headline-festival-set-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [9 Things You Should Never Pour Down a Drain](https://www.cnet.com/how-to/9-things-you-should-never-pour-down-a-drain/#ftag=CAD590a51e)
+ - [Best AI Chatbots of 2024](https://www.cnet.com/tech/services-and-software/best-ai-chatbots/#ftag=CAD590a51e)
+ - [Ancestry vs. 23andMe: How to Pick the Best DNA Testing Kit for You](https://www.cnet.com/health/medical/ancestry-vs-23-and-me-dna-testing-kit-which-is-best/#ftag=CAD590a51e)
+ - [9 Easiest Houseplants to Keep Alive, According to Experts](https://www.cnet.com/news/9-easiest-houseplants-to-keep-alive-according-to-experts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

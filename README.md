@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Like it, but too much work for a mosquito coil holder.](http://9gag.com/gag/a6ZLWGm)
- - 😝 [The &#39;meah&#39; at the end killed me.](http://9gag.com/gag/aXPX8j9)
- - 💣 [Entitled douche](http://9gag.com/gag/aXPXD3d)
- - 😝 [The debates.](http://9gag.com/gag/amo8jV9)
- - 👉 [Thousands of Germans gather in the park where 20-year-old Greek Filippos Tsanis was beaten to death by a gang of youths for wearing a large cross on his chest The main perpetrator is an 18-year-old Syrian repeat offender.\ud83d\ude4f](http://9gag.com/gag/a6Z7rjb)<!-- MEMES:END -->
+ - 😝 [Tiny body, big heart](http://9gag.com/gag/amo8Ej4)
+ - 😝 [What do we say to the god of death](http://9gag.com/gag/a5QKLVr)
+ - 💣 [Uh oh....](http://9gag.com/gag/agmNWVK)
+ - 😝 [This part was not shown to the audience at the end of the debate](http://9gag.com/gag/aYQw93m)
+ - 👉 [Bring more of them to Europe](http://9gag.com/gag/a87jPne)<!-- MEMES:END -->
 
 ---
 

@@ -171,8 +171,8 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [The debates.](http://9gag.com/gag/amo8jV9)
  - 😝 [Like it, but too much work for a mosquito coil holder.](http://9gag.com/gag/a6ZLWGm)
- - 💣 [Why would you say something so controversial and yet so brave?](http://9gag.com/gag/aRBA60y)
- - 😝 [Japan and their kawaii beam](http://9gag.com/gag/aMVQpoG)
+ - 💣 [Japan and their kawaii beam](http://9gag.com/gag/aMVQpoG)
+ - 😝 [Why would you say something so controversial and yet so brave?](http://9gag.com/gag/aRBA60y)
  - 👉 [He&#39;s not the one, And I know you&#39;re not.](http://9gag.com/gag/ae9poxB)<!-- MEMES:END -->
 
 ---

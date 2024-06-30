@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What do we say to the god of death](http://9gag.com/gag/a5QKLVr)
+ - 😝 [The guy doesn&#39;t believe it when he meets a sane woman](http://9gag.com/gag/aZZNAX0)
  - 😝 [Nope](http://9gag.com/gag/aKGB0YQ)
- - 💣 [Man went on a dating show, says he is a cop and immediately half the women refuse to date him because `I want to stick with the Code`](http://9gag.com/gag/adBpmGN)
+ - 💣 [This part was not shown to the audience at the end of the debate](http://9gag.com/gag/aYQw93m)
  - 😝 [What is that supposed to be?](http://9gag.com/gag/aPAGOXg)
- - 👉 [Ex-wife picks up the kids from the father\u2019s house](http://9gag.com/gag/ae9GKy5)<!-- MEMES:END -->
+ - 👉 [Girl tourist on vacation in San Lorenzo.. unluckily met Algerian muslim man](http://9gag.com/gag/aGyRPB5)<!-- MEMES:END -->
 
 ---
 

@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Vision Pro will get Apple Intelligence and “Go Deeper” in-store demos](https://www.theverge.com/2024/6/30/24189328/vision-pro-apple-intelligence-in-store-demo-cheaper-version)
+ - [Apple Ring: Two decades of rumors and speculation about a smart ring](https://appleinsider.com/articles/24/06/28/apple-ring-two-decades-of-rumors-and-speculation-about-a-smart-ring?utm_medium=rss)
  - [The best mechanical keyboards to buy right now](https://www.theverge.com/23384750/best-mechanical-keyboard-wired-wireless-75-percent-layout-cheap-bluetooth)
  - [Whole-Body Deodorant: How It Works and Who It&#39;s Best For](https://www.cnet.com/health/personal-care/whole-body-deodorant-how-it-works-and-who-its-best-for/#ftag=CAD590a51e)
- - [Best Internet Providers in Garland, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-garland-tx/#ftag=CAD590a51e)
- - [GoDaddy Review: Is This Popular Web Host Worth Your While?](https://www.cnet.com/tech/services-and-software/godaddy-review/#ftag=CAD590a51e)
- - [Best Internet Providers in Fayetteville, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-fayetteville-nc/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Garland, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-garland-tx/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Drunk guy kicks in hotel front door before getting dropped by a cop](http://9gag.com/gag/a6Z7rPR)
+ - 😝 [Cancer Cell Hit By An Ion Beam.](http://9gag.com/gag/a7o7LOw)
  - 😝 [Nope](http://9gag.com/gag/aKGB0YQ)
  - 💣 [Imagine the decline after 4 more years](http://9gag.com/gag/aE07vpK)
  - 😝 [What is that supposed to be?](http://9gag.com/gag/aPAGOXg)
- - 👉 [Cancer Cell Hit By An Ion Beam.](http://9gag.com/gag/a7o7LOw)<!-- MEMES:END -->
+ - 👉 [Ex-wife picks up the kids from the father\u2019s house](http://9gag.com/gag/ae9GKy5)<!-- MEMES:END -->
 
 ---
 

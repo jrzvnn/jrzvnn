@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Risk it all](http://9gag.com/gag/aO8mgXr)
- - 😝 [The guy doesn&#39;t believe it when he meets a sane woman](http://9gag.com/gag/aZZNAX0)
- - 💣 [Uh oh....](http://9gag.com/gag/agmNWVK)
- - 😝 [Good news](http://9gag.com/gag/a7ob4y2)
- - 👉 [What is that supposed to be?](http://9gag.com/gag/aPAGOXg)<!-- MEMES:END -->
+ - 😝 [LOL! This is an actual magazine cover.](http://9gag.com/gag/abAb9dO)
+ - 😝 [That\u2019s one way to un alive your self](http://9gag.com/gag/a5QK4Bq)
+ - 💣 [Like it, but too much work for a mosquito coil holder.](http://9gag.com/gag/a6ZLWGm)
+ - 😝 [Man went on a dating show, says he is a cop and immediately half the women refuse to date him because `I want to stick with the Code`](http://9gag.com/gag/adBpmGN)
+ - 👉 [Entitled douche](http://9gag.com/gag/aXPXD3d)<!-- MEMES:END -->
 
 ---
 

@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple could announce a Google Gemini deal this fall](https://www.theverge.com/2024/6/30/24189262/apple-intelligence-google-gemini-deal-iphone-mac-ipad-openai-chatgpt)
- - [Crime blotter: &#39;Meatball&#39; pleads guilty in Apple Store looting case, and more!](https://appleinsider.com/articles/24/06/30/crime-blotter-meatball-pleads-guilty-in-apple-store-looting-case-and-more?utm_medium=rss)
- - [The Best Kids Headphones of 2024—With Features to Protect Your Kids Hearing](https://www.wired.com/gallery/the-best-kids-headphones/)
- - [9 Things You Should Never Pour Down a Drain](https://www.cnet.com/how-to/9-things-you-should-never-pour-down-a-drain/#ftag=CAD590a51e)
- - [Best AI Chatbots of 2024](https://www.cnet.com/tech/services-and-software/best-ai-chatbots/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Watch Euro 2024: Spain vs. Georgia -- Livestream Soccer From Anywhere](https://www.cnet.com/tech/services-and-software/how-to-watch-euro-2024-spain-vs-georgia-livestream-soccer-from-anywhere/#ftag=CAD590a51e)
+ - [Winded After Walking Up Stairs? Here&#39;s What&#39;s Normal and What&#39;s Not](https://www.cnet.com/health/fitness/winded-after-walking-up-stairs-heres-whats-normal-and-whats-not/#ftag=CAD590a51e)
+ - [Spectrum&#39;s Prices Are Going Up in July. Here’s What You Can Do](https://www.cnet.com/home/internet/spectrums-prices-are-going-up-in-july-heres-what-you-can-do/#ftag=CAD590a51e)
+ - [Best Online Flower Delivery Services for 2024](https://www.cnet.com/news/best-flower-delivery-service/#ftag=CAD590a51e)
+ - [Apple could announce a Google Gemini deal this fall](https://www.theverge.com/2024/6/30/24189262/apple-intelligence-google-gemini-deal-iphone-mac-ipad-openai-chatgpt)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

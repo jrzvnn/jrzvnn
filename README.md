@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Man confronting shoplifters as they try to leave in Downey, California](http://9gag.com/gag/agmVrLq)
- - 😝 [Entitled douche](http://9gag.com/gag/aXPXD3d)
- - 💣 [Like it, but too much work for a mosquito coil holder.](http://9gag.com/gag/a6ZLWGm)
  - 😝 [The debates.](http://9gag.com/gag/amo8jV9)
+ - 😝 [Like it, but too much work for a mosquito coil holder.](http://9gag.com/gag/a6ZLWGm)
+ - 💣 [Why would you say something so controversial and yet so brave?](http://9gag.com/gag/aRBA60y)
+ - 😝 [Japan and their kawaii beam](http://9gag.com/gag/aMVQpoG)
  - 👉 [He&#39;s not the one, And I know you&#39;re not.](http://9gag.com/gag/ae9poxB)<!-- MEMES:END -->
 
 ---

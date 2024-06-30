@@ -161,10 +161,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Crime blotter: &#39;Meatball&#39; pleads guilty in Apple Store looting case, and more!](https://appleinsider.com/articles/24/06/30/crime-blotter-meatball-pleads-guilty-in-apple-store-looting-case-and-more?utm_medium=rss)
+ - [The Best Kids Headphones of 2024—With Features to Protect Your Kids Hearing](https://www.wired.com/gallery/the-best-kids-headphones/)
  - [9 Things You Should Never Pour Down a Drain](https://www.cnet.com/how-to/9-things-you-should-never-pour-down-a-drain/#ftag=CAD590a51e)
  - [Best AI Chatbots of 2024](https://www.cnet.com/tech/services-and-software/best-ai-chatbots/#ftag=CAD590a51e)
- - [Ancestry vs. 23andMe: How to Pick the Best DNA Testing Kit for You](https://www.cnet.com/health/medical/ancestry-vs-23-and-me-dna-testing-kit-which-is-best/#ftag=CAD590a51e)
- - [9 Easiest Houseplants to Keep Alive, According to Experts](https://www.cnet.com/news/9-easiest-houseplants-to-keep-alive-according-to-experts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ancestry vs. 23andMe: How to Pick the Best DNA Testing Kit for You](https://www.cnet.com/health/medical/ancestry-vs-23-and-me-dna-testing-kit-which-is-best/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

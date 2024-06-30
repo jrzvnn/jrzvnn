@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [LOL! This is an actual magazine cover.](http://9gag.com/gag/abAb9dO)
- - 😝 [That\u2019s one way to un alive your self](http://9gag.com/gag/a5QK4Bq)
- - 💣 [Like it, but too much work for a mosquito coil holder.](http://9gag.com/gag/a6ZLWGm)
- - 😝 [Man went on a dating show, says he is a cop and immediately half the women refuse to date him because `I want to stick with the Code`](http://9gag.com/gag/adBpmGN)
+ - 😝 [Uh oh....](http://9gag.com/gag/agmNWVK)
+ - 😝 [What is that supposed to be?](http://9gag.com/gag/aPAGOXg)
+ - 💣 [Nuff Said](http://9gag.com/gag/aVvXp8n)
+ - 😝 [What do we say to the god of death](http://9gag.com/gag/a5QKLVr)
  - 👉 [Entitled douche](http://9gag.com/gag/aXPXD3d)<!-- MEMES:END -->
 
 ---

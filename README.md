@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New AirPods with IR camera coming to enhance Spatial Audio in Apple Vision Pro](https://appleinsider.com/articles/24/06/30/new-airpods-with-ir-camera-coming-to-enhance-spatial-audio-in-apple-vision-pro?utm_medium=rss)
+ - [Kaiko: the proportion of Bitcoin traded over weekends has fallen to 16% in 2024 so far, down from 28% in 2019, a trend likely accelerated by Bitcoin ETFs launch &lpar;Benjamin Taubman/Bloomberg&rpar;](http://www.techmeme.com/240630/p5#a240630p5)
  - [Best Amazon Deals: Shop Budget-Friendly Tech, Home Goods and More Right Now](https://www.cnet.com/deals/best-amazon-deals-shop-budget-friendly-tech-home-goods-and-more-under-100/#ftag=CAD590a51e)
  - [Xbox Game Pass: You Can Play My Time at Sandrock, FC 24 and More Now](https://www.cnet.com/tech/gaming/xbox-game-pass-you-can-play-my-time-at-sandrock-fc-24-and-more-now/#ftag=CAD590a51e)
- - [Everything You Need to Know About iOS 17 Before iOS 18&#39;s Release](https://www.cnet.com/tech/mobile/everything-you-need-to-know-about-ios-17-before-ios-18s-release/#ftag=CAD590a51e)
- - [Fisker Went Bankrupt. What Do Its EV Owners Do Next?](https://www.wired.com/story/fisker-went-bankrupt-what-do-its-ev-owners-do-next/)
- - [What are Ohms? Everything You Need to Know About Speaker Impedance](https://www.cnet.com/tech/home-entertainment/what-are-ohms-everything-you-need-to-know-about-speaker-impedance/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Everything You Need to Know About iOS 17 Before iOS 18&#39;s Release](https://www.cnet.com/tech/mobile/everything-you-need-to-know-about-ios-17-before-ios-18s-release/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

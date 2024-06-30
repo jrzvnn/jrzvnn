@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nope](http://9gag.com/gag/aKGB0YQ)
- - 😝 [He&#39;s not the one, And I know you&#39;re not.](http://9gag.com/gag/ae9poxB)
- - 💣 [The Chinese Tianlong-3 Rocket Accidentally Launched During A Engine Test](http://9gag.com/gag/aByYRgx)
- - 😝 [Even the show mocked her...](http://9gag.com/gag/aMVG1ZW)
- - 👉 [Imagine the decline after 4 more years](http://9gag.com/gag/aE07vpK)<!-- MEMES:END -->
+ - 😝 [The guy doesn&#39;t believe it when he meets a sane woman](http://9gag.com/gag/aZZNAX0)
+ - 😝 [What is that supposed to be?](http://9gag.com/gag/aPAGOXg)
+ - 💣 [Bring more of them to Europe](http://9gag.com/gag/a87jPne)
+ - 😝 [Imagine the decline after 4 more years](http://9gag.com/gag/aE07vpK)
+ - 👉 [Man went on a dating show, says he is a cop and immediately half the women refuse to date him because `I want to stick with the Code`](http://9gag.com/gag/adBpmGN)<!-- MEMES:END -->
 
 ---
 

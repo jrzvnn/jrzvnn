@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is elder abuse, his wife and his staffers are despicable](http://9gag.com/gag/aLnByVV)
- - 😝 [The moment he won](http://9gag.com/gag/aLnBZoW)
- - 💣 [I wonder why](http://9gag.com/gag/aO8mwyr)
+ - 😝 [Cringe but wood](http://9gag.com/gag/apRBOND)
  - 😝 [Man confronting shoplifters as they try to leave in Downey, California](http://9gag.com/gag/agmVrLq)
- - 👉 [LOL! This is an actual magazine cover.](http://9gag.com/gag/abAb9dO)<!-- MEMES:END -->
+ - 💣 [Uh oh....](http://9gag.com/gag/agmNWVK)
+ - 😝 [The guy doesn&#39;t believe it when he meets a sane woman](http://9gag.com/gag/aZZNAX0)
+ - 👉 [This part was not shown to the audience at the end of the debate](http://9gag.com/gag/aYQw93m)<!-- MEMES:END -->
 
 ---
 

@@ -162,9 +162,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [New AirPods with IR camera coming to enhance Spatial Audio in Apple Vision Pro](https://appleinsider.com/articles/24/06/30/new-airpods-with-ir-camera-coming-to-enhance-spatial-audio-in-apple-vision-pro?utm_medium=rss)
  - [Kaiko: the proportion of Bitcoin traded over weekends has fallen to 16% in 2024 so far, down from 28% in 2019, a trend likely accelerated by Bitcoin ETFs launch &lpar;Benjamin Taubman/Bloomberg&rpar;](http://www.techmeme.com/240630/p5#a240630p5)
- - [29 Dorm Room Essentials Available on Amazon Now](https://www.cnet.com/news/dorm-room-essentials-on-amazon/#ftag=CAD590a51e)
- - [There&#39;s a Big Connection Between Gut and Skin Health. Why Aren&#39;t We Talking About It?](https://www.cnet.com/health/nutrition/theres-a-big-connection-between-gut-and-skin-health-why-arent-we-talking-about-it/#ftag=CAD590a51e)
- - [Best Internet Providers in Myrtle Beach, South Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-myrtle-beach-sc/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Cryptographers Are Discovering New Rules for Quantum Encryption](https://www.wired.com/story/cryptographers-are-discovering-new-rules-for-quantum-encryption/)
+ - [Best Amazon Deals: Shop Budget-Friendly Tech, Home Goods and More Right Now](https://www.cnet.com/deals/best-amazon-deals-shop-budget-friendly-tech-home-goods-and-more-under-100/#ftag=CAD590a51e)
+ - [Xbox Game Pass: You Can Play My Time at Sandrock, FC 24 and More Now](https://www.cnet.com/tech/gaming/xbox-game-pass-you-can-play-my-time-at-sandrock-fc-24-and-more-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

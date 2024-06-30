@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Interviews with the creator and maintainers of FreeDOS, the only MS-DOS-compatible OS still under active development, about its continued relevance and more &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/240630/p10#a240630p10)
  - [Best Internet Providers in Biloxi, Mississippi](https://www.cnet.com/home/internet/best-internet-providers-in-biloxi-ms/#ftag=CAD590a51e)
  - [This new Mac app uses animated flies to tell you when to take out the trash](https://www.theverge.com/2024/6/30/24189505/bananabin-app-flies-trash-macos-sonoma)
  - [Best Foldable Phones in 2024: Samsung Galaxy Z Fold, Z Flip, Moto Razr, Pixel Fold](https://www.cnet.com/tech/mobile/best-foldable-phones/#ftag=CAD590a51e)
- - [Best Internet Providers in Vancouver, Washington](https://www.cnet.com/home/internet/best-internet-providers-in-vancouver-wa/#ftag=CAD590a51e)
- - [Best WordPress Hosting of 2024](https://www.cnet.com/tech/services-and-software/best-wordpress-hosting/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Vancouver, Washington](https://www.cnet.com/home/internet/best-internet-providers-in-vancouver-wa/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

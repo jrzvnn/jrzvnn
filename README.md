@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Uh oh....](http://9gag.com/gag/agmNWVK)
- - 😝 [What is that supposed to be?](http://9gag.com/gag/aPAGOXg)
- - 💣 [Nuff Said](http://9gag.com/gag/aVvXp8n)
- - 😝 [What do we say to the god of death](http://9gag.com/gag/a5QKLVr)
- - 👉 [Entitled douche](http://9gag.com/gag/aXPXD3d)<!-- MEMES:END -->
+ - 😝 [This is elder abuse, his wife and his staffers are despicable](http://9gag.com/gag/aLnByVV)
+ - 😝 [The moment he won](http://9gag.com/gag/aLnBZoW)
+ - 💣 [I wonder why](http://9gag.com/gag/aO8mwyr)
+ - 😝 [Man confronting shoplifters as they try to leave in Downey, California](http://9gag.com/gag/agmVrLq)
+ - 👉 [LOL! This is an actual magazine cover.](http://9gag.com/gag/abAb9dO)<!-- MEMES:END -->
 
 ---
 

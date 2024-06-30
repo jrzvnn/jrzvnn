@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EU tech regulators asked Temu and Shein to provide details on how they comply with the Digital Services Act by July 12, following complaints by consumer bodies &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240629/p14#a240629p14)
  - [The biggest trailers of the week: June 23rd to June 29th](https://www.theverge.com/2024/6/29/24189019/biggest-trailers-deadpool-wolverine-nosferatu-batman-heretic-week-june-23-29)
  - [How Avery Johnson and Warren Brodey, early members of the American Society for Cybernetics, created a lab in 1967 with a utopian vision to personalize computing &lpar;Evgeny Morozov/Financial Times&rpar;](http://www.techmeme.com/240629/p13#a240629p13)
  - [Fourth of July Deal: Save Up to $1,000 on Samsung Partial-Sun TVs, Up to $3,500 on Full-Sun TVs](https://www.cnet.com/deals/fourth-of-july-deal-save-up-to-1000-on-samsung-partial-sun-tvs-up-to-3500-on-full-sun-tvs/#ftag=CAD590a51e)
- - [Best Indoor Security Cameras for 2024](https://www.cnet.com/home/security/best-indoor-home-security-cameras/#ftag=CAD590a51e)
- - [Best Air Fryer Toaster Ovens for 2024](https://www.cnet.com/home/kitchen-and-household/best-countertop-oven-and-air-fryer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Indoor Security Cameras for 2024](https://www.cnet.com/home/security/best-indoor-home-security-cameras/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -162,9 +162,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [A MacBook Pro design refresh is probably years away](https://appleinsider.com/articles/24/06/30/a-macbook-pro-design-refresh-is-probably-years-away?utm_medium=rss)
  - [Apple Intelligence may be coming to Vision Pro -- but not soon](https://appleinsider.com/articles/24/06/30/apple-intelligence-may-be-coming-to-vision-pro----but-not-soon?utm_medium=rss)
+ - [We Tested All of Amazon&#39;s Fire Tablets So You Don&#39;t Have To. Here Are the Ones You Should Get](https://www.wired.com/gallery/best-amazon-fire-tablet/)
  - [How to watch Summer Games Done Quick 2024](https://www.theverge.com/24187364/summer-games-done-quick-watch-live-sgdq)
- - [Poaching Eggs in the Microwave May Be the Best Breakfast Hack Ever](https://www.cnet.com/home/kitchen-and-household/poaching-eggs-in-the-microwave-may-be-the-best-breakfast-hack-ever/#ftag=CAD590a51e)
- - [Arlo Home Security System Review: Arlo&#39;s All-in-One Sensors Are Better Than Ever](https://www.cnet.com/home/security/arlo-home-security-system-review-a-flexible-system-for-an-affordable-price/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Poaching Eggs in the Microwave May Be the Best Breakfast Hack Ever](https://www.cnet.com/home/kitchen-and-household/poaching-eggs-in-the-microwave-may-be-the-best-breakfast-hack-ever/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

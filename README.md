@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Japan and their kawaii beam](http://9gag.com/gag/aMVQpoG)
- - 😝 [Why would you say something so controversial and yet so brave?](http://9gag.com/gag/aRBA60y)
- - 💣 [Like it, but too much work for a mosquito coil holder.](http://9gag.com/gag/a6ZLWGm)
- - 😝 [He&#39;s not the one, And I know you&#39;re not.](http://9gag.com/gag/ae9poxB)
- - 👉 [Powerful](http://9gag.com/gag/aD2mB1Z)<!-- MEMES:END -->
+ - 😝 [Smooth until you hit a bump](http://9gag.com/gag/a87jBX1)
+ - 😝 [Man went on a dating show, says he is a cop and immediately half the women refuse to date him because `I want to stick with the Code`](http://9gag.com/gag/adBpmGN)
+ - 💣 [The guy doesn&#39;t believe it when he meets a sane woman](http://9gag.com/gag/aZZNAX0)
+ - 😝 [That\u2019s one way to un alive your self](http://9gag.com/gag/a5QK4Bq)
+ - 👉 [What is that supposed to be?](http://9gag.com/gag/aPAGOXg)<!-- MEMES:END -->
 
 ---
 

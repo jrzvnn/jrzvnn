@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cringe but wood](http://9gag.com/gag/apRBOND)
- - 😝 [Man confronting shoplifters as they try to leave in Downey, California](http://9gag.com/gag/agmVrLq)
- - 💣 [Uh oh....](http://9gag.com/gag/agmNWVK)
- - 😝 [The guy doesn&#39;t believe it when he meets a sane woman](http://9gag.com/gag/aZZNAX0)
- - 👉 [This part was not shown to the audience at the end of the debate](http://9gag.com/gag/aYQw93m)<!-- MEMES:END -->
+ - 😝 [Every now and then I rewatch this](http://9gag.com/gag/aAypnwR)
+ - 😝 [The &#39;meah&#39; at the end killed me.](http://9gag.com/gag/aXPX8j9)
+ - 💣 [Pressing reset button in racing game be like](http://9gag.com/gag/aByrqo2)
+ - 😝 [Entitled douche](http://9gag.com/gag/aXPXD3d)
+ - 👉 [The debates.](http://9gag.com/gag/amo8jV9)<!-- MEMES:END -->
 
 ---
 

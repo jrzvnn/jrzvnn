@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The debates.](http://9gag.com/gag/amo8jV9)
- - 😝 [Like it, but too much work for a mosquito coil holder.](http://9gag.com/gag/a6ZLWGm)
- - 💣 [Japan and their kawaii beam](http://9gag.com/gag/aMVQpoG)
- - 😝 [Why would you say something so controversial and yet so brave?](http://9gag.com/gag/aRBA60y)
- - 👉 [He&#39;s not the one, And I know you&#39;re not.](http://9gag.com/gag/ae9poxB)<!-- MEMES:END -->
+ - 😝 [Tell me, who number two works for?](http://9gag.com/gag/aqy54Nj)
+ - 😝 [Lol](http://9gag.com/gag/a87jBM1)
+ - 💣 [The debates.](http://9gag.com/gag/amo8jV9)
+ - 😝 [Nope](http://9gag.com/gag/aKGB0YQ)
+ - 👉 [Man went on a dating show, says he is a cop and immediately half the women refuse to date him because `I want to stick with the Code`](http://9gag.com/gag/adBpmGN)<!-- MEMES:END -->
 
 ---
 

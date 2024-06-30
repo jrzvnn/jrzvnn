@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The portable speakers you need this summer](https://www.theverge.com/24188267/best-portable-bluetooth-speakers-boom-beats-installer)
- - [New AirPods with IR camera coming to enhance Spatial Audio in Apple Vision Pro](https://appleinsider.com/articles/24/06/30/new-airpods-with-ir-camera-coming-to-enhance-spatial-audio-in-apple-vision-pro?utm_medium=rss)
- - [Kaiko: the proportion of Bitcoin traded over weekends has fallen to 16% in 2024 so far, down from 28% in 2019, a trend likely accelerated by Bitcoin ETFs launch &lpar;Benjamin Taubman/Bloomberg&rpar;](http://www.techmeme.com/240630/p5#a240630p5)
- - [29 Dorm Room Essentials Available on Amazon Now](https://www.cnet.com/news/dorm-room-essentials-on-amazon/#ftag=CAD590a51e)
- - [There&#39;s a Big Connection Between Gut and Skin Health. Why Aren&#39;t We Talking About It?](https://www.cnet.com/health/nutrition/theres-a-big-connection-between-gut-and-skin-health-why-arent-we-talking-about-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Poaching Eggs in the Microwave May Be the Best Breakfast Hack Ever](https://www.cnet.com/home/kitchen-and-household/poaching-eggs-in-the-microwave-may-be-the-best-breakfast-hack-ever/#ftag=CAD590a51e)
+ - [Arlo Home Security System Review: Arlo&#39;s All-in-One Sensors Are Better Than Ever](https://www.cnet.com/home/security/arlo-home-security-system-review-a-flexible-system-for-an-affordable-price/#ftag=CAD590a51e)
+ - [Samsung Unpacked Summer 2024: What to Expect, From the Galaxy Z Fold 6 to AI and More](https://www.cnet.com/tech/mobile/samsung-unpacked-summer-2024-what-to-expect-from-the-galaxy-z-fold-6-to-ai-and-more/#ftag=CAD590a51e)
+ - [DJ vs. Google&#39;s AI: Experimental MusicFX](https://www.cnet.com/tech/services-and-software/dj-vs-googles-ai-experimental-musicfx/#ftag=CAD590a51e)
+ - [This Camera Is So Weird and I Love It: Testing the Hasselblad 907X](https://www.cnet.com/tech/computing/this-camera-is-so-weird-and-i-love-it-testing-the-hasselblad-907x/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

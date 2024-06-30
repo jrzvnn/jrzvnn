@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Which one of you was that?](http://9gag.com/gag/avyLbXM)
- - 😝 [Powerful](http://9gag.com/gag/aD2mB1Z)
- - 💣 [Based](http://9gag.com/gag/aRBAweQ)
- - 😝 [Thousands of Germans gather in the park where 20-year-old Greek Filippos Tsanis was beaten to death by a gang of youths for wearing a large cross on his chest The main perpetrator is an 18-year-old Syrian repeat offender.\ud83d\ude4f](http://9gag.com/gag/a6Z7rjb)
- - 👉 [The guy doesn&#39;t believe it when he meets a sane woman](http://9gag.com/gag/aZZNAX0)<!-- MEMES:END -->
+ - 😝 [Nope](http://9gag.com/gag/aKGB0YQ)
+ - 😝 [He&#39;s not the one, And I know you&#39;re not.](http://9gag.com/gag/ae9poxB)
+ - 💣 [The Chinese Tianlong-3 Rocket Accidentally Launched During A Engine Test](http://9gag.com/gag/aByYRgx)
+ - 😝 [Even the show mocked her...](http://9gag.com/gag/aMVG1ZW)
+ - 👉 [Imagine the decline after 4 more years](http://9gag.com/gag/aE07vpK)<!-- MEMES:END -->
 
 ---
 

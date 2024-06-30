@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Imagine the decline after 4 more years](http://9gag.com/gag/aE07vpK)
- - 😝 [Man confronting shoplifters as they try to leave in Downey, California](http://9gag.com/gag/agmVrLq)
+ - 😝 [Tiny body, big heart](http://9gag.com/gag/amo8Ej4)
+ - 😝 [Cancer Cell Hit By An Ion Beam.](http://9gag.com/gag/a7o7LOw)
  - 💣 [The Chinese Tianlong-3 Rocket Accidentally Launched During A Engine Test](http://9gag.com/gag/aByYRgx)
- - 😝 [Nope](http://9gag.com/gag/aKGB0YQ)
+ - 😝 [Imagine the decline after 4 more years](http://9gag.com/gag/aE07vpK)
  - 👉 [What is that supposed to be?](http://9gag.com/gag/aPAGOXg)<!-- MEMES:END -->
 
 ---

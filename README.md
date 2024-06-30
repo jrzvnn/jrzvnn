@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`patient zero of woke fem design`](http://9gag.com/gag/a4PLM3p)
- - 😝 [Man confronting shoplifters as they try to leave in Downey, California](http://9gag.com/gag/agmVrLq)
- - 💣 [This is elder abuse, his wife and his staffers are despicable](http://9gag.com/gag/aLnByVV)
- - 😝 [Uh oh....](http://9gag.com/gag/agmNWVK)
- - 👉 [What is that supposed to be?](http://9gag.com/gag/aPAGOXg)<!-- MEMES:END -->
+ - 😝 [That\u2019s one way to un alive your self](http://9gag.com/gag/a5QK4Bq)
+ - 😝 [Lol](http://9gag.com/gag/a87jBM1)
+ - 💣 [Coffee](http://9gag.com/gag/a9yPx9o)
+ - 😝 [The debates.](http://9gag.com/gag/amo8jV9)
+ - 👉 [This could be a nice Toyota advertisement](http://9gag.com/gag/a87jZd1)<!-- MEMES:END -->
 
 ---
 

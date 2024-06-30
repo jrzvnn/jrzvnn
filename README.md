@@ -162,9 +162,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [The Vision Pro will get Apple Intelligence and “Go Deeper” in-store demos](https://www.theverge.com/2024/6/30/24189328/vision-pro-apple-intelligence-in-store-demo-cheaper-version)
  - [Apple Ring: Two decades of rumors and speculation about a smart ring](https://appleinsider.com/articles/24/06/28/apple-ring-two-decades-of-rumors-and-speculation-about-a-smart-ring?utm_medium=rss)
+ - [Best Internet Providers in Charlotte, North Carolina](https://www.cnet.com/home/internet/best-internet-providers-in-charlotte-nc/#ftag=CAD590a51e)
  - [The best mechanical keyboards to buy right now](https://www.theverge.com/23384750/best-mechanical-keyboard-wired-wireless-75-percent-layout-cheap-bluetooth)
- - [Whole-Body Deodorant: How It Works and Who It&#39;s Best For](https://www.cnet.com/health/personal-care/whole-body-deodorant-how-it-works-and-who-its-best-for/#ftag=CAD590a51e)
- - [Best Internet Providers in Garland, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-garland-tx/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Blue Light Glasses of 2024](https://www.cnet.com/health/personal-care/best-blue-light-blocking-glasses/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

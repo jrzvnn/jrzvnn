@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What do we say to the god of death](http://9gag.com/gag/a5QKLVr)
- - 😝 [This part was not shown to the audience at the end of the debate](http://9gag.com/gag/aYQw93m)
- - 💣 [Muscle memory in faking.](http://9gag.com/gag/aMVQ3QV)
- - 😝 [The guy doesn&#39;t believe it when he meets a sane woman](http://9gag.com/gag/aZZNAX0)
- - 👉 [Uh oh....](http://9gag.com/gag/agmNWVK)<!-- MEMES:END -->
+ - 😝 [Pressing reset button in racing game be like](http://9gag.com/gag/aByrqo2)
+ - 😝 [Entitled douche](http://9gag.com/gag/aXPXD3d)
+ - 💣 [The debates.](http://9gag.com/gag/amo8jV9)
+ - 😝 [The &#39;meah&#39; at the end killed me.](http://9gag.com/gag/aXPX8j9)
+ - 👉 [Japan and their kawaii beam](http://9gag.com/gag/aMVQpoG)<!-- MEMES:END -->
 
 ---
 

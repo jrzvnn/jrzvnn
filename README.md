@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Atos reaches a deal in principle with its creditors that restructures its debt, including injecting &amp;euro;233M in equity, and lets the creditors take control of Atos &lpar;Irene Garcia Perez/Bloomberg&rpar;](http://www.techmeme.com/240630/p9#a240630p9)
  - [A look at the history of and challenges facing Meta&#39;s Oversight Board as it works on its second act: a body to help social media platforms comply with EU&#39;s DSA &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/240630/p8#a240630p8)
  - [Epic moves forward with iPhone &#39;Fortnite&#39; return plans via EU alternative App Store](https://appleinsider.com/articles/24/06/30/epic-moves-forward-with-iphone-fortnite-return-plans-via-eu-alternative-app-store?utm_medium=rss)
  - [How to Watch Euro 2024: Spain vs. Georgia -- Livestream Soccer From Anywhere](https://www.cnet.com/tech/services-and-software/how-to-watch-euro-2024-spain-vs-georgia-livestream-soccer-from-anywhere/#ftag=CAD590a51e)
- - [Winded After Walking Up Stairs? Here&#39;s What&#39;s Normal and What&#39;s Not](https://www.cnet.com/health/fitness/winded-after-walking-up-stairs-heres-whats-normal-and-whats-not/#ftag=CAD590a51e)
- - [Spectrum&#39;s Prices Are Going Up in July. Here’s What You Can Do](https://www.cnet.com/home/internet/spectrums-prices-are-going-up-in-july-heres-what-you-can-do/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Winded After Walking Up Stairs? Here&#39;s What&#39;s Normal and What&#39;s Not](https://www.cnet.com/health/fitness/winded-after-walking-up-stairs-heres-whats-normal-and-whats-not/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

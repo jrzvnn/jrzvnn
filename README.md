@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kuo: Apple plans to mass produce new AirPods with camera modules by 2026, which will include an IR camera similar to the iPhone Face ID receiver &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240630/p7#a240630p7)
  - [Apple may want to monetize advanced Apple Intelligence features in the future](https://appleinsider.com/articles/24/06/30/apple-may-want-to-monetize-advanced-apple-intelligence-features-in-the-future?utm_medium=rss)
  - [Want a Cooler House? Buying These Houseplants Can Help](https://www.cnet.com/news/want-a-cooler-house-buying-these-houseplants-can-help/#ftag=CAD590a51e)
  - [SZA at Glastonbury 2024: Livestream Her Headline Festival Set From Anywhere](https://www.cnet.com/tech/services-and-software/sza-at-glastonbury-2024-livestream-her-headline-festival-set-from-anywhere/#ftag=CAD590a51e)
- - [We&#39;ve Been Testing Grills for Years, and These Are Our Top Picks](https://www.wired.com/gallery/best-grills/)
- - [Sources: Apple is actively working to bring the AI features to Vision Pro, rejiggers Vision Pro&#39;s retail demos, and starts developing 2025&#39;s operating systems &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240630/p6#a240630p6)<!-- TECH:END -->
+ - [We&#39;ve Been Testing Grills for Years, and These Are Our Top Picks](https://www.wired.com/gallery/best-grills/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

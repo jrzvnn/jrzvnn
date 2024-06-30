@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple is already working on iOS 19, iPadOS 19, macOS 16, and more](https://appleinsider.com/articles/24/06/30/apple-is-already-working-on-ios-19-ipados-19-and-macos-16?utm_medium=rss)
  - [A MacBook Pro design refresh is probably years away](https://appleinsider.com/articles/24/06/30/a-macbook-pro-design-refresh-is-probably-years-away?utm_medium=rss)
  - [Apple Intelligence may be coming to Vision Pro -- but not soon](https://appleinsider.com/articles/24/06/30/apple-intelligence-may-be-coming-to-vision-pro----but-not-soon?utm_medium=rss)
- - [We Tested All of Amazon&#39;s Fire Tablets So You Don&#39;t Have To. Here Are the Ones You Should Get](https://www.wired.com/gallery/best-amazon-fire-tablet/)
- - [How to watch Summer Games Done Quick 2024](https://www.theverge.com/24187364/summer-games-done-quick-watch-live-sgdq)
- - [Poaching Eggs in the Microwave May Be the Best Breakfast Hack Ever](https://www.cnet.com/home/kitchen-and-household/poaching-eggs-in-the-microwave-may-be-the-best-breakfast-hack-ever/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Watch Euro 2024: England vs. Slovakia – Livestream Soccer From Anywhere](https://www.cnet.com/tech/services-and-software/how-to-watch-euro-2024-england-vs-slovakia-livestream-soccer-from-anywhere/#ftag=CAD590a51e)
+ - [We Tested All of Amazon&#39;s Fire Tablets So You Don&#39;t Have To. Here Are the Ones You Should Get](https://www.wired.com/gallery/best-amazon-fire-tablet/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

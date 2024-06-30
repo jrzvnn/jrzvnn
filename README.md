@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Every now and then I rewatch this](http://9gag.com/gag/aAypnwR)
- - 😝 [The &#39;meah&#39; at the end killed me.](http://9gag.com/gag/aXPX8j9)
- - 💣 [Pressing reset button in racing game be like](http://9gag.com/gag/aByrqo2)
- - 😝 [Entitled douche](http://9gag.com/gag/aXPXD3d)
- - 👉 [The debates.](http://9gag.com/gag/amo8jV9)<!-- MEMES:END -->
+ - 😝 [`patient zero of woke fem design`](http://9gag.com/gag/a4PLM3p)
+ - 😝 [Man confronting shoplifters as they try to leave in Downey, California](http://9gag.com/gag/agmVrLq)
+ - 💣 [This is elder abuse, his wife and his staffers are despicable](http://9gag.com/gag/aLnByVV)
+ - 😝 [Uh oh....](http://9gag.com/gag/agmNWVK)
+ - 👉 [What is that supposed to be?](http://9gag.com/gag/aPAGOXg)<!-- MEMES:END -->
 
 ---
 

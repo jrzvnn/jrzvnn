@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Entitled douche](http://9gag.com/gag/aXPXD3d)
- - 😝 [What do we say to the god of death](http://9gag.com/gag/a5QKLVr)
- - 💣 [Nope](http://9gag.com/gag/aKGB0YQ)
- - 😝 [Man went on a dating show, says he is a cop and immediately half the women refuse to date him because `I want to stick with the Code`](http://9gag.com/gag/adBpmGN)
- - 👉 [That\u2019s one way to un alive your self](http://9gag.com/gag/a5QK4Bq)<!-- MEMES:END -->
+ - 😝 [Tiny body, big heart](http://9gag.com/gag/amo8Ej4)
+ - 😝 [Of course they don&#39;t](http://9gag.com/gag/adBpmeB)
+ - 💣 [Man went on a dating show, says he is a cop and immediately half the women refuse to date him because `I want to stick with the Code`](http://9gag.com/gag/adBpmGN)
+ - 😝 [The guy doesn&#39;t believe it when he meets a sane woman](http://9gag.com/gag/aZZNAX0)
+ - 👉 [Nope](http://9gag.com/gag/aKGB0YQ)<!-- MEMES:END -->
 
 ---
 

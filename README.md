@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tiny body, big heart](http://9gag.com/gag/amo8Ej4)
- - 😝 [What do we say to the god of death](http://9gag.com/gag/a5QKLVr)
- - 💣 [Uh oh....](http://9gag.com/gag/agmNWVK)
- - 😝 [This part was not shown to the audience at the end of the debate](http://9gag.com/gag/aYQw93m)
- - 👉 [Bring more of them to Europe](http://9gag.com/gag/a87jPne)<!-- MEMES:END -->
+ - 😝 [Man confronting shoplifters as they try to leave in Downey, California](http://9gag.com/gag/agmVrLq)
+ - 😝 [Entitled douche](http://9gag.com/gag/aXPXD3d)
+ - 💣 [Like it, but too much work for a mosquito coil holder.](http://9gag.com/gag/a6ZLWGm)
+ - 😝 [The debates.](http://9gag.com/gag/amo8jV9)
+ - 👉 [He&#39;s not the one, And I know you&#39;re not.](http://9gag.com/gag/ae9poxB)<!-- MEMES:END -->
 
 ---
 

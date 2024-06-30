@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Uh oh....](http://9gag.com/gag/agmNWVK)
- - 😝 [`He&#39;s fine.....`](http://9gag.com/gag/aryRY3p)
- - 💣 [He&#39;s not the one, And I know you&#39;re not.](http://9gag.com/gag/ae9poxB)
- - 😝 [I like this version](http://9gag.com/gag/aD2myRd)
- - 👉 [That\u2019s one way to un alive your self](http://9gag.com/gag/a5QK4Bq)<!-- MEMES:END -->
+ - 😝 [What do we say to the god of death](http://9gag.com/gag/a5QKLVr)
+ - 😝 [This part was not shown to the audience at the end of the debate](http://9gag.com/gag/aYQw93m)
+ - 💣 [Muscle memory in faking.](http://9gag.com/gag/aMVQ3QV)
+ - 😝 [The guy doesn&#39;t believe it when he meets a sane woman](http://9gag.com/gag/aZZNAX0)
+ - 👉 [Uh oh....](http://9gag.com/gag/agmNWVK)<!-- MEMES:END -->
 
 ---
 

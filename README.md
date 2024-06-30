@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best iPad Deals: Score Up to $200 Off on New Apple Tablets](https://www.cnet.com/deals/best-ipad-deals/#ftag=CAD590a51e)
- - [An interview with Plaid&#39;s first president, Jennifer Taylor, on expanding beyond its traditional fintech customers as its enterprise customer base crosses 1,000 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240630/p4#a240630p4)
- - [SK Hynix plans to invest ~$75B on chips through 2028, allocating ~80%, or $60B, on manufacturing HBM chips, as part of the parent company SK Group&#39;s bet on AI &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/240630/p3#a240630p3)
- - [European fintech execs say financial services are shunning AI over job loss and regulatory fears, despite evidence that AI will boost productivity and cut costs &lpar;Financial Times&rpar;](http://www.techmeme.com/240630/p2#a240630p2)
- - [Last Call: This Key Student Loan Forgiveness Deadline Ends Today](https://www.cnet.com/personal-finance/loans/last-call-this-key-student-loan-forgiveness-deadline-ends-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Amazon Deals: Shop Budget-Friendly Tech, Home Goods and More Right Now](https://www.cnet.com/deals/best-amazon-deals-shop-budget-friendly-tech-home-goods-and-more-under-100/#ftag=CAD590a51e)
+ - [Xbox Game Pass: You Can Play My Time at Sandrock, FC 24 and More Now](https://www.cnet.com/tech/gaming/xbox-game-pass-you-can-play-my-time-at-sandrock-fc-24-and-more-now/#ftag=CAD590a51e)
+ - [Everything You Need to Know About iOS 17 Before iOS 18&#39;s Release](https://www.cnet.com/tech/mobile/everything-you-need-to-know-about-ios-17-before-ios-18s-release/#ftag=CAD590a51e)
+ - [What are Ohms? Everything You Need to Know About Speaker Impedance](https://www.cnet.com/tech/home-entertainment/what-are-ohms-everything-you-need-to-know-about-speaker-impedance/#ftag=CAD590a51e)
+ - [Best iPad Deals: Score Up to $200 Off on New Apple Tablets](https://www.cnet.com/deals/best-ipad-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

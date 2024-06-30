@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pressing reset button in racing game be like](http://9gag.com/gag/aByrqo2)
- - 😝 [Entitled douche](http://9gag.com/gag/aXPXD3d)
- - 💣 [The debates.](http://9gag.com/gag/amo8jV9)
+ - 😝 [Like it, but too much work for a mosquito coil holder.](http://9gag.com/gag/a6ZLWGm)
  - 😝 [The &#39;meah&#39; at the end killed me.](http://9gag.com/gag/aXPX8j9)
- - 👉 [Japan and their kawaii beam](http://9gag.com/gag/aMVQpoG)<!-- MEMES:END -->
+ - 💣 [Entitled douche](http://9gag.com/gag/aXPXD3d)
+ - 😝 [The debates.](http://9gag.com/gag/amo8jV9)
+ - 👉 [Thousands of Germans gather in the park where 20-year-old Greek Filippos Tsanis was beaten to death by a gang of youths for wearing a large cross on his chest The main perpetrator is an 18-year-old Syrian repeat offender.\ud83d\ude4f](http://9gag.com/gag/a6Z7rjb)<!-- MEMES:END -->
 
 ---
 

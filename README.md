@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The debates.](http://9gag.com/gag/amo8jV9)
+ - 😝 [Cringe but wood](http://9gag.com/gag/apRBOND)
+ - 😝 [How to ruin everybodys day](http://9gag.com/gag/aPAGOvn)
+ - 💣 [Entitled douche](http://9gag.com/gag/aXPXD3d)
  - 😝 [He&#39;s not the one, And I know you&#39;re not.](http://9gag.com/gag/ae9poxB)
- - 💣 [Powerful](http://9gag.com/gag/aD2mB1Z)
- - 😝 [This part was not shown to the audience at the end of the debate](http://9gag.com/gag/aYQw93m)
- - 👉 [Man went on a dating show, says he is a cop and immediately half the women refuse to date him because `I want to stick with the Code`](http://9gag.com/gag/adBpmGN)<!-- MEMES:END -->
+ - 👉 [Uh oh....](http://9gag.com/gag/agmNWVK)<!-- MEMES:END -->
 
 ---
 

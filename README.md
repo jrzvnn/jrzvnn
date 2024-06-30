@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cancer Cell Hit By An Ion Beam.](http://9gag.com/gag/a7o7LOw)
- - 😝 [What do we say to the god of death](http://9gag.com/gag/a5QKLVr)
- - 💣 [Imagine the decline after 4 more years](http://9gag.com/gag/aE07vpK)
- - 😝 [What is that supposed to be?](http://9gag.com/gag/aPAGOXg)
- - 👉 [Drunk guy kicks in hotel front door before getting dropped by a cop](http://9gag.com/gag/a6Z7rPR)<!-- MEMES:END -->
+ - 😝 [Powerful](http://9gag.com/gag/aD2mB1Z)
+ - 😝 [Which one of you was that?](http://9gag.com/gag/avyLbXM)
+ - 💣 [Thousands of Germans gather in the park where 20-year-old Greek Filippos Tsanis was beaten to death by a gang of youths for wearing a large cross on his chest The main perpetrator is an 18-year-old Syrian repeat offender.\ud83d\ude4f](http://9gag.com/gag/a6Z7rjb)
+ - 😝 [Based](http://9gag.com/gag/aRBAweQ)
+ - 👉 [The guy doesn&#39;t believe it when he meets a sane woman](http://9gag.com/gag/aZZNAX0)<!-- MEMES:END -->
 
 ---
 

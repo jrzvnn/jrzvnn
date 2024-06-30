@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU tech regulators asked Temu and Shein to provide details on how they comply with the Digital Services Act by July 12, following complaints by consumer bodies &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240629/p14#a240629p14)
- - [The biggest trailers of the week: June 23rd to June 29th](https://www.theverge.com/2024/6/29/24189019/biggest-trailers-deadpool-wolverine-nosferatu-batman-heretic-week-june-23-29)
- - [How Avery Johnson and Warren Brodey, early members of the American Society for Cybernetics, created a lab in 1967 with a utopian vision to personalize computing &lpar;Evgeny Morozov/Financial Times&rpar;](http://www.techmeme.com/240629/p13#a240629p13)
- - [Best Internet Providers in Frisco, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-frisco-tx/#ftag=CAD590a51e)
- - [Fourth of July Deal: Save Up to $1,000 on Samsung Partial-Sun TVs, Up to $3,500 on Full-Sun TVs](https://www.cnet.com/deals/fourth-of-july-deal-save-up-to-1000-on-samsung-partial-sun-tvs-up-to-3500-on-full-sun-tvs/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Chime buys enterprise employee rewards company Salt Labs, sources say in a deal worth up to $173M; Salt Labs had raised $18M and was valued at $80M in December &lpar;Luisa Beltran/Fortune&rpar;](http://www.techmeme.com/240629/p15#a240629p15)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for June 30, #385](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-june-30-385/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for June 30, #119](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-june-30-119/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for June 30, #1107](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-june-30-1107/#ftag=CAD590a51e)
+ - [EU tech regulators asked Temu and Shein to provide details on how they comply with the Digital Services Act by July 12, following complaints by consumer bodies &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240629/p14#a240629p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

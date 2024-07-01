@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Japan-based SmartHR, which offers a cloud human resources and labor management software, raised a $140M Series E led by KKR and Teachers&#39; Ventures Growth &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/240701/p6#a240701p6)
+ - [Deadline for iPhone 7 audio settlement extended to July 3, 2024](https://appleinsider.com/articles/24/07/01/deadline-for-iphone-7-audio-settlement-extended-to-july-3-2024?utm_medium=rss)
  - [Government data: the value of South Korea&#39;s chip shipments reached $13.4B in June, up 51% YoY; exports of display products up 26% YoY and computers up 59% YoY &lpar;Bloomberg&rpar;](http://www.techmeme.com/240701/p5#a240701p5)
  - [18 Best Early Prime Day Deals to Shop Now: Save on TVs, Smart Home and More](https://www.cnet.com/deals/amazon-prime-day/#ftag=CAD590a51e)
- - [Sources: the EU plans to charge Meta under the DMA this week, focusing on Meta&#39;s pay or consent model where users pay for an ad-free Facebook and Instagram &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240701/p4#a240701p4)
- - [Nigeria&#39;s food delivery startups are attracting investors optimistic about the growing demand in a market that is expected to double to $2.4B over eight years &lpar;Aanu Adeoye/Financial Times&rpar;](http://www.techmeme.com/240701/p3#a240701p3)
- - [Best MagSafe Accessories for iPhone in 2024](https://www.cnet.com/tech/mobile/best-magsafe-and-magnetic-iphone-accessories/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: the EU plans to charge Meta under the DMA this week, focusing on Meta&#39;s pay or consent model where users pay for an ad-free Facebook and Instagram &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240701/p4#a240701p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

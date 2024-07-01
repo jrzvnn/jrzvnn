@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Future Apple Vision: What to expect from Apple&#39;s next headsets](https://appleinsider.com/articles/24/07/01/future-apple-vision-what-to-expect-from-apples-next-headsets?utm_medium=rss)
+ - [SmartThings adds Matter support for appliances and robot vacuums](https://www.theverge.com/2024/7/1/24189785/samsung-smartthings-matter-1-2-support-robot-vacuums)
+ - [Cync cabinet lights, Hue table lamp, &amp; Matter remotes on the HomeKit Insider Podcast](https://appleinsider.com/articles/24/07/01/cync-cabinet-lights-hue-table-lamp-matter-remotes-on-the-homekit-insider-podcast?utm_medium=rss)
  - [How Big Green Egg is inviting zoomers to the cult of kamado cooking](https://www.theverge.com/24188080/big-green-egg-smoker-grill-cooking-kamado-backyard-dan-gertsacov-fire-fourth-of-july)
- - [Source: Character.AI held talks over partnerships with Google, Meta, and xAI, to access the partnering company&#39;s computing in return for sharing some of its IP &lpar;Kalley Huang/The Information&rpar;](http://www.techmeme.com/240701/p9#a240701p9)
- - [Rare Unlocked iPhone 15 Deal Offers Up to $120 Off Apple&#39;s Prices](https://www.cnet.com/deals/rare-unlocked-iphone-15-deal-offers-up-to-120-off-apples-prices/#ftag=CAD590a51e)
- - [Best Satellite Messengers &lpar;2024&rpar;: Iridium, Tracking Devices, Garmin](https://www.wired.com/gallery/best-satellite-messengers/)
- - [Best CD Rates for June 2024](https://www.cnet.com/personal-finance/best-cd-rates/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Source: Character.AI held talks over research partnerships with Google, Meta, and xAI, to access their computing resources in return for sharing some of its IP &lpar;Kalley Huang/The Information&rpar;](http://www.techmeme.com/240701/p9#a240701p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

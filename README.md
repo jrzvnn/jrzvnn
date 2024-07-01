@@ -161,10 +161,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
+ - [These Are the Best VR Headsets, Accessories, Apps, and Games to Work and Play in the Metaverse](https://www.wired.com/gallery/best-vr-headsets-in-this-reality/)
  - [Circle says it has been granted an e-money license from France, making the crypto startup compliant with stablecoin provisions under the EU&#39;s tough crypto laws &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240701/p12#a240701p12)
  - [Amazon&#39;s $2,199 M3 MacBook Pro 16-inch deal delivers cheapest price ahead of Prime Day](https://appleinsider.com/articles/24/07/01/amazons-2199-m3-macbook-pro-16-inch-deal-delivers-cheapest-price-ahead-of-prime-day?utm_medium=rss)
- - [Elgato’s new Stream Deck is on sale for the first time and $15 off](https://www.theverge.com/2024/7/1/24189820/elgato-stream-deck-neo-twitch-streaming-macro-pad-deal-sale)
- - [Trump is ‘absolutely’ immune for ‘official acts’ on Jan 6th, SCOTUS rules](https://www.theverge.com/2024/7/1/24188335/supreme-court-trump-v-us-presidential-immunity-criminal-prosecution)<!-- TECH:END -->
+ - [Elgato’s new Stream Deck is on sale for the first time and $15 off](https://www.theverge.com/2024/7/1/24189820/elgato-stream-deck-neo-twitch-streaming-macro-pad-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

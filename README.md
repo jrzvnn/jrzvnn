@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The most passionate.... Wth!!!](http://9gag.com/gag/aZZMWM3)
+ - 😝 [Ex-wife picks up the kids from the father\u2019s house](http://9gag.com/gag/ae9GKy5)
  - 😝 [Imagine the decline after 4 more years](http://9gag.com/gag/aE07vpK)
- - 💣 [What is that supposed to be?](http://9gag.com/gag/aPAGOXg)
- - 😝 [Drunk guy kicks in hotel front door before getting dropped by a cop](http://9gag.com/gag/a6Z7rPR)
- - 👉 [Girl tourist on vacation in San Lorenzo.. unluckily met Algerian muslim man](http://9gag.com/gag/aGyRPB5)<!-- MEMES:END -->
+ - 💣 [Drunk guy kicks in hotel front door before getting dropped by a cop](http://9gag.com/gag/a6Z7rPR)
+ - 😝 [That moment in Predator 2 we all went `wait, is that\u2026`](http://9gag.com/gag/aQznYpr)
+ - 👉 [The most passionate.... Wth!!!](http://9gag.com/gag/aZZMWM3)<!-- MEMES:END -->
 
 ---
 

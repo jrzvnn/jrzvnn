@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [France after election results show massive gain for right wing party](http://9gag.com/gag/a5Q7dLL)
- - 😝 [This guy was like ` how is being arrested real? Just walk away lol`](http://9gag.com/gag/a87MbbQ)
- - 💣 [Ex-wife picks up the kids from the father\u2019s house](http://9gag.com/gag/ae9GKy5)
- - 😝 [Don&#39;t piss drunk overboard](http://9gag.com/gag/amo90Kv)
- - 👉 [Gear up people down](http://9gag.com/gag/aoy9Zyn)<!-- MEMES:END -->
+ - 😝 [When the Adderall wears off and you realize that you are tired from life.](http://9gag.com/gag/ae9G3xj)
+ - 😝 [North Koreans see K-pop for the first time, fully aware they\u2019re being watched, unsure how to react](http://9gag.com/gag/aD2o3oG)
+ - 💣 [Cancer Cell Hit By An Ion Beam.](http://9gag.com/gag/a7o7LOw)
+ - 😝 [A short and witty title does the trick.](http://9gag.com/gag/aRBAgG5)
+ - 👉 [The most passionate.... Wth!!!](http://9gag.com/gag/aZZMWM3)<!-- MEMES:END -->
 
 ---
 

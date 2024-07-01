@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When the Adderall wears off and you realize that you are tired from life.](http://9gag.com/gag/ae9G3xj)
- - 😝 [Cancer Cell Hit By An Ion Beam.](http://9gag.com/gag/a7o7LOw)
- - 💣 [The most passionate.... Wth!!!](http://9gag.com/gag/aZZMWM3)
+ - 😝 [Proof that Arcanine is a legendary Pokemon](http://9gag.com/gag/a6Z7yoN)
  - 😝 [Even the show mocked her...](http://9gag.com/gag/aMVG1ZW)
- - 👉 [France after election results show massive gain for right wing party](http://9gag.com/gag/a5Q7dLL)<!-- MEMES:END -->
+ - 💣 [This guy was like ` how is being arrested real? Just walk away lol`](http://9gag.com/gag/a87MbbQ)
+ - 😝 [France after election results show massive gain for right wing party](http://9gag.com/gag/a5Q7dLL)
+ - 👉 [Cancer Cell Hit By An Ion Beam.](http://9gag.com/gag/a7o7LOw)<!-- MEMES:END -->
 
 ---
 

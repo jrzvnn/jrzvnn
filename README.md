@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The most passionate.... Wth!!!](http://9gag.com/gag/aZZMWM3)
- - 😝 [North Koreans see K-pop for the first time, fully aware they\u2019re being watched, unsure how to react](http://9gag.com/gag/aD2o3oG)
- - 💣 [This guy was like ` how is being arrested real? Just walk away lol`](http://9gag.com/gag/a87MbbQ)
- - 😝 [Gear up people down](http://9gag.com/gag/aoy9Zyn)
- - 👉 [Man confronting shoplifters as they try to leave in Downey, California](http://9gag.com/gag/agmVrLq)<!-- MEMES:END -->
+ - 😝 [Female behaviour](http://9gag.com/gag/a0epPXQ)
+ - 😝 [Imagine if the roles were reversed](http://9gag.com/gag/ajPA6Vw)
+ - 💣 [Different types of Asians. Part 1](http://9gag.com/gag/a9y7M4L)
+ - 😝 [How defeat a Jedi](http://9gag.com/gag/aoy90GA)
+ - 👉 [Modern problem required modern solutions](http://9gag.com/gag/avyPpbM)<!-- MEMES:END -->
 
 ---
 

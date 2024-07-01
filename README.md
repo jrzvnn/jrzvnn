@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: French antitrust regulators are preparing to charge Nvidia for allegedly anti-competitive practices &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240701/p11#a240701p11)
  - [Supreme Court rules in major internet speech cases](https://www.theverge.com/2024/7/1/24166388/supreme-court-ruling-moody-paxton-texas-florida-social-media-law)
  - [SCOTUS orders lower courts to take another look at Texas&#39; and Florida&#39;s social media laws, says neither lower court conducted proper analysis of 1A challenges &lpar;CBS News&rpar;](http://www.techmeme.com/240701/p10#a240701p10)
  - [Future Apple Vision: What to expect from Apple&#39;s next headsets](https://appleinsider.com/articles/24/07/01/future-apple-vision-what-to-expect-from-apples-next-headsets?utm_medium=rss)
- - [A major SmartThings update brings support for appliances, robot vacuums, and more through Matter](https://www.theverge.com/2024/7/1/24189785/samsung-smartthings-matter-1-2-support-robot-vacuums)
- - [Cync cabinet lights, Hue table lamp, &amp; Matter remotes on the HomeKit Insider Podcast](https://appleinsider.com/articles/24/07/01/cync-cabinet-lights-hue-table-lamp-matter-remotes-on-the-homekit-insider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [A major SmartThings update brings support for appliances, robot vacuums, and more through Matter](https://www.theverge.com/2024/7/1/24189785/samsung-smartthings-matter-1-2-support-robot-vacuums)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

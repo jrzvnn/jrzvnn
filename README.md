@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some Pixel 6 owners say factory resets have bricked their phones](https://www.theverge.com/2024/7/1/24190024/google-pixel-6-factory-reset-bricking-phones)
  - [Apple already considers the first HomePod ‘vintage’](https://www.theverge.com/2024/7/1/24190032/apple-vintage-homepod-airpods-iphone-x)
  - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)
  - [Cyberattacks against CDK Global, used by ~15K car dealerships, and Change Healthcare show how large swathes of some industries have a &quot;single point of failure&quot; &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/240701/p13#a240701p13)
- - [Apple is expecting big iPhone 16 sales, based on chip orders](https://appleinsider.com/articles/24/07/01/apple-is-expecting-big-iphone-16-sales-based-on-chip-orders?utm_medium=rss)
- - [Instagram’s ‘Made with AI’ label swapped out for ‘AI info’ after photographers’ complaints](https://www.theverge.com/2024/7/1/24190026/meta-instagram-facebook-made-with-ai-info-label-metadata)<!-- TECH:END -->
+ - [Apple is expecting big iPhone 16 sales, based on chip orders](https://appleinsider.com/articles/24/07/01/apple-is-expecting-big-iphone-16-sales-based-on-chip-orders?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

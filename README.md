@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The first Thunderbolt 5 cables are here, but there’s barely anything to plug in](https://www.theverge.com/2024/7/1/24190263/thunderbolt-5-cable-matters-intel-usb-c)
+ - [SEC sues parent company of crypto-friendly Silvergate Bank and execs, saying ~$9B in suspicious FTX transfers weren&#39;t caught and its AML compliance was poor &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/240701/p16#a240701p16)
  - [Silvergate Bank didn’t adequately monitor $1 trillion in crypto transactions, SEC says](https://www.theverge.com/2024/7/1/24190255/silvergate-sec-fraud-ftx-crypto-bank)
  - [The best Prime Day deals you can already get](https://www.theverge.com/24186583/amazon-prime-day-2024-best-tech-deals-sales)
- - [This is Big Tech’s playbook for swallowing the AI industry](https://www.theverge.com/2024/7/1/24190060/amazon-adept-ai-acquisition-playbook-microsoft-inflection)
- - [Apple Fourth of July Sales: 26 Deals on iPads, Macs, AirPods and More Apple Gear](https://www.cnet.com/deals/apple-fourth-of-july-sales-26-deals-on-ipads-macs-airpods-and-more-apple-gear/#ftag=CAD590a51e)
- - [Epson WorkForce Pro All-in-One Printer](https://www.cnet.com/tech/computing/epson-workforce-pro-all-in-one-printer-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This is Big Tech’s playbook for swallowing the AI industry](https://www.theverge.com/2024/7/1/24190060/amazon-adept-ai-acquisition-playbook-microsoft-inflection)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ex-wife picks up the kids from the father\u2019s house](http://9gag.com/gag/ae9GKy5)
- - 😝 [Fat shamed](http://9gag.com/gag/aD2oAX9)
- - 💣 [This guy was like ` how is being arrested real? Just walk away lol`](http://9gag.com/gag/a87MbbQ)
- - 😝 [Imagine the decline after 4 more years](http://9gag.com/gag/aE07vpK)
- - 👉 [The Chinese Tianlong-3 Rocket Accidentally Launched During A Engine Test](http://9gag.com/gag/aByYRgx)<!-- MEMES:END -->
+ - 😝 [A meme came to life](http://9gag.com/gag/a34LopQ)
+ - 😝 [Drunk guy kicks in hotel front door before getting dropped by a cop](http://9gag.com/gag/a6Z7rPR)
+ - 💣 [Even the show mocked her...](http://9gag.com/gag/aMVG1ZW)
+ - 😝 [Cancer Cell Hit By An Ion Beam.](http://9gag.com/gag/a7o7LOw)
+ - 👉 [Imagine the decline after 4 more years](http://9gag.com/gag/aE07vpK)<!-- MEMES:END -->
 
 ---
 

@@ -161,10 +161,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Source: Character.AI held talks over partnerships with Google, Meta, and xAI, to access the partnering company&#39;s computing in return for sharing some of its IP &lpar;Kalley Huang/The Information&rpar;](http://www.techmeme.com/240701/p9#a240701p9)
+ - [Rare Unlocked iPhone 15 Deal Offers Up to $120 Off Apple&#39;s Prices](https://www.cnet.com/deals/rare-unlocked-iphone-15-deal-offers-up-to-120-off-apples-prices/#ftag=CAD590a51e)
+ - [Best CD Rates for June 2024](https://www.cnet.com/personal-finance/best-cd-rates/#ftag=CAD590a51e)
  - [Facebook and Instagram’s ‘pay or consent’ ad model violates the DMA, says the EU](https://www.theverge.com/2024/7/1/24189796/eu-meta-dma-violation-pay-consent-ads-model)
- - [Window Tiling in macOS Sequoia is Apple&#39;s third try to fix a problem](https://appleinsider.com/articles/24/07/01/window-tiling-in-macos-sequoia-is-apples-third-go-at-fixing-a-problem?utm_medium=rss)
- - [Singapore is emerging as a destination for Chinese AI startups due to less stringent AI regulations and access to Nvidia&#39;s latest chips amid US chips ban &lpar;Bloomberg&rpar;](http://www.techmeme.com/240701/p8#a240701p8)
- - [Best Solar Panel Installation Companies in Phoenix](https://www.cnet.com/home/energy-and-utilities/best-solar-panel-installation-companies-in-phoenix/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Window Tiling in macOS Sequoia is Apple&#39;s third try to fix a problem](https://appleinsider.com/articles/24/07/01/window-tiling-in-macos-sequoia-is-apples-third-go-at-fixing-a-problem?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

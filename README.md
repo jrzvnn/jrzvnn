@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This guy was like ` how is being arrested real? Just walk away lol`](http://9gag.com/gag/a87MbbQ)
- - 😝 [Drunk guy kicks in hotel front door before getting dropped by a cop](http://9gag.com/gag/a6Z7rPR)
- - 💣 [Can&#39;t be saying that anymore](http://9gag.com/gag/aW460LZ)
- - 😝 [France after election results show massive gain for right wing party](http://9gag.com/gag/a5Q7dLL)
- - 👉 [Cancer Cell Hit By An Ion Beam.](http://9gag.com/gag/a7o7LOw)<!-- MEMES:END -->
+ - 😝 [The most passionate.... Wth!!!](http://9gag.com/gag/aZZMWM3)
+ - 😝 [Imagine the decline after 4 more years](http://9gag.com/gag/aE07vpK)
+ - 💣 [France after election results show massive gain for right wing party](http://9gag.com/gag/a5Q7dLL)
+ - 😝 [He&#39;s not going to fall for that booty, be gone thott!!!](http://9gag.com/gag/amo908X)
+ - 👉 [Even the show mocked her...](http://9gag.com/gag/aMVG1ZW)<!-- MEMES:END -->
 
 ---
 

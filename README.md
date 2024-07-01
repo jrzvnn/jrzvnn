@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 16 Pro will have brighter and longer-lasting display](https://appleinsider.com/articles/24/07/01/iphone-16-pro-will-have-brighter-and-longer-lasting-display?utm_medium=rss)
  - [In its preliminary findings, the EU says Meta&#39;s pay or consent model breaches the DMA; Meta faces a fine of up to 10% of its global turnover for non-compliance &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240701/p7#a240701p7)
  - [Japan-based SmartHR, which offers a cloud human resources and labor management software, raised a $140M Series E led by KKR and Teachers&#39; Ventures Growth &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/240701/p6#a240701p6)
  - [Deadline for iPhone 7 audio settlement extended to July 3, 2024](https://appleinsider.com/articles/24/07/01/deadline-for-iphone-7-audio-settlement-extended-to-july-3-2024?utm_medium=rss)
- - [PlayStation Plus Members Can Access and Play These Games in July](https://www.cnet.com/tech/gaming/playstation-plus-members-can-access-and-play-these-games-in-july/#ftag=CAD590a51e)
- - [Emoji Meanings Explained &lpar;So the Peach Emoji Isn&#39;t About Fruit?&rpar;](https://www.cnet.com/tech/services-and-software/emoji-meanings-explained-so-the-peach-emoji-isnt-about-fruit/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [PlayStation Plus Members Can Access and Play These Games in July](https://www.cnet.com/tech/gaming/playstation-plus-members-can-access-and-play-these-games-in-july/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

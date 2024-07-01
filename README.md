@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SCOTUS orders lower courts to take another look at Texas&#39; and Florida&#39;s social media laws, says neither lower court conducted proper analysis of 1A challenges &lpar;CBS News&rpar;](http://www.techmeme.com/240701/p10#a240701p10)
  - [Future Apple Vision: What to expect from Apple&#39;s next headsets](https://appleinsider.com/articles/24/07/01/future-apple-vision-what-to-expect-from-apples-next-headsets?utm_medium=rss)
  - [SmartThings adds Matter support for appliances and robot vacuums](https://www.theverge.com/2024/7/1/24189785/samsung-smartthings-matter-1-2-support-robot-vacuums)
  - [Cync cabinet lights, Hue table lamp, &amp; Matter remotes on the HomeKit Insider Podcast](https://appleinsider.com/articles/24/07/01/cync-cabinet-lights-hue-table-lamp-matter-remotes-on-the-homekit-insider-podcast?utm_medium=rss)
- - [How Big Green Egg is inviting zoomers to the cult of kamado cooking](https://www.theverge.com/24188080/big-green-egg-smoker-grill-cooking-kamado-backyard-dan-gertsacov-fire-fourth-of-july)
- - [Source: Character.AI held talks over research partnerships with Google, Meta, and xAI, to access their computing resources in return for sharing some of its IP &lpar;Kalley Huang/The Information&rpar;](http://www.techmeme.com/240701/p9#a240701p9)<!-- TECH:END -->
+ - [11 Best Coolers WIRED Tested for Every Budget, Any Situation](https://www.wired.com/gallery/best-coolers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

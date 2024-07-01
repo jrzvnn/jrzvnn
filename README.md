@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US Supreme Court Has Handed Big Tech a Big Gift](https://www.wired.com/story/supreme-court-chevron-big-tech-regulatory-agencies/)
- - [Researchers from Qualys say a flaw in OpenSSH can allow attackers to remotely compromise servers, with over 14M servers potentially vulnerable &lpar;Lucian Constantin/CSO&rpar;](http://www.techmeme.com/240701/p17#a240701p17)
- - [How to find the best deals during Amazon Prime Day](https://www.theverge.com/21502865/amazon-prime-day-best-deals-how-to-find)
- - [Tap-to-pay could get more capable and more complicated](https://www.theverge.com/2024/7/1/24190177/nfc-multi-purpose-tap-to-pay-concept)
- - [Celebrate the Fourth of July and Ruggable&#39;s Birthday With 20% Off Sitewide](https://www.cnet.com/deals/celebrate-the-fourth-of-july-and-ruggables-birthday-with-20-off-sitewide/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google says it will require advertisers to disclose election ads that use digitally altered content that depicts real or realistic-looking people or events &lpar;Reuters&rpar;](http://www.techmeme.com/240701/p18#a240701p18)
+ - [The massive car dealership outage could be cleared up by July 4th](https://www.theverge.com/2024/7/1/24190283/cdk-global-car-dealership-outage-cleared-up)
+ - [Meta Is Changing Artificial Intelligence Labels After Real Photos Were Marked As AI](https://www.cnet.com/tech/services-and-software/meta-is-changing-artificial-intelligence-labels-after-real-photos-were-marked-as-ai/#ftag=CAD590a51e)
+ - [Best Filtered Water Bottles of 2024](https://www.cnet.com/health/best-filtered-water-bottle/#ftag=CAD590a51e)
+ - [Don&#39;t Miss Mattress Firm&#39;s Fourth of July Sale Happening Now](https://www.cnet.com/deals/mattress-firm-4th-of-july-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

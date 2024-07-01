@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The guy doesn&#39;t believe it when he meets a sane woman](http://9gag.com/gag/aZZNAX0)
- - 😝 [What is that supposed to be?](http://9gag.com/gag/aPAGOXg)
- - 💣 [Bring more of them to Europe](http://9gag.com/gag/a87jPne)
+ - 😝 [Nope](http://9gag.com/gag/aKGB0YQ)
+ - 😝 [Ex-wife picks up the kids from the father\u2019s house](http://9gag.com/gag/ae9GKy5)
+ - 💣 [Late 60&#39;s French music](http://9gag.com/gag/aoyjBBn)
  - 😝 [Imagine the decline after 4 more years](http://9gag.com/gag/aE07vpK)
- - 👉 [Man went on a dating show, says he is a cop and immediately half the women refuse to date him because `I want to stick with the Code`](http://9gag.com/gag/adBpmGN)<!-- MEMES:END -->
+ - 👉 [You guys are disgusting](http://9gag.com/gag/a0eYA2Q)<!-- MEMES:END -->
 
 ---
 

@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Silvergate Bank didn’t adequately monitor $1 trillion in crypto transactions, SEC says](https://www.theverge.com/2024/7/1/24190255/silvergate-sec-fraud-ftx-crypto-bank)
+ - [The best Prime Day deals you can already get](https://www.theverge.com/24186583/amazon-prime-day-2024-best-tech-deals-sales)
  - [This is Big Tech’s playbook for swallowing the AI industry](https://www.theverge.com/2024/7/1/24190060/amazon-adept-ai-acquisition-playbook-microsoft-inflection)
  - [Apple Fourth of July Sales: 26 Deals on iPads, Macs, AirPods and More Apple Gear](https://www.cnet.com/deals/apple-fourth-of-july-sales-26-deals-on-ipads-macs-airpods-and-more-apple-gear/#ftag=CAD590a51e)
- - [Epson WorkForce Pro All-in-One Printer](https://www.cnet.com/tech/computing/epson-workforce-pro-all-in-one-printer-dpnl/#ftag=CAD590a51e)
- - [Is EV Charging Cheaper Than Gasoline? We Did the Math and Found a Winner](https://www.cnet.com/roadshow/news/is-ev-charging-cheaper-than-gasoline-we-did-the-math-and-found-a-winner/#ftag=CAD590a51e)
- - [Keurig K-Iced Essentials](https://www.cnet.com/home/kitchen-and-household/keurig-k-iced-essentials-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Epson WorkForce Pro All-in-One Printer](https://www.cnet.com/tech/computing/epson-workforce-pro-all-in-one-printer-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

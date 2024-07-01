@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Interesting](http://9gag.com/gag/ayNd7nb)
- - 😝 [Cancer Cell Hit By An Ion Beam.](http://9gag.com/gag/a7o7LOw)
- - 💣 [He&#39;s not the one, And I know you&#39;re not.](http://9gag.com/gag/ae9poxB)
- - 😝 [The guy doesn&#39;t believe it when he meets a sane woman](http://9gag.com/gag/aZZNAX0)
- - 👉 [What is that supposed to be?](http://9gag.com/gag/aPAGOXg)<!-- MEMES:END -->
+ - 😝 [What is that supposed to be?](http://9gag.com/gag/aPAGOXg)
+ - 😝 [Tiny Tim on the time he was tricked into recording an off-key album and was blackmailed with it later](http://9gag.com/gag/aByrDbQ)
+ - 💣 [Drunk guy kicks in hotel front door before getting dropped by a cop](http://9gag.com/gag/a6Z7rPR)
+ - 😝 [Entitled douche](http://9gag.com/gag/aXPXD3d)
+ - 👉 [Chinese kindergarten](http://9gag.com/gag/a2vmzeZ)<!-- MEMES:END -->
 
 ---
 

@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [My Doctor Misdiagnosed My Diabetes -- and I&#39;m Not Alone. What You Need to Know](https://www.cnet.com/health/medical/my-doctor-misdiagnosed-my-diabetes-and-im-not-alone-what-you-need-to-know/#ftag=CAD590a51e)
+ - [Air Fryer Oven](https://www.cnet.com/home/kitchen-and-household/air-fryer-oven-dpnl/#ftag=CAD590a51e)
  - [Wise, Affirm, Mercury, and other companies say they&#39;re investigating how a recent ransomware attack by LockBit on Evolve Bank and Trust impacted their customers &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240701/p19#a240701p19)
- - [REI’s Fourth of July Sale Has Great Deals on Our Favorite Outdoor Gear](https://www.wired.com/story/rei-fourth-of-july-deals-2024/)
- - [Samsung SmartThings takes a step toward a smarter grid](https://www.theverge.com/2024/7/1/24190224/samsung-smartthings-flex-connect-demand-response)
- - [The Atari 400 Mini plays dozens of classic games, and it’s 15 percent off](https://www.theverge.com/2024/7/1/24190280/atar-400-mini-retro-console-deal-sale)
- - [Google says it will require advertisers to disclose election ads that use digitally altered content that depicts real or realistic-looking people or events &lpar;Reuters&rpar;](http://www.techmeme.com/240701/p18#a240701p18)<!-- TECH:END -->
+ - [Best Water Guns for 2024](https://www.cnet.com/news/best-water-guns/#ftag=CAD590a51e)
+ - [Walmart Fourth of July Sale: Save on Tech, Appliances, Home Goods and More](https://www.cnet.com/deals/walmart-fourth-of-july-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -169,9 +169,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When the Adderall wears off and you realize that you are tired from life.](http://9gag.com/gag/ae9G3xj)
- - 😝 [North Koreans see K-pop for the first time, fully aware they\u2019re being watched, unsure how to react](http://9gag.com/gag/aD2o3oG)
- - 💣 [Cancer Cell Hit By An Ion Beam.](http://9gag.com/gag/a7o7LOw)
+ - 😝 [This guy was like ` how is being arrested real? Just walk away lol`](http://9gag.com/gag/a87MbbQ)
+ - 😝 [Proof that Arcanine is a legendary Pokemon](http://9gag.com/gag/a6Z7yoN)
+ - 💣 [Sad reality](http://9gag.com/gag/adBjN4B)
  - 😝 [A short and witty title does the trick.](http://9gag.com/gag/aRBAgG5)
  - 👉 [The most passionate.... Wth!!!](http://9gag.com/gag/aZZMWM3)<!-- MEMES:END -->
 

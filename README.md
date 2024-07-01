@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube rolled out a policy change that will let people request the takedown of AI-generated or other synthetic content that simulates their face or voice &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240701/p15#a240701p15)
  - [Apple adds HomePod, AirPods to the &#39;vintage products&#39; list](https://appleinsider.com/articles/24/07/01/apple-adds-homepod-airpods-to-the-vintage-products-list?utm_medium=rss)
  - [Meta changes its &quot;Made with AI&quot; label to &quot;AI info&quot;, to indicate images were not necessarily created with AI but that AI editing tools may have been used &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240701/p14#a240701p14)
- - [Some Pixel 6 owners say factory resets have bricked their phones](https://www.theverge.com/2024/7/1/24190024/google-pixel-6-factory-reset-bricking-phones)
- - [Apple already considers the first HomePod ‘vintage’](https://www.theverge.com/2024/7/1/24190032/apple-vintage-homepod-airpods-iphone-x)
- - [The best fitness trackers to buy right now](https://www.theverge.com/22985108/best-fitness-tracker)<!-- TECH:END -->
+ - [Save Up to $103 Off Your New Samsung Galaxy Watch 6 This Fourth of July](https://www.cnet.com/deals/save-up-to-103-off-your-new-samsung-galaxy-watch-6-this-fourth-of-july/#ftag=CAD590a51e)
+ - [Some Pixel 6 owners say factory resets have bricked their phones](https://www.theverge.com/2024/7/1/24190024/google-pixel-6-factory-reset-bricking-phones)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Interesting](http://9gag.com/gag/ayNd7nb)
- - 😝 [France after election results show massive gain for right wing party](http://9gag.com/gag/a5Q7dLL)
+ - 😝 [The most passionate.... Wth!!!](http://9gag.com/gag/aZZMWM3)
+ - 😝 [Imagine the decline after 4 more years](http://9gag.com/gag/aE07vpK)
  - 💣 [What is that supposed to be?](http://9gag.com/gag/aPAGOXg)
- - 😝 [Cancer Cell Hit By An Ion Beam.](http://9gag.com/gag/a7o7LOw)
- - 👉 [Drunk guy kicks in hotel front door before getting dropped by a cop](http://9gag.com/gag/a6Z7rPR)<!-- MEMES:END -->
+ - 😝 [Drunk guy kicks in hotel front door before getting dropped by a cop](http://9gag.com/gag/a6Z7rPR)
+ - 👉 [Girl tourist on vacation in San Lorenzo.. unluckily met Algerian muslim man](http://9gag.com/gag/aGyRPB5)<!-- MEMES:END -->
 
 ---
 

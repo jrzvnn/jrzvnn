@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Internet Providers in Oceanside, California](https://www.cnet.com/home/internet/best-internet-providers-in-oceanside-ca/#ftag=CAD590a51e)
  - [BlackRock has agreed to buy Preqin, a UK-based provider of private markets data, for &amp;pound;2.55B in cash &lpar;Silla Brush/Bloomberg&rpar;](http://www.techmeme.com/240701/p2#a240701p2)
  - [Sources: Huawei plans to partner with Chinese foundry Wuhan Xinxin to develop high-bandwidth memory chips, marking its latest effort to defy US sanctions &lpar;Che Pan/South China Morning Post&rpar;](http://www.techmeme.com/240701/p1#a240701p1)
  - [Today&#39;s Wordle Hints, Answer and Help for July 1, #1108](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-1-1108/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for July 1, #386](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-1-386/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for July 1, #120](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-1-120/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for July 1, #386](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-1-386/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

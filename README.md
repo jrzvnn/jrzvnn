@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Recklessness](http://9gag.com/gag/aryKpEB)
- - 😝 [Drunk guy kicks in hotel front door before getting dropped by a cop](http://9gag.com/gag/a6Z7rPR)
- - 💣 [Even the show mocked her...](http://9gag.com/gag/aMVG1ZW)
- - 😝 [This guy was like ` how is being arrested real? Just walk away lol`](http://9gag.com/gag/a87MbbQ)
+ - 😝 [Entitled douche](http://9gag.com/gag/aXPXD3d)
+ - 😝 [What is that supposed to be?](http://9gag.com/gag/aPAGOXg)
+ - 💣 [Nope](http://9gag.com/gag/aKGB0YQ)
+ - 😝 [Imagine the decline after 4 more years](http://9gag.com/gag/aE07vpK)
  - 👉 [France after election results show massive gain for right wing party](http://9gag.com/gag/a5Q7dLL)<!-- MEMES:END -->
 
 ---

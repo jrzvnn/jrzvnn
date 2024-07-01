@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Singapore is emerging as a destination for Chinese AI startups due to less stringent AI regulations and access to Nvidia&#39;s latest chips amid US chips ban &lpar;Bloomberg&rpar;](http://www.techmeme.com/240701/p8#a240701p8)
  - [Climate Change Has Fried Earth So Badly Trees Won’t Save You Today—But I Will](https://www.wired.com/story/i-will-save-you-from-the-heat/)
  - [Mark Your Calendar: New &#39;Bluey&#39; Episodes Are Nearly Here](https://www.cnet.com/tech/services-and-software/mark-your-calendar-new-bluey-episodes-are-nearly-here/#ftag=CAD590a51e)
  - [This Is Exactly What Happens During and After an Eye Exam](https://www.cnet.com/health/personal-care/what-happens-during-eye-exam/#ftag=CAD590a51e)
- - [Don&#39;t Get Rid of Prime Video, Netflix or These Other Streaming Services in July](https://www.cnet.com/tech/services-and-software/dont-get-rid-of-prime-video-netflix-or-these-other-streaming-services-in-july/#ftag=CAD590a51e)
- - [Meta&#39;s Pay for Privacy Model Is Illegal, Says EU](https://www.wired.com/story/metas-pay-for-privacy-model-is-illegal-says-eu/)<!-- TECH:END -->
+ - [Don&#39;t Get Rid of Prime Video, Netflix or These Other Streaming Services in July](https://www.cnet.com/tech/services-and-software/dont-get-rid-of-prime-video-netflix-or-these-other-streaming-services-in-july/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

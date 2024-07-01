@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nope](http://9gag.com/gag/aKGB0YQ)
- - 😝 [Ex-wife picks up the kids from the father\u2019s house](http://9gag.com/gag/ae9GKy5)
- - 💣 [Late 60&#39;s French music](http://9gag.com/gag/aoyjBBn)
- - 😝 [Imagine the decline after 4 more years](http://9gag.com/gag/aE07vpK)
- - 👉 [You guys are disgusting](http://9gag.com/gag/a0eYA2Q)<!-- MEMES:END -->
+ - 😝 [Even the show mocked her...](http://9gag.com/gag/aMVG1ZW)
+ - 😝 [Cancer Cell Hit By An Ion Beam.](http://9gag.com/gag/a7o7LOw)
+ - 💣 [Girl tourist on vacation in San Lorenzo.. unluckily met Algerian muslim man](http://9gag.com/gag/aGyRPB5)
+ - 😝 [The Chinese Tianlong-3 Rocket Accidentally Launched During A Engine Test](http://9gag.com/gag/aByYRgx)
+ - 👉 [What is that supposed to be?](http://9gag.com/gag/aPAGOXg)<!-- MEMES:END -->
 
 ---
 

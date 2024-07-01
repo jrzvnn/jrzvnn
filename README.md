@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Proof that Arcanine is a legendary Pokemon](http://9gag.com/gag/a6Z7yoN)
- - 😝 [Even the show mocked her...](http://9gag.com/gag/aMVG1ZW)
- - 💣 [This guy was like ` how is being arrested real? Just walk away lol`](http://9gag.com/gag/a87MbbQ)
  - 😝 [France after election results show massive gain for right wing party](http://9gag.com/gag/a5Q7dLL)
- - 👉 [Cancer Cell Hit By An Ion Beam.](http://9gag.com/gag/a7o7LOw)<!-- MEMES:END -->
+ - 😝 [This guy was like ` how is being arrested real? Just walk away lol`](http://9gag.com/gag/a87MbbQ)
+ - 💣 [Ex-wife picks up the kids from the father\u2019s house](http://9gag.com/gag/ae9GKy5)
+ - 😝 [Don&#39;t piss drunk overboard](http://9gag.com/gag/amo90Kv)
+ - 👉 [Gear up people down](http://9gag.com/gag/aoy9Zyn)<!-- MEMES:END -->
 
 ---
 

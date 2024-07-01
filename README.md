@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What is that supposed to be?](http://9gag.com/gag/aPAGOXg)
- - 😝 [Tiny Tim on the time he was tricked into recording an off-key album and was blackmailed with it later](http://9gag.com/gag/aByrDbQ)
- - 💣 [Drunk guy kicks in hotel front door before getting dropped by a cop](http://9gag.com/gag/a6Z7rPR)
- - 😝 [Entitled douche](http://9gag.com/gag/aXPXD3d)
- - 👉 [Chinese kindergarten](http://9gag.com/gag/a2vmzeZ)<!-- MEMES:END -->
+ - 😝 [France right now](http://9gag.com/gag/aXP9bE6)
+ - 😝 [Based](http://9gag.com/gag/aRBAweQ)
+ - 💣 [That\u2019s a core memory right there](http://9gag.com/gag/aKGqwZZ)
+ - 😝 [Sailor Goon](http://9gag.com/gag/avyPpVq)
+ - 👉 [Imagine the decline after 4 more years](http://9gag.com/gag/aE07vpK)<!-- MEMES:END -->
 
 ---
 

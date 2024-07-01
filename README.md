@@ -170,10 +170,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The most passionate.... Wth!!!](http://9gag.com/gag/aZZMWM3)
- - 😝 [Imagine the decline after 4 more years](http://9gag.com/gag/aE07vpK)
- - 💣 [France after election results show massive gain for right wing party](http://9gag.com/gag/a5Q7dLL)
- - 😝 [He&#39;s not going to fall for that booty, be gone thott!!!](http://9gag.com/gag/amo908X)
- - 👉 [Even the show mocked her...](http://9gag.com/gag/aMVG1ZW)<!-- MEMES:END -->
+ - 😝 [North Koreans see K-pop for the first time, fully aware they\u2019re being watched, unsure how to react](http://9gag.com/gag/aD2o3oG)
+ - 💣 [This guy was like ` how is being arrested real? Just walk away lol`](http://9gag.com/gag/a87MbbQ)
+ - 😝 [Gear up people down](http://9gag.com/gag/aoy9Zyn)
+ - 👉 [Man confronting shoplifters as they try to leave in Downey, California](http://9gag.com/gag/agmVrLq)<!-- MEMES:END -->
 
 ---
 

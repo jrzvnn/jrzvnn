@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Entitled douche](http://9gag.com/gag/aXPXD3d)
- - 😝 [What is that supposed to be?](http://9gag.com/gag/aPAGOXg)
- - 💣 [Nope](http://9gag.com/gag/aKGB0YQ)
- - 😝 [Imagine the decline after 4 more years](http://9gag.com/gag/aE07vpK)
- - 👉 [France after election results show massive gain for right wing party](http://9gag.com/gag/a5Q7dLL)<!-- MEMES:END -->
+ - 😝 [Bring more of them to Europe](http://9gag.com/gag/a87jPne)
+ - 😝 [The Chinese Tianlong-3 Rocket Accidentally Launched During A Engine Test](http://9gag.com/gag/aByYRgx)
+ - 💣 [The guy doesn&#39;t believe it when he meets a sane woman](http://9gag.com/gag/aZZNAX0)
+ - 😝 [Ex-wife picks up the kids from the father\u2019s house](http://9gag.com/gag/ae9GKy5)
+ - 👉 [A meme came to life](http://9gag.com/gag/a34LopQ)<!-- MEMES:END -->
 
 ---
 

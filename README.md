@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Female behaviour](http://9gag.com/gag/a0epPXQ)
- - 😝 [Imagine if the roles were reversed](http://9gag.com/gag/ajPA6Vw)
- - 💣 [Different types of Asians. Part 1](http://9gag.com/gag/a9y7M4L)
- - 😝 [How defeat a Jedi](http://9gag.com/gag/aoy90GA)
- - 👉 [Modern problem required modern solutions](http://9gag.com/gag/avyPpbM)<!-- MEMES:END -->
+ - 😝 [When the Adderall wears off and you realize that you are tired from life.](http://9gag.com/gag/ae9G3xj)
+ - 😝 [Cancer Cell Hit By An Ion Beam.](http://9gag.com/gag/a7o7LOw)
+ - 💣 [The most passionate.... Wth!!!](http://9gag.com/gag/aZZMWM3)
+ - 😝 [Even the show mocked her...](http://9gag.com/gag/aMVG1ZW)
+ - 👉 [France after election results show massive gain for right wing party](http://9gag.com/gag/a5Q7dLL)<!-- MEMES:END -->
 
 ---
 

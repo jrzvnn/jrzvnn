@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [REI&#39;s Fourth of July Sale Has Great Deals on Our Favorite Outdoor Gear](https://www.wired.com/story/rei-fourth-of-july-deals-2024/)
  - [Samsung SmartThings takes a step toward a smarter grid](https://www.theverge.com/2024/7/1/24190224/samsung-smartthings-flex-connect-demand-response)
  - [The Atari 400 Mini plays dozens of classic games, and it’s 15 percent off](https://www.theverge.com/2024/7/1/24190280/atar-400-mini-retro-console-deal-sale)
  - [Google says it will require advertisers to disclose election ads that use digitally altered content that depicts real or realistic-looking people or events &lpar;Reuters&rpar;](http://www.techmeme.com/240701/p18#a240701p18)
- - [The massive car dealership outage could be cleared up by July 4th](https://www.theverge.com/2024/7/1/24190283/cdk-global-car-dealership-outage-cleared-up)
- - [Meta Is Changing Artificial Intelligence Labels After Real Photos Were Marked As AI](https://www.cnet.com/tech/services-and-software/meta-is-changing-artificial-intelligence-labels-after-real-photos-were-marked-as-ai/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The massive car dealership outage could be cleared up by July 4th](https://www.theverge.com/2024/7/1/24190283/cdk-global-car-dealership-outage-cleared-up)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Interesting](http://9gag.com/gag/ayNd7nb)
- - 😝 [Ex-wife picks up the kids from the father\u2019s house](http://9gag.com/gag/ae9GKy5)
- - 💣 [Drunk guy kicks in hotel front door before getting dropped by a cop](http://9gag.com/gag/a6Z7rPR)
- - 😝 [The Chinese Tianlong-3 Rocket Accidentally Launched During A Engine Test](http://9gag.com/gag/aByYRgx)
- - 👉 [France after election results show massive gain for right wing party](http://9gag.com/gag/a5Q7dLL)<!-- MEMES:END -->
+ - 😝 [France after election results show massive gain for right wing party](http://9gag.com/gag/a5Q7dLL)
+ - 😝 [Imagine the decline after 4 more years](http://9gag.com/gag/aE07vpK)
+ - 💣 [A meme came to life](http://9gag.com/gag/a34LopQ)
+ - 😝 [What is that supposed to be?](http://9gag.com/gag/aPAGOXg)
+ - 👉 [Drunk guy kicks in hotel front door before getting dropped by a cop](http://9gag.com/gag/a6Z7rPR)<!-- MEMES:END -->
 
 ---
 

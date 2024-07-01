@@ -169,9 +169,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Imagine the decline after 4 more years](http://9gag.com/gag/aE07vpK)
  - 😝 [The most passionate.... Wth!!!](http://9gag.com/gag/aZZMWM3)
- - 💣 [A meme came to life](http://9gag.com/gag/a34LopQ)
+ - 😝 [France after election results show massive gain for right wing party](http://9gag.com/gag/a5Q7dLL)
+ - 💣 [Imagine the decline after 4 more years](http://9gag.com/gag/aE07vpK)
  - 😝 [Drunk guy kicks in hotel front door before getting dropped by a cop](http://9gag.com/gag/a6Z7rPR)
  - 👉 [Girl tourist on vacation in San Lorenzo.. unluckily met Algerian muslim man](http://9gag.com/gag/aGyRPB5)<!-- MEMES:END -->
 

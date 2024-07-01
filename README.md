@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The first Thunderbolt 5 cables are here, but there’s barely anything to plug in](https://www.theverge.com/2024/7/1/24190263/thunderbolt-5-cable-matters-intel-usb-c)
- - [SEC sues parent company of crypto-friendly Silvergate Bank and execs, saying ~$9B in suspicious FTX transfers weren&#39;t caught and its AML compliance was poor &lpar;Elizabeth Lopatto/The Verge&rpar;](http://www.techmeme.com/240701/p16#a240701p16)
- - [Silvergate Bank didn’t adequately monitor $1 trillion in crypto transactions, SEC says](https://www.theverge.com/2024/7/1/24190255/silvergate-sec-fraud-ftx-crypto-bank)
- - [The best Prime Day deals you can already get](https://www.theverge.com/24186583/amazon-prime-day-2024-best-tech-deals-sales)
- - [This is Big Tech’s playbook for swallowing the AI industry](https://www.theverge.com/2024/7/1/24190060/amazon-adept-ai-acquisition-playbook-microsoft-inflection)<!-- TECH:END -->
+ - [Researchers from Qualys say a flaw in OpenSSH can allow attackers to remotely compromise servers, with over 14M servers potentially vulnerable &lpar;Lucian Constantin/CSO&rpar;](http://www.techmeme.com/240701/p17#a240701p17)
+ - [How to find the best deals during Amazon Prime Day](https://www.theverge.com/21502865/amazon-prime-day-best-deals-how-to-find)
+ - [Tap-to-pay could get more capable and more complicated](https://www.theverge.com/2024/7/1/24190177/nfc-multi-purpose-tap-to-pay-concept)
+ - [Celebrate the Fourth of July and Ruggable&#39;s Birthday With 20% Off Sitewide](https://www.cnet.com/deals/celebrate-the-fourth-of-july-and-ruggables-birthday-with-20-off-sitewide/#ftag=CAD590a51e)
+ - [Best Smoke Detector for 2024](https://www.cnet.com/home/security/best-smoke-detector/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

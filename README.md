@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [18 Best Early Prime Day Deals to Shop Now: Save on TVs, Smart Home and More](https://www.cnet.com/deals/amazon-prime-day/#ftag=CAD590a51e)
  - [Sources: the EU plans to charge Meta under the DMA this week, focusing on Meta&#39;s pay or consent model where users pay for an ad-free Facebook and Instagram &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240701/p4#a240701p4)
  - [Nigeria&#39;s food delivery startups are attracting investors optimistic about the growing demand in a market that is expected to double to $2.4B over eight years &lpar;Aanu Adeoye/Financial Times&rpar;](http://www.techmeme.com/240701/p3#a240701p3)
  - [Best MagSafe Accessories for iPhone in 2024](https://www.cnet.com/tech/mobile/best-magsafe-and-magnetic-iphone-accessories/#ftag=CAD590a51e)
- - [Best Internet Providers in Kansas](https://www.cnet.com/home/internet/best-internet-providers-in-kansas/#ftag=CAD590a51e)
- - [Best Internet Providers in Oceanside, California](https://www.cnet.com/home/internet/best-internet-providers-in-oceanside-ca/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in Kansas](https://www.cnet.com/home/internet/best-internet-providers-in-kansas/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

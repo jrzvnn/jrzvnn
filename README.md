@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Circle says it has been granted an e-money license from France, making it compliant with stablecoin provisions under EU&#39;s tough crypto laws &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240701/p12#a240701p12)
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
+ - [Circle says it has been granted an e-money license from France, making the crypto startup compliant with stablecoin provisions under the EU&#39;s tough crypto laws &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/240701/p12#a240701p12)
  - [Amazon&#39;s $2,199 M3 MacBook Pro 16-inch deal delivers cheapest price ahead of Prime Day](https://appleinsider.com/articles/24/07/01/amazons-2199-m3-macbook-pro-16-inch-deal-delivers-cheapest-price-ahead-of-prime-day?utm_medium=rss)
  - [Elgato’s new Stream Deck is on sale for the first time and $15 off](https://www.theverge.com/2024/7/1/24189820/elgato-stream-deck-neo-twitch-streaming-macro-pad-deal-sale)
- - [Trump is ‘absolutely’ immune for ‘official acts’ on Jan 6th, SCOTUS rules](https://www.theverge.com/2024/7/1/24188335/supreme-court-trump-v-us-presidential-immunity-criminal-prosecution)
- - [Can Prebiotic Soda Hurt Your Teeth? Here&#39;s What Experts Say](https://www.cnet.com/health/personal-care/can-prebiotic-soda-hurt-your-teeth-heres-what-experts-say/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Trump is ‘absolutely’ immune for ‘official acts’ on Jan 6th, SCOTUS rules](https://www.theverge.com/2024/7/1/24188335/supreme-court-trump-v-us-presidential-immunity-criminal-prosecution)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

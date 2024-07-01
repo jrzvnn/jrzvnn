@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Instagram’s ‘Made with AI’ label swapped out for ‘AI info’ after photographers’ complaints](https://www.theverge.com/2024/7/1/24190026/meta-instagram-facebook-made-with-ai-info-label-metadata)
  - [Apple rolls out second round of current-gen developer betas](https://appleinsider.com/articles/24/07/01/apple-outs-second-round-of-current-gen-developer-betas?utm_medium=rss)
  - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
  - [These Are the Best VR Headsets, Accessories, Apps, and Games to Work and Play in the Metaverse](https://www.wired.com/gallery/best-vr-headsets-in-this-reality/)
- - [Best AirPods Max Accessories for 2024](https://www.cnet.com/tech/mobile/best-airpods-max-accessories/#ftag=CAD590a51e)
- - [Amazon Fourth of July Sale: Save on TVs, Home Security, Outdoor, Fashion and More](https://www.cnet.com/deals/amazon-fourth-of-july-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best AirPods Max Accessories for 2024](https://www.cnet.com/tech/mobile/best-airpods-max-accessories/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

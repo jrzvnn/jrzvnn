@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [At 0.72 pounds, Vaio’s first portable monitor is one of the lightest ever](https://www.theverge.com/2024/7/1/24190049/vaio-vision-plus-14-portable-monitor)
- - [Clean energy has become an even more divided topic in the US](https://www.theverge.com/2024/7/1/24189952/renewable-energy-solar-wind-ev-support-pew-research-survey)
- - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
- - [Kill These 2 iOS Settings to Maximize Your iPhone&#39;s Battery Life](https://www.cnet.com/tech/mobile/cut-these-2-ios-settings-to-maximize-your-iphones-battery-life/#ftag=CAD590a51e)
- - [Best Flashlight for 2024](https://www.cnet.com/news/best-flashlight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This is Big Tech’s playbook for swallowing the AI industry](https://www.theverge.com/2024/7/1/24190060/amazon-adept-ai-acquisition-playbook-microsoft-inflection)
+ - [Apple Fourth of July Sales: 26 Deals on iPads, Macs, AirPods and More Apple Gear](https://www.cnet.com/deals/apple-fourth-of-july-sales-26-deals-on-ipads-macs-airpods-and-more-apple-gear/#ftag=CAD590a51e)
+ - [Epson WorkForce Pro All-in-One Printer](https://www.cnet.com/tech/computing/epson-workforce-pro-all-in-one-printer-dpnl/#ftag=CAD590a51e)
+ - [Is EV Charging Cheaper Than Gasoline? We Did the Math and Found a Winner](https://www.cnet.com/roadshow/news/is-ev-charging-cheaper-than-gasoline-we-did-the-math-and-found-a-winner/#ftag=CAD590a51e)
+ - [Keurig K-Iced Essentials](https://www.cnet.com/home/kitchen-and-household/keurig-k-iced-essentials-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

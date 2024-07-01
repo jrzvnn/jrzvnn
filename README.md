@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gear up people down](http://9gag.com/gag/aoy9Zyn)
- - 😝 [Imagine the decline after 4 more years](http://9gag.com/gag/aE07vpK)
- - 💣 [Powerful](http://9gag.com/gag/aD2mB1Z)
- - 😝 [Imagine if the roles were reversed](http://9gag.com/gag/ajPA6Vw)
- - 👉 [France after election results show massive gain for right wing party](http://9gag.com/gag/a5Q7dLL)<!-- MEMES:END -->
+ - 😝 [Cancer Cell Hit By An Ion Beam.](http://9gag.com/gag/a7o7LOw)
+ - 😝 [The most passionate.... Wth!!!](http://9gag.com/gag/aZZMWM3)
+ - 💣 [Imagine the decline after 4 more years](http://9gag.com/gag/aE07vpK)
+ - 😝 [A meme came to life](http://9gag.com/gag/a34LopQ)
+ - 👉 [Drunk guy kicks in hotel front door before getting dropped by a cop](http://9gag.com/gag/a6Z7rPR)<!-- MEMES:END -->
 
 ---
 

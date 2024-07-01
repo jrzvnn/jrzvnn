@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [France after election results show massive gain for right wing party](http://9gag.com/gag/a5Q7dLL)
  - 😝 [Imagine the decline after 4 more years](http://9gag.com/gag/aE07vpK)
- - 💣 [A meme came to life](http://9gag.com/gag/a34LopQ)
- - 😝 [What is that supposed to be?](http://9gag.com/gag/aPAGOXg)
- - 👉 [Drunk guy kicks in hotel front door before getting dropped by a cop](http://9gag.com/gag/a6Z7rPR)<!-- MEMES:END -->
+ - 😝 [Powerful](http://9gag.com/gag/aD2mB1Z)
+ - 💣 [I love that a website that\u2019s So homophobic and So racist has collectively decided that these two are amongst their favorite people](http://9gag.com/gag/aryKpDV)
+ - 😝 [Pillows are available anytime but where is my girlfriend](http://9gag.com/gag/a2vmP8w)
+ - 👉 [France after election results show massive gain for right wing party](http://9gag.com/gag/a5Q7dLL)<!-- MEMES:END -->
 
 ---
 

@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [France after election results show massive gain for right wing party](http://9gag.com/gag/a5Q7dLL)
+ - 😝 [Recklessness](http://9gag.com/gag/aryKpEB)
+ - 😝 [Drunk guy kicks in hotel front door before getting dropped by a cop](http://9gag.com/gag/a6Z7rPR)
+ - 💣 [Even the show mocked her...](http://9gag.com/gag/aMVG1ZW)
  - 😝 [This guy was like ` how is being arrested real? Just walk away lol`](http://9gag.com/gag/a87MbbQ)
- - 💣 [Nope](http://9gag.com/gag/aKGB0YQ)
- - 😝 [The guy doesn&#39;t believe it when he meets a sane woman](http://9gag.com/gag/aZZNAX0)
- - 👉 [Drunk guy kicks in hotel front door before getting dropped by a cop](http://9gag.com/gag/a6Z7rPR)<!-- MEMES:END -->
+ - 👉 [France after election results show massive gain for right wing party](http://9gag.com/gag/a5Q7dLL)<!-- MEMES:END -->
 
 ---
 

@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In its preliminary findings, the EU says Meta&#39;s pay or consent model breaches the DMA; Meta faces a fine of up to 10% of its global turnover for non-compliance &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240701/p7#a240701p7)
  - [Japan-based SmartHR, which offers a cloud human resources and labor management software, raised a $140M Series E led by KKR and Teachers&#39; Ventures Growth &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/240701/p6#a240701p6)
  - [Deadline for iPhone 7 audio settlement extended to July 3, 2024](https://appleinsider.com/articles/24/07/01/deadline-for-iphone-7-audio-settlement-extended-to-july-3-2024?utm_medium=rss)
- - [Government data: the value of South Korea&#39;s chip shipments reached $13.4B in June, up 51% YoY; exports of display products up 26% YoY and computers up 59% YoY &lpar;Bloomberg&rpar;](http://www.techmeme.com/240701/p5#a240701p5)
- - [18 Best Early Prime Day Deals to Shop Now: Save on TVs, Smart Home and More](https://www.cnet.com/deals/amazon-prime-day/#ftag=CAD590a51e)
- - [Sources: the EU plans to charge Meta under the DMA this week, focusing on Meta&#39;s pay or consent model where users pay for an ad-free Facebook and Instagram &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240701/p4#a240701p4)<!-- TECH:END -->
+ - [PlayStation Plus Members Can Access and Play These Games in July](https://www.cnet.com/tech/gaming/playstation-plus-members-can-access-and-play-these-games-in-july/#ftag=CAD590a51e)
+ - [Emoji Meanings Explained &lpar;So the Peach Emoji Isn&#39;t About Fruit?&rpar;](https://www.cnet.com/tech/services-and-software/emoji-meanings-explained-so-the-peach-emoji-isnt-about-fruit/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

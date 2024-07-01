@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cancer Cell Hit By An Ion Beam.](http://9gag.com/gag/a7o7LOw)
  - 😝 [The most passionate.... Wth!!!](http://9gag.com/gag/aZZMWM3)
- - 💣 [Imagine the decline after 4 more years](http://9gag.com/gag/aE07vpK)
  - 😝 [A meme came to life](http://9gag.com/gag/a34LopQ)
- - 👉 [Drunk guy kicks in hotel front door before getting dropped by a cop](http://9gag.com/gag/a6Z7rPR)<!-- MEMES:END -->
+ - 💣 [What is that supposed to be?](http://9gag.com/gag/aPAGOXg)
+ - 😝 [Can&#39;t be saying that anymore](http://9gag.com/gag/aW460LZ)
+ - 👉 [Imagine the decline after 4 more years](http://9gag.com/gag/aE07vpK)<!-- MEMES:END -->
 
 ---
 

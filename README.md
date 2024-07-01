@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Window Tiling in macOS Sequoia is Apple&#39;s third go at fixing a problem](https://appleinsider.com/articles/24/07/01/window-tiling-in-macos-sequoia-is-apples-third-go-at-fixing-a-problem?utm_medium=rss)
  - [Singapore is emerging as a destination for Chinese AI startups due to less stringent AI regulations and access to Nvidia&#39;s latest chips amid US chips ban &lpar;Bloomberg&rpar;](http://www.techmeme.com/240701/p8#a240701p8)
- - [Climate Change Has Fried Earth So Badly Trees Won’t Save You Today—But I Will](https://www.wired.com/story/i-will-save-you-from-the-heat/)
- - [Mark Your Calendar: New &#39;Bluey&#39; Episodes Are Nearly Here](https://www.cnet.com/tech/services-and-software/mark-your-calendar-new-bluey-episodes-are-nearly-here/#ftag=CAD590a51e)
- - [This Is Exactly What Happens During and After an Eye Exam](https://www.cnet.com/health/personal-care/what-happens-during-eye-exam/#ftag=CAD590a51e)
- - [Don&#39;t Get Rid of Prime Video, Netflix or These Other Streaming Services in July](https://www.cnet.com/tech/services-and-software/dont-get-rid-of-prime-video-netflix-or-these-other-streaming-services-in-july/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Solar Panel Installation Companies in Phoenix](https://www.cnet.com/home/energy-and-utilities/best-solar-panel-installation-companies-in-phoenix/#ftag=CAD590a51e)
+ - [NBC Clones Sportscaster&#39;s Voice for Olympics, Toys R Us Makes Nostalgic Ad With AI](https://www.cnet.com/tech/computing/nbc-clones-sportscasters-voice-for-olympics-toys-r-us-makes-nostalgic-ad-with-ai/#ftag=CAD590a51e)
+ - [This AI Startup Wants You to Read Audiobooks to Yourself](https://www.cnet.com/tech/services-and-software/this-ai-startup-wants-you-to-read-audiobooks-to-yourself/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

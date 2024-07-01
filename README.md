@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [France right now](http://9gag.com/gag/aXP9bE6)
- - 😝 [The bro code](http://9gag.com/gag/aQz8Por)
- - 💣 [Based](http://9gag.com/gag/aRBAweQ)
- - 😝 [That\u2019s a core memory right there](http://9gag.com/gag/aKGqwZZ)
+ - 😝 [Equality in action](http://9gag.com/gag/azxjb4m)
+ - 😝 [The Chinese Tianlong-3 Rocket Accidentally Launched During A Engine Test](http://9gag.com/gag/aByYRgx)
+ - 💣 [The guy doesn&#39;t believe it when he meets a sane woman](http://9gag.com/gag/aZZNAX0)
+ - 😝 [What is that supposed to be?](http://9gag.com/gag/aPAGOXg)
  - 👉 [Imagine the decline after 4 more years](http://9gag.com/gag/aE07vpK)<!-- MEMES:END -->
 
 ---

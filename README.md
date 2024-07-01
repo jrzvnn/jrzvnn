@@ -162,9 +162,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Clean energy has become an even more divided topic in the US](https://www.theverge.com/2024/7/1/24189952/renewable-energy-solar-wind-ev-support-pew-research-survey)
  - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
- - [Kill These 2 iOS Settings to Maximize Your iPhone&#39;s Battery Life](https://www.cnet.com/tech/mobile/cut-these-2-ios-settings-to-maximize-your-iphones-battery-life/#ftag=CAD590a51e)
- - [Best Flashlight for 2024](https://www.cnet.com/news/best-flashlight/#ftag=CAD590a51e)
- - [Student Loan Payments Paused for 3 Million Borrowers, Future SAVE Relief Remains in Limbo](https://www.cnet.com/personal-finance/student-loan-payments-paused-for-3-million-borrowers-future-save-relief-remains-in-limbo/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [YouTube rolled out a policy change that will let people request the takedown of AI-generated or other synthetic content that simulates their face or voice &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240701/p15#a240701p15)
+ - [Apple adds HomePod, AirPods to the &#39;vintage products&#39; list](https://appleinsider.com/articles/24/07/01/apple-adds-homepod-airpods-to-the-vintage-products-list?utm_medium=rss)
+ - [Meta changes its &quot;Made with AI&quot; label to &quot;AI info&quot;, to indicate images were not necessarily created with AI but that AI editing tools may have been used &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240701/p14#a240701p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

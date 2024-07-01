@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The most passionate.... Wth!!!](http://9gag.com/gag/aZZMWM3)
- - 😝 [Kinda genius](http://9gag.com/gag/aPAD6bB)
- - 💣 [Again! Again!](http://9gag.com/gag/a2vmzD1)
- - 😝 [Imagine the decline after 4 more years](http://9gag.com/gag/aE07vpK)
- - 👉 [Even the show mocked her...](http://9gag.com/gag/aMVG1ZW)<!-- MEMES:END -->
+ - 😝 [Cancer Cell Hit By An Ion Beam.](http://9gag.com/gag/a7o7LOw)
+ - 😝 [A meme came to life](http://9gag.com/gag/a34LopQ)
+ - 💣 [Imagine if the roles were reversed](http://9gag.com/gag/ajPA6Vw)
+ - 😝 [Cheers!](http://9gag.com/gag/azxjbpx)
+ - 👉 [What do you call this style of martial arts?](http://9gag.com/gag/a0epPML)<!-- MEMES:END -->
 
 ---
 

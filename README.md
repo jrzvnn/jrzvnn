@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A meme came to life](http://9gag.com/gag/a34LopQ)
  - 😝 [Drunk guy kicks in hotel front door before getting dropped by a cop](http://9gag.com/gag/a6Z7rPR)
- - 💣 [Even the show mocked her...](http://9gag.com/gag/aMVG1ZW)
- - 😝 [Cancer Cell Hit By An Ion Beam.](http://9gag.com/gag/a7o7LOw)
- - 👉 [Imagine the decline after 4 more years](http://9gag.com/gag/aE07vpK)<!-- MEMES:END -->
+ - 😝 [Imagine the decline after 4 more years](http://9gag.com/gag/aE07vpK)
+ - 💣 [Why would she do this to herself? Why did her friends and family let her? And why are people making up excuses for what she did to herself?](http://9gag.com/gag/azxj7jq)
+ - 😝 [She dont want to continue anymore.](http://9gag.com/gag/aYQeN5q)
+ - 👉 [A meme came to life](http://9gag.com/gag/a34LopQ)<!-- MEMES:END -->
 
 ---
 

@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ex-wife picks up the kids from the father\u2019s house](http://9gag.com/gag/ae9GKy5)
- - 😝 [Even the show mocked her...](http://9gag.com/gag/aMVG1ZW)
- - 💣 [Nightmares are made of these](http://9gag.com/gag/aVvPO48)
- - 😝 [Based](http://9gag.com/gag/aRBAweQ)
- - 👉 [Where tf feminists now](http://9gag.com/gag/azxjLNj)<!-- MEMES:END -->
+ - 😝 [So close to greatness](http://9gag.com/gag/agmVvz6)
+ - 😝 [Cancer Cell Hit By An Ion Beam.](http://9gag.com/gag/a7o7LOw)
+ - 💣 [Imagine the decline after 4 more years](http://9gag.com/gag/aE07vpK)
+ - 😝 [The most passionate.... Wth!!!](http://9gag.com/gag/aZZMWM3)
+ - 👉 [Witness the evolution of an artist from the age of 3 to age 17.](http://9gag.com/gag/aE07w5N)<!-- MEMES:END -->
 
 ---
 

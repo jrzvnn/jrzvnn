@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s M3 Max 14-inch MacBook Pro with 64GB RAM is $250 off &amp; back in stock](https://appleinsider.com/articles/24/07/02/apples-m3-max-14-inch-macbook-pro-with-64gb-ram-is-250-off-back-in-stock?utm_medium=rss)
+ - [Source: Google plans AI features for Pixel 9 under the brand Google AI, including Pixel Screenshots, which lets users search their screenshots with on-device AI &lpar;Kamila Wojciechowska/Android Authority&rpar;](http://www.techmeme.com/240702/p11#a240702p11)
+ - [Biden administration proposes new heat protections for workers](https://www.theverge.com/2024/7/2/24190311/biden-extreme-heat-worker-labor-protections-proposed-rule)
  - [‘Maxxxine is very different from both of them’: Ti West on closing out his X horror trilogy](https://www.theverge.com/24190083/ti-west-interview-maxxxine-a24)
- - [Tesla delivered fewer vehicles to customers for the second quarter in a row](https://www.theverge.com/2024/7/2/24187320/tesla-q2-2024-production-deliveries-decline)
- - [Netflix is starting to phase out its cheapest ad-free plan](https://www.theverge.com/2024/7/2/24190632/netflix-ad-free-basic-plan-discontinued)
- - [Sentient, an open-source AI development platform being built on Polygon, raised a $85M seed led by Founders Fund, Pantera Capital, and Framework Ventures &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/240702/p10#a240702p10)
- - [The Best Substack Alternatives](https://www.wired.com/story/best-substack-alternatives/)<!-- TECH:END -->
+ - [Tesla delivered fewer vehicles to customers for the second quarter in a row](https://www.theverge.com/2024/7/2/24187320/tesla-q2-2024-production-deliveries-decline)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

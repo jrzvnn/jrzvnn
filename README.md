@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fat shamed](http://9gag.com/gag/aD2oAX9)
- - 😝 [North Koreans see K-pop for the first time, fully aware they\u2019re being watched, unsure how to react](http://9gag.com/gag/aD2o3oG)
- - 💣 [The most passionate.... Wth!!!](http://9gag.com/gag/aZZMWM3)
- - 😝 [Nightmares are made of these](http://9gag.com/gag/aVvPO48)
- - 👉 [Plain sight for 17 years](http://9gag.com/gag/ajPAndw)<!-- MEMES:END -->
+ - 😝 [Super Heroes and zeroes](http://9gag.com/gag/aKGqBbQ)
+ - 😝 [Which i assume you know](http://9gag.com/gag/a5Q7K7r)
+ - 💣 [Even the show mocked her...](http://9gag.com/gag/aMVG1ZW)
+ - 😝 [Hate this idiots](http://9gag.com/gag/amo99q9)
+ - 👉 [This guy was like ` how is being arrested real? Just walk away lol`](http://9gag.com/gag/a87MbbQ)<!-- MEMES:END -->
 
 ---
 

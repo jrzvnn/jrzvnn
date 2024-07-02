@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Face-palm](http://9gag.com/gag/avyPLBq)
- - 😝 [The way this brick wall goes through the floor](http://9gag.com/gag/a4PYYW6)
- - 💣 [The problem with Islamic Paradise is that it is full of Islamic People.](http://9gag.com/gag/a4PYYdm)
- - 😝 [So brave](http://9gag.com/gag/aPADDgg)
- - 👉 [...since \u00b494 by F.Gump](http://9gag.com/gag/aPADD2Q)<!-- MEMES:END -->
+ - 😝 [Nightmares are made of these](http://9gag.com/gag/aVvPO48)
+ - 😝 [Reverse videos have always been underrated](http://9gag.com/gag/adBjYrN)
+ - 💣 [From October of 2023 to April of 2024](http://9gag.com/gag/ae9G3eW)
+ - 😝 [Hate this idiots](http://9gag.com/gag/amo99q9)
+ - 👉 [Gear up people down](http://9gag.com/gag/aoy9Zyn)<!-- MEMES:END -->
 
 ---
 

@@ -161,10 +161,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [How to plan hikes &amp; other outdoor adventures in Apple Maps with iOS 18](https://appleinsider.com/inside/ios-18/tips/how-to-plan-hikes-other-outdoor-adventures-in-apple-maps-with-ios-18?utm_medium=rss)
- - [An overview of &quot;looksmaxxing&quot; apps that rate teen boys&#39; faces, boast millions of downloads, and, critics say, are exacerbating the youth mental health crisis &lpar;Alexandra Sternlicht/Fortune&rpar;](http://www.techmeme.com/240701/p21#a240701p21)
- - [Best Printer for 2024](https://www.cnet.com/tech/computing/best-printer/#ftag=CAD590a51e)
- - [Best Fourth of July Laptop Deals: Save on MacBooks, Windows PCs, Chromebooks and More](https://www.cnet.com/deals/best-fourth-of-july-laptop-deals-2024-07-01/#ftag=CAD590a51e)
- - [Best Fourth of July Grill Sales: Grill and Smoker Deals, With Smoking Hot Savings Up to $450 Off](https://www.cnet.com/deals/best-4th-july-grill-sales/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for July 2, #1109](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-2-1109/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for July 2, #387](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-2-387/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for July 2, #121](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-2-121/#ftag=CAD590a51e)
+ - [An overview of &quot;looksmaxxing&quot; apps that rate teen boys&#39; faces, boast millions of downloads, and, critics say, are exacerbating the youth mental health crisis &lpar;Alexandra Sternlicht/Fortune&rpar;](http://www.techmeme.com/240701/p21#a240701p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

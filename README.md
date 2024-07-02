@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Imagine the decline after 4 more years](http://9gag.com/gag/aE07vpK)
+ - 😝 [A short and witty title does the trick.](http://9gag.com/gag/aRBAgG5)
+ - 💣 [This guy was like ` how is being arrested real? Just walk away lol`](http://9gag.com/gag/a87MbbQ)
  - 😝 [From October of 2023 to April of 2024](http://9gag.com/gag/ae9G3eW)
- - 😝 [Drunk guy kicks in hotel front door before getting dropped by a cop](http://9gag.com/gag/a6Z7rPR)
- - 💣 [Ex-wife picks up the kids from the father\u2019s house](http://9gag.com/gag/ae9GKy5)
- - 😝 [Fat shamed](http://9gag.com/gag/aD2oAX9)
- - 👉 [This guy was like ` how is being arrested real? Just walk away lol`](http://9gag.com/gag/a87MbbQ)<!-- MEMES:END -->
+ - 👉 [Proof that Arcanine is a legendary Pokemon](http://9gag.com/gag/a6Z7yoN)<!-- MEMES:END -->
 
 ---
 

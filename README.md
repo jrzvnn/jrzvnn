@@ -163,8 +163,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Source: generative AI video startup Runway is in talks to raise $450M at about a $4B valuation, with General Atlantic in talks to lead the round &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/240702/p18#a240702p18)
  - [Judge blocks Mississippi law that required age verification on social media](https://www.theverge.com/2024/7/2/24190800/mississippi-age-verification-law-blocked-netchoice-first-amendment)
  - [The 51 Best Shows on Disney+ Right Now &lpar;July 2024&rpar;](https://www.wired.com/story/best-shows-disney-plus/)
- - [Longer-lasting laptops: the modular hardware you can upgrade and repair yourself](https://www.theverge.com/24190757/modular-laptops-repairable-upgradable-diy)
- - [Google Search Ranks AI Spam Above Original Reporting in News Results](https://www.wired.com/story/google-search-ai-spam-original-reporting-news-results/)<!-- TECH:END -->
+ - [The 13 Best July 4th Smart Home Deals: Score Savings on Smart Vacuums, Lights and More](https://www.cnet.com/deals/best-fourth-of-july-smart-home-deals-2024-07-02/#ftag=CAD590a51e)
+ - [Longer-lasting laptops: the modular hardware you can upgrade and repair yourself](https://www.theverge.com/24190757/modular-laptops-repairable-upgradable-diy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

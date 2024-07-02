@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [VFX company DNEG raised $200M from Abu Dhabi&#39;s UASG at a $2B valuation, to expand its division Brahma, which is developing an AI-powered, photo-real CGI creator &lpar;Melanie Goodfellow/Deadline&rpar;](http://www.techmeme.com/240702/p6#a240702p6)
  - [Elgato&#39;s New Stream Deck Neo Sees Its First Discount With This Early Fourth of July Deal](https://www.cnet.com/deals/elgatos-new-stream-deck-neo-sees-its-first-discount-with-this-early-fourth-of-july-deal/#ftag=CAD590a51e)
  - [The Biden administration awards $504M in funding for 12 regional tech hubs, including in New York and Florida, to expand research in AI, chip making, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/240702/p5#a240702p5)
  - [Sleep Sweet With Up to 70% Off During Crane &amp; Canopy&#39;s Fourth of July Sale](https://www.cnet.com/deals/sleep-sweet-with-up-to-70-off-during-crane-canopys-fourth-of-july-sale/#ftag=CAD590a51e)
- - [Score Big Fourth of July Savings of Up to 35% Off at Casper: Mattresses, Pillows, Furniture and More](https://www.cnet.com/deals/score-big-fourth-of-july-savings-of-up-to-35-off-at-casper-mattresses-pillows-furniture-and-more/#ftag=CAD590a51e)
- - [Tubi launches in the UK with more than 20,000 movies and TV episodes, featuring content from distributors including Disney, Lionsgate, NBCU, and Sony Pictures &lpar;Georg Szalai/The Hollywood Reporter&rpar;](http://www.techmeme.com/240702/p4#a240702p4)<!-- TECH:END -->
+ - [Score Big Fourth of July Savings of Up to 35% Off at Casper: Mattresses, Pillows, Furniture and More](https://www.cnet.com/deals/score-big-fourth-of-july-savings-of-up-to-35-off-at-casper-mattresses-pillows-furniture-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Magic, a US startup developing AI models for coding tasks, is in talks to raise $200M+ at a $1.5B valuation &lpar;Reuters&rpar;](http://www.techmeme.com/240702/p25#a240702p25)
  - [Snapchat adds new features, including letting Snapchat+ subscribers design a personalized house on Snap Map and send Snaps that last less than .5 seconds &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240702/p24#a240702p24)
  - [Best July 4th TV Sales: Save Big on Sony, LG, Samsung, Toshiba and More Right Now](https://www.cnet.com/deals/best-july-4th-tv-sales-2024-07-02/#ftag=CAD590a51e)
  - [The 40 Best Deals of Home Depot&#39;s July 4th Sale: Save on Appliances, Grills, Tools and Outdoor Equipment](https://www.cnet.com/deals/home-depot-july-4th-sale-2024-07-02/#ftag=CAD590a51e)
- - [Traveling With Kids? Here&#39;s How to Get Airport Lounge Access for the Whole Family](https://www.cnet.com/personal-finance/credit-cards/traveling-with-kids-heres-how-to-get-airport-lounge-access-for-the-whole-family/#ftag=CAD590a51e)
- - [Take Google Back to 1998: How to Get 10 Blue Links in Google Search Results](https://www.cnet.com/tech/services-and-software/take-google-back-to-1998-how-to-get-10-blue-links-in-google-search-results/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Traveling With Kids? Here&#39;s How to Get Airport Lounge Access for the Whole Family](https://www.cnet.com/personal-finance/credit-cards/traveling-with-kids-heres-how-to-get-airport-lounge-access-for-the-whole-family/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

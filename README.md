@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not so friends](http://9gag.com/gag/a9y7P3L)
+ - 😝 [How defeat a Jedi](http://9gag.com/gag/aoy90GA)
  - 😝 [Hate this idiots](http://9gag.com/gag/amo99q9)
- - 💣 [Using the UNO reverse card against this kind of people](http://9gag.com/gag/a6Z77Nb)
+ - 💣 [Simple yet so effective](http://9gag.com/gag/a4PYYwm)
  - 😝 [From October of 2023 to April of 2024](http://9gag.com/gag/ae9G3eW)
- - 👉 [Gear up people down](http://9gag.com/gag/aoy9Zyn)<!-- MEMES:END -->
+ - 👉 [BYD demonstrated its advanced automated driving functionality.](http://9gag.com/gag/aW466jx)<!-- MEMES:END -->
 
 ---
 

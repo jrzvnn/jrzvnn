@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: generative AI video startup Runway is in talks to raise $450M at about a $4B valuation, with General Atlantic in talks to lead the round &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/240702/p18#a240702p18)
+ - [Judge blocks Mississippi law that required age verification on social media](https://www.theverge.com/2024/7/2/24190800/mississippi-age-verification-law-blocked-netchoice-first-amendment)
+ - [The 51 Best Shows on Disney+ Right Now &lpar;July 2024&rpar;](https://www.wired.com/story/best-shows-disney-plus/)
  - [Longer-lasting laptops: the modular hardware you can upgrade and repair yourself](https://www.theverge.com/24190757/modular-laptops-repairable-upgradable-diy)
- - [Google Search Ranks AI Spam Above Original Reporting in News Results](https://www.wired.com/story/google-search-ai-spam-original-reporting-news-results/)
- - [How Ukraine is using AI, code found online, and hobbyist computers to weaponize consumer tech and build low-cost weapons like autonomous drones and machine guns &lpar;New York Times&rpar;](http://www.techmeme.com/240702/p17#a240702p17)
- - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
- - [A year of Paramount Plus with Showtime is half off ahead of its impending price hike](https://www.theverge.com/2024/7/2/24190642/paramount-plus-showtime-streaming-logitech-yeti-gx-mic-deal-sale)<!-- TECH:END -->
+ - [Google Search Ranks AI Spam Above Original Reporting in News Results](https://www.wired.com/story/google-search-ai-spam-original-reporting-news-results/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

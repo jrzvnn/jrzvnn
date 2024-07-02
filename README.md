@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fat shamed](http://9gag.com/gag/aD2oAX9)
- - 😝 [Interesting](http://9gag.com/gag/ayNd7nb)
- - 💣 [The most passionate.... Wth!!!](http://9gag.com/gag/aZZMWM3)
- - 😝 [Nightmares are made of these](http://9gag.com/gag/aVvPO48)
- - 👉 [Plain sight for 17 years](http://9gag.com/gag/ajPAndw)<!-- MEMES:END -->
+ - 😝 [Final Boss of Woodworking: Crafting the Pitch-Perfect Stair Railing](http://9gag.com/gag/a5Q7KzE)
+ - 😝 [Face-palm](http://9gag.com/gag/avyPLBq)
+ - 💣 [Love happy endings!](http://9gag.com/gag/aAy1r7E)
+ - 😝 [Almost?](http://9gag.com/gag/aqy527Y)
+ - 👉 [How defeat a Jedi](http://9gag.com/gag/aoy90GA)<!-- MEMES:END -->
 
 ---
 

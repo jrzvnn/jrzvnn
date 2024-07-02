@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A short and witty title does the trick.](http://9gag.com/gag/aRBAgG5)
- - 😝 [Gear up people down](http://9gag.com/gag/aoy9Zyn)
- - 💣 [Love happy endings!](http://9gag.com/gag/aAy1r7E)
  - 😝 [The most passionate.... Wth!!!](http://9gag.com/gag/aZZMWM3)
- - 👉 [How long haul airline seating works](http://9gag.com/gag/a7o7v6e)<!-- MEMES:END -->
+ - 😝 [France after election results show massive gain for right wing party](http://9gag.com/gag/a5Q7dLL)
+ - 💣 [Drunk guy kicks in hotel front door before getting dropped by a cop](http://9gag.com/gag/a6Z7rPR)
+ - 😝 [Gear up people down](http://9gag.com/gag/aoy9Zyn)
+ - 👉 [Interesting](http://9gag.com/gag/ayNd7nb)<!-- MEMES:END -->
 
 ---
 

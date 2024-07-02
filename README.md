@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So close to greatness](http://9gag.com/gag/agmVvz6)
- - 😝 [Cancer Cell Hit By An Ion Beam.](http://9gag.com/gag/a7o7LOw)
- - 💣 [Imagine the decline after 4 more years](http://9gag.com/gag/aE07vpK)
- - 😝 [The most passionate.... Wth!!!](http://9gag.com/gag/aZZMWM3)
- - 👉 [Witness the evolution of an artist from the age of 3 to age 17.](http://9gag.com/gag/aE07w5N)<!-- MEMES:END -->
+ - 😝 [A teacher using AI images of her students to help motivate them](http://9gag.com/gag/a34BL48)
+ - 😝 [Sad reality](http://9gag.com/gag/adBjN4B)
+ - 💣 [The Chinese Tianlong-3 Rocket Accidentally Launched During A Engine Test](http://9gag.com/gag/aByYRgx)
+ - 😝 [Can&#39;t be saying that anymore](http://9gag.com/gag/aW460LZ)
+ - 👉 [Fat shamed](http://9gag.com/gag/aD2oAX9)<!-- MEMES:END -->
 
 ---
 

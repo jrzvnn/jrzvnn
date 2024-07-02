@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nightmares are made of these](http://9gag.com/gag/aVvPO48)
  - 😝 [Hate this idiots](http://9gag.com/gag/amo99q9)
- - 💣 [BYD demonstrated its advanced automated driving functionality.](http://9gag.com/gag/aW466jx)
- - 😝 [Gear up people down](http://9gag.com/gag/aoy9Zyn)
- - 👉 [Plain sight for 17 years](http://9gag.com/gag/ajPAndw)<!-- MEMES:END -->
+ - 😝 [Best 7 seconds of her life](http://9gag.com/gag/aoy9jAX)
+ - 💣 [Plain sight for 17 years](http://9gag.com/gag/ajPAndw)
+ - 😝 [I am the top dog now!](http://9gag.com/gag/a5Q7NPG)
+ - 👉 [From October of 2023 to April of 2024](http://9gag.com/gag/ae9G3eW)<!-- MEMES:END -->
 
 ---
 

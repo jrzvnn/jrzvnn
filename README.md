@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Imagine the decline after 4 more years](http://9gag.com/gag/aE07vpK)
+ - 😝 [Drunk guy kicks in hotel front door before getting dropped by a cop](http://9gag.com/gag/a6Z7rPR)
+ - 💣 [Ex-wife picks up the kids from the father\u2019s house](http://9gag.com/gag/ae9GKy5)
  - 😝 [Interesting](http://9gag.com/gag/ayNd7nb)
- - 😝 [The Chinese Tianlong-3 Rocket Accidentally Launched During A Engine Test](http://9gag.com/gag/aByYRgx)
- - 💣 [Drunk guy kicks in hotel front door before getting dropped by a cop](http://9gag.com/gag/a6Z7rPR)
- - 😝 [Gear up people down](http://9gag.com/gag/aoy9Zyn)
  - 👉 [The most passionate.... Wth!!!](http://9gag.com/gag/aZZMWM3)<!-- MEMES:END -->
 
 ---

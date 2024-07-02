@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The way this brick wall goes through the floor](http://9gag.com/gag/a4PYYW6)
- - 😝 [Reverse videos have always been underrated](http://9gag.com/gag/adBjYrN)
- - 💣 [So brave](http://9gag.com/gag/aPADDgg)
  - 😝 [Equality](http://9gag.com/gag/apRvLNb)
- - 👉 [...since \u00b494 by F.Gump](http://9gag.com/gag/aPADD2Q)<!-- MEMES:END -->
+ - 😝 [It&#39;s all in the detail](http://9gag.com/gag/aAy1PVL)
+ - 💣 [Hate this idiots](http://9gag.com/gag/amo99q9)
+ - 😝 [...since \u00b494 by F.Gump](http://9gag.com/gag/aPADD2Q)
+ - 👉 [Reverse videos have always been underrated](http://9gag.com/gag/adBjYrN)<!-- MEMES:END -->
 
 ---
 

@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Figma pulls AI tool after criticism that it ripped off Apple’s design](https://www.theverge.com/2024/7/2/24190823/figma-ai-tool-apple-weather-app-copy)
- - [A US judge temporarily blocked a new Mississippi law that would require age verification for all and parental consent for teens to join some social networks &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240702/p20#a240702p20)
- - [Netflix’s latest game is a mobile take on Minesweeper](https://www.theverge.com/2024/7/2/24190961/netflix-games-minesweeper-subscribers-launch-trailer)
- - [Coleman Chest Cooler](https://www.cnet.com/news/coleman-chest-cooler-dpnl/#ftag=CAD590a51e)
- - [Propane Gas Grill](https://www.cnet.com/news/propane-gas-grill-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Apple will get an observer role on OpenAI&#39;s board, with Phil Schiller chosen for the position, as part of their partnership announced last month &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240702/p22#a240702p22)
+ - [Responding to criticism, Figma&#39;s CTO says the Make Design feature is &quot;powered by off-the-shelf models and a bespoke design system that we commissioned&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240702/p21#a240702p21)
+ - [Hints for Winning at NYT Strands, the Latest Must-Play Daily Online Game](https://www.cnet.com/tech/services-and-software/how-to-win-nyt-strands-the-latest-must-play-daily-online-game/#ftag=CAD590a51e)
+ - [Best July 4th Laptop Sales: Save on MacBooks, Windows PCs, Chromebooks and More](https://www.cnet.com/deals/july-4th-laptop-deals-2024-07-02/#ftag=CAD590a51e)
+ - [Best Budget Earbuds for 2024: Cheap Wireless Picks](https://www.cnet.com/tech/mobile/best-cheap-wireless-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

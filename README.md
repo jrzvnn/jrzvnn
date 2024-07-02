@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The most passionate.... Wth!!!](http://9gag.com/gag/aZZMWM3)
- - 😝 [Even the show mocked her...](http://9gag.com/gag/aMVG1ZW)
- - 💣 [North Koreans see K-pop for the first time, fully aware they\u2019re being watched, unsure how to react](http://9gag.com/gag/aD2o3oG)
- - 😝 [Plain sight for 17 years](http://9gag.com/gag/ajPAndw)
- - 👉 [Fat shamed](http://9gag.com/gag/aD2oAX9)<!-- MEMES:END -->
+ - 😝 [Interesting](http://9gag.com/gag/ayNd7nb)
+ - 😝 [Imagine if the roles were reversed](http://9gag.com/gag/ajPA6Vw)
+ - 💣 [Cancer Cell Hit By An Ion Beam.](http://9gag.com/gag/a7o7LOw)
+ - 😝 [Best 7 seconds of her life](http://9gag.com/gag/aoy9jAX)
+ - 👉 [The Chinese Tianlong-3 Rocket Accidentally Launched During A Engine Test](http://9gag.com/gag/aByYRgx)<!-- MEMES:END -->
 
 ---
 

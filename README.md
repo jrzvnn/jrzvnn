@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elgato&#39;s New Stream Deck Neo Sees Its First Discount With This Early Fourth of July Deal](https://www.cnet.com/deals/elgatos-new-stream-deck-neo-sees-its-first-discount-with-this-early-fourth-of-july-deal/#ftag=CAD590a51e)
  - [The Biden administration awards $504M in funding for 12 regional tech hubs, including in New York and Florida, to expand research in AI, chip making, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/240702/p5#a240702p5)
- - [Tubi launches in the UK with more than 20,000 movies and TV episodes, featuring content from distributors including Disney, Lionsgate, NBCU, and Sony Pictures &lpar;Georg Szalai/The Hollywood Reporter&rpar;](http://www.techmeme.com/240702/p4#a240702p4)
- - [Revolut&#39;s 2023 revenue almost doubled to &amp;pound;1.8B, after interest income grew to &amp;pound;500M from &amp;pound;83M in 2022; auditor BDO gave its accounts a clean bill of health &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/240702/p3#a240702p3)
- - [Do You Have to Enroll in Medicare When You Turn 65?](https://www.cnet.com/personal-finance/insurance/do-you-have-to-enroll-in-medicare-when-you-turn-65/#ftag=CAD590a51e)
- - [My Favorite Smart Lamp Is 40% Off on Amazon for July Fourth, for Who Knows How Long](https://www.cnet.com/deals/my-favorite-smart-lamp-is-40-off-on-amazon-for-july-fourth-for-who-knows-how-long/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sleep Sweet With Up to 70% Off During Crane &amp; Canopy&#39;s Fourth of July Sale](https://www.cnet.com/deals/sleep-sweet-with-up-to-70-off-during-crane-canopys-fourth-of-july-sale/#ftag=CAD590a51e)
+ - [Score Big Fourth of July Savings of Up to 35% Off at Casper: Mattresses, Pillows, Furniture and More](https://www.cnet.com/deals/score-big-fourth-of-july-savings-of-up-to-35-off-at-casper-mattresses-pillows-furniture-and-more/#ftag=CAD590a51e)
+ - [Tubi launches in the UK with more than 20,000 movies and TV episodes, featuring content from distributors including Disney, Lionsgate, NBCU, and Sony Pictures &lpar;Georg Szalai/The Hollywood Reporter&rpar;](http://www.techmeme.com/240702/p4#a240702p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

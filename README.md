@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The most passionate.... Wth!!!](http://9gag.com/gag/aZZMWM3)
- - 😝 [France after election results show massive gain for right wing party](http://9gag.com/gag/a5Q7dLL)
+ - 😝 [Interesting](http://9gag.com/gag/ayNd7nb)
+ - 😝 [The Chinese Tianlong-3 Rocket Accidentally Launched During A Engine Test](http://9gag.com/gag/aByYRgx)
  - 💣 [Drunk guy kicks in hotel front door before getting dropped by a cop](http://9gag.com/gag/a6Z7rPR)
  - 😝 [Gear up people down](http://9gag.com/gag/aoy9Zyn)
- - 👉 [Interesting](http://9gag.com/gag/ayNd7nb)<!-- MEMES:END -->
+ - 👉 [The most passionate.... Wth!!!](http://9gag.com/gag/aZZMWM3)<!-- MEMES:END -->
 
 ---
 

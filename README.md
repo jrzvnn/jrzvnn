@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Australia&#39;s eSafety Commissioner has issued notices to internet firms asking for enforceable codes to protect kids from pornography and other content by Oct. 3 &lpar;Byron Kaye/Reuters&rpar;](http://www.techmeme.com/240702/p1#a240702p1)
+ - [Missed the Student Loan Forgiveness Deadline? Here Are Your Options](https://www.cnet.com/personal-finance/student-loan-forgiveness-heres-what-to-do-if-you-missed-the-loan-consolidation-deadline/#ftag=CAD590a51e)
  - [How to plan hikes &amp; other outdoor adventures in Apple Maps with iOS 18](https://appleinsider.com/inside/ios-18/tips/how-to-plan-hikes-other-outdoor-adventures-in-apple-maps-with-ios-18?utm_medium=rss)
  - [Today&#39;s Wordle Hints, Answer and Help for July 2, #1109](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-2-1109/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for July 2, #387](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-2-387/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for July 2, #121](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-2-121/#ftag=CAD590a51e)
- - [An overview of &quot;looksmaxxing&quot; apps that rate teen boys&#39; faces, boast millions of downloads, and, critics say, are exacerbating the youth mental health crisis &lpar;Alexandra Sternlicht/Fortune&rpar;](http://www.techmeme.com/240701/p21#a240701p21)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for July 2, #387](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-2-387/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Super Heroes and zeroes](http://9gag.com/gag/aKGqBbQ)
- - 😝 [Not so friends](http://9gag.com/gag/a9y7P3L)
- - 💣 [Gear up people down](http://9gag.com/gag/aoy9Zyn)
- - 😝 [BYD demonstrated its advanced automated driving functionality.](http://9gag.com/gag/aW466jx)
- - 👉 [Hate this idiots](http://9gag.com/gag/amo99q9)<!-- MEMES:END -->
+ - 😝 [The problem with Islamic Paradise is that it is full of Islamic People.](http://9gag.com/gag/a4PYYdm)
+ - 😝 [The way this brick wall goes through the floor](http://9gag.com/gag/a4PYYW6)
+ - 💣 [So brave](http://9gag.com/gag/aPADDgg)
+ - 😝 [Reverse videos have always been underrated](http://9gag.com/gag/adBjYrN)
+ - 👉 [...since \u00b494 by F.Gump](http://9gag.com/gag/aPADD2Q)<!-- MEMES:END -->
 
 ---
 

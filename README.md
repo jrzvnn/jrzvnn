@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mastodon rolls out built-in bylines for journalists in the fediverse](https://www.theverge.com/2024/7/2/24191049/mastodon-built-in-bylines-journalists-fediverse)
  - [Former Apple hardware engineer joins Rivian](https://appleinsider.com/articles/24/07/02/former-apple-hardware-engineer-joins-rivian?utm_medium=rss)
  - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
  - [Sources: Apple will get an observer role on OpenAI&#39;s board, with Phil Schiller chosen for the position, as part of their partnership announced last month &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240702/p22#a240702p22)
- - [Responding to criticism, Figma&#39;s CTO says the Make Design feature is &quot;powered by off-the-shelf models and a bespoke design system that we commissioned&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240702/p21#a240702p21)
- - [Figma pulls AI tool after criticism that it ripped off Apple’s design](https://www.theverge.com/2024/7/2/24190823/figma-ai-tool-apple-weather-app-copy)<!-- TECH:END -->
+ - [Responding to criticism, Figma&#39;s CTO says the Make Design feature is &quot;powered by off-the-shelf models and a bespoke design system that we commissioned&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240702/p21#a240702p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

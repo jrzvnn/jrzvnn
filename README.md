@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Imagine the decline after 4 more years](http://9gag.com/gag/aE07vpK)
- - 😝 [Drunk guy kicks in hotel front door before getting dropped by a cop](http://9gag.com/gag/a6Z7rPR)
- - 💣 [Ex-wife picks up the kids from the father\u2019s house](http://9gag.com/gag/ae9GKy5)
- - 😝 [Interesting](http://9gag.com/gag/ayNd7nb)
- - 👉 [The most passionate.... Wth!!!](http://9gag.com/gag/aZZMWM3)<!-- MEMES:END -->
+ - 😝 [Ex-wife picks up the kids from the father\u2019s house](http://9gag.com/gag/ae9GKy5)
+ - 😝 [Even the show mocked her...](http://9gag.com/gag/aMVG1ZW)
+ - 💣 [Nightmares are made of these](http://9gag.com/gag/aVvPO48)
+ - 😝 [Based](http://9gag.com/gag/aRBAweQ)
+ - 👉 [Where tf feminists now](http://9gag.com/gag/azxjLNj)<!-- MEMES:END -->
 
 ---
 

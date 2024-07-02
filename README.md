@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Longer-lasting laptops: the modular hardware you can upgrade and repair yourself](https://www.theverge.com/24190757/modular-laptops-repairable-upgradable-diy)
  - [Google Search Ranks AI Spam Above Original Reporting in News Results](https://www.wired.com/story/google-search-ai-spam-original-reporting-news-results/)
  - [How Ukraine is using AI, code found online, and hobbyist computers to weaponize consumer tech and build low-cost weapons like autonomous drones and machine guns &lpar;New York Times&rpar;](http://www.techmeme.com/240702/p17#a240702p17)
  - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
- - [A year of Paramount Plus with Showtime is half off ahead of its impending price hike](https://www.theverge.com/2024/7/2/24190642/paramount-plus-showtime-streaming-logitech-yeti-gx-mic-deal-sale)
- - [All iPhone 16 models said to be powered by A18 chips](https://appleinsider.com/articles/24/07/02/all-iphone-16-models-said-to-be-powered-by-a18-chips?utm_medium=rss)<!-- TECH:END -->
+ - [A year of Paramount Plus with Showtime is half off ahead of its impending price hike](https://www.theverge.com/2024/7/2/24190642/paramount-plus-showtime-streaming-logitech-yeti-gx-mic-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

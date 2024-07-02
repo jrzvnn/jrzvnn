@@ -170,9 +170,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The most passionate.... Wth!!!](http://9gag.com/gag/aZZMWM3)
- - 😝 [When Culture Tricks You](http://9gag.com/gag/aQz8nLr)
- - 💣 [North Koreans see K-pop for the first time, fully aware they\u2019re being watched, unsure how to react](http://9gag.com/gag/aD2o3oG)
- - 😝 [Hate this idiots](http://9gag.com/gag/amo99q9)
+ - 😝 [Gear up people down](http://9gag.com/gag/aoy9Zyn)
+ - 💣 [From October of 2023 to April of 2024](http://9gag.com/gag/ae9G3eW)
+ - 😝 [Using the UNO reverse card against this kind of people](http://9gag.com/gag/a6Z77Nb)
  - 👉 [Plain sight for 17 years](http://9gag.com/gag/ajPAndw)<!-- MEMES:END -->
 
 ---

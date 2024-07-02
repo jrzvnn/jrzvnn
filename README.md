@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sad reality](http://9gag.com/gag/adBjN4B)
  - 😝 [Fat shamed](http://9gag.com/gag/aD2oAX9)
- - 💣 [Nightmares are made of these](http://9gag.com/gag/aVvPO48)
- - 😝 [The most passionate.... Wth!!!](http://9gag.com/gag/aZZMWM3)
- - 👉 [From October of 2023 to April of 2024](http://9gag.com/gag/ae9G3eW)<!-- MEMES:END -->
+ - 😝 [North Koreans see K-pop for the first time, fully aware they\u2019re being watched, unsure how to react](http://9gag.com/gag/aD2o3oG)
+ - 💣 [The most passionate.... Wth!!!](http://9gag.com/gag/aZZMWM3)
+ - 😝 [Nightmares are made of these](http://9gag.com/gag/aVvPO48)
+ - 👉 [Plain sight for 17 years](http://9gag.com/gag/ajPAndw)<!-- MEMES:END -->
 
 ---
 

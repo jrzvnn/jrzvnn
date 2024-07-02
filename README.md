@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This dual-screen laptop swings horizontally — and quotes the Whole Earth Catalog](https://www.theverge.com/2024/7/2/24191148/acemagic-x1-dual-screen-laptop)
  - [Sources: Magic, a US startup developing AI models for coding tasks, is in talks to raise $200M+ at a $1.5B valuation &lpar;Reuters&rpar;](http://www.techmeme.com/240702/p25#a240702p25)
  - [Snapchat adds new features, including letting Snapchat+ subscribers design a personalized house on Snap Map and send Snaps that last less than .5 seconds &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240702/p24#a240702p24)
  - [Best July 4th TV Sales: Save Big on Sony, LG, Samsung, Toshiba and More Right Now](https://www.cnet.com/deals/best-july-4th-tv-sales-2024-07-02/#ftag=CAD590a51e)
- - [The 40 Best Deals of Home Depot&#39;s July 4th Sale: Save on Appliances, Grills, Tools and Outdoor Equipment](https://www.cnet.com/deals/home-depot-july-4th-sale-2024-07-02/#ftag=CAD590a51e)
- - [Traveling With Kids? Here&#39;s How to Get Airport Lounge Access for the Whole Family](https://www.cnet.com/personal-finance/credit-cards/traveling-with-kids-heres-how-to-get-airport-lounge-access-for-the-whole-family/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 40 Best Deals of Home Depot&#39;s July 4th Sale: Save on Appliances, Grills, Tools and Outdoor Equipment](https://www.cnet.com/deals/home-depot-july-4th-sale-2024-07-02/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -169,9 +169,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Witness the evolution of an artist from the age of 3 to age 17.](http://9gag.com/gag/aE07w5N)
  - 😝 [Nightmares are made of these](http://9gag.com/gag/aVvPO48)
- - 😝 [Super Heroes and zeroes](http://9gag.com/gag/aKGqBbQ)
- - 💣 [These mods are getting out of hand!](http://9gag.com/gag/azxjVZp)
+ - 💣 [Hate this idiots](http://9gag.com/gag/amo99q9)
  - 😝 [BYD demonstrated its advanced automated driving functionality.](http://9gag.com/gag/aW466jx)
  - 👉 [Plain sight for 17 years](http://9gag.com/gag/ajPAndw)<!-- MEMES:END -->
 

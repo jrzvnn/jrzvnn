@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: generative AI video startup Runway is in talks to raise $450M at about a $4B valuation, with General Atlantic in talks to lead the round &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/240702/p18#a240702p18)
- - [Judge blocks Mississippi law that required age verification on social media](https://www.theverge.com/2024/7/2/24190800/mississippi-age-verification-law-blocked-netchoice-first-amendment)
- - [The 51 Best Shows on Disney+ Right Now &lpar;July 2024&rpar;](https://www.wired.com/story/best-shows-disney-plus/)
- - [The 13 Best July 4th Smart Home Deals: Score Savings on Smart Vacuums, Lights and More](https://www.cnet.com/deals/best-fourth-of-july-smart-home-deals-2024-07-02/#ftag=CAD590a51e)
- - [Longer-lasting laptops: the modular hardware you can upgrade and repair yourself](https://www.theverge.com/24190757/modular-laptops-repairable-upgradable-diy)<!-- TECH:END -->
+ - [Google’s carbon footprint balloons in its Gemini AI era](https://www.theverge.com/2024/7/2/24190874/google-ai-climate-change-carbon-emissions-rise)
+ - [Meta says it will lift its ban on the word &quot;shaheed&quot;, or &quot;martyr&quot; in English, after its oversight board&#39;s year-long review found the approach to be &quot;overbroad&quot; &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/240702/p19#a240702p19)
+ - [&#39;Resident Evil 7&#39; creeps its way onto iPhone, iPad, and Mac](https://appleinsider.com/articles/24/07/02/resident-evil-7-creeps-its-way-onto-iphone-ipad-and-mac?utm_medium=rss)
+ - [Shadow of the Erdtree’s new perfume weapons are seriously broken and seriously fun](https://www.theverge.com/2024/7/2/24190898/elden-ring-shadow-of-the-erdtree-perfume-weapon-rolling-sparks)
+ - [Source: generative AI video startup Runway is in talks to raise $450M at about a $4B valuation, with General Atlantic in talks to lead the round &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/240702/p18#a240702p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

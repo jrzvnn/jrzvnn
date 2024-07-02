@@ -164,7 +164,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
  - [A year of Paramount Plus with Showtime is half off ahead of its impending price hike](https://www.theverge.com/2024/7/2/24190642/paramount-plus-showtime-streaming-logitech-yeti-gx-mic-deal-sale)
  - [All iPhone 16 models said to be powered by A18 chips](https://appleinsider.com/articles/24/07/02/all-iphone-16-models-said-to-be-powered-by-a18-chips?utm_medium=rss)
- - [Generative AI music service Suno launches its iOS app in the US, with plans for a global rollout and an Android app &lpar;Lloyd Coombes/Tom&#39;s Guide&rpar;](http://www.techmeme.com/240702/p16#a240702p16)<!-- TECH:END -->
+ - [Score a $200 Amazon Gift Card to Save Even More on Prime Day and July 4th Sales](https://www.cnet.com/personal-finance/get-a-200-amazon-gift-card-to-save-even-more-on-prime-day/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Imagine the decline after 4 more years](http://9gag.com/gag/aE07vpK)
- - 😝 [A short and witty title does the trick.](http://9gag.com/gag/aRBAgG5)
- - 💣 [This guy was like ` how is being arrested real? Just walk away lol`](http://9gag.com/gag/a87MbbQ)
- - 😝 [From October of 2023 to April of 2024](http://9gag.com/gag/ae9G3eW)
- - 👉 [Proof that Arcanine is a legendary Pokemon](http://9gag.com/gag/a6Z7yoN)<!-- MEMES:END -->
+ - 😝 [Not sure if this is an MJF bucket list wish but this legend deserves all respect](http://9gag.com/gag/aYQeWMN)
+ - 😝 [Modern problem required modern solutions](http://9gag.com/gag/avyPpbM)
+ - 💣 [Cheers!](http://9gag.com/gag/azxjbpx)
+ - 😝 [Female behaviour](http://9gag.com/gag/a0epPXQ)
+ - 👉 [Tensions are rising in Spain after the murder of 39-y-old David Lledo, beaten to death with baseball bats by 3 Moroccans after stopping them from harassing girls. People gathered at the site, chanting slogans \u201cSpain is Christian, not Muslim\u201d](http://9gag.com/gag/a5Q7NBV)<!-- MEMES:END -->
 
 ---
 

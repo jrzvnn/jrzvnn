@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [For about 10 years, millions of macOS and iOS apps using CocoaPods were vulnerable to a serious flaw in the dependency manager, which was patched last October &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240702/p14#a240702p14)
- - [Polestar Is Bracing for the EV Tariff Wars. It May Not Emerge Unscathed](https://www.wired.com/story/polestar-is-bracing-for-the-ev-tariff-wars-it-may-not-emerge-unscathed/)
- - [Figma disables a recently launched generative AI app design tool, after a user showed it just copied Apple&#39;s weather app when asked to design a weather app &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/240702/p13#a240702p13)
+ - [For ~10 years, millions of macOS and iOS apps using CocoaPods were vulnerable to a serious flaw in the dependency manager, which was patched in October 2023 &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240702/p14#a240702p14)
+ - [Figma disables its recently launched generative AI app design tool Make Design, after a user showed it copied Apple&#39;s Weather when asked to design a weather app &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/240702/p13#a240702p13)
  - [Final Cut Camera delivers for mobile filmmakers with manual controls &amp; iPad multi-cam](https://appleinsider.com/articles/24/07/02/final-cut-camera-delivers-for-mobile-filmmakers-with-manual-controls-ipad-multi-cam?utm_medium=rss)
- - [SCOTUS agrees to consider whether a Texas law requiring porn sites to verify users&#39; age violates the First Amendment, during its next term starting in October &lpar;Andrew Chung/Reuters&rpar;](http://www.techmeme.com/240702/p12#a240702p12)<!-- TECH:END -->
+ - [SCOTUS agrees to consider whether a Texas law requiring porn sites to verify users&#39; ages violates the First Amendment, in its next term, which starts in October &lpar;Andrew Chung/Reuters&rpar;](http://www.techmeme.com/240702/p12#a240702p12)
+ - [Apple Watch Series 9 vs Samsung Galaxy Watch 7-- Specs, price, and features, compared](https://appleinsider.com/inside/apple-watch-series-9/vs/apple-watch-series-9-vs-samsung-galaxy-watch-7---specs-price-and-features-compared?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

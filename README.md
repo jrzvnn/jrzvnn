@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Figma disables a recently launched generative AI app design tool, after a user showed it just copied Apple&#39;s weather app when asked to design a weather app &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/240702/p13#a240702p13)
  - [Final Cut Camera delivers for mobile filmmakers with manual controls &amp; iPad multi-cam](https://appleinsider.com/articles/24/07/02/final-cut-camera-delivers-for-mobile-filmmakers-with-manual-controls-ipad-multi-cam?utm_medium=rss)
  - [SCOTUS agrees to consider whether a Texas law requiring porn sites to verify users&#39; age violates the First Amendment, during its next term starting in October &lpar;Andrew Chung/Reuters&rpar;](http://www.techmeme.com/240702/p12#a240702p12)
  - [Apple Watch Series 9 vs Samsung Galaxy Watch 7-- Specs, price, and features, compared](https://appleinsider.com/inside/apple-watch-series-9/vs/apple-watch-series-9-vs-samsung-galaxy-watch-7---specs-price-and-features-compared?utm_medium=rss)
- - [Apple&#39;s M3 Max 14-inch MacBook Pro with 64GB RAM is $250 off &amp; back in stock](https://appleinsider.com/articles/24/07/02/apples-m3-max-14-inch-macbook-pro-with-64gb-ram-is-250-off-back-in-stock?utm_medium=rss)
- - [Source: Google plans AI features for the Pixel 9 under the Google AI brand, like Pixel Screenshots, which lets users search their screenshots using on-device AI &lpar;Kamila Wojciechowska/Android Authority&rpar;](http://www.techmeme.com/240702/p11#a240702p11)<!-- TECH:END -->
+ - [Apple&#39;s M3 Max 14-inch MacBook Pro with 64GB RAM is $250 off &amp; back in stock](https://appleinsider.com/articles/24/07/02/apples-m3-max-14-inch-macbook-pro-with-64gb-ram-is-250-off-back-in-stock?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

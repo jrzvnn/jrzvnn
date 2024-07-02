@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This guy was like ` how is being arrested real? Just walk away lol`](http://9gag.com/gag/a87MbbQ)
- - 😝 [Proof that Arcanine is a legendary Pokemon](http://9gag.com/gag/a6Z7yoN)
- - 💣 [Sad reality](http://9gag.com/gag/adBjN4B)
- - 😝 [A short and witty title does the trick.](http://9gag.com/gag/aRBAgG5)
- - 👉 [The most passionate.... Wth!!!](http://9gag.com/gag/aZZMWM3)<!-- MEMES:END -->
+ - 😝 [North Koreans see K-pop for the first time, fully aware they\u2019re being watched, unsure how to react](http://9gag.com/gag/aD2o3oG)
+ - 😝 [The Chinese Tianlong-3 Rocket Accidentally Launched During A Engine Test](http://9gag.com/gag/aByYRgx)
+ - 💣 [Drunk guy kicks in hotel front door before getting dropped by a cop](http://9gag.com/gag/a6Z7rPR)
+ - 😝 [The most passionate.... Wth!!!](http://9gag.com/gag/aZZMWM3)
+ - 👉 [Proof that Arcanine is a legendary Pokemon](http://9gag.com/gag/a6Z7yoN)<!-- MEMES:END -->
 
 ---
 

@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Revolut&#39;s 2023 revenue almost doubled to &amp;pound;1.8B, after interest income grew to &amp;pound;500M from &amp;pound;83M in 2022; auditor BDO gave its accounts a clean bill of health &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/240702/p3#a240702p3)
+ - [SSDI July Payment 2024: Here&#39;s When Your Check Is Coming](https://www.cnet.com/personal-finance/ssdi-july-payment-2024-heres-when-your-check-is-coming/#ftag=CAD590a51e)
  - [Sexist Myths Are a Danger to Health](https://www.wired.com/story/wired-health-angela-saini-gender-health-gap-sexism/)
  - [Best Fourth of July Mattress Deals](https://www.cnet.com/deals/best-4th-of-july-mattress-deals/#ftag=CAD590a51e)
- - [China plans to form a technical committee to develop standards for brain-computer interfaces, including a standard for brain information encoding and decoding &lpar;Foster Wong/Bloomberg&rpar;](http://www.techmeme.com/240702/p2#a240702p2)
- - [Australia&#39;s eSafety Commissioner has issued notices to internet firms asking for enforceable codes to protect kids from pornography and other content by Oct. 3 &lpar;Byron Kaye/Reuters&rpar;](http://www.techmeme.com/240702/p1#a240702p1)
- - [Missed the Student Loan Forgiveness Deadline? Here Are Your Options](https://www.cnet.com/personal-finance/student-loan-forgiveness-heres-what-to-do-if-you-missed-the-loan-consolidation-deadline/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [China plans to form a technical committee to develop standards for brain-computer interfaces, including a standard for brain information encoding and decoding &lpar;Foster Wong/Bloomberg&rpar;](http://www.techmeme.com/240702/p2#a240702p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

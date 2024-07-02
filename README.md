@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Interesting](http://9gag.com/gag/ayNd7nb)
- - 😝 [Imagine if the roles were reversed](http://9gag.com/gag/ajPA6Vw)
- - 💣 [Cancer Cell Hit By An Ion Beam.](http://9gag.com/gag/a7o7LOw)
- - 😝 [Best 7 seconds of her life](http://9gag.com/gag/aoy9jAX)
- - 👉 [The Chinese Tianlong-3 Rocket Accidentally Launched During A Engine Test](http://9gag.com/gag/aByYRgx)<!-- MEMES:END -->
+ - 😝 [Face-palm](http://9gag.com/gag/avyPLBq)
+ - 😝 [Tensions are rising in Spain after the murder of 39-y-old David Lledo, beaten to death with baseball bats by 3 Moroccans after stopping them from harassing girls. People gathered at the site, chanting slogans \u201cSpain is Christian, not Muslim\u201d](http://9gag.com/gag/a5Q7NBV)
+ - 💣 [Almost?](http://9gag.com/gag/aqy527Y)
+ - 😝 [Love happy endings!](http://9gag.com/gag/aAy1r7E)
+ - 👉 [How defeat a Jedi](http://9gag.com/gag/aoy90GA)<!-- MEMES:END -->
 
 ---
 

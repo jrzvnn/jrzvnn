@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How defeat a Jedi](http://9gag.com/gag/aoy90GA)
+ - 😝 [Nightmares are made of these](http://9gag.com/gag/aVvPO48)
  - 😝 [Hate this idiots](http://9gag.com/gag/amo99q9)
- - 💣 [Simple yet so effective](http://9gag.com/gag/a4PYYwm)
- - 😝 [From October of 2023 to April of 2024](http://9gag.com/gag/ae9G3eW)
+ - 💣 [The most passionate.... Wth!!!](http://9gag.com/gag/aZZMWM3)
+ - 😝 [Plain sight for 17 years](http://9gag.com/gag/ajPAndw)
  - 👉 [BYD demonstrated its advanced automated driving functionality.](http://9gag.com/gag/aW466jx)<!-- MEMES:END -->
 
 ---

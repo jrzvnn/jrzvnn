@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Hunt for the Most Efficient Heat Pump in the World](https://www.wired.com/story/heat-pump-maximum-efficiency/)
  - [VFX company DNEG raised $200M from Abu Dhabi&#39;s UASG at a $2B valuation, to expand its division Brahma, which is developing an AI-powered, photo-real CGI creator &lpar;Melanie Goodfellow/Deadline&rpar;](http://www.techmeme.com/240702/p6#a240702p6)
- - [Elgato&#39;s New Stream Deck Neo Sees Its First Discount With This Early Fourth of July Deal](https://www.cnet.com/deals/elgatos-new-stream-deck-neo-sees-its-first-discount-with-this-early-fourth-of-july-deal/#ftag=CAD590a51e)
- - [The Biden administration awards $504M in funding for 12 regional tech hubs, including in New York and Florida, to expand research in AI, chip making, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/240702/p5#a240702p5)
- - [Sleep Sweet With Up to 70% Off During Crane &amp; Canopy&#39;s Fourth of July Sale](https://www.cnet.com/deals/sleep-sweet-with-up-to-70-off-during-crane-canopys-fourth-of-july-sale/#ftag=CAD590a51e)
- - [Score Big Fourth of July Savings of Up to 35% Off at Casper: Mattresses, Pillows, Furniture and More](https://www.cnet.com/deals/score-big-fourth-of-july-savings-of-up-to-35-off-at-casper-mattresses-pillows-furniture-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Snag New Bedding During the My Sheets Rock Fourth of July Sale](https://www.cnet.com/deals/snag-new-bedding-during-the-my-sheets-rock-fourth-of-july-sale/#ftag=CAD590a51e)
+ - [Upgrade to Windows 11 Pro for Just $23 Thanks to This Fourth of July Deal](https://www.cnet.com/deals/upgrade-to-windows-11-pro-for-just-23-thanks-to-this-fourth-of-july-deal/#ftag=CAD590a51e)
+ - [If You Like Wordle, You Should Try These Puzzle and Word Games Next](https://www.cnet.com/culture/internet/if-you-like-wordle-you-should-try-these-puzzle-and-word-games-next/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

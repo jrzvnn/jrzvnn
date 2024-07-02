@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Sad reality](http://9gag.com/gag/adBjN4B)
+ - 😝 [Fat shamed](http://9gag.com/gag/aD2oAX9)
+ - 💣 [Nightmares are made of these](http://9gag.com/gag/aVvPO48)
  - 😝 [The most passionate.... Wth!!!](http://9gag.com/gag/aZZMWM3)
- - 😝 [Nightmares are made of these](http://9gag.com/gag/aVvPO48)
- - 💣 [A short and witty title does the trick.](http://9gag.com/gag/aRBAgG5)
- - 😝 [Proof that Arcanine is a legendary Pokemon](http://9gag.com/gag/a6Z7yoN)
- - 👉 [Plain sight for 17 years](http://9gag.com/gag/ajPAndw)<!-- MEMES:END -->
+ - 👉 [From October of 2023 to April of 2024](http://9gag.com/gag/ae9G3eW)<!-- MEMES:END -->
 
 ---
 

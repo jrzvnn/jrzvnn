@@ -163,8 +163,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Apple’s Phil Schiller is reportedly joining OpenAI’s board](https://www.theverge.com/2024/7/2/24191105/apple-phil-schiller-join-openai-board)
  - [The best Prime Day deals you can already get](https://www.theverge.com/24186583/amazon-prime-day-2024-best-tech-deals-sales)
  - [Apple to receive new board observer role at OpenAI as part of partnership](https://appleinsider.com/articles/24/07/02/apple-to-receive-new-board-observer-role-at-openai-as-part-of-partnership?utm_medium=rss)
- - [Hurricane Beryl Isn’t a Freak Storm—It’s the Exact Nightmare Meteorologists Predicted](https://www.wired.com/story/hurricane-beryl-category-5-storm-extreme-weather-summer-2024/)
- - [Meta shares its research on Meta 3D Gen, a system that creates high-quality 3D assets from text descriptions in less than a minute &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240702/p23#a240702p23)<!-- TECH:END -->
+ - [Meta shares its research on Meta 3D Gen, a system that creates high-quality 3D assets from text descriptions in less than a minute &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240702/p23#a240702p23)
+ - [Ex-Apple lawyer guilty of insider trading fined 10% of net worth](https://appleinsider.com/articles/24/07/02/ex-apple-lawyer-guilty-of-insider-trading-fined-10-of-net-worth?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

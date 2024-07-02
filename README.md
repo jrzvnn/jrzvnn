@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Watch Series 9 vs Samsung Galaxy Watch 7-- Specs, price, and features, compared](https://appleinsider.com/inside/apple-watch-series-9/vs/apple-watch-series-9-vs-samsung-galaxy-watch-7---specs-price-and-features-compared?utm_medium=rss)
  - [Apple&#39;s M3 Max 14-inch MacBook Pro with 64GB RAM is $250 off &amp; back in stock](https://appleinsider.com/articles/24/07/02/apples-m3-max-14-inch-macbook-pro-with-64gb-ram-is-250-off-back-in-stock?utm_medium=rss)
  - [Source: Google plans AI features for Pixel 9 under the brand Google AI, including Pixel Screenshots, which lets users search their screenshots with on-device AI &lpar;Kamila Wojciechowska/Android Authority&rpar;](http://www.techmeme.com/240702/p11#a240702p11)
  - [Biden administration proposes new heat protections for workers](https://www.theverge.com/2024/7/2/24190311/biden-extreme-heat-worker-labor-protections-proposed-rule)
- - [‘Maxxxine is very different from both of them’: Ti West on closing out his X horror trilogy](https://www.theverge.com/24190083/ti-west-interview-maxxxine-a24)
- - [Tesla delivered fewer vehicles to customers for the second quarter in a row](https://www.theverge.com/2024/7/2/24187320/tesla-q2-2024-production-deliveries-decline)<!-- TECH:END -->
+ - [‘Maxxxine is very different from both of them’: Ti West on closing out his X horror trilogy](https://www.theverge.com/24190083/ti-west-interview-maxxxine-a24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

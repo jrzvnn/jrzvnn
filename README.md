@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best iPad Accessories, From Cases and Keyboards to Chargers and Hubs &lpar;2024&rpar;](https://www.wired.com/gallery/best-ipad-accessories/)
- - [Future Apple Pencil could be modular with new features added by swappable sleeves](https://appleinsider.com/articles/24/02/22/future-apple-pencil-could-be-modular-with-new-features-added-by-swappable-sleeves?utm_medium=rss)
- - [A look at why Japan, due to its culture and employment laws, is not undergoing mass layoffs in the gaming industry as Microsoft owned Tango Gameworks closes &lpar;Alicia Haddick/GamesIndustry.biz&rpar;](http://www.techmeme.com/240702/p8#a240702p8)
- - [Microsoft Surface Laptop &lpar;7th Edition&rpar; Review: Reliable With Mid AI](https://www.wired.com/review/microsoft-surface-laptop-7th-edition-2024/)
- - [The Genius Behind @OKWildlifeDept&#39;s Most Viral Tweets Is Signing Off](https://www.wired.com/story/oklahoma-department-wildlife-conservation-social-media-legacy/)<!-- TECH:END -->
+ - [Apple’s Vision Pro: five months later](https://www.theverge.com/2024/7/2/24190641/apple-vision-pro-headset-future-cheaper)
+ - [Some YouTube employees detail internal deliberations about content relating to the Israel-Hamas war and accuse the company of inconsistent moderation &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/240702/p9#a240702p9)
+ - [Shop 50 of the Best Early July 4th Sales With Up to 70% Off](https://www.cnet.com/deals/best-4th-of-july-sales-2024-07-02/#ftag=CAD590a51e)
+ - [How to Use Midjourney to Make a Logo for Your Business -- or Not](https://www.cnet.com/tech/services-and-software/how-to-use-midjourney-to-make-a-logo-for-your-business-or-not/#ftag=CAD590a51e)
+ - [The Best iPad Accessories, From Cases and Keyboards to Chargers and Hubs &lpar;2024&rpar;](https://www.wired.com/gallery/best-ipad-accessories/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tubi launches in the UK with more than 20,000 movies and TV episodes, featuring content from distributors including Disney, Lionsgate, NBCU, and Sony Pictures &lpar;Georg Szalai/The Hollywood Reporter&rpar;](http://www.techmeme.com/240702/p4#a240702p4)
  - [Revolut&#39;s 2023 revenue almost doubled to &amp;pound;1.8B, after interest income grew to &amp;pound;500M from &amp;pound;83M in 2022; auditor BDO gave its accounts a clean bill of health &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/240702/p3#a240702p3)
- - [SSDI July Payment 2024: Here&#39;s When Your Check Is Coming](https://www.cnet.com/personal-finance/ssdi-july-payment-2024-heres-when-your-check-is-coming/#ftag=CAD590a51e)
- - [Sexist Myths Are a Danger to Health](https://www.wired.com/story/wired-health-angela-saini-gender-health-gap-sexism/)
- - [Best Fourth of July Mattress Deals](https://www.cnet.com/deals/best-4th-of-july-mattress-deals/#ftag=CAD590a51e)
- - [China plans to form a technical committee to develop standards for brain-computer interfaces, including a standard for brain information encoding and decoding &lpar;Foster Wong/Bloomberg&rpar;](http://www.techmeme.com/240702/p2#a240702p2)<!-- TECH:END -->
+ - [Do You Have to Enroll in Medicare When You Turn 65?](https://www.cnet.com/personal-finance/insurance/do-you-have-to-enroll-in-medicare-when-you-turn-65/#ftag=CAD590a51e)
+ - [My Favorite Smart Lamp Is 40% Off on Amazon for July Fourth, for Who Knows How Long](https://www.cnet.com/deals/my-favorite-smart-lamp-is-40-off-on-amazon-for-july-fourth-for-who-knows-how-long/#ftag=CAD590a51e)
+ - [SSDI July Payment 2024: Here&#39;s When Your Check Is Coming](https://www.cnet.com/personal-finance/ssdi-july-payment-2024-heres-when-your-check-is-coming/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

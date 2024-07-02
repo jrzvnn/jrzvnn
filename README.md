@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Northern Data is weighing a US IPO of its combined AI cloud computing and data center businesses at a valuation of up to $16B as early as in H1 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240701/p20#a240701p20)
+ - [A new Resident Evil is in the works](https://www.theverge.com/2024/7/1/24190381/capcom-resident-evil-9-dead-rising)
  - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
  - [My Doctor Misdiagnosed My Diabetes -- and I&#39;m Not Alone. What You Need to Know](https://www.cnet.com/health/medical/my-doctor-misdiagnosed-my-diabetes-and-im-not-alone-what-you-need-to-know/#ftag=CAD590a51e)
- - [Air Fryer Oven](https://www.cnet.com/home/kitchen-and-household/air-fryer-oven-dpnl/#ftag=CAD590a51e)
- - [Wise, Affirm, Mercury, and other companies say they&#39;re investigating how a recent ransomware attack by LockBit on Evolve Bank and Trust impacted their customers &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240701/p19#a240701p19)
- - [Best Water Guns for 2024](https://www.cnet.com/news/best-water-guns/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Air Fryer Oven](https://www.cnet.com/home/kitchen-and-household/air-fryer-oven-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

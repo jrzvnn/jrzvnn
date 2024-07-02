@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When Culture Tricks You](http://9gag.com/gag/aQz8nLr)
- - 😝 [Fat shamed](http://9gag.com/gag/aD2oAX9)
- - 💣 [Not so friends](http://9gag.com/gag/a9y7P3L)
- - 😝 [Hate this idiots](http://9gag.com/gag/amo99q9)
+ - 😝 [BYD demonstrated its advanced automated driving functionality.](http://9gag.com/gag/aW466jx)
+ - 😝 [Can&#39;t be saying that anymore](http://9gag.com/gag/aW460LZ)
+ - 💣 [When Culture Tricks You](http://9gag.com/gag/aQz8nLr)
+ - 😝 [Nightmares are made of these](http://9gag.com/gag/aVvPO48)
  - 👉 [Gear up people down](http://9gag.com/gag/aoy9Zyn)<!-- MEMES:END -->
 
 ---

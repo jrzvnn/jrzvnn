@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the national security fears around Microsoft&#39;s deal with Abu Dhabi&#39;s G42, including US DOD&#39;s skepticism that G42 will entirely uncouple from China &lpar;Bloomberg&rpar;](http://www.techmeme.com/240702/p7#a240702p7)
  - [The Hunt for the Most Efficient Heat Pump in the World](https://www.wired.com/story/heat-pump-maximum-efficiency/)
  - [VFX company DNEG raised $200M from Abu Dhabi&#39;s UASG at a $2B valuation, to expand its division Brahma, which is developing an AI-powered, photo-real CGI creator &lpar;Melanie Goodfellow/Deadline&rpar;](http://www.techmeme.com/240702/p6#a240702p6)
  - [Snag New Bedding During the My Sheets Rock Fourth of July Sale](https://www.cnet.com/deals/snag-new-bedding-during-the-my-sheets-rock-fourth-of-july-sale/#ftag=CAD590a51e)
- - [Upgrade to Windows 11 Pro for Just $23 Thanks to This Fourth of July Deal](https://www.cnet.com/deals/upgrade-to-windows-11-pro-for-just-23-thanks-to-this-fourth-of-july-deal/#ftag=CAD590a51e)
- - [If You Like Wordle, You Should Try These Puzzle and Word Games Next](https://www.cnet.com/culture/internet/if-you-like-wordle-you-should-try-these-puzzle-and-word-games-next/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Upgrade to Windows 11 Pro for Just $23 Thanks to This Fourth of July Deal](https://www.cnet.com/deals/upgrade-to-windows-11-pro-for-just-23-thanks-to-this-fourth-of-july-deal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

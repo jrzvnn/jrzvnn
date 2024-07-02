@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [‘Maxxxine is very different from both of them’: Ti West on closing out his X horror trilogy](https://www.theverge.com/24190083/ti-west-interview-maxxxine-a24)
  - [Tesla delivered fewer vehicles to customers for the second quarter in a row](https://www.theverge.com/2024/7/2/24187320/tesla-q2-2024-production-deliveries-decline)
  - [Netflix is starting to phase out its cheapest ad-free plan](https://www.theverge.com/2024/7/2/24190632/netflix-ad-free-basic-plan-discontinued)
  - [Sentient, an open-source AI development platform being built on Polygon, raised a $85M seed led by Founders Fund, Pantera Capital, and Framework Ventures &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/240702/p10#a240702p10)
- - [Apple’s Vision Pro: five months later](https://www.theverge.com/2024/7/2/24190641/apple-vision-pro-headset-future-cheaper)
- - [Some YouTube employees detail internal deliberations about content relating to the Israel-Hamas war and accuse the company of inconsistent moderation &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/240702/p9#a240702p9)<!-- TECH:END -->
+ - [The Best Substack Alternatives](https://www.wired.com/story/best-substack-alternatives/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

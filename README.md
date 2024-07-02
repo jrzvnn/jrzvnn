@@ -161,10 +161,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [An overview of &quot;looksmaxxing&quot; apps that rate teen boys&#39; faces, boast millions of downloads, and, critics say, are exacerbating the youth mental health crisis &lpar;Alexandra Sternlicht/Fortune&rpar;](http://www.techmeme.com/240701/p21#a240701p21)
+ - [Best Printer for 2024](https://www.cnet.com/tech/computing/best-printer/#ftag=CAD590a51e)
  - [Best Fourth of July Laptop Deals: Save on MacBooks, Windows PCs, Chromebooks and More](https://www.cnet.com/deals/best-fourth-of-july-laptop-deals-2024-07-01/#ftag=CAD590a51e)
  - [Best Fourth of July Grill Sales: Grill and Smoker Deals, With Smoking Hot Savings Up to $450 Off](https://www.cnet.com/deals/best-4th-july-grill-sales/#ftag=CAD590a51e)
- - [The 27 Best Deals of Home Depot&#39;s Fourth of July Sale: Save on Appliances, Grills and Outdoor Items](https://www.cnet.com/deals/home-depot-fourth-of-july-sale-2024-07-01/#ftag=CAD590a51e)
- - [Get 30% Off Speck Cases With CNET&#39;s Exclusive Discount This Fourth of July](https://www.cnet.com/deals/get-30-off-speck-cases-with-cnets-exclusive-discount-this-fourth-of-july/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 27 Best Deals of Home Depot&#39;s Fourth of July Sale: Save on Appliances, Grills and Outdoor Items](https://www.cnet.com/deals/home-depot-fourth-of-july-sale-2024-07-01/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

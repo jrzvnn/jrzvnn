@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I love that a website that\u2019s So homophobic and So racist has collectively decided that these two are amongst their favorite people](http://9gag.com/gag/aryKpDV)
- - 😝 [Modern problem required modern solutions](http://9gag.com/gag/avyPpbM)
- - 💣 [From October of 2023 to April of 2024](http://9gag.com/gag/ae9G3eW)
- - 😝 [Cheers!](http://9gag.com/gag/azxjbpx)
- - 👉 [Tensions are rising in Spain after the murder of 39-y-old David Lledo, beaten to death with baseball bats by 3 Moroccans after stopping them from harassing girls. People gathered at the site, chanting slogans \u201cSpain is Christian, not Muslim\u201d](http://9gag.com/gag/a5Q7NBV)<!-- MEMES:END -->
+ - 😝 [From October of 2023 to April of 2024](http://9gag.com/gag/ae9G3eW)
+ - 😝 [Drunk guy kicks in hotel front door before getting dropped by a cop](http://9gag.com/gag/a6Z7rPR)
+ - 💣 [Ex-wife picks up the kids from the father\u2019s house](http://9gag.com/gag/ae9GKy5)
+ - 😝 [Fat shamed](http://9gag.com/gag/aD2oAX9)
+ - 👉 [This guy was like ` how is being arrested real? Just walk away lol`](http://9gag.com/gag/a87MbbQ)<!-- MEMES:END -->
 
 ---
 

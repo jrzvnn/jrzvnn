@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nightmares are made of these](http://9gag.com/gag/aVvPO48)
- - 😝 [Hate this idiots](http://9gag.com/gag/amo99q9)
- - 💣 [The most passionate.... Wth!!!](http://9gag.com/gag/aZZMWM3)
+ - 😝 [Not so friends](http://9gag.com/gag/a9y7P3L)
  - 😝 [Plain sight for 17 years](http://9gag.com/gag/ajPAndw)
+ - 💣 [Cheers!](http://9gag.com/gag/azxjbpx)
+ - 😝 [Hate this idiots](http://9gag.com/gag/amo99q9)
  - 👉 [BYD demonstrated its advanced automated driving functionality.](http://9gag.com/gag/aW466jx)<!-- MEMES:END -->
 
 ---

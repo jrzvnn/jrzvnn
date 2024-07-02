@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [BYD demonstrated its advanced automated driving functionality.](http://9gag.com/gag/aW466jx)
- - 😝 [Can&#39;t be saying that anymore](http://9gag.com/gag/aW460LZ)
- - 💣 [When Culture Tricks You](http://9gag.com/gag/aQz8nLr)
- - 😝 [Nightmares are made of these](http://9gag.com/gag/aVvPO48)
- - 👉 [Gear up people down](http://9gag.com/gag/aoy9Zyn)<!-- MEMES:END -->
+ - 😝 [The most passionate.... Wth!!!](http://9gag.com/gag/aZZMWM3)
+ - 😝 [When Culture Tricks You](http://9gag.com/gag/aQz8nLr)
+ - 💣 [North Koreans see K-pop for the first time, fully aware they\u2019re being watched, unsure how to react](http://9gag.com/gag/aD2o3oG)
+ - 😝 [Hate this idiots](http://9gag.com/gag/amo99q9)
+ - 👉 [Plain sight for 17 years](http://9gag.com/gag/ajPAndw)<!-- MEMES:END -->
 
 ---
 

@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s Phil Schiller is reportedly joining OpenAI’s board](https://www.theverge.com/2024/7/2/24191105/apple-phil-schiller-join-openai-board)
- - [The best Prime Day deals you can already get](https://www.theverge.com/24186583/amazon-prime-day-2024-best-tech-deals-sales)
- - [Apple to receive new board observer role at OpenAI as part of partnership](https://appleinsider.com/articles/24/07/02/apple-to-receive-new-board-observer-role-at-openai-as-part-of-partnership?utm_medium=rss)
- - [Meta shares its research on Meta 3D Gen, a system that creates high-quality 3D assets from text descriptions in less than a minute &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240702/p23#a240702p23)
- - [Ex-Apple lawyer guilty of insider trading fined 10% of net worth](https://appleinsider.com/articles/24/07/02/ex-apple-lawyer-guilty-of-insider-trading-fined-10-of-net-worth?utm_medium=rss)<!-- TECH:END -->
+ - [Snapchat adds new features, including letting Snapchat+ subscribers design a personalized house on Snap Map and send Snaps that last less than .5 seconds &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240702/p24#a240702p24)
+ - [Best July 4th TV Sales: Save Big on Sony, LG, Samsung, Toshiba and More Right Now](https://www.cnet.com/deals/best-july-4th-tv-sales-2024-07-02/#ftag=CAD590a51e)
+ - [The 40 Best Deals of Home Depot&#39;s July 4th Sale: Save on Appliances, Grills, Tools and Outdoor Equipment](https://www.cnet.com/deals/home-depot-july-4th-sale-2024-07-02/#ftag=CAD590a51e)
+ - [Traveling With Kids? Here&#39;s How to Get Airport Lounge Access for the Whole Family](https://www.cnet.com/personal-finance/credit-cards/traveling-with-kids-heres-how-to-get-airport-lounge-access-for-the-whole-family/#ftag=CAD590a51e)
+ - [Take Google Back to 1998: How to Get 10 Blue Links in Google Search Results](https://www.cnet.com/tech/services-and-software/take-google-back-to-1998-how-to-get-10-blue-links-in-google-search-results/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ex-Apple lawyer guilty of insider trading fined 10% of net worth](https://appleinsider.com/articles/24/07/02/ex-apple-lawyer-guilty-of-insider-trading-fined-10-of-net-worth?utm_medium=rss)
  - [You can pay to put a virtual house on Snapchat’s map](https://www.theverge.com/2024/7/2/24190995/snapchat-snap-map-app-update)
+ - [Save $300 on a OnePlus Open Foldable Phone Phone With This July 4th Deal](https://www.cnet.com/deals/save-300-on-a-oneplus-open-foldable-phone-phone-with-this-july-4th-deal/#ftag=CAD590a51e)
  - [Mastodon rolls out built-in bylines for journalists in the fediverse](https://www.theverge.com/2024/7/2/24191049/mastodon-built-in-bylines-journalists-fediverse)
- - [Former Apple hardware engineer joins Rivian](https://appleinsider.com/articles/24/07/02/former-apple-hardware-engineer-joins-rivian?utm_medium=rss)
- - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [Sources: Apple will get an observer role on OpenAI&#39;s board, with Phil Schiller chosen for the position, as part of their partnership announced last month &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240702/p22#a240702p22)<!-- TECH:END -->
+ - [Best 3D Printers for 2024](https://www.cnet.com/tech/computing/best-3d-printer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

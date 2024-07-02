@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Pixel 9’s ‘Google AI’ is like Microsoft Recall but a little less creepy](https://www.theverge.com/2024/7/2/24190730/google-ai-pixel-phones-recall-like-feature)
  - [Apple turns to Samsung for new iPhone 16 camera sensors](https://appleinsider.com/articles/24/07/02/apple-turns-to-samsung-for-new-iphone-16-camera-sensors?utm_medium=rss)
  - [Google says its greenhouse gas emissions have surged 48% in the past five years due to the expansion of the data centers that underpin its AI efforts &lpar;Financial Times&rpar;](http://www.techmeme.com/240702/p15#a240702p15)
  - [How to create PDFs on Android devices using Google Drive](https://www.theverge.com/24190747/pdf-google-drive-slack-how-to)
- - [For ~10 years, millions of macOS and iOS apps using CocoaPods were vulnerable to a serious flaw in the dependency manager, which was patched in October 2023 &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240702/p14#a240702p14)
- - [Polestar Is Bracing for the EV Tariff Wars. It May Not Emerge Unscathed](https://www.wired.com/story/polestar-is-bracing-for-the-ev-tariff-wars-it-may-not-emerge-unscathed/)<!-- TECH:END -->
+ - [For ~10 years, millions of macOS and iOS apps using CocoaPods were vulnerable to a serious flaw in the dependency manager, which was patched in October 2023 &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240702/p14#a240702p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

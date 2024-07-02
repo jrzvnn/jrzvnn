@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A teacher using AI images of her students to help motivate them](http://9gag.com/gag/a34BL48)
- - 😝 [Sad reality](http://9gag.com/gag/adBjN4B)
- - 💣 [The Chinese Tianlong-3 Rocket Accidentally Launched During A Engine Test](http://9gag.com/gag/aByYRgx)
+ - 😝 [Fat shamed](http://9gag.com/gag/aD2oAX9)
+ - 😝 [Drunk guy kicks in hotel front door before getting dropped by a cop](http://9gag.com/gag/a6Z7rPR)
+ - 💣 [Interesting](http://9gag.com/gag/ayNd7nb)
  - 😝 [Can&#39;t be saying that anymore](http://9gag.com/gag/aW460LZ)
- - 👉 [Fat shamed](http://9gag.com/gag/aD2oAX9)<!-- MEMES:END -->
+ - 👉 [Nightmares are made of these](http://9gag.com/gag/aVvPO48)<!-- MEMES:END -->
 
 ---
 

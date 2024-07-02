@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [When Culture Tricks You](http://9gag.com/gag/aQz8nLr)
+ - 😝 [Fat shamed](http://9gag.com/gag/aD2oAX9)
+ - 💣 [Not so friends](http://9gag.com/gag/a9y7P3L)
  - 😝 [Hate this idiots](http://9gag.com/gag/amo99q9)
- - 😝 [From October of 2023 to April of 2024](http://9gag.com/gag/ae9G3eW)
- - 💣 [Super Heroes and zeroes](http://9gag.com/gag/aKGqBbQ)
- - 😝 [These mods are getting out of hand!](http://9gag.com/gag/azxjVZp)
- - 👉 [Not so friends](http://9gag.com/gag/a9y7P3L)<!-- MEMES:END -->
+ - 👉 [Gear up people down](http://9gag.com/gag/aoy9Zyn)<!-- MEMES:END -->
 
 ---
 

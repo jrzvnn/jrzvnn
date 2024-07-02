@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Genius Behind @OKWildlifeDept&#39;s Most Viral Tweets Is Signing Off](https://www.wired.com/story/oklahoma-department-wildlife-conservation-social-media-legacy/)
  - [A look at the national security fears around Microsoft&#39;s deal with Abu Dhabi&#39;s G42, including US DOD&#39;s skepticism that G42 will entirely uncouple from China &lpar;Bloomberg&rpar;](http://www.techmeme.com/240702/p7#a240702p7)
+ - [The Tech Crash Course That Trains US Diplomats to Spot Threats](https://www.wired.com/story/us-state-department-diplomacy-school/)
  - [The Hunt for the Most Efficient Heat Pump in the World](https://www.wired.com/story/heat-pump-maximum-efficiency/)
- - [VFX company DNEG raised $200M from Abu Dhabi&#39;s UASG at a $2B valuation, to expand its division Brahma, which is developing an AI-powered, photo-real CGI creator &lpar;Melanie Goodfellow/Deadline&rpar;](http://www.techmeme.com/240702/p6#a240702p6)
- - [Snag New Bedding During the My Sheets Rock Fourth of July Sale](https://www.cnet.com/deals/snag-new-bedding-during-the-my-sheets-rock-fourth-of-july-sale/#ftag=CAD590a51e)
- - [Upgrade to Windows 11 Pro for Just $23 Thanks to This Fourth of July Deal](https://www.cnet.com/deals/upgrade-to-windows-11-pro-for-just-23-thanks-to-this-fourth-of-july-deal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [VFX company DNEG raised $200M from Abu Dhabi&#39;s UASG at a $2B valuation, to expand its division Brahma, which is developing an AI-powered, photo-real CGI creator &lpar;Melanie Goodfellow/Deadline&rpar;](http://www.techmeme.com/240702/p6#a240702p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

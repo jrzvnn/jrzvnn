@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Figma pulls AI tool after criticism that it ripped off Apple’s design](https://www.theverge.com/2024/7/2/24190823/figma-ai-tool-apple-weather-app-copy)
  - [A US judge temporarily blocked a new Mississippi law that would require age verification for all and parental consent for teens to join some social networks &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240702/p20#a240702p20)
  - [Netflix’s latest game is a mobile take on Minesweeper](https://www.theverge.com/2024/7/2/24190961/netflix-games-minesweeper-subscribers-launch-trailer)
- - [Xbox Live is down](https://www.theverge.com/2024/7/2/24191012/xbox-live-down-outage-xbox-series-x-s-online-sign-failed)
- - [Google’s carbon footprint balloons in its Gemini AI era](https://www.theverge.com/2024/7/2/24190874/google-ai-climate-change-carbon-emissions-rise)
- - [Meta says it will lift its ban on the word &quot;shaheed&quot;, or &quot;martyr&quot; in English, after its oversight board&#39;s year-long review found the approach to be &quot;overbroad&quot; &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/240702/p19#a240702p19)<!-- TECH:END -->
+ - [Coleman Chest Cooler](https://www.cnet.com/news/coleman-chest-cooler-dpnl/#ftag=CAD590a51e)
+ - [Propane Gas Grill](https://www.cnet.com/news/propane-gas-grill-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

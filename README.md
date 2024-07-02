@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fat shamed](http://9gag.com/gag/aD2oAX9)
- - 😝 [Drunk guy kicks in hotel front door before getting dropped by a cop](http://9gag.com/gag/a6Z7rPR)
- - 💣 [Interesting](http://9gag.com/gag/ayNd7nb)
- - 😝 [Can&#39;t be saying that anymore](http://9gag.com/gag/aW460LZ)
- - 👉 [Nightmares are made of these](http://9gag.com/gag/aVvPO48)<!-- MEMES:END -->
+ - 😝 [Witness the evolution of an artist from the age of 3 to age 17.](http://9gag.com/gag/aE07w5N)
+ - 😝 [Even the show mocked her...](http://9gag.com/gag/aMVG1ZW)
+ - 💣 [Fat shamed](http://9gag.com/gag/aD2oAX9)
+ - 😝 [The most passionate.... Wth!!!](http://9gag.com/gag/aZZMWM3)
+ - 👉 [Can&#39;t be saying that anymore](http://9gag.com/gag/aW460LZ)<!-- MEMES:END -->
 
 ---
 

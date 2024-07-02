@@ -164,7 +164,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
  - [Sources: Apple will get an observer role on OpenAI&#39;s board, with Phil Schiller chosen for the position, as part of their partnership announced last month &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240702/p22#a240702p22)
  - [Responding to criticism, Figma&#39;s CTO says the Make Design feature is &quot;powered by off-the-shelf models and a bespoke design system that we commissioned&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240702/p21#a240702p21)
- - [Hints for Winning at NYT Strands, the Latest Must-Play Daily Online Game](https://www.cnet.com/tech/services-and-software/how-to-win-nyt-strands-the-latest-must-play-daily-online-game/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Figma pulls AI tool after criticism that it ripped off Apple’s design](https://www.theverge.com/2024/7/2/24190823/figma-ai-tool-apple-weather-app-copy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sentient, an open-source AI development platform being built on Polygon, raised a $85M seed led by Founders Fund, Pantera Capital, and Framework Ventures &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/240702/p10#a240702p10)
  - [Apple’s Vision Pro: five months later](https://www.theverge.com/2024/7/2/24190641/apple-vision-pro-headset-future-cheaper)
  - [Some YouTube employees detail internal deliberations about content relating to the Israel-Hamas war and accuse the company of inconsistent moderation &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/240702/p9#a240702p9)
  - [Shop 50 of the Best Early July 4th Sales With Up to 70% Off](https://www.cnet.com/deals/best-4th-of-july-sales-2024-07-02/#ftag=CAD590a51e)
- - [How to Use Midjourney to Make a Logo for Your Business -- or Not](https://www.cnet.com/tech/services-and-software/how-to-use-midjourney-to-make-a-logo-for-your-business-or-not/#ftag=CAD590a51e)
- - [The Best iPad Accessories, From Cases and Keyboards to Chargers and Hubs &lpar;2024&rpar;](https://www.wired.com/gallery/best-ipad-accessories/)<!-- TECH:END -->
+ - [How to Use Midjourney to Make a Logo for Your Business -- or Not](https://www.cnet.com/tech/services-and-software/how-to-use-midjourney-to-make-a-logo-for-your-business-or-not/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

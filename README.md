@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Even the show mocked her...](http://9gag.com/gag/aMVG1ZW)
- - 😝 [This guy was like ` how is being arrested real? Just walk away lol`](http://9gag.com/gag/a87MbbQ)
- - 💣 [Hate this idiots](http://9gag.com/gag/amo99q9)
- - 😝 [Gear up people down](http://9gag.com/gag/aoy9Zyn)
- - 👉 [Plain sight for 17 years](http://9gag.com/gag/ajPAndw)<!-- MEMES:END -->
+ - 😝 [BYD demonstrated its advanced automated driving functionality.](http://9gag.com/gag/aW466jx)
+ - 😝 [The problem with Islamic Paradise is that it is full of Islamic People.](http://9gag.com/gag/a4PYYdm)
+ - 💣 [Face-palm](http://9gag.com/gag/avyPLBq)
+ - 😝 [So brave](http://9gag.com/gag/aPADDgg)
+ - 👉 [Reverse videos have always been underrated](http://9gag.com/gag/adBjYrN)<!-- MEMES:END -->
 
 ---
 

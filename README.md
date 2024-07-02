@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SSDI July Payment 2024: Here&#39;s When Your Check Is Coming](https://www.cnet.com/personal-finance/ssdi-july-payment-2024-heres-when-your-check-is-coming/#ftag=CAD590a51e)
+ - [Best Fourth of July Mattress Deals](https://www.cnet.com/deals/best-4th-of-july-mattress-deals/#ftag=CAD590a51e)
  - [China plans to form a technical committee to develop standards for brain-computer interfaces, including a standard for brain information encoding and decoding &lpar;Foster Wong/Bloomberg&rpar;](http://www.techmeme.com/240702/p2#a240702p2)
  - [Australia&#39;s eSafety Commissioner has issued notices to internet firms asking for enforceable codes to protect kids from pornography and other content by Oct. 3 &lpar;Byron Kaye/Reuters&rpar;](http://www.techmeme.com/240702/p1#a240702p1)
- - [Missed the Student Loan Forgiveness Deadline? Here Are Your Options](https://www.cnet.com/personal-finance/student-loan-forgiveness-heres-what-to-do-if-you-missed-the-loan-consolidation-deadline/#ftag=CAD590a51e)
- - [How to plan hikes &amp; other outdoor adventures in Apple Maps with iOS 18](https://appleinsider.com/inside/ios-18/tips/how-to-plan-hikes-other-outdoor-adventures-in-apple-maps-with-ios-18?utm_medium=rss)
- - [Today&#39;s Wordle Hints, Answer and Help for July 2, #1109](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-2-1109/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Missed the Student Loan Forgiveness Deadline? Here Are Your Options](https://www.cnet.com/personal-finance/student-loan-forgiveness-heres-what-to-do-if-you-missed-the-loan-consolidation-deadline/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

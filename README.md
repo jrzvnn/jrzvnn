@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nightmares are made of these](http://9gag.com/gag/aVvPO48)
+ - 😝 [The way this brick wall goes through the floor](http://9gag.com/gag/a4PYYW6)
  - 😝 [Reverse videos have always been underrated](http://9gag.com/gag/adBjYrN)
- - 💣 [From October of 2023 to April of 2024](http://9gag.com/gag/ae9G3eW)
- - 😝 [Hate this idiots](http://9gag.com/gag/amo99q9)
- - 👉 [Gear up people down](http://9gag.com/gag/aoy9Zyn)<!-- MEMES:END -->
+ - 💣 [So brave](http://9gag.com/gag/aPADDgg)
+ - 😝 [Equality](http://9gag.com/gag/apRvLNb)
+ - 👉 [...since \u00b494 by F.Gump](http://9gag.com/gag/aPADD2Q)<!-- MEMES:END -->
 
 ---
 

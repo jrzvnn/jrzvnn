@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The most passionate.... Wth!!!](http://9gag.com/gag/aZZMWM3)
- - 😝 [Gear up people down](http://9gag.com/gag/aoy9Zyn)
- - 💣 [From October of 2023 to April of 2024](http://9gag.com/gag/ae9G3eW)
- - 😝 [Using the UNO reverse card against this kind of people](http://9gag.com/gag/a6Z77Nb)
- - 👉 [Plain sight for 17 years](http://9gag.com/gag/ajPAndw)<!-- MEMES:END -->
+ - 😝 [Thoughts?](http://9gag.com/gag/aZZMW4Q)
+ - 😝 [When the Adderall wears off and you realize that you are tired from life.](http://9gag.com/gag/ae9G3xj)
+ - 💣 [Using the UNO reverse card against this kind of people](http://9gag.com/gag/a6Z77Nb)
+ - 😝 [Sad reality](http://9gag.com/gag/adBjN4B)
+ - 👉 [Reverse videos have always been underrated](http://9gag.com/gag/adBjYrN)<!-- MEMES:END -->
 
 ---
 

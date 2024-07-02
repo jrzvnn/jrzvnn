@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Northern Data is weighing a US IPO of its combined AI cloud computing and data center businesses at a valuation of up to $16B as early as in H1 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240701/p20#a240701p20)
- - [A new Resident Evil is in the works](https://www.theverge.com/2024/7/1/24190381/capcom-resident-evil-9-dead-rising)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [My Doctor Misdiagnosed My Diabetes -- and I&#39;m Not Alone. What You Need to Know](https://www.cnet.com/health/medical/my-doctor-misdiagnosed-my-diabetes-and-im-not-alone-what-you-need-to-know/#ftag=CAD590a51e)
- - [Air Fryer Oven](https://www.cnet.com/home/kitchen-and-household/air-fryer-oven-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Fourth of July Laptop Deals: Save on MacBooks, Windows PCs, Chromebooks and More](https://www.cnet.com/deals/best-fourth-of-july-laptop-deals-2024-07-01/#ftag=CAD590a51e)
+ - [Best Fourth of July Grill Sales: Grill and Smoker Deals, With Smoking Hot Savings Up to $450 Off](https://www.cnet.com/deals/best-4th-july-grill-sales/#ftag=CAD590a51e)
+ - [The 27 Best Deals of Home Depot&#39;s Fourth of July Sale: Save on Appliances, Grills and Outdoor Items](https://www.cnet.com/deals/home-depot-fourth-of-july-sale-2024-07-01/#ftag=CAD590a51e)
+ - [Get 30% Off Speck Cases With CNET&#39;s Exclusive Discount This Fourth of July](https://www.cnet.com/deals/get-30-off-speck-cases-with-cnets-exclusive-discount-this-fourth-of-july/#ftag=CAD590a51e)
+ - [Sources: Northern Data is weighing a US IPO of its combined AI cloud computing and data center businesses at a valuation of up to $16B as early as in H1 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240701/p20#a240701p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Super Heroes and zeroes](http://9gag.com/gag/aKGqBbQ)
- - 😝 [Which i assume you know](http://9gag.com/gag/a5Q7K7r)
- - 💣 [Even the show mocked her...](http://9gag.com/gag/aMVG1ZW)
  - 😝 [Hate this idiots](http://9gag.com/gag/amo99q9)
- - 👉 [This guy was like ` how is being arrested real? Just walk away lol`](http://9gag.com/gag/a87MbbQ)<!-- MEMES:END -->
+ - 😝 [From October of 2023 to April of 2024](http://9gag.com/gag/ae9G3eW)
+ - 💣 [Super Heroes and zeroes](http://9gag.com/gag/aKGqBbQ)
+ - 😝 [These mods are getting out of hand!](http://9gag.com/gag/azxjVZp)
+ - 👉 [Not so friends](http://9gag.com/gag/a9y7P3L)<!-- MEMES:END -->
 
 ---
 

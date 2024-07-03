@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wakey, wakey hands of snakey!](http://9gag.com/gag/a4PYL4Q)
- - 😝 [There are people watching in the stands....did they buy tickets? Happy ending is in order.](http://9gag.com/gag/awyxVqx)
- - 💣 [It&#39;s all in the detail](http://9gag.com/gag/aAy1PVL)
- - 😝 [Just move on.](http://9gag.com/gag/a5Q7rDG)
- - 👉 [How defeat a Jedi](http://9gag.com/gag/aoy90GA)<!-- MEMES:END -->
+ - 😝 [Minority!](http://9gag.com/gag/a0epYGn)
+ - 😝 [What&#39;s the problem?](http://9gag.com/gag/aByYwWz)
+ - 💣 [I can confirm, it is](http://9gag.com/gag/aryKOzd)
+ - 😝 [One more thing!!](http://9gag.com/gag/aqy5rQM)
+ - 👉 [Simple yet so effective](http://9gag.com/gag/a4PYYwm)<!-- MEMES:END -->
 
 ---
 

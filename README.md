@@ -159,7 +159,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mark Zuckerburg says Threads has 175M+ MAUs, up from 150M in April, ahead of its one-year anniversary on July 5; source: Meta may turn on ads in Threads in 2025 &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240703/p16#a240703p16)
+ - [Mark Zuckerberg says Threads has 175M+ MAUs, up from 150M in April, ahead of its one-year anniversary on July 5; source: Meta may turn on ads in Threads in 2025 &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240703/p16#a240703p16)
  - [Threads hits 175 million users after a year](https://www.theverge.com/2024/7/3/24191074/meta-threads-users-mark-zuckerberg)
  - [Perplexity’s ‘Pro Search’ AI upgrade makes it better at math and research](https://www.theverge.com/2024/7/3/24191431/perplexity-upgraded-pro-search-ai-research-assistant)
  - [The Best Electric Kick Scooters &lpar;2024&rpar;](https://www.wired.com/gallery/best-electric-scooters/)

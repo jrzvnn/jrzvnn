@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hikers encounter mountain lion](http://9gag.com/gag/ajPAAVR)
- - 😝 [Reverse videos have always been underrated](http://9gag.com/gag/adBjYrN)
- - 💣 [Gear up people down](http://9gag.com/gag/aoy9Zyn)
- - 😝 [Hate this idiots](http://9gag.com/gag/amo99q9)
- - 👉 [BYD demonstrated its advanced automated driving functionality.](http://9gag.com/gag/aW466jx)<!-- MEMES:END -->
+ - 😝 [So brave](http://9gag.com/gag/aPADDgg)
+ - 😝 [...since \u00b494 by F.Gump](http://9gag.com/gag/aPADD2Q)
+ - 💣 [Reverse videos have always been underrated](http://9gag.com/gag/adBjYrN)
+ - 😝 [Using the UNO reverse card against this kind of people](http://9gag.com/gag/a6Z77Nb)
+ - 👉 [Equality](http://9gag.com/gag/apRvLNb)<!-- MEMES:END -->
 
 ---
 

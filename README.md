@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon is bricking its Astro business robots less than a year after launch](https://www.theverge.com/2024/7/3/24190410/amazon-astro-business-robot-discontinued-refunds)
  - [Vision Hack hackathon wants to help expand the Apple Vision Pro&#39;s tiny app library](https://appleinsider.com/articles/24/07/03/vision-hack-hackathon-wants-to-help-expand-the-apple-vision-pros-tiny-app-library?utm_medium=rss)
  - [Google will now generate disclosures for political ads that use AI](https://www.theverge.com/2024/7/3/24191669/google-generate-disclosures-political-ads-ai)
- - [Twilio says threat actors identified the phone numbers of users of its 2FA app Authy; last week, hackers claimed to have stolen 33M phone numbers from Twilio &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240703/p21#a240703p21)
- - [You can save $200 on a refurbished second-gen Sonos Beam](https://www.theverge.com/2024/7/3/24191483/sonos-beam-ray-soundbar-refurbished-ipad-air-deal-sale)
- - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)<!-- TECH:END -->
+ - [5K Video Camera](https://www.cnet.com/tech/computing/5k-video-camera-dpnl/#ftag=CAD590a51e)
+ - [Don&#39;t Chicken Out With Today&#39;s Wordle Hint for July 3, #1110](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-3-1110/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

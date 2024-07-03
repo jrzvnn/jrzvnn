@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Verge’s guide to Amazon Prime Day 2024](https://www.theverge.com/24191617/amazon-prime-day-tech-deals-guide-2024)
  - [The best Prime Day deals you can already get](https://www.theverge.com/24186583/amazon-prime-day-2024-best-tech-deals-sales)
  - [Best Internet Providers in Clarksburg, West Virginia](https://www.cnet.com/home/internet/best-internet-providers-in-clarksburg-wv/#ftag=CAD590a51e)
  - [Fire Up the Grill and Save at Blackstone&#39;s Big 4th of July Sale](https://www.cnet.com/deals/fire-up-the-grill-and-save-at-blackstones-big-4th-of-july-sale/#ftag=CAD590a51e)
- - [This July 4th Weekend Save $100 on Our Top Robot Vacuum of the Year](https://www.cnet.com/deals/this-july-4th-weekend-save-100-on-our-top-robot-vacuum-of-the-year/#ftag=CAD590a51e)
- - [Save 25% in Murad&#39;s July 4th Sale With Several of CNET&#39;s Best Picks for Eye Creams and Sunscreens](https://www.cnet.com/deals/save-25-in-murads-july-4th-sale-with-several-of-cnets-best-picks-for-eye-creams-and-sunscreens/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This July 4th Weekend Save $100 on Our Top Robot Vacuum of the Year](https://www.cnet.com/deals/this-july-4th-weekend-save-100-on-our-top-robot-vacuum-of-the-year/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

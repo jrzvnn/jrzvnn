@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [From the iPhone 16 to the Galaxy Z Fold 6: Top Phones We Expect in 2024](https://www.cnet.com/tech/mobile/from-the-iphone-16-to-the-galaxy-z-fold-6-top-phones-we-expect-in-2024/#ftag=CAD590a51e)
+ - [Flash deal: save $460 on a Babbel lifetime subscription](https://appleinsider.com/articles/24/07/03/flash-deal-save-460-on-a-babbel-lifetime-subscription?utm_medium=rss)
  - [An investigation of US police and court documents finds 30 complaints citing 200+ explicit videos and images of minors on OnlyFans since December 2019 &lpar;Reuters&rpar;](http://www.techmeme.com/240702/p31#a240702p31)
- - [What Samsung&#39;s Galaxy Z Flip 6 Needs to Beat the Z Flip 5](https://www.cnet.com/tech/mobile/samsung-galaxy-z-flip-6-5-ways-it-can-beat-the-z-flip-5/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for July 3, #1110](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-3-1110/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for July 3, #388](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-3-388/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to stop iCloud junk mail notifications from cluttering iOS 17](https://appleinsider.com/inside/icloud/tips/how-to-stop-icloud-junk-mail-notifications-from-cluttering-ios-17?utm_medium=rss)
+ - [How an underground network of Chinese sellers is bypassing US export controls through supply-chain blind spots to smuggle Nvidia&#39;s advanced AI chips into China &lpar;Raffaele Huang/Wall Street Journal&rpar;](http://www.techmeme.com/240702/p30#a240702p30)
+ - [Bruce Bastian, who co-created the popular word processing software WordPerfect and was an LGBTQ activist, died on June 16 at age 76 &lpar;Chris Kornelis/Wall Street Journal&rpar;](http://www.techmeme.com/240702/p29#a240702p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

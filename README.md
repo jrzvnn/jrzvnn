@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Reminder everyday to be thankful you weren&#39;t born like this](http://9gag.com/gag/ae9G6gb)
- - 😝 [I can confirm, it is](http://9gag.com/gag/aryKOzd)
- - 💣 [Dad catches his teen daughter with her boyfriend. Was he being too much?](http://9gag.com/gag/ajPAnOG)
- - 😝 [It&#39;s all in the detail](http://9gag.com/gag/aAy1PVL)
- - 👉 [There are people watching in the stands....did they buy tickets? Happy ending is in order.](http://9gag.com/gag/awyxVqx)<!-- MEMES:END -->
+ - 😝 [Found this post under bricks and rubble](http://9gag.com/gag/abA06Ap)
+ - 😝 [There are people watching in the stands....did they buy tickets? Happy ending is in order.](http://9gag.com/gag/awyxVqx)
+ - 💣 [Make Sweden Swedish Again!](http://9gag.com/gag/avyPrQX)
+ - 😝 [Best 7 seconds of her life](http://9gag.com/gag/aoy9jAX)
+ - 👉 [Wakey, wakey hands of snakey!](http://9gag.com/gag/a4PYL4Q)<!-- MEMES:END -->
 
 ---
 

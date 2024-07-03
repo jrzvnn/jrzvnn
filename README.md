@@ -161,9 +161,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [When &#39;Apple Watch battery charge&#39; means assault, not a low power warning](https://appleinsider.com/articles/24/07/03/when-apple-watch-battery-charge-means-assault-not-a-low-power-warning?utm_medium=rss)
  - [Vulnerabilities found in Swift repository left millions of iPhone apps exposed](https://appleinsider.com/articles/24/07/03/vulnerabilities-found-in-swift-repository-left-millions-of-apps-exposed-now-patched?utm_medium=rss)
- - [AI Is Rewriting Meme History](https://www.wired.com/story/ai-is-rewriting-meme-history/)
  - [I renewed my US passport in a single week with the government’s speedy online beta](https://www.theverge.com/2024/7/3/24190366/us-passport-online-renewal-beta-fast)
- - [Reddit users: Netflix is following through on its plan to phase out its cheapest $11.99/month ad-free tier, instead pushing its $6.99, $15.49, and $22.99 tiers &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240703/p11#a240703p11)<!-- TECH:END -->
+ - [Reddit users: Netflix is following through on its plan to phase out its cheapest $11.99/month ad-free tier, instead pushing its $6.99, $15.49, and $22.99 tiers &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240703/p11#a240703p11)
+ - [Inside a16z’s Boot Camp for Crypto Startups](https://www.wired.com/story/inside-a16zs-boot-camp-for-crypto-startups/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

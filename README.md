@@ -161,9 +161,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Koo, an Indian rival to X that had raised $60M+ from Tiger Global, Accel, and others, is shutting down after acquisition talks with Dailyhunt fell through &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240703/p8#a240703p8)
  - [UK-listed Keywords Studios, which provides game development, audio, and art services to clients such as Epic, agrees to a ~&amp;pound;2.1B takeover bid from PE firm EQT &lpar;Amy Thomson/Bloomberg&rpar;](http://www.techmeme.com/240703/p7#a240703p7)
- - [The UK’s NHS Going Digital Would Be Equivalent to Hiring Thousands of New Doctors](https://www.wired.com/story/wired-health-wes-streeting-nhs-app/)
- - [Britain’s Brewing Battle Over Data Centers](https://www.wired.com/story/data-centres-uk-boom-elections/)
- - [DJI expands into e-bikes and drive systems](https://www.theverge.com/2024/7/3/24190557/dji-avinox-amflow-e-bike-mountain-bike-price-specs)<!-- TECH:END -->
+ - [Best Internet Providers in Maryland](https://www.cnet.com/home/internet/best-internet-providers-in-maryland/#ftag=CAD590a51e)
+ - [New &#39;Bluey&#39; Has Finally Arrived: Minisode Release Schedule and How to Watch](https://www.cnet.com/tech/services-and-software/new-bluey-has-finally-arrived-minisode-release-schedule-and-how-to-watch/#ftag=CAD590a51e)
+ - [Britain’s Brewing Battle Over Data Centers](https://www.wired.com/story/data-centres-uk-boom-elections/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

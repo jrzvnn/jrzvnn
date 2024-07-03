@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [After being knocked out of the Euros the Romanian team left their locker room spotless and wrote a thank you note for Germany for hosting. For many we are still gypsies but we are not so much as we used to be](http://9gag.com/gag/aZZMmLV)
- - 😝 [One more thing!!](http://9gag.com/gag/aqy5rQM)
- - 💣 [Simple yet so effective](http://9gag.com/gag/a4PYYwm)
- - 😝 [What&#39;s your secret mate?](http://9gag.com/gag/aZZMm09)
- - 👉 [Both](http://9gag.com/gag/aZZMNr9)<!-- MEMES:END -->
+ - 😝 [Plain sight for 17 years](http://9gag.com/gag/ajPAndw)
+ - 😝 [It&#39;s all in the detail](http://9gag.com/gag/aAy1PVL)
+ - 💣 [Seeenk u very much](http://9gag.com/gag/azxjrKj)
+ - 😝 [Make Sweden Swedish Again!](http://9gag.com/gag/avyPrQX)
+ - 👉 [There are people watching in the stands....did they buy tickets? Happy ending is in order.](http://9gag.com/gag/awyxVqx)<!-- MEMES:END -->
 
 ---
 

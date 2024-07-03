@@ -159,8 +159,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bruce Bastian, who co-created the popular word processing software WordPerfect and was an LGBTQ Activist, died on June 16 at age 76 &lpar;Chris Kornelis/Wall Street Journal&rpar;](http://www.techmeme.com/240702/p29#a240702p29)
- - [Britain’s Brewing Battle Over Data Centers](https://www.wired.com/story/data-centres-uk-boom-elections/)
+ - [How an underground network of Chinese sellers is bypassing US export controls through supply-chain blind spots to smuggle Nvidia&#39;s advanced AI chips into China &lpar;Raffaele Huang/Wall Street Journal&rpar;](http://www.techmeme.com/240702/p30#a240702p30)
+ - [Bruce Bastian, who co-created the popular word processing software WordPerfect and was an LGBTQ activist, died on June 16 at age 76 &lpar;Chris Kornelis/Wall Street Journal&rpar;](http://www.techmeme.com/240702/p29#a240702p29)
  - [Vulnerabilities found in Swift repository left millions of apps exposed, now patched](https://appleinsider.com/articles/24/07/03/vulnerabilities-found-in-swift-repository-left-millions-of-apps-exposed-now-patched?utm_medium=rss)
  - [Xbox Live is back after an outage lasting several hours](https://www.theverge.com/2024/7/2/24191012/xbox-live-down-outage-xbox-series-x-s-online-sign-failed)
  - [Brazil&#39;s data regulator suspends the validity of Meta&#39;s new privacy policy for the use of personal data to train its generative AI systems in the country &lpar;Paula Arend Laier/Reuters&rpar;](http://www.techmeme.com/240702/p28#a240702p28)<!-- TECH:END -->

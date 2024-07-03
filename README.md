@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Reminder everyday to be thankful you weren&#39;t born like this](http://9gag.com/gag/ae9G6gb)
- - 😝 [One more thing!!](http://9gag.com/gag/aqy5rQM)
- - 💣 [Make Sweden Swedish Again!](http://9gag.com/gag/avyPrQX)
  - 😝 [Reverse videos have always been underrated](http://9gag.com/gag/adBjYrN)
- - 👉 [Best 7 seconds of her life](http://9gag.com/gag/aoy9jAX)<!-- MEMES:END -->
+ - 😝 [Seeenk u very much](http://9gag.com/gag/azxjrKj)
+ - 💣 [Wakey, wakey hands of snakey!](http://9gag.com/gag/a4PYL4Q)
+ - 😝 [Make Sweden Swedish Again!](http://9gag.com/gag/avyPrQX)
+ - 👉 [Face-palm](http://9gag.com/gag/avyPLBq)<!-- MEMES:END -->
 
 ---
 

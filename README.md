@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)
- - [The Game Boy Camera will soon get a second life as an awful webcam](https://www.theverge.com/2024/7/3/24191794/gb-operator-game-boy-camera-webcam-epilogue-nintendo)
- - [Here&#39;s How to Marvel at the Milky Way Without a Telescope Until July 13](https://www.cnet.com/science/heres-how-to-marvel-at-the-milky-way-without-a-telescope-until-july-13/#ftag=CAD590a51e)
- - [Get $300 Off an Anker Portable Cooler and Take Your July 4th Beverages on the Go](https://www.cnet.com/deals/get-300-off-an-anker-portable-cooler-and-take-your-july-4th-beverages-on-the-go/#ftag=CAD590a51e)
- - [The Apple Pencil 2 Is Back to Its All-Time Low for July 4th](https://www.cnet.com/deals/the-apple-pencil-2-is-back-to-its-all-time-low-for-july-4th/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best Prime Day deals you can already get](https://www.theverge.com/24186583/amazon-prime-day-2024-best-tech-deals-sales)
+ - [Best Internet Providers in Clarksburg, West Virginia](https://www.cnet.com/home/internet/best-internet-providers-in-clarksburg-wv/#ftag=CAD590a51e)
+ - [Fire Up the Grill and Save at Blackstone&#39;s Big 4th of July Sale](https://www.cnet.com/deals/fire-up-the-grill-and-save-at-blackstones-big-4th-of-july-sale/#ftag=CAD590a51e)
+ - [This July 4th Weekend Save $100 on Our Top Robot Vacuum of the Year](https://www.cnet.com/deals/this-july-4th-weekend-save-100-on-our-top-robot-vacuum-of-the-year/#ftag=CAD590a51e)
+ - [Save 25% in Murad&#39;s July 4th Sale With Several of CNET&#39;s Best Picks for Eye Creams and Sunscreens](https://www.cnet.com/deals/save-25-in-murads-july-4th-sale-with-several-of-cnets-best-picks-for-eye-creams-and-sunscreens/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Plain sight for 17 years](http://9gag.com/gag/ajPAndw)
- - 😝 [It&#39;s all in the detail](http://9gag.com/gag/aAy1PVL)
- - 💣 [Seeenk u very much](http://9gag.com/gag/azxjrKj)
- - 😝 [Make Sweden Swedish Again!](http://9gag.com/gag/avyPrQX)
- - 👉 [There are people watching in the stands....did they buy tickets? Happy ending is in order.](http://9gag.com/gag/awyxVqx)<!-- MEMES:END -->
+ - 😝 [Wakey, wakey hands of snakey!](http://9gag.com/gag/a4PYL4Q)
+ - 😝 [Reminder everyday to be thankful you weren&#39;t born like this](http://9gag.com/gag/ae9G6gb)
+ - 💣 [Make Sweden Swedish Again!](http://9gag.com/gag/avyPrQX)
+ - 😝 [Seeenk u very much](http://9gag.com/gag/azxjrKj)
+ - 👉 [So guys.. i got fever... where can i find these half breed Asian Pacific-European girl?](http://9gag.com/gag/aVvPPmd)<!-- MEMES:END -->
 
 ---
 

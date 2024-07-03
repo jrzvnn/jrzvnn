@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tensions are rising in Spain after the murder of 39-y-old David Lledo, beaten to death with baseball bats by 3 Moroccans after stopping them from harassing girls. People gathered at the site, chanting slogans \u201cSpain is Christian, not Muslim\u201d](http://9gag.com/gag/a5Q7NBV)
- - 😝 [Plain sight for 17 years](http://9gag.com/gag/ajPAndw)
- - 💣 [How defeat a Jedi](http://9gag.com/gag/aoy90GA)
- - 😝 [Gear up people down](http://9gag.com/gag/aoy9Zyn)
- - 👉 [Using the UNO reverse card against this kind of people](http://9gag.com/gag/a6Z77Nb)<!-- MEMES:END -->
+ - 😝 [A short and witty title does the trick.](http://9gag.com/gag/aRBAgG5)
+ - 😝 [Where tf feminists now](http://9gag.com/gag/azxjLNj)
+ - 💣 [Proof that Arcanine is a legendary Pokemon](http://9gag.com/gag/a6Z7yoN)
+ - 😝 [Hate this idiots](http://9gag.com/gag/amo99q9)
+ - 👉 [Gear up people down](http://9gag.com/gag/aoy9Zyn)<!-- MEMES:END -->
 
 ---
 

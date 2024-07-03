@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bruce Bastian, who co-created the popular word processing software WordPerfect and was an LGBTQ Activist, died on June 16 at age 76 &lpar;Chris Kornelis/Wall Street Journal&rpar;](http://www.techmeme.com/240702/p29#a240702p29)
+ - [Britain’s Brewing Battle Over Data Centers](https://www.wired.com/story/data-centres-uk-boom-elections/)
+ - [Vulnerabilities found in Swift repository left millions of apps exposed, now patched](https://appleinsider.com/articles/24/07/03/vulnerabilities-found-in-swift-repository-left-millions-of-apps-exposed-now-patched?utm_medium=rss)
  - [Xbox Live is back after an outage lasting several hours](https://www.theverge.com/2024/7/2/24191012/xbox-live-down-outage-xbox-series-x-s-online-sign-failed)
- - [Brazil&#39;s data regulator suspends the validity of Meta&#39;s new privacy policy for the use of personal data to train its generative AI systems in the country &lpar;Paula Arend Laier/Reuters&rpar;](http://www.techmeme.com/240702/p28#a240702p28)
- - [Blockchain platform Polkadot faces criticism from users after spending $36M+ on marketing and outreach in H1 2024, nearly half of its total spend of $87M &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/240702/p27#a240702p27)
- - [Celebrate a Dirt-Free Home This July 4th With 40% Off This Cordless Stick Vacuum Cleaner](https://www.cnet.com/deals/celebrate-a-dirt-free-home-this-july-4th-with-40-off-this-cordless-stick-vacuum-cleaner/#ftag=CAD590a51e)
- - [Target July 4th Sale: Score Massive Savings on Tech, Home, Outdoor and More](https://www.cnet.com/deals/target-july-4th-sale-2024-07-02/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Brazil&#39;s data regulator suspends the validity of Meta&#39;s new privacy policy for the use of personal data to train its generative AI systems in the country &lpar;Paula Arend Laier/Reuters&rpar;](http://www.techmeme.com/240702/p28#a240702p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nothing’s first CMF phone could be customizable with dial and kickstand add-ons](https://www.theverge.com/2024/7/3/24191661/nothing-cmf-phone-1-accessories-teaser)
  - [OpenAI’s ChatGPT Mac app was storing conversations in plain text](https://www.theverge.com/2024/7/3/24191636/openai-chatgpt-mac-app-conversations-plain-text)
  - [Japan&#39;s government has finally eliminated the use of floppy disks in all its systems, after scrapping over 1,000 regulations governing their use &lpar;Rocky Swift/Reuters&rpar;](http://www.techmeme.com/240703/p22#a240703p22)
  - [Induction Cooktop Flex](https://www.cnet.com/news/induction-cooktop-dpnl/#ftag=CAD590a51e)
- - [Nonstick Pots &amp; Pans Set](https://www.cnet.com/news/nonstick-pots-pans-set-dpnl/#ftag=CAD590a51e)
- - [Blumhouse’s Afraid brings AI terror to the smart home](https://www.theverge.com/24191696/blumhouse-afraid-trailer-smart-house)<!-- TECH:END -->
+ - [Nonstick Pots &amp; Pans Set](https://www.cnet.com/news/nonstick-pots-pans-set-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

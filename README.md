@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Wakey, wakey hands of snakey!](http://9gag.com/gag/a4PYL4Q)
- - 😝 [Reverse videos have always been underrated](http://9gag.com/gag/adBjYrN)
- - 💣 [BYD demonstrated its advanced automated driving functionality.](http://9gag.com/gag/aW466jx)
- - 😝 [It&#39;s all in the detail](http://9gag.com/gag/aAy1PVL)
- - 👉 [Found this post under bricks and rubble](http://9gag.com/gag/abA06Ap)<!-- MEMES:END -->
+ - 😝 [There are people watching in the stands....did they buy tickets? Happy ending is in order.](http://9gag.com/gag/awyxVqx)
+ - 💣 [It&#39;s all in the detail](http://9gag.com/gag/aAy1PVL)
+ - 😝 [Just move on.](http://9gag.com/gag/a5Q7rDG)
+ - 👉 [How defeat a Jedi](http://9gag.com/gag/aoy90GA)<!-- MEMES:END -->
 
 ---
 

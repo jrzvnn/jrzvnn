@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Plain sight for 17 years](http://9gag.com/gag/ajPAndw)
- - 😝 [Reminder everyday to be thankful you weren&#39;t born like this](http://9gag.com/gag/ae9G6gb)
- - 💣 [From October of 2023 to April of 2024](http://9gag.com/gag/ae9G3eW)
- - 😝 [Reverse videos have always been underrated](http://9gag.com/gag/adBjYrN)
- - 👉 [Which i assume you know](http://9gag.com/gag/a5Q7K7r)<!-- MEMES:END -->
+ - 😝 [It&#39;s all in the detail](http://9gag.com/gag/aAy1PVL)
+ - 💣 [BYD demonstrated its advanced automated driving functionality.](http://9gag.com/gag/aW466jx)
+ - 😝 [So close to greatness](http://9gag.com/gag/agmVvz6)
+ - 👉 [Just move on.](http://9gag.com/gag/a5Q7rDG)<!-- MEMES:END -->
 
 ---
 

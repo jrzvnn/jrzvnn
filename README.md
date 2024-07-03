@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The FTC is investigating PC manufacturers who scare you away from your right to repair](https://www.theverge.com/2024/7/3/24191790/asrock-gigabyte-zotac-ftc-warranty-void-right-to-repair)
  - [Information management company OpenText plans to cut about 1,200 jobs, or ~1.7% of its workforce, and expects to reduce its annual expenses by CA$150M in 2025 &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/240703/p24#a240703p24)
+ - [36 Best July 4th Mattress Sales: Save on Your Favorite Brands](https://www.cnet.com/deals/best-mattress-sales/#ftag=CAD590a51e)
  - [OpenAI updates its ChatGPT macOS app to encrypt locally stored conversations, after a user discovered that the app was storing chats in plain text &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240703/p23#a240703p23)
- - [Nothing’s first CMF phone could be customizable with dial and kickstand add-ons](https://www.theverge.com/2024/7/3/24191661/nothing-cmf-phone-1-accessories-teaser)
- - [OpenAI’s ChatGPT Mac app was storing conversations in plain text](https://www.theverge.com/2024/7/3/24191636/openai-chatgpt-mac-app-conversations-plain-text)
- - [Japan&#39;s government has finally eliminated the use of floppy disks in all its systems, after scrapping over 1,000 regulations governing their use &lpar;Rocky Swift/Reuters&rpar;](http://www.techmeme.com/240703/p22#a240703p22)<!-- TECH:END -->
+ - [Nothing’s first CMF phone could be customizable with dial and kickstand add-ons](https://www.theverge.com/2024/7/3/24191661/nothing-cmf-phone-1-accessories-teaser)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

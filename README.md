@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So brave](http://9gag.com/gag/aPADDgg)
- - 😝 [...since \u00b494 by F.Gump](http://9gag.com/gag/aPADD2Q)
- - 💣 [Reverse videos have always been underrated](http://9gag.com/gag/adBjYrN)
- - 😝 [Using the UNO reverse card against this kind of people](http://9gag.com/gag/a6Z77Nb)
- - 👉 [Equality](http://9gag.com/gag/apRvLNb)<!-- MEMES:END -->
+ - 😝 [The most passionate.... Wth!!!](http://9gag.com/gag/aZZMWM3)
+ - 😝 [Plain sight for 17 years](http://9gag.com/gag/ajPAndw)
+ - 💣 [Gear up people down](http://9gag.com/gag/aoy9Zyn)
+ - 😝 [Reminder everyday to be thankful you weren&#39;t born like this](http://9gag.com/gag/ae9G6gb)
+ - 👉 [BYD demonstrated its advanced automated driving functionality.](http://9gag.com/gag/aW466jx)<!-- MEMES:END -->
 
 ---
 

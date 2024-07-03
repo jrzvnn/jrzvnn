@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+ - [Twilio alerts Authy two-factor app users that ‘threat actors’ have their phone numbers](https://www.theverge.com/2024/7/3/24191791/twilio-authy-2fa-app-phone-numbers-hack-data-breach)
+ - [A federal court in Texas temporarily blocks the US government&#39;s ban on noncompete agreements that was set to take effect September 4 &lpar;Andrea Hsu/NPR&rpar;](http://www.techmeme.com/240703/p26#a240703p26)
  - [Noplace, a new social media app with colorful, customizable profiles and text-based updates targeting Gen Z, reaches number one on the iOS App Store in the US &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240703/p25#a240703p25)
- - [Mark Zuckerberg experiments with six-window Quest VR multitasking](https://www.theverge.com/2024/7/3/24191722/meta-quest-horizon-os-67-multitasking-update)
- - [ChatGPT for Mac app logged queries in an unencrypted file before getting caught](https://appleinsider.com/articles/24/07/03/chatgpt-for-mac-app-logged-queries-in-an-unencrypted-file-before-getting-caught?utm_medium=rss)
- - [The FTC is investigating PC manufacturers who scare you away from your right to repair](https://www.theverge.com/2024/7/3/24191790/asrock-gigabyte-zotac-ftc-warranty-void-right-to-repair)
- - [Information management company OpenText plans to cut about 1,200 jobs, or ~1.7% of its workforce, and expects to reduce its annual expenses by CA$150M in 2025 &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/240703/p24#a240703p24)<!-- TECH:END -->
+ - [Home Depot July 4th Sale: Hot Deals on Appliances, Tools, Grills and Outdoor Equipment](https://www.cnet.com/deals/home-depot-july-4th-sale-2024-07-03/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

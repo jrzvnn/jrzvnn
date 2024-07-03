@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In 2024, 58.5% of Google searches in the US and 59.7% in EU result in zero clicks; for 1,000 searches, 374 clicks go to the open web in the EU and 360 in the US &lpar;Rand Fishkin/SparkToro&rpar;](http://www.techmeme.com/240703/p14#a240703p14)
- - [Jony Ive still thinks of Steve Jobs every day](https://appleinsider.com/articles/24/07/03/jony-ive-still-thinks-of-steve-jobs-every-day?utm_medium=rss)
- - [Apple&#39;s repair programs have more to do to satisfy New York Right to Repair law](https://appleinsider.com/articles/24/07/03/apples-repair-programs-have-more-to-do-to-satisfy-new-york-right-to-repair-law?utm_medium=rss)
- - [How a musical indie game went against the grain to explore the Deaf experience](https://www.theverge.com/24190846/harmonium-the-musical-developer-interview-deaf-culture-experience)
- - [50 Best Deals in Walmart July 4th Sale: Save on Tech, Appliances, Home Goods and More](https://www.cnet.com/deals/walmart-july-4th-sale-2024-07-03/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Threads hits 175 million users after a year](https://www.theverge.com/2024/7/3/24191074/meta-threads-users-mark-zuckerberg)
+ - [Perplexity’s ‘Pro Search’ AI upgrade makes it better at math and research](https://www.theverge.com/2024/7/3/24191431/perplexity-upgraded-pro-search-ai-research-assistant)
+ - [Telegram rolls out the ability for creators to share paid content to channels using its Stars digital currency &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240703/p15#a240703p15)
+ - [The Verge’s favorite board and video games](https://www.theverge.com/24190259/board-video-games-console-pc-tabletop-emulators)
+ - [A24’s MaXXXine flips the script to give you something fresh to scream about](https://www.theverge.com/24187551/maxxxine-review-ti-west)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

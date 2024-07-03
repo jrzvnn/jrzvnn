@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Make Sweden Swedish Again!](http://9gag.com/gag/avyPrQX)
- - 😝 [Dad catches his teen daughter with her boyfriend. Was he being too much?](http://9gag.com/gag/ajPAnOG)
+ - 😝 [Reminder everyday to be thankful you weren&#39;t born like this](http://9gag.com/gag/ae9G6gb)
+ - 😝 [Your daily dose](http://9gag.com/gag/amo9rO4)
  - 💣 [It&#39;s all in the detail](http://9gag.com/gag/aAy1PVL)
- - 😝 [How about you go F yourself ?](http://9gag.com/gag/aAy1d7o)
- - 👉 [Best 7 seconds of her life](http://9gag.com/gag/aoy9jAX)<!-- MEMES:END -->
+ - 😝 [Best 7 seconds of her life](http://9gag.com/gag/aoy9jAX)
+ - 👉 [Seeenk u very much](http://9gag.com/gag/azxjrKj)<!-- MEMES:END -->
 
 ---
 

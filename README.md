@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Plain sight for 17 years](http://9gag.com/gag/ajPAndw)
- - 😝 [BYD demonstrated its advanced automated driving functionality.](http://9gag.com/gag/aW466jx)
- - 💣 [Reverse videos have always been underrated](http://9gag.com/gag/adBjYrN)
- - 😝 [Best 7 seconds of her life](http://9gag.com/gag/aoy9jAX)
- - 👉 [It&#39;s all in the detail](http://9gag.com/gag/aAy1PVL)<!-- MEMES:END -->
+ - 😝 [Hikers encounter mountain lion](http://9gag.com/gag/ajPAAVR)
+ - 😝 [Reverse videos have always been underrated](http://9gag.com/gag/adBjYrN)
+ - 💣 [Gear up people down](http://9gag.com/gag/aoy9Zyn)
+ - 😝 [Hate this idiots](http://9gag.com/gag/amo99q9)
+ - 👉 [BYD demonstrated its advanced automated driving functionality.](http://9gag.com/gag/aW466jx)<!-- MEMES:END -->
 
 ---
 

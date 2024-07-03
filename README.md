@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Drop Candy Roller](http://9gag.com/gag/aZZMpbV)
+ - 😝 [It&#39;s all in the detail](http://9gag.com/gag/aAy1PVL)
+ - 😝 [BYD demonstrated its advanced automated driving functionality.](http://9gag.com/gag/aW466jx)
+ - 💣 [Woman had her arms ripped off and colon torn out in savage pit bull attack](http://9gag.com/gag/axyjZLp)
  - 😝 [Seeenk u very much](http://9gag.com/gag/azxjrKj)
- - 💣 [I can confirm, it is](http://9gag.com/gag/aryKOzd)
- - 😝 [There are people watching in the stands....did they buy tickets? Happy ending is in order.](http://9gag.com/gag/awyxVqx)
- - 👉 [Make Sweden Swedish Again!](http://9gag.com/gag/avyPrQX)<!-- MEMES:END -->
+ - 👉 [Reverse videos have always been underrated](http://9gag.com/gag/adBjYrN)<!-- MEMES:END -->
 
 ---
 

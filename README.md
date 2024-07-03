@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Vulnerabilities found in Swift repository left millions of iPhone apps exposed](https://appleinsider.com/articles/24/07/03/vulnerabilities-found-in-swift-repository-left-millions-of-apps-exposed-now-patched?utm_medium=rss)
+ - [I renewed my US passport in a single week with the government’s speedy online beta](https://www.theverge.com/2024/7/3/24190366/us-passport-online-renewal-beta-fast)
  - [Reddit users: Netflix is following through on its plan to phase out its cheapest $11.99/month ad-free tier, instead pushing its $6.99, $15.49, and $22.99 tiers &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/240703/p11#a240703p11)
- - [CDK Global, a software provider to ~15K North American car dealerships, says &quot;substantially all&quot; of its dealers are back online, after two cyberattacks in June &lpar;Charles Gorrivan/Bloomberg&rpar;](http://www.techmeme.com/240703/p10#a240703p10)
- - [Apple wants China to alter an antitrust ruling it already won](https://appleinsider.com/articles/24/07/03/apple-wants-china-to-alter-an-antitrust-ruling-it-already-won?utm_medium=rss)
- - [Proton launches Docs in Proton Drive, a privacy-focused alternate to Google Docs, after acquiring secure note-taking app Standard Notes in April 2024 &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240703/p9#a240703p9)
- - [Meta ordered to stop training its AI on Brazilian personal data](https://www.theverge.com/2024/7/3/24191405/meta-anpd-stop-training-ai-on-brazilian-facebook-instagram-data)<!-- TECH:END -->
+ - [Inside a16z’s Boot Camp for Crypto Startups](https://www.wired.com/story/inside-a16zs-boot-camp-for-crypto-startups/)
+ - [CDK Global, a software provider to ~15K North American car dealerships, says &quot;substantially all&quot; of its dealers are back online, after two cyberattacks in June &lpar;Charles Gorrivan/Bloomberg&rpar;](http://www.techmeme.com/240703/p10#a240703p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Love happy endings!](http://9gag.com/gag/aAy1r7E)
- - 😝 [The most passionate.... Wth!!!](http://9gag.com/gag/aZZMWM3)
- - 💣 [Hate this idiots](http://9gag.com/gag/amo99q9)
- - 😝 [Just move on.](http://9gag.com/gag/a5Q7rDG)
- - 👉 [It&#39;s all in the detail](http://9gag.com/gag/aAy1PVL)<!-- MEMES:END -->
+ - 😝 [Not me, but, what a way to hurt.](http://9gag.com/gag/agmVG01)
+ - 😝 [So brave](http://9gag.com/gag/aPADDgg)
+ - 💣 [...since \u00b494 by F.Gump](http://9gag.com/gag/aPADD2Q)
+ - 😝 [Reverse videos have always been underrated](http://9gag.com/gag/adBjYrN)
+ - 👉 [Using the UNO reverse card against this kind of people](http://9gag.com/gag/a6Z77Nb)<!-- MEMES:END -->
 
 ---
 

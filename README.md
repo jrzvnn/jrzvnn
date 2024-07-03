@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [WIPO: between 2014 and 2023, 54K generative AI patents were filed, 25% of which were filed in 2023; China leads with 38K+ patents, followed by the US with 6,276 &lpar;Emma Farge/Reuters&rpar;](http://www.techmeme.com/240703/p12#a240703p12)
- - [How to Get a Real ID License Before the Deadline](https://www.wired.com/story/how-to-get-a-real-id-license-before-the-may-2025-deadline/)
  - [When &#39;Apple Watch battery charge&#39; means assault, not a low power warning](https://appleinsider.com/articles/24/07/03/when-apple-watch-battery-charge-means-assault-not-a-low-power-warning?utm_medium=rss)
  - [Vulnerabilities found in Swift repository left millions of iPhone apps exposed](https://appleinsider.com/articles/24/07/03/vulnerabilities-found-in-swift-repository-left-millions-of-apps-exposed-now-patched?utm_medium=rss)
- - [AI Is Rewriting Meme History](https://www.wired.com/story/ai-is-rewriting-meme-history/)<!-- TECH:END -->
+ - [AI Is Rewriting Meme History](https://www.wired.com/story/ai-is-rewriting-meme-history/)
+ - [I renewed my US passport in a single week with the government’s speedy online beta](https://www.theverge.com/2024/7/3/24190366/us-passport-online-renewal-beta-fast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

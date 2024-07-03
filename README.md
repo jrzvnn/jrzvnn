@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The question all successful men trouble with](http://9gag.com/gag/a9y7Y2K)
- - 😝 [Reverse videos have always been underrated](http://9gag.com/gag/adBjYrN)
- - 💣 [Using the UNO reverse card against this kind of people](http://9gag.com/gag/a6Z77Nb)
- - 😝 [I&#39;ve never understood why all functions in cars have to be digital](http://9gag.com/gag/a2vm5bZ)
- - 👉 [Minority!](http://9gag.com/gag/a0epYGn)<!-- MEMES:END -->
+ - 😝 [Jefferson County, Colorado will pay former inmate $500,000 after deputies slammed him face-first on concrete, breaking his jaw and causing brain injury](http://9gag.com/gag/aryKNz5)
+ - 😝 [Plain sight for 17 years](http://9gag.com/gag/ajPAndw)
+ - 💣 [Hate this idiots](http://9gag.com/gag/amo99q9)
+ - 😝 [Robbery attempt this morning in Switzerland &lpar;Lugano&rpar; 02.07.2024](http://9gag.com/gag/amo9zYo)
+ - 👉 [Best 7 seconds of her life](http://9gag.com/gag/aoy9jAX)<!-- MEMES:END -->
 
 ---
 

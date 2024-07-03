@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Whats good!](http://9gag.com/gag/aNDnAvr)
- - 😝 [What&#39;s your secret mate?](http://9gag.com/gag/aZZMm09)
- - 💣 [After being knocked out of the Euros the Romanian team left their locker room spotless and wrote a thank you note for Germany for hosting. For many we are still gypsies but we are not so much as we used to be](http://9gag.com/gag/aZZMmLV)
- - 😝 [Do you agree?](http://9gag.com/gag/aMVG8Rx)
- - 👉 [Rabbit hole](http://9gag.com/gag/aD2oWnx)<!-- MEMES:END -->
+ - 😝 [Make Sweden Swedish Again!](http://9gag.com/gag/avyPrQX)
+ - 😝 [Found this post under bricks and rubble](http://9gag.com/gag/abA06Ap)
+ - 💣 [Rocket engine designer by ai](http://9gag.com/gag/abA00Kp)
+ - 😝 [Reminder everyday to be thankful you weren&#39;t born like this](http://9gag.com/gag/ae9G6gb)
+ - 👉 [Impressive](http://9gag.com/gag/aO8VzNr)<!-- MEMES:END -->
 
 ---
 

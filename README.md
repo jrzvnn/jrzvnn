@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)
  - [Marvel’s What If…? series to end with third season](https://www.theverge.com/2024/7/3/24191652/what-if-season-three-cancellation)
- - [Amazon plans to discontinue Astro for Business, its robot security guard for SMBs launched in November 2023, on September 25 to focus on the Astro home robot &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/240703/p20#a240703p20)
+ - [Amazon plans to discontinue Astro for Business, its robot security guard for SMBs announced in November 2023, on September 25 to focus on its Astro home robot &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/240703/p20#a240703p20)
  - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/apple-watch-series-9-ultra-2-second-gen-se-best-smartwatch-how-to)
- - [A look at enterprise browser startups like Island and Here, which aim to provide built-in browser security controls and better app integrations needed for work &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/240703/p19#a240703p19)
- - [Amazon, Best Buy launch price war on Apple&#39;s latest MacBook Pro - save up to $500](https://appleinsider.com/articles/24/07/03/amazon-best-buy-launch-price-war-on-apples-latest-macbook-pro---save-up-to-500?utm_medium=rss)<!-- TECH:END -->
+ - [A look at enterprise browser startups like Island and Here, which aim to provide built-in browser security controls and better app integrations needed for work &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/240703/p19#a240703p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

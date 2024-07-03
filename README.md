@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One more thing!!](http://9gag.com/gag/aqy5rQM)
- - 😝 [Using the UNO reverse card against this kind of people](http://9gag.com/gag/a6Z77Nb)
- - 💣 [So guys.. i got fever... where can i find these half breed Asian Pacific-European girl?](http://9gag.com/gag/aVvPPmd)
- - 😝 [Some cities in Germany have so called \u201cBabyklappen\u201d &lpar;baby hatch&rpar; where mothers can safely and anonymously leave their unwanted newborns.](http://9gag.com/gag/aVvPqQO)
- - 👉 [Your daily dose](http://9gag.com/gag/amo9rO4)<!-- MEMES:END -->
+ - 😝 [Whats good!](http://9gag.com/gag/aNDnAvr)
+ - 😝 [What&#39;s your secret mate?](http://9gag.com/gag/aZZMm09)
+ - 💣 [After being knocked out of the Euros the Romanian team left their locker room spotless and wrote a thank you note for Germany for hosting. For many we are still gypsies but we are not so much as we used to be](http://9gag.com/gag/aZZMmLV)
+ - 😝 [Do you agree?](http://9gag.com/gag/aMVG8Rx)
+ - 👉 [Rabbit hole](http://9gag.com/gag/aD2oWnx)<!-- MEMES:END -->
 
 ---
 

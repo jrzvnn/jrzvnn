@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Make Sweden Swedish Again!](http://9gag.com/gag/avyPrQX)
- - 😝 [Found this post under bricks and rubble](http://9gag.com/gag/abA06Ap)
- - 💣 [Rocket engine designer by ai](http://9gag.com/gag/abA00Kp)
- - 😝 [Reminder everyday to be thankful you weren&#39;t born like this](http://9gag.com/gag/ae9G6gb)
- - 👉 [Impressive](http://9gag.com/gag/aO8VzNr)<!-- MEMES:END -->
+ - 😝 [Dad catches his teen daughter with her boyfriend. Was he being too much?](http://9gag.com/gag/ajPAnOG)
+ - 💣 [It&#39;s all in the detail](http://9gag.com/gag/aAy1PVL)
+ - 😝 [How about you go F yourself ?](http://9gag.com/gag/aAy1d7o)
+ - 👉 [Best 7 seconds of her life](http://9gag.com/gag/aoy9jAX)<!-- MEMES:END -->
 
 ---
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Proof that Arcanine is a legendary Pokemon](http://9gag.com/gag/a6Z7yoN)
- - 😝 [BYD demonstrated its advanced automated driving functionality.](http://9gag.com/gag/aW466jx)
- - 💣 [Gear up people down](http://9gag.com/gag/aoy9Zyn)
- - 😝 [Reminder everyday to be thankful you weren&#39;t born like this](http://9gag.com/gag/ae9G6gb)
- - 👉 [Best 7 seconds of her life](http://9gag.com/gag/aoy9jAX)<!-- MEMES:END -->
+ - 😝 [Love happy endings!](http://9gag.com/gag/aAy1r7E)
+ - 😝 [The most passionate.... Wth!!!](http://9gag.com/gag/aZZMWM3)
+ - 💣 [Hate this idiots](http://9gag.com/gag/amo99q9)
+ - 😝 [Just move on.](http://9gag.com/gag/a5Q7rDG)
+ - 👉 [It&#39;s all in the detail](http://9gag.com/gag/aAy1PVL)<!-- MEMES:END -->
 
 ---
 

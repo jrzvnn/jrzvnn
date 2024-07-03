@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Where tf feminists now](http://9gag.com/gag/azxjLNj)
- - 😝 [BYD demonstrated its advanced automated driving functionality.](http://9gag.com/gag/aW466jx)
- - 💣 [Best 7 seconds of her life](http://9gag.com/gag/aoy9jAX)
- - 😝 [It&#39;s all in the detail](http://9gag.com/gag/aAy1PVL)
- - 👉 [Just move on.](http://9gag.com/gag/a5Q7rDG)<!-- MEMES:END -->
+ - 😝 [The question all successful men trouble with](http://9gag.com/gag/a9y7Y2K)
+ - 😝 [Reverse videos have always been underrated](http://9gag.com/gag/adBjYrN)
+ - 💣 [Using the UNO reverse card against this kind of people](http://9gag.com/gag/a6Z77Nb)
+ - 😝 [I&#39;ve never understood why all functions in cars have to be digital](http://9gag.com/gag/a2vm5bZ)
+ - 👉 [Minority!](http://9gag.com/gag/a0epYGn)<!-- MEMES:END -->
 
 ---
 

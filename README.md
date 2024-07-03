@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Make Sweden Swedish Again!](http://9gag.com/gag/avyPrQX)
- - 😝 [Wakey, wakey hands of snakey!](http://9gag.com/gag/a4PYL4Q)
- - 💣 [Seeenk u very much](http://9gag.com/gag/azxjrKj)
- - 😝 [So guys.. i got fever... where can i find these half breed Asian Pacific-European girl?](http://9gag.com/gag/aVvPPmd)
- - 👉 [The most bizarre goal in football. Glitch in Matrix](http://9gag.com/gag/aO8Vmo2)<!-- MEMES:END -->
+ - 😝 [One more thing!!](http://9gag.com/gag/aqy5rQM)
+ - 😝 [Using the UNO reverse card against this kind of people](http://9gag.com/gag/a6Z77Nb)
+ - 💣 [So guys.. i got fever... where can i find these half breed Asian Pacific-European girl?](http://9gag.com/gag/aVvPPmd)
+ - 😝 [Some cities in Germany have so called \u201cBabyklappen\u201d &lpar;baby hatch&rpar; where mothers can safely and anonymously leave their unwanted newborns.](http://9gag.com/gag/aVvPqQO)
+ - 👉 [Your daily dose](http://9gag.com/gag/amo9rO4)<!-- MEMES:END -->
 
 ---
 

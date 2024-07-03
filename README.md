@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LG buys Homey in a very Samsung SmartThings move](https://www.theverge.com/2024/7/3/24191422/lg-homey-athom-acquisition-samsung-smartthings)
  - [Indian sends labor officials to grill Foxconn over hiring practices](https://appleinsider.com/articles/24/07/03/indian-sends-labor-officials-to-grill-foxconn-over-hiring-practices?utm_medium=rss)
  - [Alphabet winds down agriculture startup Mineral, which became an independent subsidiary in 2023, and is licensing some of its tech to berry producer Driscoll&#39;s &lpar;Julia Love/Bloomberg&rpar;](http://www.techmeme.com/240703/p13#a240703p13)
- - [Everything You Need to Know About USB Ports and Speeds &lpar;2024&rpar;](https://www.wired.com/story/usb-ports-speeds-generations-and-thunderbolt-explained/)
  - [WIPO: between 2014 and 2023, 54K generative AI patents were filed, 25% of which were filed in 2023; China leads with 38K+ patents, followed by the US with 6,276 &lpar;Emma Farge/Reuters&rpar;](http://www.techmeme.com/240703/p12#a240703p12)
- - [How to Get a Real ID License Before the Deadline](https://www.wired.com/story/how-to-get-a-real-id-license-before-the-may-2025-deadline/)<!-- TECH:END -->
+ - [Best LED Floodlight Bulbs of 2024](https://www.cnet.com/home/kitchen-and-household/best-led-floodlight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

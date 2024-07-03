@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Tensions are rising in Spain after the murder of 39-y-old David Lledo, beaten to death with baseball bats by 3 Moroccans after stopping them from harassing girls. People gathered at the site, chanting slogans \u201cSpain is Christian, not Muslim\u201d](http://9gag.com/gag/a5Q7NBV)
  - 😝 [Plain sight for 17 years](http://9gag.com/gag/ajPAndw)
- - 😝 [Robbery attempt this morning in Switzerland &lpar;Lugano&rpar; 02.07.2024](http://9gag.com/gag/amo9zYo)
- - 💣 [BYD demonstrated its advanced automated driving functionality.](http://9gag.com/gag/aW466jx)
- - 😝 [Not so friends](http://9gag.com/gag/a9y7P3L)
- - 👉 [Best 7 seconds of her life](http://9gag.com/gag/aoy9jAX)<!-- MEMES:END -->
+ - 💣 [How defeat a Jedi](http://9gag.com/gag/aoy90GA)
+ - 😝 [Gear up people down](http://9gag.com/gag/aoy9Zyn)
+ - 👉 [Using the UNO reverse card against this kind of people](http://9gag.com/gag/a6Z77Nb)<!-- MEMES:END -->
 
 ---
 

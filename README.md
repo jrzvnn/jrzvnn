@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Japan&#39;s government has finally eliminated the use of floppy disks in all its systems, after scrapping over 1,000 regulations governing their use &lpar;Rocky Swift/Reuters&rpar;](http://www.techmeme.com/240703/p22#a240703p22)
  - [Blumhouse’s Afraid brings AI terror to the smart home](https://www.theverge.com/24191696/blumhouse-afraid-trailer-smart-house)
  - [Amazon is bricking its Astro business robots less than a year after launch](https://www.theverge.com/2024/7/3/24190410/amazon-astro-business-robot-discontinued-refunds)
  - [Vision Hack hackathon wants to help expand the Apple Vision Pro&#39;s tiny app library](https://appleinsider.com/articles/24/07/03/vision-hack-hackathon-wants-to-help-expand-the-apple-vision-pros-tiny-app-library?utm_medium=rss)
- - [Google will now generate disclosures for political ads that use AI](https://www.theverge.com/2024/7/3/24191669/google-generate-disclosures-political-ads-ai)
- - [5K Video Camera](https://www.cnet.com/tech/computing/5k-video-camera-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google will now generate disclosures for political ads that use AI](https://www.theverge.com/2024/7/3/24191669/google-generate-disclosures-political-ads-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Minority!](http://9gag.com/gag/a0epYGn)
- - 😝 [What&#39;s the problem?](http://9gag.com/gag/aByYwWz)
- - 💣 [I can confirm, it is](http://9gag.com/gag/aryKOzd)
- - 😝 [One more thing!!](http://9gag.com/gag/aqy5rQM)
- - 👉 [Simple yet so effective](http://9gag.com/gag/a4PYYwm)<!-- MEMES:END -->
+ - 😝 [We&#39;re apparently back to phrenology on 2024&#39;s twitter.](http://9gag.com/gag/a5Q7Z5y)
+ - 😝 [It&#39;s all in the detail](http://9gag.com/gag/aAy1PVL)
+ - 💣 [Make Sweden Swedish Again!](http://9gag.com/gag/avyPrQX)
+ - 😝 [Found this post under bricks and rubble](http://9gag.com/gag/abA06Ap)
+ - 👉 [Best 7 seconds of her life](http://9gag.com/gag/aoy9jAX)<!-- MEMES:END -->
 
 ---
 

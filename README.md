@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Koo, an Indian rival to X that had raised $60M+ from Tiger Global, Accel, and others, is shutting down after acquisition talks with Dailyhunt fell through &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240703/p8#a240703p8)
+ - [UK-listed Keywords Studios, which provides game development, audio, and art services to clients such as Epic, agrees to a ~&amp;pound;2.1B takeover bid from PE firm EQT &lpar;Amy Thomson/Bloomberg&rpar;](http://www.techmeme.com/240703/p7#a240703p7)
+ - [The UK’s NHS Going Digital Would Be Equivalent to Hiring Thousands of New Doctors](https://www.wired.com/story/wired-health-wes-streeting-nhs-app/)
  - [Britain’s Brewing Battle Over Data Centers](https://www.wired.com/story/data-centres-uk-boom-elections/)
- - [DJI expands into e-bikes and drive systems](https://www.theverge.com/2024/7/3/24190557/dji-avinox-amflow-e-bike-mountain-bike-price-specs)
- - [How AI is helping investors and wealth managers simplify the due diligence process and streamline day-to-day tasks, as experts stress the need for human insight &lpar;Nicholas Fearn/Financial Times&rpar;](http://www.techmeme.com/240703/p6#a240703p6)
- - [As teachers embrace new AI grading tools, saying the programs let them give students faster feedback, critics say the tools can be glitchy or grade too harshly &lpar;Sara Randazzo/Wall Street Journal&rpar;](http://www.techmeme.com/240703/p5#a240703p5)
- - [Best Memory Foam Mattresses for 2024](https://www.cnet.com/health/sleep/best-memory-foam-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [DJI expands into e-bikes and drive systems](https://www.theverge.com/2024/7/3/24190557/dji-avinox-amflow-e-bike-mountain-bike-price-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

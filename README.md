@@ -169,11 +169,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Equality](http://9gag.com/gag/apRvLNb)
- - 😝 [It&#39;s all in the detail](http://9gag.com/gag/aAy1PVL)
- - 💣 [Hate this idiots](http://9gag.com/gag/amo99q9)
- - 😝 [...since \u00b494 by F.Gump](http://9gag.com/gag/aPADD2Q)
- - 👉 [Reverse videos have always been underrated](http://9gag.com/gag/adBjYrN)<!-- MEMES:END -->
+ - 😝 [Love happy endings!](http://9gag.com/gag/aAy1r7E)
+ - 😝 [Reminder everyday to be thankful you weren&#39;t born like this](http://9gag.com/gag/ae9G6gb)
+ - 💣 [BYD demonstrated its advanced automated driving functionality.](http://9gag.com/gag/aW466jx)
+ - 😝 [How defeat a Jedi](http://9gag.com/gag/aoy90GA)
+ - 👉 [It&#39;s all in the detail](http://9gag.com/gag/aAy1PVL)<!-- MEMES:END -->
 
 ---
 

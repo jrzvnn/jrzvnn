@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/apple-watch-series-9-ultra-2-second-gen-se-best-smartwatch-how-to)
+ - [A look at enterprise browser startups like Island and Here, which aim to provide built-in browser security controls and better app integrations needed for work &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/240703/p19#a240703p19)
  - [Amazon, Best Buy launch price war on Apple&#39;s latest MacBook Pro - save up to $500](https://appleinsider.com/articles/24/07/03/amazon-best-buy-launch-price-war-on-apples-latest-macbook-pro---save-up-to-500?utm_medium=rss)
  - [A cheaper, weirder e-reader alternative to the Boox Palma](https://www.theverge.com/2024/7/3/24191451/xiaomi-moaan-inkpalm-plus-reader-e-ink-onyx-boox-palma-smartphone)
- - [Alphabet is abandoning its Mineral robo-agriculture startup](https://www.theverge.com/2024/7/3/24191582/alphabet-shutters-mineral-agriculture-robot-startup-x-labs)
- - [Best July 4th Grill Sales To Tackle the Summer in Style](https://www.cnet.com/deals/best-july-4th-grill-sales-2024-07-03/#ftag=CAD590a51e)
- - [Sources: Harvey, which builds generative AI tools for law firms, now expects to raise ~$100M at a $1.5B valuation after reported talks to raise $600M at $2B+ &lpar;The Information&rpar;](http://www.techmeme.com/240703/p18#a240703p18)<!-- TECH:END -->
+ - [Alphabet is abandoning its Mineral robo-agriculture startup](https://www.theverge.com/2024/7/3/24191582/alphabet-shutters-mineral-agriculture-robot-startup-x-labs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

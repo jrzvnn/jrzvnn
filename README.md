@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Vision Hack hackathon wants to help expand the Apple Vision Pro&#39;s tiny app library](https://appleinsider.com/articles/24/07/03/vision-hack-hackathon-wants-to-help-expand-the-apple-vision-pros-tiny-app-library?utm_medium=rss)
+ - [Google will now generate disclosures for political ads that use AI](https://www.theverge.com/2024/7/3/24191669/google-generate-disclosures-political-ads-ai)
  - [Twilio says threat actors identified the phone numbers of users of its 2FA app Authy; last week, hackers claimed to have stolen 33M phone numbers from Twilio &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/240703/p21#a240703p21)
  - [You can save $200 on a refurbished second-gen Sonos Beam](https://www.theverge.com/2024/7/3/24191483/sonos-beam-ray-soundbar-refurbished-ipad-air-deal-sale)
- - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)
- - [Marvel’s What If…? series to end with third season](https://www.theverge.com/2024/7/3/24191652/what-if-season-three-cancellation)
- - [Amazon plans to discontinue Astro for Business, its robot security guard for SMBs announced in November 2023, on September 25 to focus on its Astro home robot &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/240703/p20#a240703p20)<!-- TECH:END -->
+ - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

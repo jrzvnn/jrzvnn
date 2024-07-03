@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An investigation of US police and court documents finds 30 complaints citing 200+ explicit videos and images of minors on OnlyFans since December 2019 &lpar;Reuters&rpar;](http://www.techmeme.com/240702/p31#a240702p31)
  - [How to stop iCloud junk mail notifications from cluttering iOS 17](https://appleinsider.com/inside/icloud/tips/how-to-stop-icloud-junk-mail-notifications-from-cluttering-ios-17?utm_medium=rss)
  - [How an underground network of Chinese sellers is bypassing US export controls through supply-chain blind spots to smuggle Nvidia&#39;s advanced AI chips into China &lpar;Raffaele Huang/Wall Street Journal&rpar;](http://www.techmeme.com/240702/p30#a240702p30)
  - [Bruce Bastian, who co-created the popular word processing software WordPerfect and was an LGBTQ activist, died on June 16 at age 76 &lpar;Chris Kornelis/Wall Street Journal&rpar;](http://www.techmeme.com/240702/p29#a240702p29)
- - [Britain’s Brewing Battle Over Data Centers](https://www.wired.com/story/data-centres-uk-boom-elections/)
- - [Vulnerabilities found in Swift repository left millions of apps exposed, now patched](https://appleinsider.com/articles/24/07/03/vulnerabilities-found-in-swift-repository-left-millions-of-apps-exposed-now-patched?utm_medium=rss)<!-- TECH:END -->
+ - [Britain’s Brewing Battle Over Data Centers](https://www.wired.com/story/data-centres-uk-boom-elections/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

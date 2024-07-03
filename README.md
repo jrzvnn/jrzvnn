@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hate this idiots](http://9gag.com/gag/amo99q9)
+ - 😝 [Plain sight for 17 years](http://9gag.com/gag/ajPAndw)
+ - 😝 [Reminder everyday to be thankful you weren&#39;t born like this](http://9gag.com/gag/ae9G6gb)
+ - 💣 [From October of 2023 to April of 2024](http://9gag.com/gag/ae9G3eW)
  - 😝 [Reverse videos have always been underrated](http://9gag.com/gag/adBjYrN)
- - 💣 [How defeat a Jedi](http://9gag.com/gag/aoy90GA)
- - 😝 [Robbery attempt this morning in Switzerland &lpar;Lugano&rpar; 02.07.2024](http://9gag.com/gag/amo9zYo)
- - 👉 [Just move on.](http://9gag.com/gag/a5Q7rDG)<!-- MEMES:END -->
+ - 👉 [Which i assume you know](http://9gag.com/gag/a5Q7K7r)<!-- MEMES:END -->
 
 ---
 

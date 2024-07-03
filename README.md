@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [It&#39;s all in the detail](http://9gag.com/gag/aAy1PVL)
- - 😝 [BYD demonstrated its advanced automated driving functionality.](http://9gag.com/gag/aW466jx)
- - 💣 [Woman had her arms ripped off and colon torn out in savage pit bull attack](http://9gag.com/gag/axyjZLp)
  - 😝 [Seeenk u very much](http://9gag.com/gag/azxjrKj)
- - 👉 [Reverse videos have always been underrated](http://9gag.com/gag/adBjYrN)<!-- MEMES:END -->
+ - 💣 [Make Sweden Swedish Again!](http://9gag.com/gag/avyPrQX)
+ - 😝 [Found this post under bricks and rubble](http://9gag.com/gag/abA06Ap)
+ - 👉 [One more thing!!](http://9gag.com/gag/aqy5rQM)<!-- MEMES:END -->
 
 ---
 

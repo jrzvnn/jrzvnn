@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Reminder everyday to be thankful you weren&#39;t born like this](http://9gag.com/gag/ae9G6gb)
- - 😝 [Make Sweden Swedish Again!](http://9gag.com/gag/avyPrQX)
- - 💣 [Found this post under bricks and rubble](http://9gag.com/gag/abA06Ap)
- - 😝 [It&#39;s all in the detail](http://9gag.com/gag/aAy1PVL)
- - 👉 [BYD demonstrated its advanced automated driving functionality.](http://9gag.com/gag/aW466jx)<!-- MEMES:END -->
+ - 😝 [Drop Candy Roller](http://9gag.com/gag/aZZMpbV)
+ - 😝 [Seeenk u very much](http://9gag.com/gag/azxjrKj)
+ - 💣 [I can confirm, it is](http://9gag.com/gag/aryKOzd)
+ - 😝 [There are people watching in the stands....did they buy tickets? Happy ending is in order.](http://9gag.com/gag/awyxVqx)
+ - 👉 [Make Sweden Swedish Again!](http://9gag.com/gag/avyPrQX)<!-- MEMES:END -->
 
 ---
 

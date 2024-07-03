@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As teachers embrace new AI grading tools, saying the programs let them give students faster feedback, critics say the tools can be glitchy or grade too harshly &lpar;Sara Randazzo/Wall Street Journal&rpar;](http://www.techmeme.com/240703/p5#a240703p5)
  - [PitchBook: US startups raised $56B in Q2 2024, up 57% YoY and the highest three-month haul in two years; AI startups raised $27.1B, nearly half of the total &lpar;Erin Griffith/New York Times&rpar;](http://www.techmeme.com/240703/p4#a240703p4)
  - [Sources: the EC later in July will suggest scrapping the &amp;euro;150 threshold below which goods are exempt from customs duties, targeting Temu, AliExpress, and Shein &lpar;Financial Times&rpar;](http://www.techmeme.com/240703/p3#a240703p3)
  - [Best Smart Plugs](https://www.cnet.com/home/smart-home/best-smart-plugs/#ftag=CAD590a51e)
- - [The owners of about a third of US nuclear power plants are in talks with tech companies to provide electricity to new data centers needed to meet AI demand &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240703/p2#a240703p2)
- - [SCOTUS&#39; Chevron ruling could weaken federal cybersecurity regulations, as FCC data breach reporting requirements and other rules are likely to be challenged &lpar;Cynthia Brumfield/CSO&rpar;](http://www.techmeme.com/240703/p1#a240703p1)<!-- TECH:END -->
+ - [The owners of about a third of US nuclear power plants are in talks with tech companies to provide electricity to new data centers needed to meet AI demand &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/240703/p2#a240703p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

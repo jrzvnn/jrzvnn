@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI’s ChatGPT Mac app was storing conversations in plain text](https://www.theverge.com/2024/7/3/24191636/openai-chatgpt-mac-app-conversations-plain-text)
  - [Japan&#39;s government has finally eliminated the use of floppy disks in all its systems, after scrapping over 1,000 regulations governing their use &lpar;Rocky Swift/Reuters&rpar;](http://www.techmeme.com/240703/p22#a240703p22)
- - [Blumhouse’s Afraid brings AI terror to the smart home](https://www.theverge.com/24191696/blumhouse-afraid-trailer-smart-house)
- - [Amazon is bricking its Astro business robots less than a year after launch](https://www.theverge.com/2024/7/3/24190410/amazon-astro-business-robot-discontinued-refunds)
- - [Vision Hack hackathon wants to help expand the Apple Vision Pro&#39;s tiny app library](https://appleinsider.com/articles/24/07/03/vision-hack-hackathon-wants-to-help-expand-the-apple-vision-pros-tiny-app-library?utm_medium=rss)
- - [Google will now generate disclosures for political ads that use AI](https://www.theverge.com/2024/7/3/24191669/google-generate-disclosures-political-ads-ai)<!-- TECH:END -->
+ - [Induction Cooktop Flex](https://www.cnet.com/news/induction-cooktop-dpnl/#ftag=CAD590a51e)
+ - [Nonstick Pots &amp; Pans Set](https://www.cnet.com/news/nonstick-pots-pans-set-dpnl/#ftag=CAD590a51e)
+ - [Blumhouse’s Afraid brings AI terror to the smart home](https://www.theverge.com/24191696/blumhouse-afraid-trailer-smart-house)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

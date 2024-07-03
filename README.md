@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Proton Is Launching Encrypted Documents to Take On Google Docs](https://www.wired.com/story/proton-docs-end-to-end-encryption-google-docs/)
+ - [Proton just launched a privacy-focused alternative to Google Docs](https://www.theverge.com/2024/7/3/24190732/proton-docs-document-editor-privacy-google)
  - [Koo, an Indian rival to X that had raised $60M+ from Tiger Global, Accel, and others, is shutting down after acquisition talks with Dailyhunt fell through &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/240703/p8#a240703p8)
  - [UK-listed Keywords Studios, which provides game development, audio, and art services to clients such as Epic, agrees to a ~&amp;pound;2.1B takeover bid from PE firm EQT &lpar;Amy Thomson/Bloomberg&rpar;](http://www.techmeme.com/240703/p7#a240703p7)
- - [Social Security Payment July 2024: When Will You Get Your Check?](https://www.cnet.com/personal-finance/social-security-payment-july-2024-when-will-you-get-your-check/#ftag=CAD590a51e)
- - [The UK’s NHS Going Digital Would Be Equivalent to Hiring Thousands of New Doctors](https://www.wired.com/story/wired-health-wes-streeting-nhs-app/)
- - [Best Microwave for 2024](https://www.cnet.com/home/kitchen-and-household/best-microwaves/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Social Security Payment July 2024: When Will You Get Your Check?](https://www.cnet.com/personal-finance/social-security-payment-july-2024-when-will-you-get-your-check/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

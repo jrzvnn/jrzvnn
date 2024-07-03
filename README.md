@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Jony Ive still thinks of Steve Jobs every day](https://appleinsider.com/articles/24/07/03/jony-ive-still-thinks-of-steve-jobs-every-day?utm_medium=rss)
+ - [Apple&#39;s repair programs have more to do to satisfy New York Right to Repair law](https://appleinsider.com/articles/24/07/03/apples-repair-programs-have-more-to-do-to-satisfy-new-york-right-to-repair-law?utm_medium=rss)
+ - [How a musical indie game went against the grain to explore the Deaf experience](https://www.theverge.com/24190846/harmonium-the-musical-developer-interview-deaf-culture-experience)
  - [LG buys Homey in a very Samsung SmartThings move](https://www.theverge.com/2024/7/3/24191422/lg-homey-athom-acquisition-samsung-smartthings)
- - [Indian sends labor officials to grill Foxconn over hiring practices](https://appleinsider.com/articles/24/07/03/indian-sends-labor-officials-to-grill-foxconn-over-hiring-practices?utm_medium=rss)
- - [Alphabet winds down agriculture startup Mineral, which became an independent subsidiary in 2023, and is licensing some of its tech to berry producer Driscoll&#39;s &lpar;Julia Love/Bloomberg&rpar;](http://www.techmeme.com/240703/p13#a240703p13)
- - [WIPO: between 2014 and 2023, 54K generative AI patents were filed, 25% of which were filed in 2023; China leads with 38K+ patents, followed by the US with 6,276 &lpar;Emma Farge/Reuters&rpar;](http://www.techmeme.com/240703/p12#a240703p12)
- - [Best LED Floodlight Bulbs of 2024](https://www.cnet.com/home/kitchen-and-household/best-led-floodlight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [23 Best Fourth of July Mattress Deals &lpar;2024&rpar;](https://www.wired.com/story/best-mattress-deals-july-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

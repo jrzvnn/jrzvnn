@@ -161,9 +161,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [All the smart home news, reviews, and gadgets you need to know about](https://www.theverge.com/24190824/smart-home-news-reviews-guides-gadgets)
  - [The Game Boy Camera will soon get a second life as an awful webcam](https://www.theverge.com/2024/7/3/24191794/gb-operator-game-boy-camera-webcam-epilogue-nintendo)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [Twilio alerts Authy two-factor app users that ‘threat actors’ have their phone numbers](https://www.theverge.com/2024/7/3/24191791/twilio-authy-2fa-app-phone-numbers-hack-data-breach)
- - [A federal court in Texas temporarily blocks the US government&#39;s ban on noncompete agreements that was set to take effect September 4 &lpar;Andrea Hsu/NPR&rpar;](http://www.techmeme.com/240703/p26#a240703p26)<!-- TECH:END -->
+ - [Here&#39;s How to Marvel at the Milky Way Without a Telescope Until July 13](https://www.cnet.com/science/heres-how-to-marvel-at-the-milky-way-without-a-telescope-until-july-13/#ftag=CAD590a51e)
+ - [Get $300 Off an Anker Portable Cooler and Take Your July 4th Beverages on the Go](https://www.cnet.com/deals/get-300-off-an-anker-portable-cooler-and-take-your-july-4th-beverages-on-the-go/#ftag=CAD590a51e)
+ - [The Apple Pencil 2 Is Back to Its All-Time Low for July 4th](https://www.cnet.com/deals/the-apple-pencil-2-is-back-to-its-all-time-low-for-july-4th/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

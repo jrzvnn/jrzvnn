@@ -162,8 +162,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Jony Ive still thinks of Steve Jobs every day](https://appleinsider.com/articles/24/07/03/jony-ive-still-thinks-of-steve-jobs-every-day?utm_medium=rss)
  - [Apple&#39;s repair programs have more to do to satisfy New York Right to Repair law](https://appleinsider.com/articles/24/07/03/apples-repair-programs-have-more-to-do-to-satisfy-new-york-right-to-repair-law?utm_medium=rss)
  - [How a musical indie game went against the grain to explore the Deaf experience](https://www.theverge.com/24190846/harmonium-the-musical-developer-interview-deaf-culture-experience)
- - [LG buys Homey in a very Samsung SmartThings move](https://www.theverge.com/2024/7/3/24191422/lg-homey-athom-acquisition-samsung-smartthings)
- - [23 Best Fourth of July Mattress Deals &lpar;2024&rpar;](https://www.wired.com/story/best-mattress-deals-july-2024/)<!-- TECH:END -->
+ - [50 Best Deals in Walmart July 4th Sale: Save on Tech, Appliances, Home Goods and More](https://www.cnet.com/deals/walmart-july-4th-sale-2024-07-03/#ftag=CAD590a51e)
+ - [LG buys Homey in a very Samsung SmartThings move](https://www.theverge.com/2024/7/3/24191422/lg-homey-athom-acquisition-samsung-smartthings)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

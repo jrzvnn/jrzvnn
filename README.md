@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alphabet is abandoning its Mineral robo-agriculture startup](https://www.theverge.com/2024/7/3/24191582/alphabet-shutters-mineral-agriculture-robot-startup-x-labs)
  - [Sources: Harvey, which builds generative AI tools for law firms, now expects to raise ~$100M at a $1.5B valuation after reported talks to raise $600M at $2B+ &lpar;The Information&rpar;](http://www.techmeme.com/240703/p18#a240703p18)
  - [Apple turns to Samsung for new iPhone 16 camera sensors [u]](https://appleinsider.com/articles/24/07/02/apple-turns-to-samsung-for-new-iphone-16-camera-sensors?utm_medium=rss)
  - [Q&amp;A with Adam Mosseri on Threads&#39; first year, not leaning into political content, driving engagement, focusing on real-time content, the fediverse, and more &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/240703/p17#a240703p17)
- - [Mark Zuckerberg says Threads has 175M+ MAUs, up from 150M in April, ahead of its one-year anniversary on July 5; source: Meta may turn on ads in Threads in 2025 &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/240703/p16#a240703p16)
- - [Threads hits 175 million users after a year](https://www.theverge.com/2024/7/3/24191074/meta-threads-users-mark-zuckerberg)<!-- TECH:END -->
+ - [42 Home Improvement Deals at Home Depot That Are Hot for July 4th](https://www.cnet.com/deals/home-depot-july-4th-sale-2024-07-03/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

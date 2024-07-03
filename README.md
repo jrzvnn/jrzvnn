@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Where tf feminists now](http://9gag.com/gag/azxjLNj)
- - 😝 [Proof that Arcanine is a legendary Pokemon](http://9gag.com/gag/a6Z7yoN)
- - 💣 [Best 7 seconds of her life](http://9gag.com/gag/aoy9jAX)
- - 😝 [Gear up people down](http://9gag.com/gag/aoy9Zyn)
- - 👉 [What mystery meat is this?](http://9gag.com/gag/a2vmqvp)<!-- MEMES:END -->
+ - 😝 [Plain sight for 17 years](http://9gag.com/gag/ajPAndw)
+ - 😝 [Robbery attempt this morning in Switzerland &lpar;Lugano&rpar; 02.07.2024](http://9gag.com/gag/amo9zYo)
+ - 💣 [BYD demonstrated its advanced automated driving functionality.](http://9gag.com/gag/aW466jx)
+ - 😝 [Not so friends](http://9gag.com/gag/a9y7P3L)
+ - 👉 [Best 7 seconds of her life](http://9gag.com/gag/aoy9jAX)<!-- MEMES:END -->
 
 ---
 

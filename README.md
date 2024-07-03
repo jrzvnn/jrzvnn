@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s all in the detail](http://9gag.com/gag/aAy1PVL)
- - 😝 [BYD demonstrated its advanced automated driving functionality.](http://9gag.com/gag/aW466jx)
- - 💣 [Reminder everyday to be thankful you weren&#39;t born like this](http://9gag.com/gag/ae9G6gb)
- - 😝 [Reverse videos have always been underrated](http://9gag.com/gag/adBjYrN)
- - 👉 [Make Sweden Swedish Again!](http://9gag.com/gag/avyPrQX)<!-- MEMES:END -->
+ - 😝 [The question all successful men trouble with](http://9gag.com/gag/a9y7Y2K)
+ - 😝 [I&#39;ve never understood why all functions in cars have to be digital](http://9gag.com/gag/a2vm5bZ)
+ - 💣 [Minority!](http://9gag.com/gag/a0epYGn)
+ - 😝 [Equality](http://9gag.com/gag/apRvLNb)
+ - 👉 [Both](http://9gag.com/gag/aZZMNr9)<!-- MEMES:END -->
 
 ---
 

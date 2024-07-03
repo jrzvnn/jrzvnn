@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Found this post under bricks and rubble](http://9gag.com/gag/abA06Ap)
- - 😝 [There are people watching in the stands....did they buy tickets? Happy ending is in order.](http://9gag.com/gag/awyxVqx)
- - 💣 [Make Sweden Swedish Again!](http://9gag.com/gag/avyPrQX)
- - 😝 [Best 7 seconds of her life](http://9gag.com/gag/aoy9jAX)
- - 👉 [Wakey, wakey hands of snakey!](http://9gag.com/gag/a4PYL4Q)<!-- MEMES:END -->
+ - 😝 [After being knocked out of the Euros the Romanian team left their locker room spotless and wrote a thank you note for Germany for hosting. For many we are still gypsies but we are not so much as we used to be](http://9gag.com/gag/aZZMmLV)
+ - 😝 [One more thing!!](http://9gag.com/gag/aqy5rQM)
+ - 💣 [Simple yet so effective](http://9gag.com/gag/a4PYYwm)
+ - 😝 [What&#39;s your secret mate?](http://9gag.com/gag/aZZMm09)
+ - 👉 [Both](http://9gag.com/gag/aZZMNr9)<!-- MEMES:END -->
 
 ---
 

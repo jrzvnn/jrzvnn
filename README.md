@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Seeenk u very much](http://9gag.com/gag/azxjrKj)
+ - 😝 [Reminder everyday to be thankful you weren&#39;t born like this](http://9gag.com/gag/ae9G6gb)
+ - 😝 [One more thing!!](http://9gag.com/gag/aqy5rQM)
+ - 💣 [Make Sweden Swedish Again!](http://9gag.com/gag/avyPrQX)
  - 😝 [Reverse videos have always been underrated](http://9gag.com/gag/adBjYrN)
- - 💣 [Using the UNO reverse card against this kind of people](http://9gag.com/gag/a6Z77Nb)
- - 😝 [Wakey, wakey hands of snakey!](http://9gag.com/gag/a4PYL4Q)
- - 👉 [It&#39;s all in the detail](http://9gag.com/gag/aAy1PVL)<!-- MEMES:END -->
+ - 👉 [Best 7 seconds of her life](http://9gag.com/gag/aoy9jAX)<!-- MEMES:END -->
 
 ---
 

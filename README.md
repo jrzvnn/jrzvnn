@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wakey, wakey hands of snakey!](http://9gag.com/gag/a4PYL4Q)
- - 😝 [Reminder everyday to be thankful you weren&#39;t born like this](http://9gag.com/gag/ae9G6gb)
- - 💣 [Make Sweden Swedish Again!](http://9gag.com/gag/avyPrQX)
  - 😝 [Seeenk u very much](http://9gag.com/gag/azxjrKj)
- - 👉 [So guys.. i got fever... where can i find these half breed Asian Pacific-European girl?](http://9gag.com/gag/aVvPPmd)<!-- MEMES:END -->
+ - 😝 [BYD demonstrated its advanced automated driving functionality.](http://9gag.com/gag/aW466jx)
+ - 💣 [Your daily dose](http://9gag.com/gag/amo9rO4)
+ - 😝 [Plain sight for 17 years](http://9gag.com/gag/ajPAndw)
+ - 👉 [Dad catches his teen daughter with her boyfriend. Was he being too much?](http://9gag.com/gag/ajPAnOG)<!-- MEMES:END -->
 
 ---
 

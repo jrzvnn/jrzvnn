@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CDK Global, a software provider to ~15K North American car dealerships, says &quot;substantially all&quot; of its dealers are back online, after two cyberattacks in June &lpar;Charles Gorrivan/Bloomberg&rpar;](http://www.techmeme.com/240703/p10#a240703p10)
  - [Apple wants China to alter an antitrust ruling it already won](https://appleinsider.com/articles/24/07/03/apple-wants-china-to-alter-an-antitrust-ruling-it-already-won?utm_medium=rss)
  - [Proton launches Docs in Proton Drive, a privacy-focused alternate to Google Docs, after acquiring secure note-taking app Standard Notes in April 2024 &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240703/p9#a240703p9)
  - [Meta ordered to stop training its AI on Brazilian personal data](https://www.theverge.com/2024/7/3/24191405/meta-anpd-stop-training-ai-on-brazilian-facebook-instagram-data)
- - [Proton just launched a privacy-focused alternative to Google Docs](https://www.theverge.com/2024/7/3/24190732/proton-docs-document-editor-privacy-google)
- - [Best Solar Panel Installation Companies in Michigan](https://www.cnet.com/home/energy-and-utilities/michigan-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Proton Is Launching Encrypted Documents to Take On Google Docs](https://www.wired.com/story/proton-docs-end-to-end-encryption-google-docs/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

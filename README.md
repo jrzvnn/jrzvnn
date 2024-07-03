@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Love happy endings!](http://9gag.com/gag/aAy1r7E)
- - 😝 [Reminder everyday to be thankful you weren&#39;t born like this](http://9gag.com/gag/ae9G6gb)
- - 💣 [BYD demonstrated its advanced automated driving functionality.](http://9gag.com/gag/aW466jx)
- - 😝 [How defeat a Jedi](http://9gag.com/gag/aoy90GA)
+ - 😝 [Plain sight for 17 years](http://9gag.com/gag/ajPAndw)
+ - 😝 [BYD demonstrated its advanced automated driving functionality.](http://9gag.com/gag/aW466jx)
+ - 💣 [Reverse videos have always been underrated](http://9gag.com/gag/adBjYrN)
+ - 😝 [Best 7 seconds of her life](http://9gag.com/gag/aoy9jAX)
  - 👉 [It&#39;s all in the detail](http://9gag.com/gag/aAy1PVL)<!-- MEMES:END -->
 
 ---

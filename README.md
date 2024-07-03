@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s all in the detail](http://9gag.com/gag/aAy1PVL)
  - 😝 [Seeenk u very much](http://9gag.com/gag/azxjrKj)
- - 💣 [Make Sweden Swedish Again!](http://9gag.com/gag/avyPrQX)
- - 😝 [Found this post under bricks and rubble](http://9gag.com/gag/abA06Ap)
- - 👉 [One more thing!!](http://9gag.com/gag/aqy5rQM)<!-- MEMES:END -->
+ - 😝 [Woman had her arms ripped off and colon torn out in savage pit bull attack](http://9gag.com/gag/axyjZLp)
+ - 💣 [There are people watching in the stands....did they buy tickets? Happy ending is in order.](http://9gag.com/gag/awyxVqx)
+ - 😝 [Rocket engine designer by ai](http://9gag.com/gag/abA00Kp)
+ - 👉 [BYD demonstrated its advanced automated driving functionality.](http://9gag.com/gag/aW466jx)<!-- MEMES:END -->
 
 ---
 

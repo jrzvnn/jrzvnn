@@ -160,11 +160,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at a US State Department program to train diplomats in cybersecurity, privacy, and other tech issues, allowing them to spot threats and advance US policy &lpar;Eric Geller/Wired&rpar;](http://www.techmeme.com/240702/p26#a240702p26)
  - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
- - [This dual-screen laptop swings horizontally — and quotes the Whole Earth Catalog](https://www.theverge.com/2024/7/2/24191148/acemagic-x1-dual-screen-laptop)
- - [Sources: Magic, a US startup developing AI models for coding tasks, is in talks to raise $200M+ at a $1.5B valuation &lpar;Reuters&rpar;](http://www.techmeme.com/240702/p25#a240702p25)
- - [Snapchat adds new features, including letting Snapchat+ subscribers design a personalized house on Snap Map and send Snaps that last less than .5 seconds &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240702/p24#a240702p24)
- - [Best July 4th TV Sales: Save Big on Sony, LG, Samsung, Toshiba and More Right Now](https://www.cnet.com/deals/best-july-4th-tv-sales-2024-07-02/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Stars, Stripes and Sparkling Floors: Grab the Ecovacs Deebot T30s for 25% Off This July 4th](https://www.cnet.com/deals/grab-the-ecovacs-deebot-t30s-for-25-off-this-july-4th/#ftag=CAD590a51e)
+ - [Xbox Live Has Been Down for Hours, No Word Yet on Fix for &#39;Major Outage&#39;](https://www.cnet.com/tech/gaming/xbox-live-has-been-down-for-hours-no-word-yet-on-fix-for-major-outage/#ftag=CAD590a51e)
+ - [Best Internet Providers in Bradenton, Florida](https://www.cnet.com/home/internet/best-internet-providers-in-bradenton-fl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

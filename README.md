@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Marine Le Pen: When I come to power, I will ban hijab in all of France](http://9gag.com/gag/azxjXqp)
- - 😝 [Some cities in Germany have so called \u201cBabyklappen\u201d &lpar;baby hatch&rpar; where mothers can safely and anonymously leave their unwanted newborns.](http://9gag.com/gag/aVvPqQO)
- - 💣 [Just move on.](http://9gag.com/gag/a5Q7rDG)
- - 😝 [I can confirm, it is](http://9gag.com/gag/aryKOzd)
- - 👉 [Gotta luv women](http://9gag.com/gag/a2vmrqd)<!-- MEMES:END -->
+ - 😝 [Batgirl](http://9gag.com/gag/amo97X4)
+ - 💣 [And now I&#39;m an unemployed software engineer](http://9gag.com/gag/abA0Mqb)
+ - 😝 [How about you go F yourself ?](http://9gag.com/gag/aAy1d7o)
+ - 👉 [So who is geh?](http://9gag.com/gag/a6Z7VzA)<!-- MEMES:END -->
 
 ---
 

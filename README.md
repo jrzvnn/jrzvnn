@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Batgirl](http://9gag.com/gag/amo97X4)
  - 😝 [That&#39;s why I love Italy](http://9gag.com/gag/aO8VzZv)
+ - 💣 [The muffin man](http://9gag.com/gag/ae9GMDb)
  - 😝 [And now I&#39;m an unemployed software engineer](http://9gag.com/gag/abA0Mqb)
- - 💣 [Batgirl](http://9gag.com/gag/amo97X4)
- - 😝 [The perfect mc mod doesn\u2019t exi-](http://9gag.com/gag/ae9GMoq)
- - 👉 [How about you go F yourself ?](http://9gag.com/gag/aAy1d7o)<!-- MEMES:END -->
+ - 👉 [So who is geh?](http://9gag.com/gag/a6Z7VzA)<!-- MEMES:END -->
 
 ---
 

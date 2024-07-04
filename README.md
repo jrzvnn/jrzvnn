@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ericsson expects a $1.1B noncash impairment charge in Q2 for its 2022 purchase of cloud communications company Vonage, after a $2.9B impairment charge in 2023 &lpar;Sabela Ojea/Wall Street Journal&rpar;](http://www.techmeme.com/240703/p28#a240703p28)
+ - [Best July 4th Sales 2024: Save Up to 70% Off on Home Tech, Appliances and More](https://www.cnet.com/deals/best-july-4th-sales-2024-07-03/#ftag=CAD590a51e)
  - [Leak: Basically every spec for Samsung’s Z Fold 6 and Z Flip 6](https://www.theverge.com/2024/7/3/24191966/samsung-galaxy-z-fold-flip-6-spec-leak)
- - [The FTC’s ban against noncompete agreements is under threat](https://www.theverge.com/2024/7/3/24191946/ftc-noncompete-ban-judge-preliminary-injunction)
- - [Turn Up the Sound on July 4th With Over $150 Off the Sonos Arc Soundbar](https://www.cnet.com/deals/turn-up-the-sound-on-july-4th-with-over-150-off-the-sonos-arc-soundbar/#ftag=CAD590a51e)
- - [Microsoft agrees to pay $14.4M to settle with the California Civil Rights Department over allegations it discriminated against workers who took protected leave &lpar;Associated Press&rpar;](http://www.techmeme.com/240703/p27#a240703p27)
- - [40 Best Buy July 4th Deals You Don&#39;t Want to Miss: Savings on Tech, Appliances, Beauty Products and More](https://www.cnet.com/deals/best-buy-july-4th-sale-2024-07-03/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The FTC’s ban against noncompete agreements may be under threat](https://www.theverge.com/2024/7/3/24191946/ftc-noncompete-ban-judge-preliminary-injunction)
+ - [Turn Up the Sound on July 4th With Over $150 Off the Sonos Arc Soundbar](https://www.cnet.com/deals/turn-up-the-sound-on-july-4th-with-over-150-off-the-sonos-arc-soundbar/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

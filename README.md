@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s M3 14-inch MacBook Pro with 16GB RAM, 1TB SSD plunges to $1,699](https://appleinsider.com/articles/24/07/04/apples-m3-14-inch-macbook-pro-with-16gb-ram-1tb-ssd-plunges-to-1699?utm_medium=rss)
  - [The Best Sleeping Pads for Every Kind of Camping &lpar;2024&rpar;](https://www.wired.com/story/best-sleeping-pads/)
  - [Microsoft’s Midnight Blizzard source code breach also impacted federal agencies](https://www.theverge.com/2024/7/4/24192159/microsoft-midnight-blizzard-hack-targets)
  - [Dear Roku, you ruined my TV](https://www.theverge.com/24188282/roku-tv-update-motion-smoothing-turn-off)
- - [Best July 4th Laptop Sales: Jaw-Dropping Discounts on Apple, HP, Lenovo and More](https://www.cnet.com/deals/july-4th-laptop-deals-2024-07-04/#ftag=CAD590a51e)
- - [The Google Pixel 7 Pro Starts at Just $390 With These Woot July 4th Deals](https://www.cnet.com/deals/the-google-pixel-7-pro-starts-at-just-390-with-these-woot-july-4th-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best July 4th Laptop Sales: Jaw-Dropping Discounts on Apple, HP, Lenovo and More](https://www.cnet.com/deals/july-4th-laptop-deals-2024-07-04/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

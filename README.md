@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Every workplace has this girl who is engaged](http://9gag.com/gag/aYQeKYm)
- - 😝 [I can confirm, it is](http://9gag.com/gag/aryKOzd)
- - 💣 [What&#39;s your secret mate?](http://9gag.com/gag/aZZMm09)
- - 😝 [Dad catches his teen daughter with her boyfriend. Was he being too much?](http://9gag.com/gag/ajPAnOG)
- - 👉 [Just move on.](http://9gag.com/gag/a5Q7rDG)<!-- MEMES:END -->
+ - 😝 [After being knocked out of the Euros the Romanian team left their locker room spotless and wrote a thank you note for Germany for hosting. For many we are still gypsies but we are not so much as we used to be](http://9gag.com/gag/aZZMmLV)
+ - 😝 [Make Sweden Swedish Again!](http://9gag.com/gag/avyPrQX)
+ - 💣 [Stress level went down 1000%](http://9gag.com/gag/aoy9162)
+ - 😝 [Rabbit hole](http://9gag.com/gag/aD2oWnx)
+ - 👉 [Smooth taekwondo](http://9gag.com/gag/aByYW4Z)<!-- MEMES:END -->
 
 ---
 

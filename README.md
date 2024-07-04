@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Found this post under bricks and rubble](http://9gag.com/gag/abA06Ap)
- - 😝 [Your daily dose](http://9gag.com/gag/amo9rO4)
- - 💣 [He was not ready for that.](http://9gag.com/gag/a2vm49e)
- - 😝 [I can confirm, it is](http://9gag.com/gag/aryKOzd)
- - 👉 [Gotta luv women](http://9gag.com/gag/a2vmrqd)<!-- MEMES:END -->
+ - 😝 [How about you go F yourself ?](http://9gag.com/gag/aAy1d7o)
+ - 😝 [Make Sweden Swedish Again!](http://9gag.com/gag/avyPrQX)
+ - 💣 [There are people watching in the stands....did they buy tickets? Happy ending is in order.](http://9gag.com/gag/awyxVqx)
+ - 😝 [Every workplace has this girl who is engaged](http://9gag.com/gag/aYQeKYm)
+ - 👉 [Olivia Hussey, the girl who played Juliet in &#39;Romeo and Juliet&#39; in 1968. She even shows bobs there which is cool.](http://9gag.com/gag/ajPADKp)<!-- MEMES:END -->
 
 ---
 

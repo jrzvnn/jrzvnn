@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So who is geh?](http://9gag.com/gag/a6Z7VzA)
- - 😝 [Make Sweden Swedish Again!](http://9gag.com/gag/avyPrQX)
- - 💣 [Stress level went down 1000%](http://9gag.com/gag/aoy9162)
- - 😝 [Stunt man at next f**king lvl](http://9gag.com/gag/aVvPqNn)
- - 👉 [Smooth taekwondo](http://9gag.com/gag/aByYW4Z)<!-- MEMES:END -->
+ - 😝 [Letting it all hang out.](http://9gag.com/gag/a6Z7V09)
+ - 😝 [There are people watching in the stands....did they buy tickets? Happy ending is in order.](http://9gag.com/gag/awyxVqx)
+ - 💣 [Gotta luv women](http://9gag.com/gag/a2vmrqd)
+ - 😝 [So guys.. i got fever... where can i find these half breed Asian Pacific-European girl?](http://9gag.com/gag/aVvPPmd)
+ - 👉 [Olivia Hussey, the girl who played Juliet in &#39;Romeo and Juliet&#39; in 1968. She even shows bobs there which is cool.](http://9gag.com/gag/ajPADKp)<!-- MEMES:END -->
 
 ---
 

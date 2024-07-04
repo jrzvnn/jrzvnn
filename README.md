@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Batgirl](http://9gag.com/gag/amo97X4)
- - 😝 [That&#39;s why I love Italy](http://9gag.com/gag/aO8VzZv)
- - 💣 [The muffin man](http://9gag.com/gag/ae9GMDb)
- - 😝 [And now I&#39;m an unemployed software engineer](http://9gag.com/gag/abA0Mqb)
- - 👉 [So who is geh?](http://9gag.com/gag/a6Z7VzA)<!-- MEMES:END -->
+ - 😝 [Gotta luv women](http://9gag.com/gag/a2vmrqd)
+ - 😝 [Just move on.](http://9gag.com/gag/a5Q7rDG)
+ - 💣 [Found this post under bricks and rubble](http://9gag.com/gag/abA06Ap)
+ - 😝 [Is this bait for this types of pictures in the comments? Maybe](http://9gag.com/gag/aE07xdK)
+ - 👉 [Found on my old smartphone](http://9gag.com/gag/aYQex9V)<!-- MEMES:END -->
 
 ---
 

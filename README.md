@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He was not ready for that.](http://9gag.com/gag/a2vm49e)
- - 😝 [How about you go F yourself ?](http://9gag.com/gag/aAy1d7o)
- - 💣 [Olivia Hussey, the girl who played Juliet in &#39;Romeo and Juliet&#39; in 1968. She even shows bobs there which is cool.](http://9gag.com/gag/ajPADKp)
- - 😝 [Seeenk u very much](http://9gag.com/gag/azxjrKj)
- - 👉 [Gotta luv women](http://9gag.com/gag/a2vmrqd)<!-- MEMES:END -->
+ - 😝 [That&#39;s so cute](http://9gag.com/gag/azxjXbz)
+ - 😝 [Smooth taekwondo](http://9gag.com/gag/aByYW4Z)
+ - 💣 [Do you agree?](http://9gag.com/gag/aMVG8Rx)
+ - 😝 [Batgirl](http://9gag.com/gag/amo97X4)
+ - 👉 [I could still dream](http://9gag.com/gag/aYQe4nO)<!-- MEMES:END -->
 
 ---
 

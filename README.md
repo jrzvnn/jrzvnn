@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How about you go F yourself ?](http://9gag.com/gag/aAy1d7o)
- - 😝 [Make Sweden Swedish Again!](http://9gag.com/gag/avyPrQX)
+ - 😝 [It&#39;s all in the detail](http://9gag.com/gag/aAy1PVL)
+ - 😝 [Your daily dose](http://9gag.com/gag/amo9rO4)
  - 💣 [There are people watching in the stands....did they buy tickets? Happy ending is in order.](http://9gag.com/gag/awyxVqx)
  - 😝 [Every workplace has this girl who is engaged](http://9gag.com/gag/aYQeKYm)
- - 👉 [Olivia Hussey, the girl who played Juliet in &#39;Romeo and Juliet&#39; in 1968. She even shows bobs there which is cool.](http://9gag.com/gag/ajPADKp)<!-- MEMES:END -->
+ - 👉 [Make Sweden Swedish Again!](http://9gag.com/gag/avyPrQX)<!-- MEMES:END -->
 
 ---
 

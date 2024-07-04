@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stunt man at next f**king lvl](http://9gag.com/gag/aVvPqNn)
- - 😝 [Smooth taekwondo](http://9gag.com/gag/aByYW4Z)
- - 💣 [Is this bait for this types of pictures in the comments? Maybe](http://9gag.com/gag/aE07xdK)
- - 😝 [I could still dream](http://9gag.com/gag/aYQe4nO)
- - 👉 [And now I&#39;m an unemployed software engineer](http://9gag.com/gag/abA0Mqb)<!-- MEMES:END -->
+ - 😝 [Found this post under bricks and rubble](http://9gag.com/gag/abA06Ap)
+ - 😝 [Your daily dose](http://9gag.com/gag/amo9rO4)
+ - 💣 [He was not ready for that.](http://9gag.com/gag/a2vm49e)
+ - 😝 [I can confirm, it is](http://9gag.com/gag/aryKOzd)
+ - 👉 [Gotta luv women](http://9gag.com/gag/a2vmrqd)<!-- MEMES:END -->
 
 ---
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An investigation details how online gambling giants Flutter and Entain employ practices in the US that they dropped in the UK after admitting risks to UK users &lpar;Tom Bergin/Reuters&rpar;](http://www.techmeme.com/240704/p2#a240704p2)
  - [OpenText announces plans to cut 1,200 jobs and add 800 jobs, a ~1.7% reduction of its workforce, and expects to reduce its annual expenses by CA$150M in 2025 &lpar;CRN&rpar;](http://www.techmeme.com/240704/p1#a240704p1)
  - [Nectar’s Fourth of July Sale Will Save You Up to 40% on Popular Beds](https://www.cnet.com/deals/nectar-4th-of-july-2024/#ftag=CAD590a51e)
  - [Boox Go Color 7 review: a simulacra of the paperback experience](https://appleinsider.com/articles/24/07/04/boox-go-color-7-review-a-simulacra-of-the-paperback-experience?utm_medium=rss)
- - [Canada authorizes the implementation of a 3% levy on revenue from large tech companies that provide digital services to or sell data of Canadian users &lpar;Paul Vieira/Wall Street Journal&rpar;](http://www.techmeme.com/240703/p29#a240703p29)
- - [Today&#39;s Wordle Hints, Answer and Help for July 4, #1111](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-4-1111/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Canada authorizes the implementation of a 3% levy on revenue from large tech companies that provide digital services to or sell data of Canadian users &lpar;Paul Vieira/Wall Street Journal&rpar;](http://www.techmeme.com/240703/p29#a240703p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

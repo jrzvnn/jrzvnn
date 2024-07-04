@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon Kindle users are unable to download new and previously purchased books to their Kindles; Amazon says the outage could last at least 48 hours &lpar;Michael Kozlowski/Good e-Reader&rpar;](http://www.techmeme.com/240704/p13#a240704p13)
  - [Google might fix its fingerprint scanner woes with the Pixel 9](https://www.theverge.com/2024/7/4/24192266/google-pixel-9-ultrasonic-fingerprint-scanner-sensor)
  - [Amazon Kindle book downloads are broken](https://www.theverge.com/2024/7/4/24192228/amazon-kindle-downloading-is-down-outage-ebooks-e-readers)
- - [Best July 4th Appliance Deals: Samsung, LG, KitchenAid and More Drop Prices Significantly](https://www.cnet.com/deals/best-july-4th-appliance-sales-2024-07-04/#ftag=CAD590a51e)
- - [Best Apple July 4th Deals: 32 Top Deals on AirPods, Apple Watch, MacBooks and More](https://www.cnet.com/deals/apple-july-4th-deals-2024-07-04/#ftag=CAD590a51e)
- - [Netgear R6700AX Review: Fast Speeds, but Higher Latency](https://www.cnet.com/home/internet/netgear-r6700ax-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon’s Fire HD 10 tablet is nearly 50 percent off for Prime members](https://www.theverge.com/2024/7/4/24191765/amazon-fire-hd-10-tablet-philips-hue-solo-light-strip-deal-sale)
+ - [Meta releases pre-trained models that use a novel multi-token prediction approach, available on Hugging Face under a non-commercial research license &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240704/p12#a240704p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

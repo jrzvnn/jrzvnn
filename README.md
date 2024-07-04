@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rocket engine designer by ai](http://9gag.com/gag/abA00Kp)
- - 😝 [Make Sweden Swedish Again!](http://9gag.com/gag/avyPrQX)
- - 💣 [Impressive](http://9gag.com/gag/aO8VzNr)
- - 😝 [Every workplace has this girl who is engaged](http://9gag.com/gag/aYQeKYm)
- - 👉 [Stunt man at next f**king lvl](http://9gag.com/gag/aVvPqNn)<!-- MEMES:END -->
+ - 😝 [Dad catches his teen daughter with her boyfriend. Was he being too much?](http://9gag.com/gag/ajPAnOG)
+ - 😝 [I can confirm, it is](http://9gag.com/gag/aryKOzd)
+ - 💣 [Here kitty kitty](http://9gag.com/gag/a9y7AdD)
+ - 😝 [Impressive](http://9gag.com/gag/aO8VzNr)
+ - 👉 [Olivia Hussey, the girl who played Juliet in &#39;Romeo and Juliet&#39; in 1968. She even shows bobs there which is cool.](http://9gag.com/gag/ajPADKp)<!-- MEMES:END -->
 
 ---
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rabbit hole](http://9gag.com/gag/aD2oWnx)
- - 😝 [Make Sweden Swedish Again!](http://9gag.com/gag/avyPrQX)
- - 💣 [Stress level went down 1000%](http://9gag.com/gag/aoy9162)
- - 😝 [Stunt man at next f**king lvl](http://9gag.com/gag/aVvPqNn)
- - 👉 [Smooth taekwondo](http://9gag.com/gag/aByYW4Z)<!-- MEMES:END -->
+ - 😝 [Did they live?](http://9gag.com/gag/apRvpWp)
+ - 😝 [Found this post under bricks and rubble](http://9gag.com/gag/abA06Ap)
+ - 💣 [Your daily dose](http://9gag.com/gag/amo9rO4)
+ - 😝 [So guys.. i got fever... where can i find these half breed Asian Pacific-European girl?](http://9gag.com/gag/aVvPPmd)
+ - 👉 [Every workplace has this girl who is engaged](http://9gag.com/gag/aYQeKYm)<!-- MEMES:END -->
 
 ---
 

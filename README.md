@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He was not ready for that.](http://9gag.com/gag/a2vm49e)
- - 😝 [There are people watching in the stands....did they buy tickets? Happy ending is in order.](http://9gag.com/gag/awyxVqx)
+ - 😝 [Found this post under bricks and rubble](http://9gag.com/gag/abA06Ap)
+ - 😝 [How about you go F yourself ?](http://9gag.com/gag/aAy1d7o)
  - 💣 [Marine Le Pen: When I come to power, I will ban hijab in all of France](http://9gag.com/gag/azxjXqp)
- - 😝 [Gotta luv women](http://9gag.com/gag/a2vmrqd)
- - 👉 [I can confirm, it is](http://9gag.com/gag/aryKOzd)<!-- MEMES:END -->
+ - 😝 [Found on my old smartphone](http://9gag.com/gag/aYQex9V)
+ - 👉 [Is this bait for this types of pictures in the comments? Maybe](http://9gag.com/gag/aE07xdK)<!-- MEMES:END -->
 
 ---
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [After being knocked out of the Euros the Romanian team left their locker room spotless and wrote a thank you note for Germany for hosting. For many we are still gypsies but we are not so much as we used to be](http://9gag.com/gag/aZZMmLV)
- - 😝 [Stress level went down 1000%](http://9gag.com/gag/aoy9162)
- - 💣 [Make Sweden Swedish Again!](http://9gag.com/gag/avyPrQX)
- - 😝 [Rabbit hole](http://9gag.com/gag/aD2oWnx)
- - 👉 [Smooth taekwondo](http://9gag.com/gag/aByYW4Z)<!-- MEMES:END -->
+ - 😝 [We&#39;re apparently back to phrenology on 2024&#39;s twitter.](http://9gag.com/gag/a5Q7Z5y)
+ - 😝 [Found this post under bricks and rubble](http://9gag.com/gag/abA06Ap)
+ - 💣 [Best 7 seconds of her life](http://9gag.com/gag/aoy9jAX)
+ - 😝 [Best game physics](http://9gag.com/gag/adBjj4d)
+ - 👉 [So guys.. i got fever... where can i find these half breed Asian Pacific-European girl?](http://9gag.com/gag/aVvPPmd)<!-- MEMES:END -->
 
 ---
 

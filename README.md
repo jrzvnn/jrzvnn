@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [South Korea unveils a monitoring system to find crypto exchange accounts linked to &quot;suspected&quot; trading activity, as a new law takes effect on July 19 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240704/p17#a240704p17)
  - [Get $30 Off Google&#39;s Nest Cam With Amazon&#39;s Brilliant July 4th Deals](https://www.cnet.com/deals/google-nest-cam-30-off-amazon-july-4th-deals/#ftag=CAD590a51e)
  - [Amazon and Ring Smart Home Devices Are as Low as $12 at Woot on July 4th](https://www.cnet.com/deals/amazon-ring-smart-home-devices-woot-july-4th/#ftag=CAD590a51e)
  - [Best AirPods Pro Accessories for 2024](https://www.cnet.com/tech/mobile/best-airpods-pro-accessories/#ftag=CAD590a51e)
- - [Microsoft-owned Mojang is exploring deals in areas like merchandising, education, and streaming, on top of movies and TV series, as gaming sector growth slows &lpar;Bloomberg&rpar;](http://www.techmeme.com/240704/p16#a240704p16)
- - [July 4th Sales at Home Depot: Unbeatable Savings on Outdoor Equipment, Tools, Appliances and More](https://www.cnet.com/deals/home-depot-july-4th-sale-2024-07-04/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft-owned Mojang is exploring deals in areas like merchandising, education, and streaming, on top of movies and TV series, as gaming sector growth slows &lpar;Bloomberg&rpar;](http://www.techmeme.com/240704/p16#a240704p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

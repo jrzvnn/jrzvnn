@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Buy knocks 40% off Backbone One gaming controller for iPhone today only](https://appleinsider.com/articles/24/07/04/best-buy-knocks-40-off-backbone-one-gaming-controller-for-iphone-today-only?utm_medium=rss)
  - [Amazon Kindle users are unable to download new and previously purchased books to their Kindles; Amazon says the outage could last at least 48 hours &lpar;Michael Kozlowski/Good e-Reader&rpar;](http://www.techmeme.com/240704/p13#a240704p13)
  - [Google might fix its fingerprint scanner woes with the Pixel 9](https://www.theverge.com/2024/7/4/24192266/google-pixel-9-ultrasonic-fingerprint-scanner-sensor)
  - [Amazon Kindle book downloads are broken](https://www.theverge.com/2024/7/4/24192228/amazon-kindle-downloading-is-down-outage-ebooks-e-readers)
- - [Amazon’s Fire HD 10 tablet is nearly 50 percent off for Prime members](https://www.theverge.com/2024/7/4/24191765/amazon-fire-hd-10-tablet-philips-hue-solo-light-strip-deal-sale)
- - [Meta releases pre-trained models that use a novel multi-token prediction approach, available on Hugging Face under a non-commercial research license &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240704/p12#a240704p12)<!-- TECH:END -->
+ - [Amazon’s Fire HD 10 tablet is nearly 50 percent off for Prime members](https://www.theverge.com/2024/7/4/24191765/amazon-fire-hd-10-tablet-philips-hue-solo-light-strip-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

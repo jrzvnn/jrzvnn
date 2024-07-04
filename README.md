@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dad catches his teen daughter with her boyfriend. Was he being too much?](http://9gag.com/gag/ajPAnOG)
+ - 😝 [Every workplace has this girl who is engaged](http://9gag.com/gag/aYQeKYm)
  - 😝 [I can confirm, it is](http://9gag.com/gag/aryKOzd)
- - 💣 [Here kitty kitty](http://9gag.com/gag/a9y7AdD)
- - 😝 [Impressive](http://9gag.com/gag/aO8VzNr)
- - 👉 [Olivia Hussey, the girl who played Juliet in &#39;Romeo and Juliet&#39; in 1968. She even shows bobs there which is cool.](http://9gag.com/gag/ajPADKp)<!-- MEMES:END -->
+ - 💣 [What&#39;s your secret mate?](http://9gag.com/gag/aZZMm09)
+ - 😝 [Dad catches his teen daughter with her boyfriend. Was he being too much?](http://9gag.com/gag/ajPAnOG)
+ - 👉 [Just move on.](http://9gag.com/gag/a5Q7rDG)<!-- MEMES:END -->
 
 ---
 

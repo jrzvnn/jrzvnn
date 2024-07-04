@@ -161,9 +161,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [ElevenLabs will use AI-generated voices of dead actors like Judy Garland and Burt Reynolds in its Reader app, after striking deals with the actors&#39; estates &lpar;Samantha Murphy Kelly/CNN&rpar;](http://www.techmeme.com/240704/p11#a240704p11)
  - [Apple&#39;s M3 14-inch MacBook Pro with 16GB RAM, 1TB SSD plunges to $1,699](https://appleinsider.com/articles/24/07/04/apples-m3-14-inch-macbook-pro-with-16gb-ram-1tb-ssd-plunges-to-1699?utm_medium=rss)
- - [The Best Sleeping Pads for Every Kind of Camping &lpar;2024&rpar;](https://www.wired.com/story/best-sleeping-pads/)
- - [Microsoft’s Midnight Blizzard source code breach also impacted federal agencies](https://www.theverge.com/2024/7/4/24192159/microsoft-midnight-blizzard-hack-targets)
- - [Dear Roku, you ruined my TV](https://www.theverge.com/24188282/roku-tv-update-motion-smoothing-turn-off)<!-- TECH:END -->
+ - [Get Beats Studio Pro Headphones at 51% Off With This July 4th Deal](https://www.cnet.com/deals/beats-studio-pro-headphones-51-off-with-july-4th-deal/#ftag=CAD590a51e)
+ - [My Favorite Smart Lamp Is Nearly Half Off for July 4th](https://www.cnet.com/deals/my-favorite-smart-lamp-is-nearly-half-off-for-july-4th/#ftag=CAD590a51e)
+ - [The Best Sleeping Pads for Every Kind of Camping &lpar;2024&rpar;](https://www.wired.com/story/best-sleeping-pads/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

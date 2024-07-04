@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Make Sweden Swedish Again!](http://9gag.com/gag/avyPrQX)
- - 😝 [Smooth taekwondo](http://9gag.com/gag/aByYW4Z)
- - 💣 [What&#39;s your secret mate?](http://9gag.com/gag/aZZMm09)
- - 😝 [Just move on.](http://9gag.com/gag/a5Q7rDG)
- - 👉 [Best 7 seconds of her life](http://9gag.com/gag/aoy9jAX)<!-- MEMES:END -->
+ - 😝 [Rocket engine designer by ai](http://9gag.com/gag/abA00Kp)
+ - 😝 [Your daily dose](http://9gag.com/gag/amo9rO4)
+ - 💣 [I can confirm, it is](http://9gag.com/gag/aryKOzd)
+ - 😝 [Every workplace has this girl who is engaged](http://9gag.com/gag/aYQeKYm)
+ - 👉 [What&#39;s your secret mate?](http://9gag.com/gag/aZZMm09)<!-- MEMES:END -->
 
 ---
 

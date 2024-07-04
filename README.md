@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s entire iPad lineup for the next year may have just been leaked](https://appleinsider.com/articles/24/07/04/apples-entire-ipad-lineup-for-the-next-year-may-have-just-been-leaked?utm_medium=rss)
+ - [Evan Blass leaks Samsung&#39;s entire specs sheets and marketing materials for the Galaxy Z Fold 6 and Galaxy Z Flip 6, expected at its Unpacked event on July 10 &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/240704/p9#a240704p9)
+ - [Kobo’s great color e-readers are held back by lock-in](https://www.theverge.com/2024/7/4/24158251/kobo-libra-clara-colour-e-reader-review)
  - [Authy got hacked, and 33 million user phone numbers were stolen](https://appleinsider.com/articles/24/07/04/authy-got-hacked-and-33-million-user-phone-numbers-were-stolen?utm_medium=rss)
- - [Apple turns to Samsung for new iPhone 16 camera sensors](https://appleinsider.com/articles/24/07/02/apple-turns-to-samsung-for-new-iphone-16-camera-sensors?utm_medium=rss)
- - [A look at the inaugural Esports World Cup, a multi-genre tournament in Riyadh funded by Saudi Arabia, featuring 1,500+ gamers and a record $60M+ prize pool &lpar;Bloomberg&rpar;](http://www.techmeme.com/240704/p8#a240704p8)
- - [The New ‘Ethical’ AI Music Generator Can’t Write a Halfway Decent Song](https://www.wired.com/story/the-new-ethical-ai-music-generator-cant-write-a-halfway-decent-song/)
- - [A look at a16z&#39;s Crypto Startup Accelerator, a Y Combinator-style program that provides $500K in funding and 10 weeks of coaching, most recently in London &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/240704/p7#a240704p7)<!-- TECH:END -->
+ - [Apple turns to Samsung for new iPhone 16 camera sensors](https://appleinsider.com/articles/24/07/02/apple-turns-to-samsung-for-new-iphone-16-camera-sensors?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

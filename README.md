@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Seeenk u very much](http://9gag.com/gag/azxjrKj)
+ - 😝 [Reminder everyday to be thankful you weren&#39;t born like this](http://9gag.com/gag/ae9G6gb)
+ - 💣 [Make Sweden Swedish Again!](http://9gag.com/gag/avyPrQX)
  - 😝 [Rocket engine designer by ai](http://9gag.com/gag/abA00Kp)
- - 😝 [Your daily dose](http://9gag.com/gag/amo9rO4)
- - 💣 [I can confirm, it is](http://9gag.com/gag/aryKOzd)
- - 😝 [Every workplace has this girl who is engaged](http://9gag.com/gag/aYQeKYm)
- - 👉 [What&#39;s your secret mate?](http://9gag.com/gag/aZZMm09)<!-- MEMES:END -->
+ - 👉 [Every workplace has this girl who is engaged](http://9gag.com/gag/aYQeKYm)<!-- MEMES:END -->
 
 ---
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 63 Best Movies on Disney+ Right Now &lpar;July 2024&rpar;](https://www.wired.com/story/best-movies-disney-plus/)
- - [Sources: the EU plans to issue a final warning to X over its failure to combat dangerous content under the DSA; X faces fines of 6% of its global revenue &lpar;Bloomberg&rpar;](http://www.techmeme.com/240704/p14#a240704p14)
- - [Best Buy knocks 40% off Backbone One gaming controller for iPhone today only](https://appleinsider.com/articles/24/07/04/best-buy-knocks-40-off-backbone-one-gaming-controller-for-iphone-today-only?utm_medium=rss)
- - [Best July 4th Sales 2024: Hundreds of Deals Happening Right Now](https://www.cnet.com/deals/best-july-4th-sales-2024-07-04/#ftag=CAD590a51e)
- - [Amazon Kindle users are unable to download new and previously purchased books to their Kindles; Amazon says the outage could last at least 48 hours &lpar;Michael Kozlowski/Good e-Reader&rpar;](http://www.techmeme.com/240704/p13#a240704p13)<!-- TECH:END -->
+ - [Snag Anker&#39;s EverFrost Cooler While It&#39;s $300 Off This July 4th](https://www.cnet.com/deals/snag-ankers-everfrost-cooler-while-its-300-off-this-july-4th/#ftag=CAD590a51e)
+ - [Don&#39;t Wait for Prime Day. These 48 Amazon July 4th Deals Are Worth Buying Today](https://www.cnet.com/deals/amazon-july-4th-sale-2024-07-04/#ftag=CAD590a51e)
+ - [Save Big on Eero Wi-Fi 7 Mesh Routers During Amazon&#39;s July 4th Sale](https://www.cnet.com/deals/save-big-on-eero-wi-fi-7-mesh-routers-during-amazons-july-4th-sale/#ftag=CAD590a51e)
+ - [July 4th Deal: $100 Off Amazon&#39;s Eero 6 Plus Mesh Wi-Fi Router](https://www.cnet.com/deals/july-4th-deal-100-off-amazons-eero-6-plus-mesh-wi-fi-router/#ftag=CAD590a51e)
+ - [Samsung&#39;s 512GB Galaxy Z Flip 5 Gets July 4th Markdown Before Unpacked](https://www.cnet.com/deals/samsungs-512gb-galaxy-z-flip-5-gets-july-4th-markdown-before-unpacked/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

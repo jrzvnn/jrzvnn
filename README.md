@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Microsoft-owned Mojang is exploring deals in areas like merchandising, education, and streaming, on top of movies and TV series, as gaming sector growth slows &lpar;Bloomberg&rpar;](http://www.techmeme.com/240704/p16#a240704p16)
- - [Plan Your Summer Travel With 90% Off OneAir Elite&#39;s Lifetime Subscription on July 4th](https://www.cnet.com/deals/summer-travel-90-off-oneair-elite-lifetime-subscription-july-4th/#ftag=CAD590a51e)
- - [Best July 4th Sales 2024: Our Favorite Offers from Home Depot, Amazon, Best Buy and More](https://www.cnet.com/deals/best-july-4th-sales-2024-07-04/#ftag=CAD590a51e)
- - [The Samsung Galaxy A35 Is Down to Its Lowest Price Yet for July 4th](https://www.cnet.com/deals/samsung-galaxy-a35-down-lowest-price-yet-july-4th/#ftag=CAD590a51e)
- - [Best Speakerphone in 2024 for Working From Home](https://www.cnet.com/tech/mobile/best-speakerphone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [July 4th Mattress Sales: Save Hundreds on Vaya, Saatva, Brooklyn Bedding, Layla, Nest and More](https://www.cnet.com/deals/best-mattress-sales/#ftag=CAD590a51e)
+ - [The New LG OLED TV Is Seeing All-Time Low Prices This July 4th](https://www.cnet.com/deals/lg-oled-tv-low-prices-july-4th/#ftag=CAD590a51e)
+ - [Apple&#39;s iPhone 15 Is $150 Off on July 4th Week at Woot](https://www.cnet.com/deals/apples-iphone-15-is-150-off-on-july-4th-week-at-woot/#ftag=CAD590a51e)
+ - [Celebrate July 4th With a 75-Inch Toshiba C350 4K Fire TV for Less Than $500](https://www.cnet.com/deals/celebrate-july-4th-with-a-75-inch-toshiba-c350-4k-fire-tv-for-less-than-500/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

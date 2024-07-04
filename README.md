@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 63 Best Movies on Disney+ Right Now &lpar;July 2024&rpar;](https://www.wired.com/story/best-movies-disney-plus/)
  - [Sources: the EU plans to issue a final warning to X over its failure to combat dangerous content under the DSA; X faces fines of 6% of its global revenue &lpar;Bloomberg&rpar;](http://www.techmeme.com/240704/p14#a240704p14)
  - [Best Buy knocks 40% off Backbone One gaming controller for iPhone today only](https://appleinsider.com/articles/24/07/04/best-buy-knocks-40-off-backbone-one-gaming-controller-for-iphone-today-only?utm_medium=rss)
  - [Best July 4th Sales 2024: Hundreds of Deals Happening Right Now](https://www.cnet.com/deals/best-july-4th-sales-2024-07-04/#ftag=CAD590a51e)
- - [Amazon Kindle users are unable to download new and previously purchased books to their Kindles; Amazon says the outage could last at least 48 hours &lpar;Michael Kozlowski/Good e-Reader&rpar;](http://www.techmeme.com/240704/p13#a240704p13)
- - [Everyone Needs a Multitool. This One Is Discounted for July 4th Before Amazon Prime Day](https://www.cnet.com/deals/everyone-needs-a-multitool-this-one-is-discounted-for-july-4th-before-amazon-prime-day/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon Kindle users are unable to download new and previously purchased books to their Kindles; Amazon says the outage could last at least 48 hours &lpar;Michael Kozlowski/Good e-Reader&rpar;](http://www.techmeme.com/240704/p13#a240704p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

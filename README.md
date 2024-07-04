@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft agrees to pay $14.4M to settle with the California Civil Rights Department over allegations it discriminated against workers who took protected leave &lpar;Associated Press&rpar;](http://www.techmeme.com/240703/p27#a240703p27)
+ - [21 Best Target July 4th Deals: Shop Incredible Savings on Tech, Appliances, Beauty Products and More](https://www.cnet.com/deals/target-july-4th-sale-2024-07-03/#ftag=CAD590a51e)
  - [The Verge’s guide to Amazon Prime Day 2024](https://www.theverge.com/24191617/amazon-prime-day-tech-deals-guide-2024)
- - [The best Prime Day deals you can already get](https://www.theverge.com/24186583/amazon-prime-day-2024-best-tech-deals-sales)
- - [Best Internet Providers in Clarksburg, West Virginia](https://www.cnet.com/home/internet/best-internet-providers-in-clarksburg-wv/#ftag=CAD590a51e)
- - [Fire Up the Grill and Save at Blackstone&#39;s Big 4th of July Sale](https://www.cnet.com/deals/fire-up-the-grill-and-save-at-blackstones-big-4th-of-july-sale/#ftag=CAD590a51e)
- - [This July 4th Weekend Save $100 on Our Top Robot Vacuum of the Year](https://www.cnet.com/deals/this-july-4th-weekend-save-100-on-our-top-robot-vacuum-of-the-year/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This July 4th Get the 512GB Galaxy Z Flip 5 for the Same Price as the 256GB Model](https://www.cnet.com/deals/this-july-4th-get-the-512gb-galaxy-z-flip-5-for-the-same-price-as-the-256gb-model/#ftag=CAD590a51e)
+ - [July 4th Sales 2024: Save Big on the Best Deals With Up to 70% Off on Home Tech, Appliances and More](https://www.cnet.com/deals/best-july-4th-sales-2024-07-03/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

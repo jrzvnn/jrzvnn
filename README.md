@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ms. Le Pen met the Grand Mufti of Al Azhar. The Mufti asked him to put on her veil to visit her. Le Pen, I wish you good afternoon. Separating the political color, She acted like a true empowering woman as well as a feminist.](http://9gag.com/gag/aE07x5n)
- - 😝 [It&#39;s same as spiderteen having a hot aunt.](http://9gag.com/gag/aW468A6)
- - 💣 [How about you go F yourself ?](http://9gag.com/gag/aAy1d7o)
- - 😝 [Olivia Hussey, the girl who played Juliet in &#39;Romeo and Juliet&#39; in 1968. She even shows bobs there which is cool.](http://9gag.com/gag/ajPADKp)
- - 👉 [Every workplace has this girl who is engaged](http://9gag.com/gag/aYQeKYm)<!-- MEMES:END -->
+ - 😝 [That&#39;s why I love Italy](http://9gag.com/gag/aO8VzZv)
+ - 😝 [And now I&#39;m an unemployed software engineer](http://9gag.com/gag/abA0Mqb)
+ - 💣 [Batgirl](http://9gag.com/gag/amo97X4)
+ - 😝 [The perfect mc mod doesn\u2019t exi-](http://9gag.com/gag/ae9GMoq)
+ - 👉 [How about you go F yourself ?](http://9gag.com/gag/aAy1d7o)<!-- MEMES:END -->
 
 ---
 

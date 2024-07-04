@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft-owned Mojang is exploring deals in areas like merchandising, education, and streaming, on top of movies and TV series, as gaming sector growth slows &lpar;Bloomberg&rpar;](http://www.techmeme.com/240704/p16#a240704p16)
  - [July 4th Mattress Sales: Save Hundreds on Vaya, Saatva, Brooklyn Bedding, Layla, Nest and More](https://www.cnet.com/deals/best-mattress-sales/#ftag=CAD590a51e)
  - [The New LG OLED TV Is Seeing All-Time Low Prices This July 4th](https://www.cnet.com/deals/lg-oled-tv-low-prices-july-4th/#ftag=CAD590a51e)
  - [Apple&#39;s iPhone 15 Is $150 Off on July 4th Week at Woot](https://www.cnet.com/deals/apples-iphone-15-is-150-off-on-july-4th-week-at-woot/#ftag=CAD590a51e)
- - [Celebrate July 4th With a 75-Inch Toshiba C350 4K Fire TV for Less Than $500](https://www.cnet.com/deals/celebrate-july-4th-with-a-75-inch-toshiba-c350-4k-fire-tv-for-less-than-500/#ftag=CAD590a51e)
- - [SemiAnalysis: Nvidia is set to sell $12B worth of H20 chips in China in 2024, or 1M+ units; Huawei expects to sell ~550,000 units of Ascend 910B chips in 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/240704/p15#a240704p15)<!-- TECH:END -->
+ - [Celebrate July 4th With a 75-Inch Toshiba C350 4K Fire TV for Less Than $500](https://www.cnet.com/deals/celebrate-july-4th-with-a-75-inch-toshiba-c350-4k-fire-tv-for-less-than-500/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

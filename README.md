@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at a16z&#39;s Crypto Startup Accelerator, a Y Combinator-style program that provides $500K in funding and 10 weeks of coaching, most recently in London &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/240704/p7#a240704p7)
  - [How Apple Intelligence’s Privacy Stacks Up Against Android’s ‘Hybrid AI’](https://www.wired.com/story/apple-intelligence-android-hybrid-ai-privacy/)
  - [WhatsApp is developing a personalized AI avatar generator](https://www.theverge.com/2024/7/4/24192112/whatsapp-ai-avatar-image-generator-imagine-meta-llama)
  - [Best July 4th Sales 2024: Save Up to 70% on Tech, Mattresses, Appliances and More](https://www.cnet.com/deals/best-july-4th-sales-2024-07-04/#ftag=CAD590a51e)
- - [Don&#39;t Wait for Prime Day. 42 Amazon July 4th Deals Worth Buying Right Now](https://www.cnet.com/deals/amazon-july-4th-sale-2024-07-04/#ftag=CAD590a51e)
- - [AWS partners with the Australian government to build a secure cloud data system for top secret information; the government will invest $1.3B over 10 years &lpar;Ben Westcott/Bloomberg&rpar;](http://www.techmeme.com/240704/p6#a240704p6)<!-- TECH:END -->
+ - [Don&#39;t Wait for Prime Day. 42 Amazon July 4th Deals Worth Buying Right Now](https://www.cnet.com/deals/amazon-july-4th-sale-2024-07-04/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

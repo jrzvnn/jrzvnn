@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s another busy summer of streaming sci-fi](https://www.theverge.com/24190112/streaming-sci-fi-summer-2024-netflix-hulu-disney-apple)
- - [Get Yourself a 65-Inch 4K TV for Just $300 Thanks to This July 4th Deal](https://www.cnet.com/deals/get-yourself-65-inch-4k-tv-just-300-thanks-to-july-4th-deal/#ftag=CAD590a51e)
- - [Amazon Prime Day 2024: 30 Best Early Prime Day Deals to Shop Now](https://www.cnet.com/deals/amazon-prime-day/#ftag=CAD590a51e)
- - [Google&#39;s Rising Emissions Lay the Climate Impact of AI Bare](https://www.cnet.com/tech/services-and-software/googles-rising-emissions-lay-the-climate-impact-of-ai-bare/#ftag=CAD590a51e)
- - [Sources: earlier in 2023, a hacker breached OpenAI&#39;s internal messaging and accessed product details; OpenAI told staff but did not go public or inform the FBI &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/240704/p10#a240704p10)<!-- TECH:END -->
+ - [Best July 4th Laptop Sales: Jaw-Dropping Discounts on Apple, HP, Lenovo and More](https://www.cnet.com/deals/july-4th-laptop-deals-2024-07-04/#ftag=CAD590a51e)
+ - [The Google Pixel 7 Pro Starts at Just $390 With These Woot July 4th Deals](https://www.cnet.com/deals/the-google-pixel-7-pro-starts-at-just-390-with-these-woot-july-4th-deals/#ftag=CAD590a51e)
+ - [Vaya Mattresses Are $300 Off for July 4th, but Not for Much Longer](https://www.cnet.com/deals/vaya-mattresses-are-300-off-for-july-4th-but-not-for-much-longer/#ftag=CAD590a51e)
+ - [Best Apple July 4th Deals: 32 Top Deals on AirPods, Apple Watch, MacBooks and More](https://www.cnet.com/deals/apple-july-4th-deals-2024-07-04/#ftag=CAD590a51e)
+ - [The Portable Marshall Speaker I Swear by Is $50 off for July 4th Sales](https://www.cnet.com/tech/home-entertainment/the-portable-marshall-speaker-i-swear-by-is-50-off-for-july-4th-sales/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

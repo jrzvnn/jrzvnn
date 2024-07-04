@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How about you go F yourself ?](http://9gag.com/gag/aAy1d7o)
- - 😝 [Olivia Hussey, the girl who played Juliet in &#39;Romeo and Juliet&#39; in 1968. She even shows bobs there which is cool.](http://9gag.com/gag/ajPADKp)
- - 💣 [Every workplace has this girl who is engaged](http://9gag.com/gag/aYQeKYm)
- - 😝 [Gotta luv women](http://9gag.com/gag/a2vmrqd)
- - 👉 [Just move on.](http://9gag.com/gag/a5Q7rDG)<!-- MEMES:END -->
+ - 😝 [Rabbit hole](http://9gag.com/gag/aD2oWnx)
+ - 😝 [Make Sweden Swedish Again!](http://9gag.com/gag/avyPrQX)
+ - 💣 [Stress level went down 1000%](http://9gag.com/gag/aoy9162)
+ - 😝 [Stunt man at next f**king lvl](http://9gag.com/gag/aVvPqNn)
+ - 👉 [Smooth taekwondo](http://9gag.com/gag/aByYW4Z)<!-- MEMES:END -->
 
 ---
 

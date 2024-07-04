@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What&#39;s your secret mate?](http://9gag.com/gag/aZZMm09)
- - 😝 [Best 7 seconds of her life](http://9gag.com/gag/aoy9jAX)
+ - 😝 [Every workplace has this girl who is engaged](http://9gag.com/gag/aYQeKYm)
+ - 😝 [Found this post under bricks and rubble](http://9gag.com/gag/abA06Ap)
  - 💣 [It&#39;s all in the detail](http://9gag.com/gag/aAy1PVL)
- - 😝 [How about you go F yourself ?](http://9gag.com/gag/aAy1d7o)
- - 👉 [Just move on.](http://9gag.com/gag/a5Q7rDG)<!-- MEMES:END -->
+ - 😝 [Seeenk u very much](http://9gag.com/gag/azxjrKj)
+ - 👉 [We&#39;re apparently back to phrenology on 2024&#39;s twitter.](http://9gag.com/gag/a5Q7Z5y)<!-- MEMES:END -->
 
 ---
 

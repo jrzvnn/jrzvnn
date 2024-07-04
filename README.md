@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the EU plans to issue a final warning to X over its failure to combat dangerous content under the DSA; X faces fines of 6% of its global revenue &lpar;Bloomberg&rpar;](http://www.techmeme.com/240704/p14#a240704p14)
  - [Best Buy knocks 40% off Backbone One gaming controller for iPhone today only](https://appleinsider.com/articles/24/07/04/best-buy-knocks-40-off-backbone-one-gaming-controller-for-iphone-today-only?utm_medium=rss)
  - [Amazon Kindle users are unable to download new and previously purchased books to their Kindles; Amazon says the outage could last at least 48 hours &lpar;Michael Kozlowski/Good e-Reader&rpar;](http://www.techmeme.com/240704/p13#a240704p13)
  - [Google might fix its fingerprint scanner woes with the Pixel 9](https://www.theverge.com/2024/7/4/24192266/google-pixel-9-ultrasonic-fingerprint-scanner-sensor)
- - [Amazon Kindle book downloads are broken](https://www.theverge.com/2024/7/4/24192228/amazon-kindle-downloading-is-down-outage-ebooks-e-readers)
- - [Amazon’s Fire HD 10 tablet is nearly 50 percent off for Prime members](https://www.theverge.com/2024/7/4/24191765/amazon-fire-hd-10-tablet-philips-hue-solo-light-strip-deal-sale)<!-- TECH:END -->
+ - [Amazon Kindle book downloads are broken](https://www.theverge.com/2024/7/4/24192228/amazon-kindle-downloading-is-down-outage-ebooks-e-readers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

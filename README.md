@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Sleeping Pads for Every Kind of Camping &lpar;2024&rpar;](https://www.wired.com/story/best-sleeping-pads/)
  - [Microsoft’s Midnight Blizzard source code breach also impacted federal agencies](https://www.theverge.com/2024/7/4/24192159/microsoft-midnight-blizzard-hack-targets)
  - [Dear Roku, you ruined my TV](https://www.theverge.com/24188282/roku-tv-update-motion-smoothing-turn-off)
- - [It’s another busy summer of streaming sci-fi](https://www.theverge.com/24190112/streaming-sci-fi-summer-2024-netflix-hulu-disney-apple)
- - [Get Yourself a 65-Inch 4K TV for Just $300 Thanks to This July 4th Deal](https://www.cnet.com/deals/get-yourself-65-inch-4k-tv-just-300-thanks-to-july-4th-deal/#ftag=CAD590a51e)
- - [Amazon Prime Day 2024: 30 Best Early Prime Day Deals to Shop Now](https://www.cnet.com/deals/amazon-prime-day/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best July 4th Laptop Sales: Jaw-Dropping Discounts on Apple, HP, Lenovo and More](https://www.cnet.com/deals/july-4th-laptop-deals-2024-07-04/#ftag=CAD590a51e)
+ - [The Google Pixel 7 Pro Starts at Just $390 With These Woot July 4th Deals](https://www.cnet.com/deals/the-google-pixel-7-pro-starts-at-just-390-with-these-woot-july-4th-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

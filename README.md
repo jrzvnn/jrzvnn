@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Impressive](http://9gag.com/gag/aO8VzNr)
- - 😝 [Every workplace has this girl who is engaged](http://9gag.com/gag/aYQeKYm)
+ - 😝 [Make Sweden Swedish Again!](http://9gag.com/gag/avyPrQX)
+ - 😝 [I can confirm, it is](http://9gag.com/gag/aryKOzd)
  - 💣 [Olivia Hussey, the girl who played Juliet in &#39;Romeo and Juliet&#39; in 1968. She even shows bobs there which is cool.](http://9gag.com/gag/ajPADKp)
- - 😝 [Stunt man at next f**king lvl](http://9gag.com/gag/aVvPqNn)
- - 👉 [Here kitty kitty](http://9gag.com/gag/a9y7AdD)<!-- MEMES:END -->
+ - 😝 [Gotta luv women](http://9gag.com/gag/a2vmrqd)
+ - 👉 [So guys.. i got fever... where can i find these half breed Asian Pacific-European girl?](http://9gag.com/gag/aVvPPmd)<!-- MEMES:END -->
 
 ---
 

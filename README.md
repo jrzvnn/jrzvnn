@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We&#39;re apparently back to phrenology on 2024&#39;s twitter.](http://9gag.com/gag/a5Q7Z5y)
- - 😝 [Found this post under bricks and rubble](http://9gag.com/gag/abA06Ap)
- - 💣 [Best 7 seconds of her life](http://9gag.com/gag/aoy9jAX)
- - 😝 [Best game physics](http://9gag.com/gag/adBjj4d)
- - 👉 [So guys.. i got fever... where can i find these half breed Asian Pacific-European girl?](http://9gag.com/gag/aVvPPmd)<!-- MEMES:END -->
+ - 😝 [Make Sweden Swedish Again!](http://9gag.com/gag/avyPrQX)
+ - 😝 [Smooth taekwondo](http://9gag.com/gag/aByYW4Z)
+ - 💣 [What&#39;s your secret mate?](http://9gag.com/gag/aZZMm09)
+ - 😝 [Just move on.](http://9gag.com/gag/a5Q7rDG)
+ - 👉 [Best 7 seconds of her life](http://9gag.com/gag/aoy9jAX)<!-- MEMES:END -->
 
 ---
 

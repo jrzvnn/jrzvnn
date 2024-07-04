@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft’s Midnight Blizzard source code breach also impacted federal agencies](https://www.theverge.com/2024/7/4/24192159/microsoft-midnight-blizzard-hack-targets)
+ - [Dear Roku, you ruined my TV](https://www.theverge.com/24188282/roku-tv-update-motion-smoothing-turn-off)
  - [It’s another busy summer of streaming sci-fi](https://www.theverge.com/24190112/streaming-sci-fi-summer-2024-netflix-hulu-disney-apple)
  - [Get Yourself a 65-Inch 4K TV for Just $300 Thanks to This July 4th Deal](https://www.cnet.com/deals/get-yourself-65-inch-4k-tv-just-300-thanks-to-july-4th-deal/#ftag=CAD590a51e)
- - [Amazon Prime Day 2024: 30 Best Early Prime Day Deals to Shop Now](https://www.cnet.com/deals/amazon-prime-day/#ftag=CAD590a51e)
- - [Google&#39;s Rising Emissions Lay the Climate Impact of AI Bare](https://www.cnet.com/tech/services-and-software/googles-rising-emissions-lay-the-climate-impact-of-ai-bare/#ftag=CAD590a51e)
- - [Sources: earlier in 2023, a hacker breached OpenAI&#39;s internal messaging and accessed product details; OpenAI told staff but did not go public or inform the FBI &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/240704/p10#a240704p10)<!-- TECH:END -->
+ - [Amazon Prime Day 2024: 30 Best Early Prime Day Deals to Shop Now](https://www.cnet.com/deals/amazon-prime-day/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

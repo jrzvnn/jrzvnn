@@ -161,9 +161,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Amazon’s Fire HD 10 tablet is nearly 50 percent off for Prime members](https://www.theverge.com/2024/7/4/24191765/amazon-fire-hd-10-tablet-philips-hue-solo-light-strip-deal-sale)
  - [Meta releases pre-trained models that use a novel multi-token prediction approach, available on Hugging Face under a non-commercial research license &lpar;Michael Nu&amp;ntilde;ez/VentureBeat&rpar;](http://www.techmeme.com/240704/p12#a240704p12)
- - [Nike’s self-lacing Adapt BB sneakers are losing their remote control mobile app](https://www.theverge.com/2024/7/4/24192184/nike-adapt-bb-shoes-sneakers-apple-android-app)
- - [ElevenLabs will use AI-generated voices of dead actors like Judy Garland and Burt Reynolds in its Reader app, after striking deals with the actors&#39; estates &lpar;Samantha Murphy Kelly/CNN&rpar;](http://www.techmeme.com/240704/p11#a240704p11)
- - [Apple&#39;s M3 14-inch MacBook Pro with 16GB RAM, 1TB SSD plunges to $1,699](https://appleinsider.com/articles/24/07/04/apples-m3-14-inch-macbook-pro-with-16gb-ram-1tb-ssd-plunges-to-1699?utm_medium=rss)<!-- TECH:END -->
+ - [Best July 4th Grill Sales: Enjoy the Summer Season With These Massive BBQ Savings](https://www.cnet.com/deals/best-july-4th-grill-sales-2024-07-04/#ftag=CAD590a51e)
+ - [Upgrade to Windows 11 Pro for Only $23 With This July 4th Deal, But Be Quick](https://www.cnet.com/deals/upgrade-to-windows-11-pro-for-only-23-with-this-july-4th-deal-but-be-quick/#ftag=CAD590a51e)
+ - [Nike’s self-lacing Adapt BB sneakers are losing their remote control mobile app](https://www.theverge.com/2024/7/4/24192184/nike-adapt-bb-shoes-sneakers-apple-android-app)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

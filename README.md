@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Found this post under bricks and rubble](http://9gag.com/gag/abA06Ap)
  - 😝 [Marine Le Pen: When I come to power, I will ban hijab in all of France](http://9gag.com/gag/azxjXqp)
- - 😝 [Batgirl](http://9gag.com/gag/amo97X4)
- - 💣 [And now I&#39;m an unemployed software engineer](http://9gag.com/gag/abA0Mqb)
- - 😝 [How about you go F yourself ?](http://9gag.com/gag/aAy1d7o)
- - 👉 [So who is geh?](http://9gag.com/gag/a6Z7VzA)<!-- MEMES:END -->
+ - 💣 [Every workplace has this girl who is engaged](http://9gag.com/gag/aYQeKYm)
+ - 😝 [Olivia Hussey, the girl who played Juliet in &#39;Romeo and Juliet&#39; in 1968. She even shows bobs there which is cool.](http://9gag.com/gag/ajPADKp)
+ - 👉 [They&#39;re Entrailing Behind The Truck](http://9gag.com/gag/a7o7D0L)<!-- MEMES:END -->
 
 ---
 

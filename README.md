@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gotta luv women](http://9gag.com/gag/a2vmrqd)
- - 😝 [Just move on.](http://9gag.com/gag/a5Q7rDG)
- - 💣 [Found this post under bricks and rubble](http://9gag.com/gag/abA06Ap)
- - 😝 [Is this bait for this types of pictures in the comments? Maybe](http://9gag.com/gag/aE07xdK)
- - 👉 [Found on my old smartphone](http://9gag.com/gag/aYQex9V)<!-- MEMES:END -->
+ - 😝 [Marine Le Pen: When I come to power, I will ban hijab in all of France](http://9gag.com/gag/azxjXqp)
+ - 😝 [Some cities in Germany have so called \u201cBabyklappen\u201d &lpar;baby hatch&rpar; where mothers can safely and anonymously leave their unwanted newborns.](http://9gag.com/gag/aVvPqQO)
+ - 💣 [Just move on.](http://9gag.com/gag/a5Q7rDG)
+ - 😝 [I can confirm, it is](http://9gag.com/gag/aryKOzd)
+ - 👉 [Gotta luv women](http://9gag.com/gag/a2vmrqd)<!-- MEMES:END -->
 
 ---
 

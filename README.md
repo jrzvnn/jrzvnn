@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Found this post under bricks and rubble](http://9gag.com/gag/abA06Ap)
- - 😝 [How about you go F yourself ?](http://9gag.com/gag/aAy1d7o)
- - 💣 [Marine Le Pen: When I come to power, I will ban hijab in all of France](http://9gag.com/gag/azxjXqp)
- - 😝 [Found on my old smartphone](http://9gag.com/gag/aYQex9V)
- - 👉 [Is this bait for this types of pictures in the comments? Maybe](http://9gag.com/gag/aE07xdK)<!-- MEMES:END -->
+ - 😝 [Thats a thinker](http://9gag.com/gag/a2vmog1)
+ - 😝 [The muffin man](http://9gag.com/gag/ae9GMDb)
+ - 💣 [So who is geh?](http://9gag.com/gag/a6Z7VzA)
+ - 😝 [And now I&#39;m an unemployed software engineer](http://9gag.com/gag/abA0Mqb)
+ - 👉 [How about you go F yourself ?](http://9gag.com/gag/aAy1d7o)<!-- MEMES:END -->
 
 ---
 

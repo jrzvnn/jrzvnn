@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Boox Go Color 7 review: a simulacra of the paperback experience](https://appleinsider.com/articles/24/07/04/boox-go-color-7-review-a-simulacra-of-the-paperback-experience?utm_medium=rss)
+ - [Canada authorizes the implementation of a 3% levy on revenue from large tech companies that provide digital services to or sell data of Canadian users &lpar;Paul Vieira/Wall Street Journal&rpar;](http://www.techmeme.com/240703/p29#a240703p29)
  - [Ericsson expects a $1.1B noncash impairment charge in Q2 for its 2022 purchase of cloud communications company Vonage, after a $2.9B impairment charge in 2023 &lpar;Sabela Ojea/Wall Street Journal&rpar;](http://www.techmeme.com/240703/p28#a240703p28)
  - [Best July 4th Sales 2024: Save Up to 70% Off on Home Tech, Appliances and More](https://www.cnet.com/deals/best-july-4th-sales-2024-07-03/#ftag=CAD590a51e)
- - [Leak: Basically every spec for Samsung’s Z Fold 6 and Z Flip 6](https://www.theverge.com/2024/7/3/24191966/samsung-galaxy-z-fold-flip-6-spec-leak)
- - [The FTC’s ban against noncompete agreements may be under threat](https://www.theverge.com/2024/7/3/24191946/ftc-noncompete-ban-judge-preliminary-injunction)
- - [Turn Up the Sound on July 4th With Over $150 Off the Sonos Arc Soundbar](https://www.cnet.com/deals/turn-up-the-sound-on-july-4th-with-over-150-off-the-sonos-arc-soundbar/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Leak: Basically every spec for Samsung’s Z Fold 6 and Z Flip 6](https://www.theverge.com/2024/7/3/24191966/samsung-galaxy-z-fold-flip-6-spec-leak)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

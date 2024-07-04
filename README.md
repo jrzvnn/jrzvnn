@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [SemiAnalysis: Nvidia is set to sell $12B worth of H20 chips in China in 2024, or 1M+ units; Huawei expects to sell ~550,000 units of Ascend 910B chips in 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/240704/p15#a240704p15)
- - [Secure Your Home for Less With $30 Off Google&#39;s Nest Cam](https://www.cnet.com/deals/secure-your-home-for-less-with-35-off-googles-nest-cam/#ftag=CAD590a51e)
- - [This July 4th Deal Slashes $300 Off the OnePlus One Foldable Phone Plus $800 Trade-In Savings](https://www.cnet.com/deals/this-july-4th-deal-slashes-300-off-the-oneplus-one-foldable-phone-plus-800-trade-in-savings/#ftag=CAD590a51e)
- - [Save Up to $800 With Purple&#39;s Hot July 4th Sale](https://www.cnet.com/deals/purple-4th-of-july-2024/#ftag=CAD590a51e)
- - [Best Wi-Fi Extenders of 2024](https://www.cnet.com/home/internet/best-wifi-extender/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 63 Best Movies on Disney+ Right Now &lpar;July 2024&rpar;](https://www.wired.com/story/best-movies-disney-plus/)
+ - [Snag Anker&#39;s EverFrost Cooler While It&#39;s $300 Off This July 4th](https://www.cnet.com/deals/snag-ankers-everfrost-cooler-while-its-300-off-this-july-4th/#ftag=CAD590a51e)
+ - [Don&#39;t Wait for Prime Day. These 48 Amazon July 4th Deals Are Worth Buying Today](https://www.cnet.com/deals/amazon-july-4th-sale-2024-07-04/#ftag=CAD590a51e)
+ - [Save Big on Eero Wi-Fi 7 Mesh Routers During Amazon&#39;s July 4th Sale](https://www.cnet.com/deals/save-big-on-eero-wi-fi-7-mesh-routers-during-amazons-july-4th-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

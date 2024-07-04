@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [How Apple Intelligence’s Privacy Stacks Up Against Android’s ‘Hybrid AI’](https://www.wired.com/story/apple-intelligence-android-hybrid-ai-privacy/)
- - [WhatsApp is developing an AI avatar generator](https://www.theverge.com/2024/7/4/24192112/whatsapp-ai-avatar-image-generator-imagine-meta-llama)
- - [AWS partners with the Australian government to build a secure cloud data system for top secret information; the government will invest $1.3B over 10 years &lpar;Ben Westcott/Bloomberg&rpar;](http://www.techmeme.com/240704/p6#a240704p6)
- - [A Chinese Space Startup Launched Its New Rocket by Accident](https://www.wired.com/story/space-pioneer-rocket-launch-accident/)
- - [Best Apple July 4th Deals: Save Big on AirPods, Apple Watch, MacBooks and More](https://www.cnet.com/deals/apple-july-4th-deals-2024-07-04/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [WhatsApp is developing a personalized AI avatar generator](https://www.theverge.com/2024/7/4/24192112/whatsapp-ai-avatar-image-generator-imagine-meta-llama)
+ - [Best July 4th Sales 2024: Save Up to 70% on Tech, Mattresses, Appliances and More](https://www.cnet.com/deals/best-july-4th-sales-2024-07-04/#ftag=CAD590a51e)
+ - [Don&#39;t Wait for Prime Day. 42 Amazon July 4th Deals Worth Buying Right Now](https://www.cnet.com/deals/amazon-july-4th-sale-2024-07-04/#ftag=CAD590a51e)
+ - [AWS partners with the Australian government to build a secure cloud data system for top secret information; the government will invest $1.3B over 10 years &lpar;Ben Westcott/Bloomberg&rpar;](http://www.techmeme.com/240704/p6#a240704p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

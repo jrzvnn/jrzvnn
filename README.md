@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Just move on.](http://9gag.com/gag/a5Q7rDG)
- - 😝 [Olivia Hussey, the girl who played Juliet in &#39;Romeo and Juliet&#39; in 1968. She even shows bobs there which is cool.](http://9gag.com/gag/ajPADKp)
- - 💣 [Your daily dose](http://9gag.com/gag/amo9rO4)
- - 😝 [Make Sweden Swedish Again!](http://9gag.com/gag/avyPrQX)
- - 👉 [Every workplace has this girl who is engaged](http://9gag.com/gag/aYQeKYm)<!-- MEMES:END -->
+ - 😝 [Rabbit hole](http://9gag.com/gag/aD2oWnx)
+ - 💣 [Make Sweden Swedish Again!](http://9gag.com/gag/avyPrQX)
+ - 😝 [Stunt man at next f**king lvl](http://9gag.com/gag/aVvPqNn)
+ - 👉 [Do you agree?](http://9gag.com/gag/aMVG8Rx)<!-- MEMES:END -->
 
 ---
 

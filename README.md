@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AWS partners with the Australian government to build a secure cloud data system for top secret information; the government will invest $1.3B over 10 years &lpar;Ben Westcott/Bloomberg&rpar;](http://www.techmeme.com/240704/p6#a240704p6)
  - [A Chinese Space Startup Launched Its New Rocket by Accident](https://www.wired.com/story/space-pioneer-rocket-launch-accident/)
  - [Best Apple July 4th Deals: Save Big on AirPods, Apple Watch, MacBooks and More](https://www.cnet.com/deals/apple-july-4th-deals-2024-07-04/#ftag=CAD590a51e)
  - [How the e-commerce-driven warehouse boom has transformed Shippensburg, Pennsylvania, into a distribution megaregion, much like California&#39;s Inland Empire &lpar;Tyler J Kelley/Bloomberg&rpar;](http://www.techmeme.com/240704/p5#a240704p5)
- - [Researchers say GPS spoofing has impacted 60K+ commercial flights so far in 2024; GPS could become a relic as Chinese, Russian, and European systems modernize &lpar;New York Times&rpar;](http://www.techmeme.com/240704/p4#a240704p4)
- - [A global law enforcement operation takes down 593 servers hosting unlicensed versions of Cobalt Strike, a penetration testing tool abused by cybercriminals &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240704/p3#a240704p3)<!-- TECH:END -->
+ - [Researchers say GPS spoofing has impacted 60K+ commercial flights so far in 2024; GPS could become a relic as Chinese, Russian, and European systems modernize &lpar;New York Times&rpar;](http://www.techmeme.com/240704/p4#a240704p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

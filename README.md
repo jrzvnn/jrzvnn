@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Every workplace has this girl who is engaged](http://9gag.com/gag/aYQeKYm)
- - 😝 [Found this post under bricks and rubble](http://9gag.com/gag/abA06Ap)
- - 💣 [It&#39;s all in the detail](http://9gag.com/gag/aAy1PVL)
- - 😝 [Seeenk u very much](http://9gag.com/gag/azxjrKj)
- - 👉 [We&#39;re apparently back to phrenology on 2024&#39;s twitter.](http://9gag.com/gag/a5Q7Z5y)<!-- MEMES:END -->
+ - 😝 [Just move on.](http://9gag.com/gag/a5Q7rDG)
+ - 😝 [Olivia Hussey, the girl who played Juliet in &#39;Romeo and Juliet&#39; in 1968. She even shows bobs there which is cool.](http://9gag.com/gag/ajPADKp)
+ - 💣 [Your daily dose](http://9gag.com/gag/amo9rO4)
+ - 😝 [Make Sweden Swedish Again!](http://9gag.com/gag/avyPrQX)
+ - 👉 [Every workplace has this girl who is engaged](http://9gag.com/gag/aYQeKYm)<!-- MEMES:END -->
 
 ---
 

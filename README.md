@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s so cute](http://9gag.com/gag/azxjXbz)
- - 😝 [Smooth taekwondo](http://9gag.com/gag/aByYW4Z)
- - 💣 [Do you agree?](http://9gag.com/gag/aMVG8Rx)
- - 😝 [Batgirl](http://9gag.com/gag/amo97X4)
- - 👉 [I could still dream](http://9gag.com/gag/aYQe4nO)<!-- MEMES:END -->
+ - 😝 [Rocket engine designer by ai](http://9gag.com/gag/abA00Kp)
+ - 😝 [I can confirm, it is](http://9gag.com/gag/aryKOzd)
+ - 💣 [There are people watching in the stands....did they buy tickets? Happy ending is in order.](http://9gag.com/gag/awyxVqx)
+ - 😝 [So guys.. i got fever... where can i find these half breed Asian Pacific-European girl?](http://9gag.com/gag/aVvPPmd)
+ - 👉 [Gotta luv women](http://9gag.com/gag/a2vmrqd)<!-- MEMES:END -->
 
 ---
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Chinese Space Startup Launched Its New Rocket by Accident](https://www.wired.com/story/space-pioneer-rocket-launch-accident/)
+ - [Best Apple July 4th Deals: Save Big on AirPods, Apple Watch, MacBooks and More](https://www.cnet.com/deals/apple-july-4th-deals-2024-07-04/#ftag=CAD590a51e)
  - [How the e-commerce-driven warehouse boom has transformed Shippensburg, Pennsylvania, into a distribution megaregion, much like California&#39;s Inland Empire &lpar;Tyler J Kelley/Bloomberg&rpar;](http://www.techmeme.com/240704/p5#a240704p5)
  - [Researchers say GPS spoofing has impacted 60K+ commercial flights so far in 2024; GPS could become a relic as Chinese, Russian, and European systems modernize &lpar;New York Times&rpar;](http://www.techmeme.com/240704/p4#a240704p4)
- - [A global law enforcement operation takes down 593 servers hosting unlicensed versions of Cobalt Strike, a penetration testing tool abused by cybercriminals &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240704/p3#a240704p3)
- - [An investigation details how online gambling giants Flutter and Entain employ practices in the US that they dropped in the UK after admitting risks to UK users &lpar;Tom Bergin/Reuters&rpar;](http://www.techmeme.com/240704/p2#a240704p2)
- - [OpenText plans to lay off 1,200 staff and add 800 positions, resulting in a ~1.7% workforce reduction, and expects to reduce annual expenses by CA$150M in 2025 &lpar;CRN&rpar;](http://www.techmeme.com/240704/p1#a240704p1)<!-- TECH:END -->
+ - [A global law enforcement operation takes down 593 servers hosting unlicensed versions of Cobalt Strike, a penetration testing tool abused by cybercriminals &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/240704/p3#a240704p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

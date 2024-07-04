@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Do you agree?](http://9gag.com/gag/aMVG8Rx)
- - 😝 [Stunt man at next f**king lvl](http://9gag.com/gag/aVvPqNn)
- - 💣 [Smooth taekwondo](http://9gag.com/gag/aByYW4Z)
  - 😝 [I could still dream](http://9gag.com/gag/aYQe4nO)
- - 👉 [Batgirl](http://9gag.com/gag/amo97X4)<!-- MEMES:END -->
+ - 😝 [Your daily dose](http://9gag.com/gag/amo9rO4)
+ - 💣 [Seeenk u very much](http://9gag.com/gag/azxjrKj)
+ - 😝 [Make Sweden Swedish Again!](http://9gag.com/gag/avyPrQX)
+ - 👉 [Olivia Hussey, the girl who played Juliet in &#39;Romeo and Juliet&#39; in 1968. She even shows bobs there which is cool.](http://9gag.com/gag/ajPADKp)<!-- MEMES:END -->
 
 ---
 

@@ -169,9 +169,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Thats a thinker](http://9gag.com/gag/a2vmog1)
- - 😝 [The muffin man](http://9gag.com/gag/ae9GMDb)
- - 💣 [So who is geh?](http://9gag.com/gag/a6Z7VzA)
- - 😝 [And now I&#39;m an unemployed software engineer](http://9gag.com/gag/abA0Mqb)
+ - 😝 [That&#39;s why I love Italy](http://9gag.com/gag/aO8VzZv)
+ - 💣 [The muffin man](http://9gag.com/gag/ae9GMDb)
+ - 😝 [So who is geh?](http://9gag.com/gag/a6Z7VzA)
  - 👉 [How about you go F yourself ?](http://9gag.com/gag/aAy1d7o)<!-- MEMES:END -->
 
 ---

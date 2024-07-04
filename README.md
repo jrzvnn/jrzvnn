@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [July 4th Mattress Sales: Save Hundreds on Vaya, Saatva, Brooklyn Bedding, Layla, Nest and More](https://www.cnet.com/deals/best-mattress-sales/#ftag=CAD590a51e)
- - [The New LG OLED TV Is Seeing All-Time Low Prices This July 4th](https://www.cnet.com/deals/lg-oled-tv-low-prices-july-4th/#ftag=CAD590a51e)
- - [Apple&#39;s iPhone 15 Is $150 Off on July 4th Week at Woot](https://www.cnet.com/deals/apples-iphone-15-is-150-off-on-july-4th-week-at-woot/#ftag=CAD590a51e)
- - [Celebrate July 4th With a 75-Inch Toshiba C350 4K Fire TV for Less Than $500](https://www.cnet.com/deals/celebrate-july-4th-with-a-75-inch-toshiba-c350-4k-fire-tv-for-less-than-500/#ftag=CAD590a51e)
- - [SemiAnalysis: Nvidia is set to sell $12B worth of H20 chips in China in 2024, or 1M+ units; Huawei expects to sell ~550,000 units of Ascend 910B chips in 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/240704/p15#a240704p15)<!-- TECH:END -->
+ - [SemiAnalysis: Nvidia is set to sell $12B worth of H20 chips in China in 2024, or 1M+ units; Huawei expects to sell ~550,000 units of Ascend 910B chips in 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/240704/p15#a240704p15)
+ - [Secure Your Home for Less With $30 Off Google&#39;s Nest Cam](https://www.cnet.com/deals/secure-your-home-for-less-with-35-off-googles-nest-cam/#ftag=CAD590a51e)
+ - [This July 4th Deal Slashes $300 Off the OnePlus One Foldable Phone Plus $800 Trade-In Savings](https://www.cnet.com/deals/this-july-4th-deal-slashes-300-off-the-oneplus-one-foldable-phone-plus-800-trade-in-savings/#ftag=CAD590a51e)
+ - [Save Up to $800 With Purple&#39;s Hot July 4th Sale](https://www.cnet.com/deals/purple-4th-of-july-2024/#ftag=CAD590a51e)
+ - [Best Wi-Fi Extenders of 2024](https://www.cnet.com/home/internet/best-wifi-extender/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The prospect of applying generative AI to contract lifecycle management software has prompted a flurry of deals, as experts expect further market consolidation &lpar;Nick Huber/Financial Times&rpar;](http://www.techmeme.com/240705/p1#a240705p1)
+ - [Nectar’s July 4th Sale Today Will Save You Up to 40% on Popular Beds](https://www.cnet.com/deals/nectar-4th-of-july-2024/#ftag=CAD590a51e)
  - [Today&#39;s NYT Strands Hints, Answers and Help for July 5, #124](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-5-124/#ftag=CAD590a51e)
  - [Today&#39;s Wordle Hints, Answer and Help for July 5, #1112](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-5-1112/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for July 5, #390](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-5-390/#ftag=CAD590a51e)
- - [JSAUX FlipGo Portable Dual Monitor review: Double your screens, double your productivity](https://appleinsider.com/articles/24/07/05/jsaux-flipgo-portable-dual-monitor-review-double-your-screens-double-your-productivity?utm_medium=rss)
- - [Samsung estimates Q2 operating profit up 1,452% YoY to $7.54B, and revenue up 23% YoY to ~$53.7B, as chip prices keep rising &lpar;Reuters&rpar;](http://www.techmeme.com/240704/p19#a240704p19)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for July 5, #390](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-5-390/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

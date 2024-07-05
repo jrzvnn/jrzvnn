@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I could still dream](http://9gag.com/gag/aYQe4nO)
+ - 😝 [Found on my old smartphone](http://9gag.com/gag/aYQex9V)
+ - 😝 [Your daily dose](http://9gag.com/gag/amo9rO4)
+ - 💣 [Just some random numbers. Nothing special about them.](http://9gag.com/gag/aGyxjGw)
  - 😝 [Little old lady walking jacob around the city](http://9gag.com/gag/a5Q7RZy)
- - 💣 [Wanted to show my life hack for this summer](http://9gag.com/gag/aXP9Ymg)
- - 😝 [How about you go F yourself ?](http://9gag.com/gag/aAy1d7o)
- - 👉 [It&#39;s same as spiderteen having a hot aunt.](http://9gag.com/gag/aW468A6)<!-- MEMES:END -->
+ - 👉 [Marine Le Pen: When I come to power, I will ban hijab in all of France](http://9gag.com/gag/azxjXqp)<!-- MEMES:END -->
 
 ---
 

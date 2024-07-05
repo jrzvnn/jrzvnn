@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Your daily dose](http://9gag.com/gag/amo9rO4)
- - 😝 [I can confirm, it is](http://9gag.com/gag/aryKOzd)
- - 💣 [They&#39;re Entrailing Behind The Truck](http://9gag.com/gag/a7o7D0L)
- - 😝 [Is this bait for this types of pictures in the comments? Maybe](http://9gag.com/gag/aE07xdK)
- - 👉 [Little old lady walking jacob around the city](http://9gag.com/gag/a5Q7RZy)<!-- MEMES:END -->
+ - 😝 [I could still dream](http://9gag.com/gag/aYQe4nO)
+ - 😝 [Little old lady walking jacob around the city](http://9gag.com/gag/a5Q7RZy)
+ - 💣 [Wanted to show my life hack for this summer](http://9gag.com/gag/aXP9Ymg)
+ - 😝 [How about you go F yourself ?](http://9gag.com/gag/aAy1d7o)
+ - 👉 [It&#39;s same as spiderteen having a hot aunt.](http://9gag.com/gag/aW468A6)<!-- MEMES:END -->
 
 ---
 

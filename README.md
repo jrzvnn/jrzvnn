@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Researcher: X is exploring more ways to integrate xAI&#39;s Grok, including the ability to ask Grok about X accounts and use Grok by highlighting text in the app &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240705/p10#a240705p10)
- - [&#39;Saturday Night Live’ Writer Alex English Thinks Social Media Ruined the Art of Comedy](https://www.wired.com/story/dial-up-saturday-night-live-alex-english/)
- - [How to create PDFs on iPhones using Notes](https://www.theverge.com/24191864/pdf-iphone-ipad-ios-how-to)
- - [Brad Pitt&#39;s &#39;F1&#39; Apple Original film speeds to theaters in summer 2025](https://appleinsider.com/articles/24/07/05/brad-pitts-f1-apple-original-film-speeds-to-theaters-in-summer-2025?utm_medium=rss)
- - [Apple&#39;s M2 Ultra Mac Studio gets fresh $400 price cut](https://appleinsider.com/articles/24/07/05/apples-m2-ultra-mac-studio-gets-fresh-400-price-cut?utm_medium=rss)<!-- TECH:END -->
+ - [Add CarPlay or Android Auto to Your Car for 50% Less if You Act Fast on This July 4th Deal](https://www.cnet.com/deals/add-carplay-or-android-auto-to-your-car-for-50-less-if-you-act-fast-on-this-july-4th-deal/#ftag=CAD590a51e)
+ - [When Is Amazon Prime Day 2024?](https://www.cnet.com/deals/when-is-amazon-prime-day/#ftag=CAD590a51e)
+ - [Toss Out That Leftover Rice Before It Makes You Sick. Here&#39;s Why.](https://www.cnet.com/how-to/toss-out-that-leftover-rice-before-it-makes-you-sick-heres-why/#ftag=CAD590a51e)
+ - [&#39;Saturday Night Live’ Writer Alex English Thinks Social Media Ruined the Art of Comedy](https://www.wired.com/story/dial-up-saturday-night-live-alex-english/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

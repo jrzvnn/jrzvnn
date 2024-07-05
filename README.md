@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lol.](http://9gag.com/gag/aByYgLO)
- - 😝 [How about you go F yourself ?](http://9gag.com/gag/aAy1d7o)
- - 💣 [Something for everybody](http://9gag.com/gag/aryKGD5)
- - 😝 [The perfect keychain doesn&#39;t exi...](http://9gag.com/gag/ajPA5wp)
- - 👉 [Little old lady walking jacob around the city](http://9gag.com/gag/a5Q7RZy)<!-- MEMES:END -->
+ - 😝 [Found on my old smartphone](http://9gag.com/gag/aYQex9V)
+ - 😝 [Little old lady walking jacob around the city](http://9gag.com/gag/a5Q7RZy)
+ - 💣 [Welcome to Houston](http://9gag.com/gag/aKGqdDg)
+ - 😝 [Dang hawk tuah girl just ruined every one\u2019s dreams &amp; chances of Gen wealth with OF.](http://9gag.com/gag/aXP9xPv)
+ - 👉 [Maybe they did and still chose it.](http://9gag.com/gag/an7NjzB)<!-- MEMES:END -->
 
 ---
 

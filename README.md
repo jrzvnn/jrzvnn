@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Epic Games Lashes Out at Apple Over App Store Rejection](https://www.wired.com/story/epic-games-lashes-out-at-apple-over-app-store-rejection/)
  - [At just over $20, Half-Life: Alyx is essential playing for VR headset owners](https://www.theverge.com/2024/7/5/24191841/half-life-alyx-valve-vr-steam-summer-sale-deal)
  - [iPhone 16 Pro again rumored to get Tetraprism zoom lens](https://appleinsider.com/articles/24/07/05/iphone-16-pro-again-rumored-to-get-tetraprism-zoom-lens?utm_medium=rss)
  - [YouTube’s improved eraser tool easily removes copyrighted music from videos](https://www.theverge.com/2024/7/5/24192635/youtube-ai-eraser-tool-copyrighted-music-content-id)
- - [Apple&#39;s blue M1 iMac 24-inch is on sale for $999](https://appleinsider.com/articles/24/07/05/apples-blue-m1-imac-24-inch-is-on-sale-for-999?utm_medium=rss)
- - [Sources: to reduce its reliance on Safari on the iPhone, Google considered limiting AI Overviews to its own apps, but ultimately decided against that move &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/240705/p7#a240705p7)<!-- TECH:END -->
+ - [Apple&#39;s blue M1 iMac 24-inch is on sale for $999](https://appleinsider.com/articles/24/07/05/apples-blue-m1-imac-24-inch-is-on-sale-for-999?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

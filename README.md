@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I can confirm, it is](http://9gag.com/gag/aryKOzd)
- - 😝 [It&#39;s same as spiderteen having a hot aunt.](http://9gag.com/gag/aW468A6)
- - 💣 [Found on my old smartphone](http://9gag.com/gag/aYQex9V)
+ - 😝 [Ms. Le Pen met the Grand Mufti of Al Azhar. The Mufti asked him to put on her veil to visit her. Le Pen, I wish you good afternoon. Separating the political color, She acted like a true empowering woman as well as a feminist.](http://9gag.com/gag/aE07x5n)
+ - 😝 [Gotta luv women](http://9gag.com/gag/a2vmrqd)
+ - 💣 [Seeenk u very much](http://9gag.com/gag/azxjrKj)
  - 😝 [They&#39;re Entrailing Behind The Truck](http://9gag.com/gag/a7o7D0L)
- - 👉 [How about you go F yourself ?](http://9gag.com/gag/aAy1d7o)<!-- MEMES:END -->
+ - 👉 [This is SPARTA!!!!](http://9gag.com/gag/axyj7zD)<!-- MEMES:END -->
 
 ---
 

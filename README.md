@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Found on my old smartphone](http://9gag.com/gag/aYQex9V)
- - 😝 [Your daily dose](http://9gag.com/gag/amo9rO4)
- - 💣 [Just some random numbers. Nothing special about them.](http://9gag.com/gag/aGyxjGw)
- - 😝 [Little old lady walking jacob around the city](http://9gag.com/gag/a5Q7RZy)
- - 👉 [Marine Le Pen: When I come to power, I will ban hijab in all of France](http://9gag.com/gag/azxjXqp)<!-- MEMES:END -->
+ - 😝 [Ms. Le Pen met the Grand Mufti of Al Azhar. The Mufti asked him to put on her veil to visit her. Le Pen, I wish you good afternoon. Separating the political color, She acted like a true empowering woman as well as a feminist.](http://9gag.com/gag/aE07x5n)
+ - 😝 [A day in the life of a delivery man](http://9gag.com/gag/aqy5777)
+ - 💣 [How about you go F yourself ?](http://9gag.com/gag/aAy1d7o)
+ - 😝 [Is this bait for this types of pictures in the comments? Maybe](http://9gag.com/gag/aE07xdK)
+ - 👉 [I can confirm, it is](http://9gag.com/gag/aryKOzd)<!-- MEMES:END -->
 
 ---
 

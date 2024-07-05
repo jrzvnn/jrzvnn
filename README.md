@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Holy f**king christ!](http://9gag.com/gag/axyj7rD)
- - 😝 [This will keep those with OCD awake at night.](http://9gag.com/gag/a4PYRyw)
- - 💣 [There&#39;s a better life](http://9gag.com/gag/aAy13o2)
- - 😝 [Related post needed](http://9gag.com/gag/aYQegjw)
- - 👉 [RIP Vision Pro 2024-2024](http://9gag.com/gag/awyxo6D)<!-- MEMES:END -->
+ - 😝 [Trauma is the best teacher](http://9gag.com/gag/a7o7WMz)
+ - 😝 [Emmy 2014 - Peak of Television](http://9gag.com/gag/a1mMW38)
+ - 💣 [Friendly reminder.](http://9gag.com/gag/aRBA7VM)
+ - 😝 [Men only want one thing, plus one other thing](http://9gag.com/gag/aKGqdnZ)
+ - 👉 [Lovely](http://9gag.com/gag/a5Q7WdE)<!-- MEMES:END -->
 
 ---
 

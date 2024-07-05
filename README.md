@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
  - [Apple&#39;s Home Hub may be more than just a HomePod with a screen](https://appleinsider.com/articles/24/07/05/apples-home-hub-may-be-more-than-just-a-homepod-with-a-screen?utm_medium=rss)
- - [The EC asks Amazon to provide more information on its compliance with DSA provisions concerning the transparency of Amazon&#39;s recommender systems by July 26 &lpar;Benoit Van Overstraeten/Reuters&rpar;](http://www.techmeme.com/240705/p3#a240705p3)
- - [Samsung Needs to Do These Things in Order for the Galaxy Ring to Be a Hit](https://www.cnet.com/tech/mobile/samsung-needs-to-do-these-things-in-order-for-the-galaxy-ring-to-be-a-hit/#ftag=CAD590a51e)
- - [Considering a Foldable Phone? How to Decide if It&#39;s Worth It](https://www.cnet.com/tech/mobile/foldable-phones-had-a-breakout-year-in-2023-should-you-buy-one/#ftag=CAD590a51e)
- - [How a Group of Butterflies Managed to Fly 4,200 Kilometers Without Stopping](https://www.wired.com/story/butterflies-fly-4200-kilometers-without-stopping-nonstop-migration-painted-lady/)<!-- TECH:END -->
+ - [Epic says Apple is impeding its attempts to set up a games store on iPhones and iPads in Europe and that it has shared its concerns with the European Commission &lpar;Reuters&rpar;](http://www.techmeme.com/240705/p4#a240705p4)
+ - [The World’s Most Popular 3D-Printed Gun Was Designed by an Aspiring Terrorist](https://www.wired.com/story/3d-printing-guns-fgc9-creator-jacob-dugyu-jstark1809/)
+ - [Meta’s Threads is thriving one year in, but X is still in the fight](https://www.theverge.com/2024/7/5/24191804/meta-threads-x-twitter-one-year-vs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

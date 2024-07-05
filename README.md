@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trauma is the best teacher](http://9gag.com/gag/a7o7WMz)
- - 😝 [Emmy 2014 - Peak of Television](http://9gag.com/gag/a1mMW38)
- - 💣 [Friendly reminder.](http://9gag.com/gag/aRBA7VM)
- - 😝 [Men only want one thing, plus one other thing](http://9gag.com/gag/aKGqdnZ)
- - 👉 [Lovely](http://9gag.com/gag/a5Q7WdE)<!-- MEMES:END -->
+ - 😝 [This will keep those with OCD awake at night.](http://9gag.com/gag/a4PYRyw)
+ - 😝 [Holy f**king christ!](http://9gag.com/gag/axyj7rD)
+ - 💣 [Do we even need to know what&#39;s been said?](http://9gag.com/gag/aByYmLz)
+ - 😝 [Wanted to show my life hack for this summer](http://9gag.com/gag/aXP9Ymg)
+ - 👉 [There&#39;s a better life](http://9gag.com/gag/aAy13o2)<!-- MEMES:END -->
 
 ---
 

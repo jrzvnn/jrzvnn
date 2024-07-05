@@ -161,9 +161,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Here’s how Qualcomm’s new laptop chips really stack up to Apple, Intel, and AMD](https://www.theverge.com/24191671/copilot-plus-pcs-laptops-qualcomm-intel-amd-apple)
  - [Original HomePods, new iPads, and rumors of future iPhones on the AppleInsider Podcast](https://appleinsider.com/articles/24/07/05/original-homepods-new-ipads-and-rumors-of-future-iphones-on-the-appleinsider-podcast?utm_medium=rss)
- - [Apple Watch Series 10 - All the screen, size, and band rumors](https://appleinsider.com/articles/24/07/05/apple-watch-series-10---all-the-screen-size-and-band-rumors?utm_medium=rss)
- - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
- - [Apple&#39;s Home Hub may be more than just a HomePod with a screen](https://appleinsider.com/articles/24/07/05/apples-home-hub-may-be-more-than-just-a-homepod-with-a-screen?utm_medium=rss)<!-- TECH:END -->
+ - [Grab These Quality Bose QuietComfort Earbuds 2 at Their Lowest-Ever Price in July 4th Sale](https://www.cnet.com/deals/grab-these-quality-bose-quietcomfort-earbuds-2-at-their-lowest-ever-price-in-july-4th-sale/#ftag=CAD590a51e)
+ - [Here Are CNET Readers&#39; 15 Favorite July 4th Deals](https://www.cnet.com/deals/here-are-cnet-readers-15-favorite-july-4th-deals/#ftag=CAD590a51e)
+ - [Score Two Anker Chargers and Cables for Just $13 With This Incredible July 4th Deal](https://www.cnet.com/deals/score-two-anker-chargers-and-cables-for-just-13-with-this-incredible-july-4th-deal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

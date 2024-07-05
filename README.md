@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s same as spiderteen having a hot aunt.](http://9gag.com/gag/aW468A6)
- - 😝 [I can confirm, it is](http://9gag.com/gag/aryKOzd)
- - 💣 [Wanted to show my life hack for this summer](http://9gag.com/gag/aXP9Ymg)
- - 😝 [There&#39;s a better life](http://9gag.com/gag/aAy13o2)
- - 👉 [He was not ready for that.](http://9gag.com/gag/a2vm49e)<!-- MEMES:END -->
+ - 😝 [Found on my old smartphone](http://9gag.com/gag/aYQex9V)
+ - 😝 [Is this bait for this types of pictures in the comments? Maybe](http://9gag.com/gag/aE07xdK)
+ - 💣 [They&#39;re Entrailing Behind The Truck](http://9gag.com/gag/a7o7D0L)
+ - 😝 [Wanted to show my life hack for this summer](http://9gag.com/gag/aXP9Ymg)
+ - 👉 [A day in the life of a delivery man](http://9gag.com/gag/aqy5777)<!-- MEMES:END -->
 
 ---
 

@@ -163,7 +163,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Russia forces Apple to remove VPN apps from the App Store](https://appleinsider.com/articles/24/07/05/russia-forces-apple-to-remove-vpn-apps-from-the-app-store?utm_medium=rss)
  - [The Polar Grit X2 Pro is a smartwatch that feels adrift](https://www.theverge.com/24182483/polar-grit-x2-pro-review-smartwatch-fitness)
  - [After a 10 Year Wait, Mt. Gox Bitcoin Is Finally Being Returned](https://www.wired.com/story/after-a-10-year-wait-mt-gox-bitcoin-is-finally-being-returned/)
- - [Best July 4th Sales 2024: 83 Remaining Offers From Home Depot, Amazon, Best Buy and More](https://www.cnet.com/deals/best-july-4th-sales-2024-07-05/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [July 4th Laptop Sales You Can Still Get Today: Deep Discounts on Top Brands Like Apple, Lenovo, HP and Dell](https://www.cnet.com/deals/july-4th-laptop-deals-2024-07-05/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to create PDFs on iPhones using Notes](https://www.theverge.com/24191864/pdf-iphone-ipad-ios-how-to)
  - [Brad Pitt&#39;s &#39;F1&#39; Apple Original film speeds to theaters in summer 2025](https://appleinsider.com/articles/24/07/05/brad-pitts-f1-apple-original-film-speeds-to-theaters-in-summer-2025?utm_medium=rss)
  - [Apple&#39;s M2 Ultra Mac Studio gets fresh $400 price cut](https://appleinsider.com/articles/24/07/05/apples-m2-ultra-mac-studio-gets-fresh-400-price-cut?utm_medium=rss)
  - [Epic Games Store isn&#39;t on the EU App Store yet because of some user interface buttons](https://appleinsider.com/articles/24/07/05/epic-games-store-isnt-on-the-eu-app-store-yet-because-of-some-user-interface-buttons?utm_medium=rss)
- - [34 Best Apple July 4th Deals Still Available: Save on AirPods, Apple Watch, MacBooks and More](https://www.cnet.com/deals/apple-july-4th-deals-2024-07-05/#ftag=CAD590a51e)
- - [A test of seven Copilot+ PCs, representing all four Snapdragon X chips, against similar laptops with Apple Silicon, Intel Core Ultra, and AMD Ryzen processors &lpar;Joanna Nelius/The Verge&rpar;](http://www.techmeme.com/240705/p9#a240705p9)<!-- TECH:END -->
+ - [34 Best Apple July 4th Deals Still Available: Save on AirPods, Apple Watch, MacBooks and More](https://www.cnet.com/deals/apple-july-4th-deals-2024-07-05/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

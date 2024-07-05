@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Men only want one thing, plus one other thing](http://9gag.com/gag/aKGqdnZ)
- - 😝 [Her reaction was priceless.](http://9gag.com/gag/aVvP0Vw)
+ - 😝 [World War 4 will be fought with sticks and stones.](http://9gag.com/gag/a7o7wvq)
+ - 😝 [Stunt man at next f**king lvl](http://9gag.com/gag/aVvPqNn)
  - 💣 [Wanted to show my life hack for this summer](http://9gag.com/gag/aXP9Ymg)
- - 😝 [How about you go F yourself ?](http://9gag.com/gag/aAy1d7o)
- - 👉 [Is this bait for this types of pictures in the comments? Maybe](http://9gag.com/gag/aE07xdK)<!-- MEMES:END -->
+ - 😝 [Holy f**king christ!](http://9gag.com/gag/axyj7rD)
+ - 👉 [Godzilla is no longer with us](http://9gag.com/gag/aGyxjZ6)<!-- MEMES:END -->
 
 ---
 

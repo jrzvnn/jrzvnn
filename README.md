@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s Home Hub may be more than just a HomePod with a screen](https://appleinsider.com/articles/24/07/05/apples-home-hub-may-be-more-than-just-a-homepod-with-a-screen?utm_medium=rss)
  - [The EC asks Amazon to provide more information on its compliance with DSA provisions concerning the transparency of Amazon&#39;s recommender systems by July 26 &lpar;Benoit Van Overstraeten/Reuters&rpar;](http://www.techmeme.com/240705/p3#a240705p3)
- - [How a Group of Butterflies Managed to Fly 4,200 Kilometers Without Stopping](https://www.wired.com/story/butterflies-fly-4200-kilometers-without-stopping-nonstop-migration-painted-lady/)
- - [Mortgage Rates Inch Up Since Last Week: Mortgage Interest Rates for July 5, 2024](https://www.cnet.com/personal-finance/mortgages/mortgage-rates-inch-up-since-last-week-mortgage-interest-rates-for-july-5-2024/#ftag=CAD590a51e)
- - [Best July 4th Appliance Deals: Remaining Deals on Samsung, LG, KitchenAid and More](https://www.cnet.com/deals/best-july-4th-appliance-sales-2024-07-05/#ftag=CAD590a51e)
- - [19 July 4th Deals Still Available at Target: Incredible Savings on Tech, Appliances, Beauty Products and More](https://www.cnet.com/deals/target-july-4th-sale-2024-07-05/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung Needs to Do These Things in Order for the Galaxy Ring to Be a Hit](https://www.cnet.com/tech/mobile/samsung-needs-to-do-these-things-in-order-for-the-galaxy-ring-to-be-a-hit/#ftag=CAD590a51e)
+ - [Considering a Foldable Phone? How to Decide if It&#39;s Worth It](https://www.cnet.com/tech/mobile/foldable-phones-had-a-breakout-year-in-2023-should-you-buy-one/#ftag=CAD590a51e)
+ - [How a Group of Butterflies Managed to Fly 4,200 Kilometers Without Stopping](https://www.wired.com/story/butterflies-fly-4200-kilometers-without-stopping-nonstop-migration-painted-lady/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

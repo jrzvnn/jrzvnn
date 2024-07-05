@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lol.](http://9gag.com/gag/aByYgLO)
- - 😝 [Every damn time.](http://9gag.com/gag/avyPoDq)
- - 💣 [\u2606\u2606\u2606](http://9gag.com/gag/aByY09D)
- - 😝 [Ubisoft CEO says the outrage ove Assassins Creed Shadows is bunch of white men posing as Japanese. In response the Japanese start a petition and start voicing their discontent on yt. My Japanese gaming brothers speak up you have every right](http://9gag.com/gag/amo95ny)
- - 👉 [Men only want one thing, plus one other thing](http://9gag.com/gag/aKGqdnZ)<!-- MEMES:END -->
+ - 😝 [He was not ready for that.](http://9gag.com/gag/a2vm49e)
+ - 😝 [Marine Le Pen: When I come to power, I will ban hijab in all of France](http://9gag.com/gag/azxjXqp)
+ - 💣 [Found on my old smartphone](http://9gag.com/gag/aYQex9V)
+ - 😝 [How about you go F yourself ?](http://9gag.com/gag/aAy1d7o)
+ - 👉 [Dang hawk tuah girl just ruined every one\u2019s dreams &amp; chances of Gen wealth with OF.](http://9gag.com/gag/aXP9xPv)<!-- MEMES:END -->
 
 ---
 

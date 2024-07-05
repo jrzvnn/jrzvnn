@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Dang hawk tuah girl just ruined every one\u2019s dreams &amp; chances of Gen wealth with OF.](http://9gag.com/gag/aXP9xPv)
  - 😝 [World War 4 will be fought with sticks and stones.](http://9gag.com/gag/a7o7wvq)
- - 😝 [Stunt man at next f**king lvl](http://9gag.com/gag/aVvPqNn)
- - 💣 [Wanted to show my life hack for this summer](http://9gag.com/gag/aXP9Ymg)
- - 😝 [Holy f**king christ!](http://9gag.com/gag/axyj7rD)
- - 👉 [Godzilla is no longer with us](http://9gag.com/gag/aGyxjZ6)<!-- MEMES:END -->
+ - 💣 [Men only want one thing, plus one other thing](http://9gag.com/gag/aKGqdnZ)
+ - 😝 [There&#39;s a better life](http://9gag.com/gag/aAy13o2)
+ - 👉 [Just some random numbers. Nothing special about them.](http://9gag.com/gag/aGyxjGw)<!-- MEMES:END -->
 
 ---
 

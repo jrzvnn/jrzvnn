@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Saturday Night Live’ Writer Alex English Thinks Social Media Ruined the Art of Comedy](https://www.wired.com/story/dial-up-saturday-night-live-alex-english/)
  - [How to create PDFs on iPhones using Notes](https://www.theverge.com/24191864/pdf-iphone-ipad-ios-how-to)
  - [Brad Pitt&#39;s &#39;F1&#39; Apple Original film speeds to theaters in summer 2025](https://appleinsider.com/articles/24/07/05/brad-pitts-f1-apple-original-film-speeds-to-theaters-in-summer-2025?utm_medium=rss)
  - [Apple&#39;s M2 Ultra Mac Studio gets fresh $400 price cut](https://appleinsider.com/articles/24/07/05/apples-m2-ultra-mac-studio-gets-fresh-400-price-cut?utm_medium=rss)
- - [Best Window AC Units of 2024](https://www.cnet.com/home/kitchen-and-household/best-window-ac-units/#ftag=CAD590a51e)
- - [Last Chance to Slash $229 Off Your New Ecoflow Portable Power Station With This July 4th Sale](https://www.cnet.com/deals/last-chance-to-slash-229-off-your-new-ecoflow-portable-power-station-with-this-july-4th-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Window AC Units of 2024](https://www.cnet.com/home/kitchen-and-household/best-window-ac-units/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

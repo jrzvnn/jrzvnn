@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Watch Series 10 - All the screen, size, and band rumors](https://appleinsider.com/articles/24/07/05/apple-watch-series-10---all-the-screen-size-and-band-rumors?utm_medium=rss)
  - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
  - [Apple&#39;s Home Hub may be more than just a HomePod with a screen](https://appleinsider.com/articles/24/07/05/apples-home-hub-may-be-more-than-just-a-homepod-with-a-screen?utm_medium=rss)
  - [Epic says Apple is impeding its attempts to set up a games store on iPhones and iPads in Europe and that it has shared its concerns with the European Commission &lpar;Reuters&rpar;](http://www.techmeme.com/240705/p4#a240705p4)
- - [The World’s Most Popular 3D-Printed Gun Was Designed by an Aspiring Terrorist](https://www.wired.com/story/3d-printing-guns-fgc9-creator-jacob-dugyu-jstark1809/)
- - [Meta’s Threads is thriving one year in, but X is still in the fight](https://www.theverge.com/2024/7/5/24191804/meta-threads-x-twitter-one-year-vs)<!-- TECH:END -->
+ - [The World’s Most Popular 3D-Printed Gun Was Designed by an Aspiring Terrorist](https://www.wired.com/story/3d-printing-guns-fgc9-creator-jacob-dugyu-jstark1809/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

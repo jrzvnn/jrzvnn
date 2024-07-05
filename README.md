@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He was not ready for that.](http://9gag.com/gag/a2vm49e)
- - 😝 [Trauma is the best teacher](http://9gag.com/gag/a7o7WMz)
- - 💣 [Just some random numbers. Nothing special about them.](http://9gag.com/gag/aGyxjGw)
+ - 😝 [Every damn time.](http://9gag.com/gag/avyPoDq)
  - 😝 [Men only want one thing, plus one other thing](http://9gag.com/gag/aKGqdnZ)
- - 👉 [Dang hawk tuah girl just ruined every one\u2019s dreams &amp; chances of Gen wealth with OF.](http://9gag.com/gag/aXP9xPv)<!-- MEMES:END -->
+ - 💣 [Can you feel it?](http://9gag.com/gag/a0epRzn)
+ - 😝 [Do we even need to know what&#39;s been said?](http://9gag.com/gag/aByYmLz)
+ - 👉 [Friendly reminder.](http://9gag.com/gag/aRBA7VM)<!-- MEMES:END -->
 
 ---
 

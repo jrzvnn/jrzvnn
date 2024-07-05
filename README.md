@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dang hawk tuah girl just ruined every one\u2019s dreams &amp; chances of Gen wealth with OF.](http://9gag.com/gag/aXP9xPv)
- - 😝 [World War 4 will be fought with sticks and stones.](http://9gag.com/gag/a7o7wvq)
- - 💣 [Men only want one thing, plus one other thing](http://9gag.com/gag/aKGqdnZ)
- - 😝 [There&#39;s a better life](http://9gag.com/gag/aAy13o2)
- - 👉 [Just some random numbers. Nothing special about them.](http://9gag.com/gag/aGyxjGw)<!-- MEMES:END -->
+ - 😝 [Every damn time.](http://9gag.com/gag/avyPoDq)
+ - 😝 [Lol.](http://9gag.com/gag/aByYgLO)
+ - 💣 [\u2606\u2606\u2606](http://9gag.com/gag/aByY09D)
+ - 😝 [Ubisoft CEO says the outrage ove Assassins Creed Shadows is bunch of white men posing as Japanese. In response the Japanese start a petition and start voicing their discontent on yt. My Japanese gaming brothers speak up you have every right](http://9gag.com/gag/amo95ny)
+ - 👉 [Men only want one thing, plus one other thing](http://9gag.com/gag/aKGqdnZ)<!-- MEMES:END -->
 
 ---
 

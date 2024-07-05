@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wanted to show my life hack for this summer](http://9gag.com/gag/aXP9Ymg)
- - 😝 [He was not ready for that.](http://9gag.com/gag/a2vm49e)
- - 💣 [Marine Le Pen: When I come to power, I will ban hijab in all of France](http://9gag.com/gag/azxjXqp)
- - 😝 [One advantage of being blind](http://9gag.com/gag/aLn2gdg)
- - 👉 [They&#39;re Entrailing Behind The Truck](http://9gag.com/gag/a7o7D0L)<!-- MEMES:END -->
+ - 😝 [Anime recommendations](http://9gag.com/gag/aXP9Yzg)
+ - 😝 [The muffin man](http://9gag.com/gag/ae9GMDb)
+ - 💣 [Come on barbie let&#39;s go party](http://9gag.com/gag/aLn2g25)
+ - 😝 [So who is geh?](http://9gag.com/gag/a6Z7VzA)
+ - 👉 [How about you go F yourself ?](http://9gag.com/gag/aAy1d7o)<!-- MEMES:END -->
 
 ---
 

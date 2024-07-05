@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How xenophobic content on Chinese social media, directed towards Japan, the US, Jews, and others, became the subject of a debate and spreads despite censorship &lpar;Li Yuan/New York Times&rpar;](http://www.techmeme.com/240705/p12#a240705p12)
  - [Amazon Fire Tablets Drop to New All-Time Low Thanks to Lingering July 4th Deals](https://www.cnet.com/deals/amazon-fire-tablets-drop-to-new-all-time-low-thanks-to-lingering-july-4th-deals/#ftag=CAD590a51e)
  - [Samsung Galaxy Buds 3 Pro Leak as Redditor Allegedly Buys Unreleased Earbuds at Walmart](https://www.cnet.com/tech/mobile/samsung-galaxy-buds-3-pro-leak-as-redditor-allegedly-buys-unreleased-earbuds-at-walmart/#ftag=CAD590a51e)
  - [Here Are CNET Readers&#39; 20 Favorite July 4th Deals](https://www.cnet.com/deals/here-are-cnet-readers-20-favorite-july-4th-deals/#ftag=CAD590a51e)
- - [Metaphor: ReFantazio Imagines Persona in a Fantastical Medieval Setting video](https://www.cnet.com/videos/metaphor-refantazio-imagines-persona-in-a-fantastical-medieval-setting/#ftag=CAD590a51e)
- - [Amazon July 4th Deals Are Still Here. Don’t Wait for Amazon Prime Day to Save](https://www.cnet.com/deals/amazon-july-4th-sale-2024-07-05/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Metaphor: ReFantazio Imagines Persona in a Fantastical Medieval Setting video](https://www.cnet.com/videos/metaphor-refantazio-imagines-persona-in-a-fantastical-medieval-setting/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

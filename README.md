@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There&#39;s a better life](http://9gag.com/gag/aAy13o2)
- - 😝 [Don&#39;t ever tell me again that you haven&#39;t seen African American NASA employees.](http://9gag.com/gag/aLn2055)
- - 💣 [World War 4 will be fought with sticks and stones.](http://9gag.com/gag/a7o7wvq)
- - 😝 [Related post needed](http://9gag.com/gag/aYQegjw)
- - 👉 [BALERION](http://9gag.com/gag/azxj9GB)<!-- MEMES:END -->
+ - 😝 [They&#39;re Entrailing Behind The Truck](http://9gag.com/gag/a7o7D0L)
+ - 😝 [This will keep those with OCD awake at night.](http://9gag.com/gag/a4PYRyw)
+ - 💣 [He was not ready for that.](http://9gag.com/gag/a2vm49e)
+ - 😝 [Trauma is the best teacher](http://9gag.com/gag/a7o7WMz)
+ - 👉 [Here kitty kitty](http://9gag.com/gag/a9y7AdD)<!-- MEMES:END -->
 
 ---
 

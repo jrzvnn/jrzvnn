@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [He was not ready for that.](http://9gag.com/gag/a2vm49e)
- - 😝 [Marine Le Pen: When I come to power, I will ban hijab in all of France](http://9gag.com/gag/azxjXqp)
- - 💣 [Found on my old smartphone](http://9gag.com/gag/aYQex9V)
- - 😝 [How about you go F yourself ?](http://9gag.com/gag/aAy1d7o)
- - 👉 [Dang hawk tuah girl just ruined every one\u2019s dreams &amp; chances of Gen wealth with OF.](http://9gag.com/gag/aXP9xPv)<!-- MEMES:END -->
+ - 😝 [Found on my old smartphone](http://9gag.com/gag/aYQex9V)
+ - 💣 [Holy f**king christ!](http://9gag.com/gag/axyj7rD)
+ - 😝 [Godzilla is no longer with us](http://9gag.com/gag/aGyxjZ6)
+ - 👉 [Is this bait for this types of pictures in the comments? Maybe](http://9gag.com/gag/aE07xdK)<!-- MEMES:END -->
 
 ---
 

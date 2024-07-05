@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Interfax: Apple has removed the mobile apps of 25 VPN services from its App Store in Russia, following a request by Roskomnadzor &lpar;Reuters&rpar;](http://www.techmeme.com/240705/p11#a240705p11)
  - [Apple green lights Epic Games Store in rapid reversal](https://appleinsider.com/articles/24/07/05/apple-green-lights-epic-games-store-in-rapid-reversal?utm_medium=rss)
- - [Stay Powered Up on the Go With Huge Savings on a Jackery Power Station for Prime Members](https://www.cnet.com/deals/stay-powered-up-on-the-go-with-huge-savings-on-a-jackery-power-station-for-prime-members/#ftag=CAD590a51e)
- - [Save up to 39% on MyQ Smart Home Devices With This Extended July 4th Sale](https://www.cnet.com/deals/save-up-to-39-on-myq-smart-home-devices-with-this-extended-july-4th-sale/#ftag=CAD590a51e)
- - [6 Things You Don&#39;t Want to Cook in an Air Fryer &lpar;Trust Me&rpar;](https://www.cnet.com/how-to/6-things-you-dont-want-to-cook-in-an-air-fryer-trust-us/#ftag=CAD590a51e)
- - [Target 4th of July Sale: 21 Best Deals Still Available on Tech, Appliances and More](https://www.cnet.com/deals/target-july-4th-sale-2024-07-05/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Metaphor: ReFantazio Imagines Persona in a Fantastical Medieval Setting](https://www.cnet.com/tech/gaming/metaphor-refantazio-imagines-persona-in-a-fantastical-medieval-setting/#ftag=CAD590a51e)
+ - [&#39;A Quiet Place: Day One&#39; Is in Theaters, but Here&#39;s How to Stream the First Two Flicks](https://www.cnet.com/tech/services-and-software/a-quiet-place-day-one-is-in-theaters-but-heres-how-to-stream-the-first-two-flicks/#ftag=CAD590a51e)
+ - [Get Free Wi-Fi While Traveling This Summer and Keep in Touch](https://www.cnet.com/home/internet/get-free-wi-fi-while-traveling-this-summer-and-keep-in-touch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Every damn time.](http://9gag.com/gag/avyPoDq)
- - 😝 [Men only want one thing, plus one other thing](http://9gag.com/gag/aKGqdnZ)
- - 💣 [Can you feel it?](http://9gag.com/gag/a0epRzn)
- - 😝 [Do we even need to know what&#39;s been said?](http://9gag.com/gag/aByYmLz)
- - 👉 [Friendly reminder.](http://9gag.com/gag/aRBA7VM)<!-- MEMES:END -->
+ - 😝 [There&#39;s a better life](http://9gag.com/gag/aAy13o2)
+ - 😝 [Don&#39;t ever tell me again that you haven&#39;t seen African American NASA employees.](http://9gag.com/gag/aLn2055)
+ - 💣 [World War 4 will be fought with sticks and stones.](http://9gag.com/gag/a7o7wvq)
+ - 😝 [Related post needed](http://9gag.com/gag/aYQegjw)
+ - 👉 [BALERION](http://9gag.com/gag/azxj9GB)<!-- MEMES:END -->
 
 ---
 

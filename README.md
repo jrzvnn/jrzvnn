@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In a complaint filed at a California court, two ex-Northern Data executives say they were fired after raising concerns about alleged fraud by the CEO and COO &lpar;Bryce Elder/Financial Times&rpar;](http://www.techmeme.com/240705/p8#a240705p8)
+ - [Why Redbox has been powering down](https://www.theverge.com/2024/7/5/24191963/redbox-chicken-soup-for-the-soul-entertainment-bankruptcy-why)
  - [Epic Games Lashes Out at Apple Over App Store Rejection](https://www.wired.com/story/epic-games-lashes-out-at-apple-over-app-store-rejection/)
  - [At just over $20, Half-Life: Alyx is essential playing for VR headset owners](https://www.theverge.com/2024/7/5/24191841/half-life-alyx-valve-vr-steam-summer-sale-deal)
- - [iPhone 16 Pro again rumored to get Tetraprism zoom lens](https://appleinsider.com/articles/24/07/05/iphone-16-pro-again-rumored-to-get-tetraprism-zoom-lens?utm_medium=rss)
- - [YouTube’s improved eraser tool easily removes copyrighted music from videos](https://www.theverge.com/2024/7/5/24192635/youtube-ai-eraser-tool-copyrighted-music-content-id)
- - [Apple&#39;s blue M1 iMac 24-inch is on sale for $999](https://appleinsider.com/articles/24/07/05/apples-blue-m1-imac-24-inch-is-on-sale-for-999?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone 16 Pro again rumored to get Tetraprism zoom lens](https://appleinsider.com/articles/24/07/05/iphone-16-pro-again-rumored-to-get-tetraprism-zoom-lens?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

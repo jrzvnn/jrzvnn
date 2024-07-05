@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best July 4th Sales 2024: 83 Remaining Offers From Home Depot, Amazon, Best Buy and More](https://www.cnet.com/deals/best-july-4th-sales-2024-07-05/#ftag=CAD590a51e)
+ - [Top 60 July 4th Deals Under $25 Still Available: Incredible Savings on Outdoor Gear, Tech, Toys and More](https://www.cnet.com/deals/july-4th-deals-under-25-2024-07-05/#ftag=CAD590a51e)
  - [How Labour Can Fix the UK’s Tech Industry](https://www.wired.com/story/can-the-uk-finally-fix-techs-big-pipeline-problem/)
  - [Health Care Should Be Designed for the Extremes of Life](https://www.wired.com/story/wired-health-yves-behar-design-health-fuseproject-snoo-moxie/)
- - [The prospect of applying generative AI to contract lifecycle management software has prompted a flurry of deals, as experts expect further market consolidation &lpar;Nick Huber/Financial Times&rpar;](http://www.techmeme.com/240705/p1#a240705p1)
- - [Best July 4th Mattress Deals: 23 Different Designs to Find the Best Night&#39;s Sleep](https://www.cnet.com/deals/best-july-4th-mattress-deals-23-different-designs-to-find-the-best-nights-sleep/#ftag=CAD590a51e)
- - [Score Big Discounts on Top Mattresses From Several Brands With Mattress Firm’s July 4th Sale](https://www.cnet.com/deals/mattress-firm-4th-of-july-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The prospect of applying generative AI to contract lifecycle management software has prompted a flurry of deals, as experts expect further market consolidation &lpar;Nick Huber/Financial Times&rpar;](http://www.techmeme.com/240705/p1#a240705p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

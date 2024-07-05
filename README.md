@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Men only want one thing, plus one other thing](http://9gag.com/gag/aKGqdnZ)
+ - 😝 [Her reaction was priceless.](http://9gag.com/gag/aVvP0Vw)
+ - 💣 [Wanted to show my life hack for this summer](http://9gag.com/gag/aXP9Ymg)
  - 😝 [How about you go F yourself ?](http://9gag.com/gag/aAy1d7o)
- - 😝 [Little old lady walking jacob around the city](http://9gag.com/gag/a5Q7RZy)
- - 💣 [Ubisoft CEO says the outrage ove Assassins Creed Shadows is bunch of white men posing as Japanese. In response the Japanese start a petition and start voicing their discontent on yt. My Japanese gaming brothers speak up you have every right](http://9gag.com/gag/amo95ny)
- - 😝 [Marine Le Pen: When I come to power, I will ban hijab in all of France](http://9gag.com/gag/azxjXqp)
- - 👉 [Forced behavior society](http://9gag.com/gag/amo95q2)<!-- MEMES:END -->
+ - 👉 [Is this bait for this types of pictures in the comments? Maybe](http://9gag.com/gag/aE07xdK)<!-- MEMES:END -->
 
 ---
 

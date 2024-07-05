@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Little old lady walking jacob around the city](http://9gag.com/gag/a5Q7RZy)
- - 😝 [They&#39;re Entrailing Behind The Truck](http://9gag.com/gag/a7o7D0L)
- - 💣 [Marine Le Pen: When I come to power, I will ban hijab in all of France](http://9gag.com/gag/azxjXqp)
- - 😝 [Found on my old smartphone](http://9gag.com/gag/aYQex9V)
- - 👉 [He was not ready for that.](http://9gag.com/gag/a2vm49e)<!-- MEMES:END -->
+ - 😝 [Your daily dose](http://9gag.com/gag/amo9rO4)
+ - 😝 [I can confirm, it is](http://9gag.com/gag/aryKOzd)
+ - 💣 [They&#39;re Entrailing Behind The Truck](http://9gag.com/gag/a7o7D0L)
+ - 😝 [Is this bait for this types of pictures in the comments? Maybe](http://9gag.com/gag/aE07xdK)
+ - 👉 [Little old lady walking jacob around the city](http://9gag.com/gag/a5Q7RZy)<!-- MEMES:END -->
 
 ---
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stay Powered Up on the Go With Huge Savings on a Jackery Power Station for Prime Members](https://www.cnet.com/deals/stay-powered-up-on-the-go-with-huge-savings-on-a-jackery-power-station-for-prime-members/#ftag=CAD590a51e)
- - [Save up to 39% on MyQ Smart Home Devices With This Extended July 4th Sale](https://www.cnet.com/deals/save-up-to-39-on-myq-smart-home-devices-with-this-extended-july-4th-sale/#ftag=CAD590a51e)
- - [6 Things You Don&#39;t Want to Cook in an Air Fryer &lpar;Trust Me&rpar;](https://www.cnet.com/how-to/6-things-you-dont-want-to-cook-in-an-air-fryer-trust-us/#ftag=CAD590a51e)
- - [Target 4th of July Sale: 21 Best Deals Still Available on Tech, Appliances and More](https://www.cnet.com/deals/target-july-4th-sale-2024-07-05/#ftag=CAD590a51e)
- - [Researcher: X is exploring more ways to integrate xAI&#39;s Grok, including the ability to ask Grok about X accounts and use Grok by highlighting text in the app &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240705/p10#a240705p10)<!-- TECH:END -->
+ - [Apple green lights Epic Games Store in rapid reversal](https://appleinsider.com/articles/24/07/05/apple-green-lights-epic-games-store-in-rapid-reversal?utm_medium=rss)
+ - [Researcher: X is exploring more ways to integrate xAI&#39;s Grok, including the ability to ask Grok about X accounts and use Grok by highlighting text in the app &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240705/p10#a240705p10)
+ - [Add CarPlay or Android Auto to Your Car for 50% Less if You Act Fast on This July 4th Deal](https://www.cnet.com/deals/add-carplay-or-android-auto-to-your-car-for-50-less-if-you-act-fast-on-this-july-4th-deal/#ftag=CAD590a51e)
+ - [When Is Amazon Prime Day 2024?](https://www.cnet.com/deals/when-is-amazon-prime-day/#ftag=CAD590a51e)
+ - [Toss Out That Leftover Rice Before It Makes You Sick. Here&#39;s Why.](https://www.cnet.com/how-to/toss-out-that-leftover-rice-before-it-makes-you-sick-heres-why/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

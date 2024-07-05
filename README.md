@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How about you go F yourself ?](http://9gag.com/gag/aAy1d7o)
- - 😝 [Found this post under bricks and rubble](http://9gag.com/gag/abA06Ap)
- - 💣 [Wanted to show my life hack for this summer](http://9gag.com/gag/aXP9Ymg)
- - 😝 [Dang hawk tuah girl just ruined every one\u2019s dreams &amp; chances of Gen wealth with OF.](http://9gag.com/gag/aXP9xPv)
- - 👉 [This pleases me....immensely.](http://9gag.com/gag/adBjq3d)<!-- MEMES:END -->
+ - 😝 [Little old lady walking jacob around the city](http://9gag.com/gag/a5Q7RZy)
+ - 😝 [They&#39;re Entrailing Behind The Truck](http://9gag.com/gag/a7o7D0L)
+ - 💣 [Marine Le Pen: When I come to power, I will ban hijab in all of France](http://9gag.com/gag/azxjXqp)
+ - 😝 [Found on my old smartphone](http://9gag.com/gag/aYQex9V)
+ - 👉 [He was not ready for that.](http://9gag.com/gag/a2vm49e)<!-- MEMES:END -->
 
 ---
 

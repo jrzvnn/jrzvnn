@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube releases an updated Erase Song tool for creators that uses AI to detect and remove any copyrighted music from their videos without impacting other audio &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240705/p2#a240705p2)
- - [Russia forces Apple to remove VPN apps from the App Store](https://appleinsider.com/articles/24/07/05/russia-forces-apple-to-remove-vpn-apps-from-the-app-store?utm_medium=rss)
- - [The Polar Grit X2 Pro is a smartwatch that feels adrift](https://www.theverge.com/24182483/polar-grit-x2-pro-review-smartwatch-fitness)
- - [After a 10 Year Wait, Mt. Gox Bitcoin Is Finally Being Returned](https://www.wired.com/story/after-a-10-year-wait-mt-gox-bitcoin-is-finally-being-returned/)
- - [July 4th Laptop Sales You Can Still Get Today: Deep Discounts on Top Brands Like Apple, Lenovo, HP and Dell](https://www.cnet.com/deals/july-4th-laptop-deals-2024-07-05/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The EC asks Amazon to provide more information on its compliance with DSA provisions concerning the transparency of Amazon&#39;s recommender systems by July 26 &lpar;Benoit Van Overstraeten/Reuters&rpar;](http://www.techmeme.com/240705/p3#a240705p3)
+ - [How a Group of Butterflies Managed to Fly 4,200 Kilometers Without Stopping](https://www.wired.com/story/butterflies-fly-4200-kilometers-without-stopping-nonstop-migration-painted-lady/)
+ - [Mortgage Rates Inch Up Since Last Week: Mortgage Interest Rates for July 5, 2024](https://www.cnet.com/personal-finance/mortgages/mortgage-rates-inch-up-since-last-week-mortgage-interest-rates-for-july-5-2024/#ftag=CAD590a51e)
+ - [Best July 4th Appliance Deals: Remaining Deals on Samsung, LG, KitchenAid and More](https://www.cnet.com/deals/best-july-4th-appliance-sales-2024-07-05/#ftag=CAD590a51e)
+ - [19 July 4th Deals Still Available at Target: Incredible Savings on Tech, Appliances, Beauty Products and More](https://www.cnet.com/deals/target-july-4th-sale-2024-07-05/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

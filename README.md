@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung estimates Q2 operating profit up 1,452% YoY to $7.54B, and revenue up 23% YoY to ~$53.7B, as chip prices keep rising &lpar;Reuters&rpar;](http://www.techmeme.com/240704/p19#a240704p19)
  - [Cloudflare launches a tool that aims to block bots from scraping websites for AI training data, available free for all customers &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240704/p18#a240704p18)
+ - [Top 60 July 4th Deals Under $25: Incredible Savings on Outdoor Gear, Tech, Toys and More](https://www.cnet.com/deals/july-4th-deals-under-25-2024-07-04/#ftag=CAD590a51e)
  - [Get a Sitewide 20% Discount at Urban Armor Gear for July 4th](https://www.cnet.com/deals/sitewide-20-discount-urban-armor-gear-july-4th/#ftag=CAD590a51e)
- - [Epic July 4th Laptop Sales: Deep Discounts on Top-brands like Apple, Lenovo, HP and Dell](https://www.cnet.com/deals/july-4th-laptop-deals-2024-07-04/#ftag=CAD590a51e)
- - [South Korea unveils a monitoring system to find crypto exchange accounts linked to &quot;suspected&quot; trading activity, as a new law takes effect on July 19 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240704/p17#a240704p17)
- - [Get the Spigen Lock Fit MagSafe Wallet at a Great Discount on July 4th](https://www.cnet.com/deals/spigen-lock-fit-magsafe-wallet-discount-july-4th/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Epic July 4th Laptop Sales: Deep Discounts on Top-brands like Apple, Lenovo, HP and Dell](https://www.cnet.com/deals/july-4th-laptop-deals-2024-07-04/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

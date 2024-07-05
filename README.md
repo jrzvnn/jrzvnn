@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube releases an updated Erase Song tool for creators that uses AI to detect and remove any copyrighted music from their videos without impacting other audio &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240705/p2#a240705p2)
  - [Russia forces Apple to remove VPN apps from the App Store](https://appleinsider.com/articles/24/07/05/russia-forces-apple-to-remove-vpn-apps-from-the-app-store?utm_medium=rss)
  - [The Polar Grit X2 Pro is a smartwatch that feels adrift](https://www.theverge.com/24182483/polar-grit-x2-pro-review-smartwatch-fitness)
- - [Best July 4th Sales 2024: 83 Remaining Offers From Home Depot, Amazon, Best Buy and More](https://www.cnet.com/deals/best-july-4th-sales-2024-07-05/#ftag=CAD590a51e)
- - [Top 60 July 4th Deals Under $25 Still Available: Incredible Savings on Outdoor Gear, Tech, Toys and More](https://www.cnet.com/deals/july-4th-deals-under-25-2024-07-05/#ftag=CAD590a51e)
- - [How Labour Can Fix the UK’s Tech Industry](https://www.wired.com/story/can-the-uk-finally-fix-techs-big-pipeline-problem/)<!-- TECH:END -->
+ - [After a 10 Year Wait, Mt. Gox Bitcoin Is Finally Being Returned](https://www.wired.com/story/after-a-10-year-wait-mt-gox-bitcoin-is-finally-being-returned/)
+ - [Best July 4th Sales 2024: 83 Remaining Offers From Home Depot, Amazon, Best Buy and More](https://www.cnet.com/deals/best-july-4th-sales-2024-07-05/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

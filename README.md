@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One more thing!!](http://9gag.com/gag/aqy5rQM)
- - 😝 [He was not ready for that.](http://9gag.com/gag/a2vm49e)
- - 💣 [It&#39;s same as spiderteen having a hot aunt.](http://9gag.com/gag/aW468A6)
- - 😝 [Wanted to show my life hack for this summer](http://9gag.com/gag/aXP9Ymg)
- - 👉 [Dang hawk tuah girl just ruined every one\u2019s dreams &amp; chances of Gen wealth with OF.](http://9gag.com/gag/aXP9xPv)<!-- MEMES:END -->
+ - 😝 [How about you go F yourself ?](http://9gag.com/gag/aAy1d7o)
+ - 😝 [Found this post under bricks and rubble](http://9gag.com/gag/abA06Ap)
+ - 💣 [Wanted to show my life hack for this summer](http://9gag.com/gag/aXP9Ymg)
+ - 😝 [Dang hawk tuah girl just ruined every one\u2019s dreams &amp; chances of Gen wealth with OF.](http://9gag.com/gag/aXP9xPv)
+ - 👉 [This pleases me....immensely.](http://9gag.com/gag/adBjq3d)<!-- MEMES:END -->
 
 ---
 

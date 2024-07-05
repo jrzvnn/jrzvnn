@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Every workplace has this girl who is engaged](http://9gag.com/gag/aYQeKYm)
- - 😝 [Your daily dose](http://9gag.com/gag/amo9rO4)
- - 💣 [Found this post under bricks and rubble](http://9gag.com/gag/abA06Ap)
+ - 😝 [I can confirm, it is](http://9gag.com/gag/aryKOzd)
+ - 😝 [It&#39;s same as spiderteen having a hot aunt.](http://9gag.com/gag/aW468A6)
+ - 💣 [Found on my old smartphone](http://9gag.com/gag/aYQex9V)
  - 😝 [They&#39;re Entrailing Behind The Truck](http://9gag.com/gag/a7o7D0L)
- - 👉 [Ain&#39;t getting the blame](http://9gag.com/gag/awyx5vR)<!-- MEMES:END -->
+ - 👉 [How about you go F yourself ?](http://9gag.com/gag/aAy1d7o)<!-- MEMES:END -->
 
 ---
 

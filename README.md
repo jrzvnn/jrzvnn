@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can you feel it?](http://9gag.com/gag/a0epRzn)
- - 😝 [The perfect mc mod doesn\u2019t exi-](http://9gag.com/gag/ae9GMoq)
- - 💣 [How about you go F yourself ?](http://9gag.com/gag/aAy1d7o)
- - 😝 [Forced behavior society](http://9gag.com/gag/amo95q2)
- - 👉 [Little old lady walking jacob around the city](http://9gag.com/gag/a5Q7RZy)<!-- MEMES:END -->
+ - 😝 [How about you go F yourself ?](http://9gag.com/gag/aAy1d7o)
+ - 😝 [Little old lady walking jacob around the city](http://9gag.com/gag/a5Q7RZy)
+ - 💣 [Ubisoft CEO says the outrage ove Assassins Creed Shadows is bunch of white men posing as Japanese. In response the Japanese start a petition and start voicing their discontent on yt. My Japanese gaming brothers speak up you have every right](http://9gag.com/gag/amo95ny)
+ - 😝 [Marine Le Pen: When I come to power, I will ban hijab in all of France](http://9gag.com/gag/azxjXqp)
+ - 👉 [Forced behavior society](http://9gag.com/gag/amo95q2)<!-- MEMES:END -->
 
 ---
 

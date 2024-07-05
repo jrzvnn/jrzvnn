@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [He was not ready for that.](http://9gag.com/gag/a2vm49e)
  - 😝 [Found on my old smartphone](http://9gag.com/gag/aYQex9V)
- - 😝 [Dang hawk tuah girl just ruined every one\u2019s dreams &amp; chances of Gen wealth with OF.](http://9gag.com/gag/aXP9xPv)
  - 💣 [Marine Le Pen: When I come to power, I will ban hijab in all of France](http://9gag.com/gag/azxjXqp)
- - 😝 [Gotta luv women](http://9gag.com/gag/a2vmrqd)
- - 👉 [Wanted to show my life hack for this summer](http://9gag.com/gag/aXP9Ymg)<!-- MEMES:END -->
+ - 😝 [Dang hawk tuah girl just ruined every one\u2019s dreams &amp; chances of Gen wealth with OF.](http://9gag.com/gag/aXP9xPv)
+ - 👉 [There&#39;s a better life](http://9gag.com/gag/aAy13o2)<!-- MEMES:END -->
 
 ---
 

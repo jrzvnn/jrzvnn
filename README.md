@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Now give me your money!](http://9gag.com/gag/aKGq7qb)
  - 😝 [This will keep those with OCD awake at night.](http://9gag.com/gag/a4PYRyw)
- - 😝 [Holy f**king christ!](http://9gag.com/gag/axyj7rD)
- - 💣 [Do we even need to know what&#39;s been said?](http://9gag.com/gag/aByYmLz)
- - 😝 [Wanted to show my life hack for this summer](http://9gag.com/gag/aXP9Ymg)
- - 👉 [There&#39;s a better life](http://9gag.com/gag/aAy13o2)<!-- MEMES:END -->
+ - 💣 [Is this bait for this types of pictures in the comments? Maybe](http://9gag.com/gag/aE07xdK)
+ - 😝 [They&#39;re Entrailing Behind The Truck](http://9gag.com/gag/a7o7D0L)
+ - 👉 [Wanted to show my life hack for this summer](http://9gag.com/gag/aXP9Ymg)<!-- MEMES:END -->
 
 ---
 

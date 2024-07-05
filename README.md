@@ -168,8 +168,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Every damn time.](http://9gag.com/gag/avyPoDq)
  - 😝 [Lol.](http://9gag.com/gag/aByYgLO)
+ - 😝 [Every damn time.](http://9gag.com/gag/avyPoDq)
  - 💣 [\u2606\u2606\u2606](http://9gag.com/gag/aByY09D)
  - 😝 [Ubisoft CEO says the outrage ove Assassins Creed Shadows is bunch of white men posing as Japanese. In response the Japanese start a petition and start voicing their discontent on yt. My Japanese gaming brothers speak up you have every right](http://9gag.com/gag/amo95ny)
  - 👉 [Men only want one thing, plus one other thing](http://9gag.com/gag/aKGqdnZ)<!-- MEMES:END -->

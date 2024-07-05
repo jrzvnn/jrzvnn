@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for July 5, #124](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-5-124/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for July 5, #1112](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-5-1112/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for July 5, #390](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-5-390/#ftag=CAD590a51e)
  - [JSAUX FlipGo Portable Dual Monitor review: Double your screens, double your productivity](https://appleinsider.com/articles/24/07/05/jsaux-flipgo-portable-dual-monitor-review-double-your-screens-double-your-productivity?utm_medium=rss)
- - [Samsung estimates Q2 operating profit up 1,452% YoY to $7.54B, and revenue up 23% YoY to ~$53.7B, as chip prices keep rising &lpar;Reuters&rpar;](http://www.techmeme.com/240704/p19#a240704p19)
- - [Cloudflare launches a tool that aims to block bots from scraping websites for AI training data, available free for all customers &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240704/p18#a240704p18)
- - [Top 61 July 4th Deals Under $25: Incredible Savings on Outdoor Gear, Tech, Toys and More](https://www.cnet.com/deals/july-4th-deals-under-25-2024-07-04/#ftag=CAD590a51e)
- - [Get a Sitewide 20% Discount at Urban Armor Gear for July 4th](https://www.cnet.com/deals/sitewide-20-discount-urban-armor-gear-july-4th/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung estimates Q2 operating profit up 1,452% YoY to $7.54B, and revenue up 23% YoY to ~$53.7B, as chip prices keep rising &lpar;Reuters&rpar;](http://www.techmeme.com/240704/p19#a240704p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

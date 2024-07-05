@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Epic Games Store isn&#39;t on the EU App Store yet because of some user interface buttons](https://appleinsider.com/articles/24/07/05/epic-games-store-isnt-on-the-eu-app-store-yet-because-of-some-user-interface-buttons?utm_medium=rss)
+ - [34 Best Apple July 4th Deals Still Available: Save on AirPods, Apple Watch, MacBooks and More](https://www.cnet.com/deals/apple-july-4th-deals-2024-07-05/#ftag=CAD590a51e)
  - [A test of seven Copilot+ PCs, representing all four Snapdragon X chips, against similar laptops with Apple Silicon, Intel Core Ultra, and AMD Ryzen processors &lpar;Joanna Nelius/The Verge&rpar;](http://www.techmeme.com/240705/p9#a240705p9)
- - [The Steam Summer Sale Has Arrived. Here&#39;s a List of All Steam Sales](https://www.cnet.com/tech/services-and-software/when-are-steam-sales/#ftag=CAD590a51e)
- - [My Go-To Wearable Air Conditioner Is 15% Off](https://www.cnet.com/tech/mobile/my-go-to-wearable-air-conditioner-is-15-off/#ftag=CAD590a51e)
- - [New iPhone 15 Pro or Pro Max? Do These 3 Things First When Setting Up](https://www.cnet.com/tech/mobile/new-iphone-15-pro-or-pro-max-do-these-3-things-first-when-setting-up/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Hurricane Checklist: 7 Steps You Need to Take Before Beryl Hits the US](https://www.cnet.com/how-to/hurricane-checklist-7-steps-you-need-to-take-before-ian-hits-florida/#ftag=CAD590a51e)
+ - [Why Some Health Conditions, and Medications Used to Treat Them, Can Make Heat Riskier](https://www.cnet.com/health/medical/why-some-health-conditions-and-medications-used-to-treat-them-can-make-heat-riskier/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

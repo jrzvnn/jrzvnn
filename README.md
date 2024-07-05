@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Love in his eyes](http://9gag.com/gag/a9y7KQo)
- - 😝 [Godzilla is no longer with us](http://9gag.com/gag/aGyxjZ6)
- - 💣 [Friendly reminder.](http://9gag.com/gag/aRBA7VM)
- - 😝 [Its all in the wrist.](http://9gag.com/gag/a5Q7oKg)
- - 👉 [World War 4 will be fought with sticks and stones.](http://9gag.com/gag/a7o7wvq)<!-- MEMES:END -->
+ - 😝 [Do we even need to know what&#39;s been said?](http://9gag.com/gag/aByYmLz)
+ - 😝 [Perfect reason to wear one](http://9gag.com/gag/aD2o4vK)
+ - 💣 [Dang hawk tuah girl just ruined every one\u2019s dreams &amp; chances of Gen wealth with OF.](http://9gag.com/gag/aXP9xPv)
+ - 😝 [Wanted to show my life hack for this summer](http://9gag.com/gag/aXP9Ymg)
+ - 👉 [Is this bait for this types of pictures in the comments? Maybe](http://9gag.com/gag/aE07xdK)<!-- MEMES:END -->
 
 ---
 

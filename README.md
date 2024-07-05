@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a complaint filed at a California court, two ex-Northern Data executives say they were fired after raising concerns about alleged fraud by the CEO and COO &lpar;Bryce Elder/Financial Times&rpar;](http://www.techmeme.com/240705/p8#a240705p8)
- - [Why Redbox has been powering down](https://www.theverge.com/2024/7/5/24191963/redbox-chicken-soup-for-the-soul-entertainment-bankruptcy-why)
- - [Epic Games Lashes Out at Apple Over App Store Rejection](https://www.wired.com/story/epic-games-lashes-out-at-apple-over-app-store-rejection/)
- - [At just over $20, Half-Life: Alyx is essential playing for VR headset owners](https://www.theverge.com/2024/7/5/24191841/half-life-alyx-valve-vr-steam-summer-sale-deal)
- - [iPhone 16 Pro again rumored to get Tetraprism zoom lens](https://appleinsider.com/articles/24/07/05/iphone-16-pro-again-rumored-to-get-tetraprism-zoom-lens?utm_medium=rss)<!-- TECH:END -->
+ - [The Steam Summer Sale Has Arrived. Here&#39;s a List of All Steam Sales](https://www.cnet.com/tech/services-and-software/when-are-steam-sales/#ftag=CAD590a51e)
+ - [My Go-To Wearable Air Conditioner Is 15% Off](https://www.cnet.com/tech/mobile/my-go-to-wearable-air-conditioner-is-15-off/#ftag=CAD590a51e)
+ - [New iPhone 15 Pro or Pro Max? Do These 3 Things First When Setting Up](https://www.cnet.com/tech/mobile/new-iphone-15-pro-or-pro-max-do-these-3-things-first-when-setting-up/#ftag=CAD590a51e)
+ - [Save $64 on Your New Ugreen Portable Power Station With This Unmissable July 4th Deal](https://www.cnet.com/deals/save-64-on-your-new-ugreen-portable-power-station-with-this-unmissable-july-4th-deal/#ftag=CAD590a51e)
+ - [Best High-Yield Savings Accounts for July 2024](https://www.cnet.com/personal-finance/banking/best-high-yield-savings-accounts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

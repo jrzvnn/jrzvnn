@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Anime recommendations](http://9gag.com/gag/aXP9Yzg)
- - 😝 [The muffin man](http://9gag.com/gag/ae9GMDb)
- - 💣 [Come on barbie let&#39;s go party](http://9gag.com/gag/aLn2g25)
- - 😝 [So who is geh?](http://9gag.com/gag/a6Z7VzA)
- - 👉 [How about you go F yourself ?](http://9gag.com/gag/aAy1d7o)<!-- MEMES:END -->
+ - 😝 [There\u2019s no need to fear, BallMan is here](http://9gag.com/gag/aryKGYp)
+ - 😝 [Be patient](http://9gag.com/gag/aRBAj65)
+ - 💣 [Best Villains hide in plain sight](http://9gag.com/gag/aByYw5Q)
+ - 😝 [BALERION](http://9gag.com/gag/azxj9GB)
+ - 👉 [What&#39;s the problem?](http://9gag.com/gag/aByYwWz)<!-- MEMES:END -->
 
 ---
 

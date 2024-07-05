@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Found on my old smartphone](http://9gag.com/gag/aYQex9V)
- - 😝 [Is this bait for this types of pictures in the comments? Maybe](http://9gag.com/gag/aE07xdK)
- - 💣 [They&#39;re Entrailing Behind The Truck](http://9gag.com/gag/a7o7D0L)
- - 😝 [Wanted to show my life hack for this summer](http://9gag.com/gag/aXP9Ymg)
- - 👉 [A day in the life of a delivery man](http://9gag.com/gag/aqy5777)<!-- MEMES:END -->
+ - 😝 [Lol.](http://9gag.com/gag/aByYgLO)
+ - 😝 [How about you go F yourself ?](http://9gag.com/gag/aAy1d7o)
+ - 💣 [Something for everybody](http://9gag.com/gag/aryKGD5)
+ - 😝 [The perfect keychain doesn&#39;t exi...](http://9gag.com/gag/ajPA5wp)
+ - 👉 [Little old lady walking jacob around the city](http://9gag.com/gag/a5Q7RZy)<!-- MEMES:END -->
 
 ---
 

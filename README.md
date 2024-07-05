@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thats a thinker](http://9gag.com/gag/a2vmog1)
- - 😝 [That&#39;s why I love Italy](http://9gag.com/gag/aO8VzZv)
- - 💣 [And now I&#39;m an unemployed software engineer](http://9gag.com/gag/abA0Mqb)
- - 😝 [So who is geh?](http://9gag.com/gag/a6Z7VzA)
- - 👉 [How about you go F yourself ?](http://9gag.com/gag/aAy1d7o)<!-- MEMES:END -->
+ - 😝 [Wanted to show my life hack for this summer](http://9gag.com/gag/aXP9Ymg)
+ - 😝 [He was not ready for that.](http://9gag.com/gag/a2vm49e)
+ - 💣 [Marine Le Pen: When I come to power, I will ban hijab in all of France](http://9gag.com/gag/azxjXqp)
+ - 😝 [One advantage of being blind](http://9gag.com/gag/aLn2gdg)
+ - 👉 [They&#39;re Entrailing Behind The Truck](http://9gag.com/gag/a7o7D0L)<!-- MEMES:END -->
 
 ---
 

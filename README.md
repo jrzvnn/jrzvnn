@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Men only want one thing, plus one other thing](http://9gag.com/gag/aKGqdnZ)
- - 😝 [There&#39;s a better life](http://9gag.com/gag/aAy13o2)
- - 💣 [Here kitty kitty](http://9gag.com/gag/a9y7AdD)
  - 😝 [He was not ready for that.](http://9gag.com/gag/a2vm49e)
- - 👉 [Marine Le Pen: When I come to power, I will ban hijab in all of France](http://9gag.com/gag/azxjXqp)<!-- MEMES:END -->
+ - 😝 [Trauma is the best teacher](http://9gag.com/gag/a7o7WMz)
+ - 💣 [Just some random numbers. Nothing special about them.](http://9gag.com/gag/aGyxjGw)
+ - 😝 [Men only want one thing, plus one other thing](http://9gag.com/gag/aKGqdnZ)
+ - 👉 [Dang hawk tuah girl just ruined every one\u2019s dreams &amp; chances of Gen wealth with OF.](http://9gag.com/gag/aXP9xPv)<!-- MEMES:END -->
 
 ---
 

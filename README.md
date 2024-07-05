@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube’s improved eraser tool easily removes copyrighted music from videos](https://www.theverge.com/2024/7/5/24192635/youtube-ai-eraser-tool-copyrighted-music-content-id)
+ - [Apple&#39;s blue M1 iMac 24-inch is on sale for $999](https://appleinsider.com/articles/24/07/05/apples-blue-m1-imac-24-inch-is-on-sale-for-999?utm_medium=rss)
+ - [Sources: to reduce its reliance on Safari on the iPhone, Google considered limiting AI Overviews to its own apps, but ultimately decided against that move &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/240705/p7#a240705p7)
  - [Epic Games Store isn&#39;t on the EU App Store yet because of some user interface buttons](https://appleinsider.com/articles/24/07/05/epic-games-store-isnt-on-the-eu-app-store-yet-because-of-some-user-interface-buttons?utm_medium=rss)
- - [Google wants to cut its reliance on Apple for search revenue](https://appleinsider.com/articles/24/07/05/google-wants-to-cut-its-reliance-on-apple-for-search-revenue?utm_medium=rss)
- - [The Playdate makes a surprisingly good e-reader](https://www.theverge.com/24191461/playdate-ereader-app-playbook-panic-teenage-engineering)
- - [Best July 4th Sales 2024: 87 Deals Still Live at Amazon, Best Buy, Home Depot and More](https://www.cnet.com/deals/best-july-4th-sales-2024-07-05/#ftag=CAD590a51e)
- - [My Family&#39;s Favorite Pizza Oven Is Perfect for Backyard Gatherings This Summer](https://www.cnet.com/deals/my-familys-favorite-pizza-oven-is-perfect-for-backyard-gatherings-this-summer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google wants to cut its reliance on Apple for search revenue](https://appleinsider.com/articles/24/07/05/google-wants-to-cut-its-reliance-on-apple-for-search-revenue?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

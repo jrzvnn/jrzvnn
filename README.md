@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Interfax: Apple removed the mobile apps of 25 VPN services from its App Store in Russia, following a request by state communications watchdog Roskomnadzor &lpar;Reuters&rpar;](http://www.techmeme.com/240705/p11#a240705p11)
- - [Apple green lights Epic Games Store in rapid reversal](https://appleinsider.com/articles/24/07/05/apple-green-lights-epic-games-store-in-rapid-reversal?utm_medium=rss)
- - [Metaphor: ReFantazio Imagines Persona in a Fantastical Medieval Setting](https://www.cnet.com/tech/gaming/metaphor-refantazio-imagines-persona-in-a-fantastical-medieval-setting/#ftag=CAD590a51e)
- - [&#39;A Quiet Place: Day One&#39; Is in Theaters, but Here&#39;s How to Stream the First Two Flicks](https://www.cnet.com/tech/services-and-software/a-quiet-place-day-one-is-in-theaters-but-heres-how-to-stream-the-first-two-flicks/#ftag=CAD590a51e)
- - [Get Free Wi-Fi While Traveling This Summer and Keep in Touch](https://www.cnet.com/home/internet/get-free-wi-fi-while-traveling-this-summer-and-keep-in-touch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon Fire Tablets Drop to New All-Time Low Thanks to Lingering July 4th Deals](https://www.cnet.com/deals/amazon-fire-tablets-drop-to-new-all-time-low-thanks-to-lingering-july-4th-deals/#ftag=CAD590a51e)
+ - [Samsung Galaxy Buds 3 Pro Leak as Redditor Allegedly Buys Unreleased Earbuds at Walmart](https://www.cnet.com/tech/mobile/samsung-galaxy-buds-3-pro-leak-as-redditor-allegedly-buys-unreleased-earbuds-at-walmart/#ftag=CAD590a51e)
+ - [Here Are CNET Readers&#39; 20 Favorite July 4th Deals](https://www.cnet.com/deals/here-are-cnet-readers-20-favorite-july-4th-deals/#ftag=CAD590a51e)
+ - [Metaphor: ReFantazio Imagines Persona in a Fantastical Medieval Setting video](https://www.cnet.com/videos/metaphor-refantazio-imagines-persona-in-a-fantastical-medieval-setting/#ftag=CAD590a51e)
+ - [Amazon July 4th Deals Are Still Here. Don’t Wait for Amazon Prime Day to Save](https://www.cnet.com/deals/amazon-july-4th-sale-2024-07-05/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

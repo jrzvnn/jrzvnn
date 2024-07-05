@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Found on my old smartphone](http://9gag.com/gag/aYQex9V)
- - 😝 [Little old lady walking jacob around the city](http://9gag.com/gag/a5Q7RZy)
- - 💣 [Welcome to Houston](http://9gag.com/gag/aKGqdDg)
- - 😝 [Dang hawk tuah girl just ruined every one\u2019s dreams &amp; chances of Gen wealth with OF.](http://9gag.com/gag/aXP9xPv)
- - 👉 [Maybe they did and still chose it.](http://9gag.com/gag/an7NjzB)<!-- MEMES:END -->
+ - 😝 [Just some random numbers. Nothing special about them.](http://9gag.com/gag/aGyxjGw)
+ - 💣 [Wanted to show my life hack for this summer](http://9gag.com/gag/aXP9Ymg)
+ - 😝 [They&#39;re Entrailing Behind The Truck](http://9gag.com/gag/a7o7D0L)
+ - 👉 [Men only want one thing, plus one other thing](http://9gag.com/gag/aKGqdnZ)<!-- MEMES:END -->
 
 ---
 

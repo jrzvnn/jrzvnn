@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s M2 Ultra Mac Studio gets fresh $400 price cut](https://appleinsider.com/articles/24/07/05/apples-m2-ultra-mac-studio-gets-fresh-400-price-cut?utm_medium=rss)
  - [Epic Games Store isn&#39;t on the EU App Store yet because of some user interface buttons](https://appleinsider.com/articles/24/07/05/epic-games-store-isnt-on-the-eu-app-store-yet-because-of-some-user-interface-buttons?utm_medium=rss)
  - [34 Best Apple July 4th Deals Still Available: Save on AirPods, Apple Watch, MacBooks and More](https://www.cnet.com/deals/apple-july-4th-deals-2024-07-05/#ftag=CAD590a51e)
  - [A test of seven Copilot+ PCs, representing all four Snapdragon X chips, against similar laptops with Apple Silicon, Intel Core Ultra, and AMD Ryzen processors &lpar;Joanna Nelius/The Verge&rpar;](http://www.techmeme.com/240705/p9#a240705p9)
- - [Hurricane Checklist: 7 Steps You Need to Take Before Beryl Hits the US](https://www.cnet.com/how-to/hurricane-checklist-7-steps-you-need-to-take-before-ian-hits-florida/#ftag=CAD590a51e)
- - [Why Some Health Conditions, and Medications Used to Treat Them, Can Make Heat Riskier](https://www.cnet.com/health/medical/why-some-health-conditions-and-medications-used-to-treat-them-can-make-heat-riskier/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Hurricane Checklist: 7 Steps You Need to Take Before Beryl Hits the US](https://www.cnet.com/how-to/hurricane-checklist-7-steps-you-need-to-take-before-ian-hits-florida/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

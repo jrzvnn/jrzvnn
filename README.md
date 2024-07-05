@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [BALERION](http://9gag.com/gag/azxj9GB)
- - 😝 [Ryan air on air](http://9gag.com/gag/ayNdxo8)
- - 💣 [I can confirm, it is](http://9gag.com/gag/aryKOzd)
- - 😝 [This pleases me....immensely.](http://9gag.com/gag/adBjq3d)
- - 👉 [Best Villains hide in plain sight](http://9gag.com/gag/aByYw5Q)<!-- MEMES:END -->
+ - 😝 [It&#39;s same as spiderteen having a hot aunt.](http://9gag.com/gag/aW468A6)
+ - 😝 [I can confirm, it is](http://9gag.com/gag/aryKOzd)
+ - 💣 [Wanted to show my life hack for this summer](http://9gag.com/gag/aXP9Ymg)
+ - 😝 [There&#39;s a better life](http://9gag.com/gag/aAy13o2)
+ - 👉 [He was not ready for that.](http://9gag.com/gag/a2vm49e)<!-- MEMES:END -->
 
 ---
 

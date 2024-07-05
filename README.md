@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Epic Games Store isn&#39;t on the EU App Store yet because of some user interface buttons](https://appleinsider.com/articles/24/07/05/epic-games-store-isnt-on-the-eu-app-store-yet-because-of-some-user-interface-buttons?utm_medium=rss)
  - [A test of seven Copilot+ PCs, representing all four Snapdragon X chips, against similar laptops with Apple Silicon, Intel Core Ultra, and AMD Ryzen processors &lpar;Joanna Nelius/The Verge&rpar;](http://www.techmeme.com/240705/p9#a240705p9)
  - [The Steam Summer Sale Has Arrived. Here&#39;s a List of All Steam Sales](https://www.cnet.com/tech/services-and-software/when-are-steam-sales/#ftag=CAD590a51e)
  - [My Go-To Wearable Air Conditioner Is 15% Off](https://www.cnet.com/tech/mobile/my-go-to-wearable-air-conditioner-is-15-off/#ftag=CAD590a51e)
- - [New iPhone 15 Pro or Pro Max? Do These 3 Things First When Setting Up](https://www.cnet.com/tech/mobile/new-iphone-15-pro-or-pro-max-do-these-3-things-first-when-setting-up/#ftag=CAD590a51e)
- - [Save $64 on Your New Ugreen Portable Power Station With This Unmissable July 4th Deal](https://www.cnet.com/deals/save-64-on-your-new-ugreen-portable-power-station-with-this-unmissable-july-4th-deal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [New iPhone 15 Pro or Pro Max? Do These 3 Things First When Setting Up](https://www.cnet.com/tech/mobile/new-iphone-15-pro-or-pro-max-do-these-3-things-first-when-setting-up/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

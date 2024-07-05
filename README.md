@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They&#39;re Entrailing Behind The Truck](http://9gag.com/gag/a7o7D0L)
- - 😝 [This will keep those with OCD awake at night.](http://9gag.com/gag/a4PYRyw)
- - 💣 [He was not ready for that.](http://9gag.com/gag/a2vm49e)
- - 😝 [Trauma is the best teacher](http://9gag.com/gag/a7o7WMz)
- - 👉 [Here kitty kitty](http://9gag.com/gag/a9y7AdD)<!-- MEMES:END -->
+ - 😝 [BALERION](http://9gag.com/gag/azxj9GB)
+ - 😝 [RIP Vision Pro 2024-2024](http://9gag.com/gag/awyxo6D)
+ - 💣 [Wanted to show my life hack for this summer](http://9gag.com/gag/aXP9Ymg)
+ - 😝 [Do we even need to know what&#39;s been said?](http://9gag.com/gag/aByYmLz)
+ - 👉 [Dang hawk tuah girl just ruined every one\u2019s dreams &amp; chances of Gen wealth with OF.](http://9gag.com/gag/aXP9xPv)<!-- MEMES:END -->
 
 ---
 

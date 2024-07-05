@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TRM: cryptocurrency stolen through hacks more than doubled to $1.38N in H1 2024 from a year earlier; five large attacks accounted for 70% of the crypto stolen &lpar;Benjamin Taubman/Bloomberg&rpar;](http://www.techmeme.com/240705/p6#a240705p6)
- - [How to Shop for a Smart Lock &lpar;2024&rpar;](https://www.wired.com/story/how-to-shop-for-a-smart-lock/)
- - [Here’s how Qualcomm’s new laptop chips really stack up to Apple, Intel, and AMD](https://www.theverge.com/24191671/copilot-plus-pcs-laptops-qualcomm-intel-amd-apple)
- - [Original HomePods, new iPads, and rumors of future iPhones on the AppleInsider Podcast](https://appleinsider.com/articles/24/07/05/original-homepods-new-ipads-and-rumors-of-future-iphones-on-the-appleinsider-podcast?utm_medium=rss)
- - [Grab These Quality Bose QuietComfort Earbuds 2 at Their Lowest-Ever Price in July 4th Sale](https://www.cnet.com/deals/grab-these-quality-bose-quietcomfort-earbuds-2-at-their-lowest-ever-price-in-july-4th-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Epic Games Store isn&#39;t on the EU App Store yet because of some user interface buttons](https://appleinsider.com/articles/24/07/05/epic-games-store-isnt-on-the-eu-app-store-yet-because-of-some-user-interface-buttons?utm_medium=rss)
+ - [Google wants to cut its reliance on Apple for search revenue](https://appleinsider.com/articles/24/07/05/google-wants-to-cut-its-reliance-on-apple-for-search-revenue?utm_medium=rss)
+ - [The Playdate makes a surprisingly good e-reader](https://www.theverge.com/24191461/playdate-ereader-app-playbook-panic-teenage-engineering)
+ - [Best July 4th Sales 2024: 87 Deals Still Live at Amazon, Best Buy, Home Depot and More](https://www.cnet.com/deals/best-july-4th-sales-2024-07-05/#ftag=CAD590a51e)
+ - [My Family&#39;s Favorite Pizza Oven Is Perfect for Backyard Gatherings This Summer](https://www.cnet.com/deals/my-familys-favorite-pizza-oven-is-perfect-for-backyard-gatherings-this-summer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

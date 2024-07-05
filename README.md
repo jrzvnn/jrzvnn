@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [How xenophobic content on Chinese social media, directed towards Japan, the US, Jews, and others, became the subject of a debate and spreads despite censorship &lpar;Li Yuan/New York Times&rpar;](http://www.techmeme.com/240705/p12#a240705p12)
- - [Amazon Fire Tablets Drop to New All-Time Low Thanks to Lingering July 4th Deals](https://www.cnet.com/deals/amazon-fire-tablets-drop-to-new-all-time-low-thanks-to-lingering-july-4th-deals/#ftag=CAD590a51e)
- - [Samsung Galaxy Buds 3 Pro Leak as Redditor Allegedly Buys Unreleased Earbuds at Walmart](https://www.cnet.com/tech/mobile/samsung-galaxy-buds-3-pro-leak-as-redditor-allegedly-buys-unreleased-earbuds-at-walmart/#ftag=CAD590a51e)
- - [Here Are CNET Readers&#39; 20 Favorite July 4th Deals](https://www.cnet.com/deals/here-are-cnet-readers-20-favorite-july-4th-deals/#ftag=CAD590a51e)
- - [Metaphor: ReFantazio Imagines Persona in a Fantastical Medieval Setting video](https://www.cnet.com/videos/metaphor-refantazio-imagines-persona-in-a-fantastical-medieval-setting/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best July 4th Laptop Deals Still Live: Don&#39;t Miss These Discounts on Apple, Lenovo, HP, Dell and More](https://www.cnet.com/deals/july-4th-laptop-deals-2024-07-05/#ftag=CAD590a51e)
+ - [Best iPhone 13, iPhone 13 Pro and iPhone 13 Pro Max Cases of 2024](https://www.cnet.com/tech/mobile/best-iphone-13-cases/#ftag=CAD590a51e)
+ - [Best July 4th Appliance Deals: You Can Still Score Great Savings on Samsung, LG, KitchenAid and More](https://www.cnet.com/deals/best-july-4th-appliance-sales-2024-07-05/#ftag=CAD590a51e)
+ - [Home Depot July 4th Sale: You Can Still Score Big on Tools, Appliances, Outdoor Gear and More](https://www.cnet.com/deals/home-depot-july-4th-sale-2024-07-05/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

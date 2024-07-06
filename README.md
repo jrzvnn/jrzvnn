@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trauma is the best teacher](http://9gag.com/gag/a7o7WMz)
+ - 😝 [Emmy 2014 - Peak of Television](http://9gag.com/gag/a1mMW38)
  - 😝 [Do we even need to know what&#39;s been said?](http://9gag.com/gag/aByYmLz)
- - 💣 [Who said Elden Ring was hard?](http://9gag.com/gag/aByYmrA)
- - 😝 [2020??? Maybe 2024?](http://9gag.com/gag/aPADZBB)
- - 👉 [Prank Call Finds Best Bloke Alive](http://9gag.com/gag/a5Q7EMO)<!-- MEMES:END -->
+ - 💣 [Is this true guys?](http://9gag.com/gag/a7o7Eee)
+ - 😝 [Trauma is the best teacher](http://9gag.com/gag/a7o7WMz)
+ - 👉 [Game of Thrones audition reel](http://9gag.com/gag/a0ep74Q)<!-- MEMES:END -->
 
 ---
 

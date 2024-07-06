@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Taking Over Europe](http://9gag.com/gag/aD2o4qd)
- - 😝 [Miss Poland 2024](http://9gag.com/gag/aO8VxK6)
- - 💣 [Moose impression](http://9gag.com/gag/aYQeYX2)
- - 😝 [Gotta grind for that executive role](http://9gag.com/gag/a4PYonm)
- - 👉 [They tought he was joking](http://9gag.com/gag/aoy9M5g)<!-- MEMES:END -->
+ - 😝 [Now give me your money!](http://9gag.com/gag/aKGq7qb)
+ - 💣 [There&#39;s a better life](http://9gag.com/gag/aAy13o2)
+ - 😝 [Bro didn&#39;t even blink](http://9gag.com/gag/a1mM17G)
+ - 👉 [Moose impression](http://9gag.com/gag/aYQeYX2)<!-- MEMES:END -->
 
 ---
 

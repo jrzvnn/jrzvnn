@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As Glaze, a free tool to help artists prevent AI from copying their style, sees an &quot;explosion in demand&quot;, researchers say its protections can be bypassed &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/240706/p6#a240706p6)
- - [Last Chance July 4th Grill Deals: Fuel Up Your Summer Feasts With Hefty BBQ Savings](https://www.cnet.com/deals/best-july-4th-grill-sales-2024-07-06/#ftag=CAD590a51e)
- - [Amazon July 4th Deals Are Still Here: 55 Deals You Can Grab Right Now](https://www.cnet.com/deals/amazon-july-4th-sale-2024-07-06/#ftag=CAD590a51e)
- - [Apple Watch Series 10 - All the screen, size, and band rumors](https://appleinsider.com/articles/24/07/05/apple-watch-series-10---all-the-screen-size-and-band-rumors?utm_medium=rss)
- - [Eddy Cue: &#39;After 36 years at Apple, I&#39;m still learning every day&#39;](https://appleinsider.com/articles/24/07/06/eddy-cue-after-36-years-at-apple-im-still-learning-every-day?utm_medium=rss)<!-- TECH:END -->
+ - [Save Up to 50% on Govee Smart Lights This Weekend With These Post-July 4th Deals](https://www.cnet.com/deals/save-up-to-50-on-govee-smart-lights-this-weekend-with-these-post-july-4th-deals/#ftag=CAD590a51e)
+ - [Save Up to 50% on Portable Power Stations With Jackery&#39;s July 4th Weekend Sale](https://www.cnet.com/deals/save-up-to-50-on-portable-power-stations-with-jackerys-july-4th-weekend-sale/#ftag=CAD590a51e)
+ - [Save Big on These USB-C Chargers and Battery Packs While You Still Can](https://www.cnet.com/deals/save-big-on-these-usb-c-chargers-and-battery-packs-while-you-still-can/#ftag=CAD590a51e)
+ - [This July 4th Deal Knocks $50 Off the Samsung M5 27-Inch Smart Monitor, but Probably Not for Long](https://www.cnet.com/deals/this-july-4th-deal-knocks-50-off-the-samsung-m5-27-inch-smart-monitor-but-probably-not-for-long/#ftag=CAD590a51e)
+ - [As Glaze, a free tool to help artists prevent AI from copying their style, sees an &quot;explosion in demand&quot;, researchers say its protections can be bypassed &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/240706/p6#a240706p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone SE 4: The Biggest Rumors About Apple&#39;s Next Budget iPhone](https://www.cnet.com/tech/mobile/iphone-se-4-rumors-what-may-be-next-for-apples-budget-phone/#ftag=CAD590a51e)
  - [Hackers Leaking Taylor Swift Tickets? Don’t Get Your Hopes Up](https://www.wired.com/story/ticketmaster-taylor-swift-ticket-leak-security-roundup/)
- - [23 Best Early Amazon Prime Day Deals &lpar;2024&rpar;](https://www.wired.com/story/best-early-amazon-prime-day-deals-2024/)
- - [Best Samsung Phone of 2024](https://www.cnet.com/tech/mobile/best-samsung-galaxy-phone/#ftag=CAD590a51e)
- - [Mt. Gox starts repaying customers, who will receive only ~15% of their lost bitcoins, but now worth many times more than their total 2014 holdings &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/240706/p3#a240706p3)
- - [Electric bikepacking: lessons learned over four days and 250 miles](https://www.theverge.com/24187989/e-bikepacking-charging-range-lessons-gear-review)<!-- TECH:END -->
+ - [Social Security Payment July 2024: Here&#39;s When Your Money Is Coming](https://www.cnet.com/personal-finance/social-security-payment-july-2024-heres-when-your-money-is-coming/#ftag=CAD590a51e)
+ - [Here&#39;s How to Hide Your iPhone Apps Before iOS 18 Is Released](https://www.cnet.com/tech/services-and-software/heres-how-to-hide-your-iphone-apps-before-ios-18-is-released/#ftag=CAD590a51e)
+ - [23 Best Early Amazon Prime Day Deals &lpar;2024&rpar;](https://www.wired.com/story/best-early-amazon-prime-day-deals-2024/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

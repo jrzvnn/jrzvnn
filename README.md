@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What is wrong with wh*te people?](http://9gag.com/gag/a2vm19D)
- - 😝 [Wisconsin woman dies saving son from family pit bull attack](http://9gag.com/gag/aLn2gzz)
- - 💣 [David Purley trying to save Roger Williamson &lpar;1973&rpar;. Purley later recalled that upon arriving at the scene, he heard Williamson crying for help as the fire began to take hold. The marshals were not wearing fire resistant clothing.](http://9gag.com/gag/a6Z71oR)
- - 😝 [Do we even need to know what&#39;s been said?](http://9gag.com/gag/aByYmLz)
- - 👉 [There&#39;s a better life](http://9gag.com/gag/aAy13o2)<!-- MEMES:END -->
+ - 😝 [Perfect reason to wear one](http://9gag.com/gag/aD2o4vK)
+ - 😝 [David Purley trying to save Roger Williamson &lpar;1973&rpar;. Purley later recalled that upon arriving at the scene, he heard Williamson crying for help as the fire began to take hold. The marshals were not wearing fire resistant clothing.](http://9gag.com/gag/a6Z71oR)
+ - 💣 [Wisconsin woman dies saving son from family pit bull attack](http://9gag.com/gag/aLn2gzz)
+ - 😝 [Sweden](http://9gag.com/gag/a7o7E8r)
+ - 👉 [BALERION](http://9gag.com/gag/azxj9GB)<!-- MEMES:END -->
 
 ---
 

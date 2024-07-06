@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The biggest issue for allies](http://9gag.com/gag/aLn2wg6)
- - 😝 [Men only want one thing, plus one other thing](http://9gag.com/gag/aKGqdnZ)
- - 💣 [These two disrespecting the fourth hokage&#39;s jutsu](http://9gag.com/gag/a5Q7WeN)
- - 😝 [Perfect reason to wear one](http://9gag.com/gag/aD2o4vK)
+ - 😝 [So Disgusting](http://9gag.com/gag/amo9Bdv)
+ - 😝 [Godzilla is no longer with us](http://9gag.com/gag/aGyxjZ6)
+ - 💣 [World War 4 will be fought with sticks and stones.](http://9gag.com/gag/a7o7wvq)
+ - 😝 [Trauma is the best teacher](http://9gag.com/gag/a7o7WMz)
  - 👉 [Wisconsin woman dies saving son from family pit bull attack](http://9gag.com/gag/aLn2gzz)<!-- MEMES:END -->
 
 ---

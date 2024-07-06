@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone SE 4: The Biggest Rumors About Apple&#39;s Next Budget iPhone](https://www.cnet.com/tech/mobile/iphone-se-4-rumors-what-may-be-next-for-apples-budget-phone/#ftag=CAD590a51e)
- - [Hackers Leaking Taylor Swift Tickets? Don’t Get Your Hopes Up](https://www.wired.com/story/ticketmaster-taylor-swift-ticket-leak-security-roundup/)
- - [Social Security Payment July 2024: Here&#39;s When Your Money Is Coming](https://www.cnet.com/personal-finance/social-security-payment-july-2024-heres-when-your-money-is-coming/#ftag=CAD590a51e)
- - [Here&#39;s How to Hide Your iPhone Apps Before iOS 18 Is Released](https://www.cnet.com/tech/services-and-software/heres-how-to-hide-your-iphone-apps-before-ios-18-is-released/#ftag=CAD590a51e)
- - [23 Best Early Amazon Prime Day Deals &lpar;2024&rpar;](https://www.wired.com/story/best-early-amazon-prime-day-deals-2024/)<!-- TECH:END -->
+ - [A look at Meta&#39;s struggles to attract influencers to Threads, due to the platform&#39;s focus on text and its lack of a clear purpose for users &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/240706/p4#a240706p4)
+ - [The 48 Best Movies on Netflix Right Now &lpar;July 2024&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [The Supreme Court Doesn’t Want You to Have Clean Water and Safe Air](https://www.wired.com/story/supreme-court-clean-water-safe-air-epa-chevron-koch-brothers/)
+ - [The 51 Best Shows on Netflix Right Now &lpar;July 2024&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
+ - [iPhone SE 4: The Biggest Rumors About Apple&#39;s Next Budget iPhone](https://www.cnet.com/tech/mobile/iphone-se-4-rumors-what-may-be-next-for-apples-budget-phone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

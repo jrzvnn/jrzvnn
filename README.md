@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Moose impression](http://9gag.com/gag/aYQeYX2)
- - 😝 [There&#39;s a better life](http://9gag.com/gag/aAy13o2)
- - 💣 [Is this true guys?](http://9gag.com/gag/a7o7Eee)
- - 😝 [They tought he was joking](http://9gag.com/gag/aoy9M5g)
- - 👉 [BALERION](http://9gag.com/gag/azxj9GB)<!-- MEMES:END -->
+ - 😝 [2020??? Maybe 2024?](http://9gag.com/gag/aPADZBB)
+ - 😝 [Happy One Anniversary of finding cocaine at The White House. We still have no idea whose it was](http://9gag.com/gag/axyjzeW)
+ - 💣 [Taking Over Europe](http://9gag.com/gag/aD2o4qd)
+ - 😝 [Are you okay?](http://9gag.com/gag/amo9Arv)
+ - 👉 [They tought he was joking](http://9gag.com/gag/aoy9M5g)<!-- MEMES:END -->
 
 ---
 

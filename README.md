@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Strong legs](http://9gag.com/gag/a7o718q)
- - 😝 [Miss Poland 2024](http://9gag.com/gag/aO8VxK6)
- - 💣 [Taking Over Europe](http://9gag.com/gag/aD2o4qd)
- - 😝 [He did it!!](http://9gag.com/gag/aryKmYX)
- - 👉 [Bro didn&#39;t even blink](http://9gag.com/gag/a1mM17G)<!-- MEMES:END -->
+ - 😝 [Do we even need to know what&#39;s been said?](http://9gag.com/gag/aByYmLz)
+ - 😝 [They tought he was joking](http://9gag.com/gag/aoy9M5g)
+ - 💣 [UEFA gave the player who made this sign a two-match ban.](http://9gag.com/gag/aAy1e0d)
+ - 😝 [Perfect reason to wear one](http://9gag.com/gag/aD2o4vK)
+ - 👉 [Sweden](http://9gag.com/gag/a7o7E8r)<!-- MEMES:END -->
 
 ---
 

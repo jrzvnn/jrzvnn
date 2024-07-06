@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [AEZAKMI](http://9gag.com/gag/adBj5b9)
- - 😝 [Amber Heard who now changed her name as `Martha Jane Cannary` and moved to live in Spain was caught on CCTV doing what she is FAMOUS for doing...](http://9gag.com/gag/adBj5WM)
- - 💣 [Men only want one thing, plus one other thing](http://9gag.com/gag/aKGqdnZ)
- - 😝 [Now give me your money!](http://9gag.com/gag/aKGq7qb)
- - 👉 [Wisconsin woman dies saving son from family pit bull attack](http://9gag.com/gag/aLn2gzz)<!-- MEMES:END -->
+ - 😝 [Wanted to show my life hack for this summer](http://9gag.com/gag/aXP9Ymg)
+ - 😝 [This dude has no job, 4 wives, and 2 girlfriends](http://9gag.com/gag/a6Z7E82)
+ - 💣 [Is this bait for this types of pictures in the comments? Maybe](http://9gag.com/gag/aE07xdK)
+ - 😝 [Perfect reason to wear one](http://9gag.com/gag/aD2o4vK)
+ - 👉 [Now give me your money!](http://9gag.com/gag/aKGq7qb)<!-- MEMES:END -->
 
 ---
 

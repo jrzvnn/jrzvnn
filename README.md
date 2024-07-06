@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OWC&#39;s Thunderbolt Go Dock dips to $248 with early Prime Day deal](https://appleinsider.com/articles/24/07/06/owcs-thunderbolt-go-dock-dips-to-248-with-early-prime-day-deal?utm_medium=rss)
  - [Apple says it asked Epic to fix the buttons in a future version of the Epic Games Store submitted for review; Epic CEO Tim Sweeney says Epic will &quot;fight this&quot; &lpar;Malcolm Owen/AppleInsider&rpar;](http://www.techmeme.com/240706/p7#a240706p7)
  - [The Samsung Smart Monitor M70C Just Hit an All-Time Low Price With This Extended July 4th Deal](https://www.cnet.com/deals/the-samsung-smart-monitor-m70c-just-hit-an-all-time-low-price-with-this-extended-july-4th-deal/#ftag=CAD590a51e)
  - [Epic says its EU iOS app store is approved but that Apple wants a change](https://www.theverge.com/2024/7/6/24193182/apple-approved-epic-games-store-notarized-eu-dma-fortnite)
- - [Score a Blink Smart Home Security Camera Bundle for $50 With Prime Member Exclusive Savings](https://www.cnet.com/deals/score-a-blink-smart-home-security-camera-bundle-for-50/#ftag=CAD590a51e)
- - [Get the Lenovo Tab M11 for Just $145 With This Extended July 4th Sale](https://www.cnet.com/deals/get-the-lenovo-tab-m11-for-just-145-with-this-extended-july-4th-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Score a Blink Smart Home Security Camera Bundle for $50 With Prime Member Exclusive Savings](https://www.cnet.com/deals/score-a-blink-smart-home-security-camera-bundle-for-50/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

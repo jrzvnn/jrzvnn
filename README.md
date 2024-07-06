@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [World War 4 will be fought with sticks and stones.](http://9gag.com/gag/a7o7wvq)
- - 😝 [Taking Over Europe](http://9gag.com/gag/aD2o4qd)
- - 💣 [Wisconsin woman dies saving son from family pit bull attack](http://9gag.com/gag/aLn2gzz)
- - 😝 [David Purley trying to save Roger Williamson &lpar;1973&rpar;. Purley later recalled that upon arriving at the scene, he heard Williamson crying for help as the fire began to take hold. The marshals were not wearing fire resistant clothing.](http://9gag.com/gag/a6Z71oR)
- - 👉 [Now give me your money!](http://9gag.com/gag/aKGq7qb)<!-- MEMES:END -->
+ - 😝 [Trauma is the best teacher](http://9gag.com/gag/a7o7WMz)
+ - 😝 [Is this true guys?](http://9gag.com/gag/a7o7Eee)
+ - 💣 [Game of Thrones audition reel](http://9gag.com/gag/a0ep74Q)
+ - 😝 [Italian artists are famous](http://9gag.com/gag/aLn2wdx)
+ - 👉 [Dang hawk tuah girl just ruined every one\u2019s dreams &amp; chances of Gen wealth with OF.](http://9gag.com/gag/aXP9xPv)<!-- MEMES:END -->
 
 ---
 

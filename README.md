@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Watch Series 10 - All the screen, size, and band rumors](https://appleinsider.com/articles/24/07/05/apple-watch-series-10---all-the-screen-size-and-band-rumors?utm_medium=rss)
+ - [Eddy Cue: &#39;After 36 years at Apple, I&#39;m still learning every day&#39;](https://appleinsider.com/articles/24/07/06/eddy-cue-after-36-years-at-apple-im-still-learning-every-day?utm_medium=rss)
  - [Police pulled over a Waymo car that drove in the oncoming lane in Phoenix](https://www.theverge.com/2024/7/6/24193094/phoenix-waymo-car-pulled-over-traffic-stop-oncoming-lane-police)
  - [July 4th Smart Home Deals Not to Miss: Big Discounts on Our Favorite Security Cameras, Video Doorbells, Smartbulbs and More](https://www.cnet.com/deals/best-july-4th-smart-home-sales-2024-07-06/#ftag=CAD590a51e)
- - [Best VPN for Netflix in 2024](https://www.cnet.com/tech/services-and-software/best-vpn-for-netflix/#ftag=CAD590a51e)
- - [Best July 4th Laptop Deals Still Live: Don&#39;t Miss These Discounts on Apple, Lenovo, HP, Dell and More](https://www.cnet.com/deals/july-4th-laptop-deals-2024-07-06/#ftag=CAD590a51e)
- - [Best July 4th Sales 2024: 89 Deals Still Running at Amazon, Best Buy, Home Depot and More](https://www.cnet.com/deals/best-july-4th-sales-2024-07-06/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best VPN for Netflix in 2024](https://www.cnet.com/tech/services-and-software/best-vpn-for-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

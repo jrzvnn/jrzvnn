@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Score Big Discounts on Top Mattresses From Several Brands With Mattress Firm’s July 4th Sale](https://www.cnet.com/deals/mattress-firm-4th-of-july-2024/#ftag=CAD590a51e)
+ - [Extended July 4th Walmart Sales: 57 Great Deals on Home Goods, Tech, Video Games and More to Grab Before They’re Gone](https://www.cnet.com/deals/walmart-july-4th-sale-2024-07-06/#ftag=CAD590a51e)
  - [Apple green lights Epic Games Store in rapid reversal](https://appleinsider.com/articles/24/07/05/apple-green-lights-epic-games-store-in-rapid-reversal?utm_medium=rss)
- - [33 Best Still-Live Apple July 4th Deals: Nab AirPods, MacBooks and More](https://www.cnet.com/deals/apple-july-4th-deals-2024-07-06/#ftag=CAD590a51e)
- - [Prime Members Can Score This Jackery Power Station for Just $499 This July 4th Weekend](https://www.cnet.com/deals/prime-members-can-score-this-jackery-power-station-for-just-499-this-july-4th-weekend/#ftag=CAD590a51e)
- - [OWC&#39;s Thunderbolt Go Dock dips to $248 with early Prime Day deal](https://appleinsider.com/articles/24/07/06/owcs-thunderbolt-go-dock-dips-to-248-with-early-prime-day-deal?utm_medium=rss)
- - [Shop Smarter for a Full Year With a Sam&#39;s Club Membership for Only $20](https://www.cnet.com/deals/shop-smarter-for-a-full-year-with-a-sams-club-membership-for-only-20/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Buy July 4th Deals: Grab Big Savings on Tech, Appliances, and More Before They’re Gone](https://www.cnet.com/deals/best-buy-july-4th-sale-2024-07-06/#ftag=CAD590a51e)
+ - [The Best Horror Movies to Stream on Max](https://www.cnet.com/tech/services-and-software/the-best-horror-movies-to-stream-on-max-july-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [2020??? Maybe 2024?](http://9gag.com/gag/aPADZBB)
- - 😝 [Happy One Anniversary of finding cocaine at The White House. We still have no idea whose it was](http://9gag.com/gag/axyjzeW)
- - 💣 [Taking Over Europe](http://9gag.com/gag/aD2o4qd)
- - 😝 [Are you okay?](http://9gag.com/gag/amo9Arv)
- - 👉 [They tought he was joking](http://9gag.com/gag/aoy9M5g)<!-- MEMES:END -->
+ - 😝 [Taking Over Europe](http://9gag.com/gag/aD2o4qd)
+ - 😝 [They tought he was joking](http://9gag.com/gag/aoy9M5g)
+ - 💣 [Do we even need to know what&#39;s been said?](http://9gag.com/gag/aByYmLz)
+ - 😝 [This will keep those with OCD awake at night.](http://9gag.com/gag/a4PYRyw)
+ - 👉 [Miss Poland 2024](http://9gag.com/gag/aO8VxK6)<!-- MEMES:END -->
 
 ---
 

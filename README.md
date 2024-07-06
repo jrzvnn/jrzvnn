@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A look at concerns about Saudi Arabia&#39;s sportswashing in esports as it hosts the Esports World Cup; Saudi&#39;s PIF has bought some of the biggest gaming companies &lpar;Ben Church/CNN&rpar;](http://www.techmeme.com/240706/p8#a240706p8)
- - [More than just a redesign: Photos in iOS 18 will also beef up security](https://appleinsider.com/articles/24/07/06/more-than-just-a-redesign-apples-next-photos-version-will-also-beef-up-security?utm_medium=rss)
- - [NASCAR shows off an EV prototype](https://www.theverge.com/2024/7/6/24193272/nascar-ev-prototype-abb-electric-racing-sustainability)
- - [Internet in the US Costs $63 a Month. Here’s How You Can Pay Less](https://www.cnet.com/home/internet/internet-in-the-us-costs-63-a-month-heres-how-you-can-pay-less/#ftag=CAD590a51e)
- - [Extended July 4th Walmart Sales: 57 Great Deals on Home Goods, Tech, Video Games and More to Grab Before They&#39;re Gone](https://www.cnet.com/deals/walmart-july-4th-sale-2024-07-06/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Buy&#39;s July 4th Sale: Grab This $20 Rocketfish In-Wall Surge Protector While You Can](https://www.cnet.com/deals/best-buys-july-4th-sale-grab-this-20-rocketfish-in-wall-surge-protector-while-you-can/#ftag=CAD590a51e)
+ - [Target July 4th Sale: Here Are the Best Deals Still Available on Tech, Toys, Kitchen Appliances and More](https://www.cnet.com/deals/target-july-4th-sale-2024-07-06/#ftag=CAD590a51e)
+ - [July 4th TV Deals: There&#39;s Still Time to Save on Top Brands Like Sony, LG, Samsung and More](https://www.cnet.com/deals/best-july-4th-tv-sales-2024-07-06/#ftag=CAD590a51e)
+ - [More than just a redesign: Photos in iOS 18 will also beef up security](https://appleinsider.com/articles/24/07/06/more-than-just-a-redesign-apples-next-photos-version-will-also-beef-up-security?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

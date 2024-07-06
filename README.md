@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mt. Gox starts repaying customers, who will receive only ~15% of their lost bitcoins, but now worth many times more than their total 2014 holdings &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/240706/p3#a240706p3)
  - [Electric bikepacking: lessons learned over four days and 250 miles](https://www.theverge.com/24187989/e-bikepacking-charging-range-lessons-gear-review)
  - [ElevenLabs launches Voice Isolator, a freemium AI tool for removing background noise from audio files for film, podcast, and interview post production &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/240706/p2#a240706p2)
- - [Score Big Discounts on Top Mattresses From Several Brands With Mattress Firm’s July 4th Sale](https://www.cnet.com/deals/mattress-firm-4th-of-july-2024/#ftag=CAD590a51e)
- - [Preqin: China accounted for 90% of global semiconductor VC funding in 2023, with $22.2B and up from $9.5B in 2022; the funding slowed to just $1.6B in H1 2024 &lpar;Xinmei Shen/South China Morning Post&rpar;](http://www.techmeme.com/240706/p1#a240706p1)
- - [French AI research lab Kyutai, which launched in November with &amp;euro;300M in funding and is backed by billionaire Xavier Niel, demos its AI voice assistant Moshi &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/240705/p14#a240705p14)<!-- TECH:END -->
+ - [Save Up to $800 With Purple&#39;s Hot July 4th Sale](https://www.cnet.com/deals/purple-4th-of-july-2024/#ftag=CAD590a51e)
+ - [Score Big Discounts on Top Mattresses From Several Brands With Mattress Firm’s July 4th Sale](https://www.cnet.com/deals/mattress-firm-4th-of-july-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

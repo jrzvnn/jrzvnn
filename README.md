@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Taking Over Europe](http://9gag.com/gag/aD2o4qd)
- - 😝 [Now give me your money!](http://9gag.com/gag/aKGq7qb)
- - 💣 [There&#39;s a better life](http://9gag.com/gag/aAy13o2)
- - 😝 [Bro didn&#39;t even blink](http://9gag.com/gag/a1mM17G)
- - 👉 [Moose impression](http://9gag.com/gag/aYQeYX2)<!-- MEMES:END -->
+ - 😝 [Gotta grind for that executive role](http://9gag.com/gag/a4PYonm)
+ - 😝 [Sweden](http://9gag.com/gag/a7o7E8r)
+ - 💣 [Miss Poland 2024](http://9gag.com/gag/aO8VxK6)
+ - 😝 [Amber Heard who now changed her name as `Martha Jane Cannary` and moved to live in Spain was caught on CCTV doing what she is FAMOUS for doing...](http://9gag.com/gag/adBj5WM)
+ - 👉 [There&#39;s a better life](http://9gag.com/gag/aAy13o2)<!-- MEMES:END -->
 
 ---
 

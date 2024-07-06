@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Modern problems require ancient solution](http://9gag.com/gag/aMVG4PR)
- - 😝 [Sweden](http://9gag.com/gag/a7o7E8r)
- - 💣 [Now give me your money!](http://9gag.com/gag/aKGq7qb)
- - 😝 [Taking Over Europe](http://9gag.com/gag/aD2o4qd)
- - 👉 [Bro didn&#39;t even blink](http://9gag.com/gag/a1mM17G)<!-- MEMES:END -->
+ - 😝 [Moose impression](http://9gag.com/gag/aYQeYX2)
+ - 😝 [There&#39;s a better life](http://9gag.com/gag/aAy13o2)
+ - 💣 [Is this true guys?](http://9gag.com/gag/a7o7Eee)
+ - 😝 [They tought he was joking](http://9gag.com/gag/aoy9M5g)
+ - 👉 [BALERION](http://9gag.com/gag/azxj9GB)<!-- MEMES:END -->
 
 ---
 

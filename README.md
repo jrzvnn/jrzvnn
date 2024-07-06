@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Taking Over Europe](http://9gag.com/gag/aD2o4qd)
- - 😝 [They tought he was joking](http://9gag.com/gag/aoy9M5g)
- - 💣 [Do we even need to know what&#39;s been said?](http://9gag.com/gag/aByYmLz)
- - 😝 [This will keep those with OCD awake at night.](http://9gag.com/gag/a4PYRyw)
- - 👉 [Miss Poland 2024](http://9gag.com/gag/aO8VxK6)<!-- MEMES:END -->
+ - 😝 [Amber Heard who now changed her name as `Martha Jane Cannary` and moved to live in Spain was caught on CCTV doing what she is FAMOUS for doing...](http://9gag.com/gag/adBj5WM)
+ - 😝 [Welcome to Houston](http://9gag.com/gag/aKGqdDg)
+ - 💣 [F around and find out](http://9gag.com/gag/awyxzMB)
+ - 😝 [Bro didn&#39;t even blink](http://9gag.com/gag/a1mM17G)
+ - 👉 [They tought he was joking](http://9gag.com/gag/aoy9M5g)<!-- MEMES:END -->
 
 ---
 

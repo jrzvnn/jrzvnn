@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Game of Thrones audition reel](http://9gag.com/gag/a0ep74Q)
- - 😝 [Lovely](http://9gag.com/gag/a5Q7WdE)
- - 💣 [Friendly reminder.](http://9gag.com/gag/aRBA7VM)
- - 😝 [Trauma is the best teacher](http://9gag.com/gag/a7o7WMz)
- - 👉 [Emmy 2014 - Peak of Television](http://9gag.com/gag/a1mMW38)<!-- MEMES:END -->
+ - 😝 [The biggest issue for allies](http://9gag.com/gag/aLn2wg6)
+ - 😝 [Men only want one thing, plus one other thing](http://9gag.com/gag/aKGqdnZ)
+ - 💣 [These two disrespecting the fourth hokage&#39;s jutsu](http://9gag.com/gag/a5Q7WeN)
+ - 😝 [Perfect reason to wear one](http://9gag.com/gag/aD2o4vK)
+ - 👉 [Wisconsin woman dies saving son from family pit bull attack](http://9gag.com/gag/aLn2gzz)<!-- MEMES:END -->
 
 ---
 

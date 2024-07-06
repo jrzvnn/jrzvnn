@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Perfect reason to wear one](http://9gag.com/gag/aD2o4vK)
- - 😝 [This will keep those with OCD awake at night.](http://9gag.com/gag/a4PYRyw)
- - 💣 [This dude has no job, 4 wives, and 2 girlfriends](http://9gag.com/gag/a6Z7E82)
- - 😝 [Wisconsin woman dies saving son from family pit bull attack](http://9gag.com/gag/aLn2gzz)
- - 👉 [Just some random numbers. Nothing special about them.](http://9gag.com/gag/aGyxjGw)<!-- MEMES:END -->
+ - 😝 [World War 4 will be fought with sticks and stones.](http://9gag.com/gag/a7o7wvq)
+ - 😝 [Found on my phone](http://9gag.com/gag/aD2ogZ9)
+ - 💣 [More meme material from The Boys](http://9gag.com/gag/an7N925)
+ - 😝 [Simple post. If you like this &lpar;as on if you find it nice, not beging for upvotes&rpar;, I&#39;ll make more.](http://9gag.com/gag/a6Z7KGL)
+ - 👉 [Amber Heard who now changed her name as `Martha Jane Cannary` and moved to live in Spain was caught on CCTV doing what she is FAMOUS for doing...](http://9gag.com/gag/adBj5WM)<!-- MEMES:END -->
 
 ---
 

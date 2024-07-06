@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [As Glaze, a free tool to help artists prevent AI from copying their style, sees an &quot;explosion in demand&quot;, researchers say its protections can be bypassed &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/240706/p6#a240706p6)
+ - [Last Chance July 4th Grill Deals: Fuel Up Your Summer Feasts With Hefty BBQ Savings](https://www.cnet.com/deals/best-july-4th-grill-sales-2024-07-06/#ftag=CAD590a51e)
+ - [Amazon July 4th Deals Are Still Here: 55 Deals You Can Grab Right Now](https://www.cnet.com/deals/amazon-july-4th-sale-2024-07-06/#ftag=CAD590a51e)
  - [Apple Watch Series 10 - All the screen, size, and band rumors](https://appleinsider.com/articles/24/07/05/apple-watch-series-10---all-the-screen-size-and-band-rumors?utm_medium=rss)
- - [Eddy Cue: &#39;After 36 years at Apple, I&#39;m still learning every day&#39;](https://appleinsider.com/articles/24/07/06/eddy-cue-after-36-years-at-apple-im-still-learning-every-day?utm_medium=rss)
- - [Police pulled over a Waymo car that drove in the oncoming lane in Phoenix](https://www.theverge.com/2024/7/6/24193094/phoenix-waymo-car-pulled-over-traffic-stop-oncoming-lane-police)
- - [July 4th Smart Home Deals Not to Miss: Big Discounts on Our Favorite Security Cameras, Video Doorbells, Smartbulbs and More](https://www.cnet.com/deals/best-july-4th-smart-home-sales-2024-07-06/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Eddy Cue: &#39;After 36 years at Apple, I&#39;m still learning every day&#39;](https://appleinsider.com/articles/24/07/06/eddy-cue-after-36-years-at-apple-im-still-learning-every-day?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,9 +161,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [How to Choose the Right TV: Quantum Dots, HDR, and More in 2024](https://www.wired.com/story/how-to-buy-the-right-tv/)
  - [T3 Aire 360 Air Styler Blowout Kit Review: Powerful and High-End](https://www.wired.com/review/t3-aire-360/)
- - [We Flew, Drove, and Camped for Miles to Test the Best Luggage](https://www.wired.com/gallery/best-luggage/)
- - [This is the summer’s coolest new smart kitchen gadget — literally](https://www.theverge.com/24191807/ge-profile-opal-2-0-ultra-nugget-ice-maker-review)
- - [A look at Meta&#39;s struggles to attract influencers to Threads, due to the platform&#39;s focus on text and its lack of a clear purpose for users &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/240706/p4#a240706p4)<!-- TECH:END -->
+ - [The Top 20 CNET Reader Deals Still Available From July 4th](https://www.cnet.com/deals/here-are-cnet-readers-20-favorite-july-4th-deals/#ftag=CAD590a51e)
+ - [Witness This Rare Cosmic Explosion That&#39;s About To Rock Earth&#39;s Sky](https://www.cnet.com/science/witness-this-rare-cosmic-explosion-thats-about-to-rock-earths-sky/#ftag=CAD590a51e)
+ - [We Flew, Drove, and Camped for Miles to Test the Best Luggage](https://www.wired.com/gallery/best-luggage/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

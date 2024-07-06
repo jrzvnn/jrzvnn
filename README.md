@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Amber Heard who now changed her name as `Martha Jane Cannary` and moved to live in Spain was caught on CCTV doing what she is FAMOUS for doing...](http://9gag.com/gag/adBj5WM)
- - 😝 [Welcome to Houston](http://9gag.com/gag/aKGqdDg)
- - 💣 [F around and find out](http://9gag.com/gag/awyxzMB)
- - 😝 [Bro didn&#39;t even blink](http://9gag.com/gag/a1mM17G)
+ - 😝 [Taking Over Europe](http://9gag.com/gag/aD2o4qd)
+ - 😝 [Miss Poland 2024](http://9gag.com/gag/aO8VxK6)
+ - 💣 [Moose impression](http://9gag.com/gag/aYQeYX2)
+ - 😝 [Gotta grind for that executive role](http://9gag.com/gag/a4PYonm)
  - 👉 [They tought he was joking](http://9gag.com/gag/aoy9M5g)<!-- MEMES:END -->
 
 ---

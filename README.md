@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Portuguese rally against muslims and demand the closure of mosques &amp; a ban on islam.](http://9gag.com/gag/a6Z71eN)
- - 😝 [This just became the most censored video on social media. Good luck on finding it anywhere &lpar;except here and X&rpar;!](http://9gag.com/gag/a34B1Lv)
- - 💣 [Pranks used to be so much better back in the day](http://9gag.com/gag/ae9GQGj)
+ - 😝 [Strong legs](http://9gag.com/gag/a7o718q)
+ - 😝 [Miss Poland 2024](http://9gag.com/gag/aO8VxK6)
+ - 💣 [Taking Over Europe](http://9gag.com/gag/aD2o4qd)
  - 😝 [He did it!!](http://9gag.com/gag/aryKmYX)
- - 👉 [Anti Depressant](http://9gag.com/gag/aE07Pv9)<!-- MEMES:END -->
+ - 👉 [Bro didn&#39;t even blink](http://9gag.com/gag/a1mM17G)<!-- MEMES:END -->
 
 ---
 

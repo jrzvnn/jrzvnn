@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So Disgusting](http://9gag.com/gag/amo9Bdv)
- - 😝 [Godzilla is no longer with us](http://9gag.com/gag/aGyxjZ6)
- - 💣 [World War 4 will be fought with sticks and stones.](http://9gag.com/gag/a7o7wvq)
+ - 😝 [AEZAKMI](http://9gag.com/gag/adBj5b9)
  - 😝 [Trauma is the best teacher](http://9gag.com/gag/a7o7WMz)
- - 👉 [Wisconsin woman dies saving son from family pit bull attack](http://9gag.com/gag/aLn2gzz)<!-- MEMES:END -->
+ - 💣 [Wisconsin woman dies saving son from family pit bull attack](http://9gag.com/gag/aLn2gzz)
+ - 😝 [Sweden](http://9gag.com/gag/a7o7E8r)
+ - 👉 [There&#39;s a better life](http://9gag.com/gag/aAy13o2)<!-- MEMES:END -->
 
 ---
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [2020??? Maybe 2024?](http://9gag.com/gag/aPADZBB)
  - 😝 [Taking Over Europe](http://9gag.com/gag/aD2o4qd)
- - 😝 [Do we even need to know what&#39;s been said?](http://9gag.com/gag/aByYmLz)
- - 💣 [2020??? Maybe 2024?](http://9gag.com/gag/aPADZBB)
- - 😝 [David Purley trying to save Roger Williamson &lpar;1973&rpar;. Purley later recalled that upon arriving at the scene, he heard Williamson crying for help as the fire began to take hold. The marshals were not wearing fire resistant clothing.](http://9gag.com/gag/a6Z71oR)
- - 👉 [Amber Heard who now changed her name as `Martha Jane Cannary` and moved to live in Spain was caught on CCTV doing what she is FAMOUS for doing...](http://9gag.com/gag/adBj5WM)<!-- MEMES:END -->
+ - 💣 [Wisconsin woman dies saving son from family pit bull attack](http://9gag.com/gag/aLn2gzz)
+ - 😝 [Amber Heard who now changed her name as `Martha Jane Cannary` and moved to live in Spain was caught on CCTV doing what she is FAMOUS for doing...](http://9gag.com/gag/adBj5WM)
+ - 👉 [Bro didn&#39;t even blink](http://9gag.com/gag/a1mM17G)<!-- MEMES:END -->
 
 ---
 

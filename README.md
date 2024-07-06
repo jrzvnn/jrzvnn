@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Moose impression](http://9gag.com/gag/aYQeYX2)
- - 😝 [Holy f**king christ!](http://9gag.com/gag/axyj7rD)
- - 💣 [Amber Heard who now changed her name as `Martha Jane Cannary` and moved to live in Spain was caught on CCTV doing what she is FAMOUS for doing...](http://9gag.com/gag/adBj5WM)
- - 😝 [More meme material from The Boys](http://9gag.com/gag/an7N925)
- - 👉 [Wanted to show my life hack for this summer](http://9gag.com/gag/aXP9Ymg)<!-- MEMES:END -->
+ - 😝 [Security guard vs two Mc Dummies](http://9gag.com/gag/aXP9Y2V)
+ - 😝 [2020??? Maybe 2024?](http://9gag.com/gag/aPADZBB)
+ - 💣 [More meme material from The Boys](http://9gag.com/gag/an7N925)
+ - 😝 [Taking Over Europe](http://9gag.com/gag/aD2o4qd)
+ - 👉 [Now give me your money!](http://9gag.com/gag/aKGq7qb)<!-- MEMES:END -->
 
 ---
 

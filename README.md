@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A look at Meta&#39;s struggles to attract influencers to Threads, due to the platform&#39;s focus on text and its lack of a clear purpose for users &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/240706/p4#a240706p4)
+ - [How to Stream the Latest Bite-Size &#39;Bluey&#39; Minisodes on Disney Plus](https://www.cnet.com/tech/services-and-software/how-to-stream-latest-bite-size-bluey-minisodes-disney-plus/#ftag=CAD590a51e)
  - [The 48 Best Movies on Netflix Right Now &lpar;July 2024&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
  - [The Supreme Court Doesn’t Want You to Have Clean Water and Safe Air](https://www.wired.com/story/supreme-court-clean-water-safe-air-epa-chevron-koch-brothers/)
- - [The 51 Best Shows on Netflix Right Now &lpar;July 2024&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
- - [iPhone SE 4: The Biggest Rumors About Apple&#39;s Next Budget iPhone](https://www.cnet.com/tech/mobile/iphone-se-4-rumors-what-may-be-next-for-apples-budget-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 51 Best Shows on Netflix Right Now &lpar;July 2024&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

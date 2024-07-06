@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [After all those years\u2026 We are still waiting](http://9gag.com/gag/a1mMWXG)
- - 😝 [Saharan sand from Africa covering snow in Europe.](http://9gag.com/gag/a5Q7MpV)
- - 💣 [Do we even need to know what&#39;s been said?](http://9gag.com/gag/aByYmLz)
- - 😝 [10/10 shading](http://9gag.com/gag/adBjV12)
- - 👉 [Wanted to show my life hack for this summer](http://9gag.com/gag/aXP9Ymg)<!-- MEMES:END -->
+ - 😝 [Game of Thrones audition reel](http://9gag.com/gag/a0ep74Q)
+ - 😝 [Lovely](http://9gag.com/gag/a5Q7WdE)
+ - 💣 [Friendly reminder.](http://9gag.com/gag/aRBA7VM)
+ - 😝 [Trauma is the best teacher](http://9gag.com/gag/a7o7WMz)
+ - 👉 [Emmy 2014 - Peak of Television](http://9gag.com/gag/a1mMW38)<!-- MEMES:END -->
 
 ---
 

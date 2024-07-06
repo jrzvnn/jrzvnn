@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Futurama](http://9gag.com/gag/aQz836r)
- - 😝 [Marine Le Pen: When I come to power, I will ban hijab in all of France](http://9gag.com/gag/azxjXqp)
- - 💣 [Trauma is the best teacher](http://9gag.com/gag/a7o7WMz)
- - 😝 [Sweden](http://9gag.com/gag/a7o7E8r)
- - 👉 [Kamala had one thing going for her. Now, even that&#39;s gone.](http://9gag.com/gag/an7NQKL)<!-- MEMES:END -->
+ - 😝 [AEZAKMI](http://9gag.com/gag/adBj5b9)
+ - 😝 [Amber Heard who now changed her name as `Martha Jane Cannary` and moved to live in Spain was caught on CCTV doing what she is FAMOUS for doing...](http://9gag.com/gag/adBj5WM)
+ - 💣 [Men only want one thing, plus one other thing](http://9gag.com/gag/aKGqdnZ)
+ - 😝 [Now give me your money!](http://9gag.com/gag/aKGq7qb)
+ - 👉 [Wisconsin woman dies saving son from family pit bull attack](http://9gag.com/gag/aLn2gzz)<!-- MEMES:END -->
 
 ---
 

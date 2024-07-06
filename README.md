@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple says it asked Epic to fix the buttons in a future version of the Epic Games Store submitted for review; Epic CEO Tim Sweeney says Epic will &quot;fight this&quot; &lpar;Malcolm Owen/AppleInsider&rpar;](http://www.techmeme.com/240706/p7#a240706p7)
+ - [The Samsung Smart Monitor M70C Just Hit an All-Time Low Price With This Extended July 4th Deal](https://www.cnet.com/deals/the-samsung-smart-monitor-m70c-just-hit-an-all-time-low-price-with-this-extended-july-4th-deal/#ftag=CAD590a51e)
  - [Epic says its EU iOS app store is approved but that Apple wants a change](https://www.theverge.com/2024/7/6/24193182/apple-approved-epic-games-store-notarized-eu-dma-fortnite)
- - [Save Up to 50% on Govee Smart Lights This Weekend With These Post-July 4th Deals](https://www.cnet.com/deals/save-up-to-50-on-govee-smart-lights-this-weekend-with-these-post-july-4th-deals/#ftag=CAD590a51e)
- - [Save Up to 50% on Portable Power Stations With Jackery&#39;s July 4th Weekend Sale](https://www.cnet.com/deals/save-up-to-50-on-portable-power-stations-with-jackerys-july-4th-weekend-sale/#ftag=CAD590a51e)
- - [Save Big on These USB-C Chargers and Battery Packs While You Still Can](https://www.cnet.com/deals/save-big-on-these-usb-c-chargers-and-battery-packs-while-you-still-can/#ftag=CAD590a51e)
- - [This July 4th Deal Knocks $50 Off the Samsung M5 27-Inch Smart Monitor, but Probably Not for Long](https://www.cnet.com/deals/this-july-4th-deal-knocks-50-off-the-samsung-m5-27-inch-smart-monitor-but-probably-not-for-long/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Score a Blink Smart Home Security Camera Bundle for $50 With Prime Member Exclusive Savings](https://www.cnet.com/deals/score-a-blink-smart-home-security-camera-bundle-for-50/#ftag=CAD590a51e)
+ - [Get the Lenovo Tab M11 for Just $145 With This Extended July 4th Sale](https://www.cnet.com/deals/get-the-lenovo-tab-m11-for-just-145-with-this-extended-july-4th-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

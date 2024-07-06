@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [33 Best Apple July 4th Deals: Grab Savings on AirPods, Apple Watch, MacBooks and More Before They’re Gone](https://www.cnet.com/deals/apple-july-4th-deals-2024-07-05/#ftag=CAD590a51e)
+ - [Best July 4th Sales 2024: 89 Deals You Can Still Shop at Amazon, Best Buy, Home Depot and More](https://www.cnet.com/deals/best-july-4th-sales-2024-07-05/#ftag=CAD590a51e)
+ - [How to Lose Weight and Keep It Off by Avoiding These 6 Habits](https://www.cnet.com/health/nutrition/how-to-lose-weight-and-keep-it-off-by-avoiding-these-6-habits/#ftag=CAD590a51e)
  - [How xenophobic content on Chinese social media, directed towards Japan, the US, Jews, and others, became the subject of a debate and spreads despite censorship &lpar;Li Yuan/New York Times&rpar;](http://www.techmeme.com/240705/p12#a240705p12)
- - [Best July 4th Laptop Deals Still Live: Don&#39;t Miss These Discounts on Apple, Lenovo, HP, Dell and More](https://www.cnet.com/deals/july-4th-laptop-deals-2024-07-05/#ftag=CAD590a51e)
- - [Best iPhone 13, iPhone 13 Pro and iPhone 13 Pro Max Cases of 2024](https://www.cnet.com/tech/mobile/best-iphone-13-cases/#ftag=CAD590a51e)
- - [Best July 4th Appliance Deals: You Can Still Score Great Savings on Samsung, LG, KitchenAid and More](https://www.cnet.com/deals/best-july-4th-appliance-sales-2024-07-05/#ftag=CAD590a51e)
- - [Home Depot July 4th Sale: You Can Still Score Big on Tools, Appliances, Outdoor Gear and More](https://www.cnet.com/deals/home-depot-july-4th-sale-2024-07-05/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best July 4th Laptop Deals Still Live: Don&#39;t Miss These Discounts on Apple, Lenovo, HP, Dell and More](https://www.cnet.com/deals/july-4th-laptop-deals-2024-07-05/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

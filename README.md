@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple green lights Epic Games Store in rapid reversal](https://appleinsider.com/articles/24/07/05/apple-green-lights-epic-games-store-in-rapid-reversal?utm_medium=rss)
  - [33 Best Still-Live Apple July 4th Deals: Nab AirPods, MacBooks and More](https://www.cnet.com/deals/apple-july-4th-deals-2024-07-06/#ftag=CAD590a51e)
  - [Prime Members Can Score This Jackery Power Station for Just $499 This July 4th Weekend](https://www.cnet.com/deals/prime-members-can-score-this-jackery-power-station-for-just-499-this-july-4th-weekend/#ftag=CAD590a51e)
  - [OWC&#39;s Thunderbolt Go Dock dips to $248 with early Prime Day deal](https://appleinsider.com/articles/24/07/06/owcs-thunderbolt-go-dock-dips-to-248-with-early-prime-day-deal?utm_medium=rss)
- - [Shop Smarter for a Full Year With a Sam&#39;s Club Membership for Only $20](https://www.cnet.com/deals/shop-smarter-for-a-full-year-with-a-sams-club-membership-for-only-20/#ftag=CAD590a51e)
- - [Apple says it asked Epic to fix the buttons in a future version of the Epic Games Store submitted for review; Epic CEO Tim Sweeney says Epic will &quot;fight this&quot; &lpar;Malcolm Owen/AppleInsider&rpar;](http://www.techmeme.com/240706/p7#a240706p7)<!-- TECH:END -->
+ - [Shop Smarter for a Full Year With a Sam&#39;s Club Membership for Only $20](https://www.cnet.com/deals/shop-smarter-for-a-full-year-with-a-sams-club-membership-for-only-20/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

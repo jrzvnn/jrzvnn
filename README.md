@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wisconsin woman dies saving son from family pit bull attack](http://9gag.com/gag/aLn2gzz)
- - 😝 [World War 4 will be fought with sticks and stones.](http://9gag.com/gag/a7o7wvq)
- - 💣 [This will keep those with OCD awake at night.](http://9gag.com/gag/a4PYRyw)
- - 😝 [Dang hawk tuah girl just ruined every one\u2019s dreams &amp; chances of Gen wealth with OF.](http://9gag.com/gag/aXP9xPv)
- - 👉 [Now give me your money!](http://9gag.com/gag/aKGq7qb)<!-- MEMES:END -->
+ - 😝 [Trauma is the best teacher](http://9gag.com/gag/a7o7WMz)
+ - 😝 [Do we even need to know what&#39;s been said?](http://9gag.com/gag/aByYmLz)
+ - 💣 [Who said Elden Ring was hard?](http://9gag.com/gag/aByYmrA)
+ - 😝 [2020??? Maybe 2024?](http://9gag.com/gag/aPADZBB)
+ - 👉 [Prank Call Finds Best Bloke Alive](http://9gag.com/gag/a5Q7EMO)<!-- MEMES:END -->
 
 ---
 

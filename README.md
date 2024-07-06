@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Its time to roll folks!](http://9gag.com/gag/azxj9mZ)
- - 😝 [One ticket please.](http://9gag.com/gag/azxjXgz)
- - 💣 [These two disrespecting the fourth hokage&#39;s jutsu](http://9gag.com/gag/a5Q7WeN)
- - 😝 [There&#39;s a better life](http://9gag.com/gag/aAy13o2)
- - 👉 [Men only want one thing, plus one other thing](http://9gag.com/gag/aKGqdnZ)<!-- MEMES:END -->
+ - 😝 [Futurama](http://9gag.com/gag/aQz836r)
+ - 😝 [Marine Le Pen: When I come to power, I will ban hijab in all of France](http://9gag.com/gag/azxjXqp)
+ - 💣 [Trauma is the best teacher](http://9gag.com/gag/a7o7WMz)
+ - 😝 [Sweden](http://9gag.com/gag/a7o7E8r)
+ - 👉 [Kamala had one thing going for her. Now, even that&#39;s gone.](http://9gag.com/gag/an7NQKL)<!-- MEMES:END -->
 
 ---
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Security guard vs two Mc Dummies](http://9gag.com/gag/aXP9Y2V)
- - 😝 [2020??? Maybe 2024?](http://9gag.com/gag/aPADZBB)
- - 💣 [More meme material from The Boys](http://9gag.com/gag/an7N925)
+ - 😝 [RIP Vision Pro 2024-2024](http://9gag.com/gag/awyxo6D)
+ - 😝 [Perfect reason to wear one](http://9gag.com/gag/aD2o4vK)
+ - 💣 [2020??? Maybe 2024?](http://9gag.com/gag/aPADZBB)
  - 😝 [Taking Over Europe](http://9gag.com/gag/aD2o4qd)
- - 👉 [Now give me your money!](http://9gag.com/gag/aKGq7qb)<!-- MEMES:END -->
+ - 👉 [Wisconsin woman dies saving son from family pit bull attack](http://9gag.com/gag/aLn2gzz)<!-- MEMES:END -->
 
 ---
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [French AI research lab Kyutai, which launched in November with &amp;euro;300M in funding and is backed by billionaire Xavier Niel, demos its AI voice assistant Moshi &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/240705/p14#a240705p14)
  - [How Kenya&#39;s anti-government protestors are using AI tools, including the Corrupt Politicians GPT, a chatbot that reveals corruption cases involving politicians &lpar;Martin K.N Siele/Semafor&rpar;](http://www.techmeme.com/240705/p13#a240705p13)
  - [July 4th Smart Home Deals Still Going Strong: Save on Smart Lights, Robot Vacuums and More](https://www.cnet.com/deals/best-july-4th-smart-home-sales-2024-07-05/#ftag=CAD590a51e)
  - [Sleep It Off With Bedgear&#39;s Extended July 4 Deal: Up to $800 Off Select Mattresses](https://www.cnet.com/deals/sleep-it-off-with-bedgears-extended-july-4-deal-up-to-800-off-select-mattresses/#ftag=CAD590a51e)
- - [July 4th TV Deals: You Can Still Save Big on Top Brands Like Sony, LG, Samsung and More](https://www.cnet.com/deals/best-july-4th-tv-sales-2024-07-05/#ftag=CAD590a51e)
- - [Target 4th of July Sale 2024: Shop the 21 Best Deals Still Live on Tech, Kitchen Appliances and More](https://www.cnet.com/deals/target-july-4th-sale-2024-07-05/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [July 4th TV Deals: You Can Still Save Big on Top Brands Like Sony, LG, Samsung and More](https://www.cnet.com/deals/best-july-4th-tv-sales-2024-07-05/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

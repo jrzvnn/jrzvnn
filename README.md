@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gotta grind for that executive role](http://9gag.com/gag/a4PYonm)
- - 😝 [Sweden](http://9gag.com/gag/a7o7E8r)
- - 💣 [Miss Poland 2024](http://9gag.com/gag/aO8VxK6)
- - 😝 [Amber Heard who now changed her name as `Martha Jane Cannary` and moved to live in Spain was caught on CCTV doing what she is FAMOUS for doing...](http://9gag.com/gag/adBj5WM)
- - 👉 [There&#39;s a better life](http://9gag.com/gag/aAy13o2)<!-- MEMES:END -->
+ - 😝 [2020??? Maybe 2024?](http://9gag.com/gag/aPADZBB)
+ - 😝 [They tought he was joking](http://9gag.com/gag/aoy9M5g)
+ - 💣 [Taking Over Europe](http://9gag.com/gag/aD2o4qd)
+ - 😝 [UEFA gave the player who made this sign a two-match ban.](http://9gag.com/gag/aAy1e0d)
+ - 👉 [Miss Poland 2024](http://9gag.com/gag/aO8VxK6)<!-- MEMES:END -->
 
 ---
 

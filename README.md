@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Top 20 CNET Reader Deals Still Available From July 4th](https://www.cnet.com/deals/here-are-cnet-readers-20-favorite-july-4th-deals/#ftag=CAD590a51e)
+ - [Witness This Rare Cosmic Explosion That&#39;s About To Rock Earth&#39;s Sky](https://www.cnet.com/science/witness-this-rare-cosmic-explosion-thats-about-to-rock-earths-sky/#ftag=CAD590a51e)
  - [We Flew, Drove, and Camped for Miles to Test the Best Luggage](https://www.wired.com/gallery/best-luggage/)
- - [This is the summer’s coolest new smart kitchen gadget — literally](https://www.theverge.com/24191807/ge-profile-opal-2-0-ultra-nugget-ice-maker-review)
- - [A look at Meta&#39;s struggles to attract influencers to Threads, due to the platform&#39;s focus on text and its lack of a clear purpose for users &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/240706/p4#a240706p4)
- - [How to Stream the Latest Bite-Size &#39;Bluey&#39; Minisodes on Disney Plus](https://www.cnet.com/tech/services-and-software/how-to-stream-latest-bite-size-bluey-minisodes-disney-plus/#ftag=CAD590a51e)
- - [The 48 Best Movies on Netflix Right Now &lpar;July 2024&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)<!-- TECH:END -->
+ - [July 4th Deals Under $25 Still Live: 76 Budget-Friendly Buys From Toys to Tech and Beyond](https://www.cnet.com/deals/july-4th-deals-under-25-2024-07-06/#ftag=CAD590a51e)
+ - [Should You Be Taking Lion&#39;s Mane Mushrooms for Your Health?](https://www.cnet.com/health/nutrition/lions-mane-mushrooms-benefits-side-effects/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [AEZAKMI](http://9gag.com/gag/adBj5b9)
- - 😝 [Trauma is the best teacher](http://9gag.com/gag/a7o7WMz)
- - 💣 [Wisconsin woman dies saving son from family pit bull attack](http://9gag.com/gag/aLn2gzz)
- - 😝 [Sweden](http://9gag.com/gag/a7o7E8r)
- - 👉 [There&#39;s a better life](http://9gag.com/gag/aAy13o2)<!-- MEMES:END -->
+ - 😝 [Its time to roll folks!](http://9gag.com/gag/azxj9mZ)
+ - 😝 [One ticket please.](http://9gag.com/gag/azxjXgz)
+ - 💣 [These two disrespecting the fourth hokage&#39;s jutsu](http://9gag.com/gag/a5Q7WeN)
+ - 😝 [There&#39;s a better life](http://9gag.com/gag/aAy13o2)
+ - 👉 [Men only want one thing, plus one other thing](http://9gag.com/gag/aKGqdnZ)<!-- MEMES:END -->
 
 ---
 

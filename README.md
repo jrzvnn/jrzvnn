@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [What to expect from Apple&#39;s third quarter 2024 earnings on August 1](https://appleinsider.com/articles/24/07/06/what-to-expect-from-apples-third-quarter-2024-earnings-on-august-1?utm_medium=rss)
- - [Last Chance Best Buy July 4th Sales: Still Time to Score Savings on Tech Gadgets, Appliances and More](https://www.cnet.com/deals/best-buy-july-4th-sale-2024-07-06/#ftag=CAD590a51e)
  - [How to Find the Best Eero Wi-Fi Mesh Router for You &lpar;2024&rpar;](https://www.wired.com/gallery/best-eero-wi-fi-mesh-router/)
  - [Final Fantasy creator Hironobu Sakaguchi talks about reuniting with Square Enix to bring his company Mistwalker&#39;s Apple Arcade RPG Fantasian to PC and consoles &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/240706/p5#a240706p5)
- - [SteelSeries Arctis Nova 5X Wireless Review: The Best Universal Gaming Headset](https://www.wired.com/review/steelseries-arctis-nova-5x-wireless/)<!-- TECH:END -->
+ - [SteelSeries Arctis Nova 5X Wireless Review: The Best Universal Gaming Headset](https://www.wired.com/review/steelseries-arctis-nova-5x-wireless/)
+ - [How to Choose the Right TV: Quantum Dots, HDR, and More in 2024](https://www.wired.com/story/how-to-buy-the-right-tv/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

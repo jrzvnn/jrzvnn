@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Final Fantasy creator Hironobu Sakaguchi talks about reuniting with Square Enix to bring his company Mistwalker&#39;s Apple Arcade RPG Fantasian to PC and consoles &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/240706/p5#a240706p5)
  - [How to Choose the Right TV: Quantum Dots, HDR, and More in 2024](https://www.wired.com/story/how-to-buy-the-right-tv/)
- - [T3 Aire 360 Air Styler Blowout Kit Review: Powerful and High-End](https://www.wired.com/review/t3-aire-360/)
- - [The Top 20 CNET Reader Deals Still Available From July 4th](https://www.cnet.com/deals/here-are-cnet-readers-20-favorite-july-4th-deals/#ftag=CAD590a51e)
- - [Witness This Rare Cosmic Explosion That&#39;s About To Rock Earth&#39;s Sky](https://www.cnet.com/science/witness-this-rare-cosmic-explosion-thats-about-to-rock-earths-sky/#ftag=CAD590a51e)
- - [We Flew, Drove, and Camped for Miles to Test the Best Luggage](https://www.wired.com/gallery/best-luggage/)<!-- TECH:END -->
+ - [Target 4th of July Sale 2024: Shop the 25 Best Deals Still Live on Tech, Toys, Kitchen Appliances and More](https://www.cnet.com/deals/target-july-4th-sale-2024-07-06/#ftag=CAD590a51e)
+ - [These Internet Providers Will increase Your Price the Most. Here’s What You Can Do About It](https://www.cnet.com/home/internet/these-internet-providers-will-increase-your-price-the-most-heres-what-you-can-do-about-it/#ftag=CAD590a51e)
+ - [Best July 4th Sales 2024: 89 Deals Still Running at Amazon, Best Buy, Home Depot and More](https://www.cnet.com/deals/best-july-4th-sales-2024-07-06/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

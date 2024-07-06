@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Absolute genius...](http://9gag.com/gag/aNDnp93)
- - 😝 [Dang hawk tuah girl just ruined every one\u2019s dreams &amp; chances of Gen wealth with OF.](http://9gag.com/gag/aXP9xPv)
- - 💣 [Well I have some news for you](http://9gag.com/gag/apRv2Yp)
- - 😝 [Just one more thing.....](http://9gag.com/gag/aNDn0z6)
- - 👉 [More meme material from The Boys](http://9gag.com/gag/an7N925)<!-- MEMES:END -->
+ - 😝 [After all those years\u2026 We are still waiting](http://9gag.com/gag/a1mMWXG)
+ - 😝 [Saharan sand from Africa covering snow in Europe.](http://9gag.com/gag/a5Q7MpV)
+ - 💣 [Do we even need to know what&#39;s been said?](http://9gag.com/gag/aByYmLz)
+ - 😝 [10/10 shading](http://9gag.com/gag/adBjV12)
+ - 👉 [Wanted to show my life hack for this summer](http://9gag.com/gag/aXP9Ymg)<!-- MEMES:END -->
 
 ---
 

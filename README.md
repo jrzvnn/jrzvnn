@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Epic says its EU iOS app store is approved but that Apple wants a change](https://www.theverge.com/2024/7/6/24193182/apple-approved-epic-games-store-notarized-eu-dma-fortnite)
  - [Save Up to 50% on Govee Smart Lights This Weekend With These Post-July 4th Deals](https://www.cnet.com/deals/save-up-to-50-on-govee-smart-lights-this-weekend-with-these-post-july-4th-deals/#ftag=CAD590a51e)
  - [Save Up to 50% on Portable Power Stations With Jackery&#39;s July 4th Weekend Sale](https://www.cnet.com/deals/save-up-to-50-on-portable-power-stations-with-jackerys-july-4th-weekend-sale/#ftag=CAD590a51e)
  - [Save Big on These USB-C Chargers and Battery Packs While You Still Can](https://www.cnet.com/deals/save-big-on-these-usb-c-chargers-and-battery-packs-while-you-still-can/#ftag=CAD590a51e)
- - [This July 4th Deal Knocks $50 Off the Samsung M5 27-Inch Smart Monitor, but Probably Not for Long](https://www.cnet.com/deals/this-july-4th-deal-knocks-50-off-the-samsung-m5-27-inch-smart-monitor-but-probably-not-for-long/#ftag=CAD590a51e)
- - [As Glaze, a free tool to help artists prevent AI from copying their style, sees an &quot;explosion in demand&quot;, researchers say its protections can be bypassed &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/240706/p6#a240706p6)<!-- TECH:END -->
+ - [This July 4th Deal Knocks $50 Off the Samsung M5 27-Inch Smart Monitor, but Probably Not for Long](https://www.cnet.com/deals/this-july-4th-deal-knocks-50-off-the-samsung-m5-27-inch-smart-monitor-but-probably-not-for-long/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

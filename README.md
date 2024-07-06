@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Perfect reason to wear one](http://9gag.com/gag/aD2o4vK)
- - 😝 [David Purley trying to save Roger Williamson &lpar;1973&rpar;. Purley later recalled that upon arriving at the scene, he heard Williamson crying for help as the fire began to take hold. The marshals were not wearing fire resistant clothing.](http://9gag.com/gag/a6Z71oR)
- - 💣 [Wisconsin woman dies saving son from family pit bull attack](http://9gag.com/gag/aLn2gzz)
- - 😝 [Sweden](http://9gag.com/gag/a7o7E8r)
- - 👉 [BALERION](http://9gag.com/gag/azxj9GB)<!-- MEMES:END -->
+ - 😝 [Moose impression](http://9gag.com/gag/aYQeYX2)
+ - 😝 [Holy f**king christ!](http://9gag.com/gag/axyj7rD)
+ - 💣 [Amber Heard who now changed her name as `Martha Jane Cannary` and moved to live in Spain was caught on CCTV doing what she is FAMOUS for doing...](http://9gag.com/gag/adBj5WM)
+ - 😝 [More meme material from The Boys](http://9gag.com/gag/an7N925)
+ - 👉 [Wanted to show my life hack for this summer](http://9gag.com/gag/aXP9Ymg)<!-- MEMES:END -->
 
 ---
 

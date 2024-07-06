@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NASCAR shows off an EV prototype](https://www.theverge.com/2024/7/6/24193272/nascar-ev-prototype-abb-electric-racing-sustainability)
  - [Score Big Discounts on Top Mattresses From Several Brands With Mattress Firm’s July 4th Sale](https://www.cnet.com/deals/mattress-firm-4th-of-july-2024/#ftag=CAD590a51e)
  - [Extended July 4th Walmart Sales: 57 Great Deals on Home Goods, Tech, Video Games and More to Grab Before They’re Gone](https://www.cnet.com/deals/walmart-july-4th-sale-2024-07-06/#ftag=CAD590a51e)
  - [Apple green lights Epic Games Store in rapid reversal](https://appleinsider.com/articles/24/07/05/apple-green-lights-epic-games-store-in-rapid-reversal?utm_medium=rss)
- - [Best Buy July 4th Deals: Grab Big Savings on Tech, Appliances, and More Before They’re Gone](https://www.cnet.com/deals/best-buy-july-4th-sale-2024-07-06/#ftag=CAD590a51e)
- - [The Best Horror Movies to Stream on Max](https://www.cnet.com/tech/services-and-software/the-best-horror-movies-to-stream-on-max-july-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Buy July 4th Deals: Grab Big Savings on Tech, Appliances, and More Before They’re Gone](https://www.cnet.com/deals/best-buy-july-4th-sale-2024-07-06/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

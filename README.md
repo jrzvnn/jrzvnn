@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Do we even need to know what&#39;s been said?](http://9gag.com/gag/aByYmLz)
- - 😝 [Perfect reason to wear one](http://9gag.com/gag/aD2o4vK)
- - 💣 [Dang hawk tuah girl just ruined every one\u2019s dreams &amp; chances of Gen wealth with OF.](http://9gag.com/gag/aXP9xPv)
- - 😝 [Wanted to show my life hack for this summer](http://9gag.com/gag/aXP9Ymg)
- - 👉 [Is this bait for this types of pictures in the comments? Maybe](http://9gag.com/gag/aE07xdK)<!-- MEMES:END -->
+ - 😝 [Is this bait for this types of pictures in the comments? Maybe](http://9gag.com/gag/aE07xdK)
+ - 😝 [Men only want one thing, plus one other thing](http://9gag.com/gag/aKGqdnZ)
+ - 💣 [Trauma is the best teacher](http://9gag.com/gag/a7o7WMz)
+ - 😝 [Now give me your money!](http://9gag.com/gag/aKGq7qb)
+ - 👉 [Do we even need to know what&#39;s been said?](http://9gag.com/gag/aByYmLz)<!-- MEMES:END -->
 
 ---
 

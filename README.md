@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Emmy 2014 - Peak of Television](http://9gag.com/gag/a1mMW38)
+ - 😝 [Howard the grill master](http://9gag.com/gag/aKGqm4Z)
  - 😝 [Do we even need to know what&#39;s been said?](http://9gag.com/gag/aByYmLz)
  - 💣 [Is this true guys?](http://9gag.com/gag/a7o7Eee)
- - 😝 [Trauma is the best teacher](http://9gag.com/gag/a7o7WMz)
- - 👉 [Game of Thrones audition reel](http://9gag.com/gag/a0ep74Q)<!-- MEMES:END -->
+ - 😝 [2020??? Maybe 2024?](http://9gag.com/gag/aPADZBB)
+ - 👉 [Trauma is the best teacher](http://9gag.com/gag/a7o7WMz)<!-- MEMES:END -->
 
 ---
 

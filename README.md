@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Howard the grill master](http://9gag.com/gag/aKGqm4Z)
- - 😝 [Do we even need to know what&#39;s been said?](http://9gag.com/gag/aByYmLz)
- - 💣 [Is this true guys?](http://9gag.com/gag/a7o7Eee)
- - 😝 [2020??? Maybe 2024?](http://9gag.com/gag/aPADZBB)
- - 👉 [Trauma is the best teacher](http://9gag.com/gag/a7o7WMz)<!-- MEMES:END -->
+ - 😝 [Just some random numbers. Nothing special about them.](http://9gag.com/gag/aGyxjGw)
+ - 😝 [World War 4 will be fought with sticks and stones.](http://9gag.com/gag/a7o7wvq)
+ - 💣 [Trauma is the best teacher](http://9gag.com/gag/a7o7WMz)
+ - 😝 [Taking Over Europe](http://9gag.com/gag/aD2o4qd)
+ - 👉 [Amber Heard who now changed her name as `Martha Jane Cannary` and moved to live in Spain was caught on CCTV doing what she is FAMOUS for doing...](http://9gag.com/gag/adBj5WM)<!-- MEMES:END -->
 
 ---
 

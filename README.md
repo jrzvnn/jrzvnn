@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Moose impression](http://9gag.com/gag/aYQeYX2)
- - 😝 [2020??? Maybe 2024?](http://9gag.com/gag/aPADZBB)
- - 💣 [More meme material from The Boys](http://9gag.com/gag/an7N925)
- - 😝 [David Purley trying to save Roger Williamson &lpar;1973&rpar;. Purley later recalled that upon arriving at the scene, he heard Williamson crying for help as the fire began to take hold. The marshals were not wearing fire resistant clothing.](http://9gag.com/gag/a6Z71oR)
- - 👉 [Still waiting](http://9gag.com/gag/ayNdB2M)<!-- MEMES:END -->
+ - 😝 [Taking Over Europe](http://9gag.com/gag/aD2o4qd)
+ - 😝 [This will keep those with OCD awake at night.](http://9gag.com/gag/a4PYRyw)
+ - 💣 [There&#39;s a better life](http://9gag.com/gag/aAy13o2)
+ - 😝 [Amber Heard who now changed her name as `Martha Jane Cannary` and moved to live in Spain was caught on CCTV doing what she is FAMOUS for doing...](http://9gag.com/gag/adBj5WM)
+ - 👉 [More meme material from The Boys](http://9gag.com/gag/an7N925)<!-- MEMES:END -->
 
 ---
 

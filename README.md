@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hackers Leaking Taylor Swift Tickets? Don’t Get Your Hopes Up](https://www.wired.com/story/ticketmaster-taylor-swift-ticket-leak-security-roundup/)
+ - [23 Best Early Amazon Prime Day Deals &lpar;2024&rpar;](https://www.wired.com/story/best-early-amazon-prime-day-deals-2024/)
  - [Best Samsung Phone of 2024](https://www.cnet.com/tech/mobile/best-samsung-galaxy-phone/#ftag=CAD590a51e)
  - [Mt. Gox starts repaying customers, who will receive only ~15% of their lost bitcoins, but now worth many times more than their total 2014 holdings &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/240706/p3#a240706p3)
- - [Electric bikepacking: lessons learned over four days and 250 miles](https://www.theverge.com/24187989/e-bikepacking-charging-range-lessons-gear-review)
- - [ElevenLabs launches Voice Isolator, a freemium AI tool for removing background noise from audio files for film, podcast, and interview post production &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/240706/p2#a240706p2)
- - [Save Up to $800 With Purple&#39;s Hot July 4th Sale](https://www.cnet.com/deals/purple-4th-of-july-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Electric bikepacking: lessons learned over four days and 250 miles](https://www.theverge.com/24187989/e-bikepacking-charging-range-lessons-gear-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

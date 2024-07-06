@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Taking Over Europe](http://9gag.com/gag/aD2o4qd)
- - 😝 [This will keep those with OCD awake at night.](http://9gag.com/gag/a4PYRyw)
- - 💣 [There&#39;s a better life](http://9gag.com/gag/aAy13o2)
+ - 😝 [Men only want one thing, plus one other thing](http://9gag.com/gag/aKGqdnZ)
+ - 😝 [There&#39;s a better life](http://9gag.com/gag/aAy13o2)
+ - 💣 [Taking Over Europe](http://9gag.com/gag/aD2o4qd)
  - 😝 [Amber Heard who now changed her name as `Martha Jane Cannary` and moved to live in Spain was caught on CCTV doing what she is FAMOUS for doing...](http://9gag.com/gag/adBj5WM)
- - 👉 [More meme material from The Boys](http://9gag.com/gag/an7N925)<!-- MEMES:END -->
+ - 👉 [Sweden](http://9gag.com/gag/a7o7E8r)<!-- MEMES:END -->
 
 ---
 

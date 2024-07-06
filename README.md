@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is this bait for this types of pictures in the comments? Maybe](http://9gag.com/gag/aE07xdK)
- - 😝 [Men only want one thing, plus one other thing](http://9gag.com/gag/aKGqdnZ)
- - 💣 [Trauma is the best teacher](http://9gag.com/gag/a7o7WMz)
- - 😝 [Now give me your money!](http://9gag.com/gag/aKGq7qb)
- - 👉 [Do we even need to know what&#39;s been said?](http://9gag.com/gag/aByYmLz)<!-- MEMES:END -->
+ - 😝 [Absolute genius...](http://9gag.com/gag/aNDnp93)
+ - 😝 [Dang hawk tuah girl just ruined every one\u2019s dreams &amp; chances of Gen wealth with OF.](http://9gag.com/gag/aXP9xPv)
+ - 💣 [Well I have some news for you](http://9gag.com/gag/apRv2Yp)
+ - 😝 [Just one more thing.....](http://9gag.com/gag/aNDn0z6)
+ - 👉 [More meme material from The Boys](http://9gag.com/gag/an7N925)<!-- MEMES:END -->
 
 ---
 

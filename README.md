@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [World War 4 will be fought with sticks and stones.](http://9gag.com/gag/a7o7wvq)
- - 😝 [David Purley trying to save Roger Williamson &lpar;1973&rpar;. Purley later recalled that upon arriving at the scene, he heard Williamson crying for help as the fire began to take hold. The marshals were not wearing fire resistant clothing.](http://9gag.com/gag/a6Z71oR)
- - 💣 [Wanted to show my life hack for this summer](http://9gag.com/gag/aXP9Ymg)
+ - 😝 [What is wrong with wh*te people?](http://9gag.com/gag/a2vm19D)
  - 😝 [Wisconsin woman dies saving son from family pit bull attack](http://9gag.com/gag/aLn2gzz)
- - 👉 [Taking Over Europe](http://9gag.com/gag/aD2o4qd)<!-- MEMES:END -->
+ - 💣 [David Purley trying to save Roger Williamson &lpar;1973&rpar;. Purley later recalled that upon arriving at the scene, he heard Williamson crying for help as the fire began to take hold. The marshals were not wearing fire resistant clothing.](http://9gag.com/gag/a6Z71oR)
+ - 😝 [Do we even need to know what&#39;s been said?](http://9gag.com/gag/aByYmLz)
+ - 👉 [There&#39;s a better life](http://9gag.com/gag/aAy13o2)<!-- MEMES:END -->
 
 ---
 

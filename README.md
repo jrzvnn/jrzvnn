@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [World War 4 will be fought with sticks and stones.](http://9gag.com/gag/a7o7wvq)
- - 😝 [AEZAKMI](http://9gag.com/gag/adBj5b9)
- - 💣 [Is this bait for this types of pictures in the comments? Maybe](http://9gag.com/gag/aE07xdK)
- - 😝 [Holy f**king christ!](http://9gag.com/gag/axyj7rD)
- - 👉 [Perfect reason to wear one](http://9gag.com/gag/aD2o4vK)<!-- MEMES:END -->
+ - 😝 [Perfect reason to wear one](http://9gag.com/gag/aD2o4vK)
+ - 😝 [This will keep those with OCD awake at night.](http://9gag.com/gag/a4PYRyw)
+ - 💣 [This dude has no job, 4 wives, and 2 girlfriends](http://9gag.com/gag/a6Z7E82)
+ - 😝 [Wisconsin woman dies saving son from family pit bull attack](http://9gag.com/gag/aLn2gzz)
+ - 👉 [Just some random numbers. Nothing special about them.](http://9gag.com/gag/aGyxjGw)<!-- MEMES:END -->
 
 ---
 

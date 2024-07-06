@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [F around and find out](http://9gag.com/gag/awyxzMB)
- - 😝 [BALERION](http://9gag.com/gag/azxj9GB)
- - 💣 [Taking Over Europe](http://9gag.com/gag/aD2o4qd)
- - 😝 [There&#39;s a better life](http://9gag.com/gag/aAy13o2)
- - 👉 [Wisconsin woman dies saving son from family pit bull attack](http://9gag.com/gag/aLn2gzz)<!-- MEMES:END -->
+ - 😝 [Modern problems require ancient solution](http://9gag.com/gag/aMVG4PR)
+ - 😝 [Sweden](http://9gag.com/gag/a7o7E8r)
+ - 💣 [Now give me your money!](http://9gag.com/gag/aKGq7qb)
+ - 😝 [Taking Over Europe](http://9gag.com/gag/aD2o4qd)
+ - 👉 [Bro didn&#39;t even blink](http://9gag.com/gag/a1mM17G)<!-- MEMES:END -->
 
 ---
 

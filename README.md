@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Chinese problem, chinese solution...](http://9gag.com/gag/aE07qyx)
+ - 😝 [I AM THE GOOD GUY ON THE BOYS HOMELANDER BAD](http://9gag.com/gag/aqy5GvQ)
+ - 💣 [Absolutely](http://9gag.com/gag/avyPQ6b)
  - 😝 [They tought he was joking](http://9gag.com/gag/aoy9M5g)
- - 😝 [On June 30, a male influencer in Jilin Province, China, was stabbed to death by a 53-year-old drunk while dancing in a square. Video footage of the incident showed hundreds of people watching he dying, no one stopping the killer or calling the police even the victim bleeding.](http://9gag.com/gag/abA0v2L)
- - 💣 [Wow](http://9gag.com/gag/aKGqG9Q)
- - 😝 [This just became the most censored video on social media. Good luck on finding it anywhere &lpar;except here and X&rpar;!](http://9gag.com/gag/a34B1Lv)
- - 👉 [I AM THE GOOD GUY ON THE BOYS HOMELANDER BAD](http://9gag.com/gag/aqy5GvQ)<!-- MEMES:END -->
+ - 👉 [Bro didn&#39;t even blink](http://9gag.com/gag/a1mM17G)<!-- MEMES:END -->
 
 ---
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [On June 30, a male influencer in Jilin Province, China, was stabbed to death by a 53-year-old drunk while dancing in a square. Video footage of the incident showed hundreds of people watching he dying, no one stopping the killer or calling the police even the victim bleeding.](http://9gag.com/gag/abA0v2L)
- - 😝 [The day starwars become woke](http://9gag.com/gag/a4PYPjA)
- - 💣 [This just became the most censored video on social media. Good luck on finding it anywhere &lpar;except here and X&rpar;!](http://9gag.com/gag/a34B1Lv)
- - 😝 [`Nintendo has responded to concern over the inappropriate use of its characters online and said it would take &#39;appropriate action&#39; against anything that would make some players &#39;feel uncomfortable.&#39;` Everyone share your best and most alluring Bowsette!](http://9gag.com/gag/aKGqEOj)
- - 👉 [Is this true guys?](http://9gag.com/gag/a7o7Eee)<!-- MEMES:END -->
+ - 😝 [Gotta grind for that executive role](http://9gag.com/gag/a4PYonm)
+ - 😝 [I AM THE GOOD GUY ON THE BOYS HOMELANDER BAD](http://9gag.com/gag/aqy5GvQ)
+ - 💣 [On June 30, a male influencer in Jilin Province, China, was stabbed to death by a 53-year-old drunk while dancing in a square. Video footage of the incident showed hundreds of people watching he dying, no one stopping the killer or calling the police even the victim bleeding.](http://9gag.com/gag/abA0v2L)
+ - 😝 [Modern problems require ancient solution](http://9gag.com/gag/aMVG4PR)
+ - 👉 [Perfect reason to wear one](http://9gag.com/gag/aD2o4vK)<!-- MEMES:END -->
 
 ---
 

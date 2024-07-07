@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Score These Massively Discounted Open Earbuds for Just $25 Ahead of Prime Day](https://www.cnet.com/deals/score-these-massively-discounted-open-earbuds-for-just-25-ahead-of-prime-day/#ftag=CAD590a51e)
- - [Best Over-the-Counter Eye Drops of 2024](https://www.cnet.com/health/personal-care/best-eye-drops/#ftag=CAD590a51e)
  - [Figma disables AI-powered &#39;Make Design&#39; feature after Weather app rip-off](https://appleinsider.com/articles/24/07/07/figma-disables-ai-powered-make-design-feature-after-weather-app-rip-off?utm_medium=rss)
- - [Final Chance to Take Advantage of a July 4th Deal and Save $100 on Our Top Robot Vacuum of 2024](https://www.cnet.com/deals/final-chance-to-take-advantage-of-a-july-4th-deal-and-save-100-on-our-top-robot-vacuum-of-2024/#ftag=CAD590a51e)
- - [13 July 4th Appliance Deals That Are Still Live: Save on Samsung, LG, KitchenAid and More](https://www.cnet.com/deals/best-july-4th-appliance-sales-2024-07-07/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Don&#39;t Miss Out on Amazon and Ring Smart Home Devices as Low as $12 at Woot&#39;s Lingering July 4th Sale](https://www.cnet.com/deals/amazon-ring-smart-home-devices-woot-july-4th/#ftag=CAD590a51e)
+ - [67 Tech, Home and Toy Deals Under $25 You Can Still Nab As July 4th Sales End](https://www.cnet.com/deals/july-4th-deals-under-25-2024-07-07/#ftag=CAD590a51e)
+ - [There&#39;s Still Time to Snag the July 4th Special Tapo 2K QHD Security Camera for Just $25](https://www.cnet.com/deals/theres-still-time-to-snag-the-july-4th-special-tapo-2k-qhd-security-camera-for-just-25/#ftag=CAD590a51e)
+ - [Act Quick to Take Advantage of This Lingering Jackery Power Station July 4th Deal](https://www.cnet.com/deals/act-quick-to-take-advantage-of-this-lingering-jackery-power-station-july-4th-deal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

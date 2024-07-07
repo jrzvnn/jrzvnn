@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He did it!!](http://9gag.com/gag/aryKmYX)
- - 😝 [RIP Vision Pro 2024-2024](http://9gag.com/gag/awyxo6D)
- - 💣 [I AM THE GOOD GUY ON THE BOYS HOMELANDER BAD](http://9gag.com/gag/aqy5GvQ)
- - 😝 [They tought he was joking](http://9gag.com/gag/aoy9M5g)
- - 👉 [This just became the most censored video on social media. Good luck on finding it anywhere &lpar;except here and X&rpar;!](http://9gag.com/gag/a34B1Lv)<!-- MEMES:END -->
+ - 😝 [Brooke Shields](http://9gag.com/gag/a5Q7X2O)
+ - 😝 [Bro didn&#39;t even blink](http://9gag.com/gag/a1mM17G)
+ - 💣 [They tought he was joking](http://9gag.com/gag/aoy9M5g)
+ - 😝 [On June 30, a male influencer in Jilin Province, China, was stabbed to death by a 53-year-old drunk while dancing in a square. Video footage of the incident showed hundreds of people watching he dying, no one stopping the killer or calling the police even the victim bleeding.](http://9gag.com/gag/abA0v2L)
+ - 👉 [Amber Heard who now changed her name as `Martha Jane Cannary` and moved to live in Spain was caught on CCTV doing what she is FAMOUS for doing...](http://9gag.com/gag/adBj5WM)<!-- MEMES:END -->
 
 ---
 

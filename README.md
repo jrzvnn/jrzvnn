@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Nintendo has responded to concern over the inappropriate use of its characters online and said it would take &#39;appropriate action&#39; against anything that would make some players &#39;feel uncomfortable.&#39;` Everyone share your best and most alluring Bowsette!](http://9gag.com/gag/aKGqEOj)
- - 😝 [They tought he was joking](http://9gag.com/gag/aoy9M5g)
- - 💣 [Bro didn&#39;t even blink](http://9gag.com/gag/a1mM17G)
  - 😝 [Sweden](http://9gag.com/gag/a7o7E8r)
- - 👉 [This just became the most censored video on social media. Good luck on finding it anywhere &lpar;except here and X&rpar;!](http://9gag.com/gag/a34B1Lv)<!-- MEMES:END -->
+ - 😝 [I AM THE GOOD GUY ON THE BOYS HOMELANDER BAD](http://9gag.com/gag/aqy5GvQ)
+ - 💣 [This is not even the final form](http://9gag.com/gag/a1mMmzR)
+ - 😝 [This just became the most censored video on social media. Good luck on finding it anywhere &lpar;except here and X&rpar;!](http://9gag.com/gag/a34B1Lv)
+ - 👉 [Quality check](http://9gag.com/gag/a5Q7X9L)<!-- MEMES:END -->
 
 ---
 

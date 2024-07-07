@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [LOL](http://9gag.com/gag/awyxgAW)
- - 😝 [Absolutely](http://9gag.com/gag/avyPQ6b)
+ - 😝 [On June 30, a male influencer in Jilin Province, China, was stabbed to death by a 53-year-old drunk while dancing in a square. Video footage of the incident showed hundreds of people watching he dying, no one stopping the killer or calling the police even the victim bleeding.](http://9gag.com/gag/abA0v2L)
+ - 😝 [Wow](http://9gag.com/gag/aKGqG9Q)
  - 💣 [Chinese problem, chinese solution...](http://9gag.com/gag/aE07qyx)
- - 😝 [They tought he was joking](http://9gag.com/gag/aoy9M5g)
- - 👉 [The new mayor of Islamabad, Pakistan Sorry for the typo, he&#39;s the new mayor of Brighton, UK](http://9gag.com/gag/aqy5R8Y)<!-- MEMES:END -->
+ - 😝 [Bro didn&#39;t even blink](http://9gag.com/gag/a1mM17G)
+ - 👉 [Quality check](http://9gag.com/gag/a5Q7X9L)<!-- MEMES:END -->
 
 ---
 

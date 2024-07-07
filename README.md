@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chinese problem, chinese solution...](http://9gag.com/gag/aE07qyx)
- - 😝 [On June 30, a male influencer in Jilin Province, China, was stabbed to death by a 53-year-old drunk while dancing in a square. Video footage of the incident showed hundreds of people watching he dying, no one stopping the killer or calling the police even the victim bleeding.](http://9gag.com/gag/abA0v2L)
- - 💣 [Amber Heard who now changed her name as `Martha Jane Cannary` and moved to live in Spain was caught on CCTV doing what she is FAMOUS for doing...](http://9gag.com/gag/adBj5WM)
- - 😝 [They tought he was joking](http://9gag.com/gag/aoy9M5g)
- - 👉 [This just became the most censored video on social media. Good luck on finding it anywhere &lpar;except here and X&rpar;!](http://9gag.com/gag/a34B1Lv)<!-- MEMES:END -->
+ - 😝 [Wow](http://9gag.com/gag/aKGqG9Q)
+ - 😝 [Howard the grill master](http://9gag.com/gag/aKGqm4Z)
+ - 💣 [2020??? Maybe 2024?](http://9gag.com/gag/aPADZBB)
+ - 😝 [Big Sky Based!](http://9gag.com/gag/aKGqEeb)
+ - 👉 [Bro didn&#39;t even blink](http://9gag.com/gag/a1mM17G)<!-- MEMES:END -->
 
 ---
 

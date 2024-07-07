@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [On June 30, a male influencer in Jilin Province, China, was stabbed to death by a 53-year-old drunk while dancing in a square. Video footage of the incident showed hundreds of people watching he dying, no one stopping the killer or calling the police even the victim bleeding.](http://9gag.com/gag/abA0v2L)
- - 😝 [This is where the fun begins!](http://9gag.com/gag/adBjPV2)
- - 💣 [Wow](http://9gag.com/gag/aKGqG9Q)
- - 😝 [`Nintendo has responded to concern over the inappropriate use of its characters online and said it would take &#39;appropriate action&#39; against anything that would make some players &#39;feel uncomfortable.&#39;` Everyone share your best and most alluring Bowsette!](http://9gag.com/gag/aKGqEOj)
- - 👉 [Sweden](http://9gag.com/gag/a7o7E8r)<!-- MEMES:END -->
+ - 😝 [Big Sky Based!](http://9gag.com/gag/aKGqEeb)
+ - 😝 [Welcome welcome...](http://9gag.com/gag/aKGqEQO)
+ - 💣 [Portuguese rally against muslims and demand the closure of mosques &amp; a ban on islam.](http://9gag.com/gag/a6Z71eN)
+ - 😝 [Miss Poland 2024](http://9gag.com/gag/aO8VxK6)
+ - 👉 [Restore the glory](http://9gag.com/gag/aD2o27N)<!-- MEMES:END -->
 
 ---
 

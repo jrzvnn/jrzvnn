@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Absolutely](http://9gag.com/gag/avyPQ6b)
- - 😝 [The new mayor of Islamabad, Pakistan Sorry for the typo, he&#39;s the new mayor of Brighton, UK](http://9gag.com/gag/aqy5R8Y)
- - 💣 [They tought he was joking](http://9gag.com/gag/aoy9M5g)
- - 😝 [Are you okay?](http://9gag.com/gag/amo9Arv)
- - 👉 [This just became the most censored video on social media. Good luck on finding it anywhere &lpar;except here and X&rpar;!](http://9gag.com/gag/a34B1Lv)<!-- MEMES:END -->
+ - 😝 [I AM THE GOOD GUY ON THE BOYS HOMELANDER BAD](http://9gag.com/gag/aqy5GvQ)
+ - 😝 [If you know, you already understood.](http://9gag.com/gag/awyx3rR)
+ - 💣 [The new mayor of Islamabad, Pakistan Sorry for the typo, he&#39;s the new mayor of Brighton, UK](http://9gag.com/gag/aqy5R8Y)
+ - 😝 [Wow](http://9gag.com/gag/aKGqG9Q)
+ - 👉 [LOL](http://9gag.com/gag/awyxgAW)<!-- MEMES:END -->
 
 ---
 

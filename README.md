@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Advanced Apple Watch health monitoring features are hitting some roadblocks](https://appleinsider.com/articles/24/07/07/advanced-apple-watch-health-monitoring-features-are-hitting-some-roadblocks?utm_medium=rss)
+ - [Apple Watch Series 10 &amp; Ultra 3 will be faster, but not an anniversary redesign](https://appleinsider.com/articles/24/07/07/apple-watch-series-10-ultra-3-will-be-faster-but-not-an-anniversary-redesign?utm_medium=rss)
  - [MSI Mag 34CQP Gaming Monitor Review: Pixel Perfect Immersion](https://www.wired.com/review/msi-mag-341cqp-qd-oled-gaming-monitor/)
  - [Google’s Repair Policy Is Broken](https://www.wired.com/story/google-repair-policy-broken/)
- - [A look at Apate, a conversational bot developed by Macquarie University&#39;s Cyber Security Hub in Australia to keep scam callers on the line while collecting data &lpar;Tory Shepherd/The Guardian&rpar;](http://www.techmeme.com/240707/p2#a240707p2)
- - [Beats Solo Buds Review: Great Price, Greater Compromise](https://www.wired.com/review/beats-solo-buds/)
- - [67 Tech, Home and Toy Deals Under $25 You Can Still Score After July 4th](https://www.cnet.com/deals/july-4th-deals-under-25-2024-07-07/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save $1,061 Off the Gorgeous 65-Inch LG C3 OLED TV With This Incredible July 4th Price](https://www.cnet.com/deals/save-1061-off-the-gorgeous-65-inch-lg-c3-oled-tv-with-this-incredible-july-4th-price/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

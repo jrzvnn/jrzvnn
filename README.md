@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Man arrested in London for the crime of public swearing. Last week another lad was arrested for eating pork in public. Welcome to the &#39;free&#39; western country](http://9gag.com/gag/aYQeQAx)
- - 😝 [If you know, you already understood.](http://9gag.com/gag/awyx3rR)
- - 💣 [Are you okay?](http://9gag.com/gag/amo9Arv)
+ - 😝 [Even Kroos has admitted it](http://9gag.com/gag/amo9WoX)
  - 😝 [Wow](http://9gag.com/gag/aKGqG9Q)
- - 👉 [Bro didn&#39;t even blink](http://9gag.com/gag/a1mM17G)<!-- MEMES:END -->
+ - 💣 [Bro didn&#39;t even blink](http://9gag.com/gag/a1mM17G)
+ - 😝 [On June 30, a male influencer in Jilin Province, China, was stabbed to death by a 53-year-old drunk while dancing in a square. Video footage of the incident showed hundreds of people watching he dying, no one stopping the killer or calling the police even the victim bleeding.](http://9gag.com/gag/abA0v2L)
+ - 👉 [Jumper](http://9gag.com/gag/adBj1pV)<!-- MEMES:END -->
 
 ---
 

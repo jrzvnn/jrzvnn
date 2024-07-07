@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Chinese problem, chinese solution...](http://9gag.com/gag/aE07qyx)
- - 😝 [They tought he was joking](http://9gag.com/gag/aoy9M5g)
- - 💣 [Sweden](http://9gag.com/gag/a7o7E8r)
- - 😝 [Are you okay?](http://9gag.com/gag/amo9Arv)
- - 👉 [I AM THE GOOD GUY ON THE BOYS HOMELANDER BAD](http://9gag.com/gag/aqy5GvQ)<!-- MEMES:END -->
+ - 😝 [On June 30, a male influencer in Jilin Province, China, was stabbed to death by a 53-year-old drunk while dancing in a square. Video footage of the incident showed hundreds of people watching he dying, no one stopping the killer or calling the police even the victim bleeding.](http://9gag.com/gag/abA0v2L)
+ - 💣 [They tought he was joking](http://9gag.com/gag/aoy9M5g)
+ - 😝 [Sweden](http://9gag.com/gag/a7o7E8r)
+ - 👉 [Are you okay?](http://9gag.com/gag/amo9Arv)<!-- MEMES:END -->
 
 ---
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How the Brain Decides What to Remember](https://www.wired.com/story/brain-tag-electrical-memories/)
  - [The Words That Give Away Generative AI Text](https://www.wired.com/story/generative-ai-common-words-study/)
  - [Best Android Phone of 2024](https://www.cnet.com/tech/mobile/best-android-phone/#ftag=CAD590a51e)
  - [Act Quickly: Snag This $321 iPad July 4th Deal Before It Disappears](https://www.cnet.com/deals/act-quickly-snag-this-321-ipad-july-4th-deal-before-it-disappears/#ftag=CAD590a51e)
- - [Lingering Amazon July 4th Deal Takes 50% Off This Shark Robot Vacuum](https://www.cnet.com/deals/amazons-july-4th-sale-takes-50-off-this-shark-robot-vacuum/#ftag=CAD590a51e)
- - [Score Lifetime Access to Microsoft Office For $25 With This Post-July 4th Deal](https://www.cnet.com/deals/score-lifetime-access-to-microsoft-office-for-25-with-this-post-july-4th-deal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Lingering Amazon July 4th Deal Takes 50% Off This Shark Robot Vacuum](https://www.cnet.com/deals/amazons-july-4th-sale-takes-50-off-this-shark-robot-vacuum/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro didn&#39;t even blink](http://9gag.com/gag/a1mM17G)
+ - 😝 [Brooke Shields](http://9gag.com/gag/a5Q7X2O)
  - 😝 [On June 30, a male influencer in Jilin Province, China, was stabbed to death by a 53-year-old drunk while dancing in a square. Video footage of the incident showed hundreds of people watching he dying, no one stopping the killer or calling the police even the victim bleeding.](http://9gag.com/gag/abA0v2L)
- - 💣 [Wow](http://9gag.com/gag/aKGqG9Q)
- - 😝 [Chinese problem, chinese solution...](http://9gag.com/gag/aE07qyx)
- - 👉 [I AM THE GOOD GUY ON THE BOYS HOMELANDER BAD](http://9gag.com/gag/aqy5GvQ)<!-- MEMES:END -->
+ - 💣 [Sweden](http://9gag.com/gag/a7o7E8r)
+ - 😝 [I AM THE GOOD GUY ON THE BOYS HOMELANDER BAD](http://9gag.com/gag/aqy5GvQ)
+ - 👉 [Are you okay?](http://9gag.com/gag/amo9Arv)<!-- MEMES:END -->
 
 ---
 

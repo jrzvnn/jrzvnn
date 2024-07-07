@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Home Depot July 4th Sale: Last Chance to Save on Appliances, Tools and More](https://www.cnet.com/deals/home-depot-july-4th-sale-2024-07-07/#ftag=CAD590a51e)
+ - [Target July 4th Sales Still Live: These Deals on Tech, Toys, Kitchen Appliances and More Are Still Available](https://www.cnet.com/deals/target-july-4th-sales-2024-07-07/#ftag=CAD590a51e)
  - [Score These Massively Discounted Open Earbuds for Just $25 Ahead of Prime Day](https://www.cnet.com/deals/score-these-massively-discounted-open-earbuds-for-just-25-ahead-of-prime-day/#ftag=CAD590a51e)
  - [Best Over-the-Counter Eye Drops of 2024](https://www.cnet.com/health/personal-care/best-eye-drops/#ftag=CAD590a51e)
- - [Figma disables AI-powered &#39;Make Design&#39; feature after Weather app rip-off](https://appleinsider.com/articles/24/07/07/figma-disables-ai-powered-make-design-feature-after-weather-app-rip-off?utm_medium=rss)
- - [Final Chance to Take Advantage of a July 4th Deal and Save $100 on Our Top Robot Vacuum of 2024](https://www.cnet.com/deals/final-chance-to-take-advantage-of-a-july-4th-deal-and-save-100-on-our-top-robot-vacuum-of-2024/#ftag=CAD590a51e)
- - [13 July 4th Appliance Deals That Are Still Live: Save on Samsung, LG, KitchenAid and More](https://www.cnet.com/deals/best-july-4th-appliance-sales-2024-07-07/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Figma disables AI-powered &#39;Make Design&#39; feature after Weather app rip-off](https://appleinsider.com/articles/24/07/07/figma-disables-ai-powered-make-design-feature-after-weather-app-rip-off?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

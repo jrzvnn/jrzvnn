@@ -161,9 +161,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Apple Intelligence and a better Siri may be coming to iPhones this spring](https://www.theverge.com/2024/7/7/24193619/apple-intelligence-better-siri-ios-18-4-spring-public-launch)
  - [A study of GPT-3.5-based ChatGPT&#39;s ability to solve 728 coding problems: fairly good at solving problems that existed before 2021, but struggles with newer ones &lpar;Michelle Hampson/IEEE Spectrum&rpar;](http://www.techmeme.com/240707/p4#a240707p4)
- - [The Apple Watch Series 10 may get an Ultra-sized screen](https://www.theverge.com/2024/7/7/24193595/apple-watch-x-series-10-thinner-bigger-screen-ultra-3-plastic-se)
- - [Best Buy July 4th Deals: Still Time to Get the Latest Tech at a Low Price](https://www.cnet.com/deals/best-buy-july-4th-deals-still-time-to-get-the-latest-tech-at-a-low-price/#ftag=CAD590a51e)
- - [Last Chance July 4th Deal: Score Two Anker USB-C Chargers for Just $13](https://www.cnet.com/deals/last-chance-july-4th-deal-score-two-anker-usb-c-chargers-for-just-13/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nab These Bose QuietComfort Earbuds 2 at Their Lowest Ever Price Before the July 4th Sale Ends](https://www.cnet.com/deals/grab-these-quality-bose-quietcomfort-earbuds-2-at-their-lowest-ever-price-in-july-4th-sale/#ftag=CAD590a51e)
+ - [Act Fast and Save 25% Off Frames and Lenses at Lensabl Before Today&#39;s Sale Ends](https://www.cnet.com/health/personal-care/act-fast-and-save-25-off-frames-and-lenses-at-lensabl-before-todays-sale-ends/#ftag=CAD590a51e)
+ - [Get Almost 50% Off These Beats Solo Pro Headphones Before This July 4th Sale Ends](https://www.cnet.com/deals/get-almost-50-off-these-beats-solo-pro-headphones-before-this-july-4th-sale-ends/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

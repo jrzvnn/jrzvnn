@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A study of GPT-3.5-based ChatGPT&#39;s ability to solve 728 coding problems: fairly good at solving problems that existed before 2021, but struggles with newer ones &lpar;Michelle Hampson/IEEE Spectrum&rpar;](http://www.techmeme.com/240707/p4#a240707p4)
  - [The Apple Watch Series 10 may get an Ultra-sized screen](https://www.theverge.com/2024/7/7/24193595/apple-watch-x-series-10-thinner-bigger-screen-ultra-3-plastic-se)
  - [Best Buy July 4th Deals: Still Time to Get the Latest Tech at a Low Price](https://www.cnet.com/deals/best-buy-july-4th-deals-still-time-to-get-the-latest-tech-at-a-low-price/#ftag=CAD590a51e)
  - [Last Chance July 4th Deal: Score Two Anker USB-C Chargers for Just $13](https://www.cnet.com/deals/last-chance-july-4th-deal-score-two-anker-usb-c-chargers-for-just-13/#ftag=CAD590a51e)
- - [The Best Posture Correcting Gadgets and Garb We&#39;ve Tried &lpar;2024&rpar;](https://www.wired.com/gallery/posture-correctors/)
- - [Which Microsoft Surface to Buy or Avoid in 2024](https://www.wired.com/story/microsoft-surface-buying-guide/)<!-- TECH:END -->
+ - [The Best Posture Correcting Gadgets and Garb We&#39;ve Tried &lpar;2024&rpar;](https://www.wired.com/gallery/posture-correctors/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

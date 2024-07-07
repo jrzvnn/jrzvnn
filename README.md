@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Which Microsoft Surface to Buy or Avoid in 2024](https://www.wired.com/story/microsoft-surface-buying-guide/)
- - [Amazon July 4th Deals Are Still Here: 53 Deals You Can Grab Right Now](https://www.cnet.com/deals/amazon-july-4th-sale-2024-07-07/#ftag=CAD590a51e)
  - [Sources: Apple Watch Series 10 will be thinner and have bigger screens; main Siri upgrade will be part of iOS 18.4, with a dev beta in Jan. and a spring release &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240707/p3#a240707p3)
- - [Ask These 3 Questions Before You Replace Your Router](https://www.cnet.com/home/internet/ask-these-3-questions-before-you-replace-your-router/#ftag=CAD590a51e)
- - [How to Clean Your Keyboard](https://www.wired.com/story/how-to-clean-your-keyboard/)<!-- TECH:END -->
+ - [How to Clean Your Keyboard](https://www.wired.com/story/how-to-clean-your-keyboard/)
+ - [What to expect at Samsung’s Galaxy Unpacked event in July](https://www.theverge.com/2024/7/7/24193550/samsung-galaxy-unpacked-july-2024-what-to-expect-z-fold-6-z-flip-6-galaxy-ring-watch-7-ultra-buds)
+ - [Advanced Apple Watch health monitoring features are hitting some roadblocks](https://appleinsider.com/articles/24/07/07/advanced-apple-watch-health-monitoring-features-are-hitting-some-roadblocks?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

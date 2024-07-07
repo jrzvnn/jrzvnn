@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Saudi media group MBC&#39;s Shahid has become the biggest streaming service in MENA with a 22% share, ahead of Starz Play Arabia at 18% and Netflix at 17% &lpar;Financial Times&rpar;](http://www.techmeme.com/240707/p5#a240707p5)
- - [22 CNET Reader-Approved July 4th Deals That Are Still Going Strong](https://www.cnet.com/deals/here-are-cnet-readers-22-favorite-july-4th-deals-2024-07-07/#ftag=CAD590a51e)
- - [Best Electric Toothbrushes of 2024](https://www.cnet.com/health/personal-care/best-electric-toothbrush/#ftag=CAD590a51e)
- - [Nectar’s July 4th Sale Will Save You Up to 40% on Popular Beds](https://www.cnet.com/deals/nectar-4th-of-july-2024/#ftag=CAD590a51e)
- - [Home Depot July 4th Sale: Last Chance to Save on Appliances, Tools and More](https://www.cnet.com/deals/home-depot-july-4th-sale-2024-07-07/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [New 24-inch iMac M3 deals deliver prices as low as $1,149 on upgraded models](https://appleinsider.com/articles/24/07/07/new-24-inch-imac-m3-deals-deliver-prices-as-low-as-1149-on-upgraded-models?utm_medium=rss)
+ - [Best Air Purifiers for 2024](https://www.cnet.com/home/kitchen-and-household/best-air-purifier/#ftag=CAD590a51e)
+ - [&#39;The Bachelorette&#39; Season 21 Premiere: Start Time and How to Stream the Reality Romance](https://www.cnet.com/tech/services-and-software/the-bachelorette-season-21-premiere-start-time-how-to-stream-the-reality-romance/#ftag=CAD590a51e)
+ - [Best Internet Providers in the Bronx, New York](https://www.cnet.com/home/internet/best-internet-providers-in-the-bronx-ny/#ftag=CAD590a51e)
+ - [Score Big Discounts on Top Mattresses From Several Brands With Mattress Firm’s July 4th Sale](https://www.cnet.com/deals/mattress-firm-4th-of-july-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Apate, a conversational bot developed by Macquarie University&#39;s Cyber Security Hub in Australia to keep scam callers on the line while collecting data &lpar;Tory Shepherd/The Guardian&rpar;](http://www.techmeme.com/240707/p2#a240707p2)
  - [How the Brain Decides What to Remember](https://www.wired.com/story/brain-tag-electrical-memories/)
  - [One of Our Favorite Bose Bluetooth Speakers Is $50 Off With This Late July 4th Deal](https://www.cnet.com/deals/one-of-our-favorite-bose-bluetooth-speakers-is-50-off-with-this-late-july-4th-deal/#ftag=CAD590a51e)
  - [Best July 4th Sales 2024: Final Deals at Amazon, Best Buy, Target and More](https://www.cnet.com/deals/best-july-4th-sales-2024-07-07/#ftag=CAD590a51e)
- - [Block Unsolicited Nudes on Your iPhone With This Hidden iOS 17 Feature](https://www.cnet.com/tech/services-and-software/block-unsolicited-nudes-on-your-iphone-with-this-hidden-ios-17-feature/#ftag=CAD590a51e)
- - [The Words That Give Away Generative AI Text](https://www.wired.com/story/generative-ai-common-words-study/)<!-- TECH:END -->
+ - [Block Unsolicited Nudes on Your iPhone With This Hidden iOS 17 Feature](https://www.cnet.com/tech/services-and-software/block-unsolicited-nudes-on-your-iphone-with-this-hidden-ios-17-feature/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

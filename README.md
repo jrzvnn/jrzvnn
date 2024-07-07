@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If you know, you already understood.](http://9gag.com/gag/awyx3rR)
- - 😝 [Mmmm...](http://9gag.com/gag/aRBALy5)
- - 💣 [Title here](http://9gag.com/gag/aNDnLww)
- - 😝 [Mongolians are good at horse riding](http://9gag.com/gag/abA0ebE)
- - 👉 [New world record in thingy](http://9gag.com/gag/a4PYn0Q)<!-- MEMES:END -->
+ - 😝 [Are you okay?](http://9gag.com/gag/amo9Arv)
+ - 😝 [LOL](http://9gag.com/gag/awyxgAW)
+ - 💣 [Wow](http://9gag.com/gag/aKGqG9Q)
+ - 😝 [I AM THE GOOD GUY ON THE BOYS HOMELANDER BAD](http://9gag.com/gag/aqy5GvQ)
+ - 👉 [Bro didn&#39;t even blink](http://9gag.com/gag/a1mM17G)<!-- MEMES:END -->
 
 ---
 

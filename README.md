@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What to expect at Samsung’s Galaxy Unpacked event in July](https://www.theverge.com/2024/7/7/24193550/samsung-galaxy-unpacked-july-2024-what-to-expect-z-fold-6-z-flip-6-galaxy-ring-watch-7-ultra-buds)
  - [Advanced Apple Watch health monitoring features are hitting some roadblocks](https://appleinsider.com/articles/24/07/07/advanced-apple-watch-health-monitoring-features-are-hitting-some-roadblocks?utm_medium=rss)
  - [Apple Watch Series 10 &amp; Ultra 3 will be faster, but not an anniversary redesign](https://appleinsider.com/articles/24/07/07/apple-watch-series-10-ultra-3-will-be-faster-but-not-an-anniversary-redesign?utm_medium=rss)
  - [MSI Mag 34CQP Gaming Monitor Review: Pixel Perfect Immersion](https://www.wired.com/review/msi-mag-341cqp-qd-oled-gaming-monitor/)
- - [Google’s Repair Policy Is Broken](https://www.wired.com/story/google-repair-policy-broken/)
- - [Save $1,061 Off the Gorgeous 65-Inch LG C3 OLED TV With This Incredible July 4th Price](https://www.cnet.com/deals/save-1061-off-the-gorgeous-65-inch-lg-c3-oled-tv-with-this-incredible-july-4th-price/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google’s Repair Policy Is Broken](https://www.wired.com/story/google-repair-policy-broken/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

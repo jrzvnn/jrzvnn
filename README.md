@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The Words That Give Away Generative AI Text](https://www.wired.com/story/generative-ai-common-words-study/)
- - [Score $300 Off Mattresses in WinkBeds&#39; Extended July 4th Sale](https://www.cnet.com/deals/score-300-off-mattresses-in-winkbeds-extended-july-4th-sale/#ftag=CAD590a51e)
- - [DefiLlama: the value of assets locked on the TON blockchain, which is used by Telegram, surged 1,400% this year to briefly top $1B &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/240707/p1#a240707p1)
- - [Today&#39;s NYT Strands Hints, Answers and Help for July 7, #126](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-7-126/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for July 7, #392](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-7-392/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Android Phone of 2024](https://www.cnet.com/tech/mobile/best-android-phone/#ftag=CAD590a51e)
+ - [Act Quickly: Snag This $321 iPad July 4th Deal Before It Disappears](https://www.cnet.com/deals/act-quickly-snag-this-321-ipad-july-4th-deal-before-it-disappears/#ftag=CAD590a51e)
+ - [Lingering Amazon July 4th Deal Takes 50% Off This Shark Robot Vacuum](https://www.cnet.com/deals/amazons-july-4th-sale-takes-50-off-this-shark-robot-vacuum/#ftag=CAD590a51e)
+ - [Score Lifetime Access to Microsoft Office For $25 With This Post-July 4th Deal](https://www.cnet.com/deals/score-lifetime-access-to-microsoft-office-for-25-with-this-post-july-4th-deal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

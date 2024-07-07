@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gotta grind for that executive role](http://9gag.com/gag/a4PYonm)
- - 😝 [Howard the grill master](http://9gag.com/gag/aKGqm4Z)
- - 💣 [Now give me your money!](http://9gag.com/gag/aKGq7qb)
- - 😝 [First frieren, then dungeon meshi and now witch hat atelier. Fantasy genre is coming back to life](http://9gag.com/gag/aO8V3r2)
- - 👉 [Brooke Shields](http://9gag.com/gag/a5Q7X2O)<!-- MEMES:END -->
+ - 😝 [He did it!!](http://9gag.com/gag/aryKmYX)
+ - 😝 [RIP Vision Pro 2024-2024](http://9gag.com/gag/awyxo6D)
+ - 💣 [I AM THE GOOD GUY ON THE BOYS HOMELANDER BAD](http://9gag.com/gag/aqy5GvQ)
+ - 😝 [They tought he was joking](http://9gag.com/gag/aoy9M5g)
+ - 👉 [This just became the most censored video on social media. Good luck on finding it anywhere &lpar;except here and X&rpar;!](http://9gag.com/gag/a34B1Lv)<!-- MEMES:END -->
 
 ---
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They tought he was joking](http://9gag.com/gag/aoy9M5g)
- - 😝 [Absolutely](http://9gag.com/gag/avyPQ6b)
- - 💣 [Are you okay?](http://9gag.com/gag/amo9Arv)
  - 😝 [Wow](http://9gag.com/gag/aKGqG9Q)
- - 👉 [`Nintendo has responded to concern over the inappropriate use of its characters online and said it would take &#39;appropriate action&#39; against anything that would make some players &#39;feel uncomfortable.&#39;` Everyone share your best and most alluring Bowsette!](http://9gag.com/gag/aKGqEOj)<!-- MEMES:END -->
+ - 😝 [The tragedy of eating bread.](http://9gag.com/gag/a2vmv69)
+ - 💣 [All About Cats](http://9gag.com/gag/aqy5R2p)
+ - 😝 [Doc Ock no homo](http://9gag.com/gag/aNDnD4r)
+ - 👉 [Title here](http://9gag.com/gag/aNDnLww)<!-- MEMES:END -->
 
 ---
 

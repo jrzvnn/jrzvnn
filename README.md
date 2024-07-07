@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He did it!!](http://9gag.com/gag/aryKmYX)
- - 😝 [`Nintendo has responded to concern over the inappropriate use of its characters online and said it would take &#39;appropriate action&#39; against anything that would make some players &#39;feel uncomfortable.&#39;` Everyone share your best and most alluring Bowsette!](http://9gag.com/gag/aKGqEOj)
- - 💣 [Quality check](http://9gag.com/gag/a5Q7X9L)
- - 😝 [They say horizontal lines make you look bigger](http://9gag.com/gag/aRBAE3A)
- - 👉 [Are you okay?](http://9gag.com/gag/amo9Arv)<!-- MEMES:END -->
+ - 😝 [There is 1 who understood everything.](http://9gag.com/gag/amo9Wq4)
+ - 😝 [Let&#39;s try this, who&#39;s in?](http://9gag.com/gag/a87MANO)
+ - 💣 [Absolutely](http://9gag.com/gag/avyPQ6b)
+ - 😝 [Quality check](http://9gag.com/gag/a5Q7X9L)
+ - 👉 [Landing at Madeira](http://9gag.com/gag/aByYy92)<!-- MEMES:END -->
 
 ---
 

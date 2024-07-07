@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The Apple Watch Series 10 may get an Ultra-sized screen](https://www.theverge.com/2024/7/7/24193595/apple-watch-x-series-10-thinner-bigger-screen-ultra-3-plastic-se)
+ - [Best Buy July 4th Deals: Still Time to Get the Latest Tech at a Low Price](https://www.cnet.com/deals/best-buy-july-4th-deals-still-time-to-get-the-latest-tech-at-a-low-price/#ftag=CAD590a51e)
+ - [Last Chance July 4th Deal: Score Two Anker USB-C Chargers for Just $13](https://www.cnet.com/deals/last-chance-july-4th-deal-score-two-anker-usb-c-chargers-for-just-13/#ftag=CAD590a51e)
  - [The Best Posture Correcting Gadgets and Garb We&#39;ve Tried &lpar;2024&rpar;](https://www.wired.com/gallery/posture-correctors/)
- - [Which Microsoft Surface to Buy or Avoid in 2024](https://www.wired.com/story/microsoft-surface-buying-guide/)
- - [Amazon July 4th Deals Are Still Here: 53 Deals You Can Grab Right Now](https://www.cnet.com/deals/amazon-july-4th-sale-2024-07-07/#ftag=CAD590a51e)
- - [Sources: Apple Watch Series 10 will be thinner and have bigger screens; main Siri upgrade will be part of iOS 18.4, with a dev beta in Jan. and a spring release &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240707/p3#a240707p3)<!-- TECH:END -->
+ - [Which Microsoft Surface to Buy or Avoid in 2024](https://www.wired.com/story/microsoft-surface-buying-guide/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

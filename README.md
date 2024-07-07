@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Apple Watch Series 10 may get an Ultra-sized screen](https://www.theverge.com/2024/7/7/24193595/apple-watch-x-series-10-thinner-bigger-screen-ultra-3-plastic-se)
  - [The Best Posture Correcting Gadgets and Garb We&#39;ve Tried &lpar;2024&rpar;](https://www.wired.com/gallery/posture-correctors/)
  - [Which Microsoft Surface to Buy or Avoid in 2024](https://www.wired.com/story/microsoft-surface-buying-guide/)
  - [Amazon July 4th Deals Are Still Here: 53 Deals You Can Grab Right Now](https://www.cnet.com/deals/amazon-july-4th-sale-2024-07-07/#ftag=CAD590a51e)
- - [Sources: Apple Watch Series 10 will be thinner and have bigger screens; main Siri upgrade will be part of iOS 18.4, with a dev beta in Jan. and a spring release &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240707/p3#a240707p3)
- - [Ask These 3 Questions Before You Replace Your Router](https://www.cnet.com/home/internet/ask-these-3-questions-before-you-replace-your-router/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Apple Watch Series 10 will be thinner and have bigger screens; main Siri upgrade will be part of iOS 18.4, with a dev beta in Jan. and a spring release &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/240707/p3#a240707p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

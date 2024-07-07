@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They tought he was joking](http://9gag.com/gag/aoy9M5g)
- - 😝 [Chinese problem, chinese solution...](http://9gag.com/gag/aE07qyx)
- - 💣 [Landing at Madeira](http://9gag.com/gag/aByYy92)
- - 😝 [On June 30, a male influencer in Jilin Province, China, was stabbed to death by a 53-year-old drunk while dancing in a square. Video footage of the incident showed hundreds of people watching he dying, no one stopping the killer or calling the police even the victim bleeding.](http://9gag.com/gag/abA0v2L)
- - 👉 [Wow](http://9gag.com/gag/aKGqG9Q)<!-- MEMES:END -->
+ - 😝 [The day starwars become woke](http://9gag.com/gag/a4PYPjA)
+ - 😝 [Landing at Madeira](http://9gag.com/gag/aByYy92)
+ - 💣 [I AM THE GOOD GUY ON THE BOYS HOMELANDER BAD](http://9gag.com/gag/aqy5GvQ)
+ - 😝 [Taking Over Europe](http://9gag.com/gag/aD2o4qd)
+ - 👉 [Are you okay?](http://9gag.com/gag/amo9Arv)<!-- MEMES:END -->
 
 ---
 

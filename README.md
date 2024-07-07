@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for July 7, #126](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-7-126/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for July 7, #392](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-7-392/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for July 7, #1114](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-7-1114/#ftag=CAD590a51e)
  - [How To Use the iPhone Notes App To Send Secret Chats](https://www.cnet.com/tech/mobile/how-to-use-the-iphone-notes-app-to-send-secret-chats/#ftag=CAD590a51e)
- - [Last Chance July 4th Grill Deals: Fuel Up Your Summer Parties With Massive Savings](https://www.cnet.com/deals/best-july-4th-grill-sales-2024-07-06/#ftag=CAD590a51e)
- - [Extended July 4th Walmart Sales: 57 Great Deals on Home Goods, Tech, Video Games and More to Grab Before They&#39;re Gone](https://www.cnet.com/deals/walmart-july-4th-sale-2024-07-06/#ftag=CAD590a51e)
- - [July 4th Laptop Deals Expiring Soon: Grab These Discounts on Apple, Lenovo, HP, Dell and More](https://www.cnet.com/deals/july-4th-laptop-deals-2024-07-06/#ftag=CAD590a51e)
- - [Target July 4th Sale: Here Are the Best Deals Still Available on Tech, Toys, Kitchen Appliances and More](https://www.cnet.com/deals/target-july-4th-sale-2024-07-06/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Last Chance July 4th Grill Deals: Fuel Up Your Summer Parties With Massive Savings](https://www.cnet.com/deals/best-july-4th-grill-sales-2024-07-06/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

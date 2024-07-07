@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Figma disables AI-powered &#39;Make Design&#39; feature after Weather app rip-off](https://appleinsider.com/articles/24/07/07/figma-disables-ai-powered-make-design-feature-after-weather-app-rip-off?utm_medium=rss)
- - [Don&#39;t Miss Out on Amazon and Ring Smart Home Devices as Low as $12 at Woot&#39;s Lingering July 4th Sale](https://www.cnet.com/deals/amazon-ring-smart-home-devices-woot-july-4th/#ftag=CAD590a51e)
- - [67 Tech, Home and Toy Deals Under $25 You Can Still Nab As July 4th Sales End](https://www.cnet.com/deals/july-4th-deals-under-25-2024-07-07/#ftag=CAD590a51e)
- - [There&#39;s Still Time to Snag the July 4th Special Tapo 2K QHD Security Camera for Just $25](https://www.cnet.com/deals/theres-still-time-to-snag-the-july-4th-special-tapo-2k-qhd-security-camera-for-just-25/#ftag=CAD590a51e)
- - [Act Quick to Take Advantage of This Lingering Jackery Power Station July 4th Deal](https://www.cnet.com/deals/act-quick-to-take-advantage-of-this-lingering-jackery-power-station-july-4th-deal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [July 4th Weekend Sales Still Live: Savings at Amazon, Best Buy, Target and More](https://www.cnet.com/deals/best-july-4th-sales-2024-07-07/#ftag=CAD590a51e)
+ - [Apple Watch SE may switch to an all-plastic chassis to lower costs](https://appleinsider.com/articles/24/07/07/apple-watch-se-may-switch-to-an-all-plastic-chassis-to-lower-costs?utm_medium=rss)
+ - [Apple Intelligence and a better Siri may be coming to iPhones this spring](https://www.theverge.com/2024/7/7/24193619/apple-intelligence-better-siri-ios-18-4-spring-public-launch)
+ - [22 CNET Reader-Approved July 4th Deals That Are Still Live](https://www.cnet.com/deals/here-are-cnet-readers-22-favorite-july-4th-deals-2024-07-07/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Sweden](http://9gag.com/gag/a7o7E8r)
+ - 😝 [Miss Poland 2024](http://9gag.com/gag/aO8VxK6)
+ - 💣 [Do we even need to know what&#39;s been said?](http://9gag.com/gag/aByYmLz)
  - 😝 [On June 30, a male influencer in Jilin Province, China, was stabbed to death by a 53-year-old drunk while dancing in a square. Video footage of the incident showed hundreds of people watching he dying, no one stopping the killer or calling the police even the victim bleeding.](http://9gag.com/gag/abA0v2L)
- - 😝 [Amber Heard who now changed her name as `Martha Jane Cannary` and moved to live in Spain was caught on CCTV doing what she is FAMOUS for doing...](http://9gag.com/gag/adBj5WM)
- - 💣 [Brooke Shields](http://9gag.com/gag/a5Q7X2O)
- - 😝 [Who pays for all their drinks](http://9gag.com/gag/aE078EK)
- - 👉 [Bro didn&#39;t even blink](http://9gag.com/gag/a1mM17G)<!-- MEMES:END -->
+ - 👉 [They tought he was joking](http://9gag.com/gag/aoy9M5g)<!-- MEMES:END -->
 
 ---
 

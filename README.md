@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The day starwars become woke](http://9gag.com/gag/a4PYPjA)
- - 😝 [Landing at Madeira](http://9gag.com/gag/aByYy92)
- - 💣 [I AM THE GOOD GUY ON THE BOYS HOMELANDER BAD](http://9gag.com/gag/aqy5GvQ)
- - 😝 [Taking Over Europe](http://9gag.com/gag/aD2o4qd)
- - 👉 [Are you okay?](http://9gag.com/gag/amo9Arv)<!-- MEMES:END -->
+ - 😝 [On June 30, a male influencer in Jilin Province, China, was stabbed to death by a 53-year-old drunk while dancing in a square. Video footage of the incident showed hundreds of people watching he dying, no one stopping the killer or calling the police even the victim bleeding.](http://9gag.com/gag/abA0v2L)
+ - 😝 [This is where the fun begins!](http://9gag.com/gag/adBjPV2)
+ - 💣 [Wow](http://9gag.com/gag/aKGqG9Q)
+ - 😝 [`Nintendo has responded to concern over the inappropriate use of its characters online and said it would take &#39;appropriate action&#39; against anything that would make some players &#39;feel uncomfortable.&#39;` Everyone share your best and most alluring Bowsette!](http://9gag.com/gag/aKGqEOj)
+ - 👉 [Sweden](http://9gag.com/gag/a7o7E8r)<!-- MEMES:END -->
 
 ---
 

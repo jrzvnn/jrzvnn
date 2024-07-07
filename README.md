@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wow](http://9gag.com/gag/aKGqG9Q)
- - 😝 [The tragedy of eating bread.](http://9gag.com/gag/a2vmv69)
- - 💣 [All About Cats](http://9gag.com/gag/aqy5R2p)
- - 😝 [Doc Ock no homo](http://9gag.com/gag/aNDnD4r)
- - 👉 [Title here](http://9gag.com/gag/aNDnLww)<!-- MEMES:END -->
+ - 😝 [LOL](http://9gag.com/gag/awyxgAW)
+ - 😝 [Absolutely](http://9gag.com/gag/avyPQ6b)
+ - 💣 [Chinese problem, chinese solution...](http://9gag.com/gag/aE07qyx)
+ - 😝 [They tought he was joking](http://9gag.com/gag/aoy9M5g)
+ - 👉 [The new mayor of Islamabad, Pakistan Sorry for the typo, he&#39;s the new mayor of Brighton, UK](http://9gag.com/gag/aqy5R8Y)<!-- MEMES:END -->
 
 ---
 

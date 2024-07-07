@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Brooke Shields](http://9gag.com/gag/a5Q7X2O)
- - 😝 [Bro didn&#39;t even blink](http://9gag.com/gag/a1mM17G)
- - 💣 [They tought he was joking](http://9gag.com/gag/aoy9M5g)
- - 😝 [On June 30, a male influencer in Jilin Province, China, was stabbed to death by a 53-year-old drunk while dancing in a square. Video footage of the incident showed hundreds of people watching he dying, no one stopping the killer or calling the police even the victim bleeding.](http://9gag.com/gag/abA0v2L)
- - 👉 [Amber Heard who now changed her name as `Martha Jane Cannary` and moved to live in Spain was caught on CCTV doing what she is FAMOUS for doing...](http://9gag.com/gag/adBj5WM)<!-- MEMES:END -->
+ - 😝 [They tought he was joking](http://9gag.com/gag/aoy9M5g)
+ - 😝 [AEZAKMI](http://9gag.com/gag/adBj5b9)
+ - 💣 [Every damn time.](http://9gag.com/gag/avyPoDq)
+ - 😝 [Trauma is the best teacher](http://9gag.com/gag/a7o7WMz)
+ - 👉 [I AM THE GOOD GUY ON THE BOYS HOMELANDER BAD](http://9gag.com/gag/aqy5GvQ)<!-- MEMES:END -->
 
 ---
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They tought he was joking](http://9gag.com/gag/aoy9M5g)
+ - 😝 [Chinese problem, chinese solution...](http://9gag.com/gag/aE07qyx)
  - 😝 [Are you okay?](http://9gag.com/gag/amo9Arv)
- - 💣 [On June 30, a male influencer in Jilin Province, China, was stabbed to death by a 53-year-old drunk while dancing in a square. Video footage of the incident showed hundreds of people watching he dying, no one stopping the killer or calling the police even the victim bleeding.](http://9gag.com/gag/abA0v2L)
- - 😝 [I miss Omegle, so many happy memories.... and.. quite a lot of cocks](http://9gag.com/gag/aVvP04y)
- - 👉 [Taking Over Europe](http://9gag.com/gag/aD2o4qd)<!-- MEMES:END -->
+ - 💣 [AEZAKMI](http://9gag.com/gag/adBj5b9)
+ - 😝 [Wow](http://9gag.com/gag/aKGqG9Q)
+ - 👉 [Brooke Shields](http://9gag.com/gag/a5Q7X2O)<!-- MEMES:END -->
 
 ---
 

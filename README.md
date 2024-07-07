@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [How Saudi media group MBC&#39;s Shahid has become the biggest streaming service in MENA with a 22% share, ahead of Starz Play Arabia at 18% and Netflix at 17% &lpar;Financial Times&rpar;](http://www.techmeme.com/240707/p5#a240707p5)
- - [Home Depot July 4th Sale: Last Chance to Save on Appliances, Tools and More](https://www.cnet.com/deals/home-depot-july-4th-sale-2024-07-07/#ftag=CAD590a51e)
- - [Target July 4th Sales Still Live: These Deals on Tech, Toys, Kitchen Appliances and More Are Still Available](https://www.cnet.com/deals/target-july-4th-sales-2024-07-07/#ftag=CAD590a51e)
- - [Score These Massively Discounted Open Earbuds for Just $25 Ahead of Prime Day](https://www.cnet.com/deals/score-these-massively-discounted-open-earbuds-for-just-25-ahead-of-prime-day/#ftag=CAD590a51e)
- - [Best Over-the-Counter Eye Drops of 2024](https://www.cnet.com/health/personal-care/best-eye-drops/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [22 CNET Reader-Approved July 4th Deals That Are Still Going Strong](https://www.cnet.com/deals/here-are-cnet-readers-22-favorite-july-4th-deals-2024-07-07/#ftag=CAD590a51e)
+ - [Best Electric Toothbrushes of 2024](https://www.cnet.com/health/personal-care/best-electric-toothbrush/#ftag=CAD590a51e)
+ - [Nectar’s July 4th Sale Will Save You Up to 40% on Popular Beds](https://www.cnet.com/deals/nectar-4th-of-july-2024/#ftag=CAD590a51e)
+ - [Home Depot July 4th Sale: Last Chance to Save on Appliances, Tools and More](https://www.cnet.com/deals/home-depot-july-4th-sale-2024-07-07/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

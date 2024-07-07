@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The new mayor of Islamabad, Pakistan Sorry for the typo, he&#39;s the new mayor of Brighton, UK](http://9gag.com/gag/aqy5R8Y)
- - 😝 [Chinese problem, chinese solution...](http://9gag.com/gag/aE07qyx)
- - 💣 [I AM THE GOOD GUY ON THE BOYS HOMELANDER BAD](http://9gag.com/gag/aqy5GvQ)
- - 😝 [Wow](http://9gag.com/gag/aKGqG9Q)
- - 👉 [You can hide](http://9gag.com/gag/aMVGB4G)<!-- MEMES:END -->
+ - 😝 [He did it!!](http://9gag.com/gag/aryKmYX)
+ - 😝 [`Nintendo has responded to concern over the inappropriate use of its characters online and said it would take &#39;appropriate action&#39; against anything that would make some players &#39;feel uncomfortable.&#39;` Everyone share your best and most alluring Bowsette!](http://9gag.com/gag/aKGqEOj)
+ - 💣 [Quality check](http://9gag.com/gag/a5Q7X9L)
+ - 😝 [They say horizontal lines make you look bigger](http://9gag.com/gag/aRBAE3A)
+ - 👉 [Are you okay?](http://9gag.com/gag/amo9Arv)<!-- MEMES:END -->
 
 ---
 

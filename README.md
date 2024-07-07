@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chinese problem, chinese solution...](http://9gag.com/gag/aE07qyx)
- - 😝 [Are you okay?](http://9gag.com/gag/amo9Arv)
- - 💣 [AEZAKMI](http://9gag.com/gag/adBj5b9)
- - 😝 [Wow](http://9gag.com/gag/aKGqG9Q)
- - 👉 [Brooke Shields](http://9gag.com/gag/a5Q7X2O)<!-- MEMES:END -->
+ - 😝 [Trauma is the best teacher](http://9gag.com/gag/a7o7WMz)
+ - 😝 [They tought he was joking](http://9gag.com/gag/aoy9M5g)
+ - 💣 [Miss Poland 2024](http://9gag.com/gag/aO8VxK6)
+ - 😝 [Amber Heard who now changed her name as `Martha Jane Cannary` and moved to live in Spain was caught on CCTV doing what she is FAMOUS for doing...](http://9gag.com/gag/adBj5WM)
+ - 👉 [I AM THE GOOD GUY ON THE BOYS HOMELANDER BAD](http://9gag.com/gag/aqy5GvQ)<!-- MEMES:END -->
 
 ---
 

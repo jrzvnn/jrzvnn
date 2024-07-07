@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Figma disables AI-powered &#39;Make Design&#39; feature after Weather app rip-off](https://appleinsider.com/articles/24/07/07/figma-disables-ai-powered-make-design-feature-after-weather-app-rip-off?utm_medium=rss)
  - [July 4th Weekend Sales Still Live: Savings at Amazon, Best Buy, Target and More](https://www.cnet.com/deals/best-july-4th-sales-2024-07-07/#ftag=CAD590a51e)
  - [Apple Watch SE may switch to an all-plastic chassis to lower costs](https://appleinsider.com/articles/24/07/07/apple-watch-se-may-switch-to-an-all-plastic-chassis-to-lower-costs?utm_medium=rss)
  - [Apple Intelligence and a better Siri may be coming to iPhones this spring](https://www.theverge.com/2024/7/7/24193619/apple-intelligence-better-siri-ios-18-4-spring-public-launch)
- - [22 CNET Reader-Approved July 4th Deals That Are Still Live](https://www.cnet.com/deals/here-are-cnet-readers-22-favorite-july-4th-deals-2024-07-07/#ftag=CAD590a51e)
- - [Final Call to Save $250 on the EcoFlow Portable Power Station With This July 4th Sale](https://www.cnet.com/deals/final-call-to-save-250-on-the-ecoflow-portable-power-station-with-this-july-4th-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [22 CNET Reader-Approved July 4th Deals That Are Still Live](https://www.cnet.com/deals/here-are-cnet-readers-22-favorite-july-4th-deals-2024-07-07/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

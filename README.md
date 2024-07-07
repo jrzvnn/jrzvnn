@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Words That Give Away Generative AI Text](https://www.wired.com/story/generative-ai-common-words-study/)
  - [Score $300 Off Mattresses in WinkBeds&#39; Extended July 4th Sale](https://www.cnet.com/deals/score-300-off-mattresses-in-winkbeds-extended-july-4th-sale/#ftag=CAD590a51e)
  - [DefiLlama: the value of assets locked on the TON blockchain, which is used by Telegram, surged 1,400% this year to briefly top $1B &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/240707/p1#a240707p1)
  - [Today&#39;s NYT Strands Hints, Answers and Help for July 7, #126](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-7-126/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for July 7, #392](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-7-392/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for July 7, #1114](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-7-1114/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for July 7, #392](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-7-392/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

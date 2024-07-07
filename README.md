@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sweden](http://9gag.com/gag/a7o7E8r)
- - 😝 [Miss Poland 2024](http://9gag.com/gag/aO8VxK6)
- - 💣 [Do we even need to know what&#39;s been said?](http://9gag.com/gag/aByYmLz)
- - 😝 [On June 30, a male influencer in Jilin Province, China, was stabbed to death by a 53-year-old drunk while dancing in a square. Video footage of the incident showed hundreds of people watching he dying, no one stopping the killer or calling the police even the victim bleeding.](http://9gag.com/gag/abA0v2L)
- - 👉 [They tought he was joking](http://9gag.com/gag/aoy9M5g)<!-- MEMES:END -->
+ - 😝 [They tought he was joking](http://9gag.com/gag/aoy9M5g)
+ - 😝 [Are you okay?](http://9gag.com/gag/amo9Arv)
+ - 💣 [On June 30, a male influencer in Jilin Province, China, was stabbed to death by a 53-year-old drunk while dancing in a square. Video footage of the incident showed hundreds of people watching he dying, no one stopping the killer or calling the police even the victim bleeding.](http://9gag.com/gag/abA0v2L)
+ - 😝 [I miss Omegle, so many happy memories.... and.. quite a lot of cocks](http://9gag.com/gag/aVvP04y)
+ - 👉 [Taking Over Europe](http://9gag.com/gag/aD2o4qd)<!-- MEMES:END -->
 
 ---
 

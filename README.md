@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Nintendo has responded to concern over the inappropriate use of its characters online and said it would take &#39;appropriate action&#39; against anything that would make some players &#39;feel uncomfortable.&#39;` Everyone share your best and most alluring Bowsette!](http://9gag.com/gag/aKGqEOj)
- - 😝 [Bro didn&#39;t even blink](http://9gag.com/gag/a1mM17G)
- - 💣 [On June 30, a male influencer in Jilin Province, China, was stabbed to death by a 53-year-old drunk while dancing in a square. Video footage of the incident showed hundreds of people watching he dying, no one stopping the killer or calling the police even the victim bleeding.](http://9gag.com/gag/abA0v2L)
- - 😝 [Sweden](http://9gag.com/gag/a7o7E8r)
- - 👉 [Chinese problem, chinese solution...](http://9gag.com/gag/aE07qyx)<!-- MEMES:END -->
+ - 😝 [They tought he was joking](http://9gag.com/gag/aoy9M5g)
+ - 😝 [Chinese problem, chinese solution...](http://9gag.com/gag/aE07qyx)
+ - 💣 [Landing at Madeira](http://9gag.com/gag/aByYy92)
+ - 😝 [On June 30, a male influencer in Jilin Province, China, was stabbed to death by a 53-year-old drunk while dancing in a square. Video footage of the incident showed hundreds of people watching he dying, no one stopping the killer or calling the police even the victim bleeding.](http://9gag.com/gag/abA0v2L)
+ - 👉 [Wow](http://9gag.com/gag/aKGqG9Q)<!-- MEMES:END -->
 
 ---
 

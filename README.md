@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [AEZAKMI](http://9gag.com/gag/adBj5b9)
- - 😝 [Brooke Shields](http://9gag.com/gag/a5Q7X2O)
- - 💣 [Miss Poland 2024](http://9gag.com/gag/aO8VxK6)
- - 😝 [Sweden](http://9gag.com/gag/a7o7E8r)
- - 👉 [They tought he was joking](http://9gag.com/gag/aoy9M5g)<!-- MEMES:END -->
+ - 😝 [Gotta grind for that executive role](http://9gag.com/gag/a4PYonm)
+ - 😝 [Howard the grill master](http://9gag.com/gag/aKGqm4Z)
+ - 💣 [Now give me your money!](http://9gag.com/gag/aKGq7qb)
+ - 😝 [First frieren, then dungeon meshi and now witch hat atelier. Fantasy genre is coming back to life](http://9gag.com/gag/aO8V3r2)
+ - 👉 [Brooke Shields](http://9gag.com/gag/a5Q7X2O)<!-- MEMES:END -->
 
 ---
 

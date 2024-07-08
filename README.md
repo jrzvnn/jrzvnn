@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [LOL](http://9gag.com/gag/awyxgAW)
  - 😝 [So much movement](http://9gag.com/gag/aqy5RLv)
- - 💣 [Wade Wilson lawyer seeing his tattoo for the first time](http://9gag.com/gag/aAy16PL)
+ - 😝 [Is there a level above Field Marshal?](http://9gag.com/gag/aW4673K)
+ - 💣 [Let&#39;s try this, who&#39;s in?](http://9gag.com/gag/a87MANO)
  - 😝 [Oh no](http://9gag.com/gag/awyxgxr)
- - 👉 [Jumper](http://9gag.com/gag/adBj1pV)<!-- MEMES:END -->
+ - 👉 [Drop the gun!](http://9gag.com/gag/aByYdOZ)<!-- MEMES:END -->
 
 ---
 

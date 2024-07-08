@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nothing unveils the $199 CMF Phone 1, with swappable parts, a 6.67&quot; display, MediaTek SoC, and Nothing OS, alongside the $69 CMF Watch Pro 2 and $59 Buds Pro 2 &lpar;Julian Chokkattu/Wired&rpar;](http://www.techmeme.com/240708/p5#a240708p5)
  - [Internal memo: Microsoft tells staff in China that from September 2024 they can only use iPhones for work, including to verify identities, affecting hundreds &lpar;Bloomberg&rpar;](http://www.techmeme.com/240708/p4#a240708p4)
  - [Microsoft China bans Android, demands staff use iPhones](https://appleinsider.com/articles/24/07/08/microsoft-china-bans-android-demands-staff-use-iphones?utm_medium=rss)
  - [Asus is adding RGB Windows Dynamic Lighting support to its latest motherboards](https://www.theverge.com/2024/7/8/24194015/asus-windows-dynamic-lighting-support-motherboard-bios-update)
- - [Boeing accepts guilty plea deal over 737 Max crashes](https://www.theverge.com/2024/7/8/24190142/boeing-737-max-doj-guilty-plea-deal-accepted)
- - [Nothing’s CMF Devices Prove Yet Again Cheap Doesn&#39;t Have to Mean Boring](https://www.wired.com/story/cmf-phone-1-cmf-watch-pro-2-cmf-buds-pro-2/)<!-- TECH:END -->
+ - [Boeing accepts guilty plea deal over 737 Max crashes](https://www.theverge.com/2024/7/8/24190142/boeing-737-max-doj-guilty-plea-deal-accepted)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

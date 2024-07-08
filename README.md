@@ -163,7 +163,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Boeing accepts guilty plea deal over 737 Max crashes](https://www.theverge.com/2024/7/8/24190142/boeing-737-max-doj-guilty-plea-deal-accepted)
  - [Nothing’s CMF Phone 1 is proof that gadgets can still be fun](https://www.theverge.com/2024/7/8/24191666/nothing-cmf-phone-1-cases-accessories-lanyard-wallet)
  - [What to expect from Samsung Galaxy Unpacked on July 10: Galaxy Z Fold 6 and Flip 6, Galaxy AI updates, Galaxy Buds 3, Watch FE and Watch 7 Ultra, and more &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240708/p3#a240708p3)
- - [The National Samsung Electronics Union goes on a three-day strike for better pay; analysts: the strike is unlikely to have an impact due to low participation &lpar;Reuters&rpar;](http://www.techmeme.com/240708/p1#a240708p1)<!-- TECH:END -->
+ - [Save Money on Your AC Bill This Summer by Setting It to This Temperature](https://www.cnet.com/home/energy-and-utilities/save-money-on-your-ac-bill-this-summer-by-setting-it-to-this-temperature/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

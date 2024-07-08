@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [LOL](http://9gag.com/gag/awyxgAW)
- - 😝 [Drop the gun!](http://9gag.com/gag/aByYdOZ)
- - 💣 [Jumper](http://9gag.com/gag/adBj1pV)
- - 😝 [Wade Wilson lawyer seeing his tattoo for the first time](http://9gag.com/gag/aAy16PL)
- - 👉 [Quality check](http://9gag.com/gag/a5Q7X9L)<!-- MEMES:END -->
+ - 😝 [If you know, you already understood.](http://9gag.com/gag/awyx3rR)
+ - 😝 [Quality check](http://9gag.com/gag/a5Q7X9L)
+ - 💣 [Normal day in Australia](http://9gag.com/gag/adBjOBj)
+ - 😝 [Oh no](http://9gag.com/gag/awyxgxr)
+ - 👉 [Jumper](http://9gag.com/gag/adBj1pV)<!-- MEMES:END -->
 
 ---
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What\u2019s was speech all about](http://9gag.com/gag/a2vmw31)
- - 😝 [Have you even had real pancakes?](http://9gag.com/gag/aAy1QOR)
- - 💣 [Is there a level above Field Marshal?](http://9gag.com/gag/aW4673K)
- - 😝 [Well.. this is so accurate](http://9gag.com/gag/aGyxLBw)
- - 👉 [How to roast.](http://9gag.com/gag/a5Q76yG)<!-- MEMES:END -->
+ - 😝 [LOL](http://9gag.com/gag/awyxgAW)
+ - 😝 [So much movement](http://9gag.com/gag/aqy5RLv)
+ - 💣 [Wade Wilson lawyer seeing his tattoo for the first time](http://9gag.com/gag/aAy16PL)
+ - 😝 [Oh no](http://9gag.com/gag/awyxgxr)
+ - 👉 [Jumper](http://9gag.com/gag/adBj1pV)<!-- MEMES:END -->
 
 ---
 

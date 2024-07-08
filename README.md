@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jumper](http://9gag.com/gag/adBj1pV)
- - 😝 [The new mayor of Islamabad, Pakistan Sorry for the typo, he&#39;s the new mayor of Brighton, UK](http://9gag.com/gag/aqy5R8Y)
- - 💣 [LOL](http://9gag.com/gag/awyxgAW)
  - 😝 [Dumb ways to die](http://9gag.com/gag/a6Z79E2)
- - 👉 [Lara Logan explains what happened to her covering the protests in Egypt](http://9gag.com/gag/aVvPoMM)<!-- MEMES:END -->
+ - 😝 [Jumper](http://9gag.com/gag/adBj1pV)
+ - 💣 [So much movement](http://9gag.com/gag/aqy5RLv)
+ - 😝 [London citizens descend on the police station to demand the release of people who were arrested for sexual assault of English schoolgirls](http://9gag.com/gag/amo96D4)
+ - 👉 [I didn&#39;t see any potholes on the road](http://9gag.com/gag/ae9G4xB)<!-- MEMES:END -->
 
 ---
 

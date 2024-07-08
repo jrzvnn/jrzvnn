@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Are you okay?](http://9gag.com/gag/amo9Arv)
- - 😝 [Now thats Justice.](http://9gag.com/gag/amo9W52)
- - 💣 [Oh no](http://9gag.com/gag/awyxgxr)
- - 😝 [Jumper](http://9gag.com/gag/adBj1pV)
- - 👉 [Man arrested in London for the crime of public swearing. Last week another lad was arrested for eating pork in public. Welcome to the &#39;free&#39; western country](http://9gag.com/gag/aYQeQAx)<!-- MEMES:END -->
+ - 😝 [Not all capes wear heroes](http://9gag.com/gag/a9y7yNW)
+ - 😝 [How to roast.](http://9gag.com/gag/a5Q76yG)
+ - 💣 [No more flash bangs\u2026](http://9gag.com/gag/a5Q7BKy)
+ - 😝 [Even Kroos has admitted it](http://9gag.com/gag/amo9WoX)
+ - 👉 [They identify as jobless now](http://9gag.com/gag/aW46LY6)<!-- MEMES:END -->
 
 ---
 

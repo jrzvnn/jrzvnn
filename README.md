@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is there a level above Field Marshal?](http://9gag.com/gag/aW4673K)
- - 😝 [Protests in Spain asking revenue generating tourists to go back home. Thought they were supoosed to protest against illegal migrants?](http://9gag.com/gag/adBj1DB)
- - 💣 [LOL](http://9gag.com/gag/awyxgAW)
+ - 😝 [Lara Logan explains what happened to her covering the protests in Egypt](http://9gag.com/gag/aVvPoMM)
+ - 😝 [LOL](http://9gag.com/gag/awyxgAW)
+ - 💣 [You can hide](http://9gag.com/gag/aMVGB4G)
  - 😝 [Oh no](http://9gag.com/gag/awyxgxr)
- - 👉 [Dumb ways to die](http://9gag.com/gag/a6Z79E2)<!-- MEMES:END -->
+ - 👉 [Jumper](http://9gag.com/gag/adBj1pV)<!-- MEMES:END -->
 
 ---
 

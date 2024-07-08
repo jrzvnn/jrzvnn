@@ -169,9 +169,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Quality check](http://9gag.com/gag/a5Q7X9L)
+ - 😝 [The new mayor of Islamabad, Pakistan Sorry for the typo, he&#39;s the new mayor of Brighton, UK](http://9gag.com/gag/aqy5R8Y)
+ - 💣 [Let&#39;s try this, who&#39;s in?](http://9gag.com/gag/a87MANO)
  - 😝 [They say horizontal lines make you look bigger](http://9gag.com/gag/aRBAE3A)
- - 💣 [Man arrested in London for the crime of public swearing. Last week another lad was arrested for eating pork in public. Welcome to the &#39;free&#39; western country](http://9gag.com/gag/aYQeQAx)
- - 😝 [Are you okay?](http://9gag.com/gag/amo9Arv)
  - 👉 [LOL](http://9gag.com/gag/awyxgAW)<!-- MEMES:END -->
 
 ---

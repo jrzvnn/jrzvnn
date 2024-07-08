@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UK says Apple unfairly fired worker who took secret photos of a colleague](https://appleinsider.com/articles/24/07/08/uk-says-apple-unfairly-fired-worker-who-took-secret-photos-of-a-colleague?utm_medium=rss)
+ - [Google’s Nonconsensual Explicit Images Problem Is Getting Worse](https://www.wired.com/story/google-still-cant-quite-stop-explicit-deepfakes/)
  - [Don&#39;t Let App Subscriptions Bust Your Budget. Find and Cancel Them on iPhone or Android](https://www.cnet.com/tech/services-and-software/dont-let-app-subscriptions-bust-your-budget-find-and-cancel-them-on-iphone-or-android/#ftag=CAD590a51e)
  - [Refi Rates Ride High: Mortgage Refinance Rates on July 8, 2024](https://www.cnet.com/personal-finance/mortgages/refi-rates-ride-high-mortgage-refinance-rates-on-july-8-2024/#ftag=CAD590a51e)
- - [Home Loan Rates Increased Over the Last Week: Mortgage Interest Rates for July 8, 2024](https://www.cnet.com/personal-finance/mortgages/home-loan-rates-increased-over-the-last-week-mortgage-interest-rates-for-july-8-2024/#ftag=CAD590a51e)
- - [Our Favorite Video Doorbell of 2024 Just Hit an All-Time Amazon Low Before Prime Day](https://www.cnet.com/deals/our-favorite-video-doorbell-of-2024-just-hit-an-all-time-amazon-low-before-prime-day/#ftag=CAD590a51e)
- - [Siri improved with Apple Intelligence won&#39;t roll out until 2025](https://appleinsider.com/articles/24/07/08/siri-improved-with-apple-intelligence-wont-roll-out-until-2025?utm_medium=rss)<!-- TECH:END -->
+ - [Home Loan Rates Increased Over the Last Week: Mortgage Interest Rates for July 8, 2024](https://www.cnet.com/personal-finance/mortgages/home-loan-rates-increased-over-the-last-week-mortgage-interest-rates-for-july-8-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

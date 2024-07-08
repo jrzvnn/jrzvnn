@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Chinese problem, chinese solution...](http://9gag.com/gag/aE07qyx)
- - 😝 [Lara Logan explains what happened to her covering the protests in Egypt](http://9gag.com/gag/aVvPoMM)
- - 💣 [I AM THE GOOD GUY ON THE BOYS HOMELANDER BAD](http://9gag.com/gag/aqy5GvQ)
- - 😝 [Drop the gun!](http://9gag.com/gag/aByYdOZ)
- - 👉 [LOL](http://9gag.com/gag/awyxgAW)<!-- MEMES:END -->
+ - 😝 [Are you okay?](http://9gag.com/gag/amo9Arv)
+ - 💣 [Drop the gun!](http://9gag.com/gag/aByYdOZ)
+ - 😝 [Man arrested in London for the crime of public swearing. Last week another lad was arrested for eating pork in public. Welcome to the &#39;free&#39; western country](http://9gag.com/gag/aYQeQAx)
+ - 👉 [The new mayor of Islamabad, Pakistan Sorry for the typo, he&#39;s the new mayor of Brighton, UK](http://9gag.com/gag/aqy5R8Y)<!-- MEMES:END -->
 
 ---
 

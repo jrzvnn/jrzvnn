@@ -172,7 +172,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [How to roast.](http://9gag.com/gag/a5Q76yG)
  - 💣 [Should never have been allowed in to begin with](http://9gag.com/gag/aZZMwAQ)
  - 😝 [At least it&#39;s not a political post.](http://9gag.com/gag/a5Q7wNq)
- - 👉 [Living up to the stereotype](http://9gag.com/gag/awyx1r4)<!-- MEMES:END -->
+ - 👉 [Painting Your Partner](http://9gag.com/gag/aAy16Vd)<!-- MEMES:END -->
 
 ---
 

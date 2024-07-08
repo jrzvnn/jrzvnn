@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Let&#39;s try this, who&#39;s in?](http://9gag.com/gag/a87MANO)
  - 😝 [Quality check](http://9gag.com/gag/a5Q7X9L)
+ - 💣 [LOL](http://9gag.com/gag/awyxgAW)
  - 😝 [The new mayor of Islamabad, Pakistan Sorry for the typo, he&#39;s the new mayor of Brighton, UK](http://9gag.com/gag/aqy5R8Y)
- - 💣 [Let&#39;s try this, who&#39;s in?](http://9gag.com/gag/a87MANO)
- - 😝 [They say horizontal lines make you look bigger](http://9gag.com/gag/aRBAE3A)
- - 👉 [LOL](http://9gag.com/gag/awyxgAW)<!-- MEMES:END -->
+ - 👉 [Wade Wilson lawyer seeing his tattoo for the first time](http://9gag.com/gag/aAy16PL)<!-- MEMES:END -->
 
 ---
 

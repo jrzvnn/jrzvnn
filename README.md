@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [One Swedish Apple Store closes, but its replacement is far, far away](https://appleinsider.com/articles/24/07/08/one-swedish-apple-store-closes-but-its-replacement-is-far-far-away?utm_medium=rss)
  - [How Japan has avoided the gaming industry’s persistent layoffs](https://www.theverge.com/24191650/nintendo-sega-from-software-japan-video-game-layoffs)
  - [MacBook Air M3 review three months later: The best Mac for nearly everyone](https://appleinsider.com/articles/24/07/08/macbook-air-m3-review-three-months-later-the-best-mac-for-nearly-everyone?utm_medium=rss)
- - [Apple smart home accessory details leak, Samsung upgrades Matter, and more on HomeKit Insider](https://appleinsider.com/articles/24/07/08/apple-smart-home-accessory-details-leak-samsung-upgrades-matter-and-more-on-homekit-insider?utm_medium=rss)
- - [The Far Right Is Already Demonizing Kamala Harris](https://www.wired.com/story/far-right-attack-kamala-harris/)
- - [Affinity makes Designer, Photo, and Publisher free for six months](https://appleinsider.com/articles/24/07/08/affinity-makes-designer-photo-and-publisher-free-for-six-months?utm_medium=rss)<!-- TECH:END -->
+ - [This Chase Card Unlocks Exclusive Paris Olympic Perks](https://www.cnet.com/personal-finance/credit-cards/this-chase-card-unlocks-exclusive-paris-olympic-perks/#ftag=CAD590a51e)
+ - [Missing Your ACP Discount? Here&#39;s a State-by-State Guide on How to Find Low-Income Internet](https://www.cnet.com/home/internet/state-by-state-low-income-internet-guide/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

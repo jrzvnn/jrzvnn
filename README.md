@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple smart home accessory details leak, Samsung upgrades Matter, and more on HomeKit Insider](https://appleinsider.com/articles/24/07/08/apple-smart-home-accessory-details-leak-samsung-upgrades-matter-and-more-on-homekit-insider?utm_medium=rss)
  - [Affinity makes Designer, Photo, and Publisher free for six months](https://appleinsider.com/articles/24/07/08/affinity-makes-designer-photo-and-publisher-free-for-six-months?utm_medium=rss)
  - [EVs are taking on combustion engines in a rallycross ‘Battle of Technologies’](https://www.theverge.com/2024/7/8/24193814/world-rx-ev-vs-ice-rallycross-racing)
  - [Q&amp;A with Canva CEO Melanie Perkins on the startup&#39;s history, expanding globally, its 4,500 headcount, moderation, Adobe, growing enterprise customers, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240708/p9#a240708p9)
- - [Apple&#39;s iPad 9th Gen is back in stock at Amazon for $249](https://appleinsider.com/articles/24/07/08/apples-ipad-9th-gen-is-back-in-stock-at-amazon-for-249?utm_medium=rss)
- - [Canva CEO Melanie Perkins thinks the design world needs more alternatives to Adobe](https://www.theverge.com/24191080/canva-ceo-melanie-perkins-design-ai-adobe-competition-decoder-podcast-interview)<!-- TECH:END -->
+ - [Apple&#39;s iPad 9th Gen is back in stock at Amazon for $249](https://appleinsider.com/articles/24/07/08/apples-ipad-9th-gen-is-back-in-stock-at-amazon-for-249?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

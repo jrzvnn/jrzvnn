@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They say horizontal lines make you look bigger](http://9gag.com/gag/aRBAE3A)
- - 😝 [Drop the gun!](http://9gag.com/gag/aByYdOZ)
- - 💣 [Quality check](http://9gag.com/gag/a5Q7X9L)
- - 😝 [Wade Wilson lawyer seeing his tattoo for the first time](http://9gag.com/gag/aAy16PL)
- - 👉 [LOL](http://9gag.com/gag/awyxgAW)<!-- MEMES:END -->
+ - 😝 [Are you okay?](http://9gag.com/gag/amo9Arv)
+ - 😝 [Now thats Justice.](http://9gag.com/gag/amo9W52)
+ - 💣 [Oh no](http://9gag.com/gag/awyxgxr)
+ - 😝 [Jumper](http://9gag.com/gag/adBj1pV)
+ - 👉 [Man arrested in London for the crime of public swearing. Last week another lad was arrested for eating pork in public. Welcome to the &#39;free&#39; western country](http://9gag.com/gag/aYQeQAx)<!-- MEMES:END -->
 
 ---
 

@@ -163,7 +163,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Canva CEO Melanie Perkins thinks the design world needs more alternatives to Adobe](https://www.theverge.com/24191080/canva-ceo-melanie-perkins-design-ai-adobe-competition-decoder-podcast-interview)
  - [Nothing’s CMF launches new supercheap earbuds and a smartwatch](https://www.theverge.com/2024/7/8/24194066/nothing-cmf-buds-pro-2-watch-pro-2-launch)
  - [Investigation: the US Cyber Safety Review Board, created by Biden in 2021, didn&#39;t investigate, for unclear reasons, the underlying weaknesses used in SolarWinds &lpar;Craig Silverman/ProPublica&rpar;](http://www.techmeme.com/240708/p8#a240708p8)
- - [The Best Sheets for Every Body, Bed, and Budget &lpar;2024&rpar;](https://www.wired.com/story/best-bedsheets/)<!-- TECH:END -->
+ - [Celebrate Prime Day Early With 3 Months of Audible Premium Plus for Free](https://www.cnet.com/deals/celebrate-prime-day-early-with-3-months-of-audible-premium-plus-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

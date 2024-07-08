@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Diversity](http://9gag.com/gag/azxjKeK)
- - 😝 [IQ 60. An idiot shows his talent](http://9gag.com/gag/apRv6V5)
- - 💣 [At least it&#39;s not a political post.](http://9gag.com/gag/a5Q7wNq)
- - 😝 [For my OCD degenerates.](http://9gag.com/gag/axyj6e2)
- - 👉 [French boy in Poland is shocked because bicycles are parked without chains and no one steals them. This is called civilization, what we have lost in Western Europe. Most of us know why.](http://9gag.com/gag/adBjOnZ)<!-- MEMES:END -->
+ - 😝 [Jumper](http://9gag.com/gag/adBj1pV)
+ - 😝 [The new mayor of Islamabad, Pakistan Sorry for the typo, he&#39;s the new mayor of Brighton, UK](http://9gag.com/gag/aqy5R8Y)
+ - 💣 [LOL](http://9gag.com/gag/awyxgAW)
+ - 😝 [Dumb ways to die](http://9gag.com/gag/a6Z79E2)
+ - 👉 [Lara Logan explains what happened to her covering the protests in Egypt](http://9gag.com/gag/aVvPoMM)<!-- MEMES:END -->
 
 ---
 

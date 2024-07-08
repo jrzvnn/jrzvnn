@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Let&#39;s try this, who&#39;s in?](http://9gag.com/gag/a87MANO)
- - 😝 [Quality check](http://9gag.com/gag/a5Q7X9L)
- - 💣 [LOL](http://9gag.com/gag/awyxgAW)
- - 😝 [The new mayor of Islamabad, Pakistan Sorry for the typo, he&#39;s the new mayor of Brighton, UK](http://9gag.com/gag/aqy5R8Y)
- - 👉 [Wade Wilson lawyer seeing his tattoo for the first time](http://9gag.com/gag/aAy16PL)<!-- MEMES:END -->
+ - 😝 [I AM THE GOOD GUY ON THE BOYS HOMELANDER BAD](http://9gag.com/gag/aqy5GvQ)
+ - 💣 [Oh no](http://9gag.com/gag/awyxgxr)
+ - 😝 [LOL](http://9gag.com/gag/awyxgAW)
+ - 👉 [Drop the gun!](http://9gag.com/gag/aByYdOZ)<!-- MEMES:END -->
 
 ---
 

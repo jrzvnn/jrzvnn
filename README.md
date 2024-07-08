@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The new mayor of Islamabad, Pakistan Sorry for the typo, he&#39;s the new mayor of Brighton, UK](http://9gag.com/gag/aqy5R8Y)
- - 😝 [Bro didn&#39;t even blink](http://9gag.com/gag/a1mM17G)
- - 💣 [Lara Logan explains what happened to her covering the protests in Egypt](http://9gag.com/gag/aVvPoMM)
- - 😝 [Are you okay?](http://9gag.com/gag/amo9Arv)
- - 👉 [They say horizontal lines make you look bigger](http://9gag.com/gag/aRBAE3A)<!-- MEMES:END -->
+ - 😝 [Oh no](http://9gag.com/gag/awyxgxr)
+ - 😝 [`Nintendo has responded to concern over the inappropriate use of its characters online and said it would take &#39;appropriate action&#39; against anything that would make some players &#39;feel uncomfortable.&#39;` Everyone share your best and most alluring Bowsette!](http://9gag.com/gag/aKGqEOj)
+ - 💣 [Let&#39;s try this, who&#39;s in?](http://9gag.com/gag/a87MANO)
+ - 😝 [They say horizontal lines make you look bigger](http://9gag.com/gag/aRBAE3A)
+ - 👉 [Drop the gun!](http://9gag.com/gag/aByYdOZ)<!-- MEMES:END -->
 
 ---
 

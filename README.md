@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft’s Notepad gets spellcheck and autocorrect 40 years after launch](https://www.theverge.com/2024/7/8/24194047/microsoft-notepad-spellcheck-autocorrect-features-available)
- - [Paramount agrees to sweetened Skydance merger deal](https://www.theverge.com/2024/7/8/24194043/paramount-skydance-merger-deal-announced-28-billion)
- - [UK says Apple unfairly fired worker who took secret photos of a colleague](https://appleinsider.com/articles/24/07/08/uk-says-apple-unfairly-fired-worker-who-took-secret-photos-of-a-colleague?utm_medium=rss)
- - [His Galaxy Wolf Art Kept Getting Ripped Off. So He Sued—and Bought a Home](https://www.wired.com/story/how-one-man-bought-a-home-by-suing-people-who-stole-his-galaxy-wolf-art/)
- - [Google’s Nonconsensual Explicit Images Problem Is Getting Worse](https://www.wired.com/story/google-still-cant-quite-stop-explicit-deepfakes/)<!-- TECH:END -->
+ - [New York-based Hebbia, which uses AI to help companies sift through documents, raised $130M led by a16z, a source says at a ~$700M post-money valuation &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/240708/p7#a240708p7)
+ - [How the BBC used the iPhone in hundreds of locations to cover the UK election](https://appleinsider.com/articles/24/07/08/how-the-bbc-used-the-iphone-in-hundreds-of-locations-to-cover-the-uk-election?utm_medium=rss)
+ - [The Verge’s guide to moving](https://www.theverge.com/24185638/moving-tech-how-to-tips-hacks)
+ - [The best way to get rid of all the clutter you don’t need](https://www.theverge.com/24163473/moving-sale-facebook-marketplace-buy-nothing-declutter)
+ - [Microsoft quietly adds spellchecking and autocorrect to Windows Notepad, 41 years after launching the app, following testing the features in March 2024 &lpar;Mark Tyson/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240708/p6#a240708p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

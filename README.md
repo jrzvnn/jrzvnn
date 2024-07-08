@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Extreme Wildfires Have Doubled in Frequency and Intensity in the Past 20 Years](https://www.wired.com/story/wild-fires-becoming-more-common-climate-change/)
  - [How to create PDFs on iPhones](https://www.theverge.com/24191864/pdf-iphone-ipad-ios-how-to)
  - [iOS 18 beta 3 brings dark mode to all icons -- kind of](https://appleinsider.com/articles/24/07/08/ios-18-beta-3-brings-dark-mode-to-all-icons----kind-of?utm_medium=rss)
  - [iOS 18 has a new ‘dynamic’ color-shifting wallpaper](https://www.theverge.com/2024/7/8/24194437/ios-18-dynamic-color-shifting-wallpaper-apple)
- - [Apple moves on to third betas of iOS 18, iPadOS 18, tvOS 18, watchOS 11, visionOS 2](https://appleinsider.com/articles/24/07/08/apple-moves-on-to-third-betas-of-ios-18-ipados-18-tvos-18-watchos-11?utm_medium=rss)
- - [The M1 MacBook Air is back down to its all-time low of $649](https://www.theverge.com/2024/7/8/24194403/apple-macbook-air-m1-laptop-walmart-early-access-deal-sale)<!-- TECH:END -->
+ - [Apple moves on to third betas of iOS 18, iPadOS 18, tvOS 18, watchOS 11, visionOS 2](https://appleinsider.com/articles/24/07/08/apple-moves-on-to-third-betas-of-ios-18-ipados-18-tvos-18-watchos-11?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

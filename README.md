@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This just became the most censored video on social media. Good luck on finding it anywhere &lpar;except here and X&rpar;!](http://9gag.com/gag/a34B1Lv)
- - 😝 [Yeah](http://9gag.com/gag/aLn2vDv)
- - 💣 [Jumper](http://9gag.com/gag/adBj1pV)
- - 😝 [That&#39;ll be 5 rupees](http://9gag.com/gag/aPADA8P)
- - 👉 [Oh no](http://9gag.com/gag/awyxgxr)<!-- MEMES:END -->
+ - 😝 [They say horizontal lines make you look bigger](http://9gag.com/gag/aRBAE3A)
+ - 😝 [I guess infinite money and bribed editors will do the trick](http://9gag.com/gag/aVvPxow)
+ - 💣 [The new mayor of Islamabad, Pakistan Sorry for the typo, he&#39;s the new mayor of Brighton, UK](http://9gag.com/gag/aqy5R8Y)
+ - 😝 [Are you okay?](http://9gag.com/gag/amo9Arv)
+ - 👉 [I AM THE GOOD GUY ON THE BOYS HOMELANDER BAD](http://9gag.com/gag/aqy5GvQ)<!-- MEMES:END -->
 
 ---
 

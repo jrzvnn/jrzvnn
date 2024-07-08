@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Canva CEO Melanie Perkins on the startup&#39;s history, expanding globally, its 4,500 headcount, moderation, Adobe, growing enterprise customers, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/240708/p9#a240708p9)
  - [Apple&#39;s iPad 9th Gen is back in stock at Amazon for $249](https://appleinsider.com/articles/24/07/08/apples-ipad-9th-gen-is-back-in-stock-at-amazon-for-249?utm_medium=rss)
  - [Canva CEO Melanie Perkins thinks the design world needs more alternatives to Adobe](https://www.theverge.com/24191080/canva-ceo-melanie-perkins-design-ai-adobe-competition-decoder-podcast-interview)
  - [Nothing’s CMF launches new supercheap earbuds and a smartwatch](https://www.theverge.com/2024/7/8/24194066/nothing-cmf-buds-pro-2-watch-pro-2-launch)
- - [Investigation: the US Cyber Safety Review Board, created by Biden in 2021, didn&#39;t investigate, for unclear reasons, the underlying weaknesses used in SolarWinds &lpar;Craig Silverman/ProPublica&rpar;](http://www.techmeme.com/240708/p8#a240708p8)
- - [Celebrate Prime Day Early With 3 Months of Audible Premium Plus for Free](https://www.cnet.com/deals/celebrate-prime-day-early-with-3-months-of-audible-premium-plus-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Investigation: the US Cyber Safety Review Board, created by Biden in 2021, didn&#39;t investigate, for unclear reasons, the underlying weaknesses used in SolarWinds &lpar;Craig Silverman/ProPublica&rpar;](http://www.techmeme.com/240708/p8#a240708p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

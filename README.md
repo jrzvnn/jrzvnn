@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The National Samsung Electronics Union goes on a three-day strike for better pay; analysts: the strike is unlikely to have an impact due to low participation &lpar;Heekyong Yang/Reuters&rpar;](http://www.techmeme.com/240708/p2#a240708p2)
+ - [What to expect from Samsung Galaxy Unpacked on July 10: Galaxy Z Fold 6 and Flip 6, Galaxy AI updates, Galaxy Buds 3, Watch FE and Watch 7 Ultra, and more &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240708/p3#a240708p3)
+ - [The National Samsung Electronics Union goes on a three-day strike for better pay; analysts say the strike is unlikely to have an impact due to low participation &lpar;Heekyong Yang/Reuters&rpar;](http://www.techmeme.com/240708/p2#a240708p2)
  - [The National Samsung Electronics Union goes on a three-day strike for better pay; analysts: the strike is unlikely to have an impact due to low participation &lpar;Reuters&rpar;](http://www.techmeme.com/240708/p1#a240708p1)
  - [Today&#39;s NYT Strands Hints, Answers and Help for July 8, #127](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-8-127/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for July 8, #393](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-8-393/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for July 8, #1115](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-8-1115/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for July 8, #393](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-8-393/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

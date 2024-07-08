@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lara Logan explains what happened to her covering the protests in Egypt](http://9gag.com/gag/aVvPoMM)
+ - 😝 [Man arrested in London for the crime of public swearing. Last week another lad was arrested for eating pork in public. Welcome to the &#39;free&#39; western country](http://9gag.com/gag/aYQeQAx)
+ - 😝 [Normal day in Australia](http://9gag.com/gag/adBjOBj)
+ - 💣 [Protests in Spain asking revenue generating tourists to go back home. Thought they were supoosed to protest against illegal migrants?](http://9gag.com/gag/adBj1DB)
  - 😝 [LOL](http://9gag.com/gag/awyxgAW)
- - 💣 [You can hide](http://9gag.com/gag/aMVGB4G)
- - 😝 [Oh no](http://9gag.com/gag/awyxgxr)
- - 👉 [Jumper](http://9gag.com/gag/adBj1pV)<!-- MEMES:END -->
+ - 👉 [Hunter Gets Arrasment](http://9gag.com/gag/aqy5XZP)<!-- MEMES:END -->
 
 ---
 

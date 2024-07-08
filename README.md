@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Siri improved with Apple Intelligence won&#39;t roll out until 2025](https://appleinsider.com/articles/24/07/08/siri-improved-with-apple-intelligence-wont-roll-out-until-2025?utm_medium=rss)
- - [Nothing unveils the $199 CMF Phone 1, with swappable parts, a 6.67&quot; display, MediaTek SoC, and Nothing OS, alongside the $69 CMF Watch Pro 2 and $59 Buds Pro 2 &lpar;Julian Chokkattu/Wired&rpar;](http://www.techmeme.com/240708/p5#a240708p5)
- - [AI-Powered Super Soldiers Are More Than Just a Pipe Dream](https://www.wired.com/story/us-military-hyper-enabled-operator/)
- - [Internal memo: Microsoft tells staff in China that from September 2024 they can only use iPhones for work, including to verify identities, affecting hundreds &lpar;Bloomberg&rpar;](http://www.techmeme.com/240708/p4#a240708p4)
- - [Microsoft China bans Android, demands staff use iPhones](https://appleinsider.com/articles/24/07/08/microsoft-china-bans-android-demands-staff-use-iphones?utm_medium=rss)<!-- TECH:END -->
+ - [Don&#39;t Let App Subscriptions Bust Your Budget. Find and Cancel Them on iPhone or Android](https://www.cnet.com/tech/services-and-software/dont-let-app-subscriptions-bust-your-budget-find-and-cancel-them-on-iphone-or-android/#ftag=CAD590a51e)
+ - [Refi Rates Ride High: Mortgage Refinance Rates on July 8, 2024](https://www.cnet.com/personal-finance/mortgages/refi-rates-ride-high-mortgage-refinance-rates-on-july-8-2024/#ftag=CAD590a51e)
+ - [Home Loan Rates Increased Over the Last Week: Mortgage Interest Rates for July 8, 2024](https://www.cnet.com/personal-finance/mortgages/home-loan-rates-increased-over-the-last-week-mortgage-interest-rates-for-july-8-2024/#ftag=CAD590a51e)
+ - [Our Favorite Video Doorbell of 2024 Just Hit an All-Time Amazon Low Before Prime Day](https://www.cnet.com/deals/our-favorite-video-doorbell-of-2024-just-hit-an-all-time-amazon-low-before-prime-day/#ftag=CAD590a51e)
+ - [Siri improved with Apple Intelligence won&#39;t roll out until 2025](https://appleinsider.com/articles/24/07/08/siri-improved-with-apple-intelligence-wont-roll-out-until-2025?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

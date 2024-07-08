@@ -161,9 +161,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Investigation: the US Cyber Safety Review Board, created by Biden in 2021, didn&#39;t investigate, for unclear reasons, the underlying weaknesses used in SolarWinds &lpar;Craig Silverman/ProPublica&rpar;](http://www.techmeme.com/240708/p8#a240708p8)
  - [Get ready for a monumental iPhone 16 super cycle, says Wedbush](https://appleinsider.com/articles/24/07/08/get-ready-for-a-monumental-iphone-16-super-cycle-says-wedbush?utm_medium=rss)
+ - [Pay Just $15 and Bag This TP-Link Tapo Indoor Security Camera Ahead of Prime Day](https://www.cnet.com/deals/pay-just-15-and-bag-this-tp-link-tapo-indoor-security-camera-ahead-of-prime-day/#ftag=CAD590a51e)
  - [New York-based Hebbia, which uses AI to help companies sift through documents, raised $130M led by a16z, a source says at a ~$700M post-money valuation &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/240708/p7#a240708p7)
- - [DJI Mic 2 Review: A Powerful Lav Replacement](https://www.wired.com/review/dji-mic-2/)
- - [How the BBC used the iPhone in hundreds of locations to cover the UK election](https://appleinsider.com/articles/24/07/08/how-the-bbc-used-the-iphone-in-hundreds-of-locations-to-cover-the-uk-election?utm_medium=rss)<!-- TECH:END -->
+ - [DJI Mic 2 Review: A Powerful Lav Replacement](https://www.wired.com/review/dji-mic-2/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

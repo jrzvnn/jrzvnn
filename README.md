@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh no](http://9gag.com/gag/awyxgxr)
- - 😝 [`Nintendo has responded to concern over the inappropriate use of its characters online and said it would take &#39;appropriate action&#39; against anything that would make some players &#39;feel uncomfortable.&#39;` Everyone share your best and most alluring Bowsette!](http://9gag.com/gag/aKGqEOj)
- - 💣 [Let&#39;s try this, who&#39;s in?](http://9gag.com/gag/a87MANO)
- - 😝 [They say horizontal lines make you look bigger](http://9gag.com/gag/aRBAE3A)
- - 👉 [Drop the gun!](http://9gag.com/gag/aByYdOZ)<!-- MEMES:END -->
+ - 😝 [Chinese problem, chinese solution...](http://9gag.com/gag/aE07qyx)
+ - 😝 [Lara Logan explains what happened to her covering the protests in Egypt](http://9gag.com/gag/aVvPoMM)
+ - 💣 [I AM THE GOOD GUY ON THE BOYS HOMELANDER BAD](http://9gag.com/gag/aqy5GvQ)
+ - 😝 [Drop the gun!](http://9gag.com/gag/aByYdOZ)
+ - 👉 [LOL](http://9gag.com/gag/awyxgAW)<!-- MEMES:END -->
 
 ---
 

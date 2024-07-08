@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The new mayor of Islamabad, Pakistan Sorry for the typo, he&#39;s the new mayor of Brighton, UK](http://9gag.com/gag/aqy5R8Y)
- - 😝 [There&#39;s still hope my dudes!](http://9gag.com/gag/awyxm9R)
- - 💣 [Let&#39;s try this, who&#39;s in?](http://9gag.com/gag/a87MANO)
- - 😝 [LOL](http://9gag.com/gag/awyxgAW)
- - 👉 [Jumper](http://9gag.com/gag/adBj1pV)<!-- MEMES:END -->
+ - 😝 [What\u2019s was speech all about](http://9gag.com/gag/a2vmw31)
+ - 😝 [Have you even had real pancakes?](http://9gag.com/gag/aAy1QOR)
+ - 💣 [Is there a level above Field Marshal?](http://9gag.com/gag/aW4673K)
+ - 😝 [Well.. this is so accurate](http://9gag.com/gag/aGyxLBw)
+ - 👉 [How to roast.](http://9gag.com/gag/a5Q76yG)<!-- MEMES:END -->
 
 ---
 

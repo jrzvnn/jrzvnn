@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You can hide](http://9gag.com/gag/aMVGB4G)
- - 😝 [Dumb ways to die](http://9gag.com/gag/a6Z79E2)
- - 💣 [He did it!!](http://9gag.com/gag/aryKmYX)
- - 😝 [Hitting on wife in public](http://9gag.com/gag/aVvPgRn)
- - 👉 [Protests in Spain asking revenue generating tourists to go back home. Thought they were supoosed to protest against illegal migrants?](http://9gag.com/gag/adBj1DB)<!-- MEMES:END -->
+ - 😝 [Pronoun boys pay extra](http://9gag.com/gag/a87MmzZ)
+ - 😝 [They identify as jobless now](http://9gag.com/gag/aW46LY6)
+ - 💣 [Painting Your Partner](http://9gag.com/gag/aAy16Vd)
+ - 😝 [Should never have been allowed in to begin with](http://9gag.com/gag/aZZMwAQ)
+ - 👉 [Living up to the stereotype](http://9gag.com/gag/awyx1r4)<!-- MEMES:END -->
 
 ---
 

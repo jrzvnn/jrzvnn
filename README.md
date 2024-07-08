@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An analyst at Sequoia Capital estimated companies developing top AI models need to collectively generate ~$600B/year to pay for their AI infrastructure &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240707/p6#a240707p6)
- - [New 24-inch iMac M3 deals deliver prices as low as $1,149 on upgraded models](https://appleinsider.com/articles/24/07/07/new-24-inch-imac-m3-deals-deliver-prices-as-low-as-1149-on-upgraded-models?utm_medium=rss)
- - [38 July 4th Mattress Deals Still Live: Major Discounts on Saatva, Vaya, Brooklyn Bedding and More](https://www.cnet.com/deals/best-mattress-sales/#ftag=CAD590a51e)
- - [Best Air Purifiers for 2024](https://www.cnet.com/home/kitchen-and-household/best-air-purifier/#ftag=CAD590a51e)
- - [&#39;The Bachelorette&#39; Season 21 Premiere: Start Time and How to Stream the Reality Romance](https://www.cnet.com/tech/services-and-software/the-bachelorette-season-21-premiere-start-time-how-to-stream-the-reality-romance/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The National Samsung Electronics Union goes on a three-day strike for better pay; analysts: the strike is unlikely to have an impact due to low participation &lpar;Heekyong Yang/Reuters&rpar;](http://www.techmeme.com/240708/p2#a240708p2)
+ - [The National Samsung Electronics Union goes on a three-day strike for better pay; analysts: the strike is unlikely to have an impact due to low participation &lpar;Reuters&rpar;](http://www.techmeme.com/240708/p1#a240708p1)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for July 8, #127](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-8-127/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for July 8, #393](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-8-393/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for July 8, #1115](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-8-1115/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

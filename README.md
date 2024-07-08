@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Jumper](http://9gag.com/gag/adBj1pV)
  - 😝 [There is 1 who understood everything.](http://9gag.com/gag/amo9Wq4)
- - 😝 [Let&#39;s try this, who&#39;s in?](http://9gag.com/gag/a87MANO)
- - 💣 [Absolutely](http://9gag.com/gag/avyPQ6b)
- - 😝 [Quality check](http://9gag.com/gag/a5Q7X9L)
- - 👉 [Landing at Madeira](http://9gag.com/gag/aByYy92)<!-- MEMES:END -->
+ - 💣 [They say horizontal lines make you look bigger](http://9gag.com/gag/aRBAE3A)
+ - 😝 [Wade Wilson lawyer seeing his tattoo for the first time](http://9gag.com/gag/aAy16PL)
+ - 👉 [Drop the gun!](http://9gag.com/gag/aByYdOZ)<!-- MEMES:END -->
 
 ---
 

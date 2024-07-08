@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nothing’s CMF launches new supercheap earbuds and a smartwatch](https://www.theverge.com/2024/7/8/24194066/nothing-cmf-buds-pro-2-watch-pro-2-launch)
  - [Investigation: the US Cyber Safety Review Board, created by Biden in 2021, didn&#39;t investigate, for unclear reasons, the underlying weaknesses used in SolarWinds &lpar;Craig Silverman/ProPublica&rpar;](http://www.techmeme.com/240708/p8#a240708p8)
+ - [The Best Sheets for Every Body, Bed, and Budget &lpar;2024&rpar;](https://www.wired.com/story/best-bedsheets/)
  - [Get ready for a monumental iPhone 16 super cycle, says Wedbush](https://appleinsider.com/articles/24/07/08/get-ready-for-a-monumental-iphone-16-super-cycle-says-wedbush?utm_medium=rss)
- - [Pay Just $15 and Bag This TP-Link Tapo Indoor Security Camera Ahead of Prime Day](https://www.cnet.com/deals/pay-just-15-and-bag-this-tp-link-tapo-indoor-security-camera-ahead-of-prime-day/#ftag=CAD590a51e)
- - [New York-based Hebbia, which uses AI to help companies sift through documents, raised $130M led by a16z, a source says at a ~$700M post-money valuation &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/240708/p7#a240708p7)
- - [DJI Mic 2 Review: A Powerful Lav Replacement](https://www.wired.com/review/dji-mic-2/)<!-- TECH:END -->
+ - [Pay Just $15 and Bag This TP-Link Tapo Indoor Security Camera Ahead of Prime Day](https://www.cnet.com/deals/pay-just-15-and-bag-this-tp-link-tapo-indoor-security-camera-ahead-of-prime-day/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

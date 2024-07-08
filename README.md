@@ -163,7 +163,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [IDC: ~3% of PCs shipped in 2024 will meet Microsoft&#39;s processing power threshold for AI PCs; source: some big app makers rebuff a push for on-device AI features &lpar;Bloomberg&rpar;](http://www.techmeme.com/240708/p12#a240708p12)
  - [17 Best Early Amazon Prime Day Deals &lpar;2024&rpar;](https://www.wired.com/story/best-early-amazon-prime-day-deals-2024/)
  - [Extreme Wildfires Have Doubled in Frequency and Intensity in the Past 20 Years](https://www.wired.com/story/wild-fires-becoming-more-common-climate-change/)
- - [iOS 18 Developer Beta 3: These Features Could Land on Your iPhone Soon](https://www.cnet.com/tech/services-and-software/ios-18-developer-beta-3-these-features-could-land-on-your-iphone-soon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Stuck Without a Plunger? These Household Hacks Can Rescue Your Clogged Toilet](https://www.cnet.com/how-to/stuck-without-a-plunger-these-household-hacks-can-rescue-your-clogged-toilet/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

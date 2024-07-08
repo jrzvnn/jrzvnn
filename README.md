@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Is there a level above Field Marshal?](http://9gag.com/gag/aW4673K)
  - 😝 [Let&#39;s try this, who&#39;s in?](http://9gag.com/gag/a87MANO)
- - 😝 [I AM THE GOOD GUY ON THE BOYS HOMELANDER BAD](http://9gag.com/gag/aqy5GvQ)
- - 💣 [Oh no](http://9gag.com/gag/awyxgxr)
- - 😝 [LOL](http://9gag.com/gag/awyxgAW)
- - 👉 [Drop the gun!](http://9gag.com/gag/aByYdOZ)<!-- MEMES:END -->
+ - 💣 [The new mayor of Islamabad, Pakistan Sorry for the typo, he&#39;s the new mayor of Brighton, UK](http://9gag.com/gag/aqy5R8Y)
+ - 😝 [Jumper](http://9gag.com/gag/adBj1pV)
+ - 👉 [They say horizontal lines make you look bigger](http://9gag.com/gag/aRBAE3A)<!-- MEMES:END -->
 
 ---
 

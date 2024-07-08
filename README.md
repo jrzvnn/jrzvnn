@@ -163,7 +163,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Self-driving cars owned by a handful of Chinese companies have quietly traveled 1.8M miles on CA roads, collecting detailed data while facing little scrutiny &lpar;Rachyl Jones/Fortune&rpar;](http://www.techmeme.com/240708/p10#a240708p10)
  - [Apple looks to India for iPads and AirPod charging cases](https://appleinsider.com/articles/24/07/08/apple-looks-to-india-for-ipads-and-airpod-charging-cases?utm_medium=rss)
  - [The witch is back in Agatha All Along’s first trailer](https://www.theverge.com/24194262/agatha-all-along-trailer)
- - [Tesla’s Model Y ‘Juniper’ redesign might come soon](https://www.theverge.com/2024/7/8/24194188/tesla-model-y-redesign-refresh-spotted-juniper)<!-- TECH:END -->
+ - [Save Up to 40% Off on Tineco Vacuums During Target Circle Week](https://www.cnet.com/deals/save-up-to-40-off-on-tineco-vacuums-during-target-circle-week/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

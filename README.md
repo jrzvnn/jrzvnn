@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let&#39;s try this, who&#39;s in?](http://9gag.com/gag/a87MANO)
- - 😝 [Bro didn&#39;t even blink](http://9gag.com/gag/a1mM17G)
- - 💣 [Absolutely](http://9gag.com/gag/avyPQ6b)
- - 😝 [This just became the most censored video on social media. Good luck on finding it anywhere &lpar;except here and X&rpar;!](http://9gag.com/gag/a34B1Lv)
- - 👉 [Quality check](http://9gag.com/gag/a5Q7X9L)<!-- MEMES:END -->
+ - 😝 [They say horizontal lines make you look bigger](http://9gag.com/gag/aRBAE3A)
+ - 😝 [Drop the gun!](http://9gag.com/gag/aByYdOZ)
+ - 💣 [Man arrested in London for the crime of public swearing. Last week another lad was arrested for eating pork in public. Welcome to the &#39;free&#39; western country](http://9gag.com/gag/aYQeQAx)
+ - 😝 [I guess infinite money and bribed editors will do the trick](http://9gag.com/gag/aVvPxow)
+ - 👉 [The new mayor of Islamabad, Pakistan Sorry for the typo, he&#39;s the new mayor of Brighton, UK](http://9gag.com/gag/aqy5R8Y)<!-- MEMES:END -->
 
 ---
 

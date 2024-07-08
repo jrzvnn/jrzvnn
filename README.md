@@ -163,7 +163,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [One Swedish Apple Store closes, but its replacement is far, far away](https://appleinsider.com/articles/24/07/08/one-swedish-apple-store-closes-but-its-replacement-is-far-far-away?utm_medium=rss)
  - [How Japan has avoided the gaming industry’s persistent layoffs](https://www.theverge.com/24191650/nintendo-sega-from-software-japan-video-game-layoffs)
  - [MacBook Air M3 review three months later: The best Mac for nearly everyone](https://appleinsider.com/articles/24/07/08/macbook-air-m3-review-three-months-later-the-best-mac-for-nearly-everyone?utm_medium=rss)
- - [Apple smart home accessory details leak, Samsung upgrades Matter, and more on HomeKit Insider](https://appleinsider.com/articles/24/07/08/apple-smart-home-accessory-details-leak-samsung-upgrades-matter-and-more-on-homekit-insider?utm_medium=rss)<!-- TECH:END -->
+ - [This Chase Card Unlocks Exclusive Paris Olympic Perks](https://www.cnet.com/personal-finance/credit-cards/this-chase-card-unlocks-exclusive-paris-olympic-perks/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

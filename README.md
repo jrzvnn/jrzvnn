@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u201cU look lonely,I can fix dat\u201d..noo I shouldn&#39;t](http://9gag.com/gag/aByYy2x)
- - 😝 [Absolutely](http://9gag.com/gag/avyPQ6b)
- - 💣 [Protests in Spain asking revenue generating tourists to go back home. Thought they were supoosed to protest against illegal migrants?](http://9gag.com/gag/adBj1DB)
- - 😝 [The new mayor of Islamabad, Pakistan Sorry for the typo, he&#39;s the new mayor of Brighton, UK](http://9gag.com/gag/aqy5R8Y)
- - 👉 [Dumb ways to die](http://9gag.com/gag/a6Z79E2)<!-- MEMES:END -->
+ - 😝 [If you know, you already understood.](http://9gag.com/gag/awyx3rR)
+ - 😝 [Quality check](http://9gag.com/gag/a5Q7X9L)
+ - 💣 [Oh no](http://9gag.com/gag/awyxgxr)
+ - 😝 [Dumb ways to die](http://9gag.com/gag/a6Z79E2)
+ - 👉 [Wade Wilson lawyer seeing his tattoo for the first time](http://9gag.com/gag/aAy16PL)<!-- MEMES:END -->
 
 ---
 

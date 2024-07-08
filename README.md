@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If you know, you already understood.](http://9gag.com/gag/awyx3rR)
- - 😝 [Quality check](http://9gag.com/gag/a5Q7X9L)
- - 💣 [Normal day in Australia](http://9gag.com/gag/adBjOBj)
- - 😝 [Oh no](http://9gag.com/gag/awyxgxr)
- - 👉 [Jumper](http://9gag.com/gag/adBj1pV)<!-- MEMES:END -->
+ - 😝 [You can hide](http://9gag.com/gag/aMVGB4G)
+ - 😝 [Dumb ways to die](http://9gag.com/gag/a6Z79E2)
+ - 💣 [He did it!!](http://9gag.com/gag/aryKmYX)
+ - 😝 [Hitting on wife in public](http://9gag.com/gag/aVvPgRn)
+ - 👉 [Protests in Spain asking revenue generating tourists to go back home. Thought they were supoosed to protest against illegal migrants?](http://9gag.com/gag/adBj1DB)<!-- MEMES:END -->
 
 ---
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [IQ 60. An idiot shows his talent](http://9gag.com/gag/apRv6V5)
- - 😝 [How to roast.](http://9gag.com/gag/a5Q76yG)
- - 💣 [Should never have been allowed in to begin with](http://9gag.com/gag/aZZMwAQ)
- - 😝 [At least it&#39;s not a political post.](http://9gag.com/gag/a5Q7wNq)
- - 👉 [Painting Your Partner](http://9gag.com/gag/aAy16Vd)<!-- MEMES:END -->
+ - 😝 [Is there a level above Field Marshal?](http://9gag.com/gag/aW4673K)
+ - 😝 [Protests in Spain asking revenue generating tourists to go back home. Thought they were supoosed to protest against illegal migrants?](http://9gag.com/gag/adBj1DB)
+ - 💣 [LOL](http://9gag.com/gag/awyxgAW)
+ - 😝 [Oh no](http://9gag.com/gag/awyxgxr)
+ - 👉 [Dumb ways to die](http://9gag.com/gag/a6Z79E2)<!-- MEMES:END -->
 
 ---
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let&#39;s try this, who&#39;s in?](http://9gag.com/gag/a87MANO)
- - 😝 [LOL](http://9gag.com/gag/awyxgAW)
- - 💣 [Bro didn&#39;t even blink](http://9gag.com/gag/a1mM17G)
- - 😝 [Absolutely](http://9gag.com/gag/avyPQ6b)
- - 👉 [They say horizontal lines make you look bigger](http://9gag.com/gag/aRBAE3A)<!-- MEMES:END -->
+ - 😝 [Yeah](http://9gag.com/gag/aLn2vDv)
+ - 😝 [On June 30, a male influencer in Jilin Province, China, was stabbed to death by a 53-year-old drunk while dancing in a square. Video footage of the incident showed hundreds of people watching he dying, no one stopping the killer or calling the police even the victim bleeding.](http://9gag.com/gag/abA0v2L)
+ - 💣 [I AM THE GOOD GUY ON THE BOYS HOMELANDER BAD](http://9gag.com/gag/aqy5GvQ)
+ - 😝 [They say horizontal lines make you look bigger](http://9gag.com/gag/aRBAE3A)
+ - 👉 [I guess infinite money and bribed editors will do the trick](http://9gag.com/gag/aVvPxow)<!-- MEMES:END -->
 
 ---
 

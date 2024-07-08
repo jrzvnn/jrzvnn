@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Man arrested in London for the crime of public swearing. Last week another lad was arrested for eating pork in public. Welcome to the &#39;free&#39; western country](http://9gag.com/gag/aYQeQAx)
+ - 😝 [The new mayor of Islamabad, Pakistan Sorry for the typo, he&#39;s the new mayor of Brighton, UK](http://9gag.com/gag/aqy5R8Y)
+ - 😝 [There&#39;s still hope my dudes!](http://9gag.com/gag/awyxm9R)
+ - 💣 [Let&#39;s try this, who&#39;s in?](http://9gag.com/gag/a87MANO)
  - 😝 [LOL](http://9gag.com/gag/awyxgAW)
- - 💣 [Jumper](http://9gag.com/gag/adBj1pV)
- - 😝 [Absolutely](http://9gag.com/gag/avyPQ6b)
- - 👉 [They say horizontal lines make you look bigger](http://9gag.com/gag/aRBAE3A)<!-- MEMES:END -->
+ - 👉 [Jumper](http://9gag.com/gag/adBj1pV)<!-- MEMES:END -->
 
 ---
 

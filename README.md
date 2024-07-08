@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Get ready for a monumental iPhone 16 super cycle, says Wedbush](https://appleinsider.com/articles/24/07/08/get-ready-for-a-monumental-iphone-16-super-cycle-says-wedbush?utm_medium=rss)
  - [New York-based Hebbia, which uses AI to help companies sift through documents, raised $130M led by a16z, a source says at a ~$700M post-money valuation &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/240708/p7#a240708p7)
+ - [DJI Mic 2 Review: A Powerful Lav Replacement](https://www.wired.com/review/dji-mic-2/)
  - [How the BBC used the iPhone in hundreds of locations to cover the UK election](https://appleinsider.com/articles/24/07/08/how-the-bbc-used-the-iphone-in-hundreds-of-locations-to-cover-the-uk-election?utm_medium=rss)
- - [The Verge’s guide to moving](https://www.theverge.com/24185638/moving-tech-how-to-tips-hacks)
- - [The best way to get rid of all the clutter you don’t need](https://www.theverge.com/24163473/moving-sale-facebook-marketplace-buy-nothing-declutter)
- - [Microsoft quietly adds spellchecking and autocorrect to Windows Notepad, 41 years after launching the app, following testing the features in March 2024 &lpar;Mark Tyson/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240708/p6#a240708p6)<!-- TECH:END -->
+ - [The Verge’s guide to moving](https://www.theverge.com/24185638/moving-tech-how-to-tips-hacks)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

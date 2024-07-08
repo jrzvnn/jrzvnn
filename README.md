@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Man arrested in London for the crime of public swearing. Last week another lad was arrested for eating pork in public. Welcome to the &#39;free&#39; western country](http://9gag.com/gag/aYQeQAx)
- - 😝 [Normal day in Australia](http://9gag.com/gag/adBjOBj)
- - 💣 [Protests in Spain asking revenue generating tourists to go back home. Thought they were supoosed to protest against illegal migrants?](http://9gag.com/gag/adBj1DB)
- - 😝 [LOL](http://9gag.com/gag/awyxgAW)
- - 👉 [Hunter Gets Arrasment](http://9gag.com/gag/aqy5XZP)<!-- MEMES:END -->
+ - 😝 [Diversity](http://9gag.com/gag/azxjKeK)
+ - 😝 [IQ 60. An idiot shows his talent](http://9gag.com/gag/apRv6V5)
+ - 💣 [At least it&#39;s not a political post.](http://9gag.com/gag/a5Q7wNq)
+ - 😝 [For my OCD degenerates.](http://9gag.com/gag/axyj6e2)
+ - 👉 [French boy in Poland is shocked because bicycles are parked without chains and no one steals them. This is called civilization, what we have lost in Western Europe. Most of us know why.](http://9gag.com/gag/adBjOnZ)<!-- MEMES:END -->
 
 ---
 

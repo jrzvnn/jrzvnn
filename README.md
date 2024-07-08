@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple moves on to third betas of iOS 18, iPadOS 18, tvOS 18, watchOS 11, visionOS 2](https://appleinsider.com/articles/24/07/08/apple-moves-on-to-third-betas-of-ios-18-ipados-18-tvos-18-watchos-11?utm_medium=rss)
  - [The best Prime Day deals you can already get](https://www.theverge.com/24186583/amazon-prime-day-2024-best-tech-deals-sales)
  - [Hot Dog: HomePod saves home and pooch from housefire](https://appleinsider.com/articles/24/07/08/hot-dog-homepod-saves-home-and-pooch-from-housefire?utm_medium=rss)
- - [Apple moves on to third betas of iOS 18, iPadOS 18, tvOS 18, watchOS 11, visionOS 2](https://appleinsider.com/articles/24/07/08/apple-moves-on-to-third-betas-of-ios-18-ipados-18-tvos-18-watchos-11?utm_medium=rss)
  - [Walmart Plus members can pick up Apple&#39;s M1 MacBook Air for just $649](https://appleinsider.com/articles/24/07/08/walmart-plus-members-can-pick-up-apples-m1-macbook-air-for-just-649?utm_medium=rss)
  - [Affinity’s Adobe-rivaling creative suite is now free for six months](https://www.theverge.com/2024/7/8/24194281/affinity-creative-suite-six-month-free-trial-deal-announcement)<!-- TECH:END -->
 

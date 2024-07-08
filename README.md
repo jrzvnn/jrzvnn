@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The witch is back in Agatha All Along’s first trailer](https://www.theverge.com/24194262/agatha-all-along-trailer)
  - [Tesla’s Model Y ‘Juniper’ redesign might come soon](https://www.theverge.com/2024/7/8/24194188/tesla-model-y-redesign-refresh-spotted-juniper)
  - [One Swedish Apple Store closes, but its replacement is far, far away](https://appleinsider.com/articles/24/07/08/one-swedish-apple-store-closes-but-its-replacement-is-far-far-away?utm_medium=rss)
  - [How Japan has avoided the gaming industry’s persistent layoffs](https://www.theverge.com/24191650/nintendo-sega-from-software-japan-video-game-layoffs)
- - [MacBook Air M3 review three months later: The best Mac for nearly everyone](https://appleinsider.com/articles/24/07/08/macbook-air-m3-review-three-months-later-the-best-mac-for-nearly-everyone?utm_medium=rss)
- - [This Chase Card Unlocks Exclusive Paris Olympic Perks](https://www.cnet.com/personal-finance/credit-cards/this-chase-card-unlocks-exclusive-paris-olympic-perks/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [MacBook Air M3 review three months later: The best Mac for nearly everyone](https://appleinsider.com/articles/24/07/08/macbook-air-m3-review-three-months-later-the-best-mac-for-nearly-everyone?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

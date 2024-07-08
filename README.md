@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An analyst at Sequoia Capital estimated companies developing top AI models need to collectively generate ~$600B/year to pay for their AI infrastructure &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/240707/p6#a240707p6)
  - [New 24-inch iMac M3 deals deliver prices as low as $1,149 on upgraded models](https://appleinsider.com/articles/24/07/07/new-24-inch-imac-m3-deals-deliver-prices-as-low-as-1149-on-upgraded-models?utm_medium=rss)
+ - [38 July 4th Mattress Deals Still Live: Major Discounts on Saatva, Vaya, Brooklyn Bedding and More](https://www.cnet.com/deals/best-mattress-sales/#ftag=CAD590a51e)
  - [Best Air Purifiers for 2024](https://www.cnet.com/home/kitchen-and-household/best-air-purifier/#ftag=CAD590a51e)
- - [&#39;The Bachelorette&#39; Season 21 Premiere: Start Time and How to Stream the Reality Romance](https://www.cnet.com/tech/services-and-software/the-bachelorette-season-21-premiere-start-time-how-to-stream-the-reality-romance/#ftag=CAD590a51e)
- - [Best Internet Providers in the Bronx, New York](https://www.cnet.com/home/internet/best-internet-providers-in-the-bronx-ny/#ftag=CAD590a51e)
- - [Score Big Discounts on Top Mattresses From Several Brands With Mattress Firm’s July 4th Sale](https://www.cnet.com/deals/mattress-firm-4th-of-july-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;The Bachelorette&#39; Season 21 Premiere: Start Time and How to Stream the Reality Romance](https://www.cnet.com/tech/services-and-software/the-bachelorette-season-21-premiere-start-time-how-to-stream-the-reality-romance/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Scale AI&#39;s $13.8B valuation from May&#39;s $1B round suggests it&#39;s almost certainly too high, given below-average margins, reliance on few customers, more &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/240708/p11#a240708p11)
- - [Need an ACP Alternative? Find Additional Savings With the Lifeline Program](https://www.cnet.com/home/internet/how-to-sign-up-for-lifeline-and-save-money-on-your-internet-bill/#ftag=CAD590a51e)
+ - [iOS 18 has a new ‘dynamic’ color-shifting wallpaper](https://www.theverge.com/2024/7/8/24194437/ios-18-dynamic-color-shifting-wallpaper-apple)
  - [Apple moves on to third betas of iOS 18, iPadOS 18, tvOS 18, watchOS 11, visionOS 2](https://appleinsider.com/articles/24/07/08/apple-moves-on-to-third-betas-of-ios-18-ipados-18-tvos-18-watchos-11?utm_medium=rss)
- - [10 AI-Infused Software Tools to Know video](https://www.cnet.com/videos/10-ai-infused-software-tools-to-know/#ftag=CAD590a51e)
- - [The best Prime Day deals you can already get](https://www.theverge.com/24186583/amazon-prime-day-2024-best-tech-deals-sales)<!-- TECH:END -->
+ - [The M1 MacBook Air is back down to its all-time low of $649](https://www.theverge.com/2024/7/8/24194403/apple-macbook-air-m1-laptop-walmart-early-access-deal-sale)
+ - [A look at Scale AI&#39;s $13.8B valuation from May&#39;s $1B round suggests it&#39;s almost certainly too high, given below-average margins, reliance on few customers, more &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/240708/p11#a240708p11)
+ - [Need an ACP Alternative? Find Additional Savings With the Lifeline Program](https://www.cnet.com/home/internet/how-to-sign-up-for-lifeline-and-save-money-on-your-internet-bill/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

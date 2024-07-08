@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 18 Developer Beta 3: These Features Could Land on Your iPhone Soon](https://www.cnet.com/tech/services-and-software/ios-18-developer-beta-3-these-features-could-land-on-your-iphone-soon/#ftag=CAD590a51e)
  - [How to create PDFs on iPhones](https://www.theverge.com/24191864/pdf-iphone-ipad-ios-how-to)
  - [iOS 18 beta 3 brings dark mode to all icons -- kind of](https://appleinsider.com/articles/24/07/08/ios-18-beta-3-brings-dark-mode-to-all-icons----kind-of?utm_medium=rss)
  - [iOS 18 has a new ‘dynamic’ color-shifting wallpaper](https://www.theverge.com/2024/7/8/24194437/ios-18-dynamic-color-shifting-wallpaper-apple)
- - [Sign Up for a 1-Year Costco Membership and Get a Gift Card Worth Up to $40](https://www.cnet.com/deals/sign-up-for-a-1-year-costco-membership-and-get-a-gift-card-worth-up-to-40/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple moves on to third betas of iOS 18, iPadOS 18, tvOS 18, watchOS 11, visionOS 2](https://appleinsider.com/articles/24/07/08/apple-moves-on-to-third-betas-of-ios-18-ipados-18-tvos-18-watchos-11?utm_medium=rss)
+ - [The M1 MacBook Air is back down to its all-time low of $649](https://www.theverge.com/2024/7/8/24194403/apple-macbook-air-m1-laptop-walmart-early-access-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

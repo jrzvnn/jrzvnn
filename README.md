@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HP is ditching its bait-and-switch printer DRM — but only for LaserJets](https://www.theverge.com/2024/7/9/24195022/hp-plus-laserjet-office-printers-instant-ink-toner)
- - [The 29 Best Movies on Max &lpar;aka HBO Max&rpar; Right Now &lpar;July 2024&rpar;](https://www.wired.com/story/best-movies-hbo-max-right-now/)
- - [Nike Is Killing the App for Its $350 Self-Tying Sneakers](https://www.wired.com/story/nike-kills-adapt-bb-app-self-tying-sneaker/)
- - [Apple’s Sunny is a grief-stricken crime dramedy with a smile on its face](https://www.theverge.com/24194360/apple-tv-plus-sunny-review)
- - [Source: a16z has secured thousands of AI chips, including Nvidia H100 GPUs, and is renting them to portfolio companies, with the aim of expanding to 20K+ GPUs &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/240709/p20#a240709p20)<!-- TECH:END -->
+ - [How to keep your Apple account safe from scams](https://appleinsider.com/inside/ios/tips/how-to-keep-your-apple-account-safe-from-scams?utm_medium=rss)
+ - [There’s an AMD Ryzen 7 PC hiding inside this folding keyboard](https://www.theverge.com/2024/7/9/24195018/linglong-amd-ryzen-pc-computer-keyboard)
+ - [Sources: xAI ends talks with Oracle to expand an existing arrangement to rent Nvidia chips; source: Oracle is not part of xAI&#39;s supercomputer project in Memphis &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/240709/p21#a240709p21)
+ - [Google’s dark web monitoring service will soon be free for all users](https://www.theverge.com/2024/7/9/24194970/google-one-free-dark-web-monitoring)
+ - [HP is ditching its bait-and-switch printer DRM — but only for LaserJets](https://www.theverge.com/2024/7/9/24195022/hp-plus-laserjet-office-printers-instant-ink-toner)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Latest tvOS beta lockscreen find points to long-rumored Apple home hub](https://appleinsider.com/articles/24/07/09/latest-tvos-beta-lockscreen-find-points-to-long-rumored-apple-home-hub?utm_medium=rss)
+ - [FTC says anonymous messaging app failed to stop ‘rampant cyberbullying’](https://www.theverge.com/2024/7/9/24194886/anonymous-messaging-app-ngl-ftc-agreement-marketing-kids-coppa)
  - [Extreme heat and Hurricane Beryl make a disaster pileup in Texas](https://www.theverge.com/2024/7/9/24194854/hurricane-beryl-heat-power-outage-texas)
- - [Razer beats Wooting to a speedy new keyboard feature for PC gaming](https://www.theverge.com/2024/7/9/24194977/razer-snap-tap-mode-huntsman-v3-pro-wooting-rappy-snappy)
- - [Google begins rolling out speedometers in Google Maps for iOS and CarPlay globally, more than five years after adding the features to the Android app &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/240709/p17#a240709p17)
- - [The time heist begins in Time Bandits’ first Apple TV Plus trailer](https://www.theverge.com/24194900/time-bandits-trailer-apple-tv-plus-terry-gilliam)
- - [Save up to $650 on Apple&#39;s latest 14-inch MacBook Pro with M3 Pro, M3 Max chip](https://appleinsider.com/articles/24/06/21/save-up-to-650-on-apples-latest-14-inch-macbook-pro-with-m3-pro-m3-max-chip?utm_medium=rss)<!-- TECH:END -->
+ - [Get a free $40 gift card with a Costco membership &amp; unlock savings on popular electronics](https://appleinsider.com/articles/24/04/16/deals-get-a-free-40-gift-card-with-a-costco-membership?utm_medium=rss)
+ - [Razer beats Wooting to a speedy new keyboard feature for PC gaming](https://www.theverge.com/2024/7/9/24194977/razer-snap-tap-mode-huntsman-v3-pro-wooting-rappy-snappy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

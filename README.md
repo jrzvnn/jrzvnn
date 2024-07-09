@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [IQ 60. An idiot shows his talent](http://9gag.com/gag/apRv6V5)
- - 😝 [Oh no](http://9gag.com/gag/awyxgxr)
- - 💣 [Dumb ways to die](http://9gag.com/gag/a6Z79E2)
- - 😝 [Hunter Gets Arrasment](http://9gag.com/gag/aqy5XZP)
- - 👉 [Normal day in Australia](http://9gag.com/gag/adBjOBj)<!-- MEMES:END -->
+ - 😝 [London citizens descend on the police station to demand the release of people who were arrested for sexual assault of English schoolgirls](http://9gag.com/gag/amo96D4)
+ - 💣 [Surprise motherf**ker!](http://9gag.com/gag/a1mM08b)
+ - 😝 [At least it&#39;s not a political post.](http://9gag.com/gag/a5Q7wNq)
+ - 👉 [French boy in Poland is shocked because bicycles are parked without chains and no one steals them. This is called civilization, what we have lost in Western Europe. Most of us know why.](http://9gag.com/gag/adBjOnZ)<!-- MEMES:END -->
 
 ---
 

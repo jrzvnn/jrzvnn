@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [TSMC gearing up for iPhone 17 A19 chip production with 2-nanometer test](https://appleinsider.com/articles/24/07/09/tsmc-gearing-up-for-iphone-17-a19-chip-production-with-2-nanometer-test?utm_medium=rss)
+ - [NFT and metaverse content creation company Infinite Reality raised $350M at a $5.1B valuation and acquires Roblox game developer Landvault for $450M in stock &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240709/p11#a240709p11)
+ - [The Vergecast builds a tech company](https://www.theverge.com/2024/7/9/24194806/vergecast-tech-company-iphone-kindle)
  - [Captions, which uses AI to let people create and edit videos, raised $60M led by Index Ventures at a $500M valuation, taking its total funding to $100M &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/240709/p10#a240709p10)
- - [Spotify adds the ability for users to leave comments on podcasts, expanding on polls and Q&amp;As; comments will be private by default, and creators can opt out &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240709/p9#a240709p9)
- - [If your Philips Hue bulbs are randomly cranking up to 100% on their own, you&#39;re not alone](https://appleinsider.com/articles/24/07/09/if-your-philips-hue-bulbs-are-randomly-cranking-up-to-100-on-their-own-youre-not-alone?utm_medium=rss)
- - [Spotify is going to let you leave comments on podcast episodes](https://www.theverge.com/2024/7/9/24194612/spotify-podcast-comments)<!-- TECH:END -->
+ - [Spotify adds the ability for users to leave comments on podcasts, expanding on polls and Q&amp;As; comments will be private by default, and creators can opt out &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240709/p9#a240709p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

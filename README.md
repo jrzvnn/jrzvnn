@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hong Kong proposes stiffer penalties for illegal ride-hailing services and use of licensing to regulate platforms such as Uber, potentially limiting their scope &lpar;South China Morning Post&rpar;](http://www.techmeme.com/240708/p14#a240708p14)
  - [Need to Return Your Amazon Products for Free? Here&#39;s How](https://www.cnet.com/how-to/need-to-return-your-amazon-products-for-free-heres-how/#ftag=CAD590a51e)
  - [Sources: HongShan, formerly Sequoia China, raised a $2.5B fund; the new RMB fund can more easily invest in sensitive tech than its prior $9B fund raised in USD &lpar;Financial Times&rpar;](http://www.techmeme.com/240708/p13#a240708p13)
  - [How the BBC used the iPhone in hundreds of locations to cover the UK election](https://appleinsider.com/articles/24/07/08/how-the-bbc-used-the-iphone-in-hundreds-of-locations-to-cover-the-uk-election?utm_medium=rss)
- - [Jenn Tran&#39;s &#39;Bachelorette&#39; Season: Start Time, How to Stream](https://www.cnet.com/tech/services-and-software/jenn-trans-bachelorette-season-start-time-how-to-stream/#ftag=CAD590a51e)
- - [Why your Philips Hue bulb is randomly setting itself to 100 percent brightness](https://www.theverge.com/2024/7/8/24194559/philips-hue-brightness-issue-fix-matter)<!-- TECH:END -->
+ - [Jenn Tran&#39;s &#39;Bachelorette&#39; Season: Start Time, How to Stream](https://www.cnet.com/tech/services-and-software/jenn-trans-bachelorette-season-start-time-how-to-stream/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [How the US is trying to transform the world&#39;s chip supply chain, including getting more countries to set up factories to do final chip assembly and packaging &lpar;New York Times&rpar;](http://www.techmeme.com/240709/p2#a240709p2)
+ - [9 Expert Tricks to Beat the Humidity in Your Kitchen During Heat Waves](https://www.cnet.com/home/smart-home/9-expert-tricks-to-beat-the-humidity-in-your-kitchen-during-heat-waves/#ftag=CAD590a51e)
  - [SSDI July Payment 2024: When Will You Receive Your Payment?](https://www.cnet.com/personal-finance/ssdi-july-payment-2024-when-will-you-receive-your-payment/#ftag=CAD590a51e)
  - [Logitech’s $80 supercapacitor gaming mouse is the most versatile it’s ever made](https://www.theverge.com/2024/7/9/24194631/logitech-g309-gaming-mouse-powerplay)
- - [4 Unexpected Ways Your Body Is Telling You to Prioritize Sleep](https://www.cnet.com/health/sleep/4-unexpected-ways-your-body-is-telling-you-to-prioritize-sleep/#ftag=CAD590a51e)
- - [Best Wireless Earbuds and Headphones for Samsung Phones](https://www.cnet.com/tech/mobile/best-wireless-earbuds-and-headphones-for-samsung-phones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [4 Unexpected Ways Your Body Is Telling You to Prioritize Sleep](https://www.cnet.com/health/sleep/4-unexpected-ways-your-body-is-telling-you-to-prioritize-sleep/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

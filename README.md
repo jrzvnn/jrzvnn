@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Republicans won’t stop trying to kill Biden’s EV tax credit](https://www.theverge.com/2024/7/9/24194872/biden-ev-tax-credit-republican-bill-scrap-kill-undo)
  - [Latest tvOS 18 beta lockscreen find points to long-rumored Apple home hub](https://appleinsider.com/articles/24/07/09/latest-tvos-beta-lockscreen-find-points-to-long-rumored-apple-home-hub?utm_medium=rss)
  - [Apple issues its third current-gen operating system developer betas for testing](https://appleinsider.com/articles/24/07/09/apple-issues-its-third-current-gen-developer-betas-for-testing?utm_medium=rss)
  - [Google is finally adding a speedometer to Google Maps on iPhone](https://appleinsider.com/articles/24/07/09/google-is-finally-adding-a-speedometer-to-google-maps-on-iphone?utm_medium=rss)
- - [Sources: xAI ends talks with Oracle to expand an existing arrangement to rent Nvidia chips; source: Oracle is not part of xAI&#39;s supercomputer project in Memphis &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/240709/p18#a240709p18)
- - [An exclusive, real-world look at the haptic buttons Apple developed for the iPhone 15 Pro](https://appleinsider.com/articles/24/07/09/an-exclusive-real-world-look-at-the-haptic-buttons-apple-developed-for-the-iphone-15-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: xAI ends talks with Oracle to expand an existing arrangement to rent Nvidia chips; source: Oracle is not part of xAI&#39;s supercomputer project in Memphis &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/240709/p18#a240709p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wade Wilson lawyer seeing his tattoo for the first time](http://9gag.com/gag/aAy16PL)
- - 😝 [LOL](http://9gag.com/gag/awyxgAW)
- - 💣 [Dumb ways to die](http://9gag.com/gag/a6Z79E2)
- - 😝 [Jumper](http://9gag.com/gag/adBj1pV)
- - 👉 [Hunter Gets Arrasment](http://9gag.com/gag/aqy5XZP)<!-- MEMES:END -->
+ - 😝 [Are any of you even real?......am i?](http://9gag.com/gag/a7o7VwA)
+ - 😝 [Oh no](http://9gag.com/gag/awyxgxr)
+ - 💣 [Normal day in Australia](http://9gag.com/gag/adBjOBj)
+ - 😝 [He really is that guy.](http://9gag.com/gag/a7o7OLe)
+ - 👉 [The Pain..](http://9gag.com/gag/a0ep6rv)<!-- MEMES:END -->
 
 ---
 

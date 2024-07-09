@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wade Wilson lawyer seeing his tattoo for the first time](http://9gag.com/gag/aAy16PL)
- - 😝 [So much movement](http://9gag.com/gag/aqy5RLv)
- - 💣 [Jumper](http://9gag.com/gag/adBj1pV)
- - 😝 [London citizens descend on the police station to demand the release of people who were arrested for sexual assault of English schoolgirls](http://9gag.com/gag/amo96D4)
- - 👉 [Dumb ways to die](http://9gag.com/gag/a6Z79E2)<!-- MEMES:END -->
+ - 😝 [Painting Your Partner](http://9gag.com/gag/aAy16Vd)
+ - 😝 [No pork in KFC Ontario](http://9gag.com/gag/ae9G1Kj)
+ - 💣 [Let&#39;s try this, who&#39;s in?](http://9gag.com/gag/a87MANO)
+ - 😝 [Now you do](http://9gag.com/gag/a87MAz3)
+ - 👉 [Don&#39;t mess with latinos](http://9gag.com/gag/azxjd7N)<!-- MEMES:END -->
 
 ---
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Remittance startup Nala, which lets users in the EU, UK, and US send money to 11 African markets, raised a $40M Series A led by Acrew, after a $10M seed in 2022 &lpar;Annie Njanja/TechCrunch&rpar;](http://www.techmeme.com/240709/p6#a240709p6)
- - [How the BBC used the iPhone in hundreds of locations to cover the UK election](https://appleinsider.com/articles/24/07/08/how-the-bbc-used-the-iphone-in-hundreds-of-locations-to-cover-the-uk-election?utm_medium=rss)
- - [Piper Sandler raises Apple target price on promise of AI](https://appleinsider.com/articles/24/07/09/piper-sandler-raises-apple-target-price-on-promise-of-ai?utm_medium=rss)
- - [Hyundai Ioniq 5 N &lpar;2024&rpar; Review: A Family EV on Steroids](https://www.wired.com/review/hyundai-ioniq-5-n/)
- - [Most Bed Sheets Are Awash in Harmful Dyes. They Don&#39;t Have to Be](https://www.wired.com/story/aizome-natural-dyes-bed-sheets/)<!-- TECH:END -->
+ - [Etsy CEO Josh Silverman says Etsy is positioning itself &quot;to answer the call for original goods and real people&quot; by overhauling its policies and adding labels &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/240709/p8#a240709p8)
+ - [How to get files off your old PC before you move](https://www.theverge.com/24173942/pc-max-hhd-ssd-how-to)
+ - [Meta plans to remove more Facebook and Instagram posts that attack &quot;Zionism&quot; or threaten &quot;Zionists&quot; when the term is conflated with Jewish people or Israelis &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/240709/p7#a240709p7)
+ - [When you move, what do you do with all those books?](https://www.theverge.com/24183372/books-move-donate-sell-how-to-declutter)
+ - [Remittance startup Nala, which lets users in the EU, UK, and US send money to 11 African markets, raised a $40M Series A led by Acrew, after a $10M seed in 2022 &lpar;Annie Njanja/TechCrunch&rpar;](http://www.techmeme.com/240709/p6#a240709p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

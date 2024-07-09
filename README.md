@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How the US is trying to transform the world&#39;s chip supply chain, including getting more countries to set up factories to do final chip assembly and packaging &lpar;New York Times&rpar;](http://www.techmeme.com/240709/p2#a240709p2)
  - [Logitech’s $80 supercapacitor gaming mouse is the most versatile it’s ever made](https://www.theverge.com/2024/7/9/24194631/logitech-g309-gaming-mouse-powerplay)
  - [Best Wireless Earbuds and Headphones for Samsung Phones](https://www.cnet.com/tech/mobile/best-wireless-earbuds-and-headphones-for-samsung-phones/#ftag=CAD590a51e)
  - [How to Build a Hurricane-Proof House](https://www.wired.com/story/hurricane-beryl-proof-housing/)
- - [Quora&#39;s Poe launches Previews, letting users create web apps like data visualizations, games, and animations using more than one LLM like Llama 3 and GPT-4o &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240709/p1#a240709p1)
- - [How to mitigate fraud on iOS devices using App Attest and DeviceCheck](https://appleinsider.com/articles/24/07/09/how-to-mitigate-fraud-on-ios-devices-using-app-attest-and-devicecheck?utm_medium=rss)<!-- TECH:END -->
+ - [Quora&#39;s Poe launches Previews, letting users create web apps like data visualizations, games, and animations using more than one LLM like Llama 3 and GPT-4o &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/240709/p1#a240709p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Earth lost one more idiot.](http://9gag.com/gag/aZZMQOz)
  - 😝 [Wouldn&#39;t be surprised](http://9gag.com/gag/a87MDmp)
- - 💣 [Trying not to damage another car](http://9gag.com/gag/a9y784o)
- - 😝 [Protests in Spain asking revenue generating tourists to go back home. Thought they were supoosed to protest against illegal migrants?](http://9gag.com/gag/adBj1DB)
- - 👉 [Pedo teacher busted](http://9gag.com/gag/agmVxq6)<!-- MEMES:END -->
+ - 😝 [Futuristic HDMI Hologram for 3D modeling](http://9gag.com/gag/a9y7vDZ)
+ - 💣 [Protests in Spain asking revenue generating tourists to go back home. Thought they were supoosed to protest against illegal migrants?](http://9gag.com/gag/adBj1DB)
+ - 😝 [Earth lost one more idiot.](http://9gag.com/gag/aZZMQOz)
+ - 👉 [London citizens descend on the police station to demand the release of people who were arrested for sexual assault of English schoolgirls](http://9gag.com/gag/amo96D4)<!-- MEMES:END -->
 
 ---
 

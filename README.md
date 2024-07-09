@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rome must fall in the first Gladiator II trailer](https://www.theverge.com/2024/7/9/24194848/gladiator-2-trailer)
- - [The FTC bans teen messaging app NGL from serving users under 18, a first; NGL agreed to pay $5M and stop marketing to kids and teens to settle the FTC lawsuit &lpar;Cristiano Lima-Strong/Washington Post&rpar;](http://www.techmeme.com/240709/p12#a240709p12)
- - [TSMC gearing up for iPhone 17 A19 chip production with 2-nanometer test](https://appleinsider.com/articles/24/07/09/tsmc-gearing-up-for-iphone-17-a19-chip-production-with-2-nanometer-test?utm_medium=rss)
- - [NFT and metaverse content creation company Infinite Reality raised $350M at a $5.1B valuation and acquires Roblox game developer Landvault for $450M in stock &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/240709/p11#a240709p11)
- - [The Vergecast builds a tech company](https://www.theverge.com/2024/7/9/24194806/vergecast-tech-company-iphone-kindle)<!-- TECH:END -->
+ - [Get 4 Apple AirTags for record low $74.98 ahead of Amazon Prime Day 2024](https://appleinsider.com/articles/24/07/09/get-4-apple-airtags-for-record-low-7498-ahead-of-amazon-prime-day-2024?utm_medium=rss)
+ - [Volley, which makes AI-powered games played via voice commands on Amazon Alexa, Fire TV, and Roku TV, raised a $55M Series C to bring its total funding to $75M+ &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/240709/p14#a240709p14)
+ - [Despite OpenAI&#39;s move to shut out Chinese developers from its tech, OpenAI&#39;s models are still available in China via Microsoft&#39;s Azure China &lpar;The Information&rpar;](http://www.techmeme.com/240709/p13#a240709p13)
+ - [Netflix’s next live event is a Joe Rogan comedy special](https://www.theverge.com/2024/7/9/24194873/netflix-joe-rogan-live-comedy-special-august)
+ - [OpenAI and Arianna Huffington are working together on an ‘AI health coach’](https://www.theverge.com/2024/7/9/24194450/openai-sam-altman-arianna-huffington-thrive-ai-health)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

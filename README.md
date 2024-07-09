@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dumb ways to die](http://9gag.com/gag/a6Z79E2)
- - 😝 [#RIPCartoonNetwork. Corporate greed has led to the destruction of yet another creative powerhouse.](http://9gag.com/gag/a87MDD6)
- - 💣 [Hunter Gets Arrasment](http://9gag.com/gag/aqy5XZP)
- - 😝 [London citizens descend on the police station to demand the release of people who were arrested for sexual assault of English schoolgirls](http://9gag.com/gag/amo96D4)
- - 👉 [Trying not to damage another car](http://9gag.com/gag/a9y784o)<!-- MEMES:END -->
+ - 😝 [Bottle meme](http://9gag.com/gag/a5Q7GAq)
+ - 😝 [A completely normal phenomenon](http://9gag.com/gag/aKGq83Q)
+ - 💣 [Disney desperate measures\u2026.](http://9gag.com/gag/ae9GVKB)
+ - 😝 [My fellow dark elf](http://9gag.com/gag/a4PYAq1)
+ - 👉 [As a kid, I never thought of putting alcohol in my mother&#39;s basin](http://9gag.com/gag/aVvPEvM)<!-- MEMES:END -->
 
 ---
 

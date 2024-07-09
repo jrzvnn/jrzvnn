@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I didn&#39;t see any potholes on the road](http://9gag.com/gag/ae9G4xB)
- - 😝 [Jumper](http://9gag.com/gag/adBj1pV)
- - 💣 [Normal day in Australia](http://9gag.com/gag/adBjOBj)
- - 😝 [Hunter Gets Arrasment](http://9gag.com/gag/aqy5XZP)
- - 👉 [Protests in Spain asking revenue generating tourists to go back home. Thought they were supoosed to protest against illegal migrants?](http://9gag.com/gag/adBj1DB)<!-- MEMES:END -->
+ - 😝 [They taught him how to speak like a man](http://9gag.com/gag/aoy948e)
+ - 😝 [Sarah Andersen](http://9gag.com/gag/azxjG3j)
+ - 💣 [Bottle meme](http://9gag.com/gag/a5Q7GAq)
+ - 😝 [There&#39;s still hope my dudes!](http://9gag.com/gag/awyxm9R)
+ - 👉 [Weak men create hard times](http://9gag.com/gag/a4PY5WZ)<!-- MEMES:END -->
 
 ---
 

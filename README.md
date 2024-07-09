@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The UK politician accused of being AI is actually a real person](https://www.theverge.com/2024/7/9/24195005/reform-uk-candidate-election-ai-bot-mark-matlock)
+ - [Skild AI, which is developing a foundational model for robotics, raised a $300M Series A at a $1.5B valuation led by Lightspeed, SoftBank, Coatue, Jeff Bezos &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/240709/p24#a240709p24)
  - [A group of investors led by Vista Equity Partners has agreed to acquire a majority stake in Nasuni, valuing the hybrid cloud storage provider at ~$1.2B &lpar;Bloomberg&rpar;](http://www.techmeme.com/240709/p23#a240709p23)
  - [The best deals you can get from Walmart’s rival Prime Day sale](https://www.theverge.com/24194147/best-walmart-deals-airpods-nintendo-switch-oled-anti-prime-day-2024-sale)
- - [A US judge dismisses more claims in a lawsuit brought by devs, who allege GitHub Copilot unlawfully copied their code; of 22 original claims, only two remain &lpar;Matthew Connatser/The Register&rpar;](http://www.techmeme.com/240709/p22#a240709p22)
- - [The Pixel Watch 3 could get ultra wideband and a brighter screen](https://www.theverge.com/2024/7/9/24195013/google-pixel-watch-3-uwb-bigger-battery-smaller-bezels)
- - [Powell&#39;s Testimony Resurrects Hopes That Rate Cuts Are on the Way](https://www.cnet.com/personal-finance/powells-testimony-resurrects-hopes-that-rate-cuts-are-on-the-way/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A US judge dismisses more claims in a lawsuit brought by devs, who allege GitHub Copilot unlawfully copied their code; of 22 original claims, only two remain &lpar;Matthew Connatser/The Register&rpar;](http://www.techmeme.com/240709/p22#a240709p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

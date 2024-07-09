@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [At least it&#39;s not a political post.](http://9gag.com/gag/a5Q7wNq)
- - 😝 [Traditional vs madonna](http://9gag.com/gag/aByYVBx)
- - 💣 [Surprise motherf**ker!](http://9gag.com/gag/a1mM08b)
- - 😝 [London citizens descend on the police station to demand the release of people who were arrested for sexual assault of English schoolgirls](http://9gag.com/gag/amo96D4)
- - 👉 [French boy in Poland is shocked because bicycles are parked without chains and no one steals them. This is called civilization, what we have lost in Western Europe. Most of us know why.](http://9gag.com/gag/adBjOnZ)<!-- MEMES:END -->
+ - 😝 [Wouldn&#39;t be surprised](http://9gag.com/gag/a87MDmp)
+ - 😝 [Let&#39;s try this, who&#39;s in?](http://9gag.com/gag/a87MANO)
+ - 💣 [So much movement](http://9gag.com/gag/aqy5RLv)
+ - 😝 [Hunter Gets Arrasment](http://9gag.com/gag/aqy5XZP)
+ - 👉 [Normal day in Australia](http://9gag.com/gag/adBjOBj)<!-- MEMES:END -->
 
 ---
 

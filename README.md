@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Painting Your Partner](http://9gag.com/gag/aAy16Vd)
- - 😝 [No pork in KFC Ontario](http://9gag.com/gag/ae9G1Kj)
- - 💣 [Let&#39;s try this, who&#39;s in?](http://9gag.com/gag/a87MANO)
- - 😝 [Now you do](http://9gag.com/gag/a87MAz3)
- - 👉 [Don&#39;t mess with latinos](http://9gag.com/gag/azxjd7N)<!-- MEMES:END -->
+ - 😝 [IQ 60. An idiot shows his talent](http://9gag.com/gag/apRv6V5)
+ - 😝 [Oh no](http://9gag.com/gag/awyxgxr)
+ - 💣 [Dumb ways to die](http://9gag.com/gag/a6Z79E2)
+ - 😝 [Hunter Gets Arrasment](http://9gag.com/gag/aqy5XZP)
+ - 👉 [Normal day in Australia](http://9gag.com/gag/adBjOBj)<!-- MEMES:END -->
 
 ---
 

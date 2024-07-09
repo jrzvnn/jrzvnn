@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A group of investors led by Vista Equity Partners has agreed to acquire a majority stake in Nasuni, valuing the hybrid cloud storage provider at ~$1.2B &lpar;Bloomberg&rpar;](http://www.techmeme.com/240709/p23#a240709p23)
+ - [The best deals you can get from Walmart’s rival Prime Day sale](https://www.theverge.com/24194147/best-walmart-deals-airpods-nintendo-switch-oled-anti-prime-day-2024-sale)
+ - [A US judge dismisses more claims in a lawsuit brought by devs, who allege GitHub Copilot unlawfully copied their code; of 22 original claims, only two remain &lpar;Matthew Connatser/The Register&rpar;](http://www.techmeme.com/240709/p22#a240709p22)
  - [The Pixel Watch 3 could get ultra wideband and a brighter screen](https://www.theverge.com/2024/7/9/24195013/google-pixel-watch-3-uwb-bigger-battery-smaller-bezels)
- - [Powell&#39;s Testimony Resurrects Hopes That Rate Cuts Are on the Way](https://www.cnet.com/personal-finance/powells-testimony-resurrects-hopes-that-rate-cuts-are-on-the-way/#ftag=CAD590a51e)
- - [The highlight of Summer Games Done Quick was a very good dog playing 16-bit baseball](https://www.theverge.com/2024/7/9/24194234/summer-games-done-quick-2024-recap-peanut-butter-the-dog)
- - [How to keep your Apple account safe from scams](https://appleinsider.com/inside/ios/tips/how-to-keep-your-apple-account-safe-from-scams?utm_medium=rss)
- - [You Can Get $20 in Amazon Credit Just By Uploading a Photo](https://www.cnet.com/tech/you-can-get-20-in-amazon-credit-just-by-uploading-a-photo/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Powell&#39;s Testimony Resurrects Hopes That Rate Cuts Are on the Way](https://www.cnet.com/personal-finance/powells-testimony-resurrects-hopes-that-rate-cuts-are-on-the-way/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

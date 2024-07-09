@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So Tolerant So Destructive](http://9gag.com/gag/azxjOXZ)
  - 😝 [But why.. just why](http://9gag.com/gag/aGyxGv0)
- - 💣 [What to do in this case](http://9gag.com/gag/aMVGzN1)
- - 😝 [Jim looks great](http://9gag.com/gag/aAy148Z)
- - 👉 [My fellow dark elf](http://9gag.com/gag/a4PYAq1)<!-- MEMES:END -->
+ - 😝 [As a kid, I never thought of putting alcohol in my mother&#39;s basin](http://9gag.com/gag/aVvPEvM)
+ - 💣 [So Tolerant So Destructive](http://9gag.com/gag/azxjOXZ)
+ - 😝 [True words aye!](http://9gag.com/gag/ae9GmQQ)
+ - 👉 [Jim looks great](http://9gag.com/gag/aAy148Z)<!-- MEMES:END -->
 
 ---
 

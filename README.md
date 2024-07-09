@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bottle meme](http://9gag.com/gag/a5Q7GAq)
- - 😝 [A completely normal phenomenon](http://9gag.com/gag/aKGq83Q)
- - 💣 [Disney desperate measures\u2026.](http://9gag.com/gag/ae9GVKB)
- - 😝 [My fellow dark elf](http://9gag.com/gag/a4PYAq1)
- - 👉 [As a kid, I never thought of putting alcohol in my mother&#39;s basin](http://9gag.com/gag/aVvPEvM)<!-- MEMES:END -->
+ - 😝 [Trying not to damage another car](http://9gag.com/gag/a9y784o)
+ - 😝 [Wade Wilson lawyer seeing his tattoo for the first time](http://9gag.com/gag/aAy16PL)
+ - 💣 [Jumper](http://9gag.com/gag/adBj1pV)
+ - 😝 [Dumb ways to die](http://9gag.com/gag/a6Z79E2)
+ - 👉 [Are any of you even real?......am i?](http://9gag.com/gag/a7o7VwA)<!-- MEMES:END -->
 
 ---
 

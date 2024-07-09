@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Xtrema&#39;s High-Quality Cookware Is Now Up to 25% Off Sitewide](https://www.cnet.com/deals/xtremas-high-quality-cookware-is-now-up-to-25-off-sitewide/#ftag=CAD590a51e)
+ - [Best Baby Monitors for 2024](https://www.cnet.com/health/parenting/best-baby-monitor/#ftag=CAD590a51e)
  - [Apple’s Sunny is a grief-stricken crime dramedy with a smile on its face](https://www.theverge.com/24194360/apple-tv-plus-sunny-review)
  - [Source: a16z has secured thousands of AI chips, including Nvidia H100 GPUs, and is renting them to portfolio companies, with the aim of expanding to 20K+ GPUs &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/240709/p20#a240709p20)
- - [How to manage deleted files on a Chromebook](https://www.theverge.com/24195066/chromeos-chromebook-files-delete-how-to)
- - [Current and former Tesla staff: self-driving data annotation staff were told to prioritize analyzing car data of VIP drivers, like Elon Musk and YouTube stars &lpar;Grace Kay/Business Insider&rpar;](http://www.techmeme.com/240709/p19#a240709p19)
- - [Shark IQ Robot Vacuum](https://www.cnet.com/home/kitchen-and-household/shark-iq-robot-vacuum-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Square Fire Pit Table](https://www.cnet.com/news/square-wood-burning-fire-pit-table-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

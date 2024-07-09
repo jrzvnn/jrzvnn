@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US DOJ and its partners seized two domain names and 968 accounts on X used by Russian actors to create an AI-enhanced bot farm that spread disinformation &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/240709/p26#a240709p26)
  - [Ad agency zombifies TUAW with AI copy &amp; recycled bylines in stupid SEO play](https://appleinsider.com/articles/24/07/09/ad-agency-zombifies-tuaw-with-ai-copy-recycled-bylines-in-stupid-seo-play?utm_medium=rss)
  - [Lithium-ion batteries have a forever chemical problem](https://www.theverge.com/24194493/forever-chemicals-pfas-lithium-ion-ev-rechargeable-batteries)
  - [DOJ seizes ‘bot farm’ operated by the Russian government](https://www.theverge.com/2024/7/9/24195228/doj-bot-farm-rt-russian-government-namecheap)
- - [Source: the Google Pixel Watch 3 will come in 41mm and 45mm sizes, have smaller 4.5mm bezels, a brighter 2,000-nit display, and ultra-wideband support &lpar;Kamila Wojciechowska/Android Authority&rpar;](http://www.techmeme.com/240709/p25#a240709p25)
- - [Super Mario Party is free when buying a pair of Joy-Con controllers](https://www.theverge.com/2024/7/9/24194944/super-mario-party-joy-con-switch-bundle-deal-sale)<!-- TECH:END -->
+ - [Source: the Google Pixel Watch 3 will come in 41mm and 45mm sizes, have smaller 4.5mm bezels, a brighter 2,000-nit display, and ultra-wideband support &lpar;Kamila Wojciechowska/Android Authority&rpar;](http://www.techmeme.com/240709/p25#a240709p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

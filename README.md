@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Dumb ways to die](http://9gag.com/gag/a6Z79E2)
- - 😝 [Jumper](http://9gag.com/gag/adBj1pV)
- - 💣 [So much movement](http://9gag.com/gag/aqy5RLv)
- - 😝 [London citizens descend on the police station to demand the release of people who were arrested for sexual assault of English schoolgirls](http://9gag.com/gag/amo96D4)
- - 👉 [I didn&#39;t see any potholes on the road](http://9gag.com/gag/ae9G4xB)<!-- MEMES:END -->
+ - 😝 [So much movement](http://9gag.com/gag/aqy5RLv)
+ - 💣 [Hunter Gets Arrasment](http://9gag.com/gag/aqy5XZP)
+ - 😝 [Oh no](http://9gag.com/gag/awyxgxr)
+ - 👉 [Wade Wilson lawyer seeing his tattoo for the first time](http://9gag.com/gag/aAy16PL)<!-- MEMES:END -->
 
 ---
 

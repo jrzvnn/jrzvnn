@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [HP is ditching its bait-and-switch printer DRM — but only for LaserJets](https://www.theverge.com/2024/7/9/24195022/hp-plus-laserjet-office-printers-instant-ink-toner)
  - [The 29 Best Movies on Max &lpar;aka HBO Max&rpar; Right Now &lpar;July 2024&rpar;](https://www.wired.com/story/best-movies-hbo-max-right-now/)
  - [Nike Is Killing the App for Its $350 Self-Tying Sneakers](https://www.wired.com/story/nike-kills-adapt-bb-app-self-tying-sneaker/)
- - [Xtrema&#39;s High-Quality Cookware Is Now Up to 25% Off Sitewide](https://www.cnet.com/deals/xtremas-high-quality-cookware-is-now-up-to-25-off-sitewide/#ftag=CAD590a51e)
- - [Best Baby Monitors for 2024](https://www.cnet.com/health/parenting/best-baby-monitor/#ftag=CAD590a51e)
- - [Apple’s Sunny is a grief-stricken crime dramedy with a smile on its face](https://www.theverge.com/24194360/apple-tv-plus-sunny-review)<!-- TECH:END -->
+ - [Apple’s Sunny is a grief-stricken crime dramedy with a smile on its face](https://www.theverge.com/24194360/apple-tv-plus-sunny-review)
+ - [Source: a16z has secured thousands of AI chips, including Nvidia H100 GPUs, and is renting them to portfolio companies, with the aim of expanding to 20K+ GPUs &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/240709/p20#a240709p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

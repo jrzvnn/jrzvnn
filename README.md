@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Washington Post made an AI chatbot for questions about climate](https://www.theverge.com/2024/7/9/24194486/the-washington-post-climate-answers-ai-chatbot)
+ - [Amazon launches early Prime Day deals: $69 AirPods, $169 AirPods Pro, $399 AirPods Max](https://appleinsider.com/articles/24/07/09/amazon-launches-early-prime-day-deals-69-airpods-169-airpods-pro-399-airpods-max?utm_medium=rss)
  - [Sling TV is the latest streamer to get those pesky pause ads](https://www.theverge.com/2024/7/9/24194859/sling-tv-ads-pause-dish-disable)
  - [Latest iOS 18 beta refines the new flashlight controls](https://appleinsider.com/articles/24/07/09/latest-ios-18-beta-refines-the-new-flashlight-controls?utm_medium=rss)
- - [Get 4 Apple AirTags for record low $74.98 ahead of Amazon Prime Day 2024](https://appleinsider.com/articles/24/07/09/get-4-apple-airtags-for-record-low-7498-ahead-of-amazon-prime-day-2024?utm_medium=rss)
- - [Volley, which makes AI-powered games played via voice commands on Amazon Alexa, Fire TV, and Roku TV, raised a $55M Series C to bring its total funding to $75M+ &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/240709/p14#a240709p14)
- - [Despite OpenAI&#39;s move to shut out Chinese developers from its tech, OpenAI&#39;s models are still available in China via Microsoft&#39;s Azure China &lpar;The Information&rpar;](http://www.techmeme.com/240709/p13#a240709p13)<!-- TECH:END -->
+ - [Get 4 Apple AirTags for record low $74.98 ahead of Amazon Prime Day 2024](https://appleinsider.com/articles/24/07/09/get-4-apple-airtags-for-record-low-7498-ahead-of-amazon-prime-day-2024?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: HongShan, formerly Sequoia China, raised a $2.5B fund; the new RMB fund can more easily invest in sensitive tech than its prior $9B fund raised in USD &lpar;Financial Times&rpar;](http://www.techmeme.com/240708/p13#a240708p13)
  - [How the BBC used the iPhone in hundreds of locations to cover the UK election](https://appleinsider.com/articles/24/07/08/how-the-bbc-used-the-iphone-in-hundreds-of-locations-to-cover-the-uk-election?utm_medium=rss)
+ - [Jenn Tran&#39;s &#39;Bachelorette&#39; Season: Start Time, How to Stream](https://www.cnet.com/tech/services-and-software/jenn-trans-bachelorette-season-start-time-how-to-stream/#ftag=CAD590a51e)
  - [Why your Philips Hue bulb is randomly setting itself to 100 percent brightness](https://www.theverge.com/2024/7/8/24194559/philips-hue-brightness-issue-fix-matter)
- - [Meta’s $24.99 monthly pay later plan covers the Quest 3 and Quest Plus](https://www.theverge.com/2024/7/8/24194406/meta-quest-3-buy-now-pay-later-loan-plus-subscription)
- - [IDC: ~3% of PCs shipped in 2024 will meet Microsoft&#39;s processing power threshold for AI PCs; source: some big app makers rebuff a push for on-device AI features &lpar;Bloomberg&rpar;](http://www.techmeme.com/240708/p12#a240708p12)
- - [17 Best Early Amazon Prime Day Deals &lpar;2024&rpar;](https://www.wired.com/story/best-early-amazon-prime-day-deals-2024/)<!-- TECH:END -->
+ - [Meta’s $24.99 monthly pay later plan covers the Quest 3 and Quest Plus](https://www.theverge.com/2024/7/8/24194406/meta-quest-3-buy-now-pay-later-loan-plus-subscription)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

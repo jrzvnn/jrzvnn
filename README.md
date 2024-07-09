@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My fellow dark elf](http://9gag.com/gag/a4PYAq1)
- - 😝 [NYC will start to use trash bins. Dudes, they&#39;re living in the future](http://9gag.com/gag/aQz8mm8)
- - 💣 [A completely normal phenomenon](http://9gag.com/gag/aKGq83Q)
- - 😝 [London citizens descend on the police station to demand the release of people who were arrested for sexual assault of English schoolgirls](http://9gag.com/gag/amo96D4)
- - 👉 [Earth lost one more idiot.](http://9gag.com/gag/aZZMQOz)<!-- MEMES:END -->
+ - 😝 [Is there a level above Field Marshal?](http://9gag.com/gag/aW4673K)
+ - 😝 [Wouldn&#39;t be surprised](http://9gag.com/gag/a87MDmp)
+ - 💣 [Futuristic HDMI Hologram for 3D modeling](http://9gag.com/gag/a9y7vDZ)
+ - 😝 [Pedo teacher busted](http://9gag.com/gag/agmVxq6)
+ - 👉 [London citizens descend on the police station to demand the release of people who were arrested for sexual assault of English schoolgirls](http://9gag.com/gag/amo96D4)<!-- MEMES:END -->
 
 ---
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wade Wilson lawyer seeing his tattoo for the first time](http://9gag.com/gag/aAy16PL)
- - 😝 [Are any of you even real?......am i?](http://9gag.com/gag/a7o7VwA)
- - 💣 [Dumb ways to die](http://9gag.com/gag/a6Z79E2)
- - 😝 [Different perspective on the rocket hitting the crowd in Utah during 4th of July](http://9gag.com/gag/a6Z7D1b)
- - 👉 [Mmmm...](http://9gag.com/gag/aRBALy5)<!-- MEMES:END -->
+ - 😝 [I didn&#39;t see any potholes on the road](http://9gag.com/gag/ae9G4xB)
+ - 😝 [Jumper](http://9gag.com/gag/adBj1pV)
+ - 💣 [Normal day in Australia](http://9gag.com/gag/adBjOBj)
+ - 😝 [Hunter Gets Arrasment](http://9gag.com/gag/aqy5XZP)
+ - 👉 [Protests in Spain asking revenue generating tourists to go back home. Thought they were supoosed to protest against illegal migrants?](http://9gag.com/gag/adBj1DB)<!-- MEMES:END -->
 
 ---
 

@@ -163,7 +163,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [The best deals you can get from Walmart’s rival Prime Day sale](https://www.theverge.com/24194147/best-walmart-deals-airpods-nintendo-switch-oled-anti-prime-day-2024-sale)
  - [A US judge dismisses more claims in a lawsuit brought by devs, who allege GitHub Copilot unlawfully copied their code; of 22 original claims, only two remain &lpar;Matthew Connatser/The Register&rpar;](http://www.techmeme.com/240709/p22#a240709p22)
  - [The Pixel Watch 3 could get ultra wideband and a brighter screen](https://www.theverge.com/2024/7/9/24195013/google-pixel-watch-3-uwb-bigger-battery-smaller-bezels)
- - [The highlight of Summer Games Done Quick was a very good dog playing 16-bit baseball](https://www.theverge.com/2024/7/9/24194234/summer-games-done-quick-2024-recap-peanut-butter-the-dog)<!-- TECH:END -->
+ - [Powell&#39;s Testimony Resurrects Hopes That Rate Cuts Are on the Way](https://www.cnet.com/personal-finance/powells-testimony-resurrects-hopes-that-rate-cuts-are-on-the-way/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

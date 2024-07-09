@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Is there a level above Field Marshal?](http://9gag.com/gag/aW4673K)
- - 😝 [Pedo teacher busted](http://9gag.com/gag/agmVxq6)
- - 💣 [Futuristic HDMI Hologram for 3D modeling](http://9gag.com/gag/a9y7vDZ)
- - 😝 [Trying not to damage another car](http://9gag.com/gag/a9y784o)
- - 👉 [My fellow dark elf](http://9gag.com/gag/a4PYAq1)<!-- MEMES:END -->
+ - 😝 [Futuristic HDMI Hologram for 3D modeling](http://9gag.com/gag/a9y7vDZ)
+ - 💣 [Wouldn&#39;t be surprised](http://9gag.com/gag/a87MDmp)
+ - 😝 [My fellow dark elf](http://9gag.com/gag/a4PYAq1)
+ - 👉 [NYC will start to use trash bins. Dudes, they&#39;re living in the future](http://9gag.com/gag/aQz8mm8)<!-- MEMES:END -->
 
 ---
 

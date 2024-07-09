@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wouldn&#39;t be surprised](http://9gag.com/gag/a87MDmp)
- - 😝 [Now you do](http://9gag.com/gag/a87MAz3)
- - 💣 [Let&#39;s try this, who&#39;s in?](http://9gag.com/gag/a87MANO)
- - 😝 [Trying not to damage another car](http://9gag.com/gag/a9y784o)
- - 👉 [Hunter Gets Arrasment](http://9gag.com/gag/aqy5XZP)<!-- MEMES:END -->
+ - 😝 [Dumb ways to die](http://9gag.com/gag/a6Z79E2)
+ - 😝 [#RIPCartoonNetwork. Corporate greed has led to the destruction of yet another creative powerhouse.](http://9gag.com/gag/a87MDD6)
+ - 💣 [Hunter Gets Arrasment](http://9gag.com/gag/aqy5XZP)
+ - 😝 [London citizens descend on the police station to demand the release of people who were arrested for sexual assault of English schoolgirls](http://9gag.com/gag/amo96D4)
+ - 👉 [Trying not to damage another car](http://9gag.com/gag/a9y784o)<!-- MEMES:END -->
 
 ---
 

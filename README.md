@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Man i would hate to learn French](http://9gag.com/gag/ae9GZrj)
- - 😝 [Surprise motherf**ker!](http://9gag.com/gag/a1mM08b)
- - 💣 [Traditional vs madonna](http://9gag.com/gag/aByYVBx)
- - 😝 [French boy in Poland is shocked because bicycles are parked without chains and no one steals them. This is called civilization, what we have lost in Western Europe. Most of us know why.](http://9gag.com/gag/adBjOnZ)
- - 👉 [London citizens descend on the police station to demand the release of people who were arrested for sexual assault of English schoolgirls](http://9gag.com/gag/amo96D4)<!-- MEMES:END -->
+ - 😝 [Normal day in Australia](http://9gag.com/gag/adBjOBj)
+ - 😝 [London citizens descend on the police station to demand the release of people who were arrested for sexual assault of English schoolgirls](http://9gag.com/gag/amo96D4)
+ - 💣 [Let&#39;s try this, who&#39;s in?](http://9gag.com/gag/a87MANO)
+ - 😝 [Hunter Gets Arrasment](http://9gag.com/gag/aqy5XZP)
+ - 👉 [Protests in Spain asking revenue generating tourists to go back home. Thought they were supoosed to protest against illegal migrants?](http://9gag.com/gag/adBj1DB)<!-- MEMES:END -->
 
 ---
 

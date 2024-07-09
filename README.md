@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So much movement](http://9gag.com/gag/aqy5RLv)
- - 😝 [Protests in Spain asking revenue generating tourists to go back home. Thought they were supoosed to protest against illegal migrants?](http://9gag.com/gag/adBj1DB)
- - 💣 [LOL](http://9gag.com/gag/awyxgAW)
- - 😝 [Normal day in Australia](http://9gag.com/gag/adBjOBj)
- - 👉 [Let&#39;s try this, who&#39;s in?](http://9gag.com/gag/a87MANO)<!-- MEMES:END -->
+ - 😝 [Wade Wilson lawyer seeing his tattoo for the first time](http://9gag.com/gag/aAy16PL)
+ - 😝 [LOL](http://9gag.com/gag/awyxgAW)
+ - 💣 [Dumb ways to die](http://9gag.com/gag/a6Z79E2)
+ - 😝 [Jumper](http://9gag.com/gag/adBj1pV)
+ - 👉 [Hunter Gets Arrasment](http://9gag.com/gag/aqy5XZP)<!-- MEMES:END -->
 
 ---
 

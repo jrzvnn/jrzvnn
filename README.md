@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trying not to damage another car](http://9gag.com/gag/a9y784o)
- - 😝 [Normal day in Australia](http://9gag.com/gag/adBjOBj)
- - 💣 [London citizens descend on the police station to demand the release of people who were arrested for sexual assault of English schoolgirls](http://9gag.com/gag/amo96D4)
- - 😝 [Wade Wilson lawyer seeing his tattoo for the first time](http://9gag.com/gag/aAy16PL)
- - 👉 [NYC will start to use trash bins. Dudes, they&#39;re living in the future](http://9gag.com/gag/aQz8mm8)<!-- MEMES:END -->
+ - 😝 [Disney desperate measures\u2026.](http://9gag.com/gag/ae9GVKB)
+ - 😝 [There&#39;s still hope my dudes!](http://9gag.com/gag/awyxm9R)
+ - 💣 [Well you suck anyway and your Mom smells](http://9gag.com/gag/aYQePm2)
+ - 😝 [As a kid, I never thought of putting alcohol in my mother&#39;s basin](http://9gag.com/gag/aVvPEvM)
+ - 👉 [A completely normal phenomenon](http://9gag.com/gag/aKGq83Q)<!-- MEMES:END -->
 
 ---
 

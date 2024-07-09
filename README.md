@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If Europeans made street food the same way Indians do.](http://9gag.com/gag/a34B2Y7)
- - 😝 [Are any of you even real?......am i?](http://9gag.com/gag/a7o7VwA)
- - 💣 [NYC will start to use trash bins. Dudes, they&#39;re living in the future](http://9gag.com/gag/aQz8mm8)
- - 😝 [Trying not to damage another car](http://9gag.com/gag/a9y784o)
- - 👉 [London citizens descend on the police station to demand the release of people who were arrested for sexual assault of English schoolgirls](http://9gag.com/gag/amo96D4)<!-- MEMES:END -->
+ - 😝 [My fellow dark elf](http://9gag.com/gag/a4PYAq1)
+ - 😝 [NYC will start to use trash bins. Dudes, they&#39;re living in the future](http://9gag.com/gag/aQz8mm8)
+ - 💣 [A completely normal phenomenon](http://9gag.com/gag/aKGq83Q)
+ - 😝 [London citizens descend on the police station to demand the release of people who were arrested for sexual assault of English schoolgirls](http://9gag.com/gag/amo96D4)
+ - 👉 [Earth lost one more idiot.](http://9gag.com/gag/aZZMQOz)<!-- MEMES:END -->
 
 ---
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: a16z has secured thousands of AI chips, including Nvidia H100 GPUs, and is renting them to portfolio companies, with the aim of expanding to 20K+ GPUs &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/240709/p20#a240709p20)
  - [How to manage deleted files on a Chromebook](https://www.theverge.com/24195066/chromeos-chromebook-files-delete-how-to)
  - [Current and former Tesla staff: self-driving data annotation staff were told to prioritize analyzing car data of VIP drivers, like Elon Musk and YouTube stars &lpar;Grace Kay/Business Insider&rpar;](http://www.techmeme.com/240709/p19#a240709p19)
- - [Vampire Survivors is coming to Apple Arcade](https://www.theverge.com/2024/7/9/24195019/apple-arcade-vampire-survivors-temple-run-legends)
- - [Sony’s DualSense Edge pro controller for the PS5 is now $24 off](https://www.theverge.com/2024/7/9/24194824/sony-dualsense-edge-pro-playstation-controller-ps5-walmart-deal-sale)
- - [Republicans won’t stop trying to kill Biden’s EV tax credit](https://www.theverge.com/2024/7/9/24194872/biden-ev-tax-credit-republican-bill-scrap-kill-undo)<!-- TECH:END -->
+ - [Shark IQ Robot Vacuum](https://www.cnet.com/home/kitchen-and-household/shark-iq-robot-vacuum-dpnl/#ftag=CAD590a51e)
+ - [Shark Navigator Swivel Pro Plus](https://www.cnet.com/home/kitchen-and-household/shark-navigator-swivel-pro-plus-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

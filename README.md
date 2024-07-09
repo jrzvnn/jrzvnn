@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This may be your last chance to own a rare Nintendo PlayStation controller](https://www.theverge.com/24194869/nintendo-playstation-gaming-auction-rare-snes)
  - [Apple&#39;s Mac continues to outpace a recovering computer market](https://appleinsider.com/articles/24/07/09/apples-mac-continues-to-outpace-a-recovering-computer-market?utm_medium=rss)
  - [Austin-based Command Zero, which uses automation and LLMs to help with cybersecurity investigations, emerges from stealth with $21M in seed funding led by a16z &lpar;Ionut Arghire/SecurityWeek&rpar;](http://www.techmeme.com/240709/p15#a240709p15)
  - [The Washington Post made an AI chatbot for questions about climate](https://www.theverge.com/2024/7/9/24194486/the-washington-post-climate-answers-ai-chatbot)
- - [Amazon launches early Prime Day deals: $69 AirPods, $169 AirPods Pro, $399 AirPods Max](https://appleinsider.com/articles/24/07/09/amazon-launches-early-prime-day-deals-69-airpods-169-airpods-pro-399-airpods-max?utm_medium=rss)
- - [Sling TV is the latest streamer to get those pesky pause ads](https://www.theverge.com/2024/7/9/24194859/sling-tv-ads-pause-dish-disable)<!-- TECH:END -->
+ - [Amazon launches early Prime Day deals: $69 AirPods, $169 AirPods Pro, $399 AirPods Max](https://appleinsider.com/articles/24/07/09/amazon-launches-early-prime-day-deals-69-airpods-169-airpods-pro-399-airpods-max?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -163,7 +163,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Instagram is sticking to short videos, says Adam Mosseri](https://www.theverge.com/2024/7/9/24195277/instagram-long-form-video-adam-mosseri)
  - [Filing: Evolve Bank &amp; Trust says that the personal data of at least 7.6M people was accessed during a February 2024 ransomware attack by LockBit &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/240709/p28#a240709p28)
  - [Microsoft is hiking the price of Xbox Game Pass Ultimate and launching a new ‘Standard’ tier](https://www.theverge.com/2024/7/9/24195312/microsoft-xbox-game-pass-ultimate-price-increase-standard-subscription)
- - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)<!-- TECH:END -->
+ - [US Government Bans Teen-Focused Messaging App NGL From Hosting Minors](https://www.cnet.com/tech/us-government-bans-teen-focused-messaging-app-ngl-from-hosting-minors/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

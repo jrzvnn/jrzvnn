@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wouldn&#39;t be surprised](http://9gag.com/gag/a87MDmp)
- - 😝 [Let&#39;s try this, who&#39;s in?](http://9gag.com/gag/a87MANO)
- - 💣 [So much movement](http://9gag.com/gag/aqy5RLv)
- - 😝 [Hunter Gets Arrasment](http://9gag.com/gag/aqy5XZP)
- - 👉 [Normal day in Australia](http://9gag.com/gag/adBjOBj)<!-- MEMES:END -->
+ - 😝 [London citizens descend on the police station to demand the release of people who were arrested for sexual assault of English schoolgirls](http://9gag.com/gag/amo96D4)
+ - 😝 [Protests in Spain asking revenue generating tourists to go back home. Thought they were supoosed to protest against illegal migrants?](http://9gag.com/gag/adBj1DB)
+ - 💣 [Dumb ways to die](http://9gag.com/gag/a6Z79E2)
+ - 😝 [LOL](http://9gag.com/gag/awyxgAW)
+ - 👉 [Jumper](http://9gag.com/gag/adBj1pV)<!-- MEMES:END -->
 
 ---
 

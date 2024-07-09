@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft hikes the price of Xbox Game Pass Ultimate by $3 to $20/month for new subscribers and plans a Standard tier for $14.99/month without day-one titles &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240709/p29#a240709p29)
+ - [Instagram is sticking to short videos, says Adam Mosseri](https://www.theverge.com/2024/7/9/24195277/instagram-long-form-video-adam-mosseri)
  - [Filing: Evolve Bank &amp; Trust says that the personal data of at least 7.6M people was accessed during a February 2024 ransomware attack by LockBit &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/240709/p28#a240709p28)
  - [Microsoft is hiking the price of Xbox Game Pass Ultimate and launching a new ‘Standard’ tier](https://www.theverge.com/2024/7/9/24195312/microsoft-xbox-game-pass-ultimate-price-increase-standard-subscription)
- - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
- - [The Biden administration says it will direct up to $1.6B in CHIPS Act funding towards R&amp;D to accelerate domestic capacity for advanced chip packaging &lpar;Don Clark/New York Times&rpar;](http://www.techmeme.com/240709/p27#a240709p27)
- - [The developers suing over GitHub Copilot got dealt a major blow in court](https://www.theverge.com/2024/7/9/24195233/github-ai-copyright-coding-lawsuit-microsoft-openai)<!-- TECH:END -->
+ - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

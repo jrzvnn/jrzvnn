@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Everything reminds me of Him](http://9gag.com/gag/aLn2Lqg)
- - 😝 [LOL](http://9gag.com/gag/awyxgAW)
- - 💣 [London citizens descend on the police station to demand the release of people who were arrested for sexual assault of English schoolgirls](http://9gag.com/gag/amo96D4)
- - 😝 [The new mayor of Islamabad, Pakistan Sorry for the typo, he&#39;s the new mayor of Brighton, UK](http://9gag.com/gag/aqy5R8Y)
- - 👉 [I didn&#39;t see any potholes on the road](http://9gag.com/gag/ae9G4xB)<!-- MEMES:END -->
+ - 😝 [Trying not to damage another car](http://9gag.com/gag/a9y784o)
+ - 😝 [Protests in Spain asking revenue generating tourists to go back home. Thought they were supoosed to protest against illegal migrants?](http://9gag.com/gag/adBj1DB)
+ - 💣 [Hunter Gets Arrasment](http://9gag.com/gag/aqy5XZP)
+ - 😝 [Jumper](http://9gag.com/gag/adBj1pV)
+ - 👉 [Let&#39;s try this, who&#39;s in?](http://9gag.com/gag/a87MANO)<!-- MEMES:END -->
 
 ---
 

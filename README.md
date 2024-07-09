@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google will make its dark web monitoring feature available to all users for free in late July 2024, no longer requiring a Google One membership to access it &lpar;Damien Wilde/9to5Google&rpar;](http://www.techmeme.com/240709/p30#a240709p30)
  - [Microsoft hikes the price of Xbox Game Pass Ultimate by $3 to $20/month for new subscribers and plans a Standard tier for $14.99/month without day-one titles &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/240709/p29#a240709p29)
  - [Instagram is sticking to short videos, says Adam Mosseri](https://www.theverge.com/2024/7/9/24195277/instagram-long-form-video-adam-mosseri)
  - [Filing: Evolve Bank &amp; Trust says that the personal data of at least 7.6M people was accessed during a February 2024 ransomware attack by LockBit &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/240709/p28#a240709p28)
- - [Microsoft is hiking the price of Xbox Game Pass Ultimate and launching a new ‘Standard’ tier](https://www.theverge.com/2024/7/9/24195312/microsoft-xbox-game-pass-ultimate-price-increase-standard-subscription)
- - [US Government Bans Teen-Focused Messaging App NGL From Hosting Minors](https://www.cnet.com/tech/us-government-bans-teen-focused-messaging-app-ngl-from-hosting-minors/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft is hiking the price of Xbox Game Pass Ultimate and launching a new ‘Standard’ tier](https://www.theverge.com/2024/7/9/24195312/microsoft-xbox-game-pass-ultimate-price-increase-standard-subscription)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

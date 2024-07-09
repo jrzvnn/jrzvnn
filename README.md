@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Etsy CEO Josh Silverman says Etsy is positioning itself &quot;to answer the call for original goods and real people&quot; by overhauling its policies and adding labels &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/240709/p8#a240709p8)
- - [How to get files off your old PC before you move](https://www.theverge.com/24173942/pc-max-hhd-ssd-how-to)
- - [Meta plans to remove more Facebook and Instagram posts that attack &quot;Zionism&quot; or threaten &quot;Zionists&quot; when the term is conflated with Jewish people or Israelis &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/240709/p7#a240709p7)
- - [When you move, what do you do with all those books?](https://www.theverge.com/24183372/books-move-donate-sell-how-to-declutter)
- - [Remittance startup Nala, which lets users in the EU, UK, and US send money to 11 African markets, raised a $40M Series A led by Acrew, after a $10M seed in 2022 &lpar;Annie Njanja/TechCrunch&rpar;](http://www.techmeme.com/240709/p6#a240709p6)<!-- TECH:END -->
+ - [Spotify adds the ability for users to leave comments on podcasts, expanding on polls and Q&amp;As; comments will be private by default, and creators can opt out &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/240709/p9#a240709p9)
+ - [If your Philips Hue bulbs are randomly cranking up to 100% on their own, you&#39;re not alone](https://appleinsider.com/articles/24/07/09/if-your-philips-hue-bulbs-are-randomly-cranking-up-to-100-on-their-own-youre-not-alone?utm_medium=rss)
+ - [Spotify is going to let you leave comments on podcast episodes](https://www.theverge.com/2024/7/9/24194612/spotify-podcast-comments)
+ - [Motorola’s 2024 Razr Plus is a damn fun flip phone with the same old flaws](https://www.theverge.com/24191156/motorola-razr-plus-2024-review-screen-battery-camera)
+ - [Etsy loses its ‘handmade’ and ‘vintage’ labels as it takes on Temu and Amazon](https://www.theverge.com/2024/7/9/24190843/etsy-handmade-vintage-policy-change)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sling TV is the latest streamer to get those pesky pause ads](https://www.theverge.com/2024/7/9/24194859/sling-tv-ads-pause-dish-disable)
+ - [Latest iOS 18 beta refines the new flashlight controls](https://appleinsider.com/articles/24/07/09/latest-ios-18-beta-refines-the-new-flashlight-controls?utm_medium=rss)
  - [Get 4 Apple AirTags for record low $74.98 ahead of Amazon Prime Day 2024](https://appleinsider.com/articles/24/07/09/get-4-apple-airtags-for-record-low-7498-ahead-of-amazon-prime-day-2024?utm_medium=rss)
  - [Volley, which makes AI-powered games played via voice commands on Amazon Alexa, Fire TV, and Roku TV, raised a $55M Series C to bring its total funding to $75M+ &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/240709/p14#a240709p14)
- - [Despite OpenAI&#39;s move to shut out Chinese developers from its tech, OpenAI&#39;s models are still available in China via Microsoft&#39;s Azure China &lpar;The Information&rpar;](http://www.techmeme.com/240709/p13#a240709p13)
- - [Netflix’s next live event is a Joe Rogan comedy special](https://www.theverge.com/2024/7/9/24194873/netflix-joe-rogan-live-comedy-special-august)
- - [OpenAI and Arianna Huffington are working together on an ‘AI health coach’](https://www.theverge.com/2024/7/9/24194450/openai-sam-altman-arianna-huffington-thrive-ai-health)<!-- TECH:END -->
+ - [Despite OpenAI&#39;s move to shut out Chinese developers from its tech, OpenAI&#39;s models are still available in China via Microsoft&#39;s Azure China &lpar;The Information&rpar;](http://www.techmeme.com/240709/p13#a240709p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

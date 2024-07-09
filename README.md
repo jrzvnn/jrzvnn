@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Australia, backed by the US, the UK, Japan, and other allies, accuses a Chinese state-backed hacking group of targeting government and private sector networks &lpar;Financial Times&rpar;](http://www.techmeme.com/240709/p5#a240709p5)
  - [Amazon announces an updated $79 Echo Spot alarm clock, with a revamped design and improved audio quality, the first update to the device since its 2017 launch &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/240709/p4#a240709p4)
  - [Sam Altman and Arianna Huffington announce Thrive AI Health, a new startup backed by OpenAI and Thrive Global to build a &quot;hyper-personalized AI health coach&quot; &lpar;TIME&rpar;](http://www.techmeme.com/240709/p3#a240709p3)
  - [Best Flip Phone for 2024](https://www.cnet.com/tech/mobile/best-flip-phone/#ftag=CAD590a51e)
- - [Best Savings Rates Today -- APYs Remain High Ahead of Inflation Data, July 9, 2024](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-july-9-2024/#ftag=CAD590a51e)
- - [How the US is trying to transform the world&#39;s chip supply chain, including getting more countries to set up factories to do final chip assembly and packaging &lpar;New York Times&rpar;](http://www.techmeme.com/240709/p2#a240709p2)<!-- TECH:END -->
+ - [Best Savings Rates Today -- APYs Remain High Ahead of Inflation Data, July 9, 2024](https://www.cnet.com/personal-finance/banking/todays-best-savings-rates-july-9-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

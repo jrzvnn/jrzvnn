@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to mitigate fraud on iOS devices using App Attest and DeviceCheck](https://appleinsider.com/articles/24/07/09/how-to-mitigate-fraud-on-ios-devices-using-app-attest-and-devicecheck?utm_medium=rss)
  - [Hulu was down for a lot of people, but now it’s fixed](https://www.theverge.com/2024/7/8/24194699/hulu-down-outage-error-streaming)
  - [Today&#39;s NYT Strands Hints, Answers and Help for July 9, #128](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-9-128/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for July 9, #394](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-9-394/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for July 9, #1116](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-9-1116/#ftag=CAD590a51e)
- - [Best Vitamins and Supplements for Joint Health of 2024](https://www.cnet.com/health/nutrition/best-vitamins-and-supplements-for-joint-health-of-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for July 9, #1116](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-9-1116/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

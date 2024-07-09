@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An exclusive, real-world look at the haptic buttons Apple developed for the iPhone 15 Pro](https://appleinsider.com/articles/24/07/09/an-exclusive-real-world-look-at-the-haptic-buttons-apple-developed-for-the-iphone-15-pro?utm_medium=rss)
  - [Latest tvOS beta lockscreen find points to long-rumored Apple home hub](https://appleinsider.com/articles/24/07/09/latest-tvos-beta-lockscreen-find-points-to-long-rumored-apple-home-hub?utm_medium=rss)
  - [FTC says anonymous messaging app failed to stop ‘rampant cyberbullying’](https://www.theverge.com/2024/7/9/24194886/anonymous-messaging-app-ngl-ftc-agreement-marketing-kids-coppa)
  - [Extreme heat and Hurricane Beryl make a disaster pileup in Texas](https://www.theverge.com/2024/7/9/24194854/hurricane-beryl-heat-power-outage-texas)
- - [Get a free $40 gift card with a Costco membership &amp; unlock savings on popular electronics](https://appleinsider.com/articles/24/04/16/deals-get-a-free-40-gift-card-with-a-costco-membership?utm_medium=rss)
- - [Razer beats Wooting to a speedy new keyboard feature for PC gaming](https://www.theverge.com/2024/7/9/24194977/razer-snap-tap-mode-huntsman-v3-pro-wooting-rappy-snappy)<!-- TECH:END -->
+ - [Get a free $40 gift card with a Costco membership &amp; unlock savings on popular electronics](https://appleinsider.com/articles/24/04/16/deals-get-a-free-40-gift-card-with-a-costco-membership?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

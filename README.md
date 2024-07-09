@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to manage deleted files on a Chromebook](https://www.theverge.com/24195066/chromeos-chromebook-files-delete-how-to)
+ - [Current and former Tesla staff: self-driving data annotation staff were told to prioritize analyzing car data of VIP drivers, like Elon Musk and YouTube stars &lpar;Grace Kay/Business Insider&rpar;](http://www.techmeme.com/240709/p19#a240709p19)
  - [Vampire Survivors is coming to Apple Arcade](https://www.theverge.com/2024/7/9/24195019/apple-arcade-vampire-survivors-temple-run-legends)
  - [Sony’s DualSense Edge pro controller for the PS5 is now $24 off](https://www.theverge.com/2024/7/9/24194824/sony-dualsense-edge-pro-playstation-controller-ps5-walmart-deal-sale)
- - [Republicans won’t stop trying to kill Biden’s EV tax credit](https://www.theverge.com/2024/7/9/24194872/biden-ev-tax-credit-republican-bill-scrap-kill-undo)
- - [Latest tvOS 18 beta lockscreen find points to long-rumored Apple home hub](https://appleinsider.com/articles/24/07/09/latest-tvos-beta-lockscreen-find-points-to-long-rumored-apple-home-hub?utm_medium=rss)
- - [Apple issues its third current-gen operating system developer betas for testing](https://appleinsider.com/articles/24/07/09/apple-issues-its-third-current-gen-developer-betas-for-testing?utm_medium=rss)<!-- TECH:END -->
+ - [Republicans won’t stop trying to kill Biden’s EV tax credit](https://www.theverge.com/2024/7/9/24194872/biden-ev-tax-credit-republican-bill-scrap-kill-undo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

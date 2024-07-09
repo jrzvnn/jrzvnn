@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A completely normal phenomenon](http://9gag.com/gag/aKGq83Q)
- - 😝 [A shortcut](http://9gag.com/gag/adBjQ1D)
- - 💣 [There&#39;s still hope my dudes!](http://9gag.com/gag/awyxm9R)
- - 😝 [Bottle meme](http://9gag.com/gag/a5Q7GAq)
- - 👉 [Disney desperate measures\u2026.](http://9gag.com/gag/ae9GVKB)<!-- MEMES:END -->
+ - 😝 [Wouldn&#39;t be surprised](http://9gag.com/gag/a87MDmp)
+ - 😝 [Now you do](http://9gag.com/gag/a87MAz3)
+ - 💣 [Let&#39;s try this, who&#39;s in?](http://9gag.com/gag/a87MANO)
+ - 😝 [Trying not to damage another car](http://9gag.com/gag/a9y784o)
+ - 👉 [Hunter Gets Arrasment](http://9gag.com/gag/aqy5XZP)<!-- MEMES:END -->
 
 ---
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [IQ 60. An idiot shows his talent](http://9gag.com/gag/apRv6V5)
+ - 😝 [Now you do](http://9gag.com/gag/a87MAz3)
+ - 😝 [Is there a level above Field Marshal?](http://9gag.com/gag/aW4673K)
+ - 💣 [Wade Wilson lawyer seeing his tattoo for the first time](http://9gag.com/gag/aAy16PL)
  - 😝 [London citizens descend on the police station to demand the release of people who were arrested for sexual assault of English schoolgirls](http://9gag.com/gag/amo96D4)
- - 💣 [Surprise motherf**ker!](http://9gag.com/gag/a1mM08b)
- - 😝 [At least it&#39;s not a political post.](http://9gag.com/gag/a5Q7wNq)
- - 👉 [French boy in Poland is shocked because bicycles are parked without chains and no one steals them. This is called civilization, what we have lost in Western Europe. Most of us know why.](http://9gag.com/gag/adBjOnZ)<!-- MEMES:END -->
+ - 👉 [LOL](http://9gag.com/gag/awyxgAW)<!-- MEMES:END -->
 
 ---
 

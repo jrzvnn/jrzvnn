@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UiPath says it will lay off 10% of its workforce, or ~420 people, after lowering its full year revenue expectations by $100M last month; PATH drops 6%+ &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/240709/p18#a240709p18)
- - [An exclusive, real-world look at the haptic buttons Apple developed for the iPhone 15 Pro](https://appleinsider.com/articles/24/07/09/an-exclusive-real-world-look-at-the-haptic-buttons-apple-developed-for-the-iphone-15-pro?utm_medium=rss)
- - [Latest tvOS beta lockscreen find points to long-rumored Apple home hub](https://appleinsider.com/articles/24/07/09/latest-tvos-beta-lockscreen-find-points-to-long-rumored-apple-home-hub?utm_medium=rss)
- - [7 Lesser-Known Google Maps Features](https://www.wired.com/story/7-lesser-known-features-in-google-maps/)
- - [FTC says anonymous messaging app failed to stop ‘rampant cyberbullying’](https://www.theverge.com/2024/7/9/24194886/anonymous-messaging-app-ngl-ftc-agreement-marketing-kids-coppa)<!-- TECH:END -->
+ - [Latest tvOS 18 beta lockscreen find points to long-rumored Apple home hub](https://appleinsider.com/articles/24/07/09/latest-tvos-beta-lockscreen-find-points-to-long-rumored-apple-home-hub?utm_medium=rss)
+ - [Apple issues its third current-gen operating system developer betas for testing](https://appleinsider.com/articles/24/07/09/apple-issues-its-third-current-gen-developer-betas-for-testing?utm_medium=rss)
+ - [Google is finally adding a speedometer to Google Maps on iPhone](https://appleinsider.com/articles/24/07/09/google-is-finally-adding-a-speedometer-to-google-maps-on-iphone?utm_medium=rss)
+ - [Sources: xAI ends talks with Oracle to expand an existing arrangement to rent Nvidia chips; source: Oracle is not part of xAI&#39;s supercomputer project in Memphis &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/240709/p18#a240709p18)
+ - [An exclusive, real-world look at the haptic buttons Apple developed for the iPhone 15 Pro](https://appleinsider.com/articles/24/07/09/an-exclusive-real-world-look-at-the-haptic-buttons-apple-developed-for-the-iphone-15-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

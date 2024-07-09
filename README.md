@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dumb ways to die](http://9gag.com/gag/a6Z79E2)
+ - 😝 [Wade Wilson lawyer seeing his tattoo for the first time](http://9gag.com/gag/aAy16PL)
  - 😝 [So much movement](http://9gag.com/gag/aqy5RLv)
- - 💣 [Hunter Gets Arrasment](http://9gag.com/gag/aqy5XZP)
- - 😝 [Oh no](http://9gag.com/gag/awyxgxr)
- - 👉 [Wade Wilson lawyer seeing his tattoo for the first time](http://9gag.com/gag/aAy16PL)<!-- MEMES:END -->
+ - 💣 [Jumper](http://9gag.com/gag/adBj1pV)
+ - 😝 [London citizens descend on the police station to demand the release of people who were arrested for sexual assault of English schoolgirls](http://9gag.com/gag/amo96D4)
+ - 👉 [Dumb ways to die](http://9gag.com/gag/a6Z79E2)<!-- MEMES:END -->
 
 ---
 

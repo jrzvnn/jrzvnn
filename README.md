@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Weak men create hard times](http://9gag.com/gag/a4PY5WZ)
+ - 😝 [A completely normal phenomenon](http://9gag.com/gag/aKGq83Q)
  - 😝 [A shortcut](http://9gag.com/gag/adBjQ1D)
- - 💣 [Bottle meme](http://9gag.com/gag/a5Q7GAq)
- - 😝 [There&#39;s still hope my dudes!](http://9gag.com/gag/awyxm9R)
+ - 💣 [There&#39;s still hope my dudes!](http://9gag.com/gag/awyxm9R)
+ - 😝 [Bottle meme](http://9gag.com/gag/a5Q7GAq)
  - 👉 [Disney desperate measures\u2026.](http://9gag.com/gag/ae9GVKB)<!-- MEMES:END -->
 
 ---

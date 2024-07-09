@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Hulu was down for a lot of people, but now it’s fixed](https://www.theverge.com/2024/7/8/24194699/hulu-down-outage-error-streaming)
- - [Hong Kong proposes stiffer penalties for illegal ride-hailing services and use of licensing to regulate platforms such as Uber, potentially limiting their scope &lpar;South China Morning Post&rpar;](http://www.techmeme.com/240708/p14#a240708p14)
- - [Need to Return Your Amazon Products for Free? Here&#39;s How](https://www.cnet.com/how-to/need-to-return-your-amazon-products-for-free-heres-how/#ftag=CAD590a51e)
- - [Sources: HongShan, formerly Sequoia China, raised a $2.5B fund; the new RMB fund can more easily invest in sensitive tech than its prior $9B fund raised in USD &lpar;Financial Times&rpar;](http://www.techmeme.com/240708/p13#a240708p13)
- - [How the BBC used the iPhone in hundreds of locations to cover the UK election](https://appleinsider.com/articles/24/07/08/how-the-bbc-used-the-iphone-in-hundreds-of-locations-to-cover-the-uk-election?utm_medium=rss)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for July 9, #128](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-9-128/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for July 9, #394](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-9-394/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for July 9, #1116](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-9-1116/#ftag=CAD590a51e)
+ - [Best Vitamins and Supplements for Joint Health of 2024](https://www.cnet.com/health/nutrition/best-vitamins-and-supplements-for-joint-health-of-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

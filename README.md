@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They taught him how to speak like a man](http://9gag.com/gag/aoy948e)
- - 😝 [Sarah Andersen](http://9gag.com/gag/azxjG3j)
- - 💣 [Bottle meme](http://9gag.com/gag/a5Q7GAq)
- - 😝 [There&#39;s still hope my dudes!](http://9gag.com/gag/awyxm9R)
- - 👉 [Weak men create hard times](http://9gag.com/gag/a4PY5WZ)<!-- MEMES:END -->
+ - 😝 [London citizens descend on the police station to demand the release of people who were arrested for sexual assault of English schoolgirls](http://9gag.com/gag/amo96D4)
+ - 😝 [Now you do](http://9gag.com/gag/a87MAz3)
+ - 💣 [Dumb ways to die](http://9gag.com/gag/a6Z79E2)
+ - 😝 [London citizens ascend on police station demanding release of people arrested for sexual assault of English students](http://9gag.com/gag/a2vmDPZ)
+ - 👉 [Are any of you even real?......am i?](http://9gag.com/gag/a7o7VwA)<!-- MEMES:END -->
 
 ---
 

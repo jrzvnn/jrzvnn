@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Build a Hurricane-Proof House](https://www.wired.com/story/hurricane-beryl-proof-housing/)
- - [Australia, backed by the US, the UK, Japan, and other allies, accuses a Chinese state-backed hacking group of targeting government and private sector networks &lpar;Financial Times&rpar;](http://www.techmeme.com/240709/p5#a240709p5)
- - [Amazon announces an updated $79 Echo Spot alarm clock, with a revamped design and improved audio quality, the first update to the device since its 2017 launch &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/240709/p4#a240709p4)
- - [Sam Altman and Arianna Huffington announce Thrive AI Health, a new startup backed by OpenAI and Thrive Global to build a &quot;hyper-personalized AI health coach&quot; &lpar;TIME&rpar;](http://www.techmeme.com/240709/p3#a240709p3)
- - [Best Flip Phone for 2024](https://www.cnet.com/tech/mobile/best-flip-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How the BBC used the iPhone in hundreds of locations to cover the UK election](https://appleinsider.com/articles/24/07/08/how-the-bbc-used-the-iphone-in-hundreds-of-locations-to-cover-the-uk-election?utm_medium=rss)
+ - [Piper Sandler raises Apple target price on promise of AI](https://appleinsider.com/articles/24/07/09/piper-sandler-raises-apple-target-price-on-promise-of-ai?utm_medium=rss)
+ - [Hyundai Ioniq 5 N &lpar;2024&rpar; Review: A Family EV on Steroids](https://www.wired.com/review/hyundai-ioniq-5-n/)
+ - [Most Bed Sheets Are Awash in Harmful Dyes. They Don&#39;t Have to Be](https://www.wired.com/story/aizome-natural-dyes-bed-sheets/)
+ - [How to Build a Hurricane-Proof House](https://www.wired.com/story/hurricane-beryl-proof-housing/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

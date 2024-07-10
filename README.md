@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Everyone Is Trying to Make This TikTok Go Viral—and It Never Will](https://www.wired.com/story/everyone-is-trying-to-make-this-tiktok-go-viral-and-it-never-will/)
- - [Which Motorola Phone Is for You? Pros, Cons, and Features &lpar;2024&rpar;](https://www.wired.com/story/best-motorola-phones/)
- - [Where to watch Samsung’s Galaxy Unpacked event on Wednesday](https://www.theverge.com/2024/7/10/24194483/samsung-galaxy-unpacked-watch-live-stream-start-time)
- - [Thousands of Samsung workers launch indefinite strike over pay](https://www.theverge.com/2024/7/10/24195541/samsung-union-launch-indefinite-strike-ai-chips-pay)
- - [Car nicked from under nose of valet parking, AirTag saves the day](https://appleinsider.com/articles/24/07/10/car-nicked-from-under-nose-of-valet-parking-airtag-saves-the-day?utm_medium=rss)<!-- TECH:END -->
+ - [Add multiple monitors to your MacBook with iVANKY&#39;s FusionDock Prime Day deals](https://appleinsider.com/articles/24/07/10/add-multiple-monitors-to-your-macbook-with-ivankys-fusiondock-prime-day-deals?utm_medium=rss)
+ - [Plastic bins: better than boxes](https://www.theverge.com/24176469/moving-boxes-plastic-bins-cardboard)
+ - [Severance season 2 starts streaming in January — here’s the first teaser](https://www.theverge.com/23268501/severance-season-2-trailer-date-apple-tv-plus)
+ - [Home Loan Rates Decline: Mortgage Rates for July 10, 2024](https://www.cnet.com/personal-finance/mortgages/home-loan-rates-decline-mortgage-rates-for-july-10-2024/#ftag=CAD590a51e)
+ - [AI Can’t Replace Teaching, but It Can Make It Better](https://www.wired.com/story/what-aspects-of-teaching-should-remain-human/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

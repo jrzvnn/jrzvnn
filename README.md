@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US prosecutors say crypto exchange BitMEX pled guilty to one count of Bank Secrecy Act violations by operating without an adequate AML program from 2015 to 2020 &lpar;Brady Dale/Axios&rpar;](http://www.techmeme.com/240710/p35#a240710p35)
  - [Florida has temporarily suspended support for its digital driver&#39;s license app](https://appleinsider.com/articles/24/07/10/florida-has-temporarily-suspended-support-for-its-digital-drivers-license-app?utm_medium=rss)
+ - [Amazon Ramps Up Security to Head Off Project Nimbus Protests](https://www.wired.com/story/aws-summit-nyc-protest-security/)
  - [Hayden AI, which provides vision AI solutions for cities to monitor traffic safety and more, raised a $90M Series C led by TPG&#39;s The Rise Fund &lpar;FinSMEs&rpar;](http://www.techmeme.com/240710/p34#a240710p34)
- - [The Best Online Multiplayer Games of 2024 for Switch, XBox, and PC](https://www.wired.com/gallery/best-online-multiplayer-games/)
- - [The Animal Crossing-inspired Nintendo Switch Lite is down to its best price yet](https://www.theverge.com/2024/7/10/24195708/walmart-nintendo-switch-lite-timmy-tommys-aloha-edition-animal-crossing-deal-sale)
- - [Earned Wealth, which offers wealth management services to medical professionals, raises $200M, and says it has 3,000+ clients and $2B of assets under management &lpar;Valida Pau/Bloomberg&rpar;](http://www.techmeme.com/240710/p33#a240710p33)<!-- TECH:END -->
+ - [The Best Online Multiplayer Games of 2024 for Switch, XBox, and PC](https://www.wired.com/gallery/best-online-multiplayer-games/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

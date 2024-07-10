@@ -168,7 +168,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What to do in this case](http://9gag.com/gag/aMVGzN1)
+ - 😝 [Corporate sponsors now allowed to edit truth. All hail corporate overlords.](http://9gag.com/gag/a4PY2NQ)
  - 😝 [True words aye!](http://9gag.com/gag/ae9GmQQ)
  - 💣 [A YouTuber from Cyprus was elected to the EU Parliament &amp; reveals how much money they are allocated to spend. What do you think, overpaid or underpaid??](http://9gag.com/gag/ae9Gmpj)
  - 😝 [Jim looks great](http://9gag.com/gag/aAy148Z)

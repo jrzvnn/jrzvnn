@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Everyone Is Trying to Make This TikTok Go Viral—and It Never Will](https://www.wired.com/story/everyone-is-trying-to-make-this-tiktok-go-viral-and-it-never-will/)
+ - [Which Motorola Phone Is for You? Pros, Cons, and Features &lpar;2024&rpar;](https://www.wired.com/story/best-motorola-phones/)
  - [Where to watch Samsung’s Galaxy Unpacked event on Wednesday](https://www.theverge.com/2024/7/10/24194483/samsung-galaxy-unpacked-watch-live-stream-start-time)
  - [Thousands of Samsung workers launch indefinite strike over pay](https://www.theverge.com/2024/7/10/24195541/samsung-union-launch-indefinite-strike-ai-chips-pay)
- - [Car nicked from under nose of valet parking, AirTag saves the day](https://appleinsider.com/articles/24/07/10/car-nicked-from-under-nose-of-valet-parking-airtag-saves-the-day?utm_medium=rss)
- - [Google now lets Advanced Protection Program users set up with a single passkey, using Android or iOS biometric authentication, instead of two physical keys &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240710/p12#a240710p12)
- - [Best Target Circle Week Deals: Anti-Prime Day Sale Offers Discounts on Apple, LG and More](https://www.cnet.com/deals/best-target-circle-week-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Car nicked from under nose of valet parking, AirTag saves the day](https://appleinsider.com/articles/24/07/10/car-nicked-from-under-nose-of-valet-parking-airtag-saves-the-day?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

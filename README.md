@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft agrees to buy a record 500K carbon credits from US oil producer Occidental&#39;s 1PointFive to offset its emissions amid the AI energy surge &lpar;Financial Times&rpar;](http://www.techmeme.com/240709/p33#a240709p33)
  - [IDC: global shipments of PCs reached 64.9M units in Q2 2024, up 3% YoY; Apple&#39;s shipments rose 20.8% YoY, the biggest jump among global PC makers &lpar;Harshita Mary Varghese/Reuters&rpar;](http://www.techmeme.com/240709/p32#a240709p32)
  - [Xbox Game Pass: Play Nickelodeon All-Star Brawl 2 Now and More Soon in July](https://www.cnet.com/tech/gaming/xbox-game-pass-play-nickelodeon-all-star-brawl-2-now-and-more-soon-in-july/#ftag=CAD590a51e)
  - [Anthropic now lets developers use Claude 3.5 Sonnet to generate, test, and evaluate their prompts, and adds new features, like generating automatic test cases &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/240709/p31#a240709p31)
- - [Watching &#39;The Boys&#39;? This Prime Video Feature Is a Treat for Fans](https://www.cnet.com/tech/services-and-software/watching-the-boys-this-prime-video-feature-is-a-treat-for-fans/#ftag=CAD590a51e)
- - [Best Office Chairs of 2024](https://www.cnet.com/news/best-office-chairs/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Watching &#39;The Boys&#39;? This Prime Video Feature Is a Treat for Fans](https://www.cnet.com/tech/services-and-software/watching-the-boys-this-prime-video-feature-is-a-treat-for-fans/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hold your horse](http://9gag.com/gag/an7NxO5)
- - 😝 [London citizens descend on the police station to demand the release of people who were arrested for sexual assault of English schoolgirls](http://9gag.com/gag/amo96D4)
- - 💣 [Earth lost one more idiot.](http://9gag.com/gag/aZZMQOz)
- - 😝 [NYC will start to use trash bins. Dudes, they&#39;re living in the future](http://9gag.com/gag/aQz8mm8)
- - 👉 [Trying not to damage another car](http://9gag.com/gag/a9y784o)<!-- MEMES:END -->
+ - 😝 [Smuggling hashish to from Afghanistan to Pakistan](http://9gag.com/gag/aXP97Dd)
+ - 😝 [A completely normal phenomenon](http://9gag.com/gag/aKGq83Q)
+ - 💣 [Pedo teacher busted](http://9gag.com/gag/agmVxq6)
+ - 😝 [Classic](http://9gag.com/gag/a2vmDMd)
+ - 👉 [The Pain..](http://9gag.com/gag/a0ep6rv)<!-- MEMES:END -->
 
 ---
 

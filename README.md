@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dumb ways to die](http://9gag.com/gag/a6Z79E2)
- - 😝 [Normal day in Australia](http://9gag.com/gag/adBjOBj)
- - 💣 [Wouldn&#39;t be surprised](http://9gag.com/gag/a87MDmp)
- - 😝 [The only correct response](http://9gag.com/gag/aAy128R)
- - 👉 [Old Japanese man is shocked to find that white British people have become a minority in London.](http://9gag.com/gag/an7Nnvq)<!-- MEMES:END -->
+ - 😝 [My fellow dark elf](http://9gag.com/gag/a4PYAq1)
+ - 😝 [Trying not to damage another car](http://9gag.com/gag/a9y784o)
+ - 💣 [The only correct response](http://9gag.com/gag/aAy128R)
+ - 😝 [#RIPCartoonNetwork. Corporate greed has led to the destruction of yet another creative powerhouse.](http://9gag.com/gag/a87MDD6)
+ - 👉 [Normal day in Australia](http://9gag.com/gag/adBjOBj)<!-- MEMES:END -->
 
 ---
 

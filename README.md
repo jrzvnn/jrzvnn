@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let me guess... African as king of Rome and put some rap battle music...](http://9gag.com/gag/aoy9npe)
- - 😝 [Earth lost one more idiot.](http://9gag.com/gag/aZZMQOz)
+ - 😝 [Pedo teacher busted](http://9gag.com/gag/agmVxq6)
+ - 😝 [Are any of you even real?......am i?](http://9gag.com/gag/a7o7VwA)
  - 💣 [Moonwalking into Oval](http://9gag.com/gag/aE07OBM)
- - 😝 [There is a reason why they total the car](http://9gag.com/gag/adBje29)
+ - 😝 [And Another One &lpar;link in comments&rpar;](http://9gag.com/gag/aNDn4Qb)
  - 👉 [A completely normal phenomenon](http://9gag.com/gag/aKGq83Q)<!-- MEMES:END -->
 
 ---

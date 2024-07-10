@@ -162,8 +162,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Microsoft and Apple ditch OpenAI board seats amid regulatory scrutiny](https://www.theverge.com/2024/7/10/24195528/microsoft-apple-openai-board-observer-seat-drop-regulator-scrutiny)
  - [Carvana will apply a clean vehicle tax credit at checkout for used EVs](https://www.theverge.com/2024/7/10/24194510/carvana-ev-clean-vehicle-used-previously-owned-tax-credit-discount)
  - [Researchers detail the Blast-RADIUS MD5-based vulnerability affecting RADIUS, a widely-used network access authentication protocol first developed in 1991 &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240710/p8#a240710p8)
- - [Motorola Razr Plus Review: A Blast From the Past With Modern Twists](https://www.cnet.com/tech/mobile/motorola-razr-plus-review-a-blast-from-the-past-with-modern-twists/#ftag=CAD590a51e)
- - [A profile of Lee Saedol, an 18-time Go world champion who was beaten by Google DeepMind&#39;s AlphaGo in 2016 and now gives lectures about AI after retiring in 2019 &lpar;New York Times&rpar;](http://www.techmeme.com/240710/p7#a240710p7)<!-- TECH:END -->
+ - [A profile of Lee Saedol, an 18-time Go world champion who was beaten by Google DeepMind&#39;s AlphaGo in 2016 and now gives lectures about AI after retiring in 2019 &lpar;New York Times&rpar;](http://www.techmeme.com/240710/p7#a240710p7)
+ - [A look at the rise of algorithmic trading in currency markets: ~50% of hedge funds are using the tech for FX trading in 2024, up from 22% before the pandemic &lpar;Bloomberg&rpar;](http://www.techmeme.com/240710/p6#a240710p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

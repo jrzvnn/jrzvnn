@@ -162,8 +162,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [This MacBook Air with 16GB RAM, 512GB SSD is on sale for $1,249, the lowest price ever](https://appleinsider.com/articles/24/07/10/this-macbook-air-with-16gb-ram-512gb-ssd-is-on-sale-for-1249-the-lowest-price-ever?utm_medium=rss)
  - [Google says it has stopped purchasing carbon offsets and is no longer maintaining operational carbon neutrality, but still aims to reach net-zero carbon by 2030 &lpar;Akshat Rathi/Bloomberg&rpar;](http://www.techmeme.com/240709/p35#a240709p35)
  - [Samsung Electronics&#39;s union workers declare an indefinite strike on the final day of a three-day walkout and say management showed no intention of holding talks &lpar;Kwanwoo Jun/Wall Street Journal&rpar;](http://www.techmeme.com/240709/p34#a240709p34)
- - [How to refurbish and restore the original Apple TV](https://appleinsider.com/inside/apple-tv/tips/how-to-refurbish-and-restore-the-original-apple-tv?utm_medium=rss)
- - [Microsoft agrees to buy a record 500K carbon credits from US oil producer Occidental&#39;s 1PointFive to offset its emissions amid the AI energy surge &lpar;Financial Times&rpar;](http://www.techmeme.com/240709/p33#a240709p33)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for July 10, #395](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-10-395/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for July 10, #129](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-10-129/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An investigation finds Airbnb fails to protect its guests from hidden cameras and moves swiftly to contain user complaints and resolve them out of court &lpar;CNN&rpar;](http://www.techmeme.com/240710/p4#a240710p4)
  - [Source: Apple is not taking an observer role on OpenAI&#39;s board; OpenAI says it will host regular meetings with investors and partners like Microsoft and Apple &lpar;Financial Times&rpar;](http://www.techmeme.com/240710/p3#a240710p3)
  - [Microsoft gives up an observer seat on OpenAI&#39;s board, saying it has seen &quot;significant progress&quot; from the new board and is &quot;confident&quot; in OpenAI&#39;s direction &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/240710/p2#a240710p2)
  - [Index Ventures, an early investor in Mistral and Cohere, closed $2.3B to chase AI breakthroughs and says that 50%+ of its recent investments have been in AI &lpar;Financial Times&rpar;](http://www.techmeme.com/240710/p1#a240710p1)
- - [Best Space Heaters in 2024](https://www.cnet.com/home/kitchen-and-household/best-space-heater/#ftag=CAD590a51e)
- - [Best Chest Strap Heart-Rate Monitors for 2024](https://www.cnet.com/health/fitness/best-chest-strap-heart-rate-monitors/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Space Heaters in 2024](https://www.cnet.com/home/kitchen-and-household/best-space-heater/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

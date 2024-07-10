@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Classic](http://9gag.com/gag/a2vmDMd)
+ - 😝 [NYC will start to use trash bins. Dudes, they&#39;re living in the future](http://9gag.com/gag/aQz8mm8)
+ - 💣 [Are any of you even real?......am i?](http://9gag.com/gag/a7o7VwA)
  - 😝 [Moonwalking into Oval](http://9gag.com/gag/aE07OBM)
- - 😝 [Ivy League Graduates](http://9gag.com/gag/a1mM2GY)
- - 💣 [The only correct response](http://9gag.com/gag/aAy128R)
- - 😝 [Ok just sign here please first](http://9gag.com/gag/a6Z7pAm)
- - 👉 [A sweet ride.](http://9gag.com/gag/axyjPyW)<!-- MEMES:END -->
+ - 👉 [And Another One &lpar;link in comments&rpar;](http://9gag.com/gag/aNDn4Qb)<!-- MEMES:END -->
 
 ---
 

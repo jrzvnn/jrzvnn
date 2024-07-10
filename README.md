@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Smuggling hashish to from Afghanistan to Pakistan](http://9gag.com/gag/aXP97Dd)
- - 😝 [A completely normal phenomenon](http://9gag.com/gag/aKGq83Q)
- - 💣 [Pedo teacher busted](http://9gag.com/gag/agmVxq6)
- - 😝 [Classic](http://9gag.com/gag/a2vmDMd)
- - 👉 [The Pain..](http://9gag.com/gag/a0ep6rv)<!-- MEMES:END -->
+ - 😝 [NYC will start to use trash bins. Dudes, they&#39;re living in the future](http://9gag.com/gag/aQz8mm8)
+ - 😝 [There&#39;s still hope my dudes!](http://9gag.com/gag/awyxm9R)
+ - 💣 [The only correct response](http://9gag.com/gag/aAy128R)
+ - 😝 [Pedo teacher busted](http://9gag.com/gag/agmVxq6)
+ - 👉 [Classic](http://9gag.com/gag/a2vmDMd)<!-- MEMES:END -->
 
 ---
 

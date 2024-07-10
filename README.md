@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Earth lost one more idiot.](http://9gag.com/gag/aZZMQOz)
+ - 😝 [Good citizen bonus](http://9gag.com/gag/a4PYNvw)
+ - 😝 [NYC will start to use trash bins. Dudes, they&#39;re living in the future](http://9gag.com/gag/aQz8mm8)
+ - 💣 [Earth lost one more idiot.](http://9gag.com/gag/aZZMQOz)
  - 😝 [So many questions. What is this disgusting sport? Where is it? How do I sign up?](http://9gag.com/gag/aXP922P)
- - 💣 [Are any of you even real?......am i?](http://9gag.com/gag/a7o7VwA)
- - 😝 [What to do in this case](http://9gag.com/gag/aMVGzN1)
- - 👉 [Pedo teacher busted](http://9gag.com/gag/agmVxq6)<!-- MEMES:END -->
+ - 👉 [London citizens descend on the police station to demand the release of people who were arrested for sexual assault of English schoolgirls](http://9gag.com/gag/amo96D4)<!-- MEMES:END -->
 
 ---
 

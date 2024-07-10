@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US judge rules in favor of X in a lawsuit alleging X owes $500M+ in severance pay to ~6,000 laid-off staff, saying the claims were not covered under ERISA &lpar;Robert Burnson/Bloomberg&rpar;](http://www.techmeme.com/240710/p9#a240710p9)
- - [Microsoft and Apple ditch OpenAI board seats amid regulatory scrutiny](https://www.theverge.com/2024/7/10/24195528/microsoft-apple-openai-board-observer-seat-drop-regulator-scrutiny)
- - [Carvana will apply a clean vehicle tax credit at checkout for used EVs](https://www.theverge.com/2024/7/10/24194510/carvana-ev-clean-vehicle-used-previously-owned-tax-credit-discount)
- - [Researchers detail the Blast-RADIUS MD5-based vulnerability affecting RADIUS, a widely-used network access authentication protocol first developed in 1991 &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240710/p8#a240710p8)
- - [Motorola Razr Plus Review: A Blast From the Past With Modern Twists](https://www.cnet.com/tech/mobile/motorola-razr-plus-review-a-blast-from-the-past-with-modern-twists/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon reaches its goal of 100% clean energy in 2023 seven years ahead of schedule, after investing in 500+ solar and wind projects, but experts are skeptical &lpar;New York Times&rpar;](http://www.techmeme.com/240710/p11#a240710p11)
+ - [Apple probably isn&#39;t taking a seat on OpenAI&#39;s board after all](https://appleinsider.com/articles/24/07/10/apple-probably-isnt-taking-a-seat-on-openais-board-after-all?utm_medium=rss)
+ - [You can now protect your high-risk Google account with just your phone](https://www.theverge.com/2024/7/10/24195306/google-accounts-advanced-protection-passkey-enrollment-support-security-key)
+ - [Elliptic finds a Cambodian online market offering the crypto scam industry products and services, including money laundering and victim data, with $11B in sales &lpar;Wired&rpar;](http://www.techmeme.com/240710/p10#a240710p10)
+ - [A US judge rules in favor of X in a lawsuit alleging X owes $500M+ in severance pay to ~6,000 laid-off staff, saying the claims were not covered under ERISA &lpar;Robert Burnson/Bloomberg&rpar;](http://www.techmeme.com/240710/p9#a240710p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

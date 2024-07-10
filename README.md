@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Galaxy Unpacked: all the news on the summer product event](https://www.theverge.com/2024/7/10/24194881/samsung-galaxy-unpacked-ring-ai-z-fold-6-flip-watch-7-ultra-buds)
+ - [How to move a smart home](https://www.theverge.com/24184716/moving-smart-home-tech-setup)
+ - [iPhone 16 fast charging could get a 40W boost](https://appleinsider.com/articles/24/07/10/iphone-16-fast-charging-could-get-a-40w-boost?utm_medium=rss)
  - [Add multiple monitors to your MacBook with iVANKY&#39;s FusionDock Prime Day deals](https://appleinsider.com/articles/24/07/10/add-multiple-monitors-to-your-macbook-with-ivankys-fusiondock-prime-day-deals?utm_medium=rss)
- - [Plastic bins: better than boxes](https://www.theverge.com/24176469/moving-boxes-plastic-bins-cardboard)
- - [Severance season 2 starts streaming in January — here’s the first teaser](https://www.theverge.com/23268501/severance-season-2-trailer-date-apple-tv-plus)
- - [Home Loan Rates Decline: Mortgage Rates for July 10, 2024](https://www.cnet.com/personal-finance/mortgages/home-loan-rates-decline-mortgage-rates-for-july-10-2024/#ftag=CAD590a51e)
- - [AI Can’t Replace Teaching, but It Can Make It Better](https://www.wired.com/story/what-aspects-of-teaching-should-remain-human/)<!-- TECH:END -->
+ - [Plastic bins: better than boxes](https://www.theverge.com/24176469/moving-boxes-plastic-bins-cardboard)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

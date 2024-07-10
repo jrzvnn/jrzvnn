@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Germany agrees a compromise proposal to strip Huawei components from the 5G core mobile network by the end of 2026; sources say companies have until 2029 &lpar;Michael Nienaber/Bloomberg&rpar;](http://www.techmeme.com/240710/p27#a240710p27)
  - [Best Buy challenges Amazon Prime Day with $799 M2 MacBook Air deal](https://appleinsider.com/articles/24/07/10/best-buy-challenges-amazon-prime-day-with-799-m2-macbook-air-deal?utm_medium=rss)
  - [FTC source: Microsoft ditching its OpenAI board observer seat is unlikely to resolve the FTC&#39;s concerns, as the agency conducts an antitrust review of AI deals &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240710/p26#a240710p26)
  - [Samsung&#39;s Galaxy Ring is out, but it won&#39;t be a problem for the Apple Ring](https://appleinsider.com/articles/24/07/10/samsungs-galaxy-ring-is-out-but-it-wont-be-a-problem-for-the-apple-ring?utm_medium=rss)
- - [The first all-quadriplegic esports team levels the playing field](https://www.theverge.com/24195198/quad-gods-documentary-jess-jacklin-interview)
- - [Microsoft and trade group CISPE agree a deal to settle CISPE&#39;s antitrust complaint; CISPE members can run software on Azure at prices equivalent to Microsoft&#39;s &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240710/p25#a240710p25)<!-- TECH:END -->
+ - [The first all-quadriplegic esports team levels the playing field](https://www.theverge.com/24195198/quad-gods-documentary-jess-jacklin-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

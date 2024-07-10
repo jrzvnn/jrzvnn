@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is there a level above Field Marshal?](http://9gag.com/gag/aW4673K)
- - 😝 [Futuristic HDMI Hologram for 3D modeling](http://9gag.com/gag/a9y7vDZ)
- - 💣 [Wouldn&#39;t be surprised](http://9gag.com/gag/a87MDmp)
- - 😝 [My fellow dark elf](http://9gag.com/gag/a4PYAq1)
- - 👉 [NYC will start to use trash bins. Dudes, they&#39;re living in the future](http://9gag.com/gag/aQz8mm8)<!-- MEMES:END -->
+ - 😝 [What to do in this case](http://9gag.com/gag/aMVGzN1)
+ - 😝 [Pedo teacher busted](http://9gag.com/gag/agmVxq6)
+ - 💣 [A completely normal phenomenon](http://9gag.com/gag/aKGq83Q)
+ - 😝 [#RIPCartoonNetwork. Corporate greed has led to the destruction of yet another creative powerhouse.](http://9gag.com/gag/a87MDD6)
+ - 👉 [My fellow dark elf](http://9gag.com/gag/a4PYAq1)<!-- MEMES:END -->
 
 ---
 

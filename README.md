@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Buy challenges Amazon Prime Day with $799 M2 MacBook Air deal](https://appleinsider.com/articles/24/07/10/best-buy-challenges-amazon-prime-day-with-799-m2-macbook-air-deal?utm_medium=rss)
+ - [FTC source: Microsoft ditching its OpenAI board observer seat is unlikely to resolve the FTC&#39;s concerns, as the agency conducts an antitrust review of AI deals &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240710/p26#a240710p26)
  - [Samsung&#39;s Galaxy Ring is out, but it won&#39;t be a problem for the Apple Ring](https://appleinsider.com/articles/24/07/10/samsungs-galaxy-ring-is-out-but-it-wont-be-a-problem-for-the-apple-ring?utm_medium=rss)
  - [The first all-quadriplegic esports team levels the playing field](https://www.theverge.com/24195198/quad-gods-documentary-jess-jacklin-interview)
- - [Microsoft and trade group CISPE agree a deal to settle CISPE&#39;s antitrust complaint; CISPE members can run software on Azure at prices equivalent to Microsoft&#39;s &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240710/p25#a240710p25)
- - [You Can Score an Instant $200 Amazon Gift Card Before Prime Day. Here&#39;s How](https://www.cnet.com/personal-finance/credit-cards/get-a-200-dollar-amazon-gift-card-in-time-for-prime-day/#ftag=CAD590a51e)
- - [Mortgage Rates Dip Below 7% Ahead of Key Inflation Report. Today&#39;s Mortgage Rates on July 10, 2024](https://www.cnet.com/personal-finance/home-loan-rates-decline-mortgage-rates-for-july-10-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft and trade group CISPE agree a deal to settle CISPE&#39;s antitrust complaint; CISPE members can run software on Azure at prices equivalent to Microsoft&#39;s &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240710/p25#a240710p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

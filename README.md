@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So many questions. What is this disgusting sport? Where is it? How do I sign up?](http://9gag.com/gag/aXP922P)
- - 😝 [Wouldn&#39;t be surprised](http://9gag.com/gag/a87MDmp)
- - 💣 [A YouTuber from Cyprus was elected to the EU Parliament &amp; reveals how much money they are allocated to spend. What do you think, overpaid or underpaid??](http://9gag.com/gag/ae9Gmpj)
- - 😝 [Classic](http://9gag.com/gag/a2vmDMd)
- - 👉 [NYC will start to use trash bins. Dudes, they&#39;re living in the future](http://9gag.com/gag/aQz8mm8)<!-- MEMES:END -->
+ - 😝 [My fellow dark elf](http://9gag.com/gag/a4PYAq1)
+ - 😝 [Traditional vs madonna](http://9gag.com/gag/aByYVBx)
+ - 💣 [They used real person for this scene](http://9gag.com/gag/apRvAVb)
+ - 😝 [Subtle, but effective](http://9gag.com/gag/a0epnjO)
+ - 👉 [Are any of you even real?......am i?](http://9gag.com/gag/a7o7VwA)<!-- MEMES:END -->
 
 ---
 

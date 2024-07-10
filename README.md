@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft and trade group CISPE agree a deal to settle CISPE&#39;s antitrust complaint; CISPE members can run software on Azure at prices equivalent to Microsoft&#39;s &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240710/p25#a240710p25)
  - [Hyundai dealers pressured to push ‘fake’ EV sales, lawsuit alleges](https://www.theverge.com/2024/7/10/24195650/hyundai-fake-ev-sales-dealer-lawsuit)
  - [How to preorder Samsung’s Galaxy Watch 7, Galaxy Watch Ultra, and the Galaxy Ring](https://www.theverge.com/2024/7/10/24194952/samsung-galaxy-watch-7-ring-ultra-preorder-buy-price-availability-release-date)
  - [Cherry-picked data claims Apple is beating Samsung in Europe](https://appleinsider.com/articles/24/07/10/cherry-picked-data-claims-apple-is-beating-samsung-in-europe?utm_medium=rss)
- - [Samsung Galaxy Unpacked: everything announced at the July 2024 event](https://www.theverge.com/2024/7/10/24194881/samsung-galaxy-unpacked-ring-ai-z-fold-6-flip-watch-7-ultra-buds)
- - [Apple Silicon Macs are staying in use longer than Intel Macs](https://appleinsider.com/articles/24/07/10/apple-silicon-macs-are-staying-in-use-longer-than-intel-macs?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung Galaxy Unpacked: everything announced at the July 2024 event](https://www.theverge.com/2024/7/10/24194881/samsung-galaxy-unpacked-ring-ai-z-fold-6-flip-watch-7-ultra-buds)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wow](http://9gag.com/gag/aVvPVe8)
- - 😝 [Chinese recipe.](http://9gag.com/gag/apRvAxE)
- - 💣 [What was that!](http://9gag.com/gag/axyjRLn)
- - 😝 [Ivy League Graduates](http://9gag.com/gag/a1mM2GY)
- - 👉 [Enough is enough](http://9gag.com/gag/avyPxmd)<!-- MEMES:END -->
+ - 😝 [So many questions. What is this disgusting sport? Where is it? How do I sign up?](http://9gag.com/gag/aXP922P)
+ - 😝 [Trying not to damage another car](http://9gag.com/gag/a9y784o)
+ - 💣 [There is a reason why they total the car](http://9gag.com/gag/adBje29)
+ - 😝 [Moonwalking into Oval](http://9gag.com/gag/aE07OBM)
+ - 👉 [Unexpected](http://9gag.com/gag/abA0BgE)<!-- MEMES:END -->
 
 ---
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A completely normal phenomenon](http://9gag.com/gag/aKGq83Q)
- - 😝 [#RIPCartoonNetwork. Corporate greed has led to the destruction of yet another creative powerhouse.](http://9gag.com/gag/a87MDD6)
- - 💣 [So many questions. What is this disgusting sport? Where is it? How do I sign up?](http://9gag.com/gag/aXP922P)
+ - 😝 [So many questions. What is this disgusting sport? Where is it? How do I sign up?](http://9gag.com/gag/aXP922P)
  - 😝 [The only correct response](http://9gag.com/gag/aAy128R)
- - 👉 [And Another One &lpar;link in comments&rpar;](http://9gag.com/gag/aNDn4Qb)<!-- MEMES:END -->
+ - 💣 [What to do in this case](http://9gag.com/gag/aMVGzN1)
+ - 😝 [London citizens descend on the police station to demand the release of people who were arrested for sexual assault of English schoolgirls](http://9gag.com/gag/amo96D4)
+ - 👉 [Are any of you even real?......am i?](http://9gag.com/gag/a7o7VwA)<!-- MEMES:END -->
 
 ---
 

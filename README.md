@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wow](http://9gag.com/gag/aVvPVe8)
- - 😝 [Free Trade vs Reciprocity](http://9gag.com/gag/aKGqY0O)
- - 💣 [Historically accurate](http://9gag.com/gag/awyxY1Q)
- - 😝 [Ok just sign here please first](http://9gag.com/gag/a6Z7pAm)
- - 👉 [Kids learn best from the wise](http://9gag.com/gag/aW46bdx)<!-- MEMES:END -->
+ - 😝 [Wouldn&#39;t be surprised](http://9gag.com/gag/a87MDmp)
+ - 😝 [My fellow dark elf](http://9gag.com/gag/a4PYAq1)
+ - 💣 [There is a reason why they total the car](http://9gag.com/gag/adBje29)
+ - 😝 [Moonwalking into Oval](http://9gag.com/gag/aE07OBM)
+ - 👉 [Bruce Lee way of punching demonstrated by Aaron Allen, the former bodyguard of Tupac Shakur](http://9gag.com/gag/ae9G745)<!-- MEMES:END -->
 
 ---
 

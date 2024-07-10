@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CNN announces more layoffs as it preps for a future beyond cable TV](https://www.theverge.com/2024/7/10/24195705/cnn-layoffs-mark-thompson-max-cable-tv)
  - [Third macOS Sequoia developer beta arrives, two days after the rest](https://appleinsider.com/articles/24/07/10/apple-slowly-brings-out-the-third-macos-sequoia-developer-beta?utm_medium=rss)
  - [Bose is adding multipoint pairing to its latest earbuds](https://www.theverge.com/2024/7/10/24195845/bose-quietcomfort-ultra-open-multipoint-now-available)
  - [OpenAI and Los Alamos National Laboratory announce a partnership to evaluate how multimodal AI models can be used safely by scientists in laboratory settings &lpar;Evan Gorelick/Bloomberg&rpar;](http://www.techmeme.com/240710/p29#a240710p29)
- - [Apple Intelligence is inching closer to beta testing](https://appleinsider.com/articles/24/07/10/apple-intelligence-is-inching-closer-to-beta-testing?utm_medium=rss)
- - [Galaxy S22 Deals: Save Big When Trading In an Old Phone](https://www.cnet.com/deals/where-to-buy-galaxy-s22-preorder-deals-for-samsungs-newest-phones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Intelligence is inching closer to beta testing](https://appleinsider.com/articles/24/07/10/apple-intelligence-is-inching-closer-to-beta-testing?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This MacBook Air with 16GB RAM, 512GB SSD is on sale for $1,249, the lowest price ever](https://appleinsider.com/articles/24/07/10/this-macbook-air-with-16gb-ram-512gb-ssd-is-on-sale-for-1249-the-lowest-price-ever?utm_medium=rss)
+ - [Google says it has stopped purchasing carbon offsets and is no longer maintaining operational carbon neutrality, but still aims to reach net-zero carbon by 2030 &lpar;Akshat Rathi/Bloomberg&rpar;](http://www.techmeme.com/240709/p35#a240709p35)
  - [Samsung Electronics&#39;s union workers declare an indefinite strike on the final day of a three-day walkout and say management showed no intention of holding talks &lpar;Kwanwoo Jun/Wall Street Journal&rpar;](http://www.techmeme.com/240709/p34#a240709p34)
  - [How to refurbish and restore the original Apple TV](https://appleinsider.com/inside/apple-tv/tips/how-to-refurbish-and-restore-the-original-apple-tv?utm_medium=rss)
- - [Microsoft agrees to buy a record 500K carbon credits from US oil producer Occidental&#39;s 1PointFive to offset its emissions amid the AI energy surge &lpar;Financial Times&rpar;](http://www.techmeme.com/240709/p33#a240709p33)
- - [IDC: global shipments of PCs reached 64.9M units in Q2 2024, up 3% YoY; Apple&#39;s shipments rose 20.8% YoY, the biggest jump among global PC makers &lpar;Harshita Mary Varghese/Reuters&rpar;](http://www.techmeme.com/240709/p32#a240709p32)
- - [Xbox Game Pass: Play Nickelodeon All-Star Brawl 2 Now and More Soon in July](https://www.cnet.com/tech/gaming/xbox-game-pass-play-nickelodeon-all-star-brawl-2-now-and-more-soon-in-july/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft agrees to buy a record 500K carbon credits from US oil producer Occidental&#39;s 1PointFive to offset its emissions amid the AI energy surge &lpar;Financial Times&rpar;](http://www.techmeme.com/240709/p33#a240709p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

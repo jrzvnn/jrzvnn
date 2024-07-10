@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A completely normal phenomenon](http://9gag.com/gag/aKGq83Q)
+ - 😝 [Classic](http://9gag.com/gag/a2vmDMd)
  - 😝 [What to do in this case](http://9gag.com/gag/aMVGzN1)
- - 💣 [Oh..](http://9gag.com/gag/aByYVbZ)
- - 😝 [Normal day in Australia](http://9gag.com/gag/adBjOBj)
- - 👉 [A YouTuber from Cyprus was elected to the EU Parliament &amp; reveals how much money they are allocated to spend. What do you think, overpaid or underpaid??](http://9gag.com/gag/ae9Gmpj)<!-- MEMES:END -->
+ - 💣 [Go go go!](http://9gag.com/gag/aD2onbw)
+ - 😝 [Trying not to damage another car](http://9gag.com/gag/a9y784o)
+ - 👉 [Good citizen bonus](http://9gag.com/gag/a4PYNvw)<!-- MEMES:END -->
 
 ---
 

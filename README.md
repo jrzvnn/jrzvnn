@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Classic](http://9gag.com/gag/a2vmDMd)
- - 😝 [What to do in this case](http://9gag.com/gag/aMVGzN1)
- - 💣 [Go go go!](http://9gag.com/gag/aD2onbw)
- - 😝 [Trying not to damage another car](http://9gag.com/gag/a9y784o)
- - 👉 [Good citizen bonus](http://9gag.com/gag/a4PYNvw)<!-- MEMES:END -->
+ - 😝 [London citizens descend on the police station to demand the release of people who were arrested for sexual assault of English schoolgirls](http://9gag.com/gag/amo96D4)
+ - 😝 [Hold your horse](http://9gag.com/gag/an7NxO5)
+ - 💣 [A YouTuber from Cyprus was elected to the EU Parliament &amp; reveals how much money they are allocated to spend. What do you think, overpaid or underpaid??](http://9gag.com/gag/ae9Gmpj)
+ - 😝 [Pedo teacher busted](http://9gag.com/gag/agmVxq6)
+ - 👉 [Whats that?](http://9gag.com/gag/aZZM2p6)<!-- MEMES:END -->
 
 ---
 

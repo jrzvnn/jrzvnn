@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hyundai dealers pressured to push ‘fake’ EV sales, lawsuit alleges](https://www.theverge.com/2024/7/10/24195650/hyundai-fake-ev-sales-dealer-lawsuit)
+ - [How to preorder Samsung’s Galaxy Watch 7, Galaxy Watch Ultra, and the Galaxy Ring](https://www.theverge.com/2024/7/10/24194952/samsung-galaxy-watch-7-ring-ultra-preorder-buy-price-availability-release-date)
  - [Cherry-picked data claims Apple is beating Samsung in Europe](https://appleinsider.com/articles/24/07/10/cherry-picked-data-claims-apple-is-beating-samsung-in-europe?utm_medium=rss)
  - [Samsung Galaxy Unpacked: everything announced at the July 2024 event](https://www.theverge.com/2024/7/10/24194881/samsung-galaxy-unpacked-ring-ai-z-fold-6-flip-watch-7-ultra-buds)
- - [Apple Silicon Macs are staying in use longer than Intel Macs](https://appleinsider.com/articles/24/07/10/apple-silicon-macs-are-staying-in-use-longer-than-intel-macs?utm_medium=rss)
- - [AMD agrees to buy Helsinki-based Silo AI, which offers tailored AI models and platforms to enterprise customers, for $665M in cash; Silo has a 300-person team &lpar;Financial Times&rpar;](http://www.techmeme.com/240710/p24#a240710p24)
- - [The aftermath of the Supreme Court’s NetChoice ruling](https://www.theverge.com/24195235/scotus-netchoice-kosa-kids-safety-age-verification-tiktok-ban)<!-- TECH:END -->
+ - [Apple Silicon Macs are staying in use longer than Intel Macs](https://appleinsider.com/articles/24/07/10/apple-silicon-macs-are-staying-in-use-longer-than-intel-macs?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

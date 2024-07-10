@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My fellow dark elf](http://9gag.com/gag/a4PYAq1)
- - 😝 [Traditional vs madonna](http://9gag.com/gag/aByYVBx)
- - 💣 [They used real person for this scene](http://9gag.com/gag/apRvAVb)
- - 😝 [Subtle, but effective](http://9gag.com/gag/a0epnjO)
- - 👉 [Are any of you even real?......am i?](http://9gag.com/gag/a7o7VwA)<!-- MEMES:END -->
+ - 😝 [A YouTuber from Cyprus was elected to the EU Parliament &amp; reveals how much money they are allocated to spend. What do you think, overpaid or underpaid??](http://9gag.com/gag/ae9Gmpj)
+ - 😝 [Whats that?](http://9gag.com/gag/aZZM2p6)
+ - 💣 [My fellow dark elf](http://9gag.com/gag/a4PYAq1)
+ - 😝 [Umm wtf?](http://9gag.com/gag/a87MDx1)
+ - 👉 [Earth lost one more idiot.](http://9gag.com/gag/aZZMQOz)<!-- MEMES:END -->
 
 ---
 

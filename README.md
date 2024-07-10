@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Earth lost one more idiot.](http://9gag.com/gag/aZZMQOz)
- - 😝 [Classic](http://9gag.com/gag/a2vmDMd)
- - 💣 [Trevor](http://9gag.com/gag/a9y7DYL)
+ - 😝 [Enough is enough](http://9gag.com/gag/avyPxmd)
+ - 😝 [Historically accurate](http://9gag.com/gag/awyxY1Q)
+ - 💣 [Kids learn best from the wise](http://9gag.com/gag/aW46bdx)
  - 😝 [Let me guess... African as king of Rome and put some rap battle music...](http://9gag.com/gag/aoy9npe)
- - 👉 [Umm wtf?](http://9gag.com/gag/a87MDx1)<!-- MEMES:END -->
+ - 👉 [Trevor](http://9gag.com/gag/a9y7DYL)<!-- MEMES:END -->
 
 ---
 

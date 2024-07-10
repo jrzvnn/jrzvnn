@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My fellow dark elf](http://9gag.com/gag/a4PYAq1)
- - 😝 [Trying not to damage another car](http://9gag.com/gag/a9y784o)
- - 💣 [The only correct response](http://9gag.com/gag/aAy128R)
+ - 😝 [Earth lost one more idiot.](http://9gag.com/gag/aZZMQOz)
+ - 😝 [The only correct response](http://9gag.com/gag/aAy128R)
+ - 💣 [My fellow dark elf](http://9gag.com/gag/a4PYAq1)
  - 😝 [#RIPCartoonNetwork. Corporate greed has led to the destruction of yet another creative powerhouse.](http://9gag.com/gag/a87MDD6)
- - 👉 [Normal day in Australia](http://9gag.com/gag/adBjOBj)<!-- MEMES:END -->
+ - 👉 [A YouTuber from Cyprus was elected to the EU Parliament &amp; reveals how much money they are allocated to spend. What do you think, overpaid or underpaid??](http://9gag.com/gag/ae9Gmpj)<!-- MEMES:END -->
 
 ---
 

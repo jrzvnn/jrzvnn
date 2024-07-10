@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Are any of you even real?......am i?](http://9gag.com/gag/a7o7VwA)
- - 😝 [Facts](http://9gag.com/gag/aLn2GNx)
- - 💣 [#RIPCartoonNetwork. Corporate greed has led to the destruction of yet another creative powerhouse.](http://9gag.com/gag/a87MDD6)
- - 😝 [What to do in this case](http://9gag.com/gag/aMVGzN1)
- - 👉 [In UK Mohammed Umar and Mohammed Hassan attempted to rape 14 year old British girls but got arrested](http://9gag.com/gag/aoy9L02)<!-- MEMES:END -->
+ - 😝 [London citizens descend on the police station to demand the release of people who were arrested for sexual assault of English schoolgirls](http://9gag.com/gag/amo96D4)
+ - 😝 [NYC will start to use trash bins. Dudes, they&#39;re living in the future](http://9gag.com/gag/aQz8mm8)
+ - 💣 [A YouTuber from Cyprus was elected to the EU Parliament &amp; reveals how much money they are allocated to spend. What do you think, overpaid or underpaid??](http://9gag.com/gag/ae9Gmpj)
+ - 😝 [Classic](http://9gag.com/gag/a2vmDMd)
+ - 👉 [The only correct response](http://9gag.com/gag/aAy128R)<!-- MEMES:END -->
 
 ---
 

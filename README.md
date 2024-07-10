@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Florida has temporarily suspended support for its digital driver&#39;s license app](https://appleinsider.com/articles/24/07/10/florida-has-temporarily-suspended-support-for-its-digital-drivers-license-app?utm_medium=rss)
+ - [Hayden AI, which provides vision AI solutions for cities to monitor traffic safety and more, raised a $90M Series C led by TPG&#39;s The Rise Fund &lpar;FinSMEs&rpar;](http://www.techmeme.com/240710/p34#a240710p34)
+ - [The Best Online Multiplayer Games of 2024 for Switch, XBox, and PC](https://www.wired.com/gallery/best-online-multiplayer-games/)
  - [The Animal Crossing-inspired Nintendo Switch Lite is down to its best price yet](https://www.theverge.com/2024/7/10/24195708/walmart-nintendo-switch-lite-timmy-tommys-aloha-edition-animal-crossing-deal-sale)
- - [Earned Wealth, which offers wealth management services to medical professionals, raises $200M, and says it has 3,000+ clients and $2B of assets under management &lpar;Valida Pau/Bloomberg&rpar;](http://www.techmeme.com/240710/p33#a240710p33)
- - [iPhone 16 fast charging could get a 40W boost](https://appleinsider.com/articles/24/07/10/iphone-16-fast-charging-could-get-a-40w-boost?utm_medium=rss)
- - [Delta’s latest update lets iPad users emulate multiple games at once](https://www.theverge.com/2024/7/10/24195591/delta-ios-update-retro-gaming-emulator-ipad-support-logo)
- - [CNET&#39;s Samsung Unpacked Watch Party Recap: Galaxy Ring&#39;s Big Reveal](https://www.cnet.com/tech/mobile/cnets-samsung-unpacked-watch-party-recap-galaxy-rings-big-reveal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Earned Wealth, which offers wealth management services to medical professionals, raises $200M, and says it has 3,000+ clients and $2B of assets under management &lpar;Valida Pau/Bloomberg&rpar;](http://www.techmeme.com/240710/p33#a240710p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

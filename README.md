@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon’s carbon emissions fell last year](https://www.theverge.com/2024/7/10/24195707/amazons-carbon-emissions-fell-last-year)
+ - [Apple is ramping up for a big iPhone 16 sales boost thanks to Apple Intelligence](https://appleinsider.com/articles/24/07/10/apple-is-ramping-up-for-a-big-iphone-16-sales-boost-thanks-to-apple-intelligence?utm_medium=rss)
  - [Sources: Alphabet shelves efforts to acquire HubSpot after the sides failed to reach the point of detailed discussions around due diligence; HUBS plunges 10%+ &lpar;Ryan Gould/Bloomberg&rpar;](http://www.techmeme.com/240710/p31#a240710p31)
  - [Switching from Google Photos to iCloud is about to be a lot less painful](https://www.theverge.com/2024/7/10/24195796/google-photos-transfer-to-icloud)
- - [Microsoft has nine months to stop another antitrust battle from escalating](https://www.theverge.com/2024/7/10/24195772/microsofts-cloud-licensing-deal-cispe-eu-antitrust)
- - [AWS launches App Studio in public preview, which is a generative AI-powered service allowing enterprise users to create internal apps using text prompts &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/240710/p30#a240710p30)
- - [Hint for July 10 Wordle, #1117, Might Make You Think of Scary Movies](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-10-1117/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft has nine months to stop another antitrust battle from escalating](https://www.theverge.com/2024/7/10/24195772/microsofts-cloud-licensing-deal-cispe-eu-antitrust)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

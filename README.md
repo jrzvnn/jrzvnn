@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AWS launches App Studio in public preview, which is a generative AI-powered service allowing enterprise users to create internal apps using text prompts &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/240710/p30#a240710p30)
+ - [Ford’s Capri slaps another old name on a new EV](https://www.theverge.com/2024/7/10/24195756/ford-capri-ev-crossover-announce-europe)
  - [CNN announces more layoffs as it preps for a future beyond cable TV](https://www.theverge.com/2024/7/10/24195705/cnn-layoffs-mark-thompson-max-cable-tv)
  - [Third macOS Sequoia developer beta arrives, two days after the rest](https://appleinsider.com/articles/24/07/10/apple-slowly-brings-out-the-third-macos-sequoia-developer-beta?utm_medium=rss)
- - [Bose is adding multipoint pairing to its latest earbuds](https://www.theverge.com/2024/7/10/24195845/bose-quietcomfort-ultra-open-multipoint-now-available)
- - [OpenAI and Los Alamos National Laboratory announce a partnership to evaluate how multimodal AI models can be used safely by scientists in laboratory settings &lpar;Evan Gorelick/Bloomberg&rpar;](http://www.techmeme.com/240710/p29#a240710p29)
- - [Apple Intelligence is inching closer to beta testing](https://appleinsider.com/articles/24/07/10/apple-intelligence-is-inching-closer-to-beta-testing?utm_medium=rss)<!-- TECH:END -->
+ - [Bose is adding multipoint pairing to its latest earbuds](https://www.theverge.com/2024/7/10/24195845/bose-quietcomfort-ultra-open-multipoint-now-available)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

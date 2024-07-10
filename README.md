@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good citizen bonus](http://9gag.com/gag/a4PYNvw)
- - 😝 [NYC will start to use trash bins. Dudes, they&#39;re living in the future](http://9gag.com/gag/aQz8mm8)
- - 💣 [Earth lost one more idiot.](http://9gag.com/gag/aZZMQOz)
- - 😝 [So many questions. What is this disgusting sport? Where is it? How do I sign up?](http://9gag.com/gag/aXP922P)
- - 👉 [London citizens descend on the police station to demand the release of people who were arrested for sexual assault of English schoolgirls](http://9gag.com/gag/amo96D4)<!-- MEMES:END -->
+ - 😝 [Wow](http://9gag.com/gag/aVvPVe8)
+ - 😝 [Chinese recipe.](http://9gag.com/gag/apRvAxE)
+ - 💣 [What was that!](http://9gag.com/gag/axyjRLn)
+ - 😝 [Ivy League Graduates](http://9gag.com/gag/a1mM2GY)
+ - 👉 [Enough is enough](http://9gag.com/gag/avyPxmd)<!-- MEMES:END -->
 
 ---
 

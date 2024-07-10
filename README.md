@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Unpacked: all the news on the summer product event](https://www.theverge.com/2024/7/10/24194881/samsung-galaxy-unpacked-ring-ai-z-fold-6-flip-watch-7-ultra-buds)
- - [How to move a smart home](https://www.theverge.com/24184716/moving-smart-home-tech-setup)
- - [iPhone 16 fast charging could get a 40W boost](https://appleinsider.com/articles/24/07/10/iphone-16-fast-charging-could-get-a-40w-boost?utm_medium=rss)
- - [Add multiple monitors to your MacBook with iVANKY&#39;s FusionDock Prime Day deals](https://appleinsider.com/articles/24/07/10/add-multiple-monitors-to-your-macbook-with-ivankys-fusiondock-prime-day-deals?utm_medium=rss)
- - [Plastic bins: better than boxes](https://www.theverge.com/24176469/moving-boxes-plastic-bins-cardboard)<!-- TECH:END -->
+ - [A livestream of Samsung Galaxy Unpacked July 2024 &lpar;Samsung on YouTube&rpar;](http://www.techmeme.com/240710/p13#a240710p13)
+ - [The Galaxy Z Fold 6 and Flip 6 come with minor updates and higher prices](https://www.theverge.com/2024/7/10/24195165/samsung-galaxy-z-fold-flip-6-screen-battery-price)
+ - [Samsung Galaxy Watch Ultra hands-on: ultra déjà vu](https://www.theverge.com/24195083/samsung-galaxy-watch-ultra-7-hands-on-features-price)
+ - [Samsung’s new Galaxy Buds are blatant AirPod clones in both form and function](https://www.theverge.com/24195011/samsung-galaxy-buds-3-pro-hands-on-preview-features)
+ - [Samsung’s Galaxy Ring could be the one ring to rule an ecosystem](https://www.theverge.com/24194938/samsung-galaxy-ring-hands-on-price-unpacked-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

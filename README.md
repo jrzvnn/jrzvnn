@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [AWS launches App Studio in public preview, which is a generative AI-powered service allowing enterprise users to create internal apps using text prompts &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/240710/p30#a240710p30)
+ - [Hint for July 10 Wordle, #1117, Might Make You Think of Scary Movies](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-10-1117/#ftag=CAD590a51e)
+ - [iOS 17.6 Beta 3: This Could Be Apple&#39;s Last Update Before iOS 18](https://www.cnet.com/tech/services-and-software/ios-17-6-beta-3-this-could-be-apples-last-update-before-ios-18/#ftag=CAD590a51e)
  - [Ford’s Capri slaps another old name on a new EV](https://www.theverge.com/2024/7/10/24195756/ford-capri-ev-crossover-announce-europe)
- - [CNN announces more layoffs as it preps for a future beyond cable TV](https://www.theverge.com/2024/7/10/24195705/cnn-layoffs-mark-thompson-max-cable-tv)
- - [Third macOS Sequoia developer beta arrives, two days after the rest](https://appleinsider.com/articles/24/07/10/apple-slowly-brings-out-the-third-macos-sequoia-developer-beta?utm_medium=rss)
- - [Bose is adding multipoint pairing to its latest earbuds](https://www.theverge.com/2024/7/10/24195845/bose-quietcomfort-ultra-open-multipoint-now-available)<!-- TECH:END -->
+ - [Google Makes Dark Web Monitoring Free For Everyone](https://www.cnet.com/tech/services-and-software/google-makes-dark-web-monitoring-free-for-everyone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

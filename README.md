@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What to do in this case](http://9gag.com/gag/aMVGzN1)
- - 😝 [Pedo teacher busted](http://9gag.com/gag/agmVxq6)
- - 💣 [A completely normal phenomenon](http://9gag.com/gag/aKGq83Q)
- - 😝 [#RIPCartoonNetwork. Corporate greed has led to the destruction of yet another creative powerhouse.](http://9gag.com/gag/a87MDD6)
- - 👉 [My fellow dark elf](http://9gag.com/gag/a4PYAq1)<!-- MEMES:END -->
+ - 😝 [Corporate sponsors now allowed to edit truth. All hail corporate overlords.](http://9gag.com/gag/a4PY2NQ)
+ - 😝 [But why.. just why](http://9gag.com/gag/aGyxGv0)
+ - 💣 [What to do in this case](http://9gag.com/gag/aMVGzN1)
+ - 😝 [My fellow dark elf](http://9gag.com/gag/a4PYAq1)
+ - 👉 [Jim looks great](http://9gag.com/gag/aAy148Z)<!-- MEMES:END -->
 
 ---
 

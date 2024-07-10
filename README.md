@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [NYC will start to use trash bins. Dudes, they&#39;re living in the future](http://9gag.com/gag/aQz8mm8)
+ - 😝 [Let me guess... African as king of Rome and put some rap battle music...](http://9gag.com/gag/aoy9npe)
  - 😝 [Earth lost one more idiot.](http://9gag.com/gag/aZZMQOz)
  - 💣 [Moonwalking into Oval](http://9gag.com/gag/aE07OBM)
- - 😝 [A completely normal phenomenon](http://9gag.com/gag/aKGq83Q)
- - 👉 [And Another One &lpar;link in comments&rpar;](http://9gag.com/gag/aNDn4Qb)<!-- MEMES:END -->
+ - 😝 [There is a reason why they total the car](http://9gag.com/gag/adBje29)
+ - 👉 [A completely normal phenomenon](http://9gag.com/gag/aKGq83Q)<!-- MEMES:END -->
 
 ---
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Apple is not taking an observer role on OpenAI&#39;s board; OpenAI says it will host regular meetings with investors and partners like Microsoft and Apple &lpar;Financial Times&rpar;](http://www.techmeme.com/240710/p3#a240710p3)
+ - [Microsoft gives up an observer seat on OpenAI&#39;s board, saying it has seen &quot;significant progress&quot; from the new board and is &quot;confident&quot; in OpenAI&#39;s direction &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/240710/p2#a240710p2)
  - [Index Ventures, an early investor in Mistral and Cohere, closed $2.3B to chase AI breakthroughs and says that 50%+ of its recent investments have been in AI &lpar;Financial Times&rpar;](http://www.techmeme.com/240710/p1#a240710p1)
  - [This MacBook Air with 16GB RAM, 512GB SSD is on sale for $1,249, the lowest price ever](https://appleinsider.com/articles/24/07/10/this-macbook-air-with-16gb-ram-512gb-ssd-is-on-sale-for-1249-the-lowest-price-ever?utm_medium=rss)
- - [Google says it has stopped purchasing carbon offsets and is no longer maintaining operational carbon neutrality, but still aims to reach net-zero carbon by 2030 &lpar;Akshat Rathi/Bloomberg&rpar;](http://www.techmeme.com/240709/p35#a240709p35)
- - [Samsung Electronics&#39;s union workers declare an indefinite strike on the final day of a three-day walkout and say management showed no intention of holding talks &lpar;Kwanwoo Jun/Wall Street Journal&rpar;](http://www.techmeme.com/240709/p34#a240709p34)
- - [Today&#39;s NYT Connections Hints, Answers and Help for July 10, #395](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-10-395/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google says it has stopped purchasing carbon offsets and is no longer maintaining operational carbon neutrality, but still aims to reach net-zero carbon by 2030 &lpar;Akshat Rathi/Bloomberg&rpar;](http://www.techmeme.com/240709/p35#a240709p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

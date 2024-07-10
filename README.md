@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [My fellow dark elf](http://9gag.com/gag/a4PYAq1)
  - 😝 [London citizens descend on the police station to demand the release of people who were arrested for sexual assault of English schoolgirls](http://9gag.com/gag/amo96D4)
- - 😝 [NYC will start to use trash bins. Dudes, they&#39;re living in the future](http://9gag.com/gag/aQz8mm8)
- - 💣 [A YouTuber from Cyprus was elected to the EU Parliament &amp; reveals how much money they are allocated to spend. What do you think, overpaid or underpaid??](http://9gag.com/gag/ae9Gmpj)
- - 😝 [Classic](http://9gag.com/gag/a2vmDMd)
- - 👉 [The only correct response](http://9gag.com/gag/aAy128R)<!-- MEMES:END -->
+ - 💣 [Good citizen bonus](http://9gag.com/gag/a4PYNvw)
+ - 😝 [The only correct response](http://9gag.com/gag/aAy128R)
+ - 👉 [Pedo teacher busted](http://9gag.com/gag/agmVxq6)<!-- MEMES:END -->
 
 ---
 

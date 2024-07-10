@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So many questions. What is this disgusting sport? Where is it? How do I sign up?](http://9gag.com/gag/aXP922P)
- - 😝 [Trying not to damage another car](http://9gag.com/gag/a9y784o)
- - 💣 [There is a reason why they total the car](http://9gag.com/gag/adBje29)
- - 😝 [Moonwalking into Oval](http://9gag.com/gag/aE07OBM)
- - 👉 [Unexpected](http://9gag.com/gag/abA0BgE)<!-- MEMES:END -->
+ - 😝 [Unexpected](http://9gag.com/gag/abA0BgE)
+ - 😝 [Earth lost one more idiot.](http://9gag.com/gag/aZZMQOz)
+ - 💣 [Subtle, but effective](http://9gag.com/gag/a0epnjO)
+ - 😝 [My fellow dark elf](http://9gag.com/gag/a4PYAq1)
+ - 👉 [Are any of you even real?......am i?](http://9gag.com/gag/a7o7VwA)<!-- MEMES:END -->
 
 ---
 

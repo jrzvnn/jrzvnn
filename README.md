@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung&#39;s Galaxy Ring is out, but it won&#39;t be a problem for the Apple Ring](https://appleinsider.com/articles/24/07/10/samsungs-galaxy-ring-is-out-but-it-wont-be-a-problem-for-the-apple-ring?utm_medium=rss)
+ - [The first all-quadriplegic esports team levels the playing field](https://www.theverge.com/24195198/quad-gods-documentary-jess-jacklin-interview)
  - [Microsoft and trade group CISPE agree a deal to settle CISPE&#39;s antitrust complaint; CISPE members can run software on Azure at prices equivalent to Microsoft&#39;s &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240710/p25#a240710p25)
- - [Hyundai dealers pressured to push ‘fake’ EV sales, lawsuit alleges](https://www.theverge.com/2024/7/10/24195650/hyundai-fake-ev-sales-dealer-lawsuit)
- - [How to preorder Samsung’s Galaxy Watch 7, Galaxy Watch Ultra, and the Galaxy Ring](https://www.theverge.com/2024/7/10/24194952/samsung-galaxy-watch-7-ring-ultra-preorder-buy-price-availability-release-date)
- - [Cherry-picked data claims Apple is beating Samsung in Europe](https://appleinsider.com/articles/24/07/10/cherry-picked-data-claims-apple-is-beating-samsung-in-europe?utm_medium=rss)
- - [Samsung Galaxy Unpacked: everything announced at the July 2024 event](https://www.theverge.com/2024/7/10/24194881/samsung-galaxy-unpacked-ring-ai-z-fold-6-flip-watch-7-ultra-buds)<!-- TECH:END -->
+ - [You Can Score an Instant $200 Amazon Gift Card Before Prime Day. Here&#39;s How](https://www.cnet.com/personal-finance/credit-cards/get-a-200-dollar-amazon-gift-card-in-time-for-prime-day/#ftag=CAD590a51e)
+ - [Mortgage Rates Dip Below 7% Ahead of Key Inflation Report. Today&#39;s Mortgage Rates on July 10, 2024](https://www.cnet.com/personal-finance/home-loan-rates-decline-mortgage-rates-for-july-10-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Earned Wealth, which offers wealth management services to medical professionals, raises $200M, and says it has 3,000+ clients and $2B of assets under management &lpar;Valida Pau/Bloomberg&rpar;](http://www.techmeme.com/240710/p33#a240710p33)
  - [iPhone 16 fast charging could get a 40W boost](https://appleinsider.com/articles/24/07/10/iphone-16-fast-charging-could-get-a-40w-boost?utm_medium=rss)
  - [Delta’s latest update lets iPad users emulate multiple games at once](https://www.theverge.com/2024/7/10/24195591/delta-ios-update-retro-gaming-emulator-ipad-support-logo)
  - [CNET&#39;s Samsung Unpacked Watch Party Recap: Galaxy Ring&#39;s Big Reveal](https://www.cnet.com/tech/mobile/cnets-samsung-unpacked-watch-party-recap-galaxy-rings-big-reveal/#ftag=CAD590a51e)
- - [Apple and Google expand on their data portability initiative to allow users of Google Photos to transfer their collections directly to iCloud Photos &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240710/p32#a240710p32)
- - [Best Live TV Streaming Service for Cord Cutters in 2024](https://www.cnet.com/tech/services-and-software/best-live-tv-streaming-service-for-cord-cutters/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple and Google expand on their data portability initiative to allow users of Google Photos to transfer their collections directly to iCloud Photos &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240710/p32#a240710p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

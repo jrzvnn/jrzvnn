@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Earth lost one more idiot.](http://9gag.com/gag/aZZMQOz)
  - 😝 [So many questions. What is this disgusting sport? Where is it? How do I sign up?](http://9gag.com/gag/aXP922P)
- - 😝 [The only correct response](http://9gag.com/gag/aAy128R)
- - 💣 [What to do in this case](http://9gag.com/gag/aMVGzN1)
- - 😝 [London citizens descend on the police station to demand the release of people who were arrested for sexual assault of English schoolgirls](http://9gag.com/gag/amo96D4)
- - 👉 [Are any of you even real?......am i?](http://9gag.com/gag/a7o7VwA)<!-- MEMES:END -->
+ - 💣 [Are any of you even real?......am i?](http://9gag.com/gag/a7o7VwA)
+ - 😝 [What to do in this case](http://9gag.com/gag/aMVGzN1)
+ - 👉 [Pedo teacher busted](http://9gag.com/gag/agmVxq6)<!-- MEMES:END -->
 
 ---
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trying not to damage another car](http://9gag.com/gag/a9y784o)
- - 😝 [#RIPCartoonNetwork. Corporate greed has led to the destruction of yet another creative powerhouse.](http://9gag.com/gag/a87MDD6)
- - 💣 [NYC will start to use trash bins. Dudes, they&#39;re living in the future](http://9gag.com/gag/aQz8mm8)
- - 😝 [Thank goodness he&#39;s wearing his safety flip flops](http://9gag.com/gag/aGyxA4X)
- - 👉 [Hold your horse](http://9gag.com/gag/an7NxO5)<!-- MEMES:END -->
+ - 😝 [Dumb ways to die](http://9gag.com/gag/a6Z79E2)
+ - 😝 [Normal day in Australia](http://9gag.com/gag/adBjOBj)
+ - 💣 [Wouldn&#39;t be surprised](http://9gag.com/gag/a87MDmp)
+ - 😝 [The only correct response](http://9gag.com/gag/aAy128R)
+ - 👉 [Old Japanese man is shocked to find that white British people have become a minority in London.](http://9gag.com/gag/an7Nnvq)<!-- MEMES:END -->
 
 ---
 

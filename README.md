@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Lee Saedol, an 18-time Go world champion who was beaten by Google DeepMind&#39;s AlphaGo in 2016 and now gives lectures about AI after retiring in 2019 &lpar;New York Times&rpar;](http://www.techmeme.com/240710/p7#a240710p7)
  - [A look at the rise of algorithmic trading in currency markets: ~50% of hedge funds are using the tech for FX trading in 2024, up from 22% before the pandemic &lpar;Bloomberg&rpar;](http://www.techmeme.com/240710/p6#a240710p6)
  - [Everyone Should Have This Kitchen Tool That Isn&#39;t for Cooking at All](https://www.cnet.com/deals/everyone-should-have-this-kitchen-tool-that-isnt-for-cooking-at-all/#ftag=CAD590a51e)
  - [The $11 Billion Marketplace Enabling the Crypto Scam Economy](https://www.wired.com/story/pig-butchering-scam-crypto-huione-guarantee/)
- - [Best Places to Sell Your Used Electronics for 2024](https://www.cnet.com/tech/mobile/best-places-to-sell-electronics/#ftag=CAD590a51e)
- - [Q&amp;A with Meta CTO Andrew Bosworth on the company&#39;s metaverse strategy, barriers to MR/VR growth, Reality Labs spending, AR glasses, AI, and more &lpar;Matthew Ball/MatthewBall.co&rpar;](http://www.techmeme.com/240710/p5#a240710p5)<!-- TECH:END -->
+ - [Best Places to Sell Your Used Electronics for 2024](https://www.cnet.com/tech/mobile/best-places-to-sell-electronics/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

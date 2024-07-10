@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple slowly brings out the third macOS Sequoia developer beta](https://appleinsider.com/articles/24/07/10/apple-slowly-brings-out-the-third-macos-sequoia-developer-beta?utm_medium=rss)
+ - [OpenAI and Los Alamos National Laboratory announce a partnership to evaluate how multimodal AI models can be used safely by scientists in laboratory settings &lpar;Evan Gorelick/Bloomberg&rpar;](http://www.techmeme.com/240710/p29#a240710p29)
  - [Apple Intelligence is inching closer to beta testing](https://appleinsider.com/articles/24/07/10/apple-intelligence-is-inching-closer-to-beta-testing?utm_medium=rss)
- - [Amazon’s new Echo Spot is already almost half off for Prime Day](https://www.theverge.com/2024/7/10/24195655/amazon-echo-spot-smart-alarm-clock-prime-day-deal-sale)
- - [Source: Apple aims to ship 90M+ iPhone 16 series devices in 2024, after shipping about 81M iPhone 15s in H2 2023, as it counts on AI services to boost demand &lpar;Bloomberg&rpar;](http://www.techmeme.com/240710/p28#a240710p28)
- - [Best monitor for MacBook Pro in 2024: best buys from Apple, Dell, LG &amp; Samsung](https://appleinsider.com/inside/macbook-pro/best/best-monitor-for-macbook-pro?utm_medium=rss)
- - [England&#39;s poshest school Eton bans iPhones but provides iPads](https://appleinsider.com/articles/24/07/10/englands-poshest-school-eton-bans-iphones-but-provides-ipads?utm_medium=rss)<!-- TECH:END -->
+ - [Galaxy S22 Deals: Save Big When Trading In an Old Phone](https://www.cnet.com/deals/where-to-buy-galaxy-s22-preorder-deals-for-samsungs-newest-phones/#ftag=CAD590a51e)
+ - [Amazon’s new Echo Spot is already almost half off for Prime Day](https://www.theverge.com/2024/7/10/24195655/amazon-echo-spot-smart-alarm-clock-prime-day-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

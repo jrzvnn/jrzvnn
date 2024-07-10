@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Delta’s latest update lets iPad users emulate multiple games at once](https://www.theverge.com/2024/7/10/24195591/delta-ios-update-retro-gaming-emulator-ipad-support-logo)
  - [iPhone 16 fast charging could get a 40W boost](https://appleinsider.com/articles/24/07/10/iphone-16-fast-charging-could-get-a-40w-boost?utm_medium=rss)
+ - [CNET&#39;s Samsung Unpacked Watch Party Recap: Galaxy Ring&#39;s Big Reveal](https://www.cnet.com/tech/mobile/cnets-samsung-unpacked-watch-party-recap-galaxy-rings-big-reveal/#ftag=CAD590a51e)
  - [Apple and Google expand on their data portability initiative to allow users of Google Photos to transfer their collections directly to iCloud Photos &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/240710/p32#a240710p32)
- - [Amazon’s carbon emissions fell last year](https://www.theverge.com/2024/7/10/24195707/amazons-carbon-emissions-fell-last-year)
- - [Apple is ramping up for a big iPhone 16 sales boost thanks to Apple Intelligence](https://appleinsider.com/articles/24/07/10/apple-is-ramping-up-for-a-big-iphone-16-sales-boost-thanks-to-apple-intelligence?utm_medium=rss)
- - [Amazon Prime Day 2024: Early Prime Day Deals and Dates Announced](https://www.cnet.com/deals/amazon-prime-day/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Live TV Streaming Service for Cord Cutters in 2024](https://www.cnet.com/tech/services-and-software/best-live-tv-streaming-service-for-cord-cutters/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

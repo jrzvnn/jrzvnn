@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The $11 Billion Marketplace Enabling the Crypto Scam Economy](https://www.wired.com/story/pig-butchering-scam-crypto-huione-guarantee/)
  - [Best Places to Sell Your Used Electronics for 2024](https://www.cnet.com/tech/mobile/best-places-to-sell-electronics/#ftag=CAD590a51e)
  - [Q&amp;A with Meta CTO Andrew Bosworth on the company&#39;s metaverse strategy, barriers to MR/VR growth, Reality Labs spending, AR glasses, AI, and more &lpar;Matthew Ball/MatthewBall.co&rpar;](http://www.techmeme.com/240710/p5#a240710p5)
  - [An investigation finds Airbnb fails to protect its guests from hidden cameras and moves swiftly to contain user complaints and resolve them out of court &lpar;CNN&rpar;](http://www.techmeme.com/240710/p4#a240710p4)
- - [Best Solar Panel Installation Companies in New Jersey](https://www.cnet.com/home/energy-and-utilities/new-jersey-solar-panels/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Solar Panel Installation Companies in New Jersey](https://www.cnet.com/home/energy-and-utilities/new-jersey-solar-panels/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for July 10, #1117](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-10-1117/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trying not to damage another car](http://9gag.com/gag/a9y784o)
- - 😝 [London citizens descend on the police station to demand the release of people who were arrested for sexual assault of English schoolgirls](http://9gag.com/gag/amo96D4)
- - 💣 [NYC will start to use trash bins. Dudes, they&#39;re living in the future](http://9gag.com/gag/aQz8mm8)
- - 😝 [Wouldn&#39;t be surprised](http://9gag.com/gag/a87MDmp)
- - 👉 [Pedo teacher busted](http://9gag.com/gag/agmVxq6)<!-- MEMES:END -->
+ - 😝 [What to do in this case](http://9gag.com/gag/aMVGzN1)
+ - 😝 [True words aye!](http://9gag.com/gag/ae9GmQQ)
+ - 💣 [A YouTuber from Cyprus was elected to the EU Parliament &amp; reveals how much money they are allocated to spend. What do you think, overpaid or underpaid??](http://9gag.com/gag/ae9Gmpj)
+ - 😝 [Jim looks great](http://9gag.com/gag/aAy148Z)
+ - 👉 [The only correct response](http://9gag.com/gag/aAy128R)<!-- MEMES:END -->
 
 ---
 

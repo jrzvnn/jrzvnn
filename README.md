@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Unexpected](http://9gag.com/gag/abA0BgE)
- - 😝 [Earth lost one more idiot.](http://9gag.com/gag/aZZMQOz)
- - 💣 [Subtle, but effective](http://9gag.com/gag/a0epnjO)
- - 😝 [My fellow dark elf](http://9gag.com/gag/a4PYAq1)
- - 👉 [Are any of you even real?......am i?](http://9gag.com/gag/a7o7VwA)<!-- MEMES:END -->
+ - 😝 [Bruce Lee way of punching demonstrated by Aaron Allen, the former bodyguard of Tupac Shakur](http://9gag.com/gag/ae9G745)
+ - 😝 [Wouldn&#39;t be surprised](http://9gag.com/gag/a87MDmp)
+ - 💣 [London citizens descend on the police station to demand the release of people who were arrested for sexual assault of English schoolgirls](http://9gag.com/gag/amo96D4)
+ - 😝 [Are any of you even real?......am i?](http://9gag.com/gag/a7o7VwA)
+ - 👉 [And Another One &lpar;link in comments&rpar;](http://9gag.com/gag/aNDn4Qb)<!-- MEMES:END -->
 
 ---
 

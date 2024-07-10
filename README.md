@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Intuit plans to cut ~10% of its global workforce, or ~1,800 employees, and rehire the same number of staff, primarily in engineering, product, and sales &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240710/p22#a240710p22)
+ - [Google updates Gemini for Android to work better with foldables, expands Circle to Search, and more; the Galaxy Watch7 and Watch Ultra will ship with Wear OS 5 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240710/p21#a240710p21)
  - [Samsung hikes the Galaxy Z Flip6 and Z Fold6 by $100 to $1,099+ and $1,899, respectively, aiming to reclaim the lead in foldables as Chinese competition mounts &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/240710/p20#a240710p20)
  - [Samsung unveils the $400 Galaxy Ring with gesture controls, Samsung Health, IP68, and up to seven day battery life, in nine sizes and three colors on July 24 &lpar;James Frew/Tom&#39;s Guide&rpar;](http://www.techmeme.com/240710/p19#a240710p19)
- - [Samsung unveils the $300 Galaxy Watch7 and $650 Galaxy Watch Ultra, both with LTE and a 3nm Exynos W1000 chip, 2GB of RAM, and 32GB storage, available July 24 &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/240710/p18#a240710p18)
- - [Samsung Galaxy Ring hands-on: the $400 ring has a titanium frame, optical heart rate and skin temperature sensors, feels slimmer than the Oura Ring, and more &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/240710/p17#a240710p17)
- - [Samsung unveils $250 Galaxy Buds 3 Pro and $180 Galaxy Buds 3, with ANC and switching to an AirPods-like stemmed design and case, available on July 24 &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240710/p16#a240710p16)<!-- TECH:END -->
+ - [Samsung unveils the $300 Galaxy Watch7 and $650 Galaxy Watch Ultra, both with LTE and a 3nm Exynos W1000 chip, 2GB of RAM, and 32GB storage, available July 24 &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/240710/p18#a240710p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

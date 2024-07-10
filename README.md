@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wouldn&#39;t be surprised](http://9gag.com/gag/a87MDmp)
- - 😝 [My fellow dark elf](http://9gag.com/gag/a4PYAq1)
- - 💣 [There is a reason why they total the car](http://9gag.com/gag/adBje29)
  - 😝 [Moonwalking into Oval](http://9gag.com/gag/aE07OBM)
- - 👉 [Bruce Lee way of punching demonstrated by Aaron Allen, the former bodyguard of Tupac Shakur](http://9gag.com/gag/ae9G745)<!-- MEMES:END -->
+ - 😝 [Ivy League Graduates](http://9gag.com/gag/a1mM2GY)
+ - 💣 [The only correct response](http://9gag.com/gag/aAy128R)
+ - 😝 [Ok just sign here please first](http://9gag.com/gag/a6Z7pAm)
+ - 👉 [A sweet ride.](http://9gag.com/gag/axyjPyW)<!-- MEMES:END -->
 
 ---
 

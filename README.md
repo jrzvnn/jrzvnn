@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Car nicked from under nose of valet parking, AirTag saves the day](https://appleinsider.com/articles/24/07/10/car-nicked-from-under-nose-of-valet-parking-airtag-saves-the-day?utm_medium=rss)
  - [Google now lets Advanced Protection Program users set up with a single passkey, using Android or iOS biometric authentication, instead of two physical keys &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240710/p12#a240710p12)
  - [Amazon reaches its goal of 100% clean energy in 2023 seven years ahead of schedule, after investing in 500+ solar and wind projects, but experts are skeptical &lpar;New York Times&rpar;](http://www.techmeme.com/240710/p11#a240710p11)
  - [Apple probably isn&#39;t taking a seat on OpenAI&#39;s board after all](https://appleinsider.com/articles/24/07/10/apple-probably-isnt-taking-a-seat-on-openais-board-after-all?utm_medium=rss)
- - [She Defrauded Apps Like Uber and Instacart of Hundreds of Thousands of Dollars. Meet Priscila, Queen of the Rideshare Mafia](https://www.wired.com/story/priscila-queen-of-the-rideshare-mafia/)
- - [Google Is Adding Passkey Support for Its Most Vulnerable Users](https://www.wired.com/story/google-passkey-advance-protection-program/)<!-- TECH:END -->
+ - [She Defrauded Apps Like Uber and Instacart of Hundreds of Thousands of Dollars. Meet Priscila, Queen of the Rideshare Mafia](https://www.wired.com/story/priscila-queen-of-the-rideshare-mafia/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

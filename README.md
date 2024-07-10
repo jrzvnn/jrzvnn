@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Intelligence is inching closer to beta testing](https://appleinsider.com/articles/24/07/10/apple-intelligence-is-inching-closer-to-beta-testing?utm_medium=rss)
+ - [Amazon’s new Echo Spot is already almost half off for Prime Day](https://www.theverge.com/2024/7/10/24195655/amazon-echo-spot-smart-alarm-clock-prime-day-deal-sale)
  - [Source: Apple aims to ship 90M+ iPhone 16 series devices in 2024, after shipping about 81M iPhone 15s in H2 2023, as it counts on AI services to boost demand &lpar;Bloomberg&rpar;](http://www.techmeme.com/240710/p28#a240710p28)
  - [Best monitor for MacBook Pro in 2024: best buys from Apple, Dell, LG &amp; Samsung](https://appleinsider.com/inside/macbook-pro/best/best-monitor-for-macbook-pro?utm_medium=rss)
- - [England&#39;s poshest school Eton bans iPhones but provides iPads](https://appleinsider.com/articles/24/07/10/englands-poshest-school-eton-bans-iphones-but-provides-ipads?utm_medium=rss)
- - [Here’s where you can preorder the Samsung Galaxy Z Fold 6 and Galaxy Z Flip 6](https://www.theverge.com/2024/7/10/24195208/samsung-galaxy-z-fold-flip-6-preorder-buy-price-release-date)
- - [Meta will now let young kids chat in VR — but only with their parents’ approval](https://www.theverge.com/2024/7/10/24195692/meta-quest-approved-contacts-parental-controls)<!-- TECH:END -->
+ - [England&#39;s poshest school Eton bans iPhones but provides iPads](https://appleinsider.com/articles/24/07/10/englands-poshest-school-eton-bans-iphones-but-provides-ipads?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

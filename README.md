@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [London citizens descend on the police station to demand the release of people who were arrested for sexual assault of English schoolgirls](http://9gag.com/gag/amo96D4)
- - 😝 [Hold your horse](http://9gag.com/gag/an7NxO5)
- - 💣 [A YouTuber from Cyprus was elected to the EU Parliament &amp; reveals how much money they are allocated to spend. What do you think, overpaid or underpaid??](http://9gag.com/gag/ae9Gmpj)
- - 😝 [Pedo teacher busted](http://9gag.com/gag/agmVxq6)
+ - 😝 [Go go go!](http://9gag.com/gag/aD2onbw)
+ - 😝 [A YouTuber from Cyprus was elected to the EU Parliament &amp; reveals how much money they are allocated to spend. What do you think, overpaid or underpaid??](http://9gag.com/gag/ae9Gmpj)
+ - 💣 [Futuristic HDMI Hologram for 3D modeling](http://9gag.com/gag/a9y7vDZ)
+ - 😝 [NYC will start to use trash bins. Dudes, they&#39;re living in the future](http://9gag.com/gag/aQz8mm8)
  - 👉 [Whats that?](http://9gag.com/gag/aZZM2p6)<!-- MEMES:END -->
 
 ---

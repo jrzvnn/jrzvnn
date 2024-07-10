@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Z Fold6 and Z Flip6 hands-on: new cameras are great, expanded Galaxy AI features, 12GB of RAM, and stronger frames, but both cost $100 more &lpar;Sam Rutherford/Engadget&rpar;](http://www.techmeme.com/240710/p23#a240710p23)
- - [Intuit plans to cut ~10% of its global workforce, or ~1,800 employees, and rehire the same number of staff, primarily in engineering, product, and sales &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/240710/p22#a240710p22)
- - [Google updates Gemini for Android to work better with foldables, expands Circle to Search, and more; the Galaxy Watch7 and Watch Ultra will ship with Wear OS 5 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/240710/p21#a240710p21)
- - [Samsung hikes the Galaxy Z Flip6 and Z Fold6 by $100 to $1,099+ and $1,899, respectively, aiming to reclaim the lead in foldables as Chinese competition mounts &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/240710/p20#a240710p20)
- - [Samsung unveils the $400 Galaxy Ring with gesture controls, Samsung Health, IP68, and up to seven day battery life, in nine sizes and three colors on July 24 &lpar;James Frew/Tom&#39;s Guide&rpar;](http://www.techmeme.com/240710/p19#a240710p19)<!-- TECH:END -->
+ - [AMD agrees to buy Helsinki-based Silo AI, which offers tailored AI models and platforms to enterprise customers, for $665M in cash; Silo has a 300-person team &lpar;Financial Times&rpar;](http://www.techmeme.com/240710/p24#a240710p24)
+ - [The aftermath of the Supreme Court’s NetChoice ruling](https://www.theverge.com/24195235/scotus-netchoice-kosa-kids-safety-age-verification-tiktok-ban)
+ - [Sony’s new ZV-E10 II camera is designed to sway vloggers away from $1,000 phones](https://www.theverge.com/2024/7/10/24194506/sony-alpha-zve10ii-vlogging-camera-apsc-mirrorless-specs-price)
+ - [How to refurbish and restore the original Apple TV](https://appleinsider.com/inside/apple-tv/tips/how-to-refurbish-and-restore-the-original-apple-tv?utm_medium=rss)
+ - [Samsung Galaxy Z Fold6 and Z Flip6 hands-on: new cameras are great, expanded Galaxy AI features, 12GB of RAM, and stronger frames, but both cost $100 more &lpar;Sam Rutherford/Engadget&rpar;](http://www.techmeme.com/240710/p23#a240710p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

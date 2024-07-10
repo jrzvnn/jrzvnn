@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best monitor for MacBook Pro in 2024: best buys from Apple, Dell, LG &amp; Samsung](https://appleinsider.com/inside/macbook-pro/best/best-monitor-for-macbook-pro?utm_medium=rss)
+ - [England&#39;s poshest school Eton bans iPhones but provides iPads](https://appleinsider.com/articles/24/07/10/englands-poshest-school-eton-bans-iphones-but-provides-ipads?utm_medium=rss)
+ - [Here’s where you can preorder the Samsung Galaxy Z Fold 6 and Galaxy Z Flip 6](https://www.theverge.com/2024/7/10/24195208/samsung-galaxy-z-fold-flip-6-preorder-buy-price-release-date)
  - [Meta will now let young kids chat in VR — but only with their parents’ approval](https://www.theverge.com/2024/7/10/24195692/meta-quest-approved-contacts-parental-controls)
- - [Germany agrees a compromise proposal to strip Huawei components from the 5G core mobile network by the end of 2026; sources say companies have until 2029 &lpar;Michael Nienaber/Bloomberg&rpar;](http://www.techmeme.com/240710/p27#a240710p27)
- - [Best Buy challenges Amazon Prime Day with $799 M2 MacBook Air deal](https://appleinsider.com/articles/24/07/10/best-buy-challenges-amazon-prime-day-with-799-m2-macbook-air-deal?utm_medium=rss)
- - [FTC source: Microsoft ditching its OpenAI board observer seat is unlikely to resolve the FTC&#39;s concerns, as the agency conducts an antitrust review of AI deals &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/240710/p26#a240710p26)
- - [Samsung&#39;s Galaxy Ring is out, but it won&#39;t be a problem for the Apple Ring](https://appleinsider.com/articles/24/07/10/samsungs-galaxy-ring-is-out-but-it-wont-be-a-problem-for-the-apple-ring?utm_medium=rss)<!-- TECH:END -->
+ - [Germany agrees a compromise proposal to strip Huawei components from the 5G core mobile network by the end of 2026; sources say companies have until 2029 &lpar;Michael Nienaber/Bloomberg&rpar;](http://www.techmeme.com/240710/p27#a240710p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

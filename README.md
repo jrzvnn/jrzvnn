@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [NYC will start to use trash bins. Dudes, they&#39;re living in the future](http://9gag.com/gag/aQz8mm8)
- - 😝 [The only correct response](http://9gag.com/gag/aAy128R)
- - 💣 [London citizens descend on the police station to demand the release of people who were arrested for sexual assault of English schoolgirls](http://9gag.com/gag/amo96D4)
- - 😝 [#RIPCartoonNetwork. Corporate greed has led to the destruction of yet another creative powerhouse.](http://9gag.com/gag/a87MDD6)
+ - 😝 [A completely normal phenomenon](http://9gag.com/gag/aKGq83Q)
+ - 😝 [What to do in this case](http://9gag.com/gag/aMVGzN1)
+ - 💣 [Oh..](http://9gag.com/gag/aByYVbZ)
+ - 😝 [Normal day in Australia](http://9gag.com/gag/adBjOBj)
  - 👉 [A YouTuber from Cyprus was elected to the EU Parliament &amp; reveals how much money they are allocated to spend. What do you think, overpaid or underpaid??](http://9gag.com/gag/ae9Gmpj)<!-- MEMES:END -->
 
 ---

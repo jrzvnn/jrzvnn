@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft and Apple ditch OpenAI board seats amid regulatory scrutiny](https://www.theverge.com/2024/7/10/24195528/microsoft-apple-openai-board-observer-seat-drop-regulator-scrutiny)
  - [Carvana will apply a clean vehicle tax credit at checkout for used EVs](https://www.theverge.com/2024/7/10/24194510/carvana-ev-clean-vehicle-used-previously-owned-tax-credit-discount)
  - [Researchers detail the Blast-RADIUS MD5-based vulnerability affecting RADIUS, a widely-used network access authentication protocol first developed in 1991 &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/240710/p8#a240710p8)
  - [Motorola Razr Plus Review: A Blast From the Past With Modern Twists](https://www.cnet.com/tech/mobile/motorola-razr-plus-review-a-blast-from-the-past-with-modern-twists/#ftag=CAD590a51e)
- - [A profile of Lee Saedol, an 18-time Go world champion who was beaten by Google DeepMind&#39;s AlphaGo in 2016 and now gives lectures about AI after retiring in 2019 &lpar;New York Times&rpar;](http://www.techmeme.com/240710/p7#a240710p7)
- - [I Tried to Replace My Laptop With a Galaxy S24 Ultra. It Came Pretty Dang Close](https://www.cnet.com/tech/mobile/i-tried-to-replace-my-laptop-with-a-galaxy-s24-ultra-it-came-pretty-dang-close/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A profile of Lee Saedol, an 18-time Go world champion who was beaten by Google DeepMind&#39;s AlphaGo in 2016 and now gives lectures about AI after retiring in 2019 &lpar;New York Times&rpar;](http://www.techmeme.com/240710/p7#a240710p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

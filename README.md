@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A livestream of Samsung Galaxy Unpacked July 2024 &lpar;Samsung on YouTube&rpar;](http://www.techmeme.com/240710/p13#a240710p13)
- - [The Galaxy Z Fold 6 and Flip 6 come with minor updates and higher prices](https://www.theverge.com/2024/7/10/24195165/samsung-galaxy-z-fold-flip-6-screen-battery-price)
- - [Samsung Galaxy Watch Ultra hands-on: ultra déjà vu](https://www.theverge.com/24195083/samsung-galaxy-watch-ultra-7-hands-on-features-price)
- - [Samsung’s new Galaxy Buds are blatant AirPod clones in both form and function](https://www.theverge.com/24195011/samsung-galaxy-buds-3-pro-hands-on-preview-features)
- - [Samsung’s Galaxy Ring could be the one ring to rule an ecosystem](https://www.theverge.com/24194938/samsung-galaxy-ring-hands-on-price-unpacked-2024)<!-- TECH:END -->
+ - [Samsung unveils the $300 Galaxy Watch7 and $650 Galaxy Watch Ultra, both with LTE and a 3nm Exynos W1000 chip, 2GB of RAM, and 32GB storage, available July 24 &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/240710/p18#a240710p18)
+ - [Samsung Galaxy Ring hands-on: the $400 ring has a titanium frame, optical heart rate and skin temperature sensors, feels slimmer than the Oura Ring, and more &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/240710/p17#a240710p17)
+ - [Samsung unveils $250 Galaxy Buds 3 Pro and $180 Galaxy Buds 3, with ANC and switching to an AirPods-like stemmed design and case, available on July 24 &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/240710/p16#a240710p16)
+ - [Samsung debuts the Galaxy Z Fold6, with a wider 22.1:9 display, up to 2,600 nits brightness, thinner frame, IP48, and seven years of updates, for $1,899 &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240710/p15#a240710p15)
+ - [Samsung unveils the Galaxy Z Flip6 with 3.4&quot; and 6.7&quot; displays, a 50MP camera sensor, larger 4,000 mAh battery, and Snapdragon 8 Gen 3, for $1,099+ on July 24 &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/240710/p14#a240710p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

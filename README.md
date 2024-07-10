@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cherry-picked data claims Apple is beating Samsung in Europe](https://appleinsider.com/articles/24/07/10/cherry-picked-data-claims-apple-is-beating-samsung-in-europe?utm_medium=rss)
+ - [Samsung Galaxy Unpacked: everything announced at the July 2024 event](https://www.theverge.com/2024/7/10/24194881/samsung-galaxy-unpacked-ring-ai-z-fold-6-flip-watch-7-ultra-buds)
+ - [Apple Silicon Macs are staying in use longer than Intel Macs](https://appleinsider.com/articles/24/07/10/apple-silicon-macs-are-staying-in-use-longer-than-intel-macs?utm_medium=rss)
  - [AMD agrees to buy Helsinki-based Silo AI, which offers tailored AI models and platforms to enterprise customers, for $665M in cash; Silo has a 300-person team &lpar;Financial Times&rpar;](http://www.techmeme.com/240710/p24#a240710p24)
- - [The aftermath of the Supreme Court’s NetChoice ruling](https://www.theverge.com/24195235/scotus-netchoice-kosa-kids-safety-age-verification-tiktok-ban)
- - [Sony’s new ZV-E10 II camera is designed to sway vloggers away from $1,000 phones](https://www.theverge.com/2024/7/10/24194506/sony-alpha-zve10ii-vlogging-camera-apsc-mirrorless-specs-price)
- - [How to refurbish and restore the original Apple TV](https://appleinsider.com/inside/apple-tv/tips/how-to-refurbish-and-restore-the-original-apple-tv?utm_medium=rss)
- - [Samsung Galaxy Z Fold6 and Z Flip6 hands-on: new cameras are great, expanded Galaxy AI features, 12GB of RAM, and stronger frames, but both cost $100 more &lpar;Sam Rutherford/Engadget&rpar;](http://www.techmeme.com/240710/p23#a240710p23)<!-- TECH:END -->
+ - [The aftermath of the Supreme Court’s NetChoice ruling](https://www.theverge.com/24195235/scotus-netchoice-kosa-kids-safety-age-verification-tiktok-ban)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

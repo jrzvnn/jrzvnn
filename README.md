@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Redbox’s disc rentals are over](https://www.theverge.com/2024/7/10/24196063/redbox-chicken-soup-bankruptcy-liquidate)
- - [Florida’s digital ID app has suddenly disappeared](https://www.theverge.com/2024/7/10/24196044/florida-smart-id-digital-state-id-app-shut-down)
- - [Elon Musk’s Neuralink Is Ready to Implant a Second Volunteer](https://www.wired.com/story/elon-musk-neuralink-implant-second-volunteer/)
- - [The best Prime Day deals you can already get](https://www.theverge.com/24186583/amazon-prime-day-2024-best-tech-deals-sales)
- - [This week&#39;s 14-inch MacBook Pro price war continues with a $300 discount at Amazon, B&amp;H](https://appleinsider.com/articles/24/07/10/this-weeks-14-inch-macbook-pro-price-war-continues-with-a-300-discount-at-amazon-bh?utm_medium=rss)<!-- TECH:END -->
+ - [Redbox owner Chicken Soup for the Soul Entertainment is granted Chapter 7 bankruptcy, paving the way for shutting down the company and liquidating its assets &lpar;Janko Roettgers/Lowpass&rpar;](http://www.techmeme.com/240710/p36#a240710p36)
+ - [Adult Electric Scooter](https://www.cnet.com/roadshow/news/adult-electric-scooter-dpnl/#ftag=CAD590a51e)
+ - [Meta Quest 3 &lpar;128GB&rpar;](https://www.cnet.com/tech/gaming/meta-quest-3-dpnl/#ftag=CAD590a51e)
+ - [Nintendo Switch](https://www.cnet.com/tech/gaming/nintendo-switch3-dpnl/#ftag=CAD590a51e)
+ - [Digital Picture Frame](https://www.cnet.com/tech/digital-picture-frame4-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

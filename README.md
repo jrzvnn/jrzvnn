@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Diversity goes brrr](http://9gag.com/gag/aYQed3w)
- - 😝 [Yes he is](http://9gag.com/gag/aXP9eg6)
- - 💣 [Let me guess... African as king of Rome and put some rap battle music...](http://9gag.com/gag/aoy9npe)
- - 😝 [Physics](http://9gag.com/gag/a87MnKY)
- - 👉 [For real](http://9gag.com/gag/aD2oMB9)<!-- MEMES:END -->
+ - 😝 [Oh Yeah...](http://9gag.com/gag/aD2oP5G)
+ - 😝 [???????????](http://9gag.com/gag/aW469DZ)
+ - 💣 [For real](http://9gag.com/gag/aD2oMB9)
+ - 😝 [That&#39;s what called food .](http://9gag.com/gag/aD2oPd7)
+ - 👉 [10/10](http://9gag.com/gag/aAy1ZZo)<!-- MEMES:END -->
 
 ---
 

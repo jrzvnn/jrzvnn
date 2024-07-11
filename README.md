@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [An international study of 642 websites and mobile apps offering subscription services finds ~76% with at least one possible dark pattern and ~67% with multiple &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240710/p37#a240710p37)
- - [Redbox owner Chicken Soup for the Soul Entertainment is granted Chapter 7 bankruptcy, paving the way for shutting down the company and liquidating its assets &lpar;Janko Roettgers/Lowpass&rpar;](http://www.techmeme.com/240710/p36#a240710p36)
- - [Adult Electric Scooter](https://www.cnet.com/roadshow/news/adult-electric-scooter-dpnl/#ftag=CAD590a51e)
- - [Meta Quest 3 &lpar;128GB&rpar;](https://www.cnet.com/tech/gaming/meta-quest-3-dpnl/#ftag=CAD590a51e)
- - [Nintendo Switch](https://www.cnet.com/tech/gaming/nintendo-switch3-dpnl/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Gel Mattress for 2024](https://www.cnet.com/health/sleep/best-gel-mattress/#ftag=CAD590a51e)
+ - [Best Internet Providers in St. Paul, Minnesota](https://www.cnet.com/home/internet/best-internet-providers-in-st-paul-mn/#ftag=CAD590a51e)
+ - [Best Internet Providers in Salt Lake City, Utah](https://www.cnet.com/home/internet/best-internet-providers-in-salt-lake-city-ut/#ftag=CAD590a51e)
+ - [Best Internet Providers in Reno, Nevada](https://www.cnet.com/home/internet/best-internet-providers-in-reno-nv/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

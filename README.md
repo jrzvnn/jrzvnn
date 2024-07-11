@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There is a reason why they total the car](http://9gag.com/gag/adBje29)
  - 😝 [So many questions. What is this disgusting sport? Where is it? How do I sign up?](http://9gag.com/gag/aXP922P)
- - 💣 [And Another One &lpar;link in comments&rpar;](http://9gag.com/gag/aNDn4Qb)
- - 😝 [Moonwalking into Oval](http://9gag.com/gag/aE07OBM)
- - 👉 [Let me guess... African as king of Rome and put some rap battle music...](http://9gag.com/gag/aoy9npe)<!-- MEMES:END -->
+ - 😝 [A completely normal phenomenon](http://9gag.com/gag/aKGq83Q)
+ - 💣 [Pedo teacher busted](http://9gag.com/gag/agmVxq6)
+ - 😝 [There is a reason why they total the car](http://9gag.com/gag/adBje29)
+ - 👉 [Journalist think The Red Baron&#39;s Aircraft is a Nazi Aircraft](http://9gag.com/gag/an7NE1B)<!-- MEMES:END -->
 
 ---
 

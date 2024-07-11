@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let me guess... African as king of Rome and put some rap battle music...](http://9gag.com/gag/aoy9npe)
- - 😝 [A completely normal phenomenon](http://9gag.com/gag/aKGq83Q)
- - 💣 [Pedo teacher busted](http://9gag.com/gag/agmVxq6)
- - 😝 [Moonwalking into Oval](http://9gag.com/gag/aE07OBM)
- - 👉 [This is probably how our dreams actually looks like](http://9gag.com/gag/aYQeRYx)<!-- MEMES:END -->
+ - 😝 [Enough is enough](http://9gag.com/gag/avyPxmd)
+ - 😝 [Kids learn best from the wise](http://9gag.com/gag/aW46bdx)
+ - 💣 [Let me guess... African as king of Rome and put some rap battle music...](http://9gag.com/gag/aoy9npe)
+ - 😝 [Easy peasy](http://9gag.com/gag/a9y7X8D)
+ - 👉 [Trevor](http://9gag.com/gag/a9y7DYL)<!-- MEMES:END -->
 
 ---
 

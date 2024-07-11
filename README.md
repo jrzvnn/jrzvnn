@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The only correct response](http://9gag.com/gag/aAy128R)
- - 😝 [Mohammed, who had just arrived in UK from Bangladesh, tried to abuse a 13 year old British girl because age doesn&#39;t matter to him.](http://9gag.com/gag/awyxeL8)
- - 💣 [Bruce Lee way of punching demonstrated by Aaron Allen, the former bodyguard of Tupac Shakur](http://9gag.com/gag/ae9G745)
+ - 😝 [Bruce Lee way of punching demonstrated by Aaron Allen, the former bodyguard of Tupac Shakur](http://9gag.com/gag/ae9G745)
+ - 😝 [Different abby, same cocks](http://9gag.com/gag/aE07Xmo)
+ - 💣 [This is probably how our dreams actually looks like](http://9gag.com/gag/aYQeRYx)
  - 😝 [Yes he is](http://9gag.com/gag/aXP9eg6)
- - 👉 [For real](http://9gag.com/gag/aD2oMB9)<!-- MEMES:END -->
+ - 👉 [Bro knew the real vibe](http://9gag.com/gag/apRvdrB)<!-- MEMES:END -->
 
 ---
 

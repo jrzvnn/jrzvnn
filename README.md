@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So many questions. What is this disgusting sport? Where is it? How do I sign up?](http://9gag.com/gag/aXP922P)
- - 😝 [Umm wtf?](http://9gag.com/gag/a87MDx1)
- - 💣 [Unexpected](http://9gag.com/gag/abA0BgE)
- - 😝 [Journalist think The Red Baron&#39;s Aircraft is a Nazi Aircraft](http://9gag.com/gag/an7NE1B)
- - 👉 [Moonwalking into Oval](http://9gag.com/gag/aE07OBM)<!-- MEMES:END -->
+ - 😝 [Let me guess... African as king of Rome and put some rap battle music...](http://9gag.com/gag/aoy9npe)
+ - 😝 [Pedo teacher busted](http://9gag.com/gag/agmVxq6)
+ - 💣 [The only correct response](http://9gag.com/gag/aAy128R)
+ - 😝 [Classic](http://9gag.com/gag/a2vmDMd)
+ - 👉 [You don&#39;t actually deserve this humor. However, here you go fellas?](http://9gag.com/gag/axyjOVp)<!-- MEMES:END -->
 
 ---
 

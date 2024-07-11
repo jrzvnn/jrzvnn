@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Redbox’s disc rentals are over](https://www.theverge.com/2024/7/10/24196063/redbox-chicken-soup-bankruptcy-liquidate)
  - [Florida’s digital ID app has suddenly disappeared](https://www.theverge.com/2024/7/10/24196044/florida-smart-id-digital-state-id-app-shut-down)
+ - [Elon Musk’s Neuralink Is Ready to Implant a Second Volunteer](https://www.wired.com/story/elon-musk-neuralink-implant-second-volunteer/)
  - [The best Prime Day deals you can already get](https://www.theverge.com/24186583/amazon-prime-day-2024-best-tech-deals-sales)
- - [This week&#39;s 14-inch MacBook Pro price war continues with a $300 discount at Amazon, B&amp;H](https://appleinsider.com/articles/24/07/10/this-weeks-14-inch-macbook-pro-price-war-continues-with-a-300-discount-at-amazon-bh?utm_medium=rss)
- - [Early Apple tech bloggers are shocked to find their name and work have been AI-zombified](https://www.theverge.com/2024/7/10/24195858/tuaw-unofficial-apple-tech-blog-ai-web-orange-khan)
- - [US prosecutors say crypto exchange BitMEX pled guilty to one count of Bank Secrecy Act violations by operating without an adequate AML program from 2015 to 2020 &lpar;Brady Dale/Axios&rpar;](http://www.techmeme.com/240710/p35#a240710p35)<!-- TECH:END -->
+ - [This week&#39;s 14-inch MacBook Pro price war continues with a $300 discount at Amazon, B&amp;H](https://appleinsider.com/articles/24/07/10/this-weeks-14-inch-macbook-pro-price-war-continues-with-a-300-discount-at-amazon-bh?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

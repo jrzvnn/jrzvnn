@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Journalist think The Red Baron&#39;s Aircraft is a Nazi Aircraft](http://9gag.com/gag/an7NE1B)
+ - 😝 [Japan no! Have sex but with other people!](http://9gag.com/gag/a34BN2e)
+ - 😝 [Bruce Lee way of punching demonstrated by Aaron Allen, the former bodyguard of Tupac Shakur](http://9gag.com/gag/ae9G745)
+ - 💣 [Hummmmmmmm](http://9gag.com/gag/an7NDjo)
  - 😝 [Moonwalking into Oval](http://9gag.com/gag/aE07OBM)
- - 💣 [And Another One &lpar;link in comments&rpar;](http://9gag.com/gag/aNDn4Qb)
- - 😝 [Catch](http://9gag.com/gag/a9y7BMj)
- - 👉 [Yes he is](http://9gag.com/gag/aXP9eg6)<!-- MEMES:END -->
+ - 👉 [Attempted hijacking](http://9gag.com/gag/a7o7A1x)<!-- MEMES:END -->
 
 ---
 

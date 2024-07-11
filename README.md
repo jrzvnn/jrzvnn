@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Planet Coaster’s slippery sequel lets you build your own water park](https://www.theverge.com/2024/7/11/24196770/planet-coaster-2-water-park-rides-waterslides)
+ - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
  - [Google Pixel 9: all of the leaks and rumors so far](https://www.theverge.com/24196571/google-pixel-9-pro-xl-9a-fold-rumors-leaks-camera)
  - [Best Deals on Earbuds and Headphones: Score Beats, Skullcandy and More for Way Less](https://www.cnet.com/deals/best-headphone-deals/#ftag=CAD590a51e)
- - [Best Creatine Supplements of 2024](https://www.cnet.com/health/nutrition/best-creatine-supplements/#ftag=CAD590a51e)
- - [Don&#39;t Miss Out on the Best Prime Day TV Deals Happening Now](https://www.cnet.com/deals/dont-miss-out-on-the-best-prime-day-tv-deals-happening-now/#ftag=CAD590a51e)
- - [New Starlink Mini Gets You High-Speed Internet On the Move](https://www.cnet.com/home/internet/new-starlink-mini-gets-you-high-speed-internet-on-the-move/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Creatine Supplements of 2024](https://www.cnet.com/health/nutrition/best-creatine-supplements/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

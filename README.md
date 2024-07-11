@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)
- - [Silicon Valley Defense Group: the US federal government spent $22B on tech from the top 100 national security startups, a paltry sum and far below VC investment &lpar;Heather Somerville/Wall Street Journal&rpar;](http://www.techmeme.com/240711/p14#a240711p14)
- - [If your Philips Hue bulbs are randomly cranking up to 100% on their own, you&#39;re not alone](https://appleinsider.com/articles/24/07/09/if-your-philips-hue-bulbs-are-randomly-cranking-up-to-100-on-their-own-youre-not-alone?utm_medium=rss)
- - [Apple sends iPhone hack warnings to more users in 98 countries](https://appleinsider.com/articles/24/07/11/apple-sends-iphone-hack-warnings-to-more-users-in-98-countries?utm_medium=rss)
- - [‘Death Occurs in the Dark’: Indie Video Game Devs Are Struggling to Survive](https://www.wired.com/story/death-occurs-in-the-dark-indie-video-game-devs-are-struggling-to-stay-afloat/)<!-- TECH:END -->
+ - [AI design apps made my new apartment look odd](https://www.theverge.com/24171559/ai-design-app-chatgpt-ikea-spacely-decoratly)
+ - [Fireworks AI, which helps companies fine-tune and customize AI models, raised $52M led by Sequoia at a $552M valuation, taking its total funding to $77M &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/240711/p15#a240711p15)
+ - [This is Sonos’ next flagship soundbar](https://www.theverge.com/2024/7/11/24195947/sonos-lasso-soundbar-photos-features-leak)
+ - [Semaglutide for the People](https://www.wired.com/story/gadget-lab-podcast-650/)
+ - [How to manage a road trip move](https://www.theverge.com/24173840/moving-long-distance-tips-tricks-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

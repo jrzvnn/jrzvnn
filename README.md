@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chainalysis: more than half of all illicit transaction volume in crypto now winds up on centralized exchanges &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/240711/p24#a240711p24)
  - [Max might not be the one to watch after all](https://www.theverge.com/2024/7/11/24196475/wbd-hbo-originals-max-the-penguin-dune-prophecy)
- - [Arab and Muslim workers at Meta detail frustrations over Meta&#39;s handling of internal discussions on the Israel-Hamas war, worrying it led to bad product choices &lpar;Wired&rpar;](http://www.techmeme.com/240711/p23#a240711p23)
- - [You can’t screw up Arduino’s new DIY electronics kit](https://www.theverge.com/2024/7/11/24196432/arduino-electronics-starter-kit-educational)
- - [Prime Day Live Blog](https://www.cnet.com/tech/prime-day-live-blog/#ftag=CAD590a51e)
- - [Eero Pro 6 Review: High-End Performance, but Officially Discontinued](https://www.cnet.com/home/internet/eero-pro-6-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [These Are the Best Smart Devices for Amazon Alexa in 2024](https://www.cnet.com/home/smart-home/best-alexa-devices/#ftag=CAD590a51e)
+ - [Early Prime Day Sales Reduce Amazon Echo Devices to as Low as $18](https://www.cnet.com/deals/early-prime-day-sales-reduce-amazon-echo-devices-to-as-low-as-18/#ftag=CAD590a51e)
+ - [Prime Day Deals: The Best Finds for $10 or Less](https://www.cnet.com/deals/prime-day-deals-the-best-finds-for-10-or-less/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

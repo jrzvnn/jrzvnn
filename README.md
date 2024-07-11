@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bruce Lee way of punching demonstrated by Aaron Allen, the former bodyguard of Tupac Shakur](http://9gag.com/gag/ae9G745)
+ - 😝 [For real](http://9gag.com/gag/aD2oMB9)
+ - 😝 [Only in Japan it&#39;s safe to test](http://9gag.com/gag/aD2oMbd)
+ - 💣 [They used real person for this scene](http://9gag.com/gag/apRvAVb)
  - 😝 [Different abby, same cocks](http://9gag.com/gag/aE07Xmo)
- - 💣 [This is probably how our dreams actually looks like](http://9gag.com/gag/aYQeRYx)
- - 😝 [Yes he is](http://9gag.com/gag/aXP9eg6)
- - 👉 [Bro knew the real vibe](http://9gag.com/gag/apRvdrB)<!-- MEMES:END -->
+ - 👉 [Catch](http://9gag.com/gag/a9y7BMj)<!-- MEMES:END -->
 
 ---
 

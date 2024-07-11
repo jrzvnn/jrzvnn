@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [For real](http://9gag.com/gag/aD2oMB9)
- - 😝 [Did the Discounts Justify the Cost?](http://9gag.com/gag/aE07O0o)
- - 💣 [This is probably how our dreams actually looks like](http://9gag.com/gag/aYQeRYx)
+ - 😝 [Trevor](http://9gag.com/gag/a9y7DYL)
+ - 😝 [Catch](http://9gag.com/gag/a9y7BMj)
+ - 💣 [Let me guess... African as king of Rome and put some rap battle music...](http://9gag.com/gag/aoy9npe)
  - 😝 [Back &amp; forth](http://9gag.com/gag/a2vmGwO)
- - 👉 [Yes he is](http://9gag.com/gag/aXP9eg6)<!-- MEMES:END -->
+ - 👉 [Bruce Lee way of punching demonstrated by Aaron Allen, the former bodyguard of Tupac Shakur](http://9gag.com/gag/ae9G745)<!-- MEMES:END -->
 
 ---
 

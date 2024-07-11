@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple will now allow rivals access to its iPhone NFC payments in EU](https://appleinsider.com/articles/24/07/11/apple-will-now-allow-rivals-access-to-its-iphone-nfc-payments-in-eu?utm_medium=rss)
+ - [Apple will allow rivals access to its iPhone NFC payments in EU](https://appleinsider.com/articles/24/07/11/apple-will-now-allow-rivals-access-to-its-iphone-nfc-payments-in-eu?utm_medium=rss)
+ - [Paris-based Bioptimus releases H-optimus-0, an open source AI model trained on hundreds of millions of images to aid research and diagnoses of diseases &lpar;Michael Hennessey/Bloomberg&rpar;](http://www.techmeme.com/240711/p11#a240711p11)
+ - [Amazon Prime Day 2024: 48 Early Prime Day Deals to Shop Right Now for Up to 67% Off](https://www.cnet.com/deals/amazon-prime-day/#ftag=CAD590a51e)
  - [SpaceX releases its $599 Starlink Mini portable dish to anyone in the US, available with its $150/month Regional and $50/month Mini Roam services &lpar;Thomas Ricker/The Verge&rpar;](http://www.techmeme.com/240711/p10#a240711p10)
- - [Silicon Valley Hasn’t Embraced Trump. But It’s Wavering on Biden](https://www.wired.com/story/silicon-valley-crypto-trump-biden-debate/)
- - [Apple settles with the EU over Apple Pay and avoids the threat of fines by agreeing to open NFC access on iOS to third-party wallets for free for a decade &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/240711/p9#a240711p9)
- - [Helsing, which offers AI tools for defense, raised &amp;euro;450M led by General Catalyst, a source says at a &amp;euro;4.95B valuation, taking its total funding to &amp;euro;769M &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/240711/p8#a240711p8)<!-- TECH:END -->
+ - [Silicon Valley Hasn’t Embraced Trump. But It’s Wavering on Biden](https://www.wired.com/story/silicon-valley-crypto-trump-biden-debate/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

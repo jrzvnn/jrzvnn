@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Early Prime Day 2024 iPad deals: Apple Pencil &amp; iPads from $79](https://appleinsider.com/articles/24/07/11/early-prime-day-2024-ipad-deals-apple-pencil-ipads-from-79?utm_medium=rss)
  - [Arm announces an open-source graphics upscaler for mobile phones](https://www.theverge.com/2024/7/11/24196566/arm-asr-game-upscaler-for-mobile-devices)
  - [Chainalysis: more than half of all illicit transaction volume in crypto now winds up on centralized exchanges &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/240711/p24#a240711p24)
  - [The 39 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now &lpar;July 2024&rpar;](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
- - [Max might not be the one to watch after all](https://www.theverge.com/2024/7/11/24196475/wbd-hbo-originals-max-the-penguin-dune-prophecy)
- - [These Are the Best Smart Devices for Amazon Alexa in 2024](https://www.cnet.com/home/smart-home/best-alexa-devices/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Max might not be the one to watch after all](https://www.theverge.com/2024/7/11/24196475/wbd-hbo-originals-max-the-penguin-dune-prophecy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

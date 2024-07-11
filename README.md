@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Pixel 9: all of the leaks and rumors so far](https://www.theverge.com/24196571/google-pixel-9-pro-xl-9a-fold-rumors-leaks-camera)
  - [Apple’s AirPods Max have dropped below $400 for the first time](https://www.theverge.com/2024/7/11/24196451/apple-airpods-max-noise-canceling-headphones-deal-sale)
  - [Pressure Grows in Congress to Treat Crypto Investigator Tigran Gambaryan, Jailed in Nigeria, as a Hostage](https://www.wired.com/story/tigran-gambaryan-us-congress-resolution-hostage-nigeria/)
  - [Heritage Foundation insists it was not hacked by ‘gay furries’](https://www.theverge.com/2024/7/11/24196554/siegedsec-heritage-foundation-project-2025-hack-gay-furry)
- - [ARM unveils Accuracy Super Resolution, an upscaler for mobile gaming based on AMD&#39;s FidelityFX Super Resolution 2, available under the MIT open-source license &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/240711/p25#a240711p25)
- - [Best Soundbar for 2024](https://www.cnet.com/tech/home-entertainment/best-soundbar/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [ARM unveils Accuracy Super Resolution, an upscaler for mobile gaming based on AMD&#39;s FidelityFX Super Resolution 2, available under the MIT open-source license &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/240711/p25#a240711p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

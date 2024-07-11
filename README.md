@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s never too late I guess](http://9gag.com/gag/a5Q72YG)
- - 😝 [Grey dress](http://9gag.com/gag/apRvVnn)
- - 💣 [Moonwalking into Oval](http://9gag.com/gag/aE07OBM)
- - 😝 [Mohammed, who had just arrived in UK from Bangladesh, tried to abuse a 13 year old British girl because age doesn&#39;t matter to him.](http://9gag.com/gag/awyxeL8)
- - 👉 [Let me guess... African as king of Rome and put some rap battle music...](http://9gag.com/gag/aoy9npe)<!-- MEMES:END -->
+ - 😝 [For real](http://9gag.com/gag/aD2oMB9)
+ - 😝 [Did the Discounts Justify the Cost?](http://9gag.com/gag/aE07O0o)
+ - 💣 [This is probably how our dreams actually looks like](http://9gag.com/gag/aYQeRYx)
+ - 😝 [Back &amp; forth](http://9gag.com/gag/a2vmGwO)
+ - 👉 [Yes he is](http://9gag.com/gag/aXP9eg6)<!-- MEMES:END -->
 
 ---
 

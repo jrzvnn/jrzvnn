@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple’s AirPods Max have dropped below $400 for the first time](https://www.theverge.com/2024/7/11/24196451/apple-airpods-max-noise-canceling-headphones-deal-sale)
  - [Heritage Foundation insists it was not hacked by ‘gay furries’](https://www.theverge.com/2024/7/11/24196554/siegedsec-heritage-foundation-project-2025-hack-gay-furry)
  - [ARM unveils Accuracy Super Resolution, an upscaler for mobile gaming based on AMD&#39;s FidelityFX Super Resolution 2, available under the MIT open-source license &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/240711/p25#a240711p25)
  - [Early Prime Day 2024 iPad deals: Apple Pencil &amp; iPads from $79](https://appleinsider.com/articles/24/07/11/early-prime-day-2024-ipad-deals-apple-pencil-ipads-from-79?utm_medium=rss)
- - [Arm announces an open-source graphics upscaler for mobile phones](https://www.theverge.com/2024/7/11/24196566/arm-asr-game-upscaler-for-mobile-devices)
- - [Chainalysis: more than half of all illicit transaction volume in crypto now winds up on centralized exchanges &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/240711/p24#a240711p24)<!-- TECH:END -->
+ - [Arm announces an open-source graphics upscaler for mobile phones](https://www.theverge.com/2024/7/11/24196566/arm-asr-game-upscaler-for-mobile-devices)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

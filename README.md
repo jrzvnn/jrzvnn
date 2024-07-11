@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There is a reason why they total the car](http://9gag.com/gag/adBje29)
- - 😝 [My fellow dark elf](http://9gag.com/gag/a4PYAq1)
- - 💣 [And Another One &lpar;link in comments&rpar;](http://9gag.com/gag/aNDn4Qb)
- - 😝 [Japan no! Have sex but with other people!](http://9gag.com/gag/a34BN2e)
- - 👉 [Catch](http://9gag.com/gag/a9y7BMj)<!-- MEMES:END -->
+ - 😝 [Catch](http://9gag.com/gag/a9y7BMj)
+ - 😝 [When Your World Fall&#39;s Apart](http://9gag.com/gag/aD2oOYK)
+ - 💣 [Easy peasy](http://9gag.com/gag/a9y7X8D)
+ - 😝 [That smile](http://9gag.com/gag/amo9p46)
+ - 👉 [Y&#39;all got any more can&#39;t be unseen memes?](http://9gag.com/gag/aryKzpK)<!-- MEMES:END -->
 
 ---
 

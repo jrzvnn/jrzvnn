@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s some really neat drawing.](http://9gag.com/gag/axyjAMD)
- - 😝 [???????????](http://9gag.com/gag/aW469DZ)
- - 💣 [The making of Daft Punk&#39;s &#39;Around the World&#39; music video in 1997, directed by Michael Gondry.](http://9gag.com/gag/ae9GdMj)
- - 😝 [Oh Yeah...](http://9gag.com/gag/aD2oP5G)
- - 👉 [Yes he is](http://9gag.com/gag/aXP9eg6)<!-- MEMES:END -->
+ - 😝 [Diversity goes brrr](http://9gag.com/gag/aYQed3w)
+ - 😝 [Yes he is](http://9gag.com/gag/aXP9eg6)
+ - 💣 [Let me guess... African as king of Rome and put some rap battle music...](http://9gag.com/gag/aoy9npe)
+ - 😝 [Physics](http://9gag.com/gag/a87MnKY)
+ - 👉 [For real](http://9gag.com/gag/aD2oMB9)<!-- MEMES:END -->
 
 ---
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The making of Daft Punk&#39;s &#39;Around the World&#39; music video in 1997, directed by Michael Gondry.](http://9gag.com/gag/ae9GdMj)
- - 😝 [For real](http://9gag.com/gag/aD2oMB9)
- - 💣 [This is probably how our dreams actually looks like](http://9gag.com/gag/aYQeRYx)
+ - 😝 [That&#39;s some really neat drawing.](http://9gag.com/gag/axyjAMD)
  - 😝 [???????????](http://9gag.com/gag/aW469DZ)
- - 👉 [Bro knew the real vibe](http://9gag.com/gag/apRvdrB)<!-- MEMES:END -->
+ - 💣 [The making of Daft Punk&#39;s &#39;Around the World&#39; music video in 1997, directed by Michael Gondry.](http://9gag.com/gag/ae9GdMj)
+ - 😝 [Oh Yeah...](http://9gag.com/gag/aD2oP5G)
+ - 👉 [Yes he is](http://9gag.com/gag/aXP9eg6)<!-- MEMES:END -->
 
 ---
 

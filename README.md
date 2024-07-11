@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Aliens among us](http://9gag.com/gag/aYQeRK2)
- - 😝 [Did the Discounts Justify the Cost?](http://9gag.com/gag/aE07O0o)
+ - 😝 [The making of Daft Punk&#39;s &#39;Around the World&#39; music video in 1997, directed by Michael Gondry.](http://9gag.com/gag/ae9GdMj)
+ - 😝 [For real](http://9gag.com/gag/aD2oMB9)
  - 💣 [This is probably how our dreams actually looks like](http://9gag.com/gag/aYQeRYx)
- - 😝 [Yes he is](http://9gag.com/gag/aXP9eg6)
- - 👉 [Back &amp; forth](http://9gag.com/gag/a2vmGwO)<!-- MEMES:END -->
+ - 😝 [???????????](http://9gag.com/gag/aW469DZ)
+ - 👉 [Bro knew the real vibe](http://9gag.com/gag/apRvdrB)<!-- MEMES:END -->
 
 ---
 

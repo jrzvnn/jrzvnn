@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And Another One &lpar;link in comments&rpar;](http://9gag.com/gag/aNDn4Qb)
- - 😝 [Japan no! Have sex but with other people!](http://9gag.com/gag/a34BN2e)
+ - 😝 [Hummmmmmmm](http://9gag.com/gag/an7NDjo)
+ - 😝 [Moonwalking into Oval](http://9gag.com/gag/aE07OBM)
  - 💣 [Let me guess... African as king of Rome and put some rap battle music...](http://9gag.com/gag/aoy9npe)
- - 😝 [There is a reason why they total the car](http://9gag.com/gag/adBje29)
- - 👉 [Classic](http://9gag.com/gag/a2vmDMd)<!-- MEMES:END -->
+ - 😝 [Japan no! Have sex but with other people!](http://9gag.com/gag/a34BN2e)
+ - 👉 [And Another One &lpar;link in comments&rpar;](http://9gag.com/gag/aNDn4Qb)<!-- MEMES:END -->
 
 ---
 

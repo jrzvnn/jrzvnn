@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s Wordle Hints, Answer and Help for July 11, #1118](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-11-1118/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for July 11, #396](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-11-396/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for July 11, #130](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-11-130/#ftag=CAD590a51e)
  - [How to add sensors to Apple Watch and iPhone for an improved cycling experience](https://appleinsider.com/inside/apple-watch/tips/how-to-add-sensors-to-apple-watch-and-iphone-for-an-improved-cycling-experience?utm_medium=rss)
- - [An international study of 642 websites and mobile apps offering subscription services finds ~76% with at least one possible dark pattern and ~67% with multiple &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240710/p37#a240710p37)
- - [Best Comforters for 2024](https://www.cnet.com/health/sleep/best-comforters/#ftag=CAD590a51e)
- - [Best Gel Mattress for 2024](https://www.cnet.com/health/sleep/best-gel-mattress/#ftag=CAD590a51e)
- - [Best Internet Providers in St. Paul, Minnesota](https://www.cnet.com/home/internet/best-internet-providers-in-st-paul-mn/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An international study of 642 websites and mobile apps offering subscription services finds ~76% with at least one possible dark pattern and ~67% with multiple &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240710/p37#a240710p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

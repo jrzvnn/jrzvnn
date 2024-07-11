@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So many questions. What is this disgusting sport? Where is it? How do I sign up?](http://9gag.com/gag/aXP922P)
- - 😝 [A completely normal phenomenon](http://9gag.com/gag/aKGq83Q)
- - 💣 [Pedo teacher busted](http://9gag.com/gag/agmVxq6)
+ - 😝 [NYC will start to use trash bins. Dudes, they&#39;re living in the future](http://9gag.com/gag/aQz8mm8)
+ - 😝 [He was in the bushes watching! he didn&#39;t like that move at his friend](http://9gag.com/gag/aYQePzq)
+ - 💣 [Different abby, same cocks](http://9gag.com/gag/aE07Xmo)
  - 😝 [There is a reason why they total the car](http://9gag.com/gag/adBje29)
- - 👉 [Journalist think The Red Baron&#39;s Aircraft is a Nazi Aircraft](http://9gag.com/gag/an7NE1B)<!-- MEMES:END -->
+ - 👉 [Japan no! Have sex but with other people!](http://9gag.com/gag/a34BN2e)<!-- MEMES:END -->
 
 ---
 

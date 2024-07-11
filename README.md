@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Kamala Harris Conspiracies Are Here](https://www.wired.com/story/kamala-harris-conspiracy-theories/)
  - [Here’s how OpenAI will determine how powerful its AI systems are](https://www.theverge.com/2024/7/11/24196746/heres-how-openai-will-determine-how-powerful-its-ai-systems-are)
  - [OpenAI creates five levels to track its progress toward AGI: Chatbots, Reasoners, Agents, Innovators, and Organizations, and says it&#39;s nearly at level two &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/240711/p26#a240711p26)
  - [Planet Coaster’s slippery sequel lets you build your own water park](https://www.theverge.com/2024/7/11/24196770/planet-coaster-2-water-park-rides-waterslides)
- - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
- - [5 Summer Travel Tips to Save Money, From a Professional Digital Nomad](https://www.cnet.com/personal-finance/5-summer-travel-tips-to-save-money-from-a-professional-digital-nomad/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

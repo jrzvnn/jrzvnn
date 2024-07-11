@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here’s how OpenAI will determine how powerful its AI systems are](https://www.theverge.com/2024/7/11/24196746/heres-how-openai-will-determine-how-powerful-its-ai-systems-are)
+ - [OpenAI creates five levels to track its progress toward AGI: Chatbots, Reasoners, Agents, Innovators, and Organizations, and says it&#39;s nearly at level two &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/240711/p26#a240711p26)
  - [Planet Coaster’s slippery sequel lets you build your own water park](https://www.theverge.com/2024/7/11/24196770/planet-coaster-2-water-park-rides-waterslides)
  - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
- - [Google Pixel 9: all of the leaks and rumors so far](https://www.theverge.com/24196571/google-pixel-9-pro-xl-9a-fold-rumors-leaks-camera)
- - [Best Deals on Earbuds and Headphones: Score Beats, Skullcandy and More for Way Less](https://www.cnet.com/deals/best-headphone-deals/#ftag=CAD590a51e)
- - [Best Creatine Supplements of 2024](https://www.cnet.com/health/nutrition/best-creatine-supplements/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google DeepMind&#39;s Chatbot-Powered Robot Is Part of a Bigger Revolution](https://www.wired.com/story/google-deepmind-ai-robot/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

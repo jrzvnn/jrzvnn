@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trevor](http://9gag.com/gag/a9y7DYL)
- - 😝 [Back &amp; forth](http://9gag.com/gag/a2vmGwO)
- - 💣 [Time to learn](http://9gag.com/gag/ae9Gxvb)
+ - 😝 [Journalist think The Red Baron&#39;s Aircraft is a Nazi Aircraft](http://9gag.com/gag/an7NE1B)
+ - 😝 [There is a reason why they total the car](http://9gag.com/gag/adBje29)
+ - 💣 [Moonwalking into Oval](http://9gag.com/gag/aE07OBM)
  - 😝 [And Another One &lpar;link in comments&rpar;](http://9gag.com/gag/aNDn4Qb)
- - 👉 [Let me guess... African as king of Rome and put some rap battle music...](http://9gag.com/gag/aoy9npe)<!-- MEMES:END -->
+ - 👉 [Japan no! Have sex but with other people!](http://9gag.com/gag/a34BN2e)<!-- MEMES:END -->
 
 ---
 

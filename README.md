@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shut up and take my money](http://9gag.com/gag/aO8VRNv)
- - 😝 [When Your World Fall&#39;s Apart](http://9gag.com/gag/aD2oOYK)
- - 💣 [Easy peasy](http://9gag.com/gag/a9y7X8D)
- - 😝 [Old commercials are shit](http://9gag.com/gag/aoy9nL3)
- - 👉 [Imagine busking on the street and the artist of the song you are singing randomly walks by...](http://9gag.com/gag/aVvPRRd)<!-- MEMES:END -->
+ - 😝 [My fellow dark elf](http://9gag.com/gag/a4PYAq1)
+ - 😝 [Japan no! Have sex but with other people!](http://9gag.com/gag/a34BN2e)
+ - 💣 [Moonwalking into Oval](http://9gag.com/gag/aE07OBM)
+ - 😝 [Hold your horse](http://9gag.com/gag/an7NxO5)
+ - 👉 [There is a reason why they total the car](http://9gag.com/gag/adBje29)<!-- MEMES:END -->
 
 ---
 

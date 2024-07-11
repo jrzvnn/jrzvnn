@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Priscila Barbosa, who defrauded Uber and other apps by building a $10K per month business renting fake accounts to undocumented workers in the US &lpar;Lauren Smiley/Wired&rpar;](http://www.techmeme.com/240711/p6#a240711p6)
  - [Starlink Mini is now available for anyone in the US to roam](https://www.theverge.com/2024/7/11/24196294/starlink-mini-available-us-price-specs)
  - [How the SCOTUS NetChoice ruling on social media platforms&#39; First Amendment rights could affect a host of tech legislation, including kids&#39; online safety laws &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240711/p5#a240711p5)
- - [Nasscom expects India&#39;s digital talent gap to widen to ~29% in 2028 and says India needs 1M+ engineers with advanced AI skills and more over the next 2-3 years &lpar;Ruchi Bhatia/Bloomberg&rpar;](http://www.techmeme.com/240711/p4#a240711p4)
- - [Kearney-Amazon Pay survey of 6,000 consumers and 1,000 merchants across 120 Indian cities: 46% of transactions for street vendors are digital &lpar;Bhupendra Paintola/Inc42 Media&rpar;](http://www.techmeme.com/240711/p3#a240711p3)
- - [A survey of 1,600 decision makers in key global markets: 83% of Chinese respondents said they&#39;ve adopted generative AI vs. 65% in the US and 54% global average &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/240711/p2#a240711p2)<!-- TECH:END -->
+ - [Nasscom expects India&#39;s digital talent gap to widen to ~29% in 2028 and says India needs 1M+ engineers with advanced AI and other skills over the next 2-3 years &lpar;Ruchi Bhatia/Bloomberg&rpar;](http://www.techmeme.com/240711/p4#a240711p4)
+ - [Kearney-Amazon Pay survey of 6K consumers and 1K merchants in 120 Indian cities: 46% of street vendor transactions are digital, 90% prefer digital, and more &lpar;Bhupendra Paintola/Inc42 Media&rpar;](http://www.techmeme.com/240711/p3#a240711p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [NYC will start to use trash bins. Dudes, they&#39;re living in the future](http://9gag.com/gag/aQz8mm8)
- - 😝 [He was in the bushes watching! he didn&#39;t like that move at his friend](http://9gag.com/gag/aYQePzq)
- - 💣 [Different abby, same cocks](http://9gag.com/gag/aE07Xmo)
- - 😝 [There is a reason why they total the car](http://9gag.com/gag/adBje29)
- - 👉 [Japan no! Have sex but with other people!](http://9gag.com/gag/a34BN2e)<!-- MEMES:END -->
+ - 😝 [Shut up and take my money](http://9gag.com/gag/aO8VRNv)
+ - 😝 [When Your World Fall&#39;s Apart](http://9gag.com/gag/aD2oOYK)
+ - 💣 [Easy peasy](http://9gag.com/gag/a9y7X8D)
+ - 😝 [Old commercials are shit](http://9gag.com/gag/aoy9nL3)
+ - 👉 [Imagine busking on the street and the artist of the song you are singing randomly walks by...](http://9gag.com/gag/aVvPRRd)<!-- MEMES:END -->
 
 ---
 

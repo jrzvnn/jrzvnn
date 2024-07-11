@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Japan no! Have sex but with other people!](http://9gag.com/gag/a34BN2e)
+ - 😝 [Hummmmmmmm](http://9gag.com/gag/an7NDjo)
+ - 😝 [If Europeans made street food the same way Indians do.](http://9gag.com/gag/aAy1XdZ)
+ - 💣 [Let me guess... African as king of Rome and put some rap battle music...](http://9gag.com/gag/aoy9npe)
  - 😝 [Bruce Lee way of punching demonstrated by Aaron Allen, the former bodyguard of Tupac Shakur](http://9gag.com/gag/ae9G745)
- - 💣 [Hummmmmmmm](http://9gag.com/gag/an7NDjo)
- - 😝 [Moonwalking into Oval](http://9gag.com/gag/aE07OBM)
- - 👉 [Attempted hijacking](http://9gag.com/gag/a7o7A1x)<!-- MEMES:END -->
+ - 👉 [Japan no! Have sex but with other people!](http://9gag.com/gag/a34BN2e)<!-- MEMES:END -->
 
 ---
 

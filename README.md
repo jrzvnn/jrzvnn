@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Only in Japan it&#39;s safe to test](http://9gag.com/gag/aD2oMbd)
+ - 😝 [Journalist think The Red Baron&#39;s Aircraft is a Nazi Aircraft](http://9gag.com/gag/an7NE1B)
+ - 😝 [Moonwalking into Oval](http://9gag.com/gag/aE07OBM)
+ - 💣 [And Another One &lpar;link in comments&rpar;](http://9gag.com/gag/aNDn4Qb)
  - 😝 [Catch](http://9gag.com/gag/a9y7BMj)
- - 💣 [Imagine busking on the street and the artist of the song you are singing randomly walks by...](http://9gag.com/gag/aVvPRRd)
- - 😝 [Back &amp; forth](http://9gag.com/gag/a2vmGwO)
- - 👉 [Al Bundy, living the dream](http://9gag.com/gag/a9y7D9W)<!-- MEMES:END -->
+ - 👉 [Yes he is](http://9gag.com/gag/aXP9eg6)<!-- MEMES:END -->
 
 ---
 

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The King of Chum](https://www.theverge.com/24195879/advon-commerce-ai-sports-illustrated-gannett-product-reviews-spam-seo)
- - [UK government data: digital industry job growth grew just 0.3% in 2023, the lowest since a 0.1% decline in 2013, down from 4.1% growth in 2022 and 6.5% in 2021 &lpar;Isabella Ward/Bloomberg&rpar;](http://www.techmeme.com/240711/p16#a240711p16)
- - [Apple Vision Pro won&#39;t break 500k sales in 2024, even with international expansion](https://appleinsider.com/articles/24/07/11/apple-vision-pro-wont-break-500k-sales-in-2024-even-with-international-expansion?utm_medium=rss)
- - [The Best Nonalcoholic Wines, Chosen by a Bartender &lpar;2024&rpar;](https://www.wired.com/story/best-non-alcoholic-wines/)
- - [Apple has big camera upgrades lined up through iPhone 19 Pro](https://appleinsider.com/articles/24/07/11/apple-has-big-upgrades-in-mind-for-the-cameras-all-the-way-through-the-iphone-19-pro?utm_medium=rss)<!-- TECH:END -->
+ - [This climate tech startup wants to capture carbon and help data centers cool down](https://www.theverge.com/2024/7/11/24195989/climate-change-carbon-removal-startup-280-earth-google)
+ - [The US SEC drops its investigation into Paxos over its BUSD stablecoin, after sending Paxos a Wells notice in February 2023 &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/240711/p17#a240711p17)
+ - [Model rocket enthusiasts are learning how to do vertical landings](https://www.theverge.com/2024/7/11/24195913/rockets-hobbies-spacex-falcon-9-model-rockets-landings)
+ - [11 Picks for the Best Gaming Mouse, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-gaming-mouse/)
+ - [The King of Chum](https://www.theverge.com/24195879/advon-commerce-ai-sports-illustrated-gannett-product-reviews-spam-seo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

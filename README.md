@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple settles with the EU over Apple Pay and avoids the threat of fines by agreeing to open NFC access on iOS to third-party wallets for free for a decade &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/240711/p9#a240711p9)
  - [Helsing, which offers AI tools for defense, raised &amp;euro;450M led by General Catalyst, a source says at a &amp;euro;4.95B valuation, taking its total funding to &amp;euro;769M &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/240711/p8#a240711p8)
  - [Shuttered auto plants will become EV factories thanks to $1.7 billion Biden program](https://www.theverge.com/2024/7/11/24195811/biden-ev-factory-retrofit-conversion-grant-funding)
  - [Tencent-backed Shift Up closed up ~18% after raising $320M in its Seoul IPO, the largest South Korean IPO by a gaming company since Krafton raised $3.8B in 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240711/p7#a240711p7)
- - [A profile of Priscila Barbosa, who defrauded Uber and other apps by building a $10K per month business renting fake accounts to undocumented workers in the US &lpar;Lauren Smiley/Wired&rpar;](http://www.techmeme.com/240711/p6#a240711p6)
- - [Samsung&#39;s Galaxy Buds 3 Look Like AirPods, But That&#39;s Not All That&#39;s New](https://www.cnet.com/tech/mobile/samsungs-galaxy-buds-3-look-like-airpods-but-thats-not-all-thats-new/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A profile of Priscila Barbosa, who defrauded Uber and other apps by building a $10K per month business renting fake accounts to undocumented workers in the US &lpar;Lauren Smiley/Wired&rpar;](http://www.techmeme.com/240711/p6#a240711p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

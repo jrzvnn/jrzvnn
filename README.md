@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let me guess... African as king of Rome and put some rap battle music...](http://9gag.com/gag/aoy9npe)
- - 😝 [Pedo teacher busted](http://9gag.com/gag/agmVxq6)
- - 💣 [The only correct response](http://9gag.com/gag/aAy128R)
- - 😝 [Classic](http://9gag.com/gag/a2vmDMd)
- - 👉 [You don&#39;t actually deserve this humor. However, here you go fellas?](http://9gag.com/gag/axyjOVp)<!-- MEMES:END -->
+ - 😝 [Bruce Lee way of punching demonstrated by Aaron Allen, the former bodyguard of Tupac Shakur](http://9gag.com/gag/ae9G745)
+ - 😝 [So many questions. What is this disgusting sport? Where is it? How do I sign up?](http://9gag.com/gag/aXP922P)
+ - 💣 [And Another One &lpar;link in comments&rpar;](http://9gag.com/gag/aNDn4Qb)
+ - 😝 [A completely normal phenomenon](http://9gag.com/gag/aKGq83Q)
+ - 👉 [Moonwalking into Oval](http://9gag.com/gag/aE07OBM)<!-- MEMES:END -->
 
 ---
 

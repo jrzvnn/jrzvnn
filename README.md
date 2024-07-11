@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hummmmmmmm](http://9gag.com/gag/an7NDjo)
- - 😝 [Enough is enough](http://9gag.com/gag/avyPxmd)
- - 💣 [When Your World Fall&#39;s Apart](http://9gag.com/gag/aD2oOYK)
- - 😝 [Argentinian GOAT](http://9gag.com/gag/apRvbmp)
- - 👉 [Moonwalking into Oval](http://9gag.com/gag/aE07OBM)<!-- MEMES:END -->
+ - 😝 [Moonwalking into Oval](http://9gag.com/gag/aE07OBM)
+ - 😝 [And Another One &lpar;link in comments&rpar;](http://9gag.com/gag/aNDn4Qb)
+ - 💣 [Pedo teacher busted](http://9gag.com/gag/agmVxq6)
+ - 😝 [Let me guess... African as king of Rome and put some rap battle music...](http://9gag.com/gag/aoy9npe)
+ - 👉 [A completely normal phenomenon](http://9gag.com/gag/aKGq83Q)<!-- MEMES:END -->
 
 ---
 

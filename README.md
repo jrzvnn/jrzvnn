@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hummmmmmmm](http://9gag.com/gag/an7NDjo)
- - 😝 [Moonwalking into Oval](http://9gag.com/gag/aE07OBM)
- - 💣 [Let me guess... African as king of Rome and put some rap battle music...](http://9gag.com/gag/aoy9npe)
+ - 😝 [There is a reason why they total the car](http://9gag.com/gag/adBje29)
  - 😝 [Japan no! Have sex but with other people!](http://9gag.com/gag/a34BN2e)
- - 👉 [And Another One &lpar;link in comments&rpar;](http://9gag.com/gag/aNDn4Qb)<!-- MEMES:END -->
+ - 💣 [Bruce Lee way of punching demonstrated by Aaron Allen, the former bodyguard of Tupac Shakur](http://9gag.com/gag/ae9G745)
+ - 😝 [Moonwalking into Oval](http://9gag.com/gag/aE07OBM)
+ - 👉 [Catch](http://9gag.com/gag/a9y7BMj)<!-- MEMES:END -->
 
 ---
 

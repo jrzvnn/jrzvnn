@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Arm announces an open-source graphics upscaler for mobile phones](https://www.theverge.com/2024/7/11/24196566/arm-asr-game-upscaler-for-mobile-devices)
  - [Chainalysis: more than half of all illicit transaction volume in crypto now winds up on centralized exchanges &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/240711/p24#a240711p24)
+ - [The 39 Best Shows on Max &lpar;aka HBO Max&rpar; Right Now &lpar;July 2024&rpar;](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
  - [Max might not be the one to watch after all](https://www.theverge.com/2024/7/11/24196475/wbd-hbo-originals-max-the-penguin-dune-prophecy)
- - [These Are the Best Smart Devices for Amazon Alexa in 2024](https://www.cnet.com/home/smart-home/best-alexa-devices/#ftag=CAD590a51e)
- - [Early Prime Day Sales Reduce Amazon Echo Devices to as Low as $18](https://www.cnet.com/deals/early-prime-day-sales-reduce-amazon-echo-devices-to-as-low-as-18/#ftag=CAD590a51e)
- - [Prime Day Deals: The Best Finds for $10 or Less](https://www.cnet.com/deals/prime-day-deals-the-best-finds-for-10-or-less/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [These Are the Best Smart Devices for Amazon Alexa in 2024](https://www.cnet.com/home/smart-home/best-alexa-devices/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

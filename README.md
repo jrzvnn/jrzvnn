@@ -162,8 +162,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [YouTube announces new Shorts features, including TikTok-like text-to-speech video narration, in-app auto-generated captions, and a set of Minecraft effects &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240711/p21#a240711p21)
  - [Apple is trying to reinvent group audio chat with no cell or WiFi needed](https://appleinsider.com/articles/24/07/11/apple-is-trying-to-reinvent-group-audio-chat-with-no-cell-or-wifi-needed?utm_medium=rss)
  - [Two Republican US House Committee chairs call for an intelligence assessment of Microsoft&#39;s deal with Abu Dhabi&#39;s G42, including a focus on G42&#39;s China ties &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/240711/p20#a240711p20)
- - [OpenAI Is Testing Its Powers of Persuasion](https://www.wired.com/story/thrive-ai-openai-artificial-intelligence-persuasion/)
- - [YouTube Shorts adds TikTok-style artificial voiceovers](https://www.theverge.com/2024/7/11/24195934/youtube-shorts-new-features-voiceover-auto-captions)<!-- TECH:END -->
+ - [YouTube Shorts adds TikTok-style artificial voiceovers](https://www.theverge.com/2024/7/11/24195934/youtube-shorts-new-features-voiceover-auto-captions)
+ - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

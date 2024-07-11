@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [For real](http://9gag.com/gag/aD2oMB9)
- - 😝 [Only in Japan it&#39;s safe to test](http://9gag.com/gag/aD2oMbd)
- - 💣 [They used real person for this scene](http://9gag.com/gag/apRvAVb)
- - 😝 [Different abby, same cocks](http://9gag.com/gag/aE07Xmo)
- - 👉 [Catch](http://9gag.com/gag/a9y7BMj)<!-- MEMES:END -->
+ - 😝 [Aliens among us](http://9gag.com/gag/aYQeRK2)
+ - 😝 [Did the Discounts Justify the Cost?](http://9gag.com/gag/aE07O0o)
+ - 💣 [This is probably how our dreams actually looks like](http://9gag.com/gag/aYQeRYx)
+ - 😝 [Yes he is](http://9gag.com/gag/aXP9eg6)
+ - 👉 [Back &amp; forth](http://9gag.com/gag/a2vmGwO)<!-- MEMES:END -->
 
 ---
 

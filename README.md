@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Verizon’s Total Wireless prepaid brand is now offering a five-year price guarantee](https://www.theverge.com/2024/7/11/24196382/verizon-total-wireless-prepaid-five-year-price-lock)
  - [A Google DeepMind research paper details how Gemini 1.5 Pro&#39;s 1M-token context window allows its robots to navigate and complete tasks using simple instructions &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240711/p18#a240711p18)
  - [Apple to Allow Rivals to Access ‘Tap and Go’ Technology](https://www.wired.com/story/apple-to-allow-rivals-to-access-tap-and-go-technology/)
- - [Google says Gemini AI is making its robots smarter](https://www.theverge.com/2024/7/11/24196402/google-deepmind-gemini-1-5-pro-robot-navigation)
- - [This climate tech startup wants to capture carbon and help data centers cool down](https://www.theverge.com/2024/7/11/24195989/climate-change-carbon-removal-startup-280-earth-google)
- - [The US SEC drops its investigation into Paxos over its BUSD stablecoin, after sending Paxos a Wells notice in February 2023 &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/240711/p17#a240711p17)<!-- TECH:END -->
+ - [Save Over $100 on Our Top Recommended Robot Vacuum of 2024](https://www.cnet.com/deals/save-over-100-on-our-top-recommended-robot-vacuum-of-2024/#ftag=CAD590a51e)
+ - [Casper Snow Max Hybrid Mattress Review 2024: A Premium Bed Tested by Experts](https://www.cnet.com/health/sleep/casper-snow-max-hybrid-mattress-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

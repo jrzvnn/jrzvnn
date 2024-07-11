@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Journalist think The Red Baron&#39;s Aircraft is a Nazi Aircraft](http://9gag.com/gag/an7NE1B)
- - 😝 [There is a reason why they total the car](http://9gag.com/gag/adBje29)
- - 💣 [Moonwalking into Oval](http://9gag.com/gag/aE07OBM)
- - 😝 [And Another One &lpar;link in comments&rpar;](http://9gag.com/gag/aNDn4Qb)
- - 👉 [Japan no! Have sex but with other people!](http://9gag.com/gag/a34BN2e)<!-- MEMES:END -->
+ - 😝 [Her friend is cute too](http://9gag.com/gag/a9y7Bn1)
+ - 😝 [Listen fat ass!](http://9gag.com/gag/aVvPBPP)
+ - 💣 [Trevor](http://9gag.com/gag/a9y7DYL)
+ - 😝 [Catch](http://9gag.com/gag/a9y7BMj)
+ - 👉 [Imagine busking on the street and the artist of the song you are singing randomly walks by...](http://9gag.com/gag/aVvPRRd)<!-- MEMES:END -->
 
 ---
 

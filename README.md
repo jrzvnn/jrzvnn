@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Earth lost one more idiot.](http://9gag.com/gag/aZZMQOz)
- - 😝 [There is a reason why they total the car](http://9gag.com/gag/adBje29)
- - 💣 [Activist.](http://9gag.com/gag/aQz8277)
- - 😝 [European jailed in Indonesia !](http://9gag.com/gag/aPADr7w)
- - 👉 [That&#39;s the stuff](http://9gag.com/gag/a6Z7pD2)<!-- MEMES:END -->
+ - 😝 [So many questions. What is this disgusting sport? Where is it? How do I sign up?](http://9gag.com/gag/aXP922P)
+ - 😝 [Umm wtf?](http://9gag.com/gag/a87MDx1)
+ - 💣 [Unexpected](http://9gag.com/gag/abA0BgE)
+ - 😝 [Journalist think The Red Baron&#39;s Aircraft is a Nazi Aircraft](http://9gag.com/gag/an7NE1B)
+ - 👉 [Moonwalking into Oval](http://9gag.com/gag/aE07OBM)<!-- MEMES:END -->
 
 ---
 

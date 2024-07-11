@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Attempted hijacking](http://9gag.com/gag/a7o7A1x)
- - 😝 [Yes he is](http://9gag.com/gag/aXP9eg6)
- - 💣 [For real](http://9gag.com/gag/aD2oMB9)
- - 😝 [Catch](http://9gag.com/gag/a9y7BMj)
- - 👉 [Bruce Lee way of punching demonstrated by Aaron Allen, the former bodyguard of Tupac Shakur](http://9gag.com/gag/ae9G745)<!-- MEMES:END -->
+ - 😝 [Mexican food vendors traveled down to India to eat Indian street food on a dare. It didn\u2019t end well.](http://9gag.com/gag/aKGqYwN)
+ - 😝 [So many questions. What is this disgusting sport? Where is it? How do I sign up?](http://9gag.com/gag/aXP922P)
+ - 💣 [Did the Discounts Justify the Cost?](http://9gag.com/gag/aE07O0o)
+ - 😝 [Painting the chicken wire black](http://9gag.com/gag/aD2oX5K)
+ - 👉 [Yes he is](http://9gag.com/gag/aXP9eg6)<!-- MEMES:END -->
 
 ---
 

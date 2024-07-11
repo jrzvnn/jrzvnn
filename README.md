@@ -163,7 +163,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [OpenAI creates five levels to track its progress toward AGI: Chatbots, Reasoners, Agents, Innovators, and Organizations, and says it&#39;s nearly at level two &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/240711/p26#a240711p26)
  - [Planet Coaster’s slippery sequel lets you build your own water park](https://www.theverge.com/2024/7/11/24196770/planet-coaster-2-water-park-rides-waterslides)
  - [The best ebook reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
- - [Google DeepMind&#39;s Chatbot-Powered Robot Is Part of a Bigger Revolution](https://www.wired.com/story/google-deepmind-ai-robot/)<!-- TECH:END -->
+ - [5 Summer Travel Tips to Save Money, From a Professional Digital Nomad](https://www.cnet.com/personal-finance/5-summer-travel-tips-to-save-money-from-a-professional-digital-nomad/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

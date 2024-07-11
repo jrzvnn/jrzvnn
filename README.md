@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Pencil with USB-C now sold refurbished, but there are better deals](https://appleinsider.com/articles/24/07/11/apple-pencil-with-usb-c-now-sold-refurbished-but-there-are-better-deals?utm_medium=rss)
  - [SoftBank buys struggling UK-based chip company Graphcore with full regulatory approval granted; the once touted Nvidia rival was valued at ~$2.8B in Dec. 2020 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240711/p27#a240711p27)
  - [The AI-focused COPIED Act would make removing digital watermarks illegal](https://www.theverge.com/2024/7/11/24196769/copied-act-cantwell-blackburn-heinrich-ai-journalists-artists)
  - [Nolah Mattresses Review 2024: A Bed for Everyone](https://www.cnet.com/health/sleep/nolah-mattresses-review/#ftag=CAD590a51e)
- - [Why Solar Panels Can Add Thousands to Your Home&#39;s Value](https://www.cnet.com/home/energy-and-utilities/how-solar-panels-can-add-thousands-to-your-homes-value/#ftag=CAD590a51e)
- - [Best Smart Home Gyms for 2024](https://www.cnet.com/health/fitness/best-smart-home-gym/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Why Solar Panels Can Add Thousands to Your Home&#39;s Value](https://www.cnet.com/home/energy-and-utilities/how-solar-panels-can-add-thousands-to-your-homes-value/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

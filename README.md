@@ -161,9 +161,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Arab and Muslim workers at Meta detail frustrations over Meta&#39;s handling of internal discussions on the Israel-Hamas war, worrying it led to bad product choices &lpar;Wired&rpar;](http://www.techmeme.com/240711/p23#a240711p23)
  - [You can’t screw up Arduino’s new DIY electronics kit](https://www.theverge.com/2024/7/11/24196432/arduino-electronics-starter-kit-educational)
- - [A US judge sentences Ukrainian Vyacheslav Igorevich Penchukov, who helped lead the prolific Zeus malware gang, to 18 years in jail and orders payment of $73M+ &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/240711/p22#a240711p22)
- - [How Watermelon Cupcakes Kicked Off an Internal Storm at Meta](https://www.wired.com/story/meta-palestine-employees-watermelon-cupcakes-censorship/)
- - [Why The Atlantic signed a deal with OpenAI](https://www.theverge.com/2024/7/11/24196396/the-atlantic-openai-licensing-deal-ai-news-journalism-web-future-decoder-podcasts)<!-- TECH:END -->
+ - [Prime Day Live Blog](https://www.cnet.com/tech/prime-day-live-blog/#ftag=CAD590a51e)
+ - [Eero Pro 6 Review: High-End Performance, but Officially Discontinued](https://www.cnet.com/home/internet/eero-pro-6-review/#ftag=CAD590a51e)
+ - [Here&#39;s How to Make Your Home Smarter Without Buying a Hub or Smart Speaker](https://www.cnet.com/home/smart-home/heres-how-to-make-your-home-smarter-without-buying-a-hub-or-smart-speaker/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

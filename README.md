@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UK government data: digital industry job growth grew just 0.3% in 2023, the lowest since a 0.1% decline in 2013, down from 4.1% growth in 2022 and 6.5% in 2021 &lpar;Isabella Ward/Bloomberg&rpar;](http://www.techmeme.com/240711/p16#a240711p16)
  - [Apple Vision Pro won&#39;t break 500k sales in 2024, even with international expansion](https://appleinsider.com/articles/24/07/11/apple-vision-pro-wont-break-500k-sales-in-2024-even-with-international-expansion?utm_medium=rss)
  - [The Best Nonalcoholic Wines, Chosen by a Bartender &lpar;2024&rpar;](https://www.wired.com/story/best-non-alcoholic-wines/)
  - [Apple has big camera upgrades lined up through iPhone 19 Pro](https://appleinsider.com/articles/24/07/11/apple-has-big-upgrades-in-mind-for-the-cameras-all-the-way-through-the-iphone-19-pro?utm_medium=rss)
- - [Best Prime Day Headphone Deals: Save Tons on AirPods, Beats and Other Top Brands](https://www.cnet.com/deals/best-prime-day-headphone-deals/#ftag=CAD590a51e)
- - [Today&#39;s Inflation Data Could Push Mortgage Rates Down](https://www.cnet.com/personal-finance/mortgages/todays-inflation-data-could-push-mortgage-rates-down/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Prime Day Headphone Deals: Save Tons on AirPods, Beats and Other Top Brands](https://www.cnet.com/deals/best-prime-day-headphone-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

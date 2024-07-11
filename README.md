@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Arab and Muslim workers at Meta detail frustrations over Meta&#39;s handling of internal discussions on the Israel-Hamas war, worrying it led to bad product choices &lpar;Wired&rpar;](http://www.techmeme.com/240711/p23#a240711p23)
  - [You can’t screw up Arduino’s new DIY electronics kit](https://www.theverge.com/2024/7/11/24196432/arduino-electronics-starter-kit-educational)
  - [A US judge sentences Ukrainian Vyacheslav Igorevich Penchukov, who helped lead the prolific Zeus malware gang, to 18 years in jail and orders payment of $73M+ &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/240711/p22#a240711p22)
- - [Why The Atlantic signed a deal with OpenAI](https://www.theverge.com/2024/7/11/24196396/the-atlantic-openai-licensing-deal-ai-news-journalism-web-future-decoder-podcasts)
- - [Best Smart Speakers for 2024: We Tested Alexa, Google, Apple and Sonos](https://www.cnet.com/home/smart-home/best-smart-speaker/#ftag=CAD590a51e)
- - [Best Home Security Systems of 2024](https://www.cnet.com/home/security/best-home-security-system/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How Watermelon Cupcakes Kicked Off an Internal Storm at Meta](https://www.wired.com/story/meta-palestine-employees-watermelon-cupcakes-censorship/)
+ - [Why The Atlantic signed a deal with OpenAI](https://www.theverge.com/2024/7/11/24196396/the-atlantic-openai-licensing-deal-ai-news-journalism-web-future-decoder-podcasts)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

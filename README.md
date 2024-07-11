@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Moonwalking into Oval](http://9gag.com/gag/aE07OBM)
- - 😝 [There is a reason why they total the car](http://9gag.com/gag/adBje29)
- - 💣 [Japan no! Have sex but with other people!](http://9gag.com/gag/a34BN2e)
+ - 😝 [NYC will start to use trash bins. Dudes, they&#39;re living in the future](http://9gag.com/gag/aQz8mm8)
+ - 😝 [Trevor](http://9gag.com/gag/a9y7DYL)
+ - 💣 [There is a reason why they total the car](http://9gag.com/gag/adBje29)
  - 😝 [Let me guess... African as king of Rome and put some rap battle music...](http://9gag.com/gag/aoy9npe)
- - 👉 [Bruce Lee way of punching demonstrated by Aaron Allen, the former bodyguard of Tupac Shakur](http://9gag.com/gag/ae9G745)<!-- MEMES:END -->
+ - 👉 [Moonwalking into Oval](http://9gag.com/gag/aE07OBM)<!-- MEMES:END -->
 
 ---
 

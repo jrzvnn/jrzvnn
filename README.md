@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Regard, which helps physicians save time by analyzing patients&#39; health data using AI, raised a $61M Series B led by Oak HC/FT, source say at a $350M valuation &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/240711/p19#a240711p19)
+ - [Retro gold rush: which emulators are on the App Store, and what&#39;s coming](https://appleinsider.com/articles/24/04/26/retro-gold-rush-these-emulators-are-coming-to-the-app-store-soon?utm_medium=rss)
+ - [Regard, which saves physicians time by analyzing patients&#39; health data using AI, raised a $61M Series B led by Oak HC/FT, a source says at a $350M valuation &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/240711/p19#a240711p19)
  - [Verizon’s Total Wireless prepaid brand is now offering a five-year price guarantee](https://www.theverge.com/2024/7/11/24196382/verizon-total-wireless-prepaid-five-year-price-lock)
- - [A Google DeepMind research paper details how Gemini 1.5 Pro&#39;s 1M-token context window allows its robots to navigate and complete tasks using simple instructions &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240711/p18#a240711p18)
- - [Apple to Allow Rivals to Access ‘Tap and Go’ Technology](https://www.wired.com/story/apple-to-allow-rivals-to-access-tap-and-go-technology/)
- - [Save Over $100 on Our Top Recommended Robot Vacuum of 2024](https://www.cnet.com/deals/save-over-100-on-our-top-recommended-robot-vacuum-of-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A Google DeepMind research paper details how Gemini 1.5 Pro&#39;s 1M-token context window lets Google&#39;s robots navigate and complete tasks using simple instructions &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/240711/p18#a240711p18)
+ - [Apple to Allow Rivals to Access ‘Tap and Go’ Technology](https://www.wired.com/story/apple-to-allow-rivals-to-access-tap-and-go-technology/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When Your World Fall&#39;s Apart](http://9gag.com/gag/aD2oOYK)
- - 😝 [Easy peasy](http://9gag.com/gag/a9y7X8D)
- - 💣 [That smile](http://9gag.com/gag/amo9p46)
- - 😝 [Catch](http://9gag.com/gag/a9y7BMj)
- - 👉 [Y&#39;all got any more can&#39;t be unseen memes?](http://9gag.com/gag/aryKzpK)<!-- MEMES:END -->
+ - 😝 [And Another One &lpar;link in comments&rpar;](http://9gag.com/gag/aNDn4Qb)
+ - 😝 [Japan no! Have sex but with other people!](http://9gag.com/gag/a34BN2e)
+ - 💣 [Let me guess... African as king of Rome and put some rap battle music...](http://9gag.com/gag/aoy9npe)
+ - 😝 [There is a reason why they total the car](http://9gag.com/gag/adBje29)
+ - 👉 [Classic](http://9gag.com/gag/a2vmDMd)<!-- MEMES:END -->
 
 ---
 

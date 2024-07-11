@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Helsing, which offers AI tools for defense, raised &amp;euro;450M led by General Catalyst, a source says at a &amp;euro;4.95B valuation, taking its total funding to &amp;euro;769M &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/240711/p8#a240711p8)
+ - [Shuttered auto plants will become EV factories thanks to $1.7 billion Biden program](https://www.theverge.com/2024/7/11/24195811/biden-ev-factory-retrofit-conversion-grant-funding)
  - [Tencent-backed Shift Up closed up ~18% after raising $320M in its Seoul IPO, the largest South Korean IPO by a gaming company since Krafton raised $3.8B in 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/240711/p7#a240711p7)
  - [A profile of Priscila Barbosa, who defrauded Uber and other apps by building a $10K per month business renting fake accounts to undocumented workers in the US &lpar;Lauren Smiley/Wired&rpar;](http://www.techmeme.com/240711/p6#a240711p6)
- - [Starlink Mini is now available for anyone in the US to roam](https://www.theverge.com/2024/7/11/24196294/starlink-mini-available-us-price-specs)
- - [How the SCOTUS NetChoice ruling on social media platforms&#39; First Amendment rights could affect a host of tech legislation, including kids&#39; online safety laws &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/240711/p5#a240711p5)
- - [Nasscom expects India&#39;s digital talent gap to widen to ~29% in 2028 and says India needs 1M+ engineers with advanced AI and other skills over the next 2-3 years &lpar;Ruchi Bhatia/Bloomberg&rpar;](http://www.techmeme.com/240711/p4#a240711p4)<!-- TECH:END -->
+ - [Samsung&#39;s Galaxy Buds 3 Look Like AirPods, But That&#39;s Not All That&#39;s New](https://www.cnet.com/tech/mobile/samsungs-galaxy-buds-3-look-like-airpods-but-thats-not-all-thats-new/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

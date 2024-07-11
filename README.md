@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kearney-Amazon Pay survey of 6,000 consumers and 1,000 merchants across 120 Indian cities: 46% of transactions for street vendors are digital &lpar;Bhupendra Paintola/Inc42 Media&rpar;](http://www.techmeme.com/240711/p3#a240711p3)
  - [A survey of 1,600 decision makers in key global markets: 83% of Chinese respondents said they&#39;ve adopted generative AI vs. 65% in the US and 54% global average &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/240711/p2#a240711p2)
  - [A look at the rise in use of the sparkles emoji to market AI products as magic, as some say the imagery distracts from real-world issues the AI industry faces &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/240711/p1#a240711p1)
  - [Today&#39;s Wordle Hints, Answer and Help for July 11, #1118](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-11-1118/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for July 11, #396](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-11-396/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for July 11, #130](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-11-130/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for July 11, #396](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-11-396/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

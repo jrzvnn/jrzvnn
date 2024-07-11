@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Moonwalking into Oval](http://9gag.com/gag/aE07OBM)
- - 😝 [And Another One &lpar;link in comments&rpar;](http://9gag.com/gag/aNDn4Qb)
- - 💣 [Pedo teacher busted](http://9gag.com/gag/agmVxq6)
- - 😝 [Let me guess... African as king of Rome and put some rap battle music...](http://9gag.com/gag/aoy9npe)
- - 👉 [A completely normal phenomenon](http://9gag.com/gag/aKGq83Q)<!-- MEMES:END -->
+ - 😝 [Earth lost one more idiot.](http://9gag.com/gag/aZZMQOz)
+ - 😝 [There is a reason why they total the car](http://9gag.com/gag/adBje29)
+ - 💣 [Activist.](http://9gag.com/gag/aQz8277)
+ - 😝 [European jailed in Indonesia !](http://9gag.com/gag/aPADr7w)
+ - 👉 [That&#39;s the stuff](http://9gag.com/gag/a6Z7pD2)<!-- MEMES:END -->
 
 ---
 

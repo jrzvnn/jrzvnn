@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My fellow dark elf](http://9gag.com/gag/a4PYAq1)
+ - 😝 [There is a reason why they total the car](http://9gag.com/gag/adBje29)
  - 😝 [Japan no! Have sex but with other people!](http://9gag.com/gag/a34BN2e)
- - 💣 [Moonwalking into Oval](http://9gag.com/gag/aE07OBM)
- - 😝 [Hold your horse](http://9gag.com/gag/an7NxO5)
- - 👉 [There is a reason why they total the car](http://9gag.com/gag/adBje29)<!-- MEMES:END -->
+ - 💣 [A completely normal phenomenon](http://9gag.com/gag/aKGq83Q)
+ - 😝 [Moonwalking into Oval](http://9gag.com/gag/aE07OBM)
+ - 👉 [Pedo teacher busted](http://9gag.com/gag/agmVxq6)<!-- MEMES:END -->
 
 ---
 

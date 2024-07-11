@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple has big upgrades in mind for the cameras all the way through the iPhone 19 Pro](https://appleinsider.com/articles/24/07/11/apple-has-big-upgrades-in-mind-for-the-cameras-all-the-way-through-the-iphone-19-pro?utm_medium=rss)
  - [Sources: Xiaohongshu, China&#39;s fastest-growing social media platform, sold existing shares in recent weeks at a $17B valuation; DST took part in the round &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/240711/p12#a240711p12)
  - [EU Apple Pay antitrust action is complete, after NFC opened to competitors](https://appleinsider.com/articles/24/07/11/apple-will-now-allow-rivals-access-to-its-iphone-nfc-payments-in-eu?utm_medium=rss)
- - [Paris-based Bioptimus releases H-optimus-0, an open source AI model trained on hundreds of millions of images to aid research and diagnoses of diseases &lpar;Michael Hennessey/Bloomberg&rpar;](http://www.techmeme.com/240711/p11#a240711p11)
- - [Amazon Prime Day 2024: 48 Early Prime Day Deals to Shop Right Now for Up to 67% Off](https://www.cnet.com/deals/amazon-prime-day/#ftag=CAD590a51e)
- - [SpaceX releases its $599 Starlink Mini portable dish to anyone in the US, available with its $150/month Regional and $50/month Mini Roam services &lpar;Thomas Ricker/The Verge&rpar;](http://www.techmeme.com/240711/p10#a240711p10)<!-- TECH:END -->
+ - [This Is the Moment RFK Jr. Has Been Waiting For](https://www.wired.com/story/robert-f-kennedy-debate-tiktok/)
+ - [Paris-based Bioptimus releases H-optimus-0, an open source AI model trained on hundreds of millions of images to aid research and diagnoses of diseases &lpar;Michael Hennessey/Bloomberg&rpar;](http://www.techmeme.com/240711/p11#a240711p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

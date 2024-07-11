@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US judge sentences Ukrainian Vyacheslav Igorevich Penchukov, who helped lead the prolific Zeus malware gang, to 18 years in jail and orders payment of $73M+ &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/240711/p22#a240711p22)
  - [Why The Atlantic signed a deal with OpenAI](https://www.theverge.com/2024/7/11/24196396/the-atlantic-openai-licensing-deal-ai-news-journalism-web-future-decoder-podcasts)
- - [Tesla reportedly delaying its robotaxi reveal until October](https://www.theverge.com/2024/7/11/24196537/tesla-delay-robotaxi-reveal-event-october)
- - [One of our favorite robovacs is down to its all-time low ahead of Prime Day](https://www.theverge.com/2024/7/11/24195814/irobot-roomba-j7-plus-apple-earpods-usb-c-deal-sale)
- - [Notorious Hacker Kingpin ‘Tank’ Is Finally Going to Prison](https://www.wired.com/story/vyacheslav-igorevich-penchukov-tank-zeus-malware-sentencing/)
- - [YouTube announces new Shorts features, including TikTok-like text-to-speech video narration, in-app auto-generated captions, and a set of Minecraft effects &lpar;Wes Davis/The Verge&rpar;](http://www.techmeme.com/240711/p21#a240711p21)<!-- TECH:END -->
+ - [Best Smart Speakers for 2024: We Tested Alexa, Google, Apple and Sonos](https://www.cnet.com/home/smart-home/best-smart-speaker/#ftag=CAD590a51e)
+ - [Best Home Security Systems of 2024](https://www.cnet.com/home/security/best-home-security-system/#ftag=CAD590a51e)
+ - [Tesla reportedly delaying its robotaxi reveal until October](https://www.theverge.com/2024/7/11/24196537/tesla-delay-robotaxi-reveal-event-october)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

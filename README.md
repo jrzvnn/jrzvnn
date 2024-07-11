@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never forget](http://9gag.com/gag/aRBAR1j)
- - 😝 [Shut up and take my money](http://9gag.com/gag/aO8VRNv)
- - 💣 [That smile](http://9gag.com/gag/amo9p46)
- - 😝 [After more than 20 years, my dad started drawing again. This is his first new attempt at drawing, based on a picture of me in cosplay as Mad Eye Moody from Harry Potter! I hope he gets some appreciation for it, so he has the means to keep going.](http://9gag.com/gag/amo9RYo)
- - 👉 [Trevor](http://9gag.com/gag/a9y7DYL)<!-- MEMES:END -->
+ - 😝 [Moonwalking into Oval](http://9gag.com/gag/aE07OBM)
+ - 😝 [There is a reason why they total the car](http://9gag.com/gag/adBje29)
+ - 💣 [Japan no! Have sex but with other people!](http://9gag.com/gag/a34BN2e)
+ - 😝 [Let me guess... African as king of Rome and put some rap battle music...](http://9gag.com/gag/aoy9npe)
+ - 👉 [Bruce Lee way of punching demonstrated by Aaron Allen, the former bodyguard of Tupac Shakur](http://9gag.com/gag/ae9G745)<!-- MEMES:END -->
 
 ---
 

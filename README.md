@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You can’t screw up Arduino’s new DIY electronics kit](https://www.theverge.com/2024/7/11/24196432/arduino-electronics-starter-kit-educational)
  - [A US judge sentences Ukrainian Vyacheslav Igorevich Penchukov, who helped lead the prolific Zeus malware gang, to 18 years in jail and orders payment of $73M+ &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/240711/p22#a240711p22)
  - [Why The Atlantic signed a deal with OpenAI](https://www.theverge.com/2024/7/11/24196396/the-atlantic-openai-licensing-deal-ai-news-journalism-web-future-decoder-podcasts)
  - [Best Smart Speakers for 2024: We Tested Alexa, Google, Apple and Sonos](https://www.cnet.com/home/smart-home/best-smart-speaker/#ftag=CAD590a51e)
- - [Best Home Security Systems of 2024](https://www.cnet.com/home/security/best-home-security-system/#ftag=CAD590a51e)
- - [Tesla reportedly delaying its robotaxi reveal until October](https://www.theverge.com/2024/7/11/24196537/tesla-delay-robotaxi-reveal-event-october)<!-- TECH:END -->
+ - [Best Home Security Systems of 2024](https://www.cnet.com/home/security/best-home-security-system/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

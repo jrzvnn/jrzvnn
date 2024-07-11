@@ -159,8 +159,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UEFA, Instagram, and X ruin a killer Euro 2024 celebration](https://www.theverge.com/2024/7/11/24196311/uefa-instagram-x-the-killers-copyright-euro-2024-celebration)
  - [IDC estimates that Apple will sell under 500K Vision Pro units in 2024, and the headset&#39;s international launch will offset a 75% QoQ drop in US sales in Q3 2024 &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/240711/p13#a240711p13)
- - [AI&#39;s Energy Demands Are Out of Control. Welcome to the Internet&#39;s Hyper-Consumption Era](https://www.wired.com/story/ai-energy-demands-water-impact-internet-hyper-consumption-era/)
  - [Apple has big upgrades in mind for the cameras all the way through the iPhone 19 Pro](https://appleinsider.com/articles/24/07/11/apple-has-big-upgrades-in-mind-for-the-cameras-all-the-way-through-the-iphone-19-pro?utm_medium=rss)
  - [Sources: Xiaohongshu, China&#39;s fastest-growing social media platform, sold existing shares in recent weeks at a $17B valuation; DST took part in the round &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/240711/p12#a240711p12)
  - [EU Apple Pay antitrust action is complete, after NFC opened to competitors](https://appleinsider.com/articles/24/07/11/apple-will-now-allow-rivals-access-to-its-iphone-nfc-payments-in-eu?utm_medium=rss)<!-- TECH:END -->

@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple sends iPhone hack warnings to more users in 98 countries](https://appleinsider.com/articles/24/07/11/apple-sends-iphone-hack-warnings-to-more-users-in-98-countries?utm_medium=rss)
+ - [‘Death Occurs in the Dark’: Indie Video Game Devs Are Struggling to Survive](https://www.wired.com/story/death-occurs-in-the-dark-indie-video-game-devs-are-struggling-to-stay-afloat/)
  - [UEFA, Instagram, and X ruin a killer Euro 2024 celebration](https://www.theverge.com/2024/7/11/24196311/uefa-instagram-x-the-killers-copyright-euro-2024-celebration)
- - [IDC estimates that Apple will sell under 500K Vision Pro units in 2024, and the headset&#39;s international launch will offset a 75% QoQ drop in US sales in Q3 2024 &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/240711/p13#a240711p13)
- - [Apple has big upgrades in mind for the cameras all the way through the iPhone 19 Pro](https://appleinsider.com/articles/24/07/11/apple-has-big-upgrades-in-mind-for-the-cameras-all-the-way-through-the-iphone-19-pro?utm_medium=rss)
- - [Sources: Xiaohongshu, China&#39;s fastest-growing social media platform, sold existing shares in recent weeks at a $17B valuation; DST took part in the round &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/240711/p12#a240711p12)
- - [EU Apple Pay antitrust action is complete, after NFC opened to competitors](https://appleinsider.com/articles/24/07/11/apple-will-now-allow-rivals-access-to-its-iphone-nfc-payments-in-eu?utm_medium=rss)<!-- TECH:END -->
+ - [Best Prime Day Subscription and Digital Deals: Score Discounts on Audible, Amazon Music, Costco and More](https://www.cnet.com/deals/best-prime-day-digital-deals/#ftag=CAD590a51e)
+ - [IDC estimates that Apple will sell under 500K Vision Pro units in 2024, and the headset&#39;s international launch will offset a 75% QoQ drop in US sales in Q3 2024 &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/240711/p13#a240711p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

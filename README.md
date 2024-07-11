@@ -160,10 +160,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Apple has big camera upgrades lined up through iPhone 19 Pro](https://appleinsider.com/articles/24/07/11/apple-has-big-upgrades-in-mind-for-the-cameras-all-the-way-through-the-iphone-19-pro?utm_medium=rss)
+ - [Best Prime Day Headphone Deals: Save Tons on AirPods, Beats and Other Top Brands](https://www.cnet.com/deals/best-prime-day-headphone-deals/#ftag=CAD590a51e)
+ - [Today&#39;s Inflation Data Could Push Mortgage Rates Down](https://www.cnet.com/personal-finance/mortgages/todays-inflation-data-could-push-mortgage-rates-down/#ftag=CAD590a51e)
  - [AI design apps made my new apartment look odd](https://www.theverge.com/24171559/ai-design-app-chatgpt-ikea-spacely-decoratly)
- - [Fireworks AI, which helps companies fine-tune and customize AI models, raised $52M led by Sequoia at a $552M valuation, taking its total funding to $77M &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/240711/p15#a240711p15)
- - [This is Sonos’ next flagship soundbar](https://www.theverge.com/2024/7/11/24195947/sonos-lasso-soundbar-photos-features-leak)
- - [Semaglutide for the People](https://www.wired.com/story/gadget-lab-podcast-650/)<!-- TECH:END -->
+ - [Fireworks AI, which helps companies fine-tune and customize AI models, raised $52M led by Sequoia at a $552M valuation, taking its total funding to $77M &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/240711/p15#a240711p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

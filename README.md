@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nasscom expects India&#39;s digital talent gap to widen to ~29% in 2028 and says India needs 1M+ engineers with advanced AI skills and more over the next 2-3 years &lpar;Ruchi Bhatia/Bloomberg&rpar;](http://www.techmeme.com/240711/p4#a240711p4)
  - [Kearney-Amazon Pay survey of 6,000 consumers and 1,000 merchants across 120 Indian cities: 46% of transactions for street vendors are digital &lpar;Bhupendra Paintola/Inc42 Media&rpar;](http://www.techmeme.com/240711/p3#a240711p3)
  - [A survey of 1,600 decision makers in key global markets: 83% of Chinese respondents said they&#39;ve adopted generative AI vs. 65% in the US and 54% global average &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/240711/p2#a240711p2)
  - [A look at the rise in use of the sparkles emoji to market AI products as magic, as some say the imagery distracts from real-world issues the AI industry faces &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/240711/p1#a240711p1)
- - [Energy Bills Are Too High. 32% of US Adults Rely on Credit or Payment Plans to Cover Costs, CNET Survey Finds](https://www.cnet.com/personal-finance/banking/energy-bills-are-too-high-32-percent-of-us-adults-rely-on-credit-or-payment-plans-to-cover-costs-cnet-survey-finds/#ftag=CAD590a51e)
- - [Scottish Open 2024: TV Schedule Today, How to Watch, Stream All the Golf From Anywhere](https://www.cnet.com/tech/services-and-software/scottish-open-2024-tv-schedule-today-how-to-watch-stream-all-the-golf-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Energy Bills Are Too High. 32% of US Adults Rely on Credit or Payment Plans to Cover Costs, CNET Survey Finds](https://www.cnet.com/personal-finance/banking/energy-bills-are-too-high-32-percent-of-us-adults-rely-on-credit-or-payment-plans-to-cover-costs-cnet-survey-finds/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

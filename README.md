@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Hummmmmmmm](http://9gag.com/gag/an7NDjo)
  - 😝 [Enough is enough](http://9gag.com/gag/avyPxmd)
- - 😝 [Kids learn best from the wise](http://9gag.com/gag/aW46bdx)
- - 💣 [Let me guess... African as king of Rome and put some rap battle music...](http://9gag.com/gag/aoy9npe)
- - 😝 [Easy peasy](http://9gag.com/gag/a9y7X8D)
- - 👉 [Trevor](http://9gag.com/gag/a9y7DYL)<!-- MEMES:END -->
+ - 💣 [When Your World Fall&#39;s Apart](http://9gag.com/gag/aD2oOYK)
+ - 😝 [Argentinian GOAT](http://9gag.com/gag/apRvbmp)
+ - 👉 [Moonwalking into Oval](http://9gag.com/gag/aE07OBM)<!-- MEMES:END -->
 
 ---
 

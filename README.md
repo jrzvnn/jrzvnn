@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Silicon Valley Defense Group: the US federal government spent $22B on tech from the top 100 national security startups, a paltry sum and far below VC investment &lpar;Heather Somerville/Wall Street Journal&rpar;](http://www.techmeme.com/240711/p14#a240711p14)
  - [If your Philips Hue bulbs are randomly cranking up to 100% on their own, you&#39;re not alone](https://appleinsider.com/articles/24/07/09/if-your-philips-hue-bulbs-are-randomly-cranking-up-to-100-on-their-own-youre-not-alone?utm_medium=rss)
  - [Apple sends iPhone hack warnings to more users in 98 countries](https://appleinsider.com/articles/24/07/11/apple-sends-iphone-hack-warnings-to-more-users-in-98-countries?utm_medium=rss)
- - [‘Death Occurs in the Dark’: Indie Video Game Devs Are Struggling to Survive](https://www.wired.com/story/death-occurs-in-the-dark-indie-video-game-devs-are-struggling-to-stay-afloat/)
  - [UEFA, Instagram, and X ruin a killer Euro 2024 celebration](https://www.theverge.com/2024/7/11/24196311/uefa-instagram-x-the-killers-copyright-euro-2024-celebration)
  - [Best Prime Day Subscription and Digital Deals: Score Discounts on Audible, Amazon Music, Costco and More](https://www.cnet.com/deals/best-prime-day-digital-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 

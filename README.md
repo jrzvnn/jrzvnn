@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google says Gemini AI is making its robots smarter](https://www.theverge.com/2024/7/11/24196402/google-deepmind-gemini-1-5-pro-robot-navigation)
  - [This climate tech startup wants to capture carbon and help data centers cool down](https://www.theverge.com/2024/7/11/24195989/climate-change-carbon-removal-startup-280-earth-google)
  - [The US SEC drops its investigation into Paxos over its BUSD stablecoin, after sending Paxos a Wells notice in February 2023 &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/240711/p17#a240711p17)
  - [Model rocket enthusiasts are learning how to do vertical landings](https://www.theverge.com/2024/7/11/24195913/rockets-hobbies-spacex-falcon-9-model-rockets-landings)
- - [11 Picks for the Best Gaming Mouse, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-gaming-mouse/)
- - [The King of Chum](https://www.theverge.com/24195879/advon-commerce-ai-sports-illustrated-gannett-product-reviews-spam-seo)<!-- TECH:END -->
+ - [11 Picks for the Best Gaming Mouse, Tested and Reviewed &lpar;2024&rpar;](https://www.wired.com/gallery/best-gaming-mouse/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

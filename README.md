@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trevor](http://9gag.com/gag/a9y7DYL)
- - 😝 [Yes he is](http://9gag.com/gag/aXP9eg6)
- - 💣 [In the Original Cinderella story, Stepsister cut their Toes to fit in the Sandal](http://9gag.com/gag/aMVGyRM)
- - 😝 [You heard that little bud?](http://9gag.com/gag/aE07E4p)
- - 👉 [Back &amp; forth](http://9gag.com/gag/a2vmGwO)<!-- MEMES:END -->
+ - 😝 [Don&#39;t get drunk on office party](http://9gag.com/gag/aKGqN1g)
+ - 😝 [I go to Japan](http://9gag.com/gag/aYQeZbw)
+ - 💣 [Mhm . .](http://9gag.com/gag/avyPXNZ)
+ - 😝 [Please don&#39;t please don&#39;t](http://9gag.com/gag/azxjobz)
+ - 👉 [You have said it, Joe! Thank you.](http://9gag.com/gag/aNDn2jr)<!-- MEMES:END -->
 
 ---
 

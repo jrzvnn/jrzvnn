@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Pencil with USB-C now sold refurbished, but there are better deals](https://appleinsider.com/articles/24/07/11/apple-pencil-with-usb-c-now-sold-refurbished-but-there-are-better-deals?utm_medium=rss)
- - [SoftBank buys struggling UK-based chip company Graphcore with full regulatory approval granted; the once touted Nvidia rival was valued at ~$2.8B in Dec. 2020 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/240711/p27#a240711p27)
- - [You Can Download iOS 18 Beta 3 on Your iPhone Right Now](https://www.cnet.com/tech/services-and-software/you-can-download-ios-18-beta-3-on-your-iphone-right-now/#ftag=CAD590a51e)
- - [Hands-On With Samsung&#39;s Sleek and Book-Style Galaxy Z Fold 6](https://www.cnet.com/tech/mobile/hands-on-with-samsungs-sleek-and-book-style-galaxy-z-fold-6/#ftag=CAD590a51e)
- - [The AI-focused COPIED Act would make removing digital watermarks illegal](https://www.theverge.com/2024/7/11/24196769/copied-act-cantwell-blackburn-heinrich-ai-journalists-artists)<!-- TECH:END -->
+ - [A May 2024 data breach at mobile spyware company mSpy leaked millions of customer support tickets, including personal data, its third known breach since 2010 &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240711/p29#a240711p29)
+ - [Signal plans to roll out a beta version of its desktop apps that tightens the security of how it stores plain text encryption keys, after downplaying the issue &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/240711/p28#a240711p28)
+ - [Popular Meal Subscription Fresh N Lean Shutters Suddenly with Cryptic Message](https://www.cnet.com/health/nutrition/popular-meal-subscription-fresh-n-lean-shutters-suddenly-with-cryptic-message/#ftag=CAD590a51e)
+ - [Best Treadmills of 2024](https://www.cnet.com/health/fitness/best-treadmill/#ftag=CAD590a51e)
+ - [Apple Pencil with USB-C now sold refurbished, but there are better deals](https://appleinsider.com/articles/24/07/11/apple-pencil-with-usb-c-now-sold-refurbished-but-there-are-better-deals?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

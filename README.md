@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Diversity is our strength](http://9gag.com/gag/aVvPBpM)
- - 😝 [Lol.](http://9gag.com/gag/aRBADQ7)
- - 💣 [Good bye fellow phone](http://9gag.com/gag/axyjPPb)
- - 😝 [Don&#39;t get drunk on office party](http://9gag.com/gag/aKGqN1g)
- - 👉 [May I stand unshakeeeeeeeen](http://9gag.com/gag/aLn2rAV)<!-- MEMES:END -->
+ - 😝 [For real](http://9gag.com/gag/aD2oMB9)
+ - 😝 [Mohammed, who had just arrived in UK from Bangladesh, tried to abuse a 13 year old British girl because age doesn&#39;t matter to him.](http://9gag.com/gag/awyxeL8)
+ - 💣 [The return of the king](http://9gag.com/gag/aMVGq9x)
+ - 😝 [Physics](http://9gag.com/gag/a87MnKY)
+ - 👉 [Colombians strikers](http://9gag.com/gag/a0epx8X)<!-- MEMES:END -->
 
 ---
 

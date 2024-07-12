@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You heard that little bud?](http://9gag.com/gag/aE07E4p)
- - 😝 [Catch](http://9gag.com/gag/a9y7BMj)
+ - 😝 [No nonsense, girl](http://9gag.com/gag/a7o7nm2)
+ - 😝 [Don&#39;t get drunk on office party](http://9gag.com/gag/aKGqN1g)
  - 💣 [Yes he is](http://9gag.com/gag/aXP9eg6)
- - 😝 [Bruce Lee way of punching demonstrated by Aaron Allen, the former bodyguard of Tupac Shakur](http://9gag.com/gag/ae9G745)
- - 👉 [In 2007, Jennifer Strange competed in a radio station&#39;s on-air water-drinking contest named `Hold Your Wee for a Wii`. She won, and unfortunately died 3 hours later of water intoxication](http://9gag.com/gag/agmVZ46)<!-- MEMES:END -->
+ - 😝 [Trevor](http://9gag.com/gag/a9y7DYL)
+ - 👉 [In the Original Cinderella story, Stepsister cut their Toes to fit in the Sandal](http://9gag.com/gag/aMVGyRM)<!-- MEMES:END -->
 
 ---
 

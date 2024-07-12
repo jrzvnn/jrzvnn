@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro knew the real vibe](http://9gag.com/gag/apRvdrB)
+ - 😝 [And they lost their job](http://9gag.com/gag/a9y7VMW)
  - 😝 [Back &amp; forth](http://9gag.com/gag/a2vmGwO)
- - 💣 [Catch](http://9gag.com/gag/a9y7BMj)
- - 😝 [Yes he is](http://9gag.com/gag/aXP9eg6)
- - 👉 [Interruption and attention.](http://9gag.com/gag/axyj4Lp)<!-- MEMES:END -->
+ - 💣 [You heard that little bud?](http://9gag.com/gag/aE07E4p)
+ - 😝 [I spent too much time making this, but I hope it gives you good vibes](http://9gag.com/gag/aNDn224)
+ - 👉 [9gaggers](http://9gag.com/gag/aPADzZQ)<!-- MEMES:END -->
 
 ---
 

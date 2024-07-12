@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cop car surfing](http://9gag.com/gag/aPADd1P)
- - 😝 [Grey dress](http://9gag.com/gag/apRvVnn)
- - 💣 [Back &amp; forth](http://9gag.com/gag/a2vmGwO)
- - 😝 [Don&#39;t get drunk on office party](http://9gag.com/gag/aKGqN1g)
+ - 😝 [Listen fat ass!](http://9gag.com/gag/aVvPBPP)
+ - 😝 [When Your World Fall&#39;s Apart](http://9gag.com/gag/aD2oOYK)
+ - 💣 [Yes he is](http://9gag.com/gag/aXP9eg6)
+ - 😝 [Back &amp; forth](http://9gag.com/gag/a2vmGwO)
  - 👉 [Catch](http://9gag.com/gag/a9y7BMj)<!-- MEMES:END -->
 
 ---

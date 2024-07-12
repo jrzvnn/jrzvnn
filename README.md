@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [???????????](http://9gag.com/gag/aW469DZ)
- - 😝 [Diversity is our strength](http://9gag.com/gag/aVvPBpM)
- - 💣 [For real](http://9gag.com/gag/aD2oMB9)
- - 😝 [Watch &amp; Learn](http://9gag.com/gag/aNDnjPb)
- - 👉 [Let me guess... African as king of Rome and put some rap battle music...](http://9gag.com/gag/aoy9npe)<!-- MEMES:END -->
+ - 😝 [Imagine busking on the street and the artist of the song you are singing randomly walks by...](http://9gag.com/gag/aVvPRRd)
+ - 😝 [How a good Doner is made](http://9gag.com/gag/an7NVqE)
+ - 💣 [Moonwalking into Oval](http://9gag.com/gag/aE07OBM)
+ - 😝 [Bruh..](http://9gag.com/gag/aKGqOg3)
+ - 👉 [Colombians strikers](http://9gag.com/gag/a0epx8X)<!-- MEMES:END -->
 
 ---
 

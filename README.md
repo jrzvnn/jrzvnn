@@ -168,10 +168,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bruce Lee way of punching demonstrated by Aaron Allen, the former bodyguard of Tupac Shakur](http://9gag.com/gag/ae9G745)
- - 😝 [Yes he is](http://9gag.com/gag/aXP9eg6)
+ - 😝 [Nope](http://9gag.com/gag/axyjY9M)
+ - 😝 [Catch](http://9gag.com/gag/a9y7BMj)
  - 💣 [Back &amp; forth](http://9gag.com/gag/a2vmGwO)
- - 😝 [In 2007, Jennifer Strange competed in a radio station&#39;s on-air water-drinking contest named `Hold Your Wee for a Wii`. She won, and unfortunately died 3 hours later of water intoxication](http://9gag.com/gag/agmVZ46)
+ - 😝 [Yes he is](http://9gag.com/gag/aXP9eg6)
  - 👉 [Don&#39;t get drunk on office party](http://9gag.com/gag/aKGqN1g)<!-- MEMES:END -->
 
 ---

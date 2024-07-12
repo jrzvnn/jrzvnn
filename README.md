@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is probably how our dreams actually looks like](http://9gag.com/gag/aYQeRYx)
- - 😝 [Oh Yeah...](http://9gag.com/gag/aD2oP5G)
- - 💣 [Civic education lesson. Education is important.](http://9gag.com/gag/a2vmj8Z)
- - 😝 [Diversity goes brrr](http://9gag.com/gag/aYQed3w)
- - 👉 [And they lost their job](http://9gag.com/gag/a9y7VMW)<!-- MEMES:END -->
+ - 😝 [18 year old teen jumped off a cruise ship &lpar;Bahamas&rpar; on a dare. And was never seen. The kid jumped off because of a $50 bet.](http://9gag.com/gag/a1mMBAR)
+ - 😝 [Mohammed, who had just arrived in UK from Bangladesh, tried to abuse a 13 year old British girl because age doesn&#39;t matter to him.](http://9gag.com/gag/awyxeL8)
+ - 💣 [Al Bundy, living the dream](http://9gag.com/gag/a9y7D9W)
+ - 😝 [Back &amp; forth](http://9gag.com/gag/a2vmGwO)
+ - 👉 [Yes he is](http://9gag.com/gag/aXP9eg6)<!-- MEMES:END -->
 
 ---
 

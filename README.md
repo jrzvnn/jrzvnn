@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh Yeah...](http://9gag.com/gag/aD2oP5G)
- - 😝 [???????????](http://9gag.com/gag/aW469DZ)
- - 💣 [For real](http://9gag.com/gag/aD2oMB9)
- - 😝 [That&#39;s what called food .](http://9gag.com/gag/aD2oPd7)
- - 👉 [10/10](http://9gag.com/gag/aAy1ZZo)<!-- MEMES:END -->
+ - 😝 [How a good Doner is made](http://9gag.com/gag/an7NVqE)
+ - 😝 [The lies cannot continue](http://9gag.com/gag/agmVdZv)
+ - 💣 [Catch](http://9gag.com/gag/a9y7BMj)
+ - 😝 [Diversity goes brrr](http://9gag.com/gag/aYQed3w)
+ - 👉 [Bruce Lee way of punching demonstrated by Aaron Allen, the former bodyguard of Tupac Shakur](http://9gag.com/gag/ae9G745)<!-- MEMES:END -->
 
 ---
 

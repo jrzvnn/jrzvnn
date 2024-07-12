@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Finally!](http://9gag.com/gag/azxjDjp)
- - 😝 [You heard that little bud?](http://9gag.com/gag/aE07E4p)
- - 💣 [Yes he is](http://9gag.com/gag/aXP9eg6)
+ - 😝 [Mohammed, who had just arrived in UK from Bangladesh, tried to abuse a 13 year old British girl because age doesn&#39;t matter to him.](http://9gag.com/gag/awyxeL8)
+ - 😝 [Yes he is](http://9gag.com/gag/aXP9eg6)
+ - 💣 [You heard that little bud?](http://9gag.com/gag/aE07E4p)
  - 😝 [In the Original Cinderella story, Stepsister cut their Toes to fit in the Sandal](http://9gag.com/gag/aMVGyRM)
- - 👉 [Back &amp; forth](http://9gag.com/gag/a2vmGwO)<!-- MEMES:END -->
+ - 👉 [Don&#39;t get drunk on office party](http://9gag.com/gag/aKGqN1g)<!-- MEMES:END -->
 
 ---
 

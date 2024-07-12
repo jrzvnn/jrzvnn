@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Southwest Airlines and Archer strike a deal for an electric air taxi network](https://www.theverge.com/2024/7/12/24197168/southwest-airlines-archer-evtol-air-taxi-deal)
+ - [Clevetura CLVX 1 Review: I Love This Keyboard-Touchpad Hybrid](https://www.wired.com/review/clevetura-clvx-1-keyboard-and-touchpad/)
+ - [The Analogue Pocket now comes in aluminum](https://www.theverge.com/2024/7/12/24197135/analogue-pocket-aluminum)
  - [The Rabbit R1 has been logging users’ chats — with no way to wipe them](https://www.theverge.com/2024/7/12/24197073/rabbit-r1-user-chat-logs-security-issue-july-11th-update)
- - [The compliance countdown has started for AI companies operating in the EU](https://www.theverge.com/2024/7/12/24197058/eu-ai-act-regulations-bans-deadline)
- - [Tesla Model 3 Long Range with rear-wheel drive reemerges at $42,490](https://www.theverge.com/2024/7/12/24197130/tesla-model-3-long-range-rwd-price-range)
- - [This is how much hotter urban sprawl makes US cities feel](https://www.theverge.com/24195351/city-heat-map-study-climate-central)
- - [India&#39;s antitrust regulator accuses Apple of abusing its market dominance](https://appleinsider.com/articles/24/07/12/indias-antitrust-regulator-accuses-apple-of-abusing-its-market-dominance?utm_medium=rss)<!-- TECH:END -->
+ - [The compliance countdown has started for AI companies operating in the EU](https://www.theverge.com/2024/7/12/24197058/eu-ai-act-regulations-bans-deadline)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

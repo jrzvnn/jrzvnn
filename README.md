@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How a good Doner is made](http://9gag.com/gag/an7NVqE)
+ - 😝 [Imagine busking on the street and the artist of the song you are singing randomly walks by...](http://9gag.com/gag/aVvPRRd)
+ - 😝 [Hummmmmmmm](http://9gag.com/gag/an7NDjo)
+ - 💣 [Colombians strikers](http://9gag.com/gag/a0epx8X)
  - 😝 [The lies cannot continue](http://9gag.com/gag/agmVdZv)
- - 💣 [Catch](http://9gag.com/gag/a9y7BMj)
- - 😝 [Diversity goes brrr](http://9gag.com/gag/aYQed3w)
- - 👉 [Bruce Lee way of punching demonstrated by Aaron Allen, the former bodyguard of Tupac Shakur](http://9gag.com/gag/ae9G745)<!-- MEMES:END -->
+ - 👉 [Bro knew the real vibe](http://9gag.com/gag/apRvdrB)<!-- MEMES:END -->
 
 ---
 

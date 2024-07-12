@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Pay is convenient and brings out the worst in me](https://www.theverge.com/2024/7/12/24197272/apple-pay-convenience-frictionless-lost-wallet)
  - [Apex Legends is having a rough week](https://www.theverge.com/2024/7/12/24197221/apex-legends-battle-pass-incorrect-esports-payments)
  - [TCL’s gamer-friendly Q6 QLED TV is cheaper than ever right now](https://www.theverge.com/2024/7/12/24196114/tcl-q6-4k-qled-tv-nothing-ear-a-earbuds-deal-sale)
  - [Source: online ticketing service StubHub delays a potential US IPO until after Labor Day, after reportedly eyeing a summer IPO with a $16.5B+ valuation &lpar;CNBC&rpar;](http://www.techmeme.com/240712/p17#a240712p17)
- - [Six-Word Sci-Fi: Stories Written by You](https://www.wired.com/story/six-word-sci-fi/)
- - [Best Prime Day Subscription and Digital Deals: Score Streaming Discounts and Freebies from Amazon](https://www.cnet.com/deals/best-prime-day-digital-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Six-Word Sci-Fi: Stories Written by You](https://www.wired.com/story/six-word-sci-fi/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

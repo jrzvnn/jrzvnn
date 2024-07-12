@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Only Elon](http://9gag.com/gag/aryKrE7)
+ - 😝 [How cigarettes were packaged in France, 1930](http://9gag.com/gag/aGyxrEn)
+ - 💣 [In 2007, Jennifer Strange competed in a radio station&#39;s on-air water-drinking contest named `Hold Your Wee for a Wii`. She won, and unfortunately died 3 hours later of water intoxication](http://9gag.com/gag/agmVZ46)
  - 😝 [I spent too much time making this, but I hope it gives you good vibes](http://9gag.com/gag/aNDn224)
- - 😝 [Coffee Hack Level 5](http://9gag.com/gag/aKGqnMN)
- - 💣 [In the Original Cinderella story, Stepsister cut their Toes to fit in the Sandal](http://9gag.com/gag/aMVGyRM)
- - 😝 [Interruption and attention.](http://9gag.com/gag/axyj4Lp)
- - 👉 [I go to Japan](http://9gag.com/gag/aYQeZbw)<!-- MEMES:END -->
+ - 👉 [Supporter breaks corner post on goalkeeper&#39;s back.](http://9gag.com/gag/a2vmx6E)<!-- MEMES:END -->
 
 ---
 

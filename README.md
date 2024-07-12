@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Physics](http://9gag.com/gag/a87MnKY)
- - 😝 [Listen fat ass!](http://9gag.com/gag/aVvPBPP)
- - 💣 [The lies cannot continue](http://9gag.com/gag/agmVdZv)
- - 😝 [Bro knew the real vibe](http://9gag.com/gag/apRvdrB)
- - 👉 [Diversity is our strength](http://9gag.com/gag/aVvPBpM)<!-- MEMES:END -->
+ - 😝 [Diversity is our strength](http://9gag.com/gag/aVvPBpM)
+ - 😝 [Lol.](http://9gag.com/gag/aRBADQ7)
+ - 💣 [Good bye fellow phone](http://9gag.com/gag/axyjPPb)
+ - 😝 [Don&#39;t get drunk on office party](http://9gag.com/gag/aKGqN1g)
+ - 👉 [May I stand unshakeeeeeeeen](http://9gag.com/gag/aLn2rAV)<!-- MEMES:END -->
 
 ---
 

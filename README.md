@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [For real](http://9gag.com/gag/aD2oMB9)
- - 😝 [Mohammed, who had just arrived in UK from Bangladesh, tried to abuse a 13 year old British girl because age doesn&#39;t matter to him.](http://9gag.com/gag/awyxeL8)
- - 💣 [Bro knew the real vibe](http://9gag.com/gag/apRvdrB)
- - 😝 [Back &amp; forth](http://9gag.com/gag/a2vmGwO)
- - 👉 [Diversity is our strength](http://9gag.com/gag/aVvPBpM)<!-- MEMES:END -->
+ - 😝 [Japan no! Have sex but with other people!](http://9gag.com/gag/a34BN2e)
+ - 😝 [Grey dress](http://9gag.com/gag/apRvVnn)
+ - 💣 [Aliens among us](http://9gag.com/gag/aYQeRK2)
+ - 😝 [This is probably how our dreams actually looks like](http://9gag.com/gag/aYQeRYx)
+ - 👉 [Back &amp; forth](http://9gag.com/gag/a2vmGwO)<!-- MEMES:END -->
 
 ---
 

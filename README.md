@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You heard that little bud?](http://9gag.com/gag/aE07E4p)
- - 😝 [Don&#39;t get drunk on office party](http://9gag.com/gag/aKGqN1g)
- - 💣 [Japan no! Have sex but with other people!](http://9gag.com/gag/a34BN2e)
- - 😝 [You have said it, Joe! Thank you.](http://9gag.com/gag/aNDn2jr)
- - 👉 [9gaggers](http://9gag.com/gag/aPADzZQ)<!-- MEMES:END -->
+ - 😝 [Interruption and attention.](http://9gag.com/gag/axyj4Lp)
+ - 😝 [???????????](http://9gag.com/gag/aW469DZ)
+ - 💣 [Coffee Hack Level 5](http://9gag.com/gag/aKGqnMN)
+ - 😝 [For real](http://9gag.com/gag/aD2oMB9)
+ - 👉 [Don&#39;t get drunk on office party](http://9gag.com/gag/aKGqN1g)<!-- MEMES:END -->
 
 ---
 

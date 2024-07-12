@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Physics](http://9gag.com/gag/a87MnKY)
- - 😝 [No nonsense approach](http://9gag.com/gag/a1mMww8)
- - 💣 [Diversity is our strength](http://9gag.com/gag/aVvPBpM)
- - 😝 [???????????](http://9gag.com/gag/aW469DZ)
- - 👉 [Civic education lesson. Education is important.](http://9gag.com/gag/a2vmj8Z)<!-- MEMES:END -->
+ - 😝 [Cop car surfing](http://9gag.com/gag/aPADd1P)
+ - 😝 [Catch](http://9gag.com/gag/a9y7BMj)
+ - 💣 [Bro knew the real vibe](http://9gag.com/gag/apRvdrB)
+ - 😝 [Don&#39;t get drunk on office party](http://9gag.com/gag/aKGqN1g)
+ - 👉 [Back &amp; forth](http://9gag.com/gag/a2vmGwO)<!-- MEMES:END -->
 
 ---
 

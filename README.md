@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You heard that little bud?](http://9gag.com/gag/aE07E4p)
- - 😝 [This is probably how our dreams actually looks like](http://9gag.com/gag/aYQeRYx)
- - 💣 [In the Original Cinderella story, Stepsister cut their Toes to fit in the Sandal](http://9gag.com/gag/aMVGyRM)
  - 😝 [Trevor](http://9gag.com/gag/a9y7DYL)
- - 👉 [Catch](http://9gag.com/gag/a9y7BMj)<!-- MEMES:END -->
+ - 😝 [Yes he is](http://9gag.com/gag/aXP9eg6)
+ - 💣 [In the Original Cinderella story, Stepsister cut their Toes to fit in the Sandal](http://9gag.com/gag/aMVGyRM)
+ - 😝 [You heard that little bud?](http://9gag.com/gag/aE07E4p)
+ - 👉 [Back &amp; forth](http://9gag.com/gag/a2vmGwO)<!-- MEMES:END -->
 
 ---
 

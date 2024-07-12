@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the US DOJ plans to sue RealPage by the end of the summer, accusing the company of selling software that allows landlords to collude on setting rents &lpar;Josh Sisco/Politico&rpar;](http://www.techmeme.com/240712/p21#a240712p21)
  - [Qualcomm and Philips have sued Shenzhen-based Transsion, the world&#39;s fourth-largest smartphone maker, for alleged intellectual property violations &lpar;Financial Times&rpar;](http://www.techmeme.com/240712/p20#a240712p20)
  - [SpaceX’s Falcon 9 rockets are grounded after an in-flight failure](https://www.theverge.com/2024/7/12/24197332/spacex-falcon-9-in-flight-rocket-failure-starlink-launch)
  - [Jake Gyllenhaal&#39;s &#39;Presumed Innocent&#39; gets renewed for a second season](https://appleinsider.com/articles/24/07/12/jake-gyllenhaals-presumed-innocent-gets-renewed-for-a-second-season?utm_medium=rss)
- - [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide)
- - [Don&#39;t Miss These Amazon Prime Day Laptop Deals on Apple, Lenovo and More](https://www.cnet.com/deals/best-prime-day-laptop-deals-2024-07-12/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

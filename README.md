@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Argentina&#39;s Tapi, a payments processor for Latin American consumer platforms like Mercado Pago and crypto exchange Lemon, raised a $22M Series A led by Kaszek &lpar;Patrick Gillespie/Bloomberg&rpar;](http://www.techmeme.com/240712/p14#a240712p14)
  - [India&#39;s antitrust regulator has decided that Apple abuses its market dominance](https://appleinsider.com/articles/24/07/12/indias-antitrust-regulator-accuses-apple-of-abusing-its-market-dominance?utm_medium=rss)
  - [Nearly everything on 8BitDo’s hefty $100 gamepad is made of metal](https://www.theverge.com/2024/7/12/24197106/8bitdo-controller-gamepad-sn30pro-limited-edition)
  - [Zenless Zone Zero buries its best bits behind bewildering bunk](https://www.theverge.com/24195175/zenless-zone-zero-impressions-genshin-impact-mihoyo)
- - [Tim Cook, Eddy Cue, and Sam Altman hobnob at annual Sun Valley media retreat](https://appleinsider.com/articles/24/07/12/tim-cook-eddy-cue-and-sam-altman-hobnob-at-annual-sun-valley-media-retreat?utm_medium=rss)
- - [The EU publishes the final text of the EU AI Act; the law will come into force on August 1, 2024, and most companies have until August 2026 to comply &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240712/p13#a240712p13)<!-- TECH:END -->
+ - [Tim Cook, Eddy Cue, and Sam Altman hobnob at annual Sun Valley media retreat](https://appleinsider.com/articles/24/07/12/tim-cook-eddy-cue-and-sam-altman-hobnob-at-annual-sun-valley-media-retreat?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

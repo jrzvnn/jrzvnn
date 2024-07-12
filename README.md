@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: John Binns, a US citizen who was previously arrested in Turkey, is linked to the AT&amp;T data breach; the AT&amp;T data was lifted from a Snowflake instance &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/240712/p23#a240712p23)
+ - [The best Prime Day deals you can already get](https://www.theverge.com/24186583/amazon-prime-day-2024-best-tech-deals-sales)
+ - [Meta says it will soon roll back restrictions on Donald Trump&#39;s Instagram and Facebook accounts to ensure parity among candidates ahead of the 2024 election &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/240712/p22#a240712p22)
  - [Sources: the US DOJ plans to sue RealPage by the end of the summer, accusing the company of selling software that allows landlords to collude on setting rents &lpar;Josh Sisco/Politico&rpar;](http://www.techmeme.com/240712/p21#a240712p21)
- - [Qualcomm and Philips have sued Shenzhen-based Transsion, the world&#39;s fourth-largest smartphone maker, for alleged intellectual property violations &lpar;Financial Times&rpar;](http://www.techmeme.com/240712/p20#a240712p20)
- - [SpaceX’s Falcon 9 rockets are grounded after an in-flight failure](https://www.theverge.com/2024/7/12/24197332/spacex-falcon-9-in-flight-rocket-failure-starlink-launch)
- - [Jake Gyllenhaal&#39;s &#39;Presumed Innocent&#39; gets renewed for a second season](https://appleinsider.com/articles/24/07/12/jake-gyllenhaals-presumed-innocent-gets-renewed-for-a-second-season?utm_medium=rss)
- - [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide)<!-- TECH:END -->
+ - [Prime Day Deals Under $25: Big Savings on Daily Essentials, Tech, Gifts and More](https://www.cnet.com/deals/best-prime-day-deals-under-25/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

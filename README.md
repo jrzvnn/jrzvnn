@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SoftBank buys struggling UK-based chipmaker Graphcore with regulatory approval; sources: the deal is valued at ~$600M, less than the ~$700M Graphcore had raised &lpar;Financial Times&rpar;](http://www.techmeme.com/240711/p30#a240711p30)
  - [A May 2024 data breach at mobile spyware company mSpy leaked millions of customer support tickets, including personal data, its third known breach since 2010 &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240711/p29#a240711p29)
  - [Signal plans to roll out a beta version of its desktop apps that tightens the security of how it stores plain text encryption keys, after downplaying the issue &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/240711/p28#a240711p28)
  - [Popular Meal Subscription Fresh N Lean Shutters Suddenly with Cryptic Message](https://www.cnet.com/health/nutrition/popular-meal-subscription-fresh-n-lean-shutters-suddenly-with-cryptic-message/#ftag=CAD590a51e)
- - [Best Treadmills of 2024](https://www.cnet.com/health/fitness/best-treadmill/#ftag=CAD590a51e)
- - [Apple Pencil with USB-C now sold refurbished, but there are better deals](https://appleinsider.com/articles/24/07/11/apple-pencil-with-usb-c-now-sold-refurbished-but-there-are-better-deals?utm_medium=rss)<!-- TECH:END -->
+ - [Best Treadmills of 2024](https://www.cnet.com/health/fitness/best-treadmill/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

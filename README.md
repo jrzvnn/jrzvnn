@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mohammed, who had just arrived in UK from Bangladesh, tried to abuse a 13 year old British girl because age doesn&#39;t matter to him.](http://9gag.com/gag/awyxeL8)
- - 😝 [Bruce Lee way of punching demonstrated by Aaron Allen, the former bodyguard of Tupac Shakur](http://9gag.com/gag/ae9G745)
- - 💣 [Yes he is](http://9gag.com/gag/aXP9eg6)
- - 😝 [Back &amp; forth](http://9gag.com/gag/a2vmGwO)
- - 👉 [Don&#39;t get drunk on office party](http://9gag.com/gag/aKGqN1g)<!-- MEMES:END -->
+ - 😝 [Oh Yeah...](http://9gag.com/gag/aD2oP5G)
+ - 😝 [Bro knew the real vibe](http://9gag.com/gag/apRvdrB)
+ - 💣 [This is probably how our dreams actually looks like](http://9gag.com/gag/aYQeRYx)
+ - 😝 [Diversity goes brrr](http://9gag.com/gag/aYQed3w)
+ - 👉 [Yes he is](http://9gag.com/gag/aXP9eg6)<!-- MEMES:END -->
 
 ---
 

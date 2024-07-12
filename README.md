@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Interruption and attention.](http://9gag.com/gag/axyj4Lp)
+ - 😝 [You have said it, Joe! Thank you.](http://9gag.com/gag/aNDn2jr)
+ - 💣 [Bro knew the real vibe](http://9gag.com/gag/apRvdrB)
  - 😝 [This is probably how our dreams actually looks like](http://9gag.com/gag/aYQeRYx)
- - 😝 [Happy for 14 seconds](http://9gag.com/gag/aE07EAM)
- - 💣 [Interruption and attention.](http://9gag.com/gag/axyj4Lp)
- - 😝 [In 2007, Jennifer Strange competed in a radio station&#39;s on-air water-drinking contest named `Hold Your Wee for a Wii`. She won, and unfortunately died 3 hours later of water intoxication](http://9gag.com/gag/agmVZ46)
- - 👉 [Back &amp; forth](http://9gag.com/gag/a2vmGwO)<!-- MEMES:END -->
+ - 👉 [Imagine busking on the street and the artist of the song you are singing randomly walks by...](http://9gag.com/gag/aVvPRRd)<!-- MEMES:END -->
 
 ---
 

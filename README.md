@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Japan no! Have sex but with other people!](http://9gag.com/gag/a34BN2e)
- - 😝 [Grey dress](http://9gag.com/gag/apRvVnn)
- - 💣 [Aliens among us](http://9gag.com/gag/aYQeRK2)
- - 😝 [This is probably how our dreams actually looks like](http://9gag.com/gag/aYQeRYx)
- - 👉 [Back &amp; forth](http://9gag.com/gag/a2vmGwO)<!-- MEMES:END -->
+ - 😝 [Physics](http://9gag.com/gag/a87MnKY)
+ - 😝 [No nonsense approach](http://9gag.com/gag/a1mMww8)
+ - 💣 [Diversity is our strength](http://9gag.com/gag/aVvPBpM)
+ - 😝 [???????????](http://9gag.com/gag/aW469DZ)
+ - 👉 [Civic education lesson. Education is important.](http://9gag.com/gag/a2vmj8Z)<!-- MEMES:END -->
 
 ---
 

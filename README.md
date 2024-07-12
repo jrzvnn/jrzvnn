@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t get drunk on office party](http://9gag.com/gag/aKGqN1g)
- - 😝 [There&#39;s nothing you can do. Leave guys](http://9gag.com/gag/aW46NNq)
- - 💣 [You have said it, Joe! Thank you.](http://9gag.com/gag/aNDn2jr)
- - 😝 [Is he right?](http://9gag.com/gag/a9y74mZ)
- - 👉 [Muslim man in London parks car on sidewalk and gets fined then cries about racism and Islamophobia](http://9gag.com/gag/ajPAGEQ)<!-- MEMES:END -->
+ - 😝 [I spent too much time making this, but I hope it gives you good vibes](http://9gag.com/gag/aNDn224)
+ - 😝 [Coffee Hack Level 5](http://9gag.com/gag/aKGqnMN)
+ - 💣 [In the Original Cinderella story, Stepsister cut their Toes to fit in the Sandal](http://9gag.com/gag/aMVGyRM)
+ - 😝 [Interruption and attention.](http://9gag.com/gag/axyj4Lp)
+ - 👉 [I go to Japan](http://9gag.com/gag/aYQeZbw)<!-- MEMES:END -->
 
 ---
 

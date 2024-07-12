@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snowflake confirms that the data breach at AT&amp;T is connected to the hack that has affected other customers, including Ticketmaster and LendingTree &lpar;Bloomberg&rpar;](http://www.techmeme.com/240712/p25#a240712p25)
- - [Meta drops restrictions on Trump’s Facebook and Instagram accounts](https://www.theverge.com/2024/7/12/24197475/donald-trump-facebook-account-restrictions-dropped-meta-instagram)
- - [Don&#39;t Pause on the Best Prime Day TV Deals: Take Advantage of These Early Discounts](https://www.cnet.com/deals/best-prime-day-tv-deals/#ftag=CAD590a51e)
- - [Is the Prime Visa the Best Card for Prime Day? We Do the Math](https://www.cnet.com/personal-finance/best-credit-card-for-amazon-prime-day/#ftag=CAD590a51e)
- - [Amazon Prime Day Live Blog: All the Best Sales We&#39;ve Found So Far](https://www.cnet.com/tech/best-prime-day-deals-live/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Must-See Prime Day Gaming Deals: Grab Amazing Discounts on Consoles, Games, and Accessories](https://www.cnet.com/deals/best-prime-day-gaming-deals/#ftag=CAD590a51e)
+ - [Amazon Prime Day 2024: 46 Early Deals on Tech, Home Appliances and More](https://www.cnet.com/deals/amazon-prime-day-2024-07-12/#ftag=CAD590a51e)
+ - [Experts Share Their Best Energy-Saving Tips In Reaction to CNET&#39;s Latest Survey](https://www.cnet.com/personal-finance/banking/experts-share-their-best-energy-saving-tips-in-reaction-to-cnets-latest-survey/#ftag=CAD590a51e)
+ - [Amazon Prime Day Live Blog: Secure Deep Discounts With the Best Deals We&#39;ve Found So Far](https://www.cnet.com/tech/best-prime-day-deals-live/#ftag=CAD590a51e)
+ - [Galaxy Z Fold 6: My Day in Paris With Samsung&#39;s New Phone video](https://www.cnet.com/videos/galaxy-z-fold-6-my-day-in-paris-with-samsungs-new-phone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

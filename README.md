@@ -161,9 +161,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Nintendo’s Zelda-themed ‘Hyrule Edition’ Switch Lite is finally up for preorder](https://www.theverge.com/24190886/nintendo-switch-lite-hyrule-edition-preorder-price-release-date-zelda)
  - [Logitech MX Keys S review: Great typing feel and feature packed](https://appleinsider.com/articles/24/07/12/logitech-mx-keys-s-review-great-typing-feel-and-feature-packed?utm_medium=rss)
- - [Sources: US car dealership software provider CDK Global appears to have paid ~$25M to hackers on June 21, after a ransomware attack shut down its systems &lpar;Sean Lyngaas/CNN&rpar;](http://www.techmeme.com/240711/p31#a240711p31)
- - [SoftBank buys struggling UK-based chipmaker Graphcore with regulatory approval; sources: the deal is valued at ~$600M, less than the ~$700M Graphcore had raised &lpar;Financial Times&rpar;](http://www.techmeme.com/240711/p30#a240711p30)
- - [A May 2024 data breach at mobile spyware company mSpy leaked millions of customer support tickets, including personal data, its third known breach since 2010 &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240711/p29#a240711p29)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for July 12, #1119](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-12-1119/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for July 12, #397](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-12-397/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for July 12, #131](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-12-131/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

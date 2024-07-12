@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Partior, a blockchain-based interbank payment network backed by JPMorgan, DBS, and Standard Chartered, raised a $60M Series B led by Peak XV Partners &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/240712/p9#a240712p9)
+ - [Sources: some of OpenAI&#39;s safety team felt pressured to speed through a safety protocol to meet GPT-4o&#39;s launch; Open AI says it &quot;didn&#39;t cut corners&quot; on safety &lpar;Washington Post&rpar;](http://www.techmeme.com/240712/p8#a240712p8)
+ - [How to shop for an internet provider in your new home](https://www.theverge.com/24189944/isp-shopping-broadband-labels-speed-neighbors)
  - [Smart rings, Apple Watch rumors, and more betas on the AppleInsider Podcast](https://appleinsider.com/articles/24/07/12/smart-rings-apple-watch-rumors-and-more-betas-on-the-appleinsider-podcast?utm_medium=rss)
- - [Nearly every AT&amp;T customer just had six months of call logs stolen](https://appleinsider.com/articles/24/07/12/nearly-every-att-customer-just-had-six-months-of-call-logs-stolen?utm_medium=rss)
- - [In a June report, India&#39;s antitrust body CCI found that Apple exploited its dominant position in iOS Apps Store and engaged &quot;in abusive conduct and practices&quot; &lpar;Aditya Kalra/Reuters&rpar;](http://www.techmeme.com/240712/p7#a240712p7)
- - [Cable management and other tips for planning a new workspace](https://www.theverge.com/24181347/cable-management-desks-home-office-pc-laptop)
- - [Apple Vision Pro launches in UK, Australia, and more](https://appleinsider.com/articles/24/07/12/apple-vision-pro-launches-in-uk-australia-and-more?utm_medium=rss)<!-- TECH:END -->
+ - [Nearly every AT&amp;T customer just had six months of call logs stolen](https://appleinsider.com/articles/24/07/12/nearly-every-att-customer-just-had-six-months-of-call-logs-stolen?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

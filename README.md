@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Civic education lesson. Education is important.](http://9gag.com/gag/a2vmj8Z)
- - 😝 [Facts vs Feelings in debate](http://9gag.com/gag/aVvP1QK)
- - 💣 [Yes he is](http://9gag.com/gag/aXP9eg6)
- - 😝 [Oh Yeah...](http://9gag.com/gag/aD2oP5G)
- - 👉 [Diversity goes brrr](http://9gag.com/gag/aYQed3w)<!-- MEMES:END -->
+ - 😝 [Bruce Lee way of punching demonstrated by Aaron Allen, the former bodyguard of Tupac Shakur](http://9gag.com/gag/ae9G745)
+ - 😝 [Yes he is](http://9gag.com/gag/aXP9eg6)
+ - 💣 [Back &amp; forth](http://9gag.com/gag/a2vmGwO)
+ - 😝 [In 2007, Jennifer Strange competed in a radio station&#39;s on-air water-drinking contest named `Hold Your Wee for a Wii`. She won, and unfortunately died 3 hours later of water intoxication](http://9gag.com/gag/agmVZ46)
+ - 👉 [Don&#39;t get drunk on office party](http://9gag.com/gag/aKGqN1g)<!-- MEMES:END -->
 
 ---
 

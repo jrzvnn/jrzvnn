@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Imagine busking on the street and the artist of the song you are singing randomly walks by...](http://9gag.com/gag/aVvPRRd)
- - 😝 [How a good Doner is made](http://9gag.com/gag/an7NVqE)
- - 💣 [Moonwalking into Oval](http://9gag.com/gag/aE07OBM)
- - 😝 [Bruh..](http://9gag.com/gag/aKGqOg3)
- - 👉 [Colombians strikers](http://9gag.com/gag/a0epx8X)<!-- MEMES:END -->
+ - 😝 [Physics](http://9gag.com/gag/a87MnKY)
+ - 😝 [Mohammed, who had just arrived in UK from Bangladesh, tried to abuse a 13 year old British girl because age doesn&#39;t matter to him.](http://9gag.com/gag/awyxeL8)
+ - 💣 [Excuse us, we&#39;re just slow today. The heat is bad yo](http://9gag.com/gag/a5Q7qzG)
+ - 😝 [Moonwalking into Oval](http://9gag.com/gag/aE07OBM)
+ - 👉 [Let me guess... African as king of Rome and put some rap battle music...](http://9gag.com/gag/aoy9npe)<!-- MEMES:END -->
 
 ---
 

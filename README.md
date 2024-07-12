@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [You heard that little bud?](http://9gag.com/gag/aE07E4p)
- - 😝 [That smile](http://9gag.com/gag/amo9p46)
- - 💣 [Catch](http://9gag.com/gag/a9y7BMj)
  - 😝 [This is probably how our dreams actually looks like](http://9gag.com/gag/aYQeRYx)
- - 👉 [Let me guess... African as king of Rome and put some rap battle music...](http://9gag.com/gag/aoy9npe)<!-- MEMES:END -->
+ - 💣 [In the Original Cinderella story, Stepsister cut their Toes to fit in the Sandal](http://9gag.com/gag/aMVGyRM)
+ - 😝 [Trevor](http://9gag.com/gag/a9y7DYL)
+ - 👉 [Catch](http://9gag.com/gag/a9y7BMj)<!-- MEMES:END -->
 
 ---
 

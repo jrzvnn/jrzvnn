@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The worst she could say is no. &#39;Yeah&#39;](http://9gag.com/gag/aMVG01A)
  - 😝 [Interruption and attention.](http://9gag.com/gag/axyj4Lp)
- - 😝 [???????????](http://9gag.com/gag/aW469DZ)
- - 💣 [Coffee Hack Level 5](http://9gag.com/gag/aKGqnMN)
- - 😝 [For real](http://9gag.com/gag/aD2oMB9)
- - 👉 [Don&#39;t get drunk on office party](http://9gag.com/gag/aKGqN1g)<!-- MEMES:END -->
+ - 💣 [Zip Tied](http://9gag.com/gag/aO8VA4D)
+ - 😝 [9gaggers](http://9gag.com/gag/aPADzZQ)
+ - 👉 [How cigarettes were packaged in France, 1930](http://9gag.com/gag/aGyxrEn)<!-- MEMES:END -->
 
 ---
 

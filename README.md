@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And they lost their job](http://9gag.com/gag/a9y7VMW)
- - 😝 [Back &amp; forth](http://9gag.com/gag/a2vmGwO)
- - 💣 [You heard that little bud?](http://9gag.com/gag/aE07E4p)
- - 😝 [I spent too much time making this, but I hope it gives you good vibes](http://9gag.com/gag/aNDn224)
- - 👉 [9gaggers](http://9gag.com/gag/aPADzZQ)<!-- MEMES:END -->
+ - 😝 [Don&#39;t get drunk on office party](http://9gag.com/gag/aKGqN1g)
+ - 😝 [There&#39;s nothing you can do. Leave guys](http://9gag.com/gag/aW46NNq)
+ - 💣 [You have said it, Joe! Thank you.](http://9gag.com/gag/aNDn2jr)
+ - 😝 [Is he right?](http://9gag.com/gag/a9y74mZ)
+ - 👉 [Muslim man in London parks car on sidewalk and gets fined then cries about racism and Islamophobia](http://9gag.com/gag/ajPAGEQ)<!-- MEMES:END -->
 
 ---
 

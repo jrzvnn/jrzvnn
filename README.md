@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AT&amp;T breach leaked call and text records from ‘nearly all’ wireless customers](https://www.theverge.com/2024/7/12/24197052/att-data-breach-call-text-records-hack)
+ - [After X announced shows with star talent like Paris Hilton and Tucker Carlson, the efforts have fizzled, a source says due to a lack of advertiser interest &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/240712/p10#a240712p10)
+ - [Samsung’s new folds, flips, and Apple clones](https://www.theverge.com/2024/7/12/24197065/samsung-galaxy-fold-flip-airpods-vergecast)
  - [Surfshark VPN review: Powerful protection and performance with few drawbacks](https://appleinsider.com/articles/24/07/12/surfshark-vpn-review-powerful-protection-and-performance-with-few-drawbacks?utm_medium=rss)
- - [At 25, Metafilter Feels Like a Time Capsule From Another Internet](https://www.wired.com/story/metafilter-twenty-five-year-anniversary-internet-community/)
- - [Partior, a blockchain-based interbank payment network backed by JPMorgan, DBS, and Standard Chartered, raised a $60M Series B led by Peak XV Partners &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/240712/p9#a240712p9)
- - [Sources: some of OpenAI&#39;s safety team felt pressured to speed through a safety protocol to meet GPT-4o&#39;s launch; Open AI says it &quot;didn&#39;t cut corners&quot; on safety &lpar;Washington Post&rpar;](http://www.techmeme.com/240712/p8#a240712p8)
- - [How to shop for an internet provider in your new home](https://www.theverge.com/24189944/isp-shopping-broadband-labels-speed-neighbors)<!-- TECH:END -->
+ - [Partior, a blockchain-based interbank payment network backed by JPMorgan, DBS, and Standard Chartered, raised a $60M Series B led by Peak XV Partners &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/240712/p9#a240712p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

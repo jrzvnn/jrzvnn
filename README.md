@@ -163,7 +163,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [SpaceX’s Falcon 9 rockets are grounded after an in-flight failure](https://www.theverge.com/2024/7/12/24197332/spacex-falcon-9-in-flight-rocket-failure-starlink-launch)
  - [Jake Gyllenhaal&#39;s &#39;Presumed Innocent&#39; gets renewed for a second season](https://appleinsider.com/articles/24/07/12/jake-gyllenhaals-presumed-innocent-gets-renewed-for-a-second-season?utm_medium=rss)
  - [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide)
- - [Amazon matches Best Buy&#39;s $799 M2 MacBook Air deal as Prime Day nears](https://appleinsider.com/articles/24/07/12/amazon-matches-best-buys-799-m2-macbook-air-deal-as-prime-day-nears?utm_medium=rss)<!-- TECH:END -->
+ - [Don&#39;t Miss These Amazon Prime Day Laptop Deals on Apple, Lenovo and More](https://www.cnet.com/deals/best-prime-day-laptop-deals-2024-07-12/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

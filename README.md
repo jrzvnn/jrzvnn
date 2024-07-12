@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Physics](http://9gag.com/gag/a87MnKY)
+ - 😝 [For real](http://9gag.com/gag/aD2oMB9)
  - 😝 [Mohammed, who had just arrived in UK from Bangladesh, tried to abuse a 13 year old British girl because age doesn&#39;t matter to him.](http://9gag.com/gag/awyxeL8)
- - 💣 [Excuse us, we&#39;re just slow today. The heat is bad yo](http://9gag.com/gag/a5Q7qzG)
- - 😝 [Moonwalking into Oval](http://9gag.com/gag/aE07OBM)
- - 👉 [Let me guess... African as king of Rome and put some rap battle music...](http://9gag.com/gag/aoy9npe)<!-- MEMES:END -->
+ - 💣 [Bro knew the real vibe](http://9gag.com/gag/apRvdrB)
+ - 😝 [Back &amp; forth](http://9gag.com/gag/a2vmGwO)
+ - 👉 [Diversity is our strength](http://9gag.com/gag/aVvPBpM)<!-- MEMES:END -->
 
 ---
 

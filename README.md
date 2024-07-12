@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Muslim man in London parks car on sidewalk and gets fined then cries about racism and Islamophobia](http://9gag.com/gag/ajPAGEQ)
- - 😝 [9gaggers](http://9gag.com/gag/aPADzZQ)
- - 💣 [No nonsense, girl](http://9gag.com/gag/a7o7nm2)
- - 😝 [Zip Tied](http://9gag.com/gag/aO8VA4D)
- - 👉 [Mohammed, who had just arrived in UK from Bangladesh, tried to abuse a 13 year old British girl because age doesn&#39;t matter to him.](http://9gag.com/gag/awyxeL8)<!-- MEMES:END -->
+ - 😝 [You heard that little bud?](http://9gag.com/gag/aE07E4p)
+ - 😝 [Don&#39;t get drunk on office party](http://9gag.com/gag/aKGqN1g)
+ - 💣 [Japan no! Have sex but with other people!](http://9gag.com/gag/a34BN2e)
+ - 😝 [You have said it, Joe! Thank you.](http://9gag.com/gag/aNDn2jr)
+ - 👉 [9gaggers](http://9gag.com/gag/aPADzZQ)<!-- MEMES:END -->
 
 ---
 

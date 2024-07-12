@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)
  - [Amazon’s AI shopping assistant rolls out to all users in the US](https://www.theverge.com/2024/7/12/24197173/amazon-ai-shopping-assistant-rufus-us-customers-rollout)
  - [Saudi Arabia will host the inaugural Olympic Esports Games in 2025, as part of a newly announced 12-year partnership with the Olympic Committee &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/240712/p16#a240712p16)
- - [Source: Meta plans to release the largest version of its Llama 3 model with 405B parameters and multimodal capabilities on July 23 &lpar;The Information&rpar;](http://www.techmeme.com/240712/p15#a240712p15)
- - [Argentina&#39;s Tapi, a payments processor for Latin American consumer platforms like Mercado Pago and crypto exchange Lemon, raised a $22M Series A led by Kaszek &lpar;Patrick Gillespie/Bloomberg&rpar;](http://www.techmeme.com/240712/p14#a240712p14)
- - [Amazon Prime Day Live Blog: All the Best Sales We&#39;ve Found So Far](https://www.cnet.com/tech/best-prime-day-deals-live/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Elon Musk Couldn’t Beat Him. AI Just Might](https://www.wired.com/story/dial-up-imran-ahmed/)
+ - [Source: Meta plans to release the largest version of its Llama 3 model, expected to have 405B parameters and multimodal capabilities, on July 23 &lpar;The Information&rpar;](http://www.techmeme.com/240712/p15#a240712p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

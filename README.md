@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AT&amp;T says it will begin notifying consumers about a data breach that allowed cybercriminals to steal phone records of &quot;nearly all&quot; of its customers &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240712/p5#a240712p5)
- - [Getting up close and personal with space junk](https://www.theverge.com/2024/7/12/24197023/astroscale-adras-j-discarded-space-junk-mission-images)
- - [Preliminary findings: the EU says X&#39;s paid blue checkmark deceives users and breaches the DSA; X faces a fine of up to 6% of its global revenue if found guilty &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240712/p4#a240712p4)
- - [Amazon Will Brick Its $2,350 Astro Robots Just 10 Months After Release](https://www.wired.com/story/amazon-astro-robot-brick/)
- - [Microsoft’s Copilot AI now understands your terrible handwriting](https://www.theverge.com/2024/7/12/24197009/microsoft-onenote-copilot-inked-notes-handwriting-recognition)<!-- TECH:END -->
+ - [Nearly every AT&amp;T customer just had six months of call logs stolen](https://appleinsider.com/articles/24/07/12/nearly-every-att-customer-just-had-six-months-of-call-logs-stolen?utm_medium=rss)
+ - [RIP Redbox, a Bad Idea at the Worst Time](https://www.wired.com/story/rip-redbox-a-bad-idea-at-the-worst-time/)
+ - [Apple beats lawsuit over forcing developers to use its closed ecosystem](https://appleinsider.com/articles/24/07/12/apple-beats-lawsuit-over-forcing-developers-to-use-its-closed-ecosystem?utm_medium=rss)
+ - [Early Prime Day Deal Drops This 2K Tapo Security Camera to Just $25 Today](https://www.cnet.com/deals/early-prime-day-deal-drops-this-2k-tapo-security-camera-to-just-25-today/#ftag=CAD590a51e)
+ - [AT&amp;T says it will begin notifying consumers about a data breach that allowed cybercriminals to steal phone records of &quot;nearly all&quot; of its customers &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240712/p5#a240712p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

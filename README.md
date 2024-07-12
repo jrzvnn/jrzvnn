@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tim Cook, Eddy Cue, and Sam Altman hobnob at annual Sun Valley media retreat](https://appleinsider.com/articles/24/07/12/tim-cook-eddy-cue-and-sam-altman-hobnob-at-annual-sun-valley-media-retreat?utm_medium=rss)
+ - [The EU publishes the final text of the EU AI Act; the law will come into force on August 1, 2024, and most companies have until August 2026 to comply &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/240712/p13#a240712p13)
  - [Southwest Airlines and Archer strike a deal for an electric air taxi network](https://www.theverge.com/2024/7/12/24197168/southwest-airlines-archer-evtol-air-taxi-deal)
- - [Clevetura CLVX 1 Review: I Love This Keyboard-Touchpad Hybrid](https://www.wired.com/review/clevetura-clvx-1-keyboard-and-touchpad/)
  - [The Analogue Pocket now comes in aluminum](https://www.theverge.com/2024/7/12/24197135/analogue-pocket-aluminum)
- - [The Rabbit R1 has been logging users’ chats — with no way to wipe them](https://www.theverge.com/2024/7/12/24197073/rabbit-r1-user-chat-logs-security-issue-july-11th-update)
- - [The compliance countdown has started for AI companies operating in the EU](https://www.theverge.com/2024/7/12/24197058/eu-ai-act-regulations-bans-deadline)<!-- TECH:END -->
+ - [The Rabbit R1 has been logging users’ chats — with no way to wipe them](https://www.theverge.com/2024/7/12/24197073/rabbit-r1-user-chat-logs-security-issue-july-11th-update)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

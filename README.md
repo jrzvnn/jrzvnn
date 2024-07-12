@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t get drunk on office party](http://9gag.com/gag/aKGqN1g)
- - 😝 [I go to Japan](http://9gag.com/gag/aYQeZbw)
- - 💣 [Mhm . .](http://9gag.com/gag/avyPXNZ)
  - 😝 [Please don&#39;t please don&#39;t](http://9gag.com/gag/azxjobz)
- - 👉 [You have said it, Joe! Thank you.](http://9gag.com/gag/aNDn2jr)<!-- MEMES:END -->
+ - 😝 [I go to Japan](http://9gag.com/gag/aYQeZbw)
+ - 💣 [Don&#39;t get drunk on office party](http://9gag.com/gag/aKGqN1g)
+ - 😝 [Wholesome Greentext](http://9gag.com/gag/aMVGDRW)
+ - 👉 [There&#39;s nothing you can do. Leave guys](http://9gag.com/gag/aW46NNq)<!-- MEMES:END -->
 
 ---
 

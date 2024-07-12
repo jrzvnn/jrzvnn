@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Prime Day Live Blog: Secure Deep Discounts With the Best Deals We&#39;ve Found So Far](https://www.cnet.com/tech/best-prime-day-deals-live/#ftag=CAD590a51e)
- - [Best Bluetooth Speaker for 2024](https://www.cnet.com/tech/home-entertainment/best-bluetooth-speaker/#ftag=CAD590a51e)
  - [An internal document and source detail OpenAI&#39;s Strawberry, formerly known as Q*, which aims to improve its AI models&#39; reasoning capabilities dramatically &lpar;Reuters&rpar;](http://www.techmeme.com/240712/p26#a240712p26)
- - [Top Early Prime Day Picks Under $100: Unbeatable Tech, Home Essentials, Gifts and More](https://www.cnet.com/deals/best-prime-day-deals-under-100/#ftag=CAD590a51e)
- - [Best Refrigerators for 2024](https://www.cnet.com/home/kitchen-and-household/best-refrigerator/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Must-See Prime Day Gaming Deals: Grab Amazing Discounts on Consoles, Games, and Accessories](https://www.cnet.com/deals/best-prime-day-gaming-deals/#ftag=CAD590a51e)
+ - [Amazon Prime Day 2024: 46 Early Deals on Tech, Home Appliances and More](https://www.cnet.com/deals/amazon-prime-day-2024-07-12/#ftag=CAD590a51e)
+ - [Experts Share Their Best Energy-Saving Tips In Reaction to CNET&#39;s Latest Survey](https://www.cnet.com/personal-finance/banking/experts-share-their-best-energy-saving-tips-in-reaction-to-cnets-latest-survey/#ftag=CAD590a51e)
+ - [Amazon Prime Day Live Blog: Secure Deep Discounts With the Best Deals We&#39;ve Found So Far](https://www.cnet.com/tech/best-prime-day-deals-live/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

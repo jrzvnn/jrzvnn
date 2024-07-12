@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI is plagued by safety concerns](https://www.theverge.com/2024/7/12/24197142/openai-safety-concerns-agi)
+ - [Now your iPhone can have a Notes app and a note pad](https://www.theverge.com/2024/7/12/24197251/moft-snap-flow-notepad-magsafe-iphone-accessory)
+ - [The Sixth Circuit US Court of Appeals puts the FCC&#39;s reinstatement of net neutrality rules on hold until August 5 as it considers industry legal challenges &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/240712/p24#a240712p24)
  - [Sources: John Binns, a US citizen who was previously arrested in Turkey, is linked to the AT&amp;T data breach; the AT&amp;T data was lifted from a Snowflake instance &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/240712/p23#a240712p23)
- - [The best Prime Day deals you can already get](https://www.theverge.com/24186583/amazon-prime-day-2024-best-tech-deals-sales)
- - [Meta says it will soon roll back restrictions on Donald Trump&#39;s Instagram and Facebook accounts to ensure parity among candidates ahead of the 2024 election &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/240712/p22#a240712p22)
- - [Sources: the US DOJ plans to sue RealPage by the end of the summer, accusing the company of selling software that allows landlords to collude on setting rents &lpar;Josh Sisco/Politico&rpar;](http://www.techmeme.com/240712/p21#a240712p21)
- - [Prime Day Deals Under $25: Big Savings on Daily Essentials, Tech, Gifts and More](https://www.cnet.com/deals/best-prime-day-deals-under-25/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best Prime Day deals you can already get](https://www.theverge.com/24186583/amazon-prime-day-2024-best-tech-deals-sales)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

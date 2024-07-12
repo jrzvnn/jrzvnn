@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)
- - [Amazon’s AI shopping assistant rolls out to all users in the US](https://www.theverge.com/2024/7/12/24197173/amazon-ai-shopping-assistant-rufus-us-customers-rollout)
- - [Saudi Arabia will host the inaugural Olympic Esports Games in 2025, as part of a newly announced 12-year partnership with the Olympic Committee &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/240712/p16#a240712p16)
- - [Source: Meta plans to release the largest version of its Llama 3 model, expected to have 405B parameters and multimodal capabilities, on July 23 &lpar;The Information&rpar;](http://www.techmeme.com/240712/p15#a240712p15)
- - [Argentina&#39;s Tapi, a payments processor for Latin American consumer platforms like Mercado Pago and crypto exchange Lemon, raised a $22M Series A led by Kaszek &lpar;Patrick Gillespie/Bloomberg&rpar;](http://www.techmeme.com/240712/p14#a240712p14)<!-- TECH:END -->
+ - [Apex Legends is having a rough week](https://www.theverge.com/2024/7/12/24197221/apex-legends-battle-pass-incorrect-esports-payments)
+ - [TCL’s gamer-friendly Q6 QLED TV is cheaper than ever right now](https://www.theverge.com/2024/7/12/24196114/tcl-q6-4k-qled-tv-nothing-ear-a-earbuds-deal-sale)
+ - [Source: online ticketing service StubHub delays a potential US IPO until after Labor Day, after reportedly eyeing a summer IPO with a $16.5B+ valuation &lpar;CNBC&rpar;](http://www.techmeme.com/240712/p17#a240712p17)
+ - [Six-Word Sci-Fi: Stories Written by You](https://www.wired.com/story/six-word-sci-fi/)
+ - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

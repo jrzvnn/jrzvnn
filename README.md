@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Listen fat ass!](http://9gag.com/gag/aVvPBPP)
- - 😝 [When Your World Fall&#39;s Apart](http://9gag.com/gag/aD2oOYK)
+ - 😝 [Mohammed, who had just arrived in UK from Bangladesh, tried to abuse a 13 year old British girl because age doesn&#39;t matter to him.](http://9gag.com/gag/awyxeL8)
+ - 😝 [Bruce Lee way of punching demonstrated by Aaron Allen, the former bodyguard of Tupac Shakur](http://9gag.com/gag/ae9G745)
  - 💣 [Yes he is](http://9gag.com/gag/aXP9eg6)
  - 😝 [Back &amp; forth](http://9gag.com/gag/a2vmGwO)
- - 👉 [Catch](http://9gag.com/gag/a9y7BMj)<!-- MEMES:END -->
+ - 👉 [Don&#39;t get drunk on office party](http://9gag.com/gag/aKGqN1g)<!-- MEMES:END -->
 
 ---
 

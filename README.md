@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No nonsense, girl](http://9gag.com/gag/a7o7nm2)
+ - 😝 [And they lost their job](http://9gag.com/gag/a9y7VMW)
+ - 😝 [An award already?](http://9gag.com/gag/ajPAdK8)
+ - 💣 [Please don&#39;t please don&#39;t](http://9gag.com/gag/azxjobz)
  - 😝 [Don&#39;t get drunk on office party](http://9gag.com/gag/aKGqN1g)
- - 💣 [Yes he is](http://9gag.com/gag/aXP9eg6)
- - 😝 [Trevor](http://9gag.com/gag/a9y7DYL)
- - 👉 [In the Original Cinderella story, Stepsister cut their Toes to fit in the Sandal](http://9gag.com/gag/aMVGyRM)<!-- MEMES:END -->
+ - 👉 [Two pickpockets arrested red-handed by the police in Amsterdam...](http://9gag.com/gag/apRvzm5)<!-- MEMES:END -->
 
 ---
 

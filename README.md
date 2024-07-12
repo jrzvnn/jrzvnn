@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Please don&#39;t please don&#39;t](http://9gag.com/gag/azxjobz)
- - 😝 [I go to Japan](http://9gag.com/gag/aYQeZbw)
- - 💣 [Don&#39;t get drunk on office party](http://9gag.com/gag/aKGqN1g)
- - 😝 [Wholesome Greentext](http://9gag.com/gag/aMVGDRW)
- - 👉 [There&#39;s nothing you can do. Leave guys](http://9gag.com/gag/aW46NNq)<!-- MEMES:END -->
+ - 😝 [This is probably how our dreams actually looks like](http://9gag.com/gag/aYQeRYx)
+ - 😝 [Happy for 14 seconds](http://9gag.com/gag/aE07EAM)
+ - 💣 [Interruption and attention.](http://9gag.com/gag/axyj4Lp)
+ - 😝 [In 2007, Jennifer Strange competed in a radio station&#39;s on-air water-drinking contest named `Hold Your Wee for a Wii`. She won, and unfortunately died 3 hours later of water intoxication](http://9gag.com/gag/agmVZ46)
+ - 👉 [Back &amp; forth](http://9gag.com/gag/a2vmGwO)<!-- MEMES:END -->
 
 ---
 

@@ -169,10 +169,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Cop car surfing](http://9gag.com/gag/aPADd1P)
- - 😝 [Catch](http://9gag.com/gag/a9y7BMj)
- - 💣 [Bro knew the real vibe](http://9gag.com/gag/apRvdrB)
+ - 😝 [Grey dress](http://9gag.com/gag/apRvVnn)
+ - 💣 [Back &amp; forth](http://9gag.com/gag/a2vmGwO)
  - 😝 [Don&#39;t get drunk on office party](http://9gag.com/gag/aKGqN1g)
- - 👉 [Back &amp; forth](http://9gag.com/gag/a2vmGwO)<!-- MEMES:END -->
+ - 👉 [Catch](http://9gag.com/gag/a9y7BMj)<!-- MEMES:END -->
 
 ---
 

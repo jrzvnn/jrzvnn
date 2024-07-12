@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New York-based Standard Bots, which makes AI-powered robotic arms, raised $63M over a series of deals, including a $39M Series B led by General Catalyst &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/240712/p11#a240712p11)
  - [AT&amp;T breach leaked call and text records from ‘nearly all’ wireless customers](https://www.theverge.com/2024/7/12/24197052/att-data-breach-call-text-records-hack)
  - [After X announced shows with star talent like Paris Hilton and Tucker Carlson, the efforts have fizzled, a source says due to a lack of advertiser interest &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/240712/p10#a240712p10)
  - [Samsung’s new folds, flips, and Apple clones](https://www.theverge.com/2024/7/12/24197065/samsung-galaxy-fold-flip-airpods-vergecast)
- - [Surfshark VPN review: Powerful protection and performance with few drawbacks](https://appleinsider.com/articles/24/07/12/surfshark-vpn-review-powerful-protection-and-performance-with-few-drawbacks?utm_medium=rss)
- - [Partior, a blockchain-based interbank payment network backed by JPMorgan, DBS, and Standard Chartered, raised a $60M Series B led by Peak XV Partners &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/240712/p9#a240712p9)<!-- TECH:END -->
+ - [Surfshark VPN review: Powerful protection and performance with few drawbacks](https://appleinsider.com/articles/24/07/12/surfshark-vpn-review-powerful-protection-and-performance-with-few-drawbacks?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

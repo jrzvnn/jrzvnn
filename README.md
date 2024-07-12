@@ -159,10 +159,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Qualcomm and Philips have sued Shenzhen-based Transsion, the world&#39;s fourth-largest smartphone maker, for alleged intellectual property violations &lpar;Financial Times&rpar;](http://www.techmeme.com/240712/p20#a240712p20)
  - [SpaceX’s Falcon 9 rockets are grounded after an in-flight failure](https://www.theverge.com/2024/7/12/24197332/spacex-falcon-9-in-flight-rocket-failure-starlink-launch)
  - [Jake Gyllenhaal&#39;s &#39;Presumed Innocent&#39; gets renewed for a second season](https://appleinsider.com/articles/24/07/12/jake-gyllenhaals-presumed-innocent-gets-renewed-for-a-second-season?utm_medium=rss)
  - [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide)
- - [Don&#39;t Miss These Amazon Prime Day Laptop Deals on Apple, Lenovo and More](https://www.cnet.com/deals/best-prime-day-laptop-deals-2024-07-12/#ftag=CAD590a51e)
  - [Amazon matches Best Buy&#39;s $799 M2 MacBook Air deal as Prime Day nears](https://appleinsider.com/articles/24/07/12/amazon-matches-best-buys-799-m2-macbook-air-deal-as-prime-day-nears?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

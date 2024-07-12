@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Civic education lesson. Education is important.](http://9gag.com/gag/a2vmj8Z)
+ - 😝 [Facts vs Feelings in debate](http://9gag.com/gag/aVvP1QK)
+ - 💣 [Yes he is](http://9gag.com/gag/aXP9eg6)
  - 😝 [Oh Yeah...](http://9gag.com/gag/aD2oP5G)
- - 😝 [Bro knew the real vibe](http://9gag.com/gag/apRvdrB)
- - 💣 [This is probably how our dreams actually looks like](http://9gag.com/gag/aYQeRYx)
- - 😝 [Diversity goes brrr](http://9gag.com/gag/aYQed3w)
- - 👉 [Yes he is](http://9gag.com/gag/aXP9eg6)<!-- MEMES:END -->
+ - 👉 [Diversity goes brrr](http://9gag.com/gag/aYQed3w)<!-- MEMES:END -->
 
 ---
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You have said it, Joe! Thank you.](http://9gag.com/gag/aNDn2jr)
+ - 😝 [You heard that little bud?](http://9gag.com/gag/aE07E4p)
  - 😝 [Yes he is](http://9gag.com/gag/aXP9eg6)
- - 💣 [Trevor](http://9gag.com/gag/a9y7DYL)
- - 😝 [Catch](http://9gag.com/gag/a9y7BMj)
- - 👉 [Bro knew the real vibe](http://9gag.com/gag/apRvdrB)<!-- MEMES:END -->
+ - 💣 [You have said it, Joe! Thank you.](http://9gag.com/gag/aNDn2jr)
+ - 😝 [In the Original Cinderella story, Stepsister cut their Toes to fit in the Sandal](http://9gag.com/gag/aMVGyRM)
+ - 👉 [Catch](http://9gag.com/gag/a9y7BMj)<!-- MEMES:END -->
 
 ---
 

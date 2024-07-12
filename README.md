@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [For real](http://9gag.com/gag/aD2oMB9)
- - 😝 [Mohammed, who had just arrived in UK from Bangladesh, tried to abuse a 13 year old British girl because age doesn&#39;t matter to him.](http://9gag.com/gag/awyxeL8)
- - 💣 [The return of the king](http://9gag.com/gag/aMVGq9x)
- - 😝 [Physics](http://9gag.com/gag/a87MnKY)
- - 👉 [Colombians strikers](http://9gag.com/gag/a0epx8X)<!-- MEMES:END -->
+ - 😝 [???????????](http://9gag.com/gag/aW469DZ)
+ - 😝 [Diversity is our strength](http://9gag.com/gag/aVvPBpM)
+ - 💣 [For real](http://9gag.com/gag/aD2oMB9)
+ - 😝 [Watch &amp; Learn](http://9gag.com/gag/aNDnjPb)
+ - 👉 [Let me guess... African as king of Rome and put some rap battle music...](http://9gag.com/gag/aoy9npe)<!-- MEMES:END -->
 
 ---
 

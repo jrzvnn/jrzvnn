@@ -161,9 +161,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Snowflake confirms that the data breach at AT&amp;T is connected to the hack that has affected other customers, including Ticketmaster and LendingTree &lpar;Bloomberg&rpar;](http://www.techmeme.com/240712/p25#a240712p25)
  - [Meta drops restrictions on Trump’s Facebook and Instagram accounts](https://www.theverge.com/2024/7/12/24197475/donald-trump-facebook-account-restrictions-dropped-meta-instagram)
- - [Don&#39;t Pause on the Best Prime Day TV Deals: Take Advantage of These Early Discounts](https://www.cnet.com/deals/best-prime-day-tv-deals/#ftag=CAD590a51e)
- - [Is the Prime Visa the Best Card for Prime Day? We Do the Math](https://www.cnet.com/personal-finance/best-credit-card-for-amazon-prime-day/#ftag=CAD590a51e)
- - [Amazon Prime Day Live Blog: All the Best Sales We&#39;ve Found So Far](https://www.cnet.com/tech/best-prime-day-deals-live/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OpenAI is plagued by safety concerns](https://www.theverge.com/2024/7/12/24197142/openai-safety-concerns-agi)
+ - [19 Best Early Amazon Prime Day Deals &lpar;2024&rpar;](https://www.wired.com/story/best-early-amazon-prime-day-deals-2024/)
+ - [Now your iPhone can have a Notes app and a note pad](https://www.theverge.com/2024/7/12/24197251/moft-snap-flow-notepad-magsafe-iphone-accessory)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

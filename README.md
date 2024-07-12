@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon matches Best Buy&#39;s $799 M2 MacBook Air deal as Prime Day nears](https://appleinsider.com/articles/24/07/12/amazon-matches-best-buys-799-m2-macbook-air-deal-as-prime-day-nears?utm_medium=rss)
+ - [Three US senators introduce the COPIED Act, which aims to give journalists, songwriters, and artists tools to fight AI models using their work without consent &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/240712/p19#a240712p19)
  - [Drone photographer pleads guilty to Espionage Act charges](https://www.theverge.com/2024/7/12/24197356/chinese-national-graduate-student-espionage-act-drone-navy-shipyard-plea-guilty)
  - [PartnerOne acquires HeadSpin, whose founder is serving a jail sentence for fraud; email: employees&#39; stock options were canceled as the options were &quot;underwater&quot; &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/240712/p18#a240712p18)
- - [The Verge’s guide to Amazon Prime Day 2024](https://www.theverge.com/24191617/amazon-prime-day-tech-deals-guide-2024)
- - [The best early Prime Day deals on Amazon devices](https://www.theverge.com/24186875/amazon-prime-day-device-deals-echo-speakers-kindles-fire-tv-streaming-sticks-sale-2024)
- - [Apple Pay is convenient and brings out the worst in me](https://www.theverge.com/2024/7/12/24197272/apple-pay-convenience-frictionless-lost-wallet)<!-- TECH:END -->
+ - [The Verge’s guide to Amazon Prime Day 2024](https://www.theverge.com/24191617/amazon-prime-day-tech-deals-guide-2024)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,7 +159,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AT&amp;T says it will begin notifying consumers about a data breach that allowed cybercriminals to steal the phone records of &quot;nearly all&quot; of its customers &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240712/p5#a240712p5)
+ - [AT&amp;T says it will begin notifying consumers about a data breach that allowed cybercriminals to steal phone records of &quot;nearly all&quot; of its customers &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/240712/p5#a240712p5)
  - [Getting up close and personal with space junk](https://www.theverge.com/2024/7/12/24197023/astroscale-adras-j-discarded-space-junk-mission-images)
  - [Preliminary findings: the EU says X&#39;s paid blue checkmark deceives users and breaches the DSA; X faces a fine of up to 6% of its global revenue if found guilty &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/240712/p4#a240712p4)
  - [Amazon Will Brick Its $2,350 Astro Robots Just 10 Months After Release](https://www.wired.com/story/amazon-astro-robot-brick/)

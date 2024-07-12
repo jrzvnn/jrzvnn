@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft’s Copilot AI now understands your terrible handwriting](https://www.theverge.com/2024/7/12/24197009/microsoft-onenote-copilot-inked-notes-handwriting-recognition)
+ - [Hanover, Germany-based HERO Software, whose SaaS acts as an operating system for trade SMEs like plumbing, raised a &amp;euro;40M Series B led by Eight Roads Ventures &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/240712/p3#a240712p3)
  - [Some devs remain optimistic as Apple seeks a &quot;killer app&quot; for Vision Pro; Appfigures: the number of new Vision Pro apps has fallen since January and February &lpar;Financial Times&rpar;](http://www.techmeme.com/240712/p2#a240712p2)
  - [The Secret to Amazon Prime Day Deals Without Any Strings Attached](https://www.cnet.com/personal-finance/the-secret-to-amazon-prime-day-deals-without-any-strings-attached/#ftag=CAD590a51e)
- - [Federal Solar Tax Credit Explained: Here’s How You Can Make the Most of It](https://www.cnet.com/home/energy-and-utilities/solar-tax-credits/#ftag=CAD590a51e)
- - [Asus ROG Zephyrus G16 Review: A Top Gaming Laptop for Creators Too](https://www.cnet.com/tech/computing/asus-rog-zephyrus-g16-review-a-top-gaming-laptop-for-creators-too/#ftag=CAD590a51e)
- - [Asia-based startups raised only $14.6B in Q2 2024, down 24% from Q1 and 32% YoY, with only 1,511 funding deals announced in Q2, down 15% from Q1 and 27% YoY &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/240712/p1#a240712p1)<!-- TECH:END -->
+ - [Federal Solar Tax Credit Explained: Here’s How You Can Make the Most of It](https://www.cnet.com/home/energy-and-utilities/solar-tax-credits/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

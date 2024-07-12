@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You heard that little bud?](http://9gag.com/gag/aE07E4p)
- - 😝 [Yes he is](http://9gag.com/gag/aXP9eg6)
- - 💣 [You have said it, Joe! Thank you.](http://9gag.com/gag/aNDn2jr)
- - 😝 [In the Original Cinderella story, Stepsister cut their Toes to fit in the Sandal](http://9gag.com/gag/aMVGyRM)
- - 👉 [Catch](http://9gag.com/gag/a9y7BMj)<!-- MEMES:END -->
+ - 😝 [Oh Yeah...](http://9gag.com/gag/aD2oP5G)
+ - 😝 [Civic education lesson. Education is important.](http://9gag.com/gag/a2vmj8Z)
+ - 💣 [And they lost their job](http://9gag.com/gag/a9y7VMW)
+ - 😝 [There&#39;s nothing you can do. Leave guys](http://9gag.com/gag/aW46NNq)
+ - 👉 [An award already?](http://9gag.com/gag/ajPAdK8)<!-- MEMES:END -->
 
 ---
 

@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nope](http://9gag.com/gag/axyjY9M)
- - 😝 [Catch](http://9gag.com/gag/a9y7BMj)
- - 💣 [Back &amp; forth](http://9gag.com/gag/a2vmGwO)
- - 😝 [Yes he is](http://9gag.com/gag/aXP9eg6)
- - 👉 [Don&#39;t get drunk on office party](http://9gag.com/gag/aKGqN1g)<!-- MEMES:END -->
+ - 😝 [This is probably how our dreams actually looks like](http://9gag.com/gag/aYQeRYx)
+ - 😝 [Oh Yeah...](http://9gag.com/gag/aD2oP5G)
+ - 💣 [Civic education lesson. Education is important.](http://9gag.com/gag/a2vmj8Z)
+ - 😝 [Diversity goes brrr](http://9gag.com/gag/aYQed3w)
+ - 👉 [And they lost their job](http://9gag.com/gag/a9y7VMW)<!-- MEMES:END -->
 
 ---
 

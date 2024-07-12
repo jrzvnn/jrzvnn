@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta drops restrictions on Trump’s Facebook and Instagram accounts](https://www.theverge.com/2024/7/12/24197475/donald-trump-facebook-account-restrictions-dropped-meta-instagram)
  - [OpenAI is plagued by safety concerns](https://www.theverge.com/2024/7/12/24197142/openai-safety-concerns-agi)
  - [19 Best Early Amazon Prime Day Deals &lpar;2024&rpar;](https://www.wired.com/story/best-early-amazon-prime-day-deals-2024/)
  - [Now your iPhone can have a Notes app and a note pad](https://www.theverge.com/2024/7/12/24197251/moft-snap-flow-notepad-magsafe-iphone-accessory)
- - [The Sixth Circuit US Court of Appeals puts the FCC&#39;s reinstatement of net neutrality rules on hold until August 5 as it considers industry legal challenges &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/240712/p24#a240712p24)
- - [Sources: John Binns, a US citizen who was previously arrested in Turkey, is linked to the AT&amp;T data breach; the AT&amp;T data was lifted from a Snowflake instance &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/240712/p23#a240712p23)<!-- TECH:END -->
+ - [The Sixth Circuit US Court of Appeals puts the FCC&#39;s reinstatement of net neutrality rules on hold until August 5 as it considers industry legal challenges &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/240712/p24#a240712p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

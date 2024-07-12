@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Rabbit R1 has been logging users’ chats — with no way to wipe them](https://www.theverge.com/2024/7/12/24197073/rabbit-r1-user-chat-logs-security-issue-july-11th-update)
+ - [The compliance countdown has started for AI companies operating in the EU](https://www.theverge.com/2024/7/12/24197058/eu-ai-act-regulations-bans-deadline)
+ - [Tesla Model 3 Long Range with rear-wheel drive reemerges at $42,490](https://www.theverge.com/2024/7/12/24197130/tesla-model-3-long-range-rwd-price-range)
  - [This is how much hotter urban sprawl makes US cities feel](https://www.theverge.com/24195351/city-heat-map-study-climate-central)
- - [India&#39;s antitrust regulator accuses Apple of abusing its market dominance](https://appleinsider.com/articles/24/07/12/indias-antitrust-regulator-accuses-apple-of-abusing-its-market-dominance?utm_medium=rss)
- - [Captain America: Brave New World sends an Avenger to Washington in new trailer](https://www.theverge.com/24197093/captain-america-brave-new-world-trailer)
- - [MacPaw introduces on-device phishing detection to boost macOS security](https://appleinsider.com/articles/24/07/12/macpaw-introduces-on-device-phishing-detection-to-boost-macos-security?utm_medium=rss)
- - [Amazon says its AI-powered shopping assistant Rufus is now live in the Amazon mobile app for all US customers, after launching in beta in February 2024 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240712/p12#a240712p12)<!-- TECH:END -->
+ - [India&#39;s antitrust regulator accuses Apple of abusing its market dominance](https://appleinsider.com/articles/24/07/12/indias-antitrust-regulator-accuses-apple-of-abusing-its-market-dominance?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

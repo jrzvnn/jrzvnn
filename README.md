@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This is how much hotter urban sprawl makes US cities feel](https://www.theverge.com/24195351/city-heat-map-study-climate-central)
+ - [India&#39;s antitrust regulator accuses Apple of abusing its market dominance](https://appleinsider.com/articles/24/07/12/indias-antitrust-regulator-accuses-apple-of-abusing-its-market-dominance?utm_medium=rss)
+ - [Captain America: Brave New World sends an Avenger to Washington in new trailer](https://www.theverge.com/24197093/captain-america-brave-new-world-trailer)
  - [MacPaw introduces on-device phishing detection to boost macOS security](https://appleinsider.com/articles/24/07/12/macpaw-introduces-on-device-phishing-detection-to-boost-macos-security?utm_medium=rss)
- - [Amazon says its AI-powered shopping assistant Rufus is now live in the Amazon mobile app for all US customers, after launching in beta in February 2024 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240712/p12#a240712p12)
- - [A Side Sleeper Tests and Reviews Popular Body Pillows &lpar;2024&rpar;](https://www.wired.com/gallery/best-body-pillows-for-side-sleepers/)
- - [New York-based Standard Bots, which makes AI-powered robotic arms, raised $63M over a series of deals, including a $39M Series B led by General Catalyst &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/240712/p11#a240712p11)
- - [AT&amp;T breach leaked call and text records from ‘nearly all’ wireless customers](https://www.theverge.com/2024/7/12/24197052/att-data-breach-call-text-records-hack)<!-- TECH:END -->
+ - [Amazon says its AI-powered shopping assistant Rufus is now live in the Amazon mobile app for all US customers, after launching in beta in February 2024 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/240712/p12#a240712p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

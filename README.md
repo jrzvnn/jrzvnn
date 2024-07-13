@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Arkham: the German government appears to have sold its last bitcoin on July 12, after authorities seized ~50K bitcoin, worth $2B+, in January 2024 from suspects &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/240713/p3#a240713p3)
  - [China accounts for 40%+ of sales at Applied Materials and Lam Research, as they boost shipments of legacy chipmaking equipment not targeted by US export curbs &lpar;Kosuke Shimizu/Nikkei Asia&rpar;](http://www.techmeme.com/240713/p2#a240713p2)
  - [Hashed: 1M+ memecoins have been created on Pump.fun, a platform based on the Solana and Blast blockchains, generating $50M+ in revenue since its January launch &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/240713/p1#a240713p1)
  - [New Zealand vs. England: How to Watch a Summer International 2024 2nd Test Rugby Livestream](https://www.cnet.com/tech/services-and-software/new-zealand-vs-england-how-to-watch-a-summer-internationals-2024-2nd-test-rugby-livestream/#ftag=CAD590a51e)
- - [Amazon Prime Day Live Blog: Shop the Best Deals We&#39;ve Found So Far On TVs, Laptops and More](https://www.cnet.com/tech/best-prime-day-deals-live/#ftag=CAD590a51e)
- - [Here&#39;s How to Get an Instant $200 Amazon Gift Card for Prime Day](https://www.cnet.com/personal-finance/heres-how-to-get-an-instant-200-dollar-amazon-gift-card-for-prime-day/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon Prime Day Live Blog: Shop the Best Deals We&#39;ve Found So Far On TVs, Laptops and More](https://www.cnet.com/tech/best-prime-day-deals-live/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

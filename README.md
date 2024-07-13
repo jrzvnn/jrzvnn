@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In 2007, Jennifer Strange competed in a radio station&#39;s on-air water-drinking contest named `Hold Your Wee for a Wii`. She won, and unfortunately died 3 hours later of water intoxication](http://9gag.com/gag/agmVZ46)
- - 😝 [Regret](http://9gag.com/gag/amo9y34)
- - 💣 [Breaking hearts quicker than Boeing breaks parts.](http://9gag.com/gag/a2vmAMO)
- - 😝 [Simple as that..](http://9gag.com/gag/aE07Nyn)
- - 👉 [This guy desperately needs OSHA](http://9gag.com/gag/aByYNdx)<!-- MEMES:END -->
+ - 😝 [This guy desperately needs OSHA](http://9gag.com/gag/aByYNdx)
+ - 😝 [You have said it, Joe! Thank you.](http://9gag.com/gag/aNDn2jr)
+ - 💣 [In 2007, Jennifer Strange competed in a radio station&#39;s on-air water-drinking contest named `Hold Your Wee for a Wii`. She won, and unfortunately died 3 hours later of water intoxication](http://9gag.com/gag/agmVZ46)
+ - 😝 [Don&#39;t get drunk on office party](http://9gag.com/gag/aKGqN1g)
+ - 👉 [Attention! degenerates](http://9gag.com/gag/aRBAyLy)<!-- MEMES:END -->
 
 ---
 

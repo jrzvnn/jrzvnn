@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I go to Japan](http://9gag.com/gag/aYQeZbw)
- - 😝 [Disappointed parent](http://9gag.com/gag/a87MXXO)
- - 💣 [Men in love...](http://9gag.com/gag/ae9GEM5)
+ - 😝 [Is he right?](http://9gag.com/gag/a9y74mZ)
  - 😝 [Terrible crime](http://9gag.com/gag/an7N35z)
- - 👉 [Don&#39;t get drunk on office party](http://9gag.com/gag/aKGqN1g)<!-- MEMES:END -->
+ - 💣 [My fellow passport bros...](http://9gag.com/gag/aKGqnGj)
+ - 😝 [This guy desperately needs OSHA](http://9gag.com/gag/aByYNdx)
+ - 👉 [I go to Japan](http://9gag.com/gag/aYQeZbw)<!-- MEMES:END -->
 
 ---
 

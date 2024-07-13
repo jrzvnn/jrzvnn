@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In 2007, Jennifer Strange competed in a radio station&#39;s on-air water-drinking contest named `Hold Your Wee for a Wii`. She won, and unfortunately died 3 hours later of water intoxication](http://9gag.com/gag/agmVZ46)
- - 😝 [My fellow passport bros...](http://9gag.com/gag/aKGqnGj)
+ - 😝 [This guy desperately needs OSHA](http://9gag.com/gag/aByYNdx)
+ - 😝 [Member when we memed that companies would start doing that sh*t?](http://9gag.com/gag/aD2oPy7)
  - 💣 [I spent too much time making this, but I hope it gives you good vibes](http://9gag.com/gag/aNDn224)
- - 😝 [The AFER Housing Development Constanta, Romania, Built in 1987.](http://9gag.com/gag/aAy17m0)
- - 👉 [This guy desperately needs OSHA](http://9gag.com/gag/aByYNdx)<!-- MEMES:END -->
+ - 😝 [Supporter breaks corner post on goalkeeper&#39;s back.](http://9gag.com/gag/a2vmx6E)
+ - 👉 [Men in love...](http://9gag.com/gag/ae9GEM5)<!-- MEMES:END -->
 
 ---
 

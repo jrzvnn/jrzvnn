@@ -159,11 +159,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Delta 1.6 classic game emulator now available for iPad](https://appleinsider.com/articles/24/07/13/delta-16-classic-game-emulator-now-available-for-ipad?utm_medium=rss)
  - [Save $50 on a Ninja Creami With This Early Amazon Prime Day Deal](https://www.cnet.com/deals/ninja-creami-ice-cream-maker-for-50-off-prime-day/#ftag=CAD590a51e)
  - [Amazon Prime Day Live Blog: The Best Deals We Found So Far on Tech, Home, TVs and More](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-13/#ftag=CAD590a51e)
  - [Prime Day Gaming Deals: Save on Nintendo Switch, PS5 Games and More](https://www.cnet.com/deals/best-prime-day-gaming-deals-2024-07-13/#ftag=CAD590a51e)
- - [Today Only: Save $200 on a 42-Inch LG OLED Evo TV at Best Buy](https://www.cnet.com/deals/today-only-save-200-on-a-42-inch-lg-oled-evo-tv-at-best-buy/#ftag=CAD590a51e)
- - [This Prime Day Electric Standing Desk Deal Drops 34% Off if you Act Fast](https://www.cnet.com/deals/prime-day-electric-standing-desk-with-adjustable-height-at-34-off/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today Only: Save $200 on a 42-Inch LG OLED Evo TV at Best Buy](https://www.cnet.com/deals/today-only-save-200-on-a-42-inch-lg-oled-evo-tv-at-best-buy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

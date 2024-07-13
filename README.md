@@ -168,11 +168,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Interruption and attention.](http://9gag.com/gag/axyj4Lp)
- - 😝 [Japan, never change.](http://9gag.com/gag/axyjezn)
- - 💣 [Back &amp; forth](http://9gag.com/gag/a2vmGwO)
- - 😝 [The worst she could say is no. &#39;Yeah&#39;](http://9gag.com/gag/aMVG01A)
- - 👉 [9gaggers](http://9gag.com/gag/aPADzZQ)<!-- MEMES:END -->
+ - 😝 [Women](http://9gag.com/gag/aAy1N30)
+ - 😝 [I spent too much time making this, but I hope it gives you good vibes](http://9gag.com/gag/aNDn224)
+ - 💣 [11 Things People Learn Too Late in Life](http://9gag.com/gag/aNDn8qG)
+ - 😝 [Engineering honda](http://9gag.com/gag/awyxvyB)
+ - 👉 [Yes he is](http://9gag.com/gag/aXP9eg6)<!-- MEMES:END -->
 
 ---
 
